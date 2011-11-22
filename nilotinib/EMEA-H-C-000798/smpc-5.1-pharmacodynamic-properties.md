@@ -36,7 +36,6 @@ The primary efficacy endpoint was major molecular response (MMR) at 12 months.
 MMR was defined as ≤0.1% Bcr-Abl/Abl % by international scale measured by RQ-PCR, which corresponds to a ≥3 log reduction of Bcr-Abl transcript from standardised baseline.
 The MMR rate at 12 months was statistically significantly higher for nilotinib 300 mg twice daily compared to imatinib 400 mg once daily (44.3% versus 22.3%, p<0.0001).
 The rate of MMR at 12 months, was also statistically significantly higher for nilotinib 400 mg twice daily compared to imatinib 400 mg once daily (42.7% versus 22.3%, p<0.0001).
-
 The rates of MMR at 3, 6, 9 and 12 months were 8.9%, 33.0%, 43.3% and 44.3% for nilotinib 300 mg twice daily, 5.0%, 29.5%, 38.1% and 42.7% for nilotinib 400 mg twice daily and 0.7%, 12.0%, 18.0% and 22.3% for imatinib 400 mg once daily.
 
 The MMR rate at 24 months was higher in the nilotinib 300 mg twice daily group compared to the imatinib 400 mg once daily group (61.7% versus 37.5%) as well as in the nilotinib 400 mg twice daily arm compared to the imatinib arm (59.1% versus 37.5%).
@@ -53,11 +52,11 @@ The proportion of patients achieving Bcr-Abl ratio of ≤0.01% (4-log reduction)
 The proportion of patients achieving Bcr-Abl ratio of ≤0.0032% (4.5-log reduction) by 24 months (includes patients who achieved response at or before 24 months time point as responders) was statistically significantly higher in the nilotinib 300 mg twice daily group compared to the imatinib 400 mg once daily group (24.8% versus 8.8%, p<0.0001) as well as in the nilotinib 400 mg twice daily arm compared to the imatinib arm (18.9% versus 8.8%, p=0.0006).
 
 For all Sokal risk groups, the response rates were higher for both nilotinib at 300 mg and 400 mg twice daily than for imatinib 400 mg once daily.
+
 MMR was achieved at 12 months and maintained at 24 months without loss of MMR in between in 42% (95% CI: 36.0-47.8%) of patients in the nilotinib 300 mg twice daily group, 39% (95% CI: 33.4-45.1%) of patients in the nilotinib 400 mg twice daily group and 20% (95% CI: 15.9-25.7%) of patients in the imatinib arm (p<0.0001).
 Of the patients achieving an MMR at 12 months, 93% in the nilotinib arm and 92% in the imatinib arm maintained their MMR at 24 months.
 
 Based on Kaplan-Meier estimates, the proportions of patients who achieved MMR and were maintaining response after 24 months were 95.9% (95% CI: 92.9-98.9%) in the nilotinib 300 mg twice daily group, 96.5% (95% CI: 93.8-99.3%) in the nilotinib 400 mg twice daily group and 91.7% (95% CI: 85.5-98.0%) in the imatinib 400 mg once daily group.
-
 Table 5 Major molecular response (MMR) rate
 
 |  | Tasigna (nilotinib) AMN107 300 mg twice daily n=282 (%) | Tasigna (nilotinib) AMN107 400 mg twice daily n=281 (%) | Glivec (imatinib) STI571 400 mg once daily n=283 (%) |
@@ -72,6 +71,7 @@ Table 5 Major molecular response (MMR) rate
 | CMH* test p-value for response rate (versus imatinib 400 mg once daily) | <0.0001 | <0.0001 |  |
 
 *CMH = Cochran-Mantel-Haenszel
+
 Figure 1 Kaplan-Meier estimate of time to first major molecular response (MMR)
 
 Patient Event Censored
@@ -108,8 +108,8 @@ At-risk : Events
 
 Complete cytogenetic response (CCyR) was defined as 0% Ph+ metaphases in the bone marrow based on a minimum of 20 metaphases evaluated.
 Best CCyR rate by 12 months (including patients who achieved CCyR at or before the 12 month time point as responders) was statistically higher for both nilotinib 300 mg and 400 mg twice daily compared to imatinib 400 mg once daily.
-
 CCyR rate by 24 months (includes patients who achieved CCyR at or before the 24 month time point as responders) was statistically higher for both the nilotinib 300 mg twice daily and 400 mg twice daily groups compared to the imatinib 400 mg once daily group.
+
 Table 6 Best complete cytogenetic response (CCyR) rate
 
 |  | Tasigna (nilotinib) 300 mg twice daily n=282 (%) | Tasigna (nilotinib) 400 mg twice daily n=281 (%) | Glivec (imatinib) 400 mg once daily n=283 (%) |
@@ -139,6 +139,7 @@ A total of 26 patients died during treatment or during the follow-up after disco
 Eighteen of these 26 deaths were related to CML (5 in the nilotinib 300 mg twice daily group, 3 in the nilotinib 400 mg twice daily group and 10 in the imatinib 400 mg once daily group).
 The estimated rates of patients alive at 24 months were 97.4%, 97.8% and 96.3%, respectively (p=0.6485 between nilotinib 300 mg twice daily and imatinib, p=0.2125 between nilotinib 400 mg twice daily and imatinib).
 Considering only CML-related deaths as events, the estimated rates of overall survival at 24 months were 98.9%, 98.9% and 96.7%, respectively (p=0.1930 between nilotinib 300 mg twice daily and imatinib, p=0.0485 between nilotinib 400 mg twice daily and imatinib).
+
 Paediatric population
 The European Medicines Agency has deferred the obligation to submit the results of studies with Tasigna in paediatric patients from birth to less then 18 years in the treatment of Philadelphia chromosome positive chronic myeloid leukaemia (see 4.2 for information on paediatric use).
 
@@ -184,7 +185,6 @@ Table 8 CML disease history characteristics
 The primary endpoint in the CP patients was major cytogenetic response (MCyR), defined as elimination (CCyR, complete cytogenetic response) or significant reduction to <35% Ph+ metaphases (partial cytogenetic response) of Ph+ haematopoietic cells.
 Complete haematological response (CHR) in CP patients was evaluated as a secondary endpoint.
 The primary endpoint in the AP patients was overall confirmed haematological response (HR), defined as either a complete haematological response, no evidence of leukaemia or return to chronic phase.
-
 Chronic Phase
 The MCyR rate in 321 CP patients was 51%.
 Most responders achieved their MCyR rapidly within 3 months (median 2.8 months) of starting Tasigna treatment and these were sustained.
@@ -205,6 +205,7 @@ MCyR rate was 30% with a median time to response of 2.8 months.
 Of the patients who achieved MCyR, 63% (95% CI: 45% - 80%) were maintaining response at 24 months.
 Median duration of MCyR was 32.7 months.
 The estimated 24-month overall survival rate in CML-AP patients was 70%.
+
 The rates of response for the two treatment arms are reported in Table 9.
 
 Table 9 Response in CML

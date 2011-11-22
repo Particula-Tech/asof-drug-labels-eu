@@ -1,6 +1,6 @@
 # 5.3 Preclinical safety data
 
-Nilotinib has been evaluated in safety pharmacology, repeated dose toxicity, genotoxicity, reproductive toxicity and phototoxicity studies.
+Nilotinib has been evaluated in safety pharmacology, repeated dose toxicity, genotoxicity, reproductive toxicity, phototoxicity studies and a rat carcinogenicity study.
 
 Nilotinib did not have effects on CNS or respiratory functions.
 In vitro cardiac safety studies demonstrated a preclinical signal for QT prolongation, based upon block of hERG currents and prolongation of the action potential duration in isolated rabbit hearts by nilotinib.
@@ -12,6 +12,10 @@ In general the changes in clinical chemistry were fully reversible after a four-
 Exposures at the lowest dose levels at which the liver effects were seen were lower than the exposure in humans at a dose of 800 mg/day.
 Only minor liver alterations were seen in mice or rats treated for up to 26 weeks.
 Mainly reversible increases in cholesterol levels were seen in rats, dogs and monkeys.
+
+In the 2-year rat carcinogenicity study, the major target organ for non-neoplastic lesions was the uterus (dilatation, vascular ectasia, endothelial cell hyperplasia, inflammation and/or epithelial hyperplasia).
+There was no evidence of carcinogenicity upon administration of nilotinib at 5, 15 and 40 mg/kg/day.
+Exposures (in terms of AUC) at the highest dose level represented approximately 2x to 3x human daily steady-state exposure (based on AUC) to nilotinib at the dose of 800 mg/day.
 
 Genotoxicity studies in bacterial in vitro systems and in mammalian in vitro and in vivo systems with and without metabolic activation did not reveal any evidence for a mutagenic potential of nilotinib.
 
@@ -28,8 +32,5 @@ The juvenile animals did not exert increased sensitivity to nilotinib relative t
 In addition, the toxicity profile in juvenile rats was comparable to that observed in adult rats.
 
 No effects on sperm count/motility or on fertility were noted in male and female rats up to the highest tested dose, approximately 5 times the recommended dosage for humans.
-
 Nilotinib was shown to absorb light in the UV-B and UV-A range, is distributed into the skin and showed a phototoxic potential in vitro, but no effects have been observed in vivo.
 Therefore the risk that nilotinib causes photosensitisation in patients is considered very low.
-
-Carcinogenicity studies with nilotinib have not been performed.

@@ -18,6 +18,7 @@ QTcF increase from baseline exceeding 60 msec was observed in <1% of patients wh
 No sudden deaths or episodes of torsade de pointes (transient or sustained) were observed.
 No decrease from baseline in mean left ventricular ejection fraction (LVEF) was observed at any time during treatment.
 No patient had a LVEF of <45% during treatment nor an absolute reduction in LVEF of more than 15%.
+
 Non-haematological adverse reactions (excluding laboratory abnormalities) that are reported in at least 5% of the patients treated with 300 mg of nilotinib twice daily in the randomised Phase III study are shown in Table 2.
 These are ranked under heading of frequency using the following convention: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000); not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
@@ -66,6 +67,7 @@ Not known: febrile neutropenia, eosinophilia.
 
 Immune system disorders:
 Not known: hypersensitivity.
+
 Endocrine disorders:
 Not known: hyperparathyroidism secondary.
 
@@ -90,7 +92,6 @@ Not known: periorbital oedema, eye irritation, blepharitis, eye pain, chorioreti
 
 Ear and labyrinth disorders:
 Common: vertigo.
-
 Cardiac disorders*:
 Common: arrhythmia (including tachycardia, atrial fibrillation, ventricular extrasystoles, sinus bradycardia), electrocardiogram QT prolonged, palpitations.
 Uncommon: angina pectoris, cyanosis.
@@ -114,6 +115,7 @@ Hepatobiliary disorders:
 Common: hepatic function abnormal.
 Uncommon: hepatitis, jaundice.
 Not known: hepatotoxicity.
+
 Skin and subcutaneous tissue disorders:
 Common: erythema, hyperhidrosis, contusion, acne, dermatitis (including allergic and acneiform), night sweats.
 Uncommon: drug eruption, skin pain.
@@ -134,7 +136,6 @@ General disorders and administration site conditions:
 Common: pyrexia, chest pain (including non-cardiac chest pain), chest discomfort.
 Uncommon: chills, feeling body temperature change (including feeling hot, feeling cold).
 Not known: face oedema, malaise, localised oedema.
-
 Investigations:
 Common: haemoglobin decreased, platelet count decreased, blood amylase increased, blood alkaline phosphatase increased, weight increased.
 Uncommon: neutrophil count decreased, blood phosphorus decreased, gamma-glutamyltransferase increased.
@@ -186,6 +187,7 @@ Gastrointestinal and CNS haemorrhage were reported in 1% and <1% of patients, re
 
 QTcF exceeding 500 msec was observed in <1% of patients.
 No episodes of torsade de pointes (transient or sustained) were observed.
+
 Most frequently reported adverse reactions in Tasigna clinical studies
 Non-haematological adverse reactions (excluding laboratory abnormalities) that are reported in at least 5% of the patients in Tasigna clinical studies are shown in Table 2.
 These are ranked under heading of frequency using the following convention: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000); not known [cannot be estimated from the available data].
@@ -239,10 +241,10 @@ Not known: hyperuricaemia, gout, hypoglycaemia, dyslipidaemia.
 
 Common: depression, insomnia, anxiety.
 Not known: disorientation, confusional state, amnesia, dysphoria.
-
 Common: dizziness, peripheral neuropathy, hypoaesthesia, paraesthesia.
 Uncommon: intracranial haemorrhage, migraine, loss of consciousness (including syncope), tremor, disturbance in attention, hyperaesthesia.
 Not known: brain oedema, optic neuritis, lethargy, dysaesthesia, restless legs syndrome.
+
 Common: eye haemorrhage, periorbital oedema, eye pruritus, conjunctivitis, dry eye.
 Uncommon: visual impairment, vision blurred, visual acuity reduced, eyelid oedema, photopsia, hyperaemia (scleral, conjunctival, ocular), eye irritation.
 Not known: papilloedema, chorioretinopathy, diplopia, photophobia, eye swelling, blepharitis, eye pain, conjunctival haemorrhage, conjunctivitis allergic, ocular surface disease.
@@ -271,17 +273,16 @@ Not known: cholestasis, hepatomegaly.
 Common: night sweats, eczema, urticaria, erythema, hyperhidrosis, contusion, acne, dermatitis (including allergic and acneiform), dry skin.
 Uncommon: exfoliative rash, drug eruption, skin pain, ecchymosis, swelling face.
 Not known: erythema multiforme, erythema nodosum, skin ulcer, palmar-plantar erythrodysaesthesia syndrome, petechiae, photosensitivity, blister, dermal cysts, sebaceous hyperplasia, skin atrophy, skin discolouration, skin exfoliation, skin hyperpigmentation, skin hypertrophy.
-
 Common: musculoskeletal chest pain, musculoskeletal pain, back pain, flank pain.
 Uncommon: musculoskeletal stiffness, pain, muscular weakness, joint swelling.
 Not known: arthritis.
+
 Common: pollakiuria.
 Uncommon: dysuria, micturition urgency, nocturia.
 Not known: renal failure, haematuria, urinary incontinence, chromaturia.
 
 Uncommon: breast pain, gynaecomastia, erectile dysfunction.
 Not known: breast induration, menorrhagia, nipple swelling.
-
 Common: chest pain (including non-cardiac chest pain), pain (including neck pain and back pain), pyrexia, chest discomfort, malaise.
 Uncommon: face oedema, gravitational oedema, influenza-like illness, chills, feeling body temperature change (including feeling hot, feeling cold).
 Not known: localised oedema.

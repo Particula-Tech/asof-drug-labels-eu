@@ -6,7 +6,6 @@ Posology
 The recommended dose of Tasigna is 300 mg twice daily.
 Treatment should be continued as long as the patient continues to benefit.
 For a dose of 400 mg once daily (see dose adjustments below), 200 mg capsules are available.
-
 Dose adjustments or modifications
 Tasigna may need to be temporarily withheld and/or dose reduced for haematological toxicities (neutropenia, thrombocytopenia) that are not related to the underlying leukaemia (see Table 1).
 
@@ -24,6 +23,7 @@ reduction to 400 mg once daily may
 be required.
 
 *ANC = absolute neutrophil count
+
 If clinically significant moderate or severe non-haematological toxicity develops, dosing should be interrupted, and may be resumed at 400 mg once daily once the toxicity has resolved.
 If clinically appropriate, re-escalation of the dose to 300 mg twice daily should be considered.
 
@@ -53,7 +53,6 @@ However, patients with hepatic impairment should be treated with caution (see se
 Cardiac disorders
 In clinical studies, patients with uncontrolled or significant cardiac disease (e.g. recent myocardial infarction, congestive heart failure, unstable angina or clinically significant bradycardia) were excluded.
 Caution should be exercised in patients with relevant cardiac disorders (see section 4.4).
-
 Method of administration
 Tasigna should be taken twice daily approximately 12 hours apart and must not be taken with food.
 The capsules should be swallowed whole with water.

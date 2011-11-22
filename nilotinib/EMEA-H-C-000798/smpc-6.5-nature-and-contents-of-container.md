@@ -2,10 +2,10 @@
 
 PVC/PVDC/Al blisters.
 
-Tasigna is available in weekly and monthly packs:
+Tasigna is available in the following pack sizes:
 
-- The weekly pack contains 28 capsules (7 daily blisters, each containing 4 capsules).
-- The monthly pack contains 112 capsules (4 individual weekly packs, each containing 28 capsules).
+- Unit packs containing 28 capsules (7 daily blisters, each containing 4 capsules) or 40 capsules (5 blisters, each containing 8 capsules).
+- Multipacks containing 112 capsules (4 intermediate cartons, each containing 28 capsules) or 120 capsules (3 intermediate cartons, each containing 40 capsules).
 
 Not all pack sizes may be marketed.
 
@@ -13,5 +13,5 @@ Not all pack sizes may be marketed.
 
 PVC/PVDC/Al and PA/Al/PVC/Al blisters.
 
-- The weekly pack contains 28 capsules in a wallet or in 7 daily blisters, each containing 4 capsules.
-- The monthly pack contains 112 capsules (4 individual weekly wallets or cartons, each containing 28 capsules).
+- Unit packs containing 28 capsules in a wallet.
+- Multipacks containing 112 capsules (4 intermediate wallets, each containing 28 capsules).

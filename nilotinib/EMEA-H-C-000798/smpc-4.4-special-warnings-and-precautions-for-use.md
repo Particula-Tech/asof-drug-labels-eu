@@ -21,7 +21,6 @@ In particular, no episodes of torsade de pointes (transient or sustained) were o
 Significant prolongation of the QT interval may occur when nilotinib is inappropriately taken with strong CYP3A4 inhibitors and/or medicinal products with a known potential to prolong QT, and/or food (see section 4.5).
 The presence of hypokalaemia and hypomagnesaemia may further enhance this effect.
 Prolongation of the QT interval may expose patients to the risk of fatal outcome.
-
 Tasigna should be used with caution in patients who have or who are at significant risk of developing prolongation of QTc, such as those:
 
 - with congenital long QT prolongation
@@ -41,6 +40,7 @@ Interactions with other medicinal products
 The administration of Tasigna with agents that are strong CYP3A4 inhibitors (including, but not limited to, ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir) should be avoided.
 Should treatment with any of these agents be required, it is recommended that therapy with Tasigna be interrupted if possible (see section 4.5).
 If transient interruption of treatment is not possible, close monitoring of the individual for prolongation of the QT interval is indicated (see sections 4.2, 4.5 and 5.2).
+
 Concomitant use of Tasigna with medicinal products that are potent inducers of CYP3A4 (e.g. phenytoin, rifampicin, carbamazepine, phenobarbital and St. John’s Wort) is likely to reduce exposure to nilotinib to a clinically relevant extent.
 Therefore, in patients receiving Tasigna, co-administration of alternative therapeutic agents with less potential for CYP3A4 induction should be selected (see section 4.5).
 
@@ -64,7 +64,6 @@ Serum lipase
 Elevation in serum lipase has been observed.
 Caution is recommended in patients with previous history of pancreatitis.
 In case lipase elevations are accompanied by abdominal symptoms, Tasigna should be interrupted and appropriate diagnostic measures considered to exclude pancreatitis.
-
 Total gastrectomy
 The bioavailability of nilotinib might be reduced in patients with total gastrectomy (see section 5.2).
 More frequent follow-up of these patients should be considered.
