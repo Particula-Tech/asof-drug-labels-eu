@@ -130,9 +130,10 @@ Reproductive system and breast disorders
 
 Common Erectile dysfunction
 Uncommon Ejaculation delayed, sexual dysfunction
-Rare Amenorrhoea, breast discharge, breast pain, dysmenorrhoea,
+Rare Amenorrhoea, breast discharge, breast pain, dysmenorrhoea, breast
 
-hypertrophy breast
+enlargement
+Frequency not known Gynaecomastia
 General disorders and administration site conditions
 
 Common Gait abnormal, feeling drunk, fatigue, oedema peripheral, oedema
@@ -149,7 +150,9 @@ increased, aspartate aminotransferase increased, platelet count decreased
 
 Rare Blood glucose increased, blood potassium decreased, white blood
 
-cell count decreased, blood creatinine increased, weight decreased After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed in some patients.
+cell count decreased, blood creatinine increased, weight decreased
+
+After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed in some patients.
 The following reactions have been mentioned: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, pain, hyperhidrosis and dizziness.
 The patient should be informed about this at the start of the treatment.
 
@@ -161,15 +164,15 @@ In the table below all adverse reactions, which occurred at an incidence greater
 
 Rare Generalised oedema,pyrexia
 
+cell count decreased, blood creatinine increased, weight decreased After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed in some patients.
+
 [LYRICA 75 mg hard capsules]
 
 The following reactions have been mentioned: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, pain, hyperhidrosis, and dizziness.
 
 [LYRICA 100 mg hard capsules]
 
-cell count decreased, blood creatinine increased, weight decreased
-
-After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed in some patients.
+(all sentences already above)
 
 [LYRICA 150 mg hard capsules]
 

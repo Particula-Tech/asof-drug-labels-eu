@@ -11,7 +11,6 @@ The rate of pregabalin absorption is decreased when given with food resulting in
 However, administration of pregabalin with food has no clinically significant effect on the extent of pregabalin absorption.
 
 Distribution:
-
 In preclinical studies, pregabalin has been shown to cross the blood brain barrier in mice, rats, and monkeys.
 Pregabalin has been shown to cross the placenta in rats and is present in the milk of lactating rats.
 In humans, the apparent volume of distribution of pregabalin following oral administration is approximately 0.56 l/kg.
