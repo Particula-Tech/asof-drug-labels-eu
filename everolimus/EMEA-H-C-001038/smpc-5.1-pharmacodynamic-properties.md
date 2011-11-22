@@ -39,25 +39,25 @@ review (11.17, 18.79) (5.39, 8.31) (0.28, 0.51)
 
 Figure 1 RADIANT-3 – KaplanMeier progression-free survival curves
 
-10
+100
 Hazard Ratio = 0.35
 95% CI [0.27, 0.45]
-9 Logrank p value = <0.001 Kaplan-Meier medians 8 Afinitor : 11.04 months Placebo : 4.60 months 7 Censoring times Afinitor (n=207) Placebo (n=203)
-6
+90 Logrank p value = <0.001 Kaplan-Meier medians 80 Afinitor : 11.04 months Placebo : 4.60 months 70 Censoring times Afinitor (n=207) Placebo (n=203)
+60
 
-5
+50
 
-4
+40
 
-3
+30
 
-2
+20
 
-1
+10
 
 0
 
-0 2 4 6 8 1 1 1 1 1 2 2 2 2 2 3
+0 2 4 6 8 10 12 14 16 18 20 22 24 26 28 30
 
 Time (months)
 No. of patients still at risk

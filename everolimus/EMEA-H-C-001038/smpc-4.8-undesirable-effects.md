@@ -8,11 +8,9 @@ The respective exposure in the phase III studies was:
   In total, 63 (30.9%) patients were exposed to everolimus 10 mg/day for ≥52 weeks.
   The rates of adverse reactions resulting in permanent discontinuation were 13.7% and 2.0% for the everolimus and placebo treatment groups, respectively.
 - RECORD-1 (CRAD001C2240): everolimus plus best supportive care in patients with metastatic renal cell carcinoma.
-  In total, 165 patients were exposed to everolimus 10 mg/day for
-
-≥4 months.
-The rates of adverse reactions resulting in permanent discontinuation were 7% and 0% for the everolimus and placebo treatment groups, respectively.
-Most adverse reactions were grade 1 or 2 in severity.
+  In total, 165 patients were exposed to everolimus 10 mg/day for ≥4 months.
+  The rates of adverse reactions resulting in permanent discontinuation were 7% and 0% for the everolimus and placebo treatment groups, respectively.
+  Most adverse reactions were grade 1 or 2 in severity.
 
 The most frequent grade 3-4 adverse reactions (incidence ≥2% in at least one pivotal study) were anaemia, fatigue, diarrhoea, infections, stomatitis, hyperglycaemia, thrombocytopenia, lymphopenia, neutropenia, hypophosphataemia, hypercholesterolaemia, diabetes mellitus, and pneumonitis.
 The grades follow CTCAE Version 3.0.
@@ -59,7 +57,7 @@ Vascular disorders
 
 Common Hypertension, haemorrhage b
 
-Uncommon Flushing
+Uncommon Flushing, deep vein thrombosis
 Respiratory, thoracic and mediastinal disorders
 Very common Pneumonitis c, dyspnoea, epistaxis, cough
 

@@ -3,11 +3,11 @@
 Everolimus is a substrate of CYP3A4, and also a substrate and moderate inhibitor of PgP.
 Therefore, absorption and subsequent elimination of everolimus may be influenced by products that affect CYP3A4 and/or PgP.
 In vitro, everolimus is a competitive inhibitor of CYP3A4 and a mixed inhibitor of CYP2D6.
+
 Known and theoretical interactions with selected inhibitors and inducers of CYP3A4 and PgP are listed in Table 1 below.
 
 CYP3A4 and PgP inhibitors increasing everolimus concentrations
 Substances that are inhibitors of CYP3A4 or PgP may increase everolimus blood concentrations by decreasing metabolism or the efflux of everolimus from intestinal cells.
-
 CYP3A4 and PgP inducers decreasing everolimus concentrations
 Substances that are inducers of CYP3A4 or PgP may decrease everolimus blood concentrations by increasing metabolism or the efflux of everolimus from intestinal cells.
 
