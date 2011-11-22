@@ -12,7 +12,6 @@ In the original clinical studies (Phase II/III), adverse reactions with possible
 The following adverse reactions of moderate to severe intensity with possible or probable relationship to ritonavir have been reported.
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness: very common (> 1/10); common (> 1/100 to < 1/10); uncommon
 (> 1/1000 to < 1/100); rare(> 1/10,000 to < 1/1,000): not known (cannot be estimated from the available data).
-
 Events noted as having a frequency not known were identified via post-marketing surveillance
 
 | Undesirable effects in clinical studies and post-marketing in adult patients |  |  |
@@ -47,6 +46,7 @@ Events noted as having a frequency not known were identified via post-marketing 
 Hepatic transaminase elevations exceeding five times the upper limit or normal, clinical hepatitis, and jaundice have occurred in patients receiving ritonavir alone or in combination with other antiretrovirals.
 
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump).
+
 Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
 
 In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).

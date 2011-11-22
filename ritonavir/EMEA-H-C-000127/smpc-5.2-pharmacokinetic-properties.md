@@ -33,6 +33,7 @@ Distribution:
 The apparent volume of distribution (VB/F) of ritonavir is approximately 20 - 40 l after a single 600 mg dose.
 The protein binding of ritonavir in human plasma is approximately 98 - 99% and is constant over the concentration range of 1.0 – 100 μg /ml.
 Ritonavir binds to both human alpha 1-acid glycoprotein (AAG) and human serum albumin (HSA) with comparable affinities.
+
 Tissue distribution studies with 14C-labelled ritonavir in rats showed the liver, adrenals, pancreas, kidneys and thyroid to have the highest concentrations of ritonavir.
 Tissue to plasma ratios of approximately 1 measured in rat lymph nodes suggests that ritonavir distributes into lymphatic tissues.
 Ritonavir penetrates minimally into the brain.
@@ -71,7 +72,7 @@ Across dose groups, ritonavir oral clearance (CL/F/m2) declined with age with me
 
 [Norvir 100 mg soft capsules]
 
-(all sentences already above)
+The isopropylthiazole oxidation metabolite (M-2) is the major metabolite and has antiviral activity similar to that of parent compound However, the AUC of the M-2 metabolite was approximately 3% of the AUC of parent compound.
 
 [Norvir 100 mg film-coated tablets]
 

@@ -13,7 +13,7 @@ Adult use:
 Amprenavir 600 mg twice daily with ritonavir 100 mg twice daily
 Atazanavir 300 mg once daily with ritonavir 100 mg once daily
 Fosamprenavir 700 mg twice daily with ritonavir 100 mg twice daily
-Lopinavir co-formulated with ritonavir (lopinavir/ritonavir) 400 mg/100 mg or 800 mg/200mg.
+Lopinavirco-formulated with ritonavir (lopinavir/ritonavir) 400 mg/100 mg or 800 mg/200mg.
 Saquinavir 1000 mg twice daily with ritonavir 100 mg twice daily
 Tipranavir 500 mg twice daily with ritonavir 200 mg twice daily
 Darunavir 600 mg twice daily with ritonavir 100 mg twice daily in antiretroviral treatment (ART) experienced patients
@@ -41,7 +41,7 @@ Patients should not remain on 300 mg twice daily for more than 3 days.
 
 Paediatric use (2 years of age and above): the recommended dosage of Norvir solution in children is 350 mg/m² by mouth twice daily and should not exceed 600 mg twice daily.
 Norvir should be started at 250 mg/m² and increased at 2 to 3 day intervals by 50 mg/m² twice daily.
-The dose should be administered using a calibrated dosing syringe.
+When possible, dose should be administered using a calibrated dosing syringe.
 
 Paediatric Dosage Guidelines
 
@@ -75,7 +75,8 @@ The bitter taste of Norvir solution may be lessened if mixed with chocolate milk
 
 Ritonavir soft capsules are administered orally and should preferably be ingested with food.
 
-Lopinavir co-formulated with ritonavir(lopinavir/ritonavir) 400 mg/100 mg or 800 mg/200 mg Saquinavir 1000 mg twice daily with ritonavir 100 mg twice daily
+Lopinavir co-formulated with ritonavir(lopinavir/ritonavir) 400 mg/100 mg or 800 mg/200 mgSaquinavir 1000 mg twice daily with ritonavir 100 mg twice daily
+For further dosage recommendations, refer to the product information of other Protease Inhibitors approved for co-administation with ritonavir.
 
 Adult use: The recommended dosage of Norvir soft capsules is 600 mg (6 capsules) twice daily by mouth.
 
@@ -95,13 +96,19 @@ Dosage conversion from oral solution to soft capsules for children
 | 437.5 mg (5.5 ml) twice daily | 500 mg in the morning and 400 mg in the evening |
 | 525 mg (6.6 ml) twice daily | 500 mg in the morning and 500 mg in the evening |
 
+Norvir is not recommended in children below 2 years of age due to lack of data on safety and afficacy.
+
+The renal clearance of ritonavir is negligible, therefore, a decrease in the total body clearance is not expected in patients with renal impairment.
+
 [Norvir 100 mg film-coated tablets]
 
 Ritonavir film-coated tablets are administered orally and should be ingested with food (see section 5.2).
 
 Norvir film-coated tablets should be swallowed whole and not chewed, broken or crushed.
 
-Lopinavir co-formulated with ritonavir (lopinavir/ritonavir) 400 mg/100 mg or 800 mg/200 mg Saquinavir 1000 mg twice daily with ritonavir 100 mg twice daily
+When ritonavir is used as a pharmacokinetic enhancer with other protease inhibitors the Summary of Product Characterisitcs for the particular protesed inhibitor must be consulted.
+
+Lopinavir co-formulated with ritonavir(lopinavir/ritonavir 400 mg/100 mg or 800 mg/200 mg Saquinavir 1000 mg twice daily with ritonavir 100 mg twice daily
 
 Hepatic impairment: Ritonavir should not be given as a pharmacokinetic enhancer to patients with decompensated liver disease, (see section 4.3).
 
@@ -119,5 +126,3 @@ Dosage conversion from oral solution to tablets for children
 | 350 mg (4.4 ml) twice daily | 400 mg in the morning and 300 mg in the evening |
 | 437.5 mg (5.5 ml) twice daily | 500 mg in the morning and 400 mg in the evening |
 | 525 mg (6.6 ml) twice daily | 500 mg in the morning and 500 mg in the evening |
-
-The renal clearance of ritonavir is negligible, therefore, a decrease in the total body clearance is not expected in patients with renal impairment.
