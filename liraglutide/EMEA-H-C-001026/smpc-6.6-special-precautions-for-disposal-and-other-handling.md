@@ -8,5 +8,5 @@ The pen is designed to be used with NovoFine or NovoTwist disposable needles.
 Injection needles are not included.
 
 The patient should be advised to discard the injection needle in accordance with local requirements after each injection and store the Victoza pen without an injection needle attached.
-This prevents contamination, infection, and leakage.
+This prevents contamination, infection and leakage.
 It also ensures that the dosing is accurate.

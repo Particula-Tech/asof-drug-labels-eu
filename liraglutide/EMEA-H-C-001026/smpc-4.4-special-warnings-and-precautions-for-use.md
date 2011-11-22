@@ -22,5 +22,5 @@ Thyroid adverse events, including increased blood calcitonin, goitre and thyroid
 Patients receiving Victoza in combination with a sulphonylurea may have an increased risk of hypoglycaemia (see section 4.8).
 The risk of hypoglycaemia can be lowered by a reduction in the dose of sulphonylurea.
 
-Signs and symptoms of dehydration, including altered renal function have been reported in patients treated with Victoza.
+Signs and symptoms of dehydration, including renal impairment and acute renal failure have been reported in patients treated with Victoza.
 Patients treated with Victoza should be advised of the potential risk of dehydration in relation to gastrointestinal side effects and take precautions to avoid fluid depletion.

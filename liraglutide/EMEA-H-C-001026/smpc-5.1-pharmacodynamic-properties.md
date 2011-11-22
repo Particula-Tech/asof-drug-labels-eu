@@ -22,7 +22,7 @@ Liraglutide has 24-hour duration of action and improves glycaemic control by low
 
 Clinical efficacy
 Five double-blind, randomised, controlled clinical trials were conducted to evaluate the effects of Victoza on glycaemic control.
-Treatment with Victoza produced clinically and statistically significant improvements in glycosylated haemoglobin A1c (HbA1c), fasting plasma glucose and post-prandial glucose compared with placebo.
+Treatment with Victoza produced clinically and statistically significant improvements in glycosylated haemoglobin A1c (HbA1c), fasting plasma glucose and postprandial glucose compared with placebo.
 
 These studies included 3,978 exposed patients with type 2 diabetes (2,501 subjects treated with Victoza), 53.7% men and 46.3% women, 797 subjects (508 treated with Victoza) were ≥65 years of age and 113 subjects (66 treated with Victoza) were ≥75 years of age.
 
@@ -36,10 +36,11 @@ The addition of liraglutide in patients already treated with insulin has not bee
 
 Glycaemic control
 Victoza in combination therapy, for 26 weeks, with metformin, glimepiride or metformin and rosiglitazone resulted in statistically significant (p<0.0001) and sustained reductions in HbA1c compared with patients receiving placebo (Tables 2 and 3).
+
 Table 2 Results of two 26 week trials.
 Victoza in combination with metformin and Victoza in combination with glimepiride.
 
-Metformin 1.8 mg liraglutide 1.2 mg liraglutide placebo Glimepiride2
+Metformin 1.8 mg liraglutide 1.2 mg liraglutide Placebo Glimepiride2
 add-on therapy + metformin3 + metformin3 + metformin3 + metformin3
 N 242 240 121 242
 
@@ -59,7 +60,7 @@ Mean body weight (kg)
 
 Baseline 88.0 88.5 91.0 89.0
 Change from baseline -2.79 -2.58 -1.51 0.95
-Glimepiride 1.8 mg liraglutide 1.2 mg liraglutide Placebo rosiglitazone1
+Glimepiride 1.8 mg liraglutide 1.2 mg liraglutide Placebo Rosiglitazone1
 add-on therapy + glimepiride2 + glimepiride2 + glimepiride2 + glimepiride2
 N 234 228 114 231
 
@@ -85,11 +86,9 @@ Change from baseline -0.23 0.32 -0.10 2.11
 Table 3 Results of two 26 week trials.
 Victoza in combination with metformin + rosiglitazone and Victoza in combination with glimepiride + metformin.
 
-Metformin + rosiglitazone 1.8 mg liraglutide 1.2mg liraglutide placebo N/A
-add-on therapy + metformin2 + metformin2 + metformin2
-
-+ rosiglitazone3 + rosiglitazone3 + rosiglitazone3
-
+Metformin + 1.8 mg liraglutide 1.2mg liraglutide Placebo N/A
+rosiglitazone + metformin2 + metformin2 + metformin2
+add-on therapy + rosiglitazone3 + rosiglitazone3 + rosiglitazone3
 N 178 177 175
 
 Mean HbA1c (%)
@@ -106,7 +105,7 @@ Mean body weight (kg)
 
 Baseline 94.9 95.3 98.5
 Change from baseline -2.02 -1.02 0.60
-Metformin + glimepiride 1.8 mg liraglutide N/A Placebo insulin glargine1
+Metformin + glimepiride 1.8 mg liraglutide N/A Placebo Insulin glargine1
 add-on therapy + metformin2 + metformin2 + metformin2
 + glimepiride4 + glimepiride4 + glimepiride4
 N 230 114 232
@@ -137,7 +136,7 @@ Guideline for titration of insulin glargine
 | ≥6.7 mmol/l (≥120 mg/dl) | 2 IU |
 
 a According to the individualised recommendation by the investigator at the previous visit for example depending on whether subject has experienced hypoglycaemia.
-2 Metformin 2000 mg/day; 3 rosiglitazone 4 mg twice daily; 4 glimepiride 4 mg/day.
+2 Metformin 2,000 mg/day; 3 rosiglitazone 4 mg twice daily; 4 glimepiride 4 mg/day.
 
 Proportion of patients achieving reductions in HbA1c
 Victoza in combination with metformin, glimepiride, or metformin and rosiglitazone resulted in a statistically significant (p≤0.0001) greater proportion of patients achieving an HbA1c≤6.5% at 26 weeks compared with patients receiving these agents alone.
@@ -145,9 +144,8 @@ Victoza in combination with metformin, glimepiride, or metformin and rosiglitazo
 Fasting plasma glucose
 Treatment with Victoza alone or in combination with one or two oral antidiabetic drugs resulted in a reduction in fasting plasma glucose of 13-43.5 mg/dl (0.72-2.42 mmol/l).
 This reduction was observed within the first two weeks of treatment.
-
-Post-prandial glucose
-Victoza reduces post-prandial glucose across all three daily meals by 31-49 mg/dl (1.68-2.71 mmol/l).
+Postprandial glucose
+Victoza reduces postprandial glucose across all three daily meals by 31-49 mg/dl (1.68-2.71 mmol/l).
 
 Beta-cell function
 Clinical studies with Victoza indicate improved beta-cell function based on measures such as the homeostasis model assessment for beta-cell function (HOMA-B) and the proinsulin to insulin ratio.
@@ -159,4 +157,4 @@ Victoza in combination with metformin, metformin and glimepiride or metformin an
 Larger weight reduction was observed with increasing body mass index (BMI) at baseline.
 
 Blood pressure
-Over the duration of the studies Victoza decreased the systolic blood pressure on average of 2.3 to 6.7 mmHg from baseline and compared to active comparator the decrease was 1.9 to 4.5 mmHg
+Over the duration of the studies Victoza decreased the systolic blood pressure on average of 2.3 to 6.7 mmHg from baseline and compared to active comparator the decrease was 1.9 to 4.5 mmHg.

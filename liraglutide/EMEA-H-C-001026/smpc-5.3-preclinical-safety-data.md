@@ -1,6 +1,6 @@
 # 5.3 Preclinical safety data
 
-Non-clinical data reveal no special hazards for humans based on conventional studies of safety pharmacology, repeat-dose toxicity, or genotoxicity.
+Non-clinical data reveal no special hazards for humans based on conventional studies of safety pharmacology, repeat-dose toxicity or genotoxicity.
 
 Non-lethal thyroid C-cell tumours were seen in 2-year carcinogenicity studies in rats and mice.
 In rats, a no observed adverse effect level (NOAEL) was not observed.

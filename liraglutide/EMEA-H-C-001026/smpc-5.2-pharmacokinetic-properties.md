@@ -27,7 +27,6 @@ The mean clearance following subcutaneous administration of a single dose liragl
 Special populations
 
 Elderly: Age had no clinically relevant effect on the pharmacokinetics of liraglutide based on the results from a pharmacokinetic study in healthy subjects and population pharmacokinetic data analysis of patients (18 to 80 years).
-
 Gender: Gender had no clinically meaningful effect on the pharmacokinetics of liraglutide based on the results of population pharmacokinetic data analysis of male and female patients and a pharmacokinetic study in healthy subjects.
 
 Ethnic origin: Ethnic origin had no clinically relevant effect on the pharmacokinetics of liraglutide based on the results of population pharmacokinetic analysis which included subjects of White, Black, Asian and Hispanic groups.
@@ -39,4 +38,4 @@ Liraglutide exposure was decreased by 13-23% in subjects with mild to moderate h
 Exposure was significantly lower (44%) in subjects with severe hepatic impairment (Child Pugh score >9).
 
 Renal impairment: Liraglutide exposure was reduced in subjects with renal impairment compared to individuals with normal renal function.
-Liraglutide exposure was lowered by 33%, 14%, 27% and 28%, respectively, in subjects with mild (creatinine clearance, CrCL 50-80 ml/min), moderate (CrCL 30-50 ml/min), and severe (CrCL <30 ml/min) renal impairment and in end-stage renal disease requiring dialysis.
+Liraglutide exposure was lowered by 33%, 14%, 27% and 28%, respectively, in subjects with mild (creatinine clearance, CrCl 50-80 ml/min), moderate (CrCl 30-50 ml/min), and severe (CrCl <30 ml/min) renal impairment and in end-stage renal disease requiring dialysis.
