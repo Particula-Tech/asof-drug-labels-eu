@@ -12,10 +12,10 @@ Co-administration with a high-fat meal did not affect the AUC of atazanavir rela
 The 24-hour concentration following a high fat meal was increased by approximately 33% due to delayed absorption; the median Tmax increased from 2.0 to 5.0 hours.
 Administration of REYATAZ with ritonavir with either a light or a high-fat meal decreased the coefficient of variation of AUC and Cmax by approximately 25% compared to the fasting state.
 To enhance bioavailability and minimise variability, REYATAZ is to be taken with food.
+
 Distribution: atazanavir was approximately 86% bound to human serum proteins over a concentration range of 100 to 10,000 ng/ml.
 Atazanavir binds to both alpha-1-acid glycoprotein (AAG) and albumin to a similar extent (89% and 86%, respectively, at 1,000 ng/ml).
-In a multiple-dose study in
-HIV-infected patients dosed with 400 mg of atazanavir once daily with a light meal for 12 weeks, atazanavir was detected in the cerebrospinal fluid and semen.
+In a multiple-dose study in HIV-infected patients dosed with 400 mg of atazanavir once daily with a light meal for 12 weeks, atazanavir was detected in the cerebrospinal fluid and semen.
 
 Metabolism: studies in humans and in vitro studies using human liver microsomes have demonstrated that atazanavir is principally metabolised by CYP3A4 isozyme to oxygenated metabolites.
 Metabolites are then excreted in the bile as either free or glucuronidated metabolites.
@@ -30,16 +30,8 @@ In HIV-infected adult patients (n=33, combined studies) the mean half-life withi
 
 Special populations
 
-Paediatric patients:The pharmacokinetics of atazanavir in paediatric patients exhibit an increased absorption rate compared to adults.
-There is a slight trend toward a higher clearance in younger children when normalised for body weight.
-As a result, greater peak to trough ratios are observed.
-The geometric mean AUC values in paediatric patients at recommended doses are expected to be similar to those observed in adults, with higher geometric mean Cmax (13-17%) and lower geometric mean Cmin
-(up to 30%) values compared to those in adults.
-The variability of pharmacokinetic parameters in younger children is higher.
-
 Impaired renal function: in healthy subjects, the renal elimination of unchanged atazanavir was approximately 7% of the administered dose.
-There are no pharmacokinetic data available for
-REYATAZ with ritonavir in patients with renal insufficiency.
+There are no pharmacokinetic data available for REYATAZ with ritonavir in patients with renal insufficiency.
 REYATAZ (without ritonavir) has been studied in adult patients with severe renal impairment (n=20), including those on haemodialysis, at multiple doses of 400 mg once daily.
 Although this study presented some limitations (i.e., unbound drug concentrations not studied), results suggested that the atazanavir pharmacokinetic parameters were decreased by 30% to 50% in patients undergoing haemodialysis compared to patients with normal renal function.
 The mechanism of this decrease is unknown.
@@ -53,3 +45,27 @@ Age/Gender: a study of the pharmacokinetics of atazanavir was performed in 59 he
 There were no clinically important pharmacokinetic differences based on age or gender.
 
 Race: a population pharmacokinetic analysis of samples from Phase II clinical trials indicated no effect of race on the pharmacokinetics of atazanavir.
+
+Pregnancy:
+The pharmacokinetic data from HIV-infected pregnant women receiving REYATAZ capsules with ritonavir are presented in Table 8.
+
+Table 8: Steady-State Pharmacokinetics of Atazanavir with ritonavir in HIV-Infected Pregnant Women in the Fed State
+
+|  | atazanavir 300 mg with ritonavir 100 mg |  |  |
+| --- | --- | --- | --- |
+| Pharmacokinetic Parameter | 2nd Trimester (n=9) | 3rd Trimester (n=20) | postpartuma (n=36) |
+| Cmax ng/mL Geometric mean (CV%) | 3729.09 (39) | 3291.46 (48) | 5649.10 (31) |
+| AUC ng•h/mL Geometric mean (CV%) | 34399.1 (37) | 34251.5 (43) | 60532.7 (33) |
+| Cmin ng/mLb Geometric mean (CV%) | 663.78 (36) | 668.48 (50) | 1420.64 (47) |
+
+a Atazanavir peak concentrations and AUCs were found to be approximately 26-40% higher during the postpartum period (4-12 weeks) than those observed historically in HIV infected, non-pregnant patients.
+Atazanavir plasma trough concentrations were approximately 2-fold higher during the postpartum period when compared to those observed historically in HIV infected non-pregnant patients.
+b Cmin is concentration 24 hours post-dose.
+
+Paediatric population
+
+The pharmacokinetics of atazanavir in paediatric patients exhibit an increased absorption rate compared to adults.
+There is a slight trend toward a higher clearance in younger children when normalised for body weight.
+As a result, greater peak to trough ratios are observed.
+The geometric mean AUC values in paediatric patients at recommended doses are expected to be similar to those observed in adults, with higher geometric mean Cmax (13-17%) and lower geometric mean Cmin (up to 30%) values compared to those in adults.
+The variability of pharmacokinetic parameters in younger children is higher.

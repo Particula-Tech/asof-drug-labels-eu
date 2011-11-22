@@ -3,9 +3,7 @@
 Hypersensitivity to the active substance or to any of the excipients (see section 6.1).
 
 Patients with moderate to severe hepatic insufficiency (see sections 4.2 and 4.4).
-
-Combination of rifampicin and REYATAZ with concomitant low-dose ritonavir is contraindicated
-(see section 4.5).
+Combination of rifampicin and REYATAZ with concomitant low-dose ritonavir is contraindicated (see section 4.5).
 
 The PDE5 inhibitor sildenafil is contraindicated when used for the treatment of pulmonary arterial hypertension (PAH) only (see section 4.5).
 For co-administration of sildenafil for the treatment of erectile dysfunction see section 4.4 and section 4.5.

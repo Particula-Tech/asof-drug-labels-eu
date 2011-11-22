@@ -2,19 +2,17 @@
 
 Patients should be advised that current antiretroviral therapy has not been proven to prevent the risk of transmission of HIV to others through blood or sexual contact.
 Appropriate precautions should continue to be employed.
+
 Co-administration of REYATAZ with ritonavir at doses greater than 100 mg once daily has not been clinically evaluated.
-The use of higher ritonavir doses may alter the safety profile of atazanavir
-(cardiac effects, hyperbilirubinaemia) and therefore is not recommended.
+The use of higher ritonavir doses may alter the safety profile of atazanavir (cardiac effects, hyperbilirubinaemia) and therefore is not recommended.
 Only when atazanavir with ritonavir is co-administered with efavirenz, a dose increase of ritonavir to 200 mg once daily could be considered.
-In this instance, close clinical monitoring is warranted (see Interaction with other
-Medicinal Products below).
+In this instance, close clinical monitoring is warranted (see Interaction with other Medicinal Products below).
 
 Patients with coexisting conditions
 Atazanavir is primarily hepatically metabolised and increased plasma concentrations were observed in patients with hepatic impairment (see sections 4.2 and 4.3).
 The safety and efficacy of REYATAZ has not been established in patients with significant underlying liver disorders.
 Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk for severe and potentially fatal hepatic adverse reactions.
-In case of concomitant antiviral therapy for hepatitis B or C, please refer also to the relevant Summary of Product Characteristics for these medicinal products
-(see section 4.8).
+In case of concomitant antiviral therapy for hepatitis B or C, please refer also to the relevant Summary of Product Characteristics for these medicinal products (see section 4.8).
 
 Patients with pre-existing liver dysfunction, including chronic active hepatitis, have an increased frequency of liver function abnormalities during combination antiretroviral therapy and should be monitored according to standard practice.
 If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered.
@@ -24,10 +22,8 @@ However, REYATAZ with ritonavir is not recommended in patients undergoing haemod
 
 Dose related asymptomatic prolongations in PR interval with REYATAZ have been observed in clinical studies.
 Caution should be used with medicinal products known to induce PR prolongations.
-In patients with pre-existing conduction problems (second degree or higher atrioventricular or complex bundle-branch block), REYATAZ should be used with caution and only if the benefits exceed the risk
-(see section 5.1).
+In patients with pre-existing conduction problems (second degree or higher atrioventricular or complex bundle-branch block), REYATAZ should be used with caution and only if the benefits exceed the risk (see section 5.1).
 Particular caution should be used when prescribing REYATAZ in association with medicinal products which have the potential to increase the QT interval and/or in patients with pre-existing risk factors (bradycardia, long congenital QT, electrolyte imbalances (see sections 4.8 and 5.3).
-
 There have been reports of increased bleeding, including spontaneous skin haematomas and haemarthroses, in type A and B haemophiliac patients treated with protease inhibitors.
 In some patients additional factor VIII was given.
 In more than half of the reported cases, treatment with protease inhibitors was continued or reintroduced if treatment had been discontinued.
@@ -35,8 +31,7 @@ A causal relationship has been suggested, although the mechanism of action has n
 Haemophiliac patients should therefore be made aware of the possibility of increased bleeding.
 
 Fat redistribution and metabolic disorders
-Combination antiretroviral therapy has been associated with the redistribution of body fat
-(lipodystrophy) in HIV patients.
+Combination antiretroviral therapy has been associated with the redistribution of body fat (lipodystrophy) in HIV patients.
 The long-term consequences of these events are currently unknown.
 Knowledge about the mechanism is incomplete.
 A connection between visceral lipomatosis and protease inhibitors and lipoatrophy and nucleoside reverse transcriptase inhibitors has been hypothesised.
@@ -64,8 +59,7 @@ Hepatic transaminase elevations that occur with elevated bilirubin in patients r
 Alternative antiretroviral therapy to REYATAZ may be considered if jaundice or scleral icterus is unacceptable to a patient.
 Dose reduction of atazanavir is not recommended because it may result in a loss of therapeutic effect and development of resistance.
 
-Indinavir is also associated with indirect (unconjugated) hyperbilirubinaemia due to inhibition of
-UGT.
+Indinavir is also associated with indirect (unconjugated) hyperbilirubinaemia due to inhibition of UGT.
 Combinations of REYATAZ and indinavir have not been studied and co-administration of these medicinal products is not recommended (see section 4.5).
 
 Nephrolithiasis
@@ -90,8 +84,8 @@ Patients should be advised of the signs and symptoms and monitored closely for s
 REYATAZ should be discontinued if severe rash develops.
 
 The best results in managing these events come from early diagnosis and immediate interruption of any suspect medicines.
-If the patient has developed SJS or DRESS associated with the use of
-REYATAZ, REYATAZ may not be restarted.
+If the patient has developed SJS or DRESS associated with the use of REYATAZ, REYATAZ may not be restarted.
+
 Interactions with other medicinal products
 Co-administration of REYATAZ with simvastatin or lovastatin is not recommended (see section 4.5).
 
@@ -102,8 +96,7 @@ Atazanavir is metabolised principally by CYP3A4.
 Co-administration of REYATAZ with ritonavir and medicinal products that induce CYP3A4 is not recommended (see sections 4.3 and 4.5).
 
 PDE5 inhibitors used for the treatment of erectile dysfunction: particular caution should be used when prescribing PDE5-inhibitors (sildenafil, tadalafil, or vardenafil) for the treatment of erectile dysfunction in patients receiving REYATAZ with concomitant low-dose ritonavir.
-Co-administration of REYATAZ with these medicinal products is expected to substantially increase their concentrations and may result in PDE5-associated adverse events such as hypotension, visual changes and priapism
-(see section 4.5).
+Co-administration of REYATAZ with these medicinal products is expected to substantially increase their concentrations and may result in PDE5-associated adverse events such as hypotension, visual changes and priapism (see section 4.5).
 
 Co-administration of voriconazole and REYATAZ with ritonavir is not recommended unless an assessment of the benefit/risk justifies the use of voriconazole (see section 4.5).
 
@@ -114,7 +107,6 @@ Concomitant use of salmeterol and REYATAZ/ritonavir may result in increased card
 Co-administration of salmeterol and REYATAZ is not recommended (see section 4.5).
 
 The absorption of atazanavir may be reduced in situations where gastric pH is increased irrespective of cause.
-
 Co-administration of REYATAZ with proton pump inhibitors is not recommended (see section 4.5).
 If the combination of REYATAZ with a proton pump inhibitor is judged unavoidable, close clinical monitoring is recommended in combination with an increase in the dose of REYATAZ to 400 mg with 100 mg of ritonavir; doses of proton pump inhibitors comparable to omeprazole 20 mg should not be exceeded.
 
@@ -124,7 +116,7 @@ Lactose
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
 Paediatric population
-Safety:
+Safety
 Asymptomatic PR interval prolongation was more frequent in paediatric patients than adults.
 Asymptomatic first- and second-degree AV block was reported in paediatric patients (see section 4.8).
 Caution should be used with medicinal products known to induce PR prolongations.
