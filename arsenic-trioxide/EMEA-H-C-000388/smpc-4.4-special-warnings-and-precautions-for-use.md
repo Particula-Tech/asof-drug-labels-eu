@@ -2,7 +2,7 @@
 
 Clinically unstable APL patients are especially at risk and will require more frequent monitoring of electrolyte and glycaemia levels as well as more frequent haematologic, hepatic, renal and coagulation parameter tests.
 
-Leukocyte Activation Syndrome (APL Differentiation Syndrome): Twenty-five percent of patients with APL treated with TRISENOX have experienced symptoms similar to a syndrome called the retinoic-acid-acute promyelocytic leukaemia (RA-APL) or APL differentiation syndrome, characterised by fever, dyspnoea, weight gain, pulmonary infiltrates and pleural or pericardial effusions, with or without leukocytosis.
+Leukocyte Activation Syndrome (APL Differentiation Syndrome): 27% of patients with APL treated with TRISENOX have experienced symptoms similar to a syndrome called the retinoic-acid-acute promyelocytic leukaemia (RA-APL) or APL differentiation syndrome, characterised by fever, dyspnoea, weight gain, pulmonary infiltrates and pleural or pericardial effusions, with or without leukocytosis.
 This syndrome can be fatal.
 The management of the syndrome has not been fully studied, but high-dose steroids have been used at the first suspicion of the APL differentiation syndrome and appear to mitigate signs and symptoms.
 At the first signs that could suggest the syndrome (unexplained fever, dyspnoea and/or weight gain, abnormal chest auscultatory findings or radiographic abnormalities), high-dose steroids (dexamethasone 10 mg intravenously twice a day) must be immediately initiated, irrespective of the leukocyte count and continued for at least 3 days or longer until signs and symptoms have abated.
@@ -28,11 +28,8 @@ If syncope, rapid or irregular heartbeat develops, the patient must be hospitali
 There are no data on the effect of TRISENOX on the QTc interval during the infusion.
 Electrocardiograms must be obtained twice weekly, and more frequently for clinically unstable patients, during induction and consolidation.
 
-Dose Modification: Treatment with TRISENOX must be interrupted, adjusted, or discontinued before the scheduled end of therapy at any time that a toxicity grade 3 or greater on the National Cancer Institute Common Toxicity Criteria, Version 2 is observed and judged to be possibly related to TRISENOX treatment.
-Patients who experience such reactions that are considered TRISENOX related must resume treatment only after resolution of the toxic event or after recovery to baseline status of the abnormality that prompted the interruption.
-In such cases, treatment must resume at 50% of the preceding daily dose.
-If the toxic event does not recur within 3 days of restarting treatment at the reduced dose, the daily dose can be escalated back to 100% of the original dose.
-Patients who experience a recurrence of toxicity must be removed from treatment.
+Dose delay and modification: Treatment with TRISENOX must be interrupted, adjusted, or discontinued before the scheduled end of therapy at any time that a toxicity grade 3 or greater on the National Cancer Institute Common Toxicity Criteria is observed and judged to be possibly related to TRISENOX treatment.
+(see section 4.2)
 
 Laboratory tests: The patient’s electrolyte and glycaemia levels, as well as haematologic, hepatic, renal and coagulation parameter tests must be monitored at least twice weekly, and more frequently for clinically unstable patients during the induction phase and at least weekly during the consolidation phase.
 

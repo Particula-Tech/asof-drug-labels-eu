@@ -1,6 +1,6 @@
 # 4.9 Overdose
 
-If symptoms suggestive of serious acute arsenic toxicity (e.g. convulsions, muscle weakness and confusion) appear, TRISENOX must be immediately discontinued and chelating therapy with penicilamine at a daily dose ≤ 1 gm per day may be considered.
+If symptoms suggestive of serious acute arsenic toxicity (e.g. convulsions, muscle weakness and confusion) appear, TRISENOX must be immediately discontinued and chelating therapy with penicillamine at a daily dose ≤ 1 gm per day may be considered.
 The duration of treatment with penicillamine must be evaluated taking into account the urinary arsenic laboratory values.
 For patients who cannot take oral medication, dimercaprol administered at a dose of 3 mg/kg intramuscularly every 4 hours until any immediately life-threatening toxicity has subsided may be considered.
 Thereafter, penicillamine at a daily dose ≤ 1 gm per day may be given.

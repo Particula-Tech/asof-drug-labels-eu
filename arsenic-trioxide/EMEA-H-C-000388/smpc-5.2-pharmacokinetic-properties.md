@@ -2,6 +2,8 @@
 
 The inorganic, lyophilized form of arsenic trioxide, when placed into solution, immediately forms the hydrolysis product arsenious acid (AsIII).
 AsIII is the pharmacologically active species of arsenic trioxide.
+
+Linearity/non-linearity:
 In the total single dose range of 7 to 32 mg (administered as 0.15 mg/kg), systemic exposure (AUC) appears to be linear.
 The decline from peak plasma concentration of AsIII occurs in a biphasic manner and is characterized by an initial rapid distribution phase followed by a slower terminal elimination phase.
 After administration at 0.15 mg/kg on a daily (n=6) or twice-weekly (n=3) regimen, an approximate 2-fold accumulation of AsIII was observed as compared to a single infusion.
@@ -12,7 +14,7 @@ The volume of distribution (Vd) for AsIII is large (>400 L) indicating significa
 Vd is also weight dependent, increasing with increasing body weight.
 Total arsenic accumulates mainly in the liver, kidney, and heart and, to a lesser extent, in the lung, hair, and nails.
 
-Metabolism:
+Biotransformation:
 The metabolism of arsenic trioxide involves oxidation of arsenious acid (AsIII), the active species of arsenic trioxide, to arsenic acid (AsV), as well as oxidative methylation to monomethylarsonic acid (MMAV) and dimethylarsinic acid (DMAV) by methyltransferases, primarily in the liver.
 The pentavalent metabolites, MMAV and DMAV, are slow to appear in plasma (approximately 10-24 hours after first administration of arsenic trioxide), but due to their longer half-life, accumulate more upon multiple dosing than does AsIII.
 The extent of accumulation of these metabolites is dependent on the dosing regimen.
