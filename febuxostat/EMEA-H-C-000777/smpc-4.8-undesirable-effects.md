@@ -35,7 +35,8 @@ Table 1: Treatment related adverse reactions in combined phase 3 randomized cont
 | Gastrointestinal disorders | Common Diarrhoea*, nausea Uncommon: Abdominal pain, gastro-oesophageal reflux disease, vomiting, dry mouth, dyspepsia, constipation, frequent stools, flatulence, gastrointestinal discomfort Rare Pancreatitis, mouth ulceration |
 | Hepato-biliary disorders | Common Liver function abnormalities* |
 | Skin and subcutaneous tissue disorders | Common Rash Uncommon Dermatitis, urticaria, pruritus Rare Alopecia, hyperhidrosis |
-| Musculoskeletal and connective tissue disorders | Uncommon Arthralgia, myalgia, musculoskeletal pain, muscle weakness, muscle spasm Rare Arthritis, joint stiffness, musculoskeletal stiffness |
+| Musculoskeletal and connective tissue disorders | Uncommon Arthralgia, myalgia, musculoskeletal pain, muscle weakness, muscle spasm |
+|  | Rare Arthritis, joint stiffness, musculoskeletal stiffness |
 | Renal and urinary disorders | Uncommon Nephrolithiasis, haematuria, pollakiuria, renal failure Rare Micturition urgency |
 | Reproductive system and breast disorder | Rare Erectile dysfunction |
 | General disorders and administration site conditions | Uncommon Fatigue, oedema, chest pain, chest discomfort Rare Thirst |
@@ -75,7 +76,8 @@ The most commonly reported ADRs (investigator assessment) are liver function abn
 | Gastrointestinal disorders | Common Diarrhoea*, nausea Uncommon: Abdominal pain, gastro-oesophageal reflux disease, vomiting, dry mouth, dyspepsia, constipation, frequent stools, flatulence, gastrointestinal discomfort Rare Pancreatitis, mouth ulceration |
 | Hepato-biliary disorders | Common Liver function abnormalities* |
 | Skin and subcutaneous tissue disorders | Common Rash Uncommon Dermatitis, urticaria, pruritus Rare Alopecia, hyperhidrosis |
-| Musculoskeletal and connective tissue disorders | Uncommon Arthralgia, myalgia, musculoskeletal pain, muscle weakness, muscle spasm Rare Arthritis, joint stiffness, musculoskeletal stiffness |
+| Musculoskeletal and connective tissue disorders | Uncommon Arthralgia, myalgia, musculoskeletal pain, muscle weakness, muscle spasm |
+|  | Rare Arthritis, joint stiffness, musculoskeletal stiffness |
 | Renal and urinary disorders | Uncommon Nephrolithiasis, haematuria, pollakiuria, renal failure Rare Micturition urgency |
 | Reproductive system and breast disorder | Rare Erectile dysfunction |
 | General disorders and administration site conditions | Uncommon Fatigue, oedema, chest pain, chest discomfort Rare Thirst |
