@@ -3,6 +3,7 @@
 Olanzapine is well absorbed after oral administration, reaching peak plasma concentrations within 5 to 8 hours.
 The absorption is not affected by food.
 Absolute oral bioavailability relative to intravenous administration has not been determined.
+
 Olanzapine is metabolized in the liver by conjugative and oxidative pathways.
 The major circulating metabolite is the 10-N-glucuronide, which does not pass the blood brain barrier.
 Cytochromes P450-CYP1A2 and P450-CYP2D6 contribute to the formation of the N-desmethyl and 2-hydroxymethyl metabolites, both exhibited significantly less in vivo pharmacological activity than olanzapine in animal studies.

@@ -10,6 +10,7 @@ Olanzapine demonstrated a greater in vitro affinity for serotonin 5HT2 than dopa
 Electrophysiological studies demonstrated that olanzapine selectively reduced the firing of mesolimbic (A10) dopaminergic neurons, while having little effect on the striatal (A9) pathways involved in motor function.
 Olanzapine reduced a conditioned avoidance response, a test indicative of antipsychotic activity, at doses below those producing catalepsy, an effect indicative of motor side-effects.
 Unlike some other antipsychotic agents, olanzapine increases responding in an “anxiolytic” test.
+
 In a single oral dose (10 mg) Positron Emission Tomography (PET) study in healthy volunteers, olanzapine produced a higher 5 HT2A than dopamine D2 receptor occupancy.
 In addition, a SPECT imaging study in schizophrenic patients revealed that olanzapine-responsive patients had lower striatal D2 occupancy than some other antipsychotic- and risperidone-responsive patients, while being comparable to clozapine-responsive patients.
 

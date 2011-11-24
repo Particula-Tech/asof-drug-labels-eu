@@ -11,7 +11,7 @@ Tablet coat
 Hypromellose
 Colour mixture white (hypromellose, titanium dioxide E171, macrogol, polysorbate 80)
 Carnauba wax
-Edible blue ink (shellac, macrogol, propylene glycol, indigo carmine E132)
+Edible blue ink (shellac, ethanol anhydrous, isopropyl alcohol, butyl alcohol, propylene glycol, ammonium hydroxide, indigo carmine E132)
 
 [ZYPREXA 5 mg coated tablets]
 

@@ -32,9 +32,9 @@ Thus no particular interaction is expected as verified through in vivo studies w
 Olanzapine showed no interaction when co-administered with lithium or biperiden.
 
 Therapeutic monitoring of valproate plasma levels did not indicate that valproate dosage adjustment is required after the introduction of concomitant olanzapine.
-
 General CNS activity
 Caution should be exercised in patients who consume alcohol or receive medicinal products that can cause central nervous system depression.
+
 The concomitant use of olanzapine with anti-Parkinsonian medicinal products in patients with Parkinson's disease and dementia is not recommended (see section 4.4).
 
 QTc interval
