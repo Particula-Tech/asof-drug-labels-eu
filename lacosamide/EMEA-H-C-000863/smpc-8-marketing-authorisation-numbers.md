@@ -18,10 +18,6 @@ EU/1/08/470/010-012
 
 EU/1/08/470/013
 
-[Vimpat 15 mg/ml syrup]
-
-EU/1/08/470/014-015
-
 [Vimpat 10 mg/ml solution for infusion]
 
 EU/1/08/470/016-017

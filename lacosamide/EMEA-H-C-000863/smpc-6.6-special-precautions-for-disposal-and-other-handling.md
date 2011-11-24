@@ -18,10 +18,6 @@ No special requirements.
 
 (all sentences already above)
 
-[Vimpat 15 mg/ml syrup]
-
-(all sentences already above)
-
 [Vimpat 10 mg/ml solution for infusion]
 
 This medicinal product is for single use only, any unused solution should be discarded.

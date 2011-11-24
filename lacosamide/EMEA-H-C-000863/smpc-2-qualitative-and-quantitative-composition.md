@@ -20,15 +20,6 @@ Each film-coated tablet contains 200 mg lacosamide.
 
 (all sentences already above)
 
-[Vimpat 15 mg/ml syrup]
-
-Each ml of syrup contains 15 mg lacosamide.
-1 bottle of 200 ml contains 3000 mg lacosamide.
-1 bottle of 465 ml contains 6975 mg lacosamide.
-
-Excipients:
-Each ml of Vimpat syrup contains 280 mg sorbitol (E420), 2.60 mg sodium methylparahydroxybenzoate (E219), 0.05 mg aspartame (E951) and 1.96 mg sodium.
-
 [Vimpat 10 mg/ml solution for infusion]
 
 Each ml of solution for infusion contains 10 mg lacosamide.

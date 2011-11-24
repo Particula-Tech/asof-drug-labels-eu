@@ -18,10 +18,6 @@ Vimpat is indicated as adjunctive therapy in the treatment of partial-onset seiz
 
 (all sentences already above)
 
-[Vimpat 15 mg/ml syrup]
-
-(all sentences already above)
-
 [Vimpat 10 mg/ml solution for infusion]
 
 Vimpat solution for infusion is an alternative for patients when oral administration is temporarily not feasible.

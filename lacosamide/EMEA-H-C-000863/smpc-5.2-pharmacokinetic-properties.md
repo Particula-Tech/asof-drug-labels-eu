@@ -4,9 +4,7 @@ Absorption
 Lacosamide is rapidly and completely absorbed after oral administration.
 The oral bioavailability of lacosamide tablets is approximately 100%.
 Following oral administration, the plasma concentration of unchanged lacosamide increases rapidly and reaches Cmax about 0.5 to 4 hours post-dose.
-Vimpat tablets and oral syrup are bioequivalent.
 Food does not affect the rate and extent of absorption.
-
 Distribution
 The volume of distribution is approximately 0.6 L/kg.
 Lacosamide is less than 15% bound to plasma proteins.
@@ -50,6 +48,7 @@ Subjects with moderate hepatic impairment (Child-Pugh B) showed higher plasma co
 The higher exposure was partly due to a reduced renal function in the studied subjects.
 The decrease in non-renal clearance in the patients of the study was estimated to give a 20% increase in the AUC of lacosamide.
 The pharmacokinetics of lacosamide has not been evaluated in severe hepatic impairment (see section 4.2).
+
 Elderly (over 65 years of age)
 In a study in elderly men and women including 4 patients >75 years of age, AUC was about 30 and 50% increased compared to young men, respectively.
 This is partly related to lower body weight.
@@ -71,10 +70,6 @@ A general dose reduction is not considered to be necessary unless indicated due 
 (all sentences already above)
 
 [Vimpat 50 mg film-coated tablets (SmPC 5)]
-
-(all sentences already above)
-
-[Vimpat 15 mg/ml syrup]
 
 (all sentences already above)
 

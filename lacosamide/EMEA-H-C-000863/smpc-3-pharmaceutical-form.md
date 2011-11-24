@@ -22,12 +22,6 @@ Blue, oval film-coated tablet debossed with ‘SP’ on one side and ‘200’ o
 150 mg:
 200 mg:
 
-[Vimpat 15 mg/ml syrup]
-
-Syrup.
-
-Clear solution, slightly yellow to yellow-brown in colour.
-
 [Vimpat 10 mg/ml solution for infusion]
 
 Solution for infusion.

@@ -18,10 +18,6 @@ Not applicable.
 
 (all sentences already above)
 
-[Vimpat 15 mg/ml syrup]
-
-(all sentences already above)
-
 [Vimpat 10 mg/ml solution for infusion]
 
 This medicinal product must not be mixed with other medicinal products except those mentioned in section 6.6.

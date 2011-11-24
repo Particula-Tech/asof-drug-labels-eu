@@ -50,10 +50,6 @@ On the first day of treatment the patient starts with Vimpat 50 mg tablets twice
 During the second week, the patient takes Vimpat 100 mg tablets twice a day.
 Depending on response and tolerability, Vimpat 150 mg tablets may be taken twice a day during the third week and Vimpat 200 mg tablets twice a day during the fourth week.
 
-[Vimpat 15 mg/ml syrup]
-
-Vimpat syrup is provided with a measuring cup with graduation marks and instructions for use in the package leaflet.
-
 [Vimpat 10 mg/ml solution for infusion]
 
 Vimpat must be administered twice a day.

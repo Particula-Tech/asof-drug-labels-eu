@@ -18,12 +18,9 @@
 
 (all sentences already above)
 
-[Vimpat 15 mg/ml syrup]
-
-3 years
-After first opening: 4 weeks.
-
 [Vimpat 10 mg/ml solution for infusion]
+
+3 years.
 
 Chemical and physical in-use stability has been demonstrated for 24 hours at temperatures up to 25° C for product mixed with the diluents mentioned in 6.6.
 From a microbiological point of view, the product should be used immediately.
