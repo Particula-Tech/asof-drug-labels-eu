@@ -1,7 +1,7 @@
 # 4.4 Special warnings and precautions for use
 
 Gastrointestinal perforations (see section 4.8)
-Patients may be at an increased risk for the development of gastrointestinal perforation when treated with Avastin.
+Patients may be at an increased risk for the development of gastrointestinal perforation and gall bladder perforation when treated with Avastin.
 Intra-abdominal inflammatory process may be a risk factor for gastrointestinal perforations in patients with metastatic carcinoma of the colon or rectum, therefore, caution should be exercised when treating these patients.
 Therapy should be permanently discontinued in patients who develop gastrointestinal perforation.
 
@@ -50,7 +50,9 @@ Therapy should be permanently discontinued in patients who develop arterial thro
 
 Venous thromboembolism (see section 4.8)
 Patients may be at risk of developing venous thromboembolic events, including pulmonary embolism under Avastin treatment.
-Avastin should be discontinued in patients with life-threatening (Grade 4) pulmonary embolism, patients with ≤Grade 3 need to be closely monitored.
+Avastin should be discontinued in patients with life-threatening (Grade 4) thromboembolic events, including pulmonary embolism.
+P atients with thromboembolic events
+≤Grade 3 need to be closely monitored.
 
 Haemorrhage
 Patients treated with Avastin have an increased risk of haemorrhage, especially tumour-associated haemorrhage.
