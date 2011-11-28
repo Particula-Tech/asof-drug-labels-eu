@@ -11,6 +11,10 @@ Co-administration with pimozide, terfenadine, astemizole or cisapride (see secti
 Co-administration with pimozide, terfenadine, astemizole or cisapride.
 (see section 4.5).
 
-[EMEND 125 mg hard capsules (SmPC 4)]
+[EMEND 165 mg hard capsules]
+
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+
+[EMEND 125 mg hard capsules (SmPC 5)]
 
 (all sentences already above)

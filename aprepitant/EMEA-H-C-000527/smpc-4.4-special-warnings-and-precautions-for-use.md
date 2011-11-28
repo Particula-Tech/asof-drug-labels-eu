@@ -41,6 +41,12 @@ In patients on chronic warfarin therapy, the INR should be monitored closely dur
 
 (all sentences already above)
 
-[EMEND 125 mg hard capsules (SmPC 4)]
+[EMEND 165 mg hard capsules]
+
+EMEND should be used with caution in patients receiving concomitant active substances that are metabolised primarily through CYP3A4 and with a narrow therapeutic range, such as cyclosporine, tacrolimus, sirolimus, everolimus, alfentanil, diergotamine, ergotamine, fentanyl, and quinidine (see section 4.5).
+
+In patients on chronic warfarin therapy, the INR should be monitored closely during treatment with EMEND and for 14 days following the use of EMEND (see section 4.5).
+
+[EMEND 125 mg hard capsules (SmPC 5)]
 
 (all sentences already above)
