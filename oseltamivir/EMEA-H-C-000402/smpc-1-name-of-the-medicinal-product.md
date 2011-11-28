@@ -10,6 +10,10 @@ Tamiflu 45 mg hard capsule.
 
 Tamiflu 75 mg hard capsule.
 
+[Tamiflu 6 mg/ml powder for oral suspension.]
+
+Tamiflu 6 mg/ml powder for oral suspension.
+
 [Tamiflu 12 mg/ml powder for oral suspension.]
 
 Tamiflu 12 mg/ml powder for oral suspension.

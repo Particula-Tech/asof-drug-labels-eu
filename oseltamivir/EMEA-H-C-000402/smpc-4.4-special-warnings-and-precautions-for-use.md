@@ -4,8 +4,8 @@ Oseltamivir is effective only against illness caused by influenza viruses.
 There is no evidence for efficacy of oseltamivir in any illness caused by agents other than influenza viruses.
 
 No information is available regarding the safety and efficacy of oseltamivir in patients with any medical condition sufficiently severe or unstable to be considered at imminent risk of requiring hospitalisation.
-The efficacy of oseltamivir in either treatment or prophylaxis of influenza in immunocompromised patients has not been firmly established (see section 5.1).
 
+The efficacy of oseltamivir in either treatment or prophylaxis of influenza in immunocompromised patients has not been firmly established (see section 5.1).
 Efficacy of oseltamivir in the treatment of subjects with chronic cardiac disease and/or respiratory disease has not been established.
 No difference in the incidence of complications was observed between the treatment and placebo groups in this population (see section 5.1).
 
@@ -21,7 +21,7 @@ Therefore, prescribers should take into account the most recent information avai
 
 Severe renal impairment
 Dose adjustment is recommended for both treatment and prevention in adults with severe renal insufficiency.
-There is insufficient clinical data available in children with renal impairment to be able to make any dosing recommendation (see sections 4.2 and 5.2).
+There is insufficient clinical data available in children with renal impairment to be able to make any dosing recommendation.(see sections 4.2 and 5.2).
 
 Neuropsychiatric events have been reported during administration of Tamiflu in patients with influenza, especially in children and adolescents.
 These events are also experienced by patients with influenza without oseltamivir administration.
@@ -35,9 +35,15 @@ Patients should be closely monitored for behavioural changes, and the benefits a
 
 (all sentences already above)
 
-[Tamiflu 12 mg/ml powder for oral suspension.]
+[Tamiflu 6 mg/ml powder for oral suspension.]
+
+There is insufficient clinical data available in children with renal impairment to be able to make any dosing recommendation (see sections 4.2 and 5.2).
 
 This medicinal product contains sorbitol.
 Patients with rare hereditary problems of fructose intolerance should not take this medicine.
 
 Sorbitol can have a mild laxative effect.
+
+[Tamiflu 12 mg/ml powder for oral suspension.]
+
+(all sentences already above)

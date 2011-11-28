@@ -7,7 +7,7 @@ Tamiflu capsules and Tamiflu suspension are bioequivalent formulations.
 - one 30 mg capsule plus one 45 mg capsule or
 - by administering one 30 mg dose plus one 45 mg dose of suspension.
 
-Adults, adolescents or children (1 year of age or older) who are unable to swallow capsules may receive appropriate doses of Tamiflu suspension.
+Adults, adolescents or children ( 1 year of age or older) who are unable to swallow capsules may receive appropriate doses of Tamiflu suspension.
 
 For infants below 1 year of age: In the absence of a suitable formulation, a pharmacy compounded preparation should preferentially be used as the syringe provided in the Tamiflu 12 mg/ml powder for oral suspension pack (with mg markings) does not allow for appropriate dose adjustments and commercially available syringes (with ml markings) may lead to unacceptable dosing inaccuracies (see below 4.2).
 
@@ -236,27 +236,29 @@ Refrigerated storage conditions: Stable for 6 weeks when stored at 2 °C - 8 °C
 Place a pharmacy label on the bottle that includes the patient’s name, dosing instructions, use by date, drug name and any other required information to be in compliance with local pharmacy regulations.
 Refer to the table below for the proper dosing instructions.
 Dosing Chart for Pharmacy-Compounded Suspension (10 mg/ml) from Tamiflu Capsules for Infants Less Than One Month of Age
+Body Weight
 
-| Body Weight (rounded to the nearest 0.5 kg) | Treatment Dose (for 5 days) | Prophylaxis Dose (for 10 days) |
-| --- | --- | --- |
-| 3 kg | 0.60 ml twice daily | 0.60 ml once daily |
-| 3.5 kg | 0.70 ml twice daily | 0.70 ml once daily |
-| 4 kg | 0.80 ml twice daily | 0.80 ml once daily |
-| 4.5 kg | 0.90 ml twice daily | 0.90 ml once daily |
+(rounded to the Treatment Dose Prophylaxis Dose
+nearest 0.5 kg) (for 5 days) (for 10 days)
+3 kg 0.60 ml twice daily 0.60 ml once daily
+3.5 kg 0.70 ml twice daily 0.70 ml once daily
+4 kg 0.80 ml twice daily 0.80 ml once daily
+4.5 kg 0.90 ml twice daily 0.90 ml once daily
 
 Dosing Chart for Pharmacy-Compounded Suspension (10 mg/ml) from Tamiflu Capsules for Infants One to Twelve Months of Age
+Body Weight
 
-| Body Weight (rounded to the nearest 0.5 kg) | Treatment Dose (for 5 days) | Prophylaxis Dose (for 10 days) |
-| --- | --- | --- |
-| 4 kg | 1.00 ml twice daily | 1.00 ml once daily |
-| 4.5 kg | 1.10 ml twice daily | 1.10 ml once daily |
-| 5 kg | 1.30 ml twice daily | 1.30 ml once daily |
-| 5.5 kg | 1.40 ml twice daily | 1.40 ml once daily |
-| 6 kg | 1.50 ml twice daily | 1.50 ml once daily |
-| 7 kg | 2.10 ml twice daily | 2.10 ml once daily |
-| 8 kg | 2.40 ml twice daily | 2.40 ml once daily |
-| 9 kg | 2.70 ml twice daily | 2.70 ml once daily |
-| ≥ 10 kg | 3.00 ml twice daily | 3.00 ml once daily |
+(rounded to the Treatment Dose Prophylaxis Dose
+nearest 0.5 kg) (for 5 days) (for 10 days)
+4 kg 1.00 ml twice daily 1.00 ml once daily
+4.5 kg 1.10 ml twice daily 1.10 ml once daily
+5 kg 1.30 ml twice daily 1.30 ml once daily
+5.5 kg 1.40 ml twice daily 1.40 ml once daily
+6 kg 1.50 ml twice daily 1.50 ml once daily
+7 kg 2.10 ml twice daily 2.10 ml once daily
+8 kg 2.40 ml twice daily 2.40 ml once daily
+9 kg 2.70 ml twice daily 2.70 ml once daily
+≥ 10 kg 3.00 ml twice daily 3.00 ml once daily
 
 Note: This compounding procedure results in a 10 mg/ml suspension, which is different from the commercially available Tamiflu powder for oral suspension.
 
@@ -319,7 +321,7 @@ Children
 There is insufficient clinical data available in children with renal impairment to be able to make any dosing recommendation.
 
 Immunocompromised patients
-Longer duration of seasonal prophylaxis up to 12 weeks has been evaluated in immunocompromised patients (see sections 4.4, 4.8 and 5.1).
+Longer duration of seasonal prophylaxis up to 12 weeks has been evaluated in immunocompromised subjects (see sections 4.4, 4.8 and 5.1).
 
 [Tamiflu 45 mg hard capsule.]
 
@@ -335,17 +337,113 @@ Children who are able to swallow capsules may receive prevention with Tamiflu ca
 | Hemodialysis patients | 30 mg after every second hemodialysis session |
 | Peritoneal dialysis patients* | 30 mg (suspension or capsules) once weekly |
 
+TLonger duration of seasonal prophylaxis up to 12 weeks has been evaluated in immunocompromised subjects (see sections 4.4, 4.8 and 5.1).
+
 [Tamiflu 75 mg hard capsule.]
 
 For recommended treatment dose of Tamiflu for infants older than 1 year of age and for children 2 to 12 years of age, see SmPC of Tamiflu suspension and Tamiflu 30 and 45 mg capsules.
 
 For recommended post-exposure prevention dose of Tamiflu for infants older than 1 year of age and for children of 2 to 12 years of age, see SmPC of Tamiflu suspension and Tamiflu 30 mg and 45 mg capsules.
 
-[Tamiflu 12 mg/ml powder for oral suspension.]
+[Tamiflu 6 mg/ml powder for oral suspension.]
 
 Tamiflu suspension and Tamiflu capsules are bioequivalent formulations.
 
 Adults, adolescents or children (> 40 kg) who are able to swallow capsules may receive appropriate doses of Tamiflu capsules.
+
+� For infants older than 1 year of age and for children 2 to 12 years of age: The recommended dose of Tamiflu 6 mg/ml oral suspension is indicated in the table below.
+Tamiflu 30 mg and 45 mg capsules are available as an alternative to the recommended dose of Tamiflu 6 mg/ml suspension.
+
+| Body Weight | Recommended dose for 5 days | Amount of oral suspension to withdraw |
+| --- | --- | --- |
+| ≤ 15 kg | 30 mg twice daily | 5 ml twice daily |
+| > 15 kg to 23 kg | 45 mg twice daily | 7.5 ml twice daily |
+| > 23 kg to 40 kg | 60 mg twice daily | 10 ml twice daily |
+| > 40 kg | 75 mg twice daily | 12.5 ml twice daily |
+
+For dosing, a 10 ml oral dispenser is provided in the box.
+
+Children weighing > 40 kg and who are able to swallow capsules may receive treatment with the adult dosage of 75 mg capsules twice daily for 5 days as an alternative to the recommended dose of Tamiflu suspension.
+
+In case of a pandemic, a 3 ml oral dispenser (graduated in 0.1 ml steps) should be used for dosing children below 12 months of age requiring 6 mg to 18 mg of oseltamivir.
+Information should be provided to the patient´s parents or caregivers on where to obtain the 3 ml oral dispenser.
+The following weight-adjusted dosing regimens are recommended for infants below 1 year of age:
+
+Dosing Table of Oseltamivir for Children aged from 0 to 30 days: 2 mg/kg twice daily*
+
+| Body Weight | Recommended dose for 5 days | Amount of oral suspension to withdraw |
+| --- | --- | --- |
+| 3 kg | 6 mg twice daily | 1.0 ml twice daily |
+| 3.5 kg | 7 mg twice daily | 1.2 ml twice daily |
+| 4 kg | 8 mg twice daily | 1.3 ml twice daily |
+| 4.5 kg | 9 mg twice daily | 1.5 ml twice daily |
+
+Dosing Table of Oseltamivir for Children aged from 31 to 90 days: 2.5 mg/kg twice daily
+
+| Body Weight | Recommended dose for 5 days | Amount of oral suspension to withdraw |
+| --- | --- | --- |
+| 4 kg | 10 mg twice daily | 1.7 ml twice daily |
+| 4.5 kg | 11.25 mg twice daily | 1.9 ml twice daily |
+| 5 kg | 12.5 mg twice daily | 2.1 ml twice daily |
+| 5.5 kg | 13.75 mg twice daily | 2.3 ml twice daily |
+| 6 kg | 15 mg twice daily | 2.5 ml twice daily |
+| 6.5 kg | 16.25 mg twice daily | 2.7 ml twice daily |
+
+Dosing Table of Oseltamivir for Children aged from 91 to < 365 days: 3 mg/kg twice daily
+
+| Body Weight | Recommended dose for 5 days | Amount of oral suspension to withdraw |
+| --- | --- | --- |
+| 6 kg | 18 mg twice daily | 3.0 ml twice daily |
+| 7 kg | 21 mg twice daily | 3.5 ml twice daily |
+| 8 kg | 24 mg twice daily | 4.0 ml twice daily |
+| 9 kg | 27 mg twice daily | 4.5 ml twice daily |
+| 10 kg | 30 mg twice daily | 5.0 ml twice daily |
+
+� For infants older than 1 year of age and for children 2 to 12 years of age: Tamiflu 30 mg and 45 mg capsules are available as an alternative to the recommended dose of Tamiflu 6 mg/ml suspension.
+
+| Body Weight | Recommended dose for 10 days | Amount of oral suspension to withdraw |
+| --- | --- | --- |
+| ≤ 15 kg | 30 mg once daily | 5 ml once daily |
+| > 15 kg to 23 kg | 45 mg once daily | 7.5 ml once daily |
+| > 23 kg to 40 kg | 60 mg once daily | 10 ml once daily |
+| > 40 kg | 75 mg once daily | 12.5 ml once daily |
+
+It is recommended that Tamiflu powder for oral suspension be constituted by a pharmacist prior to dispensing to the patient (see section 6.6).
+Children weighing > 40 kg and who are able to swallow capsules may receive prophylaxis with a 75 mg capsule once daily for 10 days as an alternative to the recommended dose of Tamiflu suspension.
+
+In case of a pandemic, a 3 ml oral dispenser (graduated in 0.1 ml steps) should be used for dosing children below 1 year of age requiring 6 mg to 18 mg of oseltamivir.
+
+Dosing Table of Oseltamivir for Children aged from 0 to 30 days: 2 mg/kg once daily*
+
+| Body Weight | Recommended dose for 10 days | Amount of oral suspension to withdraw |
+| --- | --- | --- |
+| 3 kg | 6 mg once daily | 1.0 ml once daily |
+| 3.5 kg | 7 mg once daily | 1.2 ml once daily |
+| 4 kg | 8 mg once daily | 1.3 ml once daily |
+| 4.5 kg | 9 mg once daily | 1.5 ml once daily |
+
+Dosing Table of Oseltamivir for Children aged from 31 to 90 days: 2.5 mg/kg once daily
+
+| Body Weight | Recommended dose for 10 days | Amount of oral suspension to withdraw |
+| --- | --- | --- |
+| 4 kg | 10 mg once daily | 1.7 ml once daily |
+| 4.5 kg | 11.25 mg once daily | 1.9 ml once daily |
+| 5 kg | 12.5 mg once daily | 2.1 ml once daily |
+| 5.5 kg | 13.75 mg once daily | 2.3 ml once daily |
+| 6 kg | 15 mg once daily | 2.5 ml once daily |
+| 6.5 kg | 16.25 mg once daily | 2.7 ml once daily |
+
+Dosing Table of Oseltamivir for Children aged from 91 to < 365 days: 3 mg/kg once daily
+
+| Body Weight | Recommended dose for 10 days | Amount of oral suspension to withdraw |
+| --- | --- | --- |
+| 6 kg | 18 mg once daily | 3.0 ml once daily |
+| 7 kg | 21 mg once daily | 3.5 ml once daily |
+| 8 kg | 24 mg once daily | 4.0 ml once daily |
+| 9 kg | 27 mg once daily | 4.5 ml once daily |
+| 10 kg | 30 mg once daily | 5.0 ml once daily |
+
+[Tamiflu 12 mg/ml powder for oral suspension.]
 
 For infants below 12 months of age: This formulation is not suitable for dosing in infants less than 12 months of age.
 For details, see sections below.
@@ -356,8 +454,6 @@ Tamiflu 30 mg and 45 mg capsules are available as an alternative to the recommen
 For dosing, an oral dispenser with 30 mg, 45 mg and 60 mg graduations is provided in the box.
 For accurate dosing, the oral dispenser supplied should be used exclusively (a syringe with ml markings cannot be used).
 
-Children weighing > 40 kg and who are able to swallow capsules may receive treatment with the adult dosage of 75 mg capsules twice daily for 5 days as an alternative to the recommended dose of Tamiflu suspension.
-
 � For infants below 1 year of age: This formulation(Tamiflu 12 mg/ml powder for oral suspension) is unsuitable since the syringe provided in the pack (with mg markings) does not allow for appropriate dose adjustments and the use of syringes with ml markings may lead to unacceptable dosing inaccuracies.
 In the absence of a suitable formulation, the pharmacy compounded preparation should preferentially be used.
 Please refer to the SmPC for the 30 mg.
@@ -365,8 +461,4 @@ Please refer to the SmPC for the 30 mg.
 
 � For infants older than 1 year of age and for children 2 to 12 years of age: Tamiflu 30 mg and 45 mg capsules are available as an alternative to the recommended dose of Tamiflu suspension.
 
-It is recommended that Tamiflu powder for oral suspension be constituted by a pharmacist prior to dispensing to the patient (see section 6.6).
-
-Children weighing > 40 kg and who are able to swallow capsules may receive prophylaxis with a 75 mg capsule once daily for 10 days as an alternative to the recommended dose of Tamiflu suspension.
-
-� For infants below 1 year of age: This formulation (Tamiflu 12 mg/ml powder for oral suspension) is unsuitable since the syringe provided in the pack (with mg markings) does not allow for appropriate dose adjustments and the use of syringes with ml markings may lead to unacceptable dosing inaccuracies.
+� For infants below below 1 year of age: This formulation (Tamiflu 12 mg/ml powder for oral suspension) is unsuitable since the syringe provided in the pack (with mg markings) does not allow for appropriate dose adjustments and the use of syringes with ml markings may lead to unacceptable dosing inaccuracies.

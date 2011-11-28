@@ -10,6 +10,10 @@ EU/1/02/222/004
 
 EU/1/02/222/001
 
+[Tamiflu 6 mg/ml powder for oral suspension.]
+
+EU/1/02/222/xxx
+
 [Tamiflu 12 mg/ml powder for oral suspension.]
 
 EU/1/02/222/002

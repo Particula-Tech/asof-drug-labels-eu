@@ -16,7 +16,11 @@ Refrigerated storage conditions: Stable for 6 weeks when stored at 2 °C - 8 °C
 
 (all sentences already above)
 
-[Tamiflu 12 mg/ml powder for oral suspension.]
+[Tamiflu 6 mg/ml powder for oral suspension.]
 
 Powder: Do not store above 30°C.
+After reconstitution, the suspension can be stored at room temperature (not above 25°C) for 10 days.
+
+[Tamiflu 12 mg/ml powder for oral suspension.]
+
 After reconstitution, the suspension can be stored either at room temperature (not above 25°C) for 10 days or in a refrigerator (2°C - 8°C ) for 17 days.

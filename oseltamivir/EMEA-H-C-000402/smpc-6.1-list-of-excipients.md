@@ -6,6 +6,7 @@ Talc
 Povidone
 Croscarmellose sodium
 Sodium stearyl fumarate
+
 Capsule shell:
 Gelatin
 Yellow iron oxide (E172)
@@ -25,7 +26,7 @@ Black iron oxide (E172)
 
 (all sentences already above)
 
-[Tamiflu 12 mg/ml powder for oral suspension.]
+[Tamiflu 6 mg/ml powder for oral suspension.]
 
 Powder for oral suspension:
 Sorbitol (E420),
@@ -34,3 +35,7 @@ Xanthan gum (E415)
 Sodium benzoate (E211)
 Saccharin sodium (E954)
 Tutti frutti flavour (including maltodextrins [maize], propylene glycol, arabic gum E414 and natural identical flavouring substances [mainly consisting of banana, pineapple and peach flavour]).
+
+[Tamiflu 12 mg/ml powder for oral suspension.]
+
+(all sentences already above)

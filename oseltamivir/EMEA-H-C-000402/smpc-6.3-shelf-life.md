@@ -10,6 +10,10 @@
 
 (all sentences already above)
 
-[Tamiflu 12 mg/ml powder for oral suspension.]
+[Tamiflu 6 mg/ml powder for oral suspension.]
 
 2 years for powder for oral suspension.
+
+[Tamiflu 12 mg/ml powder for oral suspension.]
+
+(all sentences already above)
