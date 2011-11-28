@@ -8,4 +8,4 @@
 
 [Pradaxa 150 mg hard capsules]
 
-{DD/MM/YYYY}
+{01/08/2011}

@@ -4,12 +4,12 @@ Hepatic impairment
 
 Patients with elevated liver enzymes > 2 ULN were excluded in controlled clinical trials investigating the VTE prevention following elective hip or knee replacement surgery.
 No treatment experience is available for this subpopulation of patients, and therefore the use of Pradaxa is not recommended in this population.
-
 Haemorrhagic risk
 
 As with all anticoagulants, dabigatran etexilate should be used with caution in conditions with an increased risk of bleeding.
 Bleeding can occur at any site during therapy with dabigatran.
 An unexplained fall in haemoglobin and/or haematocrit or blood pressure should lead to a search for a bleeding site.
+
 Factors, such as decreased renal function (30-50 ml/min CrCL), age ≥ 75 years, low body weight < 50 kg, or strong P-gp inhibitor co-medication (e.g. amiodarone, quinidine or verapamil) are associated with increased dabigatran plasma levels (see sections 4.2, 4.5 and 5.2).
 
 Use of acetylsalicylic acid (ASA), clopidogrel or non steroidal antiinflammatory drug (NSAID), as well as the presence of esophagitis, gastritis or gastroesophageal reflux requiring proton pump inhibitors (PPI) or histamine 2 (H2)-blocker treatment increase the risk of GI bleeding.
@@ -33,12 +33,12 @@ However, the aPTT test has limited sensitivity and is not suitable for precise q
 High aPTT values should be interpreted with caution.
 
 If required, more sensitive quantitative tests such as calibrated diluted Thrombin Time (dTT) should be performed (see section 5.1).
-
 Patients who develop acute renal failure must discontinue Pradaxa (see section 4.3).
 
 Limited data is available in patients < 50 kg (see section 5.2).
 
 When severe bleedings occur treatment must be discontinued and the source of bleeding investigated (see section 4.9).
+
 Agents that may enhance the risk of haemorrhage should not be administered concomitantly or should be administered with caution with Pradaxa (see section 4.5).
 
 Interaction with P-gp inducers
@@ -78,11 +78,11 @@ Procedures such as spinal anaesthesia may require complete haemostatic function.
 The risk of spinal or epidural haematoma may be increased in cases of traumatic or repeated puncture and by the prolonged use of epidural catheters.
 After removal of a catheter, an interval of at least 2 hours should elapse before the administration of the first dose of dabigatran etexilate.
 These patients require frequent observation for neurological signs and symptoms of spinal or epidural haematoma.
-
 Post-surgical patients with an increased risk for bleeding
 
 Patients at risk for bleeding or patients at risk of overexposure, notably patients with moderate renal impairment (CrCL 30-50 ml/min), should be treated with caution (see sections 4.4 and 5.1).
 Resume treatment after complete haemostasis is achieved.
+
 Patients at high surgical mortality risk and with intrinsic risk factors for thromboembolic events
 
 There are limited efficacy and safety data for dabigatran available in these patients and therefore they should be treated with caution.
@@ -100,10 +100,9 @@ Pradaxa hard capsules contain the colorant sunset yellow (E110), which may cause
 
 Patients with elevated liver enzymes > 2 ULN were excluded in controlled clinical trials investigating the VTE prevention following elective hip or knee replacement surgery as well as in the study investigating the prevention of stroke and SEE associated with atrial fibrillation.
 
-Dabigatran was associated with higher rates of major gastrointestinal (GI) bleeding which was statistically significant for dabigatran etexilate 150 mg twice daily.
-This increased risk was seen in the elderly
-(≥ 75 years).
-In these patients a dosage of 220 mg dabigatran given as 110 mg capsule twice daily should be considered (see section 4.2).
+In a study of prevention of stroke and SEE in adult patients with nonvalvular atrial fibrillation, Dabigatran was associated with higher rates of major gastrointestinal (GI) bleeding which was statistically significant for dabigatran etexilate 150 mg twice daily.
+This increased risk was seen in the elderly (≥ 75 years).
+In these atrial fibrillationpatients a dosage of 220 mg dabigatran given as 110 mg capsule twice daily should be considered and posology recommendations in section 4.2 be followed.
 
 Myocardial Infarction
 
@@ -119,12 +118,4 @@ Patients with elevated liver enzymes > 2 ULN were excluded from the study invest
 | --- | --- |
 | Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment (30-50 ml/min CrCL) • P-gp inhibitor co-medication Minor: • Low body weight (< 50 kg) |
 | Pharmacodynamic interactions | • ASA • NSAID • Clopidogrel |
-
-Diseases / procedures with special haemorrhagic • Congenital or acquired coagulation disorders
-risks • Thrombocytopenia or functional platelet defects
-- Active ulcerative GI disease
-- Recent gastro-intestinal bleeding
-- Recent biopsy or major trauma
-- Recent ICH
-- Brain, spinal or ophthalmic surgery
-- Bacterial endocarditis
+| Diseases / procedures with special haemorrhagic risks | • Congenital or acquired coagulation disorders • Thrombocytopenia or functional platelet defects • Active ulcerative GI disease • Recent gastro-intestinal bleeding • Recent biopsy or major trauma • Recent ICH • Brain, spinal or ophthalmic surgery • Bacterial endocarditis |

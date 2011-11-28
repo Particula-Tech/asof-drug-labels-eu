@@ -1,7 +1,7 @@
 # 4.3 Contraindications
 
 - Hypersensitivity to the active substance or to any of the excipients
-- Patients with severe renal impairment (CrCL < 30 ml/min)
+- Patients with severe renal impairment (CrCL < 30 ml/min) (see section 4.2)
 - Active clinically significant bleeding
 - Organic lesion at risk of bleeding
 - Spontaneous or pharmacological impairment of haemostasis

@@ -16,7 +16,6 @@ Based on logistic regression analysis, co-administration of ASA and 150 mg dabig
 NSAIDs: NSAIDs given for short-term perioperative analgesia have been shown not to be associated with increased bleeding risk when given in conjunction with dabigatran etexilate.
 With chronic use NSAIDs increased the risk of bleeding by approximately 50 % on both dabigatran and warfarin.
 Therefore, due to the risk of haemorrhage, notably with NSAIDs with elimination half-lives > 12 hours, close observation for signs of bleeding is recommended (see section 4.4).
-
 LMWH: The concomitant use of LMWHs, such as enoxaparin and dabigatran etexilate has not been specifically investigated.
 After switching from 3-day treatment of once daily 40 mg enoxaparin s.c., 24 hours after the last dose of enoxaparin the exposure to dabigatran was slightly lower than that after administration of dabigatran etexilate (single dose of 220 mg) alone.
 A higher anti-FXa/FIIa activity was observed after dabigatran etexilate administration with enoxaparin pre-treatment compared to that after treatment with dabigatran etexilate alone.
@@ -58,6 +57,7 @@ Dabigatran etexilate was given twice daily over 3 consecutive days, on the 3rd d
 Dabigatran AUCτ,ss and Cmax,ss were increased on average by 53 % and 56 %, respectively with concomitant quinidine (see sections 4.2 and 4.4).
 Patients treated for prevention of VTEs after hip or knee replacement surgery, dosing should be reduced to 150 mg taken once daily as 2 capsules of 75 mg Pradaxa if they receive concomitantly dabigatran etexilate and quinidine (see section 4.2).
 Close clinical surveillance is recommended when dabigatran etexilate is combined with quinidine and particularly in the occurrence of bleeding, notably in patients having a mild to moderate renal impairment.
+
 Verapamil: When dabigatran etexilate (150 mg) was co-administered with oral verapamil, the Cmax and AUC of dabigatran were increased but magnitude of this change differs depending on timing of administration and formulation of verapamil (see sections 4.2 and 4.4).
 
 The greatest elevation of dabigatran exposure was observed with the first dose of an immediate release formulation of verapamil administered one hour prior to dabigatran etexilate intake (increase of Cmax by about 180 % and AUC by about 150 %).
@@ -84,10 +84,10 @@ Inadequate clinical data are available regarding the co-administration of Pradax
 P-gp inducers
 
 Concomitant administration of a P-gp inducer (such as rifampicin, St. John´s wort (Hypericum perforatum), carbamazepine, or phenytoin) is expected to result in decreased dabigatran concentrations and should be avoided (see sections 4.4 and 5.2).
-
 Rifampicin: Pre-dosing of the probe inducer rifampicin at a dose of 600 mg once daily for 7 days decreased total dabigatran peak and total exposure by 65.5 and 67 %, respectively.
 The inducing effect was diminished resulting in dabigatran exposure close to the reference by day 7 after cessation of rifampicin treatment.
 No further increase in bioavailability was observed after another 7 days.
+
 Other drugs affecting P-gp
 
 Protease inhibitors including ritonavir and its combinations with other protease inhibitors affect P-gp (either as inhibitor or as inducer).
@@ -112,6 +112,7 @@ The higher rate of bleeding events by ASA or clopidogrel co-medication was also 
 With chronic use in the RE-LY study, NSAIDs increased the risk of bleeding by approximately 50 % on both dabigatran and warfarin.
 
 In patients with normal renal function after hip or knee replacement surgery, receiving dabigatran etexilate and verapamil concomitantly, the dose of Pradaxa should be reduced to 150 mg taken once daily as 2 capsules of 75 mg.
+
 For patients with atrial nonvalvular fibrillation treated for prevention of stroke and SEE, concomitantly receiving dabigatran etexilate and verapamil, the dose of Pradaxa should be reduced to 220 mg taken as one 110 mg capsule twice daily (see section 4.2).
 
 [Pradaxa 150 mg hard capsules]

@@ -16,13 +16,17 @@ Treatment should be initiated orally within 1–4 hours of completed surgery wit
 
 For both surgeries, if haemostasis is not secured, initiation of treatment should be delayed.
 If treatment is not started on the day of surgery then treatment should be initiated with 2 capsules once daily.
-Renal impairment
 
-Treatment with Pradaxa in patients with severe renal impairment (creatinine clearance (CrCL) < 30 ml/min) is contraindicated (see section 4.3).
+Renal impairment
+Treatment with Pradaxa in patients with severe renal impairment creatinine clearance (CrCL) < 30 ml/min) is contraindicated (see section 4.3).
 
 In patients with moderate renal impairment (CrCL 30-50 ml/min), there is limited clinical experience.
 These patients should be treated with caution.
 The recommended dose is 150 mg taken once daily as 2 capsules of 75 mg (see sections 4.4 and 5.1).
+
+Renal function should be assessed by calculating the CrCL prior to initiation of treatment with Pradaxa to exclude patients with severe renal impairment (i.e. CrCL < 30 ml/min) (see sections 4.3, 4.4 and 5.2).
+
+While on treatment renal function should be assessed in certain clinical situations when it is suspected that the renal function could decline or deteriorate (such as hypovolemia, dehydration, and with certain comedications, etc).
 
 Concomitant use of Pradaxa with strong P-glycoprotein (P-gp) inhibitors, i.e. amiodarone, quinidine or verapamil
 
@@ -37,6 +41,9 @@ In elderly patients (> 75 years) there is limited clinical experience.
 These patients should be treated with caution.
 The recommended dose is 150 mg taken once daily as 2 capsules of 75 mg (see sections 4.4 and 5.1).
 
+As renal impairment may be frequent in the elderly (>75 years), renal function should be assessed by calculating the CrCL prior to initiation of treatment with Pradaxa to exclude patients with severe renal impairment (i.e. CrCL < 30 ml/min).
+While on treatment the renal function should also be assessed in certain clinical situations when it is suspected that the renal function could decline or deteriorate (such as hypovolemia, dehydration, and with certain comedications, etc) (see sections 4.3, 4.4 and 5.2).
+
 Hepatic impairment
 
 Patients with elevated liver enzymes > 2 upper limit of normal (ULN) were excluded in clinical trials investigating the VTE prevention following elective hip or knee replacement surgery.
@@ -50,12 +57,12 @@ Given the available clinical and kinetic data no adjustment is necessary (see se
 Gender
 
 Given the available clinical and kinetic data, no dose adjustment is necessary (see section 5.2).
-
 Switching
 
 Pradaxa treatment to parenteral anticoagulant
 
 It is recommended to wait 24 hours after the last dose before switching from Pradaxa to a parenteral anticoagulant (see section 4.5).
+
 Parenteral anticoagulants to Pradaxa
 
 Dabigatran etexilate should be given 0-2 hours prior to the time that the next dose of the alternate therapy would be due, or at the time of discontinuation in case of continuous treatment (e.g. intravenous Unfractionated Heparin (UFH)) (see section 4.5).
@@ -88,8 +95,10 @@ In case of intolerability to dabigatran, patients should be instructed to immedi
 
 Patients between 75-80 years should be treated with a daily dose of 300 mg taken as one 150 mg capsule twice daily.
 A dose of 220 mg taken as one 110 mg capsule twice daily can be individually considered, at the discretion of the physician, when the thromboembolic risk is low and the bleeding risk is high (see section 4.4).
-
 Patients aged 80 years or above should be treated with a daily dose of 220 mg taken as one 110 mg capsule twice daily due to the increased risk of bleeding in this population.
+
+As renal impairment may be frequent in the elderly (>75 years), renal function should be assessed by calculating the CrCL prior to initiation of treatment with Pradaxa to exclude patients with severe renal impairment (i.e. CrCL < 30 ml/min ).
+The renal function should also be assessed at least once a year in patients treated with Pradaxa or more frequently as needed in certain clinical situations when it is suspected that the renal function could decline or deteriorate (such as hypovolemia, dehydration, and with certain comedications, etc) (see sections 4.3, 4.4 and 5.2).
 
 Patients at risk of bleeding
 
@@ -101,10 +110,16 @@ When clinically relevant bleeding occurs, treatment should be interrupted.
 
 For subjects with gastritis, esophagitis, or gastroesophageal reflux, the dose of 220 mg taken as one 110 mg capsule twice daily may be considered due to the elevated risk of major gastro-intestinal bleeding (see section 4.4).
 
+Treatment with Pradaxa in patients with severe renal impairment (creatinine clearance (CrCL) < 30 ml/min) is contraindicated (see section 4.3).
+
 No dose adjustment is necessary in patients with mild renal impairment (CrCL 50- ≤ 80 ml/min).
 For patients with moderate renal impairment (CrCL 30-50 ml/min) the recommended dose of Pradaxa is also 300 mg taken as one 150 mg capsule twice daily.
 However, for patients with high risk of bleeding, a dose reduction of Pradaxa to 220 mg taken as one 110 mg capsule twice daily should be considered (see sections 4.4 and 5.2).
 Close clinical surveillance is recommended in patients with renal impairment.
+
+Renal function should be assessed by calculating the CrCL prior to initiation of treatment with Pradaxa to exclude patients with severe renal impairment (i.e. CrCL < 30 ml/min)].
+
+While on treatment renal function should be assessed at least once a year or more frequently as needed in certain clinical situations when it is suspected that the renal function could decline or deteriorate (such as hypovolemia, dehydration, and with certain comedications, etc).
 
 No dose adjustment is necessary for concomitant use of amiodarone or quinidine (see sections 4.4, 4.5 and 5.2).
 

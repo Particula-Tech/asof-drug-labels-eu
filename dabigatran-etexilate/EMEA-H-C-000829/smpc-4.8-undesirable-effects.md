@@ -105,6 +105,7 @@ In the pivotal study investigating the prevention of stroke and SEE in patients 
 Of these 6,059 were treated with 150 mg twice daily of dabigatran etexilate, while 5,983 received doses of 110 mg twice daily.
 
 In total, about 9 % of patients treated for elective hip or knee surgery (short-term treatment for up to 42 days) and 22 % of patient with atrial fibrillation treated for the prevention of stroke and SEE (long-term treatment for up to 3 years) experienced adverse reactions.
+
 The most commonly reported adverse reactions are bleedings occurring in total in approximately 14 % of patients treated short-term for elective hip or knee replacement surgery, and 16,5 % in patients with atrial fibrillation treated for the prevention of stroke and SEE.
 
 Since the patient populations treated in the 2 indications are not comparable and bleeding events are distributed over several System Organ Classes (SOC), a summary description of major and any bleeding are broken down by indication and given in tables 4 and 5 below.
@@ -179,8 +180,7 @@ Table 3 shows the adverse reactions identified from the primary VTE prevention s
 | Incision site haemorrhage | Rare | Rare | Rare | Rare |
 | Surgical and medical procedures |  |  |  |  |
 | Wound drainage | Uncommon | Uncommon | - | - |
-
-Post procedural drainage Rare Rare - -
+| Post procedural drainage | Rare | Rare | - | - |
 
 Prevention of VTE
 

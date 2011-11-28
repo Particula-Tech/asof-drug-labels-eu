@@ -111,6 +111,15 @@ Half-life is prolonged if renal function is impaired as shown in table 10.
 
 Table 10: Half-life of total dabigatran in healthy subjects and subjects with impaired renal function.
 
+glomerular filtration rate gMean (gCV %; range)
+
+| (CrCL,) [ml/min] | half-life [h] |
+| --- | --- |
+| ≥ 80 | 13.4 (25.7 %; 11.0-21.6) |
+| ≥ 50-< 80 | 15.3 (42.7 %;11.7-34.1) |
+| ≥ 30-< 50 | 18.4 (18.5 %;13.3-23.0) |
+| < 30 | 27.2(15.3 %; 21.6-35.0) |
+
 Patients with moderate renal impairment (CrCL between 30 and 50 ml/min) had on average 2.29-fold and 1.81-fold higher pre- and post-dose dabigatran plasma concentrations, respectively, when compared with patients without renal impairment (CrCL ≥ 80 ml/min).
 
 No dose adjustment is recommended (see section 4.2).
