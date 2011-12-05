@@ -19,7 +19,6 @@ During long-term treatment, gastrin levels double in most cases.
 An excessive increase, however, occurs only in isolated cases.
 As a result, a mild to moderate increase in the number of specific endocrine (ECL) cells in the stomach is observed in a minority of cases during long-term treatment (simple to adenomatoid hyperplasia).
 However, according to the studies conducted so far, the formation of carcinoid precursors (atypical hyperplasia) or gastric carcinoids as were found in animal experiments (see section 5.3) have not been observed in humans.
-
 Clinical efficacy
 In a retrospective analysis of 17 studies in 5960 patients with gastro-oesophageal reflux disease (GORD) who were treated with 20 mg pantoprazole monotherapy, the symptoms associated with acid reflux e.g. heartburn and acid regurgitation were evaluated according to a standardised methodology.
 Studies selected had to have at least one acid reflux symptom recording point at 2 weeks.

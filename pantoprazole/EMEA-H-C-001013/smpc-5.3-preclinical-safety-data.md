@@ -1,6 +1,6 @@
 # 5.3 Preclinical safety data
 
-Preclinical data reveal no special hazard to humans based on conventional studies of safety pharmacology, repeated dose toxicity and genotoxicity.
+Preclinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity and genotoxicity.
 
 In the 2-year carcinogenicity studies in rats, neuroendocrine neoplasms were found.
 In addition, squamous cell papillomas were found in the forestomach of rats in one study.

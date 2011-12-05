@@ -23,6 +23,4 @@ Shellac
 Red iron oxide (E172)
 Black iron oxide (E172)
 Yellow iron oxide (E172)
-Soya lecithin
-Titanium dioxide (E171)
-Antifoam DC 1510
+Ammonia solution, concentrated

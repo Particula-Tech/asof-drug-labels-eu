@@ -12,7 +12,7 @@ If no symptom relief is obtained within 2 weeks of continuous treatment, the pat
 Special populations
 No dose adjustment is necessary in elderly patients or in those with impaired renal or liver function.
 
-Paediatric use
+Paediatric population
 PANTOZOL Control is not recommended for use in children and adolescents below 18 years of age due to insufficient data on safety and efficacy.
 
 Method of administration
