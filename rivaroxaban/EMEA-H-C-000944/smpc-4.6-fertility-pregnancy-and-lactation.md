@@ -15,3 +15,13 @@ No data on the use of rivaroxaban in breast feeding women are available.
 Data from animals indicate that rivaroxaban is secreted into milk.
 Therefore Xarelto is contraindicated during breast feeding (see section 4.3).
 A decision must be made whether to discontinue breast feeding or to discontinue/abstain from therapy.
+
+[Xarelto 15 mg film-coated tablets]
+
+Safety and efficacy of Xarelto have not been established in pregnant women.
+
+Safety and efficacy of Xarelto have not been established in breast feeding women.
+
+[Xarelto 20 mg film-coated tablets]
+
+(all sentences already above)

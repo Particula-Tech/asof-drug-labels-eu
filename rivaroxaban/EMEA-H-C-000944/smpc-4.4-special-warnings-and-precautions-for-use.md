@@ -58,3 +58,39 @@ Strong CYP3A4 inducers should be co-administered with caution (see section 4.5).
 Information about excipients
 Xarelto contains lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+
+[Xarelto 15 mg film-coated tablets]
+
+Clinical surveillance in line with anticoagulation practice is recommended throughout the treatment period.
+
+In the clinical studies mucosal bleedings (i.e. epistaxis, gingival, gastrointestinal, genito urinary) and anemia were seen more frequently during long term rivaroxaban treatment compared with VKA treatment.
+Thus, in addition to adequate clinical surveillance, laboratory testing of haemoglobin/haematocrit could be of value to detect occult bleeding, as judged to be appropriate.
+
+These patients are to be carefully monitored for signs and symptoms of bleeding complications and anaemia after initiation of treatment (see section 4.8).
+
+In patients with severe renal impairment (creatinine clearance < 30 ml/min) rivaroxaban plasma levels may be significantly increased (1.6 fold on average) which may lead to an increased bleeding risk.
+Xarelto is to be used with caution in patients with creatinine clearance 15 - 29 ml/min.
+Use is not recommended in patients with creatinine clearance < 15 ml/min (see sections 4.2 and 5.2).
+Xarelto should be used with caution in patients with renal impairment concomitantly receiving other medicinal products that are potent inhibitors of CYP3A4 (e.g. clarithromycin, telithromycin) as PK modelling shows increased rivaroxaban concentrations in these patients.
+
+These active substances are strong inhibitors of both CYP3A4 and P-gp and therefore may increase rivaroxaban plasma concentrations to a clinically relevant degree (2.6 fold on average) which may lead to an increased bleeding risk (see section 4.5).
+
+Care is to be taken if patients are treated concomitantly with medicinal products affecting haemostasis such as non-steroidal anti-inflammatory medicinal products (NSAIDs), acetylsalicylic acid, platelet aggregation inhibitors or other antithrombotic agents.
+
+- bronchiectasis or history of pulmonary bleeding.
+
+Patients with prosthetic valves
+Safety and efficacy of Xarelto have not been studied in patients with prosthetic heart valves; therefore, there are no data to support that Xarelto 20 mg (15 mg in patients with moderate or severe renal impairment) provides adequate anticoagulation in this patient population.
+Treatment with Xarelto is not recommended for these patients.
+
+Patients with acute pulmonary embolism
+Xarelto is not recommended in the treatment of acute pulmonary embolism.
+
+Dosing recommendations before and after invasive procedures and surgical intervention
+If an invasive procedure or surgical intervention is required, Xarelto should be stopped at least 24 hours before the intervention, if possible and based on the clinical judgement of the physician.
+If the procedure cannot be delayed the increased risk of bleeding should be assessed against the urgency of the intervention.
+Xarelto should be restarted after the invasive procedure or surgical intervention as soon as possible provided the clinical situation allows and adequate haemostasis has been established (see section 5.2).
+
+[Xarelto 20 mg film-coated tablets]
+
+(all sentences already above)

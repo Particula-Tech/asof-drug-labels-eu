@@ -69,3 +69,33 @@ Depending on the different PT reagents used, the slope differed considerably.
 When Neoplastin PT was used, baseline PT was about 13 s and the slope was around 3 to 4 s/(100 µg/l).
 The results of the PK/PD analyses in Phase II were consistent with the data established in healthy subjects.
 In patients, baseline Factor Xa and PT were influenced by the surgery resulting in a difference in the concentration-PT slope between the day post-surgery and steady state.
+
+[Xarelto 15 mg film-coated tablets]
+
+Oral absorption of rivaroxaban is almost complete and oral bioavailability is high (80 - 100%) for the 10 mg tablet dose, irrespective of fasting/fed conditions.
+Due to a reduced extent of absorption an oral bioavailability of 66% was determined for the 20 mg tablet under fasting conditions.
+When Xarelto 20 mg tablets are taken together with food increases in mean AUC by 39% were observed when compared to tablet intake under fasting conditions, indicating almost complete absorption and high oral bioavailability.
+Xarelto 15 mg and 20 mg are to be taken with food (see section 4.2).
+Rivaroxaban pharmacokinetics are approximately linear up to about 15 mg once daily in fasting state.
+Under fed conditions Xarelto 10 mg, 15 mg and 20 mg tablets demonstrated dose-proportionality.
+Variability in rivaroxaban pharmacokinetics is moderate with inter-individual variability (CV%) ranging from 30% to 40%.
+
+Biotransformation and Elimination
+With a systemic clearance of about 10 l/h, rivaroxaban can be classified as a low-clearance substance.
+After oral administration the elimination becomes absorption rate limited.
+Elimination of rivaroxaban from plasma occurs with terminal half-lives of 5 to 9 hours in young individuals, and with terminal half-lives of 11 to 13 hours in the elderly.
+
+Xarelto is contraindicated in patients with hepatic disease associated with coagulopathy and clinically relevant bleeding risk, including cirrhotic patients with Child Pugh B and C (see section 4.3).
+
+Pharmacokinetic data in patients
+In patients receiving rivaroxaban for treatment of acute DVT 20 mg once daily the geometric mean concentration (90% prediction interval) 2 - -4 h and about 24 h after dose (roughly representing maximum and minimum concentrations during the dose interval) was 215 (22 - 535) and 32 (6 - 239) μg/l, respectively.
+
+The pharmacokinetic/pharmacodynamic (PK/PD) relationship between rivaroxaban plasma concentration and several PD endpoints (Factor Xa inhibition, PT, aPTT, Heptest) has been evaluated after administration of a wide range of doses (5 - 30 mg twice a day).
+The results of the PK/PD analyses in Phase II and III were consistent with the data established in healthy subjects.
+
+Paediatric population
+Safety and efficacy have not been established for children and adolescents up to 18 years.
+
+[Xarelto 20 mg film-coated tablets]
+
+In patients receiving rivaroxaban for treatment of acute DVT 20 mg once daily the geometric mean concentration (90% prediction interval) 2 - 4 h and about 24 h after dose (roughly representing maximum and minimum concentrations during the dose interval) was 215 (22 - 535) and 32 (6 - 239) μg/l, respectively.
