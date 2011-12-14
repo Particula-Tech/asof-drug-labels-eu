@@ -15,5 +15,4 @@ Hypersensitivity to the active substance or to any of the excipients or to murin
 Active, severe infections (see section 4.4).
 
 Patients in a severely immunocompromised state
-
 Severe heart failure (New York Heart Association Class IV) or severe, uncontrolled cardiac disease (see section 4.4 regarding other cardiovascular diseases).

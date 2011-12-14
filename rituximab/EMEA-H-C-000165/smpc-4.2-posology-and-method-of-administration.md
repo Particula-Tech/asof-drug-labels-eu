@@ -45,6 +45,9 @@ Rheumatoid arthritis
 
 Patients treated with MabThera must be given the patient alert card with each infusion (see Annex IIIA – Labelling).
 
+Patients should receive treatment with 100 mg intravenous methylprednisolone to be completed 30 minutes prior to MabThera infusions to decrease the incidence and severity of infusion related reactions.
+Premedication consisting of an analgesic/anti-pyretic (e.g. paracetamol) and an anti-histaminic drug (e.g. diphenhydramine) should always be administered before each infusion of MabThera (see section 4.4).
+
 A course of MabThera consists of two 1000 mg intravenous infusions.
 The recommended dosage of MabThera is 1000 mg by intravenous infusion followed by a second 1000 mg intravenous infusion two weeks later.
 
@@ -54,8 +57,6 @@ Retreatment should be given at that time if residual disease activity remains, o
 Available data suggest that clinical response is usually achieved within 16 - 24 weeks of an initial treatment course.
 Continued therapy should be carefully reconsidered in patients who show no evidence of therapeutic benefit within this time period.
 
-Patients should receive treatment with 100 mg intravenous methylprednisolone to be completed 30 minutes prior to MabThera infusions to decrease the incidence and severity of infusion related reactions (see method of administration).
-
 First infusion of each course
 The recommended initial rate for infusion is 50 mg/hr; after the first 30 minutes, it can be escalated in 50 mg/hr increments every 30 minutes, to a maximum of 400 mg/hr.
 
@@ -64,15 +65,18 @@ Subsequent doses of MabThera can be infused at an initial rate of 100 mg/hr, and
 
 Special populations
 
-Paediatric use
+Paediatric population
 The safety and efficacy of MabThera in children has not been established.
-
 Elderly
 No dose adjustment is required in elderly patients (aged >65 years).
+
 Method of administration
-Premedication with glucocorticoids should be considered if MabThera is not given in combination with glucocorticoid-containing chemotherapy for treatment of non-Hodgkin’s lymphoma and chronic lymphocytic leukaemia.
 
 Premedication consisting of an anti-pyretic and an antihistaminic, e.g. paracetamol and diphenhydramine, should always be administered before each infusion of MabThera.
+
+In Rheumatoid Arthritis, premedication with glucocorticoids should also be administered in order to reduce the frequency and severity of infusion-related reactions.
+
+Premedication with glucocorticoids should be considered if MabThera is not given in combination with glucocorticoid-containing chemotherapy for treatment of non-Hodgkin’s lymphoma and chronic lymphocytic leukaemia.
 
 First infusion
 The recommended initial rate for infusion is 50 mg/hr; after the first 30 minutes, it can be escalated in 50 mg/hr increments every 30 minutes, to a maximum of 400 mg/hr.

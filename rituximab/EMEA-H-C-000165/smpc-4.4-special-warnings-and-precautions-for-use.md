@@ -37,6 +37,7 @@ Patients with a history of pulmonary insufficiency or those with pulmonary tumou
 Patients who develop severe cytokine release syndrome should have their infusion interrupted immediately (see section 4.2) and should receive aggressive symptomatic treatment.
 Since initial improvement of clinical symptoms may be followed by deterioration, these patients should be closely monitored until tumour lysis syndrome and pulmonary infiltration have been resolved or ruled out.
 Further treatment of patients after complete resolution of signs and symptoms has rarely resulted in repeated severe cytokine release syndrome.
+
 Infusion related adverse reactions of all kinds have been observed in 77% of patients treated with MabThera (including cytokine release syndrome accompanied by hypotension and bronchospasm in 10 % of patients) see section 4.8.
 These symptoms are usually reversible with interruption of MabThera infusion and administration of an anti-pyretic, an antihistaminic, and, occasionally, oxygen, intravenous saline or bronchodilators, and glucocorticoids if required.
 Please see cytokine release syndrome above for severe reactions.
@@ -52,7 +53,7 @@ Additional reactions reported in some cases were myocardial infarction, atrial f
 Since hypotension may occur during MabThera infusion, consideration should be given to withholding anti-hypertensive medicines 12 hours prior to the MabThera infusion.
 
 Cardiac disorders
-Angina pectoris, or cardiac arrhythmias such as atrial flutter and fibrillation, heart failure and/or myocardial infarction have occurred in patients treated with MabThera.
+Angina pectoris, cardiac arrhythmias such as atrial flutter and fibrillation, heart failure and/or myocardial infarction have occurred in patients treated with MabThera.
 Therefore patients with a history of cardiac disease and/or cardiotoxic chemotherapy should be monitored closely.
 
 Haematological toxicities
@@ -69,8 +70,8 @@ Physicians should exercise caution when considering the use of MabThera in patie
 
 Cases of hepatitis B reactivation have been reported in subjects receiving MabThera including fulminant hepatitis with fatal outcome.
 The majority of these subjects were also exposed to cytotoxic chemotherapy.
-Limited information from one study in relapsed/refractory CLL patients suggest that MabThera treatment may also worsen the outcome of primary hepatitis B infections.
-Hepatitis B virus (HBV) screening should be considered for high risk patients before initiation of treatment with MabThera.
+Limited information from one study in relapsed/refractory CLL patients suggests that MabThera treatment may also worsen the outcome of primary hepatitis B infections.
+Hepatitis B virus (HBV) screening should always be performed in patients at risk of infection with HBV before initiation of treatment with MabThera.
 Carriers of hepatitis B and patients with a history of hepatitis B should be closely monitored for clinical and laboratory signs of active HBV infection during and for several months (up to seven) following MabThera therapy.
 Very rare cases of progressive multifocal leukoencephalopathy (PML) have been reported during post-marketing use of MabThera in NHL and CLL (see section 4.8).
 The majority of patients had received rituximab in combination with chemotherapy or as part of a hematopoietic stem cell transplant.
@@ -90,20 +91,29 @@ The use of MabThera is not recommended in MTX-naïve patients since a favourable
 
 Infusion related reactions
 MabThera is associated with infusion related reactions (IRR), which may be related to release of cytokines and/or other chemical mediators.
-Premedication with intravenous glucocorticoid significantly reduced the incidence and severity of these events and should be administered prior to MabThera treatment (see section 4.2 and section 4.8).
+Premedication consisting of an analgesic/anti-pyretic drug and an anti-histaminic drug, should always be administered before each infusion of MabThera.
+Premedication with glucocorticoids should also be administered before each infusion of MabThera in order to reduce the frequency and severity of infusion-related reactions (see section 4.2 and section 4.8).
 
+Severe infusion-related reactions with fatal outcome have been reported in the post-marketing setting.
+Most infusion-related events reported in clinical trials were mild to moderate in severity.
 The most common symptoms were allergic reactions like headache, pruritus, throat irritation, flushing, rash, urticaria, hypertension, and pyrexia.
 In general, the proportion of patients experiencing any infusion reaction was higher following the first infusion than following the second infusion of any treatment course.
-The incidence of IRR decreased with subsequent courses.
+The incidence of IRR decreased with subsequent courses (see section 4.8).
 The reactions reported were usually reversible with a reduction in rate, or interruption, of MabThera infusion and administration of an anti-pyretic, an antihistamine, and, occasionally, oxygen, intravenous saline or bronchodilators, and glucocorticoids if required.
+Closely monitor patients with pre-existing cardiac conditions and those who experienced prior cardiopulmonary adverse reactions.
+Depending on the severity of the infusion-related reaction and the required interventions, temporarily or permanently discontinue MabThera.
 In most cases, the infusion can be resumed at a 50 % reduction in rate (e.g. from 100 mg/h to 50 mg/h) when symptoms have completely resolved.
 
 Medicinal products for the treatment of hypersensitivity reactions, e.g., epinephrine (adrenaline), antihistamines and glucocorticoids, should be available for immediate use in the event of an allergic reaction during administration of MabThera.
 
 There are no data on the safety of MabThera in patients with moderate heart failure (NYHA class III) or severe, uncontrolled cardiovascular disease.
 In patients treated with MabThera, the occurrence of pre-existing ischemic cardiac conditions becoming symptomatic, such as angina pectoris, has been observed, as well as atrial fibrillation and flutter.
-Therefore, in patients with a known cardiac history, the risk of cardiovascular complications resulting from infusion reactions should be considered before treatment with MabThera and patients closely monitored during administration.
+Therefore, in patients with a known cardiac history, and those who experienced prior cardiopulmonary adverse reactions, the risk of cardiovascular complications resulting from infusion reactions should be considered before treatment with MabThera and patients closely monitored during administration.
 Since hypotension may occur during MabThera infusion, consideration should be given to withholding anti-hypertensive medications 12 hours prior to the MabThera infusion.
+
+Cardiac disorders
+Angina pectoris, cardiac arrhythmias such as atrial flutter and fibrillation, heart failure and/or myocardial infarction have occurred in patients treated with MabThera.
+Therefore patients with a history of cardiac disease should be monitored closely (see Infusion related reactions, above).
 
 Infections
 Serious infections, including fatalities, can occur during therapy with MabThera (see section 4.8).
@@ -116,8 +126,11 @@ Before giving a subsequent course of MabThera treatment, patients should be re-e
 
 Very rare cases of fatal progressive multifocal leukoencephalopathy (PML) have been reported following use of MabThera for the treatment of rheumatoid arthritis and autoimmune diseases including Systemic Lupus Erythematosus (SLE) and Vasculitis..
 
-In patients with non-Hodgkin’s lymphoma receiving rituximab in combination with cytotoxic chemotherapy, cases of fatal hepatitis B reactivation have been reported (see non-Hodgkin’s lymphoma).
-Reactivation of hepatitis B infection has also been very rarely reported in RA patients receiving MabThera.
+Hepatitis B Infections
+Cases of hepatitis B reactivation, including those with a fatal outcome, have been reported in RA patients receiving MabThera.
+
+Hepatitis B virus (HBV) screening should always be performed in patients at risk of infection with HBV before initiation of treatment with MabThera.
+Carriers of hepatitis B and patients with a history of hepatitis B should be closely monitored for clinical and laboratory signs of active HBV infection during, and for several months following, MabThera therapy.
 
 Immunization
 Physicians should review the patient’s vaccination status and follow current immunization guidelines prior to MabThera therapy.
@@ -132,7 +145,6 @@ In a randomized study, patients with RA treated with MabThera and methotrexate h
 Should non-live vaccinations be required whilst receiving MabThera therapy, these should be completed at least 4 weeks prior to commencing the next course of MabThera.
 
 In the overall experience of MabThera repeat treatment over one year, the proportions of patients with positive antibody titers against S. pneumoniae, influenza, mumps, rubella, varicella and tetanus toxoid were generally similar to the proportions at baseline.
-
 Concomitant/sequential use of other DMARDs
 The concomitant use of MabThera and antirheumatic therapies other than those specified under the rheumatoid arthritis indication and posology is not recommended.
 
@@ -150,4 +162,8 @@ If a patient develops PML the dosing of MabThera must be permanently discontinue
 
 Additional reactions reported in some cases were myocardial infarction, atrial fibrillation, pulmonary edema and acute reversible thrombocytopenia.
 
+Therefore, in patients with a known cardiac history, and those who experienced prior cardiopulmonary adverse reactions the risk of cardiovascular complications resulting from infusion reactions should be considered before treatment with MabThera and patients closely monitored during administration.
+
 Physicians should exercise caution when considering the use of MabThera in patients with a history of recurring or chronic infections or with underlying conditions which may further predispose patients to serious infection, e.g. hypogammaglobulinaemia(see section 4.8).
+
+Carriers of hepatitis B and patients with a history of hepatitis B should be closely monitored for clinical and laboratory signs of active HBV infection during and for several months following MabThera therapy.

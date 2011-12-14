@@ -10,7 +10,6 @@ Due to the long retention time of rituximab in B cell depleted patients, women o
 
 Developmental toxicity studies performed in cynomolgus monkeys revealed no evidence of embryotoxicity in utero.
 New born offspring of maternal animals exposed to MabThera were noted to have depleted B cell populations during the post natal phase.
-
 Lactation
 Whether rituximab is excreted in human milk is not known.
 However, because maternal IgG is excreted in human milk, and rituximab was detectable in milk from lactating monkeys, women should not breastfeed while treated with MabThera and for 12 months following MabThera treatment.
