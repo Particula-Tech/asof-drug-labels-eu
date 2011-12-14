@@ -14,7 +14,6 @@ Furthermore, the receptor affected by fingolimod (sphingosine 1-phosphate recept
 There are very limited data from the use of fingolimod in pregnant women.
 
 There are no data on the effects of fingolimod on labour and delivery.
-
 Breast-feeding
 Fingolimod is excreted in milk of treated animals during lactation at concentrations 2-3-fold higher than that found in maternal plasma (see section 5.3).
 Due to the potential for serious adverse reactions to fingolimod in nursing infants, women receiving Gilenya should not breastfeed.

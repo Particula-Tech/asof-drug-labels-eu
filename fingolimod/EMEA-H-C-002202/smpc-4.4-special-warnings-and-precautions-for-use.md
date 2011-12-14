@@ -69,7 +69,7 @@ During clinical trials, elevations 3-fold the upper limit of normal (ULN) or gre
 Elevations 5-fold the ULN occurred in 2% of patients on fingolimod and 1% of patients on placebo.
 In clinical trials, fingolimod was discontinued if the elevation exceeded 5 times the ULN.
 Recurrence of liver transaminase elevations occurred with rechallenge in some patients, supporting a relationship to fingolimod.
-The majority of elevations occurred within 3-4 months.
+In clinical studies, transaminase elevations occurred at any time during treatment although the majority occurred within the first 12 months.
 Serum transaminase levels returned to normal within approximately 2 months after discontinuation of fingolimod.
 
 Gilenya has not been studied in patients with severe pre-existing hepatic injury (Child-Pugh class C) and should not be used in these patients (see section 4.3).
@@ -77,7 +77,7 @@ Gilenya has not been studied in patients with severe pre-existing hepatic injury
 Due to the immunosuppressive properties of fingolimod, initiation of treatment should be delayed in patients with active viral hepatitis until resolution.
 
 Recent (i.e. within last 6 months) transaminase and bilirubin levels should be available before initiation of treatment with Gilenya.
-In the absence of clinical symptoms, liver transaminases should be monitored at Months 1, 3 and 6 on therapy and periodically thereafter.
+In the absence of clinical symptoms, liver transaminases should be monitored at Months 1, 3, 6, 9 and 12 on therapy and periodically thereafter.
 If liver transaminases rise above 5 times the ULN, more frequent monitoring should be instituted, including serum bilirubin and alkaline phosphatase (ALP) measurement.
 With repeated confirmation of liver transaminases above 5 times the ULN, treatment with Gilenya should be interrupted and only re-commenced once liver transaminase values have normalised.
 

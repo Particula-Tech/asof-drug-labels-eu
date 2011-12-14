@@ -132,13 +132,13 @@ The conduction abnormalities were typically transient, asymptomatic and resolved
 Although most patients did not require medical intervention, one patient on Gilenya 0.5 mg received isoprenaline for asymptomatic second-degree Mobitz I atrioventricular block.
 
 Blood pressure
-In multiple sclerosis clinical studies Gilenya 0.5 mg was associated with an average increase of approximately 2 mmHg in systolic pressure and approximately 1 mmHg in diastoic pressure, manifesting approximately 2 months after treatment initiation.
+In multiple sclerosis clinical studies Gilenya 0.5 mg was associated with an average increase of approximately 2 mmHg in systolic pressure and approximately 1 mmHg in diastolic pressure, manifesting approximately 2 months after treatment initiation.
 This increase persisted with continued treatment.
 Hypertension was reported in 6.1% of patients on fingolimod 0.5 mg and in 3.8% of patients on placebo (see also section 4.4, Blood pressure effects).
 Liver transaminases
 In multiple sclerosis clinical studies 8% and 2% of patients treated with Gilenya 0.5 mg experienced asymptomatic elevation in serum levels of hepatic transaminases ≥3x ULN (upper limit of normal) and ≥5x ULN, respectively.
 Recurrence of liver transaminase elevations has occurred upon re-challenge in some patients, supporting a relationship to the medicinal product.
-The majority of elevations occurred within 3-4 months.
+In clinical studies, transaminase elevations occurred at any time during treatment although the majority occurred within the first 12 months.
 Serum transaminase levels returned to normal within approximately 2 months after discontinuation of Gilenya.
 In a small number of patients (N=10 on 1.25 mg, N=2 on 0.5 mg) who experienced liver transaminase elevations ≥5x ULN and who continued on Gilenya therapy, the elevations returned to normal within approximately 5 months (see also section 4.4, Liver function).
 
