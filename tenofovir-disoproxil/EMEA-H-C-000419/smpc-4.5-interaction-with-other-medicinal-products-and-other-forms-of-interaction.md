@@ -4,7 +4,7 @@ Interaction studies have only been performed in adults.
 
 Based on the results of in vitro experiments and the known elimination pathway of tenofovir, the potential for CYP450 mediated interactions involving tenofovir with other medicinal products is low.
 
-Concomitant use not recommended:
+Concomitant use not recommended
 Viread should not be administered concomitantly with other medicinal products containing tenofovir disoproxil fumarate.
 
 Viread should not be administered concomitantly with adefovir dipivoxil.
@@ -17,12 +17,12 @@ Use of tenofovir disoproxil fumarate should be avoided with concurrent or recent
 Some examples include, but are not limited to, aminoglycosides, amphotericin B, foscarnet, ganciclovir, pentamidine, vancomycin, cidofovir or interleukin-2 (see section 4.4).
 
 Given that tacrolimus can affect renal function, close monitoring is recommended when it is co-administered with tenofovir disoproxil fumarate.
-
-Other interactions:
+Other interactions
 Interactions between tenofovir disoproxil fumarate and protease inhibitors and antiretroviral agents other than protease inhibitors are listed in Table 1 below (increase is indicated as “↑”, decrease as “↓”, no change as “↔”, twice daily as “b.i.d.”, and once daily as “q.d.”).
+
 Table 1: Interactions between tenofovir disoproxil fumarate and other medicinal products
 
-| Medicinal product by therapeutic areas (dose in mg) | Effects on drug levels Mean percent change in AUC, Cmax, Cmin | Recommendation concerning co-administration with tenofovir disoproxil fumarate 300 mg |
+| Medicinal product by therapeutic areas (dose in mg) | Effects on drug levels Mean percent change in AUC, Cmax, Cmin | Recommendation concerning co-administration with 245 mg tenofovir disoproxil (as fumarate) |
 | --- | --- | --- |
 | ANTI-INFECTIVES |  |  |
 | Antiretrovirals |  |  |
@@ -35,6 +35,7 @@ Table 1: Interactions between tenofovir disoproxil fumarate and other medicinal 
 | Adefovir dipivoxil | AUC: ↔ Cmax: ↔ | Tenofovir disoproxil fumarate should not be administered concurrently with adefovir dipivoxil (see section 4.4). |
 | Entecavir | AUC: ↔ Cmax: ↔ | No clinically significant pharmacokinetic interactions when tenofovir disoproxil fumarate was co-administered with entecavir. |
 
-Studies conducted with other medicinal products: There were no clinically significant pharmacokinetic interactions when tenofovir disoproxil fumarate was co-administered with emtricitabine, lamivudine, indinavir, efavirenz, nelfinavir, saquinavir (ritonavir boosted), methadone, ribavirin, rifampicin, tacrolimus, or the hormonal contraceptive norgestimate/ethinyl oestradiol.
+Studies conducted with other medicinal products
+There were no clinically significant pharmacokinetic interactions when tenofovir disoproxil fumarate was co-administered with emtricitabine, lamivudine, indinavir, efavirenz, nelfinavir, saquinavir (ritonavir boosted), methadone, ribavirin, rifampicin, tacrolimus, or the hormonal contraceptive norgestimate/ethinyl oestradiol.
 
 Tenofovir disoproxil fumarate must be taken with food, as food enhances the bioavailability of tenofovir (see section 5.2).

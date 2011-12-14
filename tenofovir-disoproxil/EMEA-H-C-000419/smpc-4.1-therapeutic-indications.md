@@ -1,7 +1,7 @@
 # 4.1 Therapeutic indications
 
 HIV-1 infection
-Viread is indicated in combination with other antiretroviral medicinal products for the treatment of HIV-1 infected adults aged 18 years and over.
+Viread is indicated in combination with other antiretroviral medicinal products for the treatment of HIV-1 infected adults.
 
 The demonstration of the benefit of Viread in HIV-1 infection is based on results of one study in treatment-naïve patients, including patients with a high viral load (> 100,000 copies/ml) and studies in which Viread was added to stable background therapy (mainly tritherapy) in antiretroviral pre-treated patients experiencing early virological failure (< 10,000 copies/ml, with the majority of patients having < 5,000 copies/ml).
 

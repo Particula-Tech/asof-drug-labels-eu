@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Nucleoside and nucleotide reverse transcriptase inhibitors, ATC code: J05AF07
+Pharmacotherapeutic group: Antiviral for systemic use; nucleoside and nucleotide reverse transcriptase inhibitors, ATC code: J05AF07
 
 Mechanism of action and pharmacodynamic effects: Tenofovir disoproxil fumarate is the fumarate salt of the prodrug tenofovir disoproxil.
 Tenofovir disoproxil is absorbed and converted to the active substance tenofovir, which is a nucleoside monophosphate (nucleotide) analogue.
@@ -16,7 +16,7 @@ Tenofovir is also active against HIV-1 subtypes A, C, D, E, F, G, and O and agai
 Tenofovir shows activity in vitro against HIV-2, with an EC50 of 4.9 µmol/l in MT-4 cells.
 
 Resistance: Strains of HIV-1 with reduced susceptibility to tenofovir and a K65R mutation in reverse transcriptase have been selected in vitro and in some patients (see Clinical results).
-Tenofovir disoproxil fumarate should be avoided in antiretroviral experienced patients with strains harbouring the K65R mutation (see section 4.4).
+Tenofovir disoproxil fumarate should be avoided in antiretroviral-experienced patients with strains harbouring the K65R mutation (see section 4.4).
 
 Clinical studies in treatment-experienced patients have assessed the anti-HIV activity of tenofovir disoproxil 245 mg (as fumarate) against strains of HIV-1 with resistance to nucleoside inhibitors.
 The results indicate that patients whose HIV expressed 3 or more thymidine-analogue associated mutations (TAMs) that included either the M41L or L210W reverse transcriptase mutation showed reduced response to tenofovir disoproxil 245 mg (as fumarate) therapy.
@@ -27,7 +27,6 @@ In study GS-99-907, 550 treatment-experienced patients were treated with placebo
 The mean baseline CD4 cell count was 427 cells/mm3, the mean baseline plasma HIV-1 RNA was 3.4 log10 copies/ml (78% of patients had a viral load of
 < 5,000 copies/ml) and the mean duration of prior HIV treatment was 5.4 years.
 Baseline genotypic analysis of HIV isolates from 253 patients revealed that 94% of patients had HIV-1 resistance mutations associated with nucleoside reverse transcriptase inhibitors, 58% had mutations associated with protease inhibitors and 48% had mutations associated with non-nucleoside reverse transcriptase inhibitors.
-
 At week 24 the time-weighted average change from baseline in log10 plasma HIV-1 RNA levels (DAVG24) was -0.03 log10 copies/ml and -0.61 log10 copies/ml for the placebo and tenofovir disoproxil 245 mg (as fumarate) recipients (p < 0.0001).
 A statistically significant difference in favour of tenofovir disoproxil 245 mg (as fumarate) was seen in the time-weighted average change from baseline at week 24 (DAVG24) for CD4 count (+13 cells/mm3 for tenofovir disoproxil 245 mg (as fumarate) versus -11 cells/mm3 for placebo, p-value = 0.0008).
 The antiviral response to tenofovir disoproxil fumarate was durable through 48 weeks (DAVG48 was -0.57 log10 copies/ml, proportion of patients with HIV-1 RNA below 400 or 50 copies/ml was 41% and 18% respectively).
@@ -60,6 +59,7 @@ In cell based assays, HBV strains expressing the rtV173L, rtL180M, and rtM204I/V
 HBV strains expressing the rtL180M, rtT184G, rtS202G/I, rtM204V and rtM250V mutations associated with resistance to entecavir showed a susceptibility to tenofovir ranging from 0.6- to 6.9-fold that of wild-type virus.
 HBV strains expressing the adefovir-associated resistance mutations rtA181V and rtN236T showed a susceptibility to tenofovir ranging from 2.9- to 10-fold that of wild-type virus.
 Viruses containing the rtA181T mutation remained susceptible to tenofovir with EC50 values 1.5-fold that of wild-type virus.
+
 Clinical efficacy and safety: The demonstration of benefit of tenofovir disoproxil fumarate in compensated and decompensated disease is based on virological, biochemical and serological responses in adults with HBeAg positive and HBeAg negative chronic hepatitis B. Treated patients included those who were treatment-naïve, lamivudine-experienced, adefovir dipivoxil-experienced and patients with lamivudine and/or adefovir dipivoxil resistance mutations at baseline.
 Benefit has also been demonstrated based on histological responses in compensated patients.
 
@@ -173,4 +173,4 @@ Among 28 patients receiving 96 weeks of treatment with tenofovir disoproxil fuma
 
 The efficacy and safety data derived from this study do not support the use of Viread in adolescents.
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with tenofovir disoproxil fumarate in one or more subsets of the paediatric population in HIV and chronic hepatitis B (see section 4.2 for information on paediatric use).
+The European Medicines Agency has deferred the obligation to submit the results of studies with Viread in one or more subsets of the paediatric population in HIV and chronic hepatitis B (see section 4.2 for information on paediatric use).

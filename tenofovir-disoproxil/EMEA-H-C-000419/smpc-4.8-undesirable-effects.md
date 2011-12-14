@@ -1,13 +1,13 @@
 # 4.8 Undesirable effects
 
-a. Summary of the safety profile
+Summary of the safety profile
 HIV-1 and hepatitis B: In patients receiving tenofovir disoproxil fumarate, rare events of renal impairment, renal failure and proximal renal tubulopathy (including Fanconi syndrome) sometimes leading to bone abnormalities (infrequently contributing to fractures) have been reported.
 Monitoring of renal function is recommended for patients receiving Viread (see section 4.4).
-
 HIV-1: Approximately one third of patients can be expected to experience adverse reactions following treatment with tenofovir disoproxil fumarate in combination with other antiretroviral agents.
 These reactions are usually mild to moderate gastrointestinal events.
 Approximately 1% of tenofovir disoproxil fumarate-treated patients discontinued treatment due to the gastrointestinal events.
-Lactic acidosis, severe hepatomegaly with steatosis and lipodystrophy are associated with tenofovir disoproxil fumarate (see sections 4.4 and 4.8c).
+
+Lactic acidosis, severe hepatomegaly with steatosis and lipodystrophy are associated with tenofovir disoproxil fumarate (see sections 4.4 and 4.8 Description of selected adverse reactions).
 
 Co-administration of Viread and didanosine is not recommended as this may result in an increased risk of adverse reactions (see section 4.5).
 Rarely, pancreatitis and lactic acidosis, sometimes fatal, have been reported (see section 4.4).
@@ -17,7 +17,7 @@ In clinical trials of HBV infected patients, the most frequently occurring adver
 
 Acute exacerbation of hepatitis has been reported in patients on treatment as well as in patients who have discontinued hepatitis B therapy (see section 4.4).
 
-b. Tabulated summary of adverse reactions
+Tabulated summary of adverse reactions
 Assessment of adverse reactions for tenofovir disoproxil fumarate is based on safety data from clinical studies and post-marketing experience.
 All adverse reactions are presented in Table 2.
 
@@ -71,11 +71,11 @@ Common: fatigue
 It is not considered to be causally associated with tenofovir disoproxil fumarate in the absence of this condition.
 2 This adverse reaction was identified through post-marketing surveillance but not observed in randomised controlled clinical trials or the tenofovir disoproxil fumarate expanded access program.
 The frequency category was estimated from a statistical calculation based on the total number of patients exposed to tenofovir disoproxil fumarate in randomised controlled clinical trials and the expanded access program (n = 7,319).
-3 See section c. Description of selected adverse reactions for more details.
+3 See section 4.8 Description of selected adverse reactions for more details.
 
-c. Description of selected adverse reactions
+Description of selected adverse reactions
 HIV-1 and hepatitis B:
-Renal impairment: As Viread may cause renal damage monitoring of renal function is recommended (see sections 4.4 and 4.8a).
+Renal impairment: As Viread may cause renal damage monitoring of renal function is recommended (see sections 4.4 and 4.8 Summary of the safety profile).
 
 HIV-1:
 Interaction with didanosine: Co-administration of tenofovir disoproxil fumarate and didanosine is not recommended as it results in a 40-60% increase in systemic exposure to didanosine that may increase the risk of didanosine-related adverse reactions (see section 4.5).
@@ -88,7 +88,7 @@ Combination antiretroviral therapy has been associated with redistribution of bo
 In a 144-week controlled clinical study in antiretroviral-naïve patients that compared tenofovir disoproxil fumarate with stavudine in combination with lamivudine and efavirenz, patients who received tenofovir disoproxil had a significantly lower incidence of lipodystrophy compared with patients who received stavudine.
 The tenofovir disoproxil fumarate arm also had significantly smaller mean increases in fasting triglycerides and total cholesterol than the comparator arm.
 
-Immune Reactivation Syndrome: In HIV infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).
+Immune reactivation syndrome: In HIV infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).
 
 Osteonecrosis: Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to combination antiretroviral therapy (CART).
 The frequency of this is unknown (see section 4.4).
@@ -104,10 +104,10 @@ Periodic monitoring of hepatic function is recommended during treatment (see sec
 
 Exacerbations of hepatitis after discontinuation of treatment: In HBV infected patients, clinical and laboratory evidence of exacerbations of hepatitis have occurred after discontinuation of HBV therapy (see section 4.4).
 
-d. Paediatric population
+Paediatric population
 Assessment of adverse reactions is based on one randomised trial (study GS-US-104-0321) in 87 HIV-1 infected adolescent patients (aged 12 to < 18 years) who received treatment with tenofovir disoproxil fumarate (n = 45) or placebo (n = 42) in combination with other antiretroviral agents for 48 weeks (see section 5.1).
 
-e. Other special population(s)
+Other special population(s)
 Elderly: Tenofovir disoproxil fumarate has not been studied in patients over the age of 65.
 Elderly patients are more likely to have decreased renal function, therefore caution should be exercised when treating elderly patients with tenofovir disoproxil fumarate (see section 4.4).
 

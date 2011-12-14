@@ -1,14 +1,12 @@
 # 4.4 Special warnings and precautions for use
 
-General: HIV antibody testing should be offered to all HBV infected patients before initiating tenofovir disoproxil fumarate therapy (see below Co-infection with HIV-1 and hepatitis B).
+General
+HIV antibody testing should be offered to all HBV infected patients before initiating tenofovir disoproxil fumarate therapy (see below Co-infection with HIV-1 and hepatitis B).
 
 Patients must be advised that tenofovir disoproxil fumarate has not been proven to prevent the risk of transmission of HIV or HBV to others through sexual contact or contamination with blood.
 Appropriate precautions must continue to be used.
 
-Viread contains lactose monohydrate.
-Consequently, patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency, or glucose-galactose malabsorption should not take this medicinal product.
-
-Co-administration of other medicinal products:
+Co-administration of other medicinal products
 
 - Viread should not be administered concomitantly with other medicinal products containing tenofovir disoproxil fumarate.
 - Viread should not be administered concomitantly with adefovir dipivoxil.
@@ -18,9 +16,11 @@ Co-administration of other medicinal products:
   Co-administration of tenofovir disoproxil fumarate and didanosine at a dose of 400 mg daily has been associated with a significant decrease in CD4 cell count, possibly due to an intracellular interaction increasing phosphorylated (i.e. active) didanosine.
   A decreased dosage of 250 mg didanosine co-administered with tenofovir disoproxil fumarate therapy has been associated with reports of high rates of virological failure within several tested combinations for the treatment of HIV-1 infection.
 
-Triple therapy with nucleosides/nucleotides: There have been reports of a high rate of virological failure and of emergence of resistance at an early stage in HIV patients when tenofovir disoproxil fumarate was combined with lamivudine and abacavir as well as with lamivudine and didanosine as a once daily regimen.
+Triple therapy with nucleosides/nucleotides
+There have been reports of a high rate of virological failure and of emergence of resistance at an early stage in HIV patients when tenofovir disoproxil fumarate was combined with lamivudine and abacavir as well as with lamivudine and didanosine as a once daily regimen.
 
-Renal function: Tenofovir is principally eliminated via the kidney.
+Renal impairment
+Tenofovir is principally eliminated via the kidney.
 Renal failure, renal impairment, elevated creatinine, hypophosphataemia and proximal tubulopathy (including Fanconi syndrome) have been reported with the use of tenofovir disoproxil fumarate in clinical practice (see section 4.8).
 
 Renal safety with tenofovir has only been studied to a very limited degree in patients with impaired renal function (creatinine clearance < 80 ml/min).
@@ -43,8 +43,8 @@ Tenofovir disoproxil fumarate has not been clinically evaluated in patients rece
 These renal transport proteins may be responsible for tubular secretion and in part, renal elimination of tenofovir and cidofovir.
 Consequently, the pharmacokinetics of these medicinal products which are secreted by the same renal pathway including transport proteins hOAT 1 and 3 or MRP 4 might be modified if they are co-administered.
 Unless clearly necessary, concomitant use of these medicinal products which are secreted by the same renal pathway is not recommended, but if such use is unavoidable, renal function should be monitored weekly (see section 4.5).
-
-Bone effects: In HIV infected patients, in a 144-week controlled clinical study that compared tenofovir disoproxil fumarate with stavudine in combination with lamivudine and efavirenz in antiretroviral-naïve patients, small decreases in bone mineral density (BMD) of the hip and spine were observed in both treatment groups.
+Bone effects
+In HIV infected patients, in a 144-week controlled clinical study that compared tenofovir disoproxil fumarate with stavudine in combination with lamivudine and efavirenz in antiretroviral-naïve patients, small decreases in bone mineral density (BMD) of the hip and spine were observed in both treatment groups.
 Decreases in BMD of spine and changes in bone biomarkers from baseline were significantly greater in the tenofovir disoproxil fumarate treatment group at 144 weeks.
 Decreases in BMD of hip were significantly greater in this group until 96 weeks.
 However, there was no increased risk of fractures or evidence for clinically relevant bone abnormalities over 144 weeks.
@@ -53,16 +53,19 @@ Bone abnormalities (infrequently contributing to fractures) may be associated wi
 
 If bone abnormalities are suspected or detected then appropriate consultation should be obtained.
 
-Paediatric population: Viread may cause a reduction in BMD.
-The effects of tenofovir disoproxil fumarate-associated changes in BMD on long-term bone health and future fracture risk are currently unknown (see section 5.1).
+Paediatric population
+Viread may cause a reduction in BMD.
+The effects of tenofovir disoproxil fumarate-associated changes in BMD on long-term bone health and future fracture risk are currently unknown
+(see section 5.1).
 
-Liver disease: Safety and efficacy data are very limited in liver transplant patients.
+Liver disease
+Safety and efficacy data are very limited in liver transplant patients.
 
 There are limited data on the safety and efficacy of tenofovir disoproxil fumarate in HBV infected patients with decompensated liver disease and who have a Child-Pugh-Turcotte (CPT) score > 9.
 These patients may be at higher risk of experiencing serious hepatic or renal adverse reactions.
 Therefore, hepatobiliary and renal parameters should be closely monitored in this patient population.
 
-Exacerbations of hepatitis:
+Exacerbations of hepatitis
 Flares on treatment: Spontaneous exacerbations in chronic hepatitis B are relatively common and are characterised by transient increases in serum ALT.
 After initiating antiviral therapy, serum ALT may increase in some patients (see section 4.8).
 In patients with compensated liver disease, these increases in serum ALT are generally not accompanied by an increase in serum bilirubin concentrations or hepatic decompensation.
@@ -80,11 +83,12 @@ Liver flares are especially serious, and sometimes fatal in patients with decomp
 Co-infection with hepatitis C or D: There are no data on the efficacy of tenofovir in patients co-infected with hepatitis C or D virus.
 
 Co-infection with HIV-1 and hepatitis B: Due to the risk of development of HIV resistance, tenofovir disoproxil fumarate should only be used as part of an appropriate antiretroviral combination regimen in HIV/HBV co-infected patients.
-Patients with pre-existing liver dysfunction including chronic active hepatitis have an increased frequency of liver function abnormalities during combination antiretroviral therapy and should be monitored according to standard practice.
+Patients with pre-existing liver dysfunction, including chronic active hepatitis, have an increased frequency of liver function abnormalities during combination antiretroviral therapy and should be monitored according to standard practice.
 If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered.
 However, it should be noted that increases of ALT can be part of HBV clearance during therapy with tenofovir, see above Exacerbations of hepatitis.
 
-Lactic acidosis: Lactic acidosis, usually associated with hepatic steatosis, has been reported with the use of nucleoside analogues.
+Lactic acidosis
+Lactic acidosis, usually associated with hepatic steatosis, has been reported with the use of nucleoside analogues.
 The preclinical and clinical data suggest that the risk of occurrence of lactic acidosis, a class effect of nucleoside analogues, is low for tenofovir disoproxil fumarate.
 However, as tenofovir is structurally related to nucleoside analogues, this risk cannot be excluded.
 Early symptoms (symptomatic hyperlactataemia) include benign digestive symptoms (nausea, vomiting and abdominal pain), non-specific malaise, loss of appetite, weight loss, respiratory symptoms (rapid and/or deep breathing) or neurological symptoms (including motor weakness).
@@ -98,7 +102,8 @@ Patients co-infected with hepatitis C and treated with alpha interferon and riba
 
 Patients at increased risk should be followed closely.
 
-Lipodystrophy: Combination antiretroviral therapy has been associated with the redistribution of body fat (lipodystrophy) in HIV patients.
+Lipodystrophy
+Combination antiretroviral therapy has been associated with the redistribution of body fat (lipodystrophy) in HIV patients.
 The long-term consequences of these events are currently unknown.
 Knowledge about the mechanism is incomplete.
 A connection between visceral lipomatosis and protease inhibitors and lipoatrophy and nucleoside reverse transcriptase inhibitors has been hypothesised.
@@ -110,22 +115,29 @@ Lipid disorders should be managed as clinically appropriate (see section 4.8).
 Tenofovir is structurally related to nucleoside analogues hence the risk of lipodystrophy cannot be excluded.
 However, 144-week clinical data from antiretroviral-naïve HIV infected patients indicate that the risk of lipodystrophy was lower with tenofovir disoproxil fumarate than with stavudine when administered with lamivudine and efavirenz.
 
-Mitochondrial dysfunction: Nucleoside and nucleotide analogues have been demonstrated in vitro and in vivo to cause a variable degree of mitochondrial damage.
-There have been reports of mitochondrial dysfunction in HIV negative infants exposed in utero and/or postnatally to nucleoside analogues.
+Mitochondrial dysfunction
+Nucleoside and nucleotide analogues have been demonstrated in vitro and in vivo to cause a variable degree of mitochondrial damage.
+There have been reports of mitochondrial dysfunction in
+HIV negative infants exposed in utero and/or postnatally to nucleoside analogues.
 The main adverse events reported are haematological disorders (anaemia, neutropenia), metabolic disorders (hyperlactataemia, hyperlipasaemia).
 These events are often transitory.
 Some late-onset neurological disorders have been reported (hypertonia, convulsion, abnormal behaviour).
 Whether the neurological disorders are transient or permanent is currently unknown.
 Any child exposed in utero to nucleoside and nucleotide analogues, even HIV negative children, should have clinical and laboratory follow-up and should be fully investigated for possible mitochondrial dysfunction in case of relevant signs or symptoms.
 These findings do not affect current national recommendations to use antiretroviral therapy in pregnant women to prevent vertical transmission of HIV.
-
-Immune Reactivation Syndrome: In HIV infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
+Immune reactivation syndrome
+In HIV infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis jirovecii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
 
-Osteonecrosis: Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV disease and/or long-term exposure to combination antiretroviral therapy (CART).
+Osteonecrosis
+Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV disease and/or long-term exposure to combination antiretroviral therapy (CART).
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
 
-Elderly: Tenofovir disoproxil fumarate has not been studied in patients over the age of 65.
+Elderly
+Tenofovir disoproxil fumarate has not been studied in patients over the age of 65.
 Elderly patients are more likely to have decreased renal function; therefore caution should be exercised when treating elderly patients with tenofovir disoproxil fumarate.
+
+Viread contains lactose monohydrate.
+Consequently, patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency, or glucose-galactose malabsorption should not take this medicinal product.
