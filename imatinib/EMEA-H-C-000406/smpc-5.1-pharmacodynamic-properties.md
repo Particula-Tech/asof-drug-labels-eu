@@ -2,8 +2,14 @@
 
 Pharmacotherapeutic group: protein-tyrosine kinase inhibitor, ATC code: L01XE01
 
+Mechanism of action
+Imatinib is a small molecule protein-tyrosine kinase inhibitor that potently inhibits the activity of the Bcr-Abl tyrosine kinase (TK), as well as several receptor TKs: Kit, the receptor for stem cell factor (SCF) coded for by the c-Kit proto-oncogene, the discoidin domain receptors (DDR1 and DDR2), the colony stimulating factor receptor (CSF-1R) and the platelet-derived growth factor receptors alpha and beta (PDGFR-alpha and PDGFR-beta).
+Imatinib can also inhibit cellular events mediated by activation of these receptor kinases.
+
+Pharmacodynamic effects
 Imatinib is a protein-tyrosine kinase inhibitor which potently inhibits the Bcr-Abl tyrosine kinase at the in vitro, cellular and in vivo levels.
 The compound selectively inhibits proliferation and induces apoptosis in Bcr-Abl positive cell lines as well as fresh leukaemic cells from Philadelphia chromosome positive CML and acute lymphoblastic leukaemia (ALL) patients.
+
 In vivo the compound shows anti-tumour activity as a single agent in animal models using Bcr-Abl positive tumour cells.
 
 Imatinib is also an inhibitor of the receptor tyrosine kinases for platelet-derived growth factor (PDGF), PDGF-R, and stem cell factor (SCF), c-Kit, and inhibits PDGF- and SCF-mediated cellular events.
@@ -27,7 +33,6 @@ Patients showing lack of response (lack of complete haematological response (CHR
 In the Glivec arm, patients were treated with 400 mg daily.
 In the IFN arm, patients were treated with a target dose of IFN of 5 MIU/m2/day subcutaneously in combination with subcutaneous Ara-C
 20 mg/m2/day for 10 days/month.
-
 A total of 1,106 patients were randomised, 553 to each arm.
 Baseline characteristics were well balanced between the two arms.
 Median age was 51 years (range 18–70 years), with 21.9% of patients ≥ 60 years of age.
@@ -39,6 +44,7 @@ The primary efficacy endpoint of the study is progression-free survival.
 Progression was defined as any of the following events: progression to accelerated phase or blast crisis, death, loss of CHR or MCyR, or in patients not achieving a CHR an increasing WBC despite appropriate therapeutic management.
 Major cytogenetic response, haematological response, molecular response (evaluation of minimal residual disease), time to accelerated phase or blast crisis and survival are main secondary endpoints.
 Response data are shown in Table 3.
+
 Table 3 Response in newly diagnosed CML Study (84-month data)
 
 Glivec IFN+Ara-C
@@ -75,7 +81,6 @@ Using this approach, the estimated cumulative response rates for first-line trea
 
 With 7 years follow-up, there were 93 (16.8%) progression events in the Glivec arm: 37 (6.7%) involving progression to accelerated phase/blast crisis, 31 (5.6%) loss of MCyR, 15 (2.7%) loss of CHR or increase in WBC, and 10 (1.8%) CML unrelated deaths.
 In contrast, there were 165 (29.8%) events in the IFN+Ara-C arm, of which 130 occurred during first-line treatment with IFN+Ara-C.
-
 The estimated rate of patients free of progression to accelerated phase or blast crisis at 84 months was significantly higher in the Glivec arm compared to the IFN arm (92.5% versus 85.1%, p<0.001).
 The annual rate of progression to accelerated phase or blast crisis decreased with time on therapy and was less than 1% annually in the fourth and fifth years.
 The estimated rate of progression-free survival at 84 months was 81.2% in the Glivec arm and 60.6% in the control arm (p<0.001).
@@ -158,7 +163,6 @@ When salvage therapy with imatinib was administered in patients who did not resp
 This clinical effect was associated with a higher reduction in bcr-abl transcripts in the imatinib-treated patients than in the chemotherapy arm after 2 weeks of therapy (p=0.02).
 All patients received imatinib and consolidation chemotherapy (see Table 5) after induction and the levels of bcr-abl transcripts were identical in the two arms at 8 weeks.
 As expected on the basis of the study design, no difference was observed in remission duration, disease-free survival or overall survival, although patients with complete molecular response and remaining in minimal residual disease had a better outcome in terms of both remission duration (p=0.01) and disease-free survival (p=0.02).
-
 The results observed in a population of 211 newly diagnosed Ph+ ALL patients in four uncontrolled clinical studies (AAU02, ADE04, AJP01 and AUS01) are consistent with the results described above.
 Imatinib in combination with chemotherapy induction (see Table 5) resulted in a complete haematological response rate of 93% (147 out of 158 evaluable patients) and in a major cytogenetic response rate of 90% (19 out of 21 evaluable patients).
 The complete molecular response rate was 48% (49 out of 102 evaluable patients).
@@ -311,7 +315,6 @@ The Kaplan-Meier estimate for survival after 36-month follow-up is 68%.
 In two clinical studies (study B2222 and an intergroup study S0033) the daily dose of Glivec was escalated to 800 mg in patients progressing at the lower daily doses of 400 mg or 600 mg.
 The daily dose was escalated to 800 mg in a total of 103 patients; 6 patients achieved a partial response and 21 stabilisation of their disease after dose escalation for an overall clinical benefit of 26%.
 From the safety data available, escalating the dose to 800 mg daily in patients progressing at lower doses of 400 mg or 600 mg daily does not seem to affect the safety profile of Glivec.
-
 Clinical study in adjuvant GIST
 In the adjuvant setting, Glivec was investigated in a multicentre, double-blind, long-term, placebo-controlled phase III study (Z9001) involving 773 patients.
 The ages of these patients ranged from 18 to 91 years.
@@ -323,6 +326,7 @@ The primary endpoint of the study was recurrence-free survival (RFS), defined as
 Glivec significantly prolonged RFS, with 75% of patients being recurrence-free at 38 months in the Glivec group vs. 20 months in the placebo group (95% CIs, [30 - non-estimable]; [14 - non-estimable], respectively); (hazard ratio = 0.398 [0.259-0.610], p<0.0001).
 At one year the overall RFS was significantly better for Glivec (97.7%) vs. placebo (82.3%), (p<0.0001).
 The risk of recurrence was thus reduced by approximately 89% as compared with placebo (hazard ratio = 0.113 [0.049-0.264]).
+
 The risk of recurrence in patients after surgery of their primary GIST was retrospectively assessed based on the following prognostic factors: tumour size, mitotic index, tumour location.
 Mitotic index data were available for 556 of the 713 intention-to-treat (ITT) population.
 The results of subgroup analyses according to the United States National Institutes of Health (NIH) and the Armed Forces Institute of Pathology (AFIP) risk classifications are shown in Table 7.

@@ -8,7 +8,6 @@ The liver was a target organ in rats and dogs.
 Mild to moderate increases in transaminases and slight decreases in cholesterol, triglycerides, total protein and albumin levels were observed in both species.
 No histopathological changes were seen in rat liver.
 Severe liver toxicity was observed in dogs treated for 2 weeks, with elevated liver enzymes, hepatocellular necrosis, bile duct necrosis, and bile duct hyperplasia.
-
 Renal toxicity was observed in monkeys treated for 2 weeks, with focal mineralisation and dilation of the renal tubules and tubular nephrosis.
 Increased blood urea nitrogen (BUN) and creatinine were observed in several of these animals.
 In rats, hyperplasia of the transitional epithelium in the renal papilla and in the urinary bladder was observed at doses ≥ 6 mg/kg in the 13-week study, without changes in serum or urinary parameters.

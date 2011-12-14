@@ -6,12 +6,12 @@ There was a significant increase in exposure to imatinib (the mean Cmax and AUC 
 Caution should be taken when administering Glivec with inhibitors of the CYP3A4 family.
 
 Active substances that may decrease imatinib plasma concentrations:
-Substances that are inducers of CYP3A4 activity could increase metabolism and decrease imatinib plasma concentrations.
-Co-medications which induce CYP3A4 (e.g. dexamethasone, phenytoin, carbamazepine, rifampicin, phenobarbital, fosphenytoin, primidone or Hypericum perforatum, also known as St. John’s Wort) may significantly reduce exposure to Glivec, potentially increasing the risk of therapeutic failure.
+Substances that are inducers of CYP3A4 activity (e.g. dexamethasone, phenytoin, carbamazepine, rifampicin, phenobarbital, fosphenytoin, primidone or Hypericum perforatum, also known as St. John’s Wort) may significantly reduce exposure to Glivec, potentially increasing the risk of therapeutic failure.
 Pretreatment with multiple doses of rifampicin 600 mg followed by a single 400 mg dose of Glivec resulted in decrease in Cmax and AUC(0-∞) by at least 54% and 74%, of the respective values without rifampicin treatment.
 Similar results were observed in patients with malignant gliomas treated with Glivec while taking enzyme-inducing anti-epileptic drugs (EIAEDs) such as carbamazepine, oxcarbazepine and phenytoin.
 The plasma AUC for imatinib decreased by 73% compared to patients not on EIAEDs.
 Concomitant use of rifampicin or other strong CYP3A4 inducers and imatinib should be avoided.
+
 Active substances that may have their plasma concentration altered by Glivec
 Imatinib increases the mean Cmax and AUC of simvastatin (CYP3A4 substrate) 2- and 3.5-fold, respectively, indicating an inhibition of the CYP3A4 by imatinib.
 Therefore, caution is recommended when administering Glivec with CYP3A4 substrates with a narrow therapeutic window (e.g. cyclosporin or pimozide).

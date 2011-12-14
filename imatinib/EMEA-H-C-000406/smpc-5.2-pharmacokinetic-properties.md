@@ -9,6 +9,7 @@ Mean absolute bioavailability for the capsule formulation is 98%.
 There was high between-patient variability in plasma imatinib AUC levels after an oral dose.
 When given with a high-fat meal, the rate of absorption of imatinib was minimally reduced (11% decrease in Cmax and prolongation of tmax by 1.5 h), with a small reduction in AUC (7.4%) compared to fasting conditions.
 The effect of prior gastrointestinal surgery on drug absorption has not been investigated.
+
 Distribution
 At clinically relevant concentrations of imatinib, binding to plasma proteins was approximately 95% on the basis of in vitro experiments, mostly to albumin and alpha-acid-glycoprotein, with little binding to lipoprotein.
 
@@ -32,7 +33,6 @@ This Ki value is far higher than the expected plasma levels of imatinib in patie
 Elimination
 Based on the recovery of compound(s) after an oral 14C-labelled dose of imatinib, approximately 81% of the dose was recovered within 7 days in faeces (68% of dose) and urine (13% of dose).
 Unchanged imatinib accounted for 25% of the dose (5% urine, 20% faeces), the remainder being metabolites.
-
 Plasma pharmacokinetics
 Following oral administration in healthy volunteers, the t½ was approximately 18 h, suggesting that once-daily dosing is appropriate.
 The increase in mean AUC with increasing dose was linear and dose proportional in the range of 25–1,000 mg imatinib after oral administration.
@@ -44,6 +44,7 @@ Based on preliminary population pharmacokinetic analysis in GIST patients, there
 Decreased values of albumin caused a reduced clearance (CL/f); and higher levels of WBC led to a reduction of CL/f.
 However, these associations are not sufficiently pronounced to warrant dose adjustment.
 In this patient population, the presence of hepatic metastases could potentially lead to hepatic insufficiency and reduced metabolism.
+
 Population pharmacokinetics
 Based on population pharmacokinetic analysis in CML patients, there was a small effect of age on the volume of distribution (12% increase in patients > 65 years old).
 This change is not thought to be clinically significant.

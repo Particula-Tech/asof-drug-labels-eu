@@ -1,12 +1,13 @@
 # 4.4 Special warnings and precautions for use
 
-When Glivec is co-administered with other medicinal products, there is a potential for drug interactions (see section 4.5).
+When Glivec is co-administered with other medicinal products, there is a potential for drug interactions.
+Caution should be used when taking Glivec with ketoconazole or other strong CYP3A4 inhibitors, CYP3A4 substrates with a narrow therapeutic window (e.g. cyclosporin or pimozide) or CYP2C9 substrates with a narrow therapeutic window (e.g. warfarin and other coumarin derivatives) (see section 4.5).
 
 Concomitant use of imatinib and medicinal products that induce CYP3A4 (e.g. dexamethasone, phenytoin, carbamazepine, rifampicin, phenobarbital or Hypericum perforatum, also known as St. John’s Wort) may significantly reduce exposure to Glivec, potentially increasing the risk of therapeutic failure.
 Therefore, concomitant use of strong CYP3A4 inducers and imatinib should be avoided (see section 4.5).
 
 Clinical cases of hypothyroidism have been reported in thyroidectomy patients undergoing levothyroxine replacement during treatment with Glivec (see section 4.5).
-TSH levels should be closely monitored in such patients.
+Thyroid-stimulating hormone (TSH) levels should be closely monitored in such patients.
 
 Metabolism of Glivec is mainly hepatic, and only 13% of excretion is through the kidneys.
 In patients with hepatic dysfunction (mild, moderate or severe), peripheral blood counts and liver enzymes should be carefully monitored (see sections 4.2, 4.8 and 5.2).
@@ -30,6 +31,7 @@ As cardiac adverse events have been reported uncommonly with imatinib, a careful
 Myelodysplastic/myeloproliferative diseases with PDGFR gene re-arrangements could be associated with high eosinophil levels.
 Evaluation by a cardiology specialist, performance of an echocardiogram and determination of serum troponin should therefore be considered in patients with HES/CEL, and in patients with MDS/MPD associated with high eosinophil levels before imatinib is administered.
 If either is abnormal, follow-up with a cardiology specialist and the prophylactic use of systemic steroids (1–2 mg/kg) for one to two weeks concomitantly with imatinib should be considered at the initiation of therapy.
+
 In the study in patients with unresectable and/or metastatic GIST, both gastrointestinal and intra-tumoural haemorrhages were reported (see section 4.8).
 Based on the available data, no predisposing factors (e.g. tumour size, tumour location, coagulation disorders) have been identified that place patients with GIST at a higher risk of either type of haemorrhage.
 Since increased vascularity and propensity for bleeding is a part of the nature and clinical course of GIST, standard practices and procedures for the monitoring and management of haemorrhage in all patients should be applied.
