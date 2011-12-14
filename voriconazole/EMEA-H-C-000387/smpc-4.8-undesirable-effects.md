@@ -3,6 +3,7 @@
 The safety profile of voriconazole is based on an integrated safety database of more than 2000 subjects (1655 patients in therapeutic trials).
 This represents a heterogeneous population, containing patients with haematological malignancy, HIV infected patients with oesophageal candidiasis and refractory fungal infections, non-neutropenic patients with candidaemia or aspergillosis and healthy volunteers.
 Five hundred and sixty one patients had a duration of voriconazole therapy of greater than 12 weeks, with 136 patients receiving voriconazole for over 6 months.
+
 In the table below, since the majority of the studies were of an open nature all causality adverse events, by system organ class and frequency (very common ≥1/10, common ≥1/100 and <1/10, uncommon ≥1/1000 and <1/100, rare, ≥1/10 000 and <1/1000 and very rare, <1/10 000 if possibly causally related are listed.
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
@@ -108,9 +109,11 @@ The majority of abnormal liver function tests either resolved during treatment w
 
 Voriconazole has been infrequently associated with cases of serious hepatic toxicity in patients with other serious underlying conditions.
 This includes cases of jaundice, and rare cases of hepatitis and hepatic failure leading to death (see section 4.4).
+
 Paediatric Use
-The safety of voriconazole was investigated in 245 paediatric patients aged 2 to <12 years who were treated with voriconazole in pharmacokinetic studies (87 paediatric patients) and in compassionate use programs (158 paediatric patients).
-The adverse event profile of these 245 paediatric patients was similar to that in adults, although post-marketing data suggest there might be a higher occurrence of skin reactions (esp. erythema) in the paediatric population compared to adults.
+The safety of voriconazole was investigated in 285 paediatric patients aged 2 to <12 years who were treated with voriconazole in pharmacokinetic studies (127 paediatric patients) and in compassionate use programs (158 paediatric patients).
+The adverse event profile of these 285 paediatric patients was similar to that in adults.
+Post-marketing data suggest there might be a higher occurrence of skin reactions (esp. erythema) in the paediatric population compared to adults.
 In the 22 patients less than 2 years old who received voriconazole in a compassionate use programme, the following adverse events (for which a relationship to voriconazole could not be excluded) were reported: photosensitivity reaction (1), arrhythmia (1), pancreatitis (1), blood bilirubin increased (1), hepatic enzymes increased (1), rash (1) and papilloedema (1).
 There have been post-marketing reports of pancreatitis in paediatric patients.
 
@@ -151,7 +154,7 @@ There have been post-marketing reports of pancreatitis in paediatric patients.
 | Uncommon | Ventricular fibrillation, ventricular arrhythmia, syncope, supraventricular arrhythmia, supraventricular tachycardia, tachycardia, bradycardia |
 | Rare | Torsades de pointes, ventricular tachycardia, atrioventricular complete block, bundle branch block, nodal rhythm |
 | Vascular disorders |  |
-| Common | Thrombophlebitis, hypotension, phlebitis |
+| Common | Thrombophlebitis, Hypotension, phlebitis |
 | Rare | Lymphangitis |
 | Respiratory, thoracic and mediastinal disorders |  |
 | Common | Acute respiratory distress syndrome, pulmonary oedema, respiratory distress, chest pain |

@@ -10,7 +10,6 @@ Its mode of action is inhibition of fungal cytochrome P450-mediated 14α-sterol 
 
 Microbiology
 Clinical efficacy (with partial or complete response, see below under Clinical Experience) has been demonstrated for Aspergillus spp. including A. flavus, A. fumigatus, A. terreus, A. niger, A. nidulans, Candida spp., including C. albicans, C. glabrata, C. krusei, C. parapsilosis and C. tropicalis and limited numbers of C. dubliniensis, C. inconspicua, and C. guilliermondii, Scedosporium spp., including S. apiospermum, S. prolificans and Fusarium spp.
-
 Other treated fungal infections (with often partial or complete response) included isolated cases of
 Alternaria spp., Blastomyces dermatitidis, Blastoschizomyces capitatus, Cladosporium spp., Coccidioides immitis, Conidiobolus coronatus, Cryptococcus neoformans, Exserohilum rostratum, Exophiala spinifera, Fonsecaea pedrosoi, Madurella mycetomatis, Paecilomyces lilacinus, Penicillium spp. including P. marneffei, Phialophora richardsiae, Scopulariopsis brevicaulis and
 Trichosporon spp. including T. beigelii infections.
@@ -83,6 +82,7 @@ The clinical efficacy data were supported by limited susceptibility data.
 
 Scedosporium and Fusarium infections
 Voriconazole was shown to be effective against the following rare fungal pathogens:
+
 Scedosporium spp.: Successful response to voriconazole therapy was seen in 16 (6 complete, 10 partial responses) of 28 patients with S. apiospermum and in 2 (both partial responses) of 7 patients with S. prolificans infection.
 In addition, a successful response was seen in 1 of 3 patients with infections caused by more than one organism including Scedosporium spp.
 

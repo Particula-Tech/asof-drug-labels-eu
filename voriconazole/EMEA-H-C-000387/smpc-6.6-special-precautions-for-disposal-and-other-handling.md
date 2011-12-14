@@ -15,30 +15,31 @@ It is recommended that a standard 20 ml (non-automated) syringe be used to ensur
 This medicinal product is for single use only and any unused solution should be discarded and only clear solutions without particles should be used.
 
 For administration, the required volume of the reconstituted concentrate is added to a recommended compatible infusion solution (detailed below) to obtain a final voriconazole solution containing 0.5-5 mg/ml.
+
 Required Volumes of 10 mg/ml VFEND Concentrate
 
-| Body Weight (kg) | Volume of VFEND Concentrate (10 mg/ml) required for: |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | 3 mg/kg dose (number of vials) | 4 mg/kg dose (number of vials) | 6 mg/kg dose (number of vials) | 7 mg/kg dose (number of vials) |
-| 10 | - | 4.0 ml (1) | - | 7.0 ml (1) |
-| 15 | - | 6.0 ml (1) | - | 10.5 ml (1) |
-| 20 | - | 8.0 ml (1) | - | 14.0 ml (1) |
-| 25 | - | 10.0 ml (1) | - | 17.5 ml (1) |
-| 30 | 9.0 ml (1) | 12.0 ml (1) | 18.0 ml (1) | 21.0 ml (2) |
-| 35 | 10.5 ml (1) | 14.0 ml (1) | 21.0 ml (2) | 24.5 ml (2) |
-| 40 | 12.0 ml (1) | 16.0 ml (1) | 24.0 ml (2) | 28.0 ml (2) |
-| 45 | 13.5 ml (1) | 18.0 ml (1) | 27.0 ml (2) | 31.5 ml (2) |
-| 50 | 15.0 ml (1) | 20.0 ml (1) | 30.0 ml (2) | 35.0 ml (2) |
-| 55 | 16.5 ml (1) | 22.0 ml (2) | 33.0 ml (2) | - |
-| 60 | 18.0 ml (1) | 24.0 ml (2) | 36.0 ml (2) | - |
-| 65 | 19.5 ml (1) | 26.0 ml (2) | 39.0 ml (2) | - |
-| 70 | 21.0 ml (2) | 28.0 ml (2) | 42.0 ml (3) | - |
-| 75 | 22.5 ml (2) | 30.0 ml (2) | 45.0 ml (3) | - |
-| 80 | 24.0 ml (2) | 32.0 ml (2) | 48.0 ml (3) | - |
-| 85 | 25.5 ml (2) | 34.0 ml (2) | 51.0 ml (3) | - |
-| 90 | 27.0 ml (2) | 36.0 ml (2) | 54.0 ml (3) | - |
-| 95 | 28.5 ml (2) | 38.0 ml (2) | 57.0 ml (3) | - |
-| 100 | 30.0 ml (2) | 40.0 ml (2) | 60.0 ml (3) | - |
+| Body Weight (kg) | Volume of VFEND Concentrate (10 mg/ml) required for: |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | 3 mg/kg dose (number of vials) | 4 mg/kg dose (number of vials) | 6 mg/kg dose (number of vials) | 8 mg/kg dose (number of vials) | 9 mg/kg dose (number of vials) |
+| 10 | - | 4.0 ml (1) | - | 8.0 ml (1) | 9.0 ml (1) |
+| 15 | - | 6.0 ml (1) | - | 12.0 ml (1) | 13.5 ml (1) |
+| 20 | - | 8.0 ml (1) | - | 16.0 ml (1) | 18.0 ml (1) |
+| 25 | - | 10.0 ml (1) | - | 20.0 ml (1) | 22.5 ml (2) |
+| 30 | 9.0 ml (1) | 12.0 ml (1) | 18.0 ml (1) | 24.0 ml (2) | 27.0 ml (2) |
+| 35 | 10.5 ml (1) | 14.0 ml (1) | 21.0 ml (2) | 28.0 ml (2) | 31.5 ml (2) |
+| 40 | 12.0 ml (1) | 16.0 ml (1) | 24.0 ml (2) | 32.0 ml (2) | 36.0 ml (2) |
+| 45 | 13.5 ml (1) | 18.0 ml (1) | 27.0 ml (2) | 36.0 ml (2) | 40.5 ml (2) |
+| 50 | 15.0 ml (1) | 20.0 ml (1) | 30.0 ml (2) | 40.0 ml (2) | 45.0 ml (2) |
+| 55 | 16.5 ml (1) | 22.0 ml (2) | 33.0 ml (2) | 44.0 ml (3) | 49.5 ml (3) |
+| 60 | 18.0 ml (1) | 24.0 ml (2) | 36.0 ml (2) | 48.0 ml (3) | 54.0 ml (3) |
+| 65 | 19.5 ml (1) | 26.0 ml (2) | 39.0 ml (2) | 52.0 ml (3) | 58.5 ml (3) |
+| 70 | 21.0 ml (2) | 28.0 ml (2) | 42.0 ml (3) | - | - |
+| 75 | 22.5 ml (2) | 30.0 ml (2) | 45.0 ml (3) | - | - |
+| 80 | 24.0 ml (2) | 32.0 ml (2) | 48.0 ml (3) | - | - |
+| 85 | 25.5 ml (2) | 34.0 ml (2) | 51.0 ml (3) | - | - |
+| 90 | 27.0 ml (2) | 36.0 ml (2) | 54.0 ml (3) | - | - |
+| 95 | 28.5 ml (2) | 38.0 ml (2) | 57.0 ml (3) | - | - |
+| 100 | 30.0 ml (2) | 40.0 ml (2) | 60.0 ml (3) | - | - |
 
 Voriconazole is a single dose unpreserved sterile lyophile.
 Therefore, from a microbiological point of view, the reconstituted solution must be used immediately.
@@ -76,5 +77,6 @@ Write the date of expiration of the constituted suspension on the bottle label (
 
 Instructions for use:
 Shake the closed bottle of constituted suspension for approximately 10 seconds before each use.
+
 Once constituted, VFEND oral suspension should only be administered using the oral syringe supplied with each pack.
 Refer to the patient leaflet for more detailed instructions for use.

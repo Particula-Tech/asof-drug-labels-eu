@@ -43,12 +43,12 @@ When there is also a potential for voriconazole to increase the plasma levels of
 
 Terfenadine, astemizole, cisapride, pimozide and quinidine (CYP3A4 substrates): Although not studied, coadministration of voriconazole with terfenadine, astemizole, cisapride, pimozide, or quinidine is contraindicated, since increased plasma concentrations of these medicinal products can lead to QTc prolongation and rare occurrences of torsades de pointes (see section 4.3).
 
-Sirolimus (CYP3A4 substrate): Voriconazole increased sirolimus (2 mg single dose) Cmax and AUCτ by 556 % and 1014 %, respectively.
+Sirolimus (CYP3A4 substrate): Voriconazole increased sirolimus (2 mg single dose) Cmax and
+AUCτ by 556 % and 1014 %, respectively.
 Coadministration of voriconazole and sirolimus is contraindicated (see section 4.3).
 
 Ergot alkaloids (CYP3A4 substrates): Although not studied, voriconazole may increase the plasma concentrations of ergot alkaloids (ergotamine and dihydroergotamine) and lead to ergotism.
 Coadministration of voriconazole with ergot alkaloids is contraindicated (see section 4.3).
-
 Everolimus (CYP3A4 substrate, P-gp substrate): Co-administration of voriconazole with everolimus is not recommended because voriconazole is expected to significantly increase everolimus concentrations (see section 4.4).
 
 Ciclosporin (CYP3A4 substrate): In stable, renal transplant recipients, voriconazole increased ciclosporin Cmax and AUCτ by at least 13 % and 70 % respectively.
@@ -81,7 +81,6 @@ Oral anticoagulants:
 
 Warfarin (CYP2C9 substrate): Coadministration of voriconazole (300 mg twice daily) with warfarin (30 mg single dose) increased maximum prothrombin time by 93 %.
 Close monitoring of prothrombin time is recommended if warfarin and voriconazole are coadministered.
-
 Other oral anticoagulants e.g. phenprocoumon, acenocoumarol (CYP2C9, CYP3A4 substrates): Although not studied, voriconazole may increase the plasma concentrations of coumarins and therefore may cause an increase in prothrombin time.
 If patients receiving coumarin preparations are treated simultaneously with voriconazole, the prothrombin time should be monitored at close intervals and the dosage of anticoagulants adjusted accordingly.
 
@@ -184,9 +183,6 @@ Ritonavir (potent CYP450 inducer; CYP3A4 inhibitor and substrate): The effect of
 Administration of voriconazole did not have a significant effect on mean Cmax and AUCτ of ritonavir in the high dose study although a minor decrease in steady state Cmax and AUCτ of ritonavir with an average of 25 % and 13 % respectively was observed in the low dose ritonavir interaction study.
 
 When there is also a potential for voriconazole to increase the plasma levels of substances metabolised by CYP3A4 isoenzymes (certain antihistamines, quinidine, cisapride, pimozide) co-administration is contraindicated (see section 4.3).
-
-Sirolimus (CYP3A4 substrate): Voriconazole increased sirolimus (2 mg single dose) Cmax and
-AUCτ by 556 % and 1014 %, respectively.
 
 Methadone (CYP3A4 substrate): In subjects receiving a methadone maintenance dose (32-100 mg once daily) coadministration of oral voriconazole (400 mg twice daily for 1 day, then 200 mg twice daily for four days) increased the Cmax and AUC of pharmacologically active R-methadone by 31
 % and 47 %, respectively, whereas the Cmax and AUC of the S-enantiomer increased by approximately 65 % and 103 %, respectively.

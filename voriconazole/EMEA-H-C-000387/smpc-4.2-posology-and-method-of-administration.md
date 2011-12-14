@@ -54,26 +54,34 @@ VFEND has not been studied in patients with severe chronic hepatic cirrhosis (Ch
 VFEND has been associated with elevations in liver function tests and clinical signs of liver damage, such as jaundice, and must only be used in patients with severe hepatic impairment if the benefit outweighs the potential risk.
 Patients with hepatic impairment must be carefully monitored for drug toxicity (see also section 4.8).
 
-Use in children
-VFEND is not recommended for use in children below 2 years due to insufficient data on safety and efficacy (see also sections 4.8 and 5.1).
+Paediatric population
 
-The recommended maintenance dosing regimen in paediatric patients 2 to <12 years is as follows:
+Use in children (2 to <12 years) and young adolescents (12 to 14 years and <50 kg)The recommended dosing regimen is as follows:
 
-|  | Intravenous* | Oral** |
+|  | Intravenous | Oral |
 | --- | --- | --- |
-| Loading Dose Regimen | No oral or intravenous loading dose is recommended |  |
-| Maintenance Dose | 7 mg/kg twice daily | 200 mg twice daily |
+| Loading Dose Regimen (first 24 hours) | 9 mg/kg every 12 hours | Not recommended |
+| Maintenance Dose (after first 24 hours) | 8 mg/kg twice daily | 9 mg/kg twice daily (a maximum dose of 350 mg twice daily) |
 
-*Based on a population pharmacokinetic analysis in 82 immunocompromised patients aged 2 to <12 years **Based on a population pharmacokinetic analysis in 47 immunocompromised patients aged 2 to <12 years
+Note: Based on a population pharmacokinetic analysis in 112 immunocompromised paediatric patients aged 2 to <12 years and 26 immunocompromised adolescents aged 12 to <17 years.
 
-Use in paediatric patients aged 2 to <12 years with hepatic or renal insufficiency has not been studied (see section 4.8 and section 5.2).
+It is recommended to initiate the therapy with intravenous regimen, and oral regimen should be considered only after there is a significant clinical improvement.
+It should be noted that an 8 mg/kg intravenous dose will provide voriconazole exposure approximately 2-fold higher than a 9 mg/kg oral dose.
 
-These paediatric dose recommendations are based on studies in which VFEND was administered as the powder for oral suspension.
+These oral dose recommendations for children are based on studies in which VFEND was administered as the powder for oral suspension.
 Bioequivalence between the powder for oral suspension and tablets has not been investigated in a paediatric population.
 Considering the assumed limited gastro-enteric transit time in paediatrics, the absorption of tablets may be different in paediatric compared to adult patients.
 It is therefore recommended to use the oral suspension formulation in children aged 2-<12.
 
-Adolescents (12 to 16 years of age): should be dosed as adults.
+VFEND is not recommended for use in children below 2 years due to insufficient data on safety and efficacy (see also sections 4.8 and 5.1).
+Use in paediatric patients aged 2 to <12 years with hepatic or renal insufficiency has not been studied (see section 4.8 and section 5.2).
+
+Use in all other adolescents (12 to 14 years and ≥50 kg; 15 to 16 years regardless of body weight)
+VFEND should be dosed as adults.
+
+Dose adjustment
+If patient response is inadequate, the dose may be increased by 1 mg/kg steps (or by 50 mg steps if the maximum oral dose of 350 mg was used initially).
+If patients are unable to tolerate treatment, reduce the dose by 1 mg/kg steps (or by 50 mg steps if the maximum oral dose of 350 mg was used initially).
 
 [VFEND 200 mg film-coated tablets]
 
@@ -81,12 +89,17 @@ VFEND is also available as 50 mg film-coated tablets, 200 mg powder for solution
 
 A four hour haemodialysis session does not remove sufficient amount of voriconazole to warrant dose adjustment.
 
+Use in children (2 to <12 years) and young adolescents (12 to 14 years and <50 kg)
+The recommended dosing regimen is as follows:
+
+It should be noted that an 8 mg/kg intravenous dose will provide voriconazole exposure approximately 2-fold higher than 9 mg/kg oral dose.
+
 [VFEND 200 mg powder for solution for infusion]
 
 VFEND requires reconstitution and dilution (see section 6.6) prior to administration as an intravenous infusion.
 Not for bolus injection.
 
-It is recommended that VFEND is administered at a maximum rate of 3 mg/kg per hour over 1 to 2 hours.
+It is recommended that VFEND is administered at a maximum rate of 3 mg/kg per hour over 1 to 3 hours.
 
 VFEND must not be infused into the same line or cannula concomitantly with other intravenous products.
 VFEND must not be administered simultaneously with any blood product or any short-term infusion of concentrated solutions of electrolytes, even if the two infusions are running in separate lines.
@@ -96,8 +109,6 @@ VFEND is also available as 50 mg and 200 mg film-coated tablets and 40 mg/ml pow
 If patients are unable to tolerate treatment at 4 mg/kg twice daily, reduce the intravenous dose to 3 mg/kg twice daily.
 
 Rifabutin or phenytoin may be coadministered with voriconazole if the maintenance dose of voriconazole is increased to 5 mg/kg intravenously twice daily, see sections 4.4 and 4.5.
-
-Treatment should be as short as possible depending on the patients’clinical andmycological response.
 
 The duration of treatment with the intravenous formulation should be no longer than 6 months.
 See section 5.3 (preclinical safety data).
@@ -113,13 +124,8 @@ The intravenous vehicle, SBECD, is haemodialysed with a clearance of 55 ml/min.
 
 Patients with severe hepatic impairment must be carefully monitored for drug toxicity (see also section 4.8).
 
-|  | Intravenous* | Oral** |
-| --- | --- | --- |
-|  | No oral or intravenous loading dose is recommended |  |
-| Maintenance Dose | 7 mg/kg twice daily | 200 mg twice daily |
-
-If paediatric patients are unable to tolerate an intravenous dose of 7 mg/kg twice daily, a dose reduction from 7 mg/kg to 4 mg/kg twice daily may be considered based on the population pharmacokinetic analysis and previous clinical experience.
-This provides equivalent exposure to 3 mg/kg twice daily in adults (see section 4.2 use in adults).
+If patient response is inadequate, the intravenous dose may be increased by 1 mg/kg steps.
+If patients are unable to tolerate treatment, reduce the intravenous dose by 1 mg/kg steps.
 
 [VFEND 40 mg/ml powder for oral suspension]
 
@@ -134,10 +140,5 @@ VFEND is also available as 50 mg and 200 mg film-coated tablets and 200 mg powde
 | Maintenance Dose (after first 24 hours) | 4 mg/kg twice daily | 200 mg (5 ml) twice daily | 100 mg (2.5 ml) twice daily |
 
 Treatment should be as short as possible depending on the patients’ clinical and mycological response.
-
-|  | Intravenous* | Oral Suspension** |
-| --- | --- | --- |
-| Loading Dose Regimen | No oral or intravenous loading dose is recommended |  |
-| Maintenance Dose | 7 mg/kg twice daily | 200 mg twice daily |
 
 It is therefore recommended to use the oral suspension formulation in children 2-<12.
