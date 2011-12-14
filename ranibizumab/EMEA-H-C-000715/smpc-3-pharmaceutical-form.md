@@ -1,5 +1,5 @@
 # 3. PHARMACEUTICAL FORM
 
-Solution for injection
+Solution for injection.
 
-Sterile, clear, colourless to pale yellow aqueous solution.
+Clear, colourless to pale yellow aqueous solution.

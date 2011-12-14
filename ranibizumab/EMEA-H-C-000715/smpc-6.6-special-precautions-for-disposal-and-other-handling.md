@@ -36,4 +36,4 @@ The syringe is ready for injection.
 Note: Do not wipe the injection needle.
 Do not pull back on the plunger.
 
-Any unused product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antineovascularisation agents, ATC code: S01LA04
+Pharmacotherapeutic group: Ophthalmologicals, antineovascularisation agents, ATC code: S01LA04
 
 Ranibizumab is a humanised recombinant monoclonal antibody fragment targeted against human vascular endothelial growth factor A (VEGF-A).
 It binds with high affinity to the VEGF-A isoforms (e.g. VEGF110, VEGF121 and VEGF165), thereby preventing binding of VEGF-A to its receptors VEGFR-1 and VEGFR-2.
@@ -97,10 +97,11 @@ The primary efficacy endpoint was mean change in visual acuity at 12 months comp
 After an initial increase in visual acuity (following monthly dosing), on average, patients’ visual acuity declined with quarterly dosing, returning to baseline at Month 12 and this effect was maintained in most ranibizumab-treated patients (82%) at Month 24.
 Data from a limited number of subjects that crossed over to receive ranibizumab after more than a year of sham-treatment suggested that early initiation of treatment may be associated with a better preservation of visual acuity.
 
-Data from an open label study (PROTECT) in 32 patients followed for 9 months in which the safety of same-day administration of verteporfin PDT and Lucentis 0.5 mg was evaluated showed that the incidence of intraocular inflammation following the initial treatment was 6.3% (2 of 32 patients).
-
 In both the MARINA and ANCHOR studies, the improvement in visual acuity seen with Lucentis 0.5 mg at 12 months was accompanied by patient-reported benefits as measured by the National Eye Institute Visual Function Questionnaire (VFQ-25) scores.
 The differences between Lucentis 0.5 mg and the two control groups were assessed with p-values ranging from 0.009 to <0.0001.
+
+The efficacy of Lucentis in the treatment of wet AMD has been further confirmed in AMD studies finalised since the marketing approval.
+Data from two studies (MONT BLANC, BPD952A2308 and DENALI, BPD952A2309) did not demonstrate additional effect of the combined administration of verteporfin (Visudyne PDT) and Lucentis compared to Lucentis monotherapy.
 
 Treatment of visual impairment due to DME
 The efficacy and safety of Lucentis have been assessed in two randomised, double-masked, sham- or active controlled studies of 12 months duration in patients with visual impairment due to diabetic macular oedema.
@@ -280,5 +281,4 @@ The difference between Lucentis 0.5 mg and the control group was assessed at Mon
 Paediatric population
 Safety and efficacy of ranibizumab have not yet been studied in paediatric patients.
 
-The European Medicine Agency has waived the obligation to submit the results of studies with Lucentis in all subsets of the paediatric population in neovascular AMD, visual impairment due to diabetic macular oedema and visual impairment due to macular oedema secondary to retinal vein occlusion.
-See section 4.2 for information on paediatric use.
+The European Medicine Agency has waived the obligation to submit the results of studies with Lucentis in all subsets of the paediatric population in neovascular AMD, visual impairment due to diabetic macular oedema and visual impairment due to macular oedema secondary to retinal vein occlusion (see section 4.2 for information on paediatric use).
