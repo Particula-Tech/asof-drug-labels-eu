@@ -39,7 +39,6 @@ The overall mean age was 59.4 years; 56.6% of patients had an ECOG performance s
 The primary efficacy variable of the trial was overall survival.
 The addition of Avastin to IFL resulted in statistically significant increases in overall survival, progression-free survival and overall response rate (see Table 3).
 The clinical benefit, as measured by overall survival, was seen in all pre-specified patient subgroups, including those defined by age, sex, performance status, location of primary tumour, number of organs involved and duration of metastatic disease.
-
 The efficacy results of Avastin in combination with IFL-chemotherapy are displayed in Table 3.
 
 Table 3 Efficacy results for trial AVF2107g
@@ -69,6 +68,7 @@ This was a phase II randomised, double-blind, active-controlled clinical trial e
 One hundred and five patients were randomised to 5-FU/FA + placebo arm and 104 patients to 5-FU/FA + Avastin (5 mg/kg every 2 weeks) arm.
 All treatments were continued until disease progression.
 The addition of Avastin 5 mg/kg every two weeks to 5-FU/FA resulted in higher objective response rates, significantly longer progression-free survival, and a trend in longer survival as compared to 5-FU/FA chemotherapy alone.
+
 AVF0780g
 This was a phase II randomised, active-controlled, open-labelled clinical trial investigating Avastin in combination with 5-FU/FA as first-line treatment of metastatic colorectal cancer.
 The median age was 64 years.
@@ -81,7 +81,6 @@ The addition of Avastin 5 mg/kg every two weeks to 5-FU/FA resulted in higher ob
 These efficacy data are consistent with the results from trial AVF2107g.
 
 The efficacy data from trials AVF0780g and AVF2192g investigating Avastin in combination with 5-FU/FA-chemotherapy are summarised in Table 4.
-
 Table 4 Efficacy results for trials AVF0780g and AVF2192g
 
 |  | AVF0780g |  |  | AVF2192g |  |
@@ -116,7 +115,6 @@ The trial contained two parts: an initial unblinded 2-arm part (Part I) in which
 In Part II, treatment assignment was double-blind with respect to Avastin.
 
 Approximately 350 patients were randomised into each of the 4 trial arms in the Part II of the trial.
-
 Table 5 Treatment regimens in trial N016966 (mCRC)
 
 |  | Treatment | Starting dose | Schedule |
@@ -390,7 +388,6 @@ A total of 104 patients were randomised to treatment in this trial, 53 to Avasti
 The analysis of the primary endpoint showed no difference between the Avastin + Placebo arm and the Avastin + Erlotinib arm (median PFS 8.5 versus 9.9 months).
 Seven patients in each arm had an objective response.
 The addition of erlotinib to bevacizumab did not result in an improvement in OS (HR = 1.764; p=0.1789), duration of objective response (6.7 vs 9.1 months) or time to symptom progression (HR = 1.172; p = 0.5076).
-
 AVF0890
 This was a randomised phase II trial conducted to compare the efficacy and safety of bevacizumab versus placebo.
 A total of 116 patients were randomized to receive bevacizumab 3 mg/kg every 2 weeks (n=39), 10 mg/kg every 2 weeks; (n=37), or placebo (n=40).
@@ -398,5 +395,195 @@ An interim analysis showed there was a significant prolongation of the time to p
 There was a small difference, of borderline significance, between the time to progression of disease in the 3 mg/kg group and that in the placebo group (hazard ratio, 1.26; p=0.053).
 Four patients had objective (partial) response, and all of these had received the 10 mg/kg dose bevacizumab; the ORR for the 10 mg/kg dose was 10%.
 
+Epithelial Ovarian, Fallopian Tube and Primary Peritoneal Cancer
+
+The safety and efficacy of Avastin in the front-line treatment of patients with epithelial ovarian, fallopian tube or primary peritoneal cancer were studied in two phase III trials (GOG-0218 and BO17707) that evaluated the effect of the addition of Avastin to carboplatin and paclitaxel compared to the chemotherapy regimen alone.
+
+GOG-0218
+The GOG-0218 study was a phase III multicenter, randomized, double-blind, placebo-controlled, three arm study evaluating the effect of adding Avastin to an approved chemotherapy regimen (carboplatin and paclitaxel) in patients with advanced (FIGO stages IIIB, IIIC and IV) epithelial ovarian, fallopian tube or primary peritoneal cancer.
+Patients who had received prior therapy with bevacizumab or prior systemic anticancer therapy for ovarian cancer (e.g. chemotherapy, monoclonal antibody therapy, tyrosine kinase inhibitor therapy, or hormonal therapy) or previous radiotherapy to the abdomen or pelvis were excluded from the study.
+
+A total of 1873 patients were randomized in equal proportions to the following three arms:
+
+- CPP arm: Five cycles of placebo (started cycle 2) in combination with carboplatin (AUC 6) and paclitaxel (175 mg/m2) for 6 cycles followed by placebo alone, for a total of up to 15 months of therapy
+- CPB15 arm: Five cycles of Avastin (15 mg/kg q3w started cycle 2) in combination with carboplatin (AUC 6) and paclitaxel (175 mg/m2) for 6 cycles followed by placebo alone, for a total of up to 15 months of therapy
+- CPB15+ arm: Five cycles of Avastin (15 mg/kg q3w started cycle 2) in combination with carboplatin (AUC 6) and paclitaxel (175 mg/m2) for 6 cycles followed by continued use of Avastin (15 mg/kg q3w) as single agent for a total of up to 15 months of therapy.
+
+The majority of patients included in the study were White (87% in all three arms); the median age was 60 years in CPP and CPB15 arms and 59 years in CPB15+ arm; and 29% of patients in CPP or CPB15 and 26% in CPB15+ were over 65 years of age.
+Overall approximately 50% of patients had a GOG PS of 0 at baseline, 43% a GOG PS score of 1, and 7% a GOG PS score of 2.
+Most patients had EOC (82% in CPP and CPB15, 85% in CPB15+) followed by PPC (16% in CPP, 15% in CPB15, 13% in CPB15+) and FTC (1% in CPP, 3% in CPB15, 2% in CPB15+).
+The majority of patients had serous adenocarcinoma histologic type (85% in CPP and CPB15, 86% in CPB15+).
+Overall approximately 34% of patients were FIGO Stage III optimally debulked with gross residual disease, 40% Stage III sub-optimally debulked, and 26% were Stage IV patients.
+
+The primary endpoint was PFS based on investigator’s assessment of disease progression based on radiological scans or CA 125 levels, or symptomatic deterioration per protocol.
+In addition, a prespecified analysis of the data censoring for CA-125 progression events was conducted, as well as an independent review of PFS as determined by radiological scans.
+
+The trial met its primary objective of PFS improvement.
+Compared to patients treated with chemotherapy (carboplatin and paclitaxel) alone in the front-line setting, patients who received bevacizumab at a dose of 15 mg/kg q3w in combination with chemotherapy and continued to receive bevacizumab alone (CPB15+), had a clinically meaningful and statistically significant improvement in PFS.
+
+In patients who only received bevacizumab in combination with chemotherapy and did not continue to receive bevacizumab alone (CPB15), no clinically meaningful benefit in PFS was observed.
+
+The results of this study are summarized in Table 13.
+
+Table 13 Efficacy Results from Study GOG-0218
+
+Progression-free survival 1
+
+CPP CPB15 CPB15+
+(n = 625) (n = 625) (n = 623)
+Median PFS (months) 10.6 11.6 14.7
+Hazard ratio (95% CI) 2 0.89 0.70
+(0.78, 1.02) (0.61, 0.81)
+p-value 3, 4 0.0437 < 0.0001
+
+Objective response Rate 5
+
+CPP CPB15
+CPB15+ (n = 403)
+(n = 396) (n = 393)
+% pts with objective response 63.4 66.2 66.0
+p-value 0.2341 0.2041
+
+Overall survival 6
+
+CPP CPB15 CPB15+
+(n = 625) (n = 625) (n = 623)
+Median OS (months) 39.4 37.9 43.4
+Hazard Ratio (95% CI) 2 1.14 (0.95, 1.37) 0.90 (0.74, 1.08)
+p-value 3 0.0809 0.1253
+
+1 Investigator assessed GOG protocol-specified PFS analysis (neither censored for CA-125 progressions nor censored for NPT prior to disease progression) with data cut-off date of 25 February, 2010.
+2 Relative to the control arm; stratified hazard ratio.
+3 One-sided log-rank p-value
+4 Subject to a p-value boundary of 0.0116.
+5 Patients with measurable disease at baseline.
+6 Overall survival analysis performed when approximately 36% of the patients had died.
+
+Prespecified PFS analyses were conducted, all with a cut-off date of 29 September 2009.
+The results of these prespecified analyses are as follows:
+
+- The protocol specified analysis of investigator-assessed PFS (without censoring for CA-125 progression or non-protocol therapy [NPT]) shows a stratified hazard ratio of 0.71 (95% CI: 0.61-0.83, 1-sided logrank p-value < 0.0001) when CPB15+ is compared with CPP, with a median PFS of 10.4 months in the CPP arm and 14.1 months in the CPB15+ arm.
+- The primary analysis of investigator-assessed PFS (censoring for CA-125 progressions and NPT) shows a stratified hazard ratio of 0.62 (95% CI: 0.52-0.75, 1-sided log-rank p-value < 0.0001) when CPB15+ is compared with CPP, with a median PFS of 12.0 months in the CPP arm and 18.2 months in the CPB15+ arm.
+- The analysis of PFS as determined by the independent review committee (censoring for NPT) shows a stratified hazard ratio of 0.62 (95% CI: 0.50-0.77, 1-sided logrank p-value < 0.0001) when CPB15+ is compared with CPP, with a median PFS of 13.1 in the CPP arm and 19.1 months in the CPB15+ arm.
+
+PFS subgroup analyses by disease stage and debulking status are summarized in Table 14.
+These results demonstrate robustness of the analysis of PFS as shown in Table 13.
+Table 14 PFS1 Results by Disease Stage and Debulking Status from Study GOG-0218
+
+Randomized patients stage III optimally debulked disease 2,3
+
+CPP CPB15 CPB15+
+(n = 219) (n = 204) (n = 216)
+Median PFS (months) 12.4 14.3 17.5
+Hazard ratio (95% CI)4 0.81 0.66
+(0.62, 1.05) (0.50, 0.86)
+
+Randomized patients with stage III suboptimally debulked disease3
+
+CPP CPB15 CPB15+
+(n = 253) (n = 256) (n = 242)
+Median PFS (months) 10.1 10.9 13.9
+Hazard ratio (95% CI)4 0.93 0.78
+(0.77, 1.14) (0.63, 0.96)
+
+Randomized patients with stage IV disease
+
+CPP CPB15 CPB15+
+(n = 153) (n = 165) (n = 165)
+Median PFS (months) 9.5 10.4 12.8
+Hazard Ratio (95% CI)4 0.90 0.64
+(0.70, 1.16) (0.49, 0.82)
+
+1 Investigator assessed GOG protocol-specified PFS analysis (neither censored for CA-125 progressions nor censored for NPT prior to disease progression) with data cut-off date of 25 February, 2010
+2With gross residual disease.
+3 3.7% of the overall randomized patient population had Stage IIIB disease.
+Relative to the control arm.
+
+BO17707 (ICON7)
+BO17707 was a Phase III, two arm, multicenter, randomized, controlled, open-label study comparing the effect of adding Avastin to carboplatin plus paclitaxel in patients with FIGO Stage I or IIA (Grade 3 or clear cell histology only; n = 142), or FIGO Stage IIB - IV (all grades and all histological types, n = 1386) epithelial ovarian, fallopian tube or primary peritoneal cancer following surgery.
+Patients who had received prior therapy with bevacizumab or prior systemic anticancer therapy for ovarian cancer (e.g. chemotherapy, monoclonal antibody therapy, tyrosine kinase inhibitor therapy, or hormonal therapy) or previous radiotherapy to the abdomen or pelvis were excluded from the study.
+
+A total of 1528 patients were randomized in equal proportions to the following two arms:
+
+- CP arm: Carboplatin (AUC 6) and paclitaxel (175 mg/m2) for 6 cycles of 3 weeks duration
+- CPB7.5+ arm: Carboplatin (AUC 6) and paclitaxel (175 mg/m2) for 6 cycles of 3 weeks plus Avastin (7.5 mg/kg q3w) for up to 12 months (Avastin was started at cycle 2 of chemotherapy if treatment was initiated within 4 weeks of surgery or at cycle 1 if treatment was initiated more than 4 weeks after surgery).
+
+The majority of patients included in the study were White (96%), the median age was 57 years in both treatment arms, 25% of patients in each treatment arm were 65 years of age or over, and approximately 50% of patients had an ECOG PS of 1; 7% of patients in each treatment arm had an ECOG PS of 2.
+The majority of patients had EOC (87.7%) followed by PPC (6.9%) and FTC (3.7%) or a mixture of the three origins (1.7%).
+Most patients were FIGO Stage III (both 68%) followed by FIGO Stage IV (13% and 14%), FIGO Stage II (10% and 11%) and FIGO Stage I (9% and 7%).
+The majority of the patients in each treatment arm (74% and 71%) had poorly differentiated (Grade 3) primary tumors at baseline.
+The incidence of each histologic sub-type of EOC was similar between the treatment arms; 69% of patients in each treatment arm had serous adenocarcinoma histologic type.
+
+The primary endpoint was PFS as assessed by the investigator using RECIST criteria.
+
+The trial met its primary objective of PFS improvement.
+Compared to patients treated with chemotherapy (carboplatin and paclitaxel) alone in the front-line setting, patients who received bevacizumab at a dose of 7.5 mg/kg q3w in combination with chemotherapy and continued to receive bevacizumab for up to 18 cycles had a statistically significant improvement in PFS
+
+The results of this study are summarized in Table 15.
+
+Table 15 Efficacy Results from Study BO17707 (ICON7)
+
+Progression-free survival
+
+CP CPB7.5+
+(n = 764) (n =764)
+Median PFS (months) 2 16.9 19.3
+Hazard ratio [95% CI] 2 0.86 [0.75; 0.98]
+
+(p-value = 0.0185)
+Objective Response Rate 1
+
+CP CPB7.5+
+(n = 277) (n = 272)
+Response rate 54.9% 64.7%
+
+(p-value = 0.0188)
+Overall Survival 3
+
+CP CPB7.5+
+(n = 764) (n = 764)
+Median (months) Not reached Not reached
+Hazard ratio [95% CI] 0.85 [0.70; 1.04]
+(p-value = 0.1167)
+
+1 In patients with measurable disease at baseline.
+2 Investigator assessed PFS analysis with data cut-off date of 30 November 2010.
+3 Exploratory OS analysis when approximately 25% of patients died.
+
+The primary analysis of investigator-assessed PFS with a data cut-off date of 28 February 2010 shows an unstratified hazard ratio of 0.79 (95% CI: 0.68-0.91, 2-sided log-rank p-value 0.0010) with a median PFS of 16.0 months in the CP arm and 18.3 months in the CPB7.5+ arm.
+
+PFS subgroup analyses by disease stage and debulking status are summarized in Table 16.
+These results demonstrate robustness of the primary analysis of PFS as shown in Table 15.
+Table 16 PFS1 Results by Disease Stage and Debulking Status from Study BO17707 (ICON7)
+
+Randomized patients stage III optimally debulked disease 2,3
+
+CP CPB7.5+
+(n = 368) (n = 383)
+Median PFS (months) 17.7 19.3
+Hazard ratio (95% CI) 4 0.89
+(0.74, 1.07)
+
+Randomized patients with stage III suboptimally debulked disease3
+
+CP CPB7.5+
+(n = 154) (n = 140)
+Median PFS (months) 10.1 16.9
+Hazard ratio (95% CI)4 0.67
+(0.52, 0.87)
+
+Randomized patients with stage IV disease
+
+CP CPB7.5+
+(n = 97) (n = 104)
+Median PFS (months) 10.1 13.5
+Hazard Ratio (95% CI)4 0.74
+(0.55, 1.01)
+
+1 Investigator assessed PFS analysis with data cut-off date of 30 November 2010.
+2 With or without gross residual disease.
+3 5.8% of the overall randomized patient population had Stage IIIB disease.
+4 Relative to the control arm.
+
 Paediatric population
-The European Medicines Agency has waived the obligation to submit the results of studies, in all subsets of the paediatric population, in breast carcinoma, adenocarcinoma of the colon and rectum, lung carcinoma (small cell and non-small cell carcinoma) and kidney and renal pelvis carcinoma (excluding nephroblastoma, nephroblastomatosis, clear cell sarcoma, mesoblastic nephroma, renal medullary carcinoma and rhabdoid tumour of the kidney).
+The European Medicines Agency has waived the obligation to submit the results of studies, in all subsets of the paediatric population, in breast carcinoma, adenocarcinoma of the colon and rectum, lung carcinoma (small cell and non-small cell carcinoma) kidney and renal pelvis carcinoma (excluding nephroblastoma, nephroblastomatosis, clear cell sarcoma, mesoblastic nephroma, renal medullary carcinoma and rhabdoid tumour of the kidney), ovarian carcinoma (excluding rhabdomyosarcoma and germ cell tumours), fallopian tube carcinoma (excluding rhabdomyosarcoma and germ cell tumours) and peritoneal carcinoma (excluding blastomas and sarcomas).

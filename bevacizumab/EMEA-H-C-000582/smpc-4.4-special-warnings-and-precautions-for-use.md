@@ -23,7 +23,6 @@ Clinical safety data suggest that the incidence of hypertension is likely to be 
 Pre existing hypertension should be adequately controlled before starting Avastin treatment.
 There is no information on the effect of Avastin in patients with uncontrolled hypertension at the time of initiating therapy.
 Monitoring of blood pressure is generally recommended during therapy.
-
 In most cases hypertension was controlled adequately using standard antihypertensive treatment appropriate for the individual situation of the affected patient.
 The use of diuretics to manage hypertension is not advised in patients who receive a cisplatin-based chemotherapy regimen.
 Avastin should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.
@@ -51,8 +50,7 @@ Therapy should be permanently discontinued in patients who develop arterial thro
 Venous thromboembolism (see section 4.8)
 Patients may be at risk of developing venous thromboembolic events, including pulmonary embolism under Avastin treatment.
 Avastin should be discontinued in patients with life-threatening (Grade 4) thromboembolic events, including pulmonary embolism.
-P atients with thromboembolic events
-≤Grade 3 need to be closely monitored.
+Patients with thromboembolic events ≤Grade 3 need to be closely monitored.
 
 Haemorrhage
 Patients treated with Avastin have an increased risk of haemorrhage, especially tumour-associated haemorrhage.
@@ -76,6 +74,7 @@ The findings ranged from asymptomatic declines in left ventricular ejection frac
 Caution should be exercised when treating patients with clinically significant cardiovascular disease such as pre-existing coronary artery disease, or congestive heart failure with Avastin.
 
 Most of the patients who experienced CHF had metastatic breast cancer and had received previous treatment with anthracyclines, prior radiotherapy to the left chest wall or other risk factors for CHF were present.
+
 In patients in AVF3694g who received treatment with anthracyclines and who had not received anthracyclines before, no increased incidence of all grade CHF was observed in the anthracycline + bevacizumab group compared to the treatment with anthracyclines only.
 CHF grade 3 or higher events were somewhat more frequent among patients receiving bevacizumab in combination with chemotherapy than in patients receiving chemotherapy alone.
 This is consistent with results in patients in other studies of metastatic breast cancer who did not receive concurrent anthracycline treatment (see section 4.8).
@@ -101,7 +100,6 @@ Eye disorders
 Adverse reactions have been reported from unapproved intravitreal use.
 These reactions included infectious endophthalmitis, intraocular inflammation such as sterile endophthalmitis, uveitis and vitritis, retinal detachment, retinal pigment epithelial tear, intraocular pressure increased, intraocular haemorrhage such as vitreous haemorrhage or retinal haemorrhage and conjunctival haemorrhage.
 Some of these appeared as serious adverse reactions.
-
 Ovarian failure/fertility
 Avastin may impair female fertility (see sections 4.6 and 4.8).
 Therefore fertility preservation strategies should be discussed with women of child-bearing potential prior to starting treatment with Avastin.

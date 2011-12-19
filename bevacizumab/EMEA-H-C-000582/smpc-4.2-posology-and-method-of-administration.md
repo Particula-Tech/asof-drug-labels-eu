@@ -1,18 +1,18 @@
 # 4.2 Posology and method of administration
 
 Avastin must be administered under the supervision of a physician experienced in the use of antineoplastic medicinal products.
-
-It is recommended that treatment be continued until progression of the underlying disease.
-
 Dose reduction for adverse events is not recommended.
 If indicated, therapy should either be permanently discontinued or temporarily suspended as described in section 4.4.
+
 Metastatic carcinoma of the colon or rectum (mCRC)
 
 The recommended dose of Avastin, administered as an intravenous infusion, is either 5 mg/kg or 10 mg/kg of body weight given once every 2 weeks or 7.5 mg/kg or 15 mg/kg of body weight given once every 3 weeks.
+It is recommended that treatment be continued until progression of the underlying disease or until unacceptable toxicity.
 
 Metastatic breast cancer (mBC)
 
 The recommended dose of Avastin is 10 mg/kg of body weight given once every 2 weeks or 15 mg/kg of body weight given once every 3 weeks as an intravenous infusion.
+It is recommended that treatment be continued until progression of the underlying disease or until unacceptable toxicity.
 
 Non-small cell lung cancer (NSCLC)
 
@@ -22,10 +22,17 @@ The recommended dose of Avastin is 7.5 mg/kg or 15 mg/kg of body weight given on
 
 Clinical benefit in NSCLC patients has been demonstrated with both 7.5 mg/kg and 15 mg/kg doses.
 For details refer to section 5.1 Pharmacodynamic Properties, Non-small cell lung cancer (NSCLC).
+It is recommended that treatment be continued until progression of the underlying disease or until unacceptable toxicity.
 
 Advanced and/or metastatic Renal Cell Cancer (mRCC)
 
 The recommended dose of Avastin is 10 mg/kg of body weight given once every 2 weeks as an intravenous infusion.
+It is recommended that treatment be continued until progression of the underlying disease or until unacceptable toxicity.
+
+Epithelial Ovarian, Fallopian Tube and Primary Peritoneal Cancer
+
+Avastin is administered in addition to carboplatin and paclitaxel for up to 6 cycles of treatment followed by continued use of Avastin as single agent until disease progression or for a maximum of 15 months or until unacceptable toxicity, whichever occurs earlier.
+The recommended dose of Avastin is 15 mg/kg of body weight given once every 3 weeks as an intravenous infusion.
 
 Special populations
 
@@ -34,7 +41,6 @@ Elderly: No dose adjustment is required in the elderly.
 Renal impairment: The safety and efficacy have not been studied in patients with renal impairment.
 
 Hepatic impairment: The safety and efficacy have not been studied in patients with hepatic impairment.
-
 Paediatric population
 
 The safety and efficacy of bevacizumab in children and adolescents have not been established.

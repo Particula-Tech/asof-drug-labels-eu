@@ -14,7 +14,6 @@ Analyses of the clinical safety data suggest that the occurrence of hypertension
 
 Table 1 lists adverse reactions associated with the use of Avastin in combination with different chemotherapy regimens in multiple indications.
 These reactions had occurred either with at least a 2% difference compared to the control arm (NCI-CTC grade 3-5 reactions) or with at least a 10% difference compared to the control arm (NCI-CTC grade 1-5 reactions), in at least one of the major clinical trials.
-
 The adverse reactions listed in this table fall into the following categories: Very Common (≥ 1/10) and Common (≥ 1/100 - < 1/10).
 Adverse reactions are added to the appropriate category in the table below according to the highest incidence seen in any of the major clinical trials.
 Within each frequency grouping adverse reactions are presented in the order of decreasing seriousness.
@@ -27,17 +26,17 @@ Table 1 Very common and common adverse reactions
 |  | Very common | Common | Very common |
 | Infections and infestations |  | Sepsis Abscess Infection |  |
 | Blood and the lymphatic systems disorders | Febrile neutropenia Leucopenia Thrombocytopenia Neutropenia | Anaemia |  |
-|  | Very common | Common | Very common |
 | Metabolism and nutrition disorders |  | Dehydration | Anorexia |
-| Nervous system disorders | Peripheral sensory neuropathy | Cerebrovascular accident Syncope Somnolence Headache | Dysgeusia Headache |
+| Nervous system disorders | Peripheral sensory neuropathy | Cerebrovascular accident Syncope Somnolence Headache | Dysgeusia Headache Dysarthria |
 | Eye disorders |  |  | Eye disorder Lacrimation increased |
 | Cardiac disorders |  | Cardiac failure congestive Supraventricular tachycardia |  |
 | Vascular disorders | Hypertension | Thromboembolism (arterial)* Deep vein thrombosis Haemorrhage | Hypertension |
 | Respiratory, thoracic and mediastinal disorders |  | Pulmonary embolism Dyspnoea Hypoxia Epistaxis | Dyspnoea Epistaxis Rhinitis |
-| Gastrointestinal disorders | Diarrhoea Nausea Vomiting | Intestinal Perforation Ileus Intestinal obstruction Abdominal pain Gastrointestinal disorder Stomatitis | Constipation Stomatitis Rectal haemorrhage |
+| Gastrointestinal disorders | Diarrhoea Nausea Vomiting | Intestinal Perforation Ileus Intestinal obstruction Abdominal pain Gastrointestinal disorder Stomatitis | Constipation Stomatitis Rectal haemorrhage Diarrhoea |
 | Endocrine disorders |  |  | Ovarian failure** |
 | Skin and subcutaneous tissue disorders |  | Palmar-plantar erythrodysaesthesia syndrome | Exfoliative dermatitis Dry skin Skin discolouration |
-| Musculoskeletal, connective tissue and bone disorders |  | Muscular weakness Myalgia | Arthralgia |
+|  | Very common | Common | Very common |
+| Musculoskeletal, connective tissue and bone disorders |  | Muscular weakness Myalgia Arthralgia | Arthralgia |
 | Renal and urinary disorders |  | Proteinuria Urinary Tract Infection | Proteinuria |
 | General disorders and administration site conditions | Asthenia Fatigue | Pain Lethargy Mucosal inflammation | Pyrexia Asthenia Pain Mucosal inflammation |
 
@@ -49,7 +48,8 @@ Further information on selected serious adverse reactions
 
 Gastrointestinal perforations (see section 4.4)
 Avastin has been associated with serious cases of gastrointestinal perforation.
-Gastrointestinal perforations have been reported in clinical trials with an incidence of less than 1% in patients with metastatic breast cancer or non-squamous non-small cell lung cancer, and up to 2.0% in metastatic colorectal cancer patients.
+
+Gastrointestinal perforations have been reported in clinical trials with an incidence of less than 1% in patients with metastatic breast cancer or non-squamous non-small cell lung cancer, and up to 2.0% in metastatic colorectal cancer patients or in patients with ovarian cancer receiving front-line treatment.
 Fatal outcome was reported in approximately a third of serious cases of gastrointestinal perforations, which represents between 0.2%-1% of all Avastin treated patients.
 
 The presentation of these events varied in type and severity, ranging from free air seen on the plain abdominal X-ray, which resolved without treatment, to intestinal perforation with abdominal abscess and fatal outcome.
@@ -73,6 +73,8 @@ The incidence varied between 10% (4/40) and 20% (3/15).
 
 In locally recurrent and metastatic breast cancer trials, Grade 3-5 wound healing complications were observed in up to 1.1% of patients receiving Avastin compared with up to 0.9% of patients in the control arms.
 
+In clinical trials of ovarian cancer, grade 3-5 wound healing complications were observed in up to 1.2% of patients in the bevacizumab arm versus 0.1% in the control arm.
+
 Hypertension (see section 4.4)
 An increased incidence of hypertension (all grades) of up to 34% has been observed in Avastin-treated patients in clinical trials compared with up to 14% in those treated with comparator.
 Grade 3 and 4 hypertension (requiring oral anti-hypertensive medicines) in patients receiving Avastin ranged from 0.4% to 17.9%.
@@ -84,6 +86,7 @@ It rarely resulted in discontinuation of Avastin treatment or hospitalisation.
 Very rare cases of hypertensive encephalopathy have been reported, some of which were fatal.
 
 The risk of Avastin-associated hypertension did not correlate with the patients’ baseline characteristics, underlying disease or concomitant therapy.
+
 Proteinuria (see section 4.4)
 In clinical trials, proteinuria has been reported within the range of 0.7% to 38% of patients receiving Avastin.
 
@@ -151,6 +154,7 @@ For patients in study AVF3694g who received anthracyclines concomitantly with be
 In addition, in study AVF3694g the incidences of all grade CHF were similar between the anthracycline + Avastin (6.2%) and the anthracycline + placebo arms (6.0%).
 
 Most patients who developed CHF during mBC trials showed improved symptoms and/or left ventricular function following appropriate medical therapy.
+
 In most clinical trials of Avastin, patients with pre-existing CHF of NYHA (New York Heart Association) II-IV were excluded, therefore, no information is available on the risk of CHF in this population.
 
 Prior anthracyclines exposure and/or prior radiation to the chest wall may be possible risk factors for the development of CHF.

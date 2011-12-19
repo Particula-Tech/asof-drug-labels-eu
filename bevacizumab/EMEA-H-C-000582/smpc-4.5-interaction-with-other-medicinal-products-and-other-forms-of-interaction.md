@@ -6,6 +6,7 @@ There was neither statistical significance nor clinically relevant difference in
 
 Effect of bevacizumab on the pharmacokinetics of other antineoplastic agents
 Results from a dedicated drug-drug interaction trial demonstrated no significant effect of bevacizumab on the pharmacokinetics of irinotecan and its active metabolite SN38.
+
 Results from one trial in metastatic colorectal cancer patients demonstrated no significant effect of bevacizumab on the pharmacokinetics of capecitabine and its metabolites, and on the pharmacokinetics of oxaliplatin, as determined by measurement of free and total platinum.
 
 Results from one trial in renal cancer patients demonstrated no significant effect of bevacizumab on the pharmacokinetics of interferon alfa-2a.
