@@ -3,13 +3,13 @@
 Pharmacotherapeutic group: Antiemetics and antinauseants, ATC code: A04AD12
 
 Aprepitant is a selective high-affinity antagonist at human substance P neurokinin 1 (NK1) receptors.
-
 In 2 multicenter, randomized, double-blind, active comparator-controlled, parallel-group phase III clinical studies, aprepitant was compared with ondansetron for the prevention of PONV in 1,658 patients undergoing open abdominal surgery.
 The majority of patients were women (> 90 %), mainly undergoing gynaecological surgery.
 Patients were randomized to receive 40 mg aprepitant, 125 mg aprepitant, or 4 mg ondansetron.
 Aprepitant was given orally with 50 ml of water 1 to 3 hours before anaesthesia.
 Ondansetron was given intravenously immediately before induction of anaesthesia.
 The antiemetic activity of aprepitant was evaluated during the 0 to 48 hour period following the end of surgery.
+
 The results show that a higher percentage of post-surgical patients experienced complete response (no emesis and no use of rescue) with aprepitant 40 mg than with ondansetron 4 mg (lower bound of C.I. is 0.0 indicating borderline significance) as described in Table 1.
 
 Table 1
@@ -32,9 +32,7 @@ Studies evaluating the use of aprepitant in paediatric patients are on-going (se
 
 [EMEND 80 mg hard capsules]
 
-Pharmacotherapeutic group: Antiemetics and antinauseants, ATC code: A04A D12
-
-3-Day regimen of aprepitant
+3-day regimen of aprepitant
 In 2 randomised, double-blind studies encompassing a total of 1,094 patients receiving chemotherapy that included cisplatin ≥70 mg/m2, aprepitant in combination with an ondansetron/dexamethasone regimen (see section 4.2) was compared with a standard regimen (placebo plus ondansetron 32 mg intravenously administered on Day 1 plus dexamethasone 20 mg orally on Day 1 and 8 mg orally twice daily on Days 2 to 4).
 
 Efficacy was based on evaluation of the following composite measure: complete response (defined as no emetic episodes and no use of rescue therapy) primarily during Cycle 1.
@@ -125,15 +123,15 @@ In a second multicenter, randomised, double-blind, parallel-group, clinical stud
 Patients receiving the aprepitant regimen were receiving chemotherapy for a variety of tumour types including 52 % with breast cancer, 21 % with gastrointestinal cancers including colorectal cancer, 13 % with lung cancer and 6 % with gynecological cancers.
 The aprepitant regimen in combination with an ondansetron/dexamethasone regimen (see section 4.2) was compared with standard therapy (placebo in combination with ondansetron 8 mg orally (twice on Day 1, and every 12 hours on Days 2 and 3) plus dexamethasone 20 mg orally on Day 1).
 
-Efficacy was based on the evaluation of the following primary and key secondary endpoints: No Vomiting in the overall period (0 to 120 hours post-chemotherapy), evaluation of safety and tolerability of the aprepitant regimen for CINV, and complete response (defined as no vomiting and no use of rescue therapy) in the overall period (0 to 120 hours post-chemotherapy).
-Additionally, No Significant Nausea in the overall period (0 to 120 hours post-chemotherapy) was evaluated as an exploratory endpoint, and in the acute and delayed phases as a post-hoc analysis.
+Efficacy was based on the evaluation of the following primary and key secondary endpoints: No vomiting in the overall period (0 to 120 hours post-chemotherapy), evaluation of safety and tolerability of the aprepitant regimen for CINV, and complete response (defined as no vomiting and no use of rescue therapy) in the overall period (0 to 120 hours post-chemotherapy).
+Additionally, no significant nausea in the overall period (0 to 120 hours post-chemotherapy) was evaluated as an exploratory endpoint, and in the acute and delayed phases as a post-hoc analysis.
 
 A summary of the key study results is shown in Table 3.
 
 Table 3
 Percent of patients responding by treatment group and phase for Study 2 – Cycle 1 Moderately Emetogenic Chemotherapy
 
-(N= 425) † (N= 406)
+(N= 425) (N= 406)
 
 | Complete response (no emesis and no rescue therapy) |  |
 | --- | --- |
@@ -155,54 +153,7 @@ Complete response to the aprepitant regimen and standard therapy, respectively, 
 
 (all sentences already above)
 
-[EMEND 165 mg hard capsules]
-
-Fosaprepitant, a prodrug of aprepitant, when administered intravenously is rapidly converted to aprepitant.
-
-Based on a comparable pharmacokinetic/pharmacodynamic profile, the 1-day oral regimen of EMEND 165 mg is anticipated to have a similar efficacy profile to that of the 1-day regimen of fosaprepitant 150 mg and 3-day regimen of oral aprepitant (see section 5.2)
-
-| Complete response (no emesis and no rescue therapy) |  |
-| --- | --- |
-| Overall (0-120 hours) 67.7 47.8 19.9 0-24 hours 86.0 73.2 12.7 25-120 hours 71.5 51.2 20.3 | (14.0, 25.8) (7.9, 17.6) (14.5, 26.1) |
-| INDIVIDUAL MEASURES |  |
-| No emesis (no emetic episodes regardless of use of rescue therapy) |  |
-| Overall (0-120 hours) 71.9 49.7 22.2 0-24 hours 86.8 74.0 12.7 25-120 hours 76.2 53.5 22.6 | (16.4, 28.0) (8.0, 17.5) (17.0, 28.2) |
-| No significant nausea (maximum VAS <25 mm on a scale of 0-100 mm) |  |
-| Overall (0-120 hours) 72.1 64.9 7.2 25-120 hours 74.0 66.9 7.1 | (1.6, 12.8) (1.5, 12.6) |
-
-(N= 425) (N= 406)
-
-1-day regimen of fosaprepitant 150 mg
-
-In a randomised, parallel, double-blind, active-controlled study, fosaprepitant 150 mg (N=1,147) was compared with a 3-day aprepitant regimen (N=1,175) in patients receiving a HEC regimen that included cisplatin (≥70 mg/m2).
-The fosaprepitant regimen consisted of fosaprepitant 150 mg on Day 1 in combination with intravenous ondansetron 32 mg on Day 1 and dexamethasone 12 mg on
-Day 1, 8 mg on Day 2, and 8 mg twice daily on Days 3 and 4.
-The aprepitant regimen consisted of aprepitant 125 mg on Day 1 and 80 mg/day on Days 2 and 3 in combination with intravenous ondansetron 32 mg on Day 1 and dexamethasone 12 mg on Day 1 and 8 mg daily on Days 2 through 4.
-Fosaprepitant placebo, aprepitant placebo, and dexamethasone placebo (in the evenings on Days 3 and 4) were used to maintain blinding (see section 4.2).
-
-Efficacy was based on evaluation of the following composite measures: complete response in both the overall and delayed phases and no vomiting in the overall phase.
-Fosaprepitant 150 mg was shown to be non-inferior to that of the 3-day regimen of aprepitant.
-A summary of the primary and secondary endpoints is shown in Table 4.
-Table 4
-
-| ENDPOINTS* | Fosaprepitant regimen (N =1,106) ** % | Aprepitant regimen (N =1,134) ** % | Difference† (95 % CI) |
-| --- | --- | --- | --- |
-| Complete response‡ |  |  |  |
-| Overall§ | 71.9 | 72.3 | -0.4 (-4.1, 3.3) |
-| Delayed phase§§ | 74.3 | 74.2 | 0.1 (-3.5, 3.7) |
-| No vomiting |  |  |  |
-
-Overall§ 72.9 74.6 -1.7 (-5.3, 2.0)
-
-*Primary endpoint is bolded.
-**N: Number of patients included in the primary analysis of complete response.
-†Difference and confidence interval (CI) were calculated using the method proposed by
-Miettinen and Nurminen and adjusted for Gender.
-‡Complete response = no vomiting and no use of rescue therapy.
-§Overall = 0 to 120 hours post-initiation of cisplatin chemotherapy.
-§§Delayed phase = 25 to 120 hours post-initiation of cisplatin chemotherapy.
-
-[EMEND 125 mg hard capsules (SmPC 5)]
+[EMEND 125 mg hard capsules (SmPC 4)]
 
 Aprepitant regimen Standard therapy Differences*
 (N= 521) † (N= 524) †

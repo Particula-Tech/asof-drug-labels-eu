@@ -2,35 +2,27 @@
 
 Each capsule contains 40 mg of aprepitant.
 
-Excipient: 40 mg sucrose.
+Excipient with known effect:
+Each capsule contains 40 mg of sucrose.
 
-For a full list of excipients, see section 6.1.
+For the full list of excipients, see section 6.1.
 
 [EMEND 80 mg hard capsules]
 
 Each capsule contains 80 mg of aprepitant.
 
-Excipient: 80 mg sucrose.
+Each capsule contains 80 mg of sucrose.
 
 [EMEND 125 mg hard capsules]
 
 Each capsule contains 125 mg of aprepitant.
 
-Excipient: 125 mg sucrose.
+Each capsule contains 125 mg of sucrose.
 
-[EMEND 165 mg hard capsules]
-
-Each capsule contains 165 mg of aprepitant.
-
-Excipient with known effect:
-Each capsule contains 165 mg of sucrose.
-
-For the full list of excipients, see section 6.1.
-
-[EMEND 125 mg hard capsules (SmPC 5)]
+[EMEND 125 mg hard capsules (SmPC 4)]
 
 Each 125 mg capsule contains 125 mg of aprepitant.
 Each 80 mg capsule contains 80 mg of aprepitant.
 
-Excipient: 125 mg sucrose (in the 125 mg capsule).
-Excipient: 80 mg sucrose (in the 80 mg capsule).
+Each capsule contains 125 mg of sucrose (in the 125 mg capsule).
+Each capsule contains 80 mg of sucrose (in the 80 mg capsule).

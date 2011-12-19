@@ -1,5 +1,6 @@
 # 4.8 Undesirable effects
 
+Summary of the safety profile
 The safety profile of aprepitant was evaluated in approximately 6,500 individuals.
 
 Adverse reactions were reported in approximately 4 % of patients treated with 40 mg aprepitant compared with approximately 6 % of patients treated with 4 mg ondansetron intravenously.
@@ -7,7 +8,7 @@ In controlled clinical studies in patients receiving general anaesthesia, 564 pa
 Most adverse reactions reported in these clinical studies were described as mild to moderate in intensity.
 
 The most common adverse reaction reported at a greater incidence in patients treated with 40 mg aprepitant (1.1 %) than with ondansetron (1.0 %) was ALT increased.
-
+Tabulated list of adverse reactions
 The following adverse reactions were observed in PONV studies in patients treated with aprepitant at a greater incidence than with ondansetron or in postmarketing use:
 
 Frequencies are defined as: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000) and very rare (<1/10,000), not known (cannot be estimated from the available data).
@@ -21,23 +22,19 @@ Frequencies are defined as: very common (≥1/10); common (≥1/100 to <1/10); u
 | Cardiac disorders | bradycardia | uncommon |
 | Respiratory, thoracic and mediastinal disorders | dyspnoea, wheezing | uncommon |
 | Gastrointestinal disorders | abdominal pain upper, bowel sounds abnormal, dry mouth, nausea, stomach discomfort, constipation*, sub-ileus* | uncommon |
-| Skin and subcutaneous tissue disorders | pruritus, rash, urticaria | not known |
+| Skin and subcutaneous tissue disorders | pruritus, rash, urticaria, Stevens-Johnson syndrome/toxic epidermal necrolysis | not known |
 | Investigations | ALT increased | common |
 
 *Reported in patients taking a higher dose of aprepitant.
 
-Additional adverse reactions were observed in patients treated with the aprepitant (125 mg/80 mg) regimen for chemotherapy induced nausea and vomiting (CINV) and at a greater incidence than with standard therapy: abdominal distension, abdominal pain, acne, anaemia, anxiety, AST increased, asthaenia, blood alkaline phosphatase increased, blood sodium decreased, candidiasis, cardiovascular disorder, chest discomfort, cognitive disorder, conjunctivitis, cough, decreased appetite, disorientation, dizziness, duodenal ulcer perforation, dysgeusia, dyspepsia, dysuria, eructation, euphoric mood, faeces hard, fatigue, febrile neutropenia, flatulence, gait disturbance, gastroesophageal reflux disease, glucose urine present, hiccups, hot flush, hyperhidrosis, lethargy, malaise, muscle spasms, muscular weakness, nausea*, neutropenic colitis, neutrophil count decreased, oedema, oropharyngeal pain, palpitations, photosensitivity reaction, pollakiuria, polydipsia, postnasal drip, rash pruritic, red blood cells urine positive, seborrhoea, skin lesion, sneezing, somnolence, staphylococcal infection, Stevens-Johnson syndrome, stomatitis, throat irritation, tinnitus, urine output increased, vomiting*, weight decreased. *Nausea and vomiting were efficacy parameters in the first 5 days of post-chemotherapy treatment and were reported as reactions only thereafter.
+Description of selected adverse reactions
+Additional adverse reactions were observed in patients treated with the aprepitant (125 mg/80 mg) regimen for chemotherapy induced nausea and vomiting (CINV) and at a greater incidence than with standard therapy: abdominal distension, abdominal pain, acne, anaemia, anxiety, AST increased, asthaenia, blood alkaline phosphatase increased, blood sodium decreased, candidiasis, cardiovascular disorder, chest discomfort, cognitive disorder, conjunctivitis, cough, decreased appetite, disorientation, dizziness, duodenal ulcer perforation, dysgeusia, dyspepsia, dysuria, eructation, euphoric mood, faeces hard, fatigue, febrile neutropenia, flatulence, gait disturbance, gastroesophageal reflux disease, glucose urine present, hiccups, hot flush, hyperhidrosis, lethargy, malaise, muscle spasms, muscular weakness, nausea*, neutropenic colitis, neutrophil count decreased, oedema, oropharyngeal pain, palpitations, photosensitivity reaction, pollakiuria, polydipsia, postnasal drip, rash pruritic, red blood cells urine positive, seborrhoea, skin lesion, sneezing, somnolence, staphylococcal infection, stomatitis, throat irritation, tinnitus, urine output increased, vomiting*, weight decreased.
+*Nausea and vomiting were efficacy parameters in the first 5 days of post-chemotherapy treatment and were reported as reactions only thereafter.
 
 [EMEND 80 mg hard capsules]
 
-Adverse reactions were reported in approximately 19 % of patients treated with the aprepitant regimen compared with approximately 14 % of patients treated with standard therapy in patients receiving Highly Emetogenic Chemotherapy (HEC).
-Aprepitant was discontinued due to adverse reactions in 0.6 % of patients treated with the aprepitant regimen compared with 0.4 % of patients treated with standard therapy.
-In a combined analysis of 2 clinical studies of patients receiving Moderately Emetogenic Chemotherapy (MEC), clinical adverse reactions were reported in approximately 14 % of patients treated with the aprepitant regimen compared with approximately 15 % of patients treated with standard therapy.
-Aprepitant was discontinued due to adverse reactions in 0.7 % of patients treated with the aprepitant regimen compared with 0.2 % of patients treated with standard therapy.
-
-The most common adverse reactions reported at a greater incidence in patients treated with the aprepitant regimen than with standard therapy in patients receiving HEC were: hiccups (4.6 % versus 2.9 %), alanine aminotransferase (ALT) increased (2.8 % versus 1.1 %), dyspepsia (2.6 % versus 2.0 %), constipation (2.4 % versus 2.0 %), headache (2.0 % versus 1.8 %), and decreased appetite
-(2.0 % versus 0.5 %).
-The most common adverse reaction reported at a greater incidence in patients treated with the aprepitant regimen than with standard therapy in patients receiving MEC was fatigue (1.4 % versus 0.9 %).
+The most common adverse reactions reported at a greater incidence in patients treated with the aprepitant regimen than with standard therapy in patients receiving Highly Emetogenic Chemotherapy (HEC) were: hiccups (4.6 % versus 2.9 %), alanine aminotransferase (ALT) increased (2.8 % versus 1.1 %), dyspepsia (2.6 % versus 2.0 %), constipation (2.4 % versus 2.0 %), headache (2.0 % versus 1.8 %), and decreased appetite (2.0 % versus 0.5 %).
+The most common adverse reaction reported at a greater incidence in patients treated with the aprepitant regimen than with standard therapy in patients receiving Moderately Emetogenic Chemotherapy (MEC) was fatigue (1.4 % versus 0.9 %).
 
 The following adverse reactions were observed in a pooled analysis of the HEC and MEC studies at a greater incidence with aprepitant than with standard therapy or in postmarketing use:
 
@@ -64,7 +61,7 @@ The following adverse reactions were observed in a pooled analysis of the HEC an
 |  | eructation, nausea*, vomiting*, gastroesophageal reflux disease, abdominal pain, dry mouth, flatulence | uncommon |
 |  | duodenal ulcer perforation, stomatitis, abdominal distension, faeces hard, neutropenic colitis | rare |
 | Skin and subcutaneous tissue disorders | rash, acne | uncommon |
-|  | photosensitivity reaction, hyperhidrosis, seborrhoea, skin lesion, rash pruritic, Stevens-Johnson syndrome | rare |
+|  | photosensitivity reaction, hyperhidrosis, seborrhoea, skin lesion, rash pruritic, Stevens-Johnson syndrome/toxic epidermal necrolysis | rare |
 |  | pruritus, urticaria | not known |
 | Musculoskeletal and connective tissue disorders | muscular weakness, muscle spasms | rare |
 | Renal and urinary disorders | dysuria | uncommon |
@@ -81,62 +78,45 @@ The following adverse reactions were observed in a pooled analysis of the HEC an
 The adverse reactions profiles in the Multiple-Cycle extension of HEC and MEC studies for up to 6 additional cycles of chemotherapy were generally similar to those observed in Cycle 1.
 
 In an additional active-controlled clinical study in 1,169 patients receiving aprepitant and HEC, the adverse reactions profile was generally similar to that seen in the other HEC studies with aprepitant.
+
 Additional adverse reactions were observed in patients treated with aprepitant for postoperative nausea and vomiting (PONV) and a greater incidence than with ondansetron: abdominal pain upper, bowel sounds abnormal, constipation*, dysarthria, dyspnoea, hypoaesthesia, insomnia, miosis, nausea, sensory disturbance, stomach discomfort, sub-ileus*, visual acuity reduced, wheezing.
 
 [EMEND 125 mg hard capsules]
 
 (all sentences already above)
 
-[EMEND 165 mg hard capsules]
-
-Summary of the safety profile
-
-Based on a comparable pharmacokinetic/pharmacodynamic profile, the 1-day oral regimen of EMEND 165 mg is anticipated to have a similar safety and tolerability profile to that of the 1-day regimen of fosaprepitant 150 mg and the 3-day oral aprepitant regimen in chemotherapy patients (see section 5.2).
-
-The most common adverse reactions reported at a greater incidence in patients treated with the 3-day oral aprepitant regimen than with standard therapy in patients receiving Highly Emetogenic Chemotherapy (HEC) were: hiccups (4.6 % versus 2.9 %), asthenia/fatigue (2.9 % versus 1.6 %), alanine aminotransferase (ALT) increased (2.8 % versus 1.5 %), constipation (2.2 % versus 2.0 %), headache (2.2 % versus 1.8 %), and anorexia (2.0 % versus 0.5 %).
-The most common adverse reaction reported at a greater incidence in patients treated with the 3-day oral aprepitant regimen than with standard therapy in patients receiving Moderately Emetogenic Chemotherapy (MEC) was fatigue (1.4 % versus 0.9 %).
-
-Tabulated list of adverse reactions
-The following adverse reactions were observed in either HEC or MEC studies or postmarketing in patients treated with the aprepitant regimen:
+[EMEND 125 mg hard capsules (SmPC 4)]
 
 | System organ class | Adverse reaction | Frequency |
 | --- | --- | --- |
-| Infection and infestations | candidiasis, staphylococcal infection | uncommon |
+| Infection and infestations | candidiasis, staphylococcal infection | rare |
 | Blood and lymphatic system disorders | febrile neutropenia, anaemia | uncommon |
 | Immune system disorders | hypersensitivity reactions including anaphylactic reactions | not known |
-| Metabolism and nutrition disorders | anorexia | common |
-|  | weight gain, polydipsia | uncommon |
-| Psychiatric disorders | disorientation, euphoria, anxiety | uncommon |
-| Nervous system disorders | headache, dizziness | common |
-|  | dream abnormality, cognitive disorder, lethargy, somnolence | uncommon |
-| Eye disorders | conjunctivitis | uncommon |
-| Ear and labyrinth disorders | tinnitus | uncommon |
-| Cardiac disorders | bradycardia, palpitations, cardiovascular disorder | uncommon |
-| Vascular disorders | flushing/hot flush | uncommon |
-| Respiratory, thoracic and mediastinal disorders | hiccups | common |
-|  | pharyngitis, sneezing, cough, postnasal drip, throat irritation | uncommon |
-| Gastrointestinal disorders | constipation, diarrhoea, dyspepsia, eructation perforating duodenal ulcer, nausea*, vomiting*, acid reflux, dysgeusia, epigastric discomfort, obstipation, gastroesophageal reflux disease, abdominal pain, dry mouth, enterocolitis, flatulence, stomatitis, abdominal distension, faeces hard, neutropenic colitis | common uncommon |
-| Skin and subcutaneous tissue disorders | rash, acne, photosensitivity, hyperhidrosis, oily skin, pruritus, skin lesion, rash pruritic | uncommon |
-|  | urticaria | not known |
-| Musculoskeletal and connective tissue disorders | muscle cramp, myalgia, muscular weakness, | uncommon |
-| Renal and urinary disorders | polyuria, dysuria, pollakiuria | uncommon |
-| General disorders and administration site conditions | asthaenia, fatigue | common |
-|  | oedema, chest discomfort, malaise, thirst, chills, gait disturbance | uncommon |
-| Investigations | ALT increased, AST increased, | common |
-|  | alkaline phosphatase increased, hyperglycaemia, microscopic haematuria, hyponatraemia, weight decreased, neutrophil count decreased | uncommon |
-
-Description of selected adverse reactions
-
-In an additional active-controlled clinical study in 1,169 patients receiving the 3-day oral aprepitant regimen and HEC, the adverse reactions profile was generally similar to that seen in the other HEC studies with the 3-day oral aprepitant regimen.
-
-Additional adverse reactions were observed in patients treated with aprepitant (40 mg) for postoperative nausea and vomiting and a greater incidence than with ondansetron: abdominal pain upper, bowel sounds abnormal, dysarthria, dyspnoea, hypoaesthesia, insomnia, miosis, nausea, sensory disturbance, stomach discomfort, visual acuity reduced, wheezing.
-
-In addition, two serious adverse reactions were reported in clinical studies in postoperative nausea and vomiting (PONV) in patients taking a higher dose of aprepitant: one case of constipation, and one case of sub-ileus.
-
-One case of Stevens-Johnson syndrome was reported as a serious adverse reaction in a patient receiving aprepitant with cancer chemotherapy.
-
-One case of angioedema and urticaria was reported as a serious adverse reaction in a patient receiving aprepitant in a non-CINV/non-PONV study.
-
-[EMEND 125 mg hard capsules (SmPC 5)]
-
-(all sentences already above)
+| Metabolism and nutrition disorders | decreased appetite | common |
+|  | polydipsia | rare |
+| Psychiatric disorders | anxiety | uncommon |
+|  | disorientation, euphoric mood | rare |
+| Nervous system disorders | headache | common |
+|  | dizziness, somnolence | uncommon |
+|  | cognitive disorder, lethargy, dysgeusia | rare |
+| Eye disorders | conjunctivitis | rare |
+| Ear and labyrinth disorders | tinnitus | rare |
+| Cardiac disorders | palpitations | uncommon |
+|  | bradycardia, cardiovascular disorder | rare |
+| Vascular disorders | hot flush | uncommon |
+| Respiratory, thoracic and mediastinal disorders | hiccups oropharyngeal pain, sneezing, cough, postnasal drip, throat irritation | common rare |
+| Gastrointestinal disorders | constipation, dyspepsia | common |
+|  | eructation, nausea*, vomiting*, gastroesophageal reflux disease, abdominal pain, dry mouth, flatulence | uncommon |
+|  | duodenal ulcer perforation, stomatitis, abdominal distension, faeces hard, neutropenic colitis | rare |
+| Skin and subcutaneous tissue disorders | rash, acne | uncommon |
+|  | photosensitivity reaction, hyperhidrosis, seborrhoea, skin lesion, rash pruritic, Stevens-Johnson syndrome/toxic epidermal necrolysis | rare |
+|  | pruritus, urticaria | not known |
+| Musculoskeletal and connective tissue disorders | muscular weakness, muscle spasms | rare |
+| Renal and urinary disorders | dysuria | uncommon |
+|  | pollakiuria | rare |
+| General disorders and administration site conditions | fatigue | common |
+|  | asthaenia, malaise | uncommon |
+|  | oedema, chest discomfort, gait disturbance | rare |
+| Investigations | ALT increased | common |
+|  | AST increased, blood alkaline phosphatase increased | uncommon |
+|  | red blood cells urine positive, blood sodium decreased, weight decreased, neutrophil count decreased, glucose urine present, urine output increased | rare |

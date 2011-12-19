@@ -10,10 +10,6 @@ EMEND 80 mg hard capsules
 
 EMEND 125 mg hard capsules
 
-[EMEND 165 mg hard capsules]
-
-EMEND 165 mg hard capsules
-
-[EMEND 125 mg hard capsules (SmPC 5)]
+[EMEND 125 mg hard capsules (SmPC 4)]
 
 (all sentences already above)
