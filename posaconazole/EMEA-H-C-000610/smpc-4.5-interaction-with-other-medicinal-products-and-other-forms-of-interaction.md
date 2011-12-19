@@ -11,6 +11,11 @@ See also below regarding the effect of posaconazole on rifabutin plasma levels.
 Efavirenz (400 mg once a day) decreased the Cmax and AUC of posaconazole by 45 % and 50 %, respectively.
 Concomitant use of posaconazole and efavirenz should be avoided unless the benefit to the patient outweighs the risk.
 
+Fosamprenavir: Combining fosamprenavir with posaconazole may lead to decreased posaconazole plasma concentrations.
+If concomitant administration is required, close monitoring for breakthrough fungal infections is recommended.
+Repeat dose administration of fosamprenavir (700 mg BID x 10 days) decreased the Cmax and AUC of posaconazole (200 mg QD on the 1st day, 200 mg BID on the 2nd day, then 400 mg BID x 8 Days) by 21 % and 23 %, respectively.
+The effect of posaconazole on fosamprenavir levels when fosamprenavir is given with ritonavir is unknown.
+
 Phenytoin (200 mg once a day) decreased the Cmax and AUC of posaconazole by 41 % and 50 %, respectively.
 Concomitant use of posaconazole and phenytoin and similar inducers (e.g. carbamazepine, phenobarbital, primidone) should be avoided unless the benefit to the patient outweighs the risk.
 
@@ -60,7 +65,7 @@ If it is considered that co-administration is unavoidable, then it is recommende
 Sirolimus concentrations should be measured upon initiation, during co-administration, and at discontinuation of posaconazole treatment, with sirolimus doses adjusted accordingly.
 It should be noted that the relationship between sirolimus trough concentration and AUC is changed during co-administration with posaconazole.
 As a result, sirolimus trough concentrations that fall within the usual therapeutic range may result in sub-therapeutic levels.
-Therefore trough concentrations that fall in the upper part of the usual therapeutic range should be targetted and careful attention should be paid to clinical signs and symptoms, laboratory parameters and tissue biopsies.
+Therefore trough concentrations that fall in the upper part of the usual therapeutic range should be targeted and careful attention should be paid to clinical signs and symptoms, laboratory parameters and tissue biopsies.
 
 Ciclosporin: In heart transplant patients on stable doses of ciclosporin, posaconazole 200 mg once daily increased ciclosporin concentrations requiring dose reductions.
 Cases of elevated ciclosporin levels resulting in serious adverse reactions, including nephrotoxicity and one fatal case of leukoencephalopathy, were reported in clinical efficacy studies.
@@ -92,3 +97,6 @@ Digoxin: Administration of other azoles has been associated with increases in di
 Therefore, posaconazole may increase plasma concentration of digoxin and digoxin levels need to be monitored when initiating or discontinuing posaconazole treatment.
 Sulfonylureas: Glucose concentrations decreased in some healthy volunteers when glipizide was co-administered with posaconazole.
 Monitoring of glucose concentrations is recommended in diabetic patients.
+
+Paediatric population
+Interaction studies have only been performed in adults.

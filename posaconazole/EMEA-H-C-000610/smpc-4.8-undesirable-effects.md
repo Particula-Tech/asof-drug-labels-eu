@@ -21,7 +21,8 @@ Within the organ system classes, adverse reactions are listed under headings of 
 | Hepatobiliary disorders Common: Uncommon: Rare: | liver function tests raised (ALT increased, AST increased, bilirubin increased, alkaline phosphatase increased, GGT increased) hepatocellular damage, hepatitis, jaundice, hepatomegaly hepatic failure, hepatitis cholestatic, cholestasis, hepatosplenomegaly, liver tenderness, asterixis |
 | Skin and subcutaneous tissue disorders Common: Uncommon: Rare: | rash mouth ulceration, alopecia Stevens Johnson syndrome, vesicular rash |
 | Musculoskeletal and connective tissue disorders Uncommon: | back pain |
-| Renal and urinary disorders Uncommon: Rare: | acute renal failure, renal failure, blood creatinine increased renal tubular acidosis, interstitial nephritis |
+| Renal and urinary disorders Uncommon: | acute renal failure, renal failure, blood creatinine increased |
+| Rare: | renal tubular acidosis, interstitial nephritis |
 | Reproductive system and breast disorders Uncommon: Rare: | menstrual disorder breast pain |
 | General disorders and administration site conditions Common: Uncommon: Rare: | pyrexia (fever), asthenia, fatigue oedema, pain, chills, malaise tongue oedema, face oedema |
 | Investigations Uncommon: | altered medicine levels |

@@ -19,7 +19,7 @@ Posaconazole does not have any major circulating metabolites and its concentrati
 Of the circulating metabolites, the majority are glucuronide conjugates of posaconazole with only minor amounts of oxidative (CYP450 mediated) metabolites observed.
 The excreted metabolites in urine and faeces account for approximately 17 % of the administered radiolabelled dose.
 
-Excretion
+Elimination
 Posaconazole is slowly eliminated with a mean half-life (t½) of 35 hours (range 20 to 66 hours).
 After administration of 14C-posaconazole, radioactivity was predominantly recovered in the faeces (77 % of the radiolabelled dose) with the major component being parent compound (66 % of the radiolabelled dose).
 Renal clearance is a minor elimination pathway, with 14 % of the radiolabelled dose excreted in urine (< 0.2 % of the radiolabelled dose is parent compound).

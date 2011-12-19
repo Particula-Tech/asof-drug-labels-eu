@@ -29,10 +29,10 @@ Noxafil should be administered with caution to patients with pro-arrhythmic cond
 Electrolyte disturbances, especially those involving potassium, magnesium or calcium levels, should be monitored and corrected as necessary before and during posaconazole therapy.
 
 Posaconazole is an inhibitor of CYP3A4 and should only be used under specific circumstances during treatment with other medicinal products that are metabolised by CYP3A4 (see section 4.5).
+
 Gastrointestinal dysfunction
 There are limited pharmacokinetic data in patients with severe gastrointestinal dysfunction (such as severe diarrhoea).
 Patients who have severe diarrhoea or vomiting should be monitored closely for breakthrough fungal infections.
-
 Rifamycin antibacterials (rifampicin, rifabutin), certain anticonvulsants (phenytoin, carbamazepine, phenobarbital, primidone), efavirenz and cimetidine
 Posaconazole concentrations may be significantly lowered in combination; therefore, concomitant use with posaconazole should be avoided unless the benefit to the patient outweighs the risk (see section 4.5).
 
