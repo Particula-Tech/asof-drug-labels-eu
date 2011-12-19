@@ -49,8 +49,7 @@ Patients with renal impairment
 EXJADE has not been studied in patients with renal impairment and is contraindicated in patients with estimated creatinine clearance <60 ml/min (see sections 4.3 and 4.4).
 
 Patients with hepatic impairment
-EXJADE has not been studied in patients with hepatic impairment and must be used with caution in such patients.
-The initial dosing recommendations for patients with hepatic impairment are the same as described above.
+EXJADE is not recommended in patients with severe hepatic impairment (Child-Pugh Class C). In patients with moderate hepatic impairment (Child-Pugh Class B), the dose should be considerably reduced followed by progressive increase up to a limit of 50% (see sections 4.4 and 5.2), and EXJADE must be used with caution in such patients.
 Hepatic function in all patients should be monitored before treatment, every 2 weeks during the first month and then every month (see section 4.4).
 
 Method of administration

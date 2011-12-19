@@ -16,7 +16,6 @@ Therefore, the concomitant use of EXJADE with potent UGT inducers (e.g. rifampic
 The patient’s serum ferritin should be monitored during and after the combination, and the dose of EXJADE adjusted if necessary.
 
 Cholestyramine significantly reduced the deferasirox exposure in a mechanistic study to determine the degree of enterohepatic recycling (see section 5.2).
-
 In a healthy volunteer study, the concomitant administration of EXJADE and midazolam (a CYP3A4 probe substrate) resulted in a decrease of midazolam exposure by 17% (90% CI: 8% - 26%).
 In the clinical setting, this effect may be more pronounced.
 Therefore, due to a possible decrease in efficacy, caution should be exercised when deferasirox is combined with substances metabolised through CYP3A4 (e.g. ciclosporin, simvastatin, hormonal contraceptive agents, bepridil, ergotamine).
@@ -32,6 +31,7 @@ Therefore, the concomitant use of EXJADE with theophylline is not recommended.
 If EXJADE and theophylline are used concomitantly, monitoring of theophylline concentration and theophylline dose reduction should be considered.
 An interaction between EXJADE and other CYP1A2 substrates cannot be excluded.
 For substances that are predominantly metabolised by CYP1A2 and that have a narrow therapeutic index (e.g. clozapine, tizanidine), the same recommendations apply as for theophylline.
+
 The concomitant administration of EXJADE and aluminium-containing antacid preparations has not been formally studied.
 Although deferasirox has a lower affinity for aluminium than for iron, it is not recommended to take EXJADE tablets with aluminium-containing antacid preparations.
 

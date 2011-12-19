@@ -12,8 +12,10 @@ Cases of acute renal failure have been reported following post-marketing use of 
 In some post-marketing cases, renal function deterioration has led to renal failure requiring temporary or permanent dialysis.
 
 The causes of the rises in serum creatinine have not been elucidated.
-Particular attention should therefore be paid to monitoring of serum creatinine in patients who are concomitantly receiving medicinal products that depress renal function, and in patients who are receiving high doses of EXJADE and/or low rates of transfusion (<7 ml/kg/month of packed red blood cells or <2 units/month for an adult).
+Particular attention should therefore be paid to monitoring of serum creatinine in patients who are concomitantly receiving medicinal products that depress renal function, and in patients who are receiving high doses of EXJADE and/or low rates of transfusion (<7 ml/kg/month of packed red blood cells or
+<2 units/month for an adult).
 While no increase in renal adverse events was observed after dose escalation to doses above 30 mg/kg in clinical trials, an increased risk of renal adverse events with EXJADE doses above 30 mg/kg cannot be excluded.
+
 It is recommended that serum creatinine be assessed in duplicate before initiating therapy.
 Serum creatinine, creatinine clearance (estimated with the Cockcroft-Gault or MDRD formula in adults and with the Schwartz formula in children) and/or plasma cystatin C levels should be monitored weekly in the first month after initiation or modification of therapy with EXJADE, and monthly thereafter.
 Patients with pre-existing renal conditions and patients who are receiving medicinal products that depress renal function may be more at risk of complications.
@@ -32,7 +34,6 @@ As needed, additional markers of renal tubular function (e.g. glycosuria in non-
 Dose reduction or interruption may be considered if there are abnormalities in levels of tubular markers and/or if clinically indicated.
 
 If, despite dose reduction and interruption, the serum creatinine remains significantly elevated and there is also persistent abnormality in another marker of renal function (e.g. proteinuria, Fanconi’s Syndrome), the patient should be referred to a renal specialist, and further specialised investigations (such as renal biopsy) may be considered.
-
 Hepatic function:
 
 Liver function test elevations have been observed in patients treated with EXJADE.
@@ -44,11 +45,11 @@ It is recommended that serum transaminases, bilirubin and alkaline phosphatase b
 If there is a persistent and progressive increase in serum transaminase levels that cannot be attributed to other causes, EXJADE should be interrupted.
 Once the cause of the liver function test abnormalities has been clarified or after return to normal levels, cautious re-initiation of treatment at a lower dose followed by gradual dose escalation may be considered.
 
-EXJADE is not recommended in patients with severe hepatic impairment as it has not been studied in such patients.
-Treatment has been initiated only in patients with baseline liver transaminase levels up to 5 times the upper limit of the normal range (see section 5.2).
+EXJADE is not recommended in patients with severe hepatic impairment (Child-Pugh Class C) (see section 5.2).
 
 In patients with a short life expectancy (e.g. high-risk myelodysplastic syndromes), especially when co-morbidities could increase the risk of adverse events, the benefit of EXJADE might be limited and may be inferior to risks.
 As a consequence, treatment with EXJADE is not recommended in these patients.
+
 Caution should be used in elderly patients due to a higher frequency of adverse reactions (in particular, diarrhoea).
 
 Gastrointestinal
@@ -72,7 +73,6 @@ Vision and hearing
 Auditory (decreased hearing) and ocular (lens opacities) disturbances have been reported (see section 4.8).
 Auditory and ophthalmic testing (including fundoscopy) is recommended before the start of treatment and at regular intervals thereafter (every 12 months).
 If disturbances are noted during the treatment, dose reduction or interruption may be considered.
-
 Blood disorders
 There have been post-marketing reports of leukopenia, thrombocytopenia or pancytopenia, or aggravation of these cytopenias in patients treated with EXJADE.
 Most of these patients had pre-existing haematological disorders that are frequently associated with bone marrow failure.
@@ -91,6 +91,7 @@ However, as a general precautionary measure in the management of paediatric pati
 
 Cardiac dysfunction is a known complication of severe iron overload.
 Cardiac function should be monitored in patients with severe iron overload during long-term treatment with EXJADE.
+
 Each tablet contains 136 mg lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency, glucose-galactose malabsorption or severe lactase deficiency should not take this medicine.
 
