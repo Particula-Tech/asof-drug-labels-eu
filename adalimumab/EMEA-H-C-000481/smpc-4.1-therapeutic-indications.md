@@ -25,8 +25,8 @@ Psoriatic arthritis
 
 Humira is indicated for the treatment of active and progressive psoriatic arthritis in adults when the response to previous disease-modifying anti-rheumatic drug therapy has been inadequate.
 Humira has been shown to reduce the rate of progression of peripheral joint damage as measured by X-ray in patients with polyarticular symmetrical subtypes of the disease (see Section 5.1) and to improve physical function.
-Ankylosing spondylitis
 
+Ankylosing spondylitis
 Humira is indicated for the treatment of adults with severe active ankylosing spondylitis who have had an inadequate response to conventional therapy.
 
 Crohn’s disease
