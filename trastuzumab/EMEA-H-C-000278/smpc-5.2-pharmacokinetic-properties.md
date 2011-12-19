@@ -14,7 +14,6 @@ Steady State pharmacokinetics
 Steady state should be reached by approximately 25 weeks.
 In a population pharmacokinetic (two compartment, model-dependent) assessment of Phase I, II and III clinical trials in metastatic breast cancer, the median predicted AUC at steady state over a three-week period was three times 578 mg•day/l (1677 mg•day/l) with 3 weekly doses of 2 mg/kg and 1793 mg day/l with one every three week dose of 6 mg/kg; the estimated median peak concentrations were 104 mg/l and 189 mg/l and the trough concentrations were 64.9 mg/l and 47.3 mg/l, respectively.
 In patients with early breast cancer administered Herceptin at a loading dose of 8 mg/kg followed every three weeks by 6 mg/kg, using model-independent or non-compartmental analyses (NCA) the mean steady state trough concentration measured at cycle 13 (week 37) was 63 mg/l, which was comparable to that reported previously in patients with metastatic breast cancer receiving the weekly regimen.
-
 Clearance (CL)
 The typical trastuzumab clearance (for a body weight of 68 kg) was 0.241 l/day.
 

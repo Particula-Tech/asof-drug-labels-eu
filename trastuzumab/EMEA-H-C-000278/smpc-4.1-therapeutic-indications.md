@@ -20,6 +20,7 @@ Herceptin is indicated for the treatment of patients with HER2 positive early br
 - following surgery, chemotherapy (neoadjuvant or adjuvant) and radiotherapy (if applicable) (see section 5.1).
 - following adjuvant chemotherapy with doxorubicin and cyclophosphamide, in combination with paclitaxel or docetaxel.
 - in combination with adjuvant chemotherapy consisting of docetaxel and carboplatin.
+- in combination with neoadjuvant chemotherapy followed by adjuvant Herceptin therapy, for locally advanced (including inflammatory) disease or tumours > 2 cm in diameter (see sections 4.4 and 5.1).
 
 Herceptin should only be used in patients with metastatic or early breast cancer whose tumours have either HER2 overexpression or HER2 gene amplification as determined by an accurate and validated assay (see sections 4.4 and 5.1).
 

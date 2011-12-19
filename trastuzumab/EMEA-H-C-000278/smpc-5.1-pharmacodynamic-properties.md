@@ -147,11 +147,8 @@ EBC
 Early breast cancer is defined as non-metastatic primary invasive carcinoma of the breast.
 In the adjuvant setting, Herceptin was investigated in 4 large multicentre, randomised, trials.
 
-- The HERA study was designed to compare one year of three-weekly Herceptin treatment
-
-versus observation in patients with HER2 positive early breast cancer following surgery, established chemotherapy and radiotherapy (if applicable).
-Patients assigned to receive Herceptin were given an initial loading dose of 8 mg/kg, followed by 6 mg/kg every three weeks for one year.
-
+- The HERA study was designed to compare one year of three-weekly Herceptin treatment versus observation in patients with HER2 positive early breast cancer following surgery, established chemotherapy and radiotherapy (if applicable).
+  Patients assigned to receive Herceptin were given an initial loading dose of 8 mg/kg, followed by 6 mg/kg every three weeks for one year.
 - The NCCTG N9831 and NSABP B-31 studies that comprise the joint analysis were designed to investigate the clinical utility of combining Herceptin treatment with paclitaxel following AC chemotherapy, additionally the NCCTG N9831 study also investigated adding Herceptin sequentially to AC→P chemotherapy in patients with HER2 positive early breast cancer following surgery.
 - The BCIRG 006 study was designed to investigate combining Herceptin treatment with docetaxel either following AC chemotherapy or in combination with docetaxel and carboplatin in patients with HER2 positive early breast cancer following surgery.
 
@@ -255,6 +252,45 @@ In addition a post-hoc exploratory analysis was performed on the data sets from 
 
 A: doxorubicin; C: cyclophosphamide; P: paclitaxel; D: docetaxel; Carb: carboplatin; H: trastuzumab CI = confidence interval
 
+Neoadjuvant-adjuvant treatment
+
+So far, no results are available which compare the efficacy of Herceptin administered with chemotherapy in the adjuvant setting with that obtained in the neo-adjuvant/adjuvant setting.
+
+In the neoadjuvant-adjuvant setting, study MO16432, a multicentre randomised trial, was designed to investigate the clinical efficacy of concurrent administration of Herceptin with neoadjuvant chemotherapy including both an anthracycline and a taxane, followed by adjuvant Herceptin, up to a total treatment duration of 1 year.
+The study recruited patients with newly diagnosed locally advanced (Stage III) or inflammatory early breast cancer.
+Patients with HER2+ tumours were randomised to receive either neoadjuvant chemotherapy concurrently with neoadjuvant-adjuvant Herceptin, or neoadjuvant chemotherapy alone.
+
+In study MO16432, Herceptin (8 mg/kg loading dose, followed by 6 mg/kg maintenance every 3 weeks) was administered concurrently with 10 cycles of neoadjuvant chemotherapy
+
+as follows:
+
+- Doxorubicin 60mg/m2 and paclitaxel 150 mg/m2, administered 3-weekly for 3 cycles,
+
+which was followed by
+
+- Paclitaxel 175 mg/m2 administered 3-weekly for 4 cycles,
+
+which was followed by
+
+- CMF on day 1 and 8 every 4 weeks for 3 cycles
+
+which was followed after surgery by
+
+- additional cycles of adjuvant Herceptin (to complete 1 year of treatment)
+
+The efficacy results from MO16432 are summarized in the table below.
+The median duration of follow-up in the Herceptin arm was 3.8 years.
+
+| Parameter | Chemo + Herceptin (n=115) | Chemo only (n=116) |  |
+| --- | --- | --- | --- |
+| Event-free survival No. patients with event | 46 | 59 | Hazard Ratio (95% CI) 0.65 (0.44, 0.96) p=0.0275 |
+| Total pathological complete response* (95% CI) | 40% (31.0, 49.6) | 20.7% (13.7, 29.2) | P=0.0014 |
+| Overall survival No. patients with event | 22 | 33 | Hazard Ratio (95% CI) 0.59 (0.35, 1.02) p=0.0555 |
+
+* defined as absence of any invasive cancer both in the breast and axillary nodes
+
+An absolute benefit of 13 percentage points in favour of the Herceptin arm was estimated in terms of 3-year event-free survival rate (65 % vs. 52 %).
+
 MGC
 
 Herceptin has been investigated in one randomised, open-label phase III trial ToGA (BO18255) in combination with chemotherapy versus chemotherapy alone.
@@ -283,6 +319,7 @@ The efficacy results from study BO18225 are summarized in the following table:
 
 FP + H: Fluoropyrimidine/cisplatin + Herceptin
 FP: Fluoropyrimidine/cisplatin a Odds ratio
+
 Patients were recruited to the trial who were previously untreated for HER2-positive inoperable locally advanced or recurrent and/or metastatic adenocarcinoma of the stomach or gastro-oesophageal junction not amenable to curative therapy.
 The primary endpoint was overall survival which was defined as the time from the date of randomization to the date of death from any cause.
 At the time of the analysis a total of 349 randomized patients had died: 182 patients (62.8 %) in the control arm and 167 patients (56.8 %) in the treatment arm.

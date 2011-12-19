@@ -1,9 +1,9 @@
 # 4.8 Undesirable Effects
 
 Amongst the most serious and/or common adverse reactions reported in Herceptin usage to date are cardiotoxicity, infusion-related reactions, haematotoxicity (in particular neutropenia) and pulmonary adverse events.
+
 In this section, the following categories of frequency have been used: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000), not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions should be presented in order of decreasing seriousness.
-
 List of adverse reactions
 Presented in the following table are adverse reactions that have been reported in association with the use of Herceptin alone or in combination with chemotherapy in pivotal clinical trials and in the post-marketing setting.
 Pivotal trials included:
@@ -15,6 +15,7 @@ Pivotal trials included:
 - BO18255: Herceptin in combination with a fluoropyrimidine and cisplatin versus chemotherapy alone as first-line therapy in HER2 positive advanced gastric cancer.
 - B-31, N9831: Herceptin administered sequential to adjuvant chemotherapy with doxorubicin and cyclophosphamide, in combination with paclitaxel.
 - BCIRG 006: Herceptin administered sequential to adjuvant chemotherapy with doxorubicin and cyclophosphamide, in combination with docetaxel or Herceptin administered in combination with adjuvant chemotherapy consisting of docetaxel and carboplatin.
+- MO16432: Herceptin administered concurrently in combination with the neoadjuvant regimen of doxorubicin plus paclitaxel, paclitaxel and cyclophosphamide plus methotrexate plus 5-fluorouracil, followed by postoperative adjuvant Herceptin monotherapy.
 
 All the terms included are based on the highest percentage seen in pivotal clinical trials.
 
@@ -64,8 +65,9 @@ All the terms included are based on the highest percentage seen in pivotal clini
 |  | Ataxia | Common |
 |  | Paresis | Rare |
 |  | Brain oedema | Not known |
-| Eye disorders | Dry eye | Common |
-|  | Lacrimation increased | Common |
+| Eye disorders | Conjunctivitis | Very common |
+|  | Lacrimation increased | Very Common |
+|  | Dry eye | Common |
 |  | Papilloedema | Not known |
 |  | Retinal haemorrhage | Not known |
 | Ear and Labyrinth Disorders | Deafness | Uncommon |
@@ -83,16 +85,17 @@ All the terms included are based on the highest percentage seen in pivotal clini
 |  | Pericarditis | Not known |
 |  | Bradycardia | Not known |
 |  | Gallop rhythm present | Not known |
-| Vascular disorders | +1 Hypotension | Common |
+| Vascular disorders | Hot flush | Very Common |
+|  | +1 Hypotension | Common |
 |  | Vasodilatation | Common |
 | Respiratory, thoracic and mediastinal disorders | +1Wheezing | Very common |
 |  | +Dyspnoea | Very common (14 %) |
+|  | Cough | Very Common |
+|  | Epistaxis | Very Common |
+|  | Rhinorrhoea | Very Common |
 |  | Asthma | Common |
-|  | Cough | Common |
-|  | Epistaxis | Common |
 |  | Lung disorder | Common |
 |  | Pharyngitis | Common |
-|  | Rhinorrhoea | Common |
 |  | +Pleural effusion | Uncommon |
 |  | Pneumonitis | Rare |
 |  | +Pulmonary fibrosis | Not known |
@@ -117,11 +120,11 @@ All the terms included are based on the highest percentage seen in pivotal clini
 |  | Haemorrhoids | Common |
 |  | Constipation | Common |
 |  | Dry mouth | Common |
-| Hepatobiliary disorders | Hepatitis | Common |
+| Hepatobiliary disorders | Hepatocellular Injury | Common |
+|  | Hepatitis | Common |
 |  | Liver Tenderness | Common |
 |  | Jaundice | Rare |
 |  | Hepatic Failure | Not known |
-|  | Hepatocellular Injury | Common |
 | Skin and subcutaneous disorders | Erythema | Very common |
 |  | Rash | Very common |
 |  | 1 Swelling face | Very common |
@@ -180,10 +183,10 @@ Cardiotoxicity (heart failure), NYHA II - IV is a common adverse reaction associ
 In 3 pivotal clinical trials of adjuvant trastuzumab given in combination with chemotherapy, the incidence of grade 3/4 cardiac dysfunction (symptomatic Congestive Heart Failure) was similar in patients who were administered chemotherapy alone (ie did not receive Herceptin) and in patients who were administered Herceptin sequentially to a taxane (0.3-0.4%).
 The rate was highest in patients who were administered Herceptin concurrently with a taxane (2.0%).
 The safety of continuation or resumption of Herceptin in patients who experience cardiotoxicity has not been prospectively studied.
-However, most patients who developed heart failure in the pivotal trials (H0648g, H0649g, M77001, BO16216, BO16348, BO18255, B-31, N9831, BCIRG 006) improved with standard medical treatment.
+However, most patients who developed heart failure in the pivotal trials (H0648g, H0649g, M77001, BO16216, BO16348, BO18255, B-31, N9831, BCIRG 006, MO16432) improved with standard medical treatment.
 This included diuretics, cardiac glycosides, beta-blockers and/or angiotensin-converting enzyme inhibitors.
 The majority of patients with cardiac symptoms and evidence of a clinical benefit of Herceptin treatment continued on therapy with Herceptin without additional clinical cardiac events (for information on identification of risk factors and management see section 4.4).
-
+In the neoadjuvant setting, the experience of concurrent administration of Herceptin and low dose anthracycline regimen is limited.
 Infusion reactions, allergic-like reactions and hypersensitivity
 It is estimated that approximately 40 % of patients who are treated with Herceptin will experience some form of infusion-related reaction.
 However, the majority of infusion-related reactions are mild to moderate in intensity (NCI-CTC grading system) and tend to occur earlier in treatment, i.e. during infusions one, two and three and lessen in frequency in subsequent infusions.

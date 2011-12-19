@@ -29,6 +29,7 @@ The recommended maintenance dose of Herceptin at three-weekly intervals is 6 mg/
 As a weekly regimen (initial loading dose of 4 mg/kg followed by 2 mg/kg every week) concomitantly with paclitaxel following chemotherapy with doxorubicin and cyclophosphamide.
 
 (See section 5.1 for chemotherapy combination dosing).
+
 MGC
 
 Three-weekly schedule
@@ -39,7 +40,7 @@ Breast Cancer (MBC and EBC) and Gastric Cancer (MGC)
 
 Duration of treatment
 Patients with MBC or MGC should be treated with Herceptin until progression of disease.
-Patients with EBC should be treated with Herceptin for 1 year (18 cycles three-weekly) or until disease recurrence, whatever occurs first.
+Patients with EBC should be treated with Herceptin for 1 year or until disease recurrence, whatever occurs first.
 
 Dose reduction
 No reductions in the dose of Herceptin were made during clinical trials.
@@ -71,7 +72,6 @@ Herceptin intravenous infusion should be administered by a health-care provider 
 Patients should be observed for at least six hours after the start of the first infusion and for two hours after the start of the subsequent infusions for symptoms like fever and chills or other infusion-related symptoms (see sections 4.4 and 4.8).
 Interruption or slowing the rate of the infusion may help control such symptoms.
 The infusion may be resumed when symptoms abate.
-
 If the initial loading dose was well tolerated, the subsequent doses can be administered as a 30-minute infusion.
 
 For instructions on use and handling of Herceptin refer to section 6.6.
