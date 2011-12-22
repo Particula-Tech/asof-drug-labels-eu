@@ -1,13 +1,13 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antiemetics and antinauseants, ATC code: A04A D12.
+Pharmacotherapeutic group: Antiemetics and antinauseants, ATC code: A04AD12.
 
 Fosaprepitant is the prodrug of aprepitant and when administered intravenously is converted rapidly to aprepitant (see section 5.2).
 The contribution of fosaprepitant to the overall antiemetic effect has not fully been characterised, but a transient contribution during the initial phase cannot be ruled out.
 Aprepitant is a selective high-affinity antagonist at human substance P neurokinin 1 (NK1) receptors.
 The pharmacological effect of fosaprepitant is attributed to aprepitant.
 
-3-Day regimen of aprepitant
+3-day regimen of aprepitant
 In 2 randomised, double-blind studies encompassing a total of 1,094 patients receiving chemotherapy that included cisplatin ≥70 mg/m2, aprepitant in combination with an ondansetron/dexamethasone regimen (see section 4.2) was compared with a standard regimen (placebo plus ondansetron 32 mg intravenously administered on Day 1 plus dexamethasone 20 mg orally on Day 1 and 8 mg orally twice daily on Days 2 to 4).
 
 Efficacy was based on evaluation of the following composite measure: complete response (defined as no emetic episodes and no use of rescue therapy) primarily during Cycle 1.
@@ -102,10 +102,11 @@ In the same clinical study, 744 patients continued into the Multiple-Cycle exten
 The efficacy of the aprepitant regimen was maintained during all cycles.
 
 In a second multicenter, randomized, double-blind, parallel-group, clinical study, the aprepitant regimen was compared with standard therapy in 848 patients (652 females, 196 males) receiving a chemotherapy regimen that included any IV dose of oxaliplatin, carboplatin, epirubicin, idarubicin, ifosfamide, irinotecan, daunorubicin, doxorubicin; cyclophosphamide IV (<1,500 mg/m2); or cytarabine IV (>1 g/m2).
-Patients receiving the aprepitant regimen were receiving chemotherapy for a variety of tumor types including 52 % with breast cancer, 21 % with gastrointestinal cancers including colorectal cancer, 13 % with lung cancer and 6 % with gynaecological cancers.
-The aprepitant regimen in combination with an ondansetron/dexamethasone regimen (see section 4.2) was compared with standard therapy (placebo in combination with ondansetron 8 mg orally (twice on Day 1, and every 12 hours on Days 2 and 3) plus dexamethasone 20 mg orally on Day 1).
-Efficacy was based on the evaluation of the following primary and key secondary endpoints: No Vomiting in the overall period (0 to 120 hours post-chemotherapy), evaluation of safety and tolerability of the aprepitant regimen for CINV, and complete response (defined as no vomiting and no use of rescue therapy) in the overall period (0 to 120 hours post-chemotherapy).
-Additionally, No Significant Nausea in the overall period (0 to 120 hours post-chemotherapy) was evaluated as an exploratory endpoint, and in the acute and delayed phases as a post-hoc analysis.
+Patients receiving the aprepitant regimen were receiving chemotherapy for a variety of tumour types including 52 % with breast cancer, 21 % with gastrointestinal cancers including colorectal cancer, 13 % with lung cancer and 6 % with gynaecological cancers.
+The aprepitant regimen in combination with an ondansetron/dexamethasone regimen (see section 4.2) was compared with standard therapy (placebo in combination with ondansetron 8 mg orally (twice on
+Day 1, and every 12 hours on Days 2 and 3) plus dexamethasone 20 mg orally on Day 1).
+Efficacy was based on the evaluation of the following primary and key secondary endpoints: No vomiting in the overall period (0 to 120 hours post-chemotherapy), evaluation of safety and tolerability of the aprepitant regimen for CINV, and complete response (defined as no vomiting and no use of rescue therapy) in the overall period (0 to 120 hours post-chemotherapy).
+Additionally, no significant nausea in the overall period (0 to 120 hours post-chemotherapy) was evaluated as an exploratory endpoint, and in the acute and delayed phases as a post-hoc analysis.
 
 A summary of the key study results is shown in Table 3.
 
@@ -121,7 +122,8 @@ regimen therapy
 
 | Complete response (no emesis and no rescue therapy) |  |
 | --- | --- |
-| Overall (0-120 hours) 68.7 56.3 12.4 0-24 hours 89.2 80.3 8.9 25-120 hours 70.8 60.9 9.9 No emesis (no emetic episodes regardless of use of rescue therapy) | (5.9, 18.9) (4.0, 13.8) (3.5, 16.3) |
+| Overall (0-120 hours) 68.7 56.3 12.4 0-24 hours 89.2 80.3 8.9 25-120 hours 70.8 60.9 9.9 | (5.9, 18.9) (4.0, 13.8) (3.5, 16.3) |
+| No emesis (no emetic episodes regardless of use of rescue therapy) |  |
 | Overall (0-120 hours) 76.2 62.1 14.1 0-24 hours 92.0 83.7 8.3 25-120 hours 77.9 66.8 11.1 | (7.9, 20.3) (3.9, 12.7) (5.1, 17.1) |
 | No significant nausea (maximum VAS <25 mm on a scale of 0-100 mm) |  |
 
@@ -138,7 +140,7 @@ Studies evaluating the use of fosaprepitant in paediatric patients are on-going 
 
 [IVEMEND 150 mg powder for solution for infusion.]
 
-1-Day regimen of IVEMEND 150 mg
+1-day regimen of IVEMEND 150 mg
 In a randomized, parallel, double-blind, active-controlled study, IVEMEND 150 mg (N=1,147) was compared with a 3-day aprepitant regimen (N=1,175) in patients receiving a HEC regimen that included cisplatin (≥70 mg/m2).
 The fosaprepitant regimen consisted of fosaprepitant 150 mg on Day 1 in combination with ondansetron 32 mg IV on Day 1 and dexamethasone 12 mg on Day 1, 8 mg on Day 2, and 8 mg twice daily on Days 3 and 4.
 The aprepitant regimen consisted of aprepitant 125 mg on Day 1 and 80 mg/day on Days 2 and 3 in combination with ondansetron 32 mg IV on Day 1 and dexamethasone 12 mg on Day 1 and 8 mg daily on Days 2 through 4.
@@ -147,7 +149,6 @@ Fosaprepitant placebo, aprepitant placebo, and dexamethasone placebo (in the eve
 Efficacy was based on evaluation of the following composite measures: complete response in both the overall and delayed phases and no vomiting in the overall phase.
 IVEMEND 150 mg was shown to be non-inferior to that of the 3-day regimen of aprepitant.
 A summary of the primary and secondary endpoints is shown in Table 4.
-
 Table 4
 
 ENDPOINTS* Fosaprepitant Aprepitant Difference†

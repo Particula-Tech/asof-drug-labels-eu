@@ -1,18 +1,15 @@
 # 4.8 Undesirable effects
 
+Summary of the safety profile
 Since fosaprepitant is converted to aprepitant, those adverse reactions associated with aprepitant are expected to occur with fosaprepitant.
 Prior to approval of fosaprepitant 150 mg, the safety profiles of fosaprepitant and aprepitant were evaluated in approximately 1,100 individuals and 6,500 individuals, respectively.
-In clinical studies, various formulations of fosaprepitant have been administered to a total of 2,183 individuals including 371 healthy subjects and 1,579 patients with CINV.
+In clinical studies, various formulations of fosaprepitant have been administered to a total of 2,183 individuals including 371 healthy subjects and 1,579 patients with chemotherapy induced nausea and vomiting (CINV).
+
 Oral aprepitant
-Adverse reactions were reported in approximately 19 % of patients treated with the aprepitant regimen compared with approximately 14 % of patients treated with standard therapy in patients receiving Highly Emetogenic Chemotherapy (HEC).
-Aprepitant was discontinued due to adverse reactions in 0.6 % of patients treated with the aprepitant regimen compared with 0.4 % of patients treated with standard therapy.
-In a combined analysis of 2 clinical studies of patients receiving Moderately Emetogenic Chemotherapy (MEC), clinical adverse reactions were reported in approximately 14 % of patients treated with the aprepitant regimen compared with approximately 15 % of patients treated with standard therapy.
-Aprepitant was discontinued due to adverse reactions in 0.7 % of patients treated with the aprepitant regimen compared with 0.2 % of patients treated with standard therapy.
+The most common adverse reactions reported at a greater incidence in patients treated with the aprepitant regimen than with standard therapy in patients receiving Highly Emetogenic Chemotherapy (HEC) were: hiccups (4.6 % versus 2.9 %), alanine aminotransferase (ALT) increased (2.8 % versus 1.1 %), dyspepsia (2.6 % versus 2.0 %), constipation (2.4 % versus 2.0 %), headache (2.0 % versus 1.8 %), and decreased appetite (2.0 % versus 0.5 %).
+The most common adverse reaction reported at a greater incidence in patients treated with the aprepitant regimen than with standard therapy in patients receiving Moderately Emetogenic Chemotherapy (MEC) was fatigue (1.4 % versus 0.9 %).
 
-The most common adverse reactions reported at a greater incidence in patients treated with the aprepitant regimen than with standard therapy in patients receiving HEC were: hiccups (4.6 % versus 2.9 %), alanine aminotransferase (ALT) increased (2.8 % versus 1.1 %), dyspepsia (2.6 % versus 2.0 %), constipation (2.4 % versus 2.0 %), headache (2.0 % versus 1.8 %), and decreased appetite
-(2.0 % versus 0.5 %).
-The most common adverse reaction reported at a greater incidence in patients treated with the aprepitant regimen than with standard therapy in patients receiving MEC was fatigue (1.4 % versus 0.9 %).
-
+Tabulated list of adverse reactions - aprepitant
 The following adverse reactions were observed in a pooled analysis of the HEC and MEC studies at a greater incidence with aprepitant than with standard therapy or in postmarketing use:
 
 Frequencies are defined as: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000) and very rare (<1/10,000), not known (cannot be estimated from the available data).
@@ -37,9 +34,9 @@ Frequencies are defined as: very common (≥1/10); common (≥1/100 to <1/10); u
 | Respiratory, thoracic and mediastinal disorders | hiccups | common |
 |  | oropharyngeal pain, sneezing, cough, postnasal drip, throat irritation | rare |
 | Gastrointestinal disorders | constipation, dyspepsia | common |
-|  | eructation, nausea*, vomiting*,gastroesophageal reflux disease, abdominal pain, dry mouth, flatulence | uncommon |
+|  | eructation, nausea*, vomiting*, gastroesophageal reflux disease, abdominal pain, dry mouth, flatulence | uncommon |
 |  | duodenal ulcer perforation, stomatitis, abdominal distension, faeces hard, neutropenic colitis | rare |
-| Skin and subcutaneous tissue disorders | rash, acne photosensitivity reaction, hyperhidrosis, seborrhoea, skin lesion, rash pruritic, Stevens-Johnson syndrome | uncommon rare |
+| Skin and subcutaneous tissue disorders | rash, acne photosensitivity reaction, hyperhidrosis, seborrhoea, skin lesion, rash pruritic, Stevens-Johnson syndrome/toxic epidermal necrolysis | uncommon rare |
 |  | pruritus, urticaria | not known |
 | Musculoskeletal and connective tissue disorders | muscular weakness, muscle spasms | rare |
 | Renal and urinary disorders | dysuria | uncommon |
@@ -53,6 +50,7 @@ Frequencies are defined as: very common (≥1/10); common (≥1/100 to <1/10); u
 
 *Nausea and vomiting were efficacy parameters in the first 5 days of post-chemotherapy treatment and were reported as adverse reactions only thereafter.
 
+Description of selected adverse reactions
 The adverse reactions profiles in the Multiple-Cycle extension of HEC and MEC studies for up to 6 additional cycles of chemotherapy were generally similar to those observed in Cycle 1.
 
 In an additional active-controlled clinical study in 1,169 patients receiving aprepitant and HEC, the adverse reactions profile was generally similar to that seen in the other HEC studies with aprepitant.
@@ -64,6 +62,7 @@ Fosaprepitant
 In an active-controlled clinical study in patients receiving HEC, safety was evaluated for 1,143 patients receiving the 1-day regimen of fosaprepitant 150 mg compared to 1,169 patients receiving the 3-day regimen of aprepitant.
 The safety profile was generally similar to that seen in the aprepitant table above.
 
+Tabulated list of adverse reactions - fosaprepitant
 The following are clinically important adverse reactions reported in patients receiving fosaprepitant in clinical studies or postmarketing that have not been reported with aprepitant as described above:
 
 Frequencies are defined as: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000) and very rare (<1/10,000), not known (cannot be estimated from the available data).
@@ -73,10 +72,13 @@ Frequencies are defined as: very common (≥1/10); common (≥1/100 to <1/10); u
 | Vascular disorders | flushing, thrombophlebitis (predominantly, infusion-site thrombophlebitis) | uncommon |
 | Skin and subcutaneous tissue disorders | erythema | uncommon |
 | General disorders and administration site conditions | infusion site erythema, infusion site pain, infusion site pruritus | uncommon |
-|  | infusion site induration immediate hypersensitivity reactions including flushing, erythema, dyspnea | rare not known |
+|  | infusion site induration | rare |
+|  | immediate hypersensitivity reactions including flushing, erythema, dyspnoea | not known |
 | Investigations | blood pressure increased | uncommon |
 
 [IVEMEND 150 mg powder for solution for infusion.]
+
+The following adverse reactions were observed in a pooled analysis of the HEC and MEC studies at a greater incidence with oral aprepitant than with standard therapy or in postmarketing use:
 
 | System organ class | Adverse reaction | Frequency |
 | --- | --- | --- |
@@ -101,7 +103,7 @@ Frequencies are defined as: very common (≥1/10); common (≥1/100 to <1/10); u
 |  | eructation, nausea*, vomiting*, gastroesophageal reflux disease, abdominal pain, dry mouth, flatulence | uncommon |
 |  | duodenal ulcer perforation, stomatitis, abdominal distension, faeces hard, neutropenic colitis | rare |
 | Skin and subcutaneous tissue disorders | rash, acne | uncommon |
-|  | photosensitivity reaction, hyperhidrosis, seborrhoea, skin lesion, rash pruritic, Stevens-Johnson syndrome | rare |
+|  | photosensitivity reaction, hyperhidrosis, seborrhoea, skin lesion, rash pruritic, Stevens-Johnson syndrome/toxic epidermal necrolysis | rare |
 |  | pruritus, urticaria | not known |
 | Musculoskeletal and connective tissue disorders | muscular weakness, muscle spasms | rare |
 | Renal and urinary disorders | dysuria | uncommon |
@@ -116,12 +118,3 @@ Frequencies are defined as: very common (≥1/10); common (≥1/100 to <1/10); u
 *Nausea and vomiting were efficacy parameters in the first 5-days of post-chemotherapy treatment and were reported as adverse reactions only thereafter.
 
 In an active-controlled clinical study in patients receiving HEC, safety was evaluated for 1,143 patients receiving the 1-day regimen of IVEMEND 150 mg compared to 1,169 patients receiving the 3-day regimen of aprepitant.
-
-| System organ class | Adverse reaction | Frequency |
-| --- | --- | --- |
-| Vascular disorders | flushing, thrombophlebitis (predominantly, infusion-site thrombophlebitis) | uncommon |
-| Skin and subcutaneous tissue disorders | erythema | uncommon |
-| General disorders and administration site conditions | infusion site erythema, infusion site pain, infusion site pruritus | uncommon |
-|  | infusion site induration | rare |
-|  | immediate hypersensitivity reactions including flushing, erythema, dyspnea | not known |
-| Investigations | blood pressure increased | uncommon |

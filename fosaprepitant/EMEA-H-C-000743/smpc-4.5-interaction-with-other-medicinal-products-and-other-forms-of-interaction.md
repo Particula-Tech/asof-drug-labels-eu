@@ -29,12 +29,12 @@ Oral aprepitant, when given as a regimen of 125 mg with dexamethasone co-adminis
 Methylprednisolone: The usual intravenously administered methylprednisolone dose should be reduced approximately 25 %, and the usual oral methylprednisolone dose should be reduced approximately 50 % when co-administered with a regimen of fosaprepitant followed by aprepitant.
 Oral aprepitant, when given as a regimen of 125 mg on Day 1 and 80 mg/day on Days 2 and 3, increased the AUC of methylprednisolone, a CYP3A4 substrate, by 1.3-fold on Day 1 and by 2.5-fold on Day 3, when methylprednisolone was co-administered intravenously as 125 mg on Day 1 and orally as 40 mg on Days 2 and 3.
 
-During continuous treatment with methylprednisolone, the AUC of methylprednisolone may decrease at later time points within 2 weeks following initiation of the oral aprepitant dose, due to the inducing effect of aprepitant on CYP3A4.
+During continuous treatment with methylprednisolone, the AUC of methylprednisolone may decrease at later time points within 14 days following initiation of the oral aprepitant dose, due to the inducing effect of aprepitant on CYP3A4.
 This effect may be expected to be more pronounced for orally administered methylprednisolone.
 
 Chemotherapeutic medicinal products
 In pharmacokinetic studies, oral aprepitant, when given as a regimen of 125 mg on Day 1 and 80 mg/day on Days 2 and 3, did not influence the pharmacokinetics of docetaxel administered intravenously on Day 1 or vinorelbine administered intravenously on Day 1 or Day 8.
-Because the effect of aprepitant on the pharmacokinetics of orally administered CYP3A4 substrates is greater than the effect of aprepitant on the pharmacokinetics of intravenously administered CYP3A4 substrates, an interaction with orally administered chemotherapeutic medicinal products metabolised primarily or in part by CYP3A4 (e.g., etoposide, vinorelbine) cannot be excluded.
+Because the effect of aprepitant on the pharmacokinetics of orally administered CYP3A4 substrates is greater than the effect of aprepitant on the pharmacokinetics of intravenously administered CYP3A4 substrates, an interaction with orally administered chemotherapeutic medicinal products metabolised primarily or in part by CYP3A4 (e.g. etoposide, vinorelbine) cannot be excluded.
 Caution is advised and additional monitoring may be appropriate in patients receiving such medicinal products (see section 4.4).
 
 Immunosuppressants
@@ -66,7 +66,7 @@ Diltiazem
 In patients with mild to moderate hypertension, infusion of 100 mg fosaprepitant over 15 minutes with diltiazem 120 mg 3 times daily, resulted in a 1.4-fold increase in diltiazem AUC and a small but clinically meaningful decrease in blood pressure, but did not result in a clinically meaningful change in heart rate, or PR interval.
 
 Induction
-As a mild inducer of CYP2C9, CYP3A4 and glucuronidation, aprepitant can decrease plasma concentrations of substrates eliminated by these routes within two weeks following initiation of treatment.
+As a mild inducer of CYP2C9, CYP3A4 and glucuronidation, aprepitant can decrease plasma concentrations of substrates eliminated by these routes within 14 days following initiation of treatment.
 This effect may become apparent only after the end of a 3-day regimen of fosaprepitant followed by aprepitant.
 For CYP2C9 and CYP3A4 substrates, the induction is transient with a maximum effect reached 3-5 days after end of the oral aprepitant 3-day treatment.
 The effect is maintained for a few days, thereafter slowly declines and is clinically insignificant by two weeks after end of oral aprepitant treatment.
@@ -75,7 +75,7 @@ Data are lacking regarding effects on CYP2C8 and CYP2C19.
 Caution is advised when warfarin, acenocoumarol, tolbutamide, phenytoin or other active substances that are known to be metabolised by CYP2C9 are administered during this time period.
 
 Warfarin
-In patients on chronic warfarin therapy, the prothrombin time (INR) should be monitored closely during treatment with fosaprepitant or aprepitant and for 2 weeks following each 3-day regimen for chemotherapy induced nausea and vomiting (see section 4.4).
+In patients on chronic warfarin therapy, the prothrombin time (INR) should be monitored closely during treatment with fosaprepitant or aprepitant and for 14 days following each 3-day regimen for chemotherapy induced nausea and vomiting (see section 4.4).
 When a single 125 mg dose of oral aprepitant was administered on Day 1 and 80 mg/day on Days 2 and 3 to healthy subjects who were stabilised on chronic warfarin therapy, there was no effect of oral aprepitant on the plasma AUC of R(+) or S(-) warfarin determined on Day 3; however, there was a 34 % decrease in S(-) warfarin (a CYP2C9 substrate) trough concentration accompanied by a 14 % decrease in INR 5 days after completion of oral aprepitant.
 
 Tolbutamide
@@ -109,7 +109,7 @@ When a single 375 mg dose of oral aprepitant was administered on Day 9 of a 14-d
 [IVEMEND 150 mg powder for solution for infusion.]
 
 Interactions with other medicinal products following administration of intravenous fosaprepitant are likely to occur with active substances that interact with oral aprepitant.
-The following information was derived from studies conducted with oral aprepitant and studies conducted with intravenous fosaprepitant coadministered with dexamethasone, midazolam, or diltiazem.
+The following information was derived from studies conducted with oral aprepitant and studies conducted with intravenous fosaprepitant co-administered with dexamethasone, midazolam, or diltiazem.
 
 Fosaprepitant 150 mg, given as a single dose, is a weak inhibitor of CYP3A4, Fosaprepitant or aprepitant does not seem to interact with the P-glycoprotein transporter, as demonstrated by the lack of interaction of oral aprepitant with digoxin.
 It is anticipated that fosaprepitant would cause less or no greater induction of CYP2C9, CYP3A4 and glucuronidation than that caused by the administration of oral aprepitant.
@@ -121,15 +121,15 @@ Inhibition of CYP3A4 by fosaprepitant could result in elevated plasma concentrat
 (See section 4.3).
 Caution is advised during concomitant administration of fosaprepitant and active substances that are metabolised primarily through CYP3A4 and with a narrow therapeutic range, such as cyclosporine, tacrolimus, sirolimus, everolimus, alfentanil, diergotamine, ergotamine, fentanyl, and quinidine (see section 4.4).
 
-Dexamethasone: The oral dexamethasone dose on Days 1 and 2 should be reduced by approximately 50 % when coadministered with fosaprepitant 150 mg on Day 1 to achieve exposures of dexamethasone similar to those obtained when given without fosaprepitant 150 mg.
-Fosaprepitant 150 mg administered as a single intravenous dose on Day 1 increased the AUC0-24hr of dexamethasone, a CYP3A4 substrate, by 100 % on Day 1 86 % on Day 2 and 18 % on Day 3 when dexamethasone was coadministered as a single 8 mg oral dose on Days 1, 2, and 3.
+Dexamethasone: The oral dexamethasone dose on Days 1 and 2 should be reduced by approximately 50 % when co-administered with fosaprepitant 150 mg on Day 1 to achieve exposures of dexamethasone similar to those obtained when given without fosaprepitant 150 mg.
+Fosaprepitant 150 mg administered as a single intravenous dose on Day 1 increased the AUC0-24hr of dexamethasone, a CYP3A4 substrate, by 100 % on Day 1 86 % on Day 2 and 18 % on Day 3 when dexamethasone was co-administered as a single 8 mg oral dose on Days 1, 2, and 3.
 
 Interaction studies with fosaprepitant 150 mg and chemotherapeutic medicinal products have not been conducted; however, based on studies with oral aprepitant and docetaxel and vinorelbine, IVEMEND 150 mg is not expected to have a clinically relevant interaction with intravenously administered docetaxel and vinorelbine.
-An interaction with orally administered chemotherapeutic medicinal products metabolised primarily or in part by CYP3A4 (e.g., etoposide, vinorelbine) cannot be excluded.
+An interaction with orally administered chemotherapeutic medicinal products metabolised primarily or in part by CYP3A4 (e.g. etoposide, vinorelbine) cannot be excluded.
 
 Following a single 150 mg fosaprepitant dose, a transient moderate increase for two days possibly followed by a mild decrease in exposure of immunosuppressants metabolised by CYP3A4 (e.g. cyclosporine, tacrolimus, everolimus and sirolimus) is expected.
 Given the short duration of increased exposure, dose reduction of the immunosuppressant based on Therapeutic Dose Monitoring is not recommended on the day of and the day after administration of IVEMEND.
-Fosaprepitant 150 mg administered as a single intravenous dose on Day 1 increased the AUC0-∞ of midazolam by 77 % on Day 1 and had no effect on Day 4 when midazolam was coadministered as a single oral dose of 2 mg on Days 1 and 4.
+Fosaprepitant 150 mg administered as a single intravenous dose on Day 1 increased the AUC0-∞ of midazolam by 77 % on Day 1 and had no effect on Day 4 when midazolam was co-administered as a single oral dose of 2 mg on Days 1 and 4.
 Fosaprepitant 150 mg is a weak CYP3A4 inhibitor as a single dose on Day 1 with no evidence of inhibition or induction of CYP3A4 observed on Day 4.
 
 The potential effects of increased plasma concentrations of midazolam or other benzodiazepines metabolised via CYP3A4 (alprazolam, triazolam) should be considered when co-administering these medicinal products with IVEMEND.
@@ -142,7 +142,7 @@ It is anticipated that IVEMEND would cause less or no greater induction of CYP2C
 The 3-day oral aprepitant regimen resulted in an about 30-35 % reduction in AUC of CYP2C9 substrates and up to a 64 % decrease in ethinyl estradiol trough concentrations.
 Caution is advised when warfarin, acenocoumarol, tolbutamide, phenytoin or other active substances that are known to be metabolised by CYP2C9 are administered with IVEMEND.
 
-In patients on chronic warfarin therapy, the prothrombin time (INR) should be monitored closely during treatment with and for 2 weeks following the use of IVEMEND for the prevention of chemotherapy induced nausea and vomiting (see section 4.4).
+In patients on chronic warfarin therapy, the prothrombin time (INR) should be monitored closely during treatment with and for 14 days following the use of IVEMEND for the prevention of chemotherapy induced nausea and vomiting (see section 4.4).
 
 The efficacy of hormonal contraceptives may be reduced during and for 28 days after administration of fosaprepitant.
 Alternative or back-up methods of contraception should be used during treatment with fosaprepitant and for 2 months following the use of fosaprepitant.

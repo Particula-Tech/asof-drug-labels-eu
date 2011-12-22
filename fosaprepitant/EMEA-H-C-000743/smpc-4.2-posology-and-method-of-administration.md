@@ -67,10 +67,10 @@ Hepatic impairment
 No dose adjustment is necessary for patients with mild hepatic impairment.
 There are limited data in patients with moderate hepatic impairment and no data in patients with severe hepatic impairment.
 IVEMEND should be used with caution in these patients (see sections 4.4 and 5.2).
+
 Paediatric population
 The safety and efficacy of IVEMEND in children and adolescents below 18 years of age has not yet been established.
 No data are available.
-
 Method of administration
 IVEMEND 115 mg should be administered intravenously and should not be given by the intramuscular or subcutaneous route.
 Intravenous administration occurs preferably through a running intravenous infusion over 15 minutes (see section 6.6).
@@ -93,7 +93,8 @@ The following regimens are recommended for the prevention of nausea and vomiting
 | Ondansetron | 32 mg intravenously | none | none | none |
 
 Dexamethasone should be administered 30 minutes prior to chemotherapy treatment on Day 1 and in the morning on Days 2 to 4.
-Dexamethasone should also be administered in the evenings on Days 3 and 4.
+Dexamethasone should also be administered in the evenings on
+Days 3 and 4.
 The dose of dexamethasone accounts for active substance interactions.
 Ondansetron should be administered intravenously 30 minutes prior to chemotherapy treatment on Day 1.
 
@@ -105,8 +106,6 @@ Ondansetron should be administered intravenously 30 minutes prior to chemotherap
 
 Dexamethasone should be administered 30 minutes prior to chemotherapy treatment on Day 1.
 One 8 mg capsule of ondansetron should be administered 30 to 60 minutes prior to chemotherapy treatment and one 8 mg capsule should be administered 8 hours after first dose on Day 1.
-
-Refer to the Summary of Product Characteristics of coadministered antiemetic medicinal products.
 
 IVEMEND 150 mg should be administered intravenously and should not be given by the intramuscular or subcutaneous route.
 Intravenous administration occurs preferably through a running intravenous infusion over 20-30 minutes (see section 6.6).
