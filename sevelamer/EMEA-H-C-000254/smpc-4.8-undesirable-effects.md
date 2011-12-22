@@ -7,5 +7,4 @@ The reporting rate is classified as very common (≥1/10), common (≥1/100, <1/
 Gastrointestinal disorders
 Very common (≥1/10) : Nausea, vomiting
 Common (≥1/100 to <1/10): Diarrhoea, dyspepsia, flatulence, upper abdominal pain, constipation
-
 Post-marketing experience: During post-approval use of Renagel, cases of pruritus, rash, abdominal pain, intestinal obstruction, ileus/subileus, diverticulitis and intestinal perforation have been reported.

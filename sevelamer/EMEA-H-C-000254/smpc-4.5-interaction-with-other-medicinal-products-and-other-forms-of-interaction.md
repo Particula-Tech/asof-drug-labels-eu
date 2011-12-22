@@ -7,7 +7,6 @@ Consequently, Renagel should not be taken simultaneously with ciprofloxacin.
 
 Patients taking anti-arrhythmic medications for the control of arrhythmias and anti-seizure medications for the control of seizure disorders were excluded from clinical trials.
 Caution should be exercised when prescribing Renagel to patients also taking these medications.
-
 During post marketing experience, very rare cases of increased TSH levels have been reported in patients co-administered Renagel and levothyroxine.
 Closer monitoring of TSH levels is therefore recommended in patients receiving both medications.
 

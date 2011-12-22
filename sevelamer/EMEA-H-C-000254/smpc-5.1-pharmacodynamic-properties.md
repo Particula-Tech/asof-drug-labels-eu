@@ -8,7 +8,7 @@ It contains multiple amines separated by one carbon from the polymer backbone.
 These amines become partially protonated in the intestine and interact with phosphate molecules through ionic and hydrogen bonding.
 By binding phosphate in the gastrointestinal tract, sevelamer lowers the phosphate concentration in the serum.
 
-In clinical trials, selevamer has been shown to be effective in reducing serum phosphorus in patients receiving haemodialysis or peritoneal dialysis.
+In clinical trials, sevelamer has been shown to be effective in reducing serum phosphorus in patients receiving haemodialysis or peritoneal dialysis.
 
 Sevelamer decreases the incidence of hypercalcaemic episodes as compared to patients using calcium based phosphate binders alone, probably because the product itself does not contain calcium.
 The effects on phosphate and calcium were proven to be maintained throughout a study with one year follow-up.

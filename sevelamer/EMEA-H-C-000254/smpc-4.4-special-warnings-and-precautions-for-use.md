@@ -40,6 +40,11 @@ Patients receiving dialysis are subject to certain risks for infection specific 
 Peritonitis is a known complication in patients receiving peritoneal dialysis (PD) and in a clinical study with Renagel, a number of peritonitis cases were reported.
 Therefore, patients on PD should be closely monitored to ensure the reliable use of appropriate aseptic technique with the prompt recognition and management of any signs and symptoms associated with peritonitis.
 
+Swallowing and choking difficulties
+Uncommon reports of difficulty swallowing the Renagel tablet have been reported.
+Many of these cases involved patients with co-morbid conditions including swallowing disorders or oesophageal abnormalities.
+Caution should be exercised when Renagel is used in patients with difficulty swallowing.
+
 Anti-arrhythmic and anti-seizure medicinal products
 Caution should be exercised when prescribing Renagel to patients also taking anti-arrhythmias and anti-seizure medicinal products (see section 4.5).
 
@@ -61,3 +66,5 @@ One gram of Renagel contains approximately 180 mg (5.1mEq) chloride.
 [Renagel 800 mg film-coated tablets]
 
 - gastrointestinal motility disorders including untreated or severe gastroparesis, diverticulosis, retention of gastric contents and abnormal or irregular bowel motion
+
+Many of these cases involved patients with co-morbid conditions including swallowing disorders or oroesophageal abnormalities.

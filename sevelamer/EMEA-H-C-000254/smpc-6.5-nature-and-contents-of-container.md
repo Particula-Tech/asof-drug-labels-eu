@@ -5,7 +5,6 @@ Package sizes are:
 1 bottle of 360 tablets
 2 bottles of 360 tablets
 3 bottles of 360 tablets
-
 Not all pack sizes may be marketed.
 
 [Renagel 800 mg film-coated tablets]
