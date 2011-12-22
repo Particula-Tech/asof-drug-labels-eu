@@ -20,7 +20,7 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Infections and infestations | pneumonia*, nasopharyngitis | neutropenic sepsis*, upper respiratory tract infection, urinary tract infection, sinusitis, pharyngitis, rhinitis, herpes simplex |  |  |
 | Blood and lymphatic system disorders | febrile neutropenia, neutropenia, leukopenia, thrombocytopenia, anaemia | bone marrow failure, pancytopenia |  |  |
 | Immune system disorders |  |  | hypersensitivity reactions |  |
-| Metabolism and nutrition disorders | anorexia | hypokalemia |  |  |
+| Metabolism and nutrition disorders | anorexia | hypokalemia |  | tumour lysis syndrome |
 | Psychiatric disorders |  | confusional state, anxiety, insomnia |  |  |
 | Nervous system disorders | dizziness, headache | intracranial haemorrhage, lethargy |  |  |
 | Eye disorders |  | eye haemorrhage, conjunctival haemorrhage |  |  |
@@ -31,7 +31,7 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Skin and subcutaneous tissue disorders | petechiae, pruritus, rash, ecchymosis | purpura, alopecia, erythema, rash macular |  |  |
 | Musculoskeletal, and connective tissue disorders | arthralgia | myalgia, musculoskeletal pain |  |  |
 | Renal and urinary disorders |  | renal failure*, haematuria, elevated serum creatinine | renal tubular acidosis |  |
-| General disorders and administration site conditions | fatigue, pyrexia, chest pain, injection site erythema, injection site pain, injection site reaction (unspecified) | injection site: bruising, haematoma, induration, rash, pruritus, inflammation, discoloration, nodule and haemorrhage. malaise |  |  |
+| General disorders and administration site conditions | fatigue, pyrexia, chest pain, injection site erythema, injection site pain, injection site reaction (unspecified) | injection site: bruising, haematoma, induration, rash, pruritus, inflammation, discoloration, nodule and haemorrhage. malaise |  | injection site necrosis |
 | Investigations |  | weight decreased |  |  |
 
 *= rarely fatal cases have been reported
@@ -40,11 +40,11 @@ Haematologic adverse reactions
 The most commonly reported adverse reactions associated with azacitidine treatment were haematological including thrombocytopenia, neutropenia and leukopenia, and were usually Grade 3 or 4.
 There is a greater risk of these events occurring during the first 2 cycles, after which they occur with less frequency in patients with restoration of haematological function.
 Most haematological adverse reactions were managed by routine monitoring of complete blood counts and delaying azacitidine administration in the next cycle, prophylactic antibiotics and/or growth factor support (e.g. G-CSF) for neutropenia and transfusions for anaemia or thromobocytopenia as required.
-
 Infections
 Myelosupression may lead to neutropenia and an increased risk of infection.
 Serious infections such as neutropenic sepsis (0.8 %) and pneumonia (2.5 %) were reported in patients receiving azacitidine, some with a fatal outcome.
 Infections may be managed with the use of anti-infectives plus growth factor support (e.g. G-CSF) for neutropenia.
+
 Bleeding
 Bleeding may occur with patients receiving azacitidine.
 Serious adverse reactions such as gastrointestinal haemorrhage (0.8 %) and intracranial haemorrhage (0.5 %) have been reported.

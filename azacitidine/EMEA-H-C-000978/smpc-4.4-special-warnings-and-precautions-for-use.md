@@ -21,5 +21,9 @@ The patients should be advised to report oliguria and anuria to the health care 
 
 Patients with renal impairment should be closely monitored for toxicity since azacitidine and/or its metabolites are primarily excreted by the kidney (see section 4.2).
 
+Laboratory tests
+Liver function tests, serum creatinine and serum bicarbonate should be determined prior to initiation of therapy and prior to each treatment cycle.
+Complete blood counts should be performed prior to initiation of therapy and as needed to monitor response and toxicity, but at a minimum, prior to each treatment cycle, see also section 4.8.
+
 Cardiac and pulmonary disease
 Patients with a history of severe congestive heart failure, clinically unstable cardiac disease or pulmonary disease were excluded from the pivotal clinical study and therefore the safety and efficacy of Vidaza in these patients has not been established.

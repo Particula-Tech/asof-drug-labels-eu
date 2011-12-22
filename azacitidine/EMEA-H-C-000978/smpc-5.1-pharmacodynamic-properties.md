@@ -1,8 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antineoplastic agent, Pyrimidine analogues; ATC code: L01BC07
-
-Mechanism of action
+Pharmacotherapeutic group: Antineoplastic agent, Pyrimidine analogues; ATC code: L01BC07 Mechanism of action
 Azacitidine is believed to exert its antineoplastic effects by multiple mechanisms including cytotoxicity on abnormal haematopoietic cells in the bone marrow and hypomethylation of DNA.
 The cytotoxic effects of azacitidine may result from multiple mechanisms, including inhibition of DNA, RNA and protein synthesis, incorporation into RNA and DNA, and activation of DNA damage pathways.
 Non-proliferating cells are relatively insensitive to azacitidine.
@@ -26,7 +24,6 @@ Within the Intent to Treat population (ITT), the median age was 69 years (range 
 In the ITT analysis of 358 patients (179 azacitidine and 179 CCR), Vidaza treatment was associated with a median survival of 24.46 months versus 15.02 months for those receiving CCR treatment, a difference of 9.4 months, with a stratified log-rank p-value of 0.0001.
 The hazard ratio for the treatment effect was 0.58 (95 % CI: 0.43, 0.77).
 The two-year survival rates were 50.8 % in patients receiving azacitidine versus 26.2 % in patients receiving CCR (p < 0.0001).
-
 Log-Rank p = 0.0001
 HR = 0.58 [95% CI: 0.43-0.77]
 Deaths: AZA = 82, CCR = 113
@@ -37,6 +34,7 @@ months
 
 Time (months) from Randomization
 # at risk
+
 KEY: AZA = azacitidine; CCR = conventional care regimens; CI = confidence interval; HR = hazard ratio
 
 The survival benefits of Vidaza were consistent regardless of the CCR treatment option (BSC alone, low-dose cytarabine plus BSC or standard induction chemotherapy plus BSC) utilised in the control arm.

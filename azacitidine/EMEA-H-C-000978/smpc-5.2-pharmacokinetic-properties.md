@@ -5,6 +5,7 @@ The pharmacokinetics of azacitidine were studied following single 75 mg/m2 doses
 Absorption
 Azacitidine was rapidly absorbed after subcutaneous administration with peak plasma azacitidine concentrations of 750 ± 403 ng/ml occurring at 0.5 h (the first sampling point) after dosing.
 The absolute bioavailability of azacitidine after subcutaneous relative to intravenous administration was approximately 89 % based on area under the curve (AUC).
+
 Distribution
 Following intravenous administration, the mean volume of distribution was 76 ± 26 l, and systemic clearance was 147 ± 47 l/h.
 
@@ -19,6 +20,7 @@ Therefore, CYP enzyme induction or inhibition by azacitidine at clinically achie
 
 Excretion
 Azacitidine is cleared rapidly from plasma with a mean elimination half-life (t½) after subcutaneous administration of 41 ± 8 minutes.
+No accumulation occurs after subcutaneous administration of 75 mg/m2 azacitidine once daily for 7 days.
 Urinary excretion is the primary route of elimination of azacitidine and/or its metabolites.
 Following intravenous and subcutaneous administration of 14C-azacitidine, 85 and 50 % of the administered radioactivity was recovered in urine respectively, while < 1 % was recovered in faeces.
 

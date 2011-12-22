@@ -80,5 +80,4 @@ Doses greater than 4 ml should be injected into two separate sites.
 
 Injection sites should be rotated.
 New injections should be given at least 2.5 cm from the previous site and never into areas where the site is tender, bruised, red, or hardened.
-
 Any unused product or waste material should be disposed of in accordance with local requirements.
