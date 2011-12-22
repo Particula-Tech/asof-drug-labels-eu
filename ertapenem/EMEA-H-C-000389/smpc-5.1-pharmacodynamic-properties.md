@@ -2,21 +2,21 @@
 
 General properties
 
-Pharmacotherapeutic group: carbapenems, ATC code: J01D H03
+Pharmacotherapeutic group: Antibacterials for systemic use, carbapenems, ATC code: J01DH03
 
-Mode of action
+Mechanism of action
 Ertapenem inhibits bacterial cell wall synthesis following attachment to penicillin binding proteins (PBPs).
 In Escherichia coli, affinity is strongest to PBPs 2 and 3.
 
 Pharmacokinetic/Pharmacodynamic (PK/PD) relationship
 Similar to other beta-lactam antimicrobial agents, the time that the plasma concentration of ertapenem exceeds the MIC of the infecting organism has been shown to best correlate with efficacy in preclinical PK/PD studies.
 
-Mechanism of Resistance
+Mechanism of resistance
 For species considered susceptible to ertapenem, resistance was uncommon in surveillance studies in Europe.
 In resistant isolates, resistance to other antibacterial agents of the carbapenem class was seen in some but not all isolates.
 Ertapenem is effectively stable to hydrolysis by most classes of beta-lactamases, including penicillinases, cephalosporinases and extended spectrum beta-lactamases, but not metallo-beta-lactamases.
 Methicillin-resistant staphylococci and enterococci are resistant to ertapenem, owing to PBP target insensitivity; P. aeruginosa and other non-fermentative bacteria are generally resistant, probably owing to limited penetration and to active efflux.
-Resistance is uncommon in Enterobacteriaceae and the drug is generally active against those with extended-spectrum beta-lactamases (ESBLs).
+Resistance is uncommon in Enterobacteriaceae and ertapenem is generally active against those with extended-spectrum beta-lactamases (ESBLs).
 Resistance can however be observed when ESBLs or other potent beta-lactamases (e.g. AmpC types) are present in conjunction with reduced permeability, arising by the loss of one or more outer membrane porins, or with up-regulated efflux.
 Resistance can also arise via the acquisition of betalactamases with significant carbapenem-hydrolysing activity (e.g. IMP and VIM metallo-beta-lactamases or KPC types), though these are rare.
 
@@ -40,8 +40,7 @@ The EUCAST MIC breakpoints are as follows:
 
 The prescribers are informed that local MIC breakpoints, if available, should be consulted.
 
-Microbiological Susceptibility
-
+Microbiological susceptibility
 The prevalence of acquired resistance may vary geographically and with time for selected species and local information on resistance is desirable, particularly when treating severe infections.
 Localized clusters of infections due to carbapenem-resistant organisms have been reported in the European Union.
 The information below gives only approximate guidance on the probability as to whether the micro-organism will be susceptible to ertapenem or not.
@@ -101,8 +100,8 @@ Legionella species
 
 Information from clinical studies
 
-Efficacy in Pediatric Studies
-Ertapenem was evaluated primarily for pediatric safety and secondarily for efficacy in randomized comparative, multicenter studies in patients 3 months to 17 years of age.
+Efficacy in Paediatric Studies
+Ertapenem was evaluated primarily for paediatric safety and secondarily for efficacy in randomized comparative, multicenter studies in patients 3 months to 17 years of age.
 The proportion of patients with a favorable clinical response assessment at posttreatment visit in the clinical MITT population is shown below:
 
 | Disease Stratum† | Age Stratum | Ertapenem |  | Ceftriaxone |  |
@@ -117,6 +116,5 @@ The proportion of patients with a favorable clinical response assessment at post
 |  | 13 to 17 years | 15/16 | 93.8 | 4/6 | 66.7 |
 | Acute Pelvic Infections (API) | 13 to 17 years | 25/25 | 100.0 | 8/8 | 100.0 |
 
-† .
-This includes 9 patients in the ertapenem group (7 CAP and 2 IAI), 2 patients in the ceftriaxone group
+† This includes 9 patients in the ertapenem group (7 CAP and 2 IAI), 2 patients in the ceftriaxone group
 (2 CAP), and 1 patient with IAI in the ticarcillin/clavulanate group with secondary bacteremia at entry into the study.

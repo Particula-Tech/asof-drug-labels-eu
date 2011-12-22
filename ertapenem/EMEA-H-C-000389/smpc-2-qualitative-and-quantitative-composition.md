@@ -1,7 +1,7 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each vial contains 1.0 g ertapenem equivalent to 1.046 g ertapenem sodium.
+Each vial contains 1.0 g ertapenem.
 
-Excipients: each 1.0 g dose contains approximately 6.0 mEq of sodium (approximately 137 mg).
+Excipient with known effect: Each 1.0 g dose contains approximately 6.0 mEq of sodium (approximately 137 mg).
 
-For a full list of excipients, see section 6.1.
+For the full list of excipients, see section 6.1.

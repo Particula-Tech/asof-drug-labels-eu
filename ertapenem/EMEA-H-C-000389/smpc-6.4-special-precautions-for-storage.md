@@ -2,6 +2,4 @@
 
 Do not store above 25°C.
 
-For storage instructions after reconstitution, see section 6.3.
-
-Do not freeze solutions of INVANZ.
+For storage conditions after reconstitution of the medicinal product, see section 6.3.
