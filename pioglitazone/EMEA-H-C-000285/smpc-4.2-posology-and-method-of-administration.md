@@ -2,15 +2,18 @@
 
 Posology
 
-Pioglitazone may be initiated at 15 mg or 30 mg once daily.
+Pioglitazone treatment may be initiated at 15 mg or 30 mg once daily.
 The dose may be increased in increments up to 45 mg once daily.
+
 In combination with insulin, the current insulin dose can be continued upon initiation of pioglitazone therapy.
 If patients report hypoglycaemia, the dose of insulin should be decreased.
 
 Special population
+
 Elderly
 
 No dose adjustment is necessary for elderly patients (see section 5.2).
+Physicians should start treatment with the lowest available dose and increase the dose gradually, particularly when pioglitazone is used in combination with insulin (see section 4.4 Fluid retention and cardiac failure).
 
 Renal impairment
 

@@ -1,6 +1,6 @@
 # 4.1 Therapeutic indications
 
-Pioglitazone is indicated in the treatment of type 2 diabetes mellitus:
+Pioglitazone is indicated as second or third line treatment of type 2 diabetes mellitus as described below:
 
 as monotherapy
 
@@ -14,5 +14,8 @@ as dual oral therapy in combination with
 as triple oral therapy in combination with
 
 - metformin and a sulphonylurea, in adult patients (particularly overweight patients) with insufficient glycaemic control despite dual oral therapy.
+- Pioglitazone is also indicated for combination with insulin in type 2 diabetes mellitus adult patients with insufficient glycaemic control on insulin for whom metformin is inappropriate because of contraindications or intolerance (see section 4.4).
 
-Pioglitazone is also indicated for combination with insulin in type 2 diabetes mellitus adult patients with insufficient glycaemic control on insulin for whom metformin is inappropriate because of contraindications or intolerance (see section 4.4).
+After initiation of therapy with pioglitazone, patients should be reviewed after 3 to 6 months to assess adequacy of response to treatment (e.g. reduction in HbA1c).
+In patients who fail to show an adequate response, pioglitazone should be discontinued.
+In light of potential risks with prolonged therapy, prescribers should confirm at subsequent routine reviews that the benefit of pioglitazone is maintained (see section 4.4).

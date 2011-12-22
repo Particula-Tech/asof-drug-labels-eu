@@ -14,6 +14,7 @@ A 24-month mechanistic study in male rats demonstrated that administration of pi
 Dietary acidification significantly decreased but did not abolish the incidence of tumours.
 The presence of microcrystals exacerbated the hyperplastic response but was not considered to be the primary cause of hyperplastic changes.
 The relevance to humans of the tumourigenic findings in the male rat cannot be excluded.
+
 There was no tumorigenic response in mice of either sex.
 Hyperplasia of the urinary bladder was not seen in dogs or monkeys treated with pioglitazone for up to 12 months.
 

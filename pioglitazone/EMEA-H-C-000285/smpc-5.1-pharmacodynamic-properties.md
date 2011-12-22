@@ -32,7 +32,6 @@ In clinical trials of up to two years duration, pioglitazone reduced total plasm
 Pioglitazone did not cause statistically significant increases in LDL cholesterol levels compared with placebo, whilst reductions were observed with metformin and gliclazide.
 In a 20-week study, as well as reducing fasting triglycerides, pioglitazone reduced post prandial hypertriglyceridaemia through an effect on both absorbed and hepatically synthesised triglycerides.
 These effects were independent of pioglitazone’s effects on glycaemia and were statistically significant different to glibenclamide.
-
 In PROactive, a cardiovascular outcome study, 5238 patients with type 2 diabetes mellitus and pre-existing major macrovascular disease were randomised to pioglitazone or placebo in addition to existing antidiabetic and cardiovascular therapy, for up to 3.5 years.
 The study population had an average age of 62 years; the average duration of diabetes was 9.5 years.
 Approximately one third of patients were receiving insulin in combination with metformin and/or a sulphonylurea.

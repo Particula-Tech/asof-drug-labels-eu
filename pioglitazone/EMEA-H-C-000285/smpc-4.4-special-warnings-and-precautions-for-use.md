@@ -3,17 +3,34 @@
 Fluid retention and cardiac failure
 
 Pioglitazone can cause fluid retention, which may exacerbate or precipitate heart failure.
-When treating patients who have at least one risk factor for development of congestive heart failure (e.g. prior myocardial infarction or symptomatic coronary artery disease), physicians should start with the lowest available dose and increase the dose gradually.
-Patients should be observed for signs and symptoms of heart failure, weight gain or oedema particularly those with reduced cardiac reserve.
+When treating patients who have at least one risk factor for development of congestive heart failure (e.g. prior myocardial infarction or symptomatic coronary artery disease or the elderly), physicians should start with the lowest available dose and increase the dose gradually.
+Patients should be observed for signs and symptoms of heart failure, weight gain or oedema; particularly those with reduced cardiac reserve.
 There have been post-marketing cases of cardiac failure reported when pioglitazone was used in combination with insulin or in patients with a history of cardiac failure.
 Patients should be observed for signs and symptoms of heart failure, weight gain and oedema when pioglitazone is used in combination with insulin.
-Since insulin and pioglitazone are associated with fluid retention, concomitant administration may increase the risk of oedema.
+Since insulin and pioglitazone are both associated with fluid retention, concomitant administration may increase the risk of oedema.
 Pioglitazone should be discontinued if any deterioration in cardiac status occurs.
 
 A cardiovascular outcome study of pioglitazone has been performed in patients under 75 years with type 2 diabetes mellitus and pre-existing major macrovascular disease.
 Pioglitazone or placebo was added to existing antidiabetic and cardiovascular therapy for up to 3.5 years.
 This study showed an increase in reports of heart failure, however this did not lead to an increase in mortality in this study.
-Caution should be exercised in patients over 75 years because of the limited experience in this patient group in this study.
+
+Elderly
+
+Combination use with insulin should be considered with caution in the elderly because of increased risk of serious heart failure.
+
+In light of age- related risks (especially bladder cancer, fractures and heart failure), the balance of benefits and risks should be considered carefully both before and during treatment in the elderly.
+
+Bladder Cancer
+
+Cases of bladder cancer were reported more frequently in a meta-analysis of controlled clinical trials with pioglitazone (19 cases from 12506 patients, 0.15%) than in control groups (7 cases from 10212 patients, 0.07%) HR=2.64 (95% CI 1.11-6.31, P=0.029).
+After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were 7 cases (0.06%) on pioglitazone and 2 cases (0.02%) in control groups.
+Available epidemiological data also suggest a small increased risk of bladder cancer in diabetic patients treated with pioglitazone in particular in patients treated for the longest durations and with the highest cumulative doses.
+A possible risk after short term treatment cannot be excluded.
+
+Risk factors for bladder cancer should be assessed before initiating pioglitazone treatment (risks include age, smoking history, exposure to some occupational or chemotherapy agents e.g. cyclophosphamide or prior radiation treatment in the pelvic region).
+Any macroscopic haematuria should be investigated before starting pioglitazone therapy.
+
+Patients should be advised to promptly seek the attention of their physician if macroscopic haematuria or other symptoms such as dysuria or urinary urgency develop during treatment.
 
 Monitoring of liver function
 
@@ -28,7 +45,6 @@ If ALT levels remain > 3 X the upper limit of normal, therapy should be disconti
 If any patient develops symptoms suggesting hepatic dysfunction, which may include unexplained nausea, vomiting, abdominal pain, fatigue, anorexia and/or dark urine, liver enzymes should be checked.
 The decision whether to continue the patient on therapy with pioglitazone should be guided by clinical judgement pending laboratory evaluations.
 If jaundice is observed, the medicinal product should be discontinued.
-
 Weight gain
 
 In clinical trials with pioglitazone there was evidence of dose related weight gain, which may be due to fat accumulation and in some cases associated with fluid retention.
@@ -54,6 +70,7 @@ It is unclear whether or not there is a direct association between pioglitazone 
 Others
 
 An increased incidence in bone fractures in women was seen in a pooled analysis of adverse reactions of bone fracture from randomised, controlled, double blind clinical trials in over 8100 pioglitazone and 7400 comparator treated patients, on treatment for up to 3.5 years.
+
 Fractures were observed in 2.6% of women taking pioglitazone compared to 1.7% of women treated with a comparator.
 No increase in fracture rates was observed in men treated with pioglitazone (1.3%) versus comparator (1.5%).
 
