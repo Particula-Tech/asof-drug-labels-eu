@@ -19,6 +19,7 @@ Patients should be monitored following the injection to permit early treatment i
 Special populations
 Elderly (≥65 years old)
 No dose adjustment is required for elderly patients.
+
 Renal impairment
 OZURDEX has not been studied in patients with renal impairment however no special considerations are needed in this population.
 
@@ -37,7 +38,7 @@ Each applicator can only be used for the treatment of a single eye.
 The intravitreal injection procedure should be carried out under controlled aseptic conditions which include the use of sterile gloves, a sterile drape, and a sterile eyelid speculum (or equivalent).
 
 A broad spectrum topical antimicrobial should be given prior to and on the day of the injection procedure.
-Adequate local anaesthesia should be administered.
+Before the injection, the periocular skin, eyelid and ocular surface should be disinfected (using for example drops of povidone iodine 5% solution on the conjunctiva as it was done in the clinical trials for the approval of Ozurdex) and adequate local anaesthesia should be administered.
 Remove the foil pouch from the carton and examine for damage (see section 6.6).
 Then, in a sterile field, open the foil pouch and gently place the applicator on a sterile tray.
 Carefully remove the cap from the applicator.

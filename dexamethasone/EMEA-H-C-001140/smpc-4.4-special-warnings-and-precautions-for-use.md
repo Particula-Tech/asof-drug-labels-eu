@@ -1,6 +1,5 @@
 # 4.4 Special warnings and precautions for use
 
-Monitoring
 Any intravitreous injection can be associated with endophthalmitis, intraocular inflammation, increased intraocular pressure and retinal detachment.
 Proper aseptic injection techniques must always be used.
 In addition, patients should be monitored following the injection to permit early treatment if an infection or increased intraocular pressure occurs.
@@ -8,7 +7,10 @@ Monitoring may consist of a check for perfusion of the optic nerve head immediat
 
 Patients must be instructed to report any symptoms suggestive of endophthalmitis or any of the above mentioned events without delay (see section 4.8).
 
-Adverse reactions
+Patients in whom the posterior capsule of the lens is absent or has a tear (e.g. occurring after cataract surgery) and/or have an iris defect (e.g. due to iridectomy) with or without a history of vitrectomy are at risk of implant migration into the anterior chamber.
+Ozurdex should be used with caution in these patients and only following a careful risk benefit assessment.
+These patients should be closely monitored for any signs of implant migration.
+
 Use of corticosteroids may produce posterior subcapsular cataracts, glaucoma and may result in secondary ocular infections.
 
 After the first injection the incidence of cataract appears higher in patients with non-infectious uveitis of the posterior segment compared with BRVO/CRVO patients .
@@ -25,13 +27,13 @@ Of the patients experiencing an increase of IOP of ≥10 mmHg from baseline, the
 Therefore, regular monitoring of IOP, irrespective of baseline IOP, is required and any elevation should be managed appropriately post-injection as needed.
 Patients of less than 45 years of age with macular oedema following Retinal Vein Occlusion or inflammation of the posterior segment of the eye presenting as non-infectious uveitis are more likely to experience increases in IOP.
 
-Other warnings and precautions
 Corticosteroids should be used cautiously in patients with a history of ocular herpes simplex and not be used in active ocular herpes simplex.
 
 The safety and efficacy of OZURDEX administered to both eyes concurrently have not been studied.
 Therefore administration to both eyes concurrently is not recommended.
 
-OZURDEX has not been studied in aphakic patients Therefore OZURDEX should be used with caution in these patients.
+OZURDEX has not been studied in aphakic patients.
+Therefore OZURDEX should be used with caution in these patients.
 
 OZURDEX has not been studied in patients with macular oedema secondary to RVO with significant retinal ischemia.
 Therefore OZURDEX is not recommended.

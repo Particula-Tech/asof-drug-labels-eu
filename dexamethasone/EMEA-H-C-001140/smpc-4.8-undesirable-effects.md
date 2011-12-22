@@ -10,7 +10,6 @@ The most frequently reported adverse reactions in patients who received OZURDEX 
 The adverse reaction profile for BRVO patients was similar to that observed for CRVO patients although the overall incidence of adverse reactions was higher for the subgroup of patients with CRVO.
 
 b) The following adverse reactions, considered related to OZURDEX treatment were reported during the two Phase III clinical trials.
-
 Very Common (≥ 1/10); Common (≥1/100 to <1/10); Uncommon (≥1/1,000 to <1/100); Rare (≥1/10,000 to <1/1,000); Very Rare (<1/10,000) adverse reactions are presented according to MedDRA System organ class in Table 1.
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
@@ -57,6 +56,8 @@ Adverse reactions - Uveitis
 * Adverse reactions considered to be related to the intravitreous injection procedure rather than the dexamethasone implant
 
 Post-Marketing Experience
-The following adverse reaction has been identified from post-marketing experience with OZURDEX:
+The following adverse reactions have been identified from post-marketing experience with OZURDEX:
 
 Eye disorders Endophthalmitis (injection related) (see also section 4.4)
+
+General disorders and administration site conditions Device dislocation (migration of implant) (see also section 4.4)
