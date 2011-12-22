@@ -12,6 +12,7 @@ In the original clinical studies (Phase II/III), adverse reactions with possible
 The following adverse reactions of moderate to severe intensity with possible or probable relationship to ritonavir have been reported.
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness: very common (> 1/10); common (> 1/100 to < 1/10); uncommon
 (> 1/1000 to < 1/100); rare(> 1/10,000 to < 1/1,000): not known (cannot be estimated from the available data).
+
 Events noted as having a frequency not known were identified via post-marketing surveillance
 
 | Undesirable effects in clinical studies and post-marketing in adult patients |  |  |
@@ -20,7 +21,7 @@ Events noted as having a frequency not known were identified via post-marketing 
 |  | Uncommon | Increased WBC, increased neutrophils and increased prothrombin time |
 |  | Not known | Thrombocytopenia |
 | Immune system disorders | Common | Allergic reactions including urticaria, mild skin eruptions, bronchospasm and angioedema |
-|  | Rare | Anaphylaxis and Stevens Johnson syndrome |
+|  | Rare | Anaphylaxis |
 | Metabolic and nutritional disorders | Uncommon | Dehydration, diabetes mellitus |
 |  | Rare | Hyperglycaemia |
 |  | Not known | Hypertriglyceridaemia, hypercholesterolaemia, hyperuricaemia |
@@ -34,6 +35,8 @@ Events noted as having a frequency not known were identified via post-marketing 
 |  | Common | Dyspepsia, anorexia, local throat irritation, flatulence, dry mouth, eructation, mouth ulcer |
 | Hepatobiliary disorders | Uncommon | Hepatitis and jaundice |
 | Skin and subcutaneous tissue disorders | Common | Rash, pruritus, sweating, lipodystrophy |
+|  | Rare | Stevens Johnson syndrome |
+|  | Rare | Toxic epidermal necrolysis (TEN) |
 | Musculosketal and connective tissue disorders | Common | Increased CPK, myalgia |
 |  | Uncommon | Myositis, rhabdomyolysis |
 | Renal and urinary disorders | Not known | Acute renal failure |
@@ -44,7 +47,6 @@ Events noted as having a frequency not known were identified via post-marketing 
 |  | Uncommon | Increased glucose, decreased total calcium, increased magnesium, increased bilirubin, increased alkaline phosphatase |
 
 Hepatic transaminase elevations exceeding five times the upper limit or normal, clinical hepatitis, and jaundice have occurred in patients receiving ritonavir alone or in combination with other antiretrovirals.
-
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump).
 
 Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
@@ -61,7 +63,6 @@ The frequency of this is unknown (see section 4.4).
 [Norvir 100 mg soft capsules]
 
 (> 1/1000 to < 1/100); rare (> 1/10,000 to < 1/1,000); not known (cannot be estimated from the available data).
-
 Events noted as having frequency not known were identified via post-marketing surveillance.
 
 [Norvir 100 mg film-coated tablets]

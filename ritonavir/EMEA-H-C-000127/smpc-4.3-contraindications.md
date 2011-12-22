@@ -45,17 +45,10 @@ and ritonavir.
 | Ergot Derivatives | Dihydroergotamine, ergonovine, ergotamine, methylergonovine | Increased plasma concentrations of ergot derivatives leading to acute ergot toxicity, including vasospasm and ischaemia. |
 | GI motility agent | Cisapride | Increased plasma concentrations of cisapride. Thereby, increasing the risk of serious arrhythmias from this agent. |
 | HMG Co-A Reductase Inhibitor | Lovastatin, simvastatin | Increased plasma concentrations of lovastatin and simvastatin; thereby, increasing the risk of myopathy including rhabdomyolysis (see section 4.5). |
+| PDE5 inhibitor | Sildenafil | Contraindicated when used for the treatment of pulmonary arterial hypertension (PAH) only. Increased plasma concentrations of sildenafil. Thereby, increasing the potential for sildenafil-associated adverse events (which include hypotension and syncope). See section 4.4 and section 4.5 for coadministration of sildenafil in patients with erectile dysfunction. |
+| Sedatives/hypnotics | Clorazepate, diazepam, estazolam, flurazepam, oral midazolam and triazolam | Increased plasma concentrations of clorazepate, diazepam, estazolam, flurazepam, oral midazolam and triazolam. Thereby, increasing the risk of extreme sedation and respiratory depression from these agents. (For caution on parenterally administered midazolam, see section 4.5). |
 
-PDE5 inhibitor Sildenafil Contraindicated when used for the treatment of
-
-pulmonary arterial hypertension (PAH) only.
-Increased plasma concentrations of sildenafil.
-Thereby, increasing the potential for sildenafil-associated adverse events (which include hypotension and syncope).
-See section 4.4 and section 4.5 for coadministration of sildenafil in patients with erectile dysfunction.
-
-| Sedatives/hypnotics Clorazepate, diazepam, estazolam, flurazepam, oral midazolam and triazolam | Increased plasma concentrations of clorazepate, diazepam, estazolam, flurazepam, oral midazolam and triazolam. Thereby, increasing the risk of extreme sedation and respiratory depression from these agents. (For caution on parenterally administered midazolam, see section 4.5). |
-| --- | --- |
-| Ritonavir medicinal product level decreased |  |
+Ritonavir medicinal product level decreased
 
 Herbal Preparation St. John’s Wort Herbal preparations containing St John’s wort
 
@@ -75,8 +68,6 @@ Thereby, increasing the risk of arrhythmias or other serious adverse effects fro
 | HMG Co-A Reductase Inhibitor | Lovastatin, simvastatin | Increased plasma concentrations of lovastatin and simvastatin; thereby, increasing the risk of myopathy including rhabdomyolysis (see section 4.5). |
 | PDE5 inhibitor | Sildenafil | Contraindicated when used for the treatment of pulmonary arterial hypertension (PAH) only. Increased plasma concentrations of sildenafil. Thereby, increasing the potential for sildenafil-associated adverse events (which include hypotension and syncope). See section 4.4 and section 4.5 for coadministration of sildenafil in patients with erectile dysfunction. |
 | Sedatives/hypnotics | Clorazepate, diazepam, estazolam, flurazepam, oral midazolam and triazolam | Increased plasma concentrations of clorazepate, diazepam, estazolam, flurazepam, oral midazolam and triazolam. Thereby, increasing the risk of extreme sedation and respiratory depression from these agents. (For caution on parenterally administered midazolam, see section 4.5.) |
-
-Ritonavir medicinal product level decreased
 
 [Norvir 100 mg film-coated tablets]
 

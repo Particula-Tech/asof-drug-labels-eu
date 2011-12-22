@@ -8,7 +8,6 @@ The use of Norvir may be considered in pregnancy only when the benefits outweigh
 
 Ritonavir adversely interacts with oral contraceptives (OCs).
 Therefore, an alternative, effective and safe method of contraception should be used during treatment.
-
 It is not known whether this medicine is excreted in human milk.
 Milk excretion has not been measured in the animal studies, however a study in rats showed some effects on offspring development during lactation which are compatible with excretion of ritonavir in milk in that species.
 HIV infected women should not breast-feed their infants under any circumstances to avoid transmission of HIV.

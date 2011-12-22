@@ -25,7 +25,6 @@ Cl/F (L/h) 17.2 ± 6.6 16.1 10.8 ± 3.1 10.0 ± 3.2 8.8 ± 3.2
 
 1 Values expressed as geometric means.
 Note: ritonavir was dosed after a meal for all listed regimens.
-
 Effects of food on oral absorption:
 Ingestion of ritonavir with food results in higher ritonavir exposure than ingestion in the fasted state.
 
@@ -65,14 +64,13 @@ However, since the renal clearance of ritonavir is negligible, no changes in the
 Paediatric Patients: Ritonavir steady-state pharmacokinetic parameters were evaluated in HIV infected children above 2 years of age receiving doses ranging from 250 mg/m² twice daily to 400 mg/m² twice daily.
 Ritonavir concentrations obtained after 350 to 400 mg/m² twice daily in paediatric patients were comparable to those obtained in adults receiving 600 mg (approximately 330 mg/m²) twice daily.
 Across dose groups, ritonavir oral clearance (CL/F/m2) was approximately 1.5 to 1.7 times faster in paediatric patients above 2 years of age than in adult subjects.
-
 Ritonavir steady-state pharmacokinetic parameters were evaluated in HIV infected children less than 2 years of age receiving doses ranging from 350 to 450 mg/m² twice daily.
 Ritonavir concentrations in this study were highly variable and somewhat lower than those obtained in adults receiving 600 mg (approximately 330 mg/m²) twice daily.
 Across dose groups, ritonavir oral clearance (CL/F/m2) declined with age with median values of 9.0 L/h/m2 in children less than 3 months of age, 7.8 L/h/m2 in children between 3 and 6 months of age and 4.4 L/h/m2 in children between 6 and 24 months of age.
 
 [Norvir 100 mg soft capsules]
 
-The isopropylthiazole oxidation metabolite (M-2) is the major metabolite and has antiviral activity similar to that of parent compound However, the AUC of the M-2 metabolite was approximately 3% of the AUC of parent compound.
+(all sentences already above)
 
 [Norvir 100 mg film-coated tablets]
 

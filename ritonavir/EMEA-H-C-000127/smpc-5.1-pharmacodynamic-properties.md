@@ -8,7 +8,6 @@ Pharmacokinetic enhancement by ritonavir is based on ritonavir’s activity as a
 The degree of enhancement is related to the metabolic pathway of the co-administered protease inhibitor and the impact of the co-administered protease inhibitor on the metabolism of ritonavir.
 Maximal inhibition of metabolism of the co-administered protease inhibitor is generally achieved with ritonavir doses of 100 mg daily to 200 mg twice daily, and is dependent on the co-administered protease inhibitor.
 For additional information on the effect of ritonavir on co-administered protease inhibitor metabolism, see section 4.5 and refer to the Summary of Product Characteristics of the particular co-administered PIs.
-
 Ritonavir dosed as an antiretroviral agent
 
 Ritonavir is an orally active peptidomimetic inhibitor of the HIV-1 and HIV-2 aspartyl proteases.
@@ -48,7 +47,6 @@ Adult Use
 A controlled study completed in 1996 with ritonavir as add-on therapy in HIV-1 infected patients extensively pre-treated with nucleoside analogues and baseline CD4 cell counts ≤ 100 cells/μl showed a reduction in mortality and AIDS defining events.
 The mean average change from baseline over 16 weeks for HIV RNA levels was -0.79 log10 (maximum mean decrease: 1.29 log10) in the ritonavir group versus-0.01 log10 in the control group.
 The most frequently used nucleosides in this study were zidovudine, stavudine, didanosine and zalcitabine.
-
 In a study completed in 1996 recruiting less advanced HIV-1 infected patients (CD4 200-500 cells/μl) without previous antiretroviral therapy, ritonavir in combination with zidovudine or alone reduced viral load in plasma and increased CD4 count.
 The mean average change from baseline over 48 weeks for HIV RNA levels was -0.88 log10 in the ritonavir group versus -0.66 log10 in the ritonavir + zidovudine group versus -0.42 log10 in the zidovudine group.
 
