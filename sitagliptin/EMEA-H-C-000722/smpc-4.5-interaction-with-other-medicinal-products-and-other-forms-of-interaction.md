@@ -26,6 +26,7 @@ In vitro data suggest that sitagliptin does not inhibit nor induce CYP450 isoenz
 In clinical studies, sitagliptin did not meaningfully alter the pharmacokinetics of metformin, glyburide, simvastatin, rosiglitazone, warfarin, or oral contraceptives, providing in vivo evidence of a low propensity for causing interactions with substrates of CYP3A4, CYP2C8, CYP2C9, and organic cationic transporter (OCT).
 
 Sitagliptin had a small effect on plasma digoxin concentrations, and may be a mild inhibitor of p-glycoprotein in vivo.
+
 Digoxin: Sitagliptin had a small effect on plasma digoxin concentrations.
 Following administration of 0.25 mg digoxin concomitantly with 100 mg of Januvia daily for 10 days, the plasma AUC of digoxin was increased on average by 11 %, and the plasma Cmax on average by 18 %.
 No dose adjustment of digoxin is recommended.

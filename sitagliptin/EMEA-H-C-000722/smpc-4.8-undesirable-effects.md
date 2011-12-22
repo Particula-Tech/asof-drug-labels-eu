@@ -9,6 +9,7 @@ In an additional combination study with a PPARγ agent (rosiglitazone) and metfo
 Adverse reactions considered as drug-related (except where noted), reported in patients treated with sitagliptin occurring in excess (> 0.2 % and difference > 1 patient) of that in patients treated with placebo, are listed below (Table 1) by system organ class and frequency.
 Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare
 (≥ 1/10,000 to < 1/1,000); and very rare (< 1/10,000).
+
 Table 1.
 The frequency of adverse reactions identified from placebo-controlled clinical studies and post marketing experience
 
@@ -40,9 +41,9 @@ The frequency of adverse reactions identified from placebo-controlled clinical s
 | upper abdominal pain |  | Uncommon |  |  |  |  |  |
 | vomiting | Frequency not known ‡ | Frequency not k‡nown | Frequency not known ‡ | Frequency not known ‡ | Frequency not known ‡ | Common | Frequency not known ‡ |
 | acute pancreatitis(see section 4.4)‡ | Frequency not known |  |  |  |  |  |  |
-| fatal and non-fatal haemorrhagic and necrotizing pancreatitis‡ | Frequency not known |  |  |  |  |  |  |
 |  | Sitagliptin Monotherap y | Sitagliptin with Metformin | Sitagliptin with a Sulphonylurea | Sitagliptin with a Sulphonylurea and Metformin | Sitagliptin with a PPARγ Agent (pioglitazone) | Sitagliptin with a PPARγ Agent (rosiglitazone) and Metformin | Sitagliptin with Insulin (+/-) Metformin ) |
 | Time-point | 24-week | 24-week | 24-week | 24-week | 24-week | 18-week | 24-week |
+| fatal and non-fatal haemorrhagic and necrotizing pancreatitis‡ | Frequency not known |  |  |  |  |  |  |
 | Skin and subcutaneous tissue disorders |  |  |  |  |  |  |  |
 | angioedema‡ | Frequency not known |  |  |  |  |  |  |
 | rash‡ | Frequency not known |  |  |  |  |  |  |
@@ -70,5 +71,4 @@ The frequency of adverse reactions identified from placebo-controlled clinical s
 Across clinical studies, a small increase in white blood cell count (approximately 200 cells/microl difference in WBC vs. placebo; mean baseline WBC approximately 6,600 cells/microl) was observed due to an increase in neutrophils.
 This observation was seen in most but not all studies.
 This change in laboratory parameters is not considered to be clinically relevant.
-
 No clinically meaningful changes in vital signs or in ECG (including in QTc interval) were observed with Januvia treatment.

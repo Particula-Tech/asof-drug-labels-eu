@@ -20,22 +20,17 @@ By enhancing active incretin levels, sitagliptin increases insulin release and d
 In patients with type 2 diabetes with hyperglycaemia, these changes in insulin and glucagon levels lead to lower hemoglobin A1c (HbA1c) and lower fasting and postprandial glucose concentrations.
 The glucose-dependent mechanism of sitagliptin is distinct from the mechanism of sulphonylureas, which increase insulin secretion even when glucose levels are low and can lead to hypoglycaemia in patients with type 2 diabetes and in normal subjects.
 Sitagliptin is a potent and highly selective inhibitor of the enzyme DPP-4 and does not inhibit the closely-related enzymes DPP-8 or DPP-9 at therapeutic concentrations.
-
 In a two-day study in healthy subjects, sitagliptin alone increased active GLP-1 concentrations, whereas metformin alone increased active and total GLP-1 concentrations to similar extents.
 Co-administration of sitagliptin and metformin had an additive effect on active GLP-1 concentrations.
 Sitagliptin, but not metformin, increased active GIP concentrations.
 
 Overall, sitagliptin improved glycaemic control when used as monotherapy or in combination treatment (see Table 2).
+
 Two studies were conducted to evaluate the efficacy and safety of Januvia monotherapy.
 Treatment with sitagliptin at 100 mg once daily as monotherapy provided significant improvements in HbA1c, fasting plasma glucose (FPG), and 2-hour post-prandial glucose (2-hour PPG), compared to placebo in two studies, one of 18- and one of 24-weeks duration.
 Improvement of surrogate markers of beta cell function, including HOMA-β (Homeostasis Model Assessment-β), proinsulin to insulin ratio, and measures of beta cell responsiveness from the frequently-sampled meal tolerance test were observed.
 The observed incidence of hypoglycaemia in patients treated with Januvia was similar to placebo.
 Body weight did not increase from baseline with sitagliptin therapy in either study, compared to a small reduction in patients given placebo.
-
-In a study in patients with type 2 diabetes and chronic renal impairment (creatinine clearance
-< 50 ml/min), the safety and tolerability of reduced doses of sitagliptin were investigated and generally similar to placebo.
-In addition, the reductions in HbA1c and FPG with sitagliptin compared to placebo were generally similar to those observed in other monotherapy studies in patients with normal renal function (see section 5.2).
-The number of patients with moderate to severe renal impairment was too low to confirm safe use of sitagliptin in this type of patients.
 
 Sitagliptin 100 mg once daily provided significant improvements in glycaemic parameters compared with placebo in two 24-week studies of sitagliptin as add-on therapy, one in combination with metformin and one in combination with pioglitazone.
 Change from baseline in body weight was similar for patients treated with sitagliptin relative to placebo.
@@ -99,6 +94,21 @@ However, more patients in the sitagliptin group discontinued due to lack of effi
 Patients treated with sitagliptin exhibited a significant mean decrease from baseline in body weight compared to a significant weight gain in patients administered glipizide (-1.5 vs. +1.1 kg).
 In this study, the proinsulin to insulin ratio, a marker of efficiency of insulin synthesis and release, improved with sitagliptin and deteriorated with glipizide treatment.
 The incidence of hypoglycaemia in the sitagliptin group (4.9 %) was significantly lower than that in the glipizide group (32.0 %).
+
+A study comparing sitagliptin at 25 or 50 mg once daily to glipizide at 2.5 to 20 mg/day was conducted in patients with moderate to severe renal impairment.
+This study involved 423 patients with chronic renal impairment (estimated glomerular filtration rate < 50 ml/min).
+After 54 weeks, the mean reduction from baseline in HbA1c was -0.75 % with sitagliptin and -0.64 % with glipizide (Per-Protocol Analysis).
+In this study, the efficacy and safety profile of sitagliptin at 25 or 50 mg once daily was generally similar to that observed in other monotherapy studies in patients with normal renal function.
+The incidence of hypoglycaemia in the sitagliptin group (6.2 %) was significantly lower than that in the glipizide group (17.0 %).
+There was also a significant difference between groups with respect to change from baseline body weight (sitagliptin -0.6 kg; glipizide +1.2 kg).
+
+Another study comparing sitagliptin at 25 mg once daily to glipizide at 2.5 to 20 mg/day was conducted in 129 patients with ESRD who were on dialysis.
+After 54 weeks, the mean reduction from baseline in HbA1c was -0.72 % with sitagliptin and -0.88 % with glipizide.
+In this study, the efficacy and safety profile of sitagliptin at 25 mg once daily was generally similar to that observed in other monotherapy studies in patients with normal renal function.
+The incidence of hypoglycaemia was not significantly different between the treatment groups (sitagliptin, 6.3 %; glipizide, 10.8 %).
+
+In another study involving 91 patients with type 2 diabetes and chronic renal impairment (creatinine clearance < 50 ml/min), the safety and tolerability of treatment with sitagliptin at 25 or 50 mg once daily were generally similar to placebo.
+In addition, after 12 weeks, the mean reductions in HbA1c (sitagliptin -0.59 %; placebo -0.18 %) and FPG (sitagliptin -25.5 mg/dL; placebo -3.0 mg/dL) were generally similar to those observed in other monotherapy studies in patients with normal renal function (see section 5.2).
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with Januvia in one or more subsets of the paediatric population in type 2 diabetes mellitus (see section 4.2 for information on paediatric use).
 

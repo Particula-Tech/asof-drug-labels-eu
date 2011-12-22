@@ -4,7 +4,6 @@ Absorption
 Following oral administration of a 100-mg dose to healthy subjects, sitagliptin was rapidly absorbed, with peak plasma concentrations (median Tmax) occurring 1 to 4 hours post-dose, mean plasma AUC of sitagliptin was 8.52 μM•hr, Cmax was 950 nM.
 The absolute bioavailability of sitagliptin is approximately 87 %.
 Since co-administration of a high-fat meal with Januvia had no effect on the pharmacokinetics, Januvia may be administered with or without food.
-
 Plasma AUC of sitagliptin increased in a dose-proportional manner.
 Dose-proportionality was not established for Cmax and C24hr (Cmax increased in a greater than dose-proportional manner and C24hr increased in a less than dose-proportional manner).
 
@@ -43,12 +42,12 @@ The pharmacokinetics of sitagliptin were generally similar in healthy subjects a
 Renal impairment
 A single-dose, open-label study was conducted to evaluate the pharmacokinetics of a reduced dose of sitagliptin (50-mg) in patients with varying degrees of chronic renal impairment compared to normal healthy control subjects.
 The study included patients with renal impairment classified on the basis of creatinine clearance as mild (50 to < 80 ml/min), moderate (30 to < 50 ml/min), and severe
-(< 30 ml/min), as well as patients with end-stage renal disease (ESRD) on hemodialysis.
+(< 30 ml/min), as well as patients with end-stage renal disease (ESRD) on haemodialysis.
 
 Patients with mild renal impairment did not have a clinically meaningful increase in the plasma concentration of sitagliptin as compared to normal healthy control subjects.
-An approximately 2-fold increase in the plasma AUC of sitagliptin was observed in patients with moderate renal impairment, and an approximately 4-fold increase was observed in patients with severe renal impairment and in patients with ESRD on hemodialysis, as compared to normal healthy control subjects.
-Sitagliptin was modestly removed by hemodialysis (13.5 % over a 3- to 4-hour hemodialysis session starting 4 hours postdose).
-Januvia is not recommended for use in patients with moderate or severe renal impairment including those with ESRD since experience in these patients is too limited (see section 4.2).
+An approximately 2-fold increase in the plasma AUC of sitagliptin was observed in patients with moderate renal impairment, and an approximately 4-fold increase was observed in patients with severe renal impairment and in patients with ESRD on haemodialysis, as compared to normal healthy control subjects.
+Sitagliptin was modestly removed by haemodialysis (13.5 % over a 3- to 4-hour haemodialysis session starting 4 hours postdose).
+To achieve plasma concentrations of sitagliptin similar to those in patients with normal renal function, lower dosages are recommended in patients with moderate and severe renal impairment, as well as in ESRD patients requiring dialysis (see section 4.2).
 
 Hepatic impairment
 No dose adjustment for Januvia is necessary for patients with mild or moderate hepatic impairment (Child-Pugh score ≤ 9).
@@ -70,9 +69,6 @@ These characteristics had no clinically meaningful effect on the pharmacokinetic
 [Januvia 50 mg film-coated tablets]
 
 Since coadministration of a high-fat meal with Januvia had no effect on the pharmacokinetics, Januvia may be administered with or without food.
-
-Januvia is not recommended for use in patients with moderate or severe renal impairment including those with ESRD since experience in these patients is too limited.
-(See section 4.2.)
 
 [Januvia 100 mg film-coated tablets]
 

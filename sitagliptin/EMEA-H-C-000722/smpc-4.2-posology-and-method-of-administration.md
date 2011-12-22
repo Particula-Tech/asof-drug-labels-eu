@@ -11,10 +11,16 @@ A double dose should not be taken on the same day.
 
 Special populations
 Renal impairment
+When considering the use of sitagliptin in combination with another anti-diabetic product, its conditions for use in patients with renal impairment should be checked.
+
 For patients with mild renal impairment (creatinine clearance [CrCl] ≥ 50 ml/min), no dose adjustment for Januvia is required.
 
-Clinical study experience with Januvia in patients with moderate or severe renal impairment is limited.
-Therefore, use of Januvia is not recommended in this patient population (see section 5.2).
+For patients with moderate renal impairment (CrCl ≥30 to <50 mL/min), the dose of Januvia is 50 mg once daily.
+
+For patients with severe renal impairment (CrCl <30 mL/min) or with end-stage renal disease (ESRD) requiring haemodialysis or peritoneal dialysis, the dose of Januvia is 25 mg once daily.
+Januvia may be administered without regard to the timing of dialysis.
+
+Because there is a dosage adjustment based upon renal function, assessment of renal function is recommended prior to initiation of Januvia and periodically thereafter.
 
 Hepatic impairment
 No dose adjustment is necessary for patients with mild to moderate hepatic impairment.

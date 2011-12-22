@@ -2,7 +2,6 @@
 
 General
 Januvia should not be used in patients with type 1 diabetes or for the treatment of diabetic ketoacidosis.
-
 Pancreatitis
 In post-marketing experience there have been spontaneously reported adverse reactions of acute pancreatitis.
 Patients should be informed of the characteristic symptom of acute pancreatitis: persistent, severe abdominal pain.
@@ -15,7 +14,10 @@ When sitagliptin was added to a sulphonylurea or to insulin, the incidence of hy
 Therefore, to reduce the risk of hypoglycaemia, a lower dose of sulphonylurea or insulin may be considered (see section 4.2).
 
 Renal impairment
-As the experience is limited, patients with moderate to severe renal impairment should not be treated with Januvia (see section 5.2).
+Januvia is renally excreted.
+To achieve plasma concentrations of Januvia similar to those in patients with normal renal function, lower dosages are recommended in patients with moderate and severe renal impairment, as well as in ESRD patients requiring haemodialysis or peritoneal dialysis (see section 4.2 and 5.2).
+
+When considering the use of sitagliptin in combination with another anti-diabetic product, its conditions for use in patients with renal impairment should be checked.
 
 Hypersensitivity Reactions
 Postmarketing reports of serious hypersensitivity reactions in patients treated with Januvia have been reported.
