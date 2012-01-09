@@ -12,6 +12,7 @@ Therefore, consideration should be given to a dose reduction of Inovelon in pati
 The addition or withdrawal of these medicinal products or adjusting of the dose of these medicinal products during rufinamide therapy may require an adjustment in dosage of rufinamide.
 
 No significant changes in rufinamide concentration are observed following co-administration with lamotrigine, topiramate or benzodiazepines.
+
 Potential for rufinamide to affect other medicinal products
 
 Other antiepileptic medicinal products
@@ -21,7 +22,7 @@ Rufinamide appears not to have clinically relevant effect on carbamazepine, lamo
 Oral contraceptives
 Co-administration of rufinamide 800 mg b.i.d. and a combined oral contraceptive (ethinyloestradiol 35 μg and norethindrone 1 mg) for 14 days resulted in a mean decrease in the ethinyl estradiol AUC0-24 of 22% and in norethindrone AUC0-24 of 14%.
 Studies with other oral or implant contraceptives have not been conducted.
-Women of child-bearing potential using hormonal contraceptives are advised to use an additional safe and effective contraceptive method (see section 4.4 and 4.6).
+Women of child-bearing potential using hormonal contraceptives are advised to use an additional safe and effective contraceptive method (see sections 4.4 and 4.6).
 
 Cytochrome P450 enzymes
 Rufinamide is metabolised by hydrolysis, and is not metabolised to any notable degree by cytochrome P450 enzymes.
@@ -44,13 +45,13 @@ No data on the interaction of rufinamide with alcohol are available.
 
 [Inovelon 200 mg film-coated tablets]
 
-The mean CYP3A activity, assessed as clearance of triazolam, was increased by 55% after 11 days of treatment with rufinamide 400 mg b.i.d.
-
 It is recommended that patients treated with substances that are metabolised by the CYP3A enzyme system are to be carefully monitored for two weeks at the start of, or after the end of treatment with rufinamide, or after any marked change in the dose.
 
 [Inovelon 400 mg film-coated tablets]
 
-(all sentences already above)
+Therefore, consideration should be given to a dose reduction of Inovelon in patients <30 kg who are initiated on valproate therapy (see sections 4.2).
+
+Women of child-bearing potential using hormonal contraceptives are advised to use an additional safe and effective contraceptive method (see section 4.4 and 4.6).
 
 [Inovelon 40 mg/ml oral suspension]
 

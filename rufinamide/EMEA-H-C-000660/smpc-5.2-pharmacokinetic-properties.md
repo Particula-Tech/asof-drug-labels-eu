@@ -10,6 +10,7 @@ Distribution
 In in-vitro studies, only a small fraction of rufinamide (34%) was bound to human serum proteins with albumin accounting for approximately 80% of this binding.
 This indicates minimal risk of drug-drug interactions by displacement from binding sites during concomitant administration of other substances.
 Rufinamide was evenly distributed between erythrocytes and plasma.
+
 Biotransformation
 Rufinamide is almost exclusively eliminated by metabolism.
 The main pathway of metabolism is hydrolysis of the carboxylamide group to the pharmacologically inactive acid derivative CGP 47292.
@@ -33,7 +34,6 @@ Pharmacokinetics in special patient groups
 Sex
 Population pharmacokinetic modelling has been used to evaluate the influence of sex on the pharmacokinetics of rufinamide.
 Such evaluations indicate that sex does not affect the pharmacokinetics of rufinamide to a clinically relevant extent.
-
 Renal impairment
 The pharmacokinetics of a single 400 mg dose of rufinamide were not altered in subjects with chronic and severe renal failure compared to healthy volunteers.
 However, plasma levels were reduced by approximately 30% when haemodialysis was applied after administration of rufinamide, suggesting that this may be a useful procedure in case of overdose (see sections 4.2 and 4.9).

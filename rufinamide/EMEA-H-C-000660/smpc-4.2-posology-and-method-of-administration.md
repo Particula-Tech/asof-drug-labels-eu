@@ -27,22 +27,8 @@ According to clinical response and tolerability, the dose may be increased by 40
 
 Doses of up to 4,000 mg/day (in the 30-50 kg range) or 4,800 mg/day (in the over 50 kg) have been studied in a limited number of patients.
 
-Safety and efficacy of rufinamide in children under 4 years of age has not yet been established.
-No data are available.
-
-Elderly
-There is limited information on the use of rufinamide in the elderly.
-Since, the pharmacokinetics of rufinamide are not altered in the elderly (see section 5.2), dosage adjustment is not required in patients over 65 years of age.
-
-Patients with renal impairment
-A study in patients with severe renal impairment indicated that no dose adjustments are required for these patients (see section 5.2).
-
-Patients with hepatic impairment
-Use in patients with hepatic impairment has not been studied.
-Caution and careful dose titration is recommended when treating patients with mild to moderate hepatic impairment.
-Use in patients with severe hepatic impairment is not recommended.
-
-Discontinuation of rufinamide
+.
+Discontinuation of treatment
 When rufinamide treatment is to be discontinued, it should be withdrawn gradually.
 In clinical trials rufinamide discontinuation was achieved by reducing the dose by approximately 25% every two days.
 
@@ -50,8 +36,23 @@ In the case of one or more missed doses, individualised clinical judgement is ne
 
 Uncontrolled open-label studies suggest sustained long-term efficacy, although no controlled study has been conducted for longer than three months.
 
-Method of administration
+Paediatric population
+The safety and efficacy of rufinamide of children aged 4 years and less have not yet been established.
+No data are available.
 
+Elderly
+There is limited information on the use of rufinamide in the elderly.
+Since, the pharmacokinetics of rufinamide are not altered in the elderly (see section 5.2), dosage adjustment is not required in patients over 65 years of age.
+
+Renal impairment
+A study in patients with severe renal impairment indicated that no dose adjustments are required for these patients (see section 5.2).
+
+Hepatic impairment
+Use in patients with hepatic impairment has not been studied.
+Caution and careful dose titration is recommended when treating patients with mild to moderate hepatic impairment.
+Use in patients with severe hepatic impairment is not recommended.
+
+Method of administration
 Rufinamide is for oral use.
 It should be taken twice daily with water in the morning and in the evening, in two equally divided doses.
 As a food effect was observed, it will preferable to administer Inovelon with food (see section 5.2).
@@ -60,6 +61,8 @@ If the patient has difficulty with swallowing, tablets can be crushed and admini
 [Inovelon 200 mg film-coated tablets]
 
 Doses of up to 4000 mg/day (in the 30-50 kg range) or 4,800 mg/day (in the over 50 kg) have been studied in a limited number of patients.
+
+Discontinuation of rufinamide
 
 [Inovelon 400 mg film-coated tablets]
 
@@ -72,7 +75,6 @@ According to clinical response and tolerability, the dose may be increased by 20
 Doses of up to 3600 mg/day (90 ml/day) have been studied in a limited number of patients.
 
 (15 ml/day).
-
 Treatment should be initiated at a daily dose of 400 mg (10 ml dosing suspension given as two 5 ml doses).
 
 | Weight range | 30.0 – 50.0 kg | 50.1 – 70.0 kg | ≥70.1 kg |

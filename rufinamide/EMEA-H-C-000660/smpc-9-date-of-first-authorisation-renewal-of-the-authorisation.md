@@ -1,6 +1,7 @@
 # 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-16th January 2007
+Date of first authorisation: 16th January 2007
+Date of latest renewal:
 
 [Inovelon 200 mg film-coated tablets]
 

@@ -1,4 +1,4 @@
-# 6.6 Special precautions for disposal and other handling
+# 6.6 Special precautions for disposal
 
 No special requirements.
 
@@ -17,4 +17,4 @@ The dosing syringe should be inserted into the PIBA and the dose withdrawn from 
 The cap should be replaced after each use.
 The cap fits properly when the PIBA is in place.
 
-Disposal: No special requirements.
+No special requirements for disposal.
