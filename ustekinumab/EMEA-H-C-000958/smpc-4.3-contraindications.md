@@ -2,4 +2,4 @@
 
 Hypersensitivity to the active substance or to any of the excipients (see section 6.1).
 
-Clinically important, active infection (e.g. active tuberculosis).
+Clinically important, active infection (e.g. active tuberculosis; see section 4.4).

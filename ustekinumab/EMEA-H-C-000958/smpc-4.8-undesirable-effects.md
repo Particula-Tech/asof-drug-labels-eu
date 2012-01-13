@@ -4,8 +4,8 @@ The safety data described below reflect exposure to ustekinumab in 3 studies of 
 
 The following serious adverse reactions were reported:
 
-- Serious infections
-- Malignancies
+- Serious infections (see section 4.4)
+- Malignancies (see section 4.4)
 
 The most common adverse reactions (> 10%) in controlled and uncontrolled portions of the psoriasis clinical studies with ustekinumab were nasopharyngitis and upper respiratory tract infection.
 Most were considered to be mild and did not necessitate discontinuation of study treatment.
@@ -21,11 +21,11 @@ Table 1 Summary of adverse reactions in psoriasis clinical studies and from post
 System Organ Class Frequency: Adverse reaction
 Infections and infestations Very common: Upper respiratory tract infection, nasopharyngitis
 
-Common: Cellulitis, viral upper respiratory tract infection
+Common: Cellulitis, viral upper respiratory tract infection Uncommon: Herpes zoster
 
 Immune system disorders Common: Hypersensitivity reactions (including rash, urticaria)
 
-Rare: Serious allergic reactions (including anaphylaxis, angioedema)
+Rare: Serious hypersensitivity reactions (including anaphylaxis, angioedema)
 
 Psychiatric disorders Common: Depression
 Nervous system disorders Common: Dizziness, headache
@@ -49,18 +49,22 @@ Serious infections occurred in 0.01 per patient-year of follow-up in ustekinumab
 
 In the controlled and non-controlled portions of psoriasis clinical studies, the rate of infection was 1.24 per patient-year of follow-up in ustekinumab-treated patients, and the incidence of serious infections was 0.01 per patient-year of follow-up in ustekinumab-treated patients (24 serious infections in 2,251 patient-years of follow-up) and serious infections reported included cellulitis, diverticulitis, osteomyelitis, viral infections, gastroenteritis, pneumonia, and urinary tract infections.
 
+Among 3,117 patients treated in 4 psoriasis clinical trials of ustekinumab representing
+6,791 patient-years of exposure (1,129 patients treated for at least 3 years, and 619 patients for at least 4 years), the rates of infection or serious infection were similar to those described above.
+
 In clinical studies, patients with latent tuberculosis who were concurrently treated with isoniazid did not develop tuberculosis.
 
 Malignancies
-In the placebo-controlled period of the psoriasis clinical studies, the incidence of malignancies excluding non-melanoma skin cancer was 0.25 per 100 patient-years of follow-up for ustekinumab-treated patients (1 patient in 406 patient-years of follow-up) compared with 0.57 for placebo-treated patients (1 patient in 177 patient-years of follow-up).
+In the controlled period of the 3 placebo-controlled psoriasis clinical studies, the incidence of malignancies excluding non-melanoma skin cancer was 0.25 per 100 patient-years of follow-up for ustekinumab-treated patients (1 patient in 406 patient-years of follow-up) compared with 0.57 for placebo-treated patients (1 patient in 177 patient-years of follow-up).
 The incidence of non-melanoma skin cancer was 0.74 per 100 patient-years of follow-up for ustekinumab-treated patients (3 patients in 406 patient-years of follow-up) compared to 1.13 for placebo-treated patients (2 patients in 176 patient-years of follow-up).
 
-In the controlled and non-controlled portions of psoriasis clinical studies, the incidence of malignancies excluding non-melanoma skin cancers was 0.36 per 100 patient-years of follow-up for ustekinumab-treated patients (8 patients in 2,249 patient-years of follow-up) and malignancies reported included breast, colon, head and neck, kidney, prostate, and thyroid cancers.
-The rate of malignancies reported in ustekinumab-treated patients was comparable to the rate expected in the general population (standardised incidence ratio = 0.68 [95% confidence interval: 0.29, 1.34]).
-The incidence of non-melanoma skin cancer was 0.80 per 100 patient-years of follow-up for ustekinumab-treated patients (18 patients in 2,245 patient-years of follow-up) (see section 4.4).
+Among 3,117 patients treated in 4 psoriasis clinical trials of ustekinumab (1,129 patients treated for at least 3 years, and 619 patients for at least 4 years), malignancies excluding non-melanoma skin cancers were reported in 42 patients in 6,779 patient-years of follow-up (incidence of 0.62 per 100 patient-years of follow-up for ustekinumab-treated patients).
+This rate of malignancies reported in ustekinumab-treated patients was comparable to the rate expected in the general population (standardized incidence ratio = 1.1 [95% confidence interval: 0.76, 1.43]).
+The most frequently observed malignancies, other than non-melanoma skin cancer, were prostate, colorectal and breast cancers, and melanoma in situ.
+The incidence of non-melanoma skin cancer was 0.61 per 100 patient-years of follow-up for ustekinumab-treated patients (41 patients in 6,770 patient-years of follow-up) (see section 4.4).
 
 Hypersensitivity reactions
-In clinical studies of ustekinumab, rash and urticaria have each been observed in < 2% of patients.
+In clinical studies of ustekinumab, rash and urticaria have each been observed in < 2% of patients (see section 4.4).
 
 Immunogenicity
 Approximately 5% of ustekinumab-treated patients developed antibodies to ustekinumab, which were generally low-titer.

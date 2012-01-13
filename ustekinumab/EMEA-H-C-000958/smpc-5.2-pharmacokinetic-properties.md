@@ -22,7 +22,7 @@ Population pharmacokinetic analysis showed that there was a trend towards a high
 Dose linearity
 The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximately dose-proportional manner after a single intravenous administration at doses ranging from 0.09 mg/kg to 4.5 mg/kg or following a single subcutaneous administration at doses ranging from approximately 24 mg to 240 mg in patients with psoriasis.
 
-Single dose vs. multiple doses
+Single dose versus multiple doses
 Serum concentration-time profiles of ustekinumab were generally predictable after single or multiple subcutaneous dose administrations.
 Steady-state serum concentrations of ustekinumab were achieved by Week 28 after initial subcutaneous doses at Weeks 0 and 4 followed by doses every 12 weeks.
 The median steady-state trough concentration ranged from 0.21 μg/ml to 0.26 μg/ml (45 mg) and from 0.47 μg/ml to 0.49 μg/ml (90 mg).
@@ -33,9 +33,13 @@ In a population pharmacokinetic analysis, body weight was found to be the most s
 The median CL/F in patients with weight > 100 kg was approximately 55% higher compared to patients with weight ≤100 kg.
 The median V/F in patients with weight > 100 kg was approximately 37% higher as compared to patients with weight ≤100 kg.
 The median trough serum concentrations of ustekinumab in patients with higher weight (> 100 kg) in the 90 mg group were comparable to those in patients with lower weight (≤100 kg) in the 45 mg group.
-
 Special populations
 No pharmacokinetic data are available in patients with impaired renal or hepatic function.
 No specific studies have been conducted in elderly patients.
 
+The pharmacokinetics of ustekinumab were generally comparable between Asian and non-Asian patients with psoriasis.
+
 In the population pharmacokinetic analysis, there were no indications of an effect of tobacco or alcohol on the pharmacokinetics of ustekinumab.
+
+Regulation of CYP450 enzymes
+The effects of IL-12 or IL-23 on the regulation of CYP450 enzymes were evaluated in an in vitro study using human hepatocytes, which showed that IL-12 and/or IL-23 at levels of 10 ng/mL did not alter human CYP450 enzyme activities (CYP1A2, 2B6, 2C9, 2C19, 2D6, or 3A4; see section 4.5).

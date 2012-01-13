@@ -17,12 +17,13 @@ Table 2)
 Elderly patients (≥65 years)
 No dose adjustment is needed for elderly patients (see section 4.4).
 
-Children and adolescents (< 18 years)
-STELARA is not recommended for use in children and adolescents below age 18 due to a lack of data on safety and efficacy.
-
 Renal and hepatic impairment
 STELARA has not been studied in these patient populations.
 No dose recommendations can be made.
+
+Paediatric population
+The safety and efficacy of STELARA in children less than 18 years have not yet been established.
+No data are available.
 Method of administration
 STELARA is for subcutaneous injection.
 If possible, areas of the skin that show psoriasis should be avoided as injection sites.

@@ -37,6 +37,7 @@ During the 12-week active-controlled portion of the study, patients were randomi
 Baseline disease characteristics were generally consistent across all treatment groups in Psoriasis Studies 1 and 2 with a median baseline PASI score from 17 to 18, median baseline Body Surface Area (BSA) ≥20, and median Dermatology Life Quality Index (DLQI) range from 10 to 12.
 Approximately one third (Psoriasis Study 1) and one quarter (Psoriasis Study 2) of subjects had Psoriatic Arthritis (PsA).
 Similar disease severity was also seen in Psoriasis Study 3.
+
 The primary endpoint in these studies was the proportion of patients who achieved PASI 75 response from baseline at Week 12 (see Tables 2 and 3).
 
 Table 2 Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psoriasis Study 2 (PHOENIX 2)
@@ -70,46 +71,6 @@ b PGA = Physician Global Assessment
 
 Table 3 Summary of clinical response at Week 12 in Psoriasis Study 3 (ACCEPT)
 
-Psoriasis Study 3
-Etanercept Ustekinumab
-24 doses 2 doses (Week 0 and Week 4)
-(50 mg twice a 45 mg 90 mg
-week)
-
-| Number of patients randomised | 347 | 209 | 347 |
-| --- | --- | --- | --- |
-| PASI 50 response N (%) | 286 (82%) | 181 (87%) | 320 (92%)a |
-| PASI 75 response N (%) | 197 (57%) | 141 (67%)b | 256 (74%)a |
-| PASI 90 response N (%) | 80 (23%) | 76 (36%)a | 155 (45%)a |
-| PGA of cleared or minimal N (%) | 170 (49%) | 136 (65%)a | 245 (71%)a |
-| Number of patients ≤100 kg | 251 | 151 | 244 |
-| PASI 75 response N (%) | 154 (61%) | 109 (72%) | 189 (77%) |
-| Number of patients > 100 kg | 96 | 58 | 103 |
-| PASI 75 response N (%) | 43 (45%) | 32 (55%) | 67 (65%) |
-
-a p < 0.001 for ustekinumab 45 mg or 90 mg in comparison with etanercept.
-b p = 0.012 for ustekinumab 45 mg in comparison with etanercept.
-
-In Psoriasis Study 1 maintenance of PASI 75 was significantly superior with continuous treatment compared with treatment withdrawal (p < 0.001).
-Similar results were seen with each dose of ustekinumab.
-At Week 52, 89% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 63% of patients re-randomised to placebo (treatment withdrawal)
-(p < 0.001).
-At week 76, 84% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 19% of patients re-randomised to placebo (treatment withdrawal).
-
-In patients re-randomised to placebo, and who reinitiated their original ustekinumab treatment regimen after loss of ≥50% of PASI improvement 85% regained PASI 75 response within 12 weeks after re-initiating therapy.
-
-In Psoriasis Study 1, at Week 2 and Week 12, significantly greater improvements from baseline were demonstrated in the DLQI in each ustekinumab treatment group compared with placebo.
-The improvement was sustained through Week 28.
-Similarly, significant improvements were seen in Psoriasis Study 2 at Week 4 and 12, which were sustained through Week 24.
-In Psoriasis Study 1, improvements in nail psoriasis (Nail Psoriasis Severity Index), in the physical and mental component summary scores of the SF-36 and in the Itch Visual Analogue Scale (VAS) were also significant in each ustekinumab treatment group compared with placebo.
-In Psoriasis Study 2, the Hospital Anxiety and Depression Scale (HADS) and Work Limitations Questionnaire (WLQ) were also significantly improved in each ustekinumab treatment group compared with placebo.
-
-[STELARA 90 mg solution for injection]
-
-(all sentences already above)
-
-[STELARA 45 mg solution for injection in pre-filled syringe.]
-
 |  | Psoriasis Study 3 |  |  |
 | --- | --- | --- | --- |
 |  | Etanercept 24 doses (50 mg twice a week) | Ustekinumab 2 doses (Week 0 and Week 4) |  |
@@ -124,6 +85,24 @@ In Psoriasis Study 2, the Hospital Anxiety and Depression Scale (HADS) and Work 
 | Number of patients > 100 kg | 96 | 58 | 103 |
 | PASI 75 response N (%) | 43 (45%) | 32 (55%) | 67 (65%) |
 
-[STELARA 90 mg solution for injection in pre-filled syringe.]
+a p < 0.001 for ustekinumab 45 mg or 90 mg in comparison with etanercept.
+b p = 0.012 for ustekinumab 45 mg in comparison with etanercept.
 
-(all sentences already above)
+In Psoriasis Study 1 maintenance of PASI 75 was significantly superior with continuous treatment compared with treatment withdrawal (p < 0.001).
+Similar results were seen with each dose of ustekinumab.
+At 1 year (Week 52), 89% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 63% of patients re-randomised to placebo (treatment withdrawal) (p < 0.001).
+At 18 months (Week 76), 84% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 19% of patients re-randomised to placebo (treatment withdrawal).
+At 3 years (Week 148), 82% of patients re-randomized to maintenance treatment were PASI 75 responders.
+
+In patients re-randomised to placebo, and who reinitiated their original ustekinumab treatment regimen after loss of ≥50% of PASI improvement 85% regained PASI 75 response within 12 weeks after re-initiating therapy.
+
+In Psoriasis Study 1, at Week 2 and Week 12, significantly greater improvements from baseline were demonstrated in the DLQI in each ustekinumab treatment group compared with placebo.
+The improvement was sustained through Week 28.
+Similarly, significant improvements were seen in Psoriasis Study 2 at Week 4 and 12, which were sustained through Week 24.
+In Psoriasis Study 1, improvements in nail psoriasis (Nail Psoriasis Severity Index), in the physical and mental component summary scores of the SF-36 and in the Itch Visual Analogue Scale (VAS) were also significant in each ustekinumab treatment group compared with placebo.
+In Psoriasis Study 2, the Hospital Anxiety and Depression Scale (HADS) and Work Limitations Questionnaire (WLQ) were also significantly improved in each ustekinumab treatment group compared with placebo.
+
+Paediatric population
+The European Medicines Agency has waived the obligation to conduct studies with ustekinumab in plaque psoriasis in paediatric patients aged from birth to less than 6 years.
+
+The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in moderate to severe plaque psoriasis in paediatric patients aged from 6 years to less than 18 years.

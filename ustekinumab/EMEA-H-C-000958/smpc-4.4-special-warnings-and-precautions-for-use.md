@@ -4,7 +4,7 @@ Infections
 Ustekinumab may have the potential to increase the risk of infections and reactivate latent infections.
 In clinical studies, serious bacterial, fungal, and viral infections have been observed in patients receiving STELARA (see section 4.8).
 
-Caution should be exercised when considering the use of STELARA in patients with a chronic infection or a history of recurrent infection (see section 4.3 for clinically important, active infection).
+Caution should be exercised when considering the use of STELARA in patients with a chronic infection or a history of recurrent infection (see section 4.3).
 
 Prior to initiating treatment with STELARA, patients should be evaluated for tuberculosis infection.
 STELARA must not be given to patients with active tuberculosis (see section 4.3).
@@ -23,10 +23,9 @@ No studies have been conducted that include patients with a history of malignanc
 Thus, caution should be exercised when considering the use of STELARA in these patients.
 
 Hypersensitivity reactions
-Serious allergic reactions have been reported in the postmarketing setting, in some cases several days after treatment.
+Serious hypersensitivity reactions have been reported in the postmarketing setting, in some cases several days after treatment.
 Anaphylaxis and angioedema have occurred.
-If an anaphylactic or other serious allergic reaction occurs, administration of STELARA should be discontinued immediately and appropriate therapy instituted (see section 4.8).
-
+If an anaphylactic or other serious hypersensitivity reaction occurs, administration of STELARA should be discontinued immediately and appropriate therapy instituted (see section 4.8).
 Vaccinations
 It is recommended that live viral or live bacterial vaccines (such as Bacillus of Calmette and Guérin (BCG)) should not be given concurrently with STELARA.
 Specific studies have not been conducted in patients who had recently received live viral or live bacterial vaccines.
