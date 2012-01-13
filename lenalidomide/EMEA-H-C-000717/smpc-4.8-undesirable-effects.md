@@ -31,7 +31,7 @@ Table 1: ADRs reported in clinical studies in patients with multiple myeloma tre
 | System Organ Class / Preferred Term | All ADRs/Frequency | Grade 3−4 ADRs/Frequency |
 | --- | --- | --- |
 | Infections and Infestations | Very Common Pneumonia, Upper respiratory tract infection Common Sepsis, Bacterial, viral and fungal infections (including opportunistic infections), Sinusitis | Common Pneumonia, Bacterial, viral and fungal infections (including opportunistic infections) |
-| Neoplasms benign, malignant and unspecified | Uncommon Basal cell carcinoma |  |
+| Neoplasms benign, malignant and unspecified | Uncommon Basal cell carcinoma Squamous skin cancer^* |  |
 | Blood and Lymphatic System Disorders | Very Common Thrombocytopenia^, Neutropenias^, Anaemia, Haemorrhagic disorder^, Leucopenias Common Pancytopenia Uncommon Haemolysis, Autoimmune haemolytic anaemia, Haemolytic anaemia | Very Common Thrombocytopenia^, Neutropenias^, Leucopenias Common Febrile Neutropenia, Anaemia Uncommon Hypercoagulation, Coagulopathy |
 | Immune System Disorders | Uncommon Hypersensitivity^ |  |
 | Endocrine Disorders | Common Hypothyroidism |  |
@@ -53,7 +53,6 @@ Table 1: ADRs reported in clinical studies in patients with multiple myeloma tre
 | Injury, poisoning and procedural complications | Common Contusion^ |  |
 
 ^See section 4.8c.
-
 In addition to the above adverse drug reactions identified from the pivotal trials, the following table is derived from data gathered during post-marketing experience.
 
 Table 2: Summary of adverse drug reactions identified from post-marketing data in patients treated with lenalidomide
@@ -98,3 +97,5 @@ A possible cross-reaction between lenalidomide and thalidomide has been reported
 Severe skin reactions
 Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported.
 Patients with a history of severe rash associated with thalidomide treatment should not receive lenalidomide.
+Second Primary Malignancies
+*In clinical trials in previously treated myeloma patients with Lenalidomide/Dexamethasone compared to controls, mainly comprising of basal cell or squamous cell skin cancers.

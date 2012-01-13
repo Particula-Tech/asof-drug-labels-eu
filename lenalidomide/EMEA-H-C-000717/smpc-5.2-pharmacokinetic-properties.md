@@ -3,6 +3,7 @@
 Lenalidomide has an asymmetric carbon atom and can therefore exist as the optically active forms S(-) and R(+).
 Lenalidomide is produced as a racemic mixture.
 Lenalidomide is generally more soluble in organic solvents but exhibits the greatest solubility in 0.1N HCl buffer.
+
 Absorption
 Lenalidomide is rapidly absorbed following oral administration in healthy volunteers, under fasting conditions, with maximum plasma concentrations occurring between 0.5 and 2 hours post-dose.
 In patients, as well as in healthy volunteers, the maximum concentration (Cmax) and area-under-the-concentration time curve (AUC) increase proportionally with increases in dose.

@@ -32,33 +32,14 @@ Dose adjustments, as summarised below, are recommended to manage grade 3 or 4 ne
 
 Thrombocytopenia
 
-When platelets Recommended Course
-First fall to < 30 x 109/l Interrupt lenalidomide treatment
-Return to ≥ 30 x 109/l Resume lenalidomide at Dose Level 1
+| When platelets | Recommended Course |
+| --- | --- |
+| First fall to < 30 x 109/l Return to ≥ 30 x 109/l | Interrupt lenalidomide treatment Resume lenalidomide at Dose Level 1 |
+| For each subsequent drop below 30 x 109/l Return to ≥ 30 x 109/l Absolute Neutrophil counts (ANC) Neutropenia | Interrupt lenalidomide treatment Resume lenalidomide at next lower dose level (Dose Level 2 or 3) once daily. Do not dose below 5 mg once daily. |
+| When neutrophils | Recommended Course |
+| First fall to < 0.5 x 109/l Return to ≥ 0.5 x 109/l when neutropenia is the only observed toxicity | Interrupt lenalidomide treatment Resume lenalidomide at Starting Dose once daily |
+| Return to ≥ 0.5 x 109/l when dose-dependent haematological toxicities other than neutropenia are observed | Resume lenalidomide at Dose Level 1 once daily |
 
-For each subsequent drop below 30 x 109/l Interrupt lenalidomide treatment
-
-Return to ≥ 30 x 109/l Resume lenalidomide at next lower dose
-
-level (Dose Level 2 or 3) once daily.
-Do not dose below 5 mg once daily.
-
-- Absolute Neutrophil counts (ANC)
-
-Neutropenia
-
-When neutrophils Recommended Course
-First fall to < 0.5 x 109/l Interrupt lenalidomide treatment
-
-Return to ≥ 0.5 x 109/l when neutropenia is Resume lenalidomide at Starting Dose
-
-the only observed toxicity once daily
-
-Return to ≥ 0.5 x 109/l when dose-dependent Resume lenalidomide at Dose Level 1
-
-haematological toxicities other than once daily
-
-neutropenia are observed
 For each subsequent drop below < 0.5 x 109/l Interrupt lenalidomide treatment
 
 Return to ≥ 0.5 x 109/l Resume lenalidomide at next lower dose

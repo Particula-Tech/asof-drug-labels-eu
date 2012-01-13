@@ -4,6 +4,7 @@ An embryofoetal development study has been conducted in monkeys administered len
 Findings from this study indicate that lenalidomide produced external malformations including non-patent anus and malformations of upper and lower extremities (bent, shortened, malformed, malrotated and/or absent part of the extremities, oligo and/or polydactyly) in the offspring of female monkeys who received the drug during pregnancy.
 
 Various visceral effects (discoloration, red foci at different organs, small colorless mass above atrio-ventricular valve, small gall bladder, malformed diaphragm) were also observed in single fetuses.
+
 Lenalidomide has a potential for acute toxicity; minimum lethal doses after oral administration were
 > 2000 mg/kg/day in rodents.
 Repeated oral administration of 75, 150 and 300 mg/kg/day to rats for up to 26 weeks produced a reversible treatment-related increase in kidney pelvis mineralisation in all 3 doses, most notably in females.

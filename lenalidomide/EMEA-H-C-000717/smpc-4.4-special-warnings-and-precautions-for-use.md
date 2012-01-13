@@ -162,3 +162,14 @@ Patients with rare hereditary problems of galactose intolerance, the Lapp lactas
 
 Unused capsules
 Patients should be advised never to give this medicinal product to another person and to return any unused capsules to their pharmacist at the end of the treatment.
+
+Second Primary Malignancies
+An increase of second primary malignancies (SPM) has been observed in clinical trials in previously treated myeloma patients receiving lenalidomide/dexamethasone (3.98 per 100 patient-years) compared to controls (1.38 per 100 patient-years).
+Non invasive SPM comprise basal cell or squamous cell skin cancers.
+Most of the invasive SPMs were solid tumour malignancies.
+
+In clinical trials of newly diagnosed multiple myeloma, a 4-fold increased incidence of second primary malignancies has been observed in patients receiving Revlimid (7.0%) compared with controls (1.8%).
+Among invasive SPMs, cases of AML, MDS and solid tumours were observed in patients receiving Revlimid in combination with melphalan or immediately following high dose melphalan and ASCT; cases of B-cell malignancies (including Hodgkin's lymphoma) were observed in the clinical trials where patients received Revlimid in the post ASCT setting.
+
+The risk of occurrence of SPM must be taken into account before initiating treatment with Revlimid.
+Physicians should carefully evaluate patients before and during treatment using standard cancer screening for occurrence of second primary malignancies and institute treatment as indicated.

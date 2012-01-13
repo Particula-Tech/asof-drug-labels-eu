@@ -25,7 +25,6 @@ In total, 353 patients were evaluated in the MM-009 study; 177 in the lenalidomi
 In both studies, the baseline demographic and disease-related characteristics were comparable between the lenalidomide/dexamethasone and placebo/dexamethasone groups.
 Both patient populations presented a median age of 63 years, with a comparable male to female ratio.
 The ECOG performance status was comparable between both groups, as was the number and type of prior therapies.
-
 Pre-planned interim analyses of both studies showed that lenalidomide/dexamethasone was statistically significantly superior (p < 0.00001) to dexamethasone alone for the primary efficacy endpoint, TTP (median follow-up duration of 98.0 weeks).
 Complete response and overall response rates in the lenalidomide/dexamethasone arm were also significantly higher than the dexamethasone/placebo arm in both studies.
 Results of these analyses subsequently led to an unblinding in both studies, in order to allow patients in the placebo/dexamethasone group to receive treatment with the lenalidomide/dexamethasone combination.
@@ -79,7 +78,7 @@ Considering that the patient population differs from the authorised indication, 
 
 [Revlimid 15 mg hard capsules]
 
-The median duration of treatment was 44.0 weeks (min: 0.1, max: 254.9) for lenalidomide/dexamethasone and 23.1 weeks (min: 0.3, max: 238.1) for placebo/dexamethasone ).
+The median duration of treatment was 44.0 weeks (min: 0.1, max: 254.9) for lenalidomide/dexamethasone and 23.1 weeks (min: 0.3, max: 238.1) for placebo/dexamethasone).
 
 | Endpoint | len/dex (N=353) | placebo/dex (N=351) |  |
 | --- | --- | --- | --- |
@@ -91,8 +90,6 @@ The median duration of treatment was 44.0 weeks (min: 0.1, max: 254.9) for lenal
 | Overall Response [n, %] Complete Response [n, %] | 212 (60.1) 58 (16.4) | 75 (21.4) 11 (3.1) | 5.53 [3.97, 7.71], p < 0.001 6.08 [3.13, 11.80], p < 0.001 |
 
 [Revlimid 25 mg hard capsules]
-
-The median duration of treatment was 44.0 weeks (min: 0.1, max: 254.9) for lenalidomide/dexamethasone and 23.1 weeks (min: 0.3, max: 238.1) for placebo/dexamethasone).
 
 | Endpoint | len/dex (N=353) | placebo/dex (N=351) |  |
 | --- | --- | --- | --- |
