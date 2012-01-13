@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 SP Europe
-Rue de Stalle 73
-B-1180 Bruxelles
+Clos du Lynx 5
+B-1200 Brussels
 Belgium

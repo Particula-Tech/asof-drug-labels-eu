@@ -7,6 +7,7 @@ In preclinical studies in rats and rabbits receiving 150 mg/m2 TMZ, teratogenici
 Temodal hard capsules should not be administered to pregnant women.
 If use during pregnancy must be considered, the patient should be apprised of the potential risk to the foetus.
 Women of childbearing potential should be advised to use effective contraception to avoid pregnancy while they are receiving TMZ.
+
 Breastfeeding
 
 It is not known whether TMZ is excreted in human milk; thus, breast-feeding should be discontinued while receiving treatment with TMZ.

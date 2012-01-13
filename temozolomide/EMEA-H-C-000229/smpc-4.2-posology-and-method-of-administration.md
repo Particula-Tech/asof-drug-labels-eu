@@ -11,6 +11,7 @@ Adult patients with newly-diagnosed glioblastoma multiforme
 Temodal hard capsules is administered in combination with focal radiotherapy (concomitant phase) followed by up to 6 cycles of temozolomide (TMZ) monotherapy (monotherapy phase).
 
 Concomitant phase
+
 TMZ is administered orally at a dose of 75 mg/m2 daily for 42 days concomitant with focal radiotherapy (60 Gy administered in 30 fractions).
 No dose reductionsare recommended, but delay or discontinuation of TMZ administration should be decided weekly according to haematological and non-haematological toxicity criteria.
 TMZ administration can be continued throughout the 42 day concomitant period (up to 49 days) if all of the following conditions are met:
@@ -20,7 +21,7 @@ TMZ administration can be continued throughout the 42 day concomitant period (up
 - common toxicity criteria (CTC) non-haematological toxicity ≤ Grade 1 (except for alopecia, nausea and vomiting).
 
 During treatment a complete blood count should be obtained weekly.
-TMZ administration should be temporarily interrupted or permanently discontinued during the concomitant phase according to the haematological and non-haematological toxicity criteria as noted in Table 1.
+TMZ administration should be . temporarily interrupted or permanently discontinued during the concomitant phase according to the haematological and non-haematological toxicity criteria as noted in Table 1.
 
 | Table 1. TMZ dosing interruption or discontinuation during concomitant radiotherapy and TMZ |  |  |
 | --- | --- | --- |
@@ -29,8 +30,7 @@ TMZ administration should be temporarily interrupted or permanently discontinued
 | Thrombocyte count | ≥ 10 and < 100 x 109/l | < 10 x 109/l |
 | CTC non-haematological toxicity (except for alopecia, nausea, vomiting) | CTC Grade 2 | CTC Grade 3 or 4 |
 
-a: Treatment with concomitant TMZ can be continued when all of the following conditions are met:
-absolute neutrophil count ≥ 1.5 x 109/l; thrombocyte count ≥ 100 x 109/l; CTC non-haematological toxicity ≤ Grade 1 (except for alopecia, nausea, vomiting).
+a: Treatment with concomitant TMZ can be continued when all of the following conditions are met: absolute neutrophil count ≥ 1.5 x 109/l; thrombocyte count ≥ 100 x 109/l; CTC non-haematological toxicity ≤ Grade 1 (except for alopecia, nausea, vomiting).
 
 Monotherapy phase
 
@@ -62,7 +62,7 @@ The dose should be reduced or administration discontinued according to Table 3.
 Adult and paediatric patients 3 years of age or older with recurrent or progressive malignant glioma:
 
 A treatment cycle comprises 28 days.
-In patients previously untreated with chemotherapy, TMZ is administered orally at a dose of 200 mg/m2 once daily for the first 5 days followed by a 23 day treatment interruption (total of 28 days).
+In patients previously untreated with chemotherapy, TMZ is administered orally at a dose of 200 mg/m2 once daily for the first 5 days followed by a 23 day . treatment interruption (total of 28 days).
 In patients previously treated with chemotherapy, the initial dose is 150 mg/m2 once daily, to be increased in the second cycle to 200 mg/m2 once daily, for 5 days if there is no haematological toxicity (see section 4.4)
 
 Special populations
@@ -94,6 +94,8 @@ The capsules must be swallowed whole with a glass of water and must not be opene
 If vomiting occurs after the dose is administered, a second dose should not be administered that day.
 
 [Temodal 20 mg hard capsules]
+
+TMZ administration should be temporarily interrupted or permanently discontinued during the concomitant phase according to the . haematological and non-haematological toxicity criteria as noted in Table 1.
 
 | Table 3. TMZ dose reduction or discontinuation during monotherapy treatment |  |  |
 | --- | --- | --- |
@@ -134,7 +136,7 @@ TMZ is administered at a dose of 75 mg/m2 daily for 42 days concomitant with foc
 (60 Gy administered in 30 fractions).
 No dose reductions are recommended, but delay or discontinuation of TMZ administration should be decided weekly according to haematological and non-haematological toxicity criteria.
 
-In patients previously untreated with chemotherapy, TMZ is administered at a dose of 200 mg/m2 once daily for the first 5 days followed by a 23 day treatment interruption (total of 28 days).
+In patients previously untreated with chemotherapy, TMZ is administered at a dose of 200 mg/m2 once daily for the first 5 days followed by a 23 day treatment . interruption (total of 28 days).
 
 The pharmacokinetics of TMZ were comparable in patients with normal hepatic function and in those with mild or moderate hepatic impairment.
 No data are available on the administration of TMZ in patients with severe hepatic impairment (Child’s Class C) or with renal impairment.
@@ -142,8 +144,11 @@ Based on the pharmacokinetic properties of TMZ, it is unlikely that dose reducti
 
 Temodal 2.5 mg/ml powder for solution for infusion must be administered only by intravenous infusion.
 It must not be given by other routes of administration, such as the intrathecal, intramuscular, or subcutaneous route.
+Temodal 2.5 mg/ml powder for solution for infusion may be administered in the same IV line with 0.9% Sodium Chloride injection.
+It is incompatible with dextrose solutions.
 
 The appropriate dose of TMZ should be infused intravenously using a pump over a period of 90 minutes.
+
 As with other similar chemotherapeutic agents, caution is recommended to avoid extravasation.
 Local injection site adverse reactions, which were mostly mild and short-lived were reported in patients receiving Temodal 2.5 mg/ml powder for solution for infusion.
 Preclinical studies did not show permanent tissue damage (see sections 4.8 and 5.3).
