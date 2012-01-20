@@ -14,13 +14,13 @@ GI and tumoural bleeding may be serious and sometimes fatal.
 The most commonly reported (≥ 10%) drug-related adverse reactions in both settings were mild nausea, vomiting, diarrhoea, abdominal pain, fatigue, myalgia, muscle cramps and rash.
 Superficial oedemas were a common finding in all studies and were described primarily as periorbital or lower limb oedemas.
 However, these oedemas were rarely severe and may be managed with diuretics, other supportive measures, or by reducing the dose of Glivec.
-
 When imatinib was combined with high dose chemotherapy in Ph+ ALL patients, transient liver toxicity in the form of transaminase elevation and hyperbilirubinaemia were observed.
 
 Miscellaneous adverse reactions such as pleural effusion, ascites, pulmonary oedema and rapid weight gain with or without superficial oedema may be collectively described as “fluid retention”.
 These reactions can usually be managed by withholding Glivec temporarily and with diuretics and other appropriate supportive care measures.
 However, some of these reactions may be serious or life-threatening and several patients with blast crisis died with a complex clinical history of pleural effusion, congestive heart failure and renal failure.
 There were no special safety findings in paediatric clinical trials.
+
 Adverse reactions
 Adverse reactions reported as more than an isolated case are listed below, by system organ class and by frequency.
 Frequency categories are defined using the following convention: very common

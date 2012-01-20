@@ -6,9 +6,11 @@ Caution should be used when taking Glivec with ketoconazole or other strong CYP3
 Concomitant use of imatinib and medicinal products that induce CYP3A4 (e.g. dexamethasone, phenytoin, carbamazepine, rifampicin, phenobarbital or Hypericum perforatum, also known as St. John’s Wort) may significantly reduce exposure to Glivec, potentially increasing the risk of therapeutic failure.
 Therefore, concomitant use of strong CYP3A4 inducers and imatinib should be avoided (see section 4.5).
 
+Hypothyroidism
 Clinical cases of hypothyroidism have been reported in thyroidectomy patients undergoing levothyroxine replacement during treatment with Glivec (see section 4.5).
 Thyroid-stimulating hormone (TSH) levels should be closely monitored in such patients.
 
+Hepatotoxicity
 Metabolism of Glivec is mainly hepatic, and only 13% of excretion is through the kidneys.
 In patients with hepatic dysfunction (mild, moderate or severe), peripheral blood counts and liver enzymes should be carefully monitored (see sections 4.2, 4.8 and 5.2).
 It should be noted that GIST patients may have hepatic metastases which could lead to hepatic impairment.
@@ -17,13 +19,15 @@ Cases of liver injury, including hepatic failure and hepatic necrosis, have been
 When imatinib is combined with high dose chemotherapy regimens, an increase in serious hepatic reactions has been detected.
 Hepatic function should be carefully monitored in circumstances where imatinib is combined with chemotherapy regimens also known to be associated with hepatic dysfunction (see section 4.5 and 4.8).
 
+Fluid retention
 Occurrences of severe fluid retention (pleural effusion, oedema, pulmonary oedema, ascites, superficial oedema) have been reported in approximately 2.5% of newly diagnosed CML patients taking Glivec.
 Therefore, it is highly recommended that patients be weighed regularly.
 An unexpected rapid weight gain should be carefully investigated and if necessary appropriate supportive care and therapeutic measures should be undertaken.
 In clinical trials, there was an increased incidence of these events in elderly patients and those with a prior history of cardiac disease.
 Therefore, caution should be exercised in patients with cardiac dysfunction.
 
-Patients with cardiac disease or risk factors for cardiac failure should be monitored carefully, and any patient with signs or symptoms consistent with cardiac failure should be evaluated and treated.
+Patients with cardiac disease
+Patients with cardiac disease, risk factors for cardiac failure or history of renal failure should be monitored carefully, and any patient with signs or symptoms consistent with cardiac or renal failure should be evaluated and treated.
 
 In patients with hypereosinophilic syndrome (HES) and cardiac involvement, isolated cases of cardiogenic shock/left ventricular dysfunction have been associated with the initiation of imatinib therapy.
 The condition was reported to be reversible with the administration of systemic steroids, circulatory support measures and temporarily withholding imatinib.
@@ -32,10 +36,12 @@ Myelodysplastic/myeloproliferative diseases with PDGFR gene re-arrangements coul
 Evaluation by a cardiology specialist, performance of an echocardiogram and determination of serum troponin should therefore be considered in patients with HES/CEL, and in patients with MDS/MPD associated with high eosinophil levels before imatinib is administered.
 If either is abnormal, follow-up with a cardiology specialist and the prophylactic use of systemic steroids (1–2 mg/kg) for one to two weeks concomitantly with imatinib should be considered at the initiation of therapy.
 
+Gastrointestinal haemorrhage
 In the study in patients with unresectable and/or metastatic GIST, both gastrointestinal and intra-tumoural haemorrhages were reported (see section 4.8).
 Based on the available data, no predisposing factors (e.g. tumour size, tumour location, coagulation disorders) have been identified that place patients with GIST at a higher risk of either type of haemorrhage.
 Since increased vascularity and propensity for bleeding is a part of the nature and clinical course of GIST, standard practices and procedures for the monitoring and management of haemorrhage in all patients should be applied.
 
+Tumor lysis syndrome
 Due to the possible occurrence of tumour lysis syndrome (TLS), correction of clinically significant dehydration and treatment of high uric acid levels are recommended prior to initiation of Glivec (see section 4.8).
 
 Laboratory tests
@@ -51,7 +57,7 @@ Patients with renal impairment should be given the minimum starting dose.
 Patients with severe renal impairment should be treated with caution.
 The dose can be reduced if not tolerated (see section 4.2 and 5.2).
 
-Children and adolescents
+Paediatric population
 There have been case reports of growth retardation occurring in children and pre-adolescents receiving imatinib.
 The long-term effects of prolonged treatment with imatinib on growth in children are unknown.
 Therefore, close monitoring of growth in children under imatinib treatment is recommended (see section 4.8).

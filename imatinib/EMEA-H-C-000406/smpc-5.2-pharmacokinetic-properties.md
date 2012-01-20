@@ -13,7 +13,7 @@ The effect of prior gastrointestinal surgery on drug absorption has not been inv
 Distribution
 At clinically relevant concentrations of imatinib, binding to plasma proteins was approximately 95% on the basis of in vitro experiments, mostly to albumin and alpha-acid-glycoprotein, with little binding to lipoprotein.
 
-Metabolism
+Biotransformation
 The main circulating metabolite in humans is the N-demethylated piperazine derivative, which shows similar in vitro potency to the parent.
 The plasma AUC for this metabolite was found to be only 16% of the AUC for imatinib.
 The plasma protein binding of the N-demethylated metabolite is similar to that of the parent compound.

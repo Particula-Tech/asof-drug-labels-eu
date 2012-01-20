@@ -2,7 +2,7 @@
 
 Each capsule contains 50 mg imatinib (as mesilate).
 
-For a full list of excipients, see section 6.1.
+For the full list of excipients, see section 6.1.
 
 [Glivec 100 mg hard capsules]
 
