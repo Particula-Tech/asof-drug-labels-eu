@@ -36,7 +36,6 @@ Renal Insufficiency: Varenicline pharmacokinetics were unchanged in subjects wit
 In patients with moderate renal impairment (estimated creatinine clearance ≥ 30 ml/min and ≤ 50 ml/min), varenicline exposure increased 1.5-fold compared with subjects with normal renal function (estimated creatinine clearance > 80 ml/min).
 In subjects with severe renal impairment (estimated creatinine clearance < 30 ml/min), varenicline exposure was increased 2.1-fold.
 In subjects with end-stage-renal disease (ESRD), varenicline was efficiently removed by haemodialysis (see section 4.2).
-
 Elderly: The pharmacokinetics of varenicline in elderly patients with normal renal function (aged 65-75 years) is similar to that of younger adult subjects (see section 4.2).
 For elderly patients with reduced renal function please refer to section 4.2.
 

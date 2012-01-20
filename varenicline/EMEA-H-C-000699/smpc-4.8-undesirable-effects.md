@@ -50,11 +50,12 @@ hypoaesthesia, hypogeusia
 Rare Cerebrovascular accident
 
 Eye disorders
+System Organ Adverse Drug Reactions
+Class
 
 Uncommon Scotoma, scleral discolouration, eye pain, mydriasis, photophobia,
 
-System Organ Adverse Drug Reactions
-Class myopia, lacrimation increased
+myopia, lacrimation increased
 Ear and labyrinth disorders
 
 Uncommon Tinnitus
@@ -116,11 +117,3 @@ Uncommon Liver function test abnormal, platelet count decreased, semen abnormal,
 
 C-reactive protein increased, blood calcium decreased, weight increased
 * frequencies are estimated from a post-marketing, observational cohort study
-
-[CHAMPIX 1 mg film-coated tablets]
-
-(all sentences already above)
-
-[CHAMPIX 0.5 mg film-coated tablets (SmPC 3)]
-
-myopia, lacrimation increased

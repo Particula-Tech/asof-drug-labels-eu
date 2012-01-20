@@ -20,6 +20,7 @@ Patients taking CHAMPIX should be instructed to notify their doctor of new or wo
 
 History of psychiatric illness
 The safety and efficacy of Champix in patients with serious psychiatric illness such as schizophrenia, bipolar disorder and major depressive disorder has not been established.
+Limited data are available from a single smoking cessation study in patients with stable schizophrenia or schizoaffective disorder (See section 5.1).
 Care should be taken with patients with a history of psychiatric illness and patients should be advised accordingly.
 
 Epilepsy

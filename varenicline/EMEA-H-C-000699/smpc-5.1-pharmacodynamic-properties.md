@@ -32,8 +32,8 @@ The 4W-CQR (weeks 9 through 12) and CA rate (weeks 9 through 52) from studies 1 
 |  | 4W CQR | CA Wk 9-52 | 4W CQR | CA Wk 9-52 |
 | CHAMPIX | 44.4% | 22.1% | 44.0% | 23.0% |
 | Bupropion | 29.5% | 16.4% | 30.0% | 15.0% |
-|  | 4W CQR | CA Wk 9-52 | 4W CQR | CA Wk 9-52 |
 | Placebo | 17.7% | 8.4% | 17.7% | 10.3% |
+|  | 4W CQR | CA Wk 9-52 | 4W CQR | CA Wk 9-52 |
 | Odds ratio CHAMPIX vs placebo | 3.91 p<0.0001 | 3.13 p<0.0001 | 3.85 p<0.0001 | 2.66 p<0.0001 |
 | Odds ratio CHAMPIX vs bupropion | 1.96 p<0.0001 | 1.45 p=0.0640 | 1.89 p<0.0001 | 1.72 p=0.0062 |
 
@@ -80,7 +80,7 @@ The 4 week CQR for varenicline and placebo was 47.3% and 14.3%, respectively and
 
 Deaths and serious cardiovascular events were adjudicated by a blinded, committee.
 The following adjudicated events occurred with a frequency ≥1% in either treatment group during treatment (or in the 30-day period after treatment): nonfatal myocardial infarction (1.1% vs. 0.3% for CHAMPIX and placebo, respectively), and hospitalisation for angina pectoris (0.6% vs. 1.1%).
-During non-treatment follow up to 52 weeks, the adjudicated events included need for coronary revascularisation (2.0% vs. 0.6%), hospitalisation for angina pectoris (1.7% vs. 1.1%), and new diagnosis of peripheral vascular disease (PVD) or admission for a PVD procedure (1.1% vs. 0.6%).
+During non-treatment follow up to 52 weeks, the adjudicated events included need for coronary revascularisation (2.0% vs. 0.6%), hospitalisation for angina pectoris (1.7% vs. 1.1%), and new diagnosis of peripheral vascular disease (PVD) or admission for a PVD procedure (1.4% vs. 0.6%).
 Some of the patients requiring coronary revascularisation underwent the procedure as part of management of nonfatal MI and hospitalisation for angina.
 Cardiovascular death occurred in 0.3% of patients in the CHAMPIX arm and 0.6% of patients in the placebo arm over the course of the 52-week study.
 
@@ -97,17 +97,19 @@ The results for the 4W CQR (weeks 9 through 12) and CA rate (weeks 9 through 52)
 | Placebo, (n = 251) | 8.8% | 5.6% |
 | Odds ratio (CHAMPIX vs Placebo) | 8.40 p<0.0001 | 4.04 p<0.0001 |
 
-[CHAMPIX 1 mg film-coated tablets]
+Study in Subjects with Stable Schizophrenia or Schizoaffective Disorder:
+Varenicline safety and tolerability was assessed in a double-blind study of 128 smokers with stable schizophrenia or schizoaffective disorder, on antipsychotic medication, randomized 2:1 to varenicline (1 mg twice daily) or placebo for 12 weeks with 12-week non-drug follow-up.
+The most common adverse events in subjects taking varenicline were nausea (23.8% vs. 14.0% on placebo), headache (10.7% vs. 18.6% on placebo) and vomiting (10.7% vs. 9.3% on placebo).
+Among reported neuropsychiatric adverse events, insomnia was the only event reported in either treatment group in ≥ 5% of subjects at a rate higher in the varenicline group than in placebo (9.5% vs. 4.7%).
 
-|  | Study 1 (n=1022) |  | Study 2 (n=1023) |  |
-| --- | --- | --- | --- | --- |
-|  | 4W CQR | CA Wk 9-52 | 4W CQR | CA Wk 9-52 |
-| CHAMPIX | 44.4% | 22.1% | 44.0% | 23.0% |
-| Bupropion | 29.5% | 16.4% | 30.0% | 15.0% |
-| Placebo | 17.7% | 8.4% | 17.7% | 10.3% |
-|  | 4W CQR | CA Wk 9-52 | 4W CQR | CA Wk 9-52 |
-| Odds ratio CHAMPIX vs placebo | 3.91 p<0.0001 | 3.13 p<0.0001 | 3.85 p<0.0001 | 2.66 p<0.0001 |
-| Odds ratio CHAMPIX vs bupropion | 1.96 p<0.0001 | 1.45 p=0.0640 | 1.89 p<0.0001 | 1.72 p=0.0062 |
+Overall, there was no worsening of schizophrenia in either treatment group as measured by psychiatric scales and there were no overall changes in extra-pyramidal signs.
+In the varenicline group compared to placebo, a higher proportion of subjects reported suicidal ideation or behaviour prior to enrolment (lifetime history) and after the end of active treatment period (on Days 33 to 85 after the last dose of drugs).
+During the active treatment period, the incidence of suicide-related events was similar between the varenicline-treated and the placebo-treated subjects (11 vs. 9.3 %, respectively).
+The percentage of subjects with suicide-related events in the active treatment phase compared to post-treatment phase was unchanged in the varenicline group; in the placebo group, this percentage was lower in the post-treatment phase.
+Although there were no completed suicides, there was one suicidal attempt in a varenicline-treated subject whose lifetime history included several similar attempts.
+The limited data available from this single smoking cessation study are not sufficient to allow for definitive conclusions to be drawn about the safety in patients with schizophrenia or schizoaffective disorder.
+
+[CHAMPIX 1 mg film-coated tablets]
 
 The 4 week (week 9-12) CQR for varenicline and placebo was 53.9% and 19.4%, respectively (difference=34.5, 95% CI: 27.0% – 42.0%) and the CA week 9-24 was 35.2% (varenicline) vs 12.7% (placebo) (difference=22.5%, 95% CI: 15.8% - 29.1%).
 
