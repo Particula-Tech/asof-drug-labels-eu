@@ -7,7 +7,7 @@ The potential risk for humans is unknown.
 SPRYCEL should not be used during pregnancy unless clearly necessary.
 If it is used during pregnancy, the patient must be informed of the potential risk to the foetus.
 
-Breastfeeding
+Breast-feeding
 There is insufficient/limited information on the excretion of dasatinib in human or animal breast milk.
 Physico-chemical and available pharmacodynamic/toxicological data on dasatinib point to excretion in breast milk and a risk to the suckling child cannot be excluded.
 Breast-feeding should be stopped during treatment with SPRYCEL.

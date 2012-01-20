@@ -6,6 +6,7 @@ The data described below reflect exposure to SPRYCEL in 2,440 patients in clinic
 Ph+ ALL with a minimum of 24 months follow-up (starting dose 100 mg once daily, 140 mg once daily, 50 mg twice daily, or 70 mg twice daily).
 The median duration of therapy in this patient population was 15 months (range 0.03 - 36 months).
 Of the 2,440 patients treated, 23% were ≥ 65 years of age, while 5% were ≥ 75 years of age.
+
 In the Phase III study in patients with newly diagnosed chronic phase CML the median duration of therapy was 14 months (range 0.03-24 months) for SPRYCEL and 14 months (range 0.3-26 months) for imatinib; the median average daily dose was 99 mg and 400 mg, respectively.
 
 The majority of SPRYCEL-treated patients experienced adverse reactions at some time.
@@ -132,7 +133,7 @@ d Includes drug eruption, erythema, erythema multiforme, erythrosis, exfoliative
 
 e Includes auricular swelling, conjunctival oedema, eye oedema, eye swelling, eyelid oedema, face oedema, genital swelling, gravitational oedema, lip oedema, localised oedema, macular oedema, oedema genital, oedema mouth, oedema peripheral, orbital oedema, penile oedema, periorbital oedema, pitting oedema, scrotal oedema, swelling face and tongue oedema.
 
-* For additional details, see section c.
+* For additional details, see section "Description of selected adverse reactions"
 
 Description of selected adverse reactions
 

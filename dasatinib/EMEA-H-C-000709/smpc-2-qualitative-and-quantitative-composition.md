@@ -2,9 +2,9 @@
 
 Each film-coated tablet contains 20 mg dasatinib (as monohydrate).
 
-Excipients
+Excipients with known effect
 Each tablet contains 27 mg of lactose monohydrate.
-For a full list of excipients, see section 6.1.
+For the full list of excipients, see section 6.1.
 
 [SPRYCEL 50 mg film-coated tablets]
 
