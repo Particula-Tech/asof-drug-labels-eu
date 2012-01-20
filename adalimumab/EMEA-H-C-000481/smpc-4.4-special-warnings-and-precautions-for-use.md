@@ -9,6 +9,7 @@ Because the elimination of adalimumab may take up to four months, monitoring sho
 
 Treatment with Humira should not be initiated in patients with active infections including chronic or localized infections until infections are controlled.
 In patients who have been exposed to tuberculosis and patients who have travelled in areas of high risk of tuberculosis or endemic mycoses, such as histoplasmosis, coccidioidomycosis, or blastomycosis, the risk and benefits of treatment with Humira should be considered prior to initiating therapy (see Other opportunistic infections).
+
 Patients who develop a new infection while undergoing treatment with Humira, should be monitored closely and undergo a complete diagnostic evaluation.
 Administration of Humira should be discontinued if a patient develops a new serious infection or sepsis, and appropriate antimicrobial or antifungal therapy should be initiated until the infection is controlled.
 Physicians should exercise caution when considering the use of Humira in patients with a history of recurring infection or with underlying conditions which may predispose patients to infections, including the use of concomitant immunosuppressive medications.
@@ -46,19 +47,21 @@ Some patients who have previously received treatment for latent or active tuberc
 Patients should be instructed to seek medical advice if signs/symptoms (e.g., persistent cough, wasting/weight loss, low grade fever) suggestive of a tuberculosis infection occur during or after therapy with Humira.
 
 Other opportunistic infections:
+
 Opportunistic infections, including invasive fungal infections have been observed in patients receiving Humira.
 These infections have not consistently been recognised in patients taking TNF-blockers and this resulted in delays in appropriate treatment, sometimes resulting in fatal outcomes.
-
 For patients who develop the signs and symptoms such as fever, malaise, weight loss, sweats, cough, dyspnea, and/or pulmonary infiltrates or other serious systemic illness with or without concomitant shock an invasive fungal infection should be suspected and administration of Humira should be promptly discontinued.
 Diagnosis and administration of empiric antifungal therapy in these patients should be made in consultation with a physician with expertise in the care of patients with invasive fungal infections.
 
 Hepatitis B reactivation
 
-Reactivation of hepatitis B has occurred in patients who are chronic carriers of this virus when receiving a TNF-antagonist including Humira.
+Reactivation of hepatitis B has occurred in patients receiving a TNF-antagonist including Humira, who are chronic carriers of this virus (i.e., surface antigen positive).
 Some cases have had a fatal outcome.
-Patients at risk for HBV infection should be evaluated for prior evidence of HBV infection before initiating Humira therapy.
+Patients should be tested for HBV infection before initiating treatment with Humira.
+For patients who test positive for hepatitis B infection, consultation with a physician with expertise in the treatment of hepatitis B is recommended.
+
 Carriers of HBV who require treatment with Humira should be closely monitored for signs and symptoms of active HBV infection throughout therapy and for several months following termination of therapy.
-Adequate data from the treatment of patients who are carriers of HBV with anti-viral therapy in conjunction with TNF-antagonist therapy to prevent HBV reactivation are not available.
+Adequate data from treating patients who are carriers of HBV with anti-viral therapy in conjunction with TNF-antagonist therapy to prevent HBV reactivation are not available.
 In patients who develop HBV reactivation, Humira should be stopped and effective anti-viral therapy with appropriate supportive treatment should be initiated.
 
 Neurological events
@@ -79,6 +82,7 @@ This may cause severe allergic reactions in patients sensitive to latex.
 Immunosuppression
 
 In a study of 64 patients with rheumatoid arthritis that were treated with Humira, there was no evidence of depression of delayed-type hypersensitivity, depression of immunoglobulin levels, or change in enumeration of effector T-, B, - NK-cells, monocyte/macrophages, and neutrophils.
+
 Malignancies and lymphoproliferative disorders
 
 In the controlled portions of clinical trials of TNF-antagonists, more cases of malignancies including lymphoma have been observed among patients receiving a TNF-antagonist compared with control patients.
@@ -94,6 +98,7 @@ A risk for the development of malignancies in children and adolescents treated w
 Rare postmarketing cases of hepatosplenic T-cell lymphoma have been identified in patients treated with adalimumab.
 This rare type of T-cell lymphoma has a very aggressive disease course and is usually fatal.
 Some of these hepatosplenic T-cell lymphomas with Humira have occurred in young adult patients on concomitant treatment with azathioprine or 6-mercaptopurine used for Crohn’s disease.
+The potential risk with the combination of azathioprine or 6-mercaptopurine and Humira should be carefully considered.
 A risk for the development of hepatosplenic T-cell lymphoma in patients treated with Humira cannot be excluded (see section 4.8).
 
 No studies have been conducted that include patients with a history of malignancy or in whom treatment with Humira is continued following development of malignancy.
@@ -116,12 +121,12 @@ Vaccinations
 
 Similar antibody responses to the standard 23-valent pneumococcal vaccine and the influenza trivalent virus vaccination were observed in a study in 226 adult subjects with rheumatoid arthritis who were treated with adalimumab or placebo.
 No data are available on the secondary transmission of infection by live vaccines in patients receiving Humira.
+
 It is recommended that polyarticular juvenile idiopathic arthritis patients, if possible, be brought up to date with all immunisations in agreement with current immunisation guidelines prior to initiating Humira therapy.
 
 Patients on Humira may receive concurrent vaccinations, except for live vaccines.
 
 Congestive heart failure
-
 In a clinical trial with another TNF-antagonist worsening congestive heart failure and increased mortality due to congestive heart failure have been observed.
 Cases of worsening congestive heart failure have also been reported in patients receiving Humira.
 Humira should be used with caution in patients with mild heart failure (NYHA class I/II).

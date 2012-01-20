@@ -7,8 +7,8 @@ The data in Table 2 is based on the pivotal controlled Studies involving 4,419 p
 The proportion of patients who discontinued treatment due to adverse events during the double-blind, controlled portion of pivotal studies was 4.5% for patients taking Humira and 4.5% for control treated patients.
 
 Summary of safety profile
-
 The most commonly reported adverse reactions are infections (such as nasopharyngitis, upper respiratory tract infection and sinusitis), injection site reactions (erythema, itching, haemorrhage, pain or swelling), headache and musculoskeletal pain.
+
 Serious adverse reactions have been reported for Humira.
 TNF-antagonists, such as Humira affect the immune system and their use may affect the body’s defense against infection and cancer.
 Fatal and life-threating infections (including sepsis, opportunistic infections and TB), HBV reactivation and various maligancies (including leukaemia, lymphoma and HSTCL) have also been reported with use of Humira.
@@ -62,8 +62,8 @@ Undesirable Effects
 |  | Rare | cardiac arrest |
 | Vascular disorders | Common | hypertension, flushing, haematoma |
 |  | Rare | aortic aneurysm, vascular arterial occlusion, thrombophlebitis |
-| Respiratory, thoracic and mediastinal disorders* | Common | asthma, dyspnoea, |
-|  | Uncommon | cough, pulmonary embolism1), interstitial lung disease, chronic obstructive pulmonary disease, pneumonitis, pleural effusion1) |
+| Respiratory, thoracic and mediastinal disorders* | Common | asthma, dyspnoea, cough, |
+|  | Uncommon | pulmonary embolism1), interstitial lung disease, chronic obstructive pulmonary disease, pneumonitis, pleural effusion1) |
 |  | Rare | pulmonary fibrosis1) |
 | Gastrointestinal disorders | Very common | abdominal pain, nausea and vomiting |
 |  | Common | GI haemorrhage, dyspepsia, gastroesophageal reflux disease, sicca syndrome |
@@ -75,7 +75,8 @@ Undesirable Effects
 | Skin and subcutaneous tissue disorders | Very Common | rash (including exfoliative rash), |
 |  | Common | worsening and new onset of psoriasis (including palmoplantar pustular psoriasis)1), urticaria, bruising (including purpura), dermatitis (including eczema), onychoclasis, hyperhydrosis, alopecia1), pruritus |
 |  | Uncommon | night sweats, scar |
-|  | Rare | erythema multiforme1) Stevens-Johnson syndrome1), angioedema1), cutaneous vasculitis1) |
+|  | Rare | erythema multiforme1) |
+|  |  | Stevens-Johnson syndrome1), angioedema1), cutaneous vasculitis1) |
 | Musculoskeletal, connective tissue and bone disorders | Very common | musculoskeletal pain |
 |  | Common | muscle spasms (including blood creatine phosphokinase increased) |
 |  | Uncommon | rhabdomyolysis |
@@ -96,12 +97,12 @@ Injection site reactions
 
 In the pivotal controlled trials, 15% of patients treated with Humira developed injection site reactions (erythema and/or itching, haemorrhage, pain or swelling), compared to 9% of patients receiving placebo or active control.
 Injection site reactions generally did not necessitate discontinuation of the medicinal product.
-
 Infections
 
 In the pivotal controlled trials, the rate of infection was 1.50 per patient year in the Humira treated patients and 1.42 per patient year in the placebo and active control-treated patients.
 The infections consisted primarily of nasopharyngitis, upper respiratory tract infection, and sinusitis.
 Most patients continued on Humira after the infection resolved.
+
 The incidence of serious infections was 0.03 per patient year in Humira treated patients and 0.03 per patient year in placebo and active control − treated patients.
 
 In controlled and open label studies with Humira, serious infections (including fatal infections, which occurred rarely) have been reported, which include reports of tuberculosis (including miliary and extra-pulmonary locations) and invasive opportunistic infections (e.g. disseminated or extrapulmonary histoplasmosis, blastomycosis, coccidioidomycosis, pneumocystis, candidiasis, aspergillosis and listeriosis).
@@ -131,6 +132,7 @@ The patients improved following discontinuation of therapy.
 No patients developed lupus nephritis or central nervous system symptoms.
 
 Liver Enzyme Elevations
+
 Rheumatoid arthritis clinical trials: in controlled rheumatoid arthritis clinical trials (RA studies
 I − IV), elevations of ALT were similar in patients receiving adalimumab or placebo.
 In patients with early rheumatoid arthritis (disease duration of less than 3 years) (RA study V), elevations of ALT were more common in the combination arm (Humira /methotrexate) compared to the methotrexate monotherapy arm or the Humira monotherapy arm.
@@ -151,8 +153,8 @@ Psoriasis clinical trials: in controlled psoriasis clinical trials, elevations o
 | System Organ Class | Frequency | Adverse Reaction |
 | --- | --- | --- |
 | Infections and infestations* | Very common | respiratory tract infections (including lower and upper respiratory tract infection, pneumonia, sinusitis, pharyngitis, nasopharyngitis and pneumonia herpes viral) |
-|  | Common | systemic infections (including sepsis, candidiasis and influenza), intestinal infections (including gastroenteritis viral), skin and soft tissue infections (including paronychia, cellulitis, impetigo, necrotising fasciitis and herpes zoster), ear infections, oral infections (including herpes simplex, oral herpes and tooth infections), reproductive tract infections (including vulvovaginal mycotic infection), urinary tract infections (including pyelonephritis), |
-|  | Uncommon | fungal infections neurological infections (including viral meningitis), opportunistic infections and tuberculosis (including coccidioidomycosis, histoplasmosis and mycobacterium avum complex infection), bacterial infections, eye infections, joint infections, diverticulitis1) |
+|  | Common | systemic infections (including sepsis, candidiasis and influenza), intestinal infections (including gastroenteritis viral), skin and soft tissue infections (including paronychia, cellulitis, impetigo, necrotising fasciitis and herpes zoster), ear infections, oral infections (including herpes simplex, oral herpes and tooth infections), reproductive tract infections (including vulvovaginal mycotic infection), urinary tract infections (including pyelonephritis), fungal infections |
+|  | Uncommon | neurological infections (including viral meningitis), opportunistic infections and tuberculosis (including coccidioidomycosis, histoplasmosis and mycobacterium avum complex infection), bacterial infections, eye infections, joint infections, diverticulitis1) |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Common | skin cancer excluding melanoma (including basal cell carcinoma and squamous cell carcinoma), benign neoplasm |
 |  | Uncommon | lymphoma**, solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), melanoma** |
 |  | Rare | leukaemia1) |
@@ -164,8 +166,8 @@ Psoriasis clinical trials: in controlled psoriasis clinical trials, elevations o
 |  | Uncommon | sarcoidosis1) |
 |  | Rare | anaphylaxis 1) |
 | Metabolism and nutrition disorders | Very common | lipids increased |
-|  | Common | hypokalaemia, uric acid increased, blood sodium abnormal, hypocalcaemia hyperglycaemia, hypophosphataemia, |
-|  | Uncommon | blood potassium increased dehydration |
+|  | Common | hypokalaemia, uric acid increased, blood sodium abnormal, hypocalcaemia hyperglycaemia, hypophosphataemia, blood potassium increased |
+|  | Uncommon | dehydration |
 | Psychiatric disorders | Common | mood alterations (including depression), anxiety, insomnia |
 | Nervous system disorders* | Very common | headache |
 |  | Common | paraesthesias (including hypoaesthesia), migraine, sciatica |
@@ -180,8 +182,8 @@ Psoriasis clinical trials: in controlled psoriasis clinical trials, elevations o
 |  | Rare | cardiac arrest |
 | Vascular disorders | Common | hypertension, flushing, haematoma |
 |  | Rare | aortic aneurysm, vascular arterial occlusion, thrombophlebitis |
-| Respiratory, thoracic and | Common | asthma, |
-| mediastinal disorders* | Uncommon | dyspnoea, cough pulmonary embolism1), interstitial lung disease, chronic obstructive pulmonary disease, pneumonitis pleural effusion1), |
+| Respiratory, thoracic and mediastinal disorders* | Common | asthma, dyspnoea, cough |
+|  | Uncommon | pulmonary embolism1), interstitial lung disease, chronic obstructive pulmonary disease, pneumonitis pleural effusion1), |
 |  | Rare | pulmonary fibrosis1) |
 | Gastrointestinal disorders | Very common | abdominal pain, nausea and vomiting |
 |  | Common | GI haemorrhage, dyspepsia, gastroesophageal reflux disease, sicca syndrome |
@@ -195,8 +197,8 @@ Psoriasis clinical trials: in controlled psoriasis clinical trials, elevations o
 |  | Uncommon | night sweats, scar |
 |  | Rare | erythema multiforme1) |
 |  |  | Stevens-Johnson syndrome1), angioedema1), cutaneous vasculitis1) |
-| Musculoskeletal, connective tissue and bone | Very common | musculoskeletal pain |
-| disorders | Common | muscle spasms (including blood creatine phosphokinase increased) |
+| Musculoskeletal, connective tissue and bone disorders | Very common | musculoskeletal pain |
+|  | Common | muscle spasms (including blood creatine phosphokinase increased) |
 |  | Uncommon Rare | rhabdomyolysis systemic lupus erythematosus, lupus-like syndrome1) |
 | Renal and urinary disorders | Common | renal impairment, haematuria, |
 |  | Uncommon | nocturia |
@@ -271,8 +273,8 @@ The following list of adverse reactions is based on experience from clinical tri
 | Renal and urinary disorders | Common | renal impairment, haematuria |
 |  | Uncommon | nocturia |
 | Reproductive system and breast disorders | Uncommon | erectile dysfunction |
-| General disorders and | Very Common | injection site reaction (including injection site |
-| administration site conditions* | Common Uncommon | erythema) chest pain, oedema inflammation |
+| General disorders and administration site conditions* | Very Common | injection site reaction (including injection site erythema) |
+|  | Common Uncommon | chest pain, oedema inflammation |
 | Investigations* | Common | coagulation and bleeding disorders (including activated partial thromboplastin time prolonged), autoantibody test positive (including double stranded DNA antibody), blood lactate dehydrogenase increased |
 | Injury and poisoning | Common | impaired healing |
 
@@ -320,8 +322,8 @@ Serious adverse reactions have also been reported for Humira.
 |  | Rare | cardiac arrest |
 | Vascular disorders | Common | hypertension, flushing, haematoma |
 |  | Rare | aortic aneurysm, vascular arterial occlusion, thrombophlebitis |
-| Respiratory, thoracic and mediastinal disorders* | Common | asthma, dyspnoea, cough |
-|  | Uncommon | pulmonary embolism1), interstitial lung disease, chronic obstructive pulmonary disease, pneumonitis, pleural effusion1) |
+| Respiratory, thoracic and | Common | asthma, |
+| mediastinal disorders* | Uncommon | dyspnoea, cough pulmonary embolism1), interstitial lung disease, chronic obstructive pulmonary disease, pneumonitis, pleural effusion1) |
 |  | Rare | pulmonary fibrosis1) |
 | Gastrointestinal disorders | Very common | abdominal pain, nausea and vomiting |
 |  | Common | GI haemorrhage, dyspepsia, gastroesophageal reflux disease, sicca syndrome |
@@ -335,8 +337,8 @@ Serious adverse reactions have also been reported for Humira.
 |  | Uncommon | urticaria, bruising (including purpura), dermatitis (including eczema), onychoclasis, hyperhydrosis, alopecia1), pruritus, night sweats, scar |
 |  | Rare | erythema multiforme1) |
 |  |  | Stevens-Johnson syndrome1), angioedema1), cutaneous vasculitis1) |
-| Musculoskeletal, connective tissue and bone disorders | Very common | musculoskeletal pain |
-|  | Common | muscle spasms (including blood creatine phosphokinase increased) |
+| Musculoskeletal, | Very common | musculoskeletal pain |
+| connective tissue and bone disorders | Common | muscle spasms (including blood creatine phosphokinase increased) |
 |  | Uncommon Rare | rhabdomyolysis systemic lupus erythematosus, lupus-like syndrome |
 | Renal and urinary disorders | Common | renal impairment, haematuria |
 |  | Uncommon | nocturia |
