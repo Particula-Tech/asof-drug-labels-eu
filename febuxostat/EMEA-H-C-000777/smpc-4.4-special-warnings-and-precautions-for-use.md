@@ -1,7 +1,21 @@
 # 4.4 Special warnings and precautions for use
 
 Cardio-vascular disorders
-Treatment with febuxostat in patients with ischaemic heart disease or congestive heart failure is not recommended (see section 4.8).
+Treatment with febuxostat in patients with ischaemic heart disease or congestive heart failure is not recommended.
+A numerical greater incidence of investigator-reported cardiovascular APTC events (defined endpoints from the Anti-Platelet Trialists’ Collaboration (APTC) including cardiovascular death, non-fatal myocardial infarction, non-fatal stroke) was observed in the febuxostat total group compared to the allopurinol group in the APEX and FACT studies (1.3 vs. 0.3 events per 100 PYs), but not in the CONFIRMS study (see section 5.1 for detailed characteristics of the studies).
+The incidence of investigator-reported cardiovascular APTC events in the combined Phase III studies (APEX, FACT and CONFIRMS studies) was 0.7 vs. 0.6 events per 100 PYs.
+In the long-term extension studies the incidences of investigator-reported APTC events were 1.2 and 0.6 events per 100 PYs for febuxostat and allopurinol, respectively.
+No statistically significant differences were found and no causal relationship with febuxostat was established.
+Identified risk factors among these patients were a medical history of atherosclerotic disease and/or myocardial infarction, or of congestive heart failure.
+
+Medicinal product allergy / hypersensitivity
+Rare reports of serious allergic/hypersensitivity reactions, including life-threatening Stevens – Johnson Syndrome and acute anaphylactic reaction/shock, have been collected in the post-marketing experience.
+In most cases, these reactions occurred during the first month of therapy with febuxostat.
+Some, but not all of these patients reported renal impairment and/or previous hypersensitivity to allopurinol.
+Severe hypersensitivity reactions were associated with renal or hepatic involvement in some cases.
+Patients should be advised of the signs and symptoms and monitored closely for symptoms of allergic/hypersensitivity reactions (see section 4.8).
+Febuxostat treatment should be immediately stopped if serious allergic/hypersensitivity reactions, including Stevens-Johnson Syndrome, occur since early withdrawal is associated with a better prognosis.
+If patient has developed allergic/hypersensitivity reactions including Stevens-Johnson Syndrome and acute anaphylactic reaction/shock, febuxostat must not be re-started in this patient at any time.
 
 Acute gouty attacks (gout flare)
 Febuxostat treatment should not be started until an acute attack of gout has completely subsided.
@@ -10,7 +24,6 @@ At treatment initiation with febuxostat flare prophylaxis for at least 6 months 
 If a gout flare occurs during febuxostat treatment, it should not be discontinued.
 The gout flare should be managed concurrently as appropriate for the individual patient.
 Continuous treatment with febuxostat decreases frequency and intensity of gout flares.
-
 Xanthine deposition
 As with other urate lowering medicinal products, in patients in whom the rate of urate formation is greatly increased (e.g. malignant disease and its treatment, Lesch-Nyhan syndrome) the absolute concentration of xanthine in urine could, in rare cases, rise sufficiently to allow deposition in the urinary tract.
 As there has been no experience with febuxostat, its use in these populations is not recommended.

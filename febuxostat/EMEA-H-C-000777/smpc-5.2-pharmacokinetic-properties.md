@@ -7,6 +7,7 @@ Febuxostat has an apparent mean terminal elimination half-life (t1/2) of approxi
 
 Population pharmacokinetic/pharmacodynamic analyses were conducted in 211 patients with hyperuricemia and gout, treated with ADENURIC 40-240 mg QD.
 In general, febuxostat pharmacokinetic parameters estimated by these analyses are consistent with those obtained from healthy subjects, indicating that healthy subjects are representative for pharmacokinetic/pharmacodynamic assessment in the patient population with gout.
+
 Absorption
 Febuxostat is rapidly (tmax of 1.0-1.5 h) and well absorbed (at least 84%).
 After single or multiple oral 80 and 120 mg once daily doses, Cmax is approximately 2.8-3.2 µg/ml, and 5.0-5.3 µg/ml, respectively.
@@ -21,7 +22,7 @@ The apparent steady state volume of distribution (Vss/F) of febuxostat ranges fr
 The plasma protein binding of febuxostat is approximately 99.2%, (primarily to albumin), and is constant over the concentration range achieved with 80 and 120 mg doses.
 Plasma protein binding of the active metabolites ranges from about 82% to 91%.
 
-Metabolism
+Biotransformation
 Febuxostat is extensively metabolized by conjugation via uridine diphosphate glucuronosyltransferase (UDPGT) enzyme system and oxidation via the cytochrome P450 (CYP) system.
 Four pharmacologically active hydroxyl metabolites have been identified, of which three occur in plasma of humans.
 In vitro studies with human liver microsomes showed that those oxidative metabolites were formed primarily by CYP1A1, CYP1A2,
@@ -32,9 +33,8 @@ Febuxostat is eliminated by both hepatic and renal pathways.
 Following an 80 mg oral dose of 14C-labeled febuxostat, approximately 49% of the dose was recovered in the urine as unchanged febuxostat (3%), the acyl glucuronide of the active substance (30%), its known oxidative metabolites and their conjugates (13%), and other unknown metabolites (3%).
 In addition to the urinary excretion, approximately 45% of the dose was recovered in the faeces as the unchanged febuxostat (12%), the acyl glucuronide of the active substance (1%), its known oxidative metabolites and their conjugates (25%), and other unknown metabolites (7%).
 
-Special populations
-Renal insufficiency
-Following multiple doses of 80 mg of ADENURIC in patients with mild, moderate or severe renal insufficiency, the Cmax of febuxostat did not change, relative to subjects with normal renal function.
+Renal impairment
+Following multiple doses of 80 mg of ADENURIC in patients with mild, moderate or severe renal impairment, the Cmax of febuxostat did not change, relative to subjects with normal renal function.
 The mean total AUC of febuxostat increased by approximately 1.8-fold from 7.5 μg⋅h/ml in the normal renal function group to 13.2 μg.h/ml in the severe renal dysfunction group.
 The Cmax and AUC of active metabolites increased up to 2- and 4-fold, respectively.
 However, no dose adjustment is necessary in patients with mild or moderate renal impairment.

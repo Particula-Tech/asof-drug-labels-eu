@@ -18,7 +18,6 @@ In healthy subjects concomitant use of febuxostat and naproxen 250mg BID was ass
 In clinical studies the use of naproxen or other NSAIDs/Cox-2 inhibitors was not related to any clinically significant increase in adverse events.
 
 Febuxostat can be co-administered with naproxen with no dose adjustment of febuxostat or naproxen being necessary.
-
 Inducers of glucuronidation
 Potent inducers of UGT enzymes might possibly lead to increased metabolism and decreased efficacy of febuxostat.
 Monitoring of serum uric acid is therefore recommended 1-2 weeks after start of treatment with a potent inducer of glucuronidation.
