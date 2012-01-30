@@ -8,7 +8,7 @@ This effect is too small to be clinically relevant and is likely attributable to
 Interactions of similar magnitude as observed with ketoconazole may also occur with other potent inhibitors of P-gp such as verapamil, cyclosporine A and quinidine.
 Prucalopride is likely also secreted via another renal transporter(s).
 Inhibition of all transporters involved in the active secretion of prucalopride (including P-gp) may theoretically increase the exposure by up to 75%.
-Studies in healthy subjects showed that there were no clinically relevant effects of prucalopride on the pharmacokinetics of warfarin, digoxin, alcohol and paroxetine.
+Studies in healthy subjects showed that there were no clinically relevant effects of prucalopride on the pharmacokinetics of warfarin, digoxin, alcohol, paroxetine or oral contraceptives.
 A 30% increase in the plasma concentrations of erythromycin was found during prucalopride co-treatment.
 The mechanism for this interaction is not fully known, but the available data support that this is the consequence of the high intrinsic variability in erythromycin kinetics, rather than a direct effect of prucalopride.
 
