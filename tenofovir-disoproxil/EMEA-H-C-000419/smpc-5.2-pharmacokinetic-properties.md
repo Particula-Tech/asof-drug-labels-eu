@@ -52,6 +52,7 @@ The clinical implications of this are unknown.
 In patients with end-stage renal disease (ESRD) (CrCl < 10 ml/min) requiring haemodialysis, between dialysis tenofovir concentrations substantially increased over 48 hours achieving a mean Cmax of 1,032 ng/ml and a mean AUC0-48h of 42,857 ng·h/ml.
 
 It is recommended that the dosing interval for tenofovir disoproxil 245 mg (as fumarate) is modified in patients with creatinine clearance < 50 ml/min or in patients who already have ESRD and require dialysis (see section 4.2).
+
 The pharmacokinetics of tenofovir in non-haemodialysis patients with creatinine clearance
 < 10 ml/min and in patients with ESRD managed by peritoneal or other forms of dialysis have not been studied.
 

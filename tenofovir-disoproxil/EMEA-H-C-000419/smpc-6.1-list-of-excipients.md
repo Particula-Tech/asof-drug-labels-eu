@@ -6,6 +6,7 @@ Lactose monohydrate
 Magnesium stearate (E572)
 Microcrystalline cellulose (E460)
 Pregelatinised starch (gluten free)
+
 Film-coating:
 Glycerol triacetate (E1518)
 Hypromellose (E464)
