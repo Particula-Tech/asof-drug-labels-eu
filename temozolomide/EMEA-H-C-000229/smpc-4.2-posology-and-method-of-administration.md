@@ -130,6 +130,8 @@ b: TMZ is to be discontinued if:
 
 Temodal 2.5 mg/ml should only be prescribed by physicians experienced in the oncological treatment of brain tumours.
 
+Anti-emetic therapy may be administered (see section .4).
+
 Temodal 2.5 mg/ml is administered in combination with focal radiotherapy (concomitant phase) followed by up to 6 cycles of temozolomide (TMZ) monotherapy (monotherapy phase).
 
 TMZ is administered at a dose of 75 mg/m2 daily for 42 days concomitant with focal radiotherapy
@@ -141,6 +143,8 @@ In patients previously untreated with chemotherapy, TMZ is administered at a dos
 The pharmacokinetics of TMZ were comparable in patients with normal hepatic function and in those with mild or moderate hepatic impairment.
 No data are available on the administration of TMZ in patients with severe hepatic impairment (Child’s Class C) or with renal impairment.
 Based on the pharmacokinetic properties of TMZ, it is unlikely that dose reductions are required in patients with severe hepatic impairment or any degree of renal impairment.
+
+Based on a population pharmacokinetic analysis in patients 19-78 ears of age, clearance of TMZ is not affected by age.
 
 Temodal 2.5 mg/ml powder for solution for infusion must be administered only by intravenous infusion.
 It must not be given by other routes of administration, such as the intrathecal, intramuscular, or subcutaneous route.

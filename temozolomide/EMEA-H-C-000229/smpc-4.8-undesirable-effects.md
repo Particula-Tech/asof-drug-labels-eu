@@ -4,7 +4,7 @@ Clinical trial experience
 .
 In patients treated with TMZ, whether used in combination with RT or as monotherapy following RT for newly-diagnosed glioblastoma multiforme, or as monotherapy in patients with recurrent or progressive glioma, the reported very common adverse reactions were similar: nausea, vomiting, constipation, anorexia, headache and fatigue.
 Convulsions were reported very commonly in the newly-diagnosed glioblastoma multiforme patients receiving monotherapy, and rash was reported very commonly in newly-diagnosed glioblastoma multiforme patients receiving TMZ concurrent with RT and also as monotherapy, and commonly in recurrent glioma.
-Most haematologic adverse reactions were reported commonly or very commonly in both indications (Tables 4 and 5);the frequency of grade 3-4 laboratory findings is presented after each table.
+Most haematologic adverse reactions were reported commonly or very commonly in both indications (Tables 4 and 5); the frequency of grade 3-4 laboratory findings is presented after each table.
 
 In the tables undesirable effects are classified according to System Organ Class and frequency.
 Frequency groupings are defined according to the following convention: Very common (≥ 1/10); Common (≥ 1/100 to < 1/10); Uncommon (≥ 1/1,000 to < 1/100).
@@ -128,7 +128,7 @@ The presence of thrombocytopenia may increase the risk of bleeding, and the pres
 Gender
 
 In a population pharmacokinetics analysis of clinical trial experience there were 101 female and 169 male subjects for whom nadir neutrophil counts were available and 110 female and 174 male subjects for whom nadir platelet counts were available.
-There were higher rates of Grade 4 neutropenia (ANC < 0.5 x 109/l), 12 % vs 5 %, and thrombocytopenia (< 20 x 109/l ), 9 % vs 3 %, in women vs men in the first cycle of therapy.
+There were higher rates of Grade 4 neutropenia (ANC < 0.5 x 109/l), 12 % vs 5 %, and thrombocytopenia (< 20 x 109/l), 9 % vs 3 %, in women vs men in the first cycle of therapy.
 In a 400 subject recurrent glioma data set, Grade 4 neutropenia occurred in 8 % of female vs 4 % of male subjects and Grade 4 thrombocytopenia in 8 % of female vs 3 % of male subjects in the first cycle of therapy.
 In a study of 288 subjects with newly-diagnosed glioblastoma multiforme, Grade 4 neutropenia occurred in 3 % of female vs 0 % of male subjects and Grade 4 thrombocytopenia in 1 % of female vs 0 % of male subjects in the first cycle of therapy.
 
@@ -329,6 +329,8 @@ When laboratory abnormalities and adverse events were combined across concomitan
 | Common: | Fever, asthenia, rigors, malaise, pain, taste perversion |
 | Very rare: | Allergic reactions, including anaphylaxis, angioedema |
 
+There were higher rates of Grade 4 neutropenia (ANC < 0.5 x 109/l), 12 % vs 5 %, and thrombocytopenia (< 20 x 109/l ), 9 % vs 3 %, in women vs men in the first cycle of therapy.
+
 [Temodal 180 mg hard capsules]
 
 (all sentences already above)
@@ -434,8 +436,6 @@ Most haematological adverse reactions were reported commonly or very commonly in
 | Very common: | Fatigue |
 | Common: | Fever, asthenia, rigors, malaise, pain, taste perversion |
 | Very rare: | Allergic reactions, including anaphylaxis, angioedema |
-
-There were higher rates of Grade 4 neutropenia (ANC < 0.5 x 109/l), 12 % vs 5 %, and thrombocytopenia (< 20 x 109/l), 9 % vs 3 %, in women vs men in the first cycle of therapy.
 
 Clinical trial experience with IV
 

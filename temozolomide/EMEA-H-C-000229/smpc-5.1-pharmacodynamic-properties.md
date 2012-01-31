@@ -94,6 +94,6 @@ TMZ.
 
 The addition of concomitant TMZ to RT, followed by TMZ monotherapy in the treatment of patients with newly-diagnosed glioblastoma multiforme demonstrated . a statistically significant improvement in overall survival (OS) compared with RT alone (Figure 1).
 
-Figure 1 Kaplan-Meier curves for overall survival (Intent to Treat population)
+Figure 1 Kaplan-Meier curves for overall survival (Intent to treat population)
 
 The . median PFS was 5.4 months.

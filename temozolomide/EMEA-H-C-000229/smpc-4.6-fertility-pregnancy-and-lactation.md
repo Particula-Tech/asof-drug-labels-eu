@@ -23,7 +23,7 @@ Therefore, men being treated with it should be advised not to father a child up 
 
 [Temodal 100 mg hard capsules]
 
-Women of childbearing potential should be advised to use effective contraception to avoid pregnancy while they are receiving TMZ. pregnancy while they are receiving TMZ.
+(all sentences already above)
 
 [Temodal 140 mg hard capsules]
 
