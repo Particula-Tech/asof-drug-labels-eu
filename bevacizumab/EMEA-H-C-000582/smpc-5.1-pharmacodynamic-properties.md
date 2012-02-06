@@ -39,6 +39,7 @@ The overall mean age was 59.4 years; 56.6% of patients had an ECOG performance s
 The primary efficacy variable of the trial was overall survival.
 The addition of Avastin to IFL resulted in statistically significant increases in overall survival, progression-free survival and overall response rate (see Table 3).
 The clinical benefit, as measured by overall survival, was seen in all pre-specified patient subgroups, including those defined by age, sex, performance status, location of primary tumour, number of organs involved and duration of metastatic disease.
+
 The efficacy results of Avastin in combination with IFL-chemotherapy are displayed in Table 3.
 
 Table 3 Efficacy results for trial AVF2107g
@@ -81,6 +82,7 @@ The addition of Avastin 5 mg/kg every two weeks to 5-FU/FA resulted in higher ob
 These efficacy data are consistent with the results from trial AVF2107g.
 
 The efficacy data from trials AVF0780g and AVF2192g investigating Avastin in combination with 5-FU/FA-chemotherapy are summarised in Table 4.
+
 Table 4 Efficacy results for trials AVF0780g and AVF2192g
 
 |  | AVF0780g |  |  | AVF2192g |  |
@@ -194,8 +196,10 @@ A clinically meaningful and statistically significant improvement in PFS was obs
 
 Summarised below are PFS results for the individual chemotherapy agents included in the indication:
 
-- Study E2100 (paclitaxel) o Median PFS increase 5.6 months, HR 0.421 (p <0.0001, 95% CI 0.343 ; 0.516)
-- Study AVF3694g (capecitabine) o Median PFS increase 2.9 months, HR 0.69 (p = 0.0002, 95% CI 0.56 ; 0.84)
+- Study E2100 (paclitaxel)
+  - Median PFS increase 5.6 months, HR 0.421 (p <0.0001, 95% CI 0.343 ; 0.516)
+- Study AVF3694g (capecitabine)
+  - Median PFS increase 2.9 months, HR 0.69 (p = 0.0002, 95% CI 0.56 ; 0.84)
 
 Further details of each study and the results are provided below.
 

@@ -14,6 +14,7 @@ Analyses of the clinical safety data suggest that the occurrence of hypertension
 
 Table 1 lists adverse reactions associated with the use of Avastin in combination with different chemotherapy regimens in multiple indications.
 These reactions had occurred either with at least a 2% difference compared to the control arm (NCI-CTC grade 3-5 reactions) or with at least a 10% difference compared to the control arm (NCI-CTC grade 1-5 reactions), in at least one of the major clinical trials.
+
 The adverse reactions listed in this table fall into the following categories: Very Common (≥ 1/10) and Common (≥ 1/100 - < 1/10).
 Adverse reactions are added to the appropriate category in the table below according to the highest incidence seen in any of the major clinical trials.
 Within each frequency grouping adverse reactions are presented in the order of decreasing seriousness.
@@ -32,10 +33,10 @@ Table 1 Very common and common adverse reactions
 | Cardiac disorders |  | Cardiac failure congestive Supraventricular tachycardia |  |
 | Vascular disorders | Hypertension | Thromboembolism (arterial)* Deep vein thrombosis Haemorrhage | Hypertension |
 | Respiratory, thoracic and mediastinal disorders |  | Pulmonary embolism Dyspnoea Hypoxia Epistaxis | Dyspnoea Epistaxis Rhinitis |
+|  | Very common | Common | Very common |
 | Gastrointestinal disorders | Diarrhoea Nausea Vomiting | Intestinal Perforation Ileus Intestinal obstruction Abdominal pain Gastrointestinal disorder Stomatitis | Constipation Stomatitis Rectal haemorrhage Diarrhoea |
 | Endocrine disorders |  |  | Ovarian failure** |
 | Skin and subcutaneous tissue disorders |  | Palmar-plantar erythrodysaesthesia syndrome | Exfoliative dermatitis Dry skin Skin discolouration |
-|  | Very common | Common | Very common |
 | Musculoskeletal, connective tissue and bone disorders |  | Muscular weakness Myalgia Arthralgia | Arthralgia |
 | Renal and urinary disorders |  | Proteinuria Urinary Tract Infection | Proteinuria |
 | General disorders and administration site conditions | Asthenia Fatigue | Pain Lethargy Mucosal inflammation | Pyrexia Asthenia Pain Mucosal inflammation |
@@ -61,7 +62,6 @@ Avastin use has been associated with serious cases of fistulae including events 
 In clinical trials, gastrointestinal fistulae have been reported with an incidence of up to 2% in patients with metastatic colorectal cancer, but were also reported less commonly in patients with other types of cancers.
 Uncommon (≥ 0.1% to < 1%) reports of other types of fistulae that involve areas of the body other than the gastrointestinal tract (e.g. bronchopleural, urogenital and biliary fistulae) were observed across various indications.
 Fistulae have also been reported in post-marketing experience.
-
 Events were reported at various time points during treatment ranging from one week to greater than 1 year from initiation of Avastin, with most events occurring within the first 6 months of therapy.
 
 Wound healing (see section 4.4)
@@ -101,7 +101,6 @@ Haemorrhage (see section 4.4)
 In clinical trials across all indications the overall incidence of NCI-CTC Grade 3-5 bleeding events ranged from 0.4% to 5% in Avastin treated patients, compared with up to 2.9% of patients in the chemotherapy control group.
 
 The haemorrhagic events that have been observed in clinical trials were predominantly tumour-associated haemorrhage (see below) and minor mucocutaneous haemorrhage (e.g. epistaxis).
-
 Tumour-associated haemorrhage (see section 4.4)
 Major or massive pulmonary haemorrhage/haemoptysis has been observed primarily in trials in patients with non-small cell lung cancer (NSCLC).
 Possible risk factors include squamous cell histology, treatment with antirheumatic/anti-inflammatory substances, treatment with anticoagulants, prior radiotherapy, Avastin therapy, previous medical history of atherosclerosis, central tumour location and cavitation of tumours prior to or during therapy.
@@ -134,7 +133,6 @@ In clinical trials, the overall incidence of arterial thromboembolic events rang
 Fatal outcome was reported in 0.8% of patients receiving Avastin compared to 0.5% in patients receiving chemotherapy alone.
 Cerebrovascular accidents (including transient ischemic attacks) were reported in up to 2.3% of patients treated with Avastin in combination with chemotherapy compared to 0.5% of patients treated with chemotherapy alone.
 Myocardial infarction was reported in 1.4% of patients treated with Avastin in combination with chemotherapy compared to 0.7% of patients treated with chemotherapy alone.
-
 In one clinical trial evaluating Avastin in combination with 5-fluorouracil/folinic acid, AVF2192g, patients with metastatic colorectal cancer who were not candidates for treatment with irinotecan were included.
 In this trial arterial thromboembolic events were observed in 11% (11/100) of patients compared to 5.8% (6/104) in the chemotherapy control group.
 
@@ -193,7 +191,7 @@ Table 2 Adverse reactions reported in post-marketing setting
 | System organ class (SOC) | Reactions (frequency*) |
 | --- | --- |
 | Nervous system disorders | Hypertensive encephalopathy (very rare) (see also section 4.4 and Hypertension in section 4.8) Reversible posterior leukoencephalopathy syndrome (rare) (see also section 4.4) |
-| Vascular disorders | Renal thrombotic microangiopathy, clinically manifested as proteinuria (not known). For further information on proteinuria see section 4.4 and Proteinuria in section 4.8. |
+| Vascular disorders | Renal thrombotic microangiopathy, which may be clinically manifested as proteinuria (not known) with or without concomitant sunitinib use. For further information on proteinuria see section 4.4 and Proteinuria in section 4.8. |
 | Respiratory, thoracic and mediastinal disorders | Nasal septum perforation (not known) Pulmonary hypertension (not known) Dysphonia (common) |
 | Gastrointestinal disorders | Gastrointestinal ulcer (not known) |
 | Hepatobiliary disorders | Gall bladder perforation (not known) |

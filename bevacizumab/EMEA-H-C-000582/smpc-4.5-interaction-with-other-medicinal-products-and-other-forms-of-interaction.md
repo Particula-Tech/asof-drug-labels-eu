@@ -27,3 +27,8 @@ Increased rates of severe neutropenia, febrile neutropenia, or infection with or
 
 Radiotherapy
 The safety and efficacy of concomitant administration of radiotherapy and Avastin has not been established.
+
+EGFR monoclonal antibodies in combination with bevacizumab chemotherapy regimens
+No interaction studies have been performed.
+EGFR monoclonal antibodies should not be administered for the treatment of mCRC in combination with bevacizumab-containing chemotherapy.
+Results from the randomized phase III studies, PACCE and CAIRO-2, in patients with mCRC suggest that the use of anti-EGFR monoclonal antibodies panitumumab and cetuximab, respectively, in combination with bevacizumab plus chemotherapy, is associated with decreased PFS and/or OS, and with increased toxicity compared with bevacizumab plus chemotherapy alone.
