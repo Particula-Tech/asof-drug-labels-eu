@@ -1,10 +1,12 @@
 # 4.8 Undesirable effects
 
+Summary of the safety profile
 Upper respiratory tract infection was the most common adverse drug reaction (ADR) reported in the controlled Phase III RA, PsA, and AS studies through week 16, occurring in 7.2% of golimumab-treated patients as compared with 5.8% of control patients.
 The most serious ADRs that have been reported for Simponi include serious infections (including sepsis, pneumonia, TB, invasive fungal and opportunistic infections), demyelinating disorders, lymphoma, HBV reactivation, CHF, autoimmune processes (lupus-like syndrome) and haematologic reactions (see section 4.4).
 
+Tabulated list of adverse reactions
 ADRs observed in clinical studies and reported from world-wide post-marketing use of golimumab are listed in Table 1.
-Within the designated system organ classes, the adverse drug reactions are listed under headings of frequency and using the following convention: Very common (≥ 1/10); Common (≥ 1/100 to < 1/10); Uncommon (≥ 1/1,000 to < 1/100); Rare (≥ 1/10,000 to < 1/1,000); Very rare
+Within the designated system organ classes, the adverse drug reactions are listed under headings of frequency and using the following convention: Very common (≥1/10); Common (≥1/100 to < 1/10); Uncommon (≥1/1,000 to < 1/100); Rare (≥1/10,000 to < 1/1,000); Very rare
 (< 1/10,000); Not known (cannot be estimated from the available data).
 
 Table 1
@@ -45,7 +47,8 @@ Respiratory, thoracic and mediastinal disorders
 Uncommon: Asthma and related symptoms (such as wheezing and bronchial hyperactivity)
 Rare: Interstitial lung disease
 Gastrointestinal disorders
-Common: Constipation, dyspepsia, gastrointestinal and abdominal pain Uncommon: Gastrointestinal inflammatory disorders (such as gastritis and colitis), gastro-oesophageal reflux disease, stomatitis Hepatobiliary disorders
+Common: Constipation, dyspepsia, gastrointestinal and abdominal pain, nausea
+Uncommon: Gastrointestinal inflammatory disorders (such as gastritis and colitis), gastro-oesophageal reflux disease, stomatitis Hepatobiliary disorders
 Common: Alanine aminotransferase increased, aspartate aminotransferase increased
 Uncommon: Cholelithiasis, hepatic disorders
 Skin and subcutaneous tissue disorders
@@ -69,7 +72,7 @@ Infections
 Upper respiratory tract infection was the most common adverse reaction reported in the combined Phase III RA, PsA, and AS studies through week 16, occurring in 7.2% of golimumab-treated patients (incidence per 100 subject-years: 26.3; 95% CI: 22.1, 31.2) as compared with 5.8% of control patients (incidence per 100 subject-years: 22.9; 95% CI: 16.6, 30.7.
 In controlled and uncontrolled portions of the studies with a median follow-up of approximately 3 years, the incidence per 100 subject-years of upper respiratory tract infections was 17.4 events; 95% CI: 16.4, 18.6 for golimumab treated patients.
 
-In controlled Phase III trials through week 16 in RA, PsA, and AS, infections were observed in 28.3% of golimumab-treated patients (incidence per 100 subject-years: 128.0; 95% CI: 118.3, 138.2) compared with 24.7% of control patients (incidence per 100 subject-years: 116.6; 95% CI: 101.8, 132.9 ).
+In controlled Phase III trials through week 16 in RA, PsA, and AS, infections were observed in 28.3% of golimumab-treated patients (incidence per 100 subject-years: 128.0; 95% CI: 118.3, 138.2) compared with 24.7% of control patients (incidence per 100 subject-years: 116.6; 95% CI: 101.8, 132.9).
 In controlled and uncontrolled portions of the studies with a median follow-up of approximately 3 years, the incidence per 100 subject-years of infections was 96.0 events; 95% CI: 93.5, 98.6 for golimumab treated patients.
 
 In controlled Phase III trials through week 16 in patients with RA, PsA, and AS, serious infections were observed in 1.4% of golimumab-treated patients and 1.3% of control-treated patients.
@@ -78,6 +81,7 @@ Serious infections observed in golimumab-treated patients included tuberculosis,
 Some of these infections have been fatal.
 In the controlled and uncontrolled portions of the Phase II and Phase III trials in RA, PsA, and AS with a median follow-up of approximately 3 years, there was a greater incidence of serious infections, including opportunistic infections and TB in patients receiving golimumab 100 mgcompared with patients receiving golimumab 50 mg .
 The incidence per 100 subject-years of all serious infections was 5.1; 95% CI: 4.4, 5.9, in patients receiving golimumab 100 mg and 3.0; 95% CI: 2.4, 3.8, in patients receiving golimumab 50 mg.
+
 Malignancies
 
 Lymphoma
@@ -115,7 +119,7 @@ In controlled Phase III trials through week 16, mild ALT elevations (> 1 and < 3
 Through approximately 3 years of follow-up the incidence of mild ALT elevations was similar in golimumab-treated and control patients in RA and PsA studies.
 In the AS population, the incidence of mild ALT elevations was higher in golimumab-treated patients than in control patients.
 
-In the RA and AS studies through week 16, ALT elevations ≥ 5 x ULN were uncommon and seen in more golimumab-treated patients (0.4% to 0.9%) than control patients (0.0%).
+In the RA and AS studies through week 16, ALT elevations ≥5 x ULN were uncommon and seen in more golimumab-treated patients (0.4% to 0.9%) than control patients (0.0%).
 This trend was not observed in the PsA population.
 Through approximately 3 years of follow-up, the incidence of ALT elevations ≥5 x ULN was similar in both golimumab-treated and control patients in the Phase III RA, PsA and AS studies.
 In general these elevations were asymptomatic and the abnormalities decreased or resolved with either continuation or discontinuation of golimumab or modification of concomitant medications.

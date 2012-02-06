@@ -96,7 +96,7 @@ Immunosuppression
 The possibility exists for TNF-blocking agents, including Simponi, to affect host defences against infections and malignancies since TNF mediates inflammation and modulates cellular immune responses.
 
 Autoimmune processes
-The relative deficiency of TNFα caused by anti-TNF therapy may result in the initiation of an autoimmune process.
+The relative deficiency of TNFαcaused by anti-TNF therapy may result in the initiation of an autoimmune process.
 If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with Simponi and is positive for antibodies against double-stranded DNA, treatment with Simponi should be discontinued (see section 4.8).
 
 Haematologic reactions

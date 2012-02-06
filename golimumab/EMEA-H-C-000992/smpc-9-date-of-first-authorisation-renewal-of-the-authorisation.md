@@ -1,3 +1,3 @@
 # 9. DATE OF FIRST AUTHORISATION
 
-01/10/2009
+Date of first authorisation: 1 October 2009
