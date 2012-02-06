@@ -17,10 +17,10 @@ TAXOTERE in combination with trastuzumab is indicated for the treatment of patie
 
 TAXOTERE in combination with capecitabine is indicated for the treatment of patients with locally advanced or metastatic breast cancer after failure of cytotoxic chemotherapy.
 Previous therapy should have included an anthracycline.
-
 Non-small cell lung cancer
 
 TAXOTERE is indicated for the treatment of patients with locally advanced or metastatic non-small cell lung cancer after failure of prior chemotherapy.
+
 TAXOTERE in combination with cisplatin is indicated for the treatment of patients with unresectable, locally advanced or metastatic non-small cell lung cancer, in patients who have not previously received chemotherapy for this condition.
 
 Prostate cancer

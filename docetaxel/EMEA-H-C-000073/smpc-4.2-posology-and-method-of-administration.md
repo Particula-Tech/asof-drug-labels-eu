@@ -19,7 +19,6 @@ In combination with trastuzumab the recommended dose of docetaxel is 100 mg/m2 e
 In the pivotal study the initial docetaxel infusion was started the day following the first dose of trastuzumab.
 The subsequent docetaxel doses were administered immediately after completion of the trastuzumab infusion, if the preceding dose of trastuzumab was well tolerated.
 For trastuzumab dose and administration, see trastuzumab summary of product characteristics.
-
 In combination with capecitabine, the recommended dose of docetaxel is 75 mg/m2 every three weeks, combined with capecitabine at 1250 mg/m2 twice daily (within 30 minutes after a meal) for 2 weeks followed by a 1-week rest period.
 For capecitabine dose calculation according to body surface area, see capecitabine summary of product characteristics.
 
@@ -62,6 +61,7 @@ General
 Docetaxel should be administered when the neutrophil count is ≥ 1,500 cells/mm3.
 In patients who experienced either febrile neutropenia, neutrophil count < 500 cells/mm3 for more than one week, severe or cumulative cutaneous reactions or severe peripheral neuropathy during docetaxel therapy, the dose of docetaxel should be reduced from 100 mg/m2 to 75 mg/m2 and/or from 75 to 60 mg/m².
 If the patient continues to experience these reactions at 60 mg/m², the treatment should be discontinued.
+
 Adjuvant therapy for breast cancer
 Primary G-CSF prophylaxis should be considered in patients who receive docetaxel, doxorubicin and cyclophosphamide (TAC) adjuvant therapy for breast cancer.
 Patients who experience febrile neutropenia and/or neutropenic infection should have their docetaxel dose reduced to 60 mg/m² in all subsequent cycles (see sections 4.4 and 4.8).
@@ -100,8 +100,8 @@ Recommended dose modifications for toxicities in patients treated with docetaxel
 | Stomatitis/mucositis grade 4 | First episode: stop 5-FU only, at all subsequent cycles. Second episode: reduce docetaxel dose by 20%. |
 
 For cisplatin and 5-fluorouracil dose adjustments, see the corresponding summary of product characteristics.
-
 In the pivotal SCCHN studies patients who experienced complicated neutropenia (including prolonged neutropenia, febrile neutropenia, or infection), it was recommended to use G-CSF to provide prophylactic coverage (eg, day 6-15) in all subsequent cycles.
+
 Special populations:
 
 Patients with hepatic impairment
@@ -114,7 +114,7 @@ Paediatric population
 The safety and efficacy of TAXOTERE in nasopharyngeal carcinoma in children aged 1 month to less than 18 years have not yet been established.
 There is no relevant use of TAXOTERE in the paediatric population in the indications breast cancer, non-small cell lung cancer, prostate cancer, gastric carcinoma and head and neck cancer, not including type II and III less differentiated nasopharyngeal carcinoma.
 
-Elderly
+Elderly patients
 Based on a population pharmacokinetic analysis, there are no special instructions for use in the elderly.
 In combination with capecitabine, for patients 60 years of age or more, a starting dose reduction of capecitabine to 75% is recommended (see capecitabine summary of product characteristics).
 

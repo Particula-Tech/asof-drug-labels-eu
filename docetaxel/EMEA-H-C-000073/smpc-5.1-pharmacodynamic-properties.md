@@ -1,19 +1,21 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Taxanes, ATC Code: L01CD 02
-
-Preclinical data
+Mechanism of action
 
 Docetaxel is an antineoplastic agent which acts by promoting the assembly of tubulin into stable microtubules and inhibits their disassembly which leads to a marked decrease of free tubulin.
 The binding of docetaxel to microtubules does not alter the number of protofilaments.
 
 Docetaxel has been shown in vitro to disrupt the microtubular network in cells which is essential for vital mitotic and interphase cellular functions.
+
+Pharmacodynamic effects
+
 Docetaxel was found to be cytotoxic in vitro against various murine and human tumour cell lines and against freshly excised human tumour cells in clonogenic assays.
 Docetaxel achieves high intracellular concentrations with a long cell residence time.
 In addition, docetaxel was found to be active on some but not all cell lines over expressing the p-glycoprotein which is encoded by the multidrug resistance gene.
 In vivo, docetaxel is schedule independent and has a broad spectrum of experimental antitumour activity against advanced murine and human grafted tumours.
 
-Clinical data
+Clinical efficacy and safety
 
 Breast cancer
 
@@ -41,7 +43,6 @@ Significantly longer disease-free survival for the TAC arm compared to the FAC a
 Incidence of relapses at 10 years was reduced in patients receiving TAC compared to those who received FAC (39% versus 45%, respectively) i.e. an absolute risk reduction by 6% (p = 0.0043).
 Overall survival at 10 years was also significantly increased with TAC compared to FAC (76% versus 69%, respectively) i.e. an absolute reduction of the risk of death by 7% (p = 0.002).
 As the benefit observed in patients with 4+ nodes was not statistically significant on DFS and OS, the positive benefit/risk ratio for TAC in patients with 4+ nodes was not fully demonstrated at the final analysis.
-
 Overall, the study results demonstrate a positive benefit risk ratio for TAC compared to FAC.
 
 TAC-treated patient subsets according to prospectively defined major prognostic factors were analyzed:
@@ -58,9 +59,10 @@ Patients with operable node-negative breast cancer eligible to receive chemother
 Data from a multicenter open label randomized trial support the use of TAXOTERE for the adjuvant treatment of patients with operable node-negative breast cancer eligible to receive chemotherapy.
 1060 patients were randomized to receive either TAXOTERE 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 (539 patients in TAC arm), or doxorubicin 50 mg/m2 followed by fluorouracil 500 mg/m2 and cyclosphosphamide 500 mg/m2 (521 patients in FAC arm), as adjuvant treatment of operable node-negative breast cancer patients with high risk of relapse according to 1998 St. Gallen criteria (tumour size >2 cm and/or negative ER and PR and/or high histological/nuclear grade (grade 2 to 3) and /or age <35 years).
 Both regimens were administered once every 3 weeks for 6 cycles.
-TAXOTERE was administered as a 1-hour infusion, all other drugs were given intraveinously on day 1 every three weeks.
+TAXOTERE was administered as a 1-hour infusion, all other medicinal products were given intraveinously on day 1 every three weeks.
 Primary prophylactic G-CSF was made mandatory in TAC arm after 230 patients were randomized.
-The incidence of Grade 4 neutropenia, febrile neutropenia and neutropenic infection was decreased in patients who received primary G-CSF prophylaxis (see section 4.8).
+The incidence of
+Grade 4 neutropenia, febrile neutropenia and neutropenic infection was decreased in patients who received primary G-CSF prophylaxis (see section 4.8).
 In both arms, after the last cycle of chemotherapy, patients with ER+ and/or PgR+ tumours received tamoxifen 20 mg once a day for up to 5 years.
 Adjuvant radiation therapy was administered according to guidelines in place at participating institutions and was given to 57.3% of patients who received TAC and 51.2% of patients who received FAC.
 
@@ -87,7 +89,7 @@ Subset Analyses-Adjuvant Therapy in Patients with Node-negative Breast Cancer St
 
 *a hazard ratio (TAC/FAC) of less than 1 indicates that TAC is associated with a longer disease free survival compared to FAC.
 
-Exploratory subgroup analyses for disease-free survival for patients who meet the 2009 St. Gallen chemotherapy criteria – (ITT population) were performed and presented here below
+Exploratory subgroup analyses for disease-free survival for patients who meet the 2009 St. Gallen chemotherapy criteria – (ITT population) were performed and presented here below:
 
 |  | TAC | FAC | Hazard ratio (TAC/FAC) |  |
 | --- | --- | --- | --- | --- |
@@ -300,7 +302,8 @@ Efficacy of docetaxel in the induction treatment of patients with inoperable loc
 |  | 0.72 (0.52-0.99) 0.0457 |  |
 
 A hazard ratio of less than 1 favors docetaxel + cisplatin + 5-FU
-*Cox model (adjustment for Primary tumour site, T and N clinical stages and PSWHO) **Logrank test
+*Cox model (adjustment for Primary tumour site, T and N clinical stages and PSWHO)
+**Logrank test
 *** Chi-square test
 
 Quality of life parameters
@@ -352,11 +355,13 @@ A hazard ratio of less than 1 favors docetaxel + cisplatin + fluorouracil
 ***Chi square test, not adjusted for multiple comparisons
 NA-not applicable
 
+Paediatric population
+
 The European Medicines Agency has waived the obligation to submit the results of studies with TAXOTERE in all subsets of the paediatric population in breast cancer, non-small cell lung cancer, prostated cancer, gastric carcinoma and head and neck cancer, not including type II and III less differentiated nasopharyngeal carcinoma (see section 4.2 for information on paediatric use).
 
 [TAXOTERE 80 mg/2 ml concentrate and solvent for solution for infusion]
 
-TAXOTERE was administered as a 1-hour infusion, all other drugs were given as intraveinously on day 1 every three weeks.
+TAXOTERE was administered as a 1-hour infusion, all other medicinal products were given as intraveinously on day 1 every three weeks.
 
 CI = confidence interval
 ER = estrogen receptor
@@ -364,6 +369,9 @@ ER = estrogen receptor
 [TAXOTERE 20 mg/1 ml concentrate for solution for infusion]
 
 Pharmacotherapeutic group: Taxanes, ATC Code: L01CD02
+
+Incidence of relapses at 10 years was reduced in patients receiving TAC compared to those who received FAC (39% versus 45%, respectively) i.e. an absolute risk reduction by 6%
+(p = 0.0043).
 
 1060 patients were randomized to receive either TAXOTERE 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 (539 patients in TAC arm), or doxorubicin 50 mg/m2 followed by fluorouracil 500 mg/m2 and cyclosphosphamide 500 mg/m2 (521 patients in FAC arm), as adjuvant treatment of operable node-negative breast cancer patients with high risk of relapse according to 1998 St. Gallen criteria (tumour size >2 cm and/or negative ER and PR and/or high histological/nuclear grade (grade 2 to 3) and /or age <35 years).).
 
@@ -388,9 +396,6 @@ Docetaxel in combination with trastuzumab was studied for the treatment of patie
 
 There was less use of morphinic analgesic (p < 0.01), non-morphinic analgesics (p < 0.01), other disease-related medicinal products (p = 0.06) and radiotherapy (p < 0.01) in patients treated with docetaxel at 75 mg/m² compared to those with BSC.
 
-*Cox model (adjustment for Primary tumour site, T and N clinical stages and PSWHO)
-**Logrank test
-
 | Endpoint | Docetaxel + Cis + 5-FU n = 255 | Cis + 5-FU n = 246 |
 | --- | --- | --- |
 | Median overall survival (months) (95% CI) Hazard ratio: (95% CI) *p-value | 70.6 (49.0-NA) | 30.1 (20.9-51.5) |
@@ -414,9 +419,9 @@ Overall survival at 10 years was also significantly increased with TAC compared 
 | --- | --- | --- | --- |
 |  |  | Hazard ratio* | 95% CI |
 | Overall | 539 | 0.68 | 0.49-0.93 |
-| Age category 1 <50 years ≥50 years | 260 279 | 0.67 0.67 | 0.43-1.05 0.43-1.05 |
-| Age category 2 |  |  |  |
-| <35 years ≥35 years | 42 497 | 0.31 0.73 | 0.11-0.89 0.52-1.01 |
+| Age category 1 <50 years | 260 | 0.67 | 0.43-1.05 |
+| ≥50 years | 279 | 0.67 | 0.43-1.05 |
+| Age category 2 <35 years ≥35 years | 42 497 | 0.31 0.73 | 0.11-0.89 0.52-1.01 |
 | Hormonal receptor status Negative Positive | 195 344 | 0.7 0.62 | 0.45-1.1 0.4-0.97 |
 | Tumour size ≤2 cm >2 cm | 285 254 | 0.69 0.68 | 0.43-1.1 0.45-1.04 |
 | Histological grade Grade1 (includes grade not assessed) Grade 2 Grade 3 | 64 | 0.79 | 0.24-2.6 |

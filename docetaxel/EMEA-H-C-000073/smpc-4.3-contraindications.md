@@ -1,6 +1,6 @@
 # 4.3 Contraindications
 
-Hypersensitivity to the active substance or to any of the excipients.
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
 
 Docetaxel must not be used in patients with baseline neutrophil count of < 1,500 cells/mm3.
 

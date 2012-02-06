@@ -16,6 +16,6 @@ Docetaxel pharmacokinetics in the presence of prednisone was studied in patients
 Docetaxel is metabolised by CYP3A4 and prednisone is known to induce CYP3A4.
 No statistically significant effect of prednisone on the pharmacokinetics of docetaxel was observed.
 
-Docetaxel should be administered with caution in patients concomitantly receiving potent CYP3A4 inhibitors (e.g. protease inhibitors like ritonavir, azole antifungals like ketoconazole or itraconazole).
-A drug interaction study performed in patients receiving ketoconazole and docetaxel showed that the clearance of docetaxel was reduced by half by ketoconazole, probably because the metabolism of docetaxel involves CYP3A4 as a major (single) metabolic pathway.
-Reduced tolerance of docetaxel may occur, even at lower doses.
+Clinical cases consistent with an increase in docetaxel toxicity were reported when it was combined with ritonavir.
+The mechanism behind this interaction is a CYP3A4 inhibition, the main isoenzyme involved in docetaxel metabolism by ritonavir.
+Based on extrapolation from a pharmacokinetic study with ketoconazole in 7 patients, consider a 50% docetaxel dose reduction if patients require co-administration of a strong CYP3A4 inhibitor such as azole antifungals, ritonavir and some macrolides (clarithromycin, telithromycin).

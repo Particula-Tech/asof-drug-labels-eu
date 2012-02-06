@@ -21,7 +21,7 @@ Once added to the infusion bag
 From a microbiological point of view, reconstitution/dilution must take place in controlled and aseptic conditions and the medicinal product should be used immediately.
 
 Once added as recommended into the infusion bag, the docetaxel infusion solution, if stored below 25°C, is stable for 6 hours.
-It should be used within 6 hours (including the one hour infusion IV administration).
+It should be used within 6 hours (including the one hour infusion intravenous administration).
 
 In addition, physical and chemical in-use stability of the infusion solution prepared as recommended has been demonstrated in non-PVC bags up to 48 hours when stored between 2 to 8°C.
 

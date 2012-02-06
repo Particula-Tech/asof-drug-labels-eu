@@ -5,6 +5,7 @@ The use of gloves is recommended.
 
 If TAXOTERE concentrate, premix solution or infusion solution should come into contact with skin, wash immediately and thoroughly with soap and water.
 If TAXOTERE concentrate, premix solution or infusion solution should come into contact with mucous membranes, wash immediately and thoroughly with water.
+
 Preparation for the intravenous administration
 
 a) Preparation of the TAXOTERE premix solution (10 mg docetaxel/ml)
@@ -30,7 +31,6 @@ Based on the required dose for the patient expressed in mg, aseptically withdraw
 For example, a dose of 140 mg docetaxel would require 14 ml docetaxel premix solution.
 
 Inject the required premix volume into a 250 ml infusion bag or bottle containing either 5% glucose solution or sodium chloride 9 mg/ml (0.9%) solution for infusion.
-
 If a dose greater than 200 mg of docetaxel is required, use a larger volume of the infusion vehicle so that a concentration of 0.74 mg/ml docetaxel is not exceeded.
 
 Mix the infusion bag or bottle manually using a rocking motion.
@@ -39,7 +39,7 @@ The TAXOTERE infusion solution should be used within 4 hours and should be asept
 
 As with all parenteral products, TAXOTERE premix solution and infusion solution should be visually inspected prior to use, solutions containing a precipitate should be discarded.
 
-Any unused product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 [TAXOTERE 80 mg/2 ml concentrate and solvent for solution for infusion]
 
@@ -52,6 +52,7 @@ If TAXOTERE concentrate or infusion solution should come into contact with mucou
 
 Preparation of the infusion solution
 DO NOT use other docetaxel medicinal products consisting of 2 vials (concentrate and solvent) with this medicinal product (TAXOTERE 20 mg/1 ml concentrate for solution for infusion, which contains only 1 vial).
+
 TAXOTERE 20 mg/1 ml concentrate for solution for infusion requires NO prior dilution with a solvent and is ready to add to the infusion solution.
 
 Each vial is of single use and should be used immediately.

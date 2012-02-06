@@ -1,5 +1,7 @@
 # 4.8 Undesirable effects
 
+Summary of the safety profile for all indications
+
 The adverse reactions considered to be possibly or probably related to the administration of docetaxel have been obtained in:
 
 - 1312 and 121 patients who received 100 mg/m² and 75 mg/m² of docetaxel as a single agent respectively.
@@ -23,8 +25,8 @@ The severity of adverse events of docetaxel may be increased when docetaxel is g
 
 For combination with trastuzumab, adverse events (all grades) reported in ≥ 10% are displayed.
 There was an increased incidence of SAEs (40% vs. 31%) and Grade 4 AEs (34% vs. 23%) in the trastuzumab combination arm compared to docetaxel monotherapy.
-
 For combination with capecitabine, the most frequent treatment-related undesirable effects (≥ 5%) reported in a phase III study in breast cancer patients failing anthracycline treatment are presented (see capecitabine summary of product characteristics).
+
 The following adverse reactions are frequently observed with docetaxel:
 
 Immune system disorders
@@ -54,7 +56,7 @@ Fluid retention includes events such as peripheral oedema and less frequently pl
 The peripheral oedema usually starts at the lower extremities and may become generalised with a weight gain of 3 kg or more.
 Fluid retention is cumulative in incidence and severity (see section 4.4).
 
-TAXOTERE 100 mg/m² single agent
+Tabulated list of adverse reactions in breast cancer for TAXOTERE 100 mg/m² single agent
 
 | MedDRA system organ classes | Very common adverse reactions | Common adverse reactions | Uncommon adverse reactions |
 | --- | --- | --- | --- |
@@ -62,8 +64,7 @@ TAXOTERE 100 mg/m² single agent
 | Blood and lymphatic system disorders | Neutropenia (G4: 76.4%); Anaemia (G3/4: 8.9%); Febrile neutropenia | Thrombocytopenia (G4: 0.2%) |  |
 | Immune system disorders | Hypersensitivity (G3/4: 5.3%) |  |  |
 | Metabolism and nutrition disorders | Anorexia |  |  |
-| Nervous system disorders | Peripheral sensory neuropathy (G3: 4.1%); Peripheral motor neuropathy (G3/4: 4%); Dysgeusia (severe: |  |  |
-|  | 0.07%) |  |  |
+| Nervous system disorders | Peripheral sensory neuropathy (G3: 4.1%); Peripheral motor neuropathy (G3/4: 4%); Dysgeusia (severe: 0.07%) |  |  |
 | Cardiac disorders |  | Arrhythmia (G3/4: 0.7%) | Cardiac failure |
 | Vascular disorders |  | Hypotension; Hypertension; Haemorrhage |  |
 | Respiratory, thoracic and mediastinal disorders | Dyspnoea (severe: 2.7%) |  |  |
@@ -73,13 +74,14 @@ TAXOTERE 100 mg/m² single agent
 | General disorders and administration site conditions | Fluid retention (severe: 6.5%); Asthenia (severe: 11.2%); Pain | Infusion site reaction; Non-cardiac chest pain (severe: 0.4%) |  |
 | Investigations |  | G3/4 Blood bilirubin increased (< 5%); G3/4 Blood alkaline phosphatase increased (< 4%); G3/4 AST increased (< 3%); G3/4 ALT increased (< 2%) |  |
 
+Description of selected adverse reactions in breast cancer for TAXOTERE 100 mg/m2 single agent
+
 Blood and lymphatic system disorders
 Rare: bleeding episodes associated with grade 3/4 thrombocytopenia.
 
 Nervous system disorders
 Reversibility data are available among 35.3% of patients who developed neurotoxicity following docetaxel treatment at 100 mg/m² as single agent.
 The events were spontaneously reversible within 3 months.
-
 Skin and subcutaneous tissue disorders
 Very rare: one case of alopecia non-reversible at the end of the study.
 73% of the cutaneous reactions were reversible within 21 days.
@@ -88,7 +90,7 @@ General disorders and administration site conditions
 The median cumulative dose to treatment discontinuation was more than 1,000 mg/m2 and the median time to fluid retention reversibility was 16.4 weeks (range 0 to 42 weeks).
 The onset of moderate and severe retention is delayed (median cumulative dose: 818.9 mg/m2) in patients with premedication compared with patients without premedication (median cumulative dose: 489.7 mg/m2); however, it has been reported in some patients during the early courses of therapy.
 
-TAXOTERE 75 mg/m² single agent
+Tabulated list of adverse reactions in breast cancer for TAXOTERE 75 mg/m² single agent
 
 MedDRA system organ classes Very common adverse Common adverse reactions
 reactions
@@ -117,7 +119,7 @@ Pain
 Investigations G3/4 Blood bilirubin increased
 (< 2%)
 
-TAXOTERE 75 mg/m² in combination with doxorubicin
+Tabulated list of adverse reactions in breast cancer for TAXOTERE 75 mg/m² in combination with doxorubicin
 
 MedDRA system Very common adverse Common adverse Uncommon adverse
 organ classes reactions reactions reactions
@@ -130,6 +132,8 @@ Febrile neutropenia;
 Thrombocytopenia (G4:
 0.8%)
 Immune system Hypersensitivity (G3/4:
+MedDRA system Very common adverse Common adverse Uncommon adverse
+organ classes reactions reactions reactions
 disorders 1.2%)
 Metabolism and Anorexia
 nutrition disorders
@@ -164,7 +168,7 @@ G3/4 Blood alkaline G3/4 ALT increased
 phosphatase increased (< 1%)
 (< 2.5%)
 
-TAXOTERE 75 mg/m² in combination with cisplatin
+Tabulated list of adverse reactions in breast cancer for TAXOTERE 75 mg/m² in combination with cisplatin
 
 MedDRA system Very common adverse Common adverse Uncommon adverse
 organ classes reactions reactions reactions
@@ -210,7 +214,7 @@ G3/4 ALT increased G3/4 Blood alkaline
 (1.3%) phosphatase increased
 (0.3%)
 
-TAXOTERE 100 mg/m² in combination with trastuzumab
+Tabulated list of adverse reactions in breast cancer for TAXOTERE 100 mg/m² in combination with trastuzumab
 
 MedDRA system organ classes Very common adverse Common adverse reactions
 reactions
@@ -245,6 +249,8 @@ inflammation; Pain; Influenza
 like illness; Chest pain; Chills
 Investigations Weight increased
 
+Description of selected adverse reactions in breast cancer for TAXOTERE 100 mg/m² in combination with trastuzumab
+
 Cardiac disorders
 Symptomatic cardiac failure was reported in 2.2% of the patients who received docetaxel plus trastuzumab compared to 0% of patients given docetaxel alone.
 In the docetaxel plus trastuzumab arm, 64% had received a prior anthracycline as adjuvant therapy compared with 55% in the docetaxel arm alone.
@@ -253,7 +259,7 @@ Blood and lymphatic system disorders
 Very common: Haematological toxicity was increased in patients receiving trastuzumab and docetaxel, compared with docetaxel alone (32% grade 3/4 neutropenia versus 22%, using NCI-CTC criteria).
 Note that this is likely to be an underestimate since docetaxel alone at a dose of 100 mg/m2 is known to result in neutropenia in 97% of patients, 76% grade 4, based on nadir blood counts.
 The incidence of febrile neutropenia/neutropenic sepsis was also increased in patients treated with Herceptin plus docetaxel (23% versus 17% for patients treated with docetaxel alone).
-TAXOTERE 75 mg/m² in combination with capecitabine
+Tabulated list of adverse reactions in breast cancer for TAXOTERE 75 mg/m² in combination with capecitabine
 
 MedDRA system organ classes Very common adverse Common adverse reactions
 reactions
@@ -291,7 +297,7 @@ Investigations Weight decreased;
 G3/4 Blood bilirubin increased
 (9%)
 
-TAXOTERE 75 mg/m² in combination with prednisone or prednisolone
+Tabulated list of adverse reactions in breast cancer for TAXOTERE 75 mg/m² in combination with prednisone or prednisolone
 
 MedDRA system organ classes Very common adverse Common adverse reactions
 reactions
@@ -324,7 +330,7 @@ bone disorders Myalgia (G3/4: 0.3%)
 General disorders and Fatigue (G3/4: 3.9%);
 administration site conditions Fluid retention (severe: 0.6%)
 
-Adjuvant therapy with TAXOTERE 75 mg/m² in combination with doxorubicin and cyclophosphamide in patients with node-positive (TAX 316) and node-negative (GEICAM 9805) breast cancer - pooled data
+Tabulated list of adverse reactions for adjuvant therapy with TAXOTERE 75 mg/m² in combination with doxorubicin and cyclophosphamide in patients with node-positive (TAX 316) and node-negative (GEICAM 9805) breast cancer - pooled data
 
 | MedDRA System Organ classes | Very common adverse reactions | Common adverse reactions | Uncommon adverse reactions |
 | --- | --- | --- | --- |
@@ -343,6 +349,8 @@ Adjuvant therapy with TAXOTERE 75 mg/m² in combination with doxorubicin and cyc
 | Reproductive system and breast disorders | Amenorrhoea (G3/4: NA) |  |  |
 | General disorders and administration site conditions | Asthenia (G3/4: 10.0%); Pyrexia (G3/4: NA); Oedema peripheral (G3/4: 0.2%) |  |  |
 | Investigations |  | Weight increased (G3/4: 0%); Weight decreased (G3/4: 0.2%) |  |
+
+Description of selected adverse reactions for adjuvant therapy with TAXOTERE 75 mg/m² in combination with doxorubicin and cyclophosphamide in patients with node-positive (TAX 316) and node-negative (GEICAM 9805) breast cancer
 
 Nervous system disorders
 Peripheral sensory neuropathy was observed to be ongoing during follow-up in10 patients out of the 84 patients with peripheral sensory neuropathy at the end of the chemotherapy in the node positive breast cancer study (TAX316).
@@ -381,7 +389,7 @@ Neutropenic complications in patients receiving TAC with or without primary G-CS
 | Neutropenic infection | 14 (12.6) | 21 (5.0) |
 | Neutropenic infection (Grade 3-4) | 2 (1.8) | 5 (1.2) |
 
-TAXOTERE 75 mg/m² in combination with cisplatin and 5-fluorouracil for gastric adenocarcinoma cancer
+Tabulated list of adverse reactions in gastric adenocarcinoma cancer for TAXOTERE 75 mg/m² in combination with cisplatin and 5-fluorouracil
 
 MedDRA system organ classes Very common adverse Common adverse reactions
 reactions
@@ -415,12 +423,14 @@ administration site conditions Fever (G3/4: 2.3%);
 Fluid retention
 (severe/life-threatening: 1%)
 
+Description of selected adverse reactions in gastric adenocarcinoma cancer for TAXOTERE 75 mg/m2 in combination with cisplatin and 5-fluorouracil
+
 Blood and lymphatic system disorders
 Febrile neutropenia and neutropenic infection occurred in 17.2% and 13.5% of patients respectively, regardless of G-CSF use.
 G-CSF was used for secondary prophylaxis in 19.3% of patients (10.7% of the cycles).
 Febrile neutropenia and neutropenic infection occurred respectively in 12.1% and 3.4% of patients when patients received prophylactic G-CSF, in 15.6% and 12.9% of patients without prophylactic G-CSF (see section 4.2).
 
-TAXOTERE 75 mg/m² in combination with cisplatin and 5-fluorouracil for Head and Neck cancer
+Tabulated list of adverse reactions in head and neck cancer for TAXOTERE 75 mg/m² in combination with cisplatin and 5-fluorouracil
 
 - Induction chemotherapy followed by radiotherapy (TAX 323)
 
@@ -453,6 +463,8 @@ Cardiac disorders Myocardial ischemia Arrhythmia (G3/4:
 (G3/4:1.7%) 0.6%)
 Vascular disorders Venous disorder (G3/4:
 0.6%)
+MedDRA ystem organ Very common adverse Common adverse Uncommon adverse
+classes reactions reactions reactions
 Gastrointestinal Nausea (G3/4: 0.6%); Constipation;
 disorders Stomatitis (G3/4: Esophagitis/dysphagia/
 4.0%); odynophagia (G3/4:
@@ -462,8 +474,6 @@ Dyspepsia;
 Gastrointestinal
 haemorrhage (G3/4:
 0.6%)
-MedDRA ystem organ Very common adverse Common adverse Uncommon adverse
-classes reactions reactions reactions
 Skin and subcutaneous Alopecia (G3/4: 10.9%) Rash pruritic;
 tissue disorders Dry skin;
 Skin exfoliative (G3/4:
@@ -506,11 +516,11 @@ neuropathy (G3/4: neuropathy (G3/4:
 Eye disorders Lacrimation increased Conjunctivitis
 Ear and labyrinth Hearing impaired
 disorders (G3/4: 1.2%)
+MedDRA system Very common adverse Common adverse Uncommon adverse
+organ classes reactions reactions reactions
 Cardiac disorders Arrhythmia (G3/4: Ischemia myocardial
 2.0%)
 Vascular disorders Venous disorder
-MedDRA system Very common adverse Common adverse Uncommon adverse
-organ classes reactions reactions reactions
 Gastrointestinal Nausea (G3/4: 13.9%); Dyspepsia (G3/4:
 disorders Stomatitis (G3/4: 0.8%);
 20.7%); Gastrointestinal pain
@@ -538,7 +548,7 @@ Investigations Weight decreased Weight increased
 Post-marketing experience
 
 Neoplasms benign, malignant and unspecified (incl cysts and polyps)
-Very rare cases of acute myeloid leukaemia and myelodysplastic syndrome have been reported in association with docetaxel when used in combination with other chemotherapy agents and/or radiotherapy.
+Cases of acute myeloid leukaemia and myelodysplastic syndrome have been reported in association with docetaxel when used in combination with other chemotherapy agents and/or radiotherapy.
 
 Blood and lymphatic system disorders
 Bone marrow suppression and other haematologic adverse reactions have been reported.
@@ -565,7 +575,7 @@ Vascular disorders
 Venous thromboembolic events have rarely been reported.
 
 Respiratory, thoracic and mediastinal disorders
-Acute respiratory distress syndrome, interstitial pneumonia and pulmonary fibrosis have rarely been reported.
+Acute respiratory distress syndrome and cases of interstitial pneumonia and pulmonary fibrosis sometimes fatal have rarely been reported.
 Rare cases of radiation pneumonitis have been reported in patients receiving concomitant radiotherapy.
 
 Gastrointestinal disorders
@@ -579,6 +589,11 @@ Skin and subcutaneous tissue disorders
 Very rare cases of cutaneous lupus erythematosus and bullous eruptions such as erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, have been reported with docetaxel.
 In some cases concomitant factors may have contributed to the development of these effects.
 Sclerodermal-like changes usually preceded by peripheral lymphoedema have been reported with docetaxel.
+Cases of persisting alopecia have been reported.
+
+Renal and urinary disorders
+Renal insufficiency and renal failure have been reported.
+In about 20% of these cases there were no risk factors for acute renal failure such as concomitant nephrotoxic medicinal products and gastrointestinal disorders.
 
 General disorders and administration site conditions
 Radiation recall phenomena have rarely been reported.
@@ -587,6 +602,10 @@ Dehydration and pulmonary oedema have rarely been reported.
 
 [TAXOTERE 80 mg/2 ml concentrate and solvent for solution for infusion]
 
+Tabulated list of adverse reactions in breast cancer for adjuvant therapy with TAXOTERE 75 mg/m² in combination with doxorubicin and cyclophosphamide in patients with node-positive (TAX 316) and node-negative (GEICAM 9805) breast cancer - pooled data
+
+Description of selected adverse reactions for adjuvant therapy with Taxotere 175 mg/m2 in combination with doxorubicin and cyclophosphamide in patients with node-positive (TAX 316) and node-negative (GEICAM 9805) breast cancer
+
 Peripheral sensory neuropathy was observed to be ongoing during follow-up in 10 patients out of the 84 patients with peripheral sensory neuropathy at the end of the chemotherapy in the node positive breast cancer study (TAX316).
 
 In study TAX316, alopecia persisting into the follow-up period after the end of chemotheraphy was reported in 687 TAC patients and 645 FAC patients.
@@ -594,6 +613,8 @@ In study TAX316, alopecia persisting into the follow-up period after the end of 
 In study TAX 316, peripheral oedema was observed to be ongoing in 19 patients out of the 119 patients with peripheral oedema in the TAC arm and 4 patients out of the 23 patients with peripheral oedema in the FAC arm.
 
 Table below shows that the incidence of Grade 4 neutropenia, febrile neutropenia and neutropenic infection was decreased in patients who received primary G-CSF prophylaxis after it was made mandatory in the TAC arm. – GEICAM study.
+
+Acute respiratory distress syndromeand cases of interstitial pneumonia and pulmonary fibrosis sometimes fatal have rarely been reported.
 
 [TAXOTERE 20 mg/1 ml concentrate for solution for infusion]
 
@@ -663,8 +684,9 @@ threatening: 1%)
 
 [TAXOTERE 80 mg/4 ml concentrate for solution for infusion]
 
-(all sentences already above)
+Tabulated list of adverse reactions in gastric adenocarcinoma center for TAXOTERE 75 mg/m² in combination with cisplatin and 5-fluorouracil
 
 [TAXOTERE 160 mg/8 ml concentrate for solution for infusion.]
 
-(all sentences already above)
+Description of selected adverse reactions in breast cancer for adjuvant therapy with TAXOTERE
+75 mg/m² in combination with doxorubicin and cyclophosphamide in patients with node-positive (TAX 316) and node-negative (GEICAM 9805) breast cancer
