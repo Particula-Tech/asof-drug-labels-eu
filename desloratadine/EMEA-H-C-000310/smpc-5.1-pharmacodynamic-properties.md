@@ -57,6 +57,8 @@ Azomyr tablets given at a single daily dose of 7.5 mg did not affect psychomotor
 In patients with allergic rhinitis, Azomyr tablets were effective in relieving symptoms such as sneezing, nasal discharge and itching, as well as ocular itching, tearing and redness, and itching of palate.
 Azomyr tablets effectively controlled symptoms for 24 hours.
 
+Azomyr was effective in alleviating the burden of seasonal allergic rhinitis as shown by the total score . of the rhino-conjunctivitis quality of life questionnaire.
+
 As with other antihistamine trials in chronic idiopathic urticaria, the minority of patients who were identified as non-responsive to antihistamines was excluded.
 
 [Azomyr 2.5 mg orodispersible tablets]
@@ -66,15 +68,13 @@ In addition, Azomyr orodispersible tablets were well tolerated in a multiple dos
 At the recommended dose, Azomyr 5 mg orodispersible tablet was found to be bioequivalent to the Azomyr 5 mg conventional tablet and the Azomyr 5 mg oral lyophilisate formulations of desloratadine.
 Therefore, the efficacy of Azomyr orodispersible tablet is expected to be the same as with the Azomyr tablet formulation.
 
-In a single dose study performed in adults, desloratadine 5 mg did not . affect standard measures of flight performance including exacerbation of subjective sleepiness or tasks related to flying.
+Azomyr tablets given at a single daily dose of 7.5 mg did not affect psychomotor . performance in clinical trials.
 
 [Azomyr 5 mg orodispersible tablets]
 
 In addition, Azomyr orodispersible tablets were well tolerated in a multiple-dose trial.
 
 In a multiple-dose clinical trial, in which up to 20 mg of desloratadine was administered daily for 14 days, no statistically or clinically relevant cardiovascular effect was observed.
-
-Persistent allergic rhinitis is defined as the presence of . symptoms for 4 days or more per week and for more than 4 weeks.
 
 [Azomyr 0.5 mg/ml oral solution]
 
@@ -88,8 +88,7 @@ Thus, since the course of allergic rhinitis/chronic idiopathic urticaria and the
 In a multiple dose clinical trial, in adults and adolescents, in which up to 20 mg of desloratadine was administered daily for 14 days, no statistically or clinically relevant cardiovascular effect was observed.
 In a clinical pharmacology trial, in adults and adolescents, in which desloratadine was administered to adults at a dose of 45 mg daily (nine times the clinical dose) for ten days, no prolongation of QTc interval was seen.
 In controlled clinical trials, at the recommended dose of 5 mg daily for adults and adolescents, there was no excess incidence of somnolence as compared to placebo.
-Azomyr tablets given at a single daily dose of 7.5 mg to adults and adolescents did not affect psychomotor performance in clinical trials.
-In a single dose study . performed in adults, desloratadine 5 mg did not affect standard measures of flight performance including exacerbation of subjective sleepiness or tasks related to flying.
+Azomyr tablets given at a single daily dose of 7.5 mg to adults . and adolescents did not affect psychomotor performance in clinical trials.
 
 In clinical pharmacology trials in adults, co-administration with alcohol did not increase the alcohol-induced impairment in performance or increase in sleepiness.
 

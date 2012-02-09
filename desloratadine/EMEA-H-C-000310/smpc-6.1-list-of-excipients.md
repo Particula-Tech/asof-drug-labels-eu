@@ -18,5 +18,5 @@ microcrystalline cellulose pregelatinized starch sodium starch glycolate magnesi
 
 [Azomyr 0.5 mg/ml oral solution]
 
-sorbitol, propylene glycol, sucralose E 955, hypromellose 2910, sodium citrate dihydrate, natural and artificial flavour (bubblegum), citric acid anhydrous, .
-disodium edetate, purified water
+sorbitol, propylene glycol, sucralose E 955, hypromellose 2910, sodium citrate dihydrate, natural and artificial flavour (bubblegum), .
+citric acid anhydrous, disodium edetate, purified water

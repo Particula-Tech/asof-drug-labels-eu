@@ -22,7 +22,7 @@ Packs of 5, 6, 10, 12, 15, 18, 20, 30, 50, 60, 90 and 100 orodispersible tablets
 
 [Azomyr 5 mg orodispersible tablets]
 
-(all sentences already above)
+The cold form blister film is composed of polyvinyl chloride (PVC) film adhesively laminated to an oriented polyamide (OPA) film, adhesively laminated to aluminum foil, adhesively laminated to . polyvinyl chloride (PVC) film.
 
 [Azomyr 0.5 mg/ml oral solution]
 

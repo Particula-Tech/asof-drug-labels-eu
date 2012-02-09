@@ -8,7 +8,9 @@ The lack of carcinogenic potential was demonstrated in studies conducted with de
 
 [Azomyr 5 mg oral lyophilisate]
 
-No significant local irritant effect was observed when the rapidly-dissolving form was tested in a hamster . cheek pouch mucous membrane irritation assay.
+Non-clinical studies conducted with desloratadine and loratadine demonstrated that there are no qualitative or quantitative differences in . the toxicity profile of desloratadine and loratadine at comparable levels of exposure to desloratadine.
+
+No significant local irritant effect was observed when the rapidly-dissolving form was tested in a hamster cheek pouch mucous membrane irritation assay.
 
 [Azomyr 2.5 mg orodispersible tablets]
 

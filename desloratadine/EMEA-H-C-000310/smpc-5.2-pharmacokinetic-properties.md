@@ -42,10 +42,12 @@ Water had no affect on the bioavailability of Azomyr orodispersible tablets.
 
 The prevalence of this poor metaboliser phenotype was greater among Black adults than Caucasian adults (18 % vs. 2 %) however the safety profile of these subjects was not different from that of the general population.
 
+The presence of food has no relevant influence on AUC and Cmax of Azomyr oral lyophilisate while . the presence of food prolongs Tmax for desloratadine from 2.5 to 4 hours and Tmax for 3-OH-desloratadine from 4 to 6 hours.
+
 [Azomyr 0.5 mg/ml oral solution]
 
 Desloratadine plasma concentrations can be detected within 30 minutes of desloratadine administration in adults and adolescents.
-The prevalence of this poor metaboliser phenotype was comparable for adult (6 %) and paediatric subjects 2- to 11-year old (6 %), and greater among Blacks (18 % adult, 16 % paediatric) than Caucasians (2 % adult, 3 % paediatric) in both populations. .
+The prevalence of this poor metaboliser phenotype was comparable for adult (6 %) and paediatric subjects 2- to 11-year old (6 %), and greater among Blacks (18 % adult, 16 % paediatric) . than Caucasians (2 % adult, 3 % paediatric) in both populations.
 
 Similar pharmacokinetic parameters were observed in a multiple-dose pharmacokinetic study conducted with the syrup formulation in paediatric poor metaboliser subjects 2- to 11-year old diagnosed with allergic rhinitis.
 The exposure (AUC) to desloratadine was about 6-fold higher and the Cmax was about 3 to 4 fold higher at 3-6 hours with a terminal half-life of approximately 120 hours.
