@@ -8,8 +8,8 @@
 - Severe hepatic insufficiency
 - Sick sinus syndrome
 - Sino-atrial block
-- Heart failure patients with NYHA functional classification III-IV
-- Pacemaker dependent
+- Unstable or acute heart failure
+- Pacemaker dependent (heart rate imposed exclusively by the pacemaker)
 - Unstable angina
 - AV-block of 3rd degree
 - Combination with strong cytochrome P450 3A4 inhibitors such as azole antifungals (ketoconazole, itraconazole), macrolide antibiotics (clarithromycin, erythromycin per os, josamycin, telithromycin), HIV protease inhibitors (nelfinavir, ritonavir) and nefazodone (see sections 4.5 and 5.2)

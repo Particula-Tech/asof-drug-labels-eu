@@ -6,6 +6,10 @@ Cardiac arrhythmias
 Ivabradine is not effective in the treatment or prevention of cardiac arrhythmias and likely loses its efficacy when a tachyarrhythmia occurs (eg. ventricular or supraventricular tachycardia).
 Ivabradine is therefore not recommended in patients with atrial fibrillation or other cardiac arrhythmias that interfere with sinus node function.
 It is recommended to regularly clinically monitor ivabradine treated patients for the occurrence of atrial fibrillation (sustained or paroxysmal), which should also include ECG monitoring if clinically indicated (e.g. in case of exacerbated angina, palpitations, irregular pulse).
+The risk of developing atrial fibrillation may be higher in chronic heart failure patients treated with ivabradine.
+Atrial fibrillation has been more common in patients using concomitantly amiodarone or potent class I anti-arrhythmics.
+Chronic heart failure patients with intraventricular conduction defects (bundle branch block left, bundle branch block right) and ventricular dyssynchrony should be monitored closely.
+
 Use in patients with AV-block of 2nd degree
 Ivabradine is not recommended in patients with AV-block of 2nd degree.
 
@@ -19,8 +23,8 @@ No safety issue has been raised on the combination of ivabradine with nitrates a
 Additional efficacy of ivabradine in combination with dihydropyridine calcium channel blockers has not been established (see section 5.1).
 
 Chronic heart failure
-Heart failure must be appropriately controlled before considering ivabradine treatment.
-The use of ivabradine is contra-indicated in heart failure patients with NYHA functional classification III-IV and should be used with caution in heart failure patients with NYHA functional classification I-II (see section 4.3).
+Heart failure must be stable before considering ivabradine treatment.
+Ivabradine should be used with caution in heart failure patients with NYHA functional classification IV due to limited amount of data in this population.
 
 Stroke
 The use of ivabradine is not recommended immediately after a stroke since no data is available in these situations.
@@ -44,5 +48,11 @@ However, in the absence of extensive data, non urgent DC-cardioversion should be
 Use in patients with congenital QT syndrome or treated with QT prolonging medicinal products
 The use of ivabradine in patients with congenital QT syndrome or treated with QT prolonging medicinal products should be avoided (see section 4.5).
 If the combination appears necessary, close cardiac monitoring is needed.
+
+Hypertensive patients requiring blood pressure treatment modifications.
+In the SHIFT trial more patients experienced episodes of increased blood pressure while treated with ivabradine (7.1%) compared to patients treated with placebo (6.1%).
+These episodes occurred most frequently shortly after blood pressure treatment was modified, were transient, and did not affect the treatment effect of ivabradine.
+When treatment modifications are made in chronic heart failure patients treated with ivabradine blood pressure should be monitored at an appropriate interval (see section 4.8).
+
 Excipients
 Since tablets contain lactose, patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.

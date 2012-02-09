@@ -4,15 +4,26 @@ Posology
 
 For the different doses, film-coated tablets containing 5 mg and 7.5 mg ivabradine are available.
 
+Treatment of coronary artery disease
 The usual recommended starting dose of ivabradine is 5 mg twice daily.
 After three to four weeks of treatment, the dose may be increased to 7.5 mg twice daily depending on the therapeutic response.
 If, during treatment, heart rate decreases persistently below 50 beats per minute (bpm) at rest or the patient experiences symptoms related to bradycardia such as dizziness, fatigue or hypotension, the dose must be titrated downward including the possible dose of 2.5 mg twice daily (one half 5 mg tablet twice daily).
 Treatment must be discontinued if heart rate below 50 bpm or symptoms of bradycardia persist (see section 4.4).
+Treatment of chronic heart failure
+The treatment has to be initiated only in patient with stable heart failure.
+It is recommended that the treating physician should be experienced in the management of chronic heart failure.
+The usual recommended starting dose of ivabradine is 5 mg twice daily.
+After two weeks of treatment, the dose can be increased to 7.5 mg twice daily if resting heart rate is persistently above 60 bpm or decreased to 2.5 mg twice daily (one half 5 mg tablet twice daily) if resting heart rate is persistently below 50 bpm or in case of symptoms related to bradycardia such as dizziness, fatigue or hypotension.
+If heart rate is between 50 and 60 bpm, the dose of 5 mg twice daily should be maintained.
+If during treatment, heart rate decreases persistently below 50 beats per minute (bpm) at rest or the patient experiences symptoms related to bradycardia, the dose must be titrated downward to the next lower dose in patients receiving 7.5 mg twice daily or 5 mg twice daily.
+If heart rate increases persistently above 60 beats per minute at rest, the dose can be up titrated to the next upper dose in patients receiving 2.5 mg twice daily or 5 mg twice daily.
+Treatment must be discontinued if heart rate remains below 50 bpm or symptoms of bradycardia persist (see section 4.4).
 
 Special population
 
 Elderly
-Since ivabradine has been studied in a limited number of patients aged 75 years or more, a lower starting dose should be considered for these patients (2.5 mg twice daily i.e. one half 5 mg tablet twice daily) before up-titration if necessary.
+In patients aged 75 years or more, a lower starting dose should be considered for these patients (2.5 mg twice daily i.e. one half 5 mg tablet twice daily) before up-titration if necessary.
+
 Renal impairment
 No dose adjustment is required in patients with renal insufficiency and creatinine clearance above 15 ml/min (see section 5.2).
 No data are available in patients with creatinine clearance below 15 ml/min.

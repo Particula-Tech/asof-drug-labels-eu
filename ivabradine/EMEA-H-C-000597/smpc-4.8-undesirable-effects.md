@@ -1,7 +1,6 @@
 # 4.8 Undesirable effects
 
-Procoralan has been studied in clinical trials involving nearly 5,000 participants.
-Approximately 2,900 patients have been treated with ivabradine in phase II-III studies.
+Ivabradine has been studied in clinical trials involving nearly 14,000 participants.
 The most common adverse reactions with ivabradine, luminous phenomena (phosphenes) and bradycardia, are dose dependent and related to the pharmacological effect of the medicinal product.
 
 The following adverse reactions have been reported during clinical trials and are ranked using the following frequency: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
@@ -20,7 +19,11 @@ The following adverse reactions have been reported during clinical trials and ar
 |  |  | AV 1st degree block (ECG prolonged PQ interval) |
 |  |  | Ventricular extrasystoles |
 |  | Uncommon | Palpitations, supraventricular extrasystoles |
-| Vascular disorders | Uncommon* | Hypotension, possibly related to bradycardia |
+|  | Very rare | Atrial fibrillation |
+|  |  | AV 2nd degree block, AV 3rd degree block |
+|  |  | Sick sinus syndrome |
+| Vascular disorders | Common | Uncontrolled blood pressure |
+|  | Uncommon* | Hypotension, possibly related to bradycardia |
 | Respiratory, thoracic and mediastinal disorders | Uncommon | Dyspnoea |
 | Gastrointestinal disorders | Uncommon | Nausea |
 |  |  | Constipation |

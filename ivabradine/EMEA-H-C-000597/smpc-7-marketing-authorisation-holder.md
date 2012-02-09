@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 Les Laboratoires Servier
-22 rue Garnier
-92200 Neuilly sur Seine
+50, rue Carnot
+92284 Suresnes cedex
 France

@@ -24,7 +24,7 @@ Ivabradine does not influence intracardiac conduction, contractility (no negativ
 
 Clinical efficacy and safety
 
-The antianginal and anti-ischaemic efficacy of Procoralan was studied in five double-blind randomised trials (three versus placebo, and one each versus atenolol and amlodipine).
+The antianginal and anti-ischaemic efficacy of ivabradine was studied in five double-blind randomised trials (three versus placebo, and one each versus atenolol and amlodipine).
 These trials included a total of 4,111 patients with chronic stable angina pectoris, of whom 2,617 received ivabradine.
 
 Ivabradine 5 mg twice daily was shown to be effective on exercise test parameters within 3 to 4 weeks of treatment.
@@ -45,10 +45,42 @@ The effects on blood pressure and peripheral vascular resistance were minor and 
 
 A sustained reduction of heart rate was demonstrated in patients treated with ivabradine for at least one year (n = 713).
 No influence on glucose or lipid metabolism was observed.
-
 The antianginal and anti-ischaemic efficacy of ivabradine was preserved in diabetic patients (n = 457) with a similar safety profile as compared to the overall population.
 
 A large outcome study, BEAUTIFUL, was performed in 10917 patients with coronary artery disease and left ventricular dysfunction (LVEF<40%) on top of optimal background therapy with 86.9% of patients receiving beta-blockers.
 The main efficacy criterion was the composite of cardiovascular death, hospitalization for acute MI or hospitalization for new onset or worsening heart failure.
 The study showed no difference in the rate of the primary composite outcome in the ivabradine group by comparison to the placebo group (relative risk ivabradine:placebo 1.00, p=0.945).
 In a post-hoc subgroup of patients with symptomatic angina at randomisation (n=1507), no safety signal was identified regarding cardiovascular death, hospitalization for acute MI or heart failure (ivabradine 12.0% versus placebo 15.5%, p=0.05).
+
+The SHIFT study was a large multicentre, international, randomised double-blind placebo controlled outcome trial conducted in 6505 adult patients with stable chronic CHF (for ≥ 4 weeks), NYHA class II to IV, with a reduced left ventricular ejection fraction (LVEF ≤ 35%) and a resting heart rate ≥ 70 bpm.
+Patients received standard care including beta-blockers (89 %), ACE inhibitors and/or angiotensin II antagonists (91 %), diuretics (83 %), and anti-aldosterone agents (60 %).
+In the ivabradine group, 67% of patients were treated with 7.5 mg twice a day.
+The median follow-up duration was 22.9 months.
+Treatment with ivabradine was associated with an average reduction in heart rate of 15 bpm from a baseline value of 80 bpm.
+The difference in heart rate between ivabradine and placebo arms was 10.8 bpm at 28 days, 9.1 bpm at 12 months and 8.3 bpm at 24 months.
+
+The study demonstrated a clinically and statistically significant relative risk reduction of 18% in the rate of the primary composite endpoint of cardiovascular mortality and hospitalisation for worsening heart failure (hazard ratio: 0.82, 95%CI [0.75;0.90] – p<0.0001) apparent within 3 months of initiation of treatment.
+The absolute risk reduction was 4.2%.
+The results on the primary endpoint are mainly driven by the heart failure endpoints, hospitalisation for worsening heart failure (absolute risk reduced by 4.7 %) and deaths from heart failure (absolute risk reduced by 1.1 %).
+
+Treatment effect on the primary composite endpoint, its components and secondary endpoints
+
+|  | Ivabradine (N=3241) n (%) | Placebo (N=3264) n (%) | Hazard ratio [95% CI] | p-value |
+| --- | --- | --- | --- | --- |
+| Primary composite endpoint | 793 (24.47) | 937 (28.71) | 0.82 [0.75; 0.90] | <0.0001 |
+| Components of the composite: - CV death - Hospitalisation for worsening HF | 449 (13.85) 514 (15.86) | 491 (15.04) 672 (20.59) | 0.91 [0.80; 1.03] 0.74 [0.66; 0.83] | 0.128 <0.0001 |
+| Other secondary endpoints: - All cause death - Death from HF - Hospitalisation for any cause - Hospitalisation for CV reason | 503 (15.52) 113 (3.49) 1231 (37.98) 977 (30.15) | 552 (16.91) 151 (4.63) 1356 (41.54) 1122 (34.38) | 0.90 [0.80; 1.02] 0.74 [0.58;0.94] 0.89 [0.82;0.96] 0.85 [0.78; 0.92] | 0.092 0.014 0.003 0.0002 |
+
+The reduction in the primary endpoint was observed consistently irrespective of gender, NYHA class, ischaemic or non-ischaemic heart failure aetiology and of background history of diabetes or hypertension.
+
+In the subgroup of patients with HR ≥ 75 bpm (n=4150), a greater reduction was observed in the primary composite endpoint of 24 % (hazard ratio: 0.76, 95%CI [0.68;0.85] – p<0.0001) and for other secondary endpoints, including all cause death (hazard ratio: 0.83, 95%CI [0.72;0.96] – p=0.0109) and CV death (hazard ratio: 0.83, 95%CI [0.71;0.97] – p=0.0166).
+In this subgroup of patients, the safety profile of ivabradine is in line with the one of the overall population.
+
+A significant effect was observed on the primary composite endpoint in the overall group of patients receiving beta blocker therapy (hazard ratio: 0.82, 95%CI [0.76;0.94]).
+In the subgroup of patients with HR ≥ 75 bpm and on the recommended target dose of beta-blocker, no statistically significant benefit was observed on the primary composite endpoint (hazard ratio: 0.97, 95%CI [0.74;1.28]) and other secondary endpoints, including hospitalisation for worsening heart failure (hazard ratio: 0.79, 95% CI [0.56;1.10]) or death from heart failure (hazard ratio: 0.69, 95% CI [0.31;1.56]).
+
+There was a significant improvement in NYHA class at last recorded value, 887 (28%) of patients on ivabradine improved versus 776 (24%) of patients on placebo (p=0.001).
+
+[Procoralan 7.5 mg film-coated tablets]
+
+The SHIFT study was a large multicentre, international, randomised double-blind placebo controlled outcome trial. conducted in 6505 adult patients with stable chronic CHF (for ≥ 4 weeks), NYHA class II to IV, with a reduced left ventricular ejection fraction (LVEF ≤ 35%) and a resting heart rate ≥ 70 bpm.
