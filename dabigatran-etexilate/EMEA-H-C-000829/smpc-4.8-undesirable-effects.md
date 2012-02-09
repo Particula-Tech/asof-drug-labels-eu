@@ -9,8 +9,7 @@ Although rare in frequency in clinical trials, major or severe bleeding may occu
 
 Adverse reactions
 
-Table 3 shows the adverse reactions ranked under headings of SOC and frequency using the following convention: very common (≥ 1/10); common (≥ 1/100, < 1/10); uncommon (≥ 1/1,000, < 1/100); rare
-(≥ 1/10,000, < 1/1,000); very rare (< 1/10,000); not known (can not be estimated from the available data).
+Table 3 shows the adverse reactions ranked under headings of SOC and frequency using the following convention: very common (≥ 1/10); common (≥ 1/100, < 1/10); uncommon (≥ 1/1,000, < 1/100); rare (≥ 1/10,000, < 1/1,000); very rare (< 1/10,000); not known (can not be estimated from the available data).
 
 | SOC / Preferred Term. | Dabigatran etexilate 150 mg | Dabigatran etexilate 220 mg |
 | --- | --- | --- |
@@ -34,6 +33,7 @@ Table 3 shows the adverse reactions ranked under headings of SOC and frequency u
 | Wound haemorrhage | Uncommon | Uncommon |
 | Respiratory, thoracic and mediastinal disorders |  |  |
 | Epistaxis | Common | Common |
+| Haemoptysis | Uncommon | Uncommon |
 | Gastrointestinal disorders |  |  |
 | Gastrointestinal haemorrhage | Common | Common |
 | Rectal haemorrhage | Uncommon | Uncommon |
@@ -50,7 +50,7 @@ Table 3 shows the adverse reactions ranked under headings of SOC and frequency u
 | Hepatobiliary disorders |  |  |
 | Alanine aminotransferase increased | Uncommon | Uncommon |
 | Aspartate aminotransferase increased | Uncommon | Uncommon |
-| Hepatic function abnormal/ Liver function Test abnormal | Uncommon | Uncommon |
+| Hepatic function abnormal/ Liver function Test abnormal | Common | Common |
 | Hepatic enzyme increased | Uncommon | Uncommon |
 | Hyperbilirubinaemia | Uncommon | Uncommon |
 | Skin and subcutaneous tissue disorder |  |  |
@@ -62,9 +62,9 @@ Table 3 shows the adverse reactions ranked under headings of SOC and frequency u
 | General disorders and administration site conditions |  |  |
 | Injection site haemorrhage | Rare | Rare |
 | Catheter site haemorrhage | Rare | Rare |
-| Bloody discharge | Uncommon | Uncommon |
+| Bloody discharge | Rare | Rare |
 | Injury, poisoning and procedural complications |  |  |
-| Incision site haemorrhage | Rare | Rare |
+| Incision site haemorrhage | Uncommon | Uncommon |
 | Traumatic haemorrhage | Uncommon | Uncommon |
 | Post procedural haematoma | Uncommon | Uncommon |
 | Post procedural haemorrhage | Uncommon | Uncommon |
@@ -72,7 +72,7 @@ Table 3 shows the adverse reactions ranked under headings of SOC and frequency u
 | Post procedural discharge | Uncommon | Uncommon |
 | Wound secretion | Uncommon | Uncommon |
 | Surgical and medical procedures |  |  |
-| Wound drainage | Uncommon | Uncommon |
+| Wound drainage | Rare | Rare |
 | Post procedural drainage | Rare | Rare |
 
 Bleeding
@@ -112,8 +112,7 @@ Since the patient populations treated in the 2 indications are not comparable an
 
 Although low in frequency in clinical trials, major or severe bleeding may occur and, regardless of location, may lead to disabling, life-threatening or even fatal outcomes.
 
-Table 3 shows the adverse reactions identified from the primary VTE prevention studies after hip or knee replacement surgery and the prevention of thromboembolic stroke and SEE in patients with atrial fibrillation program ranked under headings of SOC and frequency using the following convention: very common
-(≥ 1/10); common (≥ 1/100, < 1/10); uncommon (≥ 1/1,000, < 1/100); rare (≥ 1/10,000, < 1/1,000); very rare (< 1/10,000); not known (can not be estimated from the available data).
+Table 3 shows the adverse reactions identified from the primary VTE prevention studies after hip or knee replacement surgery and the prevention of thromboembolic stroke and SEE in patients with atrial fibrillation program ranked under headings of SOC and frequency using the following convention: very common (≥ 1/10); common (≥ 1/100, < 1/10); uncommon (≥ 1/1,000, < 1/100); rare (≥ 1/10,000, < 1/1,000); very rare (< 1/10,000); not known (can not be estimated from the available data).
 
 |  | Primary VTE prevention after hip or knee replacement surgery |  | Stroke and SEE prevention in patients with atrial fibrillation |  |
 | --- | --- | --- | --- | --- |
@@ -138,7 +137,7 @@ Table 3 shows the adverse reactions identified from the primary VTE prevention s
 | Haemorrhage | Uncommon | Uncommon | Uncommon | Uncommon |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |  |
 | Epistaxis | Common | Common | Common | Common |
-| Haemoptysis | - | - | Uncommon | Uncommon |
+| Haemoptysis | Uncommon | Uncommon | Uncommon | Uncommon |
 | Gastrointestinal disorders |  |  |  |  |
 | Gastrointestinal haemorrhage | Common | Common | Common | Common |
 | Abdominal pain | Common | Common | Common | Common |
@@ -155,7 +154,7 @@ Table 3 shows the adverse reactions identified from the primary VTE prevention s
 | Hepatobiliary disorders |  |  |  |  |
 | Alanine aminotransferase increased | Uncommon | Uncommon | Uncommon | Uncommon |
 | Aspartate aminotransferase increased | Uncommon | Uncommon | Uncommon | Uncommon |
-| Hepatic function abnormal/ Liver function Test abnormal | Uncommon | Uncommon | Uncommon | Uncommon |
+| Hepatic function abnormal/ Liver function Test abnormal | Common | Common | Common | Common |
 | Hepatic enzyme increased | Uncommon | Uncommon | Rare | Rare |
 | Transaminases increased | Uncommon | Uncommon | - | - |
 | Hyperbilirubinaemia | Uncommon | Uncommon | Rare | Rare |
@@ -169,7 +168,7 @@ Table 3 shows the adverse reactions identified from the primary VTE prevention s
 | General disorders and administration site conditions |  |  |  |  |
 | Injection site haemorrhage | Rare | Rare | Rare | Rare |
 | Catheter site haemorrhage | Rare | Rare | Rare | Rare |
-| Bloody discharge | Uncommon | Uncommon | - | - |
+| Bloody discharge | Rare | Rare | - | - |
 | Injury, poisoning and procedural complications |  |  |  |  |
 | Traumatic haemorrhage | Uncommon | Uncommon | - | - |
 | Post procedural haematoma | Uncommon | Uncommon | - | - |
@@ -177,16 +176,19 @@ Table 3 shows the adverse reactions identified from the primary VTE prevention s
 | Anaemia postoperative | Uncommon | Uncommon | - | - |
 | Post procedural discharge | Uncommon | Uncommon | - | - |
 | Wound secretion | Uncommon | Uncommon | - | - |
-| Incision site haemorrhage | Rare | Rare | Rare | Rare |
+| Incision site haemorrhage | Uncommon | Uncommon | Uncommon | Uncommon |
 | Surgical and medical procedures |  |  |  |  |
-| Wound drainage | Uncommon | Uncommon | - | - |
+| Wound drainage | Rare | Rare | - | - |
 | Post procedural drainage | Rare | Rare | - | - |
 
 Prevention of VTE
 
-|  | Dabigatran etexilate 150 mg once daily N (%) | Dabigatran etexilate 220 mg once daily N (%) | Enoxaparin N (%) |
-| --- | --- | --- | --- |
+Dabigatran etexilate Dabigatran etexilate Enoxaparin
+150 mg once daily 220 mg once daily
+N (%) N (%) N (%)
+
 | Treated | 1,866 (100.0) | 1,825 (100.0) | 1,848 (100.0) |
+| --- | --- | --- | --- |
 | Major Bleeding | 24 (1.3) | 33 (1.8) | 27 (1.5) |
 | Any bleeding | 258 (13.8) | 251 (13.8) | 247 (13.4) |
 
@@ -208,10 +210,10 @@ Major bleeding was defined to fulfil one or more of the following criteria:
 Bleeding associated with a reduction in haemoglobin of at least 20 g/l or leading to a transfusion of at least 2 units of blood or packed cells.
 Symptomatic bleeding in a critical area or organ: intraocular, intracranial, intraspinal or intramuscular with compartment syndrome, retroperitoneal bleeding, intra-articular bleeding or pericardial bleeding.
 
-Major bleeds were classified as life-threatening if they fulfilled one or more of the following criteria:
-Fatal bleed; symptomatic intracranial bleed; reduction in haemoglobin of at least 50 g/l; transfusion of at least 4 units of blood or packed cells; a bleed associated with hypotension requiring the use of intravenous inotropic agents; a bleed that necessitated surgical intervention.
+Major bleeds were classified as life-threatening if they fulfilled one or more of the following criteria: Fatal bleed; symptomatic intracranial bleed; reduction in haemoglobin of at least 50 g/l; transfusion of at least 4 units of blood or packed cells; a bleed associated with hypotension requiring the use of intravenous inotropic agents; a bleed that necessitated surgical intervention.
 
-Subjects randomized to dabigatran etexilate 110 mg twice daily or 150 mg twice daily had a significantly lower risk for life-threatening bleeds and intracranial bleeding compared to warfarin [p < 0.05].
+Subjects randomized to dabigatran etexilate 110 mg twice daily or 150 mg twice daily had a significantly lower risk for life-threatening bleeds and intracranial bleeding compared to warfarin [p
+< 0.05].
 Both dose strengths of dabigatran etexilate had also a statistically significant lower total bleed rate.
 Subjects randomized to dabigatran etexilate 110 mg twice daily had a significantly lower risk for major bleeds compared with warfarin (hazard ratio 0.80 [p=0.0026]).
 Subjects randomized to dabigatran etexilate 150 mg twice daily had a significantly higher risk for major GI bleeds compared with warfarin (hazard ratio 1.47 [p=0.0008].
@@ -272,7 +274,7 @@ Table 3 shows the adverse reactions identified from the prevention of thromboemb
 | Hepatobiliary disorders |  |  |
 | Alanine aminotransferase increased | Uncommon | Uncommon |
 | Aspartate aminotransferase increased | Uncommon | Uncommon |
-| Hepatic function abnormal/ Liver function Test abnormal | Uncommon | Uncommon |
+| Hepatic function abnormal/ Liver function Test abnormal | Common | Common |
 | Hepatic enzyme increased | Rare | Rare |
 | Hyperbilirubinaemia | Rare | Rare |
 | Skin and subcutaneous tissue disorder |  |  |
@@ -286,6 +288,6 @@ Table 3 shows the adverse reactions identified from the prevention of thromboemb
 | Injection site haemorrhage | Rare | Rare |
 | Catheter site haemorrhage | Rare | Rare |
 | Injury, poisoning and procedural complications |  |  |
-| Incision site haemorrhage | Rare | Rare |
+| Incision site haemorrhage | Uncommon | Uncommon |
 
 The table 4 shows bleeding events broken down to major and any bleeding in the pivotal study testing the prevention of thromboembolic stroke and SEE in patients with atrial fibrillation.

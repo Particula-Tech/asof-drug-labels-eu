@@ -10,7 +10,6 @@ There is no specific antidote to dabigatran.
 In the event of haemorrhagic complications, treatment must be discontinued and the source of bleeding investigated.
 Since dabigatran is excreted predominantly by the renal route adequate diuresis must be maintained.
 Appropriate supportive treatment, such as surgical haemostasis and blood volume replacement, should be undertaken at the prescribers discretion.
-
 As protein binding is low, dabigatran can be dialysed; there is limited clinical experience to demonstrate the utility of this approach in clinical studies.
 
 [Pradaxa 110 mg hard capsules]

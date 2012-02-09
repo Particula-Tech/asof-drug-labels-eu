@@ -9,6 +9,7 @@ Since thrombin (serine protease) enables the conversion of fibrinogen into fibri
 Dabigatran also inhibits free thrombin, fibrin-bound thrombin and thrombin-induced platelet aggregation.
 
 In-vivo and ex-vivo animal studies have demonstrated antithrombotic efficacy and anticoagulant activity of dabigatran after intravenous administration and of dabigatran etexilate after oral administration in various animal models of thrombosis.
+
 There is a clear correlation between plasma dabigatran concentration and degree of anticoagulant effect based on phase II studies.
 
 Steady state (after day 3) geometric mean dabigatran peak plasma concentration, measured around 2 hours after 220 mg dabigatran etexilate administration, was 70.8 ng/ml, with a range of 35.2-162 ng/ml (25th-75th percentile range).The dabigatran geometric mean trough concentration, measured at the end of the dosing interval (i.e. 24 hours after a 220 mg dabigatran dose), was on average 22.0 ng/ml, with a range of 13.0-35.7 ng/ml (25th-75th percentile range) (see section 4.4).
@@ -21,8 +22,8 @@ No clinically relevant ethnic differences among Caucasians, African-American, Hi
 
 Clinical trials in Venous Thromboembolism (VTE) prophylaxis following major joint replacement surgery
 
-In 2 large randomized, parallel group, double-blind, dose–confirmatory trials, patients undergoing elective major orthopaedic surgery (one for knee replacement surgery and one for hip replacement surgery) received Pradaxa 75 mg or 110 mg within 1-4 hours of surgery followed by 150 mg or 220 mg daily thereafter, haemostasis having been secured, or enoxaparin 40 mg on the day prior to surgery and daily thereafter.
-In the RE-MODEL trial (knee replacement) treatment was for 6–10 days and in the RE-NOVATE trial (hip replacement) for 28–35 days.
+In 2 large randomized, parallel group, double-blind, dose-confirmatory trials, patients undergoing elective major orthopaedic surgery (one for knee replacement surgery and one for hip replacement surgery) received Pradaxa 75 mg or 110 mg within 1-4 hours of surgery followed by 150 mg or 220 mg daily thereafter, haemostasis having been secured, or enoxaparin 40 mg on the day prior to surgery and daily thereafter.
+In the RE-MODEL trial (knee replacement) treatment was for 6-10 days and in the RE-NOVATE trial (hip replacement) for 28-35 days.
 Totals of 2076 patients (knee) and 3494 (hip) were treated respectively.
 
 Composite of total VTE (including PE, proximal and distal DVT, whatever symptomatic or asymptomatic detected by routine venography) and all-cause mortality constituted the primary end-point for both studies.
@@ -41,6 +42,7 @@ None of these diseases showed an impact on the effects of dabigatran on VTE-prev
 Data for the major VTE and VTE-related mortality endpoint were homogeneous with regards to the primary efficacy endpoint and are shown in table 5.
 
 Data for the total VTE and all cause mortality endpoint are shown in table 6.
+
 Data for adjudicated major bleeding endpoints are shown in table 7 below.
 
 Table 5: Analysis of major VTE and VTE-related mortality during the treatment period in the RE-MODEL and the RE-NOVATE orthopaedic surgery studies
@@ -70,8 +72,10 @@ Table 6: Analysis of total VTE and all cause mortality during the treatment peri
 | RE-MODEL (knee) |  |  |  |
 | N | 503 | 526 | 512 |
 | Incidences (%) | 183 (36.4) | 213 (40.5) | 193 (37.7) |
-| Risk ratio over enoxaparin | 0.97 | 1.07 |  |
-| 95 % CI | (0.82, 1.13) | (0.92, 1.25) |  |
+| Risk ratio over | 0.97 | 1.07 |  |
+
+enoxaparin
+95 % CI (0.82, 1.13) (0.92, 1.25)
 
 Table 7: Major bleeding events by treatment in the individual RE-MODEL and the RE-NOVATE studies
 
@@ -85,17 +89,18 @@ Table 7: Major bleeding events by treatment in the individual RE-MODEL and the R
 | Number of MBE N(%) | 10 (1.5) | 9 (1.3) | 9 (1.3) |
 
 Paediatric population
-The European Medicines Agency has waived the obligation to submit the results of studies with Pradaxa in all subsets of the paediatric population in prevention of thromboembolic events in the granted indication.
+
+The European Medicines Agency has waived the obligation to submit the results of studies with Pradaxa in all subsets of the paediatric population in prevention of thromboembolic events in the granted indication (see section 4.2 for information on paediatric use).
 
 [Pradaxa 110 mg hard capsules]
 
 Prevention of VTE
 
 Prevention of stroke and SEE in adult patients with nonvalvular atrial fibrillation with one or more risk factors
-Steady state geometric mean dabigatran peak plasma concentration, measured around 2 hours after 150 mg dabigatran etexilate administration twice daily, was 175 ng/ml, with a range of 117-275 ng/ml (25th–75th percentile range).
-The dabigatran geometric mean trough concentration, measured at trough in the morning, at the end of the dosing interval (i.e. 12 hours after the 150 mg dabigatran evening dose), was on average 91.0 ng/ml, with a range of 61.0-143 ng/ml (25th–75th percentile range).
+Steady state geometric mean dabigatran peak plasma concentration, measured around 2 hours after 150 mg dabigatran etexilate administration twice daily, was 175 ng/ml, with a range of 117-275 ng/ml (25th-75th percentile range).
+The dabigatran geometric mean trough concentration, measured at trough in the morning, at the end of the dosing interval (i.e. 12 hours after the 150 mg dabigatran evening dose), was on average 91.0 ng/ml, with a range of 61.0-143 ng/ml (25th-75th percentile range).
 
-In 2 large randomized, parallel group, double-blind, dose–confirmatory trials, patients undergoing elective major orthopaedic surgery (one for knee replacement surgery and one for hip replacement surgery) received Pradaxa 75 mg or 110 mg within 1-4 hours of surgery followed by 150 mg or 220 mg once daily thereafter, haemostasis having been secured, or enoxaparin 40 mg on the day prior to surgery and daily thereafter.
+In 2 large randomized, parallel group, double-blind, dose-confirmatory trials, patients undergoing elective major orthopaedic surgery (one for knee replacement surgery and one for hip replacement surgery) received Pradaxa 75 mg or 110 mg within 1-4 hours of surgery followed by 150 mg or 220 mg once daily thereafter, haemostasis having been secured, or enoxaparin 40 mg on the day prior to surgery and daily thereafter.
 Totals of 2,076 patients (knee) and 3,494 (hip) were treated respectively.
 
 The point estimate for incidence of Major VTE and VTE related mortality for the 150 mg dose was slightly worse than enoxaparin (table 6).
@@ -104,16 +109,13 @@ Better results were seen with the 220 mg dose where the point estimate of Major 
 In the studied patient population of RE-MODEL and RE-NOVATE (5,539 patients treated), 51 % suffered from concomitant hypertension, 9 % from concomitant diabetes, 9 % from concomitant coronary artery disease and 20 % had a history of venous insufficiency.
 
 Data for the major VTE and VTE-related mortality endpoint were homogeneous with regards to the primary efficacy endpoint and are shown in table 6.
-
 Data for the total VTE and all cause mortality endpoint are shown in table 7.
 
 Data for adjudicated major bleeding endpoints are shown in table 8 below.
 
 Table 6: Analysis of major VTE and VTE-related mortality during the treatment period in the RE-MODEL and the RE-NOVATE orthopaedic surgery studies.
 
-Trial Dabigatran etexilate Dabigatran etexilate Enoxaparin
-
-|  | 220 mg once daily | 150 mg once daily | 40 mg |
+| Trial | Dabigatran etexilate 220 mg once daily | Dabigatran etexilate 150 mg once daily | Enoxaparin 40 mg |
 | --- | --- | --- | --- |
 | RE-NOVATE (hip) |  |  |  |
 | N | 909 | 888 | 917 |
@@ -158,7 +160,8 @@ Statistical superiority was also analyzed.
 
 In the RE-LY study, a total of 18,113 patients were randomized, with a mean age of 71.5 years and a mean CHADS2 score of 2.1.
 The patient population was 64 % male, 70 % Caucasian and 16 % Asian.
-For patients randomized to warfarin, the mean percentage of time in therapeutic range (TTR) (INR 2-3) was 64.4 % (median TTR 67 %).
+For patients randomized to warfarin, the mean percentage of time in therapeutic range (TTR)
+(INR 2-3) was 64.4 % (median TTR 67 %).
 
 The RE-LY study demonstrated that dabigatran etexilate, at a dose of 110 mg twice daily, is non-inferior to warfarin in the prevention of stroke and SEE in subjects with atrial fibrillation, with a reduced risk of ICH, total bleeding and major bleeding.
 The dose of 150 mg twice daily reduces significantly the risk of ischemic and haemorrhagic stroke, vascular death, ICH and total bleeding compared to warfarin.
@@ -266,28 +269,6 @@ Tables 5-7 display details of key results in the overall population:
 Table 5: Analysis of first occurrence of stroke or SEE (primary endpoint) during the study period in RE-LY.
 
 Table 6: Analysis of first occurrence of ischemic or haemorrhagic strokes during the study period in RE-LY.
-
-Dabigatran etexilate Dabigatran etexilate Warfarin
-
-|  | 110 mg twice daily | 150 mg twice daily |  |
-| --- | --- | --- | --- |
-| Subjects randomized | 6,015 | 6,076 | 6,022 |
-| Stroke |  |  |  |
-| Incidences (%) | 171 (1.44) | 122 (1.01) | 186 (1.58) |
-| Hazard ratio vs. warfarin (95 % CI) | 0.91 (0.74, 1.12) | 0.64 (0.51, 0.81) |  |
-| p-value | 0.3828 | 0.0001 |  |
-| SEE |  |  |  |
-| Incidences (%) | 15 (0.13) | 13 (0.11) | 21 (0.18) |
-| Hazard ratio vs. warfarin (95 % CI) | 0.71 (0.37, 1.38) | 0.61 (0.30, 1.21) |  |
-| p-value | 0.3099 | 0.1582 |  |
-| Ischemic stroke |  |  |  |
-| Incidences (%) | 152 (1.28) | 103 (0.86) | 134 (1.14) |
-| Hazard ratio vs. warfarin (95 % CI) | 1.13 (0.89, 1.42) | 0.75 (0.58, 0.97) |  |
-| p-value | 0.3139 | 0.0296 |  |
-| Haemorrhagic stroke |  |  |  |
-| Incidences (%) | 14 (0.12) | 12 (0.10) | 45 (0.38) |
-| Hazard ratio vs. warfarin (95 % CI) | 0.31 (0.17, 0.56) | 0.26 (0.14, 0.49) |  |
-| p-value | < 0.001 | < 0.001 |  |
 
 Table 7: Analysis of all cause and cardiovascular survival during the study period in RE-LY.
 

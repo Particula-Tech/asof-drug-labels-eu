@@ -7,19 +7,20 @@ Prevention of Venous Thromboembolism (VTE)
 Patients following elective knee replacement surgery
 
 The recommended dose of Pradaxa is 220 mg once daily taken as 2 capsules of 110 mg.
-Treatment should be initiated orally within 1–4 hours of completed surgery with a single capsule and continuing with 2 capsules once daily thereafter for a total of 10 days.
+Treatment should be initiated orally within 1-4 hours of completed surgery with a single capsule and continuing with 2 capsules once daily thereafter for a total of 10 days.
 
 Patients following elective hip replacement surgery
 
 The recommended dose of Pradaxa is 220 mg once daily taken as 2 capsules of 110 mg.
-Treatment should be initiated orally within 1–4 hours of completed surgery with a single capsule and continuing with 2 capsules once daily thereafter for a total of 28-35 days.
+Treatment should be initiated orally within 1-4 hours of completed surgery with a single capsule and continuing with 2 capsules once daily thereafter for a total of 28-35 days.
 
 For both surgeries, if haemostasis is not secured, initiation of treatment should be delayed.
 If treatment is not started on the day of surgery then treatment should be initiated with 2 capsules once daily.
 
 Renal impairment
-Treatment with Pradaxa in patients with severe renal impairment creatinine clearance (CrCL) < 30 ml/min) is contraindicated (see section 4.3).
 
+Treatment with Pradaxa in patients with severe renal impairment (creatinine clearance (CrCL)
+< 30 ml/min) is contraindicated (see section 4.3).
 In patients with moderate renal impairment (CrCL 30-50 ml/min), there is limited clinical experience.
 These patients should be treated with caution.
 The recommended dose is 150 mg taken once daily as 2 capsules of 75 mg (see sections 4.4 and 5.1).
@@ -57,12 +58,12 @@ Given the available clinical and kinetic data no adjustment is necessary (see se
 Gender
 
 Given the available clinical and kinetic data, no dose adjustment is necessary (see section 5.2).
+
 Switching
 
 Pradaxa treatment to parenteral anticoagulant
 
 It is recommended to wait 24 hours after the last dose before switching from Pradaxa to a parenteral anticoagulant (see section 4.5).
-
 Parenteral anticoagulants to Pradaxa
 
 Dabigatran etexilate should be given 0-2 hours prior to the time that the next dose of the alternate therapy would be due, or at the time of discontinuation in case of continuous treatment (e.g. intravenous Unfractionated Heparin (UFH)) (see section 4.5).
@@ -95,11 +96,11 @@ In case of intolerability to dabigatran, patients should be instructed to immedi
 
 Patients between 75-80 years should be treated with a daily dose of 300 mg taken as one 150 mg capsule twice daily.
 A dose of 220 mg taken as one 110 mg capsule twice daily can be individually considered, at the discretion of the physician, when the thromboembolic risk is low and the bleeding risk is high (see section 4.4).
+
 Patients aged 80 years or above should be treated with a daily dose of 220 mg taken as one 110 mg capsule twice daily due to the increased risk of bleeding in this population.
 
 As renal impairment may be frequent in the elderly (>75 years), renal function should be assessed by calculating the CrCL prior to initiation of treatment with Pradaxa to exclude patients with severe renal impairment (i.e. CrCL < 30 ml/min ).
 The renal function should also be assessed at least once a year in patients treated with Pradaxa or more frequently as needed in certain clinical situations when it is suspected that the renal function could decline or deteriorate (such as hypovolemia, dehydration, and with certain comedications, etc) (see sections 4.3, 4.4 and 5.2).
-
 Patients at risk of bleeding
 
 Patients with an increased bleeding risk (see sections 4.4, 4.5, 5.1 and 5.2) should be closely monitored clinically (looking for signs of bleeding or anaemia).
@@ -109,8 +110,6 @@ When excessive dabigatran exposure is identified in patients at high risk of ble
 When clinically relevant bleeding occurs, treatment should be interrupted.
 
 For subjects with gastritis, esophagitis, or gastroesophageal reflux, the dose of 220 mg taken as one 110 mg capsule twice daily may be considered due to the elevated risk of major gastro-intestinal bleeding (see section 4.4).
-
-Treatment with Pradaxa in patients with severe renal impairment (creatinine clearance (CrCL) < 30 ml/min) is contraindicated (see section 4.3).
 
 No dose adjustment is necessary in patients with mild renal impairment (CrCL 50- ≤ 80 ml/min).
 For patients with moderate renal impairment (CrCL 30-50 ml/min) the recommended dose of Pradaxa is also 300 mg taken as one 150 mg capsule twice daily.

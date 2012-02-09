@@ -1,6 +1,6 @@
 # 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-18 March 2008
+Date of first authorisation: 18 March 2008
 
 [Pradaxa 110 mg hard capsules]
 
@@ -8,4 +8,4 @@
 
 [Pradaxa 150 mg hard capsules]
 
-{01/08/2011}
+Date of first authorisation: 01 August 2011

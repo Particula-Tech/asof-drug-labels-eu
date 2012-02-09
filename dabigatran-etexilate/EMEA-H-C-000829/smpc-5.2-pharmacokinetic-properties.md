@@ -18,7 +18,6 @@ Hence, the integrity of the HPMC capsules should always be preserved in clinical
 Therefore, patients should be advised not to open the capsules and taking the pellets alone (e.g. sprinkled over food or into beverages) (see section 4.2).
 
 Distribution
-
 Low (34-35 %) concentration independent binding of dabigatran to human plasma proteins was observed.
 The volume of distribution of dabigatran of 60–70 l exceeded the volume of total body water indicating moderate tissue distribution of dabigatran.
 Cmax and the area under the plasma concentration-time curve were dose proportional.
@@ -37,6 +36,7 @@ Dabigatran is subject to conjugation forming pharmacologically active acylglucur
 Four positional isomers, 1-O, 2-O, 3-O, 4-O-acylglucuronide exist, each accounts for less than 10 % of total dabigatran in plasma.
 Traces of other metabolites were only detectable with highly sensitive analytical methods.
 Dabigatran is eliminated primarily in the unchanged form in the urine, at a rate of approximately 100 ml/min corresponding to the glomerular filtration rate.
+
 Special populations
 
 Renal insufficiency
@@ -76,6 +76,7 @@ Pharmacokinetic interactions
 
 The pro-drug dabigatran etexilate but not dabigatran is a substrate of the efflux transporter P-gp.
 Therefore co-medications with P-gp transporter inhibitors (amiodarone, verapamil, clarithromycin, quinidine and ketoconazole) and inducers (rifampicin) had been investigated (see sections 4.2, 4.4 and 4.5).
+
 In vitro interaction studies did not show any inhibition or induction of the principal isoenzymes of cytochrome P450.
 This has been confirmed by in vivo studies with healthy volunteers, who did not show any interaction between this treatment and the following active substances: atorvastatin (CYP3A4), digoxin (P-gp transporter interaction) and diclofenac (CYP2C9).
 
@@ -93,15 +94,11 @@ Table 14: Half-life of total dabigatran in healthy subjects and subjects with im
 | < 30 | 27.2(15.3 %; 21.6-35.0) |
 
 The median CrCL in RE-LY was 68.4 ml/min.
-Almost half (45.8 %) of the RE-LY patients had a CrCL
-> 50-< 80 ml/min.
+Almost half (45.8 %) of the RE-LY patients had a CrCL > 50-< 80 ml/min.
 Patients with moderate renal impairment (CrCL between 30-50 ml/min) had on average 2.29-fold and 1.81-fold higher pre- and post-dose dabigatran plasma concentrations, respectively, when compared with patients without renal impairment (CrCL ≥ 80 ml/min).
 
 In atrial fibrillation patients females had on average 30 % higher trough and post-dose concentrations.
 No dose adjustment is required (see section 4.2).
-
-No clinically relevant inter-ethnic differences among Caucasian, African-American, Hispanic,
-Japanese or Chinese patients were observed regarding dabigatran pharmacokinetics and pharmacodynamics.
 
 [Pradaxa 150 mg hard capsules]
 
@@ -110,15 +107,6 @@ Peak plasma concentrations are reached at 6 hours following administration in a 
 Half-life is prolonged if renal function is impaired as shown in table 10.
 
 Table 10: Half-life of total dabigatran in healthy subjects and subjects with impaired renal function.
-
-glomerular filtration rate gMean (gCV %; range)
-
-| (CrCL,) [ml/min] | half-life [h] |
-| --- | --- |
-| ≥ 80 | 13.4 (25.7 %; 11.0-21.6) |
-| ≥ 50-< 80 | 15.3 (42.7 %;11.7-34.1) |
-| ≥ 30-< 50 | 18.4 (18.5 %;13.3-23.0) |
-| < 30 | 27.2(15.3 %; 21.6-35.0) |
 
 Patients with moderate renal impairment (CrCL between 30 and 50 ml/min) had on average 2.29-fold and 1.81-fold higher pre- and post-dose dabigatran plasma concentrations, respectively, when compared with patients without renal impairment (CrCL ≥ 80 ml/min).
 
