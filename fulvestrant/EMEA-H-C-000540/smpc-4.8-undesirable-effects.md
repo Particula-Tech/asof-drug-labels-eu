@@ -22,6 +22,8 @@ Table 1 Adverse Drug Reactions
 | Gastrointestinal disorders | Very common | Nausea |
 |  | Common | Vomiting, diarrhoea |
 | Hepatobiliary disorders | Very common | Increased hepatic enzymes (ALT, AST, ALP)a |
+|  | Common | Elevated bilirubina |
+|  | Uncommon | Hepatic failurec, hepatitisc, elevated gamma-GT |
 | Skin and subcutaneous tissue disorders | Common | Rash |
 | Musculoskeletal and connective tissue disorders | Common | Back paina |
 | Reproductive system and breast disorders | Uncommon | Vaginal moniliasis, leukorrhea, vaginal haemorrhage |
@@ -30,3 +32,6 @@ Table 1 Adverse Drug Reactions
 
 a Includes adverse drug reactions for which the exact contribution of Faslodex cannot be assessed due to the underlying disease.
 b The term injection site reactions does not include the terms injection site haemorrhage and injection site haematoma.
+c The event was not observed in major clinical studies (CONFIRM, FINDER 1, FINDER 2, NEWEST).
+The frequency has been calculated using the upper limit of the 95% confidence interval for the point estimate.
+This is calculated as 3/563 (where 563 is the number of patients in the major clinical studies), which equates to a frequency category of ‘uncommon’.

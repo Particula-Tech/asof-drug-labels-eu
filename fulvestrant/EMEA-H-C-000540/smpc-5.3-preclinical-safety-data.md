@@ -19,5 +19,7 @@ Increases in placental weight and post-implantation loss of foetuses were seen.
 There was an increased incidence of foetal variations in rabbits (backwards displacement of the pelvic girdle and 27 pre-sacral vertebrae).
 
 A two-year oncogenicity study in rats (intramuscular administration of Faslodex) showed increased incidence of ovarian benign granulosa cell tumours in female rats at the high dose, 10 mg/rat/15 days and an increased incidence of testicular Leydig cell tumours in males.
-Induction of such tumours is consistent with pharmacology-related endocrine feedback alterations.
-These findings are not of clinical relevance for the use of fulvestrant in postmenopausal women with advanced breast cancer.
+In a two-year mouse oncogenicity study (daily oral administration) there was an increased incidence of ovarian sex cord stromal tumours (both benign and malignant) at doses of 150 and 500 mg/kg/day.
+At the no-effect level for these findings, systemic exposure levels (AUC) were, in rats, approximately 1.5–fold the expected human exposure levels in females and 0.8-fold in males, and in mice, approximately 0.8-fold the expected human exposure levels in both males and females.
+Induction of such tumours is consistent with pharmacology-related endocrine feedback alterations in gonadotropin levels caused by anti-estrogens in cycling animals.
+Therefore these findings are not considered to be relevant to the use of fulvestrant in postmenopausal women with advanced breast cancer.

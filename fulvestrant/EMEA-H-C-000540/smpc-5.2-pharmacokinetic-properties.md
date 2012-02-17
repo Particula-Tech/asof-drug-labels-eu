@@ -29,6 +29,7 @@ The terminal half-life (t1/2) after intramuscular administration is governed by 
 
 Special populations
 In a population pharmacokinetic analysis of data from phase III studies, no difference in fulvestrant’s pharmacokinetic profile was detected with regard to age (range 33 to 89 years), weight (40-127 kg) or race.
+
 Renal impairment
 Mild to moderate impairment of renal function did not influence the pharmacokinetics of fulvestrant to any clinically relevant extent.
 

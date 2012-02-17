@@ -25,13 +25,30 @@ treatment (N=362) (N=374) Hazard ratio 95% CI p-value
 
 comparison
 
-| PFS K-M median in months; hazard ratio All Patients -AE subgroup (n=423) -AI subgroup (n=313)a | 6.5 8.6 5.4 | 5.5 5.8 4.1 | 0.80 0.68, 0.94 0.006 0.76 0.62, 0.94 0.013 0.85 0.67, 1.08 0.195 |
-| --- | --- | --- | --- |
-| OS K-M median in months; hazard ratio All Patients -AE subgroup (n=423) -AI subgroup (n=313)a | 25.1 27.9 24.1 | 22.8 25.9 20.8 | 0.84 0.69, 1.03 0.091 0.85 0.65, 1.13 0.264 0.83 0.62, 1.12 0.216 |
-| Variable Type of estimate; treatment comparison | Faslodex 500 mg (N=362) | Faslodex 250 mg (N=374) | Comparison between groups (Faslodex 500 mg/Faslodex 250 mg) Absolute 95% CI difference in % |
-| ORRb % of patients with OR; absolute |  |  |  |
+PFS K-M median
 
-difference in %
+in months;
+hazard ratio
+
+All Patients 6.5 5.5 0.80 0.68, 0.94 0.006
+-AE subgroup (n=423) 8.6 5.8 0.76 0.62, 0.94 0.013
+-AI subgroup (n=313)a 5.4 4.1 0.85 0.67, 1.08 0.195
+OS K-M median
+
+in months;
+hazard ratio
+
+All Patients 25.1 22.8 0.84 0.69, 1.03 0.091
+-AE subgroup (n=423) 27.9 25.9 0.85 0.65, 1.13 0.264
+-AI subgroup (n=313)a 24.1 20.8 0.83 0.62, 1.12 0.216
+Variable Type of Faslodex Faslodex Comparison between groups
+estimate; 500 mg 250 mg (Faslodex 500 mg/Faslodex 250 mg)
+treatment (N=362) (N=374) Absolute 95% CI
+comparison difference in %
+ORRb % of patients
+
+with OR;
+absolute difference in %
 
 All Patients 13.8 14.6 -0.8 -5.8, 6.3
 -AE subgroup (n=296) 18.1 19.1 -1.0 -8.2, 9.3
@@ -78,6 +95,7 @@ In two short-term studies (1 and 12 weeks) in premenopausal patients with benign
 Effects on bone
 There are no long-term data on the effect of fulvestrant on bone.
 Neoadjuvant treatment for up to 16 weeks in breast cancer patients with either Faslodex 500 mg or Faslodex 250 mg did not result in clinically significant changes in serum bone-turnover markers.
+
 Paediatric population
 Faslodex is not indicated for use in children.
 The European Medicines Agency has waived the obligation to submit the results of studies with Faslodex in all subsets of the paediatric population in breast cancer (see section 4.2 for information on paediatric use).

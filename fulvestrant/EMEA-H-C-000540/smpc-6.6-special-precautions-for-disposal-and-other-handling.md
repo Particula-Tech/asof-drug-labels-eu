@@ -15,7 +15,7 @@ Luer connector Luer-Lok to remove the cover with the attached rubber tip cap (se
 
 packaging.
 Attach the safety needle to the Luer-Lok (see
-Figure 2)
+Figure 2).
 
 - Twist until firmly seated.
 - Twist to lock the needle to the Luer connector.
@@ -33,4 +33,4 @@ Listen for click and visually confirm needle tip is fully covered.
 
 Disposal
 Pre-filled syringes are for single use only.
-Any unused product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
