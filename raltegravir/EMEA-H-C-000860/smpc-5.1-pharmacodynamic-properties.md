@@ -22,7 +22,7 @@ Preliminary data indicate that there is potential for at least some degree of cr
 
 Clinical experience
 The evidence of efficacy of ISENTRESS is based on the analyses of 96-week data from two ongoing, randomised, double-blind, placebo-controlled trials, (BENCHMRK 1 and BENCHMRK 2,
-Protocols 018 and 019) in antiretroviral treatment-experienced HIV-1 infected adult patients and the analysis of 96-week data from an ongoing, randomised, double-blind, active-control trial, (STARTMRK, Protocol 021) in antiretroviral treatment-naïve HIV-1 infected adult patients.
+Protocols 018 and 019) in antiretroviral treatment-experienced HIV-1 infected adult patients and the analysis of 156-week data from an ongoing, randomised, double-blind, active-control trial, (STARTMRK, Protocol 021) in antiretroviral treatment-naïve HIV-1 infected adult patients.
 
 Efficacy
 Treatment-experienced patients
@@ -64,12 +64,6 @@ CD4-count ≤ 50 cells/mm3 61 (53, 69) 21 (13, 32) 51 (42, 60) 14 (7, 24)
 
 ≤ 200 cells/mm3
 
-> 200 cells/mm3 83 (76, 89) 51 (39, 63) 78 (70, 85) 42 (30, 55)
-
-Sensitivity score (GSS) §
-0 52 (42, 61) 8 (3, 17) 46 (36, 56) 5 (1, 13) 1 81 (75, 87) 40 (30, 51) 76 (69, 83) 31 (22, 42)
-
-2 and above 84 (77, 89) 65 (52, 76) 71 (63, 78) 56 (43, 69)
 BENCHMRK 1 and 2 Pooled 48 Weeks 96 Weeks
 
 ISENTRESS Placebo + ISENTRESS Placebo + OBT
@@ -79,6 +73,14 @@ daily + OBT B twice daily +
 (N = 462) T OBT
 
 (N = 237) (N = 462)
+
+> 200 cells/mm3 83 (76, 89) 51 (39, 63) 78 (70, 85) 42 (30, 55)
+
+Sensitivity score (GSS) §
+0 52 (42, 61) 8 (3, 17) 46 (36, 56) 5 (1, 13) 1 81 (75, 87) 40 (30, 51) 76 (69, 83) 31 (22, 42)
+
+2 and above 84 (77, 89) 65 (52, 76) 71 (63, 78) 56 (43, 69)
+
 Percent HIV-RNA < 50 copies/ml (95 %
 CI)
 
@@ -135,7 +137,6 @@ Raltegravir achieved virologic responses (using Not Completer=Failure approach) 
 < 50 copies/ml in 61.7 % of patients at Week 16, in 62.1 % at Week 48 and in 57.0 % at Week 96.
 Some patients experienced viral rebound between Week 16 and Week 96.
 Factors associated with failure include high baseline viral load and OBT that did not include at least one potent active agent.
-
 Switch to raltegravir
 The SWITCHMRK 1 & 2 (Protocols 032 & 033) studies evaluated HIV-infected patients receiving suppressive (screening HIV RNA < 50 copies/ml; stable regimen > 3 months) therapy with lopinavir 200 mg (+) ritonavir 50 mg 2 tablets twice daily plus at least 2 nucleoside reverse transcriptase inhibitors and randomized them 1:1 to continue lopinavir (+) ritonavir 2 tablets twice daily (n=174 and n=178, respectively) or replace lopinavir (+) ritonavir with raltegravir 400 mg twice daily (n=174 and n=176, respectively).
 Patients with a prior history of virological failure were not excluded and the number of previous antiretroviral therapies was not limited.
@@ -151,49 +152,70 @@ Randomization was stratified by screening HIV RNA level
 
 Patient demographics (gender, age and race) and baseline characteristics were comparable between the group receiving ISENTRESS 400 mg twice daily and the group receiving efavirenz 600 mg at bedtime.
 
-Results 48-week and 96-week analyses
+Results 48-week and 156-week analyses
 With respect to the primary efficacy endpoint, the proportion (%) of patients achieving
-HIV RNA < 50 copies/ml at Week 96 was 228/281 (81.1 %) in the group receiving ISENTRESS and 222/282 (78.7 %) in the group receiving efavirenz.
-The treatment difference (ISENTRESS – efavirenz) was 2.4 % with an associated 95 % CI of (-4.3, 9.0) establishing that ISENTRESS is non-inferior to efavirenz (p-value for non-inferiority < 0.001).
-Durable outcomes (Week 48 and Week 96) for patients on the recommended dose of ISENTRESS 400 mg twice daily from STARTMRK are shown in Table 3.
+HIV RNA < 50 copies/ml at Week 156 was 212/281 (75.4%) in the group receiving ISENTRESS and 192/282 (68.1%) in the group receiving efavirenz.
+The treatment difference (ISENTRESS – efavirenz) was 7.3 % with an associated 95 % CI of (-0.2, 14.7) establishing that ISENTRESS is non-inferior to efavirenz (p-value for non-inferiority < 0.001).
+Durable outcomes (Week 48 and Week 156) for patients on the recommended dose of ISENTRESS 400 mg twice daily from STARTMRK are shown in Table 3.
 
 Table 3
-Efficacy Outcome at Weeks 48 and 96
+Efficacy Outcome at Weeks 48 and 156
 
-| STARTMRK Study Parameter | 48 Weeks ISENTRESS Efavirenz 400 mg twice 600 mg daily at bedtime (N = 281) (N = 282) | 96 Weeks ISENTRESS Efavirenz 400 mg twice 600 mg daily at bedtime (N = 281) (N = 282) |
-| --- | --- | --- |
-| Percent HIV-RNA < 50 copies/ml (95 % CI) All patients† Baseline Characteristic‡ HIV-RNA > 100,000 copies/ml ≤ 100,000 copies/ml CD4-count ≤ 50 cells/mm3 > 50 and ≤ 200 cells/mm3 > 200 cells/mm3 Viral Subtype Clade B Non-Clade B | 86 (81, 90) 82 (77, 86) | 81 (76, 86) 79 (73, 83) |
-|  | 91 (85, 95) 89 (83, 94) 93 (86, 97) 89 (82, 94) 84 (64, 95) 86 (67, 96) 89 (81, 95) 86 (77, 92) | 89 (83, 94) 90 (84, 95) 91 (84, 96) 89 (82, 94) 80 (59, 93) 86 (68, 96) 89 (81, 95) 86 (77, 92) |
-|  | 94 (89, 98) 92 (87, 96) 90 (85, 94) 89 (83, 93) 96 (87, 100) 91 (78, 97) | 93 (87, 96) 93 (87, 97) 89 (83, 93) 90 (84, 93) 95 (85, 99) 88 (75, 96) |
-| Mean CD4 Cell Change (95 % CI), cells/mm3 |  |  |
-
-All patients‡ 189 (174, 163 (148, 240 (220, 259) 225 (206, 244)
-204) 178)
-
-Baseline Characteristic‡
-HIV-RNA > 100,000 copies/ml 196 (174, 192 (169, 253 (224, 282) 257 (229, 286)
-
-219) 214)
-
-≤ 100,000 copies/ml 180 (160, 134 (115, 223 (197, 249) 191 (168, 215)
-
-200) 153)
-STARTMRK Study 48 Weeks 96 Weeks
+STARTMRK Study 48 Weeks 156 Weeks
 
 ISENTRESS Efavirenz ISENTRESS Efavirenz
 
 Parameter 400 mg twice 600 mg 400 mg twice 600 mg
 daily at bedtime daily at bedtime
 (N = 281) (N = 282) (N = 281) (N = 282)
-CD4-count ≤ 50 cells/mm3 170 (122, 152 (123, 222 (164, 280) 223 (178, 269)
+
+Percent HIV-RNA < 50 copies/ml
+(95 % CI)
+
+All patients† 86 (81, 90) 82 (77, 86) 75 (70, 80) 68 (62, 73)
+
+Baseline Characteristic‡
+
+HIV-RNA > 100,000 copies/ml 91 (85, 95) 89 (83, 94) 86 (78, 91) 85 (78, 91)
+≤ 100,000 copies/ml 93 (86, 97) 89 (82, 94) 94 (88, 98) 84 (76, 90)
+CD4-count ≤ 50 cells/mm3 84 (64, 95) 86 (67, 96) 70 (47, 87) 86 (67, 96)
+> 50 and 89 (81, 95) 86 (77, 92) 90 (82, 95) 81 (71, 89)
+
+≤ 200 cells/mm3
+
+> 200 cells/mm3 94 (89, 98) 92 (87, 96) 93 (87, 97) 87 (79, 93)
+STARTMRK Study 48 Weeks 156 Weeks
+
+ISENTRESS Efavirenz ISENTRESS Efavirenz
+
+Parameter 400 mg twice 600 mg 400 mg twice 600 mg
+daily at bedtime daily at bedtime
+(N = 281) (N = 282) (N = 281) (N = 282)
+Viral Subtype Clade B 90 (85, 94) 89 (83, 93) 88 (82, 92) 85 (79, 90)
+Non-Clade B 96 (87, 100) 91 (78, 97) 94 (83, 99) 85 (70, 94)
+
+Mean CD4 Cell Change (95 % CI), cells/mm3
+
+All patients‡ 189 (174, 163 (148, 332 (309, 354) 295 (271, 319)
+204) 178)
+
+Baseline Characteristic‡
+HIV-RNA > 100,000 copies/ml 196 (174, 192 (169, 333 (302, 364) 320 (286, 355)
+
+219) 214)
+
+≤ 100,000 copies/ml 180 (160, 134 (115, 330 (298, 363) 269 (236, 301)
+
+200) 153)
+CD4-count ≤ 50 cells/mm3 170 (122, 152 (123, 281 (199, 362) 268 (207, 330)
 218) 180)
-> 50 and 193 (169, 175 (151, 260 (229, 291) 233 (200, 266)
+> 50 and 193 (169, 175 (151, 345 (311, 378) 302 (265, 339)
 ≤ 200 cells/mm3 217) 198)
-> 200 cells/mm3 190 (168, 157 (134, 229 (200, 258) 219 (192, 247)
+> 200 cells/mm3 190 (168, 157 (134, 332 (299, 364) 297 (261, 333)
 212) 181)
-Viral Subtype Clade B 187 (170, 164 (147, 243 (220, 266) 227 (206, 248)
+Viral Subtype Clade B 187 (170, 164 (147, 340 (314, 367) 294 (267, 321)
 204) 181)
-Non-Clade B 189 (153, 156 (121, 221 (182, 261) 220 (169, 271)
+Non-Clade B 189 (153, 156 (121, 299 (259, 338) 288 (233, 344)
 225) 190)
 
 † Non-completer is failure imputation: patients who discontinued prematurely are imputed as failure thereafter.
