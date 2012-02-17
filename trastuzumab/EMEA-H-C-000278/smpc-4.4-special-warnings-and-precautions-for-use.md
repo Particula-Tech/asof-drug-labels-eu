@@ -67,6 +67,7 @@ In EBC, the following patients were excluded from the HERA trial, there are no d
 - Poorly controlled hypertension
 
 Neoadjuvant-adjuvant treatment
+
 In patients with early breast cancer eligible for neoadjuvant-adjuvant treatment, Herceptin should only be used concurrently with anthracyclines in chemotherapy-naive patients and only with low-dose anthracycline regimens (maximum cumulative doses: doxorubicin 180 mg/m2 or epirubicin 360 mg/m2).
 
 If patients have been treated concurrently with low-dose anthracyclines and Herceptin in the neoadjuvant setting, no additional cytotoxic chemotherapy should be given after surgery.
@@ -102,7 +103,7 @@ Patients should be warned of the possibility of such a late onset and should be 
 Pulmonary events
 Severe pulmonary events have been reported with the use of Herceptin in the post-marketing setting (see section 4.8).
 These events have occasionally been fatal.
-In addition, cases of interstitial lung disease including pulmonary infiltrates, acute respiratory distress syndrome, pneumonia, pneumonitis, pleural effusion, respiratory distress, acute pulmonary oedema and respiratory insufficiency have been reported.
+In addition, cases of interstitial lung disease including lung infiltrates, acute respiratory distress syndrome, pneumonia, pneumonitis, pleural effusion, respiratory distress, acute pulmonary oedema and respiratory insufficiency have been reported.
 Risk factors associated with interstitial lung disease include prior or concomitant therapy with other anti-neoplastic therapies known to be associated with it such as taxanes, gemcitabine, vinorelbine and radiation therapy.
 These events may occur as part of an infusion-related reaction or with a delayed onset.
 Patients experiencing dyspnoea at rest due to complications of advanced malignancy and comorbidities may be at increased risk of pulmonary events.

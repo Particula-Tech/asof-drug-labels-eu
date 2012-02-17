@@ -6,7 +6,7 @@ Placental transfer of trastuzumab during the early (days 20–50 of gestation) a
 It is not known whether Herceptin can affect reproductive capacity.
 As animal reproduction studies are not always predictive of human response, Herceptin should be avoided during pregnancy unless the potential benefit for the mother outweighs the potential risk to the foetus.
 
-In the post-marketing setting, cases of oligohydramnios, some associated with fatal pulmonary hypoplasia of the foetus, have been reported in pregnant women receiving Herceptin.
+In the post-marketing setting, cases of foetal renal growth and/or function impairment in association with oligohydramnios, some associated with fatal pulmonary hypoplasia of the foetus, have been reported in pregnant women receiving Herceptin.
 Women of childbearing potential should be advised to use effective contraception during treatment with Herceptin and for at least 6 months after treatment has concluded.
 Women who become pregnant should be advised of the possibility of harm to the foetus.
 If a pregnant woman is treated with Herceptin, close monitoring by a multidisciplinary team is desirable.
