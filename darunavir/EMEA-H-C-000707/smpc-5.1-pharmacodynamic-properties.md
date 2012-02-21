@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antiviral for systemic use, ATC code: J05AE10.
-
 Mechanism of action
 Darunavir is an inhibitor of the dimerisation and of the catalytic activity of the HIV-1 protease
 (KD of 4.5 x 10-12M).
@@ -18,6 +17,7 @@ In vitro selection of darunavir-resistant virus from wild type HIV-1 was lengthy
 The selected viruses were unable to grow in the presence of darunavir concentrations above 400 nM.
 Viruses selected in these conditions and showing decreased susceptibility to darunavir (range: 23-50-fold) harboured 2 to 4 amino acid substitutions in the protease gene.
 Identification of determinants of decreased susceptibility to darunavir in those viruses is under investigation.
+
 The clinical trial data from ART-experienced patients (TITAN trial and the pooled analysis of the POWER 1, 2 and 3 and DUET 1 and 2 trials) showed that virologic response to PREZISTA co-administered with low dose ritonavir was decreased when 3 or more darunavir RAMs (V11I, V32I, L33F, I47V, I50V, I54L or M, T74P, L76V, I84V and L89V) were present at baseline or when these mutations developed during treatment.
 
 Increasing baseline darunavir fold change in EC50 (FC) was associated with decreasing virologic response.
@@ -35,11 +35,11 @@ The table below shows the development of mutations and loss of susceptibility to
 |  | ARTEMIS | ODIN |  | TITAN |
 | --- | --- | --- | --- | --- |
 |  | PREZISTA/rtv 800/100 mg once daily N=343 | PREZISTA/rtv 800/100 mg once daily N=294 | PREZISTA/rtv 600/100 mg twice daily N=296 | PREZISTA/rtv 600/100 mg twice daily N=298 |
-| Total number of virologic failuresa, n (%) Rebounders Never suppressed subjects | 40 (11.7%) | 65 (22.1%) | 54 (18.2%) | 31 (10.4%) |
-|  | 24 (7.0%) 16 (4.7%) | 11 (3.7%) 54 (18.4%) | 11 (3.7%) 43 (14.5%) | 16 (5.4%) 15 (5.0%) |
+| Total number of virologic failuresa, n (%) Rebounders Never suppressed subjects | 55 (16.0%) | 65 (22.1%) | 54 (18.2%) | 31 (10.4%) |
+|  | 39 (11.4%) 16 (4.7%) | 11 (3.7%) 54 (18.4%) | 11 (3.7%) 43 (14.5%) | 16 (5.4%) 15 (5.0%) |
 | Number of subjects with virologic failure and paired baseline/endpoint genotypes, developing mutationsb at endpoint, n/N |  |  |  |  |
 | Primary (major) PI mutations PI RAMs | 0/10 | 1/60 | 0/42 | 6/28 |
-|  | 3/10 | 7/60 | 4/42 | 10/28 |
+|  | 4/10 | 7/60 | 4/42 | 10/28 |
 | Number of subjects with virologic failure and paired baseline/endpoint phenotypes, showing loss of susceptibility to PIs at endpoint compared to baseline, n/N |  |  |  |  |
 | PI darunavir amprenavir atazanavir indinavir lopinavir saquinavir tipranavir | 0/10 0/10 0/10 0/10 0/10 0/10 0/10 | 1/58 1/58 2/56 2/57 1/58 0/56 0/58 | 0/41 0/40 0/40 0/40 0/40 0/40 0/41 | 3/26 0/22 0/22 1/24 0/23 0/22 1/25 |
 
@@ -52,6 +52,7 @@ In the virologic failures of the ARTEMIS trial no cross-resistance with other PI
 Clinical results
 Adult patients
 For clinical trial results in ART-naïve adult patients, refer to the Summary of Product Characteristics for PREZISTA 400 mg tablets.
+
 Efficacy of PREZISTA 600 mg twice daily co-administered with 100 mg ritonavir twice daily in ART-experienced patients
 The evidence of efficacy of PREZISTA co-administered with ritonavir (600/100 mg twice daily) in ART-experienced patients is based on the 96 weeks analysis of the Phase III trial TITAN in ART-experienced lopinavir naïve patients, on the 48 week analysis of the Phase III trial ODIN in ART-experienced patients with no DRV-RAMs, and on the analyses of 96 weeks data from the
 Phase IIb trials POWER 1 and 2 in ART-experienced patients with high level of PI resistance.
@@ -71,7 +72,6 @@ a Imputations according to the TLOVR algorithm b Based on a normal approximation
 
 At 48 weeks non-inferiority in virologic response to the PREZISTA/ritonavir treatment, defined as the percentage of patients with plasma HIV-1 RNA level < 400 and < 50 copies/ml, was demonstrated (at the pre-defined 12% non-inferiority margin) for both ITT and OP populations.
 These results were confirmed in the analysis of data at 96 weeks of treatment in the TITAN trial, with 60.4% of patients in the PREZISTA/rtv arm having HIV-1 RNA < 50 copies/ml at week 96 compared to 55.2% in the lopinavir/rtv arm [difference: 5.2%, 95% CI (-2.8–13.1)].
-
 ODIN is a Phase III, randomised, open-label trial comparing PREZISTA/rtv 800/100 mg once daily versus PREZISTA/rtv 600/100 mg twice daily in ART-experienced HIV-1 infected patients with screening genotype resistance testing showing no darunavir RAMs (i.e. V11I, V32I, L33F, I47V, I50V, I54M, I54L, T74P, L76V, I84V, L89V) and a screening HIV-1 RNA > 1,000 copies/ml.
 Efficacy analysis is based on 48 weeks of treatment (see table below).
 Both arms used an optimised background regimen (OBR) of ≥2 NRTIs.
@@ -79,10 +79,10 @@ Both arms used an optimised background regimen (OBR) of ≥2 NRTIs.
 | ODIN |  |  |  |
 | --- | --- | --- | --- |
 | Outcomes | PREZISTA/rtv 800/100 mg once daily + OBR N=294 | PREZISTA/rtv 600/100 mg twice daily + OBR N=296 | Treatment difference (95% CI of difference) |
-| HIV-1 RNA < 50 copies/mla With Baseline HIV-1 RNA (copies/ml) < 100,000 ≥100,000 With Baseline CD4+ cell count (x 106/l) ≥100 < 100 | 72.1% (212) | 70.9% (210) | 1.2% (-6.1; 8.5)b |
+| HIV-1 RNA < 50 copies/mla With Baseline HIV-1 RNA (copies/ml) < 100,000 ≥100,000 With Baseline CD4+ cell count (x 106/l) ≥100 < 100 With HIV-1 clade Type B Type AE Type C Otherc | 72.1% (212) | 70.9% (210) | 1.2% (-6.1; 8.5)b |
 |  | 77.6% (198/255) 35.9% (14/39) | 73.2% (194/265) 51.6% (16/31) | 4.4% (-3.0; 11.9) -15.7% (-39.2; 7.7) |
 |  | 75.1% (184/245) 57.1% (28/49) | 72.5% (187/258) 60.5% (23/38) | 2.6% (-5.1; 10.3) -3.4% (-24.5; 17.8) |
-| With HIV-1 clade Type B Type AE Type C Otherc | 70.4% (126/179) 90.5% (38/42) 72.7% (32/44) 55.2% (16/29) | 64.3% (128/199) 91.2% (31/34) 78.8% (26/33) 83.3% (25/30) | 6.1% (-3.4; 15.6) -0.7% (-14.0, 12.6) -6.1% (-2.6, 13.7) -28.2% (-51.0, -5.3) |
+|  | 70.4% (126/179) 90.5% (38/42) 72.7% (32/44) 55.2% (16/29) | 64.3% (128/199) 91.2% (31/34) 78.8% (26/33) 83.3% (25/30) | 6.1% (-3.4; 15.6) -0.7% (-14.0, 12.6) -6.1% (-2.6, 13.7) -28.2% (-51.0, -5.3) |
 | mean CD4+ cell count change from baseline (x 106/l)e | 108 | 112 | -5d (-25; 16) |
 
 a Imputations according to the TLOVR algorithm b Based on a normal approximation of the difference in % response c Clades A1, D, F1, G, K, CRF02_AG, CRF12_BF, and CRF06_CPX d Difference in means e Last Observation Carried Forward imputation
@@ -98,10 +98,12 @@ An OBR consisting of at least 2 NRTIs with or without enfuvirtide (ENF) was used
 
 The table below shows the efficacy data of the 48-week and 96-week analyses from the pooled POWER 1 and POWER 2 trials.
 
-| POWER 1 and POWER 2 pooled data |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Week 48 |  |  | Week 96 |  |  |
+| POWER 1 and POWER 2 pooled data |  |  |
+| --- | --- | --- |
+|  | Week 48 | Week 96 |
+
 | Outcomes | PREZISTA/rtv 600/100 mg twice daily n=131 | Control n=124 | Treatment difference | PREZISTA/rtv 600/100 mg twice daily n=131 | Control n=124 | Treatment difference |
+| --- | --- | --- | --- | --- | --- | --- |
 | HIV RNA < 50 copies/mla | 45.0% (59) | 11.3% (14) | 33.7% (23.4%; 44.1%)c | 38.9% (51) | 8.9% (11) | 30.1% (20.1; 40.0)c |
 | CD4+ cell count mean change from baseline (x 106/l)b | 103 | 17 | 86 (57; 114)c | 133 | 15 | 118 (83.9; 153.4)c |
 
@@ -149,44 +151,35 @@ See section 4.2 for information on paediatric use.
 
 [PREZISTA 150 mg film-coated tablets]
 
-| ODIN |  |  |  |
-| --- | --- | --- | --- |
-| Outcomes | PREZISTA/rtv 800/100 mg once daily + OBR N=294 | PREZISTA/rtv 600/100 mg twice daily + OBR N=296 | Treatment difference (95% CI of difference) |
-| HIV-1 RNA < 50 copies/mla With Baseline HIV-1 RNA (copies/ml) < 100,000 ≥100,000 With Baseline CD4+ cell count (x 106/l) ≥100 < 100 With HIV-1 clade Type B Type AE Type C Otherc | 72.1% (212) | 70.9% (210) | 1.2% (-6.1; 8.5)b |
-|  | 77.6% (198/255) 35.9% (14/39) | 73.2% (194/265) 51.6% (16/31) | 4.4% (-3.0; 11.9) -15.7% (-39.2; 7.7) |
-|  | 75.1% (184/245) 57.1% (28/49) | 72.5% (187/258) 60.5% (23/38) | 2.6% (-5.1; 10.3) -3.4% (-24.5; 17.8) |
-|  | 70.4% (126/179) 90.5% (38/42) 72.7% (32/44) 55.2% (16/29) | 64.3% (128/199) 91.2% (31/34) 78.8% (26/33) 83.3% (25/30) | 6.1% (-3.4; 15.6) -0.7% (-14.0, 12.6) -6.1% (-2.6, 13.7) -28.2% (-51.0, -5.3) |
-| mean CD4+ cell count change from baseline (x 106/l)e | 108 | 112 | -5d (-25; 16) |
-
-| POWER 1 and POWER 2 pooled data |  |  |
-| --- | --- | --- |
-|  | Week 48 | Week 96 |
-
-| Outcomes | PREZISTA/rtv 600/100 mg twice daily n=131 | Control n=124 | Treatment difference | PREZISTA/rtv 600/100 mg twice daily n=131 | Control n=124 | Treatment difference |
+| POWER 1 and POWER 2 pooled data |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
+|  | Week 48 |  |  | Week 96 |  |  |
+| Outcomes | PREZISTA/rtv 600/100 mg twice daily n=131 | Control n=124 | Treatment difference | PREZISTA/rtv 600/100 mg twice daily n=131 | Control n=124 | Treatment difference |
 | HIV RNA < 50 copies/mla | 45.0% (59) | 11.3% (14) | 33.7% (23.4%; 44.1%)c | 38.9% (51) | 8.9% (11) | 30.1% (20.1; 40.0)c |
 | CD4+ cell count mean change from baseline (x 106/l)b | 103 | 17 | 86 (57; 114)c | 133 | 15 | 118 (83.9; 153.4)c |
 
 [PREZISTA 300 mg film-coated tablets]
 
-|  | ARTEMIS | ODIN |  | TITAN |
-| --- | --- | --- | --- | --- |
+ARTEMIS ODIN TITAN
+
 |  | PREZISTA/rtv 800/100 mg once daily N=343 | PREZISTA/rtv 800/100 mg once daily N=294 | PREZISTA/rtv 600/100 mg twice daily N=296 | PREZISTA/rtv 600/100 mg twice daily N=298 |
-| Total number of virologic failuresa, n (%) Rebounders Never suppressed subjects | 40 (11.7%) | 65 (22.1%) | 54 (18.2%) | 31 (10.4%) |
-|  | 24 (7.0%) 16 (4.7%) | 11 (3.7%) 54 (18.4%) | 11 (3.7%) 43 (14.5%) | 16 (5.4%) 15 (5.0%) |
+| --- | --- | --- | --- | --- |
+| Total number of virologic failuresa, n (%) Rebounders Never suppressed subjects | 55 (16.0%) | 65 (22.1%) | 54 (18.2%) | 31 (10.4%) |
+|  | 39 (11.4%) 16 (4.7%) | 11 (3.7%) 54 (18.4%) | 11 (3.7%) 43 (14.5%) | 16 (5.4%) 15 (5.0%) |
 | Number of subjects with virologic failure and paired baseline/endpoint genotypes, developing mutationsb at endpoint, n/N |  |  |  |  |
 | Primary (major) PI mutations PI RAMs | 0/10 | 1/60 | 0/42 | 6/28 |
-|  | 3/10 | 7/60 | 4/42 | 10/28 |
+|  | 4/10 | 7/60 | 4/42 | 10/28 |
 | Number of subjects with virologic failure and paired baseline/endpoint phenotypes, showing loss of susceptibility to PIs at endpoint compared to baseline, n/N |  |  |  |  |
+| PI darunavir amprenavir atazanavir indinavir lopinavir saquinavir tipranavir | 0/10 0/10 0/10 0/10 0/10 0/10 0/10 | 1/58 1/58 2/56 2/57 1/58 0/56 0/58 | 0/41 0/40 0/40 0/40 0/40 0/40 0/41 | 3/26 0/22 0/22 1/24 0/23 0/22 1/25 |
 
-PI
-darunavir 0/10 1/58 0/41 3/26
-amprenavir 0/10 1/58 0/40 0/22
-atazanavir 0/10 2/56 0/40 0/22
-indinavir 0/10 2/57 0/40 1/24
-lopinavir 0/10 1/58 0/40 0/23
-saquinavir 0/10 0/56 0/40 0/22
-tipranavir 0/10 0/58 0/41 1/25
+| TITAN |  |  |  |
+| --- | --- | --- | --- |
+| Outcomes | PREZISTA/rtv 600/100 mg twice daily + OBR N=298 | Lopinavir/ rtv 400/100 mg twice daily + OBR N=297 | Treatment difference (95% CI of difference) |
+| HIV-1 RNA < 50 copies/mla | 70.8% (211) | 60.3% (179) | 10.5% (2.9; 18.1)b |
+
+median CD4+ cell 88 81
+count change from
+baseline (x 106/l)c
 
 [PREZISTA 400 mg film-coated tablets]
 
@@ -214,16 +207,6 @@ These results were confirmed in the analyses of data at 96 weeks of treatment in
 These results were sustained up to 192 weeks of treatment in the ARTEMIS trial.
 
 Efficacy of PREZISTA 800 mg once daily co-administered with 100 mg ritonavir once daily in ART-experienced patients
-
-ODIN
-
-| Outcomes | PREZISTA/rtv 800/100 mg once daily + OBR N=294 | PREZISTA/rtv 600/100 mg twice daily + OBR N=296 | Treatment difference (95% CI of difference) |
-| --- | --- | --- | --- |
-| HIV-1 RNA < 50 copies/mla With Baseline HIV-1 RNA (copies/ml) < 100,000 ≥100,000 With Baseline CD4+ cell count (x 106/l) ≥100 < 100 With HIV-1 clade Type B Type AE Type C Otherc | 72.1% (212) | 70.9% (210) | 1.2% (-6.1; 8.5)b |
-|  | 77.6% (198/255) 35.9% (14/39) | 73.2% (194/265) 51.6% (16/31) | 4.4% (-3.0; 11.9) -15.7% (-39.2; 7.7) |
-|  | 75.1% (184/245) 57.1% (28/49) | 72.5% (187/258) 60.5% (23/38) | 2.6% (-5.1; 10.3) -3.4% (-24.5; 17.8) |
-|  | 70.4% (126/179) 90.5% (38/42) 72.7% (32/44) 55.2% (16/29) | 64.3% (128/199) 91.2% (31/34) 78.8% (26/33) 83.3% (25/30) | 6.1% (-3.4; 15.6) -0.7% (-14.0, 12.6) -6.1% (-2.6, 13.7) -28.2% (-51.0, -5.3) |
-| mean CD4+ cell count change from baseline (x 106/l)e | 108 | 112 | -5d (-25; 16) |
 
 For additional clinical study results in ART-experienced adults and pediatric patients, refer to the Summary of Product Characteristics for PREZISTA 75 mg, 150 mg, 300 mg or 600 mg tablets.
 

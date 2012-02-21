@@ -27,8 +27,7 @@ Adverse reactions in clinical trials and post-marketing in adult patients
 | Endocrine disorders |  |
 | uncommon | hypothyroidism, increased blood thyroid stimulating hormone |
 | Metabolism and nutrition disorders |  |
-| common | lipodystrophy (including lipohypertrophy, lipodystrophy, lipoatrophy)1, 2, hypertriglyceridaemia1, 2, hypercholesterolaemia1, 2, hyperlipidaemia1, 2 |
-| uncommon | diabetes mellitus1, 2, gout, anorexia, decreased appetite, decreased weight, increased weight, hyperglycaemia1, 2, insulin resistance, decreased high density lipoprotein, increased appetite, polydipsia, increased blood lactate dehydrogenase |
+| common uncommon | lipodystrophy (including lipohypertrophy, lipodystrophy, lipoatrophy)1, 2, hypertriglyceridaemia1, 2, hypercholesterolaemia1, 2, hyperlipidaemia1, 2 diabetes mellitus1, 2, gout, anorexia, decreased appetite, decreased weight, increased weight, hyperglycaemia1, 2, insulin resistance, decreased high density lipoprotein, increased appetite, polydipsia, increased blood lactate dehydrogenase |
 | Psychiatric disorders |  |
 | common | insomnia |
 | uncommon | depression, confusional state, disorientation, anxiety, altered mood, sleep disorder, abnormal dreams, nightmare, decreased libido, restlessness |
@@ -37,7 +36,8 @@ Adverse reactions in clinical trials and post-marketing in adult patients
 | uncommon | syncope, convulsion, lethargy, paraesthesia, hypoaesthesia, ageusia, dysgeusia, disturbance in attention, memory impairment, somnolence, sleep phase rhythm disturbance |
 | Eye disorders |  |
 | uncommon | visual disturbance, conjunctival hyperaemia, dry eye |
-| Ear and labyrinth disorders uncommon | vertigo |
+| Ear and labyrinth disorders |  |
+| uncommon | vertigo |
 | Cardiac disorders |  |
 | uncommon | acute myocardial infarction, myocardial infarction, angina pectoris, prolonged electrocardiogram QT, sinus bradycardia, tachycardia, palpitations |
 | Vascular disorders |  |
@@ -51,8 +51,7 @@ Adverse reactions in clinical trials and post-marketing in adult patients
 | Hepatobiliary disorders |  |
 | common | increased alanine aminotransferase, increased aspartate aminotransferase |
 | uncommon | hepatitis1, cytolytic hepatitis1, hepatic steatosis, hepatomegaly, increased transaminase, increased blood bilirubin, increased blood alkaline phosphatase, increased gamma-glutamyltransferase |
-| Skin and subcutaneous tissue disorders |  |
-| common | rash3 (including macular, maculopapular, papular, erythematous and pruritic rash) 1, 2, pruritus |
+| Skin and subcutaneous tissue disorders common | rash3 (including macular, maculopapular, papular, erythematous and pruritic rash) 1, 2, pruritus |
 | uncommon rare | angioedema, generalised rash1, 2, allergic dermatitis, urticaria, dermatitis, eczema, erythema, hyperhidrosis, night sweats, alopecia, acne, seborrhoeic dermatitis, skin lesion, xeroderma, dry skin, nail pigmentation erythema multiforme, Stevens-Johnson syndrome1 |
 | not known | toxic epidermal necrolysis1 |
 | Musculoskeletal and connective tissue disorders |  |
@@ -84,7 +83,6 @@ In cases of severe skin reaction see the warning in section 4.4.
 
 Lipodystrophy
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients, including loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump) (see section 4.4).
-
 Metabolic abnormalities
 Combination antiretroviral therapy has also been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
 
@@ -99,6 +97,7 @@ In HIV infected patients with severe immune deficiency at the time of initiation
 
 Bleeding in haemophiliac patients
 There have been reports of increased spontaneous bleeding in haemophiliac patients receiving antiretroviral protease inhibitors (see section 4.4).
+
 d. Paediatric population
 The safety assessment in children and adolescents is based on the safety data from the Phase II trial DELPHI in which 80 ART-experienced HIV-1 infected paediatric patients aged from 6 to 17 years and weighing at least 20 kg received PREZISTA with low dose ritonavir in combination with other antiretroviral agents (see section 5.1).
 Overall, the safety profile in these 80 children and adolescents was similar to that observed in the adult population.
@@ -115,12 +114,12 @@ Among 1,968 treatment-experienced patients receiving PREZISTA co-administered wi
 | uncommon | herpes simplex |
 | Blood and lymphatic system disorders |  |
 | uncommon | thrombocytopenia, neutropenia, anaemia, increased eosinophil count, leukopenia |
-| Immune system disorders |  |
-| uncommon | immune reconstitution syndrome1, 2, (drug) hypersensitivity |
+| Immune system disorders uncommon | immune reconstitution syndrome1, 2, (drug) hypersensitivity |
 | Endocrine disorders |  |
 | uncommon | hypothyroidism, increased blood thyroid stimulating hormone |
 | Metabolism and nutrition disorders |  |
-| common uncommon | lipodystrophy (including lipohypertrophy, lipodystrophy, lipoatrophy)1, 2, hypertriglyceridaemia1, 2, hypercholesterolaemia1, 2, hyperlipidaemia1, 2 diabetes mellitus1, 2, gout, anorexia, decreased appetite, decreased weight, increased weight, hyperglycaemia1, 2, insulin resistance, decreased high density lipoprotein, increased appetite, polydipsia, increased blood lactate dehydrogenase |
+| common | lipodystrophy (including lipohypertrophy, lipodystrophy, lipoatrophy)1, 2, hypertriglyceridaemia1, 2, hypercholesterolaemia1, 2, hyperlipidaemia1, 2 |
+| uncommon | diabetes mellitus1, 2, gout, anorexia, decreased appetite, decreased weight, increased weight, hyperglycaemia1, 2, insulin resistance, decreased high density lipoprotein, increased appetite, polydipsia, increased blood lactate dehydrogenase |
 | Psychiatric disorders |  |
 | common | insomnia |
 | uncommon | depression, confusional state, disorientation, anxiety, altered mood, sleep disorder, abnormal dreams, nightmare, decreased libido, restlessness |
@@ -139,12 +138,12 @@ Among 1,968 treatment-experienced patients receiving PREZISTA co-administered wi
 | uncommon | dyspnoea, cough, epistaxis, rhinorrhoea, throat irritation |
 | Gastrointestinal disorders |  |
 | very common | diarrhoea |
-| common | vomiting, nausea, abdominal pain, increased blood amylase, dyspepsia, abdominal distension, flatulence |
-| uncommon | pancreatitis, gastritis, gastrooesophageal reflux disease, aphthous stomatitis, stomatitis, retching, haematemesis, dry mouth, abdominal discomfort, constipation, increased lipase, eructation, oral dysaesthesia, cheilitis, dry lip, coated tongue |
+| common uncommon | vomiting, nausea, abdominal pain, increased blood amylase, dyspepsia, abdominal distension, flatulence pancreatitis, gastritis, gastrooesophageal reflux disease, aphthous stomatitis, stomatitis, retching, haematemesis, dry mouth, abdominal discomfort, constipation, increased lipase, eructation, oral dysaesthesia, cheilitis, dry lip, coated tongue |
 | Hepatobiliary disorders |  |
 | common | increased alanine aminotransferase, increased aspartate aminotransferase |
 | uncommon | hepatitis1, cytolytic hepatitis1, hepatic steatosis, hepatomegaly, increased transaminase, increased blood bilirubin, increased blood alkaline phosphatase, increased gamma-glutamyltransferase |
-| Skin and subcutaneous tissue disorders common | rash3 (including macular, maculopapular, papular, erythematous and pruritic rash) 1, 2, pruritus |
+| Skin and subcutaneous tissue disorders |  |
+| common | rash3 (including macular, maculopapular, papular, erythematous and pruritic rash) 1, 2, pruritus |
 | uncommon rare | angioedema, generalised rash1, 2, allergic dermatitis, urticaria, dermatitis, eczema, erythema, hyperhidrosis, night sweats, alopecia, acne, seborrhoeic dermatitis, skin lesion, xeroderma, dry skin, nail pigmentation erythema multiforme, Stevens-Johnson syndrome1 |
 | not known | toxic epidermal necrolysis1 |
 | Musculoskeletal and connective tissue disorders |  |

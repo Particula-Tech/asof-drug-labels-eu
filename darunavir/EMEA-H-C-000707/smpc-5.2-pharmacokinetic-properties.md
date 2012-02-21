@@ -5,6 +5,7 @@ Exposure to darunavir was higher in HIV-1 infected patients than in healthy subj
 The increased exposure to darunavir in HIV-1 infected patients compared to healthy subjects may be explained by the higher concentrations of alpha-1-acid glycoprotein (AAG) in HIV-1 infected patients, resulting in higher darunavir binding to plasma AAG and, therefore, higher plasma concentrations.
 Darunavir is primarily metabolised by CYP3A.
 Ritonavir inhibits CYP3A, thereby increasing the plasma concentrations of darunavir considerably.
+
 Absorption
 Darunavir was rapidly absorbed following oral administration.
 Maximum plasma concentration of darunavir in the presence of low dose ritonavir is generally achieved within 2.5-4.0 hours.
