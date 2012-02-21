@@ -158,3 +158,11 @@ Larger weight reduction was observed with increasing body mass index (BMI) at ba
 
 Blood pressure
 Over the duration of the studies Victoza decreased the systolic blood pressure on average of 2.3 to 6.7 mmHg from baseline and compared to active comparator the decrease was 1.9 to 4.5 mmHg.
+
+Other clinical data
+In an open label study comparing the efficacy and safety of Victoza 1.8 mg once daily and exenatide 10 mcg twice daily in patients inadequately controlled on metformin and/or sulphonylurea therapy (mean HbA1c 8.3%), Victoza was statistically superior to exenatide treatment in reducing HbA1c after 26 weeks (–1.12% vs –0.79%; estimated treatment difference: –0.33; 95% CI –0.47 to –0.18).
+Significantly more patients achieved HbA1c below 7% with Victoza compared with exenatide (54.2% vs 43.4%, p=0.0015).
+Both treatments resulted in mean body weight loss of approximately 3 kg.
+Switching patients from exenatide to Victoza after 26 weeks of treatment resulted in an additional and statistically significant reduction in HbA1c (-0.32%, 95% CI: -0.41 to -0.24) at week 40, but a formal control group was not available.
+During the 26 weeks, there were 12 serious events in 235 patients (5.1%) using liraglutide, whereas there were 6 serious adverse events in 232 patients (2.6%) using exenatide.
+There was no consistent pattern with respect to system organ class of events.

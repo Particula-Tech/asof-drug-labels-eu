@@ -27,6 +27,7 @@ The mean clearance following subcutaneous administration of a single dose liragl
 Special populations
 
 Elderly: Age had no clinically relevant effect on the pharmacokinetics of liraglutide based on the results from a pharmacokinetic study in healthy subjects and population pharmacokinetic data analysis of patients (18 to 80 years).
+
 Gender: Gender had no clinically meaningful effect on the pharmacokinetics of liraglutide based on the results of population pharmacokinetic data analysis of male and female patients and a pharmacokinetic study in healthy subjects.
 
 Ethnic origin: Ethnic origin had no clinically relevant effect on the pharmacokinetics of liraglutide based on the results of population pharmacokinetic analysis which included subjects of White, Black, Asian and Hispanic groups.
