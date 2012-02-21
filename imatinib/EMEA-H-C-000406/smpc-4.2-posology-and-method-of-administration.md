@@ -66,7 +66,7 @@ The effect of stopping treatment after achieving a response has not been investi
 
 The recommended dose of Glivec is 400 mg/day for the adjuvant treatment of adult patients following resection of GIST.
 Optimal treatment duration is not yet established.
-Length of treatment in the clinical trial supporting this indication was 12 months.
+Length of treatment in the clinical trial supporting this indication was 36 months (see section 5.1).
 
 Posology for DFSP
 The recommended dose of Glivec is 800 mg/day for adult patients with DFSP.

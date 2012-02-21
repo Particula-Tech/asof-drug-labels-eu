@@ -33,6 +33,7 @@ Patients showing lack of response (lack of complete haematological response (CHR
 In the Glivec arm, patients were treated with 400 mg daily.
 In the IFN arm, patients were treated with a target dose of IFN of 5 MIU/m2/day subcutaneously in combination with subcutaneous Ara-C
 20 mg/m2/day for 10 days/month.
+
 A total of 1,106 patients were randomised, 553 to each arm.
 Baseline characteristics were well balanced between the two arms.
 Median age was 51 years (range 18–70 years), with 21.9% of patients ≥ 60 years of age.
@@ -343,6 +344,73 @@ Table 7 Summary of Z9001 trial RFS analyses by NIH and AFIP risk classifications
 | AFIP | Very Low Low Moderate High | 20.7 25.0 24.6 29.7 | 0/52 vs. 2/63 2/70 vs. 0/69 2/70 vs. 11/67 16/84 vs. 39/81 | N.E. N.E. 0.16 (0.03; 0.70) 0.27 (0.15; 0.48) | 100 vs. 98.1 100 vs. 100 97.9 vs. 90.8 98.7 vs. 56.1 | 100 vs. 93.0 97.8 vs. 100 97.9 vs. 73.3 79.9 vs. 41.5 |
 
 * Full follow-up period; NE – Not estimable
+
+A second multicentre, open label phase III study (SSG XVIII/AIO) compared 400 mg/day Glivec 12 months treatment vs. 36 months treatment in patients after surgical resection of GIST and one of the following: tumour diameter > 5 cm and mitotic count > 5/50 high power fields (HPF); or tumour diameter > 10 cm and any mitotic count or tumour of any size with mitotic count > 10/50 HPF or tumours ruptured into the peritoneal cavity.
+There were a total of 397 patients consented and randomised to the study (199 patients on 12-month arm and 198 patients on 36-month arm), median age was 61 years (range 22 to 84 years).
+The median time of follow-up was 54 months (from date of randomisation to data cut-off), with a total of 83 months between the first patient randomised and the cut-off date.
+
+The primary endpoint of the study was recurrence-free survival (RFS), defined as the time from date of randomisation to the date of recurrence or death from any cause.
+Thirty-six (36) months of Glivec treatment significantly prolonged RFS compared to 12 months of Glivec treatment (with overall Hazard Ratio (HR) = 0.46 [0.32, 0.65], p<0.0001) (Table 8, Figure 1).
+
+In addition, thirty-six (36) months of Glivec treatment significantly prolonged overall survival (OS) compared to 12 months of Glivec treatment (HR = 0.45 [0.22, 0.89], p=0.0187) (Table 8, Figure 2).
+
+Longer duration of the treatment (> 36 months) may delay the onset of further recurrences; however the impact of this finding on the overall survival remains unknown.
+
+The total number of deaths were 25 for the 12-month treatment arm and 12 for the 36-month treatment arm.
+
+Treatment with imatinib for 36 months was superior to treatment for 12 months in the ITT analysis, i.e. including the entire study population.
+In a planned subgroup analysis by mutation type, the HR for RFS for 36 months of treatment for patients with mutations of exon 11 was 0.35 [95% CI: 0.22, 0.56].
+No conclusions can be drawn for other less common mutation subgroups due to the low number of observed events.
+
+Table 8 12-month and 36-month Glivec treatment (SSGXVIII/AIO Trial)
+
+12-month treatment arm 36-month treatment arm
+RFS %(CI) %(CI)
+12 months 93.7 (89.2-96.4) 95.9 (91.9-97.9)
+24 months 75.4 (68.6-81.0) 90.7 (85.6-94.0)
+36 months 60.1 (52.5-66.9) 86.6 (80.8-90.8)
+48 months 52.3 (44.0-59.8) 78.3 (70.8-84.1)
+60 months 47.9 (39.0-56.3) 65.6 (56.1-73.4)
+
+Survival
+
+36 months 94.0 (89.5-96.7) 96.3 (92.4-98.2)
+48 months 87.9 (81.1-92.3) 95.6 (91.2-97.8)
+60 months 81.7 (73.0-87.8) 92.0 (85.3-95.7)
+
+Figure 1 Kaplan-Meier estimates for primary recurrence-free survival endpoint (ITT population)
+
+P < 0.0001
+Hazard ratio 0.46
+(95% Cl, 0.32-0.65)
+
+N Evt Cen
+—— (1) Imatinib 12 MO: 199 84 115
+----- (2) Imatinib 36 MO: 198 50 148
+
+│││ Censored observations
+
+Survival time in months
+
+At-risk : Events
+(1) 199:0 182:8 177:12 163:25 137:46 105:65 88:72 61:77 49:81 36:83 27:84 14:84 10:84 2:84 0:84 (2) 198:0 189:5 184:8 181:11 173:18 152:22 133:25 102:29 82:35 54:46 39:47 21:49 8:50 0:50
+
+Figure 2 Kaplan-Meier estimates for overall survival (ITT population)
+
+P = 0.019
+Hazard ratio 0.45
+(95% Cl, 0.22-0.89)
+
+N Evt Cen
+—— (1) Imatinib 12 MO: 199 25 174
+----- (2) Imatinib 36 MO: 198 12 186
+
+│││ Censored observations
+
+Survival time in months
+
+At-risk : Events
+(1) 199:0 190:2 188:2 183:6 176:8 156:10 140:11 105:14 87:18 64:22 46:23 27:25 20:25 2:25 0:25 (2) 198:0 196:0 192:0 187:4 184:5 164:7 152:7 119:8 100:8 76:10 56:11 31:11 13:12 0:12
 
 Clinical studies in DFSP
 One phase II, open label, multicentre clinical trial (study B2225) was conducted including 12 patients with DFSP treated with Glivec 800 mg daily.

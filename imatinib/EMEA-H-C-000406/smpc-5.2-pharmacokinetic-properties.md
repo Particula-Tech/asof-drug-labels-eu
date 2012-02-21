@@ -29,10 +29,10 @@ Ki values in human liver microsomes were 27, 7.5 and 7.9 μmol/l, respectively.
 Maximal plasma concentrations of imatinib in patients are 2–4 μmol/l, consequently an inhibition of CYP2D6 and/or CYP3A4/5-mediated metabolism of co-administered drugs is possible.
 Imatinib did not interfere with the biotransformation of 5-fluorouracil, but it inhibited paclitaxel metabolism as a result of competitive inhibition of CYP2C8 (Ki = 34.7 µM).
 This Ki value is far higher than the expected plasma levels of imatinib in patients, consequently no interaction is expected upon co-administration of either 5-fluorouracil or paclitaxel and imatinib.
-
 Elimination
 Based on the recovery of compound(s) after an oral 14C-labelled dose of imatinib, approximately 81% of the dose was recovered within 7 days in faeces (68% of dose) and urine (13% of dose).
 Unchanged imatinib accounted for 25% of the dose (5% urine, 20% faeces), the remainder being metabolites.
+
 Plasma pharmacokinetics
 Following oral administration in healthy volunteers, the t½ was approximately 18 h, suggesting that once-daily dosing is appropriate.
 The increase in mean AUC with increasing dose was linear and dose proportional in the range of 25–1,000 mg imatinib after oral administration.
