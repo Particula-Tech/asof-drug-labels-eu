@@ -37,12 +37,12 @@ Expel air, large bubbles, and any excess solution in order to obtain the require
 The reconstituted and diluted solution should then be infused intravenously over 30 minutes as directed in section 4.2.
 
 The following have been shown to be compatible when added to Cubicin containing infusion solutions: aztreonam, ceftazidime, ceftriaxone, gentamicin, fluconazole, levofloxacin, dopamine, heparin and lidocaine.
-
 Cubicin given as 2-minute intravenous injection
 Water should not be used for reconstitution of Cubicin for intravenous injection.
 Cubicin should only be reconstituted with sodium chloride 9 mg/ml (0.9%).
 
 A 50 mg/ml concentration of Cubicin for injection is obtained by reconstituting the lyophilised product with 7 ml of sodium chloride 9 mg/ml (0.9%) solution for injection.
+
 The lyophilised product takes approximately 15 minutes to dissolve.
 The fully reconstituted product will appear clear and may have a few small bubbles or foam around the edge of the vial.
 
@@ -75,7 +75,7 @@ Cubicin vials are for single-use only.
 
 From a microbiological point of view, the product should be used immediately after reconstitution (see section 6.3).
 
-Any unused product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 [Cubicin 500 mg powder for solution for injection or infusion]
 

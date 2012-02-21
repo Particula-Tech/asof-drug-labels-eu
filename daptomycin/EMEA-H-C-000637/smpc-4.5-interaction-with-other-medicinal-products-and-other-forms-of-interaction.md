@@ -7,7 +7,7 @@ Interaction studies for Cubicin were performed with aztreonam, tobramycin, warfa
 Daptomycin had no effect on the pharmacokinetics of warfarin or probenecid, nor did these medicinal products alter the pharmacokinetics of daptomycin.
 The pharmacokinetics of daptomycin were not significantly altered by aztreonam.
 
-Although small changes in the pharmacokinetics of daptomycin and tobramycin were observed during coadministration using a Cubicin dose of 2 mg/kg, the changes were not statistically significant.
+Although small changes in the pharmacokinetics of daptomycin and tobramycin were observed during coadministration by intravenous infusion over a 30-minute period using a Cubicin dose of 2 mg/kg, the changes were not statistically significant.
 The interaction between daptomycin and tobramycin with an approved dose of Cubicin is unknown.
 Caution is warranted when Cubicin is co-administered with tobramycin.
 

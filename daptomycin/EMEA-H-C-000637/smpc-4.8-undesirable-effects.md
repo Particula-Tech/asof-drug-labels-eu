@@ -1,8 +1,15 @@
 # 4.8 Undesirable effects
 
+Summary of the safety profile
 In clinical studies, 2,011 subjects received Cubicin.
 Within these trials, 1,221 subjects received a daily dose of 4 mg/kg, of whom 1,108 were patients and 113 were healthy volunteers; 460 subjects received a daily dose of 6 mg/kg, of whom 304 were patients and 156 were healthy volunteers.
 Adverse reactions (i.e. considered by the investigator to be possibly, probably, or definitely related to the medicinal product) were reported at similar frequencies for Cubicin and comparator regimens.
+The most frequently reported adverse reactions (frequency common (≥ 1/100 to < 1/10)) are:
+Fungal infections, urinary tract infection, candida infection, anaemia, anxiety, insomnia, dizziness, headache, hypertension, hypotension, gastrointestinal and abdominal pain, nausea, vomiting, constipation, diarrhoea, flatulence, bloating and distension, liver function tests abnormal (increased alanine aminotransferase (ALT), aspartate aminotransferase (AST) or alkaline phosphatase (ALP)), rash, pruritus, limb pain, serum creatine phosphokinase (CPK) increased, infusion site reactions, pyrexia, asthenia.
+
+Less frequently reported, but more serious, adverse reactions include hypersensitivity reactions, eosinophilic pneumonia, drug rash with eosinophilia and systemic symptoms (DRESS), angioedema and rhabdomyolysis.
+
+Tabulated list of adverse reactions
 The following adverse reactions were reported during therapy and during follow-up with frequencies corresponding to very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to
 < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data):
 
@@ -23,7 +30,7 @@ normalised ratio (INR) increased
 
 Rare: Prothrombin time (PT) prolonged
 
-Immune system disorders Not known*: Hypersensitivity**, manifested by isolated spontaneous reports including, but not limited to pulmonary eosinophilia, vesicobullous rash with mucous membrane involvement and sensation of oropharyngeal swelling
+Immune system disorders Not known*: Hypersensitivity**, manifested by isolated spontaneous reports including, but not limited to angioedema, drug rash with eosinophilia and systemic symptoms (DRESS), pulmonary eosinophilia, vesicobullous rash with mucous membrane involvement and sensation of oropharyngeal swelling
 Not known*: Anaphylaxis**
 Not known*: Infusion reactions including the following symptoms: tachycardia, wheezing, pyrexia, rigors, systemic flushing, vertigo, syncope and metallic taste Metabolism and nutrition Uncommon: Decreased appetite, hyperglycaemia, electrolyte
 
@@ -39,10 +46,7 @@ Cardiac disorders Uncommon: Supraventricular tachycardia, extrasystole
 Vascular disorders Common: Hypertension, hypotension
 
 Uncommon: Flushes
-
-Respiratory, thoracic and Not known*: Eosinophilic pneumonia1**
-
-mediastinal disorders
+Respiratory, thoracic and Not known*: Eosinophilic pneumonia1**, cough mediastinal disorders
 Gastrointestinal disorders Common: Gastrointestinal and abdominal pain, nausea, vomiting, constipation, diarrhoea, flatulence, bloating and distension
 Uncommon: Dyspepsia, glossitis
 
@@ -60,17 +64,13 @@ connective tissue disorders increased
 
 Uncommon: Myositis, increased myoglobin, muscular weakness, muscle pain, arthralgia, serum lactate dehydrogenase (LDH) increased
 Not known*: Rhabdomyolysis3 **
-Renal and urinary disorders Uncommon: Renal impairment, including renal failure and renal insufficiency, serum creatinine increased
-
-Reproductive system and Uncommon: Vaginitis
-
-breast disorders
+Renal and urinary disorders Uncommon: Renal impairment, including renal failure and renal insufficiency, serum creatinine increased Reproductive system and Uncommon: Vaginitis breast disorders
 
 General disorders and Common: Infusion site reactions, pyrexia, asthenia
 
 administration site conditions Uncommon: Fatigue, pain
 * Based on post-marketing reports.
-Since these reports are from a population of uncertain size and are subject to confounding factors, it is not possible to reliably estimate their frequency or establish a causal relationship to exposure to the medicinal product.
+Since these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency which is therefore categorised as not known.
 ** See section 4.4.
 1 While the exact incidence of eosinophilic pneumonia associated with daptomycin is unknown, to date the reporting rate of spontaneous reports is very low (< 1/10,000).
 2 In some cases of myopathy involving raised CPK and muscle symptoms, the patients also presented with elevated transaminases.

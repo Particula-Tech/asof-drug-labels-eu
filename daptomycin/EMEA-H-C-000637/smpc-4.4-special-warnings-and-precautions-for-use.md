@@ -25,13 +25,13 @@ In addition, dose regimens of daptomycin that might be appropriate for the treat
 Failures with daptomycin in the treatment of enterococcal infections that were mostly accompanied by bacteraemia have been reported.
 In some instances treatment failure has been associated with the selection of organisms with reduced susceptibility or frank resistance to daptomycin (see section 5.1).
 
-Non-susceptible organisms
-The use of antibiotics may promote the overgrowth of non-susceptible micro-organisms.
+Non-susceptible micro-organisms
+The use of antibacterials may promote the overgrowth of non-susceptible micro-organisms.
 If superinfection occurs during therapy, appropriate measures should be taken.
-
 Clostridium difficile-associated diarrhoea
 Clostridium difficile-associated diarrhoea (CDAD) has been reported with Cubicin (see section 4.8).
 If CDAD is suspected or confirmed, Cubicin may need to be discontinued and appropriate treatment instituted as clinically indicated.
+
 Drug/laboratory test interactions
 False prolongation of prothrombin time (PT) and elevation of international normalised ratio (INR) have been observed when certain recombinant thromboplastin reagents are utilised for the assay (see also section 4.5).
 
@@ -60,11 +60,12 @@ The majority of cases occurred after more than 2 weeks of treatment with Cubicin
 Recurrence of eosinophilic pneumonia upon re-exposure has been reported.
 Patients who develop these signs and symptoms while receiving Cubicin should undergo prompt medical evaluation, including, if appropriate, bronchoalveolar lavage, to exclude other causes (e.g. bacterial infection, fungal infection, parasites, other medicinal products).
 Cubicin should be discontinued immediately and treatment with systemic steroids should be initiated when appropriate.
-
 Renal impairment
 Renal impairment has been reported during treatment with Cubicin.
 Severe renal impairment may in itself also pre-dispose to elevations in daptomycin levels which may increase the risk of development of myopathy (see above).
-Dose adjustment is needed for patients whose creatinine clearance is < 30 ml/min (see sections 4.2 and 5.2).
+
+An adjustment of Cubicin dose interval is needed for patients whose creatinine clearance is
+< 30 ml/min (see sections 4.2 and 5.2).
 The safety and efficacy of the dose interval adjustment have not been evaluated in controlled clinical trials and the recommendation is mainly based on pharmacokinetic modelling data.
 Cubicin should only be used in such patients when it is considered that the expected clinical benefit outweighs the potential risk.
 
