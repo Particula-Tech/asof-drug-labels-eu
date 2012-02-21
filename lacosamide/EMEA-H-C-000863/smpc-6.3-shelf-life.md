@@ -18,6 +18,11 @@
 
 (all sentences already above)
 
+[Vimpat 10 mg/ml syrup]
+
+2 years
+After first opening: 4 weeks.
+
 [Vimpat 10 mg/ml solution for infusion]
 
 3 years.

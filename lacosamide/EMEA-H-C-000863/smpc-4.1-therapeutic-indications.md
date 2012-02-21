@@ -1,6 +1,6 @@
 # 4.1 Therapeutic indications
 
-Vimpat is indicated as adjunctive therapy in the treatment of partial-onset seizures with or without secondary generalisation in patients with epilepsy aged 16 years and older.
+Vimpat is indicated as adjunctive therapy in the treatment of partial-onset seizures with or without secondary generalisation in adult and adolescent (16-18 years) patients with epilepsy.
 
 [Vimpat 100 mg film-coated tablets]
 
@@ -15,6 +15,10 @@ Vimpat is indicated as adjunctive therapy in the treatment of partial-onset seiz
 (all sentences already above)
 
 [Vimpat 50 mg film-coated tablets (SmPC 5)]
+
+(all sentences already above)
+
+[Vimpat 10 mg/ml syrup]
 
 (all sentences already above)
 

@@ -4,7 +4,9 @@ Absorption
 Lacosamide is rapidly and completely absorbed after oral administration.
 The oral bioavailability of lacosamide tablets is approximately 100%.
 Following oral administration, the plasma concentration of unchanged lacosamide increases rapidly and reaches Cmax about 0.5 to 4 hours post-dose.
+Vimpat tablets and oral syrup are bioequivalent.
 Food does not affect the rate and extent of absorption.
+
 Distribution
 The volume of distribution is approximately 0.6 L/kg.
 Lacosamide is less than 15% bound to plasma proteins.
@@ -42,7 +44,6 @@ Therefore dosage supplementation following haemodialysis is recommended (see sec
 The exposure of the O-desmethyl metabolite was several-fold increased in patients with moderate and severe renal impairment.
 In absence of haemodialysis in patients with endstage renal disease, the levels were increased and continuously rising during the 24-hour sampling.
 It is unknown whether the increased metabolite exposure in endstage renal disease subjects could give rise to adverse effects but no pharmacological activity of the metabolite has been identified.
-
 Hepatic impairment
 Subjects with moderate hepatic impairment (Child-Pugh B) showed higher plasma concentrations of lacosamide (approximately 50% higher AUCnorm).
 The higher exposure was partly due to a reduced renal function in the studied subjects.
@@ -72,6 +73,10 @@ A general dose reduction is not considered to be necessary unless indicated due 
 [Vimpat 50 mg film-coated tablets (SmPC 5)]
 
 (all sentences already above)
+
+[Vimpat 10 mg/ml syrup]
+
+Vimpat tablets and syrup are bioequivalent.
 
 [Vimpat 10 mg/ml solution for infusion]
 

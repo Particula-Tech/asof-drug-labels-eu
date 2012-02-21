@@ -19,8 +19,12 @@ Packs of 14, 56 and 168 film-coated tablets (multipacks containing 3 packs of 56
 
 [Vimpat 50 mg film-coated tablets (SmPC 5)]
 
-The treatmenat initiation pack contains 4 cartons, each carton with 14 tablets of 50 mg, 100 mg,
-150 mg and 200 mg
+The treatment initiation pack contains 4 cartons, each carton with 14 tablets of 50 mg, 100 mg, 150 mg and 200 mg
+
+[Vimpat 10 mg/ml syrup]
+
+200 ml and 465 ml amber glass bottles with white polypropylene screw cap and a measuring cup.
+Each graduation mark (5ml) of the measuring cup corresponds to 50 mg (for example 2 graduation marks correspond to 100 mg).
 
 [Vimpat 10 mg/ml solution for infusion]
 

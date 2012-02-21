@@ -18,6 +18,10 @@ This medicinal product does not require any special storage conditions.
 
 (all sentences already above)
 
+[Vimpat 10 mg/ml syrup]
+
+Do not refrigerate.
+
 [Vimpat 10 mg/ml solution for infusion]
 
 Do not store above 25°C.

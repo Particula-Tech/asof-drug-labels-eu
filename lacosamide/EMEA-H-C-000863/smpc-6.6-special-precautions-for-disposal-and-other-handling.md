@@ -1,6 +1,7 @@
 # 6.6 Special precautions for disposal
 
-No special requirements.
+No special requirements for disposal.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 [Vimpat 100 mg film-coated tablets]
 
@@ -15,6 +16,10 @@ No special requirements.
 (all sentences already above)
 
 [Vimpat 50 mg film-coated tablets (SmPC 5)]
+
+(all sentences already above)
+
+[Vimpat 10 mg/ml syrup]
 
 (all sentences already above)
 

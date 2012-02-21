@@ -50,11 +50,19 @@ On the first day of treatment the patient starts with Vimpat 50 mg tablets twice
 During the second week, the patient takes Vimpat 100 mg tablets twice a day.
 Depending on response and tolerability, Vimpat 150 mg tablets may be taken twice a day during the third week and Vimpat 200 mg tablets twice a day during the fourth week.
 
+[Vimpat 10 mg/ml syrup]
+
+Method of administration
+Only the measuring cup provided in this pack should be used for dosing of Vimpat syrup 10 mg/ml..
+Instructions for use are provided in the package leaflet.
+The bottle containing Vimpat syrup should be shaken well before use.
+
 [Vimpat 10 mg/ml solution for infusion]
 
 Vimpat must be administered twice a day.
 
 Vimpat therapy can be initiated with either oral or i.v. administration.
+
 The solution for infusion is infused over a period of 15 to 60 minutes twice daily.
 Vimpat solution for infusion can be administered i.v. without further dilution.
 Conversion to or from oral and i.v. administration can be done directly without titration.

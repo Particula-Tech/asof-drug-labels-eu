@@ -18,6 +18,10 @@ EU/1/08/470/010-012
 
 EU/1/08/470/013
 
+[Vimpat 10 mg/ml syrup]
+
+(all sentences already above)
+
 [Vimpat 10 mg/ml solution for infusion]
 
 EU/1/08/470/016-017

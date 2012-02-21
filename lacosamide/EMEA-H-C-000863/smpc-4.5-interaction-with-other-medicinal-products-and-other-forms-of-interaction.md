@@ -54,6 +54,10 @@ Lacosomide does not inhibit or induce CYP2C19 and CYP3A4 to a clinically relevan
 
 (all sentences already above)
 
+[Vimpat 10 mg/ml syrup]
+
+(all sentences already above)
+
 [Vimpat 10 mg/ml solution for infusion]
 
 (all sentences already above)

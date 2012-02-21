@@ -18,6 +18,10 @@ Vimpat 200 mg film-coated tablets
 
 (all sentences already above)
 
+[Vimpat 10 mg/ml syrup]
+
+Vimpat 10 mg/ml syrup
+
 [Vimpat 10 mg/ml solution for infusion]
 
 Vimpat 10 mg/ml solution for infusion
