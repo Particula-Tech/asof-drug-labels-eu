@@ -33,8 +33,6 @@ For intravenous use.
 
 [Aloxi 500 micrograms soft capsules]
 
-Aloxi should be used only before chemotherapy administration.This medicinal product should be administered by a healthcare professional under appropriate medical supervision.
-
 500 micrograms palonosetron administered orally approximately one hour before the start of chemotherapy.
 
 For oral use.
