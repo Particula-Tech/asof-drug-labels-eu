@@ -29,6 +29,9 @@ Rare: Serious hypersensitivity reactions (including anaphylaxis, angioedema)
 
 Psychiatric disorders Common: Depression
 Nervous system disorders Common: Dizziness, headache
+
+Rare: Facial palsy
+
 Respiratory, thoracic and Common: Pharyngolaryngeal pain, nasal congestion
 
 mediastinal disorders
@@ -36,7 +39,7 @@ mediastinal disorders
 Gastrointestinal disorders Common: Diarrhoea
 
 Skin and subcutaneous tissue Common: Pruritus disorders
-Musculoskeletal and connective Common: Back pain, myalgia tissue disorders
+Musculoskeletal and connective Common: Back pain, myalgia, arthralgia tissue disorders
 
 General disorders and Common: Fatigue, injection site erythema
 

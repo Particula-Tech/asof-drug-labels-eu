@@ -101,7 +101,6 @@ The improvement was sustained through Week 28.
 Similarly, significant improvements were seen in Psoriasis Study 2 at Week 4 and 12, which were sustained through Week 24.
 In Psoriasis Study 1, improvements in nail psoriasis (Nail Psoriasis Severity Index), in the physical and mental component summary scores of the SF-36 and in the Itch Visual Analogue Scale (VAS) were also significant in each ustekinumab treatment group compared with placebo.
 In Psoriasis Study 2, the Hospital Anxiety and Depression Scale (HADS) and Work Limitations Questionnaire (WLQ) were also significantly improved in each ustekinumab treatment group compared with placebo.
-
 Paediatric population
 The European Medicines Agency has waived the obligation to conduct studies with ustekinumab in plaque psoriasis in paediatric patients aged from birth to less than 6 years.
 

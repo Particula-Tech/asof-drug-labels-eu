@@ -9,7 +9,7 @@ The absolute bioavailability of ustekinumab following a single subcutaneous admi
 Distribution
 Median volume of distribution during the terminal phase (Vz) following a single intravenous administration to patients with psoriasis ranged from 57 to 83 ml/kg.
 
-Metabolism
+Biotransformation
 The exact metabolic pathway for ustekinumab is unknown.
 
 Elimination
@@ -33,6 +33,7 @@ In a population pharmacokinetic analysis, body weight was found to be the most s
 The median CL/F in patients with weight > 100 kg was approximately 55% higher compared to patients with weight ≤100 kg.
 The median V/F in patients with weight > 100 kg was approximately 37% higher as compared to patients with weight ≤100 kg.
 The median trough serum concentrations of ustekinumab in patients with higher weight (> 100 kg) in the 90 mg group were comparable to those in patients with lower weight (≤100 kg) in the 45 mg group.
+
 Special populations
 No pharmacokinetic data are available in patients with impaired renal or hepatic function.
 No specific studies have been conducted in elderly patients.

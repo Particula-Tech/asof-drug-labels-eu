@@ -1,6 +1,6 @@
 # 6.3 Shelf life
 
-12 months
+12 months.
 
 [STELARA 90 mg solution for injection]
 
@@ -8,7 +8,7 @@
 
 [STELARA 45 mg solution for injection in pre-filled syringe.]
 
-18 months
+18 months.
 
 [STELARA 90 mg solution for injection in pre-filled syringe.]
 
