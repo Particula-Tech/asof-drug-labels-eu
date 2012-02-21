@@ -1,6 +1,7 @@
 # 5.3 Preclinical safety data
 
 The non-clinical safety profile of dasatinib was assessed in a battery of in vitro and in vivo studies in mice, rats, monkeys, and rabbits.
+
 The primary toxicities occurred in the gastrointestinal, haematopoietic, and lymphoid systems.
 Gastrointestinal toxicity was dose-limiting in rats and monkeys, as the intestine was a consistent target organ.
 In rats, minimal to mild decreases in erythrocyte parameters were accompanied by bone marrow changes; similar changes occurred in monkeys at a lower incidence.
@@ -24,5 +25,4 @@ These effects occurred at doses that did not produce maternal toxicity, indicati
 In mice, dasatinib induced immunosuppression, which was dose-related and effectively managed by dose reduction and/or changes in dosing schedule.
 Dasatinib had phototoxic potential in an in vitro neutral red uptake phototoxicity assay in mouse fibroblasts.
 Dasatinib was considered to be non-phototoxic in vivo after a single oral administration to female hairless mice at exposures up to 3-fold the human exposure following administration of the recommended therapeutic dose (based on AUC).
-
 Dasatinib was not carcinogenic in rats at doses up to 3 mg/kg/day, a dose which gave rise to a dasatinib plasma exposure level close to what is observed clinically.

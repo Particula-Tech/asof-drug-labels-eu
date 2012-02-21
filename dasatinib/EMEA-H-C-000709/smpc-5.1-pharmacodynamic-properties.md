@@ -41,6 +41,7 @@ Baseline characteristics were well balanced between the two treatment groups wit
 At baseline, the distribution of Hasford Scores was similar in the SPRYCEL and imatinib treatment groups (low risk: 33% and 34%; intermediate risk 48% and 47%; high risk: 19% and 19%, respectively).
 With a minimum of 12 months follow-up, 85% of patients randomised to the SPRYCEL group and 81% of patients randomised to the imatinib group were still receiving first-line treatment.
 Discontinuation within 12 months due to disease progression occurred in 3% of SPRYCEL-treated patients and 5% of imatinib-treated patients.
+
 With a minimum of 24 months follow-up, 77% of patients randomised to the SPRYCEL group and 75% of patients randomised to the imatinib group were still receiving first-line treatment.
 Discontinuation within 24 months due to disease progression occurred in 5% of SPRYCEL-treated patients and 7% of imatinib-treated patients.
 
@@ -228,18 +229,20 @@ The outcome of patients with bone marrow transplantation after dasatinib treatme
 
 Phase III clinical studies in patients with CML in chronic, accelerated, or myeloid blast phase, and Ph+ ALL who were resistant or intolerant to imatinib
 Two randomised, open-label studies were conducted to evaluate the efficacy of dasatinib administered once daily compared with dasatinib administered twice daily.
-Results described below are based on a minimum of 24 months follow-up after the start of dasatinib therapy.
+Results described below are based on a minimum of 24 months and 60 months follow-up after the start of dasatinib therapy.
 
 1- In the study in chronic phase CML, the primary endpoint was MCyR in imatinib-resistant patients.
 The main secondary endpoint was MCyR by total daily dose level in the imatinib-resistant patients.
 Other secondary endpoints included duration of MCyR, PFS, and overall survival.
 A total of 670 patients, of whom 497 were imatinib-resistant, were randomised to the dasatinib 100 mg once daily, 140 mg once daily, 50 mg twice daily, or 70 mg twice daily group.
-Median duration of treatment was 22 months (range < 1-31 months).
+Median duration of treatment was 29 months (range < 1-66 months).
+In patients with resistant or intolerant chronic phase CML, the median duration of treatment for patients still on therapy (n=205) was 59 months (range 28-66 months).
+
 Efficacy was achieved across all dasatinib treatment groups with the once daily schedule demonstrating comparable efficacy (non-inferiority) to the twice daily schedule on the primary efficacy endpoint (difference in MCyR 1.9%; 95% confidence interval [-6.8% - 10.6%]).
 The main secondary endpoint of the study also showed comparable efficacy (non-inferiority) between the 100 mg total daily dose and the 140 mg total daily dose (difference in MCyR -0.2%; 95% confidence interval [-8.9% - 8.5%]).
-Efficacy results are presented in Table 7.
+Efficacy results are presented in Table 7 and 8.
 
-Table 7: Efficacy of SPRYCEL in phase III dose-optimisation study: Chronic Phase CML
+Table 7: Efficacy of SPRYCEL in phase III dose-optimisation study: Chronic Phase CML (2-year results)
 100 mg once daily 50 mg twice dailya 140 mg once dailya 70 mg twice dailya
 
 All patients n = 167 n = 168 n = 167 n = 168
@@ -265,8 +268,16 @@ Major Molecular Responsed (%) (95% CI)
 All patients 69% (58-79) 70% (59-80) 72% (60-82) 66% (54-76)
 Imatinib-resistant patients 72% (58-83) 69% (54-81) 63% (48-76) 64% (50-76)
 
-Survival (% [95% CI]; Kaplan-Meier estimates)
-Progression-Free
+a Not a recommended starting dose of SPRYCEL for chronic phase CML (see section 4.2).
+b Haematologic response criteria (all responses confirmed after 4 weeks):
+CHR (chronic CML): WBC ≤ institutional ULN, platelets < 450,000/mm3, no blasts or promyelocytes in peripheral blood, < 5% myelocytes plus metamyelocytes in peripheral blood, basophils in peripheral blood < 20%, and no extramedullary involvement. c Cytogenetic response criteria: complete (0% Ph+ metaphases) or partial (> 0%-35%).
+MCyR (0%-35%) combines both complete and partial responses.
+d Major molecular response criteria: Defined as BCR-ABL/control transcripts ≤ 0.1% by RQ-PCR in peripheral blood samples.
+Molecular response was evaluated in a subset of assessed patients who had a CCyR.
+CI = confidence interval; ULN = upper limit of normal range.
+
+Table 8: Efficacy of SPRYCEL in phase III dose-optimisation study: Chronic Phase CML (5-year results)
+100 mg once daily 50 mg twice dailya 140 mg once dailya 70 mg twice dailya Progression-Freeb
 1 Year
 
 All patients 90% (86-95) 86% (81-92) 88% (82-93) 87% (82-93)
@@ -276,6 +287,11 @@ Imatinib-resistant patients 88% (82-94) 84% (77-91) 86% (80-93) 85% (78-91)
 
 All patients 80% (73-87) 76% (68-83) 75% (67-82) 76% (68-83)
 Imatinib-resistant patients 77% (68-85) 73% (64-82) 68% (59-78) 72% (63-81)
+
+5 Year
+
+All patients 51% (41-60) 56% (47-65) 42% (32-52) 52% (44-61)
+Imatinib-resistant patients 49% (39-59) 55% (44-65) 33% (21-44) 51% (41-61)
 
 Overall Survival
 1 Year
@@ -288,29 +304,34 @@ Imatinib-resistant patients 94% (90-98) 95% (91-99) 97% (93-100) 92% (87-97)
 All patients 91% (86-96) 90% (86-95) 94% (90-97) 88% (82-93)
 Imatinib-resistant patients 89% (84-95) 89% (83-94) 94% (89-98) 84% (78-91)
 
+5 Year
+
+All patients 78% (72-85) 75% (68-82) 79% (72-86) 73% (66-80)
+Imatinib-resistant patients 77% (69-85) 73% (64-81) 76% (66-85) 70% (62-78)
+
 a Not a recommended starting dose of SPRYCEL for chronic phase CML (see section 4.2).
-b Haematologic response criteria (all responses confirmed after 4 weeks):
-CHR (chronic CML): WBC ≤ institutional ULN, platelets < 450,000/mm3, no blasts or promyelocytes in peripheral blood, < 5% myelocytes plus metamyelocytes in peripheral blood, basophils in peripheral blood < 20%, and no extramedullary involvement. c Cytogenetic response criteria: complete (0% Ph+ metaphases) or partial (> 0%-35%).
-MCyR (0%-35%) combines both complete and partial responses.
-d Major molecular response criteria: Defined as BCR-ABL/control transcripts ≤ 0.1% by RQ-PCR in peripheral blood samples.
-Molecular response was evaluated in a subset of assessed patients who had a CCyR.
-CI = confidence interval; ULN = upper limit of normal range.
+b Progression was defined as increasing WBC count, loss of CHR or MCyR, ≥30% increase in Ph+ metaphases, confirmed AP/BP disease or death.
+PFS was analysed on an intent-to-treat principle and patients were followed to events including subsequent therapy.
 
 Based on the Kaplan-Meier estimates, the proportion of patients treated with dasatinib 100 mg once daily who maintained MCyR for 18 months was 93% (95% CI: [88%-98%]) and 88% (95% CI: [81%- 95%]) for patients treated with 70 mg of dasatinib twice daily.
 
+In patients resistant to imatinib who received 100 mg once daily, major molecular response (MMR) in all patients assessed for MMR was achieved in 35% within 2 years and 42% within 5 years.
+
 Efficacy was also assessed in patients who were intolerant to imatinib.
-In this population of patients who received 100 mg once daily, MCyR was achieved in 77%, CCyR in 67%, and major molecular response in 64%.
+In this population of patients who received 100 mg once daily, MCyR was achieved in 77% and CCyR in 67%.
+In the intolerant population receiving 100 mg once daily, MMR in all patients assessed for MMR was achieved in 43% within 2 years and 53% within 5 years.
 Based on the Kaplan-Meier estimates, all imatinib-intolerant patients (100%) maintained MCyR for 1 year and 92% (95% CI: [80%-100%]) maintained MCyR for 18 months.
-The estimated rate of PFS in this population was 97% (95% CI: [92%-100%]) at 1 year and 87% (95% CI: [76%-99%]) at 2 years.
-The estimated rate of overall survival was 100% at 1 year and 95% (95% CI: [88%-100%]) at 2 years.
+The estimated rate of PFS in this population was 97% (95% CI: [92%-100%]) at 1 year and 87% (95% CI: [76%-99%]) at 2 years and 56% (95% CI: [37%-76%]) at 5 years.
+The estimated rate of overall survival was 100% at 1 year and 95% (95% CI: [88%-100%]) at 2 years and 82% (95% CI: [70%-94%]) at 5 years.
+
 2- In the study in advanced phase CML and Ph+ ALL, the primary endpoint was MaHR.
 A total of 611 patients were randomised to either the dasatinib 140 mg once daily or 70 mg twice daily group.
 Median duration of treatment was approximately 6 months (range 0.03-31 months).
 
 The once daily schedule demonstrated comparable efficacy (non-inferiority) to the twice daily schedule on the primary efficacy endpoint (difference in MaHR 0.8%; 95% confidence interval [-7.1% - 8.7%]).
-Response rates are presented in Table 8.
+Response rates are presented in Table 9.
 
-Table 8: Efficacy of SPRYCEL in phase III dose-optimisation study: Advanced Phase CML and Ph+ ALL
+Table 9: Efficacy of SPRYCEL in phase III dose-optimisation study: Advanced Phase CML and Ph+ ALL
 
 | 140 mg once daily | 70 mg twice dailya |
 | --- | --- |
@@ -323,7 +344,6 @@ b Hematologic response criteria (all responses confirmed after 4 weeks): Major h
 CHR: WBC ≤ institutional ULN, ANC ≥ 1,000/mm3, platelets ≥ 100,000/mm3, no blasts or promyelocytes in peripheral blood, bone marrow blasts ≤ 5%, < 5% myelocytes plus metamyelocytes in peripheral blood, basophils in peripheral blood < 20%, and no extramedullary involvement.
 NEL: same criteria as for CHR but ANC ≥ 500/mm3 and < 1,000/mm3, or platelets ≥ 20,000/mm3 and ≤ 100,000/mm3. c MCyR combines both complete (0% Ph+ metaphases) and partial (> 0%-35%) responses.
 CI = confidence interval; ULN = upper limit of normal range.
-
 The median duration of MaHR in patients with accelerated phase CML was not reached for either group; the median PFS was 25 months and 26 months for the 140 mg once daily group and the 70 mg twice daily group, respectively; and the median overall survival was not reached for the 140 mg once daily group and 31 months for the 70 mg twice daily group.
 
 In patients with myeloid blast phase CML, the median duration of MaHR was 8 months and 9 months for the 140 mg once daily group and the 70 mg twice daily group, respectively; the median PFS was 4 months for both groups; and the median overall survival was 8 months for both groups.
