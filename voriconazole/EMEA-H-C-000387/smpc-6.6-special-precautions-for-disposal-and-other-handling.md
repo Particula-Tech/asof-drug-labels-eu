@@ -9,13 +9,12 @@ No special requirements.
 [VFEND 200 mg powder for solution for infusion]
 
 Any unused product or waste material should be disposed of in accordance with local requirements.
-The powder is reconstituted with either 19 ml of Water for Injections or 19 ml of 9 mg/ml (0.9%) Sodium Chloride for Infusion to obtain an extractable volume of 20 ml of clear concentrate containing 10 mg/ml of voriconazole.
+
+The powder is reconstituted with either 19 ml of water for injections or 19 ml of 9 mg/ml (0.9%) Sodium Chloride for Infusion to obtain an extractable volume of 20 ml of clear concentrate containing 10 mg/ml of voriconazole.
 Discard the VFEND vial if vacuum does not pull the diluent into the vial.
-It is recommended that a standard 20 ml (non-automated) syringe be used to ensure that the exact amount (19.0 ml) of Water for Injections or (9 mg/ml [0.9%]) Sodium Chloride for Infusion is dispensed.
+It is recommended that a standard 20 ml (non-automated) syringe be used to ensure that the exact amount (19.0 ml) of water for injections or (9 mg/ml [0.9%]) Sodium Chloride for Infusion is dispensed.
 This medicinal product is for single use only and any unused solution should be discarded and only clear solutions without particles should be used.
-
 For administration, the required volume of the reconstituted concentrate is added to a recommended compatible infusion solution (detailed below) to obtain a final voriconazole solution containing 0.5-5 mg/ml.
-
 Required Volumes of 10 mg/ml VFEND Concentrate
 
 | Body Weight (kg) | Volume of VFEND Concentrate (10 mg/ml) required for: |  |  |  |  |
@@ -41,22 +40,20 @@ Required Volumes of 10 mg/ml VFEND Concentrate
 | 95 | 28.5 ml (2) | 38.0 ml (2) | 57.0 ml (3) | - | - |
 | 100 | 30.0 ml (2) | 40.0 ml (2) | 60.0 ml (3) | - | - |
 
-Voriconazole is a single dose unpreserved sterile lyophile.
-Therefore, from a microbiological point of view, the reconstituted solution must be used immediately.
-If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2 to 8°C, unless reconstitution has taken place in controlled and validated aseptic conditions.
-
 The reconstituted solution can be diluted with:
 
-9 mg/ml (0.9 %) Sodium Chloride for Infusion
-Lactated Ringer’s Intravenous Infusion
-5 % Glucose and Lactated Ringer’s Intravenous Infusion 5 % Glucose and 0.45 % Sodium Chloride Intravenous Infusion 5 % Glucose Intravenous Infusion 5 % Glucose in 20 mEq Potassium Chloride Intravenous Infusion
-0.45 % Sodium Chloride Intravenous Infusion 5 % Glucose and 0.9 % Sodium Chloride Intravenous Infusion
+Sodium Chloride 9 mg/ml (0.9 %) Solution for Injection
+Compound Sodium Lactate Intravenous Infusion
+5 % Glucose and Lactated Ringer’s Intravenous Infusion
+5 % Glucose and 0.45 % Sodium Chloride Intravenous Infusion
+5 % Glucose Intravenous Infusion
+5 % Glucose in 20 mEq Potassium Chloride Intravenous Infusion
+0.45 % Sodium Chloride Intravenous Infusion
+5 % Glucose and 0.9 % Sodium Chloride Intravenous Infusion
 
 The compatibility of voriconazole with diluents other than described above or in section 6.2 is unknown.
 
 [VFEND 40 mg/ml powder for oral suspension]
-
-Any remaining suspension should be discarded 14 days after constitution.
 
 Constitution instructions:
 1.
@@ -74,6 +71,8 @@ Press bottle adaptor into the neck of the bottle.
 Replace the cap.
 6.
 Write the date of expiration of the constituted suspension on the bottle label (the shelf-life of the constituted suspension is 14 days).
+
+Following constitution, the volume of the suspension is 75 ml, providing a usable volume of 70 ml.
 
 Instructions for use:
 Shake the closed bottle of constituted suspension for approximately 10 seconds before each use.

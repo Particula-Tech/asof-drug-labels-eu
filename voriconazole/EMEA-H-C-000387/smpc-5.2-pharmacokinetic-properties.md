@@ -21,8 +21,8 @@ The volume of distribution at steady state for voriconazole is estimated to be 4
 Plasma protein binding is estimated to be 58 %.
 Cerebrospinal fluid samples from eight patients in a compassionate programme showed detectable voriconazole concentrations in all patients.
 
-Metabolism
-In vitro studies showed that voriconazole is metabolised by the hepatic cytochrome P450 isoenzymes, CYP2C19, CYP2C9 and CYP3A4.
+Biotransformation
+In vitro studies showed that voriconazole is metabolised by, the hepatic cytochrome P450 isoenzymes, CYP2C19, CYP2C9 and CYP3A4.
 
 The inter-individual variability of voriconazole pharmacokinetics is high.
 
@@ -36,32 +36,26 @@ Subjects who are heterozygous extensive metabolisers have on average 2-fold high
 The major metabolite of voriconazole is the N-oxide, which accounts for 72 % of the circulating radiolabelled metabolites in plasma.
 This metabolite has minimal antifungal activity and does not contribute to the overall efficacy of voriconazole.
 
-Excretion
+Elimination
 Voriconazole is eliminated via hepatic metabolism with less than 2 % of the dose excreted unchanged in the urine.
 
 After administration of a radiolabelled dose of voriconazole, approximately 80 % of the radioactivity is recovered in the urine after multiple intravenous dosing and 83 % in the urine after multiple oral dosing.
-The majority (> 94 %) of the total radioactivity is excreted in the first 96 hours after both oral and intravenous dosing.
+The majority (>94 %) of the total radioactivity is excreted in the first 96 hours after both oral and intravenous dosing.
 
 The terminal half-life of voriconazole depends on dose and is approximately 6 hours at 200 mg (orally).
 Because of non-linear pharmacokinetics, the terminal half-life is not useful in the prediction of the accumulation or elimination of voriconazole.
 
-Pharmacokinetic-Pharmacodynamic relationships
-In 10 therapeutic studies, the median for the average and maximum plasma concentrations in individual subjects across the studies was 2425 ng/ml (inter-quartile range 1193 to 4380 ng/ml) and 3742 ng/ml (inter-quartile range 2027 to 6302 ng/ml), respectively.
-A positive association between mean, maximum or minimum plasma voriconazole concentration and efficacy in therapeutic studies was not found.
-
-Pharmacokinetic-Pharmacodynamic analyses of clinical trial data identified positive associations between plasma voriconazole concentrations and both liver function test abnormalities and visual disturbances.
-
 Pharmacokinetics in special patient groups
 Gender
 In an oral multiple dose study, Cmax and AUCτ for healthy young females were 83 % and 113 % higher, respectively, than in healthy young males (18-45 years).
-In the same study, no significant differences in Cmax and AUCτ were observed between healthy elderly males and healthy elderly females (≥ 65 years).
+In the same study, no significant differences in Cmax and AUCτ were observed between healthy elderly males and healthy elderly females (≥65 years).
 
 In the clinical programme, no dosage adjustment was made on the basis of gender.
 The safety profile and plasma concentrations observed in male and female patients were similar.
 Therefore, no dosage adjustment based on gender is necessary.
 
 Elderly
-In an oral multiple dose study Cmax and AUCτ in healthy elderly males (≥ 65 years) were 61 % and 86 % higher, respectively, than in healthy young males (18-45 years).
+In an oral multiple dose study Cmax and AUCτ in healthy elderly males (≥65 years) were 61 % and 86 % higher, respectively, than in healthy young males (18-45 years).
 No significant differences in Cmax and AUCτ were observed between healthy elderly females (≥ 65 years) and healthy young females (18- 45 years).
 
 In the therapeutic studies no dosage adjustment was made on the basis of age.
@@ -97,31 +91,35 @@ Hepatic impairment
 After an oral single dose (200 mg), AUC was 233 % higher in subjects with mild to moderate hepatic cirrhosis (Child-Pugh A and B) compared with subjects with normal hepatic function.
 Protein binding of voriconazole was not affected by impaired hepatic function.
 
-In an oral multiple dose study, AUCτ was similar in subjects with moderate hepatic cirrhosis (Child-Pugh B) given a maintenance dose of 100 mg twice daily and subjects with normal hepatic function given 200 mg twice daily.
-No pharmacokinetic data are available for patients with severe hepatic cirrhosis (Child-Pugh C). See dosing and monitoring recommendations under sections 4.2 and 4.4.
+In an oral multiple dose study, AUCτ was similar in subjects with moderate hepatic cirrhosis (Child-Pugh
+B) given a maintenance dose of 100 mg twice daily and subjects with normal hepatic function given 200 mg twice daily.
+No pharmacokinetic data are available for patients with severe hepatic cirrhosis (Child-Pugh C) (see sections 4.2 and 4.4).
 
 [VFEND 200 mg film-coated tablets]
 
-The majority (>94 %) of the total radioactivity is excreted in the first 96 hours after both oral and intravenous dosing.
+In vitro studies showed that voriconazole is metabolised by the hepatic cytochrome P450 isoenzymes, CYP2C19, CYP2C9 and CYP3A4.
+
+No significant differences in Cmax and AUCτ were observed between healthy elderly females (≥65 years) and healthy young females (18- 45 years).
 
 Multiple intravenous doses of 3, 4, 6, 7 and 8 mg/kg twice daily and multiple oral doses (using powder for oral suspension) of 4 mg/kg, 6 mg/kg, and 200 mg twice daily were evaluated in 3 paediatric pharmacokinetic studies.
 
-In an oral single dose (200 mg) study in subjects with normal renal function and mild (creatinine clearance 41-60 ml/min) to severe (creatinine clearance < 20 ml/min) renal impairment, the pharmacokinetics of voriconazole were not significantly affected by renal impairment.
+In an oral multiple dose study, AUCτ was similar in subjects with moderate hepatic cirrhosis (Child-Pugh B) given a maintenance dose of 100 mg twice daily and subjects with normal hepatic function given 200 mg twice daily.
+No pharmacokinetic data are available for patients with severe hepatic cirrhosis (Child-Pugh C). See dosing and monitoring recommendations under sections 4.2 and 4.4.
 
 [VFEND 200 mg powder for solution for infusion]
-
-The majority (> 94%) of the total radioactivity is excreted in the first 96 hours after both oral and intravenous dosing.
 
 Paediatrics
 The recommended doses in children and adolescent patients are based on a population pharmacokinetic analysis of data pooled from 112 immunocompromised paediatric patients aged 2 to <12 years and 26 immunocompromised adolescent patients aged 12 to <17 years.
 
 It is likely that these subjects may metabolize voriconazole more similarly to children than to adolescents/adults.
 
-In patients with moderate to severe renal dysfunction (serum creatinine levels > 2.5 mg /dl), accumulation of the intravenous vehicle, SBECD, occurs.
+In patients with moderate to severe renal dysfunction (serum creatinine levels > 2.5 mg/dl), accumulation of the intravenous vehicle, SBECD, occurs.
 
 [VFEND 40 mg/ml powder for oral suspension]
 
-Bioequivalence was established between the 200mg tablet and the 40 mg/ml oral suspension when administered as a 200 mg dose.
+Bioequivalence was established between the 200 mg tablet and the 40 mg/ml oral suspension when administered as a 200 mg dose.
 When multiple doses of voriconazole oral suspension are administered with high fat meals, Cmax and AUCτ are reduced by 58 % and 37 % respectively.
+
+The majority (>94%) of the total radioactivity is excreted in the first 96 hours after both oral and intravenous dosing.
 
 A relationship between plasma concentrations and age was observed.The safety profile of voriconazole in young and elderly patients was similar and, therefore, no dosage adjustment is necessary for the elderly (see section 4.2).

@@ -1,17 +1,17 @@
 # 6.1 List of excipients
 
-Tablet core:
-Lactose Monohydrate
-Pregelatinised Starch
-Croscarmellose Sodium
+Tablet core
+Lactose monohydrate
+Pregelatinised starch
+Croscarmellose sodium
 Povidone
-Magnesium Stearate
+Magnesium stearate
 
-Film-coat:
+Film-coating
 Hypromellose
-Titanium Dioxide (E171)
-Lactose Monohydrate
-Glycerol Triacetate
+Titanium dioxide (E171)
+Lactose monohydrate
+Glycerol triacetate
 
 [VFEND 200 mg film-coated tablets]
 
@@ -23,10 +23,10 @@ Sulphobutylether beta cyclodextrin sodium (SBECD)
 
 [VFEND 40 mg/ml powder for oral suspension]
 
-Sucrose Silica,
-Colloidal Titanium Dioxide (E171)
+Sucrose
+Silica Colloidal Anhydrous
 Xanthan Gum
 Sodium Citrate
+Citric Acid Anhydrous
 Sodium Benzoate (E211)
-Citric Acid
-Natural Orange Flavour (containing orange oil, maltodextrin and tocopherol)
+Natural Orange Flavour
