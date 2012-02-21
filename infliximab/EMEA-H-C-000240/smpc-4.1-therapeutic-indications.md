@@ -21,6 +21,9 @@ Remicade has been studied only in combination with conventional immunosuppressiv
 Ulcerative colitis:
 Remicade is indicated for treatment of moderately to severely active ulcerative colitis in adult patients who have had an inadequate response to conventional therapy including corticosteroids and 6-mercaptopurine (6-MP) or azathioprine (AZA), or who are intolerant to or have medical contraindications for such therapies.
 
+Paediatric ulcerative colitis:
+Remicade is indicated for treatment of severely active ulcerative colitis, in paediatric patients aged 6 to 17 years, who have had an inadequate response to conventional therapy including corticosteroids and 6-MP or AZA, or who are intolerant to or have medical contraindications for such therapies.
+
 Ankylosing spondylitis:
 Remicade is indicated for treatment of severe, active ankylosing spondylitis, in adult patients who have responded inadequately to conventional therapy.
 

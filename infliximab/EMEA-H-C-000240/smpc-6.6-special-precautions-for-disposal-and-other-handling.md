@@ -4,6 +4,7 @@
 Calculate the dose and the number of Remicade vials needed.
 Each Remicade vial contains 100 mg infliximab.
 Calculate the total volume of reconstituted Remicade solution required.
+
 2.
 Under aseptic conditions, reconstitute each Remicade vial with 10 ml of water for injections, using a syringe equipped with a 21-gauge (0.8 mm) or smaller needle.
 Remove flip-top from the vial and wipe the top with a 70% alcohol swab.
@@ -30,7 +31,6 @@ Use only an infusion set with an in-line, sterile, non-pyrogenic, low protein-bi
 Since no preservative is present, it is recommended that the administration of the solution for infusion is to be started as soon as possible and within 3 hours of reconstitution and dilution.
 When reconstitution and dilution are performed under aseptic conditions, Remicade infusion solution can be used within 24 hours if stored at 2°C to 8°C.
 Do not store any unused portion of the infusion solution for reuse.
-
 5.
 No physical biochemical compatibility studies have been conducted to evaluate the co-administration of Remicade with other agents.
 Do not infuse Remicade concomitantly in the same intravenous line with other agents.

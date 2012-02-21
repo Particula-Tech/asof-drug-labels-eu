@@ -21,7 +21,6 @@ If a patient has an inadequate response or loses response after this period, con
 Alternatively, administration of 3 mg/kg as often as every 4 weeks may be considered.
 If adequate response is achieved, patients should be continued on the selected dose or dose frequency.
 Continued therapy should be carefully reconsidered in patients who show no evidence of therapeutic benefit within the first 12 weeks of treatment or after dose adjustment.
-
 Moderately to severely active Crohn’s disease
 5 mg/kg given as an intravenous infusion followed by an additional 5 mg/kg infusion 2 weeks after the first infusion.
 If a patient does not respond after 2 doses, no additional treatment with infliximab should be given.
@@ -65,7 +64,6 @@ Psoriatic arthritis
 Psoriasis
 5 mg/kg given as an intravenous infusion followed by additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 8 weeks thereafter.
 If a patient shows no response after 14 weeks (i.e. after 4 doses), no additional treatment with infliximab should be given.
-
 Re-administration for Crohn’s disease and rheumatoid arthritis
 If the signs and symptoms of disease recur, Remicade can be re-administered within 16 weeks following the last infusion.
 In clinical studies, delayed hypersensitivity reactions have been uncommon and have occurred after Remicade-free intervals of less than 1 year (see sections 4.4 and 4.8).
@@ -110,10 +108,11 @@ Some patients may require a shorter dosing interval to maintain clinical benefit
 Available data do not support further infliximab treatment in children and adolescents not responding within the first 10 weeks of treatment (see section 5.1).
 
 Remicade has not been studied in patients with Crohn’s disease below the age of 6 years.
+Ulcerative Colitis (6 to 17 years)
+5 mg/kg given as an intravenous infusion over a 2-hour period followed by additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 8 weeks thereafter.
+Available data do not support further infliximab treatment in paediatric patients not responding within the first 8 weeks of treatment (see section 5.1).
 
-Ulcerative Colitis
-The safety and efficacy of Remicade in children and adolescents younger than 18 years in the indication ulcerative colitis have not yet been established.
-No data are available.
+Remicade has not been studied in patients with ulcerative colitis below the age of 6 years.
 
 Psoriasis
 The safety and efficacy of Remicade in children and adolescents younger than 18 years in the indication psoriasis have not been established.

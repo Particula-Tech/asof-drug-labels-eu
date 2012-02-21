@@ -2,6 +2,7 @@
 
 Infusion reactions and hypersensitivity
 Infliximab has been associated with acute infusion-related reactions, including anaphylactic shock, and delayed hypersensitivity reactions (see section 4.8).
+
 Acute infusion reactions including anaphylactic reactions may develop during (within seconds) or within a few hours following infusion.
 If acute infusion reactions occur, the infusion must be interrupted immediately.
 Emergency equipment, such as adrenaline, antihistamines, corticosteroids and an artificial airway must be available.
@@ -44,6 +45,7 @@ Administration of Remicade should be discontinued if a patient develops a new se
 Tuberculosis
 There have been reports of active tuberculosis in patients receiving Remicade.
 It should be noted that in the majority of these reports tuberculosis was extrapulmonary, presenting as either local or disseminated disease.
+
 Before starting treatment with Remicade, all patients must be evaluated for both active and inactive (‘latent’) tuberculosis.
 This evaluation should include a detailed medical history with personal history of tuberculosis or possible previous contact with tuberculosis and previous and/or current immunosuppressive therapy.
 Appropriate screening tests, i.e. tuberculin skin test and chest X-ray, should be performed in all patients (local recommendations may apply).
@@ -118,6 +120,7 @@ In the controlled portions of clinical studies of TNF-blocking agents, more case
 During clinical studies of Remicade across all approved indications the incidence of lymphoma in Remicade-treated patients was higher than expected in the general population, but the occurrence of lymphoma was rare.
 In the post-marketing setting, cases of leukaemia have been reported in patients treated with a TNF-antagonist.
 There is an increased background risk for lymphoma and leukaemia in rheumatoid arthritis patients with long-standing, highly active, inflammatory disease, which complicates risk estimation.
+
 In an exploratory clinical study evaluating the use of Remicade in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies were reported in Remicade-treated patients compared with control patients.
 All patients had a history of heavy smoking.
 Caution should be exercised in considering treatment of patients with increased risk for malignancy due to heavy smoking.
@@ -175,7 +178,7 @@ Infections
 In clinical studies, infections have been reported in a higher proportion of paediatric patients compared to adult patients (see section 4.8).
 
 Vaccinations
-It is recommended that paediatric Crohn’s disease patients, if possible, be brought up to date with all vaccinations in agreement with current vaccination guidelines prior to initiating Remicade therapy.
+It is recommended that paediatric patients, if possible, be brought up to date with all vaccinations in agreement with current vaccination guidelines prior to initiating Remicade therapy.
 
 Malignancies and lymphoproliferative disorders
 Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-blocking agents (initiation of therapy ≤ 18 years of age), including Remicade in the post-marketing setting.

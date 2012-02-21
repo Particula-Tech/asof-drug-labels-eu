@@ -6,6 +6,7 @@ The most serious ADRs associated with the use of TNF blockers that have been rep
 Table 1 lists ADRs based on experience from clinical studies as well as adverse reactions, some with fatal outcome, reported from post-marketing experience.
 Within the organ system classes, adverse reactions are listed under headings of frequency using the following categories: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000), not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+
 Table 1
 Undesirable effects in clinical studies and from post-marketing experience
 
@@ -83,6 +84,7 @@ Rare: Granulomatous lesion.
 Investigations
 Uncommon: Autoantibody positive.
 Rare: Complement factor abnormal.
+
 Infusion-related reactions: An infusion-related reaction was defined in clinical studies as any adverse event occurring during an infusion or within 1 hour after an infusion.
 In phase 3 clinical studies, 18% of infliximab-treated patients compared with 5% of placebo-treated patients experienced an infusion-related reaction.
 Overall, a higher proportion of patients receiving infliximab monotherapy experienced an infusion-related reaction compared to patients receiving infliximab with concomitant immunomodulators.
@@ -153,8 +155,7 @@ The majority of the malignancies developed in the lung or head and neck.
 In addition, rare post-marketing cases of hepatosplenic T-cell lymphoma have been reported in patients with Crohn’s disease and ulcerative colitis treated with Remicade, the majority of whom were adolescent or young adult males (see section 4.4).
 
 Heart failure: In a phase II study aimed at evaluating Remicade in congestive heart failure (CHF), higher incidence of mortality due to worsening of heart failure were seen in patients treated with Remicade, especially those treated with the higher dose of 10 mg/kg (i.e. twice the maximum approved dose).
-In this study 150 patients with NYHA Class III-IV CHF (left ventricular ejection fraction
-≤35%) were treated with 3 infusions of Remicade 5 mg/kg, 10 mg/kg, or placebo over 6 weeks.
+In this study 150 patients with NYHA Class III-IV CHF (left ventricular ejection fraction ≤35%) were treated with 3 infusions of Remicade 5 mg/kg, 10 mg/kg, or placebo over 6 weeks.
 At 38 weeks, 9 of 101 patients treated with Remicade (2 at 5 mg/kg and 7 at 10 mg/kg) died compared to one death among the 49 patients on placebo.
 There have been post-marketing reports of worsening heart failure, with and without identifiable precipitating factors, in patients taking Remicade.
 There have also been rare post-marketing reports of new onset heart failure, including heart failure in patients without known pre-existing cardiovascular disease.
@@ -176,6 +177,7 @@ Table 2: Proportion of patients with increased ALT activity in clinical studies
 | Crohn’s disease2 | 324 | 1034 | 53.7 | 54.0 | 2.2% | 4.9% | 0.0% | 1.5% |
 | Paediatric Crohn’s disease | N/A | 139 | N/A | 53.0 | N/A | 4.4% | N/A | 1.5% |
 | Ulcerative colitis | 242 | 482 | 30.1 | 30.8 | 1.2% | 2.5% | 0.4% | 0.6% |
+| Paediatric Ulcerative colitis | N/A | 60 | N/A | 49.4 | N/A | 6.7% | N/A | 1.7% |
 | Ankylosing spondylitis | 76 | 275 | 24.1 | 101.9 | 0.0% | 9.5% | 0.0% | 3.6% |
 | Psoriatic arthritis | 98 | 191 | 18.1 | 39.1 | 0.0% | 6.8% | 0.0% | 2.1% |
 | Plaque psoriasis | 281 | 1,175 | 16.1 | 50.1 | 0.4% | 7.7% | 0.0% | 3.4% |
@@ -186,6 +188,7 @@ Patients who were randomized to the placebo maintenance group and then later cro
 In the Phase IIIb trial in Crohn’s disease, SONIC, placebo patients received AZA 2.5 mg/kg/day as active control in addition to placebo infliximab infusions.
 3 Number of patients evaluated for ALT.
 4 Median follow-up is based on patients treated.
+
 Antinuclear antibodies (ANA)/Anti-double-stranded DNA (dsDNA) antibodies: Approximately half of infliximab-treated patients in clinical studies who were ANA negative at baseline developed a positive ANA during the study compared with approximately one-fifth of placebo-treated patients.
 Anti-dsDNA antibodies were newly detected in approximately 17% of infliximab-treated patients compared with 0% of placebo-treated patients.
 At the last evaluation, 57% of infliximab-treated patients remained anti-dsDNA positive.
@@ -225,6 +228,32 @@ In the REACH study, infections were reported in 56.3% of randomized subjects tre
 Infections were reported more frequently for subjects who received q8 week as opposed to q12 week infusions (73.6% and 38.0%, respectively), while serious infections were reported for 3 subjects in the q8 week and 4 subjects in the q12 week maintenance treatment group.
 The most commonly reported infections were upper respiratory tract infection and pharyngitis, and the most commonly reported serious infection was abscess.
 Three cases of pneumonia (1 serious) and 2 cases of herpes zoster (both non-serious) were reported.
+Paediatric ulcerative colitis patients:
+Overall, the adverse reactions reported in the paediatric ulcerative colitis trial (C0168T72) and adult ulcerative colitis (ACT 1 and ACT 2) studies were generally consistent.
+In C0168T72, the most common adverse reactions were upper respiratory tract infection, pharyngitis, abdominal pain, fever, and headache.
+The most common adverse event was worsening of ulcerative colitis, the incidence of which was higher in patients on the q12 week vs. the q8 week dosing regimen.
+
+Infusion-related reactions
+Overall, 8 (13.3%) of 60 treated patients experienced one or more infusion reactions, with 4 of 22 (18.2%) in the q8 week and 3 of 23 (13.0%) in the q12 week treatment maintenance group.
+No serious infusion reactions were reported.
+All infusion reactions were mild or moderate in intensity.
+
+Immunogenicity
+Antibodies to infliximab were detected in 4 (7.7%) patients through week 54.
+
+Infections
+Infections were reported in 31 (51.7%) of 60 treated patients in C0168T72 and 22 (36.7%) required oral or parenteral antimicrobial treatment.
+The proportion of patients with infections in C0168T72 was similar to that in the paediatric Crohn’s disease study (REACH) but higher than the proportion in the adults ulcerative colitis studies (ACT 1 and ACT 2).
+The overall incidence of infections in C0168T72 was 13/22 (59%) in the every 8 week maintenance treatment group and 14/23 (60.9%) in the every 12 week maintenance treatment group.
+Upper respiratory tract infection (7/60 [12%]) and pharyngitis (5/60 [8%]) were the most frequently reported respiratory system infections.
+Serious infections were reported in 12% (7/60) of all treated patients.
+
+In this study, there were more patients in the 12 to 17 year age group than in the 6 to 11 year age group (45/60 [75.0%]) vs.15/60 [25.0%]).
+While the numbers of patients in each subgroup are too small to make any definitive conclusions about the effect of age on safety events, there were higher proportions of patients with serious adverse events and discontinuation due to adverse events in the younger age group than in the older age group.
+While the proportion of patients with infections was also higher in the younger age group, for serious infections, the proportions were similar in the two age groups.
+Overall proportions of adverse events and infusion reactions were similar between the 6 to 11 and 12 to 17 year age groups.
+
+Post-marketing experience:
 Post-marketing spontaneous serious adverse events with infliximab in the paediatric population have included malignancies including hepatosplenic T-cell lymphomas, transient hepatic enzyme abnormalities, lupus-like syndromes, and positive auto-antibodies (see sections 4.4 and 4.8).
 
 Additional information on special populations

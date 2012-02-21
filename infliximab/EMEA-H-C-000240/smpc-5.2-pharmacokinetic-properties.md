@@ -18,5 +18,4 @@ No further clinically relevant accumulation was observed.
 In most fistulising Crohn’s disease patients, infliximab was detected in serum for 12 weeks (range 4-28 weeks) after administration of the regimen.
 
 Paediatric population
-Overall, serum levels in paediatric patients with Crohn's disease (53 patients aged 6 to 17 years old; 8 patients aged 6 to 10 years old) were similar to those in adult Crohn's disease patients.
-The median terminal half-life for the 5 mg/kg dose in paediatric patients with Crohn's disease is 10.9 days.
+Infliximab pharmacokinetic characteristics (including peak and trough concentrations and terminal half-life) were similar in paediatric (aged 6 to 17 years old) and adult patients with Crohn’s disease or ulcerative colitis following the administration of 5 mg/kg infliximab.
