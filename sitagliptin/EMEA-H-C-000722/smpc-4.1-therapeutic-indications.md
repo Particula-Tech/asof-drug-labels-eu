@@ -1,6 +1,6 @@
 # 4.1 Therapeutic indications
 
-For patients with type 2 diabetes mellitus, Januvia is indicated to improve glycaemic control:
+For adult patients with type 2 diabetes mellitus, Januvia is indicated to improve glycaemic control:
 
 as monotherapy
 
@@ -14,7 +14,7 @@ as dual oral therapy in combination with
 
 as triple oral therapy in combination with
 
-- a sulphonylurea and metformin when diet and exercise plus dual therapy with these agents do not provide adequate glycaemic control.
-- a PPARγ agonist and metformin when use of a PPARγ agonist is appropriate and when diet and exercise plus dual therapy with these agents do not provide adequate glycaemic control.
+- a sulphonylurea and metformin when diet and exercise plus dual therapy with these medicinal products do not provide adequate glycaemic control.
+- a PPARγ agonist and metformin when use of a PPARγ agonist is appropriate and when diet and exercise plus dual therapy with these medicinal products do not provide adequate glycaemic control.
 
 Januvia is also indicated as add-on to insulin (with or without metformin) when diet and exercise plus stable dose of insulin do not provide adequate glycaemic control.

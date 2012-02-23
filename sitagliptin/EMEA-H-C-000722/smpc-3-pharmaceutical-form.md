@@ -1,6 +1,6 @@
 # 3. PHARMACEUTICAL FORM
 
-Film-coated tablet (tablet)
+Film-coated tablet (tablet).
 
 Round, pink film-coated tablet with “221” on one side.
 

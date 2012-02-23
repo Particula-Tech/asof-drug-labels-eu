@@ -2,7 +2,7 @@
 
 Each tablet contains sitagliptin phosphate monohydrate, equivalent to 25 mg sitagliptin.
 
-For a full list of excipients, see section 6.1.
+For the full list of excipients, see section 6.1.
 
 [Januvia 50 mg film-coated tablets]
 

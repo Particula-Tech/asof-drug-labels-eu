@@ -35,11 +35,3 @@ Januvia is not recommended for use in children below 18 years of age due to a la
 
 Method of administration
 Januvia can be taken with or without food.
-
-[Januvia 50 mg film-coated tablets]
-
-(all sentences already above)
-
-[Januvia 100 mg film-coated tablets]
-
-For patients with mild renal impairment (creatinine clearance [CrCl] ≥50 ml/min), no dose adjustment for Januvia is required.
