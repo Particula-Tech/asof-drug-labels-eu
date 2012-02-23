@@ -4,6 +4,7 @@ Absorption
 Prucalopride is rapidly absorbed; after a single oral dose of 2 mg Cmax was attained in 2-3 hours.
 The absolute oral bioavailability is >90%.
 Concomitant intake of food does not influence the oral bioavailability of prucalopride.
+
 Distribution
 Prucalopride is extensively distributed, and has a steady-state volume of distribution (Vdss) of 567 litre.
 The plasma protein binding of prucalopride is about 30%.
@@ -39,8 +40,8 @@ Compared to subjects with normal renal function, plasma concentrations of prucal
 In subjects with severe renal impairment (ClCR ≤ 24 ml/min), plasma concentrations were 2.3 times the levels in healthy subjects (see section 4.2 and 4.4).
 
 Hepatic impairment
-Non-renal elimination contributes to about 35% of total elimination, and hepatic impairment is unlikely to affect the pharmacokinetics of prucalopride to a clinically relevant extent (see section 4.2 and 4.4).
+Non-renal elimination contributes to about 35% of total elimination, and hepatic impairment is unlikely to affect the pharmacokinetics of prucalopride to a clinically relevant extent (see section 4.2 and 4.4)
 
 Paediatric population
-After a single oral dose of 0.03 mg/kg in paediatric patients aged between 4 and 12 years , Cmax of prucalopride was comparable to the Cmax in adults after a single 2 mg dose, while unbound AUC was 30-40% lower than after 2 mg in adults.
+After a single oral dose of 0.03 mg/kg in paediatric patients aged between 4 and 12 years, Cmax of prucalopride was comparable to the Cmax in adults after a single 2 mg dose, while unbound AUC was 30-40% lower than after 2 mg in adults.
 Unbound exposure was similar over the whole age-range (4-12 years).The average terminal half life in the paediatric subjects was about 19 hours (range 11.6 to 26.8 hours) (see section 4.2).

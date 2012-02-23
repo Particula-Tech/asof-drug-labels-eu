@@ -16,9 +16,11 @@ Clinical experience
 The efficacy of prucalopride was established in three multicentre, randomised, double-blind, 12-week placebo-controlled studies in subjects with chronic constipation (n=1,279 on prucalopride, 1,124 females, 155 males).
 The prucalopride doses studied in each of these three studies included 2 mg and 4 mg once daily.
 The primary efficacy endpoint was the proportion (%) of subjects that reached normalisation of bowel movements defined as an average of three or more spontaneous, complete bowel movements (SCBM) per week over the 12-week treatment period.
-Both doses were statistically superior (p<0.001) to placebo at the primary endpoint in each of the three studies, with no incremental benefit of the 4 mg over the 2 mg dose.
-The proportion of patients treated with the recommended dose of 2 mg prucalopride that reached an average of ≥ 3 SCBM per week was 27.8% (week 4) and 23.6% (week 12), versus 10.5% (week 4) and 11.3% (week 12) on placebo.
-A clinically meaningful improvement of ≥ 1 SCBM per week, the most important secondary efficacy endpoint, was achieved in 48.1% (week 4) and 43.1% (week 12) of patients treated with 2 mg prucalopride versus 23.4% (week 4) and 24.6% (week 12) of placebo patients.
+For the population targeted in this label, the results are the following: The proportion of female patients in whom laxatives fail to provide adequate relief (target population) treated with the recommended dose of 2 mg prucalopride (n=458) that reached an average of ≥ 3 SCBM per week was 31.0% (week 4) and 24.7% (week 12), versus 8.6% (week 4) and 9.2% (week 12) on placebo.
+A clinically meaningful improvement of
+≥ 1 SCBM per week, the most important secondary efficacy endpoint, was achieved in 51.0%
+(week 4) and 44.2% (week 12) treated with 2 mg prucalopride versus 21.7% (week 4) and 22.6% (week 12) of placebo patients.
+Also for the target population prucalopride proved significantly superior (p<0.001) to placebo at the primary endpoint.
 
 In all three studies, treatment with prucalopride also resulted in significant improvements in a validated and disease specific set of symptom measures (PAC SYM), including abdominal, stool and rectal symptoms, determined at week 4 and week 12.
 A significant benefit on a number of Quality of Life measures, such as degree of satisfaction with treatment and with bowel habits, physical and psychosocial discomfort and worries and concerns, was also observed at both the 4 and 12 week assessment time points.

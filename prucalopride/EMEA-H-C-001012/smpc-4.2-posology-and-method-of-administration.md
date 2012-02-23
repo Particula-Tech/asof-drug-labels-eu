@@ -19,9 +19,11 @@ Patients with hepatic impairment: The dose for patients with severe hepatic impa
 No dose adjustment is required for patients with mild to moderate hepatic impairment.
 
 Due to the specific mode of action of prucalopride (stimulation of propulsive motility) exceeding the daily dose of 2 mg is not expected to increase efficacy.
+
 If the intake of once daily prucalopride is not effective after 4 weeks of treatment, the patient should be re-examined and the benefit of continuing treatment reconsidered.
 The efficacy of prucalopride has been established in double blind placebo controlled studies for up to 3 months.
 In case of prolonged treatment the benefit should be reassessed at regular intervals.
 
 Method of administration
+
 Resolor film-coated tablets are for oral use and can be taken with or without food, at any time of the day.
