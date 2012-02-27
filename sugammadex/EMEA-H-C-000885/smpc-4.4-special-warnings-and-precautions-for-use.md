@@ -1,17 +1,17 @@
 # 4.4 Special warnings and precautions for use
 
 Monitoring respiratory function during recovery:
-Ventilatory support is mandatory for patients until adequate spontaneous respiration is restored following reversal of neuromuscular block.
+Ventilatory support is mandatory for patients until adequate spontaneous respiration is restored following reversal of neuromuscular blockade.
 Even if recovery from neuromuscular blockade is complete, other medicinal products used in the peri- and postoperative period could depress respiratory function and therefore ventilatory support might still be required.
 Should neuromuscular blockade reoccur following extubation, adequate ventilation should be provided.
 
-Re-occurrence of blockade:
-In clinical trials re-occurrence of blockade was reported mainly when sub-optimal doses (in dose finding studies) were administered.
-In order to prevent re-occurrence of neuromuscular blockade, the recommended doses for routine or immediate reversal (see section 4.2) should be used.
+Recurrence of neuromuscular blockade:
+In clinical trials recurrence of neuromuscular blockade was reported mainly when sub-optimal doses (in dose finding studies) were administered.
+In order to prevent recurrence of neuromuscular blockade, the recommended doses for routine or immediate reversal (see section 4.2) should be used.
 
-Effect on hemostasis:
-In a study in volunteers doses of 4 mg/kg and 16 mg/kg of sugammadex prolonged by 17-22% the activated partial thromboplastin time (aPTT) and prothrombin time (PT).
-In all cases, this slight prolongation was of short duration (< than 30 minutes).
+Effect on haemostasis:
+In a study in volunteers doses of 4 mg/kg and 16 mg/kg of sugammadex resulted in maximum mean prolongations of the activated partial thromboplastin time (aPTT) by 17 and 22% respectively and prothrombin time (PT)[INR] by 11 and 22% respectively.
+These limited mean aPTT and PT(INR) prolongations were of short duration (≤ 30 minutes).
 Based on the clinical data-base (n=1738) there was no clinically relevant effect of sugammadex alone or in combination with anticoagulants on the incidence of peri- or post-operative bleeding complications.
 
 In in vitro experiments a pharmacodynamic interaction (aPTT and PT prolongation) was noted with vitamin K antagonists, unfractionated heparin, low molecular weight heparinoids, rivaroxaban and dabigatran.
@@ -26,20 +26,19 @@ An increased risk of bleeding can not be excluded in patients:
 - using anticoagulants who receive a dose of 16 mg/kg sugammadex.
 
 If there is a medical need to give sugammadex to these patients the anaesthesiologist needs to decide if the benefits outweigh the possible risk of bleeding complications taking into consideration the patients history of bleeding episodes and type of surgery scheduled.
-If sugammadex is administered to these patients monitoring of hemostasis and coagulation parameters is recommended.
+If sugammadex is administered to these patients monitoring of haemostasis and coagulation parameters is recommended.
+
 Waiting times for re-administration with neuromuscular blocking agents after reversal with sugammadex:
 If re-administration of rocuronium or vecuronium is required a waiting time of 24 hours is recommended.
 If neuromuscular blockade is required before the recommended waiting time has passed, a nonsteroidal neuromuscular blocking agent should be used.
 
 Renal impairment:
-In patients with severe renal failure (creatinine clearance < 30 ml/min) the excretion of sugammadex or the sugammadex-rocuronium complex was delayed, however in these patients there were no signs of re-occurrence of neuromuscular blockade.
-Data from a limited number of renally impaired patients requiring dialysis indicate an inconsistent decrease of plasma levels of sugammadex by haemodialysis.
-The use of sugammadex in patients with severe renal impairment is not recommended.
+Sugammadex is not recommended for use in patients with severe renal impairment, including those requiring dialysis (see section 5.1).
 
 Interactions due to the lasting effect of rocuronium or vecuronium:
-When medicinal products which potentiate neuromuscular blockade are used in the post-operative period special attention should be paid to the possibility of re-occurrence of blockade.
+When medicinal products which potentiate neuromuscular blockade are used in the post-operative period special attention should be paid to the possibility of recurrence of neuromuscular blockade.
 Please refer to the package leaflet of rocuronium or vecuronium for a list of the specific medicinal products which potentiate neuromuscular blockade.
-In case re-occurrence of blockade is observed, the patient may require mechanical ventilation and re-administration of sugammadex (see section 4.2).
+In case recurrence of neuromuscular blockade is observed, the patient may require mechanical ventilation and re-administration of sugammadex (see section 4.2).
 
 Potential interactions:
 
@@ -51,10 +50,10 @@ If such a situation is observed, the clinician is advised to consider the re-adm
 - Displacement interactions:
 
 Due to the administration of certain medicinal products after sugammadex, theoretically rocuronium or vecuronium could be displaced from sugammadex.
-As a result re-occurrence of blockade might be observed.
+As a result recurrence of neuromuscular blockade might be observed.
 In this situation the patient must be ventilated.
 Administration of the medicinal product which caused displacement should be stopped in case of an infusion.
-In situations when potential displacement interactions can be anticipated, patients should be carefully monitored for signs of re-occurrence of blockade (approximately up to 15 minutes) after parenteral administration of another medicinal product occurring within a period of 6 hours after sugammadex administration.
+In situations when potential displacement interactions can be anticipated, patients should be carefully monitored for signs of recurrence of neuromuscular blockade (approximately up to 15 minutes) after parenteral administration of another medicinal product occurring within a period of 6 hours after sugammadex administration.
 Displacement interactions are at present only expected for a few drugs substances (toremifene and fusidic acid, see section 4.5).
 
 Light anaesthesia:
@@ -64,9 +63,9 @@ If neuromuscular blockade is reversed, while anaesthesia is continued, additiona
 Hepatic impairment:
 Sugammadex is not metabolised nor excreted by the liver; therefore dedicated studies in patients with hepatic impairment have not been conducted.
 Patients with severe hepatic impairment should be treated with great caution.
-
 Use in Intensive Care Unit (ICU):
 Sugammadex has not been investigated in patients receiving rocuronium or vecuronium in the ICU setting.
+
 Use for reversal of neuromuscular blocking agents other than rocuronium or vecuronium: Sugammadex should not be used to reverse block induced by nonsteroidal neuromuscular blocking agents such as succinylcholine or benzylisoquinolinium compounds.
 Sugammadex should not be used for reversal of neuromuscular blockade induced by steroidal neuromuscular blocking agents other than rocuronium or vecuronium, since there are no efficacy and safety data for these situations.
 Limited data are available for reversal of pancuronium induced blockade, but it is advised not to use sugammadex in this situation.

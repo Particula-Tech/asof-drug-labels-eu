@@ -24,7 +24,8 @@ Time (minutes) from administration of sugammadex or neostigmine at deep neuromus
 | Neuromuscular blocking agent | Treatment regimen |  |
 | --- | --- | --- |
 |  | Sugammadex (4 mg/kg) | Neostigmine (70 mcg/kg) |
-| Rocuronium N Median (minutes) Range | 37 2.7 1.2-16.1 | 37 49.0 13.3-145.7 |
+| Rocuronium N | 37 | 37 |
+| Median (minutes) Range | 2.7 1.2-16.1 | 49.0 13.3-145.7 |
 | Vecuronium N Median (minutes) Range | 47 3.3 1.4-68.4 | 36 49.9 46.0-312.7 |
 
 Routine reversal – moderate neuromuscular blockade:
@@ -38,11 +39,7 @@ Time (minutes) from administration of sugammadex or neostigmine at reappearance 
 | --- | --- | --- |
 |  | Sugammadex (2 mg/kg) | Neostigmine (50 mcg/kg) |
 | Rocuronium N Median (minutes) Range | 48 1.4 0.9-5.4 | 48 17.6 3.7-106.9 |
-
-Vecuronium
-N 48 45
-Median (minutes) 2.1 18.9
-Range 1.2-64.2 2.9-76.2
+| Vecuronium N Median (minutes) Range | 48 2.1 1.2-64.2 | 45 18.9 2.9-76.2 |
 
 Reversal by sugammadex of the neuromuscular blockade induced by rocuronium was compared to the reversal by neostigmine of the neuromuscular blockade induced by cis-atracurium.
 At the reappearance of T2 a dose of 2 mg/kg sugammadex or 50 mcg/kg neostigmine was administered.
@@ -74,3 +71,9 @@ Time (minutes) from administration of sugammadex at 3 minutes after rocuronium t
 | N | 65 | 65 | 65 |
 | Median (minutes) | 1.5 | 1.3 | 1.1 |
 | Range | 0.5-14.3 | 0.5-6.2 | 0.5-3.3 |
+
+Renal impairment:
+Two open label studies compared the efficacy and safety of sugammadex in surgical patients with and without severe renal impairment.
+In one study, sugammadex was administered following rocuronium induced blockade at 1-2 PTCs (4 mg/kg; N=68); in the other study, sugammadex was administered at reappearance of T2 (2 mg/kg; N=30).
+Recovery from blockade was modestly longer for patients with severe renal impairment relative to patients without renal impairment.
+No residual neuromuscular blockade or recurrence of neuromuscular blockade was reported for patients with severe renal impairment in these studies.

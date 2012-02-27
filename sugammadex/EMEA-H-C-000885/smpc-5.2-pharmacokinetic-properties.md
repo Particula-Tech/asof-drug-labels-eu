@@ -4,15 +4,15 @@ The sugammadex pharmacokinetic parameters were calculated from the total sum of 
 Pharmacokinetic parameters as clearance and volume of distribution are assumed to be the same for non-complex-bound and complex-bound sugammadex in anaesthetised subjects.
 
 Distribution:
-The steady-state volume of distribution of sugammadex is approximately 11 to 14 litres.
-Neither sugammadex nor the complex of sugammadex and rocuronium bind to plasma proteins or erythrocytes, as was shown in vitro using male human plasma and whole blood.
+The observed steady-state volume of distribution of sugammadex is approximately 11 to 14 litres in adult patients with normal renal function (based on conventional, non-compartmental pharmacokinetic analysis).
+Neither sugammadex nor the complex of sugammadex and rocuronium binds to plasma proteins or erythrocytes, as was shown in vitro using male human plasma and whole blood.
 Sugammadex exhibits linear kinetics in the dosage range of 1 to 16 mg/kg when administered as an IV bolus dose.
 
 Metabolism:
 In preclinical and clinical studies no metabolites of sugammadex have been observed and only renal excretion of the unchanged product was observed as the route of elimination.
 
 Elimination:
-The elimination half-life (t½) of sugammadex in adults is 1.8 hours and plasma clearance is estimated to be 88 ml/min.
+In adult anaesthetized patients with normal renal function the effective half-life of sugammadex is about 2.5 hours and the estimated plasma clearance is about 75 ml/min (based on compartmental pharmacokinetic analysis, using three compartments).
 A mass balance study demonstrated that > 90% of the dose was excreted within 24 hours.
 96% of the dose was excreted in urine, of which at least 95% could be attributed to unchanged sugammadex.
 Excretion via faeces or expired air was less than 0.02% of the dose.
@@ -20,35 +20,30 @@ Administration of sugammadex to healthy volunteers resulted in increased renal e
 
 Special populations:
 
-Elderly and renal impairment:
-The pharmacokinetic parameters based on pharmacokinetic modelling in typical elderly and/or renally impaired patients are presented below:
+Renal impairment and age:
+In two pharmacokinetic studies comparing patients with severe renal impairment to patients with normal renal function, sugammadex levels in plasma were similar during at least the first 20 minutes after dosing, and thereafter the levels decreased faster in the control group.
+Total exposure to sugammadex was prolonged, leading to approximately 15-fold higher exposure in patients with severe renal impairment.
+In some of the patients with severe renal insufficiency, sugammadex levels were minimally detectable in plasma one month after dosing.
 
-| Typical subject (75 kg body weight) |  | Clearance (ml/min) | Volume of Distribution at Steady State (l) | Elimination half-life (h) |
-| --- | --- | --- | --- | --- |
-| Adult (40 years) | Normal CrCL: 100 ml/min | 88 (25.0%) | 11.4 (22.9%) | 1.8 (32.9%) |
-| Adult (40 years) | Mild renal impairment CrCL: 50 ml/min | 71 (23.6%) | 11.4 (23.0%) | 2.2 (33.3%) |
-| Adult (40 years) | Moderate renal impairment CrCL: 30 ml/min | 28 (24.4%) | 11.4 (23.5%) | 5.2 (32.9%) |
-| Elderly (75 years) | Normal CrCL: 80 ml/min | 80 (24.0%) | 13.5 (24.4%) | 2.4 (34.9%) |
-| Elderly (75 years) | Mild renal impairment CrCL: 50 ml/min | 72 (24.5%) | 13.2 (24.2%) | 2.6 (34.6%) |
-| Elderly (75 years) | Moderate renal impairment CrCL: 30 ml/min | 28 (24.7%) | 13.4 (23.8%) | 6.1 (36.5%) |
+Predicted pharmacokinetic parameters of sugammadex by age group and renal function based on compartmental modelling (using three compartments) are presented below:
 
-Mean and CV (%) are presented.
+| Selected patient characteristics |  |  | Predicted PK parameters |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Demo-graphics | Renal function (creatinine clearance in ml/min) |  | Clearance in ml/min (CV) | Volume of distribution at steady state in litres (CV) | Effective half-life in hours (CV) |
+| Adult 40 yrs 75 kg | Normal | 100 | 75 (27%) | 19 (30%) | 2.5 (26%) |
+|  | Impaired | Mild 50 Moderate 30 Severe 10 | 34 (27%) 16 (27%) 3 (27%) | 41 (55%) 89 (69%) 679 (80%) | 5.5 (26%) 11.2 (26%) 66.8 (26%) |
+| Elderly 75 yrs 75 kg | Normal | 80 | 70 (27%) | 24 (38%) | 2.7 (26%) |
+|  | Impaired | Mild 50 Moderate 30 Severe 10 | 40 (27%) 19 (27%) 3 (27%) | 41 (55%) 89 (69%) 679 (80%) | 4.7 (26%) 9.5 (26%) 56.7 (26%) |
+| Adolescent 15 yrs 56 kg | Normal | 95 | 62 (27%) | 14 (26%) | 3.0 (26%) |
+|  | Impaired | Mild 48 Moderate 29 Severe 10 | 27 (27%) 13 (27%) 2 (27%) | 26 (50%) 55 (66%) 400 (79%) | 6.7 (26%) 13.8 (26%) 83.2 (26%) |
+| Child 7 yrs 23 kg | Normal | 51 | 29 (27%) | 8 (34%) | 6.4 (26%) |
+|  | Impaired | Mild 26 Moderate 15 Severe 5 | 11 (27%) 5 (27%) 1 (27%) | 17 (59%) 39 (71%) 301 (80%) | 17.2 (26%) 39.1 (26%) 262 (26%) |
 
-Paediatrics:
-Pharmacokinetics in paediatric patients (n=51) with ages ranging from 0 to 17 years were evaluated using population pharmacokinetic (PK) analysis.
-In patients under age 18, volume of distribution and clearance increase with increasing age.
-Variability of plasma concentrations of sugammadex in paediatric patients is comparable to the variability in adult patients.
-The pharmacokinetic (PK) parameters of two typical paediatric patients are summarised below:
-
-| PK Parameters of sugammadex in typical paediatric patients |  |  |
-| --- | --- | --- |
-| PK Parameter | Child (Age:8 yr) | Adolescent (Age: 15 yr) |
-| Elimination Half-Life (h) | 0.9 | 1.7 |
-| Volume of Distribution at Steady State (l) | 3.1 | 9.1 |
-| Clearance (ml/min) | 41 | 71 |
+Mean and coefficient of variation (CV in %) are presented.
 
 Gender:
 No gender differences were observed.
+
 Race:
 In a study in healthy Japanese and Caucasian subjects no clinically relevant differences in pharmacokinetic parameters were observed.
 Limited data does not indicate differences in pharmacokinetic parameters in Black or African Americans.

@@ -1,20 +1,22 @@
 # 4.8 Undesirable effects
 
-The safety of sugammadex has been evaluated based on an integrated safety database of approximately 1700 patients and 120 volunteers.
-The most commonly reported adverse reaction dysgeusia (metal or bitter taste) was mainly seen after doses of 32 mg/kg sugammadex or higher.
+The safety of sugammadex has been evaluated based on an integrated safety database of approximately 1,700 patients and 120 volunteers.
+The most commonly reported adverse reactions in surgical patients were anaesthetic complications (Common [≥ 1/100 to < 1/10]).
+
+The following undesirable effects associated with sugammadex use have been reported for surgical patients in clinical trials:
 
 | Body system | Subject incidence | Undesirable effect |
 | --- | --- | --- |
-| Immune system disorders | Uncommon (≥ 1/1000 to < 1/100) | Drug hypersensitivity reactions (see section 4.4) |
+| Immune system disorders | Uncommon (≥ 1/1,000 to < 1/100) | Drug hypersensitivity reactions (see section 4.4) |
 | Injury, poisoning and procedural complications | Common (≥ 1/100 to < 1/10) | Anaesthetic complication (see section 4.4) |
-|  | Uncommon (≥ 1/1000 to < 1/100) | Unwanted awareness during anaesthesia |
-| Nervous system disorders | Very common (≥ 1/10) in volunteers | Dysgeusia |
+|  | Uncommon (≥ 1/1,000 to < 1/100) | Unwanted awareness during anaesthesia |
 
 Drug hypersensitivity reactions:
-Hypersensitivity reactions have occurred in some patients and volunteers.
-In clinical trials these reactions were reported uncommonly and for post-marketing reports the frequency is unknown.
+Hypersensitivity reactions, including anaphylaxis, have occurred in some patients and volunteers (for information on volunteers, see Information on healthy volunteers below).
+In clinical trials of surgical patients these reactions were reported uncommonly and for post-marketing reports the frequency is unknown.
 These reactions varied from isolated skin reactions to serious systemic reactions (i.e. anaphylaxis, anaphylactic shock) and have occurred in patients with no prior exposure to sugammadex.
 Symptoms associated with these reactions can include: flushing, urticaria, erythematous rash, (severe) hypotension, tachycardia and swelling of tongue and pharynx.
+Severe hypersensitivity reactions can be fatal.
 
 Anaesthetic complication:
 Anaesthetic complications, indicative of the restoration of neuromuscular function, include movement of a limb or the body or coughing during the anaesthetic procedure or during surgery, grimacing, or suckling on the endotracheal tube.
@@ -24,9 +26,14 @@ Awareness:
 In sugammadex treated subjects a few cases of awareness were reported.
 The relation to sugammadex is uncertain.
 
-Re-occurrence of blockade:
-In the data-base of pooled phase I-III studies with a placebo group, the incidence of re-occurrence of blockade as measured with neuromuscular monitoring was 2% after sugammadex and 0% in the placebo group.
+Recurrence of neuromuscular blockade:
+In the data-base of pooled phase I-III studies with a placebo group, the incidence of recurrence of neuromuscular blockade as measured with neuromuscular monitoring was 2% after sugammadex and 0% in the placebo group.
 Virtually all of these cases were from dose-finding studies in which a sub-optimal dose (less than 2 mg/kg) was administered (see section 4.4).
+
+Information on healthy volunteers:
+Hypersensitivity reactions, including anaphylaxis, have been observed with sugammadex.
+In a study in healthy conscious volunteers (placebo, N=150; 4 mg/kg, N=148; and 16 mg/kg, N=150), hypersensitivity reactions were reported commonly with sugammadex 16 mg/kg (n=7, 4.7%), uncommonly with sugammadex 4 mg/kg (n=1, 0.7%), and none with placebo (n=0, 0%).
+In this study, dose dependent trends were also observed for dysgeusia, nausea and flushing.
 
 Additional information on special populations
 
