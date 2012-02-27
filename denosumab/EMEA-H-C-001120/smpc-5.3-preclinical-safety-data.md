@@ -17,6 +17,6 @@ In male mice genetically engineered to express huRANKL (knock-in mice), which we
 
 Knockout mice (see section 4.6) lacking RANK or RANKL exhibited decreased body weight, reduced bone growth and lack of tooth eruption.
 In neonatal rats, inhibition of RANKL (target of denosumab therapy) with high doses of a construct of osteoprotegerin bound to Fc (OPG-Fc) was associated with inhibition of bone growth and tooth eruption.
-The reversibility of the effects of OPG-Fc has not been examined.
+These changes were partially reversible in this model when dosing with RANKL inhibitors was discontinued.
 Adolescent primates dosed with denosumab at 27 and 150 times (10 and 50 mg/kg dose) the clinical exposure had abnormal growth plates.
 Therefore, treatment with denosumab may impair bone growth in children with open growth plates and may inhibit eruption of dentition.
