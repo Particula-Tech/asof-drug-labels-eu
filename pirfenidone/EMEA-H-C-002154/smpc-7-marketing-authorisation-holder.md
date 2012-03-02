@@ -1,10 +1,11 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 InterMune UK Ltd.
-4th Floor
-One Victoria Street
-Bristol
-BS1 6AA
-UK
-Tel.: +44 (0) 207 893 3988
-Fax.: +44 (0) 207 893 3983
+Euston Tower
+Floor 32
+286 Euston Road
+London
+NW1 3DP
+United Kingdom
+Tel.: +44 (0) 3308 080960
+Fax.: +44 (0) 3308 080969
