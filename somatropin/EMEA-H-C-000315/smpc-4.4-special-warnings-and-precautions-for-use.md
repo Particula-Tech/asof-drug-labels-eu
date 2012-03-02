@@ -1,5 +1,7 @@
 # 4.4 Special warnings and precautions for use
 
+The maximum recommended daily dose should not be exceeded (see section 4.2).
+
 In adults with growth hormone deficiency the diagnosis should be established depending on the etiology:
 
 Adult-onset: The patient must have growth hormone deficiency as a result of hypothalamic or pituitary disease, and at least one other hormone deficiency diagnosed (except for prolactin).
@@ -15,6 +17,7 @@ Intracranial tumours, in particular meningiomas, in patients treated with radiat
 
 NutropinAq is not indicated for the long-term treatment of paediatric patients who have growth failure due to genetically confirmed Prader-Willi syndrome, unless they also have a diagnosis of growth hormone deficiency.
 There have been reports of sleep apnoea and sudden death after initiating therapy with growth hormone in paediatric patients with Prader-Willi syndrome who had one or more of the following risk factors: severe obesity, history of upper airway obstruction or sleep apnoea, or unidentified respiratory infection.
+
 The effects of growth hormone on recovery were studied in two placebo-controlled clinical trials involving 522 adult patients who were critically ill due to complications following open-heart or abdominal surgery, multiple accidental traumas, or who were having acute respiratory failure.
 Mortality was higher (41.9 % vs. 19.3 %) among growth hormone treated patients (doses 5.3 - 8 mg/day) compared to those receiving placebo.
 

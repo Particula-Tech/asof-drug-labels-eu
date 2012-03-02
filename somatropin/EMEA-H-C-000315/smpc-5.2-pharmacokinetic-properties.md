@@ -18,8 +18,8 @@ Elimination: After subcutaneous bolus administration, the mean terminal half-lif
 After intravenous bolus administration of somatropin, the mean terminal half-life t½β or t½γ is about 20 minutes and the mean clearance is reported to be in the range of 116 - 174 ml/h/kg.
 
 Available literature data suggest that somatropin clearance is similar in adults and children.
-
 Characteristics in patients
+
 Clearance and mean terminal half-life t½ of somatropin in adult and paediatric growth hormone deficient patients are similar to those observed in healthy subjects.
 
 Children and adults with chronic renal failure and end-stage renal disease tend to have decreased clearance compared to normal subjects.

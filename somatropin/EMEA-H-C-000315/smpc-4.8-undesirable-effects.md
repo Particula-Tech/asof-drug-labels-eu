@@ -32,10 +32,10 @@ As with all recombinant proteins, a small percentage of patients may develop ant
 The binding capacity of growth hormone antibodies was lower than 2 mg/l in NutropinAq subjects tested, which has not been associated with adversely affected growth rate.
 
 Patients with endocrinological disorders are more prone to develop an epiphysiolysis.
-
 Indication-specific adverse drug reactions from clinical trials
 
 Paediatric patients:
+
 Patients with growth failure due to inadequate growth hormone secretion (n=236)
 Common: central nervous system neoplasm (2 patients experienced a recurrent medulloblastoma, 1 patient experienced a histiocytoma).
 See also section 4.4.
