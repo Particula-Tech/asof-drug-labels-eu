@@ -1,30 +1,34 @@
 # 4.8 Undesirable effects
 
-Tabulated summary of adverse reactions
-The safety of Prolia was evaluated in 10,534 postmenopausal women with osteoporosis (up to 5 years duration) and breast or prostate cancer patients receiving hormone ablation in phase II and III placebo-controlled clinical trials.
+Summary of the safety profile
+The overall safety profile of Prolia was similar in postmenopausal women with osteoporosis and in breast or prostate cancer patients receiving hormone ablation in four Phase III placebo-controlled clinical trials.
 
-The following convention has been used for the classification of the adverse reactions reported in these phase II and III clinical studies (see table 1): very common (≥ 1/10), common (≥ 1/100 to
-< 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000) and very rare (< 1/10,000) based on 1-year event rates.
+Uncommon cases of cellulitis and rare cases of hypocalcaemia, hypersensitivity and osteonecrosis of the jaw (see sections 4.4 and section 4.8 - description of selected adverse reactions) have been observed with Prolia.
+
+Tabulated list of adverse reactions
+The data in Table 1 below describe adverse reactions reported from Phase II and III clinical trials in patients with osteoporosis and breast or prostate cancer patients receiving hormone ablation; and/or spontaneous reporting.
+
+The following convention has been used for the classification of the adverse reactions (see table 1): very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000) and very rare (< 1/10,000) based on 1-year event rates.
 Within each frequency grouping and system organ class, undesirable effects are presented in order of decreasing seriousness.
 
-Table 1 Adverse reactions reported in phase II and phase III placebo-controlled clinical studies in women with postmenopausal osteoporosis and breast or prostate cancer patients receiving hormone ablation
+Table 1 Adverse reactions reported in women with postmenopausal osteoporosis and breast or prostate cancer patients receiving hormone ablation
 
-| MedDRA system organ class | Frequency category | Undesirable effect |
+| MedDRA system organ class | Frequency category | Adverse reactions |
 | --- | --- | --- |
 | Infections and infestations | Common Common Uncommon Uncommon Uncommon | Urinary tract infection Upper respiratory tract infection Diverticulitis1 Cellulitis1 Ear infection |
-| Metabolism and nutrition disorders | Very rare | Hypocalcaemia1 |
+| Immune system disorders | Rare | Drug hypersensitivity1 |
+| Metabolism and nutrition disorders | Rare | Hypocalcaemia1 |
 | Nervous system disorders | Common | Sciatica |
 | Eye disorders | Common | Cataracts1 |
 | Gastrointestinal disorders | Common | Constipation |
 | Skin and subcutaneous tissue disorders | Common Uncommon | Rash Eczema |
-| Musculoskeletal and connective tissue disorders | Common | Pain in extremity |
+| Musculoskeletal and connective tissue disorders | Rare Common | Osteonecrosis of the jaw1 Pain in extremity |
 
 1 See section Description of selected adverse reactions
 
 In a pooled analysis of data from all phase II and phase III placebo controlled studies, Influenza-like illness was reported with an event rate of 0.006 per subject year for denosumab and 0.003 per subject year for placebo.
 Although this imbalance was identified via the pooled analysis, it was not identified via the stratified analysis which was used to calculate the adverse reactions reported in table 1.
 There were no individual studies in which this imbalance was observed.
-
 Description of selected adverse reactions
 
 Hypocalcaemia
@@ -39,6 +43,7 @@ Skin infections reported as serious adverse reactions were similar in the placeb
 
 Osteonecrosis of the jaw
 In the osteoporosis clinical trial program (8710 patients treated ≥ 1 year), ONJ was reported rarely with Prolia (see section 4.4).
+
 Cataracts
 In a single phase III placebo-controlled clinical trial in patients with prostate cancer receiving androgen deprivation therapy (ADT) an imbalance in cataract adverse events was observed (4.7% denosumab, 1.2% placebo).
 No imbalance was observed in postmenopausal women with osteoporosis or in women undergoing aromatase inhibitor therapy for nonmetastatic breast cancer.
@@ -46,6 +51,9 @@ No imbalance was observed in postmenopausal women with osteoporosis or in women 
 Diverticulitis
 In a single phase III placebo-controlled clinical trial in patients with prostate cancer receiving ADT an imbalance in diverticulitis adverse events was observed (1.2% denosumab, 0% placebo).
 The incidence of diverticulitis was comparable between treatment groups in postmenopausal women with osteoporosis and in women undergoing aromatase inhibitor therapy for nonmetastatic breast cancer.
+
+Drug-related hypersenstivity reactions
+In the post-marketing setting, rare events of drug-related hypersensitivity, including rash, urticaria, facial swelling and erythema have been reported in patients receiving Prolia.
 
 Other special populations
 In clinical studies, patients with severe renal impairment (creatinine clearance < 30 ml/min) or receiving dialysis were at greater risk of developing hypocalcaemia in the absence of calcium supplementation.

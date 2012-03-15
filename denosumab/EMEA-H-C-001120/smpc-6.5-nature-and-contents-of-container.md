@@ -7,6 +7,6 @@ Pack size of one, presented in blistered (pre-filled syringe with or without a n
 
 [Prolia 60 mg solution for injection]
 
-One ml solution in a single use vial made from type I glass with fluoropolymer coated elastomeric stopper and aluminium seal with flip-off cap.
+One ml solution in a single use vial (type I glass) with stopper (fluoropolymer coated elastomeric) and seal (aluminium) with flip-off cap.
 
 Pack size of one.

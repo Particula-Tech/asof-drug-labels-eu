@@ -7,7 +7,7 @@ To avoid discomfort at the site of injection, allow the pre-filled syringe to re
 Inject the entire contents of the pre-filled syringe.
 Dispose of any medicinal product remaining in the pre-filled syringe.
 
-Any unused product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 [Prolia 60 mg solution for injection]
 

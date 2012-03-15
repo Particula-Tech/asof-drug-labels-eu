@@ -1,6 +1,6 @@
 # 6.1 List of excipients
 
-Glacial acetic acid*
+Acetic acid, glacial*
 Sodium hydroxide (for pH adjustment)*
 Sorbitol (E420)
 Polysorbate 20

@@ -27,6 +27,8 @@ For patients who develop ONJ while on Prolia therapy, dental surgery may exacerb
 If ONJ occurs during treatment with Prolia, use clinical judgment and guide the management plan of each patient based on individual benefit/risk evaluation.
 The needle cover of the pre-filled syringe contains dry natural rubber (a derivative of latex), which may cause allergic reactions.
 
+Patients being treated with Prolia should not be treated concomitantly with other denosumab-containing medicinal products (for prevention of skeletal related events in adults with bone metastases from solid tumours).
+
 Warnings for Excipients
 Patients with rare hereditary problems of fructose intolerance should not use Prolia.
 

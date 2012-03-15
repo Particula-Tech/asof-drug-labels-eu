@@ -1,7 +1,7 @@
 # 4.2 Posology and method of administration
 
 Posology
-The recommended dose of Prolia is 60 mg administered as a single subcutaneous injection once every 6 months into the thigh, abdomen or back of arm.
+The recommended dose of Prolia is 60 mg administered as a single subcutaneous injection once every 6 months into the thigh, abdomen or upper arm.
 
 Patients must be adequately supplemented with calcium and vitamin D (see section 4.4).
 

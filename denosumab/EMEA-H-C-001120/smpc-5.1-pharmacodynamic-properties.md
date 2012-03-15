@@ -16,6 +16,7 @@ Upon re-initiation, reductions in CTX by denosumab were similar to those observe
 Immunogenicity
 In clinical studies, neutralising antibodies have not been observed for Prolia.
 Using a sensitive immunoassay < 1% of patients treated with denosumab for up to 5 years tested positive for non neutralising binding antibodies with no evidence of altered pharmacokinetics, toxicity, or clinical response.
+
 Treatment of osteoporosis in postmenopausal women
 Efficacy and safety of Prolia administered once every 6 months for 3 years were investigated in postmenopausal women (7,808 women aged 60-91 years, of which 23.6% had prevalent vertebral fractures) with baseline bone mineral density (BMD) T-scores at the lumbar spine or total hip between –2.5 and –4.0 and a mean absolute 10-year fracture probability of 18.60% (deciles: 7.9-32.4%) for major osteoporotic fracture and 7.22% (deciles: 1.4-14.9%) for hip fracture.
 Women with other diseases or on therapies that may affect bone were excluded from this study.
@@ -34,7 +35,6 @@ Table 2 The effect of Prolia on the risk of new vertebral fractures
 | 0-3 years | 7.2 | 2.3 | 4.8 (3.9, 5.8) | 68 (59, 74)* |
 
 *p < 0.0001, **p < 0.0001 – exploratory analysis
-
 Effect on hip fractures
 Prolia demonstrated a 40% relative reduction (0.5% absolute risk reduction) in the risk of hip fracture over 3 years (p < 0.05).
 The incidence of hip fracture was 1.2% in the placebo group compared to 0.7% in the Prolia group at 3 years.
@@ -63,6 +63,7 @@ Table 3 The effect of Prolia on the risk of clinical fractures over 3 years
 (4) Includes clinical vertebral, hip, forearm, and humerus fractures, as defined by the WHO.
 
 In women with baseline femoral neck BMD ≤ -2.5, Prolia reduced the risk of non-vertebral fracture (35% relative risk reduction, 4.1% absolute risk reduction, p < 0.001, exploratory analysis).
+
 The reduction in the incidence of new vertebral fractures, hip fractures and non-vertebral fractures by Prolia over 3 years were consistent regardless of the 10-year baseline fracture risk.
 
 Effect on bone mineral density
@@ -76,7 +77,6 @@ Re-initiation of Prolia resulted in gains in BMD similar to those when Prolia wa
 Bone histology
 Bone histology was evaluated in 62 postmenopausal women with osteoporosis or with low bone mass who had transitioned from previous alendronate therapy following 1-3 years treatment with Prolia.
 Bone biopsy results from both studies showed bone of normal architecture and quality with no evidence of mineralisation defects, woven bone or marrow fibrosis.
-
 Treatment of bone loss associated with androgen deprivation
 Efficacy and safety of Prolia once every 6 months for 3 years were investigated in men with histologically confirmed non-metastatic prostate cancer receiving ADT (1,468 men aged 48-97 years) who were at increased risk of fracture (defined as > 70 years, or < 70 years with a BMD T-score at the lumbar spine, total hip, or femoral neck < -1.0 or a history of an osteoporotic fracture.)
 All men received calcium (at least 1,000 mg) and vitamin D (at least 400 IU) supplementation daily.
