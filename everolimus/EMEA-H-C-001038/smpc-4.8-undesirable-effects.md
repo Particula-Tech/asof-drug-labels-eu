@@ -8,13 +8,14 @@ The respective exposure in the phase III studies was:
   In total, 63 (30.9%) patients were exposed to everolimus 10 mg/day for ≥52 weeks.
   The rates of adverse reactions resulting in permanent discontinuation were 13.7% and 2.0% for the everolimus and placebo treatment groups, respectively.
 - RECORD-1 (CRAD001C2240): everolimus plus best supportive care in patients with metastatic renal cell carcinoma.
-  In total, 165 patients were exposed to everolimus 10 mg/day for ≥4 months.
-  The rates of adverse reactions resulting in permanent discontinuation were 7% and 0% for the everolimus and placebo treatment groups, respectively.
-  Most adverse reactions were grade 1 or 2 in severity.
+  In total, 165 patients were exposed to everolimus 10 mg/day for
+
+≥4 months.
+The rates of adverse reactions resulting in permanent discontinuation were 7% and 0% for the everolimus and placebo treatment groups, respectively.
+Most adverse reactions were grade 1 or 2 in severity.
 
 The most frequent grade 3-4 adverse reactions (incidence ≥2% in at least one pivotal study) were anaemia, fatigue, diarrhoea, infections, stomatitis, hyperglycaemia, thrombocytopenia, lymphopenia, neutropenia, hypophosphataemia, hypercholesterolaemia, diabetes mellitus, and pneumonitis.
 The grades follow CTCAE Version 3.0.
-
 b) Tabulated summary of adverse reactions
 Table 2 shows the incidence of adverse reactions reported for patients receiving everolimus 10 mg/day in at least one of the pivotal studies.
 All terms included are based on the highest frequency reported in a pivotal study.
@@ -96,7 +97,7 @@ Common Chest pain
 Uncommon Impaired wound healing
 Investigations
 Very common Weight decreased
-* see also subsection “c) Description of selected adverse reactions” a Includes all reactions within the „infections and infestations‟ system organ class (such as pneumonia, sepsis, and isolated cases of opportunistic infections [e.g. aspergillosis, candidiasis and hepatitis B (see also section 4.4)]) b Includes different bleeding events not listed individually c Includes pneumonitis, interstitial lung disease, lung infiltration, pulmonary alveolar haemorrhage, pulmonary toxicity, and alveolitis d Includes stomatitis and aphthous stomatitis, and mouth and tongue ulceration
+* see also subsection “c) Description of selected adverse reactions” a Includes all reactions within the ‘infections and infestations’ system organ class (such as pneumonia, sepsis, and isolated cases of opportunistic infections [e.g. aspergillosis, candidiasis and hepatitis B (see also section 4.4)]) b Includes different bleeding events not listed individually c Includes pneumonitis, interstitial lung disease, lung infiltration, pulmonary alveolar haemorrhage, pulmonary toxicity, and alveolitis d Includes stomatitis and aphthous stomatitis, and mouth and tongue ulceration
 
 c) Description of selected adverse reactions
 In clinical studies, everolimus has been associated with serious cases of hepatitis B reactivation, including fatal outcome.

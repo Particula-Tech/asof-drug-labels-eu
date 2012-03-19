@@ -11,5 +11,6 @@ Breast-feeding
 It is not known whether everolimus is excreted in breast milk.
 However, in rats, everolimus and/or its metabolites readily pass into the milk.
 Therefore, women taking everolimus should not breast-feed.
+
 Fertility
 Based on non-clinical findings, male fertility may be compromised by treatment with everolimus (see section 5.3).

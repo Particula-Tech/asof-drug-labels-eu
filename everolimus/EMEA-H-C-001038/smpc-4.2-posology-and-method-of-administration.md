@@ -12,11 +12,11 @@ Dose adjustment due to adverse reactions
 Management of severe and/or intolerable suspected adverse reactions may require dose alterations.
 Afinitor may be dose reduced or temporarily withheld (e.g. for one week) followed by reintroduction at 5 mg daily.
 If dose reduction is required, the suggested dose is 5 mg daily (see also section 4.4).
+
 Special populations
 Paediatric population
 The safety and efficacy of Afinitor in children aged 0 to 18 years have not been established.
 No data are available.
-
 Elderly patients (≥65 years)
 No dose adjustment is required (see section 5.2).
 

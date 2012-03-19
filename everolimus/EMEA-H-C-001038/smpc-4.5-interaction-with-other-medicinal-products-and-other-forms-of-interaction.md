@@ -8,6 +8,7 @@ Known and theoretical interactions with selected inhibitors and inducers of CYP3
 
 CYP3A4 and PgP inhibitors increasing everolimus concentrations
 Substances that are inhibitors of CYP3A4 or PgP may increase everolimus blood concentrations by decreasing metabolism or the efflux of everolimus from intestinal cells.
+
 CYP3A4 and PgP inducers decreasing everolimus concentrations
 Substances that are inducers of CYP3A4 or PgP may decrease everolimus blood concentrations by increasing metabolism or the efflux of everolimus from intestinal cells.
 
@@ -34,12 +35,15 @@ Table 1 Effects of other active substances on everolimus
 | Corticosteroids (e.g. dexamethasone, prednisone, prednisolone) | Not studied. Decreased exposure expected. |  |
 | Carbamazepine, phenobarbital, phenytoin | Not studied. Decreased exposure expected. |  |
 | Efavirenz, nevirapine | Not studied. Decreased exposure expected. |  |
-| St John’s Wort (Hypericum perforatum) | Not studied. Large decrease in exposure expected. | Preparations containing St John‟s Wort should not be used during treatment with everolimus |
+| St John’s Wort (Hypericum perforatum) | Not studied. Large decrease in exposure expected. | Preparations containing St John’s Wort should not be used during treatment with everolimus |
 
 Agents whose plasma concentration may be altered by everolimus
 Based on in vitro results, the systemic concentrations obtained after oral daily doses of 10 mg make inhibition of PgP, CYP3A4 and CYP2D6 unlikely.
-However, inhibition of CYP3A4 and PgP in the gut cannot be excluded; hence everolimus may affect the bioavailability of co-administered substances which are CYP3A4 and/or PgP substrates.
-
+However, inhibition of CYP3A4 and PgP in the gut cannot be excluded.
+An interaction study in healthy subjects demonstrated that co-administration of an oral dose of midazolam, a sensitive CYP3A substrate probe, with everolimus resulted in a 25% increase in midazolam Cmax and a 30% increase in midazolam AUC(0-inf).
+The effect is likely to be due to inhibition of intestinal CYP3A4 by everolimus.
+Hence everolimus may affect the bioavailability of orally co-administered CYP3A4 substrates.
+However, a clinically relevant effect on the exposure of systemically administered CYP3A4 substrates is not expected (see section 4.4).
 Co-administration of everolimus and depot octreotide increased octreotide Cmin with a geometric mean ratio (everolimus/placebo) of 1.47.
 A clinically significant effect on the efficacy response to everolimus in patients with advanced neuroendocrine tumours could not be established.
 
