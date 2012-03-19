@@ -54,6 +54,7 @@ RPLS is a rare, reversible, rapidly evolving neurological condition, which can p
 Brain imaging, preferably MRI (Magnetic Resonance Imaging), is used to confirm the diagnosis.
 In patients developing RPLS, discontinue VELCADE.
 The safety of reinitiating VELCADE therapy in patients previously experiencing RPLS is not known.
+
 Heart failure
 Acute development or exacerbation of congestive heart failure, and/or new onset of decreased left ventricular ejection fraction has been reported during bortezomib treatment.
 In a single agent Phase III randomised, comparative study the incidence of heart failure in the VELCADE group was similar to that in the dexamethasone group.
@@ -103,7 +104,6 @@ Bortezomib should be discontinued if serious reactions occur.
 
 [VELCADE 3.5 mg powder for solution for injection]
 
-RPLS is a rare, reversible, rapidly evolving neurological condition which can present with seizure, hypertension, headache, lethargy, confusion, blindness, and other visual and neurological disturbances.
-In a single-agent Phase III randomised, comparative study the incidence of heart failure in the VELCADE group was similar to that in the dexamethasone group.
+Improvement in, or resolution of, peripheral neuropathy was reported in 51% of patients with ≥ Grade 2 peripheral neuropathy in the single agent Phase III multiple myeloma study and 71% of patients with grade 3 or 4 peripheral neuropathy or peripheral neuropathy leading to discontinuation of treatment in Phase II studies, respectively.
 
-Therefore, this specific regimen with concomitant administration with high-dose cytarabine (2g/m2 per day) by continuous infusion over 24 hours is not recommended.
+In a single-agent Phase III randomised, comparative study the incidence of heart failure in the VELCADE group was similar to that in the dexamethasone group.

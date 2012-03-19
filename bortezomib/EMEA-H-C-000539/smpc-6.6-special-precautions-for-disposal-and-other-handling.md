@@ -6,7 +6,6 @@ Therefore, caution should be used during handling and preparation of VELCADE.
 Use of gloves and other protective clothing to prevent skin contact is recommended.
 
 Aseptic technique must be strictly observed throughout handling of VELCADE, since it contains no preservative.
-
 Instructions for reconstitution
 Each vial must be reconstituted with 1 ml of sodium chloride 9 mg/ml (0.9%) for injection.
 Dissolution of the lyophilised powder is completed in less than 2 minutes.

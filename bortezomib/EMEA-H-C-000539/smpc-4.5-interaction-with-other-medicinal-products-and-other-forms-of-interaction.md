@@ -9,7 +9,7 @@ Therefore, patients should be closely monitored when given bortezomib in combina
 In a drug-drug interaction study, assessing the effect of omeprazole, a potent CYP2C19 inhibitor, there was no significant effect on the pharmacokinetics of bortezomib based on data from 17 patients.
 
 A drug-drug interaction study assessing the effect of rifampicin, a potent CYP3A4 inducer, showed a mean bortezomib AUC reduction of 45% based on data from 6 patients.
-Therefore, the concomitant use of bortezomib with strong CYP3A4 inducers (e.g., rifampicin, carbamazepine, phenytoin, phenobarbital and St. John‟s Wort) is not recommended, as efficacy may be reduced.
+Therefore, the concomitant use of bortezomib with strong CYP3A4 inducers (e.g., rifampicin, carbamazepine, phenytoin, phenobarbital and St. John’s Wort) is not recommended, as efficacy may be reduced.
 
 In the same drug-drug interaction study assessing the effect of dexamethasone, a weaker CYP3A4 inducer, there was no significant effect on the pharmacokinetics of bortezomib based on data from 7 patients.
 
@@ -25,6 +25,6 @@ A drug-drug interaction study assessing the effect of ketoconazole, a potent CYP
 
 In a drug-drug interaction study assessing the effect of omeprazole, a potent CYP2C19 inhibitor, there was no significant effect on the pharmacokinetics of bortezomib based on data from 17 patients.
 
-Therefore, the concomitant use of bortezomib with strong CYP3A4 inducers (e.g., rifampicin, carbamazepine, phenytoin, phenobarbital and St. John‟s Wort), is not recommended, as efficacy may be reduced.
+Therefore, the concomitant use of bortezomib with strong CYP3A4 inducers (e.g., rifampicin, carbamazepine, phenytoin, phenobarbital and St. John’s Wort), is not recommended, as efficacy may be reduced.
 
 In the same drug-drug interaction study assessing the effect of dexamethasone, a weaker CYP3A4 inducer, there was no significant effect on the pharmacokinetics bortezomib based on data from 7 patients.

@@ -18,7 +18,7 @@ Inhibition of the proteasome results in cell cycle arrest and apoptosis.
 NF-kB is a transcription factor whose activation is required for many aspects of tumourigenesis, including cell growth and survival, angiogenesis, cell-cell interactions, and metastasis.
 In myeloma, bortezomib affects the ability of myeloma cells to interact with the bone marrow microenvironment.
 
-Experiments have demonstrated that bortezomib is cytotoxic to a variety of cancer cell types and that cancer cells are more sensitive to the pro-apoptotic effects of proteasome inhibition than normal cells.
+Experiments have demonstrated that bortezomib is cytotoxic to a variety of cancer cell types and that cancer cells are more sensitive to the proapoptotic effects of proteasome inhibition than normal cells.
 Bortezomib causes reduction of tumour growth in vivo in many preclinical tumour models, including multiple myeloma.
 
 Data from in vitro, ex-vivo, and animal models with bortezomib suggest that it increases osteoblast differentiation and activity and inhibits osteoclast function.
@@ -28,19 +28,13 @@ Clinical efficacy in previously untreated multiple myeloma
 A prospective Phase III, international, randomised (1:1), open-label clinical study (VISTA) of 682 patients was conducted to determine whether VELCADE (1.3 mg/m2) in combination with melphalan (9 mg/m2) and prednisone (60 mg/m2) resulted in improvement in time to progression (TTP) when compared to melphalan (9 mg/m2) and prednisone (60 mg/m2) in patients with previously untreated multiple myeloma.
 Treatment was administered for a maximum of 9 cycles (approximately 54 weeks) and was discontinued early for disease progression or unacceptable toxicity.
 Baseline demographics and patient characteristics are summarized in Table 7.
-
 Table 7: Summary of baseline patient and disease characteristics in the VISTA study
 
-Vc+M+P M+P
-Patient characteristics n=344 n=338
-Median age in years (range) 71.0 (57, 90) 71.0 (48, 91)
-Gender: male/female 51% / 49% 49% / 51%
-Race: caucasian/asian/black/other 88% / 10% / 1% / 1% 87% / 11% / 2% / 0%
-Karnofsky performance status score ≤70 35% 33%
-Hemoglobin <100 g/l 37% 36%
-Platelet count <75 x 109/l <1% 1%
+| Patient characteristics | Vc+M+P n=344 | M+P n=338 |
+| --- | --- | --- |
+| Median age in years (range) Gender: male/female Race: caucasian/asian/black/other Karnofsky performance status score ≤70 Hemoglobin <100 g/l Platelet count <75 x 109/l | 71.0 (57, 90) 51% / 49% 88% / 10% / 1% / 1% 35% 37% <1% | 71.0 (48, 91) 49% / 51% 87% / 11% / 2% / 0% 33% 36% 1% |
 
-Disease Characteristics
+FDisease characteristics
 
 Type of myeloma (%): IgG/IgA/Light chain 64% / 24% / 8% 62% / 26% / 8%
 Median β2-microglobulin (mg/l) 4.2 4.3
@@ -49,11 +43,11 @@ Creatinine clearance ≤30 ml/min [n (%)] 20 (6%) 16 (5%)
 
 At the time of a pre-specified interim analysis, the primary endpoint, time to progression, was met and patients in the M+P arm were offered Vc+M+P treatment.
 Median follow-up was 16.3 months.
-A survival update was performed with a median duration of follow-up of 36.7 months.
-A statistically significant survival benefit in favour of the Vc+M+P treatment group was observed (HR=0.65; p=0.00084) despite subsequent therapies including VELCADE-based regimens.
-While the median survival in M+P treatment group has now been estimated at 43.1 months, the median survival on the Vc+M+P treatment group has not been reached.
+The final survival update was performed with a median duration of follow-up of 60.1 months.
+A statistically significant survival benefit in favour of the Vc+M+P treatment group was observed (HR=0.695; p=0.00043) despite subsequent therapies including VELCADE-based regimens.
+Median survival for the Vc+M+P treatment group was 56.4 months compared to 43.1 for the M+P treatment group .
 Efficacy results are presented in Table 8:
-Table 8: Updated efficacy results following pre-planned interim analysis in the VISTA study
+Table 8: Efficacy results following the final survival update to VISTA study
 
 | Efficacy endpoint | Vc+M+P n=344 | M+P n=338 |
 | --- | --- | --- |
@@ -65,10 +59,10 @@ Table 8: Updated efficacy results following pre-planned interim analysis in the 
 | Mediana (95% CI) | 18.3 mo (16.6, 21.7) | 14.0 mo (11.1, 15.0) |
 | Hazard ratiob (95% CI) | 0.61 (0.49, 0.76) |  |
 | p-value c | 0.00001 |  |
-| Overall survival* Events (deaths) n (%) | 109 (32) | 148 (44) |
-| Mediana (95% CI) | NR (46.2, NR ) | 43.1 mo (34.8, NR) |
-| Hazard ratiob (95% CI) | 0.65 (0.51, 0.84) |  |
-| p-value c | 0.00084 |  |
+| Overall survival* Events (deaths) n (%) | 176 (51.2) | 211 (62.4) |
+| Mediana (95% CI) | 56.4 mo (52.8, 60.9 ) | 43.1 mo (35.3, 48.3) |
+| Hazard ratiob (95% CI) | 0.695 (0.567, 0.852) |  |
+| p-value c | 0.00043 |  |
 | Response rate populatione n = 668 | n=337 | n=331 |
 | CRf n (%) | 102 (30) | 12 (4) |
 | PRf n (%) | 136 (40) | 103 (31) |
@@ -82,26 +76,25 @@ Table 8: Updated efficacy results following pre-planned interim analysis in the 
 | Mediana response duration |  |  |
 | CRf | 24.0 mo | 12.8 mo |
 | CR + PRf | 19.9 mo | 13.1 mo |
-| Time to next therapy Events n (%) | 73 (21) | 127 (38) |
-| Mediana (95% CI) | NE (26.1, NE) | 20.8 mo (18.3, 28.5) |
-| Hazard ratiob (95% CI) | 0.52 (0.39, 0.70) |  |
-| p-value c | 0.000009 |  |
+| Time to next therapy Events n (%) | 224 (65.1) | 260 (76.9) |
+| Mediana (95% CI) | 27.0 mo (24.7, 31.1) | 19.2 mo (17.0, 21.0) |
+| Hazard ratiob (95% CI) | 0.557 (0.462, 0.671) |  |
+| p-value c | <0.000001 |  |
 
 a Kaplan-Meier estimate.
-b Hazard ratio estimate is based on a Cox proportional-hazard model adjusted for stratification factors: β 2-microglobulin, albumin, and region.
-A hazard ratio less than 1 indicates an advantage for VMP c Nominal p-value based on the stratified log-rank test adjusted for stratification factors: β 2-microglobulin, albumin, and region d p-value for Response Rate (CR + PR) from the Cochran-Mantel-Haenszel chi-square test adjusted for the stratification factors e Response population includes patients who had measurable disease at baseline f EBMT criteria g All randomized patients with secretory disease
-* Survival update based on a median duration of follow-up at 36.7 months
-NE: not estimable
-NR: not reached mo: months
+b Hazard ratio estimate is based on a Cox proportional-hazard model adjusted for stratification factors: β2-microglobulin, albumin, and region.
+A hazard ratio less than 1 indicates an advantage for VMP c Nominal p-value based on the stratified log-rank test adjusted for stratification factors: β2-microglobulin, albumin, and region d p-value for Response Rate (CR + PR) from the Cochran-Mantel-Haenszel chi-square test adjusted for the stratification factors e Response population includes patients who had measurable disease at baseline f EBMT criteria g All randomized patients with secretory disease
+* Survival update based on a median duration of follow-up at 60.1 months mo: months
 
 Clinical efficacy in relapsed or refractory multiple myeloma
 The safety and efficacy of VELCADE were evaluated in 2 studies at the recommended dose of 1.3 mg/m2: a Phase III randomized, comparative study, versus dexamethasone (Dex), of 669 patients with relapsed or refractory multiple myeloma who had received 1-3 prior lines of therapy, and a Phase II single-arm study of 202 patients with relapsed and refractory multiple myeloma, who had received at least 2 prior lines of treatment and who were progressing on their most recent treatment.
 (see Tables 9, 10 and 11).
+
 Table 9: Dosing regimens in Phase II and Phase III studies
 
 | Phase | Treatment schedule | Dose | Regimen |
 | --- | --- | --- | --- |
-| II | Vc: Day 1,4,8,11, (rest Day 12-21) | 1.3 mg/m2 (intravenous bolus) | Q3 weeks x 8cycles (extension**) |
+| II | Vc: Day 1,4,8,11, (rest Day 12-21) | 1.3 mg/m2 (intravenous bolus) | Q3 weeks x 8 cycles (extension**) |
 | III | Vc* a) Days 1,4,8,11, (Rest Day 12-21) b) Days 1,8,15,22 | 1.3 mg/m2 (intravenous bolus) | a) Q3weeks x 8, then b) Q5 weeks x 3 |
 | III | Dex a) Days 1–4, 9–12, 17–20 b) Days 1–4 | 40 mg (oral) | a) Q5 week x 4 b) Q4 week x 5 |
 | II | Add Dex*** | 20 mg (oral) (Days 1,2,4,5,8,9,11,12) | Q3 weeks |
@@ -111,26 +104,24 @@ Table 9: Dosing regimens in Phase II and Phase III studies
 
 Table 10: Patient characteristics in Phase II and Phase III studies
 
-Phase II Phase III Phase III
-Vc Vc Dex
-Patient number, ITT analysis 202 333 336
-Male % 60 56 60
-Median age, yrs (range) 59 (34-84) 61 (33-84) 61 (27-86)
-Caucasian 81 % 90 % 88 %
-Karnofsky PS >80% 80 % 87 % 84 %
-Platelets < 75,000/μl 21 % 6 % 4 %
-Hemoglobin < 100g/l 44 % 32 % 28 %
-Median Creatinine Clearance, ml/min (range) 74 73.3 73.3
-(14-221) (15.6-170.7) (15.3-261.1)
-Myeloma IgG 60 % 60 % 59 %
-Myeloma IgA 24 % 23 % 24 %
-Myeloma light chain 14 % 12 % 13 %
-Median duration since diagnosis (yrs) 4.0 3.5 3.1
-Chromosome 13 abnormalities 15 % 25.7 % 25.0 %
-Median β2-microglobulin (mg/l) 3.5 3.7 3.6
-Median number prior treatment lines* (range) 6 (2-15) 2 (1-7) 2 (1-8)
-1 prior line 0 n =132 (40 %) n = 119 (35 %)
-> 1 prior line n = 186 (60 %) n = 194 (65 %)
+|  | Phase II Vc | Phase III Vc | Phase III Dex |
+| --- | --- | --- | --- |
+| Patient number, ITT analysis | 202 | 333 | 336 |
+| Male % | 60 | 56 | 60 |
+| Median age, yrs (range) | 59 (34-84) | 61 (33-84) | 61 (27-86) |
+| Caucasian | 81 % | 90 % | 88 % |
+| Karnofsky PS >80% | 80 % | 87 % | 84 % |
+| Platelets < 75,000/μl | 21 % | 6 % | 4 % |
+| Hemoglobin < 100g/l | 44 % | 32 % | 28 % |
+| Median Creatinine Clearance, ml/min (range) | 74 (14-221) | 73.3 (15.6-170.7) | 73.3 (15.3-261.1) |
+| Myeloma IgG | 60 % | 60 % | 59 % |
+| Myeloma IgA | 24 % | 23 % | 24 % |
+| Myeloma light chain | 14 % | 12 % | 13 % |
+| Median duration since diagnosis (yrs) | 4.0 | 3.5 | 3.1 |
+| Chromosome 13 abnormalities | 15 % | 25.7 % | 25.0 % |
+| Median β2-microglobulin (mg/l) | 3.5 | 3.7 | 3.6 |
+| Median number prior treatment lines* (range) | 6 (2-15) | 2 (1-7) | 2 (1-8) |
+| 1 prior line > 1 prior line | 0 | n =132 (40 %) n = 186 (60 %) | n = 119 (35 %) n = 194 (65 %) |
 
 *Including steroids, alkylating agents, anthracyclines, thalidomide and stem cell transplants
 Table 11: Patient exposure to treatment with VELCADE during Phase II and III studies
@@ -144,13 +135,13 @@ Table 11: Patient exposure to treatment with VELCADE during Phase II and III stu
 NA = not applicable
 
 In the Phase III study, treatment with VELCADE led to a significantly longer time to progression, a significantly prolonged survival and a significantly higher response rate, compared to treatment with dexamethasone (see Table 12), in all patients as well as in patients who have received 1 prior line of therapy.
-As a result of a preplanned interim analysis, the Dexamethasone arm was halted at the recommendation of the data monitoring committee and all patients randomised to dexamethasone were then offered VELCADE, regardless of disease status.
+As a result of a preplanned interim analysis, the dexamethasone arm was halted at the recommendation of the data monitoring committee and all patients randomised to dexamethasone were then offered VELCADE, regardless of disease status.
 Due to this early crossover, the median duration of follow-up for surviving patients is 8.3 months.
 Both in patients who were refractory to their last prior therapy and those who were not refractory, overall survival was significantly longer and response rate was significantly higher on the VELCADE arm.
 
 Of the 669 patients enrolled, 245 (37%) were 65 years of age or older.
 Response parameters as well as TTP remained significantly better for VELCADE independently of age.
-Regardless of β 2-microglobulin levels at baseline, all efficacy parameters (time to progression and overall survival, as well as response rate) were significantly improved on the VELCADE arm.
+Regardless of β2-microglobulin levels at baseline, all efficacy parameters (time to progression and overall survival, as well as response rate) were significantly improved on the VELCADE arm.
 
 In the refractory population of the Phase II study, responses were determined by an independent review committee and the response criteria were those of the European Bone Marrow Transplant Group.
 The median survival of all patients enrolled was 17 months (range <1 to 36+ months).
@@ -171,8 +162,9 @@ Table 12: Summary of disease outcomes from the Phase III and Phase II studies
 | CR + nCR | 41 (13) b | 5 (2) b | 16 (13) | 4 (4) | 25 (13) | 1 (<1) | (10)** |
 | CR+ nCR + PR | 121 (38) b | 56 (18) b | 57 (45) d | 29 (26) d | 64 (34) b | 27 (13) b | (27)** |
 | CR + nCR+ PR+MR | 146 (46) | 108 (35) | 66 (52) | 45 (41) | 80 (43) | 63 (31) | (35)** |
+| Median duration | 242 (8.0) | 169 (5.6) | 246 (8.1) | 189 (6.2) | 238 (7.8) | 126 (4.1) | 385* |
 |  | All patients |  | 1 Prior line of therapy |  | >1 Prior line of therapy |  | ≥2 prior lines |
-| Median duration Days (months) | 242 (8.0) | 169 (5.6) | 246 (8.1) | 189 (6.2) | 238 (7.8) | 126 (4.1) | 385* |
+| Days (months) |  |  |  |  |  |  |  |
 | Time to response CR + PR (days) | 43 | 43 | 44 | 46 | 41 | 27 | 38* |
 
 a Intent to Treat (ITT) population b p-value from the stratified log-rank test; analysis by line of therapy excludes stratification for therapeutic history; p<0.0001 c Response population includes patients who had measurable disease at baseline and received at least 1 dose of study drug.
@@ -195,71 +187,25 @@ Paediatric population
 The European Medicines Agency has waived the obligation to submit the results of studies with VELCADE in all subsets of the paediatric population in multiple myeloma.
 (see section 4.2 for information on paediatric use).
 
-This medicinal product has been authorised under “Exceptional Circumstances”.
-This means that for scientific reasons it has not been possible to obtain complete information on this medicinal product.
-The European Medicines Agency (EMA) will review any new information which may become available every year and this SmPC will be updated as necessary.
-
 [VELCADE 3.5 mg powder for solution for injection]
 
-Pharmacotherapeutic group: Other antineoplastic agent, ATC code: L01XX32
-
-Experiments have demonstrated that bortezomib is cytotoxic to a variety of cancer cell types and that cancer cells are more sensitive to the proapoptotic effects of proteasome inhibition than normal cells.
+Experiments have demonstrated that bortezomib is cytotoxic to a variety of cancer cell types and that cancer cells are more sensitive to the pro-apoptotic effects of proteasome inhibition than normal cells.
 
 A prospective Phase III, international, randomized (1:1), open-label clinical study (VISTA) of 682 patients was conducted to determine whether VELCADE (1.3 mg/m2) in combination with melphalan (9 mg/m2) and prednisone (60 mg/m2) resulted in improvement in time to progression (TTP) when compared to melphalan (9 mg/m2) and prednisone (60 mg/m2) in patients with previously untreated multiple myeloma.
 
-| Efficacy endpoint | Vc+M+P n=344 | M+P n=338 |
-| --- | --- | --- |
-| Time to progression Events n (%) | 101 (29) | 152 (45) |
-| Mediana (95% CI) | 20.7 mo (17.6, 24,7) | 15.0 mo (14.1, 17.9) |
-| Hazard ratiob (95% CI) | 0.54 (0.42, 0.70) |  |
-| p-value c | 0.000002 |  |
-| Progression-free survival Events n (%) | 135 (39) | 190 (56) |
-| Mediana (95% CI) | 18.3 mo (16.6, 21.7) | 14.0 mo (11.1, 15.0) |
-| Hazard ratiob (95% CI) | 0.61 (0.49, 0.76) |  |
-| p-value c | 0.00001 |  |
-| Overall survival* Events (deaths) n (%) | 109(32) | 148 (44) |
-| Mediana (95% CI) | NR (46.2, NR ) | 43.1 mo (34.8, NR) |
-| Hazard ratiob (95% CI) | 0.65 (0.51, 0.84) |  |
-| p-value c | 0.00084 |  |
-| Response rate populatione n = 668 | n=337 | n=331 |
-| CRf n (%) | 102 (30) | 12 (4) |
-| PRf n (%) | 136 (40) | 103 (31) |
-| nCR n (%) | 5 (1) | 0 |
-| CR + PRf n (%) | 238 (71) | 115 (35) |
-| p-valued | <10-10 |  |
-| Reduction in serum M-protein populationg n=667 | n=336 | n=331 |
-| >=90% n (%) | 151 (45) | 34 (10) |
-| Time to first response in CR + PR |  |  |
-| Median | 1.4 mo | 4.2 mo |
-| Mediana response duration |  |  |
-| CRf | 24.0 mo | 12.8 mo |
-| CR + PRf | 19.9 mo | 13.1 mo |
-| Time to next therapy Events n (%) | 73 (21) | 127 (38) |
-| Mediana (95% CI) | NE (26.1, NE) | 20.8 mo (18.3, 28.5) |
-| Hazard ratiob (95% CI) | 0.52 (0.39, 0.70) |  |
-| p-value c | 0.000009 |  |
+Disease characteristics
 
-A hazard ratio less than 1 indicates an advantage for VMP c Nominal p-value based on the stratified log-rank test adjusted for stratification factors: β2-microglobulin, albumin, and region d p-value for Response Rate (CR + PR) from the Cochran-Mantel-Haenszel chi-square test adjusted for the stratification factors e Response population includes patients who had measurable disease at baseline f EBMT criteria g All randomized patients with secretory disease
-
-| Phase/arm | Treatment schedule | Dose | Regimen |
+| Phase | Treatment schedule | Dose | Regimen |
 | --- | --- | --- | --- |
 | II | Vc: Day 1,4,8,11, (rest Day 12-21) | 1.3 mg/m2 (intravenous bolus) | Q3 weeks x 8 cycles (extension**) |
 | III | Vc* a) Days 1,4,8,11, (Rest Day 12-21) b) Days 1,8,15,22 | 1.3 mg/m2 (intravenous bolus) | a) Q3weeks x 8, then b) Q5 weeks x 3 |
 | III | Dex a) Days 1–4, 9–12, 17–20 b) Days 1–4 | 40 mg (oral) | a) Q5 week x 4 b) Q4 week x 5 |
 | II | Add Dex*** | 20 mg (oral) (Days 1,2,4,5,8,9, 11,12) | Q3 weeks |
 
-Median Creatinine Clearance, ml/min 74 73.3 73.3
-(range) (14-221) (15.6-170.7) (15.3-261.1)
-Median β2 microglobulin (mg/l) 3.5 3.7 3.6
-Median number prior treatment lines* 6 (2-15) 2 (1-7) 2 (1-8)
-(range)
-
 |  | Phase II Vc | Phase III Vc | Phase III Dex |
 | --- | --- | --- | --- |
 | Received at least 1 dose | n = 202 | n =331 | n = 332 |
 | Completed 4 cycles a) all initial cycles (number) b) full course (number) c) extension * | 62 % 27 % (8 cycles ) NA n = 63 pts (median 7 cycles) or total median 14 cycles (range 7-32) | 69 % 29 % (8 cycles) 9 % (11 cycles) NA | 36 % (4 cycles) 5 % (9 cycles) NA |
-
-Regardless of β2-microglobulin levels at baseline, all efficacy parameters (time to progression and overall survival, as well as response rate) were significantly improved on the VELCADE arm.
 
 |  | Phase III |  | Phase III |  | Phase III |  | Phase II |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -272,5 +218,6 @@ Regardless of β2-microglobulin levels at baseline, all efficacy parameters (tim
 | CR + nCR | 41 (13) b | 5 (2) b | 16 (13) | 4 (4) | 25 (13) | 1 (<1) | (10)** |
 | CR+ nCR + PR | 121 (38) b | 56 (18) b | 57 (45) d | 29 (26) d | 64 (34) b | 27 (13) b | (27)** |
 | CR + nCR+ PR+MR | 146 (46) | 108 (35) | 66 (52) | 45 (41) | 80 (43) | 63 (31) | (35)** |
+|  | All patients |  | 1 Prior line of therapy |  | >1 Prior line of therapy |  | ≥2 prior lines |
 | Median duration Days (months) | 242 (8.0) | 169 (5.6) | 246 (8.1) | 189 (6.2) | 238 (7.8) | 126 (4.1) | 385* |
 | Time to response CR + PR (days) | 43 | 43 | 44 | 46 | 41 | 27 | 38* |

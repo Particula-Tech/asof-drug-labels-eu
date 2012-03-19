@@ -17,9 +17,3 @@ Because of the potential for serious undesirable effects in breast-fed infants, 
 
 Fertility
 Fertility studies were not conducted with VELCADE (see section 5.3).
-
-[VELCADE 3.5 mg powder for solution for injection]
-
-Animal studies to determine the effects of bortezomib parturition and post-natal development were not conducted (see section 5.3).
-
-Because of the potential for serious undesirable effects in breast-fed infants,lactation should be discontinued during treatment with VELCADE.
