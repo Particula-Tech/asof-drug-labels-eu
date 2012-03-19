@@ -1,9 +1,10 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Drugs acting on serotonin receptors, ATC code: A03AE04.
+
 Mechanism of action
-Prucalopride is a dihydrobenzofurancarboxamide with enterokinetic activities.
-Prucalopride is a selective, high affinity serotonin (5-HT4) receptor agonist, which is likely to explain its enterokinetic effects.
+Prucalopride is a dihydrobenzofurancarboxamide with gastrointestinal prokinetic activities.
+Prucalopride is a selective, high affinity serotonin (5-HT4) receptor agonist, which is likely to explain its prokinetic effects.
 In vitro, only at concentrations exceeding its 5-HT4 receptor affinity by at least 150-fold, affinity for other receptors was detected.
 In rats prucalopride in vivo at doses above 5 mg/kg (at and above 30-70 times the clinical exposure) induced hyperprolactinaemia caused by an antagonistic action at the D2 receptor.
 

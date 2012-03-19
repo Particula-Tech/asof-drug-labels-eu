@@ -15,7 +15,7 @@ Patients with renal impairment: The dose for patients with severe renal impairme
 (GFR < 30 ml/min/1.73 m2) is 1 mg once daily (see sections 4.3 and 5.2).
 No dose adjustment is required for patients with mild to moderate renal impairment.
 
-Patients with hepatic impairment: The dose for patients with severe hepatic impairment (Child-Pugh class C) is 1 mg once daily (see sections 4.4 and 5.2).
+Patients with hepatic impairment: Patients with severe hepatic impairment (Child-Pugh class C) start with 1 mg once daily which may be increased to 2 mg if required to improve efficacy and if the 1 mg dose is well tolerated (see sections 4.4 and 5.2).
 No dose adjustment is required for patients with mild to moderate hepatic impairment.
 
 Due to the specific mode of action of prucalopride (stimulation of propulsive motility) exceeding the daily dose of 2 mg is not expected to increase efficacy.

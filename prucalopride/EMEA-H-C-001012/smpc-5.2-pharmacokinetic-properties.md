@@ -40,7 +40,8 @@ Compared to subjects with normal renal function, plasma concentrations of prucal
 In subjects with severe renal impairment (ClCR ≤ 24 ml/min), plasma concentrations were 2.3 times the levels in healthy subjects (see section 4.2 and 4.4).
 
 Hepatic impairment
-Non-renal elimination contributes to about 35% of total elimination, and hepatic impairment is unlikely to affect the pharmacokinetics of prucalopride to a clinically relevant extent (see section 4.2 and 4.4)
+Non-renal elimination contributes to about 35% of total elimination.
+In a small pharmacokinetic study, the Cmax and AUC of prucalopride were, on average, 10-20% higher in patients with moderate to severe hepatic impairment compared with healthy subjects (see sections 4.2 and 4.4).
 
 Paediatric population
 After a single oral dose of 0.03 mg/kg in paediatric patients aged between 4 and 12 years, Cmax of prucalopride was comparable to the Cmax in adults after a single 2 mg dose, while unbound AUC was 30-40% lower than after 2 mg in adults.
