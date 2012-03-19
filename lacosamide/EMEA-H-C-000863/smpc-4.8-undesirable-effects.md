@@ -17,9 +17,9 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | System organ class | Very common | Common | Uncommon |
 | --- | --- | --- | --- |
 | Immune system disorders |  |  | Drug hypersensitivity(2) |
-| Psychiatric disorders |  | Depression Confusional state(1) Insomnia(2) | Aggression(2) Agitation(2) Euphoric mood(2) Psychotic disorder(2) Suicide attempt (2) Suicidal ideation (2) |
-| Nervous system disorders | Dizziness Headache | Balance disorder Coordination abnormal Memory impairment Cognitive disorder |  |
-|  |  | Somnolence Tremor Nystagmus Hypoesthesia(1) Dysarthria(1) Disturbance in attention(1) |  |
+| Psychiatric disorders |  | Depression Confusional state(1) Insomnia(2) | Aggression(2) Agitation(2) Euphoric mood(2) Psychotic disorder(2) Suicide attempt (2) Suicidal ideation (2) Hallucination (2) |
+| Nervous system disorders | Dizziness Headache | Balance disorder Coordination abnormal Memory impairment Cognitive disorder Somnolence |  |
+|  |  | Tremor Nystagmus Hypoesthesia(1) Dysarthria(1) Disturbance in attention(1) |  |
 | Eye disorders | Diplopia | Vision blurred |  |
 | Ear and labyrinth disorders |  | Vertigo Tinnitus(1) |  |
 | Cardiac disorders |  |  | Atrioventricular block(2) Bradycardia(2) Atrial Fibrillation (2) Atrial Flutter (2) |
@@ -56,9 +56,9 @@ Potential cases have been reported rarely with lacosamide and if multiorgan hype
 | System organ class | Very common | Common | Uncommon |
 | --- | --- | --- | --- |
 | Immune system disorders |  |  | Drug hypersensitivity(2) |
-| Psychiatric disorders |  | Depression Confusional state(1) Insomnia(2) | Aggression(2) Agitation(2) Euphoric mood(2) Psychotic disorder(2) Suicide attempt (2) Suicidal ideation (2) |
-| Nervous system disorders | Dizziness Headache | Balance disorder Coordination abnormal Memory impairment Cognitive disorder Somnolence |  |
-|  |  | Tremor Nystagmus Hypoesthesia(1) Dysarthria(1) Disturbance in attention(1) |  |
+| Psychiatric disorders |  | Depression Confusional state(1) Insomnia(2) | Aggression(2) Agitation(2) Euphoric mood(2) Psychotic disorder(2) Suicide attempt (2) Suicidal ideation (2) Hallucination (2) |
+| Nervous system disorders | Dizziness Headache | Balance disorder Coordination abnormal Memory impairment Cognitive disorder |  |
+|  |  | Somnolence Tremor Nystagmus Hypoesthesia(1) Dysarthria(1) Disturbance in attention(1) |  |
 | Eye disorders | Diplopia | Vision blurred |  |
 | Ear and labyrinth disorders |  | Vertigo Tinnitus(1) |  |
 | Cardiac disorders |  |  | Atrioventricular block(2) Bradycardia(2) Atrial Fibrillation (2) Atrial Flutter (2) |
@@ -75,28 +75,14 @@ No second or higher degree AV Block was seen in.these studies.
 
 [Vimpat 200 mg film-coated tablets]
 
-| System organ class | Very common | Common | Uncommon |
-| --- | --- | --- | --- |
-| Immune system disorders |  |  | Drug hypersensitivity(2) |
-| Psychiatric disorders |  | Depression Confusional state(1) Insomnia(2) | Aggression(2) Agitation(2) Euphoric mood(2) Psychotic disorder(2) Suicide attempt (2) Suicidal ideation (2) |
-| Nervous system disorders | Dizziness Headache | Balance disorder Coordination abnormal Memory impairment |  |
-|  |  | Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia(1) Dysarthria(1) Disturbance in attention(1) |  |
-| Eye disorders | Diplopia | Vision blurred |  |
-| Ear and labyrinth disorders |  | Vertigo Tinnitus(1) |  |
-| Cardiac disorders |  |  | Atrioventricular block(2) Bradycardia(2) Atrial Fibrillation (2) Atrial Flutter (2) |
-| Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia(1) Dry mouth(1) |  |
-| Hepatobiliary disorders |  |  | Liver function test abnormal(2) |
-| Skin and subcutaneous tissue disorders |  | Pruritus Rash(2) | Angioedema(2) Urticaria(2) |
-| Musculoskeletal and connective tissue disorders |  | Muscle spasms(1) |  |
-| General disorders and administration site conditions |  | Gait disturbance Asthenia Fatigue Irritability(1) |  |
-| Injury, poisoning and procedural complications |  | Fall Skin laceration |  |
+(all sentences already above)
 
 [Vimpat 50 mg film-coated tablets (SmPC 5)]
 
 | System organ class | Very common | Common | Uncommon |
 | --- | --- | --- | --- |
 | Immune system disorders |  |  | Drug hypersensitivity(2) |
-| Psychiatric disorders |  | Depression Confusional state(1) Insomnia(2) | Aggression(2) Agitation(2) Euphoric mood(2) Psychotic disorder(2) Suicide attempt (2) Suicidal ideation (2) |
+| Psychiatric disorders |  | Depression Confusional state(1) Insomnia(2) | Aggression(2) Agitation(2) Euphoric mood(2) Psychotic disorder(2) Suicide attempt (2) Suicidal ideation (2) Hallucination (2) |
 | Nervous system disorders | Dizziness Headache | Balance disorder Coordination abnormal Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia(1) Dysarthria(1) Disturbance in attention(1) |  |
 | Eye disorders | Diplopia | Vision blurred |  |
 | Ear and labyrinth disorders |  | Vertigo Tinnitus(1) |  |
@@ -117,7 +103,7 @@ No second or higher degree AV Block was seen in. these studies.
 | System organ class | Very common | Common | Uncommon |
 | --- | --- | --- | --- |
 | Immune system disorders |  |  | Drug hypersensitivity(2) |
-| Psychiatric disorders |  | Depression Confusional state(1) Insomnia(2) | Aggression(2) Agitation(2) Euphoric mood(2) Psychotic disorder(2) Suicide attempt (2) Suicidal ideation (2) |
+| Psychiatric disorders |  | Depression Confusional state(1) Insomnia(2) | Aggression(2) Agitation(2) Euphoric mood(2) Psychotic disorder(2) Suicide attempt (2) Suicidal ideation (2) Hallucination (2) |
 | Nervous system disorders | Dizziness Headache | Balance disorder Coordination abnormal Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia(1) Dysarthria(1) Disturbance in attention(1) |  |
 | Eye disorders | Diplopia | Vision blurred |  |
 | Ear and labyrinth disorders |  | Vertigo Tinnitus(1) |  |
