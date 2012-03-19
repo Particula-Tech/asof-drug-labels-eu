@@ -7,7 +7,9 @@ For information on adverse reactions refer to the SPC of the specific co-adminis
 
 Ritonavir dosed as an antiretroviral agent
 
-In the original clinical studies (Phase II/III), adverse reactions with possible, probable or unknown relationship to ritonavir were reported in ≥ 2% of 1033 patients.
+Adverse reactions from clinical trials and post-marketing experience in adult patients
+
+The most frequently reported adverse drug reactions among patients receiving ritonavir alone or in combination with other antiretroviral drugs were gastrointestinal (including diarrhea, nausea, vomiting, abdominal pain (upper and lower)), neurological disturbances (including paresthesia and oral paresthesia) and fatigue/asthenia.
 
 The following adverse reactions of moderate to severe intensity with possible or probable relationship to ritonavir have been reported.
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness: very common (> 1/10); common (> 1/100 to < 1/10); uncommon
@@ -15,38 +17,40 @@ Within each frequency grouping, undesirable effects are presented in order of de
 
 Events noted as having a frequency not known were identified via post-marketing surveillance
 
-| Undesirable effects in clinical studies and post-marketing in adult patients |  |  |
+| Adverse reactions in clinical studies and post-marketing in adult patients |  |  |
 | --- | --- | --- |
-| Blood and lymphatic system disorders | Common | Decreased WBC, decreased haemoglobin, decreased neutrophils, increased eosinophils |
-|  | Uncommon | Increased WBC, increased neutrophils and increased prothrombin time |
-|  | Not known | Thrombocytopenia |
-| Immune system disorders | Common | Allergic reactions including urticaria, mild skin eruptions, bronchospasm and angioedema |
+| System Order Class | Frequency | Adverse reaction |
+| Blood and lymphatic system disorders | Common | Decreased WBC, decreased haemoglobin, decreased neutrophils, increased eosinophils, thrombocytopenia |
+|  | Uncommon | Increased neutrophils |
+| Immune system disorders | Common | Hypersensitivity, including urticaria and face edema. |
 |  | Rare | Anaphylaxis |
-| Metabolic and nutritional disorders | Uncommon | Dehydration, diabetes mellitus |
+| System Order Class | Frequency | Adverse reaction |
+| Metabolic and nutritional disorders | Common Uncommon | Hypercholesterolaemia, hypertriglyceridaemia, gout, lipodystrophy acquired, edema and peripheral edema, Dehydration (usually associated with gastrointestinal symptoms) Diabetes mellitus |
 |  | Rare | Hyperglycaemia |
-|  | Not known | Hypertriglyceridaemia, hypercholesterolaemia, hyperuricaemia |
-| Nervous system disorders | Very common | Taste perversion, circumoral and peripheral paresthesia, headache |
-|  | Common | Dizziness, paraesthesia, hyperaesthesia, somnolence, insomnia, anxiety |
-|  | Not known | Seizure, syncope |
-| Vascular disorders | Common | Vasodilation |
-|  | Not known | Orthostatic hypotension |
-| Respiratory, thoracic and mediastinal disorders | Common | Pharyngitis, cough increased |
-| Gastrointestinal disorders | Very common | Abdominal pain, nausea, diarrhoea, vomiting |
-|  | Common | Dyspepsia, anorexia, local throat irritation, flatulence, dry mouth, eructation, mouth ulcer |
-| Hepatobiliary disorders | Uncommon | Hepatitis and jaundice |
-| Skin and subcutaneous tissue disorders | Common | Rash, pruritus, sweating, lipodystrophy |
-|  | Rare | Stevens Johnson syndrome |
-|  | Rare | Toxic epidermal necrolysis (TEN) |
-| Musculosketal and connective tissue disorders | Common | Increased CPK, myalgia |
-|  | Uncommon | Myositis, rhabdomyolysis |
-| Renal and urinary disorders | Not known | Acute renal failure |
-| Reproductive system and breast disorders | Not known | Menorrhagia |
-| General disorders and administration site conditions | Very common | Asthenia |
-|  | Common | Fever, pain weight loss |
-| Investigations | Common | Increased GGT, increased CPK, increased triglycerides, increased SGPT, increased SGOT, increased amylase, increased uric acid, decreased potassium, decreased free and total thyroxin |
-|  | Uncommon | Increased glucose, decreased total calcium, increased magnesium, increased bilirubin, increased alkaline phosphatase |
+| Nervous system disorders | Very common | Dysgeusia, oral and peripheral paresthesia, headache, dizziness, peripheral neuropathy |
+|  | Common | Insomnia, anxiety, confusion, disturbance in attention, syncope, Seizure |
+| Eye disorders | Common | Blurred vision |
+| Cardiac disorders | Uncommon | Myocardial infarction |
+| Vascular disorders | Common | Hypertension, hypotension including orthostatic hypotension, peripheral coldness. |
+| Respiratory, thoracic and mediastinal disorders | Very Common | Pharyngitis, oropharyngeal pain, cough |
+| Gastrointestinal disorders | Very common | Abdominal pain (upper and lower), nausea, diarrhoea (including severe with electrolyte imbalance), vomiting, dyspepsia |
+|  | Common | Anorexia, flatulence, mouth ulcer, gastrointestinal haemorrhage, gastroesophageal reflux disease, pancreatitis |
+| Hepatobiliary disorders | Common | Hepatitis (including increased AST, ALT, GGT), blood bilirubin increased (including jaundice) |
+| Skin and subcutaneous tissue disorders | Very common | Pruritis, rash (including erythematous and maculopapular |
+|  | Common | Acne |
+|  | Rare | Stevens Johnson syndrome, Toxic epidermal necrolysis (TEN) |
+| Musculosketal and connective tissue disorders | Very common | Arthralgia and back pain |
+|  | Common | Myositis, rhabdomyolysis, myalgia, myopathy/CPK increased |
+| Renal and urinary disorders | Common Uncommon | Increased urination, renal impairment (e.g. oliguria, elevated creatinine) Acute renal failure |
+| Reproductive system and breast disorders | Common | Menorrhagia |
+| System Order Class | Frequency | Adverse reaction |
+| General disorders and administration site conditions | Very common | Fatigue including asthenia, flushing, feeling hot |
+|  | Common | Fever, weight loss |
+| Investigations | Common | Increased amylase, decreased free and total thyroxin |
+|  | Uncommon | Increased glucose, increased magnesium, increased alkaline phosphatase |
 
 Hepatic transaminase elevations exceeding five times the upper limit or normal, clinical hepatitis, and jaundice have occurred in patients receiving ritonavir alone or in combination with other antiretrovirals.
+
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump).
 
 Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
@@ -63,8 +67,65 @@ The frequency of this is unknown (see section 4.4).
 [Norvir 100 mg soft capsules]
 
 (> 1/1000 to < 1/100); rare (> 1/10,000 to < 1/1,000); not known (cannot be estimated from the available data).
+
 Events noted as having frequency not known were identified via post-marketing surveillance.
+
+| Adverse Reactions in clinical studies and post-marketing in adult patients |  |  |
+| --- | --- | --- |
+| System Order Class | Frequency | Adverse Reaction |
+| Blood and lymphatic system disorders | Common | Decreased WBC, decreased haemoglobin, decreased neutrophils, increased eosinophils, thrombocytopenia |
+|  | Uncommon | Increased neutrophils |
+| Immune system disorders | Common | Hypersensitivity including urticaria, and face edema |
+|  | Rare | Anaphylaxis |
+| Metabolic and nutritional disorders | Common Uncommon | Hypercholesterolaemia, hypertriglyceridaemia, gout, lipodystrophy acquired, edema and peripheral edema, Dehydration (usually associated with gastrointestinal symptoms) Diabetes mellitus |
+|  | Rare | Hyperglycaemia |
+| Nervous system disorders | Very common | Dysgeusia, oral and peripheral paresthesia, headache, dizziness, peripheral neuropathy |
+|  | Common | Insomnia, anxiety, confusion, disturbance in attention, syncope, Seizure |
+| Eye disorders | Common | Blurred vision |
+| Cardiac Disorders | Uncommon | Myocardial infarction |
+| Vascular disorders | Common | Hypertension, hypotension including orthostatic hypotension, peripheral coldness |
+| Respiratory, thoracic and mediastinal disorders | Very Common | Pharyngitis, oropharyngeal pain, cough |
+| System Order Class | Frequency | Adverse Reaction |
+| Gastrointestinal disorders | Very common | Abdominal pain (upper and lower), nausea, diarrhoea (including severe with electrolyte imbalance), vomiting, dyspepsia |
+|  | Common | Anorexia, flatulence, mouth ulcer, gastrointestinal haemorrhage, gastroesophageal reflux disease, Pancreatitis |
+| Hepatobiliary disorders | Common | Hepatitis (including increased AST, ALT, GGT), blood bilirubin increased (including jaundice) |
+| Skin and subcutaneous tissue disorders | Very common | Pruritis, rash (including erythematous and maculopapular) |
+|  | Common Rare | Acne Stevens Johnson syndrome, Toxic epidermal necrolysis (TEN) |
+| Musculosketal and connective tissue disorders | Very Common | Arthralgia and back pain |
+|  | Common | Myositis, rhabdomyolysis, myalgia, myopathy/CPK increased |
+| Renal and urinary disorders | Common Uncommon | Increased urination, renal impairment (e.g. oliguria, elevated creatinine) Acute renal failure |
+| Reproductive system and breast disorders | Common | Menorrhagia |
+| General disorders and administration site conditions | Very common | Fatigue, including asthenia, flushing, feeling hot |
+|  | Common | Fever, weight loss |
+| Investigations | Common | Increased amylase, decreased free and total thyroxin |
+|  | Uncommon | Increased glucose, increased magnesium, increased alkaline phosphatase |
 
 [Norvir 100 mg film-coated tablets]
 
-(all sentences already above)
+| Adverse reactions in clinical studies and post-marketing in adult patients |  |  |
+| --- | --- | --- |
+| System Order Class | Frequency | Adverse reaction |
+| Blood and lymphatic system disorders | Common | Decreased WBC, decreased haemoglobin, decreased neutrophils, increased eosinophils, thrombocytopenia |
+|  | Uncommon | Increased neutrophils |
+| Immune system disorders | Common | Hypersensitivity including urticaria, and face edema |
+|  | Rare | Anaphylaxis |
+| Metabolic and nutritional disorders | Common Uncommon | Hypercholesterolaemia, hypertriglyceridaemia, gout, lipodystrophy acquired, edema and peripheral edema, Dehydration (usually associated with gastrointestinal symptoms) Diabetes mellitus |
+|  | Rare | Hyperglycaemia |
+| Nervous system disorders | Very common | Dysgeusia, oral and peripheral paresthesia, headache, dizziness, peripheral neuropathy |
+|  | Common | Insomnia, anxiety, confusion, disturbance in attention, syncope, Seizure |
+| Eye disorders | Common | Blurred vision |
+| Cardiac disorders | Uncommon | Myocardial infarction |
+| Vascular disorders | Common | Hypertension, hypotension including orthostatic hypotension, peripheral coldness |
+| Respiratory, thoracic and mediastinal disorders | Very Common | Pharyngitis, oropharyngeal pain, cough |
+| Gastrointestinal disorders | Very common | Abdominal pain (upper and lower), nausea, diarrhoea (including severe with electrolyte imbalance, vomiting, dyspepsia |
+|  | Common | Anorexia, flatulence, mouth ulcer, gastrointestinal haemorrhage, gastroesophageal reflux disease, Pancreatitis |
+| Hepatobiliary disorders | Common | Hepatitis (including increased AST, ALT, GGT), blood bilirubin increased (including jaundice) |
+| Skin and subcutaneous tissue disorders | Very common Common | Pruritis, rash (including erythematous and maculopapular) Acne |
+|  | Rare | Stevens Johnson syndrome, Toxic epidermal necrolysis (TEN) |
+| Musculosketal and connective tissue disorders | Very common | Arthralgia and back pain |
+|  | Common | Myositis, rhabdomyolysis, myalgia, myopathy/CPK increased |
+| Renal and urinary disorders | Common Uncommon | Increased urination, renal impairment (e.g. oliguria, elevated creatinine) Acute renal failure |
+| Reproductive system and breast disorders | Common | Menorrhagia |
+| General disorders and administration site conditions | Very common Common | Fatigue including asthenia, flushing, feeling hot Fever, weight loss |
+| Investigations | Common | Increased amylase, decreased free and total thyroxin |
+|  | Uncommon | Increased glucose, increased magnesium, increased alkaline phosphatase |

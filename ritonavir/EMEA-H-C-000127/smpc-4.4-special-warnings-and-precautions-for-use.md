@@ -53,6 +53,8 @@ Renal disease: Since the renal clearance of ritonavir is negligible, the decreas
 For specific dosing information in patients with renal impairment, refer to the Summary of Product Characteristics (SPC) of the co-administered protease inhibitor.
 See also section 4.2.
 
+Renal failure, renal impairment, elevated creatinine, hypophosphataemia and proximal tubulopathy (including Fanconi syndrome) have been reported with the use of tenofovir disoproxil fumarate in clinical practice (see section 4.8).
+
 Ritonavir oral solution contains castor oil polyoxyl which may cause stomach upset and diarrhoea.
 Ritonavir oral solution also contains the azo-colouring agent sunset yellow (E110) which may cause allergic reactions.
 
@@ -67,6 +69,7 @@ Patients should be advised to seek medical advice if they experience joint aches
 PR interval prolongation: ritonavir has been shown to cause modest asymptomatic prolongation of the PR interval in some healthy adult subjects.
 Rare reports of 2nd or 3rd degree atrioventricular block in patients with underlying structural heart disease and pre-existing conduction system abnormalities or in patients receiving medicinal products known to prolong the PR interval (such as verapamil or atazanavir) have been reported in patients receiving ritonavir.
 Norvir should be used with caution in such patients (see section 5.1).
+
 Interactions with other medicinal products
 
 Ritonavir dosed as an antiretroviral agent
@@ -98,7 +101,6 @@ Digoxin levels should be monitored more intensively than usual during this perio
 Ethinyl estradiol: Barrier or other non-hormonal methods of contraception should be considered when administering ritonavir at therapeutic or low doses as ritonavir is likely to reduce the effect and change the uterine bleeding profile when co-administered with estradiol-containing contraceptives.
 
 Glucocorticoids: Concomitant use of ritonavir and fluticasone or other glucocorticoids that are metabolised by CYP3A4 is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects, including Cushing’s syndrome and adrenal suppression (see section 4.5).
-
 Trazodone: Particular caution should be used when prescribing ritonavir in patients using trazodone.
 Trazodone is a CYP3A4 substrate and co-administration of ritonavir is expected to increase trazodone levels.
 Adverse reactions of nausea, dizziness, hypotension and syncope have been observed in single dose interaction studies in healthy volunteers (see section 4.5)
