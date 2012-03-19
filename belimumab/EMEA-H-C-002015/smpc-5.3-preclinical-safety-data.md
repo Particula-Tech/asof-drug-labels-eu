@@ -1,7 +1,6 @@
 # 5.3 Preclinical safety data
 
 Nonclinical data reveal no special hazard for humans based on studies of repeated dose toxicity and toxicity to reproduction.
-
 Intravenous and subcutaneous administration to monkeys resulted in the expected reduction in the number of peripheral and lymphoid tissue B cell counts with no associated toxicological findings.
 
 Reproductive studies have been performed in pregnant cynomolgus monkeys receiving belimumab 150 mg/kg by intravenous infusion (approximately 9 times the anticipated maximum human clinical exposure) every 2 weeks for up to 21 weeks, and Benlysta treatment was not associated with direct or indirect harmful effects with respect to maternal toxicity, developmental toxicity, or teratogenicity.

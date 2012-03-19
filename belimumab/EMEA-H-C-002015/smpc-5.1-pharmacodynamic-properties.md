@@ -10,7 +10,6 @@ Benlysta does not bind B cells directly, but by binding BLyS, Benlysta inhibits 
 BLyS levels are elevated in patients with SLE and other autoimmune diseases.
 There is an association between plasma BLyS levels and SLE disease activity.
 The relative contribution of BLyS levels to the pathophysiology of SLE is not fully understood.
-
 Pharmacodynamic effects
 
 Changes in biomarkers were seen in clinical trials.
@@ -20,6 +19,7 @@ In patients with low complement levels, normalization of C3 and C4 was observed 
 
 Of the anti-phospholipid antibodies, only anti-cardiolipin antibody was measured.
 For anti-cardiolipin IgA antibody a 37% reduction at Week 52 was seen (p=0.0003), for anti-cardiolipin IgG antibody a 26% reduction at Week 52 was seen (p=0.0324) and for anti-cardiolipin IgM a 25% reduction was seen (p=NS, 0.46).
+
 A significant reduction of circulating B cells, including naïve, activated, plasma, and the SLE B cell subset was seen at Week 52.
 
 Immunogenicity
@@ -47,12 +47,12 @@ Background medicinal products included corticosteroids (76%; >7.5 mg/day 46%), i
 
 BLISS-52 was conducted in South America, Eastern Europe, Asia, and Australia.
 Background medicinal products included corticosteroids (96%; >7.5 mg/day 69%), immunosuppressives (42%), and anti-malarials (67%).
-
 At baseline 52% of patients had high disease activity (SELENA SLEDAI score >10), 59% of patients had mucocutaneous, 60% had musculoskeletal, 16% had haematological, 11% had renal and 9% had vascular organ domain involvement (BILAG A or B at baseline).
 
 The primary efficacy endpoint was a composite endpoint (SLE Responder Index) that defined response as meeting each of the following criteria at Week 52 compared with baseline:
 •
 ≥4-point reduction in the SELENA-SLEDAI score, and • no new British Isles Lupus Assessment Group (BILAG) A organ domain score or 2 new BILAG B organ domain scores, and • no worsening (>0.30 point increase) in Physician’s Global Assessment score (PGA)
+
 The SLE Responder Index measures improvement in SLE disease activity, without worsening in any organ system, or in the patient’s overall condition.
 
 Table 1: Response Rate at Week 52
@@ -88,8 +88,7 @@ no worsening
 by PGA
 
 * plus standard therapy/standard of care
-
-In a pooled analysis of the two studies, the percentage of patients receiving >7.5 mg/day prednisone (or equivalent) at baseline, whose average corticosteroid dose was reduced by at least 25% to a dose equivalent to prednisone <7.5 mg/day during Weeks 40 through 52, was 17.9% in the group receiving Benlysta and 12.3% in the group receiving placebo (p=0.0451).
+In a pooled analysis of the two studies, the percentage of patients receiving >7.5 mg/day prednisone (or equivalent) at baseline, whose average corticosteroid dose was reduced by at least 25% to a dose equivalent to prednisone ≤7.5 mg/day during Weeks 40 through 52, was 17.9% in the group receiving Benlysta and 12.3% in the group receiving placebo (p=0.0451).
 
 Flares in SLE were defined by the modified SELENA SLEDAI SLE Flare Index.
 The median time to the first flare was delayed in the pooled group receiving belimumab compared to the group receiving placebo (110 vs 84 days, hazard ratio=0.84, p=0.012).
@@ -97,11 +96,11 @@ Severe flares were observed in 15.6% of the Benlysta group compared to 23.7% of 
 
 Benlysta demonstrated improvement in fatigue compared with placebo measured by the FACIT-Fatigue scale in the pooled analysis.
 The mean change of score at Week 52 from baseline is significantly greater with Benlysta compared to placebo (4.70 vs 2.46, p=0.0006).
+
 Univariate and multivariate analysis of the primary endpoint in pre-specified subgroups demonstrated that the greatest benefit was observed in patients with higher disease activity including patients with SELENA SLEDAI scores ≥ 10, patients requiring steroids to control their disease, and patients with low complement levels.
 
 Post-hoc analysis has identified high responding subgroups such as those patients with low complement and positive anti-dsDNA at baseline, see Table 2.
 Of these patients, 64.5% had SELENA SLEDAI scores ≥ 10 at baseline.
-
 Table 2: Patients with low complement and positive anti-dsDNA at baseline
 
 | Subgroup | Anti-dsDNA positive AND low complement |  |
@@ -122,6 +121,7 @@ Table 2: Patients with low complement and positive anti-dsDNA at baseline
 | Observed treatment difference vs placebo (%) |  | 12.1 |
 
 * Among patients with baseline prednisone dose >7.5 mg/day
+
 Paediatric population
 The European Medicines Agency has deferred the obligation to submit the results of studies with Benlysta in one or more subsets of the paediatric population in SLE (see section 4.2 for information on paediatric use).
 

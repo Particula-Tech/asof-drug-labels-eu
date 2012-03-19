@@ -24,6 +24,7 @@ Once reconstitution is complete, the solution should be opalescent and colorless
 Small air bubbles, however, are expected and acceptable.
 
 After reconstitution, a volume of 1.5 ml (corresponding to 120 mg belimumab) can be withdrawn from each vial.
+
 Dilution
 
 The reconstituted medicinal product is diluted to 250 ml with sodium chloride 9 mg/ml (0.9%) solution for injection.
@@ -55,6 +56,6 @@ Any unused product or waste material should be disposed of in accordance with lo
 
 [Benlysta 400 mg powder for concentrate for solution for infusion.]
 
-The 400 mg single-use vial of belimumab is reconstituted with 4.8 ml of sterile water for injections to yield a final concentration of 80 mg/ml belimumab.
+The 400 mg single-use vial of belimumab is reconstituted with 4.8 ml of water for injections to yield a final concentration of 80 mg/ml belimumab.
 
 After reconstitution, a volume of 5 ml (corresponding to 400 mg belimumab) can be withdrawn from each vial.

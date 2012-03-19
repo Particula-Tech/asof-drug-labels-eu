@@ -2,19 +2,25 @@
 
 Benlysta treatment should be initiated and supervised by a qualified physician experienced in the diagnosis and treatment of SLE.
 Benlysta infusions should be administered by a qualified healthcare professional trained to give infusion therapy.
-Administration of Benlysta may result in hypersensitivity reactions and infusion reactions.
+Administration of Benlysta may result in severe or life-threatening hypersensitivity reactions and infusion reactions.
+Patients have been reported to develop symptoms of acute hypersensitivity several hours after the infusion has been administered.
+Recurrence of clinically significant reactions after initial appropriate treatment of symptoms has also been observed (see section 4.4 and 4.8).
 Therefore, Benlysta should be administered in an environment where resources for managing such reactions are immediately available.
+Patients should remain under clinical supervision for a prolonged period of time (for several hours), following at least the first 2 infusions, taking into account the possibility of a late onset reaction.
+
+Patients treated with Benlysta should be made aware of the potential risk of severe or life-threatening hypersensitivity and the potential for delayed onset or recurrence of symptoms.
+The package leaflet should be provided to the patient each time Benlysta is administered (see section 4.4).
 
 There are no or insufficient data available on the effects of Benlysta in patients with severe active lupus nephritis or severe active central nervous system lupus.
 Therefore, Benlysta cannot be recommended to treat these conditions (see section 4.4).
 
 Posology
 
-Premedication including an antihistamine, with or without an antipyretic, may be administered before the infusion of Benlysta.
-
+Premedication including an antihistamine, with or without an antipyretic, may be administered before the infusion of Benlysta (see section 4.4).
 The recommended dose regimen is 10 mg/kg Benlysta on Days 0, 14 and 28, and at 4-week intervals thereafter.
 The patient’s condition should be evaluated continuously.
 Discontinuation of treatment with Benlysta should be considered if there is no improvement in disease control after 6 months of treatment.
+
 Special populations
 
 Elderly (>65 years)

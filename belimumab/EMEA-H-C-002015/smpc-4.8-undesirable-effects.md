@@ -6,12 +6,12 @@ The safety of Benlysta in patients with SLE has been evaluated in 3 placebo-cont
 The data described below reflect exposure to Benlysta 10 mg/kg in 674 patients with SLE, including 472 exposed for at least 52 weeks.
 The safety data presented include data beyond Week 52 in some patients.
 Patients received Benlysta 10 mg/kg intravenously over a 1-hour period on Days 0, 14, 28, and then every 28 days for 52 weeks.
-
 The majority of patients were also receiving one or more of the following concomitant treatments for SLE: corticosteroids, immunomodulatory medicinal products, anti-malarials, non-steroidal anti-inflammatory medicinal products.
 
 Adverse reactions were reported in 93% of Benlysta-treated patients and 92% of placebo-treated patients.
 The most frequently reported adverse reactions (≥10% of patient with SLE treated with Benlysta plus standard of care and at a rate ≥1% greater than placebo) were nausea, diarrhoea, and pyrexia.
 The proportion of patients who discontinued treatment due to adverse reactions was 7% for both Benlysta-treated and placebo-treated patients.
+
 Tabulated list of adverse reactions
 
 Adverse reactions are listed below by MedDRA system organ class and by frequency.
@@ -38,10 +38,11 @@ Within each frequency grouping, undesirable effects are presented in order of de
 
 *’Hypersensitivity reactions’ covers a group of terms, including anaphylaxis, and can manifest as a range of symptoms including hypotension, angioedema, urticaria or other rash, pruritus, and dyspnea. ‘Infusion-related reactions’ covers a group of terms and can manifest as a range of symptoms including bradycardia, myalgia, headache, rash, urticaria, pyrexia, hypotension, hypertension, dizziness, and arthralgia.
 Due to overlap in signs and symptoms, it is not possible to distinguish between hypersensitivity reactions and infusion reactions in all cases.
-
 Description of selected adverse reactions
 
 Infusion reactions and hypersensitivity: The incidence of infusion reactions and hypersensitivity reactions occurring during or on the same day as an infusion was 17% in the group receiving Benlysta and 15% in the group receiving placebo, with 1% and 0.3%, respectively, requiring permanent treatment discontinuation.
+These reactions were generally observed on the day of infusion, but acute hypersensitivity reactions may also occur on the day after dosing.
+Patients with a history of multiple drug allergies or significant hypersensitivity reactions may be at increased risk.
 
 Infections: The overall incidence of infections was 70% in the group receiving Benlysta and 67% in the group receiving placebo.
 Infections occurring in at least 3% of Benlysta patients and at least 1% more frequently than patients receiving placebo were nasopharyngitis, bronchitis, pharyngitis, cystitis, and gastroenteritis viral.

@@ -1,7 +1,8 @@
 # 6.3 Shelf life
 
 Unopened vials
-3 years.
+4 years.
+
 Reconstituted solution
 After reconstitution with water for injections, the reconstituted solution, if not used immediately, should be protected from direct sunlight, and stored refrigerated at 2°C - 8°C.
 

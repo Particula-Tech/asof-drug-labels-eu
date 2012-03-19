@@ -6,23 +6,31 @@ Benlysta has not been studied in the following patient groups, and is not recomm
 •
 HIV
 • a history of, or current, hepatitis B or C
-• hypogammaglobulinaemia (IgG <400 mg/dl) or IgA deficiency (IgA <10 mg/dl) a history of major organ transplant or hematopoietic stem /cell /marrow transplant or renal transplant.
+• hypogammaglobulinaemia (IgG <400 mg/dl) or IgA deficiency (IgA <10 mg/dl)
+• a history of major organ transplant or hematopoietic stem /cell /marrow transplant or renal transplant.
 
 Concomitant use with B cell targeted therapy or cyclophosphamide
 Benlysta has not been studied in combination with other B cell targeted therapy or intravenous cyclophosphamide.
 Caution should be exercised if Benlysta is co-administered with other B cell targeted therapy or cyclophosphamide.
 
 Infusion reactions and hypersensitivity
-Administration of Benlysta may result in hypersensitivity reactions and infusion reactions.
+Administration of Benlysta may result in hypersensitivity reactions and infusion reactions which can be severe, and fatal.
 In the event of a severe reaction, Benlysta administration must be interrupted and appropriate medical therapy administered (see section 4.2).
+The risk of hypersensitivity reactions is greatest with the first two infusions; however the risk should be considered for every infusion administered.
+Patients with a history of multiple drug allergies or significant hypersensitivity may be at increased risk.
 
 Premedication including an antihistamine, with or without an antipyretic, may be administered before the infusion of Benlysta.
+There is insufficient knowledge to determine whether premedication could diminish the frequency or severity of infusion reactions.
 
-In clinical studies, serious infusion and hypersensitivity reactions affected approximately 0.9% of patients,
-and included anaphylactic reaction, bradycardia, hypotension, angioedema, and dyspnea. Infusion reactions
-occurred more frequently during the first two infusions and tended to decrease with subsequent infusions
-
-(see section 4.8).
+In clinical studies, serious infusion and hypersensitivity reactions affected approximately 0.9% of patients, and included anaphylactic reaction, bradycardia, hypotension, angioedema, and dyspnea.
+Infusion reactions occurred more frequently during the first two infusions and tended to decrease with subsequent infusions (see section 4.8).
+Patients have been reported to develop symptoms of acute hypersensitivity several hours after the infusion has been administered.
+Recurrence of clinically significant reactions after initial appropriate treatment of symptoms has also been observed (see section 4.2 and 4.8).
+Therefore, Benlysta should be administered in an environment where resources for managing such reactions are immediately available.
+Patients should remain under clinical supervision for a prolonged period of time (for several hours), following at least the first 2 infusions, taking into account the possibility of a late onset reaction.
+Patients should be advised that hypersensitivity reactions are possible on the day of, or the day after infusion, and be informed of potential signs and symptoms and the possibility of recurrence.
+Patients should be instructed to seek immediate medical attention if they experience any of these symptoms.
+The package leaflet should be provided to the patient each time Benlysta is administered (see section 4.2).
 
 Infections
 The mechanism of action of Benlysta could increase the potential risk for the development of infections, including opportunistic infections.
@@ -48,8 +56,6 @@ Patients with malignant neoplasm within the last 5 years have not been studied, 
 [Benlysta 400 mg powder for concentrate for solution for infusion.]
 
 Benlysta has not been studied in the following patient groups and is not recommended in:
-
-In clinical studies, serious infusion and hypersensitivity reactions affected approximately 0.9% of patients, and included anaphylactic reaction, bradycardia, hypotension, angioedema, and dyspnea.
-Infusion reactions occurred more frequently during the first two infusions and tended to decrease with subsequent infusions (see section 4.8).
+HIV a history of, or current, hepatitis B or C
 
 Live vaccines should not be given for 30 days before, or concurrently with Benlysta as clinical safety has not been established.
