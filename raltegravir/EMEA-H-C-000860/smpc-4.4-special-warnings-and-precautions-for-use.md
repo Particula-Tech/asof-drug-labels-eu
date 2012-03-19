@@ -46,5 +46,8 @@ Delay in stopping ISENTRESS treatment or other suspect agents after the onset of
 
 Rash occurred more commonly in treatment-experienced patients receiving regimens containing ISENTRESS + darunavir compared to patients receiving ISENTRESS without darunavir or darunavir without ISENTRESS (see section 4.8).
 
+Depression, including suicidal ideation and behaviors, has been reported, particularly in patients with a pre-existing history of depression or psychiatric illness.
+Caution should be used in patients with a pre-existing history of depression or psychiatric illness.
+
 ISENTRESS contains lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
