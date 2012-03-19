@@ -2,6 +2,7 @@
 
 Patients should be given the Ranexa package leaflet and the Patient Alert Card and instructed to present their Patient Alert Card and medication list to their health care professional at each visit.
 
+Posology
 Ranexa is available as 375 mg, 500 mg, and 750 mg prolonged-release tablets.
 
 Adults: The recommended initial dose of Ranexa is 375 mg twice daily.
@@ -29,7 +30,12 @@ Dose titration in patients with low weight should be exercised with caution (see
 Congestive heart failure (CHF): Dose titration in patients with moderate to severe CHF (NYHA
 Class III–IV) should be exercised with caution (see sections 4.4 and 5.2).
 
-Paediatric patients: Ranexa is not recommended for use in children below the age of 18 years due to a lack of data on safety and efficacy.
+Paediatric population
+
+The safety and efficacy of Ranexa in children below the age of 18 years have not been established.
+No data are available
+
+Method of administration
 
 Ranexa tablets should be swallowed whole and not crushed, broken, or chewed.
 They may be taken with or without food.
