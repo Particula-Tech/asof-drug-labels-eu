@@ -27,7 +27,6 @@ Increased rates of severe neutropenia, febrile neutropenia, or infection with or
 
 Radiotherapy
 The safety and efficacy of concomitant administration of radiotherapy and Avastin has not been established.
-
 EGFR monoclonal antibodies in combination with bevacizumab chemotherapy regimens
 No interaction studies have been performed.
 EGFR monoclonal antibodies should not be administered for the treatment of mCRC in combination with bevacizumab-containing chemotherapy.

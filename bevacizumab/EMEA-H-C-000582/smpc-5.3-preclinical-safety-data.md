@@ -5,7 +5,6 @@ In rabbits, bevacizumab was shown to inhibit wound healing at doses below the pr
 Effects on wound healing were shown to be fully reversible.
 
 Studies to evaluate the mutagenic and carcinogenic potential of bevacizumab have not been performed.
-
 No specific studies in animals have been conducted to evaluate the effect on fertility.
 An adverse effect on female fertility can however be expected as repeat dose toxicity studies in animals have shown inhibition of the maturation of ovarian follicles and a decrease/absence of corpora lutea and associated decrease in ovarian and uterus weight as well as a decrease in the number of menstrual cycles.
 

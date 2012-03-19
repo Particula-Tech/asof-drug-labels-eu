@@ -141,7 +141,7 @@ Table 6 Key efficacy results for the superiority analysis (ITT population, trial
 | --- | --- | --- | --- |
 | Primary endpoint |  |  |  |
 | Median PFS** | 8.0 | 9.4 | 0.0023 |
-| Hazard ratio (97.5% CI)a | 0.83 (0.72–0.95) |  |  |
+| Hazard ratio (97.5% CI) a | 0.83 (0.72–0.95) |  |  |
 | Secondary endpoints |  |  |  |
 | Median PFS (on treatment)** | 7.9 | 10.4 | <0.0001 |
 | Hazard ratio (97.5% CI) | 0.63 (0.52-0.75) |  |  |
@@ -196,10 +196,8 @@ A clinically meaningful and statistically significant improvement in PFS was obs
 
 Summarised below are PFS results for the individual chemotherapy agents included in the indication:
 
-- Study E2100 (paclitaxel)
-  - Median PFS increase 5.6 months, HR 0.421 (p <0.0001, 95% CI 0.343 ; 0.516)
-- Study AVF3694g (capecitabine)
-  - Median PFS increase 2.9 months, HR 0.69 (p = 0.0002, 95% CI 0.56 ; 0.84)
+- Study E2100 (paclitaxel) o Median PFS increase 5.6 months, HR 0.421 (p <0.0001, 95% CI 0.343 ; 0.516)
+- Study AVF3694g (capecitabine) o Median PFS increase 2.9 months, HR 0.69 (p = 0.0002, 95% CI 0.56 ; 0.84)
 
 Further details of each study and the results are provided below.
 
@@ -247,7 +245,7 @@ The clinical benefit of Avastin as measured by PFS was seen in all pre-specified
 
 AVF3694g
 Study AVF3694g was a Phase III, multicentre, randomised, placebo-controlled trial designed to evaluate the efficacy and safety of Avastin in combination with chemotherapy compared to chemotherapy plus placebo as first-line treatment for patients with HER2-negative metastatic or locally recurrent breast cancer.
-Chemotherapy was chosen at the investigator's discretion prior to randomization in a 2:1 ratio to receive either chemotherapy plus +Avastin or chemotherapy plus+ placebo.
+Chemotherapy was chosen at the investigator's discretion prior to randomization in a 2:1 ratio to receive either chemotherapy plus Avastin or chemotherapy plus placebo.
 The choices of chemotherapy included capecitabine, taxane (protein-bound paclitaxel, docetaxel), and anthracycline-based agents (doxorubicin/ cyclophosphamide, epirubicin/ cyclophosphamide, 5-fluorouracil/ doxorubicin/ cyclophosphamide, 5-fluorouracil/epirubicin/cyclophosphamide) given every three weeks (q3w).
 Avastin or placebo was administered at a dose of 15 mg/kg q3w.
 
@@ -501,7 +499,7 @@ Hazard Ratio (95% CI)4 0.90 0.64
 1 Investigator assessed GOG protocol-specified PFS analysis (neither censored for CA-125 progressions nor censored for NPT prior to disease progression) with data cut-off date of 25 February, 2010
 2With gross residual disease.
 3 3.7% of the overall randomized patient population had Stage IIIB disease.
-Relative to the control arm.
+4Relative to the control arm.
 
 BO17707 (ICON7)
 BO17707 was a Phase III, two arm, multicenter, randomized, controlled, open-label study comparing the effect of adding Avastin to carboplatin plus paclitaxel in patients with FIGO Stage I or IIA (Grade 3 or clear cell histology only; n = 142), or FIGO Stage IIB - IV (all grades and all histological types, n = 1386) epithelial ovarian, fallopian tube or primary peritoneal cancer following surgery.
@@ -519,7 +517,6 @@ The majority of the patients in each treatment arm (74% and 71%) had poorly diff
 The incidence of each histologic sub-type of EOC was similar between the treatment arms; 69% of patients in each treatment arm had serous adenocarcinoma histologic type.
 
 The primary endpoint was PFS as assessed by the investigator using RECIST criteria.
-
 The trial met its primary objective of PFS improvement.
 Compared to patients treated with chemotherapy (carboplatin and paclitaxel) alone in the front-line setting, patients who received bevacizumab at a dose of 7.5 mg/kg q3w in combination with chemotherapy and continued to receive bevacizumab for up to 18 cycles had a statistically significant improvement in PFS
 
@@ -540,8 +537,8 @@ Objective Response Rate 1
 CP CPB7.5+
 (n = 277) (n = 272)
 Response rate 54.9% 64.7%
-
 (p-value = 0.0188)
+
 Overall Survival 3
 
 CP CPB7.5+
@@ -591,3 +588,13 @@ Hazard Ratio (95% CI)4 0.74
 
 Paediatric population
 The European Medicines Agency has waived the obligation to submit the results of studies, in all subsets of the paediatric population, in breast carcinoma, adenocarcinoma of the colon and rectum, lung carcinoma (small cell and non-small cell carcinoma) kidney and renal pelvis carcinoma (excluding nephroblastoma, nephroblastomatosis, clear cell sarcoma, mesoblastic nephroma, renal medullary carcinoma and rhabdoid tumour of the kidney), ovarian carcinoma (excluding rhabdomyosarcoma and germ cell tumours), fallopian tube carcinoma (excluding rhabdomyosarcoma and germ cell tumours) and peritoneal carcinoma (excluding blastomas and sarcomas).
+
+Anti-tumour activity was not observed in two studies among a total of 30 children aged > 3 years old with relapsed or progressive high-grade glioma when treated with bevacizumab and irinotecan.
+There is insufficient information to determine the safety and efficacy of bevacizumab in children with newly-diagnosed high-grade glioma.
+
+In a single-arm study (PBTC-022), 18 children with recurrent or progressive non-pontine high-grade glioma (including 8 with glioblastoma [WHO grade IV], 9 with anaplastic astrocytoma [grade III] and 1 with anaplastic oligodendroglioma [grade III]) were treated with bevacizumab (10 mg/kg) two weeks apart and then with bevacizumab in combination with CPT-11 (125-350 mg/m²) once every two weeks until progression.
+There were no objective (partial or complete) radiological responses (MacDonald criteria).
+Toxicity and adverse events included arterial hypertension and fatigue as well as CNS ischaemia with acute neurological deficit.
+
+In a retrospective single institution series, 12 consecutive (2005 to 2008) children with relapsed or progressive high-grade glioma (3 with WHO grade IV, 9 with grade III) were treated with bevacizumab (10 mg/kg) and irinotecan (125 mg/m²) every 2 weeks.
+There were no complete responses and 2 partial responses (MacDonald criteria).

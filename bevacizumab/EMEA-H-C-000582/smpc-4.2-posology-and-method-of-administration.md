@@ -45,7 +45,8 @@ Paediatric population
 
 The safety and efficacy of bevacizumab in children and adolescents have not been established.
 There is no relevant use of bevacizumab in the paediatric population in the granted indications.
-Currently available data are described in section 5.2 and section 5.3 but no recommendation on a posology can be made.
+Currently available data are described in sections 5.1, 5.2 and 5.3 but no recommendation on a posology can be made.
+Avastin should not be used in children aged 3 years to less than 18 years with recurrent or progressive high-grade glioma because of efficacy concerns (see 5.1 for results of paediatric trials).
 
 Method of administration
 

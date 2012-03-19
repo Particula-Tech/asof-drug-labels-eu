@@ -100,6 +100,7 @@ Eye disorders
 Adverse reactions have been reported from unapproved intravitreal use.
 These reactions included infectious endophthalmitis, intraocular inflammation such as sterile endophthalmitis, uveitis and vitritis, retinal detachment, retinal pigment epithelial tear, intraocular pressure increased, intraocular haemorrhage such as vitreous haemorrhage or retinal haemorrhage and conjunctival haemorrhage.
 Some of these appeared as serious adverse reactions.
+
 Ovarian failure/fertility
 Avastin may impair female fertility (see sections 4.6 and 4.8).
 Therefore fertility preservation strategies should be discussed with women of child-bearing potential prior to starting treatment with Avastin.

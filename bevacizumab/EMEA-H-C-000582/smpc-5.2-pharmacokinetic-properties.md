@@ -14,6 +14,7 @@ Metabolism
 Assessment of bevacizumab metabolism in rabbits following a single IV dose of 125I-bevacizumab indicated that its metabolic profile was similar to that expected for a native IgG molecule which does not bind VEGF.
 The metabolism and elimination of bevacizumab is similar to endogenous IgG i.e. primarily via proteolytic catabolism throughout the body, including endothelial cells, and does not rely primarily on elimination through the kidneys and liver.
 Binding of the IgG to the FcRn receptor result in protection from cellular metabolism and the long terminal half-life.
+
 Elimination
 The value for clearance is, on average, equal to 0.188 and 0.220 L/day for female and male patients, respectively.
 After correcting for body weight, male patients had a higher bevacizumab clearance

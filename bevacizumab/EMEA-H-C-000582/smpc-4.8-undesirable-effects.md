@@ -9,7 +9,6 @@ The most serious adverse reactions were:
 - Arterial thromboembolism (see section 4.4).
 
 The most frequently observed adverse reactions across clinical trials in patients receiving Avastin were hypertension, fatigue or asthenia, diarrhoea and abdominal pain.
-
 Analyses of the clinical safety data suggest that the occurrence of hypertension and proteinuria with Avastin therapy are likely to be dose-dependent.
 
 Table 1 lists adverse reactions associated with the use of Avastin in combination with different chemotherapy regimens in multiple indications.

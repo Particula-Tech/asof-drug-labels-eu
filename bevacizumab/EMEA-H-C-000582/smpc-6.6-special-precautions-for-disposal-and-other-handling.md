@@ -9,4 +9,5 @@ Parenteral medicinal products should be inspected visually for particulate matte
 
 Avastin is for single-use only, as the product contains no preservatives.
 Any unused product or waste material should be disposed of in accordance with local requirements.
+
 No incompatibilities between Avastin and polyvinyl chloride or polyolefine bags or infusion sets have been observed.
