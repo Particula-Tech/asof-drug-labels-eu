@@ -94,3 +94,11 @@ The following additional adverse reactions were seen:
 Neoplasms benign and malignant (including cysts and polyps)
 
 Tumour lysis syndrome – 7 cases (see sections 4.2 and 4.4)
+
+Post – Marketing Data
+
+The following adverse reactions have been identified during post-approval use of nelarabine.
+This includes spontaneous case reports as well as serious adverse events from ongoing studies.
+
+Musculoskeletal and connective tissue disorders
+Rare Rhabdomyolysis, blood creatine phosphokinase increased

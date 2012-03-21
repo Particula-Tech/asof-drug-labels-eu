@@ -9,7 +9,6 @@ Accumulation of ara-GTP in leukaemic blasts allows for preferential incorporatio
 This results in cell death.
 Other mechanisms may contribute to the cytotoxic effects of nelarabine.
 In vitro, T-cells are more sensitive than B-cells to the cytotoxic effects of nelarabine.
-
 Clinical studies
 
 Adult studies
