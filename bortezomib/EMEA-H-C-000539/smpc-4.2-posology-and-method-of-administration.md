@@ -3,7 +3,7 @@
 Treatment must be initiated and administered under the supervision of a physician qualified and experienced in the use of chemotherapeutic agents.
 
 Posology for monotherapy
-The recommended starting dose of bortezomib is 1.3 mg/m2 body surface area twice weekly for two weeks (days 1, 4, 8, and 11) followed by a 10-day rest period (days 12-21).
+The recommended starting dose of bortezomib is 1.3 mg/m2 body surface area to be administered via intravenous injection twice weekly for two weeks on days 1, 4, 8, and 11 followed by a 10-day rest period on days 12-21.
 This 3-week period is considered a treatment cycle.
 At least 72 hours should elapse between consecutive doses of VELCADE.
 
@@ -62,9 +62,9 @@ Paediatric population
 The safety and efficacy of VELCADE in children below age 18 have not yet been established (see sections 5.1 and 5.2).
 
 Posology for combination therapy
-VELCADE (bortezomib) is administered in combination with oral melphalan and oral prednisone for nine 6-week treatment cycles as shown in Table 3.
-In Cycles 1-4, VELCADE is administered twice weekly (days 1, 4, 8, 11, 22, 25, 29 and 32).
-In Cycles 5-9, VELCADE is administered once weekly (days 1, 8, 22 and 29).
+VELCADE is administered via intravenous injection in combination with oral melphalan and oral prednisone for nine 6-week treatment cycles as shown in Table 3.
+In Cycles 1-4, VELCADE is administered twice weekly on days 1, 4, 8, 11, 22, 25, 29 and 32.
+In Cycles 5-9, VELCADE is administered once weekly on days 1, 8, 22 and 29.
 Melphalan and prednisone should both be given orally on days 1, 2, 3 and 4 of the first week of each cycle.
 
 Table 3: Recommended posology for VELCADE in combination with melphalan and prednisone for patients with previously untreated multiple myeloma
@@ -90,7 +90,7 @@ Prior to initiating a new cycle of therapy:
 - Platelet counts should be ≥ 70 x 109/l and the absolute neutrophils count should be ≥ 1.0 x 109/l
 - Non-haematological toxicities should have resolved to Grade 1 or baseline
 
-Table 4: Posology modifications during subsequent cycles:
+Table 4: Posology modifications during subsequent cycles
 
 | Toxicity | Posology modification or delay |
 | --- | --- |

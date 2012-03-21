@@ -5,7 +5,7 @@ Serious adverse reactions uncommonly reported during treatment with VELCADE incl
 
 The following undesirable effects in Table 5 were considered by the investigators to have at least a possible or probable causal relationship to VELCADE during the conduct of 5 non-comparative Phase II studies and 1 comparative Phase III trial (VELCADE vs. dexamethasone) in 663 patients with relapsed or refractory multiple myeloma, of whom 331 received VELCADE as single agent.
 The safety database comprises data from patients with multiple myeloma or B-cell lymphocytic leukemia (CLL).
-In addition, this table contains adverse reactions from post-marketing reports* with frequency categorization estimated from safety data comprising 2017 patients from clinical trials (including the patients from the 6 studies described above).
+In addition, Table 5 contains adverse reactions from post-marketing reports* with frequency categorization estimated from safety data comprising 2017 patients from clinical trials (including the patients from the 6 studies described above).
 These patients were from company-sponsored trials with VELCADE studied at 1.3 mg/m2 as single chemotherapeutic agent or in combination with dexamethasone for multiple myeloma (1995 patients), or for B cell chronic lymphocytic leukemia (22 patients).
 
 Adverse reactions are listed below by system organ class and frequency grouping.
@@ -48,7 +48,7 @@ Rare: autonomic neuropathy*
 Eye disorders
 Common: vision blurred (see section 4.7), eye pain.
 Uncommon: eye haemorrhage, vision abnormal, dry eye, conjunctivitis, eye discharge, photophobia, eye irritation, lacrimation increased, conjunctival hyperaemia, eye swelling.
-Rare: herpes zoster ophthalmic*
+Rare: herpes zoster ophthalmic*, optic neuropathy, different degrees of visual impairment (up to blindness).
 
 Ear and labyrinth disorders
 Common: vertigo.
@@ -66,7 +66,7 @@ Respiratory, thoracic and mediastinal disorders
 Very common: dyspnoea.
 Common: dyspnoea exertional, epistaxis, cough, rhinorrhoea.
 Uncommon: respiratory failure*, pneumonitis*, pulmonary embolism*, pulmonary hypertension*, interstitial pneumonia*, acute diffuse infiltrative pulmonary disease*, pulmonary alveolar haemorrhage*, respiratory arrest, hypoxia, pulmonary congestion, pleural effusion, asthma, respiratory alkalosis, tachypnoea, wheezing, nasal congestion, hoarseness, rhinitis, hyperventilation, orthopnoea, chest wall pain, sinus pain, throat tightness, productive cough.
-Rare: acute respiratory distress syndrome (ARDS)*, peripheral embolism*
+Rare: acute respiratory distress syndrome (ARDS)*, peripheral embolism*.
 
 Gastrointestinal disorders (see section 4.4)
 Very common: vomiting, diarrhoea, nausea, constipation.
@@ -110,7 +110,7 @@ Uncommon: catheter related complications, post procedural pain, post procedural 
 
 Summary of safety data in patients with previously untreated multiple myeloma:
 
-The following table 6 describes safety data from 340 patients with previously untreated multiple myeloma who received VELCADE (1.3 mg/m2) in combination with melphalan (9 mg/m2) and prednisone (60 mg/m2) in a prospective Phase III study.
+The following Table 6 describes safety data from 340 patients with previously untreated multiple myeloma who received VELCADE (1.3 mg/m2) in combination with melphalan (9 mg/m2) and prednisone (60 mg/m2) in a prospective Phase III study.
 
 Overall, the safety profile of patients treated with VELCADE in monotherapy was similar to that observed in patients treated with VELCADE in combination with melphalan and prednisone.
 Table 6: Treatment emergent drug-related adverse reactions reported in ≥ 10% of patients treated with VELCADE in combination with melphalan and prednisone
@@ -164,6 +164,8 @@ Fatigue 85 ( 25) 19 ( 6) 2 ( 1) 48 ( 14) 4 ( 1) 0
 Asthenia 54 ( 16) 18 ( 5) 0 23 ( 7) 3 ( 1) 0
 Pyrexia 53 ( 16) 4 ( 1) 0 19 ( 6) 1 ( <1) 1 ( <1)
 
+Vc = VELCADE; M = melphalan, P = prednisone
+
 Herpes zoster virus reactivation
 Antiviral prophylaxis should be considered in patients being treated with VELCADE.
 In the Phase III study in patients with previously untreated multiple myeloma, the overall incidence of herpes zoster reactivation was more common in patients treated with Vc+M+P compared with M+P (14% vs 4% respectively).
@@ -172,4 +174,6 @@ The incidence of herpes zoster among patients in the Vc+M+P treatment group was 
 
 [VELCADE 3.5 mg powder for solution for injection]
 
-The following undesirable effects in Table 5 were considered by the investigators to have at least a possible or probable causal relationship to VELCADE during the conduct of 5 non-comparative Phase II studies and 1 comparative Phase III trial (VELCADE vs dexamethasone) in 663 patients with relapsed or refractory multiple myeloma, of whom 331 received VELCADE as single agent.
+Blood and lymphatic system
+
+disorders

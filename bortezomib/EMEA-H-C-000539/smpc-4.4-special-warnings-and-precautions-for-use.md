@@ -8,7 +8,7 @@ Therefore, patients who experience constipation should be closely monitored.
 Haematological toxicity
 VELCADE treatment is very commonly associated with haematological toxicities (thrombocytopenia, neutropenia and anaemia).
 The most common haematologic toxicity is transient thrombocytopenia.
-Platelets were lowest at Day 11 of each cycle of VELCADE treatment.
+In a Phase II study, platelets were lowest at Day 11 of each cycle of VELCADE treatment.
 There was no evidence of cumulative thrombocytopenia, including in the Phase II extension study.
 The mean platelet count nadir measured was approximately 40% of baseline.
 In patients with advanced myeloma the severity of thrombocytopenia was related to pre-treatment platelet count: for baseline platelet counts <75,000/μl, 90% of 21 patients had a count ≤25,000/μl during the study, including 14% <10,000/μl; in contrast, with a baseline platelet count >75,000/μl, only 14% of 309 patients had a count ≤25×109/l during the study.
@@ -25,8 +25,8 @@ The incidence of peripheral neuropathy increases early in the treatment and has 
 
 It is recommended that patients be carefully monitored for symptoms of neuropathy such as a burning sensation, hyperesthesia, hypoesthesia, paraesthesia, discomfort, neuropathic pain or weakness.
 Patients experiencing new or worsening peripheral neuropathy should undergo neurological evaluation and may require the dose and schedule of VELCADE to be modified (see section 4.2).
-Neuropathy has been managed with supportive care and other therapies.
-Improvement in, or resolution of, peripheral neuropathy was reported in 51% of patients with ≥ Grade 2 peripheral neuropathy in the single-agent Phase III multiple myeloma study and 71% of patients with grade 3 or 4 peripheral neuropathy or peripheral neuropathy leading to discontinuation of treatment in Phase II studies, respectively.
+In the single-agent Phase III multiple myeloma study neuropathy has been managed with supportive care and other therapies and improvement was reported in 51% of patients with ≥ Grade 2 peripheral neuropathy.
+Resolution occurred in 71% of patients with grade 3 or 4 peripheral neuropathy or peripheral neuropathy leading to discontinuation of treatment in Phase II studies.
 
 In addition to peripheral neuropathy, there may be a contribution of autonomic neuropathy to some adverse reactions such as postural hypotension and severe constipation with ileus.
 Information on autonomic neuropathy and its contribution to these undesirable effects is limited.
@@ -54,7 +54,6 @@ RPLS is a rare, reversible, rapidly evolving neurological condition, which can p
 Brain imaging, preferably MRI (Magnetic Resonance Imaging), is used to confirm the diagnosis.
 In patients developing RPLS, discontinue VELCADE.
 The safety of reinitiating VELCADE therapy in patients previously experiencing RPLS is not known.
-
 Heart failure
 Acute development or exacerbation of congestive heart failure, and/or new onset of decreased left ventricular ejection fraction has been reported during bortezomib treatment.
 In a single agent Phase III randomised, comparative study the incidence of heart failure in the VELCADE group was similar to that in the dexamethasone group.
@@ -84,7 +83,7 @@ Bortezomib is metabolized by liver enzymes.
 Bortezomib exposure is increased in patients with moderate or severe hepatic impairment; these patients should be treated with VELCADE at reduced doses and closely monitored for toxicities (see sections 4.2 and 5.2).
 
 Hepatic reactions
-Rare cases of hepatic failure have been reported in patients receiving multiple concomitant medications and with serious underlying medical conditions.
+Rare cases of hepatic failure have been reported in patients receiving VELCADE and multiple concomitant medications and with serious underlying medical conditions.
 Other reported hepatic reactions include increases in liver enzymes, hyperbilirubinaemia, and hepatitis.
 Such changes may be reversible upon discontinuation of bortezomib (see section 4.8).
 
@@ -103,7 +102,5 @@ Potentially immunocomplex-mediated reactions, such as serum-sickness-type reacti
 Bortezomib should be discontinued if serious reactions occur.
 
 [VELCADE 3.5 mg powder for solution for injection]
-
-Improvement in, or resolution of, peripheral neuropathy was reported in 51% of patients with ≥ Grade 2 peripheral neuropathy in the single agent Phase III multiple myeloma study and 71% of patients with grade 3 or 4 peripheral neuropathy or peripheral neuropathy leading to discontinuation of treatment in Phase II studies, respectively.
 
 In a single-agent Phase III randomised, comparative study the incidence of heart failure in the VELCADE group was similar to that in the dexamethasone group.
