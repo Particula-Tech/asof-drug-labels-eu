@@ -24,17 +24,20 @@ Haemodynamic effects
 The majority of patients experience a rapid increase in heart rate.
 The greatest mean change from baseline (21 bpm) occurs approximately 1 minute after administration of Rapiscan.
 Heart rate returns to baseline within 10 minutes.
-Systolic blood pressure and diastolic blood pressure changes were variable, with the greatest mean change in systolic pressure of −3 mm Hg and in diastolic pressure of
-−4 mm Hg approximately 1 minute after Rapiscan administration.
+Systolic blood pressure and diastolic blood pressure changes were variable, with the greatest mean change in systolic pressure of −3 mm Hg and in diastolic pressure of −4 mm Hg approximately 1 minute after Rapiscan administration.
 An increase in blood pressure has been observed in some patients (maximum systolic blood pressure of 240 mm Hg and maximum diastolic blood pressure of 138 mm Hg).
 
 Respiratory effects
 The A2B and A3 adenosine receptors have been implicated in the pathophysiology of bronchoconstriction in susceptible individuals (i.e., asthmatics).
 In in vitro studies, regadenoson has been shown to have little binding affinity for the A2B and A3 adenosine receptors.
-The incidence of bronchoconstriction (FEV1 reduction > 15% from baseline) after Rapiscan administration was assessed in two randomised, controlled clinical studies.
-In the first study in 49 patients with moderate to severe COPD, the rate of bronchoconstriction was 12% and 6% following Rapiscan and placebo dosing, respectively (p = 0.31).
-In the second study in 48 patients with mild to moderate asthma who had previously been shown to have bronchoconstrictive reactions to adenosine monophosphate, the rate of bronchoconstriction was the same (4%) following both Rapiscan and placebo dosing.
-In both studies, dyspnoea was reported as an adverse reaction following Rapiscan dosing (61% for patients with COPD; 34% for patients with asthma) while no subjects experienced dyspnoea following placebo dosing.
+The incidence of a FEV1 reduction > 15% from baseline after Rapiscan administration was assessed in three randomised, controlled clinical studies.
+In the first study in 49 patients with moderate to severe COPD, the rate of FEV1 reduction > 15% from baseline was 12% and 6% following Rapiscan and placebo dosing, respectively (p = 0.31).
+In the second study in 48 patients with mild to moderate asthma who had previously been shown to have bronchoconstrictive reactions to adenosine monophosphate, the rate of FEV1 reduction > 15% from baseline was the same (4%) following both Rapiscan and placebo dosing.
+In the third study in 1009 patients with mild or moderate asthma (n=537) and moderate or severe COPD (n=472) the incidence of FEV1 reduction >15% from baseline was 1.1% and 2.9% in patients with asthma (p=0.15) and 4.2% and 5.4% in patients with COPD (p=0.58) following Rapiscan and placebo dosing, respectively.
+In the first and second studies, dyspnoea was reported as an adverse reaction following Rapiscan dosing (61% for patients with COPD; 34% for patients with asthma) while no subjects experienced dyspnoea following placebo dosing.
+In the third study dyspnoea was reported more frequently following Rapiscan (18% for patients with COPD; 11% for patients with asthma) than placebo, but at a lower rate than reported during clinical development (see Section 4.8).
+A relationship between increased severity of disease and the increased incidence of dyspnoea was apparent in patients with asthma, but not in patients with COPD.
+The use of bronchodilator therapy for symptoms was not different between Rapiscan and placebo.
 Dyspnoea did not correlate with a decrease in FEV1.
 
 Clinical efficacy
@@ -69,6 +72,11 @@ Rate Difference (Rapiscan – Adenosine) (± SE) 1 ± 4% -1 ± 5% 0 ± 3%
 95% Confidence Interval -7.5, 9.2% -11.2, 8.7% -6.2, 6.8%
 
 In ADVANCE MPI 1 and ADVANCE MPI 2, the Cicchetti-Allison and Fleiss-Cohen weighted kappas of the median score of three blinded readers with respect to ischaemia size category (not counting segments with normal rest uptake and mild/equivocal reduction in stress uptake as ischaemic) for the combined studies of regadenoson with the adenosine scan were moderate, 0.53 and 0.61, respectively; as were the weighted kappas of two consecutive adenosine scans, 0.50 and 0.55, respectively.
+
+Effect of caffeine
+In a study of adult patients undergoing pharmacological stress radionuclide MPI with Rapiscan, randomized to placebo (n=66) or caffeine (200 mg, n=70 or 400 mg, n=71) administered 90 minutes before the test, caffeine compromised the diagnostic accuracy of detecting reversible perfusion defects (p<0.001).
+There was no statistical difference between 200 mg and 400 mg caffeine with Rapiscan.
+Also, there was no apparent effect of 200 mg or 400 mg of caffeine on regadenoson plasma concentrations.
 
 Safety and tolerability testing
 In ADVANCE MPI 1 and ADVANCE MPI 2, the following pre-specified safety and tolerability endpoints comparing Rapiscan to adenosine achieved statistical significance: (1) a summed score of both the presence and severity of the symptom groups of flushing, chest pain, and dyspnoea was lower with Rapiscan (0.9 ± 0.03) than with adenosine (1.3 ± 0.05); and (2) the symptom groups of flushing (21% vs 32%), chest pain (28% vs 40%), and ‘throat, neck or jaw pain’ (7% vs 13%) were less frequent with Rapiscan; the incidence of headache (25% vs 16%) was more frequent with Rapiscan.

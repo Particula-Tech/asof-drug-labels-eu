@@ -28,7 +28,7 @@ Age, gender, and race have minimal effects on the pharmacokinetics of regadenoso
 
 Renal impairment
 The disposition of regadenoson was studied in 18 subjects with various degrees of renal function and in 6 healthy subjects.
-With increasing renal impairment, from mild (CLcr 50 to < 80 ml/min) to moderate (CLcr 30 to < 50 ml/min) to severe renal impairment (CLcr < 30 ml/min), the fraction of regadenoson excreted unchanged in urine and the renal clearance decreased, resulting in increased elimination half-lives and AUC values compared to healthy subjects (CLcr ≥ 80 ml/min).
+With increasing renal impairment, from mild (CLcr 50 to < 80 ml/min) to moderate (CLcr 30 to < 50 ml/min) to severe renal impairment (CLcr < 30 ml/min), the fraction of regadenoson excreted unchanged in urine and the renal clearance decreased, resulting in increased elimination half-lives and AUC values compared to healthy subjects (CLcr ml/min).
 However, the maximum observed plasma concentrations as well as volumes of distribution estimates were similar across the groups.
 The plasma concentration-time profiles were not significantly altered in the early stages after dosing when most pharmacologic effects are observed.
 No dose adjustment is needed in patients with renal impairment.

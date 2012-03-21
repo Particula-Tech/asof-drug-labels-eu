@@ -16,48 +16,43 @@ Frequencies are defined as very common (≥ 1/10), common
 (≥ 1/100 to < 1/10) and uncommon (≥ 1/1,000 to < 1/100).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Psychiatric disorders:
-Uncommon Anxiety, insomnia
-Nervous system disorders:
-Very common Headache, dizziness
-Common Paraesthesia, hypoaesthesia, dysgeusia
-Convulsions, syncope, transient ischaemic attack, unresponsiveness to stimuli,
-Uncommon
-depressed level of consciousness, tremor, somnolence
-Eye disorders:
-Uncommon Vision blurred, eye pain
-Ear and labyrinth disorders:
-Uncommon Tinnitus
-Cardiac disorders:
-Very common Electrocardiogram ST segment changes
-Angina pectoris, atrioventricular block, tachycardia, palpitations, other
-Common
-ECG abnormalities including electrocardiogram QT corrected interval prolonged
-Cardiac arrest, myocardial infarction, complete AV block, atrial
-Uncommon
-fibrillation/flutter, bradycardia
-Vascular disorders:
-Very common Flushing
-Common Hypotension
-Uncommon Hypertension, pallor, peripheral coldness
-Respiratory, thoracic and mediastinal disorders:
-Very common Dyspnoea
-Common Throat tightness, throat irritation, cough
-Uncommon Tachypnoea
-Gastrointestinal disorders:
-Very common Gastrointestinal discomfort
-Common Vomiting, nausea, oral discomfort
-Uncommon Abdominal distension, diarrhoea, faecal incontinence
-Skin and subcutaneous tissue disorders:
-Common Hyperhidrosis
-Uncommon Erythema
-Musculoskeletal and connective tissue disorders:
-Common Back, neck or jaw pain, pain in extremity, musculoskeletal discomfort
-Uncommon Arthralgia
-General disorders and administration site conditions:
-Very common Chest pain
-Common Malaise, asthenia
-Uncommon Pain at injection site, general body pain
+| Psychiatric disorders: |  |
+| --- | --- |
+| Uncommon | Anxiety, insomnia |
+| Nervous system disorders: |  |
+| Very common | Headache, dizziness |
+| Common | Paraesthesia, hypoaesthesia, dysgeusia |
+| Uncommon | Convulsions, syncope, transient ischaemic attack, unresponsiveness to stimuli, depressed level of consciousness, tremor, somnolence |
+| Eye disorders: |  |
+| Uncommon | Vision blurred, eye pain |
+| Ear and labyrinth disorders: |  |
+| Uncommon | Tinnitus |
+| Cardiac disorders: |  |
+| Very common | Electrocardiogram ST segment changes |
+| Common | Angina pectoris, atrioventricular block, tachycardia, palpitations, other ECG abnormalities including electrocardiogram QT corrected interval prolonged |
+| Uncommon | Cardiac arrest, myocardial infarction, complete AV block, atrial fibrillation/flutter, bradycardia |
+| Vascular disorders: |  |
+| Very common | Flushing |
+| Common | Hypotension |
+| Uncommon | Hypertension, pallor, peripheral coldness |
+| Respiratory, thoracic and mediastinal disorders: |  |
+| Very common | Dyspnoea |
+| Common | Throat tightness, throat irritation, cough |
+| Uncommon | Tachypnoea |
+| Gastrointestinal disorders: |  |
+| Very common | Gastrointestinal discomfort |
+| Common | Vomiting, nausea, oral discomfort |
+| Uncommon | Abdominal distension, diarrhoea, faecal incontinence |
+| Skin and subcutaneous tissue disorders: |  |
+| Common | Hyperhidrosis |
+| Uncommon | Erythema |
+| Musculoskeletal and connective tissue disorders: |  |
+| Common | Back, neck or jaw pain, pain in extremity, musculoskeletal discomfort |
+| Uncommon | Arthralgia |
+| General disorders and administration site conditions: |  |
+| Very common | Chest pain |
+| Common | Malaise, asthenia |
+| Uncommon | Pain at injection site, general body pain |
 
 Description of selected adverse reactions
 Fatal cardiac arrest, life-threatening ventricular arrhythmias and myocardial infarction may result from the ischaemia induced by pharmacologic stress agents.
