@@ -71,7 +71,8 @@ There is currently limited clinical experience with the use of CHAMPIX among bla
 Flexible quit date between weeks 1 and 5
 The efficacy and safety of varenicline has been evaluated in smokers who had the flexibility of quitting between weeks 1 and 5 of treatment.
 In this 24-week study, patients received treatment for 12 weeks followed by a 12 week non-treatment follow up phase.
-The 4 week (week 9-12) CQR for varenicline and placebo was 53.9% and 19.4%, respectively (difference=34.5%, 95% CI: 27.0% - 42.0%) and the CA week 9-24 was 35.2% (varenicline) vs 12.7% (placebo) (difference=22.5%, 95% CI: 15.8% - 29.1%).
+The 4 week (week 9-12) CQR for varenicline and placebo was 53.9% and 19.4%, respectively (difference=34.5%, 95%
+CI: 27.0% - 42.0%) and the CA week 9-24 was 35.2% (varenicline) vs 12.7% (placebo) (difference=22.5%, 95% CI: 15.8% - 29.1%).
 Patients who are not willing or able to set the target quit date within 1-2 weeks, could be offered to start treatment and then choose their own quit date within 5 weeks.
 Subjects with Cardiovascular Disease
 CHAMPIX was evaluated in a randomised, double-blind, placebo-controlled study of subjects with stable, cardiovascular disease (other than, or in addition to, hypertension) that had been diagnosed for more than 2 months.
@@ -100,7 +101,8 @@ The results for the 4W CQR (weeks 9 through 12) and CA rate (weeks 9 through 52)
 Study in Subjects with Stable Schizophrenia or Schizoaffective Disorder:
 Varenicline safety and tolerability was assessed in a double-blind study of 128 smokers with stable schizophrenia or schizoaffective disorder, on antipsychotic medication, randomized 2:1 to varenicline (1 mg twice daily) or placebo for 12 weeks with 12-week non-drug follow-up.
 The most common adverse events in subjects taking varenicline were nausea (23.8% vs. 14.0% on placebo), headache (10.7% vs. 18.6% on placebo) and vomiting (10.7% vs. 9.3% on placebo).
-Among reported neuropsychiatric adverse events, insomnia was the only event reported in either treatment group in ≥ 5% of subjects at a rate higher in the varenicline group than in placebo (9.5% vs. 4.7%).
+Among reported neuropsychiatric adverse events, insomnia was the only event reported in either treatment group in ≥ 5% of subjects at a rate higher in the varenicline group than in placebo
+(9.5% vs. 4.7%).
 
 Overall, there was no worsening of schizophrenia in either treatment group as measured by psychiatric scales and there were no overall changes in extra-pyramidal signs.
 In the varenicline group compared to placebo, a higher proportion of subjects reported suicidal ideation or behaviour prior to enrolment (lifetime history) and after the end of active treatment period (on Days 33 to 85 after the last dose of drugs).
@@ -111,7 +113,13 @@ The limited data available from this single smoking cessation study are not suff
 
 [CHAMPIX 1 mg film-coated tablets]
 
-The 4 week (week 9-12) CQR for varenicline and placebo was 53.9% and 19.4%, respectively (difference=34.5, 95% CI: 27.0% – 42.0%) and the CA week 9-24 was 35.2% (varenicline) vs 12.7% (placebo) (difference=22.5%, 95% CI: 15.8% - 29.1%).
+Two identical double-blind clinical trials prospectively compared the efficacy of CHAMPIX
+(1 mg twice daily), sustained release bupropion (150 mg twice daily) and placebo in smoking cessation.
+
+The 4 week (week 9-12) CQR for varenicline and placebo was 53.9% and 19.4%, respectively (difference=34.5, 95%
+
+The following adjudicated events occurred with a frequency ≥1% in either treatment group during treatment
+(or in the 30-day period after treatment): nonfatal myocardial infarction (1.1% vs. 0.3% for CHAMPIX and placebo, respectively), and hospitalisation for angina pectoris (0.6% vs. 1.1%).
 
 [CHAMPIX 0.5 mg film-coated tablets (SmPC 3)]
 
@@ -119,11 +127,15 @@ Pharmacotherapeutic group: OTHER NERVOUS SYSTEM DRUGS; Drugs used in nicotine , 
 
 Varenicline is highly selective and binds more potently to the α4β2 receptor subtype (Ki=0.15 nM) than to other common nicotinic receptors (α3β4 Ki=84 nM, α7 Ki= 620 nM, α1βγδ Ki= 3,400 nM), or to non-nicotinic receptors and transporters (Ki > 1�M, except to 5-HT3 receptors: Ki=350 nM).
 
-|  | Study 1 (n=1022) |  | Study 2 (n=1023) |  |
-| --- | --- | --- | --- | --- |
-|  | 4W CQR | CA Wk 9-52 | 4W CQR | CA Wk 9-52 |
+Study 1 (n=1022) Study 2 (n=1023)
+4W CQR CA Wk 9-52 4W CQR CA Wk 9-52
+
 | CHAMPIX | 44.4% | 22.1% | 44.0% | 23.0% |
+| --- | --- | --- | --- | --- |
 | Bupropion | 29.5% | 16.4% | 30.0% | 15.0% |
 | Placebo | 17.7% | 8.4% | 17.7% | 10.3% |
 | Odds ratio CHAMPIX vs placebo | 3.91 p<0.0001 | 3.13 p<0.0001 | 3.85 p<0.0001 | 2.66 p<0.0001 |
 | Odds ratio CHAMPIX vs bupropion | 1.96 p<0.0001 | 1.45 p=0.0640 | 1.89 p<0.0001 | 1.72 p=0.0062 |
+
+The 4 week (week 9-12) CQR for varenicline and placebo was 53.9% and 19.4%, respectively (difference=34.5%, 95% CI:
+27.0% - 42.0%) and the CA week 9-24 was 35.2% (varenicline) vs 12.7% (placebo) (difference=22.5%, 95% CI: 15.8% - 29.1%).

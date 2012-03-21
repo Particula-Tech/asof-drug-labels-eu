@@ -12,7 +12,9 @@ In patients treated with the recommended dose of 1mg BID following an initial ti
 In the majority of cases nausea occurred early in the treatment period, was mild to moderate in severity and seldom resulted in discontinuation.
 
 The treatment discontinuation rate due to adverse reactions was 11.4% for varenicline compared with 9.7% for placebo.
-In this group, the discontinuation rates for the most common adverse reactions in varenicline treated patients were as follows: nausea (2.7% vs. 0.6% for placebo), headache (0.6% vs. 1.0% for placebo), insomnia (1.3% vs. 1.2% for placebo), and abnormal dreams (0.2% vs. 0.2% for placebo).
+In this group, the discontinuation rates for the most common adverse reactions in varenicline treated patients were as follows: nausea (2.7% vs. 0.6% for placebo), headache
+(0.6% vs. 1.0% for placebo), insomnia (1.3% vs. 1.2% for placebo), and abnormal dreams
+(0.2% vs. 0.2% for placebo).
 
 Tabulated summary of adverse reactions
 In the table below all adverse reactions, which occurred at an incidence greater than placebo are listed by system organ class and frequency (very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100) and rare (≥1/10,000 to <1/1,000)).
@@ -29,6 +31,7 @@ Metabolism and nutrition disorders
 
 Common Increased appetite
 Uncommon Anorexia, decreased appetite, polydipsia
+Not Known Hyperglycaemia, diabetes mellitus
 
 Psychiatric disorders
 Very common Abnormal dreams, insomnia
@@ -37,8 +40,9 @@ Uncommon Panic reaction, dysphoria, bradyphrenia, thinking abnormal, restlessnes
 
 mood swings, depression*, anxiety*, hallucinations*, libido increased, libido decreased
 
-Not Known Suicidal ideation, psychosis, aggression, abnormal behaviour
+Not Known Suicidal ideation, psychosis, aggression, abnormal behaviour,
 
+somnambulism
 Nervous system disorders
 Very common Headache
 
@@ -46,12 +50,12 @@ Common Somnolence, dizziness, dysgeusia
 Uncommon Hypertonia, dysarthria, tremor, coordination abnormal, lethargy,
 
 hypoaesthesia, hypogeusia
+System Organ Adverse Drug Reactions
+Class
 
 Rare Cerebrovascular accident
 
 Eye disorders
-System Organ Adverse Drug Reactions
-Class
 
 Uncommon Scotoma, scleral discolouration, eye pain, mydriasis, photophobia,
 
@@ -117,3 +121,11 @@ Uncommon Liver function test abnormal, platelet count decreased, semen abnormal,
 
 C-reactive protein increased, blood calcium decreased, weight increased
 * frequencies are estimated from a post-marketing, observational cohort study
+
+[CHAMPIX 1 mg film-coated tablets]
+
+(all sentences already above)
+
+[CHAMPIX 0.5 mg film-coated tablets (SmPC 3)]
+
+In this group, the discontinuation rates for the most common adverse reactions in varenicline treated patients were as follows: nausea (2.7% vs. 0.6% for placebo), headache (0.6% vs. 1.0% for placebo), insomnia (1.3% vs. 1.2% for placebo), and abnormal dreams (0.2% vs. 0.2% for placebo).

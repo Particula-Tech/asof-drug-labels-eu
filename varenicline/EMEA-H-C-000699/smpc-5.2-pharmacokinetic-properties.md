@@ -48,6 +48,9 @@ An increase of 30% in Cmax and a shorter elimination half-life (10.9 hr) were ob
 
 Pharmacokinetics in special patient populations: There are no clinically meaningful differences in varenicline pharmacokinetics due to age, race, gender, smoking status, or use of concomitant medicinal products , as demonstrated in specific pharmacokinetic studies and in population pharmacokinetic analyses.
 
+Elderly: The pharmacokinetics of varenicline in elderly patients with normal renal function
+(aged 65-75 years) is similar to that of younger adult subjects (see section 4.2).
+
 [CHAMPIX 0.5 mg film-coated tablets (SmPC 3)]
 
 (all sentences already above)

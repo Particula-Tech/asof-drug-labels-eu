@@ -32,3 +32,12 @@ Nicotine replacement therapy (NRT): When varenicline and transdermal NRT were co
 In this study, the incidence of nausea, headache, vomiting, dizziness, dyspepsia, and fatigue was greater for the combination than for NRT alone.
 
 Safety and efficacy of CHAMPIX in combination with other smoking cessation therapies have not been studied.
+
+[CHAMPIX 1 mg film-coated tablets]
+
+Therefore, active substances that are cleared by renal secretion
+(e.g. metformin - see below) are unlikely to be affected by varenicline.
+
+[CHAMPIX 0.5 mg film-coated tablets (SmPC 3)]
+
+(all sentences already above)
