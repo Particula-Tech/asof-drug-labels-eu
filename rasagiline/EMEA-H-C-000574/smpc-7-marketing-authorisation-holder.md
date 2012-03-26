@@ -1,6 +1,7 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 Teva Pharma GmbH
-Kandelstr 10
-D-79199 Kirchzarten
+Graf-Arco-Str.
+3
+89079 Ulm
 Germany
