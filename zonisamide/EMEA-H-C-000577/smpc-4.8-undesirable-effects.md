@@ -22,7 +22,7 @@ not known cannot be estimated from the available data
 | --- | --- | --- | --- | --- |
 | Infections and infestation |  |  | Pneumonia Urinary tract infection |  |
 | Blood and lymphatic system disorders |  | Ecchymosis |  | Agranulocytosis Aplastic anaemia Leucocytosis Leucopoenia Lymphadenopathy Pancytopenia, Thrombocytopenia |
-| Immune system disorders |  | Hypersensitivity |  |  |
+| Immune system disorders |  | Hypersensitivity |  | Drug-induced hypersensitivity syndrome Drug rash with eosinophilia and systemic symptoms |
 | Metabolism and nutrition disorders | Anorexia |  | Hypokalaemia | Metabolic acidosis Renal tubular acidosis |
 | Psychiatric Disorders | Agitation Irritability Confusional state Depression | Affect lability Anxiety Insomnia Psychotic disorder | Anger Aggression Suicidal ideation Suicide attempt | Hallucination |
 | Nervous system disorders | Ataxia Dizziness Memory impairment Somnolence | Bradyphrenia Disturbance in attention Nystagmus Paraesthesia Speech disorder Tremor | Convulsion | Amnesia Coma Grand mal seizure Myasthenic syndrome Neuroleptic malignant syndrome Status epilepticus |
@@ -30,14 +30,17 @@ not known cannot be estimated from the available data
 | Respiratory, thoracic and mediastinal disorders |  |  |  | Dyspnoea Pneumonia aspiration Respiratory disorder |
 | Gastrointestinal disorders |  | Abdominal pain Constipation Diarrhoea Dyspepsia Nausea | Vomiting | Pancreatitis |
 | Hepatobiliary disorders |  |  | Cholecystitis Cholelithiasis | Hepatocellular damage |
-| Skin and subcutaneous tissue disorders |  | Rash |  | Anhidrosis Erythema multiforme Pruritis Stevens-Johnson syndrome Toxic epidermal necrolysis |
+| Skin and subcutaneous tissue disorders |  | Rash Pruritus |  | Anhidrosis Erythema multiforme Stevens-Johnson syndrome Toxic epidermal necrolysis |
 | Musculoskeletal and connective tissue disorders |  |  |  | Rhabdomyolysis |
 | Renal and urinary disorders |  | Nephrolithiasis | Calculus urinary | Hydronephrosis Renal failure Urine abnormality |
-| General disorders and administration site conditions |  | Fatigue Influenza-like illness Pyrexia |  |  |
+| General disorders and administration site conditions |  | Fatigue Influenza-like illness Pyrexia Oedema peripheral |  |  |
 | Investigations | Decreased bicarbonate | Weight decreased |  | Blood creatine phosphokinase increased Blood creatinine increased Blood urea increased Liver function tests abnormal |
 | Injury, poisoning and procedural complications |  |  |  | Heat stroke |
 
 In addition there have been isolated cases of Sudden Unexplained Death in Epilepsy Patients (SUDEP) receiving Zonegran.
+
 Additional information on special populations:
+
+A pooled analysis of safety data on 95 elderly subjects has shown a relatively higher reporting frequency of oedema peripheral and pruritus compared to the adult population.
 
 Review of post-marketing data suggests that patients aged 65 years or older report a higher frequency than the general population of the following events: Stevens-Johnson syndrome (SJS) and Drug Induced Hypersensitivity syndrome (DIHS).

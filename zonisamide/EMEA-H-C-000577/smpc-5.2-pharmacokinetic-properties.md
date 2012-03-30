@@ -41,8 +41,8 @@ The plasma AUC of zonisamide was increased by 35% in subjects with creatinine cl
 Patients with an impaired liver function: The pharmacokinetics of zonisamide in patients with impaired liver function have not been adequately studied.
 
 Elderly: No clinically significant differences were observed in the pharmacokinetics between young (aged 21-40 years) and elderly (65-75 years).
-
 Children and Adolescents (5-18 years): Limited data indicate that pharmacokinetics in children and adolescents dosed to steady state at 1, 7 or 12 mg/kg daily, in divided doses, are similar to those observed in adults, after adjustment for bodyweight.
+
 Other characteristics
 
 No clear Zonegran dose-concentration-response relationship has been defined.
