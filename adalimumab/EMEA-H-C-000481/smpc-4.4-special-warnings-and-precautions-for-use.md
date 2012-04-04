@@ -2,21 +2,20 @@
 
 Infections
 
-Patients taking TNF-blockers are more susceptible to serious infections.
+Patients taking TNF-antagonists are more susceptible to serious infections.
 Impaired lung function may increase the risk for developing infections.
 Patients must therefore be monitored closely for infections, including tuberculosis, before, during and after treatment with Humira.
 Because the elimination of adalimumab may take up to four months, monitoring should be continued throughout this period.
 
 Treatment with Humira should not be initiated in patients with active infections including chronic or localized infections until infections are controlled.
 In patients who have been exposed to tuberculosis and patients who have travelled in areas of high risk of tuberculosis or endemic mycoses, such as histoplasmosis, coccidioidomycosis, or blastomycosis, the risk and benefits of treatment with Humira should be considered prior to initiating therapy (see Other opportunistic infections).
-
 Patients who develop a new infection while undergoing treatment with Humira, should be monitored closely and undergo a complete diagnostic evaluation.
 Administration of Humira should be discontinued if a patient develops a new serious infection or sepsis, and appropriate antimicrobial or antifungal therapy should be initiated until the infection is controlled.
 Physicians should exercise caution when considering the use of Humira in patients with a history of recurring infection or with underlying conditions which may predispose patients to infections, including the use of concomitant immunosuppressive medications.
 
 Serious infections:
 
-Serious infections, including sepsis, due to bacterial, mycobacterial, invasive fungal, parasitic, viral, or other opportunistic infections such as listeriosis, and pneumocystis have been reported in patients receiving Humira.
+Serious infections, including sepsis, due to bacterial, mycobacterial, invasive fungal, parasitic, viral, or other opportunistic infections such as listeriosis, legionellosis and pneumocystis have been reported in patients receiving Humira.
 
 Other serious infections seen in clinical trials include pneumonia, pyelonephritis, septic arthritis and septicaemia.
 Hospitalisation or fatal outcomes associated with infections have been reported.
@@ -47,9 +46,9 @@ Some patients who have previously received treatment for latent or active tuberc
 Patients should be instructed to seek medical advice if signs/symptoms (e.g., persistent cough, wasting/weight loss, low grade fever) suggestive of a tuberculosis infection occur during or after therapy with Humira.
 
 Other opportunistic infections:
-
 Opportunistic infections, including invasive fungal infections have been observed in patients receiving Humira.
-These infections have not consistently been recognised in patients taking TNF-blockers and this resulted in delays in appropriate treatment, sometimes resulting in fatal outcomes.
+These infections have not consistently been recognised in patients taking TNF-antagonists and this resulted in delays in appropriate treatment, sometimes resulting in fatal outcomes.
+
 For patients who develop the signs and symptoms such as fever, malaise, weight loss, sweats, cough, dyspnea, and/or pulmonary infiltrates or other serious systemic illness with or without concomitant shock an invasive fungal infection should be suspected and administration of Humira should be promptly discontinued.
 Diagnosis and administration of empiric antifungal therapy in these patients should be made in consultation with a physician with expertise in the care of patients with invasive fungal infections.
 
@@ -78,7 +77,6 @@ If an anaphylactic reaction or other serious allergic reaction occurs, administr
 
 The needle cover of the syringe contains natural rubber (latex).
 This may cause severe allergic reactions in patients sensitive to latex.
-
 Immunosuppression
 
 In a study of 64 patients with rheumatoid arthritis that were treated with Humira, there was no evidence of depression of delayed-type hypersensitivity, depression of immunoglobulin levels, or change in enumeration of effector T-, B, - NK-cells, monocyte/macrophages, and neutrophils.
@@ -90,14 +88,14 @@ However, the occurrence was rare.
 In the post marketing setting, cases of leukemia have been reported in patients treated with a TNF-antagonist.
 There is an increased background risk for lymphoma and leukemia in rheumatoid arthritis patients with long-standing, highly active, inflammatory disease, which complicates the risk estimation. .With the current knowledge, a possible risk for the development of lymphomas, leukemia, and other malignancies in patients treated with a TNF-antagonist cannot be excluded.
 
-Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-blocking agents (initiation of therapy ≤ 18 years of age), including adalimumab in the post marketing setting.
+Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-antagonists (initiation of therapy ≤ 18 years of age), including adalimumab in the post marketing setting.
 Approximately half the cases were lymphomas.
 The other cases represented a variety of different malignancies and included rare malignancies usually associated with immunosuppression.
-A risk for the development of malignancies in children and adolescents treated with TNF-blockers cannot be excluded.
+A risk for the development of malignancies in children and adolescents treated with TNF-antagonists cannot be excluded.
 
 Rare postmarketing cases of hepatosplenic T-cell lymphoma have been identified in patients treated with adalimumab.
 This rare type of T-cell lymphoma has a very aggressive disease course and is usually fatal.
-Some of these hepatosplenic T-cell lymphomas with Humira have occurred in young adult patients on concomitant treatment with azathioprine or 6-mercaptopurine used for Crohn’s disease.
+Some of these hepatosplenic T-cell lymphomas with Humira have occurred in young adult patients on concomitant treatment with azathioprine or 6-mercaptopurine used for inflammatory bowel disease.
 The potential risk with the combination of azathioprine or 6-mercaptopurine and Humira should be carefully considered.
 A risk for the development of hepatosplenic T-cell lymphoma in patients treated with Humira cannot be excluded (see section 4.8).
 
@@ -106,13 +104,16 @@ Thus additional caution should be exercised in considering Humira treatment of t
 
 All patients, and in particular patients with a medical history of extensive immunosuppressant therapy or psoriasis patients with a history of PUVA treatment should be examined for the presence of non-melanoma skin cancer prior to and during treatment with Humira.
 
-In an exploratory clinical trial evaluating the use of another anti-TNF agent, infliximab, in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies, mostly in the lung or head and neck, were reported in infliximab-treated patients compared with control patients.
+In an exploratory clinical trial evaluating the use of another TNF-antagonist, infliximab, in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies, mostly in the lung or head and neck, were reported in infliximab-treated patients compared with control patients.
 All patients had a history of heavy smoking.
 Therefore, caution should be exercised when using any TNF-antagonist in COPD patients, as well as in patients with increased risk for malignancy due to heavy smoking.
 
+With current data it is not known if adalimumab treatment influences the risk for developing dysplasia or colon cancer.
+All patients with ulcerative colitis who are at increased risk for dysplasia or colon carcinoma (for example, patients with long-standing ulcerative colitis or primary sclerosing cholangitis), or who had a prior history of dysplasia or colon carcinoma should be screened for dysplasia at regular intervals before therapy and throughout their disease course.
+This evaluation should include colonoscopy and biopsies per local recommendations.
 Haematologic reactions
 
-Rare reports of pancytopaenia including aplastic anaemia have been reported with TNF antagonists.
+Rare reports of pancytopaenia including aplastic anaemia have been reported with TNF-antagonists.
 Adverse events of the haematologic system, including medically significant cytopoenia (e.g. thrombocytopaenia, leucopaenia) have been reported with Humira.
 All patients should be advised to seek immediate medical attention if they develop signs and symptoms suggestive of blood dyscrasias (e.g. persistent fever, bruising, bleeding, pallor) while on Humira.
 Discontinuation of Humira therapy should be considered in patients with confirmed significant haematologic abnormalities.
@@ -127,6 +128,7 @@ It is recommended that polyarticular juvenile idiopathic arthritis patients, if 
 Patients on Humira may receive concurrent vaccinations, except for live vaccines.
 
 Congestive heart failure
+
 In a clinical trial with another TNF-antagonist worsening congestive heart failure and increased mortality due to congestive heart failure have been observed.
 Cases of worsening congestive heart failure have also been reported in patients receiving Humira.
 Humira should be used with caution in patients with mild heart failure (NYHA class I/II).
@@ -151,7 +153,6 @@ Concurrent administration of TNF-antagonists and abatacept
 Concurrent administration of TNF-antagonists and abatacept has been associated with an increased risk of infections including serious infections compared to TNF-antagonists alone, without increased clinical benefit.
 The combination of Humira and abatacept is not recommended.
 (See section 4.5).
-
 Surgery
 
 There is limited safety experience of surgical procedures in patients treated with Humira.
@@ -166,7 +167,7 @@ Available data suggest that Humira does not worsen or cause strictures.
 
 Elderly Population
 
-The frequency of serious infections among HUMIRA treated subjects over 65 years of age (3.9%) was higher than for those under 65 years of age (1.4%).
+The frequency of serious infections among HUMIRA treated subjects over 65 years of age (3.7%) was higher than for those under 65 years of age (1.4%).
 Some of those had a fatal outcome.
 Particular attention regarding the risk for infection should be paid when treating the elderly.
 
@@ -177,20 +178,22 @@ In patients who have been exposed to tuberculosis and patients who have travelle
 There is an increased background risk for lymphoma and leukemia in rheumatoid arthritis patients with long-standing highly active, inflammatory disease, which complicatesthe risk estimation.
 With the current knowledge, a possible risk for the development of lymphomas, leukemia, and other malignancies in patients treated with a TNF-antagonist cannot be excluded.
 
-All patients, and in particular patients with a medical history of extensive immunosuppressant therapy or psoriasis patients with a history of PUVA treatment should be examined for the presence of non-melanoma skin cancer prior to and during treatment with Humira.In an exploratory clinical trial evaluating the use of another anti-TNF agent, infliximab, in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies, mostly in the lung or head and neck, were reported in infliximab-treated patients compared with control patients.
-
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
-Serious infections including sepsis, due to bacterial, mycobacterial, invasive fungal, parasitic, viral, or other opportunistic infections such as listeriosis, and pneumocystis have been reported in patients receiving Humira.
+Serious infections including sepsis, due to bacterial, mycobacterial, invasive fungal, parasitic, viral, or other opportunistic infections such as listeriosis, legionellosis and pneumocystis have been reported in patients receiving Humira.
 
-These infections have not consistently been recognised in patients taking TNF-blockers and this has resulted in delays in appropriate treatment, sometimes resulting in fatal outcomes.
+These infections have not consistently been recognised in patients taking TNF-antagonists and this has resulted in delays in appropriate treatment, sometimes resulting in fatal outcomes.
 
 There is an increased background risk for lymphoma and leukemia in rheumatoid arthritis patients with long-standing, highly active, inflammatory disease, which complicates the risk estimation.
 
 [Humira 40 mg solution for injection in pre-filled pen]
 
-These infections have not consistently been recognised in patient taking TNF-blockers and this has resulted in delays in appropriate treatment, sometimes resulting in fatal outcomes.
+These infections have not consistently been recognised in patient taking TNF-antagonists and this has resulted in delays in appropriate treatment, sometimes resulting in fatal outcomes.
 
 For patients who develop the signs and symptoms such as fever, malaise, weight loss, sweats, cough, dyspnea, and/or pulmonary infiltrates or other serious systemic illness with or without concomitant shock an invasive fungal infection should be suspected and administration of Humira should be promptly discontinued, Diagnosis and administration of empiric antifungal therapy in these patients should be made in consultation with a physician with expertise in the care of patients with invasive fungal infections.
+
+In an exploratory clinical trial evaluating the use of another TNF-antagonists , infliximab, in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies, mostly in the lung or head and neck, were reported in infliximab-treated patients compared with control patients.
+
+Rare reports of pancytopaenia including aplastic anaemia have been reported with TNF antagonists.
 
 See section 4.5).

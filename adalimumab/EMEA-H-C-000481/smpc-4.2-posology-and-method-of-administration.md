@@ -41,7 +41,8 @@ Polyarticular Juvenile Idiopathic Arthritis Age 13-17 years:
 
 For adolescents aged 13-17 years, a dose of 40 mg is administered every other week regardless of body surface area.
 
-A 40 mg pen and a 40 mg prefilled syringe are also available for patients to administer a full 40 mg dose.
+A 40 mg pen and a 40 mg pre-filled syringe are also available for patients to administer a full 40 mg dose.
+
 Available data suggest that clinical response is usually achieved within 12 weeks of treatment.
 Continued therapy should be carefully reconsidered in a patient not responding within this time period.
 
@@ -52,7 +53,7 @@ No dose recommendations can be made.
 
 [Humira 40 mg solution for injection in pre-filled syringe]
 
-Humira treatment should be initiated and supervised by specialist physicians experienced in the diagnosis and treatment of rheumatoid arthritis, polyarticular juvenile idiopathic arthritis, psoriatic arthritis, ankylosing spondylitis, Crohn’s disease or psoriasis.
+Humira treatment should be initiated and supervised by specialist physicians experienced in the diagnosis and treatment of conditions for which Humira is indicated.
 
 During treatment with Humira, other concomitant therapies (e.g., corticosteroids and/or immunomodulatory agents) should be optimised.
 
@@ -69,7 +70,6 @@ Regarding combination with disease modifying anti-rheumatic drugs other than met
 In monotherapy, some patients who experience a decrease in their response may benefit from an increase in dose intensity to 40 mg adalimumab every week.
 
 Dose Interruption
-
 There may be a need for dose interruption, for instance before surgery or if a serious infection occurs.
 
 Available data suggest that re-introduction of Humira after discontinuation for 70 days or longer resulted in the same magnitudes of clinical response and similar safety profile as before dose interruption.
@@ -77,7 +77,14 @@ Available data suggest that re-introduction of Humira after discontinuation for 
 Psoriatic arthritis and ankylosing spondylitis
 
 The recommended dose of Humira for patients with psoriatic arthritis or ankylosing spondylitis is 40 mg adalimumab administered every other week as a single dose via subcutaneous injection.
+
 For all of the above indications, available data suggest that the clinical response is usually achieved within 12 weeks of treatment.
+
+Psoriasis
+
+The recommended dose of Humira for adult patients is an initial dose of 80 mg administered subcutaneously, followed by 40 mg subcutaneously given every other week starting one week after the initial dose.
+
+Continued therapy beyond 16 weeks should be carefully reconsidered in a patient not responding within this time period.
 
 Crohn’s disease
 
@@ -90,15 +97,16 @@ There is little experience from re-administration after more than 8 weeks since 
 
 During maintenance treatment, corticosteroids may be tapered in accordance with clinical practice guidelines.
 
-Some patients who experience decrease in their response may benefit from an increase in dose intensity to 40 mg Humira every week.
+Some patients who experience decrease in their response may benefit from an increase in dosing frequency to 40 mg Humira every week.
 
 Some patients who have not responded by Week 4 may benefit from continued maintenance therapy through Week 12.
 
-Psoriasis
+Ulcerative colitis
 
-The recommended dose of Humira for adult patients is an initial dose of 80 mg administered subcutaneously, followed by 40 mg subcutaneously given every other week starting one week after the initial dose.
+The recommended Humira induction dose regimen for adult patients with moderate to severe ulcerative colitis is 160 mg at Week 0 (dose can be administered as four injections in one day or as two injections per day for two consecutive days) and 80 mg at Week 2.
 
-Continued therapy beyond 16 weeks should be carefully reconsidered in a patient not responding within this time period.
+Available data suggest that clinical response is usually achieved within 2-8 weeks of treatment.
+Humira therapy should not be continued in patients failing to respond within this time period.
 
 Elderly patients
 

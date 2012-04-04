@@ -21,21 +21,25 @@ Humira has been shown to reduce the rate of progression of joint damage as measu
 
 (for the efficacy in monotherapy see section 5.1).
 
+Ankylosing spondylitis
+
+Humira is indicated for the treatment of adults with severe active ankylosing spondylitis who have had an inadequate response to conventional therapy.
 Psoriatic arthritis
 
 Humira is indicated for the treatment of active and progressive psoriatic arthritis in adults when the response to previous disease-modifying anti-rheumatic drug therapy has been inadequate.
 Humira has been shown to reduce the rate of progression of peripheral joint damage as measured by X-ray in patients with polyarticular symmetrical subtypes of the disease (see Section 5.1) and to improve physical function.
 
-Ankylosing spondylitis
-Humira is indicated for the treatment of adults with severe active ankylosing spondylitis who have had an inadequate response to conventional therapy.
+Psoriasis
+
+Humira is indicated for the treatment of moderate to severe chronic plaque psoriasis in adult patients who failed to respond to or who have a contraindication to, or are intolerant to other systemic therapy including cyclosporine, methotrexate or PUVA.
 
 Crohn’s disease
 
 Humira is indicated for treatment of severe, active Crohn’s disease, in patients who have not responded despite a full and adequate course of therapy with a corticosteroid and/or an immunosuppressant; or who are intolerant to or have medical contraindications for such therapies.
 
-Psoriasis
+Ulcerative colitis
 
-Humira is indicated for the treatment of moderate to severe chronic plaque psoriasis in adult patients who failed to respond to or who have a contraindication to, or are intolerant to other systemic therapy including cyclosporine, methotrexate or PUVA.
+Humira is indicated for treatment of moderately to severely active ulcerative colitis in adult patients who have had an inadequate response to conventional therapy including corticosteroids and 6-mercaptopurine (6-MP) or azathioprine (AZA), or who are intolerant to or have medical contraindications for such therapies.
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
