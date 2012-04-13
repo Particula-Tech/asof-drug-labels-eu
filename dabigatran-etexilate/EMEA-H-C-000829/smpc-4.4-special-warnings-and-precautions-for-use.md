@@ -16,6 +16,8 @@ Factors, such as decreased renal function (30-50 ml/min CrCL), age ≥ 75 years,
 Use of acetylsalicylic acid (ASA), clopidogrel or non steroidal antiinflammatory drug (NSAID), as well as the presence of esophagitis, gastritis or gastroesophageal reflux requiring proton pump inhibitors (PPI) or histamine 2 (H2)-blocker treatment increase the risk of GI bleeding.
 The administration of a PPI can be considered to prevent GI bleeding.
 
+Bleeding risk may be increased in patients concomitantly treated with selective serotonin re-uptake inhibitors (SSRIs) or selective serotonin norepinephrine re-uptake inhibitors (SNRIs) (see section 4.5).
+
 Close clinical surveillance (looking for signs of bleeding or anaemia) is recommended throughout the treatment period, especially if risk factors are combined (see section 5.1).
 
 Table 1 summarises factors which may increase the haemorrhagic risk.
@@ -23,7 +25,7 @@ Table 1 summarises factors which may increase the haemorrhagic risk.
 | Pharmacodynamic and kinetic factors | Age ≥ 75 years |
 | --- | --- |
 | Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment (30-50 ml/min CrCL) • P-gp inhibitor co-medication Minor: • Low body weight (< 50 kg) |
-| Pharmacodynamic interactions | • ASA • NSAID • Clopidogrel |
+| Pharmacodynamic interactions | • ASA • NSAID • Clopidogrel • SSRIs or SNRIs |
 | Diseases / procedures with special haemorrhagic risks | • Congenital or acquired coagulation disorders • Thrombocytopenia or functional platelet defects • Active ulcerative GI disease • Recent GI bleeding • Recent biopsy or major trauma • Recent ICH • Brain, spinal or ophthalmic surgery • Bacterial endocarditis |
 
 The measurement of dabigatran related anticoagulation may be helpful to avoid excessive high exposure to dabigatran in the presence of additional risk factors.
@@ -38,8 +40,8 @@ If required, more sensitive quantitative tests such as calibrated diluted Thromb
 Patients who develop acute renal failure must discontinue Pradaxa (see section 4.3).
 
 Limited data is available in patients < 50 kg (see section 5.2).
-
 When severe bleedings occur treatment must be discontinued and the source of bleeding investigated (see section 4.9).
+
 Agents that may enhance the risk of haemorrhage should not be administered concomitantly or should be administered with caution with Pradaxa (see section 4.5).
 
 Interaction with P-gp inducers
@@ -84,10 +86,10 @@ Post-surgical patients with an increased risk for bleeding
 
 Patients at risk for bleeding or patients at risk of overexposure, notably patients with moderate renal impairment (CrCL 30-50 ml/min), should be treated with caution (see sections 4.4 and 5.1).
 Resume treatment after complete haemostasis is achieved.
-
 Patients at high surgical mortality risk and with intrinsic risk factors for thromboembolic events
 
 There are limited efficacy and safety data for dabigatran available in these patients and therefore they should be treated with caution.
+
 Hip fracture surgery
 
 There is no data on the use of Pradaxa in patients undergoing hip fracture surgery.
@@ -109,15 +111,14 @@ In these atrial fibrillationpatients a dosage of 220 mg dabigatran given as 110 
 | --- | --- |
 | Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment (30-50 ml/min CrCL) • P-gp inhibitor co-medication Minor: • Low body weight (< 50 kg) |
 | Pharmacodynamic interactions | • ASA • NSAID • Clopidogrel |
-| Diseases / procedures with special haemorrhagic risks | • Congenital or acquired coagulation disorders • Thrombocytopenia or functional platelet |
+|  | • SSRIs or SNRIs |
+| Diseases / procedures with special haemorrhagic risks | • Congenital or acquired coagulation disorders • Thrombocytopenia or functional platelet defects • Active ulcerative GI disease • Recent GI bleeding • Recent biopsy or major trauma • Recent ICH • Brain, spinal or ophthalmic surgery • Bacterial endocarditis |
 
-defects
-- Active ulcerative GI disease
-- Recent GI bleeding
-- Recent biopsy or major trauma
-- Recent ICH
-- Brain, spinal or ophthalmic surgery
-- Bacterial endocarditis
+Use of fibrinolytic agents for the treatment of acute ischemic stroke
+
+The use of fibrinolytic agents for the treatment of acute ischemic stroke may be considered if the patient presents with a dTT, ECT or aPTT not exceeding the ULN according to the local reference range.
+
+This risk of bleeding should be weighed against the urgency of intervention (for cardioversion see section 4.2).
 
 Myocardial Infarction
 
@@ -131,7 +132,7 @@ Patients with elevated liver enzymes > 2 ULN were excluded from the study invest
 
 | Pharmacodynamic and kinetic factors | Age ≥ 75 years |
 | --- | --- |
-| Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment (30-50 ml/min CrCL) • P-gp inhibitor co-medication Minor: • Low body weight (< 50 kg) |
-| Pharmacodynamic interactions | • ASA |
-|  | • NSAID • Clopidogrel |
+| Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment (30-50 ml/min CrCL) • P-gp inhibitor co-medication |
+|  | Minor: • Low body weight (< 50 kg) |
+| Pharmacodynamic interactions | • ASA • NSAID • Clopidogrel • SSRIs or SNRIs |
 | Diseases / procedures with special haemorrhagic risks | • Congenital or acquired coagulation disorders • Thrombocytopenia or functional platelet defects • Active ulcerative GI disease • Recent gastro-intestinal bleeding • Recent biopsy or major trauma • Recent ICH • Brain, spinal or ophthalmic surgery • Bacterial endocarditis |

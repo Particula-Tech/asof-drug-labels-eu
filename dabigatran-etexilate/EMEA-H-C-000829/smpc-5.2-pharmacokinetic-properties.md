@@ -12,12 +12,12 @@ Peak plasma concentrations are reached at 6 hours following administration in a 
 It was demonstrated in a further study that slow and delayed absorption is usually only present on the day of surgery.
 On subsequent days absorption of dabigatran is rapid with peak plasma concentrations attained 2 hours after medicinal product administration.
 Food does not affect the bioavailability of dabigatran etexilate but delays the time to peak plasma concentrations by 2 hours.
-
 The oral bioavailability may be increased by 75 % compared to the reference capsule formulation when the pellets are taken without the Hydroxypropylmethylcellulose (HPMC) capsule shell.
 Hence, the integrity of the HPMC capsules should always be preserved in clinical use to avoid unintentionally increased bioavailability of dabigatran etexilate.
 Therefore, patients should be advised not to open the capsules and taking the pellets alone (e.g. sprinkled over food or into beverages) (see section 4.2).
 
 Distribution
+
 Low (34-35 %) concentration independent binding of dabigatran to human plasma proteins was observed.
 The volume of distribution of dabigatran of 60–70 l exceeded the volume of total body water indicating moderate tissue distribution of dabigatran.
 Cmax and the area under the plasma concentration-time curve were dose proportional.

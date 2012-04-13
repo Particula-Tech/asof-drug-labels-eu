@@ -4,7 +4,6 @@ A total of 10.084 patients were treated in 4 actively controlled VTE prevention 
 Of these 5419 were treated with 150 mg or 220 mg daily of Pradaxa, while 389 received doses less than 150 mg daily and 1168 received doses in excess of 220 mg daily.
 
 The most commonly reported adverse reactions are bleedings occurring in total in approximately 14 % of patients; the frequency of major bleeds (including wound site bleedings) is less than 2 %.
-
 Although rare in frequency in clinical trials, major or severe bleeding may occur and, regardless of location, may lead to disabling, life-threatening or even fatal outcomes.
 
 Adverse reactions
@@ -100,7 +99,6 @@ Objective testing was required for a retroperitoneal bleed (ultrasound or Comput
 
 A total of 10,084 patients were treated in 4 actively controlled VTE prevention trials with at least one dose of the medicinal product.
 Of these 5,419 were treated with 150 mg or 220 mg daily of Pradaxa, while 389 received doses less than 150 mg daily and 1168 received doses in excess of 220 mg daily.
-
 In the pivotal study investigating the prevention of stroke and SEE in patients with atrial fibrillation, a total of 12,091 patients were randomized to dabigatran etexilate.
 Of these 6,059 were treated with 150 mg twice daily of dabigatran etexilate, while 5,983 received doses of 110 mg twice daily.
 
@@ -183,12 +181,9 @@ Table 3 shows the adverse reactions identified from the primary VTE prevention s
 
 Prevention of VTE
 
-Dabigatran etexilate Dabigatran etexilate Enoxaparin
-150 mg once daily 220 mg once daily
-N (%) N (%) N (%)
-
-| Treated | 1,866 (100.0) | 1,825 (100.0) | 1,848 (100.0) |
+|  | Dabigatran etexilate 150 mg once daily N (%) | Dabigatran etexilate 220 mg once daily N (%) | Enoxaparin N (%) |
 | --- | --- | --- | --- |
+| Treated | 1,866 (100.0) | 1,825 (100.0) | 1,848 (100.0) |
 | Major Bleeding | 24 (1.3) | 33 (1.8) | 27 (1.5) |
 | Any bleeding | 258 (13.8) | 251 (13.8) | 247 (13.4) |
 

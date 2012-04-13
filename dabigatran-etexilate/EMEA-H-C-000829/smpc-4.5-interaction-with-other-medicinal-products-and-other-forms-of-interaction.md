@@ -2,7 +2,7 @@
 
 Anticoagulants and antiplatelet aggregation agents
 
-The following treatments have not been studied and may increase the risk of bleeding when used concomitantly with Pradaxa: UFH, low molecular weight heparins (LMWH), and heparin derivatives (fondaparinux, desirudin), thrombolytic agents, GPIIb/IIIa receptor antagonists, ticlopidine, prasugrel, dextran, sulfinpyrazone, rivaroxaban, and vitamin K antagonists (see section 4.4).
+The following treatments have not been studied and may increase the risk of bleeding when used concomitantly with Pradaxa: UFH, low molecular weight heparins (LMWH), and heparin derivatives (fondaparinux, desirudin), thrombolytic agents, GPIIb/IIIa receptor antagonists, ticlopidine, prasugrel, ticagrelor, dextran, sulfinpyrazone, rivaroxaban, and vitamin K antagonists (see section 4.4).
 
 UFH can be administered at doses necessary to maintain a patent central venous or arterial catheter (see sections 4.2 and 4.4).
 
@@ -25,9 +25,9 @@ This is considered to be due to the carry-over effect of enoxaparin treatment, a
 Other dabigatran related anti-coagulation tests were not changed significantly by the pre-treatment of enoxaparin.
 
 Interactions linked to dabigatran etexilate and dabigatran metabolic profile
-
 Dabigatran etexilate and dabigatran are not metabolised by the cytochrome P450 system and have no in vitro effects on human cytochrome P450 enzymes.
 Therefore, related medicinal product interactions are not expected with dabigatran.
+
 Transporter interactions
 
 P-gp inhibitors
@@ -41,7 +41,7 @@ A coagulation test helps to identify patients with an increased bleeding risk du
 Systemic ketoconazole, cyclosporine, itraconazole and tacrolimus are contraindicated (see section 4.3).
 Caution should be exercised with other strong P-gp inhibitors (e.g. amiodarone, quinidine or verapamil) (see sections 4.2 and 4.4).
 
-Ketoconazole: Ketoconazole increased total dabigatran AUC0-∞ and Cmax values by 138 % and 135 %, respectively, after a single dose of 400 mg , and 153 % and 149 %, respectively, after multiple dosing of 400 mg ketoconazole once daily.
+Ketoconazole: Ketoconazole increased total dabigatran AUC0-∞ and Cmax values by 138 % and 135 %, respectively, after a single oral dose of 400 mg , and 153 % and 149 %, respectively, after multiple oral dosing of 400 mg ketoconazole once daily.
 The time to peak, terminal half-life and mean residence time were not affected by ketoconazole (see section 4.4).
 Concomitant treatment with systemic ketoconazole is contraindicated (see section 4.3).
 
@@ -63,6 +63,7 @@ Verapamil: When dabigatran etexilate (150 mg) was co-administered with oral vera
 
 The greatest elevation of dabigatran exposure was observed with the first dose of an immediate release formulation of verapamil administered one hour prior to dabigatran etexilate intake (increase of Cmax by about 180 % and AUC by about 150 %).
 The effect was progressively decreased with administration of an extended release formulation (increased of Cmax by about 90 % and AUC by about 70 %) or administration of multiple doses of verapamil (increased of Cmax by about 60 % and AUC by about 50 %).
+
 Therefore, close clinical surveillance (looking for signs of bleeding or anaemia) is required when dabigatran is co-administered with verapamil.
 In patients with normal renal function after the hip or knee replacement surgery, receiving dabigatran etexilate and verapamil concomitantly, the dose of Pradaxa should be reduced to 150 mg taken once daily as 2 capsules of 75 mg .
 In patients with moderate renal impairment and concomitantly treated with dabigatran etexilate and verapamil, a dose reduction of Pradaxa to 75 mg daily should be considered (see sections 4.2 and 4.4).
@@ -97,6 +98,9 @@ They have not been studied and are therefore not recommended for concomitant tre
 P-gp substrate
 
 Digoxin: In a study performed with 24 healthy subjects, when Pradaxa was co-administered with digoxin, no changes on digoxin and no clinical relevant changes on dabigatran exposure have been observed.
+Co-medication with selective serotonin re-uptake inhibitors (SSRIs) or selective serotonin norepinephrine re-uptake inhibitors (SNRIs)
+
+SSRIs and SNRIs increased the risk of bleeding in RE-LY in all treatment groups.
 
 Gastric pH
 
@@ -106,6 +110,8 @@ Pantoprazole and other proton-pump inhibitors (PPI) were co-administered with Pr
 Ranitidine: Ranitidine administration together with Pradaxa had no clinically relevant effect on the extent of absorption of dabigatran.
 
 [Pradaxa 110 mg hard capsules]
+
+With a loading dose of 300 mg or 600 mg clopidogrel, dabigatran AUCτ,ss and Cmax,ss were increased by about 30-40 % (see section 4.4) (see also subsection on ASA below).
 
 From the data collected in the phase III study RE-LY (see section 5.1) it was observed that ASA or clopidogrel co-medication with dabigatran etexilate at dosages of 110 mg or 150 mg twice daily may increase the risk of major bleeding (see section 4.4).
 The higher rate of bleeding events by ASA or clopidogrel co-medication was also observed for warfarin.

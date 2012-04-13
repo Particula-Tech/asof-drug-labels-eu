@@ -72,10 +72,8 @@ Table 6: Analysis of total VTE and all cause mortality during the treatment peri
 | RE-MODEL (knee) |  |  |  |
 | N | 503 | 526 | 512 |
 | Incidences (%) | 183 (36.4) | 213 (40.5) | 193 (37.7) |
-| Risk ratio over | 0.97 | 1.07 |  |
-
-enoxaparin
-95 % CI (0.82, 1.13) (0.92, 1.25)
+| Risk ratio over enoxaparin | 0.97 | 1.07 |  |
+| 95 % CI | (0.82, 1.13) | (0.92, 1.25) |  |
 
 Table 7: Major bleeding events by treatment in the individual RE-MODEL and the RE-NOVATE studies
 
@@ -109,6 +107,7 @@ Better results were seen with the 220 mg dose where the point estimate of Major 
 In the studied patient population of RE-MODEL and RE-NOVATE (5,539 patients treated), 51 % suffered from concomitant hypertension, 9 % from concomitant diabetes, 9 % from concomitant coronary artery disease and 20 % had a history of venous insufficiency.
 
 Data for the major VTE and VTE-related mortality endpoint were homogeneous with regards to the primary efficacy endpoint and are shown in table 6.
+
 Data for the total VTE and all cause mortality endpoint are shown in table 7.
 
 Data for adjudicated major bleeding endpoints are shown in table 8 below.
@@ -225,9 +224,11 @@ For the primary endpoint, stroke and SEE, no subgroups (i.e., age, weight, gende
 
 Table 12: Hazard Ratio and 95 % CI for stroke/SEE by subgroups
 
-| Endpoint | Dabigatran etexilate 110 mg twice daily vs. warfarin | Dabigatran etexilate 150 mg twice daily vs. warfarin |
-| --- | --- | --- |
+Endpoint Dabigatran etexilate Dabigatran etexilate
+110 mg twice daily vs. warfarin 150 mg twice daily vs. warfarin
+
 | Age (years) |  |  |
+| --- | --- | --- |
 | < 65 | 1.10 (0.64, 1.87) | 0.51 (0.26, 0.98) |
 | 65 ≤ and < 75 | 0.87 (0.62, 1.20) | 0.68 (0.47, 0.96) |
 | ≥ 75 | 0.88 (0.66, 1.17) | 0.67 (0.49, 0.90) |
@@ -275,5 +276,17 @@ Table 7: Analysis of all cause and cardiovascular survival during the study peri
 Tables 8-9 display results of the primary efficacy and safety endpoint in relevant sub-populations:
 
 Table 8: Hazard Ratio and 95 % CI for stroke/SEE by subgroups
+
+| Endpoint | Dabigatran etexilate 110 mg twice daily vs. warfarin | Dabigatran etexilate 150 mg twice daily vs. warfarin |
+| --- | --- | --- |
+| Age (years) |  |  |
+| < 65 | 1.10 (0.64, 1.87) | 0.51 (0.26, 0.98) |
+| 65 ≤ and < 75 | 0.87 (0.62, 1.20) | 0.68 (0.47, 0.96) |
+| ≥ 75 | 0.88 (0.66, 1.17) | 0.67 (0.49, 0.90) |
+| ≥ 80 | 0.68 (0.44, 1.05) | 0.65 (0.43, 1.00) |
+| CrCL(ml/min) |  |  |
+| 30 ≤ and < 50 | 0.89 (0.61, 1.31) | 0.47 (0.30, 0.74) |
+| 50 ≤ and < 80 | 0.91 (0.68, 1.20) | 0.65 (0.47, 0.88) |
+| ≥ 80 | 0.83 (0.52, 1.32) | 0.71 (0.44, 1.15) |
 
 Table 9: Hazard Ratio and 95 % CI for major bleeds by subgroups
