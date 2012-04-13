@@ -127,11 +127,10 @@ Pharmacotherapeutic group: OTHER NERVOUS SYSTEM DRUGS; Drugs used in nicotine , 
 
 Varenicline is highly selective and binds more potently to the α4β2 receptor subtype (Ki=0.15 nM) than to other common nicotinic receptors (α3β4 Ki=84 nM, α7 Ki= 620 nM, α1βγδ Ki= 3,400 nM), or to non-nicotinic receptors and transporters (Ki > 1�M, except to 5-HT3 receptors: Ki=350 nM).
 
-Study 1 (n=1022) Study 2 (n=1023)
-4W CQR CA Wk 9-52 4W CQR CA Wk 9-52
-
-| CHAMPIX | 44.4% | 22.1% | 44.0% | 23.0% |
+|  | Study 1 (n=1022) |  | Study 2 (n=1023) |  |
 | --- | --- | --- | --- | --- |
+|  | 4W CQR | CA Wk 9-52 | 4W CQR | CA Wk 9-52 |
+| CHAMPIX | 44.4% | 22.1% | 44.0% | 23.0% |
 | Bupropion | 29.5% | 16.4% | 30.0% | 15.0% |
 | Placebo | 17.7% | 8.4% | 17.7% | 10.3% |
 | Odds ratio CHAMPIX vs placebo | 3.91 p<0.0001 | 3.13 p<0.0001 | 3.85 p<0.0001 | 2.66 p<0.0001 |

@@ -39,10 +39,10 @@ In subjects with end-stage-renal disease (ESRD), varenicline was efficiently rem
 Elderly: The pharmacokinetics of varenicline in elderly patients with normal renal function (aged 65-75 years) is similar to that of younger adult subjects (see section 4.2).
 For elderly patients with reduced renal function please refer to section 4.2.
 
-Paediatric population:
-Adolescents: When 22 adolescents aged 12 to 17 years (inclusive) received a single 0.5 mg and 1 mg dose of varenicline the pharmacokinetics of varenicline was approximately dose proportional between the 0.5 mg and 1 mg doses.
-Systemic exposure, as assessed by AUC (0-inf), and renal clearance of varenicline were comparable to adults.
-An increase of 30% in Cmax and a shorter elimination half-life (10.9 hr) were observed in adolescents compared with adults (see section 4.2).
+Paediatric population: Single and multiple-dose pharmacokinetics of varenicline have been investigated in pediatric patients aged 12 to 17 years old (inclusive) and were approximately dose-proportional over the 0.5 mg to 2 mg daily dose range studied.
+Steady-state systemic exposure in adolescent patients of bodyweight >55 kg, as assessed by AUC (0-24), was comparable to that noted for the same doses in the adult population.
+When 0.5 mg BID was given, steady-state daily exposure of varenicline was, on average, higher (by approximately 40%) in adolescent patients with bodyweight ≤ 55 kg compared to that noted in the adult population.
+Efficacy and safety has not been demonstrated in the paediatric population below 18 years of age and no recommendation on a posology can be made (see section 4.2).
 
 [CHAMPIX 1 mg film-coated tablets]
 

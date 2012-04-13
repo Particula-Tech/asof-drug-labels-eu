@@ -1,6 +1,7 @@
 # 4.2 Posology and method of administration
 
 Posology
+
 The recommended dose is 1 mg varenicline twice daily following a 1-week titration as follows:
 
 | Days 1 – 3: | 0.5 mg once daily |
