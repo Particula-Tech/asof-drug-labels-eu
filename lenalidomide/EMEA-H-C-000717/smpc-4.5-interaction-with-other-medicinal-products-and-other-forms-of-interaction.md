@@ -1,6 +1,7 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 Erythropoietic agents, or other agents that may increase the risk of thrombosis, such as hormone replacement therapy, should be used with caution in multiple myeloma patients receiving lenalidomide with dexamethasone (see sections 4.4 and 4.8).
+
 Oral contraceptives
 No interaction study has been performed with oral contraceptives.
 Lenalidomide is not an enzyme inducer.
@@ -9,9 +10,6 @@ Therefore, induction leading to reduced efficacy of drugs, including hormonal co
 However, dexamethasone is known to be a weak to moderate inducer of CYP3A4 and is likely to also affect other enzymes as well as transporters.
 It may not be excluded that the efficacy of oral contraceptives may be reduced during treatment.
 Effective measures to avoid pregnancy must be taken (see sections 4.4 and 4.6).
-
-Results from human in vitro metabolism studies indicate that lenalidomide is not metabolised by cytochrome P450 enzymes suggesting that administration of lenalidomide with drugs that inhibit cytochrome P450 enzymes is not likely to result in metabolic drug interactions in man.
-In vitro studies indicate that lenalidomide has no inhibitory effect on CYP1A2, CYP2C9, CYP2C19, CYP2D6, CYP2E1 or CYP3A.
 
 Warfarin
 Co-administration of multiple doses of 10 mg of lenalidomide had no effect on the single dose pharmacokinetics of R- and S- warfarin.
@@ -24,3 +22,6 @@ Digoxin
 Concomitant administration with lenalidomide 10 mg/day increased the plasma exposure of digoxin (0.5 mg, single dose) by 14% with a 90% CI (confidence interval) [0.52%-28.2%].
 It is not known whether the effect will be different in the therapeutic situation (higher lenalidomide doses and concomitant treatment with dexamethasone).
 Therefore, monitoring of the digoxin concentration is advised during lenalidomide treatment.
+
+Results from human in vitro metabolism studies indicate that lenalidomide is not metabolised by cytochrome P450 enzymes suggesting that administration of lenalidomide with drugs that inhibit cytochrome P450 enzymes is not likely to result in metabolic drug interactions in man.
+In vitro studies indicate that lenalidomide has no inhibitory effect on CYP1A2, CYP2C9, CYP2C19, CYP2D6, CYP2E1 or CYP3A.

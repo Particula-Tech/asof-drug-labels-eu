@@ -4,6 +4,7 @@ Capsule contents: Lactose, anhydrous
 Cellulose, microcrystalline
 Croscarmellose sodium
 Magnesium stearate
+
 Capsule shell: Gelatin
 Titanium dioxide (E171)
 

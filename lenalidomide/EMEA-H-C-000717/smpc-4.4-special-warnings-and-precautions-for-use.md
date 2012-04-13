@@ -26,11 +26,11 @@ For women of childbearing potential, lenalidomide is contraindicated unless all 
 - Even if a woman of childbearing potential has amenorrhea she must follow all the advice on effective contraception
 - She should be capable of complying with effective contraceptive measures
 - She is informed and understands the potential consequences of pregnancy and the need to rapidly consult if there is a risk of pregnancy
-- She understands the need to commence the treatment as soon as lenalidomide is dispensed following a negative pregnancy test
+- She understands the need to commence contraceptive measures as soon as lenalidomide is dispensed following a negative pregnancy test
 - She understands the need and accepts to undergo pregnancy testing every 4 weeks except in case of confirmed tubal sterilisation
 - She acknowledges that she understands the hazards and necessary precautions associated with the use of lenalidomide.
 
-For male patients taking lenalidomide, pharmacokinetic data has demonstrated that lenalidomide is present in human semen at extremely low levels during treatment and is undetectable in human semen 3 days after stopping the drug in the healthy subject (see section 5.2).
+For male patients taking lenalidomide, pharmacokinetic data has demonstrated that lenalidomide is present in human semen at extremely low levels during treatment and is undetectable in human semen 3 days after stopping the substance in the healthy subject (see section 5.2).
 As a precaution, all male patients taking lenalidomide must meet the following conditions:
 
 - Understand the expected teratogenic risk if engaged in sexual activity with a pregnant woman or a woman of childbearing potential
@@ -52,7 +52,7 @@ The following can be considered to be examples of suitable methods of contracept
 - Medroxyprogesterone acetate depot
 - Tubal sterilisation
 - Sexual intercourse with a vasectomised male partner only; vasectomy must be confirmed by two negative semen analyses
-- Ovulation inhibitory progesterone-only pills (i.e., desogestrel)
+- Ovulation inhibitory progesterone-only pills (i.e. desogestrel)
 
 Because of the increased risk of venous thromboembolism in patients with multiple myeloma taking lenalidomide and dexamethasone, combined oral contraceptive pills are not recommended (see also section 4.5).
 If a patient is currently using combined oral contraception the patient should switch to one of the effective method listed above.
@@ -61,6 +61,7 @@ The efficacy of contraceptive steroids may be reduced during co-treatment with d
 
 Implants and levonorgestrel-releasing intrauterine systems are associated with an increased risk of infection at the time of insertion and irregular vaginal bleeding.
 Prophylactic antibiotics should be considered particularly in patients with neutropenia.
+
 Copper-releasing intrauterine devices are generally not recommended due to the potential risks of infection at the time of insertion and menstrual blood loss which may compromise patients with neutropenia or thrombocytopenia.
 
 Pregnancy testing
@@ -78,7 +79,7 @@ A medically supervised pregnancy test should be repeated every 4 weeks, includin
 These pregnancy tests should be performed on the day of the prescribing visit or in the 3 days prior to the visit to the prescriber.
 
 Men
-Lenalidomide is present in human semen at extremely low levels during treatment and is undetectable in human semen 3 days after stopping the drug in the healthy subject (see section 5.2).
+Lenalidomide is present in human semen at extremely low levels during treatment and is undetectable in human semen 3 days after stopping the substance in the healthy subject (see section 5.2).
 As a precaution, and taking into account special populations with prolonged elimination time such as renal impairment, all male patients taking lenalidomide should use condoms throughout treatment duration, during dose interruption and for 1 week after cessation of treatment if their partner is pregnant or of childbearing potential and has no contraception.
 
 Additional precautions
@@ -89,7 +90,6 @@ Patients should not donate blood during therapy or for 1 week following disconti
 Educational materials
 In order to assist patients in avoiding foetal exposure to lenalidomide, the Marketing Authorisation Holder will provide educational material to health care professionals to reinforce the warnings about the expected teratogenicity of lenalidomide, to provide advice on contraception before therapy is started, and to provide guidance on the need for pregnancy testing.
 Full patient information about the expected teratogenic risk and the strict pregnancy prevention measures as specified in the Pregnancy Prevention Programme should be given by the physician to women of childbearing potential and, as appropriate, to male patients.
-
 Other special warnings and precautions for use
 
 Cardiovascular disorders
@@ -97,6 +97,7 @@ Cardiovascular disorders
 Myocardial Infarction
 Myocardial infarction has been reported in patients receiving lenalidomide, particularly in those with known risk factors.
 Patients with known risk factors – including prior thrombosis – should be closely monitored, and action should be taken to try to minimize all modifiable risk factors (eg. smoking, hypertension, and hyperlipidaemia).
+
 Venous and arterial thromboembolic events
 In patients with multiple myeloma, the combination of lenalidomide with dexamethasone is associated with an increased risk of venous thromboembolism (predominantly deep vein thrombosis and pulmonary embolism) and arterial thromboembolism (predominantly myocardial infarction and cerebrovascular event) – see sections 4.5 and 4.8.
 
@@ -109,7 +110,7 @@ A haemoglobin concentration above 12 g/dl should lead to discontinuation of eryt
 Patients and physicians are advised to be observant for the signs and symptoms of thromboembolism.
 Patients should be instructed to seek medical care if they develop symptoms such as shortness of breath, chest pain, arm or leg swelling.
 Prophylactic antithrombotic medicines should be recommended, especially in patients with additional thrombotic risk factors.
-The decision to take antithrombotic prophylactic measures should be made after careful assessment of an individual patient’s underlying risk factors.
+The decision to take antithrombotic prophylactic measures should be made after careful assessment of an individual patient‟s underlying risk factors.
 
 If the patient experiences any thromboembolic events, treatment must be discontinued and standard anticoagulation therapy started.
 Once the patient has been stabilised on the anticoagulation treatment and any complications of the thromboembolic event have been managed, the lenalidomide treatment may be restarted at the original dose dependent upon a benefit risk assessment.
@@ -123,9 +124,8 @@ A dose reduction may be required (see section 4.2).
 In case of neutropenia, the physician should consider the use of growth factors in patient management.
 
 The combination of lenalidomide with dexamethasone in multiple myeloma patients is associated with a higher incidence of grade 3 and grade 4 thrombocytopenia (9.9% and 1.4%, respectively, in lenalidomide/dexamethasone-treated patients compared to 2.3% and 0.0% in placebo/dexamethasone-treated patients; see section 4.8).
-Patients and physicians are advised to be observant for signs and symptoms of bleeding, including petechiae and epistaxes, especially in case of concomitant medication susceptible to induce bleeding (see Section 4.8 Haemorrhagic disorders).
+Patients and physicians are advised to be observant for signs and symptoms of bleeding, including petechiae and epistaxes, especially in case of concomitant medication susceptible to induce bleeding (see section 4.8 Haemorrhagic disorders).
 A dose reduction of lenalidomide may be required (see section 4.2).
-
 A complete blood cell count, including white blood cell count with differential count, platelet count, haemoglobin, and haematocrit should be performed at baseline, every week for the first 8 weeks of lenalidomide treatment and monthly thereafter to monitor for cytopenias.
 
 The major dose limiting toxicities of lenalidomide include neutropenia and thrombocytopenia.
@@ -134,6 +134,7 @@ Therefore, co-administration of lenalidomide with other myelosuppressive agents 
 Renal impairment
 Lenalidomide is substantially excreted by the kidney.
 Therefore care should be taken in dose selection and monitoring of renal function is advised in patients with renal impairment (see section 4.2).
+
 Thyroid function
 Cases of hypothyroidism have been reported and monitoring of thyroid function should be considered.
 
