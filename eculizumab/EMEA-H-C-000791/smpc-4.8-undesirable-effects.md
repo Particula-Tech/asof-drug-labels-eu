@@ -25,13 +25,18 @@ Table 1: Adverse Reactions Reported in 232 patients included in PNH and aHUS cli
 | Endocrine disorders |  |  | Basedow’s disease |
 | Metabolism and nutrition disorders |  |  | Anorexia, Decreased appetite |
 | Psychiatric disorders |  |  | Abnormal dreams, Anxiety, Depression Insomnia, Mood swings, Sleep disorder |
-| Nervous system disorders | Headache | Dizziness, Dysgeusia, Paraesthesia | Syncope, Tremor |
-| Eye disorders |  |  | Conjunctival irritation, Vision blurred |
-| Ear and labyrinth disorders |  | Vertigo | Tinnitus, |
-| Cardiac disorders |  |  | Palpitation |
-| Vascular disorders |  | Accelerated hypertension | Haematoma, Hypotension, Hot flush, Hypertension, Vein disorder |
-| Respiratory, |  | Cough, Nasal congestion, | Epistaxis, Rhinorrhoea, |
+| Nervous system | Headache | Dizziness, Dysgeusia, | Syncope, Tremor |
 
+disorders Paraesthesia
+Eye disorders Conjunctival irritation,
+Vision blurred
+Ear and labyrinth Vertigo Tinnitus,
+disorders
+Cardiac disorders Palpitation
+Vascular disorders Accelerated hypertension Haematoma, Hypotension,
+Hot flush, Hypertension,
+Vein disorder
+Respiratory, Cough, Nasal congestion, Epistaxis, Rhinorrhoea,
 thoracic and Pharyngolaryngeal pain, Throat
 mediastinal irritation
 disorders
@@ -74,7 +79,6 @@ There was no evidence of an increased incidence of infection across PNH studies 
 In all PNH clinical studies the most serious adverse reaction was meningococcal septicaemia in two vaccinated PNH patients (see section 4.4).
 There were no meningococcal infections or deaths in the aHUS clinical studies.
 There did not appear to be evidence for an increased risk of other serious infections with eculizumab treatment in the aHUS studies.
-
 Low titres of antibodies were detected in 2% patients with PNH treated with Soliris.
 As with all proteins there is a potential for immunogenicity.
 

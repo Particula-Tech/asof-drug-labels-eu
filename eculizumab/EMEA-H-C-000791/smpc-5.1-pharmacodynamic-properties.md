@@ -22,6 +22,7 @@ In aHUS patients, uncontrolled terminal complement activation and the resulting 
 All patients treated with Soliris when administered as recommended demonstrated rapid and sustained reduction in terminal complement activity.
 In all aHUS patients, eculizumab serum concentrations of approximately 50-100 microgram/ml are sufficient for essentially complete inhibition of terminal complement activity.
 In aHUS, chronic administration of Soliris resulted in a rapid and sustained reduction in complement mediated thrombotic microangiopathy.
+
 Clinical efficacy and safety
 
 Paroxysmal Nocturnal Haemoglobinuria
@@ -56,6 +57,12 @@ Mean Age (SD) 38.4 (13.4) 42.1 (15.5) 41.1 (14.4)
 Gender - Female (%) 29 (65.9) 23 (53.5) 49 (50.5)
 History of Aplastic Anaemia or MDS (%) 12 (27.3) 8 (18.7) 29 (29.9)
 Concomitant Anticoagulants (%) 20 (45.5) 24 (55.8) 59 (61)
+C04-001 C04-002
+Placebo Soliris Soliris
+
+Parameter
+
+N = 44 N = 43 N = 97
 
 Concomitant Steroids/Immunosuppressant
 
@@ -103,7 +110,6 @@ However, this finding was shown in non-controlled clinical trials.
 Atypical Haemolytic Uremic Syndrome
 
 Data from 37 patients in two prospective controlled studies (C08-002A/B and C08-003A/B) and one retrospective study with 30 patients (C09-001r) were used to evaluate the efficacy of Soliris in the treatment of aHUS.
-
 Study C08-002A/B was a prospective, controlled, open-label study which accrued patients in the early phase of aHUS with evidence of clinical thrombotic microangiopathy manifestations with platelet count ≤ 150 x 109/L despite PE/PI and LDH and serum creatinine above upper limits of normal.
 Study C08-003A/B was a prospective, controlled, open-label study which accrued patients with longer term aHUS without apparent evidence of clinical thrombotic microangiopathy manifestations and receiving chronic PE/PI (≥1 PE/PI treatment every two weeks and no more than 3 PE/PI treatments/week for at least 8 weeks before the first dose).
 Patients in both prospective studies were treated with Soliris for 26 weeks and most patients enrolled into a long-term, open-label extension study.
@@ -113,6 +119,7 @@ Patients received meningococcal vaccination prior to receipt of Soliris or recei
 In all studies, the dose of Soliris in adult and adolescent aHUS patients was 900 mg every 7 ± 2 days for 4 weeks, followed by 1200 mg 7 ± 2 days later, then 1200 mg every 14 ± 2 days for the study duration.
 Soliris was administered as an intravenous infusion over 35 minutes.
 The dosing regimen in paediatric patients and adolescents weighing less than 40 kg was defined based on a pharmacokinetic (PK) simulation that identified the recommended dose and schedule based on body weight (see section 4.2).
+
 Primary endpoints included platelet count change from baseline in study C08-002A/B and thrombotic microangiopathy (TMA) event-free status in study C08-003A/B.
 Additional endpoints included TMA intervention rate, hematologic normalization, complete TMA response, changes in LDH, renal function and quality of life.
 TMA-event free status was defined as the absence for at least 12 weeks of the following: decrease in platelet count of > 25% from baseline, PE/PI, and new dialysis.
@@ -174,7 +181,6 @@ Table 5: Efficacy Outcomes in Prospective aHUS Studies C08-002A/B and C08-003A/B
 2 Study C08-002: 3 patients received ESA which was discontinued after eculizumab initiation 3 Study C08-003: 8 patients received ESA which was discontinued in 3 of them during eculizumab therapy
 
 Paediatric aHUS population
-
 A total of 15 paediatric patients (ages 2 months to 12 years) received Soliris in aHUS Study C09-001r.
 Forty seven percent of patients had an identified complement regulatory factor mutation or auto-antibody.
 The median time from aHUS diagnosis to first dose of Soliris was 14 months (rang <1, 110 months).

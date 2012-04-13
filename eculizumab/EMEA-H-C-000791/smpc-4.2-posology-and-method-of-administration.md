@@ -47,11 +47,11 @@ If the infusion is slowed, the total infusion time may not exceed two hours in a
 
 Paediatric Population: For PNH patients, no data is available in paediatric patients.
 For aHUS patients, the method of administration of Soliris is the same for all age groups.
-
 Elderly: Soliris may be administered to patients aged 65 years and over.
 There is no evidence to suggest that any special precautions are needed when older people are treated – although experience with Soliris in this patient population is still limited.
 
 Renal impairment: No dose adjustment is required for patients with renal impairment (see section 5.1).
+
 Hepatic impairment: The safety and efficacy of Soliris have not been studied in patients with hepatic impairment.
 
 Treatment monitoring:

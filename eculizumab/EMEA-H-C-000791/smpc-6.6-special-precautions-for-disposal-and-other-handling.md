@@ -18,6 +18,7 @@ Transfer the recommended dose to an infusion bag.
 Dilute Soliris to a final concentration of 5 mg/ml by addition to the infusion bag using 0.9% sodium chloride, 0.45% sodium chloride, or 5% Dextrose in water, as the diluent.
 The final volume of a 5 mg/ml diluted solution is 120 ml for 600 mg doses or 180 ml for 900 mg doses.
 The solution should be clear and colourless.
+
 Gently agitate the infusion bag containing the diluted solution to ensure thorough mixing of the product and diluent.
 
 The diluted solution should be allowed to warm to room temperature prior to administration by exposure to ambient air.

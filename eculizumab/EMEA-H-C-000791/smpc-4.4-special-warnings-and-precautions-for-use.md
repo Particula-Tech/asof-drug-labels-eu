@@ -47,7 +47,6 @@ Monitor any patient who discontinues Soliris for at least 8 weeks to detect seri
 If serious haemolysis occurs after Soliris discontinuation, consider the following procedures/treatments: blood transfusion (packed RBCs), or exchange transfusion if the PNH RBCs are >50% of the total RBCs by flow cytometry; anticoagulation; corticosteroids; or reinstitution of Soliris.
 In PNH clinical studies, 16 patients discontinued the Soliris treatment regimen.
 Serious haemolysis was not observed.
-
 Treatment Discontinuation for aHUS: Severe thrombotic microangiopathy complications were observed after Soliris discontinuation in the aHUS clinical studies.
 If aHUS patients discontinue treatment with Soliris they should be monitored closely for signs and symptoms of severe thrombotic microangiopathy complications.
 

@@ -1,7 +1,6 @@
 # 5.2 Pharmacokinetic properties
 
 Pharmacokinetics and Drug Metabolism:
-
 Biotransformation: Human antibodies undergo endocytotic digestion in the cells of the reticuloendothelial system.
 Eculizumab contains only naturally occurring amino acids and has no known active metabolites.
 Human antibodies are predominately catabolized by lysosomal enzymes to small peptides and amino acids.
@@ -16,6 +15,7 @@ Mean clearance was 0.31 ± 0.12 ml/hr/kg, mean volume of distribution was 110.3 
 Based on these data, the onset of steady state is predicted to be approximately 49 – 56 days.
 
 In PNH patients, pharmacodynamic activity correlates directly with eculizumab serum concentrations and maintenance of trough levels above ≥ 35 microgram/ml results in essentially complete blockade of haemolytic activity in the majority of PNH patients.
+
 A second population PK analysis with a standard 1 compartmental model was conducted on the multiple dose PK data from 37 aHUS patients receiving the recommended Soliris regimen in studies C08-002A/B and C08-003A/B.
 In this model, the clearance of Soliris for a typical aHUS patient weighing 70 kg was 0.0139 L/hr and the volume of distribution was 5.6 L. The elimination half-life was 297 h (approximately 12.4 days).
 
