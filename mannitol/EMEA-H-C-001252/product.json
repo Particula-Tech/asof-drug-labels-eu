@@ -1,0 +1,16 @@
+{
+  "active_substance": "mannitol",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/001252",
+  "eu_number": "EU/1/12/760",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2012-04-13",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/bronchitol",
+  "molecule": "mannitol",
+  "molecule_name": "MANNITOL",
+  "name": "Bronchitol",
+  "register_name": "Bronchitol",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h760.htm"
+}
