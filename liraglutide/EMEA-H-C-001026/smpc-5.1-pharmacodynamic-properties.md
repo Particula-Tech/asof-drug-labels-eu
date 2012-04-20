@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Other blood glucose lowering drugs, excl. insulins.
+Pharmacotherapeutic group: Drugs used in diabetes, other blood glucose lowering drugs, excl. insulins.
 ATC code: A10BX07
 
 Mechanism of action
@@ -86,9 +86,12 @@ Change from baseline -0.23 0.32 -0.10 2.11
 Table 3 Results of two 26 week trials.
 Victoza in combination with metformin + rosiglitazone and Victoza in combination with glimepiride + metformin.
 
-Metformin + 1.8 mg liraglutide 1.2mg liraglutide Placebo N/A
-rosiglitazone + metformin2 + metformin2 + metformin2
-add-on therapy + rosiglitazone3 + rosiglitazone3 + rosiglitazone3
+Metformin + 1.8 mg liraglutide 1.2 mg liraglutid Placebo N/A
+rosiglitazone + metformin2 e + metformin2
+add-on therapy + rosiglitazone3 + metformin2 + rosiglitazone3
+
++ rosiglitazone3
+
 N 178 177 175
 
 Mean HbA1c (%)
@@ -140,10 +143,10 @@ a According to the individualised recommendation by the investigator at the prev
 
 Proportion of patients achieving reductions in HbA1c
 Victoza in combination with metformin, glimepiride, or metformin and rosiglitazone resulted in a statistically significant (p≤0.0001) greater proportion of patients achieving an HbA1c≤6.5% at 26 weeks compared with patients receiving these agents alone.
-
 Fasting plasma glucose
 Treatment with Victoza alone or in combination with one or two oral antidiabetic drugs resulted in a reduction in fasting plasma glucose of 13-43.5 mg/dl (0.72-2.42 mmol/l).
 This reduction was observed within the first two weeks of treatment.
+
 Postprandial glucose
 Victoza reduces postprandial glucose across all three daily meals by 31-49 mg/dl (1.68-2.71 mmol/l).
 
@@ -159,7 +162,17 @@ Larger weight reduction was observed with increasing body mass index (BMI) at ba
 Blood pressure
 Over the duration of the studies Victoza decreased the systolic blood pressure on average of 2.3 to 6.7 mmHg from baseline and compared to active comparator the decrease was 1.9 to 4.5 mmHg.
 
+Paediatric population
+The European Medicines Agency has deferred the obligation to submit the results of studies with Victoza in one or more subsets of the paediatric population in type 2 diabetes mellitus (see section 4.2 for information on paediatric use).
+
 Other clinical data
+
+In an open label study comparing the efficacy and safety of Victoza (1.2 mg and 1.8 mg) and sitagliptin (a DPP-4 inhibitor, 100 mg) in patients inadequately controlled on metformin therapy (mean HbA1c 8.5%), Victoza at both doses was statistically superior to sitagliptin treatment in reducing HbA1c after 26 weeks (-1.24%, -1.50% vs -0.90%, p<0.0001).
+Patients treated with Victoza had a significant decrease in body weight compared to that of patients treated with sitagliptin (-2.9 kg and -3.4 kg vs -1.0 kg, p<0.0001).
+Greater proportions of patients treated with Victoza experienced transient nausea vs subjects treated with sitagliptin (20.8% and 27.1% for liraglutide vs. 4.6% for sitagliptin).
+The reductions in HbA1c and superiority vs sitagliptin observed after 26 weeks of Victoza treatment (1.2 mg and 1.8 mg) were sustained after 52 weeks of treatment (-1.29% and -1.51% vs -0.88%, p<0.0001).
+Switching patients from sitagliptin to Victoza after 52 weeks of treatment resulted in additional and statistically significant reduction in HbA1c (-0.24% and -0.45%, 95% CI: -0.41 to -0.07 and -0.67 to -0.23 ) at week 78, but a formal control group was not available.
+
 In an open label study comparing the efficacy and safety of Victoza 1.8 mg once daily and exenatide 10 mcg twice daily in patients inadequately controlled on metformin and/or sulphonylurea therapy (mean HbA1c 8.3%), Victoza was statistically superior to exenatide treatment in reducing HbA1c after 26 weeks (–1.12% vs –0.79%; estimated treatment difference: –0.33; 95% CI –0.47 to –0.18).
 Significantly more patients achieved HbA1c below 7% with Victoza compared with exenatide (54.2% vs 43.4%, p=0.0015).
 Both treatments resulted in mean body weight loss of approximately 3 kg.

@@ -12,7 +12,7 @@ Distribution
 The apparent volume of distribution after subcutaneous administration is 11-17 l. The mean volume of distribution after intravenous administration of liraglutide is 0.07 l/kg.
 Liraglutide is extensively bound to plasma proteins (>98%).
 
-Metabolism
+Biotransformation
 During 24 hours following administration of a single radiolabelled [3H]-liraglutide dose to healthy subjects, the major component in plasma was intact liraglutide.
 Two minor plasma metabolites were detected (≤9% and ≤5% of total plasma radioactivity exposure).
 Liraglutide is metabolised in a similar manner to large proteins without a specific organ having been identified as major route of elimination.

@@ -8,7 +8,7 @@ The potential risk for humans is unknown.
 Victoza should not be used during pregnancy, and the use of insulin is recommended instead.
 If a patient wishes to become pregnant, or pregnancy occurs, treatment with Victoza should be discontinued.
 
-Lactation
+Breast-feeding
 It is not known whether liraglutide is excreted in human milk.
 Animal studies have shown that the transfer of liraglutide and metabolites of close structural relationship into milk is low.
 Non-clinical studies have shown a treatment-related reduction of neonatal growth in suckling rat pups (see section 5.3).

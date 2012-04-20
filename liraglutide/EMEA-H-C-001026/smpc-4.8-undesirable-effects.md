@@ -1,9 +1,7 @@
 # 4.8 Undesirable effects
 
+Summary of the safety profile
 In five large long-term clinical trials over 2,500 patients have received treatment with Victoza alone or in combination with metformin, a sulphonylurea (with or without metformin) or metformin plus rosiglitazone.
-
-Frequencies are defined as: Very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
-Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 The most frequently reported adverse reactions during clinical trials were gastrointestinal disorders: nausea and diarrhoea were very common, whereas vomiting, constipation, abdominal pain, and dyspepsia were common.
 At the beginning of Victoza therapy, these gastrointestinal adverse reactions may occur more frequently.
@@ -12,9 +10,12 @@ Headache and nasopharyngitis were also common.
 Furthermore, hypoglycaemia was common, and very common when Victoza is used in combination with a sulphonylurea.
 Major hypoglycaemia has primarily been observed when combined with a sulphonylurea.
 
+Tabulated list of adverse reactions
 Table 1 lists related adverse reactions identified from Phase III combination-studies with Victoza.
 The table presents adverse reactions that occurred with a frequency >5% if the frequency was higher among Victoza-treated patients than patients treated with comparator.
 The table also includes adverse reactions with a frequency ≥2% if the frequency was >2 times the frequency for comparator-treated subjects.
+Frequencies are defined as: Very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 Table 1 Adverse reactions identified from long-term controlled phase III studies and spontaneous reports
 
@@ -69,16 +70,16 @@ site conditions
 Fatigue Common
 Pyrexia Common
 Injection site Common Common Uncommon Common
-reactions*
-Renal and
-urinary
-disorders
 Adverse reaction Frequency of adverse reaction by treatment group
 Liraglutide Liraglutide Liraglutide Liraglutide Spontaneous
 with with with with reports
 metformin glimepiride metformin metformin
 and and
 glimepiride rosiglitazone
+reactions*
+Renal and
+urinary
+disorders
 Renal failure Uncommon
 acute*#
 Renal Uncommon
@@ -93,8 +94,9 @@ tissue disorder
 Urticaria* Uncommon
 
 * Does not conform to criteria previously cited but is considered a listed adverse reaction.
-#See section 4.4 (special warnings and precautions for use)
+# See section 4.4 (special warnings and precautions for use)
 
+Description of selected adverse reactions
 In a clinical trial with Victoza as monotherapy rates of hypoglycaemia reported with Victoza were lower than rates reported for patients treated with active comparator (glimepiride).
 The most frequently reported adverse events were gastrointestinal and infections and infestations.
 
@@ -121,6 +123,7 @@ Immunogenicity
 Consistent with the potentially immunogenic properties of medicinal products containing proteins or peptides, patients may develop anti-liraglutide antibodies following treatment with Victoza.
 On average, 8.6% of patients developed antibodies.
 Antibody formation has not been associated with reduced efficacy of Victoza.
+
 Few cases (0.05%) of angioedema have been reported during all long-term clinical trials with Victoza.
 
 Injection site reactions

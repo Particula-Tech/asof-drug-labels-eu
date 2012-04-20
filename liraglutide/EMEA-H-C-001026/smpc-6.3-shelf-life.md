@@ -2,4 +2,4 @@
 
 30 months.
 
-After first use: 1 month
+After first use: 1 month.

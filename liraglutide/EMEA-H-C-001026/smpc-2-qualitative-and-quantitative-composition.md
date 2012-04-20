@@ -6,4 +6,6 @@ One pre-filled pen contains 18 mg liraglutide in 3 ml.
 * human glucagon-like peptide-1 (GLP-1) analogue produced by recombinant DNA technology in
 Saccharomyces cerevisiae.
 
-For a full list of excipients, see section 6.1.
+Excipients with known effect:
+
+For the full list of excipients, see section 6.1.

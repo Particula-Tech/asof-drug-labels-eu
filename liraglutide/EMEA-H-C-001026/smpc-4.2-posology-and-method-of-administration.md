@@ -16,15 +16,17 @@ Self-monitoring of blood glucose is not needed in order to adjust the dose of Vi
 However, when initiating treatment with Victoza in combination with a sulphonylurea, blood glucose self-monitoring may become necessary to adjust the dose of the sulphonylurea.
 
 Special populations
-Elderly (>65 years old): No dose adjustment is required based on age.
+Elderly patients (>65 years old): No dose adjustment is required based on age.
 Therapeutic experience in patients ≥75 years of age is limited (see section 5.2).
-Renal impairment: No dose adjustment is required for patients with mild renal impairment (creatinine clearance 60-90 ml/min).
+
+Patients with renal impairment: No dose adjustment is required for patients with mild renal impairment (creatinine clearance 60-90 ml/min).
 There is very limited therapeutic experience in patients with moderate renal impairment (creatinine clearance of 30-59 ml/min) and no therapeutic experience in patients with severe renal impairment (creatinine clearance below 30 ml/min).
 Victoza can currently not be recommended for use in patients with moderate and severe renal impairment including patients with end-stage renal disease (see section 5.2).
 
-Hepatic impairment: The therapeutic experience in patients with all degrees of hepatic impairment is currently too limited to recommend the use in patients with mild, moderate or severe hepatic impairment (see section 5.2).
+Patients with hepatic impairment: The therapeutic experience in patients with all degrees of hepatic impairment is currently too limited to recommend the use in patients with mild, moderate or severe hepatic impairment (see section 5.2).
 
-Paediatric population: Victoza is not recommended for use in children below 18 years of age due to lack of data on its safety and efficacy.
+Paediatric population: The safety and efficacy of Victoza in children and adolescents below age 18 have not been established (see section 5.1).
+No data are available.
 
 Method of administration
 Victoza should not be administered intravenously or intramuscularly.
