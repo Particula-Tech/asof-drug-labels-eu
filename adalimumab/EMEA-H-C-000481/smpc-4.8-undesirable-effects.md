@@ -26,7 +26,6 @@ The following list of adverse reactions is based on experience from clinical tri
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 The highest frequency seen among the various indications has been included.
 An asterisk (*) appears in the SOC column if further information is found elsewhere in sections 4.3, 4.4 and 4.8.
-
 Table 2
 Undesirable Effects
 
@@ -40,8 +39,8 @@ Undesirable Effects
 |  | Rare Not Known | leukaemia1) |
 |  |  | hepatosplenic T-cell lymphoma1) |
 | Blood and the lymphatic system disorders* | Very common | leucopaenia (including neutropaenia and agranulocytosis), anaemia |
-|  | Common | leucocytosis, |
-|  | Uncommon | thrombocytopaenia idiopathic thrombocytopaenic purpura |
+|  | Common | leucocytosis, thrombocytopaenia |
+|  | Uncommon | idiopathic thrombocytopaenic purpura |
 |  | Rare | pancytopaenia |
 | Immune system disorders* | Common | hypersensitivity, allergies (including seasonal allergy) |
 |  | Uncommon | sarcoidosis1) |
@@ -84,8 +83,8 @@ Undesirable Effects
 |  | Uncommon | nocturia |
 | Reproductive system and breast disorders | Uncommon | erectile dysfunction |
 | General disorders and administration site conditions* | Very Common | injection site reaction (including injection site erythema) |
-|  | Common | chest pain, |
-|  | Uncommon | oedema inflammation |
+|  | Common | chest pain, oedema |
+|  | Uncommon | inflammation |
 | Investigations* | Common | coagulation and bleeding disorders (including activated partial thromboplastin time prolonged), autoantibody test positive (including double stranded DNA antibody), blood lactate dehydrogenase increased |
 | Injury and poisoning | Common | impaired healing |
 
@@ -175,8 +174,8 @@ These trials included rheumatoid arthritis patients with short term and long sta
 | Psychiatric disorders | Common | mood alterations (including depression), anxiety, insomnia |
 | Nervous system disorders* | Very common | headache |
 |  | Common | paraesthesias (including hypoaesthesia), migraine, sciatica |
-|  | Uncommon | cerebrovascular accident 1), tremor, neuropathy |
-|  | Rare | multiple sclerosis, demyelinating disorder (e.g. optic neuritis, Guillain-Barré syndrome) 1) |
+|  | Uncommon | cerebrovascular accident 1), tremor, |
+|  | Rare | neuropathy multiple sclerosis, demyelinating disorder (e.g. optic neuritis, Guillain-Barré syndrome) 1) |
 | Eye disorders | Common | visual impairment, conjunctivitis |
 |  | Uncommon | blepharitis, eye swelling, diplopia |
 | Ear and labyrinth disorders | Common | vertigo |
@@ -187,8 +186,8 @@ These trials included rheumatoid arthritis patients with short term and long sta
 | Vascular disorders | Common | hypertension, flushing, haematoma |
 |  | Uncommon | aortic aneurysm, vascular arterial occlusion, thrombophlebitis |
 | Respiratory, thoracic and mediastinal disorders* | Common | asthma, dyspnoea, cough |
-|  | Uncommon | pulmonary embolism1), interstitial lung disease, chronic obstructive pulmonary disease, |
-|  | Rare | pneumonitis pleural effusion1) pulmonary fibrosis1) |
+|  | Uncommon | pulmonary embolism1), interstitial lung disease, chronic obstructive pulmonary disease, pneumonitis pleural effusion1) |
+|  | Rare | pulmonary fibrosis1) |
 | Gastrointestinal disorders | Very common | abdominal pain, nausea and vomiting |
 |  | Common | GI haemorrhage, dyspepsia, gastroesophageal reflux disease, sicca syndrome |
 |  | Uncommon | pancreatitis, dysphagia, face oedema |
@@ -201,11 +200,11 @@ These trials included rheumatoid arthritis patients with short term and long sta
 |  | Uncommon | night sweats, scar |
 |  | Rare | erythema multiforme1), Stevens-Johnson syndrome1), angioedema1), cutaneous vasculitis1) |
 | Musculoskeletal, connective tissue and bone disorders | Very common | musculoskeletal pain |
-|  | Common | muscle spasms (including blood creatine |
-|  | Uncommon | phosphokinase increased) rhabdomyolysis, systemic lupus erythematosus |
+|  | Common | muscle spasms (including blood creatine phosphokinase increased) |
+|  | Uncommon | rhabdomyolysis, systemic lupus erythematosus |
 |  | Rare | lupus-like syndrome1) |
-| Renal and urinary disorders | Common | renal impairment, haematuria |
-|  | Uncommon | nocturia |
+| Renal and urinary | Common | renal impairment, |
+| disorders | Uncommon | haematuria nocturia |
 | Reproductive system and breast disorders | Uncommon | erectile dysfunction |
 | General disorders and administration site conditions* | Very Common | injection site reaction (including injection site erythema) |
 |  | Common | chest pain, oedema |
@@ -256,8 +255,8 @@ The following list of adverse reactions is based on experience from clinical tri
 | Vascular disorders | Common | hypertension, flushing, haematoma |
 |  | Uncommon | aortic aneurysm, vascular arterial occlusion, thrombophlebitis |
 | Respiratory, thoracic and mediastinal disorders* | Common | asthma, dyspnoea, cough |
-|  | Uncommon | pulmonary embolism1), interstitial lung disease, chronic obstructive pulmonary disease, pneumonitis, |
-|  | Rare | pleural effusion1) pulmonary fibrosis1) |
+|  | Uncommon | pulmonary embolism1), interstitial lung disease, chronic obstructive pulmonary disease, pneumonitis, pleural effusion1) |
+|  | Rare | pulmonary fibrosis1) |
 | Gastrointestinal disorders | Very common | abdominal pain, nausea and vomiting |
 |  | Common | GI haemorrhage, dyspepsia, gastroesophageal reflux disease, sicca syndrome |
 |  | Uncommon | pancreatitis, dysphagia, face oedema |
@@ -270,8 +269,8 @@ The following list of adverse reactions is based on experience from clinical tri
 |  | Uncommon | night sweats, scar |
 |  | Rare | erythema multiforme1) Stevens-Johnson syndrome1), angioedema1), cutaneous vasculitis1) |
 | Musculoskeletal, connective tissue and bone disorders | Very common | musculoskeletal pain |
-|  | Common | muscle spasms (including blood creatine |
-|  | Uncommon | phosphokinase increased) rhabdomyolysis, systemic lupus erythematosus |
+|  | Common | muscle spasms (including blood creatine phosphokinase increased) |
+|  | Uncommon | rhabdomyolysis, systemic lupus erythematosus |
 |  | Rare | lupus-like syndrome1) |
 | Renal and urinary disorders | Common | renal impairment, haematuria |
 |  | Uncommon | nocturia |
@@ -300,8 +299,8 @@ Serious adverse reactions have also been reported for Humira.
 |  | Common | systemic infections (including sepsis, candidiasis and influenza), intestinal infections (including gastroenteritis viral), skin and soft tissue infections (including paronychia, cellulitis, impetigo, necrotising fasciitis and herpes zoster), ear infections, oral infections (including herpes simplex, oral herpes and tooth infections), reproductive tract infections (including vulvovaginal mycotic infection), urinary tract infections (including pyelonephritis), fungal infections |
 |  | Uncommon | neurological infections (including viral meningitis), opportunistic infections and tuberculosis (including coccidioidomycosis, histoplasmosis and mycobacterium avum complex infection), bacterial infections, eye infections, joint infections, diverticulitis1) |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Common | skin cancer excluding melanoma (including basal cell carcinoma and squamous cell carcinoma) benign neoplasm, |
-|  | Uncommon | lymphoma**, solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), melanoma** |
-|  | Rare | leukaemia1) |
+|  | Uncommon | lymphoma**, |
+|  | Rare | solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), melanoma** leukaemia1) |
 |  | Not Known | hepatosplenic T-cell lymphoma1) |
 | Blood and the lymphatic system disorders* | Very common | leucopaenia (including neutropaenia and agranulocytosis), anaemia |
 |  | Common | leucocytosis, thrombocytopaenia |
@@ -330,8 +329,8 @@ Serious adverse reactions have also been reported for Humira.
 |  | Uncommon | pulmonary embolism1), interstitial lung disease, chronic obstructive pulmonary disease, pneumonitis, pleural effusion1) |
 |  | Rare | pulmonary fibrosis1) |
 | Gastrointestinal disorders | Very common | abdominal pain, nausea and vomiting |
-|  | Common | GI haemorrhage, |
-|  | Uncommon | dyspepsia, gastroesophageal reflux disease, sicca syndrome pancreatitis, dysphagia, face oedema |
+|  | Common | GI haemorrhage, dyspepsia, gastroesophageal reflux disease, sicca syndrome |
+|  | Uncommon | pancreatitis, dysphagia, face oedema |
 |  | Rare | intestinal perforation1) |
 | Hepato-biliary disorders* | Very Common | elevated liver enzymes |
 |  | Uncommon | cholecystitis and cholelithiasis, hepatic steatosis, bilirubin increased |

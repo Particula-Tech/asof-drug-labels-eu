@@ -14,6 +14,7 @@ Women of childbearing potential are strongly recommended to use adequate contrac
 Adalimumab may cross the placenta into the serum of infants born to women treated with adalimumab during pregnancy.
 Consequently, these infants may be at increased risk for infection.
 Administration of live vaccines to infants exposed to adalimumab in utero is not recommended for at least 5 months following the mother’s last adalimumab injection during pregnancy.
+
 Lactation
 
 It is not known whether adalimumab is excreted in human milk or absorbed systemically after ingestion.

@@ -77,6 +77,7 @@ If an anaphylactic reaction or other serious allergic reaction occurs, administr
 
 The needle cover of the syringe contains natural rubber (latex).
 This may cause severe allergic reactions in patients sensitive to latex.
+
 Immunosuppression
 
 In a study of 64 patients with rheumatoid arthritis that were treated with Humira, there was no evidence of depression of delayed-type hypersensitivity, depression of immunoglobulin levels, or change in enumeration of effector T-, B, - NK-cells, monocyte/macrophages, and neutrophils.
@@ -111,6 +112,7 @@ Therefore, caution should be exercised when using any TNF-antagonist in COPD pat
 With current data it is not known if adalimumab treatment influences the risk for developing dysplasia or colon cancer.
 All patients with ulcerative colitis who are at increased risk for dysplasia or colon carcinoma (for example, patients with long-standing ulcerative colitis or primary sclerosing cholangitis), or who had a prior history of dysplasia or colon carcinoma should be screened for dysplasia at regular intervals before therapy and throughout their disease course.
 This evaluation should include colonoscopy and biopsies per local recommendations.
+
 Haematologic reactions
 
 Rare reports of pancytopaenia including aplastic anaemia have been reported with TNF-antagonists.
@@ -153,6 +155,7 @@ Concurrent administration of TNF-antagonists and abatacept
 Concurrent administration of TNF-antagonists and abatacept has been associated with an increased risk of infections including serious infections compared to TNF-antagonists alone, without increased clinical benefit.
 The combination of Humira and abatacept is not recommended.
 (See section 4.5).
+
 Surgery
 
 There is limited safety experience of surgical procedures in patients treated with Humira.
@@ -164,7 +167,6 @@ Small bowel obstruction
 
 Failure to respond to treatment for Crohn’s disease may indicate the presence of fixed fibrotic stricture that may require surgical treatment.
 Available data suggest that Humira does not worsen or cause strictures.
-
 Elderly Population
 
 The frequency of serious infections among HUMIRA treated subjects over 65 years of age (3.7%) was higher than for those under 65 years of age (1.4%).
@@ -191,6 +193,8 @@ There is an increased background risk for lymphoma and leukemia in rheumatoid ar
 These infections have not consistently been recognised in patient taking TNF-antagonists and this has resulted in delays in appropriate treatment, sometimes resulting in fatal outcomes.
 
 For patients who develop the signs and symptoms such as fever, malaise, weight loss, sweats, cough, dyspnea, and/or pulmonary infiltrates or other serious systemic illness with or without concomitant shock an invasive fungal infection should be suspected and administration of Humira should be promptly discontinued, Diagnosis and administration of empiric antifungal therapy in these patients should be made in consultation with a physician with expertise in the care of patients with invasive fungal infections.
+
+.
 
 In an exploratory clinical trial evaluating the use of another TNF-antagonists , infliximab, in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies, mostly in the lung or head and neck, were reported in infliximab-treated patients compared with control patients.
 
