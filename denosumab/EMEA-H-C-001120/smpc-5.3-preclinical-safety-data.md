@@ -9,7 +9,6 @@ The carcinogenic potential of denosumab has not been evaluated in long-term anim
 
 In preclinical studies conducted in knockout mice lacking RANK or RANKL, impairment of lymph node formation was observed in the foetus.
 An absence of lactation due to inhibition of mammary gland maturation (lobulo-alveolar gland development during pregnancy) was also observed in knockout mice lacking RANK or RANKL.
-
 In a study of cynomolgus monkeys dosed with denosumab during the period equivalent to the first trimester at AUC exposures up to 99-fold higher than the human dose (60 mg every 6 months), there was no evidence of maternal or foetal harm.
 In this study, foetal lymph nodes were not examined.
 
@@ -19,6 +18,7 @@ Following a 6 month period after birth, bone related changes showed recovery and
 However, the effects on lymph nodes and tooth malalignment persisted, and minimal to moderate mineralisation in multiple tissues was seen in one animal (relation to treatment uncertain).
 There was no evidence of maternal harm prior to labour; adverse maternal effects occurred infrequently during labour.
 Maternal mammary gland development was normal.
+
 In preclinical bone quality studies in monkeys on long-term denosumab treatment, decreases in bone turnover were associated with improvement in bone strength and normal bone histology.
 Calcium levels were transiently decreased and parathyroid hormone levels transiently increased in ovariectomised monkeys treated with denosumab.
 

@@ -74,9 +74,16 @@ In clinical studies examining the effects of discontinuation of Prolia, BMD retu
 These data indicate that continued treatment with Prolia is required to maintain the effect of the medicinal product.
 Re-initiation of Prolia resulted in gains in BMD similar to those when Prolia was first administered.
 
+Open-label Extension Study in the Treatment of Postmenopausal Osteoporosis
+A total of 4550 patients (2343 Prolia & 2207 placebo) who missed no more than one dose of investigational product in the pivotal study described above and completed all study visits agreed to enroll in a 7-year, multinational, multicenter, open label, single-arm extension study to evaluate the long-term safety and efficacy of Prolia.
+At month 24 of the extension study, after 5 years of denosumab treatment, the long-term group increased BMD by 13.8% at the lumbar spine, 7.0% at the total hip, 6.2% at the femoral neck and 9.7% at the trochanter from the original pivotal study baseline.
+Fracture incidence was evaluated as a safety endpoint: continued Prolia treatment maintained a low incidence of new vertebral and non-vertebral fractures in years 4 and 5 (annualised rate of new vertebral fracture was 1.4% in both years 4 and 5, while 1.4% and 1.1% of patients had a nonvertebral fracture in years 4 and 5 respectively).
+Three cases of osteonecrosis of the jaw (ONJ) occurred during the first 25 months in the study, two cases in the de novo treatment group and one case in the long term treatment group, all cases resolved.
+
 Bone histology
-Bone histology was evaluated in 62 postmenopausal women with osteoporosis or with low bone mass who had transitioned from previous alendronate therapy following 1-3 years treatment with Prolia.
+Bone histology was evaluated in 62 postmenopausal women with osteoporosis or with low bone mass who were either naïve to osteoporosis therapies or had transitioned from previous alendronate therapy following 1-3 years treatment with Prolia.
 Bone biopsy results from both studies showed bone of normal architecture and quality with no evidence of mineralisation defects, woven bone or marrow fibrosis.
+
 Treatment of bone loss associated with androgen deprivation
 Efficacy and safety of Prolia once every 6 months for 3 years were investigated in men with histologically confirmed non-metastatic prostate cancer receiving ADT (1,468 men aged 48-97 years) who were at increased risk of fracture (defined as > 70 years, or < 70 years with a BMD T-score at the lumbar spine, total hip, or femoral neck < -1.0 or a history of an osteoporotic fracture.)
 All men received calcium (at least 1,000 mg) and vitamin D (at least 400 IU) supplementation daily.
@@ -84,7 +91,7 @@ All men received calcium (at least 1,000 mg) and vitamin D (at least 400 IU) sup
 Prolia significantly increased BMD at all clinical sites measured, relative to treatment with placebo at 3 years: 7.9% at the lumbar spine, 5.7% at the total hip, 4.9% at the femoral neck, 6.9% at the hip trochanter, 6.9% at the distal 1/3 radius and 4.7% at the total body (all p < 0.0001).
 In a prospectively planned exploratory analysis, significant increases in BMD were observed at the lumbar spine, total hip, femoral neck and the hip trochanter 1 month after the initial dose.
 
-Prolia demonstrated a significant relative risk reduction of new vertebral fractures at 1 year: 85% (1.6% absolute risk reduction) at 1 year, 69% (2.2% absolute risk reduction) at 2 years and 62% (2.4% absolute risk reduction) at 3 years (all p < 0.01).
+Prolia demonstrated a significant relative risk reduction of new vertebral fractures: 85% (1.6% absolute risk reduction) at 1 year, 69% (2.2% absolute risk reduction) at 2 years and 62% (2.4% absolute risk reduction) at 3 years (all p < 0.01).
 
 Treatment of bone loss associated with adjuvant aromatase inhibitor therapy
 Efficacy and safety of Prolia once every 6 months for 2 years was investigated in women with non-metastatic breast cancer (252 women aged 35-84 years) and baseline BMD T-scores between
@@ -94,5 +101,6 @@ All women received calcium (at least 1,000 mg) and vitamin D (at least 400 IU) s
 The primary efficacy variable was percent change in lumbar spine BMD, fracture efficacy was not evaluated.
 Prolia significantly increased BMD at all clinical sites measured, relative to treatment with placebo at 2 years: 7.6% at lumbar spine, 4.7% at total hip, 3.6% at femoral neck, 5.9% at hip trochanter, 6.1% at distal 1/3 radius and 4.2% at total body (all p < 0.0001).
 
+Paediatric population
 The European Medicines Agency has waived the obligation to submit the results of studies with Prolia in all subsets of the paediatric population in the treatment of menopausal and other perimenopausal disorders, and in the treatment of bone loss associated with sex hormone ablative therapy.
-See 4.2 for information on paediatric use.
+See section 4.2 for information on paediatric use.
