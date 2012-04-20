@@ -3,6 +3,20 @@
 The incidence and severity of adverse reactions generally increase with higher doses.
 If treatment is interrupted for more than several days, it should be re-initiated at 1.5 mg twice daily to reduce the possibility of adverse reactions (e.g. vomiting).
 
+Skin application site reactions may occur with rivastigmine patch and are usually mild or moderate in intensity.
+These reactions are not in themselves an indication of sensitisation.
+However, use of rivastigmine patch may lead to allergic contact dermatitis.
+Allergic contact dermatitis should be suspected if application site reactions spread beyond the patch size, if there is evidence of a more intense local reaction (e.g. increasing erythema, oedema, papules, vesicles) and if symptoms do not significantly improve within 48 hours after patch removal.
+In these cases, treatment should be discontinued (see section 4.3).
+
+Patients who develop application site reactions suggestive of allergic contact dermatitis to rivastigmine patch and who still require rivastigmine treatment should only be switched to oral rivastigmine after negative allergy testing and under close medical supervision.
+It is possible that some patients sensitised to rivastigmine by exposure to rivastigmine patch may not be able to take rivastigmine in any form.
+
+There have been rare post-marketing reports of patients experiencing disseminated skin hypersensitivity reactions when administered rivastigmine irrespective of the route of administration (oral, transdermal).
+In these cases, treatment should be discontinued (see section 4.3).
+
+Patients and caregivers should be instructed accordingly.
+
 Dose titration: Adverse reactions (e.g. hypertension and hallucinations in patients with Alzheimer’s dementia and worsening of extrapyramidal symptoms, in particular tremor, in patients with dementia associated with Parkinson’s disease) have been observed shortly after dose increase.
 They may respond to a dose reduction.
 In other cases, Exelon has been discontinued (see section 4.8).
@@ -11,6 +25,7 @@ Gastrointestinal disorders such as nausea, vomiting and diarrhoea are dose-relat
 These adverse reactions occur more commonly in women.
 Patients who show signs or symptoms of dehydration resulting from prolonged vomiting or diarrhoea can be managed with intravenous fluids and dose reduction or discontinuation if recognised and treated promptly.
 Dehydration can be associated with serious outcomes.
+
 Patients with Alzheimer’s disease may lose weight.
 Cholinesterase inhibitors, including rivastigmine, have been associated with weight loss in these patients.
 During therapy patient’s weight should be monitored.
@@ -30,7 +45,6 @@ Cholinomimetics may induce or exacerbate urinary obstruction and seizures.
 Caution is recommended in treating patients predisposed to such diseases.
 
 The use of rivastigmine in patients with severe dementia of Alzheimer’s disease or associated with Parkinson’s disease, other types of dementia or other types of memory impairment (e.g. age-related cognitive decline) has not been investigated and therefore use in these patient populations is not recommended.
-
 Like other cholinomimetics, rivastigmine may exacerbate or induce extrapyramidal symptoms.
 Worsening (including bradykinesia, dyskinesia, gait abnormality) and an increased incidence or severity of tremor have been observed in patients with dementia associated with Parkinson’s disease (see section 4.8).
 These events led to the discontinuation of rivastigmine in some cases (e.g. discontinuations due to tremor 1.7% on rivastigmine vs 0% on placebo).

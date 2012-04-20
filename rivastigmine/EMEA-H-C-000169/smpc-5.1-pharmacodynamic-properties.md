@@ -13,7 +13,7 @@ Inhibition of butyrylcholinesterase activity in CSF of 14 Alzheimer patients tre
 
 Clinical studies in Alzheimer’s dementia
 The efficacy of rivastigmine has been established through the use of three independent, domain specific, assessment tools which were assessed at periodic intervals during 6 month treatment periods.
-These include the ADAS-Cog (a performance based measure of cognition), the CIBIC-Plus (a comprehensive global assessment of the patient by the physician incorporating caregiver input), and the PDS (a caregiver-rated assessment of the activities of daily living including personal hygiene, feeding, dressing, household chores such as shopping, retention of ability to orient oneself to surroundings as well as involvement in activities relating to finances, etc.).
+These include the ADAS-Cog (Alzheimer’s Disease Assessment Scale – Cognitive subscale, a performance based measure of cognition), the CIBIC-Plus (Clinician’s Interview Based Impression of Change-Plus, a comprehensive global assessment of the patient by the physician incorporating caregiver input), and the PDS (Progressive Deterioration Scale, a caregiver-rated assessment of the activities of daily living including personal hygiene, feeding, dressing, household chores such as shopping, retention of ability to orient oneself to surroundings as well as involvement in activities relating to finances, etc.).
 
 The patients studied had an MMSE (Mini-Mental State Examination) score of 10–24.
 The results for clinically relevant responders pooled from two flexible dose studies out of the three pivotal 26-week multicentre studies in patients with mild-to-moderately severe Alzheimer’s Dementia, are provided in Table 4 below.
@@ -75,6 +75,8 @@ Table 6
 A positive change indicates improvement.
 ITT: Intent-To-Treat; RDO: Retrieved Drop Outs
 
+The European Medicines Agency has waived the obligation to submit the results of studies with Exelon in all subsets of the paediatric population in the treatment of Alzheimer’s dementia and in the treatment of dementia in patients with idiopathic Parkinson’s disease (see section 4.2 for information on paediatric use).
+
 [Exelon 3.0 mg hard capsules]
 
 (all sentences already above)
@@ -94,16 +96,17 @@ ITT: Intent-To-Treat; RDO: Retrieved Drop Outs
 [Exelon 4.6 mg/24 h transdermal patch]
 
 Thus, rivastigmine may have an ameliorative effect on cholinergic-mediated cognitive deficits in dementia associated with Alzheimer’s disease.
+
 In patients with Alzheimer’s disease, inhibition of AChE in CSF by oral rivastigmine was dose-dependent up to 6 mg given twice daily, the highest dose tested.
 Inhibition of butyrylcholinesterase activity in CSF of 14 Alzheimer patients treated by oral rivastigmine was similar to that of AChE.
 
 The efficacy of Exelon transdermal patches in patients with Alzheimer’s dementia has been demonstrated in a 24-week double-blind core study and its open-label extension phase.
 Patients involved in this study had an MMSE (Mini-Mental State Examination) score of 10–20.
 Efficacy was established by the use of independent, domain-specific assessment tools which were applied at regular intervals during the 24-week treatment period.
-These include the ADAS-Cog (a performance-based measure of cognition) and the ADCS-CGIC (a comprehensive global assessment of the patient by the physician incorporating caregiver input), and the ADCS-ADL (a caregiver-rated assessment of the activities of daily living including personal hygiene, feeding, dressing, household chores such as shopping, retention of ability to orient oneself to surroundings as well as involvement in activities related to finances).
-The 24-week results for the three assessment tools are summarised in Table 2.
+These include the ADAS-Cog (Alzheimer’s Disease Assessment Scale – Cognitive subscale, a performance-based measure of cognition) and the ADCS-CGIC (Alzheimer’s Disease Cooperative Study – Clinician’s Global Impression of Change, a comprehensive global assessment of the patient by the physician incorporating caregiver input), and the ADCS-ADL (Alzheimer’s Disease Cooperative Study – Activities of Daily Living, a caregiver-rated assessment of the activities of daily living including personal hygiene, feeding, dressing, household chores such as shopping, retention of ability to orient oneself to surroundings as well as involvement in activities related to finances).
+The 24-week results for the three assessment tools are summarised in Table 3.
 
-Table 2
+Table 3
 
 | ITT-LOCF population | Exelon transdermal patches 9.5 mg/24 h N = 251 | Exelon capsules 12 mg/day N = 256 | Placebo N = 282 |
 | --- | --- | --- | --- |
@@ -118,10 +121,8 @@ Negative ADAS-Cog changes indicate improvement.
 Positive ADCS-ADL changes indicate improvement.
 2 Based on CMH test (van Elteren test) blocking for country.
 ADCS-CGIC scores <4 indicate improvement.
-The results for clinically relevant responders from the 24-week study are provided in Table 3.
+The results for clinically relevant responders from the 24-week study are provided in Table 4.
 Clinically relevant improvement was defined a priori as at least 4-point improvement on the ADAS-Cog, no worsening on the ADCS-CGIC, and no worsening on the ADCS-ADL.
-
-Table 3
 
 |  | Patients with clinically significant response (%) |  |  |
 | --- | --- | --- | --- |
@@ -132,6 +133,8 @@ Table 3
 *p<0.05 versus placebo
 
 As suggested by compartmental modelling, 9.5 mg/24 h transdermal patches exhibited exposure similar to that provided by an oral dose of 12 mg/day.
+
+The European Medicines Agency has waived the obligation to submit the results of studies with Exelon in all subsets of the paediatric population in the treatment of Alzheimer’s dementia (see section 4.2 for information on paediatric use).
 
 [Exelon 9.5 mg/24 h transdermal patch]
 

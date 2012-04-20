@@ -41,8 +41,11 @@ No dose adjustment is necessary for patients with mild to moderate renal or hepa
 However, due to increased exposure in these populations dosing recommendations to titrate according to individual tolerability should be closely followed as patients with clinically significant renal or hepatic impairment might experience more adverse reactions (see sections 4.4 and 5.2).
 Patients with severe hepatic impairment have not been studied (see section 4.4).
 
-Children
-Rivastigmine is not recommended for use in children.
+Paediatric population
+The safety and efficacy of Exelon in children aged 0 to below 18 years have not been established.
+No data are available.
+
+There is no relevant use of Exelon in the paediatric population in children aged 0 to below 18 years in the treatment of Alzheimer’s dementia and dementia in patients with idiopathic Parkinson’s disease.
 
 [Exelon 3.0 mg hard capsules]
 
@@ -112,7 +115,7 @@ Patients and caregivers should be instructed accordingly.
 
 Renal impairment: No dose adjustment is necessary for patients with renal impairment (see section 5.2).
 
-Children and adolescents (age below 18 years): Rivastigmine is not recommended for use in children and adolescents.
+There is no relevant use of Exelon in the paediatric population in children aged 0 to below 18 years in the treatment of Alzheimer’s dementia.
 
 [Exelon 9.5 mg/24 h transdermal patch]
 
