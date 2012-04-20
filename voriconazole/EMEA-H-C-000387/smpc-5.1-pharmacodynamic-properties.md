@@ -57,11 +57,15 @@ Successful outcome in this section is defined as complete or partial response.
 
 Aspergillus infections – efficacy in aspergillosis patients with poor prognosis Voriconazole has in vitro fungicidal activity against Aspergillus spp.
 The efficacy and survival benefit of voriconazole versus conventional amphotericin B in the primary treatment of acute invasive aspergillosis was demonstrated in an open, randomised, multicentre study in 277 immunocompromised patients treated for 12 weeks.
+Voriconazole was administered intravenously with a loading dose of 6 mg/kg every 12 hours for the first 24 hours followed by a maintenance dose of 4 mg/kg every 12 hours for a minimum of seven days.
+Therapy could then be switched to the oral formulation at a dose of 200 mg every 12 hours.
+Median duration of IV voriconazole therapy was 10 days (range 2-85 days).
+After IV voriconazole therapy, the median duration of oral voriconazole therapy was 76 days (range 2-232 days).
+
 A satisfactory global response (complete or partial resolution of all attributable symptoms signs, radiographic/bronchoscopic abnormalities present at baseline) was seen in 53 % of voriconazole-treated patients compared to 31 % of patients treated with comparator.
 The 84-day survival rate for voriconazole was statistically significantly higher than that for the comparator and a clinically and statistically significant benefit was shown in favour of voriconazole for both time to death and time to discontinuation due to toxicity.
 
 This study confirmed findings from an earlier, prospectively designed study where there was a positive outcome in subjects with risk factors for a poor prognosis, including graft versus host disease, and, in particular, cerebral infections (normally associated with almost 100 % mortality).
-
 The studies included cerebral, sinus, pulmonary and disseminated aspergillosis in patients with bone marrow and solid organ transplants, haematological malignancies, cancer and AIDS.
 
 Candidaemia in non-neutropenic patients
@@ -100,7 +104,6 @@ In addition, a successful response was seen in 1 of 3 patients with infections c
 Fusarium spp.: Seven (3 complete, 4 partial responses) of 17 patients were successfully treated with voriconazole.
 Of these 7 patients, 3 had eye, 1 had sinus, and 3 had disseminated infection.
 Four additional patients with fusariosis had an infection caused by several organisms; two of them had a successful outcome.
-
 The majority of patients receiving voriconazole treatment of the above mentioned rare infections were intolerant of, or refractory to, prior antifungal therapy.
 
 Duration of treatment

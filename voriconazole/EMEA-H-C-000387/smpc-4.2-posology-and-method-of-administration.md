@@ -13,7 +13,7 @@ Detailed information on dosage recommendations is provided in the following tabl
 |  | Intravenous | Oral |  |
 | --- | --- | --- | --- |
 |  |  | Patients 40 kg and above | Patients less than 40 kg |
-| Loading dose regimen (first 24 hours) | 6 mg/kg every 12 hours (for the first 24 hours) | 400 mg every 12 hours (for the first 24 hours) | 200 mg every 12 hours (for the first 24 hours) |
+| Loading dose regimen (first 24 hours) | 6 mg/kg every 12 hours | 400 mg every 12 hours | 200 mg every 12 hours |
 | Maintenance dose (after first 24 hours) | 4 mg/kg twice daily | 200 mg twice daily | 100 mg twice daily |
 
 Dosage adjustment
@@ -138,7 +138,7 @@ Adults and adolescents (12 to 14 years and ≥50 kg; 15 to 16 years regardless o
 |  | Intravenous | Oral Suspension |  |
 | --- | --- | --- | --- |
 |  |  | Patients 40 kg and above | Patients less than 40 kg |
-| Loading dose regimen (first 24 hours) | 6 mg/kg every 12 hours (for the first 24 hours) | 400 mg (10 ml) every 12 hours (for the first 24 hours) | 200 mg (5 ml) every 12 hours (for the first 24 hours) |
+| Loading dose regimen (first 24 hours) | 6 mg/kg every 12 hours | 400 mg (10 ml) every 12 hours | 200 mg (5 ml) every 12 hours |
 | Maintenance dose (after first 24 hours) | 4 mg/kg twice daily | 200 mg (5 ml) twice daily | 100 mg (2.5 ml) twice daily |
 
 The combination of voriconazole with refabutin should, if possible be avoided.

@@ -7,6 +7,8 @@ During oral administration of 200 mg or 300 mg twice daily for 14 days in patien
 The pharmacokinetics of voriconazole are non-linear due to saturation of its metabolism.
 Greater than proportional increase in exposure is observed with increasing dose.
 It is estimated that, on average, increasing the oral dose from 200 mg twice daily to 300 mg twice daily leads to a 2.5-fold increase in exposure (AUCτ).
+The oral maintenance dose of 200 mg (or 100 mg for patients less than 40 kg) achieves a voriconazole exposure similar to 3 mg/kg IV.
+A 300 mg (or 150 mg for patients less than 40 kg) oral maintenance dose achieves an exposure similar to 4 mg/kg IV.
 When the recommended intravenous or oral loading dose regimens are administered, plasma concentrations close to steady state are achieved within the first 24 hours of dosing.
 Without the loading dose, accumulation occurs during twice daily multiple dosing with steady-state plasma voriconazole concentrations being achieved by day 6 in the majority of subjects.
 
@@ -20,7 +22,6 @@ Distribution
 The volume of distribution at steady state for voriconazole is estimated to be 4.6 l/kg, suggesting extensive distribution into tissues.
 Plasma protein binding is estimated to be 58 %.
 Cerebrospinal fluid samples from eight patients in a compassionate programme showed detectable voriconazole concentrations in all patients.
-
 Biotransformation
 In vitro studies showed that voriconazole is metabolised by, the hepatic cytochrome P450 isoenzymes, CYP2C19, CYP2C9 and CYP3A4.
 
