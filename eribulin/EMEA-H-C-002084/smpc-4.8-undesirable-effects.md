@@ -1,45 +1,34 @@
 # 4.8 Undesirable effects
 
-The most commonly reported adverse reactions to eribulin are shown in the table below.
+Unless otherwise noted, the table shows the incidence rates of adverse reactions observed in 827 breast cancer patients who received the recommended dose of eribulin mesylate in two Phase 2 and one Phase 3 study.
 
-The following table shows the incidence rates of adverse reactions observed in 827 breast cancer patients who received the recommended dose in two Phase 2 and one Phase 3 study.
-Frequency categories are defined as: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000) and not known (cannot be estimated from the available data).
+Frequency categories are defined as: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000) and very rare (< 1/10,000).
 Within each frequency grouping, undesirable effects are presented in order of decreasing frequency.
-Actual frequencies are shown where Grade 3 or 4 reactions occurred with a frequency of ≥ 1%.
+Where Grade 3 or 4 reactions occurred with a frequency of ≥ 1%, the actual total frequency and the frequency of Grade 3 or 4 reactions are given.
 
-| System Organ Class | Adverse Reactions – all Grades |  | Grade 3 and 4 Reactions ≥ 1% Frequency % |
-| --- | --- | --- | --- |
-|  | Very Common (Frequency %) | Common (Frequency %) |  |
-| Infections and infestations |  | Urinary tract infection Oral candidiasis Upper respiratory tract infection Nasopharyngitis Rhinitis |  |
-| Blood and lymphatic disorders | Neutropenia (54.5%) Leukopenia (22.1%) Anaemia (20.3%) | Febrile neutropenia (4.7%) Thrombocytopenia Lymphopenia | Neutropenia 48.3% Leukopenia 14% Febrile neutropenia 4.6%a Anaemia 1.4% |
-| Metabolism and nutrition disorders | Decreased appetite | Hypokalaemia Hypomagnesaemia Dehydration Hyperglycaemia Hypophosphataemia |  |
-| Psychiatric disorders |  | Insomnia Depression |  |
-| Nervous system disorders | Peripheral neuropathy b (32.0%) Headache | Dysgeusia Dizziness Hypoaesthesia Lethargy Neurotoxicity | Peripheral neuropathy b 6.9% |
-| Eye disorders |  | Lacrimation increased Conjunctivitis |  |
-| Ear and Labyrinth Disorders |  | Vertigo |  |
-| Cardiac disorders |  | Tachycardia |  |
-| Vascular disorders |  | Hot flush |  |
-| Respiratory, thoracic and mediastinal disorders |  | Dyspnoea Cough Oropharyngeal pain Epistaxis Rhinorrhoea |  |
-|  | Very Common (Frequency %) | Common (Frequency %) |  |
-| Gastrointestinal disorders | Nausea (35.1%) Constipation Diarrhoea Vomiting | Abdominal pain Stomatitis Dry mouth Dyspepsia Gastrooesophageal reflux disease Mouth ulceration Abdominal distension | Nausea 1.1%c |
-| Hepatobiliary disorders |  | Alanine aminotransferase increased (3.0%) Aspartate aminotransferase increased | Alanine aminotransferase increased 1.1%c |
-| Skin and subcutaneous tissue disorders | Alopecia | Rash Pruritus Nail disorder Night sweats Palmar plantar erythrodysaesthesia Dry skin Erythema Hyperhidrosis |  |
-| Musculoskeletal and connective tissue disorders | Arthralgia and Myalgia | Pain in extremity Muscle spasms Musculoskeletal pain and Musculoskeletal chest pain Muscular weakness Bone pain Back pain |  |
-| General disorders and administration site conditions | Fatigue/Asthenia (52.8%) Pyrexia | Mucosal Inflammation (9.8%) Peripheral oedema Pain Chills Influenza like illness Chest Pain | Fatigue/Asthenia 8.4% Mucosal Inflammation 1.3%c |
-| Investigations |  | Weight decreased |  |
+| System Organ Class | Adverse Reactions – all Grades |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Very Common (Frequency %) | Common (Frequency %) | Uncommon | Rare |
+| Infections and infestations |  | Urinary tract infection Oral candidiasis Upper respiratory tract infection Nasopharyngitis Rhinitis | Pneumonia Neutropenic sepsis Oral herpes Herpes zoster |  |
+| Blood and lymphatic disorders | Neutropenia (54.5%) (G3/4: 48.3%) Leukopenia (22.1%) (G3/4: 14%) Anaemia (20.3%) (G3/4: 1.4%) | Febrile neutropenia (4.7%) (G3/4: 4.6%)a Thrombocytopenia Lymphopenia |  |  |
+| Metabolism and nutrition disorders | Decreased appetite | Hypokalaemia Hypomagnesaemia Dehydration Hyperglycaemia Hypophosphataemia |  |  |
+| Psychiatric disorders |  | Insomnia Depression |  |  |
+| Nervous system disorders | Peripheral neuropathy b (32.0%) (G3/4: 6.9%) Headache | Dysgeusia Dizziness Hypoaesthesia Lethargy Neurotoxicity |  |  |
+| Eye disorders |  | Lacrimation increased Conjunctivitis |  |  |
+| Ear and Labyrinth Disorders |  | Vertigo | Tinnitus |  |
+| Cardiac disorders |  | Tachycardia |  |  |
+| Vascular disorders |  | Hot flush | Deep vein thrombosis Pulmonary embolism |  |
+| Respiratory, thoracic and mediastinal disorders |  | Dyspnoea Cough Oropharyngeal pain Epistaxis Rhinorrhoea | Interstitial lung disease |  |
+|  | Very Common (Frequency %) | Common (Frequency %) | Uncommon | Rare |
+| Gastrointestinal disorders | Nausea (35.1%) (G3/4: 1.1%) Constipation Diarrhoea Vomiting | Abdominal pain Stomatitis Dry mouth Dyspepsia Gastrooesophageal reflux disease Mouth ulceration Abdominal distension |  | Pancreatitisd |
+| Hepatobiliary disorders |  | Alanine aminotransferase increased (3.0%) (G3/4: 1.1%)c Aspartate aminotransferase increased | Hyperbilirubinaemia |  |
+| Skin and subcutaneous tissue disorders | Alopecia | Rash Pruritus Nail disorder Night sweats Palmar plantar erythrodysaesthesia Dry skin Erythema Hyperhidrosis | Angioedema |  |
+| Musculoskeletal and connective tissue disorders | Arthralgia and Myalgia | Pain in extremity Muscle spasms Musculoskeletal pain and musculoskeletal chest pain Muscular weakness Bone pain Back pain |  |  |
+| Renal disorders |  |  | Dysuria Haematuria Proteinuria Renal failure |  |
+| General disorders and administration site conditions | Fatigue/Asthenia (52.8%) (G3/4 : 8.4%) Pyrexia | Mucosal Inflammation (9.8%) (G3/4: 1.3%)c Peripheral oedema Pain Chills Influenza like illness Chest Pain |  |  |
+| Investigations |  | Weight decreased |  |  |
 
-a Includes 1 Grade 5 b Includes preferred terms of peripheral neuropathy, peripheral motor neuropathy, polyneuropathy, paraesthesia, peripheral sensory neuropathy, peripheral sensorimotor neuropathy and demyelinating polyneuropathy c No Grade 4
-
-In the same breast cancer population in clinical trials the following medically significant adverse reactions were reported as uncommon (≥ 1/1,000 to < 1/100)
-
-Infection and infestations: Pneumonia, Neutropenic sepsis, Oral herpes, Herpes zoster
-Ear and labyrinth disorders: Tinnitus
-Vascular disorders: Deep vein thrombosis, pulmonary embolism
-Respiratory, thoracic and mediastinal disorders: Interstitial lung disease
-Hepatobiliary disorders: Hyperbilirubinaemia
-Skin and subcutaneous tissue disorder: Angioedema
-Renal disorders: Dysuria, Haematuria, Proteinuria, Renal failure
-
+a Includes 1 Grade 5 b Includes preferred terms of peripheral neuropathy, peripheral motor neuropathy, polyneuropathy, paraesthesia, peripheral sensory neuropathy, peripheral sensorimotor neuropathy and demyelinating polyneuropathy c No Grade 4 d From spontaneous reporting
 Selected adverse reactions
 
 Neutropenia

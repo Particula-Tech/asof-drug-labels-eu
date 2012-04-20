@@ -4,7 +4,6 @@ Pharmacotherapeutic group: Other antineoplastic agents, ATC code: L01XX41
 
 HALAVEN (eribulin mesylate) is a non-taxane, microtubule dynamics inhibitor belonging to the halichondrin class of antineoplastic agents.
 It is a structurally simplified synthetic analogue of halichondrin B, a natural product isolated from the marine sponge Halichondria okadai.
-
 Eribulin inhibits the growth phase of microtubules without affecting the shortening phase and sequesters tubulin into non-productive aggregates.
 Eribulin exerts its effects via a tubulin-based antimitotic mechanism leading to G2/M cell-cycle block, disruption of mitotic spindles, and, ultimately, apoptotic cell death after prolonged mitotic blockage.
 

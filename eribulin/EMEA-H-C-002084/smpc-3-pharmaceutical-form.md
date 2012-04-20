@@ -1,4 +1,4 @@
-# 3. PHARMACEUTICAL form
+# 3. PHARMACEUTICAL FORM
 
 Solution for injection.
 
