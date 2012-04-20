@@ -25,25 +25,26 @@ Events noted as having a frequency not known were identified via post-marketing 
 | Immune system disorders | Common | Hypersensitivity, including urticaria and face edema. |
 |  | Rare | Anaphylaxis |
 | System Order Class | Frequency | Adverse reaction |
-| Metabolic and nutritional disorders | Common Uncommon | Hypercholesterolaemia, hypertriglyceridaemia, gout, lipodystrophy acquired, edema and peripheral edema, Dehydration (usually associated with gastrointestinal symptoms) Diabetes mellitus |
+| Metabolic and nutritional disorders | Common Uncommon | Hypercholesterolaemia, hypertriglyceridaemia, gout, lipodystrophy acquired, edema and peripheral edema, dehydration (usually associated with gastrointestinal symptoms) Diabetes mellitus |
 |  | Rare | Hyperglycaemia |
 | Nervous system disorders | Very common | Dysgeusia, oral and peripheral paresthesia, headache, dizziness, peripheral neuropathy |
-|  | Common | Insomnia, anxiety, confusion, disturbance in attention, syncope, Seizure |
+|  | Common | Insomnia, anxiety, confusion, disturbance in attention, syncope, seizure |
 | Eye disorders | Common | Blurred vision |
 | Cardiac disorders | Uncommon | Myocardial infarction |
 | Vascular disorders | Common | Hypertension, hypotension including orthostatic hypotension, peripheral coldness. |
 | Respiratory, thoracic and mediastinal disorders | Very Common | Pharyngitis, oropharyngeal pain, cough |
 | Gastrointestinal disorders | Very common | Abdominal pain (upper and lower), nausea, diarrhoea (including severe with electrolyte imbalance), vomiting, dyspepsia |
-|  | Common | Anorexia, flatulence, mouth ulcer, gastrointestinal haemorrhage, gastroesophageal reflux disease, pancreatitis |
+|  | Common | Anorexia, , flatulence, mouth ulcer, gastrointestinal haemorrhage, gastroesophageal reflux disease, pancreatitis |
 | Hepatobiliary disorders | Common | Hepatitis (including increased AST, ALT, GGT), blood bilirubin increased (including jaundice) |
 | Skin and subcutaneous tissue disorders | Very common | Pruritis, rash (including erythematous and maculopapular |
 |  | Common | Acne |
-|  | Rare | Stevens Johnson syndrome, Toxic epidermal necrolysis (TEN) |
+|  | Rare | Stevens Johnson syndrome, toxic epidermal necrolysis (TEN) |
 | Musculosketal and connective tissue disorders | Very common | Arthralgia and back pain |
 |  | Common | Myositis, rhabdomyolysis, myalgia, myopathy/CPK increased |
 | Renal and urinary disorders | Common Uncommon | Increased urination, renal impairment (e.g. oliguria, elevated creatinine) Acute renal failure |
-| Reproductive system and breast disorders | Common | Menorrhagia |
+| Reproductive system and breast | Common | Menorrhagia |
 | System Order Class | Frequency | Adverse reaction |
+| disorders |  |  |
 | General disorders and administration site conditions | Very common | Fatigue including asthenia, flushing, feeling hot |
 |  | Common | Fever, weight loss |
 | Investigations | Common | Increased amylase, decreased free and total thyroxin |
@@ -77,20 +78,20 @@ Events noted as having frequency not known were identified via post-marketing su
 |  | Uncommon | Increased neutrophils |
 | Immune system disorders | Common | Hypersensitivity including urticaria, and face edema |
 |  | Rare | Anaphylaxis |
-| Metabolic and nutritional disorders | Common Uncommon | Hypercholesterolaemia, hypertriglyceridaemia, gout, lipodystrophy acquired, edema and peripheral edema, Dehydration (usually associated with gastrointestinal symptoms) Diabetes mellitus |
+| Metabolic and nutritional disorders | Common Uncommon | Hypercholesterolaemia, hypertriglyceridaemia, gout, lipodystrophy acquired, edema and peripheral edema, dehydration (usually associated with gastrointestinal symptoms) Diabetes mellitus |
 |  | Rare | Hyperglycaemia |
 | Nervous system disorders | Very common | Dysgeusia, oral and peripheral paresthesia, headache, dizziness, peripheral neuropathy |
-|  | Common | Insomnia, anxiety, confusion, disturbance in attention, syncope, Seizure |
+|  | Common | Insomnia, anxiety, confusion, disturbance in attention, syncope, seizure |
 | Eye disorders | Common | Blurred vision |
 | Cardiac Disorders | Uncommon | Myocardial infarction |
 | Vascular disorders | Common | Hypertension, hypotension including orthostatic hypotension, peripheral coldness |
 | Respiratory, thoracic and mediastinal disorders | Very Common | Pharyngitis, oropharyngeal pain, cough |
 | System Order Class | Frequency | Adverse Reaction |
 | Gastrointestinal disorders | Very common | Abdominal pain (upper and lower), nausea, diarrhoea (including severe with electrolyte imbalance), vomiting, dyspepsia |
-|  | Common | Anorexia, flatulence, mouth ulcer, gastrointestinal haemorrhage, gastroesophageal reflux disease, Pancreatitis |
+|  | Common | Anorexia, flatulence, mouth ulcer, gastrointestinal haemorrhage, gastroesophageal reflux disease, pancreatitis |
 | Hepatobiliary disorders | Common | Hepatitis (including increased AST, ALT, GGT), blood bilirubin increased (including jaundice) |
 | Skin and subcutaneous tissue disorders | Very common | Pruritis, rash (including erythematous and maculopapular) |
-|  | Common Rare | Acne Stevens Johnson syndrome, Toxic epidermal necrolysis (TEN) |
+|  | Common Rare | Acne Stevens Johnson syndrome, toxic epidermal necrolysis (TEN) |
 | Musculosketal and connective tissue disorders | Very Common | Arthralgia and back pain |
 |  | Common | Myositis, rhabdomyolysis, myalgia, myopathy/CPK increased |
 | Renal and urinary disorders | Common Uncommon | Increased urination, renal impairment (e.g. oliguria, elevated creatinine) Acute renal failure |
@@ -109,19 +110,19 @@ Events noted as having frequency not known were identified via post-marketing su
 |  | Uncommon | Increased neutrophils |
 | Immune system disorders | Common | Hypersensitivity including urticaria, and face edema |
 |  | Rare | Anaphylaxis |
-| Metabolic and nutritional disorders | Common Uncommon | Hypercholesterolaemia, hypertriglyceridaemia, gout, lipodystrophy acquired, edema and peripheral edema, Dehydration (usually associated with gastrointestinal symptoms) Diabetes mellitus |
+| Metabolic and nutritional disorders | Common Uncommon | Hypercholesterolaemia, hypertriglyceridaemia, gout, lipodystrophy acquired, edema and peripheral edema, dehydration (usually associated with gastrointestinal symptoms) Diabetes mellitus |
 |  | Rare | Hyperglycaemia |
 | Nervous system disorders | Very common | Dysgeusia, oral and peripheral paresthesia, headache, dizziness, peripheral neuropathy |
-|  | Common | Insomnia, anxiety, confusion, disturbance in attention, syncope, Seizure |
+|  | Common | Insomnia, anxiety, confusion, disturbance in attention, syncope, seizure |
 | Eye disorders | Common | Blurred vision |
 | Cardiac disorders | Uncommon | Myocardial infarction |
 | Vascular disorders | Common | Hypertension, hypotension including orthostatic hypotension, peripheral coldness |
 | Respiratory, thoracic and mediastinal disorders | Very Common | Pharyngitis, oropharyngeal pain, cough |
 | Gastrointestinal disorders | Very common | Abdominal pain (upper and lower), nausea, diarrhoea (including severe with electrolyte imbalance, vomiting, dyspepsia |
-|  | Common | Anorexia, flatulence, mouth ulcer, gastrointestinal haemorrhage, gastroesophageal reflux disease, Pancreatitis |
+|  | Common | Anorexia, flatulence, mouth ulcer, gastrointestinal haemorrhage, gastroesophageal reflux disease, pancreatitis |
 | Hepatobiliary disorders | Common | Hepatitis (including increased AST, ALT, GGT), blood bilirubin increased (including jaundice) |
 | Skin and subcutaneous tissue disorders | Very common Common | Pruritis, rash (including erythematous and maculopapular) Acne |
-|  | Rare | Stevens Johnson syndrome, Toxic epidermal necrolysis (TEN) |
+|  | Rare | Stevens Johnson syndrome, toxic epidermal necrolysis (TEN) |
 | Musculosketal and connective tissue disorders | Very common | Arthralgia and back pain |
 |  | Common | Myositis, rhabdomyolysis, myalgia, myopathy/CPK increased |
 | Renal and urinary disorders | Common Uncommon | Increased urination, renal impairment (e.g. oliguria, elevated creatinine) Acute renal failure |

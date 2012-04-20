@@ -33,6 +33,7 @@ A higher risk of lipodystrophy has been associated with individual factors such 
 Clinical examination should include evaluation for physical signs of fat redistribution.
 Consideration should be given to measurement of fasting serum lipids and blood glucose.
 Lipid disorders should be managed as clinically appropriate (see section 4.8).
+
 Pancreatitis: Pancreatitis should be considered if clinical symptoms (nausea, vomiting, abdominal pain) or abnormalities in laboratory values (such as increased serum lipase or amylase values) suggestive of pancreatitis should occur.
 Patients who exhibit these signs or symptoms should be evaluated and Norvir therapy should be discontinued if a diagnosis of pancreatitis is made (see section 4.8).
 
@@ -58,14 +59,13 @@ Renal failure, renal impairment, elevated creatinine, hypophosphataemia and prox
 Ritonavir oral solution contains castor oil polyoxyl which may cause stomach upset and diarrhoea.
 Ritonavir oral solution also contains the azo-colouring agent sunset yellow (E110) which may cause allergic reactions.
 
-Ritonavir oral solution contains alcohol (43% v/v), ie up to 258 mg per maximum dose of 600 mg, equivalent to 65 ml beer, 27 ml wine per dose.
-Each 100 mg dose contains up to 43 mg alcohol and each 200 mg dose contains 86 mg alcohol.
+Ritonavir oral solution contains alcohol (43% v/v), ie up to 2572.5 mg per maximum dose of 600 mg, equivalent to 65 ml beer, 27 ml wine per dose.
+Each 100 mg dose contains up to 428.8 mg alcohol and each 200 mg dose contains 857.5 mg alcohol.
 Therefore concomitant administration of Norvir with disulfiram or medicines with disulfiram-like reactions (eg metronidazole) should be avoided.
 Also to be taken into account in pregnant or breast-feeding women, children and high-risk groups such as patients with liver disease or epilepsy.
 
 Osteonecrosis: Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
-
 PR interval prolongation: ritonavir has been shown to cause modest asymptomatic prolongation of the PR interval in some healthy adult subjects.
 Rare reports of 2nd or 3rd degree atrioventricular block in patients with underlying structural heart disease and pre-existing conduction system abnormalities or in patients receiving medicinal products known to prolong the PR interval (such as verapamil or atazanavir) have been reported in patients receiving ritonavir.
 Norvir should be used with caution in such patients (see section 5.1).
@@ -99,8 +99,8 @@ In patients who are already taking ritonavir when digoxin is introduced, digoxin
 Digoxin levels should be monitored more intensively than usual during this period, with dose adjustments made, as necessary, based on clinical, electrocardiographic and digoxin level findings.
 
 Ethinyl estradiol: Barrier or other non-hormonal methods of contraception should be considered when administering ritonavir at therapeutic or low doses as ritonavir is likely to reduce the effect and change the uterine bleeding profile when co-administered with estradiol-containing contraceptives.
-
 Glucocorticoids: Concomitant use of ritonavir and fluticasone or other glucocorticoids that are metabolised by CYP3A4 is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects, including Cushing’s syndrome and adrenal suppression (see section 4.5).
+
 Trazodone: Particular caution should be used when prescribing ritonavir in patients using trazodone.
 Trazodone is a CYP3A4 substrate and co-administration of ritonavir is expected to increase trazodone levels.
 Adverse reactions of nausea, dizziness, hypotension and syncope have been observed in single dose interaction studies in healthy volunteers (see section 4.5)
