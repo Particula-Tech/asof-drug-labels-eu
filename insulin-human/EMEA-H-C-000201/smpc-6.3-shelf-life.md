@@ -1,7 +1,8 @@
 # 6.3 Shelf life
 
 2 years.
-Shelf life after first use of the vial:
+
+Shelf life after first use of the vial
 The product may be stored for a maximum of 4 weeks not above 25°C and away from direct heat or direct light.
 Keep the vial in the outer carton in order to protect from light.
 It is recommended that the date of the first use be noted on the label.
@@ -12,22 +13,22 @@ It is recommended that the date of the first use be noted on the label.
 
 [Insuman Rapid 100 IU/ml solution for injection in a cartridge]
 
-Shelf life after first use of the cartridge:
+Shelf life after first use of the cartridge
 The cartridge in-use (in the insulin pen) or carried as a spare may be stored for a maximum of 4 weeks not above 25°C and away from direct heat or direct light.
 The pen containing a cartridge must not be stored in the refrigerator.
 The pen cap must be put back on the pen after each injection in order to protect from light.
 
 [Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen.]
 
-Shelf life after first use of the pen:
+Shelf life after first use of the pen
 The pen in-use or carried as a spare may be stored for a maximum of 4 weeks not above 25°C and away from direct heat or direct light.
 Pens in-use must not be stored in the refrigerator.
 
-[Insuman Rapid 100 IU/ml solution for injection in a cartridge (SmPC 5)]
+[Insuman Rapid 100 IU/ml solution for injection in a cartridge for OptiClik.]
 
 (all sentences already above)
 
-[Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen. (SmPC 6)]
+[Insuman Rapid SoloStar 100 IU/ml solution for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -47,11 +48,11 @@ Pens in-use must not be stored in the refrigerator.
 
 (all sentences already above)
 
-[Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 11)]
+[Insuman Basal 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 (all sentences already above)
 
-[Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 12)]
+[Insuman Basal SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -71,11 +72,11 @@ Pens in-use must not be stored in the refrigerator.
 
 (all sentences already above)
 
-[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 17)]
+[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 (all sentences already above)
 
-[Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 18)]
+[Insuman Comb 15 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -95,11 +96,11 @@ Pens in-use must not be stored in the refrigerator.
 
 (all sentences already above)
 
-[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 23)]
+[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 (all sentences already above)
 
-[Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 24)]
+[Insuman Comb 25 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -115,11 +116,11 @@ Pens in-use must not be stored in the refrigerator.
 
 (all sentences already above)
 
-[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge (SmPC 28)]
+[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 (all sentences already above)
 
-[Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 29)]
+[Insuman Comb 30 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -139,11 +140,11 @@ Pens in-use must not be stored in the refrigerator.
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 34)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 35)]
+[Insuman Comb 50 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 

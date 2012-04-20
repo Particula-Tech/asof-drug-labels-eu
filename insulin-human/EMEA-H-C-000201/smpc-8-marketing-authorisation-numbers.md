@@ -26,7 +26,7 @@ EU/1/97/030/100
 EU/1/97/030/105
 EU/1/97/030/068
 
-[Insuman Rapid 100 IU/ml solution for injection in a cartridge (SmPC 5)]
+[Insuman Rapid 100 IU/ml solution for injection in a cartridge for OptiClik.]
 
 EU/1/97/030/110
 EU/1/97/030/111
@@ -35,7 +35,7 @@ EU/1/97/030/113
 EU/1/97/030/114
 EU/1/97/030/115
 
-[Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen. (SmPC 6)]
+[Insuman Rapid SoloStar 100 IU/ml solution for injection in a pre-filled pen.]
 
 EU/1/97/030/140
 EU/1/97/030/141
@@ -72,7 +72,7 @@ EU/1/97/030/101
 EU/1/97/030/106
 EU/1/97/030/072
 
-[Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 11)]
+[Insuman Basal 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 EU/1/97/030/116
 EU/1/97/030/117
@@ -81,7 +81,7 @@ EU/1/97/030/119
 EU/1/97/030/120
 EU/1/97/030/121
 
-[Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 12)]
+[Insuman Basal SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 EU/1/97/030/146
 EU/1/97/030/147
@@ -118,7 +118,7 @@ EU/1/97/030/102
 EU/1/97/030/107
 EU/1/97/030/076
 
-[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 17)]
+[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 EU/1/97/030/122
 EU/1/97/030/123
@@ -127,7 +127,7 @@ EU/1/97/030/125
 EU/1/97/030/126
 EU/1/97/030/127
 
-[Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 18)]
+[Insuman Comb 15 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 EU/1/97/030/152
 EU/1/97/030/153
@@ -164,7 +164,7 @@ EU/1/97/030/103
 EU/1/97/030/108
 EU/1/97/030/080
 
-[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 23)]
+[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 EU/1/97/030/128
 EU/1/97/030/129
@@ -173,7 +173,7 @@ EU/1/97/030/131
 EU/1/97/030/132
 EU/1/97/030/133
 
-[Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 24)]
+[Insuman Comb 25 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 EU/1/97/030/158
 EU/1/97/030/159
@@ -205,7 +205,7 @@ EU/1/97/030/181
 EU/1/97/030/182
 EU/1/97/030/183
 
-[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge (SmPC 28)]
+[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 EU/1/97/030/184
 EU/1/97/030/185
@@ -214,7 +214,7 @@ EU/1/97/030/187
 EU/1/97/030/188
 EU/1/97/030/189
 
-[Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 29)]
+[Insuman Comb 30 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 EU/1/97/030/190
 EU/1/97/030/191
@@ -251,7 +251,7 @@ EU/1/97/030/104
 EU/1/97/030/109
 EU/1/97/030/084
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 34)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 EU/1/97/030/134
 EU/1/97/030/135
@@ -260,7 +260,7 @@ EU/1/97/030/137
 EU/1/97/030/138
 EU/1/97/030/139
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 35)]
+[Insuman Comb 50 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 EU/1/97/030/164
 EU/1/97/030/165

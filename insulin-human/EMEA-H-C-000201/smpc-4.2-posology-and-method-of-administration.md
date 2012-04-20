@@ -1,5 +1,6 @@
 # 4.2 Posology and method of administration
 
+Posology
 The desired blood glucose levels, the insulin preparations to be used and the insulin dose regimen (doses and timings) must be determined individually and adjusted to suit the patient’s diet, physical activity and life-style.
 
 Daily doses and timing of administration
@@ -19,11 +20,19 @@ Dose adjustment may also be required, for example, if
 - the patient's life-style changes,
 - other circumstances arise that may promote an increased susceptibility to hypo- or hyperglycaemia (see section 4.4).
 
-Use in specific patient groups
-In patients with hepatic or renal impairment as well as in the elderly, insulin requirements may be diminished (see section 4.4).
+Special populations
+Elderly population(≧65 years old)
+In the elderly, progressive deterioration of renal function mays lead to a steady decrease in insulin requirements.
 
-Administration
-Insuman Rapid contains 100 IU of insulin per ml solution.
+Renal impairment
+In patients with renal impairment, insulin requirements may be diminished due to reduced insulin metabolism.
+
+Hepatic impairment
+In patients with severe hepatic impairment, insulin requirements may be diminished due to reduced capacity for gluconeogenesis and reduced insulin metabolism.
+
+Method of administration
+Insuman Rapid must not be used in external or implanted insulin pumps or in peristaltic pumps with silicone tubing.
+
 Only injection syringes designed for this strength of insulin (100 IU per ml) are to be used.
 The injection syringes must not contain any other medicinal product or residue (e.g. traces of heparin).
 
@@ -39,7 +48,9 @@ For further details on handling, see section 6.6.
 
 [Insuman Rapid 40 IU/ml solution for injection in a vial]
 
-Insuman Rapid contains 40 IU of insulin per ml solution.
+Elderly population (≧65 years old)
+In the elderly, progressive deterioration of renal function may lead to a steady decrease in insulin requirements.
+
 Only injection syringes designed for this strength of insulin (40 IU per ml) are to be used.
 
 [Insuman Rapid 100 IU/ml solution for injection in a cartridge]
@@ -52,11 +63,11 @@ OptiSet delivers insulin in increments of 2 IU up to a maximum single dose of 40
 
 Before using OptiSet, the Instructions for Use included in the Package Leaflet must be read carefully
 
-[Insuman Rapid 100 IU/ml solution for injection in a cartridge (SmPC 5)]
+[Insuman Rapid 100 IU/ml solution for injection in a cartridge for OptiClik.]
 
 Insuman Rapid in cartridges for OptiClik has been developed for use with OptiClik only.
 
-[Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen. (SmPC 6)]
+[Insuman Rapid SoloStar 100 IU/ml solution for injection in a pre-filled pen.]
 
 SoloStar delivers insulin in doses from 1 to 80 units in steps of 1 unit.
 Each pen contains multiple doses.
@@ -67,30 +78,30 @@ Before using SoloStar, the Instructions for Use included in the Package Leaflet 
 
 Insuman Basal is injected subcutaneously 45 to 60 minutes before a meal.
 
-Insuman Basal contains 100 IU of insulin per ml suspension.
+Insuman Basal must not be administered intravenously and must not be used in infusion pumps or external or implanted insulin pumps.
 
 Insuman Basal is administered subcutaneously.
 Insuman Basal must never be injected intravenously.
 
 [Insuman Basal 40 IU/ml suspension for injection in a vial]
 
-Insuman Basal contains 40 IU of insulin per ml suspension.
-
 Fur further details on handling, see section 6.6.
 
 [Insuman Basal 100 IU/ml suspension for injection in a cartridge]
 
-(all sentences already above)
+Insuman Basal must be administered intravenously and must not be used in infusion pumps or external or implanted insulin pumps.
 
 [Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
-[Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 11)]
+[Insuman Basal 100 IU/ml suspension for injection in a cartridge for OptiClik.]
+
+Insuman Basal must not be used in external or implanted insulin pumps or in peristaltic pumps with silicone tubing.
 
 Insuman Basal in cartridges for OptiClik has been developed for use with OptiClik only.
 
-[Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 12)]
+[Insuman Basal SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -98,14 +109,14 @@ Insuman Basal in cartridges for OptiClik has been developed for use with OptiCli
 
 Insuman Comb 15 is injected subcutaneously 30 to 45 minutes before a meal.
 
-Insuman Comb 15 contains 100 IU of insulin per ml suspension.
+Insuman Comb 15 must not be administered intravenously and must not be used in infusion pumps or external or implanted insulin pumps.
 
 Insuman Comb 15 is administered subcutaneously.
 Insuman Comb 15 must never be injected intravenously.
 
 [Insuman Comb 15 40 IU/ml suspension for injection in a vial]
 
-Insuman Comb 15 contains 40 IU of insulin per ml suspension.
+(all sentences already above)
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a cartridge]
 
@@ -115,11 +126,11 @@ Insuman Comb 15 contains 40 IU of insulin per ml suspension.
 
 (all sentences already above)
 
-[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 17)]
+[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 Insuman Comb 15 in cartridges for OptiClik has been developed for use with OptiClik only.
 
-[Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 18)]
+[Insuman Comb 15 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -127,14 +138,14 @@ Insuman Comb 15 in cartridges for OptiClik has been developed for use with OptiC
 
 Insuman Comb 25 is injected subcutaneously 30 to 45 minutes before a meal.
 
-Insuman Comb 25 contains 100 IU of insulin per ml suspension.
+Insuman Comb 25 must not be administered intravenously and must not be used in infusion pumps or external or implanted insulin pumps.
 
 Insuman Comb 25 is administered subcutaneously.
 Insuman Comb 25 must never be injected intravenously.
 
 [Insuman Comb 25 40 IU/ml suspension for injection in a vial]
 
-Insuman Comb 25 contains 40 IU of insulin per ml suspension.
+(all sentences already above)
 
 [Insuman Comb 25 100 IU/ml suspension for injection in a cartridge]
 
@@ -144,11 +155,13 @@ Insuman Comb 25 contains 40 IU of insulin per ml suspension.
 
 (all sentences already above)
 
-[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 23)]
+[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge for OptiClik.]
+
+Method of aAdministration
 
 Insuman Comb 25 in cartridges for OptiClik has been developed for use with OptiClik only.
 
-[Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 24)]
+[Insuman Comb 25 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -156,7 +169,7 @@ Insuman Comb 25 in cartridges for OptiClik has been developed for use with OptiC
 
 Insuman Comb 30 is injected subcutaneously 30 to 45 minutes before a meal.
 
-Insuman Comb 30 contains 100 IU of insulin per ml suspension.
+Insuman Comb 30 must not be administered intravenously and must not be used in infusion pumps or external or implanted insulin pumps.
 
 Insuman Comb 30 is administered subcutaneously.
 Insuman Comb 30 must never be injected intravenously.
@@ -169,11 +182,13 @@ Insuman Comb 30 must never be injected intravenously.
 
 (all sentences already above)
 
-[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge (SmPC 28)]
+[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge for OptiClik.]
+
+Insuman Comb 50 must not be administered intravenously and must not be used in infusion pumps or external or implanted insulin pumps.
 
 Insuman Comb 30 in cartridges for OptiClik has been developed for use with OptiClik only.
 
-[Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 29)]
+[Insuman Comb 30 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -181,14 +196,12 @@ Insuman Comb 30 in cartridges for OptiClik has been developed for use with OptiC
 
 Insuman Comb 50 is injected subcutaneously 20 to 30 minutes before a meal.
 
-Insuman Comb 50 contains 100 IU of insulin per ml suspension.
-
 Insuman Comb 50 is administered subcutaneously.
 Insuman Comb 50 must never be injected intravenously.
 
 [Insuman Comb 50 40 IU/ml suspension for injection in a vial]
 
-Insuman Comb 50 contains 40 IU of insulin per ml suspension.
+(all sentences already above)
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a cartridge]
 
@@ -199,11 +212,11 @@ In patients who require high insulin doses because of the presence of insulin an
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 34)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 Insuman Comb 50 in cartridges for OptiClik has been developed for use with OptiClik only.
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 35)]
+[Insuman Comb 50 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -220,11 +233,13 @@ Refer to the operating instructions for detailed information about the infusion 
 
 Consequently, about 40% to 60% of the daily dose is administered at a basal rate, and the rest is given as bolus injections before meals.
 
+Insuman Infusat must not be used in peristaltic pumps with silicone tubing.
+Refer to the technical manual for contraindications relating to the use of insulin pumps.
+
 Insuman Infusat may be infused by the subcutaneous route.
 It is designed for use in the Hoechst Infusor and H-Tron insulin pumps.
 It may also be used in other insulin pumps for which it has been shown that they are suitable for this insulin (see pump manual).
 Only tetrafluoroethylene or polyethylene catheters must be used.
-Insuman Infusat must not be used in peristaltic pumps with silicone tubing.
 
 Insulin must always be infused under aseptic conditions.
 This is facilitated by the special equipment available for the insulin pumps (e.g. catheters, cannulas).

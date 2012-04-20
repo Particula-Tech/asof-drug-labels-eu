@@ -4,16 +4,10 @@ Patients hypersensitive to Insuman Rapid for whom no better tolerated preparatio
 
 In patients with an allergy to animal insulin intradermal skin testing is recommended prior to a transfer to Insuman Rapid, since they may experience immunological cross-reactions.
 
-In patients with renal impairment, insulin requirements may be diminished due to reduced insulin metabolism.
-In the elderly, progressive deterioration of renal function may lead to a steady decrease in insulin requirements.
-
-In patients with severe hepatic impairment, insulin requirements may be diminished due to reduced capacity for gluconeogenesis and reduced insulin metabolism.
-
 In case of insufficient glucose control or a tendency to hyper- or hypoglycaemic episodes, the patient's adherence to the prescribed treatment regimen, injection sites and proper injection technique and all other relevant factors must be reviewed before dose adjustment is considered.
 Transfer to Insuman Rapid
-
 Transferring a patient to another type or brand of insulin should be done under strict medical supervision.
-Changes in strength, brand (manufacturer), type (regular, NPH, lente, long-acting,etc.), origin (animal, human, human insulin analogue) and/or method of manufacture may result in the need for a change in dosage.
+Changes in strength, brand (manufacturer), type (regular, NPH, lente, long-acting, etc.), origin (animal, human, human insulin analogue) and/or method of manufacture may result in the need for a change in dosage.
 
 The need to adjust (e.g. reduce) the dose may become evident immediately after transfer.
 Alternatively, it may emerge gradually over a period of several weeks.
@@ -68,8 +62,11 @@ In many cases, urine tests for ketones are indicated, and often it is necessary 
 The insulin requirement is often increased.
 Patients with type 1 diabetes must continue to consume at least a small amount of carbohydrates on a regular basis, even if they are able to eat only little or no food, or are vomiting etc. and they must never omit insulin entirely.
 
-Combination of Insuman with pioglitazone
+Medication errors
+Medication errors have been reported in which other Insuman formulations or other insulins have been accidentally administered.
+Insulin label must always be checked before each injection to avoid medication errors between insulin human and other insulins.
 
+Combination of Insuman with pioglitazone
 Cases of cardiac failure have been reported when pioglitazone was used in combination with insulin, especially in patients with risk factors for development of cardiac heart failure.
 This should be kept in mind if treatment with the combination of pioglitazone and Insuman is considered.
 If the combination is used, patients should be observed for signs and symptoms of heart failure, weight gain and oedema.
@@ -90,11 +87,11 @@ Handling of the pen
 Before using OptiSet, the Instructions for Use included in the Package Leaflet must be read carefully.
 OptiSet has to be used as recommended in these Instructions for Use (see section 6.6).
 
-[Insuman Rapid 100 IU/ml solution for injection in a cartridge (SmPC 5)]
+[Insuman Rapid 100 IU/ml solution for injection in a cartridge for OptiClik.]
 
 (all sentences already above)
 
-[Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen. (SmPC 6)]
+[Insuman Rapid SoloStar 100 IU/ml solution for injection in a pre-filled pen.]
 
 Before using SoloStar, the Instructions for Use included in the Package Leaflet must be read carefully.
 SoloStar has to be used as recommended in these Instructions for Use (see section 6.6).
@@ -109,7 +106,7 @@ Transfer to Insuman Basal
 
 [Insuman Basal 40 IU/ml suspension for injection in a vial]
 
-(all sentences already above)
+Changes in strength, brand (manufacturer), type (regular, NPH, lente, long-acting,etc.), origin (animal, human, human insulin analogue) and/or method of manufacture may result in the need for a change in dosage.
 
 [Insuman Basal 100 IU/ml suspension for injection in a cartridge]
 
@@ -120,11 +117,11 @@ The Insuman Basal cartridges should only be used with the following pens: OptiPe
 
 (all sentences already above)
 
-[Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 11)]
+[Insuman Basal 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 (all sentences already above)
 
-[Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 12)]
+[Insuman Basal SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -149,11 +146,11 @@ The Insuman Comb 15 cartridges should only be used with the following pens: Opti
 
 (all sentences already above)
 
-[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 17)]
+[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 (all sentences already above)
 
-[Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 18)]
+[Insuman Comb 15 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -178,11 +175,11 @@ The Insuman Comb 25 cartridges should only be used with the following pens: Opti
 
 (all sentences already above)
 
-[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 23)]
+[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 (all sentences already above)
 
-[Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 24)]
+[Insuman Comb 25 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -203,11 +200,11 @@ The Insuman Comb 30 cartridges should only be used with the following pens: Opti
 
 (all sentences already above)
 
-[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge (SmPC 28)]
+[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 (all sentences already above)
 
-[Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 29)]
+[Insuman Comb 30 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -232,11 +229,11 @@ The Insuman Comb 50 cartridges should only be used with the following pens: Opti
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 34)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 35)]
+[Insuman Comb 50 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 

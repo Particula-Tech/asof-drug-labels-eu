@@ -1,4 +1,4 @@
-# 4.6 Pregnancy and lactation
+# 4.6 Fertility pregnancy and lactation
 
 Pregnancy
 For insulin human, no clinical data on exposed pregnancies are available.
@@ -10,14 +10,17 @@ Insulin requirements may decrease during the first trimester and generally incre
 Immediately after delivery, insulin requirements decline rapidly (increased risk of hypoglycaemia).
 Careful monitoring of glucose control is essential.
 
-Lactation
-No effects on the suckling child are anticipated.
+Breast-feedingNo effects on the suckling child are anticipated.
 Insuman Rapid can be used during breast-feeding.
-Lactating women may require adjustments in insulin dose and diet.
+Breast-feeding women may require adjustments in insulin dose and diet.
+
+Fertility
+No clinical or animal data with insulin human on male or female fertility are available.
 
 [Insuman Rapid 40 IU/ml solution for injection in a vial]
 
-(all sentences already above)
+Breast-feeding
+No effects on the suckling child are anticipated.
 
 [Insuman Rapid 100 IU/ml solution for injection in a cartridge]
 
@@ -27,11 +30,11 @@ Lactating women may require adjustments in insulin dose and diet.
 
 (all sentences already above)
 
-[Insuman Rapid 100 IU/ml solution for injection in a cartridge (SmPC 5)]
+[Insuman Rapid 100 IU/ml solution for injection in a cartridge for OptiClik.]
 
 (all sentences already above)
 
-[Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen. (SmPC 6)]
+[Insuman Rapid SoloStar 100 IU/ml solution for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -51,11 +54,11 @@ Insuman Basal can be used during breast-feeding.
 
 (all sentences already above)
 
-[Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 11)]
+[Insuman Basal 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 (all sentences already above)
 
-[Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 12)]
+[Insuman Basal SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -69,17 +72,17 @@ Insuman Comb 15 can be used during breast-feeding.
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a cartridge]
 
-(all sentences already above)
+Breast-feeding No effects on the suckling child are anticipated.
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
-[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 17)]
+[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 (all sentences already above)
 
-[Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 18)]
+[Insuman Comb 15 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -99,11 +102,11 @@ Insuman Comb 25 can be used during breast-feeding.
 
 (all sentences already above)
 
-[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 23)]
+[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 (all sentences already above)
 
-[Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 24)]
+[Insuman Comb 25 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -119,11 +122,11 @@ Insuman Comb 30 can be used during breast-feeding.
 
 (all sentences already above)
 
-[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge (SmPC 28)]
+[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 (all sentences already above)
 
-[Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 29)]
+[Insuman Comb 30 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -143,11 +146,11 @@ Insuman Comb 50 can be used during breast-feeding.
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 34)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 35)]
+[Insuman Comb 50 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 

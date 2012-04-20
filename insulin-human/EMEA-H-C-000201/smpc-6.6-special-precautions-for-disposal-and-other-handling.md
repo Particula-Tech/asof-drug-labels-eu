@@ -7,18 +7,19 @@ Froth may interfere with the correct measurement of the dose.
 
 Insuman Rapid must only be used if the solution is clear, colourless, with no solid particles visible, and if it is of a water-like consistency.
 
-As with all insulin preparations, Insuman Rapid must not be mixed with solutions containing reducing agents such as thioles and sulphites.
-It must also be remembered that neutral regular insulin precipitates out at a pH of approximately 4.5 to 6.5.
+Insuman Rapid must not be used in external or implanted insulin pumps or in peristaltic pumps with silicone tubing.
+It must be remembered that neutral regular insulin precipitates out at a pH of approximately 4.5 to 6.5.
+
+Insulin label must always be checked before each injection to avoid medication errors between insulin human and other insulins (see section 4.4).
 
 Mixing of insulins
-Insuman Rapid may be mixed with all Sanofi-Aventis human insulins, but NOT with those designed specifically for use in insulin pumps.
-Insuman Rapid must also NOT be mixed with insulins of animal origin or with insulin analogues.
+Insuman Rapid may be mixed with all insulin human formulations, but not with those designed specifically for use in insulin pumps.
+Concerning incompatibility with other insulins, see section 6.2.
 
 If two different insulins have to be drawn into one single injection syringe, it is recommended that the shorter-acting insulin be drawn first to prevent contamination of the vial by the longer-acting preparation.
-It is advisable to inject immediately after mixing.
-Insulins of different concentration (e.g. 100 IU per ml and 40 IU per ml) must not be mixed.
+It is advisable to inject immediately after mixing
 
-Any unused product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 [Insuman Rapid 40 IU/ml solution for injection in a vial]
 
@@ -53,8 +54,6 @@ Empty pens must never be re-used and must be properly discarded.
 
 To prevent the possible transmission of disease, each pen must be used by one patient only.
 
-Insuman Rapid must not be mixed with any other insulin or with insulin analogues.
-
 Handling of the pen
 The patient should be advised to read the instructions for use included in the package leaflet carefully before using OptiSet.
 
@@ -74,7 +73,7 @@ Important information for use of OptiSet:
 - OptiSet must never be used if it is damaged or if the patient is not sure if it is working properly.
 - The patient must always have a spare OptiSet available in case the OptiSet is lost or damaged.
 
-Storage Instructions
+Storage instructions
 
 Please check section 6.4 of this SPC for instructions on how to store OptiSet.
 
@@ -180,7 +179,7 @@ Needles must not be re-used.
 
 The pen cap should be replaced on the pen.
 
-[Insuman Rapid 100 IU/ml solution for injection in a cartridge (SmPC 5)]
+[Insuman Rapid 100 IU/ml solution for injection in a cartridge for OptiClik.]
 
 The cartridges for OptiClik are to be used in conjunction OptiClik only and as recommended in the information provided by the device manufacturer.
 
@@ -188,21 +187,22 @@ If OptiClik is damaged or not working properly (due to mechanical defects) it ha
 
 Insuman Rapid cartridges for OptiClik are not designed to allow any other insulin to be mixed in the cartridge for OptiClik.
 
-[Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen. (SmPC 6)]
+[Insuman Rapid SoloStar 100 IU/ml solution for injection in a pre-filled pen.]
 
 The patient should be advised to read the instructions for use included in the package leaflet carefully before using SoloStar.
 
 Important information for use of SoloStar:
 
 - Before each use, a new needle must always be carefully attached and a safety test must be performed.
+  A dose should not be selected and/or the injection button should not be pressed without a needle attached.
   Only use needles that are compatible for use with SoloStar.
 - Special caution must be taken to avoid accidental needle injury and transmission of infection.
 - SoloStar must never be used if it is damaged or if the patient is not sure if it is working properly.
 - The patient must always have a spare SoloStar available in case the SoloStar is lost or damaged.
 
-Please check section 6.4 for instructions on how to store SoloStar.
+Please check section 6.4 of the SPC for instructions on how to store SoloStar.
 
-If SoloStar is in cool storage, it should be taken out 1 to 2 hours before injection to allow it to warm up.
+If SoloStar is in cool storage, it should be taken out 1 to 2 hours before you inject to allow it to warm up.
 
 The used SoloStar must be discarded as required by your local authorities.
 
@@ -219,12 +219,8 @@ Insuman SoloStar is white with a colour on the injection button.
 The injection button colour will vary based on the formulation of Insuman insulin used.
 
 After removing the pen cap, the appearance of the insulin should also be checked:
-
-- The insulin solution (Insuman Rapid) must be clear, colourless, with no solid particles visible, and must have a water-like consistency.
-  Do not use this SoloStar if insulin is cloudy, coloured or has particles.
-- The insulin suspensions (Insuman Basal or Insuman mixtures) should be mixed by turning SoloStar up and down at least 10 times to resuspend the insulin.
-  The pen should be turned gently to avoid foaming in the cartridge.
-  After mixing, the insulin suspensions must have an evenly milky-white appearance.
+The insulin solution (Insuman Rapid) must be clear, colourless, with no solid particles visible, and must have a water-like consistency.
+Do not use this SoloStar if insulin is cloudy, coloured or has particles.
 
 Only needles that are compatible for use with SoloStar should be used.
 
@@ -270,15 +266,15 @@ These changes sometimes give the vial a frosted appearance.
 In such cases, a new vial yielding a uniform suspension must be used.
 It is also necessary to change to a new vial if the insulin requirement changes substantially.
 
-As with all insulin preparations, Insuman Basal must not be mixed with solutions containing reducing agents such as thioles and sulphites.
-It must also be remembered that insulin protamine crystals dissolve in an acid pH range.
+Insuman Basal must not be administered intravenously and must not be used in infusion pumps or external or implanted insulin pumps.
 
-Insuman Basal may be mixed with all Sanofi-Aventis human insulins, but NOT with those designed specifically for use in insulin pumps.
-Insuman Basal must also NOT be mixed with insulins of animal origin or with insulin analogues.
+It must be remembered that insulin protamine crystals dissolve in an acid pH range.
+
+Insuman Basal may be mixed with all insulin human formulations, but not with those designed specifically for use in insulin pumps.
 
 [Insuman Basal 40 IU/ml suspension for injection in a vial]
 
-(all sentences already above)
+Insuman Basal may be mixed with all insulin human formulation, but not with those designed specifically for use in insulin pumps.
 
 [Insuman Basal 100 IU/ml suspension for injection in a cartridge]
 
@@ -298,6 +294,8 @@ These changes sometimes give the cartridge a frosted appearance.
 In such cases, a new cartridge yielding a uniform suspension must be used.
 It is also necessary to change to a new cartridge if the insulin requirement changes substantially.
 
+Insuman Basal may be mixed with all insulin human formulations, but not with those designed specifically for use in insulin pumps Concerning incompatibility with other insulins, see section 6.2.
+
 Insuman Basal cartridges are not designed to allow any other insulin to be mixed in the cartridge.
 
 [Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen.]
@@ -308,8 +306,6 @@ Later on, the insulin must be resuspended again prior to each injection.
 In such cases, a new pen yielding a uniform suspension must be used.
 It is also necessary to change to a new pen if the insulin requirement changes substantially.
 
-Insuman Basal must not be mixed with any other insulin or with insulin analogues.
-
 Check and mix the Insulin
 
 The insulin should be mixed by turning OptiSet slowly up and down at least 10 times.
@@ -317,30 +313,36 @@ The appearance of the insulin should be checked: the insulin suspension must hav
 
 Needles must not be reused.
 
-[Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 11)]
+[Insuman Basal 100 IU/ml suspension for injection in a cartridge for OptiClik.]
+
+Insuman Basal must not be used in external or implanted insulin pumps or in peristaltic pumps with silicone tubing.
 
 Insuman Basal cartridges for Opticlik are not designed to allow any other insulin to be mixed in the cartridge for Opticlik.
 
-[Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 12)]
+[Insuman Basal SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
-(all sentences already above)
+Please check section 6.4 of this SPC for instructions on how to store SoloStar.
+
+The insulin suspensions (Insuman Basal or Insuman mixtures) should be mixed by turning SoloStar up and down at least 10 times to resuspend the insulin.
+The pen should be turned gently to avoid foaming in the cartridge.
+After mixing, the insulin suspensions must have an evenly milky-white appearance.
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a vial]
 
 Insuman Comb 15 must not be used if this cannot be achieved, i.e. if the suspension remains clear, for example, or if clumps, particles or flocculation appear in the insulin or stick to the wall or bottom of the vial.
 
-As with all insulin preparations, Insuman Comb 15 must not be mixed with solutions containing reducing agents such as thioles and sulphites.
-It must also be remembered that
+Insuman Comb 15 must not be administered intravenously and must not be used in infusion pumps or external or implanted insulin pumps.
+
+It must be remembered that
 
 - insulin protamine crystals dissolve in an acid pH range,
 - the soluble insulin part precipitates out at a pH of approximately 4.5 to 6.5.
 
-Insuman Comb 15 may be mixed with all Sanofi-Aventis human insulins, but NOT with those designed specifically for use in insulin pumps.
-Insuman Comb 15 must also NOT be mixed with insulins of animal origin or with insulin analogues.
+Insuman Comb 15 may be mixed with all insulin human fomulations, but not with those designed specifically for use in insulin pumps.
 
 [Insuman Comb 15 40 IU/ml suspension for injection in a vial]
 
-(all sentences already above)
+Insuman Comb 15 may be mixed with all insulin human formulations, but not with those designed specifically for use in insulin pumps.
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a cartridge]
 
@@ -356,13 +358,13 @@ Insuman Comb 15 cartridges are not designed to allow any other insulin to be mix
 
 Before first use, Insuman Comb 15 must be kept at room temperature for 1 to 2 hours and then resuspended to check the contents.
 
-Insuman Comb 15 must not be mixed with any other insulin or with insulin analogues.
+[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
-[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 17)]
+Concernig incompatibility with other insulins, see section 6.2.
 
 Insuman Comb 15 cartridges for OptiClik are not designed to allow any other insulin to be mixed in the cartridge for OptiClik.
 
-[Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 18)]
+[Insuman Comb 15 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -370,18 +372,19 @@ Insuman Comb 15 cartridges for OptiClik are not designed to allow any other insu
 
 Insuman Comb 25 must not be used if this cannot be achieved, i.e. if the suspension remains clear, for example, or if clumps, particles or flocculation appear in the insulin or stick to the wall or bottom of the vial.
 
-As with all insulin preparations, Insuman Comb 25 must not be mixed with solutions containing reducing agents such as thioles and sulphites.
+Insuman Comb 25 must not be administered intravenously and must not be used in infusion pumps or external implanted insulin pumps.
 
-Insuman Comb 25 may be mixed with all Sanofi-Aventis human insulins, but NOT with those designed specifically for use in insulin pumps.
-Insuman Comb 25 must also NOT be mixed with insulins of animal origin or with insulin analogues.
+Insuman Comb 25 may be mixed with all insulin human formulations, but not with those designed specifically for use in insulin pumps.
 
 [Insuman Comb 25 40 IU/ml suspension for injection in a vial]
 
-(all sentences already above)
+Insuman Comb 25 must not be administered intravenously and must not be used in infusion pumps or external or implanted insulin pumps.
+
+Insuman Comb 25 may be mixed with all insulin human formulations,, but not with those designed specifically for use in insulin pumps.
 
 [Insuman Comb 25 100 IU/ml suspension for injection in a cartridge]
 
-The Insuman Comb 25 cartridges are to be used only in conjunction with OptiPen, ClikSTAR, Autopen 25 or Tactipen (see section 4.4).
+The Insuman Comb 25 cartridges are to be used only in conjunction with OptiPen, ClikSTAR, Autopen 24 or Tactipen (see section 4.4).
 
 Before insertion into the pen, Insuman Comb 25 must be kept at room temperature for 1 to 2 hours and then resuspended to check the contents.
 
@@ -393,13 +396,13 @@ Insuman Comb 25 cartridges are not designed to allow any other insulin to be mix
 
 Before first use, Insuman Comb 25 must be kept at room temperature for 1 to 2 hours and then resuspended to check the contents.
 
-Insuman Comb 25 must not be mixed with any other insulin or with insulin analogues.
+Any medicinal unused product or waste material should be disposed of in accordance with local requirements.
 
-[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 23)]
+[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 Insuman Comb 25 cartridges for OptiClik are not designed to allow any other insulin to be mixed in the cartridge for OptiClik.
 
-[Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 24)]
+[Insuman Comb 25 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -407,10 +410,9 @@ Insuman Comb 25 cartridges for OptiClik are not designed to allow any other insu
 
 Insuman Comb 30 must not be used if this cannot be achieved, i.e. if the suspension remains clear, for example, or if clumps, particles or flocculation appear in the insulin or stick to the wall or bottom of the vial.
 
-As with all insulin preparations, Insuman Comb 30 must not be mixed with solutions containing reducing agents such as thioles and sulphites.
+Insuman Comb 30 must not be administered intravenously and must not be used in infusion pumps or external or implanted insulin pumps.
 
-Insuman Comb 30 may be mixed with all Sanofi-Aventis human insulins, but NOT with those designed specifically for use in insulin pumps.
-Insuman Comb 30 must also NOT be mixed with insulins of animal origin or with insulin analogues.
+Insuman Comb 30 may be mixed with all insulin human formulations, but not with those designed specifically for use in insulin pumps.
 
 [Insuman Comb 30 100 IU/ml suspension for injection in a cartridge]
 
@@ -426,13 +428,11 @@ Insuman Comb 30 cartridges are not designed to allow any other insulin to be mix
 
 Before first use, Insuman Comb 30 must be kept at room temperature for 1 to 2 hours and then resuspended to check the contents.
 
-Insuman Comb 30 must not be mixed with any other insulin or with insulin analogues.
-
-[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge (SmPC 28)]
+[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 Insuman Comb 30 cartridges for OptiClik are not designed to allow any other insulin to be mixed in the cartridge for OptiClik.
 
-[Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 29)]
+[Insuman Comb 30 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -440,14 +440,13 @@ Insuman Comb 30 cartridges for OptiClik are not designed to allow any other insu
 
 Insuman Comb 50 must not be used if this cannot be achieved, i.e. if the suspension remains clear, for example, or if clumps, particles or flocculation appear in the insulin or stick to the wall or bottom of the vial.
 
-As with all insulin preparations, Insuman Comb 50 must not be mixed with solutions containing reducing agents such as thioles and sulphites.
+Insuman Comb 50 must not be administered intravenously and must not be used in infusion pumps or external or implanted insulin pumps.
 
-Insuman Comb 50 may be mixed with all Sanofi-Aventis human insulins, but NOT with those designed specifically for use in insulin pumps.
-Insuman Comb 50 must also NOT be mixed with insulins of animal origin or with insulin analogues.
+Insuman Comb 50 may be mixed with all insulin human formulations, but not with those designed specifically for use in insulin pumps.
 
 [Insuman Comb 50 40 IU/ml suspension for injection in a vial]
 
-(all sentences already above)
+Insulins of different concentration (e.g. 100 IU per ml and 40 IU per ml) must not be mixed.
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a cartridge]
 
@@ -463,13 +462,11 @@ Insuman Comb 50 cartridges are not designed to allow any other insulin to be mix
 
 Before first use, Insuman Comb 50 must be kept at room temperature for 1 to 2 hours and then resuspended to check the contents.
 
-Insuman Comb 50 must not be mixed with any other insulin or with insulin analogues.
-
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 34)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 Insuman Comb 50 cartridges for OptiClik are not designed to allow any other insulin to be mixed in the cartridge for OptiClik.
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 35)]
+[Insuman Comb 50 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -484,10 +481,8 @@ Before use, the filled cartridge must be kept at room temperature for 1 to 2 hou
 Air bubbles must be removed before starting the infusion (see the operator’s manual for the pump).
 
 If the infusion pump malfunctions, the solution may be drawn from the cartridge into an injection syringe (suitable for an insulin with 100 IU/ml) and injected.
-
-As with all insulin preparations, Insuman Infusat must not be mixed with solutions containing reducing agents such as thioles and sulphites.
-
-Insuman Infusat must NOT be mixed with any other insulin or with insulin analogues.
+Insuman Infusat must not be used in peristaltic pumps with silicone tubing.
+Refer to the technical manual for contraindications relating to the use of insulin pumps.
 
 [Insuman Infusat 100 IU/ml solution for injection in a cartridge]
 
