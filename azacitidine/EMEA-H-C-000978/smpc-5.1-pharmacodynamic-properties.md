@@ -1,6 +1,8 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antineoplastic agent, Pyrimidine analogues; ATC code: L01BC07 Mechanism of action
+Pharmacotherapeutic group: Antineoplastic agent, Pyrimidine analogues; ATC code: L01BC07
+
+Mechanism of action
 Azacitidine is believed to exert its antineoplastic effects by multiple mechanisms including cytotoxicity on abnormal haematopoietic cells in the bone marrow and hypomethylation of DNA.
 The cytotoxic effects of azacitidine may result from multiple mechanisms, including inhibition of DNA, RNA and protein synthesis, incorporation into RNA and DNA, and activation of DNA damage pathways.
 Non-proliferating cells are relatively insensitive to azacitidine.

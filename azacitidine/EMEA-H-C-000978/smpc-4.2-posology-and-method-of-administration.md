@@ -12,11 +12,12 @@ Treatment should be continued as long as the patient continues to benefit or unt
 Patients should be monitored for haematologic response/toxicity and renal toxicities (see section 4.4); a delay in starting the next cycle or a dose reduction as described below may be necessary.
 
 Dose adjustment due to haematological toxicity
-Haematological toxicity is defined as the lowest count reached in a given cycle (nadir) if platelets fall below 50.0 x 109/l and/or absolute neutrophil count (ANC) below 1 x 109/l.
+Haematological toxicity is defined as the lowest count reached in a given cycle (nadir) if platelets
+≤ 50.0 x 109/l and/or absolute neutrophil count (ANC) ≤ 1 x 109/l.
 Recovery is defined as an increase of cell line(s) where haematological toxicity was observed of at least half of the difference of nadir and the baseline count plus the nadir count (i.e. blood count at recovery ≥ Nadir Count + (0.5 x [Baseline count – Nadir count]).
 
-Patients without reduced baseline blood counts (i.e. White Blood Cells (WBC) > 3.0 x 109/l and
-ANC >1.5 x 109/l, and platelets > 75.0 x 109/l) prior to the first treatment
+Patients without reduced baseline blood counts (i.e. White Blood Cells (WBC) ≥ 3.0 x 109/l and
+ANC ≥ 1.5 x 109/l, and platelets ≥ 75.0 x 109/l) prior to the first treatment
 If haematological toxicity is observed following Vidaza treatment, the next cycle of Vidaza therapy should be delayed until the platelet count and the ANC have recovered.
 If recovery is achieved within 14 days, no dose adjustment is necessary.
 However, if recovery has not been achieved within 14 days, the dose should be reduced according to the following table.
@@ -31,7 +32,7 @@ Following dose modifications, the cycle duration should return to 28 days.
 *Recovery = counts ≥ Nadir count + (0.5 x [Baseline count – Nadir count])
 
 Patients with reduced baseline blood counts (i.e. WBC < 3.0 x 109/l or ANC < 1.5 x 109/l or platelets < 75.0 x 109/l) prior to the first treatment
-Following Vidaza treatment, if the decrease in WBC or ANC or platelets from that prior to treatment is less than 50 %, or greater than 50 % but with an improvement in any cell line differentiation, the next cycle should not be delayed and no dose adjustment made.
+Following Vidaza treatment, if the decrease in WBC or ANC or platelets from that prior to treatment is ≤ 50 %, or greater than 50 % but with an improvement in any cell line differentiation, the next cycle should not be delayed and no dose adjustment made.
 
 If the decrease in WBC or ANC or platelets is greater than 50 % from that prior to treatment, with no improvement in cell line differentiation, the next cycle of Vidaza therapy should be delayed until the platelet count and the ANC have recovered.
 If recovery is achieved within 14 days, no dose adjustment is necessary.
