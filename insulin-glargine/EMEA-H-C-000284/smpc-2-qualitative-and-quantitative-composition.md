@@ -6,7 +6,7 @@ Each vial contains 5 ml of solution for injection, equivalent to 500 units, or 1
 
 Insulin glargine is produced by recombinant DNA technology in Escherichia coli.
 
-For a full list of excipients, see section 6.1.
+For the full list of excipients, see section 6.1.
 
 [Lantus 100 units/ml solution for injection in a cartridge.]
 

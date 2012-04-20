@@ -16,20 +16,4 @@ Insulin glargine and the metabolite M2 were not detectable in the vast majority 
 In clinical studies, subgroup analyses based on age and gender did not indicate any difference in safety and efficacy in insulin glargine-treated patients compared to the entire study population.
 
 Paediatric population
-No specific pharmacokinetics study in children or adolescents was conducted.
-
-[Lantus 100 units/ml solution for injection in a cartridge.]
-
 No specific pharmacokinetic study in children or adolescents was conducted.
-
-[Lantus 100 units/ml solution for injection in a cartridge for OptiClik.]
-
-(all sentences already above)
-
-[Lantus OptiSet 100 units/ml solution for injection in a pre-filled pen]
-
-(all sentences already above)
-
-[Lantus SoloStar 100 units/ml solution for injection in a pre-filled pen]
-
-(all sentences already above)

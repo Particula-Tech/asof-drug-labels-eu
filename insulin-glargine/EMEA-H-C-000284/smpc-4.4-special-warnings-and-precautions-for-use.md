@@ -9,8 +9,7 @@ Transferring a patient to another type or brand of insulin should be done under 
 Changes in strength, brand (manufacturer), type (regular, NPH, lente, long-acting, etc.), origin (animal, human, human insulin analogue) and/or method of manufacture may result in the need for a change in dose.
 
 Insulin administration may cause insulin antibodies to form.
-In rare cases, the presence of such insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency to hyper- or hypoglycaemia.
-(see section 4.8)
+In rare cases, the presence of such insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency to hyper- or hypoglycaemia (see section 4.8).
 
 Hypoglycaemia
 
@@ -37,6 +36,7 @@ Such situations may result in severe hypoglycaemia (and possibly loss of conscio
 The prolonged effect of subcutaneous insulin glargine may delay recovery from hypoglycaemia.
 
 If normal or decreased values for glycated haemoglobin are noted, the possibility of recurrent, unrecognised (especially nocturnal) episodes of hypoglycaemia must be considered.
+
 Adherence of the patient to the dose and dietary regimen, correct insulin administration and awareness of hypoglycaemia symptoms are essential to reduce the risk of hypoglycaemia.
 Factors increasing the susceptibility to hypoglycaemia require particularly close monitoring and may necessitate dose adjustment.
 These include:

@@ -1,8 +1,9 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Drugs used in diabetes.
-Insulins and analogues for injection, long-acting.
+Pharmacotherapeutic group: Drugs used in diabetes, insulins and analogues for injection, long-acting.
 ATC Code: A10A E04.
+
+Mechanism of action
 
 Insulin glargine is a human insulin analogue designed to have a low solubility at neutral pH.
 It is completely soluble at the acidic pH of the Lantus injection solution (pH 4).
@@ -47,8 +48,7 @@ Insulin glargine
 Time (h) after s.c. injection End of observation
 
 period
-*determined as amount of glucose infused to maintain constant plasma glucose levels
-(hourly mean values)
+*determined as amount of glucose infused to maintain constant plasma glucose levels (hourly mean values)
 
 The longer duration of action of subcutaneous insulin glargine is directly related to its slower rate of absorption and supports once daily administration.
 The time course of action of insulin and insulin analogues such as insulin glargine may vary considerably in different individuals or within the same individual.
@@ -59,7 +59,8 @@ Effects of insulin glargine (once daily) on diabetic retinopathy were evaluated 
 No significant difference was seen in the progression of diabetic retinopathy when insulin glargine was compared to NPH insulin.
 
 Paediatric population
-In a randomised, controlled clinical study, paediatric patients (age range 6 to 15 years) with type 1 diabetes (n = 349) were treated for 28 weeks with a basal-bolus insulin regimen where regular human insulin was used before each meal.
+
+In a randomised, controlled clinical study, paediatric patients (age range 6 to 15 years) with type 1 diabetes (n=349) were treated for 28 weeks with a basal-bolus insulin regimen where regular human insulin was used before each meal.
 Insulin glargine was administered once daily at bedtime and NPH human insulin was administered once or twice daily.
 Similar effects on glycohemoglobin and the incidence of symptomatic hypoglycemia were observed in both treatment groups, however fasting plasma glucose decreased more from baseline in the insulin glargine group than in the NPH group.
 There was less severe hypoglycaemia in the insulin glargine group as well.
@@ -69,13 +70,11 @@ No new safety signals were seen during this extended treatment with insulin glar
 A crossover study comparing insulin glargine plus lispro insulin to NPH plus regular human insulin (each treatment administered for 16 weeks in random order) in 26 adolescent type 1 diabetic patients aged 12 to 18 years was also performed.
 As in the paediatric study described above, fasting plasma glucose reduction from baseline was greater in the insulin glargine group than in the NPH group.
 HbA1c changes from baseline were similar between treatment groups; however blood glucose values recorded overnight were significantly higher in the insulin glargine/ lispro group than the NPH/regular group, with a mean nadir of 5.4 mM vs 4.1 mM.
-Correspondingly, the incidences of nocturnal hypoglycaemia were 32 % in the insulin glargine / lispro group vs 52 % in the NPH / regular group.
+Correspondingly, the incidences of nocturnal hypoglycaemia were 32% in the insulin glargine / lispro group vs 52% in the NPH / regular group.
 
 [Lantus 100 units/ml solution for injection in a cartridge.]
 
 Figure 1.
-
-*determined as amount of glucose infused to maintain constant plasma glucose levels (hourly mean values)
 
 [Lantus 100 units/ml solution for injection in a cartridge for OptiClik.]
 

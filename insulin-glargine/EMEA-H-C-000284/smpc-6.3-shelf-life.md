@@ -11,7 +11,6 @@ It is recommended that the date of the first use from the vial be noted on the l
 [Lantus 100 units/ml solution for injection in a cartridge.]
 
 3 years.
-
 Shelf life after first use of the cartridge
 The pen containing a cartridge must not be stored in the refrigerator.
 

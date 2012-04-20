@@ -5,8 +5,7 @@ It must only be used if the solution is clear, colourless, with no solid particl
 Since Lantus is a solution, it does not require resuspension before use.
 Lantus must not be mixed with any other insulin or diluted.
 Mixing or diluting can change its time/action profile and mixing can cause precipitation.
-Insulin label must always be checked before each injection to avoid medication errors between insulin glargine and other insulins.
-(see section 4.4)
+Insulin label must always be checked before each injection to avoid medication errors between insulin glargine and other insulins (see section 4.4).
 
 [Lantus 100 units/ml solution for injection in a cartridge.]
 
@@ -36,6 +35,9 @@ If OptiClik is damaged or not working properly (due to mechanical defects) it ha
 
 It must only be used if the cartridge is intact and the solution is clear, colourless, with no solid particles visible, and if it is of water-like consistency.
 
+Insulin label must always be checked before each injection to avoid medication errors between insulin glargine and other insulins.
+(see section 4.4)
+
 [Lantus OptiSet 100 units/ml solution for injection in a pre-filled pen]
 
 Before first use, the pen must be stored at room temperature for 1 to 2 hours.
@@ -63,7 +65,7 @@ Important information for use of OptiSet:
 - OptiSet must never be used if it is damaged or if the patient is not sure if it is working properly.
 - The patient must always have a spare OptiSet available in case the OptiSet is lost or damaged.
 
-Storage Instructions
+Storage instructions
 
 Please check section 6.4 of this SPC for instructions on how to store OptiSet.
 
@@ -177,7 +179,8 @@ The patient should be advised to read the instructions for use included in the p
 Important information for use of SoloStar:
 
 - Before each use, a new needle must always be carefully attached and a safety test must be performed.
-  Only needles that are compatible for use with SoloStar must be used.
+  A dose should not be selected and/or the injection button should not be pressed without a needle attached.
+  Only use needles that are compatible for use with SoloStar.
 - Special caution must be taken to avoid accidental needle injury and transmission of infection.
 - SoloStar must never be used if it is damaged or if the patient is not sure if it is working properly.
 - The patient must always have a spare SoloStar available in case the SoloStar is lost or damaged.
@@ -189,7 +192,6 @@ If SoloStar is in cool storage, it should be taken out 1 to 2 hours before injec
 The used SoloStar must be discarded as required by your local authorities.
 
 SoloStar has to be protected from dust and dirt.
-
 The outside of the SoloStar can be cleaned by wiping it with a damp cloth.
 
 SoloStar is designed to work accurately and safely.
@@ -198,7 +200,7 @@ If the patient is concerned that the SoloStar may be damaged, he must use a new 
 
 The label on the pen should be checked to make sure it contains the correct insulin.
 The Lantus SoloStar is grey with a purple injection button.
-After removing the pen cap, the appearance of insulin should also be checked: the insulin solution must be clear, colorless, with no solid particles visible, and must have a water-like consistency.
+After removing the pen cap, the appearance of insulin should also be checked: the insulin solution must be clear, colourless, with no solid particles visible, and must have a water-like consistency.
 
 Only needles that are compatible for use with SoloStar should be used.
 A new sterile needle will be always used for each injection.
@@ -226,5 +228,6 @@ This ensures that the full dose of insulin has been injected.
 
 The needle should always be removed after each injection and discarded.
 This helps prevent contamination and/or infection, entry of air into the insulin reservoir and leakage of insulin.
+
 Special caution must be taken when removing and disposing the needle.
 Recommended safety measures for removal and disposal of needles must be followed in order to reduce the risk of accidental needle injury and transmission of infectious diseases.

@@ -2,7 +2,9 @@
 
 Hypoglycaemia, in general the most frequent adverse reaction of insulin therapy, may occur if the insulin dose is too high in relation to the insulin requirement.
 
-The following related adverse reactions from clinical investigations are listed below by system organ class and in order of decreasing incidence (very common: ≥ 1/10; common: ≥ 1/100 to <1/10; uncommon: ≥ 1/1,000 to < 1/100; rare: ≥ 1/10,000 to < 1/1,000; very rare: < 1/10,000).
+Tabulated list of adverse reactions
+
+The following related adverse reactions from clinical investigations are listed below by system organ class and in order of decreasing incidence (very common: ≥1/10; common: ≥1/100 to <1/10; uncommon: ≥1/1,000 to <1/100; rare: ≥1/10,000 to <1/1,000; very rare: <1/10,000).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 | MedDRA system organ classes | Very common | Common | Uncommon | Rare | Very rare |
@@ -15,8 +17,9 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | Musculoskeletal and connective tissue disorders |  |  |  |  | Myalgia |
 | General disorders and administration site conditions |  | Injection site reactions |  | Oedema |  |
 
-Metabolism and nutrition disorders
+Description of selected adverse reactions
 
+Metabolism and nutrition disorders
 Severe hypoglycaemic attacks, especially if recurrent, may lead to neurological damage.
 Prolonged or severe hypoglycaemic episodes may be life-threatening.
 
@@ -24,7 +27,6 @@ In many patients, the signs and symptoms of neuroglycopenia are preceded by sign
 Generally, the greater and more rapid the decline in blood glucose, the more marked is the phenomenon of counter-regulation and its symptoms.
 
 Immune system disorders
-
 Immediate-type allergic reactions to insulin are rare.
 Such reactions to insulin (including insulin glargine) or the excipients may, for example, be associated with generalised skin reactions, angio-oedema, bronchospasm, hypotension and shock, and may be life-threatening.
 
@@ -33,7 +35,6 @@ In clinical studies, antibodies that cross-react with human insulin and insulin 
 In rare cases, the presence of such insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency to hyper- or hypoglycaemia.
 
 Eyes disorders
-
 A marked change in glycaemic control may cause temporary visual impairment, due to temporary alteration in the turgidity and refractive index of the lens.
 
 Long-term improved glycaemic control decreases the risk of progression of diabetic retinopathy.
@@ -41,12 +42,10 @@ However, intensification of insulin therapy with abrupt improvement in glycaemic
 In patients with proliferative retinopathy, particularly if not treated with photocoagulation, severe hypoglycaemic episodes may result in transient amaurosis.
 
 Skin and subcutaneous tissue disorders
-
 As with any insulin therapy, lipodystrophy may occur at the injection site and delay local insulin absorption.
 Continuous rotation of the injection site within the given injection area may help to reduce or prevent these reactions.
 
 General disorders and administration site conditions
-
 Injection site reactions include redness, pain, itching, hives, swelling, or inflammation.
 Most minor reactions to insulins at the injection site usually resolve in a few days to a few weeks.
 
@@ -54,13 +53,13 @@ Rarely, insulin may cause sodium retention and oedema particularly if previously
 
 Paediatric population
 
-In general, the safety profile for children and adolescents (≤ 18 years of age) is similar to the safety profile for adults.
-The adverse reaction reports received from post marketing surveillance included relatively more frequent injection site reactions (injection site pain, injection site reaction) and skin reactions (rash, urticaria) in children and adolescents (≤ 18 years of age) than in adults.
+In general, the safety profile for children and adolescents (≤18 years of age) is similar to the safety profile for adults.
+The adverse reaction reports received from post marketing surveillance included relatively more frequent injection site reactions (injection site pain, injection site reaction) and skin reactions (rash, urticaria) in children and adolescents (≤18 years of age) than in adults.
 No clinical study safety data are available in children below 6 years of age.
 
 [Lantus 100 units/ml solution for injection in a cartridge.]
 
-The following related adverse reactions from clinical investigations are listed below by system organ class and in order of decreasing incidence (very common: ≥ 1/10; common: ≥ 1/100 to < 1/10; uncommon: ≥ 1/1,000 to < 1/100; rare: ≥ 1/10,000 to < 1/1,000; very rare: < 1/10,000).
+(all sentences already above)
 
 [Lantus 100 units/ml solution for injection in a cartridge for OptiClik.]
 

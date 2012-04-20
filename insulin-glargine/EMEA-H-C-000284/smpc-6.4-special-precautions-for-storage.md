@@ -7,7 +7,7 @@ Do not put Lantus next to the freezer compartment or a freezer pack.
 Keep the vial in the outer carton in order to protect from light.
 
 Opened vials
-For storage precautions, see section 6.3.
+For storage conditions after first opening of this medicinal product, see section 6.3.
 
 [Lantus 100 units/ml solution for injection in a cartridge.]
 
@@ -18,7 +18,7 @@ In use cartridges
 
 [Lantus 100 units/ml solution for injection in a cartridge for OptiClik.]
 
-(all sentences already above)
+For storage conditions after first opening of this medicinal product,, see section 6.3.
 
 [Lantus OptiSet 100 units/ml solution for injection in a pre-filled pen]
 

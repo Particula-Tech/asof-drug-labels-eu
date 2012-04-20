@@ -8,4 +8,5 @@ Substances that may reduce the blood-glucose-lowering effect include corticoster
 
 Beta-blockers, clonidine, lithium salts or alcohol may either potentiate or weaken the blood-glucose-lowering effect of insulin.
 Pentamidine may cause hypoglycaemia, which may sometimes be followed by hyperglycaemia.
+
 In addition, under the influence of sympatholytic medicinal products such as beta-blockers, clonidine, guanethidine and reserpine, the signs of adrenergic counter-regulation may be reduced or absent.
