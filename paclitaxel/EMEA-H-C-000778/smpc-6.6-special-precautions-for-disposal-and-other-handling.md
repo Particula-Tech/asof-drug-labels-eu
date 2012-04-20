@@ -16,7 +16,6 @@ Reconstitution and administration of the product:
 
 Abraxane is supplied as a sterile lyophilised powder for reconstitution before use.
 After reconstitution, each ml of suspension contains 5 mg of paclitaxel (as paclitaxel albumin).
-
 Using a sterile syringe, 20 ml of sodium chloride 9 mg/ml (0.9%) solution for infusion should slowly be injected into a vial of Abraxane over a minimum of 1 minute.
 The solution should be directed onto the inside wall of the vial.
 The solution should not be injected directly onto the powder as this will result in foaming.

@@ -34,6 +34,7 @@ Fifty-nine percent received study medicinal product as second or greater than se
 Seventy-seven percent of the patients had been previously exposed to anthracyclines.
 
 Results for overall response rate and time to disease progression, and progression-free survival and survival for patients receiving > 1st-line therapy, are shown below.
+
 Table 2: Results for overall response rate, median time to disease progression, and progression-free survival as assessed by the investigator
 
 | Efficacy variable | Abraxane (260 mg/m2) | Solvent-based paclitaxel (175 mg/m2) | p-value |
@@ -53,7 +54,6 @@ Table 2: Results for overall response rate, median time to disease progression, 
 Neurotoxictiy to paclitaxel was evaluated through improvement by one grade for patients experiencing grade 3 peripheral neuropathy at any time during therapy.
 The natural course of peripheral neuropathy to resolution to baseline due to cumulative toxicity of Abraxane after
 > 6 courses of treatment was not evaluated and remains unknown.
-
 Paediatric population
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Abraxane in all subsets of the paediatric population in the treatment of metastatic breast cancer (see section 4.2 for information on paediatric use).

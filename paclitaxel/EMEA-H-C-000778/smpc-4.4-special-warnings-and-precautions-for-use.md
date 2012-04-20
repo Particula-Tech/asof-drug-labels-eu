@@ -42,6 +42,11 @@ Gastrointestinal symptoms:
 
 If patients experience nausea, vomiting and diarrhoea following the administration of Abraxane, they may be treated with commonly used anti-emetics and constipating agents.
 
+Pneumonitis:
+
+Even though the incidence is low, patients should be closely monitored for signs and symptoms of pneumonitis.
+During the conduct of a trial in metastatic pancreatic cancer, a higher rate of pneumonitis events was observed in patients receiving Abraxane in combination with gemcitabine.
+
 Excipients:
 
 When reconstituted, Abraxane contains approximately 425 mg sodium per dose.
