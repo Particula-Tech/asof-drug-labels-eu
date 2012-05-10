@@ -32,7 +32,6 @@ The safety profile included weight gain and changes in prolactin levels.
 The duration of the long-term safety study was limited to 52 weeks.
 In the pooled trials, the incidence of low serum prolactin levels in females (<3 ng/ml) and males (<2 ng/ml) in aripiprazole-treated patients was 27/46 (58.7%) and 258/298 (86.6%), respectively.
 In the placebo-controlled trials, the mean weight gain was 0.4 kg for placebo and 1.6 kg for aripiprazole.
-
 Weight gain:
 In clinical trials aripiprazole has not been shown to induce clinically relevant weight gain.
 In a 26-week, olanzapine-controlled, double-blind, multi-national study of schizophrenia which included 314 patients and where the primary end-point was weight gain, significantly less patients had at least 7% weight gain over baseline (i.e. a gain of at least 5.6 kg for a mean baseline weight of ~80.5 kg) on aripiprazole (N= 18, or 13% of evaluable patients), compared to olanzapine (N= 45, or 33% of evaluable patients).
@@ -102,6 +101,7 @@ In subpopulation analyses on patients with mixed episodes or on patients with se
 
 Schizophrenia in adults with oral aripiprazole:
 In three short-term (4 to 6 weeks) placebo-controlled trials involving 1,228 schizophrenic adult patients, presenting with positive or negative symptoms, oral aripiprazole was associated with statistically significantly greater improvements in psychotic symptoms compared to placebo.
+
 In a haloperidol-controlled trial, the proportion of responder patients maintaining response to medicinal product at 52-weeks was similar in both groups (oral aripiprazole 77% and haloperidol 73%).
 The overall completion rate was significantly higher for patients on oral aripiprazole (43%) than for oral haloperidol (30%).
 In a 26-week, placebo-controlled trial in stabilised patients with chronic schizophrenia, oral aripiprazole had significantly greater reduction in relapse rate, 34% in oral aripiprazole group and 57% in placebo.

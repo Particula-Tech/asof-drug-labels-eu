@@ -93,6 +93,8 @@ Musculoskeletal and rhabdomyolysis, myalgia, stiffness
 
 connective tissue disorders:
 
+Pregnancy, puerperium and drug withdrawal syndrome neonatal (see section 4.6) perinatal conditions:
+
 Renal and urinary disorders: urinary incontinence, urinary retention
 
 Reproductive system and priapism

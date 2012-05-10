@@ -76,13 +76,9 @@ Patients with rare hereditary problems of galactose intolerance, the lapp lactas
 
 [ABILIFY 10 mg orodispersible tablets]
 
-| The occurrence of suicidal behaviour is inherent in psychotic illnesses |  |  | and mood disorders | and in |
-| --- | --- | --- | --- | --- |
-| some cases has been reported early after initiation or switch of antipsychotic therapy, including |  |  |  |  |
-| treatment with aripiprazole (see section 4.8). Close supervision of high-risk patients should |  |  |  |  |
-| accompany antipsychotic therapy. |  | Results of an epidemiological study suggested that there was no |  |  |
-| increased risk of suicidality with aripiprazole compared to other antipsychotics among patients with |  |  |  |  |
-| schizophrenia or | bipolar disorder. |  |  |  |
+The occurrence of suicidal behaviour is inherent in psychotic illnesses and mood disorders and in
+some cases has been reported early after initiation or switch of antipsychotic therapy, including
+treatment with aripiprazole (see section 4.8). Close supervision of high-risk patients should
 
 Phenylketonurics: ABILIFY orodispersible tablets contain aspartame, a source of phenylalanine which may be harmful for people with phenylketonuria.
 

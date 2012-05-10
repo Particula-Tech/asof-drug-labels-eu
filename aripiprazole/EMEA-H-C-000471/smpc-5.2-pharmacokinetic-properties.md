@@ -31,12 +31,12 @@ The pharmacokinetics of aripiprazole and dehydro-aripiprazole in paediatric pati
 
 Elderly:
 There are no differences in the pharmacokinetics of aripiprazole between healthy elderly and younger adult subjects, nor is there any detectable effect of age in a population pharmacokinetic analysis in schizophrenic patients.
-
 Gender:
 There are no differences in the pharmacokinetics of aripiprazole between healthy male and female subjects nor is there any detectable effect of gender in a population pharmacokinetic analysis in schizophrenic patients.
 
 Smoking and Race:
 Population pharmacokinetic evaluation has revealed no evidence of clinically significant race-related differences or effects from smoking upon the pharmacokinetics of aripiprazole.
+
 Renal Disease:
 The pharmacokinetic characteristics of aripiprazole and dehydro-aripiprazole were found to be similar in patients with severe renal disease compared to young healthy subjects.
 
