@@ -39,3 +39,7 @@ Close monitoring of blood parameters is advised in these patients.
 
 Hepatic impairment: There are no data that support specific guidance for dose adjustment in patients with hepatic impairment, but, due to safety considerations, Siklos is contraindicated in patients with severe hepatic impairment (see section 4.3).
 Close monitoring of blood parameters is advised in patients with hepatic impairment.
+
+[Siklos 1000 mg film-coated tablets.]
+
+Hepatic impairment: There are no data that support specific guidance for dose adjustment in patients with hepatic impairment, but, due to safety considerations, Siklos is contraindicated in patients with severe hepatic impairment (see section 4.2).

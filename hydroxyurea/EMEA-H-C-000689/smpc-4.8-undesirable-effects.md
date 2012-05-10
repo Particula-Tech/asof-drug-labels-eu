@@ -17,9 +17,7 @@ Neoplasms, benign, malignant and unspecified
 Not known: Leukaemia and in elderly patients, skin cancers
 Blood and lymphatic system disorders:
 Very common: Bone marrow depression1 including neutropenia (< 2.0 x 109/l), reticulocytopenia (< 80 x 109/l), macrocytosis2
-
 Common: Thrombocytopenia (< 80 x 109/l), anaemia (haemoglobin < 4.5 g/dl)3
-
 Nervous system disorders:
 Common: Headache
 Uncommon: Dizziness
