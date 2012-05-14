@@ -12,10 +12,10 @@ Otherwise, the patient should wait for the next dose and not inhale more capsule
 Treatment with TOBI Podhaler should be continued on a cyclical basis for as long as the physician considers the patient is gaining clinical benefit from the treatment with TOBI Podhaler taking into account that long-term safety data are not available for TOBI Podhaler.
 If clinical deterioration of pulmonary status is evident, additional or alternative anti-pseudomonal therapy should be considered.
 See also information on clinical benefit and tolerability in sections 4.4, 4.8 and 5.1.
-
 Special populations
 Elderly patients (≥65 years)
 There are insufficient data in this population to support a recommendation for or against dose adjustment.
+
 Patients with renal impairment
 Tobramycin is primarily excreted unchanged in the urine and renal function is expected to affect the exposure to tobramycin.
 Patients with serum creatinine 2 mg/dl or more and blood urea nitrogen (BUN) 40 mg/dl or more have not been included in clinical studies and there are no data in this population to support a recommendation for or against dose adjustment with TOBI Podhaler.
