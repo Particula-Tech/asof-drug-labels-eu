@@ -34,6 +34,7 @@ It takes 2-3 weeks for full induction to be achieved and upon discontinuation of
 Other medicinal products or herbals which are inducers, e.g. rifampicin and St John´s wort (Hypericum perforatum) may have similar effects on paliperidone.
 
 Medicinal products affecting gastrointestinal transit time may affect the absorption of paliperidone, e.g., metoclopramide.
+
 Co-administration of a single dose of INVEGA 12 mg with divalproex sodium prolonged-release tablets (two 500 mg tablets once daily) resulted in an increase of approximately 50% in the Cmax and AUC of paliperidone.
 Dosage reduction for INVEGA should be considered when INVEGA is co-administered with valproate after clinical assessment.
 

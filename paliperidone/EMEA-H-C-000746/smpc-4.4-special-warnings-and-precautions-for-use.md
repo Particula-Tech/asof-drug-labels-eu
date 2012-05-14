@@ -1,4 +1,4 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 Patients with schizoaffective disorder treated with paliperidone should be carefully monitored for a potential switch from manic to depressive symptoms.
 
@@ -13,7 +13,7 @@ Tardive dyskinesia
 Medicines with dopamine receptor antagonistic properties have been associated with the induction of tardive dyskinesia characterised by rhythmical, involuntary movements, predominantly of the tongue and/or face.
 If signs and symptoms of tardive dyskinesia appear, the discontinuation of all antipsychotics, including INVEGA, should be considered.
 
-Hyperglycemia
+Hyperglycaemia
 Rare cases of glucose related adverse reactions, e.g., increase in blood glucose, have been reported in clinical trials with INVEGA.
 Appropriate clinical monitoring is advisable in diabetic patients and in patients with risk factors for the development of diabetes mellitus.
 
@@ -34,12 +34,13 @@ Conditions with decreased gastro-intestinal transit time
 Conditions leading to shorter gastrointestinal transit time, e.g., diseases associated with chronic severe diarrhoea, may result in a reduced absorption of paliperidone.
 
 Renal impairment
-The plasma concentrations of paliperidone are increased in patients with renal impairment and, therefore, dosage adjustment may be required in some patients (see section 4.2 and 5.2).
+The plasma concentrations of paliperidone are increased in patients with renal impairment and, therefore, dosage adjustment may be required in some patients (see sections 4.2 and 5.2).
 No data are available in patients with a creatinine clearance below 10 ml/min.
 Paliperidone should not be used in patients with creatinine clearance below 10 ml/min.
 
 Hepatic impairment
 No data are available in patients with severe hepatic impairment (Child-Pugh class C). Caution is recommended if paliperidone is used in such patients.
+
 Elderly patients with dementia
 INVEGA has not been studied in elderly patients with dementia.
 The experience from risperidone is considered valid also for paliperidone.
@@ -66,7 +67,7 @@ Body temperature regulation
 Disruption of the body’s ability to reduce core body temperature has been attributed to antipsychotic medicinal products.
 Appropriate care is advised when prescribing INVEGA to patients who will be experiencing conditions which may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration.
 
-Venous Thromboembolism
+Venous thromboembolism
 Cases of venous thromboembolism (VTE) have been reported with antipsychotic medicinal products.
 Since patients treated with antipsychotics often present with acquired risk factors for VTE, all possible risk factors for VTE should be identified before and during treatment with INVEGA and preventive measures undertaken.
 
@@ -76,7 +77,7 @@ This effect, if it occurs in humans, may mask the signs and symptoms of overdosa
 
 [INVEGA 3 mg prolonged-release tablets]
 
-Lactose content (pertains only to the 3 mg tablets)
+Lactose content
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
 [INVEGA 6 mg prolonged-release tablets]

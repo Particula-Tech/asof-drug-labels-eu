@@ -4,18 +4,18 @@ Pharmacologic group: Psycholeptics, other antipsychotics ATC code: N05AX13
 
 INVEGA contains a racemic mixture of (+)- and (-)-paliperidone.
 
-Mechanism of Action
+Mechanism of action
 Paliperidone is a selective blocking agent of monoamine effects, whose pharmacological properties are different from that of traditional neuroleptics.
 Paliperidone binds strongly to serotonergic 5-HT2-and dopaminergic D2-receptors.
 Paliperidone also blocks alfa1-adrenergic receptors and blocks, to a lesser extent, H1-histaminergic and alfa2-adrenergic receptors.
 The pharmacological activity of the (+)- and (-)-paliperidone enantiomers are qualitatively and quantitatively similar.
+
 Paliperidone is not bound to cholinergic receptors.
 Even though paliperidone is a strong D2-antagonist, which is believed to relieve the positive symptoms of schizophrenia, it causes less catalepsy and decreases motor functions to a lesser extent than traditional neuroleptics.
 Dominating central serotonin antagonism may reduce the tendency of paliperidone to cause extrapyramidal side effects.
 
-Pharmacodynamic Effects
-
-Clinical Efficacy
+Pharmacodynamic effects
+Clinical efficacy
 
 Schizophrenia
 The efficacy of INVEGA in the treatment of schizophrenia was established in three multi-centre, placebo-controlled, double-blind, 6-week trials in subjects who met DSM-IV criteria for schizophrenia.

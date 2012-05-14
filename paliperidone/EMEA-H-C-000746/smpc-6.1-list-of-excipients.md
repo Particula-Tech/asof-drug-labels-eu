@@ -1,6 +1,6 @@
 # 6.1 List of excipients
 
-Coated tablet core:
+Core
 Polyethylene oxide 200K
 Sodium chloride
 Povidone (K29-32)
@@ -13,7 +13,7 @@ Hydroxyethyl cellulose
 Polyethylene glycol 3350
 Cellulose acetate
 
-Colour overcoat:
+Overcoat
 Hypromellose
 Titanium dioxide (E171)
 Polyethylene glycol 400
@@ -21,7 +21,7 @@ Ferric oxide (yellow) (E172)
 Ferric oxide (red) (E172)
 Carnauba wax
 
-Printing ink:
+Printing ink
 Iron oxide (black) (E172)
 Propylene glycol
 Hypromellose
