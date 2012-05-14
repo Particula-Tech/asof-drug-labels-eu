@@ -44,16 +44,16 @@ Table 3 -Outcome Events in PLATO
 
 |  | Brilique (% patients with event) N=9333 | Clopidogrel (% patients with event) N=9291 | ARRa (%/yr) | RRRa (%) (95% CI) | P |
 | --- | --- | --- | --- | --- | --- |
-| CV death, MI (excl. silent MI) or stroke | 9.3 | 10.9 | 1.9 | 16 ( 8, 23) | 0.0003 |
-| Invasive intent | 8.5 | 10.0 | 1.7 | 16 ( 6, 25) | 0.0025 |
+| CV death, MI (excl. silent MI) or stroke | 9.3 | 10.9 | 1.9 | 16 (8, 23) | 0.0003 |
+| Invasive intent | 8.5 | 10.0 | 1.7 | 16 (6, 25) | 0.0025 |
 | Medical intent | 11.3 | 13.2 | 2.3 | 15 (0.3, 27) | 0.0444d |
-| CV death | 3.8 | 4.8 | 1.1 | 21 ( 9, 31) | 0.0013 |
-| MI (excl. silent MI)b | 5.4 | 6.4 | 1.1 | 16 ( 5, 25) | 0.0045 |
+| CV death | 3.8 | 4.8 | 1.1 | 21 (9, 31) | 0.0013 |
+| MI (excl. silent MI)b | 5.4 | 6.4 | 1.1 | 16 (5, 25) | 0.0045 |
 | Stroke | 1.3 | 1.1 | -0.2 | -17 (-52, 9) | 0.2249 |
-| All cause mortality, MI (excl. silent MI), or stroke | 9.7 | 11.5 | 2.1 | 16 ( 8, 23) | 0.0001 |
-| CV death, total MI, stroke, SRI, RI, TIA, or other ATEc | 13.8 | 15.7 | 2.1 | 12 ( 5, 19) | 0.0006 |
+| All cause mortality, MI (excl. silent MI), or stroke | 9.7 | 11.5 | 2.1 | 16 (8, 23) | 0.0001 |
+| CV death, total MI, stroke, SRI, RI, TIA, or other ATEc | 13.8 | 15.7 | 2.1 | 12 (5, 19) | 0.0006 |
 | All-cause mortality | 4.3 | 5.4 | 1.4 | 22 (11, 31) | 0.0003d |
-| Definite stent thrombosis | 1.2 | 1.7 | 0.6 | 32 ( 8, 49) | 0.0123d |
+| Definite stent thrombosis | 1.2 | 1.7 | 0.6 | 32 (8, 49) | 0.0123d |
 
 aARR = absolute risk reduction; RRR = relative risk reduction = (1-Hazard ratio) x 100%.
 A negative RRR indicates a relative risk increase.

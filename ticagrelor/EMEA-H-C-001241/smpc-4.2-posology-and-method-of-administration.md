@@ -9,7 +9,7 @@ Following an initial dose of ASA, Brilique should be used with a maintenance dos
 Treatment is recommended for up to 12 months unless discontinuation of Brilique is clinically indicated (see section 5.1).
 Experience beyond 12 months is limited.
 
-In patients with Acute Coronary Syndromes (ACS), premature discontinuation with any antiplatelet therapy, including Brilique, could result in an increased risk of cardiovascular death, or myocardial infarction due to the patient’s underlying disease (see section 4.4).
+In patients with Acute Coronary Syndromes (ACS), premature discontinuation with any antiplatelet therapy, including Brilique, could result in an increased risk of cardiovascular death, or myocardial infarction due to the patient’s underlying disease.
 Therefore, premature discontinuation of treatment should be avoided.
 
 Lapses in therapy should also be avoided.

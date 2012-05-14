@@ -8,7 +8,7 @@ Tabulated summary of adverse reactions
 The following adverse reactions have been identified following studies with Brilique (Table 1).
 
 Adverse reactions are classified according to frequency and System Organ Class.
-Frequency categories are defined according to the following conventions: Very common (≥1/10), Common (≥1/100 to <1/10), Uncommon (≥1/1,000 to <1/100), Rare (≥1/10,000 to <1/1,000), Very rare (<1/10,000), Not known (cannot be estimated from the available date).
+Frequency categories are defined according to the following conventions: Very common (≥1/10), Common (≥1/100 to <1/10), Uncommon (≥1/1,000 to <1/100), Rare (≥1/10,000 to <1/1,000), Very rare (<1/10,000), Not known (cannot be estimated from the available data).
 
 | Table 1 Adverse reactions by frequency and System Organ Class (SOC) |  |  |  |
 | --- | --- | --- | --- |
