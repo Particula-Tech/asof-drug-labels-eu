@@ -16,7 +16,7 @@ Elimination
 
 Eribulin has a low clearance (range of means 1.16 to 2.42 l/h/m2).
 No significant accumulation of eribulin is observed on weekly administration.
-The pharmacokinetic properties are not dose or time dependent in the range of eribulin mesylate doses of 0.25 to 4.0 mg/m2.
+The pharmacokinetic properties are not dose or time dependent in the range of eribulin doses of 0.22 to 3.53 mg/m2.
 
 Eribulin is eliminated primarily by biliary excretion.
 The transport protein involved in the excretion is presently unknown.

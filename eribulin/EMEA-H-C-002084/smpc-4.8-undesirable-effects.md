@@ -1,6 +1,6 @@
 # 4.8 Undesirable effects
 
-Unless otherwise noted, the table shows the incidence rates of adverse reactions observed in 827 breast cancer patients who received the recommended dose of eribulin mesylate in two Phase 2 and one Phase 3 study.
+Unless otherwise noted, the table shows the incidence rates of adverse reactions observed in 827 breast cancer patients who received the recommended dose in two Phase 2 and one Phase 3 study.
 
 Frequency categories are defined as: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000) and very rare (< 1/10,000).
 Within each frequency grouping, undesirable effects are presented in order of decreasing frequency.
@@ -24,7 +24,7 @@ Where Grade 3 or 4 reactions occurred with a frequency of ≥ 1%, the actual tot
 | Hepatobiliary disorders |  | Alanine aminotransferase increased (3.0%) (G3/4: 1.1%)c Aspartate aminotransferase increased | Hyperbilirubinaemia |  |
 | Skin and subcutaneous tissue disorders | Alopecia | Rash Pruritus Nail disorder Night sweats Palmar plantar erythrodysaesthesia Dry skin Erythema Hyperhidrosis | Angioedema |  |
 | Musculoskeletal and connective tissue disorders | Arthralgia and Myalgia | Pain in extremity Muscle spasms Musculoskeletal pain and musculoskeletal chest pain Muscular weakness Bone pain Back pain |  |  |
-| Renal disorders |  |  | Dysuria Haematuria Proteinuria Renal failure |  |
+| Renal and urinary disorders |  |  | Dysuria Haematuria Proteinuria Renal failure |  |
 | General disorders and administration site conditions | Fatigue/Asthenia (52.8%) (G3/4 : 8.4%) Pyrexia | Mucosal Inflammation (9.8%) (G3/4: 1.3%)c Peripheral oedema Pain Chills Influenza like illness Chest Pain |  |  |
 | Investigations |  | Weight decreased |  |  |
 

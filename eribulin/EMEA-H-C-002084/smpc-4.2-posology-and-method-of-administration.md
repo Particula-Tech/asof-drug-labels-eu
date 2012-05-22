@@ -4,7 +4,14 @@ HALAVEN should be administered in units specialised in the administration of cyt
 
 Posology
 
-The recommended dose of eribulin as the ready to use solution is 1.23 mg/m2 (equivalent to 1.4 mg/m2 eribulin mesylate) which should be administered intravenously over 2 to 5 minutes on Days 1 and 8 of every 21-day cycle.
+The recommended dose of eribulin as the ready to use solution is 1.23 mg/m2 which should be administered intravenously over 2 to 5 minutes on Days 1 and 8 of every 21-day cycle.
+
+Please note:
+In the EU the recommended dose refers to the base of the active substance (eribulin).
+Calculation of the individual dose to be administered to a patient must be based on the strength of the ready to use solution that contains 0.44 mg/ml eribulin and the dose recommendation of 1.23 mg/m2.
+The dose reduction recommendations shown below are also shown as the dose of eribulin to be administered based on the strength of the ready to use solution.
+
+In the pivotal EMBRACE trial, the corresponding publication and in some other regions e.g. the US and Switzerland, the recommended dose is based on the salt form (eribulin mesilate).
 
 Patients may experience nausea or vomiting.
 Antiemetic prophylaxis including corticosteroids should be considered.
@@ -15,13 +22,12 @@ The administration of HALAVEN should be delayed on Day 1 or Day 8 for any of the
 − Absolute neutrophil count (ANC) < 1 x 109/l
 − Platelets < 75 x 109/l
 − Grade 3 or 4 non-hematological toxicities.
-
 Dose reduction during therapy
 
 Dose reduction recommendations for retreatment are shown in the following table.
 Dose reduction recommendations
 
-| Adverse reaction after previous HALAVEN administration | Recommended dose |
+| Adverse reaction after previous HALAVEN administration | Recommended dose of eribulin |
 | --- | --- |
 | Haematological: |  |
 | ANC < 0.5 x 109/l lasting more than 7 days | 0.97 mg/m2 |
@@ -68,6 +74,6 @@ The dose may be diluted in up to 100 ml of sodium chloride 9 mg/ml (0.9%) soluti
 It should not be diluted in glucose 5% infusion solution.
 For instructions on the dilution of the medicinal product before administration, see section 6.6.
 Good peripheral venous access, or a patent central line, should be ensured prior to administration.
-There is no evidence that eribulin mesylate is a vesicant or an irritant.
+There is no evidence that eribulin mesilate is a vesicant or an irritant.
 In the event of extravasation, treatment should be symptomatic.
 For information relevant to the handling of cytotoxic drugs see section 6.6.

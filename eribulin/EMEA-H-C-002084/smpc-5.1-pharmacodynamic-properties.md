@@ -2,7 +2,7 @@
 
 Pharmacotherapeutic group: Other antineoplastic agents, ATC code: L01XX41
 
-HALAVEN (eribulin mesylate) is a non-taxane, microtubule dynamics inhibitor belonging to the halichondrin class of antineoplastic agents.
+HALAVEN (eribulin mesilate) is a non-taxane, microtubule dynamics inhibitor belonging to the halichondrin class of antineoplastic agents.
 It is a structurally simplified synthetic analogue of halichondrin B, a natural product isolated from the marine sponge Halichondria okadai.
 Eribulin inhibits the growth phase of microtubules without affecting the shortening phase and sequesters tubulin into non-productive aggregates.
 Eribulin exerts its effects via a tubulin-based antimitotic mechanism leading to G2/M cell-cycle block, disruption of mitotic spindles, and, ultimately, apoptotic cell death after prolonged mitotic blockage.
@@ -13,7 +13,7 @@ The efficacy of HALAVEN in breast cancer is supported by two single-arm Phase 2 
 
 The 762 patients in the pivotal Phase 3 EMBRACE study had locally recurrent or metastatic breast cancer, and had previously received at least two and a maximum of five chemotherapy regimens, including an anthracycline and a taxane (unless contraindicated).
 Patients must have progressed within 6 months of their last chemotherapeutic regimen.
-They were randomized 2:1 to receive either HALAVEN at a dose of 1.23 mg/m2 (equivalent to 1.4 mg/m2 eribulin mesylate) on Days 1 and 8 in a 21-day cycle administered intravenously over 2 to 5 minutes, or treatment of physician’s choice (TPC), defined as any single-agent chemotherapy, hormonal treatment, or biologic therapy approved for the treatment of cancer; or palliative treatment or radiotherapy, reflecting local practice.
+They were randomized 2:1 to receive either HALAVEN at a dose of 1.23 mg/m2 on Days 1 and 8 in a 21-day cycle administered intravenously over 2 to 5 minutes, or treatment of physician’s choice (TPC), defined as any single-agent chemotherapy, hormonal treatment, or biologic therapy approved for the treatment of cancer; or palliative treatment or radiotherapy, reflecting local practice.
 The TPC arm consisted of 97% chemotherapy (26% vinorelbine, 18% gemcitabine, 18% capecitabine, 16% taxane, 9% anthracycline, 10% other chemotherapy), or 3% hormonal therapy.
 
 The study met its primary endpoint with an overall survival result that was statistically significantly better in the eribulin group compared to TPC at 55% of events.
@@ -26,7 +26,7 @@ Efficacy of HALAVEN versus Treatment of Physician’s Choice – Updated Surviva
 | --- | --- | --- |
 | Overall Survival |  |  |
 | Number of Events | 386 | 203 |
-| Median 95% CI | 403 days (367,438) | 321 days (281,365 |
+| Median 95% CI | 403 days (367,438) | 321 days (281,365) |
 | Hazard Ratio (95% CI)a (Cox proportional hazards) | 0.805 (0.677, 0.958) |  |
 | Nominal P-value (log-rank)a | 0.014 |  |
 
