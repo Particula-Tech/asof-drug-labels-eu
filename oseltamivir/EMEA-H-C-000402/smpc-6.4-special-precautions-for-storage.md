@@ -2,25 +2,21 @@
 
 Do not store above 25 °C.
 
-Storage of the pharmacy-compounded suspension:
-Room temperature storage conditions: Stable for 3 weeks (21 days) when stored at room temperature
-“do not store above 25 °C”.
+For storage conditions of the pharmacy compounded suspension, see section 6.3.
 
-Refrigerated storage conditions: Stable for 6 weeks when stored at 2 °C - 8 °C.
-
-[Tamiflu 45 mg hard capsule.]
+[Tamiflu 45 mg hard capsules]
 
 (all sentences already above)
 
-[Tamiflu 75 mg hard capsule.]
+[Tamiflu 75 mg hard capsules]
 
 (all sentences already above)
 
-[Tamiflu 6 mg/ml powder for oral suspension.]
+[Tamiflu 6 mg/ml powder for oral suspension]
 
-Powder: Do not store above 30°C.
-After reconstitution, the suspension can be stored at room temperature (not above 25°C) for 10 days.
+Do not store above 30°C.
+For storage conditions after reconstitution of the medicinal product, see section 6.3.
 
-[Tamiflu 12 mg/ml powder for oral suspension.]
+[Tamiflu 12 mg/ml powder for oral suspension]
 
-After reconstitution, the suspension can be stored either at room temperature (not above 25°C) for 10 days or in a refrigerator (2°C - 8°C ) for 17 days.
+(all sentences already above)

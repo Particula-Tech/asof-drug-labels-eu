@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antiviral ATC code: J05AH02
+Pharmacotherapeutic group: Antivirals for systemic use, neuraminidase inhibitors ATC code: J05AH02
 
 Oseltamivir phosphate is a pro-drug of the active metabolite (oseltamivir carboxylate).
 The active metabolite is a selective inhibitor of influenza virus neuraminidase enzymes, which are glycoproteins found on the virion surface.
@@ -13,47 +13,22 @@ Oseltamivir given orally inhibits influenza A and B virus replication and pathog
 Antiviral activity of oseltamivir was supported for influenza A and B by experimental challenge studies in healthy volunteers.
 
 Neuraminidase enzyme IC50 values for oseltamivir for clinically isolated influenza A ranged from 0.1 nM to 1.3 nM, and for influenza B was 2.6 nM.
-Higher IC50 values for influenza B, up to a median of 8.5 nM, have been observed in published trials.
+Higher IC50 values for influenza B, up to a median of 8.5 nM, have been observed in published studies.
 
-Reduced sensitivity of viral neuraminidase
-Clinical studies: The risk of emergence of influenza viruses with reduced susceptibility or frank resistance to oseltamivir has been examined during Roche-sponsored clinical studies.
-All patients who were found to carry oseltamivir-resistant virus did so transiently, cleared the virus normally and showed no clinical deterioration.
-
-| Patient Population | Patients with Resistance Mutations (%) |  |
-| --- | --- | --- |
-|  | Phenotyping* | Geno- and Phenotyping* |
-| Adults and adolescents | 4/1245 (0.32%) | 5/1245 (0.4%) |
-| Children (1-12 years) | 19/464 (4.1%) | 25/464 (5.4%) |
-
-* Full genotyping was not performed in all studies.
-
-There has been no evidence for emergence of drug resistance associated with the use of Tamiflu in clinical studies conducted to date in post-exposure (7 days), post-exposure within household groups (10 days) and seasonal (42 days) prevention of influenza in immunocompetent subjects.
-There was no resistance observed during a 12-week prophylaxis study in immunocompromised subjects.
-
-Clinical and surveillance data: Natural mutations associated with reduced susceptibility to oseltamivir in vitro have been detected in influenza A and B viruses isolated from patients without exposure to oseltamivir.
-Resistant strains selected during oseltamivir treatment have been isolated from both immunocompetent and immunocompromised patients.
-Immunocompromised patients and young children are at a higher risk of developing oseltamivir-resistant virus during treatment.
-
-Oseltamivir-resistant viruses isolated from oseltamivir-treated patients and oseltamivir-resistant laboratory strains of influenza viruses have been found to contain mutations in N1 and N2 neuraminidases.
-Resistance mutations tend to be viral sub-type specific.
-Since 2007 resistance associated H275Y mutation in seasonal H1N1 strains has become widespread.
-The susceptibility to oseltamivir and the prevalence of such viruses appear to vary seasonally and geographically.
-In 2008, H275Y was found in > 99 % of circulating H1N1 influenza isolates in Europe.
-The 2009 H1N1 influenza (“swine flu”) was almost uniformly susceptible to oseltamivir, with only sporadic reports of resistance in connection with both therapeutic and prophylactic regimens.
-
+Clinical studies
 Treatment of influenza infection
 Oseltamivir is effective only against illnesses caused by influenza virus.
 Statistical analyses are therefore presented only for influenza-infected subjects.
-In the pooled treatment study population, which included both influenza-positive and -negative subjects (ITT), primary efficacy was reduced proportional to the number of influenza-negative individuals.
+In the pooled treatment study population, which included both influenza-positive and -negative subjects (ITT), primary efficacy was reduced proportionally to the number of influenza-negative individuals.
 In the overall treatment population, influenza infection was confirmed in 67 % (range 46 % to 74 %) of the recruited patients.
 Of the elderly subjects, 64 % were influenza-positive and of those with chronic cardiac and/or respiratory disease 62 % were influenza-positive.
 In all phase III treatment studies, patients were recruited only during the period in which influenza was circulating in the local community.
 
 Adults and adolescents 13 years of age and older: Patients were eligible if they reported within 36 hours of onset of symptoms, had fever ≥ 37.8 °C, accompanied by at least one respiratory symptom (cough, nasal symptoms or sore throat) and at least one systemic symptom (myalgia, chills/sweats, malaise, fatigue or headache).
 In a pooled analysis of all influenza-positive adults and adolescents
-(N = 2413) enrolled into treatment studies, oseltamivir 75 mg twice daily for 5 days reduced the median duration of influenza illness by approximately one day from 5.2 days (95 % CI 4.9 – 5.5 days) in the placebo group to 4.2 days (95 % CI 4.0 – 4.4 days; p ≤ 0.0001).
+(N = 2,413) enrolled into treatment studies, oseltamivir 75 mg twice daily for 5 days reduced the median duration of influenza illness by approximately one day from 5.2 days (95 % CI 4.9 – 5.5 days) in the placebo group to 4.2 days (95 % CI 4.0 – 4.4 days; p ≤ 0.0001).
 
-The proportion of subjects who developed specified lower respiratory tract complications (mainly bronchitis) treated with antibiotics was reduced from 12.7 % (135/1063) in the placebo group to 8.6 % (116/1350) in the oseltamivir treated population (p = 0.0012).
+The proportion of subjects who developed specified lower respiratory tract complications (mainly bronchitis) treated with antibiotics was reduced from 12.7 % (135/1,063) in the placebo group to 8.6 % (116/1,350) in the oseltamivir treated population (p = 0.0012).
 
 Treatment of influenza in high risk populations: The median duration of influenza illness in elderly subjects (≥ 65 years) and in subjects with chronic cardiac and/or respiratory disease receiving oseltamivir 75 mg twice daily for 5 days was not reduced significantly.
 The total duration of fever was reduced by one day in the groups treated with oseltamivir.
@@ -70,11 +45,12 @@ By day 6 (the last day of treatment) FEV1 had increased by 10.8 % in the oseltam
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with Tamiflu in one or more subsets of the paediatric population in influenza.
 See section 4.2 for information on paediatric use.
+
 Treatment of influenza B infection: Overall, 15 % of the influenza-positive population were infected by influenza B, proportions ranging from 1 to 33 % in individual studies.
 The median duration of illness in influenza B infected subjects did not differ significantly between the treatment groups in individual studies.
 Data from 504 influenza B infected subjects were pooled across all studies for analysis.
-Oseltamivir reduced the time to alleviation of all symptoms by 0.7 days (95 % CI 0.1 – 1.6 days; p = 0.022) and the duration of fever (≥ 37.8 °C), cough and coryza by one day (95 % CI 0.4 – 1.7 days; p < 0.001) compared to placebo.
-
+Oseltamivir reduced the time to alleviation of all symptoms by 0.7 days (95 % CI 0.1 – 1.6 days;
+p = 0.022) and the duration of fever (≥ 37.8 °C), cough and coryza by one day (95 % CI 0.4 – 1.7 days; p < 0.001) compared to placebo.
 Prevention of influenza
 The efficacy of oseltamivir in preventing naturally occurring influenza illness has been demonstrated in a post-exposure prevention study in households and two seasonal prevention studies.
 The primary efficacy parameter for all of these studies was the incidence of laboratory-confirmed influenza.
@@ -98,26 +74,35 @@ Prevention during an influenza epidemic in the community: In a pooled analysis o
 The NNT in this study was 28 (95 % CI 24 – 50).
 A study in elderly residents of nursing homes, where 80 % of participants received vaccine in the season of the study, oseltamivir 75 mg once daily given for 6 weeks significantly reduced the incidence of clinical influenza illness from 12/272 (4.4 %) in the placebo group to 1/276 (0.4 %) in the oseltamivir group (92 % reduction [95 % CI 1.5 – 6.6; p = 0.0015]).
 The NNT in this study was 25 (95 % CI 23 – 62).
-Prophylaxis of influenza in immunocompromised patients: A double-blind, placebo-controlled, randomised study was conducted for seasonal prophylaxis of influenza in 475 immunocompromised subjects (388 subjects with solid organ transplantation [195 placebo; 193 oseltamivir], 87 subjects with hemopoetic stem cell transplantation [43 placebo; 44 oseltamivir], no subject with other immunosuppressant conditions), including 18 children 1 to 12 years of age.
+
+Prophylaxis of influenza in immunocompromised patients: A double-blind, placebo-controlled, randomised study was conducted for seasonal prophylaxis of influenza in 475 immunocompromised patients (388 patients with solid organ transplantation [195 placebo; 193 oseltamivir], 87 patients with hemopoetic stem cell transplantation [43 placebo; 44 oseltamivir], no patient with other immunosuppressant conditions), including 18 children 1 to 12 years of age.
 The primary endpoint in this study was the incidence of laboratory-confirmed clinical influenza as determined by viral culture and/or a four-fold rise in HAI antibodies.
 The incidence of laboratory-confirmed clinical influenza was 2.9 % (7/238) in the placebo group and 2.1 % (5/237) in the oseltamivir group (95 % CI -2.3 % –
 4.1 %; p = 0.772).
+Specific studies have not been conducted to assess the reduction in the risk of complications.
 
-Specific studies have not been conducted to assess of the reduction in the risk of complications.
+Oseltamivir resistance
+Clinical studies: The risk of emergence of influenza viruses with reduced susceptibility or frank resistance to oseltamivir has been examined during Roche-sponsored clinical studies.
+All patients who were found to carry oseltamivir-resistant virus did so transiently, cleared the virus normally and showed no clinical deterioration.
 
-[Tamiflu 45 mg hard capsule.]
+| Patient Population | Patients with Resistance Mutations (%) |  |
+| --- | --- | --- |
+|  | Phenotyping* | Geno- and Phenotyping* |
+| Adults and adolescents | 4/1,245 (0.32%) | 5/1,245 (0.4%) |
+| Children (1-12 years) | 19/464 (4.1%) | 25/464 (5.4%) |
 
-(all sentences already above)
+* Full genotyping was not performed in all studies.
 
-[Tamiflu 75 mg hard capsule.]
+There has been no evidence for emergence of drug resistance associated with the use of Tamiflu in clinical studies conducted to date in post-exposure (7 days), post-exposure within household groups (10 days) and seasonal (42 days) prevention of influenza in immunocompetent patients.
+There was no resistance observed during a 12-week prophylaxis study in immunocompromised patients.
 
-(all sentences already above)
+Clinical and surveillance data: Natural mutations associated with reduced susceptibility to oseltamivir in vitro have been detected in influenza A and B viruses isolated from patients without exposure to oseltamivir.
+Resistant strains selected during oseltamivir treatment have been isolated from both immunocompetent and immunocompromised patients.
+Immunocompromised patients and young children are at a higher risk of developing oseltamivir-resistant virus during treatment.
 
-[Tamiflu 6 mg/ml powder for oral suspension.]
-
-Oseltamivir reduced the time to alleviation of all symptoms by 0.7 days (95 % CI 0.1 – 1.6 days;
-p = 0.022) and the duration of fever (≥ 37.8 °C), cough and coryza by one day (95 % CI 0.4 – 1.7 days; p < 0.001) compared to placebo.
-
-[Tamiflu 12 mg/ml powder for oral suspension.]
-
-Treatment of influenza in children: In a study of otherwise healthy children (65 % influenza-positive) aged 1 to 12 years (mean age 5.3 years) who had fever (≥ 37.8 °C) plus either cough or coryza, 67 % of influenza-positive patients were infected with influenza A and 33 % with influenza B. Oseltamivir treatment, started within 48 hours of onset of symptoms, significantly reduced the duration of time to freedom from illness (defined as the simultaneous return to normal health and activity and alleviation of fever, cough and coryza) by 1.5 days (95 % CI 0.6 – 2.2 days; p < 0.0001) compared to placebo.
+Oseltamivir-resistant viruses isolated from oseltamivir-treated patients and oseltamivir-resistant laboratory strains of influenza viruses have been found to contain mutations in N1 and N2 neuraminidases.
+Resistance mutations tend to be viral sub-type specific.
+Since 2007 resistance associated H275Y mutation in seasonal H1N1 strains has become widespread.
+The susceptibility to oseltamivir and the prevalence of such viruses appear to vary seasonally and geographically.
+In 2008, H275Y was found in > 99 % of circulating H1N1 influenza isolates in Europe.
+The 2009 H1N1 influenza (“swine flu”) was almost uniformly susceptible to oseltamivir, with only sporadic reports of resistance in connection with both therapeutic and prophylactic regimens.

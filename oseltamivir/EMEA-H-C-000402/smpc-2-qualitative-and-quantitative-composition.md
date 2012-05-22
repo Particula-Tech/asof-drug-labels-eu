@@ -1,34 +1,32 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
 Each hard capsule contains oseltamivir phosphate equivalent to 30 mg of oseltamivir.
-For a full list of excipients, see section 6.1.
+For the full list of excipients, see section 6.1.
 
-[Tamiflu 45 mg hard capsule.]
+[Tamiflu 45 mg hard capsules]
 
 Each hard capsule contains oseltamivir phosphate equivalent to 45 mg of oseltamivir.
 
-[Tamiflu 75 mg hard capsule.]
+[Tamiflu 75 mg hard capsules]
 
 Each hard capsule contains oseltamivir phosphate equivalent to 75 mg of oseltamivir.
 
-[Tamiflu 6 mg/ml powder for oral suspension.]
+[Tamiflu 6 mg/ml powder for oral suspension]
 
-1 g of powder for oral suspension contains oseltamivir phosphate equivalent to 30 mg of oseltamivir.
-After reconstitution, each ml of suspension contains 6 mg oseltamivir.
-One bottle of reconstituted suspension (65 ml) contains 390 mg of active substance (oseltamivir).
+Each ml of reconstituted suspension contains 6 mg oseltamivir.
+One bottle of reconstituted suspension (65 ml) contains 390 mg of oseltamivir.
 
-A bottle of 13 g Tamiflu powder for oral suspension contains 11.142 g of sorbitol.
+Excipients with known effect:
 5 ml oseltamivir suspension delivers 0.9 g of sorbitol.
 7.5 ml oseltamivir suspension delivers 1.3 g of sorbitol.
 10 ml oseltamivir suspension delivers 1.7 g of sorbitol.
 12.5 ml oseltamivir suspension delivers 2.1 g of sorbitol.
 
-[Tamiflu 12 mg/ml powder for oral suspension.]
+[Tamiflu 12 mg/ml powder for oral suspension]
 
-After reconstitution, each ml of suspension contains 12 mg oseltamivir.
-One bottle of reconstituted suspension (75 ml) contains 900 mg of active substance (oseltamivir).
+Each ml of reconstituted suspension contains 12 mg oseltamivir.
+One bottle of reconstituted suspension (75 ml) contains 900 mg of oseltamivir.
 
-A bottle of 30 g Tamiflu powder for oral suspension contains 25.713 g of sorbitol.
 30 mg oseltamivir suspension delivers 0.9 g of sorbitol.
 45 mg oseltamivir suspension delivers 1.3 g of sorbitol.
 60 mg oseltamivir suspension delivers 1.7 g of sorbitol.
