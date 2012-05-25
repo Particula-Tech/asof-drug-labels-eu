@@ -2,7 +2,8 @@
 
 Pharmacotherapeutic group: Angiotensin II Antagonists, plain, ATC Code: C09CA07.
 
-Mechanism of action:
+Mechanism of action
+
 Telmisartan is an orally active and specific angiotensin II receptor (type AT1) antagonist.
 Telmisartan displaces angiotensin II with very high affinity from its binding site at the AT1 receptor subtype, which is responsible for the known actions of angiotensin II.
 Telmisartan does not exhibit any partial agonist activity at the AT1 receptor.
@@ -17,7 +18,7 @@ Therefore it is not expected to potentiate bradykinin-mediated adverse effects.
 In human, an 80 mg dose of telmisartan almost completely inhibits the angiotensin II evoked blood pressure increase.
 The inhibitory effect is maintained over 24 hours and still measurable up to 48 hours.
 
-Clinical efficacy and safety:
+Clinical efficacy and safety
 
 Treatment of essential hypertension
 After the first dose of telmisartan, the antihypertensive activity gradually becomes evident within 3 hours.

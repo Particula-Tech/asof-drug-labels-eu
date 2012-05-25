@@ -1,6 +1,6 @@
 # 4.6 Fertility, pregnancy and lactation
 
-Pregnancy:
+Pregnancy
 
 The use of angiotensin II receptor antagonists is not recommended during the first trimester of pregnancy (see section 4.4).
 The use of angiotensin II receptor antagonists is contraindicated during the second and third trimesters of pregnancy (see sections 4.3 and 4.4).
@@ -17,8 +17,9 @@ Exposure to angiotensin II receptor antagonist therapy during the second and thi
 (See section 5.3).
 Should exposure to angiotensin II receptor antagonists have occurred from the second trimester of pregnancy, ultrasound check of renal function and skull is recommended.
 Infants whose mothers have taken angiotensin II receptor antagonists should be closely observed for hypotension (see sections 4.3 and 4.4).
-Breastfeeding:
+
+Breast-feeding
 Because no information is available regarding the use of Micardis during breast-feeding, Micardis is not recommended and alternative treatments with better established safety profiles during breast-feeding are preferable, especially while nursing a newborn or preterm infant.
 
-Fertility:
+Fertility
 In preclinical studies, no effects of Micardis on male and female fertility were observed.

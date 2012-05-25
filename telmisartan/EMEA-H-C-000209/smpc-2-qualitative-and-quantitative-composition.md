@@ -2,11 +2,11 @@
 
 Each tablet contains 20 mg telmisartan.
 
-Excipients:
+Excipients with known effect:
 
 Each tablet contains 84 mg sorbitol (E420).
 
-For a full list of excipients, see section 6.1.
+For the full list of excipients, see section 6.1.
 
 [Micardis 40 mg tablets]
 
