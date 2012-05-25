@@ -1,5 +1,7 @@
 # 4.4 Special warnings and precautions for use
 
+In order to improve traceability of biological medicinal products, the tradename of the administered product should be clearly recorded (or stated) in the patient file.
+
 Progressive multifocal leukoencephalopathy
 
 All patients treated with MabThera for rheumatoid arthritis must be given the patient alert card with each infusion (see end of Annex IIIA - Labelling).
@@ -73,6 +75,7 @@ The majority of these subjects were also exposed to cytotoxic chemotherapy.
 Limited information from one study in relapsed/refractory CLL patients suggests that MabThera treatment may also worsen the outcome of primary hepatitis B infections.
 Hepatitis B virus (HBV) screening should always be performed in patients at risk of infection with HBV before initiation of treatment with MabThera.
 Carriers of hepatitis B and patients with a history of hepatitis B should be closely monitored for clinical and laboratory signs of active HBV infection during and for several months (up to seven) following MabThera therapy.
+
 Very rare cases of progressive multifocal leukoencephalopathy (PML) have been reported during post-marketing use of MabThera in NHL and CLL (see section 4.8).
 The majority of patients had received rituximab in combination with chemotherapy or as part of a hematopoietic stem cell transplant.
 
@@ -132,6 +135,9 @@ Cases of hepatitis B reactivation, including those with a fatal outcome, have be
 Hepatitis B virus (HBV) screening should always be performed in patients at risk of infection with HBV before initiation of treatment with MabThera.
 Carriers of hepatitis B and patients with a history of hepatitis B should be closely monitored for clinical and laboratory signs of active HBV infection during, and for several months following, MabThera therapy.
 
+Late neutropenia
+Measure blood neutrophils prior to each course of MabThera, and regularly up to 6-months after cessation of treatment, and upon signs or symptoms of infection (see section 4.8).
+
 Immunization
 Physicians should review the patient’s vaccination status and follow current immunization guidelines prior to MabThera therapy.
 Vaccination should be completed at least 4 weeks prior to first administration of MabThera.
@@ -145,6 +151,7 @@ In a randomized study, patients with RA treated with MabThera and methotrexate h
 Should non-live vaccinations be required whilst receiving MabThera therapy, these should be completed at least 4 weeks prior to commencing the next course of MabThera.
 
 In the overall experience of MabThera repeat treatment over one year, the proportions of patients with positive antibody titers against S. pneumoniae, influenza, mumps, rubella, varicella and tetanus toxoid were generally similar to the proportions at baseline.
+
 Concomitant/sequential use of other DMARDs
 The concomitant use of MabThera and antirheumatic therapies other than those specified under the rheumatoid arthritis indication and posology is not recommended.
 

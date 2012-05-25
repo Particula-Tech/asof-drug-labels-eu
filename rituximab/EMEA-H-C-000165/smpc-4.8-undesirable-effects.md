@@ -29,7 +29,7 @@ Table 1 ADRs reported in clinical trials or during postmarketing surveillance in
 | --- | --- | --- | --- | --- | --- | --- |
 | Infections and infestations | bacterial infections, viral infections, +bronchitis | sepsis, +pneumonia, +febrile infection, +herpes zoster, +respiratory tract infection, fungal infections, infections of unknown aetiology, +acute bronchitis, +sinusitis, hepatitis B1 |  | serious viral infection2 |  | , |
 | Blood and lymphatic system disorders | neutropenia, leucopenia, +febrile neutropenia, +thrombocyt openia | anaemia, +pancytopenia, +granulocytopeni a | coagulation disorders, aplastic anaemia, haemolytic anaemia, lymphadenopa thy |  | transient increase in serum IgM levels3 | late neutropenia3 |
-| Immune system disorders | infusion related reactions4, angioedema | hypersensitivity |  | anaphylaxis | tumour lysis syndrome, cytokine release syndrome4, serum sickness | infusion-related acute reversible t4hrombocytopenia |
+| Immune system disorders | infusion related reactions4, angioedema | hypersensitivity |  | anaphylaxis | tumour lysis syndrome, cytokine release syndrome4, serum sickness | infusion-related acute reversible 4thrombocytopenia |
 | Metabolism and nutrition disorders |  | hyperglycaemia, weight decrease, peripheral oedema, face oedema, increased LDH, hypocalcaemia |  |  |  |  |
 | Psychiatric disorders |  |  | depression, nervousness, |  |  |  |
 | Nervous system disorders |  | paraesthesia, hypoaesthesia, agitation, insomnia, vasodilatation, dizziness, anxiety | dysgeusia |  | peripheral neuropathy, facial nerve palsy5 | cranial neuropathy, loss of other senses5 |
@@ -158,9 +158,9 @@ Table 2 Summary of adverse drug reactions reported in clinical trials or during 
 | System Organ Class | Very Common | Common | Uncommon | Rare | Very rare |
 | --- | --- | --- | --- | --- | --- |
 | Infections and Infestations | upper respiratory tract infection, urinary tract infections | Bronchitis, sinusitis, gastroenteritis, tinea pedis |  |  | PML, reactivation of hepatitis B |
-| Blood and lymphatic system disorders |  |  |  |  | Serum sickness-like reaction |
+| Blood and lymphatic system disorders |  | neutropenia1 |  | late neutropenia2 | Serum sickness-like reaction |
 | Cardiac Disorders |  |  |  | Angina pectoris, atrial fibrillation, heart failure, myocardial infarction | Atrial flutter |
-| Immune System Disorders | *Infusion related reactions (hypertension, nausea, rash, pyrexia, pruritis, urticaria, throat irritation, hot flush, hypotension, rhinitis, rigors, tachycardia, fatigue, oropharyngeal pain, peripheral oedema, erythema) |  | *Infusion related reactions (generalized oedema, bronchospasm, wheezing, laryngeal oedema, angioneurotic oedema, generalized pruritis, anaphylaxis, anaphylactoid reaction) |  |  |
+| Immune System Disorders | 3Infusion related reactions (hypertension, nausea, rash, pyrexia, pruritis, urticaria, throat irritation, hot flush, hypotension, rhinitis, rigors, tachycardia, fatigue, oropharyngeal pain, peripheral oedema, erythema) |  | *Infusion related reactions (generalized oedema, bronchospasm, wheezing, laryngeal oedema, angioneurotic oedema, generalized pruritis, anaphylaxis, anaphylactoid reaction) |  |  |
 | General disorders and administration site conditions |  |  |  |  |  |
 | Metabolism and Nutritional Disorders |  | hypercholesterolemia |  |  |  |
 | Nervous System disorders | headache | paraesthesia, migraine, dizziness, sciatica |  |  |  |
@@ -168,15 +168,14 @@ Table 2 Summary of adverse drug reactions reported in clinical trials or during 
 | Psychiatric Disorders |  | depression, anxiety |  |  |  |
 | Gastrointestinal Disorders |  | Dyspepsia, diarrhoea, gastro-oesophageal reflux, mouth ulceration, upper abdominal pain |  |  |  |
 | Musculo skeletal disorders |  | arthralgia / musculoskeletal pain, osteoarthritis , bursitis |  |  |  |
-
-*Reactions occurring during or within 24 hours of infusion.
-See also infusion-related reactions below.
-Infusion related reactions may occur as a result of hypersensitivity and/or to the mechanism of action.
+| Investigations | decreased IgM levels4 | decreased IgG levels4 |  |  |  |
+| 1 Frequency category derived from laboratory values collected as part of routine laboratory monitoring.in clinical trials 2 Frequency category derived from post-marketing data. 3 Reactions occurring during or within 24 hours of infusion. See also infusion-related reactions below. Infusion related reactions may occur as a result of hypersensitivity and/or to the mechanism of action. 4 Includes observations collected as part of routine laboratory monitoring. |  |  |  |  |  |
 
 Multiple courses
 Multiple courses of treatment are associated with a similar ADR profile to that observed following first exposure.
 The rate of all ADRs following first MabThera exposure was highest during the first 6 months and declined thereafter.
 This is mostly accounted for by infusion-related reactions (most frequent during the first treatment course), RA exacerbation and infections, all of which were more frequent in the first 6 months of treatment.
+
 Infusion-related reactions
 The most frequent ADRs following receipt of MabThera in clinical studies were infusion-related reactions (IRRs) (refer to Table 2).
 Among the 3189 patients treated with MabThera, 1135 (36%) experienced at least one IRR with 733/3189 (23%) of patients experiencing an IRR following first infusion of the first exposure to MabThera.
@@ -203,6 +202,19 @@ Cardiovascular
 Serious cardiac events were reported at a rate of 1.3 per 100 patient years in the MabThera treated patients compared to 1.3 per 100 patients years in placebo treated patients.
 The proportions of patients experiencing cardiac events (all or serious) did not increase over multiple courses.
 
+Neutropenia
+
+Events of neutropenia were observed with MabThera treatment, the majority of which were transient and mild or moderate in severity.
+Neutropenia can occur several months after the administration of MabThera (see section 4.4).
+
+In placebo-controlled periods of clinical trials, 0.94% (13/1382) of rituximab treated patients and 0.27% (2/731) of placebo patients developed severe neutropenia.
+
+Neutropenic events, including severe late onset and persistent neutropenia, have been rarely reported in the post-marketing setting, some of which were associated with fatal infections
+Laboratory abnormalities
+
+Hypogammaglobulinaemia (IgG or IgM below the lower limit of normal) has been observed in RA patients treated with MabThera.
+There was no increased rate in overall infections or serious infections after the development of low IgG or IgM (see section 4.4).
+
 [MabThera 500 mg concentrate for solution for infusion]
 
 The incidence of infusion-related symptoms decreases substantially with subsequent infusions and is less than 1% after eight doses of MabThera.
@@ -213,7 +225,7 @@ Infectious events (predominantly bacterial and viral) occurred in approximately 
 | --- | --- | --- | --- | --- | --- | --- |
 | Infections and infestations | bacterial infections, viral infections, +bronchitis | sepsis, +pneumonia, +febrile infection, +herpes zoster, +respiratory tract infection, fungal infections, infections of unknown aetiology, +acute bronchitis, +sinusitis, hepatitis B1 |  | serious viral infection2 |  |  |
 | Blood and lymphatic system disorders | neutropenia, leucopenia, +febrile neutropenia, +thrombocyt openia | anaemia, +pancytopenia, +granulocytopeni a | coagulation disorders, aplastic anaemia, haemolytic anaemia, lymphadenopa thy |  | transient increase in serum IgM levels3 | late neutropenia3 |
-| Immune system disorders | infusion related reactions4, angioedema | hypersensitivity |  | anaphylaxis | tumour lysis syndrome, cytokine release syndrome4, serum sickness | infusion-related acute reversible t4hrombocytopenia |
+| Immune system disorders | infusion related reactions4, angioedema | hypersensitivity |  | anaphylaxis | tumour lysis syndrome, cytokine release syndrome4, serum sickness | infusion-related acute reversible 4thrombocytopenia |
 | Metabolism and nutrition disorders |  | hyperglycaemia, weight decrease, peripheral oedema, face oedema, increased LDH, hypocalcaemia |  |  |  |  |
 | Psychiatric disorders |  |  | depression, nervousness, |  |  |  |
 | Nervous system disorders |  | paraesthesia, hypoaesthesia, agitation, insomnia, vasodilatation, dizziness, anxiety | dysgeusia |  | peripheral neuropathy, facial nerve palsy5 | cranial neuropathy8, loss of other senses5 |
@@ -245,9 +257,9 @@ The most frequent adverse reactions considered due to receipt of MabThera infusi
 | System Organ Class | Very Common | Common | Uncommon | Rare | Very rare |
 | --- | --- | --- | --- | --- | --- |
 | Infections and Infestations | upper respiratory tract infection, urinary tract infections | Bronchitis, sinusitis, gastroenteritis, tinea pedis |  |  | PML, reactivation of hepatitis B |
-| Blood and lymphatic system disorders |  |  |  |  | Serum sickness-like reaction |
+| Blood and lymphatic system disorders |  | neutropenia1 |  | late neutropenia2 | Serum sickness-like reaction |
 | Cardiac Disorders |  |  |  | Angina pectoris, atrial fibrillation, heart failure, myocardial infarction | Atrial flutter |
-| Immune System Disorders | *Infusion related reactions (hypertension, nausea, rash, pyrexia, pruritus, urticaria, throat irritation, hot flush, hypotension, rhinitis, rigors, tachycardia, fatigue, oropharyngeal pain, peripheral oedema, erythma) |  | *Infusion related reactions (generalized oedema, bronchospasm, wheezing, laryngeal oedema, angioneurotic oedema, generalized pruritis, anaphylaxis, anaphylactoid reaction) |  |  |
+| Immune System Disorders | 3Infusion related reactions (hypertension, nausea, rash, pyrexia, pruritus, urticaria, throat irritation, hot flush, hypotension, rhinitis, rigors, tachycardia, fatigue, oropharyngeal pain, peripheral oedema, erythma) |  | *Infusion related reactions (generalized oedema, bronchospasm, wheezing, laryngeal oedema, angioneurotic oedema, generalized pruritis, anaphylaxis, anaphylactoid reaction) |  |  |
 | General disorders and administration site conditions |  |  |  |  |  |
 | Metabolism and Nutritional Disorders |  | hypercholesterolemia |  |  |  |
 | Nervous System disorders | headache | paraesthesia, migraine, dizziness, sciatica |  |  |  |
@@ -255,8 +267,11 @@ The most frequent adverse reactions considered due to receipt of MabThera infusi
 | Psychiatric Disorders |  | depression, anxiety |  |  |  |
 | Gastrointestinal Disorders |  | dyspepsia, diarrhoea, gastro-oesophageal reflux, mouth ulceration, upper abdominal pain |  |  |  |
 | Musculo skeletal disorders |  | arthralgia / musculoskeletal pain, osteoarthritis, bursitis |  |  |  |
+| Investigations | decreased IgM levels4 | decreased IgG levels4 |  |  |  |
+| 1 Frequency category derived from laboratory values collected as part of routine laboratory monitoring.in clinical trials 2 Frequency category derived from post-marketing data. 3 Reactions occurring during or within 24 hours of infusion. See also infusion-related reactions below. Infusion related reactions may occur as a result of hypersensitivity and/or to the mechanism of action. 4 Includes observations collected as part of routine laboratory monitoring. |  |  |  |  |  |
 
 This is mostly accounted for by infusion-related reactions (most frequent during the first treatment course), RA exacerbation and infections all of which were more frequent in the first 6 months of treatment.
+
 The incidence of IRRs decline with subsequent infusions.
 There were no CTC Grade 4 IRRs and no deaths due to IRRs in the clinical studies.
 

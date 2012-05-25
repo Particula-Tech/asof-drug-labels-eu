@@ -1,4 +1,4 @@
-# 6.6 Special precautions for disposal
+# 6.6 Special precautions for disposal and other handling
 
 MabThera is provided in sterile, preservative-free, non-pyrogenic, single use vials.
 
@@ -8,7 +8,7 @@ Care must be taken to ensure the sterility of prepared solutions.
 Since the medicinal product does not contain any anti-microbial preservative or bacteriostatic agents, aseptic technique must be observed.
 Parenteral medicinal products should be inspected visually for particulate matter and discoloration prior to administration.
 
-Any unused product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 [MabThera 500 mg concentrate for solution for infusion]
 
