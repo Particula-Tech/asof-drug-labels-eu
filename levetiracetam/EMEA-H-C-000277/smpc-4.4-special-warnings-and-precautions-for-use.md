@@ -50,5 +50,5 @@ In accordance with current clinical practice, if Keppra has to be discontinued i
 
 Therefore patients should be monitored for signs of depression and/or suicidal ideation and behaviours and appropriate treatment should be considered.
 
-This medicinal product contains 2.5 mmol (or 57 mg) sodium per maximum single dose.
+This medicinal product contains 2.5 mmol (or 57 mg) sodium per maximum single dose (0.8 mmol (or 19 mg) per vial).
 To be taken into consideration by patients on a controlled sodium diet.

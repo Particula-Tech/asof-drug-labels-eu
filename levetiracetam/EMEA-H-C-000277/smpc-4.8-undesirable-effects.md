@@ -16,27 +16,25 @@ The frequency is defined as follows: very common (≥1/10); common (≥1/100 to 
 | --- | --- | --- | --- | --- |
 |  | Very common | Common | Uncommon | Rare |
 | Infections and infestations | Nasopharyngitis |  |  | Infection |
-| Blood and lymphatic system disorders |  |  | Thrombocytopenia, leukopenia(1) | Pancytopenia (1,2), neutropenia(1) |
-| Metabolism and nutrition disorders |  | Anorexia | Weight decreased (1), weight increase |  |
-| Psychiatric disorders |  | Depression, hostility/ aggression, anxiety(1), insomnia, nervousness/irritability | Suicide attempt(1), suicidal ideation(1), psychotic disorder(1), abnormal behaviour(1), hallucination(1), anger(1), confusional state (1), affect lability/mood swings, agitation | Completed suicide(1), personality disorder, thinking abnormal |
-| Nervous system disorders | Somnolence, headache | Convulsion, balance disorder, dizziness, lethargy, tremor | Amnesia, memory impairment, coordination abnormal/ataxia, paraesthesia(1), disturbance in attention | Choreoathetosis(1) , dyskinesia(1), hyperkinesia |
+| Blood and lymphatic system disorders |  |  | Thrombocytopenia, leukopenia | Pancytopenia, neutropenia |
+| Metabolism and nutrition disorders |  | Anorexia | Weight decreased , weight increase |  |
+| Psychiatric disorders |  | Depression, hostility/ aggression, anxiety, insomnia, nervousness/irritability | Suicide attempt, suicidal ideation, psychotic disorder, abnormal behaviour, hallucination, anger, confusional state , panic attack, affect lability/mood swings, agitation | Completed suicide, personality disorder, thinking abnormal |
+| Nervous system disorders | Somnolence, headache | Convulsion, balance disorder, dizziness, lethargy, tremor | Amnesia, memory impairment, coordination abnormal/ataxia, paraesthesia, disturbance in attention | Choreoathetosis, dyskinesia, hyperkinesia |
 | Eye disorders |  |  | Diplopia, vision blurred |  |
 | Ear and labyrinth disorders |  | Vertigo |  |  |
 | Respiratory, thoracic and mediastinal disorders |  | Cough |  |  |
-| Gastrointestinal disorders |  | Abdominal pain, diarrhoea, dyspepsia, vomiting, nausea |  | Pancreatitis(1) |
-| Hepatobiliary disorders |  |  | Liver function test abnormal(1) | Hepatic failure(1), hepatitis(1) |
-| Skin and subcutaneous tissue disorders |  | Rash | Alopecia(1), eczema, pruitus, | Toxic epidermal necrolysis(1), Stevens-Johnson syndrome(1), erythema multiforme(1) |
+| Gastrointestinal disorders |  | Abdominal pain, diarrhoea, dyspepsia, vomiting, nausea |  | Pancreatitis |
+| Hepatobiliary disorders |  |  | Liver function test abnormal | Hepatic failure, hepatitis |
+| Skin and subcutaneous tissue disorders |  | Rash | Alopecia, eczema, pruritus, | Toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme |
 | Musculoskeletal and connective tissue disorders |  |  | Muscular weakness, myalgia |  |
 | General disorders and administration site conditions |  | Asthenia/fatigue |  |  |
 | Injury, poisoning and procedural complications |  |  | Injury |  |
-| (1) Adverse reactions added during post marketing experience. |  |  |  |  |
-
-(2) Bone marrow suppression identified in some of the cases.
 
 Description of selected adverse reactions
 
 The risk of anorexia is higher when topiramate is coadministered with levetiracetam.
 In several cases of alopecia, recovery was observed when levetiracetam was discontinued.
+Bone marrow suppression was identified in some of the cases of pancytopenia.
 
 Paediatric population
 
@@ -74,22 +72,21 @@ However subjects, who took Keppra in the long-term open label follow-up study, d
 | --- | --- | --- | --- | --- |
 |  | Very common | Common | Uncommon | Rare |
 | Infections and infestations | Nasopharyngitis |  |  | Infection |
-| Blood and lymphatic system disorders |  |  | Thrombocytopenia, leukopenia(1) | Pancytopenia (1,2), neutropenia(1) |
-| Metabolism and nutrition disorders |  | Anorexia | Weight decreased (1), weight increase |  |
-| Psychiatric disorders |  | Depression, hostility/ aggression, anxiety(1), insomnia, nervousness/irritability | Suicide attempt(1), suicidal ideation(1), psychotic disorder(1), abnormal behaviour(1), hallucination(1), anger(1), confusional state (1), affect lability/mood swings, agitation | Completed suicide(1), personality disorder, thinking abnormal |
-| Nervous system disorders | Somnolence, headache | Convulsion, balance disorder, dizziness, lethargy, tremor | Amnesia, memory impairment, coordination abnormal/ataxia, paraesthesia(1), disturbance in attention | Choreoathetosis(1) , dyskinesia(1), hyperkinesia |
-| Eye disorders |  |  | Diplopia, vision |  |
+| Blood and lymphatic system disorders |  |  | Thrombocytopenia, leukopenia | Pancytopenia, neutropenia |
+| Metabolism and nutrition disorders |  | Anorexia | Weight decreased , weight increase |  |
+| Psychiatric disorders |  | Depression, hostility/ aggression, anxiety, insomnia, nervousness/irritability | Suicide attempt, suicidal ideation, psychotic disorder, abnormal behaviour, hallucination, anger, confusional state , panic attack, affect lability/mood swings, agitation | Completed suicide, personality disorder, thinking abnormal |
+| Nervous system disorders | Somnolence, headache | Convulsion, balance disorder, dizziness, lethargy, tremor | Amnesia, memory impairment, coordination abnormal/ataxia, | Choreoathetosis, dyskinesia, hyperkinesia |
 |  | Very common | Common | Uncommon | Rare |
-|  |  |  | blurred |  |
+|  |  |  | paraesthesia, disturbance in attention |  |
+| Eye disorders |  |  | Diplopia, vision blurred |  |
 | Ear and labyrinth disorders |  | Vertigo |  |  |
 | Respiratory, thoracic and mediastinal disorders |  | Cough |  |  |
-| Gastrointestinal disorders |  | Abdominal pain, diarrhoea, dyspepsia, vomiting, nausea |  | Pancreatitis(1) |
-| Hepatobiliary disorders |  |  | Liver function test abnormal(1) | Hepatic failure(1), hepatitis(1) |
-| Skin and subcutaneous tissue disorders |  | Rash | Alopecia(1), eczema, pruitus, | Toxic epidermal necrolysis(1), Stevens-Johnson syndrome(1), erythema multiforme(1) |
+| Gastrointestinal disorders |  | Abdominal pain, diarrhoea, dyspepsia, vomiting, nausea |  | Pancreatitis |
+| Hepatobiliary disorders |  |  | Liver function test abnormal | Hepatic failure, hepatitis |
+| Skin and subcutaneous tissue disorders |  | Rash | Alopecia, eczema, pruritus, | Toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme |
 | Musculoskeletal and connective tissue disorders |  |  | Muscular weakness, myalgia |  |
 | General disorders and administration site conditions |  | Asthenia/fatigue |  |  |
 | Injury, poisoning and procedural complications |  |  | Injury |  |
-| (1) Adverse reactions added during post marketing experience. (2) Bone marrow suppression identified in some of the cases. |  |  |  |  |
 
 [Keppra 100 mg/ml concentrate for solution for infusion]
 
@@ -99,19 +96,18 @@ Since there was limited exposure for Keppra intravenous use and since oral and i
 | --- | --- | --- | --- | --- |
 |  | Very common | Common | Uncommon | Rare |
 | Infections and infestations | Nasopharyngitis |  |  | Infection |
-| Blood and lymphatic system disorders |  |  | Thrombocytopenia, leukopenia(1) | Pancytopenia (1,2), neutropenia(1) |
-| Metabolism and nutrition disorders |  | Anorexia | Weight decreased (1), weight increase |  |
-| Psychiatric disorders |  | Depression, hostility/ aggression, anxiety(1), insomnia, | Suicide attempt(1), suicidal ideation(1), psychotic disorder(1), | Completed suicide(1), personality |
+| Blood and lymphatic system disorders |  |  | Thrombocytopenia, leukopenia | Pancytopenia, neutropenia |
+| Metabolism and nutrition disorders |  | Anorexia | Weight decreased , weight increase |  |
+| Psychiatric disorders |  | Depression, hostility/ aggression, anxiety, insomnia, | Suicide attempt, suicidal ideation, psychotic disorder, | Completed suicide, personality |
 |  | Very common | Common | Uncommon | Rare |
-|  |  | nervousness/irritability | abnormal behaviour(1), hallucination(1), anger(1), confusional state (1), affect lability/mood swings, agitation | disorder, thinking abnormal |
-| Nervous system disorders | Somnolence, headache | Convulsion, balance disorder, dizziness, lethargy, tremor | Amnesia, memory impairment, coordination abnormal/ataxia, paraesthesia(1), disturbance in attention | Choreoathetosis(1) , dyskinesia(1), hyperkinesia |
+|  |  | nervousness/irritability | abnormal behaviour, hallucination, anger, confusional state , panic attack, affect lability/mood swings, agitation | disorder, thinking abnormal |
+| Nervous system disorders | Somnolence, headache | Convulsion, balance disorder, dizziness, lethargy, tremor | Amnesia, memory impairment, coordination abnormal/ataxia, paraesthesia, disturbance in attention | Choreoathetosis, dyskinesia, hyperkinesia |
 | Eye disorders |  |  | Diplopia, vision blurred |  |
 | Ear and labyrinth disorders |  | Vertigo |  |  |
 | Respiratory, thoracic and mediastinal disorders |  | Cough |  |  |
-| Gastrointestinal disorders |  | Abdominal pain, diarrhoea, dyspepsia, vomiting, nausea |  | Pancreatitis(1) |
-| Hepatobiliary disorders |  |  | Liver function test abnormal(1) | Hepatic failure(1), hepatitis(1) |
-| Skin and subcutaneous tissue disorders |  | Rash | Alopecia(1), eczema, pruitus, | Toxic epidermal necrolysis(1), Stevens-Johnson syndrome(1), erythema multiforme(1) |
+| Gastrointestinal disorders |  | Abdominal pain, diarrhoea, dyspepsia, vomiting, nausea |  | Pancreatitis |
+| Hepatobiliary disorders |  |  | Liver function test abnormal | Hepatic failure, hepatitis |
+| Skin and subcutaneous tissue disorders |  | Rash | Alopecia, eczema, pruritus, | Toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme |
 | Musculoskeletal and connective tissue disorders |  |  | Muscular weakness, myalgia |  |
 | General disorders and administration site conditions |  | Asthenia/fatigue |  |  |
 | Injury, poisoning and procedural complications |  |  | Injury |  |
-| (1) Adverse reactions added during post marketing experience. (2) Bone marrow suppression identified in some of the cases. |  |  |  |  |

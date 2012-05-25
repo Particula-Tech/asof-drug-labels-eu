@@ -1,6 +1,6 @@
 # 6.6 Special precautions for disposal
 
-No special requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 [Keppra 500 mg film-coated tablets]
 
@@ -43,4 +43,3 @@ Diluents:
 - Dextrose 5% injection
 
 Medicinal product with particulate matter or discoloration should not be used.
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

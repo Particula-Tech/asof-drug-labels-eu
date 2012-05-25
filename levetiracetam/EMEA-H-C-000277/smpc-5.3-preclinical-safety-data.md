@@ -18,6 +18,9 @@ A peri- and post-natal development study was performed in rats with levetiraceta
 The NOAEL was ≥ 1800 mg/kg/day for the F0 females, and for the survival, growth and development of the F1 offspring up to weaning (x 6 the MRHD on a mg/m2 basis).
 
 Neonatal and juvenile animal studies in rats and dogs demonstrated that there were no adverse effects seen in any of the standard developmental or maturation endpoints at doses up to 1800 mg/kg/day (x 6 – 17 the MRHD on a mg/m2 basis).
+Environmental Risk Assessment (ERA)
+
+The use of Keppra in accordance with the product information is not likely to result in an unacceptable environmental impact (see section 6.6).
 
 [Keppra 500 mg film-coated tablets]
 

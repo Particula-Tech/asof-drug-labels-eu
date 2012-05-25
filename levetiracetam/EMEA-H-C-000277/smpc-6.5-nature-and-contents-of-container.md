@@ -1,19 +1,19 @@
 # 6.5 Nature and contents of container
 
-Aluminium/PVC blisters placed into cardboard boxes containing 20, 30, 50, 60, 100 and 200 (2 x 100) film-coated tablets.
+Aluminium/PVC blisters placed into cardboard boxes containing 20, 30, 50, 60, 100 film-coated tablets and multipacks containing 200 (2 packs of 100) film-coated tablets.
 Not all pack sizes may be marketed.
 
 [Keppra 500 mg film-coated tablets]
 
-Aluminium/PVC blisters placed into cardboard boxes containing 10, 20, 30, 50, 60, 100, 120 and 200 (2 x 100) film-coated tablets.
+Aluminium/PVC blisters placed into cardboard boxes containing 10, 20, 30, 50, 60, 100, 120 film-coated tablets and multipacks containing 200 (2 packs of 100) film-coated tablets.
 
 [Keppra 750 mg film-coated tablets]
 
-Aluminium/PVC blisters placed into cardboard boxes containing 20, 30, 50, 60, 80, 100 and 200 (2 x 100) film-coated tablets.
+Aluminium/PVC blisters placed into cardboard boxes containing 20, 30, 50, 60, 80, 100 film-coated tablets and multipacks containing 200 (2 packs of 100) film-coated tablets.
 
 [Keppra 1000 mg film-coated tablets]
 
-Aluminium/PVC blisters placed into cardboard boxes containing 10, 20, 30, 50, 60, 100 and 200 (2 x 100) film-coated tablets.
+Aluminium/PVC blisters placed into cardboard boxes containing 10, 20, 30, 50, 60, 100 film-coated tablets and multipacks containing 200 (2 packs of 100) film-coated tablets.
 
 [Keppra 100 mg/ml oral solution]
 
