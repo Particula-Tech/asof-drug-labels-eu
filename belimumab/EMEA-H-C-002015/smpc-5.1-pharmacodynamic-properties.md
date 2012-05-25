@@ -50,44 +50,28 @@ Background medicinal products included corticosteroids (96%; >7.5 mg/day 69%), i
 At baseline 52% of patients had high disease activity (SELENA SLEDAI score >10), 59% of patients had mucocutaneous, 60% had musculoskeletal, 16% had haematological, 11% had renal and 9% had vascular organ domain involvement (BILAG A or B at baseline).
 
 The primary efficacy endpoint was a composite endpoint (SLE Responder Index) that defined response as meeting each of the following criteria at Week 52 compared with baseline:
-•
-≥4-point reduction in the SELENA-SLEDAI score, and • no new British Isles Lupus Assessment Group (BILAG) A organ domain score or 2 new BILAG B organ domain scores, and • no worsening (>0.30 point increase) in Physician’s Global Assessment score (PGA)
+
+- ≥4-point reduction in the SELENA-SLEDAI score, and
+- no new British Isles Lupus Assessment Group (BILAG) A organ domain score or 2 new BILAG B organ domain scores, and
+- no worsening (>0.30 point increase) in Physician’s Global Assessment score (PGA)
 
 The SLE Responder Index measures improvement in SLE disease activity, without worsening in any organ system, or in the patient’s overall condition.
 
 Table 1: Response Rate at Week 52
 
-BLISS-76 BLISS-52 BLISS-76 and BLISS-52
-Pooled
-Benlysta Benlysta Benlysta
-Placebo* 10 mg/kg* Placebo* 10 mg/kg* Placebo* 10 mg/kg*
-Response (n=275) (n=273) (n=287) (n=290) (n=562) (n=563)
-SLE 33.8% 43.2% 43.6% 57.6% 38.8% 50.6%
-Responder (p=0.021) (p=0.0006) (p<0.0001)
-Index
-Observed 9.4% 14.0% 11.8%
-difference vs
-placebo
-Odds ratio 1.52 1.83 1.68
-(95% CI) vs (1.07, 2.15) (1.30,2.59) (1.32,2.15)
-placebo
-Components of SLE Responder Index
-Percent of 35.6% 46.9% 46.0% 58.3% 40.9% 52.8%
-patients with (p=0.006 (p= 0.0024) (p<0.0001)
-reduction in
-SELENA-
-SLEDAI ≥4
-Percent of 65.1% 69.2% 73.2% 81.4% 69.2% 75.5%
-patients with (p=0.32) (p=0.018) (p=0.019)
-no worsening
-by BILAG
-index
-Percent of 62.9% 69.2% 69.3% 79.7% 66.2% 74.6%
-patients with (p=0.13) (p=0.0048) (p=0.0017)
-no worsening
-by PGA
+| Response | BLISS-76 |  | BLISS-52 |  | BLISS-76 and BLISS-52 Pooled |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Placebo* (n=275) | Benlysta 10 mg/kg* (n=273) | Placebo* (n=287) | Benlysta 10 mg/kg* (n=290) | Placebo* (n=562) | Benlysta 10 mg/kg* (n=563) |
+| SLE Responder Index | 33.8% | 43.2% (p=0.021) | 43.6% | 57.6% (p=0.0006) | 38.8% | 50.6% (p<0.0001) |
+| Observed difference vs placebo |  | 9.4% |  | 14.0% |  | 11.8% |
+| Odds ratio (95% CI) vs placebo |  | 1.52 (1.07, 2.15) |  | 1.83 (1.30,2.59) |  | 1.68 (1.32,2.15) |
+| Components of SLE Responder Index |  |  |  |  |  |  |
+| Percent of patients with reduction in SELENA-SLEDAI ≥4 | 35.6% | 46.9% (p=0.006 | 46.0% | 58.3% (p= 0.0024) | 40.9% | 52.8% (p<0.0001) |
+| Percent of patients with no worsening by BILAG index | 65.1% | 69.2% (p=0.32) | 73.2% | 81.4% (p=0.018) | 69.2% | 75.5% (p=0.019) |
+| Percent of patients with no worsening by PGA | 62.9% | 69.2% (p=0.13) | 69.3% | 79.7% (p=0.0048) | 66.2% | 74.6% (p=0.0017) |
 
 * plus standard therapy/standard of care
+
 In a pooled analysis of the two studies, the percentage of patients receiving >7.5 mg/day prednisone (or equivalent) at baseline, whose average corticosteroid dose was reduced by at least 25% to a dose equivalent to prednisone ≤7.5 mg/day during Weeks 40 through 52, was 17.9% in the group receiving Benlysta and 12.3% in the group receiving placebo (p=0.0451).
 
 Flares in SLE were defined by the modified SELENA SLEDAI SLE Flare Index.
@@ -112,8 +96,7 @@ Table 2: Patients with low complement and positive anti-dsDNA at baseline
 | Observed treatment difference vs placebo (%) |  | 17.3 |
 | Severe flares over 52 weeks Patients experiencing a severe flare (%) | 29.6 | 19.0 |
 | Observed treatment difference vs placebo (%) Time to severe flare [Hazard ratio (95% CI)] |  | 10.6 0.61 (0.44, 0.85) (p=0.0038) |
-| Prednisone reduction by ≥25% from baseline to ≤7.5 mg/day during Weeks 40 through 52* (%) | (n=173) 12.1 | (n=195) 18.5 (p=0.0964) |
-| Observed treatment difference vs placebo (%) |  | 6.3 |
+| Prednisone reduction by ≥25% from baseline to ≤7.5 mg/day during Weeks 40 through 52* (%) Observed treatment difference vs placebo (%) | (n=173) 12.1 | (n=195) 18.5 (p=0.0964) 6.3 |
 | FACIT-fatigue score improvement from baseline at Week-52 (mean) | 1.99 | 4.21 (p=0.0048) |
 | Observed treatment difference vs placebo (mean difference) |  | 2.21 |
 | BLISS-76 Study only | Placebo (n=131) | Benlysta 10 mg/kg (n=134) |

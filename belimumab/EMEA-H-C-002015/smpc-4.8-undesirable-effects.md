@@ -7,7 +7,6 @@ The data described below reflect exposure to Benlysta 10 mg/kg in 674 patients w
 The safety data presented include data beyond Week 52 in some patients.
 Patients received Benlysta 10 mg/kg intravenously over a 1-hour period on Days 0, 14, 28, and then every 28 days for 52 weeks.
 The majority of patients were also receiving one or more of the following concomitant treatments for SLE: corticosteroids, immunomodulatory medicinal products, anti-malarials, non-steroidal anti-inflammatory medicinal products.
-
 Adverse reactions were reported in 93% of Benlysta-treated patients and 92% of placebo-treated patients.
 The most frequently reported adverse reactions (≥10% of patient with SLE treated with Benlysta plus standard of care and at a rate ≥1% greater than placebo) were nausea, diarrhoea, and pyrexia.
 The proportion of patients who discontinued treatment due to adverse reactions was 7% for both Benlysta-treated and placebo-treated patients.
@@ -18,14 +17,17 @@ Adverse reactions are listed below by MedDRA system organ class and by frequency
 The frequency categories used are:
 
 Very common > 1/10
-Common ≥ 1/100 to <1/10
-Uncommon ≥ 1/1,000 to <1/100
+
+Common ≥1/100 to <1/10
+
+Uncommon ≥1/1,000 to <1/100
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 | System organ class | Frequency | Adverse reaction(s) |
 | --- | --- | --- |
-| Infections and infestations | Common | Bronchitis, gastroenteritis viral, cystitis, pharyngitis, nasopharyngitis |
+| Infections and infestations | Very common | Bacterial infections, e.g. bronchitis, cystitis |
+|  | Common | Gastroenteritis viral, pharyngitis, nasopharyngitis |
 | Blood and lymphatic system disorders | Common | Leucopenia |
 | Immune system disorders | Common | Hypersensitivity reactions* |
 |  | Uncommon | Anaphylactic reaction, angioedema |
@@ -38,8 +40,8 @@ Within each frequency grouping, undesirable effects are presented in order of de
 
 *’Hypersensitivity reactions’ covers a group of terms, including anaphylaxis, and can manifest as a range of symptoms including hypotension, angioedema, urticaria or other rash, pruritus, and dyspnea. ‘Infusion-related reactions’ covers a group of terms and can manifest as a range of symptoms including bradycardia, myalgia, headache, rash, urticaria, pyrexia, hypotension, hypertension, dizziness, and arthralgia.
 Due to overlap in signs and symptoms, it is not possible to distinguish between hypersensitivity reactions and infusion reactions in all cases.
-Description of selected adverse reactions
 
+Description of selected adverse reactions
 Infusion reactions and hypersensitivity: The incidence of infusion reactions and hypersensitivity reactions occurring during or on the same day as an infusion was 17% in the group receiving Benlysta and 15% in the group receiving placebo, with 1% and 0.3%, respectively, requiring permanent treatment discontinuation.
 These reactions were generally observed on the day of infusion, but acute hypersensitivity reactions may also occur on the day after dosing.
 Patients with a history of multiple drug allergies or significant hypersensitivity reactions may be at increased risk.

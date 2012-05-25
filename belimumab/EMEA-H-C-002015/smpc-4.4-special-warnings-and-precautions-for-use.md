@@ -1,13 +1,13 @@
 # 4.4 Special warnings and precautions for use
 
 Benlysta has not been studied in the following patient groups, and is not recommended in:
-• severe active central nervous system lupus
-• severe active lupus nephritis (see section 5.1)
-•
-HIV
-• a history of, or current, hepatitis B or C
-• hypogammaglobulinaemia (IgG <400 mg/dl) or IgA deficiency (IgA <10 mg/dl)
-• a history of major organ transplant or hematopoietic stem /cell /marrow transplant or renal transplant.
+
+- severe active central nervous system lupus
+- severe active lupus nephritis (see section 5.1)
+- HIV
+- a history of, or current, hepatitis B or C
+- hypogammaglobulinaemia (IgG <400 mg/dl) or IgA deficiency (IgA <10 mg/dl)
+- a history of major organ transplant or hematopoietic stem /cell /marrow transplant or renal transplant.
 
 Concomitant use with B cell targeted therapy or cyclophosphamide
 Benlysta has not been studied in combination with other B cell targeted therapy or intravenous cyclophosphamide.
@@ -22,8 +22,11 @@ Patients with a history of multiple drug allergies or significant hypersensitivi
 Premedication including an antihistamine, with or without an antipyretic, may be administered before the infusion of Benlysta.
 There is insufficient knowledge to determine whether premedication could diminish the frequency or severity of infusion reactions.
 
-In clinical studies, serious infusion and hypersensitivity reactions affected approximately 0.9% of patients, and included anaphylactic reaction, bradycardia, hypotension, angioedema, and dyspnea.
-Infusion reactions occurred more frequently during the first two infusions and tended to decrease with subsequent infusions (see section 4.8).
+In clinical studies, serious infusion and hypersensitivity reactions affected approximately 0.9% of patients,
+and included anaphylactic reaction, bradycardia, hypotension, angioedema, and dyspnea. Infusion reactions
+occurred more frequently during the first two infusions and tended to decrease with subsequent infusions
+
+(see section 4.8).
 Patients have been reported to develop symptoms of acute hypersensitivity several hours after the infusion has been administered.
 Recurrence of clinically significant reactions after initial appropriate treatment of symptoms has also been observed (see section 4.2 and 4.8).
 Therefore, Benlysta should be administered in an environment where resources for managing such reactions are immediately available.
@@ -47,7 +50,6 @@ The efficacy of concurrent vaccination in patients receiving Benlysta is not kno
 Limited data suggest that Benlysta does not significantly affect the ability to maintain a protective immune response to immunisations received prior to administration of Benlysta.
 In a substudy, a small group of patients who had previously received either tetanus, pneumococcal or influenza vaccinations were found to maintain protective titres after treatment with Benlysta.
 There are insufficient data to draw conclusions regarding the ability of subjects receiving Benlysta to mount protective responses to vaccines.
-
 Malignancies and lymphoproliferative disorders
 Immunomodulatory medicinal products, including belimumab, may increase the risk of malignancy.
 Caution should be exercised when considering belimumab therapy for patients with a history of malignancy or when considering continuing treatment in patients who develop malignancy.
@@ -56,6 +58,5 @@ Patients with malignant neoplasm within the last 5 years have not been studied, 
 [Benlysta 400 mg powder for concentrate for solution for infusion.]
 
 Benlysta has not been studied in the following patient groups and is not recommended in:
-HIV a history of, or current, hepatitis B or C
 
 Live vaccines should not be given for 30 days before, or concurrently with Benlysta as clinical safety has not been established.
