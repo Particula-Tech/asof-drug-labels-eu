@@ -143,6 +143,7 @@ a According to the individualised recommendation by the investigator at the prev
 
 Proportion of patients achieving reductions in HbA1c
 Victoza in combination with metformin, glimepiride, or metformin and rosiglitazone resulted in a statistically significant (p≤0.0001) greater proportion of patients achieving an HbA1c≤6.5% at 26 weeks compared with patients receiving these agents alone.
+
 Fasting plasma glucose
 Treatment with Victoza alone or in combination with one or two oral antidiabetic drugs resulted in a reduction in fasting plasma glucose of 13-43.5 mg/dl (0.72-2.42 mmol/l).
 This reduction was observed within the first two weeks of treatment.

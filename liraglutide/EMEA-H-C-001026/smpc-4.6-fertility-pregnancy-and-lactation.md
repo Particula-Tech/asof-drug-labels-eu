@@ -1,4 +1,4 @@
-# 4.6 Fertility, Pregnancy and lactation
+# 4.6 Fertility, pregnancy and lactation
 
 Pregnancy
 There are no adequate data from the use of Victoza in pregnant women.

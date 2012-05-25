@@ -19,79 +19,46 @@ Within each frequency grouping, undesirable effects are presented in order of de
 
 Table 1 Adverse reactions identified from long-term controlled phase III studies and spontaneous reports
 
-Adverse reaction Frequency of adverse reaction by treatment group
-Liraglutide Liraglutide Liraglutide Liraglutide Spontaneous
-with with with with reports
-metformin glimepiride metformin metformin
-and and
-glimepiride rosiglitazone
-Infections and
-infestations
-Nasopharyngitis Common Common
-Bronchitis Common
-Metabolism and
-nutrition
-disorders
-Hypoglycaemia Common Very common Common
-Anorexia Common Common Common Common
-Appetite Common Common
-decreased
-Nervous system
-disorders
-Headache Very Common Common
-common
-Dizziness Common
-Gastrointestinal
-disorders
-Nausea Very Common Very common Very common
-common
-Diarrhoea Very Common Very common Very common
-common
-Vomiting Common Common Common Very common
-Dyspepsia Common Common Common Common
-Abdominal pain Common
-upper
-Constipation Common Common Common
-Gastritis Common
-Flatulence Common
-Abdominal Common
-distension
-Gastroesophageal Common
-reflux disease
-Abdominal Common
-discomfort
-Toothache Common
-Gastroenteritis Common
-viral
-General
-disorders and
-administration
-site conditions
-Fatigue Common
-Pyrexia Common
-Injection site Common Common Uncommon Common
-Adverse reaction Frequency of adverse reaction by treatment group
-Liraglutide Liraglutide Liraglutide Liraglutide Spontaneous
-with with with with reports
-metformin glimepiride metformin metformin
-and and
-glimepiride rosiglitazone
-reactions*
-Renal and
-urinary
-disorders
-Renal failure Uncommon
-acute*#
-Renal Uncommon
-impairment*#
-Metabolism and
-nutrition
-disorders
-Dehydration*# Uncommon
-Skin and
-subcutaneous
-tissue disorder
-Urticaria* Uncommon
+| Adverse reaction | Frequency of adverse reaction by treatment group |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | Liraglutide with metformin | Liraglutide with glimepiride | Liraglutide with metformin and glimepiride | Liraglutide with metformin and rosiglitazone | Spontaneous reports |
+| Infections and infestations |  |  |  |  |  |
+| Nasopharyngitis |  | Common |  | Common |  |
+| Bronchitis |  |  | Common |  |  |
+| Metabolism and nutrition disorders |  |  |  |  |  |
+| Hypoglycaemia |  | Common | Very common | Common |  |
+| Anorexia | Common | Common | Common | Common |  |
+| Appetite decreased | Common |  |  | Common |  |
+| Nervous system disorders |  |  |  |  |  |
+| Headache | Very common |  | Common | Common |  |
+| Dizziness | Common |  |  |  |  |
+| Gastrointestinal disorders |  |  |  |  |  |
+| Nausea | Very common | Common | Very common | Very common |  |
+| Diarrhoea | Very common | Common | Very common | Very common |  |
+| Vomiting | Common | Common | Common | Very common |  |
+| Dyspepsia | Common | Common | Common | Common |  |
+| Abdominal pain upper |  |  | Common |  |  |
+| Constipation |  | Common | Common | Common |  |
+| Gastritis | Common |  |  |  |  |
+| Flatulence |  |  |  | Common |  |
+| Abdominal distension |  |  |  | Common |  |
+| Gastroesophageal reflux disease |  |  |  | Common |  |
+| Abdominal discomfort |  | Common |  |  |  |
+| Toothache |  |  | Common |  |  |
+| Gastroenteritis viral |  |  |  | Common |  |
+| General disorders and administration site conditions |  |  |  |  |  |
+| Fatigue |  |  |  | Common |  |
+| Malaise* |  |  |  |  | Uncommon |
+| Pyrexia |  |  |  | Common |  |
+| Injection site reactions* | Common | Common | Uncommon | Common |  |
+| Renal and urinary disorders |  |  |  |  |  |
+| Renal failure acute*# |  |  |  |  | Uncommon |
+| Renal impairment*# |  |  |  |  | Uncommon |
+|  | Liraglutide with metformin | Liraglutide with glimepiride | Liraglutide with metformin and glimepiride | Liraglutide with metformin and rosiglitazone | Spontaneous reports |
+| Metabolism and nutrition disorders |  |  |  |  |  |
+| Dehydration*# |  |  |  |  | Uncommon |
+| Skin and subcutaneous tissue disorder |  |  |  |  |  |
+| Urticaria* |  |  |  |  | Uncommon |
 
 * Does not conform to criteria previously cited but is considered a listed adverse reaction.
 # See section 4.4 (special warnings and precautions for use)
@@ -132,6 +99,7 @@ These reactions have usually been mild.
 
 Pancreatitis
 Few cases (<0.2%) of acute pancreatitis have been reported during long-term clinical trials with Victoza.
+Pancreatitis was also reported post-marketing
 
 Thyroid events
 The overall rates of thyroid adverse events in all intermediate and long-term trials are 33.5, 30.0 and 21.7 events per 1,000 subject years of exposure for total liraglutide, placebo and total comparators; 5.4, 2.1 and 1.2 events, respectively concern serious thyroid adverse events.

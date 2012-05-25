@@ -7,7 +7,6 @@ At 1.8 mg liraglutide, the average steady state concentration of liraglutide (AU
 Liraglutide exposure increased proportionally with dose.
 The intra-subject coefficient of variation for liraglutide AUC was 11% following single dose administration.
 Absolute bioavailability of liraglutide following subcutaneous administration is approximately 55%.
-
 Distribution
 The apparent volume of distribution after subcutaneous administration is 11-17 l. The mean volume of distribution after intravenous administration of liraglutide is 0.07 l/kg.
 Liraglutide is extensively bound to plasma proteins (>98%).
