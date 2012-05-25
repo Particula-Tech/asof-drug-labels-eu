@@ -9,4 +9,4 @@ When diluted (see section 6.6), the solution for infusion contains approximately
 TYSABRI contains 2.3 mmol (or 52 mg) sodium per vial of medicinal product.
 When diluted in 100 ml sodium chloride 9 mg/ml (0.9%) the medicinal product contains 17.7 mmol (or 406 mg) sodium.
 
-For a full list of excipients, see section 6.1.
+For the full list of excipients, see section 6.1.

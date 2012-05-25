@@ -23,7 +23,8 @@ Clinical efficacy
 
 Efficacy as monotherapy has been evaluated in one randomised, double-blind, placebo-controlled study lasting 2 years (AFFIRM study) in relapsing-remitting MS patients who had experienced at least 1 clinical relapse during the year prior to entry and had a Kurtzke Expanded Disability Status Scale (EDSS) score between 0 and 5.
 Median age was 37 years, with a median disease duration of 5 years.
-The patients were randomised with a 2:1 ratio to receive TYSABRI 300 mg (n = 627) or placebo (n = 315) every 4 weeks for up to 30 infusions.
+The patients were randomised with a 2:1 ratio to receive TYSABRI 300 mg (n = 627) or placebo
+(n = 315) every 4 weeks for up to 30 infusions.
 Neurological evaluations were performed every 12 weeks and at times of suspected relapse.
 MRI evaluations for T1-weighted gadolinium (Gd)-enhancing lesions and T2-hyperintense lesions were performed annually.
 

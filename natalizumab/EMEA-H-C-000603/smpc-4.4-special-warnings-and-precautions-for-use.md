@@ -7,23 +7,26 @@ Due to this increased risk of developing PML, the benefits and risks of TYSABRI 
 
 Patients should be instructed together with their caregivers on early signs and symptoms of PML.
 
-Each of the following independent risk factors is associated with an increased risk of PML.
+The following risk factors are associated with an increased risk of PML.
 
+- The presence of anti-JCV antibodies.
 - Treatment duration, especially beyond 2 years.
   There is limited experience in patients who have received more than 4 years of TYSABRI treatment therefore the risk of PML in these patients cannot currently be estimated.
 - Immunosuppressant use prior to receiving TYSABRI.
-- The presence of anti-JCV antibodies.
 
 Anti-JCV antibody status identifies different levels of risk for PML in TYSABRI treated patients.
 Patients who are anti-JCV antibody positive are at an increased risk of developing PML compared to patients who are anti-JCV antibody negative.
-Patients who have all three risk factors for PML (i.e., have received more than 2 years of TYSABRI therapy, and have received prior immunosuppressant therapy and are anti-JCV antibody positive) have the highest risk of PML at approximately 9 in 1,000 patients treated.
-Patients should be informed about this increased risk for developing PML before continuation of treatment after 2 years.
+Patients who have all three risk factors for PML (i.e., are anti-JCV antibody positive and have received more than 2 years of TYSABRI therapy, and have received prior immunosuppressant therapy) have a significantly higher risk of PML.
+In patients with all three risk factors, treatment with TYSABRI should only be continued if the benefits outweigh the risks.
+For the quantification of PML risk in the different patient subgroups, please refer to the Physician Information and Management Guidelines.
 
-For risk stratification prior or during the treatment with TYSABRI anti-JCV antibody testing may provide supportive information.
+For risk stratification prior or during the treatment with TYSABRI anti-JCV antibody testing provides supportive information.
+The anti-JCV antibody assay (ELISA) should not be used to diagnose PML.
+Anti-JCV antibody testing should not be performed during, or for at least two weeks following, plasma exchange due to the removal of antibodies from the serum.
 
 Before initiation of treatment with TYSABRI, a recent (usually within 3 months) MRI should be available as a reference, and be repeated on a yearly routine basis to update this reference.
 Patients must be monitored at regular intervals throughout.
-After 2 years the patient should be re-informed about the risk of PML with TYSABRI.
+After 2 years all patients should be re-informed about the risk of PML with TYSABRI.
 
 If PML is suspected, further dosing must be suspended until PML has been excluded.
 
@@ -50,8 +53,8 @@ Opportunistic infections were also detected in MS patients treated with TYSABRI 
 
 Prescribers should be aware of the possibility that other opportunistic infections may occur during TYSABRI therapy and should include them in the differential diagnosis of infections that occur in TYSABRI-treated patients.
 If an opportunistic infection is suspected, dosing with TYSABRI is to be suspended until such infections can be excluded through further evaluations.
-
 If a patient receiving TYSABRI develops an opportunistic infection, dosing of TYSABRI must be permanently discontinued.
+
 Educational guidance
 
 All physicians who intend to prescribe TYSABRI must ensure they are familiar with the Physician Information and Management Guidelines.
