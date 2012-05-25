@@ -25,6 +25,7 @@ This is considered to be due to the carry-over effect of enoxaparin treatment, a
 Other dabigatran related anti-coagulation tests were not changed significantly by the pre-treatment of enoxaparin.
 
 Interactions linked to dabigatran etexilate and dabigatran metabolic profile
+
 Dabigatran etexilate and dabigatran are not metabolised by the cytochrome P450 system and have no in vitro effects on human cytochrome P450 enzymes.
 Therefore, related medicinal product interactions are not expected with dabigatran.
 
@@ -58,7 +59,6 @@ Dabigatran etexilate was given twice daily over 3 consecutive days, on the 3rd d
 Dabigatran AUCτ,ss and Cmax,ss were increased on average by 53 % and 56 %, respectively with concomitant quinidine (see sections 4.2 and 4.4).
 Patients treated for prevention of VTEs after hip or knee replacement surgery, dosing should be reduced to 150 mg taken once daily as 2 capsules of 75 mg Pradaxa if they receive concomitantly dabigatran etexilate and quinidine (see section 4.2).
 Close clinical surveillance is recommended when dabigatran etexilate is combined with quinidine and particularly in the occurrence of bleeding, notably in patients having a mild to moderate renal impairment.
-
 Verapamil: When dabigatran etexilate (150 mg) was co-administered with oral verapamil, the Cmax and AUC of dabigatran were increased but magnitude of this change differs depending on timing of administration and formulation of verapamil (see sections 4.2 and 4.4).
 
 The greatest elevation of dabigatran exposure was observed with the first dose of an immediate release formulation of verapamil administered one hour prior to dabigatran etexilate intake (increase of Cmax by about 180 % and AUC by about 150 %).
@@ -94,10 +94,10 @@ Other drugs affecting P-gp
 
 Protease inhibitors including ritonavir and its combinations with other protease inhibitors affect P-gp (either as inhibitor or as inducer).
 They have not been studied and are therefore not recommended for concomitant treatment with Pradaxa.
-
 P-gp substrate
 
 Digoxin: In a study performed with 24 healthy subjects, when Pradaxa was co-administered with digoxin, no changes on digoxin and no clinical relevant changes on dabigatran exposure have been observed.
+
 Co-medication with selective serotonin re-uptake inhibitors (SSRIs) or selective serotonin norepinephrine re-uptake inhibitors (SNRIs)
 
 SSRIs and SNRIs increased the risk of bleeding in RE-LY in all treatment groups.

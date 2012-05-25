@@ -28,18 +28,27 @@ Table 1 summarises factors which may increase the haemorrhagic risk.
 | Pharmacodynamic interactions | • ASA • NSAID • Clopidogrel • SSRIs or SNRIs |
 | Diseases / procedures with special haemorrhagic risks | • Congenital or acquired coagulation disorders • Thrombocytopenia or functional platelet defects • Active ulcerative GI disease • Recent GI bleeding • Recent biopsy or major trauma • Recent ICH • Brain, spinal or ophthalmic surgery • Bacterial endocarditis |
 
-The measurement of dabigatran related anticoagulation may be helpful to avoid excessive high exposure to dabigatran in the presence of additional risk factors.
+Pradaxa does not in general require routine anticoagulant monitoring.
+However, the measurement of dabigatran related anticoagulation may be helpful to avoid excessive high exposure to dabigatran in the presence of additional risk factors.
+The INR test is unreliable in patients on Pradaxa and false positive INR elevations have been reported.
+Therefore INR tests should not be performed.
+Diluted thrombin time (dTT), ecarin clotting time (ECT) and activated partial thromboplastin time (aPTT) may provide useful information, but the tests are not standardized, and results should be interpreted with caution (see section 5.1).
 
-The activated partial thromboplastin time (aPTT) test is widely available and provides an approximate indication of the anticoagulation intensity achieved with dabigatran.
-In patients who are bleeding or at risk of bleeding, the aPTT test may be useful to assist in determining an excess of anticoagulant activity.
-However, the aPTT test has limited sensitivity and is not suitable for precise quantification of anticoagulant effect, especially at high plasma concentrations of dabigatran.
-High aPTT values should be interpreted with caution.
+Table 2 shows coagulation test thresholds at trough that may be associated with an increased risk of bleeding
 
-If required, more sensitive quantitative tests such as calibrated diluted Thrombin Time (dTT) should be performed (see section 5.1).
+| Test (trough value) |  |
+| --- | --- |
+| dTT [ng/ml] | > 67 |
+| ECT [x-fold upper limit of normal] | No data |
+| aPTT [x-fold upper limit of normal] | > 1.3 |
+| INR | Should not be performed |
+
+(see section 5.1)
 
 Patients who develop acute renal failure must discontinue Pradaxa (see section 4.3).
 
 Limited data is available in patients < 50 kg (see section 5.2).
+
 When severe bleedings occur treatment must be discontinued and the source of bleeding investigated (see section 4.9).
 
 Agents that may enhance the risk of haemorrhage should not be administered concomitantly or should be administered with caution with Pradaxa (see section 4.5).
@@ -60,7 +69,7 @@ In such cases a coagulation test (see sections 4.4 and 5.1) may help to determin
 
 Preoperative phase
 
-Table 2 summarizes discontinuation rules before invasive or surgical procedures.
+Table 3 summarizes discontinuation rules before invasive or surgical procedures.
 
 | Renal function (CrCL in ml/min) | Estimated half-life (hours) | Stop dabigatran before elective surgery |  |
 | --- | --- | --- | --- |
@@ -81,11 +90,11 @@ Procedures such as spinal anaesthesia may require complete haemostatic function.
 The risk of spinal or epidural haematoma may be increased in cases of traumatic or repeated puncture and by the prolonged use of epidural catheters.
 After removal of a catheter, an interval of at least 2 hours should elapse before the administration of the first dose of dabigatran etexilate.
 These patients require frequent observation for neurological signs and symptoms of spinal or epidural haematoma.
-
 Post-surgical patients with an increased risk for bleeding
 
 Patients at risk for bleeding or patients at risk of overexposure, notably patients with moderate renal impairment (CrCL 30-50 ml/min), should be treated with caution (see sections 4.4 and 5.1).
 Resume treatment after complete haemostasis is achieved.
+
 Patients at high surgical mortality risk and with intrinsic risk factors for thromboembolic events
 
 There are limited efficacy and safety data for dabigatran available in these patients and therefore they should be treated with caution.
@@ -107,12 +116,13 @@ In a study of prevention of stroke and SEE in adult patients with nonvalvular at
 This increased risk was seen in the elderly (≥ 75 years).
 In these atrial fibrillationpatients a dosage of 220 mg dabigatran given as 110 mg capsule twice daily should be considered and posology recommendations in section 4.2 be followed.
 
-| Pharmacodynamic and kinetic factors | Age ≥ 75 years |
-| --- | --- |
-| Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment (30-50 ml/min CrCL) • P-gp inhibitor co-medication Minor: • Low body weight (< 50 kg) |
-| Pharmacodynamic interactions | • ASA • NSAID • Clopidogrel |
-|  | • SSRIs or SNRIs |
-| Diseases / procedures with special haemorrhagic risks | • Congenital or acquired coagulation disorders • Thrombocytopenia or functional platelet defects • Active ulcerative GI disease • Recent GI bleeding • Recent biopsy or major trauma • Recent ICH • Brain, spinal or ophthalmic surgery • Bacterial endocarditis |
+| Test (trough value) | Indication |  |
+| --- | --- | --- |
+|  | Prevention of VTE | Prevention of stroke and SEE |
+| dTT [ng/ml] | > 67 | > 200 |
+| ECT [x-fold upper limit of normal] | No data | > 3 |
+| aPTT [x-fold upper limit of normal] | > 1.3 | > 2 |
+| INR | Should not be performed | Should not be performed |
 
 Use of fibrinolytic agents for the treatment of acute ischemic stroke
 
@@ -121,7 +131,6 @@ The use of fibrinolytic agents for the treatment of acute ischemic stroke may be
 This risk of bleeding should be weighed against the urgency of intervention (for cardioversion see section 4.2).
 
 Myocardial Infarction
-
 In the phase III study RE-LY (see section 5.1.) the overall rate of myocardial infarction (MI) was 0.82, 0.81, and 0.64 % / year for dabigatran etexilate 110 mg twice daily, dabigatran etexilate 150 mg twice daily and warfarin, respectively, an increase in relative risk for dabigatran of 29 % and 27 % compared to warfarin.
 Irrespective of therapy, the highest absolute risk of MI was seen in the following subgroups, with similar relative risk: patients with previous MI, patients ≥ 65 years with either diabetes or coronary artery disease, patients with left ventricular ejection fraction < 40 %, and patients with moderate renal dysfunction.
 Furthermore a higher risk of MI was seen in patients concomitantly taking ASA plus clopidogrel or clopidogrel alone.
@@ -132,7 +141,14 @@ Patients with elevated liver enzymes > 2 ULN were excluded from the study invest
 
 | Pharmacodynamic and kinetic factors | Age ≥ 75 years |
 | --- | --- |
-| Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment (30-50 ml/min CrCL) • P-gp inhibitor co-medication |
-|  | Minor: • Low body weight (< 50 kg) |
+| Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment (30-50 ml/min |
+|  | CrCL) • P-gp inhibitor co-medication Minor: • Low body weight (< 50 kg) |
 | Pharmacodynamic interactions | • ASA • NSAID • Clopidogrel • SSRIs or SNRIs |
 | Diseases / procedures with special haemorrhagic risks | • Congenital or acquired coagulation disorders • Thrombocytopenia or functional platelet defects • Active ulcerative GI disease • Recent gastro-intestinal bleeding • Recent biopsy or major trauma • Recent ICH • Brain, spinal or ophthalmic surgery • Bacterial endocarditis |
+
+| Test (trough value) |  |
+| --- | --- |
+| dTT [ng/ml] | > 200 |
+| ECT [x-fold upper limit of normal] | > 3 |
+| aPTT [x-fold upper limit of normal] | > 2 |
+| INR | Should not be performed |

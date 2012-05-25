@@ -138,6 +138,8 @@ Adjust the starting time of the VKA based on CrCL as follows:
 - CrCL ≥ 50 ml/min, start VKA 3 days before discontinuing dabigatran etexilate
 - CrCL ≥ 30-< 50 ml/min, start VKA 2 days before discontinuing dabigatran etexilate
 
+Because Pradaxa can contribute to an elevated INR, INR testing should not be performed until Pradaxa has been stopped for at least 2 days.
+
 VKA to Pradaxa
 
 The VKA should be stopped.

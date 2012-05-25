@@ -11,10 +11,28 @@ Dabigatran also inhibits free thrombin, fibrin-bound thrombin and thrombin-induc
 In-vivo and ex-vivo animal studies have demonstrated antithrombotic efficacy and anticoagulant activity of dabigatran after intravenous administration and of dabigatran etexilate after oral administration in various animal models of thrombosis.
 
 There is a clear correlation between plasma dabigatran concentration and degree of anticoagulant effect based on phase II studies.
+Dabigatran prolongs the thrombin time (TT), ECT, and aPTT.
 
-Steady state (after day 3) geometric mean dabigatran peak plasma concentration, measured around 2 hours after 220 mg dabigatran etexilate administration, was 70.8 ng/ml, with a range of 35.2-162 ng/ml (25th-75th percentile range).The dabigatran geometric mean trough concentration, measured at the end of the dosing interval (i.e. 24 hours after a 220 mg dabigatran dose), was on average 22.0 ng/ml, with a range of 13.0-35.7 ng/ml (25th-75th percentile range) (see section 4.4).
+The calibrated diluted TT (dTT) test provides an estimation of dabigatran plasma concentration that can be compared to the expected dabigatran plasma concentrations.
 
-If the dTT is used, dabigatran concentrations above 200 ng/ml, measured at trough after150 mg twice daily dosing (10-16 hours after the previous dose), are associated with an increased risk of bleeding (see sections 4.4 and 4.9).
+The ECT can provide a direct measure of the activity of direct thrombin inhibitors.
+
+The aPTT test is widely available and provides an approximate indication of the anticoagulation intensity achieved with dabigatran.
+However, the aPTT test has limited sensitivity and is not suitable for precise quantification of anticoagulant effect, especially at high plasma concentrations of dabigatran.
+High aPTT values should be interpreted with caution.
+
+In general, it can be assumed that these measures of anti-coagulant activity may reflect dabigatran levels and can provide guidance for the assessment of bleeding risk, i.e. exceeding the 90th percentile of dabigatran trough levels or a coagulation assay such as aPTT measured at trough is considered to be associated with an increased risk of bleeding.
+Steady state (after day 3) geometric mean dabigatran peak plasma concentration, measured around 2 hours after 220 mg dabigatran etexilate administration, was 70.8 ng/ml, with a range of 35.2-162 ng/ml (25th-75th percentile range).The dabigatran geometric mean trough concentration, measured at the end of the dosing interval (i.e. 24 hours after a 220 mg dabigatran dose), was on average 22.0 ng/ml, with a range of 13.0-35.7 ng/ml (25th-75th percentile range).
+
+In patients treated for prevention of VTEs after hip or knee replacement surgery with 220 mg dabigatran etexilate once daily,
+
+- the 90th percentile of dabigatran plasma concentrations was 67 ng/ml, measured at trough
+
+(20-28 hours after the previous dose) (see section 4.4 and 4.9),
+
+- the 90th percentile of aPTT at trough (20-28 hours after the previous dose) was 51 seconds, which would be 1.3-fold upper limit of normal.
+
+The ECT was not measured in patients treated for prevention of VTEs after hip or knee replacement surgery with 220 mg dabigatran etexilate once daily.
 
 Ethnic origin
 
@@ -29,8 +47,8 @@ Totals of 2076 patients (knee) and 3494 (hip) were treated respectively.
 Composite of total VTE (including PE, proximal and distal DVT, whatever symptomatic or asymptomatic detected by routine venography) and all-cause mortality constituted the primary end-point for both studies.
 Composite of major VTE (including PE and proximal DVT, whatever symptomatic or asymptomatic detected by routine venography) and VTE-related mortality constituted a secondary end-point and is considered of better clinical relevance.
 Results of both studies showed that the antithrombotic effect of Pradaxa 220 mg and 150 mg were statistically non-inferior to that of enoxaparin on total VTE and all-cause mortality.
-The point estimate for incidence of major VTE and VTE related mortality for the 150 mg dose was slightly worse than enoxaparin (table 5).
-Better results were seen with the 220 mg dose where the point estimate of Major VTE was slightly better than enoxaparin (table 5).
+The point estimate for incidence of major VTE and VTE related mortality for the 150 mg dose was slightly worse than enoxaparin (table 6).
+Better results were seen with the 220 mg dose where the point estimate of Major VTE was slightly better than enoxaparin (table 6).
 
 The clinical studies have been conducted in a patient population with a mean age > 65 years.
 
@@ -39,13 +57,12 @@ There were no differences in the phase 3 clinical studies for efficacy and safet
 In the studied patient population of RE-MODEL and RE-NOVATE (5539 patients treated), 51 % suffered from concomitant hypertension, 9 % from concomitant diabetes, 9 % from concomitant coronary artery disease and 20 % had a history of venous insufficiency.
 None of these diseases showed an impact on the effects of dabigatran on VTE-prevention or bleeding rates.
 
-Data for the major VTE and VTE-related mortality endpoint were homogeneous with regards to the primary efficacy endpoint and are shown in table 5.
+Data for the major VTE and VTE-related mortality endpoint were homogeneous with regards to the primary efficacy endpoint and are shown in table 6.
+Data for the total VTE and all cause mortality endpoint are shown in table 7.
 
-Data for the total VTE and all cause mortality endpoint are shown in table 6.
+Data for adjudicated major bleeding endpoints are shown in table 8 below.
 
-Data for adjudicated major bleeding endpoints are shown in table 7 below.
-
-Table 5: Analysis of major VTE and VTE-related mortality during the treatment period in the RE-MODEL and the RE-NOVATE orthopaedic surgery studies
+Table 6: Analysis of major VTE and VTE-related mortality during the treatment period in the RE-MODEL and the RE-NOVATE orthopaedic surgery studies
 
 | Trial | Dabigatran etexilate 220 mg | Dabigatran etexilate 150 mg | Enoxaparin 40 mg |
 | --- | --- | --- | --- |
@@ -60,7 +77,7 @@ Table 5: Analysis of major VTE and VTE-related mortality during the treatment pe
 | Risk ratio over enoxaparin | 0.73 | 1.08 |  |
 | 95 % CI | 0.36, 1.47 | 0.58, 2.01 |  |
 
-Table 6: Analysis of total VTE and all cause mortality during the treatment period in the RE-NOVATE and the RE-MODEL orthopaedic surgery studies
+Table 7: Analysis of total VTE and all cause mortality during the treatment period in the RE-NOVATE and the RE-MODEL orthopaedic surgery studies
 
 | Trial | Dabigatran etexilate 220 mg | Dabigatran etexilate 150 mg | Enoxaparin 40 mg |
 | --- | --- | --- | --- |
@@ -75,7 +92,7 @@ Table 6: Analysis of total VTE and all cause mortality during the treatment peri
 | Risk ratio over enoxaparin | 0.97 | 1.07 |  |
 | 95 % CI | (0.82, 1.13) | (0.92, 1.25) |  |
 
-Table 7: Major bleeding events by treatment in the individual RE-MODEL and the RE-NOVATE studies
+Table 8: Major bleeding events by treatment in the individual RE-MODEL and the RE-NOVATE studies
 
 | Trial | Dabigatran etexilate 220 mg | Dabigatran etexilate 150 mg | Enoxaparin 40 mg |
 | --- | --- | --- | --- |
@@ -87,7 +104,6 @@ Table 7: Major bleeding events by treatment in the individual RE-MODEL and the R
 | Number of MBE N(%) | 10 (1.5) | 9 (1.3) | 9 (1.3) |
 
 Paediatric population
-
 The European Medicines Agency has waived the obligation to submit the results of studies with Pradaxa in all subsets of the paediatric population in prevention of thromboembolic events in the granted indication (see section 4.2 for information on paediatric use).
 
 [Pradaxa 110 mg hard capsules]
@@ -96,23 +112,26 @@ Prevention of VTE
 
 Prevention of stroke and SEE in adult patients with nonvalvular atrial fibrillation with one or more risk factors
 Steady state geometric mean dabigatran peak plasma concentration, measured around 2 hours after 150 mg dabigatran etexilate administration twice daily, was 175 ng/ml, with a range of 117-275 ng/ml (25th-75th percentile range).
-The dabigatran geometric mean trough concentration, measured at trough in the morning, at the end of the dosing interval (i.e. 12 hours after the 150 mg dabigatran evening dose), was on average 91.0 ng/ml, with a range of 61.0-143 ng/ml (25th-75th percentile range).
+The dabigatran geometric mean trough concentration, measured at trough in the morning, at the end of the dosing interval (i.e. 12 hours after the 150 mg dabigatran evening dose), was on average 91.0 ng/ml, with a range of 61.0-143 ng/ml (25th-75th percentile range).For patients with atrial nonvalvular fibrillation treated for prevention of stroke and SEE with 150 mg dabigatran etexilate twice daily,
+
+- the 90th percentile of dabigatran plasma concentrations measured at trough (10-16 hours after the previous dose) was about 200 ng/ml,
+- an ECT at trough (10-16 hours after the previous dose), elevated approximately 3-fold upper limit of normal refers to the observed 90th percentile of ECT prolongation of 103 seconds,
+- an aPTT ratio greater than 2-fold upper limit of normal (aPTT prolongation of about 80 seconds), at trough (10-16 hours after the previous dose) reflects the 90th percentile of observations.
 
 In 2 large randomized, parallel group, double-blind, dose-confirmatory trials, patients undergoing elective major orthopaedic surgery (one for knee replacement surgery and one for hip replacement surgery) received Pradaxa 75 mg or 110 mg within 1-4 hours of surgery followed by 150 mg or 220 mg once daily thereafter, haemostasis having been secured, or enoxaparin 40 mg on the day prior to surgery and daily thereafter.
 Totals of 2,076 patients (knee) and 3,494 (hip) were treated respectively.
 
-The point estimate for incidence of Major VTE and VTE related mortality for the 150 mg dose was slightly worse than enoxaparin (table 6).
-Better results were seen with the 220 mg dose where the point estimate of Major VTE was slightly better than enoxaparin (table 6).
+The point estimate for incidence of Major VTE and VTE related mortality for the 150 mg dose was slightly worse than enoxaparin (table 7).
+Better results were seen with the 220 mg dose where the point estimate of Major VTE was slightly better than enoxaparin (table 7).
 
 In the studied patient population of RE-MODEL and RE-NOVATE (5,539 patients treated), 51 % suffered from concomitant hypertension, 9 % from concomitant diabetes, 9 % from concomitant coronary artery disease and 20 % had a history of venous insufficiency.
 
-Data for the major VTE and VTE-related mortality endpoint were homogeneous with regards to the primary efficacy endpoint and are shown in table 6.
+Data for the major VTE and VTE-related mortality endpoint were homogeneous with regards to the primary efficacy endpoint and are shown in table 7.
+Data for the total VTE and all cause mortality endpoint are shown in table 8.
 
-Data for the total VTE and all cause mortality endpoint are shown in table 7.
+Data for adjudicated major bleeding endpoints are shown in table 9 below.
 
-Data for adjudicated major bleeding endpoints are shown in table 8 below.
-
-Table 6: Analysis of major VTE and VTE-related mortality during the treatment period in the RE-MODEL and the RE-NOVATE orthopaedic surgery studies.
+Table 7: Analysis of major VTE and VTE-related mortality during the treatment period in the RE-MODEL and the RE-NOVATE orthopaedic surgery studies.
 
 | Trial | Dabigatran etexilate 220 mg once daily | Dabigatran etexilate 150 mg once daily | Enoxaparin 40 mg |
 | --- | --- | --- | --- |
@@ -127,7 +146,7 @@ Table 6: Analysis of major VTE and VTE-related mortality during the treatment pe
 | Risk ratio over enoxaparin | 0.73 | 1.08 |  |
 | 95 % CI | 0.36, 1.47 | 0.58, 2.01 |  |
 
-Table 7: Analysis of total VTE and all cause mortality during the treatment period in the RE-NOVATE and the RE-MODEL orthopaedic surgery studies.
+Table 8: Analysis of total VTE and all cause mortality during the treatment period in the RE-NOVATE and the RE-MODEL orthopaedic surgery studies.
 
 | Trial | Dabigatran etexilate 220 mg once daily | Dabigatran etexilate 150 mg once daily | Enoxaparin 40 mg |
 | --- | --- | --- | --- |
@@ -142,7 +161,7 @@ Table 7: Analysis of total VTE and all cause mortality during the treatment peri
 | Risk ratio over enoxaparin | 0.97 | 1.07 |  |
 | 95 % CI | (0.82, 1.13) | (0.92, 1.25) |  |
 
-Table 8: Major bleeding events by treatment in the individual RE-MODEL and the RE-NOVATE studies.
+Table 9: Major bleeding events by treatment in the individual RE-MODEL and the RE-NOVATE studies.
 
 | Trial | Dabigatran etexilate 220 mg once daily | Dabigatran etexilate 150 mg once daily | Enoxaparin 40 mg |
 | --- | --- | --- | --- |
@@ -168,9 +187,9 @@ Major bleeding rates with this dose were comparable to warfarin.
 Myocardial infarction rates were slightly increased with dabigatran etexilate 110 mg twice daily and 150 mg twice daily compared to warfarin (hazard ratio 1.29; p=0.0929 and hazard ratio 1.27; p=0.1240, respectively).
 With improving monitoring of INR the observed benefits of dabigatran etexilate compared to warfarin diminish.
 
-Tables 9-11 display details of key results in the overall population:
+Tables 10-12 display details of key results in the overall population:
 
-Table 9: Analysis of first occurrence of stroke or SEE (primary endpoint) during the study period in RE-LY.
+Table 10: Analysis of first occurrence of stroke or SEE (primary endpoint) during the study period in RE-LY.
 
 |  | Dabigatran etexilate 110 mg twice daily | Dabigatran etexilate 150 mg twice daily | Warfarin |
 | --- | --- | --- | --- |
@@ -182,7 +201,7 @@ Table 9: Analysis of first occurrence of stroke or SEE (primary endpoint) during
 
 % refers to yearly event rate
 
-Table 10: Analysis of first occurrence of ischemic or haemorrhagic strokes during the study period in RE-LY.
+Table 11: Analysis of first occurrence of ischemic or haemorrhagic strokes during the study period in RE-LY.
 
 |  | Dabigatran etexilate 110 mg twice daily | Dabigatran etexilate 150 mg twice daily | Warfarin |
 | --- | --- | --- | --- |
@@ -204,7 +223,7 @@ Table 10: Analysis of first occurrence of ischemic or haemorrhagic strokes durin
 | Hazard ratio vs. warfarin (95 % CI) | 0.31 (0.17, 0.56) | 0.26 (0.14, 0.49) |  |
 | p-value | < 0.001 | < 0.001 |  |
 
-Table 11: Analysis of all cause and cardiovascular survival during the study period in RE-LY.
+Table 12: Analysis of all cause and cardiovascular survival during the study period in RE-LY.
 
 |  | Dabigatran etexilate 110 mg twice daily | Dabigatran etexilate 150 mg twice daily | Warfarin |
 | --- | --- | --- | --- |
@@ -218,17 +237,15 @@ Table 11: Analysis of all cause and cardiovascular survival during the study per
 | Hazard ratio vs. warfarin (95 % CI) | 0.90 (0.77, 1.06) | 0.85 (0.72, 0.99) |  |
 | p-value | 0.2081 | 0.0430 |  |
 
-Tables 12-13 display results of the primary efficacy and safety endpoint in relevant sub-populations:
+Tables 13-14 display results of the primary efficacy and safety endpoint in relevant sub-populations:
 
 For the primary endpoint, stroke and SEE, no subgroups (i.e., age, weight, gender, renal function, ethnicity, etc.) were identified with a different risk ratio compared to warfarin.
 
-Table 12: Hazard Ratio and 95 % CI for stroke/SEE by subgroups
+Table 13: Hazard Ratio and 95 % CI for stroke/SEE by subgroups
 
-Endpoint Dabigatran etexilate Dabigatran etexilate
-110 mg twice daily vs. warfarin 150 mg twice daily vs. warfarin
-
-| Age (years) |  |  |
+| Endpoint | Dabigatran etexilate 110 mg twice daily vs. warfarin | Dabigatran etexilate 150 mg twice daily vs. warfarin |
 | --- | --- | --- |
+| Age (years) |  |  |
 | < 65 | 1.10 (0.64, 1.87) | 0.51 (0.26, 0.98) |
 | 65 ≤ and < 75 | 0.87 (0.62, 1.20) | 0.68 (0.47, 0.96) |
 | ≥ 75 | 0.88 (0.66, 1.17) | 0.67 (0.49, 0.90) |
@@ -243,7 +260,55 @@ The relative risk of bleeding with dabigatran compared to warfarin increased wit
 Relative risk was highest in patients ≥ 75 years.
 There was no significant interaction of treatment effects with the subgroups of renal function and CHADS2 score.
 
-Table 13: Hazard Ratio and 95 % CI for major bleeds by subgroups
+Table 14: Hazard Ratio and 95 % CI for major bleeds by subgroups
+
+Endpoint Dabigatran etexilate Dabigatran etexilate
+110 mg twice daily vs. warfarin 150 mg twice daily vs. warfarin
+
+| Age (years) |  |  |
+| --- | --- | --- |
+| < 65 | 0.33 (0.19, 0.59) | 0.36 (0.21, 0.62) |
+| 65 ≤ and < 75 | 0.70 (0.56, 0.89) | 0.80 (0.64, 1.00) |
+| ≥ 75 | 1.01 (0.83, 1.23) | 1.18 (0.98, 1.43) |
+| ≥ 80 | 1.12 (0.84, 1.49) | 1.35 (1.03, 1.77) |
+| CrCL(ml/min) |  |  |
+| 30 ≤ and < 50 | 1.00 (0.77, 1.29) | 0.94 (0.72, 1.21) |
+| 50 ≤ and < 80 | 0.76 (0.61, 0.93) | 0.89 (0.73, 1.08) |
+| ≥ 80 | 0.59 (0.43, 0.82) | 0.84 (0.62, 1.13) |
+
+[Pradaxa 150 mg hard capsules]
+
+The dabigatran geometric mean trough concentration, measured at trough in the morning, at the end of the dosing interval (i.e. 12 hours after the 150 mg dabigatran evening dose), was on average 91.0 ng/ml, with a range of 61.0-143 ng/ml (25th–75th percentile range).
+
+For patients with atrial nonvalvular fibrillation treated for prevention of stroke and SEE with 150 mg dabigatran etexilate twice daily,
+
+For patients randomized to warfarin, the mean percentage within time in therapeutic range (TTR) (INR 2-3) was 64.4 % (median TTR 67 %).
+
+The dose of 150 mg twice daily, reduces significantly the risk of ischemic and haemorrhagic stroke, vascular death, ICH and total bleeding compared to warfarin.
+
+Tables 6-8 display details of key results in the overall population:
+
+Table 6: Analysis of first occurrence of stroke or SEE (primary endpoint) during the study period in RE-LY.
+
+Dabigatran etexilate Dabigatran etexilate Warfarin
+110 mg twice daily 150 mg twice daily
+
+| Subjects randomized | 6,015 | 6,076 | 6,022 |
+| --- | --- | --- | --- |
+| Stroke and/or SEE |  |  |  |
+| Incidences (%) | 183 (1.54) | 134 (1.11) | 202 (1.71) |
+| Hazard ratio over warfarin (95 % CI) | 0.90 (0.74, 1.10) | 0.65 (0.52, 0.81) |  |
+| p value superiority | p=0.2943 | p=0.0001 |  |
+
+Table 7: Analysis of first occurrence of ischemic or haemorrhagic strokes during the study period in RE-LY.
+
+Table 8: Analysis of all cause and cardiovascular survival during the study period in RE-LY.
+
+Tables 9-10 display results of the primary efficacy and safety endpoint in relevant sub-populations: For the primary endpoint, stroke and SEE, no subgroups (i.e., age, weight, gender, renal function, ethnicity, etc.) were identified with a different risk ratio compared to warfarin.
+
+Table 9: Hazard Ratio and 95 % CI for stroke/SEE by subgroups
+
+Table 10: Hazard Ratio and 95 % CI for major bleeds by subgroups
 
 | Endpoint | Dabigatran etexilate 110 mg twice daily vs. warfarin | Dabigatran etexilate 150 mg twice daily vs. warfarin |
 | --- | --- | --- |
@@ -256,37 +321,3 @@ Table 13: Hazard Ratio and 95 % CI for major bleeds by subgroups
 | 30 ≤ and < 50 | 1.00 (0.77, 1.29) | 0.94 (0.72, 1.21) |
 | 50 ≤ and < 80 | 0.76 (0.61, 0.93) | 0.89 (0.73, 1.08) |
 | ≥ 80 | 0.59 (0.43, 0.82) | 0.84 (0.62, 1.13) |
-
-[Pradaxa 150 mg hard capsules]
-
-If the dTT is used, dabigatran concentrations above 200 ng/ml, measured at trough after150 mg twice daily dosing (10-16 hours after the previous dose), are associated with an increased risk of bleeding (see section 4.4 and 4.9).
-
-For patients randomized to warfarin, the mean percentage within time in therapeutic range (TTR) (INR 2-3) was 64.4 % (median TTR 67 %).
-
-The dose of 150 mg twice daily, reduces significantly the risk of ischemic and haemorrhagic stroke, vascular death, ICH and total bleeding compared to warfarin.
-
-Tables 5-7 display details of key results in the overall population:
-
-Table 5: Analysis of first occurrence of stroke or SEE (primary endpoint) during the study period in RE-LY.
-
-Table 6: Analysis of first occurrence of ischemic or haemorrhagic strokes during the study period in RE-LY.
-
-Table 7: Analysis of all cause and cardiovascular survival during the study period in RE-LY.
-
-Tables 8-9 display results of the primary efficacy and safety endpoint in relevant sub-populations:
-
-Table 8: Hazard Ratio and 95 % CI for stroke/SEE by subgroups
-
-| Endpoint | Dabigatran etexilate 110 mg twice daily vs. warfarin | Dabigatran etexilate 150 mg twice daily vs. warfarin |
-| --- | --- | --- |
-| Age (years) |  |  |
-| < 65 | 1.10 (0.64, 1.87) | 0.51 (0.26, 0.98) |
-| 65 ≤ and < 75 | 0.87 (0.62, 1.20) | 0.68 (0.47, 0.96) |
-| ≥ 75 | 0.88 (0.66, 1.17) | 0.67 (0.49, 0.90) |
-| ≥ 80 | 0.68 (0.44, 1.05) | 0.65 (0.43, 1.00) |
-| CrCL(ml/min) |  |  |
-| 30 ≤ and < 50 | 0.89 (0.61, 1.31) | 0.47 (0.30, 0.74) |
-| 50 ≤ and < 80 | 0.91 (0.68, 1.20) | 0.65 (0.47, 0.88) |
-| ≥ 80 | 0.83 (0.52, 1.32) | 0.71 (0.44, 1.15) |
-
-Table 9: Hazard Ratio and 95 % CI for major bleeds by subgroups

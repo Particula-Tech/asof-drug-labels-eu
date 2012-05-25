@@ -4,11 +4,12 @@ A total of 10.084 patients were treated in 4 actively controlled VTE prevention 
 Of these 5419 were treated with 150 mg or 220 mg daily of Pradaxa, while 389 received doses less than 150 mg daily and 1168 received doses in excess of 220 mg daily.
 
 The most commonly reported adverse reactions are bleedings occurring in total in approximately 14 % of patients; the frequency of major bleeds (including wound site bleedings) is less than 2 %.
+
 Although rare in frequency in clinical trials, major or severe bleeding may occur and, regardless of location, may lead to disabling, life-threatening or even fatal outcomes.
 
 Adverse reactions
 
-Table 3 shows the adverse reactions ranked under headings of SOC and frequency using the following convention: very common (≥ 1/10); common (≥ 1/100, < 1/10); uncommon (≥ 1/1,000, < 1/100); rare (≥ 1/10,000, < 1/1,000); very rare (< 1/10,000); not known (can not be estimated from the available data).
+Table 4 shows the adverse reactions ranked under headings of SOC and frequency using the following convention: very common (≥ 1/10); common (≥ 1/100, < 1/10); uncommon (≥ 1/1,000, < 1/100); rare (≥ 1/10,000, < 1/1,000); very rare (< 1/10,000); not known (can not be estimated from the available data).
 
 | SOC / Preferred Term. | Dabigatran etexilate 150 mg | Dabigatran etexilate 220 mg |
 | --- | --- | --- |
@@ -76,7 +77,7 @@ Table 3 shows the adverse reactions ranked under headings of SOC and frequency u
 
 Bleeding
 
-The table 4 shows the number (%) of patients experiencing bleeding events during the treatment period in the VTE prevention in the two pivotal clinical trials, according to dose.
+The table 5 shows the number (%) of patients experiencing bleeding events during the treatment period in the VTE prevention in the two pivotal clinical trials, according to dose.
 
 |  | Dabigatran etexilate 150 mg N (%) | Dabigatran etexilate 220 mg N (%) | Enoxaparin N (%) |
 | --- | --- | --- | --- |
@@ -99,6 +100,7 @@ Objective testing was required for a retroperitoneal bleed (ultrasound or Comput
 
 A total of 10,084 patients were treated in 4 actively controlled VTE prevention trials with at least one dose of the medicinal product.
 Of these 5,419 were treated with 150 mg or 220 mg daily of Pradaxa, while 389 received doses less than 150 mg daily and 1168 received doses in excess of 220 mg daily.
+
 In the pivotal study investigating the prevention of stroke and SEE in patients with atrial fibrillation, a total of 12,091 patients were randomized to dabigatran etexilate.
 Of these 6,059 were treated with 150 mg twice daily of dabigatran etexilate, while 5,983 received doses of 110 mg twice daily.
 
@@ -106,11 +108,11 @@ In total, about 9 % of patients treated for elective hip or knee surgery (short-
 
 The most commonly reported adverse reactions are bleedings occurring in total in approximately 14 % of patients treated short-term for elective hip or knee replacement surgery, and 16,5 % in patients with atrial fibrillation treated for the prevention of stroke and SEE.
 
-Since the patient populations treated in the 2 indications are not comparable and bleeding events are distributed over several System Organ Classes (SOC), a summary description of major and any bleeding are broken down by indication and given in tables 4 and 5 below.
+Since the patient populations treated in the 2 indications are not comparable and bleeding events are distributed over several System Organ Classes (SOC), a summary description of major and any bleeding are broken down by indication and given in tables 5 and 6 below.
 
 Although low in frequency in clinical trials, major or severe bleeding may occur and, regardless of location, may lead to disabling, life-threatening or even fatal outcomes.
 
-Table 3 shows the adverse reactions identified from the primary VTE prevention studies after hip or knee replacement surgery and the prevention of thromboembolic stroke and SEE in patients with atrial fibrillation program ranked under headings of SOC and frequency using the following convention: very common (≥ 1/10); common (≥ 1/100, < 1/10); uncommon (≥ 1/1,000, < 1/100); rare (≥ 1/10,000, < 1/1,000); very rare (< 1/10,000); not known (can not be estimated from the available data).
+Table 4 shows the adverse reactions identified from the primary VTE prevention studies after hip or knee replacement surgery and the prevention of thromboembolic stroke and SEE in patients with atrial fibrillation program ranked under headings of SOC and frequency using the following convention: very common (≥ 1/10); common (≥ 1/100, < 1/10); uncommon (≥ 1/1,000, < 1/100); rare (≥ 1/10,000, < 1/1,000); very rare (< 1/10,000); not known (can not be estimated from the available data).
 
 |  | Primary VTE prevention after hip or knee replacement surgery |  | Stroke and SEE prevention in patients with atrial fibrillation |  |
 | --- | --- | --- | --- | --- |
@@ -189,9 +191,11 @@ Prevention of VTE
 
 Prevention of stroke and SEE in adult patients with nonvalvular atrial fibrillation with one or more risk factors
 
-The table 5 shows bleeding events broken down to major and any bleeding in the pivotal study testing the prevention of thromboembolic stroke and SEE in patients with atrial fibrillation.
+The table 6 shows bleeding events broken down to major and any bleeding in the pivotal study testing the prevention of thromboembolic stroke and SEE in patients with atrial fibrillation.
 
-|  | Dabigatran etexilate 110 mg twice daily | Dabigatran etexilate 150 mg twice daily | Warfarin |
+Dabigatran etexilate Dabigatran etexilate Warfarin
+
+|  | 110 mg twice daily | 150 mg twice daily |  |
 | --- | --- | --- | --- |
 | Subjects randomized | 6,015 | 6,076 | 6,022 |
 | Major Bleeding | 342 (2.87 %) | 399 (3.32 %) | 421 (3.57 %) |
@@ -228,7 +232,7 @@ In total, 22 % of patient with atrial fibrillation treated for the prevention of
 
 The most commonly reported adverse reactions are bleedings occurring in total in approximately 16,5 % in patients with atrial fibrillation treated for the prevention of stroke and SEE.
 
-Table 3 shows the adverse reactions identified from the prevention of thromboembolic stroke and SEE in patients with atrial fibrillation program ranked under headings of System Organ Class (SOC) and frequency using the following convention: very common (≥ 1/10); common (≥ 1/100, < 1/10); uncommon (≥ 1/1,000, < 1/100); rare (≥ 1/10,000, < 1/1,000); very rare (< 1/10,000); not known (can not be estimated from the available data).
+Table 4 shows the adverse reactions identified from the prevention of thromboembolic stroke and SEE in patients with atrial fibrillation program ranked under headings of System Organ Class (SOC) and frequency using the following convention: very common (≥ 1/10); common (≥ 1/100, < 1/10); uncommon (≥ 1/1,000, < 1/100); rare (≥ 1/10,000, < 1/1,000); very rare (< 1/10,000); not known (can not be estimated from the available data).
 
 |  | Stroke and SEE prevention in patients with atrial fibrillation |  |
 | --- | --- | --- |
@@ -269,7 +273,8 @@ Table 3 shows the adverse reactions identified from the prevention of thromboemb
 | Hepatobiliary disorders |  |  |
 | Alanine aminotransferase increased | Uncommon | Uncommon |
 | Aspartate aminotransferase increased | Uncommon | Uncommon |
-| Hepatic function abnormal/ Liver function Test abnormal | Common | Common |
+| Hepatic function abnormal/ Liver function | Common | Common |
+| Test abnormal |  |  |
 | Hepatic enzyme increased | Rare | Rare |
 | Hyperbilirubinaemia | Rare | Rare |
 | Skin and subcutaneous tissue disorder |  |  |
@@ -285,4 +290,14 @@ Table 3 shows the adverse reactions identified from the prevention of thromboemb
 | Injury, poisoning and procedural complications |  |  |
 | Incision site haemorrhage | Uncommon | Uncommon |
 
-The table 4 shows bleeding events broken down to major and any bleeding in the pivotal study testing the prevention of thromboembolic stroke and SEE in patients with atrial fibrillation.
+The table 5 shows bleeding events broken down to major and any bleeding in the pivotal study testing the prevention of thromboembolic stroke and SEE in patients with atrial fibrillation.
+
+|  | Dabigatran etexilate 110 mg twice daily | Dabigatran etexilate 150 mg twice daily | Warfarin |
+| --- | --- | --- | --- |
+| Subjects randomized | 6,015 | 6,076 | 6,022 |
+| Major Bleeding | 342 (2.87 %) | 399 (3.32 %) | 421 (3.57 %) |
+| Intracranial bleeding | 27 (0.23 %) | 38 (0.32 %) | 90 (0.76 %) |
+| GI bleeding | 134 (1.14 %) | 186 (1.57 %) | 125 (1.07 %) |
+| Fatal bleeding | 23 (0.19 %) | 28 (0.23 %) | 39 (0.33 %) |
+| Minor bleeding | 1,566 (13.16 %) | 1,787 (14.85 %) | 1,931 (16.37 %) |
+| Any bleeding | 1,754 (14.74 %) | 1,993 (16.56 %) | 2,166 (18.37 %) |
