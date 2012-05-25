@@ -26,7 +26,6 @@ Patients were not required to show disease progression on docetaxel, as toxicity
 Patients were using an LHRH agonist or were previously treated with orchiectomy (N=1,195).
 In the active treatment arm, ZYTIGA was administered at a dose of 1,000 mg daily in combination with low dose prednisone or prednisolone 5 mg twice daily (N=797).
 Control patients received placebo and low dose prednisone or prednisolone 5 mg twice daily (N=398).
-
 Changes in either radiographic findings or PSA serum concentration independently do not always predict clinical benefit.
 Therefore, in this study it was recommended that patients be maintained on their study treatments until there was PSA progression (confirmed 25% increase over the patient’s baseline/nadir) together with protocol-defined radiographic progression and symptomatic or clinical progression.
 Patients with prior ketoconazole treatment for prostate cancer were excluded from this study.

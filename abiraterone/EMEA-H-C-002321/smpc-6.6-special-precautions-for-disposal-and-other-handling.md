@@ -2,4 +2,4 @@
 
 Based on its mechanism of action, ZYTIGA may harm a developing foetus; therefore, women who are pregnant or may be pregnant should not handle ZYTIGA without protection, e.g., gloves.
 
-Any unused product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

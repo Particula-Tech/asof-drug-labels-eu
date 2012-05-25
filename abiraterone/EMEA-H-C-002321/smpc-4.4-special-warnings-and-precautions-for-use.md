@@ -1,7 +1,7 @@
 # 4.4 Special warnings and precautions for use
 
 Hypertension, hypokalaemia and fluid retention due to mineralocorticoid excess
-The phase 3 study conducted with ZYTIGA excluded patients with uncontrolled hypertension, clinically significant heart disease as evidenced by myocardial infarction, or arterial thrombotic events in the past 6 months, severe or unstable angina, or New York Heart Association Class III or IV heart disease or cardiac ejection fraction measurement of < 50%.
+The phase 3 study conducted with ZYTIGA excluded patients with uncontrolled hypertension, clinically significant heart disease as evidenced by myocardial infarction, or arterial thrombotic events in the past 6 months, severe or unstable angina, or New York Heart Association Class III or IV heart failure or cardiac ejection fraction measurement of < 50%.
 ZYTIGA should be used with caution in patients with a history of cardiovascular disease.
 Safety in patients with left ventricular ejection fraction < 50% or NYHA Class III or IV heart failure has not been established.
 Before treatment hypertension must be controlled and hypokalaemia must be corrected.

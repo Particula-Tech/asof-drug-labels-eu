@@ -27,17 +27,19 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Vascular disorders | very common: hypertension |
 | Hepatobiliary disorders | common: alanine aminotransferase increased |
 | General disorders and administration site conditions | very common: oedema peripheral |
+| Injury, poisoning and procedural complications | common: fractures** |
 
 * Cardiac failure also includes congestive heart failure, left ventricular dysfunction and ejection fraction decreased
+** Fractures includes all fractures with the exception of pathological fracture
 
-The following CTCAE (version 3.0) Grade 3 adverse reactions occurred in patients treated with ZYTIGA: hypokalaemia 3%; urinary tract infection 2%; peripheral oedema, alanine aminotransferase increased, hypertension, cardiac failure and atrial fibrillation, 1% each.
+The following CTCAE (version 3.0) Grade 3 adverse reactions occurred in patients treated with ZYTIGA: hypokalaemia 3%; urinary tract infection 2%; peripheral oedema, alanine aminotransferase increased, hypertension, cardiac failure, atrial fibrillation and fractures 1% each.
 CTCAE (version 3.0) Grade 3 hypertriglyceridaemia and angina pectoris occurred in < 1% of patients.
-CTCAE (version 3.0) Grade 4 peripheral oedema, hypokalaemia, urinary tract infection, and cardiac failure occurred in < 1% of patients.
+CTCAE (version 3.0) Grade 4 peripheral oedema, hypokalaemia, urinary tract infection, cardiac failure and fractures occurred in < 1% of patients.
 
 Description of selected adverse reactions
 
 Cardiovascular reactions
-The phase 3 study excluded patients with uncontrolled hypertension, clinically significant heart disease as evidenced by myocardial infarction, or arterial thrombotic events in the past 6 months, severe or unstable angina, or New York Heart Association Class III or IV heart disease or cardiac ejection fraction measurement of < 50%.
+The phase 3 study excluded patients with uncontrolled hypertension, clinically significant heart disease as evidenced by myocardial infarction, or arterial thrombotic events in the past 6 months, severe or unstable angina, or New York Heart Association Class III or IV heart failure or cardiac ejection fraction measurement of < 50%.
 All patients enrolled (both active and placebo-treated patients) were concomitantly treated with androgen deprivation therapy, predominantly with the use of LHRH agonists, which has been associated with diabetes, myocardial infarction, cerebrovascular accident and sudden cardiac death.
 Cardiovascular adverse reactions in the phase 3 study occurred in 11% of patients who received ZYTIGA and in 7% of patients who received placebo.
 
@@ -49,8 +51,8 @@ When elevations of either ALT or AST > 5 x ULN, or elevations in bilirubin > 3 x
 In two instances marked increases in liver function tests occurred (see section 4.4).
 These two patients with normal baseline hepatic function, experienced ALT or AST elevations 15 to 40 x ULN and bilirubin elevations 2 to 6 x ULN.
 Upon discontinuation of ZYTIGA, both patients had normalisation of their liver function tests and one patient was re-treated without recurrence of the elevations.
-
-In clinical trials, the risk for hepatotoxicity was mitigated by exclusion of patients with active or symptomatic hepatitis or baseline ALT and AST ≥ 2.5 x ULN in the absence of liver metastases and > 5 x ULN if liver metastases were present.
+In clinical trials, the risk for hepatotoxicity was mitigated by exclusion of patients with active or symptomatic hepatitis or baseline ALT and AST ≥ 2.5 x ULN in the absence of liver metastases and
+> 5 x ULN if liver metastases were present.
 Abnormal liver function tests developing in patients participating in clinical trials were vigorously managed by requiring treatment interruption and permitting re-treatment only after return of liver function tests to the patient’s baseline (see section 4.2).
 Patients with elevations of ALT or AST > 20 x ULN were not re-treated.
 The safety of re-treatment in such patients is unknown.
