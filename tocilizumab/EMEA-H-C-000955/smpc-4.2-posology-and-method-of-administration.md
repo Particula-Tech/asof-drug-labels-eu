@@ -50,7 +50,7 @@ A change in dose should only be based on a consistent change in the patient’s 
 
 Dose interruptions of tocilizumab for the following laboratory abnormalities are recommended in sJIA patients in the tables below.
 If appropriate, the dose of concomitant MTX and/or other medications should be modified or dosing stopped and tocilizumab dosing interrupted until the clinical situation has been evaluated.
-As there are many co-morbid conditions that may effect laboratory values in sJIA, In sJIA, the decision to discontinue tocilizumab for a laboratory abnormality should be based upon the medical assessment of the individual patient.
+As there are many co-morbid conditions that may effect laboratory values in sJIA, the decision to discontinue tocilizumab for a laboratory abnormality should be based upon the medical assessment of the individual patient.
 
 - Liver enzyme abnormalities
 
@@ -88,7 +88,6 @@ Renal function should be monitored closely in these patients.
 
 Hepatic impairment: RoActemra has not been studied in patients with hepatic impairment.
 Therefore, no dose recommendations can be made.
-
 Method of administration
 After dilution, RoActemra for RA and sJIA patients should be administered as an intravenous infusion over 1 hour.
 
@@ -96,6 +95,7 @@ RA Patients, and SJIA Patients ≥ 30 kg
 RoActemra should be diluted to a final volume of 100 ml with sterile, non-pyrogenic sodium chloride 9 mg/ml (0.9%) solution for injection using aseptic technique.
 
 For further information on dilution prior to administration, see section 6.6.
+
 SJIA Patients < 30 kg
 RoActemra should be diluted to a final volume of 50 ml with sterile, non-pyrogenic sodium chloride 9 mg/ml (0.9%) solution for injection using aseptic technique.
 

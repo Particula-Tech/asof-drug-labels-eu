@@ -8,12 +8,12 @@ In the double-blind controlled studies, 774 patients received tocilizumab 4 mg/k
 
 The long-term exposure population includes all patients who received at least one dose of tocilizumab either in the double-blind control period or open label extension phase in the studies.
 Of the 4009 patients in this population, 3577 received treatment for at least 6 months, 3296 for at least one year, 2806 received treatment for at least 2 years and 1222 for 3 years..
-
 The most commonly reported ADRs (occurring in ≥ 5% of patients treated with tocilizumab monotherapy or in combination with DMARDs) were upper respiratory tract infections, nasopharyngitis, headache, hypertension and increased ALT.
 
 The ADRs listed in Table 1 are presented by system organ class and frequency categories, defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to < 1/10) or uncommon
 (≥ 1/1,000 to < 1/100).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+
 Table 1.
 Summary of ADRs occurring in patients with RA receiving tocilizumab as monotherapy or in combination with MTX or other DMARDs in the double-blind controlled period
 
@@ -46,6 +46,10 @@ In the long-term exposure population, the overall rate of serious infections (ba
 Reported serious infections, some with fatal outcome, included active tuberculosis, which may present with intrapulmonary or extrapulmonary disease, invasive pulmonary infections, including candidiasis, aspergillosis, coccidioidomycosis and pneumocystis jirovecii, pneumonia, cellulitis, herpes zoster, gastroenteritis, diverticulitis, sepsis and bacterial arthritis.
 Cases of opportunistic infections have been reported.
 
+Interstitial Lung Disease
+Impaired lung function may increase the risk for developing infections.
+There have been post-marketing reports of interstitial lung disease (including pneumonitis and pulmonary fibrosis), some of which had fatal outcomes.
+
 Gastrointestinal Perforation
 During the six month controlled clinical trials, the overall rate of gastrointestinal perforation was 0.26 events per 100 patient years with tocilizumab therapy.
 In the long-term exposure population the overall rate of gastrointestinal perforation was 0.28 events per 100 patient years.
@@ -75,7 +79,6 @@ Infections with neutropenia have been reported.
 It is not clear if the infections were related to neutropenia.
 
 During the double-blind controlled period and with long-term exposure, the pattern and incidence of decreases in neutrophil counts remained consistent with what was seen in the 6-month controlled clinical trials.
-
 Platelets
 In the 6-month controlled trials decreases in platelet counts below 100 x 103/ μl occurred in 1.7% of patients on tocilizumab 8 mg/kg plus DMARDs compared to < 1% on placebo plus DMARDs.
 These decreases occurred without associated bleeding events.
@@ -83,6 +86,7 @@ These decreases occurred without associated bleeding events.
 During the double-blind controlled period and with long-term exposure, the pattern and incidence of decreases in platelet counts remained consistent with what was seen in the 6-month controlled clinical trials.
 
 Very rare reports of pancytopenia have occurred in the post marketing setting.
+
 Hepatic transaminase elevations
 During the 6-month controlled trials transient elevations in ALT/AST > 3 x ULN were observed in 2.1% of patients on tocilizumab 8 mg/kg compared to 4.9% of patients on MTX and in 6.5% of patients who received 8 mg/kg tocilizumab plus DMARDs compared to 1.5% of patients on placebo plus DMARDs.
 
@@ -110,7 +114,6 @@ In the 12 week double-blind, controlled phase, 75 patients received treatment wi
 After 12 weeks or at the time of switching to tocilizumab, due to disease worsening, patients were treated in the ongoing open label extension phase.
 
 In general, the ADRs in sJIA patients were similar in type to those seen in RA patients, see section 4.8.
-
 Infections
 In the 12 week controlled phase, the rate of all infections in the tocilizumab group was 344.7 per 100 patient years and 287.0 per 100 patient years in the placebo group.
 In the ongoing open label extension phase (Part II), the overall rate of infections remained similar at 306.6 per 100 patient years.
@@ -118,6 +121,7 @@ In the ongoing open label extension phase (Part II), the overall rate of infecti
 In the 12 week controlled phase, the rate of serious infections in the tocilizumab group was 11.5 per 100 patient years.
 At one year in the ongoing open label extension phase the overall rate of serious infections remained stable at 11.3 per 100 patient years.
 Reported serious infections were similar to those seen in RA patients with the addition of varicella and otitis media.
+
 Infusion Reactions
 Infusion related reactions are defined as all events occurring during or within 24 hours of an infusion.
 In the 12 week controlled phase, 4% of patients from the tocilizumab group experienced events occurring during infusion.
@@ -149,7 +153,6 @@ Hepatic transaminase elevations
 During routine laboratory monitoring in the 12 week controlled phase, elevation in ALT or AST ≥ 3 x ULN occurred in 5% and 3% of patients, respectively, in the tocilizumab group, and 0% in the placebo group.
 
 In the ongoing open label extension phase, elevation in ALT or AST ≥ 3 x ULN occurred in 12% and 4% of patients, respectively, in the tocilizumab group.
-
 Immunoglobuilin G
 IgG levels decrease during therapy.
 A decrease to the lower limit of normal occurred in 15 patients at some point in the study.
@@ -158,4 +161,5 @@ Lipid parameters
 During routine laboratory monitoring in the 12 week controlled phase, elevation in total cholesterol
 > 1.5 x ULN to 2 x ULN occurred in 1.5% of the tocilizumab group and none in the placebo group.
 Elevation in LDL > 1.5 x ULN to 2 x ULN occurred in 1.9% of patients in the tocilizumab group, and in 0% of the placebo group.
+
 In the ongoing open label extension phase, the pattern and incidence of elevations in lipid parameters remained consistent with the 12 week controlled phase data.

@@ -4,7 +4,7 @@ Infections
 Serious and sometimes fatal infections have been reported in patients receiving immunosuppressive agents including RoActemra (see section 4.8, Undesirable Effects).
 RoActemra treatment should not be initiated in patients with active infections (see section 4.3).
 Administration of RoActemra should be interrupted if a patient develops a serious infection until the infection is controlled (see section 4.8).
-Healthcare professionals should exercise caution when considering the use of RoActemra in patients with a history of recurring or chronic infections or with underlying conditions (e.g. diverticulitis, diabetes) which may predispose patients to infections.
+Healthcare professionals should exercise caution when considering the use of RoActemra in patients with a history of recurring or chronic infections or with underlying conditions (e.g. diverticulitis, diabetes and interstitial lung disease) which may predispose patients to infections.
 
 Vigilance for the timely detection of serious infection is recommended for patients receiving biological treatments for moderate to severe RA or sJIA as signs and symptoms of acute inflammation may be lessened, associated with suppression of the acute phase reaction.
 The effects of tocilizumab on C-reactive protein (CRP), neutrophils and signs and symptoms of infection should be considered when evaluating a patient for a potential infection.
@@ -58,12 +58,12 @@ Severe neutropenia may be associated with an increased risk of serious infection
 
 In RA patients, neutrophils and platelets should be monitored 4 to 8 weeks after start of therapy and thereafter according to standard clinical practice.
 For recommended dose modifications based on ANC and platelet counts, see section 4.2.
-
 In sJIA patients, neutrophils and platelets should be monitored at the time of second infusion and thereafter according to good clinical practice, see section 4.2.
 
 Lipid parameters
 Elevations in lipid parameters including total cholesterol, low-density lipoprotein (LDL), high-density lipoprotein (HDL) and triglycerides were observed in patients treated with tocilizumab (see section 4.8).
 In the majority of patients, there was no increase in atherogenic indices, and elevations in total cholesterol responded to treatment with lipid lowering agents.
+
 In sJIA and RA patients, assessment of lipid parameters should be performed 4 to 8 weeks following initiation of RoActemra therapy.
 Patients should be managed according to local clinical guidelines for management of hyperlipidaemia.
 
