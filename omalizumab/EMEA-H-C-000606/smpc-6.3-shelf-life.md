@@ -15,6 +15,10 @@ If not used immediately, in-use storage times and conditions prior to use are th
 
 1 year.
 
+The shelf life includes potential temperature excursions.
+The product may be kept for a total of 4 hours at 25°C.
+If necessary, the product may be returned to the refrigerator for later use, but this must not be done more than once.
+
 [Xolair 150 mg solution for injection]
 
 (all sentences already above)

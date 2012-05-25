@@ -80,6 +80,7 @@ Physician‟s overall assessment of treatment effectiveness:
 Physician‟s overall assessment was performed in five of the above studies as a broad measure of asthma control performed by the treating physician.
 The physician was able to take into account PEF (peak expiratory flow), day and night time symptoms, rescue medication use, spirometry and exacerbations.
 In all five studies a significantly greater proportion of Xolair treated patients were judged to have achieved either a marked improvement or complete control of their asthma compared to placebo patients.
+
 Children 6 to <12 years of age
 The primary support for safety and efficacy of Xolair in the group aged 6 to <12 years comes from one randomised, double-blind, placebo-controlled, multi-centre trial (study 7).
 

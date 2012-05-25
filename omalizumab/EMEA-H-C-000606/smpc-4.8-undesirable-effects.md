@@ -5,6 +5,7 @@ Over 4,400 allergic asthma patients were randomised in controlled efficacy trial
 During clinical trials in adult and adolescent patients 12 years of age and older, the most commonly reported adverse reactions were injection site reactions, including injection site pain, swelling, erythema and pruritus, and headaches.
 In clinical trials in children 6 to <12 years of age, the most commonly reported adverse reactions suspected of being related to the medicinal product were headache, pyrexia and upper abdominal pain.
 Most of the reactions were mild or moderate in severity.
+
 Table 4 lists the adverse reactions recorded in clinical studies in the total safety population treated with Xolair by MedDRA system organ class and frequency.
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 Frequency categories are defined as: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000) and very rare (<1/10,000).
@@ -42,8 +43,8 @@ For further information, see section 4.4.
 
 Malignancies
 The overall observed incidence rate of malignancy in adults and in adolescents 12 years of age and older in the Xolair clinical trial programme was comparable to that reported in the general population (see section 4.4).
-
 There were no cases of malignancy with omalizumab in the clinical trials in children 6 to <12 years of age; there was a single case of malignancy in the control group.
+
 Arterial thromboembolic events (ATE)
 In controlled clinical trials and an ongoing observational study, a numerical imbalance of ATEs was observed.
 ATE included stroke, transient ischaemic attack, myocardial infarction, unstable angina, and cardiovascular death (including death from unknown cause).

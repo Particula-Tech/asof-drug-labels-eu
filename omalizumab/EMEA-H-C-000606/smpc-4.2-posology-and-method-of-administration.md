@@ -33,7 +33,6 @@ Dose (mg) Number of vials Number of injections Total injection volume (ml)
 a 0.6 ml = maximum delivered volume per vial (Xolair 75 mg).
 b 1.2 ml = maximum delivered volume per vial (Xolair 150 mg).
 c or use 0.6 ml from a 150 mg vial.
-
 Table 2: ADMINISTRATION EVERY 4 WEEKS.
 Xolair doses (milligrams per dose) administered by subcutaneous injection every 4 weeks
 
@@ -41,27 +40,29 @@ Xolair doses (milligrams per dose) administered by subcutaneous injection every 
 | --- | --- |
 | Baseline IgE (IU/ml) | >90- >125- >20-25 >25-30 >30-40 >40-50 >50-60 >60-70 >70-80 >80-90 125 150 |
 | ≥30-100 | 75 75 75 150 150 150 150 150 300 300 |
-| >100-200 | 150 150 150 300 300 300 300 300 |
-| >200-300 | 150 150 225 300 300 |
-| >300-400 | 225 225 300 |
-| >400-500 >500-600 | 225 300 ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 300 300 |
-| >600-700 | 300 |
+| >100-200 | 150 150 150 300 300 300 300 300 450 600 |
+| >200-300 | 150 150 225 300 300 450 450 450 600 |
+| >300-400 | 225 225 300 450 450 450 600 600 |
+| >400-500 | 225 300 450 450 600 600 |
+| >500-600 | 300 300 450 600 600 |
+| >600-700 | 300 450 600 |
+| >700-800 >800-900 >900-1000 >1000-1100 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 |
 
 Table 3: ADMINSTRATION EVERY 2 WEEKS.
 Xolair doses (milligrams per dose) administered by subcutaneous injection every 2 weeks
 
-|  | Body weight (kg) |
-| --- | --- |
-| Baseline IgE (IU/ml) | >90- >125- >20-25 >25-30 >30-40 >40-50 >50-60 >60-70 >70-80 >80-90 125 150 |
-| ≥30-100 >100-200 | ADMINISTRATION EVERY 4 WEEKS SEE TABLE 2 225 300 |
-| >200-300 | 225 225 225 300 375 |
-| >300-400 | 225 225 225 300 300 450 525 |
-| >400-500 | 225 225 300 300 375 375 525 600 |
-| >500-600 | 225 300 300 375 450 450 600 |
-| >600-700 | 225 225 300 375 450 450 525 |
-| >700-800 | 225 225 300 375 450 450 525 600 |
-| >800-900 | 225 225 300 375 450 525 600 |
-| >900-1000 >1000-1100 >1100-1200 >1200-1300 >1300-1500 | 225 300 375 450 525 600 225 300 375 450 600 300 300 450 525 600 DO NOT ADMINISTER– data is unavailable for dose recommendation 300 375 450 525 300 375 525 600 |
+|  | Body weight (kg) |  |
+| --- | --- | --- |
+| Baseline IgE (IU/ml) | >90- >20-25 >25-30 >30-40 >40-50 >50-60 >60-70 >70-80 >80-90 125 | >125-150 |
+| ≥30-100 >100-200 | ADMINISTRATION EVERY 4 WEEKS SEE TABLE 2 |  |
+| >200-300 | 375 |  |
+| >300-400 | 450 525 |  |
+| >400-500 | 375 375 525 600 |  |
+| >500-600 | 375 450 450 600 |  |
+| >600-700 | 225 375 450 450 525 |  |
+| >700-800 | 225 225 300 375 450 450 525 600 |  |
+| >800-900 | 225 225 300 375 450 525 600 |  |
+| >900-1000 >1000-1100 >1100-1200 >1200-1300 >1300-1500 | 225 300 375 450 525 600 225 300 375 450 600 300 300 450 525 600 DO NOT ADMINISTER– data is unavailable for dose recommendation 300 375 450 525 300 375 525 600 |  |
 
 Treatment duration, monitoring and dose adjustments
 Xolair is intended for long-term treatment.
@@ -103,7 +104,18 @@ For instructions on reconstitution of Xolair before administration, see section 
 
 [Xolair 150 mg powder and solvent for solution for injection]
 
-(all sentences already above)
+|  | Body weight (kg) |
+| --- | --- |
+| Baseline IgE (IU/ml) | >90- >125- >20-25 >25-30 >30-40 >40-50 >50-60 >60-70 >70-80 >80-90 125 150 |
+| ≥30-100 >100-200 | ADMINISTRATION EVERY 4 WEEKS SEE TABLE 2 |
+| >200-300 | 375 |
+| >300-400 | 450 525 |
+| >400-500 | 375 375 525 600 |
+| >500-600 | 375 450 450 600 |
+| >600-700 | 225 375 450 450 525 |
+| >700-800 | 225 225 300 375 450 450 525 600 |
+| >800-900 | 225 225 300 375 450 525 600 |
+| >900-1000 >1000-1100 >1100-1200 >1200-1300 >1300-1500 | 225 300 375 450 525 600 225 300 375 450 600 300 300 450 525 600 DO NOT ADMINISTER– data is unavailable for dose recommendation 300 375 450 525 300 375 525 600 |
 
 [Xolair 75 mg solution for injection]
 
@@ -125,4 +137,7 @@ Therefore treatment is intended to be administered by a healthcare provider only
 
 [Xolair 150 mg solution for injection]
 
-(all sentences already above)
+|  | Body weight (kg) |
+| --- | --- |
+| Baseline IgE (IU/ml) | >90- >125- >20-25 >25-30 >30-40 >40-50 >50-60 >60-70 >70-80 >80-90 125 150 |
+| ≥30-100 75 75 75 150 150 150 150 150 300 300 >100-200 150 150 150 300 300 300 300 300 450 600 >200-300 150 150 225 300 300 450 450 450 600 >300-400 225 225 300 450 450 450 600 600 >400-500 225 300 450 450 600 600 >500-600 300 300 450 600 600 >600-700 300 450 600 >700-800 >800-900 ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 >900-1000 >1000-1100 |  |

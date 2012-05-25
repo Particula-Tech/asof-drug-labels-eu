@@ -69,8 +69,10 @@ Xolair 150 mg powder for solution for injection is supplied in a single-use vial
 Prior to completion of the injection, avoid contact with the device activation clips to keep from prematurely covering the needle with the needle guard.
 
 Using the syringe
-Pull off the needle cap from the syringe and discard it.
+Holding the syringe with the needle pointing upwards, carefully pull off the needle cap from the syringe and discard it.
 Do not touch the exposed needle.
+Then, gently tap the syringe with your finger until the air bubble rises to the top of the syringe.
+Slowly push the plunger up to force the air bubble out of the syringe without inadvertently expelling solution.
 Gently pinch the skin at the injection site and insert the needle.
 Holding onto the finger flange, slowly depress the plunger as far as it will go.
 If any solution leaks from the injection site, insert the needle further.
