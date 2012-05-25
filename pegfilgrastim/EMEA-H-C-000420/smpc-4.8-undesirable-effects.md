@@ -45,6 +45,10 @@ mediastinal Pulmonary adverse
 disorders effects (interstitial
 pneumonia,
 pulmonary oedema,
+MedDRA Adverse reactions
+system organ class Very common (≥ 1/10) (≥ 1/100 to Common (≥ 1/1000 to < 1/100) Uncommon (≥ 1/10,000 Rare (< 1/10,000) Very rare
+< 1/10) to
+< 1/1000)
 pulmonary infiltrates
 and pulmonary
 fibrosis)
@@ -90,10 +94,10 @@ The mechanism of vasculitis in patients receiving Neulasta is unknown.
 Injection site reactions, including injection site pain and injection site erythaema (common (≥ 1/100 to < 1/10)) have occurred on initial or subsequent treatment with Neulasta.
 
 Uncommon (≥ 1/1000 to < 1/100) cases of leukocytosis (White Blood Count [WBC] > 100 x 109/l) have been reported (see section 4.4).
-
 Reversible, mild to moderate elevations in uric acid and alkaline phosphatase, with no associated clinical effects, were uncommon (≥ 1/1000 to < 1/100); reversible, mild to moderate elevations in lactate dehydrogenase, with no associated clinical effects, were uncommon (≥ 1/1000 to < 1/100) in patients receiving Neulasta following cytotoxic chemotherapy.
 
 Nausea and headaches were very commonly observed in patients receiving chemotherapy.
+
 Uncommon (≥ 1/1000 to < 1/100) elevations in liver function tests (LFTs) for ALT (alanine aminotransferase) or AST (aspartate aminotransferase), have been observed in patients after receiving pegfilgrastim following cytotoxic chemotherapy.
 These elevations are transient and return to baseline.
 
