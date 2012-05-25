@@ -55,7 +55,7 @@ Paediatric population
 
 In general, the safety profile for children and adolescents (≤18 years of age) is similar to the safety profile for adults.
 The adverse reaction reports received from post marketing surveillance included relatively more frequent injection site reactions (injection site pain, injection site reaction) and skin reactions (rash, urticaria) in children and adolescents (≤18 years of age) than in adults.
-No clinical study safety data are available in children below 6 years of age.
+Clinical study safety data are not available for children under 2 years.
 
 [Lantus 100 units/ml solution for injection in a cartridge.]
 
@@ -79,4 +79,4 @@ No clinical study safety data are available in children below 6 years of age.
 
 [Lantus SoloStar 100 units/ml solution for injection in a pre-filled pen]
 
-(all sentences already above)
+Clinical study safety data are not available for children under2 years.

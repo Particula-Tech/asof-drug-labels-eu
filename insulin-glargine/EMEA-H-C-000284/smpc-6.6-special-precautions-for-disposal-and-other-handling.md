@@ -20,7 +20,6 @@ The manufacturer’s instructions for using the pen must be followed carefully f
 If the insulin pen is damaged or not working properly (due to mechanical defects) it has to be discarded, and a new insulin pen has to be used.
 
 If the pen malfunctions (see instructions for using the pen), the solution may be drawn from the cartridge into a syringe (suitable for an insulin with 100 units/ml) and injected.
-
 Cartridge
 Before insertion into the pen, the cartridge must be stored at room temperature for 1 to 2 hours.
 Inspect the cartridge before use.
@@ -77,6 +76,7 @@ The used OptiSet must be discarded as required by your local authorities.
 Maintenance
 
 OptiSet has to be protected from dust and dirt.
+
 The outside of the OptiSet can be cleaned by wiping it with a damp cloth.
 
 The pen must not be soaked, washed or lubricated as this may damage it.
@@ -186,7 +186,6 @@ Important information for use of SoloStar:
 - The patient must always have a spare SoloStar available in case the SoloStar is lost or damaged.
 
 Please check section 6.4 of this SPC for instructions on how to store SoloStar.
-
 If SoloStar is in cool storage, it should be taken out 1 to 2 hours before injection to allow it to warm up.
 
 The used SoloStar must be discarded as required by your local authorities.

@@ -24,11 +24,9 @@ For storage conditions after first opening of this medicinal product,, see secti
 
 Not in-use pens
 Keep the prefilled pen in the outer carton in order to protect from light.
-
 In-use pens
 
 [Lantus SoloStar 100 units/ml solution for injection in a pre-filled pen]
 
 Keep the pre-filled pen in the outer carton in order to protect from light.
-
 In use pens

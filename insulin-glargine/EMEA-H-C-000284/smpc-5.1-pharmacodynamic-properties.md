@@ -8,8 +8,8 @@ Mechanism of action
 Insulin glargine is a human insulin analogue designed to have a low solubility at neutral pH.
 It is completely soluble at the acidic pH of the Lantus injection solution (pH 4).
 After injection into the subcutaneous tissue, the acidic solution is neutralised leading to formation of micro-precipitates from which small amounts of insulin glargine are continuously released, providing a smooth, peakless, predictable concentration/time profile with a prolonged duration of action.
-
 Insulin glargine is metabolised into 2 active metabolites M1 and M2 (see section 5.2).
+
 Insulin receptor binding: In vitro studies indicate that the affinity of insulin glargine and its metabolites M1 and M2 for the human insulin receptor is similar to the one of human insulin.
 
 IGF-1 receptor binding: The affinity of insulin glargine for the human IGF-1 receptor is approximately 5 to 8-fold greater than that of human insulin (but approximately 70 to 80-fold lower than the one of IGF-1), whereas M1 and M2 bind the IGF-1 receptor with slightly lower affinity compared to human insulin.
@@ -49,7 +49,6 @@ Time (h) after s.c. injection End of observation
 
 period
 *determined as amount of glucose infused to maintain constant plasma glucose levels (hourly mean values)
-
 The longer duration of action of subcutaneous insulin glargine is directly related to its slower rate of absorption and supports once daily administration.
 The time course of action of insulin and insulin analogues such as insulin glargine may vary considerably in different individuals or within the same individual.
 
@@ -71,6 +70,12 @@ A crossover study comparing insulin glargine plus lispro insulin to NPH plus reg
 As in the paediatric study described above, fasting plasma glucose reduction from baseline was greater in the insulin glargine group than in the NPH group.
 HbA1c changes from baseline were similar between treatment groups; however blood glucose values recorded overnight were significantly higher in the insulin glargine/ lispro group than the NPH/regular group, with a mean nadir of 5.4 mM vs 4.1 mM.
 Correspondingly, the incidences of nocturnal hypoglycaemia were 32% in the insulin glargine / lispro group vs 52% in the NPH / regular group.
+
+A 24-week parallel group study was conducted in 125 children with type 1 diabetes mellitus aged 2 to 6 years, comparing insulin glargine given once daily in the morning to NPH insulin given once or twice daily as basal insulin.
+Both groups received bolus insulin before meals.
+The primary aim of demonstrating non-inferiority of insulin glargine to NPH in all hypoglycaemia was not met and there was a trend to an increase of hypoglycemic events with insulin glargine [insulin glargine: NPH rate ratio (95% CI) = 1.18 (0.97-1.44)].
+Glycohaemoglobin and glucose variabilities were comparable in both treatment groups.
+No new safety signals were observed in this trial.
 
 [Lantus 100 units/ml solution for injection in a cartridge.]
 
