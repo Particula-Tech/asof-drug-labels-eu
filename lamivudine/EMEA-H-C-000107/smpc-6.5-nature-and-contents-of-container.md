@@ -5,7 +5,8 @@ Child resistant HDPE bottles or PVC/aluminium foil blister packs each containing
 [Epivir 10 mg/ml oral solution]
 
 Cartons containing 240 ml oral solution in a white high density polyethylene (HDPE) bottle, with a child resistant closure.
-A 10 ml polypropylene oral dosing syringe and a polyethylene adapter are also included in the pack.
+The pack also includes a polyethylene syringe-adapter, and a 10 ml oral dosing syringe comprised of a polypropylene barrel (with ml graduations) and a polyethylene plunger.
+
 The oral dosing syringe is provided for accurate measurement of the prescribed dose of the oral solution.
 Instructions for use are included in the pack.
 
