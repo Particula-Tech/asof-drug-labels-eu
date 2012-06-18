@@ -23,18 +23,18 @@ Chronic fingolimod dosing leads to a mild decrease in the neutrophil count to ap
 Monocytes are unaffected by fingolimod.
 
 Fingolimod causes a transient reduction in heart rate and decrease in atrioventricular conduction at treatment initiation (see sections 4.4 and 4.8).
-The maximal decline in heart rate is seen in the first 4-5 hours post dose, with 70% of the negative chronotropic effect achieved on the first day.
+The maximal decline in heart rate is seen within 6 hours post dose, with 70% of the negative chronotropic effect achieved on the first day.
 With continued administration heart rate returns to baseline within one month.
 The decrease in heart rate induced by fingolimod can be reversed by parenteral doses of atropine or isoprenaline.
 Inhaled salmeterol has also been shown to have a modest positive chronotropic effect.
 With initiation of fingolimod treatment there is an increase in atrial premature contractions, but there is no increased rate of atrial fibrillation/flutter or ventricular arrhythmias or ectopy.
 Fingolimod treatment is not associated with a decrease in cardiac output.
 Autonomic responses of the heart, including diurnal variation of heart rate and response to exercise are not affected by fingolimod treatment.
-
 Fingolimod treatment with single or multiple doses of 0.5 and 1.25 mg for two weeks is not associated with a detectable increase in airway resistance as measured by FEV1 and forced expiratory flow rate (FEF) 25-75.
 However, single fingolimod doses ≥5 mg (10-fold the recommended dose) are associated with a dose-dependent increase in airway resistance.
 Fingolimod treatment with multiple doses of 0.5, 1.25, or 5 mg is not associated with impaired oxygenation or oxygen desaturation with exercise or an increase in airway responsiveness to methacholine.
 Subjects on fingolimod treatment have a normal bronchodilator response to inhaled beta-agonists.
+
 Clinical efficacy and safety
 The efficacy of Gilenya has been demonstrated in two studies which evaluated once-daily doses of fingolimod 0.5 mg and 1.25 mg in patients with relapsing-remitting multiple sclerosis (RRMS).
 Both studies included patients who had experienced ≥2 relapses in the prior 2 years or ≥1 relapse during the prior year.
@@ -67,10 +67,12 @@ There were no significant differences between the 0.5 mg and the 1.25 mg doses a
 
 Table 2: Study D2302 (TRANSFORMS): Main results
 
-|  | Fingolimod 0.5 mg | Interferon beta-1a, 30 μg |
-| --- | --- | --- |
-| Clinical endpoints |  |  |
+Fingolimod Interferon beta-
+0.5 mg 1a, 30 μg
+Clinical endpoints
+
 | Annualised relapse rate (primary endpoint) | 0.16** | 0.33 |
+| --- | --- | --- |
 | Percentage of patients remaining relapse-free at 12 months | 83%** | 71% |
 | Proportion with 3-month Confirmed Disability Progression† | 6% | 8% |
 | Hazard ratio (95% CI) | 0.71 (0.42, 1.21) |  |

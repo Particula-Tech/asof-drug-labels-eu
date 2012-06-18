@@ -119,22 +119,28 @@ In renal transplant clinical studies in which patients with diabetes mellitus we
 
 Bradyarrhythmia
 Initiation of Gilenya treatment results in a transient decrease in heart rate and may also be associated with atrioventricular conduction delays (see sections 4.4 and 5.1).
-In multiple sclerosis clinical studies the maximal decline in heart rate was seen 4-5 hours after treatment initiation, with declines in mean heart rate of 8 beats per minute for Gilenya 0.5 mg.
+In multiple sclerosis clinical studies the maximal decline in heart rate was seen within 6 hours after treatment initiation, with declines in mean heart rate of 12-13 beats per minute for Gilenya 0.5 mg.
 Heart rate below 40 beats per minute was rarely observed in patients on Gilenya 0.5 mg.
 Heart rate returned to baseline within 1 month of chronic treatment.
 Bradycardia was generally asymptomatic but some patients experienced mild to moderate symptoms, including dizziness, fatigue and/or palpitations, which resolved within the first 24 hours after treatment initiation.
 
-In multiple sclerosis clinical studies first-degree atrioventricular block (prolonged PR interval on electrocardiogram) was detected after treatment initiation in 4.7% of patients on fingolimod 0.5 mg, in 2.8% of patients on intramuscular interferon beta-1a, and in 1.5% of patients on placebo.
+In multiple sclerosis clinical studies first-degree atrioventricular block (prolonged PR interval on ECG) was detected after treatment initiation in 4.7% of patients on fingolimod 0.5 mg, in 2.8% of patients on intramuscular interferon beta-1a, and in 1.5% of patients on placebo.
 Second-degree atrioventricular block was detected in less than 0.5% patients on Gilenya 0.5 mg.
-One case of transient third-degree atrioventricular block occurred three hours after the first dose of fingolimod 1.25 mg was administered and lasted for 30 seconds.
-The patient recovered spontaneously.
-The conduction abnormalities were typically transient, asymptomatic and resolved within the first 24 hours after treatment initiation.
+In the post-marketing setting, isolated reports of transient, spontaneously resolving complete AV block have been observed during the six hour monitoring period with Gilenya.
+The patients recovered spontaneously.
+The conduction abnormalities observed both in clinical trials and post-marketing were typically transient, asymptomatic and resolved within the first 24 hours after treatment initiation.
 Although most patients did not require medical intervention, one patient on Gilenya 0.5 mg received isoprenaline for asymptomatic second-degree Mobitz I atrioventricular block.
 
+In the post-marketing setting, isolated delayed onset events, including transient asystole and unexplained death, have occurred within 24 hours of the first dose.
+These cases have been confounded by concomitant medicinal products and/or pre-existing disease.
+The relationship of such events to Gilenya is uncertain.
+
 Blood pressure
-In multiple sclerosis clinical studies Gilenya 0.5 mg was associated with an average increase of approximately 2 mmHg in systolic pressure and approximately 1 mmHg in diastolic pressure, manifesting approximately 2 months after treatment initiation.
+In multiple sclerosis clinical studies Gilenya 0.5 mg was associated with an average increase of approximately 3 mmHg in systolic pressure and approximately 1 mmHg in diastolic pressure, manifesting approximately 1 month after treatment initiation.
 This increase persisted with continued treatment.
-Hypertension was reported in 6.1% of patients on fingolimod 0.5 mg and in 3.8% of patients on placebo (see also section 4.4, Blood pressure effects).
+Hypertension was reported in 6.1% of patients on fingolimod 0.5 mg and in 3.8% of patients on placebo.
+In the post-marketing setting, cases of hypertension have been reported within the first month of treatment initiation and on the first day of treatment that may require treatment with antihypertensive agents or discontinuation of Gilenya (see also section 4.4, Blood pressure effects).
+
 Liver transaminases
 In multiple sclerosis clinical studies 8% and 2% of patients treated with Gilenya 0.5 mg experienced asymptomatic elevation in serum levels of hepatic transaminases ≥3x ULN (upper limit of normal) and ≥5x ULN, respectively.
 Recurrence of liver transaminase elevations has occurred upon re-challenge in some patients, supporting a relationship to the medicinal product.

@@ -1,34 +1,51 @@
 # 4.4 Special warnings and precautions for use
 
 Bradyarrhythmia
-Initiation of Gilenya treatment results in a transient decrease in heart rate and may also be associated with atrioventricular conduction delays (see sections 4.8 and 5.1).
-Therefore, all patients should be observed for a period of 6 hours for signs and symptoms of bradycardia.
-Should post-dose bradyarrhythmia-related symptoms occur, appropriate clinical management should be initiated and observation should be continued until the symptoms have resolved.
+Initiation of Gilenya treatment results in a transient decrease in heart rate and may also be associated with atrioventricular conduction delays, including the occurrence of isolated reports of transient, spontaneously resolving complete AV block (see sections 4.8 and 5.1).
 
-After the first dose, the decline in heart rate starts within one hour and is maximal at approximately 4-5 hours.
+After the first dose, the decline in heart rate starts within one hour and is steepest within 6 hours.
+The negative chronotropic effect of Gilenya persists beyond 6 hours and progressively attenuates over subsequent days of treatment.
 With continued administration, heart rate returns to baseline within one month.
 Conduction abnormalities were typically transient and asymptomatic.
 They usually did not require treatment and resolved within the first 24 hours on treatment.
+If necessary, the decrease in heart rate induced by fingolimod can be reversed by parenteral doses of atropine or isoprenaline.
 
-Gilenya has not been studied in patients with sitting heart rate less than 55 beats per minute, patients receiving concurrent therapy with beta blockers or in those with a history of syncope.
+All patients should have an ECG and blood pressure measurement performed prior to and 6 hours after the first dose of Gilenya.
+All patients should be monitored for a period of 6 hours for signs and symptoms of bradycardia with hourly heart rate and blood pressure measurement.
+Continuous (real time) ECG monitoring during this 6 hour period is recommended.
 
-Gilenya has also not been studied in patients with second degree or higher AV block, sick-sinus syndrome, ischaemic cardiac disease, congestive heart failure or significant cardiovascular disease.
-Use of Gilenya in such patients should be based on overall benefit-risk assessment and careful observation during initiation of therapy is recommended due to the potential for serious rhythm disturbances.
-Before initiation of treatment in these patients, advice from a cardiologist is recommended.
-Gilenya has not been studied in patients with arrhythmias requiring treatment with class Ia (e.g. quinidine, disopyramide) or class III (e.g. amiodarone, sotalol) antiarrhythmic medicinal products. class Ia and class III antiarrhythmic medicinal products have been associated with cases of torsades de pointes in patients with bradycardia.
-Since initiation of Gilenya treatment results in decreased heart rate, Gilenya should not be co-administered with these medicinal products.
+Should post-dose bradyarrhythmia-related symptoms occur, appropriate clinical management should be initiated and monitoring should be continued until the symptoms have resolved.
+Should a patient require pharmacological intervention during the first-dose monitoring, overnight monitoring in a medical facility should be instituted.
 
-At treatment initiation in patients receiving beta blockers, or other substances which may decrease heart rate (e.g. verapamil, digoxin, anticholinesteratic agents or pilocarpine), caution should be exercised because of the additive effects on heart rate (see also section 4.5).
+If the heart rate at 6 hours is the lowest since the first dose was administered (suggesting that the maximum pharmacodynamic effect on the heart may not yet be manifest), monitoring should be extended by at least 2 hours and until heart rate increases again.
+Additionally, if after 6 hours, the heart rate is <45 bpm, or the ECG shows new onset second degree or higher grade AV block or a QTc interval ≥500 msec, extended monitoring (at least overnight monitoring), should be performed, and until the findings have resolved.
+The occurrence at any time of third degree AV block should also lead to extended monitoring (at least overnight monitoring).
+
+Due to the risk of serious rhythm disturbances, Gilenya should not be used in patients with second degree Mobitz type II or higher AV block, sick-sinus syndrome, or sino-atrial heart block, a history of symptomatic bradycardia or recurrent syncope, or in patients with significant QT prolongation (QTc>470msec (female) or >450msec (male)).
+Since significant bradycardia may be poorly tolerated in patients with known ischaemic heart disease (including angina pectoris), cerebrovascular disease, history of myocardial infarction, congestive heart failure, history of cardiac arrest, uncontrolled hypertension or severe sleep apnoea, Gilenya should not be used in these patients.
+In such patients, treatment with Gilenya should be considered only if the anticipated benefits outweigh the potential risks.
+If treatment is considered, advice from a cardiologist should be sought prior to initiation of treatment in order to determine the most appropriate monitoring, at least overnight extended monitoring is recommended for treatment initiation (see also section 4.5).
+
+Gilenya has not been studied in patients with arrhythmias requiring treatment with class Ia (e.g. quinidine, disopyramide) or class III (e.g. amiodarone, sotalol) antiarrhythmic medicinal products.
+Class Ia and class III antiarrhythmic medicinal products have been associated with cases of torsades de pointes in patients with bradycardia.
+Since initiation of Gilenya treatment results in decreased heart rate, Gilenya should not be used concomitantly with these medicinal products.
+
+Experience with Gilenya is limited in patients receiving concurrent therapy with beta blockers, heart-rate-lowering calcium channel blockers (such as verapamil, diltiazem or ivabradine), or other substances which may decrease heart rate (e.g. digoxin, anticholinesteratic agents or pilocarpine).
+Since the initiation of Gilenya treatment is also associated with slowing of the heart rate (see also section 4.8, Bradyarrhythmia), concomitant use of these substances during Gilenya initiation may be associated with severe bradycardia and heart block.
+Because of the potential additive effect on heart rate treatment with Gilenya should not be initiated in patients who are concurrently treated with these substances (see also section 4.5).
+In such patients, treatment with Gilenya should be considered only if the anticipated benefits outweigh the potential risks.
+If treatment with Gilenya is considered, advice from a cardiologist should be sought regarding the switch to non heart-rate lowering medicinal products prior to initiation of treatment.
+If the heart-rate-lowering medication cannot be stopped, cardiologist’s advice should be sought to determine appropriate first dose monitoring, at least overnight extended monitoring is recommended (see also section 4.5).
 
 If therapy is discontinued for more than 2 weeks, the effects on heart rate and atrioventricular conduction may recur on re-introduction of Gilenya treatment and the same precautions as for treatment initiation should apply.
 
 QT interval
 In a thorough QT interval study of doses of 1.25 or 2.5 mg fingolimod at steady-state, when a negative chronotropic effect of fingolimod was still present, fingolimod treatment resulted in a prolongation of QTcI, with the upper limit of the 90% CI ≤13.0 ms. There is no dose- or exposure-response relationship of fingolimod and QTcI prolongation.
 There is no consistent signal of increased incidence of QTcI outliers, either absolute or change from baseline, associated with fingolimod treatment.
-
 The clinical relevance of this finding is unknown.
 In the multiple sclerosis studies, clinically relevant effects on prolongation of the QTc-interval have not been observed but patients at risk for QT prolongation were not included in clinical studies.
-Medicinal products that may prolong QTc interval are best avoided in patients with relevant risk factors, for example, hypokalaemia, congenital QT prolongation, congestive heart failure, concomitant administration of antiarrhythmic medicinal products in class Ia (e.g. quinidine, disopyramide), or class III (e.g. amiodarone, sotalol).
+
+Medicinal products that may prolong QTc interval are best avoided in patients with relevant risk factors, for example, hypokalaemia or congenital QT prolongation.
 
 Infections
 A core pharmacodynamic effect of Gilenya is a dose-dependent reduction of the peripheral lymphocyte count to 20-30% of baseline values.
@@ -48,6 +65,7 @@ Effective diagnostic and therapeutic strategies should be employed in patients w
 During treatment, patients receiving Gilenya should be instructed to report symptoms of infection to their physician.
 
 Suspension of Gilenya should be considered if a patient develops a serious infection and consideration of benefit-risk should be undertaken prior to re-initiation of therapy.
+
 Elimination of fingolimod following discontinuation of therapy may take up to two months and vigilance for infection should therefore be continued throughout this period.
 Patients should be instructed to report symptoms of infection up to 2 months after discontinuation of fingolimod.
 
@@ -63,7 +81,6 @@ It is recommended that multiple sclerosis patients with diabetes mellitus or a h
 Continuation of Gilenya in patients with macular oedema has not been evaluated.
 It is recommended that Gilenya be discontinued if a patient develops macular oedema.
 A decision on whether or not Gilenya therapy should be re-initiated after resolution of macular oedema needs to take into account the potential benefits and risks for the individual patient.
-
 Liver function
 During clinical trials, elevations 3-fold the upper limit of normal (ULN) or greater in liver transaminases occurred in 8% of patients treated with fingolimod 0.5 mg compared to 2% of placebo patients.
 Elevations 5-fold the ULN occurred in 2% of patients on fingolimod and 1% of patients on placebo.
@@ -85,6 +102,7 @@ Patients who develop symptoms suggestive of hepatic dysfunction, such as unexpla
 Resumption of therapy will be dependent on whether or not another cause of liver injury is determined and on the benefits to patient of resuming therapy versus the risks of recurrence of liver dysfunction.
 
 Although there are no data to establish that patients with pre-existing liver disease are at increased risk of developing elevated liver function tests when taking Gilenya, caution in the use of Gilenya should be exercised in patients with a history of significant liver disease.
+
 Interference with serological testing
 Since fingolimod reduces blood lymphocyte counts via re-distribution in secondary lymphoid organs, peripheral blood lymphocyte counts cannot be utilised to evaluate the lymphocyte subset status of a patient treated with Gilenya.
 Laboratory tests involving the use of circulating mononuclear cells require larger blood volumes due to reduction in the number of circulating lymphocytes.
@@ -92,10 +110,9 @@ Laboratory tests involving the use of circulating mononuclear cells require larg
 Blood pressure effects
 Patients with hypertension uncontrolled by medication were excluded from participation in premarketing clinical trials and special care is indicated if patients with uncontrolled hypertension are treated with Gilenya.
 
-In MS clinical trials, patients treated with fingolimod 0.5 mg had an average increase of approximately 2 mmHg in systolic pressure, and approximately 1 mmHg in diastolic pressure, first detected approximately 2 months after treatment initiation, and persisting with continued treatment.
+In MS clinical trials, patients treated with fingolimod 0.5 mg had an average increase of approximately 3 mmHg in systolic pressure, and approximately 1 mmHg in diastolic pressure, first detected approximately 1 month after treatment initiation, and persisting with continued treatment.
 In the two-year placebo-controlled study, hypertension was reported as an adverse event in 6.1% of patients on fingolimod 0.5 mg and in 3.8% of patients on placebo.
 Therefore, blood pressure should be regularly monitored during treatment with Gilenya.
-
 Respiratory effects
 Minor dose-dependent reductions in values for forced expiratory volume (FEV1) and diffusion capacity for carbon monoxide (DLCO) were observed with Gilenya treatment starting at Month 1 and remaining stable thereafter.
 Gilenya should be used with caution in patients with severe respiratory disease, pulmonary fibrosis and chronic obstructive pulmonary disease (see also section 4.8).
