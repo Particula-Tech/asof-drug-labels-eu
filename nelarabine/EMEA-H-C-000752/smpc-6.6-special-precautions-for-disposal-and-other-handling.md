@@ -1,4 +1,4 @@
-# 6.6 Special precautions for disposal
+# 6.6 Special precautions for disposal and other handling
 
 The normal procedures for proper handling and disposal of anti-tumour medicinal products should be adopted, namely:
 
@@ -9,7 +9,7 @@ The normal procedures for proper handling and disposal of anti-tumour medicinal 
 — Personnel handling this medicinal product during handling/transfer should wear protective clothing including mask, goggles and gloves.
 
 — All items for administration or cleaning, including gloves, should be placed in high-risk, waste disposal bags for high-temperature incineration.
-Liquid waste may be flushed with large amounts of water.
+Any liquid waste from the preparation of the nelarabine solution for infusion may be flushed with large amounts of water.
 
 — Accidental contact with the skin or eyes should be treated immediately with copious amounts of water.
 

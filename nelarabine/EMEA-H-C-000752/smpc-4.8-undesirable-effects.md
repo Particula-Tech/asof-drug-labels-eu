@@ -1,24 +1,18 @@
 # 4.8 Undesirable effects
 
-Clinical trial data
-
-Pivotal clinical trial data
-
+Summary of the safety profile
 The safety profile from pivotal clinical trials at the recommended doses of nelarabine in adults
 (1,500 mg/m2) and children (650 mg/m2) is based on data from 103 adults and 84 paediatric patients respectively.
 The most frequently occurring adverse events were fatigue; gastrointestinal disorders; haematological disorders; respiratory disorders; nervous system disorders; and pyrexia.
 Neurotoxicity is the dose limiting toxicity associated with nelarabine therapy (see section 4.4).
 
-The following convention has been utilised for the classification of frequency: Very common (≥1/10), Common (≥1/100 to <1/10), Uncommon (≥1/1,000 to <1/100), Rare (≥1/10,000 to <1/1,000) and Very rare (<1/10,000), not known (cannot be estimated from the available data)
-
-Adverse events(s) Adults (1,500 mg/m2) Children (650 mg/m2)
-N=103 (%) N=84 (%)
+Tabulated list of adverse reactions
+The following convention has been utilised for the classification of frequency: Very common (≥1/10), Common (≥ 1/100 to < 1/10), Uncommon (≥ 1/1,000 to < 1/100), Rare (≥ 1/10,000 to < 1/1,000) and Very rare (< 1/10,000), not known (cannot be estimated from the available data)
 
 | Adverse events(s) | Adults (1,500 mg/m2) N=103 (%) | Children (650 mg/m2) N=84 (%) |
 | --- | --- | --- |
 | Infections and infestations |  |  |
 | Infection (including but not limited to; sepsis, bacteraemia, pneumonia, fungal infection) | Very common: 40 (39) | Very common: 13 (15) |
-| There was a single additional report of biopsy confirmed progressive multifocal leukoencephalopathy in the adult population. There have been reports of sometimes fatal opportunistic infections in patients receiving nelarabine therapy. |  |  |
 | Neoplasms benign and malignant (including cysts and polyps) |  |  |
 | Tumour lysis syndrome (see also Data from compassionate use programme and non-pivotal studies) | Common: 1 (1) | N/A |
 | Blood and lymphatic system disorders |  |  |
@@ -48,7 +42,6 @@ N=103 (%) N=84 (%)
 | Dizziness | Very common: 22 (21) | N/A |
 | Headache | Very common: 15 (15) | Very common: 14 (17) |
 | Dysgeusia | Common: 3 (3) | N/A |
-| There have also been reports of events associated with demyelination and ascending peripheral neuropathies similar in appearance to Guillain-Barré syndrome. One subject in the paediatric group had a fatal neurological event of status epilepticus. |  |  |
 | Eye disorders |  |  |
 | Blurred vision | Common: 4(4) | N/A |
 | Vascular disorders |  |  |
@@ -75,6 +68,7 @@ N=103 (%) N=84 (%)
 | Arthralgia | Common: 9 (9) | Common: 1 (1) |
 | Back pain | Common: 8 (8) | N/A |
 | Pain in extremity | Common: 7 (7) | Common: 2 (2) |
+| Rhabdomyolysis, blood creatine phosphokinase increased (see Post – Marketing Data) | Rare: N/A | Rare: N/A |
 | Renal and urinary disorders |  |  |
 | Blood creatinine increased | Common: 2 (2) | Common: 5 (6) |
 | General disorders and administrative site conditions |  |  |
@@ -86,13 +80,22 @@ N=103 (%) N=84 (%)
 | Fatigue | Very common: 51 (50) | Common: 1 (1) |
 | Asthenia | Very common: 18 (17) | Common: 5 (6) |
 
+Description of selected adverse reactions
+
+Infection and Infestations
+There was a single additional report of biopsy confirmed progressive multifocal leukoencephalopathy in the adult population.
+There have been reports of sometimes fatal opportunistic infections in patients receiving nelarabine therapy.
+
+Nervous System disorders
+There have been reports of events associated with demyelination and ascending peripheral neuropathies similar in appearance to Guillain-Barré syndrome.
+One subject in the paediatric group had a fatal neurological event of status epilepticus.
+
 Data from NCI studies/compassionate use programme and phase I studies
 
 In addition to the adverse reactions seen in the pivotal clinical trials, there are also data from 875 patients from NCI studies/compassionate use programme (694 patients) and Phase I (181 patients) studies of nelarabine.
 The following additional adverse reactions were seen:
 
 Neoplasms benign and malignant (including cysts and polyps)
-
 Tumour lysis syndrome – 7 cases (see sections 4.2 and 4.4)
 
 Post – Marketing Data
