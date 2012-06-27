@@ -53,7 +53,7 @@ Adverse reactions in clinical trials and post-marketing in adult patients
 | uncommon | hepatitis1, cytolytic hepatitis1, hepatic steatosis, hepatomegaly, increased transaminase, increased blood bilirubin, increased blood alkaline phosphatase, increased gamma-glutamyltransferase |
 | Skin and subcutaneous tissue disorders common | rash3 (including macular, maculopapular, papular, erythematous and pruritic rash) 1, 2, pruritus |
 | uncommon rare | angioedema, generalised rash1, 2, allergic dermatitis, urticaria, dermatitis, eczema, erythema, hyperhidrosis, night sweats, alopecia, acne, seborrhoeic dermatitis, skin lesion, xeroderma, dry skin, nail pigmentation erythema multiforme, Stevens-Johnson syndrome1 |
-| not known | toxic epidermal necrolysis1 |
+| not known | toxic epidermal necrolysis1, acute generalised exanthematous pustulosis1 |
 | Musculoskeletal and connective tissue disorders |  |
 | uncommon | myalgia2, osteonecrosis1, 2, muscle spasms, muscular weakness, musculoskeletal stiffness, arthritis, arthralgia, joint stiffness, pain in extremity, osteoporosis, increased blood creatine phosphokinase2 |
 | Renal and urinary disorders |  |
@@ -83,6 +83,7 @@ In cases of severe skin reaction see the warning in section 4.4.
 
 Lipodystrophy
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients, including loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump) (see section 4.4).
+
 Metabolic abnormalities
 Combination antiretroviral therapy has also been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
 
@@ -145,7 +146,7 @@ Among 1,968 treatment-experienced patients receiving PREZISTA co-administered wi
 | Skin and subcutaneous tissue disorders |  |
 | common | rash3 (including macular, maculopapular, papular, erythematous and pruritic rash) 1, 2, pruritus |
 | uncommon rare | angioedema, generalised rash1, 2, allergic dermatitis, urticaria, dermatitis, eczema, erythema, hyperhidrosis, night sweats, alopecia, acne, seborrhoeic dermatitis, skin lesion, xeroderma, dry skin, nail pigmentation erythema multiforme, Stevens-Johnson syndrome1 |
-| not known | toxic epidermal necrolysis1 |
+| not known | toxic epidermal necrolysis1, acute generalised exanthematous pustulosis1 |
 | Musculoskeletal and connective tissue disorders |  |
 | uncommon | myalgia2, osteonecrosis1, 2, muscle spasms, muscular weakness, musculoskeletal stiffness, arthritis, arthralgia, joint stiffness, pain in extremity, osteoporosis, increased blood creatine phosphokinase2 |
 | Renal and urinary disorders |  |

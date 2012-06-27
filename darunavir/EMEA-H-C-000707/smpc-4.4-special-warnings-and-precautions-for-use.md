@@ -28,7 +28,7 @@ As limited information is available on the use of PREZISTA in patients aged 65 a
 
 Severe skin reactions
 During the clinical development program (N=3,063), severe skin reactions, which may be accompanied with fever and/or elevations of transaminases, have been reported in 0.4% of patients.
-Stevens-Johnson Syndrome has been rarely (< 0.1%) reported, and during post-marketing experience toxic epidermal necrolysis has been reported.
+Stevens-Johnson Syndrome has been rarely (< 0.1%) reported, and during post-marketing experience toxic epidermal necrolysis and acute generalised exanthematous pustulosis have been reported.
 Discontinue PREZISTA/rtv immediately if signs or symptoms of severe skin reactions develop.
 These can include but are not limited to severe rash or rash accompanied with fever, general malaise, fatigue, muscle or joint aches, blisters, oral lesions, conjunctivitis, hepatitis and/or eosinophilia.
 
