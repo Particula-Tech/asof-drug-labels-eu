@@ -1,6 +1,7 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 Caution is advised when prescribing INVEGA with medicines known to prolong the QT interval, e.g., class IA antiarrhythmics (e.g., quinidine, disopyramide) and class III antiarrhythmics (e.g., amiodarone, sotalol), some antihistaminics, some other antipsychotics and some antimalarials (e.g., mefloquine).
+
 Potential for INVEGA to affect other medicines
 Paliperidone is not expected to cause clinically important pharmacokinetic interactions with medicines that are metabolised by cytochrome P-450 isozymes.
 In vitro studies indicate that paliperidone is not an inducer of CYP1A2 activity.
@@ -18,7 +19,6 @@ No interaction study between INVEGA and lithium has been performed, however, a p
 
 Co-administration of INVEGA 12 mg once daily with divalproex sodium prolonged-release tablets (500 mg to 2000 mg once daily) did not affect the steady-state pharmacokinetics of valproate.
 Co-administration of INVEGA with divalproex sodium prolonged-release tablets increased the exposure to paliperidone (see below).
-
 Potential for other medicines to affect INVEGA
 In vitro studies indicate that CYP2D6 and CYP3A4 may be minimally involved in paliperidone metabolism, but there are no indications in vitro nor in vivo that these isozymes play a significant role in the metabolism of paliperidone.
 Concomitant administration of INVEGA with paroxetine, a potent CYP2D6 inhibitor, showed no clinically significant effect on the pharmacokinetics of paliperidone.

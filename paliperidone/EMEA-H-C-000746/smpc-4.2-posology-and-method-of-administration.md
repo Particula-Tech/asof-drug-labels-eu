@@ -41,7 +41,6 @@ As INVEGA has not been studied in patients with creatinine clearance below 10 ml
 Paediatric population
 Schizophrenia and schizoaffective disorders: There is no relevant use of INVEGA in children aged less than 12 years.
 The safety and efficacy of INVEGA in children aged 12 to 17 years has not been established.
-No data are available.
 
 Other special populations
 No dose adjustment for INVEGA is recommended based on gender, race, or smoking status.

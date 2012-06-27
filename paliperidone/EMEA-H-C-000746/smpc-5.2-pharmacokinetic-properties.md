@@ -34,6 +34,7 @@ Hepatic impairment
 Paliperidone is not extensively metabolized in the liver.
 In a study in subjects with moderate hepatic impairment (Child-Pugh class B), the plasma concentrations of free paliperidone were similar to those of healthy subjects.
 No data are available in patients with severe hepatic impairment (Child-Pugh class C).
+
 Renal impairment
 Elimination of paliperidone decreased with decreasing renal function.
 Total clearance of paliperidone was reduced in subjects with impaired renal function by 32% in mild (Creatinine Clearance [Cr Cl] = 50 to < 80 ml/min), 64% in moderate (CrCl = 30 to < 50 ml/min), and 71% in severe (CrCl = <
@@ -50,7 +51,6 @@ Population pharmacokinetics analysis revealed no evidence of race-related differ
 Gender
 The apparent clearance of paliperidone following INVEGA administration is approximately 19% lower in women than men.
 This difference is largely explained by differences in lean body mass and creatinine clearance between men and women.
-
 Smoking status
 Based on in vitro studies utilising human liver enzymes, paliperidone is not a substrate for CYP1A2; smoking should, therefore, not have an effect on the pharmacokinetics of paliperidone.
 A population pharmacokinetic analysis showed a slightly lower exposure to paliperidone in smokers compared with non-smokers.

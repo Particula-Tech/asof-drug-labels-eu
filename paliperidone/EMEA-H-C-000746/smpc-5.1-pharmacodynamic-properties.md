@@ -15,8 +15,8 @@ Even though paliperidone is a strong D2-antagonist, which is believed to relieve
 Dominating central serotonin antagonism may reduce the tendency of paliperidone to cause extrapyramidal side effects.
 
 Pharmacodynamic effects
-Clinical efficacy
 
+Clinical efficacy
 Schizophrenia
 The efficacy of INVEGA in the treatment of schizophrenia was established in three multi-centre, placebo-controlled, double-blind, 6-week trials in subjects who met DSM-IV criteria for schizophrenia.
 INVEGA doses, which varied across the three studies, ranged from 3 to 15 mg once daily.
@@ -82,7 +82,8 @@ Schizoaffective Disorder Studies: Primary Efficacy Parameter, PANSS Total Score 
 
 |  | Placebo | INVEGA Lower Dose (3-6 mg) | INVEGA Higher Dose (9-12 mg) | INVEGA Flexible Dose (3-12 mg) |
 | --- | --- | --- | --- | --- |
-| R076477-SCA-3001 Mean baseline (SD) Mean change (SD) P-value (vs. Placebo) Diff. of LS Means (SE) | (N=107) 91.6 (12.5) -21.7 (21.4) | (N=105) 95.9 (13.0) -27.4 (22.1) 0.187 -3.6 (2.7) | (N=98) 92.7 (12.6) -30.6 (19.1) 0.003 -8.3 (2.8) |  |
+| R076477-SCA-3001 Mean baseline (SD) | (N=107) 91.6 (12.5) | (N=105) 95.9 (13.0) | (N=98) 92.7 (12.6) |  |
+| Mean change (SD) P-value (vs. Placebo) Diff. of LS Means (SE) | -21.7 (21.4) | -27.4 (22.1) 0.187 -3.6 (2.7) | -30.6 (19.1) 0.003 -8.3 (2.8) |  |
 | R076477-SCH-3002 Mean baseline (SD) Mean change (SD) P-value (vs. Placebo) Diff. of LS Means (SE) | (N=93) 91.7 (12.1) -10.8 (18.7) |  |  | (N=211) 92.3 (13.5) -20.0 (20.23) <0.001 -13.5 (2.63) |
 
 Note: Negative change in score indicates improvement.
@@ -98,3 +99,35 @@ LOCF = last observation carried forward.
 Paediatric population
 The European Medicines Agency has waived the obligation to submit the results of studies with INVEGA in all subsets of the paediatric population in the treatment of schizoaffective disorders.
 See 4.2 for information on paediatric use.
+
+[INVEGA 3 mg prolonged-release tablets]
+
+| Schizophrenia Studies: Proportion of Subjects with Responder Status at LOCF End Point Studies R076477-SCH-303, R076477-SCH-304, and R076477-SCH-305: Intent-to-Treat Analysis Set |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | Placebo | INVEGA 3 mg | INVEGA 6 mg | INVEGA 9 mg | INVEGA 12 mg |
+| R076477-SCH-303 N Responder, n (%) Non-responder, n (%) P value (vs Placebo) | 126 38 (30.2) 88 (69.8) -- |  | 123 69 (56.1) 54 (43.9) <0.001 | 122 62 (50.8) 60 (49.2) 0.001 | 129 79 (61.2) 50 (38.8) <0.001 |
+| R076477-SCH-304 N Responder, n (%) Non-responder, n (%) | 105 36 (34.3) 69 (65.7) |  | 110 55 (50.0) 55 (50.0) |  | 111 57 (51.4) 54 (48.6) |
+| P value (vs Placebo) | -- |  | 0.025 |  | 0.012 |
+| R076477-SCH-305 N Responder, n (%) Non-responder, n (%) P value (vs Placebo) | 120 22 (18.3) 98 (81.7) -- | 123 49 (39.8) 74 (60.2) 0.001 |  | 123 56 (45.5) 67 (54.5) <0.001 |  |
+
+|  | Placebo | INVEGA Lower Dose (3-6 mg) | INVEGA Higher Dose (9-12 mg) | INVEGA Flexible Dose (3-12 mg) |
+| --- | --- | --- | --- | --- |
+| R076477-SCA-3001 Mean baseline (SD) Mean change (SD) P-value (vs. Placebo) Diff. of LS Means (SE) | (N=107) 91.6 (12.5) -21.7 (21.4) | (N=105) 95.9 (13.0) -27.4 (22.1) 0.187 -3.6 (2.7) | (N=98) 92.7 (12.6) -30.6 (19.1) 0.003 -8.3 (2.8) |  |
+| R076477-SCH-3002 Mean baseline (SD) Mean change (SD) P-value (vs. Placebo) Diff. of LS Means (SE) | (N=93) 91.7 (12.1) -10.8 (18.7) |  |  | (N=211) 92.3 (13.5) -20.0 (20.23) <0.001 -13.5 (2.63) |
+
+[INVEGA 6 mg prolonged-release tablets]
+
+(all sentences already above)
+
+[INVEGA 9 mg prolonged-release tablets]
+
+(all sentences already above)
+
+[INVEGA 12 mg prolonged-release tablets]
+
+Placebo INVEGA INVEGA INVEGA
+
+|  |  | Lower Dose (3-6 mg) | Higher Dose (9-12 mg) | Flexible Dose (3-12 mg) |
+| --- | --- | --- | --- | --- |
+| R076477-SCA-3001 Mean baseline (SD) Mean change (SD) P-value (vs. Placebo) Diff. of LS Means (SE) | (N=107) 91.6 (12.5) -21.7 (21.4) | (N=105) 95.9 (13.0) -27.4 (22.1) 0.187 -3.6 (2.7) | (N=98) 92.7 (12.6) -30.6 (19.1) 0.003 -8.3 (2.8) |  |
+| R076477-SCH-3002 Mean baseline (SD) Mean change (SD) P-value (vs. Placebo) Diff. of LS Means (SE) | (N=93) 91.7 (12.1) -10.8 (18.7) |  |  | (N=211) 92.3 (13.5) -20.0 (20.23) <0.001 -13.5 (2.63) |

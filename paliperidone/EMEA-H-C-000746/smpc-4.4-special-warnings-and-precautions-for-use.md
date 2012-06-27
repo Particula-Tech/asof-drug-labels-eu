@@ -13,9 +13,28 @@ Tardive dyskinesia
 Medicines with dopamine receptor antagonistic properties have been associated with the induction of tardive dyskinesia characterised by rhythmical, involuntary movements, predominantly of the tongue and/or face.
 If signs and symptoms of tardive dyskinesia appear, the discontinuation of all antipsychotics, including INVEGA, should be considered.
 
-Hyperglycaemia
-Rare cases of glucose related adverse reactions, e.g., increase in blood glucose, have been reported in clinical trials with INVEGA.
-Appropriate clinical monitoring is advisable in diabetic patients and in patients with risk factors for the development of diabetes mellitus.
+Leukopenia, neutropenia, and agranulocytosis
+Events of leucopenia, neutropenia, and agranulocytosis have been reported with antipsychotic agents, including INVEGA.
+Agranulocytosis has been reported very rarely (< 1/10,000 patients) during post-marketing surveillance.
+Patients with a history of a clinically significant low white blood cell count (WBC) or a drug-induced leukopenia/neutropenia should be monitored during the first few months of therapy and discontinuation of INVEGA should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
+Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
+Patients with severe neutropenia (absolute neutrophil count < 1 X 109/L) should discontinue INVEGA and have their WBC followed until recovery.
+
+Hyperglycemia and diabetes mellitus
+Hyperglycaemia, diabetes mellitus, and exacerbation of pre-existing diabetes have been reported during treatment with paliperidone.
+In some cases, a prior increase in body weight has been reported which may be a predisposing factor.
+Association with ketoacidosis has been reported very rarely and rarely with diabetic coma.
+Appropriate clinical monitoring is advisable in accordance with utilised antipsychotic guidelines.
+Patients treated with any atypical antipsychotic, including INVEGA, should be monitored for symptoms of hyperglycaemia (such as polydipsia, polyuria, polyphagia, and weakness) and patients with diabetes mellitus should be monitored regularly for worsening of glucose control.
+
+Weight gain
+Significant weight gain has been reported with INVEGA use.
+Weight should be monitored regularly.
+
+Hyperprolactinaemia
+Tissue culture studies suggest that cell growth in human breast tumours may be stimulated by prolactin.
+Although no clear association with the administration of antipsychotics has so far been demonstrated in clinical and epidemiological studies, caution is recommended in patients with relevant medical history.
+Paliperidone should be used with caution in patients with possible prolactin-dependent tumours.
 
 Orthostatic hypotension
 Paliperidone may induce orthostatic hypotension in some patients based on its alpha-blocking activity.
@@ -62,7 +81,6 @@ Priapism
 Antipsychotic medicinal products (including risperidone) with α-adrenergic blocking effects have been reported to induce priapism.
 During postmarketing surveillance priapism has also been reported with paliperidone, which is the active metabolite of risperidone.
 Patients should be informed to seek urgent medical care in case that priapism has not been resolved within 3-4 hours.
-
 Body temperature regulation
 Disruption of the body’s ability to reduce core body temperature has been attributed to antipsychotic medicinal products.
 Appropriate care is advised when prescribing INVEGA to patients who will be experiencing conditions which may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration.
@@ -77,7 +95,7 @@ This effect, if it occurs in humans, may mask the signs and symptoms of overdosa
 
 [INVEGA 3 mg prolonged-release tablets]
 
-Lactose content
+Lactose content (pertains only to the 3 mg tablets)
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
 [INVEGA 6 mg prolonged-release tablets]
