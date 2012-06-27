@@ -5,7 +5,8 @@ It should not be substituted for or with other paclitaxel formulations.
 
 Hypersensitivity:
 
-If hypersensitivity occurs, the medicinal product should be discontinued immediately, symptomatic treatment should be initiated, and that patient should not be rechallenged with paclitaxel.
+Rare occurrences of severe hypersensitivity reactions, including very rare events of anaphylactic reactions with fatal outcome, have been reported.
+If a hypersensitivity reaction occurs, the medicinal product should be discontinued immediately, symptomatic treatment should be initiated, and the patient should not be rechallenged with paclitaxel.
 
 Haematology:
 
@@ -19,6 +20,7 @@ Neuropathy:
 Sensory neuropathy occurs frequently with Abraxane, although development of severe symptoms is less common.
 The occurrence of grade 1 or 2 sensory neuropathy does not generally require dose reduction.
 If grade 3 sensory neuropathy develops, treatment should be withheld until resolution to grade 1 or 2 followed by a dose reduction for all subsequent courses of Abraxane is recommended (see section 4.2).
+
 Hepatic impairment:
 
 Because the toxicity of paclitaxel can be increased with hepatic impairment, administration of Abraxane in patients with hepatic impairment should be performed with caution.

@@ -10,8 +10,8 @@ Lymphopenia was observed in 45% of the patients.
 
 Nervous system disorders: In general, the frequency and severity of neurotoxicity was dose-dependent in patients receiving Abraxane.
 Peripheral neuropathy (mostly Grade 1 or 2 sensory neuropathy) was observed in 68% of patients on Abraxane with 10% being Grade 3, and no cases of Grade 4.
-
 Gastrointestinal disorders: Nausea occurred in 29% of the patients and diarrhoea in 25% of the patients.
+
 Skin and subcutaneous tissue disorders: Alopecia was observed in 90% of the patients treated with Abraxane.
 
 Musculoskeletal and connective tissue disorders: Arthralgia occurred in 32% of patients on Abraxane and was severe in 6% of cases.
