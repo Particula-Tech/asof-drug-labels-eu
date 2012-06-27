@@ -3,12 +3,6 @@
 The inorganic, lyophilized form of arsenic trioxide, when placed into solution, immediately forms the hydrolysis product arsenious acid (AsIII).
 AsIII is the pharmacologically active species of arsenic trioxide.
 
-Linearity/non-linearity:
-In the total single dose range of 7 to 32 mg (administered as 0.15 mg/kg), systemic exposure (AUC) appears to be linear.
-The decline from peak plasma concentration of AsIII occurs in a biphasic manner and is characterized by an initial rapid distribution phase followed by a slower terminal elimination phase.
-After administration at 0.15 mg/kg on a daily (n=6) or twice-weekly (n=3) regimen, an approximate 2-fold accumulation of AsIII was observed as compared to a single infusion.
-This accumulation was slightly more than expected based on single-dose results.
-
 Distribution:
 The volume of distribution (Vd) for AsIII is large (>400 L) indicating significant distribution into the tissues with negligible protein binding.
 Vd is also weight dependent, increasing with increasing body weight.
@@ -41,3 +35,9 @@ Systemic exposure to MMAV and DMAV tended to be larger in patients with renal im
 Hepatic Impairment:
 Pharmacokinetic data from patients with hepatocellular carcinoma having mild to moderate hepatic impairment indicate that AsIII or AsV do not accumulate following twice-weekly infusions.
 No clear trend toward an increase in systemic exposure to AsIII, AsV, MMAV or DMAV was observed with decreasing level of hepatic function as assessed by dose-normalized (per mg dose) AUC.
+
+Linearity/non-linearity:
+In the total single dose range of 7 to 32 mg (administered as 0.15 mg/kg), systemic exposure (AUC) appears to be linear.
+The decline from peak plasma concentration of AsIII occurs in a biphasic manner and is characterized by an initial rapid distribution phase followed by a slower terminal elimination phase.
+After administration at 0.15 mg/kg on a daily (n=6) or twice-weekly (n=3) regimen, an approximate 2-fold accumulation of AsIII was observed as compared to a single infusion.
+This accumulation was slightly more than expected based on single-dose results.

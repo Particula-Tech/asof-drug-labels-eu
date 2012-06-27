@@ -5,7 +5,6 @@ Pharmacotherapeutic group: Other antineoplastic agents, ATC code: L01XX27
 Mechanism of action: The mechanism of action of TRISENOX is not completely understood.
 Arsenic trioxide causes morphological changes and deoxyribonucleic acid (DNA) fragmentation characteristic of apoptosis in NB4 human promyelocytic leukaemia cells in vitro.
 Arsenic trioxide also causes damage or degradation of the fusion protein Pro-Myelocytic Leukaemia/Retinoic Acid Receptor-alpha (PML/RAR alpha).
-
 Clinical trials: TRISENOX has been investigated in 52 APL patients, previously treated with an anthracycline and a retinoid regimen, in two open-label, single-arm, non-comparative studies.
 One was a single investigator clinical study (n=12) and the other was a multicentre, 9-institution study (n=40).
 Patients in the first study received a median dose of 0.16 mg/kg/day of TRISENOX (range 0.06 to 0.20 mg/kg/day) and patients in the multicentre study received a fixed dose of 0.15 mg/kg/day.

@@ -33,6 +33,7 @@ Pancytopenia Common Common
 Thrombocytopenia Common Common
 Anaemia Common Not known
 Leukopenia Not known Not known
+Lymphopenia Not known Not known
 
 Metabolism and Nutrition Disorders
 
@@ -53,6 +54,7 @@ Nervous System Disorders
 
 Paraesthesia Very Common Common
 Dizziness Very Common Not known
+Headache Very Common Not known
 Convulsion Common Not known
 
 Eye Disorders
@@ -66,11 +68,11 @@ Pericardial effusion Common Common
 Ventricular extrasystoles Common Not known
 Cardiac failure Not known Not known
 Ventricular tachycardia Not known Not known
+All grades Grades≥3
 
 Vascular Disorders
 
 Vasculitis Common Common
-All grades Grades≥3
 Hypotension Common Not known
 
 Respiratory, Thoracic and Mediastinal Disorders
@@ -125,6 +127,9 @@ Hyperbilirubinaemia Common Common
 Blood creatinine increased Common Not known
 Weight increased Common Not known
 
+Gamma-glutamyltransferase increased* Not known* Not known*
+*In the CALGB study C9710, 2 cases of grade ≥3 increased GGT were reported out of the 200 patients who received TRISENOX consolidation cycles (cycle 1 and cycle 2) versus none in the control arm.
+
 During TRISENOX treatment, 14 of the 52 patients in the APL studies had one or more symptoms of APL differentiation syndrome, characterised by fever, dyspnoea, weight gain, pulmonary infiltrates and pleural or pericardial effusions, with or without leukocytosis (see section 4.4).
 Twenty-seven patients had leukocytosis (WBC ≥ 10 x 103/µl) during induction, 4 of whom had values above 100,000/µl.
 Baseline white blood cell (WBC) counts did not correlate with development of leukocytosis on study, and WBC counts during consolidation therapy were not as high as during induction.
@@ -132,6 +137,7 @@ In these studies, leukocytosis was not treated with chemotherapeutic medicinal p
 Medicinal products that are used to lower the white blood cell count often exacerbate the toxicities associated with leukocytosis, and no standard approach has proven effective.
 One patient treated under a compassionate use program died from cerebral infarct due to leukocytosis, following treatment with chemotherapeutic medicinal products to lower WBC count.
 Observation is the recommended approach with intervention only in selected cases.
+
 Mortality in the pivotal studies from disseminated intravascular coagulation (DIC) associated haemorrhage was very common (> 10%), which is consistent with the early mortality reported in the literature.
 
 Arsenic trioxide can cause QT interval prolongation (see section 4.4).
