@@ -1,11 +1,7 @@
 # 4.4 Special warnings and precautions for use
 
-The diagnosis of ITP in adults and elderly patients should have been confirmed by the exclusion of other clinical entities presenting with thrombocytopenia.
-Consideration should be given to performing a bone marrow aspirate and biopsy over the course of the disease and treatment, particularly in patients over 60 years of age, those with systemic symptoms or abnormal signs.
-
-The effectiveness and safety of eltrombopag have not been established for use in other thrombocytopenic conditions including chemotherapy-induced thrombocytopenia and myelodysplastic syndromes (MDS).
-
 Risk of hepatotoxicity
+
 Eltrombopag administration can cause abnormal liver function.
 In clinical studies with eltrombopag, increases in serum alanine aminotransferase (ALT), aspartate aminotransferase (AST) and bilirubin were observed (see section 4.8).
 
@@ -41,6 +37,7 @@ Five of the 6 patients treated with eltrombopag experienced the thrombotic compl
 
 Eltrombopag should not be used in patients with hepatic impairment (Child-Pugh score ≥ 5) unless the expected benefit outweighs the identified risk of portal venous thrombosis.
 When treatment is considered appropriate exercise caution when administering eltrombopag to ITP patients with hepatic impairment (see sections 4.2 and 4.8).
+
 Bleeding following discontinuation of eltrombopag
 
 Thrombocytopenia is likely to reoccur upon discontinuation of treatment with eltrombopag.
@@ -60,11 +57,19 @@ Following identification of a stable dose of eltrombopag, complete blood count (
 If immature or dysplastic cells are observed, peripheral blood smears should be examined for new or worsening morphological abnormalities (e.g., teardrop and nucleated red blood cells, immature white blood cells) or cytopenia(s).
 If the patient develops new or worsening morphological abnormalities or cytopenia(s), treatment with eltrombopag should be discontinued and a bone marrow biopsy considered, including staining for fibrosis.
 
-Malignancies and progression of malignancies
+Progression of existing Myelodysplastic Syndromes (MDS)
 
 TPO-R agonists are growth factors that lead to thrombopoietic progenitor cell expansion, differentiation and platelet production.
 The TPO-R is predominantly expressed on the surface of cells of the myeloid lineage.
-For TPO-R agonists there is a theoretical concern that they may stimulate the progression of existing haematopoietic malignancies such as MDS.
+For TPO-R agonists there is a concern that they may stimulate the progression of existing haematopoietic malignancies such as MDS.
+
+In clinical studies with a TPO-R agonist in patients with MDS, cases of transient increases in blast cell counts were observed and cases of MDS disease progression to acute myeloid leukaemia (AML) were reported.
+
+The diagnosis of ITP in adults and elderly patients should be confirmed by the exclusion of other clinical entities presenting with thrombocytopenia in particular the diagnosis of MDS must be excluded.
+Consideration should be given to performing a bone marrow aspirate and biopsy over the course of the disease and treatment, particularly in patients over 60 years of age, those with systemic symptoms, or abnormal signs such as increased peripheral blast cells.
+
+The effectiveness and safety of eltrombopag have not been established for use in other thrombocytopenic conditions including chemotherapy-induced thrombocytopenia or MDS.
+Eltrombopag should not be used for the treatment of thrombocytopenia due to MDS or any other cause of thrombocytopenia other than ITP outside of clinical trials.
 
 Cataracts
 
@@ -79,3 +84,5 @@ A loss of response or failure to maintain a platelet response with eltrombopag t
 [Revolade 50 mg film-coated tablets]
 
 Six of 143 (4 %) adult patients with CLD receiving eltrombopag experienced TEEs (all of the portal venous system) and two of 145 (1 %) subjects in the placebo group experienced TEEs (one in the portal venous system and one myocardial infarction).
+
+The diagnosis of ITP in adults and elderly patients should be confirmed by the exclusion of other clinical entities presenting with thrombocytopenia, in particular the diagnosis of MDS must be excluded.

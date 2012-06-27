@@ -4,10 +4,9 @@ Pharmacokinetics
 
 The plasma eltrombopag concentration-time data collected in 88 subjects with ITP in Studies TRA100773A and TRA100773B were combined with data from 111 healthy adult subjects in a population PK analysis.
 Plasma eltrombopag AUC(0-τ) and Cmax estimates for ITP subjects are presented (Table 4).
-
 Table 4: Geometric mean (95 % confidence intervals) of steady-state plasma eltrombopag pharmacokinetic parameters in adults with ITP
 
-| Eltrombopag dose, once daily | N | AUC(0-τ)a, μg.h/ml | Cmaxa , μg/ml |
+| Eltrombopag dose, once daily | N | AUC(0-τ)a, µg.h/ml | Cmaxa , µg/ml |
 | --- | --- | --- | --- |
 | 30 mg | 28 | 47 (39, 58) | 3.78 (3.18, 4.49) |
 | 50 mg | 34 | 108 (88, 134) | 8.01 (6.73, 9.53) |
@@ -34,6 +33,7 @@ In a human radiolabel study, eltrombopag accounted for approximately 64 % of pla
 Minor metabolites due to glucuronidation and oxidation were also detected.
 In vitro studies suggest that CYP1A2 and CYP2C8 are responsible for oxidative metabolism of eltrombopag.
 Uridine diphosphoglucuronyl transferase UGT1A1 and UGT1A3 are responsible for glucuronidation, and bacteria in the lower gastrointestinal tract may be responsible for the cleavage pathway.
+
 Elimination
 
 Absorbed eltrombopag is extensively metabolised.

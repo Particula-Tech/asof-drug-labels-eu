@@ -15,9 +15,9 @@ Effects were less severe at lower doses and were characterized by a spectrum of 
 The exposure at the lowest dose was 1.2 times the human clinical exposure based on AUC.
 Renal effects were not observed in rats after 28 weeks or in dogs after 52 weeks at exposures 4 and 2 times respectively, the human clinical exposure based on AUC.
 The clinical relevance of these findings is unknown.
+
 Hepatocyte degeneration and/or necrosis, often accompanied by increased serum liver enzymes, was observed in mice, rats and dogs at doses that were associated with morbidity and mortality or were poorly tolerated.
-No hepatic effects were observed after chronic dosing in rats (28 weeks) or dogs
-(52 weeks) at exposures up to 4 or 2 times, respectively, the human clinical exposure based on AUC.
+No hepatic effects were observed after chronic dosing in rats (28 weeks) or dogs (52 weeks) at exposures up to 4 or 2 times, respectively, the human clinical exposure based on AUC.
 
 At poorly tolerated doses in rats and dogs (> 10 times maximum human clinical exposure based on AUC), decreased reticulocyte counts and regenerative bone marrow erythroid hyperplasia (rats only) were observed in short term studies.
 There were no effects of note on red cell mass or reticulocyte counts after dosing for up to 28 weeks in rats, 52 weeks in dogs and 2 years in mice or rats at maximally tolerated doses which were 2 to 4 times maximum human clinical exposure based on AUC.
@@ -41,3 +41,8 @@ In vitro studies with eltrombopag suggest a potential phototoxicity risk; howeve
 Furthermore, a clinical pharmacology study in 36 subjects showed no evidence that photosensitivity was increased following administration of eltrombopag 75 mg.
 This was measured by delayed phototoxic index.
 Nevertheless, a potential risk of photoallergy cannot be ruled out since no specific preclinical study could be performed.
+
+[Revolade 50 mg film-coated tablets]
+
+No hepatic effects were observed after chronic dosing in rats (28 weeks) or dogs
+(52 weeks) at exposures up to 4 or 2 times, respectively, the human clinical exposure based on AUC.

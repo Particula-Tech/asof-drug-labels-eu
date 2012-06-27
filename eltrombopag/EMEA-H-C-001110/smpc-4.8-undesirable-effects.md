@@ -2,7 +2,6 @@
 
 Based on an analysis of all chronic ITP patients receiving eltrombopag in 3 controlled and 2 uncontrolled clinical studies, the overall incidence of adverse events in subjects treated with eltrombopag was 82 % (367/446).
 The median duration of exposure to eltrombopag was 304 days and patient year’s exposure was 377 in this study population.
-
 The adverse events listed below by MedDRA system organ class and by frequency are those that the investigator considered treatment related (N = 446).
 The frequency categories are defined as:
 
@@ -80,6 +79,7 @@ Respiratory, thoracic and mediastinal disorders
 Uncommon Epistaxis, Pulmonary embolism, Pulmonary infarction, Cough, Nasal
 
 discomfort, Oropharyngeal blistering, Oropharyngeal pain, Sinus disorder, Sleep apnoea syndrome
+
 Gastrointestinal disorders
 
 Common Nausea, Diarrhoea, Constipation, Abdominal pain upper
@@ -89,9 +89,9 @@ Vomiting, Abdominal pain, Gingival bleeding, Glossodynia, Haemorrhoids, Mouth ha
 
 Hepatobiliary disorders
 
-Common Alanine aminotransferase increased*, Aspartate aminotransferase increased*,
+Common Alanine aminotransferase increased*, Aspartate aminotransferase
 
-Blood bilirubin increased, Hyperbilirubinaemia, Hepatic function abnormal
+increased*, Blood bilirubin increased, Hyperbilirubinaemia, Hepatic function abnormal
 
 Uncommon Cholestasis, Hepatic lesion, Hepatitis
 

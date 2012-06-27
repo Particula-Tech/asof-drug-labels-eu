@@ -16,7 +16,7 @@ Concomitant administration of eltrombopag and OATP1B1 (e.g. methotrexate) and BC
 
 Cytochrome P450 substrates
 
-In studies utilizing human liver microsomes, eltrombopag (up to 100 μM) showed no in vitro inhibition of the CYP450 enzymes 1A2, 2A6, 2C19, 2D6, 2E1, 3A4/5, and 4A9/11 and was an inhibitor of CYP2C8 and CYP2C9 as measured using paclitaxel and diclofenac as the probe substrates.
+In studies utilizing human liver microsomes, eltrombopag (up to 100 µM) showed no in vitro inhibition of the CYP450 enzymes 1A2, 2A6, 2C19, 2D6, 2E1, 3A4/5, and 4A9/11 and was an inhibitor of CYP2C8 and CYP2C9 as measured using paclitaxel and diclofenac as the probe substrates.
 Administration of eltrombopag 75 mg once daily for 7 days to 24 healthy male subjects did not inhibit or induce the metabolism of probe substrates for 1A2 (caffeine), 2C19 (omeprazole), 2C9 (flurbiprofen), or 3A4 (midazolam) in humans.
 No clinically significant interactions are expected when eltrombopag and CYP450 substrates are co-administered.
 
@@ -32,7 +32,6 @@ Food interaction
 
 Administration of a single 50 mg-dose of eltrombopag with a standard high-calorie, high-fat breakfast that included dairy products reduced plasma eltrombopag AUC0-∞ by 59 % (90 % CI: 54 %, 64 %) and Cmax by 65 % (90 % CI: 59 %, 70 %).
 Food low in calcium [< 50 mg calcium] including fruit, lean ham, beef and unfortified (no added calcium, magnesium, iron) fruit juice, unfortified soy milk, and unfortified grain did not significantly impact plasma eltrombopag exposure, regardless of calorie and fat content (see section 4.2).
-
 Lopinavir/ritonavir
 
 Co-administration of eltrombopag with lopinavir/ritonavir (LPV/RTV) may cause a decrease in the concentration of eltrombopag.
