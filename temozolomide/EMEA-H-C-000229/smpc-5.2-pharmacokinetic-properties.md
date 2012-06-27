@@ -17,11 +17,12 @@ TMZ demonstrates low protein binding (10 % to 20 %), and thus it is not expected
 
 PET studies in humans and preclinical data suggest that TMZ crosses the blood-brain barrier rapidly and is present in the CSF.
 CSF penetration was confirmed in one patient; CSF exposure based on AUC of TMZ was approximately 30 % of that in plasma, which is consistent with animal data.
+
 Elimination
 
 The half-life (t1/2) in plasma is approximately 1.8 hours.
 The major route of 14C elimination is renal.
-Following oral administration, approximately 5 % to 10 % of the dose is recovered unchanged in the . urine over 24 hours, and the remainder excreted as temozolomide acid, 5-aminoimidazole-4-carboxamide (AIC) or unidentified polar metabolites.
+Following oral administration, approximately 5 % to 10 % of the dose is recovered unchanged in the urine over 24 hours, and the remainder excreted as temozolomide acid, 5-aminoimidazole-4-carboxamide (AIC) or unidentified polar metabolites.
 
 Plasma concentrations increase in a dose-related manner.
 Plasma clearance, volume of distribution and half-life are independent of dose.
@@ -35,9 +36,7 @@ Paediatric patients had a higher AUC than adult patients; however, the maximum t
 
 [Temodal 20 mg hard capsules]
 
-After oral . administration of 14C-labelled TMZ, mean faecal excretion of 14C over 7 days post-dose was 0.8 % indicationg complete absorption.
-
-Following oral administration, approximately 5 % to 10 % of the dose is recovered unchanged in the urine over 24 hours, and the remainder excreted as temozolomide acid, 5-aminoimidazole-4-carboxamide (AIC) or unidentified polar metabolites.
+(all sentences already above)
 
 [Temodal 100 mg hard capsules]
 
@@ -66,5 +65,3 @@ Mean Cmax values for TMZ and MTIC were 7.4 µg/ml and 320 ng/ml, respectively, f
 Mean AUC (0 → ∞) values for TMZ and MTIC were 25 µg•h/ml and 1,004 ng•h/ml, respectively.
 
 Following oral administration, approximatively 5 % to 10 % of the dose is recovered unchanged in the urine over 24 hours, and the remainder excreted as temozolomide acid, 5-aminoimidazole-4-carboxamide (AIC) or unidentified polar metabolites.
-
-Plasma clearance, volume of distribution and . half-life are independent of dose.

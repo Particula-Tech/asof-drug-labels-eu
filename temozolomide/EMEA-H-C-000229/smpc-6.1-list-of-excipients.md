@@ -5,7 +5,7 @@ anhydrous lactose, colloidal anhydrous silica, sodium starch glycolate type A, t
 
 Capsule shell:
 gelatin, titanium dioxide (E 171), sodium laurilsulfate, yellow iron oxide (E 172), indigo carmine (E 132),
-.
+
 Printing ink:
 shellac, propylene glycol, purified water, ammonium hydroxide, potassium hydroxide, black iron oxide (E 172).
 

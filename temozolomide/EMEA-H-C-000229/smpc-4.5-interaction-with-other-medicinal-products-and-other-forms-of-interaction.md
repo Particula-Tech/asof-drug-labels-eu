@@ -1,7 +1,5 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
-Interaction studies have only been performed in adults.
-.
 In a separate phase I study, administration of TMZ with ranitidine did not result in alterations in the extent of absorption of temozolomide or the exposure to its active metabolite monomethyl triazenoimidazole carboxamide (MTIC).
 
 Administration of TMZ with food resulted in a 33 % decrease in Cmax and a 9 % decrease in area under the curve (AUC).
@@ -14,3 +12,7 @@ No studies have been conducted to determine the effect of TMZ on the metabolism 
 However, since TMZ does not undergo hepatic metabolism and exhibits low protein binding, it is unlikely that it would affect the pharmacokinetics of other medicinal products (see section 5.2).
 
 Use of TMZ in combination with other myelosuppressive agents may increase the likelihood of myelosuppression.
+
+Paediatric population
+
+Interaction studies have only been performed in adults.
