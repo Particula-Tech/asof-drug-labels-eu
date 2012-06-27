@@ -6,9 +6,9 @@ Patients taking TNF-antagonists are more susceptible to serious infections.
 Impaired lung function may increase the risk for developing infections.
 Patients must therefore be monitored closely for infections, including tuberculosis, before, during and after treatment with Humira.
 Because the elimination of adalimumab may take up to four months, monitoring should be continued throughout this period.
-
 Treatment with Humira should not be initiated in patients with active infections including chronic or localized infections until infections are controlled.
 In patients who have been exposed to tuberculosis and patients who have travelled in areas of high risk of tuberculosis or endemic mycoses, such as histoplasmosis, coccidioidomycosis, or blastomycosis, the risk and benefits of treatment with Humira should be considered prior to initiating therapy (see Other opportunistic infections).
+
 Patients who develop a new infection while undergoing treatment with Humira, should be monitored closely and undergo a complete diagnostic evaluation.
 Administration of Humira should be discontinued if a patient develops a new serious infection or sepsis, and appropriate antimicrobial or antifungal therapy should be initiated until the infection is controlled.
 Physicians should exercise caution when considering the use of Humira in patients with a history of recurring infection or with underlying conditions which may predispose patients to infections, including the use of concomitant immunosuppressive medications.
@@ -42,10 +42,10 @@ In patients who have several or significant risk factors for tuberculosis and ha
 
 Use of anti-tuberculosis therapy should also be considered before the initiation of Humira in patients with a past history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed.
 Some patients who have previously received treatment for latent or active tuberculosis have developed active tuberculosis while being treated with Humira.
-
 Patients should be instructed to seek medical advice if signs/symptoms (e.g., persistent cough, wasting/weight loss, low grade fever) suggestive of a tuberculosis infection occur during or after therapy with Humira.
 
 Other opportunistic infections:
+
 Opportunistic infections, including invasive fungal infections have been observed in patients receiving Humira.
 These infections have not consistently been recognised in patients taking TNF-antagonists and this resulted in delays in appropriate treatment, sometimes resulting in fatal outcomes.
 
@@ -79,7 +79,6 @@ The needle cover of the syringe contains natural rubber (latex).
 This may cause severe allergic reactions in patients sensitive to latex.
 
 Immunosuppression
-
 In a study of 64 patients with rheumatoid arthritis that were treated with Humira, there was no evidence of depression of delayed-type hypersensitivity, depression of immunoglobulin levels, or change in enumeration of effector T-, B, - NK-cells, monocyte/macrophages, and neutrophils.
 
 Malignancies and lymphoproliferative disorders
@@ -162,11 +161,11 @@ There is limited safety experience of surgical procedures in patients treated wi
 The long half-life of adalimumab should be taken into consideration if a surgical procedure is planned.
 A patient who requires surgery while on Humira should be closely monitored for infections, and appropriate actions should be taken.
 There is limited safety experience in patients undergoing arthroplasty while receiving Humira.
-
 Small bowel obstruction
 
 Failure to respond to treatment for Crohn’s disease may indicate the presence of fixed fibrotic stricture that may require surgical treatment.
 Available data suggest that Humira does not worsen or cause strictures.
+
 Elderly Population
 
 The frequency of serious infections among HUMIRA treated subjects over 65 years of age (3.7%) was higher than for those under 65 years of age (1.4%).

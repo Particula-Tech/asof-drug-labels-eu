@@ -12,8 +12,8 @@ Rheumatoid arthritis
 
 Humira in combination with methotrexate, is indicated for:
 
-� the treatment of moderate to severe, active rheumatoid arthritis in adult patients when the response to disease-modifying anti-rheumatic drugs including methotrexate has been inadequate.
-� the treatment of severe, active and progressive rheumatoid arthritis in adults not previously treated with methotrexate.
+- the treatment of moderate to severe, active rheumatoid arthritis in adult patients when the response to disease-modifying anti-rheumatic drugs including methotrexate has been inadequate.
+- the treatment of severe, active and progressive rheumatoid arthritis in adults not previously treated with methotrexate.
 
 Humira can be given as monotherapy in case of intolerance to methotrexate or when continued treatment with methotrexate is inappropriate.
 
@@ -24,8 +24,8 @@ Humira has been shown to reduce the rate of progression of joint damage as measu
 Ankylosing spondylitis
 
 Humira is indicated for the treatment of adults with severe active ankylosing spondylitis who have had an inadequate response to conventional therapy.
-Psoriatic arthritis
 
+Psoriatic arthritis
 Humira is indicated for the treatment of active and progressive psoriatic arthritis in adults when the response to previous disease-modifying anti-rheumatic drug therapy has been inadequate.
 Humira has been shown to reduce the rate of progression of peripheral joint damage as measured by X-ray in patients with polyarticular symmetrical subtypes of the disease (see Section 5.1) and to improve physical function.
 

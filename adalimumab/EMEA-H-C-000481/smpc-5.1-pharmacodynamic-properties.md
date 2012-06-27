@@ -33,11 +33,9 @@ The distribution of patients by age and minimum, median and maximum dose receive
 Table 3
 Distribution of patients by age and adalimumab dose received during the OL LI phase
 
-Age Group Number of patients at Baseline Minimum, median and
-n (%) maximum dose
-
-| 4 to 7 years | 31 (18.1) | 10, 20 and 25 mg |
+| Age Group | Number of patients at Baseline n (%) | Minimum, median and maximum dose |
 | --- | --- | --- |
+| 4 to 7 years | 31 (18.1) | 10, 20 and 25 mg |
 | 8 to 12 years | 71 (41.5) | 20, 25 and 40 mg |
 | 13 to 17 years | 69 (40.4) | 25, 40 and 40 mg |
 
@@ -75,6 +73,7 @@ The efficacy and safety of Humira for the treatment of rheumatoid arthritis were
 RA study I evaluated 271 patients with moderately to severely active rheumatoid arthritis who were
 ≥ 18 years old, had failed therapy with at least one disease-modifying, anti rheumatic drug and had insufficient efficacy with methotrexate at doses of 12.5 to 25 mg (10 mg if methotrexate-intolerant) every week and whose methotrexate dose remained constant at 10 to 25 mg every week.
 Doses of 20, 40 or 80 mg of Humira or placebo were given every other week for 24 weeks.
+
 RA study II evaluated 544 patients with moderately to severely active rheumatoid arthritis who were
 ≥ 18 years old and had failed therapy with at least one disease-modifying, anti-rheumatic drugs.
 Doses of 20 or 40 mg of Humira were given by subcutaneous injection every other week with placebo on alternative weeks or every week for 26 weeks; placebo was given every week for the same duration.
@@ -104,15 +103,18 @@ ACR response
 
 The percent of Humira-treated patients achieving ACR 20, 50 and 70 responses was consistent across RA studies I, II and III.
 The results for the 40 mg every other week dose are summarised in Table 5.
+
 Table 5 ACR Responses in Placebo-Controlled Trials
 (Percent of Patients)
 
 | Response | RA Study Ia** | RA Study IIa** | RA Study IIIa** |
 | --- | --- | --- | --- |
 |  | Placebo/ Humirab/ MTXc MTXc n=63 n=60 | Placebo Humirab n=110 n=113 | Placebo/ Humirab/ MTXc MTXc n=207 n=200 |
-| ACR 20 6 months 12 months ACR 50 6 months 12 months ACR 70 6 months 12 months | 13.3% 65.1% NA NA | 19.1% 46.0% NA NA | 29.5% 63.3% 24.0% 58.9% |
+| ACR 20 6 months 12 months ACR 50 6 months 12 months ACR 70 | 13.3% 65.1% NA NA | 19.1% 46.0% NA NA | 29.5% 63.3% 24.0% 58.9% |
 |  | 6.7% 52.4% NA NA | 8.2% 22.1% NA NA | 9.5% 39.1% 9.5% 41.5% |
-|  | 3.3% 23.8% NA NA | 1.8% 12.4% NA NA | 2.5% 20.8% 4.5% 23.2% |
+
+6 months 3.3% 23.8% 1.8% 12.4% 2.5% 20.8%
+12 months NA NA NA NA 4.5% 23.2%
 
 a RA study I at 24 weeks, RA study II at 26 weeks , and RA study III at 24 and 52 weeks b 40 mg Humira administered every other week c MTX = methotrexate
 **p < 0.01, Humira versus placebo
@@ -128,6 +130,7 @@ In RA study IV, the ACR 20 response of patients treated with Humira plus standar
 In RA studies I-IV, Humira-treated patients achieved statistically significant ACR 20 and 50 responses compared to placebo as early as one to two weeks after initiation of treatment.
 
 In RA study V with early rheumatoid arthritis patients who were methotrexate naïve, combination therapy with Humira and methotrexate led to faster and significantly greater ACR responses than methotrexate monotherapy and Humira monotherapy at Week 52 and responses were sustained at Week 104 (see Table 6).
+
 Table 6 ACR Responses in RA Study V
 (percent of patients)
 
@@ -149,7 +152,6 @@ Humira/methotrexate combination therapy was clinically and statistically superio
 The response for the two monotherapy arms was similar (p = 0.447).
 
 Radiographic response
-
 In RA study III, where Humira treated patients had a mean duration of rheumatoid arthritis of approximately 11 years, structural joint damage was assessed radiographically and expressed as change in modified Total Sharp Score (TSS) and its components, the erosion score and joint space narrowing score.
 Humira/methotrexate patients demonstrated significantly less radiographic progression than patients receiving methotrexate alone at 6 and 12 months (see Table 7).
 Data from the open-label extension phase indicate that the reduction in rate of progression of structural damage is maintained for 60 months in a subset of patients.
@@ -165,6 +167,7 @@ Table 7 Radiographic Mean Changes Over 12 Months in RA Study III
 | JSNd score | 1.0 | 0.1 | 0.9 (0.3, 1.4) | 0.002 |
 
 amethotrexate b95% confidence intervals for the differences in change scores between methotrexate and Humira. cBased on rank analysis dJoint Space Narrowing
+
 In RA study V, structural joint damage was assessed radiographically and expressed as change in modified Total Sharp Score (see Table 8).
 
 Table 8 Radiographic Mean Changes at Week 52 in RA Study V
@@ -181,7 +184,6 @@ b p-value is from the pairwise comparison of Humira monotherapy and Humira/metho
 Following 52 weeks and 104 weeks of treatment, the percentage of patients without progression (change from baseline in modified Total Sharp Score ≤ 0.5) was significantly higher with Humira/methotrexate combination therapy (63.8% and 61.2% respectively) compared to methotrexate monotherapy (37.4% and 33.5% respectively, p < 0.001) and Humira monotherapy (50.7%, p < 0.002 and 44.5%, p < 0.001 respectively).
 
 Quality of life and physical function
-
 Health-related quality of life and physical function were assessed using the disability index of the Health Assessment Questionnaire (HAQ) in the four original adequate and well-controlled trials, which was a pre-specified primary endpoint at Week 52 in RA study III.
 All doses/schedules of Humira in all four studies showed statistically significantly greater improvement in the disability index of the HAQ from baseline to Month 6 compared to placebo and in RA study III the same was seen at Week 52.
 Results from the Short Form Health Survey (SF 36) for all doses/schedules of Humira in all four studies support these findings, with statistically significant physical component summary (PCS) scores, as well as statistically significant pain and vitality domain scores for the 40 mg every other week dose.
@@ -196,6 +198,7 @@ Immunogenicity
 
 Formation of anti-adalimumab antibodies is associated with increased clearance and reduced efficacy of adalimumab.
 There is no apparent correlation between the presence of anti-adalimumab antibodies and the occurrence of adverse events.
+
 In patients with polyarticular juvenile idiopathic arthritis, adalimumab antibodies were identified in 27/171 subjects (15.8%) treated with adalimumab.
 In patients not given concomitant methotrexate, the incidence was 22/86 (25.6%), compared to 5/85 (5.9%) when adalimumab was used as add-on to methotrexate.
 
@@ -220,9 +223,18 @@ Humira was evaluated in over 3000 patients in all rheumatoid arthritis clinical 
 RA study III evaluated 619 patients with moderately to severely active rheumatoid arthritis who were ≥ 18 years old, and who had an ineffective response to methotrexate at doses of 12.5 to 25 mg or have been intolerant to 10 mg of methotrexate every week.
 
 The results for the 40 mg every other week dose are summarised in Table 3.
+
 ACR Responses in Placebo-Controlled Trials
 
+| Response | RA Study Ia** | RA Study IIa** | RA Study IIIa** |
+| --- | --- | --- | --- |
+|  | Placebo/ Humirab/ MTXc MTXc n=63 n=60 | Placebo Humirab n=110 n=113 | Placebo/ Humirab/ MTXc MTXc n=207 n=200 |
+| ACR 20 6 months 12 months ACR 50 6 months 12 months ACR 70 6 months 12 months | 13.3% 65.1% NA NA | 19.1% 46.0% NA NA | 29.5% 63.3% 24.0% 58.9% |
+|  | 6.7% 52.4% NA NA | 8.2% 22.1% NA NA | 9.5% 39.1% 9.5% 41.5% |
+|  | 3.3% 23.8% NA NA | 1.8% 12.4% NA NA | 2.5% 20.8% 4.5% 23.2% |
+
 In RA study V with early rheumatoid arthritis patients who were methotrexate naïve, combination therapy with Humira and methotrexate led to faster and significantly greater ACR responses than methotrexate monotherapy and Humira monotherapy at Week 52 and responses were sustained at Week 104 (see Table 4).
+
 ACR Responses in RA Study V
 
 | Response | MTX n=257 | Humira n=274 | Humira/MTX n=268 | p-valuea | p-valueb | p-valuec |
@@ -239,6 +251,7 @@ ACR Responses in RA Study V
 | a. p-value is from the pairwise comparison of methotrexate monotherapy and Humira/methotrexate combination therapy using the Mann-Whitney U test. b. p-value is from the pairwise comparison of Humira monotherapy and Humira/methotrexate combination therapy using the Mann-Whitney U test c. p-value is from the pairwise comparison of Humira monotherapy and methotrexate monotherapy using the Mann-Whitney U test |  |  |  |  |  |  |
 
 Humira/methotrexate patients demonstrated significantly less radiographic progression than patients receiving methotrexate alone at 6 and 12 months (see Table 5).
+
 Table 5
 Radiographic Mean Changes Over 12 Months in RA Study III
 
@@ -247,17 +260,22 @@ In RA study V, structural joint damage was assessed radiographically and express
 Table 6
 Radiographic Mean Changes at Week 52 in RA Study V
 
+MTX Humira Humira/MTX
+n=257 (95% n=274 (95% n=268 (95% p-valuea p-valueb p-valuec
+confidence confidence confidence
+
+|  | interval) | interval) | interval) |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Total Sharp Score | 5.7 (4.2-7.3) | 3.0 (1.7-4.3) | 1.3 (0.5-2.1) | < 0.001 | 0.0020 | < 0.001 |
+| Erosion score | 3.7 (2.7-4.7) | 1.7 (1.0-2.4) | 0.8 (0.4-1.2) | < 0.001 | 0.0082 | < 0.001 |
+| JSN score | 2.0 (1.2-2.8) | 1.3 (0.5-2.1) | 0.5 (0-1.0) | < 0.001 | 0.0037 | 0.151 |
+
 The distribution of patients by age and minimum, median and maximum dose received during the OL LI phase is presented in Table 7.
 
 Table 7
 
-| Age Group | Number of patients at Baseline n (%) | Minimum, median and maximum dose |
-| --- | --- | --- |
-| 4 to 7 years | 31 (18.1) | 10, 20 and 25 mg |
-| 8 to 12 years | 71 (41.5) | 20, 25 and 40 mg |
-| 13 to 17 years | 69 (40.4) | 25, 40 and 40 mg |
-
 Patients demonstrating a Pediatric ACR 30 response at Week 16 were eligible to be randomised into the double blind (DB) phase and received either Humira 24 mg/m2 up to a maximum of 40 mg, or placebo every other week for an additional 32 weeks or until disease flare.
+
 Table 8
 Ped ACR 30 Responses in the JIA study
 
@@ -284,6 +302,7 @@ Subjects (n=215, 54.7%) who failed to achieve ASAS 20 at Weeks 12, or 16 or 20 r
 
 In the larger AS study I with 315 patients, results showed statistically significant improvement of the signs and symptoms of ankylosing spondylitis in patients treated with Humira compared to placebo.
 Significant response was first observed at Week 2 and maintained through 24 weeks (Table 9).
+
 Table 9 – Efficacy Responses in Placebo-Controlled AS Study – Study I
 Reduction of Signs and Symptoms
 
@@ -318,8 +337,8 @@ Humira, 40 mg every other week, was studied in patients with moderately to sever
 PsA study I with 24 week duration, treated 313 adult patients who had an inadequate response to non-steroidal anti-inflammatory drug therapy and of these, approximately 50% were taking methotrexate.
 PsA study II with 12-week duration, treated 100 patients who had an inadequate response to DMARD therapy.
 Upon completion of both studies, 383 patients enrolled in an open-label extension study, in which 40 mg Humira was administered eow.
-
 There is insufficient evidence of the efficacy of Humira in patients with ankylosing spondylitis-like psoriatic arthropathy due to the small number of patients studied.
+
 Table 10
 ACR Response in Placebo-Controlled Psoriatic Arthritis Studies
 
@@ -423,7 +442,6 @@ In CD Study III, 854 patients received open-label 80 mg at Week 0 and 40 mg at W
 At Week 4 patients were randomised to 40 mg every other Week, 40 mg every Week, or placebo with a total study duration of 56 Weeks.
 Patients in clinical response (decrease in CDAI ≥ 70) at Week 4 were stratified and analysed separately from those not in clinical response at Week 4.
 Corticosteroid taper was permitted after Week 8.
-
 CD study I and CD study II induction of remission and response rates are presented in Table 13.
 
 Table 13
@@ -465,10 +483,10 @@ Maintenance of Clinical Remission and Response
 
 * p < 0.001 for Humira versus placebo pairwise comparisons of proportions
 ** p < 0.02 for Humira versus placebo pairwise comparisons of proportions a Of those receiving corticosteroids at baseline
-
 Among patients who were not in response at Week 4, 43% of Humira maintenance patients responded by Week 12 compared to 30% of placebo maintenance patients.
 These results suggest that some patients who have not responded by Week 4 benefit from continued maintenance therapy through Week 12.
 Therapy continued beyond 12 Weeks did not result in significantly more responses (see section 4.2).
+
 117/276 patients from CD study I and 272/777 patients from CD studies II and III were followed through at least 3 years of open-label adalimumab therapy.
 88 and 189 patients, respectively, continued to be in clinical remission.
 Clinical response (CR-100) was maintained in 102 and 233 patients, respectively.
@@ -492,15 +510,25 @@ Subjects induced with 160/80 mg Humira achieved clinical remission versus placeb
 In study UC-II, among those treated with Humira who were in remission at Week 8, 21/41 (51%) were in remission at Week 52.
 
 Results from the overall UC-II study population are shown in Table 15.
+
 Table 15
 
 Response, Remission and Mucosal Healing in Study UC-II
 
-|  | Placebo | HUMIRA 40 mg every other week |
-| --- | --- | --- |
-| Week 52 | N=246 | N=248 |
-| Clinical Response Clinical Remission Mucosal Healing Steroid-free remission for ≥ 90 days a | 18% 9% 15% 6% (N=140) | 30%* 17%* 25%* 13% * (N=150) |
-| Week 8 and 52 Sustained Response Sustained Remission Sustained Mucosal Healing | 12% 4% 11% | 24%** 8%* 19%* |
+Placebo HUMIRA 40 mg every other week
+
+Week 52 N=246 N=248
+Clinical Response 18% 30%*
+Clinical Remission 9% 17%*
+Mucosal Healing 15% 25%*
+Steroid-free remission for ≥ 90 days a 6% 13% *
+(N=140) (N=150)
+
+Week 8 and 52
+
+Sustained Response 12% 24%**
+Sustained Remission 4% 8%*
+Sustained Mucosal Healing 11% 19%*
 
 Clinical remission is Mayo score ≤ 2 with no subscore > 1;
 *p<0.05 for HUMIRA vs. placebo pairwise comparison of proportions
@@ -515,6 +543,7 @@ Patients, who lost response after one year of treatment or beyond, could benefit
 
 In patients with psoriatic arthritis, anti-adalimumab antibodies were identified in 38/376 subjects (10%) treated with adalimumab.
 In patients not given concomitant methotrexate, the incidence was 13.5% (24/178 subjects), compared to 7% (14 of 198 subjects) when adalimumab was used as add-on to methotrexate.
+
 In patients with ankylosing spondylitis anti-adalimumab antibodies were identified in 17/204 subjects (8.3%) treated with adalimumab.
 In patients not given concomitant methotrexate, the incidence was 16/185 (8.6%), compared to 1/19 (5.3%) when adalimumab was used as add-on to methotrexate.
 
@@ -529,6 +558,14 @@ In plaque psoriasis patients on long term adalimumab monotherapy who participate
 The primary end point in RA studies I, II and III and the secondary endpoint in RA study IV was the percentage of patients who achieved an ACR 20 response at Week 24 or 26.
 
 .
+
+n=257 MTX Humira n=274 Humira/MTX n=268 p-valuea p-valueb p-valuec
+
+|  | (95% confidence interval) | (95% confidence interval) | (95% confidence interval) |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Total Sharp Score | 5.7 (4.2-7.3) | 3.0 (1.7-4.3) | 1.3 (0.5-2.1) | < 0.001 | 0.0020 | < 0.001 |
+| Erosion score | 3.7 (2.7-4.7) | 1.7 (1.0-2.4) | 0.8 (0.4-1.2) | < 0.001 | 0.0082 | < 0.001 |
+| JSN score | 2.0 (1.2-2.8) | 1.3 (0.5-2.1) | 0.5 (0-1.0) | < 0.001 | 0.0037 | 0.151 |
 
 | Stratum | MTX |  | Without MTX |  |
 | --- | --- | --- | --- | --- |

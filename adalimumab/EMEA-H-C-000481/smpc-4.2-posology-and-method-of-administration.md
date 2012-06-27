@@ -16,7 +16,6 @@ Polyarticular Juvenile Idiopathic Arthritis Age 4 to 12 years
 
 The recommended dose of Humira for patients with polyarticular juvenile idiopathic arthritis, aged 4 - 12 years, is 24 mg/m² body surface area up to a maximum single dose of 40 mg adalimumab administered every other week via subcutaneous injection.
 The volume for injection is selected based on the patients' height and weight (Table 1).
-
 Table 1.
 Humira Dose in Millilitres (ml) by Height and Weight of
 Children for Polyarticular Juvenile Idiopathic Arthritis
@@ -70,8 +69,8 @@ Regarding combination with disease modifying anti-rheumatic drugs other than met
 In monotherapy, some patients who experience a decrease in their response may benefit from an increase in dose intensity to 40 mg adalimumab every week.
 
 Dose Interruption
-There may be a need for dose interruption, for instance before surgery or if a serious infection occurs.
 
+There may be a need for dose interruption, for instance before surgery or if a serious infection occurs.
 Available data suggest that re-introduction of Humira after discontinuation for 70 days or longer resulted in the same magnitudes of clinical response and similar safety profile as before dose interruption.
 
 Psoriatic arthritis and ankylosing spondylitis
