@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: monoclonal antibody, ATC code: L01X C07
-
 Mechanism of action
 Bevacizumab binds to vascular endothelial growth factor (VEGF), the key driver of vasculogenesis and angiogenesis, and thereby inhibits the binding of VEGF to its receptors, Flt-1 (VEGFR-1) and KDR (VEGFR-2), on the surface of endothelial cells.
 Neutralising the biological activity of VEGF regresses the vascularisation of tumours, normalises remaining tumour vasculature, and inhibits the formation of new tumour vasculature, thereby inhibiting tumour growth.
@@ -80,7 +79,6 @@ Patients were treated until disease progression.
 The primary endpoints of the trial were objective response rate and progression-free survival.
 The addition of Avastin 5 mg/kg every two weeks to 5-FU/FA resulted in higher objective response rates, longer progression-free survival, and a trend in longer survival, compared with 5-FU/FA chemotherapy alone (see Table 4).
 These efficacy data are consistent with the results from trial AVF2107g.
-
 The efficacy data from trials AVF0780g and AVF2192g investigating Avastin in combination with 5-FU/FA-chemotherapy are summarised in Table 4.
 
 Table 4 Efficacy results for trials AVF0780g and AVF2192g
@@ -450,16 +448,16 @@ Overall survival 6
 
 CPP CPB15 CPB15+
 (n = 625) (n = 625) (n = 623)
-Median OS (months) 39.4 37.9 43.4
-Hazard Ratio (95% CI) 2 1.14 (0.95, 1.37) 0.90 (0.74, 1.08)
-p-value 3 0.0809 0.1253
+Median OS (months) 40.6 38.8 43.8
+Hazard Ratio (95% CI) 2 1.07 (0.91, 1.25) 0.88 (0.75, 1.04)
+p-value 3 0.2197 0.0641
 
 1 Investigator assessed GOG protocol-specified PFS analysis (neither censored for CA-125 progressions nor censored for NPT prior to disease progression) with data cut-off date of 25 February, 2010.
 2 Relative to the control arm; stratified hazard ratio.
 3 One-sided log-rank p-value
 4 Subject to a p-value boundary of 0.0116.
 5 Patients with measurable disease at baseline.
-6 Overall survival analysis performed when approximately 36% of the patients had died.
+6 Final overall survival analysis performed when 46.9% of the patients had died.
 
 Prespecified PFS analyses were conducted, all with a cut-off date of 29 September 2009.
 The results of these prespecified analyses are as follows:
