@@ -7,6 +7,10 @@ It should be noted that Zonegran is a benzisoxazole derivative, which contains a
 Serious immune based adverse reactions that are associated with medicinal products containing a sulphonamide group include rash, allergic reaction and major haematological disturbances including aplastic anaemia, which very rarely can be fatal (see section 4.4).
 
 The most common adverse reactions in controlled adjunctive-therapy studies were somnolence, dizziness and anorexia.
+The most common adverse reactions in a randomised, controlled monotherapy trial comparing zonisamide with carbamazepine prolonged release were decreased bicarbonate, decreased appetite, and decreased weight.
+The incidence of markedly abnormally low serum bicarbonate (a decrease to less than 17 mEq/l and by more than 5 mEq/l) was 3.8%.
+The incidence of marked decreases in weight of 20% or more was 0.7%.
+
 Adverse reactions associated with Zonegran obtained from clinical studies and post-marketing surveillance are tabulated below.
 The frequencies are arranged according to the following scheme:
 
@@ -17,6 +21,9 @@ uncommon ≥ 1/1,000 to < 1/100
 rare ≥ 1/10,000 to < 1/1,000
 very rare < 1/10,000
 not known cannot be estimated from the available data
+
+Table 2.
+Adverse reactions associated with Zonegran obtained from adjunctive use clinical studies and post-marketing surveillance
 
 | System Organ Class (MedDRA terminology) | Very Common | Common | Uncommon | Very Rare |
 | --- | --- | --- | --- | --- |
@@ -43,4 +50,28 @@ Additional information on special populations:
 
 A pooled analysis of safety data on 95 elderly subjects has shown a relatively higher reporting frequency of oedema peripheral and pruritus compared to the adult population.
 
+Review of post-marketing data suggests that patients aged 65 years or older report a higher frequency than the general population of the following events: Stevens-Johnson syndrome (SJS) and Drug Induced Hypersensitivity syndrome (DIHS).
+
+Table 3 Adverse reactions in a randomised, controlled monotherapy trial comparing zonisamide with carbamazepine prolonged release
+
+| System Organ Class (MedDRA terminology†) | Very Common | Common | Uncommon |
+| --- | --- | --- | --- |
+| Infections and infestation |  |  | Urinary tract infection Pneumonia |
+| Blood and lymphatic disorders |  |  | Leukopenia Thrombocytopenia |
+| Metabolism and nutrition disorders |  | Decreased appetite | Hypokalaemia |
+| Psychiatric Disorders |  | Agitation Depression Insomnia Mood swings Anxiety | Confusional state Acute psychosis Aggression Suicidal ideation Hallucination |
+| Nervous system disorders |  | Ataxia Dizziness Memory impairment Somnolence Bradyphrenia Disturbance in attention Paraesthesia | Nystagmus Speech disorder Tremor Convulsion |
+| Eye disorders |  | Diplopia |  |
+| Respiratory, thoracic and mediastinal disorders |  |  | Respiratory disorder |
+| Gastrointestinal disorders |  | Constipation Diarrhoea Dyspepsia Nausea Vomiting | Abdominal pain |
+| Hepatobiliary disorders |  |  | Cholecystitis acute |
+| Skin and subcutaneous tissue disorders |  | Rash | Pruritus Ecchymosis |
+| General disorders and administration site conditions |  | Fatigue Pyrexia Irritability |  |
+| Investigations | Decreased bicarbonate | Weight decreased Blood creatinine phosphokinase increased Alanine aminotransferase increased Aspartate aminotransferase increased | Urine analysis abnormal |
+
+† MedDRA version 13.1
+
+Additional information on special populations:
+
+Elderly
 Review of post-marketing data suggests that patients aged 65 years or older report a higher frequency than the general population of the following events: Stevens-Johnson syndrome (SJS) and Drug Induced Hypersensitivity syndrome (DIHS).

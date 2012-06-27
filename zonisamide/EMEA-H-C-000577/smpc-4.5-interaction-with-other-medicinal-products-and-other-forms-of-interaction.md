@@ -19,6 +19,7 @@ Zonegran should be used with caution in patients treated concomitantly with carb
 P-gp substrate
 An in vitro study shows that zonisamide is a weak inhibitor of P-gp (MDR1) with an IC50 of 267 µmol/l and there is the theoretical potential for zonisamide to affect the pharmacokinetics of substances which are P-gp substrates.
 Caution is advised when starting or stopping zonisamide treatment or changing the zonisamide dose in patients who are also receiving medicinal products which are P-gp substrates (e.g. digoxin, quinidine).
+
 Potential medicinal product interactions affecting Zonegran
 
 In clinical studies co-administration of lamotrigine had no apparent effect on zonisamide pharmacokinetics.

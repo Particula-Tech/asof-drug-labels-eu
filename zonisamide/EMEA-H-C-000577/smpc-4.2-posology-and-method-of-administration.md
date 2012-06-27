@@ -1,18 +1,31 @@
 # 4.2 Posology and method of administration
 
-Posology
+Posology - Adults
 
-Adults
+Dosage escalation and maintenance
 
-Zonegran must be added to existing therapy and the dose should be titrated on the basis of clinical effect.
-Doses of 300 mg to 500 mg per day have been shown to be effective, though some patients, especially those not taking CYP3A4-inducing agents, may respond to lower doses.
+Zonegran may be taken as monotherapy or added to existing therapy in adults.
+The dose should be titrated on the basis of clinical effect.
+Recommended escalation and maintenance doses are given in Table 1.
+Some patients, especially those not taking CYP3A4-inducing agents, may respond to lower doses.
 
-The recommended initial daily dose is 50 mg in two divided doses.
-After one week the dose may be increased to 100 mg daily and thereafter the dose may be increased at weekly intervals, in increments of up to 100 mg.
+Withdrawal
 
-Use of two weekly intervals should be considered for patients with renal or hepatic impairment and patients not receiving CYP3A4-inducing agents (see section 4.5).
+When Zonegran treatment is to be discontinued, it should be withdrawn gradually (see section 4.4).
+In clinical studies of adult patients, dose reductions of 100 mg at weekly intervals have been used with concurrent adjustment of other antiepileptic medicine doses (where necessary).
+Table 1.
+Adults – recommended dosage escalation and maintenance regimen
 
-Zonegran can be administered once or twice daily after the titration phase.
+| Treatment Regimen | Titration Phase |  |  | Usual Maintenance Dose |
+| --- | --- | --- | --- | --- |
+| Monotherapy - Newly diagnosed adult patients | Week 1 + 2 | Week 3 + 4 | Week 5 + 6 | 300 mg per day (once a day). If a higher dose is required: increase at two-weekly intervals in increments of 100 mg up to a maximum of 500 mg. |
+|  | 100 mg/day (once a day) | 200 mg /day (once a day) | 300 mg / day (once a day) |  |
+| Adjunctive therapy - with CYP3A4-inducing agents (see section 4.5) | Week 1 | Week 2 | Week 3 to 5 | 300 to 500 mg per day (once a day or two divided doses). |
+|  | 50 mg/day (in two divided doses) | 100 mg /day (in two divided doses) | Increase at weekly intervals in increments of 100 mg |  |
+| - without CYP3A4-inducing agents; or with renal or hepatic impairment | Week 1 + 2 | Week 3 + 4 | Week 5 to 10 | 300 to 500 mg per day (once a day or two divided doses). Some patients may respond to lower doses. |
+|  | 50 mg/day (in two divided doses) | 100 mg / day (in two divided doses) | Increase at two-weekly intervals in increments of up to 100 mg |  |
+
+General dosing recommendations for Zonegran in special patient populations
 
 Elderly
 
@@ -37,11 +50,6 @@ Use in patients with hepatic impairment has not been studied.
 Therefore use in patients with severe hepatic impairment is not recommended.
 Caution must be exercised in treating patients with mild to moderate hepatic impairment, and a slower titration of Zonegran may be required.
 
-Withdrawal of Zonegran
-
-When Zonegran treatment is to be discontinued, it should be withdrawn gradually.
-In clinical studies, dose reductions of 100 mg at weekly intervals have been used with concurrent adjustment of other antiepileptic medicine doses.
-
 Method of administration
 
 Zonegran hard capsules are for oral use.
@@ -59,8 +67,6 @@ Zonegran may be taken with or without food (see section 5.2).
 (all sentences already above)
 
 [Zonegran 25 mg orodispersible tablets]
-
-Withdrawal of zonisamide
 
 Zonegran orodispersible tablets are for oral use.
 

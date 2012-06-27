@@ -18,7 +18,6 @@ The risk of birth defect is increased by factor 2 to 3 in the offspring of mothe
 Multiple antiepileptic medicinal product therapy may be associated with a higher risk of congenital malformations than monotherapy.
 
 No sudden discontinuation of anti-epileptic therapy should be undertaken as this may lead to breakthrough seizures, which could have serious consequences for both mother and child.
-
 Breast-feeding
 Zonisamide is excreted in human milk; the concentration in breast milk is similar to maternal plasma.
 A decision must be made whether to discontinue breast-feeding or to discontinue/abstain from Zonegran therapy.

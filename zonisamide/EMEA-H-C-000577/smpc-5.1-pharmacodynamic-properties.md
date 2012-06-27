@@ -1,13 +1,51 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antiepileptics, other antiepileptics, ATC code: N03AX15
-
 Zonisamide is a benzisoxazole derivative.
 It is an anti-epileptic medicine with weak carbonic anhydrase activity in-vitro.
 It is chemically unrelated to other anti-epileptic agents.
 
 Clinical efficacy
-Efficacy has been demonstrated with Zonegran in 4 double-blind, placebo-controlled studies of periods of up to 24 weeks with either once or twice daily dosing.
+
+Monotherapy in partial seizures, with or without secondary generalisation
+
+Efficacy of zonisamide as monotherapy was established in a double-blind, parallel group, non-inferiority comparison to carbamazepine prolonged release (PR) in 583 adult subjects with newly diagnosed partial seizures with or without secondary generalised tonic-clonic seizures.
+Subjects were randomised to carbamazepine and zonisamide received treatment for a duration of up to 24 months depending on response.
+Subjects were titrated to the initial target dose of 600 mg carbamazepine or 300 mg of zonisamide.
+Subjects who experienced a seizure were titrated to the next target dose i.e. 800 mg carbamazepine or 400 mg of zonisamide.
+Subjects who experienced a further seizure were titrated to the maximal target dose of 1200 mg carbamazepine or 500 mg zonisamide.
+Subjects who were seizure-free for 26 weeks at a target dose level continued on this dose for another 26 weeks.
+Main outcomes of this study are presented in this table:
+
+Table 4 Efficacy results for Monotherapy Study 310
+
+|  | Zonisamide | Carbamazepine | N |  |
+| --- | --- | --- | --- | --- |
+| n (ITT population) | 281 | 300 |  |  |
+| Six months seizure freedom |  |  | Diff | CI95% |
+| PP-population* | 79.4% | 83.7% | -4.5% | -12.2% ; 3.1% |
+| ITT-population | 69.4% | 74.7% | -6.1% | -13.6% ; 1.4% |
+| < 4 seizures during 3 month baseline period | 71.7% | 75.7% | -4.0% | -11.7% ; 3.7% |
+| > 4 seizures during 3 month baseline period | 52.9% | 68.9% | -15.9% | -37.5% ; 5.6% |
+| Twelve months seizure freedom |  |  |  |  |
+| PP-population | 67.6% | 74.7% | -7.9% | - 17.2% ; 1.5% |
+| ITT-population | 55.9% | 62.3% | -7.7% | - 16.1% ; 0.7% |
+| < 4 seizures during 3 month baseline period | 57.4% | 64.7% | -7.2% | -15.7% ; 1.3% |
+| > 4 seizures during 3 month baseline period | 44.1% | 48.9% | -4.8% | -26.9% ; 17.4% |
+| Seizure Sub-type (6 month seizure freedom-PP population) |  |  |  |  |
+| All partial | 76.4% | 86.0% | -9.6% | -19.2% ; 0.0% |
+| Simple partial | 72.3% | 75.0% | -2.7% | -20.0% ; 14.7% |
+| Complex partial | 76.9% | 93.0% | -16.1% | -26.3% ; -5.9% |
+| All generalized Tonic-Clonic | 78.9% | 81.6% | -2.8 | -11.5% ; 6.0% |
+| Secondary Tonic-Clonic | 77.4% | 80.0% | -2.6% | -12.4% ; 7.1% |
+| Generalized Tonic-Clonic | 85.7% | 92.0% | -6.3% | -23.1% ; 10.5% |
+
+PP = Per Protocol Population; ITT = Intent To Treat Population
+*Primary endpoint
+
+Adjunctive therapy in the treatment of partial seizures, with or without secondary generalisation in adults
+
+In adults, efficacy has been demonstrated with Zonegran in 4 double-blind, placebo-controlled studies of periods of up to 24 weeks with either once or twice daily dosing.
 These studies show that the median reduction in partial seizure frequency is related to Zonegran dose with sustained efficacy at doses of 300-500 mg per day.
 
 Pharmacodynamic effects
@@ -21,7 +59,7 @@ Zonisamide also has a modulatory effect on GABA-mediated neuronal inhibition.
 
 [Zonegran 50 mg hard capsules.]
 
-Pharmacotherapeutic group: Anti-epileptics, other antiepileptics, ATC code: N03AX15
+Zonisamide Carbamazepine N
 
 [Zonegran 100 mg hard capsules]
 
