@@ -33,7 +33,7 @@ Common (≥ 1/100 to < 1/10); Uncommon (≥ 1/1,000 to < 1/100); Rare (≥ 1/10,
 | Immune system disorders | Rare: Allergy Not known: Anaphylaxis including anaphylactoid reactions |  |
 | Metabolism and nutrition disorders | Uncommon: Anorexia Rare: Hypoglycaemia |  |
 | Psychiatric disorders | Uncommon: Insomnia, confusion Rare: Agitation, anxiety, depression Not known: Altered mental status (including aggression, delirium, disorientation, mental status changes) | Not known: Altered mental status (including aggression) |
-| Nervous system disorders | Common: Headache Uncommon: Dizziness, somnolence, taste perversion, seizure (see section 4.4) Rare: Tremor, syncope Not known: Hallucinations, dyskinesia, myoclonus | Uncommon: Headache Not known: Hallucinations |
+| Nervous system disorders | Common: Headache Uncommon: Dizziness, somnolence, taste perversion, seizure (see section 4.4) Rare: Tremor, syncope Not known: Hallucinations, dyskinesia, myoclonus, gait disturbance | Uncommon: Headache Not known: Hallucinations |
 | Eye disorders | Rare: Scleral disorder |  |
 | Cardiac disorders | Uncommon: Sinus bradycardia Rare: Arrhythmia, tachycardia |  |
 | Vascular disorders | Common: Infused vein complication, phlebitis/thrombophlebitis Uncommon: Hypotension Rare: Haemorrhage, increased blood pressure | Uncommon: Hot flush, hypertension |
