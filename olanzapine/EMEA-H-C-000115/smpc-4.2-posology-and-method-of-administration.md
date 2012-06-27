@@ -17,10 +17,10 @@ Paediatric population
 Olanzapine is not recommended for use in children and adolescents below 18 years of age due to a lack of data on safety and efficacy.
 A greater magnitude of weight gain, lipid and prolactin alterations has been reported in short term studies of adolescent patients than in studies of adult patients (see sections 4.4, 4.8, 5.1 and 5.2).
 
-Elderly
+Elderly patients
 A lower starting dose (5 mg/day) is not routinely indicated but should be considered for those 65 and over when clinical factors warrant (see section 4.4).
 
-Renal and/or hepatic impairment
+Patients with renal and/or hepatic impairment
 A lower starting dose (5 mg) should be considered for such patients.
 In cases of moderate hepatic insufficiency (cirrhosis, Child-Pugh Class A or B), the starting dose should be 5 mg and only increased with caution.
 

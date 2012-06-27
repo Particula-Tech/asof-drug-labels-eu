@@ -23,7 +23,7 @@ In these trials, patients were initially required to be stable on the lowest eff
 Olanzapine was started at 2.5 mg/day and titrated to a maximum of 15 mg/day based on investigator judgement.
 
 Neuroleptic Malignant Syndrome (NMS)
-NMS is a potentially life-threatening condition associated with antipsychotic medicinal product.
+NMS is a potentially life-threatening condition associated with antipsychotic medicinal products.
 Rare cases reported as NMS have also been received in association with olanzapine.
 Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status, and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia).
 Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure.
@@ -54,10 +54,10 @@ Caution should be exercised in patients with low leukocyte and/or neutrophil cou
 Neutropenia has been reported commonly when olanzapine and valproate are used concomitantly (see section 4.8).
 
 Discontinuation of treatment
-Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported very rarely (<0.01%) when olanzapine is stopped abruptly.
+Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported very rarely (< 0.01%) when olanzapine is stopped abruptly.
 
 QT interval
-In clinical trials, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] ≥ 500 milliseconds [msec] at any time post baseline in patients with baseline QTcF<500 msec) were uncommon (0.1% to 1%) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo.
+In clinical trials, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] ≥ 500 milliseconds [msec] at any time post baseline in patients with baseline QTcF < 500 msec) were uncommon (0.1% to 1%) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo.
 However, as with other antipsychotics, caution should be exercised when olanzapine is prescribed with medicines known to increase QTc interval, especially in the elderly, in patients with congenital long QT syndrome, congestive heart failure, heart hypertrophy, hypokalaemia or hypomagnesaemia.
 
 Thromboembolism
@@ -99,9 +99,7 @@ Patients with rare hereditary problems of galactose intolerance, the Lapp lactas
 
 [ZYPREXA 5 mg coated tablets]
 
-Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported very rarely (< 0.01%) when olanzapine is stopped abruptly.
-
-In clinical trials, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] ≥ 500 milliseconds [msec] at any time post baseline in patients with baseline QTcF< 500 msec) were uncommon (0.1% to 1%) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo.
+(all sentences already above)
 
 [ZYPREXA 7.5 mg coated tablets]
 
@@ -143,7 +141,7 @@ The safety and efficacy of IM olanzapine has not been evaluated in patients with
 
 While olanzapine demonstrated anticholinergic activity in vitro, experience during oral clinical trials revealed a low incidence of related events.
 
-In clinical trials with oral administration, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] ≥500 milliseconds [msec] at any time post baseline in patients with baseline QTcF<500 msec) were uncommon (0.1% to 1%) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo.
+In clinical trials with oral administration, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] ≥ 500 milliseconds [msec] at any time post baseline in patients with baseline QTcF < 500 msec) were uncommon (0.1% to 1%) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo.
 In clinical trials with ZYPREXA powder for solution for injection, olanzapine was not associated with a persistent increase in absolute QT or in QTc intervals.
 
 In comparator oral studies of one year or less duration, olanzapine was associated with a statistically significant lower incidence of treatment emergent dyskinesia.

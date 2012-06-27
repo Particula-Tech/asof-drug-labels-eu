@@ -1,28 +1,4 @@
 # 4.3 Contraindications
 
-Hypersensitivity to the active substance or to any of the excipients.
-Patients with known risk for narrow-angle glaucoma.
-
-[ZYPREXA 5 mg coated tablets]
-
-(all sentences already above)
-
-[ZYPREXA 7.5 mg coated tablets]
-
-(all sentences already above)
-
-[ZYPREXA 10 mg coated tablets.]
-
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
 Patients with known risk of narrow-angle glaucoma.
-
-[ZYPREXA 15 mg coated tablets]
-
-(all sentences already above)
-
-[ZYPREXA 20 mg coated tablets]
-
-(all sentences already above)
-
-[ZYPREXA 10 mg powder for solution for injection]
-
-(all sentences already above)

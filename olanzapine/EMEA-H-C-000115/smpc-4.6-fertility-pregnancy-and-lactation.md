@@ -9,33 +9,7 @@ Neonates exposed to antipsychotics (including olanzapine) during the third trime
 There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, or feeding disorder.
 Consequently, newborns should be monitored carefully.
 
-Breast feeding
-In a study in breast feeding, healthy women, olanzapine was excreted in breast milk.
+Breast-feeding
+In a study in breast-feeding, healthy women, olanzapine was excreted in breast milk.
 Mean infant exposure (mg/kg) at steady state was estimated to be 1.8% of the maternal olanzapine dose (mg/kg).
 Patients should be advised not to breast feed an infant if they are taking olanzapine.
-
-[ZYPREXA 5 mg coated tablets]
-
-(all sentences already above)
-
-[ZYPREXA 7.5 mg coated tablets]
-
-Breastfeeding
-In a study in breast-feeding, healthy women, olanzapine was excreted in breast milk.
-Patients should be advised not to breast-feed an infant if they are taking olanzapine.
-
-[ZYPREXA 10 mg coated tablets.]
-
-(all sentences already above)
-
-[ZYPREXA 15 mg coated tablets]
-
-(all sentences already above)
-
-[ZYPREXA 20 mg coated tablets]
-
-(all sentences already above)
-
-[ZYPREXA 10 mg powder for solution for injection]
-
-(all sentences already above)
