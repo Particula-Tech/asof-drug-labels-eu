@@ -19,4 +19,4 @@ Black iron oxide (E172)
 
 [Tasigna 200 mg hard capsules]
 
-Soya lecithin (E322)
+Shellac (E904)

@@ -59,11 +59,11 @@ The predicted steady-state Cmax of nilotinib showed an increase of 29%, 18% and 
 Clinical studies have excluded patients with alanine transaminase (ALT) and/or aspartate transaminase (AST) >2.5 (or >5, if related to disease) times the upper limit of the normal range and/or total bilirubin >1.5 times the upper limit of the normal range.
 Metabolism of nilotinib is mainly hepatic.
 Patients with hepatic impairment might therefore have increased exposure to nilotinib and should be treated with caution (see section 4.2).
+
 Serum lipase
 Elevation in serum lipase has been observed.
 Caution is recommended in patients with previous history of pancreatitis.
 In case lipase elevations are accompanied by abdominal symptoms, Tasigna should be interrupted and appropriate diagnostic measures considered to exclude pancreatitis.
-
 Total gastrectomy
 The bioavailability of nilotinib might be reduced in patients with total gastrectomy (see section 5.2).
 More frequent follow-up of these patients should be considered.

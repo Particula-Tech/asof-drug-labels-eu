@@ -1,11 +1,11 @@
 # 4.2 Posology and method of administration
 
 Therapy should be initiated by a physician experienced in the diagnosis and the treatment of patients with CML.
-
 Posology
 The recommended dose of Tasigna is 300 mg twice daily.
 Treatment should be continued as long as the patient continues to benefit.
 For a dose of 400 mg once daily (see dose adjustments below), 200 mg capsules are available.
+
 Dose adjustments or modifications
 Tasigna may need to be temporarily withheld and/or dose reduced for haematological toxicities (neutropenia, thrombocytopenia) that are not related to the underlying leukaemia (see Table 1).
 
@@ -49,10 +49,10 @@ Patients with hepatic impairment
 Hepatic impairment has a modest effect on the pharmacokinetics of nilotinib.
 Dose adjustment is not considered necessary in patients with hepatic impairment.
 However, patients with hepatic impairment should be treated with caution (see section 4.4).
-
 Cardiac disorders
 In clinical studies, patients with uncontrolled or significant cardiac disease (e.g. recent myocardial infarction, congestive heart failure, unstable angina or clinically significant bradycardia) were excluded.
 Caution should be exercised in patients with relevant cardiac disorders (see section 4.4).
+
 Method of administration
 Tasigna should be taken twice daily approximately 12 hours apart and must not be taken with food.
 The capsules should be swallowed whole with water.

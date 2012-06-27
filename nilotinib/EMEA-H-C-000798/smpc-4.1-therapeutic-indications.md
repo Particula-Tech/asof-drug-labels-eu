@@ -4,7 +4,7 @@ Tasigna is indicated for the treatment of adult patients with newly diagnosed Ph
 
 [Tasigna 200 mg hard capsules]
 
-Tasigna is indicated for the treatment of adult patientswith:
+Tasigna is indicated for the treatment of adult patients with:
 
 - newly diagnosed Philadelphia chromosome positive chronic myelogenous leukaemia (CML) in the chronic phase,
 - chronic phase and accelerated phase Philadelphia chromosome positive CML with resistance or intolerance to prior therapy including imatinib.
