@@ -9,7 +9,8 @@ Only when atazanavir with ritonavir is co-administered with efavirenz, a dose in
 In this instance, close clinical monitoring is warranted (see Interaction with other Medicinal Products below).
 
 Patients with coexisting conditions
-Atazanavir is primarily hepatically metabolised and increased plasma concentrations were observed in patients with hepatic impairment (see sections 4.2 and 4.3).
+
+Hepatic impairment: Atazanavir is primarily hepatically metabolised and increased plasma concentrations were observed in patients with hepatic impairment (see sections 4.2 and 4.3).
 The safety and efficacy of REYATAZ has not been established in patients with significant underlying liver disorders.
 Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk for severe and potentially fatal hepatic adverse reactions.
 In case of concomitant antiviral therapy for hepatitis B or C, please refer also to the relevant Summary of Product Characteristics for these medicinal products (see section 4.8).
@@ -17,14 +18,14 @@ In case of concomitant antiviral therapy for hepatitis B or C, please refer also
 Patients with pre-existing liver dysfunction, including chronic active hepatitis, have an increased frequency of liver function abnormalities during combination antiretroviral therapy and should be monitored according to standard practice.
 If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered.
 
-No dosage adjustment is needed in patients with renal impairment.
+Renal impairment: No dosage adjustment is needed in patients with renal impairment.
 However, REYATAZ with ritonavir is not recommended in patients undergoing haemodialysis (see sections 4.2 and 5.2).
 
-Dose related asymptomatic prolongations in PR interval with REYATAZ have been observed in clinical studies.
+QT prolongation: Dose related asymptomatic prolongations in PR interval with REYATAZ have been observed in clinical studies.
 Caution should be used with medicinal products known to induce PR prolongations.
 In patients with pre-existing conduction problems (second degree or higher atrioventricular or complex bundle-branch block), REYATAZ should be used with caution and only if the benefits exceed the risk (see section 5.1).
 Particular caution should be used when prescribing REYATAZ in association with medicinal products which have the potential to increase the QT interval and/or in patients with pre-existing risk factors (bradycardia, long congenital QT, electrolyte imbalances (see sections 4.8 and 5.3).
-There have been reports of increased bleeding, including spontaneous skin haematomas and haemarthroses, in type A and B haemophiliac patients treated with protease inhibitors.
+Haemophiliac patients: There have been reports of increased bleeding, including spontaneous skin haematomas and haemarthroses, in type A and B haemophiliac patients treated with protease inhibitors.
 In some patients additional factor VIII was given.
 In more than half of the reported cases, treatment with protease inhibitors was continued or reintroduced if treatment had been discontinued.
 A causal relationship has been suggested, although the mechanism of action has not been elucidated.
@@ -110,7 +111,7 @@ The absorption of atazanavir may be reduced in situations where gastric pH is in
 Co-administration of REYATAZ with proton pump inhibitors is not recommended (see section 4.5).
 If the combination of REYATAZ with a proton pump inhibitor is judged unavoidable, close clinical monitoring is recommended in combination with an increase in the dose of REYATAZ to 400 mg with 100 mg of ritonavir; doses of proton pump inhibitors comparable to omeprazole 20 mg should not be exceeded.
 
-Co-administration of REYATAZ/ritonavir in combination with tenofovir and an H2-receptor antagonist should be avoided (see section 4.5).
+Co-administration of REYATAZ/ritonavir with other hormonal contraceptives or oral contraceptives containing progestogens other than norgestimate has not been studied, and therefore should be avoided (see section 4.5).
 
 Lactose
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.

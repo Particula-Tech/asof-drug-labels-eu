@@ -18,9 +18,9 @@ While it may contribute to decreased susceptibility to atazanavir when it occurs
 Table 3.
 De novo substitutions in treatment naive patients failing therapy with atazanavir + ritonavir (Study 138, 96 weeks)
 
-Frequency de novo PI substitution (n=26)a
->20% none
-10-20% none
+| Frequency | de novo PI substitution (n=26)a |
+| --- | --- |
+| >20% 10-20% | none none |
 
 a Number of patients with paired genotypes classified as virological failures (HIV RNA ≥ 400 copies/ml).
 
@@ -33,13 +33,14 @@ Of the 60 isolates from patients treated with either atazanavir or atazanavir + 
 Table 4.
 De novo substitutions in treatment experienced patients failing therapy with atazanavir + ritonavir (Study 045, 48 weeks)
 
-Frequency de novo PI substitution (n=35)a,b
->20% M36, M46, I54, A71, V82
-10-20% L10, I15, K20, V32, E35, S37, F53, I62, G73, I84, L90
+| Frequency | de novo PI substitution (n=35)a,b |
+| --- | --- |
+| >20% 10-20% | M36, M46, I54, A71, V82 L10, I15, K20, V32, E35, S37, F53, I62, G73, I84, L90 |
 
 a Number of patients with paired genotypes classified as virological failures (HIV RNA ≥ 400 copies/ml).
 b Ten patients had baseline phenotypic resistance to atazanavir + ritonavir (fold change [FC]>5.2).
 FC susceptibility in cell culture relative to the wild-type reference was assayed using PhenoSenseTM (Monogram Biosciences, South San Francisco, California, USA)
+
 None of the de novo substitutions (see Table 4) are specific to atazanavir and may reflect re-emergence of archived resistance on atazanavir + ritonavir in Study 045 treatment-experienced population.
 
 The resistance in antiretroviral treatment experienced patients mainly occurs by accumulation of the major and minor resistance substitutions described previously to be involved in protease inhibitor resistance.
@@ -51,7 +52,6 @@ Study 138 is an international randomised, open-label, multicenter, prospective t
 (300 mg/200 mg tablets once daily).
 The REYATAZ/ritonavir arm showed similar (non-inferior) antiviral efficacy compared to the lopinavir/ritonavir arm, as assessed by the proportion of patients with HIV RNA < 50 copies/ml at week 48 (Table 5).
 Analyses of data through 96 weeks of treatment demonstrated durability of antiviral activity (Table 5).
-
 Table 5: Efficacy Outcomes in Study 138 a
 
 | Parameter | REYATAZ/ritonavirb (300 mg/100 mg once daily) n=440 |  | Lopinavir/ritonavirc (400 mg/100 mg twice daily) n=443 |  |
@@ -82,6 +82,7 @@ c Lopinavir/RTV with tenofovir/emtricitabine (fixed dose 300 mg/200 mg tablets o
 d Intent-to-treat analysis, with missing values considered as failures.
 e Per protocol analysis: Excluding non-completers and patients with major protocol deviations.
 f Number of patients evaluable.
+
 In antiretroviral experienced adult patients
 Study 045 is a randomised, multicenter trial comparing REYATAZ/ritonavir (300/100 mg once daily) and REYATAZ/saquinavir (400/1,200 mg once daily), to lopinavir + ritonavir (400/100 mg fixed dose combination twice daily), each in combination with tenofovir (see sections 4.5 and 4.8) and one NRTI, in patients with virologic failure on two or more prior regimens containing at least one PI, NRTI, and NNRTI.
 For randomised patients, the mean time of prior antiretroviral exposure was 138 weeks for PIs, 281 weeks for NRTIs, and 85 weeks for NNRTIs.
@@ -90,7 +91,6 @@ Fifteen of 120 (13%) patients in the REYATAZ + ritonavir treatment arm and 17 of
 Thirty-two percent of patients in the study had a viral strain with fewer than two NRTI substitutions.
 
 The primary endpoint was the time-averaged difference in change from baseline in HIV RNA through 48 weeks (Table 6).
-
 Table 6: Efficacy Outcomes at Week 48a and at Week 96 (Study 045)
 
 | Parameter | ATV/RTVb (300 mg/ 100 mg once daily) n=120 |  | LPV/RTVc (400 mg/ 100 mg twice daily) n=123 |  | Time-averaged difference ATV/RTV-LPV/RTV [97.5% CId] |  |
@@ -103,7 +103,7 @@ Table 6: Efficacy Outcomes at Week 48a and at Week 96 (Study 045)
 | HIV RNA <50 copies/ml by select baseline PI substitutions,f, g % (responder/evaluable) |  |  |  |  |  |  |
 | 0-2 | 44 (28/63) | 41 (26/63) | 56 (32/57) | 48 (26/54) | NA | NA |
 | 3 | 18 (2/11) | 9 (1/11) | 38 (6/16) | 33 (5/15) | NA | NA |
-| ≥4 | 27 (12/45) | 24 (11/45) | 28 (14/50) | 20 (10/49) | NA | NA |
+| ≥ 4 | 27 (12/45) | 24 (11/45) | 28 (14/50) | 20 (10/49) | NA | NA |
 | CD4 Mean Change from Baseline, cells/mm3 |  |  |  |  |  |  |
 | All patients | 110 (n=83) | 122 (n=60) | 121 (n=94) | 154 (n=60) | NA | NA |
 
@@ -126,6 +126,7 @@ Through 96 weeks of treatment, mean HIV RNA changes from baseline for REYATAZ + 
 Consistent results were obtained with the last observation carried forward method of analysis.
 By as-treated analysis, excluding missing values, the proportions of patients with HIV RNA <400 copies/ml (<50 copies/ml) for REYATAZ + ritonavir were 84% (72%) and for lopinavir + ritonavir were 82% (72%).
 It is important to note that at time of the 96-week analysis, 48 % of patients overall remained on study.
+
 REYATAZ + saquinavir was shown to be inferior to lopinavir + ritonavir.
 
 Paediatric population
@@ -151,7 +152,7 @@ Table 7: Efficacy Outcomes (paediatric patients 6 years to less than 18 years of
 | HIV RNA <50 copies/ml by select baseline PI substitutions,c % (responder/evaluabled) |  |  |
 | 0-2 | NA | 27 (4/15) |
 | 3 | NA | - |
-| ≥4 | NA | 0 (0/3) |
+| ≥ 4 | NA | 0 (0/3) |
 
 a Intent-to-treat analysis, with missing values considered as failures.
 b Number of patients evaluable.
@@ -162,4 +163,4 @@ NA = not applicable.
 Data in the paediatric population are very limited.
 Available data do suggest that atazanavir in combination with ritonavir may not be effective in treatment experienced children even with very few (<3) PI mutations.
 
-The European Medicines Agency has waived the obligation to submit the results of studies with Reyataz hard capsules in all subsets of the paediatric population in treatment of immunodeficiency virus (HIV-1) infection (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with REYATAZ hard capsules in all subsets of the paediatric population in treatment of immunodeficiency virus (HIV-1) infection (see section 4.2 for information on paediatric use).

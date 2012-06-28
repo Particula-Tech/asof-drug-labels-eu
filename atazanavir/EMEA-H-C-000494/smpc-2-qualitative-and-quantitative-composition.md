@@ -2,24 +2,24 @@
 
 Each capsule contains 100 mg of atazanavir (as sulphate)
 
-Excipient: 54.79 mg of lactose per capsule.
+Excipient with known effect: 54.79 mg of lactose per capsule.
 
-For a full list of excipients, see section 6.1.
+For the full list of excipients, see section 6.1.
 
 [REYATAZ 150 mg hard capsules]
 
 Each capsule contains 150 mg of atazanavir (as sulphate)
 
-Excipient: 82.18 mg of lactose per capsule.
+Excipient with known effect: 82.18 mg of lactose per capsule.
 
 [REYATAZ 200 mg hard capsules]
 
 Each capsule contains 200 mg of atazanavir (as sulphate)
 
-Excipient: 109.57 mg of lactose per capsule.
+Excipient with known effect: 109.57 mg of lactose per capsule.
 
 [REYATAZ 300 mg hard capsules]
 
 Each capsule contains 300 mg of atazanavir (as sulphate)
 
-Excipient: 164.36 mg of lactose per capsule.
+Excipient with known effect: 164.36 mg of lactose per capsule.

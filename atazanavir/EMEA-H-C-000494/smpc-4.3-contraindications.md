@@ -1,6 +1,6 @@
 # 4.3 Contraindications
 
-Hypersensitivity to the active substance or to any of the excipients (see section 6.1).
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
 
 Patients with moderate to severe hepatic insufficiency (see sections 4.2 and 4.4).
 Combination of rifampicin and REYATAZ with concomitant low-dose ritonavir is contraindicated (see section 4.5).
