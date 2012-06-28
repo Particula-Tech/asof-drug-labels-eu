@@ -53,7 +53,7 @@ Table 9: Half-life of total dabigatran in healthy subjects and subjects with imp
 | ≥ 30-< 50 | 18.4 (18.5 %;13.3-23.0) |
 | < 30 | 27.2(15.3 %; 21.6-35.0) |
 
-Clearance of dabigatran by haemodialysis was investigated in 7 patients with end- stage renal disease (ESRD) without atrial fibrillation.
+Clearance of dabigatran by haemodialysis was investigated in 7 patients with end-stage renal disease (ESRD) without atrial fibrillation.
 Dialysis was conducted with 700 ml/min dialysate flow rate, four hour duration and a blood flow rate of either 200 ml/min or 350-390 ml/min.
 This resulted in a removal of 50 % to 60 % of dabigatran concentrations, respectively.
 The amount of drug cleared by dialysis is proportional to the blood flow rate up to a blood flow rate of 300 ml/min.
@@ -68,8 +68,7 @@ No change in dabigatran exposure was seen in 12 subjects with moderate hepatic i
 
 Body weight
 The dabigatran trough concentrations were about 20 % lower in patients with a body weight > 100 kg compared with 50-100 kg.
-The majority (80.8 %) of the subjects were in the ≥ 50 kg and < 100 kg category with no clear difference detected.
-(see sections 4.2 and 4.4).
+The majority (80.8 %) of the subjects were in the ≥ 50 kg and < 100 kg category with no clear difference detected (see sections 4.2 and 4.4).
 Limited clinical data in patients < 50 kg are available.
 
 Gender
@@ -77,8 +76,8 @@ Active substance exposure in the primary VTE prevention studies was about 40 % t
 
 Ethnic origin
 No clinically relevant inter-ethnic differences among Caucasian, African-American, Hispanic, Japanese or Chinese patients were observed regarding dabigatran pharmacokinetics and pharmacodynamics.
-
 Pharmacokinetic interactions
+
 The pro-drug dabigatran etexilate but not dabigatran is a substrate of the efflux transporter P-gp.
 Therefore co-medications with P-gp transporter inhibitors (amiodarone, verapamil, clarithromycin, quinidine and ketoconazole) and inducers (rifampicin) had been investigated (see sections 4.2, 4.4 and 4.5).
 

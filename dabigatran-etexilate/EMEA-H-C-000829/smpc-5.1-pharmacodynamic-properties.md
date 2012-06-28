@@ -26,10 +26,7 @@ Steady state (after day 3) geometric mean dabigatran peak plasma concentration, 
 
 In patients treated for prevention of VTEs after hip or knee replacement surgery with 220 mg dabigatran etexilate once daily,
 
-- the 90th percentile of dabigatran plasma concentrations was 67 ng/ml, measured at trough
-
-(20-28 hours after the previous dose) (see section 4.4 and 4.9),
-
+- the 90th percentile of dabigatran plasma concentrations was 67 ng/ml, measured at trough (20-28 hours after the previous dose) (see section 4.4 and 4.9),
 - the 90th percentile of aPTT at trough (20-28 hours after the previous dose) was 51 seconds, which would be 1.3-fold upper limit of normal.
 
 The ECT was not measured in patients treated for prevention of VTEs after hip or knee replacement surgery with 220 mg dabigatran etexilate once daily.
@@ -127,6 +124,7 @@ Better results were seen with the 220 mg dose where the point estimate of Major 
 In the studied patient population of RE-MODEL and RE-NOVATE (5,539 patients treated), 51 % suffered from concomitant hypertension, 9 % from concomitant diabetes, 9 % from concomitant coronary artery disease and 20 % had a history of venous insufficiency.
 
 Data for the major VTE and VTE-related mortality endpoint were homogeneous with regards to the primary efficacy endpoint and are shown in table 7.
+
 Data for the total VTE and all cause mortality endpoint are shown in table 8.
 
 Data for adjudicated major bleeding endpoints are shown in table 9 below.
@@ -243,7 +241,7 @@ For the primary endpoint, stroke and SEE, no subgroups (i.e., age, weight, gende
 
 Table 13: Hazard Ratio and 95 % CI for stroke/SEE by subgroups
 
-| Endpoint | Dabigatran etexilate 110 mg twice daily vs. warfarin | Dabigatran etexilate 150 mg twice daily vs. warfarin |
+| Endpoint | Dabigatran etexilate 110 mg twice daily vs. Warfarin | Dabigatran etexilate 150 mg twice daily vs. warfarin |
 | --- | --- | --- |
 | Age (years) |  |  |
 | < 65 | 1.10 (0.64, 1.87) | 0.51 (0.26, 0.98) |
@@ -258,23 +256,25 @@ Table 13: Hazard Ratio and 95 % CI for stroke/SEE by subgroups
 For the primary safety endpoint of major bleeding there was an interaction of treatment effect and age.
 The relative risk of bleeding with dabigatran compared to warfarin increased with age.
 Relative risk was highest in patients ≥ 75 years.
+The concomitant use of antiplatelets ASA or clopidogrel approximately doubles MBE rates with both dabigatran etexilate and warfarin.
 There was no significant interaction of treatment effects with the subgroups of renal function and CHADS2 score.
 
 Table 14: Hazard Ratio and 95 % CI for major bleeds by subgroups
 
-Endpoint Dabigatran etexilate Dabigatran etexilate
-110 mg twice daily vs. warfarin 150 mg twice daily vs. warfarin
-
-| Age (years) |  |  |
+| Endpoint | Dabigatran etexilate 110 mg twice daily vs. Warfarin | Dabigatran etexilate 150 mg twice daily vs. Warfarin |
 | --- | --- | --- |
+| Age (years) |  |  |
 | < 65 | 0.33 (0.19, 0.59) | 0.36 (0.21, 0.62) |
 | 65 ≤ and < 75 | 0.70 (0.56, 0.89) | 0.80 (0.64, 1.00) |
 | ≥ 75 | 1.01 (0.83, 1.23) | 1.18 (0.98, 1.43) |
 | ≥ 80 | 1.12 (0.84, 1.49) | 1.35 (1.03, 1.77) |
-| CrCL(ml/min) |  |  |
+| CrCL (ml/min) |  |  |
 | 30 ≤ and < 50 | 1.00 (0.77, 1.29) | 0.94 (0.72, 1.21) |
 | 50 ≤ and < 80 | 0.76 (0.61, 0.93) | 0.89 (0.73, 1.08) |
 | ≥ 80 | 0.59 (0.43, 0.82) | 0.84 (0.62, 1.13) |
+| ASA use | 0.85 (0.68, 1.05) | 0.92 (0.75, 1.14) |
+
+Clopidogrel use 0.88 (0.56, 1.37) 0.95 (0.62, 1.46)
 
 [Pradaxa 150 mg hard capsules]
 
@@ -290,34 +290,26 @@ Tables 6-8 display details of key results in the overall population:
 
 Table 6: Analysis of first occurrence of stroke or SEE (primary endpoint) during the study period in RE-LY.
 
-Dabigatran etexilate Dabigatran etexilate Warfarin
-110 mg twice daily 150 mg twice daily
-
-| Subjects randomized | 6,015 | 6,076 | 6,022 |
-| --- | --- | --- | --- |
-| Stroke and/or SEE |  |  |  |
-| Incidences (%) | 183 (1.54) | 134 (1.11) | 202 (1.71) |
-| Hazard ratio over warfarin (95 % CI) | 0.90 (0.74, 1.10) | 0.65 (0.52, 0.81) |  |
-| p value superiority | p=0.2943 | p=0.0001 |  |
-
 Table 7: Analysis of first occurrence of ischemic or haemorrhagic strokes during the study period in RE-LY.
 
 Table 8: Analysis of all cause and cardiovascular survival during the study period in RE-LY.
 
-Tables 9-10 display results of the primary efficacy and safety endpoint in relevant sub-populations: For the primary endpoint, stroke and SEE, no subgroups (i.e., age, weight, gender, renal function, ethnicity, etc.) were identified with a different risk ratio compared to warfarin.
+Tables 9-10 display results of the primary efficacy and safety endpoint in relevant sub-populations:
 
 Table 9: Hazard Ratio and 95 % CI for stroke/SEE by subgroups
-
-Table 10: Hazard Ratio and 95 % CI for major bleeds by subgroups
 
 | Endpoint | Dabigatran etexilate 110 mg twice daily vs. warfarin | Dabigatran etexilate 150 mg twice daily vs. warfarin |
 | --- | --- | --- |
 | Age (years) |  |  |
-| < 65 | 0.33 (0.19, 0.59) | 0.36 (0.21, 0.62) |
-| 65 ≤ and < 75 | 0.70 (0.56, 0.89) | 0.80 (0.64, 1.00) |
-| ≥ 75 | 1.01 (0.83, 1.23) | 1.18 (0.98, 1.43) |
-| ≥ 80 | 1.12 (0.84, 1.49) | 1.35 (1.03, 1.77) |
-| CrCL(ml/min) |  |  |
-| 30 ≤ and < 50 | 1.00 (0.77, 1.29) | 0.94 (0.72, 1.21) |
-| 50 ≤ and < 80 | 0.76 (0.61, 0.93) | 0.89 (0.73, 1.08) |
-| ≥ 80 | 0.59 (0.43, 0.82) | 0.84 (0.62, 1.13) |
+| < 65 | 1.10 (0.64, 1.87) | 0.51 (0.26, 0.98) |
+| 65 ≤ and < 75 | 0.87 (0.62, 1.20) | 0.68 (0.47, 0.96) |
+| ≥ 75 | 0.88 (0.66, 1.17) | 0.67 (0.49, 0.90) |
+| ≥ 80 | 0.68 (0.44, 1.05) | 0.65 (0.43, 1.00) |
+| CrCL (ml/min) |  |  |
+| 30 ≤ and < 50 | 0.89 (0.61, 1.31) | 0.47 (0.30, 0.74) |
+| 50 ≤ and < 80 | 0.91 (0.68, 1.20) | 0.65 (0.47, 0.88) |
+| ≥ 80 | 0.83 (0.52, 1.32) | 0.71 (0.44, 1.15) |
+
+The concomitant use of antiplatelets ASA or clopidogrel approximately doubles MBE rates with both dabigatran and warfarin.
+
+Table 10: Hazard Ratio and 95 % CI for major bleeds by subgroups
