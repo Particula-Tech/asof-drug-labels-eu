@@ -133,8 +133,6 @@ Not for bolus injection.
 
 VFEND is also available as 50 mg and 200 mg film-coated tablets and 200 mg powder for solution for injection.
 
-Adults and adolescents (12 to 14 years and ≥50 kg; 15 to 16 years regardless of body weight)
-
 |  | Intravenous | Oral Suspension |  |
 | --- | --- | --- | --- |
 |  |  | Patients 40 kg and above | Patients less than 40 kg |
