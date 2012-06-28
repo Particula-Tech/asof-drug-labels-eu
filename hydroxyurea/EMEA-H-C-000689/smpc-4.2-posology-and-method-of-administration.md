@@ -3,6 +3,7 @@
 Treatment with Siklos should be initiated by a physician experienced in the management of Sickle Cell Syndrome.
 
 Posology
+
 In adults, adolescents and children older than 2 years
 The posology should be based on the patient’s body weight (b.w.).
 The starting dose of hydroxycarbamide is 15 mg/kg b.w. and the usual dose is between 15 and 30 mg/kg b.w./day.
@@ -46,7 +47,7 @@ Close monitoring of blood parameters is advised in these patients.
 Due to safety considerations, Siklos is contraindicated in patients with severe hepatic impairment (see sections 4.3 and 4.4).
 
 Method of administration
-Conforming to the individual dose, the tablet should be taken once daily, preferably in the morning before breakfast and, where necessary, with a glass of water or a very small amount of food.
+Conforming to the individual dose, the tablet should be taken once daily, preferably in the morning before breakfastand, where necessary, with a glass of water or a very small amount of food.
 For patients who are not able to swallow the tablets, these can be disintegrated immediately before use in a small quantity of water in a teaspoon.
 Adding a drop of syrup or mixing with food can mask a possible bitter taste.
 

@@ -4,4 +4,4 @@ Store below 30°C.
 
 [Siklos 1000 mg film-coated tablets.]
 
-For storage of unused broken tablets see section 6.6;
+For storage of unused broken tablets see section 6.3

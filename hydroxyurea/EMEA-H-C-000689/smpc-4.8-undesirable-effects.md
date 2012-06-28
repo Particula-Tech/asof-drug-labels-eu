@@ -11,6 +11,7 @@ Gradual dose titration may help to diminish these effects (see section 4.2).
 The adverse reactions are listed below by system organ class and absolute frequency.
 Frequencies are defined as very common (>1/10), common (>1/100 to <1/10), uncommon (>1/1,000 to <1/100), rare (>1/10,000 to <1/1,000), very rare (<1/10,000), not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness:
+
 Infections and infestations:
 Not known: Parvovirus B19 infection
 Neoplasms, benign, malignant and unspecified
