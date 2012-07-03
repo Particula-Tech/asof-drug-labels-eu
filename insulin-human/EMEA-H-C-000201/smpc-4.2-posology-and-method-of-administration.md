@@ -89,7 +89,7 @@ Fur further details on handling, see section 6.6.
 
 [Insuman Basal 100 IU/ml suspension for injection in a cartridge]
 
-Insuman Basal must be administered intravenously and must not be used in infusion pumps or external or implanted insulin pumps.
+(all sentences already above)
 
 [Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen.]
 

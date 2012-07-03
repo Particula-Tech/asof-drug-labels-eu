@@ -1,6 +1,6 @@
 # 6.5 Nature and contents of container
 
-5 ml solution in a vial (type 1 colourless glass) with a flanged cap (aluminium), a stopper (chlorobutyl rubber (type 1)) and a tear-off cap (polypropylene).
+5 ml solution in a vial and 10 ml solution in a vial (type 1 colourless glass) with a flanged cap (aluminium), a stopper (chlorobutyl rubber (type 1)) and a tear-off cap (polypropylene).
 Packs of 1 and 5 vials are available.
 Not all pack sizes may be marketed.
 
@@ -30,7 +30,7 @@ Packs of 3, 4, 5, 6, 9 or 10 cartridges for OptiClik are available.
 
 [Insuman Basal 100 IU/ml suspension for injection in a vial]
 
-5 ml suspension in a vial (type 1 colourless glass) with a flanged cap (aluminium), a stopper (chlorobutyl rubber (type 1)) and a tear-off cap (polypropylene).
+5 ml suspension in a vial and 10 ml suspension in a vial (type 1 colourless glass) with a flanged cap (aluminium), a stopper (chlorobutyl rubber (type 1)) and a tear-off cap (polypropylene).
 
 [Insuman Basal 40 IU/ml suspension for injection in a vial]
 
@@ -55,7 +55,7 @@ Each cartridge contains 3 balls (stainless steel).
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a vial]
 
-(all sentences already above)
+5 ml suspension in a vial (type 1 colourless glass) with a flanged cap (aluminium), a stopper (chlorobutyl rubber (type 1)) and a tear-off cap (polypropylene).
 
 [Insuman Comb 15 40 IU/ml suspension for injection in a vial]
 
@@ -79,7 +79,7 @@ Each cartridge contains 3 balls (stainless steel).
 
 [Insuman Comb 25 100 IU/ml suspension for injection in a vial]
 
-(all sentences already above)
+5 ml solution in a vial (type 1 colourless glass) with a flanged cap (aluminium), a stopper (chlorobutyl rubber (type 1)) and a tear-off cap (polypropylene).
 
 [Insuman Comb 25 40 IU/ml suspension for injection in a vial]
 
