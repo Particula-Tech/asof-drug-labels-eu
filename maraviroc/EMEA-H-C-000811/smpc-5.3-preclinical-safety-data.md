@@ -5,7 +5,7 @@ In mice and human beings that lack CCR5 receptors through genetic deletion, no s
 
 In vitro and in vivo studies showed that maraviroc has a potential to increase QTc interval at supratherapeutic doses with no evidence of arrhythmia.
 
-Repeated dose toxicity studies in rats identified the liver as the primary target organ for toxicity (increases in transaminases, bile duct hyperplasia, necrosis).
+Repeated dose toxicity studies in rats identified the liver as the primary target organ for toxicity (increases in transaminases, bile duct hyperplasia, and necrosis).
 
 Maraviroc was evaluated for carcinogenic potential by a 6 month transgenic mouse study and a 24 month study in rats.
 In mice, no statistically significant increase in the incidence of tumors was reported at systemic exposures from 7 to 39-times the human exposure (unbound AUC 0-24h measurement) at a dose of 300 mg twice daily.
