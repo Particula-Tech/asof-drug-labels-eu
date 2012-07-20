@@ -37,7 +37,7 @@ Adverse reactions associated with Zonegran obtained from adjunctive use clinical
 | Respiratory, thoracic and mediastinal disorders |  |  |  | Dyspnoea Pneumonia aspiration Respiratory disorder |
 | Gastrointestinal disorders |  | Abdominal pain Constipation Diarrhoea Dyspepsia Nausea | Vomiting | Pancreatitis |
 | Hepatobiliary disorders |  |  | Cholecystitis Cholelithiasis | Hepatocellular damage |
-| Skin and subcutaneous tissue disorders |  | Rash Pruritus |  | Anhidrosis Erythema multiforme Stevens-Johnson syndrome Toxic epidermal necrolysis |
+| Skin and subcutaneous tissue disorders |  | Rash Pruritus Alopecia |  | Anhidrosis Erythema multiforme Stevens-Johnson syndrome Toxic epidermal necrolysis |
 | Musculoskeletal and connective tissue disorders |  |  |  | Rhabdomyolysis |
 | Renal and urinary disorders |  | Nephrolithiasis | Calculus urinary | Hydronephrosis Renal failure Urine abnormality |
 | General disorders and administration site conditions |  | Fatigue Influenza-like illness Pyrexia Oedema peripheral |  |  |
@@ -75,3 +75,27 @@ Additional information on special populations:
 
 Elderly
 Review of post-marketing data suggests that patients aged 65 years or older report a higher frequency than the general population of the following events: Stevens-Johnson syndrome (SJS) and Drug Induced Hypersensitivity syndrome (DIHS).
+
+[Zonegran 50 mg hard capsules.]
+
+(all sentences already above)
+
+[Zonegran 100 mg hard capsules]
+
+(all sentences already above)
+
+[Zonegran 25 mg orodispersible tablets]
+
+Table 4.
+
+[Zonegran 50 mg orodispersible tablets]
+
+Table 5.
+
+[Zonegran 100 mg orodispersible tablets]
+
+Table 6.
+
+[Zonegran 300 mg orodispersible tablets]
+
+Table 7.
