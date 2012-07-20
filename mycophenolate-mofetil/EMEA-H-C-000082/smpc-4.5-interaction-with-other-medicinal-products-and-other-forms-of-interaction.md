@@ -6,10 +6,12 @@ Aciclovir: higher aciclovir plasma concentrations were observed when mycophenola
 The changes in MPAG (the phenolic glucuronide of MPA) pharmacokinetics (MPAG increased by 8 %) were minimal and are not considered clinically significant.
 Because MPAG plasma concentrations are increased in the presence of renal impairment, as are aciclovir concentrations, the potential exists for mycophenolate mofetil and aciclovir, or its prodrugs, e.g. valaciclovir, to compete for tubular secretion and further increases in concentrations of both substances may occur.
 
-Antacids with magnesium and aluminium hydroxides: absorption of mycophenolate mofetil was decreased when administered with antacids.
-
+Antacids and proton pump inhibitors (PPIs): Decreased mycophenolic acid (MPA) exposure has been observed when antacids, such as magnesium and aluminium hydroxides, and PPIs, including lansoprazole and pantoprazole, were administered with CellCept.
+When comparing rates of transplant rejection or rates of graft loss between CellCept patients taking PPIs vs. CellCept patients not taking PPIs, no significant differences were seen.
+These data support extrapolation of this finding to all antacids because the reduction in exposure when CellCept was co- administered with magnesium and aluminium hydroxides is considerably less than when CellCept was co-administered with PPIs.
 Cholestyramine: following single dose administration of 1.5 g of mycophenolate mofetil to normal healthy subjects pre-treated with 4 g TID of cholestyramine for 4 days, there was a 40 % reduction in the AUC of MPA (see section 4.4 and section 5.2).
 Caution should be used during concomitant administration because of the potential to reduce efficacy of CellCept.
+
 Medicinal products that interfere with enterohepatic circulation: caution should be used with medicinal products that interfere with enterohepatic circulation because of their potential to reduce the efficacy of CellCept.
 
 Ciclosporin A: ciclosporin A (CsA) pharmacokinetics are unaffected by mycophenolate mofetil.
@@ -64,7 +66,7 @@ In contrast, there was an increase of approximately 20 % in tacrolimus AUC when 
 
 Cholestyramine: following single dose administration of 1.5 g of mycophenolate mofetil to normal healthy subjects pre-treated with 4 g TID of cholestyramine for 4 days, there was a 40 % reduction in the AUC of MPA.
 
-[CellCept 500 mg tablets.]
+[CellCept 500 mg film-coated tablets.]
 
 (see section 4.4 and section 5.2).
 

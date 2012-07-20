@@ -3,7 +3,6 @@
 Because mycophenolate mofetil has demonstrated teratogenic effects in rats and rabbits, CellCept capsules should not be opened or crushed.
 Avoid inhalation or direct contact with skin or mucous membranes of the powder contained in CellCept capsules.
 If such contact occurs, wash thoroughly with soap and water; rinse eyes with plain water.
-
 Any unused product or waste material should be disposed of in accordance with local requirements.
 
 [CellCept 500 mg powder for concentrate for solution for infusion.]
@@ -17,7 +16,6 @@ A detailed description of the preparation is given below:
 
 Step 1 a. Two vials of CellCept 500 mg powder for concentrate for solution for infusion are used for preparing each 1 g dose.
 Reconstitute the content of each vial by injecting 14 ml of glucose intravenous infusion 5 %.
-
 b. Gently shake the vial to dissolve the medicinal product yielding a slightly yellow solution.
 
 c. Inspect the resulting solution for particulate matter and discoloration prior to further dilution.
@@ -25,6 +23,7 @@ Discard the vial if particulate matter or discoloration is observed.
 
 Step 2 a. Further dilute the content of the two reconstituted vials (approx. 2 x 15 ml) into 140 ml of glucose intravenous infusion 5 %.
 The final concentration of the solution is 6 mg/ml mycophenolate mofetil.
+
 b. Inspect the infusion solution for particulate matter or discoloration.
 Discard the infusion solution if particulate matter or discoloration is observed.
 
@@ -58,6 +57,6 @@ This will assure the proper seating of the bottle adapter in the bottle and chil
 Write the date of expiration of the reconstituted suspension on the bottle label.
 (The shelf-life of the reconstituted suspension is two months.)
 
-[CellCept 500 mg tablets.]
+[CellCept 500 mg film-coated tablets.]
 
 Because mycophenolate mofetil has demonstrated teratogenic effects in rats and rabbits, CellCept tablets should not be crushed.

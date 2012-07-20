@@ -72,7 +72,6 @@ The types of adverse reactions reported during post-marketing with CellCept are 
 Additional adverse reactions reported during post-marketing are described below with the frequencies reported within brackets if known.
 
 Gastrointestinal: gingival hyperplasia (≥1/100 to <1/10), colitis including cytomegalovirus colitis, (≥1/100 to <1/10), pancreatitis, (≥1/100 to <1/10) and intestinal villous atrophy.
-
 Disorders related to immunosuppression: serious life-threatening infections including meningitis, endocarditis, tuberculosis and atypical mycobacterial infection.
 Cases of BK virus associated nephropathy, as well as cases of JC virus associated progressive multifocal leucoencephalopathy (PML), have been reported in patients treated with immunosuppressants, including CellCept.
 Agranulocytosis (≥1/1000 to <1/100) and neutropenia have been reported; therefore, regular monitoring of patients taking CellCept is advised (see section 4.4).
@@ -195,6 +194,6 @@ Gastrointestinal: gingival hyperplasia (≥1/100 to <1/10), colitis including cy
 
 Hypersensitivity: Hypersensitivity reactions, including angioneurotic oedema and anaphylactic reaction have been reported.
 
-[CellCept 500 mg tablets.]
+[CellCept 500 mg film-coated tablets.]
 
 All transplant patients are at increased risk of opportunistic infections; the risk increased with total immunosuppressive load (see section 4.4) The most common opportunistic infections in patients receiving CellCept (2 g or 3 g daily) with other immunosuppressants in controlled clinical trials of renal (2 g data), cardiac and hepatic transplant patients followed for at least 1 year were candida mucocutaneous, CMV viraemia/syndrome and Herpes simplex.

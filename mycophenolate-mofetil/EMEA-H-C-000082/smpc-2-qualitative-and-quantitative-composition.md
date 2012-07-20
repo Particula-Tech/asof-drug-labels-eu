@@ -13,6 +13,6 @@ Each vial contains the equivalent of 500 mg mycophenolate mofetil (as hydrochlor
 Each bottle contains 35 g mycophenolate mofetil in 110 g powder for oral suspension.
 5 ml of the reconstituted suspension contains 1 g of mycophenolate mofetil.
 
-[CellCept 500 mg tablets.]
+[CellCept 500 mg film-coated tablets.]
 
 Each tablet contains 500 mg mycophenolate mofetil.

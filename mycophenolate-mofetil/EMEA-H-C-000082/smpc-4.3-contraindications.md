@@ -17,6 +17,6 @@ For information on use in pregnancy and contraceptive requirements, see section 
 
 (all sentences already above)
 
-[CellCept 500 mg tablets.]
+[CellCept 500 mg film-coated tablets.]
 
 (all sentences already above)

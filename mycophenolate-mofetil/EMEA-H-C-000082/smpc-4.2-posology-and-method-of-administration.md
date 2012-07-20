@@ -60,7 +60,6 @@ Use in hepatic transplant: the recommended dose of CellCept for infusion in hepa
 IV CellCept should continue for the first 4 days following hepatic transplant, with oral CellCept initiated as soon after this as it can be tolerated.
 The recommended dose of oral CellCept in hepatic transplant patients is 1.5 g administered twice daily
 (3 g daily dose).
-
 Use in children: safety and efficacy of CellCept for infusion in paediatric patients have not been established.
 No pharmacokinetic data with CellCept for infusion are available for paediatric renal transplant patients.
 No pharmacokinetic data are available for paediatric patients following hepatic transplants.
@@ -84,6 +83,6 @@ No dose adjustments are needed in patients experiencing delayed renal graft func
 Note
 If required, CellCept 1 g/5 ml powder for oral suspension can be administered via a nasogastric tube with a minimum size of 8 French (minimum 1.7 mm interior diameter).
 
-[CellCept 500 mg tablets.]
+[CellCept 500 mg film-coated tablets.]
 
 CellCept tablets should only be prescribed to patients with a body surface area greater than 1.5 m2, at a dose of 1 g twice daily (2 g daily dose).

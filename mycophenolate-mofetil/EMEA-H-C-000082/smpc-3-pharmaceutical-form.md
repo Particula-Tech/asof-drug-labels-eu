@@ -12,7 +12,7 @@ CellCept 500 mg powder for concentrate for solution for infusion must be reconst
 
 Powder for oral suspension.
 
-[CellCept 500 mg tablets.]
+[CellCept 500 mg film-coated tablets.]
 
 Film coated tablets.
 CellCept tablets: lavender coloured caplet-shaped tablet, engraved with "CellCept 500" on one side and "Company logo" on the other.

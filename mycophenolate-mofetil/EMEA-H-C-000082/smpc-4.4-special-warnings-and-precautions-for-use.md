@@ -51,6 +51,6 @@ Therefore, care should be taken if CellCept 1 g/5 ml powder for oral suspension 
 This medicinal product contains sorbitol.
 Patients with rare hereditary problems of fructose intolerance should not take this medicine.
 
-[CellCept 500 mg tablets.]
+[CellCept 500 mg film-coated tablets.]
 
 (all sentences already above)

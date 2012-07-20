@@ -13,7 +13,7 @@ Reconstituted solution and infusion solution: Store at 15 – 30°C.
 
 Powder for oral suspension and reconstituted suspension: Do not store above 30 °C.
 
-[CellCept 500 mg tablets.]
+[CellCept 500 mg film-coated tablets.]
 
 Do not store above 30 °C.
 Keep the blister in the outer carton in order to protect from light.

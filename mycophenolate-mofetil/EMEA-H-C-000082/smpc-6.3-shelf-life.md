@@ -13,6 +13,6 @@ Reconstituted solution and infusion solution: If the infusion solution is not pr
 The shelf-life of the powder for oral suspension is 2 years.
 The shelf-life of the reconstituted suspension is 2 months.
 
-[CellCept 500 mg tablets.]
+[CellCept 500 mg film-coated tablets.]
 
 (all sentences already above)

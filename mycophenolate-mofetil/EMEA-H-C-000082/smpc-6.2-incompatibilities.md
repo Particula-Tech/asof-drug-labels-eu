@@ -12,6 +12,6 @@ This medicinal product must not be mixed with other medicinal products except th
 
 (all sentences already above)
 
-[CellCept 500 mg tablets.]
+[CellCept 500 mg film-coated tablets.]
 
 (all sentences already above)

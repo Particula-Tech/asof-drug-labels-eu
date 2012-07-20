@@ -11,7 +11,7 @@ EU/1/96/005/005 CellCept (4 vials)
 
 EU/1/96/005/006 CellCept (1 bottle 110g)
 
-[CellCept 500 mg tablets.]
+[CellCept 500 mg film-coated tablets.]
 
 EU/1/96/005/002 CellCept (50 tablets)
 EU/1/96/005/004 CellCept (150 tablets)

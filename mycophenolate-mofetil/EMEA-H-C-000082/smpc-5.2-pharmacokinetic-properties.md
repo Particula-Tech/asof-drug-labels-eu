@@ -71,6 +71,6 @@ Orally administered radiolabelled mycophenolate mofetil results in complete reco
 
 In a single dose study (6 subjects/group), mean plasma MPA AUC observed in subjects with severe chronic renal impairment (glomerular filtration rate < 25ml•min-1•1.73 m-2) were 28 – 75 % higher relative to the means observed in normal healthy subjects or subjects with lesser degrees of renal impairment.
 
-[CellCept 500 mg tablets.]
+[CellCept 500 mg film-coated tablets.]
 
 MPA at clinically relevant concentrations, is 97 % bound to plasma albumin.
