@@ -24,9 +24,10 @@ Time (minutes) from administration of sugammadex or neostigmine at deep neuromus
 | Neuromuscular blocking agent | Treatment regimen |  |
 | --- | --- | --- |
 |  | Sugammadex (4 mg/kg) | Neostigmine (70 mcg/kg) |
-| Rocuronium N | 37 | 37 |
-| Median (minutes) Range | 2.7 1.2-16.1 | 49.0 13.3-145.7 |
-| Vecuronium N Median (minutes) Range | 47 3.3 1.4-68.4 | 36 49.9 46.0-312.7 |
+| Rocuronium N Median (minutes) Range | 37 2.7 1.2-16.1 | 37 49.0 13.3-145.7 |
+| Vecuronium N Median (minutes) | 47 3.3 | 36 49.9 |
+
+Range 1.4-68.4 46.0-312.7
 
 Routine reversal – moderate neuromuscular blockade:
 In another pivotal study patients were randomly assigned to the rocuronium or vecuronium group.
@@ -63,7 +64,6 @@ Time (minutes) from administration of rocuronium and sugammadex or succinylcholi
 | N Median (minutes) Range | 55 4.2 3.5-7.7 | 55 7.1 3.7-10.5 |
 
 In a pooled analysis the following recovery times for 16 mg/kg sugammadex after 1.2 mg/kg rocuronium bromide were reported:
-
 Time (minutes) from administration of sugammadex at 3 minutes after rocuronium to recovery of the T4/T1 ratio to 0.9, 0.8 or 0.7
 
 |  | T4/T1 to 0.9 | T4/T1 to 0.8 | T4/T1 to 0.7 |

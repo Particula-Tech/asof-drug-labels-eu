@@ -51,9 +51,9 @@ Hepatic impairment:
 For mild to moderate hepatic impairment: as sugammadex is mainly excreted renally no dose adjustments are required.
 Studies in patients with hepatic impairment have not been conducted and therefore patients with severe hepatic impairment should be treated with great caution (see section 4.4).
 
-Paediatric population:
-The data for the paediatric population are limited (one study only for reversal of rocuronium induced blockade at reappearance of T2).
+Paediatric population
 
+The data for the paediatric population are limited (one study only for reversal of rocuronium induced blockade at reappearance of T2).
 Children and adolescents:
 For routine reversal of rocuronium induced blockade at reappearance of T2 in children and adolescents (2-17 years) 2 mg/kg sugammadex is recommended.
 Other routine reversal situations have not been investigated and are therefore not recommended until further data become available.

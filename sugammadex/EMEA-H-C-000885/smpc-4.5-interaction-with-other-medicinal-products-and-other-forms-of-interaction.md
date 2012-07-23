@@ -9,11 +9,11 @@ Interactions potentially affecting the efficacy of sugammadex (see also section 
 Toremifene:
 For toremifene, which has a relatively high affinity constant and relatively high plasma concentrations, some displacement of vecuronium or rocuronium from the complex with sugammadex could occur.
 The recovery of the T4/T1 ratio to 0.9 could therefore be delayed in patients who have received toremifene on the same day of the operation.
+
 Intravenous administration of fusidic acid:
 The use of fusidic acid in the pre-operative phase may give some delay in the recovery of the T4/T1 ratio to 0.9.
 No recurrence of neuromuscular blockade is expected in the post-operative phase, since the infusion rate of fusidic acid is over a period of several hours and the blood levels are cumulative over 2-3 days.
 For re-administration of sugammadex see section 4.2.
-
 Interactions potentially affecting the efficacy of other medicinal products (see also section 4.4): Hormonal contraceptives:
 The interaction between 4 mg/kg sugammadex and a progestogen was predicted to lead to a decrease in progestogen exposure (34% of AUC) similar to the decrease seen when a daily dose of an oral contraceptive is taken 12 hours too late, which might lead to a reduction in effectiveness.
 For estrogens, the effect is expected to be lower.

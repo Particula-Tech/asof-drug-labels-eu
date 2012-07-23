@@ -12,7 +12,7 @@ In order to prevent recurrence of neuromuscular blockade, the recommended doses 
 Effect on haemostasis:
 In a study in volunteers doses of 4 mg/kg and 16 mg/kg of sugammadex resulted in maximum mean prolongations of the activated partial thromboplastin time (aPTT) by 17 and 22% respectively and prothrombin time (PT)[INR] by 11 and 22% respectively.
 These limited mean aPTT and PT(INR) prolongations were of short duration (≤ 30 minutes).
-Based on the clinical data-base (n=1738) there was no clinically relevant effect of sugammadex alone or in combination with anticoagulants on the incidence of peri- or post-operative bleeding complications.
+Based on the clinical data-base (n=1,738) there was no clinically relevant effect of sugammadex alone or in combination with anticoagulants on the incidence of peri- or post-operative bleeding complications.
 
 In in vitro experiments a pharmacodynamic interaction (aPTT and PT prolongation) was noted with vitamin K antagonists, unfractionated heparin, low molecular weight heparinoids, rivaroxaban and dabigatran.
 In patients receiving routine post-operative prophylactic anticoagulation this pharmacodynamic interaction is not clinically relevant.
@@ -59,10 +59,10 @@ Displacement interactions are at present only expected for a few drugs substance
 Light anaesthesia:
 When neuromuscular blockade was reversed intentionally in the middle of anaesthesia in clinical trials, signs of light anaesthesia were noted occasionally (movement, coughing, grimacing and suckling of the tracheal tube).
 If neuromuscular blockade is reversed, while anaesthesia is continued, additional doses of anaesthetic and/or opioid should be given as clinically indicated.
-
 Hepatic impairment:
 Sugammadex is not metabolised nor excreted by the liver; therefore dedicated studies in patients with hepatic impairment have not been conducted.
 Patients with severe hepatic impairment should be treated with great caution.
+
 Use in Intensive Care Unit (ICU):
 Sugammadex has not been investigated in patients receiving rocuronium or vecuronium in the ICU setting.
 
@@ -80,10 +80,3 @@ Patients on a controlled sodium diet:
 Each ml solution contains 9.7 mg sodium.
 A dose of 23 mg sodium is considered essentially ‘sodium-free’.
 If more than 2.4 ml solution needs to be administered, this should be taken into consideration by patients on a controlled sodium diet.
-
-QTc-interval prolongation:
-Two thorough QTc trials (N=146), both in conscious volunteers, demonstrated that sugammadex alone or in combination with rocuronium or vecuronium is not associated with QTc interval prolongation.
-The one-sided 95% upper confidence limits for the QTc difference to placebo were well below the 10 ms margin for each of the 12-13 evaluated timepoints in both studies.
-In the clinical program, a few cases of QTc prolongation were reported (QTc> 500 msec or QTc increases> 60 msec) in clinical trials in which patients received sugammadex in combination with sevoflurane or propofol.
-During anaesthesia several medicinal products with the potential to prolong QTc (e.g. sevoflurane) are administered.
-The routine precautions for treating arrhythmia should be taken into consideration.

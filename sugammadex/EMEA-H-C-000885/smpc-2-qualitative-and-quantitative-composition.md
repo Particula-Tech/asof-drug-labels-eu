@@ -4,7 +4,7 @@
 2 ml contains sugammadex sodium equivalent to 200 mg sugammadex.
 5 ml contains sugammadex sodium equivalent to 500 mg sugammadex.
 
-For a full list of excipients, see section 6.1.
+For the full list of excipients, see section 6.1.
 
-Excipient(s):
+Excipient(s) with known effect:
 Each ml contains 9.7 mg sodium (see section 4.4).

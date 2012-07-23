@@ -2,7 +2,6 @@
 
 The safety of sugammadex has been evaluated based on an integrated safety database of approximately 1,700 patients and 120 volunteers.
 The most commonly reported adverse reactions in surgical patients were anaesthetic complications (Common [≥ 1/100 to < 1/10]).
-
 The following undesirable effects associated with sugammadex use have been reported for surgical patients in clinical trials:
 
 | Body system | Subject incidence | Undesirable effect |
@@ -40,7 +39,6 @@ Additional information on special populations
 Pulmonary patients:
 In one clinical trial in patients with a history of pulmonary complications bronchospasm was reported as a possibly related adverse event in two patients and a causal relationship could not be fully excluded.
 As with all patients with a history of pulmonary complications the physician should be aware of the possible occurrence of bronchospasm.
-
 Paediatric population
 
 A limited database suggests that the safety profile of sugammadex (up to 4 mg/kg) in paediatric patients was similar to that in adults.
