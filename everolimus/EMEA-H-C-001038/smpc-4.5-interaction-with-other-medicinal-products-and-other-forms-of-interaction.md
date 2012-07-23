@@ -11,7 +11,6 @@ Substances that are inhibitors of CYP3A4 or PgP may increase everolimus blood co
 
 CYP3A4 and PgP inducers decreasing everolimus concentrations
 Substances that are inducers of CYP3A4 or PgP may decrease everolimus blood concentrations by increasing metabolism or the efflux of everolimus from intestinal cells.
-
 Table 1 Effects of other active substances on everolimus
 
 | Active substance by interaction | Interaction – Change in Everolimus AUC/Cmax Geometric mean ratio (observed range) | Recommendations concerning co-administration |
@@ -30,7 +29,9 @@ Table 1 Effects of other active substances on everolimus
 | Diltiazem |  |  |
 | Amprenavir, fosamprenavir | Not studied. Increased exposure expected. |  |
 | Grapefruit juice or other food affecting CYP3A4/PgP | Not studied. Increased exposure expected (the effect varies widely). | Combination should be avoided. |
+
 | Potent CYP3A4 inducers |  |  |
+| --- | --- | --- |
 | Rifampicin | AUC ↓63% (range 0-80%) Cmax ↓58% (range 10-70%) | Avoid the use of concomitant potent CYP3A4 inducers. If patients require co-administration of a potent CYP3A4 inducer, an Afinitor dose increase from 10 mg daily up to 20 mg daily should be considered using 5 mg increments applied on Day 4 and 8 following start of the inducer. This dose of Afinitor is predicted to adjust the AUC to the range observed without inducers. However, there are no clinical data with this dose adjustment. If treatment with the inducer is discontinued, the Afinitor dose should be returned to the dose used prior to initiation of the co-administration. |
 | Corticosteroids (e.g. dexamethasone, prednisone, prednisolone) | Not studied. Decreased exposure expected. |  |
 | Carbamazepine, phenobarbital, phenytoin | Not studied. Decreased exposure expected. |  |
@@ -44,8 +45,14 @@ An interaction study in healthy subjects demonstrated that co-administration of 
 The effect is likely to be due to inhibition of intestinal CYP3A4 by everolimus.
 Hence everolimus may affect the bioavailability of orally co-administered CYP3A4 substrates.
 However, a clinically relevant effect on the exposure of systemically administered CYP3A4 substrates is not expected (see section 4.4).
+
 Co-administration of everolimus and depot octreotide increased octreotide Cmin with a geometric mean ratio (everolimus/placebo) of 1.47.
 A clinically significant effect on the efficacy response to everolimus in patients with advanced neuroendocrine tumours could not be established.
+
+Co-administration of everolimus and exemestane increased exemestane Cmin and C2h by 45% and 64%, respectively.
+However, the corresponding oestradiol levels at steady state (4 weeks) were not different between the two treatment arms.
+No increase in adverse events related to exemestane was observed in patients with hormone receptor-positive advanced breast cancer receiving the combination.
+The increase in exemestane levels is unlikely to have an impact on efficacy or safety.
 
 Vaccinations
 The immune response to vaccination may be affected and, therefore, vaccination may be less effective during treatment with Afinitor.

@@ -1,21 +1,26 @@
 # 4.8 Undesirable effects
 
 a) Summary of safety profile
-Two randomised, double-blind, placebo controlled pivotal phase III studies contribute to the safety profile.
+Three randomised, double-blind, placebo controlled phase III studies contribute to the safety profile.
 The respective exposure in the phase III studies was:
 
+- BOLERO-2 (CRAD001Y2301): everolimus in combination with exemestane in the treatment of postmenopausal women with oestrogen receptor-positive, locally advanced or metastatic breast cancer who were previously treated with either letrozole or anastrozole.
+  In total, 191
+
+(40%) patients were exposed to everolimus therapy for ≥32 weeks.
+The rates of adverse reactions resulting in permanent discontinuation were 21% and 3% for the everolimus plus exemestane and the placebo plus exemestane treatment groups, respectively.
+
 - RADIANT-3 (CRAD001C2324): everolimus plus best supportive care in patients with advanced neuroendocrine tumours of pancreatic origin.
-  In total, 63 (30.9%) patients were exposed to everolimus 10 mg/day for ≥52 weeks.
-  The rates of adverse reactions resulting in permanent discontinuation were 13.7% and 2.0% for the everolimus and placebo treatment groups, respectively.
+  In total, 63 (31%) patients were exposed to everolimus 10 mg/day for ≥52 weeks.
+  The rates of adverse reactions resulting in permanent discontinuation were 14% and 2% for the everolimus and placebo treatment groups, respectively.
 - RECORD-1 (CRAD001C2240): everolimus plus best supportive care in patients with metastatic renal cell carcinoma.
-  In total, 165 patients were exposed to everolimus 10 mg/day for
+  In total, 165 patients were exposed to everolimus 10 mg/day for ≥4 months.
+  The rates of adverse reactions resulting in permanent discontinuation were 7% and 0% for the everolimus and placebo treatment groups, respectively.
+  Most adverse reactions were grade 1 or 2 in severity.
 
-≥4 months.
-The rates of adverse reactions resulting in permanent discontinuation were 7% and 0% for the everolimus and placebo treatment groups, respectively.
-Most adverse reactions were grade 1 or 2 in severity.
-
-The most frequent grade 3-4 adverse reactions (incidence ≥2% in at least one pivotal study) were anaemia, fatigue, diarrhoea, infections, stomatitis, hyperglycaemia, thrombocytopenia, lymphopenia, neutropenia, hypophosphataemia, hypercholesterolaemia, diabetes mellitus, and pneumonitis.
+The most frequent grade 3-4 adverse reactions (incidence ≥2% in at least one phase III study) were anaemia, fatigue, diarrhoea, infections, stomatitis, hyperglycaemia, thrombocytopenia, lymphopenia, neutropenia, hypophosphataemia, hypercholesterolaemia, diabetes mellitus, and pneumonitis.
 The grades follow CTCAE Version 3.0.
+
 b) Tabulated summary of adverse reactions
 Table 2 shows the incidence of adverse reactions reported for patients receiving everolimus 10 mg/day in at least one of the pivotal studies.
 All terms included are based on the highest frequency reported in a pivotal study.

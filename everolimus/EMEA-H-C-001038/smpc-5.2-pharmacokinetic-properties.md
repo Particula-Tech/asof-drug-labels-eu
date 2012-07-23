@@ -9,7 +9,6 @@ Food effect
 In healthy subjects, high fat meals reduced systemic exposure to Afinitor 10 mg (as measured by AUC) by 22% and the peak plasma concentration Cmax by 54%.
 Light fat meals reduced AUC by 32% and Cmax by 42%.
 Food, however, had no apparent effect on the post absorption phase concentration-time profile.
-
 Distribution
 The blood-to-plasma ratio of everolimus, which is concentration-dependent over the range of 5 to 5,000 ng/ml, is 17% to 73%.
 Approximately 20% of the everolimus concentration in whole blood is confined to plasma of cancer patients given Afinitor 10 mg/day.
@@ -30,6 +29,7 @@ The mean elimination half-life of everolimus is approximately 30 hours.
 No specific excretion studies have been undertaken in cancer patients; however, data are available from the studies in transplant patients.
 Following the administration of a single dose of radiolabelled everolimus in conjunction with ciclosporin, 80% of the radioactivity was recovered from the faeces, while 5% was excreted in the urine.
 The parent substance was not detected in urine or faeces.
+
 Steady-state pharmacokinetics
 After administration of everolimus in patients with advanced solid tumours, steady-state AUC0-τ was dose-proportional over the range of 5 to 10 mg daily dose.
 Steady-state was achieved within two weeks.
