@@ -49,7 +49,8 @@ Anorexia 20.2 1.2 14.1 0.6
 Constipation 11.9 0.6 7.4 0.6
 Common Dyspepsia 5.4 0.6 0.6 0.0
 Skin and Very Rash 16.1 0.6 4.9 0.0
-subcutaneous tissue disorders common Alopecia 11.3 0.0*** 5.5 0.0***
+subcutaneous common Alopecia 11.3 0.0*** 5.5 0.0***
+tissue disorders
 Renal and Very Creatinine 10.7 0.6 9.8 1.2
 urinary common elevation
 disorders
@@ -247,9 +248,11 @@ Rare cases of bullous conditions have been reported including Stevens-Johnson sy
 
 Rarely, haemolytic anaemia has been reported in patients treated with pemetrexed.
 
+Rare cases of anaphylactic shock have been reported.
+
 [ALIMTA 500 mg powder for concentrate for solution for infusion]
 
-Frequency estimate: Very common:( ≥1/10), Common (≥1/100 and <1/10), Uncommon (≥1/1000 and <1/100), Rare (≥1/10,000 and <1/1000), Very rare (< 1/10,000) and not known (cannot be estimated from available data-spontaneous reports)
+Frequency estimate: Very common:( ≥1/10), Common (≥1/100 and <1/10), Uncommon (≥1/1000 and <1/100), Rare (≥1/10,000 and <1/1000), Very rare ( <1/10,000) and not known (cannot be estimated from available data-spontaneous reports)
 
 Platelets decreased 10.1* 4.1* 26.6* 12.7*
 Diarrhea without 12.4 1.3 12.8 1.6

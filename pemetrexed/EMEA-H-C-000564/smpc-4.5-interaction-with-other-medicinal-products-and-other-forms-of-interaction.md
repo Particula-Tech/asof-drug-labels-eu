@@ -14,8 +14,8 @@ In patients with normal renal function (creatinine clearance > 80 ml/min), high 
 Therefore, caution should be made when administering higher doses of NSAIDs or aspirin, concurrently with pemetrexed to patients with normal function (creatinine clearance > 80 ml/min).
 
 In patients with mild to moderate renal insufficiency (creatinine clearance from 45 to 79 ml/min), the concomitant administration of pemetrexed with NSAIDs (e.g. ibuprofen) or aspirin at higher dose should be avoided for 2 days before, on the day of, and 2 days following pemetrexed administration (see section 4.4).
-
 In the absence of data regarding potential interaction with NSAIDs having longer half-lives such as piroxicam or rofecoxib, the concomitant administration with pemetrexed in patients with mild to moderate renal insufficiency should be interrupted for at least 5 days prior to, on the day of, and at least 2 days following pemetrexed administration (see section 4.4).
+If concomitant administration of NSAIDs is necessary, patients should be monitored closely for toxicity, especially myelosuppression and gastrointestinal toxicity.
 
 Pemetrexed undergoes limited hepatic metabolism.
 Results from in vitro studies with human liver microsomes indicated that pemetrexed would not be predicted to cause clinically significant inhibition of the metabolic clearance of drugs metabolised by CYP3A, CYP2D6, CYP2C9, and CYP1A2.

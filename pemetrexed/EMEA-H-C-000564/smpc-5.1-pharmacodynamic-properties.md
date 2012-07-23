@@ -84,7 +84,12 @@ PFS data were partially confirmed by an independent review (400/1725 patients we
 The analysis of the impact of NSCLC histology on overall survival demonstrated clinically relevant differences in survival according to histology, see table below.
 Efficacy of ALIMTA + cisplatin vs. gemcitabine + cisplatin in first-line non-small cell lung cancer – ITT population and histology subgroups.
 
-ITT population and histology subgroups ALIMTA + cisplatin Median overall survival in months (95% CI) Gemcitabine + cisplatin hazard tatio (95% CI) Adjusted (HR) Superiority p-value
+Median overall survival in months Adjusted
+ITT population
+(95% CI) hazard tatio Superiority
+and histology
+Gemcitabine + (HR) p-value
+subgroups ALIMTA + cisplatin cisplatin (95% CI)
 ITT population 10.3 N=862 10.3 N=863 0.94a 0.259
 (N = 1725) (9.8 – 11.2) (9.6 – 10.9) (0.84 – 1.05)
 Adenocarcinoma 12.6 N=436 10.9 N=411 0.84 0.033
@@ -153,8 +158,10 @@ JMEN:Kaplan Meier plots of progression-free survival (PFS) and overall survival 
 
 Progression-Free Survival Overall Survival
 1.0 1.0
-0.9 Pemetrexed 0.9 Pemetrexed
-0.8 Placebo 0.8 Placebo
+Pemetrexed
+0.9 Pemetrexed 0.9
+Placebo
+0.8 Placebo 0.8
 0.7 0.7
 0.6 0.6
 0.5 0.5
@@ -188,8 +195,8 @@ PARAMOUNT:Kaplan Meier plot of progression-free survival (PFS) for continuation 
 
 1.0
 0.9
-0.8 _ _ _ Pemetrexed
-0.7 Placebo
+0.8 Pemetrexed
+0.7 _ _ _ Placebo
 0.6
 0.5
 0.4
@@ -206,23 +213,12 @@ The ALIMTA maintenance safety profiles from the two studies JMEN and PARAMOUNT w
 
 [ALIMTA 500 mg powder for concentrate for solution for infusion]
 
-|  | Randomized and treated patients |  | Fully supplemented Patients |  |
-| --- | --- | --- | --- | --- |
-| Efficacy parameter | ALIMTA/ cisplatin (N = 226) | Cisplatin (N = 222) | ALIMTA/ cisplatin (N = 168) | Cisplatin (N = 163) |
-| Median overall survival (months) (95 % CI) | 12.1 (10.0 - 14.4) | 9.3 (7.8 - 10.7) | 13.3 (11.4 - 14.9) | 10.0 (8.4 - 11.9) |
-| Log Rank p-value* | 0.020 |  | 0.051 |  |
-| Median time to tumour progression (months) (95 % CI) | 5.7 (4.9 – 6.5) | 3.9 (2.8 - 4.4) | 6.1 (5.3 - 7.0) | 3.9 (2.8 - 4.5) |
-| Log Rank p-value* | 0.001 |  | 0.008 |  |
-| Time to treatment failure (months) (95 % CI) | 4.5 (3.9 – 4.9) | 2.7 (2.1 - 2.9) | 4.7 (4.3 - 5.6) | 2.7 (2.2 - 3.1) |
-| Log Rank p-value* | 0.001 |  | 0.001 |  |
-| Overall response rate** (95 % CI) | 41.3 % (34.8 - 48.1) | 16.7 % (12.0 – 22.2) | 45.5 % (37.8 - 53.4) | 19.6 % (13.8 - 26.6) |
-| Fisher’s exact p-value* | < 0.001 |  | < 0.001 |  |
-
 ** In the ALIMTA/cisplatin arm, randomized and treated (N = 225) and fully supplemented
 (N = 167)
 
 Efficacy of ALIMTA + cisplatin vs. femcitabine + cisplatin in first-line non-small cell lung cancer – ITT population and histology subgroups.
 
-ITT population and histology subgroups ALIMTA + cisplatin Median overall survival in months (95% CI) Gemcitabine + cisplatin ratio (HR) (95% CI) Adjusted hazard Superiority p-value
+(95% CI) hazard Superiority
+Gemcitabine + ratio (HR) p-value
 
 JMEN: Kaplan Meier plots of progression-free survival (PFS) and overall survival ALIMTA versus placebo in patients with NSCLC other than predominantly squamous cell histology:

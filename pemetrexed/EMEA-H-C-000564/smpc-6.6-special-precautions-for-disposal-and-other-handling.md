@@ -26,7 +26,7 @@ If particulate matter is observed, do not administer.
 
 7.
 Pemetrexed solutions are for single use only.
-Any unused product or waste material must be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material must be disposed of in accordance with local requirements.
 Preparation and administration precautions: As with other potentially toxic anticancer agents, care should be exercised in the handling and preparation of pemetrexed infusion solutions.
 The use of gloves is recommended.
 If a pemetrexed solution contacts the skin, wash the skin immediately and thoroughly with soap and water.
