@@ -65,17 +65,17 @@ Methotrexate should be continued during treatment with Humira.
 
 Glucocorticoids, salicylates, nonsteroidal anti-inflammatory drugs, or analgesics can be continued during treatment with Humira.
 Regarding combination with disease modifying anti-rheumatic drugs other than methotrexate see sections 4.4 and 5.1.
-
 In monotherapy, some patients who experience a decrease in their response may benefit from an increase in dose intensity to 40 mg adalimumab every week.
 
 Dose Interruption
 
 There may be a need for dose interruption, for instance before surgery or if a serious infection occurs.
+
 Available data suggest that re-introduction of Humira after discontinuation for 70 days or longer resulted in the same magnitudes of clinical response and similar safety profile as before dose interruption.
 
-Psoriatic arthritis and ankylosing spondylitis
+Ankylosing spondylitis, axial spondyloarthritis without radiographic evidence of AS and psoriatic arthritis
 
-The recommended dose of Humira for patients with psoriatic arthritis or ankylosing spondylitis is 40 mg adalimumab administered every other week as a single dose via subcutaneous injection.
+The recommended dose of Humira for patients with ankylosing spondylitis, axial spondyloarthritis without radiographic evidence of AS and for patients with psoriatic arthritis is 40 mg adalimumab administered every other week as a single dose via subcutaneous injection.
 
 For all of the above indications, available data suggest that the clinical response is usually achieved within 12 weeks of treatment.
 
@@ -101,7 +101,6 @@ Some patients who experience decrease in their response may benefit from an incr
 Some patients who have not responded by Week 4 may benefit from continued maintenance therapy through Week 12.
 
 Ulcerative colitis
-
 The recommended Humira induction dose regimen for adult patients with moderate to severe ulcerative colitis is 160 mg at Week 0 (dose can be administered as four injections in one day or as two injections per day for two consecutive days) and 80 mg at Week 2.
 
 Available data suggest that clinical response is usually achieved within 2-8 weeks of treatment.
@@ -114,6 +113,8 @@ No dose adjustment is required.
 A 40 mg paediatric vial is available for patients who need to administer less than the full 40 mg dose.
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
+
+The recommended dose of Humira for patients with ankylosing spondylitis axial spondyloarthritis without radiographic evidence of AS and for patients with psoriatic arthritis is 40 mg adalimumab administered every other week as a single dose via subcutaneous injection.
 
 There is little experience from re administration after more than 8 weeks since the previous dose.
 

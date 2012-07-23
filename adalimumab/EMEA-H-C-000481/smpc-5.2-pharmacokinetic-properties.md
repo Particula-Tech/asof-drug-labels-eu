@@ -1,6 +1,8 @@
 # 5.2 Pharmacokinetic properties
 
-Following the administration of 24 mg/m2 (up to a maximum of 40 mg) subcutaneously every other week to patients with polyarticular juvenile idiopathic arthritis (JIA) the mean trough steady-state (values measured from Week 20 to 48) serum adalimumab concentration was 5.6 ± 5.6 µg/ml (102%CV) Humira monotherapy and 10.9 ± 5.2 µg/ml (47.7% CV) with concomitant methotrexate Adults
+Following the administration of 24 mg/m2 (up to a maximum of 40 mg) subcutaneously every other week to patients with polyarticular juvenile idiopathic arthritis (JIA) the mean trough steady-state (values measured from Week 20 to 48) serum adalimumab concentration was 5.6 ± 5.6 µg/ml (102%CV) Humira monotherapy and 10.9 ± 5.2 µg/ml (47.7% CV) with concomitant methotrexate
+
+Adults
 
 After subcutaneous administration of a single 40 mg dose, absorption and distribution of adalimumab was slow, with peak serum concentrations being reached about 5 days after administration.
 The average absolute bioavailability of adalimumab estimated from three studies following a single 40 mg subcutaneous dose was 64%.

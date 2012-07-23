@@ -21,11 +21,17 @@ Humira has been shown to reduce the rate of progression of joint damage as measu
 
 (for the efficacy in monotherapy see section 5.1).
 
-Ankylosing spondylitis
+Axial spondyloarthritis
+
+Ankylosing spondylitis(AS)
 
 Humira is indicated for the treatment of adults with severe active ankylosing spondylitis who have had an inadequate response to conventional therapy.
 
+Axial spondyloarthritis without radiographic evidence of AS
+Humira is indicated for the treatment of adults with severe axial spondyloarthritis without radiographic evidence of AS but with objective signs of inflammation by elevated CRP and / or MRI, who have had an inadequate response to, or are intolerant to nonsteroidal anti-inflammatory drugs.
+
 Psoriatic arthritis
+
 Humira is indicated for the treatment of active and progressive psoriatic arthritis in adults when the response to previous disease-modifying anti-rheumatic drug therapy has been inadequate.
 Humira has been shown to reduce the rate of progression of peripheral joint damage as measured by X-ray in patients with polyarticular symmetrical subtypes of the disease (see Section 5.1) and to improve physical function.
 
@@ -43,7 +49,7 @@ Humira is indicated for treatment of moderately to severely active ulcerative co
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
-(all sentences already above)
+Ankylosing spondylitis (AS)
 
 [Humira 40 mg solution for injection in pre-filled pen]
 
