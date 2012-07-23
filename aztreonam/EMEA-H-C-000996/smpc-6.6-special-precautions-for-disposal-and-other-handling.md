@@ -12,8 +12,7 @@ The liquid is squeezed out of one solvent ampoule into the glass vial.
 The vial is then gently swirled until contents have completely dissolved.
 The reconstituted Cayston is then poured into the Altera Nebuliser Handset and the dose administered.
 
-Cayston is administered by inhalation over a 2 to 3 minute period, using an Altera Nebuliser System (consisting of a Cayston specific Altera Nebuliser Handset and Altera Control Unit).
-Cayston should only be used with the Altera Nebuliser Handset and Altera Aerosol Head connected to an Altera Control Unit or an eFlow rapid Control Unit.
+Cayston is administered by inhalation over a 2 to 3 minute period, using a Cayston specific Altera Nebuliser Handset and Altera Aerosol Head connected to an eBase Controller or an eFlow rapid Control Unit.
 Cayston should not be used with any other type of handset or aerosol head.
 Cayston should not be mixed with any other medicinal products in the Altera Nebuliser Handset.
 Do not put other medicinal products in the Altera Nebuliser Handset.

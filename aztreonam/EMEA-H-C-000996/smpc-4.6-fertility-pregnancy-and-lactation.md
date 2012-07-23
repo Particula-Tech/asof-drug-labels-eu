@@ -8,6 +8,7 @@ Animal studies do not indicate direct or indirect harmful effects with respect t
 Systemic concentration of aztreonam following inhaled administration of Cayston is low compared to a standard dose of aztreonam for injection (approximately 1% of the concentration resulting from a dose of 500 mg aztreonam for injection).
 
 Cayston should not be used during pregnancy unless the clinical condition of the woman requires treatment with aztreonam.
+
 Breast-feeding
 
 Following administration of aztreonam for injection, aztreonam is excreted in human milk at very low concentrations.

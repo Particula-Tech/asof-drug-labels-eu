@@ -5,31 +5,30 @@ Posology
 Patients should use a bronchodilator before each dose of Cayston.
 Short acting bronchodilators can be taken between 15 minutes and 4 hours and long acting bronchodilators can be taken between 30 minutes and 12 hours prior to each dose of Cayston.
 
-For patients receiving several respiratory therapies, the recommended order is:
+For patients taking multiple inhaled therapies, the recommended order of administration is as follows:
 
 1. bronchodilator
-2. dornase alfa
-3. chest physiotherapy
-4. other inhaled medicinal products
-5.
-Cayston.
+2. mucolytics
+3. and lastly, Cayston.
 
 Adults
 
 The recommended dose for adults is 75 mg three times per 24 hours for 28 days.
 
 Doses should be taken at least 4 hours apart.
-Multiple course, controlled efficacy data are not yet available (see section 5.1).
-Additional courses, beyond the initial 28-day course, should be considered only at the discretion of the physician.
-If additional courses are prescribed, a minimum of 28 days without Cayston is recommended.
 
+Cayston may be taken in repeated cycles of 28 days on therapy followed by 28 days off Cayston therapy.
 Paediatric population
 
-Cayston is not recommended for use in children below the age of 18 years due to insufficient data on safety and efficacy (see section 5.1).
+Cayston is indicated in children aged 6 years and older.
+In clinical studies with Cayston patients younger than 6 years of age were excluded.
+The safety and efficacy of Cayston in children younger than 6 years of age has not been established.
+The dosing in children aged 6 years and older is the same as for adults.
+Dosage is not based on weight or adjusted for age.
 
 Elderly population
 
-Clinical studies with Cayston did not include sufficient numbers of patients aged 65 years and over to determine whether they responded differently from younger patients.
+Clinical studies of Cayston did not include Cayston-treated patients aged 65 years and older to determine whether they respond differently from younger patients.
 If Cayston is to be prescribed to the elderly then the posology is the same as for adults.
 
 Renal impairment
@@ -46,5 +45,5 @@ Method of administration
 
 Cayston is only for inhalation use.
 
-Cayston should only be used with the Altera Nebuliser Handset and Altera Aerosol Head connected to an Altera Control Unit or an eFlow rapid Control Unit.
+Cayston should only be used with the Altera Nebuliser Handset and Altera Aerosol Head connected to an eBase Controller or an eFlow rapid Control Unit.
 For instructions on reconstitution of the medicinal product before administration, see section 6.6.
