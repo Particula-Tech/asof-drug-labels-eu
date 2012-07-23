@@ -1,6 +1,7 @@
 # 5.3 Preclinical safety data
 
 Effects in non-clinical studies were observed only at exposures considered sufficiently in excess of the maximum human exposure indicating little relevance to clinical use.
+
 Monkeys administered ocular bimatoprost concentrations of ≥0.3 mg/ml daily for 1 year had an increase in iris pigmentation and reversible dose-related periocular effects characterised by a prominent upper and/or lower sulcus and widening of the palpebral fissure.
 The increased iris pigmentation appears to be caused by increased stimulation of melanin production in melanocytes and not by an increase in melanocyte number.
 No functional or microscopic changes related to the periocular effects have been observed, and the mechanism of action for the periocular changes is unknown.

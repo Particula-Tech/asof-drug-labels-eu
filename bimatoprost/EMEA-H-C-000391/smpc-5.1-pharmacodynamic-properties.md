@@ -2,6 +2,7 @@
 
 Pharmacotherapeutic group: Ophthalmologicals, prostaglandin analogues, ATC code: S01EE03.
 
+Mechanism of action
 The mechanism of action by which bimatoprost reduces intraocular pressure in humans is by increasing aqueous humour outflow through the trabecular meshwork and enhancing uveoscleral outflow.
 Reduction of the intraocular pressure starts approximately 4 hours after the first administration and maximum effect is reached within approximately 8 to 12 hours.
 The duration of effect is maintained for at least 24 hours.
@@ -18,6 +19,9 @@ LUMIGAN 0.1 mg/ml eye drops contains BAK in a concentration of 200 ppm.
 Limited experience is available with the use of LUMIGAN in patients with open-angle glaucoma with pseudoexfoliative and pigmentary glaucoma, and chronic angle-closure glaucoma with patent iridotomy.
 
 No clinically relevant effects on heart rate and blood pressure have been observed in clinical trials.
+
+Paediatric population
+The safety and efficacy of LUMIGAN in children aged 0 to less than 18 years has not been established.
 
 [LUMIGAN 0.3 mg/ml eye drops, solution]
 

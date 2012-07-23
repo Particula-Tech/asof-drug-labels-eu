@@ -2,4 +2,4 @@
 
 Eye drops, solution.
 
-Colourless to slightly yellow solution.
+Colourless solution.

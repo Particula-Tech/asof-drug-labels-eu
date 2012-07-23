@@ -1,5 +1,7 @@
 # 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
+07 January 2010
+
 [LUMIGAN 0.3 mg/ml eye drops, solution]
 
 8 March 2002 / 20 February 2007
