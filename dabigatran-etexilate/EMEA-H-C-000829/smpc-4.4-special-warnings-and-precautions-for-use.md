@@ -14,7 +14,7 @@ An unexplained fall in haemoglobin and/or haematocrit or blood pressure should l
 Factors, such as decreased renal function (30-50 ml/min CrCL), age ≥ 75 years, low body weight
 < 50 kg, or strong P-gp inhibitor co-medication (e.g. amiodarone, quinidine or verapamil) are associated with increased dabigatran plasma levels (see sections 4.2, 4.5 and 5.2).
 
-Use of acetylsalicylic acid (ASA), clopidogrel or non steroidal antiinflammatory drug (NSAID), as well as the presence of esophagitis, gastritis or gastroesophagealreflux increase the risk of GI bleeding.
+Use of acetylsalicylic acid (ASA), clopidogrel or non steroidal antiinflammatory drug (NSAID), as well as the presence of esophagitis, gastritis or gastroesophageal reflux increase the risk of GI bleeding.
 The administration of a PPI can be considered to prevent GI bleeding.
 
 Bleeding risk may be increased in patients concomitantly treated with selective serotonin re-uptake inhibitors (SSRIs) or selective serotonin norepinephrine re-uptake inhibitors (SNRIs) (see section 4.5).
@@ -26,7 +26,8 @@ Please also refer to contraindications in section 4.3.
 
 | Pharmacodynamic and kinetic factors | Age ≥ 75 years |
 | --- | --- |
-| Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment (30-50 ml/min CrCL) • P-gp inhibitor co-medication (some P-gp inhibitors are contraindicated, see section 4.3 and 4.5) Minor: • Low body weight (< 50 kg) |
+| Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment (30-50 ml/min CrCL) • P-gp inhibitor co-medication (some P-gp inhibitors are contraindicated, see section 4.3 and 4.5) |
+|  | Minor: • Low body weight (< 50 kg) |
 | Pharmacodynamic interactions | • ASA • NSAID • Clopidogrel • SSRIs or SNRIs • Other drugs which may impair haemostasis |
 | Diseases / procedures with special haemorrhagic risks | • Congenital or acquired coagulation disorders • Thrombocytopenia or functional platelet defects • Recent biopsy, major trauma • Bacterial endocarditis • Esophagitis, gastritis or gastroesophageal reflux |
 
@@ -59,8 +60,8 @@ When severe bleedings occur treatment must be discontinued and the source of ble
 Agents that may enhance the risk of haemorrhage should not be administered concomitantly or should be administered with caution with Pradaxa (see section 4.5).
 
 Interaction with P-gp inducers
-Concomitant administration of P-gp inducers (such as rifampicin, St. John`s wort (Hypericum perforatum), carbamazepine, or phenytoin) is expected to result in decreased dabigatran plasma concentrations, and should be avoided (see sections 4.5 and 5.2).
 
+Concomitant administration of P-gp inducers (such as rifampicin, St. John`s wort (Hypericum perforatum), carbamazepine, or phenytoin) is expected to result in decreased dabigatran plasma concentrations, and should be avoided (see sections 4.5 and 5.2).
 Surgery and interventions
 
 Patients on dabigatran etexilate who undergo surgery or invasive procedures are at increased risk for bleeding.
@@ -108,6 +109,11 @@ Hip fracture surgery
 
 There is no data on the use of Pradaxa in patients undergoing hip fracture surgery.
 Therefore treatment is not recommended.
+Patients with prosthetic heart valves
+
+The safety and efficacy of Pradaxa has not been studied in patients with prosthetic heart valves.
+Therefore, use of Pradaxa is not recommended in these patients.
+
 Colorants
 
 Pradaxa hard capsules contain the colorant sunset yellow (E110), which may cause allergic reactions.
@@ -118,7 +124,6 @@ Patients with elevated liver enzymes > 2 ULN were excluded in controlled clinica
 
 In a study of prevention of stroke and SEE in adult patients with nonvalvular atrial fibrillation, dabigatran etexilate was associated with higher rates of major gastrointestinal (GI) bleeding which was statistically significant for dabigatran etexilate 150 mg twice daily.
 This increased risk was seen in the elderly (≥ 75 years).
-Use of acetylsalicylic acid (ASA), clopidogrel or non steroidal antiinflammatory drug (NSAID), as well as the presence of esophagitis, gastritis or gastroesophageal reflux increase the risk of GI bleeding.
 In these atrial fibrillationpatients a dosage of 220 mg dabigatran given as 110 mg capsule twice daily should be considered and posology recommendations in section 4.2 be followed.
 
 | Pharmacodynamic and kinetic factors | Age ≥ 75 years |

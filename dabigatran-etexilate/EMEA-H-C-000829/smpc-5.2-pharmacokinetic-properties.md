@@ -37,6 +37,7 @@ Dabigatran is subject to conjugation forming pharmacologically active acylglucur
 Four positional isomers, 1-O, 2-O, 3-O, 4-O-acylglucuronide exist, each accounts for less than 10 % of total dabigatran in plasma.
 Traces of other metabolites were only detectable with highly sensitive analytical methods.
 Dabigatran is eliminated primarily in the unchanged form in the urine, at a rate of approximately 100 ml/min corresponding to the glomerular filtration rate.
+
 Special populations
 
 Renal insufficiency
@@ -76,6 +77,7 @@ Active substance exposure in the primary VTE prevention studies was about 40 % t
 
 Ethnic origin
 No clinically relevant inter-ethnic differences among Caucasian, African-American, Hispanic, Japanese or Chinese patients were observed regarding dabigatran pharmacokinetics and pharmacodynamics.
+
 Pharmacokinetic interactions
 
 The pro-drug dabigatran etexilate but not dabigatran is a substrate of the efflux transporter P-gp.

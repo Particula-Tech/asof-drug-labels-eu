@@ -68,7 +68,6 @@ The recommended dose is 150 mg taken once daily as 2 capsules of 75 mg (see sect
 
 As renal impairment may be frequent in the elderly (>75 years), renal function should be assessed by calculating the CrCL prior to initiation of treatment with Pradaxa to exclude patients with severe renal impairment (i.e. CrCL < 30 ml/min).
 While on treatment the renal function should also be assessed in certain clinical situations when it is suspected that the renal function could decline or deteriorate (such as hypovolemia, dehydration, and with certain comedications, etc) (see sections 4.3, 4.4 and 5.2).
-
 Hepatic impairment (prevention of VTE)
 
 Patients with elevated liver enzymes > 2 upper limit of normal (ULN) were excluded in clinical trials investigating the VTE prevention following elective hip or knee replacement surgery.
@@ -160,6 +159,7 @@ When excessive dabigatran exposure is identified in patients at high risk of ble
 When clinically relevant bleeding occurs, treatment should be interrupted.
 
 For subjects with gastritis, esophagitis, or gastroesophageal reflux, the dose of 220 mg taken as one 110 mg capsule twice daily may be considered due to the elevated risk of major gastro-intestinal bleeding (see section 4.4).
+
 Assessment of renal function (SPAF):
 
 Additional requirements in patients with mild to moderate renal impairment and in patients aged over 75 years:
@@ -183,6 +183,7 @@ In this situation Pradaxa and verapamil should be taken at the same time.
 Weight (SPAF)
 
 Given the available clinical and kinetic data, no dose adjustment is necessary (see section 5.2), but close clinical surveillance is recommended in patients with a body weight < 50 kg (see section 4.4).
+
 Gender (SPAF)
 
 Hepatic impairment (SPAF)

@@ -1,7 +1,6 @@
 # 4.9 Overdose
 
 Doses of dabigatran etexilate beyond those recommended, expose the patient to increased risk of bleeding.
-
 In case of an overdose suspicion, coagulation tests can help to determine a bleeding risk (see sections 4.4 and 5.1).
 A calibrated quantitative dTT test or repetitive dTT measurements allow prediction of the time by when certain dabigatran levels will be reached (see section 5.1), also in case additional measures e.g. dialysis have been initiated.
 

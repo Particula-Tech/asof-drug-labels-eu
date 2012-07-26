@@ -27,10 +27,10 @@ Interactions linked to dabigatran etexilate and dabigatran metabolic profile
 
 Dabigatran etexilate and dabigatran are not metabolised by the cytochrome P450 system and have no in vitro effects on human cytochrome P450 enzymes.
 Therefore, related medicinal product interactions are not expected with dabigatran.
-
 Transporter interactions
 
 P-gp inhibitors
+
 Dabigatran etexilate is a substrate for the efflux transporter P-gp.
 Concomitant administration of strong P-gp inhibitors (such as amiodarone, verapamil, quinidine, ketoconazole and clarithromycin) is expected to result in increased dabigatran plasma concentrations.
 
@@ -98,12 +98,12 @@ They have not been studied and are therefore not recommended for concomitant tre
 P-gp substrate
 
 Digoxin: In a study performed with 24 healthy subjects, when Pradaxa was co-administered with digoxin, no changes on digoxin and no clinical relevant changes on dabigatran exposure have been observed.
-
 Co-medication with selective serotonin re-uptake inhibitors (SSRIs) or selective serotonin norepinephrine re-uptake inhibitors (SNRIs)
 
 SSRIs and SNRIs increased the risk of bleeding in RE-LY in all treatment groups.
 
 Gastric pH
+
 Pantoprazole: When Pradaxa was co-administered with pantoprazole, a decrease in the dabigatran area under the plasma concentration-time curve of approximately 30 % was observed.
 Pantoprazole and other proton-pump inhibitors (PPI) were co-administered with Pradaxa in clinical trials, and concomitant PPI treatment did not appear to reduce the efficacy of Pradaxa.
 
