@@ -1,4 +1,4 @@
-# 4.6 Pregnancy and lactation
+# 4.6 Fertility, pregnancy and lactation
 
 Pregnancy
 NovoRapid (insulin aspart) can be used in pregnancy.
@@ -9,26 +9,11 @@ Insulin requirements usually fall in the first trimester and increase subsequent
 After delivery, insulin requirements normally return rapidly to pre-pregnancy values.
 
 Breast-feeding
+
 There are no restrictions on treatment with NovoRapid during breast-feeding.
 Insulin treatment of the nursing mother presents no risk to the baby.
-However, the NovoRapid dosage may need to be adjusted.
+However, the NovoRapid dose may need to be adjusted.
 
-[NovoRapid Penfill 100 U/ml solution for injection in cartridge.]
+Fertility
 
-There are no restrictions on treatment with NovoRapid duringbreast-feeding.
-
-[NovoRapid NovoLet 100 U/ml solution for injection in pre-filled pen.]
-
-(all sentences already above)
-
-[NovoRapid FlexPen 100 U/ml solution for injection in pre-filled pen.]
-
-(all sentences already above)
-
-[NovoRapid InnoLet 100 U/ml solution for injection in pre-filled pen.]
-
-(all sentences already above)
-
-[NovoRapid FlexTouch 100 U/ml solution for injection in pre-filled pen.]
-
-(all sentences already above)
+Animal reproduction studies have not revealed any differences between insulin aspart and human insulin regarding fertility.

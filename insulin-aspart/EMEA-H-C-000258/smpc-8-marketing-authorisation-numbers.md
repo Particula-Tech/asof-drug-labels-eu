@@ -1,4 +1,4 @@
-# 8. MARKETING AUTHORISATION NUMBER(S)
+# 8. MARKETING AUTHORISATION NUMBERS
 
 EU/1/99/119/001
 EU/1/99/119/008
@@ -30,4 +30,8 @@ EU/1/99/119/014
 
 [NovoRapid FlexTouch 100 U/ml solution for injection in pre-filled pen.]
 
-(all sentences already above)
+EU/1/99/119/019
+EU/1/99/119/020
+EU/1/99/119/021
+EU/1/99/119/022
+EU/1/99/119/023

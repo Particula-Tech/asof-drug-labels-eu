@@ -1,5 +1,6 @@
 # 6.3 Shelf life
 
-30 months.
+Before opening: 30 months.
 
-After first opening: A maximum of 4 weeks when stored below 30°C.
+During use or when carried as a spare: The product must be stored for a maximum of 4 weeks.
+Store below 30°C.

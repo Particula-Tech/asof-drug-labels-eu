@@ -1,42 +1,45 @@
 # 6.6 Special precautions for disposal and other handling
 
-NovoRapid vials are for use with insulin syringes with the corresponding unit scale.
+Needles and syringes must not be shared.
 
-NovoRapid must not be used if it does not appear clear and colourless.
+Do not use this medicinal product if you notice that the solution is not clear, colourless and aqueous.
+
 NovoRapid which has been frozen must not be used.
 
 NovoRapid may be used in an infusion pump system (CSII) as described in section 4.2.
 Tubings in which the inner surface materials are made of polyethylene or polyolefin have been evaluated and found compatible with pump use.
 
-[NovoRapid Penfill 100 U/ml solution for injection in cartridge.]
-
-NovoRapid Penfill is for use by one person only.
-The cartridge must not be refilled.
-
 The patient should be advised to discard the needle after each injection.
 
-In case of emergency in current NovoRapid users (hospitalisation or insulin pen malfunction), NovoRapid can be withdrawn with an U100 insulin syringe from the cartridge.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+[NovoRapid Penfill 100 U/ml solution for injection in cartridge.]
+
+Needles and NovoRapid Penfill must not be shared.
+The cartridge must not be refilled.
+
+In case of emergency in current NovoRapid users (hospitalisation or insulin pen malfunction), NovoRapid can be withdrawn with an U100 insulin syringe from a cartridge.
 
 [NovoRapid NovoLet 100 U/ml solution for injection in pre-filled pen.]
 
-NovoRapid NovoLet is for use by one person only.
+Needles and NovoRapid NovoLet must not be shared.
 
 In case of emergency in current NovoRapid users (hospitalisation or insulin pen malfunction), NovoRapid can be withdrawn with an U100 insulin syringe from a NovoLet.
 
 [NovoRapid FlexPen 100 U/ml solution for injection in pre-filled pen.]
 
-NovoRapid FlexPen is for use by one person only.
+Needles and NovoRapid FlexPen must not be shared.
 
 In case of emergency in current NovoRapid users (hospitalisation or insulin pen malfunction), NovoRapid can be withdrawn with an U100 insulin syringe from a FlexPen.
 
 [NovoRapid InnoLet 100 U/ml solution for injection in pre-filled pen.]
 
-NovoRapid InnoLet is for use by one person only.
+Needles and NovoRapid InnoLet must not be shared.
 
 In case of emergency in current NovoRapid users (hospitalisation or insulin pen malfunction), NovoRapid can be withdrawn with an U100 insulin syringe from an InnoLet.
 
 [NovoRapid FlexTouch 100 U/ml solution for injection in pre-filled pen.]
 
-NovoRapid FlexTouch is for use by one person only.
+Needles and NovoRapid FlexTouch must not be shared.
 
 In case of emergency in current NovoRapid users (hospitalisation or insulin pen malfunction), NovoRapid can be withdrawn with an U100 insulin syringe from a FlexTouch Pen.

@@ -1,8 +1,8 @@
 # 3. PHARMACEUTICAL FORM
 
-Solution for injection in vial.
+Solution for injection.
 
-Clear, colourless, aqueous solution.
+The solution is clear, colourless and aqueous.
 
 [NovoRapid Penfill 100 U/ml solution for injection in cartridge.]
 

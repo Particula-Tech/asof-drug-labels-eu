@@ -8,8 +8,8 @@ Oral antidiabetic medicinal products, monoamine oxidase inhibitors (MAOI), beta-
 The following substances may increase the patient’s insulin requirements:
 Oral contraceptives, thiazides, glucocorticoids, thyroid hormones, sympathomimetics, growth hormone and danazol.
 
-Beta-blocking agents may mask the symptoms of hypoglycaemia.
+Beta-blockers may mask the symptoms of hypoglycaemia.
 
-Octreotide/lanreotide may both increase or decrease insulin requirement.
+Octreotide/lanreotide may either increase or decrease the insulin requirement.
 
 Alcohol may intensify or reduce the hypoglycaemic effect of insulin.

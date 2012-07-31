@@ -1,15 +1,15 @@
 # 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C).
-Keep away from the cooling element.
+Before opening: Store in a refrigerator (2°C - 8°C).
+Do not freeze.
+
+During use or when carried as a spare: Store below 30°C.
+Do not refrigerate.
 Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
-After first opening or carried as a spare: Do not refrigerate.
-Store below 30°C.
-
-NovoRapid must be protected from excessive heat and light.
+For storage conditions of the medicinal product, see section 6.3.
 
 [NovoRapid Penfill 100 U/ml solution for injection in cartridge.]
 
@@ -17,16 +17,16 @@ Keep the cartridge in the outer carton in order to protect from light.
 
 [NovoRapid NovoLet 100 U/ml solution for injection in pre-filled pen.]
 
-Keep the cap on NovoLet in order to protect from light.
+Keep the pen cap on NovoLet in order to protect from light.
 
 [NovoRapid FlexPen 100 U/ml solution for injection in pre-filled pen.]
 
-Keep the cap on FlexPen in order to protect from light.
+Keep the pen cap on FlexPen in order to protect from light.
 
 [NovoRapid InnoLet 100 U/ml solution for injection in pre-filled pen.]
 
-Keep the cap on InnoLet in order to protect from light.
+Keep the pen cap on InnoLet in order to protect from light.
 
 [NovoRapid FlexTouch 100 U/ml solution for injection in pre-filled pen.]
 
-Keep the cap on FlexTouch Pen in order to protect from light.
+Keep the pen cap on FlexTouch in order to protect from light.
