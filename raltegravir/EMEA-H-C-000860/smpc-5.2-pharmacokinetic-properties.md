@@ -24,6 +24,11 @@ Distribution
 Raltegravir is approximately 83 % bound to human plasma protein over the concentration range of 2 to 10 µM.
 Raltegravir readily crossed the placenta in rats, but did not penetrate the brain to any appreciable extent.
 
+In two studies of HIV-1 infected patients who received raltegravir 400 mg twice daily, raltegravir was readily detected in the cerebrospinal fluid.
+In the first study (n=18), the median cerebrospinal fluid concentration was 5.8 % (range 1 to 53.5 %) of the corresponding plasma concentration.
+In the second study (n=16), the median cerebrospinal fluid concentration was 3 % (range 1 to 61 %) of the corresponding plasma concentration.
+These median proportions are approximately 3- to 6-fold lower than the free fraction of raltegravir in plasma.
+
 Metabolism and excretion
 The apparent terminal half-life of raltegravir is approximately 9 hours, with a shorter α-phase half-life (~1 hour) accounting for much of the AUC.
 Following administration of an oral dose of radiolabeled raltegravir, approximately 51 and 32 % of the dose was excreted in faeces and urine, respectively.
@@ -52,7 +57,6 @@ Renal impairment
 Renal clearance of unchanged medicinal product is a minor pathway of elimination.
 There were no clinically important pharmacokinetic differences between patients with severe renal insufficiency and healthy subjects (see section 4.2).
 Because the extent to which ISENTRESS may be dialysable is unknown, dosing before a dialysis session should be avoided.
-
 Hepatic impairment
 Raltegravir is eliminated primarily by glucuronidation in the liver.
 There were no clinically important pharmacokinetic differences between patients with moderate hepatic insufficiency and healthy subjects.
