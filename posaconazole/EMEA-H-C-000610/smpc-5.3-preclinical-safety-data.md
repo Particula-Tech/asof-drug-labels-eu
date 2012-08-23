@@ -13,6 +13,7 @@ These findings are not necessarily indicative of a potential for functional chan
 No effects on electrocardiograms, including QT and QTc intervals, were seen in a repeat dose safety pharmacology study in monkeys at systemic exposures 4.6-fold greater than the exposures obtained at therapeutic doses in humans.
 Echocardiography revealed no indication of cardiac decompensation in a repeat dose safety pharmacology study in rats at a systemic exposure 1.4-fold greater than that achieved therapeutically.
 Increased systolic and arterial blood pressures (up to 29 mm-Hg) were seen in rats and monkeys at systemic exposures 1.4-fold and 4.6-fold greater, respectively, than those achieved with therapeutic doses.
+
 Reproduction, peri- and postnatal development studies were conducted in rats.
 At exposures lower than those obtained at therapeutic doses in humans, posaconazole caused skeletal variations and malformations, dystocia, increased length of gestation, reduced mean litter size and postnatal viability.
 In rabbits, posaconazole was embryotoxic at exposures greater than those obtained at therapeutic doses.

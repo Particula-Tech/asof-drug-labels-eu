@@ -30,6 +30,7 @@ Children (< 18 years)
 Following administration of 800 mg per day of posaconazole as a divided dose for treatment of invasive fungal infections, mean trough plasma concentrations from 12 patients 8 - 17 years of age (776 ng/ml) were similar to concentrations from 194 patients 18 - 64 years of age (817 ng/ml).
 No pharmacokinetic data are available from paediatric patients less than 8 years of age.
 Similarly, in the prophylaxis studies, the mean steady-state posaconazole average concentration (Cav) was comparable among ten adolescents (13-17 years of age) to Cav achieved in adults (≥ 18 years of age).
+
 Gender
 The pharmacokinetics of posaconazole are comparable in men and women.
 

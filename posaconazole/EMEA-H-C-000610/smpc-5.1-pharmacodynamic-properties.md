@@ -14,6 +14,15 @@ The microbiological data suggest that posaconazole is active against Rhizomucor,
 Resistance
 Clinical isolates with decreased susceptibility to posaconazole have been identified.
 The principle mechanism of resistance is the acquisition of substitutions in the target protein, CYP51.
+Breakpoints
+EUCAST MIC breakpoints for posaconazole [susceptible (S); resistant (R)]:
+
+- Candida albicans: S ≤0.06 mg/L, R >0.06 mg/L
+- Candida tropicalis: S ≤0.06 mg/L, R >0.06 mg/L
+- Candida parapsilosis: S ≤0.06 mg/L, R >0.06 mg/L
+
+There are currently insufficient data to set clinical breakpoints for other Candida species.
+
 Combination with other antifungal agents
 The use of combination antifungal therapies should not decrease the efficacy of either posaconazole or the other therapies; however, there is currently no clinical evidence that combination therapy will provide an added benefit.
 
@@ -47,13 +56,14 @@ Overall efficacy of posaconazole at the end of treatment for invasive aspergillo
 
 Fusarium spp.
 11 of 24 patients who had proven or probable fusariosis were successfully treated with posaconazole 800 mg/day in divided doses for a median of 124 days and up to 212 days.
-Among eighteen patients who were intolerant or had infections refractory to amphotericin B or itraconazole, seven patients were classed as responders.
+Among eighteen patients
+
+1 Includes other less common species or species unknown who were intolerant or had infections refractory to amphotericin B or itraconazole, seven patients were classed as responders.
 
 Chromoblastomycosis/Mycetoma
 9 of 11 patients were successfully treated with posaconazole 800 mg/day in divided doses for a median of 268 days and up to 377 days.
 Five of these patients had chromoblastomycosis due to Fonsecaea pedrosoi and 4 had mycetoma, mostly due to Madurella species.
 
-1 Includes other less common species or species unknown
 Coccidioidomycosis
 11 of 16 patients were successfully treated (at the end of treatment complete or partial resolution of signs and symptoms present at baseline) with posaconazole 800 mg/day in divided doses for a median of 296 days and up to 460 days.
 
@@ -90,10 +100,10 @@ The primary efficacy endpoint was the incidence of proven/probable IFIs as deter
 A key secondary endpoint was the incidence of proven/probable IFIs at 100 days post-randomization.
 New diagnosis of acute myelogenous leukemia was the most common underlying condition (435/602, [72 %]).
 The mean duration of therapy was 29 days for posaconazole and 25 days for fluconazole/itraconazole.
-
 In both prophylaxis studies, aspergillosis was the most common breakthrough infection.
 See Table 5 and 6 for results from both studies.
 There were fewer breakthrough Aspergillus infections in patients receiving posaconazole prophylaxis when compared to control patients.
+
 Table 5.
 Results from clinical studies in prophylaxis of Invasive Fungal Infections.
 
@@ -139,10 +149,10 @@ In Study 316, overall mortality was similar (POS, 25 %; FLU, 28 %); however, the
 Paediatric population
 Sixteen patients 8-17 years of age were treated with 800 mg/day in a study for invasive fungal infections.
 Based on the available data in 16 of these paediatric patients, the safety profile appears to be similar to patients ≥ 18 years of age.
-
 Additionally, twelve patients 13-17 years of age received 600 mg/day for prophylaxis of invasive fungal infections (Studies 316 and 1899).
 The safety profile in these patients < 18 years of age appears similar to the safety profile observed in adults.
 Based on pharmacokinetic data in 10 of these paediatric patients, the pharmacokinetic profile appears to be similar to patients ≥ 18 years of age.
+
 Safety and efficacy in paediatric patients below the age of 18 years have not been established.
 
 Electrocardiogram evaluation
