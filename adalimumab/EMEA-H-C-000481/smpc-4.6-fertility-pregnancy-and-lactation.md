@@ -18,4 +18,5 @@ Administration of live vaccines to infants exposed to adalimumab in utero is not
 Lactation
 
 It is not known whether adalimumab is excreted in human milk or absorbed systemically after ingestion.
+
 However, because human immunoglobulins are excreted in milk, women must not breast-feed for at least five months after the last Humira treatment.

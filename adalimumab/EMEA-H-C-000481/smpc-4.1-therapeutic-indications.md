@@ -41,7 +41,7 @@ Humira is indicated for the treatment of moderate to severe chronic plaque psori
 
 Crohn’s disease
 
-Humira is indicated for treatment of severe, active Crohn’s disease, in patients who have not responded despite a full and adequate course of therapy with a corticosteroid and/or an immunosuppressant; or who are intolerant to or have medical contraindications for such therapies.
+Humira is indicated for treatment of moderately to severely active Crohn’s disease, in adult patients who have not responded despite a full and adequate course of therapy with a corticosteroid and/or an immunosuppressant; or who are intolerant to or have medical contraindications for such therapies.
 
 Ulcerative colitis
 
