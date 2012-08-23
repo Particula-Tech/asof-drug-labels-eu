@@ -1,0 +1,16 @@
+{
+  "active_substance": "ruxolitinib phosphate",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/002464",
+  "eu_number": "EU/1/12/773",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2012-08-23",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/jakavi",
+  "molecule": "ruxolitinib",
+  "molecule_name": "RUXOLITINIB",
+  "name": "Jakavi",
+  "register_name": "Jakavi",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h773.htm"
+}
