@@ -202,11 +202,10 @@ Rare Pseudomembranous colitis
 Blood and lymphatic system disorders
 Common Pancytopenia, bone marrow depression, leukopenia,
 thrombocytopenia, anaemia, purpura
-Uncommon Disseminated intravascular coagulation, agranulocytosis,
-lymphadenopathy, eosinophilia
 
-| Immune system disorders |  |
+| Uncommon | Disseminated intravascular coagulation, agranulocytosis, lymphadenopathy, eosinophilia |
 | --- | --- |
+| Immune system disorders |  |
 | Common | Sinusitis |
 | Uncommon | Anaphylactoid reaction, hypersensitivity |
 | Endocrine disorders |  |

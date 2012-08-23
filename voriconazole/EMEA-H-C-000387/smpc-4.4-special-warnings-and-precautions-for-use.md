@@ -30,6 +30,7 @@ Monitoring of hepatic function should be carried out in both children and adults
 
 Visual adverse reactions
 There have been reports of prolonged visual adverse reactions, including blurred vision, optic neuritis and papilloedema (see section 4.8).
+
 Renal adverse reactions
 Acute renal failure has been observed in severely ill patients undergoing treatment with VFEND.
 Patients being treated with voriconazole are likely to be treated concomitantly with nephrotoxic medicinal products and have concurrent conditions that may result in decreased renal function (see section 4.8).
@@ -64,7 +65,7 @@ Careful monitoring of phenytoin levels is recommended when phenytoin is coadmini
 Concomitant use of voriconazole and phenytoin should be avoided unless the benefit outweighs the risk (see section 4.5).
 
 Efavirenz (CYP450 inducer; CYP3A4 inhibitor and substrate)
-When voriconazole is coadministered with efavirenz the dose of voriconazole should be increased to 400 mg every 12 hours and that of efavirenz should be decreased to 300 mg every 24 hours (see sections 4.2 and 4.5).
+When voriconazole is coadministered with efavirenz the dose of voriconazole should be increased to 400 mg every 12 hours and that of efavirenz should be decreased to 300 mg every 24 hours (see sections 4.2, 4.3 and 4.5).
 
 Rifabutin (CYP450 inducer)
 Careful monitoring of full blood counts and adverse reactions to rifabutin (e.g. uveitis) is recommended when rifabutin is coadministered with voriconazole.
@@ -72,7 +73,6 @@ Concomitant use of voriconazole and rifabutin should be avoided unless the benef
 
 Ritonavir (potent CYP450 inducer; CYP3A4 inhibitor and substrate)
 Coadministration of voriconazole and low dose ritonavir (100 mg twice daily) should be avoided unless an assessment of the benefit/risk justifies the use of voriconazole (see sections 4.5 and 4.3).
-
 Everolimus (CYP3A4 substrate, P-gp substrate)
 Co-administration of voriconazole with everolimus is not recommended because voriconazole is expected to significantly increase everolimus concentrations.
 Currently there are insufficient data to allow dosing recommendations in this situation (see section 4.5).

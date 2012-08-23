@@ -8,6 +8,7 @@ Conventional studies of safety pharmacology, genotoxicity or carcinogenic potent
 In reproduction studies, voriconazole was shown to be teratogenic in rats and embryotoxic in rabbits at systemic exposures equal to those obtained in humans with therapeutic doses.
 In the pre and postnatal development study in rats at exposures lower than those obtained in humans with therapeutic doses, voriconazole prolonged the duration of gestation and labour and produced dystocia with consequent maternal mortality and reduced perinatal survival of pups.
 The effects on parturition are probably mediated by species-specific mechanisms, involving reduction of oestradiol levels, and are consistent with those observed with other azole antifungal agents.
+Voriconazole administration induced no impairment of male or female fertility in rats at exposures similar to those obtained in humans at therapeutic doses.
 
 [VFEND 200 mg film-coated tablets]
 

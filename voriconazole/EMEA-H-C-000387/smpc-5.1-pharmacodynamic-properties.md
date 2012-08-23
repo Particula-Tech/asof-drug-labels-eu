@@ -32,6 +32,7 @@ Breakpoints
 
 Specimens for fungal culture and other relevant laboratory studies (serology, histopathology) should be obtained prior to therapy to isolate and identify causative organisms.
 Therapy may be instituted before the results of the cultures and other laboratory studies are known; however, once these results become available, anti-infective therapy should be adjusted accordingly.
+
 The species most frequently involved in causing human infections include C. albicans, C. parapsilosis, C. tropicalis, C. glabrata and C. krusei, all of which usually exhibit MICs of less than 1 mg/L for voriconazole.
 
 However, the in vitro activity of voriconazole against Candida species is not uniform.
@@ -66,6 +67,7 @@ A satisfactory global response (complete or partial resolution of all attributab
 The 84-day survival rate for voriconazole was statistically significantly higher than that for the comparator and a clinically and statistically significant benefit was shown in favour of voriconazole for both time to death and time to discontinuation due to toxicity.
 
 This study confirmed findings from an earlier, prospectively designed study where there was a positive outcome in subjects with risk factors for a poor prognosis, including graft versus host disease, and, in particular, cerebral infections (normally associated with almost 100 % mortality).
+
 The studies included cerebral, sinus, pulmonary and disseminated aspergillosis in patients with bone marrow and solid organ transplants, haematological malignancies, cancer and AIDS.
 
 Candidaemia in non-neutropenic patients
@@ -104,6 +106,7 @@ In addition, a successful response was seen in 1 of 3 patients with infections c
 Fusarium spp.: Seven (3 complete, 4 partial responses) of 17 patients were successfully treated with voriconazole.
 Of these 7 patients, 3 had eye, 1 had sinus, and 3 had disseminated infection.
 Four additional patients with fusariosis had an infection caused by several organisms; two of them had a successful outcome.
+
 The majority of patients receiving voriconazole treatment of the above mentioned rare infections were intolerant of, or refractory to, prior antifungal therapy.
 
 Duration of treatment

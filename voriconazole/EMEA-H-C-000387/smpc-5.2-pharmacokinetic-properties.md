@@ -22,6 +22,7 @@ Distribution
 The volume of distribution at steady state for voriconazole is estimated to be 4.6 l/kg, suggesting extensive distribution into tissues.
 Plasma protein binding is estimated to be 58 %.
 Cerebrospinal fluid samples from eight patients in a compassionate programme showed detectable voriconazole concentrations in all patients.
+
 Biotransformation
 In vitro studies showed that voriconazole is metabolised by, the hepatic cytochrome P450 isoenzymes, CYP2C19, CYP2C9 and CYP3A4.
 

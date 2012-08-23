@@ -14,6 +14,9 @@ Breastfeeding
 The excretion of voriconazole into breast milk has not been investigated.
 Breast-feeding must be stopped on initiation of treatment with VFEND.
 
+Fertility
+In an animal study, no impairment of fertility was demonstrated in male and female rats (see section 5.3).
+
 [VFEND 200 mg film-coated tablets]
 
 No adequate information on the use of VFEND in pregnant women is available.

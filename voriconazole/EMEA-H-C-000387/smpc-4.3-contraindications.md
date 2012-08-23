@@ -5,6 +5,8 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 Coadministration with CYP3A4 substrates, terfenadine, astemizole, cisapride, pimozide or quinidine since increased plasma concentrations of these medicinal products can lead to QTc prolongation and rare occurrences of torsades de pointes (see section 4.5).
 
 Coadministration with rifampicin, carbamazepine and phenobarbital since these medicinal products are likely to decrease plasma voriconazole concentrations significantly (see section 4.5).
+Coadministration with high dose efavirenz (400 mg and above once daily) because efavirenz significantly decreases plasma voriconazole concentrations in healthy subjects at this dose (see section 4.5, for lower doses see section 4.4).
+
 Coadministration with high dose ritonavir (400 mg and above twice daily) because ritonavir significantly decreases plasma voriconazole concentrations in healthy subjects at this dose (see section 4.5, for lower doses see section 4.4).
 
 Coadministration with ergot alkaloids (ergotamine, dihydroergotamine), which are CYP3A4 substrates, since increased plasma concentrations of these medicinal products can lead to ergotism (see section 4.5).
@@ -19,7 +21,7 @@ Coadministration with St John’s Wort (see section 4.5).
 
 [VFEND 200 mg powder for solution for infusion]
 
-Coadministration \ with high dose ritonavir (400 mg and above twice daily) because ritonavir significantly decreases plasma voriconazole concentrations in healthy subjects at this dose (see section 4.5, for lower doses see section 4.4).
+(all sentences already above)
 
 [VFEND 40 mg/ml powder for oral suspension]
 
