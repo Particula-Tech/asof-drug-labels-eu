@@ -18,5 +18,4 @@ Not all pack sizes may be marketed.
 
 Each carton contains one high-density polyethylene (HDPE) bottle or three high-density polyethylene (HDPE) bottles closed with child-resistant polypropylene closure.
 Each bottle contains 30 hard capsules.
-
 Each carton contains 30 x 1 capsules; 5 blister cards of 6 x 1 capsules each in Alu/Alu perforated unit dose blisters.

@@ -7,9 +7,9 @@ Absorption: in HIV-infected patients (n=33, combined studies), multiple dosing o
 The geometric mean (CV%) for atazanavir Cmin and AUC was 654 (76%) ng/ml and 44185 (51%) ng•h/ml, respectively.
 
 Food effect: co-administration of REYATAZ and ritonavir with food optimises the bioavailability of atazanavir.
-Co-administration of a single 300-mg dose of REYATAZ and 100-mg dose of ritonavir with a light meal resulted in a 33% increase in the AUC and a 40% increase in both the Cmax and the 24-hour concentration of atazanavir relative to the fasting state.
+Co-administration of a single 300 mg dose of REYATAZ and 100 mg dose of ritonavir with a light meal resulted in a 33% increase in the AUC and a 40% increase in both the Cmax and the 24 hour concentration of atazanavir relative to the fasting state.
 Co-administration with a high-fat meal did not affect the AUC of atazanavir relative to fasting conditions and the Cmax was within 11% of fasting values.
-The 24-hour concentration following a high fat meal was increased by approximately 33% due to delayed absorption; the median Tmax increased from 2.0 to 5.0 hours.
+The 24 hour concentration following a high fat meal was increased by approximately 33% due to delayed absorption; the median Tmax increased from 2.0 to 5.0 hours.
 Administration of REYATAZ with ritonavir with either a light or a high-fat meal decreased the coefficient of variation of AUC and Cmax by approximately 25% compared to the fasting state.
 To enhance bioavailability and minimise variability, REYATAZ is to be taken with food.
 
@@ -23,7 +23,7 @@ Additional minor metabolic pathways consist of N-dealkylation and hydrolysis.
 Two minor metabolites of atazanavir in plasma have been characterised.
 Neither metabolite demonstrated in vitro antiviral activity.
 
-Elimination: following a single 400-mg dose of 14C-atazanavir, 79% and 13% of the total radioactivity was recovered in the faeces and urine, respectively.
+Elimination: following a single 400 mg dose of 14C-atazanavir, 79% and 13% of the total radioactivity was recovered in the faeces and urine, respectively.
 Unchanged drug accounted for approximately 20% and 7% of the administered dose in the faeces and urine, respectively.
 Mean urinary excretion of unchanged drug was 7% following 2 weeks of dosing at 800 mg once daily.
 In HIV-infected adult patients (n=33, combined studies) the mean half-life within a dosing interval for atazanavir was 12 hours at steady state following a dose of 300 mg daily with ritonavir 100 mg once daily with a light meal.

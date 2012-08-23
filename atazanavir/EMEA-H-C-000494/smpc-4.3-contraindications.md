@@ -3,6 +3,8 @@
 Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
 
 Patients with moderate to severe hepatic insufficiency (see sections 4.2 and 4.4).
+Co-administration of REYATAZ with simvastatin or lovastatin is contraindicated (see section 4.5).
+
 Combination of rifampicin and REYATAZ with concomitant low-dose ritonavir is contraindicated (see section 4.5).
 
 The PDE5 inhibitor sildenafil is contraindicated when used for the treatment of pulmonary arterial hypertension (PAH) only (see section 4.5).

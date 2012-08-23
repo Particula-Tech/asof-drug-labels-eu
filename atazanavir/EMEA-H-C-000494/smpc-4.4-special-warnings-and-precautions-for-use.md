@@ -25,6 +25,7 @@ QT prolongation: Dose related asymptomatic prolongations in PR interval with REY
 Caution should be used with medicinal products known to induce PR prolongations.
 In patients with pre-existing conduction problems (second degree or higher atrioventricular or complex bundle-branch block), REYATAZ should be used with caution and only if the benefits exceed the risk (see section 5.1).
 Particular caution should be used when prescribing REYATAZ in association with medicinal products which have the potential to increase the QT interval and/or in patients with pre-existing risk factors (bradycardia, long congenital QT, electrolyte imbalances (see sections 4.8 and 5.3).
+
 Haemophiliac patients: There have been reports of increased bleeding, including spontaneous skin haematomas and haemarthroses, in type A and B haemophiliac patients treated with protease inhibitors.
 In some patients additional factor VIII was given.
 In more than half of the reported cases, treatment with protease inhibitors was continued or reintroduced if treatment had been discontinued.
@@ -66,7 +67,6 @@ Combinations of REYATAZ and indinavir have not been studied and co-administratio
 Nephrolithiasis
 Nephrolithiasis has been reported in patients receiving REYATAZ (see section 4.8).
 If signs or symptoms of nephrolithiasis occur, temporary interruption or discontinuation of treatment may be considered.
-
 Immune reactivation syndrome
 In HIV-infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
@@ -88,7 +88,7 @@ The best results in managing these events come from early diagnosis and immediat
 If the patient has developed SJS or DRESS associated with the use of REYATAZ, REYATAZ may not be restarted.
 
 Interactions with other medicinal products
-Co-administration of REYATAZ with simvastatin or lovastatin is not recommended (see section 4.5).
+The combination of REYATAZ with atorvastatin is not recommended (see section 4.5).
 
 Co-administration of REYATAZ with nevirapine or efavirenz is not recommended (see section 4.5).
 If the co-administration of REYATAZ with an NNRTI is required, an increase in the dose of both REYATAZ and ritonavir to 400 mg and 200 mg, respectively, in combination with efavirenz could be considered with close clinical monitoring.
@@ -103,11 +103,11 @@ Co-administration of voriconazole and REYATAZ with ritonavir is not recommended 
 
 Concomitant use of REYATAZ/ritonavir and fluticasone or other glucocorticoids that are metabolized by CYP3A4 is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects, including Cushing's syndrome and adrenal suppression
 (see section 4.5).
-
 Concomitant use of salmeterol and REYATAZ/ritonavir may result in increased cardiovascular adverse events associated with salmeterol.
 Co-administration of salmeterol and REYATAZ is not recommended (see section 4.5).
 
 The absorption of atazanavir may be reduced in situations where gastric pH is increased irrespective of cause.
+
 Co-administration of REYATAZ with proton pump inhibitors is not recommended (see section 4.5).
 If the combination of REYATAZ with a proton pump inhibitor is judged unavoidable, close clinical monitoring is recommended in combination with an increase in the dose of REYATAZ to 400 mg with 100 mg of ritonavir; doses of proton pump inhibitors comparable to omeprazole 20 mg should not be exceeded.
 

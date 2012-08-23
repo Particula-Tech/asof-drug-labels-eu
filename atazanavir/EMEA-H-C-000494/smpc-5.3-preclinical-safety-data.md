@@ -5,20 +5,20 @@ Systemic exposures of atazanavir in mice (males), rats, and dogs at doses associ
 In female mice, atazanavir exposure at a dose that produced single-cell necrosis was 12 times the exposure in humans given 400 mg once daily.
 Serum cholesterol and glucose were minimally to mildly increased in rats but not in mice or dogs.
 
-During in vitro studies, cloned human cardiac potassium channel (hERG), was inhibited by 15% at a concentration (30 μM) of atazanavir corresponding to 30-fold the free drug concentration at Cmax in humans.
+During in vitro studies, cloned human cardiac potassium channel (hERG), was inhibited by 15% at a concentration (30 μM) of atazanavir corresponding to 30 fold the free drug concentration at Cmax in humans.
 Similar concentrations of atazanavir increased by 13% the action potential duration (APD90) in rabbit Purkinje fibres study.
-Electrocardiographic changes (sinus bradycardia, prolongation of PR interval, prolongation of QT interval, and prolongation of QRS complex) were observed only in an initial 2-week oral toxicity study performed in dogs.
-Subsequent 9-month oral toxicity studies in dogs showed no drug-related electrocardiographic changes.
+Electrocardiographic changes (sinus bradycardia, prolongation of PR interval, prolongation of QT interval, and prolongation of QRS complex) were observed only in an initial 2 week oral toxicity study performed in dogs.
+Subsequent 9 month oral toxicity studies in dogs showed no drug-related electrocardiographic changes.
 The clinical relevance of these non-clinical data is unknown.
 Potential cardiac effects of this product in humans cannot be ruled out (see sections 4.4 and 4.8).
-The potential for PR prolongation should be considered in cases of overdose (see section4.9).
+The potential for PR prolongation should be considered in cases of overdose
+(see section 4.9).
 
 In a fertility and early embryonic development study in rats, atazanavir altered oestrus cycling with no effects on mating or fertility.
 No teratogenic effects were observed in rats or rabbits at maternally toxic doses.
 In pregnant rabbits, gross lesions of the stomach and intestines were observed in dead or moribund does at maternal doses 2 and 4 times the highest dose administered in the definitive embryo-development study.
 In the pre- and postnatal development assessment in rats, atazanavir produced a transient reduction in body weight in the offspring at a maternally toxic dose.
 Systemic exposure to atazanavir at doses that resulted in maternal toxicity was at least equal to or slightly greater than that observed in humans given 400 mg once daily.
-
 Atazanavir was negative in an Ames reverse-mutation assay but did induce chromosomal aberrations in vitro in both the absence and presence of metabolic activation.
 In in vivo studies in rats, atazanavir did not induce micronuclei in bone marrow, DNA damage in duodenum (comet assay), or unscheduled DNA repair in liver at plasma and tissue concentrations exceeding those that were clastogenic in vitro.
 
