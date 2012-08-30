@@ -8,10 +8,10 @@ In a phase 3 study, anticipated mineralocorticoid adverse reactions were seen mo
 In patients treated with ZYTIGA, CTCAE (version 3.0) Grades 3 and 4 hypokalaemia and CTCAE (version 3.0) Grades 3 and 4 hypertension were observed in 4% and 1% of patients, respectively.
 Mineralocorticoid reactions generally were able to be successfully managed medically.
 Concomitant use of a corticosteroid reduces the incidence and severity of these adverse reactions (see section 4.4).
-
 Tabulated summary of adverse reactions
 In studies of patients with metastatic advanced prostate cancer who were using a luteinising hormone-releasing hormone (LHRH) agonist, or were previously treated with orchiectomy, ZYTIGA was administered at a dose of 1,000 mg daily in combination with low dose prednisone or prednisolone (10 mg daily).
 Patients were intolerant to or had failed up to two prior chemotherapy regimens, one of which contained a taxane.
+
 Adverse reactions observed during clinical studies are listed below by frequency category.
 Frequency categories are defined as follows: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon
 (≥ 1/1,000 to < 1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000).
@@ -51,8 +51,8 @@ When elevations of either ALT or AST > 5 x ULN, or elevations in bilirubin > 3 x
 In two instances marked increases in liver function tests occurred (see section 4.4).
 These two patients with normal baseline hepatic function, experienced ALT or AST elevations 15 to 40 x ULN and bilirubin elevations 2 to 6 x ULN.
 Upon discontinuation of ZYTIGA, both patients had normalisation of their liver function tests and one patient was re-treated without recurrence of the elevations.
-In clinical trials, the risk for hepatotoxicity was mitigated by exclusion of patients with active or symptomatic hepatitis or baseline ALT and AST ≥ 2.5 x ULN in the absence of liver metastases and
-> 5 x ULN if liver metastases were present.
+
+In clinical trials, the risk for hepatotoxicity was mitigated by exclusion of patients with active or symptomatic hepatitis or baseline ALT and AST ≥ 2.5 x ULN in the absence of liver metastases and > 5 x ULN if liver metastases were present.
 Abnormal liver function tests developing in patients participating in clinical trials were vigorously managed by requiring treatment interruption and permitting re-treatment only after return of liver function tests to the patient’s baseline (see section 4.2).
 Patients with elevations of ALT or AST > 20 x ULN were not re-treated.
 The safety of re-treatment in such patients is unknown.

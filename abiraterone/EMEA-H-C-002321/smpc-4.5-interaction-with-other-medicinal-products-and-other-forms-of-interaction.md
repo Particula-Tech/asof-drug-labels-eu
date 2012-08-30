@@ -10,6 +10,9 @@ The AUC24 for dextrorphan, the active metabolite of dextromethorphan, increased 
 Caution is advised when ZYTIGA is administered with medicinal products activated by or metabolised by CYP2D6, particularly with medicinal products that have a narrow therapeutic index.
 Dose reduction of medicinal products with a narrow therapeutic index that are metabolised by CYP2D6 should be considered.
 Examples of medicinal products metabolised by CYP2D6 include metoprolol, propranolol, desipramine, venlafaxine, haloperidol, risperidone, propafenone, flecainide, codeine, oxycodone and tramadol (the latter three products requiring CYP2D6 to form their active analgesic metabolites).
+Based on in vitro data, ZYTIGA is an inhibitor of the hepatic drug-metabolising enzyme CYP2C8.
+Examples of medicinal products metabolised by CYP2C8 include paclitaxel and repaglinide.
+There are no clinical data on the use of ZYTIGA with drugs that are substrates of CYP2C8.
 
 Based on in vitro data, ZYTIGA is a substrate of CYP3A4.
 The effects of strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, nefazodone, saquinavir, telithromycin, ritonavir, indinavir, nelfinavir, voriconazole) or inducers (e.g., phenytoin, carbamazepine, rifampicin, rifabutin, rifapentine, phenobarbital) on the pharmacokinetics of abiraterone have not been evaluated, in vivo.

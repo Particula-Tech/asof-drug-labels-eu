@@ -26,6 +26,7 @@ Patients were not required to show disease progression on docetaxel, as toxicity
 Patients were using an LHRH agonist or were previously treated with orchiectomy (N=1,195).
 In the active treatment arm, ZYTIGA was administered at a dose of 1,000 mg daily in combination with low dose prednisone or prednisolone 5 mg twice daily (N=797).
 Control patients received placebo and low dose prednisone or prednisolone 5 mg twice daily (N=398).
+
 Changes in either radiographic findings or PSA serum concentration independently do not always predict clinical benefit.
 Therefore, in this study it was recommended that patients be maintained on their study treatments until there was PSA progression (confirmed 25% increase over the patient’s baseline/nadir) together with protocol-defined radiographic progression and symptomatic or clinical progression.
 Patients with prior ketoconazole treatment for prostate cancer were excluded from this study.
@@ -41,9 +42,27 @@ A statistically significant improvement in median overall survival was seen in p
 
 Table 2: Overall survival of patients treated with either ZYTIGA or placebo in combination with prednisone or prednisolone plus LHRH agonists or prior orchiectomy
 
-|  | ZYTIGA Placebo (N=797) (N=398) |
-| --- | --- |
-| Primary Survival Analysis Deaths (%) Median survival (months) (95% CI) p value a Hazard ratio (95% CI) b Updated Survival Analysis Deaths (%) Median survival (months) (95% CI) Hazard ratio (95% CI) b | 333 (42%) 219 (55%) 14.8 (14.1, 15.4) 10.9 (10.2, 12.0) < 0.0001 0.646 (0.543, 0.768) 501 (63%) 274 (69%) 15.8 (14.8, 17.0) 11.2 (10.4, 13.1) 0.740 (0.638, 0.859) |
+ZYTIGA Placebo
+(N=797) (N=398)
+
+Primary Survival Analysis
+
+Deaths (%) 333 (42%) 219 (55%)
+Median survival (months) 14.8 (14.1, 15.4) 10.9 (10.2, 12.0)
+
+(95% CI)
+
+p value a < 0.0001
+Hazard ratio (95% CI) b 0.646 (0.543, 0.768)
+
+Updated Survival Analysis
+
+Deaths (%) 501 (63%) 274 (69%)
+Median survival (months) 15.8 (14.8, 17.0) 11.2 (10.4, 13.1)
+
+(95% CI)
+
+Hazard ratio (95% CI) b 0.740 (0.638, 0.859)
 
 aP-value is derived from a log-rank test stratified by ECOG performance status score (0-1 vs. 2), pain score (absent vs. present), number of prior chemotherapy regimens (1 vs. 2), and type of disease progression (PSA only vs. radiographic).
 bHazard ratio is derived from a stratified proportional hazards model.

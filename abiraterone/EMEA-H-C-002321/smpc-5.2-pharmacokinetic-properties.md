@@ -5,7 +5,6 @@ Abiraterone acetate is rapidly converted in vivo to abiraterone, an androgen bio
 
 Absorption
 Following oral administration of abiraterone acetate in the fasting state, the time to reach maximum plasma abiraterone concentration is approximately 2 hours.
-
 Administration of abiraterone acetate with food, compared with administration in a fasted state, results in up to a 10-fold (AUC) and up to a 17-fold (Cmax) increase in mean systemic exposure of abiraterone, depending on the fat content of the meal.
 Given the normal variation in the content and composition of meals, taking ZYTIGA with meals has the potential to result in highly variable exposures.
 Therefore, ZYTIGA must not be taken with food.
