@@ -26,9 +26,9 @@ Sitagliptin is a potent and highly selective inhibitor of the enzyme DPP-4 and d
 In a two-day study in healthy subjects, sitagliptin alone increased active GLP-1 concentrations, whereas metformin alone increased active and total GLP-1 concentrations to similar extents.
 Co-administration of sitagliptin and metformin had an additive effect on active GLP-1 concentrations.
 Sitagliptin, but not metformin, increased active GIP concentrations.
-
 Clinical efficacy and safety
 Overall, sitagliptin improved glycaemic control when used as monotherapy or in combination treatment (see Table 2).
+
 Two studies were conducted to evaluate the efficacy and safety of Januvia monotherapy.
 Treatment with sitagliptin at 100 mg once daily as monotherapy provided significant improvements in HbA1c, fasting plasma glucose (FPG), and 2-hour post-prandial glucose (2-hour PPG), compared to placebo in two studies, one of 18- and one of 24-weeks duration.
 Improvement of surrogate markers of beta cell function, including HOMA-β (Homeostasis Model Assessment-β), proinsulin to insulin ratio, and measures of beta cell responsiveness from the frequently-sampled meal tolerance test were observed.
@@ -56,7 +56,6 @@ There was no meaningful change from baseline in body weight in either group.
 In a 24-week placebo-controlled factorial study of initial therapy, sitagliptin 50 mg twice daily in combination with metformin (500 mg or 1,000 mg twice daily) provided significant improvements in glycaemic parameters compared with either monotherapy.
 The decrease in body weight with the combination of sitagliptin and metformin was similar to that observed with metformin alone or placebo; there was no change from baseline for patients on sitagliptin alone.
 The incidence of hypoglycaemia was similar across treatment groups.
-
 Table 2.
 HbA1c results in placebo-controlled monotherapy and combination therapy studies*
 
@@ -76,10 +75,6 @@ Sitagliptin 100 mg once daily� -0.8‡
 8.0 -0.6
 
 (N= 229) (-1.0, -0.6)
-
-Placebo-corrected Mean Mean change from mean change in
-
-Study HbA1c (%) baseline baseline HbA1c (%)† HbA1c (%)† (95 % CI)
 
 Combination Therapy Studies
 
@@ -152,13 +147,13 @@ The incidence of hypoglycaemia in the sitagliptin group (4.9 %) was significantl
 
 A study comparing sitagliptin at 25 or 50 mg once daily to glipizide at 2.5 to 20 mg/day was conducted in patients with moderate to severe renal impairment.
 This study involved 423 patients with chronic renal impairment (estimated glomerular filtration rate < 50 ml/min).
-After 54 weeks, the mean reduction from baseline in HbA1c was -0.75 % with sitagliptin and -0.64 % with glipizide (Per-Protocol Analysis).
+After 54 weeks, the mean reduction from baseline in HbA1c was -0.76 % with sitagliptin and -0.64 % with glipizide (Per-Protocol Analysis).
 In this study, the efficacy and safety profile of sitagliptin at 25 or 50 mg once daily was generally similar to that observed in other monotherapy studies in patients with normal renal function.
 The incidence of hypoglycaemia in the sitagliptin group (6.2 %) was significantly lower than that in the glipizide group (17.0 %).
 There was also a significant difference between groups with respect to change from baseline body weight (sitagliptin -0.6 kg; glipizide +1.2 kg).
 
 Another study comparing sitagliptin at 25 mg once daily to glipizide at 2.5 to 20 mg/day was conducted in 129 patients with ESRD who were on dialysis.
-After 54 weeks, the mean reduction from baseline in HbA1c was -0.72 % with sitagliptin and -0.88 % with glipizide.
+After 54 weeks, the mean reduction from baseline in HbA1c was -0.72 % with sitagliptin and -0.87 % with glipizide.
 In this study, the efficacy and safety profile of sitagliptin at 25 mg once daily was generally similar to that observed in other monotherapy studies in patients with normal renal function.
 The incidence of hypoglycaemia was not significantly different between the treatment groups (sitagliptin, 6.3 %; glipizide, 10.8 %).
 

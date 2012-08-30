@@ -18,20 +18,20 @@ The frequency of adverse reactions identified from placebo-controlled clinical s
 | Time-point | 24-week | 24-week | 24-week | 24-week | 24-week | 18-week | 24-week |
 | Infections and infestations |  |  |  |  |  |  |  |
 | influenza |  |  |  |  |  |  | Common |
-| upper respiratory tract infection | Common† |  |  |  |  | Common§ |  |
-| nasopharyngitis | Common† |  |  |  |  |  |  |
+| upper respiratory tract infection | Common* |  |  |  |  | Common§ |  |
+| nasopharyngitis | Common* |  |  |  |  |  |  |
 | fungal skin infection |  |  |  |  |  | Uncommon§ |  |
 | Immune system disorders |  |  |  |  |  |  |  |
-| hypersensitivity reactions including anaphylactic responses ‡,� | Frequency not known |  |  |  |  |  |  |
+| hypersensitivity reactions including anaphylactic responses †,‡ | Frequency not known |  |  |  |  |  |  |
 | Metabolism and nutrition disorders |  |  |  |  |  |  |  |
-| hypoglycaemia� | Common | Common | Common | Very common | Common | Common | Common |
+| hypoglycaemia‡ | Common | Common | Common | Very common | Common | Common | Common |
 | Nervous system disorders |  |  |  |  |  |  |  |
 | headache | Common |  |  |  |  | Common | Common |
 | somnolence |  | Uncommon |  |  |  |  |  |
 | dizziness | Uncommon |  |  |  |  |  |  |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |  |  |
 | cough |  |  |  |  |  | Common§ |  |
-| interstitial lung disease� | Frequency not known |  |  |  |  |  |  |
+| interstitial lung † disease | Frequency not known |  |  |  |  |  |  |
 | Gastrointestinal disorders |  |  |  |  |  |  |  |
 | diarrhoea |  | Uncommon |  |  |  | Common |  |
 | dry mouth |  |  |  |  |  |  | Uncommon |
@@ -39,34 +39,35 @@ The frequency of adverse reactions identified from placebo-controlled clinical s
 | flatulence |  | Common |  |  | Common |  |  |
 | constipation | Uncommon | Uncommon |  | Common |  |  | Uncommon |
 | upper abdominal pain |  | Uncommon |  |  |  |  |  |
-| vomiting | Frequency not known‡ | Common | Frequency not known‡ | Frequency not known ‡ | Frequency not known ‡ | Common | Frequency not known‡ |
-| acute pancreatitis‡,� | Frequency not known |  |  |  |  |  |  |
+| vomiting | Frequency not known† | Common | Frequency not known† | Frequency not known † | Frequency not known † | Common | Frequency not known† |
+| acute pancreatitis†,‡ | Frequency not known |  |  |  |  |  |  |
 |  | Sitagliptin Monotherapy | Sitagliptin with Metformin | Sitagliptin with a Sulphonylurea | Sitagliptin with a Sulphonylurea and Metformin | Sitagliptin with a PPARγ Agonist (pioglitazone) | Sitagliptin with a PPARγ Agonist and Metformin | Sitagliptin with Insulin (+/-) Metformin) |
 | Time-point | 24-week | 24-week | 24-week | 24-week | 24-week | 18-week | 24-week |
-| fatal and non-fatal haemorrhagic and necrotizing pancreatitis‡,� | Frequency not known |  |  |  |  |  |  |
+| fatal and non-fatal haemorrhagic and necrotizing pancreatitis†,‡ | Frequency not known |  |  |  |  |  |  |
 | Skin and subcutaneous tissue disorders |  |  |  |  |  |  |  |
-| angioedema‡,� | Frequency not known |  |  |  |  |  |  |
-| rash‡,� | Frequency not known |  |  |  |  |  |  |
-| urticaria‡,� | Frequency not known |  |  |  |  |  |  |
-| cutaneous vasculitis‡,� | Frequency not known |  |  |  |  |  |  |
-| exfoliative skin conditions including Stevens-Johnson syndrome‡,� | Frequency not known |  |  |  |  |  |  |
+| angioedema†,‡ | Frequency not known |  |  |  |  |  |  |
+| rash†,‡ | Frequency not known |  |  |  |  |  |  |
+| urticaria†,‡ | Frequency not known |  |  |  |  |  |  |
+| cutaneous vasculitis†,‡ | Frequency not known |  |  |  |  |  |  |
+| exfoliative skin conditions including Stevens-Johnson syndrome†,‡ | Frequency not known |  |  |  |  |  |  |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |  |  |  |
-| osteoarthritis | Common† |  |  |  |  |  |  |
-| pain in extremity | Common† |  |  |  |  |  |  |
-| arthralgia‡ | Frequency not known |  |  |  |  |  |  |
-| myalgia‡ | Frequency not known |  |  |  |  |  |  |
+| osteoarthritis | Common* |  |  |  |  |  |  |
+| pain in extremity | Common* | Frequency not known‡ | Frequency not known‡ | Frequency not known‡ | Frequency not known‡ | Frequency not known‡ | Frequency not known‡ |
+| arthralgia† | Frequency not known |  |  |  |  |  |  |
+| myalgia† | Frequency not known |  |  |  |  |  |  |
+| back pain‡ | Frequency not known |  |  |  |  |  |  |
 | Renal and urinary disorders |  |  |  |  |  |  |  |
-| impaired renal function‡ | Frequency not known |  |  |  |  |  |  |
-| acute renal failure‡ | Frequency not known |  |  |  |  |  |  |
+| impaired renal function† | Frequency not known |  |  |  |  |  |  |
+| acute renal failure† | Frequency not known |  |  |  |  |  |  |
 | General disorders and administration site conditions |  |  |  |  |  |  |  |
 | peripheral oedema |  |  |  |  | Common | Common§ |  |
 | Investigations |  |  |  |  |  |  |  |
 | blood glucose decreased |  | Uncommon |  |  | Common |  |  |
 
-† Based on incidence regardless of causal relationship.
-‡Adverse reactions were identified through postmarketing surveillance.
+* Based on incidence regardless of causal relationship.
+†Adverse reactions were identified through postmarketing surveillance.
 §54-week time point.
-� See section 4.4.
+‡ See section 4.4.
 
 Across clinical studies, a small increase in white blood cell count (WBC) (approximately 200 cells/microl difference in WBC vs. placebo; mean baseline WBC approximately
 6,600 cells/microl) was observed due to an increase in neutrophils.

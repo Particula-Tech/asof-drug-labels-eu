@@ -7,10 +7,10 @@ Since co-administration of a high-fat meal with Januvia had no effect on the pha
 
 Plasma AUC of sitagliptin increased in a dose-proportional manner.
 Dose-proportionality was not established for Cmax and C24hr (Cmax increased in a greater than dose-proportional manner and C24hr increased in a less than dose-proportional manner).
-
 Distribution
 The mean volume of distribution at steady state following a single 100-mg intravenous dose of sitagliptin to healthy subjects is approximately 198 liters.
 The fraction of sitagliptin reversibly bound to plasma proteins is low (38 %).
+
 Biotransformation
 Sitagliptin is primarily eliminated unchanged in urine, and metabolism is a minor pathway.
 Approximately 79 % of sitagliptin is excreted unchanged in the urine.
@@ -48,11 +48,11 @@ Patients with mild renal impairment did not have a clinically meaningful increas
 An approximately 2-fold increase in the plasma AUC of sitagliptin was observed in patients with moderate renal impairment, and an approximately 4-fold increase was observed in patients with severe renal impairment and in patients with ESRD on haemodialysis, as compared to normal healthy control subjects.
 Sitagliptin was modestly removed by haemodialysis (13.5 % over a 3- to 4-hour haemodialysis session starting 4 hours postdose).
 To achieve plasma concentrations of sitagliptin similar to those in patients with normal renal function, lower dosages are recommended in patients with moderate and severe renal impairment, as well as in ESRD patients requiring dialysis (see section 4.2).
-
 Hepatic impairment
 No dose adjustment for Januvia is necessary for patients with mild or moderate hepatic impairment (Child-Pugh score ≤ 9).
 There is no clinical experience in patients with severe hepatic impairment (Child-Pugh score > 9).
 However, because sitagliptin is primarily renally eliminated, severe hepatic impairment is not expected to affect the pharmacokinetics of sitagliptin.
+
 Elderly
 No dose adjustment is required based on age.
 Age did not have a clinically meaningful impact on the pharmacokinetics of sitagliptin based on a population pharmacokinetic analysis of Phase I and Phase II data.
