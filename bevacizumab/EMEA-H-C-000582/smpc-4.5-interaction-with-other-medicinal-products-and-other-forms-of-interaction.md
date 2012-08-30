@@ -17,7 +17,6 @@ Due to high inter-patient variability and limited sampling, the results from tha
 
 Combination of bevacizumab and sunitinib malate
 In two clinical trials of metastatic renal cell carcinoma, microangiopathic haemolytic anaemia (MAHA) was reported in 7 of 19 patients treated with bevacizumab (10 mg/kg every two weeks) and sunitinib malate (50 mg daily) combination.
-
 MAHA is a haemolytic disorder which can present with red cell fragmentation, anaemia, and thrombocytopenia.
 In addition, hypertension (including hypertensive crisis), elevated creatinine, and neurological symptoms were observed in some of these patients.
 All of these findings were reversible upon discontinuation of bevacizumab and sunitinib malate (see Hypertension, Proteinuria, RPLS in section 4.4).
@@ -27,6 +26,7 @@ Increased rates of severe neutropenia, febrile neutropenia, or infection with or
 
 Radiotherapy
 The safety and efficacy of concomitant administration of radiotherapy and Avastin has not been established.
+
 EGFR monoclonal antibodies in combination with bevacizumab chemotherapy regimens
 No interaction studies have been performed.
 EGFR monoclonal antibodies should not be administered for the treatment of mCRC in combination with bevacizumab-containing chemotherapy.

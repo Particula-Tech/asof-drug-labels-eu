@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: monoclonal antibody, ATC code: L01X C07
+
 Mechanism of action
 Bevacizumab binds to vascular endothelial growth factor (VEGF), the key driver of vasculogenesis and angiogenesis, and thereby inhibits the binding of VEGF to its receptors, Flt-1 (VEGFR-1) and KDR (VEGFR-2), on the surface of endothelial cells.
 Neutralising the biological activity of VEGF regresses the vascularisation of tumours, normalises remaining tumour vasculature, and inhibits the formation of new tumour vasculature, thereby inhibiting tumour growth.
@@ -79,6 +80,7 @@ Patients were treated until disease progression.
 The primary endpoints of the trial were objective response rate and progression-free survival.
 The addition of Avastin 5 mg/kg every two weeks to 5-FU/FA resulted in higher objective response rates, longer progression-free survival, and a trend in longer survival, compared with 5-FU/FA chemotherapy alone (see Table 4).
 These efficacy data are consistent with the results from trial AVF2107g.
+
 The efficacy data from trials AVF0780g and AVF2192g investigating Avastin in combination with 5-FU/FA-chemotherapy are summarised in Table 4.
 
 Table 4 Efficacy results for trials AVF0780g and AVF2192g
@@ -288,7 +290,6 @@ Trial BO17704 has demonstrated that both 7.5 mg/kg/q3wk and 15 mg/kg/q3wk bevaci
 
 E4599
 E4599 was an open-label, randomised, active-controlled, multicentre clinical trial evaluating Avastin as first-line treatment of patients with locally advanced (stage IIIb with malignant pleural effusion), metastatic or recurrent NSCLC other than predominantly squamous cell histology.
-
 Patients were randomized to platinum-based chemotherapy (paclitaxel 200 mg/m2 and carboplatin AUC = 6.0, both by IV infusion) (PC) on day 1 of every 3-week cycle for up to 6 cycles or PC in combination with Avastin at a dose of 15 mg/kg IV infusion day 1 of every 3-week cycle.
 After completion of six cycles of carboplatin-paclitaxel chemotherapy or upon premature discontinuation of chemotherapy, patients on the Avastin + carboplatin–paclitaxel arm continued to receive Avastin as a single agent every 3 weeks until disease progression.
 878 patients were randomised to the two arms.
@@ -417,7 +418,6 @@ Overall approximately 34% of patients were FIGO Stage III optimally debulked wit
 
 The primary endpoint was PFS based on investigator’s assessment of disease progression based on radiological scans or CA 125 levels, or symptomatic deterioration per protocol.
 In addition, a prespecified analysis of the data censoring for CA-125 progression events was conducted, as well as an independent review of PFS as determined by radiological scans.
-
 The trial met its primary objective of PFS improvement.
 Compared to patients treated with chemotherapy (carboplatin and paclitaxel) alone in the front-line setting, patients who received bevacizumab at a dose of 15 mg/kg q3w in combination with chemotherapy and continued to receive bevacizumab alone (CPB15+), had a clinically meaningful and statistically significant improvement in PFS.
 
@@ -468,6 +468,7 @@ The results of these prespecified analyses are as follows:
 
 PFS subgroup analyses by disease stage and debulking status are summarized in Table 14.
 These results demonstrate robustness of the analysis of PFS as shown in Table 13.
+
 Table 14 PFS1 Results by Disease Stage and Debulking Status from Study GOG-0218
 
 Randomized patients stage III optimally debulked disease 2,3
@@ -513,8 +514,8 @@ The majority of patients had EOC (87.7%) followed by PPC (6.9%) and FTC (3.7%) o
 Most patients were FIGO Stage III (both 68%) followed by FIGO Stage IV (13% and 14%), FIGO Stage II (10% and 11%) and FIGO Stage I (9% and 7%).
 The majority of the patients in each treatment arm (74% and 71%) had poorly differentiated (Grade 3) primary tumors at baseline.
 The incidence of each histologic sub-type of EOC was similar between the treatment arms; 69% of patients in each treatment arm had serous adenocarcinoma histologic type.
-
 The primary endpoint was PFS as assessed by the investigator using RECIST criteria.
+
 The trial met its primary objective of PFS improvement.
 Compared to patients treated with chemotherapy (carboplatin and paclitaxel) alone in the front-line setting, patients who received bevacizumab at a dose of 7.5 mg/kg q3w in combination with chemotherapy and continued to receive bevacizumab for up to 18 cycles had a statistically significant improvement in PFS
 
@@ -528,8 +529,8 @@ CP CPB7.5+
 (n = 764) (n =764)
 Median PFS (months) 2 16.9 19.3
 Hazard ratio [95% CI] 2 0.86 [0.75; 0.98]
-
 (p-value = 0.0185)
+
 Objective Response Rate 1
 
 CP CPB7.5+

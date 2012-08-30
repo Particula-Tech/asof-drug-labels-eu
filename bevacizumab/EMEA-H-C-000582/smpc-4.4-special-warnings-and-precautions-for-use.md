@@ -59,7 +59,6 @@ Avastin should be discontinued permanently in patients who experience Grade 3 or
 Patients with untreated CNS metastases were routinely excluded from clinical trials with Avastin, based on imaging procedures or signs and symptoms.
 Therefore, the risk of CNS haemorrhage in such patients has not been prospectively evaluated in randomised clinical trials (see section 4.8).
 Patients should be monitored for signs and symptoms of CNS bleeding, and Avastin treatment discontinued in cases of intracranial bleeding.
-
 There is no information on the safety profile of Avastin in patients with congenital bleeding diathesis, acquired coagulopathy or in patients receiving full dose of anticoagulants for the treatment of thromboembolism prior to starting Avastin treatment, as such patients were excluded from clinical trials.
 Therefore, caution should be exercised before initiating therapy in these patients.
 However, patients who developed venous thrombosis while receiving therapy did not appear to have an increased rate of grade 3 or above bleeding when treated with a full dose of warfarin and Avastin concomitantly.
@@ -95,11 +94,17 @@ Caution should be exercised when Avastin and i.v. bisphosphonates are administer
 Invasive dental procedures are also an identified risk factor.
 A dental examination and appropriate preventive dentistry should be considered prior to starting the treatment with Avastin.
 In patients who have previously received or are receiving i.v. bisphosphonates invasive dental procedures should be avoided, if possible.
+Intravitreal use
+Avastin is not formulated for intravitreal use.
 
 Eye disorders
-Adverse reactions have been reported from unapproved intravitreal use.
-These reactions included infectious endophthalmitis, intraocular inflammation such as sterile endophthalmitis, uveitis and vitritis, retinal detachment, retinal pigment epithelial tear, intraocular pressure increased, intraocular haemorrhage such as vitreous haemorrhage or retinal haemorrhage and conjunctival haemorrhage.
-Some of these appeared as serious adverse reactions.
+Individual cases and clusters of serious ocular adverse events have been reported following unapproved intravitreal use of Avastin compounded from vials approved for intravenous administration in cancer patients.
+These events included infectious endophthalmitis, intraocular inflammation such as sterile endophthalmitis, uveitis and vitritis, retinal detachment, retinal pigment epithelial tear, intraocular pressure increased, intraocular haemorrhage such as vitreous haemorrhage or retinal haemorrhage and conjunctival haemorrhage.
+Some of these events have resulted in various degrees of visual loss, including permanent blindness.
+
+Systemic effects following intravitreal use
+A reduction of circulating VEGF concentration has been demonstrated following intravitreal anti-VEGF therapy.
+Systemic adverse events including non-ocular haemorrhages and arterial thromboembolic events have been reported following intravitreal injection of VEGF inhibitors, and there is a theoretical risk that these may relate to VEGF inhibition.
 
 Ovarian failure/fertility
 Avastin may impair female fertility (see sections 4.6 and 4.8).

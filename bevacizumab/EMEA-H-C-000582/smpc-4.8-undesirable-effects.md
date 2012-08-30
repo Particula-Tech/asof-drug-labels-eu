@@ -9,6 +9,7 @@ The most serious adverse reactions were:
 - Arterial thromboembolism (see section 4.4).
 
 The most frequently observed adverse reactions across clinical trials in patients receiving Avastin were hypertension, fatigue or asthenia, diarrhoea and abdominal pain.
+
 Analyses of the clinical safety data suggest that the occurrence of hypertension and proteinuria with Avastin therapy are likely to be dose-dependent.
 
 Table 1 lists adverse reactions associated with the use of Avastin in combination with different chemotherapy regimens in multiple indications.
@@ -29,10 +30,10 @@ Table 1 Very common and common adverse reactions
 | Metabolism and nutrition disorders |  | Dehydration | Anorexia |
 | Nervous system disorders | Peripheral sensory neuropathy | Cerebrovascular accident Syncope Somnolence Headache | Dysgeusia Headache Dysarthria |
 | Eye disorders |  |  | Eye disorder Lacrimation increased |
+|  | Very common | Common | Very common |
 | Cardiac disorders |  | Cardiac failure congestive Supraventricular tachycardia |  |
 | Vascular disorders | Hypertension | Thromboembolism (arterial)* Deep vein thrombosis Haemorrhage | Hypertension |
 | Respiratory, thoracic and mediastinal disorders |  | Pulmonary embolism Dyspnoea Hypoxia Epistaxis | Dyspnoea Epistaxis Rhinitis |
-|  | Very common | Common | Very common |
 | Gastrointestinal disorders | Diarrhoea Nausea Vomiting | Intestinal Perforation Ileus Intestinal obstruction Abdominal pain Gastrointestinal disorder Stomatitis | Constipation Stomatitis Rectal haemorrhage Diarrhoea |
 | Endocrine disorders |  |  | Ovarian failure** |
 | Skin and subcutaneous tissue disorders |  | Palmar-plantar erythrodysaesthesia syndrome | Exfoliative dermatitis Dry skin Skin discolouration |
@@ -51,7 +52,6 @@ Avastin has been associated with serious cases of gastrointestinal perforation.
 
 Gastrointestinal perforations have been reported in clinical trials with an incidence of less than 1% in patients with metastatic breast cancer or non-squamous non-small cell lung cancer, and up to 2.0% in metastatic colorectal cancer patients or in patients with ovarian cancer receiving front-line treatment.
 Fatal outcome was reported in approximately a third of serious cases of gastrointestinal perforations, which represents between 0.2%-1% of all Avastin treated patients.
-
 The presentation of these events varied in type and severity, ranging from free air seen on the plain abdominal X-ray, which resolved without treatment, to intestinal perforation with abdominal abscess and fatal outcome.
 In some cases underlying intra-abdominal inflammation was present, either from gastric ulcer disease, tumour necrosis, diverticulitis, or chemotherapy-associated colitis.
 
@@ -61,6 +61,7 @@ Avastin use has been associated with serious cases of fistulae including events 
 In clinical trials, gastrointestinal fistulae have been reported with an incidence of up to 2% in patients with metastatic colorectal cancer, but were also reported less commonly in patients with other types of cancers.
 Uncommon (â‰¥ 0.1% to < 1%) reports of other types of fistulae that involve areas of the body other than the gastrointestinal tract (e.g. bronchopleural, urogenital and biliary fistulae) were observed across various indications.
 Fistulae have also been reported in post-marketing experience.
+
 Events were reported at various time points during treatment ranging from one week to greater than 1 year from initiation of Avastin, with most events occurring within the first 6 months of therapy.
 
 Wound healing (see section 4.4)
@@ -88,7 +89,6 @@ The risk of Avastin-associated hypertension did not correlate with the patientsâ
 
 Proteinuria (see section 4.4)
 In clinical trials, proteinuria has been reported within the range of 0.7% to 38% of patients receiving Avastin.
-
 Proteinuria ranged in severity from clinically asymptomatic, transient, trace proteinuria to nephrotic syndrome, with the great majority as Grade 1 proteinuria.
 Grade 3 proteinuria was reported in < 3% of treated patients: however, in patients treated for advanced and/or metastatic renal cell carcinoma this was up to 7% in patients having minimal to no proteinuria at baseline.
 Grade 4 proteinuria (nephrotic syndrome) was seen in up to 1.4% of treated patients.
@@ -100,6 +100,7 @@ Haemorrhage (see section 4.4)
 In clinical trials across all indications the overall incidence of NCI-CTC Grade 3-5 bleeding events ranged from 0.4% to 5% in Avastin treated patients, compared with up to 2.9% of patients in the chemotherapy control group.
 
 The haemorrhagic events that have been observed in clinical trials were predominantly tumour-associated haemorrhage (see below) and minor mucocutaneous haemorrhage (e.g. epistaxis).
+
 Tumour-associated haemorrhage (see section 4.4)
 Major or massive pulmonary haemorrhage/haemoptysis has been observed primarily in trials in patients with non-small cell lung cancer (NSCLC).
 Possible risk factors include squamous cell histology, treatment with antirheumatic/anti-inflammatory substances, treatment with anticoagulants, prior radiotherapy, Avastin therapy, previous medical history of atherosclerosis, central tumour location and cavitation of tumours prior to or during therapy.
@@ -121,7 +122,6 @@ In two subsequent studies in patients with treated brain metastases (which inclu
 Across all clinical trials, mucocutaneous haemorrhage has been seen in up to 50% of Avastin-treated patients.
 These were most commonly NCI-CTC Grade 1 epistaxis that lasted less than 5 minutes, resolved without medical intervention and did not require any changes in the Avastin treatment regimen.
 Clinical safety data suggest that the incidence of minor mucocutaneous haemorrhage (e.g. epistaxis) may be dose-dependent.
-
 There have also been less common events of minor mucocutaneous haemorrhage in other locations, such as gingival bleeding or vaginal bleeding.
 
 Thromboembolism (see section 4.4)
@@ -132,6 +132,7 @@ In clinical trials, the overall incidence of arterial thromboembolic events rang
 Fatal outcome was reported in 0.8% of patients receiving Avastin compared to 0.5% in patients receiving chemotherapy alone.
 Cerebrovascular accidents (including transient ischemic attacks) were reported in up to 2.3% of patients treated with Avastin in combination with chemotherapy compared to 0.5% of patients treated with chemotherapy alone.
 Myocardial infarction was reported in 1.4% of patients treated with Avastin in combination with chemotherapy compared to 0.7% of patients treated with chemotherapy alone.
+
 In one clinical trial evaluating Avastin in combination with 5-fluorouracil/folinic acid, AVF2192g, patients with metastatic colorectal cancer who were not candidates for treatment with irinotecan were included.
 In this trial arterial thromboembolic events were observed in 11% (11/100) of patients compared to 5.8% (6/104) in the chemotherapy control group.
 
@@ -153,7 +154,6 @@ In addition, in study AVF3694g the incidences of all grade CHF were similar betw
 Most patients who developed CHF during mBC trials showed improved symptoms and/or left ventricular function following appropriate medical therapy.
 
 In most clinical trials of Avastin, patients with pre-existing CHF of NYHA (New York Heart Association) II-IV were excluded, therefore, no information is available on the risk of CHF in this population.
-
 Prior anthracyclines exposure and/or prior radiation to the chest wall may be possible risk factors for the development of CHF.
 
 An increased incidence of CHF has been observed in a clinical trial of patients with diffuse large B-cell lymphoma when receiving bevacizumab with a cumulative doxorubicin dose greater than 300 mg/m2.
