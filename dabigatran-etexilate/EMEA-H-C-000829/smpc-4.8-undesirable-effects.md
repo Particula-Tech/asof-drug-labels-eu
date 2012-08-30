@@ -2,8 +2,8 @@
 
 A total of 10.084 patients were treated in 4 actively controlled VTE prevention trials with at least one dose of the medicinal product.
 Of these 5419 were treated with 150 mg or 220 mg daily of Pradaxa, while 389 received doses less than 150 mg daily and 1168 received doses in excess of 220 mg daily.
-
 The most commonly reported adverse reactions are bleedings occurring in total in approximately 14 % of patients; the frequency of major bleeds (including wound site bleedings) is less than 2 %.
+
 Although rare in frequency in clinical trials, major or severe bleeding may occur and, regardless of location, may lead to disabling, life-threatening or even fatal outcomes.
 
 Adverse reactions
@@ -104,8 +104,8 @@ In the pivotal study investigating the prevention of stroke and SEE in patients 
 Of these 6,059 were treated with 150 mg twice daily of dabigatran etexilate, while 5,983 received doses of 110 mg twice daily.
 
 In total, about 9 % of patients treated for elective hip or knee surgery (short-term treatment for up to 42 days) and 22 % of patient with atrial fibrillation treated for the prevention of stroke and SEE (long-term treatment for up to 3 years) experienced adverse reactions.
-
 The most commonly reported adverse reactions are bleedings occurring in total in approximately 14 % of patients treated short-term for elective hip or knee replacement surgery, and 16,5 % in patients with atrial fibrillation treated for the prevention of stroke and SEE.
+
 Since the patient populations treated in the 2 indications are not comparable and bleeding events are distributed over several System Organ Classes (SOC), a summary description of major and any bleeding are broken down by indication and given in tables 5 and 6 below.
 
 Although low in frequency in clinical trials, major or severe bleeding may occur and, regardless of location, may lead to disabling, life-threatening or even fatal outcomes.
@@ -223,6 +223,7 @@ In the RE-LY study, in comparison to warfarin the annual myocardial infarction r
 [Pradaxa 150 mg hard capsules]
 
 In the pivotal study investigating the prevention of stroke and SEE in patients with atrial fibrillation, a total of 12,091 patients were randomized.
+
 In total, 22 % of patient with atrial fibrillation treated for the prevention of stroke and SEE (long-term treatment for up to 3 years) experienced adverse reactions.
 
 The most commonly reported adverse reactions are bleedings occurring in total in approximately 16,5 % in patients with atrial fibrillation treated for the prevention of stroke and SEE.

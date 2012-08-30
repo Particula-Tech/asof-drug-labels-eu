@@ -81,7 +81,7 @@ No clinically relevant inter-ethnic differences among Caucasian, African-America
 Pharmacokinetic interactions
 
 The pro-drug dabigatran etexilate but not dabigatran is a substrate of the efflux transporter P-gp.
-Therefore co-medications with P-gp transporter inhibitors (amiodarone, verapamil, clarithromycin, quinidine and ketoconazole) and inducers (rifampicin) had been investigated (see sections 4.2, 4.4 and 4.5).
+Therefore co-medications with P-gp transporter inhibitors (amiodarone, verapamil, clarithromycin, quinidine, dronedarone and ketoconazole) and inducers (rifampicin) had been investigated (see sections 4.2, 4.4 and 4.5).
 
 In vitro interaction studies did not show any inhibition or induction of the principal isoenzymes of cytochrome P450.
 This has been confirmed by in vivo studies with healthy volunteers, who did not show any interaction between this treatment and the following active substances: atorvastatin (CYP3A4), digoxin (P-gp transporter interaction) and diclofenac (CYP2C9).

@@ -131,12 +131,9 @@ Data for the major VTE and VTE-related mortality endpoint were homogeneous with 
 Data for the total VTE and all cause mortality endpoint are shown in table 8.
 
 Data for adjudicated major bleeding endpoints are shown in table 9 below.
-
 Table 7: Analysis of major VTE and VTE-related mortality during the treatment period in the RE-MODEL and the RE-NOVATE orthopaedic surgery studies.
 
-Trial Dabigatran etexilate Dabigatran etexilate Enoxaparin
-
-|  | 220 mg once daily | 150 mg once daily | 40 mg |
+| Trial | Dabigatran etexilate 220 mg once daily | Dabigatran etexilate 150 mg once daily | Enoxaparin 40 mg |
 | --- | --- | --- | --- |
 | RE-NOVATE (hip) |  |  |  |
 | N | 909 | 888 | 917 |
@@ -178,11 +175,11 @@ Table 9: Major bleeding events by treatment in the individual RE-MODEL and the R
 The clinical evidence for the efficacy of dabigatran etexilate is derived from the RE-LY study (Randomized Evaluation of Long–term anticoagulant therapy) a multi-centre, multi-national, randomized parallel group study of two blinded doses of dabigatran etexilate (110 mg and 150 mg twice daily) compared to open-label warfarin in patients with atrial fibrillation at moderate to high risk of stroke and SEE.
 The primary objective in this study was to determine if dabigatran etexilate was non-inferior to warfarin in reducing the occurrence of the composite endpoint stroke and SEE.
 Statistical superiority was also analyzed.
-
 In the RE-LY study, a total of 18,113 patients were randomized, with a mean age of 71.5 years and a mean CHADS2 score of 2.1.
 The patient population was 64 % male, 70 % Caucasian and 16 % Asian.
 For patients randomized to warfarin, the mean percentage of time in therapeutic range (TTR)
 (INR 2-3) was 64.4 % (median TTR 67 %).
+
 The RE-LY study demonstrated that dabigatran etexilate, at a dose of 110 mg twice daily, is non-inferior to warfarin in the prevention of stroke and SEE in subjects with atrial fibrillation, with a reduced risk of ICH, total bleeding and major bleeding.
 The dose of 150 mg twice daily reduces significantly the risk of ischemic and haemorrhagic stroke, vascular death, ICH and total bleeding compared to warfarin.
 Major bleeding rates with this dose were comparable to warfarin.
@@ -295,28 +292,6 @@ Table 6: Analysis of first occurrence of stroke or SEE (primary endpoint) during
 
 Table 7: Analysis of first occurrence of ischemic or haemorrhagic strokes during the study period in RE-LY.
 
-|  | Dabigatran etexilate 110 mg twice daily | Dabigatran etexilate 150 mg twice daily | Warfarin |
-| --- | --- | --- | --- |
-| Subjects randomized | 6,015 | 6,076 | 6,022 |
-| Stroke |  |  |  |
-| Incidences (%) | 171 (1.44) | 122 (1.01) | 186 (1.58) |
-| Hazard ratio vs. warfarin (95 % CI) | 0.91 (0.74, 1.12) | 0.64 (0.51, 0.81) |  |
-| p-value | 0.3828 | 0.0001 |  |
-| SEE |  |  |  |
-| Incidences (%) | 15 (0.13) | 13 (0.11) | 21 (0.18) |
-| Hazard ratio vs. warfarin (95 % CI) | 0.71 (0.37, 1.38) | 0.61 (0.30, 1.21) |  |
-| p-value | 0.3099 | 0.1582 |  |
-| Ischemic stroke |  |  |  |
-| Incidences (%) | 152 (1.28) | 103 (0.86) | 134 (1.14) |
-| Hazard ratio vs. warfarin (95 % CI) | 1.13 (0.89, 1.42) | 0.75 (0.58, 0.97) |  |
-| p-value | 0.3139 | 0.0296 |  |
-| Haemorrhagic stroke |  |  |  |
-| Incidences (%) | 14 (0.12) | 12 (0.10) | 45 (0.38) |
-
-Hazard ratio vs. 0.31 (0.17, 0.56) 0.26 (0.14, 0.49)
-warfarin (95 % CI)
-p-value < 0.001 < 0.001
-
 Table 8: Analysis of all cause and cardiovascular survival during the study period in RE-LY.
 
 Tables 9-10 display results of the primary efficacy and safety endpoint in relevant sub-populations:
@@ -326,3 +301,19 @@ Table 9: Hazard Ratio and 95 % CI for stroke/SEE by subgroups
 The concomitant use of antiplatelets ASA or clopidogrel approximately doubles MBE rates with both dabigatran and warfarin.
 
 Table 10: Hazard Ratio and 95 % CI for major bleeds by subgroups
+
+Endpoint Dabigatran etexilate Dabigatran etexilate
+
+|  | 110 mg twice daily vs. warfarin | 150 mg twice daily vs. warfarin |
+| --- | --- | --- |
+| Age (years) |  |  |
+| < 65 | 0.33 (0.19, 0.59) | 0.36 (0.21, 0.62) |
+| 65 ≤ and < 75 | 0.70 (0.56, 0.89) | 0.80 (0.64, 1.00) |
+| ≥ 75 | 1.01 (0.83, 1.23) | 1.18 (0.98, 1.43) |
+| ≥ 80 | 1.12 (0.84, 1.49) | 1.35 (1.03, 1.77) |
+| CrCL(ml/min) |  |  |
+| 30 ≤ and < 50 | 1.00 (0.77, 1.29) | 0.94 (0.72, 1.21) |
+| 50 ≤ and < 80 | 0.76 (0.61, 0.93) | 0.89 (0.73, 1.08) |
+| ≥ 80 | 0.59 (0.43, 0.82) | 0.84 (0.62, 1.13) |
+| ASA use | 0.85 (0.68, 1.05) | 0.92 (0.75, 1.14) |
+| Clopidogrel use | 0.88 (0.56, 1.37) | 0.95 (0.62, 1.46) |

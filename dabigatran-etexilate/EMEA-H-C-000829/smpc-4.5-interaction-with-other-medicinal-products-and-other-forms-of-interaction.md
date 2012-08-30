@@ -32,17 +32,22 @@ Transporter interactions
 P-gp inhibitors
 
 Dabigatran etexilate is a substrate for the efflux transporter P-gp.
-Concomitant administration of strong P-gp inhibitors (such as amiodarone, verapamil, quinidine, ketoconazole and clarithromycin) is expected to result in increased dabigatran plasma concentrations.
+Concomitant administration of strong P-gp inhibitors (such as amiodarone, verapamil, quinidine, ketoconazole, dronedarone and clarithromycin) is expected to result in increased dabigatran plasma concentrations.
 
 If not otherwise specifically described, close clinical surveillance (looking for signs of bleeding or anaemia) is required when dabigatran is co-administered with strong P-gp inhibitors.
 A coagulation test helps to identify patients with an increased bleeding risk due to increased dabigatran exposure (see sections 4.2, 4.4 and 5.1).
 
-Systemic ketoconazole, cyclosporine, itraconazole and tacrolimus are contraindicated (see section 4.3).
+Systemic ketoconazole, cyclosporine, itraconazole, tacrolimus and dronedarone are contraindicated (see section 4.3).
 Caution should be exercised with other strong P-gp inhibitors (e.g. amiodarone, quinidine or verapamil) (see sections 4.2 and 4.4).
 
 Ketoconazole: Ketoconazole increased total dabigatran AUC0-∞ and Cmax values by 138 % and 135 %, respectively, after a single oral dose of 400 mg, and 153 % and 149 %, respectively, after multiple oral dosing of 400 mg ketoconazole once daily.
 The time to peak, terminal half-life and mean residence time were not affected by ketoconazole (see section 4.4).
 Concomitant treatment with systemic ketoconazole is contraindicated (see section 4.3).
+
+Dronedarone: When dabigatran etexilate and dronedarone were given at the same time total dabigatran AUC0-∞ and Cmax values increased by about 2.4-fold and 2.3-fold (+136 % and 125 %), respectively, after multiple dosing of 400 mg dronedarone bid, and about 2.1-fold and 1.9-fold (+114 % and 87 %), respectively, after a single dose of 400 mg.
+The terminal half-life and renal clearance of dabigatran were not affected by dronedarone.
+When single and multiple doses of dronedarone were given 2 h after dabigatran etexilate, the increases in dabigatran AUC0-∞ were 1.3-fold and 1.6-fold, respectively.
+Concomitant treatment with dronedarone is contraindicated.
 
 Amiodarone: When Pradaxa was co-administered with a single oral dose of 600 mg amiodarone, the extent and rate of absorption of amiodarone and its active metabolite DEA were essentially unchanged.
 The dabigatran AUC and Cmax were increased by about 60 % and 50 %, respectively.
@@ -58,7 +63,6 @@ Dabigatran AUCτ,ss and Cmax,ss were increased on average by 53 % and 56 %, resp
 
 Patients treated for prevention of VTEs after hip or knee replacement surgery, dosing should be reduced to 150 mg taken once daily as 2 capsules of 75 mg Pradaxa if they receive concomitantly dabigatran etexilate and quinidine (see section 4.2).
 Close clinical surveillance is recommended when dabigatran etexilate is combined with quinidine and particularly in the occurrence of bleeding, notably in patients having a mild to moderate renal impairment.
-
 Verapamil: When dabigatran etexilate (150 mg) was co-administered with oral verapamil, the Cmax and AUC of dabigatran were increased but magnitude of this change differs depending on timing of administration and formulation of verapamil (see sections 4.2 and 4.4).
 
 The greatest elevation of dabigatran exposure was observed with the first dose of an immediate release formulation of verapamil administered one hour prior to dabigatran etexilate intake (increase of Cmax by about 180 % and AUC by about 150 %).
@@ -80,7 +84,6 @@ The following potent P-gp inhibitors have not been clinically studied but from i
 Itraconazole, tacrolimus and cyclosporine, which are contra-indicated (see section 4.3).
 
 Neither clinical nor in vitro test results are available for posaconazole which is not recommended for concomitant treatment with Pradaxa.
-Inadequate clinical data are available regarding the co-administration of Pradaxa and dronedarone, and their co-administration is not recommended (see section 4.4).
 
 P-gp inducers
 
@@ -96,8 +99,8 @@ Protease inhibitors including ritonavir and its combinations with other protease
 They have not been studied and are therefore not recommended for concomitant treatment with Pradaxa.
 
 P-gp substrate
-
 Digoxin: In a study performed with 24 healthy subjects, when Pradaxa was co-administered with digoxin, no changes on digoxin and no clinical relevant changes on dabigatran exposure have been observed.
+
 Co-medication with selective serotonin re-uptake inhibitors (SSRIs) or selective serotonin norepinephrine re-uptake inhibitors (SNRIs)
 
 SSRIs and SNRIs increased the risk of bleeding in RE-LY in all treatment groups.
