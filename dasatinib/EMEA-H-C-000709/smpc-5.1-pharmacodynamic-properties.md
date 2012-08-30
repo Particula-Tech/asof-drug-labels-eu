@@ -27,7 +27,6 @@ The efficacy of dasatinib is based on haematological and cytogenetic response ra
 Durability of response and estimated survival rates provide additional evidence of dasatinib clinical benefit.
 
 A total of 2,440 patients were evaluated in clinical studies; of these 23% were ≥ 65 years of age and 5% were ≥ 75 years of age.
-
 Chronic Phase CML - Newly Diagnosed
 An international open-label, multicenter, randomised, comparative Phase III study was conducted in adult patients with newly diagnosed chronic phase CML.
 Patients were randomised to receive either SPRYCEL 100 mg once daily or imatinib 400 mg once daily.
@@ -42,8 +41,8 @@ At baseline, the distribution of Hasford Scores was similar in the SPRYCEL and i
 With a minimum of 12 months follow-up, 85% of patients randomised to the SPRYCEL group and 81% of patients randomised to the imatinib group were still receiving first-line treatment.
 Discontinuation within 12 months due to disease progression occurred in 3% of SPRYCEL-treated patients and 5% of imatinib-treated patients.
 
-With a minimum of 24 months follow-up, 77% of patients randomised to the SPRYCEL group and 75% of patients randomised to the imatinib group were still receiving first-line treatment.
-Discontinuation within 24 months due to disease progression occurred in 5% of SPRYCEL-treated patients and 7% of imatinib-treated patients.
+With a minimum of 36 months follow-up, 71% of patients randomised to the SPRYCEL group and 69% of patients randomised to the imatinib group were still receiving first-line treatment.
+Discontinuation within 36 months due to disease progression occurred in 7% of SPRYCEL-treated patients and 7% of imatinib-treated patients.
 
 Efficacy results are presented in Table 5.
 A statistically significantly greater proportion of patients in the SPRYCEL group achieved a cCCyR compared with patients in the imatinib group within the first 12 months of treatment.
@@ -62,11 +61,18 @@ CCyRb 85.3% (80.4-89.4) 73.5% (67.7-78.7) 
 within 24 months
 
 cCCyRa 80.3% 74.2% 
+CCyRb 87.3% 82.3% 
+
+within 36 months
+
+cCCyRa 82.6% 77.3% 
+CCyRb 88.0% 83.5% 
 
 Major Molecular Responsec
 
 12 months 52.1% (45.9–58.3) 33.8% (28.1–39.9) p< 0.00003*
 24 months 64.5% (58.3-70.3) 50% (43.8-56.2) 
+36 months 69.1% (63.1-74.7) 56.2% (49.9-62.3) 
 
 Hazard Ratio within 12 months (99.99% CI)
 
@@ -80,6 +86,12 @@ Time-to cCCyR 1.49 (1.22-1.82) 
 Time-to MMR 1.69 (1.34-2.12) 
 Durability of cCCyR 0.77 (0.55-1.10) 
 
+within 36 months (95% CI)
+
+Time-to cCCyR 1.48 (1.22-1.80) 
+Time-to MMR 1.59 (1.28-1.99) 
+Durability of cCCyR 0.77 (0.53-1.11) 
+
 a Confirmed complete cytogenetic response (cCCyR) is defined as a response noted on two consecutive occasions (at least 28 days apart).
 b Complete cytogenetic response (CCyR) is based on a single bone marrow cytogenetic evaluation.
 c Major molecular response (at any time) was defined as BCR-ABL ratios ≤ 0.1% by RQ-PCR in peripheral blood samples standardized on the International scale.
@@ -87,25 +99,38 @@ These are cumulative rates representing minimum follow-up for the timeframe spec
 *Adjusted for Hasford Score and indicated statistical significance at a pre-defined nominal level of significance.
 CI = confidence interval
 
-After 24 months of follow-up, median time to cCCyR was 3.1 months in the SPRYCEL group and 5.7 months in the imatinib group in patients with a confirmed CCyR.
-Median time to MMR after 24 months of follow-up was 8.8 months in the SPRYCEL group and 12.1 months in the imatinib group in patients with a MMR.
-These results are consistent with those seen at 12 months.
+After 36 months of follow-up, median time to cCCyR was 3.1 months in the SPRYCEL group and 5.8 months in the imatinib group in patients with a confirmed CCyR.
+Median time to MMR after 36 months of follow-up was 8.9 months in the SPRYCEL group and 13.4 months in the imatinib group in patients with a MMR.
+These results are consistent with those seen at 12 and 24 months.
+
 Figure 1: Kaplan-Meier estimate of time to major molecular response (MMR)
 
-The rates of cCCyR in the SPRYCEL and imatinib treatment groups, respectively, within 3 months (54% and 30%), 6 months (70% and 56%), 9 months (75% and 63%), and 24 months (80% and 74%) were consistent with the primary endpoint.
-The rates of MMR in the SPRYCEL and imatinib treatment groups, respectively, within 3 months (8% and 0.4%), 6 months (27% and 8%), 9 months (39% and 18%), 12 months (46% and 28%), and 24 months (64% and 46%) were also consistent with the primary endpoint.
-Of the patients achieving an MMR at 12 months, 97% in the SPRYCEL group and 92.4% in the imatinib group maintained their MMR at 24 months.
+MONTHS
 
-The proportion of patients achieving BCR-ABL ratio of ≤0.01% (4-log reduction) at any time was higher in the SPRYCEL group compared to the imatinib group (29.7% versus 19.2%).
-The proportion of patients achieving BCR-ABL ratio of ≤0.0032% (4.5-log reduction) at any time was higher in the SPRYCEL group compared to the imatinib group (18.1% versus 8.8%).
+___ Dasatinib ------ Imatinib
+Censored Censored
+GROUP # RESPONDERS / # RANDOMIZED HAZARD RATIO (95% CI)
+DASATINIB 179/259
+IMATINIB 146/260
+DASATINIB OVER IMATINIB 1.59 (1.28 - 1.99)
 
-The rate of MMR at any time in each risk group determined by Hasford score was higher in the SPRYCEL group compared with the imatinib group (low risk: 73% and 56%; intermediate risk: 61% and 50%; high risk: 57% and 38%, respectively).
+The rates of cCCyR in the SPRYCEL and imatinib treatment groups, respectively, within 3 months (54% and 30%), 6 months (70% and 56%), 9 months (75% and 63%), 24 months (80% and 74%) and 36 months (83% and 77%) were consistent with the primary endpoint.
+The rates of MMR in the SPRYCEL and imatinib treatment groups, respectively, within 3 months (8% and 0.4%), 6 months (27% and 8%), 9 months (39% and 18%), 12 months (46% and 28%), 24 months (64% and 46%) and 36 months (67% and 55%) were also consistent with the primary endpoint.
+
+The proportion of patients achieving BCR-ABL ratio of ≤0.01% (4-log reduction) at any time was higher in the SPRYCEL group compared to the imatinib group (37.1% versus 26.9%).
+The proportion of patients achieving BCR-ABL ratio of ≤0.0032% (4.5-log reduction) at any time was higher in the SPRYCEL group compared to the imatinib group (25.9% versus 14.2%).
+
+The rate of MMR at any time in each risk group determined by Hasford score was higher in the SPRYCEL group compared with the imatinib group (low risk: 81% and 64%; intermediate risk: 64% and 56%; high risk: 61% and 42%, respectively).
 
 Progression was defined as increasing white blood cells despite appropriate therapeutic management, loss of CHR, partial CyR or CCyR, progression to accelerated phase or blast phase, or death.
-The estimated 24-month PFS rate was 93.7% (CI: 90.6% - 96.8%) and 92.1% (CI: 88.6% - 95.6%) for the dasatinib and imatinib treatment groups, respectively.
-At 24 months, transformation to accelerated or blast phase occurred in less than half the number of dasatinib-treated patients (n=6; 2.3%) compared with imatinib-treated patients (n=13; 5%).
-The estimated 24-month survival rates for dasatinib and imatinib-treated patients were 95.3% (CI: 92.7% - 97.9%) and 95.2% (CI: 92.6% - 97.9%), respectively.
-The safety of dasatinib in newly diagnosed chronic phase CML patients with a minimum of 24-months follow-up was consistent with the known safety profile (see sections 4.4 and 4.8).
+The estimated 36-month PFS rate was 91.0% (CI: 87.4% - 94.7%) and 90.9% (CI: 87.1% - 94.6%) for the dasatinib and imatinib treatment groups, respectively.
+At 36 months, transformation to accelerated or blast phase occurred in fewer dasatinib-treated patients (n=8; 3.1%) compared with imatinib-treated patients (n=13; 5%).
+The estimated 36-month survival rates for dasatinib and imatinib-treated patients were 93.7% (CI: 90.6% - 96.7%) and 93.2% (CI: 90.1% - 96.4%), respectively.
+In patients who report disease progression or discontinue dasatinib or imatinib therapy, BCR-ABL sequencing was performed on blood samples from patients where these are available.
+Similar rates of mutation were observed in both the treatment arms.
+The mutations detected among the dasatinib-treated patients were T315I, F317I/L and V299L.
+A different spectrum of mutation was detected in the imatinib treatment arm.
+Dasatinib does not appear to be active against the T315I mutation, based on in vitro data.
 
 Chronic phase CML - Resistance or intolerance to prior imatinib therapy
 Two clinical studies were conducted in patients resistant or intolerant to imatinib; the primary efficacy endpoint in these studies was Major Cytogenetic Response (MCyR).
@@ -277,7 +302,13 @@ Molecular response was evaluated in a subset of assessed patients who had a CCyR
 CI = confidence interval; ULN = upper limit of normal range.
 
 Table 8: Efficacy of SPRYCEL in phase III dose-optimisation study: Chronic Phase CML (5-year results)
-100 mg once daily 50 mg twice dailya 140 mg once dailya 70 mg twice dailya Progression-Freeb
+100 mg once daily 50 mg twice dailya 140 mg once dailya 70 mg twice dailya
+
+All patients n = 167 n = 168 n = 167 n = 168
+Imatinib-resistant patients n = 124 n = 124 n = 123 n = 126
+
+Survival (% [95% CI]; Kaplan-Meier estimates)
+Progression-Freeb
 1 Year
 
 All patients 90% (86-95) 86% (81-92) 88% (82-93) 87% (82-93)
@@ -341,9 +372,16 @@ Table 9: Efficacy of SPRYCEL in phase III dose-optimisation study: Advanced Phas
 
 a Not a recommended starting dose of SPRYCEL for advanced phase CML and Ph+ ALL (see section 4.2).
 b Hematologic response criteria (all responses confirmed after 4 weeks): Major hematologic response (MaHR) = complete hematologic response (CHR) + no evidence of leukaemia (NEL).
-CHR: WBC ≤ institutional ULN, ANC ≥ 1,000/mm3, platelets ≥ 100,000/mm3, no blasts or promyelocytes in peripheral blood, bone marrow blasts ≤ 5%, < 5% myelocytes plus metamyelocytes in peripheral blood, basophils in peripheral blood < 20%, and no extramedullary involvement.
+CHR: WBC ≤ institutional ULN, ANC ≥ 1,000/mm3, platelets ≥ 100,000/mm3, no blasts or promyelocytes in peripheral blood, bone marrow blasts ≤ 5%, < 5% myelocytes plus metamyelocytes in peripheral blood, basophils in peripheral blood < 20%, Table 9: Efficacy of SPRYCEL in phase III dose-optimisation study: Advanced Phase CML and Ph+ ALL
+
+| 140 mg once daily | 70 mg twice dailya |
+| --- | --- |
+| Myeloid Lymphoid Accelerated Blast Blast Ph+ALL (n= 158) (n= 75) (n= 33) (n= 40) | Myeloid Lymphoid Accelerated Blast Blast Ph+ALL (n= 159) (n= 74) (n= 28) (n= 44) |
+
+and no extramedullary involvement.
 NEL: same criteria as for CHR but ANC ≥ 500/mm3 and < 1,000/mm3, or platelets ≥ 20,000/mm3 and ≤ 100,000/mm3. c MCyR combines both complete (0% Ph+ metaphases) and partial (> 0%-35%) responses.
 CI = confidence interval; ULN = upper limit of normal range.
+
 The median duration of MaHR in patients with accelerated phase CML was not reached for either group; the median PFS was 25 months and 26 months for the 140 mg once daily group and the 70 mg twice daily group, respectively; and the median overall survival was not reached for the 140 mg once daily group and 31 months for the 70 mg twice daily group.
 
 In patients with myeloid blast phase CML, the median duration of MaHR was 8 months and 9 months for the 140 mg once daily group and the 70 mg twice daily group, respectively; the median PFS was 4 months for both groups; and the median overall survival was 8 months for both groups.

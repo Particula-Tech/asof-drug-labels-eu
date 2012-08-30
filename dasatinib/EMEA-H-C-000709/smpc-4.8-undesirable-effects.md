@@ -3,23 +3,25 @@
 Summary of the safety profile
 
 The data described below reflect exposure to SPRYCEL in 2,440 patients in clinical studies, including 258 patients with newly diagnosed chronic phase CML and 2,182 patients with imatinib resistant or intolerant CML or Ph+ ALL.
-In the newly diagnosed study, patients had a minimum of 12 months follow-up (starting dose 100 mg once daily) and in the imatinib resistant or intolerant CML or Ph+ ALL studies, 1,520 patients had a minimum of 24 months follow-up and 662 patients with chronic phase CML had a mininum of 60 months follow-up (starting dose 100 mg once daily, 140 mg once daily, 50 mg twice daily, or 70 mg twice daily).
-In the Phase III study in patients with newly diagnosed chronic phase CML the median duration of therapy was 14 months (range 0.03-24 months) for SPRYCEL and 14 months (range 0.3-26 months) for imatinib; the median average daily dose was 99 mg and 400 mg, respectively.
+In the newly diagnosed study, patients had a minimum of 36 months follow-up (starting dose 100 mg once daily) and in the imatinib resistant or intolerant CML or Ph+ ALL studies, 1,520 patients had a minimum of 24 months follow-up and 662 patients with chronic phase CML had a mininum of 60 months follow-up (starting dose 100 mg once daily, 140 mg once daily, 50 mg twice daily, or 70 mg twice daily).
+In the Phase III study in patients with newly diagnosed chronic phase CML the median duration of therapy was 37 months (range 0.03-50 months) for SPRYCEL and 37 months (range 0.3-50 months) for imatinib; the median average daily dose was 99 mg and 400 mg, respectively.
 The median duration of therapy in 2,182 patients with CML or Ph+ ALL resistant or intolerant to imatinib was 15 months (range 0 - 65.6 months).
 In patients with resistant or intolerant chronic phase CML, the median duration of treatment for patients still on therapy (n=205) was 59 months (range 28-66 months).
 Of the 2,440 patients treated, 23% were ≥ 65 years of age, while 5% were ≥ 75 years of age.
 
 The majority of SPRYCEL-treated patients experienced adverse reactions at some time.
 Most reactions were of mild-to-moderate grade.
-In the Phase III study in patients with newly diagnosed chronic phase CML, treatment was discontinued for adverse reactions in 5% of SPRYCEL-treated patients and 4% of imatinib-treated patients.
+In the Phase III study in patients with newly diagnosed chronic phase CML, treatment was discontinued for adverse reactions in 5% of SPRYCEL-treated patients and 4% of imatinib-treated patients with a minimum of 12 months follow-up.
+After a minimum of 36 months follow-up, the cumulative discontinuation rates were 9% and 6%, respectively.
 Among patients with resistance or intolerance to prior imatinib therapy, the rates of discontinuation for adverse reactions at 2 years were 15% in chronic phase CML for all dosages, 16% in accelerated phase CML, 15% in myeloid blast phase CML, 8% in lymphoid blast phase CML and 8% in Ph+ ALL.
 In the Phase III dose-optimisation study in patients with chronic phase CML with a minimimum of 60 months follow-up, the rate of discontinuation for adverse reactions was 18% for patients treated with 100 mg once daily.
 
 The majority of imatinib-intolerant patients with chronic phase CML were able to tolerate treatment with SPRYCEL.
 In clinical studies with 24 months follow-up in chronic phase CML, 10 of the 215 imatinib-intolerant patients had the same grade 3 or 4 non-hematologic toxicity with SPRYCEL as they did with prior imatinib; 8 of these 10 patients were managed with dose reduction and were able to continue SPRYCEL treatment.
 
-The most frequently reported adverse reactions reported in SPRYCEL-treated patients with newly diagnosed chronic phase CML were fluid retention (including pleural effusion) (19%), diarrhoea (17%), headache (12%), rash (11%), musculoskeletal pain (11%), nausea (8%), fatigue (8%), myalgia (6%), vomiting (5%), and muscle inflammation (4%).
-The most frequently reported adverse reactions reported in SPRYCEL-treated patients with resistance or intolerance to prior imatinib therapy were fluid retention (including pleural effusion), diarrhoea, headache, nausea, skin rash, dyspnoea, haemorrhage, fatigue, musculoskeletal pain, infection, vomiting, cough, abdominal pain and pyrexia.
+Based on a minimum of 12 months follow-up the most frequently reported adverse reactions in SPRYCEL-treated patients with newly diagnosed chronic phase CML were fluid retention (including pleural effusion) (19%), diarrhoea (17%), headache (12%), rash (11%), musculoskeletal pain (11%), nausea (8%), fatigue (8%), myalgia (6%), vomiting (5%), and muscle inflammation (4%).
+After a minimum of 36 months follow-up the cumulative rates for headache (13%), rash (13%), musculoskeletal pain (13%), nausea (10%), fatigue (9%), myalgia (6%), vomiting (5%), and muscle inflammation or spasms (5%) increased by ≤ 2% Cumulative rates of fluid retention and diarrhoea were 31% and 21%, respectively.
+The most frequently reported adverse reactions in SPRYCEL-treated patients with resistance or intolerance to prior imatinib therapy were fluid retention (including pleural effusion), diarrhoea, headache, nausea, skin rash, dyspnoea, haemorrhage, fatigue, musculoskeletal pain, infection, vomiting, cough, abdominal pain and pyrexia.
 Drug-related febrile neutropenia was reported in 5% of SPRYCEL-treated patients with resistance or intolerance to prior imatinib therapy.
 
 In clinical studies with patients with resistance or intolerance to prior imatinib therapy, it was recommended that treatment with imatinib be discontinued at least 7 days before starting treatment with SPRYCEL.
@@ -81,8 +83,8 @@ Uncommon hypotension, thrombophlebitis
 Rare livedo reticularis
 Not known thrombosis/embolism (including pulmonary embolism, deep vein thrombosis)
 Respiratory, thoracic and mediastinal disorders
-Very common pleural effusion*, dyspnoea
-Common cough, pulmonary oedema*, pulmonary hypertension*, lung infiltration, pneumonitis
+Very common pleural effusion*, dyspnoea, cough
+Common pulmonary oedema*, pulmonary hypertension*, lung infiltration, pneumonitis
 Uncommon bronchospasm, asthma
 Rare acute respiratory distress syndrome
 Not known interstitial lung disease, pulmonary arterial hypertension (pre-capillary pulmonary
@@ -94,7 +96,7 @@ inflammation (including mucositis/stomatitis), dyspepsia, abdominal distension,
 constipation, oral soft tissue disorder
 Uncommon pancreatitis, upper gastrointestinal ulcer, oesophagitis, ascites*, anal fissure,
 dysphagia
-Rare protein-losing gastroenteropathy
+Rare protein-losing gastroenteropathy, ileus
 Not known fatal gastrointestinal haemorrhage*
 Hepatobiliary disorders
 Uncommon hepatitis, cholecystitis, cholestasis
@@ -108,8 +110,7 @@ erythrodysesthesia syndrome
 Musculoskeletal and connective tissue disorders
 Very common musculoskeletal pain
 Common arthralgia, myalgia, muscular weakness, musculoskeletal stiffness, muscle spasm
-Uncommon rhabdomyolysis, muscle inflammation
-Rare tendonitis
+Uncommon rhabdomyolysis, muscle inflammation, tendonitis
 Renal and urinary disorders
 Uncommon renal failure, urinary frequency, proteinuria
 Reproductive system and breast disorders
@@ -132,7 +133,7 @@ c Excludes gastrointestinal bleeding and CNS bleeding; these adverse reactions a
 
 d Includes drug eruption, erythema, erythema multiforme, erythrosis, exfoliative rash, generalised erythema, genital rash, heat rash, milia, rash, rash erythematous, rash follicular, rash generalised, rash macular, rash maculo-papular, rash papular, rash pruritic, rash pustular, rash vesicular, skin exfoliation, skin irritation and urticaria vesiculosa.
 
-e Includes auricular swelling, both feet oedema, both lower limb swelling, conjunctival oedema, eye oedema, eye swelling, eyelid oedema, face oedema, genital swelling, gravitational oedema, incision site oedema, lip oedema, localised oedema, macular oedema, oedema genital, oedema mouth, oedema peripheral, orbital oedema, penile oedema, periorbital oedema, pitting oedema, scrotal oedema, skin swelling, swelling face and tongue oedema
+e Includes auricular swelling, conjunctival oedema, eye oedema, eye swelling, eyelid oedema, face oedema, genital swelling, gravitational oedema, incision site oedema, lip oedema, localised oedema, macular oedema, oedema genital, oedema mouth, oedema peripheral, orbital oedema, penile oedema, periorbital oedema, pitting oedema, scrotal oedema, skin swelling, swelling face and tongue oedema
 
 * For additional details, see section "Description of selected adverse reactions"
 
@@ -144,7 +145,8 @@ Their occurrence is more frequent in patients with advanced phase CML or Ph+ ALL
 
 Bleeding
 Bleeding drug-related events, ranging from petechiae and epistaxis to grade 3 or 4 gastrointestinal haemorrhage and CNS bleeding, were reported in patients taking SPRYCEL (see section 4.4).
-In the Phase III study in patients with newly diagnosed chronic phase CML, 1 patient (< 1%) receiving SPRYCEL had grade 3 haemorrhage.
+In the Phase III study in patients with newly diagnosed chronic phase CML, 1 patient (< 1%) receiving SPRYCEL had grade 3 haemorrhage after a minimum of 12 months follow-up.
+After a minimum of 36 months follow-up, the cumulative rate of grade 3 haemorrhage was 1% (2 patients).
 In clinical studies in patients with resistance or intolerance to prior imatinib therapy, severe CNS haemorrhage occurred in < 1% of patients.
 Eight cases were fatal and 6 of them were associated with CTC grade 4 thrombocytopenia.
 Grade 3 or 4 gastrointestinal haemorrhage occurred in 4% of patients with resistance or intolerance to prior imatinib therapy and generally required treatment interruption and transfusions.
@@ -154,7 +156,7 @@ Additionally, in vitro and in vivo platelet assays suggest that SPRYCEL treatmen
 
 Fluid retention
 Miscellaneous adverse reactions such as pleural effusion, ascites, pulmonary oedema and pericardial effusion with or without superficial oedema may be collectively described as “fluid retention”.
-In the newly diagnosed chronic phase CML study, grade 1 and 2 pleural effusion were reported in 26 patients (10%) receiving SPRYCEL.
+In the newly diagnosed chronic phase CML study after a minimum of 12 months follow-up, only grade 1 and 2 pleural effusion were reported in 26 patients (10%) receiving SPRYCEL.
 The median time to onset was 28 weeks (range 4-88 weeks).
 The median duration of pleural effusion was 50 days (range 5-585 days).
 This reaction was usually reversible and managed by interrupting SPRYCEL treatment and using diuretics or other appropriate supportive care measures (see sections 4.2 and 4.4).
@@ -165,6 +167,10 @@ A single patient underwent a therapeutic thoracentesis.
 With appropriate medical care, 23 patients (88% of those with pleural effusion) were able to continue on SPRYCEL and efficacy was not affected (92% achieved a complete cytogenetic response).
 Other fluid retention adverse reactions reported in patients taking SPRYCEL were superficial localised oedema (9%), and generalised oedema (2%).
 Congestive heart failure/cardiac dysfunction, pericardial effusions, pulmonary hypertension and pulmonary oedema were also reported in < 2% of patients.
+After a minimum of 36 months follow-up the cumulative rate of pleural effusion (all grades) was 19%.
+The cumulative rates of superficial localised oedema and generalised oedema were 13% and 3%, respectively.
+The cumulative rates of congestive heart failure/cardiac dysfunction and pulmonary oedema remained
+< 2% and the cumulative rates of pericardial effusions and pulmonary hypertension were < 3% after a minimum of 36 months follow-up.
 
 The use of SPRYCEL is associated with fluid retention with grade 3 or 4 cases in 11% of patients with resistance or intolerance to prior imatinib therapy.
 Grade 3 or 4 pleural and pericardial effusion were reported in 7% and 2% of patients, respectively.
@@ -180,12 +186,14 @@ Patients with PAH reported during dasatinib treatment were often taking concomit
 Improvements in haemodynamic and clinical parameters have been observed in patients with PAH following discontinuation of dasatinib.
 
 QT Prolongation
-In the Phase III study in patients with newly diagnosed chronic phase CML, one patient (< 1%) of the SPRYCEL-treated patients had a QTcF > 500 msec (see section 4.4).
+In the Phase III study in patients with newly diagnosed chronic phase CML, one patient (< 1%) of the SPRYCEL-treated patients had a QTcF > 500 msec after a minimum of 12 months follow-up (see section 4.4).
+No additional patients were reported to have QTcF > 500 msec after a minimum of 36 months follow-up.
 In 5 Phase II clinical studies in patients with resistance or intolerance to prior imatinib therapy, repeated baseline and on-treatment ECGs were obtained at pre-specified time points and read centrally for 865 patients receiving SPRYCEL 70 mg twice daily.
 QT interval was corrected for heart rate by Fridericia's method.
 At all post-dose time points on day 8, the mean changes from baseline in QTcF interval were 4 - 6 msec, with associated upper 95% confidence intervals < 7 msec.
 Of the 2,182 patients with resistance or intolerance to prior imatinib therapy who received SPRYCEL in clinical studies, 15 (1%) had QTc prolongation reported as an adverse reaction.
 Twenty-one patients (1%) experienced a QTcF > 500 msec (see section 4.4).
+
 Cardiac adverse reactions
 Patients with risk factors or a history of cardiac disease should be monitored carefully for signs or symptoms consistent with cardiac dysfunction and should be evaluated and treated appropriately (see section 4.4).
 
@@ -261,9 +269,11 @@ b Includes ventricular dysfunction, cardiac failure, cardiac failure congestive,
 Laboratory test abnormalities
 
 Haematology
-In the Phase III newly diagnosed chronic phase CML study, the following grade 3 or 4 laboratory abnormalities were reported in patients taking SPRYCEL: neutropenia (21%), thrombocytopenia (19%), and anaemia (10%).
+In the Phase III newly diagnosed chronic phase CML study, the following grade 3 or 4 laboratory abnormalities were reported after a minimum of 12 months follow-up in patients taking SPRYCEL: neutropenia (21%), thrombocytopenia (19%), and anaemia (10%).
+After a minimum of 36 months follow-up, the cumulative rates of neutropenia, thrombocytopenia, and anaemia were 24%, 19% and 12%, respectively.
 
-In SPRYCEL-treated patients with newly diagnosed chronic phase CML who experienced grade 3 or 4 myelosuppression, recovery generally occurred following brief dose interruptions and/or reductions and permanent discontinuation of treatment occurred in 1.6% of patients.
+In SPRYCEL-treated patients with newly diagnosed chronic phase CML who experienced grade 3 or 4 myelosuppression, recovery generally occurred following brief dose interruptions and/or reductions and permanent discontinuation of treatment occurred in 1.6% of patients after a minimum of 12 months follow-up.
+After a minimum of 36 months follow-up the cumulative rate of permanent discontinuation due to grade 3 or 4 myelosuppression was 2.3%.
 
 In patients with CML with resistance or intolerance to prior imatinib therapy, cytopenias (thrombocytopenia, neutropenia, and anaemia) were a consistent finding.
 However, the occurrence of cytopenias was also clearly dependent on the stage of the disease.
@@ -291,10 +301,13 @@ Cumulative grade 3 or 4 cytopenias among patients treated with 100 mg once daily
 In patients who experienced grade 3 or 4 myelosuppression, recovery generally occurred following brief dose interruptions and/or reductions and permanent discontinuation of treatment occurred in 5% of patients.
 Most patients continued treatment without further evidence of myelosuppression.
 
-Biochemistry (2 year follow-up)
-In the newly diagnosed chronic phase CML study, grade 3 or 4 hypophosphatemia was reported in 4% of SPRYCEL-treated patients, and grade 3 or 4 elevations of transaminases, creatinine, and bilirubin were reported in ≤ 1% of patients.
+Biochemistry
+In the newly diagnosed chronic phase CML study, grade 3 or 4 hypophosphatemia was reported in 4% of SPRYCEL-treated patients, and grade 3 or 4 elevations of transaminases, creatinine, and bilirubin were reported in ≤ 1% of patients after a minimum of 12 months follow-up.
+After a minimum of 36 months follow-up the cumulative rate of grade 3 or 4 hypophosphatemia was 7%, grade 3 or 4 elevations of creatinine and bilirubin was 1% and grade 3 or 4 elevations of transaminases remained
+< 1%.
 There were no discontinuations of SPRYCEL therapy due to these biochemical laboratory parameters.
 
+2 year follow-up
 Grade 3 or 4 elevations of transaminases or bilirubin were reported in < 1% of patients with chronic phase CML (resistant or intolerant to imatinib), but elevations were reported with an increased frequency of 1 to 7% of patients with advanced phase CML and Ph+ ALL.
 It was usually managed with dose reduction or interruption.
 In the Phase III dose-optimisation study in chronic phase CML, grade 3 or 4 elevations of transaminases or bilirubin were reported in ≤ 1% of patients with similar low incidence in the four treatment groups.

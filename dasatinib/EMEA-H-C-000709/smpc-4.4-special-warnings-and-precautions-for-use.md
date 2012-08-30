@@ -28,7 +28,7 @@ In patients with newly diagnosed chronic phase CML, complete blood counts should
 Myelosuppression was generally reversible and usually managed by withholding dasatinib temporarily or by dose reduction (see sections 4.2 and 4.8).
 
 Bleeding
-In the Phase III study in patients with newly diagnosed chronic phase CML, 1 patient (< 1%) receiving dasatinib compared to 2 patients (1%) receiving imatinib had grade 3 or 4 haemorrhage.
+In the Phase III study in patients with newly diagnosed chronic phase CML, 1 patient (< 1%) receiving dasatinib compared to 2 patients (1%) receiving imatinib had grade 3 or 4 haemorrhage after a minimum of 12 months follow-up.
 In clinical studies in patients with resistance or intolerance to prior imatinib therapy, severe central nervous system (CNS) haemorrhage occurred in < 1% of patients.
 Eight cases were fatal and 6 of them were associated with Common Toxicity Criteria (CTC) grade 4 thrombocytopenia.
 Grade 3 or 4 gastrointestinal haemorrhage occurred in 4% of patients with resistance or intolerance to prior imatinib therapy and generally required treatment interruptions and transfusions.
@@ -41,7 +41,7 @@ In subsequent studies, the use of anticoagulants, acetylsalicylic acid, and non-
 Caution should be exercised if patients are required to take medicinal products that inhibit platelet function or anticoagulants.
 Fluid retention
 Dasatinib is associated with fluid retention.
-In the Phase III clinical study in patients with newly diagnosed chronic phase CML, grade 3 or 4 fluid retention was reported in 2 patients (1%) in each of the dasatinib and the imatinib-treatment groups (see section 4.8).
+In the Phase III clinical study in patients with newly diagnosed chronic phase CML, grade 3 or 4 fluid retention was reported in 2 patients (1%) in each of the dasatinib and the imatinib-treatment groups after a minimum of 12 months follow-up (see section 4.8).
 In clinical studies in patients with resistance or intolerance to prior imatinib therapy, grade 3 or 4 fluid retention was reported in 11% of patients, including grade 3 or 4 pleural and pericardial effusion reported in 7% and 2% of patients, respectively.
 In these studies, grade 3 or 4 ascites and generalised oedema were each reported in < 1% of patients, and grade 3 or 4 pulmonary oedema was reported in 1% of patients.
 
@@ -67,7 +67,7 @@ Improvements in haemodynamic and clinical parameters have been observed in dasat
 
 QT Prolongation
 In vitro data suggest that dasatinib has the potential to prolong cardiac ventricular repolarisation (QT Interval) (see section 5.3).
-In 258 dasatinib-treated patients and 258 imatinib-treated patients in the Phase III study in newly diagnosed chronic phase CML, 1 patient (< 1%) in each group had QTc prolongation reported as an adverse reaction.
+In 258 dasatinib-treated patients and 258 imatinib-treated patients with a minimum of 12 months follow-up in the Phase III study in newly diagnosed chronic phase CML, 1 patient (< 1%) in each group had QTc prolongation reported as an adverse reaction.
 The median changes in QTcF from baseline were 3.0 msec in dasatinib-treated patients compared to 8.2 msec in imatinib-treated patients.
 One patient (< 1%) in each group experienced a QTcF > 500 msec.
 In 865 patients with leukaemia treated with dasatinib in Phase II clinical trials, the mean changes from baseline in QTc interval using Fridericia's method (QTcF) were 4 - 6 msec; the upper 95% confidence intervals for all mean changes from baseline were < 7 msec (see section 4.8).
@@ -77,6 +77,7 @@ Twenty-one of these patients (1%) experienced a QTcF > 500 msec.
 Dasatinib should be administered with caution to patients who have or may develop prolongation of QTc.
 These include patients with hypokalaemia or hypomagnesaemia, patients with congenital long QT syndrome, patients taking anti-arrhythmic medicinal products or other medicinal products which lead to QT prolongation, and cumulative high dose anthracycline therapy.
 Hypokalaemia or hypomagnesaemia should be corrected prior to dasatinib administration.
+
 Cardiac adverse reactions
 Dasatinib was studied in a randomised trial of 519 patients with newly diagnosed CML in chronic phase which included patients with prior cardiac disease.
 The cardiac adverse reactions of congestive heart failure/cardiac dysfunction and fatal myocardial infarction were reported in patients taking dasatinib.
