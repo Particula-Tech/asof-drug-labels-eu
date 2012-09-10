@@ -18,6 +18,7 @@ Distribution
 In vitro (14C)-lenalidomide binding to plasma proteins was low with mean plasma protein binding at 23% and 29% in multiple myeloma patients and healthy volunteers, respectively.
 
 Lenalidomide is present in human semen (< 0.01% of the dose) after administration of 25 mg/day and the drug is undetectable in semen of a healthy subject 3 days after stopping the substance (see section 4.4).
+
 Biotransformation and elimination
 In vitro studies indicate that lenalidomide has no inhibitory effect on CYP1A2, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A.
 
@@ -30,7 +31,8 @@ The renal clearance of lenalidomide exceeds the glomerular filtration rate and t
 At recommended doses (5 to 25 mg/day), half-life in plasma is approximately 3 hours in healthy volunteers and patients with multiple myeloma.
 
 Pharmacokinetics analyses in patients with impaired renal function indicate that as renal function decreases (< 50 ml/min), the total drug clearance decreases proportionally resulting in an increase in AUC.
-The half-life of lenalidomide increased from approximately 3.5 hours in subjects with creatinine clearance > 50 ml/min to more than 9 hours in subjects with reduced renal function < 50 ml/min.
+The half-life of lenalidomide increased from approximately 3.5 hours in subjects with creatinine clearance
+> 50 ml/min to more than 9 hours in subjects with reduced renal function < 50 ml/min.
 However, renal impairment did not alter the oral absorption of lenalidomide.
 The Cmax was similar between healthy subjects and patients with renal impairment.
 Recommended dose adjustments in patients with impaired renal function are described in section 4.2.

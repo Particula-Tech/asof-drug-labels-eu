@@ -58,7 +58,6 @@ Because of the increased risk of venous thromboembolism in patients with multipl
 If a patient is currently using combined oral contraception the patient should switch to one of the effective method listed above.
 The risk of venous thromboembolism continues for 4−6 weeks after discontinuing combined oral contraception.
 The efficacy of contraceptive steroids may be reduced during co-treatment with dexamethasone (see section 4.5).
-
 Implants and levonorgestrel-releasing intrauterine systems are associated with an increased risk of infection at the time of insertion and irregular vaginal bleeding.
 Prophylactic antibiotics should be considered particularly in patients with neutropenia.
 
@@ -90,14 +89,14 @@ Patients should not donate blood during therapy or for 1 week following disconti
 Educational materials
 In order to assist patients in avoiding foetal exposure to lenalidomide, the Marketing Authorisation Holder will provide educational material to health care professionals to reinforce the warnings about the expected teratogenicity of lenalidomide, to provide advice on contraception before therapy is started, and to provide guidance on the need for pregnancy testing.
 Full patient information about the expected teratogenic risk and the strict pregnancy prevention measures as specified in the Pregnancy Prevention Programme should be given by the physician to women of childbearing potential and, as appropriate, to male patients.
+
 Other special warnings and precautions for use
 
 Cardiovascular disorders
 
-Myocardial Infarction
+Myocardial infarction
 Myocardial infarction has been reported in patients receiving lenalidomide, particularly in those with known risk factors.
 Patients with known risk factors – including prior thrombosis – should be closely monitored, and action should be taken to try to minimize all modifiable risk factors (eg. smoking, hypertension, and hyperlipidaemia).
-
 Venous and arterial thromboembolic events
 In patients with multiple myeloma, the combination of lenalidomide with dexamethasone is associated with an increased risk of venous thromboembolism (predominantly deep vein thrombosis and pulmonary embolism) and arterial thromboembolism (predominantly myocardial infarction and cerebrovascular event) – see sections 4.5 and 4.8.
 
@@ -126,6 +125,7 @@ In case of neutropenia, the physician should consider the use of growth factors 
 The combination of lenalidomide with dexamethasone in multiple myeloma patients is associated with a higher incidence of grade 3 and grade 4 thrombocytopenia (9.9% and 1.4%, respectively, in lenalidomide/dexamethasone-treated patients compared to 2.3% and 0.0% in placebo/dexamethasone-treated patients; see section 4.8).
 Patients and physicians are advised to be observant for signs and symptoms of bleeding, including petechiae and epistaxes, especially in case of concomitant medication susceptible to induce bleeding (see section 4.8 Haemorrhagic disorders).
 A dose reduction of lenalidomide may be required (see section 4.2).
+
 A complete blood cell count, including white blood cell count with differential count, platelet count, haemoglobin, and haematocrit should be performed at baseline, every week for the first 8 weeks of lenalidomide treatment and monthly thereafter to monitor for cytopenias.
 
 The major dose limiting toxicities of lenalidomide include neutropenia and thrombocytopenia.
@@ -137,17 +137,16 @@ Therefore care should be taken in dose selection and monitoring of renal functio
 
 Thyroid function
 Cases of hypothyroidism have been reported and monitoring of thyroid function should be considered.
-
 Peripheral neuropathy
 Lenalidomide is structurally related to thalidomide, which is known to induce severe peripheral neuropathy.
 At this time, the neurotoxic potential of lenalidomide associated with long-term use cannot be ruled out.
 
-Tumour Lysis Syndrome
+Tumour lysis syndrome
 Because lenalidomide has anti-neoplastic activity the complications of tumour lysis syndrome may occur.
 The patients at risk of tumour lysis syndrome are those with high tumour burden prior to treatment.
 These patients should be monitored closely and appropriate precautions taken.
 
-Allergic Reactions
+Allergic reactions
 Cases of allergic reaction/hypersensitivity reactions have been reported (see section 4.8).
 Patients who had previous allergic reactions while treated with thalidomide should be monitored closely, as a possible cross-reaction between lenalidomide and thalidomide has been reported in the literature.
 
@@ -164,13 +163,13 @@ Patients with rare hereditary problems of galactose intolerance, the Lapp lactas
 Unused capsules
 Patients should be advised never to give this medicinal product to another person and to return any unused capsules to their pharmacist at the end of the treatment.
 
-Second Primary Malignancies
+Second primary malignancies
 An increase of second primary malignancies (SPM) has been observed in clinical trials in previously treated myeloma patients receiving lenalidomide/dexamethasone (3.98 per 100 patient-years) compared to controls (1.38 per 100 patient-years).
-Non invasive SPM comprise basal cell or squamous cell skin cancers.
+Non-invasive SPM comprise basal cell or squamous cell skin cancers.
 Most of the invasive SPMs were solid tumour malignancies.
 
 In clinical trials of newly diagnosed multiple myeloma, a 4-fold increased incidence of second primary malignancies has been observed in patients receiving Revlimid (7.0%) compared with controls (1.8%).
 Among invasive SPMs, cases of AML, MDS and solid tumours were observed in patients receiving Revlimid in combination with melphalan or immediately following high dose melphalan and ASCT; cases of B-cell malignancies (including Hodgkin's lymphoma) were observed in the clinical trials where patients received Revlimid in the post ASCT setting.
 
 The risk of occurrence of SPM must be taken into account before initiating treatment with Revlimid.
-Physicians should carefully evaluate patients before and during treatment using standard cancer screening for occurrence of second primary malignancies and institute treatment as indicated.
+Physicians should carefully evaluate patients before and during treatment using standard cancer screening for occurrence of SPM and institute treatment as indicated.

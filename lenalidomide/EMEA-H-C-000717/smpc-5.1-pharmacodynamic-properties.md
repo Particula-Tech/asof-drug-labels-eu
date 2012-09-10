@@ -15,8 +15,7 @@ Of the 704 patients evaluated in the MM-009 and MM-010 studies, 44.6% were aged 
 In both studies, patients in the lenalidomide/dexamethasone (len/dex) group took 25 mg of lenalidomide orally once daily on Days 1 to 21 and a matching placebo capsule once daily on Days 22 to 28 of each 28-day cycle.
 Patients in the placebo/dexamethasone (placebo/dex) group took 1 placebo capsule on Days 1 to 28 of each 28-day cycle.
 Patients in both treatment groups took 40 mg of dexamethasone orally once daily on Days 1 to 4, 9 to 12, and 17 to 20 of each 28-day cycle for the first 4 cycles of therapy.
-The dose of dexamethasone was reduced to 40 mg orally once daily on
-Days 1 to 4 of each 28-day cycle after the first 4 cycles of therapy.
+The dose of dexamethasone was reduced to 40 mg orally once daily on Days 1 to 4 of each 28-day cycle after the first 4 cycles of therapy.
 In both studies, treatment was to continue until disease progression.
 In both studies, dose adjustments were allowed based on clinical and laboratory finding.
 
@@ -35,7 +34,8 @@ An extended follow-up efficacy analysis was conducted with a median follow-up of
 Table 1 summarises the results of the follow-up efficacy analyses – pooled studies MM-009 and MM-010.
 
 In this pooled extended follow-up analysis, the median TTP was 60.1 weeks (95% CI: 44.3, 73.1) in patients treated with lenalidomide/dexamethasone (N = 353) versus 20.1 weeks (95% CI: 17.7, 20.3) in patients treated with placebo/dexamethasone (N = 351).
-The median progression free survival was 48.1 weeks (95% CI: 36.4, 62.1) in patients treated with lenalidomide/dexamethasone versus 20.0 weeks (95% CI: 16.1, 20.1) in patients treated with placebo/dexamethasone.
+The median progression free survival was 48.1 weeks
+(95% CI: 36.4, 62.1) in patients treated with lenalidomide/dexamethasone versus 20.0 weeks (95% CI: 16.1, 20.1) in patients treated with placebo/dexamethasone.
 The median duration of treatment was 44.0 weeks (min: 0.1, max: 254.9) for lenalidomide/dexamethasone and 23.1 weeks (min: 0.3, max: 238.1) for placebo/dexamethasone.
 Complete response (CR), partial response (PR) and overall response (CR+PR) rates in the lenalidomide/dexamethasone arm remain significantly higher than in the dexamethasone/placebo arm in both studies.
 The median overall survival in the extended follow-up analysis of the pooled studies is 164.3 weeks (95% CI: 145.1, 192.6) in patients treated with lenalidomide/dexamethasone versus 136.4 weeks (95% CI: 113.1, 161.7) in patients treated with placebo/dexamethasone.
@@ -54,6 +54,7 @@ Table 1: Summary of Results of Efficacy Analyses as of cut-off date for extended
 
 a: Two-tailed log rank test comparing survival curves between treatment groups.
 b: Two-tailed continuity-corrected chi-square test.
+
 Exploratory study
 An open-label, randomized, multicenter, Phase 3 study was conducted in 445 patients with newly diagnosed multiple myeloma; 222 patients were randomized to the lenalidomide/low dose dexamethasone arm, and 223 were randomized to the lenalidomide/standard dose dexamethasone arm.
 Patients randomized to the lenalidomide/standard dose dexamethasone arm received lenalidomide 25 mg/day, Days 1 to 21 every 28 days plus dexamethasone 40 mg/day on Days 1 to 4, 9 to 12, and 17 to 20 every 28 days for the first four cycles.
@@ -65,5 +66,4 @@ In a post-hoc analysis, lower mortality was observed in the lenalidomide/low dos
 However with a longer follow-up, the difference in overall survival in favour of low dose dexamethasone tends to decrease.
 
 Considering that the patient population differs from the authorised indication, these results should be interpreted with caution.
-
 The European Medicines Agency has waived the obligation to submit the results of studies with Revlimid in all subsets of the paediatric population in multiple myeloma (see section 4.2 for information on paediatric use).

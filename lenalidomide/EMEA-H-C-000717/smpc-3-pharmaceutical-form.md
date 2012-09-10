@@ -2,7 +2,15 @@
 
 Hard capsule.
 
+Blue-green/white capsules marked “REV 2.5 mg”.
+
+[Revlimid 5 mg hard capsules]
+
 White capsules marked “REV 5 mg”.
+
+[Revlimid 7.5 mg hard capsules]
+
+Pale yellow/white capsules marked “REV 7.5 mg”.
 
 [Revlimid 10 mg hard capsules]
 

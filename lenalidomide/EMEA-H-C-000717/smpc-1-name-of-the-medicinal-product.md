@@ -1,6 +1,14 @@
 # 1. NAME OF THE MEDICINAL PRODUCT
 
+Revlimid 2.5 mg hard capsules
+
+[Revlimid 5 mg hard capsules]
+
 Revlimid 5 mg hard capsules
+
+[Revlimid 7.5 mg hard capsules]
+
+Revlimid 7.5 mg hard capsules
 
 [Revlimid 10 mg hard capsules]
 

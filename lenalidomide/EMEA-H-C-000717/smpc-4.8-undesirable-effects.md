@@ -15,12 +15,11 @@ Tabulated list of adverse reactions
 
 The adverse reactions observed in patients treated with lenalidomide/dexamethasone are listed below by system organ class and frequency.
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-Frequencies are defined as: very common (≥ 1/10); common
-(≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare
-(< 1/10,000), not known (cannot be estimated from the available data).
+Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000), not known (cannot be estimated from the available data).
 
 The following table is derived from data gathered during the pivotal studies.
 The data were not adjusted according to the greater duration of treatment in the lenalidomide/dexamethasone versus the placebo/dexamethasone arms in the pivotal studies (see section 5.1).
+
 Table 1: ADRs reported in clinical studies and post-marketing data in patients with multiple myeloma treated with lenalidomide
 
 | System Organ Class / Preferred Term | All ADRs/Frequency | Grade 3−4 ADRs/Frequency |
@@ -49,7 +48,6 @@ Table 1: ADRs reported in clinical studies and post-marketing data in patients w
 
 ^see section 4.8 description of selected adverse reactions
 †reports from post-marketing data
-
 Description of selected adverse reactions
 
 Teratogenicity
@@ -68,21 +66,30 @@ Venous thromboembolism
 The combination of lenalidomide with dexamethasone is associated with an increased risk of DVT and PE in patients with multiple myeloma (see section 4.5).
 Concomitant administration of erythropoietic agents or previous history of DVT may also increase thrombotic risk in these patients.
 
-Myocardial Infarction
+Myocardial infarction
 Myocardial infarction has been reported in patients receiving lenalidomide, particularly in those with known risk factors.
 
 Haemorrhagic disorders
 Haemorrhagic disorders are listed under several system organ classes: Blood and lymphatic system disorders; nervous system disorders (intracranial haemorrhage); respiratory, thoracic and mediastinal disorders (epistaxis); gastrointestinal disorders (gingival bleeding, haemorrhoidal haemorrhage, rectal haemorrhage); renal and urinary disorders (haematuria); injury, poisoning and procedural complications (contusion) and vascular disorders (ecchymosis).
 
-Allergic Reactions
+Allergic reactions
 Cases of allergic reaction/hypersensitivity reactions have been reported.
 A possible cross-reaction between lenalidomide and thalidomide has been reported in the literature.
+
 Severe skin reactions
-Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported.
+SJS and TEN have been reported.
 Patients with a history of severe rash associated with thalidomide treatment should not receive lenalidomide.
 
-Second Primary Malignancies
+Second primary malignancies
 *In clinical trials in previously treated myeloma patients with lenalidomide/dexamethasone compared to controls, mainly comprising of basal cell or squamous cell skin cancers.
+
+[Revlimid 5 mg hard capsules]
+
+(all sentences already above)
+
+[Revlimid 7.5 mg hard capsules]
+
+(all sentences already above)
 
 [Revlimid 10 mg hard capsules]
 

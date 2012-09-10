@@ -10,7 +10,8 @@ The recommended dose of dexamethasone is 40 mg orally once daily on days 1-4, 9-
 Dosing is continued or modified based upon clinical and laboratory findings (see section 4.4).
 Prescribing physicians should carefully evaluate which dose of dexamethasone to use, taking into account the condition and disease status of the patient.
 
-Lenalidomide treatment must not be started if the Absolute Neutrophil Counts (ANC) < 1.0 x 109/l, and/or platelet counts < 75 x 109/l or, dependent on bone marrow infiltration by plasma cells, platelet counts < 30 x 109/l.
+Lenalidomide treatment must not be started if the Absolute Neutrophil Counts (ANC) < 1.0 x 109/l, and/or platelet counts < 75 x 109/l or, dependent on bone marrow infiltration by plasma cells, platelet counts
+< 30 x 109/l.
 
 Recommended dose adjustments during treatment and restart of treatment
 Dose adjustments, as summarised below, are recommended to manage grade 3 or 4 neutropenia or thrombocytopenia, or other grade 3 or 4 toxicity judged to be related to lenalidomide.
