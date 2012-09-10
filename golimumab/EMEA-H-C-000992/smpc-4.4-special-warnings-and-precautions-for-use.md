@@ -113,6 +113,7 @@ The combination of Simponi and anakinra is not recommended.
 Concurrent administration of TNF-antagonists and abatacept
 In clinical studies concurrent administration of TNF-antagonists and abatacept has been associated with an increased risk of infections including serious infections compared to TNF-antagonists alone, without increased clinical benefit.
 The combination of Simponi and abatacept is not recommended.
+
 Switching between biological DMARDs
 When switching from one biologic to another, patients should be monitored for signs of infection.
 
@@ -131,7 +132,7 @@ The needle cover on the pre-filled pen is manufactured from dry natural rubber c
 Special populations
 
 Elderly patients (≥ 65 years)
-In the Phase III studies in RA, PsA, and AS, no overall differences in adverse events (AEs), serious adverse events (SAEs) , and serious infections in patients age 65 or older (n=155) who received Simponi were observed compared with younger patients.
+In the Phase III studies in RA, PsA, and AS, no overall differences in adverse events (AEs), serious adverse events (SAEs), and serious infections in patients age 65 or older (n=155) who received Simponi were observed compared with younger patients.
 However, caution should be exercised when treating the elderly and particular attention paid with respect to occurrence of infections.
 
 Renal and hepatic impairment

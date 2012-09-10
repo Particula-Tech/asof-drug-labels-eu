@@ -19,7 +19,6 @@ Rare: Hepatitis B reactivation
 Neoplasms, benign, malignant and unspecified
 Uncommon: Neoplasms (such as skin cancer, squamous cell carcinoma and melanocytic naevus)
 Rare: Lymphoma, leukaemia
-
 Blood and lymphatic system disorders
 Common: Anaemia
 Uncommon: Leucopaenia, thrombocytopaenia
@@ -53,7 +52,8 @@ Common: Alanine aminotransferase increased, aspartate aminotransferase increased
 Uncommon: Cholelithiasis, hepatic disorders
 Skin and subcutaneous tissue disorders
 Common: Alopecia, dermatitis, pruritus, rash
-Uncommon: Psoriasis (new onset or worsening of pre-existing psoriasis, palmar/plantar and pustular), urticaria, vasculitis (cutaneous) Musculoskeletal and connective tissue disorders
+Uncommon: Psoriasis (new onset or worsening of pre-existing psoriasis, palmar/plantar and pustular), urticaria, vasculitis (cutaneous) Rare: Skin exfoliation
+Musculoskeletal and connective tissue disorders
 Rare: Lupus-like syndrome
 Renal and urinary disorders
 Uncommon: Bladder disorders
@@ -79,7 +79,7 @@ In controlled Phase III trials through week 16 in patients with RA, PsA, and AS,
 Through Week 16, the incidence of serious infections per 100 subject-years of follow-up was 7.4; 95% CI: 4.6, 11.1 for the golimumab 100 mg group, 3.3; 95% CI: 1.3, 6.9 for the golimumab 50 mg group and 4.2; 95% CI: 1.8 , 8.2 for the placebo group.
 Serious infections observed in golimumab-treated patients included tuberculosis, bacterial infections including sepsis and pneumonia, invasive fungal infections and other opportunistic infections.
 Some of these infections have been fatal.
-In the controlled and uncontrolled portions of the Phase II and Phase III trials in RA, PsA, and AS with a median follow-up of approximately 3 years, there was a greater incidence of serious infections, including opportunistic infections and TB in patients receiving golimumab 100 mgcompared with patients receiving golimumab 50 mg .
+In the controlled and uncontrolled portions of the Phase II and Phase III trials in RA, PsA, and AS with a median follow-up of approximately 3 years, there was a greater incidence of serious infections, including opportunistic infections and TB in patients receiving golimumab 100 mgcompared with patients receiving golimumab 50 mg.
 The incidence per 100 subject-years of all serious infections was 5.1; 95% CI: 4.4, 5.9, in patients receiving golimumab 100 mg and 3.0; 95% CI: 2.4, 3.8, in patients receiving golimumab 50 mg.
 
 Malignancies
@@ -115,7 +115,7 @@ In the controlled and uncontrolled portions of the Phase II RA and the Phase III
 See section 4.4.
 
 Liver enzyme elevations
-In controlled Phase III trials through week 16, mild ALT elevations (> 1 and < 3 x upper limit of normal (ULN)) occurred in similar proportions of golimumab and control patients in the RA and PsA studies (22.1% to 27.4% of patients); in the AS study, more golimumab-treated patients (25.6%) than control patients (3.9 %) had mild ALT elevations.
+In controlled Phase III trials through week 16, mild ALT elevations (> 1 and < 3 x upper limit of normal (ULN)) occurred in similar proportions of golimumab and control patients in the RA and PsA studies (22.1% to 27.4% of patients); in the AS study, more golimumab-treated patients (25.6%) than control patients (3.9%) had mild ALT elevations.
 Through approximately 3 years of follow-up the incidence of mild ALT elevations was similar in golimumab-treated and control patients in RA and PsA studies.
 In the AS population, the incidence of mild ALT elevations was higher in golimumab-treated patients than in control patients.
 

@@ -2,8 +2,8 @@
 
 Simponi treatment is to be initiated and supervised by qualified physicians experienced in the diagnosis and treatment of rheumatoid arthritis, psoriatic arthritis or ankylosing spondylitis.
 Patients treated with Simponi should be given the Patient Alert Card.
-Posology
 
+Posology
 Rheumatoid arthritis
 Simponi 50 mg given once a month, on the same date each month.
 Simponi should be given concomitantly with MTX.
