@@ -62,6 +62,9 @@ BSA (m²) = √(Height (cm) X Weight (kg) / 3600)
 Doses for intermediate body surface areas not included in the above table can be calculated using the following equations:
 To calculate the volume to be administered (in ml) the body surface area should be multiplied by a factor of: 3.1 for a dose of 250 mg/m²; 3.8 for one of 300 mg/m²; and by 4.4 for 350 mg/m².
 
+Ritonavir oral solution also contains propylene glycol (26.0% v/v).
+Total amounts of alcohol and propylene glycol from all medicines, including ritonavir oral solution, that are to be given to infants should be taken into account in order to avoid toxicity from these excipients (see section 4.4)
+
 Renal impairment: Currently, there are no data specific to this patient population and therefore specific dosage recommendations cannot be made.
 The renal clearance of ritonavir is negligible; therefore, a decrease in the total body clearance is not expected in patients with renal impairment.
 Because ritonavir is highly protein bound it is unlikely that it will be significantly removed by haemodialysis or peritoneal dialysis.

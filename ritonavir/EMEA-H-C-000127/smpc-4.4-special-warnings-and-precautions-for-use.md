@@ -59,13 +59,26 @@ Renal failure, renal impairment, elevated creatinine, hypophosphataemia and prox
 Ritonavir oral solution contains castor oil polyoxyl which may cause stomach upset and diarrhoea.
 Ritonavir oral solution also contains the azo-colouring agent sunset yellow (E110) which may cause allergic reactions.
 
-Ritonavir oral solution contains alcohol (43% v/v), ie up to 2572.5 mg per maximum dose of 600 mg, equivalent to 65 ml beer, 27 ml wine per dose.
+Ritonavir oral solution contains alcohol (43 % v/v), ie up to 2572.5 mg per maximum dose of 600 mg, equivalent to 81 ml beer (4%), 23 ml wine (14%) per dose.
 Each 100 mg dose contains up to 428.8 mg alcohol and each 200 mg dose contains 857.5 mg alcohol.
 Therefore concomitant administration of Norvir with disulfiram or medicines with disulfiram-like reactions (eg metronidazole) should be avoided.
 Also to be taken into account in pregnant or breast-feeding women, children and high-risk groups such as patients with liver disease or epilepsy.
 
+Particular risk of toxicity in relation to the amount of alcohol and propylene glycol contained in the oral solution of Norvir.
+
+Healthcare professionals should be aware that Norvir oral solution is highly concentrated and contains the excipients alcohol (43.2% v/v) and propylene glycol (26.0% v/v).
+5 ml of Norvir solution (for antiretroviral purposes) contains 1.7 g of alcohol and 1.3 g propylene glycol.
+1 ml of Norvir solution (for pharmacokinetic enhancer purposes) contains 344.0 mg of alcohol and 265.7 mg propylene glycol.
+
+Special attention should be given to accurate calculation of the dose of Norvir, transcription of the medication order, dispensing information and dosing instructions to minimize the risk for medication errors and overdose.
+This is especially important for infants and young children.
+Total amounts of alcohol and propylene glycol from all medicines that are to be given to infants should be taken into account in order to avoid toxicity from these excipients.
+Infants should be monitored closely for toxicity related to Norvir oral solution including: hyperosmolality, with or without lactic acidosis, renal toxicity, central nervous system (CNS) depression (including stupor, coma, and apnea), seizures, hypotonia, cardiac arrhythmias and ECG changes, and hemolysis.
+Postmarketing life-threatening cases of cardiac toxicity (including complete atrioventricular (AV) block, bradycardia, and cardiomyopathy), lactic acidosis, acute renal failure, CNS depression and respiratory complications leading to death have been reported, predominantly in preterm neonates receiving ritonavir oral solution (see sections 4.3 and 4.9).
+
 Osteonecrosis: Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
+
 PR interval prolongation: ritonavir has been shown to cause modest asymptomatic prolongation of the PR interval in some healthy adult subjects.
 Rare reports of 2nd or 3rd degree atrioventricular block in patients with underlying structural heart disease and pre-existing conduction system abnormalities or in patients receiving medicinal products known to prolong the PR interval (such as verapamil or atazanavir) have been reported in patients receiving ritonavir.
 Norvir should be used with caution in such patients (see section 5.1).
@@ -81,7 +94,6 @@ When ritonavir is used as a pharmacokinetic enhancer, full details on the warnin
 PDE5 inhibitors: Particular caution should be used when prescribing sildenafil, tadalafil or vardenafil for the treatment of erectile dysfunction in patients receiving ritonavir.
 Co-administration of ritonavir with these medicinal products is expected to substantially increase their concentrations and may result in associated adverse reactions such as hypotension and prolonged erection (see section 4.5).
 Concomitant use of sildenafil with ritonavir is contraindicated in pulmonary arterial hypertension patients (see section 4.3).
-
 HMG-CoA reductase inhibitors: The HMG-CoA reductase inhibitors simvastatin and lovastatin are highly dependent on CYP3A for metabolism, thus concomitant use of ritonavir with simvastatin or lovastatin is not recommended due to an increased risk of myopathy including rhabdomyolysis.
 Caution must also be exercised and reduced doses should be considered if ritonavir is used concurrently with atorvastatin, which is metabolised to a lesser extent by CYP3A.
 While rosuvastatin elimination is not dependent on CYP3A, an elevation of rosuvastatin exposure has been reported with ritonavir co-administration.
@@ -99,11 +111,14 @@ In patients who are already taking ritonavir when digoxin is introduced, digoxin
 Digoxin levels should be monitored more intensively than usual during this period, with dose adjustments made, as necessary, based on clinical, electrocardiographic and digoxin level findings.
 
 Ethinyl estradiol: Barrier or other non-hormonal methods of contraception should be considered when administering ritonavir at therapeutic or low doses as ritonavir is likely to reduce the effect and change the uterine bleeding profile when co-administered with estradiol-containing contraceptives.
+
 Glucocorticoids: Concomitant use of ritonavir and fluticasone or other glucocorticoids that are metabolised by CYP3A4 is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects, including Cushing’s syndrome and adrenal suppression (see section 4.5).
 
 Trazodone: Particular caution should be used when prescribing ritonavir in patients using trazodone.
 Trazodone is a CYP3A4 substrate and co-administration of ritonavir is expected to increase trazodone levels.
 Adverse reactions of nausea, dizziness, hypotension and syncope have been observed in single dose interaction studies in healthy volunteers (see section 4.5)
+
+Rivaroxaban: It is not recommended to use ritonavir in patients receiving rivaroxaban, due to the risk of increased bleeding (see section 4.5).
 
 Ritonavir dosed as a pharmacokinetic enhancer
 

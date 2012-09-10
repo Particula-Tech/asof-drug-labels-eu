@@ -21,7 +21,6 @@ If a patient is already taking St John’s wort, stop St John’s wort and if po
 Ritonavir levels may increase on stopping St John’s wort.
 The dose of ritonavir may need adjusting.
 The inducing effect may persist for at least 2 weeks after cessation of treatment with St John’s wort (see section 4.3).
-
 Serum levels of ritonavir may be affected by select co-administered medicinal products (eg delavirdine, efavirenz, phenytoin and rifampicin).
 These interactions are noted in the medicinal product interaction tables below.
 
@@ -36,16 +35,34 @@ Medicinal Product Interactions – Ritonavir with Protease Inhibitors
 | Amprenavir | 600 q12h 100 q12h Amprenavir2 ↑ 64% ↑ 5 fold Ritonavir increases the serum levels of amprenavir as a result of CYP3A4 inhibition. Clinical trials confirmed the safety and efficacy of 600 mg amprenavir twice daily with ritonavir 100 mg twice daily. Norvir oral solution should not be co-administered with amprenavir oral solution to children due to the risk of toxicity from excipients in the two formulations. For further information, physicians should refer to the Agenerase Summary of Product Characteristics. |
 | Atazanavir | 300 q24h 100 q24h Atazanavir ↑ 86% ↑ 11 fold Atazanavir1 ↑ 2 fold ↑ 3-7 fold Ritonavir increases the serum levels of atazanavir as a result of CYP3A4 inhibition. Clinical trials confirmed the safety and efficacy of 300 mg atazanavir once daily with ritonavir 100 mg once daily in treatment experienced patients. For further information, physicians should refer to the Reyataz Summary of Product Characteristics. |
 | Darunavir | 600, single 100 q12h Darunavir ↑ 14 fold Ritonavir increases the serum levels of darunavir as a result of CYP3A inhibition. Darunavir must be given with ritonavir to ensure its therapeutic effect. Ritonavir doses higher than 100 mg twice daily have not been studied with darunavir. For further information, refer to the Summary of Product Characteristics for Prezista. |
-| Fosamprenavir | 700 q12h 100 q12h Amprenavir ↑ 2.4 fold ↑ 11 fold Ritonavir increases the serum levels of amprenavir (from fosamprenavir) as a result of CYP3A4 inhibition. Fosamprenavir must be given with ritonavir to ensure its therapeutic effect. Clinical trials confirmed the safety and efficacy of fosamprenavir 700 mg twice daily with ritonavir 100 mg twice daily. Ritonavir doses higher than 100 mg twice daily have not been studied with fosamprenavir. For further information, physicians should refer to the Telzir Summary of Product |
-
-Characteristics.
-
+| Fosamprenavir | 700 q12h 100 q12h Amprenavir ↑ 2.4 fold ↑ 11 fold Ritonavir increases the serum levels of amprenavir (from fosamprenavir) as a result of CYP3A4 inhibition. Fosamprenavir must be given with ritonavir to ensure its therapeutic effect. Clinical trials confirmed the safety and efficacy of fosamprenavir 700 mg twice daily with ritonavir 100 mg twice daily. Ritonavir doses higher than 100 mg twice daily have not been studied with fosamprenavir. For further information, physicians should refer to the Telzir Summary of Product Characteristics. |
 | Indinavir | 800 q12h 100 q12h Indinavir3 ↑ 178% ND Ritonavir ↑ 72% ND 400 q12h 400 q12h Indinavir3 ↔ ↑ 4 fold Ritonavir ↔ ↔ Ritonavir increases the serum levels of indinavir as a result of CYP3A4 inhibition. Appropriate doses for this combination, with respect to efficacy and safety, have not been established. Minimal benefit of ritonavir-mediated pharmacokinetic enhancement is achieved with doses higher than 100 mg twice daily. In cases of co-administration of ritonavir (100 mg twice daily) and indinavir (800 mg twice daily) caution is warranted as the risk of nephrolithiasis may be increased. |
-| --- | --- |
-| Nelfinavir | 1250 q12h 100 q12h Nelfinavir ↑ 20to39% ND 750, single 500 q12h Nelfinavir ↑ 152% ND Ritonavir ↔ ↔ Ritonavir increases the serum levels of nelfinavir as a result of CYP3A4 inhibition. Appropriate doses for this combination, with respect to efficacy and safety, have not been established. Minimal benefit of ritonavir-mediated pharmacokinetic enhancement is achieved with doses higher than 100 mg twice daily. |
-| Saquinavir | 1000 q12h 100 q12h Saquinavir4 ↑ 15-fold ↑ 5-fold Ritonavir ↔ ↔ 400 q12h 400 q12h Saquinavir4 ↑ 17-fold ND Ritonavir ↔ ↔ Ritonavir increases the serum levels of saquinavir as a result of CYP3A4 inhibition. Saquinavir should only be given in combination with ritonavir. Ritonavir 100 mg twice daily with saquinavir 1000 mg twice daily provides saquinavir systemic exposure over 24 hours similar to or greater than those achieved with saquinavir 1200 mg three times daily without ritonavir. In a clinical study investigating the interaction of rifampicin 600 mg once daily and saquinavir 1000 mg with ritonavir 100 mg twice daily in healthy volunteers, severe hepatocellular toxicity with transaminase elevations up to > 20-fold the upper limit of normal after 1 to 5 days of co-administration was noted. Due to the risk of severe hepatoxicity, saquinavir/ritonavir should not be given together with rifampicin. For further information, physicians should refer to the Invirase or Fortovase Summary of Product Characteristics. |
-| Tipranavir | 500 q12h 200 q12h Tipranavir ↑ 11 fold ↑ 29 fold Ritonavir ↓ 40% ND Ritonavir increases the serum levels of tipranavir as a result of CYP3A inhibition. Tipranavir must be given with low dose ritonavir to ensure its therapeutic effect. Doses of ritonavir less than 200 mg twice daily should not be used with tipranavir as they might alter the efficacy of the combination. For further information, physicians should refer to the Aptivus Summary of Product Characteristics. |
+| Nelfinavir | 1250 q12h 100 q12h Nelfinavir ↑ ND 20to39% 750, single 500 q12h Nelfinavir ↑ 152% ND Ritonavir ↔ ↔ Ritonavir increases the serum levels of nelfinavir as a result of CYP3A4 inhibition. Appropriate doses for this combination, with respect to efficacy and safety, have not been established. Minimal benefit of ritonavir-mediated pharmacokinetic enhancement is achieved with doses higher than 100 mg twice daily. |
+| Saquinavir | 1000 q12h 100 q12h Saquinavir4 ↑ 15-fold ↑ 5-fold |
 
+Ritonavir ↔ ↔
+400 q12h 400 q12h Saquinavir4 ↑ 17-fold ND
+Ritonavir ↔ ↔
+
+Ritonavir increases the serum levels of saquinavir as a result of CYP3A4 inhibition.
+Saquinavir should only be given in combination with ritonavir.
+Ritonavir 100 mg twice daily with saquinavir 1000 mg twice daily provides saquinavir systemic exposure over 24 hours similar to or greater than those achieved with saquinavir 1200 mg three times daily without ritonavir.
+
+In a clinical study investigating the interaction of rifampicin 600 mg once daily and saquinavir 1000 mg with ritonavir 100 mg twice daily in healthy volunteers, severe hepatocellular toxicity with transaminase elevations up to > 20-fold the upper limit of normal after 1 to 5 days of co-administration was noted.
+Due to the risk of severe hepatoxicity, saquinavir/ritonavir should not be given together with rifampicin.
+
+For further information, physicians should refer to the Invirase or Fortovase Summary of Product Characteristics.
+
+Tipranavir 500 q12h 200 q12h Tipranavir ↑ 11 fold ↑
+
+29 fold
+
+Ritonavir ↓ 40% ND
+
+Ritonavir increases the serum levels of tipranavir as a result of CYP3A inhibition.
+Tipranavir must be given with low dose ritonavir to ensure its therapeutic effect.
+Doses of ritonavir less than 200 mg twice daily should not be used with tipranavir as they might alter the efficacy of the combination.
+For further information, physicians should refer to the Aptivus Summary of Product Characteristics.
 ND: Not determined.
 1.
 Based on cross-study comparison to 400 mg atazanavir once daily alone.
@@ -57,15 +74,47 @@ Based on cross-study comparison to 800 mg indinavir three times daily alone.
 Based on cross-stud y comparison to 600 mg saquinavir three times daily alone.
 Medicinal Product Interactions – Ritonavir with Antiretroviral Agents Other Than Protease Inhibitors
 
-| Co-administered Medicinal Product | Dose of Co- Dose of NORVIR (mg) Medicinal AUC Cmin administered Product Medicinal Product Assessed (mg) |
-| --- | --- |
-| Didanosine | 200 q12h 600 q12h 2 h later Didanosine ↓ 13% ↔ As ritonavir is recommended to be taken with food and didanosine should be taken on an empty stomach, dosing should be separated by 2.5 h. Dose alterations should not be necessary. |
-| Delavirdine | 400 q8h 600 q12h Delavirdine1 ↔ ↔ Ritonavir ↑ 50% ↑ 75% Based on comparison to historical data, the pharmacokinetics of delavirdine did not appear to be affected by ritonavir. When used in combination with delavirdine, dose reduction of ritonavir may be considered. |
-| Efavirenz | 600 q24h 500 q12h Efavirenz ↑ 21% Ritonavir ↑ 17% A higher frequency of adverse reactions (eg, dizziness, nausea, paraesthesia) and laboratory abnormalities (elevated liver enzymes) have been observed when efavirenz is co-administered with ritonavir dosed as an antiretroviral agent. |
-| Maraviroc | 100 q12h 100 q12h Maraviroc ↑161% ↑28% Ritonavir increases the serum levels of maraviroc as a result of CYP3A inhibition. Maraviroc may be given with ritonavir to increase the maraviroc exposure. For further information, refer to the Summary of Product Characteristics for Celsentri. |
-| Nevirapine | 200 q12h 600 q12h Nevirapine ↔ ↔ Ritonavir ↔ ↔ Co-administration of ritonavir with nevirapine does not lead to clinically relevant changes in the pharmacokinetics of either nevirapine or ritonavir. |
-| Zidovudine | 200 q8h 300 q6h Zidovudine ↓ 25% ND Ritonavir may induce the glucuronidation of zidovudine, resulting in slightly decreased levels of zidovudine. Dose alterations should not be necessary. |
+Co- Dose of Co- Dose of Medicinal Product AUC Cmin
+administered administered NORVIR (mg) Assessed
 
+Medicinal Medicinal
+
+Product Product (mg)
+Didanosine 200 q12h 600 q12h 2 h Didanosine ↓ 13% ↔
+
+later
+As ritonavir is recommended to be taken with food and didanosine should be taken on an empty stomach, dosing should be separated by 2.5 h. Dose alterations should not be necessary.
+
+Delavirdine 400 q8h 600 q12h Delavirdine1 ↔ ↔
+Ritonavir ↑ 50% ↑
+
+75% Based on comparison to historical data, the pharmacokinetics of delavirdine did not appear to be affected by ritonavir.
+When used in combination with delavirdine, dose reduction of ritonavir may be considered.
+
+Efavirenz 600 q24h 500 q12h Efavirenz ↑ 21%
+Ritonavir ↑ 17%
+
+A higher frequency of adverse reactions (eg, dizziness, nausea, paraesthesia) and laboratory abnormalities (elevated liver enzymes) have been observed when efavirenz is co-administered with ritonavir dosed as an antiretroviral agent.
+
+Maraviroc 100 q12h 100 q12h Maraviroc ↑161% ↑28%
+
+Ritonavir increases the serum levels of maraviroc as a result of CYP3A inhibition.
+Maraviroc may be given with ritonavir to increase the maraviroc exposure.
+For further information, refer to the Summary of Product Characteristics for Celsentri.
+
+Nevirapine 200 q12h 600 q12h Nevirapine ↔ ↔
+Ritonavir ↔ ↔
+
+Co-administration of ritonavir with nevirapine does not lead to clinically relevant changes in the pharmacokinetics of either nevirapine or ritonavir.
+
+Raltegravir 400 single 100 q12h Raltegravir ↓ 16% ↓ 1%
+
+Co-adminsitration of ritonavir and raltegravir results in a minor reduction in raltegravir levels
+
+Zidovudine 200 q8h 300 q6h Zidovudine ↓ 25% ND
+
+Ritonavir may induce the glucuronidation of zidovudine, resulting in slightly decreased levels of zidovudine.
+Dose alterations should not be necessary.
 ND: Not determined
 1.
 Based on parallel group comparison.
@@ -161,6 +210,11 @@ Anticancer agents
 Dasatinib, nilotinib, vincristine, vinblastine Serum concentrations may be increased when co-administered with ritonavir resulting in the potential for increased incidence of adverse events.
 
 Anticoagulant
+
+Rivaroxaban 10, single dose 600 q12h ↑ 153% ↑ 55%
+
+Inhibition of CYP3A and P-gp lead to increased plasma levels and pharmacodynamic effects of rivaroxaban which may lead to an increased bleeding risk.
+Therefore, the use of ritonavir is not recommended in patients receiving rivaroxaban.
 
 Warfarin 5, single dose 400 q12h
 S-Warfarin ↑ 9% ↓ 9%
@@ -532,36 +586,30 @@ Medicinal products that are affected by the use of ritonavir
 | Amprenavir | 600 q12h 100 q12h Amprenavir2 ↑ 64% ↑ 5 fold Ritonavir increases the serum levels of amprenavir as a result of CYP3A4 inhibition. Clinical trials confirmed the safety and efficacy of 600 mg amprenavir twice daily with ritonavir 100 mg twice daily. Norvir oral solution should not be co-administered with amprenavir oral solution to children due to the risk of toxicity from excipients in the two formulations. For further information, physicians should refer to the Agenerase Summary of Product Characteristics. |
 | Atazanavir | 300 q24h 100 q24h Atazanavir ↑ 86% ↑ 11 fold Atazanavir1 ↑ 2 fold ↑ 3-7 fold Ritonavir increases the serum levels of atazanavir as a result of CYP3A4 inhibition. Clinical trials confirmed the safety and efficacy of 300 mg atazanavir once daily with ritonavir 100 mg once daily in treatment experienced patients. For further information, physicians should refer to the Reyataz Summary of Product Characteristics. |
 | Darunavir | 600, single 100 q12h Darunavir ↑ 14 fold Ritonavir increases the serum levels of darunavir as a result of CYP3A inhibition. Darunavir must be given with ritonavir to ensure its therapeutic effect. Ritonavir doses higher than 100 mg twice daily have not been studied with darunavir. For further information, refer to the Summary of Product Characteristics for Prezista. |
-| Fosamprenavir | 700 q12h 100 q12h Amprenavir ↑ 2.4 fold ↑ 11 fold Ritonavir increases the serum levels of amprenavir (from fosamprenavir) as a result of CYP3A4 inhibition. Fosamprenavir must be given with ritonavir to ensure its therapeutic effect. Clinical trials confirmed the safety and efficacy of fosamprenavir 700 mg twice daily with ritonavir 100 mg twice daily. Ritonavir doses higher than 100 mg twice daily have not been studied with fosamprenavir. For further information, physicians should refer to the Telzir Summary of Product Characteristics. |
+
+Fosamprenavir 700 q12h 100 q12h Amprenavir ↑ 2.4 fold ↑ 11 fold
+
+Ritonavir increases the serum levels of amprenavir (from fosamprenavir) as a result of CYP3A4 inhibition.
+Fosamprenavir must be given with ritonavir to ensure its therapeutic effect.
+Clinical trials confirmed the safety and efficacy of fosamprenavir 700 mg twice daily with ritonavir 100 mg twice daily.
+Ritonavir doses higher than 100 mg twice daily have not been studied with fosamprenavir.
+For further information, physicians should refer to the Telzir Summary of Product Characteristics.
+
 | Indinavir | 800 q12h 100 q12h Indinavir3 ↑ 178% ND Ritonavir ↑ 72% ND 400 q12h 400 q12h Indinavir3 ↔ ↑ 4 fold Ritonavir ↔ ↔ Ritonavir increases the serum levels of indinavir as a result of CYP3A4 inhibition. Appropriate doses for this combination, with respect to efficacy and safety, have not been established. Minimal benefit of ritonavir-mediated pharmacokinetic enhancement is achieved with doses higher than 100 mg twice daily. In cases of co-administration of ritonavir (100 mg twice daily) and indinavir (800 mg twice daily) caution is warranted as the risk of nephrolithiasis may be increased. |
+| --- | --- |
 | Nelfinavir | 1250 q12h 100 q12h Nelfinavir ↑ 20to39% ND 750, single 500 q12h Nelfinavir ↑ 152% ND Ritonavir ↔ ↔ Ritonavir increases the serum levels of nelfinavir as a result of CYP3A4 inhibition. Appropriate doses for this combination, with respect to efficacy and safety, have not been established. Minimal benefit of ritonavir-mediated pharmacokinetic enhancement is achieved with doses higher than 100 mg twice daily. |
 | Saquinavir | 1000 q12h 100 q12h Saquinavir4 ↑ 15-fold ↑ 5-fold Ritonavir ↔ ↔ 400 q12h 400 q12h Saquinavir4 ↑ 17-fold ND Ritonavir ↔ ↔ Ritonavir increases the serum levels of saquinavir as a result of CYP3A4 inhibition. Saquinavir should only be given in combination with ritonavir. Ritonavir100 mg twice daily with saquinavir 1000 mg twice daily provides saquinavir systemic exposure over 24 hours similar to or greater than those achieved with saquinavir 1200 mg three times daily without ritonavir. In a clinical study investigating the interaction of rifampicin 600 mg once daily and saquinavir 1000 mg with ritonavir 100 mg twice daily in healthy volunteers, severe hepatocellular toxicity with transaminase elevations up to > 20-fold the upper limit of normal after 1 to 5 days of co-administration was noted. Due to the risk of severe hepatoxicity, saquinavir/ritonavir should not be given together with rifampicin. For further information, physicians should refer to the Invirase or Fortovase Summary of Product Characteristics. |
 | Tipranavir | 500 q12h 200 q12h Tipranavir ↑ 11 fold ↑ 29 fold Ritonavir ↓ 40% ND Ritonavir increases the serum levels of tipranavir as a result of CYP3A inhibition. Tipranavir must be given with low dose ritonavir to ensure its therapeutic effect. Doses of ritonavir less than 200 mg twice daily should not be used with tipranavir as they might alter the efficacy of the combination. For further information, physicians should refer to the Aptivus Summary of Product Characteristics. |
 
-Co- Dose of Co- Dose of NORVIR (mg) Medicinal Product AUC Cmin
-administered administered Assessed
-
-Medicinal Medicinal Product
-
-Product (mg)
-Didanosine 200 q12h 600 q12h 2 h later Didanosine ↓ 13% ↔
-
-As ritonavir is recommended to be taken with food and didanosine should be taken on an empty stomach, dosing should be separated by 2.5 h. Dose alterations should not be necessary.
-
-Delavirdine 400 q8h 600 q12h Delavirdine1 ↔ ↔
-Ritonavir ↑ 50% ↑ 75%
-
-Based on comparison to historical data, the pharmacokinetics of delavirdine did not appear to be affected by ritonavir.
-When used in combination with delavirdine, dose reduction of ritonavir may be considered.
-
-Efavirenz 600 q24h 500 q12h Efavirenz ↑ 21%
-Ritonavir ↑ 17%
-
-A higher frequency of adverse reactions (eg, dizziness, nausea, paraesthesia) and laboratory abnormalities (elevated liver enzymes) have been observed when efavirenz is co-administered with ritonavir dosed as an antiretroviral agent.
-
-| Maraviroc | 100 q12h 100 q12h Maraviroc ↑ 161% ↑ 28% Ritonavir increases the serum levels of maraviroc as a result of CYP3A inhibition. Maraviroc may be given with ritonavir to increase the maraviroc exposure. For further information, refer to the Summary of Product Characteristics for Celsentri. |
+| Co-administered Medicinal Product | Dose of Co- Dose of NORVIR (mg) Medicinal AUC Cmin administered Product Medicinal Assessed Product (mg) |
 | --- | --- |
+| Didanosine | 200 q12h 600 q12h 2 h later Didanosine ↓ 13% ↔ As ritonavir is recommended to be taken with food and didanosine should be taken on an empty stomach, dosing should be separated by 2.5 h. Dose alterations should not be necessary. |
+| Delavirdine | 400 q8h 600 q12h Delavirdine1 ↔ ↔ Ritonavir ↑ 50% ↑ 75% Based on comparison to historical data, the pharmacokinetics of delavirdine did not appear to be affected by ritonavir. When used in combination with delavirdine, dose reduction of ritonavir may be considered. |
+| Efavirenz | 600 q24h 500 q12h Efavirenz ↑ 21% Ritonavir ↑ 17% A higher frequency of adverse reactions (eg, dizziness, nausea, paraesthesia) and laboratory abnormalities (elevated liver enzymes) have been observed when efavirenz is co-administered with ritonavir dosed as an antiretroviral agent. |
+| Maraviroc | 100 q12h 100 q12h Maraviroc ↑ 161% ↑ 28% Ritonavir increases the serum levels of maraviroc as a result of CYP3A inhibition. Maraviroc may be given with ritonavir to increase the maraviroc exposure. For further information, refer to the Summary of Product Characteristics for Celsentri. |
 | Nevirapine | 200 q12h 600 q12h Nevirapine ↔ ↔ Ritonavir ↔ ↔ Co-administration of ritonavir with nevirapine does not lead to clinically relevant changes in the pharmacokinetics of either nevirapine or ritonavir. |
+| Raltegravir | 400 single 100 q12h Raltegravir ↓ 16% ↓ 1% |
+|  | Co-adminsitration of ritonavir and raltegravir results in a minor reduction in raltegravir levels |
 | Zidovudine | 200 q8h 300 q6h Zidovudine ↓ 25% ND Ritonavir may induce the glucuronidation of zidovudine, resulting in slightly decreased levels of zidovudine. Dose alterations should not be necessary. |
 
 Dasatinib, nilotinib, vincristine, vinblastine Serum concentrations may be increased when co-administered with ritonavir resulting in the potential for increased incidence of adverse reactions.
@@ -586,48 +634,41 @@ Concomitant use of sildenafil for the treatment of erectile dysfunction, with ri
 | Atazanavir | 300 q24h 100 q24h Atazanavir ↑ 86% ↑ 11 fold Atazanavir1 ↑ 2 fold ↑ 3-7 fold Ritonavir increases the serum levels of atazanavir as a result of CYP3A4 inhibition. Clinical trials confirmed the safety and efficacy of 300 mg atazanavir once daily with ritonavir 100 mg once daily in treatment experienced patients. For further information, physicians should refer to the Reyataz Summary of Product Characteristics. |
 | Darunavir | 600, single 100 q12h Darunavir ↑ 14 fold Ritonavir increases the serum levels of darunavir as a result of CYP3A inhibition. Darunavir must be given with ritonavir to ensure its therapeutic effect. Ritonavir doses higher than 100 mg twice daily have not been studied with darunavir. For further information, refer to the Summary of Product Characteristics for Prezista. |
 | Fosamprenavir | 700 q12h 100 q12h Amprenavir ↑ 2.4 fold ↑ 11 fold Ritonavir increases the serum levels of amprenavir (from fosamprenavir) as a result of CYP3A4 inhibition. Fosamprenavir must be given with ritonavir to ensure its therapeutic effect. Clinical trials confirmed the safety and efficacy of fosamprenavir 700 mg twice daily with ritonavir 100 mg twice daily. Ritonavir doses higher than 100 mg twice daily have not been studied with fosamprenavir. For further information, physicians should refer to the Telzir Summary of Product Characteristics. |
-| Indinavir | 800 q12h 100 q12h Indinavir3 ↑ 178% ND Ritonavir ↑ 72% ND 400 q12h 400 q12h Indinavir3 ↔ ↑ 4 fold Ritonavir ↔ ↔ Ritonavir increases the serum levels of indinavir as a result of CYP3A4 inhibition. Appropriate doses for this combination, with respect to efficacy and safety, have not been established. Minimal benefit of ritonavir-mediated pharmacokinetic enhancement is achieved with doses higher than 100 mg twice daily. In cases of co-administration of ritonavir (100 mg twice daily) and indinavir (800 mg twice daily) caution is warranted as the risk of nephrolithiasis may be increased. |
-| Nelfinavir | 1250 q12h 100 q12h Nelfinavir ↑ 20to39% ND 750, single 500 q12h Nelfinavir ↑ 152% ND Ritonavir ↔ ↔ Ritonavir increases the serum levels of nelfinavir as a result of CYP3A4 inhibition. Appropriate doses for this combination, with respect to efficacy and safety, have not been established. Minimal benefit of ritonavir-mediated pharmacokinetic enhancement is achieved with doses higher than 100 mg twice daily. |
-| Saquinavir | 1000 q12h 100 q12h Saquinavir4 ↑ 15-fold ↑ 5-fold |
+| Indinavir | 800 q12h 100 q12h Indinavir3 ↑ 178% ND Ritonavir ↑ 72% ND 400 q12h 400 q12h Indinavir3 ↔ ↑ 4 fold Ritonavir ↔ ↔ Ritonavir increases the serum levels of indinavir as a result of CYP3A4 inhibition. Appropriate doses for this combination, with respect to efficacy and safety, have not been established. Minimal benefit of ritonavir-mediated pharmacokinetic enhancement is achieved with doses higher |
 
-Ritonavir ↔ ↔
-400 q12h 400 q12h Saquinavir4 ↑ 17-fold ND
+than 100 mg twice daily.
+In cases of co-administration of ritonavir (100 mg twice daily) and indinavir (800 mg twice daily) caution is warranted as the risk of nephrolithiasis may be increased.
 
-Ritonavir increases the serum levels of saquinavir as a result of CYP3A4 inhibition.
-Saquinavir should only be given in combination with ritonavir.
+Nelfinavir 1250 q12h 100 q12h Nelfinavir ↑ 20to39% ND
+750, single 500 q12h Nelfinavir ↑ 152% ND
+
+Ritonavir increases the serum levels of nelfinavir as a result of CYP3A4 inhibition.
+Appropriate doses for this combination, with respect to efficacy and safety, have not been established.
+Minimal benefit of ritonavir-mediated pharmacokinetic enhancement is achieved with doses higher than 100 mg twice daily.
+
+Saquinavir 1000 q12h 100 q12h Saquinavir4 ↑ 15-fold ↑ 5-fold
+
 Ritonavir100 mg twice daily with saquinavir 1000 mg twice daily provides saquinavir systemic exposure over 24 hours similar to or greater than those achieved with saquinavir 1200 mg three times daily without ritonavir.
 
-In a clinical study investigating the interaction of rifampicin 600 mg once daily and saquinavir 1000 mg with ritonavir 100 mg twice daily in healthy volunteers, severe hepatocellular toxicity with transaminase elevations up to > 20-fold the upper limit of normal after 1 to 5 days of co-administration was noted.
-Due to the risk of severe hepatoxicity, saquinavir/ritonavir should not be given together with rifampicin.
-
-For further information, physicians should refer to the Invirase or Fortovase Summary of Product Characteristics.
-
 Tipranavir 500 q12h 200 q12h Tipranavir ↑ 11 fold ↑ 29 fold
-Ritonavir ↓ 40% ND
-
-Ritonavir increases the serum levels of tipranavir as a result of CYP3A inhibition.
-Tipranavir must be given with low dose ritonavir to ensure its therapeutic effect.
-Doses of ritonavir less than 200 mg twice daily should not be used with tipranavir as they might alter the efficacy of the combination.
-For further information, physicians should refer to the Aptivus Summary of Product Characteristics.
 
 Co- Dose of Co- Dose of NORVIR Medicinal AUC Cmin
 administered administered (mg) Product
 Medicinal Medicinal Product Assessed
+Product (mg)
+Didanosine 200 q12h 600 q12h 2 h later Didanosine ↓ 13% ↔
+
+Ritonavir ↑ 50% ↑ 75%
+
+Based on comparison to historical data, the pharmacokinetics of delavirdine did not appear to be affected by ritonavir.
 
 Maraviroc 100 q12h 100 q12h Maraviroc ↑ 161% ↑ 28%
 
-Ritonavir increases the serum levels of maraviroc as a result of CYP3A inhibition.
-Maraviroc may be given with ritonavir to increase the maraviroc exposure.
-For further information, refer to the Summary of Product Characteristics for Celsentri.
-
-Nevirapine 200 q12h 600 q12h Nevirapine ↔ ↔
-
-Co-administration of ritonavir with nevirapine does not lead to clinically relevant changes in the pharmacokinetics of either nevirapine or ritonavir.
-
-Zidovudine 200 q8h 300 q6h Zidovudine ↓ 25% ND
-
-Ritonavir may induce the glucuronidation of zidovudine, resulting in slightly decreased levels of zidovudine.
-Dose alterations should not be necessary.
+| Nevirapine | 200 q12h 600 q12h Nevirapine ↔ ↔ Ritonavir ↔ ↔ Co-administration of ritonavir with nevirapine does not lead to clinically relevant changes in the pharmacokinetics of either nevirapine or ritonavir. |
+| --- | --- |
+| Raltegravir | 400 single 100 q12h Raltegravir ↓ 16% ↓ 1% |
+|  | Co-adminsitration of ritonavir and raltegravir results in a minor reduction in raltegravir levels |
+| Zidovudine | 200 q8h 300 q6h Zidovudine ↓ 25% ND Ritonavir may induce the glucuronidation of zidovudine, resulting in slightly decreased levels of zidovudine. Dose alterations should not be necessary. |
 
 Colchicine Concentrations of colchicine are expected to increase when
 

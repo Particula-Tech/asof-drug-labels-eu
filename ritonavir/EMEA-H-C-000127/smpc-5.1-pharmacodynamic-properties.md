@@ -32,11 +32,11 @@ Maximum PR interval was 252 msec and no second or third degree heart block was o
 Resistance
 
 Ritonavir-resistant isolates of HIV-1 have been selected in vitro and isolated from patients treated with therapeutic doses of ritonavir.
-
 Reduction in the antiretroviral activity of ritonavir is primarily associated with the protease mutations V82A/F/T/S and I84V.
 Accumulation of other mutations in the protease gene (including at positions 20, 33, 36, 46, 54, 71, and 90) can also contribute to ritonavir resistance.
 In general, as mutations associated with ritonavir resistance accumulate, susceptibility to select other PIs may decrease due to cross-resistance.
 The Summary of Product Characteristics of other protease inhibitors or official continuous updates should be consulted for specific information regarding protease mutations associated with reduced response to these agents.
+
 Clinical pharmacodynamic data
 
 The effects of ritonavir (alone or combined with other antiretroviral agents) on biological markers of disease activity such as CD4 cell count and viral RNA were evaluated in several studies involving HIV-1 infected patients.

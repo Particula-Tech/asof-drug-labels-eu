@@ -78,6 +78,7 @@ Events noted as having frequency not known were identified via post-marketing su
 |  | Uncommon | Increased neutrophils |
 | Immune system disorders | Common | Hypersensitivity including urticaria, and face edema |
 |  | Rare | Anaphylaxis |
+| System Order Class | Frequency | Adverse Reaction |
 | Metabolic and nutritional disorders | Common Uncommon | Hypercholesterolaemia, hypertriglyceridaemia, gout, lipodystrophy acquired, edema and peripheral edema, dehydration (usually associated with gastrointestinal symptoms) Diabetes mellitus |
 |  | Rare | Hyperglycaemia |
 | Nervous system disorders | Very common | Dysgeusia, oral and peripheral paresthesia, headache, dizziness, peripheral neuropathy |
@@ -86,7 +87,6 @@ Events noted as having frequency not known were identified via post-marketing su
 | Cardiac Disorders | Uncommon | Myocardial infarction |
 | Vascular disorders | Common | Hypertension, hypotension including orthostatic hypotension, peripheral coldness |
 | Respiratory, thoracic and mediastinal disorders | Very Common | Pharyngitis, oropharyngeal pain, cough |
-| System Order Class | Frequency | Adverse Reaction |
 | Gastrointestinal disorders | Very common | Abdominal pain (upper and lower), nausea, diarrhoea (including severe with electrolyte imbalance), vomiting, dyspepsia |
 |  | Common | Anorexia, flatulence, mouth ulcer, gastrointestinal haemorrhage, gastroesophageal reflux disease, pancreatitis |
 | Hepatobiliary disorders | Common | Hepatitis (including increased AST, ALT, GGT), blood bilirubin increased (including jaundice) |
@@ -95,6 +95,7 @@ Events noted as having frequency not known were identified via post-marketing su
 | Musculosketal and connective tissue disorders | Very Common | Arthralgia and back pain |
 |  | Common | Myositis, rhabdomyolysis, myalgia, myopathy/CPK increased |
 | Renal and urinary disorders | Common Uncommon | Increased urination, renal impairment (e.g. oliguria, elevated creatinine) Acute renal failure |
+| System Order Class | Frequency | Adverse Reaction |
 | Reproductive system and breast disorders | Common | Menorrhagia |
 | General disorders and administration site conditions | Very common | Fatigue, including asthenia, flushing, feeling hot |
 |  | Common | Fever, weight loss |

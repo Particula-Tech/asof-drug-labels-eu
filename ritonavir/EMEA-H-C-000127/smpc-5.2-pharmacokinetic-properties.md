@@ -7,6 +7,7 @@ Upon multiple dosing, ritonavir accumulation is slightly less than predicted fro
 Trough concentrations of ritonavir decrease over time, possibly due to enzyme induction, but appeared to stabilise by the end of 2 weeks.
 The time to maximum concentration (Tmax) remained constant at approximately 4 hours with increasing dose.
 Renal clearance averaged less than 0.1 l/h and was relatively constant throughout the dosage range.
+
 The pharmacokinetic parameters observed with various dosing schemes of ritonavir alone are shown in the table below.
 
 Ritonavir Dosing Regimen
@@ -50,10 +51,10 @@ Elimination:
 Human studies with radiolabelled ritonavir demonstrated that the elimination of ritonavir was primarily via the hepatobiliary system; approximately 86% of radiolabel was recovered from stool, part of which is expected to be unabsorbed ritonavir.
 In these studies renal elimination was not found to be a major route of elimination of ritonavir.
 This was consistent with the observations in animal studies.
-
 Special Populations: No clinically significant differences in AUC or Cmax were noted between males and females.
 Ritonavir pharmacokinetic parameters were not statistically significantly associated with body weight or lean body mass.
 Ritonavir plasma exposures in patients 50 – 70 years of age when dosed 100 mg in combination with lopinavir or at higher doses in the absence of other protease inhibitors is similar to that observed in younger adults.
+
 Patients with impaired liver function: After multiple dosing of ritonavir to healthy volunteers (500 mg twice daily) and subjects with mild to moderate hepatic impairment (Child Pugh Class A and B,
 400 mg twice daily) exposure to ritonavir after dose normalisation was not significantly different between the two groups.
 

@@ -3,7 +3,8 @@
 Each ml of oral solution contains 80 mg of ritonavir.
 
 Excipients:
-Alcohol (43% v/v)
+Alcohol (43,2 % v/v)
+Propylene glycol (26.0% v/v)
 Polyoxyl 35 Castor Oil
 Sunset Yellow (E110)
 
