@@ -1,7 +1,6 @@
 # 6.6 Special precautions for disposal and other handling
 
 Any unused product or waste material should be disposed of in accordance with local requirements.
-
 Extemporaneous formulation
 
 When Tamiflu powder for oral suspension is not available
@@ -43,6 +42,7 @@ Number of capsules and amount of vehicle needed to prepare the total volume of a
 |  | 75 mg | 45 mg | 30 mg |  |
 | 30 ml | 6 capsules (450 mg) | 10 capsules (450 mg) | 15 capsules (450 mg) | 29 ml |
 | 40 ml | 8 capsules (600 mg) | Please use alternative capsule strength* | 20 capsules (600 mg) | 38.5 ml |
+|  | 75 mg | 45 mg | 30 mg |  |
 | 50 ml | 10 capsules (750 mg) | Please use alternative capsule strength* | 25 capsules (750 mg) | 48 ml |
 | 60 ml | 12 capsules (900 mg) | 20 capsules (900 mg) | 30 capsules (900 mg) | 57 ml |
 
@@ -77,6 +77,7 @@ Place an appropriate expiration date label according to storage condition (see s
 
 Place a pharmacy label on the bottle that includes the patient’s name, dosing instructions, use by date, name of medicinal product and any other required information to be in compliance with local pharmacy regulations.
 Refer to the table below for the proper dosing instructions.
+
 Dosing chart for pharmacy-compounded 15 mg/ml suspension prepared from Tamiflu capsules for infants and children 1 year of age or older
 
 | Body weight (kg) | Dose (mg) | Volume per dose 15 mg/ml | Treatment dose (for 5 days) | Prophylaxis dose (for 10 days) |
@@ -90,7 +91,6 @@ Note: This compounding procedure results in a 15 mg/ml suspension, which is diff
 
 Dispense the pharmacy compounded suspension with a graduated oral syringe for measuring small amounts of suspension.
 If possible, mark or highlight the graduation corresponding to the appropriate dose (2 ml, 3 ml, 4 ml or 5 ml) on the oral syringe for each patient.
-
 The appropriate dose must be mixed by the caregiver with an equal quantity of sweet liquid food, such as sugar water, chocolate syrup, cherry syrup, dessert toppings (like caramel or fudge sauce) to mask the bitter taste.
 
 Pharmacy compounded 10 mg/ml suspension prepared from capsules
@@ -181,7 +181,6 @@ Dispense the pharmacy compounded suspension with a graduated oral syringe for me
 If possible, mark or highlight the graduation corresponding to the appropriate dose on the oral syringe for each patient.
 
 The appropriate dose must be mixed by the caregiver with an equal quantity of sweet liquid food, such as sugar water, chocolate syrup, cherry syrup, dessert toppings (like caramel or fudge sauce) to mask the bitter taste.
-
 Home preparation
 
 When commercially manufactured Tamiflu oral suspension is not available, a pharmacy compounded suspension prepared from Tamiflu capsules can be used (see detailed instructions above).
@@ -209,7 +208,6 @@ Detailed instructions can be found in the package leaflet of Tamiflu capsules un
 It is recommended that Tamiflu oral suspension should be reconstituted by the pharmacist prior to being dispensed to the patient.
 
 After reconstitution with 55 ml of water, the usable volume of oral suspension allows for the retrieval of a total of 10 doses of 30 mg oseltamivir.
-
 Preparation of oral suspension
 1.
 Tap the closed bottle gently several times to loosen the powder.
@@ -227,5 +225,6 @@ After reconstitution with 52 ml of water, the usable volume of oral suspension a
 
 Only the syringe included in the package with doses indicated in mg should be used.
 It cannot be replaced by a syringe with ml markings.
+
 Measure 52 ml of water by filling the measuring cup to the indicated level (measuring cup included in the box).
 Add all 52 ml of water into the bottle, recap the bottle and shake the closed bottle well for 15 seconds.

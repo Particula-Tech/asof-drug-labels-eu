@@ -18,6 +18,7 @@ Shelf life of 6 weeks at 2 °C - 8 °C.
 [Tamiflu 6 mg/ml powder for oral suspension]
 
 2 years
+
 After reconstitution, store below 25 °C for 10 days.
 
 [Tamiflu 12 mg/ml powder for oral suspension]

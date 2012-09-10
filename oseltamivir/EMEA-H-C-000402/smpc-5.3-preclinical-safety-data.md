@@ -3,6 +3,7 @@
 Preclinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated-dose toxicity and genotoxicity.
 Results of the conventional rodent carcinogenicity studies showed a trend towards a dose-dependent increase in the incidence of some tumours that are typical for the rodent strains used.
 Considering the margins of exposure in relation to the expected exposure in the human use, these findings do not change the benefit-risk of Tamiflu in its adopted therapeutic indications.
+
 Teratology studies have been conducted in rats and rabbits at doses of up to 1,500 mg/kg/day and 500 mg/kg/day, respectively.
 No effects on foetal development were observed.
 A rat fertility study up to a dose of 1,500 mg/kg/day demonstrated no adverse reactions on either sex.
