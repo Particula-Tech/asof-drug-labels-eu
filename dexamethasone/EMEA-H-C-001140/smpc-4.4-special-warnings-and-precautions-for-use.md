@@ -7,13 +7,13 @@ Monitoring may consist of a check for perfusion of the optic nerve head immediat
 
 Patients must be instructed to report any symptoms suggestive of endophthalmitis or any of the above mentioned events without delay (see section 4.8).
 
-Patients in whom the posterior capsule of the lens is absent or has a tear (e.g. occurring after cataract surgery) and/or have an iris defect (e.g. due to iridectomy) with or without a history of vitrectomy are at risk of implant migration into the anterior chamber.
-Ozurdex should be used with caution in these patients and only following a careful risk benefit assessment.
+All patients with posterior capsule tear, e.g. those with a posterior lens, and/or those who have an iris defect (e.g. due to iridectomy) with or without a history of vitrectomy, are at risk of implant migration into the anterior chamber.
+Other than those patients contraindicated (see section 4.3) where OZURDEX should not be used, OZURDEX should be used with caution and only following a careful risk benefit assessment.
 These patients should be closely monitored for any signs of implant migration.
 
 Use of corticosteroids may produce posterior subcapsular cataracts, glaucoma and may result in secondary ocular infections.
 
-After the first injection the incidence of cataract appears higher in patients with non-infectious uveitis of the posterior segment compared with BRVO/CRVO patients .
+After the first injection the incidence of cataract appears higher in patients with non-infectious uveitis of the posterior segment compared with BRVO/CRVO patients.
 In BRVO/CRVO clinical studies, cataract was reported more frequently in patients with phakic lens receiving a second injection (see section 4.8).
 Only 1 patient out of 368 required cataract surgery during the first treatment and 3 patients out of 302 during the second treatment.
 In the non-infectious uveitis study, 1 patient out of the 62 phakic patients underwent cataract surgery after a single injection.
@@ -32,12 +32,8 @@ Corticosteroids should be used cautiously in patients with a history of ocular h
 The safety and efficacy of OZURDEX administered to both eyes concurrently have not been studied.
 Therefore administration to both eyes concurrently is not recommended.
 
-OZURDEX has not been studied in aphakic patients.
-Therefore OZURDEX should be used with caution in these patients.
-
 OZURDEX has not been studied in patients with macular oedema secondary to RVO with significant retinal ischemia.
 Therefore OZURDEX is not recommended.
-
 Anti-coagulant therapy was used in 1.7% of patients receiving OZURDEX; there were no reports of hemorrhagic adverse events in these patients.
 Anti-platelet medicinal products, such as clopidogrel, were used at some stage during the clinical studies in over 40% of patients.
 In clinical trial patients receiving anti-platelet therapy, haemorrhagic adverse events were reported in a higher proportion of patients injected with OZURDEX (27%) compared with the control group (20%).

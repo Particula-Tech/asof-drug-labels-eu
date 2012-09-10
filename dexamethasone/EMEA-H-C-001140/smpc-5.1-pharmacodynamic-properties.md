@@ -48,7 +48,6 @@ The cumulative response rates were higher throughout the open label phase in tho
 
 The proportion of responders at each time point was always greater after the second treatment compared with the first treatment.
 Whereas, delaying treatment for 6 months results in a lower proportion of responders at all time points in the open label phase when compared with those receiving a second OZURDEX injection.
-
 Uveitis
 The clinical efficacy of OZURDEX has been assessed in a single, multicentre, masked, randomised study for the treatment of non-infectious ocular inflammation of the posterior segment in patients with uveitis.
 A total of 229 patients were randomised to receive dexamethasone 350 µg or 700 µg implants or sham.
