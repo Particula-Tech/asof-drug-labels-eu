@@ -15,7 +15,7 @@ Frequency estimate: Very common (≥ 1/10), Common (≥ 1/100 to < 1/10), Uncomm
 | Very common (≥1 /10) | Common (≥1 /100 to <1 /10) | Uncommon (≥1 /1000 to <1 /100) | Rare (≥1 /10,000 to <1 /1000) |
 | --- | --- | --- | --- |
 | Immune system disorders |  |  |  |
-|  |  | Hypersensitivity reactions |  |
+|  |  | Hypersensitivity reactions | Angioedema3 |
 | Nervous System disorders |  |  |  |
 | Headache | Dizziness |  | Stroke1 (including haemorrhagic events), Syncope, Transient ischaemic attacks1, Migraine3, Seizures, Transient amnesia |
 | Eye disorders |  |  |  |
@@ -27,9 +27,9 @@ Frequency estimate: Very common (≥ 1/10), Common (≥ 1/100 to < 1/10), Uncomm
 | Vascular disorders |  |  |  |
 |  | Flushing | Hypotension (more commonly reported when tadalafil is given to patients who are already taking antihypertensive agents), Hypertension |  |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |
-|  | Nasal congestion |  | Epistaxis |
+|  | Nasal congestion | Dyspnoea | Epistaxis |
 | Gastrointestinal disorders |  |  |  |
-|  | Dyspepsia, | Abdominal pain, Gastro-oesophageal reflux |  |
+|  | Dyspepsia, Gastro-oesophageal reflux | Abdominal pain |  |
 | Skin and subcutaneous tissue disorders |  |  |  |
 |  |  | Rash, Hyperhydrosis (sweating) | Urticaria, Stevens-Johnson syndrome3, Exfoliative dermatitis3, |
 | Musculoskeletal, connective tissue and bone disorders |  |  |  |
@@ -55,12 +55,11 @@ Not known (events not reported in registration trials cannot be estimated postma
 | Very common (≥1 /10) | Common (≥1 /100 to <1 /10) | Uncommon (≥1 /1000 to <1 /100) | Rare (≥1 /10,000 to <1 /1000) |
 | --- | --- | --- | --- |
 | Immune system disorders |  |  |  |
-|  |  | Hypersensitivity reactions |  |
+|  |  | Hypersensitivity reactions | Angioedema3 |
 | Nervous System disorders |  |  |  |
 | Headache | Dizziness |  | Stroke1 (including haemorrhagic events), Syncope, Transient ischaemic attacks1, Migraine3, Seizures, Transient amnesia |
 | Eye disorders |  |  |  |
-|  |  | Blurred vision, Sensations described as eye pain | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION) 3, |
-|  |  |  | Retinal vascular occlusion3 |
+|  |  | Blurred vision, Sensations described as eye pain | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION) 3, Retinal vascular occlusion3 |
 | Ear and labyrinth disorders |  |  |  |
 |  |  |  | Sudden hearing loss2 |
 | Cardiac disorders1 |  |  |  |
@@ -68,9 +67,9 @@ Not known (events not reported in registration trials cannot be estimated postma
 | Vascular disorders |  |  |  |
 |  | Flushing | Hypotension (more commonly reported when tadalafil is given to patients who are already taking antihypertensive agents), Hypertension |  |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |
-|  | Nasal congestion |  | Epistaxis |
+|  | Nasal congestion | Dyspnoea | Epistaxis |
 | Gastrointestinal disorders |  |  |  |
-|  | Dyspepsia | Abdominal pain, Gastro-oesophageal reflux |  |
+|  | Dyspepsia, Gastro-oesophageal reflux | Abdominal pain |  |
 | Skin and subcutaneous tissue disorders |  |  |  |
 |  |  | Rash, Hyperhydrosis (sweating) | Urticaria, Stevens-Johnson syndrome3, Exfoliative dermatitis3 |
 | Musculoskeletal, connective tissue and bone disorders |  |  |  |
@@ -89,7 +88,7 @@ Not known (events not reported in registration trials cannot be estimated from p
 | Very common (≥1 /10) | Common (≥1 /100 to <1 /10) | Uncommon (≥1 /1000 to <1 /100) | Rare (≥1 /10,000 to <1 /1000) |
 | --- | --- | --- | --- |
 | Immune system disorders |  |  |  |
-|  |  | Hypersensitivity reactions |  |
+|  |  | Hypersensitivity reactions | Angioedema3 |
 | Nervous System disorders |  |  |  |
 | Headache | Dizziness |  | Stroke1 (including haemorrhagic events), Syncope, Transient ischaemic attacks1, Migraine3, Seizures, Transient amnesia |
 | Eye disorders |  |  |  |
@@ -101,9 +100,9 @@ Not known (events not reported in registration trials cannot be estimated from p
 | Vascular disorders |  |  |  |
 |  | Flushing | Hypotension (more commonly reported when tadalafil is given to patients who are already taking antihypertensive agents), Hypertension |  |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |
-|  | Nasal congestion |  | Epistaxis |
+|  | Nasal congestion | Dyspnoea | Epistaxis |
 | Gastrointestinal disorders |  |  |  |
-|  | Dyspepsia | Abdominal pain, Gastro-oesophageal reflux |  |
+|  | Dyspepsia, Gastro-oesophageal reflux | Abdominal pain |  |
 | Skin and subcutaneous tissue disorders |  |  |  |
 |  |  | Rash, Hyperhydrosis (sweating) | Urticaria, Stevens-Johnson syndrome3, Exfoliative dermatitis3 |
 | Musculoskeletal, connective tissue and bone disorders |  |  |  |
@@ -119,30 +118,3 @@ The most commonly reported adverse reactions are headache and dyspepsia.
 
 Frequency estimate: Very common (≥ 1/10), Common (≥ 1/100 to < 1/10), Uncommon (≥ 1/1000 to
 < 1/100), Rare (≥ 1/10,000 to < 1/1000), Very Rare (< 1/10,000) and
-
-| Very common (≥1 /10) | Common (≥1 /100 to <1 /10) | Uncommon (≥1 /1000 to <1 /100) | Rare (≥1 /10,000 to <1 /1000) |
-| --- | --- | --- | --- |
-| Immune system disorders |  |  |  |
-|  |  | Hypersensitivity reactions |  |
-| Nervous System disorders |  |  |  |
-| Headache | Dizziness |  | Stroke1 (including haemorrhagic events), Syncope, Transient ischaemic attacks1, Migraine3, Seizures, Transient amnesia |
-| Eye disorders |  |  |  |
-|  |  | Blurred vision, Sensations described as eye pain | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION) 3, Retinal vascular occlusion3 |
-| Ear and labyrinth disorders |  |  |  |
-|  |  |  | Sudden hearing loss2 |
-| Cardiac disorders1 |  |  |  |
-|  |  | Tachycardia, Palpitations | Myocardial infarction, Unstable angina pectoris3, Ventricular arrhythmia3 |
-| Vascular disorders |  |  |  |
-|  | Flushing | Hypotension (more commonly reported when tadalafil is given to patients who are already taking antihypertensive agents), Hypertension |  |
-| Respiratory, thoracic and mediastinal disorders |  |  |  |
-|  | Nasal congestion |  | Epistaxis |
-| Gastrointestinal disorders |  |  |  |
-|  | Dyspepsia | Abdominal pain, Gastro-oesophageal reflux |  |
-| Skin and subcutaneous tissue disorders |  |  |  |
-|  |  | Rash, Hyperhydrosis (sweating) | Urticaria, Stevens-Johnson syndrome3, Exfoliative dermatitis3 |
-| Musculoskeletal, connective tissue and bone disorders |  |  |  |
-|  | Back pain, Myalgia |  |  |
-| Reproductive system and breast disorders |  |  |  |
-|  |  |  | Prolonged erections, Priapism3 |
-| General disorders and administration site conditions |  |  |  |
-|  |  | Chest pain1 | Facial oedema3, Sudden cardiac death1,3 |

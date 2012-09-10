@@ -44,6 +44,7 @@ Hepatic insufficiency
 Tadalafil exposure (AUC) in subjects with mild and moderate hepatic impairment (Child-Pugh Class A and B) is comparable to exposure in healthy subjects when a dose of 10 mg is administered.
 There is limited clinical data on the safety of CIALIS in patients with severe hepatic insufficiency (Child-Pugh Class C). There are no available data about the administration of once-a-day dosing of tadalafil to patients with hepatic impairment.
 If CIALIS is prescribed once-a-day, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician.
+
 Patients with diabetes
 Tadalafil exposure (AUC) in patients with diabetes was approximately 19 % lower than the AUC value for healthy subjects.
 This difference in exposure does not warrant a dose adjustment.
