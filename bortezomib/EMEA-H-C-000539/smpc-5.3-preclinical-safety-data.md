@@ -2,7 +2,8 @@
 
 Bortezomib was positive for clastogenic activity (structural chromosomal aberrations) in the in vitro chromosomal aberration assay using Chinese hamster ovary (CHO) cells at concentrations as low as 3.125 μg/ml, which was the lowest concentration evaluated.
 Bortezomib was not genotoxic when tested in the in vitro mutagenicity assay (Ames assay) and in vivo micronucleus assay in mice.
-Developmental toxicity studies in the rat and rabbit have shown embryo-fetal lethality at maternally toxic dosages, but no direct embryo-foetal toxicity below maternally toxic dosages.
+
+Developmental toxicity studies in the rat and rabbit have shown embryo-fetal lethality at maternally toxic doses, but no direct embryo-foetal toxicity below maternally toxic doses.
 Fertility studies were not performed but evaluation of reproductive tissues has been performed in the general toxicity studies.
 In the 6-month rat study, degenerative effects in both the testes and the ovary have been observed.
 It is, therefore, likely that bortezomib could have a potential effect on either male or female fertility.

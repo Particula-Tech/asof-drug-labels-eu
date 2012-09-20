@@ -11,10 +11,16 @@ In a drug-drug interaction study assessing the effect of omeprazole, a potent CY
 A drug-drug interaction study assessing the effect of rifampicin, a potent CYP3A4 inducer, on bortezomib, showed a mean bortezomib AUC reduction of 45% based on data from 6 patients.
 Therefore, the concomitant use of bortezomib with strong CYP3A4 inducers (e.g., rifampicin, carbamazepine, phenytoin, phenobarbital and St. John’s Wort) is not recommended, as efficacy may be reduced.
 
-In the same drug-drug interaction study assessing the effect of dexamethasone, a weaker CYP3A4 inducer, on bortezomib, there was no significant effect on the pharmacokinetics of bortezomib based on data from 7 patients.
+In the same drug-drug interaction study assessing the effect of dexamethasone, a weaker CYP3A4 inducer, on bortezomib (injected intravenously), there was no significant effect on the pharmacokinetics of bortezomib based on data from 7 patients.
 
-A drug-drug interaction study assessing the effect of melphalan-prednisone on bortezomib showed a mean bortezomib AUC increase of 17% based on data from 21 patients.
+A drug-drug interaction study assessing the effect of melphalan-prednisone on bortezomib (injected intravenously) showed a mean bortezomib AUC increase of 17% based on data from 21 patients.
 This is not considered clinically relevant.
 
 During clinical trials, hypoglycemia and hyperglycemia were uncommonly and commonly reported in diabetic patients receiving oral hypoglycemics.
 Patients on oral antidiabetic agents receiving VELCADE treatment may require close monitoring of their blood glucose levels and adjustment of the dose of their antidiabetics.
+
+[VELCADE 3.5 mg powder for solution for injection]
+
+A drug-drug interaction study assessing the effect of ketoconazole, a potent CYP3A4 inhibitor, on bortezomib showed a mean bortezomib AUC increase of 35% (CI90% [1.032 to 1.772]) based on data from 12 patients.
+
+In the same drug-drug interaction study assessing the effect of dexamethasone, a weaker CYP3A4 inducer, on bortezomib, (injected intravenously), there was no significant effect on the pharmacokinetics of bortezomib based on data from 7 patients.

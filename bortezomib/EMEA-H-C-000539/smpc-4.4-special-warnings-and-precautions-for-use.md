@@ -1,5 +1,10 @@
 # 4.4 Special warnings and precautions for use
 
+Intrathecal administration
+There have been fatal cases of inadvertent intrathecal administration of VELCADE.
+VELCADE 1 mg is for intravenous use only, while VELCADE 3.5 mg is for intravenous or subcutaneous use.
+VELCADE should not be administered intrathecally.
+
 Gastrointestinal toxicity
 Gastrointestinal toxicity, including nausea, diarrhoea, vomiting and constipation are very common with VELCADE treatment.
 Cases of ileus have been uncommonly reported (see section 4.8).
@@ -7,7 +12,7 @@ Therefore, patients who experience constipation should be closely monitored.
 
 Haematological toxicity
 VELCADE treatment is very commonly associated with haematological toxicities (thrombocytopenia, neutropenia and anaemia).
-The most common haematologic toxicity is transient thrombocytopenia.
+In the Phase III study evaluating VELCADE (injected intravenously) versus dexamethasone the most common haematologic toxicity was transient thrombocytopenia.
 In a Phase II study, platelets were lowest at Day 11 of each cycle of VELCADE treatment.
 There was no evidence of cumulative thrombocytopenia, including in the Phase II extension study.
 The mean platelet count nadir measured was approximately 40% of baseline.
@@ -16,7 +21,11 @@ Platelet counts should be monitored prior to each dose of VELCADE.
 VELCADE therapy should be withheld when the platelet count is <25,000/μl or in combination with melphalan and prednisone when the platelet count is ≤ 30,000/μl and re-initiated at a reduced dose after resolution (see section 4.2).
 Potential benefit of the treatment should be carefully weighed against the risks, particularly in case of moderate to severe thrombocytopenia and risk factors for bleeding.
 
-Therefore, complete blood counts (CBC) including platelet counts should be frequently monitored throughout treatment with VELCADE.
+Therefore, complete blood counts (CBC) with differential and including platelet counts should be frequently monitored throughout treatment with VELCADE.
+
+Herpes zoster virus reactivation
+Antiviral prophylaxis should be considered in patients being treated with VELCADE.
+In the Phase III study in patients with previously untreated multiple myeloma, the overall incidence of herpes zoster reactivation was more common in patients treated with VELCADE+Melphalan+Prednisone compared with Melphalan+Prednisone (14% versus 4% respectively).
 
 Peripheral neuropathy
 Treatment with VELCADE is very commonly associated with peripheral neuropathy, which is predominantly sensory.
@@ -24,10 +33,10 @@ However, cases of severe motor neuropathy with or without sensory peripheral neu
 The incidence of peripheral neuropathy increases early in the treatment and has been observed to peak during cycle 5.
 
 It is recommended that patients be carefully monitored for symptoms of neuropathy such as a burning sensation, hyperesthesia, hypoesthesia, paraesthesia, discomfort, neuropathic pain or weakness.
-Patients experiencing new or worsening peripheral neuropathy should undergo neurological evaluation and may require the dose and schedule of VELCADE to be modified (see section 4.2).
-In the single-agent Phase III multiple myeloma study neuropathy has been managed with supportive care and other therapies and improvement was reported in 51% of patients with ≥ Grade 2 peripheral neuropathy.
-Resolution occurred in 71% of patients with grade 3 or 4 peripheral neuropathy or peripheral neuropathy leading to discontinuation of treatment in Phase II studies.
 
+Patients experiencing new or worsening peripheral neuropathy should undergo neurological evaluation and may require a change in the dose or schedule, or a change to the subcutaneous route of administration (using the VELCADE 3.5 mg presentation) (see section 4.2).
+In the Phase III study comparing VELCADE (injected intravenously) versus dexamethasone neuropathy has been managed with supportive care and other therapies and improvement was reported in 51% of patients with ≥ Grade 2 peripheral neuropathy.
+Resolution occurred in 71% of patients with grade 3 or 4 peripheral neuropathy or peripheral neuropathy leading to discontinuation of treatment in VELCADE (injected intravenously) Phase II studies.
 In addition to peripheral neuropathy, there may be a contribution of autonomic neuropathy to some adverse reactions such as postural hypotension and severe constipation with ileus.
 Information on autonomic neuropathy and its contribution to these undesirable effects is limited.
 
@@ -38,7 +47,7 @@ Special care is required when treating patients with any risk factors for seizur
 Hypotension
 VELCADE treatment is commonly associated with orthostatic/postural hypotension.
 Most undesirable effects are mild to moderate in nature and are observed throughout treatment.
-Patients developing orthostatic hypotension on VELCADE did not have evidence of orthostatic hypotension prior to treatment with VELCADE.
+Patients who developed orthostatic hypotension on VELCADE (injected intravenously) did not have evidence of orthostatic hypotension prior to treatment with VELCADE.
 Most patients required treatment for their orthostatic hypotension.
 A minority of patients with orthostatic hypotension experienced syncopal events.
 Orthostatic/postural hypotension was not acutely related to bolus infusion of VELCADE.
@@ -48,19 +57,19 @@ Caution is advised when treating patients with a history of syncope receiving me
 Management of orthostatic/postural hypotension may include adjustment of antihypertensive medicinal products, rehydration or administration of mineralocorticosteroids and/or sympathomimetics.
 Patients should be instructed to seek medical advice if they experience symptoms of dizziness, light-headedness or fainting spells.
 
-Reversible Posterior Leukoencephalopathy Syndrome (RPLS)
-There have been reports of RPLS in patients receiving VELCADE.
-RPLS is a rare, reversible, rapidly evolving neurological condition, which can present with seizure, hypertension, headache, lethargy, confusion, blindness, and other visual and neurological disturbances.
-Brain imaging, preferably MRI (Magnetic Resonance Imaging), is used to confirm the diagnosis.
-In patients developing RPLS, discontinue VELCADE.
-The safety of reinitiating VELCADE therapy in patients previously experiencing RPLS is not known.
+Posterior Reversible Encephalopathy Syndrome (PRES)
+There have been reports of PRES in patients receiving VELCADE.
+PRES is a rare, often reversible, rapidly evolving neurological condition, which can present with seizure, hypertension, headache, lethargy, confusion, blindness, and other visual and neurological disturbances.
+Brain imaging, preferably Magnetic Resonance Imaging (MRI), is used to confirm the diagnosis.
+In patients developing PRES, VELCADE should be discontinued.
+
 Heart failure
 Acute development or exacerbation of congestive heart failure, and/or new onset of decreased left ventricular ejection fraction has been reported during bortezomib treatment.
-In a single agent Phase III randomised, comparative study the incidence of heart failure in the VELCADE group was similar to that in the dexamethasone group.
+In the Phase III randomised, comparative study the incidence of heart failure in the VELCADE (injected intravenously) group was similar to that in the dexamethasone group.
 Fluid retention may be a predisposing factor for signs and symptoms of heart failure.
 Patients with risk factors for or existing heart disease should be closely monitored.
 
-ECG investigations
+Electrocardiogram investigations
 There have been isolated cases of QT-interval prolongation in clinical studies, causality has not been established.
 
 Pulmonary disorders
@@ -83,10 +92,9 @@ Bortezomib is metabolized by liver enzymes.
 Bortezomib exposure is increased in patients with moderate or severe hepatic impairment; these patients should be treated with VELCADE at reduced doses and closely monitored for toxicities (see sections 4.2 and 5.2).
 
 Hepatic reactions
-Rare cases of hepatic failure have been reported in patients receiving VELCADE and multiple concomitant medications and with serious underlying medical conditions.
+Rare cases of hepatic failure have been reported in patients receiving VELCADE and multiple concomitant medicinal products and with serious underlying medical conditions.
 Other reported hepatic reactions include increases in liver enzymes, hyperbilirubinaemia, and hepatitis.
 Such changes may be reversible upon discontinuation of bortezomib (see section 4.8).
-
 Tumour lysis syndrome
 Because bortezomib is a cytotoxic agent and can rapidly kill malignant plasma cells, the complications of tumour lysis syndrome may occur.
 The patients at risk of tumour lysis syndrome are those with high tumour burden prior to treatment.
@@ -97,10 +105,16 @@ Patients should be closely monitored when given bortezomib in combination with p
 Caution should be exercised when bortezomib is combined with CYP3A4- or CYP2C19 substrates (see section 4.5).
 
 Normal liver function should be confirmed and caution should be exercised in patients receiving oral hypoglycemics (see section 4.5).
+
 Potentially immunocomplex-mediated reactions
 Potentially immunocomplex-mediated reactions, such as serum-sickness-type reaction, polyarthritis with rash and proliferative glomerulonephritis have been reported uncommonly.
 Bortezomib should be discontinued if serious reactions occur.
 
 [VELCADE 3.5 mg powder for solution for injection]
 
-In a single-agent Phase III randomised, comparative study the incidence of heart failure in the VELCADE group was similar to that in the dexamethasone group.
+In the Phase III study evaluating VELCADE (injected intravenously) versus dexamethasone, the most common haematologic toxicity was transient thrombocytopenia.
+
+In the Phase III study comparing VELCADE administered intravenously versus subcutaneously, the incidence of Grade ≥2 peripheral neuropathy events was 24% for the subcutaneous injection group and 41% for the intravenous injection group (p=0.0124).
+Grade ≥3 peripheral neuropathy occurred in 6% of patients in the subcutaneous treatment group, compared with 16% in the intravenous treatment group (p=0.0264).
+The incidence of all grade peripheral neuropathy with VELCADE administered intravenously was lower in the historical studies with VELCADE administered intravenously than in study MMY-3021.
+Patients experiencing new or worsening peripheral neuropathy should undergo neurological evaluation and may require a change in the dose, schedule or route of administration to subcutaneous (see section 4.2).

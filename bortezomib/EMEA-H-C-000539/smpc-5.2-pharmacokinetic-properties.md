@@ -1,15 +1,16 @@
 # 5.2 Pharmacokinetic properties
 
+Absorption
 Following intravenous bolus administration of a 1.0 mg/m2 and 1.3 mg/m2 dose to 11 patients with multiple myeloma and creatinine clearance values greater than 50 ml/min, the mean first-dose maximum plasma concentrations of bortezomib were 57 and 112 ng/ml, respectively.
 In subsequent doses, mean maximum observed plasma concentrations ranged from 67 to 106 ng/ml for the 1.0 mg/m2 dose and 89 to 120 ng/ml for the 1.3 mg/m2 dose.
 
 Distribution
-The mean distribution volume (Vd) of bortezomib ranged from 1659 l to 3294 l following single- or repeated-dose administration of 1.0 mg/m2 or 1.3 mg/m2 to patients with multiple myeloma.
+The mean distribution volume (Vd) of bortezomib ranged from 1659 l to 3294 l following single- or repeated-dose intravenous administration of 1.0 mg/m2 or 1.3 mg/m2 to patients with multiple myeloma.
 This suggests that bortezomib distributes widely to peripheral tissues.
 Over a bortezomib concentration range of 0.01 to 1.0 μg/ml, the in vitro protein binding averaged 82.9% in human plasma.
 The fraction of bortezomib bound to plasma proteins was not concentration-dependent.
 
-Metabolism
+Biotransformation
 In vitro studies with human liver microsomes and human cDNA-expressed cytochrome P450 isozymes indicate that bortezomib is primarily oxidatively metabolized via cytochrome P450 enzymes, 3A4, 2C19, and 1A2.
 The major metabolic pathway is deboronation to form two deboronated metabolites that subsequently undergo hydroxylation to several metabolites.
 Deboronated-bortezomib metabolites are inactive as 26S proteasome inhibitors.
@@ -32,3 +33,9 @@ A pharmacokinetic study was conducted in patients with various degrees of renal 
 A group of dialysis patients who were dosed after dialysis was also included in the study (n = 8).
 Patients were administered intravenous doses of 0.7 to 1.3 mg/m2 of VELCADE twice weekly.
 Exposure of VELCADE (dose-normalized AUC and Cmax) was comparable among all the groups (see section 4.2).
+
+[VELCADE 3.5 mg powder for solution for injection]
+
+Following an intravenous bolus or subcutaneous injection of a 1.3 mg/m2 dose to patients with multiple myeloma (n=14 in the intravenous group, n=17 in the subcutaneous group), the total systemic exposure after repeat dose administration (AUClast) was equivalent for subcutaneous and intravenous administrations.
+The Cmax after subcutaneous administration (20.4 ng/ml) was lower than intravenous (223 ng/ml).
+The AUClast geometric mean ratio was 0.99 and 90% confidence intervals were 80.18% - 122.80%.

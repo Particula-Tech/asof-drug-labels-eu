@@ -1,179 +1,204 @@
 # 4.8 Undesirable effects
 
+Summary of the safety profile
+
 The most commonly reported adverse reactions during treatment with VELCADE are nausea, diarrhoea, constipation, vomiting, fatigue, pyrexia, thrombocytopenia, anaemia, neutropenia, peripheral neuropathy (including sensory), headache, paraesthesia, decreased appetite, dyspnoea, rash, herpes zoster and myalgia.
-Serious adverse reactions uncommonly reported during treatment with VELCADE include cardiac failure, tumour lysis syndrome, pulmonary hypertension, reversible posterior leukoencephalopathy syndrome (RPLS), acute diffuse infiltrative pulmonary disorders and rarely autonomic neuropathy.
+Serious adverse reactions uncommonly reported during treatment with VELCADE include cardiac failure, tumour lysis syndrome, pulmonary hypertension, PRES, acute diffuse infiltrative pulmonary disorders and rarely autonomic neuropathy.
+Tabulated summary of adverse reactions
 
-The following undesirable effects in Table 5 were considered by the investigators to have at least a possible or probable causal relationship to VELCADE during the conduct of 5 non-comparative Phase II studies and 1 comparative Phase III trial (VELCADE vs. dexamethasone) in 663 patients with relapsed or refractory multiple myeloma, of whom 331 received VELCADE as single agent.
-The safety database comprises data from patients with multiple myeloma or B-cell lymphocytic leukemia (CLL).
-In addition, Table 5 contains adverse reactions from post-marketing reports* with frequency categorization estimated from safety data comprising 2017 patients from clinical trials (including the patients from the 6 studies described above).
-These patients were from company-sponsored trials with VELCADE studied at 1.3 mg/m2 as single chemotherapeutic agent or in combination with dexamethasone for multiple myeloma (1995 patients), or for B cell chronic lymphocytic leukemia (22 patients).
+Undesirable effects in Table 5 were considered by the investigators to have at least a possible or probable causal relationship to VELCADE.
+These adverse reactions are based on an integrated data set of 3,628 patients of whom 2,606 were treated with VELCADE at 1.3 mg/m2.
+These 2,606 patients include:
 
+- 2,068 multiple myeloma patients who received VELCADE as a single agent intravenously
+- 369 multiple myeloma patients who received VELCADE in combination with melphalan and prednisone intravenously
+- 147 multiple myeloma patients who received VELCADE as a single agent subcutaneously
+- 22 B-cell chronic lymphocytic leukaemia (CLL) patients who received VELCADE as a single agent intravenously
+
+Overall, VELCADE was administered for the treatment of multiple myeloma in 2,584 patients.
 Adverse reactions are listed below by system organ class and frequency grouping.
 Frequencies are defined as: Very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000), not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
-Table 5: Adverse reactions in patients with relapsed/refractory multiple myeloma
-Infections and infestations
-Very common: herpes zoster (including disseminated).
-Common: pneumonia, bronchitis, sinusitis, nasopharyngitis, herpes simplex.
-Uncommon: septic shock*, sepsis, herpes meningoencephalitis*, bacteraemia, pneumonia pneumococcal, bronchopneumonia, upper and lower respiratory tract infection, catheter related infection, pleural infection, haemophilus infection, cytomegalovirus infection, influenza, infectious mononucleosis, varicella, urinary tract infection, gastroenteritis, candidal infection, fungal infection, post herpetic neuralgia, oral candidiasis, blepharitis, infection.
+Table 5 has been generated using Version 13.1 of the MedDRA.
+Postmarketing adverse reactions not seen in clinical trials are also included.
 
-Neoplasms benign and malignant (including cysts and polyps)
-Uncommon: tumour lysis syndrome (see section 4.4).
+Table 5: Adverse reactions in patients treated with VELCADE as single agent or in combination
 
-Blood and lymphatic system disorders (see section 4.4)
-Very common: thrombocytopenia, neutropenia, anaemia.
-Common: leukopenia, lymphopenia.
-Uncommon: pancytopenia, febrile neutropenia, haemolytic anaemia, thrombocytopenic purpura, lymphadenopathy.
+| System Organ | Incidence |  |
+| --- | --- | --- |
+| Class |  | Adverse reaction |
+| Infections and infestations | Common | Herpes zoster (inc disseminated & ophthalmic), Pneumonia*, Infection*, Herpes simplex*, Fungal infection* |
+|  | Uncommon | Sepsis*, Bronchopneumonia, Herpes virus infection*, Bacteraemia (inc staphylococcal), Hordeolum, Influenza, Cellulitis, Device related infection, Skin infection*, Ear infection*, Tooth infection* |
+|  | Rare | Meningitis (inc bacterial), Epstein-Barr virus infection, Erysipelas, Genital herpes, Staphylococcal infection, Tonsillitis, Varicella, Mastoiditis, Post viral fatigue syndrome |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Uncommon | Neoplasm malignant |
+|  | Rare | Leukaemia plasmacytic, Renal cell carcinoma, Mass, Mycosis fungoides, Neoplasm benign |
+| Blood and lymphatic system disorders | Very Common | Thrombocytopenia*, Neutropenia*, Anaemia*, Leukopenia* |
+|  | Common | Lymphopenia* |
+|  | Uncommon | Pancytopenia*, Febrile neutropenia, Coagulopathy*, Leukocytosis*, Lymphadenopathy |
+|  | Rare | Hyperviscosity syndrome, Thrombocytopenic purpura*, Blood disorder NOS, Haemorrhagic diathesis, Lymphocytic infiltration |
+| Immune system disorders | Uncommon | Hypersensitivity* |
+|  | Rare | Anaphylactic shock, Type III immune complex mediated reaction |
+| Endocrine disorders | Uncommon | Hyperthyroidism*, Inappropriate antidiuretic hormone secretion |
+|  | Rare | Cushing's syndrome*, Hypothyroidism |
+| Metabolism and nutrition disorders | Very Common | Decreased appetite |
+|  | Common | Electrolyte imbalance*, Dehydration, Enzyme abnormality*, Hyperuricaemia* |
+|  | Uncommon | Tumour lysis syndrome, Failure to thrive*, Hypoglycaemia*, Hyperglycaemia, Hypoproteinaemia*, Fluid retention, Hypovolaemia |
+|  | Rare | Acidosis, Fluid overload, Hypochloraemia*, Diabetes mellitus*, Hyperproteinaemia*, Hypouricaemia*, Metabolic disorder, Vitamin B complex deficiency, Vitamin B12 deficiency, Gout, Hyperammonaemia*, Increased appetite, Alcohol intolerance |
+| Class |  | Adverse reaction |
+| Psychiatric disorders | Common | Mood altered*, Anxiety disorder*, Sleep disorder* |
+|  | Uncommon | Mental disorder*, Hallucination*, Confusion*, Restlessness |
+|  | Rare | Suicidal ideation*, Psychotic disorder*, Abnormal dreams, Adjustment disorder, Delirium, Libido decreased |
+| Nervous system disorders | Very Common | Neuropathy peripheral*, Peripheral sensory neuropathy, Dysaesthesia*, Neuralgia*, Headache* |
+|  | Common | Peripheral motor neuropathy, Loss of consciousness (inc syncope), Dizziness*, Dysgeusia*, Lethargy |
+|  | Uncommon | Haemorrhage intracranial*, Tremor, Peripheral sensorimotor neuropathy, Ataxia*, Dyskinesia*, Memory impairment*, Encephalopathy*, Balance disorder, Neurotoxicity, Presyncope, Post herpetic neuralgia, Speech disorder*, Restless legs syndrome, Migraine, Sciatica, Disturbance in attention, Reflexes abnormal*, Parosmia |
+|  | Rare | Brain oedema, Cerebral haemorrhage, Transient ischaemic attack, Autonomic nervous system imbalance, Autonomic neuropathy, Convulsion, Cranial palsy*, Paralysis*, Paresis*, Brain stem syndrome, Cerebrovascular disorder, Nerve root lesion, Psychomotor hyperactivity, Spinal cord compression, Cognitive disorder NOS, Motor dysfunction, Nervous system disorder NOS, Radiculitis, Drooling, Hypotonia |
+| Eye disorders | Common | Eye swelling*, Vision abnormal*, Conjunctivitis*, Dry eye* |
+|  | Uncommon | Eye haemorrhage*, Eyelid infection*, Eye inflammation*, Ocular hyperaemia, Diplopia, Eye irritation*, Eye pain, Lacrimation increased, Eye discharge |
+|  | Rare | Corneal lesion*, Exophthalmos, Retinitis, Scotoma, Eye disorder (inc. eyelid) NOS, Dacryoadenitis acquired, Photophobia, Photopsia, Optic neuropathy#, Different degrees of visual impairment (up to blindness)* |
+| Ear and labyrinth disorders | Common | Vertigo* |
+|  | Uncommon | Hearing impaired (up to and inc. deafness), Dysacusis*, Tinnitus*, Ear discomfort* |
+|  | Rare | Ear haemorrhage, Ear disorder NOS |
+| Cardiac disorders | Common | Cardiac failure*, Tachycardia* |
+|  | Uncommon | Cardio-pulmonary arrest*, Cardiac fibrillation (inc atrial), Arrhythmia*, Palpitations, Angina pectoris, Pericarditis*, Cardiomyopathy*, Ventricular dysfunction*, Bradycardia |
+|  | Rare | Atrial flutter, Myocardial infarction*, Atrioventricular block*, Cardiovascular disorder (inc cardiogenic shock), Torsade de pointes, Angina unstable, Coronary artery insufficiency, Left ventricular failure, Mitral valve incompetence, Sinus arrest |
+| Vascular disorders | Common | Hypotension*, Orthostatic hypotension, Hypertension* |
+| Class |  | Adverse reaction |
+|  | Uncommon | Deep vein thrombosis*, Haemorrhage*, Thrombophlebitis (inc superficial), Circulatory collapse (inc hypovolaemic shock), Phlebitis, Flushing, Haematoma*, Poor peripheral circulation*, Hot flush, Vasculitis, Pallor |
+|  | Rare | Peripheral embolism, Lymphoedema, Erythromelalgia, Vasodilatation, Vein discolouration, Venous insufficiency |
+| Respiratory, thoracic and mediastinal disorders | Common | Dyspnoea*, Epistaxis, Upper/lower respiratory tract infection*, Cough* |
+|  | Uncommon | Pulmonary embolism, Pleural effusion, Pulmonary oedema (inc acute), Bronchospasm, Chronic obstructive pulmonary disease*, Hypoxaemia*, Pulmonary hypertension, Respiratory tract congestion*, Hypoxia, Pleurisy*, Pulmonary fibrosis, Hiccups, Rhinorrhoea, Dysphonia, Wheezing |
+|  | Rare | Respiratory failure, Acute respiratory distress syndrome, Apnoea, Pneumothorax, Atelectasis, Haemoptysis, Hyperventilation, Orthopnoea, Pneumonitis, Respiratory alkalosis, Tachypnoea, Hypocapnia*, Interstitial lung disease, Lung infiltration, Throat tightness, Dry throat, Bronchial hyperreactivity, Increased upper airway secretion, Throat irritation |
+| Gastrointestinal disorders | Very Common | Vomiting, Diarrhoea*, Nausea, Constipation, Abdominal pain (inc gastrointestinal pain)* |
+|  | Common | Gastrointestinal haemorrhage (inc mucosal)*, Dyspepsia, Stomatitis*, Abdominal distension, Oropharyngeal pain*, Abdominal discomfort, Oral disorder*, Flatulence |
+|  | Uncommon | Pancreatitis (inc chronic), Haematemesis, Lip swelling*, Oral ulceration*, Ileus*, Enteritis*, Gastritis*, Gingival bleeding, Gastrooesophageal reflux disease*, Gastrointestinal inflammation*, Dysphagia, Irritable bowel syndrome, Oesophagitis, Gastrointestinal disorder NOS, Retching, Gastrointestinal motility disorder*, Salivary gland disorder*, Oropharyngeal blistering* |
+|  | Rare | Pancreatitis acute, Peritonitis*, Tongue oedema*, Ascites, Cheilitis, Faecal incontinence, Anal sphincter atony, Faecaloma, Rectal discharge, Lip pain, Periodontitis, Anal fissure, Change of bowel habit, Proctalgia, Abnormal faeces |
+| Hepatobiliary disorders | Common | Hepatic enzyme abnormality* |
+|  | Uncommon | Hepatotoxicity (inc liver disorder), Hepatitis*, Cholestasis |
+|  | Rare | Hepatic failure, Hepatomegaly, Budd-Chiari syndrome, Hepatic haemorrhage, Cholelithiasis |
+| Skin and subcutaneous tissue disorders | Very Common | Rash* |
+|  | Common | Urticaria, Pruritus*, Erythema, Dermatitis*, Dry skin |
+| Class |  | Adverse reaction |
+|  | Uncommon | Acute febrile neutrophilic dermatosis, Toxic skin eruption, Hair disorder*, Petechiae, Ecchymosis, Skin lesion, Purpura, Skin nodule*, Psoriasis, Palmar-plantar erythrodysaesthesia syndrome, Hyperhidrosis, Night sweats, Acne*, Blood blister, Pigmentation disorder*, Nail disorder |
+|  | Rare | Erythema multiforme, Skin reaction, Jessner's lymphocytic infiltration, Haemorrhage subcutaneous, Livedo reticularis, Skin induration, Blister, Cold sweat, Papule, Photosensitivity reaction, Seborrhoea, Skin disorder NOS |
+| Musculoskeletal and connective tissue disorders | Very Common | Musculoskeletal pain* |
+|  | Common | Muscle spasms*, Pain in extremity, Muscular weakness |
+|  | Uncommon | Muscle twitching, Joint swelling, Arthritis*, Joint stiffness, Myopathy*, Sensation of heaviness |
+|  | Rare | Rhabdomyolysis, Temporomandibular joint syndrome, Fistula, Joint effusion, Pain in jaw, Bone disorder, Dactylitis, Synovial cyst |
+| Renal and urinary disorders | Common | Renal impairment*, Renal failure chronic* |
+|  | Uncommon | Renal failure acute, Urinary tract infection*, Haematuria*, Urinary retention, Dysuria*, Micturition disorder*, Proteinuria, Azotaemia, Oliguria*, Pollakiuria |
+|  | Rare | Renal colic, Bladder irritation, Urine odour abnormal |
+| Reproductive system and breast disorders | Uncommon | Vaginal haemorrhage, Genital pain*, Erectile dysfunction, Testicular disorder* |
+|  | Rare | Prostatitis, Breast disorder female, Epididymal tenderness, Epididymitis, Pelvic pain, Vulval ulceration |
+| Congenital, familial and genetic disorders | Rare | Aplasia, Gastrointestinal malformation, Ichthyosis |
+| General disorders and administration site conditions | Very Common | Pyrexia*, Fatigue, Asthenia |
+|  | Common | Oedema (inc peripheral), Chills, Pain*, Injection site reaction*, Malaise* |
+|  | Uncommon | Death (inc sudden), General physical health deterioration*, Face oedema*, Chest pain, Mucosal disorder*, Gait disturbance, Feeling cold, Extravasation*, Catheter related complication*, Thirst, Chest discomfort, Feeling of body temperature change*, Injection site pain* |
+|  | Rare | Injection site haemorrhage*, Hernia*, Injection site phlebitis*, Impaired healing, Inflammation, Tenderness, Ulcer, Irritability, Non-cardiac chest pain, Catheter site pain, Sensation of foreign body |
+| Class |  | Adverse reaction |
+| Investigations | Common | Weight decreased |
+|  | Uncommon | Hyperbilirubinaemia*, Weight increased, C-reactive protein increased |
+|  | Rare | Megakaryocytes decreased, PO2 increased, Blood bicarbonate decreased, Blood creatinine increased*, Electrocardiogram abnormality*, International normalised ratio abnormal*, Beta 2 microglobulin increased, Blood creatinine decreased, Cytomegalovirus test, Gastric pH decreased, Platelet aggregation increased, Troponin I increased, Blood testosterone decreased, Protein urine present, Serum ferritin increased, pH urine increased |
+| Injury, poisoning and procedural complications | Uncommon | Fall, Contusion |
+|  | Rare | Skull fracture, Transfusion reaction, Rigors*, Face injury, Joint injury, Laceration, Procedural pain, Radiation injuries* |
+| Surgical and medical procedures | Rare | Macrophage activation |
 
-Immune system disorders
-Uncommon: angioedema*, hypersensitivity, immunocomplex mediated hypersensitivity, potentially immunocomplex-mediated reactions, such as serum-sickness-type reaction, polyarthritis with rash and proliferative glomerulonephritis (see section 4.4).
+NOS = not otherwise specified
+* Grouping of more than one MedDRA preferred term.
+# Postmarketing adverse reaction
 
-Endocrine disorders
-Uncommon: inappropriate antidiuretic hormone (ADH) secretion.
-
-Metabolism and nutrition disorders
-Very common: appetite decreased.
-Common: dehydration, hypokalaemia, hyperglycaemia.
-Uncommon: hyperkalaemia, cachexia, hypercalcaemia, hypocalcaemia, hypernatraemia, hyponatraemia, hypoglycaemia, hyperuricaemia, vitamin B12 deficiency, appetite increased, hypomagnesaemia, hypophosphataemia.
-
-Psychiatric disorders
-Common: confusion, depression, insomnia, anxiety.
-Uncommon: agitation, delirium, hallucinations, restlessness, mood swings, mental status changes, sleep disorder, irritability, abnormal dreams.
-
-Nervous system disorders (see sections 4.4 and 4.7)
-Very common: peripheral neuropathy, peripheral sensory neuropathy (see section 4.4), paraesthesia, headache.
-Common: polyneuropathy, peripheral neuropathy aggravated, dizziness (excluding vertigo), dysgeusia, dysaesthesia, hypoaesthesia, tremor.
-Uncommon: encephalopathy*, reversible posterior leukoencephalopathy syndrome* (see section 4.4), paraplegia, intracranial haemorrhage, subarachnoid haemorrhage convulsions (see section 4.4), peripheral motor neuropathy, syncope, paresis, disturbance in attention, increased activity, ageusia, somnolence, migraine, cognitive disorder, jerky movements, dizziness postural, sciatica, mononeuropathy, speech disorder, restless leg syndrome.
-Rare: autonomic neuropathy*
-Eye disorders
-Common: vision blurred (see section 4.7), eye pain.
-Uncommon: eye haemorrhage, vision abnormal, dry eye, conjunctivitis, eye discharge, photophobia, eye irritation, lacrimation increased, conjunctival hyperaemia, eye swelling.
-Rare: herpes zoster ophthalmic*, optic neuropathy, different degrees of visual impairment (up to blindness).
-
-Ear and labyrinth disorders
-Common: vertigo.
-Uncommon: deafness, tinnitus, hypoacusis, hearing impaired.
-
-Cardiac disorders
-Uncommon: cardiac tamponade*, cardiopulmonary arrest*, cardiac arrest, cardiogenic shock, myocardial infarction, angina pectoris, angina unstable, development or exacerbation of congestive heart failure (see section 4.4), cardiac failure, ventricular hypokinesia, pulmonary oedema and acute pulmonary oedema, sinus arrest, atrioventricular block complete, tachycardia, sinus tachycardia, supraventricular tachycardia, arrhythmia, atrial fibrillation, palpitations.
-Rare: new onset of decreased left ventricular ejection fraction, pericarditis*, ventricular arrhythmia*, ventricular tachycardia*
-
-Vascular disorders
-Common: hypotension, orthostatic and postural hypotension (see sections 4.4 and 4.7), phlebitis, haematoma, hypertension.
-Uncommon: cerebral hemorrhage, vasculitis, cerebrovascular accident, pulmonary hypertension, petechiae, ecchymosis, purpura, vein discolouration, vein distended, wound hemorrhage, flushing, hot flushes.
-
-Respiratory, thoracic and mediastinal disorders
-Very common: dyspnoea.
-Common: dyspnoea exertional, epistaxis, cough, rhinorrhoea.
-Uncommon: respiratory failure*, pneumonitis*, pulmonary embolism*, pulmonary hypertension*, interstitial pneumonia*, acute diffuse infiltrative pulmonary disease*, pulmonary alveolar haemorrhage*, respiratory arrest, hypoxia, pulmonary congestion, pleural effusion, asthma, respiratory alkalosis, tachypnoea, wheezing, nasal congestion, hoarseness, rhinitis, hyperventilation, orthopnoea, chest wall pain, sinus pain, throat tightness, productive cough.
-Rare: acute respiratory distress syndrome (ARDS)*, peripheral embolism*.
-
-Gastrointestinal disorders (see section 4.4)
-Very common: vomiting, diarrhoea, nausea, constipation.
-Common: abdominal pain, stomatitis, dyspepsia, loose stools, abdominal pain upper, flatulence, abdominal distension, hiccups, mouth ulceration, pharyngolaryngeal pain, dry mouth.
-Uncommon: colitis ischaemic*, acute pancreatitis, ileus paralytic, antibiotic associated colitis, colitis, haematemesis, diarrhoea haemorrhagic, gastrointestinal haemorrhage, rectal haemorrhage, enteritis, dysphagia, abdominal discomfort, eructation, gastrointestinal motility disorder, oral pain, retching, change in bowel habit, spleen pain, oesophagitis, gastritis, gastro-oesophageal reflux disease, gastrointestinal pain, gingival bleeding, gingival pain, hiatus hernia, irritable bowel syndrome, oral mucosal petechiae, salivary hypersecretion, tongue coated, tongue discolouration, faecal impaction.
-
-Hepato-biliary disorders (see section 4.4)
-Uncommon: hepatitis, hepatic haemorrhage, hypoproteinaemia, hyperbilirubinaemia.
-Rare: hepatic failure*
-Skin and subcutaneous tissue disorders
-Very common: rash.
-Common: periorbital oedema, urticaria, rash pruritic, pruritus, erythema, sweating increased, dry skin, eczema.
-Uncommon: Stevens-Johnson Syndrome*, toxic epidermal necrolysis*, rash erythematous, photosensitivity reaction, contusion, pruritus generalised, rash macular, rash papular, psoriasis, rash generalized, eyelid oedema, face oedema, dermatitis, alopecia, nail disorder, skin discolouration, dermatitis atopic, hair texture abnormal, heat rash, night sweats, pressure sore, ichthyosis, skin nodule.
-Rare: acute febrile neutrophilic dermatosis (Sweet’s syndrome)*, vasculitic rash (including leukocytoclastic vasculitis)*
-
-Musculoskeletal, connective tissue and bone disorders
-Very common: myalgia.
-Common: muscle weakness, musculoskeletal pain, pain in limb, muscle cramps, arthralgia, bone pain, back pain, peripheral swelling.
-Uncommon: muscle spasms, muscle twitching or sensation of heaviness, muscle stiffness, joint swelling, joint stiffness, buttock pain, swelling, pain in jaw.
-
-Renal and urinary disorders
-Common: renal impairment, dysuria.
-Uncommon: renal failure acute, renal failure, oliguria, renal colic, haematuria, proteinuria, urinary retention, urinary frequency, difficulty in micturition, loin pain, urinary incontinence, micturition urgency.
-
-Reproductive system and breast disorders
-Uncommon: testicular pain, erectile dysfunction.
-
-General disorders and administration site conditions
-Very common: fatigue (see section 4.7), pyrexia.
-Common: asthenia, weakness, lethargy, rigors, malaise, influenza like illness, oedema peripheral, chest pain, pain, oedema.
-Uncommon: fall, mucosal haemorrhage, mucosal inflammation, neuralgia, injection site phlebitis, extravasation inflammation tenderness, injection site erythema, feeling cold, chest pressure sensation, chest discomfort, groin pain, chest tightness.
-
-Investigations
-Common: weight decreased, blood lactate dehydrogenase increased.
-Uncommon: alanine aminotransferase increased, aspartate aminotransferase increased, blood bilirubin increased, blood alkaline phosphatase increased, blood creatinine increased, blood urea increased, gamma-glutamyltransferase increased, blood amylase increased, liver function tests abnormal, red blood cell count decreased, white blood cell count decreased, blood bicarbonate decreased, heart rate irregular, C-reactive protein increased, blood phosphate decreased, weight increased.
-
-Injury and poisoning
-Uncommon: catheter related complications, post procedural pain, post procedural haemorrhage, burns.
-
-*from post-marketing sources
-
-Summary of safety data in patients with previously untreated multiple myeloma:
-
-The following Table 6 describes safety data from 340 patients with previously untreated multiple myeloma who received VELCADE (1.3 mg/m2) in combination with melphalan (9 mg/m2) and prednisone (60 mg/m2) in a prospective Phase III study.
-
-Overall, the safety profile of patients treated with VELCADE in monotherapy was similar to that observed in patients treated with VELCADE in combination with melphalan and prednisone.
-Table 6: Treatment emergent drug-related adverse reactions reported in ≥ 10% of patients treated with VELCADE in combination with melphalan and prednisone
--------------- Vc+M+P ------------ ---------------- M+P ---------------
-
-(n=340) (n=337)
-MedDRA System Organ Class Total Toxicity Grade, n (%) Total Toxicity Grade, n (%)
-Preferred Term n (%) 3 ≥ 4 n (%) 3 ≥ 4
-
-Infections and Infestations
-
-Herpes Zoster 39 ( 11) 11 ( 3) 0 9 ( 3) 4 ( 1) 0
-
-Blood and lymphatic system disorders
-
-Thrombocytopenia 164 ( 48) 60 ( 18) 57 ( 17) 140 ( 42) 48 ( 14) 39 ( 12)
-Neutropenia 160 ( 47) 101 ( 30) 33 ( 10) 143 ( 42) 77 ( 23) 42 ( 12)
-Anaemia 109 ( 32) 41 ( 12) 4 ( 1) 156 ( 46) 61 ( 18) 18 ( 5)
-Leukopenia 108 ( 32) 64 ( 19) 8 ( 2) 93 ( 28) 53 ( 16) 11 ( 3)
-Lymphopenia 78 ( 23) 46 ( 14) 17 ( 5) 51 ( 15) 26 ( 8) 7 ( 2)
-
-Metabolism and nutrition disorders
-
-Anorexia 64 ( 19) 6 ( 2) 0 19 ( 6) 0 0
-
-Psychiatric disorders
-
-Insomnia 35 ( 10) 1 ( <1) 0 21 ( 6) 0 0
-
-Nervous system disorders
-
-Peripheral Neuropathy 156 ( 46) 42 ( 12) 2 ( 1) 4 ( 1) 0 0
-Neuralgia 117 ( 34) 27 ( 8) 2 ( 1) 1 ( <1) 0 0
-Paraesthesia 42 ( 12) 6 ( 2) 0 4 ( 1) 0 0
-
-Gastrointestinal disorders
-
-Nausea 134 ( 39) 10 ( 3) 0 70 ( 21) 1 ( <1) 0
-Diarrhoea 119 ( 35) 19 ( 6) 2 ( 1) 20 ( 6) 1 ( <1) 0
-Vomiting 87 ( 26) 13 ( 4) 0 41 ( 12) 2 ( 1) 0
-Constipation 77 ( 23) 2 ( 1) 0 14 ( 4) 0 0
-Abdominal Pain Upper 34 ( 10) 1 ( <1) 0 20 ( 6) 0 0
-
-Skin and subcutaneous tissue disorders
-
-Rash 38 ( 11) 2 ( 1) 0 7 ( 2) 0 0
-
-General disorders and administration site conditions
-
-Fatigue 85 ( 25) 19 ( 6) 2 ( 1) 48 ( 14) 4 ( 1) 0
-Asthenia 54 ( 16) 18 ( 5) 0 23 ( 7) 3 ( 1) 0
-Pyrexia 53 ( 16) 4 ( 1) 0 19 ( 6) 1 ( <1) 1 ( <1)
-
-Vc = VELCADE; M = melphalan, P = prednisone
-
+Description of selected adverse reactions
 Herpes zoster virus reactivation
-Antiviral prophylaxis should be considered in patients being treated with VELCADE.
-In the Phase III study in patients with previously untreated multiple myeloma, the overall incidence of herpes zoster reactivation was more common in patients treated with Vc+M+P compared with M+P (14% vs 4% respectively).
 Antiviral prophylaxis was administered to 26% of the patients in the Vc+M+P arm.
 The incidence of herpes zoster among patients in the Vc+M+P treatment group was 17% for patients not administered antiviral prophylaxis compared to 3% for patients administered antiviral prophylaxis.
 
 [VELCADE 3.5 mg powder for solution for injection]
 
-Blood and lymphatic system
+| System Organ | Incidence |  |
+| --- | --- | --- |
+| Class |  | Adverse reaction |
+| Infections and infestations | Common | Herpes zoster (inc disseminated & ophthalmic), Pneumonia*, Infection*, Herpes simplex*, Fungal infection* |
+|  | Uncommon | Sepsis*, Bronchopneumonia, Herpes virus infection*, Bacteraemia (inc staphylococcal), Hordeolum, Influenza, Cellulitis, Device related infection, Skin infection*, Ear infection*, Tooth infection* |
+|  | Rare | Meningitis (inc bacterial), Epstein-Barr virus infection, Erysipelas, Genital herpes, Staphylococcal infection, Tonsillitis, Varicella, Mastoiditis, Post viral fatigue syndrome |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Uncommon | Neoplasm malignant |
+|  | Rare | Leukaemia plasmacytic, Renal cell carcinoma, Mass, Mycosis fungoides, Neoplasm benign |
+| Blood and lymphatic system disorders | Very Common | Thrombocytopenia*, Neutropenia*, Anaemia*, Leukopenia* |
+|  | Common | Lymphopenia* |
+| Class |  | Adverse reaction |
+|  | Uncommon | Pancytopenia*, Febrile neutropenia, Coagulopathy*, Leukocytosis*, Lymphadenopathy |
+|  | Rare | Hyperviscosity syndrome, Thrombocytopenic purpura*, Blood disorder NOS, Haemorrhagic diathesis, Lymphocytic infiltration |
+| Immune system disorders | Uncommon | Hypersensitivity* |
+|  | Rare | Anaphylactic shock, Type III immune complex mediated reaction |
+| Endocrine disorders | Uncommon | Hyperthyroidism*, Inappropriate antidiuretic hormone secretion |
+|  | Rare | Cushing's syndrome*, Hypothyroidism |
+| Metabolism and nutrition disorders | Very Common | Decreased appetite |
+|  | Common | Electrolyte imbalance*, Dehydration, Enzyme abnormality*, Hyperuricaemia* |
+|  | Uncommon | Tumour lysis syndrome, Failure to thrive*, Hypoglycaemia*, Hyperglycaemia, Hypoproteinaemia*, Fluid retention, Hypovolaemia |
+|  | Rare | Acidosis, Fluid overload, Hypochloraemia*, Diabetes mellitus*, Hyperproteinaemia*, Hypouricaemia*, Metabolic disorder, Vitamin B complex deficiency, Vitamin B12 deficiency, Gout, Hyperammonaemia*, Increased appetite, Alcohol intolerance |
+| Psychiatric disorders | Common | Mood altered*, Anxiety disorder*, Sleep disorder* |
+|  | Uncommon | Mental disorder*, Hallucination*, Confusion*, Restlessness |
+|  | Rare | Suicidal ideation*, Psychotic disorder*, Abnormal dreams, Adjustment disorder, Delirium, Libido decreased |
+| Nervous system disorders | Very Common | Neuropathy peripheral*, Peripheral sensory neuropathy, Dysaesthesia*, Neuralgia*, Headache* |
+|  | Common | Peripheral motor neuropathy, Loss of consciousness (inc syncope), Dizziness*, Dysgeusia*, Lethargy |
+|  | Uncommon | Haemorrhage intracranial*, Tremor, Peripheral sensorimotor neuropathy, Ataxia*, Dyskinesia*, Memory impairment*, Encephalopathy*, Balance disorder, Neurotoxicity, Presyncope, Post herpetic neuralgia, Speech disorder*, Restless legs syndrome, Migraine, Sciatica, Disturbance in attention, Reflexes abnormal*, Parosmia |
+|  | Rare | Brain oedema, Cerebral haemorrhage, Transient ischaemic attack, Autonomic nervous system imbalance, Autonomic neuropathy, Convulsion, Cranial palsy*, Paralysis*, Paresis*, Brain stem syndrome, Cerebrovascular disorder, Nerve root lesion, Psychomotor hyperactivity, Spinal cord compression, Cognitive disorder NOS, Motor dysfunction, Nervous system disorder NOS, Radiculitis, Drooling, Hypotonia |
+| Eye disorders | Common | Eye swelling*, Vision abnormal*, Conjunctivitis*, Dry eye* |
+| Class |  | Adverse reaction |
+|  | Uncommon | Eye haemorrhage*, Eyelid infection*, Eye inflammation*, Ocular hyperaemia, Diplopia, Eye irritation*, Eye pain, Lacrimation increased, Eye discharge |
+|  | Rare | Corneal lesion*, Exophthalmos, Retinitis, Scotoma, Eye disorder (inc. eyelid) NOS, Dacryoadenitis acquired, Photophobia, Photopsia, Optic neuropathy#, Different degrees of visual impairment (up to blindness)*, |
+| Ear and labyrinth disorders | Common | Vertigo* |
+|  | Uncommon | Hearing impaired (up to and inc. deafness), Dysacusis*, Tinnitus*, Ear discomfort* |
+|  | Rare | Ear haemorrhage, Ear disorder NOS |
+| Cardiac disorders | Common | Cardiac failure*, Tachycardia* |
+|  | Uncommon | Cardio-pulmonary arrest*, Cardiac fibrillation (inc atrial), Arrhythmia*, Palpitations, Angina pectoris, Pericarditis*, Cardiomyopathy*, Ventricular dysfunction*, Bradycardia |
+|  | Rare | Atrial flutter, Myocardial infarction*, Atrioventricular block*, Cardiovascular disorder (inc cardiogenic shock), Torsade de pointes, Angina unstable, Coronary artery insufficiency, Left ventricular failure, Mitral valve incompetence, Sinus arrest |
+| Vascular disorders | Common | Hypotension*, Orthostatic hypotension, Hypertension* |
+|  | Uncommon | Deep vein thrombosis*, Haemorrhage*, Thrombophlebitis (inc superficial), Circulatory collapse (inc hypovolaemic shock), Phlebitis, Flushing, Haematoma*, Poor peripheral circulation*, Hot flush, Vasculitis, Pallor |
+|  | Rare | Peripheral embolism, Lymphoedema, Erythromelalgia, Vasodilatation, Vein discolouration, Venous insufficiency |
+| Respiratory, thoracic and mediastinal disorders | Common | Dyspnoea*, Epistaxis, Upper/lower respiratory tract infection*, Cough* |
+|  | Uncommon | Pulmonary embolism, Pleural effusion, Pulmonary oedema (inc acute), Bronchospasm, Chronic obstructive pulmonary disease*, Hypoxaemia*, Pulmonary hypertension, Respiratory tract congestion*, Hypoxia, Pleurisy*, Pulmonary fibrosis, Hiccups, Rhinorrhoea, Dysphonia, Wheezing |
+|  | Rare | Respiratory failure, Acute respiratory distress syndrome, Apnoea, Pneumothorax, Atelectasis, Haemoptysis, Hyperventilation, Orthopnoea, Pneumonitis, Respiratory alkalosis, Tachypnoea, Hypocapnia*, Interstitial lung disease, Lung infiltration, Throat tightness, Dry throat, Bronchial hyperreactivity, Increased upper airway secretion, Throat irritation |
+| Gastrointestinal disorders | Very Common | Vomiting, Diarrhoea*, Nausea, Constipation, Abdominal pain (inc gastrointestinal pain)* |
+| Class |  | Adverse reaction |
+|  | Common | Gastrointestinal haemorrhage (inc mucosal)*, Dyspepsia, Stomatitis*, Abdominal distension, Oropharyngeal pain*, Abdominal discomfort, Oral disorder*, Flatulence |
+|  | Uncommon | Pancreatitis (inc chronic), Haematemesis, Lip swelling*, Oral ulceration*, Ileus*, Enteritis*, Gastritis*, Gingival bleeding, Gastrooesophageal reflux disease*, Gastrointestinal inflammation*, Dysphagia, Irritable bowel syndrome, Oesophagitis, Gastrointestinal disorder NOS, Retching, Gastrointestinal motility disorder*, Salivary gland disorder*, Oropharyngeal blistering* |
+|  | Rare | Pancreatitis acute, Peritonitis*, Tongue oedema*, Ascites, Cheilitis, Faecal incontinence, Anal sphincter atony, Faecaloma, Rectal discharge, Lip pain, Periodontitis, Anal fissure, Change of bowel habit, Proctalgia, Abnormal faeces |
+| Hepatobiliary disorders | Common | Hepatic enzyme abnormality* |
+|  | Uncommon | Hepatotoxicity (inc liver disorder), Hepatitis*, Cholestasis |
+|  | Rare | Hepatic failure, Hepatomegaly, Budd-Chiari syndrome, Hepatic haemorrhage, Cholelithiasis |
+| Skin and subcutaneous tissue disorders | Very Common | Rash* |
+|  | Common | Urticaria, Pruritus*, Erythema, Dermatitis*, Dry skin |
+|  | Uncommon | Acute febrile neutrophilic dermatosis, Toxic skin eruption, Hair disorder*, Petechiae, Ecchymosis, Skin lesion, Purpura, Skin nodule*, Psoriasis, Palmar-plantar erythrodysaesthesia syndrome, Hyperhidrosis, Night sweats, Acne*, Blood blister, Pigmentation disorder*, Nail disorder |
+|  | Rare | Erythema multiforme, Skin reaction, Jessner's lymphocytic infiltration, Haemorrhage subcutaneous, Livedo reticularis, Skin induration, Blister, Cold sweat, Papule, Photosensitivity reaction, Seborrhoea, Skin disorder NOS |
+| Musculoskeletal and connective tissue disorders | Very Common | Musculoskeletal pain* |
+|  | Common | Muscle spasms*, Pain in extremity, Muscular weakness |
+|  | Uncommon | Muscle twitching, Joint swelling, Arthritis*, Joint stiffness, Myopathy*, Sensation of heaviness |
+|  | Rare | Rhabdomyolysis, Temporomandibular joint syndrome, Fistula, Joint effusion, Pain in jaw, Bone disorder, Dactylitis, Synovial cyst |
+| Renal and urinary disorders | Common | Renal impairment*, Renal failure chronic* |
+|  | Uncommon | Renal failure acute, Urinary tract infection*, Haematuria*, Urinary retention, Dysuria*, Micturition disorder*, Proteinuria, Azotaemia, Oliguria*, Pollakiuria |
+| Class |  | Adverse reaction |
+|  | Rare | Renal colic, Bladder irritation, Urine odour abnormal |
+| Reproductive system and breast disorders | Uncommon | Vaginal haemorrhage, Genital pain*, Erectile dysfunction, Testicular disorder* |
+|  | Rare | Prostatitis, Breast disorder female, Epididymal tenderness, Epididymitis, Pelvic pain, Vulval ulceration |
+| Congenital, familial and genetic disorders | Rare | Aplasia, Gastrointestinal malformation, Ichthyosis |
+| General disorders and administration site conditions | Very Common | Pyrexia*, Fatigue, Asthenia |
+|  | Common | Oedema (inc peripheral), Chills, Pain*, Injection site reaction*, Malaise* |
+|  | Uncommon | Death (inc sudden), General physical health deterioration*, Face oedema*, Chest pain, Mucosal disorder*, Gait disturbance, Feeling cold, Extravasation*, Catheter related complication*, Thirst, Chest discomfort, Feeling of body temperature change*, Injection site pain* |
+|  | Rare | Injection site haemorrhage*, Hernia*, Injection site phlebitis*, Impaired healing, Inflammation, Tenderness, Ulcer, Irritability, Non-cardiac chest pain, Catheter site pain, Sensation of foreign body |
+| Investigations | Common | Weight decreased |
+|  | Uncommon | Hyperbilirubinaemia*, Weight increased, C-reactive protein increased |
+|  | Rare | Megakaryocytes decreased, PO2 increased, Blood bicarbonate decreased, Blood creatinine increased*, Electrocardiogram abnormality*, International normalised ratio abnormal*, Beta 2 microglobulin increased, Blood creatinine decreased, Cytomegalovirus test, Gastric pH decreased, Platelet aggregation increased, Troponin I increased, Blood testosterone decreased, Protein urine present, Serum ferritin increased, pH urine increased |
+| Injury, poisoning and procedural complications | Uncommon | Fall, Contusion |
+|  | Rare | Skull fracture, Transfusion reaction, Rigors*, Face injury, Joint injury, Laceration, Procedural pain, Radiation injuries* |
+| Surgical and medical procedures | Rare | Macrophage activation |
 
-disorders
+Notable differences in the safety profile of VELCADE administered subcutaneously versus intravenously as single agent
+In the Phase III study patients who received VELCADE subcutaneously compared to intravenous administration had 13% lower overall incidence of treatment emergent adverse reactions that were grade 3 or higher in toxicity, and a 5% lower incidence of discontinuation of VELCADE.
+The overall incidence of diarrhoea, gastrointestinal and abdominal pain, asthenic conditions, upper respiratory tract infections and peripheral neuropathies were 12%-15% lower in the subcutaneous group than in the intravenous group.
+In addition, the incidence of grade 3 or higher peripheral neuropathies was 10 % lower, and the discontinuation rate due to peripheral neuropathies 8% lower for the subcutaneous group as compared to the intravenous group.
+
+Six percent of patients had an adverse local reaction to subcutaneous administration, mostly redness.
+Cases resolved in a median of 6 days, dose modification was required in two patients.
+Two (1%) of the patients had severe reactions; 1 case of pruritus and 1 case of redness.
+
+The incidence of death on treatment was 5% in the subcutaneous treatment group and 7% in the intravenous treatment group.
+Incidence of death from “Progressive disease” was 18% in the subcutaneous group and 9% in the intravenous group.
