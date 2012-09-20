@@ -4,8 +4,8 @@ PVC/PVDC/Al blisters.
 
 Tasigna is available in the following pack sizes:
 
-- Unit packs containing 28 capsules (7 daily blisters, each containing 4 capsules) or 40 capsules (5 blisters, each containing 8 capsules).
-- Multipacks containing 112 capsules (4 intermediate cartons, each containing 28 capsules) or 120 capsules (3 intermediate cartons, each containing 40 capsules).
+- Unit packs containing 28 hard capsules (7 daily blisters, each containing 4 hard capsules) or 40 hard capsules (5 blisters, each containing 8 hard capsules).
+- Multipacks containing 112 (4 packs of 28) hard capsules or 120 (3 packs of 40) hard capsules.
 
 Not all pack sizes may be marketed.
 
@@ -13,5 +13,5 @@ Not all pack sizes may be marketed.
 
 PVC/PVDC/Al and PA/Al/PVC/Al blisters.
 
-- Unit packs containing 28 capsules in a wallet.
-- Multipacks containing 112 capsules (4 intermediate wallets, each containing 28 capsules).
+- Unit packs containing 28 hard capsules in a wallet.
+- Multipacks containing 112 (4 wallets of 28) hard capsules.

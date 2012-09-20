@@ -6,8 +6,7 @@ Nilotinib absorption following oral administration was approximately 30%.
 In healthy volunteers, Cmax and area under the serum concentration-time curve (AUC) of nilotinib are increased by 112% and 82%, respectively, compared to fasting conditions when Tasigna is given with food.
 Administration of Tasigna 30 minutes or 2 hours after food increased bioavailability of nilotinib by 29% or 15%, respectively (see sections 4.2, 4.4 and 4.5).
 
-Single-dose administration of 400 mg nilotinib, using 2 capsules of 200 mg whereby the content of each capsule was dispersed in one teaspoon of apple sauce, was shown to be bioequivalent with a single-dose administration of 2 intact capsules of 200 mg.
-
+Single-dose administration of 400 mg nilotinib, using 2 hard capsules of 200 mg whereby the content of each hard capsule was dispersed in one teaspoon of apple sauce, was shown to be bioequivalent with a single-dose administration of 2 intact hard capsules of 200 mg.
 Nilotinib absorption (relative bioavailability) might be reduced by approximately 48% and 22% in patients with total gastrectomy and partial gastrectomy, respectively.
 
 Distribution
@@ -22,9 +21,9 @@ Nilotinib is primarily metabolised by CYP3A4, with possible minor contribution f
 
 Elimination
 After a single dose of radiolabelled nilotinib in healthy subjects, more than 90% of the dose was eliminated within 7 days, mainly in faeces (94% of the dose).
-Parent drug accounted for 69% of the dose.
+Unchanged nilotinib accounted for 69% of the dose.
 
-Linearity / non-linearity
+Linearity/non-linearity
 Steady-state nilotinib exposure was dose-dependent, with less than dose-proportional increases in systemic exposure at dose levels higher than 400 mg given as once-daily dosing.
 Daily serum exposure to nilotinib with 400 mg twice-daily dosing at steady state was 35% higher than with 800 mg once-daily dosing.
 Systemic exposure (AUC) of nilotinib at steady state at a dose level of 400 mg twice daily was approximately 13.4% higher than at a dose level of 300 mg twice daily.

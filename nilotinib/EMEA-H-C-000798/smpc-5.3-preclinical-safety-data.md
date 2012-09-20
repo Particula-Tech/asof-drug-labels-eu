@@ -5,7 +5,6 @@ Nilotinib has been evaluated in safety pharmacology, repeated dose toxicity, gen
 Nilotinib did not have effects on CNS or respiratory functions.
 In vitro cardiac safety studies demonstrated a preclinical signal for QT prolongation, based upon block of hERG currents and prolongation of the action potential duration in isolated rabbit hearts by nilotinib.
 No effects were seen in ECG measurements in dogs or monkeys treated for up to 39 weeks or in a special telemetry study in dogs.
-
 Repeated-dose toxicity studies in dogs of up to 4 weeks’ duration and in cynomolgus monkeys of up to 9 months’ duration revealed the liver as the primary target organ of toxicity of nilotinib.
 Alterations included increased alanine aminotransferase and alkaline phosphatase activity and histopathology findings (mainly sinusoidal cell or Kupffer cell hyperplasia/hypertrophy, bile duct hyperplasia and periportal fibrosis).
 In general the changes in clinical chemistry were fully reversible after a four-week recovery period and the histological alterations showed partial reversibility.

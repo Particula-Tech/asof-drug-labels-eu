@@ -21,6 +21,7 @@ In particular, no episodes of torsade de pointes (transient or sustained) were o
 Significant prolongation of the QT interval may occur when nilotinib is inappropriately taken with strong CYP3A4 inhibitors and/or medicinal products with a known potential to prolong QT, and/or food (see section 4.5).
 The presence of hypokalaemia and hypomagnesaemia may further enhance this effect.
 Prolongation of the QT interval may expose patients to the risk of fatal outcome.
+
 Tasigna should be used with caution in patients who have or who are at significant risk of developing prolongation of QTc, such as those:
 
 - with congenital long QT prolongation
@@ -29,7 +30,6 @@ Tasigna should be used with caution in patients who have or who are at significa
 
 Close monitoring for an effect on the QTc interval is advisable and a baseline ECG is recommended prior to initiating therapy with Tasigna and as clinically indicated.
 Hypokalaemia or hypomagnesaemia must be corrected prior to Tasigna administration and should be monitored periodically during therapy.
-
 Sudden death
 Uncommon cases (0.1 to 1%) of sudden deaths have been reported in patients with imatinib-resistant or intolerant CML in chronic phase or accelerated phase with a past medical history of cardiac disease or significant cardiac risk factors.
 Co-morbidities in addition to the underlying malignancy were also frequently present as were concomitant medicinal products.
@@ -49,7 +49,7 @@ The bioavailability of nilotinib is increased by food.
 Tasigna should not be taken in conjunction with food (see sections 4.2 and 4.5) and should be taken 2 hours after a meal.
 No food should be consumed for at least one hour after the dose is taken.
 Grapefruit juice and other foods that are known to inhibit CYP3A4 should be avoided.
-For patients who are unable to swallow capsules, the content of each capsule may be dispersed in one teaspoon of apple sauce and should be taken immediately.
+For patients who are unable to swallow hard capsules, the content of each hard capsule may be dispersed in one teaspoon of apple sauce and should be taken immediately.
 Not more than one teaspoon of apple sauce and no food other than apple sauce must be used (see section 5.2).
 
 Hepatic impairment
@@ -64,15 +64,15 @@ Serum lipase
 Elevation in serum lipase has been observed.
 Caution is recommended in patients with previous history of pancreatitis.
 In case lipase elevations are accompanied by abdominal symptoms, Tasigna should be interrupted and appropriate diagnostic measures considered to exclude pancreatitis.
+
 Total gastrectomy
 The bioavailability of nilotinib might be reduced in patients with total gastrectomy (see section 5.2).
 More frequent follow-up of these patients should be considered.
 
 Tumour lysis syndrome
 Due to possible occurrence of tumour lysis syndrome (TLS) correction of clinically significant dehydration and treatment of high uric acid levels are recommended prior to initiating therapy with Tasigna (see section 4.8).
-
 Lactose
-Tasigna capsules contain lactose.
+Tasigna hard capsules contain lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
 [Tasigna 200 mg hard capsules]

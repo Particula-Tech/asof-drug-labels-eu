@@ -1,6 +1,6 @@
 # 4.9 Overdose
 
-Isolated reports of intentional overdose with nilotinib were reported, where an unspecified number of Tasigna capsules were ingested in combination with alcohol and other medicinal products.
+Isolated reports of intentional overdose with nilotinib were reported, where an unspecified number of Tasigna hard capsules were ingested in combination with alcohol and other medicinal products.
 Events included neutropenia, vomiting and drowsiness.
 No ECG changes or hepatotoxicity were reported.
 Outcomes were reported as recovered.

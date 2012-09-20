@@ -2,13 +2,13 @@
 
 One hard capsule contains 150 mg nilotinib (as hydrochloride monohydrate).
 
-Excipient
-Lactose monohydrate: 117.08 mg per capsule.
+Excipient(s) with known effect:
+One hard capsule contains 117.08 mg lactose (as monohydrate).
 
-For a full list of excipients, see section 6.1.
+For the full list of excipients, see section 6.1.
 
 [Tasigna 200 mg hard capsules]
 
 One hard capsule contains 200 mg nilotinib (as hydrochloride monohydrate).
 
-Lactose monohydrate: 156.11 mg per capsule.
+One hard capsule contains 156.11 mg lactose (as monohydrate).

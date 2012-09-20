@@ -1,10 +1,10 @@
 # 4.6 Fertility, pregnancy and lactation
 
 Women of childbearing potential
-Women of childbearing potential have to use effective contraception during treatment with Tasigna.
+Women of childbearing potential have to use highly effective contraception during treatment with Tasigna.
 
 Pregnancy
-There are no adequate data from the use of nilotinib in pregnant women.
+There are no or limited amount of data from the use of nilotinib in pregnant women.
 Studies in animals have shown reproductive toxicity (see section 5.3).
 Tasigna should not be used during pregnancy unless the clinical condition of the woman requires treatment with nilotinib.
 If it is used during pregnancy, the patient must be informed of the potential risk to the foetus.
