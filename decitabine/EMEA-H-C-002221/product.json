@@ -1,0 +1,16 @@
+{
+  "active_substance": "decitabine",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/002221",
+  "eu_number": "EU/1/12/792",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2012-09-20",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/dacogen",
+  "molecule": "decitabine",
+  "molecule_name": "DECITABINE",
+  "name": "Dacogen",
+  "register_name": "Dacogen",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h792.htm"
+}
