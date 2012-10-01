@@ -2,23 +2,25 @@
 
 Each tablet contains 2.5 mg tadalafil.
 
-Excipients: Each coated tablet contains 92 mg of lactose monohydrate.
-For a full list of excipients, see section 6.1.
+Excipient(s) with known effect:
+Each coated tablet contains 87 mg of lactose (as monohydrate).
+
+For the full list of excipients, see section 6.1.
 
 [CIALIS 5 mg film-coated tablets]
 
 Each tablet contains 5 mg tadalafil.
 
-Excipients: Each coated tablet contains 127 mg lactose monohydrate.
+Each coated tablet contains 121 mg lactose (as monohydrate).
 
 [CIALIS 10 mg film-coated tablets]
 
 Each tablet contains 10 mg tadalafil.
 
-Excipients: Each coated tablet contains 179 mg lactose monohydrate.
+Each coated tablet contains 170 mg lactose (as monohydrate).
 
 [CIALIS 20 mg film-coated tablets]
 
 Each tablet contains 20 mg tadalafil.
 
-Excipients: Each coated tablet contains 245 mg lactose monohydrate.
+Each coated tablet contains 233 mg lactose (as monohydrate).

@@ -1,10 +1,7 @@
 # 4.2 Posology and method of administration
 
-Method of administration
-CIALIS is available as 2.5, 5, 10, and 20 mg film-coated tablets for oral use.
-
 Posology
-Use in adult men
+Adult men
 In general, the recommended dose is 10 mg taken prior to anticipated sexual activity and with or without food.
 In those patients in whom tadalafil 10 mg does not produce an adequate effect, 20 mg might be tried.
 It may be taken at least 30 minutes prior to sexual activity.
@@ -20,41 +17,40 @@ The dose may be decreased to 2.5 mg once a day based on individual tolerability.
 
 The appropriateness of continued use of the daily regimen should be reassessed periodically.
 
-Use in elderly men
+Special populations
+Elderly men
 Dose adjustments are not required in elderly patients.
 
-Use in men with impaired renal function
+Men with renal impairment
 Dose adjustments are not required in patients with mild to moderate renal impairment.
 For patients with severe renal impairment 10 mg is the maximum recommended dose.
-Once-a-day dosing of tadalafil is not recommended in patients with severe renal impairment.(See sections 4.4 and 5.2).
+Once-a-day dosing of tadalafil is not recommended in patients with severe renal impairment.
+(see sections 4.4 and 5.2).
 
-Use in men with impaired hepatic function
+Men with hepatic impairment
 The recommended dose of CIALIS is 10 mg taken prior to anticipated sexual activity and with or without food.
 There is limited clinical data on the safety of CIALIS in patients with severe hepatic impairment (Child-Pugh Class C); if prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician.
 There are no available data about the administration of doses higher than 10 mg of tadalafil to patients with hepatic impairment.
 Once-a-day dosing has not been evaluated in patients with hepatic impairment; therefore, if prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician.
-(See section 5.2).
+(see sections 4.4 and 5.2).
 
-Use in men with diabetes
+Men with diabetes
 Dose adjustments are not required in diabetic patients.
 
 Paediatric population
-CIALIS should not be used in individuals below 18 years of age.
+There is no relevant use of CIALIS in the paediatric population with regard to the treatment of erectile dysfunction.
+
+Method of administration
+CIALIS is available as 2.5, 5, 10, and 20 mg film-coated tablets for oral use.
 
 [CIALIS 5 mg film-coated tablets]
 
-CIALIS is available as 2.5, 5, 10 and 20 mg film-coated tablets for oral use.
-
-Once-a-day dosing of tadalafil is not recommended in patients with severe renal impairment.(See sections 4.
+(see sections 4.
 4 and 5.2).
 
 [CIALIS 10 mg film-coated tablets]
 
-Once-a-day dosing of tadalafil is not recommended in patients with severe renal impairment.
-(See sectiones 4.4 and 5.2)
-
 Once-a-day dosing has not been evaluated in patients with hepatic impairment; therefore if prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician.
-(See section 5.2 ).
 
 [CIALIS 20 mg film-coated tablets]
 
