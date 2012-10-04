@@ -1,25 +1,26 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Selective immunosuppressants, ATC code: L04AA25
+Pharmacotherapeutic group: Immunomodulators, ATC code: L04AA25
 
 Soliris is a recombinant humanised monoclonal IgG2/4k antibody that binds to the human C5 complement protein and inhibits the activation of terminal complement.
 The Soliris antibody contains human constant regions and murine complementarity-determining regions grafted onto the human framework light- and heavy-chain variable regions.
-Soliris is composed of two 448 amino acid heavy chains and two 214 amino acid light chains and has a molecular weight of approximately 148 kDa.
+Soliris is composed of two 448 amino acid heavy chains and two 214 amino acid light chains and has a molecular weight of approximately 148kDa.
 
 Soliris is produced in a murine myeloma (NS0 cell line) expression system and purified by affinity and ion exchange chromatography.
 The bulk drug substance manufacturing process also includes specific viral inactivation and removal steps.
 
-Mechanism of action
+Mechanism of Action
 
 Eculizumab, the active ingredient in Soliris, is a terminal complement inhibitor that specifically binds to the complement protein C5 with high affinity, thereby inhibiting its cleavage to C5a and C5b and preventing the generation of the terminal complement complex C5b-9.
 Eculizumab preserves the early components of complement activation that are essential for opsonization of microorganisms and clearance of immune complexes.
+
 In PNH patients, uncontrolled terminal complement activation and the resulting complement mediated intravascular haemolysis are blocked with Soliris treatment.
 In most PNH patients, eculizumab serum concentrations of approximately 35 microgram/ml are sufficient for essentially complete inhibition of terminal complement-mediated intravascular haemolysis.
 In PNH, chronic administration of Soliris resulted in a rapid and sustained reduction in complement-mediated haemolytic activity.
 
 In aHUS patients, uncontrolled terminal complement activation and the resulting complement mediated thrombotic microangiopathy are blocked with Soliris treatment.
 All patients treated with Soliris when administered as recommended demonstrated rapid and sustained reduction in terminal complement activity.
-In all aHUS patients, eculizumab serum concentrations of approximately 50 - 100 microgram/ml are sufficient for essentially complete inhibition of terminal complement activity.
+In all aHUS patients, eculizumab serum concentrations of approximately 50-100 microgram/ml are sufficient for essentially complete inhibition of terminal complement activity.
 In aHUS, chronic administration of Soliris resulted in a rapid and sustained reduction in complement mediated thrombotic microangiopathy.
 
 Clinical efficacy and safety
@@ -54,14 +55,14 @@ Parameter
 N = 44 N = 43 N = 97
 Mean Age (SD) 38.4 (13.4) 42.1 (15.5) 41.1 (14.4)
 Gender - Female (%) 29 (65.9) 23 (53.5) 49 (50.5)
+History of Aplastic Anaemia or MDS (%) 12 (27.3) 8 (18.7) 29 (29.9)
+Concomitant Anticoagulants (%) 20 (45.5) 24 (55.8) 59 (61)
 C04-001 C04-002
 Placebo Soliris Soliris
 
 Parameter
 
 N = 44 N = 43 N = 97
-History of Aplastic Anaemia or MDS (%) 12 (27.3) 8 (18.7) 29 (29.9)
-Concomitant Anticoagulants (%) 20 (45.5) 24 (55.8) 59 (61)
 
 Concomitant Steroids/Immunosuppressant
 
@@ -70,8 +71,7 @@ Concomitant Steroids/Immunosuppressant
 Treatments (%)
 
 Discontinued treatment 10 2 1
-PRBC in previous 12 months (median 18.0 (12.0,
-17.0 (13.5, 25.0) 8.0 (4.0, 24.0)
+PRBC in previous 12 months (median 17.0 (13.5, 25.0) 18.0 (12.0, 8.0 (4.0, 24.0)4
 (Q1,Q3)) 24.0)
 Mean Hgb level (g/dL) at setpoint (SD) 7.7 (0.75) 7.8 (0.79) N/A
 Pre-treatment LDH levels (median, U/L) 2,234.5 2,032.0 2,051.0
@@ -108,8 +108,8 @@ There were fewer thrombotic events with Soliris treatment than during the same p
 However, this finding was shown in non-controlled clinical trials.
 
 Atypical Haemolytic Uremic Syndrome
-Data from 37 patients in two prospective controlled studies (C08-002A/B and C08-003A/B) and one retrospective study with 30 patients (C09-001r) were used to evaluate the efficacy of Soliris in the treatment of aHUS.
 
+Data from 37 patients in two prospective controlled studies (C08-002A/B and C08-003A/B) and one retrospective study with 30 patients (C09-001r) were used to evaluate the efficacy of Soliris in the treatment of aHUS.
 Study C08-002A/B was a prospective, controlled, open-label study which accrued patients in the early phase of aHUS with evidence of clinical thrombotic microangiopathy manifestations with platelet count ≤ 150 x 109/L despite PE/PI and LDH and serum creatinine above upper limits of normal.
 Study C08-003A/B was a prospective, controlled, open-label study which accrued patients with longer term aHUS without apparent evidence of clinical thrombotic microangiopathy manifestations and receiving chronic PE/PI (≥1 PE/PI treatment every two weeks and no more than 3 PE/PI treatments/week for at least 8 weeks before the first dose).
 Patients in both prospective studies were treated with Soliris for 26 weeks and most patients enrolled into a long-term, open-label extension study.
@@ -124,9 +124,8 @@ Primary endpoints included platelet count change from baseline in study C08-002A
 Additional endpoints included TMA intervention rate, hematologic normalization, complete TMA response, changes in LDH, renal function and quality of life.
 TMA-event free status was defined as the absence for at least 12 weeks of the following: decrease in platelet count of > 25% from baseline, PE/PI, and new dialysis.
 TMA interventions were defined as PE/PI or new dialysis.
-Hematologic normalization was defined as normalization of platelet counts and LDH levels sustained for ≥2 consecutive measurements for
-≥4 weeks.
-Complete TMA response was defined as hematologic normalization and a ≥25% reduction in serum creatinine sustained in ≥ 2 consecutive measurements for ≥ 4 weeks.
+Hematologic normalization was defined as normalization of platelet counts and LDH levels sustained for ≥2 consecutive measurements for ≥4 weeks.
+Complete TMA response was defined as hematologic normalization and a ≥25% reduction in serum creatinine sustained in ≥ 2 consecutive measurements for ≥4 weeks.
 Baseline characteristics are shown in Table 4.
 
 Table 4: Patient Demographics and Characteristics in C08-002A/B and C08-003A/B
@@ -182,11 +181,9 @@ Table 5: Efficacy Outcomes in Prospective aHUS Studies C08-002A/B and C08-003A/B
 2 Study C08-002: 3 patients received ESA which was discontinued after eculizumab initiation 3 Study C08-003: 8 patients received ESA which was discontinued in 3 of them during eculizumab therapy
 
 Paediatric aHUS population
-
 A total of 15 paediatric patients (ages 2 months to 12 years) received Soliris in aHUS Study C09-001r.
 Forty seven percent of patients had an identified complement regulatory factor mutation or auto-antibody.
-The median time from aHUS diagnosis to first dose of Soliris was 14 months (rang <1,
-110 months).
+The median time from aHUS diagnosis to first dose of Soliris was 14 months (rang <1, 110 months).
 The median time from current thrombotic microangiopathy manifestation to first dose of Soliris was 1 month (range <1 to 16 month).
 The median duration of Soliris therapy was 16 weeks (range 4 to 70 weeks) for children < 2 years of age (n=5) and 31 weeks (range 19 to 63 weeks) for children 2 to <12 years of age (n=10).
 Overall, the efficacy results for these paediatric patients appeared consistent with what was observed in patients enrolled in aHUS pivotal Studies C08-002 and C08-003 (Table 6).

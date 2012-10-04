@@ -1,6 +1,6 @@
 # 4.1 Therapeutic indication
 
-Soliris is indicated for the treatment of patients with
+Soliris (eculizumab) is indicated for the treatment of patients with
 
 - Paroxysmal nocturnal haemoglobinuria (PNH).
 
