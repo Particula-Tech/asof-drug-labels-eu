@@ -11,6 +11,10 @@ Dizziness and fatigue may occur following administration of EMEND (see section 4
 
 (all sentences already above)
 
-[EMEND 125 mg hard capsules (SmPC 4)]
+[EMEND 165 mg hard capsules]
+
+(all sentences already above)
+
+[EMEND 125 mg hard capsules (SmPC 5)]
 
 Dizziness and fatigue may occur following administration of (see section 4.8).

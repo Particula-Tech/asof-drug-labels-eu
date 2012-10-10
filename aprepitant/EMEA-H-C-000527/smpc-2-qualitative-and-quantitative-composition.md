@@ -19,7 +19,13 @@ Each capsule contains 125 mg of aprepitant.
 
 Each capsule contains 125 mg of sucrose.
 
-[EMEND 125 mg hard capsules (SmPC 4)]
+[EMEND 165 mg hard capsules]
+
+Each capsule contains 165 mg of aprepitant.
+
+Each capsule contains 165 mg of sucrose.
+
+[EMEND 125 mg hard capsules (SmPC 5)]
 
 Each 125 mg capsule contains 125 mg of aprepitant.
 Each 80 mg capsule contains 80 mg of aprepitant.

@@ -15,6 +15,10 @@ In particular, although no adverse effects were noted in reproduction studies at
 
 (all sentences already above)
 
-[EMEND 125 mg hard capsules (SmPC 4)]
+[EMEND 165 mg hard capsules]
+
+However, it should be noted that systemic exposure in rodents was similar or even lower than therapeutic exposure in humans at the 125 mg/80 mg and 165 mg doses.
+
+[EMEND 125 mg hard capsules (SmPC 5)]
 
 (all sentences already above)

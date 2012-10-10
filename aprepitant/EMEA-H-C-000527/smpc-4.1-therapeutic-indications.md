@@ -14,6 +14,10 @@ EMEND 80 mg is given as part of combination therapy (see section 4.2).
 
 EMEND 125 mg is given as part of combination therapy (see section 4.2).
 
-[EMEND 125 mg hard capsules (SmPC 4)]
+[EMEND 165 mg hard capsules]
+
+EMEND 165 mg is given as part of combination therapy (see section 4.2).
+
+[EMEND 125 mg hard capsules (SmPC 5)]
 
 EMEND 125 mg/80 mg is given as part of combination therapy (see section 4.2).

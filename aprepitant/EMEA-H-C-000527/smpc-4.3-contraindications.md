@@ -10,6 +10,10 @@ Co-administration with pimozide, terfenadine, astemizole or cisapride (see secti
 
 (all sentences already above)
 
-[EMEND 125 mg hard capsules (SmPC 4)]
+[EMEND 165 mg hard capsules]
+
+(all sentences already above)
+
+[EMEND 125 mg hard capsules (SmPC 5)]
 
 (all sentences already above)
