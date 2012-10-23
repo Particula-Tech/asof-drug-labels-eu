@@ -86,9 +86,9 @@ Efficacy of ALIMTA + cisplatin vs. gemcitabine + cisplatin in first-line non-sma
 
 Median overall survival in months Adjusted
 ITT population
-(95% CI) hazard tatio Superiority
+(95% CI) hazard Superiority
 and histology
-Gemcitabine + (HR) p-value
+Gemcitabine + ratio (HR) p-value
 subgroups ALIMTA + cisplatin cisplatin (95% CI)
 ITT population 10.3 N=862 10.3 N=863 0.94a 0.259
 (N = 1725) (9.8 – 11.2) (9.6 – 10.9) (0.84 – 1.05)
@@ -150,11 +150,11 @@ For patients with NSCLC other than predominantly squamous cell histology
 The median OS for patients with NSCLC other than predominantly squamous cell histology (n = 481) was 15.5 months for the ALIMTA arm and 10.3 months for the placebo arm, hazard ratio = 0.70
 (95% CI = 0.56-0.88, p = 0.002).
 Including the induction phase the median OS for patients with NSCLC other than predominantly squamous cell histology was 18.6 months for the ALIMTA arm and 13.6 months for the placebo arm, hazard ratio = 0.71 (95% CI = 0.56-0.88, p = 0.002).
+
 The PFS and OS results in patients with squamous cell histology suggested no advantage for ALIMTA over placebo.
 
 There were no clinically relevant differences observed for the safety profile of ALIMTA within the histology subgroups.
-
-JMEN:Kaplan Meier plots of progression-free survival (PFS) and overall survival ALIMTA versus placebo in patients with NSCLC other than predominantly squamous cell histology:
+JMEN: Kaplan Meier plots of progression-free survival (PFS) and overall survival ALIMTA versus placebo in patients with NSCLC other than predominantly squamous cell histology:
 
 Progression-Free Survival Overall Survival
 1.0 1.0
@@ -177,37 +177,32 @@ PARAMOUNT
 A multicentre, randomised, double-blind, placebo-controlled Phase 3 study (PARAMOUNT), compared the efficacy and safety of continuation maintenance treatment with ALIMTA plus BSC
 (n = 359) with that of placebo plus BSC (n = 180) in patients with locally advanced (Stage IIIB) or metastatic (Stage IV) NSCLC other than predominantly squamous cell histology who did not progress after 4 cycles of first line doublet therapy of ALIMTA in combination with cisplatin.
 Of the 939 patients treated with ALIMTA plus cisplatin induction, 539 patients were randomised to maintenance treatment with pemetrexed or placebo.
-Of randomised patients, 44.9% had a complete/partial response and 51.9% had a response of stable disease to ALIMTA plus cisplatin induction.
+Of the randomised patients, 44.9% had a complete/partial response and 51.9% had a response of stable disease to ALIMTA plus cisplatin induction.
 Patients randomised to maintenance treatment were required to have an ECOG performance status 0 or 1.
 The median time from the start of ALIMTA plus cisplatin induction therapy to the start of maintenance treatment was 2.96 months on both the pemetrexed arm and the placebo arm.
 Randomised patients received maintenance treatment until disease progression.
 Efficacy and safety were measured from the time of randomisation after completion of first line (induction) therapy.
 Patients received a median of 4 cycles of maintenance treatment with ALIMTA and 4 cycles of placebo.
-A total of 109 patients (30.4%) completed ≥ 6 cycles maintenance treatment with ALIMTA, representing at least 10 total cycles of ALIMTA.
+A total of 169 patients (47.1%) completed ≥ 6 cycles maintenance treatment with ALIMTA, representing at least 10 total cycles of ALIMTA.
 
 The study met its primary endpoint and showed a statistically significant improvement in PFS in the ALIMTA arm over the placebo arm (n = 472, independently reviewed population; median of 3.9 months and 2.6 months, respectively) (hazard ratio = 0.64, 95% CI = 0.51-0.81, p = 0.0002).
 The independent review of patient scans confirmed the findings of the investigator assessment of PFS.
-For randomised patients, as measured from the start of ALIMTA plus cisplatin first line induction treatment, the median investigator-assessed PFS was 6.9 months for the ALIMTA arm and 5.59 months for the placebo arm (hazard ratio = 0.59 95% CI = 0.47-0.74).
-A preliminary survival analysis showed that the median survival on the ALIMTA continuation arm after induction therapy with ALIMTA/cisplatin (4 cycles) was 13.9 months versus 11.1 months for those on the placebo arm (hazard ratio = 0.78, 95% CI = 0.61-0.98, p = 0.034).
-At the time of this preliminary survival analysis, 48% of patients were alive on the ALIMTA arm versus 38% on the placebo arm, with a median follow-up of 11.04 months.
+For randomised patients, as measured from the start of ALIMTA plus cisplatin first line induction treatment, the median investigator-assessed PFS was 6.9 months for the ALIMTA arm and 5.6 months for the placebo arm (hazard ratio = 0.59 95% CI = 0.47-0.74).
 
-PARAMOUNT:Kaplan Meier plot of progression-free survival (PFS) for continuation ALIMTA maintenance versus placebo in patients with NSCLC other than predominantly squamous cell histology (independent review, measured from randomisation)
+Following ALIMTA plus cisplatin induction (4 cycles), treatment with ALIMTA was statistically superior to placebo for OS (median 13.9 months versus 11.0 months, hazard ratio = 0.78, 95%CI=0.64-0.96, p=0.0195).
+At the time of this final survival analysis, 28.7% of patients were alive or lost to follow up on the ALIMTA arm versus 21.7% on the placebo arm.
+The relative treatment effect of ALIMTA was internally consistent across subgroups (including disease stage, induction response, ECOG PS, smoking status, gender, histology and age) and similar to that observed in the unadjusted OS and PFS analyses.
+The 1 year and 2 year survival rates for patients on ALIMTA were 58% and 32% respectively, compared to 45% and 21% for patients on placebo.
+From the start of ALIMTA plus cisplatin first line induction treatment, the median OS of patients was 16.9 months for the ALIMTA arm and 14.0 months for the placebo arm (hazard ratio= 0.78, 95% CI= 0.64-0.96).
+The percentage of patients that received post study treatment was 64.3% for ALIMTA and 71.7% for placebo.
 
-1.0
-0.9
-0.8 Pemetrexed
-0.7 _ _ _ Placebo
-0.6
-0.5
-0.4
-0.3
-0.2
-0.1
-0.0
+PARAMOUNT:Kaplan Meier plot of progression-free survival (PFS) and Overall Survival (OS) for continuation ALIMTA maintenance versus placebo in patients with NSCLC other than predominantly squamous cell histology (measured from randomisation)
 
-0 3 6 9 12 15
+Progression-Free Survival Overall Survival
 
-PFS Time (Months)Time (Months)
+| 1.0 0.9 0.8 Pemetrexed 0.7 _ _ _ Placebo 0.6 0.5 0.4 0.3 0.2 0.1 0.0 0 3 6 9 12 15 PFTiSm eT (iMmoen t(hMs)onths) |  |
+| --- | --- |
+|  | 1.0 0.9 Pemetrexed 0.8 Placebo 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0.0 0 3 6 9 12 15 18 21 24 27 30 33 36 OS Time (Months) |
 
 The ALIMTA maintenance safety profiles from the two studies JMEN and PARAMOUNT were similar.
 
@@ -216,9 +211,4 @@ The ALIMTA maintenance safety profiles from the two studies JMEN and PARAMOUNT w
 ** In the ALIMTA/cisplatin arm, randomized and treated (N = 225) and fully supplemented
 (N = 167)
 
-Efficacy of ALIMTA + cisplatin vs. femcitabine + cisplatin in first-line non-small cell lung cancer – ITT population and histology subgroups.
-
-(95% CI) hazard Superiority
-Gemcitabine + ratio (HR) p-value
-
-JMEN: Kaplan Meier plots of progression-free survival (PFS) and overall survival ALIMTA versus placebo in patients with NSCLC other than predominantly squamous cell histology:
+PARAMOUNT: Kaplan Meier plot of progression-free survival (PFS) and Overall Survival (OS) for continuation ALIMTA maintenance versus placebo in patients with NSCLC other than predominantly squamous cell histology (measured from randomisation)

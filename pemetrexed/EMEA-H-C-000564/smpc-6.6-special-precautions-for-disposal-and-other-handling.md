@@ -6,7 +6,6 @@ Use aseptic technique during the reconstitution and further dilution of pemetrex
 2.
 Calculate the dose and the number of ALIMTA vials needed.
 Each vial contains an excess of pemetrexed to facilitate delivery of label amount.
-
 3.
 Reconstitute 100-mg vials with 4.2 ml of sodium chloride 9 mg/ml (0.9 %) solution for injection, without preservative, resulting in a solution containing 25 mg/ml pemetrexed.
 Gently swirl each vial until the powder is completely dissolved.
@@ -27,6 +26,7 @@ If particulate matter is observed, do not administer.
 7.
 Pemetrexed solutions are for single use only.
 Any unused medicinal product or waste material must be disposed of in accordance with local requirements.
+
 Preparation and administration precautions: As with other potentially toxic anticancer agents, care should be exercised in the handling and preparation of pemetrexed infusion solutions.
 The use of gloves is recommended.
 If a pemetrexed solution contacts the skin, wash the skin immediately and thoroughly with soap and water.

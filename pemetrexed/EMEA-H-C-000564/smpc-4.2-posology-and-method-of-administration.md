@@ -28,7 +28,7 @@ Prior to each chemotherapy administration blood chemistry tests should be collec
 Before the start of any cycle of chemotherapy, patients are required to have the following: absolute neutrophil count (ANC) should be ≥ 1500 cells/mm3 and platelets should be ≥ 100,000 cells/mm3.
 Creatinine clearance should be ≥ 45 ml/min.
 The total bilirubin should be ≤ 1.5 times upper limit of normal.
-Alkaline phosphatase (AP), aspartate transaminase (AST or SGOT) and alanine transaminase (ALT or SGPT) should be ≤ 3 times upper limit of normal.
+Alkaline phosphatase (AP), aspartate aminotransferase (AST or SGOT) and alanine aminotransferase (ALT or SGPT) should be ≤ 3 times upper limit of normal.
 Alkaline phosphatase, AST and ALT ≤ 5 times upper limit of normal is acceptable if liver has tumour involvement.
 
 Dose adjustments
@@ -38,9 +38,9 @@ Upon recovery patients should be retreated using the guidelines in Tables 1, 2 a
 
 | Table 1 - Dose modification table for ALIMTA (as single agent or in combination) and cisplatin – Haematologic toxicities |  |
 | --- | --- |
-| Nadir ANC < 500 /mm3 and nadir platelets ≥ 50,000 /mm3 | 75 % of previous dose (both ALIMTA and cisplatin). |
-| Nadir platelets <50,000 /mm3 regardless of nadir ANC | 75 % of previous dose (both ALIMTA and cisplatin). |
-| Nadir platelets <50,000/mm3 with bleedinga, regardless of nadir ANC. | 50% of previous dose (both ALIMTA and cisplatin) |
+| Nadir ANC < 500 /mm3 and nadir platelets ≥ 50,000 /mm3 | 75 % of previous dose (both ALIMTA and cisplatin) |
+| Nadir platelets <50,000 /mm3 regardless of nadir ANC | 75 % of previous dose (both ALIMTA and cisplatin) |
+| Nadir platelets <50,000/mm3 with bleedinga, regardless of nadir ANC | 50% of previous dose (both ALIMTA and cisplatin) |
 
 a These criteria meet the National Cancer Institute Common Toxicity Criteria (CTC v2.0; NCI 1998) definition of ≥CTC Grade 2 bleeding
 If patients develop non-haematologic toxicities ≥ Grade 3 (excluding neurotoxicity), ALIMTA should be withheld until resolution to less than or equal to the patient’s pre-therapy value.
@@ -79,7 +79,7 @@ In clinical studies, patients with creatinine clearance of ≥ 45 ml/min require
 There are insufficient data on the use of pemetrexed in patients with creatinine clearance below 45 ml/min; therefore the use of pemetrexed is not recommended (see section 4.4).
 
 Patients with hepatic impairment: No relationships between AST (SGOT), ALT (SGPT), or total bilirubin and pemetrexed pharmacokinetics were identified.
-However patients with hepatic impairment such as bilirubin > 1.5 times the upper limit of normal and/or transaminase > 3.0 times the upper limit of normal (hepatic metastases absent) or > 5.0 times the upper limit of normal (hepatic metastases present) have not been specifically studied.
+However patients with hepatic impairment such as bilirubin > 1.5 times the upper limit of normal and/or aminotransferase > 3.0 times the upper limit of normal (hepatic metastases absent) or > 5.0 times the upper limit of normal (hepatic metastases present) have not been specifically studied.
 Method of administration:
 
 For Precautions to be taken before handling or administering ALIMTA, see section 6.6.
@@ -91,9 +91,9 @@ For instructions on reconstitution and dilution of ALIMTA before administration,
 
 | Table 1 - Dose modification table for ALIMTA (as single agent or in combination) and cisplatin –Haematologic toxicities |  |
 | --- | --- |
-| Nadir ANC < 500 /mm3 and nadir platelets ≥ 50,000 /mm3 | 75 % of previous dose (both ALIMTA and cisplatin). |
-| Nadir platelets < 50,000 /mm3 regardless of nadir ANC | 75 % of previous dose (both ALIMTA and cisplatin ). |
-| Nadir platelets < 50,000 /mm3 with bleedinga, regardless of nadir ANC. | 50 % of previous dose (both ALIMTA and cisplatin). |
+| Nadir ANC < 500 /mm3 and nadir platelets ≥ 50,000 /mm3 | 75 % of previous dose (both ALIMTA and cisplatin) |
+| Nadir platelets < 50,000 /mm3 regardless of nadir ANC | 75 % of previous dose (both ALIMTA and cisplatin ) |
+| Nadir platelets < 50,000 /mm3 with bleedinga, regardless of nadir ANC | 50 % of previous dose (both ALIMTA and cisplatin) |
 
 | Table 3 - Dose modification table for ALIMTA (as single agent or in combination) and cisplatin – Neurotoxicity |  |  |
 | --- | --- | --- |
@@ -102,3 +102,5 @@ For instructions on reconstitution and dilution of ALIMTA before administration,
 | 2 | 100 % of previous dose | 50 % of previous dose |
 
 Patients with renal impairment (Standard Cockcroft and Gault formula or Glomerular Filtration Rate measured Tc99m-DPTA serum clearance method): Pemetrexed is primarily eliminated unchanged by renal excretion.
+
+However patients with hepatic impairment such as bilirubin > 1.5 times the upper limit of normal and/or aminotransferase> 3.0 times the upper limit of normal (hepatic metastases absent) or > 5.0 times the upper limit of normal (hepatic metastases present) have not been specifically studied.
