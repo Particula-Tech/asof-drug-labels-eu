@@ -23,13 +23,13 @@ The effect of stopping treatment after the achievement of a complete cytogenetic
 
 Dose increases from 400 mg to 600 mg or 800 mg in patients with chronic phase disease, or from 600 mg to a maximum of 800 mg (given as 400 mg twice daily) in patients with accelerated phase or blast crisis may be considered in the absence of severe adverse drug reaction and severe non-leukaemia-related neutropenia or thrombocytopenia in the following circumstances: disease progression (at any time); failure to achieve a satisfactory haematological response after at least 3 months of treatment; failure to achieve a cytogenetic response after 12 months of treatment; or loss of a previously achieved haematological and/or cytogenetic response.
 Patients should be monitored closely following dose escalation given the potential for an increased incidence of adverse reactions at higher dosages.
-
 Posology for CML in children
 Dosing for children should be on the basis of body surface area (mg/m2).
 The dose of 340 mg/m2 daily is recommended for children with chronic phase CML and advanced phase CML (not to exceed the total dose of 800 mg).
 Treatment can be given as a once daily dose or alternatively the daily dose may be split into two administrations – one in the morning and one in the evening.
 The dose recommendation is currently based on a small number of paediatric patients (see sections 5.1 and 5.2).
 There is no experience with the treatment of children below 2 years of age.
+
 Dose increases from 340 mg/m2 daily to 570 mg/m2 daily (not to exceed the total dose of 800 mg) may be considered in children in the absence of severe adverse drug reaction and severe non-leukaemia-related neutropenia or thrombocytopenia in the following circumstances: disease progression (at any time); failure to achieve a satisfactory haematological response after at least 3 months of treatment; failure to achieve a cytogenetic response after 12 months of treatment; or loss of a previously achieved haematological and/or cytogenetic response.
 Patients should be monitored closely following dose escalation given the potential for an increased incidence of adverse reactions at higher dosages.
 
@@ -63,13 +63,13 @@ Limited data exist on the effect of dose increases from 400 mg to 600 mg or 800 
 Treatment duration: In clinical trials in GIST patients, treatment with Glivec was continued until disease progression.
 At the time of analysis, the treatment duration was a median of 7 months (7 days to 13 months).
 The effect of stopping treatment after achieving a response has not been investigated.
-
 The recommended dose of Glivec is 400 mg/day for the adjuvant treatment of adult patients following resection of GIST.
 Optimal treatment duration is not yet established.
 Length of treatment in the clinical trial supporting this indication was 36 months (see section 5.1).
 
 Posology for DFSP
 The recommended dose of Glivec is 800 mg/day for adult patients with DFSP.
+
 Dose adjustment for adverse reactions
 Non-haematological adverse reactions
 If a severe non-haematological adverse reaction develops with Glivec use, treatment must be withheld until the event has resolved.
@@ -113,7 +113,6 @@ Liver dysfunction classification:
 
 ULN = upper limit of normal for the institution
 AST = aspartate aminotransferase
-
 Renal insufficiency: Patients with renal dysfunction or on dialysis should be given the minimum recommended dose of 400 mg daily as starting dose.
 However, in these patients caution is recommended.
 The dose can be reduced if not tolerated.

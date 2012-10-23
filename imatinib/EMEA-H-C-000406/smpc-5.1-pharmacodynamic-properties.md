@@ -33,7 +33,6 @@ Patients showing lack of response (lack of complete haematological response (CHR
 In the Glivec arm, patients were treated with 400 mg daily.
 In the IFN arm, patients were treated with a target dose of IFN of 5 MIU/m2/day subcutaneously in combination with subcutaneous Ara-C
 20 mg/m2/day for 10 days/month.
-
 A total of 1,106 patients were randomised, 553 to each arm.
 Baseline characteristics were well balanced between the two arms.
 Median age was 51 years (range 18–70 years), with 21.9% of patients ≥ 60 years of age.
@@ -115,7 +114,6 @@ A complete haematological response was achieved in 95% of patients.
 
 Accelerated phase: 235 adult patients with accelerated phase disease were enrolled.
 The first 77 patients were started at 400 mg, the protocol was subsequently amended to allow higher dosing and the remaining 158 patients were started at 600 mg.
-
 The primary efficacy variable was the rate of haematological response, reported as either complete haematological response, no evidence of leukaemia (i.e. clearance of blasts from the marrow and the blood, but without a full peripheral blood recovery as for complete responses), or return to chronic phase CML.
 A confirmed haematological response was achieved in 71.5% of patients (Table 4).
 Importantly, 27.7% of patients also achieved a major cytogenetic response, which was complete in 20.4% (confirmed 16%) of patients.
@@ -132,7 +130,6 @@ The current estimate of the median survival of the previously untreated and trea
 
 Lymphoid blast crisis: a limited number of patients were enrolled in phase I studies (n=10).
 The rate of haematological response was 70% with a duration of 2–3 months.
-
 Table 4 Response in adult CML studies
 
 |  | Study 0110 37-month data Chronic phase, IFN failure (n=532) | Study 0109 40.5-month data Accelerated phase (n=235) | Study 0102 38-month data Myeloid blast crisis (n=260) |
@@ -155,7 +152,6 @@ Glivec treatment induces a rapid response in newly diagnosed paediatric CML pati
 The high rate of CHR is accompanied by the development of a complete cytogenetic response (CCyR) of 65% which is comparable to the results observed in adults.
 Additionally, partial cytogenetic response (PCyR) was observed in 16% for a MCyR of 81%.
 The majority of patients who achieved a CCyR developed the CCyR between months 3 and 10 with a median time to response based on the Kaplan-Meier estimate of 5.6 months.
-
 The European Medicines Agency has waived the obligation to submit the results of studies with Glivec in all subsets of the paediatric population in Philadelphia chromosome (bcr-abl translocation)- positive chronic myeloid leukaemia (see section 4.2 for information on paediatric use).
 
 Clinical studies in Ph+ ALL
@@ -164,6 +160,7 @@ When salvage therapy with imatinib was administered in patients who did not resp
 This clinical effect was associated with a higher reduction in bcr-abl transcripts in the imatinib-treated patients than in the chemotherapy arm after 2 weeks of therapy (p=0.02).
 All patients received imatinib and consolidation chemotherapy (see Table 5) after induction and the levels of bcr-abl transcripts were identical in the two arms at 8 weeks.
 As expected on the basis of the study design, no difference was observed in remission duration, disease-free survival or overall survival, although patients with complete molecular response and remaining in minimal residual disease had a better outcome in terms of both remission duration (p=0.01) and disease-free survival (p=0.02).
+
 The results observed in a population of 211 newly diagnosed Ph+ ALL patients in four uncontrolled clinical studies (AAU02, ADE04, AJP01 and AUS01) are consistent with the results described above.
 Imatinib in combination with chemotherapy induction (see Table 5) resulted in a complete haematological response rate of 93% (147 out of 158 evaluable patients) and in a major cytogenetic response rate of 90% (19 out of 21 evaluable patients).
 The complete molecular response rate was 48% (49 out of 102 evaluable patients).
@@ -246,7 +243,6 @@ Relapsed/refractory Ph+ ALL: When imatinib was used as single agent in patients 
 (Of note, out of the 411 patients, 353 were treated in an expanded access program without primary response data collected.)
 The median time to progression in the overall population of 411 patients with relapsed/refractory Ph+ ALL ranged from 2.6 to 3.1 months, and median overall survival in the 401 evaluable patients ranged from 4.9 to 9 months.
 The data was similar when re-analysed to include only those patients age 55 or older.
-
 Clinical studies in MDS/MPD
 Experience with Glivec in this indication is very limited and is based on haematological and cytogenetic response rates.
 There are no controlled trials demonstrating a clinical benefit or increased survival.
@@ -290,7 +286,6 @@ Immunohistochemistry was routinely performed with Kit antibody (A-4502, rabbit p
 The primary evidence of efficacy was based on objective response rates.
 Tumours were required to be measurable in at least one site of disease, and response characterisation based on Southwestern Oncology Group (SWOG) criteria.
 Results are provided in Table 6.
-
 Table 6 Best tumour response in trial STIB2222 (GIST)
 
 All doses (n=147)
@@ -316,6 +311,7 @@ The Kaplan-Meier estimate for survival after 36-month follow-up is 68%.
 In two clinical studies (study B2222 and an intergroup study S0033) the daily dose of Glivec was escalated to 800 mg in patients progressing at the lower daily doses of 400 mg or 600 mg.
 The daily dose was escalated to 800 mg in a total of 103 patients; 6 patients achieved a partial response and 21 stabilisation of their disease after dose escalation for an overall clinical benefit of 26%.
 From the safety data available, escalating the dose to 800 mg daily in patients progressing at lower doses of 400 mg or 600 mg daily does not seem to affect the safety profile of Glivec.
+
 Clinical study in adjuvant GIST
 In the adjuvant setting, Glivec was investigated in a multicentre, double-blind, long-term, placebo-controlled phase III study (Z9001) involving 773 patients.
 The ages of these patients ranged from 18 to 91 years.
@@ -333,7 +329,6 @@ Mitotic index data were available for 556 of the 713 intention-to-treat (ITT) po
 The results of subgroup analyses according to the United States National Institutes of Health (NIH) and the Armed Forces Institute of Pathology (AFIP) risk classifications are shown in Table 7.
 No benefit was observed in the low and very low risk groups.
 No overall survival benefit has been observed.
-
 Table 7 Summary of Z9001 trial RFS analyses by NIH and AFIP risk classifications
 
 | Risk criteria | Risk Level | % of patients | No. of events / No. of patients | Overall hazard ratio (95%CI)* | RFS rates (%) |  |
@@ -350,6 +345,7 @@ There were a total of 397 patients consented and randomised to the study (199 pa
 The median time of follow-up was 54 months (from date of randomisation to data cut-off), with a total of 83 months between the first patient randomised and the cut-off date.
 
 The primary endpoint of the study was recurrence-free survival (RFS), defined as the time from date of randomisation to the date of recurrence or death from any cause.
+
 Thirty-six (36) months of Glivec treatment significantly prolonged RFS compared to 12 months of Glivec treatment (with overall Hazard Ratio (HR) = 0.46 [0.32, 0.65], p<0.0001) (Table 8, Figure 1).
 
 In addition, thirty-six (36) months of Glivec treatment significantly prolonged overall survival (OS) compared to 12 months of Glivec treatment (HR = 0.45 [0.22, 0.89], p=0.0187) (Table 8, Figure 2).
@@ -361,7 +357,6 @@ The total number of deaths were 25 for the 12-month treatment arm and 12 for the
 Treatment with imatinib for 36 months was superior to treatment for 12 months in the ITT analysis, i.e. including the entire study population.
 In a planned subgroup analysis by mutation type, the HR for RFS for 36 months of treatment for patients with mutations of exon 11 was 0.35 [95% CI: 0.22, 0.56].
 No conclusions can be drawn for other less common mutation subgroups due to the low number of observed events.
-
 Table 8 12-month and 36-month Glivec treatment (SSGXVIII/AIO Trial)
 
 12-month treatment arm 36-month treatment arm
@@ -394,7 +389,6 @@ Survival time in months
 
 At-risk : Events
 (1) 199:0 182:8 177:12 163:25 137:46 105:65 88:72 61:77 49:81 36:83 27:84 14:84 10:84 2:84 0:84 (2) 198:0 189:5 184:8 181:11 173:18 152:22 133:25 102:29 82:35 54:46 39:47 21:49 8:50 0:50
-
 Figure 2 Kaplan-Meier estimates for overall survival (ITT population)
 
 P = 0.019

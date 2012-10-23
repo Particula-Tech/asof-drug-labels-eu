@@ -3,6 +3,7 @@
 The preclinical safety profile of imatinib was assessed in rats, dogs, monkeys and rabbits.
 
 Multiple dose toxicity studies revealed mild to moderate haematological changes in rats, dogs and monkeys, accompanied by bone marrow changes in rats and dogs.
+
 The liver was a target organ in rats and dogs.
 Mild to moderate increases in transaminases and slight decreases in cholesterol, triglycerides, total protein and albumin levels were observed in both species.
 No histopathological changes were seen in rat liver.
@@ -15,7 +16,6 @@ An increased rate of opportunistic infections was observed with chronic imatinib
 
 In a 39-week monkey study, no NOAEL (no observed adverse effect level) was established at the lowest dose of 15 mg/kg, approximately one-third the maximum human dose of 800 mg based on body surface.
 Treatment resulted in worsening of normally suppressed malarial infections in these animals.
-
 Imatinib was not considered genotoxic when tested in an in vitro bacterial cell assay (Ames test), an in vitro mammalian cell assay (mouse lymphoma) and an in vivo rat micronucleus test.
 Positive genotoxic effects were obtained for imatinib in an in vitro mammalian cell assay (Chinese hamster ovary) for clastogenicity (chromosome aberration) in the presence of metabolic activation.
 Two intermediates of the manufacturing process, which are also present in the final product, are positive for mutagenesis in the Ames assay.
@@ -43,13 +43,13 @@ In the 2-year rat carcinogenicity study administration of imatinib at 15, 30 and
 ≥30 mg/kg/day.
 Histopathological examination of decedents revealed cardiomyopathy (both sexes), chronic progressive nephropathy (females) and preputial gland papilloma as principal causes of death or reasons for sacrifice.
 Target organs for neoplastic changes were the kidneys, urinary bladder, urethra, preputial and clitoral gland, small intestine, parathyroid glands, adrenal glands and non-glandular stomach.
+
 Papilloma/carcinoma of the preputial/clitoral gland were noted from 30 mg/kg/day onwards, representing approximately 0.5 or 0.3 times the human daily exposure (based on AUC) at 400 mg/day or 800 mg/day, respectively, and 0.4 times the daily exposure in children (based on AUC) at 340 mg/m2/day.
 The no observed effect level (NOEL) was 15 mg/kg/day.
 The renal adenoma/carcinoma, the urinary bladder and urethra papilloma, the small intestine adenocarcinomas, the parathyroid glands adenomas, the benign and malignant medullary tumours of the adrenal glands and the non-glandular stomach papillomas/carcinomas were noted at 60 mg/kg/day, representing approximately 1.7 or 1 times the human daily exposure (based on AUC) at 400 mg/day or 800 mg/day, respectively, and 1.2 times the daily exposure in children (based on AUC) at 340 mg/m2/day.
 The no observed effect level (NOEL) was 30 mg/kg/day.
 
 The mechanism and relevance of these findings in the rat carcinogenicity study for humans are not yet clarified.
-
 Non-neoplastic lesions not identified in earlier preclinical studies were the cardiovascular system, pancreas, endocrine organs and teeth.
 The most important changes included cardiac hypertrophy and dilatation, leading to signs of cardiac insufficiency in some animals.
 

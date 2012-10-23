@@ -4,7 +4,6 @@ Patients with advanced stages of malignancies may have numerous confounding medi
 
 In clinical trials in CML, drug discontinuation for drug-related adverse reactions was observed in 2.4% of newly diagnosed patients, 4% of patients in late chronic phase after failure of interferon therapy, 4% of patients in accelerated phase after failure of interferon therapy and 5% of blast crisis patients after failure of interferon therapy.
 In GIST the study drug was discontinued for drug-related adverse reactions in 4% of patients.
-
 The adverse reactions were similar in all indications, with two exceptions.
 There was more myelosuppression seen in CML patients than in GIST, which is probably due to the underlying disease.
 In the study in patients with unresectable and/or metastatic GIST, 7 (5%) patients experienced CTC grade 3/4 GI bleeds (3 patients), intra-tumoural bleeds (3 patients) or both
