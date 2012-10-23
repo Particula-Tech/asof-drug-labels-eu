@@ -130,6 +130,8 @@ Change from baseline -1.81 -0.42 1.62
 
 1 The dosing of insulin glargine was open-labelled and was applied according to the following titration guideline.
 Titration of the insulin glargine dose was managed by the patient after instruction by the investigator.
+2 Metformin 2,000 mg/day; 3 rosiglitazone 4 mg twice daily; 4 glimepiride 4 mg/day.
+
 Guideline for titration of insulin glargine
 
 | Self-measured FPG | Increase in insulin glargine dose (IU) |
@@ -139,7 +141,6 @@ Guideline for titration of insulin glargine
 | ≥6.7 mmol/l (≥120 mg/dl) | 2 IU |
 
 a According to the individualised recommendation by the investigator at the previous visit for example depending on whether subject has experienced hypoglycaemia.
-2 Metformin 2,000 mg/day; 3 rosiglitazone 4 mg twice daily; 4 glimepiride 4 mg/day.
 
 Proportion of patients achieving reductions in HbA1c
 Victoza in combination with metformin, glimepiride, or metformin and rosiglitazone resulted in a statistically significant (p≤0.0001) greater proportion of patients achieving an HbA1c≤6.5% at 26 weeks compared with patients receiving these agents alone.
@@ -174,7 +175,7 @@ Greater proportions of patients treated with Victoza experienced transient nause
 The reductions in HbA1c and superiority vs sitagliptin observed after 26 weeks of Victoza treatment (1.2 mg and 1.8 mg) were sustained after 52 weeks of treatment (-1.29% and -1.51% vs -0.88%, p<0.0001).
 Switching patients from sitagliptin to Victoza after 52 weeks of treatment resulted in additional and statistically significant reduction in HbA1c (-0.24% and -0.45%, 95% CI: -0.41 to -0.07 and -0.67 to -0.23 ) at week 78, but a formal control group was not available.
 
-In an open label study comparing the efficacy and safety of Victoza 1.8 mg once daily and exenatide 10 mcg twice daily in patients inadequately controlled on metformin and/or sulphonylurea therapy (mean HbA1c 8.3%), Victoza was statistically superior to exenatide treatment in reducing HbA1c after 26 weeks (–1.12% vs –0.79%; estimated treatment difference: –0.33; 95% CI –0.47 to –0.18).
+In an open label study comparing the efficacy and safety of Victoza 1.8 mg once daily and exenatide 10 mcg twice daily in patients inadequately controlled on metformin and/or sulphonylurea therapy (mean HbA1c 8.3%), Victoza was statistically superior to exenatide treatment in reducing HbA1c after 26 weeks (–1.12% vs –0.79%; estimated treatment difference: –0.33; 95% CI: –0.47 to –0.18).
 Significantly more patients achieved HbA1c below 7% with Victoza compared with exenatide (54.2% vs 43.4%, p=0.0015).
 Both treatments resulted in mean body weight loss of approximately 3 kg.
 Switching patients from exenatide to Victoza after 26 weeks of treatment resulted in an additional and statistically significant reduction in HbA1c (-0.32%, 95% CI: -0.41 to -0.24) at week 40, but a formal control group was not available.

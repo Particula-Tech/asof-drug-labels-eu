@@ -11,13 +11,14 @@ Furthermore, hypoglycaemia was common, and very common when Victoza is used in c
 Major hypoglycaemia has primarily been observed when combined with a sulphonylurea.
 
 Tabulated list of adverse reactions
-Table 1 lists related adverse reactions identified from Phase III combination-studies with Victoza.
-The table presents adverse reactions that occurred with a frequency >5% if the frequency was higher among Victoza-treated patients than patients treated with comparator.
-The table also includes adverse reactions with a frequency ≥2% if the frequency was >2 times the frequency for comparator-treated subjects.
+Table 1 lists Victoza adverse reactions reported in long term phase 3 controlled studies and spontaneous (postmarketing) reports.
+The adverse reactions identified in long term phase 3 studies are presented if they occurred with a frequency >5% and if the frequency was higher among Victoza-treated patients than patients treated with comparator.
+Adverse reactions with a frequency ≥2% if the frequency was >2 times the frequency for comparator-treated subjects are also included.
+Frequencies for related spontaneous reports (postmarketing) have been calculated based on their incidence in phase 3 clinical studies.
 Frequencies are defined as: Very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-Table 1 Adverse reactions identified from long-term controlled phase III studies and spontaneous reports
+Table 1 Adverse reactions identified from long-term controlled phase III studies and spontaneous (postmarketing) reports
 
 | Adverse reaction | Frequency of adverse reaction by treatment group |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -46,21 +47,32 @@ Table 1 Adverse reactions identified from long-term controlled phase III studies
 | Abdominal discomfort |  | Common |  |  |  |
 | Toothache |  |  | Common |  |  |
 | Gastroenteritis viral |  |  |  | Common |  |
+| Immune system disorders |  |  |  |  |  |
+| Anaphylactic reactions |  |  |  |  | Rare |
 | General disorders and administration site conditions |  |  |  |  |  |
 | Fatigue |  |  |  | Common |  |
-| Malaise* |  |  |  |  | Uncommon |
+| Malaise |  |  |  |  | Uncommon |
 | Pyrexia |  |  |  | Common |  |
-| Injection site reactions* | Common | Common | Uncommon | Common |  |
-| Renal and urinary disorders |  |  |  |  |  |
-| Renal failure acute*# |  |  |  |  | Uncommon |
-| Renal impairment*# |  |  |  |  | Uncommon |
-|  | Liraglutide with metformin | Liraglutide with glimepiride | Liraglutide with metformin and glimepiride | Liraglutide with metformin and rosiglitazone | Spontaneous reports |
-| Metabolism and nutrition disorders |  |  |  |  |  |
-| Dehydration*# |  |  |  |  | Uncommon |
-| Skin and subcutaneous tissue disorder |  |  |  |  |  |
-| Urticaria* |  |  |  |  | Uncommon |
+| Injection site reactions | Common | Common | Uncommon | Common |  |
 
-* Does not conform to criteria previously cited but is considered a listed adverse reaction.
+Adverse reaction Frequency of adverse reaction by treatment group
+Liraglutide Liraglutide Liraglutide Liraglutide Spontaneous
+with with with with reports
+metformin glimepiride metformin metformin
+and and
+glimepiride rosiglitazone
+Renal and urinary disorders
+Renal failure Uncommon
+acute#
+Renal Uncommon
+impairment#
+Metabolism and nutrition disorders
+Dehydration# Uncommon
+Skin and subcutaneous tissue disorder
+Urticaria Uncommon
+Rash Common
+Pruritus Uncommon
+
 # See section 4.4 (special warnings and precautions for use)
 
 Description of selected adverse reactions
@@ -90,7 +102,6 @@ Immunogenicity
 Consistent with the potentially immunogenic properties of medicinal products containing proteins or peptides, patients may develop anti-liraglutide antibodies following treatment with Victoza.
 On average, 8.6% of patients developed antibodies.
 Antibody formation has not been associated with reduced efficacy of Victoza.
-
 Few cases (0.05%) of angioedema have been reported during all long-term clinical trials with Victoza.
 
 Injection site reactions
@@ -99,9 +110,13 @@ These reactions have usually been mild.
 
 Pancreatitis
 Few cases (<0.2%) of acute pancreatitis have been reported during long-term clinical trials with Victoza.
-Pancreatitis was also reported post-marketing
+Pancreatitis was also reported post-marketing.
 
 Thyroid events
 The overall rates of thyroid adverse events in all intermediate and long-term trials are 33.5, 30.0 and 21.7 events per 1,000 subject years of exposure for total liraglutide, placebo and total comparators; 5.4, 2.1 and 1.2 events, respectively concern serious thyroid adverse events.
 Thyroid neoplasms, increased blood calcitonin and goiters were the most frequently thyroid adverse events.
 The rates per 1,000 subject years of exposure were 6.8, 10.9 and 5.4 of liraglutide treated patients in comparison with 6.4, 10.7 and 2.1 of placebo treated and 2.4, 6.0 and 1.8 of total comparator treated patients respectively.
+
+Allergic reactions
+Allergic reactions including urticaria, rash and pruritus have been reported from marketed use of Victoza.
+Few cases of anaphylactic reactions with additional symptoms such as hypotension, palpitations, dyspnoea, oedema have been reported with marketed use of Victoza.

@@ -39,7 +39,7 @@ The contraceptive effect is therefore anticipated to be unaffected when co-admin
 Warfarin and other coumarin derivatives
 No interaction study has been performed.
 A clinically relevant interaction with active substances with poor solubility or with narrow therapeutic index such as warfarin cannot be excluded.
-Upon initiation of liraglutide treatment in patients on warfarin or other coumarin derivatives more frequent monitoring of INR (International Normalised Ratio) is recommended.
+Upon initiation of Victoza treatment in patients on warfarin or other coumarin derivatives more frequent monitoring of INR (International Normalised Ratio) is recommended.
 
 Insulin
 No pharmacokinetic or pharmacodynamic interactions were observed between liraglutide and insulin detemir when administering a single dose of insulin detemir 0.5 U/kg with liraglutide 1.8 mg at steady state in patients with type 2 diabetes.

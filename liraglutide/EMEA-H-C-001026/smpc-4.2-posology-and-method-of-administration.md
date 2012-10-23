@@ -18,7 +18,6 @@ However, when initiating treatment with Victoza in combination with a sulphonylu
 Special populations
 Elderly patients (>65 years old): No dose adjustment is required based on age.
 Therapeutic experience in patients ≥75 years of age is limited (see section 5.2).
-
 Patients with renal impairment: No dose adjustment is required for patients with mild renal impairment (creatinine clearance 60-90 ml/min).
 There is very limited therapeutic experience in patients with moderate renal impairment (creatinine clearance of 30-59 ml/min) and no therapeutic experience in patients with severe renal impairment (creatinine clearance below 30 ml/min).
 Victoza can currently not be recommended for use in patients with moderate and severe renal impairment including patients with end-stage renal disease (see section 5.2).
