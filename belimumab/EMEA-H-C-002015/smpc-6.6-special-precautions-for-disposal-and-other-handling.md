@@ -52,7 +52,7 @@ No incompatibilities between Benlysta and polyvinylchloride or polyolefin bags h
 
 Disposal
 
-Any unused product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 [Benlysta 400 mg powder for concentrate for solution for infusion.]
 

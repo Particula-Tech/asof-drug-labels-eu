@@ -17,10 +17,8 @@ Adverse reactions are listed below by MedDRA system organ class and by frequency
 The frequency categories used are:
 
 Very common > 1/10
-
-Common ≥1/100 to <1/10
-
-Uncommon ≥1/1,000 to <1/100
+Common ≥ 1/100 to <1/10
+Uncommon ≥ 1/1,000 to <1/100
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 

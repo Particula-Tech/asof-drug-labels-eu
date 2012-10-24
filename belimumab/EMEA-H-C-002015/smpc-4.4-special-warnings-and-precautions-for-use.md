@@ -1,13 +1,12 @@
 # 4.4 Special warnings and precautions for use
 
 Benlysta has not been studied in the following patient groups, and is not recommended in:
-
-- severe active central nervous system lupus
-- severe active lupus nephritis (see section 5.1)
-- HIV
-- a history of, or current, hepatitis B or C
-- hypogammaglobulinaemia (IgG <400 mg/dl) or IgA deficiency (IgA <10 mg/dl)
-- a history of major organ transplant or hematopoietic stem /cell /marrow transplant or renal transplant.
+• severe active central nervous system lupus
+• severe active lupus nephritis (see section 5.1)
+•
+HIV a history of, or current, hepatitis B or C
+• hypogammaglobulinaemia (IgG <400 mg/dl) or IgA deficiency (IgA <10 mg/dl)
+• a history of major organ transplant or hematopoietic stem /cell /marrow transplant or renal transplant.
 
 Concomitant use with B cell targeted therapy or cyclophosphamide
 Benlysta has not been studied in combination with other B cell targeted therapy or intravenous cyclophosphamide.
@@ -58,5 +57,7 @@ Patients with malignant neoplasm within the last 5 years have not been studied, 
 [Benlysta 400 mg powder for concentrate for solution for infusion.]
 
 Benlysta has not been studied in the following patient groups and is not recommended in:
+HIV
+• a history of, or current, hepatitis B or C
 
 Live vaccines should not be given for 30 days before, or concurrently with Benlysta as clinical safety has not been established.
