@@ -21,7 +21,6 @@ Elderly
 There is limited information regarding the use of EDURANT in patients > 65 years of age.
 No dose adjustment of EDURANT is required in elderly patients (see section 5.2).
 EDURANT should be used with caution in this population.
-
 Paediatric population
 The safety and efficacy of EDURANT in children aged < 18 years have not yet been established.
 No data are available.

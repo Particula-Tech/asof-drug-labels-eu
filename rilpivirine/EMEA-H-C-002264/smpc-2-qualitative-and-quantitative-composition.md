@@ -2,6 +2,6 @@
 
 Each film-coated tablet contains rilpivirine hydrochloride equivalent to 25 mg rilpivirine.
 
-Excipient: each film-coated tablet contains 56 mg lactose monohydrate.
+Excipient with known effect: each film-coated tablet contains 56 mg lactose monohydrate.
 
-For a full list of excipients, see section 6.1.
+For the full list of excipients, see section 6.1.

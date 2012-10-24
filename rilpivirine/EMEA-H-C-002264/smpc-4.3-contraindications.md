@@ -1,6 +1,6 @@
 # 4.3 Contraindications
 
-Hypersensitivity to the active substance or to any of the excipients.
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
 
 EDURANT should not be co-administered with the following medicinal products, as significant decreases in rilpivirine plasma concentrations may occur (due to CYP3A enzyme induction or gastric pH increase), which may result in loss of therapeutic effect of EDURANT:
 

@@ -8,10 +8,10 @@ There was no teratogenicity with rilpivirine in rats and rabbits.
 
 EDURANT should not be used during pregnancy unless clearly needed.
 
-Breastfeeding
+Breast-feeding
 It is not known whether rilpivirine is excreted in human milk.
 EDURANT is excreted in the milk of rats.
-Because of both the potential for HIV transmission and the potential for adverse reactions in breastfed infants, mothers should be instructed not to breastfeed if they are receiving EDURANT.
+Because of both the potential for HIV transmission and the potential for adverse reactions in breastfed infants, mothers should be instructed not to breast-feed if they are receiving EDURANT.
 
 Fertility
 No human data on the effect of rilpivirine on fertility are available.

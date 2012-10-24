@@ -34,18 +34,19 @@ Interactions between rilpivirine and co-administered medicinal products are list
 | Other NRTIs (abacavir, emtricitabine, lamivudine, stavudine and zidovudine) | Not studied. No clinically relevant drug-drug interactions are expected. | No dose adjustment is required. |
 | NNRTIs |  |  |
 | NNRTIs (delavirdine, efavirenz, etravirine, nevirapine) | Not studied. | It is not recommended to co-administer EDURANT with other NNRTIs. |
-| PIs – with co-administration of low dose ritonavir |  |  |
+| HIV PIs – with co-administration of low dose ritonavir |  |  |
 | Darunavir/ritonavir*# 800/100 mg once daily | darunavir AUC ↔ darunavir Cmin ↓ 11% darunavir Cmax ↔ rilpivirine AUC ↑ 130% rilpivirine Cmin ↑ 178% rilpivirine Cmax ↑ 79% (inhibition of CYP3A enzymes) | Concomitant use of EDURANT with ritonavir-boosted PIs causes an increase in the plasma concentrations of rilpivirine, but no dose adjustment is required. |
 | Lopinavir/ritonavir (soft gel capsule)*# 400/100 mg twice daily | lopinavir AUC ↔ lopinavir Cmin ↓ 11% lopinavir Cmax ↔ rilpivirine AUC ↑ 52% rilpivirine Cmin ↑ 74% rilpivirine Cmax ↑ 29% (inhibition of CYP3A enzymes) |  |
 | Other boosted PIs (atazanavir/ritonavir, fosamprenavir/ritonavir, saquinavir/ritonavir, tipranavir/ritonavir) | Not studied. |  |
-| PIs – without co-administration of low dose ritonavir |  |  |
+| HIV PIs – without co-administration of low dose ritonavir |  |  |
 | Unboosted PIs (atazanavir, fosamprenavir, indinavir, nelfinavir) | Not studied. Increased exposure of rilpivirine is expected. (inhibition of CYP3A enzymes) | No dose adjustment is required. |
 | CCR5 Antagonists |  |  |
 | Maraviroc | Not studied. No clinically relevant drug-drug interaction is expected. | No dose adjustment is required. |
 | Integrase Strand Transfer Inhibitors |  |  |
-| Raltegravir | Not studied. No clinically relevant drug-drug interaction is expected. | No dose adjustment is required. |
+| Raltegravir* | raltegravir AUC ↑ 9% raltegravir Cmin ↑ 27% raltegravir Cmax ↑ 10% rilpivirine AUC ↔ rilpivirine Cmin ↔ rilpivirine Cmax ↔ | No dose adjustment is required. |
 | Other Antiviral Agents |  |  |
 | Ribavirin | Not studied. No clinically relevant drug-drug interaction is expected. | No dose adjustment is required. |
+| Telaprevir* 750 mg every 8 hours | telaprevir AUC ↓ 5% telaprevir Cmin ↓ 11% telaprevir Cmax ↓ 3% rilpivirine AUC ↑ 78% rilpivirine Cmin ↑ 93% rilpivirine Cmax ↑ 49% | No dose adjustment is required. |
 | OTHER AGENTS |  |  |
 | ANTICONVULSANTS |  |  |
 | Carbamazepine Oxcarbazepine Phenobarbital Phenytoin | Not studied. Significant decreases in rilpivirine plasma concentrations are expected. (induction of CYP3A enzymes) | EDURANT must not be used in combination with these anticonvulsants as co-administration may result in loss of therapeutic effect of EDURANT. |

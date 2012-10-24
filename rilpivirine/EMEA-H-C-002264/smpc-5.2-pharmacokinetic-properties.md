@@ -32,7 +32,7 @@ The pharmacokinetics of rilpivirine in pediatric patients are under investigatio
 Dosing recommendations for pediatric patients cannot be made due to insufficient data (see section 4.2).
 
 Elderly
-Population pharmacokinetic analysis in HIV infected patients showed that rilpivirine pharmacokinetics are not different across the age range (18 to 78 years) evaluated, with only 2 subjects aged 65 years or older.
+Population pharmacokinetic analysis in HIV infected patients showed that rilpivirine pharmacokinetics are not different across the age range (18 to 78 years) evaluated, with only 3 subjects aged 65 years or older.
 No dose adjustment of EDURANT is required in elderly patients.
 EDURANT should be used with caution in this population (see section 4.2).
 
