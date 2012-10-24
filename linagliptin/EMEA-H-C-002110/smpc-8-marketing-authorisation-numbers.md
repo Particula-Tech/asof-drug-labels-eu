@@ -1,1 +1,13 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/11/707/001 (10 tablets)
+EU/1/11/707/002 (14 tablets)
+EU/1/11/707/003 (28 tablets)
+EU/1/11/707/004 (30 tablets)
+EU/1/11/707/005 (56 tablets)
+EU/1/11/707/006 (60 tablets)
+EU/1/11/707/007 (84 tablets)
+EU/1/11/707/008 (90 tablets)
+EU/1/11/707/009 (98 tablets)
+EU/1/11/707/010 (100 tablets)
+EU/1/11/707/011 (120 tablets)

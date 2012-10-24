@@ -10,3 +10,4 @@ as combination therapy
 
 - in combination with metformin when diet and exercise plus metformin alone do not provide adequate glycaemic control.
 - in combination with a sulphonylurea and metformin when diet and exercise plus dual therapy with these medicinal products do not provide adequate glycaemic control.
+- in combination with insulin with or without metformin, when this regimen alone, with diet and exercise, does not provide adequate glycaemic control.

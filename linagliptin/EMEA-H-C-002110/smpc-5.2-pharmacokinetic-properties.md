@@ -10,7 +10,6 @@ Plasma AUC of linagliptin increased approximately 33% following 5 mg doses at st
 The intra-subject and inter-subject coefficients of variation for linagliptin AUC were small (12.6% and 28.5%, respectively).
 Due to the concentration dependent binding of linagliptin to DPP-4, the pharmacokinetics of linagliptin based on total exposure is not linear; indeed total plasma AUC of linagliptin increased in a less than dose-proportional manner while unbound AUC increases in a roughly dose proportional manner.
 The pharmacokinetics of linagliptin was generally similar in healthy subjects and in patients with type 2 diabetes.
-
 Absorption
 The absolute bioavailability of linagliptin is approximately 30%.
 Co-administration of a high-fat meal with linagliptin prolonged the time to reach Cmax by 2 hours and lowered Cmax by 15% but no influence on AUC 0-72h was observed.
@@ -22,7 +21,7 @@ Plasma protein binding of linagliptin is concentration-dependent, decreasing fro
 At high concentrations, where DPP-4 is fully saturated, 70-80% of linagliptin was bound to other plasma proteins than DPP-4, hence 30-20% were unbound in plasma.
 
 Biotransformation
-Following a [14C]linagliptin oral 10 mg dose, approximately 5% of the radioactivity was excreted in urine.
+Following a [14C] linagliptin oral 10 mg dose, approximately 5% of the radioactivity was excreted in urine.
 Metabolism plays a subordinate role in the elimination of linagliptin.
 One main metabolite with a relative exposure of 13.3% of linagliptin at steady state was detected which was found to be pharmacologically inactive and thus does not contribute to the plasma DPP-4 inhibitory activity of linagliptin.
 
@@ -32,7 +31,7 @@ Renal clearance at steady state was approximately 70 ml/min.
 
 Special populations
 
-Renal insufficiency
+Renal impairment
 A multiple-dose, open-label study was conducted to evaluate the pharmacokinetics of linagliptin (5 mg dose) in patients with varying degrees of chronic renal insufficiency compared to normal healthy control subjects.
 The study included patients with renal insufficiency classified on the basis of creatinine clearance as mild (50 to <80 ml/min), moderate (30 to <50 ml/min), and severe (<30 ml/min), as well as patients with ESRD on hemodialysis.
 In addition patients with T2DM and severe renal impairment (<30 ml/min) were compared to T2DM patients with normal renal function.
@@ -44,6 +43,7 @@ Exposure in T2DM patients with severe RI was increased by about 1.4 fold compare
 Steady-state predictions for AUC of linagliptin in patients with ESRD indicated comparable exposure to that of patients with moderate or severe renal impairment.
 In addition, linagliptin is not expected to be eliminated to a therapeutically significant degree by hemodialysis or peritoneal dialysis.
 Therefore, no dosage adjustment of linagliptin is necessary in patients with any degree of renal insufficiency.
+
 Hepatic impairment
 In non-diabetic patients with mild moderate and severe hepatic insufficiency (according to the Child-Pugh classification), mean AUC and Cmax of linagliptin were similar to healthy matched controls following administration of multiple 5 mg doses of linagliptin.
 No dosage adjustment for linagliptin is proposed for diabetic patients with mild, moderate or severe hepatic impairment.

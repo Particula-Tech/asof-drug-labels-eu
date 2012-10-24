@@ -9,6 +9,12 @@ In clinical trials of linagliptin as part of combination therapy with medicinal 
 
 When linagliptin was added to a sulphonylurea (on a background of metformin), the incidence of hypoglycaemia was increased over that of placebo (see section 4.8).
 
-Sulphonylureas are known to cause hypoglycaemia.
-Therefore, caution is advised when linagliptin is used in combination with a sulphonylurea.
-A dose reduction of the sulphonylurea may be considered (see section 4.2).
+Sulphonylureas and insulin are known to cause hypoglycaemia.
+Therefore, caution is advised when linagliptin is used in combination with a sulphonylurea and/or insulin.
+A dose reduction of the sulphonylurea or insulin, may be considered (see section 4.2).
+
+Pancreatitis
+In post-marketing experience of linagliptin there have been spontaneously reported adverse reactions of acute pancreatitis.
+Patients should be informed of the characteristic symptom of acute pancreatitis: persistent, severe abdominal pain.
+Resolution of pancreatitis has been observed after discontinuation of linagliptin.
+If pancreatitis is suspected, Trajenta should be discontinued.

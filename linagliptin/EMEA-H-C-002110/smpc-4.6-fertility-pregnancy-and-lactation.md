@@ -4,6 +4,7 @@ Pregnancy
 The use of linagliptin has not been studied in pregnant women.
 Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3).
 As a precautionary measure, it is preferable to avoid the use of Trajenta during pregnancy.
+
 Breast-feeding
 Available pharmacokinetic data in animals have shown excretion of linagliptin/metabolites in milk.
 A risk to the breast-feed child cannot be excluded.

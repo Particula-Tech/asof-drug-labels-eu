@@ -3,19 +3,20 @@
 Posology
 The dose of linagliptin is 5 mg once daily.
 When linagliptin is added to metformin, the dose of metformin should be maintained, and linagliptin administered concomitantly.
-When linagliptin is used in combination with a sulphonylurea, a lower dose of the sulphonylurea may be considered to reduce the risk of hypoglycaemia (see section 4.4)
+When linagliptin is used in combination with a sulphonylurea or with insulin, a lower dose of the sulphonylurea or insulin, may be considered to reduce the risk of hypoglycaemia (see section 4.4)
 
 Special populations
-Renal impairment
+
+Patients with renal impairment
 For patients with renal impairment, no dose adjustment for Trajenta is required.
 
-Hepatic impairment
+Patients with hepatic impairment
 Pharmacokinetic studies suggest that no dose adjustment is required for patients with hepatic impairment but clinical experience in such patients is lacking.
-
-Elderly
+Elderly patients
 No dose adjustment is necessary based on age.
 
-However, clinical experience in patients > 75 years of age is limited.
+However, clinical experience in patients > 80 years of age is limited and caution should be exercised when treating this population.
+
 Paediatric population
 The safety and efficacy of linagliptin in children and adolescents has not yet been established.
 No data are available.

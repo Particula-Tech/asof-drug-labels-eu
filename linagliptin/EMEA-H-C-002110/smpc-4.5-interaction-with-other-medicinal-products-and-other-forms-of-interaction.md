@@ -6,7 +6,6 @@ Linagliptin is a weak competitive and a weak to moderate mechanism-based inhibit
 It is not an inducer of CYP isozymes.
 Linagliptin is a P-glycoprotein substrate, and inhibits P-glycoprotein mediated transport of digoxin with low potency.
 Based on these results and in vivo interaction studies, linagliptin is considered unlikely to cause interactions with other P-gp substrates.
-
 In vivo assessment of interactions
 
 Effects of other medicinal products on linagliptin
@@ -15,6 +14,7 @@ Clinical data described below suggest that the risk for clinically meaningful in
 Metformin: co-administration of multiple three times daily doses of 850 mg metformin with 10 mg linagliptin once daily did not clinical meaningfully alter the pharmacokinetics of linagliptin in healthy volunteers.
 
 Sulphonylureas: the steady-state pharmacokinetics of 5 mg linagliptin was not changed by concomitant administration of a single 1.75 mg dose glibenclamide (glyburide).
+
 Ritonavir: co-administration of a single 5 mg oral dose of linagliptin and multiple 200 mg oral doses of ritonavir, a potent inhibitor of P-glycoprotein and CYP3A4, increased the AUC and Cmax of linagliptin approximately twofold and threefold, respectively The unbound concentrations, which are usually less than 1% at the therapeutic dose of linagliptin, were increased 4-5-fold after co-administration with ritanovir.
 Simulations of steady-state plasma concentrations of linagliptin with and without ritonavir indicated that the increase in exposure will be not associated with an increased accumulation.
 These changes in linagliptin pharmacokinetics were not considered to be clinically relevant.
