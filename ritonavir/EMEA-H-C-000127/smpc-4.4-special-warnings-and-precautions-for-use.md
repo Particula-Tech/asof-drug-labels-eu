@@ -20,7 +20,6 @@ In some patients additional factor VIII was given.
 In more than a half of the reported cases, treatment with protease inhibitors was continued or reintroduced if treatment had been discontinued.
 A causal relationship has been evoked, although the mechanism of action has not been elucidated.
 Haemophiliac patients should therefore be made aware of the possibility of increased bleeding.
-
 Diabetes mellitus and hyperglycaemia: New onset diabetes mellitus, hyperglycaemia or exacerbation of existing diabetes mellitus has been reported in patients receiving protease inhibitors.
 In some of these the hyperglycaemia was severe and in some cases also associated with ketoacidosis.
 Many patients had confounding medical conditions, some of which required therapy with agents that have been associated with the development of diabetes mellitus or hyperglycaemia.
@@ -58,7 +57,6 @@ Renal failure, renal impairment, elevated creatinine, hypophosphataemia and prox
 
 Ritonavir oral solution contains castor oil polyoxyl which may cause stomach upset and diarrhoea.
 Ritonavir oral solution also contains the azo-colouring agent sunset yellow (E110) which may cause allergic reactions.
-
 Ritonavir oral solution contains alcohol (43 % v/v), ie up to 2572.5 mg per maximum dose of 600 mg, equivalent to 81 ml beer (4%), 23 ml wine (14%) per dose.
 Each 100 mg dose contains up to 428.8 mg alcohol and each 200 mg dose contains 857.5 mg alcohol.
 Therefore concomitant administration of Norvir with disulfiram or medicines with disulfiram-like reactions (eg metronidazole) should be avoided.
@@ -94,6 +92,7 @@ When ritonavir is used as a pharmacokinetic enhancer, full details on the warnin
 PDE5 inhibitors: Particular caution should be used when prescribing sildenafil, tadalafil or vardenafil for the treatment of erectile dysfunction in patients receiving ritonavir.
 Co-administration of ritonavir with these medicinal products is expected to substantially increase their concentrations and may result in associated adverse reactions such as hypotension and prolonged erection (see section 4.5).
 Concomitant use of sildenafil with ritonavir is contraindicated in pulmonary arterial hypertension patients (see section 4.3).
+
 HMG-CoA reductase inhibitors: The HMG-CoA reductase inhibitors simvastatin and lovastatin are highly dependent on CYP3A for metabolism, thus concomitant use of ritonavir with simvastatin or lovastatin is not recommended due to an increased risk of myopathy including rhabdomyolysis.
 Caution must also be exercised and reduced doses should be considered if ritonavir is used concurrently with atorvastatin, which is metabolised to a lesser extent by CYP3A.
 While rosuvastatin elimination is not dependent on CYP3A, an elevation of rosuvastatin exposure has been reported with ritonavir co-administration.
@@ -123,7 +122,6 @@ Rivaroxaban: It is not recommended to use ritonavir in patients receiving rivaro
 Ritonavir dosed as a pharmacokinetic enhancer
 
 The interaction profiles of HIV-protease inhibitors, co-administered with low dose ritonavir, are dependant on the specific co-administered protease inhibitor.
-
 For a description of the mechanisms and potential mechanisms contributing to the interaction profile of the PIs, see section 4.5.
 Please also review the Summary of Product Characteristics for the particular boosted PI.
 

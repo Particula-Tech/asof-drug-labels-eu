@@ -1,10 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Abbott Laboratories Limited
-Abbott House,
-Vanwall Business Park,
-Vanwall Road,
-Maidenhead,
-Berkshire,
+AbbVie Ltd
+Maidenhead
 SL6 4XE
 United Kingdom

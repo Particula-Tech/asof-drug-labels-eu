@@ -24,11 +24,10 @@ Events noted as having a frequency not known were identified via post-marketing 
 |  | Uncommon | Increased neutrophils |
 | Immune system disorders | Common | Hypersensitivity, including urticaria and face edema. |
 |  | Rare | Anaphylaxis |
-| System Order Class | Frequency | Adverse reaction |
 | Metabolic and nutritional disorders | Common Uncommon | Hypercholesterolaemia, hypertriglyceridaemia, gout, lipodystrophy acquired, edema and peripheral edema, dehydration (usually associated with gastrointestinal symptoms) Diabetes mellitus |
 |  | Rare | Hyperglycaemia |
 | Nervous system disorders | Very common | Dysgeusia, oral and peripheral paresthesia, headache, dizziness, peripheral neuropathy |
-|  | Common | Insomnia, anxiety, confusion, disturbance in attention, syncope, seizure |
+| System Order Class | Frequency Common | Adverse reaction Insomnia, anxiety, confusion, disturbance in attention, syncope, seizure |
 | Eye disorders | Common | Blurred vision |
 | Cardiac disorders | Uncommon | Myocardial infarction |
 | Vascular disorders | Common | Hypertension, hypotension including orthostatic hypotension, peripheral coldness. |
@@ -42,13 +41,11 @@ Events noted as having a frequency not known were identified via post-marketing 
 | Musculosketal and connective tissue disorders | Very common | Arthralgia and back pain |
 |  | Common | Myositis, rhabdomyolysis, myalgia, myopathy/CPK increased |
 | Renal and urinary disorders | Common Uncommon | Increased urination, renal impairment (e.g. oliguria, elevated creatinine) Acute renal failure |
-| Reproductive system and breast | Common | Menorrhagia |
-| System Order Class | Frequency | Adverse reaction |
-| disorders |  |  |
+| Reproductive system and breast disorders | Common | Menorrhagia |
 | General disorders and administration site conditions | Very common | Fatigue including asthenia, flushing, feeling hot |
 |  | Common | Fever, weight loss |
 | Investigations | Common | Increased amylase, decreased free and total thyroxin |
-|  | Uncommon | Increased glucose, increased magnesium, increased alkaline phosphatase |
+| System Order Class | Frequency Uncommon | Adverse reaction Increased glucose, increased magnesium, increased alkaline phosphatase |
 
 Hepatic transaminase elevations exceeding five times the upper limit or normal, clinical hepatitis, and jaundice have occurred in patients receiving ritonavir alone or in combination with other antiretrovirals.
 
@@ -94,8 +91,8 @@ Events noted as having frequency not known were identified via post-marketing su
 |  | Common Rare | Acne Stevens Johnson syndrome, toxic epidermal necrolysis (TEN) |
 | Musculosketal and connective tissue disorders | Very Common | Arthralgia and back pain |
 |  | Common | Myositis, rhabdomyolysis, myalgia, myopathy/CPK increased |
-| Renal and urinary disorders | Common Uncommon | Increased urination, renal impairment (e.g. oliguria, elevated creatinine) Acute renal failure |
-| System Order Class | Frequency | Adverse Reaction |
+| Renal and urinary disorders | Common | Increased urination, renal impairment (e.g. oliguria, elevated creatinine) |
+| System Order Class | Frequency Uncommon | Adverse Reaction Acute renal failure |
 | Reproductive system and breast disorders | Common | Menorrhagia |
 | General disorders and administration site conditions | Very common | Fatigue, including asthenia, flushing, feeling hot |
 |  | Common | Fever, weight loss |
