@@ -7,8 +7,8 @@ Effects of other substances on tadalafil
 
 Cytochrome P450 inhibitors
 Tadalafil is principally metabolised by CYP3A4.
-A selective inhibitor of CYP3A4, ketoconazole (200 mg daily), increased tadalafil (10 mg) exposure (AUC) 2-fold and Cmax by 15�%, relative to the AUC and Cmax values for tadalafil alone.
-Ketoconazole (400 mg daily) increased tadalafil (20 mg) exposure (AUC) 4-fold and Cmax by 22�%.
+A selective inhibitor of CYP3A4, ketoconazole (200 mg daily), increased tadalafil (10 mg) exposure (AUC) 2-fold and Cmax by 15 %, relative to the AUC and Cmax values for tadalafil alone.
+Ketoconazole (400 mg daily) increased tadalafil (20 mg) exposure (AUC) 4-fold and Cmax by 22 %.
 Ritonavir, a protease inhibitor (200 mg twice daily), which is an inhibitor of CYP3A4, CYP2C9, CYP2C19, and CYP2D6, increased tadalafil (20 mg) exposure (AUC) 2-fold with no change in Cmax.
 Although specific interactions have not been studied, other protease inhibitors, such as saquinavir, and other CYP3A4 inhibitors, such as erythromycin, clarithromycin, itraconazole and grapefruit juice should be co-administered with caution as they would be expected to increase plasma concentrations of tadalafil (see section 4.4).
 Consequently the incidence of the adverse reactions listed in section 4.8 might be increased.
@@ -18,7 +18,7 @@ The role of transporters (for example p-glycoprotein) in the disposition of tada
 Therefore there is the potential of drug interactions mediated by inhibition of transporters.
 
 Cytochrome P450 inducers
-A CYP3A4 inducer, rifampicin, reduced tadalafil AUC by 88�%, relative to the AUC values for tadalafil alone (10 mg).
+A CYP3A4 inducer, rifampicin, reduced tadalafil AUC by 88 %, relative to the AUC values for tadalafil alone (10 mg).
 This reduced exposure can be anticipated to decrease the efficacy of tadalafil; the magnitude of decreased efficacy is unknown.
 Other inducers of CYP3A4 such as phenobarbital, phenytoin and carbamazepine, may also decrease plasma concentrations of tadalafil.
 
@@ -30,7 +30,6 @@ Therefore, administration of CIALIS to patients who are using any form of organi
 Based on the results of a clinical study in which 150 subjects receiving daily doses of tadalafil 20 mg for 7 days and 0.4 mg sublingual nitroglycerin at various times, this interaction lasted for more than 24 hours and was no longer detectable when 48 hours had elapsed after the last tadalafil dose.
 Thus, in a patient prescribed any dose of CIALIS (2.5 mg-20 mg), where nitrate administration is deemed medically necessary in a life-threatening situation, at least 48 hours should have elapsed after the last dose of CIALIS before nitrate administration is considered.
 In such circumstances, nitrates should only be administered under close medical supervision with appropriate haemodynamic monitoring.
-
 Anti-hypertensives (including calcium channel blockers)
 The co-administration of doxazosin (4 and 8 mg daily) and tadalafil (5 mg daily dose and 20 mg as a single dose) increases the blood pressure-lowering effect of this alpha-blocker in a significant manner.
 This effect lasts at least twelve hours and may be symptomatic, including syncope.
@@ -50,6 +49,10 @@ In patients receiving concomitant antihypertensive medicinal products, tadalafil
 Analysis of phase 3 clinical trial data showed no difference in adverse events in patients taking tadalafil with or without antihypertensive medicinal products.
 However, appropriate clinical advice should be given to patients regarding a possible decrease in blood pressure when they are treated with antihypertensive medicinal products.
 
+5- alpha reductase inhibitors
+In a clinical trial that compared tadalafil 5 mg coadministered with finasteride 5 mg to placebo plus finasteride 5 mg in the relief of BPH symptoms, no new adverse reactions were identified.
+However, as a formal drug-drug interaction study evaluating the effects of tadalafil and 5-alpha reductase inhibitors (5-ARIs) has not been performed, caution should be exercised when tadalafil is co-administered with 5-ARIs.
+
 CYP1A2 substrates (e.g. theophylline)
 When tadalafil 10 mg was administered with theophylline (a non-selective phosphodiesterase inhibitor) in a clinical pharmacology study, there was no pharmacokinetic interaction.
 The only pharmacodynamic effect was a small (3.5 bpm) increase in heart rate.
@@ -59,10 +62,10 @@ Ethinylestradiol and terbutaline
 Tadalafil has been demonstrated to produce an increase in the oral bioavailability of ethinylestradiol; a similar increase may be expected with oral administration of terbutaline, although the clinical consequence of this is uncertain.
 
 Alcohol
-Alcohol concentrations (mean maximum blood concentration 0.08�%) were not affected by co-administration with tadalafil (10 mg or 20 mg).
+Alcohol concentrations (mean maximum blood concentration 0.08 %) were not affected by co-administration with tadalafil (10 mg or 20 mg).
 In addition, no changes in tadalafil concentrations were seen 3 hours after co-administration with alcohol.
 Alcohol was administered in a manner to maximise the rate of alcohol absorption (overnight fast with no food until 2 hours after alcohol).
-Tadalafil (20 mg) did not augment the mean blood pressure decrease produced by alcohol (0.7 g/kg or approximately 180 ml of 40�% alcohol [vodka] in an 80-kg male) but in some subjects, postural dizziness and orthostatic hypotension were observed.
+Tadalafil (20 mg) did not augment the mean blood pressure decrease produced by alcohol (0.7 g/kg or approximately 180 ml of 40 % alcohol [vodka] in an 80-kg male) but in some subjects, postural dizziness and orthostatic hypotension were observed.
 When tadalafil was administered with lower doses of alcohol (0.6 g/kg), hypotension was not observed and dizziness occurred with similar frequency to alcohol alone.
 The effect of alcohol on cognitive function was not augmented by tadalafil (10 mg).
 

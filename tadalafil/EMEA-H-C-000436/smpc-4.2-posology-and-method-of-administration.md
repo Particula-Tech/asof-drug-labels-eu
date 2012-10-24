@@ -45,8 +45,22 @@ CIALIS is available as 2.5, 5, 10, and 20 mg film-coated tablets for oral use.
 
 [CIALIS 5 mg film-coated tablets]
 
+Erectile dysfunction in adult men
+
+Benign prostatic hyperplasia in adult men
+The recommended dose is 5 mg, taken at approximately the same time every day with or without food.
+For adult men being treated for both benign prostatic hyperplasia and erectile dysfunction the recommended dose is also 5 mg taken at approximately the same time every day.
+Patients who are unable to tolerate tadalafil 5 mg for the treatment of benign prostatic hyperplasia should consider an alternative therapy as the efficacy of tadalafil 2.5mg for the treatment of benign prostatic hyperplasia has not been demonstrated.
+
+For patients with severe renal impairment 10 mg is the maximum recommended dose for on-demand treatment.
+
+Once-a-day dosing of 2.5 or 5 mg tadalafil both for the treatment of erectile dysfunction or benign prostatic hyperplasia is not recommended in patients with severe renal impairment.
 (see sections 4.
 4 and 5.2).
+
+For the treatment of erectile dysfunction using on-demand CIALIS the recommended dose of CIALIS is 10 mg taken prior to anticipated sexual activity and with or without food.
+
+Once-a-day dosing of CIALIS both for the treatment of erectile dysfunction and benign prostatic hyperplasia has not been evaluated in patients with hepatic impairment; therefore, if prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician.
 
 [CIALIS 10 mg film-coated tablets]
 

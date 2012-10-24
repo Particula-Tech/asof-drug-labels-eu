@@ -2,6 +2,7 @@
 
 Before treatment with CIALIS
 A medical history and physical examination should be undertaken to diagnose erectile dysfunction and determine potential underlying causes, before pharmacological treatment is considered.
+
 Prior to initiating any treatment for erectile dysfunction, physicians should consider the cardiovascular status of their patients, since there is a degree of cardiac risk associated with sexual activity.
 Tadalafil has vasodilator properties, resulting in mild and transient decreases in blood pressure (see section 5.1) and as such potentiates the hypotensive effect of nitrates (see section 4.3).
 
@@ -48,7 +49,11 @@ Patients with rare hereditary problems of galactose intolerance, the Lapp lactas
 
 [CIALIS 5 mg film-coated tablets]
 
-(all sentences already above)
+A medical history and physical examination should be undertaken to diagnose erectile dysfunction or benign prostatic hyperplasia and determine potential underlying causes, before pharmacological treatment is considered.
+
+Prior to initiating treatment with tadalafil for benign prostatic hyperplasia patients should be examined to rule out the presence of carcinoma of the prostate and carefully assessed for cardiovascular conditions (see section 4.3).
+
+There are limited clinical data on the safety of single-dose administration of CIALIS in patients with severe hepatic insufficiency (Child-Pugh Class C). Once-a-day administration either for the treatment of erectile dysfunction or benign prostatic hyperplasia has not been evaluated in patients with hepatic insufficiency.
 
 [CIALIS 10 mg film-coated tablets]
 
