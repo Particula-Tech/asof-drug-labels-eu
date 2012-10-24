@@ -1,5 +1,9 @@
 # 1. NAME OF THE MEDICINAL PRODUCT
 
+PREZISTA 100 mg/ml oral suspension
+
+[PREZISTA 75 mg film-coated tablets]
+
 PREZISTA 75 mg film-coated tablets
 
 [PREZISTA 150 mg film-coated tablets]

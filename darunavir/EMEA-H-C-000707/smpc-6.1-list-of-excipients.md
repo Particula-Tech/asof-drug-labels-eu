@@ -1,13 +1,25 @@
 # 6.1 List of excipients
 
-Tablet core
+Hydroxypropylcellulose
 Microcrystalline cellulose
+Carmellose sodium
+Citric acid monohydrate
+Sucralose
+Strawberry cream flavour
+Masking flavour
+Sodium methyl parahydroxybenzoate (E219)
+Hydrocholoric acid (for pH adjustment)
+Purified water
+
+[PREZISTA 75 mg film-coated tablets]
+
+Tablet core
 Colloidal anhydrous silica
 Crospovidone
 Magnesium stearate
 
 Tablet film-coat
-Poly(vinyl alcohol) – partially hydrolyzed
+Poly(vinyl alcohol) – partially hydrolysed
 Macrogol 3350
 Titanium dioxide (E171)
 Talc

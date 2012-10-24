@@ -2,10 +2,9 @@
 
 The pharmacokinetic properties of darunavir, co-administered with ritonavir, have been evaluated in healthy adult volunteers and in HIV-1 infected patients.
 Exposure to darunavir was higher in HIV-1 infected patients than in healthy subjects.
-The increased exposure to darunavir in HIV-1 infected patients compared to healthy subjects may be explained by the higher concentrations of alpha-1-acid glycoprotein (AAG) in HIV-1 infected patients, resulting in higher darunavir binding to plasma AAG and, therefore, higher plasma concentrations.
+The increased exposure to darunavir in HIV-1 infected patients compared to healthy subjects may be explained by the higher concentrations of α1-acid glycoprotein (AAG) in HIV-1 infected patients, resulting in higher darunavir binding to plasma AAG and, therefore, higher plasma concentrations.
 Darunavir is primarily metabolised by CYP3A.
 Ritonavir inhibits CYP3A, thereby increasing the plasma concentrations of darunavir considerably.
-
 Absorption
 Darunavir was rapidly absorbed following oral administration.
 Maximum plasma concentration of darunavir in the presence of low dose ritonavir is generally achieved within 2.5-4.0 hours.
@@ -17,10 +16,10 @@ The type of food does not affect exposure to darunavir.
 
 Distribution
 Darunavir is approximately 95% bound to plasma protein.
-Darunavir binds primarily to plasma alpha-1-acid glycoprotein.
+Darunavir binds primarily to plasma α1-acid glycoprotein.
 Following intravenous administration, the volume of distribution of darunavir alone was 88.1 ± 59.0 l (Mean ± SD) and increased to 131 ± 49.9 l (Mean ± SD) in the presence of 100 mg twice-daily ritonavir.
 
-Metabolism
+Biotransformation
 In vitro experiments with human liver microsomes (HLMs) indicate that darunavir primarily undergoes oxidative metabolism.
 Darunavir is extensively metabolised by the hepatic CYP system and almost exclusively by isozyme CYP3A4.
 A 14C-darunavir trial in healthy volunteers showed that a majority of the radioactivity in plasma after a single 400/100 mg darunavir with ritonavir dose was due to the parent active substance.
@@ -32,14 +31,15 @@ Unchanged darunavir accounted for approximately 41.2% and 7.7% of the administer
 The terminal elimination half-life of darunavir was approximately 15 hours when combined with ritonavir.
 The intravenous clearance of darunavir alone (150 mg) and in the presence of low dose ritonavir was 32.8 l/h and 5.9 l/h, respectively.
 
-Special Populations
+Special populations
 Paediatric population
 The pharmacokinetics of darunavir in combination with ritonavir in 74 treatment-experienced paediatric patients, aged 6 to 17 years and weighing at least 20 kg, showed that the administered weight-based doses of PREZISTA/ritonavir resulted in darunavir exposure comparable to that in adults receiving PREZISTA/ritonavir 600/100 mg twice daily (see section 4.2).
+
+The pharmacokinetics of darunavir in combination with ritonavir in 14 treatment-experienced paediatric patients, aged 3 to < 6 years and weighing at least 15 kg to < 20 kg, showed that weight-based dosages resulted in darunavir exposure that was comparable to that achieved in adults receiving PREZISTA/rtv 600/100 mg twice daily (see section 4.2).
 
 Elderly
 Population pharmacokinetic analysis in HIV infected patients showed that darunavir pharmacokinetics are not considerably different in the age range (18 to 75 years) evaluated in HIV infected patients (n=12, age ≥65) (see section 4.4).
 However, only limited data were available in patients above the age of 65 year.
-
 Gender
 Population pharmacokinetic analysis showed a slightly higher darunavir exposure (16.8%) in HIV infected females compared to males.
 This difference is not clinically relevant.

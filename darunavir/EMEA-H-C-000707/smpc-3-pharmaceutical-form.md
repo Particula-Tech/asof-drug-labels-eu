@@ -1,5 +1,11 @@
 # 3. PHARMACEUTICAL FORM
 
+Oral suspension
+
+White to off-white opaque suspension
+
+[PREZISTA 75 mg film-coated tablets]
+
 Film-coated tablet.
 White caplet shaped tablet of 9.2 mm, debossed with “75” on one side and “TMC” on the other side.
 

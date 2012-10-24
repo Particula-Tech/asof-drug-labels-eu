@@ -1,5 +1,11 @@
 # 6.5 Nature and contents of container
 
+Amber-coloured multiple-dose glass bottle for 200 ml suspension with a polypropylene closure with LDPE liner packaged with a 6 ml oral dosing pipette with 0.2 ml gradations.
+The bottle neck is filled with a low density polyethylene (LDPE) insert that accomodates the dosing pipette.
+PREZISTA oral suspension is available in packs of one bottle.
+
+[PREZISTA 75 mg film-coated tablets]
+
 Opaque, white, high density polyethylene (HDPE) plastic, 160 ml bottle containing 480 tablets, fitted with polypropylene (PP) child resistant closure.
 One bottle
 
