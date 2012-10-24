@@ -30,5 +30,4 @@ Each graduation mark (5ml) of the measuring cup corresponds to 50 mg (for exampl
 
 Colourless type I glass vial with a chlorobutyl rubber closure coated with a fluoropolymer.
 Packs of 1x20 ml and 5x20 ml.
-
 Not all packsizes may be marketed

@@ -2,6 +2,7 @@
 
 Tablet core:
 microcrystalline cellulose hydroxypropylcellulose hydroxypropylcellulose (low substituted) silica, colloidal, anhydrous crospovidone magnesium stearate
+
 Tablet coat:
 polyvinyl alcohol polyethylene glycol 3350 talc titanium dioxide (E171) red iron oxide (E172), black iron oxide (E172), indigo carmine aluminium lake (E132)
 
