@@ -20,6 +20,7 @@ Co-administration of rifampicin with ticagrelor decreased ticagrelor Cmax and AU
 The Cmax of the active metabolite was unchanged and the AUC was decreased by 46%, respectively.
 Other CYP3A inducers (e.g. dexamethasone, phenytoin, carbamazepine and phenobarbital) would be expected to decrease the exposure to Brilique as well.
 Co-administration of ticagrelor with potent CYP3A inducers may decrease exposure and efficacy of ticagrelor (see section 4.4).
+
 Others
 Clinical pharmacology interaction studies showed that co-administration of ticagrelor with heparin, enoxaparin and ASA or desmopressin did not have any effect on the pharmacokinetics of ticagrelor or the active metabolite or on ADP-induced platelet aggregation compared with ticagrelor alone.
 If clinically indicated, medicinal products that alter haemostasis should be used with caution in combination with Brilique (see section 4.4).
@@ -59,7 +60,6 @@ In the presence of digoxin, the Cmax and AUC of ticagrelor and its active metabo
 Therefore, appropriate clinical and/or laboratory monitoring is recommended when giving narrow therapeutic index P-gp dependent medicinal products like digoxin or cyclosporin concomitantly with Brilique (see section 4.4).
 
 Other concomitant therapy
-
 Medicinal products known to induce bradycardia
 Due to observations of mostly asymptomatic ventricular pauses and bradycardia, caution should be exercised when administering Brilique concomitantly with medicinal products known to induce bradycardia (see section 4.4).
 However no evidence of clinically significant adverse reactions was observed in the PLATO trial after concomitant administration with one or more medicinal products known to induce bradycardia (e.g., 96% beta blockers, 33% calcium channel blockers diltiazem and verapamil, and 4% digoxin).

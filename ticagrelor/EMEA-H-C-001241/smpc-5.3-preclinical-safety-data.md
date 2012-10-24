@@ -1,7 +1,6 @@
 # 5.3 Preclinical safety data
 
 Preclinical data for ticagrelor and its major metabolite have not demonstrated unacceptable risk for adverse effects for humans based on conventional studies of safety pharmacology, single and repeated dose toxicity and genotoxic potential.
-
 Gastrointestinal irritation was observed in several animal species at clinical relevant exposure levels (see section 4.8).
 
 In female rats, ticagrelor at high dose showed an increased incidence of uterine tumors (adenocarcinomas) and an increased incidence of hepatic adenomas.

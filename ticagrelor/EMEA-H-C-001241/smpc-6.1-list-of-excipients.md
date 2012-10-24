@@ -6,6 +6,7 @@ Dibasic calcium phosphate
 Magnesium stearate (E470b)
 Sodium starch glycolate
 Hydroxypropyl-cellulose (E463)
+
 Coating
 Talc
 Titanium dioxide (E171)

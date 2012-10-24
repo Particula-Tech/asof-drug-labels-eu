@@ -51,6 +51,7 @@ Uric acid increase
 In PLATO study, patients on ticagrelor had a higher risk of hyperuricaemia than those patients receiving clopidogrel (see section 4.8).
 Caution should be exercised when administering ticagrelor to patients with history of hyperuricaemia or gouty arthritis.
 As a precautionary measure, the use of ticagrelor in patients with uric acid nephropathy is discouraged.
+
 Other
 Based on a relationship observed in PLATO between maintenance ASA dose and relative efficacy of ticagrelor compared to clopidogrel, co-administration of Brilique and high maintenance dose ASA (>300 mg) is not recommended (see section 5.1).
 

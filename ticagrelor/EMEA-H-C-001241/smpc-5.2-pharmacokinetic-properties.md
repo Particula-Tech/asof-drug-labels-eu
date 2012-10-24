@@ -14,7 +14,7 @@ These small changes are considered of minimal clinical significance; therefore, 
 Ticagrelor as well as the active metabolite are P-gp substrates.
 
 Distribution
-The steady state volume of distribution of ticagrelor is 87.5 l. Ticagrelor and the active metabolite is extensively bound to human plasma protein (>99.7%).
+The steady state volume of distribution of ticagrelor is 87.5 l. Ticagrelor and the active metabolite is extensively bound to human plasma protein (>99.0%).
 
 Biotransformation
 CYP3A4 is the major enzyme responsible for ticagrelor metabolism and the formation of the active metabolite and their interactions with other CYP3A substrates ranges from activation through to inhibition.
@@ -41,6 +41,7 @@ Ticagrelor has not been evaluated in a paediatric population (see section 4.2 an
 Gender
 Higher exposures to ticagrelor and the active metabolite were observed in women compared to men.
 These differences are not considered clinically significant.
+
 Renal impairment
 Exposure to ticagrelor and the active metabolite were approximately 20% lower in patients with severe renal impairment (creatinine clearance <30 ml/min) compared to subjects with normal renal function (see section 4.2).
 

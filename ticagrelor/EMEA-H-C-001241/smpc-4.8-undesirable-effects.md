@@ -2,30 +2,48 @@
 
 Summary of safety profile
 The safety of Brilique in patients with acute coronary syndromes (UA, NSTEMI and STEMI) was evaluated in the pivotal large phase 3 PLATO ([PLATelet Inhibition and Patient Outcomes] study, 18,624 patients), which compared patients treated with Brilique (loading dose of 180 mg of Brilique and a maintenance dose of 90 mg twice daily) to patients treated with clopidogrel (300-600 mg loading dose followed by 75 mg once daily maintenance dose) both given in combination with acetylsalicylic acid (ASA) and other standard therapies.
+
 The most commonly reported adverse reactions in patients treated with ticagrelor were dyspnoea, contusion and epistaxis and these reactions occurred at higher rates than in the clopidogrel treatment group.
 
 Tabulated summary of adverse reactions
 The following adverse reactions have been identified following studies with Brilique (Table 1).
 
 Adverse reactions are classified according to frequency and System Organ Class.
-Frequency categories are defined according to the following conventions: Very common (≥1/10), Common (≥1/100 to <1/10), Uncommon (≥1/1,000 to <1/100), Rare (≥1/10,000 to <1/1,000), Very rare (<1/10,000), Not known (cannot be estimated from the available data).
+Frequency categories are defined according to the following conventions: Very common (≥1/10), Common
+(≥1/100 to <1/10), Uncommon (≥1/1,000 to <1/100), Rare (≥1/10,000 to <1/1,000), Very rare (<1/10,000), Not known (cannot be estimated from the available data).
 
-| Table 1 Adverse reactions by frequency and System Organ Class (SOC) |  |  |  |
-| --- | --- | --- | --- |
-| System Organ Class | Common | Uncommon | Rare |
-| Metabolism and nutrition disorders |  |  | Hyperuricaemiaa |
-| Psychiatric disorders |  |  | Confusion |
-| Nervous system disorders |  | Intracranial haemorrhageb, Dizziness, Headache | Paraesthesia |
-| Eye disorders |  | Eye haemorrhage (intraocular, conjunctival, retinal) |  |
-| Ear and labyrinth disorders |  |  | Ear haemorrhage, Vertigo |
-| Respiratory, thoracic and mediastinal disorders | Dyspnoeac, Epistaxis | Haemoptysis |  |
-| Gastrointestinal disorders | Gastrointestinal haemorrhaged | Haematemesis, Gastroinstestinal ulcer haemorrhagee, Haemorrhoidal haemorrhage, Gastritis, Oral haemorrhage (including gingival bleeding), Vomiting, Diarrhoea, Abdominal pain, Nausea, Dyspepsia | Retroperitoneal haemorrhage, Constipation |
-| Skin and subcutaneous tissue disorders | Subcutaneous or dermal bleedingf, Bruising g | Rash, Pruritus |  |
-| Musculoskeletal and connective tissue disorders |  |  | Haemarthrosis# |
-| Renal and urinary disorders |  | Haemorrhage urinary tract h |  |
-| Reproductive system and breast disorders |  | Vaginal bleeding (including metrorrhagia) |  |
-| Investigations |  |  | Blood creatinine increased |
-| Injury, poisoning and procedural complications | Procedural site haemorrhagei | Post procedural haemorrhage, Haemorrhage | Wound haemorrhage, Traumatic haemorrhage |
+| Table 1 – Adverse reactions by frequency and System Organ Class (SOC) |  |  |
+| --- | --- | --- |
+| Common | Uncommon | Rare |
+| System Organ Class Metabolism and nutrition disorders |  |  |
+|  |  | Hyperuricaemiaa |
+| Psychiatric disorders |  |  |
+|  |  | Confusion |
+| Nervous system disorders |  |  |
+|  | Intracranial haemorrhageb, Dizziness, Headache | Paraesthesia |
+| Eye disorders |  |  |
+|  | Eye haemorrhage (intraocular, conjunctival, retinal) |  |
+| Ear and labyrinth disorders |  |  |
+|  |  | Ear haemorrhage, Vertigo |
+| Respiratory, thoracic and mediastinal disorders |  |  |
+| Dyspnoeac, Epistaxis | Haemoptysis |  |
+| Gastrointestinal disorders |  |  |
+| Gastrointestinal haemorrhaged | Haematemesis, Gastroinstestinal ulcer haemorrhagee, Haemorrhoidal haemorrhage, Gastritis, Oral haemorrhage (including gingival bleeding), Vomiting, Diarrhoea, Abdominal pain, Nausea, Dyspepsia | Retroperitoneal haemorrhage, Constipation |
+| Skin and subcutaneous tissue disorders |  |  |
+| Subcutaneous or dermal bleedingf, Bruising g | Rash, Pruritus |  |
+| Musculoskeletal and connective tissue disorders |  |  |
+|  |  | Haemarthrosis# |
+| Renal and urinary disorders |  |  |
+|  | Haemorrhage urinary tract h |  |
+| Reproductive system and breast disorders |  |  |
+|  | Vaginal bleeding (including metrorrhagia) |  |
+| Investigations |  |  |
+|  |  | Blood creatinine increased |
+| Common | Uncommon | Rare |
+| Injury, poisoning and procedural complications |  |  |
+| Procedural site haemorrhagei | Post procedural haemorrhage, Haemorrhage | Wound haemorrhage, Traumatic haemorrhage |
+| Immune system disorders |  |  |
+|  | Hypersensitivity including angioedema |  |
 
 Multiple related adverse reaction terms have been grouped together in the table and include medical terms as described below:
 a Hyperuricaemia, Blood uric acid increased b Cerebral haemorrhage, Haemorrhage intracranial, Haemorrhagic stroke, c Dyspnoea, Dyspnoea exertional, Dyspnoea at rest, Nocturnal dyspnoea d Gastrointestinal haemorrhage, Rectal haemorrhage, Intestinal haemorrhage, Melaena, Occult blood e Gastrointestinal ulcer haemorrhage, Gastric ulcer haemorrhage, Duodenal ulcer haemorrhage, Peptic ulcer haemorrhage f Subcutaneous haematoma, Skin haemorrhage, Haemorrhage subcutaneous, Petechiae g Contusion, Haematoma, Ecchymosis, Increased tendency to bruise, Traumatic haematoma h Haematuria, Blood urine present, Haemorrhage urinary tract i Vessel puncture site haemorrhage, Vessel puncture site haematoma, Injection site haemorrhage, Puncture site haemorrhage, Catheter site haemorrhage
@@ -77,7 +95,7 @@ There was no difference in overall fatal bleeds.
 
 Dyspnoea
 Dyspnoea, a sensation of breathlessness, is reported by patients treated with Brilique.
-Dyspnoea adverse reactions (ADRs) (dyspnoea, dyspnoea at rest, dyspnoea exertional, dyspnoea paroxysmal nocturnal and nocturnal dyspnoea), when combined, was reported by 13.8% of patients treated with ticagrelor and by 7.8% of patients treated with clopidogrel.
+Dyspnoea adverse events (AEs) (dyspnoea, dyspnoea at rest, dyspnoea exertional, dyspnoea paroxysmal nocturnal and nocturnal dyspnoea), when combined, was reported by 13.8% of patients treated with ticagrelor and by 7.8% of patients treated with clopidogrel.
 In 2.2% of patients taking ticagrelor and by 0.6% taking clopidogrel investigators considered the dyspnoea causally related to treatment in the PLATO study and few were serious (0.14% ticagrelor; 0.02% clopidogrel), (see section 4.4).
 Most reported symptoms of dyspnoea were mild to moderate in intensity, and most were reported as a single episode early after starting treatment.
 

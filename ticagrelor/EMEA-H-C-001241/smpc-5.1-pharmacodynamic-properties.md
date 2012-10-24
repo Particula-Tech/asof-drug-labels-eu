@@ -25,7 +25,7 @@ The PLATO study included 18,624 patients who presented within 24 hours of onset 
 On a background of daily ASA, ticagrelor 90 mg twice daily showed superiority to 75 mg daily clopidogrel in preventing the composite endpoint of cardiovascular [CV] death, myocardial infarction [MI], or stroke, with the difference driven by CV death and MI.
 Patients received a 300 mg loading dose of clopidogrel (600 mg possible if having PCI) or 180 mg of ticagrelor.
 
-The result appeared early (absolute risk reduction [ARR] 1.0% and Relative Risk Reduction [RRR] of 12% at 30 days), with a constant treatment effect over the entire 12 month period, yielding ARR
+The result appeared early (absolute risk reduction [ARR] 0.6% and Relative Risk Reduction [RRR] of 12% at 30 days), with a constant treatment effect over the entire 12 month period, yielding ARR
 1.9% per year with RRR of 16%.
 This suggests it is appropriate to treat patients with ticagrelor for up to 12 months (see section 4.2).
 Treating 54 ACS patients with ticagrelor instead of clopidogrel will prevent 1 atherothrombotic event; treating 91 will prevent 1 CV death (see Figure 1 and Table 3).
@@ -35,11 +35,12 @@ The treatment effect of ticagrelor over clopidogrel appears consistent across ma
 A weakly significant treatment interaction was observed with region whereby the HR for the primary endpoint favours ticagrelor in the rest of world but favours clopidogrel in North America, which represented approximately 10% of the overall population studied (interaction p-value=0.045).
 Exploratory analyses suggest a possible association with ASA dose such that reduced efficacy was observed with ticagrelor with increasing ASA doses.
 Chronic daily ASA doses to accompany Brilique should be 75-150 mg (see section 4.2 and 4.4).
-Figure 1 shows the estimate of the risk to the first occurrence of any event in the composite efficacy endpoint.
 
+Figure 1 shows the estimate of the risk to the first occurrence of any event in the composite efficacy endpoint.
 Figure 1 – Time to first occurrence of CV death, MI and Stroke (PLATO)
 
 Brilique reduced the occurrence of the primary composite endpoint compared to clopidogrel in both the UA/NSTEMI and STEMI population (Table 3).
+
 Table 3 -Outcome Events in PLATO
 
 |  | Brilique (% patients with event) N=9333 | Clopidogrel (% patients with event) N=9291 | ARRa (%/yr) | RRRa (%) (95% CI) | P |
@@ -77,5 +78,6 @@ Non-CABG PLATO Major bleeding was increased with ticagrelor compared clopidogrel
 
 Combined efficacy and safety composite
 A combined efficacy and safety composite (CV death, MI, stroke, or PLATO-defined ‘Total Major’ bleeding) indicates that the benefit in efficacy of Brilique compared to clopidogrel is not offset by the major bleeding events (ARR 1.4%, RRR 8%, HR 0.92; p=0.0257) over 12 months after ACS.
+
 Paediatric population
 The European Medicines Agency has waived the obligation to submit the results of studies with Brilique in all subsets of the paediatric population in the granted indication (see section 4.2 and 5.2).
