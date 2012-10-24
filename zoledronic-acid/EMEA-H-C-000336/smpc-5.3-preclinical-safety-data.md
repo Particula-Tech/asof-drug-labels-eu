@@ -11,6 +11,7 @@ The most frequent finding in repeat-dose studies consisted of increased primary 
 
 The safety margins relative to renal effects were narrow in the long-term repeat-dose parenteral animal studies but the cumulative no adverse event levels (NOAELs) in the single dose (1.6 mg/kg) and multiple dose studies of up to one month (0.06–0.6 mg/kg/day) did not indicate renal effects at doses equivalent to or exceeding the highest intended human therapeutic dose.
 Longer-term repeat administration at doses bracketing the highest intended human therapeutic dose of zoledronic acid produced toxicological effects in other organs, including the gastrointestinal tract, liver, spleen and lungs, and at intravenous injection sites.
+
 Reproduction toxicity
 Zoledronic acid was teratogenic in the rat at subcutaneous doses ≥ 0.2 mg/kg.
 Although no teratogenicity or foetotoxicity was observed in the rabbit, maternal toxicity was found.

@@ -8,4 +8,4 @@ EU/1/01/176/004-006
 
 [Zometa 4 mg/100 ml solution for infusion]
 
-EU/1/01/176/000
+EU/1/01/176/007-9

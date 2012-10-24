@@ -6,6 +6,7 @@ Within three days after Zometa administration, an acute phase reaction has commo
 The following are the important identified risks with Zometa in the approved indications:
 Renal function impairment, osteonecrosis of the jaw, acute phase reaction, hypocalcaemia, ocular adverse events, atrial fibrillation, anaphylaxis.
 The frequencies for each of these identified risks are shown in Table 1.
+
 Tabulated list of adverse reactions
 The following adverse reactions, listed in Table 1, have been accumulated from clinical studies and post-marketing reports following predominantly chronic treatment with 4 mg zoledronic acid:
 
@@ -55,6 +56,7 @@ Rare: Bradycardia
 Respiratory, thoracic and mediastinal disorders
 
 Uncommon: Dyspnoea, cough, bronchoconstriction
+Rare: Interstitial lung disease
 
 Gastrointestinal disorders
 
@@ -73,7 +75,7 @@ Common: Bone pain, myalgia, arthralgia, generalised
 
 pain
 
-Uncommon: Muscle cramps, osteonecrosis of the jaw*
+Uncommon: Muscle cramps, osteonecrosis of the jaw
 
 Renal and urinary disorders
 
@@ -99,12 +101,10 @@ hypocalcaemia
 Uncommon: Hypomagnesaemia, hypokalaemia
 Rare: Hyperkalaemia, hypernatraemia
 
-* Based on clinical trials with adjudication of possible cases of osteonecrosis of the jaw.
-Since these reports are subject to confounding factors, it is not possible to reliably establish a causal relationship to exposure to the medicinal product.
-
 Description of selected adverse reactions
 Renal function impairment
 Zometa has been associated with reports of renal dysfunction.
+In a pooled analysis of safety data from Zometa registration trials for the prevention of skeletal-related events in patients with advanced malignancies involving bone, the frequency of renal impairment adverse events suspected to be related to Zometa (adverse reactions) was as follows: multiple myeloma (3.2%), prostate cancer (3.1%), breast cancer (4.3%), lung and other solid tumours (3.2%).
 Factors that may increase the potential for deterioration in renal function include dehydration, pre-existing renal impairment, multiple cycles of Zometa or other bisphosphonates, as well as concomitant use of nephrotoxic medicinal products or using a shorter infusion time than currently recommended.
 Renal deterioration, progression to renal failure and dialysis have been reported in patients after the initial dose or a single dose of 4 mg zoledronic acid (see section 4.4).
 
@@ -113,7 +113,6 @@ Cases of osteonecrosis (primarily of the jaws) have been reported, predominantly
 Many of these patients had signs of local infection including osteomyelitis, and the majority of the reports refer to cancer patients following tooth extractions or other dental surgeries.
 Osteonecrosis of the jaws has multiple documented risk factors including a diagnosis of cancer, concomitant therapies (e.g. chemotherapy, radiotherapy, corticosteroids) and co-morbid conditions (e.g. anaemia, coagulopathies, infection, pre-existing oral disease).
 Although causality has not been determined, it is recommended to avoid dental surgery as recovery may be prolonged (see section 4.4).
-
 Atrial fibrillation
 In one 3-year, randomised, double-blind controlled trial that evaluated the efficacy and safety of zoledronic acid 5 mg once yearly vs. placebo in the treatment of postmenopausal osteoporosis (PMO), the overall incidence of atrial fibrillation was 2.5% (96 out of 3,862) and 1.9% (75 out of 3,852) in patients receiving zoledronic acid 5 mg and placebo, respectively.
 The rate of atrial fibrillation serious adverse events was 1.3% (51 out of 3,862) and 0.6% (22 out of 3,852) in patients receiving zoledronic acid 5 mg and placebo, respectively.
@@ -123,6 +122,7 @@ The mechanism behind the increased incidence of atrial fibrillation in this sing
 Acute phase reaction
 This adverse drug reaction consists of a constellation of symptoms that includes fever, myalgia, headache, extremity pain, nausea, vomiting, diarrhoea and arthralgia.
 The onset time is ≤ 3 days post-Zometa infusion, and the reaction is also referred to using the terms “flu-like” or “post-dose” symptoms.
+
 Atypical fractures of the femur
 During post-marketing experience the following reactions have been reported (frequency rare): Atypical subtrochanteric and diaphyseal femoral fractures (bisphopsphonate class adverse reaction).
 

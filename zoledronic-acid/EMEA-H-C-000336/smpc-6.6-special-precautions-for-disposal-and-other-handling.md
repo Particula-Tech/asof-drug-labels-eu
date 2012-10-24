@@ -10,7 +10,6 @@ Aseptic techniques must be followed during the preparation of the infusion.
 For single use only.
 
 Only clear solution free from particles and discolouration should be used.
-
 Healthcare professionals are advised not to dispose of unused Zometa via the domestic sewage system.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

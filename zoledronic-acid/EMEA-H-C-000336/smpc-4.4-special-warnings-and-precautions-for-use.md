@@ -9,6 +9,9 @@ Standard hypercalcaemia-related metabolic parameters, such as serum levels of ca
 If hypocalcaemia, hypophosphataemia, or hypomagnesaemia occurs, short-term supplemental therapy may be necessary.
 Untreated hypercalcaemia patients generally have some degree of renal function impairment, therefore careful renal function monitoring should be considered.
 
+Cases of severe hypocalcaemia requiring hospitalisation have been reported.
+In some instances, life-threatening hypocalcaemia may be encountered.
+
 Zometa contains the same active substance as found in Aclasta (zoledronic acid).
 Patients being treated with Zometa should not be treated with Aclasta or any other bisphosphonate concomitantly, since the combined effects of these agents are unknown.
 
@@ -22,7 +25,6 @@ Factors that may increase the potential for deterioration in renal function incl
 While the risk is reduced with a dose of 4 mg zoledronic acid administered over 15 minutes, deterioration in renal function may still occur.
 Renal deterioration, progression to renal failure and dialysis have been reported in patients after the initial dose or a single dose of 4 mg zoledronic acid.
 Increases in serum creatinine also occur in some patients with chronic administration of Zometa at recommended doses for prevention of skeletal related events, although less frequently.
-
 Patients should have their serum creatinine levels assessed prior to each dose of Zometa.
 Upon initiation of treatment in patients with bone metastases with mild to moderate renal impairment, lower doses of zoledronic acid are recommended.
 In patients who show evidence of renal deterioration during treatment, Zometa should be withheld.
@@ -36,12 +38,18 @@ Hepatic insufficiency
 As only limited clinical data are available in patients with severe hepatic insufficiency, no specific recommendations can be given for this patient population.
 
 Osteonecrosis of the jaw
-Osteonecrosis of the jaw has been reported in patients, predominantly those with cancer, receiving treatment with medicinal products that inhibit bone resorption, such as Zometa.
+Osteonecrosis of the jaw (ONJ) has been reported in patients, predominantly those with cancer, receiving treatment with medicinal products that inhibit bone resorption, such as Zometa.
 Many of these patients were also receiving chemotherapy and corticosteroids.
 The majority of reported cases have been associated with dental procedures such as tooth extraction.
 Many had signs of local infection including osteomyelitis.
 
-A dental examination with appropriate preventive dentistry should be considered prior to treatment with bisphosphonates in patients with concomitant risk factors (e.g. cancer, chemotherapy, corticosteroids, poor oral hygiene).
+The following risk factors should be considered when evaluating an individual’s risk of developing ONJ:
+
+- Potency of the bisphosphonate (higher risk for highly potent compounds), route of administration (higher risk for parenteral administration) and cumulative dose
+- Cancer, chemotherapy, radiotherapy, corticosteroids, smoking
+- History of dental disease, poor oral hygiene, periodontal disease, invasive dental procedures and poorly fitting dentures
+
+A dental examination with appropriate preventive dentistry should be considered prior to treatment with bisphosphonates in patients with concomitant risk factors.
 
 While on treatment, these patients should avoid invasive dental procedures if possible.
 For patients who develop osteonecrosis of the jaw while on bisphosphonate therapy, dental surgery may exacerbate the condition.
@@ -54,7 +62,6 @@ However, such reports have been infrequent.
 The time to onset of symptoms varied from one day to several months after starting treatment.
 Most patients had relief of symptoms after stopping treatment.
 A subset had recurrence of symptoms when rechallenged with Zometa or another bisphosphonate.
-
 Atypical fractures of the femur
 Atypical subtrochanteric and diaphyseal femoral fractures have been reported with bisphosphonate therapy, primarily in patients receiving long-term treatment for osteoporosis.
 These transverse or short oblique fractures can occur anywhere along the femur from just below the lesser trochanter to just above the supracondylar flare.

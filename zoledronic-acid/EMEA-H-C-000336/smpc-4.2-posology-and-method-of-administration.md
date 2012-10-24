@@ -49,7 +49,7 @@ Zometa treatment should be resumed at the same dose as that given prior to treat
 
 Paediatric population
 The safety and efficacy of zoledronic acid in children aged 1 year to 17 years have not been established.
-Currently available data are described in sections 4.4 and 5.1 but no recommendation on a posology can be made.
+Currently available data are described in section 5.1 but no recommendation on a posology can be made.
 
 Method of administration
 Intravenous use.
@@ -64,7 +64,7 @@ Withdraw an appropriate volume of the reconstituted solution (4 mg/5 ml) as need
 - 4.1 ml for 3.3 mg dose
 - 3.8 ml for 3.0 mg dose
 
-For information on the reconstitution and dilution of Zometa, see section 6.6.
+For instructions on reconstitution and dilution of Zometa before administration, see section 6.6.
 The withdrawn amount of reconstituted solution must be diluted in 100 ml of sterile 0.9% w/v sodium chloride solution or 5% w/v glucose solution.
 The dose must be given as a single intravenous infusion over no less than 15 minutes.
 Zometa reconstituted solution must not be mixed with calcium or other divalent cation-containing infusion solutions such as lactated Ringer’s solution, and should be administered as a single intravenous solution in a separate infusion line.
@@ -73,10 +73,13 @@ Patients must be maintained well hydrated prior to and following administration 
 
 [Zometa 4 mg/5 ml concentrate for solution for infusion]
 
+Currently available data are described in section and 5.1 but no recommendation on a posology can be made.
+
 Zometa 4 mg concentrate for solution for infusion, further diluted in 100 ml (see section 6.6), should be given as a single intravenous infusion in no less than 15 minutes.
 
 Withdraw an appropriate volume of the concentrate needed, as follows:
 
+For instructions on the dilution of Zometa before administration, see section 6.6.
 The withdrawn amount of concentrate must be further diluted in 100 ml of sterile 0.9% w/v sodium chloride solution or 5% w/v glucose solution.
 
 Zometa concentrate must not be mixed with calcium or other divalent cation-containing infusion solutions such as lactated Ringer’s solution, and should be administered as a single intravenous solution in a separate infusion line.

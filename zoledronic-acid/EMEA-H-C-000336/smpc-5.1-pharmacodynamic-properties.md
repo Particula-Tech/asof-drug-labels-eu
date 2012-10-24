@@ -26,6 +26,7 @@ Efficacy results are provided in Table 2.
 In a second study including solid tumours other than breast or prostate cancer, zoledronic acid 4 mg significantly reduced the proportion of patients with an SRE, delayed the median time to first SRE by > 2 months, and reduced the skeletal morbidity rate.
 Multiple event analysis showed 30.7% risk reduction in developing SREs in the zoledronic acid 4 mg group compared with placebo.
 Efficacy results are provided in Table 3.
+
 Table 2: Efficacy results (prostate cancer patients receiving hormonal therapy)
 
 |  | Any SRE (+TIH) |  | Fractures* |  | Radiation therapy to bone |  |
@@ -44,7 +45,6 @@ Table 2: Efficacy results (prostate cancer patients receiving hormonal therapy)
 * Includes vertebral and non-vertebral fractures
 ** Accounts for all skeletal events, the total number as well as time to each event during the trial NR Not Reached
 NA Not Applicable
-
 Table 3: Efficacy results (solid tumours other than breast or prostate cancer)
 
 |  | Any SRE (+TIH) |  | Fractures* |  | Radiation therapy to bone |  |
@@ -144,6 +144,7 @@ Estimated treatment effects on BMD were similar, but the trial design was not su
 In particular there was no clear evidence of efficacy on incidence of fracture or on pain.
 Fracture adverse events of long bones in the lower extremities were reported in approximately 24% (femur) and 14% (tibia) of zoledronic acid-treated patients vs 12% and 5% of pamidronate-treated patients with severe osteogenesis imperfecta, regardless of disease type and causality but overall incidence of fractures was comparable for the zoledronic acid and pamidronate-treated patients: 43% (32/74) vs 41% (31/76).
 Interpretation of the risk of fracture is confounded by the fact that fractures are common events in patients with severe osteogenesis imperfecta as part of the disease process.
+
 The type of adverse reactions observed in this population were similar to those previously seen in adults with advanced malignancies involving the bone (see section 4.8).
 The adverse reactions ranked under headings of frequency, are presented in Table 6.
 The following conventional classification is used: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000), not known (cannot be estimated from the available data).

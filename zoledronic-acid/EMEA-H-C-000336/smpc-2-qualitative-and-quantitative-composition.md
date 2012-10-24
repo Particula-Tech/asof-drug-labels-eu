@@ -2,7 +2,7 @@
 
 One vial contains 4 mg zoledronic acid, corresponding to 4.264 mg zoledronic acid monohydrate.
 
-For a full list of excipients, see section 6.1.
+For the full list of excipients, see section 6.1.
 
 [Zometa 4 mg/5 ml concentrate for solution for infusion]
 
