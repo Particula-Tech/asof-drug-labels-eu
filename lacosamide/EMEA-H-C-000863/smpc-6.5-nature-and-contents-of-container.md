@@ -2,7 +2,6 @@
 
 PVC/PVDC blister sealed with an aluminium foil.
 Packs of 14, 56 and 168 film-coated tablets.
-
 Not all pack sizes may be marketed.
 
 [Vimpat 100 mg film-coated tablets]
@@ -30,4 +29,5 @@ Each graduation mark (5ml) of the measuring cup corresponds to 50 mg (for exampl
 
 Colourless type I glass vial with a chlorobutyl rubber closure coated with a fluoropolymer.
 Packs of 1x20 ml and 5x20 ml.
-Not all packsizes may be marketed
+
+Not all packsizes may be marketed.

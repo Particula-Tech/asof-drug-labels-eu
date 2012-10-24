@@ -31,13 +31,15 @@ The pharmacokinetics is dose-proportional and constant over time, with low intra
 Following twice daily dosing, steady state plasma concentrations are achieved after a 3 day period.
 The plasma concentration increases with an accumulation factor of approximately 2.
 
+A single loading dose of 200 mg approximates steady-state concentrations comparable to 100 mg twice daily oral administration.
+
 Pharmacokinetics in special patient groups
 
 Gender
 Clinical trials indicate that gender does not have a clinically significant influence on the plasma concentrations of lacosamide.
 
 Renal impairment
-The AUC of lacosamide was increased by approximately 30% in mildly and moderately and 60% in severely renal impaired patients and patients with endstage renal disease requiring hemodialysis compared to healthy subjects, whereas cmax was unaffected.
+The AUC of lacosamide was increased by approximately 30% in mildly and moderately and 60% in severely renal impaired patients and patients with endstage renal disease requiring hemodialysis compared to healthy subjects, whereas cmax was unaffected..
 Lacosamide is effectively removed from plasma by haemodialysis.
 Following a 4-hour haemodialysis treatment, AUC of lacosamide is reduced by approximately 50%.
 Therefore dosage supplementation following haemodialysis is recommended (see section 4.2).
@@ -48,8 +50,7 @@ It is unknown whether the increased metabolite exposure in endstage renal diseas
 Hepatic impairment
 Subjects with moderate hepatic impairment (Child-Pugh B) showed higher plasma concentrations of lacosamide (approximately 50% higher AUCnorm).
 The higher exposure was partly due to a reduced renal function in the studied subjects.
-The decrease in non-renal clearance in the patients of the study was estimated to give a 20% increase in the AUC of lacosamide.
-The pharmacokinetics of lacosamide has not been evaluated in severe hepatic impairment (see section 4.2).
+The decrease in non-renal clearance in the patients of the study was estimated to give a 20% increase in the AUC of lacosamide The pharmacokinetics of lacosamide has not been evaluated in severe hepatic impairment (see section 4.2).
 
 Elderly (over 65 years of age)
 In a study in elderly men and women including 4 patients >75 years of age, AUC was about 30 and 50% increased compared to young men, respectively.
@@ -61,7 +62,8 @@ A general dose reduction is not considered to be necessary unless indicated due 
 
 [Vimpat 100 mg film-coated tablets]
 
-(all sentences already above)
+The decrease in non-renal clearance in the patients of the study was estimated to give a 20% increase in the AUC of lacosamide.
+The pharmacokinetics of lacosamide has not been evaluated in severe hepatic impairment (see section 4.2).
 
 [Vimpat 150 mg film-coated tablets]
 

@@ -2,5 +2,5 @@
 
 UCB Pharma SA
 Allée de la Recherche 60
-B-1070 Brussels
+B-1070 Bruxelles
 Belgium
