@@ -20,16 +20,15 @@ Adverse reactions with roflumilast in clinical COPD studies
 | Immune system disorders |  | Hypersensitivity |  |
 | Endocrine disorders |  |  | Gynaecomastia |
 | Metabolism and nutrition disorders | Weight decreased Decreased appetite |  |  |
-| Psychiatric disorders | Insomnia | Anxiety | Depression Nervousness |
+| Psychiatric disorders | Insomnia | Anxiety | Suicidal ideation and behaviour* Depression Nervousness |
 | Nervous system disorders | Headache | Tremor Vertigo Dizziness | Dysgeusia |
 | Cardiac disorders |  | Palpitations |  |
 | Respiratory, thoracic and mediastinal disorders |  |  | Respiratory tract infections (excluding Pneumonia) |
-| Gastrointestinal disorders | Diarrhoea Nausea | Gastritis Vomiting | Haematochezia Constipation |
-|  | Abdominal pain | Gastro-esophageal reflux disease Dyspepsia |  |
+| Gastrointestinal disorders | Diarrhoea Nausea Abdominal pain | Gastritis Vomiting Gastro-esophageal reflux disease Dyspepsia | Haematochezia Constipation |
 | Hepatobiliary disorders |  |  | Gamma-GT increased Aspartate aminotransferase (AST) increased |
 | Skin and subcutaneous tissue disorders |  | Rash | Urticaria |
 | Musculoskeletal and connective tissue disorders |  | Muscle spasms and weakness Myalgia Back pain | Blood creatine phosphokinase (CPK) increased |
 | General disorders and administration site conditions |  | Malaise Asthenia Fatigue |  |
 
-In clinical studies, rare instances of suicidal thinking and behavior (including completed suicide) were reported.
-Patients should be instructed to notify their prescriber of any suicidal ideation (see also section 4.4).
+* In clinical studies and post-marketing experience, rare instances of suicidal ideation and behaviour, including completed suicide, were reported.
+Patients and caregivers should be instructed to notify the prescriber of any suicidal ideation (see also section 4.4).

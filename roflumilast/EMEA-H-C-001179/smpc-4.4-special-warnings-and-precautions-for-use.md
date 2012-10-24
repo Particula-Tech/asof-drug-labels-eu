@@ -20,10 +20,12 @@ Patients with congestive heart failure (NYHA grades 3 and 4) have not been studi
 
 Psychiatric disorders
 Daxas is associated with an increased risk of psychiatric disorders such as insomnia, anxiety, nervousness and depression.
-Rare instances of suicidal ideation and behavior, including completed suicide, have been observed in clinical trials (see section 4.8).
-Therefore, the risks and benefits of starting or continuing treatment with Daxas should be carefully assessed if patients report previous or existing psychiatric symptoms or if concomitant treatment with other medicinal products likely to cause psychiatric events is intended.
-Patients should be instructed to notify their prescriber of any changes in behavior or mood and of any suicidal ideation.
-Moreover, Daxas is not recommended in patients with a history of depression associated with suicidal ideation or behavior.
+Rare instances of suicidal ideation and behaviour, including completed suicide, have been observed in patients with or without history of depression, usually within the first weeks of treatment (see section 4.8).
+The risks and benefits of starting or continuing treatment with Daxas should be carefully assessed if patients report previous or existing psychiatric symptoms or if concomitant treatment with other medicinal products likely to cause psychiatric events is intended.
+Daxas is not recommended in patients with a history of depression associated with suicidal ideation or behaviour.
+Patients and caregivers should be instructed to notify the prescriber of any changes in behaviour or mood and of any suicidal ideation.
+If patients suffered from new or worsening psychiatric symptoms, or suicidal ideation or suicidal attempt is identified, it is recommended to discontinue treatment with Daxas.
+
 Persistent intolerability
 While adverse reactions like diarrhoea, nausea, abdominal pain and headache mainly occur within the first weeks of therapy and mostly resolve on continued treatment, Daxas treatment should be reassessed in case of persistent intolerability.
 This might be the case in special populations that may have higher exposure, such as in black, non-smoking females (see section 5.2) or in patients concomitantly treated with the CYP1A2 inhibitor fluvoxamine or the dual CYP3A4/1A2 inhibitors enoxacin and cimetidine (see section 4.5).
