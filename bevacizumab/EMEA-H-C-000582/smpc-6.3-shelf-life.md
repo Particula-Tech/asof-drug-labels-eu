@@ -1,6 +1,10 @@
 # 6.3 Shelf life
 
+Vial (unopened)
+
 2 years.
+
+Diluted medicinal product
 
 Chemical and physical in-use stability has been demonstrated for 48 hours at 2°C to 30°C in sodium chloride 9 mg/ml (0.9%) solution for injection.
 From a microbiological point of view, the product should be used immediately.

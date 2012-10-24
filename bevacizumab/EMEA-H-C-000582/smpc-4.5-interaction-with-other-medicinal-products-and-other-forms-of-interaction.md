@@ -10,16 +10,16 @@ Results from a dedicated drug-drug interaction trial demonstrated no significant
 Results from one trial in metastatic colorectal cancer patients demonstrated no significant effect of bevacizumab on the pharmacokinetics of capecitabine and its metabolites, and on the pharmacokinetics of oxaliplatin, as determined by measurement of free and total platinum.
 
 Results from one trial in renal cancer patients demonstrated no significant effect of bevacizumab on the pharmacokinetics of interferon alfa-2a.
-
 The potential effect of bevacizumab on the pharmacokinetics of cisplatin and gemcitabine was investigated in non-squamous NSCLC patients.
 Trial results demonstrated no significant effect of bevacizumab on the pharmacokinetics of cisplatin.
 Due to high inter-patient variability and limited sampling, the results from that trial do not allow firm conclusions to be drawn on the impact of bevacizumab on gemcitabine pharmacokinetics.
 
 Combination of bevacizumab and sunitinib malate
 In two clinical trials of metastatic renal cell carcinoma, microangiopathic haemolytic anaemia (MAHA) was reported in 7 of 19 patients treated with bevacizumab (10 mg/kg every two weeks) and sunitinib malate (50 mg daily) combination.
+
 MAHA is a haemolytic disorder which can present with red cell fragmentation, anaemia, and thrombocytopenia.
 In addition, hypertension (including hypertensive crisis), elevated creatinine, and neurological symptoms were observed in some of these patients.
-All of these findings were reversible upon discontinuation of bevacizumab and sunitinib malate (see Hypertension, Proteinuria, RPLS in section 4.4).
+All of these findings were reversible upon discontinuation of bevacizumab and sunitinib malate (see Hypertension, Proteinuria, PRES in section 4.4).
 
 Combination with platinum- or taxane-based therapies (see sections 4.4 and 4.8)
 Increased rates of severe neutropenia, febrile neutropenia, or infection with or without severe neutropenia (including some fatalities) have been observed mainly in patients treated with platinum-or taxane-based therapies in the treatment of NSCLC and mBC.
@@ -30,4 +30,4 @@ The safety and efficacy of concomitant administration of radiotherapy and Avasti
 EGFR monoclonal antibodies in combination with bevacizumab chemotherapy regimens
 No interaction studies have been performed.
 EGFR monoclonal antibodies should not be administered for the treatment of mCRC in combination with bevacizumab-containing chemotherapy.
-Results from the randomized phase III studies, PACCE and CAIRO-2, in patients with mCRC suggest that the use of anti-EGFR monoclonal antibodies panitumumab and cetuximab, respectively, in combination with bevacizumab plus chemotherapy, is associated with decreased PFS and/or OS, and with increased toxicity compared with bevacizumab plus chemotherapy alone.
+Results from the randomised phase III studies, PACCE and CAIRO-2, in patients with mCRC suggest that the use of anti-EGFR monoclonal antibodies panitumumab and cetuximab, respectively, in combination with bevacizumab plus chemotherapy, is associated with decreased PFS and/or OS, and with increased toxicity compared with bevacizumab plus chemotherapy alone.
