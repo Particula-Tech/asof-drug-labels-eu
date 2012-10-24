@@ -15,7 +15,6 @@ The causes of the rises in serum creatinine have not been elucidated.
 Particular attention should therefore be paid to monitoring of serum creatinine in patients who are concomitantly receiving medicinal products that depress renal function, and in patients who are receiving high doses of EXJADE and/or low rates of transfusion (<7 ml/kg/month of packed red blood cells or
 <2 units/month for an adult).
 While no increase in renal adverse events was observed after dose escalation to doses above 30 mg/kg in clinical trials, an increased risk of renal adverse events with EXJADE doses above 30 mg/kg cannot be excluded.
-
 It is recommended that serum creatinine be assessed in duplicate before initiating therapy.
 Serum creatinine, creatinine clearance (estimated with the Cockcroft-Gault or MDRD formula in adults and with the Schwartz formula in children) and/or plasma cystatin C levels should be monitored weekly in the first month after initiation or modification of therapy with EXJADE, and monthly thereafter.
 Patients with pre-existing renal conditions and patients who are receiving medicinal products that depress renal function may be more at risk of complications.
@@ -28,12 +27,13 @@ For paediatric patients, the dose may be reduced by 10 mg/kg if estimated creati
 After a dose reduction, for adult and paediatric patients, treatment should be interrupted if a rise in serum creatinine >33% above the average of the pre-treatment measurements is observed and/or the calculated creatinine clearance falls below the lower limit of the normal range.
 Treatment may be reinitiated depending on the individual clinical circumstances.
 
-Renal tubulopathy has been mainly reported in children and adolescents with beta-thalassaemia treated with EXJADE.
 Tests for proteinuria should be performed monthly.
 As needed, additional markers of renal tubular function (e.g. glycosuria in non-diabetics and low levels of serum potassium, phosphate, magnesium or urate, phosphaturia, aminoaciduria) may also be monitored.
 Dose reduction or interruption may be considered if there are abnormalities in levels of tubular markers and/or if clinically indicated.
+Renal tubulopathy has been mainly reported in children and adolescents with beta-thalassaemia treated with EXJADE.
 
 If, despite dose reduction and interruption, the serum creatinine remains significantly elevated and there is also persistent abnormality in another marker of renal function (e.g. proteinuria, Fanconi’s Syndrome), the patient should be referred to a renal specialist, and further specialised investigations (such as renal biopsy) may be considered.
+
 Hepatic function:
 
 Liver function test elevations have been observed in patients treated with EXJADE.
@@ -46,7 +46,6 @@ If there is a persistent and progressive increase in serum transaminase levels t
 Once the cause of the liver function test abnormalities has been clarified or after return to normal levels, cautious re-initiation of treatment at a lower dose followed by gradual dose escalation may be considered.
 
 EXJADE is not recommended in patients with severe hepatic impairment (Child-Pugh Class C) (see section 5.2).
-
 In patients with a short life expectancy (e.g. high-risk myelodysplastic syndromes), especially when co-morbidities could increase the risk of adverse events, the benefit of EXJADE might be limited and may be inferior to risks.
 As a consequence, treatment with EXJADE is not recommended in these patients.
 
@@ -73,8 +72,9 @@ Vision and hearing
 Auditory (decreased hearing) and ocular (lens opacities) disturbances have been reported (see section 4.8).
 Auditory and ophthalmic testing (including fundoscopy) is recommended before the start of treatment and at regular intervals thereafter (every 12 months).
 If disturbances are noted during the treatment, dose reduction or interruption may be considered.
+
 Blood disorders
-There have been post-marketing reports of leukopenia, thrombocytopenia or pancytopenia, or aggravation of these cytopenias in patients treated with EXJADE.
+There have been post-marketing reports of leukopenia, thrombocytopenia or pancytopenia (or aggravation of these cytopenias) and of aggravated anaemia in patients treated with EXJADE.
 Most of these patients had pre-existing haematological disorders that are frequently associated with bone marrow failure.
 However, a contributory or aggravating role cannot be excluded.
 Interruption of treatment should be considered in patients who develop unexplained cytopenia.
@@ -85,7 +85,6 @@ If serum ferritin falls consistently below 500 µg/l, an interruption of treatme
 
 The results of the tests for serum creatinine, serum ferritin and serum transaminases should be recorded and regularly assessed for trends.
 The results should also be noted in the provided patient’s booklet.
-
 In one clinical study, growth and sexual development of paediatric patients treated with EXJADE for up to 5 years were not affected.
 However, as a general precautionary measure in the management of paediatric patients with transfusional iron overload, body weight, height and sexual development should be monitored at regular intervals (every 12 months).
 

@@ -22,6 +22,7 @@ EXJADE induced similar responses in iron-overloaded patients with other anaemias
 Daily doses of 10 mg/kg for one year could maintain liver iron and serum ferritin levels and induce net iron balance in patients receiving infrequent transfusions or exchange transfusions.
 Serum ferritin assessed by monthly monitoring reflected changes in liver iron concentration indicating that trends in serum ferritin can be used to monitor response to therapy.
 Limited clinical data (29 patients with normal cardiac function at baseline) using MRI indicate that treatment with EXJADE 10-30 mg/kg/day for 1 year may also reduce levels of iron in the heart (on average, MRI T2* increased from 18.3 to 23.0 milliseconds).
+
 The principal analysis of the pivotal comparative study in 586 patients suffering from beta-thalassaemia and transfusional iron overload did not demonstrate non-inferiority of EXJADE to deferoxamine in the analysis of the total patient population.
 It appeared from a post-hoc analysis of this study that, in the subgroup of patients with liver iron concentration ≥7 mg Fe/g dw treated with EXJADE (20 and 30 mg/kg) or deferoxamine (35 to ≥50 mg/kg), the non-inferiority criteria were achieved.
 However, in patients with liver iron concentration <7 mg Fe/g dw treated with EXJADE (5 and 10 mg/kg) or deferoxamine (20 to 35 mg/kg), non-inferiority was not established due to imbalance in the dosing of the two chelators.

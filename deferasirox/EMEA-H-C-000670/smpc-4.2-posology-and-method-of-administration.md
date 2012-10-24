@@ -7,9 +7,9 @@ It is recommended that treatment be started after the transfusion of approximate
 Doses (in mg/kg) must be calculated and rounded to the nearest whole tablet size.
 
 The goals of iron chelation therapy are to remove the amount of iron administered in transfusions and, as required, to reduce the existing iron burden.
+
 Starting dose
 The recommended initial daily dose of EXJADE is 20 mg/kg body weight.
-
 An initial daily dose of 30 mg/kg may be considered for patients who require reduction of elevated body iron levels and who are also receiving more than 14 ml/kg/month of packed red blood cells (approximately >4 units/month for an adult).
 
 An initial daily dose of 10 mg/kg may be considered for patients who do not require reduction of body iron levels and who are also receiving less than 7 ml/kg/month of packed red blood cells (approximately <2 units/month for an adult).
@@ -42,9 +42,9 @@ Changes in weight of paediatric patients over time must be taken into account wh
 In children aged between 2 and 5 years, exposure is lower than in adults (see section 5.2).
 This age group may therefore require higher doses than are necessary in adults.
 However, the initial dose should be the same as in adults, followed by individual titration.
+
 The safety and efficacy of EXJADE in children from birth to 23 months of age have not yet been established.
 No data are available.
-
 Patients with renal impairment
 EXJADE has not been studied in patients with renal impairment and is contraindicated in patients with estimated creatinine clearance <60 ml/min (see sections 4.3 and 4.4).
 

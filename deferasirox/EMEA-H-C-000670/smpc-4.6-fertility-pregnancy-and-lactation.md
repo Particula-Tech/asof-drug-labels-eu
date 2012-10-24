@@ -7,6 +7,8 @@ The potential risk for humans is unknown.
 
 As a precaution, it is recommended that EXJADE is not used during pregnancy unless clearly necessary.
 
+EXJADE may decrease the efficacy of hormonal contraceptives (see section 4.5).
+
 Breast-feeding
 In animal studies, deferasirox was found to be rapidly and extensively secreted into maternal milk.
 No effect on the offspring was noted.
