@@ -161,6 +161,14 @@ Reductions in HIV RNA have been reported in HIV/HBV co-infected patients receivi
 In some cases, selection of HIV variant M184V has been observed, which has implications for the selection of HAART regimens that the patient may take in the future.
 Therefore, entecavir should not be used in this setting due to the potential for development of HIV resistance (see section 4.4).
 
+Liver transplant recipients: the safety and efficacy of entecavir 1 mg once daily were assessed in a single-arm study in 65 patients who received a liver transplant for complications of chronic HBV infection and had HBV DNA <172 IU/ml (approximately 1000 copies/ml) at the time of transplant.
+The study population was 82% male, 39% Caucasian, and 37% Asian, with a mean age of 49 years; 89% of patients had HBeAg-negative disease at the time of transplant.
+Of the 61 patients who were evaluable for efficacy (received entecavir for at least 1 month), 60 also received hepatitis B immune globulin (HBIg) as part of the post-transplant prophylaxis regimen.
+Of these 60 patients, 49 received more than 6 months of HBIg therapy.
+At Week 72 post-transplant, none of 55 observed cases had virologic recurrence of HBV [defined as HBV DNA ≥50 IU/ml (approximately 300 copies/ml)], and there was no reported virologic recurrence at time of censoring for the remaining 6 patients.
+All 61 patients had HBsAg loss post-transplantation, and 2 of these later became HBsAg positive despite maintaining undetectable HBV DNA (<6 IU/ml).
+The frequency and nature of adverse events in this study were consistent with those expected in patients who have received a liver transplant and the known safety profile of entecavir.
+
 Paediatric population: the European Medicines Agency has deferred the obligation to submit the results of studies with Baraclude in one or more subsets of the paediatric population with chronic hepatitis B (see section 4.2 for information on paediatric use).
 
 Clinical resistance: patients in clinical trials initially treated with entecavir 0.5 mg (nucleoside-naive) or 1.0 mg (lamivudine-refractory) and with an on-therapy PCR HBV DNA measurement at or after Week 24 were monitored for resistance.
@@ -220,5 +228,6 @@ These substitutions were observed only in the presence of LVDr substitutions (rt
 
 d ≥1 log10 increase above nadir in HBV DNA by PCR, confirmed with successive measurements or at the end of the windowed time point.
 
+50
 Among lamivudine-refractory patients with baseline HBV DNA <107 log10 copies/ml, 64% (9/14) achieved HBV DNA <300 copies/ml at Week 48.
 Also, lamivudine-refractory patients who achieved HBV DNA <104 log10 copies/ml by PCR at Week 24 had a lower rate of resistance than those who did not (5-year cumulative probability 17.6% [n=50] versus 60.5% [n=135], respectively).

@@ -41,8 +41,7 @@ In patients with a suboptimal virological response after 24 weeks of treatment w
 Pre-existing lamivudine-resistant HBV is associated with an increased risk for subsequent entecavir resistance regardless of the degree of liver disease; in patients with decompensated liver disease, virologic breakthrough may be associated with serious clinical complications of the underlying liver disease.
 Therefore, in patients with both decompensated liver disease and lamivudine-resistant HBV, combination use of entecavir plus a second antiviral agent (which does not share cross-resistance with either lamivudine or entecavir) should be considered in preference to entecavir monotherapy.
 
-Liver transplant recipients: there are limited data on efficacy and safety of entecavir in liver transplant recipients.
-Renal function should be carefully evaluated before and during entecavir therapy in liver transplant recipients receiving cyclosporine or tacrolimus (see section 5.2).
+Liver transplant recipients: renal function should be carefully evaluated before and during entecavir therapy in liver transplant recipients receiving cyclosporine or tacrolimus (see section 5.2).
 
 Co-infection with hepatitis C or D: there are no data on the efficacy of entecavir in patients co-infected with hepatitis C or D virus.
 
