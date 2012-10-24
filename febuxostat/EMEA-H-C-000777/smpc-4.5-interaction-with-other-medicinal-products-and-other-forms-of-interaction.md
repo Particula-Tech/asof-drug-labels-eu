@@ -1,8 +1,9 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 Mercaptopurine/azathioprine
-Although interaction studies with febuxostat have not been performed, inhibition of xanthine oxidase (XO) is known to result in an increase in mercaptopurine or azathioprine levels.
 On the basis of the mechanism of action of febuxostat on XO inhibition concomitant use is not recommended.
+Inhibition of XO by febuxostat may cause increased plasma concentrations of these drugs leading to toxicity (see section 4.4).
+Drug interaction studies of febuxostat with drugs that are metabolized by XO have not been performed.
 
 Drug interaction studies of febuxostat with cytotoxic chemotherapy have not been conducted.
 No data is available regarding the safety of febuxostat during cytotoxic therapy.

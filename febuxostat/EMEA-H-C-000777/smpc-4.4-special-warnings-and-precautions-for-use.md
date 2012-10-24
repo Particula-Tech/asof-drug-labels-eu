@@ -29,7 +29,9 @@ As with other urate lowering medicinal products, in patients in whom the rate of
 As there has been no experience with febuxostat, its use in these populations is not recommended.
 
 Mercaptopurine/azathioprine
-Febuxostat use is not recommended in patients concomitantly treated with mercaptopurine/azathioprine (see section 4.5).
+Febuxostat use is not recommended in patients concomitantly treated with mercaptopurine/azathioprine.
+Where the combination cannot be avoided patients should be closely monitored.
+A reduction of dosage of mercaptopurine or azathioprine is recommended in order to avoid possible haematological effects (see section 4.5).
 
 Theophylline
 Febuxostat should be used with caution in patients concomitantly treated with theophylline and theophylline levels should be monitored in patients starting febuxostat therapy (see section 4.5).
