@@ -2,6 +2,7 @@
 
 The safety of sugammadex has been evaluated based on an integrated safety database of approximately 1,700 patients and 120 volunteers.
 The most commonly reported adverse reactions in surgical patients were anaesthetic complications (Common [≥ 1/100 to < 1/10]).
+
 The following undesirable effects associated with sugammadex use have been reported for surgical patients in clinical trials:
 
 | Body system | Subject incidence | Undesirable effect |
@@ -28,7 +29,6 @@ The relation to sugammadex is uncertain.
 Recurrence of neuromuscular blockade:
 In the data-base of pooled phase I-III studies with a placebo group, the incidence of recurrence of neuromuscular blockade as measured with neuromuscular monitoring was 2% after sugammadex and 0% in the placebo group.
 Virtually all of these cases were from dose-finding studies in which a sub-optimal dose (less than 2 mg/kg) was administered (see section 4.4).
-
 Information on healthy volunteers:
 Hypersensitivity reactions, including anaphylaxis, have been observed with sugammadex.
 In a study in healthy conscious volunteers (placebo, N=150; 4 mg/kg, N=148; and 16 mg/kg, N=150), hypersensitivity reactions were reported commonly with sugammadex 16 mg/kg (n=7, 4.7%), uncommonly with sugammadex 4 mg/kg (n=1, 0.7%), and none with placebo (n=0, 0%).
@@ -39,6 +39,7 @@ Additional information on special populations
 Pulmonary patients:
 In one clinical trial in patients with a history of pulmonary complications bronchospasm was reported as a possibly related adverse event in two patients and a causal relationship could not be fully excluded.
 As with all patients with a history of pulmonary complications the physician should be aware of the possible occurrence of bronchospasm.
+
 Paediatric population
 
 A limited database suggests that the safety profile of sugammadex (up to 4 mg/kg) in paediatric patients was similar to that in adults.

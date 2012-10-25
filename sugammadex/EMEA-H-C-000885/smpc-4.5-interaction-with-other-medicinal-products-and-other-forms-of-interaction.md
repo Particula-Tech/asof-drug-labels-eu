@@ -14,6 +14,7 @@ Intravenous administration of fusidic acid:
 The use of fusidic acid in the pre-operative phase may give some delay in the recovery of the T4/T1 ratio to 0.9.
 No recurrence of neuromuscular blockade is expected in the post-operative phase, since the infusion rate of fusidic acid is over a period of several hours and the blood levels are cumulative over 2-3 days.
 For re-administration of sugammadex see section 4.2.
+
 Interactions potentially affecting the efficacy of other medicinal products (see also section 4.4): Hormonal contraceptives:
 The interaction between 4 mg/kg sugammadex and a progestogen was predicted to lead to a decrease in progestogen exposure (34% of AUC) similar to the decrease seen when a daily dose of an oral contraceptive is taken 12 hours too late, which might lead to a reduction in effectiveness.
 For estrogens, the effect is expected to be lower.
@@ -23,7 +24,7 @@ In the case of non-oral hormonal contraceptives, the patient must use an additio
 
 Interference with laboratory tests:
 In general sugammadex does not interfere with laboratory tests, with the possible exception of the serum progesterone assay.
-Interference with this test is observed at sugammadex plasma concentrations of 100 μg/ml (peak plasma level following 8 mg/kg bolus injection).
+Interference with this test is observed at sugammadex plasma concentrations of 100 µg/ml (peak plasma level following 8 mg/kg bolus injection).
 
 In a study in volunteers doses of 4 mg/kg and 16 mg/kg of sugammadex resulted in maximum mean prolongations of aPTT by 17 and 22% respectively and of PT(INR) by 11 and 22% respectively.
 These limited mean aPTT and PT(INR) prolongations were of short duration (≤ 30 minutes).

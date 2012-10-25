@@ -24,6 +24,7 @@ Renal impairment and age:
 In two pharmacokinetic studies comparing patients with severe renal impairment to patients with normal renal function, sugammadex levels in plasma were similar during at least the first 20 minutes after dosing, and thereafter the levels decreased faster in the control group.
 Total exposure to sugammadex was prolonged, leading to approximately 15-fold higher exposure in patients with severe renal impairment.
 In some of the patients with severe renal insufficiency, sugammadex levels were minimally detectable in plasma one month after dosing.
+
 Predicted pharmacokinetic parameters of sugammadex by age group and renal function based on compartmental modelling (using three compartments) are presented below:
 
 | Selected patient characteristics |  |  | Predicted PK parameters |  |  |

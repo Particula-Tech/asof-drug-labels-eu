@@ -5,7 +5,7 @@ Posology
 Sugammadex should only be administered by, or under the supervision of an anaesthetist.
 The use of an appropriate neuromuscular monitoring technique is recommended to monitor the recovery of neuromuscular blockade.
 As is normal post-anaesthetic practice following neuromuscular blockade it is recommended to monitor the patient in the immediate post-operative period for untoward events including recurrence of neuromuscular blockade (see section 4.4).
-When certain medicinal products that may cause displacement interactions are administered parenterally within a period of 6 hours of sugammadex, the patient should be monitored for signs of recurrence of neuromuscular blockade (see section 4.4 and 4.5).
+When certain medicinal products that may cause displacement interactions are administered parenterally within a period of 7.5 hours of sugammadex, the patient should be monitored for signs of recurrence of neuromuscular blockade (see section 4.4 and 4.5).
 The recommended dose of sugammadex depends on the level of neuromuscular blockade to be reversed.
 The recommended dose does not depend on the anaesthetic regimen.
 Sugammadex can be used to reverse different levels of rocuronium or vecuronium induced neuromuscular blockade:
@@ -30,7 +30,7 @@ In the exceptional situation of recurrence of neuromuscular blockade post-operat
 Following a second dose of sugammadex, the patient should be closely monitored to ascertain sustained return of neuromuscular function.
 
 Re-administration of rocuronium or vecuronium after sugammadex:
-A waiting time of 24 hours should be taken into account (see section 4.4).
+For waiting times for re-administration of rocuronium or vecuronium after reversal with sugammadex, see section 4.4.
 
 Additional information on special population
 
