@@ -1,8 +1,10 @@
 # 4.8 Undesirable effects
 
+Summary of the safety profile
 Ivabradine has been studied in clinical trials involving nearly 14,000 participants.
 The most common adverse reactions with ivabradine, luminous phenomena (phosphenes) and bradycardia, are dose dependent and related to the pharmacological effect of the medicinal product.
 
+Tabulated list of adverse reactions
 The following adverse reactions have been reported during clinical trials and are ranked using the following frequency: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
 
 | System Organ Class | Frequency | Preferred Term |
@@ -38,9 +40,11 @@ The following adverse reactions have been reported during clinical trials and ar
 |  |  | Fatigue, possibly related to bradycardia |
 |  | Rare* | Malaise, possibly related to bradycardia |
 | Investigations | Uncommon | Elevated creatinine in blood |
+|  |  | ECG prolonged QT interval |
 
 * Frequency calculated from clinical trials for adverse events detected from spontaneous report
 
+Description of selected adverse reactions
 Luminous phenomena (phosphenes) were reported by 14.5% of patients, described as a transient enhanced brightness in a limited area of the visual field.
 They are usually triggered by sudden variations in light intensity.
 The onset of phosphenes is generally within the first two months of treatment after which they may occur repeatedly.

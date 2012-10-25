@@ -3,7 +3,7 @@
 Film-coated tablet.
 
 Salmon-coloured, oblong, film-coated tablet scored on both sides, engraved with “5” on one face and on the other face.
-The tablet can be divided into equal halves.
+The tablet can be divided into equal doses.
 
 [Procoralan 7.5 mg film-coated tablets]
 

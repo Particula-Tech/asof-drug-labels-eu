@@ -48,6 +48,7 @@ However, in the absence of extensive data, non urgent DC-cardioversion should be
 Use in patients with congenital QT syndrome or treated with QT prolonging medicinal products
 The use of ivabradine in patients with congenital QT syndrome or treated with QT prolonging medicinal products should be avoided (see section 4.5).
 If the combination appears necessary, close cardiac monitoring is needed.
+Heart rate reduction, as caused by ivabradine, may exacerbate QT prolongation, which may give rise to severe arrhythmias, in particular Torsade de pointes.
 
 Hypertensive patients requiring blood pressure treatment modifications.
 In the SHIFT trial more patients experienced episodes of increased blood pressure while treated with ivabradine (7.1%) compared to patients treated with placebo (6.1%).

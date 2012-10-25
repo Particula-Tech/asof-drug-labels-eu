@@ -9,6 +9,9 @@ QT prolonging medicinal products
 The concomitant use of cardiovascular and non cardiovascular QT prolonging medicinal products with ivabradine should be avoided since QT prolongation may be exacerbated by heart rate reduction.
 If the combination appears necessary, close cardiac monitoring is needed (see section 4.4).
 
+Concomitant use with precaution
+Potassium-depleting diuretics (thiazide diuretics and loop diuretics): hypokalemia can increase the risk of arrhythmia.
+As ivabradine may cause bradycardia, the resulting combination of hypokalemia and bradycardia is a predisposing factor to the onset of severe arrhythmias, especially in patients with long QT syndrome, whether congenital or substance-induced.
 Pharmacokinetic interactions
 
 Cytochrome P450 3A4 (CYP3A4)

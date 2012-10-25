@@ -35,7 +35,6 @@ The efficacy of 5 and 7.5 mg twice daily was consistent across studies on exerci
 The twice-daily dosing regimen of ivabradine gave uniform efficacy over 24 hours.
 
 In a 889-patients randomised placebo-controlled study, ivabradine given on top of atenolol 50 mg o.d. showed additional efficacy on all ETT parameters at the trough of drug activity (12 hours after oral intake).
-
 In a 725-patients randomised placebo-controlled study, ivabradine did not show additional efficacy on top of amlodipine at the trough of drug activity (12 hours after oral intake) while an additional efficacy was shown at peak (3-4 hours after oral intake).
 
 Ivabradine efficacy was fully maintained throughout the 3- or 4-month treatment periods in the efficacy trials.
@@ -45,6 +44,7 @@ The effects on blood pressure and peripheral vascular resistance were minor and 
 
 A sustained reduction of heart rate was demonstrated in patients treated with ivabradine for at least one year (n = 713).
 No influence on glucose or lipid metabolism was observed.
+
 The antianginal and anti-ischaemic efficacy of ivabradine was preserved in diabetic patients (n = 457) with a similar safety profile as compared to the overall population.
 
 A large outcome study, BEAUTIFUL, was performed in 10917 patients with coronary artery disease and left ventricular dysfunction (LVEF<40%) on top of optimal background therapy with 86.9% of patients receiving beta-blockers.
@@ -69,18 +69,34 @@ Treatment effect on the primary composite endpoint, its components and secondary
 | --- | --- | --- | --- | --- |
 | Primary composite endpoint | 793 (24.47) | 937 (28.71) | 0.82 [0.75; 0.90] | <0.0001 |
 | Components of the composite: - CV death - Hospitalisation for worsening HF | 449 (13.85) 514 (15.86) | 491 (15.04) 672 (20.59) | 0.91 [0.80; 1.03] 0.74 [0.66; 0.83] | 0.128 <0.0001 |
-| Other secondary endpoints: - All cause death - Death from HF - Hospitalisation for any cause - Hospitalisation for CV reason | 503 (15.52) 113 (3.49) 1231 (37.98) 977 (30.15) | 552 (16.91) 151 (4.63) 1356 (41.54) 1122 (34.38) | 0.90 [0.80; 1.02] 0.74 [0.58;0.94] 0.89 [0.82;0.96] 0.85 [0.78; 0.92] | 0.092 0.014 0.003 0.0002 |
+
+Other secondary endpoints:
+- All cause death 503 (15.52) 552 (16.91) 0.90 [0.80; 1.02] 0.092
+- Death from HF 113 (3.49) 151 (4.63) 0.74 [0.58;0.94] 0.014
+- Hospitalisation for any cause 1231 (37.98) 1356 (41.54) 0.89 [0.82;0.96] 0.003
+- Hospitalisation for CV reason 977 (30.15) 1122 (34.38) 0.85 [0.78; 0.92] 0.0002
 
 The reduction in the primary endpoint was observed consistently irrespective of gender, NYHA class, ischaemic or non-ischaemic heart failure aetiology and of background history of diabetes or hypertension.
 
 In the subgroup of patients with HR ≥ 75 bpm (n=4150), a greater reduction was observed in the primary composite endpoint of 24 % (hazard ratio: 0.76, 95%CI [0.68;0.85] – p<0.0001) and for other secondary endpoints, including all cause death (hazard ratio: 0.83, 95%CI [0.72;0.96] – p=0.0109) and CV death (hazard ratio: 0.83, 95%CI [0.71;0.97] – p=0.0166).
 In this subgroup of patients, the safety profile of ivabradine is in line with the one of the overall population.
 
-A significant effect was observed on the primary composite endpoint in the overall group of patients receiving beta blocker therapy (hazard ratio: 0.82, 95%CI [0.76;0.94]).
-In the subgroup of patients with HR ≥ 75 bpm and on the recommended target dose of beta-blocker, no statistically significant benefit was observed on the primary composite endpoint (hazard ratio: 0.97, 95%CI [0.74;1.28]) and other secondary endpoints, including hospitalisation for worsening heart failure (hazard ratio: 0.79, 95% CI [0.56;1.10]) or death from heart failure (hazard ratio: 0.69, 95% CI [0.31;1.56]).
+A significant effect was observed on the primary composite endpoint in the overall group of patients receiving beta blocker therapy (hazard ratio: 0.85, 95%CI [0.76;0.94]).
+In the subgroup of patients with HR ≥ 75 bpm and on the recommended target dose of beta-blocker, no statistically significant benefit was observed on the primary composite endpoint (hazard ratio: 0.97, 95%CI [0.74;1.28]) and other secondary endpoints, including hospitalisation for worsening heart failure (hazard ratio: 0.79, 95% CI [0.56;1.10]) or death from heart failure (hazard ratio: 0.69, 95% CI [0.31;1.53]).
 
 There was a significant improvement in NYHA class at last recorded value, 887 (28%) of patients on ivabradine improved versus 776 (24%) of patients on placebo (p=0.001).
+
+Paediatric population
+The European Medicines Agency has waived the obligation to submit the results of studies with Procoralan in all subsets of the paediatric population in the treatment of angina pectoris.
+The European Medicines Agency has deferred the obligation to submit the results of studies with Procoralan in one or more subsets of the paediatric population in the treatment of chronic heart failure (see section 4.2 for information on paediatric use).
 
 [Procoralan 7.5 mg film-coated tablets]
 
 The SHIFT study was a large multicentre, international, randomised double-blind placebo controlled outcome trial. conducted in 6505 adult patients with stable chronic CHF (for ≥ 4 weeks), NYHA class II to IV, with a reduced left ventricular ejection fraction (LVEF ≤ 35%) and a resting heart rate ≥ 70 bpm.
+
+|  | Ivabradine (N=3241) n (%) | Placebo (N=3264) n (%) | Hazard ratio [95% CI] | p-value |
+| --- | --- | --- | --- | --- |
+| Primary composite endpoint | 793 (24.47) | 937 (28.71) | 0.82 [0.75; 0.90] | <0.0001 |
+| Components of the composite: - CV death - Hospitalisation for worsening | 449 (13.85) 514 (15.86) | 491 (15.04) 672 (20.59) | 0.91 [0.80; 1.03] 0.74 [0.66; 0.83] | 0.128 <0.0001 |
+| HF |  |  |  |  |
+| Other secondary endpoints: - All cause death - Death from HF - Hospitalisation for any cause - Hospitalisation for CV reason | 503 (15.52) 113 (3.49) 1231 (37.98) 977 (30.15) | 552 (16.91) 151 (4.63) 1356 (41.54) 1122 (34.38) | 0.90 [0.80; 1.02] 0.74 [0.58;0.94] 0.89 [0.82;0.96] 0.85 [0.78; 0.92] | 0.092 0.014 0.003 0.0002 |

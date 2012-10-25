@@ -33,7 +33,7 @@ The kinetics of ivabradine is linear over an oral dose range of 0.5 – 24 mg.
 
 Special populations
 - Elderly: no pharmacokinetic differences (AUC and Cmax) have been observed between elderly (≥ 65 years) or very elderly patients (≥ 75 years) and the overall population (see section 4.2).
-- Renal insufficiency: the impact of renal impairment (creatinine clearance from 15 to 60 ml/min) on ivabradine pharmacokinetic is minimal, in relation with the low contribution of renal clearance (about 20 %) to total elimination for both ivabradine and its main metabolite S 18982 (see section 4.2).
+- Renal impairment: the impact of renal impairment (creatinine clearance from 15 to 60 ml/min) on ivabradine pharmacokinetic is minimal, in relation with the low contribution of renal clearance (about 20 %) to total elimination for both ivabradine and its main metabolite S 18982 (see section 4.2).
 - Hepatic impairment: in patients with mild hepatic impairment (Child Pugh score up to 7) unbound AUC of ivabradine and the main active metabolite were about 20% higher than in subjects with normal hepatic function.
 Data are insufficient to draw conclusions in patients with moderate hepatic impairment.
 No data are available in patients with severe hepatic impairment (see sections 4.2 and 4.3).
