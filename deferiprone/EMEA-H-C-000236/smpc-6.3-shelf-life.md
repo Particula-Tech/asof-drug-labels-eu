@@ -4,7 +4,7 @@
 
 [Ferriprox 100 mg/ml oral solution]
 
-2 years.
+3 years.
 After first opening use within 35 days.
 
 [Ferriprox 1000 mg film-coated tablets]
