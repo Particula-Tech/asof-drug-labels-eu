@@ -1,14 +1,13 @@
 # 6.3 Shelf life
 
 Unopened vials
-2 years.
+3 years.
 After first use
 28 days.
 
 [Humalog 100 U/ml, solution for injection in cartridge]
 
 Unused cartridge
-3 years.
 After cartridge insertion
 
 [Humalog Mix25 100 U/ml suspension for injection in vial]
@@ -21,7 +20,7 @@ After cartridge insertion
 
 [Humalog Mix50 100 U/ml suspension for injection in vial]
 
-(all sentences already above)
+2 years.
 
 [Humalog Mix50 100 U/ml suspension for injection in cartridge]
 
