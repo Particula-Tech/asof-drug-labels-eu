@@ -1,6 +1,9 @@
 # 6.5 Nature and contents of container
 
 Aluminium/PVC blisters placed into cardboard boxes containing 20, 30, 50, 60, 100 film-coated tablets and multipacks containing 200 (2 packs of 100) film-coated tablets.
+
+Aluminium/PVC perforated unit dose blisters placed into cardboard boxes containing 100 x 1 film-coated tablets.
+
 Not all pack sizes may be marketed.
 
 [Keppra 500 mg film-coated tablets]
@@ -25,5 +28,5 @@ Aluminium/PVC blisters placed into cardboard boxes containing 10, 20, 30, 50, 60
 
 [Keppra 100 mg/ml concentrate for solution for infusion]
 
-5 ml glass vial (type I) with Teflon faced stoppers and sealed with an aluminium/polypropylene flip off cap.
+5 ml glass vial (type I) closed by a Teflon-faced grey chlorobutyl rubber stopper or an uncoated grey bromobutyl rubber stopper and sealed with an aluminium/polypropylene flip cap.
 Each carton contains 10 vials.
