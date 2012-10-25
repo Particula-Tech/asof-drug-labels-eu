@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Other cardiac preparations, ATC code: C01EB18
+
 Mechanism of action: The mechanism of action of ranolazine is largely unknown.
 Ranolazine may have some antianginal effects by inhibition of the late sodium current in cardiac cells.
 This reduces intracellular sodium accumulation and consequently decreases intracellular calcium overload.
@@ -13,7 +14,6 @@ These effects do not depend upon changes in heart rate, blood pressure, or vasod
 Pharmacodynamic effects
 
 Haemodynamic effects: Minimal decreases in mean heart rate (< 2 beats per minute) and mean systolic blood pressure (< 3 mm Hg) were observed in patients treated with ranolazine either alone or in combination with other antianginal medicinal products in controlled studies.
-
 Electrocardiographic effects: Dose and plasma concentration-related increases in the QTc interval (about 6 msec at 1000 mg twice daily), reductions in T wave amplitude, and in some cases notched
 T waves, have been observed in patients treated with Ranexa.
 These effects of ranolazine on the surface electrocardiogram are believed to result from inhibition of the fast-rectifying potassium current, which prolongs the ventricular action potential, and from inhibition of the late sodium current, which shortens the ventricular action potential.
@@ -27,7 +27,7 @@ No proarrhythmic effects were observed in 3,162 patients treated with Ranexa bas
 There was a significantly lower incidence of arrhythmias in patients treated with Ranexa (80%) versus placebo (87%), including ventricular tachycardia
 ≥ 8 beats (5% versus 8%).
 
-Clinical efficacy and safety: Clinical studies have demonstrated the efficacy and safety of Ranexa in the treatment of patients with chronic angina, either alone or when the benefit from other antianginal medicinal products was sub-optimal.
+Clinical efficacy: Clinical studies have demonstrated the efficacy and safety of Ranexa in the treatment of patients with chronic angina, either alone or when the benefit from other antianginal medicinal products was sub-optimal.
 
 In the pivotal study, CARISA, Ranexa was added to treatment with atenolol 50 mg once daily, amlodipine 5 mg once daily, or diltiazem 180 mg once daily.
 Eight-hundred and twenty-three patients (23% women) were randomised to receive 12 weeks of treatment with Ranexa 750 mg twice daily, 1000 mg twice daily, or placebo.
