@@ -7,9 +7,9 @@ Based on in vitro and in vivo studies, raltegravir is eliminated mainly by metab
 
 Although in vitro studies indicated that raltegravir is not an inhibitor of the UDP glucuronosyltransferases (UGTs) 1A1 and 2B7, one clinical study has suggested that some inhibition of UGT1A1 may occur in vivo based on effects observed on bilirubin glucuronidation.
 However, the magnitude of the effect seems unlikely to result in clinically important drug-drug interactions.
-
 Considerable inter- and intra-individual variability was observed in the pharmacokinetics of raltegravir.
 The following drug interaction information is based on Geometric Mean values; the effect for an individual patient cannot be predicted precisely.
+
 Effect of raltegravir on the pharmacokinetics of other medicinal products
 In interaction studies, raltegravir did not have a clinically meaningful effect on the pharmacokinetics of etravirine, maraviroc, tenofovir, hormonal contraceptives, methadone, or midazolam.
 

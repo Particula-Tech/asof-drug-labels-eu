@@ -16,7 +16,6 @@ Therefore ISENTRESS should be used with caution in patients with severe hepatic 
 Patients with pre-existing liver dysfunction including chronic hepatitis have an increased frequency of liver function abnormalities during combination anti-retroviral therapy and should be monitored according to standard practice.
 If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment should be considered.
 
-There are very limited data on the use of raltegravir in patients co-infected with HIV and hepatitis B virus (HBV) or hepatitis C virus (HCV).
 Patients with chronic hepatitis B or C and treated with combination anti-retroviral therapy are at an increased risk for severe and potentially fatal hepatic adverse events.
 
 Osteonecrosis

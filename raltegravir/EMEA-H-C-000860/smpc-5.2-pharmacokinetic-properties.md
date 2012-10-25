@@ -16,18 +16,13 @@ Raltegravir C12 hr was 66 % higher and Cmax was 5 % higher following a moderate-
 Administration of raltegravir following a high-fat meal increased AUC and Cmax by approximately 2-fold and increased C12 hr by 4.1-fold.
 Administration of raltegravir following a low-fat meal decreased AUC and Cmax by 46 % and 52 %, respectively; C12 hr was essentially unchanged.
 Food appears to increase pharmacokinetic variability relative to fasting.
+
 Overall, considerable variability was observed in the pharmacokinetics of raltegravir.
 For observed C12 hr in BENCHMRK 1 and 2 the coefficient of variation (CV) for inter-subject variability = 212 % and the CV for intra-subject variability = 122 %.
 Sources of variability may include differences in co-administration with food and concomitant medications.
-
 Distribution
 Raltegravir is approximately 83 % bound to human plasma protein over the concentration range of 2 to 10 µM.
 Raltegravir readily crossed the placenta in rats, but did not penetrate the brain to any appreciable extent.
-
-In two studies of HIV-1 infected patients who received raltegravir 400 mg twice daily, raltegravir was readily detected in the cerebrospinal fluid.
-In the first study (n=18), the median cerebrospinal fluid concentration was 5.8 % (range 1 to 53.5 %) of the corresponding plasma concentration.
-In the second study (n=16), the median cerebrospinal fluid concentration was 3 % (range 1 to 61 %) of the corresponding plasma concentration.
-These median proportions are approximately 3- to 6-fold lower than the free fraction of raltegravir in plasma.
 
 Metabolism and excretion
 The apparent terminal half-life of raltegravir is approximately 9 hours, with a shorter α-phase half-life (~1 hour) accounting for much of the AUC.
@@ -57,6 +52,7 @@ Renal impairment
 Renal clearance of unchanged medicinal product is a minor pathway of elimination.
 There were no clinically important pharmacokinetic differences between patients with severe renal insufficiency and healthy subjects (see section 4.2).
 Because the extent to which ISENTRESS may be dialysable is unknown, dosing before a dialysis session should be avoided.
+
 Hepatic impairment
 Raltegravir is eliminated primarily by glucuronidation in the liver.
 There were no clinically important pharmacokinetic differences between patients with moderate hepatic insufficiency and healthy subjects.
