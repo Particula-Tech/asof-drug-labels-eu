@@ -1,6 +1,6 @@
 # 6.3 Shelf life
 
-12 months.
+24 months.
 
 [STELARA 90 mg solution for injection]
 

@@ -24,7 +24,6 @@ Patients randomised to receive placebo at Weeks 0 and 4 crossed over to receive 
 Patients originally randomised to ustekinumab who achieved Psoriasis Area and Severity Index 75 response (PASI improvement of at least 75% relative to baseline) at both Weeks 28 and 40 were re-randomised to receive ustekinumab every 12 weeks or to placebo (i.e., withdrawal of therapy).
 Patients who were re-randomised to placebo at Week 40 reinitiated ustekinumab at their original dosing regimen when they experienced at least a 50% loss of their PASI improvement obtained at Week 40.
 All patients were followed for up to 76 weeks following first administration of study treatment.
-
 Psoriasis Study 2 (PHOENIX 2) evaluated 1,230 patients.
 61% of these patients were either non-responsive, intolerant, or had a contraindication to other systemic therapy.
 Patients randomised to ustekinumab received 45 mg or 90 mg doses at Weeks 0 and 4 followed by an additional dose at 16 weeks.
@@ -60,6 +59,7 @@ Table 2 Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psoria
 | PASI 50 response N (%) | 41 (10%) | 342 (84%)a | 367 (89%)a | 369 (93%) | 380 (95%) |
 | PASI 75 response N (%) | 15 (4%) | 273 (67%)a | 311 (76%)a | 276 (70%) | 314 (79%) |
 | PASI 90 response N (%) | 3 (1%) | 173 (42%)a | 209 (51%)a | 178 (45%) | 217 (54%) |
+|  | PBO | 45 mg | 90 mg | 45 mg | 90 mg |
 | PGAb of cleared or minimal N (%) | 18 (4%) | 277 (68%)a | 300 (73%)a | 241 (61%) | 279 (70%) |
 | Number of patients ≤100 kg | 290 | 297 | 289 | 287 | 280 |
 | PASI 75 response N (%) | 12 (4%) | 218 (73%) | 225 (78%) | 217 (76%) | 226 (81%) |
@@ -101,7 +101,66 @@ The improvement was sustained through Week 28.
 Similarly, significant improvements were seen in Psoriasis Study 2 at Week 4 and 12, which were sustained through Week 24.
 In Psoriasis Study 1, improvements in nail psoriasis (Nail Psoriasis Severity Index), in the physical and mental component summary scores of the SF-36 and in the Itch Visual Analogue Scale (VAS) were also significant in each ustekinumab treatment group compared with placebo.
 In Psoriasis Study 2, the Hospital Anxiety and Depression Scale (HADS) and Work Limitations Questionnaire (WLQ) were also significantly improved in each ustekinumab treatment group compared with placebo.
+
 Paediatric population
 The European Medicines Agency has waived the obligation to conduct studies with ustekinumab in plaque psoriasis in paediatric patients aged from birth to less than 6 years.
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in moderate to severe plaque psoriasis in paediatric patients aged from 6 years to less than 18 years.
+
+[STELARA 90 mg solution for injection]
+
+|  | Week 12 2 doses (Week 0 and Week 4) |  |  | Week 28 3 doses (Week 0, Week 4 and Week 16) |  |
+| --- | --- | --- | --- | --- | --- |
+|  | PBO | 45 mg | 90 mg | 45 mg | 90 mg |
+| Psoriasis Study 1 |  |  |  |  |  |
+| Number of patients randomised | 255 | 255 | 256 | 250 | 243 |
+| PASI 50 response N (%) | 26 (10%) | 213 (84%)a | 220 (86%)a | 228 (91%) | 234 (96%) |
+| PASI 75 response N (%) | 8 (3%) | 171 (67%)a | 170 (66%)a | 178 (71%) | 191 (79%) |
+| PASI 90 response N (%) | 5 (2%) | 106 (42%)a | 94 (37%)a | 123 (49%) | 135 (56%) |
+| PGAb of cleared or minimal N (%) | 10 (4%) | 151 (59%)a | 156 (61%)a | 146 (58%) | 160 (66%) |
+| Number of patients ≤100 kg | 166 | 168 | 164 | 164 | 153 |
+| PASI 75 response N (%) | 6 (4%) | 124 (74%) | 107 (65%) | 130 (79%) | 124 (81%) |
+| Number of patients > 100 kg | 89 | 87 | 92 | 86 | 90 |
+| PASI 75 response N (%) | 2 (2%) | 47 (54%) | 63 (68%) | 48 (56%) | 67 (74%) |
+| Psoriasis Study 2 |  |  |  |  |  |
+| Number of patients randomised | 410 | 409 | 411 | 397 | 400 |
+| PASI 50 response N (%) | 41 (10%) | 342 (84%)a | 367 (89%)a | 369 (93%) | 380 (95%) |
+|  | PBO | 45 mg | 90 mg | 45 mg | 90 mg |
+| PASI 75 response N (%) | 15 (4%) | 273 (67%)a | 311 (76%)a | 276 (70%) | 314 (79%) |
+| PASI 90 response N (%) | 3 (1%) | 173 (42%)a | 209 (51%)a | 178 (45%) | 217 (54%) |
+| PGAb of cleared or minimal N (%) | 18 (4%) | 277 (68%)a | 300 (73%)a | 241 (61%) | 279 (70%) |
+| Number of patients ≤100 kg | 290 | 297 | 289 | 287 | 280 |
+| PASI 75 response N (%) | 12 (4%) | 218 (73%) | 225 (78%) | 217 (76%) | 226 (81%) |
+| Number of patients > 100 kg | 120 | 112 | 121 | 110 | 119 |
+| PASI 75 response N (%) | 3 (3%) | 55 (49%) | 86 (71%) | 59 (54%) | 88 (74%) |
+
+[STELARA 45 mg solution for injection in pre-filled syringe.]
+
+|  | Week 12 2 doses (Week 0 and Week 4) |  |  | Week 28 3 doses (Week 0, Week 4 and Week 16) |  |
+| --- | --- | --- | --- | --- | --- |
+|  | PBO | 45 mg | 90 mg | 45 mg | 90 mg |
+| Psoriasis Study 1 |  |  |  |  |  |
+| Number of patients randomised | 255 | 255 | 256 | 250 | 243 |
+| PASI 50 response N (%) | 26 (10%) | 213 (84%)a | 220 (86%)a | 228 (91%) | 234 (96%) |
+| PASI 75 response N (%) | 8 (3%) | 171 (67%)a | 170 (66%)a | 178 (71%) | 191 (79%) |
+| PASI 90 response N (%) | 5 (2%) | 106 (42%)a | 94 (37%)a | 123 (49%) | 135 (56%) |
+| PGAb of cleared or minimal N (%) | 10 (4%) | 151 (59%)a | 156 (61%)a | 146 (58%) | 160 (66%) |
+| Number of patients ≤100 kg | 166 | 168 | 164 | 164 | 153 |
+| PASI 75 response N (%) | 6 (4%) | 124 (74%) | 107 (65%) | 130 (79%) | 124 (81%) |
+| Number of patients > 100 kg | 89 | 87 | 92 | 86 | 90 |
+| PASI 75 response N (%) | 2 (2%) | 47 (54%) | 63 (68%) | 48 (56%) | 67 (74%) |
+|  | PBO | 45 mg | 90 mg | 45 mg | 90 mg |
+| Psoriasis Study 2 |  |  |  |  |  |
+| Number of patients randomised | 410 | 409 | 411 | 397 | 400 |
+| PASI 50 response N (%) | 41 (10%) | 342 (84%)a | 367 (89%)a | 369 (93%) | 380 (95%) |
+| PASI 75 response N (%) | 15 (4%) | 273 (67%)a | 311 (76%)a | 276 (70%) | 314 (79%) |
+| PASI 90 response N (%) | 3 (1%) | 173 (42%)a | 209 (51%)a | 178 (45%) | 217 (54%) |
+| PGAb of cleared or minimal N (%) | 18 (4%) | 277 (68%)a | 300 (73%)a | 241 (61%) | 279 (70%) |
+| Number of patients ≤100 kg | 290 | 297 | 289 | 287 | 280 |
+| PASI 75 response N (%) | 12 (4%) | 218 (73%) | 225 (78%) | 217 (76%) | 226 (81%) |
+| Number of patients > 100 kg | 120 | 112 | 121 | 110 | 119 |
+| PASI 75 response N (%) | 3 (3%) | 55 (49%) | 86 (71%) | 59 (54%) | 88 (74%) |
+
+[STELARA 90 mg solution for injection in pre-filled syringe.]
+
+(all sentences already above)

@@ -37,6 +37,7 @@ Respiratory, thoracic and Common: Pharyngolaryngeal pain, nasal congestion
 mediastinal disorders
 
 Gastrointestinal disorders Common: Diarrhoea
+System Organ Class Frequency: Adverse reaction
 
 Skin and subcutaneous tissue Common: Pruritus disorders
 Musculoskeletal and connective Common: Back pain, myalgia, arthralgia tissue disorders
@@ -68,7 +69,6 @@ The incidence of non-melanoma skin cancer was 0.61 per 100 patient-years of foll
 
 Hypersensitivity reactions
 In clinical studies of ustekinumab, rash and urticaria have each been observed in < 2% of patients (see section 4.4).
-
 Immunogenicity
 Approximately 5% of ustekinumab-treated patients developed antibodies to ustekinumab, which were generally low-titer.
 No apparent correlation of antibody development to injection site reactions was seen.

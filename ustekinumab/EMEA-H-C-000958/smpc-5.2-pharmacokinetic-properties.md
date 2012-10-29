@@ -27,7 +27,6 @@ Serum concentration-time profiles of ustekinumab were generally predictable afte
 Steady-state serum concentrations of ustekinumab were achieved by Week 28 after initial subcutaneous doses at Weeks 0 and 4 followed by doses every 12 weeks.
 The median steady-state trough concentration ranged from 0.21 μg/ml to 0.26 μg/ml (45 mg) and from 0.47 μg/ml to 0.49 μg/ml (90 mg).
 There was no apparent accumulation in serum ustekinumab concentration over time when given subcutaneously every 12 weeks.
-
 Impact of weight on pharmacokinetics
 In a population pharmacokinetic analysis, body weight was found to be the most significant covariate affecting the clearance of ustekinumab.
 The median CL/F in patients with weight > 100 kg was approximately 55% higher compared to patients with weight ≤100 kg.
