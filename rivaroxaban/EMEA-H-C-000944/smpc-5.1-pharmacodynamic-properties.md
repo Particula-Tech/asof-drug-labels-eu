@@ -2,7 +2,7 @@
 
 Pharmacotherapeutic group: Other antithrombotic agents, ATC code: B01AX06
 
-Mechanism of action
+Mechanism of Action
 Rivaroxaban is a highly selective direct factor Xa inhibitor with oral bioavailability.
 Inhibition of Factor Xa interrupts the intrinsic and extrinsic pathway of the blood coagulation cascade, inhibiting both thrombin formation and development of thrombi.
 Rivaroxaban does not inhibit thrombin (activated Factor II) and no effects on platelets have been demonstrated.
@@ -11,21 +11,20 @@ Pharmacodynamic effects
 Dose-dependent inhibition of Factor Xa activity was observed in humans.
 Prothrombin time (PT) is influenced by rivaroxaban in a dose dependent way with a close correlation to plasma concentrations (r value equals 0.98) if Neoplastin is used for the assay.
 Other reagents would provide different results.
-The readout for PT is to be done in seconds, because the INR (International Normalised Ratio) is only calibrated and validated for coumarins and cannot be used for any other anticoagulant.
+The readout for PT is to be done in seconds, because the INR (International Normalized Ratio) is only calibrated and validated for coumarins and cannot be used for any other anticoagulant.
 In patients undergoing major orthopaedic surgery, the 5/95 percentiles for PT (Neoplastin) 2 - 4 hours after tablet intake (i.e. at the time of maximum effect) ranged from 13 to 25 s (baseline values before surgery 12 to 15s).
 The activated partial thomboplastin time (aPTT) and HepTest are also prolonged dose-dependently; however, they are not recommended to assess the pharmacodynamic effect of rivaroxaban.
+Anti-Factor Xa activity is also influenced by rivaroxaban; however, no standard for calibration is available.
 There is no need for monitoring of coagulation parameters during treatment with rivaroxaban in clinical routine.
-However, if clinically indicated rivaroxaban levels can be measured by calibrated quantitative anti-Factor Xa tests (see section 5.2).
 
 Clinical efficacy and safety
 The rivaroxaban clinical programme was designed to demonstrate the efficacy of rivaroxaban for the prevention of VTE, i.e. proximal and distal deep vein thrombosis (DVT) and pulmonary embolism (PE) in patients undergoing major orthopaedic surgery of the lower limbs.
 Over 9,500 patients (7,050 in total hip replacement surgery and 2,531 in total knee replacement surgery) were studied in controlled randomised double-blind phase III clinical studies, the RECORD-programme.
 Rivaroxaban 10 mg once daily (od) started no sooner than 6 hours post-operatively was compared with enoxaparin 40 mg once daily started 12 hours pre-operatively.
-In all three phase III studies (see table 3), rivaroxaban significantly reduced the rate of total VTE (any venographically detected or symptomatic DVT, non fatal PE and death) and major VTE (proximal DVT, non fatal PE and VTE-related death), the pre-specified primary and major secondary efficacy endpoints.
+In all three phase III studies (see table 2), rivaroxaban significantly reduced the rate of total VTE (any venographically detected or symptomatic DVT, non fatal PE and death) and major VTE (proximal DVT, non fatal PE and VTE-related death), the pre-specified primary and major secondary efficacy endpoints.
 Furthermore, in all three studies the rate of symptomatic VTE (symptomatic DVT, non-fatal PE, VTE-related death) was lower in rivaroxaban treated patients compared to patients treated with enoxaparin.
 The main safety endpoint, major bleeding, showed comparable rates for patients treated with rivaroxaban 10 mg compared to enoxaparin 40 mg.
-
-Table 3: Efficacy and safety results from phase III clinical studies
+Table 2: Efficacy and safety results from phase III clinical studies
 
 |  | RECORD 1 | RECORD 2 | RECORD 3 |
 | --- | --- | --- | --- |
@@ -45,11 +44,12 @@ See section 4.2 for information on paediatric use.
 
 [Xarelto 15 mg film-coated tablets]
 
+The readout for PT is to be done in seconds, because the INR (International Normalised Ratio) is only calibrated and validated for coumarins and cannot be used for any other anticoagulant.
 In patients receiving rivaroxaban for treatment of DVT and prevention of recurrent DVT and PE, the 5/95 percentiles for PT (Neoplastin) 2 - 4 hours after tablet intake (i.e. at the time of maximum effect) for 15 mg rivaroxaban twice daily ranged from 16 to 33 s and for 20 mg rivaroxaban once daily from 15 to 30 s. At trough (8 - 16 h after tablet intake) the 5/95 percentiles for 15 mg twice daily ranged from 14 to 25 s and for 20 mg once daily (18 - 30 h after tablet intake) from 13 to 21 s .
 In patients with non-valvular atrial fibrillation receiving rivaroxaban for the prevention of stroke and systemic embolism, the 5/95 percentiles for PT (Neoplastin) 1 - 4 hours after tablet intake (i.e. at the time of maximum effect) in patients treated with 20 mg once daily ranged from 14 to 40 s and in patients with moderate renal impairment treated with 15 mg once daily from 10 to 50 s. At trough
 (16 - 36 h after tablet intake) the 5/95 percentiles in patients treated with 20 mg once daily ranged from 12 to 26 s and in patients with moderate renal impairment treated with 15 mg once daily from 12 to 26 s.
 The activated partial thromboplastin time (aPTT) and HepTest are also prolonged dose-dependently; however, they are not recommended to assess the pharmacodynamic effect of rivaroxaban.
-There is no need for monitoring of coagulation parameters during treatment with rivaroxaban in clinical routine However, if clinically indicated rivaroxaban levels can be measured by calibrated quantitative anti-Factor Xa tests (see section 5.2).
+There is no need for monitoring of coagulation parameters during treatment with rivaroxaban in clinical routine however, if clinically indicated haemostatic status can be assessed by testing as described above.
 
 Prevention of stroke and systemic embolism in patients with non-valvular atrial fibrillation
 The Xarelto clinical program was designed to demonstrate the efficacy of Xarelto for the prevention of stroke and systemic embolism in patients with non-valvular atrial fibrillation.

@@ -1,7 +1,7 @@
 # 3. PHARMACEUTICAL FORM
 
 Film-coated tablet (tablet).
-Light red, round biconvex tablets (6 mm diameter, 9 mm radius of curvature) marked with the BAYER-cross on one side and "10" and a triangle on the other side.
+Light red, round tablets marked with the BAYER-cross on one side and "10" and a triangle on the other side.
 
 [Xarelto 15 mg film-coated tablets]
 
