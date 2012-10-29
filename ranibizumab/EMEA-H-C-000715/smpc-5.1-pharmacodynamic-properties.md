@@ -5,7 +5,6 @@ Pharmacotherapeutic group: Ophthalmologicals, antineovascularisation agents, ATC
 Ranibizumab is a humanised recombinant monoclonal antibody fragment targeted against human vascular endothelial growth factor A (VEGF-A).
 It binds with high affinity to the VEGF-A isoforms (e.g. VEGF110, VEGF121 and VEGF165), thereby preventing binding of VEGF-A to its receptors VEGFR-1 and VEGFR-2.
 Binding of VEGF-A to its receptors leads to endothelial cell proliferation and neovascularisation, as well as vascular leakage, all of which are thought to contribute to the progression of the neovascular form of age-related macular degeneration or to visual impairment caused by either diabetic macular oedema or macular oedema secondary to RVO.
-
 Treatment of wet AMD
 In wet AMD, the clinical safety and efficacy of Lucentis have been assessed in three randomised, double-masked, sham- or active-controlled studies of 24 months duration in patients with neovascular AMD.
 A total of 1,323 patients (879 active and 444 control) were enrolled in these studies.
@@ -29,6 +28,7 @@ Table 1 Outcomes at Month 12 and Month 24 in study FVF2598g (MARINA)
 |  | Month 24 | -14.9 (18.7) | +6.6 (16.5) |
 
 a p<0.01
+
 Table 2 Outcomes at Month 12 and Month 24 in study FVF2587g (ANCHOR)
 
 | Outcome measure | Month | Verteporfin PDT (n=143) | Lucentis 0.5 mg (n=140) |
@@ -41,7 +41,6 @@ Table 2 Outcomes at Month 12 and Month 24 in study FVF2587g (ANCHOR)
 |  | Month 24 | -9.8 (17.6) | +10.7 (16.5) |
 
 a p<0.01
-
 Figure 1 Mean change in visual acuity from baseline to Month 24 in study FVF2598g (MARINA) and study FVF2587g (ANCHOR)
 
 Study FVF2598g (MARINA)
@@ -92,7 +91,6 @@ Study FVF3192g (PIER) was a randomised, double-masked, sham-controlled study des
 Patients received Lucentis 0.3 mg (n=60) or 0.5 mg (n=61) intravitreal injections or sham (n=63) injections once a month for 3 consecutive doses, followed by a dose administered once every 3 months.
 From Month 14 of the study, sham-treated patients were allowed to cross over to receive ranibizumab and from Month 19, more frequent treatments were possible.
 Patients treated with Lucentis in PIER received a mean of 10 total treatments.
-
 The primary efficacy endpoint was mean change in visual acuity at 12 months compared with baseline.
 After an initial increase in visual acuity (following monthly dosing), on average, patients’ visual acuity declined with quarterly dosing, returning to baseline at Month 12 and this effect was maintained in most ranibizumab-treated patients (82%) at Month 24.
 Data from a limited number of subjects that crossed over to receive ranibizumab after more than a year of sham-treatment suggested that early initiation of treatment may be associated with a better preservation of visual acuity.
@@ -111,6 +109,7 @@ In the phase II study D2201 (RESOLVE), 151 patients were treated with ranibizuma
 The initial ranibizumab dose (0.3 mg or 0.5 mg) could be doubled at any time during the study after the first injection.
 Laser photocoagulation was allowed as rescue treatment from Month 3 in both treatment arms.
 The study had two parts: an exploratory part (the first 42 patients analysed at Month 6) and a confirmatory part (the remaining 109 patients analysed at Month 12).
+
 Key outcome measures from the confirmatory part of the study (2/3 of patients) are summarised in Table 3.
 
 Table 3 Outcomes at Month 12 in study D2201 (RESOLVE) (overall study population)
@@ -124,7 +123,6 @@ Table 3 Outcomes at Month 12 in study D2201 (RESOLVE) (overall study population)
 | p-value | 0.0043 |  |
 
 ap<0.0001
-
 In the phase III study D2301 (RESTORE), 345 patients with visual impairment due to macular oedema were randomised to receive either intravitreal injection of ranibizumab 0.5 mg as monotherapy and sham laser photocoagulation (n=116), combined ranibizumab 0.5 mg and laser photocoagulation (n=118), or sham injection and laser photocoagulation (n=111).
 Treatment with ranibizumab was started with monthly intravitreal injections and continued until visual acuity was stable for at least three consecutive monthly assessments.
 The treatment was reinitiated when a reduction in BCVA due to DME progression was observed.
@@ -144,6 +142,7 @@ Gain of ≥15 letters or BCVA ≥84 (%) 22.6 22.9 8.2
 p-value 0.0032 0.0021
 
 ap<0.0001
+
 Figure 2 Mean change in visual acuity from baseline over time in study D2301 (RESTORE)
 
 12
@@ -173,7 +172,6 @@ Laser (N = 110)
 
 BL=baseline; SE=standard error of mean
 * Difference in least square means, p<0.0001/0.0004 based on two-sided stratified Cochran-Mantel-Haenszel test
-
 The effect was consistent in most subgroups.
 However, subjects with a fairly good baseline BCVA (>73 letters) together with macular oedema with central retinal thickness of <300 μm did not appear to benefit from treatment with ranibizumab compared to laser photocoagulation.
 
@@ -188,6 +186,7 @@ The clinical safety and efficacy of Lucentis in patients with visual impairment 
 In both studies, subjects received either 0.3 mg or 0.5 mg intravitreal ranibizumab or sham injections.
 After 6 months, patients in the sham-control arms were crossed over to 0.5 mg ranibizumab.
 In BRAVO, laser photocoagulation as rescue was allowed in all arms from Month 3.
+
 Key outcome measures from BRAVO and CRUISE are summarised in Tables 5 and 6 and Figures 3 and 4.
 
 Table 5 Outcomes at Month 6 and 12 (BRAVO)
@@ -201,7 +200,6 @@ Table 5 Outcomes at Month 6 and 12 (BRAVO)
 | Proportion (%) receiving laser rescue over 12 months | 61.4 | 34.4 |
 
 ap<0.0001
-
 Figure 3 Mean change from baseline BCVA over time to Month 6 and Month 12 (BRAVO)
 
 + 18.3
@@ -224,6 +222,7 @@ Treatment group Sham/Ranibizumab 0.5 mg (n=132)
 Ranibizumab 0.5 mg (n=131)
 
 BL=baseline; SE=standard error of mean
+
 Table 6 Outcomes at Month 6 and 12 (CRUISE)
 
 |  | Sham/Lucentis 0.5 mg (n=130) | Lucentis 0.5 mg (n=130) |
@@ -234,11 +233,9 @@ Table 6 Outcomes at Month 6 and 12 (CRUISE)
 | Gain of ≥15 letters in visual acuity at Month 12 (%) | 33.1 | 50.8 |
 
 ap<0.0001
-
 Figure 4 Mean change from baseline BCVA over time to Month 6 and Month 12 (CRUISE)
 
-20 sham-controlled sham-controlled arm
-crossed-over to ranibizumab
+20 sham-controlled crossed-over to ranibizumab sham-controlled arm
 
 18 + 14.9
 
@@ -248,6 +245,7 @@ crossed-over to ranibizumab
 12
 
 10
+
 8 + 7.3
 
 6
@@ -273,6 +271,7 @@ In both studies, the improvement of vision was accompanied by a continuous and s
 In patients with BRVO (BRAVO and extension study HORIZON): After 2 years, subjects that were treated with sham in the first 6 months and subsequently crossed over to ranibizumab treatment had achieved comparable gains in VA (~15 letters) compared to subjects that were treated with ranibizumab from study start (~16 letters).
 However the number of patients completing 2 years was limited and in HORIZON only quarterly monitoring visits were scheduled.
 Therefore there is currently insufficient evidence to conclude on recommendations as to when ranibizumab treatment should be initiated in patients with BRVO.
+
 In patients with CRVO (CRUISE and extension study HORIZON): After 2 years, subjects that were treated with sham in the first 6 months and subsequently crossed over to ranibizumab treatment did not achieve comparable gains in VA (~6 letters) compared to subjects that were treated with ranibizumab from study start (~12 letters).
 
 The improvement in visual acuity observed with ranibizumab treatment at 6 and 12 months was accompanied by patient-reported benefits as measured by the National Eye Institute Visual Function Questionnaire (VFQ-25) sub-scales related to near and distance activity.
@@ -280,5 +279,4 @@ The difference between Lucentis 0.5 mg and the control group was assessed at Mon
 
 Paediatric population
 Safety and efficacy of ranibizumab have not yet been studied in paediatric patients.
-
 The European Medicine Agency has waived the obligation to submit the results of studies with Lucentis in all subsets of the paediatric population in neovascular AMD, visual impairment due to diabetic macular oedema and visual impairment due to macular oedema secondary to retinal vein occlusion (see section 4.2 for information on paediatric use).

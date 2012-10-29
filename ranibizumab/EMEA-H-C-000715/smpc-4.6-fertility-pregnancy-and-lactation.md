@@ -9,6 +9,7 @@ Studies in cynomolgus monkeys do not indicate direct or indirect harmful effects
 The systemic exposure to ranibizumab is low after ocular administration, but due to its mechanism of action, ranibizumab must be regarded as potentially teratogenic and embryo-/foetotoxic.
 Therefore, ranibizumab should not be used during pregnancy unless the expected benefit outweighs the potential risk to the foetus.
 For women who wish to become pregnant and have been treated with ranibizumab, it is recommended to wait at least 3 months after the last dose of ranibizumab before conceiving a child.
+
 Breast-feeding
 It is unknown whether Lucentis is excreted in human milk.
 Breast-feeding is not recommended during the use of Lucentis.

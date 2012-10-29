@@ -22,7 +22,6 @@ Patients should also be instructed to report if an intraocular inflammation incr
 
 Concomitant use of other anti-VEGF (vascular endothelial growth factor)
 Lucentis should not be administered concurrently with other anti-VEGF medicinal products (systemic or ocular).
-
 Withholding Lucentis
 The dose should be withheld and treatment should not be resumed earlier than the next scheduled treatment in the event of:
 

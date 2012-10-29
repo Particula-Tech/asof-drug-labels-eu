@@ -11,7 +11,6 @@ Less frequently reported, but more serious, adverse reactions include endophthal
 Patients should be informed of symptoms of these potential adverse reactions and instructed to inform their physician if they develop signs such as eye pain or increased discomfort, worsening eye redness, blurred or decreased vision, an increased number of small particles in their vision, or increased sensitivity to light.
 
 The adverse reactions experienced following administration of Lucentis in clinical trials are summarised in the table below.
-
 Tabulated list of adverse reactions#
 The adverse reactions are listed by system organ class and frequency using the following convention: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000), not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.

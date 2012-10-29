@@ -1,6 +1,10 @@
 # 6.6 Special precautions for disposal and other handling
 
-Vials are for single use only.
+The vial, injection needle, filter needle and syringe are for single use only.
+Re-use may lead to infection or other illness/injury.
+All components are sterile.
+Any component with packaging showing signs of damage or tampering must not be used.
+The sterility cannot be guaranteed unless the component packaging seal remains intact.
 
 To prepare Lucentis for intravitreal administration, please adhere to the following instructions:
 
@@ -8,7 +12,7 @@ To prepare Lucentis for intravitreal administration, please adhere to the follow
 Before withdrawal, the outer part of the rubber stopper of the vial should be disinfected.
 
 2.
-Assemble the 5 µm filter needle (provided) onto the 1 ml syringe (provided) using aseptic technique.
+Assemble the 5 µm filter needle (18G x 1½″, 1.2 mm x 40 mm, provided) onto the 1 ml syringe (provided) using aseptic technique.
 Push the blunt filter needle into the centre of the vial stopper until the needle touches the bottom edge of the vial.
 
 3.
@@ -22,7 +26,7 @@ Leave the blunt filter needle in the vial and disconnect the syringe from the bl
 The filter needle should be discarded after withdrawal of the vial contents and should not be used for the intravitreal injection.
 
 6.
-Aseptically and firmly assemble the injection needle (provided) onto the syringe.
+Aseptically and firmly assemble the injection needle (30G x ½″, 0.3 mm x 13 mm, provided) onto the syringe.
 
 7.
 Carefully remove the cap from the injection needle without disconnecting the injection needle from the syringe.
@@ -37,3 +41,4 @@ Note: Do not wipe the injection needle.
 Do not pull back on the plunger.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+Discard used needles in a sharps container.
