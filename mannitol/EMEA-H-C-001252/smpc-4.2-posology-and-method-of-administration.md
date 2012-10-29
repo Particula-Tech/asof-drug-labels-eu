@@ -69,6 +69,5 @@ After inhalation, each empty capsule is discarded before inserting the next caps
 
 The inhaler device is to be replaced after one week of use.
 If the inhaler does require cleaning, ensure the device is empty then wash in warm water and before re-use, allow the inhaler to thoroughly air dry.
-
 Detailed instructions on how to use the inhaler can be found in the patient information leaflet.
 Patients should be advised to carefully read them.

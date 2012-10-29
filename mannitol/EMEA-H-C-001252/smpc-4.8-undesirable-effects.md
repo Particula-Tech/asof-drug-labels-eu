@@ -1,15 +1,15 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-
 Initiation dose assessment
 The most commonly observed adverse reaction associated with the use of Bronchitol during the initiation dose assessment is cough (3.6% of patients), (see section 4.4).
+
 The most important adverse reaction associated with the use of Bronchitol during the initiation dose assessment is bronchospasm (see section 4.4).
 
 Therapeutic dose regimen
 The most commonly observed adverse reaction associated with the use of Bronchitol is cough (see section 4.4).
 This was observed in 10.2% of patients compared to 5.0% of patients in the control arm.
-Cough which led to cessation of treatment was also commonly experienced and was oberved in 4.7% of patients in the Bronchitol treatment arm.
+Cough which led to cessation of treatment was also commonly experienced and was observed in 4.7% of patients in the Bronchitol treatment arm.
 
 The most important adverse reaction associated with the use of Bronchitol is haemoptysis.
 The proportion of patients who experienced haemoptysis as an adverse reaction was 7.3% and 2.9% in the Bronchitol arms for studies 301 and 302, respectively vs. 3.4% and 0% in the control arms.
@@ -49,12 +49,12 @@ Table 1: Frequency of adverse reactions with Bronchitol during the treatment pha
 |  |  |  | Dysphonia |
 |  |  |  | Dyspnoea |
 |  |  |  | Hyperventilation |
-|  |  |  | Obstructive airways |
-|  |  |  | disorder |
-|  |  |  | Respiratory tract |
-|  |  |  | congestion |
-|  |  |  | Sputum discoloured |
 
+Obstructive airways
+disorder
+Respiratory tract
+congestion
+Sputum discoloured
 Bronchitis
 Bronchopneumonia
 Lung infection
@@ -110,6 +110,7 @@ In study 302 the most frequent clinical sign or symptom reported during the MTT 
 
 Paediatric population (6 to 17 years of age)
 Frequency, type and severity of adverse reactions in children are similar to those observed in adults.
+
 Initiation dose
 The most commonly observed adverse reaction associated with the use of Bronchitol during the initiation dose assessment with the paediatric population is cough (4.8% of patients).
 
@@ -156,8 +157,3 @@ Table 2: Frequency of adverse reactions with Bronchitol during the treatment pha
 
 1Adverse reaction occurred on the day of screening
 2Adverse reaction occurred both during the treatment phase and on the day of screening
-
-4.9 Overdose
-
-Susceptible persons may suffer bronchoconstriction in the event of an inhaled overdose.
-If excessive coughing and bronchoconstriction occurs, a beta2 agonist should be given, and oxygen if necessary.

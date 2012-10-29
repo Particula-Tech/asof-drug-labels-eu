@@ -13,7 +13,7 @@ In the ITT population of an open label dose response study, DPM-CF-202, the mean
 
 Clinical efficacy and safety
 Two Phase 3, 26-week double blind, randomised, parallel arm, controlled, intervention studies (DPM-CF-301 and DPM-CF-302) have been performed in which 324 (DPM-CF-301) and 318 (DPM-CF-302) patients aged 6 years and above were randomised in a 3:2 ratio to inhaled mannitol 400 mg twice daily or to control (inhaled mannitol 50 mg twice daily).
-Twenty seven (7%) out of 389 patients enrolled in study 301 and 14 (4.1%) out of 342 enrolled in study 302 were not randomised due to a positive mannitol tolerance test (MTT) defined as either 1) a fall in FEV1 >20% from baseline at midpoint (step 5) or 2) fall from baseline > 20 % at end of test that did not recover to < 20% within 15 minutes or 3) who had a fall in FEV1 > 50% from baseline at end of test (step 6) or 4) who had a fall in Sp02 to < 89% during the procedure.
+Twenty seven (7%) out of 389 patients enrolled in study 301 and 14 (4.1%) out of 342 enrolled in study 302 were not randomised due to a positive mannitol tolerance test (MTT) defined as either 1) a fall in FEV1 >20% from baseline at midpoint (step 4) or 2) fall from baseline > 20 % at end of test that did not recover to < 20% within 15 minutes or 3) who had a fall in FEV1 > 50% from baseline at end of test (step 6) or 4) who had a fall in Sp02 to < 89% during the procedure.
 An additional 4% (n=27) of patients from the two studies had incomplete MTTs and were not randomised.
 
 Mean (SD) baseline FEV1 percent predicted in study DPM-CF-301 (safety population, N= 295) was 62.4 (SD:16.45) and 61.4 (SD:16.13) in the mannitol and control groups, respectively.
@@ -29,32 +29,26 @@ Table 1 – Change in FEV1 from baseline over 26 weeks in the mITT and adult pop
 
 Effect size estimate
 DPM-CF-301 DPM-CF-302
-FEV1 p value FEV1 p value
-(95% CI) (95% CI)
+FEV1 p FEV1 p
+(95% CI) value (95% CI) value
 Overall Population
 N=269 N=297
 94.5 54.1
 Absolute mL (46.2, <0.001 (-1.97, 0.059
 142.7) 110.3)
-2.4 1.9
-Absolute % predicted 0.001 0.052
-(0.9, 3.9) (-0.02, 3.8)
+Absolute % 2.4 1.9
+predicted (0.9, 3.9) 0.001 (-0.02, 3.8) 0.052
 3.5 3.6
-Relative % predicted 0.007 0.033
-(1.0, 6.1) (0.3, 6.9)
+Relative % predicted (1.0, 6.1) 0.007 (0.3, 6.9) 0.033
 Adult Population
 N=171 N=144
 108.5
-85.9
-Absolute mL (47.6, <0.001 0.038
-(4.6, 167.3)
+Absolute mL (47.6, <0.001 (4.6, 167.3) 85.9 0.038
 169.4)
-2.7 2.3
-Absolute % predicted 0.004 0.095
-(0.9, 4.5) (-0.4, 5.1)
+Absolute % 2.7 2.3
+predicted (0.9, 4.5) 0.004 (-0.4, 5.1) 0.095
 4.3 5.0
-Relative % predicted 0.008 0.040
-(1.1, 7.5) (0.2, 9.8)
+Relative % predicted (1.1, 7.5) 0.008 (0.2, 9.8) 0.040
 
 In rhDNase users in study 301 the relative change in FEV1 % predicted from baseline across 26 weeks of treatment was 2.83 (95% CI -0.62, 6.27).
 For non-users the relative change was 4.30 (95% CI 0.53, 8.07).
