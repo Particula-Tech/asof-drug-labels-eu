@@ -1,3 +1,4 @@
 # 6.3 Shelf life
 
-5 years
+Blister pack: 5 years
+Bottle pack: 4°years

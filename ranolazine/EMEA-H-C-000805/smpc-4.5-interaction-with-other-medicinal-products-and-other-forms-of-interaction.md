@@ -31,10 +31,12 @@ Effects of ranolazine on other medicinal products
 
 Ranolazine is a moderate to potent inhibitor of P-gp and a mild inhibitor of CYP3A4, and may increase plasma concentrations of P-gp or CYP3A4 substrates.
 Tissue distribution of drugs which are transported by P-gp may be increased.
+Dose adjustment of sensitive CYP3A4 substrates (e.g., simvastatin, lovastatin) and CYP3A4 substrates with a narrow therapeutic range (e.g., ciclosporin, tacrolimus, sirolimus, everolimus) may be required as RANEXA may increase plasma concentrations of these drugs.
 
 Available data suggest that ranolazine is a mild inhibitor of CYP2D6.
 Ranexa 750 mg twice daily increased plasma concentrations of metoprolol by 1.8-fold.
 Therefore the exposure to metoprolol or other CYP2D6 substrates (e.g. propafenone and flecainide or, to a lesser extent, tricyclic antidepressants and antipsychotics) may be increased during co-administration with Ranexa, and lower doses of these medicinal products may be required.
+
 The potential for inhibition of CYP2B6 has not been evaluated.
 Caution is advised during co-administration with CYP2B6 substrates (e.g. bupropion, efavirenz, cyclophosphamide).
 
@@ -43,6 +45,13 @@ Therefore, digoxin levels should be monitored following initiation and terminati
 
 Simvastatin: Simvastatin metabolism and clearance are highly dependent on CYP3A4.
 Ranexa 1000 mg twice daily increased plasma concentrations of simvastatin lactone, simvastatin acid, and the HMG-CoA reductase inhibitor activity by 1.4- to 1.6-fold.
+Rhabdomyolysis has been associated with high doses of simvastatin and cases of rhabdomyolysis have been observed in patients receiving Ranexa and simvastatin, in postmarketing experience.
+Limit the dose of simvastatin to 20 mg once daily in patients taking any dose of Ranexa.
+Dose limitation of other statins, metabolised by CYP3A4 (lovastatin), may be considered in patients taking Ranexa.
+
+Tacrolimus, ciclosporin, sirolimus, everolimus: Increased plasma concentrations of tacrolimus, a CYP3A4 substrate, have been observed in patients after ranolazine administration.
+It is recommended that tacrolimus blood levels are monitored when co-administering Ranexa and tacrolimus and that tacrolimus dosage is adjusted accordingly.
+This is also recommended for other CYP3A4 substrates with a narrow therapeutic range (e.g., ciclosporin, sirolimus, everolimus).
 
 There is a theoretical risk that concomitant treatment of ranolazine with other drugs known to prolong the QTc interval may give rise to a pharmacodynamic interaction and increase the possible risk of ventricular arrhythmias.
 Examples of such drugs include certain antihistamines (e.g. terfenadine, astemizole, mizolastine), certain antiarrhythmics (e.g. quinidine, disopyramide, procainamide), erythromycin, and tricyclic antidepressants (e.g. imipramine, doxepin, amitriptyline).

@@ -15,7 +15,6 @@ The mean steady-state volume of distribution (Vss) is about 180 l.
 Elimination: Ranolazine is eliminated primarily by metabolism.
 Less than 5% of the dose is excreted unchanged in the urine and faeces.
 Following oral administration of a single 500 mg dose of [14C]-ranolazine to healthy subjects, 73% of the radioactivity was recovered in urine and 25% in faeces.
-
 Clearance of ranolazine is dose-dependent, decreasing with increased dose.
 The elimination half-life is about 2−3 hours after intravenous administration.
 The terminal half-life at steady state after oral administration of ranolazine is about 7 hours, due to the absorption rate-limited elimination.
@@ -31,6 +30,7 @@ The corresponding difference at the 1000 mg twice-daily dose was 25%.
 Special populations
 
 The influence of various factors on the pharmacokinetics of ranolazine was assessed in a population pharmacokinetic evaluation in 928 angina patients and healthy subjects.
+
 Gender effects: Gender had no clinically relevant effect on pharmacokinetic parameters.
 
 Elderly patients: Age alone had no clinically relevant effect on pharmacokinetic parameters.
@@ -55,4 +55,4 @@ There are no data in patients with severe hepatic impairment.
 Ranolazine AUC was unaffected in patients with mild hepatic impairment but increased 1.8-fold in patients with moderate impairment.
 QT prolongation was more pronounced in these patients.
 
-Paediatrics: The pharmacokinetic parameters of ranolazine have not been studied in the paediatric population (< 18 years).
+Paediatric population: The pharmacokinetic parameters of ranolazine have not been studied in the paediatric population (< 18 years).

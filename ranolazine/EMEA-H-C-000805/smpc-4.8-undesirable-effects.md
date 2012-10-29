@@ -17,6 +17,7 @@ Nervous system disorders
 Common: dizziness, headache.
 Uncommon: lethargy, syncope, hypoaesthesia, somnolence, tremor, postural dizziness.
 Rare: amnesia, depressed level of consciousness, loss of consciousness, parosmia.
+
 Eye disorders
 Uncommon: blurred vision, visual disturbance.
 
@@ -46,10 +47,10 @@ Uncommon: pain in extremity, muscle cramp, joint swelling.
 
 Renal and urinary disorders
 Uncommon: dysuria, haematuria, chromaturia.
+Rare: acute renal failure
 
 Reproductive system and breast disorders
 Rare: erectile dysfunction.
-
 General disorders and administration site conditions
 Common: asthenia.
 Uncommon: fatigue, peripheral oedema.
@@ -65,6 +66,7 @@ Evaluations in patients who may be considered at higher risk of adverse events w
 Elderly, renal impairment, and low weight: In general, adverse events occurred more frequently among elderly patients and patients with renal impairment; however, the types of events in these subgroups were similar to those observed in the general population.
 Of the most commonly reported, the following events occurred more often with Ranexa (placebo-corrected frequencies) in elderly
 (≥ 75 years of age) than younger patients (< 75 years of age): constipation (8% versus 5%), nausea (6% versus 3%), hypotension (5% versus 1%), and vomiting (4% versus 1%).
+
 In patients with mild or moderate renal impairment (creatinine clearance ≥ 30–80 ml/min) compared to those with normal renal function (creatinine clearance > 80 ml/min), the most commonly reported events and their placebo-corrected frequencies included: constipation (8% versus 4%), dizziness (7% versus 5%), and nausea (4% versus 2%).
 
 In general, the type and frequency of adverse events reported in patients with low body weight
@@ -73,5 +75,3 @@ In general, the type and frequency of adverse events reported in patients with l
 Laboratory findings: Small, clinically insignificant, reversible elevations in serum creatinine levels have been observed in healthy subjects and patients treated with Ranexa.
 There was no renal toxicity related to these findings.
 A renal function study in healthy volunteers demonstrated a reduction in creatinine clearance with no change in glomerular filtration rate consistent with inhibition of renal tubular secretion of creatinine.
-
-Post-marketing experience: In post-marketing experience, there have been reports of acute renal failure, including in patients with pre-existing mild to moderate renal impairment and/or taking concomitant medications that are known to interact with ranolazine (see section 4.4 and 4.5).
