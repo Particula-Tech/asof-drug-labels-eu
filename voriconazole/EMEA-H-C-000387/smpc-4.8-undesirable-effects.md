@@ -75,6 +75,7 @@ Undesirable effects reported in subjects receiving voriconazole:
 | Common | Back pain |
 | Uncommon | Arthritis |
 | Rare | Hypertonia |
+| Not known | Periostitis |
 | Renal and urinary disorders |  |
 | Common | Renal failure acute, haematuria |
 | Uncommon | Proteinuria, nephritis |
@@ -182,6 +183,7 @@ There have been post-marketing reports of pancreatitis in paediatric patients.
 | Common | Back pain |
 | Uncommon | Arthritis |
 | Rare | Hypertonia |
+| Not known | Periostitis |
 | Renal and urinary disorders |  |
 | Common | Renal failure acute, haematuria |
 | Uncommon | Proteinuria, nephritis |
@@ -253,6 +255,7 @@ thrombocytopenia, anaemia, purpura
 | Common | Back pain |
 | Uncommon | Arthritis |
 | Rare | Hypertonia |
+| Not known | Periostitis |
 | Renal and urinary disorders |  |
 | Common | Renal failure acute, haematuria |
 | Uncommon | Proteinuria, nephritis |
@@ -267,6 +270,10 @@ thrombocytopenia, anaemia, purpura
 Infusion-related reactions
 During infusion of the intravenous formulation of voriconazole in healthy subjects, anaphylactoid-type reactions, including flushing, fever, sweating, tachycardia, chest tightness, dyspnoea, faintness, nausea, pruritus and rash have occurred.
 Symptoms appeared immediately upon initiating the infusion (see section 4.4).
+
+[VFEND 200 mg powder and solvent for solution for infusion]
+
+(all sentences already above)
 
 [VFEND 40 mg/ml powder for oral suspension]
 
@@ -326,6 +333,7 @@ Symptoms appeared immediately upon initiating the infusion (see section 4.4).
 | Common | Back pain |
 | Uncommon | Arthritis |
 | Rare | Hypertonia |
+| Not known | Periostitis |
 | Renal and urinary disorders |  |
 | Common | Renal failure acute, haematuria |
 | Uncommon | Proteinuria, nephritis |

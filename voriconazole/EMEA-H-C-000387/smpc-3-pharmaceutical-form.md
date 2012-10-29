@@ -11,6 +11,13 @@ White to off-white, capsule-shaped tablet, debossed “Pfizer” on one side and
 Powder for solution for infusion.
 White lyophilised powder.
 
+[VFEND 200 mg powder and solvent for solution for infusion]
+
+Powder and solvent for solution for infusion
+
+Solvent for solution for infusion:
+Clear diluent solution
+
 [VFEND 40 mg/ml powder for oral suspension]
 
 Powder for oral suspension

@@ -25,6 +25,10 @@ No adequate information on the use of VFEND in pregnant women is available.
 
 (all sentences already above)
 
+[VFEND 200 mg powder and solvent for solution for infusion]
+
+(all sentences already above)
+
 [VFEND 40 mg/ml powder for oral suspension]
 
 (all sentences already above)

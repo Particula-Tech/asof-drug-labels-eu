@@ -8,6 +8,7 @@ VFEND is also available as 200 mg film-coated tablets, 200 mg powder for solutio
 Adults and a subgroup of adolescents (12 to 14 years and ≥50 kg; 15 to 17 years regardless of body weight)
 Therapy must be initiated with the specified loading dose regimen of either intravenous or oral VFEND to achieve plasma concentrations on Day 1 that are close to steady state.
 On the basis of the high oral bioavailability (96 %; see section 5.2), switching between intravenous and oral administration is appropriate when clinically indicated.
+
 Detailed information on dosage recommendations is provided in the following table:
 
 |  | Intravenous | Oral |  |
@@ -49,7 +50,6 @@ These oral dose recommendations for children are based on studies in which VFEND
 Bioequivalence between the powder for oral suspension and tablets has not been investigated in a paediatric population.
 Considering the assumed limited gastro-enteric transit time in paediatrics, the absorption of tablets may be different in paediatric compared to adult patients.
 It is therefore recommended to use the oral suspension formulation in children aged 2-<12.
-
 Use in paediatric patients aged 2 to <12 years with hepatic or renal insufficiency has not been studied (see sections 4.8 and 5.2).
 
 Dose adjustment
@@ -133,6 +133,16 @@ Patients with severe hepatic impairment must be carefully monitored for drug tox
 
 VFEND requires reconstitution and dilution (see section 6.6) prior to administration as an intravenous infusion.
 Not for bolus injection.
+
+[VFEND 200 mg powder and solvent for solution for infusion]
+
+Adults and adolescents a subgroup of (12 to 14 years and ≥50 kg; 15 to 17 years regardless of body weight)
+
+|  | Intravenous | Oral |  |
+| --- | --- | --- | --- |
+|  |  | Patients 40 kg and above | Patients less than 40 kg* |
+| Loading dose regimen (first 24 hours) | 6 mg/kg every 12 hours (for the first 24 hours) | 400 mg every 12 hours (for the first 24 hours) | 200 mg every 12 hours (for the first 24 hours) |
+| Maintenance dose (after first 24 hours) | 4 mg/kg twice daily | 200 mg twice daily | 100 mg twice daily |
 
 [VFEND 40 mg/ml powder for oral suspension]
 

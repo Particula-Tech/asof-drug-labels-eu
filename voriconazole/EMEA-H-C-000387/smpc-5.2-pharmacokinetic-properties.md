@@ -63,7 +63,6 @@ No significant differences in Cmax and AUCτ were observed between healthy elder
 In the therapeutic studies no dosage adjustment was made on the basis of age.
 A relationship between plasma concentrations and age was observed.
 The safety profile of voriconazole in young and elderly patients was similar and, therefore, no dosage adjustment is necessary for the elderly (see section 4.2).
-
 Paediatric
 The recommended doses in children and adolescent patients are based on a population pharmacokinetic analysis of data obtained from 112 immunocompromised paediatric patients aged 2 to <12 years and 26 immunocompromised adolescent patients aged 12 to <17 years.
 Multiple intravenous doses of 3, 4, 6, 7 and 8 mg/kg twice daily and multiple oral doses (using the powder for oral suspension) of 4 mg/kg, 6 mg/kg, and 200 mg twice daily were evaluated in 3 paediatric pharmacokinetic studies.
@@ -116,6 +115,10 @@ The recommended doses in children and adolescent patients are based on a populat
 It is likely that these subjects may metabolize voriconazole more similarly to children than to adolescents/adults.
 
 In patients with moderate to severe renal dysfunction (serum creatinine levels > 2.5 mg/dl), accumulation of the intravenous vehicle, SBECD, occurs.
+
+[VFEND 200 mg powder and solvent for solution for infusion]
+
+(all sentences already above)
 
 [VFEND 40 mg/ml powder for oral suspension]
 

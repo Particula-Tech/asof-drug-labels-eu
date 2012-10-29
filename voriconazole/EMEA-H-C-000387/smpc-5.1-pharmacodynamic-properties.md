@@ -27,7 +27,6 @@ Other treated fungal infections (with often partial or complete response) includ
 In vitro activity against clinical isolates has been observed for Acremonium spp., Alternaria spp., Bipolaris spp., Cladophialophora spp., Histoplasma capsulatum, with most strains being inhibited by concentrations of voriconazole in the range 0.05 to 2 µg/ml.
 
 In vitro activity against the following pathogens has been shown, but the clinical significance is unknown: Curvularia spp. and Sporothrix spp.
-
 Breakpoints
 
 Specimens for fungal culture and other relevant laboratory studies (serology, histopathology) should be obtained prior to therapy to isolate and identify causative organisms.
@@ -147,6 +146,10 @@ Other treated fungal infections (with often partial or complete response, see be
 Trichosporon spp. including T. beigelii infections.
 
 Scedosporium spp.: Successful response to voriconazole therapy was seen in 16 (6 complete, 10 partial responses) of 28 patients with S. apiospermum and in 2 (both partial response) of 7 patients with S. prolificans infection.
+
+[VFEND 200 mg powder and solvent for solution for infusion]
+
+(all sentences already above)
 
 [VFEND 40 mg/ml powder for oral suspension]
 

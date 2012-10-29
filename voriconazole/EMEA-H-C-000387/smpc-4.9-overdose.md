@@ -5,7 +5,6 @@ All occurred in paediatric patients, who received up to five times the recommend
 A single adverse reaction of photophobia of 10 minutes duration was reported.
 
 There is no known antidote to voriconazole.
-
 Voriconazole is haemodialysed with a clearance of 121 ml/min.
 In an overdose, haemodialysis may assist in the removal of voriconazole from the body.
 
@@ -17,6 +16,10 @@ In an overdose, haemodialysis may assist in the removal of voriconazole from the
 
 The intravenous vehicle, SBECD, is haemodialysed with a clearance of 55 ml/min.
 In an overdose, haemodialysis may assist in the removal of voriconazole and SBECD from the body.
+
+[VFEND 200 mg powder and solvent for solution for infusion]
+
+(all sentences already above)
 
 [VFEND 40 mg/ml powder for oral suspension]
 

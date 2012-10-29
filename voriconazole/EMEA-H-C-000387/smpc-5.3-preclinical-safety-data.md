@@ -24,6 +24,10 @@ An impurity, present in SBECD, has been shown to be an alkylating mutagenic agen
 This impurity should be considered a substance with carcinogenic potential in humans.
 In the light of these data the duration of treatment of the intravenous formulation should be no longer than 6 months.
 
+[VFEND 200 mg powder and solvent for solution for infusion]
+
+(all sentences already above)
+
 [VFEND 40 mg/ml powder for oral suspension]
 
 (all sentences already above)

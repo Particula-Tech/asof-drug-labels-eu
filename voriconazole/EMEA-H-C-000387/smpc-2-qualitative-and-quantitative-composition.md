@@ -21,6 +21,15 @@ Once reconstituted further dilution is required before administration.
 
 Excipient with known effect: each vial contains 217.6 mg sodium
 
+[VFEND 200 mg powder and solvent for solution for infusion]
+
+Powder for solution for infusion:
+
+Solvent for solution for infusion:
+Each 50 ml polypropylene bag contains sodium chloride 0.9% in Water for Injections.
+
+Excipient with known effect: each bag contains 177.02 mg sodium
+
 [VFEND 40 mg/ml powder for oral suspension]
 
 Each ml of oral suspension contains 40 mg of voriconazole when reconstituted with water.

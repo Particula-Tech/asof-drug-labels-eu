@@ -10,6 +10,10 @@ No special precautions for storage.
 
 For storage conditions after reconstitution of the medicinal product, see section 6.3.
 
+[VFEND 200 mg powder and solvent for solution for infusion]
+
+(all sentences already above)
+
 [VFEND 40 mg/ml powder for oral suspension]
 
 Store in a refrigerator (2°C - 8°C).

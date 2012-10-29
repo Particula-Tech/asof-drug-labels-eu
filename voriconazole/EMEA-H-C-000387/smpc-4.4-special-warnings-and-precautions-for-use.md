@@ -49,9 +49,14 @@ If patients develop a rash they should be monitored closely and VFEND discontinu
 
 In addition VFEND has been associated with phototoxicity and pseudoporphyria.
 It is recommended that patients avoid intense or prolonged exposure to direct sunlight during VFEND treatment and use measures such as protective clothing and sunscreen when appropriate.
-In patients with phototoxicity and additional risk factors, including immunosuppression, squamous cell carcinoma of the skin has been reported during long-term therapy.
-Physicians should therefore consider the need to limit the exposure to VFEND (see sections 4.2 and 5.1).
-If phototoxic reactions occur, VFEND discontinuation should be considered after multidisciplinary advice and the patient should be referred to a dermatologist.
+
+Long-term treatment
+The following severe adverse events have been reported in relation with long-term VFEND treatment, physicians should therefore consider the need to limit the exposure to VFEND (see sections 4.2 and 5.1): Squamous cell carcinoma of the skin has been reported in patients with phototoxicity and additional risk factors, including immunosuppression.
+If phototoxic reactions occur, multidisciplinary advice should be sought and the patient should be referred to a dermatologist.
+VFEND discontinuation should be considered.
+
+Non-infectious periostitis with elevated fluoride and alkaline phosphatase levels has been reported in transplant patients.
+If a patient develops skeletal pain and radiologic findings compatible with periostitis VFEND discontinuation should be considered after multidisciplinary advice.
 
 Paediatric population
 Safety and effectiveness in paediatric subjects below the age of two years has not been established (see sections 4.8 and 5.1).
@@ -73,6 +78,7 @@ Concomitant use of voriconazole and rifabutin should be avoided unless the benef
 
 Ritonavir (potent CYP450 inducer; CYP3A4 inhibitor and substrate)
 Coadministration of voriconazole and low dose ritonavir (100 mg twice daily) should be avoided unless an assessment of the benefit/risk justifies the use of voriconazole (see sections 4.5 and 4.3).
+
 Everolimus (CYP3A4 substrate, P-gp substrate)
 Co-administration of voriconazole with everolimus is not recommended because voriconazole is expected to significantly increase everolimus concentrations.
 Currently there are insufficient data to allow dosing recommendations in this situation (see section 4.5).
@@ -121,8 +127,6 @@ Patient being treated with voriconazole are likely to be treated concomitantly w
 
 Patients, especially children, with risk factors for acute pancreatitis (e.g. recent chemotherapy, haematopoietic stem cell translplantation (HSCT)), should be monitored closely during VFEND treatment.
 
-Dermatological adverse reactionss
-
 Reduction in the dose of alfentanil, fentanyl and other short acting opiates similar in structure to alfentanil and metabolised by CYP3A4 (e.g. sufentanil) should be considered when co-administered with voriconazole (see section 4.5).
 As the half-life of alfentanil is prolonged in a four-fold manner when alfentanyl is coadministered with voriconazole, and in an independent published study, concomitant use of voriconazole with fentanyl resulted in an increase in the mean AUC 0-∞ of fentanyl frequent monitoring for opiate-associated adverse reactions (including a longer respiratory monitoring period) may be necessary.
 
@@ -132,13 +136,15 @@ Sodium content
 Each vial of VFEND contains 217.6 mg of sodium.
 This should be taken into consideration for patients on a controlled sodium diet.
 
+[VFEND 200 mg powder and solvent for solution for infusion]
+
+(all sentences already above)
+
 [VFEND 40 mg/ml powder for oral suspension]
 
 In clinical trials, there have been uncommon cases of serious hepatic reactions during treatment with vorionazole (including clinical hepatitis, cholestasis and fulminant hepatic failure, including fatalities).
 
 Patients, especially children, with risk factors for acute pancreatitis (e.g. recent chemotherapy, hematopoietic stem cell transplantation (HSCT)), should be monitored closely during VFEND treatment.
-
-In addition VFEND has been associated withphototoxicity and pseudoporphyria.
 
 As the half-life of alfentanil is prolonged in a four-fold manner when alfentanil is coadministered with voriconazoleand in an independent published study, concomitant use of voriconazole with fentanyl resulted in an increase in the mean AUC 0-∞ of fentanyl, frequent monitoring for opiate-associated adverse reactions (including a longer respiratory monitoring period) may be necessary.
 
