@@ -14,6 +14,7 @@ Uncommon Confusion
 Uncommon Hallucinations1
 Not known Psychotic reactions2
 Nervous system disorders Common Dizziness
+Common Balance disorders
 Uncommon Gait abnormal
 Very rare Seizures
 Cardiac disorders Uncommon Cardiac failure
@@ -29,6 +30,8 @@ disorders
 Gastrointestinal disorders Common Constipation
 Uncommon Vomiting
 Not known Pancreatitis2
+Hepatobiliary disorders Common Elevated liver function test
+Not known Hepatitis
 General disorders and administration Common Headache
 
 site conditions
