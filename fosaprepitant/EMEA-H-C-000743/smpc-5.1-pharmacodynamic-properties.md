@@ -5,13 +5,14 @@ Pharmacotherapeutic group: Antiemetics and antinauseants, ATC code: A04AD12.
 Fosaprepitant is the prodrug of aprepitant and when administered intravenously is converted rapidly to aprepitant (see section 5.2).
 The contribution of fosaprepitant to the overall antiemetic effect has not fully been characterised, but a transient contribution during the initial phase cannot be ruled out.
 Aprepitant is a selective high-affinity antagonist at human substance P neurokinin 1 (NK1) receptors.
-The pharmacological effect of fosaprepitant is attributed to aprepitant.
+The pharmacological effect of fosaprepitant is attributed to aprepitant
 
 3-day regimen of aprepitant
 In 2 randomised, double-blind studies encompassing a total of 1,094 patients receiving chemotherapy that included cisplatin ≥70 mg/m2, aprepitant in combination with an ondansetron/dexamethasone regimen (see section 4.2) was compared with a standard regimen (placebo plus ondansetron 32 mg intravenously administered on Day 1 plus dexamethasone 20 mg orally on Day 1 and 8 mg orally twice daily on Days 2 to 4).
 
 Efficacy was based on evaluation of the following composite measure: complete response (defined as no emetic episodes and no use of rescue therapy) primarily during Cycle 1.
 The results were evaluated for each individual study and for the 2 studies combined.
+
 A summary of the key study results from the combined analysis is shown in Table 1.
 
 Table 1
@@ -39,7 +40,6 @@ Overall (0-120 hours) 72.1 64.9 7.2 (1.6, 12.8)
 † One patient in the Aprepitant regimen only had data in the acute phase and was excluded from the overall and delayed phase analyses; one patient in the Standard regimen only had data in the delayed phase and was excluded from the overall and acute phase analyses.
 
 The estimated time to first emesis in the combined analysis is depicted by the Kaplan-Meier plot in Figure 1.
-
 Figure 1
 Percent of patients receiving Highly Emetogenic Chemotherapy who remain emesis free over time – Cycle 1
 
@@ -63,13 +63,13 @@ Standard Therapy (N=523)
 Time (hours)
 
 Statistically significant differences in efficacy were also observed in each of the 2 individual studies.
+
 In the same 2 clinical studies, 851 patients continued into the Multiple-Cycle extension for up to 5 additional cycles of chemotherapy.
 The efficacy of the aprepitant regimen was maintained during all cycles.
 
 In a randomised, double-blind study in a total of 866 patients (864 females, 2 males) receiving chemotherapy that included cyclophosphamide 750-1,500 mg/m2; or cyclophosphamide 500-1,500 mg/m2 and doxorubicin (≤60 mg/m2) or epirubicin (≤100 mg/m2), aprepitant in combination with an ondansetron/dexamethasone regimen (see section 4.2) was compared with standard therapy (placebo plus ondansetron 8 mg orally (twice on Day 1, and every 12 hours on Days 2 and 3) plus dexamethasone 20 mg orally on Day 1).
 
 Efficacy was based on evaluation of the composite measure: complete response (defined as no emetic episodes and no use of rescue therapy) primarily during Cycle 1.
-
 A summary of the key study results is shown in Table 2.
 
 Table 2
@@ -105,9 +105,9 @@ In a second multicenter, randomized, double-blind, parallel-group, clinical stud
 Patients receiving the aprepitant regimen were receiving chemotherapy for a variety of tumour types including 52 % with breast cancer, 21 % with gastrointestinal cancers including colorectal cancer, 13 % with lung cancer and 6 % with gynaecological cancers.
 The aprepitant regimen in combination with an ondansetron/dexamethasone regimen (see section 4.2) was compared with standard therapy (placebo in combination with ondansetron 8 mg orally (twice on
 Day 1, and every 12 hours on Days 2 and 3) plus dexamethasone 20 mg orally on Day 1).
+
 Efficacy was based on the evaluation of the following primary and key secondary endpoints: No vomiting in the overall period (0 to 120 hours post-chemotherapy), evaluation of safety and tolerability of the aprepitant regimen for CINV, and complete response (defined as no vomiting and no use of rescue therapy) in the overall period (0 to 120 hours post-chemotherapy).
 Additionally, no significant nausea in the overall period (0 to 120 hours post-chemotherapy) was evaluated as an exploratory endpoint, and in the acute and delayed phases as a post-hoc analysis.
-
 A summary of the key study results is shown in Table 3.
 
 Table 3
@@ -135,11 +135,6 @@ Overall (0-120 hours) 73.6 66.4 7.2 (1.0, 13.4)
 The benefit of aprepitant combination therapy in the full study population was mainly driven by the results observed in patients with poor control with the standard regimen such as in women, even though the results were numerically better regardless of age, tumour type or gender.
 Complete response to the aprepitant regimen and standard therapy, respectively, was reached in 209/324 (65 %) and 161/320 (50 %) in women and 83/101 (82 %) and 68/87 (78 %) of men.
 
-Paediatric population
-Studies evaluating the use of fosaprepitant in paediatric patients are on-going (see section 4.2 for information on paediatric use).
-
-[IVEMEND 150 mg powder for solution for infusion.]
-
 1-day regimen of IVEMEND 150 mg
 In a randomized, parallel, double-blind, active-controlled study, IVEMEND 150 mg (N=1,147) was compared with a 3-day aprepitant regimen (N=1,175) in patients receiving a HEC regimen that included cisplatin (≥70 mg/m2).
 The fosaprepitant regimen consisted of fosaprepitant 150 mg on Day 1 in combination with ondansetron 32 mg IV on Day 1 and dexamethasone 12 mg on Day 1, 8 mg on Day 2, and 8 mg twice daily on Days 3 and 4.
@@ -150,6 +145,7 @@ Efficacy was based on evaluation of the following composite measures: complete r
 IVEMEND 150 mg was shown to be non-inferior to that of the 3-day regimen of aprepitant.
 A summary of the primary and secondary endpoints is shown in Table 4.
 Table 4
+Percent of patients receiving Highly Emetogenic Chemotherapy responding by treatment group and phase — Cycle 1
 
 ENDPOINTS* Fosaprepitant Aprepitant Difference†
 regimen regimen (95 % CI)
@@ -174,3 +170,6 @@ Miettinen and Nurminen and adjusted for Gender.
 ‡Complete response = no vomiting and no use of rescue therapy.
 §Overall = 0 to 120 hours post-initiation of cisplatin chemotherapy.
 §§Delayed phase = 25 to 120 hours post-initiation of cisplatin chemotherapy.
+
+Paediatric population
+Studies evaluating the use of fosaprepitant in paediatric patients are on-going (see section 4.2 for information on paediatric use).
