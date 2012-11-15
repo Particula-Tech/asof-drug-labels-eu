@@ -8,6 +8,8 @@ Hypocalcaemia must be corrected by adequate intake of calcium and vitamin D befo
 Patients with severe renal impairment (creatinine clearance < 30 ml/min) or receiving dialysis are at greater risk of developing hypocalcaemia.
 Clinical monitoring of calcium levels is recommended for patients predisposed to hypocalcaemia.
 
+In the post-marketing setting, severe symptomatic hypocalcaemia has been reported (see section 4.8).
+
 Patients receiving Prolia may develop skin infections (predominantly cellulitis) leading to hospitalisation (see section 4.8).
 Patients should be advised to seek prompt medical attention if they develop signs or symptoms of cellulitis.
 

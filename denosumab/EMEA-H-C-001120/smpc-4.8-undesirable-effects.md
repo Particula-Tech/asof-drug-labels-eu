@@ -35,6 +35,8 @@ Hypocalcaemia
 In two phase III placebo-controlled clinical trials in postmenopausal women with osteoporosis, approximately 0.05% (2 out of 4,050) of patients had declines of serum calcium levels (less than 1.88 mmol/l) following Prolia administration.
 Declines of serum calcium levels (less than 1.88 mmol/l) were not reported in the two phase III placebo-controlled clinical trials in patients receiving hormone ablation.
 
+In the post-marketing setting, rare cases of severe symptomatic hypocalcaemia have been reported in patients at increased risk of hypocalcaemia receiving Prolia.
+
 Skin infections
 In phase III placebo-controlled clinical trials, the overall incidence of skin infections was similar in the placebo and the Prolia groups in postmenopausal women with osteoporosis (placebo [1.2%, 50 out of 4,041] versus Prolia [1.5%, 59 out of 4,050]) and in breast or prostate cancer patients receiving hormone ablation (placebo [1.7%, 14 out of 845] versus Prolia [1.4%, 12 out of 860]).
 Skin infections leading to hospitalisation were reported in 0.1% (3 out of 4,041) of postmenopausal women with osteoporosis receiving placebo versus 0.4% (16 out of 4,050) of women receiving Prolia.
