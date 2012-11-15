@@ -19,9 +19,9 @@ Immunisation using a live organism vaccine has the potential to cause infection 
 Therefore, immunisations with live organism vaccines are not recommended.
 
 Hepatotoxicity
-Mercaptopurine Nova Laboratories is hepatotoxic and liver function tests should be monitored weekly during treatment.
+Xaluprine is hepatotoxic and liver function tests should be monitored weekly during treatment.
 More frequent monitoring may be advisable in those with pre-existing liver disease or receiving other potentially hepatotoxic therapy.
-The patient should be instructed to discontinue Mercaptopurine Nova Laboratories immediately if jaundice becomes apparent (see section 4.8).
+The patient should be instructed to discontinue Xaluprine immediately if jaundice becomes apparent (see section 4.8).
 
 Renal toxicity
 During remission induction when rapid cell lysis is occurring, uric acid levels in blood and urine should be monitored as hyperuricaemia and/or hyperuricosuria may develop, with the risk of uric acid nephropathy.
@@ -41,11 +41,11 @@ Excipients
 This medicinal product contains aspartame (E951), a source of phenylalanine.
 May be harmful for people with phenylketonuria.
 
-It also contains methyl parahydroxybenzoate and propyl parahydroxybenzoates which may cause allergic reaction (possibly delayed).
+It also contains sodium methyl parahydroxybenzoate and sodium ethyl parahydroxybenzoate which may cause allergic reaction (possibly delayed).
 
 As this medicine contains sucrose, patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicine.
 Long term use increases the risk of dental caries and it is essential that adequate dental hygiene is maintained.
 
 Safe handling of the suspension
-Parents and care givers should avoid Mercaptopurine Nova Laboratories contact with skin or mucous membrane.
+Parents and care givers should avoid Xaluprine contact with skin or mucous membrane.
 If the suspension comes into contact with skin or mucosa, it should be washed immediately and thoroughly with soap and water (see section 6.6).

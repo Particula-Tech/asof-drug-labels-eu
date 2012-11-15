@@ -1,7 +1,7 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 The administration of 6–mercaptopurine with food may decrease systemic exposure slightly but this is unlikely to be of clinical significance.
-Therefore, Mercaptopurine Nova Laboratories may be taken with food or on an empty stomach, but patients should standardise the method of administration.
+Therefore, Xaluprine may be taken with food or on an empty stomach, but patients should standardise the method of administration.
 The dose should not be taken with milk or dairy products since they contain xanthine oxidase, an enzyme which metabolises 6–mercaptopurine and might therefore lead to reduced plasma concentrations of mercaptopurine.
 
 Effects of mercaptopurine on other medicinal products
@@ -15,10 +15,10 @@ Monitoring of the INR (International Normalised Ratio) value is recommended duri
 Cytotoxic agents may decrease the intestinal absorption of phenytoin.
 Careful monitoring of the phenytoin serum levels is recommended.
 It is possible that the levels of other anti-epileptic medicinal products may also be altered.
-Serum antiepileptic levels should be closely monitored during treatment with Mercaptopurine Nova Laboratories, making dose adjustments as necessary.
+Serum antiepileptic levels should be closely monitored during treatment with Xaluprine, making dose adjustments as necessary.
 
 Effects of other medicinal products on mercaptopurine
-When allopurinol and Mercaptopurine Nova Laboratories are administered concomitantly it is essential that only a quarter of the usual dose of Mercaptopurine Nova Laboratories is given since allopurinol decreases the rate of metabolism of 6–mercaptopurine via xanthine oxidase.
+When allopurinol and Xaluprine are administered concomitantly it is essential that only a quarter of the usual dose of Xaluprine is given since allopurinol decreases the rate of metabolism of 6–mercaptopurine via xanthine oxidase.
 Also other xanthine oxidase inhibitors, such as febuxostat, may decrease the metabolism of mercaptopurine and concomitant administration is not recommended as data are insufficient to determine an adequate dose reduction.
 
-As there is in vitro evidence that aminosalicylate derivatives (eg. olsalazine, mesalazine or sulfazalazine) inhibit the TPMT enzyme, which metabolises 6–mercaptopurine, they should be administered with caution to patients receiving concurrent Mercaptopurine Nova Laboratories therapy (see section 4.4).
+As there is in vitro evidence that aminosalicylate derivatives (eg. olsalazine, mesalazine or sulfazalazine) inhibit the TPMT enzyme, which metabolises 6–mercaptopurine, they should be administered with caution to patients receiving concurrent Xaluprine therapy (see section 4.4).

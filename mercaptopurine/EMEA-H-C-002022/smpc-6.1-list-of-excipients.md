@@ -4,6 +4,8 @@ Xanthan gum
 Aspartame (E951)
 Concentrated Raspberry juice
 Sucrose
-Methyl parahydroxybenzoate (E218)
-Propyl parahydroxybenzoate (E216)
+Sodium methyl parahydroxybenzoate (E219)
+Sodium ethyl parahydroxybenzoate (E215)
+Potassium sorbate (E202)
+Sodium hydroxide
 Purified water

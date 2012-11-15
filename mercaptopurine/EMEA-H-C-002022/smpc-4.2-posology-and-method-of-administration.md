@@ -1,6 +1,6 @@
 # 4.2 Posology and method of administration
 
-Mercaptopurine Nova Laboratories treatment should be supervised by a physician or other healthcare professional experienced in the management of patients with ALL.
+Xaluprine treatment should be supervised by a physician or other healthcare professional experienced in the management of patients with ALL.
 
 Posology
 The dose is governed by cautiously monitored haematotoxicity and the dose should be carefully adjusted to suit the individual patient in accordance with the employed treatment protocol.
@@ -42,12 +42,12 @@ Depending on phase of treatment, starting or target doses generally vary between
 6–mercaptopurine is metabolised by the polymorphic TPMT enzyme.
 Patients with little or no inherited TPMT activity are at increased risk for severe toxicity from conventional doses of mercaptopurine and generally require substantial dose reduction.
 TPMT genotyping or phenotyping can be used to identify patients with absent or reduced TPMT activity.
-TPMT testing cannot substitute for haematological monitoring in patients receiving Mercaptopurine Nova Laboratories.
+TPMT testing cannot substitute for haematological monitoring in patients receiving Xaluprine.
 The optimal starting dose for homozygous deficient patients has not been established (see section 4.4).
 Special populations
 Dose in the elderly
 No specific studies have been carried out in the elderly.
-However, it is advisable to monitor renal and hepatic function in these patients, and if there is any impairment, consideration should be given to reducing the Mercaptopurine Nova Laboratories dose.
+However, it is advisable to monitor renal and hepatic function in these patients, and if there is any impairment, consideration should be given to reducing the Xaluprine dose.
 
 Dose in renal impairment
 Since 6–mercaptopurine pharmacokinetics has not been formally studied in renal impairment, no specific dose recommendations can be given.
@@ -69,17 +69,17 @@ When allopurinol and 6–mercaptopurine are administered concomitantly it is ess
 Other xanthine oxidase inhibitors should be avoided (see section 4.5).
 
 Method of administration
-Mercaptopurine Nova Laboratories is for oral use and requires redispersing (by shaking vigorously at least for 30 seconds) prior to dosing.
+Xaluprine is for oral use and requires redispersing (by shaking vigorously at least for 30 seconds) prior to dosing.
 
 Two dosing syringes (a purple syringe graduated to 1 ml and a white syringe graduated to 5 ml) are provided for accurate measurement of the prescribed dose of the oral suspension.
 It is recommended that the healthcare professional advises the patient or carer which syringe to use to ensure that the correct volume is administered.
 
-Mercaptopurine Nova Laboratories may be taken with food or on an empty stomach, but patients should standardise the method of administration.
+Xaluprine may be taken with food or on an empty stomach, but patients should standardise the method of administration.
 The dose should not be taken with milk or dairy products (see section 4.5).
-Mercaptopurine Nova Laboratories should be taken at least 1 hour before or 2 hours after milk or dairy products.
+Xaluprine should be taken at least 1 hour before or 2 hours after milk or dairy products.
 
 6–mercaptopurine displays diurnal variation in pharmacokinetics and efficacy.
 Administration in the evening compared to morning administration may lower the risk of relapse.
-Therefore the daily dose of Mercaptopurine Nova Laboratories should be taken in the evening.
+Therefore the daily dose of Xaluprine should be taken in the evening.
 
-To assist accurate and consistent dose delivery to the stomach water should be taken after each dose of Mercaptopurine Nova Laboratories.
+To assist accurate and consistent dose delivery to the stomach water should be taken after each dose of Xaluprine.
