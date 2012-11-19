@@ -94,8 +94,10 @@ See section 4.3.
 
 Effects on laboratory tests
 
-TYSABRI treatment was associated with increases in circulating lymphocytes, monocytes, eosinophils, basophils and nucleated red blood cells.
+In 2-year controlled clinical trials in MS patients TYSABRI treatment was associated with increases in circulating lymphocytes, monocytes, eosinophils, basophils and nucleated red blood cells.
 Elevations in neutrophils were not seen.
 Increases from baseline for lymphocytes, monocytes, eosinophils and basophils ranged from 35% to 140% for individual cell types but mean cell counts remained within normal ranges.
 During treatment with TYSABRI, small reductions in haemoglobin (mean decrease 0.6 g/dl), haematocrit (mean decrease 2%) and red blood cell counts (mean decrease 0.1 x 106/l) were seen.
 All changes in haematological variables returned to pre-treatment values, usually within 16 weeks of last dose of TYSABRI and the changes were not associated with clinical symptoms.
+In post-marketing experience, there have also been reports of eosinophilia (eosinophil count >1,500/mm3) without clinical symptoms.
+In such cases where TYSABRI therapy was discontinued the elevated eosinophil levels resolved.

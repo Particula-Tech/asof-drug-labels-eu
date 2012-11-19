@@ -20,7 +20,9 @@ Patients who have all three risk factors for PML (i.e., are anti-JCV antibody po
 In patients with all three risk factors, treatment with TYSABRI should only be continued if the benefits outweigh the risks.
 For the quantification of PML risk in the different patient subgroups, please refer to the Physician Information and Management Guidelines.
 
-For risk stratification prior or during the treatment with TYSABRI anti-JCV antibody testing provides supportive information.
+Anti-JCV antibody testing provides supportive information for risk stratification of TYSABRI treatment.
+Testing for serum anti-JCV antibody prior to initiating TYSABRI therapy or in patients receiving TYSABRI with an unknown antibody status is recommended.
+Re-testing of anti-JCV antibody negative patients every 6 months is recommended.
 The anti-JCV antibody assay (ELISA) should not be used to diagnose PML.
 Anti-JCV antibody testing should not be performed during, or for at least two weeks following, plasma exchange due to the removal of antibodies from the serum.
 
@@ -53,6 +55,7 @@ Opportunistic infections were also detected in MS patients treated with TYSABRI 
 
 Prescribers should be aware of the possibility that other opportunistic infections may occur during TYSABRI therapy and should include them in the differential diagnosis of infections that occur in TYSABRI-treated patients.
 If an opportunistic infection is suspected, dosing with TYSABRI is to be suspended until such infections can be excluded through further evaluations.
+
 If a patient receiving TYSABRI develops an opportunistic infection, dosing of TYSABRI must be permanently discontinued.
 
 Educational guidance
@@ -91,7 +94,6 @@ In Phase 3 MS clinical trials, concomitant treatment of relapses with a short co
 Short courses of corticosteroids can be used in combination with TYSABRI.
 
 Immunogenicity
-
 Disease exacerbations or infusion related events may indicate the development of antibodies against natalizumab.
 In these cases the presence of antibodies should be evaluated and if these remain positive in a confirmatory test after 6 weeks, treatment should be discontinued, as persistent antibodies are associated with a substantial decrease in efficacy of TYSABRI and an increased incidence of hypersensitivity reactions (see section 4.8).
 
