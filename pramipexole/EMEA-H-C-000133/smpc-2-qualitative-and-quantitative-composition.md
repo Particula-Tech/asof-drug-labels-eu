@@ -6,7 +6,7 @@ Please note:
 Pramipexole doses as published in the literature refer to the salt form.
 Therefore, doses will be expressed in terms of both pramipexole base and pramipexole salt (in brackets).
 
-For a full list of excipients, see section 6.1.
+For the full list of excipients, see section 6.1.
 
 [SIFROL 0.18 mg tablets]
 

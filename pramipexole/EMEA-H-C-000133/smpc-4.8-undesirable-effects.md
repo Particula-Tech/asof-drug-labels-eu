@@ -1,7 +1,7 @@
 # 4.8 Undesirable effects
 
 Expected adverse reactions
-The following adverse reactions are expected under the use of SIFROL: abnormal dreams, amnesia, behavioural symptoms of impulse control disorders and compulsions such as binge eating, compulsive shopping, hypersexuality and pathological gambling; cardiac failure, confusion, constipation, delusion, dizziness, dyskinesia, dyspnoea, fatigue, hallucinations, headache, hiccups, hyperkinesia, hyperphagia, hypotension, insomnia, libido disorders, nausea, paranoia, peripheral oedema, pneumonia, pruritus, rash and other hypersensitivity; restlessness, somnolence, sudden onset of sleep, syncope, visual impairment including diplopia, vision blurred and visual acuity reduced, vomiting, weight decrease including decreased appetite, weight increase.
+The following adverse reactions are expected under the use of SIFROL: abnormal dreams, amnesia, behavioural symptoms of impulse control disorders and compulsions such as binge eating, compulsive shopping, hypersexuality and pathological gambling; cardiac failure, confusion, constipation, delusion, dizziness, dyskinesia, dyspnoea, fatigue, hallucinations, headache, hiccups, hyperkinesia, hyperphagia, hypotension, inappropriate antidiuretic hormone secretion, insomnia, libido disorders, nausea, paranoia, peripheral oedema, pneumonia, pruritus, rash and other hypersensitivity; restlessness, somnolence, sudden onset of sleep, syncope, visual impairment including diplopia, vision blurred and visual acuity reduced, vomiting, weight decrease including decreased appetite, weight increase.
 
 Based on the analysis of pooled placebo-controlled trials, comprising a total of 1,923 patients on pramipexole and 1,354 patients on placebo, adverse drug reactions were frequently reported for both groups.
 63% of patients on pramipexole and 52% of patients on placebo reported at least one adverse drug reaction.
@@ -23,6 +23,8 @@ Table 1: Parkinson’s disease
 | --- | --- |
 | Infections and infestations |  |
 | Uncommon | pneumonia |
+| Endocrine disorders |  |
+| Uncommon | inappropriate antidiuretic hormone secretion1 |
 | Psychiatric disorders |  |
 | Common | abnormal dreams, behavioural symptoms of impulse control disorders and compulsions, confusion, hallucinations, insomnia |
 | Uncommon | binge eating1, compulsive shopping, delusion, hyperphagia1, hypersexuality, libido disorder, paranoia, pathological gambling, restlessness |
@@ -62,6 +64,8 @@ Table 2: Restless Legs Syndrome
 | --- | --- |
 | Infections and infestations |  |
 | Uncommon | pneumonia1 |
+| Endocrine disorders |  |
+| Uncommon | inappropriate antidiuretic hormone secretion1 |
 | Psychiatric disorders |  |
 | Common | abnormal dreams, insomnia |
 | Uncommon | behavioural symptoms of impulse control disorders and compulsions such as binge eating, compulsive shopping, hypersexuality, and pathological gambling1; confusion, delusion1, hallucinations, hyperphagia1, libido disorder, paranoia1, restlessness |
@@ -99,7 +103,6 @@ Pramipexole may uncommonly be associated with libido disorders (increased or dec
 
 Impulse control disorders and compulsive behaviours
 Patients treated with dopamine agonists for Parkinson’s disease, including SIFROL, especially at high doses, have been reported as exhibiting signs of pathological gambling, increased libido and hypersexuality, generally reversible upon reduction of the dose or treatment discontinuation (see also section 4.4).
-
 In a cross-sectional, retrospective screening and case-control study including 3,090 Parkinson’s disease patients, 13.6% of all patients receiving dopaminergic or non-dopaminergic treatment had symptoms of an impulse control disorder during the past six months.
 Manifestations observed include pathological gambling, compulsive shopping, binge eating, and compulsive sexual behaviour (hypersexuality).
 Possible independent risk factors for impulse control disorders included dopaminergic treatments and higher doses of dopaminergic treatment, younger age ( ≤ 65 years), not being married and self-reported family history of gambling behaviours.
@@ -114,6 +117,8 @@ In a pharmacoepidemiological study pramipexole use was associated with an increa
 | --- | --- |
 | Infections and infestations |  |
 | Uncommon | pneumonia |
+| Endocrine disorders |  |
+| Uncommon | inappropriate antidiuretic hormone secretion1 |
 | Psychiatric disorders |  |
 | Common | abnormal dreams, behavioural symptoms of impulse control disorders and compulsions, confusion, hallucinations, insomnia |
 | Uncommon | binge eating1, compulsive shopping, delusion, hyperphagia1, hypersexuality, libido disorder, paranoia, pathological gambling, restlessness |
@@ -144,6 +149,8 @@ In a pharmacoepidemiological study pramipexole use was associated with an increa
 | --- | --- |
 | Infections and infestations |  |
 | Uncommon | pneumonia1 |
+| Endocrine disorders |  |
+| Uncommon | inappropriate antidiuretic hormone secretion1 |
 | Psychiatric disorders |  |
 | Common | abnormal dreams, insomnia |
 | Uncommon | behavioural symptoms of impulse control disorders and compulsions such as binge eating, compulsive shopping, hypersexuality, and pathological gambling1; confusion, delusion1, hallucinations, hyperphagia1, libido disorder, paranoia1, restlessness |
@@ -192,6 +199,8 @@ The adverse drug reactions reported in the table below are those events that occ
 | --- | --- |
 | Infections and infestations |  |
 | Uncommon | pneumonia |
+| Endocrine disorders |  |
+| Uncommon | inappropriate antidiuretic hormone secretion1 |
 | Psychiatric disorders |  |
 | Common | abnormal dreams, behavioural symptoms of impulse control disorders and compulsions; confusion, hallucinations, insomnia |
 | Uncommon | binge eating1, compulsive shopping, delusion, hyperphagia1, hypersexuality, libido disorder, paranoia, pathological gambling, restlessness |
@@ -235,6 +244,8 @@ See also section 4.4.
 | --- | --- |
 | Infections and infestations |  |
 | Uncommon | pneumonia |
+| Endocrine disorders |  |
+| Uncommon | inappropriate antidiuretic hormone secretion1 |
 | Psychiatric disorders |  |
 | Common | abnormal dreams, behavioural symptoms of impulse control disorders and compulsions; confusion, hallucinations, insomnia |
 | Uncommon | binge eating1, compulsive shopping, delusion, hyperphagia1, hypersexuality, libido disorder, paranoia, pathological gambling, restlessness |

@@ -2,6 +2,7 @@
 
 Pharmacotherapeutic group: anti-Parkinson drugs, dopamine agonists, ATC code: N04BC05.
 
+Mechanism of action
 Pramipexole is a dopamine agonist that binds with high selectivity and specificity to the D2 subfamily of dopamine receptors of which it has a preferential affinity to D3 receptors, and has full intrinsic activity.
 
 Pramipexole alleviates parkinsonian motor deficits by stimulation of dopamine receptors in the striatum.
@@ -10,16 +11,15 @@ Animal studies have shown that pramipexole inhibits dopamine synthesis, release,
 The mechanism of action of pramipexole as treatment for Restless Legs Syndrome is unknown.
 Neuropharmacological evidence suggests primary dopaminergic system involvement.
 
+Pharmacodynamic effects
 In human volunteers, a dose-dependent decrease in prolactin was observed.
 In a clinical trial with healthy volunteers, where SIFROL prolonged-release tablets were titrated faster (every 3 days) than recommended up to 3.15 mg pramipexole base (4.5 mg of salt) per day, an increase in blood pressure and heart rate was observed.
 Such effect was not observed in patient studies.
 
-Clinical trials in Parkinson’s disease
-
+Clinical efficacy and safety in Parkinson’s disease
 In patients pramipexole alleviates signs and symptoms of idiopathic Parkinson’s disease.
 Placebo-controlled clinical trials included approximately 1,800 patients of Hoehn and Yahr stages I – V treated with pramipexole.
 Out of these, approximately 1,000 were in more advanced stages, received concomitant levodopa therapy, and suffered from motor complications.
-
 In early and advanced Parkinson’s disease, efficacy of pramipexole in controlled clinical trials was maintained for approximately six months.
 In open continuation trials lasting for more than three years there were no signs of decreasing efficacy.
 
@@ -29,10 +29,10 @@ The overall incidence of hallucinations and somnolence was generally higher in t
 However, there was no significant difference during the maintenance phase.
 These points should be considered when initiating pramipexole treatment in patients with Parkinson’s disease.
 
+Paediatric population
 The European Medicines Agency has waived the obligation to submit the results of studies with SIFROL in all subsets of the paediatric population in Parkinson’s Disease (see section 4.2 for information on paediatric use).
 
-Clinical trials in Restless Legs Syndrome
-
+Clinical efficacy and safety in Restless Legs Syndrome
 The efficacy of pramipexole was evaluated in four placebo-controlled clinical trials in approximately 1,000 patients with moderate to very severe idiopathic Restless Legs Syndrome.
 
 The mean change from baseline in the Restless Legs Syndrome Rating Scale (IRLS) and the Clinical Global Impression-Improvement (CGI-I) were the primary efficacy outcome measures.
@@ -48,10 +48,10 @@ Longer term efficacy was evaluated in a placebo-controlled clinical trial.
 After 26 weeks of treatment, there was an adjusted mean reduction in IRLS total score of 13.7 and 11.1 points in the pramipexole and placebo group, respectively, with a statistically significant (p = 0.008) mean treatment difference of -2.6.
 CGI-I responder rates (much improved, very much improved) were 50.3% (80/159) and 68.5% (111/162) for placebo and pramipexole, respectively (p = 0.001), corresponding to a number needed to treat (NNT) of 6 patients (95%CI: 3.5, 13.4).
 
+Paediatric population
 The European Medicines Agency has deferred the obligation to submit the results of studies with SIFROL in one or more subsets of the paediatric population in Restless Legs Syndrome (see section 4.2 for information on paediatric use).
 
-Clinical trial in Tourette Disorder
-
+Clinical efficacy and safety in Tourette Disorder
 The efficacy of pramipexole (0.0625-0.5 mg/day) with paediatric patients aged 6-17 years with Tourette Disorder was evaluated in a 6-week, double-blind, randomised, placebo-controlled flexible dose study.
 A total of 63 patients were randomised (43 on pramipexole, 20 on placebo).
 The primary endpoint was change from baseline on the Total Tic Score (TTS) of the Yale Global Tic Severity Scale (YGTSS).

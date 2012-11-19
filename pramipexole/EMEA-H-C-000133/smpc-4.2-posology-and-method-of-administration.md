@@ -3,6 +3,7 @@
 Posology
 
 Parkinson’s disease
+
 The daily dose is administered in equally divided doses 3 times a day.
 
 Initial treatment
@@ -32,7 +33,7 @@ Abrupt discontinuation of dopaminergic therapy can lead to the development of a 
 Pramipexole should be tapered off at a rate of 0.54 mg of base (0.75 mg of salt) per day until the daily dose has been reduced to 0.54 mg of base (0.75 mg of salt).
 Thereafter the dose should be reduced by 0.264 mg of base (0.375 mg of salt) per day (see section 4.4).
 
-Dosing in patients with renal impairment
+Patients with renal impairment
 The elimination of pramipexole is dependent on renal function.
 The following dose schedule is suggested for initiation of therapy:
 
@@ -47,7 +48,7 @@ A maximum daily dose of 1.1 mg pramipexole base (1.5 mg of salt) should not be e
 If renal function declines during maintenance therapy the SIFROL daily dose should be reduced by the same percentage as the decline in creatinine clearance, i.e. if creatinine clearance declines by 30%, then the SIFROL daily dose should be reduced by 30%.
 The daily dose can be administered in two divided doses if creatinine clearance is between 20 and 50 ml/min and as a single daily dose if creatinine clearance is less than 20 ml/min.
 
-Dosing in patients with hepatic impairment
+Patients with hepatic impairment
 Dose adjustment in patients with hepatic failure is probably not necessary, as approx. 90% of absorbed active substance is excreted through the kidneys.
 However, the potential influence of hepatic insufficiency on SIFROL pharmacokinetics has not been investigated.
 
@@ -76,12 +77,12 @@ Since the daily dose for the treatment of Restless Legs Syndrome will not exceed
 In a 26 week placebo controlled trial, rebound of RLS symptoms (worsening of symptom severity as compared to baseline) was observed in 10% of patients (14 out of 135) after abrupt discontinuation of treatment.
 This effect was found to be similar across all doses.
 
-Dosing in patients with renal impairment
+Patients with renal impairment
 The elimination of pramipexole is dependent on renal function.
 Patients with a creatinine clearance above 20 ml/min require no reduction in daily dose.
 The use of SIFROL has not been studied in haemodialysis patients, or in patients with severe renal impairment.
 
-Dosing in patients with hepatic impairment
+Patients with hepatic impairment
 Dose adjustment in patients with hepatic failure is not required, as approx. 90% of absorbed active substance is excreted through the kidneys.
 
 Paediatric population
