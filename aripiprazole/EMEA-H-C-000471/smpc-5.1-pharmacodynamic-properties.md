@@ -32,6 +32,7 @@ The safety profile included weight gain and changes in prolactin levels.
 The duration of the long-term safety study was limited to 52 weeks.
 In the pooled trials, the incidence of low serum prolactin levels in females (<3 ng/ml) and males (<2 ng/ml) in aripiprazole-treated patients was 27/46 (58.7%) and 258/298 (86.6%), respectively.
 In the placebo-controlled trials, the mean weight gain was 0.4 kg for placebo and 1.6 kg for aripiprazole.
+
 Weight gain:
 In clinical trials aripiprazole has not been shown to induce clinically relevant weight gain.
 In a 26-week, olanzapine-controlled, double-blind, multi-national study of schizophrenia which included 314 patients and where the primary end-point was weight gain, significantly less patients had at least 7% weight gain over baseline (i.e. a gain of at least 5.6 kg for a mean baseline weight of ~80.5 kg) on aripiprazole (N= 18, or 13% of evaluable patients), compared to olanzapine (N= 45, or 33% of evaluable patients).
@@ -54,7 +55,6 @@ Aripiprazole also demonstrated a comparable proportion of patients in symptomati
 In a 6-week, placebo-controlled trial involving patients with a manic or mixed episode of Bipolar I Disorder, with or without psychotic features, who were partially non-responsive to lithium or valproate monotherapy for 2 weeks at therapeutic serum levels, the addition of aripiprazole as adjunctive therapy resulted in superior efficacy in reduction of manic symptoms than lithium or valproate monotherapy.
 
 In a 26-week, placebo-controlled trial, followed by a 74-week extension, in manic patients who achieved remission on aripiprazole during a stabilization phase prior to randomization, aripiprazole demonstrated superiority over placebo in preventing bipolar recurrence, primarily in preventing recurrence into mania but failed to demonstrate superiority over placebo in preventing recurrence into depression.
-
 In a 52-week, placebo-controlled trial, in patients with a current manic or mixed episode of Bipolar I Disorder who achieved sustained remission (Y-MRS and MADRS total scores ≤ 12) on aripiprazole (10 mg/day to 30 mg/day) adjunctive to lithium or valproate for 12 consecutive weeks, adjunctive aripiprazole demonstrated superiority over placebo with a 46% decreased risk (hazard ratio of 0.54) in preventing bipolar recurrence and a 65% decreased risk (hazard ratio of 0.35) in preventing recurrence into mania over adjunctive placebo but failed to demonstrate superiority over placebo in preventing recurrence into depression.
 Adjunctive aripiprazole demonstrated superiority over placebo on the secondary outcome measure, CGI-BP Severity of Illness score (mania).
 In this trial, patients were assigned by investigators with either open-label lithium or valproate monotherapy to determine partial non-response.

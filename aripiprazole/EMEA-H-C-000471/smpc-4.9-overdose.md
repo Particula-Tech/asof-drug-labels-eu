@@ -11,5 +11,4 @@ Therefore cardiovascular monitoring should be started immediately and should inc
 Following any confirmed or suspected overdose with aripiprazole, close medical supervision and monitoring should continue until the patient recovers.
 
 Activated charcoal (50 g), administered one hour after aripiprazole, decreased aripiprazole Cmax by about 41% and AUC by about 51%, suggesting that charcoal may be effective in the treatment of overdose.
-
 Although there is no information on the effect of haemodialysis in treating an overdose with aripiprazole, haemodialysis is unlikely to be useful in overdose management since aripiprazole is highly bound to plasma proteins.

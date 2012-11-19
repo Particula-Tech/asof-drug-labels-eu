@@ -23,7 +23,6 @@ The total body clearance of aripiprazole is 0.7 ml/min/kg, which is primarily he
 
 Following a single oral dose of [14C]-labelled aripiprazole, approximately 27% of the administered radioactivity was recovered in the urine and approximately 60% in the faeces.
 Less than 1% of unchanged aripiprazole was excreted in the urine and approximately 18% was recovered unchanged in the faeces.
-
 Pharmacokinetics in special patient groups
 
 Paediatric population:
@@ -31,6 +30,7 @@ The pharmacokinetics of aripiprazole and dehydro-aripiprazole in paediatric pati
 
 Elderly:
 There are no differences in the pharmacokinetics of aripiprazole between healthy elderly and younger adult subjects, nor is there any detectable effect of age in a population pharmacokinetic analysis in schizophrenic patients.
+
 Gender:
 There are no differences in the pharmacokinetics of aripiprazole between healthy male and female subjects nor is there any detectable effect of gender in a population pharmacokinetic analysis in schizophrenic patients.
 

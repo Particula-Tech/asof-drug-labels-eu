@@ -30,7 +30,6 @@ In the long term 26-week maintenance phase of a placebo-controlled trial, the in
 
 In placebo-controlled trials, the incidence of akathisia in bipolar patients was 12.1% with aripiprazole and 3.2% with placebo.
 In schizophrenia patients the incidence of akathisia was 6.2% with aripiprazole and 3.0% with placebo.
-
 Dystonia: Class Effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
 Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
 While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
@@ -63,9 +62,9 @@ hyperosmolar coma
 
 Metabolism and nutrition weight gain, weight decreased, anorexia, hyponatremia disorders:
 
-Psychiatric disorders: agitation, nervousness; suicide attempt, suicidal ideation, and
+Psychiatric disorders: agitation, nervousness, pathological gambling; suicide attempt,
 
-completed suicide (see section 4.4)
+suicidal ideation, and completed suicide (see section 4.4)
 
 Nervous system disorders: speech disorder, Neuroleptic Malignant Syndrome (NMS), grand mal convulsion
 

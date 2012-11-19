@@ -59,6 +59,9 @@ In clinical trials aripiprazole has not been shown to induce clinically relevant
 Dysphagia: oesophageal dysmotility and aspiration have been associated with antipsychotic treatment, including ABILIFY.
 Aripiprazole and other antipsychotic active substances should be used cautiously in patients at risk for aspiration pneumonia.
 
+Pathological gambling: post-marketing reports of pathological gambling have been reported among patients prescribed ABILIFY, regardless of whether these patients had a prior history of gambling.
+Patients with a prior history of pathological gambling may be at increased risk and should be monitored carefully (see section 4.8).
+
 Lactose: ABILIFY tablets contain lactose.
 Patients with rare hereditary problems of galactose intolerance, the lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
