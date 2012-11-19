@@ -14,5 +14,4 @@ A risk to newborns and infants cannot be excluded.
 A decision must be made to either discontinue breast-feeding or to discontinue/abstain from apixaban therapy.
 
 Fertility
-Studies in animals dosed directly with apixaban have shown no effect on fertility.
-However, in the female offspring of pregnant rats treated with apixaban there were decreases in mating and fertility (see section 5.3).
+Studies in animals dosed with apixaban have shown no effect on fertility (see section 5.3).

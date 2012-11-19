@@ -13,3 +13,7 @@ Hypromellose (E464)
 Titanium dioxide (E171)
 Triacetin (E1518)
 Yellow iron oxide (E172)
+
+[Eliquis 5 mg film-coated tablets]
+
+Iron oxide red (E172)

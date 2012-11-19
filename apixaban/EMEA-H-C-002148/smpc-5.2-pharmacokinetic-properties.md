@@ -13,9 +13,7 @@ Apixaban exposure parameters exhibit low to moderate variability reflected by a 
 Distribution
 Plasma protein binding in humans is approximately 87%.
 The volume of distribution (Vss) is approximately 21 litres.
-
 Biotransformation and elimination
-
 Apixaban has multiple routes of elimination.
 Of the administered apixaban dose in humans, approximately 25% was recovered as metabolites, with the majority recovered in faeces.
 Renal excretion of apixaban accounts for approximately 27% of total clearance.
@@ -27,6 +25,7 @@ O-demethylation and hydroxylation at the 3-oxopiperidinyl moiety are the major s
 Apixaban is metabolized mainly via CYP3A4/5 with minor contributions from CYP1A2, 2C8, 2C9, 2C19, and 2J2.
 Unchanged apixaban is the major drug-related component in human plasma with no active circulating metabolites present.
 Apixaban is a substrate of transport proteins, P-gp and breast cancer resistance protein (BCRP).
+
 Renal impairment
 There was no impact of impaired renal function on peak concentration of apixaban.
 There was an increase in apixaban exposure correlated to decrease in renal function, as assessed via measured creatinine clearance.
@@ -38,14 +37,14 @@ In a study comparing 8 subjects with mild hepatic impairment, Child-Pugh A score
 Changes in anti-Factor Xa activity and INR were comparable between subjects with mild to moderate hepatic impairment and healthy subjects.
 
 Elderly
-Elderly patients (above 65 years) exhibited higher plasma concentrations than younger patients, with mean AUC values being approximately 32% higher.
+Elderly patients (above 65 years) exhibited higher plasma concentrations than younger patients, with mean AUC values being approximately 32% higher and no difference in Cmax.
 
 Gender
 Exposure to apixaban was approximately 18% higher in females than in males.
 
 Ethnic origin and race
 The results across phase 1 studies showed no discernible difference in apixaban pharmacokinetics between White/Caucasian, Asian and Black/African American subjects.
-Findings from a population pharmacokinetic analysis in patients who received apixaban following elective hip or knee replacement surgery were consistent with the phase 1 results.
+Findings from a population pharmacokinetic analysis in patients who received apixaban were generally consistent with the phase 1 results.
 
 Body weight
 Compared to apixaban exposure in subjects with body weight of 65 to 85 kg, body weight > 120 kg was associated with approximately 30% lower exposure and body weight < 50 kg was associated with approximately 30% higher exposure.
@@ -53,4 +52,4 @@ Compared to apixaban exposure in subjects with body weight of 65 to 85 kg, body 
 Pharmacokinetic/pharmacodynamic relationship
 The pharmacokinetic /pharmacodynamic (PK/PD) relationship between apixaban plasma concentration and several PD endpoints (anti-FXa activity, INR, PT, aPTT) has been evaluated after administration of a wide range of doses (0.5 – 50 mg).
 The relationship between apixaban plasma concentration and anti-factor Xa activity was best described by a linear model.
-The PK/PD relationship observed in patients who received apixaban following elective hip or knee replacement surgery was consistent with that established in healthy subjects.
+The PK/PD relationship observed in patients was consistent with that established in healthy subjects.
