@@ -75,6 +75,11 @@ In an exploratory clinical trial evaluating the use of another anti-TNF agent, i
 All patients had a history of heavy smoking.
 Therefore, caution should be exercised when using any TNF-antagonist in COPD patients, as well as in patients with an increased risk of malignancy due to heavy smoking.
 
+Skin cancers
+Melanoma has been reported in patients treated with TNF-blocking agents, including Simponi.
+Merkel cell carcinoma has been reported in patients treated with other TNF-blocking agents (see section 4.8).
+Periodic skin examination is recommended, particularly for patients with risk factors for skin cancer.
+
 Congestive heart failure (CHF)
 Cases of worsening congestive heart failure (CHF) and new onset CHF have been reported with TNF blockers, including Simponi.
 In a clinical trial with another TNF-antagonist worsening congestive heart failure and increased mortality due to CHF have been observed.
@@ -96,7 +101,7 @@ Immunosuppression
 The possibility exists for TNF-blocking agents, including Simponi, to affect host defences against infections and malignancies since TNF mediates inflammation and modulates cellular immune responses.
 
 Autoimmune processes
-The relative deficiency of TNFαcaused by anti-TNF therapy may result in the initiation of an autoimmune process.
+The relative deficiency of TNFα caused by anti-TNF therapy may result in the initiation of an autoimmune process.
 If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with Simponi and is positive for antibodies against double-stranded DNA, treatment with Simponi should be discontinued (see section 4.8).
 
 Haematologic reactions
@@ -114,8 +119,12 @@ Concurrent administration of TNF-antagonists and abatacept
 In clinical studies concurrent administration of TNF-antagonists and abatacept has been associated with an increased risk of infections including serious infections compared to TNF-antagonists alone, without increased clinical benefit.
 The combination of Simponi and abatacept is not recommended.
 
+Concurrent administration with other biological therapeutics
+There is insufficient information regarding the concomitant use of Simponi with other biological therapeutics used to treat the same conditions as Simponi.
+The concomitant use of Simponi with these biologics is not recommended because of the possibility of an increased risk of infection, and other potential pharmacological interactions.
+
 Switching between biological DMARDs
-When switching from one biologic to another, patients should be monitored for signs of infection.
+Care should be taken and patients should continue to be monitored when switching from one biologic to another, since overlapping biological activity may further increase the risk for adverse events, including infection.
 
 Vaccinations
 Patients treated with Simponi may receive concurrent vaccinations, except for live vaccines (see sections 4.5 and 4.6).
@@ -146,3 +155,5 @@ Patients with rare hereditary problems of fructose intolerance should not take S
 [Simponi 50 mg solution for injection in pre-filled syringe.]
 
 The needle cover on the pre-filled syringe is manufactured from dry natural rubber containing latex, and may cause allergic reactions in individuals sensitive to latex.
+
+In the Phase III studies in RA, PsA, and AS, no overall differences in adverse events (AEs), serious adverse events (SAEs), and serious infections in patients age 65 or older (n = 155) who received Simponi were observed compared with younger patients.
