@@ -23,5 +23,9 @@ Concomitant administration with lenalidomide 10 mg/day increased the plasma expo
 It is not known whether the effect will be different in the therapeutic situation (higher lenalidomide doses and concomitant treatment with dexamethasone).
 Therefore, monitoring of the digoxin concentration is advised during lenalidomide treatment.
 
+Interactions with other medicines
+Co-administration of lenalidomide, a P-gp substrate, with known P-gp inhibitors (cyclosporine, clarithromycin, itraconazole, ketoconazole, quinidine, verapamil) may increase its plasma levels and thus its toxicity.
+If such a combination is to be given, patients should be closely monitored for the occurrence of side- effects.
+
 Results from human in vitro metabolism studies indicate that lenalidomide is not metabolised by cytochrome P450 enzymes suggesting that administration of lenalidomide with drugs that inhibit cytochrome P450 enzymes is not likely to result in metabolic drug interactions in man.
 In vitro studies indicate that lenalidomide has no inhibitory effect on CYP1A2, CYP2C9, CYP2C19, CYP2D6, CYP2E1 or CYP3A.

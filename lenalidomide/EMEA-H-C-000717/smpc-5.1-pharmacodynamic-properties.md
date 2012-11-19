@@ -21,7 +21,6 @@ In both studies, dose adjustments were allowed based on clinical and laboratory 
 
 The primary efficacy endpoint in both studies was time to progression (TTP).
 In total, 353 patients were evaluated in the MM-009 study; 177 in the lenalidomide/dexamethasone group and 176 in the placebo/dexamethasone group and, in total, 351 patients were evaluated in the MM-010 study; 176 in the lenalidomide/dexamethasone group and 175 in the placebo/dexamethasone group.
-
 In both studies, the baseline demographic and disease-related characteristics were comparable between the lenalidomide/dexamethasone and placebo/dexamethasone groups.
 Both patient populations presented a median age of 63 years, with a comparable male to female ratio.
 The ECOG performance status was comparable between both groups, as was the number and type of prior therapies.
@@ -54,7 +53,6 @@ Table 1: Summary of Results of Efficacy Analyses as of cut-off date for extended
 
 a: Two-tailed log rank test comparing survival curves between treatment groups.
 b: Two-tailed continuity-corrected chi-square test.
-
 Exploratory study
 An open-label, randomized, multicenter, Phase 3 study was conducted in 445 patients with newly diagnosed multiple myeloma; 222 patients were randomized to the lenalidomide/low dose dexamethasone arm, and 223 were randomized to the lenalidomide/standard dose dexamethasone arm.
 Patients randomized to the lenalidomide/standard dose dexamethasone arm received lenalidomide 25 mg/day, Days 1 to 21 every 28 days plus dexamethasone 40 mg/day on Days 1 to 4, 9 to 12, and 17 to 20 every 28 days for the first four cycles.
@@ -66,4 +64,5 @@ In a post-hoc analysis, lower mortality was observed in the lenalidomide/low dos
 However with a longer follow-up, the difference in overall survival in favour of low dose dexamethasone tends to decrease.
 
 Considering that the patient population differs from the authorised indication, these results should be interpreted with caution.
+
 The European Medicines Agency has waived the obligation to submit the results of studies with Revlimid in all subsets of the paediatric population in multiple myeloma (see section 4.2 for information on paediatric use).

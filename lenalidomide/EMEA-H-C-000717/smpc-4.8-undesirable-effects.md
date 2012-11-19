@@ -19,7 +19,6 @@ Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10)
 
 The following table is derived from data gathered during the pivotal studies.
 The data were not adjusted according to the greater duration of treatment in the lenalidomide/dexamethasone versus the placebo/dexamethasone arms in the pivotal studies (see section 5.1).
-
 Table 1: ADRs reported in clinical studies and post-marketing data in patients with multiple myeloma treated with lenalidomide
 
 | System Organ Class / Preferred Term | All ADRs/Frequency | Grade 3−4 ADRs/Frequency |
@@ -38,7 +37,7 @@ Table 1: ADRs reported in clinical studies and post-marketing data in patients w
 | Vascular Disorders | Very Common Venous Thromboembolic Events, predominantly Deep Vein Thrombosis and Pulmonary Embolism^ Common Hypotension, Hypertension, Ecchymosis^ | Very Common Venous Thromboembolic Events, predominantly Deep Vein Thrombosis and Pulmonary Embolism^ Uncommon Ischemia, Peripheral ischemia, Intracranial venous sinus thrombosis |
 | Respiratory, Thoracic and Mediastinal Disorders | Very common Dyspnoea, Nasopharyngitis, Pharyngitis, Bronchitis, Epistaxis^ | Common Respiratory Distress Not known Interstitial pneumonitis† |
 | Gastrointestinal Disorders | Very Common Constipation, Diarrhoea, Nausea, Vomiting Common Gastrointestinal Haemorrhage (including rectal haemorrhage, haemorrhoidal haemorrhage, peptic ulcer haemorrhage and gingival bleeding)^, Abdominal Pain, Dry Mouth, Stomatitis, Dysphagia Uncommon Colitis, Caecitis | Common Diarrhoea, Constipation, Nausea Not known Pancreatitis† |
-| Hepatobiliary Disorders | Common Abnormal Liver Function Tests | Common Abnormal Liver Function Tests |
+| Hepatobiliary Disorders | Common Abnormal Liver Function Tests Uncommon Hepatic failure^ Not known Acute hepatic failure^†, Hepatitis toxic^, Cytolytic hepatitis^†, Cholestatic hepatitis^†, Mixed cytolytic/ cholestatic hepatitis^† | Common Abnormal Liver Function Tests Uncommon Hepatic failure^ Not known Acute hepatic failure^†, Hepatitis toxic^† |
 | Skin and Subcutaneous tissue Disorders | Very Common Rashes Common Urticaria, Hyperhidrosis, Dry Skin, Pruritus, Skin Hyperpigmentation, Eczema Uncommon Skin discolouration, Photosensitivity reaction | Common Rashes Uncommon Angioedema† Rare Stevens-Johnson Syndrome^†, Toxic epidermal necrolysis^† |
 | Musculoskeletal and connective tissue disorders | Very Common Muscle Spasms, Bone Pain, Musculoskeletal and connective tissue pain and discomfort Common Joint swelling | Common Muscle Weakness, Bone Pain Uncommon Joint swelling |
 | Renal and Urinary Disorders | Common Haematuria^, Urinary retention, Urinary incontinence Uncommon Acquired Fanconi syndrome | Common Renal failure Uncommon Renal tubular necrosis |
@@ -48,6 +47,7 @@ Table 1: ADRs reported in clinical studies and post-marketing data in patients w
 
 ^see section 4.8 description of selected adverse reactions
 †reports from post-marketing data
+
 Description of selected adverse reactions
 
 Teratogenicity
@@ -75,13 +75,15 @@ Haemorrhagic disorders are listed under several system organ classes: Blood and 
 Allergic reactions
 Cases of allergic reaction/hypersensitivity reactions have been reported.
 A possible cross-reaction between lenalidomide and thalidomide has been reported in the literature.
-
 Severe skin reactions
 SJS and TEN have been reported.
 Patients with a history of severe rash associated with thalidomide treatment should not receive lenalidomide.
 
 Second primary malignancies
 *In clinical trials in previously treated myeloma patients with lenalidomide/dexamethasone compared to controls, mainly comprising of basal cell or squamous cell skin cancers.
+
+Hepatic disorders
+The following hepatic disorders have been reported (frequency unknown): acute hepatic failure and cholestasis (both potentially fatal), toxic hepatitis, cytolytic hepatitis, mixed cytolytic/cholestatic hepatitis.
 
 [Revlimid 5 mg hard capsules]
 

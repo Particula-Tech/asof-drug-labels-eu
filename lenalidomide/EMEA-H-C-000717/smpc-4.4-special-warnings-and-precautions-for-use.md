@@ -173,3 +173,13 @@ Among invasive SPMs, cases of AML, MDS and solid tumours were observed in patien
 
 The risk of occurrence of SPM must be taken into account before initiating treatment with Revlimid.
 Physicians should carefully evaluate patients before and during treatment using standard cancer screening for occurrence of SPM and institute treatment as indicated.
+
+Hepatic Disorders
+Hepatic failure, including fatal cases, has been reported in patients treated with lenalidomide in combination with dexamethasone: acute hepatic failure, toxic hepatitis, cytolytic hepatitis, cholestatic hepatitis, and mixed cytolytic/cholestatic hepatitis have been reported.
+The mechanisms of severe drug-induced hepatotoxicity remain unknown although, in some cases, pre-existing viral liver disease, elevated baseline liver enzymes, and possibly treatment with antibiotics might be risk factors.
+
+Abnormal liver function tests were commonly reported and were generally asymptomatic and reversible upon dosing interruption.
+Once parameters have returned to baseline, treatment at a lower dose may be considered.
+Lenalidomide is excreted by the kidneys.
+It is important to dose adjust patients with renal impairment in order to avoid plasma levels which may increase the risk for higher haematological side effects or hepatotoxicity.
+Monitoring of liver function is recommended, particularly when there is a history of or concurrent viral liver infection or when lenalidomide is combined with medications known to be associated with liver dysfunction.
