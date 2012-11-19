@@ -36,3 +36,18 @@ Compared to treatment with beta-blocker alone, adjunctive therapy with beta-bloc
 LUMIGAN 0.3 mg/ml lowered mean morning (08:00) intraocular pressure by -6.5 to -8.1 mmHg.
 
 Limited experience is available in patients with open-angle glaucoma with pseudoexfoliative and pigmentary glaucoma, and chronic angle-closure glaucoma with patent iridotomy.
+
+[LUMIGAN 0.3 mg/mL eye drops, solution, in single-dose container]
+
+Clinical efficacy
+A 12 week (double-masked, randomized, parallel group ) clinical study compared the efficacy and safety of LUMIGAN 0.3 mg/mL single-dose with LUMIGAN 0.3 mg/mL (multi-dose formulation).
+LUMIGAN 0.3 mg/mL single-dose achieved non-inferior IOP-lowering efficacy to LUMIGAN 0.3 mg/mL (multi-dose formulation) for worse eye IOP change from baseline in patients with glaucoma or ocular hypertension.
+LUMIGAN 0.3 mg/mL single-dose also achieved equivalent IOP lowering efficacy with LUMIGAN 0.3 mg/mL (multi-dose formulation) in average eye IOP at each follow-up timepoint at weeks 2, 6 and 12.
+
+During 12 months’ monotherapy treatment with LUMIGAN 0.3 mg/mL (multi-dose formulation) in adults, versus timolol, mean change from baseline in morning (08:00) intraocular pressure ranged from -7.9 to -8.8 mmHg.
+
+In a 6-month clinical study with LUMIGAN 0.3 mg/mL (multi-dose formulation), versus latanoprost, a statistically superior reduction in morning mean IOP (ranging from -7.6 to -8.2 mmHg for bimatoprost versus –6.0 to -7.2 mmHg for latanoprost) was observed at all visits throughout the study.
+
+LUMIGAN 0.3 mg/mL (multi-dose formulation) lowered mean morning (08:00) intraocular pressure by -6.5 to -8.1 mmHg.
+
+The safety and efficacy of LUMIGAN in children aged 0 to 18 years has not been established.

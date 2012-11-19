@@ -10,10 +10,10 @@ Distribution
 Bimatoprost is moderately distributed into body tissues and the systemic volume of distribution in humans at steady-state was 0.67 l/kg.
 In human blood, bimatoprost resides mainly in the plasma.
 The plasma protein binding of bimatoprost is approximately 88 %.
+
 Biotransformation
 Bimatoprost is the major circulating species in the blood once it reaches the systemic circulation following ocular dosing.
 Bimatoprost then undergoes oxidation, N-deethylation and glucuronidation to form a diverse variety of metabolites.
-
 Elimination
 Bimatoprost is eliminated primarily by renal excretion, up to 67 % of an intravenous dose administered to healthy adult volunteers was excreted in the urine, 25 % of the dose was excreted via the faeces.
 The elimination half-life, determined after intravenous administration, was approximately 45 minutes; the total blood clearance was 1.5 l/hr/kg.
@@ -32,3 +32,7 @@ The plasma protein binding of bimatoprost is approximately 88%.
 Bimatoprost is eliminated primarily by renal excretion, up to 67% of an intravenous dose administered to healthy adult volunteers was excreted in the urine, 25% of the dose was excreted via the faeces.
 
 After twice daily dosing of LUMIGAN 0.3 mg/ml, the mean AUC0-24hr value of 0.0634 ng•hr/ml bimatoprost in the elderly (subjects 65 years or older) were significantly higher than 0.0218 ng•hr/ml in young healthy adults.
+
+[LUMIGAN 0.3 mg/mL eye drops, solution, in single-dose container]
+
+(all sentences already above)

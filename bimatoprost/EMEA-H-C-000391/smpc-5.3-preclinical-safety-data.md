@@ -17,3 +17,7 @@ Neurobehavioural functions of offspring were not affected.
 [LUMIGAN 0.3 mg/ml eye drops, solution]
 
 In rat peri/postnatal studies, maternal toxicity caused reduced gestation time, foetal death, and decreased pup body weights at ≥0.3 mg/kg/day (at least 41-times the intended human exposure).
+
+[LUMIGAN 0.3 mg/mL eye drops, solution, in single-dose container]
+
+No functional or microscopic changes related to the periocular effects were observed, and the mechanism of action for the periocular changes is unknown.

@@ -5,3 +5,7 @@
 [LUMIGAN 0.3 mg/ml eye drops, solution]
 
 8 March 2002 / 20 February 2007
+
+[LUMIGAN 0.3 mg/mL eye drops, solution, in single-dose container]
+
+(all sentences already above)

@@ -42,12 +42,12 @@ Table 2.
 | Nervous system disorders | common | headache |
 |  | uncommon | dizziness |
 | Eye disorders | very common | ocular pruritus, growth of eyelashes |
-|  | common | corneal erosion, ocular burning, allergic conjunctivitis, blepharitis, worsening of visual acuity, asthenopia, conjunctival oedema, foreign body sensation, ocular dryness, eye pain, photophobia, tearing, eye discharge, visual disturbance/blurred vision, increased iris pigmentation, eyelash darkening |
+|  | common | corneal erosion, ocular burning, allergic conjunctivitis, blepharitis, worsening of visual acuity, asthenopia, conjunctival oedema, foreign body sensation, ocular dryness, eye pain, photophobia, tearing , eye discharge, visual disturbance/blurred vision, increased iris pigmentation, eyelash darkening |
 |  | uncommon | retinal haemorrhage, uveitis, cystoid macular oedema, iritis, blepharospasm, eyelid retraction. periorbital erythema |
-|  | not known | enophthalmos |
+|  | not known | Enophthalmos |
 | Vascular disorders | common | hypertension |
-| Skin and subcutaneous tissue disorders | uncommon | hirsutism |
-| General disorders and administration site conditions | uncommon | asthenia |
+| Skin and subcutaneous tissue disorders | uncommon | hirsutism. |
+| General disorders and administration site conditions | uncommon | asthenia, |
 | Investigations | common | liver function test abnormal |
 
 [LUMIGAN 0.3 mg/ml eye drops, solution]
@@ -67,7 +67,7 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Nervous system disorders | common | headache |
 |  | uncommon | dizziness |
 | Eye disorders | very common | conjunctival hyperaemia, ocular pruritus, growth of eyelashes |
-|  | common | superficial punctate keratitis, corneal erosion, ocular burning, ocular irritation, allergic conjunctivitis, blepharitis, worsening of visual acuity, asthenopia, conjunctival oedema, foreign body sensation, ocular dryness, eye pain, photophobia, tearing, eye discharge, visual disturbance/blurred vision, increased iris pigmentation, eyelash darkening |
+|  | common | superficial punctate keratitis, corneal erosion, ocular burning, ocular irritation, allergic conjunctivitis, blepharitis, worsening of visual acuity, asthenopia, conjunctival oedema, foreign body sensation, ocular dryness, eye pain, photophobia, tearing, eye discharge, visual disturbance/blurred vision, increased iris pigmentation, eyelash darkening. |
 |  | uncommon | retinal haemorrhage, uveitis, cystoid macular oedema, iritis, blepharospasm, eyelid retraction, periorbital erythema |
 |  | not known | enophthalmos |
 | Vascular disorders | common | hypertension |

@@ -2,7 +2,8 @@
 
 Ocular
 Before treatment is initiated, patients should be informed of the possibility of eyelash growth, darkening of the eyelid skin and increased iris pigmentation since these have been observed during treatment with LUMIGAN.
-Some of these changes may be permanent, and may lead to differences in appearance between the eyes when only one eye is treatedIncreased iris pigmentation is likely to be permanent.
+Some of these changes may be permanent, and may lead to differences in appearance between the eyes when only one eye is treated.
+Increased iris pigmentation is likely to be permanent.
 The pigmentation change is due to increased melanin content in the melanocytes rather than to an increase in the number of melanocytes.
 The long term effects of increased iris pigmentation are not known.
 Iris colour changes seen with ophthalmic administration of bimatoprost may not be noticeable for several months to years.
@@ -23,6 +24,7 @@ LUMIGAN has not been studied in patients with inflammatory ocular conditions, ne
 Skin
 There is a potential for hair growth to occur in areas where LUMIGAN solution comes repeatedly in contact with the skin surface.
 Thus, it is important to apply LUMIGAN as instructed and avoid it running onto the cheek or other skin areas.
+
 Respiratory
 LUMIGAN has not been studied in patients with compromised respiratory function and should therefore be used with caution in such patients.
 In clinical studies, in those patients with a history of a compromised respiratory function, no significant untoward respiratory effects have been seen.
@@ -52,8 +54,6 @@ The tip of the bottle should not be allowed to contact the eye, surrounding stru
 
 [LUMIGAN 0.3 mg/ml eye drops, solution]
 
-Some of these changes may be permanent, and may lead to differences in appearance between the eyes when only one eye is treated.
-Increased iris pigmentation is likely to be permanent.
 Neither naevi nor freckles of the iris appears to be affected by the treatment.
 At 12 months, the incidence of iris pigmentation with bimatoprost 0.3mg/ml was 1.5% (see section 4.8) and did not increase following 3 years treatment.
 
@@ -63,3 +63,19 @@ Patients using LUMIGAN with other prostanglandim analogues should be monitored f
 
 Bimatoprost 0.3 mg/ml eye drops, solution contains the preservative benzalkonium chloride, which may be absorbed by soft contact lenses.
 Since LUMIGAN contains benzalkonium chloride, monitoring is required with frequent or prolonged use in dry eye patients or where the cornea is compromised.
+
+[LUMIGAN 0.3 mg/mL eye drops, solution, in single-dose container]
+
+Typically, the brown pigmentation around the pupil spreds concentrically towards the periphery of the iris and the entire iris or parts become more brownish.
+At 3 months, the incidence of iris hyperpigmentation with bimatoprost 0.3 mg/mL single dose was 0.3%.
+At 12 months, the incidence of iris pigmentation with bimatoprost 0.3 mg/mL (multi-dose formulation) was 1.5% (see section 4.8) and did not increase following 3 years treatment.
+
+Cystoid macular oedema has been uncommonly reported (≥1/1000 to <1/100) following treatment with bimatoprost 0.3 mg/mL eye drops (multi-dose formulation).
+
+There have been rare spontaneous reports of reactivation of previous corneal infiltrates or ocular infections with bimatoprost 0.3 mg/mL eye drops, solution (multi-dose formulation).
+
+There have been a limited number of spontaneous reports of bradycardia or hypotension with bimatoprost 0.3 mg/mL eye drops, solution (multi-dose formulation).
+
+In studies of bimatoprost 0.3 mg/ml in patients with glaucoma or ocular hypertension, it has been shown that the more frequent exposure of the eye to more than one dose of bimatoprost daily may decrease the IOP-lowering effect.
+
+LUMIGAN 0.3 mg/mL single-dose has not been studied in patients wearing contact lenses.

@@ -12,3 +12,7 @@ For the full list of excipients, see section 6.1.
 One ml of solution contains 0.3 mg bimatoprost.
 
 One ml of solution contains 0.05 mg benzalkonium chloride.
+
+[LUMIGAN 0.3 mg/mL eye drops, solution, in single-dose container]
+
+(all sentences already above)

@@ -14,3 +14,9 @@ There is a potential for the IOP-lowering effect of prostaglandin analogues (e.g
 [LUMIGAN 0.3 mg/ml eye drops, solution]
 
 In clinical studies, LUMIGAN was used concomitantly with a number of different ophthalmic beta-blocking agents without evidence of interactions.
+
+[LUMIGAN 0.3 mg/mL eye drops, solution, in single-dose container]
+
+No interactions are anticipated in humans, since systemic concentrations of bimatoprost are extremely low (less than 0.2 ng/mL) following ocular dosing with bimatoprost 0.3 mg/mL eye drops, solution (multi-dose formulation).
+
+In clinical studies, LUMIGAN 0.3 mg/mL (multi-dose formulation) was used concomitantly with a number of different ophthalmic beta-blocking agents without evidence of interactions.
