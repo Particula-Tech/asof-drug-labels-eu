@@ -7,7 +7,6 @@ Gastrointestinal toxicity was dose-limiting in rats and monkeys, as the intestin
 In rats, minimal to mild decreases in erythrocyte parameters were accompanied by bone marrow changes; similar changes occurred in monkeys at a lower incidence.
 Lymphoid toxicity in rats consisted of lymphoid depletion of the lymph nodes, spleen, and thymus, and decreased lymphoid organ weights.
 Changes in the gastrointestinal, haematopoietic and lymphoid systems were reversible following cessation of treatment.
-
 Renal changes in monkeys treated for up to 9 months were limited to an increase in background kidney mineralisation.
 Cutaneous haemorrhage was observed in an acute, single-dose oral study in monkeys but was not observed in repeat-dose studies in either monkeys or rats.
 In rats, dasatinib inhibited platelet aggregation in vitro and prolonged cuticle bleeding time in vivo, but did not invoke spontaneous haemorrhage.
@@ -26,4 +25,7 @@ In mice, dasatinib induced immunosuppression, which was dose-related and effecti
 Dasatinib had phototoxic potential in an in vitro neutral red uptake phototoxicity assay in mouse fibroblasts.
 Dasatinib was considered to be non-phototoxic in vivo after a single oral administration to female hairless mice at exposures up to 3-fold the human exposure following administration of the recommended therapeutic dose (based on AUC).
 
-Dasatinib was not carcinogenic in rats at doses up to 3 mg/kg/day, a dose which gave rise to a dasatinib plasma exposure level close to what is observed clinically.
+In a two-year carcinogenicity study, rats were administered oral doses of dasatinib at 0.3, 1, and 3 mg/kg/day.
+The highest dose resulted in a plasma exposure (AUC) level generally equivalent to the human exposure at the recommended range of starting doses from 100 mg to 140 mg daily.
+A statistically significant increase in the combined incidence of squamous cell carcinomas and papillomas in the uterus and cervix of high-dose females and of prostate adenoma in low-dose males was noted.
+The relevance of the findings from the rat carcinogenicity study for humans is not known.

@@ -1,7 +1,6 @@
 # 5.2 Pharmacokinetic properties
 
 The pharmacokinetics of dasatinib were evaluated in 229 adult healthy subjects and in 84 patients.
-
 Absorption
 Dasatinib is rapidly absorbed in patients following oral administration, with peak concentrations between 0.5-3 hours.
 Following oral administration, the increase in the mean exposure (AUCτ)) is approximately proportional to the dose increment across doses ranging from 25 mg to 120 mg twice daily.
@@ -14,6 +13,7 @@ The observed food effects do not represent clinically relevant changes in exposu
 Distribution
 In patients, dasatinib has a large apparent volume of distribution (2,505 l) suggesting that the medicinal product is extensively distributed in the extravascular space.
 At clinically relevant concentrations of dasatinib, binding to plasma proteins was approximately 96% on the basis of in vitro experiments.
+
 Biotransformation
 Dasatinib is extensively metabolised in humans with multiple enzymes involved in the generation of the metabolites.
 In healthy subjects administered 100 mg of [14C]-labelled dasatinib, unchanged dasatinib represented 29% of circulating radioactivity in plasma.

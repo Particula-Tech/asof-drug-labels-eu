@@ -3,7 +3,8 @@
 Summary of the safety profile
 
 The data described below reflect exposure to SPRYCEL in 2,440 patients in clinical studies, including 258 patients with newly diagnosed chronic phase CML and 2,182 patients with imatinib resistant or intolerant CML or Ph+ ALL.
-In the newly diagnosed study, patients had a minimum of 36 months follow-up (starting dose 100 mg once daily) and in the imatinib resistant or intolerant CML or Ph+ ALL studies, 1,520 patients had a minimum of 24 months follow-up and 662 patients with chronic phase CML had a mininum of 60 months follow-up (starting dose 100 mg once daily, 140 mg once daily, 50 mg twice daily, or 70 mg twice daily).
+In the newly diagnosed study, patients had a minimum of 36 months follow-up (starting dose 100 mg once daily) and in the imatinib resistant or intolerant CML or Ph+
+ALL studies, 1,520 patients had a minimum of 24 months follow-up and 662 patients with chronic phase CML had a mininum of 60 months follow-up (starting dose 100 mg once daily, 140 mg once daily, 50 mg twice daily, or 70 mg twice daily).
 In the Phase III study in patients with newly diagnosed chronic phase CML the median duration of therapy was 37 months (range 0.03-50 months) for SPRYCEL and 37 months (range 0.3-50 months) for imatinib; the median average daily dose was 99 mg and 400 mg, respectively.
 The median duration of therapy in 2,182 patients with CML or Ph+ ALL resistant or intolerant to imatinib was 15 months (range 0 - 65.6 months).
 In patients with resistant or intolerant chronic phase CML, the median duration of treatment for patients still on therapy (n=205) was 59 months (range 28-66 months).
@@ -31,7 +32,8 @@ Tabulated summary of adverse reactions
 The following adverse reactions, excluding laboratory abnormalities, were reported in patients in SPRYCEL clinical studies and post-marketing experience (Table 2).
 These reactions are presented by system organ class and by frequency.
 Frequencies are defined as: very common (≥ 1/10); common
-(≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); not known (cannot be estimated from available post-marketing data).
+(≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); not known
+(cannot be estimated from available post-marketing data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 2: Tabulated summary of adverse reactions
@@ -152,7 +154,8 @@ Eight cases were fatal and 6 of them were associated with CTC grade 4 thrombocyt
 Grade 3 or 4 gastrointestinal haemorrhage occurred in 4% of patients with resistance or intolerance to prior imatinib therapy and generally required treatment interruption and transfusions.
 Other grade 3 or 4 haemorrhage occurred in 2% of patients with resistance or intolerance to prior imatinib therapy.
 Most bleeding related events in these patients were typically associated with grade 3 or 4 thrombocytopenia.
-Additionally, in vitro and in vivo platelet assays suggest that SPRYCEL treatment reversibly affects platelet activation (see section 4.4).
+Additionally, in vitro and in vivo platelet assays suggest that
+SPRYCEL treatment reversibly affects platelet activation (see section 4.4).
 
 Fluid retention
 Miscellaneous adverse reactions such as pleural effusion, ascites, pulmonary oedema and pericardial effusion with or without superficial oedema may be collectively described as “fluid retention”.
@@ -297,7 +300,8 @@ Anaemia 19 55 75 46
 
 CTC grades: neutropenia (Grade 3 ≥ 0.5– < 1.0 × 109/l, Grade 4 < 0.5 × 109/l); thrombocytopenia (Grade 3 ≥ 25 – < 50 × 109/l, Grade 4 < 25 × 109/l); anaemia (haemoglobin Grade 3 ≥ 65 – < 80 g/l, Grade 4 < 65 g/l).
 
-Cumulative grade 3 or 4 cytopenias among patients treated with 100 mg once daily were similar at 2 and 5 years including: neutropenia (35% vs. 36%), thrombocytopenia (23% vs. 24%) and anaemia (13% vs. 13%).
+Cumulative grade 3 or 4 cytopenias among patients treated with 100 mg once daily were similar at 2 and 5 years including: neutropenia (35% vs. 36%), thrombocytopenia (23% vs. 24%) and anaemia
+(13% vs. 13%).
 In patients who experienced grade 3 or 4 myelosuppression, recovery generally occurred following brief dose interruptions and/or reductions and permanent discontinuation of treatment occurred in 5% of patients.
 Most patients continued treatment without further evidence of myelosuppression.
 
