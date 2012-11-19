@@ -7,7 +7,7 @@ In vitro studies indicate that varenicline is unlikely to alter the pharmacokine
 
 Furthermore since metabolism of varenicline represents less than 10% of its clearance, active substances known to affect the cytochrome P450 system are unlikely to alter the pharmacokinetics of varenicline (see section 5.2) and therefore a dose adjustment of CHAMPIX would not be required.
 In vitro studies demonstrate that varenicline does not inhibit human renal transport proteins at therapeutic concentrations.
-Therefore, active substances that are cleared by renal secretion (e.g. metformin - see below) are unlikely to be affected by varenicline.
+Therefore, active substances that are cleared by renal secretion (e.g., metformin - see below) are unlikely to be affected by varenicline.
 
 Metformin: Varenicline did not affect the pharmacokinetics of metformin.
 Metformin had no effect on varenicline pharmacokinetics.
@@ -36,7 +36,7 @@ Safety and efficacy of CHAMPIX in combination with other smoking cessation thera
 [CHAMPIX 1 mg film-coated tablets]
 
 Therefore, active substances that are cleared by renal secretion
-(e.g. metformin - see below) are unlikely to be affected by varenicline.
+(e.g., metformin - see below) are unlikely to be affected by varenicline.
 
 [CHAMPIX 0.5 mg film-coated tablets (SmPC 3)]
 

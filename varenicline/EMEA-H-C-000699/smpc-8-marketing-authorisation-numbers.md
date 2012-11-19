@@ -16,4 +16,8 @@ EU/1/06/360/013
 
 [CHAMPIX 0.5 mg film-coated tablets (SmPC 3)]
 
-Treatment initiation packs: EU/1/06/360/003, EU/1/06/360/008, EU/1/06/360/012
+Treatment initiation packs:
+
+EU/1/06/360/003
+EU/1/06/360/008
+EU/1/06/360/012

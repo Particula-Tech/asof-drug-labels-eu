@@ -47,11 +47,13 @@ Nervous system disorders
 Very common Headache
 
 Common Somnolence, dizziness, dysgeusia
+
+System Organ Adverse Drug Reactions
+Class
+
 Uncommon Hypertonia, dysarthria, tremor, coordination abnormal, lethargy,
 
 hypoaesthesia, hypogeusia
-System Organ Adverse Drug Reactions
-Class
 
 Rare Cerebrovascular accident
 

@@ -8,7 +8,7 @@ Neuropsychiatric symptoms
 Changes in behaviour or thinking, anxiety, psychosis, mood swings, aggressive behaviour, depression, suicidal ideation and behaviour and suicide attempts have been reported in patients attempting to quit smoking with CHAMPIX in the post-marketing experience.
 Not all patients had stopped smoking at the time of onset of symptoms and not all patients had known pre-existing psychiatric illness.
 Clinicians should be aware of the possible emergence of significant depressive symptomatology in patients undergoing a smoking cessation attempt, and should advise patients accordingly.
-Champix should be discontinued immediately if agitation, depressed mood or changes in behaviour or thinking that are of concern for the doctor, the patient, family or caregivers are observed, or if the patient develops suicidal ideation or suicidal behaviour.
+CHAMPIX should be discontinued immediately if agitation, depressed mood or changes in behaviour or thinking that are of concern for the doctor, the patient, family or caregivers are observed, or if the patient develops suicidal ideation or suicidal behaviour.
 In many post-marketing cases, resolution of symptoms after discontinuation of varenicline was reported although in some cases the symptoms persisted; therefore, ongoing follow up should be provided until symptoms resolve.
 
 Depressed mood, rarely including suicidal ideation and suicide attempt, may be a symptom of nicotine withdrawal.
@@ -16,10 +16,11 @@ In addition, smoking cessation, with or without pharmacotherapy, has been associ
 
 Cardiovascular events
 In a trial of patients with stable cardiovascular disease (CVD) certain cardiovascular events were reported more frequently in patients treated with CHAMPIX (see section 5.1).
-Patients taking CHAMPIX should be instructed to notify their doctor of new or worsening cardiovascular symptoms and to seek immediate medical attention if they experience signs and symptoms of myocardial infarction.
+A meta-analysis of 15 clinical trials, which included the smoking cessation trial of patients with stable CVD, had similar results (see section 5.1).
+Patients taking CHAMPIX should be instructed to notify their doctor of new or worsening cardiovascular symptoms and to seek immediate medical attention if they experience signs and symptoms of myocardial infarction or stroke.
 
 History of psychiatric illness
-The safety and efficacy of Champix in patients with serious psychiatric illness such as schizophrenia, bipolar disorder and major depressive disorder has not been established.
+The safety and efficacy of CHAMPIX in patients with serious psychiatric illness such as schizophrenia, bipolar disorder and major depressive disorder has not been established.
 Limited data are available from a single smoking cessation study in patients with stable schizophrenia or schizoaffective disorder (See section 5.1).
 Care should be taken with patients with a history of psychiatric illness and patients should be advised accordingly.
 

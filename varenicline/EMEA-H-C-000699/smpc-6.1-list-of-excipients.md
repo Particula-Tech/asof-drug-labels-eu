@@ -1,7 +1,6 @@
 # 6.1 List of excipients
 
 Core Tablet
-
 Cellulose, Microcrystalline
 Calcium Hydrogen Phosphate Anhydrous
 Croscarmellose Sodium

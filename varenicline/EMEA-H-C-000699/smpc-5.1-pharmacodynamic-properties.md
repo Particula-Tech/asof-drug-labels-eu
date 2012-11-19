@@ -7,7 +7,7 @@ Varenicline binds with high affinity and selectivity at the α4β2 neuronal nico
 Electrophysiology studies in vitro and neurochemical studies in vivo have shown that varenicline binds to the α4β2 neuronal nicotinic acetylcholine receptors and stimulates receptor-mediated activity, but at a significantly lower level than nicotine.
 Nicotine competes for the same human α4β2 nAChR binding site for which varenicline has higher affinity.
 Therefore, varenicline can effectively block nicotine's ability to fully activate α4β2 receptors and the mesolimbic dopamine system, the neuronal mechanism underlying reinforcement and reward experienced upon smoking.
-Varenicline is highly selective and binds more potently to the α4β2 receptor subtype (Ki=0.15 nM) than to other common nicotinic receptors (α3β4 Ki=84 nM, α7 Ki= 620 nM, α1βγδ Ki= 3,400 nM), or to non-nicotinic receptors and transporters (Ki > 1μM, except to 5-HT3 receptors: Ki=350 nM).
+Varenicline is highly selective and binds more potently to the α4β2 receptor subtype (Ki=0.15 nM) than to other common nicotinic receptors (α3β4 Ki=84 nM, α7 Ki= 620 nM, α1βγδ Ki= 3,400 nM), or to non-nicotinic receptors and transporters (Ki > 1µM, except to 5-HT3 receptors: Ki=350 nM).
 
 Pharmacodynamic effects
 The efficacy of CHAMPIX in smoking cessation is a result of varenicline's partial agonist activity at the α4β2 nicotinic receptor where its binding produces an effect sufficient to alleviate symptoms of craving and withdrawal (agonist activity), while simultaneously resulting in a reduction of the rewarding and reinforcing effects of smoking by preventing nicotine binding to α4β2 receptors (antagonist activity).
@@ -34,8 +34,8 @@ The 4W-CQR (weeks 9 through 12) and CA rate (weeks 9 through 52) from studies 1 
 | Bupropion | 29.5% | 16.4% | 30.0% | 15.0% |
 | Placebo | 17.7% | 8.4% | 17.7% | 10.3% |
 |  | 4W CQR | CA Wk 9-52 | 4W CQR | CA Wk 9-52 |
-| Odds ratio CHAMPIX vs placebo | 3.91 p<0.0001 | 3.13 p<0.0001 | 3.85 p<0.0001 | 2.66 p<0.0001 |
-| Odds ratio CHAMPIX vs bupropion | 1.96 p<0.0001 | 1.45 p=0.0640 | 1.89 p<0.0001 | 1.72 p=0.0062 |
+| Odds ratio CHAMPIX vs. placebo | 3.91 p<0.0001 | 3.13 p<0.0001 | 3.85 p<0.0001 | 2.66 p<0.0001 |
+| Odds ratio CHAMPIX vs. bupropion | 1.96 p<0.0001 | 1.45 p=0.0640 | 1.89 p<0.0001 | 1.72 p=0.0062 |
 
 Patient reported craving, withdrawal and reinforcing effects of smoking
 Across both Studies 1 and 2 during active treatment, craving and withdrawal were significantly reduced in patients randomized to CHAMPIX in comparison with placebo.
@@ -72,18 +72,31 @@ Flexible quit date between weeks 1 and 5
 The efficacy and safety of varenicline has been evaluated in smokers who had the flexibility of quitting between weeks 1 and 5 of treatment.
 In this 24-week study, patients received treatment for 12 weeks followed by a 12 week non-treatment follow up phase.
 The 4 week (week 9-12) CQR for varenicline and placebo was 53.9% and 19.4%, respectively (difference=34.5%, 95%
-CI: 27.0% - 42.0%) and the CA week 9-24 was 35.2% (varenicline) vs 12.7% (placebo) (difference=22.5%, 95% CI: 15.8% - 29.1%).
+CI: 27.0% - 42.0%) and the CA week 9-24 was 35.2% (varenicline) vs. 12.7% (placebo) (difference=22.5%, 95% CI: 15.8% - 29.1%).
 Patients who are not willing or able to set the target quit date within 1-2 weeks, could be offered to start treatment and then choose their own quit date within 5 weeks.
 Subjects with Cardiovascular Disease
 CHAMPIX was evaluated in a randomised, double-blind, placebo-controlled study of subjects with stable, cardiovascular disease (other than, or in addition to, hypertension) that had been diagnosed for more than 2 months.
 Subjects were randomized to CHAMPIX 1 mg twice daily (n=353) or placebo (n=350) for 12 weeks and then were followed for 40 weeks post-treatment.
-The 4 week CQR for varenicline and placebo was 47.3% and 14.3%, respectively and the CA week 9-52 was 19.8% (varenicline) vs 7.4% (placebo).
+The 4 week CQR for varenicline and placebo was 47.3% and 14.3%, respectively and the CA week 9-52 was 19.8% (varenicline) vs. 7.4% (placebo).
 
 Deaths and serious cardiovascular events were adjudicated by a blinded, committee.
 The following adjudicated events occurred with a frequency ≥1% in either treatment group during treatment (or in the 30-day period after treatment): nonfatal myocardial infarction (1.1% vs. 0.3% for CHAMPIX and placebo, respectively), and hospitalisation for angina pectoris (0.6% vs. 1.1%).
 During non-treatment follow up to 52 weeks, the adjudicated events included need for coronary revascularisation (2.0% vs. 0.6%), hospitalisation for angina pectoris (1.7% vs. 1.1%), and new diagnosis of peripheral vascular disease (PVD) or admission for a PVD procedure (1.4% vs. 0.6%).
 Some of the patients requiring coronary revascularisation underwent the procedure as part of management of nonfatal MI and hospitalisation for angina.
 Cardiovascular death occurred in 0.3% of patients in the CHAMPIX arm and 0.6% of patients in the placebo arm over the course of the 52-week study.
+
+A meta-analysis of 15 clinical trials of ≥ 12 weeks treatment duration, including 7002 patients (4190 CHAMPIX, 2812 placebo), was conducted to systematically assess the cardiovascular safety of CHAMPIX.
+The study in patients with stable cardiovascular disease described above was included in the meta-analysis.
+
+The key cardiovascular safety analysis included occurrence and timing of a composite endpoint of Major Adverse Cardiovascular Events (MACE), defined as cardiovascular death, nonfatal MI, and nonfatal stroke.
+These events included in the endpoint were adjudicated by a blinded, independent committee.
+Overall, a small number of MACE occurred during treatment in the trials included in the meta-analysis (CHAMPIX 7 [0.17%]; placebo 2 [0.07%]).
+Additionally, a small number of MACE occurred up to 30 days after treatment (CHAMPIX 13 [0.31%]; placebo 6 [0.21%]).
+
+The meta-analysis showed that exposure to CHAMPIX resulted in a hazard ratio for MACE of 2.83 (95% confidence interval from 0.76 to 10.55, p=0.12) for patients during treatment and 1.95 (95% confidence interval from 0.79 to 4.82, p=0.15) for patients up to 30 days after treatment.
+These are equivalent to an estimated increase of 6.5 MACE events and 6.3 MACE events per 1,000 patient-years, respectively of exposure.
+The hazard ratio for MACE was higher in patients with cardiovascular risk factors in addition to smoking compared with that in patients without cardiovascular risk factors other than smoking.
+There were similar rates of all-cause mortality (CHAMPIX 6 [0.14%]; placebo 7 [0.25%]) and cardiovascular mortality (CHAMPIX 2 [0.05%]; placebo 2 [0.07%]) in the CHAMPIX arms compared with the placebo arms in the meta-analysis.
 
 Subjects with mild-moderate chronic obstructive pulmonary disease (COPD)
 The efficacy and safety of CHAMPIX (1 mg twice daily) for smoking cessation in subjects with mild-moderate COPD was demonstrated in a randomised double-blind placebo-controlled clinical trial.
@@ -96,7 +109,7 @@ The results for the 4W CQR (weeks 9 through 12) and CA rate (weeks 9 through 52)
 | --- | --- | --- |
 | CHAMPIX, (n = 248) | 42.3% | 18.5% |
 | Placebo, (n = 251) | 8.8% | 5.6% |
-| Odds ratio (CHAMPIX vs Placebo) | 8.40 p<0.0001 | 4.04 p<0.0001 |
+| Odds ratio (CHAMPIX vs. Placebo) | 8.40 p<0.0001 | 4.04 p<0.0001 |
 
 Study in Subjects with Stable Schizophrenia or Schizoaffective Disorder:
 Varenicline safety and tolerability was assessed in a double-blind study of 128 smokers with stable schizophrenia or schizoaffective disorder, on antipsychotic medication, randomized 2:1 to varenicline (1 mg twice daily) or placebo for 12 weeks with 12-week non-drug follow-up.
@@ -123,18 +136,14 @@ The following adjudicated events occurred with a frequency ≥1% in either treat
 
 [CHAMPIX 0.5 mg film-coated tablets (SmPC 3)]
 
-Pharmacotherapeutic group: OTHER NERVOUS SYSTEM DRUGS; Drugs used in nicotine , dependence ATC code: N07BA03
-
-Varenicline is highly selective and binds more potently to the α4β2 receptor subtype (Ki=0.15 nM) than to other common nicotinic receptors (α3β4 Ki=84 nM, α7 Ki= 620 nM, α1βγδ Ki= 3,400 nM), or to non-nicotinic receptors and transporters (Ki > 1�M, except to 5-HT3 receptors: Ki=350 nM).
-
 |  | Study 1 (n=1022) |  | Study 2 (n=1023) |  |
 | --- | --- | --- | --- | --- |
 |  | 4W CQR | CA Wk 9-52 | 4W CQR | CA Wk 9-52 |
 | CHAMPIX | 44.4% | 22.1% | 44.0% | 23.0% |
 | Bupropion | 29.5% | 16.4% | 30.0% | 15.0% |
 | Placebo | 17.7% | 8.4% | 17.7% | 10.3% |
-| Odds ratio CHAMPIX vs placebo | 3.91 p<0.0001 | 3.13 p<0.0001 | 3.85 p<0.0001 | 2.66 p<0.0001 |
-| Odds ratio CHAMPIX vs bupropion | 1.96 p<0.0001 | 1.45 p=0.0640 | 1.89 p<0.0001 | 1.72 p=0.0062 |
+| Odds ratio CHAMPIX vs. placebo | 3.91 p<0.0001 | 3.13 p<0.0001 | 3.85 p<0.0001 | 2.66 p<0.0001 |
+| Odds ratio CHAMPIX vs. bupropion | 1.96 p<0.0001 | 1.45 p=0.0640 | 1.89 p<0.0001 | 1.72 p=0.0062 |
 
 The 4 week (week 9-12) CQR for varenicline and placebo was 53.9% and 19.4%, respectively (difference=34.5%, 95% CI:
-27.0% - 42.0%) and the CA week 9-24 was 35.2% (varenicline) vs 12.7% (placebo) (difference=22.5%, 95% CI: 15.8% - 29.1%).
+27.0% - 42.0%) and the CA week 9-24 was 35.2% (varenicline) vs. 12.7% (placebo) (difference=22.5%, 95% CI: 15.8% - 29.1%).

@@ -10,7 +10,7 @@ The recommended dose is 1 mg varenicline twice daily following a 1-week titratio
 | Day 8 – End of treatment: | 1 mg twice daily |
 
 The patient should set a date to stop smoking.
-Champix dosing should usually start at 1-2 weeks before this date (see section 5.1).
+CHAMPIX dosing should usually start at 1-2 weeks before this date (see section 5.1).
 
 Patients who cannot tolerate adverse reactions of CHAMPIX may have the dose lowered temporarily or permanently to 0.5 mg twice daily.
 
