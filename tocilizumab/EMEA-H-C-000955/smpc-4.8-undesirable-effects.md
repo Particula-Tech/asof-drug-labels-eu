@@ -8,6 +8,7 @@ In the double-blind controlled studies, 774 patients received tocilizumab 4 mg/k
 
 The long-term exposure population includes all patients who received at least one dose of tocilizumab either in the double-blind control period or open label extension phase in the studies.
 Of the 4009 patients in this population, 3577 received treatment for at least 6 months, 3296 for at least one year, 2806 received treatment for at least 2 years and 1222 for 3 years..
+
 The most commonly reported ADRs (occurring in ≥ 5% of patients treated with tocilizumab monotherapy or in combination with DMARDs) were upper respiratory tract infections, nasopharyngitis, headache, hypertension and increased ALT.
 
 The ADRs listed in Table 1 are presented by system organ class and frequency categories, defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to < 1/10) or uncommon
@@ -38,7 +39,6 @@ Summary of ADRs occurring in patients with RA receiving tocilizumab as monothera
 Infections
 In the 6-month controlled studies the rate of all infections reported with tocilizumab 8 mg/kg plus DMARD treatment was 127 events per 100 patient years compared to 112 events per 100 patient years in the placebo plus DMARD group.
 In the long-term exposure population, the overall rate of infections with RoActemra was 108 events per 100 patient years exposure.
-
 In 6-month controlled clinical studies, the rate of serious infections with tocilizumab 8 mg/kg plus DMARDs was 5.3 events per 100 patient years exposure compared to 3.9 events per 100 patient years exposure in the placebo plus DMARD group.
 In the monotherapy study the rate of serious infections was 3.6 events per 100 patient years of exposure in the tocilizumab group and 1.5 events per 100 patient years of exposure in the MTX group.
 
@@ -76,9 +76,8 @@ In the 6-month controlled trials decreases in neutrophil counts below 1 x 109/ l
 Approximately half of the patients who developed an ANC < 1 x 109/ l did so within 8 weeks after starting therapy.
 Decreases below 0.5 x 109/ l were reported in 0.3% patients receiving tocilizumab 8 mg/kg plus DMARDs.
 Infections with neutropenia have been reported.
-It is not clear if the infections were related to neutropenia.
-
 During the double-blind controlled period and with long-term exposure, the pattern and incidence of decreases in neutrophil counts remained consistent with what was seen in the 6-month controlled clinical trials.
+
 Platelets
 In the 6-month controlled trials decreases in platelet counts below 100 x 103/ μl occurred in 1.7% of patients on tocilizumab 8 mg/kg plus DMARDs compared to < 1% on placebo plus DMARDs.
 These decreases occurred without associated bleeding events.
@@ -112,8 +111,8 @@ SJIA Patients
 The safety of tocilizumab in sJIA has been studied in 112 patients from 2 to 17 years of age.
 In the 12 week double-blind, controlled phase, 75 patients received treatment with tocilizumab (8 mg/kg or 12 mg/kg based upon body weight).
 After 12 weeks or at the time of switching to tocilizumab, due to disease worsening, patients were treated in the ongoing open label extension phase.
-
 In general, the ADRs in sJIA patients were similar in type to those seen in RA patients, see section 4.8.
+
 Infections
 In the 12 week controlled phase, the rate of all infections in the tocilizumab group was 344.7 per 100 patient years and 287.0 per 100 patient years in the placebo group.
 In the ongoing open label extension phase (Part II), the overall rate of infections remained similar at 306.6 per 100 patient years.
@@ -142,7 +141,6 @@ Neutrophils
 During routine laboratory monitoring in the 12 week controlled phase, a decrease in neutrophil counts below 1 x 109/l occurred in 7% of patients in the tocilizumab group, and no decreases in the placebo group.
 
 In the ongoing open label extension phase, decreases in neutrophil counts below 1 x 109/l, occurred in 15% of the tocilizumab group.
-There was no clear relationship between decreases in neutrophils below 1 x 109/l and the occurrence of serious infections.
 
 Platelets
 During routine laboratory monitoring in the 12 week controlled phase, 3% of patients in the placebo group and 1% in the tocilizumab group had a decrease in platelet count to ≤ 100 x 103/µl.

@@ -6,6 +6,7 @@ Population pharmacokinetic analyses did not detect any effect of MTX, non-steroi
 
 The expression of hepatic CYP450 enzymes is suppressed by cytokines, such as IL-6, that stimulate chronic inflammation.
 Thus, CYP450 expression may be reversed when potent cytokine inhibitory therapy, such as tocilizumab, is introduced.
+
 In vitro studies with cultured human hepatocytes demonstrated that IL-6 caused a reduction in CYP1A2, CYP2C9, CYP2C19, and CYP3A4 enzyme expression.
 Tocilizumab normalises expression of these enzymes.
 

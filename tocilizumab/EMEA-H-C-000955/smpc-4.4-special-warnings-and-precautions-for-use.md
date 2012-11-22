@@ -13,11 +13,13 @@ Patients (which includes younger children with sJIA who may be less able to comm
 Tuberculosis
 As recommended for other biological treatments, RA and sJIA patients should be screened for latent tuberculosis (TB) infection prior to starting RoActemra therapy.
 Patients with latent TB should be treated with standard anti-mycobacterial therapy before initiating RoActemra.
+Prescribers are reminded of the risk of false negative tuberculin skin and interferon-gamma TB blood test results, especially in patients who are severely ill or immunocompromised.
+
+Patients should be instructed to seek medical advice if signs/symptoms (e.g., persistent cough, wasting/weight loss, low grade fever) suggestive of a tuberculosis infection occur during or after therapy with RoActemra.
 
 Viral reactivation
 Viral reactivation (e.g. hepatitis B virus) has been reported with biologic therapies for RA.
 In clinical studies with tocilizumab, patients who screened positive for hepatitis were excluded.
-
 Complications of diverticulitis
 Events of diverticular perforations as complications of diverticulitis have been reported uncommonly with RoActemra in RA patients (see section 4.8).
 RoActemra should be used with caution in patients with previous history of intestinal ulceration or diverticulitis.
@@ -55,9 +57,9 @@ Caution should be exercised when considering initiation of RoActemra treatment i
 In patients who develop an ANC < 0.5 x 109/ l or a platelet count < 50 x 103/μl, continued treatment is not recommended.
 
 Severe neutropenia may be associated with an increased risk of serious infections, although there has been no clear association between decreases in neutrophils and the occurrence of serious infections in clinical trials with RoActemra to date.
-
 In RA patients, neutrophils and platelets should be monitored 4 to 8 weeks after start of therapy and thereafter according to standard clinical practice.
 For recommended dose modifications based on ANC and platelet counts, see section 4.2.
+
 In sJIA patients, neutrophils and platelets should be monitored at the time of second infusion and thereafter according to good clinical practice, see section 4.2.
 
 Lipid parameters
