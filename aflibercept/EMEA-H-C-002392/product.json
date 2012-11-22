@@ -1,0 +1,16 @@
+{
+  "active_substance": "aflibercept",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/002392",
+  "eu_number": "EU/1/12/797",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2012-11-21",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/eylea",
+  "molecule": "aflibercept",
+  "molecule_name": "AFLIBERCEPT",
+  "name": "Eylea",
+  "register_name": "Eylea",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h797.htm"
+}
