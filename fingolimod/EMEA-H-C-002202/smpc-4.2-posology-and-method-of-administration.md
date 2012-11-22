@@ -9,10 +9,10 @@ Gilenya can be taken with or without food.
 If a dose is missed treatment should be continued with the next dose as planned.
 
 Patients can switch directly from beta interferon or glatiramer acetate to Gilenya provided there are no signs of relevant treatment-related abnormalities, e.g. neutropenia.
-
 Special populations
 Elderly population
 Gilenya should be used with caution in patients aged 65 years and over due to insufficient data on safety and efficacy (see section 5.2).
+
 Renal impairment
 Gilenya was not studied in patients with renal impairment in the multiple sclerosis pivotal studies.
 Based on clinical pharmacology studies, no dose adjustments are needed in patients with mild to severe renal impairment.

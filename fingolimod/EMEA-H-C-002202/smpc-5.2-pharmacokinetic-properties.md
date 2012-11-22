@@ -8,7 +8,6 @@ Absorption
 Fingolimod absorption is slow (tmax of 12-16 hours) and extensive (≥85%).
 The apparent absolute oral bioavailability is 93% (95% confidence interval: 79-111%).
 Steady-state-blood concentrations are reached within 1 to 2 months following once-daily administration and steady-state levels are approximately 10-fold greater than with the initial dose.
-
 Food intake does not alter Cmax or exposure (AUC) of fingolimod.
 Fingolimod phosphate Cmax was slightly increased by 34% but AUC was unchanged.
 Therefore, Gilenya may be taken without regard to meals (see section 4.2).
@@ -19,6 +18,7 @@ Fingolimod phosphate has a smaller uptake in blood cells of <17%.
 Fingolimod and fingolimod phosphate are highly protein bound (>99%).
 
 Fingolimod is extensively distributed to body tissues with a volume of distribution of about 1,200±260 litres.
+
 Biotransformation
 Fingolimod is transformed in humans by reversible stereoselective phosphorylation to the pharmacologically active (S)-enantiomer of fingolimod phosphate.
 Fingolimod is eliminated by oxidative biotransformation mainly via the cytochrome P450 4F2 isoenzyme and subsequent fatty acid-like degradation to inactive metabolites, and by formation of pharmacologically inactive non-polar ceramide analogues of fingolimod.
@@ -47,7 +47,6 @@ The apparent elimination half-life of fingolimod is unchanged in subjects with m
 
 Fingolimod should not be used in patients with severe hepatic impairment (Child-Pugh class C) (see section 4.3).
 Fingolimod should be introduced cautiously in mild and moderate hepatic impaired patients (see section 4.2).
-
 Clinical experience and pharmacokinetic information in patients aged above 65 years are limited.
 Gilenya should be used with caution in patients aged 65 years and over (see section 4.2).
 

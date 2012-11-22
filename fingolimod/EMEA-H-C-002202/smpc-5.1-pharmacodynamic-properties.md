@@ -9,7 +9,6 @@ Fingolimod phosphate binds at low nanomolar concentrations to sphingosine 1-phos
 By acting as a functional antagonist of S1P receptors on lymphocytes, fingolimod phosphate blocks the capacity of lymphocytes to egress from lymph nodes, causing a redistribution, rather than depletion, of lymphocytes.
 This redistribution reduces the infiltration of pathogenic lymphocyte cells into the central nervous system, where they would be involved in nerve inflammation and nervous tissue damage.
 Animal studies and in vitro experiments indicate that fingolimod may also act via interaction with S1P receptors on neural cells.
-
 Pharmacodynamic effects
 Within 4-6 hours after the first dose of fingolimod 0.5 mg, the lymphocyte count decreases to approximately 75% of baseline in peripheral blood.
 With continued daily dosing, the lymphocyte count continues to decrease over a two-week period, reaching a minimal count of approximately 500 cells/microlitre or approximately 30% of baseline.
@@ -30,6 +29,7 @@ Inhaled salmeterol has also been shown to have a modest positive chronotropic ef
 With initiation of fingolimod treatment there is an increase in atrial premature contractions, but there is no increased rate of atrial fibrillation/flutter or ventricular arrhythmias or ectopy.
 Fingolimod treatment is not associated with a decrease in cardiac output.
 Autonomic responses of the heart, including diurnal variation of heart rate and response to exercise are not affected by fingolimod treatment.
+
 Fingolimod treatment with single or multiple doses of 0.5 and 1.25 mg for two weeks is not associated with a detectable increase in airway resistance as measured by FEV1 and forced expiratory flow rate (FEF) 25-75.
 However, single fingolimod doses ≥5 mg (10-fold the recommended dose) are associated with a dose-dependent increase in airway resistance.
 Fingolimod treatment with multiple doses of 0.5, 1.25, or 5 mg is not associated with impaired oxygenation or oxygen desaturation with exercise or an increase in airway responsiveness to methacholine.
@@ -39,7 +39,6 @@ Clinical efficacy and safety
 The efficacy of Gilenya has been demonstrated in two studies which evaluated once-daily doses of fingolimod 0.5 mg and 1.25 mg in patients with relapsing-remitting multiple sclerosis (RRMS).
 Both studies included patients who had experienced ≥2 relapses in the prior 2 years or ≥1 relapse during the prior year.
 Expanded Disability Status Score (EDSS) was between 0 and 5.5.
-
 Study D2301 (FREEDOMS) was a 2-year randomised, double-blind, placebo-controlled Phase III study of 1,272 patients (n=425 on 0.5 mg, 429 on 1.25 mg, 418 on placebo).
 Median values for baseline characteristics were: age 37 years, disease duration 6.7 years, and EDSS score 2.0.
 Outcome results are shown in Table 1.
@@ -67,12 +66,10 @@ There were no significant differences between the 0.5 mg and the 1.25 mg doses a
 
 Table 2: Study D2302 (TRANSFORMS): Main results
 
-Fingolimod Interferon beta-
-0.5 mg 1a, 30 μg
-Clinical endpoints
-
-| Annualised relapse rate (primary endpoint) | 0.16** | 0.33 |
+|  | Fingolimod 0.5 mg | Interferon beta-1a, 30 μg |
 | --- | --- | --- |
+| Clinical endpoints |  |  |
+| Annualised relapse rate (primary endpoint) | 0.16** | 0.33 |
 | Percentage of patients remaining relapse-free at 12 months | 83%** | 71% |
 | Proportion with 3-month Confirmed Disability Progression† | 6% | 8% |
 | Hazard ratio (95% CI) | 0.71 (0.42, 1.21) |  |

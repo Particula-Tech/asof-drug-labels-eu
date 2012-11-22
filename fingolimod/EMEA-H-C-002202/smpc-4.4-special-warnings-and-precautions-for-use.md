@@ -9,7 +9,6 @@ With continued administration, heart rate returns to baseline within one month.
 Conduction abnormalities were typically transient and asymptomatic.
 They usually did not require treatment and resolved within the first 24 hours on treatment.
 If necessary, the decrease in heart rate induced by fingolimod can be reversed by parenteral doses of atropine or isoprenaline.
-
 All patients should have an ECG and blood pressure measurement performed prior to and 6 hours after the first dose of Gilenya.
 All patients should be monitored for a period of 6 hours for signs and symptoms of bradycardia with hourly heart rate and blood pressure measurement.
 Continuous (real time) ECG monitoring during this 6 hour period is recommended.
@@ -38,10 +37,10 @@ If treatment with Gilenya is considered, advice from a cardiologist should be so
 If the heart-rate-lowering medication cannot be stopped, cardiologist’s advice should be sought to determine appropriate first dose monitoring, at least overnight extended monitoring is recommended (see also section 4.5).
 
 If therapy is discontinued for more than 2 weeks, the effects on heart rate and atrioventricular conduction may recur on re-introduction of Gilenya treatment and the same precautions as for treatment initiation should apply.
-
 QT interval
 In a thorough QT interval study of doses of 1.25 or 2.5 mg fingolimod at steady-state, when a negative chronotropic effect of fingolimod was still present, fingolimod treatment resulted in a prolongation of QTcI, with the upper limit of the 90% CI ≤13.0 ms. There is no dose- or exposure-response relationship of fingolimod and QTcI prolongation.
 There is no consistent signal of increased incidence of QTcI outliers, either absolute or change from baseline, associated with fingolimod treatment.
+
 The clinical relevance of this finding is unknown.
 In the multiple sclerosis studies, clinically relevant effects on prolongation of the QTc-interval have not been observed but patients at risk for QT prolongation were not included in clinical studies.
 
@@ -73,7 +72,6 @@ Macular oedema
 Macular oedema with or without visual symptoms has been reported in 0.4% of patients treated with fingolimod 0.5 mg, occurring predominantly in the first 3-4 months of therapy (see section 4.8).
 An ophthalmological evaluation is therefore recommended at 3-4 months after treatment initiation.
 If patients report visual disturbances at any time while on therapy, evaluation of the fundus, including the macula, should be carried out.
-
 Patients with history of uveitis and patients with diabetes mellitus are at increased risk of macular oedema (see section 4.8).
 Gilenya has not been studied in multiple sclerosis patients with concomitant diabetes mellitus.
 It is recommended that multiple sclerosis patients with diabetes mellitus or a history of uveitis undergo an ophthalmological evaluation prior to initiating therapy and have follow-up evaluations while receiving therapy.
@@ -81,6 +79,7 @@ It is recommended that multiple sclerosis patients with diabetes mellitus or a h
 Continuation of Gilenya in patients with macular oedema has not been evaluated.
 It is recommended that Gilenya be discontinued if a patient develops macular oedema.
 A decision on whether or not Gilenya therapy should be re-initiated after resolution of macular oedema needs to take into account the potential benefits and risks for the individual patient.
+
 Liver function
 During clinical trials, elevations 3-fold the upper limit of normal (ULN) or greater in liver transaminases occurred in 8% of patients treated with fingolimod 0.5 mg compared to 2% of placebo patients.
 Elevations 5-fold the ULN occurred in 2% of patients on fingolimod and 1% of patients on placebo.
@@ -106,13 +105,13 @@ Although there are no data to establish that patients with pre-existing liver di
 Interference with serological testing
 Since fingolimod reduces blood lymphocyte counts via re-distribution in secondary lymphoid organs, peripheral blood lymphocyte counts cannot be utilised to evaluate the lymphocyte subset status of a patient treated with Gilenya.
 Laboratory tests involving the use of circulating mononuclear cells require larger blood volumes due to reduction in the number of circulating lymphocytes.
-
 Blood pressure effects
 Patients with hypertension uncontrolled by medication were excluded from participation in premarketing clinical trials and special care is indicated if patients with uncontrolled hypertension are treated with Gilenya.
 
 In MS clinical trials, patients treated with fingolimod 0.5 mg had an average increase of approximately 3 mmHg in systolic pressure, and approximately 1 mmHg in diastolic pressure, first detected approximately 1 month after treatment initiation, and persisting with continued treatment.
 In the two-year placebo-controlled study, hypertension was reported as an adverse event in 6.1% of patients on fingolimod 0.5 mg and in 3.8% of patients on placebo.
 Therefore, blood pressure should be regularly monitored during treatment with Gilenya.
+
 Respiratory effects
 Minor dose-dependent reductions in values for forced expiratory volume (FEV1) and diffusion capacity for carbon monoxide (DLCO) were observed with Gilenya treatment starting at Month 1 and remaining stable thereafter.
 Gilenya should be used with caution in patients with severe respiratory disease, pulmonary fibrosis and chronic obstructive pulmonary disease (see also section 4.8).
