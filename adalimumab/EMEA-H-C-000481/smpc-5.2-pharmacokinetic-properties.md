@@ -1,6 +1,14 @@
 # 5.2 Pharmacokinetic properties
 
-Following the administration of 24 mg/m2 (up to a maximum of 40 mg) subcutaneously every other week to patients with polyarticular juvenile idiopathic arthritis (JIA) the mean trough steady-state (values measured from Week 20 to 48) serum adalimumab concentration was 5.6 ± 5.6 µg/ml (102%CV) Humira monotherapy and 10.9 ± 5.2 µg/ml (47.7% CV) with concomitant methotrexate
+Following the administration of 24 mg/m2 (up to a maximum of 40 mg) subcutaneously every other week to patients with polyarticular juvenile idiopathic arthritis (JIA) the mean trough steady-state (values measured from Week 20 to 48) serum adalimumab concentration was 5.6 ± 5.6 µg/ml (102%CV) Humira monotherapy and 10.9 ± 5.2 µg/ml (47.7% CV) with concomitant methotrexate.
+
+In paediatric subjects with moderate to severe CD, the open-label adalimumab induction dose was 160/80 mg or 80/40 mg at Weeks 0 and 2, respectively, dependent on a body weight cut-off of 40 kg.
+At Week 4, subjects were randomized 1:1 to either the Standard Dose (40/20 mg eow) or Low Dose (20/10 mg eow) maintenance treatment groups based on their body weight.
+The mean (±SD) serum adalimumab trough concentrations achieved at Week 4 were 15.7±6.6 μg/mL for subjects ≥ 40 kg (160/80 mg) and 10.6±6.1 μg/mL for subjects < 40 kg (80/40 mg).
+
+For subjects who stayed on their randomized therapy, the mean (±SD) adalimumab trough concentrations at Week 52 were 9.5±5.6 μg/mL for the Standard Dose group and 3.5±2.2 μg/mL for the Low Dose group.
+The mean trough concentrations were maintained in subjects who continued to receive adalimumab treatment eow for 52 weeks.
+For subjects who dose escalated from eow to weekly regimen, the mean (±SD) serum concentrations of adalimumab at Week 52 were 15.3±11.4 μg/mL (40/20 mg, weekly) and 6.7±3.5 μg/mL (20/10 mg, weekly).
 
 Adults
 
@@ -23,9 +31,12 @@ Humira has not been studied in patients with hepatic or renal impairment.
 Following the administration of 24 mg/m2 (up to a maximum of 40 mg) subcutaneously every other week to patients with polyarticular juvenile idiopathic arthritis (JIA) the mean trough steady-state (values measured from Week 20 to 48) serum adalimumab concentration was 5.6 ± 5.6 µg/mL (102 %CV) Humira monotherapy and 10.9 ± 5.2 µg/mL (47.7% CV) with concomitant methotrexate.
 
 In patients with psoriasis, the mean steady-state trough concentration was 5 μg/mL during adalimumab 40 mg every other week monotherapy treatment.
+
 In patients with Crohn’s disease, the loading dose of 80 mg Humira on Week 0 followed by 40 mg Humira on Week 2 achieves serum adalimumab trough concentrations of approximately 5.5 μg/ml during the induction period.
 A loading dose of 160 mg Humira on Week 0 followed by 80 mg Humira on Week 2 achieves serum adalimumab trough concentrations of approximately 12 μg/ml during the induction period.
 Mean steady-state trough levels of approximately 7 μg/ml were observed in Crohn’s disease patients who received a maintenance dose of 40 mg Humira every other week.
+
+For subjects who stayed on their randomized therapy, the mean (±SD) adalimumab trough concentrations at Week 52 were 9.5±5.6μg/mL for the Standard Dose group and 3.5±2.2 μg/mL for the Low Dose group.
 
 In patients with ulcerative colitis, a loading dose of 160 mg Humira on Week 0 followed by 80 mg Humira on Week 2 achieves serum adalimumab trough concentrations of approximately 12 μg/ml during the induction period.
 Mean steady-state trough levels of approximately 8 μg/ml were observed in ulcerative colitis patients who received a maintenance dose of 40 mg Humira every other week.

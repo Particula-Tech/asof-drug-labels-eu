@@ -6,6 +6,10 @@ Humira in combination with methotrexate is indicated for the treatment of active
 Humira can be given as monotherapy in case of intolerance to methotrexate or when continued treatment with methotrexate is inappropriate (for the efficacy in monotherapy see section 5.1).
 Humira has not been studied in children aged less than 4 years.
 
+Paediatric Crohn's Disease
+
+Humira is indicated for the treatment of severe active Crohn's disease in paediatric patients (6 to 17 years of age) who have had an inadequate response to conventional therapy including primary nutrition therapy, a corticosteroid, and an immunomodulator, or who are intolerant to or have contraindications for such therapies.
+
 [Humira 40 mg solution for injection in pre-filled syringe]
 
 Rheumatoid arthritis
