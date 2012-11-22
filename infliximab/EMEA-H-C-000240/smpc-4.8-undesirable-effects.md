@@ -7,7 +7,7 @@ The most serious ADRs associated with the use of TNF blockers that have been rep
 Tabulated list of adverse reactions
 Table 1 lists ADRs based on experience from clinical studies as well as adverse reactions, some with fatal outcome, reported from post-marketing experience.
 Within the organ system classes, adverse reactions are listed under headings of frequency using the following categories: very common
-(≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to
+(≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to
 < 1/1,000); very rare (< 1/10,000), not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
@@ -20,8 +20,8 @@ Uncommon: Tuberculosis, fungal infections (e.g. candidiasis).
 
 Rare: Meningitis, opportunistic infections (such as invasive fungal infections [pneumocystosis, histoplasmosis, aspergillosis, coccidioidomycosis, cryptococcosis, blastomycosis], bacterial infections [atypical mycobacterial, listeriosis, salmonellosis], and viral infections [cytomegalovirus]), parasitic infections, hepatitis B reactivation.
 Neoplasms benign, malignant and unspecified (including cysts and polyps)
-Rare: Lymphoma, non-Hodgkin’s lymphoma, Hodgkin’s disease, leukaemia.
-Not known: Hepatosplenic T-cell lymphoma (primarily in adolescents and young adults with Crohn’s disease and ulcerative colitis) .
+Rare: Lymphoma, non-Hodgkin’s lymphoma, Hodgkin’s disease, leukaemia, melanoma.
+Not known: Hepatosplenic T-cell lymphoma (primarily in adolescents and young adults with Crohn’s disease and ulcerative colitis), Merkel cell carcinoma.
 Blood and lymphatic system disorders
 Common: Neutropenia, leucopenia, anaemia, lymphadenopathy.
 Uncommon: Thrombocytopenia, lymphopenia, lymphocytosis.
@@ -87,6 +87,7 @@ Rare: Granulomatous lesion.
 Investigations
 Uncommon: Autoantibody positive.
 Rare: Complement factor abnormal.
+
 Infusion-related reactions
 An infusion-related reaction was defined in clinical studies as any adverse event occurring during an infusion or within 1 hour after an infusion.
 In Phase III clinical studies, 18% of infliximab-treated patients compared with 5% of placebo-treated patients experienced an infusion-related reaction.
@@ -121,6 +122,7 @@ In the psoriasis studies, delayed hypersensitivity reactions occurred early in t
 Signs and symptoms included myalgia and/or arthralgia with fever and/or rash, with some patients experiencing pruritus, facial, hand or lip oedema, dysphagia, urticaria, sore throat and headache.
 
 There are insufficient data on the incidence of delayed hypersensitivity reactions after Remicade-free intervals of more than 1 year but limited data from clinical studies suggest an increased risk for delayed hypersensitivity with increasing Remicade-free interval (see section 4.4).
+
 In a 1-year clinical study with repeated infusions in patients with Crohn's disease (ACCENT I study), the incidence of serum sickness-like reactions was 2.4%.
 
 Immunogenicity
@@ -165,7 +167,7 @@ In addition, rare post-marketing cases of hepatosplenic T-cell lymphoma have bee
 
 Heart failure
 In a Phase II study aimed at evaluating Remicade in congestive heart failure (CHF), higher incidence of mortality due to worsening of heart failure were seen in patients treated with Remicade, especially those treated with the higher dose of 10 mg/kg (i.e. twice the maximum approved dose).
-In this study 150 patients with NYHA Class III-IV CHF (left ventricular ejection fraction ≤ 35%) were treated with 3 infusions of Remicade 5 mg/kg, 10 mg/kg, or placebo over 6 weeks.
+In this study 150 patients with NYHA Class III-IV CHF (left ventricular ejection fraction ≤35%) were treated with 3 infusions of Remicade 5 mg/kg, 10 mg/kg, or placebo over 6 weeks.
 At 38 weeks, 9 of 101 patients treated with Remicade (2 at 5 mg/kg and 7 at 10 mg/kg) died compared to one death among the 49 patients on placebo.
 There have been post-marketing reports of worsening heart failure, with and without identifiable precipitating factors, in patients taking Remicade.
 There have also been rare post-marketing reports of new onset heart failure, including heart failure in patients without known pre-existing cardiovascular disease.
@@ -173,7 +175,7 @@ Some of these patients have been under 50 years of age.
 
 Hepatobiliary events
 In clinical studies, mild or moderate elevations of ALT and AST have been observed in patients receiving Remicade without progression to severe hepatic injury.
-Elevations of ALT ≥ 5 x Upper Limit of Normal (ULN) have been observed (see Table 2).
+Elevations of ALT ≥5 x Upper Limit of Normal (ULN) have been observed (see Table 2).
 Elevations of aminotransferases were observed (ALT more common than AST) in a greater proportion of patients receiving Remicade than in controls, both when Remicade was given as monotherapy and when it was used in combination with other immunosuppressive agents.
 Most aminotransferase abnormalities were transient; however, a small number of patients experienced more prolonged elevations.
 In general, patients who developed ALT and AST elevations were asymptomatic, and the abnormalities decreased or resolved with either continuation or discontinuation of Remicade, or modification of concomitant therapy.
@@ -182,7 +184,7 @@ In post-marketing surveillance, very rare cases of jaundice and hepatitis, some 
 Table 2
 Proportion of patients with increased ALT activity in clinical studies
 
-| Indication | Number of patients3 |  | Median follow-up (wks)4 |  | ≥ 3 x ULN |  | ≥ 5 x ULN |  |
+| Indication | Number of patients3 |  | Median follow-up (wks)4 |  | ≥3 x ULN |  | ≥5 x ULN |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | placebo | infliximab | placebo | infliximab | placebo | infliximab | placebo | infliximab |
 | Rheumatoid arthritis1 | 375 | 1,087 | 58.1 | 58.3 | 3.2% | 3.9% | 0.8% | 0.9% |
@@ -270,6 +272,6 @@ Post-marketing experience
 Post-marketing spontaneous serious adverse events with infliximab in the paediatric population have included malignancies including hepatosplenic T-cell lymphomas, transient hepatic enzyme abnormalities, lupus-like syndromes, and positive auto-antibodies (see sections 4.4 and 4.8).
 
 Additional information on special populations
-Elderly patients (≥ 65 years)
+Elderly patients (≥65 years)
 In rheumatoid arthritis clinical studies, the incidence of serious infections was greater in infliximab plus methotrexate-treated patients 65 years and older (11.3%) than in those under 65 years of age (4.6%).
 In patients treated with methotrexate alone, the incidence of serious infections was 5.2% in patients 65 years and older compared to 2.7% in patients under 65 (see section 4.4).
