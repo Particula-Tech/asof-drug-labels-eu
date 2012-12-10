@@ -101,8 +101,9 @@ Pramipexole is commonly associated with somnolence and has been associated uncom
 Libido disorders
 Pramipexole may uncommonly be associated with libido disorders (increased or decreased).
 
-Impulse control disorders and compulsive behaviours
-Patients treated with dopamine agonists for Parkinson’s disease, including SIFROL, especially at high doses, have been reported as exhibiting signs of pathological gambling, increased libido and hypersexuality, generally reversible upon reduction of the dose or treatment discontinuation (see also section 4.4).
+Impulse control disorders
+Pathological gambling, increased libido, hypersexuality, compulsive spending or buying, binge eating and compulsive eating can occur in patients treated with dopamine agonists including SIFROL (see section 4.4).
+
 In a cross-sectional, retrospective screening and case-control study including 3,090 Parkinson’s disease patients, 13.6% of all patients receiving dopaminergic or non-dopaminergic treatment had symptoms of an impulse control disorder during the past six months.
 Manifestations observed include pathological gambling, compulsive shopping, binge eating, and compulsive sexual behaviour (hypersexuality).
 Possible independent risk factors for impulse control disorders included dopaminergic treatments and higher doses of dopaminergic treatment, younger age ( ≤ 65 years), not being married and self-reported family history of gambling behaviours.
@@ -226,9 +227,6 @@ The adverse drug reactions reported in the table below are those events that occ
 | Investigations |  |
 | Common | weight decrease including decreased appetite |
 | Uncommon | weight increase |
-
-Patients treated with dopamine agonists for Parkinson’s disease, including SIFROL, especially at high doses, have been reported as exhibiting signs of pathological gambling, increased libido and hypersexuality, generally reversible upon reduction of the dose or treatment discontinuation.
-See also section 4.4.
 
 [SIFROL 0.52 mg prolonged-release tablets]
 

@@ -18,10 +18,10 @@ Patients who have experienced somnolence and/or an episode of sudden sleep onset
 Furthermore a reduction of the dose or termination of therapy may be considered.
 Because of possible additive effects, caution should be advised when patients are taking other sedating medicinal products or alcohol in combination with pramipexole (see sections 4.5, 4.7 and section 4.8).
 
-Impulse control disorders and compulsive behaviours
-Pathological gambling, increased libido and hypersexuality have been reported in patients treated with dopamine agonists for Parkinson’s disease, including SIFROL.
-Furthermore, patients and caregivers should be aware of the fact that other behavioural symptoms of impulse control disorders and compulsions such as binge eating and compulsive shopping can occur.
-Dose reduction/tapered discontinuation should be considered.
+Impulse control disorders
+Patients should be regularly monitored for the development of impulse control disorders.
+Patients and carers should be made aware that behavioural symptoms of impulse control disorders including pathological gambling, increased libido, hypersexuality, compulsive spending or buying, binge eating and compulsive eating can occur in patients treated with dopamine agonists including SIFROL.
+Dose reduction/tapered discontinuation should be considered if such symptoms develop.
 
 Patients with psychotic disorders
 Patients with psychotic disorders should only be treated with dopamine agonists if the potential benefits outweigh the risks.
