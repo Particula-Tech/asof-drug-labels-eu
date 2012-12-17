@@ -1,7 +1,7 @@
 # 5.2 Pharmacokinetic properties
 
 Absorption
-Following oral administration of a 100-mg dose to healthy subjects, sitagliptin was rapidly absorbed, with peak plasma concentrations (median Tmax) occurring 1 to 4 hours post-dose, mean plasma AUC of sitagliptin was 8.52 μM•hr, Cmax was 950 nM.
+Following oral administration of a 100-mg dose to healthy subjects, sitagliptin was rapidly absorbed, with peak plasma concentrations (median Tmax) occurring 1 to 4 hours post-dose, mean plasma AUC of sitagliptin was 8.52 µM•hr, Cmax was 950 nM.
 The absolute bioavailability of sitagliptin is approximately 87 %.
 Since co-administration of a high-fat meal with Januvia had no effect on the pharmacokinetics, Januvia may be administered with or without food.
 
@@ -33,7 +33,7 @@ The clinical relevance of hOAT-3 in sitagliptin transport has not been establish
 Sitagliptin is also a substrate of p-glycoprotein, which may also be involved in mediating the renal elimination of sitagliptin.
 However, ciclosporin, a p-glycoprotein inhibitor, did not reduce the renal clearance of sitagliptin.
 Sitagliptin is not a substrate for OCT2 or OAT1 or PEPT1/2 transporters.
-In vitro, sitagliptin did not inhibit OAT3 (IC50=160 μM) or p-glycoprotein (up to 250 μM) mediated transport at therapeutically relevant plasma concentrations.
+In vitro, sitagliptin did not inhibit OAT3 (IC50=160 µM) or p-glycoprotein (up to 250 µM) mediated transport at therapeutically relevant plasma concentrations.
 In a clinical study sitagliptin had a small effect on plasma digoxin concentrations indicating that sitagliptin may be a mild inhibitor of p-glycoprotein.
 
 Characteristics in patients
