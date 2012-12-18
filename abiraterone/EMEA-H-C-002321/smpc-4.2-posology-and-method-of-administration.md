@@ -7,23 +7,33 @@ Taking the tablets with food increases systemic exposure to abiraterone (see sec
 ZYTIGA is to be taken with low dose prednisone or prednisolone.
 The recommended dose of prednisone or prednisolone is 10 mg daily.
 
-Serum transaminases should be measured prior to starting treatment, every two weeks for the first three months of treatment and monthly thereafter.
-Blood pressure, serum potassium and fluid retention should be monitored monthly (see section 4.4).
+Medical castration with LHRH analogue should be continued during treatment in patients not surgically castrated.
 
+Serum transaminases should be measured prior to starting treatment, every two weeks for the first three months of treatment and monthly thereafter.
+Blood pressure, serum potassium and fluid retention should be monitored monthly.
+However, patients with a significant risk for congestive heart failure should be monitored every 2 weeks for the first three months of treatment and monthly thereafter (see section 4.4).
+
+In patients with pre-existing hypokalaemia or those that develop hypokalaemia whilst being treated with ZYTIGA, consider maintaining the patient’s potassium level at ≥4.0 mM.
+For patients who develop Grade ≥3 toxicities including hypertension, hypokalaemia, oedema and other non-mineralocorticoid toxicities, treatment should be withheld and appropriate medical management should be instituted.
+Treatment with ZYTIGA should not be reinitiated until symptoms of the toxicity have resolved to Grade 1 or baseline.
 In the event of a missed daily dose of either ZYTIGA, prednisone or prednisolone, treatment should be resumed the following day with the usual daily dose.
 
 Hepatotoxicity
-For patients who develop hepatotoxicity during treatment (alanine aminotransferase [ALT] increases above 5 times the upper limit of normal [ULN]), treatment should be withheld immediately (see section 4.4).
+For patients who develop hepatotoxicity during treatment (alanine aminotransferase [ALT] increases or aspartate aminotransferase [AST] increases above 5 times the upper limit of normal [ULN]), treatment should be withheld immediately (see section 4.4).
 Re-treatment following return of liver function tests to the patient’s baseline may be given at a reduced dose of 500 mg (two tablets) once daily.
 For patients being re-treated, serum transaminases should be monitored at a minimum of every two weeks for three months and monthly thereafter.
 If hepatotoxicity recurs at the reduced dose of 500 mg daily, treatment should be discontinued.
-If patients develop severe hepatotoxicity (ALT 20 times the upper limit of normal) anytime while on therapy, treatment should be discontinued and patients should not be re-treated.
+
+If patients develop severe hepatotoxicity (ALT or AST 20 times the upper limit of normal) anytime while on therapy, treatment should be discontinued and patients should not be re-treated.
 
 Hepatic impairment
 No dose adjustment is necessary for patients with pre-existing mild hepatic impairment, Child-Pugh Class A.
 
 Moderate hepatic impairment (Child-Pugh Class B) has been shown to increase the systemic exposure to abiraterone by approximately four-fold following single oral doses of abiraterone acetate 1,000 mg (see section 5.2).
-There are no data on the clinical safety and efficacy of multiple doses of abiraterone acetate when administered to patients with moderate or severe hepatic impairment (Child-Pugh Class B or C). No dose adjustment can be predicted and ZYTIGA should be avoided in these patients.
+There are no data on the clinical safety and efficacy of multiple doses of abiraterone acetate when administered to patients with moderate or severe hepatic impairment (Child-Pugh
+Class B or C). No dose adjustment can be predicted.
+The use of ZYTIGA should be cautiously assessed in patients with moderate hepatic impairment, in whom the benefit clearly should outweigh the possible risk (see sections 4.2 and 5.2).
+ZYTIGA should not be used in patients with severe hepatic impairment (see sections 4.3, 4.4 and 5.2).
 
 Renal impairment
 No dose adjustment is necessary for patients with renal impairment (see section 5.2).

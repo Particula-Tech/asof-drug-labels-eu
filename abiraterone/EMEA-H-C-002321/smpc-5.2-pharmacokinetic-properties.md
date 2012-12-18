@@ -5,6 +5,7 @@ Abiraterone acetate is rapidly converted in vivo to abiraterone, an androgen bio
 
 Absorption
 Following oral administration of abiraterone acetate in the fasting state, the time to reach maximum plasma abiraterone concentration is approximately 2 hours.
+
 Administration of abiraterone acetate with food, compared with administration in a fasted state, results in up to a 10-fold (AUC) and up to a 17-fold (Cmax) increase in mean systemic exposure of abiraterone, depending on the fat content of the meal.
 Given the normal variation in the content and composition of meals, taking ZYTIGA with meals has the potential to result in highly variable exposures.
 Therefore, ZYTIGA must not be taken with food.
@@ -30,7 +31,8 @@ The pharmacokinetics of abiraterone acetate was examined in subjects with pre-ex
 Systemic exposure to abiraterone after a single oral 1,000 mg dose increased by approximately 11% and 260% in subjects with mild and moderate pre-existing hepatic impairment, respectively.
 The mean half-life of abiraterone is prolonged to approximately 18 hours in subjects with mild hepatic impairment and to approximately 19 hours in subjects with moderate hepatic impairment.
 No dose adjustment is necessary for patients with pre-existing mild hepatic impairment.
-ZYTIGA should not be used in patients with pre-existing moderate or severe hepatic impairment (see section 4.2).
+The use of ZYTIGA should be cautiously assessed in patients with moderate hepatic impairment in whom the benefit clearly should outweigh the possible risk (see sections 4.2 and 4.4).
+ZYTIGA should not be used in patients with severe hepatic impairment (see sections 4.2, 4.3 and 4.4).
 
 For patients who develop hepatotoxicity during treatment, suspension of treatment and dose adjustment may be required (see sections 4.2 and 4.4).
 

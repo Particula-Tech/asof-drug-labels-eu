@@ -1,9 +1,9 @@
 # 6.1 List of excipients
 
-Lactose monohydrate
 Cellulose, microcrystalline
 Croscarmellose sodium
-Povidone (K29/K32)
-Sodium laurilsulfate
+Lactose monohydrate
 Magnesium stearate
+Povidone (K29/K32)
 Silica, colloidal anhydrous
+Sodium laurilsulfate
