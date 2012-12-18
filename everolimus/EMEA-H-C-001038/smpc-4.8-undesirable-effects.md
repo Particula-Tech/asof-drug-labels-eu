@@ -1,6 +1,6 @@
 # 4.8 Undesirable effects
 
-a) Summary of safety profile
+Summary of safety profile
 Three randomised, double-blind, placebo controlled phase III studies contribute to the safety profile.
 The respective exposure in the phase III studies was:
 
@@ -21,7 +21,7 @@ The rates of adverse reactions resulting in permanent discontinuation were 21% a
 The most frequent grade 3-4 adverse reactions (incidence ≥2% in at least one phase III study) were anaemia, fatigue, diarrhoea, infections, stomatitis, hyperglycaemia, thrombocytopenia, lymphopenia, neutropenia, hypophosphataemia, hypercholesterolaemia, diabetes mellitus, and pneumonitis.
 The grades follow CTCAE Version 3.0.
 
-b) Tabulated summary of adverse reactions
+Tabulated summary of adverse reactions
 Table 2 shows the incidence of adverse reactions reported for patients receiving everolimus 10 mg/day in at least one of the pivotal studies.
 All terms included are based on the highest frequency reported in a pivotal study.
 Adverse reactions are listed according to MedDRA system organ class and frequency category.
@@ -104,7 +104,7 @@ Investigations
 Very common Weight decreased
 * see also subsection “c) Description of selected adverse reactions” a Includes all reactions within the ‘infections and infestations’ system organ class (such as pneumonia, sepsis, and isolated cases of opportunistic infections [e.g. aspergillosis, candidiasis and hepatitis B (see also section 4.4)]) b Includes different bleeding events not listed individually c Includes pneumonitis, interstitial lung disease, lung infiltration, pulmonary alveolar haemorrhage, pulmonary toxicity, and alveolitis d Includes stomatitis and aphthous stomatitis, and mouth and tongue ulceration
 
-c) Description of selected adverse reactions
+Description of selected adverse reactions
 In clinical studies, everolimus has been associated with serious cases of hepatitis B reactivation, including fatal outcome.
 Reactivation of infection is an expected event during periods of immunosuppression.
 

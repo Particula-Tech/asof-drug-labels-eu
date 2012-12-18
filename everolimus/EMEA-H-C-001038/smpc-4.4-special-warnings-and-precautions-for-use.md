@@ -7,17 +7,18 @@ Some cases were severe and on rare occasions, a fatal outcome was observed.
 A diagnosis of non-infectious pneumonitis should be considered in patients presenting with non-specific respiratory signs and symptoms such as hypoxia, pleural effusion, cough or dyspnoea, and in whom infectious, neoplastic and other non-medicinal causes have been excluded by means of appropriate investigations.
 Patients should be advised to report promptly any new or worsening respiratory symptoms.
 
-Patients who develop radiological changes suggestive of non-infectious pneumonitis and have few or no symptoms may continue Afinitor therapy without dose adjustments If symptoms are moderate, consideration should be given to interruption of therapy until symptoms improve.
+Patients who develop radiological changes suggestive of non-infectious pneumonitis and have few or no symptoms may continue Afinitor therapy without dose adjustments.
+If symptoms are moderate, consideration should be given to interrupting therapy until symptoms improve.
 The use of corticosteroids may be indicated.
 Afinitor may be re-initiated at 5 mg daily.
 
 For cases where symptoms of non-infectious pneumonitis are severe, Afinitor therapy should be discontinued and the use of corticosteroids may be indicated until clinical symptoms resolve.
 Therapy with Afinitor may be re-initiated at 5 mg daily depending on the individual clinical circumstances.
-
 Infections
 Afinitor has immunosuppressive properties and may predispose patients to bacterial, fungal, viral or protozoan infections, including infections with opportunistic pathogens (see section 4.8).
 Localised and systemic infections, including pneumonia, other bacterial infections, invasive fungal infections such as aspergillosis or candidiasis, and viral infections including reactivation of hepatitis B virus, have been described in patients taking Afinitor.
 Some of these infections have been severe (e.g. leading to respiratory or hepatic failure) and occasionally fatal.
+
 Physicians and patients should be aware of the increased risk of infection with Afinitor.
 Pre-existing infections should be treated appropriately and should have resolved fully before starting treatment with Afinitor.
 While taking Afinitor, be vigilant for symptoms and signs of infection; if a diagnosis of infection is made, institute appropriate treatment promptly and consider interruption or discontinuation of Afinitor.
@@ -34,7 +35,7 @@ Antifungal agents should not be used unless fungal infection has been diagnosed 
 
 Renal failure events
 Cases of renal failure (including acute renal failure), some with a fatal outcome, have been observed in patients treated with Afinitor (see section 4.8).
-Renal function of patients should be monitored particularly where patients have additional risk factors that may further impair renal function.
+Renal function should be monitored particularly where patients have additional risk factors that may further impair renal function.
 
 Laboratory tests and monitoring
 Renal function
@@ -49,15 +50,15 @@ When possible optimal glycaemic control should be achieved before starting a pat
 Haematological parameters
 Decreased haemoglobin, lymphocytes, neutrophils and platelets have been reported in clinical trials (see section 4.8).
 Monitoring of complete blood count is recommended prior to the start of Afinitor therapy and periodically thereafter.
-
 Carcinoid tumours
-In a randomised, double-blind, multi-centre trial in patients with carcinoid tumours, Afinitor plus depot octreotide (Sandostatin LAR®) was compared to placebo plus depot octreotide.
+In a randomised, double-blind, multi-centre trial in patients with carcinoid tumours, Afinitor plus depot octreotide was compared to placebo plus depot octreotide.
 The study did not meet the primary efficacy endpoint (progression-free-survival [PFS]) and the overall survival (OS) interim analysis numerically favoured the placebo plus depot octreotide arm.
 Therefore, the safety and efficacy of Afinitor in patients with carcinoid tumours have not been established.
 
 Interactions
 Co-administration with inhibitors and inducers of CYP3A4 and/or the multidrug efflux pump P-glycoprotein (PgP) should be avoided.
 If co-administration of a moderate CYP3A4 and/or PgP inhibitor or inducer cannot be avoided, dose adjustments of Afinitor can be taken into consideration based on predicted AUC (see section 4.5).
+
 Concomitant treatment with potent CYP3A4 inhibitors result in dramatically increased plasma concentrations of everolimus (see section 4.5).
 There are currently not sufficient data to allow dosing recommendations in this situation.
 Hence, concomitant treatment of Afinitor and potent inhibitors is not recommended.
@@ -66,7 +67,9 @@ Caution should be exercised when Afinitor is taken in combination with orally ad
 If Afinitor is taken with orally administered CYP3A4 substrates with a narrow therapeutic index (e.g. pimozide, terfenadine, astemizole, cisapride, quinidine or ergot alkaloid derivatives), the patient should be monitored for undesirable effects described in the product information of the orally administered CYP3A4 substrate (see section 4.5).
 
 Hepatic impairment
-Afinitor should not be used in patients with severe hepatic impairment (Child-Pugh class C) (see sections 4.2 and 5.2).
+Exposure to everolimus was increased in patients with mild (Child-Pugh A), moderate (Child-Pugh B) and severe (Child-Pugh C) hepatic impairment (see section 5.2).
+
+Afinitor is only recommended for use in patients with severe hepatic impairment (Child-Pugh C) if the potential benefit outweighs the risk (see sections 4.2 and 5.2).
 
 Vaccinations
 The use of live vaccines should be avoided during treatment with Afinitor (see section 4.5).

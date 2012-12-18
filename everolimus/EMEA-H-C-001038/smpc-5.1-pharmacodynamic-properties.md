@@ -115,7 +115,9 @@ Hazard Ratio = 0.35
 
 Time (months)
 No. of patients still at risk
-Afinitor 207 189 153 126 114 80 49 36 28 21 10 6 2 0 0 0 Placebo 203 117 98 59 52 24 16 7 4 3 2 1 1 1 1 0 Following disease progression 172 of the 203 patients (84.7%) initially randomised to placebo crossed over to open-label Afinitor.
+Afinitor 207 189 153 126 114 80 49 36 28 21 10 6 2 0 0 0 Placebo 203 117 98 59 52 24 16 7 4 3 2 1 1 1 1 0
+
+Following disease progression 172 of the 203 patients (84.7%) initially randomised to placebo crossed over to open-label Afinitor.
 The overall survival results show no statistically significant difference in OS (HR=0.89 [95% CI: 0.64, 1.23]).
 
 Advanced renal cell carcinoma
@@ -127,7 +129,6 @@ Progression-free survival, documented using RECIST (Response Evaluation Criteria
 Secondary endpoints included safety, objective tumour response rate, overall survival, disease-related symptoms, and quality of life.
 After documented radiological progression, patients could be unblinded by the investigator: those randomised to placebo were then able to receive open-label everolimus 10 mg/day.
 The Independent Data Monitoring Committee recommended termination of this trial at the time of the second interim analysis as the primary endpoint had been met.
-
 In total, 416 patients were randomised 2:1 to receive Afinitor (n=277) or placebo (n=139).
 Demographics were well balanced (pooled median age [61 years; range 27-85], 78% male, 88% Caucasian, number of prior VEGFR-TKI therapies [1-74%, 2-26%]).
 The median duration of blinded study treatment was 141 days (range 19-451 days) for patients receiving everolimus and 60 days (range 21-295 days) for those receiving placebo.

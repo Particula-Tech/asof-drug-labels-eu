@@ -38,9 +38,10 @@ There was a significant correlation between AUC0-τ and pre-dose trough concentr
 
 Special populations
 Hepatic impairment
-The average AUC of everolimus in 8 subjects with moderate hepatic impairment (Child-Pugh class B) was twice that found in 8 subjects with normal hepatic function.
-AUC was positively correlated with serum bilirubin concentration and with prolongation of prothrombin time and negatively correlated with serum albumin concentration.
-The impact of severe hepatic impairment (Child-Pugh class C) on the pharmacokinetics of everolimus has not been assessed (see sections 4.2 and 4.4).
+The safety, tolerability and pharmacokinetics of Afinitor were evaluated in a single oral dose study of everolimus in 34 subjects with impaired hepatic function relative to subjects with normal hepatic function.
+Compared to normal subjects, there was a 1.6-fold, 3.3-fold and 3.6-fold increase in exposure (i.e. AUC0-inf) for subjects with mild (Child-Pugh A), moderate (Child-Pugh B) and severe (Child-Pugh C) hepatic impairment, respectively.
+Simulations of multiple dose pharmacokinetics support the dosing recommendations in subjects with hepatic impairment based on their Child-Pugh status.
+Dose adjustment is recommended for patients with hepatic impairment (see sections 4.2 and 4.4).
 
 Renal impairment
 In a population pharmacokinetic analysis of 170 patients with advanced solid tumours, no significant influence of creatinine clearance (25-178 ml/min) was detected on CL/F of everolimus.
@@ -49,7 +50,6 @@ Post-transplant renal impairment (creatinine clearance range 11-107 ml/min) did 
 Elderly patients
 In a population pharmacokinetic evaluation in cancer patients, no significant influence of age
 (27-85 years) on oral clearance of everolimus was detected.
-
 Ethnicity
 Oral clearance (CL/F) is similar in Japanese and Caucasian cancer patients with similar liver functions.
 Based on analysis of population pharmacokinetics, oral clearance (CL/F) is on average 20% higher in black transplant patients.
