@@ -34,9 +34,8 @@ Elderly patients
 No dose adjustment is necessary for elderly patients.
 
 Paediatric population
-
-The safety and efficacy of Micardis in children and adolescents aged below 18 have not been established.
-No data are available.
+The safety and efficacy of Micardis in children and adolescents aged below 18 years have not been established.
+Currently available data are described in section 5.1 and 5.2 but no recommendation on a posology can be made.
 
 Method of administration
 

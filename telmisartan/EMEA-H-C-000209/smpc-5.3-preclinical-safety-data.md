@@ -9,5 +9,4 @@ In both species, increased plasma renin activity and hypertrophy/hyperplasia of 
 These changes, also a class effect of angiotensin converting enzyme inhibitors and other angiotensin II receptor antagonists, do not appear to have clinical significance.
 
 No clear evidence of a teratogenic effect was observed, however at toxic dose levels of telmisartan an effect on the postnatal development of the offsprings such as lower body weight and delayed eye opening was observed.
-
 There was no evidence of mutagenicity and relevant clastogenic activity in in vitro studies and no evidence of carcinogenicity in rats and mice.

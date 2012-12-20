@@ -2,7 +2,6 @@
 
 As with other medicinal products acting on the renin-angiotensin-aldosterone system, telmisartan may provoke hyperkalaemia (see section 4.4).
 The risk may increase in case of treatment combination with other medicinal products that may also provoke hyperkalaemia (salt substitutes containing potassium, potassium-sparing diuretics, ACE inhibitors, angiotensin II receptor antagonists, non steroidal anti-inflammatory medicinal products (NSAIDs, including selective COX-2 inhibitors), heparin, immunosuppressives (cyclosporin or tacrolimus), and trimethoprim).
-
 The occurrence of hyperkalaemia depends on associated risk factors.
 The risk is increased in case of the above-mentioned treatment combinations.
 The risk is particularly high in combination with potassium sparing-diuretics, and when combined with salt substitutes containing potassium.
@@ -45,6 +44,7 @@ The blood pressure lowering effect of telmisartan can be increased by concomitan
 
 Based on their pharmacological properties it can be expected that the following medicinal products may potentiate the hypotensive effects of all antihypertensives including telmisartan: Baclofen, amifostine.
 Furthermore, orthostatic hypotension may be aggravated by alcohol, barbiturates, narcotics, or antidepressants.
+
 Corticosteroïds (systemic route)
 
 Reduction of the antihypertensive effect.

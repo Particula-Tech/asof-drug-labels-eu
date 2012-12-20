@@ -3,7 +3,6 @@
 Summary of the safety profile
 
 Serious adverse drug reactions include anaphylactic reaction and angioedema which may occur rarely (≥1/10,000 to <1/1,000) , and acute renal failure.
-
 The overall incidence of adverse reactions reported with telmisartan was usually comparable to placebo (41,4% vs 43.9 %) in controlled trials in patients treated for hypertension.
 The incidence of adverse reactions was not dose related and showed no correlation with gender, age or race of the patients.
 The safety profile of telmisartan in patients treated for the reduction of cardiovascular morbidity was consistent with that obtained in hypertensive patients.
@@ -37,7 +36,6 @@ Rare: Anaphylactic reaction, hypersensitivity
 Metabolism and nutrition disorders
 
 Uncommon: Hyperkalaemia
-
 Rare: Hypoglycaemia (in diabetic patients)
 
 Psychiatric disorders
@@ -48,7 +46,6 @@ Rare: Anxiety
 Nervous system disorders
 
 Uncommon: Syncope
-
 Rare: Somnolence
 
 Eye disorders
@@ -112,7 +109,9 @@ Rare: Haemoglobin decreased, blood uric acid increased, hepatic enzyme
 
 increased, blood creatine phosphokinase increased
 
-1,2,3,4: for further descriptions, please see sub-section “Description of selected adverse reactions” Description of selected adverse reactions
+1,2,3,4: for further descriptions, please see sub-section “Description of selected adverse reactions”
+
+Description of selected adverse reactions
 
 Sepsis
 In the PRoFESS trial, an increased incidence of sepsis was observed with telmisartan compared with placebo.
@@ -146,10 +145,6 @@ urticaria, drug eruption, toxic skin eruption
 Rare: Haemoglobin decreased, blood uric acid increased, hepatic
 
 enzyme increased, blood creatine phosphokinase increased
-
-1,2,3,4: for further descriptions, please see sub-section “Description of selected adverse reactions”
-
-Description of selected adverse reactions
 
 [Micardis 80 mg tablets]
 
