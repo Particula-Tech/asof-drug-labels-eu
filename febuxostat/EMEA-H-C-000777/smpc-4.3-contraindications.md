@@ -1,3 +1,3 @@
 # 4.3 Contraindications
 
-Hypersensitivity to the active substance or to any of the excipients (see sections 4.8 and 6.1).
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1 (see also section 4.8).

@@ -3,7 +3,7 @@
 Each tablet contains 80 mg of febuxostat.
 
 Excipient(s) with known effects:
-Each tablet contains 76.50 mg of lactose monohydrate
+Each tablet contains 76.50 mg of lactose (as monohydrate)
 
 For the full list of excipients, see section 6.1.
 
@@ -11,4 +11,4 @@ For the full list of excipients, see section 6.1.
 
 Each tablet contains 120 mg of febuxostat.
 
-Each tablet contains 114.75mg of lactose monohydrate
+Each tablet contains 114.75 mg of lactose (as monohydrate)

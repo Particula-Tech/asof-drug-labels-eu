@@ -13,12 +13,12 @@ Although interaction studies have not been performed with febuxostat, inhibition
 Hence caution is advised if these active substances are given concomitantly, and theophylline levels should be monitored in patients starting febuxostat therapy.
 
 Naproxen and other inhibitors of glucuronidation
-Febuxostat metabolism depends on UGT enzymes.
+Febuxostat metabolism depends on Uridine Glucuronosyl Transferase (UGT) enzymes.
 Medicinal products that inhibit glucuronidation, such as NSAIDs and probenecid, could in theory affect the elimination of febuxostat.
-In healthy subjects concomitant use of febuxostat and naproxen 250mg BID was associated with an increase in febuxostat exposure (Cmax 28%, AUC 41% and t1/2 26%).
+In healthy subjects concomitant use of febuxostat and naproxen 250 mg twice daily was associated with an increase in febuxostat exposure (Cmax 28%, AUC 41% and t1/2 26%).
 In clinical studies the use of naproxen or other NSAIDs/Cox-2 inhibitors was not related to any clinically significant increase in adverse events.
-
 Febuxostat can be co-administered with naproxen with no dose adjustment of febuxostat or naproxen being necessary.
+
 Inducers of glucuronidation
 Potent inducers of UGT enzymes might possibly lead to increased metabolism and decreased efficacy of febuxostat.
 Monitoring of serum uric acid is therefore recommended 1-2 weeks after start of treatment with a potent inducer of glucuronidation.
@@ -33,7 +33,7 @@ No dose adjustment is necessary for warfarin when administered with febuxostat.
 Administration of febuxostat (80 mg or 120 mg once daily) with warfarin had no effect on the pharmacokinetics of warfarin in healthy subjects.
 INR and Factor VII activity were also not affected by the co-administration of febuxostat.
 
-Desipramine/CYP2D6 substrates.
+Desipramine/CYP2D6 substrates
 Febuxostat was shown to be a weak inhibitor of CYP2D6 in vitro.
 In a study in healthy subjects,
 120 mg ADENURIC QD resulted in a mean 22% increase in AUC of desipramine, a CYP2D6 substrate indicating a potential weak inhibitory effect of febuxostat on the CYP2D6 enzyme in vivo.
@@ -42,3 +42,7 @@ Thus, co-administration of febuxostat with other CYP2D6 substrates is not expect
 Antacids
 Concomitant ingestion of an antacid containing magnesium hydroxide and aluminium hydroxide has been shown to delay absorption of febuxostat (approximately 1 hour) and to cause a 32% decrease in Cmax, but no significant change in AUC was observed.
 Therefore, febuxostat may be taken without regard to antacid use.
+
+[ADENURIC 120 mg film-coated tablets]
+
+In healthy subjects concomitant use of febuxostat and naproxen 250mg twice daily was associated with an increase in febuxostat exposure (Cmax 28%, AUC 41% and t1/2 26%).
