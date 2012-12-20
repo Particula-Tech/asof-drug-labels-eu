@@ -11,6 +11,10 @@ About two-thirds of the patients showing serum creatinine increase returned belo
 In the remaining third the serum creatinine increase did not always respond to a dose reduction or a dose interruption.
 Indeed, in some cases, only a stabilisation of the serum creatinine values has been observed after dose reduction (see section 4.4).
 
+In a 1-year, randomised, double-blind, placebo-controlled study in patients with non-transfusion-dependent thalassaemia syndromes and iron overload, diarrhoea (9.1%), rash (9.1%), and nausea (7.3%) were the most frequent study drug-related adverse events reported by patients receiving 10 mg/kg/day of EXJADE.
+Abnormal serum creatinine and creatinine clearance values were reported in 5.5% and 1.8%, respectively, of patients receiving 10 mg/kg/day of EXJADE.
+Elevations of liver transaminases greater than 2 times the baseline and 5 times the upper limit of normal were reported in 1.8% of patients treated with 10 mg/kg/day of EXJADE.
+
 Tabulated list of adverse reactions
 Adverse reactions are ranked below using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
@@ -84,6 +88,7 @@ Uncommon: Pyrexia, oedema, fatigue
 
 1 Adverse reactions reported during postmarketing experience.
 These are derived from spontaneous reports for which it is not always possible to reliably establish frequency or a causal relationship to exposure to the medicinal product.
+
 Gallstones and related biliary disorders were reported in about 2% of patients.
 Elevations of liver transaminases were reported as an adverse reaction in 2% of patients.
 Elevations of transaminases greater than 10 times the upper limit of the normal range, suggestive of hepatitis, were uncommon (0.3%).

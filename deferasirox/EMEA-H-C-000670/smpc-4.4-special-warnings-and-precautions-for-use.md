@@ -15,11 +15,11 @@ The causes of the rises in serum creatinine have not been elucidated.
 Particular attention should therefore be paid to monitoring of serum creatinine in patients who are concomitantly receiving medicinal products that depress renal function, and in patients who are receiving high doses of EXJADE and/or low rates of transfusion (<7 ml/kg/month of packed red blood cells or
 <2 units/month for an adult).
 While no increase in renal adverse events was observed after dose escalation to doses above 30 mg/kg in clinical trials, an increased risk of renal adverse events with EXJADE doses above 30 mg/kg cannot be excluded.
+
 It is recommended that serum creatinine be assessed in duplicate before initiating therapy.
 Serum creatinine, creatinine clearance (estimated with the Cockcroft-Gault or MDRD formula in adults and with the Schwartz formula in children) and/or plasma cystatin C levels should be monitored weekly in the first month after initiation or modification of therapy with EXJADE, and monthly thereafter.
 Patients with pre-existing renal conditions and patients who are receiving medicinal products that depress renal function may be more at risk of complications.
 Care should be taken to maintain adequate hydration in patients who develop diarrhoea or vomiting.
-
 For adult patients, the daily dose may be reduced by 10 mg/kg if a rise in serum creatinine by >33% above the average of the pre-treatment measurements and estimated creatinine clearance decreases below the lower limit of the normal range (<90 ml/min) are seen at two consecutive visits, and cannot be attributed to other causes (see section 4.2).
 For paediatric patients, the dose may be reduced by 10 mg/kg if estimated creatinine clearance decreases below the lower limit of the normal range
 (<90 ml/min) and/or serum creatinine levels rise above the age-appropriate upper limit of normal at two consecutive visits.
@@ -46,10 +46,14 @@ If there is a persistent and progressive increase in serum transaminase levels t
 Once the cause of the liver function test abnormalities has been clarified or after return to normal levels, cautious re-initiation of treatment at a lower dose followed by gradual dose escalation may be considered.
 
 EXJADE is not recommended in patients with severe hepatic impairment (Child-Pugh Class C) (see section 5.2).
+
 In patients with a short life expectancy (e.g. high-risk myelodysplastic syndromes), especially when co-morbidities could increase the risk of adverse events, the benefit of EXJADE might be limited and may be inferior to risks.
 As a consequence, treatment with EXJADE is not recommended in these patients.
 
 Caution should be used in elderly patients due to a higher frequency of adverse reactions (in particular, diarrhoea).
+Data in children with non-transfusion-dependent thalassaemia are very limited (see section 5.1).
+As a consequence, EXJADE therapy should be closely monitored to detect side effects and to follow iron burden in the paediatric population.
+In addition, before treating heavily iron-overloaded children with non-transfusion-dependent thalassaemia with EXJADE, the physician should be aware that the consequences of long-term exposure in such patients are currently not known.
 
 Gastrointestinal
 Upper gastrointestinal ulceration and haemorrhage have been reported in patients, including children and adolescents, receiving EXJADE.
@@ -81,7 +85,7 @@ Interruption of treatment should be considered in patients who develop unexplain
 
 Other considerations
 Monthly monitoring of serum ferritin is recommended in order to assess the patient’s response to therapy (see section 4.2).
-If serum ferritin falls consistently below 500 µg/l, an interruption of treatment should be considered.
+If serum ferritin falls consistently below 500 µg/l (in transfusional iron overload) or below 300 µg/l (in non-transfusion-dependent thalassaemia syndromes), an interruption of treatment should be considered.
 
 The results of the tests for serum creatinine, serum ferritin and serum transaminases should be recorded and regularly assessed for trends.
 The results should also be noted in the provided patient’s booklet.

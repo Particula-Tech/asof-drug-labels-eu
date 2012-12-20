@@ -8,3 +8,5 @@ EXJADE is also indicated for the treatment of chronic iron overload due to blood
 - in patients with beta thalassaemia major with iron overload due to frequent blood transfusions (≥7 ml/kg/month of packed red blood cells) aged 2 to 5 years,
 - in patients with beta thalassaemia major with iron overload due to infrequent blood transfusions (<7 ml/kg/month of packed red blood cells) aged 2 years and older,
 - in patients with other anaemias aged 2 years and older.
+
+EXJADE is also indicated for the treatment of chronic iron overload requiring chelation therapy when deferoxamine therapy is contraindicated or inadequate in patients with non-transfusion-dependent thalassaemia syndromes aged 10 years and older.

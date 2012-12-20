@@ -5,7 +5,7 @@ Each dispersible tablet contains 125 mg deferasirox.
 Excipient:
 Each dispersible tablet contains 136 mg lactose.
 
-For a full list of excipients, see section 6.1.
+For the full list of excipients, see section 6.1.
 
 [EXJADE 250 mg dispersible tablets]
 
