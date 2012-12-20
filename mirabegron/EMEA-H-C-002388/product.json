@@ -1,0 +1,16 @@
+{
+  "active_substance": "mirabegron",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/002388",
+  "eu_number": "EU/1/12/809",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2012-12-20",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/betmiga",
+  "molecule": "mirabegron",
+  "molecule_name": "MIRABEGRON",
+  "name": "Betmiga",
+  "register_name": "Betmiga",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h809.htm"
+}
