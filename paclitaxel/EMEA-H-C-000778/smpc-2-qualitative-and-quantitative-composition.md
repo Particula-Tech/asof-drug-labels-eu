@@ -1,11 +1,10 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each vial contains 100 mg of paclitaxel (as paclitaxel albumin).
+Each vial contains 100 mg of paclitaxel formulated as albumin bound nanoparticles.
 
-After reconstitution, each ml of suspension contains 5 mg of paclitaxel (as paclitaxel albumin).
+After reconstitution, each ml of suspension contains 5 mg of paclitaxel formulated as albumin bound nanoparticles.
 
-Excipients
-
+Excipients with known effect
 The reconstituted medicinal product contains approximately 425 mg sodium per dose.
 
-For a full list of excipients, see section 6.1.
+For the full list of excipients, see section 6.1.
