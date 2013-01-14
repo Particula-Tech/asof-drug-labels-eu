@@ -27,3 +27,7 @@ Exelon oral solution should be used within 1 month of opening the bottle.
 [Exelon 9.5 mg/24 h transdermal patch]
 
 (all sentences already above)
+
+[Exelon 13.3 mg/24 h transdermal patch]
+
+(all sentences already above)

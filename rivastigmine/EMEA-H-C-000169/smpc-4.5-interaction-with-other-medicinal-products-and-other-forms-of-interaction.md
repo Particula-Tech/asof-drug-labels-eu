@@ -30,7 +30,7 @@ According to its metabolism, metabolic interactions with other medicinal product
 
 [Exelon 4.6 mg/24 h transdermal patch]
 
-No specific interaction studies have been conducted with Exelon transdermal patches.
+No specific interaction studies have been performed with Exelon transdermal patches.
 
 No pharmacokinetic interaction was observed between oral rivastigmine and digoxin, warfarin, diazepam or fluoxetine in studies in healthy volunteers.
 The increase in prothrombin time induced by warfarin is not affected by administration of oral rivastigmine.
@@ -39,5 +39,9 @@ No untoward effects on cardiac conduction were observed following concomitant ad
 Concomitant administration of rivastigmine with commonly prescribed medicinal products, such as antacids, antiemetics, antidiabetics, centrally acting antihypertensives, beta blockers, calcium channel blockers, inotropic agents, antianginals, non-steroidal anti-inflammatory agents, oestrogens, analgesics, benzodiazepines and antihistamines, was not associated with an alteration in the kinetics of rivastigmine or an increased risk of clinically relevant untoward effects.
 
 [Exelon 9.5 mg/24 h transdermal patch]
+
+(all sentences already above)
+
+[Exelon 13.3 mg/24 h transdermal patch]
 
 (all sentences already above)

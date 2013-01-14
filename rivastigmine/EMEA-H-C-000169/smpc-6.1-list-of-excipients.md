@@ -35,7 +35,7 @@ Backing layer:
 - polyethylene terephthalate film, lacquered.
 Medicinal product matrix:
 - alpha-tocopherol,
-- poly(butylmethacrylate, methyl-methacrylate),
+- poly(butylmethacrylate, methylmethacrylate),
 - acrylic copolymer.
 Adhesive matrix:
 - silicone oil,
@@ -44,5 +44,9 @@ Release liner:
 - polyester film, fluoropolymer-coated.
 
 [Exelon 9.5 mg/24 h transdermal patch]
+
+(all sentences already above)
+
+[Exelon 13.3 mg/24 h transdermal patch]
 
 (all sentences already above)

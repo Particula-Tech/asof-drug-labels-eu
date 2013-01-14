@@ -25,3 +25,7 @@ To prevent interference with the adhesive properties of the transdermal patch, n
 [Exelon 9.5 mg/24 h transdermal patch]
 
 (all sentences already above)
+
+[Exelon 13.3 mg/24 h transdermal patch]
+
+(all sentences already above)

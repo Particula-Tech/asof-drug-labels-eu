@@ -23,9 +23,14 @@ Therefore, the ability of patients with dementia on rivastigmine to continue dri
 
 [Exelon 4.6 mg/24 h transdermal patch]
 
+Alzheimer’s disease may cause gradual impairment of driving performance or compromise the ability to use machines.
 Furthermore, rivastigmine may induce syncope or delirium.
 Therefore, in patients with dementia treated with rivastigmine, the ability to continue driving or operating complex machines should be routinely evaluated by the treating physician.
 
 [Exelon 9.5 mg/24 h transdermal patch]
+
+(all sentences already above)
+
+[Exelon 13.3 mg/24 h transdermal patch]
 
 (all sentences already above)

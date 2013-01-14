@@ -32,3 +32,7 @@ The outside of the backing layer is beige and labelled with “Exelon”, “4.6
 [Exelon 9.5 mg/24 h transdermal patch]
 
 The outside of the backing layer is beige and labelled with “Exelon”, “9.5 mg/24 h” and “BHDI”.
+
+[Exelon 13.3 mg/24 h transdermal patch]
+
+The outside of the backing layer is beige and labelled with “Exelon”, “13.3 mg/24 h” and “CNFU”.

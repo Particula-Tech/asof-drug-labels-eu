@@ -30,3 +30,7 @@ EU/1/98/066/019-022
 [Exelon 9.5 mg/24 h transdermal patch]
 
 EU/1/98/066/023-026
+
+[Exelon 13.3 mg/24 h transdermal patch]
+
+EU/1/98/066/027-030

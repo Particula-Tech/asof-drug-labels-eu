@@ -1,7 +1,7 @@
 # 6.5 Nature and contents of container
 
 - Blister of clear PVC tray with blue lidding foil with 14 capsules.
-  Each box contains 2, 4 or 8 blisters.
+  Each box contains 28, 56 or 112 capsules.
 - HDPE bottles with plastic closure with induction innerseal.
   Each bottle contains 250 capsules.
 
@@ -27,15 +27,15 @@ The oral solution is packaged with an oral dosing syringe in a plastic tube cont
 
 [Exelon 4.6 mg/24 h transdermal patch]
 
-Primary packaging material
 Each child-resistant sachet is made of a paper/polyester/aluminium/polyacrylonitrile multilaminated material.
 One sachet contains one transdermal patch.
 
-Secondary packaging material
-The sachets are packed in a carton.
-Available in packs containing 7 or 30 sachets and in multipacks containing 60 (2x 30) or
-90 (3x 30) sachets.
+Available in packs containing 7 or 30 sachets and in multipacks containing 60 or 90 sachets.
 
 [Exelon 9.5 mg/24 h transdermal patch]
+
+(all sentences already above)
+
+[Exelon 13.3 mg/24 h transdermal patch]
 
 (all sentences already above)

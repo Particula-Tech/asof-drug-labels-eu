@@ -26,3 +26,7 @@ Any used or unused transdermal patches should be disposed of in accordance with 
 [Exelon 9.5 mg/24 h transdermal patch]
 
 (all sentences already above)
+
+[Exelon 13.3 mg/24 h transdermal patch]
+
+(all sentences already above)

@@ -1,8 +1,10 @@
 # 4.8 Undesirable effects
 
-The most commonly reported adverse reactions are gastrointestinal, including nausea (38%) and vomiting (23%), especially during titration.
+Summary of the safety profile
+The most commonly reported adverse reactions (ADRs) are gastrointestinal, including nausea (38%) and vomiting (23%), especially during titration.
 Female patients in clinical studies were found to be more susceptible than male patients to gastrointestinal adverse reactions and weight loss.
 
+Tabulated list of adverse reactions
 Adverse reactions in Table 1 and Table 2 are listed according to MedDRA system organ class and frequency category.
 Frequency categories are defined using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
 
@@ -74,7 +76,7 @@ Skin and subcutaneous tissue disorders
 
 Common Hyperhydrosis
 Rare Rash
-Not known Pruritus
+Not known Pruritus, disseminated cutaneous hypersensitivity reactions
 
 General disorders and administration site conditions
 
@@ -86,7 +88,8 @@ Investigations
 
 Common Weight loss
 
-The following additional adverse reactions have been observed with Exelon transdermal patches: delirium, pyrexia (common).
+The following additional adverse reactions have been observed with Exelon transdermal patches: delirium, pyrexia, decreased appetite, urinary incontinence (common), psychomotor hyperactivity (uncommon), erythema, urticaria, vesicles, allergic dermatitis (not known).
+
 Table 2 shows the adverse reactions reported during clinical studies conducted in patients with dementia associated with Parkinson’s disease treated with Exelon capsules.
 
 Table 2
@@ -145,6 +148,7 @@ Not known Hepatitis
 Skin and subcutaneous tissue disorders
 
 Common Hyperhydrosis
+Not known Disseminated cutaneous hypersensitivity reactions
 
 General disorders and administration site conditions
 
@@ -153,7 +157,8 @@ Common Fatigue and asthenia
 Common Gait disturbance
 Common Parkinson gait
 
-The following additional adverse reactions have been observed in a study of patients with dementia associated with Parkinson’s disease treated with Exelon transdermal patches: agitation, depression (common).
+The following additional adverse reaction has been observed in a study of patients with dementia associated with Parkinson’s disease treated with Exelon transdermal patches: agitation (common).
+
 Table 3 lists the number and percentage of patients from the specific 24-week clinical study conducted with Exelon in patients with dementia associated with Parkinson’s disease with pre-defined adverse events that may reflect worsening of parkinsonian symptoms.
 
 Table 3
@@ -181,19 +186,24 @@ Table 3
 
 [Exelon 4.6 mg/24 h transdermal patch]
 
-The overall incidence of adverse events (AEs) in patients treated with Exelon 9.5 mg/24 h transdermal patches was lower than the rate in patients who received 3 to 12 mg/day Exelon capsule treatment (50.5% with Exelon 9.5 mg/24 h transdermal patches vs 63.3% with Exelon capsules; 46.0% of patients on placebo reported AEs).
-Gastrointestinal adverse reactions, including nausea and vomiting, were the most common adverse reactions in patients who received active treatment, and occurred at a substantially lower rate in the Exelon 9.5 mg/24 h transdermal patch group compared to the Exelon capsule group (7.2% vs 23.1% for nausea and 6.2% vs 17.0% for vomiting; 5.0% and 3.3% of patients on placebo reported nausea and vomiting, respectively).
+Application site skin reactions (usually mild to moderate application site erythema), are the most frequent adverse reactions observed with the use of Exelon transdermal patch.
+The next most common adverse reactions are gastrointestinal in nature including nausea and vomiting.
 
-Table 1 displays the adverse reactions (events reasonably believed to be causally related to the medicinal product) reported in 291 patients with Alzheimer’s dementia treated in a specific 24-week double-blind, placebo and active-controlled clinical study with Exelon transdermal patches at target dose of 9.5 mg/24 h (4.6 mg/24 h titrated to 9.5 mg/24 h).
+Adverse reactions in Table 1 are listed according to MedDRA system organ class and frequency category.
+
+Table 1 displays the adverse reactions reported in 854 patients with Alzheimer’s dementia treated in randomised, double-blind, placebo and active-controlled clinical studies with Exelon transdermal patches for a duration of 24-48 weeks and from post-marketing data.
 
 Common Urinary tract infection
 
-Common Anorexia
+Common Anorexia, decreased appetite
+Uncommon Dehydration
 
-Common Anxiety, depression, delirium
-Not known Hallucinations, aggression, restlessness
+Common Anxiety, depression, delirium, agitation
+Uncommon Aggression
+Not known Hallucinations, restlessness
 
-Common Headache, syncope
+Common Headache, syncope, dizziness
+Uncommon Psychomotor hyperactivity
 Very rare Extrapyramidal symptoms
 Not known Worsening of Parkinson’s disease, seizure
 
@@ -211,39 +221,44 @@ Not known Pancreatitis
 Not known Hepatitis, elevated liver function tests
 
 Common Rash
-Not known Pruritus, erythema, urticaria, vesicles, allergic dermatitis
+Not known Pruritus, erythema, urticaria, vesicles, allergic dermatitis, disseminated
+
+cutaneous hypersensitivity reactions
+Renal and urinary disorders
+
+Common Urinary incontinence
 
 Common Application site skin reactions (e.g. application site erythema,
 
 application site pruritus, application site oedema, application site dermatitis, application site irritation), asthenic conditions (e.g. fatigue, asthenia), pyrexia, weight decreased
 
-Not known Fall
+Rare Fall
 
-When doses higher than 9.5 mg/24 h were used in the above-mentioned study, dizziness, insomnia, agitation, decreased appetite, atrial fibrillation and cardiac failure were observed more frequently than with 9.5 mg/24 h or placebo, suggesting a dose effect relationship.
-However, these events did not occur at a higher frequency with Exelon 9.5 mg/24 h transdermal patches than with placebo.
-Table 2 shows the most frequent adverse reactions reported during a 76-week period in an open-label clinical study conducted with Exelon transdermal patches in patients with dementia associated with Parkinson’s disease.
+Description of selected adverse reactions
+When doses higher than 13.3 mg/24 h were used in the above-mentioned placebo-controlled study, insomnia and cardiac failure were observed more frequently than with 13.3 mg/24 h or placebo, suggesting a dose effect relationship.
+However, these events did not occur at a higher frequency with Exelon 13.3 mg/24 h transdermal patches than with placebo.
 
-Common Aggression
+The following adverse reactions have only been observed with Exelon capsules and oral solution and not in clinical studies with Exelon transdermal patches: somnolence, malaise, tremor, confusion, sweating increased (common); duodenal ulcers, angina pectoris (rare); gastrointestinal haemorrhage (very rare); and some cases of severe vomiting were associated with oesophageal rupture (not known).
 
-Common Weight decrease
-
-Common Abdominal pain
-
-Very common Application site erythema
-Common Application site irritation, pruritus, rash
-Common Fatigue
-Common Asthenia
-
-In patients with dementia associated with Parkinson’s disease, the following common adverse reactions have only been observed with Exelon capsules and not with Exelon transdermal patches: nausea, vomiting (very common); decreased appetite, restlessness, headache, worsening of Parkinson’s disease, bradycardia, diarrhoea, dyspepsia, salivary hypersecretion, sweating increased (common); dystonia, atrial fibrillation, atrioventricular block (uncommon).
-
-The following adverse reactions have only been observed with Exelon capsules and oral solution and not in clinical studies with Exelon 9.5 mg/24 h transdermal patches: Dizziness (very common); agitation, somnolence, malaise, tremor, confusion, sweating increased (common); insomnia, accidental fall, elevated liver function tests (uncommon); seizures, duodenal ulcers, angina pectoris (rare); cardiac arrhythmia (e.g. atrio-ventricular block, atrial fibrillation and tachycardia), hypertension, pancreatitis, gastrointestinal haemorrhage, hallucination (very rare); and some cases of severe vomiting were associated with oesophageal rupture (not known).
 Skin irritation
-In clinical trials, skin reactions were measured at each visit using a skin irritation rating scale that rated the degree of erythema, oedema, scaling, fissures, pruritus and pain/stinging/burning at the application site.
+In a 24-week double-blind, placebo-controlled clinical trial, skin reactions were measured at each visit using a skin irritation rating scale that rated the degree of erythema, oedema, scaling, fissures, pruritus and pain/stinging/burning at the application site.
 The most commonly observed symptom was erythema which disappeared within 24 hours in the vast majority of patients.
-In a 24-week double-blind study, the most commonly observed symptoms (skin irritation rating scale) with Exelon 9.5 mg/24 h transdermal patches were very slight (21.8%), mild (12.5%) or moderate (6.5%) erythema or very slight (11.9%), mild (7.3%) or moderate (5.0%) pruritus.
+In the 24-week double-blind study, the most commonly observed symptoms (skin irritation rating scale) with Exelon 9.5 mg/24 h transdermal patches were very slight (21.8%), mild (12.5%) or moderate (6.5%) erythema or very slight (11.9%), mild (7.3%) or moderate (5.0%) pruritus.
 The most commonly observed severe symptoms with Exelon 9.5 mg/24 h transdermal patches were pruritus (1.7%) and erythema (1.1%).
 Most skin reactions were limited to the application site and resulted in discontinuation in only 2.4% of the patients in the Exelon 9.5 mg/24 h transdermal patch group.
 
+In a 48-week active-controlled clinical trial, cases of skin irritation were captured as patient or caregiver reported adverse reactions.
+The most commonly reported skin irritation events during the first 24 weeks of the double-blind period with Exelon 13.3 mg/24 h transdermal patches and Exelon 9.5 mg/24 h transdermal patches, respectively were application site erythema (5.7% vs 4.6%) and application site pruritus (3.6% vs 2.8%).
+The percentages decreased in both Exelon 13.3 mg/24 h transdermal patch and Exelon 9.5 mg/24 h transdermal patch treatment groups over time (>24 weeks): application site erythema (0.8% vs. 1.6%) and application site pruritus (0.4% vs. 1.2%), respectively.
+Application site pruritus led to discontinuation in 1.1% of the patients from each of the treatment groups during the total 48-week double-blind treatment phase.
+Application site reactions were mostly mild to moderate in severity and were rated as severe in less than 2% of patients.
+
+A direct comparison of the rate of skin irritation events reported in each of these studies cannot be made due to the difference in data collection methods employed.
+
 [Exelon 9.5 mg/24 h transdermal patch]
 
-In patients with dementia associated with Parkinson’s disease, the following common adverse reactions have only been observed with Exelon capsules and not with Exelon transdermal patches: nausea, vomiting (very common);decreased appetite, restlesness, headache, worsening of Parkinson’s disease, bradycardia, diarrhoea, dyspepsia, salivary hypersecretion, sweating increased (common); dystonia, atrial fibrillation, atrioventricular block (uncommon).
+(all sentences already above)
+
+[Exelon 13.3 mg/24 h transdermal patch]
+
+(all sentences already above)

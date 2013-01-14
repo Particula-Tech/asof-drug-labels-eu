@@ -25,3 +25,7 @@ Exelon 4.6 mg/24 h transdermal patch
 [Exelon 9.5 mg/24 h transdermal patch]
 
 Exelon 9.5 mg/24 h transdermal patch
+
+[Exelon 13.3 mg/24 h transdermal patch]
+
+Exelon 13.3 mg/24 h transdermal patch
