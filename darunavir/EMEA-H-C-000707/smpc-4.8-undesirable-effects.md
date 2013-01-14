@@ -173,3 +173,7 @@ Among 1,968 treatment-experienced patients receiving PREZISTA co-administered wi
 [PREZISTA 600 mg film-coated tablets]
 
 ARIEL evaluated 21 ART-experienced HIV-1 infected paediatric patients aged from 3 to< 6 years and weighing 10 kg to < 20 kg (16 participants from 15 kg to < 20 kg) who received PREZISTA oral suspension with low dose ritonavir in combination with other antiretroviral agents (see section 5.1).
+
+[PREZISTA 800 mg film-coated tablets]
+
+(all sentences already above)

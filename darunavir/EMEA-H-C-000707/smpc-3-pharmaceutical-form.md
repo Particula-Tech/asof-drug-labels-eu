@@ -24,3 +24,7 @@ Light orange oval shaped tablet of 19.1 mm, debossed with “400MG” on one sid
 [PREZISTA 600 mg film-coated tablets]
 
 Orange oval shaped tablet of 21.1 mm, debossed with “600MG” on one side and “TMC” on the other side.
+
+[PREZISTA 800 mg film-coated tablets]
+
+Dark red oval shaped tablet of 20.0 mm, debossed with “800” on one side and “T” on the other side.

@@ -42,3 +42,7 @@ Co-administration with herbal preparations containing St John’s wort (Hypericu
 [PREZISTA 600 mg film-coated tablets]
 
 (all sentences already above)
+
+[PREZISTA 800 mg film-coated tablets]
+
+(all sentences already above)

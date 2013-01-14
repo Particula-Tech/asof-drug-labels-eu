@@ -7,7 +7,7 @@ PREZISTA oral suspension is available in packs of one bottle.
 [PREZISTA 75 mg film-coated tablets]
 
 Opaque, white, high density polyethylene (HDPE) plastic, 160 ml bottle containing 480 tablets, fitted with polypropylene (PP) child resistant closure.
-One bottle
+Pack size of one bottle.
 
 [PREZISTA 150 mg film-coated tablets]
 
@@ -24,3 +24,7 @@ Opaque, white, high density polyethylene (HDPE) plastic, 160 ml bottle containin
 [PREZISTA 600 mg film-coated tablets]
 
 (all sentences already above)
+
+[PREZISTA 800 mg film-coated tablets]
+
+Opaque, white, high density polyethylene (HDPE) plastic, 75 ml bottle containing 30 tablets, fitted with polypropylene (PP) child resistant closure.

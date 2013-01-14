@@ -191,7 +191,7 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 [PREZISTA 75 mg film-coated tablets]
 
-For clinical trial results in ART-naïve adult patients, refer to the Summary of Product Characteristics for PREZISTA 400 mg tablets or 100 mg/ml oral suspension.
+For clinical trial results in ART-naïve adult patients, refer to the Summary of Product Characteristics for PREZISTA 400 mg and 800 mg tablets or 100 mg/ml oral suspension.
 
 [PREZISTA 150 mg film-coated tablets]
 
@@ -224,5 +224,9 @@ Efficacy of PREZISTA 800 mg once daily co-administered with 100 mg ritonavir onc
 For additional clinical study results in ART-experienced adults and paediatric patients, refer to the Summary of Product Characteristics for PREZISTA 75 mg, 150 mg, 300 mg or 600 mg tablets.
 
 [PREZISTA 600 mg film-coated tablets]
+
+(all sentences already above)
+
+[PREZISTA 800 mg film-coated tablets]
 
 (all sentences already above)

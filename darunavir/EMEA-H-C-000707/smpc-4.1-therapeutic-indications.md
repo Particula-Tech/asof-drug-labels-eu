@@ -35,3 +35,7 @@ PREZISTA 400 mg tablets may be used to provide suitable dose regimens (see secti
 PREZISTA 600 mg tablets may be used to provide suitable dose regimens (see section 4.2):
 
 - For the treatment of HIV-1 infection in ART-experienced paediatric patients from the age of 3 years and at least 40 kg body weight.
+
+[PREZISTA 800 mg film-coated tablets]
+
+PREZISTA 800 mg tablets may be used to provide suitable dose regimens (see section 4.2):

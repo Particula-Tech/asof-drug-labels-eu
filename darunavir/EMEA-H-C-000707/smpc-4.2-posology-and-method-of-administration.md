@@ -35,7 +35,7 @@ The recommended dose of PREZISTA with low dose ritonavir should not exceed the r
 a ritonavir oral solution: 80 mg/ml
 
 PREZISTA oral suspension can be used in patients unable to swallow PREZISTA tablets.
-PREZISTA is also available as 75 mg, 150 mg, 300 mg, 400 mg and 600 mg film-coated tablets.
+PREZISTA is also available as 75 mg, 150 mg, 300 mg, 400 mg, 600 mg and 800 mg film-coated tablets.
 
 Advice on missed doses
 The following guidance is based on the 15 hour half-life of darunavir in the presence of ritonavir and the recommended dosing interval of approximately 12 hours (twice daily regimen) or approximately 24 hours (once daily regimen).
@@ -78,9 +78,9 @@ PREZISTA is also available as an oral suspension for use in patients who are una
 
 The use of 75 mg tablets to achieve the recommended dose is appropriate when there is a possibility of hypersensitivity to specific colouring agents, or difficulty in swallowing the 300 mg or 600 mg tablets.
 
-- For ART-experienced adults with no darunavir resistance associated mutations (DRV-RAMs)* and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count ≥100 cells x 106/l, a dose regimen of 800 mg once daily with ritonavir 100 mg once daily taken with food may be used (see the Summary of Product Characteristics for PREZISTA 400 mg tablets).
+- For ART-experienced adults with no darunavir resistance associated mutations (DRV-RAMs)* and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count ≥100 cells x 106/l, a dose regimen of 800 mg once daily with ritonavir 100 mg once daily taken with food may be used (see the Summary of Product Characteristics for PREZISTA 400 mg and 800 mg tablets).
 
-For dosage recommendations in ART-naïve patients see the Summary of Product Characteristics for PREZISTA 400 mg tablets.
+For dosage recommendations in ART-naïve patients see the Summary of Product Characteristics for PREZISTA 400 mg and 800 mg tablets.
 
 | Recommended dose for treatment-experienced paediatric patients (3 to 17 years of age) for PREZISTA tablets and ritonavir |  |
 | --- | --- |
@@ -115,11 +115,13 @@ For paediatric patients weighing less than 40 kg, please also refer to the PREZI
 
 [PREZISTA 400 mg film-coated tablets]
 
+PREZISTA 400 mg tablets can be used to construct the once daily 800 mg regimen.
+
 The recommended dose regimens are as follows:
 
 - In ART-experienced patients with no darunavir resistance associated mutations (DRV-RAMs)* and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count ≥100 cells x 106/l (see section 4.1) a regimen of 800 mg once daily with ritonavir 100 mg once daily taken with food may be used.
 - In all other ART-experienced patients or if HIV-1 genotype testing is not available, the recommended dose regimen is 600 mg twice daily taken with ritonavir 100 mg twice daily taken with food.
-  See the Summary of Product Characteristics for PREZISTA 75 mg, 150 mg, 300 mg, or 600 mg tablets.
+  See the Summary of Product Characteristics for PREZISTA 75 mg, 150 mg, 300 mg or 600 mg tablets.
 
 * DRV-RAMs: V11I, V32I, L33F, I47V, I50V, I54M, I54L, T74P, L76V, I84V, L89V
 
@@ -140,3 +142,7 @@ The use of 75 and 150 mg tablets to achieve the recommended dose is appropriate 
 ART-experienced paediatric patients (3 to 17 years of age and weighing at least 40 kg)
 The recommended dose of PREZISTA with low dose ritonavir for paediatric patients is based on body weight and should not exceed the recommended adult dose (600/100 mg twice daily).
 For paediatric patients weighing less than 40 kg, please also refer to the PREZISTA Summary of Product Characteristics of the 100 mg/ml oral suspension,75 mg and 150 mg tablets.
+
+[PREZISTA 800 mg film-coated tablets]
+
+PREZISTA 800 mg tablets can be used to construct the once daily 800 mg regimen.

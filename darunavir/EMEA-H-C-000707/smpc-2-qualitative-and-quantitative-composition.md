@@ -31,3 +31,7 @@ Excipient with known effect: Each tablet contains 0.834 mg sunset yellow FCF (E1
 Each film-coated tablet contains 600 mg of darunavir (as ethanolate).
 
 Excipient with known effect: Each tablet contains 2.750 mg sunset yellow FCF (E110).
+
+[PREZISTA 800 mg film-coated tablets]
+
+Each film-coated tablet contains 800 mg of darunavir (as ethanolate).

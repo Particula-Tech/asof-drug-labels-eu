@@ -39,3 +39,9 @@ Sunset yellow FCF (E110)
 [PREZISTA 600 mg film-coated tablets]
 
 (all sentences already above)
+
+[PREZISTA 800 mg film-coated tablets]
+
+Hypromellose
+
+Iron oxide red (E172)

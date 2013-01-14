@@ -126,3 +126,7 @@ PREZISTA tablets contain sunset yellow FCF (E110) which may cause an allergic re
 [PREZISTA 600 mg film-coated tablets]
 
 See the Summary of Product Characteristics for PREZISTA 75 mg, 150 mg or 300 mg tablets (see section 4.5).
+
+[PREZISTA 800 mg film-coated tablets]
+
+(all sentences already above)

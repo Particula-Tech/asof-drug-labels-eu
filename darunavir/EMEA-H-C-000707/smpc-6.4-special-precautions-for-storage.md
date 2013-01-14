@@ -24,3 +24,7 @@ This medicinal product does not require any special storage conditions.
 [PREZISTA 600 mg film-coated tablets]
 
 (all sentences already above)
+
+[PREZISTA 800 mg film-coated tablets]
+
+(all sentences already above)

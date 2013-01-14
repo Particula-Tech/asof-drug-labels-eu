@@ -370,3 +370,7 @@ According to current treatment guidelines, dual therapy with protease inhibitors
 | Omeprazole 20 mg once daily | #darunavir AUC ↔ #darunavir Cmin ↔ #darunavir Cmax ↔ | PREZISTA co-administered with low dose ritonavir can be co-administered with proton pump inhibitors without dose adjustments. |
 | SELECTIVE SEROTONIN REUPTAKE INHIBITORS (SSRIs) |  |  |
 | Paroxetine 20 mg once daily Sertraline 50 mg once daily | paroxetine AUC ↓ 39% paroxetine Cmin ↓37% paroxetine Cmax ↓ 36% #darunavir AUC ↔ #darunavir Cmin ↔ #darunavir Cmax ↔ sertraline AUC ↓ 49% sertraline Cmin ↓49% sertraline Cmax ↓ 44% #darunavir AUC ↔ #darunavir Cmin ↓ 6% #darunavir Cmax ↔ | If SSRIs are co-administered with PREZISTA and low dose ritonavir, the recommended approach is a dose titration of the SSRI based on a clinical assessment of antidepressant response. In addition, patients on a stable dose of sertraline or paroxetine who start treatment with PREZISTA co-administered with low dose ritonavir should be monitored for antidepressant response. |
+
+[PREZISTA 800 mg film-coated tablets]
+
+(all sentences already above)

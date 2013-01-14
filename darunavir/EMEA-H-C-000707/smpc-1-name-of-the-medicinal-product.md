@@ -21,3 +21,7 @@ PREZISTA 400 mg film-coated tablets
 [PREZISTA 600 mg film-coated tablets]
 
 PREZISTA 600 mg film-coated tablets
+
+[PREZISTA 800 mg film-coated tablets]
+
+PREZISTA 800 mg film-coated tablets
