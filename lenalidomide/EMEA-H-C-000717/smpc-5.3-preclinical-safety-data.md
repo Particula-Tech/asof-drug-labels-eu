@@ -11,7 +11,6 @@ The no observed adverse effect level (NOAEL) was considered to be less than 75 m
 Repeated oral administration of 4 and 6 mg/kg/day to monkeys for up to 20 weeks produced mortality and significant toxicity (marked weight loss, reduced red and white blood cell and platelet counts, multiple organ haemorrhage, gastrointestinal tract inflammation, lymphoid, and bone marrow atrophy).
 Repeated oral administration of 1 and 2 mg/kg/day to monkeys for up to 1 year produced reversible changes in bone marrow cellularity, a slight decrease in myeloid:erythroid cell ratio and thymic atrophy.
 Mild suppression of white blood cell count was observed at 1 mg/kg/day corresponding to approximately the same human dose based on AUC comparisons.
-
 In vitro (bacterial mutation, human lymphocytes, mouse lymphoma, Syrian Hamster Embryo cell transformation) and in vivo (rat micronucleus) mutagenicity studies revealed no drug related effects at either the gene or chromosomal level.
 Carcinogenicity studies with lenalidomide have not been conducted.
 

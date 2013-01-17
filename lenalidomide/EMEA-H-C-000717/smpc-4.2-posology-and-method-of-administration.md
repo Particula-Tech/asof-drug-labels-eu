@@ -82,14 +82,15 @@ Lenalidomide is substantially excreted by the kidney, therefore care should be t
 No dose adjustments are required for patients with mild renal impairment.
 The following dose adjustments are recommended at the start of therapy for patients with moderate or severe impaired renal function or end stage renal disease.
 
-| Renal Function (CLcr) | Dose Adjustment |
+| Renal Function (CLcr) | Dose Adjustment (Days 1 to 21 of repeated 28-day cycles) |
 | --- | --- |
-| Moderate renal impairment (30 ≤ CLcr < 50 ml/min) | 10 mg once daily* |
-| Severe renal impairment (CLcr < 30 ml/min, not requiring dialysis) | 15 mg every other day** |
+| Moderate renal impairment (30 ≤ CLcr < 50 ml/min) | 10 mg once daily1 |
+| Severe renal impairment (CLcr < 30 ml/min, not requiring dialysis) | 7.5 mg once daily2,3 15 mg every other day3 |
 | End Stage Renal Disease (ESRD) (CLcr < 30 ml/min, requiring dialysis) | 5 mg once daily. On dialysis days, the dose should be administered following dialysis. |
 
-* The dose may be escalated to 15 mg once daily after 2 cycles if patient is not responding to treatment and is tolerating the treatment.
-** The dose may be escalated to 10 mg once daily if the patient is tolerating the treatment.
+1 The dose may be escalated to 15 mg once daily after 2 cycles if patient is not responding to treatment and is tolerating the treatment.
+2 In countries where the 7.5 mg capsule is available.
+3 The dose may be escalated to 10 mg once daily if the patient is tolerating the treatment.
 
 After initiation of lenalidomide therapy, subsequent lenalidomide dose modification in renally impaired patients should be based on individual patient treatment tolerance, as described above.
 

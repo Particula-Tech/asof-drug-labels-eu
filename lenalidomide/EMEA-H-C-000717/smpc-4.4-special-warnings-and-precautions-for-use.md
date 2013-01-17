@@ -58,6 +58,7 @@ Because of the increased risk of venous thromboembolism in patients with multipl
 If a patient is currently using combined oral contraception the patient should switch to one of the effective method listed above.
 The risk of venous thromboembolism continues for 4−6 weeks after discontinuing combined oral contraception.
 The efficacy of contraceptive steroids may be reduced during co-treatment with dexamethasone (see section 4.5).
+
 Implants and levonorgestrel-releasing intrauterine systems are associated with an increased risk of infection at the time of insertion and irregular vaginal bleeding.
 Prophylactic antibiotics should be considered particularly in patients with neutropenia.
 
@@ -89,7 +90,6 @@ Patients should not donate blood during therapy or for 1 week following disconti
 Educational materials
 In order to assist patients in avoiding foetal exposure to lenalidomide, the Marketing Authorisation Holder will provide educational material to health care professionals to reinforce the warnings about the expected teratogenicity of lenalidomide, to provide advice on contraception before therapy is started, and to provide guidance on the need for pregnancy testing.
 Full patient information about the expected teratogenic risk and the strict pregnancy prevention measures as specified in the Pregnancy Prevention Programme should be given by the physician to women of childbearing potential and, as appropriate, to male patients.
-
 Other special warnings and precautions for use
 
 Cardiovascular disorders
@@ -97,6 +97,7 @@ Cardiovascular disorders
 Myocardial infarction
 Myocardial infarction has been reported in patients receiving lenalidomide, particularly in those with known risk factors.
 Patients with known risk factors – including prior thrombosis – should be closely monitored, and action should be taken to try to minimize all modifiable risk factors (eg. smoking, hypertension, and hyperlipidaemia).
+
 Venous and arterial thromboembolic events
 In patients with multiple myeloma, the combination of lenalidomide with dexamethasone is associated with an increased risk of venous thromboembolism (predominantly deep vein thrombosis and pulmonary embolism) and arterial thromboembolism (predominantly myocardial infarction and cerebrovascular event) – see sections 4.5 and 4.8.
 
@@ -109,7 +110,7 @@ A haemoglobin concentration above 12 g/dl should lead to discontinuation of eryt
 Patients and physicians are advised to be observant for the signs and symptoms of thromboembolism.
 Patients should be instructed to seek medical care if they develop symptoms such as shortness of breath, chest pain, arm or leg swelling.
 Prophylactic antithrombotic medicines should be recommended, especially in patients with additional thrombotic risk factors.
-The decision to take antithrombotic prophylactic measures should be made after careful assessment of an individual patient‟s underlying risk factors.
+The decision to take antithrombotic prophylactic measures should be made after careful assessment of an individual patient’s underlying risk factors.
 
 If the patient experiences any thromboembolic events, treatment must be discontinued and standard anticoagulation therapy started.
 Once the patient has been stabilised on the anticoagulation treatment and any complications of the thromboembolic event have been managed, the lenalidomide treatment may be restarted at the original dose dependent upon a benefit risk assessment.
@@ -127,7 +128,6 @@ Patients and physicians are advised to be observant for signs and symptoms of bl
 A dose reduction of lenalidomide may be required (see section 4.2).
 
 A complete blood cell count, including white blood cell count with differential count, platelet count, haemoglobin, and haematocrit should be performed at baseline, every week for the first 8 weeks of lenalidomide treatment and monthly thereafter to monitor for cytopenias.
-
 The major dose limiting toxicities of lenalidomide include neutropenia and thrombocytopenia.
 Therefore, co-administration of lenalidomide with other myelosuppressive agents should be undertaken with caution.
 
@@ -137,6 +137,7 @@ Therefore care should be taken in dose selection and monitoring of renal functio
 
 Thyroid function
 Cases of hypothyroidism have been reported and monitoring of thyroid function should be considered.
+
 Peripheral neuropathy
 Lenalidomide is structurally related to thalidomide, which is known to induce severe peripheral neuropathy.
 At this time, the neurotoxic potential of lenalidomide associated with long-term use cannot be ruled out.
@@ -173,13 +174,13 @@ Among invasive SPMs, cases of AML, MDS and solid tumours were observed in patien
 
 The risk of occurrence of SPM must be taken into account before initiating treatment with Revlimid.
 Physicians should carefully evaluate patients before and during treatment using standard cancer screening for occurrence of SPM and institute treatment as indicated.
-
 Hepatic Disorders
 Hepatic failure, including fatal cases, has been reported in patients treated with lenalidomide in combination with dexamethasone: acute hepatic failure, toxic hepatitis, cytolytic hepatitis, cholestatic hepatitis, and mixed cytolytic/cholestatic hepatitis have been reported.
 The mechanisms of severe drug-induced hepatotoxicity remain unknown although, in some cases, pre-existing viral liver disease, elevated baseline liver enzymes, and possibly treatment with antibiotics might be risk factors.
 
 Abnormal liver function tests were commonly reported and were generally asymptomatic and reversible upon dosing interruption.
 Once parameters have returned to baseline, treatment at a lower dose may be considered.
+
 Lenalidomide is excreted by the kidneys.
 It is important to dose adjust patients with renal impairment in order to avoid plasma levels which may increase the risk for higher haematological side effects or hepatotoxicity.
 Monitoring of liver function is recommended, particularly when there is a history of or concurrent viral liver infection or when lenalidomide is combined with medications known to be associated with liver dysfunction.

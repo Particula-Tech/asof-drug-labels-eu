@@ -10,7 +10,6 @@ The most serious adverse reactions were:
 - Grade 4 neutropenia (see section 4.4).
 
 The most frequently observed adverse reactions which occurred with lenalidomide in pooled multiple myeloma clinical trials (MM-009 and MM-010) were fatigue (43.9%), neutropenia (42.2%), constipation (40.5%), diarrhoea (38.5%), muscle cramp (33.4%), anaemia (31.4%), thrombocytopenia (21.5%), and rash (21.2%).
-
 Tabulated list of adverse reactions
 
 The adverse reactions observed in patients treated with lenalidomide/dexamethasone are listed below by system organ class and frequency.
@@ -19,6 +18,7 @@ Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10)
 
 The following table is derived from data gathered during the pivotal studies.
 The data were not adjusted according to the greater duration of treatment in the lenalidomide/dexamethasone versus the placebo/dexamethasone arms in the pivotal studies (see section 5.1).
+
 Table 1: ADRs reported in clinical studies and post-marketing data in patients with multiple myeloma treated with lenalidomide
 
 | System Organ Class / Preferred Term | All ADRs/Frequency | Grade 3−4 ADRs/Frequency |
@@ -65,7 +65,6 @@ The combination of lenalidomide with dexamethasone in multiple myeloma patients 
 Venous thromboembolism
 The combination of lenalidomide with dexamethasone is associated with an increased risk of DVT and PE in patients with multiple myeloma (see section 4.5).
 Concomitant administration of erythropoietic agents or previous history of DVT may also increase thrombotic risk in these patients.
-
 Myocardial infarction
 Myocardial infarction has been reported in patients receiving lenalidomide, particularly in those with known risk factors.
 
@@ -75,6 +74,7 @@ Haemorrhagic disorders are listed under several system organ classes: Blood and 
 Allergic reactions
 Cases of allergic reaction/hypersensitivity reactions have been reported.
 A possible cross-reaction between lenalidomide and thalidomide has been reported in the literature.
+
 Severe skin reactions
 SJS and TEN have been reported.
 Patients with a history of severe rash associated with thalidomide treatment should not receive lenalidomide.
