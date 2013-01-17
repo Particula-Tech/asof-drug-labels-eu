@@ -12,10 +12,10 @@ Capsule fill
 Capsule shell
 
 - Carrageenan
-- Potassium Chloride
-- Titanium Dioxide
-- Indigo Carmine (E132)
-- Sunset Yellow (E110)
+- Potassium chloride
+- Titanium dioxide
+- Indigo carmine (E132)
+- Sunset yellow (E110)
 - Hypromellose
 - Water purified
 
@@ -24,7 +24,7 @@ Black printing ink
 - Shellac
 - N-Butyl alcohol
 - Isopropyl alcohol
-- Industrial methylated spirit
+- Industrial methylated Spirit
 - Iron oxide black (E172)
 - Purified water
 - Propylene glycol

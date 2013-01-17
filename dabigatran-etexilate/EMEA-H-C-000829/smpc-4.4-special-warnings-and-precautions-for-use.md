@@ -7,11 +7,11 @@ No treatment experience is available for this subpopulation of patients, and the
 
 Haemorrhagic risk
 
-As with all anticoagulants, dabigatran etexilate should be used with caution in conditions with an increased risk of bleeding and in situations with concomitant use of drugs affecting haemostasis by inhibition of platelet aggregation.
-Bleeding can occur at any site during therapy with dabigatran.
+Dabigatran etexilate should be used with caution in conditions with an increased risk of bleeding and in situations with concomitant use of drugs affecting haemostasis by inhibition of platelet aggregation.
+Bleeding can occur at any site during therapy with dabigatran etexilate.
 An unexplained fall in haemoglobin and/or haematocrit or blood pressure should lead to a search for a bleeding site.
 
-Factors, such as decreased renal function (30-50 ml/min CrCL), age ≥ 75 years, low body weight
+Factors, such as decreased renal function (30-50 mL/min CrCL), age ≥ 75 years, low body weight
 < 50 kg, or strong P-gp inhibitor co-medication (e.g. amiodarone, quinidine or verapamil) are associated with increased dabigatran plasma levels (see sections 4.2, 4.5 and 5.2).
 
 Use of acetylsalicylic acid (ASA), clopidogrel or non steroidal antiinflammatory drug (NSAID), as well as the presence of esophagitis, gastritis or gastroesophageal reflux increase the risk of GI bleeding.
@@ -26,8 +26,8 @@ Please also refer to contraindications in section 4.3.
 
 | Pharmacodynamic and kinetic factors | Age ≥ 75 years |
 | --- | --- |
-| Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment (30-50 ml/min CrCL) • P-gp inhibitor co-medication (some P-gp inhibitors are contraindicated, see section 4.3 and 4.5) |
-|  | Minor: • Low body weight (< 50 kg) |
+| Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment (30-50 mL/min CrCL) |
+|  | • P-gp inhibitor co-medication (some P-gp inhibitors are contraindicated, see section 4.3 and 4.5) Minor: • Low body weight (< 50 kg) |
 | Pharmacodynamic interactions | • ASA • NSAID • Clopidogrel • SSRIs or SNRIs • Other drugs which may impair haemostasis |
 | Diseases / procedures with special haemorrhagic risks | • Congenital or acquired coagulation disorders • Thrombocytopenia or functional platelet defects • Recent biopsy, major trauma • Bacterial endocarditis • Esophagitis, gastritis or gastroesophageal reflux |
 
@@ -38,18 +38,16 @@ Pradaxa does not in general require routine anticoagulant monitoring.
 However, the measurement of dabigatran related anticoagulation may be helpful to avoid excessive high exposure to dabigatran in the presence of additional risk factors.
 The INR test is unreliable in patients on Pradaxa and false positive INR elevations have been reported.
 Therefore INR tests should not be performed.
-Diluted thrombin time (dTT), ecarin clotting time (ECT) and activated partial thromboplastin time (aPTT) may provide useful information, but the tests are not standardized, and results should be interpreted with caution (see section 5.1).
+Diluted thrombin time (dTT), ecarin clotting time (ECT) and activated partial thromboplastin time (aPTT) may provide useful information, but the tests are not standardised, and results should be interpreted with caution (see section 5.1).
 
-Table 2 shows coagulation test thresholds at trough that may be associated with an increased risk of bleeding
+Table 2 shows coagulation test thresholds at trough that may be associated with an increased risk of bleeding (see section 5.1)
 
 | Test (trough value) |  |
 | --- | --- |
-| dTT [ng/ml] | > 67 |
+| dTT [ng/mL] | > 67 |
 | ECT [x-fold upper limit of normal] | No data |
 | aPTT [x-fold upper limit of normal] | > 1.3 |
 | INR | Should not be performed |
-
-(see section 5.1)
 
 Patients who develop acute renal failure must discontinue Pradaxa (see section 4.3).
 
@@ -57,11 +55,11 @@ Limited data is available in patients < 50 kg (see section 5.2).
 
 When severe bleedings occur treatment must be discontinued and the source of bleeding investigated (see section 4.9).
 
-Agents that may enhance the risk of haemorrhage should not be administered concomitantly or should be administered with caution with Pradaxa (see section 4.5).
+Medicinal products that may enhance the risk of haemorrhage should not be administered concomitantly or should be administered with caution with Pradaxa (see section 4.5).
 
 Interaction with P-gp inducers
-
 Concomitant administration of P-gp inducers (such as rifampicin, St. John`s wort (Hypericum perforatum), carbamazepine, or phenytoin) is expected to result in decreased dabigatran plasma concentrations, and should be avoided (see sections 4.5 and 5.2).
+
 Surgery and interventions
 
 Patients on dabigatran etexilate who undergo surgery or invasive procedures are at increased risk for bleeding.
@@ -74,9 +72,9 @@ In such cases a coagulation test (see sections 4.4 and 5.1) may help to determin
 
 Preoperative phase
 
-Table 3 summarizes discontinuation rules before invasive or surgical procedures.
+Table 3 summarises discontinuation rules before invasive or surgical procedures.
 
-| Renal function (CrCL in ml/min) | Estimated half-life (hours) | Stop dabigatran before elective surgery |  |
+| Renal function (CrCL in mL/min) | Estimated half-life (hours) | Stop dabigatran before elective surgery |  |
 | --- | --- | --- | --- |
 |  |  | High risk of bleeding or major surgery | Standard risk |
 | ≥ 80 | ~ 13 | 2 days before | 24 hours before |
@@ -98,7 +96,7 @@ These patients require frequent observation for neurological signs and symptoms 
 
 Post-surgical patients with an increased risk for bleeding
 
-Patients at risk for bleeding or patients at risk of overexposure, notably patients with moderate renal impairment (CrCL 30-50 ml/min), should be treated with caution (see sections 4.4 and 5.1).
+Patients at risk for bleeding or patients at risk of overexposure, notably patients with moderate renal impairment (CrCL 30-50 mL/min), should be treated with caution (see sections 4.4 and 5.1).
 Resume treatment after complete haemostasis is achieved.
 
 Patients at high surgical mortality risk and with intrinsic risk factors for thromboembolic events
@@ -128,7 +126,7 @@ In these atrial fibrillationpatients a dosage of 220 mg dabigatran given as 110 
 
 | Pharmacodynamic and kinetic factors | Age ≥ 75 years |
 | --- | --- |
-| Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment (30-50 ml/min CrCL) • P-gp inhibitor co-medication (some P-gp inhibitors are contraindicated, see section 4.3 and 4.5) Minor: • Low body weight (< 50 kg) |
+| Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment (30-50 mL/min CrCL) • P-gp inhibitor co-medication (some P-gp inhibitors are contraindicated, see section 4.3 and 4.5) Minor: • Low body weight (< 50 kg) |
 | Pharmacodynamic interactions | • ASA • NSAID • Clopidogrel • SSRIs or SNRIs • Other drugs which may impair haemostasis |
 | Diseases / procedures with special haemorrhagic risks | • Congenital or acquired coagulation disorders • Thrombocytopenia or functional platelet defects • Recent biopsy, major trauma • Bacterial endocarditis • Esophagitis, gastritis and gastroesophageal reflux |
 
@@ -137,14 +135,15 @@ The presence of lesions, conditions, procedures and/or pharmacological treatment
 | Test (trough value) | Indication |  |
 | --- | --- | --- |
 |  | Prevention of VTE | Prevention of stroke and SEE |
-| dTT [ng/ml] | > 67 | > 200 |
+| dTT [ng/mL] | > 67 | > 200 |
 | ECT [x-fold upper limit of normal] | No data | > 3 |
 | aPTT [x-fold upper limit of normal] | > 1.3 | > 2 |
-| INR | Should not be performed | Should not be performed |
 
-Use of fibrinolytic agents for the treatment of acute ischemic stroke
+INR Should not be performed Should not be performed
 
-The use of fibrinolytic agents for the treatment of acute ischemic stroke may be considered if the patient presents with a dTT, ECT or aPTT not exceeding the ULN according to the local reference range.
+Use of fibrinolytic medicinal products for the treatment of acute ischemic stroke
+
+The use of fibrinolytic medicinal products for the treatment of acute ischemic stroke may be considered if the patient presents with a dTT, ECT or aPTT not exceeding the ULN according to the local reference range.
 
 This risk of bleeding should be weighed against the urgency of intervention (for cardioversion see section 4.2).
 
@@ -162,14 +161,14 @@ Use of acetylsalicylic acid (ASA), clopidogrel or non steroidal antiinflammatory
 
 | Pharmacodynamic and kinetic factors | Age ≥ 75 years |
 | --- | --- |
-| Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment (30-50 ml/min CrCL) • P-gp inhibitor co-medication (some P-gp inhibitors are contraindicated, see section 4.3 and 4.5) Minor: • Low body weight (< 50 kg) |
+| Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment (30-50 mL/min CrCL) • P-gp inhibitor co-medication (some P-gp inhibitors are contraindicated, see section 4.3 and 4.5) Minor: • Low body weight (< 50 kg) |
 | Pharmacodynamic interactions | • ASA |
 |  | • NSAID • Clopidogrel • SSRIs or SNRIs • Other drugs which may impair haemostasis |
 | Diseases / procedures with special haemorrhagic risks | • Congenital or acquired coagulation disorders • Thrombocytopenia or functional platelet defects • Recent biopsy, major trauma • Bacterial endocarditis • Esophagitis, gastritis or gastroesophageal reflux |
 
 | Test (trough value) |  |
 | --- | --- |
-| dTT [ng/ml] | > 200 |
+| dTT [ng/mL] | > 200 |
 | ECT [x-fold upper limit of normal] | > 3 |
 | aPTT [x-fold upper limit of normal] | > 2 |
 | INR | Should not be performed |

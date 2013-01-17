@@ -1,8 +1,8 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
-Anticoagulants and antiplatelet aggregation agents
+Anticoagulants and antiplatelet aggregation medicinal products
 
-There is no or only limited experience with the following treatments which may increase the risk of bleeding when used concomitantly with Pradaxa: anticoagulants such as unfractionated heparin (UFH), low molecular weight heparins (LMWH), and heparin derivatives (fondaparinux, desirudin), thrombolytic agents, and vitamin K antagonists, rivaroxaban or other oral anticoagulants (see section 4.3), and platelet aggregation agents such as, GPIIb/IIIa receptor antagonists, ticlopidine, prasugrel, ticagrelor, dextran, and sulfinpyrazone (see section 4.4).
+There is no or only limited experience with the following treatments which may increase the risk of bleeding when used concomitantly with Pradaxa: anticoagulants such as unfractionated heparin (UFH), low molecular weight heparins (LMWH), and heparin derivatives (fondaparinux, desirudin), thrombolytic medicinal products, and vitamin K antagonists, rivaroxaban or other oral anticoagulants (see section 4.3), and platelet aggregation medicinal products such as, GPIIb/IIIa receptor antagonists, ticlopidine, prasugrel, ticagrelor, dextran, and sulfinpyrazone (see section 4.4).
 
 UFH can be administered at doses necessary to maintain a patent central venous or arterial catheter (see sections 4.3).
 
@@ -22,11 +22,11 @@ After switching from 3-day treatment of once daily 40 mg enoxaparin s.c., 24 hou
 A higher anti-FXa/FIIa activity was observed after dabigatran etexilate administration with enoxaparin pre-treatment compared to that after treatment with dabigatran etexilate alone.
 This is considered to be due to the carry-over effect of enoxaparin treatment, and regarded as not clinically relevant.
 Other dabigatran related anti-coagulation tests were not changed significantly by the pre-treatment of enoxaparin.
-
 Interactions linked to dabigatran etexilate and dabigatran metabolic profile
 
 Dabigatran etexilate and dabigatran are not metabolised by the cytochrome P450 system and have no in vitro effects on human cytochrome P450 enzymes.
 Therefore, related medicinal product interactions are not expected with dabigatran.
+
 Transporter interactions
 
 P-gp inhibitors
@@ -57,12 +57,13 @@ In view of the long half-life of amiodarone the potential for drug interaction m
 Patients treated for prevention of VTEs after hip or knee replacement surgery, dosing should be reduced to 150 mg taken once daily as 2 capsules of 75 mg Pradaxa if they receive concomitantly dabigatran etexilate and amiodarone (see section 4.2).
 Close clinical surveillance is recommended when dabigatran etexilate is combined with amiodarone and particularly in the occurrence of bleeding, notably in patients having a mild to moderate renal impairment.
 
-Quinidine: Quinidine was given as 200 mg dose every 2nd hour up to a total dose of 1000 mg.
+Quinidine: Quinidine was given as 200 mg dose every 2nd hour up to a total dose of 1,000 mg.
 Dabigatran etexilate was given twice daily over 3 consecutive days, on the 3rd day either with or without quinidine.
 Dabigatran AUCτ,ss and Cmax,ss were increased on average by 53 % and 56 %, respectively with concomitant quinidine (see sections 4.2 and 4.4).
 
 Patients treated for prevention of VTEs after hip or knee replacement surgery, dosing should be reduced to 150 mg taken once daily as 2 capsules of 75 mg Pradaxa if they receive concomitantly dabigatran etexilate and quinidine (see section 4.2).
 Close clinical surveillance is recommended when dabigatran etexilate is combined with quinidine and particularly in the occurrence of bleeding, notably in patients having a mild to moderate renal impairment.
+
 Verapamil: When dabigatran etexilate (150 mg) was co-administered with oral verapamil, the Cmax and AUC of dabigatran were increased but magnitude of this change differs depending on timing of administration and formulation of verapamil (see sections 4.2 and 4.4).
 
 The greatest elevation of dabigatran exposure was observed with the first dose of an immediate release formulation of verapamil administered one hour prior to dabigatran etexilate intake (increase of Cmax by about 180 % and AUC by about 150 %).
@@ -92,13 +93,13 @@ Concomitant administration of a P-gp inducer (such as rifampicin, St. John´s wo
 Rifampicin: Pre-dosing of the probe inducer rifampicin at a dose of 600 mg once daily for 7 days decreased total dabigatran peak and total exposure by 65.5 and 67 %, respectively.
 The inducing effect was diminished resulting in dabigatran exposure close to the reference by day 7 after cessation of rifampicin treatment.
 No further increase in bioavailability was observed after another 7 days.
-
-Other drugs affecting P-gp
+Other medicinal products affecting P-gp
 
 Protease inhibitors including ritonavir and its combinations with other protease inhibitors affect P-gp (either as inhibitor or as inducer).
 They have not been studied and are therefore not recommended for concomitant treatment with Pradaxa.
 
 P-gp substrate
+
 Digoxin: In a study performed with 24 healthy subjects, when Pradaxa was co-administered with digoxin, no changes on digoxin and no clinical relevant changes on dabigatran exposure have been observed.
 
 Co-medication with selective serotonin re-uptake inhibitors (SSRIs) or selective serotonin norepinephrine re-uptake inhibitors (SNRIs)
@@ -114,11 +115,11 @@ Ranitidine: Ranitidine administration together with Pradaxa had no clinically re
 
 [Pradaxa 110 mg hard capsules]
 
-There is no or only limited experience with the following treatments which may increase the risk of bleeding when used concomitantly with Pradaxa: anticoagulants such as unfractionated heparin (UFH), low molecular weight heparins (LMWH), and heparin derivatives (fondaparinux, desirudin), thrombolytic agents, and vitamin K antagonists, rivaroxaban or other oral anticoagulants (see section 4.3), and plateletet aggregation agents such as GPIIb/IIIa receptor antagonists, ticlopidine, prasugrel, ticagrelor, dextran, and sulfinpyrazone (see section 4.4).
+There is no or only limited experience with the following treatments which may increase the risk of bleeding when used concomitantly with Pradaxa: anticoagulants such as unfractionated heparin (UFH), low molecular weight heparins (LMWH), and heparin derivatives (fondaparinux, desirudin), thrombolytic medicinal products, and vitamin K antagonists, rivaroxaban or other oral anticoagulants (see section 4.3), and plateletet aggregation medicinal products such as GPIIb/IIIa receptor antagonists, ticlopidine, prasugrel, ticagrelor, dextran, and sulfinpyrazone (see section 4.4).
 
 From the limited data collected in the phase III study RE LY in patients with atrial fibrillation it was observed that the concomitant use of other oral or parenteral anticoagulants increases major bleeding rates with both dabigatran etexilate and warfarin by approximately 2.5-fold, mainly related to situations when switching from one anticoagulant to another (see section 4.3).
-
 UFH can be administered at doses necessary to maintain a patent central venous or arterial catheter (see section 4.3).
+
 Clopidogrel and ASA: From the data collected in the phase III study RE-LY (see section 5.1) it was observed that the concomitant use of antiplatelets, ASA or clopidogrel approximately doubles major bleeding rates with both dabigatran etexilate and warfarin (see section 4.4).
 
 With a loading dose of 300 mg or 600 mg clopidogrel, dabigatran AUCτ,ss and Cmax,ss were increased by about 30-40 % (see section 4.4) (see also subsection on ASA below).
@@ -131,7 +132,7 @@ For patients with atrial nonvalvular fibrillation treated for prevention of stro
 
 [Pradaxa 150 mg hard capsules]
 
-There is no or only limited experience with the following treatments which may increase the risk of bleeding when used concomitantly with Pradaxa: anticoagulants such as unfractionated heparin (UFH), low molecular weight heparins (LMWH), and heparin derivatives (fondaparinux, desirudin), thrombolytic agents, and vitamin K antagonists, rivaroxaban or other oral anticoagulants (see section 4.3), and platelet aggregation agents such as GPIIb/IIIa receptor antagonists, ticlopidine, prasugrel, ticagrelor, dextran, and sulfinpyrazone (see section 4.4).
+There is no or only limited experience with the following treatments which may increase the risk of bleeding when used concomitantly with Pradaxa: anticoagulants such as unfractionated heparin (UFH), low molecular weight heparins (LMWH), and heparin derivatives (fondaparinux, desirudin), thrombolytic medicinal products, and vitamin K antagonists, rivaroxaban or other oral anticoagulants (see section 4.3), and platelet aggregation medicinal products such as GPIIb/IIIa receptor antagonists, ticlopidine, prasugrel, ticagrelor, dextran, and sulfinpyrazone (see section 4.4).
 
 From the data collected in the phase III study RE-LY in patients with atrial fibrillation (see section 5.1), it was observed that the concomitant use of antiplatelets ASA or clopidogrel approximately doubles major bleeding rates with both dabigatran etexilate and warfarin (see section 4.4).
 

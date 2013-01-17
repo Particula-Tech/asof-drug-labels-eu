@@ -1,10 +1,11 @@
 # 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 18 March 2008
+Date of the latest renewal:
 
 [Pradaxa 110 mg hard capsules]
 
-(all sentences already above)
+Date of latest renewal:
 
 [Pradaxa 150 mg hard capsules]
 

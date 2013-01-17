@@ -2,7 +2,7 @@
 
 Blister
 
-Store in the original package in order to protect from moisture
+Store in the original package in order to protect from moisture.
 
 Bottle
 
