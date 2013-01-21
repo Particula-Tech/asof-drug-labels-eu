@@ -15,34 +15,35 @@ Frequency convention: very common (≥1/10), common (≥1/100 to <1/10), uncommo
 | Very common | Common | Uncommon | Rare |
 | --- | --- | --- | --- |
 | Immune system disorders |  |  |  |
-|  |  | Hypersensitivity reactions | Angioedema3 |
+|  |  | Hypersensitivity reactions | Angioedema2 |
 | Nervous system disorders |  |  |  |
-|  | Headache | Dizziness | Stroke1 (including haemorrhagic events), Syncope, Transient ischaemic attacks1, Migraine3, Seizures, Transient amnesia |
+|  | Headache | Dizziness | Stroke1 (including haemorrhagic events), Syncope, Transient ischaemic attacks1, Migraine2, Seizures, Transient amnesia |
 | Eye disorders |  |  |  |
-|  |  | Blurred vision, Sensations described as eye pain | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION) 3, Retinal vascular occlusion3 |
+|  |  | Blurred vision, Sensations described as eye pain | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION) 2, Retinal vascular occlusion2 |
 | Ear and labyrinth disorders |  |  |  |
-|  |  |  | Sudden hearing loss2 |
+|  |  |  | Sudden hearing loss |
 | Cardiac disorders1 |  |  |  |
-|  |  | Tachycardia, Palpitations | Myocardial infarction, Unstable angina pectoris3, Ventricular arrhythmia3 |
+|  |  | Tachycardia, Palpitations | Myocardial infarction, Unstable angina pectoris2, Ventricular arrhythmia2 |
 | Vascular disorders |  |  |  |
-|  | Flushing | Hypotension4, Hypertension |  |
+|  | Flushing | Hypotension3, Hypertension |  |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |
 |  | Nasal congestion | Dyspnoea, Epistaxis |  |
 | Gastrointestinal disorders |  |  |  |
 |  | Dyspepsia, Gastro-oesophageal reflux | Abdominal pain |  |
 | Skin and subcutaneous tissue disorders |  |  |  |
-|  |  | Rash, Hyperhydrosis (sweating) | Urticaria, Stevens-Johnson syndrome3, Exfoliative dermatitis3, |
+|  |  | Rash, Hyperhydrosis (sweating) | Urticaria, Stevens-Johnson syndrome2, Exfoliative dermatitis2, |
 | Musculoskeletal, connective tissue and bone disorders |  |  |  |
 |  | Back pain, Myalgia, Pain in extremity |  |  |
+| Renal and urinary disorders |  |  |  |
+|  |  | Haematuria |  |
 | Reproductive system and breast disorders |  |  |  |
-|  |  |  | Prolonged erections, Priapism3 |
+|  |  | Penile haemorrhage, Haematospermia | Prolonged erections, Priapism2 |
 | General disorders and administration site conditions |  |  |  |
-|  |  | Chest pain1 | Facial oedema3, Sudden cardiac death1, 3 |
+|  |  | Chest pain1 | Facial oedema2, Sudden cardiac death1, 2 |
 
 (1) Most of the patients had pre-existing cardiovascular risk factors (see section 4.4).
-(2) Sudden decrease or loss of hearing has been reported in a small number of postmarketing and clinical trial cases with the use of all PDE5 inhibitors, including tadalafil.
-(3) Postmarketing surveillance reported adverse reactions not observed in placebo-controlled clinical trials.
-(4) More commonly reported when tadalafil is given to patients who are already taking antihypertensive medicinal products.
+(2) Postmarketing surveillance reported adverse reactions not observed in placebo-controlled clinical trials.
+(3) More commonly reported when tadalafil is given to patients who are already taking antihypertensive medicinal products.
 
 Description of selected adverse reactions
 
@@ -59,30 +60,34 @@ In clinical trials with tadalafil 5mg taken once a day for the treatment of beni
 | Very common | Common | Uncommon | Rare |
 | --- | --- | --- | --- |
 | Immune system disorders |  |  |  |
-|  |  | Hypersensitivity reactions | Angioedema3 |
+|  |  | Hypersensitivity reactions | Angioedema2 |
 | Nervous system disorders |  |  |  |
-|  | Headache | Dizziness | Stroke1 (including haemorrhagic events), Syncope, Transient ischaemic attacks1, Migraine3, |
+|  | Headache | Dizziness | Stroke1 (including haemorrhagic events), Syncope, Transient ischaemic attacks1, Migraine2, |
 |  |  |  | Seizures, Transient amnesia |
 | Eye disorders |  |  |  |
-|  |  | Blurred vision, Sensations described as eye pain | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION) 3, Retinal vascular occlusion3 |
+|  |  | Blurred vision, Sensations described as eye pain | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION) 2, Retinal vascular occlusion2 |
 | Ear and labyrinth disorders |  |  |  |
-|  |  |  | Sudden hearing loss2 |
+|  |  |  | Sudden hearing loss |
 | Cardiac disorders1 |  |  |  |
-|  |  | Tachycardia, Palpitations | Myocardial infarction, Unstable angina pectoris3, Ventricular arrhythmia3 |
+|  |  | Tachycardia, Palpitations | Myocardial infarction, Unstable angina pectoris2, Ventricular arrhythmia2 |
 | Vascular disorders |  |  |  |
-|  | Flushing | Hypotension4, Hypertension |  |
+|  | Flushing | Hypotension3, Hypertension |  |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |
 |  | Nasal congestion | Dyspnoea, Epistaxis |  |
 | Gastrointestinal disorders |  |  |  |
 |  | Dyspepsia, Gastro-oesophageal reflux | Abdominal pain |  |
 | Skin and subcutaneous tissue disorders |  |  |  |
-|  |  | Rash, Hyperhydrosis (sweating) | Urticaria, Stevens-Johnson syndrome3, Exfoliative dermatitis3 |
+|  |  | Rash, Hyperhydrosis (sweating) | Urticaria, Stevens-Johnson syndrome2, Exfoliative dermatitis2 |
 | Musculoskeletal, connective tissue and bone disorders |  |  |  |
 |  | Back pain, Myalgia, Pain in extremity |  |  |
+| Renal and urinary disorders |  |  |  |
+|  |  | Haematuria |  |
 | Reproductive system and breast disorders |  |  |  |
-|  |  |  | Prolonged erections, Priapism3 |
+|  |  | Penile haemorrhage, Haematospermia | Prolonged erections, Priapism2 |
 | General disorders and administration site conditions |  |  |  |
-|  |  | Chest pain1 | Facial oedema3, Sudden cardiac death1,3 |
+|  |  | Chest pain1 | Facial oedema2, Sudden cardiac |
+
+death1,2
 
 (1)Most of the patients had pre-existing cardiovascular risk factors (see section 4.4).
 
@@ -91,40 +96,31 @@ In clinical trials with tadalafil 5mg taken once a day for the treatment of beni
 | Very common | Common | Uncommon | Rare |
 | --- | --- | --- | --- |
 | Immune system disorders |  |  |  |
-|  |  | Hypersensitivity reactions | Angioedema3 |
+|  |  | Hypersensitivity reactions | Angioedema2 |
 | Nervous system disorders |  |  |  |
-|  | Headache | Dizziness | Stroke1 (including haemorrhagic events), Syncope, Transient ischaemic attacks1, Migraine3, Seizures, Transient amnesia |
+|  | Headache | Dizziness | Stroke1 (including haemorrhagic events), Syncope, Transient ischaemic attacks1, Migraine2, Seizures, Transient amnesia |
 | Eye disorders |  |  |  |
-|  |  | Blurred vision, Sensations described as eye pain, | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION) 3, Retinal vascular occlusion3 |
+|  |  | Blurred vision, Sensations described as eye pain, | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION) 2, Retinal vascular occlusion2 |
 | Ear and labyrinth disorders |  |  |  |
-|  |  |  | Sudden hearing loss2 |
+|  |  |  | Sudden hearing loss |
 | Cardiac disorders1 |  |  |  |
-|  |  | Tachycardia, Palpitations | Myocardial infarction, Unstable angina pectoris3, Ventricular arrhythmia3 |
+|  |  | Tachycardia, Palpitations | Myocardial infarction, Unstable angina pectoris2, Ventricular arrhythmia2 |
 | Vascular disorders |  |  |  |
-|  | Flushing | Hypotension4, Hypertension |  |
+|  | Flushing | Hypotension3, Hypertension |  |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |
 |  | Nasal congestion | Dyspnoea, Epistaxis |  |
 | Gastrointestinal disorders |  |  |  |
 |  | Dyspepsia, Gastro-oesophageal reflux | Abdominal pain |  |
-
-Skin and subcutaneous tissue disorders
-Rash, Urticaria,
-Hyperhydrosis Stevens-Johnson
-(sweating) syndrome3,
-Exfoliative
-dermatitis3
-Musculoskeletal, connective tissue and bone disorders
-Back pain,
-Myalgia, Pain in
-extremity
-Reproductive system and breast disorders
-Prolonged
-erections,
-Priapism3
-General disorders and administration site conditions
-Chest pain1 Facial oedema3,
-Sudden cardiac
-death1,3
+| Skin and subcutaneous tissue disorders |  |  |  |
+|  |  | Rash, Hyperhydrosis (sweating) | Urticaria, Stevens-Johnson syndrome2, Exfoliative dermatitis2 |
+| Musculoskeletal, connective tissue and bone disorders |  |  |  |
+|  | Back pain, Myalgia, Pain in extremity |  |  |
+| Renal and urinary disorders |  |  |  |
+|  |  | Haematuria |  |
+| Reproductive system and breast disorders |  |  |  |
+|  |  | Penile haemorrhage, Haematospermia | Prolonged erections, Priapism2 |
+| General disorders and administration site conditions |  |  |  |
+|  |  | Chest pain1 | Facial oedema2, Sudden cardiac death1,2 |
 
 [CIALIS 20 mg film-coated tablets]
 
@@ -133,18 +129,28 @@ The most commonly reported adverse reactions in patients taking CIALIS for the t
 | Very common | Common | Uncommon | Rare |
 | --- | --- | --- | --- |
 | Immune system disorders |  |  |  |
-|  |  | Hypersensitivity reactions | Angioedema3 |
+|  |  | Hypersensitivity reactions | Angioedema2 |
 | Nervous system disorders |  |  |  |
-|  | Headache | Dizziness | Stroke1 (including haemorrhagic events), Syncope, Transient ischaemic attacks1, Migraine3, Seizures, Transient amnesia |
+|  | Headache | Dizziness | Stroke1 (including haemorrhagic events), Syncope, Transient ischaemic attacks1, Migraine2, Seizures, Transient amnesia |
 | Eye disorders |  |  |  |
-|  |  | Blurred vision, Sensations described as eye pain | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION) 3, Retinal vascular occlusion3 |
+|  |  | Blurred vision, Sensations described as eye pain | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION) 2, Retinal vascular occlusion2 |
 | Ear and labyrinth disorders |  |  |  |
-|  |  |  | Sudden hearing loss2 |
+|  |  |  | Sudden hearing loss |
 | Cardiac disorders1 |  |  |  |
-|  |  | Tachycardia, Palpitations | Myocardial infarction, Unstable angina pectoris3, Ventricular arrhythmia3 |
+|  |  | Tachycardia, Palpitations | Myocardial infarction, Unstable angina pectoris2, Ventricular arrhythmia2 |
 | Vascular disorders |  |  |  |
-|  | Flushing | Hypotension4, Hypertension |  |
+|  | Flushing | Hypotension3, Hypertension |  |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |
 |  | Nasal congestion | Dyspnoea, Epistaxis |  |
 | Gastrointestinal disorders |  |  |  |
 |  | Dyspepsia, Gastro-oesophageal reflux | Abdominal pain |  |
+| Skin and subcutaneous tissue disorders |  |  |  |
+|  |  | Rash, Hyperhydrosis (sweating) | Urticaria, Stevens-Johnson syndrome2, Exfoliative dermatitis2 |
+| Musculoskeletal, connective tissue and bone disorders |  |  |  |
+|  | Back pain, Myalgia, Pain in extremity |  |  |
+| Renal and urinary disorders |  |  |  |
+|  |  | Haematuria |  |
+| Reproductive system and breast disorders |  |  |  |
+|  |  | Penile haemorrhage, Haematospermia | Prolonged erections, Priapism2 |
+| General disorders and administration site conditions |  |  |  |
+|  |  | Chest pain1 | Facial oedema2, Sudden cardiac death1,2 |
