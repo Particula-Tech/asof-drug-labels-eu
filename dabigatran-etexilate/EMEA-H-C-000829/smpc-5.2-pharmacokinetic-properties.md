@@ -52,7 +52,8 @@ Table 9: Half-life of total dabigatran in healthy subjects and subjects with imp
 | ≥ 80 | 13.4 (25.7 %; 11.0-21.6) |
 | ≥ 50-< 80 | 15.3 (42.7 %;11.7-34.1) |
 | ≥ 30-< 50 | 18.4 (18.5 %;13.3-23.0) |
-| < 30 | 27.2(15.3 %; 21.6-35.0) |
+
+< 30 27.2(15.3 %; 21.6-35.0)
 
 Clearance of dabigatran by haemodialysis was investigated in 7 patients with end-stage renal disease (ESRD) without atrial fibrillation.
 Dialysis was conducted with 700 mL/min dialysate flow rate, four hour duration and a blood flow rate of either 200 mL/min or 350-390 mL/min.
@@ -97,7 +98,6 @@ Table 15: Half-life of total dabigatran in healthy subjects and subjects with im
 | ≥ 80 | 13.4 (25.7 %; 11.0-21.6) |
 | ≥ 50-< 80 | 15.3 (42.7 %;11.7-34.1) |
 | ≥ 30-< 50 | 18.4 (18.5 %;13.3-23.0) |
-| < 30 | 27.2(15.3 %; 21.6-35.0) |
 
 The median CrCL in RE-LY was 68.4 mL/min.
 Almost half (45.8 %) of the RE-LY patients had a CrCL > 50-< 80 mL/min.
@@ -113,6 +113,13 @@ Peak plasma concentrations are reached at 6 hours following administration in a 
 Half-life is prolonged if renal function is impaired as shown in table 11.
 
 Table 11: Half-life of total dabigatran in healthy subjects and subjects with impaired renal function.
+
+| glomerular filtration rate (CrCL,) [mL/min] | gMean (gCV %; range) half-life [h] |
+| --- | --- |
+| ≥ 80 | 13.4 (25.7 %; 11.0-21.6) |
+| ≥ 50-< 80 | 15.3 (42.7 %;11.7-34.1) |
+| ≥ 30-< 50 | 18.4 (18.5 %;13.3-23.0) |
+| < 30 | 27.2(15.3 %; 21.6-35.0) |
 
 Patients with moderate renal impairment (CrCL between 30 and 50 mL/min) had on average 2.29-fold and 1.81-fold higher pre- and post-dose dabigatran plasma concentrations, respectively, when compared with patients without renal impairment (CrCL ≥ 80 mL/min).
 

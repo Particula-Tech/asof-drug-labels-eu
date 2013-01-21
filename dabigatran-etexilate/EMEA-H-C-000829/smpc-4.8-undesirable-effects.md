@@ -11,7 +11,7 @@ Although rare in frequency in clinical trials, major or severe bleeding may occu
 
 Tabulated list of adverse reactions
 
-Table 4 shows the adverse reactions ranked under headings of SOC and frequency using the following convention: very common (≥ 1/10), common (≥1 /100 to <1 /10), uncommon (≥ 1/1,000 to <1 /100), rare (≥1 /10,000 to <1 /1,000), very rare (<1 /10,000), not known (cannot be estimated from the available data).
+Table 4 shows the adverse reactions ranked under headings of System Organ Classes (SOC) and frequency using the following convention: very common (≥ 1/10), common (≥1 /100 to <1 /10), uncommon (≥ 1/1,000 to <1 /100), rare (≥1 /10,000 to <1 /1,000), very rare (<1 /10,000), not known (cannot be estimated from the available data).
 
 | SOC / Preferred term. | Dabigatran etexilate 150 mg | Dabigatran etexilate 220 mg |
 | --- | --- | --- |
@@ -25,6 +25,8 @@ Table 4 shows the adverse reactions ranked under headings of SOC and frequency u
 | Drug hypersensitivity | Uncommon | Uncommon |
 | Pruritus | Uncommon | Uncommon |
 | Rash | Uncommon | Uncommon |
+| Anaphylactic reaction | Rare | Rare |
+| Angioedema | Rare | Rare |
 | Urticaria | Rare | Rare |
 | Bronchospasm | Not known | Not known |
 | Nervous system disorders |  |  |
@@ -60,6 +62,7 @@ Table 4 shows the adverse reactions ranked under headings of SOC and frequency u
 | Musculoskeletal and connective tissue disorders |  |  |
 | Haemarthrosis | Uncommon | Uncommon |
 | Renal and urinary disorders |  |  |
+| Genitourological haemorrhage | Common | Common |
 | Haematuria | Uncommon | Uncommon |
 | General disorders and administration site conditions |  |  |
 | Injection site haemorrhage | Rare | Rare |
@@ -126,8 +129,10 @@ Table 4 shows the adverse reactions identified from the primary VTE prevention s
 | Drug hypersensitivity | Uncommon | Uncommon | Uncommon | Uncommon |
 | Rash | Uncommon | Uncommon | Uncommon | Uncommon |
 | Pruritus | Uncommon | Uncommon | Uncommon | Uncommon |
+| Anaphylactic reaction | Rare | Rare | Rare | Rare |
+| Angioedema | Rare | Rare | Rare | Rare |
 | Urticaria | Rare | Rare | Rare | Rare |
-| Bronchospasm | Not known | Not known | Not known | Very Rare |
+| Bronchospasm | Not known | Not known | Not known | Not known |
 | Nervous system disorders |  |  |  |  |
 | Intracranial haemorrhage | Uncommon | Uncommon | Uncommon | Uncommon |
 | Vascular disorders |  |  |  |  |
@@ -162,14 +167,14 @@ Table 4 shows the adverse reactions identified from the primary VTE prevention s
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
 | Haemarthrosis | Uncommon | Uncommon | Rare | Rare |
 | Renal and urinary disorders |  |  |  |  |
-| Genitourological haemorrhage | - | - | Uncommon | Common |
+| Genitourological haemorrhage | Common | Common | Common | Common |
 | Haematuria | Uncommon | Uncommon | Uncommon | Uncommon |
 | General disorders and administration site conditions |  |  |  |  |
 | Injection site haemorrhage | Rare | Rare | Rare | Rare |
 | Catheter site haemorrhage | Rare | Rare | Rare | Rare |
 | Bloody discharge | Rare | Rare | - | - |
 | Injury, poisoning and procedural complications |  |  |  |  |
-| Traumatic Haemorrhage | Uncommon | Uncommon | - | - |
+| Traumatic Haemorrhage | Uncommon | Uncommon | Uncommon | Uncommon |
 | Post procedural haematoma | Uncommon | Uncommon | - | - |
 | Post procedural haemorrhage | Uncommon | Uncommon | - | - |
 | Anaemia postoperative | Uncommon | Uncommon | - | - |
@@ -244,8 +249,10 @@ Table 4 shows the adverse reactions identified from the prevention of thromboemb
 | Drug hypersensitivity | Uncommon | Uncommon |
 | Rash | Uncommon | Uncommon |
 | Pruritus | Uncommon | Uncommon |
+| Anaphylactic reaction | Rare | Rare |
+| Angioedema | Rare | Rare |
 | Urticaria | Rare | Rare |
-| Bronchospasm | Not known | Very Rare |
+| Bronchospasm | Not known | Not known |
 | Nervous system disorders |  |  |
 | Intracranial haemorrhage | Uncommon | Uncommon |
 | Vascular disorders |  |  |
@@ -278,23 +285,13 @@ Table 4 shows the adverse reactions identified from the prevention of thromboemb
 | Musculoskeletal and connective tissue disorders |  |  |
 | Haemarthrosis | Rare | Rare |
 | Renal and urinary disorders |  |  |
-| Genitourological haemorrhage | Uncommon | Common |
+| Genitourological haemorrhage | Common | Common |
 | Haematuria | Uncommon | Uncommon |
 | General disorders and administration site conditions |  |  |
 | Injection site haemorrhage | Rare | Rare |
 | Catheter site haemorrhage | Rare | Rare |
 | Injury, poisoning and procedural complications |  |  |
+| Traumatic haemorrhage | Uncommon | Uncommon |
 | Incision site haemorrhage | Uncommon | Uncommon |
 
 The table 5 shows bleeding events broken down to major and any bleeding in the pivotal study testing the prevention of thromboembolic stroke and SEE in patients with atrial fibrillation.
-
-|  | Dabigatran etexilate 110 mg twice daily | Dabigatran etexilate 150 mg twice daily | Warfarin |
-| --- | --- | --- | --- |
-| Subjects randomized | 6,015 | 6,076 | 6,022 |
-| Major bleeding | 342 (2.87 %) | 399 (3.32 %) | 421 (3.57 %) |
-| Intracranial bleeding | 27 (0.23 %) | 38 (0.32 %) | 90 (0.76 %) |
-| GI bleeding | 134 (1.14 %) | 186 (1.57 %) | 125 (1.07 %) |
-| Fatal bleeding | 23 (0.19 %) | 28 (0.23 %) | 39 (0.33 %) |
-| Minor bleeding | 1,566 (13.16 %) | 1,787 (14.85 %) | 1,931 (16.37 %) |
-
-Any bleeding 1,754 (14.74 %) 1,993 (16.56 %) 2,166 (18.37 %)

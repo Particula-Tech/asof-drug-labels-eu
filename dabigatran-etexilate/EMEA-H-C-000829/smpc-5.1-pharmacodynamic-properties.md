@@ -9,7 +9,6 @@ After oral administration, dabigatran etexilate is rapidly absorbed and converte
 Dabigatran is a potent, competitive, reversible direct thrombin inhibitor and is the main active principle in plasma.
 Since thrombin (serine protease) enables the conversion of fibrinogen into fibrin during the coagulation cascade, its inhibition prevents the development of thrombus.
 Dabigatran also inhibits free thrombin, fibrin-bound thrombin and thrombin-induced platelet aggregation.
-
 Pharmacodynamic effects
 In-vivo and ex-vivo animal studies have demonstrated antithrombotic efficacy and anticoagulant activity of dabigatran after intravenous administration and of dabigatran etexilate after oral administration in various animal models of thrombosis.
 
@@ -46,7 +45,6 @@ Clinical trials in Venous Thromboembolism (VTE) prophylaxis following major join
 In 2 large randomized, parallel group, double-blind, dose-confirmatory trials, patients undergoing elective major orthopaedic surgery (one for knee replacement surgery and one for hip replacement surgery) received Pradaxa 75 mg or 110 mg within 1-4 hours of surgery followed by 150 mg or 220 mg daily thereafter, haemostasis having been secured, or enoxaparin 40 mg on the day prior to surgery and daily thereafter.
 In the RE-MODEL trial (knee replacement) treatment was for 6-10 days and in the RE-NOVATE trial (hip replacement) for 28-35 days.
 Totals of 2,076 patients (knee) and 3,494 (hip) were treated respectively.
-
 Composite of total VTE (including PE, proximal and distal DVT, whatever symptomatic or asymptomatic detected by routine venography) and all-cause mortality constituted the primary end-point for both studies.
 Composite of major VTE (including PE and proximal DVT, whatever symptomatic or asymptomatic detected by routine venography) and VTE-related mortality constituted a secondary end-point and is considered of better clinical relevance.
 Results of both studies showed that the antithrombotic effect of Pradaxa 220 mg and 150 mg were statistically non-inferior to that of enoxaparin on total VTE and all-cause mortality.
@@ -110,6 +108,12 @@ Table 8: Major bleeding events by treatment in the individual RE-MODEL and the R
 Paediatric population
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Pradaxa in all subsets of the paediatric population in prevention of thromboembolic events in the granted indication (see section 4.2 for information on paediatric use).
+
+Clinical trials for the prevention of thromboembolism in patients with prosthetic heart valves
+
+A phase II study examined dabigatran etexilate and warfarin in a total of 252 patients with recent mechanical valve replacement surgery (i.e. within the current hospital stay) and in patients who received a mechanical heart valve replacement more than three months ago.
+More thromboembolic events (mainly strokes and symptomatic/asymptomatic prosthetic valve thrombosis) and more bleeding events were observed with dabigatran etexilate than with warfarin.
+In the early post-operative patients, major bleeding manifested predominantly as haemorrhagic pericardial effusions, specifically in patients who started dabigatran etexilate early (i.e. on Day 3) after heart valve replacement surgery (see section 4.3).
 
 [Pradaxa 110 mg hard capsules]
 
@@ -287,6 +291,7 @@ Table 14: Hazard Ratio and 95 % CI for major bleeds by subgroups
 
 The dabigatran geometric mean trough concentration, measured at trough in the morning, at the end of the dosing interval (i.e. 12 hours after the 150 mg dabigatran evening dose), was on average 91.0 ng/mL, with a range of 61.0-143 ng/mL (25th–
 75th percentile range).
+
 For patients with atrial nonvalvular fibrillation treated for prevention of stroke and SEE with 150 mg dabigatran etexilate twice daily,
 
 For patients randomized to warfarin, the mean percentage within time in therapeutic range (TTR) (INR 2-3) was 64.4 % (median TTR 67 %).
@@ -304,19 +309,6 @@ Table 8: Analysis of all cause and cardiovascular survival during the study peri
 Tables 9-10 display results of the primary efficacy and safety endpoint in relevant sub-populations:
 
 Table 9: Hazard Ratio and 95 % CI for stroke/SEE by subgroups
-
-| Endpoint | Dabigatran etexilate 110 mg twice daily vs. warfarin | Dabigatran etexilate 150 mg twice daily vs. warfarin |
-| --- | --- | --- |
-| Age (years) |  |  |
-| < 65 | 1.10 (0.64, 1.87) | 0.51 (0.26, 0.98) |
-| 65 ≤ and < 75 | 0.87 (0.62, 1.20) | 0.68 (0.47, 0.96) |
-| ≥ 75 | 0.88 (0.66, 1.17) | 0.67 (0.49, 0.90) |
-| ≥ 80 | 0.68 (0.44, 1.05) | 0.65 (0.43, 1.00) |
-| CrCL(mL/min) |  |  |
-| 30 ≤ and < 50 | 0.89 (0.61, 1.31) | 0.47 (0.30, 0.74) |
-| 50 ≤ and < 80 | 0.91 (0.68, 1.20) | 0.65 (0.47, 0.88) |
-
-≥ 80 0.83 (0.52, 1.32) 0.71 (0.44, 1.15)
 
 The concomitant use of antiplatelets ASA or clopidogrel approximately doubles MBE rates with both dabigatran and warfarin.
 

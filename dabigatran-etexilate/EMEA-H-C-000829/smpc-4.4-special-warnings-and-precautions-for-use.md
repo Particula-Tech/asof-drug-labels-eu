@@ -26,8 +26,8 @@ Please also refer to contraindications in section 4.3.
 
 | Pharmacodynamic and kinetic factors | Age ≥ 75 years |
 | --- | --- |
-| Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment (30-50 mL/min CrCL) |
-|  | • P-gp inhibitor co-medication (some P-gp inhibitors are contraindicated, see section 4.3 and 4.5) Minor: • Low body weight (< 50 kg) |
+| Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment |
+|  | (30-50 mL/min CrCL) • P-gp inhibitor co-medication (some P-gp inhibitors are contraindicated, see section 4.3 and 4.5) Minor: • Low body weight (< 50 kg) |
 | Pharmacodynamic interactions | • ASA • NSAID • Clopidogrel • SSRIs or SNRIs • Other drugs which may impair haemostasis |
 | Diseases / procedures with special haemorrhagic risks | • Congenital or acquired coagulation disorders • Thrombocytopenia or functional platelet defects • Recent biopsy, major trauma • Bacterial endocarditis • Esophagitis, gastritis or gastroesophageal reflux |
 
@@ -56,8 +56,8 @@ Limited data is available in patients < 50 kg (see section 5.2).
 When severe bleedings occur treatment must be discontinued and the source of bleeding investigated (see section 4.9).
 
 Medicinal products that may enhance the risk of haemorrhage should not be administered concomitantly or should be administered with caution with Pradaxa (see section 4.5).
-
 Interaction with P-gp inducers
+
 Concomitant administration of P-gp inducers (such as rifampicin, St. John`s wort (Hypericum perforatum), carbamazepine, or phenytoin) is expected to result in decreased dabigatran plasma concentrations, and should be avoided (see sections 4.5 and 5.2).
 
 Surgery and interventions
@@ -102,15 +102,10 @@ Resume treatment after complete haemostasis is achieved.
 Patients at high surgical mortality risk and with intrinsic risk factors for thromboembolic events
 
 There are limited efficacy and safety data for dabigatran available in these patients and therefore they should be treated with caution.
-
 Hip fracture surgery
 
 There is no data on the use of Pradaxa in patients undergoing hip fracture surgery.
 Therefore treatment is not recommended.
-Patients with prosthetic heart valves
-
-The safety and efficacy of Pradaxa has not been studied in patients with prosthetic heart valves.
-Therefore, use of Pradaxa is not recommended in these patients.
 
 Colorants
 
@@ -138,8 +133,7 @@ The presence of lesions, conditions, procedures and/or pharmacological treatment
 | dTT [ng/mL] | > 67 | > 200 |
 | ECT [x-fold upper limit of normal] | No data | > 3 |
 | aPTT [x-fold upper limit of normal] | > 1.3 | > 2 |
-
-INR Should not be performed Should not be performed
+| INR | Should not be performed | Should not be performed |
 
 Use of fibrinolytic medicinal products for the treatment of acute ischemic stroke
 
@@ -162,8 +156,7 @@ Use of acetylsalicylic acid (ASA), clopidogrel or non steroidal antiinflammatory
 | Pharmacodynamic and kinetic factors | Age ≥ 75 years |
 | --- | --- |
 | Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment (30-50 mL/min CrCL) • P-gp inhibitor co-medication (some P-gp inhibitors are contraindicated, see section 4.3 and 4.5) Minor: • Low body weight (< 50 kg) |
-| Pharmacodynamic interactions | • ASA |
-|  | • NSAID • Clopidogrel • SSRIs or SNRIs • Other drugs which may impair haemostasis |
+| Pharmacodynamic interactions | • ASA • NSAID • Clopidogrel • SSRIs or SNRIs • Other drugs which may impair haemostasis |
 | Diseases / procedures with special haemorrhagic risks | • Congenital or acquired coagulation disorders • Thrombocytopenia or functional platelet defects • Recent biopsy, major trauma • Bacterial endocarditis • Esophagitis, gastritis or gastroesophageal reflux |
 
 | Test (trough value) |  |
