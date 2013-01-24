@@ -31,7 +31,6 @@ When weak inhibitors of CYP3A4 (e.g., diltiazem or escitalopram) or CYP2D6 are u
 
 Following concomitant administration of carbamazepine, a potent inducer of CYP3A4, the geometric means of Cmax and AUC for aripiprazole were 68% and 73% lower, respectively, compared to when aripiprazole (30 mg) was administered alone.
 Similarly, for dehydro-aripiprazole the geometric means of Cmax and AUC after carbamazepine co-administration were 69% and 71% lower, respectively, than those following treatment with aripiprazole alone.
-
 ABILIFY dose should be doubled when concomitant administration of ABILIFY occurs with carbamazepine.
 Other potent inducers of CYP3A4 (such as rifampicin, rifabutin, phenytoin, phenobarbital, primidone, efavirenz, nevirapine and St. John's Wort) may be expected to have similar effects and similar dose increases should therefore be applied.
 Upon discontinuation of potent CYP3A4 inducers, the dosage of ABILIFY should be reduced to the recommended dose.

@@ -1,7 +1,10 @@
 # 4.1 Therapeutic indications
 
-ABILIFY is indicated for the treatment of schizophrenia in adults and in adolescents 15 years and older.
-ABILIFY is indicated for the treatment of moderate to severe manic episodes in Bipolar I Disorder and for the prevention of a new manic episode in patients who experienced predominantly manic episodes and whose manic episodes responded to aripiprazole treatment (see section 5.1).
+ABILIFY is indicated for the treatment of schizophrenia in adults and in adolescents aged 15 years and older.
+
+ABILIFY is indicated for the treatment of moderate to severe manic episodes in Bipolar I Disorder and for the prevention of a new manic episode in adults who experienced predominantly manic episodes and whose manic episodes responded to aripiprazole treatment (see section 5.1).
+
+ABILIFY is indicated for the treatment up to 12 weeks of moderate to severe manic episodes in Bipolar I Disorder in adolescents aged 13 years and older (see section 5.1).
 
 [ABILIFY 10 mg tablets]
 

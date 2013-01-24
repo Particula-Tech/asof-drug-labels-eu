@@ -23,17 +23,17 @@ The total body clearance of aripiprazole is 0.7 ml/min/kg, which is primarily he
 
 Following a single oral dose of [14C]-labelled aripiprazole, approximately 27% of the administered radioactivity was recovered in the urine and approximately 60% in the faeces.
 Less than 1% of unchanged aripiprazole was excreted in the urine and approximately 18% was recovered unchanged in the faeces.
+
 Pharmacokinetics in special patient groups
 
 Paediatric population:
-The pharmacokinetics of aripiprazole and dehydro-aripiprazole in paediatric patients 13 to 17 years of age were similar to those in adults after correcting for the differences in body weights.
+The pharmacokinetics of aripiprazole and dehydro-aripiprazole in paediatric patients 10 to 17 years of age were similar to those in adults after correcting for the differences in body weights.
 
 Elderly:
 There are no differences in the pharmacokinetics of aripiprazole between healthy elderly and younger adult subjects, nor is there any detectable effect of age in a population pharmacokinetic analysis in schizophrenic patients.
 
 Gender:
 There are no differences in the pharmacokinetics of aripiprazole between healthy male and female subjects nor is there any detectable effect of gender in a population pharmacokinetic analysis in schizophrenic patients.
-
 Smoking and Race:
 Population pharmacokinetic evaluation has revealed no evidence of clinically significant race-related differences or effects from smoking upon the pharmacokinetics of aripiprazole.
 
@@ -82,4 +82,4 @@ Aripiprazole solution for injection administered intramuscularly as a single-dos
 The aripiprazole AUC in the first 2 hours after an intramuscular injection was 90% greater than the AUC after the same dose as a tablet; systemic exposure was generally similar between the 2 formulations.
 In 2 studies in healthy subjects the median times to the peak plasma concentrations were 1 and 3 hours after dosing.
 
-The pharmacokinetics of oral aripiprazole and dehydro-aripiprazole in paediatric patients 13 to 17 years of age were similar to those in adults after correcting for the differences in body weights.
+The pharmacokinetics of oral aripiprazole and dehydro-aripiprazole in paediatric patients 10 to 17 years of age were similar to those in adults after correcting for the differences in body weights.
