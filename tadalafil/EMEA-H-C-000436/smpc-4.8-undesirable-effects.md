@@ -21,7 +21,7 @@ Frequency convention: very common (≥1/10), common (≥1/100 to <1/10), uncommo
 | Eye disorders |  |  |  |
 |  |  | Blurred vision, Sensations described as eye pain | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION) 2, Retinal vascular occlusion2 |
 | Ear and labyrinth disorders |  |  |  |
-|  |  |  | Sudden hearing loss |
+|  |  | Tinnitus | Sudden hearing loss |
 | Cardiac disorders1 |  |  |  |
 |  |  | Tachycardia, Palpitations | Myocardial infarction, Unstable angina pectoris2, Ventricular arrhythmia2 |
 | Vascular disorders |  |  |  |
@@ -67,7 +67,7 @@ In clinical trials with tadalafil 5mg taken once a day for the treatment of beni
 | Eye disorders |  |  |  |
 |  |  | Blurred vision, Sensations described as eye pain | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION) 2, Retinal vascular occlusion2 |
 | Ear and labyrinth disorders |  |  |  |
-|  |  |  | Sudden hearing loss |
+|  |  | Tinnitus | Sudden hearing loss |
 | Cardiac disorders1 |  |  |  |
 |  |  | Tachycardia, Palpitations | Myocardial infarction, Unstable angina pectoris2, Ventricular arrhythmia2 |
 | Vascular disorders |  |  |  |
@@ -102,7 +102,7 @@ death1,2
 | Eye disorders |  |  |  |
 |  |  | Blurred vision, Sensations described as eye pain, | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION) 2, Retinal vascular occlusion2 |
 | Ear and labyrinth disorders |  |  |  |
-|  |  |  | Sudden hearing loss |
+|  |  | Tinnitus | Sudden hearing loss |
 | Cardiac disorders1 |  |  |  |
 |  |  | Tachycardia, Palpitations | Myocardial infarction, Unstable angina pectoris2, Ventricular arrhythmia2 |
 | Vascular disorders |  |  |  |
@@ -135,7 +135,7 @@ The most commonly reported adverse reactions in patients taking CIALIS for the t
 | Eye disorders |  |  |  |
 |  |  | Blurred vision, Sensations described as eye pain | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION) 2, Retinal vascular occlusion2 |
 | Ear and labyrinth disorders |  |  |  |
-|  |  |  | Sudden hearing loss |
+|  |  | Tinnitus | Sudden hearing loss |
 | Cardiac disorders1 |  |  |  |
 |  |  | Tachycardia, Palpitations | Myocardial infarction, Unstable angina pectoris2, Ventricular arrhythmia2 |
 | Vascular disorders |  |  |  |
