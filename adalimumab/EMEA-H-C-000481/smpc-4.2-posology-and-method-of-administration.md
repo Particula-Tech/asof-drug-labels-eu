@@ -1,5 +1,7 @@
 # 4.2 Posology and method of administration
 
+Posology
+
 Humira treatment should be initiated and supervised by specialist physicians experienced in the diagnosis and treatment of polyarticular juvenile idiopathic arthritis.
 Patients treated with Humira should be given the special alert card.
 
@@ -7,13 +9,9 @@ After proper training in injection technique, patients may self-inject with Humi
 
 Paediatric Population
 
-Polyarticular Juvenile Idiopathic Arthritis
+Polyarticular Juvenile Idiopathic Arthritis Age 2 to 12 years
 
-Humira has not been studied in children aged less than 4 years.
-Limited data are available for Humira treatment in paediatric patients with a weight below 15 kg.
-
-Polyarticular Juvenile Idiopathic Arthritis Age 4 to 12 years
-The recommended dose of Humira for patients with polyarticular juvenile idiopathic arthritis, aged 4 - 12 years, is 24 mg/m² body surface area up to a maximum single dose of 40 mg adalimumab administered every other week via subcutaneous injection.
+The recommended dose of Humira for patients with polyarticular juvenile idiopathic arthritis, aged 2-12 years, is 24 mg/m² body surface area up to a maximum single dose of 20 mg adalimumab (for patients aged 2-<4) and up to a maximum single dose of 40 mg adalimumab (for patients aged 4-12) administered every other week via subcutaneous injection..
 The volume for injection is selected based on the patients' height and weight (Table 1).
 
 Table 1.
@@ -45,6 +43,8 @@ A 40 mg pen and a 40 mg pre-filled syringe are also available for patients to ad
 Available data suggest that clinical response is usually achieved within 12 weeks of treatment.
 Continued therapy should be carefully reconsidered in a patient not responding within this time period.
 
+There is no relevant use of Humira in children aged less than 2 years in this indication.
+
 Paediatric Crohn's disease
 
 Paediatric Crohn's disease patients < 40 kg:
@@ -66,20 +66,23 @@ Continued therapy should be carefully considered in a subject not responding by 
 
 A 40 mg pen and a 40 mg prefilled syringe are also available for patients to administer a full 40 mg dose.
 
-Impaired renal and/or hepatic function
+There is no relevant use of Humira in children aged less than 6 years in this indication.Impaired renal and/or hepatic function
 
 Humira has not been studied in these patient populations.
 No dose recommendations can be made.
+
+Method of administration
+
+Humira is administered by subcutaneous injection.
+Full instructions for use are provided in the package leaflet.
 
 [Humira 40 mg solution for injection in pre-filled syringe]
 
 Humira treatment should be initiated and supervised by specialist physicians experienced in the diagnosis and treatment of conditions for which Humira is indicated.
 
 During treatment with Humira, other concomitant therapies (e.g., corticosteroids and/or immunomodulatory agents) should be optimised.
-
-Adults
-
 Rheumatoid arthritis
+
 The recommended dose of Humira for adult patients with rheumatoid arthritis is 40 mg adalimumab administered every other week as a single dose via subcutaneous injection.
 Methotrexate should be continued during treatment with Humira.
 
@@ -115,8 +118,8 @@ Alternatively, if a patient has stopped Humira and signs and symptoms of disease
 There is little experience from re-administration after more than 8 weeks since the previous dose.
 
 During maintenance treatment, corticosteroids may be tapered in accordance with clinical practice guidelines.
-
 Some patients who experience decrease in their response may benefit from an increase in dosing frequency to 40 mg Humira every week.
+
 Some patients who have not responded by Week 4 may benefit from continued maintenance therapy through Week 12.
 
 Ulcerative colitis
@@ -130,7 +133,29 @@ Elderly patients
 
 No dose adjustment is required.
 
+Impaired renal and/or hepatic function
+
+Polyarticular Juvenile Idiopathic Arthritis
+
 A 40 mg paediatric vial is available for patients who need to administer less than the full 40 mg dose.
+
+There is no relevant use of Humira in children aged <2 years in this indication.
+
+Paediatric psoriasis
+
+The safety and efficacy of Humira in children aged 4-17 years have not been established.
+No data are available.
+There is no relevant use of Humira in children aged <4 years in this indication.
+
+There is no relevant use of Humira in children aged below 6 years in this indication.
+
+Paediatric ulcerative colitis
+
+The safety and efficacy of Humira in children aged 4-17 years have not yet been established.
+
+Psoriatic arthritis and axial spondyloarthritis including ankylosing spondylitis
+
+There is no relevant use of Humira in the paediatric population in the indications, ankylosing spondylitis and psoriatric arthritis.
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
@@ -141,3 +166,5 @@ There is little experience from re administration after more than 8 weeks since 
 [Humira 40 mg solution for injection in pre-filled pen]
 
 Polyarticular Juvenile Idiopathis Arthritis
+
+There is no relvant use of Humira in children aged <4 years in this indication.

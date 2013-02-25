@@ -2,9 +2,9 @@
 
 Polyarticular juvenile idiopathic arthritis
 
-Humira in combination with methotrexate is indicated for the treatment of active polyarticular juvenile idiopathic arthritis, in children and adolescents aged 4 to 17 years who have had an inadequate response to one or more disease-modifying anti-rheumatic drugs (DMARDs).
+Humira in combination with methotrexate is indicated for the treatment of active polyarticular juvenile idiopathic arthritis, in children and adolescents aged 2 to 17 years who have had an inadequate response to one or more disease-modifying anti-rheumatic drugs (DMARDs).
 Humira can be given as monotherapy in case of intolerance to methotrexate or when continued treatment with methotrexate is inappropriate (for the efficacy in monotherapy see section 5.1).
-Humira has not been studied in children aged less than 4 years.
+Humira has not been studied in children aged less than 2 years.
 
 Paediatric Crohn's Disease
 

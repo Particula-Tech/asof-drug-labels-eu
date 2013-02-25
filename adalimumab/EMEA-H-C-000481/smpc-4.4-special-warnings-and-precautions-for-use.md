@@ -13,7 +13,6 @@ In patients who have been exposed to tuberculosis and patients who have travelle
 Patients who develop a new infection while undergoing treatment with Humira, should be monitored closely and undergo a complete diagnostic evaluation.
 Administration of Humira should be discontinued if a patient develops a new serious infection or sepsis, and appropriate antimicrobial or antifungal therapy should be initiated until the infection is controlled.
 Physicians should exercise caution when considering the use of Humira in patients with a history of recurring infection or with underlying conditions which may predispose patients to infections, including the use of concomitant immunosuppressive medications.
-
 Serious infections:
 
 Serious infections, including sepsis, due to bacterial, mycobacterial, invasive fungal, parasitic, viral, or other opportunistic infections such as listeriosis, legionellosis and pneumocystis have been reported in patients receiving Humira.
@@ -22,6 +21,7 @@ Other serious infections seen in clinical trials include pneumonia, pyelonephrit
 Hospitalisation or fatal outcomes associated with infections have been reported.
 
 Tuberculosis:
+
 Tuberculosis, including reactivation and new onset of tuberculosis, has been reported in patients receiving Humira.
 Reports included cases of pulmonary and extra-pulmonary (i.e. disseminated) tuberculosis.
 
@@ -72,13 +72,10 @@ Prescribers should exercise caution in considering the use of Humira in patients
 
 Allergic reactions
 
-Serious allergic adverse reactions have not been reported with subcutaneous administration of Humira during clinical trials.
+Serious allergic reactions associated with Humira were rare during clinical trials.
 Non-serious allergic reactions associated with Humira were uncommon during clinical trials.
-In postmarketing, serious allergic reactions including anaphylaxis have been reported very rarely following Humira administration.
+Reports of serious allergic reactions including anaphylaxis have been received following Humira administration.
 If an anaphylactic reaction or other serious allergic reaction occurs, administration of Humira should be discontinued immediately and appropriate therapy initiated.
-
-The needle cover of the syringe contains natural rubber (latex).
-This may cause severe allergic reactions in patients sensitive to latex.
 
 Immunosuppression
 
@@ -133,7 +130,6 @@ It is recommended that paediatric patients, if possible, be brought up to date w
 
 Patients on Humira may receive concurrent vaccinations, except for live vaccines.
 Administration of live vaccines to infants exposed to adalimumab in utero is not recommended for 5 months following the mother’s last adalimumab injection during pregnancy.
-
 Congestive heart failure
 
 In a clinical trial with another TNF-antagonist worsening congestive heart failure and increased mortality due to congestive heart failure have been observed.
@@ -176,9 +172,15 @@ The frequency of serious infections among Humira treated subjects over 65 years 
 Some of those had a fatal outcome.
 Particular attention regarding the risk for infection should be paid when treating the elderly.
 
+Paediatric population
+
+See Vaccinations above.
+
 [Humira 40 mg solution for injection in pre-filled syringe]
 
 In patients who have been exposed to tuberculosis and patients who have travelled in areas of high risk of tuberculosis or endemic mycoses, such as histoplasmosis, coccidioidomycosis, or blastomycosis, the risk and benefits of treatment with Humira should be considered prior to initiating therapy (see Opportunistic infections).
+
+Non-serious allergic reactions associated with Humira were uncommon during clinical trials.Reports of serious allergic reactions including anaphylaxis have been received following Humira administration.
 
 There is an increased background risk for lymphoma and leukemia in rheumatoid arthritis patients with long-standing highly active, inflammatory disease, which complicatesthe risk estimation.
 

@@ -7,7 +7,7 @@ Humira 40 mg solution for injection in single-use vial (type I glass), fitted wi
 
 [Humira 40 mg solution for injection in pre-filled syringe]
 
-Humira 40 mg solution for injection in single-use pre-filled syringe (type I glass) with a plunger stopper (bromobutyl rubber) and a needle with a needle shield (thermoplastic elastomer)for patient use:
+Humira 40 mg solution for injection in single-use pre-filled syringe (type I glass) with a plunger stopper (bromobutyl rubber) and a needle with a needle shield (thermoplastic elastomer) for patient use:
 
 Packs of:
 
