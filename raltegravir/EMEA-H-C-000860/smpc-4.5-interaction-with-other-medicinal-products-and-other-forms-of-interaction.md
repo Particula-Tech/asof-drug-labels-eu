@@ -2,21 +2,25 @@
 
 In vitro studies indicate that raltegravir is not a substrate of cytochrome P450 (CYP) enzymes, does not inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or CYP3A, does not induce CYP3A4 and does not inhibit P-glycoprotein-mediated transport.
 Based on these data, ISENTRESS is not expected to affect the pharmacokinetics of medicinal products that are substrates of these enzymes or P-glycoprotein.
-
 Based on in vitro and in vivo studies, raltegravir is eliminated mainly by metabolism via a UGT1A1-mediated glucuronidation pathway.
 
 Although in vitro studies indicated that raltegravir is not an inhibitor of the UDP glucuronosyltransferases (UGTs) 1A1 and 2B7, one clinical study has suggested that some inhibition of UGT1A1 may occur in vivo based on effects observed on bilirubin glucuronidation.
 However, the magnitude of the effect seems unlikely to result in clinically important drug-drug interactions.
+
 Considerable inter- and intra-individual variability was observed in the pharmacokinetics of raltegravir.
 The following drug interaction information is based on Geometric Mean values; the effect for an individual patient cannot be predicted precisely.
 
 Effect of raltegravir on the pharmacokinetics of other medicinal products
 In interaction studies, raltegravir did not have a clinically meaningful effect on the pharmacokinetics of etravirine, maraviroc, tenofovir, hormonal contraceptives, methadone, or midazolam.
 
+In some studies, co-administration of ISENTRESS with darunavir resulted in a modest decrease in darunavir pharmacokinetics; the mechanism for this effect is unknown.
+However, the effect of raltegravir on darunavir plasma concentrations does not appear to be clinically meaningful.
+
 Effect of other agents on the pharmacokinetics of raltegravir
 Given that raltegravir is metabolised primarily via UGT1A1, caution should be used when co-administering ISENTRESS with strong inducers of UGT1A1 (e.g., rifampicin).
 Rifampicin reduces plasma levels of raltegravir; the impact on the efficacy of raltegravir is unknown.
-However, if co-administration with rifampicin is unavoidable, a doubling of the dose of ISENTRESS can be considered (see section 4.4).
+However, if co-administration with rifampicin is unavoidable, a doubling of the dose of ISENTRESS can be considered in adults.
+There are no data to guide co-administration of ISENTRESS with rifampicin in patients below 18 years of age (see section 4.4).
 The impact of other strong inducers of drug metabolizing enzymes, such as phenytoin and phenobarbital, on UGT1A1 is unknown.
 Less potent inducers (e.g., efavirenz, nevirapine, etravirine, rifabutin, glucocorticoids, St. John's wort, pioglitazone) may be used with the recommended dose of ISENTRESS.
 
@@ -30,8 +34,9 @@ Therefore no dose adjustment is required.
 In healthy subjects, co-administration of ISENTRESS with omeprazole increases raltegravir plasma levels.
 As the effects of increasing gastric pH on the absorption of raltegravir in HIV-infected patients are uncertain, use ISENTRESS with medicinal products that increase gastric pH (e.g., proton pump inhibitors and H2 antagonists) only if unavoidable.
 
+All interaction studies were performed in adults.
 Table 1
-Pharmacokinetic Interaction Data
+Pharmacokinetic Interaction Data in Adults
 
 | Medicinal products by therapeutic area | Interaction (mechanism, if known) | Recommendations concerning co-administration |
 | --- | --- | --- |
@@ -57,3 +62,15 @@ Pharmacokinetic Interaction Data
 | Ethinyl Estradiol Norelgestromin (raltegravir 400 mg Twice Daily) | Ethinyl Estradiol AUC ↓ 2 % Ethinyl Estradiol Cmax ↑ 1 % Norelgestromin AUC ↑ 14 % Norelgestromin Cmax ↑ 29 % | No dosage adjustment required for ISENTRESS or hormonal contraceptives (estrogen-and/or progesterone-based). |
 | OPIOID ANALGESICS |  |  |
 | methadone (raltegravir 400 mg Twice Daily) | methadone AUC ↔ methadone Cmax ↔ | No dose adjustment required for ISENTRESS or methadone. |
+
+[ISENTRESS 100 mg chewable tablets]
+
+In addition, tenofovir may increase plasma levels of raltegravir, however, the mechanism for this effect is unknown (see Table 2).
+
+All interaction studies have been performed in adults.
+
+Table 2
+
+[ISENTRESS 25 mg chewable tablets]
+
+(all sentences already above)
