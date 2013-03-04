@@ -1,0 +1,18 @@
+# 6.6 Special precautions for disposal and other handling
+
+Perjeta does not contain any antimicrobial preservative.
+Therefore, care must be taken to ensure the sterility of the prepared solution for infusion and should be prepared by a healthcare professional.
+
+Perjeta is for single use only and is administered intravenously by infusion.
+
+The vial must not be shaken.
+All the Perjeta concentrate from the vial should be mixed and diluted into a 250 ml PVC or non-PVC polyolefin infusion bag of sodium chloride 9 mg/ml (0.9%) solution for infusion.
+After dilution, one ml of solution should contain 3.36 mg of pertuzumab (840 mg/250 ml) for the initial dose and1.68 mg of pertuzumab (420 mg/250 ml) for the maintenance dose.
+
+The bag should be gently inverted to mix the solution in order to avoid foaming.
+
+Parenteral medicinal products should be inspected visually for particulates and discolouration prior to administration.
+If particulates or discoloration are observed, the solution should not be used.
+Once the infusion is prepared it should be administered immediately (see section 6.3).
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

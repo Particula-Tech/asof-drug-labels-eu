@@ -1,0 +1,21 @@
+# 4.6 Fertility, pregnancy and lactation
+
+Contraception in males and females
+
+Women of childbearing potential and male patients with female partners of childbearing potential, must use effective contraception while receiving Perjeta and for 6 months following the last dose of Perjeta.
+
+Pregnancy
+
+There is limited amount of data from the use of pertuzumab in pregnant women.
+Studies in animals have shown reproductive toxicity (see section 5.3).
+Perjeta is not recommended during pregnancy and in women of childbearing potential not using contraception.
+
+Breast-feeding
+
+Because human IgG is secreted in human milk and the potential for absorption and harm to the infant is unknown, a decision should be made to discontinue breast-feeding or to discontinue treatment, taking into account the benefit of breast-feeding for the child and the benefit of Perjeta therapy for the woman (see section 5.2).
+
+Fertility
+
+No specific fertility studies in animals have been performed to evaluate the effect of pertuzumab.
+Only very limited data are available from repeat-dose toxicity studies with respect to the risk for adverse effects on the male reproductive system.
+No adverse effects were observed in sexually mature female cynomolgus monkeys exposed to pertuzumab.
