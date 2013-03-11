@@ -24,8 +24,9 @@ The safety and efficacy of CHAMPIX in patients with serious psychiatric illness 
 Limited data are available from a single smoking cessation study in patients with stable schizophrenia or schizoaffective disorder (See section 5.1).
 Care should be taken with patients with a history of psychiatric illness and patients should be advised accordingly.
 
-Epilepsy
-There is no clinical experience with CHAMPIX in patients with epilepsy.
+Seizures
+In clinical trials and post-marketing experience there have been reports of seizures in patients with or without a history of seizures, treated with CHAMPIX.
+CHAMPIX should be used cautiously in patients with a history of seizures or other conditions that potentially lower the seizure threshold.
 
 Treatment discontinuation
 At the end of treatment, discontinuation of CHAMPIX was associated with an increase in irritability, urge to smoke, depression, and/or insomnia in up to 3% of patients.

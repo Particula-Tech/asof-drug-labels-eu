@@ -44,14 +44,12 @@ Not Known Suicidal ideation, psychosis, aggression, abnormal behaviour,
 
 somnambulism
 Nervous system disorders
+System Organ Adverse Drug Reactions
+Class
 Very common Headache
 
 Common Somnolence, dizziness, dysgeusia
-
-System Organ Adverse Drug Reactions
-Class
-
-Uncommon Hypertonia, dysarthria, tremor, coordination abnormal, lethargy,
+Uncommon Seizure, hypertonia, dysarthria, tremor, coordination abnormal, lethargy,
 
 hypoaesthesia, hypogeusia
 
