@@ -8,7 +8,6 @@ Liraglutide is a GLP-1 analogue with 97% sequence homology to human GLP-1 that b
 The GLP-1 receptor is the target for native GLP-1, an endogenous incretin hormone that potentiates glucose-dependent insulin secretion from the pancreatic beta cells.
 Unlike native GLP-1, liraglutide has a pharmacokinetic and pharmacodynamic profile in humans suitable for once daily administration.
 Following subcutaneous administration, the protracted action profile is based on three mechanisms: self-association, which results in slow absorption; binding to albumin; and higher enzymatic stability towards the dipeptidyl peptidase IV (DPP-IV) and neutral endopeptidase (NEP) enzymes, resulting in a long plasma half-life.
-
 Liraglutide action is mediated via a specific interaction with GLP-1 receptors, leading to an increase in cyclic adenosine monophosphate (cAMP).
 Liraglutide stimulates insulin secretion in a glucose-dependent manner.
 Simultaneously, liraglutide lowers inappropriately high glucagon secretion, also in a glucose-dependent manner.

@@ -47,13 +47,12 @@ Table 1 Adverse reactions identified from long-term controlled phase III studies
 | Abdominal discomfort |  | Common |  |  |  |
 | Toothache |  |  | Common |  |  |
 | Gastroenteritis viral |  |  |  | Common |  |
+| Pancreatitis (including necrotising pancreatitis) |  |  |  |  | Very rare |
 | Immune system disorders |  |  |  |  |  |
 | Anaphylactic reactions |  |  |  |  | Rare |
 | General disorders and administration site conditions |  |  |  |  |  |
 | Fatigue |  |  |  | Common |  |
 | Malaise |  |  |  |  | Uncommon |
-| Pyrexia |  |  |  | Common |  |
-| Injection site reactions | Common | Common | Uncommon | Common |  |
 
 Adverse reaction Frequency of adverse reaction by treatment group
 Liraglutide Liraglutide Liraglutide Liraglutide Spontaneous
@@ -61,6 +60,9 @@ with with with with reports
 metformin glimepiride metformin metformin
 and and
 glimepiride rosiglitazone
+Pyrexia Common
+Injection site Common Common Uncommon Common
+reactions
 Renal and urinary disorders
 Renal failure Uncommon
 acute#
@@ -72,6 +74,9 @@ Skin and subcutaneous tissue disorder
 Urticaria Uncommon
 Rash Common
 Pruritus Uncommon
+Cardiac disorders
+Increased heart Not known
+rate
 
 # See section 4.4 (special warnings and precautions for use)
 
@@ -97,11 +102,11 @@ Patients with mild renal impairment (creatinine clearance 60-90 ml/min) may expe
 Withdrawal
 The incidence of withdrawal due to adverse reactions was 7.8% for Victoza-treated patients and 3.4% for comparator-treated patients in the long-term controlled trials (26 weeks or longer).
 The most frequent adverse reactions leading to withdrawal for Victoza-treated patients were nausea (2.8% of patients) and vomiting (1.5%).
-
 Immunogenicity
 Consistent with the potentially immunogenic properties of medicinal products containing proteins or peptides, patients may develop anti-liraglutide antibodies following treatment with Victoza.
 On average, 8.6% of patients developed antibodies.
 Antibody formation has not been associated with reduced efficacy of Victoza.
+
 Few cases (0.05%) of angioedema have been reported during all long-term clinical trials with Victoza.
 
 Injection site reactions
