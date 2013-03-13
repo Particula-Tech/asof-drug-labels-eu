@@ -57,7 +57,6 @@ In CHARISMA and one cohort study (Simon), an increased event rate was observed o
 In CURE, CLARITY, ACTIVE-A and one of the cohort studies (Trenk), no increased event rate was observed based on metaboliser status.
 
 None of these analyses were adequately sized to detect differences in outcome in poor metabolisers.
-
 Special populations
 
 The pharmacokinetics of the active metabolite of clopidogrel is not known in these special populations.

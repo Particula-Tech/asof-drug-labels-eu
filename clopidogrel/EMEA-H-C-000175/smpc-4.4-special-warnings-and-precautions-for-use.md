@@ -5,7 +5,6 @@ Due to the risk of bleeding and haematological adverse reactions, blood cell cou
 As with other antiplatelet agents, clopidogrel should be used with caution in patients who may be at risk of increased bleeding from trauma, surgery or other pathological conditions and in patients receiving treatment with ASA, heparin, glycoprotein IIb/IIIa inhibitors or non-steroidal anti-inflammatory drugs (NSAIDs) including Cox-2 inhibitors.
 Patients should be followed carefully for any signs of bleeding including occult bleeding, especially during the first weeks of treatment and/or after invasive cardiac procedures or surgery.
 The concomitant administration of clopidogrel with oral anticoagulants is not recommended since it may increase the intensity of bleedings (see section 4.5).
-
 If a patient is to undergo elective surgery and antiplatelet effect is temporarily not desirable, clopidogrel should be discontinued 7 days prior to surgery.
 Patients should inform physicians and dentists that they are taking clopidogrel before any surgery is scheduled and before any new medicinal product is taken.
 Clopidogrel prolongs bleeding time and should be used with caution in patients who have lesions with a propensity to bleed (particularly gastrointestinal and intraocular).
