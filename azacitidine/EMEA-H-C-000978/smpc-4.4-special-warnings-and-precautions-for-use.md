@@ -26,4 +26,7 @@ Liver function tests, serum creatinine and serum bicarbonate should be determine
 Complete blood counts should be performed prior to initiation of therapy and as needed to monitor response and toxicity, but at a minimum, prior to each treatment cycle, see also section 4.8.
 
 Cardiac and pulmonary disease
-Patients with a history of severe congestive heart failure, clinically unstable cardiac disease or pulmonary disease were excluded from the pivotal clinical study and therefore the safety and efficacy of Vidaza in these patients has not been established.
+Patients with a history of severe congestive heart failure, clinically unstable cardiac disease or pulmonary disease were excluded from the pivotal registration study (AZA-001) and therefore the safety and efficacy of Vidaza in these patients has not been established.
+Recent data from a clinical trial in patients with a known history of cardiovascular or pulmonary disease showed a significantly increased incidence of cardiac events with Vidaza (see section 4.8).
+It is therefore advised to exercise caution when prescribing Vidaza to these patients.
+Cardiopulmonary assessment before and during the treatment with Vidaza should be considered.

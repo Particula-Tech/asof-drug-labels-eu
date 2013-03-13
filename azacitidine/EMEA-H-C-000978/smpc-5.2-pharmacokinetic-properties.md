@@ -26,6 +26,5 @@ Following intravenous and subcutaneous administration of 14C-azacitidine, 85 and
 
 Special populations
 The effects of renal or hepatic impairment (see section 4.2), gender, age, or race on the pharmacokinetics of azacitidine have not been formally studied.
-
 Pharmacogenomics
 The effect of known cytidine deaminase polymorphisms on azacitidine metabolism has not been formally investigated.

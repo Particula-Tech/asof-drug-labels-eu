@@ -28,7 +28,7 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Respiratory, thoracic and mediastinal disorders | dyspnoea | dyspnoea exertional, pharyngolaryngeal pain |  | interstitial lung disease |
 | Gastrointestinal disorders | diarrhoea, vomiting, constipation, nausea, abdominal pain | gastrointestinal haemorrhage, haemorrhoidal haemorrhage, stomatitis, gingival bleeding, dyspepsia |  |  |
 | Hepatobiliary disorders |  |  | hepatic failure*, progressive hepatic coma |  |
-| Skin and subcutaneous tissue disorders | petechiae, pruritus, rash, ecchymosis | purpura, alopecia, erythema, rash macular |  |  |
+| Skin and subcutaneous tissue disorders | petechiae, pruritus, rash, ecchymosis | purpura, alopecia, erythema, rash macular | acute febrile neutrophilic dermatosis |  |
 | Musculoskeletal, and connective tissue disorders | arthralgia | myalgia, musculoskeletal pain |  |  |
 | Renal and urinary disorders |  | renal failure*, haematuria, elevated serum creatinine | renal tubular acidosis |  |
 | General disorders and administration site conditions | fatigue, pyrexia, chest pain, injection site erythema, injection site pain, injection site reaction (unspecified) | injection site: bruising, haematoma, induration, rash, pruritus, inflammation, discoloration, nodule and haemorrhage. malaise |  | injection site necrosis |
@@ -70,3 +70,5 @@ Renal abnormalities, ranging from elevated serum creatinine and haematuria to re
 
 Hepatic adverse reactions
 Patients with extensive tumour burden due to metastatic disease have been reported to experience hepatic failure, progressive hepatic coma and death during azacitidine treatment (see section 4.4).
+Cardiac events
+Data from a clinical trial allowing enrolment of patients with known history of cardiovascular or pulmonary disease showed a statistically significant increase in cardiac events in patients with newly diagnosed AML treated with Vidaza (see section 4.4).
