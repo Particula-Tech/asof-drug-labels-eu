@@ -10,7 +10,9 @@ The most common adverse reactions reported at a greater incidence in patients tr
 The most common adverse reaction reported at a greater incidence in patients treated with the aprepitant regimen than with standard therapy in patients receiving Moderately Emetogenic Chemotherapy (MEC) was fatigue (1.4 % versus 0.9 %).
 
 Tabulated list of adverse reactions - aprepitant
-The following adverse reactions were observed in a pooled analysis of the HEC and MEC studies at a greater incidence with oral aprepitant than with standard therapy or in postmarketing use: Frequencies are defined as: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000) and very rare (<1/10,000), not known (cannot be estimated from the available data).
+The following adverse reactions were observed in a pooled analysis of the HEC and MEC studies at a greater incidence with oral aprepitant than with standard therapy or in postmarketing use:
+
+Frequencies are defined as: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000) and very rare (<1/10,000), not known (cannot be estimated from the available data).
 
 | System organ class | Adverse reaction | Frequency |
 | --- | --- | --- |
@@ -31,8 +33,7 @@ The following adverse reactions were observed in a pooled analysis of the HEC an
 | Vascular disorders | hot flush | uncommon |
 | Respiratory, thoracic and mediastinal disorders | hiccups | common |
 |  | oropharyngeal pain, sneezing, cough, postnasal drip, throat irritation | rare |
-| Gastrointestinal disorders | constipation, dyspepsia | common |
-|  | eructation, nausea*, vomiting*, gastroesophageal reflux disease, abdominal pain, dry mouth, flatulence | uncommon |
+| Gastrointestinal disorders | constipation, dyspepsia eructation, nausea*, vomiting*, gastroesophageal reflux disease, abdominal pain, dry mouth, flatulence | common uncommon |
 |  | duodenal ulcer perforation, stomatitis, abdominal distension, faeces hard, neutropenic colitis | rare |
 | Skin and subcutaneous tissue disorders | rash, acne | uncommon |
 |  | photosensitivity reaction, hyperhidrosis, seborrhoea, skin lesion, rash pruritic, Stevens-Johnson syndrome/toxic epidermal necrolysis | rare |
@@ -48,6 +49,7 @@ The following adverse reactions were observed in a pooled analysis of the HEC an
 |  | red blood cells urine positive, blood sodium decreased, weight decreased, neutrophil count decreased, glucose urine present, urine output increased | rare |
 
 *Nausea and vomiting were efficacy parameters in the first 5-days of post-chemotherapy treatment and were reported as adverse reactions only thereafter.
+
 Description of selected adverse reactions
 The adverse reactions profiles in the Multiple-Cycle extension of HEC and MEC studies for up to 6 additional cycles of chemotherapy were generally similar to those observed in Cycle 1.
 
@@ -62,7 +64,6 @@ The safety profile was generally similar to that seen in the aprepitant table ab
 
 Tabulated list of adverse reactions - fosaprepitant
 The following are adverse reactions reported in patients receiving fosaprepitant in clinical studies or postmarketing that have not been reported with aprepitant as described above:
-
 Frequencies are defined as: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000) and very rare (<1/10,000), not known (cannot be estimated from the available data).
 
 | System organ class | Adverse reaction | Frequency |

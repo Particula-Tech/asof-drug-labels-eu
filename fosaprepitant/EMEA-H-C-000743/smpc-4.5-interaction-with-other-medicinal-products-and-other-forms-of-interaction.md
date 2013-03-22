@@ -22,7 +22,6 @@ Caution is advised during concomitant administration of fosaprepitant and active
 Corticosteroids
 Dexamethasone: The oral dexamethasone dose on Days 1 and 2 should be reduced by approximately 50 % when co-administered with fosaprepitant 150 mg on Day 1 to achieve exposures of dexamethasone similar to those obtained when given without fosaprepitant 150 mg.
 Fosaprepitant 150 mg administered as a single intravenous dose on Day 1 increased the AUC0-24hr of dexamethasone, a CYP3A4 substrate, by 100 % on Day 1 86 % on Day 2 and 18 % on Day 3 when dexamethasone was co-administered as a single 8 mg oral dose on Days 1, 2, and 3.
-
 Chemotherapeutic medicinal products
 Interaction studies with fosaprepitant 150 mg and chemotherapeutic medicinal products have not been conducted; however, based on studies with oral aprepitant and docetaxel and vinorelbine, IVEMEND 150 mg is not expected to have a clinically relevant interaction with intravenously administered docetaxel and vinorelbine.
 An interaction with orally administered chemotherapeutic medicinal products metabolised primarily or in part by CYP3A4 (e.g. etoposide, vinorelbine) cannot be excluded.
@@ -41,6 +40,7 @@ The potential effects of increased plasma concentrations of midazolam or other b
 Diltiazem
 Interaction studies with fosaprepitant 150 mg and diltiazem have not been conducted; however, the following study with 100 mg of fosaprepitant should be considered when using IVEMEND 150 mg with diltiazem.
 In patients with mild to moderate hypertension, infusion of 100 mg of fosaprepitant over 15 minutes with diltiazem 120 mg 3 times daily, resulted in a 1.4-fold increase in diltiazem AUC and a small but clinically meaningful decrease in blood pressure, but did not result in a clinically meaningful change in heart rate, or PR interval.
+
 Induction
 The fosaprepitant 150 mg single dose did not induce CYP3A4 on Days 1 and 4 in the midazolam interaction study.
 It is anticipated that IVEMEND would cause less or no greater induction of CYP2C9, CYP3A4, and glucuronidation than that caused by the administration of the 3-day oral aprepitant regimen, for which a transient induction with its maximum effect 6-8 days after first aprepitant dose has been observed.
@@ -54,7 +54,6 @@ In patients on chronic warfarin therapy, the prothrombin time (INR) should be mo
 Hormonal contraceptives
 The efficacy of hormonal contraceptives may be reduced during and for 28 days after administration of fosaprepitant.
 Alternative non-hormonal back-up methods of contraception should be used during treatment with fosaprepitant and for 2 months following the use of fosaprepitant.
-
 5-HT3 antagonists
 Interaction studies with fosaprepitant 150 mg and 5-HT3 antagonists have not been conducted; however, in clinical interaction studies, the oral aprepitant regimen did not have clinically important effects on the pharmacokinetics of ondansetron, granisetron, or hydrodolasetron (the active metabolite of dolasetron).
 Therefore, there is no evidence of interaction with the use of IVEMEND 150 mg and 5-HT3 antagonists.

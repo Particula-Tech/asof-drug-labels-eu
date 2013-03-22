@@ -3,7 +3,6 @@
 Posology
 The recommended dose is 150 mg administered as an infusion over 20-30 minutes on Day 1, initiated approximately 30 minutes prior to chemotherapy (see section 6.6).
 IVEMEND should be administered in conjunction with a corticosteroid and a 5-HT3 antagonist as specified in the tables below.
-
 The following regimens are recommended for the prevention of nausea and vomiting associated with emetogenic cancer chemotherapy.
 
 Highly Emetogenic Chemotherapy Regimen
@@ -12,29 +11,28 @@ Highly Emetogenic Chemotherapy Regimen
 | --- | --- | --- | --- | --- |
 | IVEMEND | 150 mg intravenously | none | none | none |
 | Dexamethasone | 12 mg orally | 8 mg orally | 8 mg orally twice daily | 8 mg orally twice daily |
-| Ondansetron | 32 mg intravenously | none | none | none |
+| 5-HT3 antagonists | Standard dose of 5-HT3 antagonists. See the product information for the selected 5-HT3 antagonist for appropriate dosing information | none | none | none |
 
 Dexamethasone should be administered 30 minutes prior to chemotherapy treatment on Day 1 and in the morning on Days 2 to 4.
 Dexamethasone should also be administered in the evenings on
 Days 3 and 4.
 The dose of dexamethasone accounts for active substance interactions.
-Ondansetron should be administered intravenously 30 minutes prior to chemotherapy treatment on Day 1.
+
 Moderately Emetogenic Chemotherapy Regimen
 
 |  | Day 1 |
 | --- | --- |
 | IVEMEND | 150 mg intravenously |
 | Dexamethasone | 12 mg orally |
-| Ondansetron | 2 x 8 mg orally |
+| 5-HT3 antagonists | Standard dose of 5-HT3 antagonists. See the product information for the selected 5-HT3 antagonist for appropriate dosing information |
 
 Dexamethasone should be administered 30 minutes prior to chemotherapy treatment on Day 1.
 The dose of dexamethasone accounts for active substance interactions.
-One 8 mg capsule of ondansetron should be administered 30 to 60 minutes prior to chemotherapy treatment and one 8 mg capsule should be administered 8 hours after first dose on Day 1.
 
-Efficacy data on combination with other corticosteroids and 5-HT3 antagonists are limited.
+Efficacy data in combination with other corticosteroids and 5-HT3 antagonists are limited.
 For additional information on the co-administration with corticosteroids, see section 4.5.
 
-Refer to the Summary of Product Characteristics of co-administered antiemetic medicinal products.
+Refer to the Summary of Product Characteristics of co-administered 5-HT3 antagonist medicinal products.
 
 Special populations
 Elderly (≥65 years)
@@ -50,7 +48,6 @@ Hepatic impairment
 No dose adjustment is necessary for patients with mild hepatic impairment.
 There are limited data in patients with moderate hepatic impairment and no data in patients with severe hepatic impairment.
 IVEMEND should be used with caution in these patients (see sections 4.4 and 5.2).
-
 Paediatric population
 The safety and efficacy of IVEMEND in children and adolescents below 18 years of age has not yet been established.
 No data are available.

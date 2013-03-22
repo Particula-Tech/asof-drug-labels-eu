@@ -3,6 +3,7 @@
 Patients with moderate to severe hepatic impairment
 There are limited data in patients with moderate hepatic impairment and no data in patients with severe hepatic impairment.
 IVEMEND should be used with caution in these patients (see section 5.2).
+
 CYP3A4 interactions
 IVEMEND should be used with caution in patients receiving concomitant active substances that are metabolised primarily through CYP3A4 and with a narrow therapeutic range, such as cyclosporine, tacrolimus, sirolimus, everolimus, alfentanil, diergotamine, ergotamine, fentanyl, and quinidine (see section 4.5).
 Additionally, concomitant administration with irinotecan should be approached with particular caution as the combination might result in increased toxicity.
@@ -18,7 +19,6 @@ Concomitant administration of fosaprepitant with active substances that inhibit 
 Co-administration with warfarin (a CYP2C9 substrate)
 Co-administration of oral aprepitant with warfarin results in decreased prothrombin time, reported as International Normalised Ratio (INR).
 In patients on chronic warfarin therapy, the INR should be monitored closely for 14 days following the use of fosaprepitant (see section 4.5).
-
 Co-administration with hormonal contraceptives
 The efficacy of hormonal contraceptives may be reduced during and for 28 days after administration of fosaprepitant.
 Alternative non-hormonal back-up methods of contraception should be used during treatment with fosaprepitant and for 2 months following the use of fosaprepitant (see section 4.5).

@@ -3,6 +3,7 @@
 Contraception in males and females
 The efficacy of hormonal contraceptives may be reduced during and for 28 days after administration of fosaprepitant.
 Alternative non-hormonal back-up methods of contraception should be used during treatment with fosaprepitant and for 2 months following the last dose of fosaprepitant (see sections 4.4 and 4.5).
+
 Pregnancy
 For fosaprepitant and aprepitant no clinical data on exposed pregnancies are available.
 The potential for reproductive toxicities of fosaprepitant and aprepitant have not been fully characterised, since exposure levels above the therapeutic exposure in humans could not be attained in animal studies.
