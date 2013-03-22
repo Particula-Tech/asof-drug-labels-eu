@@ -1,8 +1,8 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antiemetics and antinauseants, ATC code: A04AD12
-
 Aprepitant is a selective high-affinity antagonist at human substance P neurokinin 1 (NK1) receptors.
+
 In 2 multicenter, randomized, double-blind, active comparator-controlled, parallel-group phase III clinical studies, aprepitant was compared with ondansetron for the prevention of PONV in 1,658 patients undergoing open abdominal surgery.
 The majority of patients were women (> 90 %), mainly undergoing gynaecological surgery.
 Patients were randomized to receive 40 mg aprepitant, 125 mg aprepitant, or 4 mg ondansetron.
@@ -34,6 +34,8 @@ Studies evaluating the use of aprepitant in paediatric patients are on-going (se
 
 3-day regimen of aprepitant
 In 2 randomised, double-blind studies encompassing a total of 1,094 patients receiving chemotherapy that included cisplatin ≥70 mg/m2, aprepitant in combination with an ondansetron/dexamethasone regimen (see section 4.2) was compared with a standard regimen (placebo plus ondansetron 32 mg intravenously administered on Day 1 plus dexamethasone 20 mg orally on Day 1 and 8 mg orally twice daily on Days 2 to 4).
+Although a 32 mg intravenous dose of ondansetron was used in clinical trials, this is no longer the recommended dose.
+See the product information for the selected 5-HT3 antagonist for appropriate dosing information.
 
 Efficacy was based on evaluation of the following composite measure: complete response (defined as no emetic episodes and no use of rescue therapy) primarily during Cycle 1.
 The results were evaluated for each individual study and for the 2 studies combined.
@@ -48,13 +50,20 @@ regimen therapy
 COMPOSITE MEASURES (N= 521) † (N= 524) †
 % % % (95 % CI)
 
-| Complete response (no emesis and no rescue therapy) |  |
-| --- | --- |
-| Overall (0-120 hours) 67.7 47.8 19.9 0-24 hours 86.0 73.2 12.7 25-120 hours 71.5 51.2 20.3 | (14.0, 25.8) (7.9, 17.6) (14.5, 26.1) |
-| INDIVIDUAL MEASURES |  |
-| No emesis (no emetic episodes regardless of use of rescue therapy) |  |
-| Overall (0-120 hours) 71.9 49.7 22.2 0-24 hours 86.8 74.0 12.7 25-120 hours 76.2 53.5 22.6 | (16.4, 28.0) (8.0, 17.5) (17.0, 28.2) |
-| No significant nausea (maximum VAS <25 mm on a scale of 0-100 mm) |  |
+Complete response (no emesis and no rescue therapy)
+
+Overall (0-120 hours) 67.7 47.8 19.9 (14.0, 25.8)
+0-24 hours 86.0 73.2 12.7 (7.9, 17.6)
+25-120 hours 71.5 51.2 20.3 (14.5, 26.1)
+
+INDIVIDUAL MEASURES
+No emesis (no emetic episodes regardless of use of rescue therapy)
+
+Overall (0-120 hours) 71.9 49.7 22.2 (16.4, 28.0)
+0-24 hours 86.8 74.0 12.7 (8.0, 17.5)
+25-120 hours 76.2 53.5 22.6 (17.0, 28.2)
+
+No significant nausea (maximum VAS <25 mm on a scale of 0-100 mm)
 
 Overall (0-120 hours) 72.1 64.9 7.2 (1.6, 12.8)
 25-120 hours 74.0 66.9 7.1 (1.5, 12.6)
@@ -102,13 +111,13 @@ Moderately Emetogenic Chemotherapy
 
 COMPOSITE MEASURES (N= 433) † (N= 424)
 
-| Complete response (no emesis and no rescue therapy) |  |
-| --- | --- |
-| Overall (0-120 hours) 50.8 42.5 8.3 0-24 hours 75.7 69.0 6.7 25-120 hours 55.4 49.1 6.3 | (1.6, 15.0) (0.7, 12.7) (-0.4, 13.0) |
-| INDIVIDUAL MEASURES |  |
-| No emesis (no emetic episodes regardless of use of rescue therapy) |  |
-| Overall (0-120 hours) 75.7 58.7 17.0 0-24 hours 87.5 77.3 10.2 25-120 hours 80.8 69.1 11.7 | (10.8, 23.2) (5.1, 15.3) (5.9, 17.5) |
-| No significant nausea (maximum VAS <25 mm on a scale of 0-100 mm) |  |
+Overall (0-120 hours) 50.8 42.5 8.3 (1.6, 15.0)
+0-24 hours 75.7 69.0 6.7 (0.7, 12.7)
+25-120 hours 55.4 49.1 6.3 (-0.4, 13.0)
+
+Overall (0-120 hours) 75.7 58.7 17.0 (10.8, 23.2)
+0-24 hours 87.5 77.3 10.2 (5.1, 15.3)
+25-120 hours 80.8 69.1 11.7 (5.9, 17.5)
 
 Overall (0-120 hours) 60.9 55.7 5.3 (-1.3, 11.9)
 0-24 hours 79.5 78.3 1.3 (-4.2, 6.8)
@@ -133,12 +142,13 @@ Percent of patients responding by treatment group and phase for Study 2 – Cycl
 
 (N= 425) (N= 406)
 
-| Complete response (no emesis and no rescue therapy) |  |
-| --- | --- |
-| Overall (0-120 hours) 68.7 56.3 12.4 0-24 hours 89.2 80.3 8.9 25-120 hours 70.8 60.9 9.9 | (5.9, 18.9) (4.0, 13.8) (3.5, 16.3) |
-| No emesis (no emetic episodes regardless of use of rescue therapy) |  |
-| Overall (0-120 hours) 76.2 62.1 14.1 0-24 hours 92.0 83.7 8.3 25-120 hours 77.9 66.8 11.1 | (7.9, 20.3) (3.9, 12.7) (5.1, 17.1) |
-| No significant nausea (maximum VAS <25 mm on a scale of 0-100 mm) |  |
+Overall (0-120 hours) 68.7 56.3 12.4 (5.9, 18.9)
+0-24 hours 89.2 80.3 8.9 (4.0, 13.8)
+25-120 hours 70.8 60.9 9.9 (3.5, 16.3)
+
+Overall (0-120 hours) 76.2 62.1 14.1 (7.9, 20.3)
+0-24 hours 92.0 83.7 8.3 (3.9, 12.7)
+25-120 hours 77.9 66.8 11.1 (5.1, 17.1)
 
 Overall (0-120 hours) 73.6 66.4 7.2 (1.0, 13.4)
 0-24 hours 90.9 86.3 4.6 (0.2, 9.0)
@@ -161,15 +171,6 @@ Fosaprepitant, a prodrug of aprepitant, when administered intravenously is rapid
 
 Based on a comparable pharmacokinetic/pharmacodynamic profile, the 1-day oral regimen of EMEND 165 mg is anticipated to have a similar efficacy profile to that of the 1-day regimen of fosaprepitant 150 mg and 3-day regimen of oral aprepitant (see section 5.2)
 
-| Complete response (no emesis and no rescue therapy) |  |
-| --- | --- |
-| Overall (0-120 hours) 67.7 47.8 19.9 0-24 hours 86.0 73.2 12.7 25-120 hours 71.5 51.2 20.3 | (14.0, 25.8) (7.9, 17.6) (14.5, 26.1) |
-| INDIVIDUAL MEASURES |  |
-| No emesis (no emetic episodes regardless of use of rescue therapy) |  |
-| Overall (0-120 hours) 71.9 49.7 22.2 0-24 hours 86.8 74.0 12.7 25-120 hours 76.2 53.5 22.6 | (16.4, 28.0) (8.0, 17.5) (17.0, 28.2) |
-| No significant nausea (maximum VAS <25 mm on a scale of 0-100 mm) |  |
-| Overall (0-120 hours) 72.1 64.9 7.2 25-120 hours 74.0 66.9 7.1 | (1.6, 12.8) (1.5, 12.6) |
-
 1-day regimen of fosaprepitant 150 mg
 
 In a randomised, parallel, double-blind, active-controlled study, fosaprepitant 150 mg (N=1,147) was compared with a 3-day aprepitant regimen (N=1,175) in patients receiving a HEC regimen that included cisplatin (≥70 mg/m2).
@@ -177,18 +178,23 @@ The fosaprepitant regimen consisted of fosaprepitant 150 mg on Day 1 in combinat
 Day 1, 8 mg on Day 2, and 8 mg twice daily on Days 3 and 4.
 The aprepitant regimen consisted of aprepitant 125 mg on Day 1 and 80 mg/day on Days 2 and 3 in combination with intravenous ondansetron 32 mg on Day 1 and dexamethasone 12 mg on Day 1 and 8 mg daily on Days 2 through 4.
 Fosaprepitant placebo, aprepitant placebo, and dexamethasone placebo (in the evenings on Days 3 and 4) were used to maintain blinding (see section 4.2).
-
 Efficacy was based on evaluation of the following composite measures: complete response in both the overall and delayed phases and no vomiting in the overall phase.
 Fosaprepitant 150 mg was shown to be non-inferior to that of the 3-day regimen of aprepitant.
 A summary of the primary and secondary endpoints is shown in Table 4.
+
 Table 4
 
-| ENDPOINTS* | Fosaprepitant regimen (N =1,106) ** % | Aprepitant regimen (N =1,134) ** % | Difference† (95 % CI) |
-| --- | --- | --- | --- |
-| Complete response‡ |  |  |  |
-| Overall§ | 71.9 | 72.3 | -0.4 (-4.1, 3.3) |
-| Delayed phase§§ | 74.3 | 74.2 | 0.1 (-3.5, 3.7) |
-| No vomiting |  |  |  |
+ENDPOINTS* Fosaprepitant Aprepitant regimen Difference†
+regimen (N =1,134) ** (95 % CI)
+(N =1,106) ** %
+
+%
+Complete response‡
+
+Overall§ 71.9 72.3 -0.4 (-4.1, 3.3)
+Delayed phase§§ 74.3 74.2 0.1 (-3.5, 3.7)
+
+No vomiting
 
 Overall§ 72.9 74.6 -1.7 (-5.3, 2.0)
 

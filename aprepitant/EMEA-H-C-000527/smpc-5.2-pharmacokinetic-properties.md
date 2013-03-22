@@ -12,10 +12,10 @@ The median tmax was 3.0 hours.
 
 Concomitant intake of a 40 mg dose with a standard breakfast decreased the aprepitant Cmax by 18 % but did not affect AUC.
 This is not considered to be clinically important.
-
 Distribution
 Aprepitant is highly protein bound, with a mean of 97 %.
 The geometric mean apparent volume of distribution at steady state (Vdss) is approximately 66 l in humans.
+
 Biotransformation
 Aprepitant undergoes extensive metabolism.
 In healthy young adults, aprepitant accounts for approximately 19 % of the radioactivity in plasma over 72 hours following a single intravenous administration 100 mg dose of [14C]-fosaprepitant, a prodrug for aprepitant, indicating a substantial presence of metabolites in the plasma.
@@ -53,8 +53,8 @@ In patients with severe renal impairment, the AUC0-∞ of total aprepitant (unbo
 In patients with ESRD undergoing haemodialysis, the AUC0-∞ of total aprepitant decreased by 42 % and Cmax decreased by 32 %.
 Due to modest decreases in protein binding of aprepitant in patients with renal disease, the AUC of pharmacologically active unbound aprepitant was not significantly affected in patients with renal impairment compared with healthy subjects.
 Haemodialysis conducted 4 or 48 hours after dosing had no significant effect on the pharmacokinetics of aprepitant; less than 0.2 % of the dose was recovered in the dialysate.
-
 No dose adjustment for EMEND is necessary for patients with renal impairment or for patients with ESRD undergoing haemodialysis.
+
 Relationship between concentration and effect
 Using a highly specific NK1-receptor tracer, positron emission tomography (PET) studies in healthy young men have shown that aprepitant penetrates into the brain and occupies NK1 receptors in a dose-and plasma-concentration-dependent manner.
 Aprepitant plasma concentrations achieved with the 3-day regimen of EMEND are predicted to provide greater than 95 % occupancy of brain NK1 receptors.

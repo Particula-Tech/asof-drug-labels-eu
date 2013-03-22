@@ -2,7 +2,7 @@
 
 Contraception in males and females
 The efficacy of hormonal contraceptives may be reduced during and for 28 days after administration of EMEND.
-Alternative or back-up methods of contraception should be used during treatment with EMEND and for 2 months following the last dose of EMEND (see sections 4.4 and 4.5).
+Alternative non-hormonal back-up methods of contraception should be used during treatment with EMEND and for 2 months following the last dose of EMEND (see sections 4.4 and 4.5).
 
 Pregnancy
 For aprepitant no clinical data on exposed pregnancies are available.

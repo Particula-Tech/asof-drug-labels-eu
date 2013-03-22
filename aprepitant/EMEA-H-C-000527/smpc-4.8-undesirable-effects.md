@@ -74,7 +74,6 @@ The following adverse reactions were observed in a pooled analysis of the HEC an
 |  | red blood cells urine positive, blood sodium decreased, weight decreased, neutrophil count decreased, glucose urine present, urine output increased | rare |
 
 *Nausea and vomiting were efficacy parameters in the first 5 days of post-chemotherapy treatment and were reported as adverse reactions only thereafter.
-
 The adverse reactions profiles in the Multiple-Cycle extension of HEC and MEC studies for up to 6 additional cycles of chemotherapy were generally similar to those observed in Cycle 1.
 
 In an additional active-controlled clinical study in 1,169 patients receiving aprepitant and HEC, the adverse reactions profile was generally similar to that seen in the other HEC studies with aprepitant.
@@ -94,74 +93,8 @@ The most common adverse reaction reported at a greater incidence in patients tre
 
 The following adverse reactions were observed in a pooled analysis of the HEC and MEC studies at a greater incidence with aprepitant than with standard therapy or postmarketing use:
 
-| System organ class | Adverse reaction | Frequency |
-| --- | --- | --- |
-| Infection and infestations | candidiasis, staphylococcal infection | rare |
-| Blood and lymphatic system disorders | febrile neutropenia, anaemia | uncommon |
-| Immune system disorders | hypersensitivity reactions including anaphylactic reactions | not known |
-| Metabolism and nutrition disorders | decreased appetite | common |
-|  | polydipsia | rare |
-| Psychiatric disorders | anxiety | uncommon |
-|  | disorientation, euphoric mood | rare |
-| Nervous system disorders | headache | common |
-|  | dizziness, somnolence | uncommon |
-|  | cognitive disorder, lethargy, dysgeusia | rare |
-| Eye disorders | conjunctivitis | rare |
-| Ear and labyrinth disorders | tinnitus | rare |
-| Cardiac disorders | palpitations | uncommon |
-|  | bradycardia, cardiovascular disorder | rare |
-| Vascular disorders | hot flush | uncommon |
-| Respiratory, thoracic and mediastinal disorders | hiccups | common |
-|  | oropharyngeal pain, sneezing, cough, postnasal drip, throat irritation | rare |
-| Gastrointestinal disorders | constipation, dyspepsia eructation, nausea*, vomiting*, gastroesophageal reflux disease, abdominal pain, dry mouth, flatulence | common uncommon |
-|  | duodenal ulcer perforation, stomatitis, abdominal distension, faeces hard, neutropenic colitis | rare |
-| Skin and subcutaneous tissue disorders | rash, acne | uncommon |
-|  | photosensitivity reaction, hyperhidrosis, seborrhoea, skin lesion, rash pruritic, Stevens-Johnson syndrome/toxic epidermal necrolysis | rare |
-|  | pruritus, urticaria | not known |
-| Musculoskeletal and connective tissue disorders | muscular weakness, muscle spasms | rare |
-| Renal and urinary disorders | dysuria | uncommon |
-|  | pollakiuria | rare |
-| General disorders and administration site conditions | fatigue | common |
-|  | asthaenia, malaise | uncommon |
-|  | oedema, chest discomfort, gait disturbance | rare |
-| Investigations | ALT increased | common |
-|  | AST increased, blood alkaline phosphatase increased | uncommon |
-|  | red blood cells urine positive, blood sodium decreased, weight decreased, neutrophil count decreased, glucose urine present, urine output increased | rare |
-
 In an additional active-controlled clinical study in 1,169 patients receiving the 3-day oral aprepitant regimen and HEC, the adverse reactions profile was generally similar to that seen in the other HEC studies with the 3-day oral aprepitant regimen.
 
 [EMEND 125 mg hard capsules (SmPC 5)]
 
-| System organ class | Adverse reaction | Frequency |
-| --- | --- | --- |
-| Infection and infestations | candidiasis, staphylococcal infection | rare |
-| Blood and lymphatic system disorders | febrile neutropenia, anaemia | uncommon |
-| Immune system disorders | hypersensitivity reactions including anaphylactic reactions | not known |
-| Metabolism and nutrition disorders | decreased appetite | common |
-|  | polydipsia | rare |
-| Psychiatric disorders | anxiety | uncommon |
-|  | disorientation, euphoric mood | rare |
-| Nervous system disorders | headache | common |
-|  | dizziness, somnolence | uncommon |
-|  | cognitive disorder, lethargy, dysgeusia | rare |
-| Eye disorders | conjunctivitis | rare |
-| Ear and labyrinth disorders | tinnitus | rare |
-| Cardiac disorders | palpitations | uncommon |
-|  | bradycardia, cardiovascular disorder | rare |
-| Vascular disorders | hot flush | uncommon |
-| Respiratory, thoracic and mediastinal disorders | hiccups oropharyngeal pain, sneezing, cough, postnasal drip, throat irritation | common rare |
-| Gastrointestinal disorders | constipation, dyspepsia | common |
-|  | eructation, nausea*, vomiting*, gastroesophageal reflux disease, abdominal pain, dry mouth, flatulence | uncommon |
-|  | duodenal ulcer perforation, stomatitis, abdominal distension, faeces hard, neutropenic colitis | rare |
-| Skin and subcutaneous tissue disorders | rash, acne | uncommon |
-|  | photosensitivity reaction, hyperhidrosis, seborrhoea, skin lesion, rash pruritic, Stevens-Johnson syndrome/toxic epidermal necrolysis | rare |
-|  | pruritus, urticaria | not known |
-| Musculoskeletal and connective tissue disorders | muscular weakness, muscle spasms | rare |
-| Renal and urinary disorders | dysuria | uncommon |
-|  | pollakiuria | rare |
-| General disorders and administration site conditions | fatigue | common |
-|  | asthaenia, malaise | uncommon |
-|  | oedema, chest discomfort, gait disturbance | rare |
-| Investigations | ALT increased | common |
-|  | AST increased, blood alkaline phosphatase increased | uncommon |
-|  | red blood cells urine positive, blood sodium decreased, weight decreased, neutrophil count decreased, glucose urine present, urine output increased | rare |
+(all sentences already above)

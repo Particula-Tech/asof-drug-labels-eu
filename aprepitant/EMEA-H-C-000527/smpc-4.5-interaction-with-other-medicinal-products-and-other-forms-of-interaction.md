@@ -35,7 +35,7 @@ Based on interaction studies with tolbutamide and oral contraceptives, total exp
 
 Hormonal contraceptives
 The efficacy of hormonal contraceptives may be reduced during and for 28 days after administration of EMEND.
-Alternative or back-up methods of contraception should be used during treatment with EMEND and for 2 months following the last dose of EMEND.
+Alternative non-hormonal back-up methods of contraception should be used during treatment with EMEND and for 2 months following the last dose of EMEND.
 
 5-HT3 antagonists
 In clinical interaction studies, aprepitant did not have clinically important effects on the pharmacokinetics of ondansetron, granisetron, or hydrodolasetron (the active metabolite of dolasetron).
@@ -82,10 +82,10 @@ Caution is advised and additional monitoring may be appropriate in patients rece
 Immunosuppressants
 During the 3-day CINV regimen, a transient moderate increase followed by a mild decrease in exposure of immunosuppressants metabolised by CYP3A4 (e.g. cyclosporine, tacrolimus, everolimus and sirolimus) is expected.
 Given the short duration of the 3-day regimen and the time-dependent limited changes in exposure, dose reduction of the immunosuppressant is not recommended during the 3 days of co-administration with EMEND.
-
 The potential effects of increased plasma concentrations of midazolam or other benzodiazepines metabolised via CYP3A4 (alprazolam, triazolam) should be considered when co-administering these medicinal products with EMEND (125 mg/80 mg).
 
 EMEND increased the AUC of midazolam, a sensitive CYP3A4 substrate, 2.3-fold on Day 1 and 3.3-fold on Day 5, when a single oral dose of 2 mg midazolam was co-administered on Days 1 and 5 of a regimen of EMEND 125 mg on Day 1 and 80 mg/day on Days 2 to 5.
+
 In another study with intravenous administration of midazolam, EMEND was given as 125 mg on Day 1 and 80 mg/day on Days 2 and 3, and 2 mg midazolam was given intravenously prior to the administration of the 3-day regimen of EMEND and on Days 4, 8, and 15.
 EMEND increased the AUC of midazolam 25 % on Day 4 and decreased the AUC of midazolam 19 % on Day 8 and 4 % on Day 15.
 These effects were not considered clinically important.
@@ -129,6 +129,7 @@ Effect aprepitant on the pharmacokinetics of other active substances
 Aprepitant is a substrate, a moderate inhibitor, and an inducer of CYP3A4.
 During treatment with EMEND, CYP3A4 is inhibited for up to 4 days.
 EMEND causes a transient mild induction of CYP2C9, CYP3A4 and glucuronidation approximately one week after treatment.
+
 As a moderate inhibitor of CYP3A4, aprepitant can increase plasma concentrations of co-administered active substances that are metabolised through CYP3A4.
 The total exposure of orally administered CYP3A4 substrates may increase up to approximately 3-fold for 2 days following a single 165 mg dose of EMEND and decreasing to baseline approximately 4 days after dosing of 165 mg EMEND.
 The effect of aprepitant on the plasma concentrations of intravenously administered CYP3A4 substrates is expected to be smaller.

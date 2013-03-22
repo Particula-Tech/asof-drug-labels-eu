@@ -15,7 +15,7 @@ Concomitant administration of EMEND with active substances that inhibit CYP3A4 a
 
 Co-administration with hormonal contraceptives
 The efficacy of hormonal contraceptives may be reduced during and for 28 days after administration of EMEND.
-Alternative or back-up methods of contraception should be used during treatment with EMEND and for 2 months following the last dose of EMEND (see section 4.5).
+Alternative non-hormonal back-up methods of contraception should be used during treatment with EMEND and for 2 months following the last dose of EMEND (see section 4.5).
 
 For further information on interaction potential of aprepitant at higher and multiple doses, please refer to the Summary of Product Characteristics for EMEND 80 mg hard capsules and EMEND 125 mg hard capsules.
 
