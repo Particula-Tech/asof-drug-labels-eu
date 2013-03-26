@@ -16,9 +16,10 @@ No dose adjustment is necessary.
 
 Hepatic impairment
 The clinical data with Daxas in patients with mild hepatic impairment classified as Child-Pugh A are insufficient to recommend a dose adjustment (see section 5.2) and therefore Daxas should be used with caution in these patients.
-Patients with moderate or severe hepatic impairment classified as Child-Pugh B or C should not take Daxas (see section 4.3).
+Patients with moderate or severe hepatic impairment classified as Child-Pugh B or C must not take Daxas (see section 4.3).
+
 Paediatric population
-There is no relevant use of Daxas in the paediatric population (under 18 years).
+There is no relevant use of Daxas in the paediatric population (under 18 years) in the indication COPD.
 
 Method of administration
 For oral use.

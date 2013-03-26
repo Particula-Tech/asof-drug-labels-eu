@@ -2,6 +2,6 @@
 
 Each tablet contains 500 micrograms of roflumilast.
 
-Excipient: This product contains 199 mg lactose monohydrate per film-coated tablet.
-
-For a full list of excipients, see section 6.1.
+Excipient with known effect:
+Each film-coated tablet contains 188.72 mg lactose (as monohydrate).
+For the full list of excipients, see section 6.1.

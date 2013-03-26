@@ -14,7 +14,7 @@ Upon in vitro stimulation of human neutrophils, monocytes, macrophages or lympho
 In patients with COPD, roflumilast reduced sputum neutrophils.
 Furthermore, roflumilast attenuated influx of neutrophils and eosinophils into the airways of endotoxin challenged healthy volunteers.
 
-Clinical efficacy
+Clinical efficacy and safety
 In two confirmative replicate one-year studies (M2-124 and M2-125) and two supplementary six-month studies (M2-127 and M2-128), a total number of 4,768 patients were randomized and treated of whom 2,374 were treated with Daxas.
 The design of the studies was parallel-group, double-blind and placebo-controlled.
 

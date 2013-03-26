@@ -2,4 +2,4 @@
 
 Film-coated tablet (tablet).
 
-Yellow, D-shaped film-coated tablet, embossed with “D” on one side.
+Yellow, D-shaped film-coated tablet of 9 mm, embossed with “D” on one side.

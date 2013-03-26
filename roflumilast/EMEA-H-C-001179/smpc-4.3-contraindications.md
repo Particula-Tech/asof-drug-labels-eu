@@ -1,4 +1,4 @@
 # 4.3 Contraindications
 
-Hypersensitivity to roflumilast or to any of the excipients (see section 6.1).
-Moderate or severe hepatic impairment (Child-Pugh B or C).
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+Moderate or severe hepatic impairment (Child-Pugh B or C) (see section 4.2).
