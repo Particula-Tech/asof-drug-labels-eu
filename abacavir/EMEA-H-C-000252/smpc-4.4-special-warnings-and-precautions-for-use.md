@@ -138,6 +138,7 @@ Immune Reactivation Syndrome: In HIV-infected patients with severe immune defici
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterium infections, and Pneumocystis carinii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
+Autoimmune disorders (such as Graves’ disease) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and can occur many months after initiation of treatment.
 
 Osteonecrosis: Although the aetiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
@@ -147,7 +148,6 @@ Therefore patients should remain under close clinical observation by physicians 
 
 Transmission: patients should be advised that current antiretroviral therapy, including Ziagen, have not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination.
 Appropriate precautions should continue to be taken.
-
 Myocardial Infarction: Observational studies have shown an association between myocardial infarction and the use of abacavir.
 Those studied were mainly antiretroviral experienced patients.
 Data from clinical trials showed limited numbers of myocardial infarction and could not exclude a small increase in risk.

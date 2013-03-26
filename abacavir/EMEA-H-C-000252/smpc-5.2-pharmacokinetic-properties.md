@@ -3,6 +3,7 @@
 Absorption: abacavir is rapidly and well absorbed following oral administration.
 The absolute bioavailability of oral abacavir in adults is about 83%.
 Following oral administration, the mean time (tmax) to maximal serum concentrations of abacavir is about 1.5 hours for the tablet formulation and about 1.0 hour for the solution formulation.
+
 At therapeutic dosages a dosage of 300 mg twice daily, the mean (CV) steady state Cmax and Cmin of abacavir are approximately 3.00 μg/ml (30%) and 0.01 µg/ml (99%), respectively.
 The mean (CV) AUC over a dosing interval of 12 hours was 6.02 μg.h/ml (29%), equivalent to a daily AUC of approximately 12.0 μg.h/ml.
 The Cmax value for the oral solution is slightly higher than the tablet.
@@ -22,8 +23,8 @@ The observed values of the peak concentrations are 9 fold greater than the IC50 
 Plasma protein binding studies in vitro indicate that abacavir binds only low to moderately (~49%) to human plasma proteins at therapeutic concentrations.
 This indicates a low likelihood for interactions with other medicinal products through plasma protein binding displacement.
 
-Metabolism: abacavir is primarily metabolised by the liver with approximately 2% of the administered dose being renally excreted, as unchanged compound.
-The primary pathways of metabolism in man are by alcohol dehydrogenase and by glucuronidation to produce the 5’-carboxylic acid and 5’- glucuronide which account for about 66% of the administered dose.
+Biotransformation: abacavir is primarily metabolised by the liver with approximately 2% of the administered dose being renally excreted, as unchanged compound.
+The primary pathways of metabolism in man are by alcohol dehydrogenase and by glucuronidation to produce the 5’-carboxylic acid and 5’-glucuronide which account for about 66% of the administered dose.
 The metabolites are excreted in the urine.
 
 Elimination: the mean half-life of abacavir is about 1.5 hours.
@@ -40,7 +41,6 @@ Overall, these data support the use of abacavir 600 mg once daily for the treatm
 Additionally, the efficacy and safety of abacavir given once daily has been demonstrated in a pivotal clinical study (CNA30021-See section 5.1 Clinical experience).
 
 Special populations
-
 Hepatically impaired: abacavir is metabolised primarily by the liver.
 The pharmacokinetics of abacavir have been studied in patients with mild hepatic impairment (Child-Pugh score 5-6) receiving a single 600 mg dose.
 The results showed that there was a mean increase of 1.89 fold [1.32; 2.70] in the abacavir AUC, and 1.58 [1.22; 2.04] fold in the elimination half-life.

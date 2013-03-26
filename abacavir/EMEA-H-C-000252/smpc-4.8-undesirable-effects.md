@@ -35,10 +35,10 @@ phosphokinase
 Urology Elevated creatinine, renal failure
 
 Rash (81% vs 67% respectively) and gastrointestinal manifestations (70% vs 54% respectively) were more frequently reported in children compared to adults.
-
 Some patients with hypersensitivity reactions were initially thought to have gastroenteritis, respiratory disease (pneumonia, bronchitis, pharyngitis) or a flu-like illness.
 This delay in diagnosis of hypersensitivity has resulted in Ziagen being continued or re-introduced, leading to more severe hypersensitivity reactions or death.
 Therefore, the diagnosis of hypersensitivity reaction should be carefully considered for patients presenting with symptoms of these diseases.
+
 Symptoms usually appeared within the first six weeks (median time to onset 11 days) of initiation of treatment with abacavir, although these reactions may occur at any time during therapy.
 Close medical supervision is necessary during the first two months, with consultations every two weeks.
 
@@ -92,7 +92,8 @@ Combination antiretroviral therapy has been associated with redistribution of bo
 
 Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
 
-In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART) an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).
+In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART) an inflammatory reaction to asymptomatic or residual opportunistic infections may arise.
+Autoimmune disorders (such as Graves’ disease) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
 
 Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to combination antiretroviral therapy (CART).
 The frequency of this is unknown (see section 4.4).

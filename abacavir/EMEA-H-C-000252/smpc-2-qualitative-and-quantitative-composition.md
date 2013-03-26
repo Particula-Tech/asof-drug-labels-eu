@@ -2,13 +2,13 @@
 
 Each film-coated tablet contains 300 mg of abacavir (as sulfate).
 
-For a full list of excipients see section 6.1.
+For the full list of excipients see section 6.1.
 
 [Ziagen 20 mg/ml oral solution]
 
 Each ml of oral solution contains 20 mg of abacavir (as sulfate).
 
-Excipients:
+Excipients with known effect:
 
 Sorbitol (E420) 340 mg/ml
 Methyl parahydroxybenzoate (E218) 1.5 mg/ml

@@ -1,13 +1,12 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: nucleoside reverse transcriptase inhibitors, ATC Code: J05AF06
-
-Mechanism of action: Abacavir is a NRTI.
+Pharmacotherapeutic group: nucleoside reverse transcriptase inhibitors, ATC Code: J05AF06 Mechanism of action: Abacavir is a NRTI.
 It is a potent selective inhibitor of HIV-1 and HIV-2.
 Abacavir is metabolised intracellularly to the active moiety, carbovir 5’- triphosphate (TP).
 In vitro studies have demonstrated that its mechanism of action in relation to HIV is inhibition of the HIV reverse transcriptase enzyme, an event which results in chain termination and interruption of the viral replication cycle.
 Abacavir shows synergy in vitro in combination with nevirapine and zidovudine.
 It has been shown to be additive in combination with didanosine, lamivudine and stavudine.
+
 In vitro resistance: Abacavir-resistant isolates of HIV-1 have been selected in vitro and are associated with specific genotypic changes in the reverse transcriptase (RT) codon region (codons M184V, K65R, L74V and Y115F).
 Viral resistance to abacavir develops relatively slowly in vitro, requiring multiple mutations for a clinically relevant increase in EC50 over wild-type virus.
 
@@ -103,9 +102,9 @@ Similarly, greater proportions of children treated with the abacavir containing 
 
 In adults moderately exposed to antiretroviral therapy the addition of abacavir to combination antiretroviral therapy provided modest benefits in reducing viral load (median change
 0.44 log10 copies/ml at 16 weeks).
-
 In heavily NRTI pretreated patients the efficacy of abacavir is very low.
 The degree of benefit as part of a new combination regimen will depend on the nature and duration of prior therapy which may have selected for HIV-1 variants with cross-resistance to abacavir.
+
 Once daily (600 mg) administration:
 
 - Therapy naïve adults
@@ -137,3 +136,9 @@ The safety and efficacy of Ziagen in a number of different multidrug combination
 
 Abacavir penetrates the cerebrospinal fluid (CSF) (see section 5.2), and has been shown to reduce HIV-1 RNA levels in the CSF.
 However, no effects on neuropsychological performance were seen when it was administered to patients with AIDS dementia complex.
+
+[Ziagen 20 mg/ml oral solution]
+
+Pharmacotherapeutic group: nucleoside reverse transcriptase inhibitors, ATC Code: J05AF06
+
+Mechanism of action: Abacavir is a NRTI.
