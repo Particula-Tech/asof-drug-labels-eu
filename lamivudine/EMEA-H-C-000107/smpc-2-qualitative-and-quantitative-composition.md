@@ -2,7 +2,7 @@
 
 Each film-coated tablet contains 150 mg lamivudine.
 
-For a full list of excipients, see section 6.1.
+For the full list of excipients, see section 6.1.
 
 [Epivir 10 mg/ml oral solution]
 

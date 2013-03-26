@@ -17,7 +17,7 @@ When changing back to a twice daily regimen patients should complete the days tr
 
 Children (under 12 years of age):
 
-Since an accurate dosing can not be achieved with this formulation, dosing according to weight bands is recommended for Epivir tablets.
+Since an accurate dosing cannot be achieved with this formulation, dosing according to weight bands is recommended for Epivir tablets.
 This dosing regimen for paediatric patients weighing 14-30 kg is based primarily on pharmacokinetic modelling, with supporting data from clinical studies.
 
 For children weighing at least 30 kg: the adult dosage of 150 mg twice daily should be taken.

@@ -38,8 +38,8 @@ Evidence from clinical studies shows that lamivudine plus zidovudine delays the 
 Lamivudine has been widely used as a component of antiretroviral combination therapy with other antiretroviral agents of the same class (NRTIs) or different classes (PIs, non-nucleoside reverse transcriptase inhibitors).
 
 Multiple drug antiretroviral therapy containing lamivudine has been shown to be effective in antiretrovirally-naive patients as well as in patients presenting with viruses containing the M184V mutations.
-
 The relationship between in vitro susceptibility of HIV to lamivudine and clinical response to lamivudine-containing therapy remains under investigation.
+
 Lamivudine at a dose of 100 mg once daily has also been shown to be effective for the treatment of adult patients with chronic HBV infection (for details of clinical studies, see the prescribing information for Zeffix).
 However, for the treatment of HIV infection only a 300 mg daily dose of lamivudine (in combination with other antiretroviral agents) has been shown to be efficacious.
 

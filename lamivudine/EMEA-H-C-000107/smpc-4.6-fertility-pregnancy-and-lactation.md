@@ -1,4 +1,4 @@
-# 4.6 Pregnancy and lactation
+# 4.6 Fertility, Pregnancy and lactation
 
 A large amount of data on pregnant women (more than 1000 exposed outcomes) indicate no malformative toxicity.
 Epivir can be used during pregnancy if clinically needed.

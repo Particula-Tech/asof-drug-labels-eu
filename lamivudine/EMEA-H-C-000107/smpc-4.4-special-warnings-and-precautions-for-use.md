@@ -50,6 +50,7 @@ Immune Reactivation Syndrome: In HIV-infected patients with severe immune defici
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterium infections, and Pneumocystis carinii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
+Autoimmune disorders (such as Graves’ disease) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
 
 Liver disease: If lamivudine is being used concomitantly for the treatment of HIV and HBV, additional information relating to the use of lamivudine in the treatment of hepatitis B infection is available in the Zeffix SPC.
 

@@ -41,7 +41,8 @@ Combination antiretroviral therapy has been associated with redistribution of bo
 
 Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
 
-In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).
+In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise.
+Autoimmune disorders (such as Graves’ disease) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
 
 Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term combined antiretroviral exposure (cART).
 The frequency of which is unknown (see section 4.4).
