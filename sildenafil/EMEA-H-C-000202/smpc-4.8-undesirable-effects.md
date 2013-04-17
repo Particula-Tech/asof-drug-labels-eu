@@ -1,16 +1,20 @@
 # 4.8 Undesirable effects
 
+Summary of the safety profile
+
 The safety profile of VIAGRA is based on 8691 patients who received the recommended dosing regimen in 67 placebo-controlled clinical studies.
 The most commonly reported adverse reactions in clinical studies among sildenafil treated patients were headache, flushing, dyspepsia, visual disorders, nasal congestion, dizziness and visual colour distortion.
+
 Adverse reactions from post-marketing surveillance has been gathered covering an estimated period >9 years.
 Because not all adverse reactions are reported to the Marketing Authorisation Holder and included in the safety database, the frequencies of these reactions cannot be reliably determined.
+
+Tabulated list of adverse reactions
 
 In the table below all medically important adverse reactions, which occurred in clinical trials at an incidence greater than placebo are listed by system organ class and frequency (very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000).
 
 In addition, the frequency of medically important adverse reactions reported from post-marketing experience is included as not known.
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
-
 Table 1: Medically important adverse reactions reported at an incidence greater than placebo in controlled clinical studies and medically important adverse reactions reported through post-marketing surveillance
 
 System Organ Class Adverse Reactions
@@ -40,12 +44,7 @@ Not known Non-arteritic anterior ischaemic optic neuropathy
 Ear and labyrinth disorders
 
 Uncommon Vertigo, Tinnitus
-Rare Deafness*
-
-Vascular disorders
-
-Common Flushing
-Rare Hypertension, Hypotension
+Rare Deafness
 
 Cardiac disorders
 
@@ -54,6 +53,11 @@ Rare Myocardial infarction, Atrial fibrillation
 Not known Ventricular arrhythmia, Unstable angina, Sudden cardiac
 
 death
+Vascular disorders
+
+Common Flushing
+Rare Hypertension, Hypotension
+
 Respiratory, thoracic and mediastinal disorders
 
 Common Nasal congestion
@@ -67,16 +71,20 @@ Uncommon Vomiting, Nausea, Dry mouth
 Skin, subcutaneous and soft tissue disorders
 
 Uncommon Skin rash
-Not known Steven Johnson Syndrome (SJS), Toxic Epidermal
+Not known Stevens-Johnson Syndrome (SJS), Toxic Epidermal
 
 Necrolysis (TEN)
 Musculoskeletal and connective tissue disorders
 
 Uncommon Myalgia
-System Organ Class Adverse Reactions
+
+Renal and urinary disorders
+
+Uncommon Haematuria
 
 Reproductive system and breast disorders
 
+Uncommon Haematospermia, Penile haemorrhage
 Not known Priapism, Prolonged erection
 
 General disorders and administration site conditions
@@ -86,6 +94,3 @@ Uncommon Chest pain, Fatigue
 Investigations
 
 Uncommon Heart rate increased
-
-* Ear disorders: Sudden deafness.
-Sudden decrease or loss of hearing has been reported in a small number of post-marketing and clinical trials cases with the use of all PDE5 inhibitors, including sildenafil.

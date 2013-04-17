@@ -2,44 +2,54 @@
 
 A medical history and physical examination should be undertaken to diagnose erectile dysfunction and determine potential underlying causes, before pharmacological treatment is considered.
 
+Cardiovascular risk factors
+
 Prior to initiating any treatment for erectile dysfunction, physicians should consider the cardiovascular status of their patients, since there is a degree of cardiac risk associated with sexual activity.
 Sildenafil has vasodilator properties, resulting in mild and transient decreases in blood pressure (see section 5.1).
 Prior to prescribing sildenafil, physicians should carefully consider whether their patients with certain underlying conditions could be adversely affected by such vasodilatory effects, especially in combination with sexual activity.
 Patients with increased susceptibility to vasodilators include those with left ventricular outflow obstruction (e.g., aortic stenosis, hypertrophic obstructive cardiomyopathy), or those with the rare syndrome of multiple system atrophy manifesting as severely impaired autonomic control of blood pressure.
 
 VIAGRA potentiates the hypotensive effect of nitrates (see section 4.3).
+
 Serious cardiovascular events, including myocardial infarction, unstable angina, sudden cardiac death, ventricular arrhythmia, cerebrovascular haemorrhage, transient ischaemic attack, hypertension and hypotension have been reported post-marketing in temporal association with the use of VIAGRA.
 Most, but not all, of these patients had pre-existing cardiovascular risk factors.
 Many events were reported to occur during or shortly after sexual intercourse and a few were reported to occur shortly after the use of VIAGRA without sexual activity.
 It is not possible to determine whether these events are related directly to these factors or to other factors.
 
+Priapism
+
 Agents for the treatment of erectile dysfunction, including sildenafil, should be used with caution in patients with anatomical deformation of the penis (such as angulation, cavernosal fibrosis or Peyronie’s disease), or in patients who have conditions which may predispose them to priapism (such as sickle cell anaemia, multiple myeloma or leukaemia).
+
+Concomitant use with other treatments for erectile dysfunction
 
 The safety and efficacy of combinations of sildenafil with other treatments for erectile dysfunction have not been studied.
 Therefore the use of such combinations is not recommended.
 
+Effects on vision
+
 Visual defects and cases of non-arteritic anterior ischaemic optic neuropathy have been reported in connection with the intake of sildenafil and other PDE5 inhibitors.
-The patient should be advised that in case of sudden visual defect, he should stop taking VIAGRA and consult a physician immediately (see section 4.3).
+The patient should be advised that in the event of any sudden visual defect, he should stop taking VIAGRA and consult a physician immediately (see section 4.3).
+
+Concomitant use with ritonavir
+
 Co-administration of sildenafil with ritonavir is not advised (see section 4.5).
 
-Caution is advised when sildenafil is administered to patients taking an alpha-blocker, as the coadministration may lead to symptomatic hypotension in a few susceptible individuals (see section 4.5).
+Concomitant use with alpha-blockers
+
+Caution is advised when sildenafil is administered to patients taking an alpha-blocker, as the co-administration may lead to symptomatic hypotension in a few susceptible individuals (see section 4.5).
 This is most likely to occur within 4 hours post sildenafil dosing.
 In order to minimise the potential for developing postural hypotension, patients should be hemodynamically stable on alpha-blocker therapy prior to initiating sildenafil treatment.
 Initiation of sildenafil at a dose of 25 mg should be considered (see section 4.2).
 In addition, physicians should advise patients what to do in the event of postural hypotensive symptoms.
+
+Effect on bleeding
+
 Studies with human platelets indicate that sildenafil potentiates the antiaggregatory effect of sodium nitroprusside in vitro.
 There is no safety information on the administration of sildenafil to patients with bleeding disorders or active peptic ulceration.
 Therefore sildenafil should be administered to these patients only after careful benefit-risk assessment.
-
-The film coating of the VIAGRA tablet contains lactose.
+The film coating of the tablet contains lactose.
 VIAGRA should not be administered to men with rare hereditary problems of galactose intolerance, Lapp lactase deficiency or glucose-galactose malabsorption.
 
+Women
+
 VIAGRA is not indicated for use by women.
-
-[VIAGRA 50 mg film-coated tablets]
-
-(all sentences already above)
-
-[VIAGRA 100 mg film-coated tablets]
-
-VIAGRA potentiates the hypotensive effect of nitrates (see section 4.3 ).

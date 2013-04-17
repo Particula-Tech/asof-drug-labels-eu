@@ -9,3 +9,7 @@ VIAGRA 50 mg film-coated tablets
 [VIAGRA 100 mg film-coated tablets]
 
 VIAGRA 100 mg film-coated tablets
+
+[VIAGRA 50 mg orodispersible tablets]
+
+VIAGRA 50 mg orodispersible tablets
