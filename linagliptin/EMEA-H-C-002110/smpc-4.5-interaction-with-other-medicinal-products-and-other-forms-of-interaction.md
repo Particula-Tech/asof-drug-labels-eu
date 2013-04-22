@@ -32,14 +32,14 @@ Therefore, linagliptin is not an inhibitor of OCT-mediated transport.
 
 Sulphonylureas: co-administration of multiple oral doses of 5 mg linagliptin and a single oral dose of 1.75 mg glibenclamide (glyburide) resulted in clinically not relevant reduction of 14% of both AUC and Cmax of glibenclamide.
 Because glibenclamide is primarily metabolised by CYP2C9, these data also support the conclusion that linagliptin is not a CYP2C9 inhibitor.
-Clinically meaningful interactions would not be expected with other sulfonylureas (e.g., glipizide, tolbutamide, and glimepiride) which, like glibenclamide, are primarily eliminated by CYP2C9.
+Clinically meaningful interactions would not be expected with other sulphonylureas (e.g., glipizide, tolbutamide, and glimepiride) which, like glibenclamide, are primarily eliminated by CYP2C9.
 
 Digoxin: co-administration of multiple of 5 mg linagliptin with multiple doses of 0.25 mg digoxin had no effect on the pharmacokinetics of digoxin in healthy volunteers.
 Therefore, linagliptin is not an inhibitor of P-glycoprotein-mediated transport in vivo.
 
 Warfarin: multiple daily doses of 5 mg linagliptin did not alter the pharmacokinetics of S(-) or R(+) warfarin, a CYP2C9 substrate, administered in a single dose.
 
-Simvastatin: multiple daily doses of linagliptin had a minimal effect on the steady state pharmacokinetics of simvastatin, a sensitive CYP3A4 substrate, in healthy volunteers.
+Simvastatin: multiple daily doses of linagliptin had a minimal effect on the steady-state pharmacokinetics of simvastatin, a sensitive CYP3A4 substrate, in healthy volunteers.
 Following administration of a supratherapeutic dose of 10 mg linagliptin concomitantly with 40 mg of simvastatin daily for 6 days, the plasma AUC of simvastatin was increased by 34%, and the plasma Cmax by 10%.
 
 Oral contraceptives: co-administration with 5 mg linagliptin did not alter the steady-state pharmacokinetics of levonorgestrel or ethinylestradiol.

@@ -11,19 +11,19 @@ Discontinuation of therapy due to adverse events was higher in patients who rece
 
 The most frequently reported adverse reaction was hypoglycaemia observed under the triple combination, linagliptin plus metformin plus sulphonylurea 14.6% versus 7.6% in placebo.
 
-In the placebo controlled studies 6.2% of patients experienced “hypoglycaemia” as an adverse reaction under linagliptin.
+In the placebo-controlled studies 6.2% of patients experienced “hypoglycaemia” as an adverse reaction under linagliptin.
 Of these, 5.1% were mild and 1.0% were moderate and 0.1% were classified as severe.
 Pancreatitis was reported more often in patients randomized to linagliptin (5 events in 4,302 patients receiving linagliptin versus 1 event in 2,364 patients receiving placebo).
 Tabulated list of adverse reactions
-Due to the impact of the background therapy on adverse reactions (e.g. on hypoglycaemias), adverse reactions were analysed and displayed based on the respective treatment regimens (monotherapy, add on to metformin add on to meformin plus sulphonylurea, and add on to insulin).
+Due to the impact of the background therapy on adverse reactions (e.g. on hypoglycaemias), adverse reactions were analysed and displayed based on the respective treatment regimens (monotherapy, add-on to metformin add-on to meformin plus sulphonylurea, and add-on to insulin).
 
 The placebo-controlled studies included studies where linagliptin was given as
 
 - monotherapy with short-term duration of up to 4 weeks
 - monotherapy with ≥ 12 week duration
-- add on to metformin
-- add on to metformin + sulphonylurea
-- add on to insulin with or without metformin
+- add-on to metformin
+- add-on to metformin + sulphonylurea
+- add-on to insulin with or without metformin
 
 Adverse reactions classified by system organ class and MedDRA preferred terms reported in patients who received 5 mg linagliptin in double-blind studies as monotherapy or as add-on therapy are presented per treatment regimen in the table below (see table 1).
 
@@ -31,9 +31,7 @@ The adverse reactions are listed by absolute frequency.
 Frequencies are defined as very common
 (≥ 1/10), common (≥ 1/100 to <1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), or very rare (<1/10,000), not known (cannot be estimated from the available data).
 
-Table 1 Adverse reactions reported in patients who received linagliptin 5 mg daily as
-
-monotherapy or as add-on therapies (pooled analysis of placebo-controlled studies)
+Table 1 Adverse reactions reported in patients who received linagliptin 5 mg daily as monotherapy or as add-on therapies (frequencies identified from pooled analysis of placebo-controlled studies) in clinical trial and from post-marketing experience
 
 Adverse reactions by treatment regimen
 Linagliptin +
@@ -45,8 +43,8 @@ Infections and infestations
 Nasopharyngitis uncommon uncommon not known uncommon
 Immune system disorders
 Hypersensitivity
-(e.g. urticaria,angioedema, not known uncommon not known not known
-bronchial hyperreactivity)
+(e.g. bronchial not known rare not known not known
+hyperreactivity)
 Metabolism and nutrition
 disorders
 Hypoglycaemia very common
@@ -56,9 +54,16 @@ Cough uncommon uncommon not known uncommon
 Gastrointestinal disorders
 Pancreatitis not known not known not known uncommon
 Constipation uncommon
-Investigations
-Amylase increased uncommon uncommon not known not known
+Skin and subcutaneous tissue
+disorders
+Angioedema* rare
+Urticaria* rare
+Rash* uncommon
 
-Post-marketing experience
-Based on post-marketing experience for linagliptin, by analysing reports from spontaneous sources, angioedema (frequency rare) and urticaria (frequency rare) were identified as additional adverse reactions.
-(Frequency estimates are based on the pooled analysis of the placebo controlled trials)
+|  | Adverse reactions by treatment regimen |  |  |  |
+| --- | --- | --- | --- | --- |
+| System organ class Adverse reaction | Linagliptin monotherapy | Linagliptin + Metformin | Linagliptin + Metformin + Sulphonylurea | Linagliptin + Insulin |
+| Investigations |  |  |  |  |
+| Amylase increased | uncommon | uncommon | not known | not known |
+
+* Based on post-marketing experience
