@@ -6,7 +6,7 @@ Aseptically withdraw the necessary amount of MabThera, and dilute to a calculate
 For mixing the solution, gently invert the bag in order to avoid foaming.
 Care must be taken to ensure the sterility of prepared solutions.
 Since the medicinal product does not contain any anti-microbial preservative or bacteriostatic agents, aseptic technique must be observed.
-Parenteral medicinal products should be inspected visually for particulate matter and discoloration prior to administration.
+Parenteral medicinal products should be inspected visually for particulate matter and discolouration prior to administration.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 

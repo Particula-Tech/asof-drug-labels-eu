@@ -28,6 +28,7 @@ Relapsed/refractory follicular lymphoma
 The recommended dose of MabThera monotherapy used as induction treatment for adult patients with stage III-IV follicular lymphoma who are chemoresistant or are in their second or subsequent relapse after chemotherapy is: 375 mg/m2 body surface area, administered as an intravenous infusion once weekly for four weeks.
 
 For retreatment with MabThera monotherapy for patients who have responded to previous treatment with MabThera monotherapy for relapsed/refractory follicular lymphoma, the recommended dose is: 375 mg/m2 body surface area, administered as an intravenous infusion once weekly for four weeks (see section 5.1).
+
 Diffuse large B cell non-Hodgkin's lymphoma
 MabThera should be used in combination with CHOP chemotherapy.
 The recommended dosage is 375 mg/m2 body surface area, administered on day 1 of each chemotherapy cycle for 8 cycles after intravenous infusion of the glucocorticoid component of CHOP.
@@ -59,14 +60,31 @@ Continued therapy should be carefully reconsidered in patients who show no evide
 
 First infusion of each course
 The recommended initial rate for infusion is 50 mg/hr; after the first 30 minutes, it can be escalated in 50 mg/hr increments every 30 minutes, to a maximum of 400 mg/hr.
-
 Second infusion of each course
-Subsequent doses of MabThera can be infused at an initial rate of 100 mg/hr, and increased by 100 mg/hr increments at 30 minutes intervals, to a maximum of 400 mg/hr.
+Subsequent doses of MabThera can be infused at an initial rate of 100 mg/hr, and increased by 100 mg/hr increments at 30 minute intervals, to a maximum of 400 mg/hr.
+
+Granulomatosis with polyangiitis and Microscopic polyangiitis
+
+Patients treated with MabThera must be given the patient alert card with each infusion (see Annex IIIA – Labelling).
+
+Premedication consisting of an analgesic/anti-pyretic (e.g. paracetamol) and an anti-histaminic drug (e.g. diphenhydramine) should always be administered before each MabThera infusion.
+
+The recommended dosage of MabThera for induction of remission therapy of Granulomatosis with polyangiitis and Microscopic polyangiitis is 375 mg/m2 body surface area, administered as an intravenous infusion once weekly for 4 weeks (four infusions in total).
+
+Methylprednisolone given intravenously for 1 to 3 days at a dose of 1000 mg per day is recommended prior to the first infusion of MabThera (the last dose of methylprednisolone may be given on the same day as the first infusion of MabThera).
+This should be followed by oral prednisone 1 mg/kg/day (not to exceed 80mg/day, and tapered as rapidly as possible based on clinical need) during and after MabThera treatment.
+
+First infusion: The recommended initial infusion rate for MabThera is 50 mg/h; subsequently, the rate can be escalated in 50 mg/h increments every 30 minutes to a maximum of 400 mg/h.
+
+Subsequent infusions (number 2 to 4): Subsequent infusions of MabThera can be started at a rate of 100 mg/h and increased by 100 mg/h increments every 30 minutes to a maximum of 400 mg/h.
+
+Pneumocystis jiroveci pneumonia (PCP) prophylaxis is recommended for patients with Granulomatosis with polyangiitis or Microscipic polyangiitis during and following MabThera treatment, as appropriate.
 
 Special populations
 
 Paediatric population
 The safety and efficacy of MabThera in children has not been established.
+
 Elderly
 No dose adjustment is required in elderly patients (aged >65 years).
 
@@ -80,9 +98,8 @@ Premedication with glucocorticoids should be considered if MabThera is not given
 
 First infusion
 The recommended initial rate for infusion is 50 mg/hr; after the first 30 minutes, it can be escalated in 50 mg/hr increments every 30 minutes, to a maximum of 400 mg/hr.
-
 Subsequent infusions
-Subsequent doses of MabThera can be infused at an initial rate of 100 mg/hr, and increased by 100 mg/hr increments at 30 minutes intervals, to a maximum of 400 mg/hr.
+Subsequent doses of MabThera can be infused at an initial rate of 100 mg/hr, and increased by 100 mg/hr increments at 30 minute intervals, to a maximum of 400 mg/hr.
 
 The prepared MabThera solution should be administered as an intravenous infusion through a dedicated line.
 It should not be administered as an intravenous push or bolus.
@@ -100,5 +117,3 @@ The infusion rate may be increased upon improvement of symptoms.
 [MabThera 500 mg concentrate for solution for infusion]
 
 Previously untreated follicular lymphomaThe recommended dose of MabThera used as a maintenance treatment for patients with previously untreated follicular lymphoma who have responded to induction treatment is: 375 mg/m2 body surface area once every 2 months (starting 2 months after the last dose of induction therapy) until disease progression or for a maximum period of two years.
-
-Patients with MabThera must be given the patient alert card with each infusion (see Annex IIIA – Labelling).

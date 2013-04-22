@@ -23,7 +23,6 @@ Chronic lymphocytic leukaemia
 
 Rituximab was administered as an IV infusion at a first-cycle dose of 375 mg/m2 increased to 500 mg/m2 each cycle for 5 doses in combination with fludarabine and cyclophosphamide in CLL patients.
 The mean Cmax (N=15) was 408 µg/ml (range, 97 – 764 µg/ml) after the fifth 500 mg/ m2 infusion and the mean terminal half-life was 32 days (range, 14 – 62 days).
-
 Rheumatoid arthritis
 
 Following two intravenous infusions of rituximab at a dose of 1000 mg, two weeks apart, the mean terminal half-life was 20.8 days (range, 8.58 to 35.9 days), mean systemic clearance was 0.23 l/day (range, 0.091 to 0.67 l/day), and mean steady-state distribution volume was 4.6 l (range, 1.7 to 7.51 l). Population pharmacokinetic analysis of the same data gave similar mean values for systemic clearance and half-life, 0.26 l/day and 20.4 days, respectively.
@@ -46,3 +45,9 @@ Mean terminal elimination half-life after the second infusion, following the sec
 PK parameters for rituximab were comparable over the two treatment courses.
 
 The pharmacokinetic (PK) parameters in the anti-TNF inadequate responder population, following the same dosage regimen (2 x 1000 mg, iv, 2 weeks apart), were similar with a mean maximum serum concentration of 369 μg/ml and a mean terminal half-life of 19.2 days.
+
+Granulomatosis with polyangiitis and Microscopic polyangiitis
+
+Based on the population pharmacokinetic analysis of data in 97 patients with Granulomatosis with polyangiitis and Microscopic polyangiitis who received 375 mg/m2 rituximab once weekly for four doses, the estimated median terminal elimination half-life was 23 days (range, 9 to 49 days).
+Rituximab mean clearance and volume of distribution were 0.313 L/day (range, 0.116 to 0.726 L/day) and 4.50 L (range 2.25 to 7.39 L) respectively.
+The PK parameters of rituximab in these patients appear similar to what has been observed in rheumatoid arthritis patients.

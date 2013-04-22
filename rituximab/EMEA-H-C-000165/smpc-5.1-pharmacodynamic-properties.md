@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: monoclonal antibodies, ATC code: L01X C02
-
 Rituximab binds specifically to the transmembrane antigen, CD20, a non-glycosylated phosphoprotein, located on pre-B and mature B lymphocytes.
 The antigen is expressed on >95 % of all B cell non-Hodgkin’s lymphomas.
 
@@ -18,6 +17,9 @@ Peripheral B cell counts declined below normal following completion of the first
 In patients treated for hematological malignancies, B cell recovery began within 6 months of treatment and generally returned to normal levels within 12 months after completion of therapy, although in some patients this may take longer (up to a median recovery time of 23 months post-induction therapy).
 In rheumatoid arthritis patients, immediate depletion of B cells in the peripheral blood was observed following two infusions of 1000 mg MabThera separated by a 14 day interval.
 Peripheral blood B cell counts begin to increase from week 24 and evidence for repopulation is observed in the majority of patients by week 40, whether MabThera was administered as monotherapy or in combination with methotrexate.
+A small proportion of patients had prolonged peripheral B cell depletion lasting 2 years or more after their last dose of MabThera.
+In patients with Granulomatosis with polyangiitis or Microscopic polyangiitis, the number of peripheral blood B cells decreased to <10 cells/μL after two weekly infusions of rituximab 375 mg/m2, and remained at that level in most patients up to the 6 month timepoint.
+The majority of patients (81%) showed signs of B cell return, with counts >10 cells/μL by month 12, increasing to 87% of patients by month 18.
 
 Clinical Experience in Non-Hodgkin’s lymphoma and in chronic lymphocytic leukaemia
 
@@ -34,7 +36,6 @@ Neither age, sex, lymphoma grade, initial diagnosis, presence or absence of bulk
 A statistically significant correlation was noted between response rates and bone marrow involvement.
 40 % of patients with bone marrow involvement responded compared to 59 % of patients with no bone marrow involvement (p=0.0186).
 This finding was not supported by a stepwise logistic regression analysis in which the following factors were identified as prognostic factors: histological type, bcl-2 positivity at baseline, resistance to last chemotherapy and bulky disease.
-
 Initial treatment, weekly for 8 doses
 In a multi-centre, single-arm study, 37 patients with relapsed or chemoresistant, low grade or follicular B cell NHL received 375 mg/m2 of MabThera as intravenous infusion weekly for eight doses.
 The ORR was 57 % (95% Confidence interval (CI); 41% – 73%; CR 14 %, PR 43%) with a projected median TTP for responding patients of 19.4 months (range 5.3 to 38.9 months).
@@ -60,12 +61,12 @@ The proportion of patients with a tumour response (CR, CRu, PR) was significantl
 Treatment with R-CVP significantly prolonged the time to disease progression or death compared to CVP, 33.6 months and 14.7 months, respectively (p
 < 0.0001, log-rank test).
 The median duration of response was 37.7 months in the R-CVP group and was 13.5 months in the CVP group (p < 0.0001, log-rank test).
+
 The difference between the treatment groups with respect to overall survival showed a significant clinical difference (p=0.029, log-rank test stratified by center): survival rates at 53 months were 80.9 % for patients in the R-CVP group compared to 71.1 % for patients in the CVP group.
 
 Results from three other randomized trials using MabThera in combination with chemotherapy regimen other than CVP (CHOP, MCP, CHVP/Interferon-α) have also demonstrated significant improvements in response rates, time-dependent parameters as well as in overall survival .
-Key results from all four studies are summarized in table 3.
-
-Table 3 Summary of key results from four phase III randomized studies evaluating the benefit of MabThera with different chemotherapy regimens in follicular lymphoma
+Key results from all four studies are summarized in table 4.
+Table 4 Summary of key results from four phase III randomized studies evaluating the benefit of MabThera with different chemotherapy regimens in follicular lymphoma
 
 | Study | Treatment, N | Median FU, months | ORR, % | CR, % | Median TTF/PFS/ EFS mo | OS rates, % |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -88,22 +89,22 @@ A total of 1078 patients responded to induction therapy, of which 1018 were rand
 The two treatment groups were well balanced with regards to baseline characteristics and disease status.
 MabThera maintenance treatment consisted of a single infusion of MabThera at 375 mg/m2 body surface area given every 2 months until disease progression or for a maximum period of two years.
 
-After a median observation time of 25 months from randomization, maintenance therapy with MabThera resulted in a clinically relevant and statistically significant improvement in the primary endpoint of investigator assessed progression-free survival (PFS) as compared to oberservation in patients with previously untreated follicular lymphoma (Table 4).
-Significant benefit from maintenance treatment with MabThera was also seen for the secondary endpoints event-free survival (EFS), time to next anti-lymphoma treatment (TNLT) time to next chemotherapy (TNCT) and overall response rate (ORR) (Table 4).
+After a median observation time of 25 months from randomization, maintenance therapy with MabThera resulted in a clinically relevant and statistically significant improvement in the primary endpoint of investigator assessed progression-free survival (PFS) as compared to oberservation in patients with previously untreated follicular lymphoma (Table 5).
 
-Table 4 Maintenance phase: overview of efficacy results MabThera vs. observation (25 months median observation time)
+Significant benefit from maintenance treatment with MabThera was also seen for the secondary endpoints event-free survival (EFS), time to next anti-lymphoma treatment (TNLT) time to next chemotherapy (TNCT) and overall response rate (ORR) (Table 5).
+Table 5 Maintenance phase: overview of efficacy results MabThera vs. observation (25 months median observation time)
 
-|  |  | Observation N=513 | Rituximab N=505 | Log-rank P value | Risk reduction |
-| --- | --- | --- | --- | --- | --- |
-| Primary Efficacy |  |  |  |  |  |
-|  | PFS (median) | NR | NR | <0.0001 | 50% |
-| Secondary Efficacy |  |  |  |  |  |
-|  | EFS (median) | 37.8 months | NR | < 0.0001 | 46% |
-|  | OS (median) | NR | NR | 0.7246 | 11% |
-|  | TNLT (median) | NR | NR | 0.0003 | 39% |
-|  | TNCT (median) | NR | NR | 0.0011 | 40% |
-|  | ORR* | 55.0% | 74.0% | < 0.0001 | [Odds ratio = 2.33] |
-|  | Complete Response (CR/CRu) rate* | 47.7% | 66.8% | < 0.0001 | [Odds ratio = 2.21] |
+|  | Observation N=513 | Rituximab N=505 | Log-rank P value | Risk reduction |
+| --- | --- | --- | --- | --- |
+| Primary Efficacy |  |  |  |  |
+| PFS (median) | NR | NR | <0.0001 | 50% |
+| Secondary Efficacy |  |  |  |  |
+| EFS (median) | 37.8 months | NR | < 0.0001 | 46% |
+| OS (median) | NR | NR | 0.7246 | 11% |
+| TNLT (median) | NR | NR | 0.0003 | 39% |
+| TNCT (median) | NR | NR | 0.0011 | 40% |
+| ORR* | 55.0% | 74.0% | < 0.0001 | [Odds ratio = 2.33] |
+| Complete Response (CR/CRu) rate* | 47.7% | 66.8% | < 0.0001 | [Odds ratio = 2.21] |
 
 *At end of maintenance/observation;
 PFS: progression-free survival; EFS: event-free survival; OS: overall survival; TNLT: time to next anti-lymphoma treatment; TNCT: Time to next chemotherapy treatment; ORR: overall response rate; NR: Not Reached at time of clinical cut-off
@@ -118,8 +119,9 @@ A total of 334 patients achieving a complete or partial remission following indu
 MabThera maintenance treatment consisted of a single infusion of MabThera at 375 mg/m2 body surface area given every 3 months until disease progression or for a maximum period of two years.
 
 The final efficacy analysis included all patients randomized to both parts of the study.
-After a median observation time of 31 months for patients randomised to the induction phase, R-CHOP significantly improved the outcome of patients with relapsed/refractory follicular lymphoma when compared to CHOP (see Table 5).
-Table 5 Induction phase: overview of efficacy results for CHOP vs. R-CHOP (31 months median observation time)
+After a median observation time of 31 months for patients randomised to the induction phase, R-CHOP significantly improved the outcome of patients with relapsed/refractory follicular lymphoma when compared to CHOP (see Table 6).
+
+Table 6 Induction phase: overview of efficacy results for CHOP vs. R-CHOP (31 months median observation time)
 
 |  | CHOP | R-CHOP | p-value | Risk Reduction1) |
 | --- | --- | --- | --- | --- |
@@ -129,7 +131,6 @@ Table 5 Induction phase: overview of efficacy results for CHOP vs. R-CHOP (31 mo
 2) Last tumour response as assessed by the investigator.
 The “primary” statistical test for “response” was the trend test of CR versus PR versus non-response (p < 0.0001)
 Abbreviations: NA, not available; ORR: overall response rate; CR: complete response; PR: partial response
-
 For patients randomized to the maintenance phase of the trial, the median observation time was 28 months from maintenance randomisation.
 Maintenance treatment with MabThera led to a clinically relevant and statistically significant improvement in the primary endpoint, PFS, (time from maintenance randomisation to relapse, disease progression or death) when compared to observation alone (p< 0.0001 log-rank test).The median PFS was 42.2 months in the MabThera maintenance arm compared to 14.3 months in the observation arm.
 Using a cox regression analysis, the risk of experiencing progressive disease or death was reduced by 61 % with MabThera maintenance treatment when compared to observation (95 % CI; 45 %-72 %).
@@ -137,7 +138,7 @@ Kaplan-Meier estimated progression-free rates at 12 months were 78 % in the MabT
 An analysis of overall survival confirmed the significant benefit of MabThera maintenance over observation (p=0.0039 log-rank test).
 MabThera maintenance treatment reduced the risk of death by 56 % (95 % CI; 22 %-75 %).
 
-Table 6 Maintenance phase: overview of efficacy results MabThera vs. observation (28 months median observation time)
+Table 7 Maintenance phase: overview of efficacy results MabThera vs. observation (28 months median observation time)
 
 | Efficacy Parameter | Kaplan-Meier Estimate of Median Time to Event (Months) |  |  | Risk Reduction |
 | --- | --- | --- | --- | --- |
@@ -151,7 +152,7 @@ Table 6 Maintenance phase: overview of efficacy results MabThera vs. observation
 
 NR: not reached; a: only applicable to patients achieving a CR
 
-The benefit of MabThera maintenance treatment was confirmed in all subgroups analysed, regardless of induction regimen (CHOP or R-CHOP) or quality of response to induction treatment (CR or PR) (table 6).
+The benefit of MabThera maintenance treatment was confirmed in all subgroups analysed, regardless of induction regimen (CHOP or R-CHOP) or quality of response to induction treatment (CR or PR) (table 7).
 MabThera maintenance treatment significantly prolonged median PFS in patients responding to CHOP induction therapy (median PFS 37.5 months vs. 11.6 months, p< 0.0001) as well as in those responding to R-CHOP induction (median PFS 51.9 months vs. 22.1 months, p=0.0071).
 Although subgroups were small, MabThera maintenance treatment provided a significant benefit in terms of overall survival for both patients responding to CHOP and patients responding to R-CHOP, although longer follow-up is required to confirm this observation.
 
@@ -182,12 +183,11 @@ Chronic lymphocytic leukaemia
 In two open-label randomized trials, a total of 817 previously untreated patients and 552 patients with relapsed/refractory CLL were randomized to receive either FC chemotherapy (fludarabine 25 mg/m2, cyclophosphamide 250 mg/m2, days 1-3) every 4 weeks for 6 cycles or MabThera in combination with FC (R-FC).
 MabThera was administered at a dosage of 375 mg/m2 during the first cycle one day prior to chemotherapy and at a dosage of 500 mg/m2 on day 1 of each subsequent treatment cycle.
 Patients were excluded from the study in relapsed/refractory CLL if they had previously been treated with monoclonal antibodies or if they were refractory (defined as failure to achieve a partial remission for at least 6 months) to fludarabine or any nucleoside analogue.
-A total of 810 patients (403 R-FC, 407 FC) for the first-line study (Table 7a and Table 7b) and 552 patients (276 R-FC, 276 FC) for the relapsed/refractory study (Table 8) were analyzed for efficacy.
+A total of 810 patients (403 R-FC, 407 FC) for the first-line study (Table 8a and Table 8b) and 552 patients (276 R-FC, 276 FC) for the relapsed/refractory study (Table 9) were analyzed for efficacy.
 In the first-line study, after a median observation time of 48.1 months, the median PFS was 55 months in the R-FC group and 33 months in the FC group (p < 0.0001, log-rank test).
-The analysis of overall survival showed a significant benefit of R-FC treatment over FC chemotherapy alone (p = 0.0319, log-rank test) (Table 7a).
-The benefit in terms of PFS was consistently observed in most patient subgroups analyzed according to disease risk at baseline (i.e. Binet stages A-C) (Table 7b).
-
-Table 7a First-line treatment of chronic lymphocytic leukaemia
+The analysis of overall survival showed a significant benefit of R-FC treatment over FC chemotherapy alone (p = 0.0319, log-rank test) (Table 8a).
+The benefit in terms of PFS was consistently observed in most patient subgroups analyzed according to disease risk at baseline (i.e. Binet stages A-C) (Table 8b).
+Table 8a First-line treatment of chronic lymphocytic leukaemia
 Overview of efficacy results for MabThera plus FC vs. FC alone - 48.1 months median observation time
 
 | Efficacy Parameter | Kaplan-Meier Estimate of Median Time to Event (Months) |  |  | Risk Reduction |
@@ -206,7 +206,7 @@ NR: not reached; n.a.: not applicable
 *: only applicable to patients achieving a CR, nPR, PR
 **: only applicable to patients achieving a CR
 
-Table 7b First-line treatment of chronic lymphocytic leukaemia
+Table 8b First-line treatment of chronic lymphocytic leukaemia
 Hazard ratios of progression-free survival according to Binet stage (ITT) – 48.1 months median observation time
 
 Progression-free survival (PFS) Number of Hazard Ratio p-value (Wald
@@ -221,7 +221,7 @@ CI: Confidence Interval
 In the relapsed/refractory study, the median progression-free survival (primary endpoint) was 30.6 months in the R-FC group and 20.6 months in the FC group (p=0.0002, log-rank test).
 The benefit in terms of PFS was observed in almost all patient subgroups analyzed according to disease risk at baseline.
 A slight but not significant improvement in overall survival was reported in the R-FC compared to the FC arm.
-Table 8 Treatment of relapsed/refractory chronic lymphocytic leukaemia - overview of efficacy results for MabThera plus FC vs. FC alone (25.3 months median observation time)
+Table 9 Treatment of relapsed/refractory chronic lymphocytic leukaemia - overview of efficacy results for MabThera plus FC vs. FC alone (25.3 months median observation time)
 
 | Efficacy Parameter | Kaplan-Meier Estimate of Median Time to Event (Months) |  |  | Risk Reduction |
 | --- | --- | --- | --- | --- |
@@ -261,12 +261,12 @@ Studies of rituximab in patients with early arthritis (patients without prior me
 MabThera is not indicated for these patients, since the safety data about long-term rituximab treatment are insufficient, in particular concerning the risk of development of malignancies and PML.
 
 Disease activity outcomes
-MabThera in combination with methotrexate significantly increased the proportion of patients achieving at least a 20 % improvement in ACR score compared with patients treated with methotrexate alone (Table 9).
+MabThera in combination with methotrexate significantly increased the proportion of patients achieving at least a 20 % improvement in ACR score compared with patients treated with methotrexate alone (Table 10).
 Across all development studies the treatment benefit was similar in patients independent of age, gender, body surface area, race, number of prior treatments or disease status.
 
 Clinically and statistically significant improvement was also noted on all individual components of the ACR response (tender and swollen joint counts, patient and physician global assessment, disability index scores (HAQ), pain assessment and C-Reactive Proteins (mg/dL).
 
-Table 9 Clinical response outcomes at primary endpoint in study 1(ITT population)
+Table 10 Clinical response outcomes at primary endpoint in study 1(ITT population)
 
 |  | Outcome† | Placebo+MTX | Rituximab+MTX (2 x 1000 mg) |
 | --- | --- | --- | --- |
@@ -279,7 +279,7 @@ Table 9 Clinical response outcomes at primary endpoint in study 1(ITT population
 Significant difference from placebo + MTX at the primary timepoint: ***p ≤ 0.0001
 
 Patients treated with MabThera in combination with methotrexate had a significantly greater reduction in disease activity score (DAS28) than patients treated with methotrexate alone (Table 9).
-Similarly, a good to moderate European League Against Rheumatism (EULAR) response was achieved by significantly more MabThera treated patients treated with MabThera and methotrexate compared to patients treated with methotrexate alone (Table 9).
+Similarly, a good to moderate European League Against Rheumatism (EULAR) response was achieved by significantly more MabThera treated patients treated with MabThera and methotrexate compared to patients treated with methotrexate alone (Table 10).
 
 Radiographic response
 
@@ -287,8 +287,8 @@ Structural joint damage was assessed radiographically and expressed as change in
 
 In Study 1, conducted in patients with inadequate response or intolerance to one or more TNF inhibitor therapies, receiving MabThera in combination with methotrexate demonstrated significantly less radiographic progression than patients originally receiving methotrexate alone at 56 weeks.
 Of the patients originally receiving methotrexate alone, 81 % received rituximab either as rescue between weeks 16-24 or in the extension trial, before week 56.
-A higher proportion of patients receiving the original MabThera/MTX treatment also had no erosive progression over 56 weeks (Table 10).
-Table 10 Radiographic outcomes at 1 year (mITT population)
+A higher proportion of patients receiving the original MabThera/MTX treatment also had no erosive progression over 56 weeks (Table 11).
+Table 11 Radiographic outcomes at 1 year (mITT population)
 
 |  | Placebo+MTX | Rituximab +MTX 2 × 1000 mg |
 | --- | --- | --- |
@@ -304,12 +304,12 @@ Radiographic analysis at 2 years in study 1 demonstrated significantly reduced p
 
 Physical function and quality of life outcomes
 Significant reductions in disability index (HAQ-DI) and fatigue (FACIT-Fatigue) scores were observed in patients treated with MabThera compared to patients treated with methotrexate alone.
-The proportions of rituximab treated patients showing a minimal clinically important difference (MCID) in HAQ-DI (defined as an individual total score decrease of >0.22) was also higher than among patients receiving methotrexate alone (Table 11).
+The proportions of rituximab treated patients showing a minimal clinically important difference (MCID) in HAQ-DI (defined as an individual total score decrease of >0.22) was also higher than among patients receiving methotrexate alone (Table 12).
 
 Significant improvement in health related quality of life was also demonstrated with significant improvement in both the physical health score (PHS) and mental health score (MHS) of the SF-36.
-Further, a significantly higher proportion of patients achieved MCIDs for these scores (Table 11).
+Further, a significantly higher proportion of patients achieved MCIDs for these scores (Table 12).
 
-Table 11 Physical Function and Quality of Life outcomes at week 24 in study 1
+Table 12 Physical Function and Quality of Life outcomes at week 24 in study 1
 
 | Outcome† | Placebo+MTX | Rituximab+MTX (2 x 1000 mg) |
 | --- | --- | --- |
@@ -324,12 +324,12 @@ Efficacy in autoantibody (RF and or anti-CCP) seropositive patients
 Patients seropositive to Rheumatoid Factor (RF) and/or anti- Cyclic Citrullinated Peptide (anti-CCP) who were treated with MabThera in combination with methotrexate showed an enhanced response compared to patients negative to both.
 
 Efficacy outcomes in MabThera treated patients were analysed based on autoantibody status prior to commencing treatment.
-At Week 24, patients who were seropositive to RF and/or anti-CCP at baseline had a significantly increased probability of achieving ACR20 and 50 responses compared to seronegative patients (p=0.0312 and p=0.0096) (Table 12).
+At Week 24, patients who were seropositive to RF and/or anti-CCP at baseline had a significantly increased probability of achieving ACR20 and 50 responses compared to seronegative patients (p=0.0312 and p=0.0096) (Table 13).
 These findings were replicated at Week 48, where autoantibody seropositivity also significantly increased the probability of achieving ACR70.
 At week 48 seropositive patients were 2-3 times more likely to achieve ACR responses compared to seronegative patients.
 Seropositive patients also had a significantly greater decrease in DAS28-ESR compared to seronegative patients (Figure 1).
 
-Table 12 Summary of efficacy by baseline autoantibody status
+Table 13 Summary of efficacy by baseline autoantibody status
 
 |  | Week 24 |  | Week 48 |  |
 | --- | --- | --- | --- | --- |
@@ -373,13 +373,68 @@ Paediatric population
 The European Medicines Agency has waived the obligation to submit the results of studies with rituximab in all subsets of the paediatric population with autoimmune arthritis.
 See Section 4.2 for information on paediatric use.
 
+Clinical Experience in Granulomatosis with polyangiitis (Wegener’s) and Microscopic polyangiitis
+
+A total of 197 patients aged 15 years or older with severely, active Granulomatosis with polyangiitis (75%) and Microscopic polyangiitis (24%) were enrolled and treated in an active-comparator, randomized, double-blind, multicenter, non-inferiority study.
+
+Patients were randomized in a 1:1 ratio to receive either oral cyclophosphamide daily (2mg/kg/day) for 3-6 months or MabThera (375 mg/m2) once weekly for 4 weeks.
+All patients in the cyclophosphamide arm received azathioprine maintenance therapy in during follow-up.
+Patients in both arms received 1000mg of pulse intravenous (IV) methylprednisolone (or another equivalent-dose glucocorticoid) per day for 1 to 3 days, followed by oral prednisone (1 mg/kg/day, not exceeding 80 mg/day).
+Prednisone tapering was to be completed by 6 months from the start of study treatment.
+
+The primary outcome measure was achievement of complete remission at 6 months defined as a Birmingham Vasculitis Activity Score for Wegener’s Granulomatosis (BVAS/WG) of 0, and off glucocorticoid therapy.
+The prespecified non-inferiority margin for the treatment difference was 20%.
+The study demonstrated non-inferiority of MabThera to cyclophosphamide for complete remission (CR) at 6 months (Table 14).
+
+Efficacy was observed both for patients with newly diagnosed disease and for patients with relapsing disease (Table 15).
+Table 14 Percentage of Patients Who Achieved Complete Remission at 6 Months (Intent-to-Treat Population*)
+
+|  | MabThera (n = 99) | Cyclophosphamide (n = 98) | Treatment Difference (MabThera-Cyclophosphamide) |
+| --- | --- | --- | --- |
+| Rate | 63.6% | 53.1% | 10.6% 95.1%b CI (−3.2%, 24.3%) a |
+| − CI = confidence interval. − * Worst case imputation a Non-inferiority was demonstrated since the lower bound ( − 3.2%) was higher than the pre-determined non-inferiority margin ( − 20%). b The 95.1% confidence level reflects an additional 0.001 alpha to account for an interim efficacy analysis. |  |  |  |
+
+Table 15 Complete remission at 6-months by disease status
+
+|  | MabThera | Cyclophosphamide | Difference (CI 95%) |
+| --- | --- | --- | --- |
+| All patients | n=99 | n=98 |  |
+| Newly diagnosed | n=48 | n=48 |  |
+| Relapsing | n=51 | n=50 |  |
+| Complete remission |  |  |  |
+| All Patients | 63.6% | 53.1% | 10.6% (-3.2, 24.3) |
+| Newly diagnosed | 60.4% | 64.6% | − 4.2% (− 23.6, 15.3) |
+| Relapsing | 66.7% | 42.0% | 24.7% (5.8, 43.6) |
+
+Worst case imputation is applied for patients with missing data
+
+Complete Remission at 12 and 18 months
+
+In the MabThera group, 48% of patients achieved CR at 12 months, and 39% of patients achieved CR at 18 months.
+In patients treated with cyclophosphamide (followed by azathioprine for maintenance of complete remission), 39% of patients achieved CR at 12 months, and 33% of patients achieved CR at 18 months.
+From month 12 to month 18, 8 relapses were observed in the MabThera group compared with four in the cyclophosphamide group.
+
+Retreatment with MabThera
+
+Based upon investigator judgment, 15 patients received a second course of MabThera therapy for treatment of relapse of disease activity which occurred between 6 and 18 months after the first course of MabThera.
+The limited data from the present study preclude any conclusions regarding the efficacy of subsequent courses of MabThera in patients with Granulomatosis with polyangiitis and Microscopic polyangiitis.
+
+Continued immunosuppressive therapy may be especially appropriate in patients at risk for relapses (i.e. with history of earlier relapses and Granulomatosis with polyangiitis, or patients with reconstitution of B-lymphocytes in addition to PR3-ANCA at monitoring).
+When remission with MabThera has been achieved, continued immunosuppressive therapy may be considered to prevent relapse.
+The efficacy and safety of MabThera in maintenance therapy has not been established.
+
+Laboratory Evaluations
+
+A total of 23/99 (23%) MabThera-treated patients in the study tested positive for HACA by 18 months.
+None of the 99 MabThera-treated patients were HACA positive at screening.
+The clinical relevance of HACA formation in MabThera-treated patients is unclear.
+
 [MabThera 500 mg concentrate for solution for infusion]
 
 The overall response rate (ORR) in the intent-to-treat (ITT) population was 48 % (CI95 % 41% - 56%) with a 6% complete response (CR) and a 42% partial response (PR) rate.
 In a subgroup analysis, the ORR was higher in patients with IWF B, C, and D histological subtypes as compared to IWF A subtype (58% vs. 12%), higher in patients whose largest lesion was < 5 cm vs. > 7 cm in greatest diameter (53% vs. 38%), and higher in patients with chemosensitive relapse as compared to chemoresistant (defined as duration of response < 3 months) relapse (50% vs. 22%).
 ORR in patients previously treated with autologous bone marrow transplant (ABMT) was 78% versus 43% in patients with no ABMT.
 40% of patients with bone marrow involvement responded compared to 59% of patients with no bone marrow involvement (p=0.0186).
-
 The ORR was 57% (95% Confidence interval (CI); 41% – 73%; CR 14%, PR 43%) with a projected median TTP for responding patients of 19.4 months (range 5.3 to 38.9 months).
 
 For the 60 re-treatments on study, the ORR was 38% (CI95 % 26% – 51%; 10% CR, 28% PR) with a projected median TTP for responding patients of 17.8 months (range 5.4 – 26.6).
@@ -388,15 +443,27 @@ The proportion of patients with a tumour response (CR, CRu, PR) was significantl
 
 The difference between the treatment groups with respect to overall survival showed a significant clinical difference (p=0.029, log-rank test stratified by center): survival rates at 53 months were 80.9% for patients in the R-CVP group compared to 71.1 % for patients in the CVP group
 
+|  |  | Observation N=513 | Rituximab N=505 | Log-rank P value | Risk reduction |
+| --- | --- | --- | --- | --- | --- |
+| Primary Efficacy |  |  |  |  |  |
+|  | PFS (median) | NR | NR | <0.0001 | 50% |
+| Secondary Efficacy |  |  |  |  |  |
+|  | EFS (median) | 37.8 months | NR | < 0.0001 | 46% |
+|  | OS (median) | NR | NR | 0.7246 | 11% |
+|  | TNLT (median) | NR | NR | 0.0003 | 39% |
+|  | TNCT (median) | NR | NR | 0.0011 | 40% |
+|  | ORR* | 55.0% | 74.0% | < 0.0001 | [Odds ratio = 2.33] |
+|  | Complete Response (CR/CRu) rate* | 47.7% | 66.8% | < 0.0001 | [Odds ratio = 2.21] |
+
 MabThera maintenance treatment provided consistent benefit in all predefined subgroups tested: gender (male, female), age (<60 years, >= 60 years), FLIPI score (<=1, 2 or >= 3), induction therapy (R-CHOP, R-CVP or R-FCM) and regardless of the quality of response to induction treatment (CR, CRu or PR).
 
 Results from other supportive studies using MabThera in combination with other chemotherapy regimens (including CHOP, FCM, PC, PCM, bendamustine and cladribine) for the treatment of previously untreated and/or relapsed/refractory CLL patients have also demonstrated high overall response rates with benefit in terms of PFS rates, albeit with modestly higher toxicity (expecially myelotoxicity).
 
-MabThera in combination with methotrexate significantly increased the proportion of patients achieving at least a 20% improvement in ACR score compared with patients treated with methotrexate alone (Table 9).
+MabThera in combination with methotrexate significantly increased the proportion of patients achieving at least a 20% improvement in ACR score compared with patients treated with methotrexate alone (Table 10).
 
-Table 9 Clinical response outcomes at primary endpoint in study 1 (ITT population)
+Table 10 Clinical response outcomes at primary endpoint in study 1 (ITT population)
 
-Similarly, in all studies a good to moderate European League Against Rheumatism (EULAR) response was achieved by significantly more MabThera treated patients treated with MabThera and methotrexate compared to patients treated with methotrexate alone (Table 9).
+Similarly, in all studies a good to moderate European League Against Rheumatism (EULAR) response was achieved by significantly more MabThera treated patients treated with MabThera and methotrexate compared to patients treated with methotrexate alone (Table 10).
 
 |  | Placebo+MTX | Rituximab +MTX 2 × 1000 mg |
 | --- | --- | --- |
@@ -412,7 +479,7 @@ Abbreviation: NS, non siginficant
 
 Significant reductions in disability index (HAQ-DI) and fatigue (FACIT-Fatigue) were observed in patients treated with MabThera compared to patients treated with methotrexate alone.
 
-Further, significantly higher proportion of patients achieved MCIDs for these scores (Table 11).
+Further, significantly higher proportion of patients achieved MCIDs for these scores (Table 12).
 
 | Outcome† | Placebo+MTX | Rituximab+MTX (2 x 1000 mg) |
 | --- | --- | --- |
