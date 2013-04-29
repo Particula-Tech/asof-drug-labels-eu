@@ -45,6 +45,7 @@ If ALT levels remain > 3 X the upper limit of normal, therapy should be disconti
 If any patient develops symptoms suggesting hepatic dysfunction, which may include unexplained nausea, vomiting, abdominal pain, fatigue, anorexia and/or dark urine, liver enzymes should be checked.
 The decision whether to continue the patient on therapy with pioglitazone should be guided by clinical judgement pending laboratory evaluations.
 If jaundice is observed, the medicinal product should be discontinued.
+
 Weight gain
 
 In clinical trials with pioglitazone there was evidence of dose related weight gain, which may be due to fat accumulation and in some cases associated with fluid retention.
@@ -81,7 +82,6 @@ In the 3.5 year cardiovascular risk PROactive study, 44/870 (5.1%; 1.0 fractures
 No increase in fracture rates was observed in men treated with pioglitazone (1.7%) versus comparator (2.1%).
 
 The risk of fractures should be considered in the long term care of women treated with pioglitazone.
-
 As a consequence of enhancing insulin action, pioglitazone treatment in patients with polycystic ovarian syndrome may result in resumption of ovulation.
 These patients may be at risk of pregnancy.
 Patients should be aware of the risk of pregnancy and if a patient wishes to become pregnant or if pregnancy occurs, the treatment should be discontinued (see section 4.6).

@@ -16,7 +16,6 @@ The rate of deterioration of HbA1c during the second year was less with pioglita
 
 In a placebo controlled trial, patients with inadequate glycaemic control despite a three month insulin optimisation period were randomised to pioglitazone or placebo for 12 months.
 Patients receiving pioglitazone had a mean reduction in HbA1c of 0.45% compared with those continuing on insulin alone, and a reduction of insulin dose in the pioglitazone treated group.
-
 HOMA analysis shows that pioglitazone improves beta cell function as well as increasing insulin sensitivity.
 Two-year clinical studies have shown maintenance of this effect.
 
@@ -27,6 +26,7 @@ Pioglitazone was associated with significant weight gain.
 Visceral fat was significantly decreased, while there was an increase in extra-abdominal fat mass.
 Similar changes in body fat distribution on pioglitazone have been accompanied by an improvement in insulin sensitivity.
 In most clinical trials, reduced total plasma triglycerides and free fatty acids, and increased HDL-cholesterol levels were observed as compared to placebo, with small, but not clinically significant increases in LDL-cholesterol levels.
+
 In clinical trials of up to two years duration, pioglitazone reduced total plasma triglycerides and free fatty acids, and increased HDL cholesterol levels, compared with placebo, metformin or gliclazide.
 Pioglitazone did not cause statistically significant increases in LDL cholesterol levels compared with placebo, whilst reductions were observed with metformin and gliclazide.
 In a 20-week study, as well as reducing fasting triglycerides, pioglitazone reduced post prandial hypertriglyceridaemia through an effect on both absorbed and hepatically synthesised triglycerides.

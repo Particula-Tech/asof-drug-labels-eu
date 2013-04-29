@@ -17,6 +17,7 @@ The relevance to humans of the tumourigenic findings in the male rat cannot be e
 
 There was no tumorigenic response in mice of either sex.
 Hyperplasia of the urinary bladder was not seen in dogs or monkeys treated with pioglitazone for up to 12 months.
+
 In an animal model of familial adenomatous polyposis (FAP), treatment with two other thiazolidinediones increased tumour multiplicity in the colon.
 The relevance of this finding is unknown.
 

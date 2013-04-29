@@ -1,7 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Takeda Global Research and Development Centre (Europe) Ltd
-61 Aldwych
-London
-WC2B 4AE
-United Kingdom
+Takeda Pharma A/S
+Langebjerg 1
+DK-4000 Roskilde
+Denmark

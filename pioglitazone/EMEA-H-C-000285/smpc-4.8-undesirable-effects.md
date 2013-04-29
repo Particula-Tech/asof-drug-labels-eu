@@ -29,15 +29,15 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | Eye disorders |  |  |  |  |  |
 | visual disturbance2 | common | common | uncommon |  |  |
 | macular oedema3 | not known | not known | not known | not known | not known |
-| Ear and labyrinth disorders |  |  |  |  |  |
-| vertigo |  |  | uncommon |  |  |
-| Cardiac disorders |  |  |  |  |  |
-| heart failure4 |  |  |  |  | common |
 
 | Adverse reaction | Frequency of adverse reactions of pioglitazone by treatment regimen |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Mono-therapy | Combination |  |  |  |  |
 |  |  | with metformin | with sulpho-nylurea |  | with metformin and sulpho-nylurea | with insulin |
+| Ear and labyrinth disorders |  |  |  |  |  |  |
+| vertigo |  |  | uncommon |  |  |  |
+| Cardiac disorders |  |  |  |  |  |  |
+| heart failure4 |  |  |  |  |  | common |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |  |  |  |  |
 | bladder cancer | uncommon | uncommon |  | uncommon | uncommon | uncommon |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |  |
@@ -56,18 +56,17 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | proteinuria |  |  | uncommon |  |  |  |
 | Reproductive system and breast disorders |  |  |  |  |  |  |
 | erectile dysfunction |  | common |  |  |  |  |
-| General disorders and administration site conditions |  |  |  |  |  |  |
-| oedema |  |  |  |  |  | very common |
-| fatigue |  |  | uncommon |  |  |  |
-| Investigations |  |  |  |  |  |  |
-| weight increased6 | common | common | common |  | common | common |
-| blood creatine phospho-kinase |  |  |  |  | common |  |
 
 | Adverse reaction | Frequency of adverse reactions of pioglitazone by treatment regimen |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | Mono-therapy | Combination |  |  |  |
 |  |  | with metformin | with sulpho-nylurea | with metformin and sulpho-nylurea | with insulin |
-| increased |  |  |  |  |  |
+| General disorders and administration site conditions |  |  |  |  |  |
+| oedema |  |  |  |  | very common |
+| fatigue |  |  | uncommon |  |  |
+| Investigations |  |  |  |  |  |
+| weight increased6 | common | common | common | common | common |
+| blood creatine phospho-kinase increased |  |  |  | common |  |
 | increased lactic dehydro-genase |  |  | uncommon |  |  |
 | Alanine aminotransferase increased7 | not known | not known | not known | not known | not known |
 
@@ -90,7 +89,6 @@ A higher rate of fractures was observed in women taking pioglitazone (2.6%) vers
 No increase in fracture rates was observed in men treated with pioglitazone (1.3%) versus comparator (1.5%).
 In the 3.5 year PROactive study, 44/870 (5.1%) of pioglitazone-treated female patients experienced fractures compared to 23/905 (2.5%) of female patients treated with comparator.
 No increase in fracture rates was observed in men treated with pioglitazone (1.7%) versus comparator (2.1%).
-
 6 In active comparator controlled trials mean weight increase with pioglitazone given as monotherapy was 2–3 kg over one year.
 This is similar to that seen in a sulphonylurea active comparator group.
 In combination trials pioglitazone added to metformin resulted in mean weight increase over one year of 1.5 kg and added to a sulphonylurea of 2.8 kg.
@@ -128,16 +126,15 @@ Adverse reactions reported in excess (≥ 0.5%) of placebo and as more than an i
 | insomnia | uncommon | uncommon | uncommon | uncommon | uncommon |
 | Eye disorders |  |  |  |  |  |
 | visual disturbance2 | common | common | uncommon |  |  |
-| macular oedema3 | not known | not known | not known | not known | not known |
-| Ear and labyrinth disorders |  |  |  |  |  |
-| vertigo |  |  | uncommon |  |  |
-| Cardiac |  |  |  |  |  |
 
 | Adverse reaction | Frequency of adverse reactions of pioglitazone by treatment regimen |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Mono-therapy | Combination |  |  |  |  |
 |  |  | with metformin |  | with sulpho-nylurea | with metformin and sulpho-nylurea | with insulin |
-| disorders |  |  |  |  |  |  |
+| macular oedema3 | not known | not known |  | not known | not known | not known |
+| Ear and labyrinth disorders |  |  |  |  |  |  |
+| vertigo |  |  |  | uncommon |  |  |
+| Cardiac disorders |  |  |  |  |  |  |
 | heart failure4 |  |  |  |  |  | common |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |  |  |  |  |
 | bladder cancer | uncommon |  | uncommon | uncommon | uncommon | uncommon |
@@ -157,19 +154,6 @@ Adverse reactions reported in excess (≥ 0.5%) of placebo and as more than an i
 | proteinuria |  |  |  | uncommon |  |  |
 | Reproductive system and breast disorders |  |  |  |  |  |  |
 | erectile dysfunction |  | common |  |  |  |  |
-
-| Adverse reaction | Frequency of adverse reactions of pioglitazone by treatment regimen |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Mono-therapy | Combination |  |  |  |
-|  |  | with metformin | with sulpho-nylurea | with metformin and sulpho-nylurea | with insulin |
-| General disorders and administration site conditions |  |  |  |  |  |
-| oedema |  |  |  |  | very common |
-| fatigue |  |  | uncommon |  |  |
-| Investigations |  |  |  |  |  |
-| weight increased6 | common | common | common | common | common |
-| blood creatine phospho-kinase increased |  |  |  | common |  |
-| increased lactic dehydro-genase |  |  | uncommon |  |  |
-| Alanine aminotransferase increased7 | not known | not known | not known | not known | not known |
 
 [Actos 45 mg tablets]
 
@@ -192,17 +176,17 @@ Adverse reactions reported in excess (≥ 0.5%) of placebo and as more than an i
 | hypo-aesthesia | common | common | common | common |  | common |
 | headache |  | common | uncommon |  |  |  |
 | dizziness |  |  | common |  |  |  |
-| insomnia | uncommon | uncommon | uncommon | uncommon |  | uncommon |
-| Eye disorders |  |  |  |  |  |  |
-| visual disturbance2 | common | common | uncommon |  |  |  |
-| macular oedema3 | not known | not known | not known | not known |  | not known |
-| Ear and labyrinth disorders |  |  |  |  |  |  |
-| vertigo |  |  | uncommon |  |  |  |
 
 | Adverse reaction | Frequency of adverse reactions of pioglitazone by treatment regimen |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Mono-therapy | Combination |  |  |  |  |  |  |  |
 |  |  | with metformin |  | with sulpho-nylurea |  | with metformin and sulpho-nylurea |  | with insulin |  |
+| insomnia | uncommon | uncommon |  | uncommon |  | uncommon |  | uncommon |  |
+| Eye disorders |  |  |  |  |  |  |  |  |  |
+| visual disturbance2 | common | common |  | uncommon |  |  |  |  |  |
+| macular oedema3 | not known | not known |  | not known |  | not known |  | not known |  |
+| Ear and labyrinth disorders |  |  |  |  |  |  |  |  |  |
+| vertigo |  |  |  | uncommon |  |  |  |  |  |
 | Cardiac disorders |  |  |  |  |  |  |  |  |  |
 | heart failure4 |  |  |  |  |  |  |  | common |  |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |  |  |  |  |  |  |  |
@@ -217,20 +201,20 @@ Adverse reactions reported in excess (≥ 0.5%) of placebo and as more than an i
 | fracture bone5 | common | common |  | common |  | common |  | common |  |
 | arthralgia |  | common |  |  |  | common |  | common |  |
 | back pain |  |  |  |  |  |  |  | common |  |
-| Renal and urinary disorders |  |  |  |  |  |  |  |  |  |
-| haematuria |  | common |  |  |  |  |  |  |  |
-| glycosuria |  |  |  | uncommon |  |  |  |  |  |
-| proteinuria |  |  |  | uncommon |  |  |  |  |  |
-| Reproductive system and breast disorders |  |  |  |  |  |  |  |  |  |
-| erectile dysfunction |  | common |  |  |  |  |  |  |  |
-| General disorders and administration site conditions |  |  |  |  |  |  |  |  |  |
-| oedema |  |  |  |  |  |  |  | very common |  |
-| fatigue |  |  |  | uncommon |  |  |  |  |  |
 
 | Adverse reaction | Frequency of adverse reactions of pioglitazone by treatment regimen |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | Mono-therapy | Combination |  |  |  |
 |  |  | with metformin | with sulpho-nylurea | with metformin and sulpho-nylurea | with insulin |
+| Renal and urinary disorders |  |  |  |  |  |
+| haematuria |  | common |  |  |  |
+| glycosuria |  |  | uncommon |  |  |
+| proteinuria |  |  | uncommon |  |  |
+| Reproductive system and breast disorders |  |  |  |  |  |
+| erectile dysfunction |  | common |  |  |  |
+| General disorders and administration site conditions |  |  |  |  |  |
+| oedema |  |  |  |  | very common |
+| fatigue |  |  | uncommon |  |  |
 | Investigations |  |  |  |  |  |
 | weight increased6 | common | common | common | common | common |
 | blood creatine phospho-kinase increased |  |  |  | common |  |
