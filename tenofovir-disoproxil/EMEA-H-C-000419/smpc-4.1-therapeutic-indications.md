@@ -25,6 +25,7 @@ Hepatitis B infection
 Viread 245 mg film-coated tablets are indicated for the treatment of chronic hepatitis B in adults with:
 
 - compensated liver disease, with evidence of active viral replication, persistently elevated serum alanine aminotransferase (ALT) levels and histological evidence of active inflammation and/or fibrosis (see section 5.1).
+- evidence of lamivudine-resistant hepatitis B virus (see sections 4.8 and 5.1).
 - decompensated liver disease (see sections 4.4, 4.8 and 5.1).
 
 Viread 245 mg film-coated tablets are indicated for the treatment of chronic hepatitis B in adolescents 12 to < 18 years of age with:
@@ -37,8 +38,6 @@ Viread 33 mg/g granules are indicated in combination with other antiretroviral m
 
 Viread 33 mg/g granules are also indicated in combination with other antiretroviral medicinal products for the treatment of HIV-1 infected adults for whom a solid dosage form is not appropriate.
 
-Viread 33 mg/g granules are indicated for the treatment of chronic hepatitis B (see section 5.1) in adults for whom a solid dosage form is not appropriate with:
-
-- compensated liver disease, with evidence of active viral replication, persistently elevated serum alanine aminotransferase (ALT) levels and histological evidence of active inflammation and/or fibrosis
+Viread 33 mg/g granules are indicated for the treatment of chronic hepatitis B in adults for whom a solid dosage form is not appropriate with:
 
 Viread 33 mg/g granules are also indicated for the treatment of chronic hepatitis B in adolescents 12 to < 18 years of age for whom a solid dosage form is not appropriate with:

@@ -139,9 +139,11 @@ Subjects with a high baseline CPT score were at higher risk of developing seriou
 
 Hepatocellular carcinoma was diagnosed in 3 patients in the tenofovir disoproxil fumarate group and two patients in the tenofovir disoproxil fumarate group died during the study.
 
+Patients with lamivudine-resistant chronic hepatitis B: No new adverse reactions to tenofovir disoproxil fumarate were identified from a randomised, double-blind study (GS-US-174-0121) in which 280 lamivudine-resistant patients received treatment with tenofovir disoproxil fumarate
+(n = 141) or emtricitabine/tenofovir disoproxil fumarate (n = 139) for 96 weeks.
+
 Common: headache
 Common: abdominal pain, abdominal distension, flatulence
-Rare: fractures)1, 2, myopathy1 osteomalacia (manifested as bone pain and infrequently contributing to
 Common: fatigue
 
 HIV-1 and hepatitis B:

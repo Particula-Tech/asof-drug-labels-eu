@@ -58,7 +58,6 @@ Pharmacokinetic studies have not been performed in children under 2 years.
 Renal impairment
 Pharmacokinetic parameters of tenofovir were determined following administration of a single dose of tenofovir disoproxil 245 mg to 40 non-HIV infected adult patients with varying degrees of renal impairment defined according to baseline creatinine clearance (CrCl) (normal renal function when CrCl > 80 ml/min; mild with CrCl = 50-79 ml/min; moderate with CrCl = 30-49 ml/min and severe with CrCl = 10-29 ml/min).
 Compared with patients with normal renal function, the mean (%CV) tenofovir exposure increased from 2,185 (12%) ng·h/ml in subjects with CrCl > 80 ml/min to respectively 3,064 (30%) ng·h/ml, 6,009 (42%) ng·h/ml and 15,985 (45%) ng·h/ml in patients with mild, moderate and severe renal impairment.
-
 The pharmacokinetics of tenofovir in non-haemodialysis adult patients with creatinine clearance
 < 10 ml/min and in patients with ESRD managed by peritoneal or other forms of dialysis have not been studied.
 
@@ -92,6 +91,7 @@ Tenofovir exposure achieved in adolescent patients receiving oral daily doses of
 
 Chronic hepatitis B: Steady-state tenofovir exposure in HBV infected adolescent patients
 (12 to < 18 years of age) receiving an oral daily dose of tenofovir disoproxil 245 mg (as fumarate) was similar to exposures achieved in adults receiving once-daily doses of tenofovir disoproxil 245 mg (as fumarate).
+
 Pharmacokinetic studies have not been performed with tenofovir disoproxil (as fumarate) 245 mg tablets in children under 12 years or with renal impairment.
 
 Pharmacokinetic parameters of tenofovir were determined following administration of a single dose of tenofovir disoproxil 245 mg to 40 non-HIV, non-HBV infected adult patients with varying degrees of renal impairment defined according to baseline creatinine clearance (CrCl) (normal renal function when CrCl > 80 ml/min; mild with CrCl = 50-79 ml/min; moderate with CrCl = 30-49 ml/min and severe with CrCl = 10-29 ml/min).
@@ -109,4 +109,5 @@ A single 245 mg dose of tenofovir disoproxil was administered to non-HIV, non-HB
 [Viread 33 mg/g granules]
 
 HIV-1: Steady-state pharmacokinetics of tenofovir were evaluated in 8 HIV-1 infected adolescent patients (aged 12 to < 18 years) with body weight ≥ 35 kg and in 23 HIV-1 infected children aged 2 to < 12 years (see Table 8 below).
+
 Table 8: Mean (± SD) tenofovir pharmacokinetic parameters by age groups for paediatric patients
