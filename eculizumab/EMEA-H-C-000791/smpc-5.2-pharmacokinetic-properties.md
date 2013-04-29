@@ -1,17 +1,18 @@
 # 5.2 Pharmacokinetic properties
 
-Pharmacokinetics and Drug Metabolism:
-Biotransformation: Human antibodies undergo endocytotic digestion in the cells of the reticuloendothelial system.
+Pharmacokinetics and Drug Metabolism
+
+Biotransformation
+Human antibodies undergo endocytotic digestion in the cells of the reticuloendothelial system.
 Eculizumab contains only naturally occurring amino acids and has no known active metabolites.
 Human antibodies are predominately catabolized by lysosomal enzymes to small peptides and amino acids.
 
-Elimination: No specific studies have been performed to evaluate the hepatic, renal, lung, or gastrointestinal routes of excretion/elimination for Soliris.
+Elimination
+No specific studies have been performed to evaluate the hepatic, renal, lung, or gastrointestinal routes of excretion/elimination for Soliris.
 In normal kidneys, antibodies are not excreted and are excluded from filtration by their size.
-
-Pharmacokinetic Parameters:
-
+Pharmacokinetic Parameters
 In 40 patients with PNH, a 1-compartmental model was used to estimate pharmacokinetic parameters after multiple doses.
-Mean clearance was 0.31 ± 0.12 ml/hr/kg, mean volume of distribution was 110.3 ± 17.9 ml/kg, and mean elimination half-live was 11.3 ± 3.4 days.
+Mean clearance was 0.31 ± 0.12 ml/hr/kg, mean volume of distribution was 110.3 ± 17.9 ml/kg, and mean elimination half-life was 11.3 ± 3.4 days.
 Based on these data, the onset of steady state is predicted to be approximately 49 – 56 days.
 
 In PNH patients, pharmacodynamic activity correlates directly with eculizumab serum concentrations and maintenance of trough levels above ≥ 35 microgram/ml results in essentially complete blockade of haemolytic activity in the majority of PNH patients.
@@ -26,9 +27,18 @@ Supplemental dosing is recommended when Soliris is administered to aHUS patients
 All aHUS patients treated with Soliris when administered as recommended demonstrated rapid and sustained reduction in terminal complement activity.
 In aHUS patients, pharmacodynamic activity correlates directly with eculizumab serum concentrations and maintenance of trough levels of approximately 50-100 microgram/ml result in essentially complete blockade of terminal complement activity in all aHUS patients.
 
-Special Populations:
+Special Populations
 
-Formal studies have not been conducted to evaluate the pharmacokinetics of Soliris administration in special PNH patient populations based on gender, race, age (paediatric or geriatric), or renal or hepatic impairment.
+PNH
+Formal studies have not been conducted to evaluate the pharmacokinetics of Soliris administration in special PNH patient populations based on gender, race, age (geriatric), or renal or hepatic impairment.
 
+Paediatric patients
+
+The pharmacokinetics of eculizumab was evaluated in Study M07-005 including 7 PNH paediatric patients (aged from 11 to less than 18 years).
+
+Weight was a significant covariate resulting in a lower eculizumab clearance 0.0105 L/h in the adolescent patients.
+Dosing for paediatric patients <40 kg is based on paediatric patients with aHUS.
+
+aHUS
 The pharmacokinetics of Soliris have been studied in aHUS patients with a range of renal impairment and age.
 There have been no observed differences in pharmacokinetic parameters noted in these subpopulations of aHUS patients.

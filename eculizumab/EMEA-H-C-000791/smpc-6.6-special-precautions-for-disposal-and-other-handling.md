@@ -1,11 +1,5 @@
 # 6.6 Special precautions for disposal and other handling
 
-Soliris should be administered by a health care professional.
-Soliris therapy must not be initiated without prior vaccination against Neisseria meningitidis at least 2 weeks prior to initial administration.
-Patients less than 2 years of age and those who are treated with Soliris less than 2 weeks after receiving a meningococcal vaccine must receive treatment with appropriate prophylactic antibiotics until 2 weeks after vaccination (see section 4.4).
-
-Patients less than 18 years of age must be vaccinated against haemophilus influenzae and pneumococcal infections, and strictly need to adhere to the national vaccination recommendations for each age group.
-
 Prior to administration, the Soliris solution should be visually inspected for particulate matter and discolouration.
 
 Instructions:
@@ -15,8 +9,8 @@ Withdraw the total amount of Soliris from the vial(s) using a sterile syringe.
 
 Transfer the recommended dose to an infusion bag.
 
-Dilute Soliris to a final concentration of 5 mg/ml by addition to the infusion bag using 0.9% sodium chloride, 0.45% sodium chloride, or 5% Dextrose in water, as the diluent.
-The final volume of a 5 mg/ml diluted solution is 120 ml for 600 mg doses or 180 ml for 900 mg doses.
+Dilute Soliris to a final concentration of 5 mg/ml by addition to the infusion bag using sodium chloride 9 mg/ml (0.9%) solution for injection, sodium chloride 4.5 mg/ml (0.45%) solution for injection, or 5% dextrose in water, as the diluent.
+The final volume of a 5 mg/ml diluted solution is 60 ml for 300 mg doses, 120 ml for 600 mg doses, 180 ml for 900 mg doses and 240 ml for 1,200 mg doses.
 The solution should be clear and colourless.
 
 Gently agitate the infusion bag containing the diluted solution to ensure thorough mixing of the product and diluent.
