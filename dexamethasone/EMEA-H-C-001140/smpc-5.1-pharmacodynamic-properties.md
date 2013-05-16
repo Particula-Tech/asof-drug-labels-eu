@@ -42,12 +42,12 @@ By Day 180 the mean retinal thickness reduction (-119.3 microns) compared with s
 
 Patients who had a BCVA score of <84 OR retinal thickness > 250 microns by optical coherence tomography OCT and in the investigator’s opinion treatment would not put the patient at risk; were eligible to receive an OZURDEX treatment in an open label extension.
 Of the patients who were treated in the open label phase, 98% received an OZURDEX injection between 5 and 7 months after the initial treatment.
-
 As for the initial treatment, peak response was seen at Day 60 in the open label phase.
 The cumulative response rates were higher throughout the open label phase in those patients receiving two consecutive OZURDEX injections compared with those patients who had not received an OZURDEX injection in the initial phase.
 
 The proportion of responders at each time point was always greater after the second treatment compared with the first treatment.
 Whereas, delaying treatment for 6 months results in a lower proportion of responders at all time points in the open label phase when compared with those receiving a second OZURDEX injection.
+
 Uveitis
 The clinical efficacy of OZURDEX has been assessed in a single, multicentre, masked, randomised study for the treatment of non-infectious ocular inflammation of the posterior segment in patients with uveitis.
 A total of 229 patients were randomised to receive dexamethasone 350 µg or 700 µg implants or sham.

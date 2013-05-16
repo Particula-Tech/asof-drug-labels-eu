@@ -6,8 +6,8 @@ A total of 401 patients (94 %) randomised and treated with OZURDEX completed the
 
 A total of 47.3 % of patients experienced at least one adverse reaction.
 The most frequently reported adverse reactions in patients who received OZURDEX were increased intraocular pressure (24.0 %) and conjunctival haemorrhage (14.7 %).
-
 The adverse reaction profile for BRVO patients was similar to that observed for CRVO patients although the overall incidence of adverse reactions was higher for the subgroup of patients with CRVO.
+
 b) The following adverse reactions, considered related to OZURDEX treatment were reported during the two Phase III clinical trials.
 
 Very Common (≥ 1/10); Common (≥1/100 to <1/10); Uncommon (≥1/1,000 to <1/100); Rare (≥1/10,000 to <1/1,000); Very Rare (<1/10,000) adverse reactions are presented according to MedDRA System organ class in Table 1.
@@ -41,9 +41,9 @@ A total of 73 patients (95%) randomised and treated with OZURDEX completed the 2
 The most frequently reported adverse reactions in the study eye of patients who received OZURDEX were conjunctival haemorrhage (30.3%), increased intraocular pressure (25.0%) and cataract (11.8%).
 
 b) The following adverse reactions, considered related to OZURDEX treatment were reported during the Phase III clinical trial.
-
 Very Common (≥ 1/10); Common (≥1/100 to <1/10); Uncommon (≥1/1,000 to <1/100); Rare (≥1/10,000 to <1/1,000); Very Rare (<1/10,000) adverse reactions are presented according to MedDRA System organ class in Table 2.
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
 Table 2.
 Adverse reactions - Uveitis
 
@@ -60,7 +60,7 @@ The following adverse reactions have been identified from post-marketing experie
 
 Eye disorders Endophthalmitis (injection related) (see also section 4.4)
 
-Hypotony of eye (associated with vitreous leakage due to injection)
+Hypotony of eye (associated with vitreous leakage due to injection) Retinal detachment
 
 General disorders and administration site conditions Complication of device insertion (implant misplacement)
 Device dislocation (migration of implant) with or without corneal oedema (see also section 4.4)

@@ -1,6 +1,6 @@
 # 4.4 Special warnings and precautions for use
 
-Any intravitreous injection can be associated with endophthalmitis, intraocular inflammation, increased intraocular pressure and retinal detachment.
+Intravitreous injections, including those with OZURDEX, can be associated with endophthalmitis, intraocular inflammation, increased intraocular pressure and retinal detachment.
 Proper aseptic injection techniques must always be used.
 In addition, patients should be monitored following the injection to permit early treatment if an infection or increased intraocular pressure occurs.
 Monitoring may consist of a check for perfusion of the optic nerve head immediately after the injection, tonometry within 30 minutes following the injection, and biomicroscopy between two and seven days following the injection.
@@ -31,9 +31,9 @@ Corticosteroids should be used cautiously in patients with a history of ocular h
 
 The safety and efficacy of OZURDEX administered to both eyes concurrently have not been studied.
 Therefore administration to both eyes concurrently is not recommended.
-
 OZURDEX has not been studied in patients with macular oedema secondary to RVO with significant retinal ischemia.
 Therefore OZURDEX is not recommended.
+
 Anti-coagulant therapy was used in 1.7% of patients receiving OZURDEX; there were no reports of hemorrhagic adverse events in these patients.
 Anti-platelet medicinal products, such as clopidogrel, were used at some stage during the clinical studies in over 40% of patients.
 In clinical trial patients receiving anti-platelet therapy, haemorrhagic adverse events were reported in a higher proportion of patients injected with OZURDEX (27%) compared with the control group (20%).

@@ -36,7 +36,7 @@ Each applicator can only be used for the treatment of a single eye.
 
 The intravitreal injection procedure should be carried out under controlled aseptic conditions which include the use of sterile gloves, a sterile drape, and a sterile eyelid speculum (or equivalent).
 
-A broad spectrum topical antimicrobial should be given prior to and on the day of the injection procedure.
+The patient should be instructed to self-administer broad spectrum antimicrobial drops daily for 3 days before and after each injection.
 Before the injection, the periocular skin, eyelid and ocular surface should be disinfected (using for example drops of povidone iodine 5% solution on the conjunctiva as it was done in the clinical trials for the approval of OZURDEX) and adequate local anaesthesia should be administered.
 Remove the foil pouch from the carton and examine for damage (see section 6.6).
 Then, in a sterile field, open the foil pouch and gently place the applicator on a sterile tray.
