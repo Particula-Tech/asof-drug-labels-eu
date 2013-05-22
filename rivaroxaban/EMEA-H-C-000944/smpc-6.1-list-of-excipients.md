@@ -11,5 +11,18 @@ Magnesium stearate
 Film-coat:
 Macrogol 3350
 Hypromellose
+Titanium dioxide (E 171)
+Iron oxide yellow (E 172)
+
+[Xarelto 10 mg film-coated tablets]
+
 Titanium dioxide (E171)
 Iron oxide red (E172)
+
+[Xarelto 15 mg film-coated tablets]
+
+(all sentences already above)
+
+[Xarelto 20 mg film-coated tablets]
+
+(all sentences already above)

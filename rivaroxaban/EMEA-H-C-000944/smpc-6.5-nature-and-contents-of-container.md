@@ -1,12 +1,18 @@
 # 6.5 Nature and contents of container
 
-PP/Aluminium foil blisters or PVC/PVDC/Aluminium foil blisters in cartons of 5, 10 or 30 tablets or perforated unit dose blisters in cartons of 10 x 1 or 100 x 1 tablets.
+PP/Aluminium foil blisters in cartons of 14, 28, 56, 60, 98, 168 or 196 film-coated tablets or perforated unit dose blisters in cartons of 10 x 1 or 100 x 1 film-coated tablets.
+
 Not all pack sizes may be marketed.
+
+[Xarelto 10 mg film-coated tablets]
+
+PP/Aluminium foil blisters or PVC/PVDC/Aluminium foil blisters in cartons of 5, 10 or 30 film-coated tablets or perforated unit dose blisters in cartons of 10 x 1 or 100 x 1 film-coated tablets.
+PP/Aluminium foil perforated unit dose blisters in multipacks containing 100 (10 packs of 10 x 1) film-coated tablets.
 
 [Xarelto 15 mg film-coated tablets]
 
-PP/Aluminium foil blisters in cartons of 14, 28, 42 or 98 film-coated tablets or perforated unit dose blisters in cartons of 10 x 1 or 100 x 1 film-coated tablets.
+PP/Aluminium foil blisters in cartons of 14, 28, 42 or 98 film-coated tablets or perforated unit dose blisters in cartons of 10 x 1, or 100 x 1 or in multipacks containing 100 (10 packs of 10 x 1) film-coated tablets.
 
 [Xarelto 20 mg film-coated tablets]
 
-PP/Aluminium foil blisters in cartons of 14, 28 or 98 film-coated tablets or perforated unit dose blisters in cartons of 10 x 1 or 100 x 1 film-coated tablets.
+PP/Aluminium foil blisters in cartons of 14, 28 or 98 film-coated tablets or perforated unit dose blisters in cartons of 10 x 1, or 100 x 1 or in multipacks containing 100 (10 packs of 10 x 1) film-coated tablets.

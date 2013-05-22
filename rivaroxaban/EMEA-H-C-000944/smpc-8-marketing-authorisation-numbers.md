@@ -1,11 +1,15 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/08/472/001-010
+EU/1/08/472/025-033
+
+[Xarelto 10 mg film-coated tablets]
+
+EU/1/08/472/001-010, EU/1/08/472/022.
 
 [Xarelto 15 mg film-coated tablets]
 
-EU/1/08/472/011-016
+EU/1/08/472/011-016, EU/1/08/472/023.
 
 [Xarelto 20 mg film-coated tablets]
 
-EU/1/08/472/017-021
+EU/1/08/472/017-021, EU/1/08/472/024.
