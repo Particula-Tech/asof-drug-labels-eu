@@ -12,6 +12,7 @@ Pharmacokinetic simulations indicate that the overall exposure (AUC0-∞) of 0.2
 Distribution
 Palonosetron at the recommended dose is widely distributed in the body with a volume of distribution of approximately 6.9 to 7.9 l/kg.
 Approximately 62 % of palonosetron is bound to plasma proteins.
+
 Biotransformation
 Palonosetron is eliminated by dual route, about 40 % eliminated through the kidney and with approximately 50 % metabolised to form two primary metabolites, which have less than 1 % of the 5HT3 receptor antagonist activity of palonosetron.
 In vitro metabolism studies have shown that CYP2D6 and to a lesser extent, CYP3A4 and CYP1A2 isoenzymes are involved in the metabolism of palonosetron.
@@ -53,6 +54,7 @@ While the terminal elimination half-life and mean systemic exposure of palonoset
 
 [Aloxi 500 micrograms soft capsules]
 
+UAbsorption
 Following oral administration, palonosetron is well absorbed with its absolute bioavailability reaching 97 %.
 After single oral doses using buffered solution mean maximum palonosetron concentrations (Cmax) and area under the concentration-time curve (AUC0-∞) were dose proportional over the dose range of 3.0 to 80 µg/kg in healthy subjects.
 
@@ -64,14 +66,22 @@ The AUC was 30 % higher in cancer patients than in healthy subjects.
 A high fat meal did not affect the Cmax and AUC of oral palonosetron.
 Therefore, Aloxi capsules may be taken without regard to meals.
 
+UDistribution
+
+UBiotransformation
+
+UElimination
 Following administration of a single oral 750 micrograms dose of [14C]-palonosetron to six healthy subjects, 85 % to 93 % of the total radioactivity was excreted in urine, and 5 % to 8 % was eliminated in feces.
 The amount of unchanged palonosetron excreted in the urine represented approximately 40 % of the administered dose.
 In healthy subjects given palonosetron capsules 500 micrograms, the terminal elimination half-life (t½) of palonosetron was 37 ± 12 hours (mean ± SD), and in cancer patients, t½ was 48 ± 19 hours.
 After a single-dose of approximately 0.75 mg intravenous palonosetron, the total body clearance of palonosetron in healthy subjects was 160 ± 35 ml/h/kg (mean ± SD) and renal clearance was 66.5 ± 18.2 ml/h/kg.
+
+UPharmacokinetics in special populations
 
 No dose adjustment is necessary in elderly patients.
 
 No dose adjustment is necessary based on gender.
 
 Paediatric patients
+
 No dose adjustment is necessary in patients with renal insufficiency.

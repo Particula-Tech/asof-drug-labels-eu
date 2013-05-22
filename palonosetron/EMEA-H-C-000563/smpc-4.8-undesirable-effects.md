@@ -9,7 +9,7 @@ Within each frequency grouping, adverse reactions are presented below in order o
 
 | System organ class | Common ARs (≥1/100 to<1/10) | Uncommon ARs (≥1/1,000 to <1/100) | Very rare ARs° (<1/10,000) |
 | --- | --- | --- | --- |
-| Immune system disorders |  |  | Hypersensitivity |
+| Immune system disorders |  |  | Hypersensitivity, anaphylaxis, anaphylactic/ anaphylactoid reactions and shock |
 | Metabolism and nutrition disorders |  | Hyperkalaemia, metabolic disorders, hypocalcaemia, hypokalaemia, anorexia, hyperglycaemia, appetite decreased |  |
 | Psychiatric disorders |  | Anxiety, euphoric mood |  |
 | Nervous system disorders | Headache Dizziness | Somnolence, insomnia, paraesthesia, hypersomnia, peripheral sensory neuropathy |  |

@@ -19,15 +19,23 @@ Although comparative efficacy of palonosetron in multiple cycles has not been de
 The overall safety was maintained during all cycles.
 Table 1: Percentage of patients a responding by treatment group and phase in the Moderately Emetogenic Chemotherapy study versus ondansetron
 
-| Aloxi Ondansetron 250 micrograms 32 milligrams (n= 189) (n= 185) Delta |  |
-| --- | --- |
-| % % % |  |
-| Complete Response (No Emesis and No Rescue Medication) | 97.5 % CI b |
-| 0 – 24 hours 81.0 68.6 12.4 24 – 120 hours 74.1 55.1 19.0 0 – 120 hours 69.3 50.3 19.0 | [1.8 %, 22.8 %] [7.5 %, 30.3 %] [7.4 %, 30.7 %] |
-| Complete Control (Complete Response and No More Than Mild Nausea) | p-value c |
-| 0 – 24 hours 76.2 65.4 10.8 24 – 120 hours 66.7 50.3 16.4 0 – 120 hours 63.0 44.9 18.1 | NS 0.001 0.001 |
-| No Nausea (Likert Scale) | p-value c |
+Aloxi Ondansetron
 
+250 micrograms 32 milligrams
+
+(n= 189) (n= 185) Delta
+% % %
+Complete Response (No Emesis and No Rescue Medication) 97.5 % CI b
+0 – 24 hours 81.0 68.6 12.4 [1.8 %, 22.8 %]
+24 – 120 hours 74.1 55.1 19.0 [7.5 %, 30.3 %]
+0 – 120 hours 69.3 50.3 19.0 [7.4 %, 30.7 %]
+
+Complete Control (Complete Response and No More Than Mild Nausea) p-value c
+
+0 – 24 hours 76.2 65.4 10.8 NS
+24 – 120 hours 66.7 50.3 16.4 0.001
+0 – 120 hours 63.0 44.9 18.1 0.001
+No Nausea (Likert Scale) p-value c
 0 – 24 hours 60.3 56.8 3.5 NS
 24 – 120 hours 51.9 39.5 12.4 NS
 0 – 120 hours 45.0 36.2 8.8 NS
@@ -63,7 +71,6 @@ b The study was designed to show non-inferiority.
 A lower bound greater than –15 % demonstrates non-inferiority between Aloxi and comparator.
 c Chi-square test.
 Significance level at α=0.05.
-
 Table 3: Percentage of patients a responding by treatment group and phase in the Highly Emetogenic Chemotherapy study versus ondansetron
 
 Aloxi Ondansetron
@@ -92,6 +99,7 @@ b The study was designed to show non-inferiority.
 A lower bound greater than –15 % demonstrates non-inferiority between Aloxi and comparator.
 c Chi-square test.
 Significance level at α=0.05.
+
 The effect of palonosetron on blood pressure, heart rate, and ECG parameters including QTc were comparable to ondansetron and dolasetron in CINV clinical studies.
 In non-clinical studies palonosetron possesses the ability to block ion channels involved in ventricular de- and re-polarisation and to prolong action potential duration.
 The effect of palonosetron on QTc interval was evaluated in a double blind, randomised, parallel, placebo and positive (moxifloxacin) controlled trial in adult men and women.
@@ -111,7 +119,6 @@ Prevention of Post Operative Nausea and Vomiting (PONV):
 The safety and efficacy of Palonosetron i.v at single doses of 1µg/kg and 3µg/kg was compared in a clinical study in 150 patients in the following age groups, >28 days to 23 months (7 patients), 2 to 11 years (96 patients), and 12 to 16 years of age (47 patients) undergoing elective surgery.
 No safety concerns were raised in either treatment group.
 The proportion of patients without emesis during 0-72 hours post-operatively was similar after palonosetron 1 µg/kg or 3 µg/kg (88% vs 84%).
-
 Please see section 4.2 for information on paediatric use.
 
 [Aloxi 500 micrograms soft capsules]
@@ -128,7 +135,6 @@ Non-inferiority criteria were met if the lower bound of the two-sided 98.3 % con
 The non-inferiority margin was 15 %.
 
 As shown in Table 1, oral Aloxi capsules 500 micrograms demonstrated non-inferiority to the active comparator during the 0 to 24 hour and 0 to 120 hour time intervals; however, for the 24 to 120 hour time period, non-inferiority was not shown.
-
 Although comparative efficacy of palonosetron in multiple cycles has not been demonstrated in controlled clinical trials, 217 patients were enrolled in a multicentre, open label safety study and were treated with palonosetron capsules 750 micrograms for up to 4 cycles of chemotherapy in a total of 654 chemotherapy cycles.
 Approximately 74 % of patients also received single dose oral or intravenous dexamethasone 30 minutes before chemotherapy.
 Complete Response was not formally evaluated for the repeat cycle application.

@@ -20,4 +20,12 @@ Palonosetron has been administered safely with analgesics, antiemetic/antinausea
 
 [Aloxi 500 micrograms soft capsules]
 
-Chemotherapeutic medicinal products
+UChemotherapeutic medicinal productsU
+
+UMetoclopramideU
+
+UCYP2D6 inducers and inhibitorsU
+
+UCorticosteroidsU
+
+UOther medicinal productsU

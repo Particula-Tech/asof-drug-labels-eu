@@ -19,10 +19,10 @@ Paediatric population
 
 The safety and efficacy in children have not been established.
 Currently available data are described in section 5.1 and section 5.2, but no recommendation on posology can be made.
-
 Hepatic impairment
 
 No dose adjustment is necessary for patients with impaired hepatic function.
+
 Renal impairment
 
 No dose adjustment is necessary for patients with impaired renal function.
@@ -33,7 +33,17 @@ For intravenous use.
 
 [Aloxi 500 micrograms soft capsules]
 
+UAdults
+
 500 micrograms palonosetron administered orally approximately one hour before the start of chemotherapy.
+
+UElderly population
+
+UPaediatric population
+
+UHepatic impairment
+
+URenal impairment
 
 For oral use.
 Aloxi can be taken with or without food.
