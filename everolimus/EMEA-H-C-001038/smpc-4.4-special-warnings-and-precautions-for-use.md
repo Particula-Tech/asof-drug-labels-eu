@@ -6,14 +6,9 @@ Non-infectious pneumonitis (including interstitial lung disease) was described i
 Some cases were severe and on rare occasions, a fatal outcome was observed.
 A diagnosis of non-infectious pneumonitis should be considered in patients presenting with non-specific respiratory signs and symptoms such as hypoxia, pleural effusion, cough or dyspnoea, and in whom infectious, neoplastic and other non-medicinal causes have been excluded by means of appropriate investigations.
 Patients should be advised to report promptly any new or worsening respiratory symptoms.
-
 Patients who develop radiological changes suggestive of non-infectious pneumonitis and have few or no symptoms may continue Afinitor therapy without dose adjustments.
-If symptoms are moderate, consideration should be given to interrupting therapy until symptoms improve.
-The use of corticosteroids may be indicated.
-Afinitor may be re-initiated at 5 mg daily.
+If symptoms are moderate (Grade 2) or severe (Grade 3) the use of corticosteroids may be indicated until clinical symptoms resolve.
 
-For cases where symptoms of non-infectious pneumonitis are severe, Afinitor therapy should be discontinued and the use of corticosteroids may be indicated until clinical symptoms resolve.
-Therapy with Afinitor may be re-initiated at 5 mg daily depending on the individual clinical circumstances.
 Infections
 Afinitor has immunosuppressive properties and may predispose patients to bacterial, fungal, viral or protozoan infections, including infections with opportunistic pathogens (see section 4.8).
 Localised and systemic infections, including pneumonia, other bacterial infections, invasive fungal infections such as aspergillosis or candidiasis, and viral infections including reactivation of hepatitis B virus, have been described in patients taking Afinitor.
@@ -30,7 +25,7 @@ Hypersensitivity reactions manifested by symptoms including, but not limited to,
 
 Oral ulceration
 Mouth ulcers, stomatitis and oral mucositis have been observed in patients treated with Afinitor (see section 4.8).
-In such cases topical treatments are recommended, but alcohol- or peroxide-containing mouthwashes should be avoided as they may exacerbate the condition.
+In such cases topical treatments are recommended, but mouthwashes containing alcohol, peroxide, iodine and thyme derivatives should be avoided as they may exacerbate the condition.
 Antifungal agents should not be used unless fungal infection has been diagnosed (see section 4.5).
 
 Renal failure events
@@ -70,6 +65,8 @@ Hepatic impairment
 Exposure to everolimus was increased in patients with mild (Child-Pugh A), moderate (Child-Pugh B) and severe (Child-Pugh C) hepatic impairment (see section 5.2).
 
 Afinitor is only recommended for use in patients with severe hepatic impairment (Child-Pugh C) if the potential benefit outweighs the risk (see sections 4.2 and 5.2).
+
+No clinical safety or efficacy data are currently available to support dose adjustment recommendations for the management of adverse reactions in patients with hepatic impairment.
 
 Vaccinations
 The use of live vaccines should be avoided during treatment with Afinitor (see section 4.5).

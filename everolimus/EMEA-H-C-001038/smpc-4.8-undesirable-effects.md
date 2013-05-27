@@ -16,19 +16,19 @@ The rates of adverse reactions resulting in permanent discontinuation were 21% a
 - RECORD-1 (CRAD001C2240): everolimus plus best supportive care in patients with metastatic renal cell carcinoma.
   In total, 165 patients were exposed to everolimus 10 mg/day for ≥4 months.
   The rates of adverse reactions resulting in permanent discontinuation were 7% and 0% for the everolimus and placebo treatment groups, respectively.
-  Most adverse reactions were grade 1 or 2 in severity.
+  Most adverse reactions were Grade 1 or 2 in severity.
 
-The most frequent grade 3-4 adverse reactions (incidence ≥2% in at least one phase III study) were anaemia, fatigue, diarrhoea, infections, stomatitis, hyperglycaemia, thrombocytopenia, lymphopenia, neutropenia, hypophosphataemia, hypercholesterolaemia, diabetes mellitus, and pneumonitis.
+The most frequent Grade 3-4 adverse reactions (incidence ≥2% in at least one phase III study) were anaemia, fatigue, diarrhoea, infections, stomatitis, hyperglycaemia, thrombocytopenia, lymphopenia, neutropenia, hypophosphataemia, hypercholesterolaemia, diabetes mellitus, and pneumonitis.
 The grades follow CTCAE Version 3.0.
 
 Tabulated summary of adverse reactions
-Table 2 shows the incidence of adverse reactions reported for patients receiving everolimus 10 mg/day in at least one of the pivotal studies.
+Table 3 shows the incidence of adverse reactions reported for patients receiving everolimus 10 mg/day in at least one of the pivotal studies.
 All terms included are based on the highest frequency reported in a pivotal study.
 Adverse reactions are listed according to MedDRA system organ class and frequency category.
 Frequency categories are defined using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Table 2 Adverse reactions
+Table 3 Adverse reactions
 
 Infections and infestations
 Very common Infections a, *
@@ -110,3 +110,5 @@ Reactivation of infection is an expected event during periods of immunosuppressi
 
 In clinical studies and post-marketing spontaneous reports, everolimus has been associated with renal failure events (including fatal outcome) and proteinuria.
 Monitoring of renal function is recommended (see section 4.4).
+
+In clinical trials and post-marketing spontaneous reports, everolimus has been associated with cases of amenorrhoea (secondary amenorrhoea and other menstrual irregularities).

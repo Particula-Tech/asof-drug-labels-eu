@@ -9,6 +9,7 @@ Food effect
 In healthy subjects, high fat meals reduced systemic exposure to Afinitor 10 mg (as measured by AUC) by 22% and the peak plasma concentration Cmax by 54%.
 Light fat meals reduced AUC by 32% and Cmax by 42%.
 Food, however, had no apparent effect on the post absorption phase concentration-time profile.
+
 Distribution
 The blood-to-plasma ratio of everolimus, which is concentration-dependent over the range of 5 to 5,000 ng/ml, is 17% to 73%.
 Approximately 20% of the everolimus concentration in whole blood is confined to plasma of cancer patients given Afinitor 10 mg/day.
@@ -42,7 +43,6 @@ The safety, tolerability and pharmacokinetics of Afinitor were evaluated in a si
 Compared to normal subjects, there was a 1.6-fold, 3.3-fold and 3.6-fold increase in exposure (i.e. AUC0-inf) for subjects with mild (Child-Pugh A), moderate (Child-Pugh B) and severe (Child-Pugh C) hepatic impairment, respectively.
 Simulations of multiple dose pharmacokinetics support the dosing recommendations in subjects with hepatic impairment based on their Child-Pugh status.
 Dose adjustment is recommended for patients with hepatic impairment (see sections 4.2 and 4.4).
-
 Renal impairment
 In a population pharmacokinetic analysis of 170 patients with advanced solid tumours, no significant influence of creatinine clearance (25-178 ml/min) was detected on CL/F of everolimus.
 Post-transplant renal impairment (creatinine clearance range 11-107 ml/min) did not affect the pharmacokinetics of everolimus in transplant patients.
@@ -50,6 +50,7 @@ Post-transplant renal impairment (creatinine clearance range 11-107 ml/min) did 
 Elderly patients
 In a population pharmacokinetic evaluation in cancer patients, no significant influence of age
 (27-85 years) on oral clearance of everolimus was detected.
+
 Ethnicity
 Oral clearance (CL/F) is similar in Japanese and Caucasian cancer patients with similar liver functions.
 Based on analysis of population pharmacokinetics, oral clearance (CL/F) is on average 20% higher in black transplant patients.
