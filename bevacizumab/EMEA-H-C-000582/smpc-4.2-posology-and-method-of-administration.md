@@ -31,7 +31,7 @@ Epithelial Ovarian, Fallopian Tube and Primary Peritoneal Cancer
 Front-line treatment: Avastin is administered in addition to carboplatin and paclitaxel for up to 6 cycles of treatment followed by continued use of Avastin as single agent until disease progression or for a maximum of 15 months or until unacceptable toxicity, whichever occurs earlier.
 The recommended dose of Avastin is 15 mg/kg of body weight given once every 3 weeks as an intravenous infusion.
 
-Treatment of recurrent disease:Avastin is administered in combination with carboplatin and gemcitabine for 6 cycles and up to 10 cycles followed by continued use of Avastin as single agent until disease progression.The recommended dose of Avastin is 15 mg/kg of body weight given once every 3 weeks as an intravenous infusion.
+Treatment of recurrent disease: Avastin is administered in combination with carboplatin and gemcitabine for 6 cycles and up to 10 cycles followed by continued use of Avastin as single agent until disease progression.The recommended dose of Avastin is 15 mg/kg of body weight given once every 3 weeks as an intravenous infusion.
 Special populations
 
 Elderly patients: No dose adjustment is required in the elderly.
