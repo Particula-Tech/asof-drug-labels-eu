@@ -7,7 +7,6 @@ It is an inhibitor of osteoclastic bone resorption.
 
 The selective action of bisphosphonates on bone is based on their high affinity for mineralised bone, but the precise molecular mechanism leading to the inhibition of osteoclastic activity is still unclear.
 In long-term animal studies, zoledronic acid inhibits bone resorption without adversely affecting the formation, mineralisation or mechanical properties of bone.
-
 In addition to being a potent inhibitor of bone resorption, zoledronic acid also possesses several anti-tumour properties that could contribute to its overall efficacy in the treatment of metastatic bone disease.
 The following properties have been demonstrated in preclinical studies:
 
@@ -126,6 +125,7 @@ Table 5: Proportion of complete responders by day in the combined TIH studies
 Median time to normocalcaemia was 4 days.
 Median time to relapse (re-increase of albumin-corrected serum calcium ≥ 2.9 mmol/l) was 30 to 40 days for patients treated with zoledronic acid versus 17 days for those treated with pamidronate 90 mg (p-values: 0.001 for 4 mg and 0.007 for 8 mg zoledronic acid).
 There were no statistically significant differences between the two zoledronic acid doses.
+
 In clinical trials 69 patients who relapsed or were refractory to initial treatment (zoledronic acid 4 mg, 8 mg or pamidronate 90 mg) were retreated with 8 mg zoledronic acid.
 The response rate in these patients was about 52%.
 Since those patients were retreated with the 8 mg dose only, there are no data available allowing comparison with the 4 mg zoledronic acid dose.
@@ -144,7 +144,6 @@ Estimated treatment effects on BMD were similar, but the trial design was not su
 In particular there was no clear evidence of efficacy on incidence of fracture or on pain.
 Fracture adverse events of long bones in the lower extremities were reported in approximately 24% (femur) and 14% (tibia) of zoledronic acid-treated patients vs 12% and 5% of pamidronate-treated patients with severe osteogenesis imperfecta, regardless of disease type and causality but overall incidence of fractures was comparable for the zoledronic acid and pamidronate-treated patients: 43% (32/74) vs 41% (31/76).
 Interpretation of the risk of fracture is confounded by the fact that fractures are common events in patients with severe osteogenesis imperfecta as part of the disease process.
-
 The type of adverse reactions observed in this population were similar to those previously seen in adults with advanced malignancies involving the bone (see section 4.8).
 The adverse reactions ranked under headings of frequency, are presented in Table 6.
 The following conventional classification is used: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000), not known (cannot be estimated from the available data).

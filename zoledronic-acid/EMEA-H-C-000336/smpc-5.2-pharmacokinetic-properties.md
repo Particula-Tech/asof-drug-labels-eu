@@ -16,6 +16,7 @@ The interpatient variability in pharmacokinetic parameters for zoledronic acid w
 
 No pharmacokinetic data for zoledronic acid are available in patients with hypercalcaemia or in patients with hepatic insufficiency.
 Zoledronic acid does not inhibit human P450 enzymes in vitro, shows no biotransformation and in animal studies < 3% of the administered dose was recovered in the faeces, suggesting no relevant role of liver function in the pharmacokinetics of zoledronic acid.
+
 The renal clearance of zoledronic acid was correlated with creatinine clearance, renal clearance representing 75 ± 33% of the creatinine clearance, which showed a mean of 84 ± 29 ml/min (range 22 to 143 ml/min) in the 64 cancer patients studied.
 Population analysis showed that for a patient with creatinine clearance of 20 ml/min (severe renal impairment), or 50 ml/min (moderate impairment), the corresponding predicted clearance of zoledronic acid would be 37% or 72%, respectively, of that of a patient showing creatinine clearance of 84 ml/min.
 Only limited pharmacokinetic data are available in patients with severe renal insufficiency (creatinine clearance < 30 ml/min).

@@ -10,4 +10,12 @@ Attention should also be paid to the possibility of hypomagnesaemia developing d
 
 In multiple myeloma patients, the risk of renal dysfunction may be increased when Zometa is used in combination with thalidomide.
 
-Reports of ONJ have been received in patients treated with Zometa and concomitant anti-angiogenic medicinal products.
+Caution is advised when Zometa is administered with anti-angiogenic medicinal products as an increase in the incidence of ONJ has been observed in patients treated concomitantly with these medicinal products.
+
+[Zometa 4 mg/5 ml concentrate for solution for infusion]
+
+Caution is advised when Zometa is administered with anti-angiogenic medicinal products, as an increase in the incidence of ONJ has been observed in patients treated concomitantly with these medicinal products.
+
+[Zometa 4 mg/100 ml solution for infusion]
+
+(all sentences already above)

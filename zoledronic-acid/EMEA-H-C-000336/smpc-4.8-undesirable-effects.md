@@ -36,6 +36,10 @@ Common: Headache
 Uncommon: Dizziness, paraesthesia, taste disturbance,
 
 hypoaesthesia, hyperaesthesia, tremor, somnolence
+
+Very rare: Seizures, numbness and tetany (secondary to
+
+hypocalcaemia)
 Eye disorders
 
 Common: Conjunctivitis
@@ -52,7 +56,9 @@ Uncommon: Hypertension, hypotension, atrial fibrillation,
 hypotension leading to syncope or circulatory collapse
 
 Rare: Bradycardia
+Very rare: Cardiac arrhythmia (secondary to
 
+hypocalcaemia)
 Respiratory, thoracic and mediastinal disorders
 
 Uncommon: Dyspnoea, cough, bronchoconstriction
@@ -125,6 +131,11 @@ The onset time is ≤ 3 days post-Zometa infusion, and the reaction is also refe
 
 Atypical fractures of the femur
 During post-marketing experience the following reactions have been reported (frequency rare): Atypical subtrochanteric and diaphyseal femoral fractures (bisphopsphonate class adverse reaction).
+
+Hypocalcaemia-related ADRs
+Hypocalcaemia is an important identified risk with Zometa in the approved indications.
+Based on the review of both clinical trial and post-marketing cases, there is sufficient evidence to support an association between Zometa therapy, the reported event of hypocalcaemia, and the secondary development of cardiac arrhythmia.
+Furthermore, there is evidence of an association between hypocalcaemia and secondary neurological events reported in these cases including; seizures, numbness and tetany (see section 4.4).
 
 [Zometa 4 mg/5 ml concentrate for solution for infusion]
 
