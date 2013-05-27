@@ -54,4 +54,5 @@ Discard the syringe and any unused solution in accordance with appropriate clini
 
 6.
 Use the solution immediately within 1 hour of reconstitution.
+
 Parenteral medicines should be inspected visually for particulate matter prior to administration.

@@ -21,7 +21,6 @@ After oral administration, the mean terminal elimination half-life of olanzapine
 In healthy elderly (65 and over) versus non-elderly subjects, the mean elimination half-life was prolonged (51.8 versus 33.8 hr) and the clearance was reduced (17.5 versus 18.2 l/hr).
 The pharmacokinetic variability observed in the elderly is within the range for the non-elderly.
 In 44 patients with schizophrenia > 65 years of age, dosing from 5 to 20 mg/day was not associated with any distinguishing profile of adverse events.
-
 In female versus male subjects the mean elimination half life was somewhat prolonged (36.7 versus 32.3 hr) and the clearance was reduced (18.9 versus 27.3 l/hr).
 However, olanzapine (5-20 mg) demonstrated a comparable safety profile in female (n=467) as in male patients (n=869).
 

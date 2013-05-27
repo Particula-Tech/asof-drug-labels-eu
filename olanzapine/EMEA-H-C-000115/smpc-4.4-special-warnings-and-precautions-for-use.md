@@ -30,7 +30,7 @@ Additional signs may include elevated creatine phosphokinase, myoglobinuria (rha
 If a patient develops signs and symptoms indicative of NMS, or presents with unexplained high fever without additional clinical manifestations of NMS, all antipsychotic medicines, including olanzapine must be discontinued.
 
 Hyperglycaemia and diabetes
-Hyperglycaemia and/or development or exacerbation of diabetes occasionally associated with ketoacidosis or coma has been reported rarely, including some fatal cases (see section 4.8).
+Hyperglycaemia and/or development or exacerbation of diabetes occasionally associated with ketoacidosis or coma has been reported uncommonly, including some fatal cases (see section 4.8).
 In some cases, a prior increase in body weight has been reported which may be a predisposing factor.
 Appropriate clinical monitoring is advisable in accordance with utilised antipsychotic guidelines, e.g. measuring of blood glucose at baseline, 12 weeks after starting olanzapine treatment and annually thereafter.
 Patients treated with any antipsychotic agents, including ZYPREXA, should be observed for signs and symptoms of hyperglycaemia (such as polydipsia, polyuria, polyphagia, and weakness) and patients with diabetes mellitus or with risk factors for diabetes mellitus should be monitored regularly for worsening of glucose control.
@@ -54,7 +54,7 @@ Caution should be exercised in patients with low leukocyte and/or neutrophil cou
 Neutropenia has been reported commonly when olanzapine and valproate are used concomitantly (see section 4.8).
 
 Discontinuation of treatment
-Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported very rarely (< 0.01%) when olanzapine is stopped abruptly.
+Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported rarely ( ≥ 0.01% and < 0.1%) when olanzapine is stopped abruptly.
 
 QT interval
 In clinical trials, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] ≥ 500 milliseconds [msec] at any time post baseline in patients with baseline QTcF < 500 msec) were uncommon (0.1% to 1%) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo.
@@ -71,7 +71,7 @@ As it exhibits in vitro dopamine antagonism, olanzapine may antagonize the effec
 
 Seizures
 Olanzapine should be used cautiously in patients who have a history of seizures or are subject to factors which may lower the seizure threshold.
-Seizures have been reported to occur rarely in patients when treated with olanzapine.
+Seizures have been reported to occur uncommonly in patients when treated with olanzapine.
 In most of these cases, a history of seizures or risk factors for seizures were reported.
 
 Tardive Dyskinesia
@@ -99,19 +99,19 @@ Patients with rare hereditary problems of galactose intolerance, the Lapp lactas
 
 [ZYPREXA 5 mg coated tablets]
 
-(all sentences already above)
+Hyperglycaemia and/or development or exacerbation of diabetes occasionally associated with ketoacidosis or coma has been reported uncommonly , including some fatal cases (see section 4.8).
 
 [ZYPREXA 7.5 mg coated tablets]
 
-(all sentences already above)
+Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported rarely ( ≥0.01% and < 0.1%)) when olanzapine is stopped abruptly.
 
 [ZYPREXA 10 mg coated tablets.]
 
-(all sentences already above)
+Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported rarely (≥ 0.01% and < 0.1%) when olanzapine is stopped abruptly.
 
 [ZYPREXA 15 mg coated tablets]
 
-(all sentences already above)
+Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported rarely ( ≥0.01% and < 0.1%) when olanzapine is stopped abruptly.
 
 [ZYPREXA 20 mg coated tablets]
 
