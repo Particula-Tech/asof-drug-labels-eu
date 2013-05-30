@@ -6,3 +6,6 @@ RoActemra has been shown to reduce the rate of progression of joint damage as me
 
 RoActemra is indicated for the treatment of active systemic juvenile idiopathic arthritis (sJIA) in patients 2 years of age and older, who have responded inadequately to previous therapy with NSAIDs and systemic corticosteroids.
 RoActemra can be given as monotherapy (in case of intolerance to MTX or where treatment with MTX is inappropriate) or in combination with MTX.
+
+RoActemra in combination with methotrexate (MTX) is indicated for the treatment of juvenile idiopathic polyarthritis (rheumatoid factor positive or negative and extended oligoarthritis) in patients 2 years of age and older, who have responded inadequately to previous therapy with MTX.
+RoActemra can be given as monotherapy in case of intolerance to MTX or where continued treatment with MTX is inappropriate.

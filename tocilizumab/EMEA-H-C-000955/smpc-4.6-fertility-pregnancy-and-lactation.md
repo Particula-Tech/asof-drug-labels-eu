@@ -8,7 +8,10 @@ Women of childbearing potential must use effective contraception during and up t
 
 RoActemra should not be used during pregnancy unless clearly necessary.
 
-Lactation
+Breast-feeding
 It is unknown whether tocilizumab is excreted in human breast milk.
 The excretion of tocilizumab in milk has not been studied in animals.
 A decision on whether to continue/discontinue breast-feeding or to continue/discontinue therapy with RoActemra should be made taking into account the benefit of breast-feeding to the child and the benefit of RoActemra therapy to the woman.
+
+Fertility
+Available non-clinical data do not suggest an effect on fertility under tocilizumab treatment.
