@@ -5,6 +5,7 @@ Pregnancy
 Angiotensin II receptor antagonists should not be initiated during pregnancy.
 Unless continued angiotensin II receptor antagonist therapy is considered essential, patients planning pregnancy should be changed to alternative antihypertensive treatments which have an established safety profile for use in pregnancy.
 When pregnancy is diagnosed, treatment with angiotensin II receptor antagonists should be stopped immediately, and, if appropriate, alternative therapy should be started (see sections 4.3 and 4.6).
+
 Hepatic impairment
 
 Micardis is not to be given to patients with cholestasis, biliary obstructive disorders or severe hepatic impairment (see section 4.3) since telmisartan is mostly eliminated with the bile.
@@ -28,6 +29,8 @@ Volume and/or sodium depletion should be corrected prior to administration of Mi
 
 Dual blockade of the renin-angiotensin-aldosterone system
 
+The use of telmisartan in combination with aliskiren is contraindicated in patients with diabetes mellitus or renal impairment (GFR < 60 ml/min/1.73 m2) (see section 4.3).
+
 As a consequence of inhibiting the renin-angiotensin-aldosterone system, hypotension, syncope, hyperkalaemia and changes in renal function (including acute renal failure) have been reported in susceptible individuals, especially if combining medicinal products that affect this system.
 Dual blockade of the renin-angiotensin-aldosterone system (e.g. by administering telmisartan with other blockers of the renin-angiotensin-aldosterone system) is therefore not recommended.
 Close monitoring of renal function is advisable if co-administration is considered necessary.
@@ -35,7 +38,6 @@ Close monitoring of renal function is advisable if co-administration is consider
 Other conditions with stimulation of the renin-angiotensin-aldosterone system
 
 In patients whose vascular tone and renal function depend predominantly on the activity of the renin-angiotensin-aldosterone system (e.g. patients with severe congestive heart failure or underlying renal disease, including renal artery stenosis), treatment with medicinal products that affect this system such as telmisartan has been associated with acute hypotension, hyperazotaemia, oliguria, or rarely acute renal failure (see section 4.8).
-
 Primary aldosteronism
 
 Patients with primary aldosteronism generally will not respond to antihypertensive medicinal products acting through inhibition of the renin-angiotensin system.
@@ -44,6 +46,7 @@ Therefore, the use of telmisartan is not recommended.
 Aortic and mitral valve stenosis, obstructive hypertrophic cardiomyopathy
 
 As with other vasodilators, special caution is indicated in patients suffering from aortic or mitral stenosis, or obstructive hypertrophic cardiomyopathy.
+
 Diabetic patients treated with insulin or antidiabetics
 
 In these patients hypoglycaemia may occur under telmisartan treatment.

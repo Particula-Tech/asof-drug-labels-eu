@@ -15,7 +15,6 @@ Plasma aldosterone levels are decreased by telmisartan.
 Telmisartan does not inhibit human plasma renin or block ion channels.
 Telmisartan does not inhibit angiotensin converting enzyme (kininase II), the enzyme which also degrades bradykinin.
 Therefore it is not expected to potentiate bradykinin-mediated adverse effects.
-
 In human, an 80 mg dose of telmisartan almost completely inhibits the angiotensin II evoked blood pressure increase.
 The inhibitory effect is maintained over 24 hours and still measurable up to 48 hours.
 
@@ -49,7 +48,6 @@ The hazard ratio for telmisartan vs. ramipril was 1.01 (97.5 % CI 0.93 - 1.10, p
 The all-cause mortality rate was 11.6 % and 11.8 % among telmisartan and ramipril treated patients, respectively.
 
 Telmisartan was found to be similarly effective to ramipril in the pre-specified secondary endpoint of cardiovascular death, non-fatal myocardial infarction, and non-fatal stroke [0.99 (97.5 % CI 0.90 - 1.08), p (non-inferiority) = 0.0004], the primary endpoint in the reference study HOPE (The Heart Outcomes Prevention Evaluation Study), which had investigated the effect of ramipril vs. placebo.
-
 TRANSCEND randomized ACE-I intolerant patients with otherwise similar inclusion criteria as ONTARGET to telmisartan 80 mg (n=2954) or placebo (n=2972), both given on top of standard care.
 The mean duration of follow up was 4 years and 8 months.
 No statistically significant difference in the incidence of the primary composite endpoint (cardiovascular death, non-fatal myocardial infarction, non-fatal stroke, or hospitalization for congestive heart failure) was found [15.7 % in the telmisartan and 17.0 % in the placebo groups with a hazard ratio of 0.92 (95 % CI 0.81 - 1.05, p = 0.22)].
@@ -62,6 +60,7 @@ Combining telmisartan with ramipril did not add further benefit over ramipril or
 CV mortality and all cause mortality were numerically higher with the combination.
 In addition, there was a significantly higher incidence of hyperkalaemia, renal failure, hypotension and syncope in the combination arm.
 Therefore the use of a combination of telmisartan and ramipril is not recommended in this population.
+
 In the "Prevention Regimen For Effectively avoiding Second Strokes" (PRoFESS) trial in patients 50 years and older, who recently experienced stroke, an increased incidence of sepsis was noted for telmisartan compared with placebo, 0.70 % vs. 0.49 % [RR 1.43 (95 % confidence interval 1.00 - 2.06)]; the incidence of fatal sepsis cases was increased for patients taking telmisartan (0.33 %) vs. patients taking placebo (0.16 %) [RR 2.07 (95 % confidence interval 1.14 - 3.76)].
 The observed increased occurrence rate of sepsis associated with the use of telmisartan may be either a chance finding or related to a mechanism not currently known.
 

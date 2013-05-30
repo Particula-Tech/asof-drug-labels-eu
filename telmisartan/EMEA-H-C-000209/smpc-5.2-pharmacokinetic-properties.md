@@ -47,7 +47,6 @@ In patients with mild to moderate and severe renal impairment, doubling of plasm
 However, lower plasma concentrations were observed in patients with renal insufficiency undergoing dialysis.
 Telmisartan is highly bound to plasma protein in renal-insufficient patients and cannot be removed by dialysis.
 The elimination half-life is not changed in patients with renal impairment.
-
 Hepatic impairment
 Pharmacokinetic studies in patients with hepatic impairment showed an increase in absolute bioavailability up to nearly 100 %.
 The elimination half-life is not changed in patients with hepatic impairment.

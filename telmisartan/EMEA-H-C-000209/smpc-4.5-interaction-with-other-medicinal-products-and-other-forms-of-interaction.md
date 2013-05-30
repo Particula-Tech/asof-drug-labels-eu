@@ -1,7 +1,17 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
+Contraindicated (see section 4.3)
+
+Dual blockade of the renin-angiotensin-aldosterone system (RAAS)
+The combination of telmisartan with aliskiren is contraindicated in patients with diabetes mellitus or renal impairment (GFR < 60 ml/min/1.73 m2) and is not recommended in other patients (see sections 4.3, 4.4).
+
+Digoxin
+When telmisartan was co-administered with digoxin, median increases in digoxin peak plasma concentration (49%) and in trough concentration (20%) were observed.
+When initiating, adjusting, and discontinuing telmisartan, monitor digoxin levels in order to maintain levels within the therapeutic range.
+
 As with other medicinal products acting on the renin-angiotensin-aldosterone system, telmisartan may provoke hyperkalaemia (see section 4.4).
 The risk may increase in case of treatment combination with other medicinal products that may also provoke hyperkalaemia (salt substitutes containing potassium, potassium-sparing diuretics, ACE inhibitors, angiotensin II receptor antagonists, non steroidal anti-inflammatory medicinal products (NSAIDs, including selective COX-2 inhibitors), heparin, immunosuppressives (cyclosporin or tacrolimus), and trimethoprim).
+
 The occurrence of hyperkalaemia depends on associated risk factors.
 The risk is increased in case of the above-mentioned treatment combinations.
 The risk is particularly high in combination with potassium sparing-diuretics, and when combined with salt substitutes containing potassium.

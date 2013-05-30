@@ -24,6 +24,8 @@ Limited experience is available in patients with severe renal impairment or haem
 A lower starting dose of 20 mg is recommended in these patients (see section 4.4).
 No posology adjustment is required for patients with mild to moderate renal impairment.
 
+Concomitant use of telmisartan with aliskiren is contraindicated in patients with renal impairment (GFR < 60 ml/min/1.73 m2) (see section 4.3).
+
 Patients with hepatic impairmen:
 
 Micardis is contraindicated in patients with severe hepatic impairment (see section 4.3).
