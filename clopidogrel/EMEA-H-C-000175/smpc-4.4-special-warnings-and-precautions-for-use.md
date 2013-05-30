@@ -5,6 +5,7 @@ Due to the risk of bleeding and haematological adverse reactions, blood cell cou
 As with other antiplatelet agents, clopidogrel should be used with caution in patients who may be at risk of increased bleeding from trauma, surgery or other pathological conditions and in patients receiving treatment with ASA, heparin, glycoprotein IIb/IIIa inhibitors or non-steroidal anti-inflammatory drugs (NSAIDs) including Cox-2 inhibitors.
 Patients should be followed carefully for any signs of bleeding including occult bleeding, especially during the first weeks of treatment and/or after invasive cardiac procedures or surgery.
 The concomitant administration of clopidogrel with oral anticoagulants is not recommended since it may increase the intensity of bleedings (see section 4.5).
+
 If a patient is to undergo elective surgery and antiplatelet effect is temporarily not desirable, clopidogrel should be discontinued 7 days prior to surgery.
 Patients should inform physicians and dentists that they are taking clopidogrel before any surgery is scheduled and before any new medicinal product is taken.
 Clopidogrel prolongs bleeding time and should be used with caution in patients who have lesions with a propensity to bleed (particularly gastrointestinal and intraocular).
@@ -26,6 +27,10 @@ Tests are available to identify a patient's CYP2C19 genotype.
 Since clopidogrel is metabolised to its active metabolite partly by CYP2C19, use of medicinal products that inhibit the activity of this enzyme would be expected to result in reduced drug levels of the active metabolite of clopidogrel.
 The clinical relevance of this interaction is uncertain.
 As a precaution concomitant use of strong or moderate CYP2C19 inhibitors should be discouraged (see section 4.5 for a list of CYP2C19 inhibitors, see also section 5.2).
+
+Allergic cross-reactivity
+Patients should be evaluated for history of hypersensitivity to another thienopyridine (such as ticlopidine, prasugrel) since allergic cross-reactivity among thienopyridines has been reported (see section 4.8).
+Patients who have had previous hypersensitivity to other thienopyridines should be carefully monitored for signs of hypersensitivity to clopidogrel during treatment.
 
 Renal impairment
 Therapeutic experience with clopidogrel is limited in patients with renal impairment.

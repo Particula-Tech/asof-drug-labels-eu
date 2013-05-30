@@ -1,11 +1,14 @@
 # 4.8 Undesirable effects
 
+Summary of the safety profile
+
 Clopidogrel has been evaluated for safety in more than 44,000 patients who have participated in clinical studies, including over 12,000 patients treated for 1 year or more.
 Overall, clopidogrel 75 mg/day was comparable to ASA 325 mg/day in CAPRIE regardless of age, gender and race.
 The clinically relevant adverse reactions observed in the CAPRIE, CURE, CLARITY, COMMIT and ACTIVE-A studies are discussed below.
 In addition to clinical studies experience, adverse reactions have been spontaneously reported.
 
 Bleeding is the most common reaction reported both in clinical studies as well as in post-marketing experience where it was mostly reported during the first month of treatment.
+
 In CAPRIE, in patients treated with either clopidogrel or ASA, the overall incidence of any bleeding was 9.3%.
 The incidence of severe cases was similar for clopidogrel and ASA.
 
@@ -22,14 +25,16 @@ Major bleeding was mostly of extracranial origin in both groups (5.3% in the clo
 There was an excess of intracranial bleeding in the clopidogrel + ASA treatment group compared to the placebo + ASA group (1.4% versus 0.8%, respectively).
 There was no statistically significant difference in the rates of fatal bleeding (1.1% in the clopidogrel + ASA group and 0.7% in the placebo +ASA group) and haemorrhagic stroke (0.8% and 0.6%, respectively) between groups.
 
+Tabulated list of adverse reactions
+
 Adverse reactions that occurred either during clinical studies or that were spontaneously reported are presented in the table below.
-Their frequency is defined using the following conventions: common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000).
+Their frequency is defined using the following conventions: common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000), not known (cannot be estimated from the available data).
 Within each system organ class, adverse reactions are presented in order of decreasing seriousness.
 
-| System Organ Class | Common | Uncommon | Rare | Very rare |
+| System Organ Class | Common | Uncommon | Rare | Very rare, not known* |
 | --- | --- | --- | --- | --- |
 | Blood and the lymphatic system disorders |  | Thrombocytopenia, leucopenia, eosinophilia | Neutropenia, including severe neutropenia | Thrombotic thrombocytopenic purpura (TTP) (see section 4.4), aplastic anaemia, pancytopenia, agranulocytosis, severe thrombocytopenia, granulocytopenia, anaemia |
-| Immune system disorders |  |  |  | Serum sickness, anaphylactoid reactions |
+| Immune system disorders |  |  |  | Serum sickness, anaphylactoid reactions, cross-reactive drug hypersensitivity among thienopyridines (such as ticlopidine, prasugrel) (see section 4.4)* |
 | Psychiatric disorders |  |  |  | Hallucinations, confusion |
 | Nervous system disorders |  | Intracranial bleeding (some cases were reported with fatal outcome), headache, paraesthesia, dizziness |  | Taste disturbances |
 | Eye disorders |  | Eye bleeding (conjunctival, ocular, retinal) |  |  |
@@ -38,8 +43,10 @@ Within each system organ class, adverse reactions are presented in order of decr
 | Respiratory, thoracic and mediastinal disorders | Epistaxis |  |  | Respiratory tract bleeding (haemoptysis, pulmonary haemorrhage), bronchospasm, interstitial pneumonitis |
 | Gastrointestinal disorders | Gastrointestinal haemorrhage, diarrhoea, abdominal pain, dyspepsia | Gastric ulcer and duodenal ulcer, gastritis, vomiting, nausea, constipation, flatulence | Retroperitoneal haemorrhage | Gastrointestinal and retroperitoneal haemorrhage with fatal outcome, pancreatitis, colitis (including ulcerative or lymphocytic colitis), stomatitis |
 | Hepato-biliary disorders |  |  |  | Acute liver failure, hepatitis, abnormal liver function test |
-| Skin and subcutaneous tissue disorders | Bruising | Rash, pruritus, skin bleeding (purpura) |  | Bullous dermatitis (toxic epidermal necrolysis, Stevens Johnson Syndrome, erythema multiforme), angioedema, rash erythematous, urticaria, eczema, lichen planus |
+| Skin and subcutaneous tissue disorders | Bruising | Rash, pruritus, skin bleeding (purpura) |  | Bullous dermatitis (toxic epidermal necrolysis, Stevens Johnson Syndrome, erythema multiforme), angioedema, drug-induced hypersensitivity syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), rash erythematous, urticaria, eczema, lichen planus |
 | Musculoskeletal, connective tissue and bone disorders |  |  |  | Musculo-skeletal bleeding (haemarthrosis), arthritis, arthralgia, myalgia |
 | Renal and urinary disorders |  | Haematuria |  | Glomerulonephritis, blood creatinine increased |
 | General disorders and administration site conditions | Bleeding at puncture site |  |  | Fever |
 | Investigations |  | Bleeding time prolonged, neutrophil count decreased, platelet count decreased |  |  |
+
+* Information related to clopidogrel with frequency “not known”.

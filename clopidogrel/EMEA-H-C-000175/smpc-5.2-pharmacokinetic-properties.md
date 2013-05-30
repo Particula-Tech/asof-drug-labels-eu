@@ -9,14 +9,13 @@ Distribution
 Clopidogrel and the main circulating (inactive) metabolite bind reversibly in vitro to human plasma proteins (98% and 94% respectively).
 The binding is non-saturable in vitro over a wide concentration range.
 
-Metabolism
+Biotransformation
 Clopidogrel is extensively metabolised by the liver.
 In vitro and in vivo, clopidogrel is metabolised according to two main metabolic pathways: one mediated by esterases and leading to hydrolysis into its inactive carboxylic acid derivative (85% of circulating metabolites), and one mediated by multiple cytochromes P450.
 Clopidogrel is first metabolised to a 2-oxo-clopidogrel intermediate metabolite.
 Subsequent metabolism of the 2-oxo-clopidogrel intermediate metabolite results in formation of the active metabolite, a thiol derivative of clopidogrel.
 In vitro, this metabolic pathway is mediated by CYP3A4, CYP2C19, CYP1A2 and CYP2B6.
 The active thiol metabolite which has been isolated in vitro, binds rapidly and irreversibly to platelet receptors, thus inhibiting platelet aggregation.
-
 The Cmax of the active metabolite is twice as high following a single 300-mg clopidogrel loading dose as it is after four days of 75-mg maintenance dose.
 Cmax occurs approximately 30 to 60 minutes after dosing.
 
@@ -51,12 +50,12 @@ The influence of CYP2C19 genotype on clinical outcomes in patients treated with 
 There have been a number of retrospective analyses, however, to evaluate this effect in patients treated with clopidogrel for whom there are genotyping results: CURE (n=2721), CHARISMA (n=2428), CLARITY-TIMI 28 (n=227), TRITON-TIMI 38 (n=1477), and ACTIVE-A (n=601), as well as a number of published cohort studies.
 
 In TRITON-TIMI 38 and 3 of the cohort studies (Collet, Sibbing, Giusti) the combined group of patients with either intermediate or poor metaboliser status had a higher rate of cardiovascular events (death, myocardial infarction, and stroke) or stent thrombosis compared to extensive metabolisers.
-
 In CHARISMA and one cohort study (Simon), an increased event rate was observed only in poor metabolisers when compared to extensive metabolisers.
 
 In CURE, CLARITY, ACTIVE-A and one of the cohort studies (Trenk), no increased event rate was observed based on metaboliser status.
 
 None of these analyses were adequately sized to detect differences in outcome in poor metabolisers.
+
 Special populations
 
 The pharmacokinetics of the active metabolite of clopidogrel is not known in these special populations.

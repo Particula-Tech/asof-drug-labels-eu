@@ -4,6 +4,7 @@ Oral anticoagulants: the concomitant administration of clopidogrel with oral ant
 Although the administration of clopidogrel 75 mg/day did not modify the pharmacokinetics of S-warfarin or International Normalised Ratio (INR) in patients receiving long-term warfarin therapy, coadministration of clopidogrel with warfarin increases the risk of bleeding because of independent effects on hemostasis.
 
 Glycoprotein IIb/IIIa inhibitors: clopidogrel should be used with caution in patients who receive concomitant glycoprotein IIb/IIIa inhibitors (see section 4.4).
+
 Acetylsalicylic acid (ASA): ASA did not modify the clopidogrel-mediated inhibition of ADP-induced platelet aggregation, but clopidogrel potentiated the effect of ASA on collagen-induced platelet aggregation.
 However, concomitant administration of 500 mg of ASA twice a day for one day did not significantly increase the prolongation of bleeding time induced by clopidogrel intake.
 A pharmacodynamic interaction between clopidogrel and acetylsalicylic acid is possible, leading to increased risk of bleeding.
@@ -35,11 +36,11 @@ Esomeprazole is expected to give a similar interaction with clopidogrel.
 
 Inconsistent data on the clinical implications of this pharmacokinetic (PK)/pharmacodynamic (PD) interaction in terms of major cardiovascular events have been reported from both observational and clinical studies.
 As a precaution, concomitant use of omeprazole or esomeprazole should be discouraged (see section 4.4).
-
 Less pronounced reductions of metabolite exposure has been observed with pantoprazole or lansoprazole.
 The plasma concentrations of the active metabolite was 20% reduced (loading dose) and 14% reduced (maintenance dose) during concomitant treatment with pantoprazole 80 mg once daily.
 This was associated with a reduction of the mean inhibition of platelet aggregation by 15% and 11%, respectively.
 These results indicate that clopidogrel can be administered with pantoprazole.
+
 There is no evidence that other medicinal products that reduce stomach acid such as H2 blockers (except cimetidine which is a CYP2C19 inhibitor) or antacids interfere with antiplatelet activity of clopidogrel.
 
 Other medicinal products: A number of other clinical studies have been conducted with clopidogrel and other concomitant medicinal products to investigate the potential for pharmacodynamic and pharmacokinetic interactions.

@@ -5,7 +5,7 @@ As no clinical data on exposure to clopidogrel during pregnancy are available, i
 
 Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryonal/foetal development, parturition or postnatal development (see section 5.3).
 
-Breastfeeding
+Breast-feeding
 It is unknown whether clopidogrel is excreted in human breast milk.
 Animal studies have shown excretion of clopidogrel in breast milk.
 As a precautionary measure, breast-feeding should not be continued during treatment with Iscover.
