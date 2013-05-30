@@ -2,4 +2,4 @@
 
 Each gastro-resistant tablet contains 20 mg pantoprazole (as sodium sesquihydrate).
 
-For a full list of excipients, see section 6.1.
+For the full list of excipients, see section 6.1.

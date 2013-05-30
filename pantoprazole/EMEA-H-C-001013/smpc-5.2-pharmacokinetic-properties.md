@@ -12,15 +12,15 @@ Concomitant intake of food had no influence on bioavailability (AUC or Cmax), bu
 Distribution
 Volume of distribution is about 0.15 l/kg and serum protein binding is about 98%.
 
-Metabolism and excretion
+Biotransformation
+Pantoprazole is almost exclusively metabolized in the liver.
+
+Elimination
 Clearance is about 0.1 l/h/kg, and terminal half-life (t1/2) about 1 h. There were a few cases of subjects with delayed elimination.
 Due to the specific binding of pantoprazole to the proton pumps within the parietal cell, the elimination half-life does not correlate with the much longer duration of action (inhibition of acid secretion).
-
-Pantoprazole is almost exclusively metabolized in the liver.
 Renal elimination represents the major route of excretion (about 80%) for the metabolites of pantoprazole; the rest is excreted with the faeces.
 The main metabolite in both serum and urine is desmethylpantoprazole, which is conjugated with sulphate.
 The half-life of the main metabolite (about 1.5 h) is not much longer than that of pantoprazole.
-
 Special populations
 Renal impairment
 No dose reduction is recommended when pantoprazole is administered to patients with impaired renal function (including patients on dialysis, which removes only negligible amounts of pantoprazole).

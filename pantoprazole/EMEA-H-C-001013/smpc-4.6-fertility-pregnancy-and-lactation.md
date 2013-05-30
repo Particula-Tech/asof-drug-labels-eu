@@ -6,7 +6,10 @@ Studies in animals have shown reproductive toxicity.
 Preclinical studies revealed no evidence of impaired fertility or teratogenic effects (see section 5.3).
 The potential risk for humans is unknown.PANTOZOL Control should not be used during pregnancy.
 
-Breastfeeding
+Breast-feeding
 It is unknown whether pantoprazole is excreted in human breast milk.
 Animal studies have shown excretion of pantoprazole in breast milk.
 PANTOZOL Control should not be used during breast-feeding.
+
+Fertility
+There was no evidence of impaired fertility following the administration of pantoprazole in animal studies (see section 5.3).

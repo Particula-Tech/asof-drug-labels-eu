@@ -28,3 +28,8 @@ Undesirable effects with pantoprazole in clinical trials and post-marketing expe
 | Hepatobiliary disorders | Liver enzymes increased (transaminases, γ-GT) | Bilirubin increased |  | Hepatocellular injury; Jaundice; Hepatocellular failure |
 | Psychiatric disorders | Sleep disorders | Depression (and all aggravations) | Disorientation (and all aggravations) | Hallucination; Confusion (especially in pre-disposed patients, as well as the aggravation of these symptoms in case of pre-existence) |
 | Reproductive system and breast disorders |  | Gynaecomastia |  |  |
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

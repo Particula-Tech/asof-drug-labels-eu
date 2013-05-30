@@ -1,9 +1,9 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Nycomed GmbH
+Takeda GmbH
 Byk-Gulden-Str.
 2
 D-78467 Konstanz
 Germany
-Telephone: +49-(0)7531-84-0
-Telefax: +49-(0)7531-84-2474
+Telephone: 0800 825332 4
+Telefax: 0800 825332 9
