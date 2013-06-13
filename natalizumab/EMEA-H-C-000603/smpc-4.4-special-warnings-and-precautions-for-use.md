@@ -39,6 +39,9 @@ Once the clinician has excluded PML (if necessary, by repeating clinical, imagin
 The physician should be particularly alert to symptoms suggestive of PML that the patient may not notice (e.g. cognitive or psychiatric symptoms).
 Patients should also be advised to inform their partner or caregivers about their treatment, since they may notice symptoms that the patient is not aware of.
 
+PML has been reported following discontinuation of TYSABRI in patients who did not have findings suggestive of PML at the time of discontinuation.
+Patients and Physicians should continue to be alert for any new signs or symptoms that may be suggestive of PML for approximately six months following discontinuation of TYSABRI.
+
 If a patient develops PML the dosing of TYSABRI must be permanently discontinued.
 
 Following reconstitution of the immune system in immunocompromised patients with PML improved outcome has been seen.
@@ -89,11 +92,11 @@ Concurrent use of these agents with TYSABRI may increase the risk of infections,
 Patients with a treatment history of immunosuppressant medications are at increased risk for PML.
 Care should be taken with patients who have previously received immunosuppressants to allow sufficient time for immune function recovery to occur.
 Physicians must evaluate each individual case to determine whether there is evidence of an immunocompromised state prior to commencing treatment with TYSABRI (see section 4.3).
-
 In Phase 3 MS clinical trials, concomitant treatment of relapses with a short course of corticosteroids was not associated with an increased rate of infection.
 Short courses of corticosteroids can be used in combination with TYSABRI.
 
 Immunogenicity
+
 Disease exacerbations or infusion related events may indicate the development of antibodies against natalizumab.
 In these cases the presence of antibodies should be evaluated and if these remain positive in a confirmatory test after 6 weeks, treatment should be discontinued, as persistent antibodies are associated with a substantial decrease in efficacy of TYSABRI and an increased incidence of hypersensitivity reactions (see section 4.8).
 

@@ -14,9 +14,9 @@ Frequencies were defined as follows:
 
 Common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100).
 
+1 An adverse event judged related to therapy by the investigating physician.
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-1 An adverse event judged related to therapy by the investigating physician.
 Infections and infestations
 Common Urinary tract infection
 Nasopharyngitis
@@ -64,6 +64,7 @@ Persistent anti-natalizumab antibodies (one positive test reproducible on retest
 Antibodies were detected on only one occasion in an additional 4% of patients.
 Persistent antibodies were associated with a substantial decrease in the effectiveness of TYSABRI and an increased incidence of hypersensitivity reactions.
 Additional infusion-related reactions associated with persistent antibodies included rigors, nausea, vomiting and flushing (see section 4.4).
+
 If, after approximately 6 months of therapy, persistent antibodies are suspected, either due to reduced efficacy or due to occurrence of infusion-related events, they may be detected and confirmed with a subsequent test 6 weeks after the first positive test.
 Given that efficacy may be reduced or the incidence of hypersensitivity or infusion-related reactions may be increased in a patient with persistent antibodies, treatment should be discontinued in patients who develop persistent antibodies.
 
