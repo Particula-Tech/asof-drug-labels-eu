@@ -9,6 +9,5 @@ Neonates exposed to antipsychotics (including aripiprazole) during the third tri
 There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, or feeding disorder.
 Consequently, newborns should be monitored carefully.
 
-Aripiprazole was excreted in the milk of treated rats during lactation.
-It is not known whether aripiprazole is excreted in human milk.
+Aripiprazole is excreted in human breast milk.
 Patients should be advised not to breast feed if they are taking aripiprazole.

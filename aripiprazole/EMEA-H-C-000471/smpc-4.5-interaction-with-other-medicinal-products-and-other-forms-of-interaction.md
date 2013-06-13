@@ -37,6 +37,8 @@ Upon discontinuation of potent CYP3A4 inducers, the dosage of ABILIFY should be 
 
 When either valproate or lithium were administered concomitantly with aripiprazole, there was no clinically significant change in aripiprazole concentrations.
 
+Serotonin syndrome: cases of serotonin syndrome have been reported in patients taking aripiprazole, and possible signs and symptoms for this condition can occur especially in cases of concomitant use with other serotonergic drugs, such as SSRI/SNRI, or with drugs that are known to increase aripiprazole concentrations (see section 4.8).
+
 Potential for ABILIFY to affect other medicinal products:
 
 In clinical studies, 10-30 mg/day doses of aripiprazole had no significant effect on the metabolism of substrates of CYP2D6 (dextromethorphan/3-methoxymorphinan ratio), 2C9 (warfarin), 2C19 (omeprazole), and 3A4 (dextromethorphan).

@@ -28,12 +28,12 @@ Pharmacokinetics in special patient groups
 
 Paediatric population:
 The pharmacokinetics of aripiprazole and dehydro-aripiprazole in paediatric patients 10 to 17 years of age were similar to those in adults after correcting for the differences in body weights.
-
 Elderly:
 There are no differences in the pharmacokinetics of aripiprazole between healthy elderly and younger adult subjects, nor is there any detectable effect of age in a population pharmacokinetic analysis in schizophrenic patients.
 
 Gender:
 There are no differences in the pharmacokinetics of aripiprazole between healthy male and female subjects nor is there any detectable effect of gender in a population pharmacokinetic analysis in schizophrenic patients.
+
 Smoking and Race:
 Population pharmacokinetic evaluation has revealed no evidence of clinically significant race-related differences or effects from smoking upon the pharmacokinetics of aripiprazole.
 

@@ -2,9 +2,9 @@
 
 Adults:
 The most commonly reported adverse reactions in placebo-controlled trials are akathisia and nausea each occurring in more than 3% of patients treated with oral aripiprazole.
-
 The following adverse reactions occurred more often (≥ 1/100) than placebo, or were identified as possibly medically relevant adverse reactions (*):
 The frequency listed below is defined using the following convention: common (≥ 1/100 to < 1/10) and uncommon (≥ 1/1,000 to < 1/100).
+
 Psychiatric disorders
 Common: restlessness, insomnia, anxiety
 Uncommon: depression*
@@ -41,7 +41,6 @@ Elevations of CPK (Creatine Phosphokinase), generally transient and asymptomatic
 
 Other findings:
 Adverse reactions known to be associated with antipsychotic therapy and also reported during treatment with aripiprazole include neuroleptic malignant syndrome, tardive dyskinesia, seizure, cerebrovascular adverse reactions and increased mortality in elderly demented patients, hyperglycaemia and diabetes mellitus (see section 4.4).
-
 Paediatric population:
 
 Schizophrenia in adolescents aged 15 years and older:
@@ -81,7 +80,7 @@ Psychiatric disorders: agitation, nervousness, pathological gambling; suicide at
 
 suicidal ideation, and completed suicide (see section 4.4)
 
-Nervous system disorders: speech disorder, Neuroleptic Malignant Syndrome (NMS), grand mal convulsion
+Nervous system disorders: speech disorder, Neuroleptic Malignant Syndrome (NMS), grand mal convulsion, serotonin syndrome
 
 Cardiac disorders: QT prolongation, ventricular arrhythmias, sudden unexplained
 
@@ -97,9 +96,9 @@ mediastinal disorders:
 
 Gastrointestinal disorders: pancreatitis, dysphagia, abdominal discomfort, stomach discomfort, diarrhoea
 
-Hepato-biliary disorders: jaundice, hepatitis, increased Alanine Aminotransferase (ALT),
+Hepato-biliary disorders: hepatic failure, jaundice, hepatitis, increased Alanine
 
-increased Aspartate Aminotransferase (AST), increased Gamma Glutamyl Transferase (GGT), increased alkaline phosphatase
+Aminotransferase (ALT), increased Aspartate Aminotransferase (AST), increased Gamma Glutamyl Transferase (GGT), increased alkaline phosphatase
 
 Skin and subcutaneous tissue rash, photosensitivity reaction, alopecia, hyperhidrosis disorders:
 

@@ -53,6 +53,7 @@ Four mood stabilizer subgroups were assessed in the randomised phase: aripiprazo
 The Kaplan-Meier rates for recurrence to any mood episode for the adjunctive treatment arm were 16% in aripiprazole + lithium and 18% in aripiprazole + valproate compared to 45% in placebo + lithium and 19% in placebo + valproate.
 
 Paediatric population:
+
 Schizophrenia in adolescents:
 In a 6-week placebo-controlled trial involving 302 schizophrenic adolescent patients (13-17 years), presenting with positive or negative symptoms, aripiprazole was associated with statistically significantly greater improvements in psychotic symptoms compared to placebo.
 In a sub-analysis of the adolescent patients between the ages of 15 to 17 years, representing 74% of the total enrolled population, maintenance of effect was observed over the 26-week open-label extension trial.
@@ -155,6 +156,7 @@ Schizophrenia in adolescents with oral aripiprazole:
 | Placebo (n=52)a | 7.0 | 8.2 | Placebo (n=47)b | 6.3 | 7.0 |
 | No psychiatric comorbidities | Week 4 | Week 12 | No ADHD | Week 4 | Week 12 |
 | Abilify 10 mg (n=27) | 12.8 | 15.9 | Abilify 10 mg (n=37) | 12.7 | 15.7 |
-| Abilify 30 mg (n=25) | 15.3 | 14.7 | Abilify 30 mg (n=30) | 14.6 | 13.4 |
 
-Placebo (n=18) 9.4 9.7 Placebo (n=25) 9.9 10.0
+| Abilify 30 mg (n=25) | 15.3 | 14.7 | Abilify 30 mg (n=30) | 14.6 | 13.4 |
+| --- | --- | --- | --- | --- | --- |
+| Placebo (n=18) | 9.4 | 9.7 | Placebo (n=25) | 9.9 | 10.0 |
