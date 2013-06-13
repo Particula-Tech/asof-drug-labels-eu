@@ -17,7 +17,6 @@ Co-administration of a single 25 mg dose of warfarin had no effect on the pharma
 However, it is not known whether there is an interaction during clinical use (concomitant treatment with dexamethasone).
 Dexamethasone is a weak to moderate enzyme inducer and its effect on warfarin is unknown.
 Close monitoring of warfarin concentration is advised during the treatment.
-
 Digoxin
 Concomitant administration with lenalidomide 10 mg/day increased the plasma exposure of digoxin (0.5 mg, single dose) by 14% with a 90% CI (confidence interval) [0.52%-28.2%].
 It is not known whether the effect will be different in the therapeutic situation (higher lenalidomide doses and concomitant treatment with dexamethasone).

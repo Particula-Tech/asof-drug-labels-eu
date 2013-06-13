@@ -16,7 +16,7 @@ A female patient or a female partner of a male patient is considered to have chi
 - Previous bilateral salpingo-oophorectomy, or hysterectomy
 - XY genotype, Turner syndrome, uterine agenesis.
 
-*Amenorrhoea following cancer therapy does not rule out childbearing potential.
+*Amenorrhoea following cancer therapy or during lactation does not rule out childbearing potential.
 
 Counselling
 For women of childbearing potential, lenalidomide is contraindicated unless all of the following are met:
@@ -34,7 +34,8 @@ For male patients taking lenalidomide, pharmacokinetic data has demonstrated tha
 As a precaution, all male patients taking lenalidomide must meet the following conditions:
 
 - Understand the expected teratogenic risk if engaged in sexual activity with a pregnant woman or a woman of childbearing potential
-- Understand the need for the use of a condom if engaged in sexual activity with a pregnant woman or a woman of childbearing potential.
+- Understand the need for the use of a condom if engaged in sexual activity with a pregnant woman or a woman of childbearing potential not using effective contraception (even if the man has had a vasectomy), during treatment and for 1 week after dose interruptions and/or cessation of treatment.
+- Understand that if his female partner becomes pregnant whilst he is taking Revlimid or shortly after he has stopped taking Revlimid, he should inform his treating physician immediately and that it is recommended to refer the female partner to a physician specialised or experienced in teratology for evaluation and advice.
 
 The prescriber must ensure that for women of childbearing potential:
 
@@ -54,7 +55,7 @@ The following can be considered to be examples of suitable methods of contracept
 - Sexual intercourse with a vasectomised male partner only; vasectomy must be confirmed by two negative semen analyses
 - Ovulation inhibitory progesterone-only pills (i.e. desogestrel)
 
-Because of the increased risk of venous thromboembolism in patients with multiple myeloma taking lenalidomide and dexamethasone, combined oral contraceptive pills are not recommended (see also section 4.5).
+Because of the increased risk of venous thromboembolism in patients with multiple myeloma taking lenalidomide and dexamethasone, and to a lesser extent in patients with myelodysplastic syndromes taking lenalidomide monotherapy, combined oral contraceptive pills are not recommended (see also section 4.5).
 If a patient is currently using combined oral contraception the patient should switch to one of the effective method listed above.
 The risk of venous thromboembolism continues for 4−6 weeks after discontinuing combined oral contraception.
 The efficacy of contraceptive steroids may be reduced during co-treatment with dexamethasone (see section 4.5).
@@ -80,16 +81,21 @@ These pregnancy tests should be performed on the day of the prescribing visit or
 
 Men
 Lenalidomide is present in human semen at extremely low levels during treatment and is undetectable in human semen 3 days after stopping the substance in the healthy subject (see section 5.2).
-As a precaution, and taking into account special populations with prolonged elimination time such as renal impairment, all male patients taking lenalidomide should use condoms throughout treatment duration, during dose interruption and for 1 week after cessation of treatment if their partner is pregnant or of childbearing potential and has no contraception.
+As a precaution, and taking into account special populations with prolonged elimination time such as renal impairment, all male patients taking lenalidomide should use condoms throughout treatment duration, during dose interruption and for 1 week after cessation of treatment if their partner is pregnant or of childbearing potential and not using effective contraception (even if the man has had a vasectomy).
 
 Additional precautions
 Patients should be instructed never to give this medicinal product to another person and to return any unused capsules to their pharmacist at the end of treatment.
 
 Patients should not donate blood during therapy or for 1 week following discontinuation of lenalidomide.
 
-Educational materials
+Educational materials, prescribing and dispensing restrictions
 In order to assist patients in avoiding foetal exposure to lenalidomide, the Marketing Authorisation Holder will provide educational material to health care professionals to reinforce the warnings about the expected teratogenicity of lenalidomide, to provide advice on contraception before therapy is started, and to provide guidance on the need for pregnancy testing.
-Full patient information about the expected teratogenic risk and the strict pregnancy prevention measures as specified in the Pregnancy Prevention Programme should be given by the physician to women of childbearing potential and, as appropriate, to male patients.
+The prescriber must inform male and female patients about the expected teratogenic risk and the strict pregnancy prevention measures as specified in the Pregnancy Prevention Programme and provide patients with appropriate patient educational brochure, patient card and/or equivalent tool in accordance to the national implemented patient card system.
+A national controlled distribution system has been implemented in collaboration with each National Competent Authority.
+The controlled distribution system includes the use of a patient card and/or equivalent tool for prescribing and/or dispensing controls, and the collecting of detailed data relating to the indication in order to monitor closely the off-label use within the national territory.
+Ideally, pregnancy testing, issuing a prescription and dispensing should occur on the same day.
+Dispensing of lenalidomide to women of childbearing potential should occur within 7 days of the prescription and following a medically supervised negative pregnancy test result.
+
 Other special warnings and precautions for use
 
 Cardiovascular disorders
@@ -100,6 +106,8 @@ Patients with known risk factors – including prior thrombosis – should be cl
 
 Venous and arterial thromboembolic events
 In patients with multiple myeloma, the combination of lenalidomide with dexamethasone is associated with an increased risk of venous thromboembolism (predominantly deep vein thrombosis and pulmonary embolism) and arterial thromboembolism (predominantly myocardial infarction and cerebrovascular event) – see sections 4.5 and 4.8.
+
+In patients with myelodysplatic syndromes, treatment with lenalidomide monotherapy was also associated with a risk of venous thromboembolism (predominantly deep vein thrombosis and pulmonary embolism), but to a lesser extent than in patients with multiple myeloma – see sections 4.5 and 4.8.
 
 Consequently, patients with known risk factors for thromboembolism – including prior thrombosis – should be closely monitored.
 Action should be taken to try to minimize all modifiable risk factors (e.g. smoking, hypertension, and hyperlipidaemia).
@@ -117,19 +125,24 @@ Once the patient has been stabilised on the anticoagulation treatment and any co
 The patient should continue anticoagulation therapy during the course of lenalidomide treatment.
 
 Neutropenia and thrombocytopenia
-The combination of lenalidomide with dexamethasone in multiple myeloma patients is associated with a higher incidence of grade 4 neutropenia (5.1% in lenalidomide/dexamethasone-treated patients compared with 0.6% in placebo/dexamethasone-treated patients; see section 4.8).
-Grade 4 febrile neutropenia episodes were observed infrequently (0.6% in lenalidomide/dexamethasone-treated patients compared to 0.0% in placebo/dexamethasone treated patients; see section 4.8).
-Patients should be advised to promptly report febrile episodes.
+The major dose limiting toxicities of lenalidomide include neutropenia and thrombocytopenia.
+A complete blood cell count, including white blood cell count with differential count, platelet count, haemoglobin, and haematocrit should be performed at baseline, every week for the first 8 weeks of lenalidomide treatment and monthly thereafter to monitor for cytopenias.
 A dose reduction may be required (see section 4.2).
 In case of neutropenia, the physician should consider the use of growth factors in patient management.
+Patients should be advised to promptly report febrile episodes.
+Co-administration of lenalidomide with other myelosuppressive agents should be undertaken with caution.
+
+- Multiple myeloma
+
+The combination of lenalidomide with dexamethasone in multiple myeloma patients is associated with a higher incidence of grade 4 neutropenia (5.1% in lenalidomide/dexamethasone-treated patients compared with 0.6% in placebo/dexamethasone-treated patients; see section 4.8).
+Grade 4 febrile neutropenia episodes were observed infrequently (0.6% in lenalidomide/dexamethasone-treated patients compared to 0.0% in placebo/dexamethasone treated patients; see section 4.8).
 
 The combination of lenalidomide with dexamethasone in multiple myeloma patients is associated with a higher incidence of grade 3 and grade 4 thrombocytopenia (9.9% and 1.4%, respectively, in lenalidomide/dexamethasone-treated patients compared to 2.3% and 0.0% in placebo/dexamethasone-treated patients; see section 4.8).
 Patients and physicians are advised to be observant for signs and symptoms of bleeding, including petechiae and epistaxes, especially in case of concomitant medication susceptible to induce bleeding (see section 4.8 Haemorrhagic disorders).
-A dose reduction of lenalidomide may be required (see section 4.2).
 
-A complete blood cell count, including white blood cell count with differential count, platelet count, haemoglobin, and haematocrit should be performed at baseline, every week for the first 8 weeks of lenalidomide treatment and monthly thereafter to monitor for cytopenias.
-The major dose limiting toxicities of lenalidomide include neutropenia and thrombocytopenia.
-Therefore, co-administration of lenalidomide with other myelosuppressive agents should be undertaken with caution.
+- Myelodysplastic syndromes
+
+Lenalidomide treatment in myelodysplastic syndromes patients is associated with a higher incidence of grade 3 and 4 neutropenia and thrombocytopenia compared to patients on placebo (see section 4.8).
 
 Renal impairment
 Lenalidomide is substantially excreted by the kidney.
@@ -169,11 +182,27 @@ An increase of second primary malignancies (SPM) has been observed in clinical t
 Non-invasive SPM comprise basal cell or squamous cell skin cancers.
 Most of the invasive SPMs were solid tumour malignancies.
 
-In clinical trials of newly diagnosed multiple myeloma, a 4-fold increased incidence of second primary malignancies has been observed in patients receiving Revlimid (7.0%) compared with controls (1.8%).
+In clinical trials of newly diagnosed multiple myeloma, a 4-fold increased incidence of SPM has been observed in patients receiving Revlimid (7.0%) compared with controls (1.8%).
 Among invasive SPMs, cases of AML, MDS and solid tumours were observed in patients receiving Revlimid in combination with melphalan or immediately following high dose melphalan and ASCT; cases of B-cell malignancies (including Hodgkin's lymphoma) were observed in the clinical trials where patients received Revlimid in the post ASCT setting.
 
 The risk of occurrence of SPM must be taken into account before initiating treatment with Revlimid.
 Physicians should carefully evaluate patients before and during treatment using standard cancer screening for occurrence of SPM and institute treatment as indicated.
+
+Progression to acute myeloid leukaemia in low- and intermediate-1-risk MDS
+
+- Karyotype
+
+Baseline variables including complex cytogenetics are associated with progression to AML in subjects who are transfusion dependent and have a Del (5q) abnormality.
+In a clinical trial of Revlimid in low- or intermediate-1-risk myelodysplastic syndromes, subjects who had a complex cytogenetics had the highest estimated 2-year cumulative risk of progression to AML (38.6%).
+The estimated 2-year rate of progression to AML in patients with an isolated Del (5q) abnormality was 13.8%, compared to 17.3% for patients with Del (5q) and one additional cytogenetic abnormality.
+
+As a consequence, the benefit/risk ratio of Revlimid when MDS is associated with Del (5q) and complex cytogenetics is unknown.
+
+- TP53 status
+
+A TP53 mutation is present in 20 to 25% of lower-risk MDS Del 5q patients and is associated with a higher risk of progression to acute myeloid leukaemia (AML).
+In a post-hoc analysis of a clinical trial of Revlimid in low- or intermediate-1-risk myelodysplastic syndromes (MDS-004), the estimated 2-year rate of progression to AML was 27.5 % in patients with IHC-p53 positivity (1% cut-off level of strong nuclear staining, using immunohistochemical assessment of p53 protein as a surrogate for TP53 mutation status) and 3.6% in patients with IHC-p53 negativity (p=0.0038) (see section 4.8)
+
 Hepatic Disorders
 Hepatic failure, including fatal cases, has been reported in patients treated with lenalidomide in combination with dexamethasone: acute hepatic failure, toxic hepatitis, cytolytic hepatitis, cholestatic hepatitis, and mixed cytolytic/cholestatic hepatitis have been reported.
 The mechanisms of severe drug-induced hepatotoxicity remain unknown although, in some cases, pre-existing viral liver disease, elevated baseline liver enzymes, and possibly treatment with antibiotics might be risk factors.
@@ -184,3 +213,27 @@ Once parameters have returned to baseline, treatment at a lower dose may be cons
 Lenalidomide is excreted by the kidneys.
 It is important to dose adjust patients with renal impairment in order to avoid plasma levels which may increase the risk for higher haematological side effects or hepatotoxicity.
 Monitoring of liver function is recommended, particularly when there is a history of or concurrent viral liver infection or when lenalidomide is combined with medications known to be associated with liver dysfunction.
+
+[Revlimid 5 mg hard capsules]
+
+(all sentences already above)
+
+[Revlimid 7.5 mg hard capsules]
+
+Because of the increased risk of venous thromboembolism in patients with multiple myeloma taking lenalidomide and dexamethasone, combined oral contraceptive pills are not recommended (see also section 4.5).
+
+A dose reduction of lenalidomide may be required (see section 4.2).
+
+Therefore, co-administration of lenalidomide with other myelosuppressive agents should be undertaken with caution.
+
+[Revlimid 10 mg hard capsules]
+
+(all sentences already above)
+
+[Revlimid 15 mg hard capsules]
+
+(all sentences already above)
+
+[Revlimid 25 mg hard capsules]
+
+(all sentences already above)

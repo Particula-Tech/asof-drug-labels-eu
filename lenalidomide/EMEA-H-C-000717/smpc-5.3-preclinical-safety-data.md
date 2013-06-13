@@ -9,8 +9,9 @@ Lenalidomide has a potential for acute toxicity; minimum lethal doses after oral
 Repeated oral administration of 75, 150 and 300 mg/kg/day to rats for up to 26 weeks produced a reversible treatment-related increase in kidney pelvis mineralisation in all 3 doses, most notably in females.
 The no observed adverse effect level (NOAEL) was considered to be less than 75 mg/kg/day, and is approximately 25-fold greater than the human daily exposure based on AUC exposure.
 Repeated oral administration of 4 and 6 mg/kg/day to monkeys for up to 20 weeks produced mortality and significant toxicity (marked weight loss, reduced red and white blood cell and platelet counts, multiple organ haemorrhage, gastrointestinal tract inflammation, lymphoid, and bone marrow atrophy).
-Repeated oral administration of 1 and 2 mg/kg/day to monkeys for up to 1 year produced reversible changes in bone marrow cellularity, a slight decrease in myeloid:erythroid cell ratio and thymic atrophy.
+Repeated oral administration of 1 and 2 mg/kg/day to monkeys for up to 1 year produced reversible changes in bone marrow cellularity, a slight decrease in myeloid/erythroid cell ratio and thymic atrophy.
 Mild suppression of white blood cell count was observed at 1 mg/kg/day corresponding to approximately the same human dose based on AUC comparisons.
+
 In vitro (bacterial mutation, human lymphocytes, mouse lymphoma, Syrian Hamster Embryo cell transformation) and in vivo (rat micronucleus) mutagenicity studies revealed no drug related effects at either the gene or chromosomal level.
 Carcinogenicity studies with lenalidomide have not been conducted.
 
