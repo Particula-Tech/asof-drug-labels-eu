@@ -10,7 +10,6 @@ Sugammadex exhibits linear kinetics in the dosage range of 1 to 16 mg/kg when ad
 
 Metabolism:
 In preclinical and clinical studies no metabolites of sugammadex have been observed and only renal excretion of the unchanged product was observed as the route of elimination.
-
 Elimination:
 In adult anaesthetized patients with normal renal function the effective half-life of sugammadex is about 2.5 hours and the estimated plasma clearance is about 75 ml/min (based on compartmental pharmacokinetic analysis, using three compartments).
 A mass balance study demonstrated that > 90% of the dose was excreted within 24 hours.
@@ -47,6 +46,5 @@ No gender differences were observed.
 Race:
 In a study in healthy Japanese and Caucasian subjects no clinically relevant differences in pharmacokinetic parameters were observed.
 Limited data does not indicate differences in pharmacokinetic parameters in Black or African Americans.
-
 Body weight:
 Population pharmacokinetic analysis of adult and elderly patients showed no clinically relevant relationship of clearance and volume of distribution with body weight.

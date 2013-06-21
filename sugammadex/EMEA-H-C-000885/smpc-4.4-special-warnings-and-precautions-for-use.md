@@ -1,5 +1,7 @@
 # 4.4 Special warnings and precautions for use
 
+As is normal post-anaesthetic practice following neuromuscular blockade, it is recommended to monitor the patient in the immediate post-operative period for untoward events including recurrence of neuromuscular blockade.
+
 Monitoring respiratory function during recovery:
 Ventilatory support is mandatory for patients until adequate spontaneous respiration is restored following reversal of neuromuscular blockade.
 Even if recovery from neuromuscular blockade is complete, other medicinal products used in the peri- and postoperative period could depress respiratory function and therefore ventilatory support might still be required.
@@ -10,7 +12,7 @@ In clinical trials recurrence of neuromuscular blockade was reported mainly when
 In order to prevent recurrence of neuromuscular blockade, the recommended doses for routine or immediate reversal (see section 4.2) should be used.
 
 Effect on haemostasis:
-In a study in volunteers doses of 4 mg/kg and 16 mg/kg of sugammadex resulted in maximum mean prolongations of the activated partial thromboplastin time (aPTT) by 17 and 22% respectively and prothrombin time (PT)[INR] by 11 and 22% respectively.
+In a study in volunteers doses of 4 mg/kg and 16 mg/kg of sugammadex resulted in maximum mean prolongations of the activated partial thromboplastin time (aPTT) by 17 and 22% respectively and prothrombin time international normalized ratio [PT(INR)] by 11 and 22% respectively.
 These limited mean aPTT and PT(INR) prolongations were of short duration (≤ 30 minutes).
 Based on the clinical data-base (n=1,738) there was no clinically relevant effect of sugammadex alone or in combination with anticoagulants on the incidence of peri- or post-operative bleeding complications.
 
@@ -18,7 +20,7 @@ In in vitro experiments a pharmacodynamic interaction (aPTT and PT prolongation)
 In patients receiving routine post-operative prophylactic anticoagulation this pharmacodynamic interaction is not clinically relevant.
 Caution should be exercised when considering the use of sugammadex in patients receiving therapeutic anticoagulation for a pre-existing or co-morbid condition.
 
-An increased risk of bleeding can not be excluded in patients:
+An increased risk of bleeding cannot be excluded in patients:
 
 - with hereditary vitamin K dependent clotting factor deficiencies;
 - with pre-existing coagulopathies;
@@ -49,27 +51,6 @@ The onset of a depolarizing neuromuscular blocking agent might be slower than ex
 Renal impairment:
 Sugammadex is not recommended for use in patients with severe renal impairment, including those requiring dialysis (see section 5.1).
 
-Interactions due to the lasting effect of rocuronium or vecuronium:
-When medicinal products which potentiate neuromuscular blockade are used in the post-operative period special attention should be paid to the possibility of recurrence of neuromuscular blockade.
-Please refer to the package leaflet of rocuronium or vecuronium for a list of the specific medicinal products which potentiate neuromuscular blockade.
-In case recurrence of neuromuscular blockade is observed, the patient may require mechanical ventilation and re-administration of sugammadex (see section 4.2).
-
-Potential interactions:
-
-- Capturing interactions:
-
-Due to the administration of sugammadex, certain medicinal products could become less effective due to a lowering of the (free) plasma concentrations (see section 4.5, hormonal contraceptives).
-If such a situation is observed, the clinician is advised to consider the re-administration of the medicinal product, the administration of a therapeutically equivalent medicinal product (preferably from a different chemical class) and/or non-pharmacological interventions as appropriate.
-
-- Displacement interactions:
-
-Due to the administration of certain medicinal products after sugammadex, theoretically rocuronium or vecuronium could be displaced from sugammadex.
-As a result recurrence of neuromuscular blockade might be observed.
-In this situation the patient must be ventilated.
-Administration of the medicinal product which caused displacement should be stopped in case of an infusion.
-In situations when potential displacement interactions can be anticipated, patients should be carefully monitored for signs of recurrence of neuromuscular blockade (approximately up to 15 minutes) after parenteral administration of another medicinal product occurring within a period of 7.5 hours after sugammadex administration.
-Displacement interactions are at present only expected for a few drugs substances (toremifene and fusidic acid, see section 4.5).
-
 Light anaesthesia:
 When neuromuscular blockade was reversed intentionally in the middle of anaesthesia in clinical trials, signs of light anaesthesia were noted occasionally (movement, coughing, grimacing and suckling of the tracheal tube).
 If neuromuscular blockade is reversed, while anaesthesia is continued, additional doses of anaesthetic and/or opioid should be given as clinically indicated.
@@ -77,7 +58,7 @@ If neuromuscular blockade is reversed, while anaesthesia is continued, additiona
 Hepatic impairment:
 Sugammadex is not metabolised nor excreted by the liver; therefore dedicated studies in patients with hepatic impairment have not been conducted.
 Patients with severe hepatic impairment should be treated with great caution.
-
+In case hepatic impairment is accompanied by coagulopathy see the information on the effect on haemostasis.
 Use in Intensive Care Unit (ICU):
 Sugammadex has not been investigated in patients receiving rocuronium or vecuronium in the ICU setting.
 
@@ -86,7 +67,7 @@ Sugammadex should not be used for reversal of neuromuscular blockade induced by 
 Limited data are available for reversal of pancuronium induced blockade, but it is advised not to use sugammadex in this situation.
 
 Delayed recovery:
-Conditions associated with prolonged circulation time such as cardiovascular disease, old age (see section 4.2 for the time to recovery in elderly), or oedematous state may be associated with longer recovery times.
+Conditions associated with prolonged circulation time such as cardiovascular disease, old age (see section 4.2 for the time to recovery in elderly), or oedematous state (e.g., severe hepatic impairment) may be associated with longer recovery times.
 
 Drug hypersensitivity reactions:
 Clinicians should be prepared for the possibility of drug hypersensitivity reactions (including anaphylactic reactions) and take the necessary precautions (see section 4.8).
