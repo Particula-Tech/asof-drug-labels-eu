@@ -28,11 +28,12 @@ In the trials, the presence of the mutations V90I and V189I, at baseline, did no
 The E138K substitution emerged most frequently during rilpivirine treatment, commonly in combination with the M184I substitution.
 In the week 48 analysis, 31 out of 62 of rilpivirine virologic failures had concomitant NNRTI and NRTI RAMs; 17 of those 31 had the combination of E138K and M184I.
 The most common mutations were the same in the week 48 and week 96 analyses.
+
 In the week 96 pooled resistance analysis, lower rates of virologic failure were observed in the second 48 weeks than in the first 48 weeks of treatment.
 From the week 48 to the week 96 analysis, 24 (3.5%) and 14 (2.1%) additional virologic failures occurred in the EDURANT and efavirenz arm, respectively.
 Of these virologic failures, 9 out of 24 and 4 out of 14 were in subjects with a baseline viral load < 100,000 copies/ml, respectively.
 
-Considering all of the available in vitro and in vivo data in treatment-naïve subjects, the following resistance-associated mutations, when present at baseline, may affect the activity of rilpivirine: K101E, K101P, E138A, E138G, E138K, E138R, E138Q, V179L, Y181C, Y181I, Y181V, H221Y, F227C, M230I, and M230L.
+Considering all of the available in vitro and in vivo data in treatment-naïve subjects, the following resistance-associated mutations, when present at baseline, may affect the activity of rilpivirine: K101E, K101P, E138A, E138G, E138K, E138R, E138Q, V179L, Y181C, Y181I, Y181V, Y188L, H221Y, F227C, M230I, and M230L.
 These rilpivirine resistance-associated mutations should only guide the use of EDURANT in the treatment-naïve population.
 These resistance-associated mutations were derived from in vivo data involving treatment-naïve subjects only and therefore cannot be used to predict the activity of rilpivirine in subjects who have virologically failed an antiretroviral-containing regimen.
 
@@ -133,7 +134,6 @@ N=number of subjects per treatment group; ND=not determined.
 ¶ e.g. lost to follow-up, non-compliance, withdrew consent.
 
 At week 96, the mean change from baseline in CD4+ cell count was +228 x 106 cells/l in the EDURANT arm and +219 x 106 cells/l in the efavirenz arm in the pooled analysis of the ECHO and THRIVE trials [estimated treatment difference (95% CI): 11.3 (-6.8; 29.4)].
-
 From the week 96 pooled resistance analysis, the resistance outcome for patients with protocol defined virological failure, and paired genotypes (baseline and failure) is shown in table 5.
 
 | Table 5: Resistance outcome by background NRTI regimen used (pooled data from the ECHO and THRIVE trials in the week 96 resistance analysis) |  |  |  |  |

@@ -28,10 +28,12 @@ A higher risk of lipodystrophy has been associated with individual factors such 
 Clinical examination should include evaluation for physical signs of fat redistribution (see section 4.8).
 
 Immune reactivation syndrome
-In HIV infected patients with severe immune deficiency at the time of institution of CART, an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions or aggravation of symptoms.
+In HIV infected patients with severe immune deficiency at the time of initiation of CART, an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions or aggravation of symptoms.
 Typically, such reactions have been observed within the first weeks or months of initiation of CART.
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections and Pneumocystis jiroveci pneumonia.
-Any inflammatory symptoms should be evaluated and treatment instituted when necessary (see section 4.8).
+Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
+
+Autoimmune disorders (such as Graves' disease) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.8).
 
 Important information about some of the ingredients of EDURANT
 EDURANT contains lactose.

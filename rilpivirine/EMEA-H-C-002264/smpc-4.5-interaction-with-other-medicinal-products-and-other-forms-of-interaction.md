@@ -9,10 +9,9 @@ Co-administration of EDURANT with medicinal products that increase gastric pH ma
 
 Medicinal products that are affected by the use of rilpivirine
 EDURANT at a dose of 25 mg once daily is not likely to have a clinically relevant effect on the exposure of medicinal products metabolised by CYP enzymes.
-Rilpivirine inhibits P-glycoprotein in vitro.
-The clinical relevance of this inhibition is unknown.
-EDURANT may inhibit intestinal P-glycoprotein and affect medicinal products that are transported by P-glycoprotein in the intestine, such as dabigatran.
-This may lead to increased plasma concentrations of such medicinal products.
+Rilpivirine inhibits P-glycoprotein in vitro (IC50 is 9.2 μM).
+In a clinical study rilpivirine did not significantly affect the pharmacokinetics of digoxin.
+However, it may not be completely excluded that rilpivirine can increase the exposure to other drugs transported by P-glycoprotein that are more sensitive to intestinal P-gp inhibition, e.g. dabigatran etexilate.
 
 Rilpivirine inhibits the active renal tubular secretion of creatinine.
 Via the same mechanism exposure to metformin may be increased.
@@ -28,11 +27,11 @@ Interactions between rilpivirine and co-administered medicinal products are list
 | Medicinal products by therapeutic areas | Interaction Geometric mean change (%) | Recommendations concerning co-administration |
 | ANTI-INFECTIVES |  |  |
 | Antiretrovirals |  |  |
-| NRTIs/N[t]RTIs |  |  |
+| HIV NRTIs/N[t]RTIs |  |  |
 | Didanosine*# 400 mg once daily | didanosine AUC ↑ 12% didanosine Cmin NA didanosine Cmax ↔ rilpivirine AUC ↔ rilpivirine Cmin ↔ rilpivirine Cmax ↔ | No dose adjustment is required. Didanosine should be administered at least two hours before or at least four hours after EDURANT. |
 | Tenofovir disoproxil fumarate*# 300 mg once daily | tenofovir AUC ↑ 23% tenofovir Cmin ↑ 24% tenofovir Cmax ↑ 19% rilpivirine AUC ↔ rilpivirine Cmin ↔ rilpivirine Cmax ↔ | No dose adjustment is required. |
 | Other NRTIs (abacavir, emtricitabine, lamivudine, stavudine and zidovudine) | Not studied. No clinically relevant drug-drug interactions are expected. | No dose adjustment is required. |
-| NNRTIs |  |  |
+| HIV NNRTIs |  |  |
 | NNRTIs (delavirdine, efavirenz, etravirine, nevirapine) | Not studied. | It is not recommended to co-administer EDURANT with other NNRTIs. |
 | HIV PIs – with co-administration of low dose ritonavir |  |  |
 | Darunavir/ritonavir*# 800/100 mg once daily | darunavir AUC ↔ darunavir Cmin ↓ 11% darunavir Cmax ↔ rilpivirine AUC ↑ 130% rilpivirine Cmin ↑ 178% rilpivirine Cmax ↑ 79% (inhibition of CYP3A enzymes) | Concomitant use of EDURANT with ritonavir-boosted PIs causes an increase in the plasma concentrations of rilpivirine, but no dose adjustment is required. |
@@ -42,7 +41,7 @@ Interactions between rilpivirine and co-administered medicinal products are list
 | Unboosted PIs (atazanavir, fosamprenavir, indinavir, nelfinavir) | Not studied. Increased exposure of rilpivirine is expected. (inhibition of CYP3A enzymes) | No dose adjustment is required. |
 | CCR5 Antagonists |  |  |
 | Maraviroc | Not studied. No clinically relevant drug-drug interaction is expected. | No dose adjustment is required. |
-| Integrase Strand Transfer Inhibitors |  |  |
+| HIV Integrase Strand Transfer Inhibitors |  |  |
 | Raltegravir* | raltegravir AUC ↑ 9% raltegravir Cmin ↑ 27% raltegravir Cmax ↑ 10% rilpivirine AUC ↔ rilpivirine Cmin ↔ rilpivirine Cmax ↔ | No dose adjustment is required. |
 | Other Antiviral Agents |  |  |
 | Ribavirin | Not studied. No clinically relevant drug-drug interaction is expected. | No dose adjustment is required. |
@@ -58,15 +57,15 @@ Interactions between rilpivirine and co-administered medicinal products are list
 | Rifampicin*# 600 mg once daily | rifampicin AUC ↔ rifampicin Cmin NA rifampicin Cmax ↔ 25-desacetyl-rifampicin AUC ↓ 9% 25-desacetyl-rifampicin Cmin NA 25-desacetyl-rifampicin Cmax ↔ rilpivirine AUC ↓ 80% rilpivirine Cmin ↓ 89% rilpivirine Cmax ↓ 69% (induction of CYP3A enzymes) | EDURANT must not be used in combination with rifampicin as co-administration is likely to result in loss of therapeutic effect of EDURANT. |
 | Rifapentine | Not studied. Significant decreases in rilpivirine plasma concentrations are expected. (induction of CYP3A enzymes) | EDURANT must not be used in combination with rifapentine as co-administration is likely to result in loss of therapeutic effect of EDURANT. |
 | MACROLIDE ANTIBIOTICS |  |  |
-| Clarithromycin Erythromycin Troleandomycin | Not studied. Increased exposure of rilpivirine is expected. (inhibition of CYP3A enzymes) | Where possible, alternatives such as azithromycin should be considered. |
+| Clarithromycin Erythromycin | Not studied. Increased exposure of rilpivirine is expected. (inhibition of CYP3A enzymes) | Where possible, alternatives such as azithromycin should be considered. |
 | GLUCOCORTICOIDS |  |  |
 | Dexamethasone (systemic, except for single dose use) | Not studied. Dose dependent decreases in rilpivirine plasma concentrations are expected. (induction of CYP3A enzymes) | EDURANT should not be used in combination with systemic dexamethasone (except as a single dose) as co-administration may result in loss of therapeutic effect of EDURANT. Alternatives should be considered, particularly for long-term use. |
 | PROTON PUMP INHIBITORS |  |  |
 | Omeprazole*# 20 mg once daily | omeprazole AUC ↓ 14% omeprazole Cmin NA omeprazole Cmax ↓ 14% rilpivirine AUC ↓ 40% rilpivirine Cmin ↓ 33% rilpivirine Cmax ↓ 40% (reduced absorption due to gastric pH increase) | EDURANT must not be used in combination with proton pump inhibitors as co-administration is likely to result in loss of therapeutic effect of EDURANT. |
 | Lansoprazole Rabeprazole Pantoprazole Esomeprazole | Not studied. Significant decreases in rilpivirine plasma concentrations are expected. (reduced absorption due to gastric pH increase) |  |
 | H2-RECEPTOR ANTAGONISTS |  |  |
-| Famotidine*# 40 mg single dose taken 12 hours before rilpivirine | rilpivirine AUC ↓ 9% rilpivirine Cmin NA rilpivirine Cmax ↔ | The combination of EDURANT and H2-receptor antagonists should be used with particular caution. Only |
-| Famotidine*# 40 mg single dose taken 2 hours before rilpivirine | rilpivirine AUC ↓ 76% rilpivirine Cmin NA rilpivirine Cmax ↓ 85% (reduced absorption due to gastric pH increase) | H2-receptor antagonists that can be dosed once daily should be used. A strict dosing schedule, with intake of H2-receptor antagonists at least 12 hours before or at least 4 hours after EDURANT should be used. |
+| Famotidine*# 40 mg single dose taken 12 hours before rilpivirine | rilpivirine AUC ↓ 9% rilpivirine Cmin NA rilpivirine Cmax ↔ | The combination of EDURANT and H2-receptor antagonists should be used with particular caution. Only H2-receptor antagonists that can be dosed once daily should be used. A strict dosing schedule, with intake of H2-receptor antagonists at least 12 hours before or at least 4 hours after EDURANT should be used. |
+| Famotidine*# 40 mg single dose taken 2 hours before rilpivirine | rilpivirine AUC ↓ 76% rilpivirine Cmin NA rilpivirine Cmax ↓ 85% (reduced absorption due to gastric pH increase) |  |
 | Famotidine*# 40 mg single dose taken 4 hours after rilpivirine | rilpivirine AUC ↑ 13% rilpivirine Cmin NA rilpivirine Cmax ↑ 21% |  |
 | Cimetidine Nizatidine Ranitidine | Not studied. (reduced absorption due to gastric pH increase) |  |
 | ANTACIDS |  |  |
@@ -74,9 +73,9 @@ Interactions between rilpivirine and co-administered medicinal products are list
 | NARCOTIC ANALGESICS |  |  |
 | Methadone* 60-100 mg once daily, individualised dose | R(-) methadone AUC ↓ 16% R(-) methadone Cmin ↓ 22% R(-) methadone Cmax ↓ 14% rilpivirine AUC ↔* rilpivirine Cmin ↔* rilpivirine Cmax ↔* * based on historic controls | No dose adjustments are required when initiating co-administration of methadone with EDURANT. However, clinical monitoring is recommended as methadone maintenance therapy may need to be adjusted in some patients. |
 | ANTIARRHYTHMICS |  |  |
-| Digoxin | Not studied. Increases in digoxin plasma concentrations may occur. (inhibition of intestinal P-gp) | It is recommended that digoxin levels be monitored. |
+| Digoxin* | digoxin AUC ↔ digoxin Cmin NA digoxin Cmax ↔ | No dose adjustment is required. |
 | ANTICOAGULANTS |  |  |
-| Dabigatran | Not studied. Increases in dabigatran plasma concentrations are expected. (inhibition of intestinal P-gp) | The combination of EDURANT and dabigatran should be used with caution. |
+| Dabigatran etexilate | Not studied. A risk for increases in dabigatran plasma concentrations cannot be excluded. (inhibition of intestinal P-gp) | The combination of EDURANT and dabigatran etexilate should be used with caution. |
 | ANTIDIABETICS |  |  |
 | Metformin | Not studied. It may not be excluded that rilpivirine will give rise to increased exposure of metformin. (inhibition of the active renal secretion of metformin) | Careful patient monitoring is advised when starting or ending concomitant treatment. |
 | HERBAL PRODUCTS |  |  |

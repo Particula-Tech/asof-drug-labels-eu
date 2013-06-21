@@ -57,12 +57,12 @@ Lipodystrophy
 CART has been associated with redistribution of body fat (lipodystrophy) in HIV infected patients, including loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump) (see section 4.4).
 
 Immune reactivation syndrome
-In HIV infected patients with severe immune deficiency at the time of initiation of CART, an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (immune reactivation syndrome) (see section 4.4).
+In HIV infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise.
+Autoimmune disorders (such as Graves' disease) have also been reported; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
 
 Paediatric population
 The safety and efficacy of EDURANT in children aged < 18 years have not yet been established.
 No data are available.
-
 Other special populations
 Patients co-infected with hepatitis B and/or hepatitis C virus
 In patients co-infected with hepatitis B or C virus receiving EDURANT, the incidence of hepatic enzyme elevation was higher than in patients receiving EDURANT who were not co-infected.
