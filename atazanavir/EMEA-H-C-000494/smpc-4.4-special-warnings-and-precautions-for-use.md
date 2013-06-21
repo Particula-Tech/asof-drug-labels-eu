@@ -72,6 +72,7 @@ In HIV-infected patients with severe immune deficiency at the time of institutio
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis carinii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
+Autoimmune disorders (such as Graves' disease) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
 
 Osteonecrosis
 Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
@@ -99,10 +100,13 @@ Co-administration of REYATAZ with ritonavir and medicinal products that induce C
 PDE5 inhibitors used for the treatment of erectile dysfunction: particular caution should be used when prescribing PDE5-inhibitors (sildenafil, tadalafil, or vardenafil) for the treatment of erectile dysfunction in patients receiving REYATAZ with concomitant low-dose ritonavir.
 Co-administration of REYATAZ with these medicinal products is expected to substantially increase their concentrations and may result in PDE5-associated adverse events such as hypotension, visual changes and priapism (see section 4.5).
 
-Co-administration of voriconazole and REYATAZ with ritonavir is not recommended unless an assessment of the benefit/risk justifies the use of voriconazole (see section 4.5).
+Co-administration of voriconazole and REYATAZ with ritonavir is not recommended, unless an assessment of the benefit/risk justifies the use of voriconazole.
 
+In the majority of patients, a reduction in both voriconazole and atazanavir exposures are expected.
+In a small number of patients without a functional CYP2C19 allele, significantly increased voriconazole exposures are expected (see section 4.5).
 Concomitant use of REYATAZ/ritonavir and fluticasone or other glucocorticoids that are metabolized by CYP3A4 is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects, including Cushing's syndrome and adrenal suppression
 (see section 4.5).
+
 Concomitant use of salmeterol and REYATAZ/ritonavir may result in increased cardiovascular adverse events associated with salmeterol.
 Co-administration of salmeterol and REYATAZ is not recommended (see section 4.5).
 

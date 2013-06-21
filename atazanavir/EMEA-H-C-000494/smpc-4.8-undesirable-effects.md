@@ -71,14 +71,15 @@ The frequency category was estimated from a statistical calculation based on the
 b See section c. Description of selected adverse reactions for more details.
 
 c. Description of selected adverse reactions
-In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).
+In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise.
+Autoimmune disorders (such as Graves' disease) have also been reported; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
+
 Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to combination antiretroviral therapy (CART).
 The frequency of this is unknown (see section 4.4).
 
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients, including loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy, and dorsocervical fat accumulation (buffalo hump).
 
 Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia, and hyperlactataemia (see sections 4.4 and 5.1).
-
 Rash and associated syndromes
 Rashes are usually mild-to-moderate maculopapular skin eruptions that occur within the first 3 weeks of starting therapy with REYATAZ.
 
