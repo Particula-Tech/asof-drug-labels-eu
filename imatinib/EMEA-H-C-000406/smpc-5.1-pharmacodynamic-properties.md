@@ -11,7 +11,6 @@ Imatinib is a protein-tyrosine kinase inhibitor which potently inhibits the Bcr-
 The compound selectively inhibits proliferation and induces apoptosis in Bcr-Abl positive cell lines as well as fresh leukaemic cells from Philadelphia chromosome positive CML and acute lymphoblastic leukaemia (ALL) patients.
 
 In vivo the compound shows anti-tumour activity as a single agent in animal models using Bcr-Abl positive tumour cells.
-
 Imatinib is also an inhibitor of the receptor tyrosine kinases for platelet-derived growth factor (PDGF), PDGF-R, and stem cell factor (SCF), c-Kit, and inhibits PDGF- and SCF-mediated cellular events.
 In vitro, imatinib inhibits proliferation and induces apoptosis in gastrointestinal stromal tumour (GIST) cells, which express an activating kit mutation.
 Constitutive activation of the PDGF receptor or the Abl protein tyrosine kinases as a consequence of fusion to diverse partner proteins or constitutive production of PDGF have been implicated in the pathogenesis of MDS/MPD, HES/CEL and DFSP.
@@ -33,6 +32,7 @@ Patients showing lack of response (lack of complete haematological response (CHR
 In the Glivec arm, patients were treated with 400 mg daily.
 In the IFN arm, patients were treated with a target dose of IFN of 5 MIU/m2/day subcutaneously in combination with subcutaneous Ara-C
 20 mg/m2/day for 10 days/month.
+
 A total of 1,106 patients were randomised, 553 to each arm.
 Baseline characteristics were well balanced between the two arms.
 Median age was 51 years (range 18–70 years), with 21.9% of patients ≥ 60 years of age.
@@ -81,6 +81,7 @@ Using this approach, the estimated cumulative response rates for first-line trea
 
 With 7 years follow-up, there were 93 (16.8%) progression events in the Glivec arm: 37 (6.7%) involving progression to accelerated phase/blast crisis, 31 (5.6%) loss of MCyR, 15 (2.7%) loss of CHR or increase in WBC, and 10 (1.8%) CML unrelated deaths.
 In contrast, there were 165 (29.8%) events in the IFN+Ara-C arm, of which 130 occurred during first-line treatment with IFN+Ara-C.
+
 The estimated rate of patients free of progression to accelerated phase or blast crisis at 84 months was significantly higher in the Glivec arm compared to the IFN arm (92.5% versus 85.1%, p<0.001).
 The annual rate of progression to accelerated phase or blast crisis decreased with time on therapy and was less than 1% annually in the fourth and fifth years.
 The estimated rate of progression-free survival at 84 months was 81.2% in the Glivec arm and 60.6% in the control arm (p<0.001).
@@ -114,6 +115,7 @@ A complete haematological response was achieved in 95% of patients.
 
 Accelerated phase: 235 adult patients with accelerated phase disease were enrolled.
 The first 77 patients were started at 400 mg, the protocol was subsequently amended to allow higher dosing and the remaining 158 patients were started at 600 mg.
+
 The primary efficacy variable was the rate of haematological response, reported as either complete haematological response, no evidence of leukaemia (i.e. clearance of blasts from the marrow and the blood, but without a full peripheral blood recovery as for complete responses), or return to chronic phase CML.
 A confirmed haematological response was achieved in 71.5% of patients (Table 4).
 Importantly, 27.7% of patients also achieved a major cytogenetic response, which was complete in 20.4% (confirmed 16%) of patients.
@@ -239,6 +241,29 @@ All treatment regimens include administration of steroids for CNS prophylaxis.
 Ara-C: cytosine arabinoside; CP: cyclophosphamide; DEX: dexamethasone; MTX: methotrexate; 6-MP: 6-mercaptopurine VM26: Teniposide; VCR: vincristine; IDA: idarubicine; i.v.:
 intravenous
 
+Paediatric patients: In study I2301, a total of 93 paediatric, adolescent and young adult patients (from 1 to 22 years old) with Ph+ ALL were enrolled in an open-label, multicentre, sequential cohort, non-randomised phase III trial, and were treated with Glivec (340 mg/m2/day) in combination with intensive chemotherapy after induction therapy.
+Glivec was administered intermittently in cohorts 1-5, with increasing duration and earlier start of Glivec from cohort to cohort; cohort 1 receiving the lowest intensitiy and cohort 5 receiving the highest intensity of Glivec (longest duration in days with continuous daily Glivec dosing during the first chemotherapy treatment courses).
+Continuous daily exposure to Glivec early in the course of treatment in combination with chemotherapy in cohort 5-patients (n=50) improved the 4-year event-free survival (EFS) compared to historical controls (n=120), who received standard chemotherapy without Glivec (69.6% vs. 31.6%, respectively).
+The estimated 4-year OS in cohort 5-patients was 83.6% compared to 44.8% in the historical controls.
+20 out of the 50 (40%) patients in cohort 5 received haematopoietic stem cell transplant.
+Table 6 Chemotherapy regimen used in combination with imatinib in study I2301
+
+| Consolidation block 1 (3 weeks) | VP-16 (100 mg/m2/day, IV): days 1-5 Ifosfamide (1.8 g/m2/day, IV): days 1-5 MESNA (360 mg/m2/dose q3h, x 8 doses/day, IV): days 1-5 G-CSF (5 μg/kg, SC): days 6-15 or until ANC > 1500 post nadir IT Methotrexate (age-adjusted): day 1 ONLY Triple IT therapy (age-adjusted): day 8, 15 |
+| --- | --- |
+| Consolidation block 2 (3 weeks) | Methotrexate (5 g/m2 over 24 hours, IV): day 1 Leucovorin (75 mg/m2 at hour 36, IV; 15 mg/m2 IV or PO q6h x 6 doses)iii: Days 2 and 3 Triple IT therapy (age-adjusted): day 1 ARA-C (3 g/m2/dose q 12 h x 4, IV): days 2 and 3 G-CSF (5 μg/kg, SC): days 4-13 or until ANC > 1500 post nadir |
+| Reinduction block 1 (3 weeks) | VCR (1.5 mg/m2/day, IV): days 1, 8, and 15 DAUN (45 mg/m2/day bolus, IV): days 1 and 2 CPM (250 mg/m2/dose q12h x 4 doses, IV): days 3 and 4 PEG-ASP (2500 IUnits/m2, IM): day 4 G-CSF (5 μg/kg, SC): days 5-14 or until ANC > 1500 post nadir Triple IT therapy (age-adjusted): days 1 and 15 DEX (6 mg/m2/day, PO): days 1-7 and 15-21 |
+| Intensification block 1 (9 weeks) | Methotrexate (5 g/m2 over 24 hours, IV): days 1 and 15 Leucovorin (75 mg/m2 at hour 36, IV; 15 mg/m2 IV or PO q6h x 6 doses)iii: Days 2, 3, 16, and 17 Triple IT therapy (age-adjusted): days 1 and 22 VP-16 (100 mg/m2/day, IV): days 22-26 CPM (300 mg/m2/day, IV): days 22-26 MESNA (150 mg/m2/day, IV): days 22-26 G-CSF (5 μg/kg, SC): days 27-36 or until ANC > 1500 post nadir ARA-C (3 g/m2, q12h, IV): days 43, 44 L-ASP (6000 IUnits/m2, IM): day 44 |
+| Reinduction block 2 (3 weeks) | VCR (1.5 mg/m2/day, IV): days 1, 8 and 15 DAUN (45 mg/m2/day bolus, IV): days 1 and 2 CPM (250 mg/m2/dose q12h x 4 doses, iv): Days 3 and 4 PEG-ASP (2500 IUnits/m2, IM): day 4 G-CSF (5 μg/kg, SC): days 5-14 or until ANC > 1500 post nadir Triple IT therapy (age-adjusted): days 1 and 15 DEX (6 mg/m2/day, PO): days 1-7 and 15-21 |
+| Intensification block 2 (9 weeks) | Methotrexate (5 g/m2 over 24 hours, IV): days 1 and 15 Leucovorin (75 mg/m2 at hour 36, IV; 15 mg/m2 IV or PO q6h x 6 doses)iii: days 2, 3, 16, and 17 Triple IT therapy (age-adjusted): days 1 and 22 VP-16 (100 mg/m2/day, IV): days 22-26 CPM (300 mg/m2/day, IV): days 22-26 MESNA (150 mg/m2/day, IV): days 22-26 G-CSF (5 μg/kg, SC): days 27-36 or until ANC > 1500 post nadir ARA-C (3 g/m2, q12h, IV): days 43, 44 L-ASP (6000 IUnits/m2, IM): day 44 |
+| Maintenance (8-week cycles) Cycles 1–4 | MTX (5 g/m2 over 24 hours, IV): day 1 Leucovorin (75 mg/m2 at hour 36, IV; 15 mg/m2 IV or PO q6h x 6 doses)iii: days 2 and 3 Triple IT therapy (age-adjusted): days 1, 29 VCR (1.5 mg/m2, IV): days 1, 29 DEX (6 mg/m2/day PO): days 1-5; 29-33 6-MP (75 mg/m2/day, PO): days 8-28 Methotrexate (20 mg/m2/week, PO): days 8, 15, 22 VP-16 (100 mg/m2, IV): days 29-33 CPM (300 mg/m2, IV): days 29-33 MESNA IV days 29-33 G-CSF (5 μg/kg, SC): days 34-43 |
+| Maintenance (8-week cycles) Cycle 5 | Cranial irradiation (Block 5 only) 12 Gy in 8 fractions for all patients that are CNS1 and CNS2 at diagnosis 18 Gy in 10 fractions for patients that are CNS3 at diagnosis VCR (1.5 mg/m2/day, IV): days 1, 29 DEX (6 mg/m2/day, PO): days 1-5; 29-33 6-MP (75 mg/m2/day, PO): days 11-56 (Withhold 6-MP during the 6-10 days of cranial irradiation beginning on day 1 of Cycle 5. Start 6-MP the 1st day after cranial irradiation completion.) Methotrexate (20 mg/m2/week, PO): days 8, 15, 22, 29, 36, 43, 50 |
+| Maintenance (8-week cycles) Cycles 6-12 | VCR (1.5 mg/m2/day, IV): days 1, 29 DEX (6 mg/m2/day, PO): days 1-5; 29-33 6-MP (75 mg/m2/day, PO): days 1-56 Methotrexate (20 mg/m2/week, PO): days 1, 8, 15, 22, 29, 36, 43, 50 |
+
+G-CSF = granulocyte colony stimulating factor, VP-16 = etoposide, MTX = methotrexate, IV = intravenous, SC = subcutaneous, IT = intrathecal, PO = oral, IM = intramuscular, ARA-C = cytarabine, CPM = cyclophosphamide, VCR = vincristine, DEX = dexamethasone, DAUN = daunorubicin, 6-MP = 6-mercaptopurine, E.Coli L-ASP = L-asparaginase, PEG-ASP = PEG asparaginase, MESNA= 2-mercaptoethane sulfonate sodium, iii= or until MTX level is < 0.1 µM, q6h = every 6 hours, Gy= Gray
+
+Study AIT07 was a multicentre, open-label, randomised, phase II/III study that included 128 patients (1 to < 18 years) treated with imatinib in combination with chemotherapy.
+Safety data from this study seem to be in line with the safety profile of imatinib in Ph+ ALL patients.
+
 Relapsed/refractory Ph+ ALL: When imatinib was used as single agent in patients with relapsed/refractory Ph+ ALL, it resulted, in the 53 out of 411 patients evaluable for response, in a haematological response rate of 30% (9% complete) and a major cytogenetic response rate of 23%.
 (Of note, out of the 411 patients, 353 were treated in an expanded access program without primary response data collected.)
 The median time to progression in the overall population of 411 patients with relapsed/refractory Ph+ ALL ranged from 2.6 to 3.1 months, and median overall survival in the 401 evaluable patients ranged from 4.9 to 9 months.
@@ -264,6 +289,11 @@ Haematological and cytogenetic responses have been sustained for a median of 49 
 The overall survival is 65 months since diagnosis (range 25-234).
 Glivec administration to patients without the genetic translocation generally results in no improvement.
 
+There are no controlled trials in paediatric patients with MDS/MPD.
+Five (5) patients with MDS/MPD associated with PDGFR gene re-arrangements were reported in 4 publications.
+The age of these patients ranged from 3 months to 4 years and imatinib was given at dose 50 mg daily or doses ranging from 92.5 to 340 mg/m2 daily.
+All patients achieved complete haematological response, cytogenetic response and/or clinical response.
+
 Clinical studies in HES/CEL
 One open-label, multicentre, phase II clinical trial (study B2225) was conducted testing Glivec in diverse populations of patients suffering from life-threatening diseases associated with Abl, Kit or PDGFR protein tyrosine kinases.
 In this study, 14 patients with HES/CEL were treated with 100 mg to 1,000 mg of Glivec daily.
@@ -277,6 +307,10 @@ The age of these patients ranged from 25 to 72 years.
 Additionally, improvements in symptomatology and other organ dysfunction abnormalities were reported by the investigators in the case reports.
 Improvements were reported in cardiac, nervous, skin/subcutaneous tissue, respiratory/thoracic/mediastinal, musculoskeletal/connective tissue/vascular, and gastrointestinal organ systems.
 
+There are no controlled trials in paediatric patients with HES/CEL.
+Three (3) patients with HES and CEL associated with PDGFR gene re-arrangements were reported in 3 publications.
+The age of these patients ranged from 2 to 16 years and imatinib was given at dose 300 mg/m2 daily or doses ranging from 200 to 400 mg daily.
+All patients achieved complete haematological response, complete cytogenetic response and/or complete molecular response.
 Clinical studies in unresectable and/or metastatic GIST
 One phase II, open-label, randomised, uncontrolled multinational study was conducted in patients with unresectable or metastatic malignant gastrointestinal stromal tumours (GIST).
 In this study 147 patients were enrolled and randomised to receive either 400 mg or 600 mg orally once daily for up to 36 months.
@@ -285,8 +319,9 @@ Immunohistochemistry was routinely performed with Kit antibody (A-4502, rabbit p
 
 The primary evidence of efficacy was based on objective response rates.
 Tumours were required to be measurable in at least one site of disease, and response characterisation based on Southwestern Oncology Group (SWOG) criteria.
-Results are provided in Table 6.
-Table 6 Best tumour response in trial STIB2222 (GIST)
+Results are provided in Table 7.
+
+Table 7 Best tumour response in trial STIB2222 (GIST)
 
 All doses (n=147)
 400 mg (n=73)
@@ -312,24 +347,24 @@ In two clinical studies (study B2222 and an intergroup study S0033) the daily do
 The daily dose was escalated to 800 mg in a total of 103 patients; 6 patients achieved a partial response and 21 stabilisation of their disease after dose escalation for an overall clinical benefit of 26%.
 From the safety data available, escalating the dose to 800 mg daily in patients progressing at lower doses of 400 mg or 600 mg daily does not seem to affect the safety profile of Glivec.
 
-Clinical study in adjuvant GIST
+Clinical studies in adjuvant GIST
 In the adjuvant setting, Glivec was investigated in a multicentre, double-blind, long-term, placebo-controlled phase III study (Z9001) involving 773 patients.
 The ages of these patients ranged from 18 to 91 years.
 Patients were included who had a histological diagnosis of primary GIST expressing Kit protein by immunochemistry and a tumour size ≥ 3 cm in maximum dimension, with complete gross resection of primary GIST within 14-70 days prior to registration.
 After resection of primary GIST, patients were randomised to one of the two arms: Glivec at 400 mg/day or matching placebo for one year.
 
 The primary endpoint of the study was recurrence-free survival (RFS), defined as the time from date of randomisation to the date of recurrence or death from any cause.
-
 Glivec significantly prolonged RFS, with 75% of patients being recurrence-free at 38 months in the Glivec group vs. 20 months in the placebo group (95% CIs, [30 - non-estimable]; [14 - non-estimable], respectively); (hazard ratio = 0.398 [0.259-0.610], p<0.0001).
 At one year the overall RFS was significantly better for Glivec (97.7%) vs. placebo (82.3%), (p<0.0001).
 The risk of recurrence was thus reduced by approximately 89% as compared with placebo (hazard ratio = 0.113 [0.049-0.264]).
 
 The risk of recurrence in patients after surgery of their primary GIST was retrospectively assessed based on the following prognostic factors: tumour size, mitotic index, tumour location.
 Mitotic index data were available for 556 of the 713 intention-to-treat (ITT) population.
-The results of subgroup analyses according to the United States National Institutes of Health (NIH) and the Armed Forces Institute of Pathology (AFIP) risk classifications are shown in Table 7.
+The results of subgroup analyses according to the United States National Institutes of Health (NIH) and the Armed Forces Institute of Pathology (AFIP) risk classifications are shown in Table 8.
 No benefit was observed in the low and very low risk groups.
 No overall survival benefit has been observed.
-Table 7 Summary of Z9001 trial RFS analyses by NIH and AFIP risk classifications
+
+Table 8 Summary of Z9001 trial RFS analyses by NIH and AFIP risk classifications
 
 | Risk criteria | Risk Level | % of patients | No. of events / No. of patients | Overall hazard ratio (95%CI)* | RFS rates (%) |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -346,18 +381,18 @@ The median time of follow-up was 54 months (from date of randomisation to data c
 
 The primary endpoint of the study was recurrence-free survival (RFS), defined as the time from date of randomisation to the date of recurrence or death from any cause.
 
-Thirty-six (36) months of Glivec treatment significantly prolonged RFS compared to 12 months of Glivec treatment (with overall Hazard Ratio (HR) = 0.46 [0.32, 0.65], p<0.0001) (Table 8, Figure 1).
+Thirty-six (36) months of Glivec treatment significantly prolonged RFS compared to 12 months of Glivec treatment (with overall Hazard Ratio (HR) = 0.46 [0.32, 0.65], p<0.0001) (Table 9, Figure 1).
 
-In addition, thirty-six (36) months of Glivec treatment significantly prolonged overall survival (OS) compared to 12 months of Glivec treatment (HR = 0.45 [0.22, 0.89], p=0.0187) (Table 8, Figure 2).
+In addition, thirty-six (36) months of Glivec treatment significantly prolonged overall survival (OS) compared to 12 months of Glivec treatment (HR = 0.45 [0.22, 0.89], p=0.0187) (Table 9, Figure 2).
 
 Longer duration of the treatment (> 36 months) may delay the onset of further recurrences; however the impact of this finding on the overall survival remains unknown.
 
 The total number of deaths were 25 for the 12-month treatment arm and 12 for the 36-month treatment arm.
-
 Treatment with imatinib for 36 months was superior to treatment for 12 months in the ITT analysis, i.e. including the entire study population.
 In a planned subgroup analysis by mutation type, the HR for RFS for 36 months of treatment for patients with mutations of exon 11 was 0.35 [95% CI: 0.22, 0.56].
 No conclusions can be drawn for other less common mutation subgroups due to the low number of observed events.
-Table 8 12-month and 36-month Glivec treatment (SSGXVIII/AIO Trial)
+
+Table 9 12-month and 36-month Glivec treatment (SSGXVIII/AIO Trial)
 
 12-month treatment arm 36-month treatment arm
 RFS %(CI) %(CI)
@@ -406,6 +441,11 @@ Survival time in months
 At-risk : Events
 (1) 199:0 190:2 188:2 183:6 176:8 156:10 140:11 105:14 87:18 64:22 46:23 27:25 20:25 2:25 0:25 (2) 198:0 196:0 192:0 187:4 184:5 164:7 152:7 119:8 100:8 76:10 56:11 31:11 13:12 0:12
 
+There are no controlled trials in paediatric patients with c-Kit positive GIST.
+Seventeen (17) patients with GIST (with or without Kit and PDGFR mutations) were reported in 7 publications.
+The age of these patients ranged from 8 to 18 years and imatinib was given in both adjuvant and metastatic settings at doses ranging from 300 to 800 mg daily.
+The majority of paediatric patients treated for GIST lacked data confirming c-kit or PDGFR mutations which may have led to mixed clinical outcomes.
+
 Clinical studies in DFSP
 One phase II, open label, multicentre clinical trial (study B2225) was conducted including 12 patients with DFSP treated with Glivec 800 mg daily.
 The age of the DFSP patients ranged from 23 to 75 years; DFSP was metastatic, locally recurrent following initial resective surgery and not considered amenable to further resective surgery at the time of study entry.
@@ -415,10 +455,14 @@ Three of the partial responders were subsequently rendered disease free by surge
 The median duration of therapy in study B2225 was 6.2 months, with a maximum duration of 24.3 months.
 A further 6 DFSP patients treated with Glivec were reported in 5 published case reports, their ages ranging from 18 months to 49 years.
 The adult patients reported in the published literature were treated with either 400 mg (4 cases) or 800 mg (1 case) Glivec daily.
-The paediatric patient received 400 mg/m2/daily, subsequently increased to 520 mg/m2/daily.
-5 patients responded, 3 completely and 2 partially.
+Five (5) patients responded, 3 completely and 2 partially.
 The median duration of therapy in the published literature ranged between 4 weeks and more than 20 months.
 The translocation t(17:22)[(q22:q13)], or its gene product, was present in nearly all responders to Glivec treatment.
+
+There are no controlled trials in paediatric patients with DFSP.
+Five (5) patients with DFSP and PDGFR gene re-arrangements were reported in 3 publications.
+The age of these patients ranged from newborn to 14 years and imatinib was given at dose 50 mg daily or doses ranging from 400 to 520 mg/m2 daily.
+All patients achieved partial and/or complete response.
 
 [Glivec 100 mg hard capsules]
 

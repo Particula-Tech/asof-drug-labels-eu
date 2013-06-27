@@ -9,6 +9,7 @@ Mean absolute bioavailability for the capsule formulation is 98%.
 There was high between-patient variability in plasma imatinib AUC levels after an oral dose.
 When given with a high-fat meal, the rate of absorption of imatinib was minimally reduced (11% decrease in Cmax and prolongation of tmax by 1.5 h), with a small reduction in AUC (7.4%) compared to fasting conditions.
 The effect of prior gastrointestinal surgery on drug absorption has not been investigated.
+
 Distribution
 At clinically relevant concentrations of imatinib, binding to plasma proteins was approximately 95% on the basis of in vitro experiments, mostly to albumin and alpha-acid-glycoprotein, with little binding to lipoprotein.
 
@@ -37,13 +38,13 @@ Plasma pharmacokinetics
 Following oral administration in healthy volunteers, the t½ was approximately 18 h, suggesting that once-daily dosing is appropriate.
 The increase in mean AUC with increasing dose was linear and dose proportional in the range of 25–1,000 mg imatinib after oral administration.
 There was no change in the kinetics of imatinib on repeated dosing, and accumulation was 1.5–2.5-fold at steady state when dosed once daily.
-
 Pharmacokinetics in GIST patients
 In patients with GIST steady-state exposure was 1.5-fold higher than that observed for CML patients for the same dosage (400 mg daily).
 Based on preliminary population pharmacokinetic analysis in GIST patients, there were three variables (albumin, WBC and bilirubin) found to have a statistically significant relationship with imatinib pharmacokinetics.
 Decreased values of albumin caused a reduced clearance (CL/f); and higher levels of WBC led to a reduction of CL/f.
 However, these associations are not sufficiently pronounced to warrant dose adjustment.
 In this patient population, the presence of hepatic metastases could potentially lead to hepatic insufficiency and reduced metabolism.
+
 Population pharmacokinetics
 Based on population pharmacokinetic analysis in CML patients, there was a small effect of age on the volume of distribution (12% increase in patients > 65 years old).
 This change is not thought to be clinically significant.
@@ -55,6 +56,10 @@ Pharmacokinetics in children
 As in adult patients, imatinib was rapidly absorbed after oral administration in paediatric patients in both phase I and phase II studies.
 Dosing in children at 260 and 340 mg/m2/day achieved the same exposure, respectively, as doses of 400 mg and 600 mg in adult patients.
 The comparison of AUC(0-24) on day 8 and day 1 at the 340 mg/m2/day dose level revealed a 1.7-fold drug accumulation after repeated once-daily dosing.
+
+Based on pooled population pharmacokinetic analysis in paediatric patients with haematological disorders (CML, Ph+ALL, or other haematological disorders treated with imatinib), clearance of imatinib increases with increasing body surface area (BSA).
+After correcting for the BSA effect, other demographics such as age, body weight and body mass index did not have clinically significant effects on the exposure of imatinib.
+The analysis confirmed that exposure of imatinib in paediatric patients receiving 260 mg/m2 once daily (not exceeding 400 mg once daily) or 340 mg/m2 once daily (not exceeding 600 mg once daily) were similar to those in adult patients who received imatinib 400 mg or 600 mg once daily.
 
 Organ function impairment
 Imatinib and its metabolites are not excreted via the kidney to a significant extent.

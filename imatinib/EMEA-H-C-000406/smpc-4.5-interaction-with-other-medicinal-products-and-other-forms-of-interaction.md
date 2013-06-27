@@ -16,7 +16,6 @@ Active substances that may have their plasma concentration altered by Glivec
 Imatinib increases the mean Cmax and AUC of simvastatin (CYP3A4 substrate) 2- and 3.5-fold, respectively, indicating an inhibition of the CYP3A4 by imatinib.
 Therefore, caution is recommended when administering Glivec with CYP3A4 substrates with a narrow therapeutic window (e.g. cyclosporine, pimozide, tacrolimus, sirolimus, ergotamine, diergotamine, fentanyl, alfentanil, terfenadine, bortezomib, docetaxel and quinidine).
 Glivec may increase plasma concentration of other CYP3A4 metabolised drugs (e.g. triazolo-benzodiazepines, dihydropyridine calcium channel blockers, certain HMG-CoA reductase inhibitors, i.e. statins, etc.).
-
 Because of known increased risks of bleeding in conjunction with the use of imatinib (e.g. haemorrhage), patients who require anticoagulation should receive low-molecular-weight or standard heparin, instead of coumarin derivatives such as warfarin.
 
 In vitro Glivec inhibits the cytochrome P450 isoenzyme CYP2D6 activity at concentrations similar to those that affect CYP3A4 activity.
@@ -33,6 +32,7 @@ Caution should therefore be exercised when using high doses of Glivec and parace
 In thyroidectomy patients receiving levothyroxine, the plasma exposure to levothyroxine may be decreased when Glivec is co-administered (see section 4.4).
 Caution is therefore recommended.
 However, the mechanism of the observed interaction is presently unknown.
+
 In Ph+ ALL patients, there is clinical experience of co-administering Glivec with chemotherapy (see section 5.1), but drug-drug interactions between imatinib and chemotherapy regimens are not well characterised.
 Imatinib adverse events, i.e. hepatotoxicity, myelosuppression or others, may increase and it has been reported that concomitant use with L-asparaginase could be associated with increased hepatotoxicity (see section 4.8).
 Therefore, the use of Glivec in combination requires special precaution.

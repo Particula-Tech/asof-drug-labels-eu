@@ -33,7 +33,7 @@ There is no experience with the treatment of children below 2 years of age.
 Dose increases from 340 mg/m2 daily to 570 mg/m2 daily (not to exceed the total dose of 800 mg) may be considered in children in the absence of severe adverse drug reaction and severe non-leukaemia-related neutropenia or thrombocytopenia in the following circumstances: disease progression (at any time); failure to achieve a satisfactory haematological response after at least 3 months of treatment; failure to achieve a cytogenetic response after 12 months of treatment; or loss of a previously achieved haematological and/or cytogenetic response.
 Patients should be monitored closely following dose escalation given the potential for an increased incidence of adverse reactions at higher dosages.
 
-Posology for Ph+ ALL
+Posology for Ph+ ALL in adult patients
 The recommended dose of Glivec is 600 mg/day for adult patients with Ph+ ALL.
 Haematological experts in the management of this disease should supervise the therapy throughout all phases of care.
 
@@ -41,6 +41,10 @@ Treatment schedule: On the basis of the existing data, Glivec has been shown to 
 The duration of Glivec therapy can vary with the treatment programme selected, but generally longer exposures to Glivec have yielded better results.
 
 For adult patients with relapsed or refractory Ph+ALL Glivec monotherapy at 600 mg/day is safe, effective and can be given until disease progression occurs.
+
+Posology for Ph+ ALL in children
+Dosing for children should be on the basis of body surface area (mg/m2).
+The dose of 340 mg/m2 daily is recommended for children with Ph+ ALL (not to exceed the total dose of 600 mg).
 
 Posology for MDS/MPD
 The recommended dose of Glivec is 400 mg/day for adult patients with MDS/MPD.
@@ -59,10 +63,10 @@ Posology for GIST
 The recommended dose of Glivec is 400 mg/day for adult patients with unresectable and/or metastatic malignant GIST.
 
 Limited data exist on the effect of dose increases from 400 mg to 600 mg or 800 mg in patients progressing at the lower dose (see section 5.1).
-
 Treatment duration: In clinical trials in GIST patients, treatment with Glivec was continued until disease progression.
 At the time of analysis, the treatment duration was a median of 7 months (7 days to 13 months).
 The effect of stopping treatment after achieving a response has not been investigated.
+
 The recommended dose of Glivec is 400 mg/day for the adjuvant treatment of adult patients following resection of GIST.
 Optimal treatment duration is not yet established.
 Length of treatment in the clinical trial supporting this indication was 36 months (see section 5.1).
@@ -95,10 +99,11 @@ Dose adjustments for neutropenia and thrombocytopenia:
 | ANC = absolute neutrophil count a occurring after at least 1 month of treatment |  |  |
 
 Special populations
-Paediatric use: There is no experience in children with CML below 2 years of age (see section 5.1).
-There is limited experience in children with Ph+ ALL and very limited experience in children with MDS/MPD and DFSP.
-There is no experience in children or adolescents with GIST and HES/CEL.
+Paediatric use: There is no experience in children with CML below 2 years of age and with Ph+ALL below 1 year of age (see section 5.1).
+There is very limited experience in children with MDS/MPD, DFSP, GIST and HES/CEL.
 
+The safety and efficacy of imatinib in children with MDS/MPD, DFSP, GIST and HES/CEL aged less than 18 years of age have not been established in clinical trials.
+Currently available published data are summarised in section 5.1 but no recommendation on a posology can be made.
 Hepatic insufficiency: Imatinib is mainly metabolised through the liver.
 Patients with mild, moderate or severe liver dysfunction should be given the minimum recommended dose of 400 mg daily.
 The dose can be reduced if not tolerated (see sections 4.4, 4.8 and 5.2).
@@ -113,6 +118,7 @@ Liver dysfunction classification:
 
 ULN = upper limit of normal for the institution
 AST = aspartate aminotransferase
+
 Renal insufficiency: Patients with renal dysfunction or on dialysis should be given the minimum recommended dose of 400 mg daily as starting dose.
 However, in these patients caution is recommended.
 The dose can be reduced if not tolerated.
@@ -130,7 +136,7 @@ No specific dose recommendation is necessary in the elderly.
 
 For doses of 400 mg and above (see dosage recommendation below) a 400 mg tablet (not divisible) is available.
 
-For patients unable to swallow the film-coated tablets, the tablets may be dispersed in a glass of mineral water or apple juice.
+For patients unable to swallow the film-coated tablets, the tablets may be dispersed in a glass of still water or apple juice.
 The required number of tablets should be placed in the appropriate volume of beverage (approximately 50 ml for a 100 mg tablet, and 200 ml for a 400 mg tablet) and stirred with a spoon.
 The suspension should be administered immediately after complete disintegration of the tablet(s).
 

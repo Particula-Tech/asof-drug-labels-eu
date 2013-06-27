@@ -14,7 +14,6 @@ Hepatotoxicity
 Metabolism of Glivec is mainly hepatic, and only 13% of excretion is through the kidneys.
 In patients with hepatic dysfunction (mild, moderate or severe), peripheral blood counts and liver enzymes should be carefully monitored (see sections 4.2, 4.8 and 5.2).
 It should be noted that GIST patients may have hepatic metastases which could lead to hepatic impairment.
-
 Cases of liver injury, including hepatic failure and hepatic necrosis, have been observed with imatinib.
 When imatinib is combined with high dose chemotherapy regimens, an increase in serious hepatic reactions has been detected.
 Hepatic function should be carefully monitored in circumstances where imatinib is combined with chemotherapy regimens also known to be associated with hepatic dysfunction (see section 4.5 and 4.8).
@@ -25,6 +24,7 @@ Therefore, it is highly recommended that patients be weighed regularly.
 An unexpected rapid weight gain should be carefully investigated and if necessary appropriate supportive care and therapeutic measures should be undertaken.
 In clinical trials, there was an increased incidence of these events in elderly patients and those with a prior history of cardiac disease.
 Therefore, caution should be exercised in patients with cardiac dysfunction.
+
 Patients with cardiac disease
 Patients with cardiac disease, risk factors for cardiac failure or history of renal failure should be monitored carefully, and any patient with signs or symptoms consistent with cardiac or renal failure should be evaluated and treated.
 
@@ -43,7 +43,6 @@ Since increased vascularity and propensity for bleeding is a part of the nature 
 
 Tumor lysis syndrome
 Due to the possible occurrence of tumour lysis syndrome (TLS), correction of clinically significant dehydration and treatment of high uric acid levels are recommended prior to initiation of Glivec (see section 4.8).
-
 Laboratory tests
 Complete blood counts must be performed regularly during therapy with Glivec.
 Treatment of CML patients with Glivec has been associated with neutropenia or thrombocytopenia.
