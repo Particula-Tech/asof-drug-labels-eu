@@ -85,11 +85,13 @@ Although the etiology is considered to be multifactorial (including corticostero
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
 
 Immune reactivation syndrome
-In HIV infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
+In HIV infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
 Typically, such reactions have been observed within the first weeks or months of initiation of CART.
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections and pneumonia caused by Pneumocystis jirovecii (formerly known as Pneumocystis carinii).
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
 In addition, reactivation of herpes simplex and herpes zoster has been observed in clinical studies with PREZISTA co-administered with low dose ritonavir.
+
+Autoimmune disorders (such as Graves' disease) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.8).
 
 Interactions with medicinal products
 Several of the interaction studies have been performed at lower than recommended doses of darunavir.

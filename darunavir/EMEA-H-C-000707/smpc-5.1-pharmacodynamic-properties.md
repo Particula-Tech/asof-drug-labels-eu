@@ -203,23 +203,19 @@ For clinical trial results in ART-naïve adult patients, refer to the Summary of
 
 [PREZISTA 400 mg film-coated tablets]
 
-| ARTEMIS |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Week 48a |  |  | Week 96b |  |  |
-| Outcomes | PREZISTA/ rtv 800/100 mg once daily N=343 | Lopinavir/ rtv 800/200 mg per day N=346 | Treatment difference (95% CI of difference) | PREZISTA/ rtv 800/100 mg once daily N=343 | Lopinavir/ rtv 800/200 mg per day N=346 | Treatment difference (95% CI of difference) |
-| HIV-1 RNA < 50 copies/mlc All patients With baseline HIV-RNA < 100,000 With baseline HIV-RNA ≥100,000 With baseline CD4+ cell count < 200 With baseline CD4+ cell count ≥200 | 83.7% (287) 85.8% (194/226) 79.5% (93/117) 79.4% (112/141) 86.6% (175/202) | 78.3% (271) 84.5% (191/226) 66.7% (80/120) 70.3% (104/148) 84.3% (167/198) | 5.3% (-0.5; 11.2)d 1.3% (-5.2; 7.9)d 12.8% (1.6; 24.1)d 9.2% (-0.8; 19.2)d 2.3% (-4.6; 9.2)d | 79.0% (271) 80.5% (182/226) 76.1% (89/117) 78.7% (111/141) 79.2% (160/202) | 70.8% (245) 75.2% (170/226) 62.5% (75/120) 64.9% (96/148) 75.3% (149/198) | 8.2% (1.7; 14.7)d 5.3% (-2.3; 13.0)d 13.6% (1.9; 25.3)d 13.9% (3.5; 24.2)d 4.0% (-4.3; 12.2)d |
-| median CD4+ cell count change from baseline (x 106/l)e | 137 | 141 |  | 171 | 188 |  |
+ARTEMIS ODIN TITAN
+
+|  | PREZISTA/rtv 800/100 mg once daily N=343 | PREZISTA/rtv 800/100 mg once daily N=294 | PREZISTA/rtv 600/100 mg twice daily N=296 | PREZISTA/rtv 600/100 mg twice daily N=298 |
+| --- | --- | --- | --- | --- |
+| Total number of virologic failuresa, n (%) Rebounders Never suppressed subjects | 55 (16.0%) | 65 (22.1%) | 54 (18.2%) | 31 (10.4%) |
+|  | 39 (11.4%) 16 (4.7%) | 11 (3.7%) 54 (18.4%) | 11 (3.7%) 43 (14.5%) | 16 (5.4%) 15 (5.0%) |
+| Number of subjects with virologic failure and paired baseline/endpoint genotypes, developing mutationsb at endpoint, n/N |  |  |  |  |
+| Primary (major) PI mutations PI RAMs | 0/10 | 1/60 | 0/42 | 6/28 |
+|  | 4/10 | 7/60 | 4/42 | 10/28 |
+| Number of subjects with virologic failure and paired baseline/endpoint phenotypes, showing loss of susceptibility to PIs at endpoint compared to baseline, n/N |  |  |  |  |
+| PI darunavir amprenavir atazanavir indinavir lopinavir saquinavir tipranavir | 0/10 0/10 0/10 0/10 0/10 0/10 0/10 | 1/58 1/58 2/56 2/57 1/58 0/56 0/58 | 0/41 0/40 0/40 0/40 0/40 0/40 0/41 | 3/26 0/22 0/22 1/24 0/23 0/22 1/25 |
 
 Efficacy of PREZISTA 800 mg once daily co-administered with 100 mg ritonavir once daily in ART-experienced patients
-
-| ODIN |  |  |  |
-| --- | --- | --- | --- |
-| Outcomes | PREZISTA/rtv 800/100 mg once daily + OBR N=294 | PREZISTA/rtv 600/100 mg twice daily + OBR N=296 | Treatment difference (95% CI of difference) |
-| HIV-1 RNA < 50 copies/mla | 72.1% (212) | 70.9% (210) | 1.2% (-6.1; 8.5)b |
-| With Baseline HIV-1 RNA (copies/ml) < 100,000 ≥100,000 With Baseline CD4+ cell count (x 106/l) ≥100 < 100 With HIV-1 clade Type B Type AE Type C Otherc | 77.6% (198/255) 35.9% (14/39) | 73.2% (194/265) 51.6% (16/31) | 4.4% (-3.0; 11.9) -15.7% (-39.2; 7.7) |
-|  | 75.1% (184/245) 57.1% (28/49) | 72.5% (187/258) 60.5% (23/38) | 2.6% (-5.1; 10.3) -3.4% (-24.5; 17.8) |
-|  | 70.4% (126/179) 90.5% (38/42) 72.7% (32/44) 55.2% (16/29) | 64.3% (128/199) 91.2% (31/34) 78.8% (26/33) 83.3% (25/30) | 6.1% (-3.4; 15.6) -0.7% (-14.0; 12.6) -6.1% (-2.6; 13.7) -28.2% (-51.0; -5.3) |
-| mean CD4+ cell count change from baseline (x 106/l)e | 108 | 112 | -5d (-25; 16) |
 
 For additional clinical study results in ART-experienced adults and paediatric patients, refer to the Summary of Product Characteristics for PREZISTA 75 mg, 150 mg, 300 mg or 600 mg tablets.
 
@@ -229,4 +225,18 @@ For additional clinical study results in ART-experienced adults and paediatric p
 
 [PREZISTA 800 mg film-coated tablets]
 
-(all sentences already above)
+| ARTEMIS |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Week 48a |  |  | Week 96b |  |  |
+| Outcomes | PREZISTA/ rtv 800/100 mg once daily N=343 | Lopinavir/ rtv 800/200 mg per day N=346 | Treatment difference (95% CI of difference) | PREZISTA/ rtv 800/100 mg once daily N=343 | Lopinavir/ rtv 800/200 mg per day N=346 | Treatment difference (95% CI of difference) |
+| HIV-1 RNA < 50 copies/mlc All patients With baseline HIV-RNA < 100,000 With baseline HIV-RNA ≥100,000 With baseline CD4+ cell count < 200 With baseline CD4+ cell count ≥200 | 83.7% (287) 85.8% (194/226) 79.5% (93/117) 79.4% (112/141) 86.6% (175/202) | 78.3% (271) 84.5% (191/226) 66.7% (80/120) 70.3% (104/148) 84.3% (167/198) | 5.3% (-0.5; 11.2)d 1.3% (-5.2; 7.9)d 12.8% (1.6; 24.1)d 9.2% (-0.8; 19.2)d 2.3% (-4.6; 9.2)d | 79.0% (271) 80.5% (182/226) 76.1% (89/117) 78.7% (111/141) 79.2% (160/202) | 70.8% (245) 75.2% (170/226) 62.5% (75/120) 64.9% (96/148) 75.3% (149/198) | 8.2% (1.7; 14.7)d 5.3% (-2.3; 13.0)d 13.6% (1.9; 25.3)d 13.9% (3.5; 24.2)d 4.0% (-4.3; 12.2)d |
+| median CD4+ cell count change from baseline (x 106/l)e | 137 | 141 |  | 171 | 188 |  |
+
+| ODIN |  |  |  |
+| --- | --- | --- | --- |
+| Outcomes | PREZISTA/rtv 800/100 mg once daily + OBR N=294 | PREZISTA/rtv 600/100 mg twice daily + OBR N=296 | Treatment difference (95% CI of difference) |
+| HIV-1 RNA < 50 copies/mla | 72.1% (212) | 70.9% (210) | 1.2% (-6.1; 8.5)b |
+| With Baseline HIV-1 RNA (copies/ml) < 100,000 ≥100,000 With Baseline CD4+ cell count (x 106/l) ≥100 < 100 With HIV-1 clade Type B Type AE Type C Otherc | 77.6% (198/255) 35.9% (14/39) | 73.2% (194/265) 51.6% (16/31) | 4.4% (-3.0; 11.9) -15.7% (-39.2; 7.7) |
+|  | 75.1% (184/245) 57.1% (28/49) | 72.5% (187/258) 60.5% (23/38) | 2.6% (-5.1; 10.3) -3.4% (-24.5; 17.8) |
+|  | 70.4% (126/179) 90.5% (38/42) 72.7% (32/44) 55.2% (16/29) | 64.3% (128/199) 91.2% (31/34) 78.8% (26/33) 83.3% (25/30) | 6.1% (-3.4; 15.6) -0.7% (-14.0; 12.6) -6.1% (-2.6; 13.7) -28.2% (-51.0; -5.3) |
+| mean CD4+ cell count change from baseline (x 106/l)e | 108 | 112 | -5d (-25; 16) |

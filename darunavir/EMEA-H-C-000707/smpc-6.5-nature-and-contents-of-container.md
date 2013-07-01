@@ -28,3 +28,6 @@ Opaque, white, high density polyethylene (HDPE) plastic, 160 ml bottle containin
 [PREZISTA 800 mg film-coated tablets]
 
 Opaque, white, high density polyethylene (HDPE) plastic, 75 ml bottle containing 30 tablets, fitted with polypropylene (PP) child resistant closure.
+Pack size of one bottle or three bottles per carton.
+
+Not all pack sizes may be marketed.

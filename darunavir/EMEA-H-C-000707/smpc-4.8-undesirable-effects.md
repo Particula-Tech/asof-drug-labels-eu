@@ -90,7 +90,8 @@ Cases of osteonecrosis have been reported, particularly in patients with general
 The frequency of this is unknown (see section 4.4).
 
 Immune reconstitution syndrome
-In HIV infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy, an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).
+In HIV infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise.
+Autoimmune disorders (such as Graves' disease) have also been reported; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
 
 Bleeding in haemophiliac patients
 There have been reports of increased spontaneous bleeding in haemophiliac patients receiving antiretroviral protease inhibitors (see section 4.4).
@@ -118,6 +119,61 @@ Among 1,968 treatment-experienced patients receiving PREZISTA co-administered wi
 (all sentences already above)
 
 [PREZISTA 400 mg film-coated tablets]
+
+| System Organ Class Frequency category | Adverse reaction |
+| --- | --- |
+| Infections and infestations |  |
+| uncommon | herpes simplex |
+| Blood and lymphatic system disorders |  |
+| uncommon | thrombocytopenia, neutropenia, anaemia, increased eosinophil count, leukopenia |
+| Immune system disorders |  |
+| uncommon | immune reconstitution syndrome, (drug) hypersensitivity |
+| Endocrine disorders |  |
+| uncommon | hypothyroidism, increased blood thyroid stimulating hormone |
+| Metabolism and nutrition disorders common | lipodystrophy (including lipohypertrophy, lipodystrophy, lipoatrophy), hypertriglyceridaemia, hypercholesterolaemia, hyperlipidaemia |
+| uncommon | diabetes mellitus, gout, anorexia, decreased appetite, decreased weight, increased weight, hyperglycaemia, insulin resistance, decreased high density lipoprotein, increased appetite, polydipsia, increased blood lactate dehydrogenase |
+| Psychiatric disorders |  |
+| common | insomnia |
+| uncommon | depression, confusional state, disorientation, anxiety, altered mood, sleep disorder, abnormal dreams, nightmare, decreased libido, restlessness |
+| Nervous system disorders |  |
+| common | headache, peripheral neuropathy, dizziness |
+| uncommon | syncope, convulsion, lethargy, paraesthesia, hypoaesthesia, ageusia, dysgeusia, disturbance in attention, memory impairment, somnolence, sleep phase rhythm disturbance |
+| Eye disorders |  |
+| uncommon | visual disturbance, conjunctival hyperaemia, dry eye |
+| Ear and labyrinth disorders |  |
+| uncommon | vertigo |
+| Cardiac disorders |  |
+| uncommon | acute myocardial infarction, myocardial infarction, angina pectoris, prolonged electrocardiogram QT, sinus bradycardia, tachycardia, palpitations |
+| Vascular disorders |  |
+| uncommon | hypertension, flushing |
+| Respiratory, thoracic and mediastinal disorders |  |
+| uncommon | dyspnoea, cough, epistaxis, rhinorrhoea, throat irritation |
+| Gastrointestinal disorders |  |
+| very common | diarrhoea |
+| common | vomiting, nausea, abdominal pain, increased blood amylase, dyspepsia, abdominal distension, flatulence |
+| uncommon | pancreatitis, gastritis, gastrooesophageal reflux disease, aphthous stomatitis, stomatitis, retching, haematemesis, dry mouth, abdominal discomfort, constipation, increased lipase, eructation, oral dysaesthesia, cheilitis, dry lip, coated tongue |
+| Hepatobiliary disorders |  |
+| common uncommon | increased alanine aminotransferase, increased aspartate aminotransferase hepatitis, cytolytic hepatitis, hepatic steatosis, hepatomegaly, increased transaminase, increased blood bilirubin, increased blood alkaline phosphatase, increased gamma-glutamyltransferase |
+| Skin and subcutaneous tissue disorders |  |
+| common | rash (including macular, maculopapular, papular, erythematous and pruritic rash), pruritus |
+| uncommon | angioedema, generalised rash, allergic dermatitis, urticaria, dermatitis, eczema, erythema, hyperhidrosis, night sweats, alopecia, acne, seborrhoeic dermatitis, skin lesion, xeroderma, dry skin, nail pigmentation |
+| rare | erythema multiforme, Stevens-Johnson syndrome |
+| not known | toxic epidermal necrolysis, acute generalised exanthematous pustulosis |
+| Musculoskeletal and connective tissue disorders |  |
+| uncommon | myalgia, osteonecrosis, muscle spasms, muscular weakness, musculoskeletal stiffness, arthritis, arthralgia, joint stiffness, pain in extremity, osteoporosis, increased blood creatine phosphokinase |
+| Renal and urinary disorders |  |
+| uncommon | acute renal failure, renal failure, nephrolithiasis, increased blood creatinine, decreased creatinine renal clearance, proteinuria, bilirubinuria, dysuria, nocturia, pollakiuria |
+| Reproductive system and breast disorders |  |
+| uncommon | erectile dysfunction, gynaecomastia |
+| General disorders and administration site conditions |  |
+| common | asthenia, fatigue |
+| uncommon | pyrexia, chest pain, peripheral oedema, malaise, chills, abnormal feeling, feeling hot, irritability, pain, xerosis |
+
+[PREZISTA 600 mg film-coated tablets]
+
+ARIEL evaluated 21 ART-experienced HIV-1 infected paediatric patients aged from 3 to< 6 years and weighing 10 kg to < 20 kg (16 participants from 15 kg to < 20 kg) who received PREZISTA oral suspension with low dose ritonavir in combination with other antiretroviral agents (see section 5.1).
+
+[PREZISTA 800 mg film-coated tablets]
 
 | System Organ Class Frequency category | Adverse reaction |
 | --- | --- |
@@ -169,11 +225,3 @@ Among 1,968 treatment-experienced patients receiving PREZISTA co-administered wi
 | General disorders and administration site conditions |  |
 | common | asthenia, fatigue |
 | uncommon | pyrexia, chest pain, peripheral oedema, malaise, chills, abnormal feeling, feeling hot, irritability, pain, xerosis |
-
-[PREZISTA 600 mg film-coated tablets]
-
-ARIEL evaluated 21 ART-experienced HIV-1 infected paediatric patients aged from 3 to< 6 years and weighing 10 kg to < 20 kg (16 participants from 15 kg to < 20 kg) who received PREZISTA oral suspension with low dose ritonavir in combination with other antiretroviral agents (see section 5.1).
-
-[PREZISTA 800 mg film-coated tablets]
-
-(all sentences already above)
