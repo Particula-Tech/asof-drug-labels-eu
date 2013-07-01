@@ -58,6 +58,7 @@ Pharmacokinetic studies have not been performed in children under 2 years.
 Renal impairment
 Pharmacokinetic parameters of tenofovir were determined following administration of a single dose of tenofovir disoproxil 245 mg to 40 non-HIV infected adult patients with varying degrees of renal impairment defined according to baseline creatinine clearance (CrCl) (normal renal function when CrCl > 80 ml/min; mild with CrCl = 50-79 ml/min; moderate with CrCl = 30-49 ml/min and severe with CrCl = 10-29 ml/min).
 Compared with patients with normal renal function, the mean (%CV) tenofovir exposure increased from 2,185 (12%) ng·h/ml in subjects with CrCl > 80 ml/min to respectively 3,064 (30%) ng·h/ml, 6,009 (42%) ng·h/ml and 15,985 (45%) ng·h/ml in patients with mild, moderate and severe renal impairment.
+
 The pharmacokinetics of tenofovir in non-haemodialysis adult patients with creatinine clearance
 < 10 ml/min and in patients with ESRD managed by peritoneal or other forms of dialysis have not been studied.
 
@@ -97,7 +98,6 @@ Pharmacokinetic studies have not been performed with tenofovir disoproxil (as fu
 Pharmacokinetic parameters of tenofovir were determined following administration of a single dose of tenofovir disoproxil 245 mg to 40 non-HIV, non-HBV infected adult patients with varying degrees of renal impairment defined according to baseline creatinine clearance (CrCl) (normal renal function when CrCl > 80 ml/min; mild with CrCl = 50-79 ml/min; moderate with CrCl = 30-49 ml/min and severe with CrCl = 10-29 ml/min).
 The dosing recommendations in patients with renal impairment, with increased dosing interval, are expected to result in higher peak plasma concentrations and lower Cmin levels in patients with renal impairment compared with patients with normal renal function.
 The clinical implications of this are unknown.
-
 In patients with end-stage renal disease (ESRD) (CrCl < 10 ml/min) requiring haemodialysis, between dialysis tenofovir concentrations substantially increased over 48 hours achieving a mean Cmax of 1,032 ng/ml and a mean AUC0-48h of 42,857 ng·h/ml.
 
 It is recommended that the dosing interval for tenofovir disoproxil 245 mg (as fumarate) is modified in adult patients with creatinine clearance < 50 ml/min or in patients who already have ESRD and require dialysis (see section 4.2).

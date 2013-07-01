@@ -71,19 +71,19 @@ Co-administration of tenofovir disoproxil fumarate and didanosine is not recomme
 Rarely, pancreatitis and lactic acidosis, sometimes fatal, have been reported.
 
 Lipids, lipodystrophy and metabolic abnormalities
-Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
+CART has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
 
-Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump)
-(see section 4.4).
+CART has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump) (see section 4.4).
 
 In a 144-week controlled clinical study in antiretroviral-naïve adult patients that compared tenofovir disoproxil fumarate with stavudine in combination with lamivudine and efavirenz, patients who received tenofovir disoproxil had a significantly lower incidence of lipodystrophy compared with patients who received stavudine.
 The tenofovir disoproxil fumarate arm also had significantly smaller mean increases in fasting triglycerides and total cholesterol than the comparator arm.
 
 Immune reactivation syndrome
-In HIV infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).
+In HIV infected patients with severe immune deficiency at the time of initiation of CART, an inflammatory reaction to asymptomatic or residual opportunistic infections may arise.
+Autoimmune disorders (such as Graves’ disease) have also been reported; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
 
 Osteonecrosis
-Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to combination antiretroviral therapy (CART).
+Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to CART.
 The frequency of this is unknown (see section 4.4).
 
 Lactic acidosis and severe hepatomegaly with steatosis

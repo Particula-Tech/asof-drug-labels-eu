@@ -85,8 +85,9 @@ Tenofovir and tenofovir disoproxil fumarate are not metabolised by liver enzymes
 A pharmacokinetic study has been performed in non-HIV infected adult patients with various degrees of hepatic impairment.
 No significant pharmacokinetic alteration has been observed in these patients (see section 5.2).
 
-Patients with pre-existing liver dysfunction, including chronic active hepatitis, have an increased frequency of liver function abnormalities during combination antiretroviral therapy and should be monitored according to standard practice.
+Patients with pre-existing liver dysfunction, including chronic active hepatitis, have an increased frequency of liver function abnormalities during combination antiretroviral therapy (CART) and should be monitored according to standard practice.
 If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered.
+
 Lactic acidosis
 Lactic acidosis, usually associated with hepatic steatosis, has been reported with the use of nucleoside analogues.
 The preclinical and clinical data suggest that the risk of occurrence of lactic acidosis, a class effect of nucleoside analogues, is low for tenofovir disoproxil fumarate.
@@ -103,7 +104,7 @@ Patients co-infected with hepatitis C and treated with alpha interferon and riba
 Patients at increased risk should be followed closely.
 
 Lipodystrophy
-Combination antiretroviral therapy has been associated with the redistribution of body fat (lipodystrophy) in HIV patients.
+CART has been associated with the redistribution of body fat (lipodystrophy) in HIV patients.
 The long-term consequences of these events are currently unknown.
 Knowledge about the mechanism is incomplete.
 A connection between visceral lipomatosis and protease inhibitors and lipoatrophy and nucleoside reverse transcriptase inhibitors has been hypothesised.
@@ -127,13 +128,14 @@ Any child exposed in utero to nucleoside and nucleotide analogues, even HIV nega
 These findings do not affect current national recommendations to use antiretroviral therapy in pregnant women to prevent vertical transmission of HIV.
 
 Immune reactivation syndrome
-In HIV infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
+In HIV infected patients with severe immune deficiency at the time of institution of CART, an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis jirovecii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
+Autoimmune disorders (such as Graves’ disease) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
 
 Osteonecrosis
-Although the aetiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported, particularly in patients with advanced HIV disease and/or long-term exposure to combination antiretroviral therapy (CART).
+Although the aetiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported, particularly in patients with advanced HIV disease and/or long-term exposure to CART.
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
 
 Viread 123 mg film-coated tablets contain lactose monohydrate.
@@ -199,6 +201,7 @@ However, it should be noted that increases of ALT can be part of HBV clearance d
 Elderly
 Tenofovir disoproxil fumarate has not been studied in patients over the age of 65.
 Elderly patients are more likely to have decreased renal function; therefore caution should be exercised when treating elderly patients with tenofovir disoproxil fumarate.
+
 Viread 245 mg film-coated tablets contain lactose monohydrate.
 
 [Viread 33 mg/g granules]
