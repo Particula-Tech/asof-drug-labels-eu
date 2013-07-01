@@ -31,7 +31,6 @@ Phenotypic analysis showed no significant changes in emtricitabine susceptibilit
 In virologically stable treatment-experienced adults, emtricitabine, in combination with an NRTI (either stavudine or zidovudine) and a protease inhibitor (PI) or an NNRTI was shown to be non-inferior to lamivudine with respect to the proportion of responders (< 400 copies/ml) through 48 weeks (77% emtricitabine, 82% lamivudine).
 Additionally, in a second study, treatment-experienced adults on a stable PI based highly active antiretroviral therapy (HAART) regimen were randomised to a once daily regimen containing emtricitabine or to continue with their PI-HAART regimen.
 At 48 weeks of treatment the emtricitabine-containing regimen demonstrated an equivalent proportion of patients with HIV RNA < 400 copies/ml (94% emtricitabine versus 92%) and a greater proportion of patients with HIV RNA < 50 copies/ml (95% emtricitabine versus 87%) compared with the patients continuing with their PI-HAART regimen.
-
 Paediatric population: In infants and children older than 4 months, the majority of patients achieved or maintained complete suppression of plasma HIV-1 RNA through 48 weeks (89% achieved
 ≤ 400 copies/ml and 77% achieved ≤ 50 copies/ml).
 

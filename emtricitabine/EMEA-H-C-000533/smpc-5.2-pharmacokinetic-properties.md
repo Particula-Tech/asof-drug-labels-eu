@@ -29,15 +29,14 @@ Elimination: Emtricitabine is primarily excreted by the kidneys with complete re
 Thirteen percent of the emtricitabine dose was recovered in urine as three metabolites.
 The systemic clearance of emtricitabine averaged 307 ml/min (4.03 ml/min/kg).
 Following oral administration, the elimination half-life of emtricitabine is approximately 10 hours.
-
 Linearity/non-linearity: The pharmacokinetics of emtricitabine are proportional to dose over the dose range of 25-200 mg following single or repeated administration.
 
 Intracellular pharmacokinetics: In a clinical study, the intracellular half-life of emtricitabine-triphosphate in peripheral blood mononuclear cells was 39 hours.
 Intracellular triphosphate levels increased with dose, but reached a plateau at doses of 200 mg or greater.
 
 Adults with renal insufficiency: Pharmacokinetic parameters were determined following administration of a single dose of 200 mg emtricitabine hard capsules to 30 non-HIV infected subjects with varying degrees of renal insufficiency.
-Subjects were grouped according to baseline creatinine clearance
-(> 80 ml/min as normal function; 50-80 ml/min as mild impairment; 30-49 ml/min as moderate impairment; < 30 ml/min as severe impairment; < 15 ml/min as functionally anephric requiring haemodialysis).
+Subjects were grouped according to baseline creatinine clearance (> 80 ml/min as normal function; 50-80 ml/min as mild impairment; 30-49 ml/min as moderate impairment; < 30 ml/min as severe impairment; < 15 ml/min as functionally anephric requiring haemodialysis).
+
 The systemic emtricitabine exposure (mean ± standard deviation) increased from 11.8±2.9 µg·h/ml in subjects with normal renal function to 19.9±1.1, 25.0±5.7 and 34.0±2.1 µg·h/ml, in patients with mild, moderate and severe renal impairment, respectively.
 
 In patients with ESRD on haemodialysis, approximately 30% of the emtricitabine dose was recovered in dialysate over a 3 hour dialysis period which had been started within 1.5 hours of emtricitabine dosing (blood flow rate of 400 ml/min and dialysate flow rate of approximately 600 ml/min).

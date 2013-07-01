@@ -25,6 +25,7 @@ Lactic acidosis: Lactic acidosis, usually associated with hepatic steatosis, has
 Early symptoms (symptomatic hyperlactataemia) include benign digestive symptoms (nausea, vomiting and abdominal pain), non-specific malaise, loss of appetite, weight loss, respiratory symptoms (rapid and/or deep breathing) or neurological symptoms (including motor weakness).
 Lactic acidosis has a high mortality and may be associated with pancreatitis, liver failure or renal failure.
 Lactic acidosis generally occurred after a few or several months of treatment.
+
 Treatment with nucleoside analogues should be discontinued in the setting of symptomatic hyperlactataemia and metabolic/lactic acidosis, progressive hepatomegaly, or rapidly elevating aminotransferase levels.
 
 Caution should be exercised when administering nucleoside analogues to any patient (particularly obese women) with hepatomegaly, hepatitis or other known risk factors for liver disease and hepatic steatosis (including certain medicinal products and alcohol).
@@ -32,7 +33,7 @@ Patients co-infected with hepatitis C and treated with alpha interferon and riba
 
 Patients at increased risk should be followed closely.
 
-Lipodystrophy: Combination antiretroviral therapy has been associated with the redistribution of body fat (lipodystrophy) in HIV patients.
+Lipodystrophy: Combination antiretroviral therapy (CART) has been associated with the redistribution of body fat (lipodystrophy) in HIV patients.
 The long-term consequences of these events are currently unknown.
 Knowledge about the mechanism is incomplete.
 A connection between visceral lipomatosis and protease inhibitors, and lipoatrophy and nucleoside reverse transcriptase inhibitors has been hypothesised.
@@ -41,8 +42,8 @@ Clinical examination should include evaluation for physical signs of fat redistr
 Consideration should be given to the measurement of fasting serum lipids and blood glucose.
 Lipid disorders should be managed as clinically appropriate (see section 4.8).
 
-Liver function: Patients with pre-existing liver dysfunction including chronic active hepatitis have an increased frequency of liver function abnormalities during combination antiretroviral therapy and should be monitored according to standard practice.
-Patients with chronic hepatitis B or C infection treated with combination antiretroviral therapy are at increased risk of experiencing severe, and potentially fatal, hepatic adverse events.
+Liver function: Patients with pre-existing liver dysfunction including chronic active hepatitis have an increased frequency of liver function abnormalities during CART and should be monitored according to standard practice.
+Patients with chronic hepatitis B or C infection treated with CART are at increased risk of experiencing severe, and potentially fatal, hepatic adverse events.
 In case of concomitant antiviral therapy for hepatitis B or C, please also refer to the relevant Summary of Product Characteristics for these medicinal products.
 
 If there is evidence of exacerbations of liver disease in such patients, interruption or discontinuation of treatment must be considered.
@@ -67,12 +68,14 @@ Whether the neurological disorders are transient or permanent is currently unkno
 Any child exposed in utero to nucleoside and nucleotide analogues, even HIV negative children, should have clinical and laboratory follow-up and should be fully investigated for possible mitochondrial dysfunction in case of relevant signs or symptoms.
 These findings do not affect current national recommendations to use antiretroviral therapy in pregnant women to prevent vertical transmission of HIV.
 
-Immune Reactivation Syndrome: In HIV infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
+Immune Reactivation Syndrome: In HIV infected patients with severe immune deficiency at the time of institution of CART, an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis jirovecii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
 
-Osteonecrosis: Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV disease and/or long-term exposure to combination antiretroviral therapy (CART).
+Autoimmune disorders (such as Graves’ disease) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
+
+Osteonecrosis: Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV disease and/or long-term exposure to CART.
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
 
 Elderly: Emtriva has not been studied in patients over the age of 65.

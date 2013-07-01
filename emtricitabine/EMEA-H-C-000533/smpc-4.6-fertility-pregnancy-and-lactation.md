@@ -4,6 +4,7 @@ Pregnancy
 A moderate amount of data on pregnant women (between 300-1,000 pregnancy outcomes) indicate no malformations or foetal/neonatal toxicity associated with emtricitabine.
 Animal studies do not indicate reproductive toxicity.
 The use of emtricitabine may be considered during pregnancy, if necessary.
+
 Breast-feeding
 Emtricitabine has been shown to be excreted in human milk.
 There is insufficient information on the effects of emtricitabine in newborns/infants.

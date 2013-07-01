@@ -6,7 +6,7 @@ In addition to the adverse reactions reported in adults, anaemia (9.5%) and skin
 
 Lactic acidosis, severe hepatomegaly with steatosis and lipodystrophy are associated with emtricitabine (see sections 4.4 and 4.8c).
 
-Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump) (see section 4.4).
+CART has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump) (see section 4.4).
 
 Discontinuation of Emtriva therapy in patients co-infected with HIV and HBV may be associated with severe acute exacerbations of hepatitis (see section 4.4).
 
@@ -16,7 +16,8 @@ In the adult studies, 1,039 treatment-naïve and 440 treatment-experienced patie
 
 The adverse reactions with suspected (at least possible) relationship to treatment in adults from clinical trial and post-marketing experience are listed in Table 2 below by body system organ class and frequency.
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
-Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10) or uncommon (≥ 1/1,000 to < 1/100).
+Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to
+< 1/10) or uncommon (≥ 1/1,000 to < 1/100).
 
 Table 2: Tabulated summary of adverse reactions associated with emtricitabine based on clinical study and post-marketing experience
 
@@ -58,16 +59,18 @@ c. Description of selected adverse reactions
 Skin discolouration (increased pigmentation): Skin discolouration, manifested by hyperpigmentation mainly on the palms and/or soles, was generally mild, asymptomatic and of little clinical significance.
 The mechanism is unknown.
 
-Lipids, lipodystrophy and metabolic abnormalities: Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
+Lipids, lipodystrophy and metabolic abnormalities: CART has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
 
-Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump) (see section 4.4).
+CART has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump) (see section 4.4).
 
-Immune Reactivation Syndrome: In HIV infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).
+Immune Reactivation Syndrome: In HIV infected patients with severe immune deficiency at the time of initiation of CART, an inflammatory reaction to asymptomatic or residual opportunistic infections may arise.
+Autoimmune disorders (such as Graves’ disease) have also been reported; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
 
-Osteonecrosis: Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to combination antiretroviral therapy (CART).
+Osteonecrosis: Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to CART.
 The frequency of this is unknown (see section 4.4).
 
 Lactic acidosis and severe hepatomegaly with steatosis: Lactic acidosis, usually associated with hepatic steatosis, has been reported with the use of nucleoside analogues (see section 4.4).
+
 d. Paediatric population
 Assessment of adverse reactions in paediatric patients from clinical study data is based on experience in three paediatric studies (n = 169) where treatment-naïve (n = 123) and treatment-experienced
 (n = 46) paediatric HIV infected patients aged 4 months to 18 years were treated with emtricitabine in combination with other antiretroviral agents.
