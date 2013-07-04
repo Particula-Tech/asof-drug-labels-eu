@@ -14,7 +14,6 @@ Both intraocular pressure and the perfusion of the optic nerve head must be moni
 Bilateral treatment
 The safety and efficacy of Lucentis therapy administered to both eyes concurrently have not been studied.
 If bilateral treatment is performed at the same time this could lead to an increased systemic exposure, which could increase the risk of systemic adverse events.
-
 Immunogenicity
 There is a potential for immunogenicity with Lucentis.
 Since there is a potential for an increased systemic exposure in subjects with DME, an increased risk for developing hypersensitivity in this patient population cannot be excluded.
@@ -22,6 +21,7 @@ Patients should also be instructed to report if an intraocular inflammation incr
 
 Concomitant use of other anti-VEGF (vascular endothelial growth factor)
 Lucentis should not be administered concurrently with other anti-VEGF medicinal products (systemic or ocular).
+
 Withholding Lucentis
 The dose should be withheld and treatment should not be resumed earlier than the next scheduled treatment in the event of:
 
@@ -44,10 +44,14 @@ Lucentis has not been studied in patients who have previously received intravitr
 There is also no experience of treatment with Lucentis in diabetic patients with an HbA1c over 12% and uncontrolled hypertension.
 This lack of information should be considered by the physician when treating such patients.
 
-Prior history of stroke or transient ischaemic attacks
-There are limited data on safety in the treatment of DME and macular oedema due to RVO patients with prior history of stroke or transient ischaemic attacks.
-Since there is a potential risk of arterial thromboembolic events following intravitreal use of VEGF (vascular endothelial growth factor) inhibitors caution should be exercised when treating such patients (see section 4.8).
+In patients with PM, there are limited data on the effect of Lucentis in patients who have previously undergone unsuccessful verteporfin photodynamic therapy (vPDT) treatment.
+Also, while a consistent effect was observed in subjects with subfoveal and juxtafoveal lesions, there are insufficient data to conclude on the effect of Lucentis in PM subjects with extrafoveal lesions.
 
+Systemic effects following intravitreal use
+Systemic adverse events including non-ocular haemorrhages and arterial thromboembolic events have been reported following intravitreal injection of VEGF inhibitors.
+
+There are limited data on safety in the treatment of DME, macular oedema due to RVO and CNV secondary to PM patients with prior history of stroke or transient ischaemic attacks.
+Caution should be exercised when treating such patients (see section 4.8).
 Prior episodes of RVO, ischaemic branch RVO and central RVO
 There is limited experience with treatment of patients with prior episodes of RVO and of patients with ischaemic branch RVO (BRVO) and central RVO (CRVO).
 In patients with RVO presenting with clinical signs of irreversible ischaemic visual function loss, treatment is not recommended.
