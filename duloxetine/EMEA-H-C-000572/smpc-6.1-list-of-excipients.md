@@ -8,6 +8,7 @@ Sugar spheres
 Talc
 Titanium dioxide (E171)
 Triethyl citrate
+
 Capsule shell:
 30 mg:
 Gelatin

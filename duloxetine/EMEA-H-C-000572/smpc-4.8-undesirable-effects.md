@@ -5,53 +5,57 @@ The most commonly reported adverse reactions in patients treated with Cymbalta w
 However, the majority of common adverse reactions were mild to moderate, they usually started early in therapy, and most tended to subside even as therapy was continued.
 
 b. Tabulated summary of adverse reactions
-Table 1 gives the adverse reactions observed from spontaneous reporting and in placebo-controlled clinical trials (comprising a total of 7819 patients, 4823 on duloxetine and 2996 on placebo) in depression, generalised anxiety disorder and diabetic neuropathic pain.
+Table 1 gives the adverse reactions observed from spontaneous reporting and in placebo-controlled clinical trials (comprising a total of 9454 patients, 5703 on duloxetine and 3751 on placebo) in depression, generalised anxiety disorder and diabetic neuropathic pain.
 
 Table 1: Adverse reactions
 Frequency estimate: Very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000).
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
+Very common Common Uncommon Rare Very Rare
+Infections and infestations
+Laryngitis
+Immune system disorders
+Anaphylactic
+reaction
+Hyper-sensitivity
+disorder
+Endocrine disorders
+Hypo-thyroidism
+
 | Very common | Common | Uncommon | Rare | Very Rare |
 | --- | --- | --- | --- | --- |
-| Infections and Infestations |  |  |  |  |
-|  |  | Laryngitis |  |  |
-| Immune System Disorders |  |  |  |  |
-|  |  |  | Anaphylactic reaction Hyper-sensitivity disorder |  |
-| Endocrine Disorders |  |  |  |  |
-|  |  |  | Hypo-thyroidism |  |
-| Metabolism and Nutrition Disorders |  |  |  |  |
+| Metabolism and nutrition disorders |  |  |  |  |
 |  | Decreased Appetite | Hyperglycaemia (reported especially in diabetic patients) | Dehydration Hyponatraemia SIADH6 |  |
-| Psychiatric Disorders |  |  |  |  |
-|  | Insomnia Agitation Libido decreased | Suicidal ideation5,7 Sleep disorder | Suicidal behaviour5,7 Mania |  |
-|  | Anxiety Orgasm abnormal Abnormal dreams | Bruxism Disorientation Apathy | Hallucinations Aggression and anger4 |  |
-| Nervous System Disorders |  |  |  |  |
-| Headache (14.4%) Somnolence (10.4%) | Dizziness Lethargy Tremor Paraesthesia | Myoclonus Akathisia7 Nervousness Disturbance in attention Dysgeusia Dyskinesia Restless legs syndrome Poor quality sleep | Serotonin syndrome6 Convulsion1 Psychomotor restlessness6 Extra-pyramidal symptoms6 |  |
-| Eye Disorders |  |  |  |  |
+| Psychiatric disorders |  |  |  |  |
+|  | Insomnia Agitation Libido decreased Anxiety Orgasm abnormal Abnormal dreams | Suicidal ideation5,7 Sleep disorder Bruxism Disorientation Apathy | Suicidal behaviour5,7 Mania Hallucinations Aggression and anger4 |  |
+| Nervous system disorders |  |  |  |  |
+| Headache Somnolence | Dizziness Lethargy Tremor Paraesthesia | Myoclonus Akathisia7 Nervousness Disturbance in attention Dysgeusia Dyskinesia Restless legs syndrome Poor quality sleep | Serotonin syndrome6 Convulsion1 Psychomotor restlessness6 Extra-pyramidal symptoms6 |  |
+| Eye disorders |  |  |  |  |
 |  | Blurred vision | Mydriasis Visual impairment | Glaucoma |  |
-| Ear and Labyrinth Disorders |  |  |  |  |
+| Ear and labyrinth disorders |  |  |  |  |
 |  | Tinnitus1 | Vertigo Ear pain |  |  |
-| Cardiac Disorders |  |  |  |  |
+| Cardiac disorders |  |  |  |  |
 |  | Palpitations | Tachycardia Supra-ventricular arrhythmia, mainly atrial fibrillation |  |  |
-| Vascular Disorders |  |  |  |  |
+| Vascular disorders |  |  |  |  |
 |  | Blood pressure increase3 Flushing | Syncope2 Hypertension3,7 Orthostatic hypotension2 Peripheral coldness | Hypertensive crisis3,6 |  |
-| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |
 |  | Yawning | Throat tightness Epistaxis |  |  |
-| Gastrointestinal Disorders |  |  |  |  |
-| Nausea (24.1%) Dry mouth (13.1%) | Constipation Diarrhoea Abdominal pain Vomiting Dyspepsia Flatulence | Gastrointestinal haemorrhage7 Gastroenteritis Eructation Gastritis | Stomatitis Haematochezia Breath odour |  |
-| Hepato-biliary Disorders |  |  |  |  |
-|  |  | Hepatitis3 Elevated liver enzymes (ALT, AST, alkaline phosphatase) Acute liver injury | Hepatic failure6 Jaundice6 |  |
-| Skin and Subcutaneous Tissue Disorders |  |  |  |  |
-|  | Sweating increased Rash | Night sweats Urticaria Dermatitis contact | Stevens-Johnson Syndrome6 Angio-neurotic |  |
-|  |  | Cold sweat Photo-sensitivity reactions Increased tendency to bruise | oedema6 |  |
-| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |
+| Gastrointestinal disorders |  |  |  |  |
+| Nausea Dry mouth | Constipation Diarrhoea Abdominal pain Vomiting Dyspepsia Flatulence | Gastrointestinal haemorrhage7 Gastroenteritis Eructation Gastritis Dysphagia | Stomatitis Haematochezia Breath odour |  |
+| Hepato-biliary disorders |  |  |  |  |
+|  |  | Hepatitis3 | Hepatic failure6 |  |
+|  |  | Elevated liver enzymes (ALT, AST, alkaline phosphatase) Acute liver injury | Jaundice6 |  |
+| Skin and subcutaneous tissue disorders |  |  |  |  |
+|  | Sweating increased Rash | Night sweats Urticaria Dermatitis contact Cold sweat Photo-sensitivity reactions Increased tendency to bruise | Stevens-Johnson Syndrome6 Angio-neurotic oedema6 |  |
+| Musculoskeletal and connective tissue disorders |  |  |  |  |
 |  | Musculo-skeletal pain Muscle spasm | Muscle tightness Muscle twitching | Trismus |  |
-| Renal and Urinary Disorders |  |  |  |  |
-|  | Dysuria | Urinary retention Urinary hesitation Nocturia Polyuria Urine flow decreased | Urine odour abnormal |  |
-| Reproductive System and Breast Disorders |  |  |  |  |
-|  | Erectile dysfunction Ejaculation disorder Ejaculation delayed | Gynaecological haemorrhage Menstrual disorder Sexual dysfunction | Menopausal symptoms Galactorrhoea Hyperprolactinae mia |  |
-| General Disorders and Administration Site Conditions |  |  |  |  |
-|  | Fatigue | Chest pain7 Falls8 Feeling abnormal Feeling cold Thirst Chills Malaise Feeling hot Gait disturbance |  |  |
+| Renal and urinary disorders |  |  |  |  |
+|  | Dysuria Pollakiuria | Urinary retention Urinary hesitation Nocturia Polyuria Urine flow decreased | Urine odour abnormal |  |
+| Reproductive system and breast disorders |  |  |  |  |
+|  | Erectile dysfunction Ejaculation disorder Ejaculation delayed | Gynaecological haemorrhage Menstrual disorder Sexual dysfunction Testicular pain | Menopausal symptoms Galactorrhoea Hyperprolactinae mia |  |
+| General disorders and administration site conditions |  |  |  |  |
+|  | Falls8 Fatigue | Chest pain7 Feeling abnormal Feeling cold Thirst Chills Malaise Feeling hot Gait disturbance |  |  |
 | Investigations |  |  |  |  |
 |  | Weight decrease | Weight increase Blood creatine phosphokinase increased Blood potassium increased | Blood cholesterol increased |  |
 
@@ -66,7 +70,7 @@ Within each frequency grouping, undesirable effects are presented in order of de
 
 c. Description of selected adverse reactions
 Discontinuation of duloxetine (particularly when abrupt) commonly leads to withdrawal symptoms.
-Dizziness, sensory disturbances (including paraesthesia), sleep disturbances (including insomnia and intense dreams), fatigue, somnolence, agitation or anxiety, nausea and/or vomiting, tremor, headache, irritability, diarrhoea, hyperhydrosis and vertigo are the most commonly reported reactions.
+Dizziness, sensory disturbances (including paraesthesia or electric shock-like sensations, particularly in the head), sleep disturbances (including insomnia and intense dreams), fatigue, somnolence, agitation or anxiety, nausea and/or vomiting, tremor, headache, myalgia, irritability, diarrhoea, hyperhydrosis and vertigo are the most commonly reported reactions.
 
 Generally, for SSRIs and SNRIs, these events are mild to moderate and self-limiting, however, in some patients they may be severe and/or prolonged.
 It is therefore advised that when duloxetine treatment is no longer required, gradual discontinuation by dose tapering should be carried out (see sections 4.2 and 4.4).
@@ -79,49 +83,59 @@ There was also a small increase in fasting blood glucose and in total cholestero
 The heart rate-corrected QT interval in duloxetine-treated patients did not differ from that seen in placebo-treated patients.
 No clinically significant differences were observed for QT, PR, QRS, or QTcB measurements between duloxetine-treated and placebo-treated patients.
 
+d. Paediatric population
+A total of 509 paediatric patients aged 7 to 17 years with MDD were treated with duloxetine in clinical trials.
+In general, the adverse reaction profile of duloxetine in children and adolescents was similar to that seen for adults.
+
+Three hundred and thirty two paediatric patients initially randomized to duloxetine in clinical trials, experienced a 0.2 kg mean decrease in weight at 10-weeks.
+Subsequently, over a six-month extension period, most of these patients trended toward recovery to their baseline weight percentile expected based on population data from age- and gender-matched peers (see section 4.4)”.
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
 [Cymbalta 60 mg hard gastro-resistant capsules]
 
 | Very common | Common | Uncommon | Rare | Very Rare |
 | --- | --- | --- | --- | --- |
-| Infections and Infestations |  |  |  |  |
+| Infections and infestations |  |  |  |  |
 |  |  | Laryngitis |  |  |
-| Immune System Disorders |  |  |  |  |
+| Immune system disorders |  |  |  |  |
 |  |  |  | Anaphylactic reaction Hyper-sensitivity disorder |  |
-| Endocrine Disorders |  |  |  |  |
+| Endocrine disorders |  |  |  |  |
 |  |  |  | Hypo-thyroidism |  |
-| Metabolism and Nutrition Disorders |  |  |  |  |
+| Metabolism and nutrition disorders |  |  |  |  |
 |  | Decreased Appetite | Hyperglycaemia (reported especially in diabetic patients) | Dehydration Hyponatraemia SIADH6 |  |
-| Psychiatric Disorders |  |  |  |  |
-|  | Insomnia Agitation | Suicidal ideation5,7 | Suicidal behaviour5,7 |  |
-|  | Libido decreased Anxiety Orgasm abnormal Abnormal dreams | Sleep disorder Bruxism Disorientation Apathy | Mania Hallucinations Aggression and anger4 |  |
-| Nervous System Disorders |  |  |  |  |
-| Headache (14.4%) Somnolence (10.4%) | Dizziness Lethargy Tremor Paraesthesia | Myoclonus Akathisia7 Nervousness Disturbance in attention Dysgeusia Dyskinesia Restless legs syndrome Poor quality sleep | Serotonin syndrome6 Convulsion1 Psychomotor restlessness6 Extra-pyramidal symptoms6 |  |
-| Eye Disorders |  |  |  |  |
+| Psychiatric disorders |  |  |  |  |
+|  | Insomnia Agitation Libido decreased Anxiety Orgasm abnormal Abnormal dreams | Suicidal ideation5,7 Sleep disorder Bruxism Disorientation Apathy | Suicidal behaviour5,7 Mania Hallucinations Aggression and anger4 |  |
+| Nervous system disorders |  |  |  |  |
+| Headache Somnolence | Dizziness Lethargy Tremor Paraesthesia | Myoclonus Akathisia7 Nervousness Disturbance in attention Dysgeusia Dyskinesia Restless legs syndrome Poor quality sleep | Serotonin syndrome6 Convulsion1 Psychomotor restlessness6 Extra-pyramidal symptoms6 |  |
+| Eye disorders |  |  |  |  |
 |  | Blurred vision | Mydriasis Visual impairment | Glaucoma |  |
-| Ear and Labyrinth Disorders |  |  |  |  |
+| Ear and labyrinth disorders |  |  |  |  |
 |  | Tinnitus1 | Vertigo Ear pain |  |  |
-| Cardiac Disorders |  |  |  |  |
+| Cardiac disorders |  |  |  |  |
 |  | Palpitations | Tachycardia Supra-ventricular arrhythmia, mainly atrial fibrillation |  |  |
-| Vascular Disorders |  |  |  |  |
+| Vascular disorders |  |  |  |  |
 |  | Blood pressure increase3 Flushing | Syncope2 Hypertension3,7 Orthostatic hypotension2 Peripheral coldness | Hypertensive crisis3,6 |  |
-| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |
 |  | Yawning | Throat tightness Epistaxis |  |  |
-| Gastrointestinal Disorders |  |  |  |  |
-| Nausea (24.1%) Dry mouth (13.1%) | Constipation Diarrhoea Abdominal pain Vomiting Dyspepsia Flatulence | Gastrointestinal haemorrhage7 Gastroenteritis Eructation Gastritis | Stomatitis Haematochezia Breath odour |  |
-| Hepato-biliary Disorders |  |  |  |  |
+| Gastrointestinal disorders |  |  |  |  |
+| Nausea Dry mouth | Constipation Diarrhoea Abdominal pain Vomiting Dyspepsia Flatulence | Gastrointestinal haemorrhage7 Gastroenteritis Eructation Gastritis Dysphagia | Stomatitis Haematochezia Breath odour |  |
+| Hepato-biliary disorders |  |  |  |  |
 |  |  | Hepatitis3 Elevated liver enzymes (ALT, AST, alkaline phosphatase) Acute liver injury | Hepatic failure6 Jaundice6 |  |
-| Skin and Subcutaneous Tissue Disorders |  |  |  |  |
-|  | Sweating increased | Night sweats Urticaria | Stevens-Johnson Syndrome6 |  |
-|  | Rash | Dermatitis contact Cold sweat Photo-sensitivity reactions Increased tendency to bruise | Angio-neurotic oedema6 |  |
-| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |
+| Skin and subcutaneous tissue disorders |  |  |  |  |
+|  | Sweating increased Rash | Night sweats Urticaria Dermatitis contact Cold sweat Photo-sensitivity reactions Increased tendency to bruise | Stevens-Johnson Syndrome6 Angio-neurotic oedema6 |  |
+| Musculoskeletal and connective tissue disorders |  |  |  |  |
 |  | Musculo-skeletal pain Muscle spasm | Muscle tightness Muscle twitching | Trismus |  |
-| Renal and Urinary Disorders |  |  |  |  |
-|  | Dysuria | Urinary retention Urinary hesitation Nocturia Polyuria Urine flow decreased | Urine odour abnormal |  |
-| Reproductive System and Breast Disorders |  |  |  |  |
-|  | Erectile dysfunction Ejaculation disorder Ejaculation delayed | Gynaecological haemorrhage Menstrual disorder Sexual dysfunction | Menopausal symptoms Galactorrhoea Hyperprolactinae mia |  |
-| General Disorders and Administration Site Conditions |  |  |  |  |
-|  | Fatigue | Chest pain7 Falls8 Feeling abnormal Feeling cold Thirst Chills Malaise Feeling hot Gait disturbance |  |  |
+| Renal and urinary disorders |  |  |  |  |
+|  | Dysuria Pollakiuria | Urinary retention Urinary hesitation Nocturia Polyuria Urine flow decreased | Urine odour abnormal |  |
+| Reproductive system and breast disorders |  |  |  |  |
+|  | Erectile dysfunction Ejaculation disorder Ejaculation delayed | Gynaecological haemorrhage Menstrual disorder Sexual dysfunction Testicular pain | Menopausal symptoms Galactorrhoea Hyperprolactinae mia |  |
+| General disorders and administration site conditions |  |  |  |  |
+|  | Falls8 Fatigue | Chest pain7 Feeling abnormal Feeling cold Thirst Chills Malaise Feeling hot Gait disturbance |  |  |
 | Investigations |  |  |  |  |
 |  | Weight decrease | Weight increase Blood creatine phosphokinase increased Blood potassium increased | Blood cholesterol increased |  |
 
-8 Falls were more common in the elderly (≥65 years old) c. Description of selected adverse reactions
+Three hundred and thirty two paediatric patients, initially randomized to duloxetine in clinical trials, experienced a 0.2 kg mean decrease in weight at 10-weeks.

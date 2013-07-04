@@ -33,10 +33,10 @@ Major Depressive Disorder and Generalised Anxiety Disorder: Depression is associ
 This risk persists until significant remission occurs.
 As improvement may not occur during the first few weeks or more of treatment, patients should be closely monitored until such improvement occurs.
 It is general clinical experience that the risk of suicide may increase in the early stages of recovery.
-
 Other psychiatric conditions for which Cymbalta is prescribed can also be associated with an increased risk of suicide-related events.
 In addition, these conditions may be co-morbid with major depressive disorder.
 The same precautions observed when treating patients with major depressive disorder should therefore be observed when treating patients with other psychiatric disorders.
+
 Patients with a history of suicide-related events or those exhibiting a significant degree of suicidal thoughts prior to commencement of treatment are known to be at greater risk of suicidal thoughts or suicidal behaviour, and should receive careful monitoring during treatment.
 A meta-analysis of placebo-controlled clinical trials of antidepressant medicinal products in psychiatric disorders showed an increased risk of suicidal behaviour with antidepressants compared to placebo in patients less than 25 years old.
 
@@ -50,11 +50,10 @@ Concerning risk factors for suicidality in depression, see above.
 Physicians should encourage patients to report any distressing thoughts or feelings at any time.
 
 Use in children and adolescents under 18 years of age
-No clinical trials have been conducted with duloxetine in paediatric populations.
 Cymbalta should not be used in the treatment of children and adolescents under the age of 18 years.
 Suicide-related behaviours (suicide attempts and suicidal thoughts), and hostility (predominantly aggression, oppositional behaviour and anger), were more frequently observed in clinical trials among children and adolescents treated with antidepressants compared to those treated with placebo.
-If, based on clinical need, a decision to treat is nevertheless taken, the patient should be carefully monitored for the appearance of suicidal symptoms.
-In addition, long-term safety data in children and adolescents concerning growth, maturation and cognitive and behavioural development are lacking.
+If, based on clinical need, a decision to treat is nevertheless taken, the patient should be carefully monitored for the appearance of suicidal symptoms (see section 5.1).
+In addition, long-term safety data in children and adolescents concerning growth, maturation and cognitive and behavioural development are lacking (see section 4.8).
 
 Haemorrhage
 There have been reports of bleeding abnormalities, such as ecchymoses, purpura and gastrointestinal haemorrhage with selective serotonin reuptake inhibitors (SSRIs) and serotonin/noradrenaline reuptake inhibitors (SNRIs), including duloxetine.

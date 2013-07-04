@@ -29,7 +29,6 @@ Based upon the overlap in the range of clearance, gender-based pharmacokinetic d
 
 Age: Pharmacokinetic differences have been identified between younger and elderly females (≥65 years) (AUC increases by about 25% and half-life is about 25% longer in the elderly), although the magnitude of these changes is not sufficient to justify adjustments to the dose.
 As a general recommendation, caution should be exercised when treating the elderly (see sections 4.2 and 4.4).
-
 Renal impairment: End stage renal disease (ESRD) patients receiving dialysis had 2-fold higher duloxetine Cmax and AUC values compared with healthy subjects.
 Pharmacokinetic data on duloxetine is limited in patients with mild or moderate renal impairment.
 
@@ -41,3 +40,6 @@ Breast-feeding mothers: The disposition of duloxetine was studied in 6 lactating
 Duloxetine is detected in breast milk, and steady-state concentrations in breast milk are about one-fourth those in plasma.
 The amount of duloxetine in breast milk is approximately 7 µg/day while on 40 mg twice daily dosing.
 Lactation did not influence duloxetine pharmacokinetics.
+
+Paediatric population: Pharmacokinetics of duloxetine in paediatric patients aged 7 to 17 years with major depressive disorder following oral administration of 20 to 120 mg once daily dosing regimen was characterized using population modelling analyses based on data from 3 studies.
+The model-predicted duloxetine steady state plasma concentrations in paediatric patients were mostly within the concentration range observed in adult patients.

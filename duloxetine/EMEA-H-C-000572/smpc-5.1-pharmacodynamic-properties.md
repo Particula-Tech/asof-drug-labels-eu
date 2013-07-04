@@ -11,6 +11,7 @@ Duloxetine dose-dependently increases extracellular levels of serotonin and nora
 Pharmacodynamic effects
 Duloxetine normalised pain thresholds in several preclinical models of neuropathic and inflammatory pain and attenuated pain behaviour in a model of persistent pain.
 The pain inhibitory action of duloxetine is believed to be a result of potentiation of descending inhibitory pain pathways within the central nervous system.
+
 Clinical efficacy and safety
 Major Depressive Disorder: Cymbalta was studied in a clinical programme involving 3,158 patients (1,285 patient-years of exposure) meeting DSM-IV criteria for major depression.
 The efficacy of Cymbalta at the recommended dose of 60 mg once a day was demonstrated in three out of three randomised, double-blind, placebo-controlled, fixed dose acute studies in adult outpatients with major depressive disorder.
@@ -23,7 +24,6 @@ Only a small proportion of patients included in pivotal clinical trials had seve
 In a relapse prevention study, patients responding to 12-weeks of acute treatment with open-label Cymbalta 60 mg once daily were randomised to either Cymbalta 60 mg once daily or placebo for a further 6-months.
 Cymbalta 60 mg once daily demonstrated a statistically significant superiority compared to placebo (p=0.004) on the primary outcome measure, the prevention of depressive relapse, as measured by time to relapse.
 The incidence of relapse during the 6-months double-blind follow-up period was 17% and 29% for duloxetine and placebo, respectively.
-
 During 52 weeks of placebo-controlled double blind treatment, duloxetine-treated patients with recurrent MDD had a significantly longer symptom free period (p<0.001) compared with patients randomised to placebo.
 All patients had previously responded to duloxetine during open-label duloxetine treatment (28 to 34 weeks) at a dose of 60 to 120 mg/day.
 During the 52-week placebo-controlled double blind treatment phase 14.4% of the duloxetine-treated patients and 33.1% of the placebo-treated patients experience a return of their depressive symptoms (p<0.001).
@@ -59,5 +59,18 @@ Patients not demonstrating a pain reduction of 30% within 60 days of treatment w
 In an open label long-term uncontrolled study, the pain reduction in patients responding to 8-weeks of acute treatment of Cymbalta 60 mg once daily was maintained for a further 6-months as measured by change on the Brief Pain Inventory (BPI) 24-hour average pain item.
 
 Paediatric population
+Duloxetine has not been studied in patients under the age of 7.
+Two randomized, double-blind, parallel clinical trials were performed in 800 paediatric patients aged 7 to 17 years with major depressive disorder (see section 4.2).
+These two studies included a 10 week placebo and active (fluoxetine) controlled acute phase followed by six months period of active controlled extension treatment.
+Neither duloxetine (30-120 mg) nor the active control arm (fluoxetine 20-40 mg) statistically separated from placebo on change from baseline to endpoint in the Children´s Depression Rating Scale-Revised (CDRS-R) total score.
+Discontinuation due to adverse events was higher in patients taking duloxetine compared with those treated with fluoxetine, mostly due to nausea.
+During the 10-week acute treatment period, suicidal behaviours were reported (duloxetine 0/333 [0%], fluoxetine 2/225 [0.9%], placebo 1/220 [0.5%]).
+Over the entire 36-week course of the study, 6 out of 333 patients initially randomized to duloxetine and 3 out of 225 patients initially randomized to fluoxetine experienced suicidal behaviour (exposure adjusted incidence 0.039 events per patient year for duloxetine, and 0.026 for fluoxetine).
+In addition, one patient who transitioned from placebo to duloxetine experienced a suicidal behaviour while taking duloxetine.
+
 The European Medicines Agency has waived the obligation to submit the results of studies with Cymbalta in all subsets of the paediatric population in the treatment of major depressive disorder, diabetic neuropathic pain and generalised anxiety disorder.
 See section 4.2 for information on paediatric use.
+
+[Cymbalta 60 mg hard gastro-resistant capsules]
+
+Over the entire 36-week course of the study 6 out of 333 patients initially randomized to duloxetine and 3 out of 225 patients initially randomized to fluoxetine experienced suicidal behaviour (exposure adjusted incidence 0.039 events per patient year for duloxetine and 0.026 for fluoxetine).

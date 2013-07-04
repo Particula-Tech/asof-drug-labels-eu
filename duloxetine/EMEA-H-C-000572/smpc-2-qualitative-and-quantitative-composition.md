@@ -2,7 +2,7 @@
 
 Each capsule contains 30 mg of duloxetine (as hydrochloride).
 
-Excipients:
+Excipient(s) with known effect:
 Each capsule contains 8.6 mg sucrose.
 For the full list of excipients, see section 6.1.
 

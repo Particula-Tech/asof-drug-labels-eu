@@ -9,3 +9,7 @@ Female rats receiving duloxetine (45 mg/kg/day) before and during mating and ear
 In an embryotoxicity study in the rabbit, a higher incidence of cardiovascular and skeletal malformations was observed at systemic exposure levels below the maximum clinical exposure (AUC).
 No malformations were observed in another study testing a higher dose of a different salt of duloxetine.
 In prenatal/postnatal toxicity studies in the rat, duloxetine induced adverse behavioural effects in the offspring at exposures below maximum clinical exposure (AUC).
+
+Studies in juvenile rats reveal transient effects on neurobehaviour, as well as significantly decreased body weight and food consumption; hepatic enzyme induction; and hepatocellular vacuolation at 45 mg/kg/day.
+The general toxicity profile of duloxetine in juvenile rats was similar to that in adult rats.
+The no-adverse effect level was determined to be 20 mg/kg/day.

@@ -1,11 +1,13 @@
-# 4.6 Pregnancy and lactation
+# 4.6 Fertility, pregnancy and lactation
+
+Fertility
+Duloxetine had no effect on male fertility, and effects in females were only evident at doses that caused maternal toxicity.
 
 Pregnancy
 There are no adequate data on the use of duloxetine in pregnant women.
 Studies in animals have shown reproductive toxicity at systemic exposure levels (AUC) of duloxetine lower than the maximum clinical exposure (see section 5.3).
 
 The potential risk for humans is unknown.
-
 Epidemiological data have suggested that the use of SSRIs in pregnancy, particularly in late pregnancy, may increase the risk of persistent pulmonary hypertension in the newborn (PPHN).
 Although no studies have investigated the association of PPHN to SNRI treatment, this potential risk cannot be ruled out with duloxetine taking into account the related mechanism of action (inhibition of the re-uptake of serotonin).
 
