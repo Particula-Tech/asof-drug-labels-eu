@@ -14,9 +14,9 @@ Frequencies were defined as follows:
 
 Common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100).
 
-1 An adverse event judged related to therapy by the investigating physician.
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
+1 An adverse event judged related to therapy by the investigating physician.
 Infections and infestations
 Common Urinary tract infection
 Nasopharyngitis

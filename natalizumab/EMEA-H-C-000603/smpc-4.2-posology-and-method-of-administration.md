@@ -41,8 +41,8 @@ Studies have not been conducted to examine the effects of renal or hepatic impai
 The mechanism for elimination and results from population pharmacokinetics suggest that dose adjustment would not be necessary in patients with renal or hepatic impairment.
 
 Paediatric Population
-TYSABRI is contraindicated in children and adolescents below the age of 18 years (see section 4.3).
 
+TYSABRI is contraindicated in children and adolescents below the age of 18 years (see section 4.3).
 Method of Administration
 
 Intravenous use.

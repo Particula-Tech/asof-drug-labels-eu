@@ -11,7 +11,6 @@ No clastogenic or mutagenic effects of natalizumab were observed in the Ames or 
 Natalizumab showed no effects on in vitro assays of α4-integrin-positive tumour line proliferation or cytotoxicity.
 
 Reductions in female guinea pig fertility were observed in one study at doses in excess of the human dose; natalizumab did not affect male fertility.
-
 The effect of natalizumab on reproduction was evaluated in 5 studies, 3 in guinea pigs and 2 in cynomolgus monkeys.
 These studies showed no evidence of teratogenic effects or effects on growth of offspring.
 In one study in guinea pigs, a small reduction in pup survival was noted.

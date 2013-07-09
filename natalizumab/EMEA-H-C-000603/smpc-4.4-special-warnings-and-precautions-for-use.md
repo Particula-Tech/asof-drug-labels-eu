@@ -55,7 +55,6 @@ Other Opportunistic Infections
 
 Other opportunistic infections have been reported with use of TYSABRI, primarily in patients with Crohn’s disease who were immunocompromised or where significant co-morbidity existed, however increased risk of other opportunistic infections with use of TYSABRI in patients without these co-morbidities cannot currently be excluded.
 Opportunistic infections were also detected in MS patients treated with TYSABRI as a monotherapy (see section 4.8).
-
 Prescribers should be aware of the possibility that other opportunistic infections may occur during TYSABRI therapy and should include them in the differential diagnosis of infections that occur in TYSABRI-treated patients.
 If an opportunistic infection is suspected, dosing with TYSABRI is to be suspended until such infections can be excluded through further evaluations.
 
@@ -92,11 +91,11 @@ Concurrent use of these agents with TYSABRI may increase the risk of infections,
 Patients with a treatment history of immunosuppressant medications are at increased risk for PML.
 Care should be taken with patients who have previously received immunosuppressants to allow sufficient time for immune function recovery to occur.
 Physicians must evaluate each individual case to determine whether there is evidence of an immunocompromised state prior to commencing treatment with TYSABRI (see section 4.3).
+
 In Phase 3 MS clinical trials, concomitant treatment of relapses with a short course of corticosteroids was not associated with an increased rate of infection.
 Short courses of corticosteroids can be used in combination with TYSABRI.
 
 Immunogenicity
-
 Disease exacerbations or infusion related events may indicate the development of antibodies against natalizumab.
 In these cases the presence of antibodies should be evaluated and if these remain positive in a confirmatory test after 6 weeks, treatment should be discontinued, as persistent antibodies are associated with a substantial decrease in efficacy of TYSABRI and an increased incidence of hypersensitivity reactions (see section 4.8).
 

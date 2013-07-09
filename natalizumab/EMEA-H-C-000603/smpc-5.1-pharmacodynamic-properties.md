@@ -72,3 +72,5 @@ In the sub-group of patients indicated for treatment of rapidly evolving relapsi
 Hazard ratio for disability progression was 0.36 (95% CI : 0.17, 0.76) p = 0.008.
 These results were obtained from a post hoc analysis and should be interpreted cautiously.
 No information on the severity of the relapses before inclusion of patients in the study is available.
+
+The European Medicines Agency has deferred the obligation to submit the results of studies with TYSABRI in one or more subsets of the paediatric population in multiple sclerosis (see section 4.2 for information on paediatric use).

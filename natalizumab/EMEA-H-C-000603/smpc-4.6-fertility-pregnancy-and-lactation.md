@@ -1,7 +1,6 @@
 # 4.6 Fertility, pregnancy and lactation
 
 Pregnancy
-
 There are no adequate data from the use of natalizumab in pregnant women.
 Studies in animals have shown reproductive toxicity (see section 5.3).
 The potential risk for humans is unknown.
