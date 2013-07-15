@@ -10,8 +10,8 @@ Benlysta does not bind B cells directly, but by binding BLyS, Benlysta inhibits 
 BLyS levels are elevated in patients with SLE and other autoimmune diseases.
 There is an association between plasma BLyS levels and SLE disease activity.
 The relative contribution of BLyS levels to the pathophysiology of SLE is not fully understood.
-Pharmacodynamic effects
 
+Pharmacodynamic effects
 Changes in biomarkers were seen in clinical trials.
 In patients with hypergammaglobulinemia, normalization of IgG levels was observed by Week 52 in 49% and 20% of patients receiving Benlysta and placebo, respectively.
 In patients with anti-dsDNA antibodies, 16% of patients treated with Benlysta converted to anti-dsDNA negative compared with 7% of the patients receiving placebo by Week 52.
@@ -20,7 +20,10 @@ In patients with low complement levels, normalization of C3 and C4 was observed 
 Of the anti-phospholipid antibodies, only anti-cardiolipin antibody was measured.
 For anti-cardiolipin IgA antibody a 37% reduction at Week 52 was seen (p=0.0003), for anti-cardiolipin IgG antibody a 26% reduction at Week 52 was seen (p=0.0324) and for anti-cardiolipin IgM a 25% reduction was seen (p=NS, 0.46).
 
-A significant reduction of circulating B cells, including naïve, activated, plasma, and the SLE B cell subset was seen at Week 52.
+In a long-term extension study, B cells (including naïve, activated, plasma cells and the SLE B cell subset) and IgG levels were followed for up to 172 weeks with ongoing belimumab treatment.
+A substantial and sustained decrease in various B cell subsets was observed leading to a 70% to 90% median reduction in naïve B cells, activated B cells and plasmacytoid cells, and up to 60% median reduction in plasma cells after 3 years of treatment.
+Over three years, a 20% to 30% median reduction in IgG levels was observed, with 0.5% of subjects experiencing a decrease in IgG levels to below 400 mg/dL.
+The impact of long-term B cell decrease on efficacy and safety has not yet been determined.
 
 Immunogenicity
 
@@ -44,9 +47,9 @@ Patients who had severe active lupus nephritis and patients who had severe activ
 
 BLISS-76 was conducted primarily in North America and Western Europe.
 Background medicinal products included corticosteroids (76%; >7.5 mg/day 46%), immunosuppressives (56%), and anti-malarials (63%).
-
 BLISS-52 was conducted in South America, Eastern Europe, Asia, and Australia.
 Background medicinal products included corticosteroids (96%; >7.5 mg/day 69%), immunosuppressives (42%), and anti-malarials (67%).
+
 At baseline 52% of patients had high disease activity (SELENA SLEDAI score >10), 59% of patients had mucocutaneous, 60% had musculoskeletal, 16% had haematological, 11% had renal and 9% had vascular organ domain involvement (BILAG A or B at baseline).
 
 The primary efficacy endpoint was a composite endpoint (SLE Responder Index) that defined response as meeting each of the following criteria at Week 52 compared with baseline:
@@ -54,7 +57,6 @@ The primary efficacy endpoint was a composite endpoint (SLE Responder Index) tha
 ≥4-point reduction in the SELENA-SLEDAI score, and • no new British Isles Lupus Assessment Group (BILAG) A organ domain score or 2 new BILAG B organ domain scores, and • no worsening (>0.30 point increase) in Physician’s Global Assessment score (PGA)
 
 The SLE Responder Index measures improvement in SLE disease activity, without worsening in any organ system, or in the patient’s overall condition.
-
 Table 1: Response Rate at Week 52
 
 BLISS-76 BLISS-52 BLISS-76 and BLISS-52
@@ -102,6 +104,7 @@ Univariate and multivariate analysis of the primary endpoint in pre-specified su
 
 Post-hoc analysis has identified high responding subgroups such as those patients with low complement and positive anti-dsDNA at baseline, see Table 2.
 Of these patients, 64.5% had SELENA SLEDAI scores ≥ 10 at baseline.
+
 Table 2: Patients with low complement and positive anti-dsDNA at baseline
 
 | Subgroup | Anti-dsDNA positive AND low complement |  |
@@ -125,6 +128,5 @@ Table 2: Patients with low complement and positive anti-dsDNA at baseline
 
 Paediatric population
 The European Medicines Agency has deferred the obligation to submit the results of studies with Benlysta in one or more subsets of the paediatric population in SLE (see section 4.2 for information on paediatric use).
-
 Age and race
 There were too few patients over 65 years of age, or black/African American patients enrolled in the controlled clinical trials to draw meaningful conclusions about the effects of age or race on clinical outcomes.

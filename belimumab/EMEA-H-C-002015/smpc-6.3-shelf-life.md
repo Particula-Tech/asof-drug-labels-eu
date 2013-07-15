@@ -5,7 +5,6 @@ Unopened vials
 
 Reconstituted solution
 After reconstitution with water for injections, the reconstituted solution, if not used immediately, should be protected from direct sunlight, and stored refrigerated at 2°C - 8°C.
-
 Reconstituted and diluted solution for infusion
 Solution of Benlysta diluted in sodium chloride 9 mg/ml (0.9%) solution for injection may be stored at 2°C-8°C or room temperature (15°C - 25°C).
 

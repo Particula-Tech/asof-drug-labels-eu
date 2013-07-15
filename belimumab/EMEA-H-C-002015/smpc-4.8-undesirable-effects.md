@@ -48,9 +48,7 @@ Infections: The overall incidence of infections was 70% in the group receiving B
 Infections occurring in at least 3% of Benlysta patients and at least 1% more frequently than patients receiving placebo were nasopharyngitis, bronchitis, pharyngitis, cystitis, and gastroenteritis viral.
 Serious infections occurred in 5% of patients receiving Benlysta or placebo.
 Infections leading to discontinuation of treatment occurred in 0.6% of patients receiving Benlysta and 1% of patients receiving placebo.
-Opportunistic infections were reported in three patients treated with Benlysta.
-In one case, the causal relationship is unlikely.
-No opportunistic infections were reported in the placebo group.
+Opportunistic infections have been reported in patients treated with Benlysta.
 
 Leucopenia: The incidence of leucopenia reported as an adverse event was 4% in the group receiving Benlysta and 2% in the group receiving placebo.
 

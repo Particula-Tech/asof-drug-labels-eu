@@ -1,8 +1,7 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 Glaxo Group Limited
-Glaxo Wellcome House
-Berkeley Avenue
-Greenford
-Middlesex UB6 0NN
+980 Great West Road
+Brentford
+Middlesex TW8 9GS
 United Kingdom

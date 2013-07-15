@@ -24,7 +24,6 @@ Once reconstitution is complete, the solution should be opalescent and colorless
 Small air bubbles, however, are expected and acceptable.
 
 After reconstitution, a volume of 1.5 ml (corresponding to 120 mg belimumab) can be withdrawn from each vial.
-
 Dilution
 
 The reconstituted medicinal product is diluted to 250 ml with sodium chloride 9 mg/ml (0.9%) solution for injection.
