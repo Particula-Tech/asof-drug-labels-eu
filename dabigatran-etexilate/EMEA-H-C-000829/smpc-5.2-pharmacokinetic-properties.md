@@ -4,7 +4,6 @@ After oral administration, dabigatran etexilate is rapidly and completely conver
 The cleavage of the prodrug dabigatran etexilate by esterase-catalysed hydrolysis to the active principle dabigatran is the predominant metabolic reaction.
 The absolute bioavailability of dabigatran following oral administration of Pradaxa was approximately 6.5 %.
 After oral administration of Pradaxa in healthy volunteers, the pharmacokinetic profile of dabigatran in plasma is characterized by a rapid increase in plasma concentrations with Cmax attained within 0.5 and 2.0 hours post administration.
-
 Absorption
 
 A study evaluating post-operative absorption of dabigatran etexilate, 1-3 hours following surgery, demonstrated relatively slow absorption compared with that in healthy volunteers, showing a smooth plasma concentration-time profile without high peak plasma concentrations.
@@ -44,7 +43,6 @@ Renal insufficiency
 In phase I studies the exposure (AUC) of dabigatran after the oral administration of Pradaxa is approximately 2.7-fold higher in volunteers with moderate renal insufficiency (CrCL between 30-50 mL/min) than in those without renal insufficiency.
 
 In a small number of volunteers with severe renal insufficiency (CrCL 10-30 mL/min), the exposure (AUC) to dabigatran was approximately 6 times higher and the half-life approximately 2 times longer than that observed in a population without renal insufficiency (see sections 4.2, 4.3 and 4.4).
-
 Table 9: Half-life of total dabigatran in healthy subjects and subjects with impaired renal function.
 
 | glomerular filtration rate (CrCL,) [mL/min] | gMean (gCV%; range) half-life [h] |
@@ -52,8 +50,7 @@ Table 9: Half-life of total dabigatran in healthy subjects and subjects with imp
 | ≥ 80 | 13.4 (25.7 %; 11.0-21.6) |
 | ≥ 50-< 80 | 15.3 (42.7 %;11.7-34.1) |
 | ≥ 30-< 50 | 18.4 (18.5 %;13.3-23.0) |
-
-< 30 27.2(15.3 %; 21.6-35.0)
+| < 30 | 27.2(15.3 %; 21.6-35.0) |
 
 Clearance of dabigatran by haemodialysis was investigated in 7 patients with end-stage renal disease (ESRD) without atrial fibrillation.
 Dialysis was conducted with 700 mL/min dialysate flow rate, four hour duration and a blood flow rate of either 200 mL/min or 350-390 mL/min.
@@ -82,7 +79,7 @@ No clinically relevant inter-ethnic differences among Caucasian, African-America
 Pharmacokinetic interactions
 
 The pro-drug dabigatran etexilate but not dabigatran is a substrate of the efflux transporter P-gp.
-Therefore concomitant use of P-gp transporter inhibitors (amiodarone, verapamil, clarithromycin, quinidine, dronedarone and ketoconazole) and inducers (rifampicin) had been investigated (see sections 4.2, 4.4 and 4.5).
+Therefore concomitant use of P-gp transporter inhibitors (amiodarone, verapamil, clarithromycin, quinidine, dronedarone , ticagrelor and ketoconazole) and inducers (rifampicin) had been investigated (see sections 4.2, 4.4 and 4.5).
 
 In vitro interaction studies did not show any inhibition or induction of the principal isoenzymes of cytochrome P450.
 This has been confirmed by in vivo studies with healthy volunteers, who did not show any interaction between this treatment and the following active substances: atorvastatin (CYP3A4), digoxin (P-gp transporter interaction) and diclofenac (CYP2C9).
@@ -98,6 +95,7 @@ Table 15: Half-life of total dabigatran in healthy subjects and subjects with im
 | ≥ 80 | 13.4 (25.7 %; 11.0-21.6) |
 | ≥ 50-< 80 | 15.3 (42.7 %;11.7-34.1) |
 | ≥ 30-< 50 | 18.4 (18.5 %;13.3-23.0) |
+| < 30 | 27.2(15.3 %; 21.6-35.0) |
 
 The median CrCL in RE-LY was 68.4 mL/min.
 Almost half (45.8 %) of the RE-LY patients had a CrCL > 50-< 80 mL/min.
@@ -106,6 +104,8 @@ Patients with moderate renal impairment (CrCL between 30-50 mL/min) had on avera
 In atrial fibrillation patients females had on average 30 % higher trough and post-dose concentrations.
 No dose adjustment is required (see section 4.2).
 
+Therefore concomitant use of P-gp transporter inhibitors (amiodarone, verapamil, clarithromycin, quinidine, dronedarone, ticagrelor and ketoconazole) and inducers (rifampicin) had been investigated (see sections 4.2, 4.4 and 4.5).
+
 [Pradaxa 150 mg hard capsules]
 
 Peak plasma concentrations are reached at 6 hours following administration in a postoperative period due to contributing factors such as anaesthesia, GI paresis, and surgical effects independent of the oral medicinal product formulation.
@@ -113,13 +113,6 @@ Peak plasma concentrations are reached at 6 hours following administration in a 
 Half-life is prolonged if renal function is impaired as shown in table 11.
 
 Table 11: Half-life of total dabigatran in healthy subjects and subjects with impaired renal function.
-
-| glomerular filtration rate (CrCL,) [mL/min] | gMean (gCV %; range) half-life [h] |
-| --- | --- |
-| ≥ 80 | 13.4 (25.7 %; 11.0-21.6) |
-| ≥ 50-< 80 | 15.3 (42.7 %;11.7-34.1) |
-| ≥ 30-< 50 | 18.4 (18.5 %;13.3-23.0) |
-| < 30 | 27.2(15.3 %; 21.6-35.0) |
 
 Patients with moderate renal impairment (CrCL between 30 and 50 mL/min) had on average 2.29-fold and 1.81-fold higher pre- and post-dose dabigatran plasma concentrations, respectively, when compared with patients without renal impairment (CrCL ≥ 80 mL/min).
 

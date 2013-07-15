@@ -17,7 +17,7 @@ Treatment should be initiated orally within 1-4 hours of completed surgery with 
 For the following groups the recommended daily dose of Pradaxa is 150 mg taken once daily as 2 capsules of 75 mg:
 
 - Patients with moderate renal impairment (creatinine clearance, CrCL 30-50 mL/min) [see Renal impairment (prevention of VTE)]
-- Patients who receive concomitant verapamil, amiodarone, quinidine [see Concomitant use of Pradaxa with strong P-glycoprotein (P-gp) inhibitors, i.e. amidarone, quinidine or verapamil (prevention of VTE)]
+- Patients who receive concomitant verapamil, amiodarone, quinidine [see Concomitant use of Pradaxa with mild to moderate P-glycoprotein (P-gp) inhibitors, i.e. amidarone, quinidine or verapamil (prevention of VTE)]
 - Patients aged 75 or above [see Elderly (prevention of VTE)]
 
 For both surgeries, if haemostasis is not secured, initiation of treatment should be delayed.
@@ -55,7 +55,7 @@ In patients with moderate renal impairment (CrCL 30-50 mL/min), there is limited
 These patients should be treated with caution.
 The recommended dose is 150 mg taken once daily as 2 capsules of 75 mg (see sections 4.4 and 5.1).
 
-Concomitant use of Pradaxa with strong P-glycoprotein (P-gp) inhibitors, i.e. amiodarone, quinidine or verapamil (prevention of VTE)
+Concomitant use of Pradaxa with mild to moderate P-glycoprotein (P-gp) inhibitors, i.e. amiodarone, quinidine or verapamil (prevention of VTE)
 
 Dosing should be reduced to 150 mg taken once daily as 2 capsules of 75 mg Pradaxa in patients who receive concomitantly dabigatran etexilate and amiodarone, quinidine or verapamil (see sections 4.4 and 4.5).
 In this situation Pradaxa and these medicinal products should be taken at the same time.
@@ -172,7 +172,7 @@ For patients with moderate renal impairment (CrCL 30-50 mL/min) the recommended 
 However, for patients with high risk of bleeding, a dose reduction of Pradaxa to 220 mg taken as one 110 mg capsule twice daily should be considered (see sections 4.4 and 5.2).
 Close clinical surveillance is recommended in patients with renal impairment.
 
-Concomitant use of Pradaxa with strong P-glycoprotein (P-gp) inhibitors, i.e. amiodarone, quinidine or verapamil (SPAF)
+Concomitant use of Pradaxa with mild to moderate P-glycoprotein (P-gp) inhibitors, i.e. amiodarone, quinidine or verapamil (SPAF)
 
 No dose adjustment is necessary for concomitant use of amiodarone or quinidine (see sections 4.4, 4.5 and 5.2).
 
@@ -213,7 +213,7 @@ Patients can stay on dabigatran etexilate while being cardioverted.
 Paediatric population (SPAF)
 
 There is no relevant use of Pradaxa in the paediatric population in the indication: prevention of stroke and systemic embolism in patients with nonvalvular atrial fibrillation.
-.
+
 Missed dose (SPAF)
 
 A forgotten dabigatran etexilate dose may still be taken up to 6 hours prior to the next scheduled dose.
@@ -227,6 +227,6 @@ Method of administration (prevention of VTE and SPAF)
 
 1.23 × (140-age [years]) × weight [kg] (× 0.85 if female) serum creatinine [µmmol/L]
 
-Concomitant use of Pradaxa with strong P-glycoprotein (P-gp) inhibitors, i.e. amiodarone, quinidine or verapamil(SPAF)
+Concomitant use of Pradaxa with mild to moderate P-glycoprotein (P-gp) inhibitors, i.e. amiodarone, quinidine or verapamil(SPAF)
 
 Method of administration (SPAF)

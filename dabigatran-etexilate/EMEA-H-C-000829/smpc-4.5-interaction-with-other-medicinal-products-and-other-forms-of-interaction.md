@@ -22,23 +22,23 @@ After switching from 3-day treatment of once daily 40 mg enoxaparin s.c., 24 hou
 A higher anti-FXa/FIIa activity was observed after dabigatran etexilate administration with enoxaparin pre-treatment compared to that after treatment with dabigatran etexilate alone.
 This is considered to be due to the carry-over effect of enoxaparin treatment, and regarded as not clinically relevant.
 Other dabigatran related anti-coagulation tests were not changed significantly by the pre-treatment of enoxaparin.
-
 Interactions linked to dabigatran etexilate and dabigatran metabolic profile
 
 Dabigatran etexilate and dabigatran are not metabolised by the cytochrome P450 system and have no in vitro effects on human cytochrome P450 enzymes.
 Therefore, related medicinal product interactions are not expected with dabigatran.
+
 Transporter interactions
 
 P-gp inhibitors
 
 Dabigatran etexilate is a substrate for the efflux transporter P-gp.
-Concomitant administration of strong P-gp inhibitors (such as amiodarone, verapamil, quinidine, ketoconazole, dronedarone and clarithromycin) is expected to result in increased dabigatran plasma concentrations.
+Concomitant administration of P-gp inhibitors (such as amiodarone, verapamil, quinidine, ketoconazole, dronedarone, clarithromycin and ticagrelor) is expected to result in increased dabigatran plasma concentrations.
 
 If not otherwise specifically described, close clinical surveillance (looking for signs of bleeding or anaemia) is required when dabigatran is co-administered with strong P-gp inhibitors.
 A coagulation test helps to identify patients with an increased bleeding risk due to increased dabigatran exposure (see sections 4.2, 4.4 and 5.1).
 
-Systemic ketoconazole, cyclosporine, itraconazole, tacrolimus and dronedarone are contraindicated (see section 4.3).
-Caution should be exercised with other strong P-gp inhibitors (e.g. amiodarone, quinidine or verapamil) (see sections 4.2 and 4.4).
+The following strong P-gp inhibitors are contraindicated: systemic ketoconazole, cyclosporine, itraconazole, tacrolimus and dronedarone (see section 4.3).
+Caution should be exercised with mild to moderate P-gp inhibitors (e.g. amiodarone, quinidine, verapamil and ticagrelor) (see sections 4.2 and 4.4).
 
 Ketoconazole: Ketoconazole increased total dabigatran AUC0-∞ and Cmax values by 138 % and 135 %, respectively, after a single oral dose of 400 mg, and 153 % and 149 %, respectively, after multiple oral dosing of 400 mg ketoconazole once daily.
 The time to peak, terminal half-life and mean residence time were not affected by ketoconazole (see section 4.4).
@@ -60,9 +60,9 @@ Close clinical surveillance is recommended when dabigatran etexilate is combined
 Quinidine: Quinidine was given as 200 mg dose every 2nd hour up to a total dose of 1,000 mg.
 Dabigatran etexilate was given twice daily over 3 consecutive days, on the 3rd day either with or without quinidine.
 Dabigatran AUCτ,ss and Cmax,ss were increased on average by 53 % and 56 %, respectively with concomitant quinidine (see sections 4.2 and 4.4).
-
 Patients treated for prevention of VTEs after hip or knee replacement surgery, dosing should be reduced to 150 mg taken once daily as 2 capsules of 75 mg Pradaxa if they receive concomitantly dabigatran etexilate and quinidine (see section 4.2).
 Close clinical surveillance is recommended when dabigatran etexilate is combined with quinidine and particularly in the occurrence of bleeding, notably in patients having a mild to moderate renal impairment.
+
 Verapamil: When dabigatran etexilate (150 mg) was co-administered with oral verapamil, the Cmax and AUC of dabigatran were increased but magnitude of this change differs depending on timing of administration and formulation of verapamil (see sections 4.2 and 4.4).
 
 The greatest elevation of dabigatran exposure was observed with the first dose of an immediate release formulation of verapamil administered one hour prior to dabigatran etexilate intake (increase of Cmax by about 180 % and AUC by about 150 %).
@@ -79,6 +79,9 @@ This is explained by completed dabigatran absorption after 2 hours (see section 
 Clarithromycin: When clarithromycin (500 mg twice daily) was administered together with dabigatran etexilate in healthy volunteers, increase of AUC by about 19 % and Cmax by about 15 % was observed without any clinical safety concern.
 However, in patients receiving dabigatran, a clinically relevant interaction cannot be excluded when combined with clarithromycin.
 Therefore, a close monitoring should be exercised when dabigatran etexilate is combined with clarithromycin and particularly in the occurrence of bleeding, notably in patients having a mild to moderate renal impairment.
+
+Ticagrelor: When a single dose of 75mg dabigatran etexilate was coadministered simultaneously with a loading dose of 180 mg ticagrelor, the dabigatran AUC and Cmaxwere increased by 1.73-fold and 1.95-fold (+73% and 95 %), respectively.
+After multipledoses of ticagrelor 90 mg b.i.d. the increase of dabigatran exposure is 1.56-fold and 1.46-fold (+56% and 46%) for Cmax and AUC, respectively.
 
 The following potent P-gp inhibitors have not been clinically studied but from in vitro results a similar effect as with ketoconazole may be expected:
 Itraconazole, tacrolimus and cyclosporine, which are contra-indicated (see section 4.3).
@@ -97,6 +100,7 @@ Other medicinal products affecting P-gp
 
 Protease inhibitors including ritonavir and its combinations with other protease inhibitors affect P-gp (either as inhibitor or as inducer).
 They have not been studied and are therefore not recommended for concomitant treatment with Pradaxa.
+
 P-gp substrate
 
 Digoxin: In a study performed with 24 healthy subjects, when Pradaxa was co-administered with digoxin, no changes on digoxin and no clinical relevant changes on dabigatran exposure have been observed.
@@ -115,8 +119,8 @@ Ranitidine: Ranitidine administration together with Pradaxa had no clinically re
 [Pradaxa 110 mg hard capsules]
 
 There is no or only limited experience with the following treatments which may increase the risk of bleeding when used concomitantly with Pradaxa: anticoagulants such as unfractionated heparin (UFH), low molecular weight heparins (LMWH), and heparin derivatives (fondaparinux, desirudin), thrombolytic medicinal products, and vitamin K antagonists, rivaroxaban or other oral anticoagulants (see section 4.3), and plateletet aggregation medicinal products such as GPIIb/IIIa receptor antagonists, ticlopidine, prasugrel, ticagrelor, dextran, and sulfinpyrazone (see section 4.4).
-
 From the limited data collected in the phase III study RE LY in patients with atrial fibrillation it was observed that the concomitant use of other oral or parenteral anticoagulants increases major bleeding rates with both dabigatran etexilate and warfarin by approximately 2.5-fold, mainly related to situations when switching from one anticoagulant to another (see section 4.3).
+
 UFH can be administered at doses necessary to maintain a patent central venous or arterial catheter (see section 4.3).
 
 Clopidogrel and ASA: From the data collected in the phase III study RE-LY (see section 5.1) it was observed that the concomitant use of antiplatelets, ASA or clopidogrel approximately doubles major bleeding rates with both dabigatran etexilate and warfarin (see section 4.4).

@@ -9,6 +9,7 @@ After oral administration, dabigatran etexilate is rapidly absorbed and converte
 Dabigatran is a potent, competitive, reversible direct thrombin inhibitor and is the main active principle in plasma.
 Since thrombin (serine protease) enables the conversion of fibrinogen into fibrin during the coagulation cascade, its inhibition prevents the development of thrombus.
 Dabigatran also inhibits free thrombin, fibrin-bound thrombin and thrombin-induced platelet aggregation.
+
 Pharmacodynamic effects
 In-vivo and ex-vivo animal studies have demonstrated antithrombotic efficacy and anticoagulant activity of dabigatran after intravenous administration and of dabigatran etexilate after oral administration in various animal models of thrombosis.
 
@@ -45,6 +46,7 @@ Clinical trials in Venous Thromboembolism (VTE) prophylaxis following major join
 In 2 large randomized, parallel group, double-blind, dose-confirmatory trials, patients undergoing elective major orthopaedic surgery (one for knee replacement surgery and one for hip replacement surgery) received Pradaxa 75 mg or 110 mg within 1-4 hours of surgery followed by 150 mg or 220 mg daily thereafter, haemostasis having been secured, or enoxaparin 40 mg on the day prior to surgery and daily thereafter.
 In the RE-MODEL trial (knee replacement) treatment was for 6-10 days and in the RE-NOVATE trial (hip replacement) for 28-35 days.
 Totals of 2,076 patients (knee) and 3,494 (hip) were treated respectively.
+
 Composite of total VTE (including PE, proximal and distal DVT, whatever symptomatic or asymptomatic detected by routine venography) and all-cause mortality constituted the primary end-point for both studies.
 Composite of major VTE (including PE and proximal DVT, whatever symptomatic or asymptomatic detected by routine venography) and VTE-related mortality constituted a secondary end-point and is considered of better clinical relevance.
 Results of both studies showed that the antithrombotic effect of Pradaxa 220 mg and 150 mg were statistically non-inferior to that of enoxaparin on total VTE and all-cause mortality.
@@ -270,7 +272,6 @@ The relative risk of bleeding with dabigatran compared to warfarin increased wit
 Relative risk was highest in patients ≥ 75 years.
 The concomitant use of antiplatelets ASA or clopidogrel approximately doubles MBE rates with both dabigatran etexilate and warfarin.
 There was no significant interaction of treatment effects with the subgroups of renal function and CHADS2 score.
-
 Table 14: Hazard Ratio and 95 % CI for major bleeds by subgroups
 
 | Endpoint | Dabigatran etexilate 110 mg twice daily vs. Warfarin | Dabigatran etexilate 150 mg twice daily vs. Warfarin |

@@ -2,8 +2,8 @@
 
 Summary of the safety profile
 
-A total of 10,084 patients were treated in 4 actively controlled VTE prevention trials with at least one dose of the medicinal product.
-Of these 5,419 were treated with 150 mg or 220 mg daily of Pradaxa, while 389 received doses less than 150 mg daily and 1,168 received doses in excess of 220 mg daily.
+A total of 10,795 patients were treated in 6 actively controlled VTE prevention trials with at least one dose of the medicinal product.
+Of these 6,684 were treated with 150 mg or 220 mg daily of Pradaxa.
 
 The most commonly reported adverse reactions are bleedings occurring in total in approximately 14 % of patients; the frequency of major bleeds (including wound site bleedings) is less than 2 %.
 
@@ -13,72 +13,70 @@ Tabulated list of adverse reactions
 
 Table 4 shows the adverse reactions ranked under headings of System Organ Classes (SOC) and frequency using the following convention: very common (≥ 1/10), common (≥1 /100 to <1 /10), uncommon (≥ 1/1,000 to <1 /100), rare (≥1 /10,000 to <1 /1,000), very rare (<1 /10,000), not known (cannot be estimated from the available data).
 
-| SOC / Preferred term. | Dabigatran etexilate 150 mg | Dabigatran etexilate 220 mg |
-| --- | --- | --- |
-| Number of patients treated | 2,737 | 2,682 |
-| Blood and lymphatic system disorders |  |  |
-| Anaemia | Common | Common |
-| Haemoglobin decreased | Common | Common |
-| Thrombocytopenia | Uncommon | Uncommon |
-| Haematocrit decreased | Uncommon | Uncommon |
-| Immune system disorder |  |  |
-| Drug hypersensitivity | Uncommon | Uncommon |
-| Pruritus | Uncommon | Uncommon |
-| Rash | Uncommon | Uncommon |
-| Anaphylactic reaction | Rare | Rare |
-| Angioedema | Rare | Rare |
-| Urticaria | Rare | Rare |
-| Bronchospasm | Not known | Not known |
-| Nervous system disorders |  |  |
-| Intracranial haemorrhage | Uncommon | Uncommon |
-| Vascular disorders |  |  |
-| Haematoma | Uncommon | Uncommon |
-| Haemorrhage | Uncommon | Uncommon |
-| Wound haemorrhage | Uncommon | Uncommon |
-| Respiratory, thoracic and mediastinal disorders |  |  |
-| Epistaxis | Common | Common |
-| Haemoptysis | Uncommon | Uncommon |
-| Gastrointestinal disorders |  |  |
-| Gastrointestinal haemorrhage | Common | Common |
-| Abdominal pain | Common | Common |
-| Diarrhoea | Common | Common |
-| Dyspepsia | Common | Common |
-| Nausea | Common | Common |
-| Rectal haemorrhage | Uncommon | Uncommon |
-| Haemorrhoidal haemorrhage | Uncommon | Uncommon |
-| Gastrointestinal ulcer | Uncommon | Uncommon |
-| Gastroesophagitis | Uncommon | Uncommon |
-| Gastroesophageal reflux disease | Uncommon | Uncommon |
-| Vomiting | Uncommon | Uncommon |
-| Dysphagia | Uncommon | Uncommon |
-| Hepatobiliary disorders |  |  |
-| Hepatic function abnormal/ Liver function Test abnormal | Common | Common |
-| Alanine aminotransferase increased | Uncommon | Uncommon |
-| Aspartate aminotransferase increased | Uncommon | Uncommon |
-| Hepatic enzyme increased | Uncommon | Uncommon |
-| Hyperbilirubinaemia | Uncommon | Uncommon |
-| Skin and subcutaneous tissue disorder |  |  |
-| Skin haemorrhage | Uncommon | Uncommon |
-| Musculoskeletal and connective tissue disorders |  |  |
-| Haemarthrosis | Uncommon | Uncommon |
-| Renal and urinary disorders |  |  |
-| Genitourological haemorrhage | Common | Common |
-| Haematuria | Uncommon | Uncommon |
-| General disorders and administration site conditions |  |  |
-| Injection site haemorrhage | Rare | Rare |
-| Catheter site haemorrhage | Rare | Rare |
-| Bloody discharge | Rare | Rare |
-| Injury, poisoning and procedural complications |  |  |
-| Incision site haemorrhage | Uncommon | Uncommon |
-| Traumatic haemorrhage | Uncommon | Uncommon |
-| Post procedural haematoma | Uncommon | Uncommon |
-| Post procedural haemorrhage | Uncommon | Uncommon |
-| Anaemia postoperative | Uncommon | Uncommon |
-| Post procedural discharge | Uncommon | Uncommon |
-| Wound secretion | Uncommon | Uncommon |
-| Surgical and medical procedures |  |  |
-| Wound drainage | Rare | Rare |
-| Post procedural drainage | Rare | Rare |
+| SOC / Preferred term. |  |
+| --- | --- |
+| Blood and lymphatic system disorders |  |
+| Haemoglobin decreased | Common |
+| Anaemia | Uncommon |
+| Haematocrit decreased | Uncommon |
+| Thrombocytopenia | Rare |
+| Immune system disorder |  |
+| Drug hypersensitivity | Uncommon |
+| Anaphylactic reaction | Rare |
+| Angioedema | Rare |
+| Urticaria | Rare |
+| Rash | Rare |
+| Pruritus | Rare |
+| Bronchospasm | Not known |
+| Nervous system disorders |  |
+| Intracranial haemorrhage | Rare |
+| Vascular disorders |  |
+| Haematoma | Uncommon |
+| Wound haemorrhage | Uncommon |
+| Haemorrhage | Rare |
+| Respiratory, thoracic and mediastinal disorders |  |
+| Epistaxis | Uncommon |
+| Haemoptysis | Rare |
+| Gastrointestinal disorders |  |
+| Gastrointestinal haemorrhage | Uncommon |
+| Rectal haemorrhage | Uncommon |
+| Haemorrhoidal haemorrhage | Uncommon |
+| Diarrhoea | Uncommon |
+| Nausea | Uncommon |
+| Vomiting | Uncommon |
+| Gastrointestinal ulcer | Rare |
+| Gastroesophagitis | Rare |
+| Gastroesophageal reflux disease | Rare |
+| Abdominal pain | Rare |
+| Dyspepsia | Rare |
+| Dysphagia | Rare |
+| Hepatobiliary disorders |  |
+| Hepatic function abnormal/ Liver function Test abnormal | Common |
+| Alanine aminotransferase increased | Uncommon |
+| Aspartate aminotransferase increased | Uncommon |
+| Hepatic enzyme increased | Uncommon |
+| Hyperbilirubinaemia | Uncommon |
+| Skin and subcutaneous tissue disorder |  |
+| Skin haemorrhage | Uncommon |
+| Musculoskeletal and connective tissue disorders |  |
+| Haemarthrosis | Uncommon |
+| Renal and urinary disorders |  |
+| Genitourological haemorrhage, including haematuria | Uncommon |
+| General disorders and administration site conditions |  |
+| Injection site haemorrhage | Rare |
+| Catheter site haemorrhage | Rare |
+| Bloody discharge | Rare |
+| Injury, poisoning and procedural complications |  |
+| Traumatic haemorrhage | Uncommon |
+| Post procedural haematoma | Uncommon |
+| Post procedural haemorrhage | Uncommon |
+| Post procedural discharge | Uncommon |
+| Wound secretion | Uncommon |
+| Incision site haemorrhage | Rare |
+| Anaemia postoperative | Rare |
+| Surgical and medical procedures |  |
+| Wound drainage | Rare |
+| Post procedural drainage | Rare |
 
 Bleeding
 
@@ -103,8 +101,9 @@ Objective testing was required for a retroperitoneal bleed (ultrasound or Comput
 
 [Pradaxa 110 mg hard capsules]
 
-In the pivotal study investigating the prevention of stroke and SEE in patients with atrial fibrillation, a total of 12,091 patients were randomized to dabigatran etexilate.
+In the pivotal study investigating the prevention of stroke and SEE in patients with atrial fibrillation, a total of 12,042 patients were treated with dabigatran etexilate.
 Of these 6,059 were treated with 150 mg twice daily of dabigatran etexilate, while 5,983 received doses of 110 mg twice daily.
+
 In total, about 9 % of patients treated for elective hip or knee surgery (short-term treatment for up to 42 days) and 22 % of patient with atrial fibrillation treated for the prevention of stroke and SEE (long-term treatment for up to 3 years) experienced adverse reactions.
 
 The most commonly reported adverse reactions are bleedings occurring in total in approximately 14 % of patients treated short-term for elective hip or knee replacement surgery, and 16,5 % in patients with atrial fibrillation treated for the prevention of stroke and SEE.
@@ -116,74 +115,70 @@ Although low in frequency in clinical trials, major or severe bleeding may occur
 Table 4 shows the adverse reactions identified from the primary VTE prevention studies after hip or knee replacement surgery and the prevention of thromboembolic stroke and SEE in patients with atrial fibrillation program ranked under headings of SOC and frequency using the following convention: very common (≥ 1/10), common (≥1 /100 to <1 /10), uncommon (≥ 1/1,000 to <1 /100), rare
 (≥1 /10,000 to <1 /1,000), very rare (<1 /10,000), not known (cannot be estimated from the available data).
 
-|  | Primary VTE prevention after hip or knee replacement surgery |  | Stroke and SEE prevention in patients with atrial fibrillation |  |
-| --- | --- | --- | --- | --- |
-| SOC / Preferred term. | Dabigatran etexilate 150 mg once daily | Dabigatran etexilate 220 mg once daily | Dabigatran etexilate 110 mg twice daily | Dabigatran etexilate 150 mg twice daily |
-| Number of patients treated | 2,737 | 2,682 | 5,983 | 6,059 |
-| Blood and lymphatic system disorders |  |  |  |  |
-| Anaemia | Common | Common | Common | Common |
-| Haemoglobin decreased | Common | Common | Uncommon | Uncommon |
-| Thrombocytopenia | Uncommon | Uncommon | Uncommon | Uncommon |
-| Haematocrit decreased | Uncommon | Uncommon | Rare | Rare |
-| Immune system disorder |  |  |  |  |
-| Drug hypersensitivity | Uncommon | Uncommon | Uncommon | Uncommon |
-| Rash | Uncommon | Uncommon | Uncommon | Uncommon |
-| Pruritus | Uncommon | Uncommon | Uncommon | Uncommon |
-| Anaphylactic reaction | Rare | Rare | Rare | Rare |
-| Angioedema | Rare | Rare | Rare | Rare |
-| Urticaria | Rare | Rare | Rare | Rare |
-| Bronchospasm | Not known | Not known | Not known | Not known |
-| Nervous system disorders |  |  |  |  |
-| Intracranial haemorrhage | Uncommon | Uncommon | Uncommon | Uncommon |
-| Vascular disorders |  |  |  |  |
-| Haematoma | Uncommon | Uncommon | Uncommon | Uncommon |
-| Wound haemorrhage | Uncommon | Uncommon | - | - |
-| Haemorrhage | Uncommon | Uncommon | Uncommon | Uncommon |
-| Respiratory, thoracic and mediastinal disorders |  |  |  |  |
-| Epistaxis | Common | Common | Common | Common |
-| Haemoptysis | Uncommon | Uncommon | Uncommon | Uncommon |
-| Gastrointestinal disorders |  |  |  |  |
-| Gastrointestinal haemorrhage | Common | Common | Common | Common |
-| Abdominal pain | Common | Common | Common | Common |
-| Diarrhoea | Common | Common | Common | Common |
-| Dyspepsia | Common | Common | Common | Common |
-| Nausea | Common | Common | Common | Common |
-| Rectal haemorrhage | Uncommon | Uncommon | Uncommon | Uncommon |
-| Haemorrhoidal haemorrhage | Uncommon | Uncommon | Uncommon | Uncommon |
-| Gastrointestinal ulcer | Uncommon | Uncommon | Uncommon | Uncommon |
-| Gastroesophagitis | Uncommon | Uncommon | Uncommon | Uncommon |
-| Gastroesophageal reflux disease | Uncommon | Uncommon | Uncommon | Uncommon |
-| Vomiting | Uncommon | Uncommon | Uncommon | Uncommon |
-| Dysphagia | Uncommon | Uncommon | Uncommon | Uncommon |
-| Hepatobiliary disorders |  |  |  |  |
-| Hepatic function abnormal/ Liver function Test abnormal | Common | Common | Common | Common |
-| Alanine aminotransferase increased | Uncommon | Uncommon | Uncommon | Uncommon |
-| Aspartate aminotransferase increased | Uncommon | Uncommon | Uncommon | Uncommon |
-| Hepatic enzyme increased | Uncommon | Uncommon | Rare | Rare |
-| Transaminases increased | Uncommon | Uncommon | - | - |
-| Hyperbilirubinaemia | Uncommon | Uncommon | Rare | Rare |
-| Skin and subcutaneous tissue disorder |  |  |  |  |
-| Skin haemorrhage | Uncommon | Uncommon | Uncommon | Uncommon |
-| Musculoskeletal and connective tissue disorders |  |  |  |  |
-| Haemarthrosis | Uncommon | Uncommon | Rare | Rare |
-| Renal and urinary disorders |  |  |  |  |
-| Genitourological haemorrhage | Common | Common | Common | Common |
-| Haematuria | Uncommon | Uncommon | Uncommon | Uncommon |
-| General disorders and administration site conditions |  |  |  |  |
-| Injection site haemorrhage | Rare | Rare | Rare | Rare |
-| Catheter site haemorrhage | Rare | Rare | Rare | Rare |
-| Bloody discharge | Rare | Rare | - | - |
-| Injury, poisoning and procedural complications |  |  |  |  |
-| Traumatic Haemorrhage | Uncommon | Uncommon | Uncommon | Uncommon |
-| Post procedural haematoma | Uncommon | Uncommon | - | - |
-| Post procedural haemorrhage | Uncommon | Uncommon | - | - |
-| Anaemia postoperative | Uncommon | Uncommon | - | - |
-| Post procedural discharge | Uncommon | Uncommon | - | - |
-| Wound secretion | Uncommon | Uncommon | - | - |
-| Incision site haemorrhage | Uncommon | Uncommon | Uncommon | Uncommon |
-| Surgical and medical procedures |  |  |  |  |
-| Wound drainage | Rare | Rare | - | - |
-| Post procedural drainage | Rare | Rare | - | - |
+| SOC / Preferred term. | Primary VTE prevention after hip or knee replacement surgery | Stroke and SEE prevention in patients with atrial fibrillation |
+| --- | --- | --- |
+| Blood and lymphatic system disorders |  |  |
+| Anaemia | Uncommon | Common |
+| Haemoglobin decreased | Common | Uncommon |
+| Thrombocytopenia | Rare | Uncommon |
+| Haematocrit decreased | Uncommon | Rare |
+| Immune system disorder |  |  |
+| Drug hypersensitivity | Uncommon | Uncommon |
+| Rash | Rare | Uncommon |
+| Pruritus | Rare | Uncommon |
+| Anaphylactic reaction | Rare | Rare |
+| Angioedema | Rare | Rare |
+| Urticaria | Rare | Rare |
+| Bronchospasm | Not known | Not known |
+| Nervous system disorders |  |  |
+| Intracranial haemorrhage | Rare | Uncommon |
+| Vascular disorders |  |  |
+| Haematoma | Uncommon | Uncommon |
+| Haemorrhage | Rare | Uncommon |
+| Wound haemorrhage | Uncommon | - |
+| Respiratory, thoracic and mediastinal disorders |  |  |
+| Epistaxis | Uncommon | Common |
+| Haemoptysis | Rare | Uncommon |
+| Gastrointestinal disorders |  |  |
+| Gastrointestinal haemorrhage | Uncommon | Common |
+| Abdominal pain | Rare | Common |
+| Diarrhoea | Uncommon | Common |
+| Dyspepsia | Rare | Common |
+| Nausea | Uncommon | Common |
+| Rectal haemorrhage | Uncommon | Uncommon |
+| Haemorrhoidal haemorrhage | Uncommon | Uncommon |
+| Gastrointestinal ulcer | Rare | Uncommon |
+| Gastroesophagitis | Rare | Uncommon |
+| Gastroesophageal reflux disease | Rare | Uncommon |
+| Vomiting | Uncommon | Uncommon |
+| Dysphagia | Rare | Uncommon |
+| Hepatobiliary disorders |  |  |
+| Hepatic function abnormal/ Liver function Test abnormal | Common | Uncommon |
+| Alanine aminotransferase increased | Uncommon | Uncommon |
+| Aspartate aminotransferase increased | Uncommon | Uncommon |
+| Hepatic enzyme increased | Uncommon | Rare |
+| Hyperbilirubinaemia | Uncommon | Rare |
+| Skin and subcutaneous tissue disorder |  |  |
+| Skin haemorrhage | Uncommon | Common |
+| Musculoskeletal and connective tissue disorders |  |  |
+| Haemarthrosis | Uncommon | Rare |
+| Renal and urinary disorders |  |  |
+| Genitourological haemorrhage, including haematuria | Uncommon | Common |
+| General disorders and administration site conditions |  |  |
+| Injection site haemorrhage | Rare | Rare |
+| Catheter site haemorrhage | Rare | Rare |
+| Bloody discharge | Rare | - |
+| Injury, poisoning and procedural complications |  |  |
+| Traumatic haemorrhage | Uncommon | Rare |
+| Incision site haemorrhage | Rare | Rare |
+| Post procedural haematoma | Uncommon | - |
+| Post procedural haemorrhage | Uncommon | - |
+| Anaemia postoperative | Rare | - |
+| Post procedural discharge | Uncommon | - |
+| Wound secretion | Uncommon | - |
+| Surgical and medical procedures |  |  |
+| Wound drainage | Rare | - |
+| Post procedural drainage | Rare | - |
 
 Prevention of VTE
 
@@ -228,70 +223,65 @@ In the RE-LY study, in comparison to warfarin the annual myocardial infarction r
 
 [Pradaxa 150 mg hard capsules]
 
-In the pivotal study investigating the prevention of stroke and SEE in patients with atrial fibrillation, a total of 12,091 patients were randomized.
-
 In total, 22 % of patient with atrial fibrillation treated for the prevention of stroke and SEE (long-term treatment for up to 3 years) experienced adverse reactions.
 
 The most commonly reported adverse reactions are bleedings occurring in total in approximately 16,5 % in patients with atrial fibrillation treated for the prevention of stroke and SEE.
 
-Table 4 shows the adverse reactions identified from the prevention of thromboembolic stroke and SEE in patients with atrial fibrillation program ranked under headings of System Organ Class (SOC) and frequency using the following convention.very common (≥ 1/10), common (≥1 /100 to <1 /10), uncommon (≥ 1/1,000 to <1 /100), rare (≥1 /10,000 to <1 /1,000), very rare (<1 /10,000), not known (cannot be estimated from the available data)
+Table 4 shows the adverse reactions identified from the prevention of thromboembolic stroke and SEE in patients with atrial fibrillation program ranked under headings of System Organ Class (SOC) and frequency using the following convention.very common (≥ 1/10), common (≥1 /100 to <1 /10), uncommon (≥ 1/1,000 to <1 /100), rare (≥1 /10,000 to <1 /1,000), very rare (<1 /10,000), not known (cannot be estimated from the available data).
 
-|  | Stroke and SEE prevention in patients with atrial fibrillation |  |
-| --- | --- | --- |
-| SOC / Preferred term. | Dabigatran etexilate 110 mg twice daily | Dabigatran etexilate 150 mg twice daily |
-| Number of patients treated | 5,983 | 6,059 |
-| Blood and lymphatic system disorders |  |  |
-| Anaemia | Common | Common |
-| Haemoglobin decreased | Uncommon | Uncommon |
-| Thrombocytopenia | Uncommon | Uncommon |
-| Haematocrit decreased | Rare | Rare |
-| Immune system disorder |  |  |
-| Drug hypersensitivity | Uncommon | Uncommon |
-| Rash | Uncommon | Uncommon |
-| Pruritus | Uncommon | Uncommon |
-| Anaphylactic reaction | Rare | Rare |
-| Angioedema | Rare | Rare |
-| Urticaria | Rare | Rare |
-| Bronchospasm | Not known | Not known |
-| Nervous system disorders |  |  |
-| Intracranial haemorrhage | Uncommon | Uncommon |
-| Vascular disorders |  |  |
-| Haematoma | Uncommon | Uncommon |
-| Haemorrhage | Uncommon | Uncommon |
-| Respiratory, thoracic and mediastinal disorders |  |  |
-| Epistaxis | Common | Common |
-| Haemoptysis | Uncommon | Uncommon |
-| Gastrointestinal disorders |  |  |
-| Gastrointestinal haemorrhage | Common | Common |
-| Abdominal pain | Common | Common |
-| Diarrhoea | Common | Common |
-| Dyspepsia | Common | Common |
-| Nausea | Common | Common |
-| Rectal haemorrhage | Uncommon | Uncommon |
-| Haemorrhoidal haemorrhage | Uncommon | Uncommon |
-| Gastrointestinal ulcer | Uncommon | Uncommon |
-| Gastroesophagitis | Uncommon | Uncommon |
-| Gastroesophageal reflux disease | Uncommon | Uncommon |
-| Vomiting | Uncommon | Uncommon |
-| Dysphagia | Uncommon | Uncommon |
-| Hepatobiliary disorders |  |  |
-| Hepatic function abnormal/ Liver function Test abnormal | Common | Common |
-| Alanine aminotransferase increased | Uncommon | Uncommon |
-| Aspartate aminotransferase increased | Uncommon | Uncommon |
-| Hepatic enzyme increased | Rare | Rare |
-| Hyperbilirubinaemia | Rare | Rare |
-| Skin and subcutaneous tissue disorder |  |  |
-| Skin haemorrhage | Uncommon | Uncommon |
-| Musculoskeletal and connective tissue disorders |  |  |
-| Haemarthrosis | Rare | Rare |
-| Renal and urinary disorders |  |  |
-| Genitourological haemorrhage | Common | Common |
-| Haematuria | Uncommon | Uncommon |
-| General disorders and administration site conditions |  |  |
-| Injection site haemorrhage | Rare | Rare |
-| Catheter site haemorrhage | Rare | Rare |
-| Injury, poisoning and procedural complications |  |  |
-| Traumatic haemorrhage | Uncommon | Uncommon |
-| Incision site haemorrhage | Uncommon | Uncommon |
+| SOC / Preferred term. |  |
+| --- | --- |
+| Blood and lymphatic system disorders |  |
+| Anaemia | Common |
+| Haemoglobin decreased | Uncommon |
+| Thrombocytopenia | Uncommon |
+| Haematocrit decreased | Rare |
+| Immune system disorder |  |
+| Drug hypersensitivity | Uncommon |
+| Rash | Uncommon |
+| Pruritus | Uncommon |
+| Anaphylactic reaction | Rare |
+| Angioedema | Rare |
+| Urticaria | Rare |
+| Bronchospasm | Not known |
+| Nervous system disorders |  |
+| Intracranial haemorrhage | Uncommon |
+| Vascular disorders |  |
+| Haematoma | Uncommon |
+| Haemorrhage | Uncommon |
+| Respiratory, thoracic and mediastinal disorders |  |
+| Epistaxis | Common |
+| Haemoptysis | Uncommon |
+| Gastrointestinal disorders |  |
+| Gastrointestinal haemorrhage | Common |
+| Abdominal pain | Common |
+| Diarrhoea | Common |
+| Dyspepsia | Common |
+| Nausea | Common |
+| Rectal haemorrhage | Uncommon |
+| Haemorrhoidal haemorrhage | Uncommon |
+| Gastrointestinal ulcer | Uncommon |
+| Gastroesophagitis | Uncommon |
+| Gastroesophageal reflux disease | Uncommon |
+| Vomiting | Uncommon |
+| Dysphagia | Uncommon |
+| Hepatobiliary disorders |  |
+| Hepatic function abnormal/ Liver function Test abnormal | Uncommon |
+| Alanine aminotransferase increased | Uncommon |
+| Aspartate aminotransferase increased | Uncommon |
+| Hepatic enzyme increased | Rare |
+| Hyperbilirubinaemia | Rare |
+| Skin and subcutaneous tissue disorder |  |
+| Skin haemorrhage | Common |
+| Musculoskeletal and connective tissue disorders |  |
+| Haemarthrosis | Rare |
+| Renal and urinary disorders |  |
+| Genitourological haemorrhage, including haematuria | Common |
+| General disorders and administration site conditions |  |
+| Injection site haemorrhage | Rare |
+| Catheter site haemorrhage | Rare |
+| Injury, poisoning and procedural complications |  |
+| Traumatic haemorrhage | Rare |
+| Incision site haemorrhage | Rare |
 
 The table 5 shows bleeding events broken down to major and any bleeding in the pivotal study testing the prevention of thromboembolic stroke and SEE in patients with atrial fibrillation.

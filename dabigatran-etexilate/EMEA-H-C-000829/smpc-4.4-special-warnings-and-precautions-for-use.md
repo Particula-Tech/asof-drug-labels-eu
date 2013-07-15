@@ -12,7 +12,9 @@ Bleeding can occur at any site during therapy with dabigatran etexilate.
 An unexplained fall in haemoglobin and/or haematocrit or blood pressure should lead to a search for a bleeding site.
 
 Factors, such as decreased renal function (30-50 mL/min CrCL), age ≥ 75 years, low body weight
-< 50 kg, or strong P-gp inhibitor co-medication (e.g. amiodarone, quinidine or verapamil) are associated with increased dabigatran plasma levels (see sections 4.2, 4.5 and 5.2).
+< 50 kg, or mild to moderate P-gp inhibitor co-medication (e.g. amiodarone, quinidine or verapamil) are associated with increased dabigatran plasma levels (see sections 4.2, 4.5 and 5.2).
+
+The concomitant use of ticagrelor increases the exposure to dabigatran and may show pharmacodynamic interaction, which may result in an increased risk of bleeding (see section 4.5).
 
 Use of acetylsalicylic acid (ASA), clopidogrel or non steroidal antiinflammatory drug (NSAID), as well as the presence of esophagitis, gastritis or gastroesophageal reflux increase the risk of GI bleeding.
 The administration of a PPI can be considered to prevent GI bleeding.
@@ -26,8 +28,7 @@ Please also refer to contraindications in section 4.3.
 
 | Pharmacodynamic and kinetic factors | Age ≥ 75 years |
 | --- | --- |
-| Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment |
-|  | (30-50 mL/min CrCL) • P-gp inhibitor co-medication (some P-gp inhibitors are contraindicated, see section 4.3 and 4.5) Minor: • Low body weight (< 50 kg) |
+| Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment (30-50 mL/min CrCL) • P-gp inhibitor co-medication (some P-gp inhibitors are contraindicated, see section 4.3 and 4.5) Minor: • Low body weight (< 50 kg) |
 | Pharmacodynamic interactions | • ASA • NSAID • Clopidogrel • SSRIs or SNRIs • Other drugs which may impair haemostasis |
 | Diseases / procedures with special haemorrhagic risks | • Congenital or acquired coagulation disorders • Thrombocytopenia or functional platelet defects • Recent biopsy, major trauma • Bacterial endocarditis • Esophagitis, gastritis or gastroesophageal reflux |
 
@@ -155,7 +156,8 @@ Use of acetylsalicylic acid (ASA), clopidogrel or non steroidal antiinflammatory
 
 | Pharmacodynamic and kinetic factors | Age ≥ 75 years |
 | --- | --- |
-| Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment (30-50 mL/min CrCL) • P-gp inhibitor co-medication (some P-gp inhibitors are contraindicated, see section 4.3 and 4.5) Minor: • Low body weight (< 50 kg) |
+| Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment (30-50 mL/min CrCL) • P-gp inhibitor co-medication (some P-gp inhibitors are contraindicated, see section 4.3 and 4.5) |
+|  | Minor: • Low body weight (< 50 kg) |
 | Pharmacodynamic interactions | • ASA • NSAID • Clopidogrel • SSRIs or SNRIs • Other drugs which may impair haemostasis |
 | Diseases / procedures with special haemorrhagic risks | • Congenital or acquired coagulation disorders • Thrombocytopenia or functional platelet defects • Recent biopsy, major trauma • Bacterial endocarditis • Esophagitis, gastritis or gastroesophageal reflux |
 
