@@ -40,7 +40,7 @@ Within each system organ class, adverse reactions are presented in order of decr
 | Eye disorders |  | Eye bleeding (conjunctival, ocular, retinal) |  |  |
 | Ear and labyrinth disorders |  |  | Vertigo |  |
 | Vascular disorders | Haematoma |  |  | Serious haemorrhage, haemorrhage of operative wound, vasculitis, hypotension |
-| Respiratory, thoracic and mediastinal disorders | Epistaxis |  |  | Respiratory tract bleeding (haemoptysis, pulmonary haemorrhage), bronchospasm, interstitial pneumonitis |
+| Respiratory, thoracic and mediastinal disorders | Epistaxis |  |  | Respiratory tract bleeding (haemoptysis, pulmonary haemorrhage), bronchospasm, interstitial pneumonitis, eosinophilic pneumonia |
 | Gastrointestinal disorders | Gastrointestinal haemorrhage, diarrhoea, abdominal pain, dyspepsia | Gastric ulcer and duodenal ulcer, gastritis, vomiting, nausea, constipation, flatulence | Retroperitoneal haemorrhage | Gastrointestinal and retroperitoneal haemorrhage with fatal outcome, pancreatitis, colitis (including ulcerative or lymphocytic colitis), stomatitis |
 | Hepato-biliary disorders |  |  |  | Acute liver failure, hepatitis, abnormal liver function test |
 | Skin and subcutaneous tissue disorders | Bruising | Rash, pruritus, skin bleeding (purpura) |  | Bullous dermatitis (toxic epidermal necrolysis, Stevens Johnson Syndrome, erythema multiforme), angioedema, drug-induced hypersensitivity syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), rash erythematous, urticaria, eczema, lichen planus |

@@ -39,7 +39,6 @@ In addition, a subgroup analysis by age suggested that the benefit of clopidogre
 Since the CAPRIE trial was not powered to evaluate efficacy of individual subgroups, it is not clear whether the differences in relative risk reduction across qualifying conditions are real, or a result of chance.
 
 Acute coronary syndrome
-
 The CURE study included 12,562 patients with non-ST segment elevation acute coronary syndrome (unstable angina or non-Q-wave myocardial infarction), and presenting within 24 hours of onset of the most recent episode of chest pain or symptoms consistent with ischaemia.
 Patients were required to have either ECG changes compatible with new ischaemia or elevated cardiac enzymes or troponin I or T to at least twice the upper limit of normal.
 Patients were randomised to clopidogrel (300 mg loading dose followed by 75 mg/day, N=6,259) or placebo (N=6,303), both given in combination with ASA (75-325 mg once daily) and other standard therapies.
@@ -104,11 +103,11 @@ The mean CHADS2 score was 2.0 (range 0-6).
 The major exclusion criteria for patients were documented peptic ulcer disease within the previous 6 months; prior intracerebral hemorrhage; significant thrombocytopenia (platelet count < 50 x 109/l); requirement for clopidogrel or oral anticoagulants (OAC); or intolerance to any of the two compounds.
 
 Seventy-three percent (73%) of patients enrolled into the ACTIVE-A study were unable to take VKA due to physician assessment, inability to comply with INR (international normalised ratio) monitoring, predisposition to falling or head trauma, or specific risk of bleeding; for 26% of the patients, the physician’s decision was based on the patient’s unwillingness to take VKA.
-
 The patient population included 41.8 % women.
 The mean age was 71 years, 41.6% of patients were
 ≥75 years.
 A total of 23.0% of patients received anti-arrhythmics, 52.1% beta-blockers, 54.6% ACE inhibitors, and 25.4% statins.
+
 The number of patients who reached the primary endpoint (time to first occurrence of stroke, MI, non-CNS systemic embolism or vascular death) was 832 (22.1%) in the group treated with clopidogrel + ASA and 924 (24.4%) in the placebo + ASA group (relative risk reduction of 11.1%; 95% CI of 2.4% to 19.1%; p=0.013), primarily due to a large reduction in the incidence of strokes.
 Strokes occurred in 296 (7.8%) patients receiving clopidogrel + ASA and 408 (10.8%) patients receiving placebo + ASA (relative risk reduction, 28.4%; 95% CI, 16.8% to 38.3%; p=0.00001).
 
