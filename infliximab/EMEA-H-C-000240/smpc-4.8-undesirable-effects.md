@@ -7,7 +7,7 @@ The most serious ADRs associated with the use of TNF blockers that have been rep
 Tabulated list of adverse reactions
 Table 1 lists ADRs based on experience from clinical studies as well as adverse reactions, some with fatal outcome, reported from post-marketing experience.
 Within the organ system classes, adverse reactions are listed under headings of frequency using the following categories: very common
-(≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to
+(≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to
 < 1/1,000); very rare (< 1/10,000), not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
@@ -72,6 +72,7 @@ Skin and subcutaneous tissue disorders
 Common: New onset or worsening psoriasis including pustular psoriasis (primarily palm & soles), urticaria, rash, pruritus, hyperhidrosis, dry skin, fungal dermatitis, eczema, alopecia.
 Uncommon: Bullous eruption, onychomycosis, seborrhoea, rosacea, skin papilloma, hyperkeratosis, abnormal skin pigmentation.
 Rare: Toxic epidermal necrolysis, Stevens-Johnson Syndrome, erythema multiforme, furunculosis.
+Not known: Worsening of symptoms of dermatomyositis
 Musculoskeletal and connective tissue disorders
 Common: Arthralgia, myalgia, back pain.
 Renal and urinary disorders
@@ -167,7 +168,7 @@ In addition, rare post-marketing cases of hepatosplenic T-cell lymphoma have bee
 
 Heart failure
 In a Phase II study aimed at evaluating Remicade in congestive heart failure (CHF), higher incidence of mortality due to worsening of heart failure were seen in patients treated with Remicade, especially those treated with the higher dose of 10 mg/kg (i.e. twice the maximum approved dose).
-In this study 150 patients with NYHA Class III-IV CHF (left ventricular ejection fraction ≤35%) were treated with 3 infusions of Remicade 5 mg/kg, 10 mg/kg, or placebo over 6 weeks.
+In this study 150 patients with NYHA Class III-IV CHF (left ventricular ejection fraction ≤ 35%) were treated with 3 infusions of Remicade 5 mg/kg, 10 mg/kg, or placebo over 6 weeks.
 At 38 weeks, 9 of 101 patients treated with Remicade (2 at 5 mg/kg and 7 at 10 mg/kg) died compared to one death among the 49 patients on placebo.
 There have been post-marketing reports of worsening heart failure, with and without identifiable precipitating factors, in patients taking Remicade.
 There have also been rare post-marketing reports of new onset heart failure, including heart failure in patients without known pre-existing cardiovascular disease.
@@ -175,7 +176,7 @@ Some of these patients have been under 50 years of age.
 
 Hepatobiliary events
 In clinical studies, mild or moderate elevations of ALT and AST have been observed in patients receiving Remicade without progression to severe hepatic injury.
-Elevations of ALT ≥5 x Upper Limit of Normal (ULN) have been observed (see Table 2).
+Elevations of ALT ≥ 5 x Upper Limit of Normal (ULN) have been observed (see Table 2).
 Elevations of aminotransferases were observed (ALT more common than AST) in a greater proportion of patients receiving Remicade than in controls, both when Remicade was given as monotherapy and when it was used in combination with other immunosuppressive agents.
 Most aminotransferase abnormalities were transient; however, a small number of patients experienced more prolonged elevations.
 In general, patients who developed ALT and AST elevations were asymptomatic, and the abnormalities decreased or resolved with either continuation or discontinuation of Remicade, or modification of concomitant therapy.
@@ -184,7 +185,7 @@ In post-marketing surveillance, very rare cases of jaundice and hepatitis, some 
 Table 2
 Proportion of patients with increased ALT activity in clinical studies
 
-| Indication | Number of patients3 |  | Median follow-up (wks)4 |  | ≥3 x ULN |  | ≥5 x ULN |  |
+| Indication | Number of patients3 |  | Median follow-up (wks)4 |  | ≥ 3 x ULN |  | ≥ 5 x ULN |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | placebo | infliximab | placebo | infliximab | placebo | infliximab | placebo | infliximab |
 | Rheumatoid arthritis1 | 375 | 1,087 | 58.1 | 58.3 | 3.2% | 3.9% | 0.8% | 0.9% |
@@ -272,6 +273,6 @@ Post-marketing experience
 Post-marketing spontaneous serious adverse events with infliximab in the paediatric population have included malignancies including hepatosplenic T-cell lymphomas, transient hepatic enzyme abnormalities, lupus-like syndromes, and positive auto-antibodies (see sections 4.4 and 4.8).
 
 Additional information on special populations
-Elderly patients (≥65 years)
+Elderly patients (≥ 65 years)
 In rheumatoid arthritis clinical studies, the incidence of serious infections was greater in infliximab plus methotrexate-treated patients 65 years and older (11.3%) than in those under 65 years of age (4.6%).
 In patients treated with methotrexate alone, the incidence of serious infections was 5.2% in patients 65 years and older compared to 2.7% in patients under 65 (see section 4.4).

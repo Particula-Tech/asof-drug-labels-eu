@@ -8,7 +8,7 @@ Patients treated with Remicade should be given the package leaflet and the speci
 During Remicade treatment, other concomitant therapies, e.g., corticosteroids and immunosuppressants should be optimised.
 
 Posology
-Adults (≥18 years)
+Adults (≥ 18 years)
 Rheumatoid arthritis
 3 mg/kg given as an intravenous infusion followed by additional 3 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 8 weeks thereafter.
 
@@ -19,6 +19,7 @@ If a patient has an inadequate response or loses response after this period, con
 Alternatively, administration of 3 mg/kg as often as every 4 weeks may be considered.
 If adequate response is achieved, patients should be continued on the selected dose or dose frequency.
 Continued therapy should be carefully reconsidered in patients who show no evidence of therapeutic benefit within the first 12 weeks of treatment or after dose adjustment.
+
 Moderately to severely active Crohn’s disease
 5 mg/kg given as an intravenous infusion followed by an additional 5 mg/kg infusion 2 weeks after the first infusion.
 If a patient does not respond after 2 doses, no additional treatment with infliximab should be given.
@@ -62,7 +63,6 @@ Psoriatic arthritis
 Psoriasis
 5 mg/kg given as an intravenous infusion followed by additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 8 weeks thereafter.
 If a patient shows no response after 14 weeks (i.e. after 4 doses), no additional treatment with infliximab should be given.
-
 Re-administration for Crohn’s disease and rheumatoid arthritis
 If the signs and symptoms of disease recur, Remicade can be re-administered within 16 weeks following the last infusion.
 In clinical studies, delayed hypersensitivity reactions have been uncommon and have occurred after Remicade-free intervals of less than 1 year (see sections 4.4 and 4.8).
@@ -87,7 +87,7 @@ Re-administration across indications
 In case maintenance therapy is interrupted, and there is a need to restart treatment, use of a re-induction regimen is not recommended (see section 4.8).
 In this situation, Remicade should be re-initiated as a single dose followed by the maintenance dose recommendations described above.
 
-Elderly patients (≥65 years)
+Elderly patients (≥ 65 years)
 Specific studies of Remicade in elderly patients have not been conducted.
 No major age-related differences in clearance or volume of distribution were observed in clinical studies.
 No dose adjustment is required (see section 5.2).
@@ -102,6 +102,7 @@ Paediatric population
 Crohn’s disease (6 to 17 years)
 5 mg/kg given as an intravenous infusion followed by additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 8 weeks thereafter.
 Available data do not support further infliximab treatment in children and adolescents not responding within the first 10 weeks of treatment (see section 5.1).
+
 Some patients may require a shorter dosing interval to maintain clinical benefit, while for others a longer dosing interval may be sufficient.
 Patients who have had their dose interval shortened to less than 8 weeks may be at greater risk for adverse reactions.
 Continued therapy with a shortened interval should be carefully considered in those patients who show no evidence of additional therapeutic benefit after a change in dosing interval.
@@ -143,4 +144,5 @@ Shortened infusions across adult indications
 In carefully selected adult patients who have tolerated at least 3 initial 2-hour infusions of Remicade (induction phase) and are receiving maintenance therapy, consideration may be given to administering subsequent infusions over a period of not less than 1 hour.
 If an infusion reaction occurs in association with a shortened infusion, a slower infusion rate may be considered for future infusions if treatment is to be continued.
 Shortened infusions at doses > 6 mg/kg have not been studied (see section 4.8).
+
 For preparation and administration instructions, see section 6.6.

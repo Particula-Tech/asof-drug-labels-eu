@@ -12,6 +12,7 @@ The available clinical experience is too limited to exclude a risk, and administ
 Infliximab crosses the placenta and has been detected up to 6 months in the serum of infants born to women treated with infliximab during pregnancy.
 Consequently, these infants may be at increased risk for infection.
 Administration of live vaccines to infants exposed to infliximab in utero is not recommended for 6 months following the mother’s last infliximab infusion during pregnancy (see sections 4.4 and 4.5).
+
 Breast-feeding
 It is unknown whether infliximab is excreted in human milk or absorbed systemically after ingestion.
 Because human immunoglobulins are excreted in milk, women must not breast feed for at least 6 months after Remicade treatment.
