@@ -29,7 +29,7 @@ The next dose should be administered based on the following guidance:
 - if the dose is less than 2 weeks late, the patient should inject his/her forgotten dose and stay on his/her original monthly schedule.
 - if the dose is more than 2 weeks late, the patient should inject his/her forgotten dose and a new once-monthly schedule should be established from the date of this injection.
 
-Elderly patients (≥ 65 years)
+Elderly patients (≥65 years)
 No dose adjustment is required in the elderly.
 
 Renal and hepatic impairment
