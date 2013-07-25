@@ -12,9 +12,9 @@ Concomitant use of a corticosteroid reduces the incidence and severity of these 
 
 Tabulated summary of adverse reactions
 In studies of patients with metastatic advanced prostate cancer who were using a luteinising hormone-releasing hormone (LHRH) analogue, or were previously treated with orchiectomy, ZYTIGA was administered at a dose of 1,000 mg daily in combination with low dose prednisone or prednisolone (10 mg daily).
-
 Adverse reactions observed during clinical studies are listed below by frequency category.
 Frequency categories are defined as follows: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000).
+
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 Table 1: Adverse reactions identified in clinical studies
@@ -25,9 +25,10 @@ Table 1: Adverse reactions identified in clinical studies
 | Metabolism and nutrition disorders | very common: hypokalaemia common: hypertriglyceridaemia |
 | Cardiac disorders | common: cardiac failure*, angina pectoris, arrhythmia, atrial fibrillation, tachycardia |
 | Vascular disorders | very common: hypertension |
-| Gastrointestinal disorders | common: dyspepsia |
+| Gastrointestinal disorders | very common: diarrhoea common: dyspepsia |
 | Hepatobiliary disorders | common: alanine aminotransferase increased, aspartate aminotransferase increased |
 | Skin and subcutaneous tissue disorders | common: rash |
+| Musculoskeletal and connective tissue disorders | uncommon: myopathy, rhabdomyolysis |
 | Renal and urinary disorders | common: haematuria |
 | General disorders and administration site conditions | very common: oedema peripheral |
 | Injury, poisoning and procedural complications | common: fractures** |

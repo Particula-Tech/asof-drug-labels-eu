@@ -34,6 +34,7 @@ Caution is advised and monitoring for adrenocortical insufficiency should occur 
 If ZYTIGA is continued after corticosteroids are withdrawn, patients should be monitored for symptoms of mineralocorticoid excess (see information above).
 
 In patients on prednisone or prednisolone who are subjected to unusual stress, an increased dose of corticosteroids may be indicated before, during and after the stressful situation.
+
 Bone density
 Decreased bone density may occur in men with metastatic advanced prostate cancer (castration resistant prostate cancer).
 The use of ZYTIGA in combination with a glucocorticoid could increase this effect.
@@ -55,3 +56,9 @@ To be taken into consideration by patients on a controlled sodium diet.
 
 Potential risks
 Anaemia and sexual dysfunction may occur in men with metastatic castration resistant prostate cancer including those undergoing treatment with ZYTIGA.
+
+Skeletal Muscle Effects
+Cases of myopathy have been reported in patients treated with ZYTIGA.
+Some patients had rhabdomyolysis with renal failure.
+Most cases developed within the first month of treatment and recovered after ZYTIGA withdrawal.
+Caution is recommended in patients concomitantly treated with drugs known to be associated with myopathy/rhabdomyolysis.

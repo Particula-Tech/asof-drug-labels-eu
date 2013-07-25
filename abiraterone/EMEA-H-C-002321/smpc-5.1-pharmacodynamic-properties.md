@@ -21,7 +21,7 @@ In a phase 3 clinical study of patients who failed prior chemotherapy with taxan
 Clinical efficacy and safety
 Efficacy was established in two randomised placebo-controlled multicentre phase 3 clinical studies (studies 301 and 302) of patients with metastatic castration resistant prostate cancer.
 Study 302 enrolled docetaxel naïve patients; whereas, study 301 enrolled patients who had received prior docetaxel.
-Patients were using an LHRH analogue or were previously treated with orchiectomy .
+Patients were using an LHRH analogue or were previously treated with orchiectomy.
 In the active treatment arm, ZYTIGA was administered at a dose of 1,000 mg daily in combination with low dose prednisone or prednisolone 5 mg twice daily.
 Control patients received placebo and low dose prednisone or prednisolone 5 mg twice daily.
 
@@ -94,9 +94,8 @@ Progression or death 271 (50%) 336 (62%)
 Median rPFS in months 16.5 8.3
 (95% CI) (13.80, 16.79) (8.05, 9.43)
 p-value* < 0.0001
+Hazard ratio** 0.530 (0.451, 0.623)
 
-Hazard ratio**
-0.530 (0.451, 0.623)
 (95% CI)
 * P-value is derived from a log-rank test stratified by baseline ECOG score (0 or 1)
 ** Hazard ratio < 1 favours ZYTIGA
@@ -132,7 +131,6 @@ Hazard ratio**
 NE=Not Estimated
 * P-value is derived from a log-rank test stratified by baseline ECOG score (0 or 1)
 ** Hazard ratio < 1 favours ZYTIGA
-
 Figure 3: Kaplan Meier survival curves of patients treated with either ZYTIGA or placebo in combination with prednisone or prednisolone plus LHRH analogues or prior orchiectomy
 
 AA=ZYTIGA
@@ -149,6 +147,7 @@ Time to opiate use for cancer pain: The median time to opiate use for prostate c
 Time to initiation of cytotoxic chemotherapy: The median time to initiation of cytotoxic chemotherapy was 25.2 months for patients receiving ZYTIGA and 16.8 months for patients receiving placebo (HR=0.580; 95% CI: [0.487, 0.691], p < 0.0001).
 
 Time to deterioration in ECOG performance score by ≥1 point: The median time to deterioration in ECOG performance score by ≥1 point was 12.3 months for patients receiving ZYTIGA and 10.9 months for patients receiving placebo (HR=0.821; 95% CI: [0.714, 0.943], p=0.0053).
+
 The following study endpoints demonstrated a statistically significant advantage in favour of ZYTIGA treatment:
 
 Objective response: Objective response was defined as the proportion of subjects with measurable disease achieving a complete or partial response according to RECIST criteria (baseline lymph node size was required to be ≥2 cm to be considered a target lesion).
@@ -207,16 +206,15 @@ a P-value is derived from a log-rank test stratified by ECOG performance status 
 Hazard ratio <1 favours ZYTIGA
 
 At all evaluation time points after the initial few months of treatment, a higher proportion of patients treated with ZYTIGA remained alive, compared with the proportion of patients treated with placebo (see Figure 4).
-
 Figure 4: Kaplan Meier survival curves of patients treated with either ZYTIGA or placebo in combination with prednisone or prednisolone plus LHRH analogues or prior orchiectomy
 
 AA=ZYTIGA
+
 Subgroup survival analyses showed a consistent survival benefit for treatment with ZYTIGA (see Figure 5).
 
 Figure 5: Overall survival by subgroup: hazard ratio and 95% confidence interval
 
 AA=ZYTIGA; BPI=Brief Pain Inventory; C.I.=confidence interval; ECOG=Eastern Cooperative Oncology Group performance score; HR=hazard ratio; NE=not evaluable
-
 In addition to the observed improvement in overall survival, all secondary study endpoints favoured ZYTIGA and were statistically significant after adjusting for multiple testing as follows:
 
 Patients receiving ZYTIGA demonstrated a significantly higher total PSA response rate (defined as a ≥50% reduction from baseline), compared with patients receiving placebo, 38% versus 10%, p < 0.0001.
