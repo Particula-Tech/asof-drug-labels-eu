@@ -33,7 +33,7 @@ Within each system organ class, adverse reactions are presented in order of decr
 
 | System Organ Class | Common | Uncommon | Rare | Very rare, not known* |
 | --- | --- | --- | --- | --- |
-| Blood and the lymphatic system disorders |  | Thrombocytopenia, leucopenia, eosinophilia | Neutropenia, including severe neutropenia | Thrombotic thrombocytopenic purpura (TTP) (see section 4.4), aplastic anaemia, pancytopenia, agranulocytosis, severe thrombocytopenia, granulocytopenia, anaemia |
+| Blood and the lymphatic system disorders |  | Thrombocytopenia, leucopenia, eosinophilia | Neutropenia, including severe neutropenia | Thrombotic thrombocytopenic purpura (TTP) (see section 4.4), aplastic anaemia, pancytopenia, agranulocytosis, severe thrombocytopenia, acquired haemophilia A, granulocytopenia, anaemia |
 | Immune system disorders |  |  |  | Serum sickness, anaphylactoid reactions, cross-reactive drug hypersensitivity among thienopyridines (such as ticlopidine, prasugrel) (see section 4.4)* |
 | Psychiatric disorders |  |  |  | Hallucinations, confusion |
 | Nervous system disorders |  | Intracranial bleeding (some cases were reported with fatal outcome), headache, paraesthesia, dizziness |  | Taste disturbances |
@@ -50,3 +50,8 @@ Within each system organ class, adverse reactions are presented in order of decr
 | Investigations |  | Bleeding time prolonged, neutrophil count decreased, platelet count decreased |  |  |
 
 * Information related to clopidogrel with frequency “not known”.
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

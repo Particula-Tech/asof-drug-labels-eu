@@ -36,6 +36,7 @@ Esomeprazole is expected to give a similar interaction with clopidogrel.
 
 Inconsistent data on the clinical implications of this pharmacokinetic (PK)/pharmacodynamic (PD) interaction in terms of major cardiovascular events have been reported from both observational and clinical studies.
 As a precaution, concomitant use of omeprazole or esomeprazole should be discouraged (see section 4.4).
+
 Less pronounced reductions of metabolite exposure has been observed with pantoprazole or lansoprazole.
 The plasma concentrations of the active metabolite was 20% reduced (loading dose) and 14% reduced (maintenance dose) during concomitant treatment with pantoprazole 80 mg once daily.
 This was associated with a reduction of the mean inhibition of platelet aggregation by 15% and 11%, respectively.

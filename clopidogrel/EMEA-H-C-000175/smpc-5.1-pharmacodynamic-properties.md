@@ -31,7 +31,6 @@ In the myocardial infarction subgroup, most of the patients received ASA for the
 Clopidogrel significantly reduced the incidence of new ischaemic events (combined end point of myocardial infarction, ischaemic stroke and vascular death) when compared to ASA.
 In the intention to treat analysis, 939 events were observed in the clopidogrel group and 1,020 events with ASA (relative risk reduction (RRR) 8.7%, [95% CI: 0.2 to 16.4]; p=0.045), which corresponds, for every 1,000 patients treated for 2 years, to 10 [CI: 0 to 20] additional patients being prevented from experiencing a new ischaemic event.
 Analysis of total mortality as a secondary endpoint did not show any significant difference between clopidogrel (5.8%) and ASA (6.0%).
-
 In a subgroup analysis by qualifying condition (myocardial infarction, ischaemic stroke, and PAD) the benefit appeared to be strongest (achieving statistical significance at p=0.003) in patients enrolled due to PAD (especially those who also had a history of myocardial infarction) (RRR = 23.7%; CI: 8.9 to 36.2) and weaker (not significantly different from ASA) in stroke patients (RRR = 7.3%; CI: -5.7 to 18.7 [p=0.258]).
 In patients who were enrolled in the trial on the sole basis of a recent myocardial infarction, clopidogrel was numerically inferior, but not statistically different from ASA (RRR = -4.0%; CI: -22.5 to 11.7 [p=0.639]).
 In addition, a subgroup analysis by age suggested that the benefit of clopidogrel in patients over 75 years was less than that observed in patients ≤75 years.
@@ -39,6 +38,7 @@ In addition, a subgroup analysis by age suggested that the benefit of clopidogre
 Since the CAPRIE trial was not powered to evaluate efficacy of individual subgroups, it is not clear whether the differences in relative risk reduction across qualifying conditions are real, or a result of chance.
 
 Acute coronary syndrome
+
 The CURE study included 12,562 patients with non-ST segment elevation acute coronary syndrome (unstable angina or non-Q-wave myocardial infarction), and presenting within 24 hours of onset of the most recent episode of chest pain or symptoms consistent with ischaemia.
 Patients were required to have either ECG changes compatible with new ischaemia or elevated cardiac enzymes or troponin I or T to at least twice the upper limit of normal.
 Patients were randomised to clopidogrel (300 mg loading dose followed by 75 mg/day, N=6,259) or placebo (N=6,303), both given in combination with ASA (75-325 mg once daily) and other standard therapies.
@@ -60,7 +60,6 @@ The results obtained in populations with different characteristics (e.g. unstabl
 In particular, in a post-hoc analysis in 2,172 patients (17% of the total CURE population) who underwent stent placement (Stent-CURE), the data showed that clopidogrel compared to placebo, demonstrated a significant RRR of 26.2% favouring clopidogrel for the co-primary endpoint (CV death, MI, stroke) and also a significant RRR of 23.9% for the second co-primary endpoint (CV death, MI, stroke or refractory ischaemia).
 Moreover, the safety profile of clopidogrel in this subgroup of patients did not raise any particular concern.
 Thus, the results from this subset are in line with the overall trial results.
-
 The benefits observed with clopidogrel were independent of other acute and long-term cardiovascular therapies (such as heparin/LMWH, GPIIb/IIIa antagonists, lipid lowering medicinal products, beta blockers, and ACE-inhibitors).
 The efficacy of clopidogrel was observed independently of the dose of ASA (75-325 mg once daily).
 
@@ -103,6 +102,7 @@ The mean CHADS2 score was 2.0 (range 0-6).
 The major exclusion criteria for patients were documented peptic ulcer disease within the previous 6 months; prior intracerebral hemorrhage; significant thrombocytopenia (platelet count < 50 x 109/l); requirement for clopidogrel or oral anticoagulants (OAC); or intolerance to any of the two compounds.
 
 Seventy-three percent (73%) of patients enrolled into the ACTIVE-A study were unable to take VKA due to physician assessment, inability to comply with INR (international normalised ratio) monitoring, predisposition to falling or head trauma, or specific risk of bleeding; for 26% of the patients, the physician’s decision was based on the patient’s unwillingness to take VKA.
+
 The patient population included 41.8 % women.
 The mean age was 71 years, 41.6% of patients were
 ≥75 years.

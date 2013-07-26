@@ -44,11 +44,11 @@ When poor metabolisers received the 600 mg/150 mg regimen, active metabolite exp
 In addition, IPA was 32%
 (24 hours) and 61% (Day 5), which were greater than in the poor metabolisers receiving the 300 mg/75 mg regimen, and were similar to the other CYP2C19 metaboliser groups receiving the 300 mg/75 mg regimen.
 An appropriate dose regimen for this patient population has not been established in clinical outcome trials.
-
 Consistent with the above results, in a meta-analysis including 6 studies of 335 clopidogrel-treated subjects at steady state, it was shown that active metabolite exposure was decreased by 28% for intermediate metabolisers, and 72% for poor metabolisers while platelet aggregation inhibition (5 μM ADP) was decreased with differences in IPA of 5.9% and 21.4%, respectively, when compared to extensive metabolisers.
 
 The influence of CYP2C19 genotype on clinical outcomes in patients treated with clopidogrel has not been evaluated in prospective, randomised, controlled trials.
 There have been a number of retrospective analyses, however, to evaluate this effect in patients treated with clopidogrel for whom there are genotyping results: CURE (n=2721), CHARISMA (n=2428), CLARITY-TIMI 28 (n=227), TRITON-TIMI 38 (n=1477), and ACTIVE-A (n=601), as well as a number of published cohort studies.
+
 In TRITON-TIMI 38 and 3 of the cohort studies (Collet, Sibbing, Giusti) the combined group of patients with either intermediate or poor metaboliser status had a higher rate of cardiovascular events (death, myocardial infarction, and stroke) or stent thrombosis compared to extensive metabolisers.
 
 In CHARISMA and one cohort study (Simon), an increased event rate was observed only in poor metabolisers when compared to extensive metabolisers.

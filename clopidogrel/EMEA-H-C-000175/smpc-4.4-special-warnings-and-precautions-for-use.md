@@ -17,6 +17,11 @@ Thrombotic Thrombocytopenic Purpura (TTP) has been reported very rarely followin
 It is characterised by thrombocytopenia and microangiopathic haemolytic anaemia associated with either neurological findings, renal dysfunction or fever.
 TTP is a potentially fatal condition requiring prompt treatment including plasmapheresis.
 
+Acquired haemophilia
+Acquired haemophilia has been reported following use of clopidogrel.
+In cases of confirmed isolated activated Partial Thromboplastin Time (aPTT) prolongation with or without bleeding, acquired haemophilia should be considered.
+Patients with a confirmed diagnosis of acquired haemophilia should be managed and treated by specialists, and clopidogrel should be discontinued.
+
 Recent ischaemic stroke
 In view of the lack of data, clopidogrel cannot be recommended during the first 7 days after acute ischaemic stroke.
 
