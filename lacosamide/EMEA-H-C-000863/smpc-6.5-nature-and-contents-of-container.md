@@ -1,7 +1,8 @@
 # 6.5 Nature and contents of container
 
-PVC/PVDC blister sealed with an aluminium foil.
-Packs of 14, 56 and 168 film-coated tablets.
+Packs of 14, 56 and 168 film-coated tablets in PVC/PVDC blister sealed with an aluminium foil.
+Pack of 56 x 1 tablet in PVC/PVDC perforated unit dose blisters sealed with an aluminium foil.
+
 Not all pack sizes may be marketed.
 
 [Vimpat 100 mg film-coated tablets]
@@ -10,14 +11,16 @@ Not all pack sizes may be marketed.
 
 [Vimpat 150 mg film-coated tablets]
 
-Packs of 14, 56 and 168 film-coated tablets (multipacks containing 3 packs of 56 tablets).
+Packs of 14 and 56 film-coated tablets in PVC/PVDC blister sealed with an aluminium foil.
+Multipacks containing 168 (3 packs of 56 tablets) film-coated tablets in PVC/PVDC blister sealed with an aluminium foil.
 
 [Vimpat 200 mg film-coated tablets]
 
-(all sentences already above)
+Packs of 14 and56 film-coated tablets in PVC/PVDC blister sealed with an aluminium foil.
 
-[Vimpat 50 mg film-coated tablets (SmPC 5)]
+[Treatment initiation pack]
 
+PVC/PVDC blister sealed with an aluminium foil.
 The treatment initiation pack contains 4 cartons, each carton with 14 tablets of 50 mg, 100 mg, 150 mg and 200 mg
 
 [Vimpat 10 mg/ml syrup]

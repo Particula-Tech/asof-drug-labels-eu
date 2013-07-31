@@ -1,6 +1,7 @@
 # 4.6 Fertility, pregnancy and lactation
 
 Pregnancy
+
 Risk related to epilepsy and antiepileptic medicinal products in general
 For all anti-epileptic drugs, it has been shown that in the offspring of women treated with epilepsy, the prevalence of malformations is two to three times greater than the rate of approximately 3% in the general population.
 In the treated population, an increase in malformations has been noted with polytherapy, however, the extent to which the treatment and/or the illness is responsible has not been elucidated.
@@ -19,4 +20,28 @@ Animal studies have shown excretion of lacosamide in breast milk.
 For precautionary measures, breast-feeding should be discontinued during treatment with lacosamide.
 
 Fertility
-No adverse effects on male or female fertility or reproduction were observed in rats at doses producing plasma exposures (AUC) up to approximately 2 times the plasma AUC in humans at the maximum recommended human dose (MRHD).
+No adverse reactions on male or female fertility or reproduction were observed in rats at doses producing plasma exposures (AUC) up to approximately 2 times the plasma AUC in humans at the maximum recommended human dose (MRHD).
+
+[Vimpat 100 mg film-coated tablets]
+
+(all sentences already above)
+
+[Vimpat 150 mg film-coated tablets]
+
+(all sentences already above)
+
+[Vimpat 200 mg film-coated tablets]
+
+(all sentences already above)
+
+[Treatment initiation pack]
+
+No adverse reactionts on male or female fertility or reproduction were observed in rats at doses producing plasma exposures (AUC) up to approximately 2 times the plasma AUC in humans at the maximum recommended human dose (MRHD).
+
+[Vimpat 10 mg/ml syrup]
+
+(all sentences already above)
+
+[Vimpat 10 mg/ml solution for infusion]
+
+(all sentences already above)

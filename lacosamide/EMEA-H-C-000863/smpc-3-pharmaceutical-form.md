@@ -1,6 +1,7 @@
 # 3. PHARMACEUTICAL FORM
 
-Film-coated tablets
+Film-coated tablet
+
 Pinkish, oval film-coated tablets debossed with ‘SP’ on one side and ‘50’ on the other side.
 
 [Vimpat 100 mg film-coated tablets]
@@ -15,7 +16,7 @@ Salmon, oval film-coated tablets debossed with ‘SP’ on one side and ‘150�
 
 Blue, oval film-coated tablets debossed with ‘SP’ on one side and ‘200’ on the other side.
 
-[Vimpat 50 mg film-coated tablets (SmPC 5)]
+[Treatment initiation pack]
 
 50 mg:
 100 mg:

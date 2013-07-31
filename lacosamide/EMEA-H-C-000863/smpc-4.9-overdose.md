@@ -3,8 +3,8 @@
 There is limited clinical experience with lacosamide overdose in humans.
 
 Symptoms
-Clinical symptoms (dizziness and nausea) following doses of 1200 mg/day were mainly related to the central nervous system and the gastrointestinal system and resolved with dose adjustments.
-The highest reported overdose in the clinical development program for lacosamide was 12 g taken in conjunction with toxic doses of multiple other antiepileptic drugs.
+Clinical symptoms (dizziness and nausea) following doses of 1,200 mg/day were mainly related to the central nervous system and the gastrointestinal system and resolved with dose adjustments.
+The highest reported overdose in the clinical development program for lacosamide was 12 g taken in conjunction with toxic doses of multiple other antiepileptics .
 The subject was initially comatose and then fully recovered without permanent sequelae.
 
 Management

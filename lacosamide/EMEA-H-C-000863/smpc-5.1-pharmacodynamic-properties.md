@@ -1,9 +1,9 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: other antiepileptics, ATC code: N03AX18
-The active substance, lacosamide (R-2-acetamido-N-benzyl-3-methoxypropionamide) is a functionalised amino acid.
+Pharmacotherapeutic group: antiepileptics, other antiepileptics, ATC code: N03AX18
 
 Mechanism of action
+The active substance, lacosamide (R-2-acetamido-N-benzyl-3-methoxypropionamide) is a functionalised amino acid.
 The precise mechanism by which lacosamide exerts its antiepileptic effect in humans remains to be fully elucidated.
 In vitro electrophysiological studies have shown that lacosamide selectively enhances slow inactivation of voltage-gated sodium channels, resulting in stabilization of hyperexcitable neuronal membranes.
 
@@ -16,7 +16,7 @@ The efficacy of Vimpat as adjunctive therapy at recommended doses (200 mg/day, 4
 Vimpat 600 mg/day was also shown to be effective in controlled adjunctive therapy trials, although the efficacy was similar to 400 mg/day and patients were less likely to tolerate this dose because of CNS- and gastrointestinal-related adverse reactions.
 Thus, the 600 mg/day dose is not recommended.
 The maximum recommended dose is 400 mg/day.
-These trials, involving 1308 patients with a history of an average of 23 years of partial-onset seizures, were designed to evaluate the efficacy and safety of lacosamide when administered concomitantly with 1-3 antiepileptic drugs in patients with uncontrolled partial-onset seizures with or without secondary generalisation.
+These trials, involving 1308 patients with a history of an average of 23 years of partial-onset seizures, were designed to evaluate the efficacy and safety of lacosamide when administered concomitantly with 1-3 antiepileptics in patients with uncontrolled partial-onset seizures with or without secondary generalisation.
 Overall the proportion of subjects with a 50% reduction in seizure frequency was 23%, 34%, and 40% for placebo, lacosamide 200 mg/day and lacosamide 400 mg/day.
 There are insufficient data regarding the withdrawal of concomitant antiepileptic medicinal products to achieve monotherapy with lacosamide.
 

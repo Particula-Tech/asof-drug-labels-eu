@@ -1,6 +1,6 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
-Lacosamide should be used with caution in patients treated with medicinal products known to be associated with PR prolongation (e.g. carbamazepine, lamotrigine, pregabalin) and in patients treated with class I antiarrhythmic drugs.
+Lacosamide should be used with caution in patients treated with medicinal products known to be associated with PR prolongation (e.g. carbamazepine, lamotrigine, pregabalin) and in patients treated with class I antiarrhythmics .
 However, subgroup analysis did not identify an increased magnitude of PR prolongation in patients with concomitant administration of carbamazepine or lamotrigine in clinical trials.
 
 In vitro data
@@ -11,20 +11,20 @@ In vitro data show that CYP2C9, CYP2C19 and CYP3A4 are capable of catalysing the
 
 In vivo data
 Lacosamide does not inhibit or induce CYP2C19 and 3A4 to a clinically relevant extent.
-Lacosamide did not affect the AUC of midazolam (metabolised by CYP3A4, lacosamide given 200 mg b.i.d.) but Cmax of midazolam was slightly increased (30%).
-Lacosamide did not affect the pharmacokinetics of omeprazole (metabolised by CYP2C19 and 3A4, lacosamide given 300 mg b.i.d.).
+Lacosamide did not affect the AUC of midazolam (metabolised by CYP3A4, lacosamide given 200 mg twice daily), but Cmax of midazolam was slightly increased (30%).
+Lacosamide did not affect the pharmacokinetics of omeprazole (metabolised by CYP2C19 and 3A4, lacosamide given 300 mg twice daily).
 The CYP2C19 inhibitor omeprazole (40 mg q.d.) did not give rise to a clinically significant change in lacosamide exposure.
 Thus moderate inhibitors of CYP2C19 are unlikely to affect systemic lacosamide exposure to a clinically relevant extent.
 Caution is recommended in concomitant treatment with strong inhibitors of CYP2C9 (e.g. fluconazole) and CYP3A4 (e.g. itraconazole, ketoconazole, ritonavir, clarithromycin), which may lead to increased systemic exposure of lacosamide.
-Such interactions have not been established in vivo but are possible based on in vitro data..
+Such interactions have not been established in vivo, but are possible based on in vitro data.
 
 Strong enzyme inducers such as rifampicin or St John´s wort (Hypericum perforatum) may moderately reduce the systemic exposure of lacosamide.
 Therefore, starting or ending treatment with these enzyme inducers should be done with caution.
 
-Antiepileptic drugs
+Antiepileptics
 In interaction trials lacosamide did not significantly affect the plasma concentrations of carbamazepine and valproic acid.
 Lacosamide plasma concentrations were not affected by carbamazepine and by valproic acid.
-A population PK analysis estimated that concomitant treatment with other anti-epileptic drugs known to be enzyme inducers (carbamazepine, phenytoin, phenobarbital, in various doses) decreased the overall systemic exposure of lacosamide by 25%.
+A population PK analysis estimated that concomitant treatment with other anti-epileptics known to be enzyme inducers (carbamazepine, phenytoin, phenobarbital, in various doses) decreased the overall systemic exposure of lacosamide by 25%.
 
 Oral contraceptives
 In an interaction trial there was no clinically relevant interaction between lacosamide and the oral contraceptives ethinylestradiol and levonorgestrel.
@@ -33,14 +33,16 @@ Progesterone concentrations were not affected when the medicinal products were c
 Others
 Interaction trials showed that lacosamide had no effect on the pharmacokinetics of digoxin.
 There was no clinically relevant interaction between lacosamide and metformin.
-No data on the interaction of lacosamide with alcohol are available.
-
+Although no pharmacokinetic data on the interaction of lacosamide with alcohol are available, a pharmacodynamic effect cannot be excluded.
 Lacosamide has a low protein binding of less than 15%.
 Therefore, clinically relevant interactions with other drugs through competition for protein binding sites are considered unlikely.
 
 [Vimpat 100 mg film-coated tablets]
 
 Lacosomide does not inhibit or induce CYP2C19 and CYP3A4 to a clinically relevant extent.
+Lacosamide did not affect the AUC of midazolam (metabolised by CYP3A4, lacosamide given 200 mg twice daily) but Cmax of midazolam was slightly increased (30%).
+Lacosamide did not affect the pharmacokinetics of omeprazole (metabolised by CYP2C19 and 3A4, lacosamide given 300 mg twice daiy).
+Such interactions have not been established in vivo but are possible based on in vitro data.
 
 [Vimpat 150 mg film-coated tablets]
 
@@ -48,9 +50,9 @@ Lacosomide does not inhibit or induce CYP2C19 and CYP3A4 to a clinically relevan
 
 [Vimpat 200 mg film-coated tablets]
 
-(all sentences already above)
+Lacosamide did not affect the AUC of midazolam (metabolised by CYP3A4, lacosamide given 200 mg twice daily.) but Cmax of midazolam was slightly increased (30%).
 
-[Vimpat 50 mg film-coated tablets (SmPC 5)]
+[Treatment initiation pack]
 
 (all sentences already above)
 

@@ -46,13 +46,12 @@ Therefore dosage supplementation following haemodialysis is recommended (see sec
 The exposure of the O-desmethyl metabolite was several-fold increased in patients with moderate and severe renal impairment.
 In absence of haemodialysis in patients with endstage renal disease, the levels were increased and continuously rising during the 24-hour sampling.
 It is unknown whether the increased metabolite exposure in endstage renal disease subjects could give rise to adverse effects but no pharmacological activity of the metabolite has been identified.
-
 Hepatic impairment
 Subjects with moderate hepatic impairment (Child-Pugh B) showed higher plasma concentrations of lacosamide (approximately 50% higher AUCnorm).
 The higher exposure was partly due to a reduced renal function in the studied subjects.
 The decrease in non-renal clearance in the patients of the study was estimated to give a 20% increase in the AUC of lacosamide The pharmacokinetics of lacosamide has not been evaluated in severe hepatic impairment (see section 4.2).
 
-Elderly (over 65 years of age)
+Older people (over 65 years of age)
 In a study in elderly men and women including 4 patients >75 years of age, AUC was about 30 and 50% increased compared to young men, respectively.
 This is partly related to lower body weight.
 The body weight normalized difference is 26 and 23%, respectively.
@@ -73,7 +72,7 @@ The pharmacokinetics of lacosamide has not been evaluated in severe hepatic impa
 
 (all sentences already above)
 
-[Vimpat 50 mg film-coated tablets (SmPC 5)]
+[Treatment initiation pack]
 
 (all sentences already above)
 

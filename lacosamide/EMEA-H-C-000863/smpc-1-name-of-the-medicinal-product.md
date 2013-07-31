@@ -14,9 +14,9 @@ Vimpat 150 mg film-coated tablets
 
 Vimpat 200 mg film-coated tablets
 
-[Vimpat 50 mg film-coated tablets (SmPC 5)]
+[Treatment initiation pack]
 
-(all sentences already above)
+Treatment initiation pack
 
 [Vimpat 10 mg/ml syrup]
 

@@ -14,7 +14,7 @@ This medicinal product does not require any special storage conditions.
 
 (all sentences already above)
 
-[Vimpat 50 mg film-coated tablets (SmPC 5)]
+[Treatment initiation pack]
 
 (all sentences already above)
 
@@ -25,3 +25,4 @@ Do not refrigerate.
 [Vimpat 10 mg/ml solution for infusion]
 
 Do not store above 25°C.
+For storage conditions after dilution of the medicinal product, see section 6.3.

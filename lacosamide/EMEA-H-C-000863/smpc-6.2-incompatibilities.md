@@ -14,7 +14,7 @@ Not applicable.
 
 (all sentences already above)
 
-[Vimpat 50 mg film-coated tablets (SmPC 5)]
+[Treatment initiation pack]
 
 (all sentences already above)
 
