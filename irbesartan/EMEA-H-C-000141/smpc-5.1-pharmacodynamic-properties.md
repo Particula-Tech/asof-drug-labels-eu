@@ -37,6 +37,7 @@ At the end of the three weeks the mean reduction from baseline in the primary ef
 No significant difference was apparent between these doses.
 Adjusted mean change of trough seated diastolic blood pressure (SeDBP) was as follows: 3.8 mmHg (low dose), 3.2 mmHg (medium dose), 5.6 mmHg (high dose).
 Over a subsequent two week period where patients were re-randomized to either active medicinal product or placebo, patients on placebo had increases of 2.4 and 2.0 mmHg in SeSBP and SeDBP compared to +0.1 and -0.3 mmHg changes respectively in those on all doses of irbesartan (see section 4.2).
+
 Hypertension and type 2 diabetes with renal disease
 The “Irbesartan Diabetic Nephropathy Trial (IDNT)” shows that irbesartan decreases the progression of renal disease in patients with chronic renal insufficiency and overt proteinuria.
 IDNT was a double blind, controlled, morbidity and mortality trial comparing Aprovel, amlodipine and placebo.

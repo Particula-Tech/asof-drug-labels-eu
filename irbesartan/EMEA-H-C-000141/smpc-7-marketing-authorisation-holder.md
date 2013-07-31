@@ -1,5 +1,5 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 SANOFI PHARMA BRISTOL-MYERS SQUIBB SNC
-54 rue La Boétie,
-75008 Paris - France
+54, rue La Boétie
+F-75008 Paris - France

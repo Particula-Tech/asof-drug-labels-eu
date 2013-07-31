@@ -12,17 +12,20 @@ There is no experience regarding the administration of Aprovel in patients with 
 Hypertensive patients with type 2 diabetes and renal disease: the effects of irbesartan both on renal and cardiovascular events were not uniform across all subgroups, in an analysis carried out in the study with patients with advanced renal disease.
 In particular, they appeared less favourable in women and non-white subjects (see section 5.1).
 
+Dual blockade of the renin-angiotensin-aldosterone system (RAAS):
+Dual blockade of the RAAS by combining Aprovel with aliskiren is not recommended since there is an increased risk of hypotension, hyperkalaemia, and changes in renal function.
+The use of Aprovel in combination with aliskiren is contraindicated in patients with diabetes mellitus or renal impairment (GFR <60 ml/min/1.73 m²) (see section 4.5).
+
 Hyperkalaemia: as with other medicinal products that affect the renin-angiotensin-aldosterone system, hyperkalaemia may occur during the treatment with Aprovel, especially in the presence of renal impairment, overt proteinuria due to diabetic renal disease, and/or heart failure.
 Close monitoring of serum potassium in patients at risk is recommended (see section 4.5).
 
 Lithium: the combination of lithium and Aprovel is not recommended (see section 4.5).
 
 Aortic and mitral valve stenosis, obstructive hypertrophic cardiomyopathy: as with other vasodilators, special caution is indicated in patients suffering from aortic or mitral stenosis, or obstructive hypertrophic cardiomyopathy.
-
 Primary aldosteronism: patients with primary aldosteronism generally will not respond to antihypertensive medicinal products acting through inhibition of the renin-angiotensin system.
 Therefore, the use of Aprovel is not recommended.
 
-General: in patients whose vascular tone and renal function depend predominantly on the activity of the renin-angiotensin-aldosterone system (e.g. patients with severe congestive heart failure or underlying renal disease, including renal artery stenosis), treatment with angiotensin converting enzyme inhibitors or angiotensin-II receptor antagonists that affect this system has been associated with acute hypotension, azotaemia, oliguria, or rarely acute renal failure.
+General: in patients whose vascular tone and renal function depend predominantly on the activity of the renin-angiotensin-aldosterone system (e.g. patients with severe congestive heart failure or underlying renal disease, including renal artery stenosis), treatment with angiotensin converting enzyme inhibitors or angiotensin-II receptor antagonists that affect this system has been associated with acute hypotension, azotaemia, oliguria, or rarely acute renal failure (see section 4.5).
 As with any antihypertensive agent, excessive blood pressure decrease in patients with ischaemic cardiopathy or ischaemic cardiovascular disease could result in a myocardial infarction or stroke.
 As observed for angiotensin converting enzyme inhibitors, irbesartan and the other angiotensin antagonists are apparently less effective in lowering blood pressure in black people than in non-blacks, possibly because of higher prevalence of low-renin states in the black hypertensive population (see section 5.1).
 
@@ -34,3 +37,23 @@ Lactose: this medicinal product contains lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
 Paediatric population: irbesartan has been studied in paediatric populations aged 6 to 16 years old but the current data are insufficient to support an extension of the use in children until further data become available (see sections 4.8, 5.1 and 5.2).
+
+[Aprovel 150 mg tablets.]
+
+(all sentences already above)
+
+[Aprovel 300 mg tablets.]
+
+(all sentences already above)
+
+[Aprovel 75 mg film-coated tablets.]
+
+(all sentences already above)
+
+[Aprovel 150 mg film-coated tablets.]
+
+General: in patients whose vascular tone and renal function depend predominantly on the activity of the renin-angiotensin-aldosterone system (e.g. patients with severe congestive heart failure or underlying renal disease, including renal artery stenosis), treatment with angiotensin converting enzyme inhibitors or angiotensin-II receptor antagonists that affect this system has been associated with acute hypotension, azotaemia, oliguria, or rarely acute renal failure.
+
+[Aprovel 300 mg film-coated tablets.]
+
+(all sentences already above)

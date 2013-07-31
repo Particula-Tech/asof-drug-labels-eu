@@ -8,6 +8,7 @@ All of these changes were considered to be caused by the pharmacological action 
 For therapeutic doses of irbesartan in humans, the hyperplasia/ hypertrophy of the renal juxtaglomerular cells does not appear to have any relevance.
 
 There was no evidence of mutagenicity, clastogenicity or carcinogenicity.
+
 Fertility and reproductive performance were not affected in studies of male and female rats even at oral doses of irbesartan causing some parental toxicity (from 50 to 650 mg/kg/day), including mortality at the highest dose.
 No significant effects on the number of corpora lutea, implants, or live fetuses were observed.
 Irbesartan did not affect survival, development, or reproduction of offspring.

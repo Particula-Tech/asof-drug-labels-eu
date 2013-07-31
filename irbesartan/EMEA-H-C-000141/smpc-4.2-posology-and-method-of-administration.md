@@ -19,7 +19,7 @@ A lower starting dose (75 mg) should be considered for patients undergoing haemo
 
 Hepatic impairment: no dosage adjustment is necessary in patients with mild to moderate hepatic impairment.
 There is no clinical experience in patients with severe hepatic impairment.
-Elderly patients: although consideration should be given to initiating therapy with 75 mg in patients over 75 years of age, dosage adjustment is not usually necessary for the elderly.
+Older people: although consideration should be given to initiating therapy with 75 mg in patients over 75 years of age, dosage adjustment is not usually necessary for older people.
 
 Paediatric population: the safety and efficacy of Aprovel in children aged 0 to 18 has not been established.
 Currently available data are described in sections 4.8, 5.1, and 5.2 but no recommendation on a posology can be made.

@@ -3,6 +3,8 @@
 Diuretics and other antihypertensive agents: other antihypertensive agents may increase the hypotensive effects of irbesartan; however Aprovel has been safely administered with other antihypertensive agents, such as beta-blockers, long-acting calcium channel blockers, and thiazide diuretics.
 Prior treatment with high dose diuretics may result in volume depletion and a risk of hypotension when initiating therapy with Aprovel (see section 4.4).
 
+Aliskiren-containing products: the combination of Aprovel with aliskiren-containing medicinal products is contraindicated in patients with diabetes mellitus or moderate to severe renal impairment (GFR <60 ml/min/1.73 m²) and is not recommended in other patients.
+
 Potassium supplements and potassium-sparing diuretics: based on experience with the use of other medicinal products that affect the renin-angiotensin system, concomitant use of potassium-sparing diuretics, potassium supplements, salt substitutes containing potassium or other medicinal products that may increase serum potassium levels (e.g. heparin) may lead to increases in serum potassium and is, therefore, not recommended (see section 4.4).
 
 Lithium: reversible increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with angiotensin converting enzyme inhibitors.
