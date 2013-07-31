@@ -8,8 +8,9 @@ Use of gloves and other protective clothing to prevent skin contact is recommend
 Aseptic technique must be strictly observed throughout the handling of VELCADE, since it contains no preservative.
 
 There have been fatal cases of inadvertent intrathecal administration of VELCADE.
-VELCADE 1 mg is for intravenous use only, while VELCADE 3.5 mg is for intravenous or subcutaneous use.
+VELCADE 1 mg powder for solution for injection is for intravenous use only, while VELCADE 3.5 mg powder for solution for injection is for intravenous or subcutaneous use.
 VELCADE should not be administered intrathecally.
+
 Instructions for reconstitution
 VELCADE must be reconstituted by a healthcare professional.
 Each 5 ml vial of VELCADE must be reconstituted with 1 ml of sodium chloride 9 mg/ml (0.9%) solution for injection.
