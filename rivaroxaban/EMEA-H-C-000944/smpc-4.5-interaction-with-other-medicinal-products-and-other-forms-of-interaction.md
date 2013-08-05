@@ -8,6 +8,7 @@ These active substances are strong inhibitors of both CYP3A4 and P-gp (see secti
 Active substances strongly inhibiting only one of the rivaroxaban elimination pathways, either CYP3A4 or P-gp, are expected to increase rivaroxaban plasma concentrations to a lesser extent.
 Clarithromycin (500 mg twice a day), for instance, considered as a strong CYP3A4 inhibitor and moderate P-gp inhibitor, led to a 1.5 fold increase in mean rivaroxaban AUC and a 1.4 fold increase in CRmaxR.
 This increase is not considered clinically relevant.
+(For patients with renal impairment: see section 4.4).
 
 Erythromycin (500 mg three times a day), which inhibits CYP3A4 and P-gp moderately, led to a 1.3 fold increase in mean rivaroxaban AUC and CRmaxR.
 This increase is not considered clinically relevant.
@@ -52,7 +53,6 @@ Clotting parameters (e.g. PT, aPTT, HepTest) are affected as expected by the mod
 [Xarelto 10 mg film-coated tablets]
 
 Erythromycin (500 mg three times a day) which inhibits CYP3A4 and P-gp moderately, led to a 1.3 fold increase in mean rivaroxaban AUC and CRmaxR.
-
 Fluconazole (400 mg once daily), considered as a moderate CYP3A4 inhibitor, led to a 1.4 fold increase in mean rivaroxaban AUC and a 1.3 fold increase in mean Cmax.
 
 Due to the increased bleeding risk care is to be taken if patients are treated concomitantly with any other anticoagulants (see section 4.4).

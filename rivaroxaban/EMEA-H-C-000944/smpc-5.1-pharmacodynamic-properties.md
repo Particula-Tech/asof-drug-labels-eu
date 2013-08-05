@@ -121,13 +121,13 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 In patients undergoing major orthopaedic surgery, the 5/95 percentiles for PT (Neoplastin) 2 - 4 hours after tablet intake (i.e. at the time of maximum effect) ranged from 13 to 25 s (baseline values before surgery 12 to 15s).
 However, if clinically indicated rivaroxaban levels can be measured by calibrated quantitative anti-Factor Xa tests (see section 5.2).
+
 The rivaroxaban clinical programme was designed to demonstrate the efficacy of rivaroxaban for the prevention of VTE, i.e. proximal and distal deep vein thrombosis (DVT) and pulmonary embolism (PE) in patients undergoing major orthopaedic surgery of the lower limbs.
 Over 9,500 patients (7,050 in total hip replacement surgery and 2,531 in total knee replacement surgery) were studied in controlled randomised double-blind phase III clinical studies, the RECORD-programme.
 Rivaroxaban 10 mg once daily (od) started no sooner than 6 hours post-operatively was compared with enoxaparin 40 mg once daily started 12 hours pre-operatively.
 In all three phase III studies (see table 3), rivaroxaban significantly reduced the rate of total VTE (any venographically detected or symptomatic DVT, non-fatal PE and death) and major VTE (proximal DVT, non-fatal PE and VTE-related death), the pre-specified primary and major secondary efficacy endpoints.
 Furthermore, in all three studies the rate of symptomatic VTE (symptomatic DVT, non-fatal PE, VTE-related death) was lower in rivaroxaban treated patients compared to patients treated with enoxaparin.
 The main safety endpoint, major bleeding, showed comparable rates for patients treated with rivaroxaban 10 mg compared to enoxaparin 40 mg.
-
 Table 3: Efficacy and safety results from phase III clinical studies
 
 |  | RECORD 1 | RECORD 2 | RECORD 3 |

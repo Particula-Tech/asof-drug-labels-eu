@@ -19,6 +19,7 @@ In addition these patients are to be carefully monitored for signs and symptoms 
 Any unexplained fall in haemoglobin or blood pressure should lead to a search for a bleeding site.
 
 Although treatment with rivaroxaban does not require routine monitoring of exposure, rivaroxaban levels measured with a calibrated quantitative anti-Factor Xa assay may be useful in exceptional situations where knowledge of rivaroxaban exposure may help to inform clinical decisions, e.g., overdose and emergency surgery (see sections 5.1 and 5.2).
+
 Renal impairment
 In patients with severe renal impairment (creatinine clearance < 30 ml/min) rivaroxaban plasma levels may be significantly increased (1.6 fold on average) which may lead to an increased bleeding risk.
 Xarelto is to be used with caution in patients with creatinine clearance 15 - 29 ml/min.
@@ -58,7 +59,10 @@ Dosing recommendations before and after invasive procedures and surgical interve
 If an invasive procedure or surgical intervention is required, Xarelto should be stopped at least 12 hours before the intervention, if possible and based on the clinical judgement of the physician.
 If a patient is to undergo elective surgery and anti-platelet effect is not desired, platelet aggregation inhibitors should be discontinued as directed by the manufacturer’s prescribing information.
 If the procedure cannot be delayed the increased risk of bleeding should be assessed against the urgency of the intervention.
-Xarelto should be restarted after the invasive procedure or surgical intervention as soon as possible provided the clinical situation allows and adequate haemostasis has been established (see section 5.2).
+Xarelto should be restarted after the invasive procedure or surgical intervention as soon as possible provided the clinical situation allows and adequate haemostasis has been established as determined by the treating physician (see section 5.2).
+
+Elderly population
+Increasing age may increase haemorrhagic risk (see section 5.2).
 Information about excipients
 Xarelto contains lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
@@ -74,17 +78,11 @@ Care is to be taken if patients are treated concomitantly with medicinal product
 
 Rivaroxaban, like other antithrombotic agents, is to be used with caution in patients with an increased bleeding risk such as:
 
-- recent gastrointestinal ulcerations
-- recent intracranial or intracerebral haemorrhage
-- intraspinal or intracerebral vascular abnormalities
-- recent brain, spinal or ophthalmological surgery
-
 However, if clinically indicated rivaroxaban levels can be measured by calibrated quantitative anti-Factor Xa tests (see section 5.1 and 5.2).
 
 Hip fracture surgery
 Rivaroxaban has not been studied in clinical trials in patients undergoing hip fracture surgery to evaluate efficacy and safety in these patients.
 Therefore, rivaroxaban is not recommended in these patients.
-
 Spinal/epidural anaesthesia or puncture
 When neuraxial anaesthesia (spinal/epidural anaesthesia) or spinal/epidural puncture is employed, patients treated with antithrombotic agents for prevention of thromboembolic complications are at risk of developing an epidural or spinal haematoma which can result in long-term or permanent paralysis.
 The risk of these events may be increased by the post-operative use of indwelling epidural catheters or the concomitant use of medicinal products affecting haemostasis.
@@ -92,9 +90,12 @@ The risk may also be increased by traumatic or repeated epidural or spinal punct
 Patients are to be frequently monitored for signs and symptoms of neurological impairment (e.g. numbness or weakness of the legs, bowel or bladder dysfunction).
 If neurological compromise is noted, urgent diagnosis and treatment is necessary.
 Prior to neuraxial intervention the physician should consider the potential benefit versus the risk in anticoagulated patients or in patients to be anticoagulated for thromboprophylaxis.
-An epidural catheter is not to be removed earlier than 18 hours after the last administration of rivaroxaban.
-The next rivaroxaban dose is to be administered not earlier than 6 hours after the removal of the catheter.
+At least 18 hours should elapse after the last administration of rivaroxaban before removal of an epidural catheter.
+Following removal of the catheter, at least 6 hours should elapse before the next rivaroxaban dose is administered.
 If traumatic puncture occurs the administration of rivaroxaban is to be delayed for 24 hours.
+
+Dosing recommendations before and after invasive procedures and surgical intervention other than elective hip or knee replacement surgery
+If an invasive procedure or surgical intervention is required, Xarelto should be stopped at least 24 hours before the intervention, if possible and based on the clinical judgement of the physician.
 
 [Xarelto 15 mg film-coated tablets]
 
@@ -112,8 +113,6 @@ Treatment with Xarelto is not recommended for these patients.
 
 Haemodynamically unstable PE patients or patients who require thrombolysis or pulmonary embolectomy
 Xarelto is not recommended as an alternative to unfractionated heparin in patients with pulmonary embolism who are haemodynamically unstable or may receive thrombolysis or pulmonary embolectomy since the safety and efficacy of Xarelto have not been established in these clinical situations.
-
-If an invasive procedure or surgical intervention is required, Xarelto should be stopped at least 24 hours before the intervention, if possible and based on the clinical judgement of the physician.
 
 [Xarelto 20 mg film-coated tablets]
 

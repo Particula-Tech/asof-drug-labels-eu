@@ -14,6 +14,7 @@ If bleeding cannot be controlled by the above measures, administration of a spec
 However, there is currently very limited clinical experience with the use of these products in individuals receiving rivaroxaban.
 The recommendation is also based on limited non-clinical data.
 Re-dosing of recombinant factor VIIa shall be considered and titrated depending on improvement of bleeding.
+Depending on local availability, a consultation with a coagulation expert should be considered in case of major bleedings.
 
 Protamine sulfate and vitamin K are not expected to affect the anticoagulant activity of rivaroxaban.
 There is no experience with antifibrinolytic agents (tranexamic acid, aminocaproic acid) in individuals receiving rivaroxaban.
