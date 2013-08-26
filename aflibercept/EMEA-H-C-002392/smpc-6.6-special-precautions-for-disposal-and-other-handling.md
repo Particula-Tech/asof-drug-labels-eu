@@ -14,11 +14,11 @@ For the intravitreal injection, a 30 G x ½ inch injection needle should be used
 Instructions for use of pre-filled syringe:
 
 1.
-When ready to administer Eylea, open the carton and remove the sterilized blister.
+When ready to administer Eylea, open the carton and remove the sterilised blister.
 Carefully peel open the blister ensuring the sterility of its contents.
 Keep the syringe in the sterile tray until you are ready for assembly.
 2.
-Using aseptic technique, remove the syringe from the sterilized blister.
+Using aseptic technique, remove the syringe from the sterilised blister.
 3.
 To remove the syringe cap, hold the syringe in one hand while using the other hand to grasp the syringe cap with the thumb and fore finger.
 Please note: Snap off (do not turn or twist) the syringe cap.
@@ -33,9 +33,9 @@ Remove the plastic needle shield.
 7.
 Holding the syringe with the needle pointing up, check the syringe for bubbles.
 If there are bubbles, gently tap the syringe with your finger until the bubbles rise to the top.
-
 8.
-To eliminate all bubbles and to expel excess medicinal product, slowly depress the plunger to align the cylindrical base of the dome plunger with the black dosing line on the syringe (equivalent to 50 microlitres).
+To eliminate all bubbles and to expel excess medicinal product, slowly depress the plunger to align the cylindrical base of the dome plunger with the black dosing line on the syringe (equivalent to
+50 microlitres).
 
 9.
 The pre-filled syringe is for single use only.
@@ -49,7 +49,6 @@ Since the vial contains more volume (100 microlitres) than the recommended dose 
 Instructions for use of vials:
 
 Remove the plastic cap and disinfect the outer part of the rubber stopper of the vial.
-
 Attach the 18 G, 5-micron filter needle supplied in the carton to a 1-ml sterile, Luer-lock syringe.
 
 Push the filter needle into the centre of the vial stopper until the needle is completely inserted into the vial and the tip touches the bottom or bottom edge of the vial.
@@ -60,6 +59,7 @@ Continue to tilt the vial during withdrawal keeping the bevel of the filter need
 Ensure that the plunger rod is drawn sufficiently back when emptying the vial in order to completely empty the filter needle.
 Remove the filter needle and properly dispose of it.
 Note: Filter needle is not to be used for intravitreal injection.
+
 Using aseptic technique, firmly twist a 30 G x ½ inch injection needle to the Luer-lock syringe tip.
 
 When ready to administer Eylea, remove the plastic needle shield.

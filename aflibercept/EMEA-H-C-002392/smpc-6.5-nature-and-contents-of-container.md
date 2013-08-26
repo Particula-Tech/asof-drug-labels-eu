@@ -5,4 +5,5 @@ Pack size of 1.
 
 [Eylea 40 mg/ml solution for injection in a vial.]
 
-100 microlitres of solution in a vial (type I glass) with a stopper (elastomeric rubber), and an 18 G filter needle.
+100 microlitres of solution in a vial (type I glass) with a stopper (elastomeric rubber), and an 18
+G filter needle.
