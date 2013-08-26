@@ -10,13 +10,13 @@ The safety profile of levetiracetam is generally similar across age groups (adul
 Tabulated list of adverse reactions
 
 Adverse reactions reported in clinical studies (adults, adolescents, children and infants > 1 month) and from post-marketing experience are listed in the following table per System Organ Class and per frequency.
-The frequency is defined as follows: very comï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½and very rare (<1/10,000).
+The frequency is defined as follows: very common (â‰¥1/10); common (â‰¥1/100 to <1/10); uncommon (â‰¥1/1,000 to <1/100); rare (â‰¥1/10,000 to <1/1,000) and very rare (<1/10,000).
 
 | MedDRA SOC | Frequency category |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | Very common | Common | Uncommon | Rare |
 | Infections and infestations | Nasopharyngitis |  |  | Infection |
-| Blood and lymphatic system disorders |  |  | Thrombocytopenia, leukopenia | Pancytopenia, neutropenia |
+| Blood and lymphatic system disorders |  |  | Thrombocytopenia, leukopenia | Pancytopenia, neutropenia, agranulocytosis |
 | Metabolism and nutrition disorders |  | Anorexia | Weight decreased , weight increase |  |
 | Psychiatric disorders |  | Depression, hostility/ aggression, anxiety, insomnia, nervousness/irritability | Suicide attempt, suicidal ideation, psychotic disorder, abnormal behaviour, hallucination, anger, confusional state , panic attack, affect lability/mood swings, agitation | Completed suicide, personality disorder, thinking abnormal |
 | Nervous system disorders | Somnolence, headache | Convulsion, balance disorder, dizziness, lethargy, tremor | Amnesia, memory impairment, coordination abnormal/ataxia, paraesthesia, disturbance in attention | Choreoathetosis, dyskinesia, hyperkinesia |
@@ -26,15 +26,23 @@ The frequency is defined as follows: very comï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿
 | Gastrointestinal disorders |  | Abdominal pain, diarrhoea, dyspepsia, vomiting, nausea |  | Pancreatitis |
 | Hepatobiliary disorders |  |  | Liver function test abnormal | Hepatic failure, hepatitis |
 | Skin and subcutaneous tissue disorders |  | Rash | Alopecia, eczema, pruritus, | Toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme |
-| Musculoskeletal and connective tissue disorders |  |  | Muscular weakness, myalgia |  |
-| General disorders and administration site conditions |  | Asthenia/fatigue |  |  |
-| Injury, poisoning and procedural complications |  |  | Injury |  |
+| Musculoskeletal |  |  | Muscular weakness, |  |
+
+and connective myalgia
+tissue disorders
+General disorders Asthenia/fatigue
+and
+administration
+site conditions
+Injury, poisoning Injury
+and procedural
+complications
 
 Description of selected adverse reactions
 
 The risk of anorexia is higher when topiramate is coadministered with levetiracetam.
 In several cases of alopecia, recovery was observed when levetiracetam was discontinued.
-Bone marrow suppression was identified in some of the casesof pancytopenia.
+Bone marrow suppression was identified in some of the cases of pancytopenia.
 
 Paediatric population
 
@@ -56,7 +64,7 @@ However subjects, who took Keppra in the long-term open label follow-up study, d
 
 [Keppra 500 mg film-coated tablets]
 
-Tï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½and very rare (<1/10,000).
+(all sentences already above)
 
 [Keppra 750 mg film-coated tablets]
 
@@ -68,18 +76,16 @@ Tï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï
 
 [Keppra 100 mg/ml oral solution]
 
-The frequï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½and very rare (<1/10,000).
-
 | MedDRA SOC | Frequency category |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | Very common | Common | Uncommon | Rare |
 | Infections and infestations | Nasopharyngitis |  |  | Infection |
-| Blood and lymphatic system disorders |  |  | Thrombocytopenia, leukopenia | Pancytopenia, neutropenia |
+| Blood and lymphatic system disorders |  |  | Thrombocytopenia, leukopenia | Pancytopenia, neutropenia, agranulocytosis |
 | Metabolism and nutrition disorders |  | Anorexia | Weight decreased , weight increase |  |
-| Psychiatric disorders |  | Depression, hostility/ aggression, anxiety, insomnia, nervousness/irritability | Suicide attempt, suicidal ideation, psychotic disorder, abnormal behaviour, hallucination, anger, confusional state , panic attack, affect lability/mood swings, agitation | Completed suicide, personality disorder, thinking abnormal |
-| Nervous system disorders | Somnolence, headache | Convulsion, balance disorder, dizziness, lethargy, tremor | Amnesia, memory impairment, coordination abnormal/ataxia, | Choreoathetosis, dyskinesia, hyperkinesia |
+| Psychiatric disorders |  | Depression, hostility/ aggression, anxiety, insomnia, nervousness/irritability | Suicide attempt, suicidal ideation, psychotic disorder, abnormal behaviour, hallucination, anger, | Completed suicide, personality disorder, thinking abnormal |
 |  | Very common | Common | Uncommon | Rare |
-|  |  |  | paraesthesia, disturbance in attention |  |
+|  |  |  | confusional state , panic attack, affect lability/mood swings, agitation |  |
+| Nervous system disorders | Somnolence, headache | Convulsion, balance disorder, dizziness, lethargy, tremor | Amnesia, memory impairment, coordination abnormal/ataxia, paraesthesia, disturbance in attention | Choreoathetosis, dyskinesia, hyperkinesia |
 | Eye disorders |  |  | Diplopia, vision blurred |  |
 | Ear and labyrinth disorders |  | Vertigo |  |  |
 | Respiratory, thoracic and mediastinal disorders |  | Cough |  |  |
@@ -90,23 +96,19 @@ The frequï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿
 | General disorders and administration site conditions |  | Asthenia/fatigue |  |  |
 | Injury, poisoning and procedural complications |  |  | Injury |  |
 
-Bone marrow suppression wasidentified in some of the casesof pancytopenia.
-
 [Keppra 100 mg/ml concentrate for solution for infusion]
 
 Since there was limited exposure for Keppra intravenous use and since oral and intravenous formulations are bioequivalent, the safety information of Keppra intravenous will rely on Keppra oral use.
-
-The frequency is defined as foï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½and very rare (<1/10,000).
 
 | MedDRA SOC | Frequency category |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | Very common | Common | Uncommon | Rare |
 | Infections and infestations | Nasopharyngitis |  |  | Infection |
-| Blood and lymphatic system disorders |  |  | Thrombocytopenia, leukopenia | Pancytopenia, neutropenia |
-| Metabolism and nutrition disorders |  | Anorexia | Weight decreased , weight increase |  |
-| Psychiatric disorders |  | Depression, hostility/ aggression, anxiety, insomnia, nervousness/irritability | Suicide attempt, suicidal ideation, psychotic disorder, abnormal behaviour, hallucination, anger, | Completed suicide, personality disorder, thinking abnormal |
+| Blood and lymphatic system disorders |  |  | Thrombocytopenia, leukopenia | Pancytopenia, neutropenia, agranulocytosis |
+| Metabolism and nutrition |  | Anorexia | Weight decreased , weight increase |  |
 |  | Very common | Common | Uncommon | Rare |
-|  |  |  | confusional state , panic attack, affect lability/mood swings, agitation |  |
+| disorders |  |  |  |  |
+| Psychiatric disorders |  | Depression, hostility/ aggression, anxiety, insomnia, nervousness/irritability | Suicide attempt, suicidal ideation, psychotic disorder, abnormal behaviour, hallucination, anger, confusional state , panic attack, affect lability/mood swings, agitation | Completed suicide, personality disorder, thinking abnormal |
 | Nervous system disorders | Somnolence, headache | Convulsion, balance disorder, dizziness, lethargy, tremor | Amnesia, memory impairment, coordination abnormal/ataxia, paraesthesia, disturbance in attention | Choreoathetosis, dyskinesia, hyperkinesia |
 | Eye disorders |  |  | Diplopia, vision blurred |  |
 | Ear and labyrinth disorders |  | Vertigo |  |  |

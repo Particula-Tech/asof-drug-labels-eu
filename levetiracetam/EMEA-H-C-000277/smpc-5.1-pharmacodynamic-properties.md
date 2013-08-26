@@ -2,14 +2,14 @@
 
 Pharmacotherapeutic group: antiepileptics, other antiepileptics, ATC code: N03AX14.
 
-The active substance, levetiracetam, is a pyrrolidone derivative (S-enantiomer of �-ethyl-2-oxo-1-pyrrolidine acetamide), chemically unrelated to existing antiepileptic active substances.
+The active substance, levetiracetam, is a pyrrolidone derivative (S-enantiomer of α-ethyl-2-oxo-1-pyrrolidine acetamide), chemically unrelated to existing antiepileptic active substances.
 
 Mechanism of action
 
 The mechanism of action of levetiracetam still remains to be fully elucidated but appears to be different from the mechanisms of current antiepileptic medicinal products.
 In vitro and in vivo experiments suggest that levetiracetam does not alter basic cell characteristics and normal neurotransmission.
 In vitro studies show that levetiracetam affects intraneuronal Ca2+ levels by partial inhibition of N-type Ca2+ currents and by reducing the release of Ca2+ from intraneuronal stores.
-In addition it partially reverses the reductions in GABA- and glycine-gated currents induced by zinc and �- carbolines.
+In addition it partially reverses the reductions in GABA- and glycine-gated currents induced by zinc and β-carbolines.
 Furthermore, levetiracetam has been shown in in vitro studies to bind to a specific site in rodent brain tissue.
 This binding site is the synaptic vesicle protein 2A, believed to be involved in vesicle fusion and neurotransmitter exocytosis.
 Levetiracetam and related analogs show a rank order of affinity for binding to the synaptic vesicle protein 2A which correlates with the potency of their anti-seizure protection in the mouse audiogenic model of epilepsy.
@@ -29,15 +29,16 @@ In adults, levetiracetam efficacy has been demonstrated in 3 double-blind, place
 In a pooled analysis, the percentage of patients who achieved 50 % or greater reduction from baseline in the partial onset seizure frequency per week at stable dose (12/14 weeks) was of 27.7 %, 31.6 % and 41.3 % for patients on 1000, 2000 or 3000 mg levetiracetam respectively and of 12.6 % for patients on placebo.
 
 Paediatric population
-
 In paediatric patients (4 to 16 years of age), levetiracetam efficacy was established in a double-blind, placebo-controlled study, which included 198 patients and had a treatment duration of 14 weeks.
 In this study, the patients received levetiracetam as a fixed dose of 60 mg/kg/day (with twice a day dosing).
 44.6 % of the levetiracetam treated patients and 19.6 % of the patients on placebo had a 50 % or greater reduction from baseline in the partial onset seizure frequency per week.
 With continued long-term treatment, 11.4 % of the patients were seizure-free for at least 6 months and 7.2 % were seizure-free for at least 1 year.
+
 In paediatric patients (1 month to less than 4 years of age), levetiracetam efficacy was established in a double-blind, placebo-controlled study, which included 116 patients and had a treatment duration of 5 days.
 In this study, patients were prescribed 20 mg/kg, 25 mg/kg, 40 mg/kg or 50 mg/kg daily dose of oral solution based on their age titration schedule.
 A dose of 20 mg/kg/day titrating to 40 mg/kg/day for infants one month to less than six months and a dose of 25 mg/kg/day titrating to 50 mg/kg/day for infants and children 6 months to less than 4 years old, was use in this study.
-The total daily dose was administered b.i.d. ������������������������������������������������������������������������������������������% reduction from baseline in average daily partial onset seizure frequency) assessed by a blinded central reader using a 48-hour video EEG.
+The total daily dose was administered b.i.d.
+The primary measure of effectiveness was the responder rate (percent of patients with ≥ 50 % reduction from baseline in average daily partial onset seizure frequency) assessed by a blinded central reader using a 48-hour video EEG.
 The efficacy analysis consisted of 109 patients who had at least 24 hours of video EEG in both baseline and evaluation periods.
 43.6 % of the levetiracetam treated patients and 19.6 % of the patients on placebo were considered as responders.
 The results are consistent across age group.
@@ -69,30 +70,28 @@ With continued long-term treatment, 47.4 % of the patients were free of tonic-cl
 
 [Keppra 500 mg film-coated tablets]
 
-The total daily dose was administered b.i.d.
-The primary measure of effectiveness was the responder rate (percen�����������������������% reduction from baseline in average daily partial onset seizure frequency) assessed by a blinded central reader using a 48-hour video EEG.
-
 Levetiracetam efficacy was established in a 24-week double-blind, placebo-controlled study, which included adults, adolescents and a limited number of children suffering from idiopathic generalized epilepsy with primary generalized tonic-clonic (PGTC) seizures in different syndromes (juvenile myoclonic epilepsy, juvenile absence epilepsy, childhood absence epilepsy, or epilepsy with Grand Mal seizures on awakening).
 
 [Keppra 750 mg film-coated tablets]
 
-The primary measure of effectiveness was the responder rate ������������������������������% reduction from baseline in average daily partial onset seizure frequency) assessed by a blinded central reader using a 48-hour video EEG.
+(all sentences already above)
 
 [Keppra 1000 mg film-coated tablets]
 
-The primary measure of effectiveness was the responder rate (percent o��������������������% reduction from baseline in average daily partial onset seizure frequency) assessed by a blinded central reader using a 48-hour video EEG.
+(all sentences already above)
 
 [Keppra 100 mg/ml oral solution]
 
 In a pooled analysis, the percentage of patients who achieved 50% or greater reduction from baseline in the partial onset seizure frequency per week at stable dose (12/14 weeks) was of 27.7 %, 31.6 % and 41.3 % for patients on 1000, 2000 or 3000 mg levetiracetam respectively and of 12.6 % for patients on placebo.
 
-The primary measure of effectiveness was the responder rate (percent of patien���������50% reduction from baseline in average daily partial onset seizure frequency) assessed by a blinded central reader using a 48-hour video EEG.
+The primary measure of effectiveness was the responder rate (percent of patients with ≥ 50% reduction from baseline in average daily partial onset seizure frequency) assessed by a blinded central reader using a 48-hour video EEG.
 
-Six-month seizure freedom was achieved in 73.0 % of levetiracetam-treated patients and 72.8 % of carbamazepine-CR treated patients; the adjusted absolute difference between treatments was 0.2% (95 % CI: -7.8 8.2).
+Six-month seizure freedom was achieved in 73.0 % of levetiracetam-treated patients and 72.8 % of carbamazepine-CR treated patients; the adjusted absolute difference between treatments was 0.2%
+(95 % CI: -7.8 8.2).
 
 [Keppra 100 mg/ml concentrate for solution for infusion]
 
-In addition, it partially reverses the reductions in GABA- and glycine-gated currents induced b������������- carbolines.
+In addition, it partially reverses the reductions in GABA- and glycine-gated currents induced by zinc and β-carbolines.
 Levetiracetam and related analogues show a rank order of affinity for binding to the synaptic vesicle protein 2A which correlates with the potency of their anti-seizure protection in the mouse audiogenic model of epilepsy.
 
 Adjunctive therapy in the treatment of partial onset seizures with or without secondary generalisation in adults, adolescents and children from 4 years of age with epilepsy.
