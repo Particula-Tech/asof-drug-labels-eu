@@ -14,9 +14,9 @@ Frequencies were defined as follows:
 
 Common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100).
 
+1 An adverse event judged related to therapy by the investigating physician.
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-1 An adverse event judged related to therapy by the investigating physician.
 Infections and infestations
 Common Urinary tract infection
 Nasopharyngitis
@@ -56,7 +56,6 @@ In 2-year controlled clinical trials in MS patients, hypersensitivity reactions 
 Anaphylactic/anaphylactoid reactions occurred in less than 1% of patients receiving TYSABRI.
 Hypersensitivity reactions usually occurred during the infusion or within the 1-hour period after the completion of the infusion (See section 4.4).
 In post-marketing experience, there have been reports of hypersensitivity reactions which have occurred with one or more of the following associated symptoms: hypotension, hypertension, chest pain, chest discomfort, dyspnoea, angioedema, in addition to more usual symptoms such as rash and urticaria.
-
 Immunogenicity
 
 In 10% of patients antibodies against natalizumab were detected in 2-year controlled clinical trials in MS patients.
