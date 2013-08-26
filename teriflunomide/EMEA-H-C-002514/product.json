@@ -1,0 +1,16 @@
+{
+  "active_substance": "teriflunomide",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/002514",
+  "eu_number": "EU/1/13/838",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2013-08-26",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/aubagio",
+  "molecule": "teriflunomide",
+  "molecule_name": "TERIFLUNOMIDE",
+  "name": "Aubagio",
+  "register_name": "AUBAGIO",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h838.htm"
+}
