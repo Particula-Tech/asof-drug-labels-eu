@@ -1,0 +1,16 @@
+{
+  "active_substance": "esomeprazole",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/002618",
+  "eu_number": "EU/1/13/860",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2013-08-26",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/nexium-control",
+  "molecule": "esomeprazole",
+  "molecule_name": "ESOMEPRAZOLE",
+  "name": "Nexium Control",
+  "register_name": "Nexium Control",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h860.htm"
+}
