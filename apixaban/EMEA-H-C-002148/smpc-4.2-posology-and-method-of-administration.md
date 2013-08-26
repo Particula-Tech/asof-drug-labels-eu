@@ -15,10 +15,10 @@ The recommended duration of treatment is 10 to 14 days.
 
 Prevention of stroke and systemic embolism in patients with non-valvular atrial fibrillation (NVAF)
 The recommended dose of Eliquis is 5 mg taken orally twice daily.
+
 Dose reduction
 The recommended dose of Eliquis is 2.5 mg taken orally twice daily in patients with NVAF and at least two of the following characteristics: age ≥80 years, body weight ≤60 kg, or serum creatinine
 ≥1.5 mg/dl (133 micromole/l).
-
 Therapy should be continued long term.
 
 Missed Dose
@@ -44,7 +44,7 @@ Limited clinical data in patients with severe renal impairment (creatinine clear
 
 Prevention of stroke and systemic embolism in patients with non-valvular atrial fibrillation (NVAF)
 No dose adjustment is necessary in patients with mild or moderate renal impairment (see section 5.2).
-Patients with serum creatinine ≥1.5 mg/dL (133 micromol/l) associated with age ≥80 years or body weight ≤60 kg should receive the lower dose of apixaban 2.5 mg twice daily.
+Patients with serum creatinine ≥1.5 mg/dL (133 micromole/l) associated with age ≥80 years or body weight ≤60 kg should receive the lower dose of apixaban 2.5 mg twice daily.
 Patients with exclusive criteria of severe renal impairment (creatinine clearance 15-29 ml/min) should also receive the lower dose of apixaban 2.5 mg twice daily.
 
 Hepatic impairment
@@ -57,6 +57,7 @@ It should be used with caution in patients with mild or moderate hepatic impairm
 Patients with elevated liver enzymes (ALT/AST >2 x ULN) or total bilirubin ≥1.5 x ULN were excluded in clinical trials.
 Therefore Eliquis should be used with caution in this population (see sections 4.4 and 5.2).
 Prior to initiating Eliquis, liver function testing should be performed.
+
 Body weight
 VTEp - No dose adjustment required (see section 5.2).
 NVAF - No dose adjustment required, unless criteria for dose reduction are met (see Dose reduction at the beginning of section 4.2).

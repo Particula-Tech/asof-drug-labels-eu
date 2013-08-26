@@ -11,8 +11,8 @@ Due to an increased bleeding risk, concomitant treatment with any other anticoag
 
 The concomitant use of Eliquis with antiplatelet agents increases the risk of bleeding (see section 4.5).
 Care is to be taken if patients are treated concomitantly with non-steroidal anti-inflammatory drugs (NSAIDs), including acetylsalicylic acid.
-Following surgery, other platelet aggregation inhibitors are not recommended concomitantly with Eliquis (see section 4.5).
 
+Following surgery, other platelet aggregation inhibitors are not recommended concomitantly with Eliquis (see section 4.5).
 In patients with atrial fibrillation and conditions that warrant mono or dual antiplatelet therapy, a careful assessment of the potential benefits against the potential risks should be made before combining this therapy with Eliquis.
 
 In a clinical trial of patients with atrial fibrillation, concomitant use of ASA increased the major bleeding risk on apixaban from 1.8% per year to 3.4% per year and increased the bleeding risk on warfarin from 2.7% per year to 4.6% per year.
@@ -47,6 +47,7 @@ The risk may also be increased by traumatic or repeated epidural or spinal punct
 Patients are to be frequently monitored for signs and symptoms of neurological impairment (e.g., numbness or weakness of the legs, bowel or bladder dysfunction).
 If neurological compromise is noted, urgent diagnosis and treatment is necessary.
 Prior to neuraxial intervention the physician should consider the potential benefit versus the risk in anticoagulated patients or in patients to be anticoagulated for thromboprophylaxis.
+
 There is no clinical experience with the use of apixaban with indwelling intrathecal or epidural catheters.
 In case there is such need and based on the general PK characteristics of apixaban, a time interval of 20-30 hours (i.e., 2 x half-life) between the last dose of apixaban and catheter withdrawal should elapse, and at least one dose should be omitted before catheter withdrawal.
 The next dose of apixaban may be given at least 5 hours after catheter removal.
@@ -63,7 +64,7 @@ Limited clinical data in patients with severe renal impairment (creatinine clear
 Prevention of stroke and systemic embolism in patients with non-valvular atrial fibrillation (NVAF)
 No dose adjustment is necessary in patients with mild or moderate renal impairment (see section 4.2 and 5.2).
 
-Patients with serum creatinine ≥1.5 mg/dL (133 micromol/l) associated with age ≥80 years or body weight ≤60 kg should receive the lower dose of apixaban 2.5 mg twice daily.
+Patients with serum creatinine ≥1.5 mg/dL (133 micromole/l) associated with age ≥80 years or body weight ≤60 kg should receive the lower dose of apixaban 2.5 mg twice daily.
 Patients with exclusive criteria of severe renal impairment (creatinine clearance 15-29 ml/min) should also receive the lower dose of apixaban 2.5 mg twice daily (see section 4.2).
 
 Elderly patients
@@ -88,7 +89,6 @@ Interaction with inducers of both CYP3A4 and P-gp
 The concomitant use of Eliquis with strong CYP3A4 and P-gp inducers (e.g., rifampicin, phenytoin, carbamazepine, phenobarbital or St. John’s Wort) may lead to a ~50% reduction in apixaban exposure.
 In a clinical study in atrial fibrillation patients, diminished efficacy and a higher risk of bleeding were observed with coadministration of apixaban with strong inducers of both CYP3A4 and P-gp compared with using apixaban alone.
 Strong inducers of both CYP3A4 and P-gp should be co-administered with caution (see section 4.5).
-
 Hip fracture surgery
 Apixaban has not been studied in clinical trials in patients undergoing hip fracture surgery to evaluate efficacy and safety in these patients.
 Therefore, it is not recommended in these patients.

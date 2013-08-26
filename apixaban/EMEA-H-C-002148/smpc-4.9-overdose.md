@@ -14,3 +14,5 @@ Thus, administration of activated charcoal may be useful in the management of ap
 If life-threatening bleeding cannot be controlled by the above measures, administration of recombinant factor VIIa may be considered.
 However, there is currently no experience with the use of recombinant factor VIIa in individuals receiving apixaban.
 Re-dosing of recombinant factor VIIa could be considered and titrated depending on improvement of bleeding.
+
+Depending on local availability, a consultation of a coagulation expert should be considered in case of major bleedings.

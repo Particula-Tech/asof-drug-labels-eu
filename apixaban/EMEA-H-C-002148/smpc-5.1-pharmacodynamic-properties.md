@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: not yet assigned, ATC code: B01AF02
+Pharmacotherapeutic group: direct factor Xa inhibitors, ATC code: B01AF02
 
 Mechanism of action
 Apixaban is a potent, oral, reversible, direct and highly selective active site inhibitor of factor Xa.
@@ -9,6 +9,7 @@ Apixaban inhibits free and clot-bound factor Xa, and prothrombinase activity.
 Apixaban has no direct effects on platelet aggregation, but indirectly inhibits platelet aggregation induced by thrombin.
 By inhibiting factor Xa, apixaban prevents thrombin generation and thrombus development.
 Preclinical studies of apixaban in animal models have demonstrated antithrombotic efficacy in the prevention of arterial and venous thrombosis at doses that preserved haemostasis.
+
 Pharmacodynamic effects
 The pharmacodynamic effects of apixaban are reflective of the mechanism of action (FXa inhibition).
 As a result of FXa inhibition, apixaban prolongs clotting tests such as prothrombin time (PT), INR and activated partial thromboplastin time (aPTT).
@@ -40,9 +41,9 @@ The ADVANCE-3 study included 5,407 patients undergoing elective hip replacement,
 Subjects received either apixaban 2.5 mg given orally twice daily (po bid) or enoxaparin 40 mg administered subcutaneously once daily (sc od).
 The first dose of apixaban was given 12 to 24 hours post-surgery, whereas enoxaparin was started 9 to 15 hours prior to surgery.
 Both apixaban and enoxaparin were given for 32-38 days in the ADVANCE-3 study and for 10-14 days in the ADVANCE-2 study.
-
 Based on patient medical history in the studied population of ADVANCE-3 and ADVANCE-2
 (8,464 patients), 46% had hypertension, 10% had hyperlipidemia, 9% had diabetes, and 8% had coronary artery disease.
+
 Apixaban demonstrated a statistically superior reduction in the primary endpoint, a composite of all VTE/all cause death, and in the Major VTE endpoint, a composite of proximal DVT, non-fatal PE, and VTE-related death, compared to enoxaparin in both elective hip or knee replacement surgery (see Table 2).
 
 Table 2: Efficacy results from pivotal phase III studies
@@ -82,9 +83,9 @@ Table 3: Bleeding results from pivotal phase III studies*
 2 Includes events occurring after first dose of apixaban (post-surgery)
 
 The overall incidences of adverse reactions of bleeding, anaemia and abnormalities of transaminases (e.g., alanine aminotransferase levels) were numerically lower in patients on apixaban compared to enoxaparin in the phase II and phase III studies in elective hip and knee replacement surgery.
-
 In the knee replacement surgery study during the intended treatment period, in the apixaban arm 4 cases of PE were diagnosed against no cases in the enoxaparin arm.
 No explanation can be given to this higher number of PE.
+
 Prevention of stroke and systemic embolism in patients with non-valvular atrial fibrillation (NVAF)
 A total of 23,799 patients were randomised in the clinical program (ARISTOTLE: apixaban versus warfarin, AVERROES: apixaban versus ASA) including 11,927 randomised to apixaban.
 The program was designed to demonstrate the efficacy and safety of apixaban for the prevention of stroke and systemic embolism in patients with nonvalvular atrial fibrillation (NVAF) and one or more additional risk factors, such as:
@@ -192,6 +193,7 @@ The European Medicines Agency has deferred the obligation to submit the results 
 [Eliquis 5 mg film-coated tablets]
 
 The mean age was 69.1 years, the mean CHADS2 score was 2.1, 18.9 % of patients had prior stroke or TIA.
+
 In the study, apixaban achieved statistically significant superiority in the primary endpoint of prevention of stroke (haemorrhagic or ischaemic) and systemic embolism (see Table 2) compared with warfarin.
 
 Table 2: Efficacy Outcomes in Patients with Atrial Fibrillation in the ARISTOTLE Study
@@ -199,6 +201,20 @@ Table 2: Efficacy Outcomes in Patients with Atrial Fibrillation in the ARISTOTLE
 Statistically significant superiority was also achieved in the key secondary endpoints of both major bleeding and all-cause death (see Table 3).
 
 Table 3: Secondary endpoints in Patients with Atrial Fibrillation in the ARISTOTLE Study
+
+|  | Apixaban N = 9088 n (%/year) | Warfarin N = 9052 n (%/year) | Hazard Ratio (95% CI) | p-value |
+| --- | --- | --- | --- | --- |
+| Bleeding Outcomes |  |  |  |  |
+| Major* | 327 (2.13) | 462 (3.09) | 0.69 (0.60, 0.80) | < 0.0001 |
+| Fatal | 10 (0.06) | 37 (0.24) |  |  |
+| Intracranial | 52 (0.33) | 122 (0.80) |  |  |
+| Major + CRNM† | 613 (4.07) | 877 (6.01) | 0.68 (0.61, 0.75) | < 0.0001 |
+| All | 2356 (18.1) | 3060 (25.8) | 0.71 (0.68, 0.75) | < 0.0001 |
+| Other Endpoints |  |  |  |  |
+| All-cause death | 603 (3.52) | 669 (3.94) | 0.89 (0.80, 1.00) | 0.0465 |
+| Myocardial infarction | 90 (0.53) | 102 (0.61) | 0.88 (0.66, 1.17) |  |
+
+† Clinically Relevant Non-Major
 
 In the study, apixaban achieved statistically significant superiority in the primary endpoint of prevention of stroke (haemorrhagic, ischaemic or unspecified) or systemic embolism (see Table 4) compared to ASA.
 
@@ -209,8 +225,8 @@ Table 5: Bleeding Events in Patients with Atrial Fibrillation in the AVERROES St
 
 |  | Apixaban N = 2798 n(%/year) | ASA N = 2780 n (%/year) | Hazard Ratio (95%CI) | p-value |
 | --- | --- | --- | --- | --- |
-| Major | 45 (1.41) | 29 (0.92) | 1.54 (0.96, 2.45) | 0.0716 |
+| Major* | 45 (1.41) | 29 (0.92) | 1.54 (0.96, 2.45) | 0.0716 |
 | Fatal, n | 5 (0.16) | 5 (0.16) |  |  |
 | Intracranial, n | 11 (0.34) | 11 (0.35) |  |  |
-| Major + CRNM | 140 (4.46) | 101 (3.24) | 1.38 (1.07, 1.78) | 0.0144 |
+| Major + CRNM† | 140 (4.46) | 101 (3.24) | 1.38 (1.07, 1.78) | 0.0144 |
 | All | 325 (10.85) | 250 (8.32) | 1.30 (1.10, 1.53) | 0.0017 |

@@ -16,9 +16,11 @@ In the apixaban vs warfarin study the incidence of ISTH major gastrointestinal b
 The incidence of ISTH major intraocular bleeding with apixaban was 0.18%/year.
 
 Tabulated list of adverse reactions
-Table 1 shows the adverse reactions ranked under headings of System Organ Class and frequency using the following convention: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to < 1/1,000) ); very rare (< 1/10,000); not known (cannot be estimated from the available data) for both VTEp and NVAF.
+Table 1 shows the adverse reactions ranked under headings of System Organ Class and frequency using the following convention: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data) for both VTEp and NVAF.
 
-| Preferred Term | VTEp | NVAF |
+Table 1
+
+| System Organ Class | VTEp | NVAF |
 | --- | --- | --- |
 | Blood and lymphatic system disorders |  |  |
 | Anaemia (including postoperative and haemorrhagic anaemia, and respective laboratory parameters) | Common | - |
@@ -76,7 +78,7 @@ Over the two phase III studies, 24.4% (apixaban vs warfarin) and 9.6% (apixaban 
 
 Table 1 shows the adverse reactions ranked under headings of System Organ Class and frequency using the following convention: very common (≥1/10) common (≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data).
 
-| Preferred Term | NVAF |
+| System Organ Class | NVAF |
 | --- | --- |
 | Immune system disorders |  |
 | Hypersensitivity (including skin rash, anaphylactic reaction and allergic edema) | Uncommon |
