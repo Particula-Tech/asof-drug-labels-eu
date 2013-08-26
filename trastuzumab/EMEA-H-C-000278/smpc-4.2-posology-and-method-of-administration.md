@@ -68,10 +68,53 @@ Herceptin is not recommended for use in children below 18 years of age due to in
 Method of administration
 Herceptin loading dose should be administered as a 90-minute intravenous infusion.
 Do not administer as an intravenous push or bolus.
-Herceptin intravenous infusion should be administered by a health-care provider prepared to manage anaphylaxis and an emergency kit should be available.
+Herceptin intravenous infusion should be administered by a healthcare provider prepared to manage anaphylaxis and an emergency kit should be available.
 Patients should be observed for at least six hours after the start of the first infusion and for two hours after the start of the subsequent infusions for symptoms like fever and chills or other infusion-related symptoms (see sections 4.4 and 4.8).
 Interruption or slowing the rate of the infusion may help control such symptoms.
 The infusion may be resumed when symptoms abate.
 If the initial loading dose was well tolerated, the subsequent doses can be administered as a 30-minute infusion.
 
 For instructions on use and handling of Herceptin refer to section 6.6.
+
+[Herceptin 600 mg/5 mL solution for injection]
+
+Herceptin treatment should only be initiated by a physician experienced in the administration of cytotoxic chemotherapy (see section 4.4), and should be administered by a healthcare professional only.
+
+It is important to check the product labels to ensure that the correct formulation (intravenous or subcutaneous fixed dose) is being administered to the patient, as prescribed.
+Herceptin subcutaneous formulation is not intended for intravenous administration and should be administered via a subcutaneous injection only.
+Limited information is currently available on switches from one formulation to the other.
+
+Posology
+
+The recommended dose for Herceptin subcutaneous formulation is 600 mg/5 mL irrespective of the patient’s body weight.
+No loading dose is required.
+This dose should be administered subcutaneously over 2-5 minutes every three weeks.
+
+In the pivotal trial (BO22227) Herceptin subcutaneous formulation was administered in the neoadjuvant/adjuvant setting in patients with early breast cancer.
+The preoperative chemotherapy regimen consisted of docetaxel (75 mg/m²) followed by FEC (5FU, epirubicin and cyclophosphamide) at a standard dose.
+
+See section 5.1 for chemotherapy combination dosing.
+
+Patients with MBC should be treated with Herceptin until progression of disease.
+
+Refer to the Summary of Product Characteristics (SmPC) for paclitaxel, docetaxel or aromatase inhibitor for information on dose reduction or delays.
+
+If left ventricular ejection fraction (LVEF) drops ≥ 10 ejection fraction (EF) points from baseline AND to below 50 %, treatment should be suspended and a repeat LVEF assessment performed within approximately 3 weeks.
+If LVEF has not improved, or declined further, or symptomatic CHF has developed, discontinuation of Herceptin should be strongly considered, unless the benefits for the individual patient are deemed to outweigh the risks.
+All such patients should be referred for assessment by a cardiologist and followed up.
+If the patient misses a dose of Herceptin subcutaneous formulation, it is recommended to administer the next 600 mg dose (i.e. the missed dose) as soon as possible.
+The interval between consecutive Herceptin subcutaneous formulation administrations should not be less than three weeks.
+
+Special populations
+Dedicated pharmacokinetic studies in older people and those with renal or hepatic impairment have not been carried out.
+In a population pharmacokinetic analysis, age and renal impairment were not shown to affect trastuzumab disposition.
+
+There is no relevant use of Herceptin in the paediatric population.
+
+The 600 mg dose should be administered as a subcutaneous injection only over 2-5 minutes.
+The injection site should be alternated between the left and right thigh.
+New injections should be given at least 2.5 cm from the old site and never into areas where the skin is red, bruised, tender, or hard.
+During the treatment course with Herceptin subcutaneous formulation other medicinal products for subcutaneous administration should preferably be injected at different sites.
+Patients should be observed for six hours after the first injection and for two hours after subsequent injections for signs or symptoms of administration-related reactions (see sections 4.4 and 4.8).
+
+For instructions on use and handling of Herceptin subcutaneous formulation refer to section 6.6.

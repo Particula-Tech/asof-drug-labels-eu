@@ -43,3 +43,16 @@ Herceptin is for single-use only, as the product contains no preservatives.
 Any unused product or waste material should be disposed of in accordance with local requirements.
 
 No incompatibilities between Herceptin and polyvinylchloride, polyethylene or polypropylene bags have been observed.
+
+[Herceptin 600 mg/5 mL solution for injection]
+
+Herceptin should be inspected visually to ensure there is no particulate matter or discolouration prior to administration.
+
+Herceptin is for single-use only.
+
+As Herceptin does not contain any antimicrobial-preservative, from a microbiological point of view, the medicine should be used immediately.
+If not used immediately, preparation should take place in controlled and validated aseptic conditions.
+After transfer of the solution to the syringe, it is recommended to replace the transfer needle by a syringe closing cap to avoid drying of the solution in the needle and not compromise the quality of the medicinal product.
+The hypodermic injection needle must be attached to the syringe immediately prior to administration followed by volume adjustment to 5 mL.
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

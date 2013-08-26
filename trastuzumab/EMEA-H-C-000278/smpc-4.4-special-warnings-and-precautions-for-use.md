@@ -109,3 +109,72 @@ These events may occur as part of an infusion-related reaction or with a delayed
 Patients experiencing dyspnoea at rest due to complications of advanced malignancy and comorbidities may be at increased risk of pulmonary events.
 Therefore, these patients should not be treated with Herceptin (see section 4.3).
 Caution should be exercised for pneumonitis, especially in patients being treated concomitantly with taxanes.
+
+[Herceptin 600 mg/5 mL solution for injection]
+
+Cardiac dysfunction
+
+Patients treated with Herceptin are at increased risk for developing congestive heart failure (CHF) (New York Heart Association [NYHA] class II-IV) or asymptomatic cardiac dysfunction.
+These events have been observed in patients receiving Herceptin therapy alone or in combination with paclitaxel or docetaxel, particularly following anthracycline (doxorubicin or epirubicin)–containing chemotherapy.
+These may be moderate to severe and have been associated with death (see section 4.8).
+In addition, caution should be exercised in treating patients with increased cardiac risk, e.g. hypertension, documented coronary artery disease, CHF, LVEF of <55%, older age.
+
+All candidates for treatment with Herceptin, but especially those with prior anthracycline and cyclophosphamide exposure, should undergo baseline cardiac assessment including history and physical examination and electrocardiogram (ECG), echocardiogram, and/or multigated acquisition (MUGA) scan or magnetic resonance imaging.
+Cardiac assessments, as performed at baseline, should be repeated every 3 months during treatment and every 6 months following discontinuation of treatment until 24 months from the last administration of Herceptin.
+
+Because the half-life of trastuzumab is approximately 28-38 days, trastuzumab may persist in the circulation for up to 27 weeks after stopping Herceptin treatment.
+Patients who receive anthracyclines after stopping Herceptin may possibly be at increased risk of cardiac dysfunction.
+If possible, physicians should avoid anthracycline-based therapy for up to 27 weeks after stopping Herceptin.
+
+The safety of continuation or resumption of Herceptin in patients who experience cardiac dysfunction has not been prospectively studied.
+If LVEF drops ≥ 10 ejection fraction (EF) points from baseline AND to below 50%, treatment should be suspended and a repeat LVEF assessment performed within approximately 3 weeks.
+If LVEF has not improved, or declined further, or symptomatic CHF has developed, discontinuation of Herceptin should be strongly considered, unless the benefits for the individual patient are deemed to outweigh the risks.
+
+If symptomatic cardiac failure develops during Herceptin therapy, it should be treated with standard medicinal products for CHF.
+Most patients who developed CHF or asymptomatic cardiac dysfunction in the pivotal trials improved with standard CHF treatment consisting of an angiotensin-converting enzyme (ACE) inhibitor or angiotensin receptor blocker (ARB) and a beta-blocker.
+
+Herceptin and anthracyclines should not be given concurrently in combination in the MBC setting.
+
+Patients with MBC who have previously received anthracyclines are also at risk of cardiac dysfunction with Herceptin treatment, although the risk is lower than with concurrent use of Herceptin and anthracyclines.
+
+Early breast cancer
+
+For patients with EBC, cardiac assessments, as performed at baseline, should be repeated every 3 months during treatment and every 6 months following discontinuation of treatment until 24 months from the last administration of Herceptin.
+In patients who receive anthracycline-containing chemotherapy further monitoring is recommended, and should occur yearly up to 5 years from the last administration of Herceptin, or longer if a continuous decrease of LVEF is observed.
+
+Patients with history of myocardial infarction (MI), angina pectoris requiring medical treatment, history of or existing CHF (NYHA II –IV), LVEF of < 55%, other cardiomyopathy, cardiac arrhythmia requiring medical treatment, clinically significant cardiac valvular disease, poorly controlled hypertension (hypertension controlled by standard medical treatment eligible), and hemodynamic effective pericardial effusion were excluded from adjuvant and neoadjuvant EBC pivotal trials with Herceptin and therefore treatment cannot be recommended in such patients.
+
+Herceptin and anthracyclines should not be given concurrently in the adjuvant treatment setting.
+
+In patients with EBC an increase in the incidence of symptomatic and asymptomatic cardiac events was observed when Herceptin (intravenous formulation) was administered after anthracycline-containing chemotherapy compared to administration with a non-anthracycline regimen of docetaxel and carboplatin and was more marked when Herceptin (intravenous formulation) was administered concurrently with taxanes than when administered sequentially to taxanes.
+In one of the 3 pivotal studies conducted in which a median follow-up of 5.5 years was available (BCIRG006) a continuous increase in the cumulative rate of symptomatic cardiac or LVEF events was observed (up to 2.37 %) in patients who were administered Herceptin concurrently with a taxane following anthracycline therapy, compared to approximately 1 % in the two comparator arms (anthracycline plus cyclophosphamide followed by taxane and taxane, carboplatin and Herceptin).
+
+Risk factors for a cardiac event identified in four large adjuvant studies included advanced age
+(> 50 years), low LVEF (<55%) at baseline, prior to or following the initiation of paclitaxel treatment, decline in LVEF by 10-15 points, and prior or concurrent use of anti-hypertensive medicinal products.
+In patients receiving Herceptin after completion of adjuvant chemotherapy the risk of cardiac dysfunction was associated with a higher cumulative dose of anthracycline given prior to initiation of Herceptin and a body mass index (BMI) >25 kg/m2.
+
+In patients with EBC eligible for neoadjuvant-adjuvant treatment, Herceptin should be used concurrently with anthracyclines only in chemotherapy-naive patients and only with low-dose anthracycline regimens, i.e., with maximum cumulative doses of doxorubicin 180 mg/m2 or epirubicin 360 mg/m2.
+
+If patients have been treated concurrently with a full course of low-dose anthracyclines and Herceptin in the neoadjuvant setting, no additional cytotoxic chemotherapy should be given after surgery.
+In other situations, the decision on the need for additional cytotoxic chemotherapy is determined based on individual factors.
+
+Experience of concurrent administration of trastuzumab with low dose anthracycline regimens is currently limited to two trials.
+Herceptin was administered concurrently with neoadjuvant chemotherapy that contained three to four cycles of an anthracycline (cumulative doxorubicin dose 180 mg/m2 or epirubicin dose 300 mg/m2).
+The incidence of symptomatic cardiac dysfunction was low in the Herceptin arms (up to 1.7 %).
+
+Clinical experience is limited in patients above 65 years of age.
+
+Administration-related reactions
+
+Administration-related reactions (ARRs) are known to occur with Herceptin subcutaneous formulation.
+Pre-medication may be used to reduce risk of occurrence of ARRs.
+
+Although serious ARRs, including dyspnoea, hypotension, wheezing, bronchospasm, tachycardia, reduced oxygen saturation and respiratory distress, were not reported in the clinical trial with the Herceptin subcutaneous formulation, caution should be exercised as these have been associated with the intravenous formulation.
+Patients should be observed for ARRs for six hours after the first injection and for two hours after subsequent injections.
+They can be treated with an analgesic/antipyretic such as meperidine or paracetamol, or an antihistamine such as diphenhydramine.
+Serious reactions to intravenous Herceptin have been treated successfully with supportive therapy such as oxygen, beta-agonists, and corticosteroids.
+In rare cases, these reactions were associated with a clinical course culminating in a fatal outcome.
+Patients experiencing dyspnoea at rest due to complications of advanced malignancy and comorbidities may be at increased risk of a fatal ARR.
+
+Caution is recommended with Herceptin subcutaneous formulation as severe pulmonary events have been reported with the use of the intravenous formulation in the post-marketing setting (see section 4.8).
+These events have occasionally been fatal and may occur as part of an infusion-related reaction or with delayed onset.

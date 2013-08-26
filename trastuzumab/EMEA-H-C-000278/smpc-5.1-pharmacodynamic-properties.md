@@ -14,6 +14,7 @@ Binding of trastuzumab to HER2 inhibits ligand-independent HER2 signalling and p
 As a result, trastuzumab has been shown, in both in vitro assays and in animals, to inhibit the proliferation of human tumour cells that overexpress HER2.
 Additionally, trastuzumab is a potent mediator of antibody-dependent cell-mediated cytotoxicity (ADCC).
 In vitro, trastuzumab-mediated ADCC has been shown to be preferentially exerted on HER2 overexpressing cancer cells compared with cancer cells that do not overexpress HER2.
+
 Detection of HER2 overexpression or HER2 gene amplification
 
 Detection of HER2 overexpression or HER2 gene amplification in breast cancer
@@ -23,7 +24,6 @@ HER2 gene amplification should be detected using fluorescence in situ hybridisat
 Patients are eligible for Herceptin treatment if they show strong HER2 overexpression as described by a 3+ score by IHC or a positive FISH or CISH result.
 
 To ensure accurate and reproducible results, the testing must be performed in a specialised laboratory, which can ensure validation of the testing procedures.
-
 The recommended scoring system to evaluate the IHC staining patterns is as follows:
 
 | Score | Staining pattern | HER2 overexpression assessment |
@@ -56,7 +56,6 @@ Based on the clinical trial results, the beneficial effects were limited to pati
 In a method comparison study (study D008548) a high degree of concordance (>95%) was observed for SISH and FISH techniques for the detection of HER2 gene amplification in gastric cancer patients.
 
 HER2 over expression should be detected using an immunohistochemistry (IHC)-based assessment of fixed tumour blocks; HER2 gene amplification should be detected using in situ hybridisation using either SISH or FISH on fixed tumour blocks.
-
 The recommended scoring system to evaluate the IHC staining patterns is as follows:
 
 | Score | Surgical specimen - staining pattern | Biopsy specimen – staining pattern | HER2 overexpression assessment |
@@ -81,13 +80,13 @@ Patients were treated with Herceptin until progression of disease.
 
 The efficacy of Herceptin in combination with paclitaxel in patients who did not receive prior adjuvant anthracyclines has not been studied.
 However, Herceptin plus docetaxel was efficacious in patients whether or not they had received prior adjuvant anthracyclines.
+
 The test method for HER2 overexpression used to determine eligibility of patients in the pivotal Herceptin monotherapy and Herceptin plus paclitaxel clinical trials employed immunohistochemical staining for HER2 of fixed material from breast tumours using the murine monoclonal antibodies CB11 and 4D5.
 These tissues were fixed in formalin or Bouin’s fixative.
 This investigative clinical trial assay performed in a central laboratory utilised a 0 to 3+ scale.
 Patients classified as staining 2+ or 3+ were included, while those staining 0 or 1+ were excluded.
 Greater than 70 % of patients enrolled exhibited 3+ overexpression.
 The data suggest that beneficial effects were greater among those patients with higher levels of overexpression of HER2 (3+).
-
 The main test method used to determine HER2 positivity in the pivotal trial of docetaxel, with or without Herceptin, was immunohistochemistry.
 A minority of patients was tested using fluorescence in-situ hybridisation (FISH).
 In this trial, 87 % of patients entered had disease that was IHC3+, and 95 % of patients entered had disease that was IHC3+ and/or FISH-positive.
@@ -342,3 +341,136 @@ Paediatric population
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Herceptin in all subsets of the paediatric population in Breast and Gastric cancer.
 See section 4.2 for information on paediatric use.
+
+[Herceptin 600 mg/5 mL solution for injection]
+
+Herceptin subcutaneous formulation contains recombinant human hyaluronidase (rHuPH20), an enzyme used to increase the dispersion and absorption of co-administered drugs when administered subcutaneously.
+
+Overexpression of HER2 is observed in 20% - 30% of primary breast cancers.
+
+The recommended scoring system to evaluate the IHC staining patterns is as stated in Table 2:
+
+Table 2: Recommended scoring system to evaluate the IHC staining patterns
+
+Metastatic breast cancer
+
+Intravenous formulation
+
+Herceptin has been used in clinical trials as monotherapy for patients with MBC who have tumours that overexpress HER2 and who have failed one or more chemotherapy regimens for their metastatic disease (Herceptin alone).
+
+Weekly dosing in metatstatic breast cancer
+The efficacy results from the monotherapy and combination therapy studies are summarised in Table 3:
+
+Table 3: Efficacy results from the monotherapy and combination therapy studies
+
+Herceptin has been studied in combination with anastrozole for first line treatment of MBC in HER2 overexpressing, hormone-receptor (i.e. estrogen-receptor (ER) and/or progesterone-receptor (PR)) positive postmenopausal patients.
+Three -weekly dosing in metastatic breast cancer
+The efficacy results from the non-comparative monotherapy and combination therapy studies are summarised in Table 4:
+
+Table 4: Efficacy results from the non-comparative monotherapy and combination therapy studies
+
+The frequency of progression in the liver was significantly reduced in patients treated with the combination of Herceptin and paclitaxel, compared to paclitaxel alone (21.8 % versus 45.7 %; p=0.004).
+More patients treated with Herceptin and paclitaxel progressed in the central nervous system than those treated with paclitaxel alone (12.6 % versus 6.5 %; p=0.377).
+
+Early breast cancer (adjuvant setting)
+
+- StudyBO16348 was designed to compare one year of three-weekly Herceptin treatment versus observation in patients with HER2 positive EBC following surgery, established chemotherapy and radiotherapy (if applicable).
+- Studies NCCTG N9831 and NSABP B-31 that comprise the joint analysis were designed to investigate the clinical utility of combining Herceptin treatment with paclitaxel following AC chemotherapy, additionally the NCCTG N9831 study also investigated adding Herceptin sequentially to AC→P chemotherapy in patients with HER2 positive EBC following surgery.
+- Study BCIRG 006 study was designed to investigate combining Herceptin treatment with docetaxel either following AC chemotherapy or in combination with docetaxel and carboplatin in patients with HER2 positive EBC following surgery.
+
+Early breast cancer in the BO16348 Study was limited to operable, primary, invasive adenocarcinoma of the breast, with axillary nodes positive or axillary nodes negative if tumors at least 1 cm in diameter.
+
+In the joint analysis of the NCCTG N9831 and NSABP B-31 studies, EBC was limited to women with operable breast cancer at high risk, defined as HER2-positive and axillary lymph node positive or HER2 positive and lymph node negative with high risk features (tumor size > 1 cm and ER negative or tumor size > 2 cm, regardless of hormonal status).
+
+In the BCIRG 006 study HER2 positive, EBC was defined as either lymph node positive or high risk node negative patients with no (pN0) lymph node involvement, and at least 1 of the following factors: tumour size greater than 2 cm, estrogen receptor and progesterone receptor negative, histological and/or nuclear grade 2-3, or age < 35 years.
+
+The efficacy results from study BO16348 are summarized in the Table 5:
+
+Table 5: Efficacy results from study BO16348
+
+Study BO16348: 12 months follow-up
+
+For the primary endpoint, DFS, the hazard ratio translates into an absolute benefit, in terms of a 2-year disease-free survival rate, of 7.6 percentage points (85.8 % versus 78.2 %) in favour of the Herceptin arm.
+
+- intravenous paclitaxel - 80 mg/m2 as a continuous intravenous infusion, given every week for 12 weeks.
+
+- intravenous paclitaxel - 175 mg/m2 as a continuous intravenous infusion, given every 3 weeks for 4 cycles (day 1 of each cycle).
+
+The efficacy results from the joint analysis of the NCCTG 9831 and NSABP B-31 trials are summarized in Table 6.
+
+Table 6: Efficacy results from the joint analysis of the NCCTG 9831 and NSABP B-31 trials
+
+| Parameter | AC→P (n=1679) | AC→PH (n=1672) | Hazard Ratio vs AC→P (95 % CI) p-value |
+| --- | --- | --- | --- |
+| Disease-free survival No. patients with event (%) | 261 (15.5) | 133 (8.0) | 0.48 (0.39, 0.59) p<0.0001 |
+| Distant Recurrence No. patients with event | 193 (11.5) | 96 (5.7) | 0.47 (0.37, 0.60) p<0.0001 |
+| Death (OS event): No. patients with event | 92 (5.5) | 62 (3.7) | 0.67 (0.48, 0.92) p=0.014 |
+
+For the primary endpoint, DFS, the addition of Herceptin to paclitaxel chemotherapy resulted in a 52 % decrease in the risk of disease recurrence.
+The hazard ratio translates into an absolute benefit, in terms of 3-year disease-free survival rate estimates of 11.8 percentage points (87.2 % versus 75.4 %) in favour of the AC→PH (Herceptin) arm.
+Despite the cross-over to Herceptin in the control arm, the addition of Herceptin to paclitaxel chemotherapy resulted in a 52 % decrease in the risk of disease recurrence.
+The addition of Herceptin to paclitaxel chemotherapy also resulted in a 37 % decrease in the risk of death.
+
+- intravenous docetaxel - 100 mg/m2 as an intravenous infusion over 1 hour, given every 3 weeks for 4 cycles (day 2 of first docetaxel cycle, then day 1 of each subsequent cycle)
+
+- intravenous docetaxel - 75 mg/m2 as an intravenous infusion over 1 hour, given every 3 weeks for 6 cycles (day 2 of cycle 1, then day 1 of each subsequent cycle)
+
+- carboplatin – at target AUC = 6 mg/mL/min administered by intravenous infusion over 30-60 minutes repeated every 3 weeks for a total of six cycles
+
+The efficacy results from the BCIRG 006 are summarized in Tables 7 and 8.
+Table 7: Overview of efficacy analyses BCIRG 006 AC→D versus AC→DH
+
+| Parameter | AC→D (n=1073) | AC→DH (n=1074) | Hazard Ratio vs AC→D (95 % CI) p-value |
+| --- | --- | --- | --- |
+| Disease-free survival No. patients with event | 195 | 134 | 0.61 (0.49, 0.77) p<0.0001 |
+| Distant recurrence No. patients with event | 144 | 95 | 0.59 (0.46, 0.77) p<0.0001 |
+| Death (OS event) No. patients with event | 80 | 49 | 0.58 (0.40, 0.83) p=0.0024 |
+
+Table 8: Overview of efficacy analyses BCIRG 006 AC→D versus DCarbH
+
+| Parameter | AC→D (n=1073) | DCarbH (n=1074) | Hazard Ratio vs AC→D (95 % CI) |
+| --- | --- | --- | --- |
+| Disease-free survival No. patients with event | 195 | 145 | 0.67 (0.54, 0.83) p=0.0003 |
+| Distant recurrence No. patients with event | 144 | 103 | 0.65 (0.50, 0.84) p=0.0008 |
+| Death (OS event) No. patients with event | 80 | 56 | 0.66 (0.47, 0.93) p=0.0182 |
+
+In the BCIRG 006 study for the primary endpoint, DFS, the hazard ratio translates into an absolute benefit, in terms of 3-year disease-free survival rate estimates of 5.8 percentage points (86.7 % versus 80.9 %) in favour of the AC→DH (Herceptin) arm and 4.6 percentage points (85.5 % versus 80.9 %) in favour of the DCarbH (Herceptin) arm compared to AC→D.
+
+No disease-free survival (DFS) benefit was noticed in this subgroup of patients (hazard ratio = 1.16, 95 % CI [0.73, 1.83] for DCarbH (TCH) versus AC→D (AC→T); hazard ratio 0.97, 95 % CI [0.60, 1.55] for AC→DH (AC→TH) versus AC→D).
+In addition a post-hoc exploratory analysis was performed on the data sets from the joint analysis (JA) NSABP B-31/NCCTG N9831 and BCIRG006 clinical studies combining DFS events and symptomatic cardiac events and summarised in Table 9:
+
+Table 9: Post-hoc exploratory analysis results from the JA NSABP B-31/NCCTG N9831 and BCIRG006 clinical studies combining DFS events and symptomatic cardiac events
+
+|  | AC→PH (vs. AC→P) (NSABP B-31 and NCCTG N9831) | AC→DH (vs. AC→D) (BCIRG 006) | DCarbH (vs. AC→D) (BCIRG 006) |
+| --- | --- | --- | --- |
+| Primary efficacy analysis DFS Hazard ratios (95 % CI) p-value | 0.48 (0.39, 0.59) p<0.0001 | 0.61 (0.49, 0.77) p< 0.0001 | 0.67 (0.54, 0.83) p=0.0003 |
+| Post-hoc exploratory analysis with DFS and symptomatic cardiac events Hazard ratios (95 % CI) | 0.64 (0.53, 0.77) | 0.70 (0.57, 0.87) | 0.71 (0.57, 0.87) |
+
+Early breast cancer – (neoadjuvant-adjuvant setting)
+
+The study recruited patients with newly diagnosed locally advanced (Stage III) or inflammatory EBC.
+
+The efficacy results from MO16432 are summarized in Table 10.
+
+Table 10: Efficacy results from MO16432
+
+| Parameter | Chemo + Herceptin (n=115) | Chemo only (n=116) |  |
+| --- | --- | --- | --- |
+| Event-free survival No. patients with event | 46 | 59 | Hazard Ratio (95 % CI) 0.65 (0.44, 0.96) p=0.0275 |
+| Total pathological complete response* (95 % CI) | 40 % (31.0, 49.6) | 20.7 % (13.7, 29.2) | P=0.0014 |
+| Overall survival No. patients with event | 22 | 33 | Hazard Ratio (95 % CI) 0.59 (0.35, 1.02) p=0.0555 |
+
+An absolute benefit of 13 percentage points in favour of the Herceptin arm was estimated in terms of 3-year event-free survival rate (65 % versus.
+52 %).
+
+Subcutaneous formulation
+
+Study BO22227 was conducted to demonstrate non-inferiority of Herceptin subcutaneous formulation versus Herceptin intravenous formulation based on co-primary PK and efficacy endpoints.
+A total of 595 patients with HER2-positive, operable or locally advanced breast cancer (LABC) including inflammatory breast cancer received eight cycles of either Herceptin intravenous formulation or Herceptin subcutaneous formulation concurrently with chemotherapy (4 cycles of docetaxel, 75 mg/m2 intravenous infusion, followed by 4 cycles of FEC ([5-Fluorouracil, 500 mg/m2; epirubicin, 75 mg/m2; cyclophosphamide, 500 mg/m2 each intravenous bolus or infusion]), followed by surgery, and continued therapy with Herceptin intravenous formulation or Herceptin subcutaneous formulation as originally randomized for 10 additional cycles for a total of one year of treatment.
+
+The analysis of the efficacy co-primary endpoint, pCR, defined as absence of invasive neoplastic cells in the breast, resulted in rates of 40.7 % (95 % CI: 34.7, 46.9) in the Herceptin intravenous arm and 45.4 % (95 % CI: 39.2 %, 51.7 %) in the Herceptin subcutaneous arm, a difference of 4.7 percentage points in favour of the Herceptin subcutaneous arm.
+The lower boundary of the one-sided 97.5 % confidence interval for the difference in pCR rates was -4.0, implying non-inferiority of the Herceptin subcutaneous formulation compared to the Herceptin intravenous formulation.
+For the PK co-primary endpoint refer to section 5.2.
+For the comparative safety profile see section 4.8.
+
+The European Medicines Agency has waived the obligation to submit the results of studies with Herceptin in all subsets of the paediatric population in breast cancer (see section 4.2 for information on paediatric use).

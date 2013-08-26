@@ -40,3 +40,33 @@ At high concentrations, total clearance is dominated by linear clearance, and th
 The median predicted steady-state AUC values (over a period of 3 weeks at steady state) is equal to 1213 mg•day/L, the median steady-state Cmax is equal to 132 mg/l and the median steady-state Cmin values is equal to 27.6 mg/L.
 
 There are no data on the level of circulating extracellular domain of the HER2 receptor (shed antigen) in the serum of gastric cancer patients.
+
+[Herceptin 600 mg/5 mL solution for injection]
+
+Herceptin has been studied thoroughly following intravenous administration in the MBC and EBC setting.
+The intravenous doses used most frequently are 8 mg/kg loading dose on day 1 followed by maintenance doses of 6 mg/kg every 3 weeks.
+These doses were chosen to maintain a steady state trough concentration necessary for complete saturation of the Her2 ligand.
+Intravenous pharmacokinetics have been well-characterized in all studies performed and the results have been further analysed using the population pharmacokinetics approach.
+Steady state should be reached by approximately 27 weeks.
+In a population pharmacokinetic (two compartment, model-dependent) assessment of Phase I, II and III clinical trials in MBC and EBC the estimated value for typical trastuzumab clearance (for a body weight of 68 kg) was 0.241 L/day.
+The volume of distribution of the central (Vc) and peripheral (Vp) compartment was 3.02 L and 2.68 L, respectively, in the typical patient.
+The effects of patient characteristics (such as age or serum creatinine) on the disposition of trastuzumab were studied and data suggest that the disposition of trastuzumab is not altered in any of these groups of patients.
+
+Subcutaneous formulation
+
+The pharmacokinetics of trastuzumab at a of 600 mg administered three-weekly by the subcutaneous route was compared to the intravenous route (8 mg/kg loading dose, 6 mg/kg maintenance every three weeks) in the phase III study BO22227.
+The pharmacokinetic results for the co primary endpoint, Ctrough pre dose Cycle 8, showed non-inferiority of the Herceptin subcutaneous compared to the Herceptin intravenous dose adjusted by body weight.
+The mean Ctrough during the neoadjuvant treatment phase, at the pre dose Cycle 8 time point, was higher in the Herceptin subcutaneous arm (78.7 µg/mL) than the Herceptin intravenous arm
+(57.8 µg/mL) of the study.
+During the adjuvant phase of treatment, at the pre-dose Cycle 13 time point, the mean Ctrough values were 90.4 µg/mL and 62.1 µg/mL, respectively.
+While steady state with the intravenous formulation was reached at cycle 8, concentrations tended to increase further up to cycle 13 with the subcutaneous administration.
+The mean Ctrough at the subcutaneous pre- dose cycle 18 was 90.7 µg/mL and is similar to that of cycle 13, suggesting no further increase after cycle 13.
+The median Tmax following subcutaneous administration was approximately 3 days, with high interindividual variability (range 1-14 days).
+The mean Cmax was expectedly lower in the trastuzumab subcutaneous formulation (149 μg/mL) than in the intravenous arm (end of infusion value: 221 μg/mL).
+The mean AUC0-21 days following the Cycle 7 dose was approximately 10 % higher with the Herceptin subcutaneous formulation as compared to the Herceptin intravenous formulation, with mean AUC values of 2268 µg/mL•day and 2056 µg/mL•day, respectively.
+The AUC0-21 days following Cycle 12 dose was approximately 20 % higher with the Herceptin subcutaneous formulation than the Herceptin intravenous dose, with mean AUC values of 2610 µg/mL•day and 2179 µg/mL•day, respectively.
+Due to the significant impact of body weight on trastuzumab clearance and the use of a fixed dose for the subcutaneous administration the difference in exposure between subcutaneous and intravenous administration was dependent on body weight: in patients with a body weight < 51 kg, mean steady state AUC of trastuzumab was about 80% higher after subcutaneous than after intravenous treatment whereas in the highest BW group (> 90 kg) AUC was 20% lower after subcutaneous than after intravenous treatment.
+
+A population PK analysis (PopPK) where a base model was constructed using data from the phase III study BO22227 in HER2-positive patients with EBC, was used to describe the data observed following intravenous and subcutaneous administration.
+Bioavailability of the subcutaneous formulation was estimated to be 82.2 %, clearance (CL) was 0.216 L/day, and the central compartment volume (Vc) was 2.89 L. These PK estimates are similar to those seen for the Herceptin intravenous formulation in MBC and consistent with typical values reported for a humanized IgG1 monoclonal antibody.
+The impact of body weight on these predicted Herceptin PK parameters was shown to be statistically significant.
