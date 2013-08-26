@@ -12,13 +12,13 @@ Paliperidone may antagonise the effect of levodopa and other dopamine agonists.
 If this combination is deemed necessary, particularly in end-stage Parkinson’s disease, the lowest effective dose of each treatment should be prescribed.
 
 Because of its potential for inducing orthostatic hypotension (see section 4.4), an additive effect may be observed when INVEGA is administered with other therapeutic agents that have this potential, e.g., other antipsychotics, tricyclics.
-
 Caution is advised if paliperidone is combined with other medicines known to lower the seizure threshold (i.e., phenothiazines or butyrophenones, clozapine, tricyclics or SSRIs, tramadol, mefloquine, etc.).
 
 No interaction study between INVEGA and lithium has been performed, however, a pharmacokinetic interaction is unlikely to occur.
 
 Co-administration of INVEGA 12 mg once daily with divalproex sodium prolonged-release tablets (500 mg to 2000 mg once daily) did not affect the steady-state pharmacokinetics of valproate.
 Co-administration of INVEGA with divalproex sodium prolonged-release tablets increased the exposure to paliperidone (see below).
+
 Potential for other medicines to affect INVEGA
 In vitro studies indicate that CYP2D6 and CYP3A4 may be minimally involved in paliperidone metabolism, but there are no indications in vitro nor in vivo that these isozymes play a significant role in the metabolism of paliperidone.
 Concomitant administration of INVEGA with paroxetine, a potent CYP2D6 inhibitor, showed no clinically significant effect on the pharmacokinetics of paliperidone.

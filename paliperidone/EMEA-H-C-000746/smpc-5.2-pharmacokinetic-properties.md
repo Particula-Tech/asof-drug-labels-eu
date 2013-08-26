@@ -8,7 +8,6 @@ With once-daily dosing of INVEGA, steady-state concentrations of paliperidone ar
 
 Paliperidone is the active metabolite of risperidone.
 The release characteristics of INVEGA result in minimal peak-trough fluctuations as compared to those observed with immediate-release risperidone (fluctuation index 38% versus 125%).
-
 The absolute oral bioavailability of paliperidone following INVEGA administration is 28% (90% CI of 23%-33%).
 
 Administration of paliperidone prolonged-release tablets with a standard high-fat/high-caloric meal increases Cmax and AUC of paliperidone by up to 50-60% compared with administration in the fasting state.
@@ -23,7 +22,7 @@ One week following administration of a single oral dose of 1 mg immediate-releas
 Approximately 80% of the administered radioactivity was recovered in urine and 11% in the faeces.
 Four metabolic pathways have been identified in vivo, none of which accounted for more than 6.5% of the dose: dealkylation, hydroxylation, dehydrogenation, and benzisoxazole scission.
 Although in vitro studies suggested a role for CYP2D6 and CYP3A4 in the metabolism of paliperidone, there is no evidence in vivo that these isozymes play a significant role in the metabolism of paliperidone.
-Population pharmacokinetics analyses indicated no discernable difference on the apparent clearance of paliperidone after administration of INVEGA between extensive metabolisers and poor metabolisers of CYP2D6 substrates.
+Population pharmacokinetics analyses indicated no discernible difference on the apparent clearance of paliperidone after administration of INVEGA between extensive metabolisers and poor metabolisers of CYP2D6 substrates.
 In vitro studies in human liver microsomes showed that paliperidone does not substantially inhibit the metabolism of medicines metabolised by cytochrome P450 isozymes, including CYP1A2, CYP2A6, CYP2C8/9/10, CYP2D6, CYP2E1, CYP3A4, and CYP3A5.
 The terminal elimination half-life of paliperidone is about 23 hours.
 
@@ -47,10 +46,10 @@ However, there was no discernable effect of age in the population pharmacokineti
 
 Race
 Population pharmacokinetics analysis revealed no evidence of race-related differences in the pharmacokinetics of paliperidone following INVEGA administration.
-
 Gender
 The apparent clearance of paliperidone following INVEGA administration is approximately 19% lower in women than men.
 This difference is largely explained by differences in lean body mass and creatinine clearance between men and women.
+
 Smoking status
 Based on in vitro studies utilising human liver enzymes, paliperidone is not a substrate for CYP1A2; smoking should, therefore, not have an effect on the pharmacokinetics of paliperidone.
 A population pharmacokinetic analysis showed a slightly lower exposure to paliperidone in smokers compared with non-smokers.

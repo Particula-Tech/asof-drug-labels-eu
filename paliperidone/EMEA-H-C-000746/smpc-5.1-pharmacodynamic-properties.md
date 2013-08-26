@@ -14,8 +14,6 @@ Paliperidone is not bound to cholinergic receptors.
 Even though paliperidone is a strong D2-antagonist, which is believed to relieve the positive symptoms of schizophrenia, it causes less catalepsy and decreases motor functions to a lesser extent than traditional neuroleptics.
 Dominating central serotonin antagonism may reduce the tendency of paliperidone to cause extrapyramidal side effects.
 
-Pharmacodynamic effects
-
 Clinical efficacy
 Schizophrenia
 The efficacy of INVEGA in the treatment of schizophrenia was established in three multi-centre, placebo-controlled, double-blind, 6-week trials in subjects who met DSM-IV criteria for schizophrenia.
@@ -26,7 +24,6 @@ All tested doses of INVEGA separated from placebo on day 4 (p<0.05).
 Predefined secondary endpoints included the Personal and Social Performance (PSP) scale and the Clinical Global Impression – Severity (CGI-S) scale.
 In all three studies, INVEGA was superior to placebo on PSP and CGI-S.
 Efficacy was also evaluated by calculation of treatment response (defined as decrease in PANSS Total Score ≥ 30%) as a secondary endpoint.
-
 Schizophrenia Studies: Positive and Negative Syndrome Scale for Schizophrenia (PANSS) Total Score - Change From Baseline to End Point- LOCF for Studies R076477-SCH-303, R076477-SCH-304, and R076477-SCH-305: Intent-to-Treat Analysis Set
 
 |  | Placebo | INVEGA 3 mg | INVEGA 6 mg | INVEGA 9 mg | INVEGA 12 mg |
@@ -77,13 +74,11 @@ An effect of INVEGA on depressive symptoms has not been demonstrated.
 An examination of population subgroups did not reveal any evidence of differential responsiveness on the basis of gender, age, or geographic region.
 There were insufficient data to explore differential effects based on race.
 Efficacy was also evaluated by calculation of treatment response (defined as decrease in PANSS Total Score ≥ 30% and CGI-C Score ≤ 2) as a secondary endpoint.
-
 Schizoaffective Disorder Studies: Primary Efficacy Parameter, PANSS Total Score Change from Baseline from Studies R076477-SCA-3001 and R076477-SCA-3002: Intent-to-Treat Analysis Set
 
 |  | Placebo | INVEGA Lower Dose (3-6 mg) | INVEGA Higher Dose (9-12 mg) | INVEGA Flexible Dose (3-12 mg) |
 | --- | --- | --- | --- | --- |
-| R076477-SCA-3001 Mean baseline (SD) | (N=107) 91.6 (12.5) | (N=105) 95.9 (13.0) | (N=98) 92.7 (12.6) |  |
-| Mean change (SD) P-value (vs. Placebo) Diff. of LS Means (SE) | -21.7 (21.4) | -27.4 (22.1) 0.187 -3.6 (2.7) | -30.6 (19.1) 0.003 -8.3 (2.8) |  |
+| R076477-SCA-3001 Mean baseline (SD) Mean change (SD) P-value (vs. Placebo) Diff. of LS Means (SE) | (N=107) 91.6 (12.5) -21.7 (21.4) | (N=105) 95.9 (13.0) -27.4 (22.1) 0.187 -3.6 (2.7) | (N=98) 92.7 (12.6) -30.6 (19.1) 0.003 -8.3 (2.8) |  |
 | R076477-SCH-3002 Mean baseline (SD) Mean change (SD) P-value (vs. Placebo) Diff. of LS Means (SE) | (N=93) 91.7 (12.1) -10.8 (18.7) |  |  | (N=211) 92.3 (13.5) -20.0 (20.23) <0.001 -13.5 (2.63) |
 
 Note: Negative change in score indicates improvement.
@@ -102,18 +97,7 @@ See 4.2 for information on paediatric use.
 
 [INVEGA 3 mg prolonged-release tablets]
 
-| Schizophrenia Studies: Proportion of Subjects with Responder Status at LOCF End Point Studies R076477-SCH-303, R076477-SCH-304, and R076477-SCH-305: Intent-to-Treat Analysis Set |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Placebo | INVEGA 3 mg | INVEGA 6 mg | INVEGA 9 mg | INVEGA 12 mg |
-| R076477-SCH-303 N Responder, n (%) Non-responder, n (%) P value (vs Placebo) | 126 38 (30.2) 88 (69.8) -- |  | 123 69 (56.1) 54 (43.9) <0.001 | 122 62 (50.8) 60 (49.2) 0.001 | 129 79 (61.2) 50 (38.8) <0.001 |
-| R076477-SCH-304 N Responder, n (%) Non-responder, n (%) | 105 36 (34.3) 69 (65.7) |  | 110 55 (50.0) 55 (50.0) |  | 111 57 (51.4) 54 (48.6) |
-| P value (vs Placebo) | -- |  | 0.025 |  | 0.012 |
-| R076477-SCH-305 N Responder, n (%) Non-responder, n (%) P value (vs Placebo) | 120 22 (18.3) 98 (81.7) -- | 123 49 (39.8) 74 (60.2) 0.001 |  | 123 56 (45.5) 67 (54.5) <0.001 |  |
-
-|  | Placebo | INVEGA Lower Dose (3-6 mg) | INVEGA Higher Dose (9-12 mg) | INVEGA Flexible Dose (3-12 mg) |
-| --- | --- | --- | --- | --- |
-| R076477-SCA-3001 Mean baseline (SD) Mean change (SD) P-value (vs. Placebo) Diff. of LS Means (SE) | (N=107) 91.6 (12.5) -21.7 (21.4) | (N=105) 95.9 (13.0) -27.4 (22.1) 0.187 -3.6 (2.7) | (N=98) 92.7 (12.6) -30.6 (19.1) 0.003 -8.3 (2.8) |  |
-| R076477-SCH-3002 Mean baseline (SD) Mean change (SD) P-value (vs. Placebo) Diff. of LS Means (SE) | (N=93) 91.7 (12.1) -10.8 (18.7) |  |  | (N=211) 92.3 (13.5) -20.0 (20.23) <0.001 -13.5 (2.63) |
+(all sentences already above)
 
 [INVEGA 6 mg prolonged-release tablets]
 
@@ -125,9 +109,12 @@ See 4.2 for information on paediatric use.
 
 [INVEGA 12 mg prolonged-release tablets]
 
-Placebo INVEGA INVEGA INVEGA
-
-|  |  | Lower Dose (3-6 mg) | Higher Dose (9-12 mg) | Flexible Dose (3-12 mg) |
+|  | Placebo | INVEGA Lower Dose (3-6 mg) | INVEGA Higher Dose (9-12 mg) | INVEGA Flexible Dose (3-12 mg) |
 | --- | --- | --- | --- | --- |
 | R076477-SCA-3001 Mean baseline (SD) Mean change (SD) P-value (vs. Placebo) Diff. of LS Means (SE) | (N=107) 91.6 (12.5) -21.7 (21.4) | (N=105) 95.9 (13.0) -27.4 (22.1) 0.187 -3.6 (2.7) | (N=98) 92.7 (12.6) -30.6 (19.1) 0.003 -8.3 (2.8) |  |
-| R076477-SCH-3002 Mean baseline (SD) Mean change (SD) P-value (vs. Placebo) Diff. of LS Means (SE) | (N=93) 91.7 (12.1) -10.8 (18.7) |  |  | (N=211) 92.3 (13.5) -20.0 (20.23) <0.001 -13.5 (2.63) |
+
+R076477-SCH-3002 (N=93) (N=211)
+Mean baseline (SD) 91.7 (12.1) 92.3 (13.5)
+Mean change (SD) -10.8 (18.7) -20.0 (20.23)
+P-value (vs. Placebo) <0.001
+Diff. of LS Means (SE) -13.5 (2.63)

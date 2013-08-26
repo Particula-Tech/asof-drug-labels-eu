@@ -20,7 +20,6 @@ Maintenance of effect has not been studied.
 Switching to other antipsychotic medicinal products
 There are no systematically collected data to specifically address switching patients from INVEGA to other antipsychotic medicinal products.
 Due to different pharmacodynamic and pharmacokinetic profiles among antipsychotic medicinal products, supervision by a clinician is needed when switching to another antipsychotic product is considered medically appropriate.
-
 Elderly
 Dosing recommendations for elderly patients with normal renal function (≥ 80 ml/min) are the same as for adults with normal renal function.
 However, because elderly patients may have diminished renal function, dose adjustments may be required according to their renal function status (see Renal impairment below).

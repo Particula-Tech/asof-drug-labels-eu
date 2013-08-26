@@ -40,7 +40,6 @@ Orthostatic hypotension
 Paliperidone may induce orthostatic hypotension in some patients based on its alpha-blocking activity.
 Based on pooled data from the three, placebo-controlled, 6-week, fixed-dose trials with INVEGA (3, 6, 9, and 12 mg), orthostatic hypotension was reported by 2.5% of subjects treated with INVEGA compared with 0.8% of subjects treated with placebo.
 INVEGA should be used with caution in patients with known cardiovascular disease (e.g., heart failure, myocardial infarction or ischaemia, conduction abnormalities), cerebrovascular disease, or conditions that predispose the patient to hypotension (e.g., dehydration and hypovolemia).
-
 Seizures
 INVEGA should be used cautiously in patients with a history of seizures or other conditions that potentially lower the seizure threshold.
 
@@ -81,6 +80,7 @@ Priapism
 Antipsychotic medicinal products (including risperidone) with α-adrenergic blocking effects have been reported to induce priapism.
 During postmarketing surveillance priapism has also been reported with paliperidone, which is the active metabolite of risperidone.
 Patients should be informed to seek urgent medical care in case that priapism has not been resolved within 3-4 hours.
+
 Body temperature regulation
 Disruption of the body’s ability to reduce core body temperature has been attributed to antipsychotic medicinal products.
 Appropriate care is advised when prescribing INVEGA to patients who will be experiencing conditions which may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration.
@@ -92,6 +92,13 @@ Since patients treated with antipsychotics often present with acquired risk fact
 Antiemetic effect
 An antiemetic effect was observed in preclinical studies with paliperidone.
 This effect, if it occurs in humans, may mask the signs and symptoms of overdosage with certain medicines or of conditions such as intestinal obstruction, Reye’s syndrome, and brain tumour.
+
+Intraoperative Floppy Iris Syndrome
+Intraoperative floppy iris syndrome (IFIS) has been observed during cataract surgery in patients treated with medicines with alpha1a-adrenergic antagonist effect, such as INVEGA (see section 4.8).
+
+IFIS may increase the risk of eye complications during and after the operation.
+Current or past use of medicines with alpha1a-adrenergic antagonist effect should be made known to the ophthalmic surgeon in advance of surgery.
+The potential benefit of stopping alpha1 blocking therapy prior to cataract surgery has not been established and must be weighed against the risk of stopping the antipsychotic therapy.
 
 [INVEGA 3 mg prolonged-release tablets]
 
