@@ -6,7 +6,8 @@ The most serious ADRs that have been reported for Simponi include serious infect
 
 Tabulated list of adverse reactions
 ADRs observed in clinical studies and reported from world-wide post-marketing use of golimumab are listed in Table 1.
-Within the designated system organ classes, the adverse drug reactions are listed under headings of frequency and using the following convention: Very common (≥1/10); Common (≥1/100 to < 1/10); Uncommon (≥1/1,000 to < 1/100); Rare (≥1/10,000 to < 1/1,000); Very rare
+Within the designated system organ classes, the adverse drug reactions are listed under headings of frequency and using the following convention: Very common (≥ 1/10); Common
+(≥ 1/100 to < 1/10); Uncommon (≥ 1/1,000 to < 1/100); Rare (≥ 1/10,000 to < 1/1,000); Very rare
 (< 1/10,000); Not known (cannot be estimated from the available data).
 
 Table 1
@@ -120,9 +121,9 @@ In controlled Phase III trials through week 16, mild ALT elevations (> 1 and < 3
 Through approximately 3 years of follow-up the incidence of mild ALT elevations was similar in golimumab-treated and control patients in RA and PsA studies.
 In the AS population, the incidence of mild ALT elevations was higher in golimumab-treated patients than in control patients.
 
-In the RA and AS studies through week 16, ALT elevations ≥5 x ULN were uncommon and seen in more golimumab-treated patients (0.4% to 0.9%) than control patients (0.0%).
+In the RA and AS studies through week 16, ALT elevations ≥ 5 x ULN were uncommon and seen in more golimumab-treated patients (0.4% to 0.9%) than control patients (0.0%).
 This trend was not observed in the PsA population.
-Through approximately 3 years of follow-up, the incidence of ALT elevations ≥5 x ULN was similar in both golimumab-treated and control patients in the Phase III RA, PsA and AS studies.
+Through approximately 3 years of follow-up, the incidence of ALT elevations ≥ 5 x ULN was similar in both golimumab-treated and control patients in the Phase III RA, PsA and AS studies.
 In general these elevations were asymptomatic and the abnormalities decreased or resolved with either continuation or discontinuation of golimumab or modification of concomitant medications.
 
 Within the Phase II and Phase III programme in RA, PsA and AS, one patient with pre-existing liver abnormalities and confounding medication treated with golimumab developed non-infectious fatal hepatitis with jaundice.
@@ -139,7 +140,12 @@ Autoimmune antibodies
 In Phase III trials in RA, PsA, and AS through 1 year of follow up, 4.0% of golimumab-treated patients and 2.6% of control patients were newly ANA-positive (at titres of 1:160 or greater).
 The frequency of anti-dsDNA antibodies at 1 year of follow up in patients anti-dsDNA negative at baseline was uncommon.
 
-[Simponi 50 mg solution for injection in pre-filled syringe.]
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+[Simponi 100 mg solution for injection in pre-filled syringe.]
 
 Lymphoma was diagnosed in 7 subjects (1 in the golimumab 50 mg treatment groups and 6 in the golimumab 100 mg treatment groups) with an incidence (95%, CI) per 100 subject-years of follow-up of 0.04 (0.00, 0.24) and 0.18 (0.06, 0.38) events for golimumab 50 mg and 100 mg respectively and 0.00 (0.00, 0.84) events for the placebo.
 

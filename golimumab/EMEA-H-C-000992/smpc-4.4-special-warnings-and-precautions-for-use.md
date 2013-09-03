@@ -35,6 +35,7 @@ If inactive (‘latent’) tuberculosis is diagnosed, treatment for latent tuber
 
 In patients who have several or significant risk factors for tuberculosis and have a negative test for latent tuberculosis, anti-tuberculosis therapy should be considered before the initiation of Simponi.
 Use of anti-tuberculosis therapy should also be considered before the initiation of Simponi in patients with a past history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed.
+
 Cases of active tuberculosis have occurred in patients treated with Simponi during and after treatment for latent tuberculosis.
 Patients receiving Simponi should be monitored closely for signs and symptoms of active tuberculosis, including patients who tested negative for latent tuberculosis, patients who are on treatment for latent tuberculosis, or patients who were previously treated for tuberculosis infection.
 
@@ -57,7 +58,7 @@ Based on the current knowledge, a possible risk for the development of lymphomas
 Caution should be exercised when considering TNF-blocking therapy for patients with a history of malignancy or when considering continuing treatment in patients who develop malignancy.
 
 Paediatric malignancy
-Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-blocking agents (initiation of therapy ≤18 years of age) in the post marketing setting.
+Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-blocking agents (initiation of therapy ≤ 18 years of age) in the post marketing setting.
 Approximately half the cases were lymphomas.
 The other cases represented a variety of different malignancies and included rare malignancies usually associated with immunosuppression.
 A risk for the development of malignancies in children and adolescents treated with TNF-blockers cannot be excluded.
@@ -70,9 +71,9 @@ There is an increased background risk for lymphoma and leukaemia in rheumatoid a
 
 Malignancies other than lymphoma
 In the controlled portions of the Simponi Phase IIb and Phase III clinical trials in RA, PsA, and AS, the incidence of non-lymphoma malignancies (excluding non-melanoma skin cancer) was similar between the Simponi and the control groups.
-
 In an exploratory clinical trial evaluating the use of Simponi in patients with severe persistent asthma, more malignancies were reported in patients treated with Simponi compared with control patients (see section 4.8).
 The significance of this finding is unknown.
+
 In an exploratory clinical trial evaluating the use of another anti-TNF agent, infliximab, in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies, mostly in the lung or head and neck, were reported in infliximab-treated patients compared with control patients.
 All patients had a history of heavy smoking.
 Therefore, caution should be exercised when using any TNF-antagonist in COPD patients, as well as in patients with an increased risk of malignancy due to heavy smoking.
@@ -103,7 +104,7 @@ Immunosuppression
 The possibility exists for TNF-blocking agents, including Simponi, to affect host defences against infections and malignancies since TNF mediates inflammation and modulates cellular immune responses.
 
 Autoimmune processes
-The relative deficiency of TNFαcaused by anti-TNF therapy may result in the initiation of an autoimmune process.
+The relative deficiency of TNFα caused by anti-TNF therapy may result in the initiation of an autoimmune process.
 If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with Simponi and is positive for antibodies against double-stranded DNA, treatment with Simponi should be discontinued (see section 4.8).
 
 Haematologic reactions
@@ -111,7 +112,6 @@ There have been post-marketing reports of pancytopaenia, leucopaenia, neutropaen
 Cytopaenias including pancytopaenia have been infrequently reported with Simponi in clinical trials.
 All patients should be advised to seek immediate medical attention if they develop signs and symptoms suggestive of blood dyscrasias (e.g. persistent fever, bruising, bleeding, pallor).
 Discontinuation of Simponi therapy should be considered in patients with confirmed significant haematologic abnormalities.
-
 Concurrent administration of TNF-antagonists and anakinra
 Serious infections and neutropenia were seen in clinical studies with concurrent use of anakinra and another TNF-blocking agent, etanercept, with no added clinical benefit.
 Because of the nature of the adverse events seen with this combination therapy, similar toxicities may also result from the combination of anakinra and other TNF-blocking agents.
@@ -128,13 +128,9 @@ The concomitant use of Simponi with these biologics is not recommended because o
 Switching between biological DMARDs
 Care should be taken and patients should continue to be monitored when switching from one biologic to another, since overlapping biological activity may further increase the risk for adverse events, including infection.
 
-Vaccinations/therapeutic infectious agents
+Vaccinations
 Patients treated with Simponi may receive concurrent vaccinations, except for live vaccines (see sections 4.5 and 4.6).
-In patients receiving anti-TNF therapy, limited data are available on the response to vaccination with live vaccines or on the secondary transmission of infection by live vaccines.
-Use of live vaccines could result in clinical infections, including disseminated infections.
-
-Other uses of therapeutic infectious agents such as live attenuated bacteria (e.g., BCG bladder instillation for the treatment of cancer) could result in clinical infections, including disseminated infections.
-It is recommended that therapeutic infectious agents not be given concurrently with Simponi.
+No data are available on the response to vaccination, risk of infection or transmission of infection with the administration of live vaccines to patients receiving Simponi.
 
 Allergic reactions
 In post-marketing experience, serious systemic hypersensitivity reactions (including anaphylactic reaction) have been reported following Simponi administration.
@@ -146,7 +142,7 @@ The needle cover on the pre-filled pen is manufactured from dry natural rubber c
 
 Special populations
 
-Elderly patients (≥65 years)
+Elderly patients (≥ 65 years)
 In the Phase III studies in RA, PsA, and AS, no overall differences in adverse events (AEs), serious adverse events (SAEs), and serious infections in patients age 65 or older (n = 155) who received Simponi were observed compared with younger patients.
 However, caution should be exercised when treating the elderly and particular attention paid with respect to occurrence of infections.
 
@@ -158,9 +154,21 @@ Excipients
 Simponi contains sorbitol (E420).
 Patients with rare hereditary problems of fructose intolerance should not take Simponi.
 
-[Simponi 50 mg solution for injection in pre-filled syringe.]
+Potential for Medication errors
+Simponi is registered in 50 mg and 100 mg strengths for subcutaneous administration.
+It is important that the right strength is used to administer the correct dose as indicated in the posology (see section 4.2).
+Care should be taken to provide the right strength to ensure that patients are not underdosed or overdosed.
+
+[Simponi 100 mg solution for injection in pre-filled syringe.]
+
+Reactivation of hepatitis B has occurred in patients receiving a TNF-antagonist including Simponi, who are chronic carriers of this virus (i.e., surface antigen positive).
 
 In an exploratory clinical trial evaluating the use of Simponi in patients with severe persistent asthma, more malignancies were reported in patients treated with Simponi compared with control patients
 (see section 4.8).
 
+Patients treated with Simponi may receive concurrent vaccinations, except for live vaccines
+(see sections 4.5 and 4.6).
+
 The needle cover on the pre-filled syringe is manufactured from dry natural rubber containing latex, and may cause allergic reactions in individuals sensitive to latex.
+
+Elderly patients(≥ 65 years)
