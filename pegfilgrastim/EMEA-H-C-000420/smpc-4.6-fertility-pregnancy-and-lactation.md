@@ -5,5 +5,4 @@ Studies in animals have shown reproductive toxicity (see section 5.3).
 The potential risk for humans is unknown.
 
 Neulasta should not be used during pregnancy unless clearly necessary.
-
 There is no clinical experience with breast-feeding women, therefore Neulasta should not be administered to women who are breast-feeding.

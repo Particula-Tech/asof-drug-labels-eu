@@ -19,6 +19,9 @@ Patients with a recent history of pulmonary infiltrates or pneumonia may be at h
 The onset of pulmonary signs such as cough, fever, and dyspnoea in association with radiological signs of pulmonary infiltrates, and deterioration in pulmonary function along with increased neutrophil count may be preliminary signs of Adult Respiratory Distress Syndrome (ARDS).
 In such circumstances Neulasta should be discontinued at the discretion of the physician and the appropriate treatment given (see section 4.8).
 
+Capillary leak syndrome has been reported after granulocyte-colony stimulating factor administration and is characterised by hypotension, hypoalbuminaemia, oedema and hemoconcentration.
+Patients who develop symptoms of capillary leak syndrome should be closely monitored and receive standard symptomatic treatment, which may include a need for intensive care (see section 4.8).
+
 Uncommon (≥ 1/1000 to < 1/100) but generally asymptomatic cases of splenomegaly and uncommon (≥ 1/1000 to < 1/100) cases of splenic rupture, including some fatal cases, have been reported following administration of pegfilgrastim (see section 4.8).
 Therefore, spleen size should be carefully monitored (e.g. clinical examination, ultrasound).
 A diagnosis of splenic rupture should be considered in patients reporting left upper abdominal pain or shoulder tip pain.

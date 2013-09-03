@@ -9,6 +9,8 @@ Hypersensitivity-type reactions, including skin rash, urticaria, angioedema, dys
 [≥ 1/1000 to < 1/100]).
 Serious allergic reactions, including anaphylaxis can occur in patients receiving Neulasta (uncommon [≥ 1/1000 to < 1/100]) (see section 4.4).
 
+Capillary Leak Syndrome, which can be life-threatening if treatment is delayed, has been reported rarely (≥ 1/10,000 to < 1/1000) in cancer patients undergoing chemotherapy following administration of granulocyte colony-stimulating factors; see section 4.4 and subsection C of section 4.8.
+
 Splenomegaly, generally asymptomatic, is uncommon (≥ 1/1000 to < 1/100) (see section 4.4).
 
 Splenic rupture including some fatal cases is uncommonly (≥ 1/1000 to < 1/100) reported following administration of pegfilgrastim (see section 4.4).
@@ -24,31 +26,28 @@ b. Tabulated summary of adverse reactions
 The data in the table below describe adverse reactions reported from clinical trials and spontaneous reporting.
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
+| MedDRA system organ class | Adverse reactions |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | Very common (≥ 1/10) | Common (≥ 1/100 to < 1/10) | Uncommon (≥ 1/1000 to < 1/100) | Rare (≥ 1/10,000 to < 1/1000) | Very rare (< 1/10,000) |
+| Blood and lymphatic system disorders |  | Thrombocytopen ia1 | Sickle cell crisis2; Leukocytosis1 |  |  |
+| Immune system disorders |  |  | Hypersensitivity reactions; Anaphylaxis |  |  |
+| Metabolism and nutrition disorders |  |  | Elevations in uric acid |  |  |
+| Nervous system | Headache1 |  |  |  |  |
+
 MedDRA Adverse reactions
 system organ class Very common (≥ 1/10) (≥ 1/100 to Common (≥ 1/1000 to < 1/100) Uncommon (≥ 1/10,000 Rare (< 1/10,000) Very rare
 < 1/10) to
 < 1/1000)
-Blood and Thrombocytopen Sickle cell crisis2;
-lymphatic ia1 Leukocytosis1
-system disorders
-Immune system Hypersensitivity
-disorders reactions;
-Anaphylaxis
-Metabolism and Elevations in uric
-nutrition acid
 disorders
-Nervous system Headache1
-disorders
+Vascular Capillary
+disorders leak
+syndrome1
 Respiratory, Adult Respiratory
 thoracic and Distress Syndrome2;
 mediastinal Pulmonary adverse
 disorders effects (interstitial
 pneumonia,
 pulmonary oedema,
-MedDRA Adverse reactions
-system organ class Very common (≥ 1/10) (≥ 1/100 to Common (≥ 1/1000 to < 1/100) Uncommon (≥ 1/10,000 Rare (< 1/10,000) Very rare
-< 1/10) to
-< 1/1000)
 pulmonary infiltrates
 and pulmonary
 fibrosis)
@@ -87,13 +86,13 @@ The frequency category was estimated from a statistical calculation based upon 9
 c. Description of selected adverse reactions
 
 Uncommon (≥ 1/1000 to < 1/100) cases of Sweet’s syndrome have been reported, although in some cases underlying haematological malignancies may play a role.
-
 Uncommon (≥ 1/1000 to < 1/100) events of cutaneous vasculitis have been reported in patients treated with Neulasta.
 The mechanism of vasculitis in patients receiving Neulasta is unknown.
 
 Injection site reactions, including injection site pain and injection site erythaema (common (≥ 1/100 to < 1/10)) have occurred on initial or subsequent treatment with Neulasta.
 
 Uncommon (≥ 1/1000 to < 1/100) cases of leukocytosis (White Blood Count [WBC] > 100 x 109/l) have been reported (see section 4.4).
+
 Reversible, mild to moderate elevations in uric acid and alkaline phosphatase, with no associated clinical effects, were uncommon (≥ 1/1000 to < 1/100); reversible, mild to moderate elevations in lactate dehydrogenase, with no associated clinical effects, were uncommon (≥ 1/1000 to < 1/100) in patients receiving Neulasta following cytotoxic chemotherapy.
 
 Nausea and headaches were very commonly observed in patients receiving chemotherapy.
@@ -102,6 +101,9 @@ Uncommon (≥ 1/1000 to < 1/100) elevations in liver function tests (LFTs) for A
 These elevations are transient and return to baseline.
 
 Common (≥ 1/100 to < 1/10) cases of thrombocytopenia have been reported.
+
+Cases of capillary leak syndrome have been reported in the post marketing setting with granulocyte colony-stimulating factor use.
+These have generally occurred in patients with advanced malignant diseases, sepsis, taking multiple chemotherapy medications or undergoing apheresis (see section 4.4).
 
 d. Paediatric population
 
