@@ -14,7 +14,7 @@ The exact metabolic pathway for ustekinumab is unknown.
 
 Elimination
 Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 ml/day/kg.
-Median half-life (t1/2) of ustekinumab was approximately 3 weeks in patients with psoriasis, ranging from 15 to 32 days across all psoriasis studies.
+Median half-life (t1/2) of ustekinumab was approximately 3 weeks in patients with psoriasis and/or psoriatic arthritis, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies.
 In a population pharmacokinetic analysis, the apparent clearance (CL/F) and apparent volume of distribution (V/F) were 0.465 l/day and 15.7 l, respectively, in patients with psoriasis.
 The CL/F of ustekinumab was not impacted by gender.
 Population pharmacokinetic analysis showed that there was a trend towards a higher clearance of ustekinumab in patients who tested positive for antibodies to ustekinumab.
@@ -25,13 +25,16 @@ The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximatel
 Single dose versus multiple doses
 Serum concentration-time profiles of ustekinumab were generally predictable after single or multiple subcutaneous dose administrations.
 Steady-state serum concentrations of ustekinumab were achieved by Week 28 after initial subcutaneous doses at Weeks 0 and 4 followed by doses every 12 weeks.
-The median steady-state trough concentration ranged from 0.21 μg/ml to 0.26 μg/ml (45 mg) and from 0.47 μg/ml to 0.49 μg/ml (90 mg).
+The median steady-state trough concentration ranged from 0.21 μg/ml to 0.26 μg/ml (45 mg) and from 0.47 μg/ml to 0.49 μg/ml (90 mg) in patients with psoriasis.
 There was no apparent accumulation in serum ustekinumab concentration over time when given subcutaneously every 12 weeks.
+
 Impact of weight on pharmacokinetics
-In a population pharmacokinetic analysis, body weight was found to be the most significant covariate affecting the clearance of ustekinumab.
-The median CL/F in patients with weight > 100 kg was approximately 55% higher compared to patients with weight ≤100 kg.
-The median V/F in patients with weight > 100 kg was approximately 37% higher as compared to patients with weight ≤100 kg.
-The median trough serum concentrations of ustekinumab in patients with higher weight (> 100 kg) in the 90 mg group were comparable to those in patients with lower weight (≤100 kg) in the 45 mg group.
+In a population pharmacokinetic analysis using data from patients with psoriasis, body weight was found to be the most significant covariate affecting the clearance of ustekinumab.
+The median CL/F in patients with weight > 100 kg was approximately 55% higher compared to patients with weight
+≤ 100 kg.
+The median V/F in patients with weight > 100 kg was approximately 37% higher as compared to patients with weight ≤ 100 kg.
+The median trough serum concentrations of ustekinumab in patients with higher weight (> 100 kg) in the 90 mg group were comparable to those in patients with lower weight (≤ 100 kg) in the 45 mg group.
+Similar results were obtained from a confirmatory population pharmacokinetic analysis using data from patients with psoriatic arthritis.
 
 Special populations
 No pharmacokinetic data are available in patients with impaired renal or hepatic function.
