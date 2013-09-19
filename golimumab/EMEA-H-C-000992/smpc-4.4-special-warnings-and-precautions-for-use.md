@@ -19,7 +19,6 @@ For patients who have resided in or travelled to regions where invasive fungal i
 Tuberculosis
 There have been reports of tuberculosis in patients receiving Simponi.
 It should be noted that in the majority of these reports, tuberculosis was extrapulmonary presenting as either local or disseminated disease.
-
 Before starting treatment with Simponi, all patients must be evaluated for both active and inactive (‘latent’) tuberculosis.
 This evaluation should include a detailed medical history with personal history of tuberculosis or possible previous contact with tuberculosis and previous and/or current immunosuppressive therapy.
 Appropriate screening tests, i.e. tuberculin skin or blood test and chest X-ray, should be performed in all patients (local recommendations may apply).
@@ -56,21 +55,33 @@ Malignancies and lymphoproliferative disorders
 The potential role of TNF-blocking therapy in the development of malignancies is not known.
 Based on the current knowledge, a possible risk for the development of lymphomas, leukaemia or other malignancies in patients treated with a TNF-antagonist cannot be excluded.
 Caution should be exercised when considering TNF-blocking therapy for patients with a history of malignancy or when considering continuing treatment in patients who develop malignancy.
-
 Paediatric malignancy
-Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-blocking agents (initiation of therapy ≤ 18 years of age) in the post marketing setting.
+Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-blocking agents (initiation of therapy ≤18 years of age) in the post marketing setting.
 Approximately half the cases were lymphomas.
 The other cases represented a variety of different malignancies and included rare malignancies usually associated with immunosuppression.
 A risk for the development of malignancies in children and adolescents treated with TNF-blockers cannot be excluded.
 
 Lymphoma and leukaemia
 In the controlled portions of clinical trials of all the TNF-blocking agents including Simponi, more cases of lymphoma have been observed among patients receiving anti-TNF treatment compared with control patients.
-During the Simponi Phase IIb and Phase III clinical trials, the incidence of lymphoma in Simponi-treated patients was higher than expected in the general population.
+During the Simponi Phase IIb and Phase III clinical trials in RA, PsA and AS, the incidence of lymphoma in Simponi-treated patients was higher than expected in the general population.
 In the post-marketing setting, cases of leukaemia have been reported in patients treated with a TNF-antagonist.
 There is an increased background risk for lymphoma and leukaemia in rheumatoid arthritis patients with long-standing, highly active, inflammatory disease, which complicates risk estimation.
 
+Rare post-marketing cases of hepatosplenic T-cell lymphoma (HSTCL) have been reported in patients treated with other TNF-blocking agents (see section 4.8).
+This rare type of T-cell lymphoma has a very aggressive disease course and is usually fatal.
+The majority of cases have occurred in adolescent and young adult males with nearly all on comcomitant treatment with azathioprine (AZA) or 6-mercaptopurine (6–MP) for inflammatory bowel disease.
+The potential risk with the combination of AZA or 6-MP and Simponi should be carefully considered.
+A risk for the development for hepatosplenic T-cell lymphoma in patients treated with TNF-blockers cannot be excluded.
+
 Malignancies other than lymphoma
-In the controlled portions of the Simponi Phase IIb and Phase III clinical trials in RA, PsA, and AS, the incidence of non-lymphoma malignancies (excluding non-melanoma skin cancer) was similar between the Simponi and the control groups.
+In the controlled portions of the Simponi Phase IIb and Phase III clinical trials in RA, PsA, AS, and UC, the incidence of non-lymphoma malignancies (excluding non-melanoma skin cancer) was similar between the Simponi and the control groups.
+
+Colon dysplasia/carcinoma
+It is not known if golimumab treatment influences the risk for developing dysplasia or colon cancer.
+All patients with ulcerative colitis who are at increased risk for dysplasia or colon carcinoma (for example, patients with long-standing ulcerative colitis or primary sclerosing cholangitis), or who had a prior history of dysplasia or colon carcinoma should be screened for dysplasia at regular intervals before therapy and throughout their disease course.
+This evaluation should include colonoscopy and biopsies per local recommendations.
+In patients with newly diagnosed dysplasia treated with Simponi, the risks and benefits to the individual patient must be carefully reviewed and consideration should be given to whether therapy should be continued.
+
 In an exploratory clinical trial evaluating the use of Simponi in patients with severe persistent asthma, more malignancies were reported in patients treated with Simponi compared with control patients (see section 4.8).
 The significance of this finding is unknown.
 
@@ -82,7 +93,6 @@ Skin cancers
 Melanoma has been reported in patients treated with TNF-blocking agents, including Simponi.
 Merkel cell carcinoma has been reported in patients treated with other TNF-blocking agents (see section 4.8).
 Periodic skin examination is recommended, particularly for patients with risk factors for skin cancer.
-
 Congestive heart failure (CHF)
 Cases of worsening congestive heart failure (CHF) and new onset CHF have been reported with TNF blockers, including Simponi.
 In a clinical trial with another TNF-antagonist worsening congestive heart failure and increased mortality due to CHF have been observed.
@@ -104,7 +114,7 @@ Immunosuppression
 The possibility exists for TNF-blocking agents, including Simponi, to affect host defences against infections and malignancies since TNF mediates inflammation and modulates cellular immune responses.
 
 Autoimmune processes
-The relative deficiency of TNFα caused by anti-TNF therapy may result in the initiation of an autoimmune process.
+The relative deficiency of TNFαcaused by anti-TNF therapy may result in the initiation of an autoimmune process.
 If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with Simponi and is positive for antibodies against double-stranded DNA, treatment with Simponi should be discontinued (see section 4.8).
 
 Haematologic reactions
@@ -112,6 +122,7 @@ There have been post-marketing reports of pancytopaenia, leucopaenia, neutropaen
 Cytopaenias including pancytopaenia have been infrequently reported with Simponi in clinical trials.
 All patients should be advised to seek immediate medical attention if they develop signs and symptoms suggestive of blood dyscrasias (e.g. persistent fever, bruising, bleeding, pallor).
 Discontinuation of Simponi therapy should be considered in patients with confirmed significant haematologic abnormalities.
+
 Concurrent administration of TNF-antagonists and anakinra
 Serious infections and neutropenia were seen in clinical studies with concurrent use of anakinra and another TNF-blocking agent, etanercept, with no added clinical benefit.
 Because of the nature of the adverse events seen with this combination therapy, similar toxicities may also result from the combination of anakinra and other TNF-blocking agents.
@@ -128,9 +139,13 @@ The concomitant use of Simponi with these biologics is not recommended because o
 Switching between biological DMARDs
 Care should be taken and patients should continue to be monitored when switching from one biologic to another, since overlapping biological activity may further increase the risk for adverse events, including infection.
 
-Vaccinations
+Vaccinations/therapeutic infectious agents
 Patients treated with Simponi may receive concurrent vaccinations, except for live vaccines (see sections 4.5 and 4.6).
-No data are available on the response to vaccination, risk of infection or transmission of infection with the administration of live vaccines to patients receiving Simponi.
+In patients receiving anti-TNF therapy, limited data are available on the response to vaccination with live vaccines or on the secondary transmission of infection by live vaccines.
+Use of live vaccines could result in clinical infections, including disseminated infections.
+
+Other uses of therapeutic infectious agents such as live attenuated bacteria (e.g., BCG bladder instillation for the treatment of cancer) could result in clinical infections, including disseminated infections.
+It is recommended that therapeutic infectious agents not be given concurrently with Simponi.
 
 Allergic reactions
 In post-marketing experience, serious systemic hypersensitivity reactions (including anaphylactic reaction) have been reported following Simponi administration.
@@ -142,9 +157,9 @@ The needle cover on the pre-filled pen is manufactured from dry natural rubber c
 
 Special populations
 
-Elderly patients (≥ 65 years)
-In the Phase III studies in RA, PsA, and AS, no overall differences in adverse events (AEs), serious adverse events (SAEs), and serious infections in patients age 65 or older (n = 155) who received Simponi were observed compared with younger patients.
-However, caution should be exercised when treating the elderly and particular attention paid with respect to occurrence of infections.
+Older people (≥65 years)
+In the Phase III studies in RA, PsA, AS, and UC, no overall differences in adverse events (AEs), serious adverse events (SAEs), and serious infections in patients age 65 or older who received Simponi were observed compared with younger patients.
+However, caution should be exercised when treating older people and particular attention paid with respect to occurrence of infections.
 
 Renal and hepatic impairment
 Specific studies of Simponi have not been conducted in patients with renal or hepatic impairment.
@@ -154,21 +169,9 @@ Excipients
 Simponi contains sorbitol (E420).
 Patients with rare hereditary problems of fructose intolerance should not take Simponi.
 
-Potential for Medication errors
-Simponi is registered in 50 mg and 100 mg strengths for subcutaneous administration.
-It is important that the right strength is used to administer the correct dose as indicated in the posology (see section 4.2).
-Care should be taken to provide the right strength to ensure that patients are not underdosed or overdosed.
-
-[Simponi 100 mg solution for injection in pre-filled syringe.]
-
-Reactivation of hepatitis B has occurred in patients receiving a TNF-antagonist including Simponi, who are chronic carriers of this virus (i.e., surface antigen positive).
+[Simponi 50 mg solution for injection in pre-filled syringe.]
 
 In an exploratory clinical trial evaluating the use of Simponi in patients with severe persistent asthma, more malignancies were reported in patients treated with Simponi compared with control patients
 (see section 4.8).
 
-Patients treated with Simponi may receive concurrent vaccinations, except for live vaccines
-(see sections 4.5 and 4.6).
-
 The needle cover on the pre-filled syringe is manufactured from dry natural rubber containing latex, and may cause allergic reactions in individuals sensitive to latex.
-
-Elderly patients(≥ 65 years)
