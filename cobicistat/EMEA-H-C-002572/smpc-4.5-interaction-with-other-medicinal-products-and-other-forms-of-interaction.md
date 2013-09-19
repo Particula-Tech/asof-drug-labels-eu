@@ -1,0 +1,108 @@
+# 4.5 Interaction with other medicinal products and other forms of interaction
+
+Cobicistat is a strong mechanism-based CYP3A inhibitor and is a CYP3A substrate.
+Increased plasma concentrations of medicinal products that are metabolised by CYP3A (including atazanavir and darunavir) are observed on co-administration with cobicistat.
+
+Cobicistat is a weak CYP2D6 inhibitor and is metabolised to a minor extent by CYP2D6.
+Co-administration with cobicistat can increase plasma concentrations of medicinal products that are metabolised by CYP2D6 (see sections 4.3 and 4.4).
+
+Cobicistat inhibits the transporters p-glycoprotein (P-gp), BCRP, MATE1, OATP1B1 and OATP1B3.
+Co-administration of Tybost with medicinal products that are substrates of these transporters can result in increased plasma concentrations of the co-administered medicinal products (see section 4.4).
+
+Cobicistat is not expected to inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9 or CYP2C19.
+
+Cobicistat is not expected to induce CYP3A4 or P-gp (MDR1).
+
+Unlike ritonavir, cobicistat is not an inducer of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19 or UGT1A1.
+If switching pharmacoenhancer from ritonavir to cobicistat, caution is required during the first two weeks of treatment with Tybost, particularly if doses of any concomitantly administered medicinal products have been titrated or adjusted during use of ritonavir as a pharmacoenhancer (see section 4.4).
+Concomitant use contraindicated
+Medicinal products that are extensively metabolised by CYP3A and have high first pass metabolism appear to be the most susceptible to large increases in exposure when co-administered with cobicistat.
+Co-administration of Tybost with medicinal products such as dihydroergotamine, ergotamine, ergometrine, orally administered midazolam, triazolam, amiodarone, quinidine, cisapride, pimozide, alfuzosin, simvastatin, lovastatin, and sildenafil which are highly dependent on CYP3A for clearance and for which elevated plasma concentrations are associated with serious and/or life-threatening events is contraindicated (see section 4.3).
+
+Co-administration of Tybost with medicinal products that are strong inducers of CYP3A (such as
+St. John’s wort (Hypericum perforatum), rifampicin, carbamazepine, phenobarbital, phenytoin) may result in decreased plasma concentrations of cobicistat and consequently that of atazanavir or darunavir being boosted, leading to loss of therapeutic effect and possible development of resistance (see section 4.3).
+
+Concomitant use not recommended
+Co-administration of Tybost with medicinal products that are moderate to weak inducers of CYP3A may result in decreased plasma concentration of cobicistat and consequently that of atazanavir or darunavir being boosted, leading to loss of therapeutic effect and possible development of resistance.
+Some examples include, but are not limited to, etravirine, efavirenz, nevirapine, boceprevir, telaprevir, fluticasone, and bosentan (see Table 2).
+
+Co-administration of Tybost with medicinal products that inhibit CYP3A may result in increased plasma concentration of cobicistat.
+Some examples include, but are not limited to, itraconazole, ketoconazole, and voriconazole (see Table 2).
+
+Tybost co-administered with atazanavir or darunavir should not be used in combination with another antiretroviral agent that requires pharmacoenhancement by means of co-administration with an inhibitor of CYP3A4 to reach the desired therapeutic plasma concentrations (i.e., another protease inhibitor or elvitegravir).
+Dosing recommendations for such combinations have not been established and may result in decreased plasma concentrations of atazanavir, darunavir and/or the other antiretroviral agents that require pharmacoenhancement leading to loss of antiviral activity and development of resistance.
+
+Other interactions
+Interactions of cobicistat and potential co-administered medicinal products are listed in Table 2 below (increase is indicated as “↑”, decrease as “↓”, no change as “↔”).
+These interactions are based on either drug interaction studies or predicted interactions due to the expected magnitude of interaction and potential for serious events or loss of efficacy.
+
+For additional drug-drug interactions with atazanavir or darunavir, consult their respective Summary of Product Characteristics when using Tybost.
+
+Table 2: Interactions between cobicistat and other medicinal products
+
+| Medicinal product by therapeutic areas | Effects on drug levels Mean percent change in AUC, Cmax, Cmin | Recommendation concerning co-administration with cobicistat 150 mg and atazanavir or darunavir |
+| --- | --- | --- |
+| ANTIRETROVIRALS |  |  |
+| Nucleoside Reverse Transcriptase Inhibitors (NRTIs) |  |  |
+| Tenofovir disoproxil fumarate | Co-administration of tenofovir disoproxil fumarate with cobicistat is expected to increase tenofovir plasma concentration. Tenofovir: AUC: ↑ 23% Cmax: ↑ 55% | This increase is not considered to be clinically relevant and does not necessitate dose adjustment of tenofovir disoproxil fumarate. |
+| Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs) |  |  |
+| Efavirenz (600 mg single dose) | Co-administration of efavirenz and cobicistat is expected to decrease cobicistat plasma concentrations. Efavirenz: AUC: ↔ Cmax: ↓ 13% Cmin: ND | Atazanavir or darunavir plasma concentrations may decrease as a consequence of a reduction in cobicistat plasma concentrations, which may result in loss of therapeutic effect and development of resistance. Co-administration is not recommended (see section 4.4). |
+| Etravirine | Interaction not studied. Co-administration of etravirine and cobicistat is expected to decrease cobicistat plasma concentrations. | Atazanavir or darunavir plasma concentrations may decrease as a consequence of a reduction in cobicistat plasma concentrations, which may result in loss of therapeutic effect and development of resistance. Co-administration is not recommended (see section 4.4). |
+| Nevirapine | Interaction not studied. Co-administration of nevirapine and cobicistat is expected to decrease cobicistat plasma concentrations. Nevirapine plasma concentrations may be increased when co-administered with cobicistat. | Atazanavir or darunavir plasma concentrations may decrease as a consequence of a reduction in cobicistat plasma concentrations, which may result in loss of therapeutic effect and development of resistance. Co-administration is not recommended (see section 4.4). |
+| Rilpivirine | Interaction not studied. Co-administration of rilpivirine and cobicistat is expected to increase the plasma concentration of rilpivirine. Rilpivirine is not expected to affect the plasma concentration of cobicistat. | No dose adjustment of rilpivirine is required when atazanavir/cobicistat or darunavir/cobicistat are used concomitantly with rilpivirine. |
+| CCR5 Antagonists |  |  |
+| Maraviroc | Interaction not studied. Maraviroc is a substrate of CYP3A and its plasma concentration increases when co-administered with potent CYP3A inhibitors. | When co-administering maraviroc and Tybost patients should receive maraviroc 150 mg twice daily. For further details, consult the Summary of Product Characteristics for maraviroc. |
+| ANTI-INFECTIVES |  |  |
+| Antifungals |  |  |
+| Ketoconazole | Interaction not studied. Concentrations of ketoconazole and/or cobicistat may increase with co-administration of cobicistat. | When administering ketoconazole with Tybost, the maximum daily dose of ketoconazole should not exceed 200 mg per day. Caution is warranted and clinical monitoring is recommended during co-administration. |
+| Itraconazole Voriconazole Posaconazole Fluconazole | Concentrations of itraconazole, fluconazole and posaconazole may be increased when co-administered with cobicistat. Concentrations of voriconazole may increase or decrease when co-administered with cobicistat. | Clinical monitoring is recommended upon co-administration with Tybost. When administering with Tybost, the maximum daily dose of itraconazole should not exceed 200 mg per day. Voriconazole should not be used unless the possible benefit is considered to outweigh the risks associated with the unpredictable effect on plasma concentrations. |
+| HCV protease inhibitors |  |  |
+| Boceprevir Telaprevir | Interaction not studied. | Atazanavir, darunavir, boceprevir or telaprevir plasma concentrations may decrease upon co-administration. Co-administration with Tybost is not recommended. |
+| Antimycobacterials |  |  |
+| Rifabutin (150 mg every other day)/Elvitegravir (150 mg once daily)/Cobicistat (150 mg once daily) | Co-administration of rifabutin, a potent CYP3A inducer, may significantly decrease cobicistat plasma concentrations. Cobicistat: AUC: ↔ Cmax: ↔ Cmin: ↓ 66% Rifabutin: AUC: ↔ Cmax: ↔ Cmin: ↔ 25-O-desacetyl-rifabutin: AUC: ↑ 525% Cmax: ↑ 384% Cmin: ↑ 394% | Co-administration of Tybost and rifabutin is not recommended. If the combination is needed, the recommended dose of rifabutin is 150 mg 3 times per week on set days (for example Monday-Wednesday-Friday). Increased monitoring for rifabutin-associated adverse reactions including neutropenia and uveitis is warranted due to an expected increase in exposure to desacetyl-rifabutin. Further dose reduction of rifabutin has not been studied. It should be kept in mind that a twice weekly dose of 150 mg may not provide an optimal exposure to rifabutin thus leading to a risk of rifabutin resistance and a treatment failure. |
+| Macrolide antibiotics |  |  |
+| Clarithromycin | Interaction not studied. Concentrations of clarithromycin may be increased upon co-administration with cobicistat. | Concentrations of clarithromycin may be increased upon co-administration of Tybost. Alternative antibiotics should be considered for co-administration with atazanavir/cobicistat. Consult atazanavir Summary of Product Characteristics for dosing recommendations. When clarithromycin is co-administered with darunavir/cobicistat, consult the darunavir Summary of Product Characteristics for dosing recommendations. |
+| ANTI-NEOPLASTICS |  |  |
+| Dasatinib Nilotinib Vinblastine Vincristine | Interaction not studied. Concentrations of these medicinal products may be increased when co-administered with cobicistat. | Concentrations of these medicinal products may be increased when co-administered with Tybost resulting in the potential for increased adverse events usually associated with these anticancer medicinal products. |
+| GLUCOCORTICOIDS |  |  |
+| Inhaled/Nasal corticosteroids |  |  |
+| Fluticasone | Interaction not studied. Concomitant use of inhaled or nasal fluticasone and cobicistat may increase plasma concentrations of fluticasone, resulting in reduced serum cortisol concentrations. | Use of inhaled or nasal fluticasone propionate and Tybost is not recommended unless the potential benefit to the patient outweighs the risks. Alternative inhaled or nasal corticosteroids may be considered. |
+| ORAL ANTI-DIABETICS |  |  |
+| Metformin | Interaction not studied. Cobicistat reversibly inhibits MATE1, and concentrations of metformin may be increased when co-administered with cobicistat. | Careful patient monitoring and dose adjustment of metformin is recommended in patients who are taking Tybost. |
+| NARCOTIC ANALGESICS |  |  |
+| Methadone | Methadone: AUC: ↔ Cmin: ↔ Cmax: ↔ | No dose adjustment of methadone is required. |
+| Buprenorphine/Naloxone | Buprenorphine: AUC: ↑ 35% Cmin: ↑ 66% Cmax: ↑ 12% Naloxone: AUC: ↓ 28% Cmax: ↓ 28% | No dose adjustment of Tybost is required. |
+| ORAL CONTRACEPTIVES |  |  |
+| Norgestimate/Ethinyl-estradiol | Interaction not studied. Concentrations of contraceptive components may be affected on co-administration with cobicistat. | No data are available to make recommendations on the use of atazanavir/cobicistat or darunavir/cobicistat with combined or progestagen-only oral or implanted contraceptives. Alternative forms of contraception should be used. |
+| ANTIARRHYTHMICS |  |  |
+| Disopyramide Flecainide Systemic lidocaine Mexiletine Propafenone | Interaction not studied. Concentrations of these antiarrhythmic medicinal products may be increased when co-administered with cobicistat. | Caution is warranted and clinical monitoring is recommended upon co-administration of these antiarrhythmic medicinal products with Tybost. |
+| Digoxin (0.5 mg single dose)/Cobicistat (150 mg multiple doses) | Plasma concentrations of digoxin may be increased when co-administered with cobicistat. Digoxin: AUC: ↔ Cmax: ↑ 41% Cmin: ND | The peak concentration of digoxin is increased when co-administered with Tybost. The lowest dose of digoxin should initially be prescribed. The serum digoxin concentrations should be monitored and used for titration of digoxin dose to obtain the desired clinical effects. |
+| ANTI-HYPERTENSIVES |  |  |
+| Metoprolol Timolol | Interaction not studied. Concentrations of beta-blockers may be increased when co-administered with cobicistat. | Clinical monitoring is recommended and a dose reduction may be necessary when these beta-blockers are co-administered with Tybost. |
+| Amlodipine Diltiazem Felodipine Nicardipine Nifedipine Verapamil | Interaction not studied. Concentrations of calcium channel blockers may be increased when co-administered with cobicistat. | Clinical monitoring of therapeutic effect and adverse events is recommended when these medicinal products are co-administered with Tybost. |
+| ENDOTHELIN RECEPTOR ANTAGONISTS |  |  |
+| Bosentan | Interaction not studied. Co-administration of bosentan with cobicistat may lead to decreased cobicistat plasma concentrations. | Atazanavir or darunavir plasma concentrations may decrease as a consequence of a reduction in cobicistat plasma concentrations, which may result in loss of therapeutic effect and development of resistance. Co-administration is not recommended (see section 4.4). |
+| ANTICOAGULANTS |  |  |
+| Rivaroxaban | Interaction not studied. Concentrations of rivaroxaban may be affected upon co-administration with cobicistat. | Inhibition of CYP3A and intestinal P-gp may lead to increased plasma levels and pharmacodynamic effects of rivaroxaban which may lead to an increased bleeding risk. Co-administration of rivaroxaban and Tybost is not recommended. |
+| Warfarin | Interaction not studied. Concentrations of warfarin may be affected upon co-administration with cobicistat. | It is recommended that the international normalised ratio (INR) be monitored upon co-administration with Tybost. |
+| Dabigatran | Interaction not studied. Concentrations of dabigatran may be affected upon co-administration with cobicistat. | Clinical monitoring is recommended when dabigatran is co-administered with P-gp inhibitors. A coagulation test helps to identify patients with an increased bleeding risk due to increased dabigatran exposure. |
+| INHALED BETA AGONISTS |  |  |
+| Salmeterol | Interaction not studied. Co-administration of salmeterol with cobicistat may result in increased plasma concentrations of salmeterol. | Increased plasma concentrations of salmeterol are associated with the potential for serious and/or life-threatening reactions. Co-administration of salmeterol and Tybost is not recommended (see section 4.4). |
+| HMG Co-A REDUCTASE INHIBITORS |  |  |
+| Atorvastatin Fluvastatin Pitavastatin Pravastatin | Interaction not studied. Plasma concentrations of HMG Co-A reductase inhibitors may be increased when co-administered with cobicistat. | Plasma concentrations of atorvastatin, pitavastatin, fluvastatin, pravastatin or rosuvastatin are expected to increase when co-administered with atazanavir/cobicistat or darunavir/cobicistat. |
+| Rosuvastatin (10 mg single dose)/Elvitegravir (150 mg once daily)/Cobicistat (150 mg once daily) | Rosuvastatin: AUC: ↑ 38% Cmax: ↑ 89% Cmin: ↑ 43% Cobicistat: AUC: ↔ Cmax: ↔ Cmin: ↔ | Co-administration of atorvastatin with Tybost is not recommended. If the use of atorvastatin is considered strictly necessary, the lowest possible dose of atorvastatin should be administered with careful monitoring. Caution should be exercised when co-administering Tybost with pitavastatin. Consult the Summary of Product Characteristics of atazanavir or darunavir for further information on use in combination with these medicinal products. |
+| PHOSPHODIESTERASE TYPE-5 (PDE-5) INHIBITORS |  |  |
+| Sildenafil Tadalafil Vardenafil | Interaction not studied. PDE-5 inhibitors are primarily metabolised by CYP3A. Co-administration with cobicistat may result in increased sildenafil, tadalafil and vardenafil plasma concentrations, which may result in PDE-5 inhibitor-associated adverse reactions. | Co-administration of Tybost with sildenafil for the treatment of pulmonary arterial hypertension is contraindicated (see section 4.3). Caution should be exercised, including consideration of dose reduction, when co-administering Tybost with tadalafil for the treatment of pulmonary arterial hypertension. For the treatment of erectile dysfunction, it is recommended that a single dose of sildenafil no more than 25 mg in 48 hours, vardenafil no more than 2.5 mg in 72 hours, or tadalafil no more than 10 mg in 72 hours be co-administered with Tybost. |
+| ANTIDEPRESSANTS |  |  |
+| Selective Serotonin Reuptake Inhibitors (SSRIs) |  |  |
+| Trazodone | Interaction not studied. Plasma concentrations of trazodone may be increased when co-administered with cobicistat. | Dose titration may be required for most medicinal products of the SSRI class, when co-administered with Tybost. |
+| IMMUNOSUPPRESSANTS |  |  |
+| Ciclosporin Sirolimus Tacrolimus | Interaction not studied. Concentrations of these immunosuppressants may be increased when co-administered with cobicistat. | Therapeutic monitoring is recommended upon co-administration with Tybost. |
+| NEUROLEPTICS |  |  |
+| Perphenazine Risperidone Thioridazine | Interaction not studied. Co-administration of neuroleptics with cobicistat may result in increased plasma concentrations of neuroleptics. | For these neuroleptics, consider reducing the dose of the neuroleptic upon co-administration with Tybost. |
+| SEDATIVES/HYPNOTICS |  |  |
+| Buspirone Clorazepate Diazepam Estazolam Flurazepam Zolpidem | Interaction not studied. Concentrations of these sedatives/hypnotics may be increased when co-administered with cobicistat. | For these sedatives/hypnotics, dose reduction may be necessary and concentration monitoring is recommended. |
+| ANTI-GOUT |  |  |
+| Colchicine | Interaction not studied. Colchicine plasma concentrations may be increased when co-administered with cobicistat. | Dose reductions of colchicine may be required. Tybost should not be co-administered with colchicine to patients with renal or hepatic impairment. |
+
+ND = not determined

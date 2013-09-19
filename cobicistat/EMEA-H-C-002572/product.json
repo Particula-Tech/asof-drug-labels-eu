@@ -1,0 +1,16 @@
+{
+  "active_substance": "cobicistat",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/002572",
+  "eu_number": "EU/1/13/872",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2013-09-19",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tybost",
+  "molecule": "cobicistat",
+  "molecule_name": "COBICISTAT",
+  "name": "Tybost",
+  "register_name": "Tybost",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h872.htm"
+}
