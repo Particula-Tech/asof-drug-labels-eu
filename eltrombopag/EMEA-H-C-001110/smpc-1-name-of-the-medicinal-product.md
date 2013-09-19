@@ -5,3 +5,7 @@ Revolade 25 mg film-coated tablets
 [Revolade 50 mg film-coated tablets]
 
 Revolade 50 mg film-coated tablets
+
+[Revolade 75 mg film-coated tablets]
+
+Revolade 75 mg film-coated tablets
