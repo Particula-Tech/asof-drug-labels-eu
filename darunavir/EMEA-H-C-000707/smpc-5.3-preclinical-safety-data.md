@@ -1,9 +1,11 @@
 # 5.3 Preclinical safety data
 
 Animal toxicology studies have been conducted at exposures up to clinical exposure levels with darunavir alone, in mice, rats and dogs and in combination with ritonavir in rats and dogs.
+
 In repeated-dose toxicology studies in mice, rats and dogs, there were only limited effects of treatment with darunavir.
 In rodents the target organs identified were the haematopoietic system, the blood coagulation system, liver and thyroid.
 A variable but limited decrease in red blood cell-related parameters was observed, together with increases in activated partial thromboplastin time.
+
 Changes were observed in liver (hepatocyte hypertrophy, vacuolation, increased liver enzymes) and thyroid (follicular hypertrophy).
 In the rat, the combination of darunavir with ritonavir lead to a small increase in effect on RBC parameters, liver and thyroid and increased incidence of islet fibrosis in the pancreas (in male rats only) compared to treatment with darunavir alone.
 In the dog, no major toxicity findings or target organs were identified up to exposures equivalent to clinical exposure at the recommended dose.
@@ -21,6 +23,7 @@ Exposure in plasma, liver and brain was considerably higher than in adult rats a
 After day 23 of life, the exposure was comparable to that in adult rats.
 The increased exposure was likely at least partly due to immaturity of the drug-metabolising enzymes in juvenile animals.
 No treatment related mortalities were noted in juvenile rats dosed at 1,000 mg/kg darunavir (single dose) on day 26 of age or at 500 mg/kg (repeated dose) from day 23 to 50 of age, and the exposures and toxicity profile were comparable to those observed in adult rats.
+
 Due to uncertainties regarding the rate of development of the human blood brain barrier and liver enzymes, PREZISTA with low dose ritonavir should not be used in paediatric patients below 3 years of age.
 
 Darunavir was evaluated for carcinogenic potential by oral gavage administration to mice and rats up to 104 weeks.
@@ -31,5 +34,7 @@ Administration of darunavir did not cause a statistically significant increase i
 The observed hepatocellular and thyroid tumours in rodents are considered to be of limited relevance to humans.
 Repeated administration of darunavir to rats caused hepatic microsomal enzyme induction and increased thyroid hormone elimination, which predispose rats, but not humans, to thyroid neoplasms.
 At the highest tested doses, the systemic exposures (based on AUC) to darunavir were between 0.4- and 0.7-fold (mice) and 0.7- and 1-fold (rats), relative to those observed in humans at the recommended therapeutic doses.
+
 After 2 years administration of darunavir at exposures at or below the human exposure, kidney changes were observed in mice (nephrosis) and rats (chronic progressive nephropathy).
+
 Darunavir was not mutagenic or genotoxic in a battery of in vitro and in vivo assays including bacterial reverse mutation (Ames), chromosomal aberration in human lymphocytes and in vivo micronucleus test in mice.

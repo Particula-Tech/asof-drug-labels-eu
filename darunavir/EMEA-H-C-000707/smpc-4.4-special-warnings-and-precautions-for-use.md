@@ -9,6 +9,7 @@ In the setting of lack or loss of virological response, resistance testing shoul
 PREZISTA should only be used in combination with low dose ritonavir as a pharmacokinetic enhancer (see section 5.2).
 
 Increasing the dose of ritonavir from that recommended in section 4.2 did not significantly affect darunavir concentrations and is not recommended.
+
 Darunavir binds predominantly to α1-acid glycoprotein.
 This protein binding is concentration-dependent indicative for saturation of binding.
 Therefore, protein displacement of medicinal products highly bound to α1-acid glycoprotein cannot be ruled out (see section 4.5).
@@ -28,9 +29,9 @@ As limited information is available on the use of PREZISTA in patients aged 65 a
 
 Severe skin reactions
 During the clinical development program (N=3,063), severe skin reactions, which may be accompanied with fever and/or elevations of transaminases, have been reported in 0.4% of patients.
-Stevens-Johnson Syndrome has been rarely (< 0.1%) reported, and during post-marketing experience toxic epidermal necrolysis and acute generalised exanthematous pustulosis have been reported.
-Discontinue PREZISTA/rtv immediately if signs or symptoms of severe skin reactions develop.
-These can include but are not limited to severe rash or rash accompanied by fever, general malaise, fatigue, muscle or joint aches, blisters, oral lesions, conjunctivitis, hepatitis and/or eosinophilia.
+DRESS (Drug Rash with Eosinophilia and Systemic Symptoms) and Stevens-Johnson Syndrome has been rarely (< 0.1%) reported, and during post-marketing experience toxic epidermal necrolysis and acute generalised exanthematous pustulosis have been reported.
+PREZISTA/rtv should be discontinued immediately if signs or symptoms of severe skin reactions develop.
+These can include, but are not limited to, severe rash or rash accompanied by fever, general malaise, fatigue, muscle or joint aches, blisters, oral lesions, conjunctivitis, hepatitis and/or eosinophilia.
 
 Rash occurred more commonly in treatment-experienced patients receiving regimens containing PREZISTA + raltegravir compared to patients receiving PREZISTA without raltegravir or raltegravir without PREZISTA (see section 4.8).
 
@@ -49,6 +50,7 @@ Increased AST/ALT monitoring should be considered in patients with underlying ch
 If there is evidence of new or worsening liver dysfunction (including clinically significant elevation of liver enzymes and/or symptoms such as fatigue, anorexia, nausea, jaundice, dark urine, liver tenderness, hepatomegaly) in patients using PREZISTA/rtv, interruption or discontinuation of treatment should be considered promptly.
 
 Patients with coexisting conditions
+
 Hepatic impairment
 The safety and efficacy of PREZISTA have not been established in patients with severe underlying liver disorders and PREZISTA is therefore contraindicated in patients with severe hepatic impairment.
 Due to an increase in the unbound darunavir plasma concentrations, PREZISTA should be used with caution in patients with mild or moderate hepatic impairment (see sections 4.2, 4.3 and 5.2).
@@ -63,13 +65,12 @@ There have been reports of increased bleeding, including spontaneous skin haemat
 In some patients additional factor VIII was given.
 In more than half of the reported cases, treatment with PIs was continued or reintroduced if treatment had been discontinued.
 A causal relationship has been suggested, although the mechanism of action has not been elucidated.
-Haemophiliac patients should therefore be made aware of the possibility of increased bleeding.
+Haemophiliac patients should, therefore, be made aware of the possibility of increased bleeding.
 
 Diabetes mellitus/hyperglycaemia
 New onset diabetes mellitus, hyperglycaemia, or exacerbation of existing diabetes mellitus has been reported in patients receiving antiretroviral therapy, including PIs.
 In some of these patients the hyperglycaemia was severe and in some cases also associated with ketoacidosis.
 Many patients had confounding medical conditions some of which required therapy with agents that have been associated with the development of diabetes mellitus or hyperglycaemia.
-
 Fat redistribution and metabolic disorders
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV infected patients.
 The long-term consequences of these events are currently unknown.
@@ -81,7 +82,7 @@ Consideration should be given to measurement of fasting serum lipids and blood g
 Lipid disorders should be managed as clinically appropriate (see section 4.8).
 
 Osteonecrosis
-Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV disease and/or long-term exposure to combination antiretroviral therapy (CART).
+Although the aetiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV disease and/or long-term exposure to combination antiretroviral therapy (CART).
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
 
 Immune reactivation syndrome
@@ -104,8 +105,7 @@ See the Summary of Product Characteristics for PREZISTA 75 mg, 150 mg, 300 mg or
 
 Life-threatening and fatal drug interactions have been reported in patients treated with colchicine and strong inhibitors of CYP3A and P-glycoprotein (Pgp; see section 4.5).
 
-PREZISTA oral suspension contains sodium methyl parahydroxybenzoate (E219) which may cause an allergic reaction in some individuals.
-This reaction may be delayed.
+PREZISTA oral suspension contains sodium methyl parahydroxybenzoate (E219) which may cause allergic reactions (possibly delayed).
 
 [PREZISTA 75 mg film-coated tablets]
 
