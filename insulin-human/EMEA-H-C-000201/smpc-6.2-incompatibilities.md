@@ -135,7 +135,7 @@ Insuman Comb 30 must not be mixed with any other insulin or with insulin analogu
 
 [Insuman Comb 30 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
-(all sentences already above)
+Insuman Comb 30 must not be mixed with any other insulin human or with insulin analogues.
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a vial]
 
@@ -173,3 +173,9 @@ Insuman Infusat must not be mixed with any other insulin or with insulin analogu
 [Insuman Infusat 100 IU/ml solution for injection in a cartridge]
 
 (all sentences already above)
+
+[Insuman Implantable 400 IU/ml solution for infusion]
+
+This medicinal product must not be mixed with other medicinal products.
+
+Insuman Implantable must NOT be mixed with any other insulin or with insulin analogues.

@@ -137,7 +137,7 @@ Insuman Comb 50 is a biphasic isophane insulin suspension consisting of 50% diss
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a cartridge]
 
-Each ml contains 100 IU insulin human (equivalent to 3,5 mg).
+(all sentences already above)
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen.]
 
@@ -145,7 +145,7 @@ Each ml contains 100 IU insulin human (equivalent to 3,5 mg).
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
-Each cartridge contains 3 ml suspension for injection, equivalent to 300 IU insulin.
+(all sentences already above)
 
 [Insuman Comb 50 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
@@ -160,3 +160,11 @@ Insuman Infusat is a neutral insulin solution (regular insulin).
 [Insuman Infusat 100 IU/ml solution for injection in a cartridge]
 
 Each cartridge contains 3.15 ml of solution for injection, equivalent to 315 IU insulin.
+
+[Insuman Implantable 400 IU/ml solution for infusion]
+
+One ml of solution contains 400 IU insulin human* (equivalent to 14 mg).
+One 10 ml vial of solution contains 4,000 IU insulin.
+
+Insuman Implantable is a neutral insulin solution (regular insulin).
+*Insulin human is produced by recombinant DNA technology in Escherichia coli.

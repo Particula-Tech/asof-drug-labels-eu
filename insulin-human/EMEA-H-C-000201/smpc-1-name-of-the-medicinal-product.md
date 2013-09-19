@@ -145,3 +145,7 @@ Insuman Infusat 100 IU/ml solution for injection in a vial
 [Insuman Infusat 100 IU/ml solution for injection in a cartridge]
 
 Insuman Infusat 100 IU/ml solution for injection in a cartridge
+
+[Insuman Implantable 400 IU/ml solution for infusion]
+
+Insuman Implantable 400 IU/ml solution for infusion

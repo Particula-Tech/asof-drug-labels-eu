@@ -155,3 +155,8 @@ Insulin that has been filled into the pump reservoir may be used for two weeks t
 [Insuman Infusat 100 IU/ml solution for injection in a cartridge]
 
 The product (cartridges in-use in the pump) may be stored for a maximum of 2 weeks.
+
+[Insuman Implantable 400 IU/ml solution for infusion]
+
+Shelf life in the pump
+Up to 45 days at 37°C.

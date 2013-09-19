@@ -79,7 +79,7 @@ Each cartridge contains 3 balls (stainless steel).
 
 [Insuman Comb 25 100 IU/ml suspension for injection in a vial]
 
-5 ml solution in a vial (type 1 colourless glass) with a flanged cap (aluminium), a stopper (chlorobutyl rubber (type 1)) and a tear-off cap (polypropylene).
+(all sentences already above)
 
 [Insuman Comb 25 40 IU/ml suspension for injection in a vial]
 
@@ -153,3 +153,9 @@ Packs of 3 vials are available.
 
 3.15 ml solution in a cartridge (type 1 colourless glass) with a plunger (fluoropolymer coated rubber (type 1, mixture of chlorobutyl and natural rubber)), a flanged cap (aluminium) and a stopper with hole (bromobutyl rubber (type 1), a Luer cone attachment (colourless polyethylene) and a Luer cap (colourless polyethylene).
 Packs of 5 cartridges are available.
+
+[Insuman Implantable 400 IU/ml solution for infusion]
+
+Colourless glass vial (type I) closed with flanged cap made of aluminium with tear-off lid and inserted sealing disk made of chlorobutyl rubber.
+Each vial contains 10 ml of solution.
+Packs of 1 and 5 vials.

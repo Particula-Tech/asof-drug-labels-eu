@@ -158,3 +158,10 @@ Do not put Insuman Infusat next to the freezer compartment or a freezer pack.
 [Insuman Infusat 100 IU/ml solution for injection in a cartridge]
 
 (all sentences already above)
+
+[Insuman Implantable 400 IU/ml solution for infusion]
+
+Do not put Insuman Implantable next to the freezer compartment or a freezer pack.
+
+Shelf life in the pump
+For in-use stability, see section 6.3.

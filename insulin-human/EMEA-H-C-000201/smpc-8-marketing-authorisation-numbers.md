@@ -2,6 +2,8 @@
 
 EU/1/97/030/028
 EU/1/97/030/029
+EU/1/97/030/196
+EU/1/97/030/197
 
 [Insuman Rapid 40 IU/ml solution for injection in a vial]
 
@@ -48,6 +50,8 @@ EU/1/97/030/145
 
 EU/1/97/030/033
 EU/1/97/030/034
+EU/1/97/030/198
+EU/1/97/030/199
 
 [Insuman Basal 40 IU/ml suspension for injection in a vial]
 
@@ -186,6 +190,8 @@ EU/1/97/030/163
 
 EU/1/97/030/170
 EU/1/97/030/171
+EU/1/97/030/200
+EU/1/97/030/201
 
 [Insuman Comb 30 100 IU/ml suspension for injection in a cartridge]
 
@@ -276,3 +282,8 @@ EU/1/97/030/053
 [Insuman Infusat 100 IU/ml solution for injection in a cartridge]
 
 EU/1/97/030/054
+
+[Insuman Implantable 400 IU/ml solution for infusion]
+
+EU/1/97/030/202
+EU/1/97/030/203

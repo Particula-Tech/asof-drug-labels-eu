@@ -1,4 +1,4 @@
-# 4.6 Fertility pregnancy and lactation
+# 4.6 Fertility, pregnancy and lactation
 
 Pregnancy
 For insulin human, no clinical data on exposed pregnancies are available.
@@ -10,7 +10,8 @@ Insulin requirements may decrease during the first trimester and generally incre
 Immediately after delivery, insulin requirements decline rapidly (increased risk of hypoglycaemia).
 Careful monitoring of glucose control is essential.
 
-Breast-feedingNo effects on the suckling child are anticipated.
+Breast-feeding
+No effects on the suckling child are anticipated.
 Insuman Rapid can be used during breast-feeding.
 Breast-feeding women may require adjustments in insulin dose and diet.
 
@@ -19,8 +20,7 @@ No clinical or animal data with insulin human on male or female fertility are av
 
 [Insuman Rapid 40 IU/ml solution for injection in a vial]
 
-Breast-feeding
-No effects on the suckling child are anticipated.
+(all sentences already above)
 
 [Insuman Rapid 100 IU/ml solution for injection in a cartridge]
 
@@ -72,11 +72,11 @@ Insuman Comb 15 can be used during breast-feeding.
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a cartridge]
 
-Breast-feeding No effects on the suckling child are anticipated.
+(all sentences already above)
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen.]
 
-(all sentences already above)
+Breast-feeding No effects on the suckling child are anticipated.
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
@@ -120,7 +120,7 @@ Insuman Comb 30 can be used during breast-feeding.
 
 [Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen.]
 
-(all sentences already above)
+Breast-feedingNo effects on the suckling child are anticipated.
 
 [Insuman Comb 30 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
@@ -161,3 +161,14 @@ Insuman Infusat can be used during breast-feeding.
 [Insuman Infusat 100 IU/ml solution for injection in a cartridge]
 
 (all sentences already above)
+
+[Insuman Implantable 400 IU/ml solution for infusion]
+
+For insulin human administered via subcutaneous route, no clinical data on exposed pregnancies are available.
+
+For Insuman Implantable administered via the intraperitoneal pump, the safety profile has not been established in pregnancy.
+Women of childbearing potential, implanted or candidates for implantation, should inform their physician if they are contemplating pregnancy.
+Insuman Implantable should not be used during pregnancy unless the clinical condition of the woman requires treatment with Insuman Implantable.
+
+No effects on the breastfed child are anticipated.
+Insuman Implantable can be used during breast-feeding.

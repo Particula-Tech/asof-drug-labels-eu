@@ -150,3 +150,7 @@ Suspension for injection in a cartridge for OptiClik.
 [Insuman Infusat 100 IU/ml solution for injection in a cartridge]
 
 (all sentences already above)
+
+[Insuman Implantable 400 IU/ml solution for infusion]
+
+Solution for infusion (infusion).

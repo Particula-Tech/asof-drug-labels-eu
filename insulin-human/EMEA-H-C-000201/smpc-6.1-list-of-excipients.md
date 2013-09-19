@@ -145,3 +145,7 @@ Phenol, zinc chloride, trometamol, poloxamer 171, glycerol, hydrochloric acid (f
 [Insuman Infusat 100 IU/ml solution for injection in a cartridge]
 
 (all sentences already above)
+
+[Insuman Implantable 400 IU/ml solution for infusion]
+
+Phenol, zinc chloride, trometamol, poloxamer 171, glycerol, hydrochloric acid (for pH adjustment), sodium hydroxide (for pH adjustment), water for injections
