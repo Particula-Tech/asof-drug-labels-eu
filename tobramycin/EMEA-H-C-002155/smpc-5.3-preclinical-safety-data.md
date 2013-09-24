@@ -5,7 +5,6 @@ In general, toxicity is seen at higher systemic tobramycin levels than are achie
 
 Carcinogenicity studies with inhaled tobramycin do not increase the incidence of any variety of tumour.
 Tobramycin showed no genotoxic potential in a battery of genotoxicity tests.
-
 No reproduction toxicology studies have been conducted with tobramycin administered by inhalation.
 However, subcutaneous administration of tobramycin during organogenesis was not teratogenic nor embryotoxic.
 Severely maternally toxic doses to female rabbits (i.e. nephrotoxicity) lead to spontaneous abortions and death.

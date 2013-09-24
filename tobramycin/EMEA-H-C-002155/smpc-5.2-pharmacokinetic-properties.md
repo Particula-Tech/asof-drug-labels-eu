@@ -15,6 +15,7 @@ The variability in pharmacokinetic parameters was higher in sputum as compared t
 Distribution
 A population pharmacokinetic analysis for TOBI Podhaler in cystic fibrosis patients estimated the apparent volume of distribution of tobramycin in the central compartment to be 84.1 litres for a typical CF patient.
 While the volume was shown to vary with body mass index (BMI) and lung function (as FEV1% predicted), model-based simulations showed that peak (Cmax) and trough (Ctrough) concentrations were not impacted markedly with changes in BMI or lung function.
+
 Biotransformation
 Tobramycin is not metabolised and is primarily excreted unchanged in the urine.
 

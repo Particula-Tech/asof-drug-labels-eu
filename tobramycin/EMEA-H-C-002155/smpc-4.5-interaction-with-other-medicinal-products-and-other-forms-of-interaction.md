@@ -5,7 +5,6 @@ Based on the interaction profile for tobramycin following intravenous and aeroso
 
 Concomitant use of TOBI Podhaler with diuretic compounds (such as ethacrynic acid, furosemide, urea or mannitol) is not recommended.
 Such coumpounds can enhance aminoglycoside toxicity by altering antibiotic concentrations in serum and tissue.
-
 See also information on previous and concomitant use of systemic aminoglycosides and diuretics in section 4.4.
 
 Other medicinal products that have been reported to increase the potential toxicity of parenterally administered aminoglycosides include:

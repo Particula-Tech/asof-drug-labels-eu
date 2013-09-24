@@ -9,7 +9,6 @@ It is bactericidal at concentrations equal to or slightly greater than inhibitor
 
 Breakpoints
 Established susceptibility breakpoints for parenteral administration of tobramycin are inappropriate in the aerosolised administration of the medicinal product.
-
 Sputum from cystic fibrosis exhibits an inhibitory action on the local biological activity of inhaled aminoglycosides.
 This necessitates sputum concentrations of tobramycin after inhalation to be about ten-fold above the minimum inhibitory concentration (MIC) or higher for P. aeruginosa suppression.
 In the active-controlled study, at least 89% of patients had P. aeruginosa isolates with MICs at least 15 times lower than mean post-dose sputum concentration, both at baseline and at the end of the third active treatment cycle.
@@ -24,6 +23,7 @@ In the open label extensions, each additional 6 months of treatment resulted in 
 Resistance to tobramycin involves different mechanisms.
 The main resistance mechanisms are drug efflux and drug inactivation by modifying enzymes.
 The unique characteristics of chronic P. aeruginosa infections in CF patients, such as anaerobic conditions and high frequency of genetic mutations, may also be important factors for reduced susceptibility of P. aeruginosa in CF patients.
+
 Based upon in vitro data and/or clinical trial experience, the organisms associated with pulmonary infections in CF may be expected to respond to TOBI Podhaler therapy as follows:
 
 | Susceptible | Pseudomonas aeruginosa Haemophilus influenzae Staphylococcus aureus |
@@ -40,7 +40,6 @@ In addition, all patients were infected with P. aeruginosa as demonstrated by a 
 In a randomised, double-blind, placebo-controlled, multicentre study, TOBI Podhaler 112 mg (4 x 28 mg capsules) was administered twice daily, for three cycles of 28 days on-treatment and 28 days off-treatment (a total treatment period of 24 weeks).
 Patients who were randomised to the placebo treatment group received placebo during the first treatment cycle and TOBI Podhaler in the subsequent two cycles.
 Patients in this study had no exposure to inhaled tobramycin for at least 4 months prior to study start.
-
 TOBI Podhaler significantly improved lung function compared with placebo, as shown by the relative increase in percent predicted FEV1 of about 13% after 28 days of treatment.
 The improvements in lung function achieved during the first treatment cycle were maintained during the two subsequent cycles of treatment with TOBI Podhaler.
 
@@ -56,6 +55,7 @@ The improvement in percent predicted FEV1 was numerically greater in the TOBI Po
 Although the magnitude of improvements in lung function was smaller in this study, this is explained by the previous exposure of this patient population to treatment with inhaled tobramycin.
 Over half of the patients in both the TOBI Podhaler and TOBI nebuliser solution treatment groups received new (additional) anti-pseudomonal antibiotics (64.9% and 54.5% respectively, the difference consisting mainly of oral ciprofloxacin use).
 The proportions of patients requiring hospitalisation for respiratory events were 24.4% with TOBI Podhaler and 22.0% with TOBI nebuliser solution.
+
 A difference in FEV1 response by age was noted.
 In the patients aged <20 years the increase from baseline percent predicted FEV1 was larger: 11.3% for TOBI Podhaler and 6.9% for the nebuliser solution after 3 cycles.
 A numerically lower response in patients aged ≥20 years was observed: the change from baseline FEV1 observed in the patients aged ≥20 years was smaller (0.3% with TOBI Podhaler and 0.9% with TOBI nebuliser solution).

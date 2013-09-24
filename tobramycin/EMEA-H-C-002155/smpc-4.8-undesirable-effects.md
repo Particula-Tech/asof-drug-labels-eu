@@ -6,7 +6,6 @@ The most commonly reported adverse reactions in the main safety, active-controll
 In the placebo-controlled study with TOBI Podhaler, the adverse reactions for which reported frequency was higher with TOBI Podhaler than with placebo were pharyngolaryngeal pain, dysgeusia and dysphonia.
 
 Long-term safety data are not available for TOBI Podhaler (see also sections 4.4 and 5.1).
-
 The vast majority of adverse reactions reported with TOBI Podhaler were mild or moderate, and severity did not appear to differ between cycles or between the entire study and on-treatment periods.
 
 Tabulated summary of adverse reactions
@@ -15,6 +14,7 @@ Of the total 395 patients, 68 were between 6 and 12 years of age, 108 were betwe
 
 In the TOBI Podhaler arm of the studies, TOBI Podhaler was administered over 3 cycles of treatment (24 weeks).
 One cycle consists of 28 days on treatment followed by 28 days off treatment.
+
 Adverse drug reactions in Table 1 are listed according to system organ classes in MedDRA.
 Within each system organ class, the adverse drug reactions are ranked by frequency, with the most frequent reactions first.
 Within each frequency grouping, adverse drug reactions are presented in order of decreasing seriousness.
@@ -47,6 +47,7 @@ Rales Common
 Chest discomfort Common
 Nasal congestion Common
 Bronchospasm Common
+Aphonia Not known
 
 Gastrointestinal disorders
 
@@ -75,5 +76,6 @@ However, no association was observed in either clinical study between the incide
 
 In the active-controlled study, audiology testing was performed in selected centres accounting for about a quarter of the study population.
 Four patients in the TOBI Podhaler treatment group experienced significant decreases in hearing which were transient in three patients and persistent in one case.
+
 In the active-controlled open-label study, patients aged 20 years and older tended to discontinue more frequently with TOBI Podhaler than with the nebuliser solution (TOBI); discontinuations due to adverse events accounted for about half of the discontinuations with each formulation.
 In children under 13 years of age, discontinuations were more frequent in the TOBI nebuliser solution arm whereas in patients aged 13 to 19, discontinuation rates with both formulations were similar.

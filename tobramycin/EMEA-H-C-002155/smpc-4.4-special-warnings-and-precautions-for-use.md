@@ -4,11 +4,11 @@ Ototoxicity
 Ototoxicity, manifested as both auditory toxicity (hearing loss) and vestibular toxicity, has been reported with parenteral aminoglycosides.
 Vestibular toxicity may be manifested by vertigo, ataxia or dizziness.
 Tinnitus may be a sentinel symptom of ototoxicity, and therefore the onset of this symptom warrants caution.
+
 Hearing loss and tinnitus were reported by patients in the TOBI Podhaler clinical studies (see section 4.8).
 Caution should be exercised when prescribing TOBI Podhaler to patients with known or suspected auditory or vestibular dysfunction.
 
 In patients with any evidence of auditory dysfunction, or those with a predisposing risk, it may be necessary to consider audiological assessment before initiating TOBI Podhaler therapy.
-
 If a patient reports tinnitus or hearing loss during TOBI Podhaler therapy the physician should consider referring them for audiological assessment.
 
 See also “Monitoring of serum tobramycin concentrations” below.
@@ -49,12 +49,12 @@ Children below the age of 13 years may be more likely to cough when treated with
 
 If there is evidence of continued therapy-induced cough with TOBI Podhaler, the physician should consider whether an approved tobramycin nebuliser solution should be used as an alternative treatment.
 Should cough remain unchanged, other antibiotics should be considered.
+
 Haemoptysis
 Haemoptysis is a complication in cystic fibrosis and is more frequent in adults.
 Patients with haemoptysis (>60 ml) were excluded from the clinical studies so no data exist on the use of TOBI Podhaler in these patients.
 This should be taken into account before prescribing TOBI Podhaler, considering the inhalation powder TOBI Podhaler was associated with a higher rate of cough (see above).
 The use of TOBI Podhaler in patients with clinically significant haemoptysis should be undertaken or continued only if the benefits of treatment are considered to outweigh the risks of inducing further haemorrhage.
-
 Other precautions
 Patients receiving concomitant parenteral aminoglycoside therapy (or any medication affecting renal excretion, such as diuretics) should be monitored as clinically appropriate taking into account the risk of cumulative toxicity.
 This includes monitoring of serum concentrations of tobramycin.
