@@ -11,7 +11,7 @@ Women of childbearing potential should use effective contraception during treatm
 Breast-feeding
 
 Prucalopride is excreted in breast milk.
-However, at therapeutic doses of Resolor no effects on the breastfed newborns/infants are anticipated.
+However, at therapeutic doses of Resolor, no effects on breastfed newborns/infants are anticipated.
 In the absence of human data, it is not recommended to use Resolor during breast-feeding.
 
 Fertility

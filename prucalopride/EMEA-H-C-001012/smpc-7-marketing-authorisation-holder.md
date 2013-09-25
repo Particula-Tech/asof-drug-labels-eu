@@ -1,7 +1,7 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Shire-Movetis NV
-Veedijk 58
-B-2300 Turnhout
-Belgium
-Tel.: 008006683 8470
+Shire Pharmaceuticals Ireland Limited
+5 Riverwalk
+Citywest Business Campus
+Dublin 24
+Ireland

@@ -1,6 +1,6 @@
 # 3. PHARMACEUTICAL FORM
 
-Film-coated tablet (tablet).
+Film-coated tablet.
 
 White to off-white, round, biconvex tablets marked “PRU 1” on one side.
 

@@ -25,7 +25,3 @@ Therapeutic doses of probenecid, cimetidine, erythromycin and paroxetine did not
 Effect of food
 
 Interactions with food have not been observed.
-
-[Resolor 2 mg film-coated tablets]
-
-Although prucalopride may be a weak substrate for P-glycoprotein (P-gp), it is not an inhibitor at clinically relevant concentrations.
