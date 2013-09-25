@@ -6,7 +6,7 @@ RA Patients
 Posology
 The recommended posology is 8 mg/kg body weight, given once every four weeks.
 
-For individuals whose body weight is more than 100 kg, doses exceeding 800 mg per infusion are not recommended (see Section 5.2).
+For individuals whose body weight is more than 100 kg, doses exceeding 800 mg per infusion are not recommended (see section 5.2).
 
 Doses above 1.2 g have not been evaluated in clinical studies (see section 5.1).
 
@@ -41,13 +41,14 @@ Special populations
 Paediatric patients:
 
 sJIA Patients
+
+The recommended posology in patients above 2 years of age is 8 mg/kg once every 2 weeks in patients weighing greater than or equal to 30 kg or 12 mg/kg once every 2 weeks in patients weighing less than 30 kg.
+The dose should be calculated based on the patient’s body weight at each administration.
+A change in dose should only be based on a consistent change in the patient’s body weight over time.
+
 The safety and efficacy of RoActemra in children below 2 years of age has not been established.
 
 No data are available.
-
-The recommended posology is 8 mg/kg once every 2 weeks in patients weighing greater than or equal to 30 kg or 12 mg/kg once every 2 weeks in patients weighing less than 30 kg.
-The dose should be calculated based on the patient’s body weight at each administration.
-A change in dose should only be based on a consistent change in the patient’s body weight over time.
 
 Dose interruptions of tocilizumab for the following laboratory abnormalities are recommended in sJIA patients in the tables below.
 If appropriate, the dose of concomitant MTX and/or other medications should be modified or dosing stopped and tocilizumab dosing interrupted until the clinical situation has been evaluated.
@@ -82,13 +83,14 @@ Available data suggest that clinical improvement is observed within 6 weeks of i
 Continued therapy should be carefully reconsidered in a patient exhibiting no improvement within this timeframe.
 
 pJIA Patients
-The safety and efficacy of RoActemra in children below 2 years of age has not been established.
 
-No data are available.
-
-The recommended posology is 8 mg/kg once every 4 weeks in patients weighing greater than or equal to 30 kg or 10 mg/kg once every 4 weeks in patients weighing less than 30 kg.
+The recommended posology in patients above 2 years of age is 8 mg/kg once every 4 weeks in patients weighing greater than or equal to 30 kg or 10 mg/kg once every 4 weeks in patients weighing less than 30 kg.
 The dose should be calculated based on the patient’s body weight at each administration.
 A change in dose should only be based on a consistent change in the patient’s body weight over time.
+
+The safety and efficacy of RoActemra in children below 2 years of age has not been established.
+No data are available.
+
 Dose interruptions of tocilizumab for the following laboratory abnormalities are recommended in pJIA patients in the tables below.
 If appropriate, the dose of concomitant MTX and/or other medications should be modified or dosing stopped and tocilizumab dosing interrupted until the clinical situation has been evaluated.
 As there are many co-morbid conditions that may effect laboratory values in pJIA, the decision to discontinue tocilizumab for a laboratory abnormality should be based upon the medical assessment of the individual patient.
@@ -121,13 +123,16 @@ Reduction of tocilizumab dose due to laboratory abnormalities has not been studi
 Available data suggest that clinical improvement is observed within 12 weeks of initiation of treatment with RoActemra.
 Continued therapy should be carefully reconsidered in a patient exhibiting no improvement within this timeframe.
 
-Elderly patients: No dose adjustment is required in patients aged 65 years and older.
+Elderly patients
+No dose adjustment is required in patients aged 65 years and older.
 
-Renal impairment: No dose adjustment is required in patients with mild renal impairment.
+Renal impairment
+No dose adjustment is required in patients with mild renal impairment.
 RoActemra has not been studied in patients with moderate to severe renal impairment (see section 5.2).
 Renal function should be monitored closely in these patients.
 
-Hepatic impairment: RoActemra has not been studied in patients with hepatic impairment.
+Hepatic impairment
+RoActemra has not been studied in patients with hepatic impairment.
 Therefore, no dose recommendations can be made.
 
 Method of administration

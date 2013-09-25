@@ -1,18 +1,22 @@
 # 4.8 Undesirable effects
 
 RA Patients
+Summary of the safety profile
+The most commonly reported ADRs (occurring in ≥ 5% of patients treated with tocilizumab monotherapy or in combination with DMARDs) were upper respiratory tract infections, nasopharyngitis, headache, hypertension and increased ALT.
+
+The most serious ADRs were serious infections, complications of diverticulitis, and hypersensitivity
+reactions.
+
+RA Patients
 The safety of tocilizumab has been studied in 4 placebo-controlled studies (studies II, III, IV and V), 1 MTX-controlled study (study I) and their extension periods (see section 5.1).
 
 The double-blind controlled period was 6 months in four studies (studies I, III, IV and V) and was up to 2 years in one study (study II).
 In the double-blind controlled studies, 774 patients received tocilizumab 4 mg/kg in combination with MTX, 1870 patients received tocilizumab 8 mg/kg in combination with MTX or other DMARDs and 288 patients received tocilizumab 8 mg/kg monotherapy.
-
 The long-term exposure population includes all patients who received at least one dose of tocilizumab either in the double-blind control period or open label extension phase in the studies.
 Of the 4009 patients in this population, 3577 received treatment for at least 6 months, 3296 for at least one year, 2806 received treatment for at least 2 years and 1222 for 3 years.
-The most commonly reported ADRs (occurring in ≥ 5% of patients treated with tocilizumab monotherapy or in combination with DMARDs) were upper respiratory tract infections, nasopharyngitis, headache, hypertension and increased ALT.
 
-The ADRs listed in Table 1 are presented by system organ class and frequency categories, defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to < 1/10) or uncommon
-(≥ 1/1,000 to < 1/100).
-Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+The ADRs listed in Table 1 are presented by system organ class and frequency categories, defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to < 1/10), uncommon
+(≥ 1/1,000 to < 1/100), rare (>1/10,000 to <1/1,000) or very rare (<1/10,000) Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 Table 1.
 Summary of ADRs occurring in patients with RA receiving tocilizumab as monotherapy or in combination with MTX or other DMARDs in the double-blind controlled period
@@ -38,7 +42,6 @@ Summary of ADRs occurring in patients with RA receiving tocilizumab as monothera
 Infections
 In the 6-month controlled studies the rate of all infections reported with tocilizumab 8 mg/kg plus DMARD treatment was 127 events per 100 patient years compared to 112 events per 100 patient years in the placebo plus DMARD group.
 In the long-term exposure population, the overall rate of infections with RoActemra was 108 events per 100 patient years exposure.
-
 In 6-month controlled clinical studies, the rate of serious infections with tocilizumab 8 mg/kg plus DMARDs was 5.3 events per 100 patient years exposure compared to 3.9 events per 100 patient years exposure in the placebo plus DMARD group.
 In the monotherapy study the rate of serious infections was 3.6 events per 100 patient years of exposure in the tocilizumab group and 1.5 events per 100 patient years of exposure in the MTX group.
 
@@ -76,8 +79,8 @@ In the 6-month controlled trials decreases in neutrophil counts below 1 x 109/ l
 Approximately half of the patients who developed an ANC < 1 x 109/ l did so within 8 weeks after starting therapy.
 Decreases below 0.5 x 109/ l were reported in 0.3% patients receiving tocilizumab 8 mg/kg plus DMARDs.
 Infections with neutropenia have been reported.
-
 During the double-blind controlled period and with long-term exposure, the pattern and incidence of decreases in neutrophil counts remained consistent with what was seen in the 6-month controlled clinical trials.
+
 Platelets
 In the 6-month controlled trials decreases in platelet counts below 100 x 103/ μl occurred in 1.7% of patients on tocilizumab 8 mg/kg plus DMARDs compared to < 1% on placebo plus DMARDs.
 These decreases occurred without associated bleeding events.
@@ -111,8 +114,8 @@ Paediatric population
 
 The safety of toclizumab in the pediatric population in the sections on pJIA and sJIA below.
 In general, the ADRs in pJIA and sJIA patients were similar in type to those see in RA patients, see section 4.8.
-
 The ADRs in the pJIA and sJIA patients treated with tocilizumab are described below and are presented in the Table 2 by system organ class and frequency categories, defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to < 1/10) or uncommon (≥ 1/1,000 to <1/100)
+
 Table 2: Summary of ADRs occurring in patients with sJIA or pJIA receiving tocilizumab as monotherapy or in combination with MTX.
 
 SOC PT Frequency
@@ -164,16 +167,20 @@ In pJIA patients, infusion related reactions are defined as all events occurring
 In the tocilizumab all exposure population, 11 patients (5.9%) experienced infusion reactions during the infusion and 38 patients (20.2%) experienced an event within 24 hours of an infusion.
 The most common events occuring during infusion were headache, nausea and hypotension and within 24 hours of infusion were dizziness and hypotension.
 In general, the adverse drug reactions observed during or within 24 hours of an infusion were similar in nature to those seen in RA and sJIA patients, see section 4.8.
+
 No clinically significant hypersensitivity reactions associated with tocilizumab and requiring treatment discontinuation were reported.
 
 Immunogenicity
-One patient in the 10 mg/kg < 30kg group developed positive anti-tocilizumab antibodies without developing a hypersensitivity reaction and subsequently withdrew from the study.
+One patient in the 10 mg/kg < 30 kg group developed positive anti-tocilizumab antibodies without developing a hypersensitivity reaction and subsequently withdrew from the study.
 
 Neutrophils
 During routine laboratory monitoring in the tocilizumab all exposure population, a decrease in neutrophil count below 1 × 109/L occurred in 3.7% of patients.
 
 Platelets
-During routine laboratory monitoring in the tocilizumab all exposure population, 1% of patients had a decrease in platelet count to ≤ 50 × 103/µL without associated bleeding events.Hepatic transaminase elevations
+During routine laboratory monitoring in the tocilizumab all exposure population, 1% of patients had a decrease in platelet count to ≤ 50 × 103/µL without associated bleeding events.
+
+Hepatic transaminase elevations
+
 During routine laboratory monitoring in the tocilizumab all exposure population, elevation in ALT or AST ≥ 3xULN occurred in 3.7% and <1% of patients, respectively.
 
 Lipid parameters
@@ -201,10 +208,10 @@ Infusion Reactions
 Infusion related reactions are defined as all events occurring during or within 24 hours of an infusion.
 In the 12 week controlled phase, 4% of patients from the tocilizumab group experienced events occurring during infusion.
 One event (angioedema) was considered serious and life-threatening, and the patient was discontinued from study treatment.
-
 In the 12 week controlled phase, 16% of patients in the tocilizumab group and 5.4% of patients in the placebo group experienced an event within 24 hours of infusion.
 In the tocilizumab group, the events included, but were not limited to rash, urticaria, diarrhea, epigastric discomfort, arthralgia and headache.
 One of these events, urticaria, was considered serious.
+
 Clinically significant hypersensitivity reactions associated with tocilizumab and requiring treatment discontinuation, were reported in 1 out of 112 patients (< 1%) treated with tocilizumab during the controlled and up to and including the open label clinical trial.
 
 Immunogenicity
@@ -237,3 +244,8 @@ During routine laboratory monitoring in the 12 week controlled phase, elevation 
 Elevation in LDL > 1.5 x ULN to 2 x ULN occurred in 1.9% of patients in the tocilizumab group, and in 0% of the placebo group.
 
 In the ongoing open label extension phase, the pattern and incidence of elevations in lipid parameters remained consistent with the 12 week controlled phase data.
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorization of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

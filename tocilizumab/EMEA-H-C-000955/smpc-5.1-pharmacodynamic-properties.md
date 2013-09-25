@@ -33,7 +33,6 @@ Study I evaluated 673 patients who had not been treated with MTX within six mont
 The majority (67%) of patients were MTX-naïve.
 Doses of 8 mg/kg of tocilizumab were given every four weeks as monotherapy.
 The comparator group was weekly MTX (dose titrated from 7.5 mg to a maximum of 20 mg weekly over an eight week period).
-
 Study II, a two year study with planned analyses at week 24, week 52 and week 104, evaluated 1,196 patients who had an inadequate clinical response to MTX.
 Doses of 4 or 8 mg/kg of tocilizumab or placebo were given every four weeks as blinded therapy for 52 weeks in combination with stable MTX (10 mg to 25 mg weekly).
 After week 52, all patients could receive open-label treatment with tocilizumab 8 mg/kg.
@@ -217,7 +216,9 @@ At week 12, the proportion of tocilizumab treated patients showing a minimally c
 
 Laboratory Parameters
 Fifty out of seventy five (67%) tocilizumab treated patients had a haemoglobin < LLN baseline.
-Forty (80%) of these patients had an increase in their haemoglobin to within the normal range at week 12, in comparison to 2 out of 29 (7%) of placebo treated patients with haemoglobin at baseline (p<0.0001). pJIA Patients
+Forty (80%) of these patients had an increase in their haemoglobin to within the normal range at week 12, in comparison to 2 out of 29 (7%) of placebo treated patients with haemoglobin at baseline (p<0.0001).
+
+pJIA Patients
 Clinical efficacy
 The efficacy of tocilizumab was assessed in a three-part study WA19977 including an open-label extension in children with active pJIA.
 Part I consisted of a 16-week active tocilizumab treatment lead-in period (n=188) followed by Part II, a 24-week randomized double-blind placebo-controlled withdrawal period (n=163), followed by Part III, a 64-week open-label period.
@@ -237,7 +238,6 @@ At the conclusion of Part I, JIA ACR 30/50/70/90 responses were 89.4%, 83.0%, 62
 During the withdrawal phase (Part II), the percentage of patients achieving JIA ACR 30, 50, and 70 responses at Week 40 relative to baseline are shown in Table 7.
 In this statistical analysis, patients who flared (and escaped to TCZ) during Part II or who withdrew, were classified as non-responders.
 An additional analyses of JIA ACR responses, considering observed data at Week 40, regardless of flare status, showed that by Week 40, 95.1% of patients who had received continuous TCZ therapy, had achieved JIA ACR30 or higher.
-
 Table 7.
 JIA ACR Response Rates at Week 40 Relative to baseline (Percentage of Patients)
 
@@ -249,6 +249,7 @@ JIA ACR Response Rates at Week 40 Relative to baseline (Percentage of Patients)
 | ACR 70 | 64.6%* | 42.0%* |
 
 * p<0.01, tocilizumab vs. placebo
+
 The number of active joints was significantly reduced compared to baseline in patients receiving tocilizumab compared to placebo (adjusted mean changes of -14.3 vs -11.4, p=0.0435).
 The physician’s global assessment of disease activity, as measured on a 0-100 mm scale, showed a greater reduction in disease activity for tocilizumab compared to placebo (adjusted mean changes of -45.2 mm vs -35.2 mm, p=0.0031).
 

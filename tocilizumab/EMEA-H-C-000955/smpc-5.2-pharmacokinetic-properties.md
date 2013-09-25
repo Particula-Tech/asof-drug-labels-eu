@@ -4,7 +4,6 @@ RA Patients
 
 Absorption
 The pharmacokinetics of tocilizumab were determined using a population pharmacokinetic analysis on a database composed of 1,793 RA patients treated with a one-hour infusion of 4 and 8 mg/kg tocilizumab every 4 weeks for 24 weeks.
-
 The following parameters (predicted mean ± SD) were estimated for a dose of 8 mg/kg tocilizumab given every 4 weeks: steady-state area under curve (AUC) = 35000 ± 15500 h µg/ml, trough concentration (Cmin) = 9.74 ± 10.5 μg/ml and maximum concentration (Cmax) = 183 ± 85.6 µg/ml, and the accumulation ratios for AUC and Cmax were small, 1.22 and 1.06, respectively.
 The accumulation ratio was higher for Cmin (2.35), which was expected based on the non-linear clearance contribution at lower concentrations.
 Steady-state was reached following the first administration for Cmax and after 8 and 20 weeks for AUC and Cmin, respectively.
@@ -54,8 +53,10 @@ The linear clearance estimated as a parameter in the population pharmacokinetic 
 
 The half life of tocilizumab in sJIA patients is up to 23 days for the two body weight categories
 (8 mg/kg for body weight ≥ 30 kg or 12 mg/kg for body weight < 30 kg) at week 12.
+
 pJIA Patients:
 The pharmacokinetics of tocilizumab was determined using a population pharmacokinetic analysis on a database composed of 188 patients with pJIA.
+
 The following parameters are valid for a dose of 8 mg/kg tocilizumab (patients with a body weight ≥ 30 kg) given every 4 weeks.
 The predicted mean (± SD) AUC4weeks, Cmax and Cmin of tocilizumab were 29500 ± 8660 µg⋅hr/mL, 182 ± 37 µg/mL and 7.49 ± 8.20 µg/mL, respectively.
 

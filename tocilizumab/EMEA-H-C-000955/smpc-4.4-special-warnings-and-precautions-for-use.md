@@ -1,8 +1,8 @@
 # 4.4 Special warnings and precautions for use
 
 Infections
-Serious and sometimes fatal infections have been reported in patients receiving immunosuppressive agents including RoActemra (see section 4.8, Undesirable Effects).
-RoActemra treatment should not be initiated in patients with active infections (see section 4.3).
+Serious and sometimes fatal infections have been reported in patients receiving immunosuppressive agents including RoActemra (see section 4.8, undesirable effects).
+RoActemra treatment must not be initiated in patients with active infections (see section 4.3).
 Administration of RoActemra should be interrupted if a patient develops a serious infection until the infection is controlled (see section 4.8).
 Healthcare professionals should exercise caution when considering the use of RoActemra in patients with a history of recurring or chronic infections or with underlying conditions (e.g. diverticulitis, diabetes and interstitial lung disease which may predispose patients to infections.
 
@@ -96,9 +96,6 @@ To be taken into consideration by patients on a controlled sodium diet.
 Doses below 1025 mg of this medicinal product contain less than 1 mmol sodium (23 mg), i.e. essentially ‘sodium free’.
 
 Paediatric population
-
-sJIA and pJIA Patients
-As described above.
 
 sJIA Patients
 Macrophage activation syndrome (MAS) is a serious life-threatening disorder that may develop in sJIA patients.

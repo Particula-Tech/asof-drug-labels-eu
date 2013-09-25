@@ -1,3 +1,3 @@
 # 9. DATE OF FIRST AUTHORISATION/DATE OF LATEST RENEWAL
 
-16 January 2009
+Date of first authorisation: 16 January 2009
