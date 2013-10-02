@@ -18,7 +18,7 @@ Subjects who experienced a further seizure were titrated to the maximal target d
 Subjects who were seizure-free for 26 weeks at a target dose level continued on this dose for another 26 weeks.
 Main outcomes of this study are presented in this table:
 
-Table 4 Efficacy results for Monotherapy Study 310
+Table 6 Efficacy results for Monotherapy Study 310
 
 |  | Zonisamide | Carbamazepine | N |  |
 | --- | --- | --- | --- | --- |
@@ -60,15 +60,7 @@ Zonisamide also has a modulatory effect on GABA-mediated neuronal inhibition.
 
 [Zonegran 50 mg hard capsules.]
 
-The paragraph on Mechanism of Action has been relocated to be the first subheading within section
-5.1 in line with QRD version 8.0:
-
-The paragraph on Pharmacodynamic effects has been relocated to be the second subheading within
-section 5.1 in line with QRD version 8.0:
-
 Clinical efficacy and safety
-
-Table 6 Efficacy results for Monotherapy Study 310
 
 |  | Zonisamide | Carbamazepine |  |  |
 | --- | --- | --- | --- | --- |
@@ -96,6 +88,24 @@ Altogether, data on effects on long-term growth and development are limited.
 
 [Zonegran 100 mg hard capsules]
 
+(all sentences already above)
+
+[Zonegran 25 mg orodispersible tablets]
+
+(all sentences already above)
+
+[Zonegran 50 mg orodispersible tablets]
+
+(all sentences already above)
+
+[Zonegran 100 mg orodispersible tablets]
+
+The paragraph on Mechanism of Action has been relocated to be the first subheading within section
+5.1 in line with QRD version 8.0:
+
+The paragraph on Pharmacodynamic effects has been relocated to be the second subheading within
+section 5.1 in line with QRD version 8.0:
+
 |  | Zonisamide | Carbamazepine |  |  |
 | --- | --- | --- | --- | --- |
 | n (ITT population) Six months seizure freedom | 281 | 300 | Diff | CI95% |
@@ -113,18 +123,6 @@ Complex partial 76.9% 93.0% -16.1% -26.3% ; -5.9%
 All generalized Tonic-Clonic 78.9% 81.6% -2.8 -11.5% ; 6.0%
 Secondary Tonic-Clonic 77.4% 80.0% -2.6% -12.4% ; 7.1%
 Generalized Tonic-Clonic 85.7% 92.0% -6.3% -23.1% ; 10.5%
-
-[Zonegran 25 mg orodispersible tablets]
-
-(all sentences already above)
-
-[Zonegran 50 mg orodispersible tablets]
-
-(all sentences already above)
-
-[Zonegran 100 mg orodispersible tablets]
-
-(all sentences already above)
 
 [Zonegran 300 mg orodispersible tablets]
 

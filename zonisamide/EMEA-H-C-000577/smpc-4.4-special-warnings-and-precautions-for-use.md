@@ -104,7 +104,7 @@ Heat stroke requiring hospital treatment and leading to death has been reported.
 Most reports occurred during periods of warm weather.
 Physicians should discuss with patients and their carers the potential seriousness of heatstroke, situations in which it might arise, as well as action to take in the event of any signs or symptoms.
 Patients or their carers must be warned to take care to maintain hydration and avoid exposure to excessive temperatures and strenuous physical exercise depending on the condition of the patient.
-Prescribers should draw the attention of paediatric patients and their parent/carers to the advice in the Packaging Leaflet on preventingheatstroke and overheating in children as provided.
+Prescribers should draw the attention of paediatric patients and their parent/carers to the advice in the Packaging Leaflet on preventing heatstroke and overheating in children as provided.
 In the event of signs or symptoms of dehydration, oligohydrosis, or elevated body temperature, discontinuation of Zonegran should be considered.
 
 Zonegran should not be used as co-medication in paediatric patients with other medicinal products that predispose patients to heat related disorders; these include carbonic anhydrase inhibitors and medicinal products with anticholinergic activity.
@@ -138,7 +138,7 @@ Renal ultrasound should be performed at the discretion of the physician.
 In the event kidney stones are detected, Zonegran should be discontinued.
 
 Hepatic dysfunction
-Increased levels of hepatobiliary parameters such as alanine aminotransferase (ALT), aspartate aminotransferease (AST), gamma-glutamyltransferase (GGT) and bilirubin have occurred in paediatric and adolescent patients, without any consistent pattern in the observations of values above the upper limit of normal.
+Increased levels of hepatobiliary parameters such as alanine aminotransferase (ALT), aspartate aminotransferase (AST), gamma-glutamyltransferase (GGT) and bilirubin have occurred in paediatric and adolescent patients, without any consistent pattern in the observations of values above the upper limit of normal.
 Nevertheless, if a hepatic event is suspected, liver function should be evaluated and discontinuation of Zonegran should be considered.
 
 Cognition
@@ -147,7 +147,7 @@ In a zonisamide placebo-controlled study conducted in paediatric and adolescent 
 
 [Zonegran 50 mg hard capsules.]
 
-(all sentences already above)
+Prescribers should draw the attention of paediatric patients and their parent/carers to the advice in the Packaging Leaflet on preventingheatstroke and overheating in children as provided.
 
 [Zonegran 100 mg hard capsules]
 

@@ -19,7 +19,6 @@ The apparent volume of distribution is about 1.1 – 1.7 l/kg in adults indicati
 Erythrocyte/plasma ratios are about 15 at low concentrations and about 3 at higher concentrations.
 
 Biotransformation
-
 Zonisamide is metabolised primarily through reductive cleavage of the benzisoxazole ring of the parent drug by CYP3A4 to form 2-sulphamoylacetylphenol (SMAP) and also by N-acetylation.
 Parent drug and SMAP can additionally be glucuronidated.
 The metabolites, which could not be detected in plasma, are devoid of anticonvulsant activity.
@@ -41,13 +40,14 @@ The plasma AUC of zonisamide was increased by 35% in subjects with creatinine cl
 Patients with an impaired liver function: The pharmacokinetics of zonisamide in patients with impaired liver function have not been adequately studied.
 
 Elderly: No clinically significant differences were observed in the pharmacokinetics between young (aged 21-40 years) and elderly (65-75 years).
+
 Children and Adolescents (5-18 years): Limited data indicate that pharmacokinetics in children and adolescents dosed to steady state at 1, 7 or 12 mg/kg daily, in divided doses, are similar to those observed in adults, after adjustment for bodyweight.
 
 Other characteristics
 
 No clear Zonegran dose-concentration-response relationship has been defined.
 When comparing the same dose level, subjects of higher total body weight appear to have lower steady-state serum concentrations, but this effect appears to be relatively modest.
-Age (≥ 12 years) and gender, after adjustment for body weight effects, have no apparent effect on zonisamide exposure in epileptic patients during steady-state dosing.
+Age (≥12 years) and gender, after adjustment for body weight effects, have no apparent effect on zonisamide exposure in epileptic patients during steady-state dosing.
 
 [Zonegran 50 mg hard capsules.]
 

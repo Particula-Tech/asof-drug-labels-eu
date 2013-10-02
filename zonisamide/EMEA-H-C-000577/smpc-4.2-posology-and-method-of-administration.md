@@ -60,7 +60,7 @@ Therefore children aged 6 years and above and with a body weight less than 20 kg
 Withdrawal
 
 When Zonegran treatment is to be discontinued, it should be withdrawn gradually (see section 4.4).
-In clinical studies of paediatric patients, down-titration was completed by dose reductions at weekly intervals in increments of about 2 mg/kg (i.e. in accordance with the schedule in Tablet 3).
+In clinical studies of paediatric patients, down-titration was completed by dose reductions at weekly intervals in increments of about 2 mg/kg (i.e. in accordance with the schedule in Table 3).
 Table 3.
 Paediatric population (aged 6 years and above) – recommended down-titration schedule
 
@@ -102,15 +102,20 @@ Zonegran may be taken with or without food (see section 5.2).
 
 [Zonegran 50 mg hard capsules.]
 
-Table 4.
+(all sentences already above)
 
 [Zonegran 100 mg hard capsules]
 
-Table 5.
+| Treatment Regimen | Titration Phase |  |  | Usual Maintenance Dose |
+| --- | --- | --- | --- | --- |
+| Monotherapy - Newly diagnosed adult patients | Week 1 + 2 | Week 3 + 4 | Week 5 + 6 | 300 mg per day (once a day). If a higher dose is required: increase at two-weekly intervals in |
+|  | 100 mg/day (once a day) | 200 mg /day (once a day) | 300 mg / day (once a day) | increments of 100 mg up to a maximum of 500 mg. |
+| Adjunctive therapy - with CYP3A4-inducing agents (see section 4.5) | Week 1 | Week 2 | Week 3 to 5 | 300 to 500 mg per day (once a day or two divided doses). |
+|  | 50 mg/day (in two divided doses) | 100 mg /day (in two divided doses) | Increase at weekly intervals in increments of 100 mg |  |
+| - without CYP3A4-inducing agents; or with renal or hepatic impairment | Week 1 + 2 | Week 3 + 4 | Week 5 to 10 | 300 to 500 mg per day (once a day or two divided doses). Some patients may respond to lower doses. |
+|  | 50 mg/day (in two divided doses) | 100 mg / day (in two divided doses) | Increase at two-weekly intervals in increments of up to 100 mg |  |
 
 [Zonegran 25 mg orodispersible tablets]
-
-Table 6.
 
 Zonegran orodispersible tablets are for oral use.
 
@@ -121,12 +126,12 @@ It can be taken with or without liquid.
 
 [Zonegran 50 mg orodispersible tablets]
 
-Table 7.
+(all sentences already above)
 
 [Zonegran 100 mg orodispersible tablets]
 
-Table 8.
+(all sentences already above)
 
 [Zonegran 300 mg orodispersible tablets]
 
-Table 9.
+(all sentences already above)
