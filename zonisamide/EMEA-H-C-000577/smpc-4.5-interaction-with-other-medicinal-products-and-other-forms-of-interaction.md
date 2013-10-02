@@ -39,15 +39,20 @@ Therefore, modification of Zonegran dosing should not be necessary when co-admin
 
 [Zonegran 50 mg hard capsules.]
 
-Zonegran should be used with caution in patients treated concomitantly with carbonic anhydrase inhibitors such as topiramate, as there are insufficient data to rule out a possible pharmacodynamic interaction (see section 4.4).
+Zonegran should be used with caution in adult patients treated concomitantly with carbonic anhydrase inhibitors such as topiramate and acetazolamide, as there are insufficient data to rule out a possible pharmacodynamic interaction (see section 4.4).
+
+Zonegran should not be used as co-medication in paediatric patients with other carbonic anhydrase inhibitors such as topiramate and acetazolamide (see section 4.4 Paediatric Population).
+
+Paediatric population
+Interaction studies have only been performed in adults.
 
 [Zonegran 100 mg hard capsules]
 
-Effect of Zonegran on cytochrome P450 enzyme
+(all sentences already above)
 
 [Zonegran 25 mg orodispersible tablets]
 
-  These effects are unlikely to be of clinical significance when zonisamide is added to existing therapy; however, changes in zonisamide concentrations may occur if concomitant CYP3A4-inducing anti-epileptic or other medicinal products are withdrawn, dose adjusted or introduced, an adjustment of the Zonegran dose may be required.
+(all sentences already above)
 
 [Zonegran 50 mg orodispersible tablets]
 

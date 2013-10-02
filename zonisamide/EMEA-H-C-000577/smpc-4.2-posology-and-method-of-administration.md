@@ -27,15 +27,57 @@ Adults – recommended dosage escalation and maintenance regimen
 
 General dosing recommendations for Zonegran in special patient populations
 
+Paediatric population (aged 6 years and above)
+
+Dosage escalation and maintenance
+
+Zonegran must be added to existing therapy for paediatric patients aged 6 years and above.
+The dose should be titrated on the basis of clinical effect.
+Recommended escalation and maintenance doses are given in Table 2.
+Some patients, especially those not taking CYP3A4-inducing agents, may respond to lower doses.
+
+Physicians should draw the attention of paediatric patients and their parents/carers to the Patient Alert Box (in the package leaflet) on preventing heatstroke (see section 4.4: Paediatric Population).
+
+Table 2.
+Paediatric population (aged 6 years and above) – recommended dosage escalation and maintenance regimen
+
+| Treatment Regimen | Titration Phase |  | Usual Maintenance Dose |  |
+| --- | --- | --- | --- | --- |
+| Adjunctive therapy - with CYP3A4-inducing agents (see section 4.5) | Week 1 | Weeks 2 to 8 | Patients of weight 20 to 55 kga | Patients of weight > 55 kg |
+|  | 1 mg/kg/day (once a day) | Increase at weekly intervals in increments of 1 mg/kg | 6 to 8 mg/kg/day (once a day) | 300 - 500 mg/day (once a day) |
+| - without CYP3A4-inducing agents | Week 1 + 2 | Weeks ≥ 3 | 6 to 8 mg/kg/day (once a day) | 300 - 500 mg/day (once a day) |
+|  | 1 mg/kg/day (once a day) | Increase at two-weekly intervals in increments of 1 mg/kg |  |  |
+
+Note:
+a. To ensure a therapeutic dose is maintained the weight of a child should be monitored and the dose reviewed as weight changes occur up to a weight of 55kg.
+The dose regime is 6-8mg/kg/day up to a maximum dose of 500 mg/day.
+
+The safety and efficacy of Zonegran in children aged below 6 years or those below 20 kg have not yet been established.
+
+There are limited data from clinical studies in patients with a body weight of less than 20 kg.
+Therefore children aged 6 years and above and with a body weight less than 20 kg should be treated with caution.
+
+Withdrawal
+
+When Zonegran treatment is to be discontinued, it should be withdrawn gradually (see section 4.4).
+In clinical studies of paediatric patients, down-titration was completed by dose reductions at weekly intervals in increments of about 2 mg/kg (i.e. in accordance with the schedule in Tablet 3).
+Table 3.
+Paediatric population (aged 6 years and above) – recommended down-titration schedule
+
+| Weight | Decrease at weekly intervals in increments of: |
+| --- | --- |
+| 20 – 28 kg | 25 to 50 mg / day* |
+| 29 – 41 kg | 50 to 75 mg / day* |
+| 42 – 55 kg | 100 mg / day* |
+| >55 kg | 100 mg / day* |
+
+Note:
+* All doses are once daily.
+
 Elderly
 
 Caution should be exercised at initiation of treatment in elderly patients as there is limited information on the use of Zonegran in these patients.
 Prescribers should also take account of the safety profile of Zonegran (see section 4.8).
-
-Paediatric population
-
-The safety and efficacy of Zonegran in children and adolescents have not yet been established.
-Currently available data are described in section 5.2 but no recommendation on a posology can be made.
 Patients with renal impairment
 
 Caution must be exercised in treating patients with renal impairment, as there is limited information on use in such patients and a slower titration of Zonegran might be required.
@@ -60,13 +102,15 @@ Zonegran may be taken with or without food (see section 5.2).
 
 [Zonegran 50 mg hard capsules.]
 
-(all sentences already above)
+Table 4.
 
 [Zonegran 100 mg hard capsules]
 
-(all sentences already above)
+Table 5.
 
 [Zonegran 25 mg orodispersible tablets]
+
+Table 6.
 
 Zonegran orodispersible tablets are for oral use.
 
@@ -77,12 +121,12 @@ It can be taken with or without liquid.
 
 [Zonegran 50 mg orodispersible tablets]
 
-(all sentences already above)
+Table 7.
 
 [Zonegran 100 mg orodispersible tablets]
 
-(all sentences already above)
+Table 8.
 
 [Zonegran 300 mg orodispersible tablets]
 
-(all sentences already above)
+Table 9.

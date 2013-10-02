@@ -34,7 +34,7 @@ Adverse reactions associated with Zonegran obtained from adjunctive use clinical
 | Psychiatric Disorders | Agitation Irritability Confusional state Depression | Affect lability Anxiety Insomnia Psychotic disorder | Anger Aggression Suicidal ideation Suicide attempt | Hallucination |
 | Nervous system disorders | Ataxia Dizziness Memory impairment Somnolence | Bradyphrenia Disturbance in attention Nystagmus Paraesthesia Speech disorder Tremor | Convulsion | Amnesia Coma Grand mal seizure Myasthenic syndrome Neuroleptic malignant syndrome Status epilepticus |
 | Eye disorders | Diplopia |  |  |  |
-| Respiratory, thoracic and mediastinal disorders |  |  |  | Dyspnoea Pneumonia aspiration Respiratory disorder |
+| Respiratory, thoracic and mediastinal disorders |  |  |  | Dyspnoea Pneumonia aspiration Respiratory disorder Hypersensitivity-type Pneumonitis |
 | Gastrointestinal disorders |  | Abdominal pain Constipation Diarrhoea Dyspepsia Nausea | Vomiting | Pancreatitis |
 | Hepatobiliary disorders |  |  | Cholecystitis Cholelithiasis | Hepatocellular damage |
 | Skin and subcutaneous tissue disorders |  | Rash Pruritus Alopecia |  | Anhidrosis Erythema multiforme Stevens-Johnson syndrome Toxic epidermal necrolysis |
@@ -47,7 +47,6 @@ Adverse reactions associated with Zonegran obtained from adjunctive use clinical
 In addition there have been isolated cases of Sudden Unexplained Death in Epilepsy Patients (SUDEP) receiving Zonegran.
 
 Additional information on special populations:
-
 A pooled analysis of safety data on 95 elderly subjects has shown a relatively higher reporting frequency of oedema peripheral and pruritus compared to the adult population.
 
 Review of post-marketing data suggests that patients aged 65 years or older report a higher frequency than the general population of the following events: Stevens-Johnson syndrome (SJS) and Drug Induced Hypersensitivity syndrome (DIHS).
@@ -70,7 +69,6 @@ Table 3 Adverse reactions in a randomised, controlled monotherapy trial comparin
 | Investigations | Decreased bicarbonate | Weight decreased Blood creatinine phosphokinase increased Alanine aminotransferase increased Aspartate aminotransferase increased | Urine analysis abnormal |
 
 † MedDRA version 13.1
-
 Additional information on special populations:
 
 Elderly
@@ -78,7 +76,46 @@ Review of post-marketing data suggests that patients aged 65 years or older repo
 
 [Zonegran 50 mg hard capsules.]
 
-(all sentences already above)
+Summary of the safety profile
+
+Tabulated list of adverse reactions
+
+Table 4.
+
+| System Organ Class (MedDRA terminology) | Very Common | Common | Uncommon | Very Rare |
+| --- | --- | --- | --- | --- |
+| Infections and infestation |  |  | Pneumonia Urinary tract infection |  |
+| Blood and lymphatic system disorders |  | Ecchymosis |  | Agranulocytosis Aplastic anaemia Leucocytosis Leucopoenia Lymphadenopathy Pancytopenia, Thrombocytopenia |
+| Immune system disorders |  | Hypersensitivity |  | Drug-induced hypersensitivity syndrome Drug rash with eosinophilia and systemic symptoms |
+| Metabolism and nutrition disorders | Anorexia |  | Hypokalaemia | Metabolic acidosis Renal tubular acidosis |
+| Psychiatric Disorders | Agitation Irritability Confusional state Depression | Affect lability Anxiety Insomnia Psychotic disorder | Anger Aggression Suicidal ideation Suicide attempt | Hallucination |
+| Nervous system disorders | Ataxia Dizziness Memory impairment Somnolence | Bradyphrenia Disturbance in attention Nystagmus Paraesthesia Speech disorder Tremor | Convulsion | Amnesia Coma Grand mal seizure Myasthenic syndrome Neuroleptic malignant syndrome Status epilepticus |
+| Eye disorders | Diplopia |  |  |  |
+| Respiratory, thoracic and mediastinal disorders |  |  |  | Dyspnoea Pneumonia aspiration Respiratory disorder Hypersensitivity-type Pneumonitis |
+| Gastrointestinal disorders |  | Abdominal pain Constipation Diarrhoea Dyspepsia Nausea | Vomiting | Pancreatitis |
+| Hepatobiliary disorders |  |  | Cholecystitis Cholelithiasis | Hepatocellular damage |
+| Skin and subcutaneous tissue disorders |  | Rash Pruritis Alopecia |  | Anhidrosis Erythema multiforme Stevens-Johnson syndrome Toxic epidermal necrolysis |
+| Musculoskeletal and connective tissue disorders |  |  |  | Rhabdomyolysis |
+| Renal and urinary disorders |  | Nephrolithiasis | Calculus urinary | Hydronephrosis Renal failure Urine abnormality |
+| General disorders and administration site conditions |  | Fatigue Influenza-like illness Pyrexia Oedema peripheral |  |  |
+| Investigations | Decreased bicarbonate | Weight decreased |  | Blood creatine phosphokinase increased Blood creatinine increased Blood urea increased Liver function tests abnormal |
+| Injury, poisoning and procedural complications |  |  |  | Heat stroke |
+
+Table 5 Adverse reactions in a randomised, controlled monotherapy trial comparing zonisamide with carbamazepine prolonged release
+
+Paediatric Population
+The adverse event profile of zonisamide in paediatric patients aged 6 to 17 years in placebo-controlled clinical studies was consistent with that of adults.
+Among 465 subjects in the paediatric safety database (including a further 67 subjects from the extension phase of the controlled clinical trial) there were 7 deaths (1.5%; 14.6/1000 person-years): 2 cases of status epilepticus, of which one was related to severe weight loss (10% within 3 months) in an underweight subject and subsequent failure to take medication; 1 case of head injury/haematoma, and 4 deaths in subjects with pre-existing functional neurological deficits for various causes (2 cases of pneumonia-induced sepsis/organ failure, 1 SUDEP and 1 head injury).
+A total of 70.4% of paediatric subjects who received ZNS in the controlled study or its open label extension had at least one treatment-emergent bicarbonate measurement below 22 mmol/L.
+The duration of low bicarbonate measurements was also long (median 188 days).
+A pooled analysis of safety data on 420 paediatric subjects (183 subjects aged 6 to 11 years, and 237 subjects aged 12 to 16 years with a mean duration of exposure of approximately 12 months) has shown a relatively higher reporting frequency of pneumonia, dehydration, decreased sweating, abnormal liver function tests, otitis media, pharyngitis, sinusitis and upper respiratory tract infection, cough, epistaxis and rhinitis, abdominal pain, vomiting, rash and eczema, and fever compared to the adult population (particularly in subjects aged below 12 years) and, at a low incidence, amnesia, creatinine increased, lymphadenopathy, and thrombocytopenia.
+The incidence of a decrease in body weight of 10% or more was 10.7% (see section 4.4).
+In some cases of weight decrease there was a delay in transition to the next Tanner stage and in bone maturation.
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 [Zonegran 100 mg hard capsules]
 
@@ -86,16 +123,19 @@ Review of post-marketing data suggests that patients aged 65 years or older repo
 
 [Zonegran 25 mg orodispersible tablets]
 
-Table 4.
+System Organ Very Common Uncommon Very Rare
+Class Common
+(MedDRA
+terminology)
 
 [Zonegran 50 mg orodispersible tablets]
 
-Table 5.
+(all sentences already above)
 
 [Zonegran 100 mg orodispersible tablets]
 
-Table 6.
+(all sentences already above)
 
 [Zonegran 300 mg orodispersible tablets]
 
-Table 7.
+(all sentences already above)

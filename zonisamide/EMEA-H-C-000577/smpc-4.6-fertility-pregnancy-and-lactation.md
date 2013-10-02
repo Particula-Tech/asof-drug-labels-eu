@@ -18,6 +18,7 @@ The risk of birth defect is increased by factor 2 to 3 in the offspring of mothe
 Multiple antiepileptic medicinal product therapy may be associated with a higher risk of congenital malformations than monotherapy.
 
 No sudden discontinuation of anti-epileptic therapy should be undertaken as this may lead to breakthrough seizures, which could have serious consequences for both mother and child.
+
 Breast-feeding
 Zonisamide is excreted in human milk; the concentration in breast milk is similar to maternal plasma.
 A decision must be made whether to discontinue breast-feeding or to discontinue/abstain from Zonegran therapy.
@@ -25,8 +26,9 @@ Due to the long retention time of zonisamide in the body, breast-feeding must no
 
 [Zonegran 50 mg hard capsules.]
 
-The risk of birth defect is increased by factor 2 to 3 in the offspring of mothers treated with an antiepileptic medication.
-The most frequently reported are cleft lip, cardiovascular malformations and neural tube defect.
+Fertility
+There are no clinical data available on the effects of zonisamide on human fertility.
+Studies in animals have shown changes in fertility parameters (see section 5.3).
 
 [Zonegran 100 mg hard capsules]
 

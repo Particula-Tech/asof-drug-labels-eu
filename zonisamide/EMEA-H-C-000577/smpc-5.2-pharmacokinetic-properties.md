@@ -24,6 +24,7 @@ Zonisamide is metabolised primarily through reductive cleavage of the benzisoxaz
 Parent drug and SMAP can additionally be glucuronidated.
 The metabolites, which could not be detected in plasma, are devoid of anticonvulsant activity.
 There is no evidence that zonisamide induces its own metabolism.
+
 Elimination
 
 Apparent clearance of zonisamide at steady-state after oral administration is about 0.70 l/h and the terminal elimination half-life is about 60 hours in the absence of CYP3A4 inducers.
@@ -40,7 +41,6 @@ The plasma AUC of zonisamide was increased by 35% in subjects with creatinine cl
 Patients with an impaired liver function: The pharmacokinetics of zonisamide in patients with impaired liver function have not been adequately studied.
 
 Elderly: No clinically significant differences were observed in the pharmacokinetics between young (aged 21-40 years) and elderly (65-75 years).
-
 Children and Adolescents (5-18 years): Limited data indicate that pharmacokinetics in children and adolescents dosed to steady state at 1, 7 or 12 mg/kg daily, in divided doses, are similar to those observed in adults, after adjustment for bodyweight.
 
 Other characteristics
@@ -51,7 +51,14 @@ Age (≥ 12 years) and gender, after adjustment for body weight effects, have no
 
 [Zonegran 50 mg hard capsules.]
 
-(all sentences already above)
+Linearity / non-linearity
+
+Zonisamide exposure increases with time until steady state is achieved by approximately 8 weeks.
+There is no need for dose adjustment with any of the AEDs including CYP3A4 inducers.
+
+Pharmacokinetic-pharmacodynamic relationship
+
+Zonisamide lowers the 28-day average seizure frequency and the decrease is proportional (log-linear) to zonisamide average concentration.
 
 [Zonegran 100 mg hard capsules]
 
@@ -59,8 +66,7 @@ Age (≥ 12 years) and gender, after adjustment for body weight effects, have no
 
 [Zonegran 25 mg orodispersible tablets]
 
-Zonegran orodispersible tablets are bioequivalent to zonisamide hard capsules, with a similar rate and extent of absorption.
-Zonegran orodispersible tablets may be used as an alternative to Zonegran hard capsules.
+(all sentences already above)
 
 [Zonegran 50 mg orodispersible tablets]
 

@@ -1,6 +1,7 @@
 # 4.4 Special warnings and precautions for use
 
 Unexplained rash
+
 Serious rashes occur in association with Zonegran therapy, including cases of Stevens-Johnson syndrome.
 
 Consideration must be given to discontinuing Zonegran in patients who develop an otherwise unexplained rash.
@@ -14,9 +15,9 @@ Therefore, withdrawal of concomitant anti-epileptic medicinal products must be u
 Sulphonamide reactions
 Zonegran is a benzisoxazole derivative, which contains a sulphonamide group.
 Serious immune based adverse reactions that are associated with medicinal products containing a sulphonamide group include rash, allergic reaction and major haematological disturbances, including aplastic anaemia, which very rarely can be fatal.
-
 Cases of agranulocytosis, thrombocytopenia, leukopenia, aplastic anaemia, pancytopenia and leucocytosis have been reported.
 There is inadequate information to assess the relationship, if any, between dose and duration of treatment and these events.
+
 Suicide ideation and behaviour
 Suicidal ideation and behaviour have been reported in patients treated with anti-epileptic agents in several indications.
 A meta-analysis of randomised placebo-controlled trials of anti-epileptic medicinal products has also shown a small increased risk of suicidal ideation and behaviour.
@@ -26,9 +27,10 @@ Therefore patients should be monitored for signs of suicidal ideation and behavi
 Patients (and caregivers of patients) should be advised to seek medical advice should signs of suicidal ideation or behaviour emerge.
 
 Kidney stones
-Kidney stones have occurred in patients treated with zonisamide.
-Zonegran should be used with caution in patients who have risk factors for nephrolithiasis, including prior stone formation, a family history of nephrolithiasis and hypercalcuria.
-Such patients may be at increased risk for renal stone formation and associated signs and symptoms such as renal colic, renal pain or flank pain.
+Some patients, especially those with a predisposition to nephrolithiasis, may be at increased risk for renal stone formation and associated signs and symptoms such as renal colic, renal pain or flank pain.
+Nephrolithiasis may lead to chronic kidney damage.
+Risk factors for nephrolithiasis include prior stone formation, a family history of nephrolithiasis and hypercalciuria.
+None of these risk factors can reliably predict stone formation during zonisamide treatment.
 In addition, patients taking other medications associated with nephrolithiasis may be at increased risk.
 Increasing fluid intake and urine output may help reduce the risk of stone formation, particularly in those with predisposing risk factors.
 
@@ -45,15 +47,11 @@ Appropriate evaluation and monitoring of serum bicarbonate levels should be carr
 If metabolic acidosis develops and persists, consideration should be given to reducing the dose or discontinuing Zonegran (by gradual discontinuation or reduction of a therapeutic dose) as osteopenia may develop.
 If the decision is made to continue patients on Zonegran in the face of persistent acidosis, alkali treatment should be considered.
 
-Zonegran should be used with caution in patients being treated concomitantly with carbonic anhydrase inhibitors such as topiramate, as there are insufficient data to rule out a pharmacodynamic interaction (see section 4.5).
+Zonegran should be used with caution in adult patients being treated concomitantly with carbonic anhydrase inhibitors such as topiramate or acetazolamide, as there are insufficient data to rule out a pharmacodynamic interaction (see also section 4.4 Paediatric Population and section 4.5).
 
 Heat stroke
-Cases of decreased sweating and elevated body temperature have been reported mainly in paediatric patients.
-Heat stroke requiring hospital treatment was diagnosed in some cases.
-Most reports occurred during periods of warm weather.
-Patients or their carers must be warned to take care to maintain hydration and avoid exposure to excessive temperatures.
-Caution should be used when Zonegran is prescribed with other medicinal products that predispose patients to heat related disorders; these include carbonic anhydrase inhibitors and medicinal products with anticholinergic activity.
-
+Cases of decreased sweating and elevated body temperature have been reported mainly in paediatric patients (see section 4.4 Paediatric Population for full warning).
+Caution should be used in adults when Zonegran is prescribed with other medicinal products that predispose patients to heat related disorders; these include carbonic anhydrase inhibitors and medicinal products with anticholinergic activity (see also section 4.4 Paediatric Population)
 Pancreatitis
 In patients taking Zonegran who develop the clinical signs and symptoms of pancreatitis, it is recommended that pancreatic lipase and amylase levels are monitored.
 If pancreatitis is evident, in the absence of another obvious cause, it is recommended that discontinuation of Zonegran be considered and appropriate treatment initiated.
@@ -66,13 +64,86 @@ Women of child-bearing potential
 Women of child-bearing potential must use adequate contraception during treatment with Zonegran and for one month after discontinuation (see section 4.6).
 Physicians treating patients with Zonegran should try to ensure that appropriate contraception is used, and should use clinical judgement when assessing whether oral contraceptives (OCs), or the doses of the OC components, are adequate based on the individual patient’s clinical situation.
 
-Body-weight
-There is limited data from clinical studies in patients with a body weight of less than 40 kg.
-Therefore these patients should be treated with caution.
-
+Body weight
 Zonegran may cause weight loss.
 A dietary supplement or increased food intake may be considered if the patient is losing weight or is underweight whilst on this medication.
 If substantial undesirable weight loss occurs, discontinuation of Zonegran should be considered.
+Weight loss is potentially more serious in children (see section 4.4.
+Paediatric Population).
+
+Paediatric Population
+The warnings and precautions mentioned above are also applicable to adolescent and paediatric patients.
+The warnings and precautions mentioned below are more relevant to paediatric and adolescent patients.
+
+Heat stroke and dehydration
+
+Preventing overheating and dehydration in children
+
+Zonegran can cause children to sweat less and overheat and if the child is not treated this can lead to brain damage and death.
+Children are most at risk especially in hot weather.
+
+When a child is taking Zonegran:
+
+- The child should stay cool especially in hot weather
+- The child must avoid heavy exercise especially when the weather is hot
+- The child must drink plenty of cold water
+- The child must not take any of these medicines:
+
+carbonic anhydrase inhibitors (like topiramate and acetazolamide), and anticholinergic agents (like clomipramine, hydroxyzine, diphenhydramine, haloperidol, imipramine and oxybutynin).
+
+IF ANY OF THE FOLLOWING OCCUR, THE CHILD NEEDS URGENT MEDICAL ATTENTION:
+The skin feels very hot with little or no sweating, or the child becomes confused or has muscle cramps, or the child’s heartbeat or breathing become rapid.
+
+- Take the child to a cool, shaded place
+- Keep the child's skin cool with water
+- Give the child cold water to drink
+
+Cases of decreased sweating and elevated body temperature have been reported mainly in paediatric patients.
+Heat stroke requiring hospital treatment was diagnosed in some cases.
+Heat stroke requiring hospital treatment and leading to death has been reported.
+Most reports occurred during periods of warm weather.
+Physicians should discuss with patients and their carers the potential seriousness of heatstroke, situations in which it might arise, as well as action to take in the event of any signs or symptoms.
+Patients or their carers must be warned to take care to maintain hydration and avoid exposure to excessive temperatures and strenuous physical exercise depending on the condition of the patient.
+Prescribers should draw the attention of paediatric patients and their parent/carers to the advice in the Packaging Leaflet on preventingheatstroke and overheating in children as provided.
+In the event of signs or symptoms of dehydration, oligohydrosis, or elevated body temperature, discontinuation of Zonegran should be considered.
+
+Zonegran should not be used as co-medication in paediatric patients with other medicinal products that predispose patients to heat related disorders; these include carbonic anhydrase inhibitors and medicinal products with anticholinergic activity.
+
+Body weight
+Weight loss leading to deterioration of general condition and failure to take anti-epilepsy medication has been related to a fatal outcome (see section 4.8).
+Zonegran is not recommended for paediatric patients who are underweight (definition in accordance with the WHO age adjusted BMI categories) or have a decreased appetite.
+
+The incidence of decreased body weight is consistent across age groups (see section 4.8); however, given the potential seriousness of weight loss in children, weight should be monitored in this population.
+A dietary supplement or increased food intake should be considered if the patient is failing to gain weight in accordance with growth charts, otherwise Zonegran should be discontinued.
+
+There are limited data from clinical studies in patients with a body weight of less than 20 kg.
+Therefore children aged 6 years and above with a body weight of less than 20 kg should be treated with caution.
+The long term effect of weight loss in the paediatric population on growth and development is unknown.
+
+Metabolic acidosis
+The risk of zonisamide induced metabolic acidosis appears to be more frequent and severe in paediatric and adolescent patients.
+Appropriate evaluation and monitoring of serum bicarbonate levels should be carried out in this population (see section 4.4 - Metabolic acidosis for full warning; see section 4.8 for incidence of low bicarbonate).
+The long term effect of low bicarbonate levels on growth and development is unknown.
+
+Zonegran should not be used as co-medication in paediatric patients with other carbonic anhydrase inhibitors such as topiramate and acetazolamide (see section 4.5).
+
+Kidney stones
+Kidney stones have occurred in paediatric patients (see section 4.4 Kidney stones for full warning).
+Some patients, especially those with a predisposition to nephrolithiasis, may be at increased risk for renal stone formation and associated signs and symptoms such as renal colic, renal pain or flank pain.
+Nephrolithiasis may lead to chronic kidney damage.
+Risk factors for nephrolithiasis include prior stone formation, a family history of nephrolithiasis and hypercalciuria.
+None of these risk factors can reliably predict stone formation during zonisamide treatment.
+Increasing fluid intake and urine output may help reduce the risk of stone formation, particularly in those with predisposing risk factors.
+Renal ultrasound should be performed at the discretion of the physician.
+In the event kidney stones are detected, Zonegran should be discontinued.
+
+Hepatic dysfunction
+Increased levels of hepatobiliary parameters such as alanine aminotransferase (ALT), aspartate aminotransferease (AST), gamma-glutamyltransferase (GGT) and bilirubin have occurred in paediatric and adolescent patients, without any consistent pattern in the observations of values above the upper limit of normal.
+Nevertheless, if a hepatic event is suspected, liver function should be evaluated and discontinuation of Zonegran should be considered.
+
+Cognition
+Cognitive impairment in patients affected by epilepsy has been associated with the underlying pathology and/or the administration of anti-epileptic treatment.
+In a zonisamide placebo-controlled study conducted in paediatric and adolescent patients, the proportion of patients with impaired cognition was numerically greater in the zonisamide group compared with the placebo group.
 
 [Zonegran 50 mg hard capsules.]
 

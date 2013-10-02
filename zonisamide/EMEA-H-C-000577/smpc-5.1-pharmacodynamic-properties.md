@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antiepileptics, other antiepileptics, ATC code: N03AX15
+
 Zonisamide is a benzisoxazole derivative.
 It is an anti-epileptic medicine with weak carbonic anhydrase activity in-vitro.
 It is chemically unrelated to other anti-epileptic agents.
@@ -56,3 +57,75 @@ Unlike phenytoin and carbamazepine however, zonisamide acts preferentially on se
 Mechanism of action
 The mechanism of action of zonisamide is not fully elucidated, but it appears to act on voltage-sensitive sodium and calcium channels, thereby disrupting synchronised neuronal firing, reducing the spread of seizure discharges and disrupting subsequent epileptic activity.
 Zonisamide also has a modulatory effect on GABA-mediated neuronal inhibition.
+
+[Zonegran 50 mg hard capsules.]
+
+The paragraph on Mechanism of Action has been relocated to be the first subheading within section
+5.1 in line with QRD version 8.0:
+
+The paragraph on Pharmacodynamic effects has been relocated to be the second subheading within
+section 5.1 in line with QRD version 8.0:
+
+Clinical efficacy and safety
+
+Table 6 Efficacy results for Monotherapy Study 310
+
+|  | Zonisamide | Carbamazepine |  |  |
+| --- | --- | --- | --- | --- |
+| n (ITT population) Six months seizure freedom | 281 | 300 | Diff | CI95% |
+| PP-population* | 79.4% | 83.7% | -4.5% | -12.2% ; 3.1% |
+| ITT-population < 4 seizures during 3 month baseline period > 4 seizures during 3 month baseline period | 69.4% 71.7% | 74.7% 75.7% | -6.1% -4.0% | -13.6% ; 1.4% -11.7% ; 3.7% |
+|  | 52.9% | 68.9% | -15.9% | -37.5% ; 5.6% |
+| Twelve months seizure freedom |  |  |  |  |
+| PP-population | 67.6% | 74.7% | -7.9% | - 17.2% ; 1.5% |
+| ITT-population < 4 seizures during 3 month baseline period > 4 seizures during 3 month baseline period | 55.9% 57.4% | 62.3% 64.7% | -7.7% -7.2% | - 16.1% ; 0.7% -15.7% ; 1.3% |
+|  | 44.1% | 48.9% | -4.8% | -26.9% ; 17.4% |
+| Seizure sub-type (6 month seizure freedom-PP population) |  |  |  |  |
+| All partial Simple partial Complex partial All generalized Tonic-Clonic Secondary Tonic-Clonic Generalized Tonic-Clonic | 76.4% 72.3% 76.9% 78.9% 77.4% 85.7% | 86.0% 75.0% 93.0% 81.6% 80.0% 92.0% | -9.6% -2.7% -16.1% -2.8 -2.6% -6.3% | -19.2% ; 0.0% -20.0% ; 14.7% -26.3% ; -5.9% -11.5% ; 6.0% -12.4% ; 7.1% -23.1% ; 10.5% |
+
+Paediatric Population
+
+Adjunctive therapy in the treatment of partial seizures, with or without secondary generalisation, in adolescent and paediatric patients (aged 6 years and above)
+
+In paediatric patients (aged 6 years and above), efficacy has been demonstrated with zonisamide in a double-blind, placebo-controlled study, which included 207 subjects and had a treatment duration of up to 24 weeks.
+A 50% or greater reduction from baseline in seizure frequency during the 12-week stable dose period was seen in 50% of the zonisamide-treated subjects and 31% of the patients on placebo.
+
+Specific safety issues that were encountered in the paediatric studies were: decreased appetite and weight loss, decreased bicarbonate levels, increased risk of kidney stones and dehydration.
+All these effects and specifically weight loss may have deleterious implications for growth and development, and may lead to general deterioration of health.
+Altogether, data on effects on long-term growth and development are limited.
+
+[Zonegran 100 mg hard capsules]
+
+|  | Zonisamide | Carbamazepine |  |  |
+| --- | --- | --- | --- | --- |
+| n (ITT population) Six months seizure freedom | 281 | 300 | Diff | CI95% |
+| PP-population* | 79.4% | 83.7% | -4.5% | -12.2% ; 3.1% |
+| ITT-population < 4 seizures during 3 month baseline period > 4 seizures during 3 month baseline period | 69.4% 71.7% | 74.7% 75.7% | -6.1% -4.0% | -13.6% ; 1.4% -11.7% ; 3.7% |
+|  | 52.9% | 68.9% | -15.9% | -37.5% ; 5.6% |
+| Twelve months seizure freedom |  |  |  |  |
+| PP-population | 67.6% | 74.7% | -7.9% | - 17.2% ; 1.5% |
+| ITT-population < 4 seizures during 3 month baseline period > 4 seizures during 3 month baseline period | 55.9% 57.4% | 62.3% 64.7% | -7.7% -7.2% | - 16.1% ; 0.7% -15.7% ; 1.3% |
+|  | 44.1% | 48.9% | -4.8% | -26.9% ; 17.4% |
+| Seizure sub-type (6 month seizure freedom-PP population) |  |  |  |  |
+| All partial Simple partial | 76.4% 72.3% | 86.0% 75.0% | -9.6% -2.7% | -19.2% ; 0.0% -20.0% ; 14.7% |
+
+Complex partial 76.9% 93.0% -16.1% -26.3% ; -5.9%
+All generalized Tonic-Clonic 78.9% 81.6% -2.8 -11.5% ; 6.0%
+Secondary Tonic-Clonic 77.4% 80.0% -2.6% -12.4% ; 7.1%
+Generalized Tonic-Clonic 85.7% 92.0% -6.3% -23.1% ; 10.5%
+
+[Zonegran 25 mg orodispersible tablets]
+
+(all sentences already above)
+
+[Zonegran 50 mg orodispersible tablets]
+
+(all sentences already above)
+
+[Zonegran 100 mg orodispersible tablets]
+
+(all sentences already above)
+
+[Zonegran 300 mg orodispersible tablets]
+
+(all sentences already above)

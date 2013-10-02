@@ -4,6 +4,7 @@ Capsule contents
 Microcrystalline cellulose
 Hydrogenated vegetable oil
 Sodium laurilsulfate
+
 Capsule shells
 Gelatin
 Titanium dioxide (E171)
