@@ -10,6 +10,7 @@ This results in the reversal of neuromuscular blockade induced by rocuronium or 
 Pharmacodynamic effects:
 Sugammadex has been administered in doses ranging from 0.5 mg/kg to 16 mg/kg in dose response studies of rocuronium induced blockade (0.6, 0.9, 1.0 and 1.2 mg/kg rocuronium bromide with and without maintenance doses) and vecuronium induced blockade (0.1 mg/kg vecuronium bromide with or without maintenance doses) at different time points/depths of blockade.
 In these studies a clear dose-response relationship was observed.
+
 Clinical efficacy and safety:
 Sugammadex can be administered at several time points after administration of rocuronium or vecuronium bromide:
 
@@ -36,7 +37,8 @@ Time (minutes) from administration of sugammadex or neostigmine at reappearance 
 | Neuromuscular blocking agent | Treatment regimen |  |
 | --- | --- | --- |
 |  | Sugammadex (2 mg/kg) | Neostigmine (50 mcg/kg) |
-| Rocuronium N Median (minutes) Range | 48 1.4 0.9-5.4 | 48 17.6 3.7-106.9 |
+| Rocuronium N | 48 | 48 |
+| Median (minutes) Range | 1.4 0.9-5.4 | 17.6 3.7-106.9 |
 | Vecuronium N Median (minutes) Range | 48 2.1 1.2-64.2 | 45 18.9 2.9-76.2 |
 
 Reversal by sugammadex of the neuromuscular blockade induced by rocuronium was compared to the reversal by neostigmine of the neuromuscular blockade induced by cis-atracurium.
@@ -48,10 +50,7 @@ Time (minutes) from administration of sugammadex or neostigmine at reappearance 
 | Neuromuscular blocking agent | Treatment regimen |  |
 | --- | --- | --- |
 |  | Rocuronium and sugammadex (2 mg/kg) | Cis-atracurium and neostigmine (50 mcg/kg) |
-| N | 34 | 39 |
-
-Median (minutes) 1.9 7.2
-Range 0.7-6.4 4.2-28.2
+| N Median (minutes) Range | 34 1.9 0.7-6.4 | 39 7.2 4.2-28.2 |
 
 For immediate reversal:
 The time to recovery from succinylcholine-induced neuromuscular blockade (1 mg/kg) was compared with sugammadex (16 mg/kg, 3 minutes later) – induced recovery from rocuronium-induced neuromuscular blockade (1.2 mg/kg).

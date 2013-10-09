@@ -1,4 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-N.V.
-Organon, Kloosterstraat 6, 5349 AB Oss, The Netherlands
+Merck Sharp & Dohme Limited
+Hertford Road, Hoddesdon
+Hertfordshire EN11 9BU
+United Kingdom

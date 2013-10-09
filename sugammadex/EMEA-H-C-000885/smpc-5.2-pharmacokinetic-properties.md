@@ -10,6 +10,7 @@ Sugammadex exhibits linear kinetics in the dosage range of 1 to 16 mg/kg when ad
 
 Metabolism:
 In preclinical and clinical studies no metabolites of sugammadex have been observed and only renal excretion of the unchanged product was observed as the route of elimination.
+
 Elimination:
 In adult anaesthetized patients with normal renal function the effective half-life of sugammadex is about 2.5 hours and the estimated plasma clearance is about 75 ml/min (based on compartmental pharmacokinetic analysis, using three compartments).
 A mass balance study demonstrated that > 90% of the dose was excreted within 24 hours.
@@ -33,6 +34,7 @@ Predicted pharmacokinetic parameters of sugammadex by age group and renal functi
 |  | Impaired | Mild 50 Moderate 30 Severe 10 | 34 (27%) 16 (27%) 3 (27%) | 41 (55%) 89 (69%) 679 (80%) | 5.5 (26%) 11.2 (26%) 66.8 (26%) |
 | Elderly 75 yrs 75 kg | Normal | 80 | 70 (27%) | 24 (38%) | 2.7 (26%) |
 |  | Impaired | Mild 50 Moderate 30 Severe 10 | 40 (27%) 19 (27%) 3 (27%) | 41 (55%) 89 (69%) 679 (80%) | 4.7 (26%) 9.5 (26%) 56.7 (26%) |
+| Demo-graphics | Renal function (creatinine clearance in ml/min) |  | Clearance in ml/min (CV) | Volume of distribution at steady state in litres (CV) | Effective half-life in hours (CV) |
 | Adolescent 15 yrs 56 kg | Normal | 95 | 62 (27%) | 14 (26%) | 3.0 (26%) |
 |  | Impaired | Mild 48 Moderate 29 Severe 10 | 27 (27%) 13 (27%) 2 (27%) | 26 (50%) 55 (66%) 400 (79%) | 6.7 (26%) 13.8 (26%) 83.2 (26%) |
 | Child 7 yrs 23 kg | Normal | 51 | 29 (27%) | 8 (34%) | 6.4 (26%) |
@@ -46,5 +48,6 @@ No gender differences were observed.
 Race:
 In a study in healthy Japanese and Caucasian subjects no clinically relevant differences in pharmacokinetic parameters were observed.
 Limited data does not indicate differences in pharmacokinetic parameters in Black or African Americans.
+
 Body weight:
 Population pharmacokinetic analysis of adult and elderly patients showed no clinically relevant relationship of clearance and volume of distribution with body weight.

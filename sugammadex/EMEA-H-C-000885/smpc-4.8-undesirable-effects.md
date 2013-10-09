@@ -22,14 +22,17 @@ In clinical trials of surgical patients these reactions were reported uncommonly
 These reactions varied from isolated skin reactions to serious systemic reactions (i.e. anaphylaxis, anaphylactic shock) and have occurred in patients with no prior exposure to sugammadex.
 Symptoms associated with these reactions can include: flushing, urticaria, erythematous rash, (severe) hypotension, tachycardia, swelling of tongue, swelling of pharynx, bronchospasm and pulmonary obstructive events.
 Severe hypersensitivity reactions can be fatal.
-
 Anaesthetic complication:
 Anaesthetic complications, indicative of the restoration of neuromuscular function, include movement of a limb or the body or coughing during the anaesthetic procedure or during surgery, grimacing, or suckling on the endotracheal tube.
 See section 4.4 light anaesthesia.
 
+Marked bradycardia:
+In post-marketing, isolated cases of marked bradycardia and bradycardia with cardiac arrest have been observed within minutes after administration of sugammadex (see section 4.4).
+
 Awareness:
 In sugammadex treated subjects a few cases of awareness were reported.
 The relation to sugammadex is uncertain.
+
 Recurrence of neuromuscular blockade:
 In the data-base of pooled phase I-III studies with a placebo group, the incidence of recurrence of neuromuscular blockade as measured with neuromuscular monitoring was 2% after sugammadex and 0% in the placebo group.
 Virtually all of these cases were from dose-finding studies in which a sub-optimal dose (less than 2 mg/kg) was administered (see section 4.4).
@@ -48,3 +51,10 @@ As with all patients with a history of pulmonary complications the physician sho
 Paediatric population
 
 A limited database suggests that the safety profile of sugammadex (up to 4 mg/kg) in paediatric patients was similar to that in adults.
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system
+
+listed in Appendix V.
