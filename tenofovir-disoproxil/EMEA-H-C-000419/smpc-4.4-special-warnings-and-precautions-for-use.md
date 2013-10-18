@@ -175,6 +175,7 @@ Renal function (creatinine clearance and serum phosphate) should be evaluated pr
 The same recommendations apply as in adults (see above).
 
 Safety and efficacy data are very limited in liver transplant patients.
+
 There are limited data on the safety and efficacy of tenofovir disoproxil fumarate in HBV infected patients with decompensated liver disease and who have a Child-Pugh-Turcotte (CPT) score > 9.
 These patients may be at higher risk of experiencing serious hepatic or renal adverse reactions.
 Therefore, hepatobiliary and renal parameters should be closely monitored in this patient population.
@@ -198,12 +199,14 @@ Co-infection with hepatitis C or D: There are no data on the efficacy of tenofov
 Co-infection with HIV-1 and hepatitis B: Due to the risk of development of HIV resistance, tenofovir disoproxil fumarate should only be used as part of an appropriate antiretroviral combination regimen in HIV/HBV co-infected patients.
 However, it should be noted that increases of ALT can be part of HBV clearance during therapy with tenofovir, see above Exacerbations of hepatitis.
 
-Elderly
+Older people
 Tenofovir disoproxil fumarate has not been studied in patients over the age of 65.
 Elderly patients are more likely to have decreased renal function; therefore caution should be exercised when treating elderly patients with tenofovir disoproxil fumarate.
 
 Viread 245 mg film-coated tablets contain lactose monohydrate.
 
 [Viread 33 mg/g granules]
+
+In patients with moderate or severe renal impairment (creatinine clearance < 50 ml/min) the daily dose must be adjusted and renal function should be closely monitored (see sections 4.2 and 5.2).
 
 Viread granules contain mannitol which may have a mild laxative effect.

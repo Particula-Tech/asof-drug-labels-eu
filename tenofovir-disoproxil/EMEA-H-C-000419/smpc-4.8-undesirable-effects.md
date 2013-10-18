@@ -107,6 +107,11 @@ The use of tenofovir disoproxil fumarate is not recommended in paediatric patien
 Exacerbations of hepatitis after discontinuation of treatment
 In HIV infected patients co-infected with HBV, clinical and laboratory evidence of hepatitis have occurred after discontinuation of tenofovir disoproxil fumarate (see section 4.4).
 
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
 [Viread 163 mg film-coated tablets]
 
 (all sentences already above)
@@ -129,15 +134,19 @@ Acute exacerbation of hepatitis has been reported in patients on treatment as we
 HIV-1 clinical studies: Assessment of adverse reactions from HIV-1 clinical study data is based on experience in two studies in 653 treatment-experienced patients receiving treatment with tenofovir disoproxil fumarate (n = 443) or placebo (n = 210) in combination with other antiretroviral medicinal products for 24 weeks and also in a double-blind comparative controlled study in which 600 treatment-naïve patients received treatment with tenofovir disoproxil 245 mg (as fumarate) (n = 299) or stavudine (n = 301) in combination with lamivudine and efavirenz for 144 weeks.
 
 Hepatitis B clinical studies: Assessment of adverse reactions from HBV clinical study data is primarily based on experience in two double-blind comparative controlled studies in which 641 adult patients with chronic hepatitis B and compensated liver disease received treatment with tenofovir disoproxil 245 mg (as fumarate) daily (n = 426) or adefovir dipivoxil 10 mg daily (n = 215) for 48 weeks.
-The adverse reactions observed with continued treatment for 240 weeks were consistent with the safety profile of tenofovir disoproxil fumarate.
+The adverse reactions observed with continued treatment for 288 weeks were consistent with the safety profile of tenofovir disoproxil fumarate.
 
 Patients with decompensated liver disease: The safety profile of tenofovir disoproxil fumarate in patients with decompensated liver disease was assessed in a double-blind active controlled study (GS-US-174-0108) in which adult patients received treatment with tenofovir disoproxil fumarate
 (n = 45) or emtricitabine plus tenofovir disoproxil fumarate (n = 45) or entecavir (n = 22) for 48 weeks.
 
 In the tenofovir disoproxil fumarate treatment arm, 7% of patients discontinued treatment due to an adverse event; 9% of patients experienced a confirmed increase in serum creatinine of ≥ 0.5 mg/dl or confirmed serum phosphate of < 2 mg/dl through week 48; there were no statistically significant differences between the combined tenofovir-containing arms and the entecavir arm.
-Subjects with a high baseline CPT score were at higher risk of developing serious adverse events (see section 4.4).
+After 168 weeks, 16% (7/45) of the tenofovir disoproxil fumarate group, 4% (2/45) of the emtricitabine plus tenofovir disoproxil fumarate group, and 14% (3/22) of the entecavir group experienced tolerability failure.
+Thirteen percent (6/45) of the tenofovir disoproxil fumarate group, 13% (6/45) of the emtricitabine plus tenofovir disoproxil fumarate group, and 9% (2/22) of the entecavir group had a confirmed increase in serum creatinine ≥ 0.5 mg/dl or confirmed serum phosphate of < 2 mg/dl.
 
-Hepatocellular carcinoma was diagnosed in 3 patients in the tenofovir disoproxil fumarate group and two patients in the tenofovir disoproxil fumarate group died during the study.
+At week 168, in this population of patients with decompensated liver disease, the rate of death was of 13% (6/45) in the tenofovir disoproxil fumarate group, 11% (5/45) in the emtricitabine plus tenofovir disoproxil fumarate group and 14% (3/22) in the entecavir group.
+The rate of hepatocellular carcinoma was 18% (8/45) in the tenofovir disoproxil fumarate group, 7% (3/45) in the emtricitabine plus tenofovir disoproxil fumarate group and 9% (2/22) in the entecavir group.
+
+Subjects with a high baseline CPT score were at higher risk of developing serious adverse events (see section 4.4).
 
 Patients with lamivudine-resistant chronic hepatitis B: No new adverse reactions to tenofovir disoproxil fumarate were identified from a randomised, double-blind study (GS-US-174-0121) in which 280 lamivudine-resistant patients received treatment with tenofovir disoproxil fumarate
 (n = 141) or emtricitabine/tenofovir disoproxil fumarate (n = 139) for 96 weeks.
@@ -155,7 +164,6 @@ Exacerbations of hepatitis during treatment
 In studies with nucleoside-naïve patients, on-treatment ALT elevations > 10 times ULN (upper limit of normal) and > 2 times baseline occurred in 2.6% of tenofovir disoproxil fumarate-treated patients.
 ALT elevations had a median time to onset of 8 weeks, resolved with continued treatment, and, in a majority of cases, were associated with a ≥ 2 log10 copies/ml reduction in viral load that preceded or coincided with the ALT elevation.
 Periodic monitoring of hepatic function is recommended during treatment (see section 4.4).
-
 In HBV infected patients, clinical and laboratory evidence of exacerbations of hepatitis have occurred after discontinuation of HBV therapy (see section 4.4).
 
 Chronic hepatitis B
@@ -165,7 +173,7 @@ The adverse reactions observed in adolescent patients who received treatment wit
 Reductions in BMD have been observed in HBV infected adolescents.
 The BMD Z-scores observed in subjects who received tenofovir disoproxil fumarate were lower than those observed in subjects who received placebo (see sections 4.4 and 5.1).
 
-Elderly
+Older people
 Tenofovir disoproxil fumarate has not been studied in patients over the age of 65.
 Elderly patients are more likely to have decreased renal function, therefore caution should be exercised when treating elderly patients with tenofovir disoproxil fumarate (see section 4.4).
 

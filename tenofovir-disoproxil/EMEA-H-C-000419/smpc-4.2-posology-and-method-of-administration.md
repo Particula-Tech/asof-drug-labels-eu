@@ -86,33 +86,33 @@ The optimal duration of treatment is currently unknown.
 
 Viread is also available as 33 mg/g granules for the treatment of HIV-1 infection and chronic hepatitis B in adolescents aged 12 to < 18 years for whom a solid dosage form is not appropriate.
 
-Elderly
+Older people
 No data are available on which to make a dose recommendation for patients over the age of 65 years (see section 4.4).
 
 Tenofovir is eliminated by renal excretion and the exposure to tenofovir increases in patients with renal dysfunction.
 
 There are limited data on the safety and efficacy of tenofovir disoproxil fumarate in adult patients with moderate and severe renal impairment (creatinine clearance < 50 ml/min) and long-term safety data has not been evaluated for mild renal impairment (creatinine clearance 50-80 ml/min).
 Therefore, in adult patients with renal impairment tenofovir disoproxil fumarate should only be used if the potential benefits of treatment are considered to outweigh the potential risks.
-Dose interval adjustments are recommended for adult patients with creatinine clearance < 50 ml/min.
+Administration of Viread 33 mg/g granules to provide a reduced daily dose of tenofovir disoproxil fumarate is recommended for adult patients with creatinine clearance < 50 ml/min, including haemodialysis patients.
 
 Mild renal impairment (creatinine clearance 50-80 ml/min)
 Limited data from clinical studies support once daily dosing of 245 mg tenofovir disoproxil (as fumarate) in patients with mild renal impairment.
 
 Moderate renal impairment (creatinine clearance 30-49 ml/min)
-Administration of 245 mg tenofovir disoproxil (as fumarate) every 48 hours is recommended based on modelling of single-dose pharmacokinetic data in HIV negative and non-HBV infected subjects with varying degrees of renal impairment, including end-stage renal disease requiring haemodialysis, but has not been confirmed in clinical studies.
+For patients unable to take the granule formulation of tenofovir disoproxil fumarate, prolonged dose intervals using the 245 mg film-coated tablets may be used.
+Administration of 245 mg tenofovir disoproxil (as fumarate) every 48 hours can be used based on modelling of single-dose pharmacokinetic data in HIV negative and non-HBV infected subjects with varying degrees of renal impairment, including end-stage renal disease requiring haemodialysis, but has not been confirmed in clinical studies.
 Therefore, clinical response to treatment and renal function should be closely monitored in these patients (see sections 4.4 and 5.2).
 
 Severe renal impairment (creatinine clearance < 30 ml/min) and haemodialysis patients
-Adequate dose adjustments cannot be applied due to lack of alternative tablet strengths, therefore use in this group of patients is not recommended.
-If no alternative treatment is available, prolonged dose intervals may be used as follows:
+For patients unable to take the granule formulation of tenofovir disoproxil fumarate and with no alternative treatment available, prolonged dose intervals using the 245 mg film-coated tablets may be used as follows:
 
 Severe renal impairment: 245 mg tenofovir disoproxil (as fumarate) may be administered every 72-96 hours (dosing twice a week).
 
 Haemodialysis patients: 245 mg tenofovir disoproxil (as fumarate) may be administered every 7 days following completion of a haemodialysis session*.
-
-These dose adjustments have not been confirmed in clinical studies.
-Simulations suggest that the prolonged dose interval is not optimal and could result in increased toxicity and possibly inadequate response.
+These dose interval adjustments have not been confirmed in clinical studies.
+Simulations suggest that the prolonged dose interval using Viread 245 mg film-coated tablets is not optimal and could result in increased toxicity and possibly inadequate response.
 Therefore, clinical response to treatment and renal function should be closely monitored (see sections 4.4 and 5.2).
+
 * Generally, once weekly dosing assuming three haemodialysis sessions per week, each of approximately 4 hours duration or after 12 hours cumulative haemodialysis.
 
 No dosing recommendations can be given for non-haemodialysis patients with creatinine clearance
@@ -165,18 +165,21 @@ Chronic hepatitis B: The optimal duration of treatment is unknown.
 
 If the patient vomits within 1 hour of taking Viread, another dose should be taken.
 
-Dose interval adjustments are recommended for patients with creatinine clearance < 50 ml/min.
+Dose adjustments using tenofovir disoproxil (as fumarate) 33 mg/g granules are recommended for patients with creatinine clearance < 50 ml/min.
 
 Limited data from clinical studies support once daily dosing of 245 mg tenofovir disoproxil (as fumarate), equivalent to 7.5 scoops of granules, in patients with mild renal impairment.
 
-Administration of 245 mg tenofovir disoproxil (as fumarate), equivalent to 7.5 scoops of granules, every 48 hours is recommended based on modelling of single-dose pharmacokinetic data in
-HIV negative and non-HBV infected subjects with varying degrees of renal impairment, including end-stage renal disease requiring haemodialysis, but has not been confirmed in clinical studies.
+Adjustments of the daily dose of tenofovir disoproxil (as fumarate) 33 mg/g granules are recommended in patients with moderate (creatinine clearance 30-49 ml/min) or severe (creatinine clearance < 30 ml/min) renal impairment based on modelling of single-dose pharmacokinetic data in HIV negative and non-HBV infected subjects with varying degrees of renal impairment, including end-stage renal disease requiring haemodialysis.
+These pharmacokinetic modelling data have not been confirmed in clinical studies.
 
-Adequate dose adjustments cannot be applied, therefore use in this group of patients is not recommended.
+Administration of 132 mg (4 scoops) tenofovir disoproxil (as fumarate) 33 mg/g granules once daily is recommended.
 
-Severe renal impairment: 245 mg tenofovir disoproxil (as fumarate), equivalent to 7.5 scoops of granules, may be administered every 72-96 hours (dosing twice a week).
+For patients with creatinine clearance 20-29 ml/min: Administration of 65 mg (2 scoops) tenofovir disoproxil (as fumarate) 33 mg/g granules once daily is recommended.
+For patients with creatinine clearance 10-19 ml/min: Administration of 33 mg (1 scoop) tenofovir disoproxil (as fumarate) 33 mg/g granules once daily is recommended.
 
-Haemodialysis patients: 245 mg tenofovir disoproxil (as fumarate), equivalent to 7.5 scoops of granules, may be administered every 7 days following completion of a haemodialysis session*.
+Haemodialysis patients: 16.5 mg (0.5 scoop) tenofovir disoproxil (as fumarate) 33 mg/g granules may be administered following completion of each 4-hour haemodialysis session.
+
+These dose adjustments have not been confirmed in clinical studies.
 
 Paediatric patients
 

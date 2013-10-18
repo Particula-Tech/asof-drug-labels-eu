@@ -15,3 +15,5 @@ These tumours are unlikely to be of relevance to humans.
 
 Reproductive studies in rats and rabbits showed no effects on mating, fertility, pregnancy or foetal parameters.
 However, tenofovir disoproxil fumarate reduced the viability index and weight of pups in peri-postnatal toxicity studies at maternally toxic doses.
+
+The active substance tenofovir disoproxil fumarate and its main transformation products are persistent in the environment.

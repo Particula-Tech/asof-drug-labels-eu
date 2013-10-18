@@ -6,7 +6,7 @@ Tenofovir is converted intracellularly to tenofovir monophosphate and to the act
 
 Absorption
 Following oral administration of tenofovir disoproxil fumarate to HIV infected patients, tenofovir disoproxil fumarate is rapidly absorbed and converted to tenofovir.
-Administration of multiple doses of tenofovir disoproxil fumarate with a meal to HIV infected patients resulted in mean (%CV) tenofovir Cmax, AUC0-∞, and Cmin values of 326 (36.6%) ng/ml, 3,324 (41.2%) ng·h/ml and 64.4 (39.4%) ng/ml, respectively.
+Administration of multiple doses of tenofovir disoproxil fumarate with a meal to HIV infected patients resulted in mean (%CV) tenofovir Cmax, AUC, and Cmin values of 326 (36.6%) ng/ml, 3,324 (41.2%) ng·h/ml and 64.4 (39.4%) ng/ml, respectively.
 Maximum tenofovir concentrations are observed in serum within one hour of dosing in the fasted state and within two hours when taken with food.
 The oral bioavailability of tenofovir from tenofovir disoproxil fumarate in fasted patients was approximately 25%.
 Administration of tenofovir disoproxil fumarate with a high fat meal enhanced the oral bioavailability, with an increase in tenofovir AUC by approximately 40% and Cmax by approximately 14%.
@@ -17,7 +17,6 @@ Distribution
 Following intravenous administration the steady-state volume of distribution of tenofovir was estimated to be approximately 800 ml/kg.
 After oral administration of tenofovir disoproxil fumarate, tenofovir is distributed to most tissues with the highest concentrations occurring in the kidney, liver and the intestinal contents (preclinical studies).
 In vitro protein binding of tenofovir to plasma or serum protein was less than 0.7 and 7.2%, respectively, over the tenofovir concentration range 0.01 to 25 µg/ml.
-
 Biotransformation
 In vitro studies have determined that neither tenofovir disoproxil fumarate nor tenofovir are substrates for the CYP450 enzymes.
 Moreover, at concentrations substantially higher (approximately 300-fold) than those observed in vivo, tenofovir did not inhibit in vitro drug metabolism mediated by any of the major human CYP450 isoforms involved in drug biotransformation (CYP3A4, CYP2D6, CYP2C9, CYP2E1, or CYP1A1/2).
@@ -89,7 +88,6 @@ Pharmacokinetic studies have not been performed in the elderly (over 65 years of
 HIV-1: Steady-state pharmacokinetics of tenofovir were evaluated in 8 HIV-1 infected adolescent patients (aged 12 to < 18 years) with body weight ≥ 35 kg.
 Mean (± SD) Cmax and AUCtau are 0.38 ± 0.13 μg/ml and 3.39 ± 1.22 μg·h/ml, respectively.
 Tenofovir exposure achieved in adolescent patients receiving oral daily doses of tenofovir disoproxil 245 mg (as fumarate) was similar to exposures achieved in adults receiving once-daily doses of tenofovir disoproxil 245 mg (as fumarate).
-
 Chronic hepatitis B: Steady-state tenofovir exposure in HBV infected adolescent patients
 (12 to < 18 years of age) receiving an oral daily dose of tenofovir disoproxil 245 mg (as fumarate) was similar to exposures achieved in adults receiving once-daily doses of tenofovir disoproxil 245 mg (as fumarate).
 
@@ -98,6 +96,7 @@ Pharmacokinetic studies have not been performed with tenofovir disoproxil (as fu
 Pharmacokinetic parameters of tenofovir were determined following administration of a single dose of tenofovir disoproxil 245 mg to 40 non-HIV, non-HBV infected adult patients with varying degrees of renal impairment defined according to baseline creatinine clearance (CrCl) (normal renal function when CrCl > 80 ml/min; mild with CrCl = 50-79 ml/min; moderate with CrCl = 30-49 ml/min and severe with CrCl = 10-29 ml/min).
 The dosing recommendations in patients with renal impairment, with increased dosing interval, are expected to result in higher peak plasma concentrations and lower Cmin levels in patients with renal impairment compared with patients with normal renal function.
 The clinical implications of this are unknown.
+
 In patients with end-stage renal disease (ESRD) (CrCl < 10 ml/min) requiring haemodialysis, between dialysis tenofovir concentrations substantially increased over 48 hours achieving a mean Cmax of 1,032 ng/ml and a mean AUC0-48h of 42,857 ng·h/ml.
 
 It is recommended that the dosing interval for tenofovir disoproxil 245 mg (as fumarate) is modified in adult patients with creatinine clearance < 50 ml/min or in patients who already have ESRD and require dialysis (see section 4.2).
@@ -108,6 +107,18 @@ A single 245 mg dose of tenofovir disoproxil was administered to non-HIV, non-HB
 
 [Viread 33 mg/g granules]
 
-HIV-1: Steady-state pharmacokinetics of tenofovir were evaluated in 8 HIV-1 infected adolescent patients (aged 12 to < 18 years) with body weight ≥ 35 kg and in 23 HIV-1 infected children aged 2 to < 12 years (see Table 8 below).
+HIV-1: Steady-state pharmacokinetics of tenofovir were evaluated in 8 HIV-1 infected adolescent patients (aged 12 to < 18 years) with body weight ≥ 35 kg and in 23 HIV-1 infected children aged 2 to < 12 years (see Table 9 below).
+Table 9: Mean (± SD) tenofovir pharmacokinetic parameters by age groups for paediatric patients
 
-Table 8: Mean (± SD) tenofovir pharmacokinetic parameters by age groups for paediatric patients
+Pharmacokinetic parameters of tenofovir were determined following administration of a single dose of tenofovir disoproxil 245 mg to 40 non-HIV, non-HBV infected adult patients with varying degrees of renal impairment defined according to baseline adult creatinine clearance (CrCl) (normal renal function when CrCl > 80 ml/min; mild with CrCl = 50-79 ml/min; moderate with
+CrCl = 30-49 ml/min and severe with CrCl = 10-29 ml/min).
+Compared with patients with normal renal function, the mean (%CV) tenofovir exposure increased from 2,185 (12%) ng·h/ml in subjects with CrCl > 80 ml/min to respectively 3,064 (30%) ng·h/ml, 6,009 (42%) ng·h/ml and 15,985
+(45%) ng·h/ml in patients with mild, moderate and severe renal impairment.
+
+Pharmacokinetic modelling of single-dose pharmacokinetic data in non-HIV and non-HBV infected adult subjects with varying degrees of renal impairment was used to determine dose and dosing interval recommendations for adult subjects with varying degrees of renal impairment (see section 4.2).
+
+Doses of 132 mg, 65 mg and 33 mg tenofovir disoproxil (as fumarate) granules once daily are recommended in adult patients with calculated creatinine clearance (CrCl) of 30 to 49 ml/min, 20 to 29 ml/min or 10 to 19 ml/min, respectively.
+Although these doses are not expected to exactly reproduce the pharmacokinetic profile of tenofovir in patients with normal renal function receiving tenofovir disoproxil (as fumarate) 245 mg film-coated tablets, they are considered to represent the best balance of benefit and risk for patients with renal impairment.
+
+In subjects with end-stage renal disease (ESRD) (CrCl < 10 ml/min) requiring haemodialysis, a dose of 16.5 mg tenofovir disoproxil following completion of haemodialysis is predicted to limit tenofovir systemic accumulation to exposures approximately 2-fold compared to those observed in patients with normal renal function receiving tenofovir disoproxil (as fumarate) 245 mg film-coated tablets.
+This dosing recommendation balances the need to limit drug accumulation while attempting to maintain sufficient tenofovir concentrations over the dosing interval similar to trough concentrations observed in patients with normal renal function receiving tenofovir disoproxil (as fumarate) 245 mg film-coated tablets.
