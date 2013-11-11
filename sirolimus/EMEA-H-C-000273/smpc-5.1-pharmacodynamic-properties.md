@@ -54,7 +54,6 @@ One death occurred in each group.
 The use of Rapamune in combination with calcineurin inhibitors and corticosteroids was associated with an increased risk of deterioration of renal function, serum lipid abnormalities (including, but not limited to, increased serum triglycerides and total cholesterol), and urinary tract infections (see section 4.8).
 
 An unacceptably high frequency of PTLD was seen in a paediatric clinical transplant study when full-dose Rapamune was administered to children and adolescents in addition to full-dose calcineurin inhibitors with basiliximab and corticosteroids (see section 4.8).
-
 In a retrospective review of hepatic veno-occlusive disease (VOD) in patients who underwent myeloablative stem cell transplantation using cyclosphophamide and total body irradiation, an increased incidence of hepatic VOD was observed in patients treated with Rapamune, especially with concomitant use of methotrexate.
 
 [Rapamune 0.5 mg coated tablets]

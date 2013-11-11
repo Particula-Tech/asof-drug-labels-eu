@@ -1,7 +1,7 @@
 # 6.1 List of excipients
 
 Polysorbate 80 (E433)
-Phosal 50 PG (phosphatidylcholine, propylene glycol, monodiglycerides, ethanol, soya fatty acids and ascorbyl palmitate).
+Phosal 50 PG (phosphatidylcholine, propylene glycol, mono-and diglycerides, ethanol, soya fatty acids and ascorbyl palmitate).
 
 [Rapamune 0.5 mg coated tablets]
 

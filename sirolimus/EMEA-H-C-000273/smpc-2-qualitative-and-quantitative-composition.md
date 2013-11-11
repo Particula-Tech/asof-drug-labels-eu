@@ -5,7 +5,7 @@ Each 60 ml bottle contains 60 mg sirolimus.
 
 Excipients: Each ml contains 20 mg of ethanol and 20 mg of soya oil.
 
-For a full list of excipients, see section 6.1.
+For the full list of excipients, see section 6.1.
 
 [Rapamune 0.5 mg coated tablets]
 

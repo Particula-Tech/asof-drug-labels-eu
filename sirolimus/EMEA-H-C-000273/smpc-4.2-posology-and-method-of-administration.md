@@ -88,7 +88,7 @@ To minimise variability, Rapamune should consistently be taken either with or wi
 
 Grapefruit juice should be avoided (see section 4.5).
 
-For instructions on dilution of the medicinal product before administration, see section 6.6
+For instructions on dilution of the medicinal product before administration, see section 6.6.
 
 [Rapamune 0.5 mg coated tablets]
 

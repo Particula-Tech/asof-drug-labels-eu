@@ -1,6 +1,6 @@
 # 6.6 Special precautions for disposal and other handling
 
-Any unused product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 Instructions for use and handling:
 The dosing syringe should be used to withdraw the prescribed amount of Rapamune from the bottle.
@@ -11,7 +11,7 @@ Refill the container with an additional volume (minimum of 120 ml) of water or o
 
 [Rapamune 0.5 mg coated tablets]
 
-No special requirements.
+No special requirements for disposal.
 
 [Rapamune 1 mg coated tablets.]
 

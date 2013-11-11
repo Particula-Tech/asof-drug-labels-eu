@@ -58,7 +58,8 @@ Although the results of a single-dose interaction study with an oral contracepti
 
 Other possible interactions
 
-Moderate and weak inhibitors of CYP3A4 may decrease the metabolism of sirolimus and increase sirolimus blood levels (e.g., calcium channel blockers: nicardipine; antifungal agents: clotrimazole, fluconazole; antibiotics: troleandomycin; other substances: bromocriptine, cimetidine, danazol, protease inhibitors).
+Inhibitors of CYP3A4 may decrease the metabolism of sirolimus and increase sirolimus blood levels.
+Such inhibitors include e.g. certain antifungals (e.g. clotrimazole, fluconazole, itraconazole, voriconazole), certain antibiotics (e.g. troleandomycin, telithromycin, clarithromycin), certain protease inhibitors (e.g. ritonavir, indinavir, boceprevir, telaprevir), nicardipine, bromocriptine, cimetidine, and danazol.
 
 Inducers of CYP3A4 may increase the metabolism of sirolimus and decrease sirolimus blood levels (e.g., St. John's Wort (Hypericum perforatum), anticonvulsants: carbamazepine, phenobarbital, phenytoin).
 
@@ -71,9 +72,15 @@ Pharmacokinetic interactions may be observed with gastrointestinal prokinetic ag
 
 No clinically significant pharmacokinetic interaction was observed between sirolimus and any of the following substances: acyclovir, atorvastatin, digoxin, glibenclamide, methylprednisolone, nifedipine, prednisolone, and trimethoprim/sulphamethoxazole.
 
+Paediatric population
+
+Interaction studies have only been performed in adults.
+
 [Rapamune 0.5 mg coated tablets]
 
 Co-administration of sirolimus (2 mg single dose) with multiple-dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 100 mg every 12 hours for 8 days) in healthy subjects has been reported to increase sirolimus Cmax and AUC by an average of 7-fold and 11-fold, respectively.
+
+Such inhibitors include e.g. certain antifungals (e.g. clotrimazole, fluconazole, itraconazole, voriconazole), certain antibiotics (e.g. troleandomycin, telithromycin, clarithromycin), certain protease inhibitors (e.g. ritonavir, indinavir, boceprevir, and telaprevir), nicardipine, bromocriptine, cimetidine, and danazol.
 
 [Rapamune 1 mg coated tablets.]
 

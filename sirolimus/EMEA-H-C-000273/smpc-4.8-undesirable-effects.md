@@ -30,6 +30,8 @@ Epstein-Barr
 virus, CMV,
 and Herpes
 zoster)
+System Organ Very common Common Uncommon Rare Not known
+Class
 Neoplasms Skin cancer* Lymphoma*/
 benign, post-
 malignant and transplant
@@ -39,8 +41,6 @@ and polyps) disorder
 Blood and Thrombocyto- Thrombotic Pancyto-
 lymphatic paenia Thrombo- paenia
 system Anaemia cytopaenic
-System Organ Very common Common Uncommon Rare Not known
-Class
 disorders purpura/hae-
 molytic
 uraemic
@@ -80,6 +80,8 @@ significant
 effusions in
 children and
 adults)
+System Organ Very common Common Uncommon Rare Not known
+Class
 Vascular Lymphocele Deep vein Pulmonary Lymphoedema
 disorders Hypertension thrombosis embolism
 Respiratory, Pneumonitis* Pulmonary Alveolar
@@ -92,8 +94,6 @@ Constipation
 Nausea
 Hepatobiliary Liver function Liver failure*
 disorders tests abnormal
-System Organ Very common Common Uncommon Rare Not known
-Class
 Skin and Acne Rash
 subcutaneous
 tissue disorders
@@ -105,6 +105,13 @@ Renal and Proteinuria Nephrotic Focal
 urinary syndrome segmental
 disorders (see section glomerulo-
 4.4) sclerosis*
+Reproductive Ovarian cysts
+system and Menstrual
+breast disorders disorders
+(including
+amenorrhea
+and
+menorrhagia)
 General Oedema Impaired
 disorders and peripheral healing*
 administration Pyrexia Oedema
@@ -123,7 +130,6 @@ Description of selected adverse reactions
 Immunosuppression increases the susceptibility to the development of lymphoma and other malignancies, particularly of the skin (see section 4.4).
 
 Cases of BK virus-associated nephropathy, as well as cases of JC virus-associated progressive multifocal leukoencephalopathy (PML), have been reported in patients treated with immunosuppressants, including Rapamune.
-
 Hepatoxicity has been reported.
 The risk may increase as the trough sirolimus level increases.
 Rare reports of fatal hepatic necrosis have been reported with elevated trough sirolimus levels.
@@ -142,10 +148,16 @@ In patients with delayed graft function, sirolimus may delay recovery of renal f
 The concomitant use of sirolimus with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced HUS/TTP/TMA.
 
 Focal segmental glomerulosclerosis has been reported.
+
 There have also been reports of fluid accumulation, including peripheral oedema, lymphoedema, pleural effusion and pericardial effusions (including haemodynamically significant effusions in children and adults) in patients receiving Rapamune.
 
 In a study evaluating the safety and efficacy of conversion from calcineurin inhibitors to sirolimus (target levels of 12 - 20 ng/ml in maintenance renal transplant patients, enrollment was stopped in the subset of patients (n=90) with a baseline glomerular filtration rate of less than 40 ml/min (see section 5.1).
 There was a higher rate of serious adverse events, including pneumonia, acute rejection, graft loss and death, in this sirolimus treatment arm (n=60, median time post-transplant 36 months).
+
+Ovarian cysts and menstrual disorders (including amenorrhea and menorrhagia) have been reported.
+Patients with symptomatic ovarian cysts should be referred for further evaluation.
+The incidence of ovarian cysts may be higher in premenopausal females compared to postmenopausal females.
+In some cases, ovarian cysts and these menstrual disorders have resolved upon discontinuation of Rapamune.
 
 Paediatric population
 
