@@ -8,6 +8,7 @@ Steady state is achieved after 4–7 days of dosing.
 Repeated dosing does not result in accumulation of the compound or metabolites.
 Absorption is not influenced by food intake.
 Absolute bioavailability is greater than 80%.
+
 Distribution
 
 The estimated volume of distribution in humans is 0.25 l/kg.

@@ -12,7 +12,6 @@ Breastfeeding
 Pioglitazone has been shown to be present in the milk of lactating rats.
 It is not known whether pioglitazone is secreted in human milk.
 Therefore, pioglitazone should not be administered to breastfeeding women.
-
 Fertility
 
 In animal fertility studies there was no effect on copulation, impregnation or fertility index.

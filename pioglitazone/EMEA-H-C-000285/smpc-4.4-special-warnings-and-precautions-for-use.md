@@ -8,6 +8,7 @@ Patients should be observed for signs and symptoms of heart failure, weight gain
 There have been post-marketing cases of cardiac failure reported when pioglitazone was used in combination with insulin or in patients with a history of cardiac failure.
 Patients should be observed for signs and symptoms of heart failure, weight gain and oedema when pioglitazone is used in combination with insulin.
 Since insulin and pioglitazone are both associated with fluid retention, concomitant administration may increase the risk of oedema.
+Post marketing cases of peripheral oedema and cardiac failure have also been reported in patients with concomitant use of pioglitazone and nonsteroidal anti-inflammatory drugs, including selective COX-2 inhibitors.
 Pioglitazone should be discontinued if any deterioration in cardiac status occurs.
 
 A cardiovascular outcome study of pioglitazone has been performed in patients under 75 years with type 2 diabetes mellitus and pre-existing major macrovascular disease.
@@ -80,8 +81,10 @@ The observed excess risk of fractures for women in this dataset on pioglitazone 
 
 In the 3.5 year cardiovascular risk PROactive study, 44/870 (5.1%; 1.0 fractures per 100 patient years) of pioglitazone-treated female patients experienced fractures compared to 23/905 (2.5%; 0.5 fractures per 100 patient years) of female patients treated with comparator.
 No increase in fracture rates was observed in men treated with pioglitazone (1.7%) versus comparator (2.1%).
+Some epidemiological studies have suggested a similarly increased risk of fracture in both men and women.
 
-The risk of fractures should be considered in the long term care of women treated with pioglitazone.
+The risk of fractures should be considered in the long term care of patients treated with pioglitazone.
+
 As a consequence of enhancing insulin action, pioglitazone treatment in patients with polycystic ovarian syndrome may result in resumption of ovulation.
 These patients may be at risk of pregnancy.
 Patients should be aware of the risk of pregnancy and if a patient wishes to become pregnant or if pregnancy occurs, the treatment should be discontinued (see section 4.6).

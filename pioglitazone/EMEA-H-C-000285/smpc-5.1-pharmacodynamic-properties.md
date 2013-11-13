@@ -13,9 +13,9 @@ Kaplan-Meier analysis showed shorter time to treatment failure in patients treat
 At two years, glycaemic control (defined as HbA1c < 8.0%) was sustained in 69% of patients treated with pioglitazone, compared with 50% of patients on gliclazide.
 In a two-year study of combination therapy comparing pioglitazone with gliclazide when added to metformin, glycaemic control measured as mean change from baseline in HbA1c was similar between treatment groups after one year.
 The rate of deterioration of HbA1c during the second year was less with pioglitazone than with gliclazide.
-
 In a placebo controlled trial, patients with inadequate glycaemic control despite a three month insulin optimisation period were randomised to pioglitazone or placebo for 12 months.
 Patients receiving pioglitazone had a mean reduction in HbA1c of 0.45% compared with those continuing on insulin alone, and a reduction of insulin dose in the pioglitazone treated group.
+
 HOMA analysis shows that pioglitazone improves beta cell function as well as increasing insulin sensitivity.
 Two-year clinical studies have shown maintenance of this effect.
 
