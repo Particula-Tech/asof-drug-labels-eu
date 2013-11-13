@@ -21,17 +21,27 @@ Neutropenia (absolute neutrophil count <500) was generally reversible and was ma
 Complete blood counts should be monitored as clinically indicated and dose adjusted as required (see sections 4.2 and 4.8).
 Infections
 Patients should be assessed for the risk of developing serious bacterial, mycobacterial, fungal and viral infections.
+Tuberculosis has been reported in patients receiving Jakavi for myelofibrosis.
+Before starting treatment, patients should be evaluated for active and inactive (“latent”) tuberculosis, as per local recommendations.
+This can include medical history, possible previous contact with tuberculosis, and/or appropriate screening such as lung x-ray, tuberculin test and/or interferon-gamma release assay, as applicable.
+Prescribers are reminded of the risk of false negative tuberculin skin test results, especially in patients who are severely ill or immunocompromised.
 Jakavi therapy should not be started until active serious infections have resolved.
 Physicians should carefully observe patients receiving Jakavi for signs and symptoms of infections and initiate appropriate treatment promptly (see section 4.8).
 
 Herpes zoster
 Physicians should educate patients about early signs and symptoms of herpes zoster, advising that treatment should be sought as early as possible.
 
+Progressive multifocal leukoencephalopathy
+Progressive multifocal leukoencephalopathy (PML) has been reported with Jakavi treatment for myelofibrosis.
+Physicians should be particularly alert to symptoms suggestive of PML that patients may not notice (e.g., cognitive, neurological or psychiatric symptoms or signs).
+Patients should be monitored for any of these new or worsening symptoms or signs, and if such symptoms/signs occur, referral to a neurologist and appropriate diagnostic measures for PML should be considered.
+If PML is suspected, further dosing must be suspended until PML has been excluded.
+
 Special populations
 Renal impairment
 The starting dose of Jakavi should be reduced in patients with severe renal impairment.
 For patients with end-stage renal disease on haemodialysis the starting dose should be based on platelet counts (see section 4.2).
-Subsequent doses (single administration) should be administered on haemodialysis days following each dialysis session.
+Subsequent doses (single administration or two doses of 10 mg given 12 hours apart) should be administered only on haemodialysis days following each dialysis session.
 Additional dose modifications should be made with careful monitoring of safety and efficacy (see sections 4.2 and 5.2).
 
 Hepatic impairment

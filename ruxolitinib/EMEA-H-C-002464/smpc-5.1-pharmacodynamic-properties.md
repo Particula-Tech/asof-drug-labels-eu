@@ -20,7 +20,6 @@ Baseline elevations in inflammatory markers associated with constitutional sympt
 Myelofibrosis patients did not become refractory to the pharmacodynamic effects of ruxolitinib treatment over time.
 
 In a thorough QT study in healthy subjects, there was no indication of a QT/QTc prolonging effect of ruxolitinib in single doses up to a supratherapeutic dose of 200 mg, indicating that ruxolitinib has no effect on cardiac repolarisation.
-
 Clinical efficacy and safety
 Two randomised phase 3 studies (COMFORT-I and COMFORT-II) were conducted in patients with myelofibrosis (primary myelofibrosis, post-polycythaemia vera myelofibrosis or post-essential thrombocythaemia myelofibrosis).
 In both studies, patients had palpable splenomegaly at least 5 cm below the costal margin and risk category of intermediate-2 (2 prognostic factors) or high risk (3 or more prognostic factors) based on the International Working Group (IWG) Consensus Criteria.

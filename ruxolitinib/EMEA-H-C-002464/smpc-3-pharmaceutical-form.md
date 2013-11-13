@@ -2,7 +2,7 @@
 
 Tablet.
 
-Round white to almost white tablets of approximately 7.5 mm in diameter with “NVR” debossed on one side and “L5” debossed on the other side.
+Round curved white to almost white tablets of approximately 7.5 mm in diameter with “NVR” debossed on one side and “L5” debossed on the other side.
 
 [Jakavi 15 mg tablets]
 

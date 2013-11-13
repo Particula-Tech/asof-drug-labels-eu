@@ -25,6 +25,7 @@ Table 1 Percentage of patients with adverse drug reactions in clinical studies*
 | Infections and infestations |  |  |  |
 | Urinary tract infectionsa,d | 12.3 | 1.0 | Very common |
 | Herpes zostera,d | 4.3 | 0.3 | Common |
+| Tuberculosise | 0.27 | 0.27 | Uncommon |
 | Blood and lymphatic system disordersb,d |  |  |  |
 | Anaemia | 82.4 | 42.5 | Very common |
 | Thrombocytopenia | 69.8 | 11.3 | Very common |
@@ -45,10 +46,11 @@ Table 1 Percentage of patients with adverse drug reactions in clinical studies*
 | Hepatobiliary disorders |  |  |  |
 | Raised alanine aminotransferaseb | 26.9 | 1.3 | Very common |
 | Raised aspartate aminotransferaseb | 19.3 | 0 | Very common |
-| * Myelofibrosis patients randomised to and treated with ruxolitinib from the phase 3 pivotal COMFORT-I and COMFORT-II studies a Frequency is based on adverse event data. - A subject with multiple occurrence of an adverse drug reaction (ADR) is counted only once in that ADR category. - ADRs reported are on treatment or up to 28 days post treatment end date. b Frequency is based on laboratory values. - A subject with multiple occurrences of an ADR is counted only once in that ADR category. - ADRs reported are on treatment or up to 28 days post treatment end date. c Common Terminology Criteria for Adverse Events (CTCAE) version 3.0; grade 1 = mild, grade 2 = moderate, grade 3 = severe, grade 4 = life-threatening d These ADRs are discussed in the text. |  |  |  |
+| * Myelofibrosis patients randomised to and treated with ruxolitinib from the phase 3 pivotal COMFORT-I and COMFORT-II studies a Frequency is based on adverse event data. - A subject with multiple occurrence of an adverse drug reaction (ADR) is counted only once in that ADR category. - ADRs reported are on treatment or up to 28 days post treatment end date. b Frequency is based on laboratory values. - A subject with multiple occurrences of an ADR is counted only once in that ADR category. - ADRs reported are on treatment or up to 28 days post treatment end date. c Common Terminology Criteria for Adverse Events (CTCAE) version 3.0; grade 1 = mild, grade 2 = moderate, grade 3 = severe, grade 4 = life-threatening d These ADRs are discussed in the text. e Frequency is based on all patients exposed to ruxolitinib in clinical trials (N=4755) |  |  |  |
 
 Upon discontinuation, patients may experience a return of myelofibrosis symptoms such as fatigue, bone pain, fever, pruritus, night sweats, symptomatic splenomegaly and weight loss.
 In clinical studies the total symptom score for myelofibrosis symptoms gradually returned to baseline value within 7 days after dose discontinuation (see section 4.4).
+
 Description of selected adverse drug reactions
 Anaemia
 In phase 3 clinical studies, median time to onset of first CTCAE grade 2 or higher anaemia was 1.5 months.
@@ -83,7 +85,6 @@ Other bleeding events (including events such as epistaxis, post-procedural haemo
 
 Infections
 In the phase 3 pivotal studies grade 3 or 4 urinary tract infection was reported in 1.0% of patients, herpes zoster in 4.3% and tuberculosis in 1.0%.
-
 Increased systolic blood pressure
 In the phase 3 pivotal clinical studies an increase in systolic blood pressure of 20 mmHg or more from baseline was recorded in 31.5% of patients on at least one visit compared with 19.5% of the control-treated patients.
 In COMFORT-I the mean increase from baseline in systolic BP was 0-2 mmHg on Jakavi versus a decrease of 2-5 mmHg in the placebo arm.

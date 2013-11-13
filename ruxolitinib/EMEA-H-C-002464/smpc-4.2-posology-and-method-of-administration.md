@@ -37,12 +37,11 @@ In patients with severe renal impairment (creatinine clearance less than 30 ml/m
 Patients should be carefully monitored with regard to safety and efficacy during Jakavi treatment.
 
 There are limited data to determine the best dosing options for patients with end-stage renal disease (ESRD) on haemodialysis.
-Available data in this population suggest that the starting dose for patients with ESRD on haemodialysis is a single dose of 15 mg or 20 mg, to be administered after haemodialysis has been completed and only on the day of haemodialysis.
-A single dose of 15 mg is for patients with platelet count between 100,000/mm3 and 200,000/mm3 or a single dose of 20 mg for patients with platelet count of >200,000/mm3.
-Subsequent doses should be administered once daily on haemodialysis days following each dialysis session.
-Dosing only on dialysis days, applying a dialysis frequency of 3 times a week, is estimated to result in a low STAT3 inhibitory effect 24-48 hours post dose (see section 5.2).
-Other dosing regimens may be more suitable from an efficacy perspective.
-However, due to increased metabolite exposure and lack of knowledge on the potential safety consequences of these exposures, dose modification should be followed by careful monitoring of safety and efficacy in individual patients.
+Pharmacokinetic/pharmacodynamic simulations based on available data in this population suggest that the starting dose for patients with ESRD on haemodialysis is a single dose of 15-20 mg or two doses of 10 mg given 12 hours apart, to be administered post-dialysis and only on the day of haemodialysis.
+A single dose of 15 mg is recommended for patients with platelet count between 100,000/mm3 and 200,000/mm3.
+A single dose of 20 mg or two doses of 10 mg given 12 hours apart is recommended for patients with platelet count of >200,000/mm3.
+Subsequent doses (single administration or two doses of 10 mg given 12 hours apart) should be administered only on haemodialysis days following each dialysis session.
+These dose recommendations are based on simulations and any dose modification in ESRD should be followed by careful monitoring of safety and efficacy in individual patients.
 No data is available for dosing patients who are undergoing peritoneal dialysis or continuous venovenous haemofiltration (see section 5.2).
 
 Hepatic impairment
@@ -53,10 +52,10 @@ Jakavi dose can be titrated to reduce the risk of cytopenia.
 
 Elderly patients (≥65 years)
 No additional dose adjustments are recommended for elderly patients.
+
 Paediatric population
 The safety and efficacy of Jakavi in children aged up to 18 years have not been established.
 No data are available (see section 5.1).
-
 Treatment discontinuation
 Treatment may be continued as long as the benefit-risk remains positive.
 However the treatment should be discontinued after 6 months if there has been no reduction in spleen size or improvement in symptoms since initiation of therapy.

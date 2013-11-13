@@ -4,6 +4,7 @@ Interaction studies have only been performed in adults.
 
 Ruxolitinib is eliminated through metabolism catalysed by CYP3A4 and CYP2C9.
 Thus, medicinal products inhibiting these enzymes can give rise to increased ruxolitinib exposure.
+
 Interactions resulting in dose reduction of ruxolitinib
 CYP3A4 inhibitors
 Strong CYP3A4 inhibitors (such as, but not limited to, boceprevir, clarithromycin, indinavir, itraconazole, ketoconazole, lopinavir/ritonavir, ritonavir, mibefradil, nefazodone, nelfinavir, posaconazole, saquinavir, telaprevir, telithromycin, voriconazole)
@@ -36,15 +37,15 @@ However, patients should be closely monitored for cytopenias when initiating the
 Effects of ruxolitinib on other medicinal products
 Oral contraceptives
 There is no interaction study with oral contraceptives.
-
 Substances metabolised by CYP3A4
 It cannot be excluded that ruxolitinib inhibits CYP3A4 in the intestine.
 Increased systemic exposure may be obtained for substances which are metabolised by CYP3A4, and particularly those that undergo extensive intestinal metabolism.
 Safety monitoring of orally administered CYP3A4 metabolised substances is advised when combined with ruxolitinib.
 The interaction is likely to be minimised if the time between co-administrations is kept as long as possible.
+
 Substances transported by P-glycoprotein or other transporters
 Ruxolitinib may inhibit P-glycoprotein and breast cancer resistance protein (BCRP) in the intestine.
-This may result in increased sytemic exposure of substrates of these transporters, such as dabigatran etixilate, ciclosporin, rosuvastatin and potentially digoxin.
+This may result in increased sytemic exposure of substrates of these transporters, such as dabigatran etexilate, ciclosporin, rosuvastatin and potentially digoxin.
 Therapeutic drug monitoring (TDM) or clinical monitoring of the affected substance is advised.
 
 It is possible that the potential inhibition of P-gp and BCRP in the intestine can be minimised if the time between administrations is kept apart as long as possible.
