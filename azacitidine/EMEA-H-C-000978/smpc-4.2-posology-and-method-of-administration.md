@@ -11,14 +11,18 @@ Treatment should be continued as long as the patient continues to benefit or unt
 
 Patients should be monitored for haematologic response/toxicity and renal toxicities (see section 4.4); a delay in starting the next cycle or a dose reduction as described below may be necessary.
 
+Laboratory tests
+Liver function tests, serum creatinine and serum bicarbonate should be determined prior to initiation of therapy and prior to each treatment cycle.
+Complete blood counts should be performed prior to initiation of therapy and as needed to monitor response and toxicity, but at a minimum, prior to each treatment cycle.
 Dose adjustment due to haematological toxicity
 Haematological toxicity is defined as the lowest count reached in a given cycle (nadir) if platelets
 ≤ 50.0 x 109/l and/or absolute neutrophil count (ANC) ≤ 1 x 109/l.
-Recovery is defined as an increase of cell line(s) where haematological toxicity was observed of at least half of the difference of nadir and the baseline count plus the nadir count (i.e. blood count at recovery ≥ Nadir Count + (0.5 x [Baseline count – Nadir count]).
+
+Recovery is defined as an increase of cell line(s) where haematological toxicity was observed of at least half of the difference of nadir and the baseline count plus the nadir count (i.e. blood count at recovery ≥ nadir count + (0.5 x [baseline count – nadir count]).
 
 Patients without reduced baseline blood counts (i.e. White Blood Cells (WBC) ≥ 3.0 x 109/l and
 ANC ≥ 1.5 x 109/l, and platelets ≥ 75.0 x 109/l) prior to the first treatment
-If haematological toxicity is observed following Vidaza treatment, the next cycle of Vidaza therapy should be delayed until the platelet count and the ANC have recovered.
+If haematological toxicity is observed following Vidaza treatment, the next cycle of the therapy should be delayed until the platelet count and the ANC have recovered.
 If recovery is achieved within 14 days, no dose adjustment is necessary.
 However, if recovery has not been achieved within 14 days, the dose should be reduced according to the following table.
 Following dose modifications, the cycle duration should return to 28 days.
@@ -29,7 +33,7 @@ Following dose modifications, the cycle duration should return to 28 days.
 | ≤ 1.0 | ≤ 50.0 | 50 % |
 | > 1.0 | > 50.0 | 100 % |
 
-*Recovery = counts ≥ Nadir count + (0.5 x [Baseline count – Nadir count])
+*Recovery = counts ≥ nadir count + (0.5 x [baseline count – nadir count])
 
 Patients with reduced baseline blood counts (i.e. WBC < 3.0 x 109/l or ANC < 1.5 x 109/l or platelets < 75.0 x 109/l) prior to the first treatment
 Following Vidaza treatment, if the decrease in WBC or ANC or platelets from that prior to treatment is ≤ 50 %, or greater than 50 % but with an improvement in any cell line differentiation, the next cycle should not be delayed and no dose adjustment made.
@@ -46,29 +50,31 @@ If bone marrow cellularity is ≤ 50 %, treatment should be delayed and the dose
 | 15-50 % | 100 % | 50 % |
 | < 15 % | 100 % | 33 % |
 
-*Recovery = counts ≥ Nadir count + (0.5 x [Baseline count – Nadir count])
+*Recovery = counts ≥ nadir count + (0.5 x [baseline count – nadir count])
 
 Following dose modifications, the cycle duration should return to 28 days.
 
 Special populations
-Renal impairment: No formal studies have been conducted in patients with decreased renal function.
+Elderly patients
+No specific dose adjustments are recommended for the elderly.
+Because elderly patients are more likely to have decreased renal function, it may be useful to monitor renal function.
+
+Renal impairment
+No formal studies have been conducted in patients with decreased renal function.
 Patients with severe organ impairment should be carefully monitored for adverse events.
 No specific modification to the starting dose is recommended in patients with renal impairment (e.g. baseline serum creatinine or blood urea nitrogen [BUN] ≥ 2-fold above upper limit of normal [ULN] or serum bicarbonate less than 20 mmol/l) prior to starting treatment; subsequent dose modifications should be based on haematology and renal laboratory values.
 If unexplained reductions in serum bicarbonate levels to less than 20 mmol/l occur, the dose should be reduced by 50 % on the next cycle.
 If unexplained elevations in serum creatinine or BUN to ≥ 2-fold above baseline values and above ULN occur, the next cycle should be delayed until values return to normal or baseline and the dose should be reduced by 50 % on the next treatment cycle (see section 4.4).
-Hepatic impairment: No formal studies have been conducted in patients with hepatic impairment (see section 4.4).
+
+Hepatic impairment
+No formal studies have been conducted in patients with hepatic impairment (see section 4.4).
 Patients with severe hepatic organ impairment should be carefully monitored for adverse events.
 No specific modification to the starting dose is recommended for patients with hepatic impairment prior to starting treatment; subsequent dose modifications should be based on haematology laboratory values.
 Vidaza is contraindicated in patients with advanced malignant hepatic tumours (see sections 4.3 and 4.4).
 
-Elderly: No specific dose adjustments are recommended for the elderly.
-Because elderly patients are more likely to have decreased renal function, it may be useful to monitor renal function.
-
-Children and adolescents: Vidaza is not recommended for use in children below 18 years due to insufficient data on safety and efficacy.
-
-Laboratory tests
-Liver function tests, serum creatinine and serum bicarbonate should be determined prior to initiation of therapy and prior to each treatment cycle.
-Complete blood counts should be performed prior to initiation of therapy and as needed to monitor response and toxicity, but at a minimum, prior to each treatment cycle.
+Paediatric population
+The safety and efficacy of Vidaza in children aged 0-17 years have not yet been established.
+No data are available.
 
 Method of administration
 Reconstituted Vidaza should be injected subcutaneously into the upper arm, thigh or abdomen.
@@ -76,5 +82,4 @@ Injection sites should be rotated.
 New injections should be given at least 2.5 cm from the previous site and never into areas where the site is tender, bruised, red, or hardened.
 
 After reconstitution, the suspension should not be filtered.
-
-Detailed instructions for the reconstitution and administration procedure for Vidaza are provided in section 6.6.
+For instructions on reconstitution of the medicinal product before administration, see section 6.6.

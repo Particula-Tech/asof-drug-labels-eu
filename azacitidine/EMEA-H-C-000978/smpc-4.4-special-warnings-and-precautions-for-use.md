@@ -10,12 +10,13 @@ Patients and physicians are also advised to be observant for signs and symptoms 
 Hepatic impairment
 No formal studies have been conducted in patients with hepatic impairment.
 Patients with extensive tumour burden due to metastatic disease have been reported to experience progressive hepatic coma and death during azacitidine treatment, especially in such patients with baseline serum albumin
-< 30 g/l.
+< 30 g/L.
 Azacitidine is contraindicated in patients with advanced malignant hepatic tumours (see section 4.3).
+
 Renal impairment
 Renal abnormalities ranging from elevated serum creatinine to renal failure and death were reported in patients treated with intravenous azacitidine in combination with other chemotherapeutic agents.
-In addition, renal tubular acidosis, defined as a fall in serum bicarbonate to < 20 mmol/l in association with an alkaline urine and hypokalaemia (serum potassium < 3 mmol/l) developed in 5 subjects with chronic myelogenous leukaemia (CML) treated with azacitidine and etoposide.
-If unexplained reductions in serum bicarbonate (< 20 mmol/l) or elevations of serum creatinine or BUN occur, the dose should be reduced or administration delayed (see section 4.2).
+In addition, renal tubular acidosis, defined as a fall in serum bicarbonate to < 20 mmol/L in association with an alkaline urine and hypokalaemia (serum potassium < 3 mmol/L) developed in 5 subjects with chronic myelogenous leukaemia (CML) treated with azacitidine and etoposide.
+If unexplained reductions in serum bicarbonate (< 20 mmol/L) or elevations of serum creatinine or BUN occur, the dose should be reduced or administration delayed (see section 4.2).
 
 The patients should be advised to report oliguria and anuria to the health care provider immediately.
 
@@ -26,7 +27,7 @@ Liver function tests, serum creatinine and serum bicarbonate should be determine
 Complete blood counts should be performed prior to initiation of therapy and as needed to monitor response and toxicity, but at a minimum, prior to each treatment cycle, see also section 4.8.
 
 Cardiac and pulmonary disease
-Patients with a history of severe congestive heart failure, clinically unstable cardiac disease or pulmonary disease were excluded from the pivotal registration study (AZA-001) and therefore the safety and efficacy of Vidaza in these patients has not been established.
-Recent data from a clinical trial in patients with a known history of cardiovascular or pulmonary disease showed a significantly increased incidence of cardiac events with Vidaza (see section 4.8).
-It is therefore advised to exercise caution when prescribing Vidaza to these patients.
-Cardiopulmonary assessment before and during the treatment with Vidaza should be considered.
+Patients with a history of severe congestive heart failure, clinically unstable cardiac disease or pulmonary disease were excluded from the pivotal registration study (AZA-001) and therefore the safety and efficacy of azacitidine in these patients has not been established.
+Recent data from a clinical trial in patients with a known history of cardiovascular or pulmonary disease showed a significantly increased incidence of cardiac events with azacitidine (see section 4.8).
+It is therefore advised to exercise caution when prescribing azacitidine to these patients.
+Cardiopulmonary assessment before and during the treatment should be considered.

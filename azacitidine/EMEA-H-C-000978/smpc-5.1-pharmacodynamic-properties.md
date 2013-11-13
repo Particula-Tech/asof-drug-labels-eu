@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antineoplastic agent, Pyrimidine analogues; ATC code: L01BC07
+Pharmacotherapeutic group: Antineoplastic agents, pyrimidine analogues; ATC code: L01BC07
 
 Mechanism of action
 Azacitidine is believed to exert its antineoplastic effects by multiple mechanisms including cytotoxicity on abnormal haematopoietic cells in the bone marrow and hypomethylation of DNA.
@@ -20,12 +20,23 @@ Patients received this pre-selected regimen if not randomised to Vidaza.
 As part of the inclusion criteria, patients were required to have an Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.
 Patients with secondary MDS were excluded from the study.
 The primary endpoint of the study was overall survival.
-Vidaza was administered at a subcutaneous dose of 75 mg/m2 daily for 7 days, followed by a rest period of 21 days (28-day treatment cycle) for a median of 9 cycles (range = 1-39) and a mean of 10.2 cycles.
+Vidaza was administered at a subcutaneous dose of 75 mg/m2 daily for 7 days, followed by a rest period of 21 days (28-day treatment cycle) for a median of 9 cycles
+(range = 1-39) and a mean of 10.2 cycles.
 Within the Intent to Treat population (ITT), the median age was 69 years (range 38 to 88 years).
 
 In the ITT analysis of 358 patients (179 azacitidine and 179 CCR), Vidaza treatment was associated with a median survival of 24.46 months versus 15.02 months for those receiving CCR treatment, a difference of 9.4 months, with a stratified log-rank p-value of 0.0001.
 The hazard ratio for the treatment effect was 0.58 (95 % CI: 0.43, 0.77).
 The two-year survival rates were 50.8 % in patients receiving azacitidine versus 26.2 % in patients receiving CCR (p < 0.0001).
+Log-Rank p = 0.0001
+HR = 0.58 [95% CI: 0.43-0.77]
+Deaths: AZA = 82, CCR = 113
+
+months
+
+months
+
+Time (months) from Randomization
+# at risk
 
 KEY: AZA = azacitidine; CCR = conventional care regimens; CI = confidence interval; HR = hazard ratio
 
@@ -48,8 +59,7 @@ Overall response (complete remission [CR] + partial remission [PR]) as determine
 Overall response (CR + PR) as determined by the IRC in AZA PH GL 2003 CL 001 was 7 % (12/179) in the azacitidine group compared with 1 % (2/179) in the combined CCR group (p = 0.0113).
 The differences between the IRC and investigator assessments of response were a consequence of the International Working Group (IWG) criteria requiring improvement in peripheral blood counts and maintenance of these improvements for a minimum of 56 days.
 A survival benefit was also demonstrated in patients that had not achieved a complete/partial response following azacitidine treatment.
-Haematological improvement (major or minor) as determined by the IRC was achieved in 49 % of patients receiving azacitidine compared with 29 % of patients treated with combined CCR
-(p < 0.0001).
+Haematological improvement (major or minor) as determined by the IRC was achieved in 49 % of patients receiving azacitidine compared with 29 % of patients treated with combined CCR (p < 0.0001).
 
 In patients with one or more cytogenetic abnormalities at baseline, the percentage of patients with a major cytogenetic response was similar in the azacitidine and combined CCR groups.
 Minor cytogenetic response was statistically significantly (p = 0.0015) higher in the azacitidine group (34 %) compared with the combined CCR group (10 %).

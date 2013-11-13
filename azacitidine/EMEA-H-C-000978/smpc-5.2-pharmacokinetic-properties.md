@@ -3,13 +3,13 @@
 The pharmacokinetics of azacitidine were studied following single 75 mg/m2 doses given by subcutaneous and intravenous administration.
 
 Absorption
-Azacitidine was rapidly absorbed after subcutaneous administration with peak plasma azacitidine concentrations of 750 ± 403 ng/ml occurring at 0.5 h (the first sampling point) after dosing.
+Azacitidine was rapidly absorbed after subcutaneous administration with peak plasma azacitidine concentrations of 750 ± 403 ng/mL occurring at 0.5 h (the first sampling point) after dosing.
 The absolute bioavailability of azacitidine after subcutaneous relative to intravenous administration was approximately 89 % based on area under the curve (AUC).
 
 Distribution
-Following intravenous administration, the mean volume of distribution was 76 ± 26 l, and systemic clearance was 147 ± 47 l/h.
+Following intravenous administration, the mean volume of distribution was 76 ± 26 L, and systemic clearance was 147 ± 47 L/h.
 
-Metabolism
+Biotransformation
 Based on in vitro data, azacitidine metabolism does not appear to be mediated by cytochrome P450 isoenzymes (CYPs), UDP-glucuronosyltransferases (UGTs), sulfotransferases (SULTs), and glutathione transferases (GSTs).
 
 Azacitidine undergoes spontaneous hydrolysis and deamination mediated by cytidine deaminase.
@@ -18,7 +18,7 @@ An in vitro study of azacitidine with cultured human hepatocytes indicates that 
 In studies to assess inhibition of a series of P450 isoenzymes (CYP 1A2, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1 and 3A4) azacitidine up to 100 μM did not produce inhibition.
 Therefore, CYP enzyme induction or inhibition by azacitidine at clinically achievable plasma concentrations is unlikely.
 
-Excretion
+Elimination
 Azacitidine is cleared rapidly from plasma with a mean elimination half-life (t½) after subcutaneous administration of 41 ± 8 minutes.
 No accumulation occurs after subcutaneous administration of 75 mg/m2 azacitidine once daily for 7 days.
 Urinary excretion is the primary route of elimination of azacitidine and/or its metabolites.
@@ -26,5 +26,6 @@ Following intravenous and subcutaneous administration of 14C-azacitidine, 85 and
 
 Special populations
 The effects of renal or hepatic impairment (see section 4.2), gender, age, or race on the pharmacokinetics of azacitidine have not been formally studied.
+
 Pharmacogenomics
 The effect of known cytidine deaminase polymorphisms on azacitidine metabolism has not been formally investigated.
