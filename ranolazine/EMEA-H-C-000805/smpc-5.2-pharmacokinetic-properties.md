@@ -15,6 +15,7 @@ The mean steady-state volume of distribution (Vss) is about 180 l.
 Elimination: Ranolazine is eliminated primarily by metabolism.
 Less than 5% of the dose is excreted unchanged in the urine and faeces.
 Following oral administration of a single 500 mg dose of [14C]-ranolazine to healthy subjects, 73% of the radioactivity was recovered in urine and 25% in faeces.
+
 Clearance of ranolazine is dose-dependent, decreasing with increased dose.
 The elimination half-life is about 2−3 hours after intravenous administration.
 The terminal half-life at steady state after oral administration of ranolazine is about 7 hours, due to the absorption rate-limited elimination.
@@ -49,7 +50,6 @@ In the population pharmacokinetic analysis, a 1.2-fold increase in ranolazine ex
 In subjects with severe renal impairment (creatinine clearance 10–30 ml/min), a 1.3- to 1.8-fold increase in ranolazine exposure was estimated.
 
 The influence of dialysis on the pharmacokinetics of ranolazine has not been evaluated.
-
 Hepatic impairment: The pharmacokinetics of ranolazine have been evaluated in patients with mild or moderate hepatic impairment.
 There are no data in patients with severe hepatic impairment.
 Ranolazine AUC was unaffected in patients with mild hepatic impairment but increased 1.8-fold in patients with moderate impairment.

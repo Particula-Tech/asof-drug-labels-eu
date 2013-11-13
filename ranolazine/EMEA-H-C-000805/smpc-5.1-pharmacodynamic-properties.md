@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Other cardiac preparations, ATC code: C01EB18
+
 Mechanism of action: The mechanism of action of ranolazine is largely unknown.
 Ranolazine may have some antianginal effects by inhibition of the late sodium current in cardiac cells.
 This reduces intracellular sodium accumulation and consequently decreases intracellular calcium overload.

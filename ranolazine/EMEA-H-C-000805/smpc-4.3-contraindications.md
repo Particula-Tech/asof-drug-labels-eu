@@ -1,6 +1,6 @@
 # 4.3 Contraindications
 
-Hypersensitivity to the active substance or to any of the excipients (see section 6.1).
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
 Severe renal impairment (creatinine clearance < 30 ml/min) (see sections 4.2 and 5.2).
 Moderate or severe hepatic impairment (see sections 4.2 and 5.2).
 Concomitant administration of potent CYP3A4 inhibitors (e.g. itraconazole, ketoconazole, voriconazol, posaconazol, HIV protease inhibitors, clarithromycin, telithromycin, nefazodone) (see sections 4.2 and 4.5).

@@ -31,11 +31,9 @@ Congestive heart failure (CHF): Dose titration in patients with moderate to seve
 Class III–IV) should be exercised with caution (see sections 4.4 and 5.2).
 
 Paediatric population
-
 The safety and efficacy of Ranexa in children below the age of 18 years have not been established.
 No data are available
 
 Method of administration
-
 Ranexa tablets should be swallowed whole and not crushed, broken, or chewed.
 They may be taken with or without food.

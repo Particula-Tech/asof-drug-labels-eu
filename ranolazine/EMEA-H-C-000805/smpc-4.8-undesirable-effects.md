@@ -15,11 +15,11 @@ Rare: disorientation.
 
 Nervous system disorders
 Common: dizziness, headache.
-Uncommon: lethargy, syncope, hypoaesthesia, somnolence, tremor, postural dizziness.
-Rare: amnesia, depressed level of consciousness, loss of consciousness, parosmia.
+Uncommon: lethargy, syncope, hypoaesthesia, somnolence, tremor, postural dizziness, paresthesia.
+Rare: amnesia, depressed level of consciousness, loss of consciousness, coordination abnormal, gait disturbance, parosmia.
 
 Eye disorders
-Uncommon: blurred vision, visual disturbance.
+Uncommon: blurred vision, visual disturbance, diplopia.
 
 Ear and labyrinth disorders
 Uncommon: vertigo, tinnitus.
@@ -41,16 +41,16 @@ Rare: pancreatitis, erosive duodenitis, oral hypoaesthesia.
 Skin and subcutaneous tissue disorders
 Uncommon: pruritus, hyperhydrosis.
 Rare: angioedema, allergic dermatitis, urticaria, cold sweat, rash.
-
 Musculoskeletal and connective tissue disorders
-Uncommon: pain in extremity, muscle cramp, joint swelling.
+Uncommon: pain in extremity, muscle cramp, joint swelling, muscular weakness.
 
 Renal and urinary disorders
 Uncommon: dysuria, haematuria, chromaturia.
-Rare: acute renal failure
+Rare: acute renal failure, urinary retention.
 
 Reproductive system and breast disorders
 Rare: erectile dysfunction.
+
 General disorders and administration site conditions
 Common: asthenia.
 Uncommon: fatigue, peripheral oedema.
@@ -75,3 +75,11 @@ In general, the type and frequency of adverse events reported in patients with l
 Laboratory findings: Small, clinically insignificant, reversible elevations in serum creatinine levels have been observed in healthy subjects and patients treated with Ranexa.
 There was no renal toxicity related to these findings.
 A renal function study in healthy volunteers demonstrated a reduction in creatinine clearance with no change in glomerular filtration rate consistent with inhibition of renal tubular secretion of creatinine.
+
+[Ranexa 500 mg prolonged-release tablets]
+
+Uncommon: blurred vision, visual disturbance, diplpopia.
+
+[Ranexa 750 mg prolonged-release tablets]
+
+(all sentences already above)

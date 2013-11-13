@@ -5,9 +5,8 @@ Animal studies are insufficient with respect to effects on pregnancy and embryof
 The potential risk for humans is unknown.
 Ranexa should not be used during pregnancy unless clearly necessary.
 
-Lactation: It is unknown whether ranolazine is excreted in human breast milk.
+Breast-feeding: It is unknown whether ranolazine is excreted in human breast milk.
 The excretion of ranolazine in milk has not been studied in animals.
 Ranexa should not be used during breast-feeding.
-
 Fertility: In animals, reproduction studies indicated no adverse effects on fertility (see section 5.3).
 The effect of ranolazine on human fertility is unknown.

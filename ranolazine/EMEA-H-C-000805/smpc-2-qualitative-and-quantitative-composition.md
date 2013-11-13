@@ -1,7 +1,7 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
 Each tablet contains 375 mg of ranolazine.
-For a full list of excipients see section 6.1.
+For the full list of excipients see section 6.1.
 
 [Ranexa 500 mg prolonged-release tablets]
 
