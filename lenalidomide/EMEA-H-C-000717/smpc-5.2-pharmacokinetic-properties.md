@@ -3,7 +3,6 @@
 Lenalidomide has an asymmetric carbon atom and can therefore exist as the optically active forms S(-) and R(+).
 Lenalidomide is produced as a racemic mixture.
 Lenalidomide is generally more soluble in organic solvents but exhibits the greatest solubility in 0.1N HCl buffer.
-
 Absorption
 Lenalidomide is rapidly absorbed following oral administration in healthy volunteers, under fasting conditions, with maximum plasma concentrations occurring between 0.5 and 2 hours post-dose.
 In patients, as well as in healthy volunteers, the maximum concentration (Cmax) and area-under-the-concentration time curve (AUC) increase proportionally with increases in dose.
@@ -34,8 +33,7 @@ The pharmacokinetics of lenalidomide was studied in subjects with renal impairme
 In this study, two methods were used to classify renal function: the urinary creatinine clearance measured over 24 hours and the creatinine clearance estimated by Cockcroft-Gault formula.
 The results indicate that as renal function decreases (< 50 ml/min), the total drug clearance decreases proportionally resulting in an increase in AUC.
 The AUC was increased by approximately 2.5, 4 and 5-fold in subjects with moderate renal impairment, severe renal impairment, and end-stage renal disease, respectively, compared to the group combining subjects with normal renal function and subjects with mild renal impairment.
-The half-life of lenalidomide increased from approximately 3.5 hours in subjects with creatinine clearance
-> 50 ml/min to more than 9 hours in subjects with reduced renal function < 50 ml/min.
+The half-life of lenalidomide increased from approximately 3.5 hours in subjects with creatinine clearance > 50 ml/min to more than 9 hours in subjects with reduced renal function < 50 ml/min.
 However, renal impairment did not alter the oral absorption of lenalidomide.
 The Cmax was similar between healthy subjects and patients with renal impairment.
 Approximately 30% of the drug in the body was removed during a single 4-hour dialysis session.

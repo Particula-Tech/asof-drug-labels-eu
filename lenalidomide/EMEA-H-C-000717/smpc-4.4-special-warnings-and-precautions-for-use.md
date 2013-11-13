@@ -62,7 +62,6 @@ The efficacy of contraceptive steroids may be reduced during co-treatment with d
 
 Implants and levonorgestrel-releasing intrauterine systems are associated with an increased risk of infection at the time of insertion and irregular vaginal bleeding.
 Prophylactic antibiotics should be considered particularly in patients with neutropenia.
-
 Copper-releasing intrauterine devices are generally not recommended due to the potential risks of infection at the time of insertion and menstrual blood loss which may compromise patients with neutropenia or thrombocytopenia.
 
 Pregnancy testing
@@ -95,7 +94,6 @@ A national controlled distribution system has been implemented in collaboration 
 The controlled distribution system includes the use of a patient card and/or equivalent tool for prescribing and/or dispensing controls, and the collecting of detailed data relating to the indication in order to monitor closely the off-label use within the national territory.
 Ideally, pregnancy testing, issuing a prescription and dispensing should occur on the same day.
 Dispensing of lenalidomide to women of childbearing potential should occur within 7 days of the prescription and following a medically supervised negative pregnancy test result.
-
 Other special warnings and precautions for use
 
 Cardiovascular disorders
@@ -193,7 +191,7 @@ Progression to acute myeloid leukaemia in low- and intermediate-1-risk MDS
 - Karyotype
 
 Baseline variables including complex cytogenetics are associated with progression to AML in subjects who are transfusion dependent and have a Del (5q) abnormality.
-In a clinical trial of Revlimid in low- or intermediate-1-risk myelodysplastic syndromes, subjects who had a complex cytogenetics had the highest estimated 2-year cumulative risk of progression to AML (38.6%).
+In a clinical trial of Revlimid in low-or intermediate-1-risk myelodysplastic syndromes, subjects who had a complex cytogenetics had the highest estimated 2-year cumulative risk of progression to AML (38.6%).
 The estimated 2-year rate of progression to AML in patients with an isolated Del (5q) abnormality was 13.8%, compared to 17.3% for patients with Del (5q) and one additional cytogenetic abnormality.
 
 As a consequence, the benefit/risk ratio of Revlimid when MDS is associated with Del (5q) and complex cytogenetics is unknown.

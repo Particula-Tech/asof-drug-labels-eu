@@ -4,7 +4,6 @@ Women of childbearing potential / Contraception in males and females
 Women of childbearing potential should use effective method of contraception.
 If pregnancy occurs in a woman treated with lenalidomide, treatment must be stopped and the patient should be referred to a physician specialised or experienced in teratology for evaluation and advice.
 If pregnancy occurs in a partner of a male patient taking lenalidomide, it is recommended to refer the female partner to a physician specialised or experienced in teratology for evaluation and advice.
-
 Lenalidomide is present in human semen at extremely low levels during treatment and is undetectable in human semen 3 days after stopping the substance in the healthy subject (see section 5.2).
 As a precaution, and taking into account special populations with prolonged elimination time such as renal impairment, all male patients taking lenalidomide should use condoms throughout treatment duration, during dose interruption and for 1 week after cessation of treatment if their partner is pregnant or of childbearing potential and has no contraception.
 

@@ -20,7 +20,6 @@ In the Phase II, all 148 patients were on lenalidomide treatment.
 In the Phase III study, 69 patients were on lenalidomide 5 mg, 69 patients on lenalidomide 10 mg and 67 patients were on placebo during the double-blind phase of the study.
 
 Most adverse events tended to occur during the first 16 weeks of therapy with lenalidomide.
-
 Serious adverse reactions include:
 
 - Venous thromboembolism (deep vein thrombosis, pulmonary embolism) (see section 4.4)
@@ -32,8 +31,7 @@ Tabulated list of adverse reactions
 
 The adverse reactions observed in patients treated for multiple myeloma and myelodysplastic syndromes are listed below by system organ class and frequency.
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-Frequencies are defined as: very common (≥ 1/10); common
-(≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000), not known (cannot be estimated from the available data).
+Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000), not known (cannot be estimated from the available data).
 
 The following table is derived from data gathered during the main studies in multiple myeloma and myelodysplastic syndromes and from post-marketing data for multiple myeloma only.
 The data were not adjusted according to the greater duration of treatment in the lenalidomide/dexamethasone versus the placebo/dexamethasone arms in the pivotal multiple myeloma studies (see section 5.1).
@@ -41,9 +39,6 @@ The data were not adjusted according to the greater duration of treatment in the
 Adverse reactions have been included under the appropriate category in the table below according to the highest frequency observed in any of the major clinical trials.
 
 Table 1: ADRs reported in clinical studies and post-marketing data in patients with multiple myeloma and in clinical trials in patients with myelodysplastic syndromes treated with lenalidomide#
-
-System Organ Class All ADRs/Frequency Grade 3−4 ADRs/Frequency
-/ Preferred Term
 
 | System Organ Class / Preferred Term | All ADRs/Frequency | Grade 3−4 ADRs/Frequency |
 | --- | --- | --- |
@@ -109,7 +104,6 @@ The combination of lenalidomide with dexamethasone in multiple myeloma patients 
 In myelodysplastic syndromes patients, lenalidomide is associated with a higher incidence of grade 3 or 4 neutropenia (74.6% in lenalidomide-treated patients compared with 14.9% in patients on placebo in the Phase III study).
 Grade 3 or 4 febrile neutropenia episodes were observed in 2.2% of lenalidomide-treated patients compared with 0.0% in patients on placebo).
 Lenalidomide is associated with a higher incidence of grade 3 or 4 thrombocytopenia (37% in lenalidomide-treated patients compared with 1.5% in patients on placebo in the Phase III study).
-
 Venous thromboembolism
 An increased risk of DVT and PE is associated with the use of lenalidomide with dexamethasone in patients with multiple myeloma, and to a lesser extent in patients with myelodysplastic syndromes treated with lenalidomide monotherapy (see section 4.5).
 Concomitant administration of erythropoietic agents or previous history of DVT may also increase thrombotic risk in these patients.
@@ -146,6 +140,8 @@ In the patients with IHC-p53 positivity, a lower rate of progression to AML was 
 
 Hepatic disorders
 The following hepatic disorders have been reported (frequency unknown): acute hepatic failure and cholestasis (both potentially fatal), toxic hepatitis, cytolytic hepatitis, mixed cytolytic/cholestatic hepatitis.
+Rhabdomyolysis
+Rare cases of rhabdomyolysis have been observed, some of them when lenalidomide is administered with a statin.
 
 [Revlimid 5 mg hard capsules]
 
@@ -154,7 +150,9 @@ The following hepatic disorders have been reported (frequency unknown): acute he
 [Revlimid 7.5 mg hard capsules]
 
 The adverse reactions observed in patients treated with lenalidomide/dexamethasone are listed below by system organ class and frequency.
-Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000), not known (cannot be estimated from the available data).
+Frequencies are defined as: very common (≥ 1/10); common
+(≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare
+(< 1/10,000), not known (cannot be estimated from the available data).
 
 The following table is derived from data gathered during the pivotal studies and from post-marketing data.
 The data were not adjusted according to the greater duration of treatment in the lenalidomide/dexamethasone versus the placebo/dexamethasone arms in the pivotal studies (see section 5.1).
