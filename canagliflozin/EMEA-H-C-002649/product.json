@@ -1,0 +1,16 @@
+{
+  "active_substance": "canagliflozin",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/002649",
+  "eu_number": "EU/1/13/884",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2013-11-15",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/invokana",
+  "molecule": "canagliflozin",
+  "molecule_name": "CANAGLIFLOZIN",
+  "name": "Invokana",
+  "register_name": "Invokana",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h884.htm"
+}
