@@ -31,13 +31,14 @@ Within each frequency grouping, undesirable effects are presented in order of de
 |  | Very common (≥ 1/10) | Common (≥ 1/100 to < 1/10) | Uncommon (≥ 1/1000 to < 1/100) | Rare (≥ 1/10,000 to < 1/1000) | Very rare (< 1/10,000) |
 | Blood and lymphatic system disorders |  | Thrombocytopen ia1 | Sickle cell crisis2; Leukocytosis1 |  |  |
 | Immune system disorders |  |  | Hypersensitivity reactions; Anaphylaxis |  |  |
-| Metabolism and nutrition disorders |  |  | Elevations in uric acid |  |  |
-| Nervous system | Headache1 |  |  |  |  |
+| Metabolism and nutrition |  |  | Elevations in uric acid |  |  |
 
 MedDRA Adverse reactions
 system organ class Very common (≥ 1/10) (≥ 1/100 to Common (≥ 1/1000 to < 1/100) Uncommon (≥ 1/10,000 Rare (< 1/10,000) Very rare
 < 1/10) to
 < 1/1000)
+disorders
+Nervous system Headache1
 disorders
 Vascular Capillary
 disorders leak

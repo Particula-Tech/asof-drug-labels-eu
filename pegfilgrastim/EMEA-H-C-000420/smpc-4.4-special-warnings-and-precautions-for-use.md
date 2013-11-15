@@ -57,3 +57,5 @@ Neulasta contains sorbitol.
 Patients with rare hereditary problems of fructose intolerance should not take this medicine.
 
 Neulasta contains less than 1 mmol (23 mg) sodium per 6 mg dose, i.e. essentially ‘sodium-free’.
+
+In order to improve the traceability of granulocyte-colony stimulating factors (G-CSFs), the trade name of the administered product should be clearly recorded in the patient file.
