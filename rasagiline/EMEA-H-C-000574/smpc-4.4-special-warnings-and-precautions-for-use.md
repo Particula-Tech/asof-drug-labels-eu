@@ -4,6 +4,17 @@ The concomitant use of rasagiline and fluoxetine or fluvoxamine should be avoide
 At least five weeks should elapse between discontinuation of fluoxetine and initiation of treatment with rasagiline.
 At least 14 days should elapse between discontinuation of rasagiline and initiation of treatment with fluoxetine or fluvoxamine.
 
+Impulse control disorders (ICDs) can occur in patients treated with dopamine agonists and/or dopaminergic treatments.
+Similar reports of ICDs have also been received post-marketing with rasagiline.
+Patients should be regularly monitored for the development of impulse control disorders.
+Patients and carers should be made aware of the behavioural symptoms of impulse control disorders that were observed in patients treated with rasagiline, including cases of compulsions, obsessive thoughts, pathological gambling, increased libido, hypersexuality, impulsive behaviour and compulsive spending or buying.
+
+Since rasagiline potentiates the effects of levodopa, the adverse effects of levodopa may be increased and pre-existing dyskinesia exacerbated.
+Decreasing the dose of levodopa may ameliorate this side effect.
+
+There have been reports of hypotensive effects when rasagiline is taken concomitantly with levodopa.
+Patients with Parkinson’s disease are particularly vulnerable to the adverse effects of hypotension due to existing gait issues.
+
 The concomitant use of rasagiline and dextromethorphan or sympathomimetics such as those present in nasal and oral decongestants or cold medicinal product containing ephedrine or pseudoephedrine is not recommended (see section 4.5).
 
 During the clinical development program, the occurrence of cases of melanoma prompted the consideration of a possible association with rasagiline.

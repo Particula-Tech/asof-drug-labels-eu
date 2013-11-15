@@ -6,7 +6,6 @@ Mechanism of action:
 
 Rasagiline was shown to be a potent, irreversible MAO-B selective inhibitor, which may cause an increase in extracellular levels of dopamine in the striatum.
 The elevated dopamine level and subsequent increased dopaminergic activity are likely to mediate rasagiline's beneficial effects seen in models of dopaminergic motor dysfunction.
-
 1-Aminoindan is an active major metabolite and it is not a MAO-B inhibitor.
 
 Clinical studies:

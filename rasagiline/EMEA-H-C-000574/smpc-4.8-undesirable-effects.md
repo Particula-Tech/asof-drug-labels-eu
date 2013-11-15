@@ -2,6 +2,7 @@
 
 In the rasagiline clinical program overall, 1,361 patients were treated with rasagiline for 3,076.4 patient years.
 In the double blind placebo controlled studies, 529 patients were treated with rasagiline 1 mg/day for 212 patient years and 539 patients received placebo for 213 patient years.
+
 Monotherapy
 The list below includes adverse reactions which were reported with a higher incidence in placebo-controlled studies, in patients receiving 1 mg/day rasagiline (rasagiline group n=149, placebo group n=151).
 
@@ -45,6 +46,7 @@ Renal and urinary disorders
 Common: urinary urgency (1.3% vs. 0.7%).
 General disorders and administration site conditions
 Common: fever (2.7% vs. 1.3%), malaise (2% vs. 0%)
+
 Adjunct Therapy
 
 The list below includes adverse reactions which were reported with a higher incidence in placebo-controlled studies in patients receiving 1 mg/day rasagiline (rasagiline group n=380, placebo group n=388).
@@ -87,10 +89,14 @@ In post marketing experience, these symptoms have also been observed in Parkinso
 
 Serious adverse reactions are known to occur with the concomitant use of SSRIs, SNRIs, tricyclic/ tetracyclic antidepressants and MAO inhibitors.
 In the post-marketing period, cases of serotonin syndrome associated with agitation, confusion, rigidity, pyrexia and myoclonus have been reported by patients treated with antidepressants/SNRI concomitantly with rasagiline.
-
 Rasagiline clinical trials did not allow concomitant use of fluoxetine or fluvoxamine with rasagiline, but the following antidepressants and doses were allowed in the rasagiline trials: amitriptyline ≤ 50 mg/daily, trazodone ≤ 100 mg/daily, citalopram ≤ 20 mg/daily, sertraline ≤ 100 mg/daily, and paroxetine ≤ 30 mg/daily.
 There were no cases of serotonin syndrome in the rasagiline clinical program in which 115 patients were exposed concomitantly to rasagiline and tricyclics and 141 patients were exposed to rasagiline and SSRIs/ SNRIs.
+
 In the post-marketing period, cases of elevated blood pressure, including rare cases of hypertensive crisis associated with ingestion of unknown amounts of tyramine-rich foods, have been reported in patients taking rasagiline.
 
 With MAO inhibitors, there have been reports of drug interactions with the concomitant use of sympathomimetic medicinal products.
 In post marketing period, there was one case of elevated blood pressure in a patient using the ophthalmic vasoconstrictor tetrahydrozoline hydrochloride while taking rasagiline.
+
+Impulse control disorders
+Pathological gambling, increased libido, hypersexuality, compulsive spending or buying, binge eating and compulsive eating can occur in patients treated with dopamine agonists and/or other dopaminergic treatments.
+A similar pattern of impulse control disorders has been reported post-marketing with rasagiline, which also included compulsions, obsessive thoughts and impulsive behaviour (see section 4.4).

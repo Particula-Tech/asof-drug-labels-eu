@@ -4,5 +4,4 @@ Hypersensitivity to the active substance or to any of the excipients (see sectio
 
 Concomitant treatment with other monoamine oxidase (MAO) inhibitors (including medicinal and natural products without prescription e.g. St. John's Wort) or pethidine (see section 4.5).
 At least 14 days must elapse between discontinuation of rasagiline and initiation of treatment with MAO inhibitors or pethidine.
-
 Rasagiline is contraindicated in patients with severe hepatic impairment.
