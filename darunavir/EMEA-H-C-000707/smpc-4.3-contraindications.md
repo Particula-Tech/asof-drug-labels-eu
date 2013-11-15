@@ -19,6 +19,7 @@ These active substances include e.g.:
 - ergot derivatives (e.g. dihydroergotamine, ergometrine, ergotamine, methylergonovine)
 - gastrointestinal motility agents (cisapride)
 - neuroleptics (pimozide, sertindole)
+- quetiapine (see section 4.5)
 - sedatives/hypnotics [triazolam, midazolam administered orally (for caution on parenterally administered midazolam, see section 4.5)]
 - sildenafil (when used for the treatment of pulmonary arterial hypertension)
 - HMG-CoA reductase inhibitors (simvastatin and lovastatin) (see section 4.5).
