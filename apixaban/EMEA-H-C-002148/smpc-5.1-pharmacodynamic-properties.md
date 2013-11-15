@@ -41,6 +41,7 @@ The ADVANCE-3 study included 5,407 patients undergoing elective hip replacement,
 Subjects received either apixaban 2.5 mg given orally twice daily (po bid) or enoxaparin 40 mg administered subcutaneously once daily (sc od).
 The first dose of apixaban was given 12 to 24 hours post-surgery, whereas enoxaparin was started 9 to 15 hours prior to surgery.
 Both apixaban and enoxaparin were given for 32-38 days in the ADVANCE-3 study and for 10-14 days in the ADVANCE-2 study.
+
 Based on patient medical history in the studied population of ADVANCE-3 and ADVANCE-2
 (8,464 patients), 46% had hypertension, 10% had hyperlipidemia, 9% had diabetes, and 8% had coronary artery disease.
 
@@ -52,7 +53,7 @@ Table 2: Efficacy results from pivotal phase III studies
 | --- | --- | --- | --- | --- | --- | --- |
 | Study treatment Dose Duration of treatment | Apixaban 2.5 mg po bid 35 ± 3 d | Enoxaparin 40 mg sc od 35 ± 3 d | p-value | Apixaban 2.5 mg po bid 12 ± 2 d | Enoxaparin 40 mg sc od 12 ± 2 d | p-value |
 | Total VTE/all-cause death |  |  |  |  |  |  |
-| Number of events/subjects Event Rate | 27/1949 1.39% | 74/1917 3.86% | <0.000 1 | 147/976 15.06% | 243/997 24.37% | <0.000 1 |
+| Number of events/subjects Event Rate | 27/1949 1.39% | 74/1917 3.86% | <0.0001 | 147/976 15.06% | 243/997 24.37% | <0.0001 |
 | Relative Risk 95% CI | 0.36 (0.22, 0.54) |  |  | 0.62 (0.51, 0.74) |  |  |
 | Major VTE |  |  |  |  |  |  |
 | Number of events/subjects Event Rate | 10/2199 0.45% | 25/2195 1.14% | 0.0107 | 13/1195 1.09% | 26/1199 2.17% | 0.0373 |
@@ -83,6 +84,7 @@ Table 3: Bleeding results from pivotal phase III studies*
 2 Includes events occurring after first dose of apixaban (post-surgery)
 
 The overall incidences of adverse reactions of bleeding, anaemia and abnormalities of transaminases (e.g., alanine aminotransferase levels) were numerically lower in patients on apixaban compared to enoxaparin in the phase II and phase III studies in elective hip and knee replacement surgery.
+
 In the knee replacement surgery study during the intended treatment period, in the apixaban arm 4 cases of PE were diagnosed against no cases in the enoxaparin arm.
 No explanation can be given to this higher number of PE.
 
@@ -104,7 +106,7 @@ In the study, apixaban achieved statistically significant superiority in the pri
 
 Table 4: Efficacy Outcomes in Patients with Atrial Fibrillation in the ARISTOTLE Study
 
-|  | Apixaban N=9120 n (%/yr) | Warfarin N=9081 n (%/yr) | Hazard Ratio (95% CI) | P-Value |
+|  | Apixaban N=9120 n (%/yr) | Warfarin N=9081 n (%/yr) | Hazard Ratio (95% CI) | p-value |
 | --- | --- | --- | --- | --- |
 | Stroke or systemic embolism | 212 (1.27) | 265 (1.60) | 0.79 (0.66, 0.95) | 0.0114 |
 | Stroke |  |  |  |  |
@@ -119,6 +121,7 @@ Apixaban showed a reduction of stroke and systemic embolism compared to warfarin
 Key secondary endpoints of major bleeding and all cause death were tested in a pre-specified hierarchical testing strategy to control the overall type 1 error in the trial.
 Statistically significant superiority was also achieved in the key secondary endpoints of both major bleeding and all-cause death (see Table 5).
 With improving monitoring of INR the observed benefits of apixaban compared to warfarin regarding all cause death diminish.
+
 Table 5: Secondary endpoints in Patients with Atrial Fibrillation in the ARISTOTLE Study
 
 |  | Apixaban N = 9088 n (%/year) | Warfarin N = 9052 n (%/year) | Hazard Ratio (95% CI) | p-value |
@@ -150,15 +153,15 @@ Patients were exposed to study drug for a mean of 14 months.
 The mean age was 69.9 years, the mean CHADS2 score was 2.0 and 13.6% of patients had prior stroke or TIA.
 
 Common reasons for unsuitability for VKA therapy in the AVERROES study included unable/unlikely to obtain INRs at requested intervals (42.6%), patient refused treatment with VKA (37.4%), CHADS2 score = 1 and physician did not recommend VKA (21.3%), patient could not be relied on to adhere to VKA medication instruction (15.0%), and difficulty/expected difficulty in contacting patient in case of urgent dose change (11.7%).
-
 AVERROES was stopped early based on a recommendation by the independent Data Monitoring Committee due to clear evidence of reduction of stroke and systemic embolism with an acceptable safety profile.
 
 The overall discontinuation rate due to adverse reactions was 1.5% for apixaban and 1.3% for ASA in the AVERROES study.
 
 In the study, apixaban achieved statistically significant superiority in the primary endpoint of prevention of stroke (haemorrhagic, ischaemic or unspecified) or systemic embolism (see Table 6) compared to ASA.
+
 Table 6: Key Efficacy Outcomes in Patients with Atrial Fibrillation in the AVERROES Study
 
-|  | Apixaban N = 2807 n (%/year) | ASA N = 2791 n (%/year) | Hazard Ratio (95% CI) | P-Value |
+|  | Apixaban N = 2807 n (%/year) | ASA N = 2791 n (%/year) | Hazard Ratio (95% CI) | p-value |
 | --- | --- | --- | --- | --- |
 | Stroke or systemic embolism* | 51 (1.62) | 113 (3.63) | 0.45 (0.32, 0.62) | < 0.0001 |
 | Stroke |  |  |  |  |
@@ -221,6 +224,7 @@ In the study, apixaban achieved statistically significant superiority in the pri
 Table 4: Key Efficacy Outcomes in Patients with Atrial Fibrillation in the AVERROES Study
 
 There was no statistically significant difference in the incidence of major bleeding between apixaban and ASA (see Table 5).
+
 Table 5: Bleeding Events in Patients with Atrial Fibrillation in the AVERROES Study
 
 |  | Apixaban N = 2798 n(%/year) | ASA N = 2780 n (%/year) | Hazard Ratio (95%CI) | p-value |

@@ -17,7 +17,6 @@ The incidence of ISTH major intraocular bleeding with apixaban was 0.18%/year.
 
 Tabulated list of adverse reactions
 Table 1 shows the adverse reactions ranked under headings of System Organ Class and frequency using the following convention: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data) for both VTEp and NVAF.
-
 Table 1
 
 | System Organ Class | VTEp | NVAF |
@@ -40,7 +39,7 @@ Table 1
 | Intra-abdominal haemorrhage | - | Uncommon |
 | Respiratory, thoracic and mediastinal disorders |  |  |
 | Epistaxis | Uncommon | Common |
-| Haemoptysis | Rare | - |
+| Haemoptysis | Rare | Uncommon |
 | Respiratory tract haemorrhage (including pulmonary alveolar haemorrhage, laryngeal haemorrhage and pharyngeal haemorrhage) | - | Rare |
 | Gastrointestinal disorders |  |  |
 | Nausea | Common | - |
@@ -70,6 +69,11 @@ Table 1
 The use of Eliquis may be associated with an increased risk of occult or overt bleeding from any tissue or organ, which may result in posthaemorrhagic anaemia.
 The signs, symptoms, and severity will vary according to the location and degree or extent of the bleeding (see section 4.4 and section 5.1).
 
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
 [Eliquis 5 mg film-coated tablets]
 
 The safety of apixaban has been investigated in 11,886 patients in NVAF studies treated for an average total exposure of 1.7 years.
@@ -91,6 +95,7 @@ Table 1 shows the adverse reactions ranked under headings of System Organ Class 
 | Intra-abdominal haemorrhage | Uncommon |
 | Respiratory, thoracic and mediastinal disorders |  |
 | Epistaxis | Common |
+| Haemoptysis | Uncommon |
 | Respiratory tract haemorrhage (including pulmonary alveolar haemorrhage, laryngeal haemorrhage and pharyngeal haemorrhage) | Rare |
 | Gastrointestinal disorders |  |
 | Gastrointestinal haemorrhage (including haematemesis and melaena). rectal haemorrhage, gingival bleeding | Common |

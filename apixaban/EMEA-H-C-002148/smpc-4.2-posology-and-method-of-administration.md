@@ -1,6 +1,7 @@
 # 4.2 Posology and method of administration
 
 Posology
+
 Prevention of VTE (VTEp): elective hip or knee replacement surgery
 The recommended dose of Eliquis is 2.5 mg taken orally twice daily.
 The initial dose should be taken 12 to 24 hours after surgery.
@@ -15,10 +16,10 @@ The recommended duration of treatment is 10 to 14 days.
 
 Prevention of stroke and systemic embolism in patients with non-valvular atrial fibrillation (NVAF)
 The recommended dose of Eliquis is 5 mg taken orally twice daily.
-
 Dose reduction
 The recommended dose of Eliquis is 2.5 mg taken orally twice daily in patients with NVAF and at least two of the following characteristics: age ≥80 years, body weight ≤60 kg, or serum creatinine
 ≥1.5 mg/dl (133 micromole/l).
+
 Therapy should be continued long term.
 
 Missed Dose
@@ -57,7 +58,6 @@ It should be used with caution in patients with mild or moderate hepatic impairm
 Patients with elevated liver enzymes (ALT/AST >2 x ULN) or total bilirubin ≥1.5 x ULN were excluded in clinical trials.
 Therefore Eliquis should be used with caution in this population (see sections 4.4 and 5.2).
 Prior to initiating Eliquis, liver function testing should be performed.
-
 Body weight
 VTEp - No dose adjustment required (see section 5.2).
 NVAF - No dose adjustment required, unless criteria for dose reduction are met (see Dose reduction at the beginning of section 4.2).

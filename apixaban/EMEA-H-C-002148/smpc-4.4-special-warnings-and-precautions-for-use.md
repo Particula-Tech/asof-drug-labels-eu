@@ -11,8 +11,8 @@ Due to an increased bleeding risk, concomitant treatment with any other anticoag
 
 The concomitant use of Eliquis with antiplatelet agents increases the risk of bleeding (see section 4.5).
 Care is to be taken if patients are treated concomitantly with non-steroidal anti-inflammatory drugs (NSAIDs), including acetylsalicylic acid.
-
 Following surgery, other platelet aggregation inhibitors are not recommended concomitantly with Eliquis (see section 4.5).
+
 In patients with atrial fibrillation and conditions that warrant mono or dual antiplatelet therapy, a careful assessment of the potential benefits against the potential risks should be made before combining this therapy with Eliquis.
 
 In a clinical trial of patients with atrial fibrillation, concomitant use of ASA increased the major bleeding risk on apixaban from 1.8% per year to 3.4% per year and increased the bleeding risk on warfarin from 2.7% per year to 4.6% per year.
@@ -22,6 +22,10 @@ In a clinical trial of high-risk post acute coronary syndrome patients, characte
 
 Use of Thrombolytic agents for the treatment of acute ischemic stroke
 There is very limited experience with the use of thrombolytic agents for the treatment of acute ischemic stroke in patients administered apixaban.
+
+Patients with prosthetic heart valves
+Safety and efficacy of Eliquis have not been studied in patients with prosthetic heart valves, with or without atrial fibrillation.
+Therefore, the use of Eliquis is not recommended in this setting.
 
 Surgery and invasive procedures
 Eliquis should be discontinued at least 48 hours prior to elective surgery or invasive procedures with a moderate or high risk of bleeding.
@@ -84,11 +88,11 @@ Prior to initiating Eliquis, liver function testing should be performed.
 Interaction with inhibitors of both cytochrome P450 3A4 (CYP3A4) and P-glycoprotein (P-gp)
 The use of Eliquis is not recommended in patients receiving concomitant systemic treatment with strong inhibitors of both CYP3A4 and P-gp, such as azole-antimycotics (e.g., ketoconazole, itraconazole, voriconazole and posaconazole) and HIV protease inhibitors (e.g., ritonavir).
 These medicinal products may increase apixaban exposure by 2-fold (see section 4.5) or greater in the presence of additional factors that increase apixaban exposure (e.g., severe renal impairment).
-
 Interaction with inducers of both CYP3A4 and P-gp
 The concomitant use of Eliquis with strong CYP3A4 and P-gp inducers (e.g., rifampicin, phenytoin, carbamazepine, phenobarbital or St. John’s Wort) may lead to a ~50% reduction in apixaban exposure.
 In a clinical study in atrial fibrillation patients, diminished efficacy and a higher risk of bleeding were observed with coadministration of apixaban with strong inducers of both CYP3A4 and P-gp compared with using apixaban alone.
 Strong inducers of both CYP3A4 and P-gp should be co-administered with caution (see section 4.5).
+
 Hip fracture surgery
 Apixaban has not been studied in clinical trials in patients undergoing hip fracture surgery to evaluate efficacy and safety in these patients.
 Therefore, it is not recommended in these patients.
