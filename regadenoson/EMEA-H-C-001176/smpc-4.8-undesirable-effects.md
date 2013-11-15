@@ -7,6 +7,7 @@ The most common adverse reactions reported during clinical development in a tota
 
 Rapiscan may cause myocardial ischaemia (potentially associated with fatal cardiac arrest, life-threatening ventricular arrhythmias, and myocardial infarction), hypotension leading to syncope and transient ischaemic attacks, and SA/AV node block leading to first, second or third degree
 AV block, or sinus bradycardia requiring intervention (see section 4.4).
+Signs of hypersensitivity (rash, urticaria, angioedema, anaphylaxis and/or throat tightness) may be immediate or delayed onset.
 Aminophylline may be used to attenuate severe or persistent adverse reactions to Rapiscan (see section 4.4).
 
 Tabulated summary of adverse reactions
@@ -16,16 +17,20 @@ Frequencies are defined as very common (≥ 1/10), common
 (≥ 1/100 to < 1/10) and uncommon (≥ 1/1,000 to < 1/100).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-| Psychiatric disorders: |  |
-| --- | --- |
-| Uncommon | Anxiety, insomnia |
-| Nervous system disorders: |  |
-| Very common | Headache, dizziness |
-| Common | Paraesthesia, hypoaesthesia, dysgeusia |
-| Uncommon | Convulsions, syncope, transient ischaemic attack, unresponsiveness to stimuli, depressed level of consciousness, tremor, somnolence |
-| Eye disorders: |  |
-| Uncommon | Vision blurred, eye pain |
+| Immune system disorders: |  |  |  |
+| --- | --- | --- | --- |
+| Uncommon |  | Hypersensitivity reactions including: | Rash, urticaria, angioedema, anaphylaxis |
+| Psychiatric disorders: |  |  |  |
+| Uncommon | Anxiety, insomnia |  |  |
+| Nervous system disorders: |  |  |  |
+| Very common | Headache, dizziness |  |  |
+| Common | Paraesthesia, hypoaesthesia, dysgeusia |  |  |
+| Uncommon | Convulsions, syncope, transient ischaemic attack, unresponsiveness to stimuli, depressed level of consciousness, tremor, somnolence |  |  |
+| Eye disorders: |  |  |  |
+| Uncommon | Vision blurred, eye pain |  |  |
+
 | Ear and labyrinth disorders: |  |
+| --- | --- |
 | Uncommon | Tinnitus |
 | Cardiac disorders: |  |
 | Very common | Electrocardiogram ST segment changes |
