@@ -18,10 +18,9 @@ The most frequent reported or observed serious adverse drug reactions were:
 
 Other serious ADRs reported include hepatitis B reactivation and PML (see section 4.4.).
 
-The frequencies of ADRs reported with MabThera alone or in combination with chemotherapy are summarised in the tables below.
+The frequencies of ADRs reported with MabThera alone or in combination with chemotherapy are summarised in Table 1.
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
-Frequencies are defined as very common (≥ 1/10), common
-(≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1000) and very rare (< 1/10,000).
+Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1000) and very rare (< 1/10,000).
 The ADRs identified only during post-marketing surveillance, and for which a frequency could not be estimated, are listed under “not known”.
 
 Table 1 ADRs reported in clinical trials or during postmarketing surveillance in patients with NHL and CLL disease treated with MabThera monotherapy/maintenance or in combination with chemotherapy
@@ -30,17 +29,17 @@ Table 1 ADRs reported in clinical trials or during postmarketing surveillance in
 | --- | --- | --- | --- | --- | --- | --- |
 | Infections and infestations | bacterial infections, viral infections, +bronchitis | sepsis, +pneumonia, +febrile infection, +herpes zoster, +respiratory tract infection, fungal infections, infections of unknown aetiology, +acute bronchitis, +sinusitis, hepatitis B1 |  | serious viral infection2 Pneumocystis jirovecii | PML |  |
 | Blood and lymphatic system disorders | neutropenia, leucopenia, +febrile neutropenia, +thrombocyt openia | anaemia, +pancytopenia, +granulocytopeni a | coagulation disorders, aplastic anaemia, haemolytic anaemia, lymphadenopa thy |  | transient increase in serum IgM levels3 | late neutropenia3 |
-| Immune system disorders | infusion related reactions4, angioedema | hypersensitivity |  | anaphylaxis | tumour lysis syndrome, cytokine release syndrome4, serum sickness | infusion-related acute reversible t4hrombocytopenia |
+| Immune system disorders | infusion related reactions4, angioedema | hypersensitivity |  | anaphylaxis | tumour lysis syndrome, cytokine release syndrome4, serum sickness | infusion-related acute reversible 4thrombocytopenia |
 | Metabolism and nutrition disorders |  | hyperglycaemia, weight decrease, peripheral oedema, face oedema, increased LDH, hypocalcaemia |  |  |  |  |
 | Psychiatric disorders |  |  | depression, nervousness, |  |  |  |
-| Nervous system disorders |  | paraesthesia, hypoaesthesia, agitation, insomnia, vasodilatation, dizziness, anxiety | dysgeusia |  | peripheral neuropathy, facial nerve palsy5 | cranial neuropathy, loss of other senses5 |
+| Nervous system disorders |  | paraesthesia, hypoaesthesia, agitation, insomnia, vasodilatation, dizziness, anxiety | Dysgeusia |  | peripheral neuropathy, facial nerve palsy5 | cranial neuropathy, loss of other senses5 |
 | Eye disorders |  | lacrimation disorder, conjunctivitis |  |  | severe vision loss5 |  |
 | Ear and labyrinth disorders |  | tinnitus, ear pain |  |  |  | hearing loss5 |
 | Cardiac disorders |  | +myocardial infarction4 and 6, arrhythmia, +atrial fibrillation, tachycardia, +cardiac disorder | +left ventricular failure, +supraventricu lar tachycardia, +ventricular tachycardia, +angina, +myocardial ischaemia, bradycardia | severe cardiac events 4 and 6 | haneda 6rt failure4 |  |
 | Vascular disorders |  | hypertension, orthostatic hypotension, hypotension |  |  | vasculitis (predominatel y cutaneous), leukocytoclast ic vasculitis |  |
 | Respiratory, thoracic and mediastinal disorders |  | Bronchospasm4, respiratory disease, chest pain, dyspnoea, increased cough, rhinitis | asthma, bronchiolitis obliterans, lung disorder, hypoxia | interstitial lung disease7 | respiratory failure4, | lung infiltration, |
 | Gastrointestin al disorders | nausea | vomiting , diarrhoea, abdominal pain, dysphagia, stomatitis, constipation, dyspepsia, anorexia, throat irritation | abdominal enlargement |  | gastro-intestinal perforation7 |  |
-| Skin and subcutaneous tissue disorders | pruritis, rash, +alopecia | urticaria, sweating, night sweats, +skin disorder |  |  | severe bullous skin reactions, Stevens-Johnson Syndrome toxic epidermal necrolysis (Lyell’s Syndrome) 7, |  |
+| Skin and subcutaneous tissue disorders | pruritus, rash, +alopecia | urticaria, sweating, night sweats, +skin disorder |  |  | severe bullous skin reactions, Stevens-Johnson Syndrome toxic epidermal necrolysis (Lyell’s Syndrome) 7, |  |
 | Musculoskelet al, connective tissue and bone disorders |  | hypertonia, myalgia, arthralgia, back pain, neck pain, pain |  |  |  |  |
 | Renal and urinary disorders |  |  |  |  | renal failure4 |  |
 
@@ -55,7 +54,7 @@ The following terms have been reported as adverse events during clinical trials,
 Infusion-related reactions
 Signs and symptoms suggestive of an infusion-related reaction were reported in more than 50% of patients in clinical trials, and were predominantly seen during the first infusion, usually in the first one to two hours.
 These symptoms mainly comprised fever, chills and rigors.
-Other symptoms included flushing, angioedema, bronchospasm, vomiting, nausea, urticaria/rash, fatigue, headache, throat irritation, rhinitis, pruritus, pain, tachycardia, hypertension, hypotension, dyspnoea, dyspepsia, asthenia and features of tumor lysis syndrome.
+Other symptoms included flushing, angioedema, bronchospasm, vomiting, nausea, urticaria/rash, fatigue, headache, throat irritation, rhinitis, pruritus, pain, tachycardia, hypertension, hypotension, dyspnoea, dyspepsia, asthenia and features of tumour lysis syndrome.
 Severe infusion-related reactions (such as bronchospasm, hypotension) occurred in up to 12% of the cases.
 Additional reactions reported in some cases were myocardial infarction, atrial fibrillation, pulmonary oedema and acute reversible thrombocytopenia.
 Exacerbations of pre-existing cardiac conditions such as angina pectoris or congestive heart failure or severe cardiac events (heart failure, myocardial infarction, atrial fibrillation), pulmonary oedema, multi-organ failure, tumour lysis syndrome, cytokine release syndrome, renal failure, and respiratory failure were reported at lower or unknown frequencies.
@@ -73,7 +72,7 @@ Examples of these serious viral infections are infections caused by the herpes v
 Cases of fatal PML that occurred after disease progression and retreatment have also been reported in clinical trials.
 Cases of hepatitis B reactivation, have been reported, the majority of which were in subjects receiving MabThera in combination with cytotoxic chemotherapy.
 In patients with relapsed/refractory CLL, the incidence of grade 3/4 hepatitis B infection (reactivation and primary infection) was 2% in R-FC vs 0% FC.
-Progression of Kaposi’s sarcoma has been observed in rituximab-exposed patients with pre-existing Kaposi’s sarcoma.
+Progression of Kaposi’s sarcoma has been observed in MabThera-exposed patients with pre-existing Kaposi’s sarcoma.
 These cases occurred in non-approved indications and the majority of patients were HIV positive.
 
 Haematologic adverse reactions
@@ -116,7 +115,7 @@ A diagnosis of PRES/RPLS requires confirmation by brain imaging.
 The reported cases had recognized risk factors for PRES/RPLS, including the patients’ underlying disease, hypertension, immunosuppressive therapy and/or chemotherapy.
 
 Gastrointestinal disorders
-Gastrointestinal perforation in some cases leading to death has been observed in patients receiving MabThera for treatment of non-Hodkgin lymphoma.
+Gastrointestinal perforation in some cases leading to death has been observed in patients receiving MabThera for treatment of non-Hodgkin lymphoma.
 In the majority of these cases, MabThera was administered with chemotherapy.
 
 IgG levels
@@ -131,7 +130,7 @@ Skin and subcutaneous tissue disorders:
 Toxic Epidermal Necrolysis (Lyell Syndrome) and Stevens-Johnson Syndrome, some with fatal outcome, have been reported very rarely.
 
 Patient subpopulations - MabThera monotherapy
-Elderly patients (≥ 65 years):
+Older people (≥ 65 years):
 The incidence of ADRs of all grades and grade 3 /4 ADR was similar in elderly patients compared to younger patients (<65 years).
 
 Bulky disease
@@ -141,7 +140,7 @@ The incidence of ADRs of any grade was similar in these two groups.
 Re-treatment
 The percentage of patients reporting ADRs upon re-treatment with further courses of MabThera was similar to the percentage of patients reporting ADRs upon initial exposure (any grade and grade 3/4 ADRs).
 Patient subpopulations - MabThera combination therapy
-Elderly patients (≥ 65 years)
+Older people (≥ 65 years)
 The incidence of grade 3/4 blood and lymphatic adverse events was higher in elderly patients compared to younger patients (<65 years), with previously untreated or relapsed/refractory CLL.
 
 Experience from rheumatoid arthritis
@@ -161,7 +160,7 @@ Within each frequency grouping, undesirable effects are presented in order of de
 The most frequent adverse reaction considered due to receipt of MabThera were infusion related reactions.
 The overall incidence of IRRs in clinical trials was 23% with the first infusion and decreased with subsequent infusions.
 Serious IRRs were uncommon (0.5% of patients) and were predominantly seen during the initial course.
-In addition to adverse reactions seen in RA clinical trials for rituximab, progressive multifocal leukoencephalopathy (PML) (see section 4.4) and serum sickness-like reaction have been reported during post marketing experience.
+In addition to adverse reactions seen in RA clinical trials for MabThera, progressive multifocal leukoencephalopathy (PML) (see section 4.4) and serum sickness-like reaction have been reported during post marketing experience.
 Table 2 Summary of adverse drug reactions reported in clinical trials or during postmarketing surveillance occurring in patients with rheumatoid arthritis receiving MabThera
 
 | System Organ Class | Very Common | Common | Uncommon | Rare | Very rare |
@@ -169,7 +168,7 @@ Table 2 Summary of adverse drug reactions reported in clinical trials or during 
 | Infections and Infestations | upper respiratory tract infection, urinary tract infections | Bronchitis, sinusitis, gastroenteritis, tinea pedis |  |  | PML, reactivation of hepatitis B |
 | Blood and lymphatic system disorders |  | neutropenia1 |  | late neutropenia2 | Serum sickness-like reaction |
 | Cardiac Disorders |  |  |  | Angina pectoris, atrial fibrillation, heart failure, myocardial infarction | Atrial flutter |
-| Immune System Disorders | 3Infusion related reactions (hypertension, nausea, rash, pyrexia, pruritis, urticaria, throat irritation, hot flush, hypotension, rhinitis, rigors, tachycardia, fatigue, oropharyngeal pain, peripheral oedema, erythema) |  | 3Infusion related reactions (generalized oedema, bronchospasm, wheezing, laryngeal oedema, angioneurotic oedema, generalized pruritis, anaphylaxis, anaphylactoid reaction) |  |  |
+| Immune System Disorders | 3Infusion related reactions (hypertension, nausea, rash, pyrexia, pruritus, urticaria, throat irritation, hot flush, hypotension, rhinitis, rigors, tachycardia, fatigue, oropharyngeal pain, peripheral oedema, erythema) |  | 3Infusion related reactions (generalized oedema, bronchospasm, wheezing, laryngeal oedema, angioneurotic oedema, generalized pruritis, anaphylaxis, anaphylactoid reaction) |  |  |
 | General disorders and administration site conditions |  |  |  |  |  |
 | Metabolism and Nutritional Disorders |  | hypercholesterolemia |  |  |  |
 | Nervous System disorders | headache | paraesthesia, migraine, dizziness, sciatica |  |  |  |
@@ -200,11 +199,11 @@ The overall rate of infection was approximately 94 per 100 patient years in MabT
 The infections were predominately mild to moderate and consisted mostly of upper respiratory tract infections and urinary tract infections.
 The incidence of infections that were serious or required IV antibiotic was approximately 4 per 100 patient years.
 The rate of serious infections did not show any significant increase following multiple courses of MabThera.
-Lower respiratory tract infections (including pneumonia) have been reported during clinical trials, at a similar incidence in the Mabthera arms compared to control arms.
+Lower respiratory tract infections (including pneumonia) have been reported during clinical trials, at a similar incidence in the MabThera arms compared to control arms.
 
 Cases of progressive multifocal leukoencephalopathy with fatal outcome have been reported following use of MabThera for the treatment of autoimmune diseases.
 This includes Rheumatoid Arthritis and off-label autoimmune diseases, including Systemic Lupus Erythematosus (SLE) and Vasculitis.
-In patients with non-Hodgkin’s lymphoma receiving rituximab in combination with cytotoxic chemotherapy, cases of hepatitis B reactivation have been reported (see non-Hodgkin’s lymphoma).
+In patients with non-Hodgkin’s lymphoma receiving MabThera in combination with cytotoxic chemotherapy, cases of hepatitis B reactivation have been reported (see non-Hodgkin’s lymphoma).
 Reactivation of hepatitis B infection has also been very rarely reported in RA patients receiving MabThera (see Section 4.4).
 
 Cardiovascular
@@ -215,7 +214,7 @@ Neutropenia
 Events of neutropenia were observed with MabThera treatment, the majority of which were transient and mild or moderate in severity.
 Neutropenia can occur several months after the administration of MabThera (see section 4.4).
 
-In placebo-controlled periods of clinical trials, 0.94% (13/1382) of rituximab treated patients and 0.27% (2/731) of placebo patients developed severe neutropenia.
+In placebo-controlled periods of clinical trials, 0.94% (13/1382) of MabThera treated patients and 0.27% (2/731) of placebo patients developed severe neutropenia.
 
 Neutropenic events, including severe late onset and persistent neutropenia, have been rarely reported in the post-marketing setting, some of which were associated with fatal infections
 
@@ -324,17 +323,24 @@ The effect of multiple MabThera courses on the development of neutropenia in Gra
 Skin and subcutaneous tissue disorders:
 Toxic Epidermal Necrolysis (Lyell’s Syndrome) and Stevens-Johnson Syndrome, some with fatal outcome, have been reported very rarely.
 
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
 [MabThera 500 mg concentrate for solution for infusion]
 
 The incidence of infusion-related symptoms decreases substantially with subsequent infusions and is less than 1% after eight doses of MabThera.
 
 Infectious events (predominantly bacterial and viral) occurred in approximately 30-55% of patients during clinical trials in patients with NHL and in 30-50% of patients during clinical trials in patients with CLL
 
+The frequencies of ADRs reported with MabThera alone or in combination with chemotherapy are summarised inTable 1.
+
 | System Organ Class | Very Common | Common | Uncommon | Rare | Very Rare | Not known8 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Infections and infestations | bacterial infections, viral infections, +bronchitis | sepsis, +pneumonia, +febrile infection, +herpes zoster, +respiratory tract infection, fungal infections, infections of unknown aetiology, +acute bronchitis, +sinusitis, hepatitis B1 |  | serious viral infection2 Pneumocystis jirovecii | PML |  |
 | Blood and lymphatic system disorders | neutropenia, leucopenia, +febrile neutropenia, +thrombocyt openia | anaemia, +pancytopenia, +granulocytopeni a | coagulation disorders, aplastic anaemia, haemolytic anaemia, lymphadenopa thy |  | transient increase in serum IgM levels3 | late neutropenia3 |
-| Immune system disorders | infusion related reactions4, angioedema | hypersensitivity |  | anaphylaxis | tumour lysis syndrome, cytokine release syndrome4, serum sickness | infusion-related acute reversible t4hrombocytopenia |
+| Immune system disorders | infusion related reactions4, angioedema | hypersensitivity |  | anaphylaxis | tumour lysis syndrome, cytokine release syndrome4, serum sickness | infusion-related acute reversible 4thrombocytopenia |
 | Metabolism and nutrition disorders |  | hyperglycaemia, weight decrease, peripheral oedema, face oedema, increased LDH, hypocalcaemia |  |  |  |  |
 | Psychiatric disorders |  |  | depression, nervousness, |  |  |  |
 | Nervous system disorders |  | paraesthesia, hypoaesthesia, agitation, insomnia, vasodilatation, dizziness, anxiety | dysgeusia |  | peripheral neuropathy, facial nerve palsy5 | cranial neuropathy8, loss of other senses5 |
@@ -344,7 +350,7 @@ Infectious events (predominantly bacterial and viral) occurred in approximately 
 | Vascular disorders |  | hypertension, orthostatic hypotension, hypotension |  |  | vasculitis (predominatel y cutaneous), leukocytoclast ic vasculiti |  |
 | Respiratory, thoracic and mediastinal disorders |  | Bronchospasm4, respiratory disease, chest pain, dyspnoea, increased cough, rhinitis | asthma, bronchiolitis obliterans, lung disorder, hypoxia | interstitial lung disease7 | respiratory failure4 | lung infiltration |
 | Gastrointestin al disorders | nausea | vomiting , diarrhoea, abdominal pain, dysphagia, stomatitis, constipation, dyspepsia, anorexia, throat irritation | abdominal enlargement |  | gastro-intestinal perforation7 |  |
-| Skin and subcutaneous tissue disorders | pruritis, rash, +alopecia | urticaria, sweating, night sweats, +skin disorder |  |  | severe bullous skin reactions, Stevens-Johnson Syndrome toxic epidermal necrolysis (Lyell’s Syndrome) 7, |  |
+| Skin and subcutaneous tissue disorders | pruritus, rash, +alopecia | urticaria, sweating, night sweats, +skin disorder |  |  | severe bullous skin reactions, Stevens-Johnson Syndrome toxic epidermal necrolysis (Lyell’s Syndrome) 7, |  |
 | Musculoskelet al, connective tissue and bone disorders |  | hypertonia, myalgia, arthralgia, back pain, neck pain, pain |  |  |  |  |
 | Renal and urinary disorders |  |  |  |  | renal failure4 |  |
 | General disorders and administration site conditions | fever , chills, asthenia, headache | tumour pain, flushing, malaise, cold syndrome, +fatigue, +shivering, +multi-organ failure4 | infusion site pain |  |  |  |
@@ -359,9 +365,12 @@ The incidence of thrombocytopenia was low ( <1% , grade 3/4 ) and was not differ
 
 In contrast, three patients (1.5 %) had cerebrovascular events in the CHOP group, all of which occurred during the follow-up period.
 
+Gastrointestinal perforation in some cases leading to death has been observed in patients receiving MabThera for treatment of non-Hodgkgin lymphoma.
+
 Frequencies are defined as very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100) and very rare (<1/10,000).
 
 The most frequent adverse reactions considered due to receipt of MabThera infusion related reactions.
+In addition to adverse reactions seen in RA clinical trials forMabThera, progressive multifocal leukoencephalopathy (PML) (see section 4.4) and serum sickness-like reaction have been reported during post marketing experience.
 
 | System Organ Class | Very Common | Common | Uncommon | Rare | Very rare |
 | --- | --- | --- | --- | --- | --- |
@@ -388,6 +397,8 @@ The incidence of infections that were serious or required IV antibiotics, was ap
 Lower respiratory tract infections (including pneumonia) have been reported during clinical trials, at a similar incidence in the MabThera-arms compared to control arms.
 
 Serious cardiac events were reported at a rate of 1.3 per 100 patient years in the MabThera treated patients compared to 1.3 per 100 patient yearsin placebo treated patients.
+
+In placebo-controlled periods of clinical trials, 0.94% (13/1382) of MabTheratreated patients and 0.27% (2/731) of placebo patients developed severe neutropenia.
 
 | Body System | Rituximab |
 | --- | --- |

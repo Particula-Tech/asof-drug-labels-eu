@@ -6,7 +6,7 @@ Progressive multifocal leukoencephalopathy
 
 All patients treated with MabThera for rheumatoid arthritis, Granulomatosis with polyangiitis and Microscopic polyangiitis must be given the patient alert card with each infusion (see end of Annex IIIA - Labelling).
 The alert card contains important safety information for patients regarding potential increased risk of infections, including progressive multifocal leukoencephalopathy (PML).
-Very rare cases of fatal PML have been reported following use ofMabThera.
+Very rare cases of fatal PML have been reported following use of MabThera.
 Patients must be monitored at regular intervals for any new or worsening neurological symptoms or signs that may be suggestive of PML.
 If PML is suspected, further dosing must be suspended until PML has been excluded.
 The clinician should evaluate the patient to determine if the symptoms are indicative of neurological dysfunction, and if so, whether these symptoms are possibly suggestive of PML.
@@ -44,7 +44,7 @@ These symptoms are usually reversible with interruption of MabThera infusion and
 Please see cytokine release syndrome above for severe reactions.
 
 Anaphylactic and other hypersensitivity reactions have been reported following the intravenous administration of proteins to patients.
-In contrast to cytokine release syndrome, true hypersensitivity reactions typically occur within minutes after starting infusion.
+In contrast to cytokine release syndrome, true hypersensitivity greactions typically occur within minutes after starting infusion.
 Medicinal products for the treatment of hypersensitivity reactions, e.g., epinephrine (adrenaline), antihistamines and glucocorticoids, should be available for immediate use in the event of an allergic reaction during administration of MabThera.
 Clinical manifestations of anaphylaxis may appear similar to clinical manifestations of the cytokine release syndrome (described above).
 Reactions attributed to hypersensitivity have been reported less frequently than those attributed to cytokine release.
@@ -72,11 +72,12 @@ Physicians should exercise caution when considering the use of MabThera in patie
 Cases of hepatitis B reactivation have been reported in subjects receiving MabThera including fulminant hepatitis with fatal outcome.
 The majority of these subjects were also exposed to cytotoxic chemotherapy.
 Limited information from one study in relapsed/refractory CLL patients suggests that MabThera treatment may also worsen the outcome of primary hepatitis B infections.
-Hepatitis B virus (HBV) screening should always be performed in patients at risk of infection with HBV before initiation of treatment with MabThera.
-Carriers of hepatitis B and patients with a history of hepatitis B should be closely monitored for clinical and laboratory signs of active HBV infection during and for several months (up to seven) following MabThera therapy.
+Hepatitis B virus (HBV) screening should be performed in all patients before initiation of treatment with MabThera.At minimum this should include HBsAg-status and HBcAb-status.These can be complemented with other appropriate markers as per local guidelines.
+Patients with active hepatitis B disease should not be treated with MabThera.
+Patients with positive hepatitis B serology (either HBsAg or HBcAb) should consult liver disease experts before start of treatment and should be monitored and managed following local medical standards to prevent hepatitis B reactivation.
 
 Very rare cases of progressive multifocal leukoencephalopathy (PML) have been reported during post-marketing use of MabThera in NHL and CLL (see section 4.8).
-The majority of patients had received rituximab in combination with chemotherapy or as part of a hematopoietic stem cell transplant.
+The majority of patients had received MabThera in combination with chemotherapy or as part of a hematopoietic stem cell transplant.
 
 Immunizations
 The safety of immunization with live viral vaccines, following MabThera therapy has not been studied for NHL and CLL patients and vaccination with live virus vaccines is not recommended.
@@ -138,8 +139,10 @@ Very rare cases of fatal progressive multifocal leukoencephalopathy (PML) have b
 Hepatitis B Infections
 Cases of hepatitis B reactivation, including those with a fatal outcome, have been reported in Rheumatoid Arthritis, Granulomatosis with polyangiitis and Microscopic polyangiitis patients receiving MabThera.
 
-Hepatitis B virus (HBV) screening should always be performed in patients at risk of infection with HBV before initiation of treatment with MabThera.
-Carriers of hepatitis B and patients with a history of hepatitis B should be closely monitored for clinical and laboratory signs of active HBV infection during, and for several months following, MabThera therapy.
+Hepatitis B virus (HBV) screening should be performed in all patients before initiation of treatment with MabThera.
+At minimum this should include HBsAg-status and HBcAb-status.
+These can be complemented with other appropriate markers as per local guidelines.
+Patients with active hepatitis B disease should not be treated with MabThera.Patients with positive hepatitis B serology (either HBsAg or HBcAb) should consult liver disease experts before start of treatment and should be monitored and managed following local medical standards to prevent hepatitis B reactivation.
 
 Late neutropenia
 Measure blood neutrophils prior to each course of MabThera, and regularly up to 6-months after cessation of treatment, and upon signs or symptoms of infection (see section 4.8).
@@ -151,9 +154,9 @@ In case of such an event, treatment should be permanently discontinued.
 Immunization
 Physicians should review the patient’s vaccination status and follow current immunization guidelines prior to MabThera therapy.
 Vaccination should be completed at least 4 weeks prior to first administration of MabThera.
-
 The safety of immunization with live viral vaccines following MabThera therapy has not been studied.
 Therefore vaccination with live virus vaccines is not recommended whilst on MabThera or whilst peripherally B cell depleted.
+
 Patients treated with MabThera may receive non-live vaccinations.
 However, response rates to non-live vaccines may be reduced.
 In a randomized study, patients with RA treated with MabThera and methotrexate had comparable response rates to tetanus recall antigen (39% vs. 42%), reduced rates to pneumococcal polysaccharide vaccine (43% vs. 82% to at least 2 pneumococcal antibody serotypes), and KLH neoantigen (47% vs. 93%), when given 6 months after MabThera as compared to patients only receiving methotrexate.
@@ -180,7 +183,11 @@ Very rare cases of fatal PML have been reported following the use of MabThera.
 
 If a patient develops PML the dosing of MabThera must be permanently discontinued.
 
+In contrast to cytokine release syndrome, true hypersensitivity reactions typically occur within minutes after starting infusion.
+
 Additional reactions reported in some cases were myocardial infarction, atrial fibrillation, pulmonary edema and acute reversible thrombocytopenia.
+
+Patients with active hepatitis B disease should not be treated with MabThera.Patients with positive hepatitis B serology (either HBsAg or HBcAb)should consult liver disease experts before start of treatment and should bemonitored and managed following local medical standards to prevent hepatitis B reactivation.
 
 Rheumatoid arthritis, , Granulomatosis with polyangiitis and Microsccopic polyangiitis
 
@@ -192,4 +199,5 @@ Therefore, in patients with a known cardiac history, and those who experienced p
 
 Physicians should exercise caution when considering the use of MabThera in patients with a history of recurring or chronic infections or with underlying conditions which may further predispose patients to serious infection, e.g. hypogammaglobulinaemia(see section 4.8).
 
-Carriers of hepatitis B and patients with a history of hepatitis B should be closely monitored for clinical and laboratory signs of active HBV infection during and for several months following MabThera therapy.
+Hepatitis B virus (HBV) screening should be performed in all patientsbefore initiation of treatment with MabThera.
+These can be complemented with other appropriate markers as per local guideline.

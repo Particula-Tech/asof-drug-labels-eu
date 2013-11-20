@@ -78,14 +78,14 @@ First infusion: The recommended initial infusion rate for MabThera is 50 mg/h; s
 
 Subsequent infusions (number 2 to 4): Subsequent infusions of MabThera can be started at a rate of 100 mg/h and increased by 100 mg/h increments every 30 minutes to a maximum of 400 mg/h.
 
-Pneumocystis jiroveci pneumonia (PCP) prophylaxis is recommended for patients with Granulomatosis with polyangiitis or Microscipic polyangiitis during and following MabThera treatment, as appropriate.
+Pneumocystis jiroveci pneumonia (PCP) prophylaxis is recommended for patients with Granulomatosis with polyangiitis or Microscopic polyangiitis during and following MabThera treatment, as appropriate.
 
 Special populations
 
 Paediatric population
 The safety and efficacy of MabThera in children has not been established.
 
-Elderly
+Older people
 No dose adjustment is required in elderly patients (aged >65 years).
 
 Method of administration

@@ -3,7 +3,7 @@
 Currently, there are limited data on possible drug interactions with MabThera.
 
 In CLL patients, co-administration with MabThera did not appear to have an effect on the pharmacokinetics of fludarabine or cyclophosphamide.
-In addition, there was no apparent effect of fludarabine and cyclophosphamide on the pharmacokinetics of rituximab.
+In addition, there was no apparent effect of fludarabine and cyclophosphamide on the pharmacokinetics of MabThera.
 
 Co-administration with methotrexate had no effect on the pharmacokinetics of MabThera in rheumatoid arthritis patients.
 

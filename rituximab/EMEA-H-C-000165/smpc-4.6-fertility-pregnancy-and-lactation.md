@@ -3,7 +3,7 @@
 Pregnancy
 IgG immunoglobulins are known to cross the placental barrier.
 B cell levels in human neonates following maternal exposure to MabThera have not been studied in clinical trials.
-There are no adequate and well-controlled data from studies in pregnant women, however transient B-cell depletion and lymphocytopenia have been reported in some infants born to mothers exposed to rituximab during pregnancy.
+There are no adequate and well-controlled data from studies in pregnant women, however transient B-cell depletion and lymphocytopenia have been reported in some infants born to mothers exposed to MabThera during pregnancy.
 For these reasons MabThera should not be administered to pregnant women unless the possible benefit outweighs the potential risk.
 
 Developmental toxicity studies performed in cynomolgus monkeys revealed no evidence of embryotoxicity in utero.
@@ -18,3 +18,7 @@ However, because maternal IgG is excreted in human milk, and rituximab was detec
 
 Fertility
 There are no data currently available on the effects of MabThera on fertility.
+
+[MabThera 500 mg concentrate for solution for infusion]
+
+There are no adequate and well-controlled data from studies in pregnant women, however transient B-cell depletion and lymphocytopenia have been reported in some infants born to mothers exposed to MabTheraduring pregnancy.
