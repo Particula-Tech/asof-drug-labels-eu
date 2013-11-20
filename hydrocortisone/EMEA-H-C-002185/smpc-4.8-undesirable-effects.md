@@ -59,7 +59,12 @@ Gastrointestinal disorders
 Dyspepsia and deterioration of existing gastric ulcer.
 
 Skin and subcutaneous tissue disorders
-Cushing-like symptoms, stria, echymoses, acne and hirsutism, impaired wound healing.
+Cushing-like symptoms, stria, ecchymoses, acne and hirsutism, impaired wound healing.
 
 Musculoskeletal and connective tissue disorders
 Osteoporosis with spontaneous fractures.
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V*.

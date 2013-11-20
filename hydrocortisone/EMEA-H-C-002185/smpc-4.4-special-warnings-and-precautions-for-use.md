@@ -1,6 +1,6 @@
 # 4.4 Special warnings and precautions for use
 
-Concomittant infections
+Concomitant infections
 During acute adrenal insufficiency parenteral administration of hydrocortisone in high doses, together with sodium chloride 9 mg/ml (0.9%) solution for injection, must be given.
 
 During transient illnesses such as low grade infection, fever of any aetiology, stressful situations such as minor surgical procedures, the daily replacement dose must be increased temporarily, see section 4.2, ‘Use in intercurrent illness’.

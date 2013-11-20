@@ -42,7 +42,7 @@ Therefore, monitoring of the clinical response is recommended and dose adjustmen
 
 Paediatric population
 The safety and efficacy of Plenadren in children/adolescents aged below 18 years have not yet been established.
-No data are available, see section 5.2.
+No data are available.
 
 Method of administration
 Patients should be instructed to take Plenadren orally with a glass of water on awakening at least 30 minutes before food intake, preferably in an upright position and between 6.00am and 8.00am in the morning.

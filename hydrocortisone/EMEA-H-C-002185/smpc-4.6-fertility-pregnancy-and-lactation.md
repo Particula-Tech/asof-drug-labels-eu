@@ -10,10 +10,10 @@ Reproductive studies in animals have shown that glucocorticoids can cause foetal
 The dose of hydrocortisone should be carefully monitored during pregnancy in women with adrenal insufficiency.
 Dosing according to individual clinical response is recommended.
 
-Breastfeeding
+Breast-feeding
 Hydrocortisone is excreted in breast milk.
-Plenadren can be used during breastfeeding.
-Doses of hydrocortisone used for replacement therapy are unlikely to have any clinical significant impact on the child.
+Plenadren can be used during breast-feeding.
+Doses of hydrocortisone used for replacement therapy are unlikely to have any clinically significant impact on the child.
 Infants of mothers taking high doses of systemic glucocorticoids for prolonged periods may be at risk of adrenal suppression.
 
 Fertility

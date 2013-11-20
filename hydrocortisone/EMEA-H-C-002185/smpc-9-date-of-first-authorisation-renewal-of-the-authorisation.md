@@ -1,3 +1,3 @@
 # 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-3rd November 2011
+Date of first authorisation: 3rd November 2011
