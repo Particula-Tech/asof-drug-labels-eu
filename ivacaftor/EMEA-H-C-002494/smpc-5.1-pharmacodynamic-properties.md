@@ -1,6 +1,8 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Other respiratory system products ATC code: not yet assigned Mechanism of action
+Pharmacotherapeutic group: Other respiratory system products ATC code: R07AX02
+
+Mechanism of action
 Ivacaftor is a selective potentiator of the CFTR protein, i.e., in vitro ivacaftor increases CFTR channel gating to enhance chloride transport.
 However, the exact mechanism leading ivacaftor to prolong the gating activity of some mutant CFTR forms has not been completely elucidated.
 
@@ -82,17 +84,16 @@ Study 3 (Part A) was a 16-week, 4:1 randomised, double-blind, placebo-controlled
 
 The mean absolute change from baseline through Week 16 in percent predicted FEV1 (primary efficacy endpoint) was 1.5 percentage points in the ivacaftor group and -0.2 percentage points in the placebo group.
 The estimated treatment difference for ivacaftor versus placebo was 1.7 percentage points (95% CI: -0.6, 4.1); this difference was not statistically significant (P = 0.15).
-
 Study 4: open-label extension study
 Study 4 is an ongoing, open-label extension study to evaluate the efficacy and safety of long-term treatment of orally administered ivacaftor (150 mg every 12 hours) in patients continuing from studies 1 and 2.
 The percent predicted FEV1 range at the beginning of study 4 was 29.1% to 126.7%.
 The use of inhaled hypertonic saline was permitted.
 A pre-specified interim analysis was performed after all patients from study 1 received 48 weeks and all patients from study 2 received 24 weeks of treatment with ivacaftor in study 4.
 In patients treated with placebo in study 1, 48-week treatment with ivacaftor in study 4 (63 patients) resulted in an improvement in the mean absolute change in percent predicted FEV1 through Week 48 of 9.4 percentage points, similar to that observed in patients treated with ivacaftor in the placebo-controlled study 1.
-In patients treated with ivacaftor in study 1, 48-week treatment with ivacaftor in study 4 (73 patients) resulted in a mean absolute change in percent predicted FEV1 from the baseline value in study 1 to Week 96 of 9.5 percentage points, similar to that observed at Week 48 (10.5 percentage points) in study 1.
+In patients treated with ivacaftor in study 1, 48-week treatment with ivacaftor in study 4 (73 patients) resulted in a mean absolute change in percent predicted FEV1 from the baseline value in study 1 to Week 96 of 9.5 percentage points, similar to that observed at Week 48 (9.4 percentage points) in study 1.
 
 In patients treated with placebo in study 2, 24-week treatment with ivacaftor in study 4 (22 patients) resulted in an improvement in the mean absolute change in percent predicted FEV1 through Week 24 of 8.1 percentage points, similar to that observed in patients treated with ivacaftor in the placebo-controlled study 2.
-In patients treated with ivacaftor in study 2, 24-week treatment with ivacaftor in study 4 (26 patients) resulted in a mean absolute change in percent predicted FEV1 from the baseline value in study 2 to Week 72 of 10.1 percentage points, similar to that observed at Week 48 (10.0 percentage points) in study 2.
+In patients treated with ivacaftor in study 2, 24-week treatment with ivacaftor in study 4 (26 patients) resulted in a mean absolute change in percent predicted FEV1 from the baseline value in study 2 to Week 72 of 10.1 percentage points, similar to that observed at Week 48 (10.2 percentage points) in study 2.
 
 Paediatric population
 The European Medicines Agency has deferred the obligation to submit the results of studies with Kalydeco in one or more subsets of the paediatric population in cystic fibrosis.

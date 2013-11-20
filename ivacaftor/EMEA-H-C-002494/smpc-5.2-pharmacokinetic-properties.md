@@ -42,6 +42,7 @@ Following a single dose of 150 mg of ivacaftor, subjects with moderately impaire
 Simulations for predicting the steady-state exposure of ivacaftor showed that by reducing the dosage from 150 mg q12h to 150 mg once daily, subjects with moderate hepatic impairment would have comparable steady-state Cmin values as those obtained with a dose of 150 mg q12h in subjects with CF. Therefore, a reduced dose of 150 mg once daily is recommended in patients with moderate hepatic impairment.
 The impact of mild hepatic impairment (Child-Pugh Class A, score 5 to 6) on pharmacokinetics of ivacaftor has not been studied, but the increase in ivacaftor AUC0-∞ is expected to be less than two-fold.
 Therefore, no dose adjustment is necessary for patients with mild hepatic impairment.
+
 Studies have not been conducted in patients with severe hepatic impairment (Child-Pugh Class C, score 10 to 15), but exposure is expected to be higher than in patients with moderate hepatic impairment.
 The use of Kalydeco in patients with severe hepatic impairment is therefore not recommended unless the benefits outweigh the risks.
 In such case, the starting dose should be 150 mg every other day.
@@ -59,8 +60,7 @@ Based on population PK analysis, the absorption in children (2.99 h for zero-ord
 However, the predicted total body clearance was lower in children (e.g., 10 L/h for a 20 kg male) than in adults (e.g., 18.9 L/h for a 70 kg male), which resulted in a higher AUC by exposure determination from observed data in children than in adults.
 
 Based on exposure determinations from observed data in Phase 2 and 3 studies, the 150 mg q12h dose regimen resulted in median and mean (SD) ivacaftor Cmin of 752 and 1180 (854) ng/mL for 6-11 year old subjects, 492 and 556 (356) ng/mL for 12-17 year old subjects and 690 and 774 (468) ng/mL for the adult subjects.
-The corresponding AUC median and mean values were 16560 and
-18200 (6547) ng/mL.h for children 6 to 11 years old, 8122 and 8536 (3064) ng/mL.h for adolescents 12 to 17 years old, and 8770 and 9508 (3763) ng/mL.h for adults.
+The corresponding AUC median and mean values were 16560 and 18200 (6547) ng/mL.h for children 6 to 11 years old, 8122 and 8536 (3064) ng/mL.h for adolescents 12 to 17 years old, and 8770 and 9508 (3763) ng/mL.h for adults.
 
 Elderly population
 Clinical studies of ivacaftor did not include patients age 65 years and older.

@@ -16,6 +16,7 @@ Patients who develop unexplained increased transaminase levels during treatment 
 
 Renal impairment
 Caution is recommended while using Kalydeco in patients with severe renal impairment or end-stage renal disease (see sections 4.2 and 5.2).
+
 Hepatic impairment
 Use of Kalydeco is not recommended in patients with severe hepatic impairment unless the benefits are expected to outweigh the risks of overexposure.
 In such case, the starting dose interval should be 150 mg of Kalydeco every other day (see sections 4.2 and 5.2).

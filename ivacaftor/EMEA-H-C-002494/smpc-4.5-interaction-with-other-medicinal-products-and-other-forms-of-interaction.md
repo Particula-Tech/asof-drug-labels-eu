@@ -15,12 +15,12 @@ A reduction of the Kalydeco dose to 150 mg once daily is recommended for patient
 
 Co-administration of Kalydeco with grapefruit juice, which contains one or more components that moderately inhibit CYP3A, may increase exposure to ivacaftor.
 Food containing grapefruit or Seville oranges should be avoided during treatment with Kalydeco.
-
 CYP3A inducers
 Co-administration of ivacaftor with rifampicin, a strong CYP3A inducer, decreased ivacaftor exposure (AUC) by 89% and M1 exposure by 75%.
 Co-administration with strong CYP3A inducers, such as rifampicin, rifabutin, phenobarbital, carbamazepine, phenytoin and St. John’s Wort (Hypericum perforatum) is not recommended.
 
 Concomitant use of weak to moderate inducers of CYP3A (e.g., dexamethasone, high-dose prednisone) may decrease the exposure of ivacaftor and thus may reduce Kalydeco efficacy.
+
 Medicinal products affected by ivacaftor:
 
 CYP3A, P-gp or CYP2C9 substrates

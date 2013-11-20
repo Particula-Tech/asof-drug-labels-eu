@@ -9,7 +9,7 @@ Adults, adolescents and children aged 6 years and older
 The recommended dose is 150 mg taken orally every 12 hours (300 mg total daily dose).
 
 Kalydeco should be taken with fat-containing food.
-Meals and snacks recommended in CF guidelines or in standard nutritional guidelines contain adequate amounts of fat.
+Meals and snacks recommended in CF guidelines or meals recommended in standard nutritional guidelines contain adequate amounts of fat.
 Examples of meals that contain fat are those prepared with butter or oils or those containing eggs, cheeses, nuts, whole milk, or meats.
 Food containing grapefruit or Seville oranges should be avoided during treatment with Kalydeco (see section 4.5).
 
@@ -17,11 +17,11 @@ Special populations
 
 Elderly
 The efficacy and safety of Kalydeco in patients age 65 years or older have not been evaluated.
-
 Renal impairment
 No dose adjustment is necessary for patients with mild to moderate renal impairment.
 Caution is recommended while using ivacaftor in patients with severe renal impairment (creatinine clearance less than or equal to 30 ml/min) or end-stage renal disease.
 (See sections 4.4 and 5.2.)
+
 Hepatic impairment
 No dose adjustment is necessary for patients with mild hepatic impairment (Child-Pugh Class A). A reduced dose of 150 mg once daily is recommended in patients with moderate hepatic impairment (Child-Pugh Class B). There is no experience of use of Kalydeco in patients with severe hepatic impairment.
 The use of Kalydeco in these patients is therefore not recommended unless the benefits outweigh the risks.
