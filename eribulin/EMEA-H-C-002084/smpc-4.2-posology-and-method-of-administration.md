@@ -12,7 +12,6 @@ Calculation of the individual dose to be administered to a patient must be based
 The dose reduction recommendations shown below are also shown as the dose of eribulin to be administered based on the strength of the ready to use solution.
 
 In the pivotal EMBRACE trial, the corresponding publication and in some other regions e.g. the US and Switzerland, the recommended dose is based on the salt form (eribulin mesilate).
-
 Patients may experience nausea or vomiting.
 Antiemetic prophylaxis including corticosteroids should be considered.
 
@@ -22,6 +21,7 @@ The administration of HALAVEN should be delayed on Day 1 or Day 8 for any of the
 − Absolute neutrophil count (ANC) < 1 x 109/l
 − Platelets < 75 x 109/l
 − Grade 3 or 4 non-hematological toxicities.
+
 Dose reduction during therapy
 
 Dose reduction recommendations for retreatment are shown in the following table.
@@ -55,7 +55,7 @@ The doses above may be used in mild and moderate impairment but close monitoring
 
 Patients with renal impairment
 
-Patients with severely impaired renal function (creatinine clearance <40 ml/min) may need a reduction of the dose (See section 5.2).
+Patients with severely impaired renal function (creatinine clearance <40 ml/min) may need a reduction of the dose (see section 5.2).
 The optimal dose for this patient groups remains to be established.
 Caution and close safety monitoring as advised.
 No specific dose adjustments are recommended for patients with mild to moderate renal impairment.
@@ -63,8 +63,7 @@ No specific dose adjustments are recommended for patients with mild to moderate 
 Elderly patients
 
 No specific dose adjustments are recommended based on the age of the patient (see section 4.8).
-
-Paediatric patients
+Paediatric population
 
 There is no relevant use of HALAVEN in children and adolescents in the indication of breast cancer.
 

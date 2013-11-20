@@ -26,7 +26,6 @@ However, it is unknown whether Pgp is contributing to the biliary excretion of e
 After administration of 14C-eribulin to patients, approximately 82% of the dose was eliminated in faeces and 9% in urine indicating that renal clearance is not a significant route of eribulin elimination.
 
 Unchanged eribulin represented most of the total radioactivity in faeces and urine.
-
 Hepatic impairment
 
 A study evaluated the PK of eribulin in patients with mild (Child-Pugh A; n=7) and moderate (Child-Pugh B; n=4) hepatic impairment due to liver metastases.

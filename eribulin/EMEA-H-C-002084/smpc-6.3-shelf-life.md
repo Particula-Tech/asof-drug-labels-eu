@@ -3,7 +3,6 @@
 Unopened vials
 
 4 years.
-
 In-use shelf life
 
 From a microbiological point of view unless the method of opening precludes the risk of microbial contamination the product should be used immediately.

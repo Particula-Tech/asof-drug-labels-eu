@@ -4,10 +4,11 @@ Pharmacotherapeutic group: Other antineoplastic agents, ATC code: L01XX41
 
 HALAVEN (eribulin mesilate) is a non-taxane, microtubule dynamics inhibitor belonging to the halichondrin class of antineoplastic agents.
 It is a structurally simplified synthetic analogue of halichondrin B, a natural product isolated from the marine sponge Halichondria okadai.
+
 Eribulin inhibits the growth phase of microtubules without affecting the shortening phase and sequesters tubulin into non-productive aggregates.
 Eribulin exerts its effects via a tubulin-based antimitotic mechanism leading to G2/M cell-cycle block, disruption of mitotic spindles, and, ultimately, apoptotic cell death after prolonged mitotic blockage.
 
-Clinical experience
+Clinical efficacy
 
 The efficacy of HALAVEN in breast cancer is supported by two single-arm Phase 2 studies and a randomized Phase 3 comparative study.
 
@@ -19,7 +20,6 @@ The TPC arm consisted of 97% chemotherapy (26% vinorelbine, 18% gemcitabine, 18%
 The study met its primary endpoint with an overall survival result that was statistically significantly better in the eribulin group compared to TPC at 55% of events.
 The median survival of the HALAVEN group (median: 399 days/13.1 months) compared with the TPC group (median: 324 days/10.6 months) improved by 75 days/2.5 months (HR 0.809, 95% CI: 0.660, 0.991, p=0.041).
 This result was confirmed with an updated overall survival analysis carried out at 77% of events with the median survival of the HALAVEN group (median: 403 days/13.2 months) compared with the TPC group (median: 321 days/10.5 months) improved by 82 days/2.7 months (HR 0.805, 95% CI: 0.677, 0.958, nominal p=0.014).
-
 Efficacy of HALAVEN versus Treatment of Physician’s Choice – Updated Survival Analysis in the ITT Population
 
 | Efficacy Parameter | HALAVEN (n = 508) | TPC (n = 254) |
@@ -31,6 +31,7 @@ Efficacy of HALAVEN versus Treatment of Physician’s Choice – Updated Surviva
 | Nominal P-value (log-rank)a | 0.014 |  |
 
 a Stratified by geographic region, HER2/neu status, and prior capecitabine therapy.
+
 Kaplan-Meier Analysis of OS-Update Data (ITT Population)
 
 At the time of the original cut-off, analysis of progression free survival by independent and investigator review is shown in the following table.

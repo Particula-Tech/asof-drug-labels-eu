@@ -28,7 +28,6 @@ In an uncontrolled open-label ECG study in 26 patients, QT prolongation was obse
 ECG monitoring is recommended if therapy is initiated in patients with congestive heart failure, bradyarrhythmias, medicinal products known to prolong the QT interval, including Class Ia and III antiarrhythmics, and electrolyte abnormalities.
 Hypokalemia or hypomagnesemia should be corrected prior to initiating HALAVEN and these electrolytes should be monitored periodically during therapy.
 Eribulin should be avoided in patients with congenital long QT syndrome.
-
 Use in combination with anti-HER2 therapy
 
 There is no experience of using eribulin in combination with anti-HER2 therapy in clinical trials.
