@@ -11,17 +11,16 @@ The normal procedures for proper handling and disposal of anticancer medicinal p
 − All items for administration or cleaning, including gloves, should be placed in high-risk, waste disposal bags for high-temperature incineration.
 Liquid waste may be flushed with large amounts of water.
 − Accidental contact with the skin or eyes should be treated immediately with copious amounts of water.
+15
 
 [HYCAMTIN 4 mg powder for concentrate for solution for infusion]
 
 HYCAMTIN 4 mg vials must be reconstituted with 4 ml water for injections.
 The clear, reconstituted solution is yellow to yellow-green in colour and provides 1 mg per ml of topotecan.
 
-[HYCAMTIN 0.25 mg hard capsules]
-
-HYCAMTIN capsules should not be opened or crushed.
-Any unused product or waste material should be disposed of in accordance with local requirements.
+30
 
 [HYCAMTIN 1 mg hard capsules]
 
-(all sentences already above)
+HYCAMTIN capsules should not be opened or crushed.
+Any unused product or waste material should be disposed of in accordance with local requirements.

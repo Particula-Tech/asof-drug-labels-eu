@@ -10,14 +10,10 @@ Not all pack sizes may be marketed.
 HYCAMTIN 4 mg is supplied in 17 ml type I flint glass vials, together with 20 mm grey butyl rubber stoppers and 20 mm aluminium seals with plastic flip-off caps.
 HYCAMTIN 4 mg is available in cartons containing 1 vial and 5 vials.
 
-[HYCAMTIN 0.25 mg hard capsules]
+[HYCAMTIN 1 mg hard capsules]
 
 White polyvinyl chloride / polychlorotrifluoroethylene blister sealed with aluminium / Polyethylenterephtalate (PET) / paper foil lidding.
 
 The blisters are sealed with a peel-push child resistant opening feature.
 
 Each blister card contains 10 capsules.
-
-[HYCAMTIN 1 mg hard capsules]
-
-(all sentences already above)

@@ -3,8 +3,9 @@
 In dose-finding trials involving 523 patients with relapsed ovarian cancer and 631 patients with relapsed small cell lung cancer, the dose limiting toxicity of topotecan monotherapy was found to be haematological.
 Toxicity was predictable and reversible.
 There were no signs of cumulative haematological or non-haematological toxicity.
+
 The adverse event profile for topotecan when given in combination with cisplatin in the cervical cancer clinical trials is consistent with that seen with topotecan monotherapy.
-The overall haematological toxicity is lower in patients treated with topotecan in combination with cisplatin compared to topotecan monotherapy, but higher than with cisplatin alone.
+The overall 6 haematological toxicity is lower in patients treated with topotecan in combination with cisplatin compared to topotecan monotherapy, but higher than with cisplatin alone.
 
 Additional adverse events were seen when topotecan was given in combination with cisplatin, however, these events were seen with cisplatin monotherapy and not attributable to topotecan.
 The prescribing information for cisplatin should be consulted for a full list of adverse events associated cisplatin use.
@@ -42,6 +43,7 @@ Common: sepsis2
 2 Fatalities due to sepsis have been reported in patients treated with topotecan
 (see section 4.4)
 
+7
 General disorders and administration site conditions
 Very common: pyrexia, asthenia, fatigue
 Common: malaise
@@ -78,7 +80,9 @@ Red cell transfusions were given in 52 % of patients (21 % of courses).
 
 Non-haematological
 Frequently reported non-haematological effects were gastrointestinal such as nausea (52 %), vomiting (32 %), and diarrhoea (18 %), constipation (9 %) and mucositis (14 %).
-Severe (grade 3 or 4) nausea, vomiting, diarrhoea and mucositis incidence was 4, 3, 2 and 1 % respectively.
+Severe (grade 3 or 4) nausea,
+
+8 vomiting, diarrhoea and mucositis incidence was 4, 3, 2 and 1 % respectively.
 
 Mild abdominal pain was also reported amongst 4 % of patients.
 
@@ -92,11 +96,25 @@ Other severe events occurring in patients that were recorded as related or possi
 Hypersensitivity reactions including rash, urticaria, angioedema and anaphylactic reactions have been reported rarely.
 In clinical trials, rash was reported in 4 % of patients and pruritus in 1.5 % of patients.
 
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
 [HYCAMTIN 4 mg powder for concentrate for solution for infusion]
 
-(all sentences already above)
+The adverse event profile for topotecan when given in combination with cisplatin in the cervical 21 cancer clinical trials is consistent with that seen with topotecan monotherapy.
+The overall haematological toxicity is lower in patients treated with topotecan in combination with cisplatin compared to topotecan monotherapy, but higher than with cisplatin alone.
 
-[HYCAMTIN 0.25 mg hard capsules]
+22
+
+Frequently reported non-haematological effects were gastrointestinal such as nausea (52 %), vomiting
+
+23
+(32 %), and diarrhoea (18 %), constipation (9 %) and mucositis (14 %).
+Severe (grade 3 or 4) nausea, vomiting, diarrhoea and mucositis incidence was 4, 3, 2 and 1 % respectively.
+
+[HYCAMTIN 1 mg hard capsules]
 
 In clinical trials involving patients with relapsed small cell lung cancer, the dose limiting toxicity of oral topotecan monotherapy was found to be haematological.
 
@@ -107,6 +125,7 @@ Common: abdominal pain1, constipation, mucositis, dyspepsia
 
 Common: pruritis
 
+50
 Very common: fatigue
 Common : asthenia, pyrexia, malaise
 
@@ -140,7 +159,9 @@ Erythropoietin was administered to 10 % of patients in 8 % of courses.
 
 The most frequently reported non-haematological effects were nausea (37 %), diarrhoea (29 %), fatigue (26 %), vomiting (24 %), alopecia (21 %) and anorexia (18 %).
 All cases were irrespective of associated causality.
-For severe cases (CTC grade 3/4) reported as related / possibly related to topotecan administration the incidence was diarrhoea 5 % (see section 4.4), fatigue 4 %, vomiting 3 %, nausea 3 % and anorexia 2 %.
+For severe cases (CTC grade 3/4) reported as related / possibly related to
+
+51 topotecan administration the incidence was diarrhoea 5 % (see section 4.4), fatigue 4 %, vomiting 3 %, nausea 3 % and anorexia 2 %.
 
 The overall incidence of drug-related diarrhoea was 22 %, including 4 % with Grade 3 and 0.4 % with Grade 4.
 Drug-related diarrhoea was more frequent in patients ≥65 years of age (28 %) compared to those less than 65 years of age (19 %).
@@ -151,7 +172,3 @@ Therapeutic interventions associated with non-haematological effects included an
 A 5-HT3 antagonist was administered to 30 % of patients in 24 % of courses.
 Loperamide was administered to 13 % of patients in 5 % of courses.
 The median time to onset of grade 2 or worse diarrhoea was 9 days.
-
-[HYCAMTIN 1 mg hard capsules]
-
-(all sentences already above)

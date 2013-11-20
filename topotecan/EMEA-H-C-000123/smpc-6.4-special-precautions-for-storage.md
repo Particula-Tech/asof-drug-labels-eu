@@ -6,7 +6,7 @@ Keep the vial in the outer carton in order to protect from light.
 
 (all sentences already above)
 
-[HYCAMTIN 0.25 mg hard capsules]
+[HYCAMTIN 1 mg hard capsules]
 
 Store in a refrigerator (2ºC - 8ºC).
 
@@ -14,6 +14,4 @@ Keep the blister card in the outer carton in order to protect from light.
 
 Do not freeze.
 
-[HYCAMTIN 1 mg hard capsules]
-
-(all sentences already above)
+56

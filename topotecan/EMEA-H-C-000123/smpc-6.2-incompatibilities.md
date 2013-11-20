@@ -6,10 +6,6 @@ None known.
 
 (all sentences already above)
 
-[HYCAMTIN 0.25 mg hard capsules]
-
-Not applicable
-
 [HYCAMTIN 1 mg hard capsules]
 
-(all sentences already above)
+Not applicable

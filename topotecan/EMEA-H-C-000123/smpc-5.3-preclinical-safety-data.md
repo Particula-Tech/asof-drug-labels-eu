@@ -6,3 +6,11 @@ Topotecan was also shown to cause embryo-foetal lethality when given to rats and
 In reproductive toxicity studies with topotecan in rats there was no effect on male or female fertility; however, in females super-ovulation and slightly increased pre-implantation loss were observed.
 
 The carcinogenic potential of topotecan has not been studied.
+
+[HYCAMTIN 4 mg powder for concentrate for solution for infusion]
+
+(all sentences already above)
+
+[HYCAMTIN 1 mg hard capsules]
+
+55
