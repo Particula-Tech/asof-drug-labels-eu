@@ -4,7 +4,6 @@ Anti-neoplastic, immunosuppressive or immune-modulating therapies
 Anti-neoplastic, immunosuppressive or immune-modulating therapies should not be co-administered due to the risk of additive immune system effects (see sections 4.3 and 4.4).
 Caution is also indicated when switching patients from long-acting therapies with immune effects, such as natalizumab or mitoxantrone (see section 4.4).
 In multiple sclerosis clinical studies the concomitant treatment of relapses with a short course of corticosteroids was not associated with an increased rate of infection.
-
 Vaccination
 During and for up to two months after treatment with Gilenya vaccination may be less effective.
 The use of live attenuated vaccines may carry a risk of infections and should therefore be avoided.
@@ -17,14 +16,10 @@ If treatment with Gilenya is considered in such patients, advice from a cardiolo
 
 Pharmacokinetic interactions of other substances on fingolimod
 Fingolimod is metabolised mainly by CYP4F2.
-Other enzymes like CYP3A4 may also contribute to its metabolism, notably in the case of strong induction of CYP3A4.
-Co-administration of fingolimod with ketoconazole resulted in a 1.7-fold increase in fingolimod and fingolimod phosphate exposure (AUC) by inhibition of CYP4F2.
+Other enzymes like CYP3A4 may also contribute to its metabolism.
+Co-administration of fingolimod with ketoconazole resulted in a 1.7-fold increase in fingolimod and fingolimod phosphate exposure (AUC).
 Caution should be exercised with substances that may inhibit CYP3A4 (protease inhibitors, azole antifungals, some macrolides such as clarithromycin or telithromycin).
 
-Co-administration of carbamazepine 600 mg twice daily at steady-state and a single dose of fingolimod 2 mg reduced the AUC of fingolimod and its metabolite by approximately 40%.
-Other strong CYP3A4 enzyme inducers, for example rifampicin, phenobarbital, phenytoin, efavirenz and St. John’s Wort, may reduce the AUC of fingolimod and its metabolite at least to this extent.
-As this could potentially impair the efficacy, their co-administration should be used with caution.
-Concomitant administration with St. John’s Wort is however not recommended (see section 4.4).
 Pharmacokinetic interactions of fingolimod on other substances
 Fingolimod is unlikely to interact with substances mainly cleared by the CYP450 enzymes or by substrates of the main transporter proteins.
 
@@ -34,3 +29,5 @@ Potent inhibitors of transporter proteins are not expected to influence fingolim
 
 Co-administration of fingolimod with oral contraceptives (ethinylestradiol and levonorgestrel) did not elicit any change in oral contraceptive exposure.
 No interaction studies have been performed with oral contraceptives containing other progestagens, however an effect of fingolimod on their exposure is not expected.
+
+It is not known whether the concomitant administration of strong CYP450 inducers may decrease the exposure to fingolimod and fingolimod P.

@@ -12,6 +12,7 @@ Steady-state-blood concentrations are reached within 1 to 2 months following onc
 Food intake does not alter Cmax or exposure (AUC) of fingolimod.
 Fingolimod phosphate Cmax was slightly increased by 34% but AUC was unchanged.
 Therefore, Gilenya may be taken without regard to meals (see section 4.2).
+
 Distribution
 Fingolimod highly distributes in red blood cells, with the fraction in blood cells of 86%.
 Fingolimod phosphate has a smaller uptake in blood cells of <17%.
@@ -50,6 +51,7 @@ Fingolimod should be introduced cautiously in mild and moderate hepatic impaired
 
 Clinical experience and pharmacokinetic information in patients aged above 65 years are limited.
 Gilenya should be used with caution in patients aged 65 years and over (see section 4.2).
+
 Paediatric population
 There are limited data available from a renal transplant study that included 7 children above 11 years of age (study FTY720A0115).
 The comparison of these data to those in adult healthy volunteers is of limited relevance and no valid conclusions can be drawn regarding the pharmacokinetic properties of fingolimod in children.

@@ -2,7 +2,6 @@
 
 Bradyarrhythmia
 Initiation of Gilenya treatment results in a transient decrease in heart rate and may also be associated with atrioventricular conduction delays, including the occurrence of isolated reports of transient, spontaneously resolving complete AV block (see sections 4.8 and 5.1).
-
 After the first dose, the decline in heart rate starts within one hour, and is maximal within 6 hours.
 This post-dose effect persists over the following days, although usually to a milder extent, and usually abates over the next weeks.
 With continued administration, the average heart rate returns towards baseline within one month.
@@ -30,6 +29,7 @@ If treatment is considered, advice from a cardiologist should be sought prior to
 Gilenya has not been studied in patients with arrhythmias requiring treatment with class Ia (e.g. quinidine, disopyramide) or class III (e.g. amiodarone, sotalol) antiarrhythmic medicinal products.
 Class Ia and class III antiarrhythmic medicinal products have been associated with cases of torsades de pointes in patients with bradycardia.
 Since initiation of Gilenya treatment results in decreased heart rate, Gilenya should not be used concomitantly with these medicinal products.
+
 Experience with Gilenya is limited in patients receiving concurrent therapy with beta blockers, heart-rate-lowering calcium channel blockers (such as verapamil, diltiazem or ivabradine), or other substances which may decrease heart rate (e.g. digoxin, anticholinesteratic agents or pilocarpine).
 Since the initiation of Gilenya treatment is also associated with slowing of the heart rate (see also section 4.8, Bradyarrhythmia), concomitant use of these substances during Gilenya initiation may be associated with severe bradycardia and heart block.
 Because of the potential additive effect on heart rate treatment with Gilenya should not be initiated in patients who are concurrently treated with these substances (see also section 4.5).
@@ -64,6 +64,7 @@ Assessments of CBC are also recommended periodically during treatment, at month 
 Absolute lymphocyte count <0.2x109/l, if confirmed, should lead to treatment interruption until recovery, because in clinical studies, fingolimod treatment was interrupted in patients with absolute lymphocyte count <0.2x109/l.
 
 Initiation of treatment with Gilenya should be delayed in patients with severe active infection until resolution.
+
 Before initiating Gilenya therapy, patients without a history of chickenpox or without vaccination against varicella zoster virus (VZV) should be tested for antibodies to VZV.
 VZV vaccination of antibody negative patients should be considered prior to commencing treatment with Gilenya, following which initiation of treatment with Gilenya should be postponed for 1 month to allow full effect of vaccination to occur.
 
@@ -72,7 +73,6 @@ Effective diagnostic and therapeutic strategies should be employed in patients w
 During treatment, patients receiving Gilenya should be instructed to report symptoms of infection to their physician.
 
 Suspension of Gilenya should be considered if a patient develops a serious infection and consideration of benefit-risk should be undertaken prior to re-initiation of therapy.
-
 Elimination of fingolimod following discontinuation of therapy may take up to two months and vigilance for infection should therefore be continued throughout this period.
 Patients should be instructed to report symptoms of infection up to 2 months after discontinuation of fingolimod.
 
@@ -100,6 +100,7 @@ Serum transaminase levels returned to normal within approximately 2 months after
 Gilenya has not been studied in patients with severe pre-existing hepatic injury (Child-Pugh class C) and should not be used in these patients (see section 4.3).
 
 Due to the immunosuppressive properties of fingolimod, initiation of treatment should be delayed in patients with active viral hepatitis until resolution.
+
 Recent (i.e. within last 6 months) transaminase and bilirubin levels should be available before initiation of treatment with Gilenya.
 In the absence of clinical symptoms, liver transaminases should be monitored at Months 1, 3, 6, 9 and 12 on therapy and periodically thereafter.
 If liver transaminases rise above 5 times the ULN, more frequent monitoring should be instituted, including serum bilirubin and alkaline phosphatase (ALP) measurement.
@@ -107,7 +108,6 @@ With repeated confirmation of liver transaminases above 5 times the ULN, treatme
 
 Patients who develop symptoms suggestive of hepatic dysfunction, such as unexplained nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine, should have liver enzymes checked and Gilenya should be discontinued if significant liver injury is confirmed (for example liver transaminase levels greater than 5-fold the ULN and/or serum bilirubin elevations).
 Resumption of therapy will be dependent on whether or not another cause of liver injury is determined and on the benefits to patient of resuming therapy versus the risks of recurrence of liver dysfunction.
-
 Although there are no data to establish that patients with pre-existing liver disease are at increased risk of developing elevated liver function tests when taking Gilenya, caution in the use of Gilenya should be exercised in patients with a history of significant liver disease.
 
 Interference with serological testing
@@ -132,9 +132,6 @@ Due to the long half-life of natalizumab, concomitant exposure, and thus concomi
 Therefore caution is required when switching patients from natalizumab to Gilenya.
 
 When switching from other immunosuppressive medications, the duration and mode of action of such substances must be considered when initiating Gilenya to avoid additive immune suppressive effects.
-Co-administration with potent CYP450 inducers
-The combination of fingolimod with potent CYP450 inducers should be used with caution.
-Concomitant administration with St John’s wort is not recommended (see section 4.5).
 
 Stopping therapy
 If a decision is made to stop treatment with Gilenya a 6 week interval without therapy is needed, based on half-life, to clear fingolimod from the circulation (see section 5.2).

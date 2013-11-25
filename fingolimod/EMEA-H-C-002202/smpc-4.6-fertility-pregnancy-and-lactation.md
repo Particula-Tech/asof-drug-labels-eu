@@ -8,7 +8,6 @@ Pregnancy
 Before initiation of treatment in women of childbearing potential a negative pregnancy test result needs to be available.
 While on treatment, women should not become pregnant and active contraception is recommended.
 If a woman becomes pregnant while taking Gilenya, discontinuation of Gilenya is recommended.
-
 Animal studies have shown reproductive toxicity including foetal loss and organ defects, notably persistent truncus arteriosus and ventricular septal defect (see section 5.3).
 Furthermore, the receptor affected by fingolimod (sphingosine 1-phosphate receptor) is known to be involved in vascular formation during embryogenesis.
 There are very limited data from the use of fingolimod in pregnant women.
