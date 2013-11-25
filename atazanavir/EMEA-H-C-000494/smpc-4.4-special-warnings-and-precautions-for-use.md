@@ -72,7 +72,7 @@ In HIV-infected patients with severe immune deficiency at the time of institutio
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis carinii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
-Autoimmune disorders (such as Graves' disease) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
+Autoimmune disorders (such as Graves' disease) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occurs many months after initiation of treatment.
 
 Osteonecrosis
 Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).

@@ -23,5 +23,6 @@ Breast-feeding
 It is unknown whether atazanavir or atazanavir metabolites are excreted in human milk.
 Studies in rats have demonstrated that atazanavir is excreted in the milk.
 As a general rule, it is recommended that HIV infected women not breast-feed their infants in order to avoid transmission of HIV.
+
 Fertility
 In a nonclinical fertility and early embryonic development study in rats, atazanavir altered oestrus cycling with no effects on mating or fertility (see section 5.3).

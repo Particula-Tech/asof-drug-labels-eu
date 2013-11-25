@@ -48,7 +48,7 @@ rare: hepatosplenomegaly, cholecystitisa
 Skin and subcutaneous tissue common: rash;
 disorders: uncommon: erythemia multiformea,b, toxic skin
 
-eruptionsa,b, drug rash with eosinophilia and systemic symptoms (DRESS) syndromea,b, urticaria, alopecia, pruritus;
+eruptionsa,b, drug rash with eosinophilia and systemic symptoms (DRESS) syndromea,b, angioedemaa, urticaria, alopecia, pruritus;
 rare: Stevens-Johnson syndromea,b, vesiculobullous rash, eczema, vasodilatation
 
 Musculoskeletal and connective uncommon: muscle atrophy, arthralgia, myalgia;
@@ -66,20 +66,19 @@ General disorders and common: lipodystrophy syndromeb, fatigue;
 administration site conditions: uncommon: chest pain, malaise, pyrexia, asthenia;
 rare: gait disturbance
 
-a These adverse reactions were identified through post-marketing surveillance but not observed in clinical trials with REYATAZ.
-The frequency category was estimated from a statistical calculation based on the total number of patients exposed to REYATAZ in randomised controlled and other available clinical trials (n = 2321).
+a These adverse reactions were identified through post-marketing surveillance, however, the frequencies were estimated from a statistical calculation based on the total number of patients exposed to REYATAZ in randomised controlled and other available clinical trials (n = 2321).
 b See section c. Description of selected adverse reactions for more details.
 
 c. Description of selected adverse reactions
 In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise.
 Autoimmune disorders (such as Graves' disease) have also been reported; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
-
 Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to combination antiretroviral therapy (CART).
 The frequency of this is unknown (see section 4.4).
 
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients, including loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy, and dorsocervical fat accumulation (buffalo hump).
 
 Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia, and hyperlactataemia (see sections 4.4 and 5.1).
+
 Rash and associated syndromes
 Rashes are usually mild-to-moderate maculopapular skin eruptions that occur within the first 3 weeks of starting therapy with REYATAZ.
 
@@ -106,3 +105,8 @@ Patients co-infected with hepatitis B and/or hepatitis C virus
 Among 1,151 patients receiving atazanavir 400 mg once daily, 177 patients were co-infected with chronic hepatitis B or C, and among 655 patients receiving atazanavir 300 mg once daily with ritonavir 100 mg once daily, 97 patients were co-infected with chronic hepatitis B or C. Co-infected patients were more likely to have baseline hepatic transaminase elevations than those without chronic viral hepatitis.
 No differences in frequency of bilirubin elevations were observed between these patients and those without viral hepatitis.
 The frequency of treatment emergent hepatitis or transaminase elevations in co-infected patients was comparable between REYATAZ and comparator regimens (see section 4.4).
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
