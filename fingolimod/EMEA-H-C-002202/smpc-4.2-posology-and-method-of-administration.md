@@ -6,9 +6,16 @@ Posology
 The recommended dose of Gilenya is one 0.5 mg capsule taken orally once daily.
 Gilenya can be taken with or without food.
 
-If a dose is missed treatment should be continued with the next dose as planned.
+The same first dose monitoring as for treatment initiation is recommended when treatment is interrupted for:
+
+- 1 day or more during the first 2 weeks of treatment.
+- more than 7 days during weeks 3 and 4 of treatment.
+- more than 2 weeks after one month of treatment.
+
+If the treatment interruption is of shorter duration than the above, the treatment should be continued with the next dose as planned (see section 4.4).
 
 Patients can switch directly from beta interferon or glatiramer acetate to Gilenya provided there are no signs of relevant treatment-related abnormalities, e.g. neutropenia.
+
 Special populations
 Elderly population
 Gilenya should be used with caution in patients aged 65 years and over due to insufficient data on safety and efficacy (see section 5.2).

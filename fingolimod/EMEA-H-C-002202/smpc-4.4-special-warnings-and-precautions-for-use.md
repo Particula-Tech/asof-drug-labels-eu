@@ -3,18 +3,20 @@
 Bradyarrhythmia
 Initiation of Gilenya treatment results in a transient decrease in heart rate and may also be associated with atrioventricular conduction delays, including the occurrence of isolated reports of transient, spontaneously resolving complete AV block (see sections 4.8 and 5.1).
 
-After the first dose, the decline in heart rate starts within one hour and is steepest within 6 hours.
-The negative chronotropic effect of Gilenya persists beyond 6 hours and progressively attenuates over subsequent days of treatment.
-With continued administration, heart rate returns to baseline within one month.
+After the first dose, the decline in heart rate starts within one hour, and is maximal within 6 hours.
+This post-dose effect persists over the following days, although usually to a milder extent, and usually abates over the next weeks.
+With continued administration, the average heart rate returns towards baseline within one month.
+However individual patients may not return to baseline heart rate by the end of the first month.
 Conduction abnormalities were typically transient and asymptomatic.
 They usually did not require treatment and resolved within the first 24 hours on treatment.
 If necessary, the decrease in heart rate induced by fingolimod can be reversed by parenteral doses of atropine or isoprenaline.
+
 All patients should have an ECG and blood pressure measurement performed prior to and 6 hours after the first dose of Gilenya.
 All patients should be monitored for a period of 6 hours for signs and symptoms of bradycardia with hourly heart rate and blood pressure measurement.
 Continuous (real time) ECG monitoring during this 6 hour period is recommended.
 
 Should post-dose bradyarrhythmia-related symptoms occur, appropriate clinical management should be initiated and monitoring should be continued until the symptoms have resolved.
-Should a patient require pharmacological intervention during the first-dose monitoring, overnight monitoring in a medical facility should be instituted.
+Should a patient require pharmacological intervention during the first-dose monitoring, overnight monitoring in a medical facility should be instituted and the first-dose monitoring should be repeated after the second dose of Gilenya.
 
 If the heart rate at 6 hours is the lowest since the first dose was administered (suggesting that the maximum pharmacodynamic effect on the heart may not yet be manifest), monitoring should be extended by at least 2 hours and until heart rate increases again.
 Additionally, if after 6 hours, the heart rate is <45 bpm, or the ECG shows new onset second degree or higher grade AV block or a QTc interval ≥500 msec, extended monitoring (at least overnight monitoring), should be performed, and until the findings have resolved.
@@ -28,7 +30,6 @@ If treatment is considered, advice from a cardiologist should be sought prior to
 Gilenya has not been studied in patients with arrhythmias requiring treatment with class Ia (e.g. quinidine, disopyramide) or class III (e.g. amiodarone, sotalol) antiarrhythmic medicinal products.
 Class Ia and class III antiarrhythmic medicinal products have been associated with cases of torsades de pointes in patients with bradycardia.
 Since initiation of Gilenya treatment results in decreased heart rate, Gilenya should not be used concomitantly with these medicinal products.
-
 Experience with Gilenya is limited in patients receiving concurrent therapy with beta blockers, heart-rate-lowering calcium channel blockers (such as verapamil, diltiazem or ivabradine), or other substances which may decrease heart rate (e.g. digoxin, anticholinesteratic agents or pilocarpine).
 Since the initiation of Gilenya treatment is also associated with slowing of the heart rate (see also section 4.8, Bradyarrhythmia), concomitant use of these substances during Gilenya initiation may be associated with severe bradycardia and heart block.
 Because of the potential additive effect on heart rate treatment with Gilenya should not be initiated in patients who are concurrently treated with these substances (see also section 4.5).
@@ -36,7 +37,15 @@ In such patients, treatment with Gilenya should be considered only if the antici
 If treatment with Gilenya is considered, advice from a cardiologist should be sought regarding the switch to non heart-rate lowering medicinal products prior to initiation of treatment.
 If the heart-rate-lowering medication cannot be stopped, cardiologist’s advice should be sought to determine appropriate first dose monitoring, at least overnight extended monitoring is recommended (see also section 4.5).
 
-If therapy is discontinued for more than 2 weeks, the effects on heart rate and atrioventricular conduction may recur on re-introduction of Gilenya treatment and the same precautions as for treatment initiation should apply.
+The effects on heart rate and atrioventricular conduction may recur on re-introduction of Gilenya treatment depending on duration of the interruption and time since start of Gilenya treatment.
+The same first dose monitoring as for treatment initiation is recommended when treatment is interrupted for:
+
+- 1 day or more during the first 2 weeks of treatment.
+- more than 7 days during weeks 3 and 4 of treatment.
+- more than 2 weeks after one month of treatment.
+
+If the treatment interruption is of shorter duration than the above, the treatment should be continued with the next dose as planned.
+
 QT interval
 In a thorough QT interval study of doses of 1.25 or 2.5 mg fingolimod at steady-state, when a negative chronotropic effect of fingolimod was still present, fingolimod treatment resulted in a prolongation of QTcI, with the upper limit of the 90% CI ≤13.0 ms. There is no dose- or exposure-response relationship of fingolimod and QTcI prolongation.
 There is no consistent signal of increased incidence of QTcI outliers, either absolute or change from baseline, associated with fingolimod treatment.
@@ -51,11 +60,10 @@ A core pharmacodynamic effect of Gilenya is a dose-dependent reduction of the pe
 This is due to the reversible sequestration of lymphocytes in lymphoid tissues (see section 5.1).
 
 Before initiating treatment with Gilenya, a recent complete blood count (CBC) (i.e. within 6 months) should be available.
-Assessments of CBC are also recommended periodically during treatment, and in case of signs of infection.
+Assessments of CBC are also recommended periodically during treatment, at month 3 and at least yearly thereafter, and in case of signs of infection.
 Absolute lymphocyte count <0.2x109/l, if confirmed, should lead to treatment interruption until recovery, because in clinical studies, fingolimod treatment was interrupted in patients with absolute lymphocyte count <0.2x109/l.
 
 Initiation of treatment with Gilenya should be delayed in patients with severe active infection until resolution.
-
 Before initiating Gilenya therapy, patients without a history of chickenpox or without vaccination against varicella zoster virus (VZV) should be tested for antibodies to VZV.
 VZV vaccination of antibody negative patients should be considered prior to commencing treatment with Gilenya, following which initiation of treatment with Gilenya should be postponed for 1 month to allow full effect of vaccination to occur.
 
@@ -72,6 +80,7 @@ Macular oedema
 Macular oedema with or without visual symptoms has been reported in 0.4% of patients treated with fingolimod 0.5 mg, occurring predominantly in the first 3-4 months of therapy (see section 4.8).
 An ophthalmological evaluation is therefore recommended at 3-4 months after treatment initiation.
 If patients report visual disturbances at any time while on therapy, evaluation of the fundus, including the macula, should be carried out.
+
 Patients with history of uveitis and patients with diabetes mellitus are at increased risk of macular oedema (see section 4.8).
 Gilenya has not been studied in multiple sclerosis patients with concomitant diabetes mellitus.
 It is recommended that multiple sclerosis patients with diabetes mellitus or a history of uveitis undergo an ophthalmological evaluation prior to initiating therapy and have follow-up evaluations while receiving therapy.
@@ -91,7 +100,6 @@ Serum transaminase levels returned to normal within approximately 2 months after
 Gilenya has not been studied in patients with severe pre-existing hepatic injury (Child-Pugh class C) and should not be used in these patients (see section 4.3).
 
 Due to the immunosuppressive properties of fingolimod, initiation of treatment should be delayed in patients with active viral hepatitis until resolution.
-
 Recent (i.e. within last 6 months) transaminase and bilirubin levels should be available before initiation of treatment with Gilenya.
 In the absence of clinical symptoms, liver transaminases should be monitored at Months 1, 3, 6, 9 and 12 on therapy and periodically thereafter.
 If liver transaminases rise above 5 times the ULN, more frequent monitoring should be instituted, including serum bilirubin and alkaline phosphatase (ALP) measurement.
@@ -105,6 +113,7 @@ Although there are no data to establish that patients with pre-existing liver di
 Interference with serological testing
 Since fingolimod reduces blood lymphocyte counts via re-distribution in secondary lymphoid organs, peripheral blood lymphocyte counts cannot be utilised to evaluate the lymphocyte subset status of a patient treated with Gilenya.
 Laboratory tests involving the use of circulating mononuclear cells require larger blood volumes due to reduction in the number of circulating lymphocytes.
+
 Blood pressure effects
 Patients with hypertension uncontrolled by medication were excluded from participation in premarketing clinical trials and special care is indicated if patients with uncontrolled hypertension are treated with Gilenya.
 
@@ -123,6 +132,9 @@ Due to the long half-life of natalizumab, concomitant exposure, and thus concomi
 Therefore caution is required when switching patients from natalizumab to Gilenya.
 
 When switching from other immunosuppressive medications, the duration and mode of action of such substances must be considered when initiating Gilenya to avoid additive immune suppressive effects.
+Co-administration with potent CYP450 inducers
+The combination of fingolimod with potent CYP450 inducers should be used with caution.
+Concomitant administration with St John’s wort is not recommended (see section 4.5).
 
 Stopping therapy
 If a decision is made to stop treatment with Gilenya a 6 week interval without therapy is needed, based on half-life, to clear fingolimod from the circulation (see section 5.2).

@@ -2,4 +2,4 @@
 
 Each capsule contains 0.5 mg fingolimod (as hydrochloride).
 
-For a full list of excipients, see section 6.1.
+For the full list of excipients, see section 6.1.
