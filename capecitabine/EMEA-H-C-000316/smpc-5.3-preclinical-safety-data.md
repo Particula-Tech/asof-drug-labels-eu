@@ -5,11 +5,11 @@ These toxicities were reversible.
 Skin toxicity, characterised by degenerative/regressive changes, was observed with capecitabine.
 Capecitabine was devoid of hepatic and CNS toxicities.
 Cardiovascular toxicity (e.g. PR- and QT-interval prolongation) was detectable in cynomolgus monkeys after intravenous administration (100 mg/kg) but not after repeated oral dosing (1379 mg/m2/day).
+
 A two-year mouse carcinogenicity study produced no evidence of carcinogenicity by capecitabine.
 
 During standard fertility studies, impairment of fertility was observed in female mice receiving capecitabine; however, this effect was reversible after a drug-free period.
-In addition, during a 13-week study, atrophic and degenerative changes occurred in reproductive organs of male mice; however these effects were reversible after a drug-free period.
-
+In addition, during a 13-week study, atrophic and degenerative changes occurred in reproductive organs of male mice; however these effects were reversible after a drug-free period (see section 4.6).
 In embryotoxicity and teratogenicity studies in mice, dose-related increases in foetal resorption and teratogenicity were observed.
 In monkeys, abortion and embryolethality were observed at high doses, but there was no evidence of teratogenicity.
 
