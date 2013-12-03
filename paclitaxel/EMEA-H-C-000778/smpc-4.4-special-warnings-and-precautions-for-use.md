@@ -4,25 +4,20 @@ Abraxane is an albumin-bound nanoparticle formulation of paclitaxel, which may h
 It should not be substituted for or with other paclitaxel formulations.
 
 Hypersensitivity
-
 Rare occurrences of severe hypersensitivity reactions, including very rare events of anaphylactic reactions with fatal outcome, have been reported.
 If a hypersensitivity reaction occurs, the medicinal product should be discontinued immediately, symptomatic treatment should be initiated, and the patient should not be rechallenged with paclitaxel.
 
 Haematology
-
 Bone marrow suppression (primarily neutropenia) occurs frequently with Abraxane.
 Neutropenia is dose-dependent and a dose-limiting toxicity.
 Frequent monitoring of blood cell counts should be performed during Abraxane therapy.
 Patients should not be retreated with subsequent cycles of Abraxane until neutrophils recover to >1.5 x 109/l and platelets recover to >100 x 109/l.
-
 Neuropathy
-
 Sensory neuropathy occurs frequently with Abraxane, although development of severe symptoms is less common.
 The occurrence of grade 1 or 2 sensory neuropathy does not generally require dose reduction.
 If grade 3 sensory neuropathy develops, treatment should be withheld until resolution to grade 1 or 2 followed by a dose reduction for all subsequent courses of Abraxane is recommended (see section 4.2).
 
 Hepatic impairment
-
 Because the toxicity of paclitaxel can be increased with hepatic impairment, administration of Abraxane in patients with hepatic impairment should be performed with caution.
 Patients with hepatic impairment may be at increased risk of toxicity, particularly from myelosuppression, and such patients should be closely monitored for development of profound myelosuppression.
 
@@ -31,26 +26,21 @@ The appropriate dose regimen in patients with less severe hepatic impairment is 
 A dose reduction in patients with bilirubin >2 ULN must be considered since paclitaxel clearance is decreased in patients with high bilirubin levels (see section 5.2).
 
 Cardiotoxicity
-
 Rare reports of congestive heart failure and left ventricular dysfunction have been observed among individuals receiving Abraxane.
 Most of the individuals were previously exposed to cardiotoxic medicinal products such as anthracyclines, or had underlying cardiac history.
 Thus patients receiving Abraxane should be vigilantly monitored by physicians for the occurrence of cardiac events.
 
 CNS metastases
-
 The effectiveness and safety of Abraxane in patients with central nervous system (CNS) metastases has not been established.
 CNS metastases are generally not well controlled by systemic chemotherapy.
 
 Gastrointestinal symptoms
-
 If patients experience nausea, vomiting and diarrhoea following the administration of Abraxane, they may be treated with commonly used anti-emetics and constipating agents.
 
 Pneumonitis
-
 Even though the incidence is low, patients should be closely monitored for signs and symptoms of pneumonitis.
 During the conduct of a trial in metastatic pancreatic cancer, a higher rate of pneumonitis events was observed in patients receiving Abraxane in combination with gemcitabine.
 
 Excipients
-
 When reconstituted, Abraxane contains approximately 425 mg sodium per dose.
 To be taken into consideration by patients on a controlled sodium diet.

@@ -13,8 +13,7 @@ In a study in patients with advanced solid tumours, the pharmacokinetic characte
 The clearance of paclitaxel with Abraxane was larger (43%) than that following a solvent-based paclitaxel injection and its volume of distribution was also higher (53%).
 Differences in Cmax and Cmax corrected for dose reflected differences in total dose and rate of infusion.
 There were no differences in terminal half-lives.
-
-In a repeat dose study with 12 patients receiving Abraxane administered intravenously at the approved dose, intrapatient variability in systemic paclitaxel exposure (AUCinf) was 19% (range = 3.21%- 27.70%).
+In a repeat dose study with 12 patients receiving Abraxane administered intravenously at the approved dose, intrapatient variability in systemic paclitaxel exposure (AUCinf) was 19% (range = 3.21%-27.70%).
 There was no evidence for accumulation of paclitaxel with multiple treatment courses.
 
 An analysis of patient exposure (AUCinf) against bodyweight indicated a trend toward reduced AUC at 260 mg/m2 Abraxane, with decreased body weight.
@@ -29,22 +28,29 @@ Based on the published literature, in vitro studies of binding to human serum pr
 
 Based on the published literature, in vitro studies with human liver microsomes and tissue slices show that paclitaxel is metabolised primarily to 6α-hydroxypaclitaxel; and to two minor metabolites, 3’-p-hydroxypaclitaxel and 6α-3’-p-dihydroxypaclitaxel.
 The formation of these hydroxylated metabolites is catalysed by CYP2C8, -3A4, and both -2C8 and -3A4 respectively.
+
 The pharmacokinetic profile of Abraxane administered as a 30 minute infusion was evaluated in 15 out of 30 patients with three levels of hepatic impairment based on serum bilirubin and liver enzyme levels.
 Figure 1 shows the correlation between paclitaxel clearance and total blood bilirubin as measured just prior to dosing.
 
 Figure 1 Correlation between paclitaxel clearance and total blood bilirubin
 
 35000
-Paclitaxel clearance
+35000
+Paclitaxel
 
+clearance 30000
 (ml/h/m2) 30000
 
 25000
+25000
 
+20000
 20000
 
 15000
+15000
 
+10 20 30 40 50 60 70 80 90
 10 20 30 40 50 60 70 80 90
 
 Total bilirubin (µmol/l)

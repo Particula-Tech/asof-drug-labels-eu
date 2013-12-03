@@ -1,7 +1,6 @@
 # 6.6 Special precautions for disposal and other handling
 
 Preparation and administration precautions
-
 Paclitaxel is a cytotoxic anticancer medicinal product and, as with other potentially toxic compounds, caution should be exercised in handling Abraxane.
 The use of gloves, goggles and protective clothing is recommended.
 If the suspension contacts the skin, the skin should be washed immediately and thoroughly with soap and water.
@@ -11,12 +10,15 @@ Pregnant staff should not handle Abraxane.
 
 Given the possibility of extravasation, it is advisable to closely monitor the infusion site for possible infiltration during administration of the medicinal product.
 Limiting the infusion of Abraxane to 30 minutes, as directed, reduces the likelihood of infusion-related reactions.
-Reconstitution and administration of the product
 
+Reconstitution and administration of the product
 Abraxane is supplied as a sterile lyophilised powder for reconstitution before use.
 After reconstitution, each ml of suspension contains 5 mg of paclitaxel formulated as albumin bound nanoparticles.
 
-Using a sterile syringe, 20 ml of sodium chloride 9 mg/ml (0.9%) solution for infusion should slowly be injected into a vial of Abraxane over a minimum of 1 minute.
+100 mg vial: Using a sterile syringe, 20 ml of sodium chloride 9 mg/ml (0.9%) solution for infusion should slowly be injected into a vial of Abraxane over a minimum of 1 minute.
+
+250 mg vial: Using a sterile syringe, 50 ml of sodium chloride 9 mg/ml (0.9%) solution for infusion should slowly be injected into a vial of Abraxane over a minimum of 1 minute.
+
 The solution should be directed onto the inside wall of the vial.
 The solution should not be injected directly onto the powder as this will result in foaming.
 
@@ -31,7 +33,6 @@ Some settling of the reconstituted suspension may occur.
 Complete resuspension should be ensured by mild agitation before use.
 
 Discard the reconstituted suspension if precipitates are observed.
-
 The exact total dosing volume of 5 mg/ml suspension required for the patient should be calculated and the appropriate amount of reconstituted Abraxane should be injected into an empty, sterile, PVC or non-PVC type intravenous bag.
 The use of specialized di(2-ethylhexyl)phthalate (DEHP)-free solution containers or administration sets is not necessary to prepare or administer Abraxane infusions.
 In-line filters should not be used.
