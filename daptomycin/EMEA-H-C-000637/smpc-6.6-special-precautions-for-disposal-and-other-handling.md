@@ -8,7 +8,6 @@ A 50 mg/ml concentration of Cubicin for infusion is obtained by reconstituting t
 
 The lyophilised product takes approximately 15 minutes to dissolve.
 The fully reconstituted product will appear clear and may have a few small bubbles or foam around the edge of the vial.
-
 To prepare Cubicin for intravenous infusion, please adhere to the following instructions:
 Aseptic technique should be used throughout to reconstitute lyophilised Cubicin.
 1.
@@ -37,6 +36,7 @@ Expel air, large bubbles, and any excess solution in order to obtain the require
 The reconstituted and diluted solution should then be infused intravenously over 30 minutes as directed in section 4.2.
 
 The following have been shown to be compatible when added to Cubicin containing infusion solutions: aztreonam, ceftazidime, ceftriaxone, gentamicin, fluconazole, levofloxacin, dopamine, heparin and lidocaine.
+
 Cubicin given as 2-minute intravenous injection
 Water should not be used for reconstitution of Cubicin for intravenous injection.
 Cubicin should only be reconstituted with sodium chloride 9 mg/ml (0.9%).

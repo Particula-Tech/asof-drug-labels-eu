@@ -4,6 +4,7 @@ Summary of the safety profile
 In clinical studies, 2,011 subjects received Cubicin.
 Within these trials, 1,221 subjects received a daily dose of 4 mg/kg, of whom 1,108 were patients and 113 were healthy volunteers; 460 subjects received a daily dose of 6 mg/kg, of whom 304 were patients and 156 were healthy volunteers.
 Adverse reactions (i.e. considered by the investigator to be possibly, probably, or definitely related to the medicinal product) were reported at similar frequencies for Cubicin and comparator regimens.
+
 The most frequently reported adverse reactions (frequency common (≥ 1/100 to < 1/10)) are:
 Fungal infections, urinary tract infection, candida infection, anaemia, anxiety, insomnia, dizziness, headache, hypertension, hypotension, gastrointestinal and abdominal pain, nausea, vomiting, constipation, diarrhoea, flatulence, bloating and distension, liver function tests abnormal (increased alanine aminotransferase (ALT), aspartate aminotransferase (AST) or alkaline phosphatase (ALP)), rash, pruritus, limb pain, serum creatine phosphokinase (CPK) increased, infusion site reactions, pyrexia, asthenia.
 

@@ -24,7 +24,6 @@ Minimum inhibitory concentration (MIC) breakpoint established by the European Co
 Susceptibility
 The prevalence of resistance may vary geographically and over time for selected species and local information on resistance is desirable, particularly when treating severe infections.
 As necessary, expert advice should be sought when the local prevalence of resistance is such that the utility of the agent in at least some types of infections is questionable.
-
 Commonly Susceptible Species
 Staphylococcus aureus *
 Staphylococcus haemolyticus
@@ -38,6 +37,7 @@ Peptostreptococcus spp
 Inherently resistant organisms
 Gram negative organisms
 * denotes species against which it is considered that activity has been satisfactorily demonstrated in clinical studies.
+
 Information from clinical trials
 In two clinical trials in complicated skin and soft tissues infections, 36% of patients treated with Cubicin met the criteria for systemic inflammatory response syndrome (SIRS).
 The most common type of infection treated was wound infection (38% of patients), while 21% had major abscesses.

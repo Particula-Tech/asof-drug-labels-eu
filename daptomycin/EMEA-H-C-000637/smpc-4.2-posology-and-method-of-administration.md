@@ -4,7 +4,6 @@ Clinical studies in patients employed infusion of daptomycin over 30 minutes.
 There is no clinical experience in patients with the administration of daptomycin as an injection over 2 minutes.
 This mode of administration was only studied in healthy subjects.
 However, when compared with the same doses given as intravenous infusions over 30 minutes there were no clinically important differences in the pharmacokinetics and safety profile of daptomycin (see also sections 4.8 and 5.2).
-
 Posology
 
 - cSSTI without concurrent Staphylococcus aureus bacteraemia: Cubicin 4 mg/kg is administered once every 24 hours for 7-14 days or until the infection is resolved (see section 5.1).
@@ -41,10 +40,10 @@ Whenever possible, Cubicin should be administered following the completion of di
 Hepatic impairment
 No dose adjustment is necessary when administering Cubicin to patients with mild or moderate hepatic impairment (Child-Pugh Class B) (see section 5.2).
 No data are available in patients with severe hepatic impairment (Child-Pugh Class C). Therefore caution should be exercised if Cubicin is given to such patients.
-
 Elderly patients
 The recommended doses should be used in elderly patients except those with severe renal impairment (see above and section 4.4).
 However, there are limited data on the safety and efficacy of daptomycin in patients aged > 65 years and caution should be exercised if Cubicin is given to such patients.
+
 Paediatric population
 The safety and efficacy of Cubicin in children and adolescents below the age of 18 have not been established.
 Currently available data are described in section 5.2 but no recommendation on a posology can be made.

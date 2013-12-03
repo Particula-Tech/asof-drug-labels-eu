@@ -2,7 +2,6 @@
 
 Daptomycin pharmacokinetics are generally linear and time-independent at doses of 4 to 12 mg/kg administered as a single daily dose by 30-minute intravenous infusion for up to 14 days in healthy volunteers.
 Steady-state concentrations are achieved by the third daily dose.
-
 Daptomycin administered as a 2-minute intravenous injection also exhibited dose proportional pharmacokinetics in the approved therapeutic dose range of 4 to 6 mg/kg.
 Comparable exposure (AUC and Cmax) was demonstrated in healthy subjects following administration of daptomycin as a 30-minute intravenous infusion or as a 2-minute intravenous injection.
 
@@ -14,6 +13,7 @@ Tissue distribution studies in rats showed that daptomycin appears to only minim
 
 Daptomycin is reversibly bound to human plasma proteins in a concentration independent manner.
 In healthy volunteers and patients treated with daptomycin, protein binding averaged about 90% including subjects with renal impairment.
+
 Biotransformation
 In in vitro studies, daptomycin was not metabolised by human liver microsomes.
 In vitro studies with human hepatocytes indicate that daptomycin does not inhibit or induce the activities of the following human cytochrome P450 isoforms: 1A2, 2A6, 2C9, 2C19, 2D6, 2E1 and 3A4.
@@ -42,7 +42,6 @@ The differences noted are most likely due to the normal reduction in renal funct
 
 No dose adjustment is necessary based on age alone.
 However, renal function should be assessed and the dose should be reduced if there is evidence of severe renal impairment.
-
 Children and adolescents (< 18 years of age)
 The pharmacokinetics of daptomycin after a single 4 mg/kg dose of Cubicin were evaluated in three groups of paediatric patients with proven or suspected Gram-positive infection (2-6 years, 7-11 years and 12-17 years).
 The pharmacokinetics of daptomycin following a single 4 mg/kg dose in adolescents aged 12-17 years are generally similar to those of healthy adult subjects with normal renal function with trends towards lower AUC and Cmax in adolescents.
