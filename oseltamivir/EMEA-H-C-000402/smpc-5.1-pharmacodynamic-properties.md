@@ -11,7 +11,6 @@ Oseltamivir phosphate inhibits influenza virus infection and replication in vitr
 Oseltamivir given orally inhibits influenza A and B virus replication and pathogenicity in vivo in animal models of influenza infection at antiviral exposures similar to that achieved in man with 75 mg twice daily.
 
 Antiviral activity of oseltamivir was supported for influenza A and B by experimental challenge studies in healthy volunteers.
-
 Neuraminidase enzyme IC50 values for oseltamivir for clinically isolated influenza A ranged from 0.1 nM to 1.3 nM, and for influenza B was 2.6 nM.
 Higher IC50 values for influenza B, up to a median of 8.5 nM, have been observed in published studies.
 
@@ -45,7 +44,6 @@ By day 6 (the last day of treatment) FEV1 had increased by 10.8 % in the oseltam
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with Tamiflu in one or more subsets of the paediatric population in influenza.
 See section 4.2 for information on paediatric use.
-
 Treatment of influenza B infection: Overall, 15 % of the influenza-positive population were infected by influenza B, proportions ranging from 1 to 33 % in individual studies.
 The median duration of illness in influenza B infected subjects did not differ significantly between the treatment groups in individual studies.
 Data from 504 influenza B infected subjects were pooled across all studies for analysis.
@@ -75,7 +73,6 @@ Prevention during an influenza epidemic in the community: In a pooled analysis o
 The NNT in this study was 28 (95 % CI 24 – 50).
 A study in elderly residents of nursing homes, where 80 % of participants received vaccine in the season of the study, oseltamivir 75 mg once daily given for 6 weeks significantly reduced the incidence of clinical influenza illness from 12/272 (4.4 %) in the placebo group to 1/276 (0.4 %) in the oseltamivir group (92 % reduction [95 % CI 1.5 – 6.6; p = 0.0015]).
 The NNT in this study was 25 (95 % CI 23 – 62).
-
 Prophylaxis of influenza in immunocompromised patients: A double-blind, placebo-controlled, randomised study was conducted for seasonal prophylaxis of influenza in 475 immunocompromised patients (388 patients with solid organ transplantation [195 placebo; 193 oseltamivir], 87 patients with hemopoetic stem cell transplantation [43 placebo; 44 oseltamivir], no patient with other immunosuppressant conditions), including 18 children 1 to 12 years of age.
 The primary endpoint in this study was the incidence of laboratory-confirmed clinical influenza as determined by viral culture and/or a four-fold rise in HAI antibodies.
 The incidence of laboratory-confirmed clinical influenza was 2.9 % (7/238) in the placebo group and 2.1 % (5/237) in the oseltamivir group (95 % CI -2.3 % –
@@ -90,13 +87,14 @@ All patients who were found to carry oseltamivir-resistant virus did so transien
 | Patient Population | Patients with Resistance Mutations (%) |  |
 | --- | --- | --- |
 |  | Phenotyping* | Geno- and Phenotyping* |
-| Adults and adolescents | 4/1,245 (0.32%) | 5/1,245 (0.4%) |
-| Children (1-12 years) | 19/464 (4.1%) | 25/464 (5.4%) |
+| Adults and adolescents | 4/1,245 (0.32 %) | 5/1,245 (0.4 %) |
+| Children (1-12 years) | 19/464 (4.1 %) | 25/464 (5.4 %) |
 
 * Full genotyping was not performed in all studies.
 
 There has been no evidence for emergence of drug resistance associated with the use of Tamiflu in clinical studies conducted to date in post-exposure (7 days), post-exposure within household groups (10 days) and seasonal (42 days) prevention of influenza in immunocompetent patients.
 There was no resistance observed during a 12-week prophylaxis study in immunocompromised patients.
+
 Clinical and surveillance data: Natural mutations associated with reduced susceptibility to oseltamivir in vitro have been detected in influenza A and B viruses isolated from patients without exposure to oseltamivir.
 Resistant strains selected during oseltamivir treatment have been isolated from both immunocompetent and immunocompromised patients.
 Immunocompromised patients and young children are at a higher risk of developing oseltamivir-resistant virus during treatment.

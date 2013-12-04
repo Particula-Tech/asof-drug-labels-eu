@@ -11,18 +11,27 @@ Tamiflu hard capsules and Tamiflu suspension are bioequivalent formulations.
 
 Adults, adolescents or infants and children (1 year of age or older) who are unable to swallow capsules may receive appropriate doses of Tamiflu suspension.
 
-Adolescents (13 to 17 years of age) and adults
+Adults, and adolescents 13 years and over
 
 Treatment: The recommended oral dose is 75 mg oseltamivir twice daily for 5 days for adolescents (13 to 17 years of age) and adults.
+
+| Body Weight | Recommended dose for 5 days |
+| --- | --- |
+| > 40 kg | 75 mg twice daily |
 
 Treatment should be initiated as soon as possible within the first two days of onset of symptoms of influenza.
 
 Post-exposure prevention: The recommended dose for prevention of influenza following close contact with an infected individual is 75 mg oseltamivir once daily for 10 days for adolescents (13 to 17 years of age) and adults.
+
+| Body Weight | Recommended dose for 10 days |
+| --- | --- |
+| > 40 kg | 75 mg once daily |
+
 Therapy should begin as soon as possible within two days of exposure to an infected individual.
 
 Prevention during an influenza epidemic in the community: The recommended dose for prevention of influenza during a community outbreak is 75 mg oseltamivir once daily for up to 6 weeks.
 
-Infants and children 1 year of age or older
+Children 1 to 12 years
 
 Tamiflu 30 mg, 45 mg and 75 mg capsules and oral suspension are available for infants and children 1 year of age or older
 
@@ -36,7 +45,6 @@ Treatment: The following weight-adjusted dosing regimens are recommended for tre
 | > 40 kg | 75 mg twice daily |
 
 Treatment should be initiated as soon as possible within the first two days of onset of symptoms of influenza.
-
 Post-exposure prevention: The recommended post-exposure prevention dose of Tamiflu is:
 
 | Body Weight | Recommended dose for 10 days |
@@ -47,7 +55,8 @@ Post-exposure prevention: The recommended post-exposure prevention dose of Tamif
 | > 40 kg | 75 mg once daily |
 
 Prevention during an influenza epidemic in the community: Prevention during an influenza epidemic has not been studied in children below 12 years of age.
-For infants below 1 year of age
+
+Iinfants less than 1 year
 
 In the absence of a suitable formulation, a pharmacy compounded preparation should preferentially be used as the syringe provided in the Tamiflu 12 mg/ml powder for oral suspension pack (with mg markings) does not allow for appropriate dose adjustments and commercially available syringes (with ml markings) may lead to unacceptable dosing inaccuracies (see section 6.6).
 
@@ -57,9 +66,9 @@ The following age-adjusted dosing regimens are recommended for treatment of infa
 
 | Age | Recommended dose for 5 days |
 | --- | --- |
-| > 3 months to 12 months | 3 mg/kg twice daily |
-| > 1 month to 3 months | 2.5 mg/kg twice daily |
 | 0 to 1 month* | 2 mg/kg twice daily |
+| > 1 month to 3 months | 2.5 mg/kg twice daily |
+| > 3 months to 12 months | 3 mg/kg twice daily |
 
 * There is no data available regarding the administration of Tamiflu to infants less than one month of age.
 
@@ -74,9 +83,9 @@ The following age-adjusted dosing prophylaxis regimens are recommended for infan
 
 | Age | Recommended dose for 10 days |
 | --- | --- |
-| > 3 months to 12 months | 3 mg/kg once daily |
-| > 1 month to 3 months | 2.5 mg/kg once daily |
 | 0 to 1 month* | 2 mg/kg once daily |
+| > 1 month to 3 months | 2.5 mg/kg once daily |
+| > 3 months to 12 months | 3 mg/kg once daily |
 
 * There is no data available regarding the administration of Tamiflu to infants less than one month of age.
 
@@ -84,12 +93,12 @@ These age-based dosing recommendations are not intended for premature infants, i
 Insufficient data are available for these patients, in whom different dosing may be required due to the immaturity of physiological functions.
 
 For instructions on preparing the extemporaneous formulation, see section 6.6.
-
 Special populations
 
 Hepatic impairment
 No dose adjustment is required either for treatment or for prevention in patients with hepatic dysfunction.
 No studies have been carried out in paediatric patients with hepatic disorder.
+
 Renal impairment
 Treatment of influenza: Dose adjustment is recommended for adults and adolescents (13 to 17 years of age) with moderate or severe renal impairment.
 Recommended doses are detailed in the table below.
@@ -134,9 +143,9 @@ Adults, adolescents (13 to 17 years of age) or infants and children (1 year of a
 
 [Tamiflu 45 mg hard capsules]
 
-Treatment:The recommended treatment dose for infants less than 1 year of age is between 2 mg/kg twice daily and 3 mg/kg twice daily during a pandemic influenza outbreak.
+For infants below 1 year of age
 
-Post-exposure prevention:The recommended prophylaxis dose for infants less than 1 year of age during a pandemic influenza outbreak is half of the daily treatment dose.
+Treatment:The recommended treatment dose for infants less than 1 year of age is between 2 mg/kg twice daily and 3 mg/kg twice daily during a pandemic influenza outbreak.
 
 | Creatinine clearance | Recommended dose for prevention |
 | --- | --- |
@@ -180,8 +189,8 @@ This is based upon limited pharmacokinetic data indicating that these doses prov
 
 In case of a pandemic, a 3 ml oral dispenser (graduated in 0.1 ml steps) should be used for dosing children below 12 months of age requiring 6 mg to 18 mg of oseltamivir.
 Information should be provided to the patient´s parents or caregivers on where to obtain the 3 ml oral dispenser.
-
-Dosing table of oseltamivir for children aged from 0 to 30 days: 2 mg/kg twice daily
+Dosing table of oseltamivir for children aged from 0 to 30 days (less than one month of age):
+2 mg/kg twice daily
 
 | Body weight | Recommended dose for 5 days | Amount of oral suspension to withdraw |
 | --- | --- | --- |
@@ -190,7 +199,7 @@ Dosing table of oseltamivir for children aged from 0 to 30 days: 2 mg/kg twice d
 | 4 kg | 8 mg twice daily | 1.3 ml twice daily |
 | 4.5 kg | 9 mg twice daily | 1.5 ml twice daily |
 
-Dosing table of oseltamivir for children aged from 31 to 90 days: 2.5 mg/kg twice daily
+Dosing table of oseltamivir for children aged from 31 to 90 days (more than one month to three months of age): 2.5 mg/kg twice daily
 
 | Body weight | Recommended dose for 5 days | Amount of oral suspension to withdraw |
 | --- | --- | --- |
@@ -201,14 +210,18 @@ Dosing table of oseltamivir for children aged from 31 to 90 days: 2.5 mg/kg twic
 | 6 kg | 15 mg twice daily | 2.5 ml twice daily |
 | 6.5 kg | 16.25 mg twice daily | 2.7 ml twice daily |
 
-Dosing table of oseltamivir for children aged from 91 to < 365 days: 3 mg/kg twice daily
+Dosing table of oseltamivir for children aged from 91 to < 365 days (more than three months to twelve months of age): 3 mg/kg twice daily
 
 | Body weight | Recommended dose for 5 days | Amount of oral suspension to withdraw |
 | --- | --- | --- |
 | 6 kg | 18 mg twice daily | 3.0 ml twice daily |
+| 6.5 kg | 19.5 mg twice daily | 3.3 ml twice daily |
 | 7 kg | 21 mg twice daily | 3.5 ml twice daily |
+| 7.5 kg | 22.5 mg twice daily | 3.8 ml twice daily |
 | 8 kg | 24 mg twice daily | 4.0 ml twice daily |
+| 8.5 kg | 25.5 mg twice daily | 4.3 ml twice daily |
 | 9 kg | 27 mg twice daily | 4.5 ml twice daily |
+| 9.5 kg | 28.5 mg twice daily | 4.8 ml twice daily |
 | 10 kg | 30 mg twice daily | 5.0 ml twice daily |
 
 There is no data available regarding the administration of Tamiflu to infants less than one month of age.
@@ -239,7 +252,7 @@ In case of a pandemic, a 3 ml oral dispenser (graduated in 0.1 ml steps) should 
 
 The following weight-adjusted dosing regimens are recommended for infants less than 1 year of age:
 
-Dosing table of oseltamivir for children aged from 0 to 30 days: 2 mg/kg once daily
+2 mg/kg once daily
 
 | Body Weight | Recommended dose for 10 days | Amount of oral suspension to withdraw |
 | --- | --- | --- |
@@ -248,7 +261,7 @@ Dosing table of oseltamivir for children aged from 0 to 30 days: 2 mg/kg once da
 | 4 kg | 8 mg once daily | 1.3 ml once daily |
 | 4.5 kg | 9 mg once daily | 1.5 ml once daily |
 
-Dosing table of oseltamivir for children aged from 31 to 90 days: 2.5 mg/kg once daily
+Dosing table of oseltamivir for children aged from 31 to 90 days (more than one month to three months of age): 2.5 mg/kg once daily
 
 | Body Weight | Recommended dose for 10 days | Amount of oral suspension to withdraw |
 | --- | --- | --- |
@@ -259,14 +272,18 @@ Dosing table of oseltamivir for children aged from 31 to 90 days: 2.5 mg/kg once
 | 6 kg | 15 mg once daily | 2.5 ml once daily |
 | 6.5 kg | 16.25 mg once daily | 2.7 ml once daily |
 
-Dosing table of oseltamivir for children aged from 91 to < 365 days: 3 mg/kg once daily
+Dosing table of oseltamivir for children aged from 91 to < 365 days (more than three months to twelve months of age): 3 mg/kg once daily
 
 | Body Weight | Recommended dose for 10 days | Amount of oral suspension to withdraw |
 | --- | --- | --- |
 | 6 kg | 18 mg once daily | 3.0 ml once daily |
+| 6.5 kg | 19.5 mg once daily | 3.3 ml once daily |
 | 7 kg | 21 mg once daily | 3.5 ml once daily |
+| 7.5 kg | 22.5 mg once daily | 3.8 ml once daily |
 | 8 kg | 24 mg once daily | 4.0 ml once daily |
+| 8.5 kg | 25.5 mg once daily | 4.3 ml once daily |
 | 9 kg | 27 mg once daily | 4.5 ml once daily |
+| 9.5 kg | 28.5 mg once daily | 4.8 ml once daily |
 | 10 kg | 30 mg once daily | 5.0 ml once daily |
 
 There is no data available regarding the administration of Tamiflu to infants less than 1 month of age.

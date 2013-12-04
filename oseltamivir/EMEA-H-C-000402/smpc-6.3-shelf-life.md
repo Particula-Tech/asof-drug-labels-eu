@@ -3,9 +3,7 @@
 7 years
 
 Storage of the pharmacy compounded suspension
-Shelf life of 3 weeks when stored below 25 °C.
-
-Shelf life of 6 weeks at 2 °C - 8 °C.
+Shelf life of 10 days when stored below 25 °C.
 
 [Tamiflu 45 mg hard capsules]
 
@@ -13,7 +11,7 @@ Shelf life of 6 weeks at 2 °C - 8 °C.
 
 [Tamiflu 75 mg hard capsules]
 
-(all sentences already above)
+.
 
 [Tamiflu 6 mg/ml powder for oral suspension]
 

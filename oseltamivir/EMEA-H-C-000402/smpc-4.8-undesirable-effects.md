@@ -8,7 +8,8 @@ In adults/adolescents, the most commonly reported adverse reactions (ARs) were n
 The majority of these ARs were reported on a single occasion on either the first or second treatment day and resolved spontaneously within 1-2 days.
 In children, the most commonly reported adverse reaction was vomiting.
 In the majority of patients, these ARs did not lead to discontinuation of Tamiflu.
-The following serious clinically important adverse reactions have been rarely reported since oseltamivir has been marketed: Anaphylactic and anaphylactoid reactions, hepatic disorders (fulminant hepatitis, hepatic function disorder and jaundice), angioneurotic oedema, Stevens-Johnson syndrome and toxic epidermal necrolysis, gastrointestinal bleeding and neuropsychiatric disorders.
+
+The following serious adverse reactions have been rarely reported since oseltamivir has been marketed: Anaphylactic and anaphylactoid reactions, hepatic disorders (fulminant hepatitis, hepatic function disorder and jaundice), angioneurotic oedema, Stevens-Johnson syndrome and toxic epidermal necrolysis, gastrointestinal bleeding and neuropsychiatric disorders.
 (Regarding neuropsychiatric disorders, see section 4.4.)
 
 Tabulated list of adverse reactions
@@ -32,12 +33,12 @@ Table 1 Adverse reactions in studies investigating Tamiflu for treatment and pre
 | Nervous system disorders | Headache | Insomnia | Altered level of consciousness, Convulsion |  |
 | Eye disorders |  |  |  | Visual disturbance |
 | Cardiac disorders |  |  | Cardiac arrhythmia |  |
-| Respiratory, thoracic and mediastinal disorders |  | Cough, Sore throat, Rhinorrhea |  |  |
 |  | Very common | Common | Uncommon | Rare |
+| Respiratory, thoracic and mediastinal disorders |  | Cough, Sore throat, Rhinorrhea |  |  |
 | Gastrointestinal disorders | Nausea | Vomiting Abdominal pain (incl. upper abdominal pain), Dyspepsia |  | Gastrointestinal bleedings, Hemorrhagic colitis |
 | Hepatobiliary disorders |  |  | Elevated liver enzymes | Fulminant hepatitis, Hepatic failure, Hepatitis |
 | Skin and subcutaneous tissue disorders |  |  | Eczema, Dermatitis, Rash, Urticaria | Angioneurotic oedema, Erythema multiforme, Stevens-Johnson syndrome, Toxic epidermal necrolysis |
-| General disorders and administration site conditions |  | Pain Dizziness (incl. vertigo), Fatigue, Pyrexia , Pain in limb |  |  |
+| General disorders and administration site conditions |  | Pain Dizziness (incl. vertigo), Fatigue, Pyrexia, Pain in limb |  |  |
 
 Treatment and prevention of influenza in children:
 
@@ -46,7 +47,6 @@ Of those, 851 children received treatment with oseltamivir suspension.
 A total of 158 children received the recommended dose of Tamiflu once daily in a post-exposure prophylaxis study in households (n = 99), a 6-week paediatric seasonal prophylaxis study (n = 49) and a 12-week paediatric seasonal prophylaxis study in immunocompromised subjects (n = 10).
 
 Table 2 shows the most frequently reported ARs from paediatric clinical trials.
-
 Table 2 Adverse reactions in studies investigating Tamiflu for treatment and prevention of influenza in children (age/weight-based dosing [30 mg to 75 mg o.d.])
 
 | System Organ Class (SOC) | Adverse reactions according to frequency |  |  |  |
@@ -57,7 +57,6 @@ Table 2 Adverse reactions in studies investigating Tamiflu for treatment and pre
 | Eye disorders: |  | Conjunctivitis (including red eyes, eye discharge and eye pain) |  |  |
 | Ear and labyrinth disorders: |  | Earache | Tympanic membrane disorder |  |
 | Respiratory, thoracic and mediastinal disorders | Cough, Nasal congestion | Rhinorrhoea |  |  |
-|  | Very common | Common | Uncommon | Rare |
 | Gastrointestinal disorders | Vomiting | Abdominal pain (incl. upper abdominal pain), Dyspepsia, Nausea |  |  |
 | Skin and subcutaneous tissue disorders |  |  | Dermatitis (including allergic and atopic dermatitis) |  |
 
@@ -93,9 +92,7 @@ In general, the adverse reaction profile in children with pre-existing bronchial
 
 [Tamiflu 45 mg hard capsules]
 
-The following serious adverse reactions have been rarely reported since oseltamivir has been marketed: Anaphylactic and anaphylactoid reactions, hepatic disorders (fulminant hepatitis, hepatic function disorder and jaundice), angioneurotic oedema, Stevens-Johnson syndrome and toxic epidermal necrolysis, gastrointestinal bleeding and neuropsychiatric disorders.
-
-A total of 158 children received the recommended dose of Tamiflu once daily in a post-exposure prophylaxis study in households (n = 99), a 6-week paediatric seasonal prophylaxis study (n = 49) and a 12-week paediatric seasonal prophylaxis study in immunocompromised subjects(n = 10).
+(all sentences already above)
 
 [Tamiflu 75 mg hard capsules]
 
@@ -108,29 +105,17 @@ A total of 158 children received the recommended dose of Tamiflu once daily in a
 |  | Very common | Common | Uncommon | Rare |
 | Infections and infestations |  | Bronchitis, Herpes simplex, Nasopharyngitis, Upper respiratory tract infections, Sinusitis |  |  |
 | Blood and lymphatic system disorders |  |  |  | Thrombocytopenia |
+|  | Very common | Common | Uncommon | Rare |
 | Immune system disorders |  |  | Hypersensitivity reaction | Anaphylactic reactions, Anaphylactoid reactions |
 | Psychiatric disorders |  |  |  | Agitation, Abnormal behaviour, Anxiety, Confusion, Delusions, Delirium, Hallucination, Nightmares, Self-injury |
 | Nervous system disorders | Headache | Insomnia | Altered level of consciousness, Convulsion |  |
 | Eye disorders |  |  |  | Visual disturbance |
 | Cardiac disorders |  |  | Cardiac arrhythmia |  |
-|  | Very common | Common | Uncommon | Rare |
 | Respiratory, thoracic and mediastinal disorders |  | Cough, Sore throat, Rhinorrhea |  |  |
 | Gastrointestinal disorders | Nausea | Vomiting Abdominal pain (incl. upper abdominal pain), Dyspepsia |  | Gastrointestinal bleedings, Hemorrhagic colitis |
 | Hepatobiliary disorders |  |  | Elevated liver enzymes | Fulminant hepatitis, Hepatic failure, Hepatitis |
 | Skin and subcutaneous tissue disorders |  |  | Eczema, Dermatitis, Rash, Urticaria | Angioneurotic oedema, Erythema multiforme, Stevens-Johnson syndrome, Toxic epidermal necrolysis |
-| General disorders and administration site conditions |  | Pain Dizziness (incl. vertigo), Fatigue, Pyrexia , Pain in limb |  |  |
-
-| System Organ Class (SOC) | Adverse reactions according to frequency |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | Very common | Common | Uncommon | Rare |
-| Infections and infestations |  | Otitis media, |  |  |
-| Nervous system disorders |  | Headache |  |  |
-| Eye disorders: |  | Conjunctivitis (including red eyes, eye discharge and eye pain) |  |  |
-| Ear and labyrinth disorders: |  | Earache | Tympanic membrane disorder |  |
-|  | Very common | Common | Uncommon | Rare |
-| Respiratory, thoracic and mediastinal disorders | Cough, Nasal congestion | Rhinorrhoea |  |  |
-| Gastrointestinal disorders | Vomiting | Abdominal pain (incl. upper abdominal pain), Dyspepsia, Nausea |  |  |
-| Skin and subcutaneous tissue disorders |  |  | Dermatitis (including allergic and atopic dermatitis) |  |
+| General disorders and administration site conditions |  | Pain Dizziness (incl. vertigo), Fatigue, Pyrexia, Pain in limb |  |  |
 
 [Tamiflu 12 mg/ml powder for oral suspension]
 
@@ -146,19 +131,7 @@ A total of 158 children received the recommended dose of Tamiflu once daily in a
 | Cardiac disorders |  |  | Cardiac arrhythmia |  |
 | Respiratory, thoracic and mediastinal disorders |  | Cough, Sore throat, Rhinorrhea |  |  |
 | Gastrointestinal disorders | Nausea | Vomiting Abdominal pain (incl. upper abdominal pain), Dyspepsia |  | Gastrointestinal bleedings, Hemorrhagic colitis |
+|  | Very common | Common | Uncommon | Rare |
 | Hepatobiliary disorders |  |  | Elevated liver enzymes | Fulminant hepatitis, Hepatic failure, Hepatitis |
-|  | Very common | Common | Uncommon | Rare |
 | Skin and subcutaneous tissue disorders |  |  | Eczema, Dermatitis, Rash, Urticaria | Angioneurotic oedema, Erythema multiforme, Stevens-Johnson syndrome, Toxic epidermal necrolysis |
-| General disorders and administration site conditions |  | Pain Dizziness (incl. vertigo), Fatigue, Pyrexia , Pain in limb |  |  |
-
-| System Organ Class (SOC) | Adverse reactions according to frequency |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | Very common | Common | Uncommon | Rare |
-| Infections and infestations |  | Otitis media, |  |  |
-| Nervous system disorders |  | Headache |  |  |
-| Eye disorders: |  | Conjunctivitis (including red eyes, eye discharge and eye pain) |  |  |
-| Ear and labyrinth disorders: |  | Earache | Tympanic membrane disorder |  |
-| Respiratory, thoracic and mediastinal disorders | Cough, Nasal congestion | Rhinorrhoea |  |  |
-| Gastrointestinal disorders | Vomiting | Abdominal pain (incl. upper abdominal pain), Dyspepsia, Nausea |  |  |
-|  | Very common | Common | Uncommon | Rare |
-| Skin and subcutaneous tissue disorders |  |  | Dermatitis (including allergic and atopic dermatitis) |  |
+| General disorders and administration site conditions |  | Pain Dizziness (incl. vertigo), Fatigue, Pyrexia, Pain in limb |  |  |

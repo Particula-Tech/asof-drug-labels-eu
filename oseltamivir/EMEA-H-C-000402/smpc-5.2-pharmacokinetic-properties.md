@@ -7,7 +7,6 @@ Oseltamivir is readily absorbed from the gastrointestinal tract after oral admin
 At least 75 % of an oral dose reaches the systemic circulation as the active metabolite.
 Exposure to the pro-drug is less than 5 % relative to the active metabolite.
 Plasma concentrations of both pro-drug and active metabolite are proportional to dose and are unaffected by co-administration with food.
-
 Distribution
 The mean volume of distribution at steady state of the oseltamivir carboxylate is approximately 23 litres in humans, a volume equivalent to extracellular body fluid.
 Since neuraminidase activity is extracellular, oseltamivir carboxylate distributes to all sites of influenza virus spread.

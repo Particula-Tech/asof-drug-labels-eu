@@ -2,6 +2,7 @@
 
 Oseltamivir is effective only against illness caused by influenza viruses.
 There is no evidence for efficacy of oseltamivir in any illness caused by agents other than influenza viruses (see section 5.1).
+
 Tamiflu is not a substitute for influenza vaccination.
 Use of Tamiflu must not affect the evaluation of individuals for annual influenza vaccination.
 The protection against influenza lasts only as long as Tamiflu is administered.
