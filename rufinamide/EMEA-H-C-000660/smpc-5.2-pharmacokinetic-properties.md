@@ -34,6 +34,7 @@ Pharmacokinetics in special patient groups
 Sex
 Population pharmacokinetic modelling has been used to evaluate the influence of sex on the pharmacokinetics of rufinamide.
 Such evaluations indicate that sex does not affect the pharmacokinetics of rufinamide to a clinically relevant extent.
+
 Renal impairment
 The pharmacokinetics of a single 400 mg dose of rufinamide were not altered in subjects with chronic and severe renal failure compared to healthy volunteers.
 However, plasma levels were reduced by approximately 30% when haemodialysis was applied after administration of rufinamide, suggesting that this may be a useful procedure in case of overdose (see sections 4.2 and 4.9).
@@ -45,8 +46,8 @@ Children (2-12 years)
 Children generally have lower clearance of rufinamide than adults, and this difference is related to body size.
 Studies in new-born infants or infants and toddlers under 2 years of age have not been conducted.
 
-Elderly
-A pharmacokinetic study in elderly healthy volunteers did not show a significant difference in pharmacokinetic parameters compared with younger adults.
+Older people
+A pharmacokinetic study in older healthy volunteers did not show a significant difference in pharmacokinetic parameters compared with younger adults.
 
 [Inovelon 200 mg film-coated tablets]
 
@@ -61,3 +62,5 @@ No studies have been performed in patients with hepatic impairment and therefore
 After single doses, food increases the bioavailability (AUC) of rufinamide by approximately 34% and the peak plasma concentration by 56%.
 
 As dose increases, the bioavailability decreases.
+
+Older peopleA pharmacokinetic study in older healthy volunteers did not show a significant difference in pharmacokinetic parameters compared with younger adults.

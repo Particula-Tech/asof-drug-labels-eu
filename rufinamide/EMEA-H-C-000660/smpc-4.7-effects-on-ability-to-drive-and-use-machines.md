@@ -14,5 +14,4 @@ Patients must be advised to exercise caution during activities requiring a high 
 
 [Inovelon 40 mg/ml oral suspension]
 
-Rufinamide may cause dizziness, somnolence and blurred vision.
 Depending on the individual sensitivity, rufinamide may have a minor to major influence on the ability to drive or use machines.

@@ -17,7 +17,7 @@ Potential for rufinamide to affect other medicinal products
 
 Other antiepileptic medicinal products
 The pharmacokinetic interactions between rufinamide and other antiepileptic medicinal products have been evaluated in patients with epilepsy using population pharmacokinetic modelling.
-Rufinamide appears not to have clinically relevant effect on carbamazepine, lamotrigine, phenobarbital, topiramate or valproate steady state concentrations.
+Rufinamide appears not to have clinically relevant effect on carbamazepine, lamotrigine, phenobarbital, topiramate, phenytoin or valproate steady state concentrations.
 
 Oral contraceptives
 Co-administration of rufinamide 800 mg b.i.d. and a combined oral contraceptive (ethinyloestradiol 35 μg and norethindrone 1 mg) for 14 days resulted in a mean decrease in the ethinyl estradiol AUC0-24 of 22% and in norethindrone AUC0-24 of 14%.

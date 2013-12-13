@@ -10,6 +10,7 @@ The most common adverse reactions resulting in discontinuation from the rufinami
 
 Tabulated list of adverse reactions
 Adverse reactions reported with an incidence greater than placebo, during the Lennox-Gastaut syndrome double-blind studies or in the overall rufinamide-exposed population, are listed in the table below by MedDRA preferred term, system organ class and by frequency.
+
 Frequencies are defined as: very common (≥ 1/10), common (≥ 1/100 < 1/10), uncommon (≥ 1/1,000 < 1/100), rare (≥1/10,000 to <1/1,000).
 
 | System Organ Class | Very Common | Common | Uncommon | Rare |
@@ -33,6 +34,11 @@ Frequencies are defined as: very common (≥ 1/10), common (≥ 1/100 < 1/10), u
 | Injury, poisoning and procedural complications |  | Head injury Contusion |  |  |
 
 *Cross refer to section 4.4.
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 [Inovelon 200 mg film-coated tablets]
 
@@ -61,25 +67,7 @@ Tabulated list of adverse events
 
 [Inovelon 400 mg film-coated tablets]
 
-| System Organ Class | Very Common | Common | Uncommon | Rare |
-| --- | --- | --- | --- | --- |
-| Infections and infestations |  | Pneumonia Influenza Nasopharyngitis Ear infection Sinusitis Rhinitis |  |  |
-| Immune system disorders |  |  | Hypersensitivity* |  |
-| Metabolism and nutrition disorders |  | Anorexia Eating disorder Decreased appetite |  |  |
-| Psychiatric disorders |  | Anxiety Insomnia |  |  |
-| Nervous system disorders | Somnolence* Headache Dizziness* | Status epilepticus* Convulsion Coordination Abnormal* Nystagmus Psychomotor hyperactivity Tremor |  |  |
-| Eye Disorders |  | Diplopia Vision blurred |  |  |
-| Ear and Labyrinth disorders |  | Vertigo |  |  |
-| Respiratory, thoracic and mediastinal disorders |  | Epistaxis |  |  |
-| Gastrointestinal disorders | Nausea Vomiting | Abdominal pain upper Constipation Dyspepsia Diarrhoea |  |  |
-| Hepatobiliary disorders |  |  | Hepatic enzyme increase |  |
-| Skin and |  | Rash* |  |  |
-| subcutaneous tissue disorders |  | Acne |  |  |
-| Musculoskeletal and connective tissue and bone disorders |  | Back pain |  |  |
-| Reproductive system and breast disorders |  | Oligomenorrhoea |  |  |
-| General disorders and administration site conditions | Fatigue | Gait disturbance* |  |  |
-| Investigations |  | Weight decrease |  |  |
-| Injury, poisoning and procedural complications |  | Head injury Contusion |  |  |
+(all sentences already above)
 
 [Inovelon 40 mg/ml oral suspension]
 
@@ -96,11 +84,11 @@ Frequencies are defined as: very common (≥ 1/10), common (≥ 1/100 to < 1/10)
 | Eye Disorders |  | Diplopia Vision blurred |  |  |
 | Ear and Labyrinth disorders |  | Vertigo |  |  |
 | Respiratory, thoracic and mediastinal disorders |  | Epistaxis |  |  |
-| Gastrointestinal | Nausea | Abdominal pain upper |  |  |
-| disorders | Vomiting | Constipation Dyspepsia Diarrhoea |  |  |
+| Gastrointestinal disorders | Nausea | Abdominal pain upper |  |  |
+|  | Vomiting | Constipation Dyspepsia Diarrhoea |  |  |
 | Hepatobiliary disorders |  |  | Hepatic enzyme increase |  |
-| Skin and subcutaneous tissue disorders |  | Rash* |  |  |
-|  |  | Acne |  |  |
+| Skin and subcutaneous |  | Rash* |  |  |
+| tissue disorders |  | Acne |  |  |
 | Musculoskeletal and connective tissue and bone disorders |  | Back pain |  |  |
 | Reproductive system and breast disorders |  | Oligomenorrhoea |  |  |
 | General disorders and administration site conditions | Fatigue | Gait disturbance* |  |  |

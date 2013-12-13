@@ -12,5 +12,5 @@
 
 [Inovelon 40 mg/ml oral suspension]
 
-2 years.
+3 years.
 After first opening: 90 days.

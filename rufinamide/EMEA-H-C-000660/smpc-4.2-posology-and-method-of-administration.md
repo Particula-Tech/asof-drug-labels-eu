@@ -27,7 +27,6 @@ According to clinical response and tolerability, the dose may be increased by 40
 
 Doses of up to 4,000 mg/day (in the 30-50 kg range) or 4,800 mg/day (in the over 50 kg) have been studied in a limited number of patients.
 
-.
 Discontinuation of treatment
 When rufinamide treatment is to be discontinued, it should be withdrawn gradually.
 In clinical trials rufinamide discontinuation was achieved by reducing the dose by approximately 25% every two days.
@@ -40,9 +39,9 @@ Paediatric population
 The safety and efficacy of rufinamide of children aged 4 years and less have not yet been established.
 No data are available.
 
-Elderly
-There is limited information on the use of rufinamide in the elderly.
-Since, the pharmacokinetics of rufinamide are not altered in the elderly (see section 5.2), dosage adjustment is not required in patients over 65 years of age.
+Older people
+There is limited information on the use of rufinamide in older people.
+Since, the pharmacokinetics of rufinamide are not altered in older people (see section 5.2), dosage adjustment is not required in patients over 65 years of age.
 
 Renal impairment
 A study in patients with severe renal impairment indicated that no dose adjustments are required for these patients (see section 5.2).
@@ -55,7 +54,7 @@ Use in patients with severe hepatic impairment is not recommended.
 Method of administration
 Rufinamide is for oral use.
 It should be taken twice daily with water in the morning and in the evening, in two equally divided doses.
-As a food effect was observed, it will preferable to administer Inovelon with food (see section 5.2).
+As a food effect was observed, Inovelon should be administered with food (see section 5.2).
 If the patient has difficulty with swallowing, tablets can be crushed and administered in half a glass of water.
 
 [Inovelon 200 mg film-coated tablets]
@@ -63,6 +62,8 @@ If the patient has difficulty with swallowing, tablets can be crushed and admini
 Doses of up to 4000 mg/day (in the 30-50 kg range) or 4,800 mg/day (in the over 50 kg) have been studied in a limited number of patients.
 
 Discontinuation of rufinamide
+
+There is limited information on the use of rufinamide inolder people.
 
 [Inovelon 400 mg film-coated tablets]
 
@@ -83,7 +84,7 @@ Treatment should be initiated at a daily dose of 400 mg (10 ml dosing suspension
 
 Doses of up to 4,000 mg/day (100 ml/day) in the 30-50 kg range or 4,800 mg/day (120 ml/day) in the over 50 kg category have been studied in a limited number of patients.
 
-Since the pharmacokinetics of rufinamide are not altered in the elderly (see section 5.2), dosage adjustment is not required in patients over 65 years of age.
+Since the pharmacokinetics of rufinamide are not altered in older people (see section 5.2), dosage adjustment is not required in patients over 65 years of age.
 
 It should be taken twice daily in the morning and in the evening, in two equally divided doses.
 As a food effect was observed, it should be administered with food (see section 5.2).
