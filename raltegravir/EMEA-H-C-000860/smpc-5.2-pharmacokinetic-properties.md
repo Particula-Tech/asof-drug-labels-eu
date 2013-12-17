@@ -64,7 +64,7 @@ Following Administration of Doses in Section 4.2
 
 The pharmacokinetics of raltegravir in children under 2 years of age has not been established.
 
-Elderly
+Older people
 There was no clinically meaningful effect of age on raltegravir pharmacokinetics over the age range studied (19 to 71 years, with few (8) subjects over the age of 65).
 
 Gender, Race and BMI

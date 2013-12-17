@@ -28,6 +28,12 @@ Typically, such reactions have been observed within the first weeks or months of
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections and pneumonia caused by Pneumocystis jiroveci (formerly known as Pneumocystis carinii).
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
 
+Autoimmune disorders (such as Graves’ disease) have also been reported to occur in the setting of immune reactivation: however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
+
+Antacids
+Co-administration of ISENTRESS with aluminium and magnesium antacids resulted in reduced raltegravir plasma levels.
+Co-administration of ISENTRESS with aluminium and/or magnesium antacids is not recommended (see section 4.5).
+
 Rifampicin
 Caution should be used when co-administering ISENTRESS with strong inducers of uridine diphosphate glucuronosyltransferase (UGT) 1A1 (e.g., rifampicin).
 Rifampicin reduces plasma levels of raltegravir; the impact on the efficacy of raltegravir is unknown.

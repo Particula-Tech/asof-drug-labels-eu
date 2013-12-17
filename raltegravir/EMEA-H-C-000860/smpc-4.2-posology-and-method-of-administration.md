@@ -17,8 +17,8 @@ The maximum dose of the chewable tablet is 300 mg twice daily.
 Because the formulations are not bioequivalent, do not substitute the chewable tablets for the 400 mg tablet (see section 5.2).
 The chewable tablets have not been studied in HIV-infected adolescents or adults.
 
-Elderly
-There is limited information regarding the use of raltegravir in the elderly (see section 5.2).
+Older people
+There is limited information regarding the use of raltegravir in older patients (see section 5.2).
 Therefore ISENTRESS should be used with caution in this population.
 
 Renal impairment
@@ -29,7 +29,7 @@ The safety and efficacy of raltegravir have not been established in patients wit
 Therefore ISENTRESS should be used with caution in patients with severe hepatic impairment (see sections 4.4 and 5.2).
 
 Paediatric population
-Safety and efficacy of raltegravir in children below 2 years of age have not yet been established .
+Safety and efficacy of raltegravir in children below 2 years of age have not yet been established.
 No data are available.
 
 Method of administration
@@ -74,8 +74,8 @@ ISENTRESS chewable tablets can be administered with or without food (see section
 | (kg) | (lbs) |  |  |
 | 12 to < 14 | 26 to < 31 | 75 mg twice daily | 3 x 25 mg or 0.5 x 100 mg* + 1 x 25 mg |
 | 14 to < 20 | 31 to < 44 | 100 mg twice daily | 1 x 100 mg |
-| 20 to < 28 | 44 to < 62 | 150 mg twice daily | 1 x 100 mg + 2 x 25 mg or 1.5 x 100 mg* |
 | Body Weight |  | Dose | Number of Chewable Tablets per |
+| 20 to < 28 | 44 to < 62 | 150 mg twice daily | 1 x 100 mg + 2 x 25 mg or 1.5 x 100 mg* |
 | 28 to < 40 | 62 to < 88 | 200 mg twice daily | 2 x 100 mg |
 | at least 40 | at least 88 | 300 mg twice daily | 3 x 100 mg |
 

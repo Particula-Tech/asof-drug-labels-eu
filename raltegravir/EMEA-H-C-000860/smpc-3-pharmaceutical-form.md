@@ -7,7 +7,7 @@ Pink, oval tablet, marked with "227" on one side.
 [ISENTRESS 100 mg chewable tablets]
 
 Chewable tablet.
-Pale orange coloured, orange-banana flavoured, oval shaped, scored chewable tablet with the Merck logo and "477" on opposite sides of the score and plain on the reverse side.
+Pale orange coloured, orange-banana flavoured, oval shaped, chewable tablet scored on both sides with the Merck logo and "477" on one side and without inscription on the other side.
 The tablet can be divided into equal 50 mg doses.
 
 [ISENTRESS 25 mg chewable tablets]
