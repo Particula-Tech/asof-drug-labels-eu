@@ -3,6 +3,7 @@
 Hepatic function
 
 Elevations in ALT and AST >3 × upper limit of normal (ULN) have been reported in patients receiving therapy with Esbriet.
+Rarely these have been associated with concomitant elevations in total serum bilirubin.
 Liver function tests (ALT, AST and bilirubin) should be conducted prior to the initiation of treatment with Esbriet, and subsequently at monthly intervals for the first 6 months and then every 3 months thereafter (see section 4.8).
 In the event of significant elevation of liver aminotransferases the dose of Esbriet should be adjusted or treatment discontinued according to the guidelines listed below.
 For patients with confirmed elevations in ALT, AST or bilirubin during treatment, the following dose adjustments may be necessary.
@@ -41,7 +42,6 @@ Fatigue
 
 Fatigue has been reported in patients taking Esbriet.
 Therefore, patients should know how they react to this medicinal product before they engage in activities requiring mental alertness or coordination (see section 4.7).
-
 Weight loss
 
 Weight loss has been reported in patients treated with Esbriet (see section 4.8).

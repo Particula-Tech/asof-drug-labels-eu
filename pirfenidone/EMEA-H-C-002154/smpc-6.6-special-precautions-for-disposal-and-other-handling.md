@@ -1,3 +1,3 @@
-# 6.6 Special precautions for disposal <and other handling>
+# 6.6 Special precautions for disposal
 
 No special requirements.

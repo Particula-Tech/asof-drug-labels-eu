@@ -7,8 +7,8 @@ The most commonly reported (≥10%) adverse reactions during clinical study expe
 Serious adverse reactions were recorded at similar frequencies among patients treated with 2403 mg/day of Esbriet and placebo in clinical studies.
 
 Table 1 shows the adverse reactions reported at a frequency of ≥2% in 345 patients receiving Esbriet at the recommended dose of 2403 mg/day in two pivotal Phase 3 studies.
-Adverse reactions are listed by System Organ Class and within each frequency grouping [Very common (≥1/10), Common
-(≥1/100 to <1/10)] the adverse reactions are presented in order of decreasing seriousness.
+Adverse reactions from post-marketing experience are also listed in Table 1.
+Adverse reactions are listed by System Organ Class (SOC) and within each frequency grouping [Very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000)] the adverse reactions are presented in order of decreasing seriousness.
 
 | Table 1 Adverse reactions by SOC and MedDRA frequency |  |
 | --- | --- |
@@ -29,6 +29,7 @@ Adverse reactions are listed by System Organ Class and within each frequency gro
 | Common: | Gastroesophageal reflux disease; vomiting; abdominal distension; abdominal discomfort; abdominal pain; abdominal pain upper; stomach discomfort; gastritis; constipation; flatulence |
 | Hepatobiliary disorders |  |
 | Common: | ALT increased; AST increased; gamma glutamyl transferase increased |
+| Rare: | Total serum bilirubin increased in combination with increases of ALT and AST1 |
 | Skin and subcutaneous tissue disorders |  |
 | Very Common: | Photosensitivity reaction; rash |
 | Common: | Pruritus; erythema; dry skin; rash erythematous; rash macular; rash pruritic |
@@ -39,3 +40,11 @@ Adverse reactions are listed by System Organ Class and within each frequency gro
 | Common: | Asthenia; non-cardiac chest pain |
 | Injury poisoning and procedural complications |  |
 | Common: | Sunburn |
+
+1.
+Identified through post-marketing surveillance
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

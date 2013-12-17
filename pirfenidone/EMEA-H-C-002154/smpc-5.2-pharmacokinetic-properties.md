@@ -1,6 +1,7 @@
 # 5.2 Pharmacokinetic properties
 
 Absorption
+
 Administration of Esbriet with food results in a large reduction in Cmax (by 50%) and a smaller effect on AUC, compared to the fasted state.
 Following oral administration of a single dose of 801 mg to healthy older adult volunteers (50-66 years of age) in the fed state, the rate of pirfenidone absorption slowed, while the AUC in the fed state was approximately 80-85% of the AUC observed in the fasted state.
 A reduced incidence of adverse events (nausea and dizziness) was observed in fed subjects when compared to the fasted group.
@@ -16,7 +17,7 @@ Mean apparent oral steady-state volume of distribution is approximately 70 l, in
 
 Biotransformation
 
-In vitro metabolism studies with hepatic microsomes indicate that approximately 48% of pirfenidone is metabolised via CYP1A2 with other CYP isoenzymes including CYP2C9, 2C19, 2D6, and 2E1 each contributing less than 13%.
+Approximately 70–80% of pirfenidone is metabolised via CYP1A2 with minor contributions from other CYP isoenzymes including CYP2C9, 2C19, 2D6, and 2E1.
 In vitro and in vivo studies to date have not detected any activity of the major metabolite (5-carboxy-pirfenidone), even at concentrations or doses greatly above those associated with activity of pirfenidone itself.
 
 Elimination
@@ -41,4 +42,5 @@ The parent drug is predominantly metabolised to 5-carboxy-pirfenidone, and the p
 However, the predicted amount of metabolite accumulation at steady state is not pharmacodynamically important because the terminal elimination half-life is only 1–2 hours in these subjects.
 No dose adjustment is required in patients with mild to moderate renal impairment who are receiving pirfenidone.
 The use of pirfenidone is contraindicated in patients with severe renal impairment (CrCl <30ml/min) or end stage renal disease requiring dialysis (see sections 4.2 and 4.3).
+
 Population pharmacokinetic analyses from 4 studies in healthy subjects or subjects with renal impairment and one study in patients with IPF showed no clinically relevant effect of age, gender or body size on the pharmacokinetics of pirfenidone.

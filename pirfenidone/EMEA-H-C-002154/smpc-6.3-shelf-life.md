@@ -1,3 +1,4 @@
 # 6.3 Shelf life
 
-3 years.
+4 years for blisters.
+3 years for bottles.

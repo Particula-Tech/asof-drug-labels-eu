@@ -18,22 +18,22 @@ Doses above 2403 mg/day are not recommended for any patient.
 Patients who miss 14 consecutive days or more of Esbriet treatment should re-initiate therapy by undergoing the initial 2-week titration regimen up to the recommended daily dose.
 
 For treatment interruption of less than 14 consecutive days, the dose can be resumed at the previous recommended daily dose without titration.
-
 Dose adjustments and other considerations for safe use
 Gastrointestinal events: In patients who experience intolerance to therapy due to gastrointestinal side effects, patients should be reminded to take the medicinal product with food.
 If symptoms persist Esbriet may be reduced to 1-2 capsules (267 mg – 534 mg) 2-3 times/day with food with re-escalation to the recommended daily dose as tolerated.
 If symptoms continue, patients may be instructed to interrupt treatment for 1 to 2 weeks to allow symptoms to resolve.
+
 Photosensitivity reaction or rash: Patients who experience a mild to moderate photosensitivity reaction or rash should be reminded of the instruction to use a sunblock daily and to avoid sun exposure (see section 4.4).
 The dose of Esbriet may be reduced to 3 capsules/day (1 capsule three times a day).
 If the rash persists after 7 days, Esbriet should be discontinued for 15 days, with re-escalation to the recommended daily dose in the same manner as the dose escalation period.
 Patients who experience severe photosensitivity reaction or rash should be instructed to interrupt the dose and to seek medical advice (see section 4.4).
 Once the rash has resolved, Esbriet may be re-introduced and re-escalated up to the recommended daily dose at the discretion of the physician.
 
-Hepatic function: In the event of significant elevation of alanine and /or aspartate aminotransferases (ALT/AST) with or without bilirubin elevation, the dose of Esbriet should be adjusted or treatment discontinued according to the guidelines listed in section 4.4.
+Hepatic function: In the event of significant elevation of alanine and/or aspartate aminotransferases (ALT/AST) with or without bilirubin elevation, the dose of Esbriet should be adjusted or treatment discontinued according to the guidelines listed in section 4.4.
 
 Special populations
 
-Elderly
+Older people
 No dose adjustment is necessary in patients 65 years and older (see section 5.2).
 
 Hepatic impairment

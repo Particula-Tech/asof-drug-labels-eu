@@ -21,7 +21,7 @@ Studies in lactating rats indicate that pirfenidone and/or its metabolites are e
 Pirfenidone showed no indication of mutagenic or genotoxic activity in a standard battery of tests and when tested under UV exposure was not mutagenic.
 When tested under UV exposure pirfenidone was positive in a photoclastogenic assay in Chinese hamster lung cells.
 
-Phototoxicity and irritation was noted in guinea pigs after oral administration of pirfenidone and with exposure to UVA/UVB light.
+Phototoxicity and irritation were noted in guinea pigs after oral administration of pirfenidone and with exposure to UVA/UVB light.
 The severity of phototoxic lesions was minimised by application of sunscreen.
 
 Environmental Risk Assessment (ERA)
