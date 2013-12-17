@@ -20,7 +20,7 @@ The systemic clearance was 215 ml/day (range: 69-622 ml/day).
 
 Paediatric population: No pharmacokinetic data are available in paediatric patients.
 
-Elderly (older than or equal to 65 years of age): Benlysta has been studied in a limited number of elderly patients.
+Older people (older than or equal to 65 years of age): Benlysta has been studied in a limited number of elderly patients.
 Within the overall SLE intravenous study population, age did not affect belimumab exposure in the population pharmacokinetic analysis.
 However, given the small number of subjects 65 years or older, an effect of age cannot be ruled out conclusively.
 

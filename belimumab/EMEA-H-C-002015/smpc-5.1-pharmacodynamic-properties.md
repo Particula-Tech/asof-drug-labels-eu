@@ -12,11 +12,11 @@ There is an association between plasma BLyS levels and SLE disease activity.
 The relative contribution of BLyS levels to the pathophysiology of SLE is not fully understood.
 
 Pharmacodynamic effects
+
 Changes in biomarkers were seen in clinical trials.
 In patients with hypergammaglobulinemia, normalization of IgG levels was observed by Week 52 in 49% and 20% of patients receiving Benlysta and placebo, respectively.
 In patients with anti-dsDNA antibodies, 16% of patients treated with Benlysta converted to anti-dsDNA negative compared with 7% of the patients receiving placebo by Week 52.
 In patients with low complement levels, normalization of C3 and C4 was observed by Week 52 in 38% and 44% of patients receiving Benlysta and in 17% and 19% of patients receiving placebo.
-
 Of the anti-phospholipid antibodies, only anti-cardiolipin antibody was measured.
 For anti-cardiolipin IgA antibody a 37% reduction at Week 52 was seen (p=0.0003), for anti-cardiolipin IgG antibody a 26% reduction at Week 52 was seen (p=0.0324) and for anti-cardiolipin IgM a 25% reduction was seen (p=NS, 0.46).
 
@@ -47,16 +47,17 @@ Patients who had severe active lupus nephritis and patients who had severe activ
 
 BLISS-76 was conducted primarily in North America and Western Europe.
 Background medicinal products included corticosteroids (76%; >7.5 mg/day 46%), immunosuppressives (56%), and anti-malarials (63%).
+
 BLISS-52 was conducted in South America, Eastern Europe, Asia, and Australia.
 Background medicinal products included corticosteroids (96%; >7.5 mg/day 69%), immunosuppressives (42%), and anti-malarials (67%).
 
 At baseline 52% of patients had high disease activity (SELENA SLEDAI score >10), 59% of patients had mucocutaneous, 60% had musculoskeletal, 16% had haematological, 11% had renal and 9% had vascular organ domain involvement (BILAG A or B at baseline).
-
 The primary efficacy endpoint was a composite endpoint (SLE Responder Index) that defined response as meeting each of the following criteria at Week 52 compared with baseline:
 •
 ≥4-point reduction in the SELENA-SLEDAI score, and • no new British Isles Lupus Assessment Group (BILAG) A organ domain score or 2 new BILAG B organ domain scores, and • no worsening (>0.30 point increase) in Physician’s Global Assessment score (PGA)
 
 The SLE Responder Index measures improvement in SLE disease activity, without worsening in any organ system, or in the patient’s overall condition.
+
 Table 1: Response Rate at Week 52
 
 BLISS-76 BLISS-52 BLISS-76 and BLISS-52
@@ -92,7 +93,6 @@ by PGA
 * plus standard therapy/standard of care
 
 In a pooled analysis of the two studies, the percentage of patients receiving >7.5 mg/day prednisone (or equivalent) at baseline, whose average corticosteroid dose was reduced by at least 25% to a dose equivalent to prednisone ≤7.5 mg/day during Weeks 40 through 52, was 17.9% in the group receiving Benlysta and 12.3% in the group receiving placebo (p=0.0451).
-
 Flares in SLE were defined by the modified SELENA SLEDAI SLE Flare Index.
 The median time to the first flare was delayed in the pooled group receiving belimumab compared to the group receiving placebo (110 vs 84 days, hazard ratio=0.84, p=0.012).
 Severe flares were observed in 15.6% of the Benlysta group compared to 23.7% of the placebo group over the 52 weeks of observation (observed treatment difference = -8.1%; hazard ratio=0.64, p=0.0011).
@@ -120,7 +120,8 @@ Table 2: Patients with low complement and positive anti-dsDNA at baseline
 | Observed treatment difference vs placebo (%) |  | 6.3 |
 | FACIT-fatigue score improvement from baseline at Week-52 (mean) | 1.99 | 4.21 (p=0.0048) |
 | Observed treatment difference vs placebo (mean difference) |  | 2.21 |
-| BLISS-76 Study only | Placebo (n=131) | Benlysta 10 mg/kg (n=134) |
+| BLISS-76 Study only | Placebo (n=131) | Benlysta 10 mg/kg |
+|  |  | (n=134) |
 | SRI response rate at Week-76 (%) | 27.5 | 39.6 (p=0.0160) |
 | Observed treatment difference vs placebo (%) |  | 12.1 |
 
@@ -128,5 +129,25 @@ Table 2: Patients with low complement and positive anti-dsDNA at baseline
 
 Paediatric population
 The European Medicines Agency has deferred the obligation to submit the results of studies with Benlysta in one or more subsets of the paediatric population in SLE (see section 4.2 for information on paediatric use).
+
 Age and race
 There were too few patients over 65 years of age, or black/African American patients enrolled in the controlled clinical trials to draw meaningful conclusions about the effects of age or race on clinical outcomes.
+
+[Benlysta 400 mg powder for concentrate for solution for infusion.]
+
+| Subgroup | Anti-dsDNA positive AND low complement |  |
+| --- | --- | --- |
+| BLISS-76 and BLISS-52 pooled data | Placebo (n=287) | Benlysta 10 mg/kg (n=305) |
+| SRI response rate at Week 52 (%) | 31.7 | 51.5 (p<0.0001) |
+| Observed treatment difference vs placebo (%) |  | 19.8 |
+| SRI response rate (excluding complement and anti-dsDNA changes) at Week 52 (%) | 28.9 | 46.2 (p<0.0001) |
+| Observed treatment difference vs placebo (%) |  | 17.3 |
+| Severe flares over 52 weeks Patients experiencing a severe flare (%) | 29.6 | 19.0 |
+| Observed treatment difference vs placebo (%) Time to severe flare [Hazard ratio (95% CI)] |  | 10.6 0.61 (0.44, 0.85) (p=0.0038) |
+| Prednisone reduction by ≥25% from baseline to ≤7.5 mg/day during Weeks 40 through 52* (%) | (n=173) 12.1 | (n=195) 18.5 (p=0.0964) |
+| Observed treatment difference vs placebo (%) |  | 6.3 |
+| FACIT-fatigue score improvement from baseline at Week-52 (mean) | 1.99 | 4.21 (p=0.0048) |
+| Observed treatment difference vs placebo (mean difference) |  | 2.21 |
+| BLISS-76 Study only | Placebo (n=131) | Benlysta 10 mg/kg (n=134) |
+| SRI response rate at Week-76 (%) | 27.5 | 39.6 (p=0.0160) |
+| Observed treatment difference vs placebo (%) |  | 12.1 |

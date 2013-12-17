@@ -17,13 +17,13 @@ Do not shake.
 Reconstitution is typically complete within 10 to 15 minutes after the water has been added, but it may take up to 30 minutes.
 
 Protect the reconstituted solution from sunlight.
-
 If a mechanical reconstitution device is used to reconstitute Benlysta it should not exceed 500 rpm and the vial should be swirled for no longer than 30 minutes.
 
 Once reconstitution is complete, the solution should be opalescent and colorless to pale yellow and without particles.
 Small air bubbles, however, are expected and acceptable.
 
 After reconstitution, a volume of 1.5 ml (corresponding to 120 mg belimumab) can be withdrawn from each vial.
+
 Dilution
 
 The reconstituted medicinal product is diluted to 250 ml with sodium chloride 9 mg/ml (0.9%) solution for injection.

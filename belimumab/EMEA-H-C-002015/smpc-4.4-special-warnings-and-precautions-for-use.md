@@ -4,7 +4,8 @@ Benlysta has not been studied in the following patient groups, and is not recomm
 • severe active central nervous system lupus
 • severe active lupus nephritis (see section 5.1)
 •
-HIV a history of, or current, hepatitis B or C
+HIV
+• a history of, or current, hepatitis B or C
 • hypogammaglobulinaemia (IgG <400 mg/dl) or IgA deficiency (IgA <10 mg/dl)
 • a history of major organ transplant or hematopoietic stem /cell /marrow transplant or renal transplant.
 
@@ -33,6 +34,7 @@ Patients should remain under clinical supervision for a prolonged period of time
 Patients should be advised that hypersensitivity reactions are possible on the day of, or the day after infusion, and be informed of potential signs and symptoms and the possibility of recurrence.
 Patients should be instructed to seek immediate medical attention if they experience any of these symptoms.
 The package leaflet should be provided to the patient each time Benlysta is administered (see section 4.2).
+Delayed-type, non-acute hypersensitivity reactions have also been observed and included symptoms such as rash, nausea, fatigue, myalgia, headache, and facial oedema.
 
 Infections
 The mechanism of action of Benlysta could increase the potential risk for the development of infections, including opportunistic infections.
@@ -49,6 +51,7 @@ The efficacy of concurrent vaccination in patients receiving Benlysta is not kno
 Limited data suggest that Benlysta does not significantly affect the ability to maintain a protective immune response to immunisations received prior to administration of Benlysta.
 In a substudy, a small group of patients who had previously received either tetanus, pneumococcal or influenza vaccinations were found to maintain protective titres after treatment with Benlysta.
 There are insufficient data to draw conclusions regarding the ability of subjects receiving Benlysta to mount protective responses to vaccines.
+
 Malignancies and lymphoproliferative disorders
 Immunomodulatory medicinal products, including belimumab, may increase the risk of malignancy.
 Caution should be exercised when considering belimumab therapy for patients with a history of malignancy or when considering continuing treatment in patients who develop malignancy.
@@ -57,7 +60,6 @@ Patients with malignant neoplasm within the last 5 years have not been studied, 
 [Benlysta 400 mg powder for concentrate for solution for infusion.]
 
 Benlysta has not been studied in the following patient groups and is not recommended in:
-HIV
-• a history of, or current, hepatitis B or C
+• severe active central nervous system lupus severe active lupus nephritis (see section 5.1)
 
 Live vaccines should not be given for 30 days before, or concurrently with Benlysta as clinical safety has not been established.

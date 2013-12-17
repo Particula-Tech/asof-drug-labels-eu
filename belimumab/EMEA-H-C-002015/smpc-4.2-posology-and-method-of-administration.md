@@ -13,17 +13,17 @@ The package leaflet should be provided to the patient each time Benlysta is admi
 
 There are no or insufficient data available on the effects of Benlysta in patients with severe active lupus nephritis or severe active central nervous system lupus.
 Therefore, Benlysta cannot be recommended to treat these conditions (see section 4.4).
-
 Posology
 
 Premedication including an antihistamine, with or without an antipyretic, may be administered before the infusion of Benlysta (see section 4.4).
+
 The recommended dose regimen is 10 mg/kg Benlysta on Days 0, 14 and 28, and at 4-week intervals thereafter.
 The patient’s condition should be evaluated continuously.
 Discontinuation of treatment with Benlysta should be considered if there is no improvement in disease control after 6 months of treatment.
 
 Special populations
 
-Elderly (>65 years)
+Older people (>65 years)
 The efficacy and safety of Benlysta in the elderly has not been established.
 Data on patients >65 years are limited to <1.6% of the studied population.
 Therefore, the use of Benlysta in elderly patients is not recommended unless the benefits are expected to outweigh the risks.
