@@ -16,14 +16,15 @@ Adjuvant treatment in patients with stage III colon cancer is recommended for a 
 Combination therapy
 Colon, colorectal and gastric cancer
 In combination treatment, the recommended starting dose of capecitabine should be reduced to 800 – 1000 mg/m2 when administered twice daily for 14 days followed by a 7-day rest period, or to 625 mg/m2 twice daily when administered continuously (see section 5.1).
-The inclusion of biological medicinal products in a combination regimen has no effect on the starting dose of capecitabine.
+For combination with irinotecan, the recommended starting dose is 800 mg/m2 when administered twice daily for 14 days followed by a 7-day rest period combined with irinotecan 200 mg/m2 on day 1.
+The inclusion of bevacizumab in a combination regimen has no effect on the starting dose of capecitabine.
 Premedication to maintain adequate hydration and anti-emesis according to the cisplatin summary of product characteristics should be started prior to cisplatin administration for patients receiving the capecitabine plus cisplatin combination.
 Premedication with antiemetics according to the oxaliplatin summary of product characteristics is recommended for patients receiving the capecitabine plus oxaliplatin combination.
 Adjuvant treatment in patients with stage III colon cancer is recommended for a duration of 6 months.
 
 Breast cancer
-In combination with docetaxel, the recommended starting dose of capecitabine in the treatment of metastatic breast cancer is 1250 mg/m2 twice daily for 14 days followed by a 7-day rest period, combined with docetaxel at 75 mg/m2 as a 1 hour intravenous infusion every 3 weeks.
-Pre-medication with an oral corticosteroid such as dexamethasone according to the docetaxel summary of product characteristics should be started prior to docetaxel administration for patients receiving the capecitabine plus docetaxel combination.
+In combination with docetaxel, the recommended starting dose of capecitabine in the treatment of metastatic breast cancer is 1250 mg/m2 twice daily for 14 days followed by a 7- day rest period, combined with docetaxel at 75 mg/m2 as a 1 hour intravenous infusion every 3 weeks.
+Premedication with an oral corticosteroid such as dexamethasone according to the docetaxel summary of product characteristics should be started prior to docetaxel administration for patients receiving the capecitabine plus docetaxel combination.
 Xeloda Dose Calculations
 
 Table 1 Standard and reduced dose calculations according to body surface area for a starting dose of capecitabine of 1250 mg/m2
@@ -68,7 +69,7 @@ Patients taking capecitabine should be informed of the need to interrupt treatme
 Doses of capecitabine omitted for toxicity are not replaced.
 The following are the recommended dose modifications for toxicity:
 
-Table 3 Capecitabine Dose Reduction Schedule (3-weekly Cycle or Continuous Treatment)
+Table 3 Capecitabine Dose Reduction Schedule (3 weekly Cycle or Continuous Treatment)
 
 | Toxicity grades* | Dose changes within a treatment cycle | Dose adjustment for next cycle/dose (% of starting dose) |
 | --- | --- | --- |
@@ -129,12 +130,12 @@ When capecitabine was used in combination with other medicinal products, elderly
 Careful monitoring of patients ≥60 years of age is advisable.
 
 - In combination with docetaxel: an increased incidence of grade 3 or 4 treatment-related adverse reactions and treatment-related serious adverse reactions were observed in patients 60 years of age or more (see section 5.1).
-  For patients 60 years of age or more , a starting dose reduction of capecitabine to 75% (950 mg/m2 twice daily) is recommended.
+  For patients 60 years of age or more, a starting dose reduction of capecitabine to 75% (950 mg/m2 twice daily) is recommended.
   If no toxicity is observed in patients ≥60 years of age treated with a reduced capecitabine starting dose in combination with docetaxel, the dose of capecitabine may be cautiously escalated to 1250 mg/m2 twice daily.
-- In combination with irinotecan: for patients 65 years of age or more, a starting dose reduction of capecitabine to 800 mg/m2 twice daily is recommended.
 
 Paediatric population
 There is no relevant use of capecitabine in the paediatric population in the indications colon, colorectal, gastric and breast cancer.
+
 Method of administration
 Xeloda tablets should be swallowed with water within 30 minutes after a meal.
 
@@ -142,13 +143,13 @@ Xeloda tablets should be swallowed with water within 30 minutes after a meal.
 
 Patients taking capecitabine should be informed of the need to interrupt treatment immediately if moderate or severe toxicity occurs Doses of capecitabine omitted for toxicity are not replaced.
 
+Table 3 Capecitabine Dose Reduction Schedule (3-weekly Cycle or Continuous Treatment)
+
 Dose modifications for toxicity when capecitabine is used as a 3 weekly in combination with other medicinal products should be made according to table 3 above for capecitabine and according to the appropriate summary of product characteristics for the other medicinal product(s).
 
 Dose modifications for toxicity when capecitabine is used continuously in combination with other medicinal products should be made according to table 3 above for capecitabine and according to the appropriate summary of product characteristics for the other medicinal product.
 
 In patients with moderate renal impairment at baseline, a dose reduction to 75% for a starting dose of 1250mg/m2 is recommended.
 In patients with moderate renal impairment at baseline, no dose reduction is required for a starting dose of 1000mg/m2.
-
-  For patients 60 years of age or more, a starting dose reduction of capecitabine to 75% (950 mg/m2 twice daily) is recommended.
 
 There is no relevant use of capecitabine in the paediatric population in the indications colon, colorectal, gastic and breast cancer.

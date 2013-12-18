@@ -30,7 +30,7 @@ Table 4 Summary of related ADRs reported in patients treated with capecitabine m
 |  | All grades | All grades | Severe and/or Life-threatening (grade 3-4) or considered medically relevant |
 | Infections and infestations | - | Herpes viral infection, Nasopharyngitis, Lower respiratory tract infection | Sepsis, Urinary tract infection, Cellulitis, Tonsillitis, Pharyngitis, Oral candidiasis, Influenza, Gastroenteritis, Fungal infection, Infection, Tooth abscess |
 | Neoplasm benign, malignant and unspecified | - | - | Lipoma |
-| Blood and lymphatic system disorders | - | Neutropenia, Anaemia | Febrile neutropenia, Pancytopenia, Granulocytopenia, Thrombocytopenia, Leucopenia, Haemolytic anaemia, International Normalised Ratio (INR) increased/Prothrombin time prolonged |
+| Blood and lymphatic system disorders | - | Neutropenia, Anaemia | Febrile neutropenia, Pancytopenia, Granulocytopenia, Thrombocytopenia, Leukopenia, Haemolytic anaemia, International Normalised Ratio (INR) increased/Prothrombin time prolonged |
 |  | All grades | All grades | Severe and/or Life-threatening (grade 3-4) or considered medically relevant |
 | Immune system disorders | - | - | Hypersensitivity |
 | Metabolism and nutrition disorders | Anorexia | Dehydration, , Weight decreased | Diabetes, Hypokalaemia, Appetite disorder, Malnutrition, Hypertriglyceridaemia, |
@@ -40,7 +40,7 @@ Table 4 Summary of related ADRs reported in patients treated with capecitabine m
 | Ear and labyrinth disorders | - | - | Vertigo, Ear pain |
 | Cardiac disorders | - | - | Angina unstable, Angina pectoris, Myocardial ischaemia, Atrial fibrillation, Arrhythmia, Tachycardia, Sinus tachycardia, Palpitations |
 | Vascular disorders | - | Thrombophlebitis | Deep vein thrombosis, Hypertension, Petechiae, Hypotension, Hot flush, Peripheral coldness |
-| Respiratory, thoracic and mediastinal disorders | - | Dyspnoea, Epistaxis, Cough, Rhinorrhea | Pulmonary embolism, Pneumothorax, Haemoptysis, Asthma, Dyspnoea exertional |
+| Respiratory, thoracic and mediastinal disorders | - | Dyspnoea, Epistaxis, Cough, Rhinorrhoea | Pulmonary embolism, Pneumothorax, Haemoptysis, Asthma, Dyspnoea exertional |
 | Gastrointestinal disorders | Diarrhoea, Vomiting, Nausea, Stomatitis, Abdominal pain | Gastrointestinal haemorrhage, Constipation, Upper abdominal pain, Dyspepsia, Flatulence, Dry mouth | Intestinal obstruction, Ascites, Enteritis, Gastritis, Dysphagia, Abdominal pain lower, Oesophagitis, Abdominal discomfort, Gastrooesophageal reflux disease, Colitis, Blood in stool |
 | Hepatobiliary disorders | - | Hyperbilirubinemia , Liver function test abnormalities | Jaundice |
 |  | All grades | All grades | Severe and/or Life-threatening (grade 3-4) or considered medically relevant |
@@ -67,7 +67,7 @@ Table 5 Summary of related ADRs reported in patients treated with capecitabine i
 |  | All grades | All grades |
 |  | Thrombocytopenia |  |
 | Immune system disorders | - | Hypersensitivity |
-| Metabolism and nutrition disorders | Appetite decreased | Hypokalaemia, Hyponatremia, Hypomagnesaemia, Hypocalcaemia, Hyperglycaemia |
+| Metabolism and nutrition disorders | Appetite decreased | Hypokalaemia, Hyponatraemia, Hypomagnesaemia, Hypocalcaemia, Hyperglycaemia |
 | Psychiatric disorders | - | Sleep disorder, Anxiety |
 | Nervous system disorders | Paraesthesia, Dysaesthesia, Peripheral neuropathy, Peripheral sensory neuropathy, Dysgeusia, Headache | Neurotoxicity, Tremor, Neuralgia, Hypersensitivity reaction, Hypoaesthesia |
 | Eye disorders | Lacrimation increased | Visual disorders, Dry eye, Eye pain, Visual impairment, Vision blurred |
@@ -91,12 +91,15 @@ The following additional serious adverse reactions have been identified during p
 
 Table 6 Summary of events reported with capecitabine in the post-marketing setting
 
-| Body System | Rare |
-| --- | --- |
-| Eye disorders | • Lacrimal duct stenosis, corneal disorders, keratitis, punctate keratitis |
-| Cardiac disorders | Ventricular fibrillation, QT prolongation, Torsade de pointes, Bradycardia, Vasospasm |
-| Hepatobiliary disorders | Hepatic failure, cholestatic hepatitis |
-| Skin and subcutaneous disorders | Cutaneous lupus erythematosus |
+| Body System | Rare | Very rare |  |
+| --- | --- | --- | --- |
+| Eye disorders | Lacrimal duct stenosis, corneal disorders, keratitis, punctate keratitis |  |  |
+| Cardiac disorders | Ventricular fibrillation, QT prolongation, Torsade de pointes, Bradycardia, Vasospasm |  |  |
+| Hepatobiliary disorders | Hepatic failure, cholestatic hepatitis |  |  |
+| Skin and subcutaneous disorders | Cutaneous lupus erythematosus |  | Severe skin reactions such as |
+|  |  |  | Stevens-Johnson Syndrome and |
+|  |  |  | Toxic Epidermal Necrolysis |
+|  |  |  | (see section 4.4) |
 
 Description of selected adverse reactions
 
@@ -112,9 +115,9 @@ Capecitabine can induce the occurrence of diarrhoea, which has been observed in 
 
 The results of a meta-analysis of 14 clinical trials with data from over 4700 patients treated with capecitabine showed that in all studies combined, the following covariates were statistically significantly associated with an increased risk of developing diarrhea: increasing capecitabine starting dose (gram), increasing duration of study treatment (weeks), increasing age (by 10 year increments), and female gender.
 The following covariates were statistically significantly associated with a decreased risk of developing diarrhea: increasing cumulative capecitabine dose (0.1*kg) and increasing relative dose intensity in the first six weeks.
-
 Cardiotoxicity (see section 4.4):
 In addition to the ADRs described in tables 4 and 5, the following ADRs with an incidence of less than 0.1% were associated with the use of capecitabine monotherapy based on a pooled analysis from clinical safety data from 7 clinical trials including 949 patients (2 phase III and 5 phase II clinical trials in metastatic colorectal cancer and metastatic breast cancer): cardiomyopathy, cardiac failure, sudden death, and ventricular extrasystoles.
+
 Encephalopathy:
 In addition to the ADRs described in tables 4 and 5, and based on the above pooled analysis from clinical safety data from 7 clinical trials, encephalopathy was also associated with the use of capecitabine monotherapy with an incidence of less than 0.1%.
 
@@ -124,7 +127,7 @@ Elderly patients (see section 4.2):
 An analysis of safety data in patients ≥60 years of age treated with capecitabine monotherapy and an analysis of patients treated with capecitabine plus docetaxel combination therapy showed an increase in the incidence of treatment-related grade 3 and 4 adverse reactions and treatment-related serious adverse reactions compared to patients <60 years of age.
 Patients ≥60 years of age treated with capecitabine plus docetaxel also had more early withdrawals from treatment due to adverse reactions compared to patients <60 years of age.
 
-The results of a meta-analysis of 14 clinical trials with data from over 4700 patients treated with capecitabine showed that in all studies combined, increasing age (by 10 year increments) was statistically significantly associated with an increased risk of developing HFS and diarrhea and with a decreased risk of developing neutropenia.
+The results of a meta-analysis of 14 clinical trials with data from over 4700 patients treated with capecitabine showed that in all studies combined, increasing age (by 10 year increments) was statistically significantly associated with an increased risk of developing HFS and diarrhoea and with a decreased risk of developing neutropenia.
 
 Gender
 The results of a meta-analysis of 14 clinical trials with data from over 4700 patients treated with capecitabine showed that in all studies combined, female gender was statistically significantly associated with an increased risk of developing HFS and diarrhea and with a decreased risk of developing neutropenia.
@@ -143,7 +146,7 @@ Patients with moderately impaired renal function show an increased rate of dose 
 |  | All grades | All grades | Severe and/or Life-threatening (grade 3-4) or considered medically relevant |
 | Infections and infestations | - | Herpes viral infection, Nasopharyngitis, Lower respiratory tract infection | Sepsis, Urinary tract infection, Cellulitis, Tonsillitis, Pharyngitis, Oral candidiasis, Influenza, Gastroenteritis, Fungal infection, Infection, Tooth abscess |
 | Neoplasm benign, malignant and unspecified | - | - | Lipoma |
-| Blood and lymphatic system disorders | - | Neutropenia, Anaemia | Febrile neutropenia, Pancytopenia, Granulocytopenia, Thrombocytopenia, Leucopenia, Haemolytic anaemia, International Normalised Ratio (INR) increased/Prothrombin time prolonged |
+| Blood and lymphatic system disorders | - | Neutropenia, Anaemia | Febrile neutropenia, Pancytopenia, Granulocytopenia, Thrombocytopenia, Leukopenia, Haemolytic anaemia, International Normalised Ratio (INR) increased/Prothrombin time prolonged |
 |  | All grades | All grades | Severe and/or Life-threatening (grade 3-4) or considered medically relevant |
 | Immune system disorders | - | - | Hypersensitivity |
 | Metabolism and nutrition disorders | Anorexia | Dehydration, , Weight decreased | Diabetes, Hypokalaemia, Appetite disorder, Malnutrition, Hypertriglyceridaemia, |
@@ -153,7 +156,7 @@ Patients with moderately impaired renal function show an increased rate of dose 
 | Ear and labyrinth disorders | - | - | Vertigo, Ear pain |
 | Cardiac disorders | - | - | Angina unstable, Angina pectoris, Myocardial ischaemia, Atrial fibrillation, Arrhythmia, Tachycardia, Sinus tachycardia, Palpitations |
 | Vascular disorders | - | Thrombophlebitis | Deep vein thrombosis, Hypertension, Petechiae, Hypotension, Hot flush, Peripheral coldness |
-| Respiratory, thoracic and mediastinal disorders | - | Dyspnoea, Epistaxis, Cough, Rhinorrhea | Pulmonary embolism, Pneumothorax, Haemoptysis, Asthma, Dyspnoea exertional |
+| Respiratory, thoracic and mediastinal disorders | - | Dyspnoea, Epistaxis, Cough, Rhinorrhoea | Pulmonary embolism, Pneumothorax, Haemoptysis, Asthma, Dyspnoea exertional |
 | Gastrointestinal disorders | Diarrhoea, Vomiting, Nausea, Stomatitis, Abdominal pain | Gastrointestinal haemorrhage, Constipation, Upper abdominal pain, Dyspepsia, Flatulence, Dry mouth | Intestinal obstruction, Ascites, Enteritis, Gastritis, Dysphagia, Abdominal pain lower, Oesophagitis, Abdominal discomfort, Gastrooesophageal reflux disease, Colitis, Blood in stool |
 | Hepatobiliary disorders | - | Hyperbilirubinemia , Liver function test abnormalities | Jaundice |
 |  | All grades | All grades | Severe and/or Life-threatening (grade 3-4) or considered medically relevant |
@@ -167,10 +170,9 @@ Patients with moderately impaired renal function show an increased rate of dose 
 | --- | --- | --- |
 |  | All grades | All grades |
 | Infections and infestations | - | Herpes zoster, Urinary tract infection, Oral candidiasis, Upper respiratory tract infection, Rhinitis, Influenza, +Infection, Oral herpes |
-|  | All grades | All grades |
 | Blood and lymphatic system disorders | +Neutropenia, +Leucopenia, +Anaemia, +Neutropenic fever, Thrombocytopenia | Bone marrow depression, +Febrile Neutropenia |
 | Immune system disorders | - | Hypersensitivity |
-| Metabolism and nutrition disorders | Appetite decreased | Hypokalaemia, Hyponatremia, Hypomagnesaemia, Hypocalcaemia, Hyperglycaemia |
+| Metabolism and nutrition disorders | Appetite decreased | Hypokalaemia, Hyponatraemia, Hypomagnesaemia, Hypocalcaemia, Hyperglycaemia |
 | Psychiatric disorders | - | Sleep disorder, Anxiety |
 | Nervous system disorders | Paraesthesia, Dysaesthesia, Peripheral neuropathy, Peripheral sensory neuropathy, Dysgeusia, Headache | Neurotoxicity, Tremor, Neuralgia, Hypersensitivity reaction, Hypoaesthesia |
 | Eye disorders | Lacrimation increased | Visual disorders, Dry eye, Eye pain, Visual impairment, Vision blurred |
@@ -183,12 +185,7 @@ Patients with moderately impaired renal function show an increased rate of dose 
 | Skin and subcutaneous tissue disorders | Alopecia, Nail disorder | Hyperhidrosis, Rash erythematous, Urticaria, Night sweats |
 | Musculoskeletal and connective tissue disorders | Myalgia, Arthralgia, Pain in extremity | Pain in jaw , Muscle spasms, Trismus, Muscular weakness |
 | Renal and urinary disorder | - | Haematuria, Proteinuria, Creatinine renal clearance decreased, Dysuria |
-| General disorders and administration site conditions | Pyrexia, Weakness, +Lethargy, Temperature intolerance | Mucosal inflammation, Pain in limb, Pain, Chills, Chest pain, Influenza-like illness, +Fever, Infusion related reaction, Injection site reaction, Infusion site pain, Injection site pain |
+| General disorders and administration site conditions | Pyrexia, Weakness, +Lethargy, Temperature intolerance | Mucosal inflammation, Pain in limb, Pain, Chills, Chest pain, Influenza-like illness, +Fever, |
+|  | All grades | All grades |
+|  |  | Infusion related reaction, Injection site reaction, Infusion site pain, Injection site pain |
 | Injury, poisoning and procedural complications | - | Contusion |
-
-| Body System | Rare |
-| --- | --- |
-| Eye disorders | Lacrimal duct stenosis, corneal disorders, keratitis, punctate keratitis |
-| Cardiac disorders | Ventricular fibrillation, QT prolongation, Torsade de pointes, Bradycardia, Vasospasm |
-| Hepatobiliary disorders | Hepatic failure, cholestatic hepatitis |
-| Skin and subcutaneous disorders | Cutaneous lupus erythematosus |

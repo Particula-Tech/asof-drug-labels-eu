@@ -12,7 +12,7 @@ Coumarin-derivative anticoagulants: altered coagulation parameters and/or bleedi
 These reactions occurred within several days and up to several months after initiating capecitabine therapy and, in a few cases, within one month after stopping capecitabine.
 In a clinical pharmacokinetic interaction study, after a single 20 mg dose of warfarin, capecitabine treatment increased the AUC of S-warfarin by 57% with a 91% increase in INR value.
 Since metabolism of R-warfarin was not affected, these results indicate that capecitabine down-regulates isozyme 2C9, but has no effect on isozymes 1A2 and 3A4.
-Patients taking coumarin-derivative anticoagulants concomitantly with capecitabine should be monitored regularly for alterations in their coagulation parameters (PT or INR) and the anti-coagulant dose adjusted accordingly.
+Patients taking coumarin-derivative anticoagulants concomitantly with capecitabine should be monitored regularly for alterations in their coagulation parameters (PT or INR) and the anticoagulant dose adjusted accordingly.
 
 Phenytoin: increased phenytoin plasma concentrations resulting in symptoms of phenytoin intoxication in single cases have been reported during concomitant use of capecitabine with phenytoin.
 Patients taking phenytoin concomitantly with capecitabine should be regularly monitored for increased phenytoin plasma concentrations.

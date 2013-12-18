@@ -13,23 +13,23 @@ Dose reduction should be applied as necessary (see section 4.2).
 Dehydration.
 Dehydration should be prevented or corrected at the onset.
 Patients with anorexia, asthenia, nausea, vomiting or diarrhoea may rapidly become dehydrated.
-If Grade 2 (or higher) dehydration occurs, capecitabine treatment should be immediately interrupted and the dehydration corrected.
+If grade 2 (or higher) dehydration occurs, capecitabine treatment should be immediately interrupted and the dehydration corrected.
 Treatment should not be restarted until the patient is rehydrated and any precipitating causes have been corrected or controlled.
 Dose modifications applied should be applied for the precipitating adverse event as necessary (see section 4.2).
 
 Hand-foot syndrome (also known as hand-foot skin reaction or palmar-plantar erythrodysesthesia or chemotherapy induced acral erythema).
-Grade 1 hand- foot syndrome is defined as numbness, dysesthesia/paresthesia, tingling, painless swelling or erythema of the hands and/or feet and/or discomfort which does not disrupt the patient’s normal activities.
-Grade 2 hand- foot syndrome is painful erythema and swelling of the hands and/or feet and/or discomfort affecting the patient’s activities of daily living.
-Grade 3 hand- foot syndrome is moist desquamation, ulceration, blistering and severe pain of the hands and/or feet and/or severe discomfort that causes the patient to be unable to work or perform activities of daily living.
-If grade 2 or 3 hand- foot syndrome occurs, administration of capecitabine should be interrupted until the event resolves or decreases in intensity to grade 1.
-Following grade 3 hand- foot syndrome, subsequent doses of capecitabine should be decreased.
+Grade 1 hand-foot syndrome is defined as numbness, dysesthesia/paresthesia, tingling, painless swelling or erythema of the hands and/or feet and/or discomfort which does not disrupt the patient’s normal activities.
+Grade 2 hand-foot syndrome is painful erythema and swelling of the hands and/or feet and/or discomfort affecting the patient’s activities of daily living.
+Grade 3 hand-foot syndrome is moist desquamation, ulceration, blistering and severe pain of the hands and/or feet and/or severe discomfort that causes the patient to be unable to work or perform activities of daily living.
+If grade 2 or 3 hand-foot syndrome occurs, administration of capecitabine should be interrupted until the event resolves or decreases in intensity to grade 1.
+Following grade 3 hand-foot syndrome, subsequent doses of capecitabine should be decreased.
 When capecitabine and cisplatin are used in combination, the use of vitamin B6 (pyridoxine) is not advised for symptomatic or secondary prophylactic treatment of hand–foot syndrome, because of published reports that it may decrease the efficacy of cisplatin.
 
 Cardiotoxicity.
 Cardiotoxicity has been associated with fluoropyrimidine therapy, including myocardial infarction, angina, dysrhythmias, cardiogenic shock, sudden death and electrocardiographic changes (including very rare cases of QT prolongation).
 These adverse reactions may be more common in patients with a prior history of coronary artery disease.
 Cardiac arrhythmias (including ventricular fibrillation, torsade de pointes, and bradycardia), angina pectoris, myocardial infarction, heart failure and cardiomyopathy have been reported in patients receiving capecitabine.
-Caution must be exercised in patients with history of significant cardiac disease, arrhythmias and angina pectoris (See section 4.8).
+Caution must be exercised in patients with history of significant cardiac disease, arrhythmias and angina pectoris (see section 4.8).
 
 Hypo- or hypercalcaemia.
 Hypo- or hypercalcaemia has been reported during capecitabine treatment.
@@ -52,9 +52,9 @@ Administration of capecitabine should be interrupted if treatment-related elevat
 Treatment with capecitabine monotherapy may be resumed when bilirubin decreases to ≤3.0 x ULN or hepatic aminotransferases decrease to ≤ 2.5 x ULN.
 
 Renal impairment.
-The incidence of grade 3 or 4 adverse reactions in patients with moderate renal impairment (creatinine clearance 30-50 ml/min) is increased compared to the overall population (see section 4.2 and 4.3).
+The incidence of grade 3 or 4 adverse reactions in patients with moderate renal impairment (creatinine clearance 30-50 ml/min) is increased compared to the overall population (see sections 4.2 and 4.3).
 
-DPD deficiency: Rarely, unexpected, severe toxicity (e.g. stomatitis, diarrhea, neutropenia and neurotoxicity) associated with 5-FU has been attributed to a deficiency of DPD activity.
+DPD deficiency: Rarely, unexpected, severe toxicity (e.g. stomatitis, diarrhoea, neutropenia and neurotoxicity) associated with 5-FU has been attributed to a deficiency of DPD activity.
 A link between decreased levels of DPD and increased, potentially fatal toxic effects of 5-FU therefore cannot be excluded.
 Patients with known DPD deficiency should not be treated with capecitabine (see section 4.3).
 In patients with unrecognised DPD deficiency treated with capecitabine, life-threatening toxicities manifesting as acute overdose may occur (see section 4.9).
@@ -64,9 +64,15 @@ Permanent discontinuation should be considered based on clinical assessment of t
 Ophthalmologic complications: Patients should be carefully monitored for ophthalmological
 complications such as keratitis and corneal disorders, especially if they have a prior history of eye
 disorders. Treatment of eye disorders should be initiated as clinically appropriate.
+Severe skin reactions: Xeloda can induce severe skin reactions such as Stevens-Johnson syndrome and
+Toxic Epidermal Necrolysis. Xeloda should be permanently discontinued in patients who experience a
+severe skin reaction during treatment.
 
 As this medicinal product contains anhydrous lactose as an excipient, patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
 [Xeloda 500 mg film-coated tablets.]
 
 Treatment with capecitabine monotherapy may be resumed when bilirubin decreases to ≤ 3.0 x ULN or hepatic aminotransferases decrease to ≤ 2.5 x ULN.
+
+Severe skin reactions: Xeloda can induce severe skin reactions such as Stevens-Johnson syndrome and Toxic Epidermal Necrolysis.
+Xeloda should be permanently discontinued in patients who experience a severe skin reaction during treatment.

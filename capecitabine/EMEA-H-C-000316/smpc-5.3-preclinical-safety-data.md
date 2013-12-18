@@ -10,6 +10,7 @@ A two-year mouse carcinogenicity study produced no evidence of carcinogenicity b
 
 During standard fertility studies, impairment of fertility was observed in female mice receiving capecitabine; however, this effect was reversible after a drug-free period.
 In addition, during a 13-week study, atrophic and degenerative changes occurred in reproductive organs of male mice; however these effects were reversible after a drug-free period (see section 4.6).
+
 In embryotoxicity and teratogenicity studies in mice, dose-related increases in foetal resorption and teratogenicity were observed.
 In monkeys, abortion and embryolethality were observed at high doses, but there was no evidence of teratogenicity.
 

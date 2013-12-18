@@ -19,8 +19,4 @@ Breast-feeding should be discontinued while receiving treatment with capecitabin
 Fertility
 There is no data on Xeloda and impact on fertility.
 The Xeloda pivotal studies included females of childbearing potential and males only if they agreed to use an acceptable method of birth control to avoid pregnancy for the duration of the study and for a reasonable period thereafter.
-In animal studieseffects on fertility were observed (see section 5.3)
-
-[Xeloda 500 mg film-coated tablets.]
-
-In animal studies an effect on fertility was observed (see section 5.3)
+In animal studies effects on fertility were observed (see section 5.3)
