@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: ATC code: Not yet assigned.
+Pharmacotherapeutic group: ATC code: N05CD08
 
 Midazolam is a derivative of the imidazobenzodiazepine group.
 The free base is a lipophilic substance with low solubility in water.
