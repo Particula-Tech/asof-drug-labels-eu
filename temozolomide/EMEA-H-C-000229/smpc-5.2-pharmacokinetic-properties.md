@@ -10,7 +10,6 @@ Absorption
 
 After oral administration to adult patients, TMZ is absorbed rapidely, with peak concentrations reached as early as 20 minutes post-administration (mean time between 0.5 and 1.5 hours).
 After oral administration of 14C-labelled TMZ, mean faecal excretion of 14C over 7 days post-dose was 0.8 % indicationg complete absorption.
-
 Distribution
 
 TMZ demonstrates low protein binding (10 % to 20 %), and thus it is not expected to interact with highly protein-bound substances.

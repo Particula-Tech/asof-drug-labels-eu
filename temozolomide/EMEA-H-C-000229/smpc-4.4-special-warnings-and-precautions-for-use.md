@@ -1,13 +1,23 @@
 # 4.4 Special warnings and precautions for use
 
-Pneumocystis carinii pneumonia
+Pneumocystis jirovecii pneumonia
 
-Patients who received concomitant TMZ and RT in a pilot trial for the prolonged 42-day schedule were shown to be at particular risk for developing Pneumocystis carinii pneumonia (PCP).
+Patients who received concomitant TMZ and RT in a pilot trial for the prolonged 42-day schedule were shown to be at particular risk for developing Pneumocystis jirovecii pneumonia (PCP).
 Thus, prophylaxis against PCP is required for all patients receiving concomitant TMZ and RT for the 42-day regimen (with a maximum of 49 days) regardless of lymphocyte count.
 If lymphopenia occurs, they are to continue the prophylaxis until recovery of lymphopenia to grade ≤ 1.
-
 There may be a higher occurrence of PCP when TMZ is administered during a longer dosing regimen.
 However, all patients receiving TMZ, particularly patients receiving steroids, should be observed closely for the development of PCP, regardless of the regimen.
+Cases of fatal respiratory failure have been reported in patients using TMZ, in particular in combination with dexamethasone or other steroids.
+
+Hepatotoxicity
+
+Hepatic injury, including fatal hepatic failure, has been reported in patients treated with TMZ (see section 4.8).
+Baseline liver function tests should be performed prior to treatment initiation.
+If abnormal, physicians should assess the benefit/risk prior to initiating temozolomide including the potential for fatal hepatic failure.
+For patients on a 42 day treatment cycle liver function tests should be repeated midway during this cycle.
+For all patients, liver function tests should be checked after each treatment cycle.
+For patients with significant liver function abnormalities, physicians should assess the benefit/risk of continuing treatment.
+Liver toxicity may occur several weeks or more after the last treatment with temozolomide.
 
 Malignancies
 
@@ -57,7 +67,7 @@ Patients with rare hereditary problems of galactose intolerance, the Lapp lactas
 
 [Temodal 20 mg hard capsules]
 
-(all sentences already above)
+Hepatic injury, including fatal hepatic failure, has been reportedin patients treated with TMZ (see section 4.8).
 
 [Temodal 100 mg hard capsules]
 

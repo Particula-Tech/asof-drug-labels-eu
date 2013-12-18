@@ -7,7 +7,7 @@ Convulsions were reported very commonly in the newly-diagnosed glioblastoma mult
 Most haematologic adverse reactions were reported commonly or very commonly in both indications (Tables 4 and 5); the frequency of grade 3-4 laboratory findings is presented after each table.
 
 In the tables undesirable effects are classified according to System Organ Class and frequency.
-Frequency groupings are defined according to the following convention: Very common (≥ 1/10); Common (≥ 1/100 to < 1/10); Uncommon (≥ 1/1,000 to < 1/100).
+Frequency groupings are defined according to the following convention: Very common (≥ 1/10); Common (≥ 1/100 to < 1/10); Uncommon (≥ 1/1,000 to < 1/100); Rare (≥1/10,000 to <1/1,000); Very rare (<1/10,000).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 Newly-diagnosed glioblastoma multiforme
@@ -65,14 +65,14 @@ Table 4 provides treatment-emergent adverse events in patients with newly-diagno
 | Uncommon: | Myopathy, back pain, musculoskeletal pain, myalgia | Myopathy, back pain |
 | Renal and urinary disorders |  |  |
 | Common: | Micturition frequency, urinary incontinence | Urinary incontinence |
-| Uncommon: |  | Dysuria |
 | System organ class | TMZ + concomitant RT n=288* | TMZ monotherapy n=224 |
+| Uncommon: |  | Dysuria |
 | Reproductive system and breast disorders |  |  |
 | Uncommon: | Impotence | Vaginal haemorrhage, menorrhagia, amenorrhea, vaginitis, breast pain |
 | General disorders and administration site conditions |  |  |
 | Very common: | Fatigue | Fatigue |
 | Common: | Allergic reaction, fever, radiation injury, face oedema, pain, taste perversion | Allergic reaction, fever, radiation injury, pain, taste perversion |
-| Uncommon: | Asthenia, flushing, hot flushes, condition aggravated, rigors, tongue discolouration, parosmia, thirst | Asthenia, face oedema, pain, condition aggravated, rigors, tooth disorder, taste perversion |
+| Uncommon: | Asthenia, flushing, hot flushes, condition aggravated, rigors, tongue discolouration, parosmia, thirst | Asthenia, face oedema, pain, condition aggravated, rigors, tooth disorder |
 | Investigations |  |  |
 | Common: | ALT increased | ALT increased |
 | Uncommon: | Hepatic enzymes increased, Gamma GT increased, AST increased |  |
@@ -139,15 +139,30 @@ Paediatric population
 Oral TMZ has been studied in paediatric patients (age 3-18 years) with recurrent brainstem glioma or recurrent high grade astrocytoma, in a regimen administered daily for 5 days every 28 days.
 Although the data is limited, tolerance in children is expected to be the same as in adults.
 The safety of TMZ in children under the age of 3 years has not been established.
-
 Post-Marketing Experience
 
-Antineoplastic agents, and notably alkylating agents, have been associated with a potential risk of myelodysplastic syndrome (MDS) and secondary malignancies, including leukaemia.
-Very rare cases of MDS and secondary malignancies, including myeloid leukaemia have been reported in patients treated with regimens that included TMZ.
-Prolonged pancytopenia, which may result in aplastic anaemia has been reported, and in some cases has resulted in a fatal outcome.
-Cases of toxic epidermal necrolysis and Stevens-Johnson syndrome have been reported very rarely.
-Cases of interstitial pneumonitis/pneumonitis have been reported very rarely.
-There have been reported cases of hepatotoxicity including elevations of liver enzymes, hyperbilirubinemia, cholestasis and hepatitis.
+The following additional serious adverse reactions have been identified during post-marketing exposure:
+
+| Table 6. Summary of events reported with temozolomide in the post-marketing setting* |  |
+| --- | --- |
+| Blood and lymphatic system disorders |  |
+| Very rare: | prolonged pancytopenia, aplastic anaemia† |
+| Neoplasm benign, malignant and unspecified |  |
+| Very rare: | myelodysplastic syndrome (MDS), secondary malignancies, including myeloid leukaemia |
+| Respiratory, thoracic and mediastinal disorders |  |
+| Very rare: | interstitial pneumonitis/pneumonitis, pulmonary fibrosis, respiratory failure† |
+| Hepatobiliary disorders |  |
+| Not known: | liver enzymes elevations, hyperbilirubinemia, cholestasis, hepatitis hepatic injury, hepatic failure† |
+| Skin and subcutaneous tissue disorders |  |
+| Very rare: | toxic epidermal necrolysis, Stevens-Johnson syndrome |
+
+Events classified according to System Organ Class and post-marketing product usage
+† Including cases with fatal outcome
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 [Temodal 20 mg hard capsules]
 
@@ -157,12 +172,12 @@ There have been reported cases of hepatotoxicity including elevations of liver e
 | Infections and infestations |  |  |
 | Common: | Infection, Herpes simplex, wound infection, pharyngitis, candidiasis oral | Infection, candidiasis oral |
 | Uncommon: |  | Herpes simplex, herpes zoster, influenza–like symptoms |
+| System organ class | TMZ + concomitant RT n=288* | TMZ monotherapy n=224 |
 | Blood and lymphatic system disorders |  |  |
 | Common: | Neutropenia, thrombocytopenia, lymphopenia, leukopenia | Febrile neutropenia, thrombocytopenia, anaemia, leukopenia |
 | Uncommon: | Febrile neutropenia, anaemia | Lymphopenia, petechiae |
 | Endocrine disorders |  |  |
 | Uncommon: | Cushingoid | Cushingoid |
-| System organ class | TMZ + concomitant RT n=288* | TMZ monotherapy n=224 |
 | Metabolism and nutrition disorders |  |  |
 | Very common: | Anorexia | Anorexia |
 | Common: | Hyperglycaemia, weight decreased | Weight decreased |
@@ -180,11 +195,11 @@ There have been reported cases of hepatotoxicity including elevations of liver e
 | Ear and labyrinth disorders |  |  |
 | Common: | Hearing impairment | Hearing impairment, tinnitus |
 | Uncommon: | Otitis media, tinnitus, hyperacusis, earache | Deafness, vertigo, earache |
+| System organ class | TMZ + concomitant RT n=288* | TMZ monotherapy n=224 |
 | Cardiac disorders |  |  |
 | Uncommon: | Palpitation |  |
 | Vascular disorders |  |  |
 | Common: | Haemorrhage, oedema, oedema leg | Haemorrhage, deep venous thrombosis, oedema leg |
-| System organ class | TMZ + concomitant RT n=288* | TMZ monotherapy n=224 |
 | Uncommon: | Cerebral haemorrhage, hypertension | Embolism pulmonary, oedema, oedema peripheral |
 | Respiratory, thoracic and mediastinal disorders |  |  |
 | Common: | Dyspnoea, coughing | Dyspnoea, coughing |
@@ -203,146 +218,24 @@ There have been reported cases of hepatotoxicity including elevations of liver e
 | Renal and urinary disorders |  |  |
 | Common: | Micturition frequency, urinary incontinence | Urinary incontinence |
 | Uncommon: |  | Dysuria |
+| System organ class | TMZ + concomitant RT n=288* | TMZ monotherapy n=224 |
 | Reproductive system and breast disorders |  |  |
 | Uncommon: | Impotence | Vaginal haemorrhage, menorrhagia, amenorrhea, vaginitis, breast pain |
 | General disorders and administration site conditions |  |  |
 | Very common: | Fatigue | Fatigue |
 | Common: | Allergic reaction, fever, radiation injury, face oedema, pain, taste perversion | Allergic reaction, fever, radiation injury, pain, taste perversion |
-| System organ class | TMZ + concomitant RT n=288* | TMZ monotherapy n=224 |
-| Uncommon: | Asthenia, flushing, hot flushes, condition aggravated, rigors, tongue discolouration, parosmia, thirst | Asthenia, face oedema, pain, condition aggravated, rigors, tooth disorder, taste perversion |
+| Uncommon: | Asthenia, flushing, hot flushes, condition aggravated, rigors, tongue discolouration, parosmia, thirst | Asthenia, face oedema, pain, condition aggravated, rigors, tooth disorder |
 | Investigations |  |  |
 | Common: | ALT increased | ALT increased |
 | Uncommon: | Hepatic enzymes increased, Gamma GT increased, AST increased |  |
+
+* Events classified according to System Organ Class and post-marketing product usage
 
 [Temodal 100 mg hard capsules]
 
-| Table 4. Treatment-emergent events during concomitant and monotherapy treatment phases in patients with newly-diagnosed glioblastoma multiforme |  |  |
-| --- | --- | --- |
-| System organ class | TMZ + concomitant RT n=288* | TMZ monotherapy n=224 |
-| Infections and infestations |  |  |
-| Common: | Infection, Herpes simplex, wound infection, pharyngitis, candidiasis oral | Infection, candidiasis oral |
-| Uncommon: |  | Herpes simplex, herpes zoster, influenza–like symptoms |
-| Blood and lymphatic system disorders |  |  |
-| Common: | Neutropenia, thrombocytopenia, lymphopenia, leukopenia | Febrile neutropenia, thrombocytopenia, anaemia, leukopenia |
-| Uncommon: | Febrile neutropenia, anaemia | Lymphopenia, petechiae |
-| Endocrine disorders |  |  |
-| Uncommon: | Cushingoid | Cushingoid |
-| Metabolism and nutrition disorders |  |  |
-| Very common: | Anorexia | Anorexia |
-| System organ class | TMZ + concomitant RT n=288* | TMZ monotherapy n=224 |
-| Common: | Hyperglycaemia, weight decreased | Weight decreased |
-| Uncommon: | Hypokalemia, alkaline phosphatase increased, weight increased | Hyperglycaemia, weight increased |
-| Psychiatric disorders |  |  |
-| Common: | Anxiety, emotional lability, insomnia | Anxiety, depression, emotional lability, insomnia |
-| Uncommon: | Agitation, apathy, behaviour disorder, depression, hallucination | Hallucination, amnesia |
-| Nervous system disorders |  |  |
-| Very common: | Headache | Convulsions, headache |
-| Common: | Convulsions, consciousness decreased, somnolence, aphasia, balance impaired, dizziness, confusion, memory impairment, concentration impaired, neuropathy, paresthesia, speech disorder, tremor | Hemiparesis, aphasia, balance impaired, somnolence, confusion, dizziness, memory impairment, concentration impaired, dysphasia, neurological disorder (NOS), neuropathy, peripheral neuropathy, paresthesia, speech disorder, tremor |
-| Uncommon: | Status epilepticus, extrapyramidal disorder, hemiparesis, ataxia, cognition impaired, dysphasia, gait abnormal, hyperesthesia, hypoesthesia, neurological disorder (NOS), peripheral neuropathy | Hemiplegia, ataxia, coordination abnormal, gait abnormal, hyperesthesia, sensory disturbance |
-| Eye disorders |  |  |
-| Common: | Vision blurred | Visual field defect, vision blurred, diplopia |
-| Uncommon: | Hemianopia, visual acuity reduced, vision disorder, visual field defect, eye pain | Visual acuity reduced, eye pain, eyes dry |
-| Ear and labyrinth disorders |  |  |
-| Common: | Hearing impairment | Hearing impairment, tinnitus |
-| Uncommon: | Otitis media, tinnitus, hyperacusis, earache | Deafness, vertigo, earache |
-| Cardiac disorders |  |  |
-| Uncommon: | Palpitation |  |
-| Vascular disorders |  |  |
-| Common: | Haemorrhage, oedema, oedema leg | Haemorrhage, deep venous thrombosis, oedema leg |
-| Uncommon: | Cerebral haemorrhage, hypertension | Embolism pulmonary, oedema, oedema peripheral |
-| System organ class | TMZ + concomitant RT n=288* | TMZ monotherapy n=224 |
-| Respiratory, thoracic and mediastinal disorders |  |  |
-| Common: | Dyspnoea, coughing | Dyspnoea, coughing |
-| Uncommon: | Pneumonia, upper respiratory infection, nasal congestion | Pneumonia, sinusitis, upper respiratory infection, bronchitis |
-| Gastrointestinal disorders |  |  |
-| Very common: | Constipation, nausea, vomiting | Constipation, nausea, vomiting |
-| Common: | Stomatitis, diarrhoea, abdominal pain, dyspepsia, dysphagia | Stomatitis, diarrhoea, dyspepsia, dysphagia, mouth dry |
-| Uncommon: |  | Abdominal distension, fecal incontinence, gastrointestinal disorder (NOS), gastroenteritis, haemorrhoids |
-| Skin and subcutaneous tissue disorders |  |  |
-| Very common: | Rash, alopecia | Rash, alopecia |
-| Common: | Dermatitis, dry skin, erythema, pruritus | Dry skin, pruritus |
-| Uncommon: | Skin exfoliation, photosensitivity reaction, pigmentation abnormal | Erythema, pigmentation abnormal, sweating increased |
-| Musculoskeletal and connective tissue disorders |  |  |
-| Common: | Muscle weakness, arthralgia | Muscle weakness, arthralgia, musculoskeletal pain, myalgia |
-| Uncommon: | Myopathy, back pain, musculoskeletal pain, myalgia | Myopathy, back pain |
-| Renal and urinary disorders |  |  |
-| Common: | Micturition frequency, urinary incontinence | Urinary incontinence |
-| Uncommon: |  | Dysuria |
-| Reproductive system and breast disorders |  |  |
-| Uncommon: | Impotence | Vaginal haemorrhage, menorrhagia, amenorrhea, vaginitis, breast pain |
-| General disorders and administration site conditions |  |  |
-| Very common: | Fatigue | Fatigue |
-| Common: | Allergic reaction, fever, radiation injury, face oedema, pain, taste perversion | Allergic reaction, fever, radiation injury, pain, taste perversion |
-| System organ class | TMZ + concomitant RT n=288* | TMZ monotherapy n=224 |
-| Uncommon: | Asthenia, flushing, hot flushes, condition aggravated, rigors, tongue discolouration, parosmia, thirst | Asthenia, face oedema, pain, condition aggravated, rigors, tooth disorder, taste perversion |
-| Investigations |  |  |
-| Common: | ALT increased | ALT increased |
-| Uncommon: | Hepatic enzymes increased, Gamma GT increased, AST increased |  |
+(all sentences already above)
 
 [Temodal 140 mg hard capsules]
-
-| Table 4. Treatment-emergent events during concomitant and monotherapy treatment phases in patients with newly-diagnosed glioblastoma multiforme |  |  |
-| --- | --- | --- |
-| System organ class | TMZ + concomitant RT n=288* | TMZ monotherapy n=224 |
-| Infections and infestations |  |  |
-| Common: | Infection, Herpes simplex, wound infection, pharyngitis, candidiasis oral | Infection, candidiasis oral |
-| Uncommon: |  | Herpes simplex, herpes zoster, influenza–like symptoms |
-| Blood and lymphatic system disorders |  |  |
-| Common: | Neutropenia, thrombocytopenia, lymphopenia, leukopenia | Febrile neutropenia, thrombocytopenia, anaemia, leukopenia |
-| Uncommon: | Febrile neutropenia, anaemia | Lymphopenia, petechiae |
-| Endocrine disorders |  |  |
-| Uncommon: | Cushingoid | Cushingoid |
-| System organ class | TMZ + concomitant RT n=288* | TMZ monotherapy n=224 |
-| Metabolism and nutrition disorders |  |  |
-| Very common: | Anorexia | Anorexia |
-| Common: | Hyperglycaemia, weight decreased | Weight decreased |
-| Uncommon: | Hypokalemia, alkaline phosphatase increased, weight increased | Hyperglycaemia, weight increased |
-| Psychiatric disorders |  |  |
-| Common: | Anxiety, emotional lability, insomnia | Anxiety, depression, emotional lability, insomnia |
-| Uncommon: | Agitation, apathy, behaviour disorder, depression, hallucination | Hallucination, amnesia |
-| Nervous system disorders |  |  |
-| Very common: | Headache | Convulsions, headache |
-| Common: | Convulsions, consciousness decreased, somnolence, aphasia, balance impaired, dizziness, confusion, memory impairment, concentration impaired, neuropathy, paresthesia, speech disorder, tremor | Hemiparesis, aphasia, balance impaired, somnolence, confusion, dizziness, memory impairment, concentration impaired, dysphasia, neurological disorder (NOS), neuropathy, peripheral neuropathy, paresthesia, speech disorder, tremor |
-| Uncommon: | Status epilepticus, extrapyramidal disorder, hemiparesis, ataxia, cognition impaired, dysphasia, gait abnormal, hyperesthesia, hypoesthesia, neurological disorder (NOS), peripheral neuropathy | Hemiplegia, ataxia, coordination abnormal, gait abnormal, hyperesthesia, sensory disturbance |
-| Eye disorders |  |  |
-| Common: | Vision blurred | Visual field defect, vision blurred, diplopia |
-| Uncommon: | Hemianopia, visual acuity reduced, vision disorder, visual field defect, eye pain | Visual acuity reduced, eye pain, eyes dry |
-| Ear and labyrinth disorders |  |  |
-| Common: | Hearing impairment | Hearing impairment, tinnitus |
-| Uncommon: | Otitis media, tinnitus, hyperacusis, earache | Deafness, vertigo, earache |
-| Cardiac disorders |  |  |
-| Uncommon: | Palpitation |  |
-| Vascular disorders |  |  |
-| Common: | Haemorrhage, oedema, oedema leg | Haemorrhage, deep venous thrombosis, oedema leg |
-| System organ class | TMZ + concomitant RT n=288* | TMZ monotherapy n=224 |
-| Uncommon: | Cerebral haemorrhage, hypertension | Embolism pulmonary, oedema, oedema peripheral |
-| Respiratory, thoracic and mediastinal disorders |  |  |
-| Common: | Dyspnoea, coughing | Dyspnoea, coughing |
-| Uncommon: | Pneumonia, upper respiratory infection, nasal congestion | Pneumonia, sinusitis, upper respiratory infection, bronchitis |
-| Gastrointestinal disorders |  |  |
-| Very common: | Constipation, nausea, vomiting | Constipation, nausea, vomiting |
-| Common: | Stomatitis, diarrhoea, abdominal pain, dyspepsia, dysphagia | Stomatitis, diarrhoea, dyspepsia, dysphagia, mouth dry |
-| Uncommon: |  | Abdominal distension, fecal incontinence, gastrointestinal disorder (NOS), gastroenteritis, haemorrhoids |
-| Skin and subcutaneous tissue disorders |  |  |
-| Very common: | Rash, alopecia | Rash, alopecia |
-| Common: | Dermatitis, dry skin, erythema, pruritus | Dry skin, pruritus |
-| Uncommon: | Skin exfoliation, photosensitivity reaction, pigmentation abnormal | Erythema, pigmentation abnormal, sweating increased |
-| Musculoskeletal and connective tissue disorders |  |  |
-| Common: | Muscle weakness, arthralgia | Muscle weakness, arthralgia, musculoskeletal pain, myalgia |
-| Uncommon: | Myopathy, back pain, musculoskeletal pain, myalgia | Myopathy, back pain |
-| Renal and urinary disorders |  |  |
-| Common: | Micturition frequency, urinary incontinence | Urinary incontinence |
-| Uncommon: |  | Dysuria |
-| Reproductive system and breast disorders |  |  |
-| Uncommon: | Impotence | Vaginal haemorrhage, menorrhagia, amenorrhea, vaginitis, breast pain |
-| General disorders and administration site conditions |  |  |
-| Very common: | Fatigue | Fatigue |
-| System organ class | TMZ + concomitant RT n=288* | TMZ monotherapy n=224 |
-| Common: | Allergic reaction, fever, radiation injury, face oedema, pain, taste perversion | Allergic reaction, fever, radiation injury, pain, taste perversion |
-| Uncommon: | Asthenia, flushing, hot flushes, condition aggravated, rigors, tongue discolouration, parosmia, thirst | Asthenia, face oedema, pain, condition aggravated, rigors, tooth disorder, taste perversion |
-| Investigations |  |  |
-| Common: | ALT increased | ALT increased |
-| Uncommon: | Hepatic enzymes increased, Gamma GT increased, AST increased |  |
 
 There were higher rates of Grade 4 neutropenia (ANC < 0.5 x 109/l), 12 % vs 5 %, and thrombocytopenia (< 20 x 109/l ), 9 % vs 3 %, in women vs men in the first cycle of therapy.
 
@@ -366,7 +259,6 @@ Most haematological adverse reactions were reported commonly or very commonly in
 | Infections and infestations |  |  |
 | Common: | Infection, Herpes simplex, wound infection, pharyngitis, candidiasis oral | Infection, candidiasis oral |
 | Uncommon: |  | Herpes simplex, herpes zoster, influenza–like symptoms |
-| System organ class | TMZ + concomitant RT n=288* | TMZ monotherapy n=224 |
 | Blood and lymphatic system disorders |  |  |
 | Common: | Neutropenia, thrombocytopenia, lymphopenia, leukopenia | Febrile neutropenia, thrombocytopenia, anaemia, leukopenia |
 | Uncommon: | Febrile neutropenia, anaemia | Lymphopenia, petechiae |
@@ -383,12 +275,12 @@ Most haematological adverse reactions were reported commonly or very commonly in
 | Very common: | Headache | Convulsions, headache |
 | Common: | Convulsions, consciousness decreased, somnolence, aphasia, balance impaired, dizziness, confusion, memory impairment, concentration impaired, neuropathy, paresthesia, speech disorder, tremor | Hemiparesis, aphasia, balance impaired, somnolence, confusion, dizziness, memory impairment, concentration impaired, dysphasia, neurological disorder (NOS), neuropathy, peripheral neuropathy, paresthesia, speech disorder, tremor |
 | Uncommon: | Status epilepticus, extrapyramidal disorder, hemiparesis, ataxia, cognition impaired, dysphasia, gait abnormal, hyperesthesia, hypoesthesia, neurological disorder (NOS), peripheral neuropathy | Hemiplegia, ataxia, coordination abnormal, gait abnormal, hyperesthesia, sensory disturbance |
+| System organ class | TMZ + concomitant RT n=288* | TMZ monotherapy n=224 |
 | Eye disorders |  |  |
 | Common: | Vision blurred | Visual field defect, vision blurred, diplopia |
 | Uncommon: | Hemianopia, visual acuity reduced, vision disorder, visual field defect, eye pain | Visual acuity reduced, eye pain, eyes dry |
 | Ear and labyrinth disorders |  |  |
 | Common: | Hearing impairment | Hearing impairment, tinnitus |
-| System organ class | TMZ + concomitant RT n=288* | TMZ monotherapy n=224 |
 | Uncommon: | Otitis media, tinnitus, hyperacusis, earache | Deafness, vertigo, earache |
 | Cardiac disorders |  |  |
 | Uncommon: | Palpitation |  |
@@ -406,19 +298,19 @@ Most haematological adverse reactions were reported commonly or very commonly in
 | Very common: | Rash, alopecia | Rash, alopecia |
 | Common: | Dermatitis, dry skin, erythema, pruritus | Dry skin, pruritus |
 | Uncommon: | Skin exfoliation, photosensitivity reaction, pigmentation abnormal | Erythema, pigmentation abnormal, sweating increased |
+| System organ class | TMZ + concomitant RT n=288* | TMZ monotherapy n=224 |
 | Musculoskeletal and connective tissue disorders |  |  |
 | Common: | Muscle weakness, arthralgia | Muscle weakness, arthralgia, musculoskeletal pain, myalgia |
 | Uncommon: | Myopathy, back pain, musculoskeletal pain, myalgia | Myopathy, back pain |
 | Renal and urinary disorders |  |  |
 | Common: | Micturition frequency, urinary incontinence | Urinary incontinence |
-| System organ class | TMZ + concomitant RT n=288* | TMZ monotherapy n=224 |
 | Uncommon: |  | Dysuria |
 | Reproductive system and breast disorders |  |  |
 | Uncommon: | Impotence | Vaginal haemorrhage, menorrhagia, amenorrhea, vaginitis, breast pain |
 | General disorders and administration site conditions |  |  |
 | Very common: | Fatigue | Fatigue |
 | Common: | Allergic reaction, fever, radiation injury, face oedema, pain, taste perversion | Allergic reaction, fever, radiation injury, pain, taste perversion |
-| Uncommon: | Asthenia, flushing, hot flushes, condition aggravated, rigors, tongue discolouration, parosmia, thirst | Asthenia, face oedema, pain, condition aggravated, rigors, tooth disorder, taste perversion |
+| Uncommon: | Asthenia, flushing, hot flushes, condition aggravated, rigors, tongue discolouration, parosmia, thirst | Asthenia, face oedema, pain, condition aggravated, rigors, tooth disorder |
 | Investigations |  |  |
 | Common: | ALT increased | ALT increased |
 | Uncommon: | Hepatic enzymes increased, Gamma GT increased, AST increased |  |

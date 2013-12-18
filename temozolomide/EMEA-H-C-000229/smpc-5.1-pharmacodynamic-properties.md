@@ -16,20 +16,21 @@ A total of 573 patients were randomised to receive either TMZ + RT (n=287) or RT
 Patients in the TMZ + RT arm received concomitant TMZ (75 mg/m2) once daily, starting the first day of RT until the last day of RT, for 42 days (with a maximum of 49 days).
 This was followed by monotherapy TMZ (150 - 200 mg/m2) on Days 1 - 5 of every 28-day cycle for up to 6 cycles, starting 4 weeks after the end of RT.
 Patients in the control arm received RT only.
-Pneumocystis carinii pneumonia (PCP) prophylaxis was required during RT and combined TMZ therapy.
+Pneumocystis jirovecii pneumonia (PCP) prophylaxis was required during RT and combined TMZ therapy.
 
 TMZ was administered as salvage therapy in the follow-up phase in 161 patients of the 282 (57 %) in the RT alone arm, and 62 patients of the 277 (22 %) in the TMZ + RT arm.
 
 The hazard ratio (HR) for overall survival was 1.59 (95 % CI for HR=1.33 -1.91) with a log-rank p < 0.0001 in favour of the TMZ arm.
 The estimated probability of surviving 2 years or more (26 % vs 10 %) is higher for the RT + TMZ arm.
 The addition of concomitant TMZ to RT, followed by TMZ monotherapy in the treatment of patients with newly-diagnosed glioblastoma multiforme demonstrated a statistically significant improvement in overall survival (OS) compared with RT alone (Figure 1).
+
 HR (95% C.I.) = 1.59 (1.33 – 1.91) log-rank p-value < .0001
 
 26%
-RT+TM Z
-
+RT+TMZ
 10%
-RT O nly
+RT Only
+
 12.1 14.6
 
 Figure 1 Kaplan-Meier curves for overall survival (intent-to-treat population)
@@ -75,7 +76,7 @@ Tolerance to TMZ is similar to adults.
 
 [Temodal 100 mg hard capsules]
 
-R T+TM Z
+(all sentences already above)
 
 [Temodal 140 mg hard capsules]
 

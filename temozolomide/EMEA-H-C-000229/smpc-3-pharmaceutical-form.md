@@ -1,6 +1,6 @@
 # 3. PHARMACEUTICAL FORM
 
-Hard capsule.
+Hard capsule (capsule).
 
 The hard capsules have an opaque white body, an opaque green cap, and are imprinted with black ink.
 The cap is imprinted with “Temodal”.
@@ -33,6 +33,6 @@ The body is imprinted with "250 mg", the Schering-Plough logo and two stripes.
 
 [Temodal 2.5 mg/ml powder for solution for infusion]
 
-Powder for solution for infusion (powder for infusion).
+Powder for solution for infusion.
 
 White powder.

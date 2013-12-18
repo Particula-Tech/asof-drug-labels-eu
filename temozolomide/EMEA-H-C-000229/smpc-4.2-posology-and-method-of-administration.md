@@ -83,7 +83,7 @@ Patients with hepatic or renal impairment
 
 The pharmacokinetics of TMZ were comparable in patients with normal hepatic function and in those with mild or moderate hepatic impairment.
 No data are available on the administration of TMZ in patients with severe hepatic impairment (Child’s Class C) or with renalimpairment.
-Based on the pharmacokinetic properties of TMZ, it is unlikely that dose reductions are required in patients with severe hepatic impairment or any degree of renalimpairment.
+Based on the pharmacokinetic properties of TMZ, it is unlikely that dose reductions are required in patients with severe hepatic impairment or any degree of renal impairment.
 However, caution should be exercised when TMZ is administered in these patients.
 
 Elderly patients
@@ -101,7 +101,7 @@ If vomiting occurs after the dose is administered, a second dose should not be a
 
 [Temodal 20 mg hard capsules]
 
-(all sentences already above)
+Based on the pharmacokinetic properties of TMZ, it is unlikely that dose reductions are required in patients with severe hepatic impairment or any degree of renalimpairment.
 
 [Temodal 100 mg hard capsules]
 
@@ -121,13 +121,11 @@ If vomiting occurs after the dose is administered, a second dose should not be a
 
 [Temodal 2.5 mg/ml powder for solution for infusion]
 
-TMZ is administered at a dose of 75 mg/m2 daily for 42 days concomitant with focal radiotherapy
-(60 Gy administered in 30 fractions).
+TMZ is administered at a dose of 75 mg/m2 daily for 42 days concomitant with focal radiotherapy (60 Gy administered in 30 fractions).
 
 In patients previously untreated with chemotherapy, TMZ is administered at a dose of 200 mg/m2 once daily for the first 5 days followed by a 23 day treatment interruption (total of 28 days).
 
 No data are available on the administration of TMZ in patients with severe hepatic impairment (Child’s Class C) or with renal impairment.
-Based on the pharmacokinetic properties of TMZ, it is unlikely that dose reductions are required in patients with severe hepatic impairment or any degree of renal impairment.
 
 Temodal 2.5 mg/ml powder for solution for infusion must be administered only by intravenous infusion.
 It must not be given by other routes of administration, such as the intrathecal, intramuscular, or subcutaneous route.
