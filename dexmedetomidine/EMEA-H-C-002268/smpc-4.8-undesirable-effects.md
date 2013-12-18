@@ -4,11 +4,10 @@ Summary of the safety profile
 The most frequently reported adverse reactions with dexmedetomidine are hypotension, hypertension and bradycardia, occurring in approximately 25%, 15% and 13% of patients respectively.
 Hypotension and bradycardia were also the most frequent dexmedetomidine-related serious adverse reactions occurring in 1.7% and 0.9% of randomised Intensive Care Unit (ICU) patients respectively.
 
-Tabulated summary of adverse reactions
+Tabulated list of adverse reactions
 The adverse reactions listed in Table 1 have been accumulated from pooled data of clinical trials in intensive care consisting of 3,137 randomised patients (1,879 treated with dexmedetomidine, 864 treated with active comparators, and 394 treated with placebo).
 
-Adverse reactions are ranked under headings of frequency, the most frequent first, using the following convention: Very common (≥1/10); common (1≥100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000), very rare (<1/10,000).
-
+Adverse reactions are ranked under headings of frequency, the most frequent first, using the following convention: Very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000), very rare (<1/10,000).
 Table 1.
 Adverse reactions
 
@@ -53,5 +52,6 @@ Hypertension has been associated with the use of a loading dose and this reactio
 
 Paediatric population
 
-There is limited experience in children, most data has been obtained from short term exposure.
+Children > 1 month post-natal, predominantly post-operative, have been evaluated for treatment up to 24 hours in the ICU and demonstrated a similar safety profile as in adults.
+Data in new-born infants (28 – 44 weeks gestation) is very limited and restricted to maintenance doses ≤ 0.2 mcg/kg/h.
 A single case of hypothermic bradycardia in a neonate has been reported in the literature.

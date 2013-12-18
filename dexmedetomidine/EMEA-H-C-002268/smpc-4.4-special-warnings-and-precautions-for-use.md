@@ -16,7 +16,6 @@ Caution should be exercised when administering dexmedetomidine to patients with 
 Data on the effects of Dexdor in patients with heart rate <60 are very limited and particular care should be taken with such patients.
 Bradycardia does not normally require treatment, but has commonly responded to anti-cholinergic medicine or dose reduction where needed.
 Patients with high physical fitness and slow resting heart rate may be particularly sensitive to bradycardic effects of alpha-2 receptor agonists and cases of transient sinus arrest have been reported.
-
 The hypotensive effects of Dexdor may be of greater significance in those patients with pre-existing hypotension (especially if not responsive to vasopressors), hypovolaemia, chronic hypotension or reduced functional reserve such as patients with severe ventricular dysfunction and the elderly and special care is warranted in these cases (see section 4.3).
 Hypotension does not normally require specific treatment but, where needed, users should be ready to intervene with dose reduction, fluids and/or vasoconstrictors .
 

@@ -7,6 +7,7 @@ Specific studies have confirmed these effects with isoflurane, propofol, alfenta
 
 No pharmacokinetic interactions between dexmedetomidine and isoflurane, propofol, alfentanil and midazolam have been demonstrated.
 However, due to possible pharmacodynamic interactions, when co-administered with dexmedetomidine, a reduction in dosage of dexmedetomidine or the concomitant anaesthetic, sedative, hypnotic or opioid may be required.
+
 Inhibition of CYP enzymes including CYP2B6 by dexmedetomidine has been studied in human liver microsome incubations.
 In vitro study suggests that interaction potential in vivo exists between dexmedetomidine and substrates with dominant CYP2B6 metabolism.
 

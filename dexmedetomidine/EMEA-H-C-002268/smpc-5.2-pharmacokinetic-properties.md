@@ -1,6 +1,7 @@
 # 5.2 Pharmacokinetic properties
 
 The pharmacokinetics of dexmedetomidine has been assessed following short term IV administration in healthy volunteers and long term infusion in ICU population.
+
 Distribution
 
 Dexmedetomidine exhibits a two-compartment disposition model.
@@ -14,7 +15,7 @@ Dexmedetomidine is 94% bound to plasma proteins.
 Plasma protein binding is constant over the concentration range of 0.85 to 85 ng/ml.
 Dexmedetomidine binds to both human serum albumin and Alpha-1-acid glycoprotein with serum albumin as the major binding protein of dexmedetomidine in plasma.
 
-Metabolism and Elimination
+Biotransformation and Elimination
 
 Dexmedetomidine is eliminated by extensive metabolism in the liver.
 There are three types of initial metabolic reactions; direct N-glucuronidation, direct N-methylation and cytochrome P450 catalysed oxidation.
@@ -42,9 +43,19 @@ The mean t1/2 for the subjects with mild, moderate or severe hepatic impairment 
 Although dexmedetomidine is administered to effect, it may be necessary to consider initial/maintenance dose reduction in patients with hepatic impairment depending on the degree of impairment and the response.
 
 The pharmacokinetics of dexmedetomidine in subjects with severe renal impairment (creatinine clearance <30 ml/min) is not altered relative to healthy subjects.
-Data in children 2 months to 17 years of age are limited.
-Dexmedetomidine half life appears similar to that seen in adults.
-In the age groups 2-20 months and 2-6 years, body weight-adjusted plasma clearance appeared higher (1.2 and 1.0 l/h/kg, respectively) but decreased in older children
-(0.8 l/h/kg) to be comparable to adults (0.5-0.6 l/h/kg).
-Plasma clearance may be lower in children
-< 2 months due to immaturity.
+
+Data in new-born infants (28 - 44 weeks gestation) to children 17 years of age are limited.
+Dexmedetomidine half life in children (1 months to 17 years) appears similar to that seen in adults, but in new-born infants (under 1 month) it appears higher.
+In the age groups 1 months to 6 years, body weight-adjusted plasma clearance appeared higher but decreased in older children.
+Body weight-adjusted plasma clearance in new-born infants (under 1 month) appeared lower (0.9 l/h/kg) than in the older groups due to immaturity.
+The available data is summarised in the following table;
+
+|  |  | Mean (95% CI) |  |
+| --- | --- | --- | --- |
+| Age | N | Cl (l/h/kg) | t1/2 (h) |
+| Under 1 month | 28 | 0.93 (0.76, 1.14) | 4.47 (3.81, 5.25) |
+| 1 to < 6 months | 14 | 1.21 (0.99, 1.48) | 2.05 (1.59, 2.65) |
+| 6 to < 12 months | 15 | 1.11 (0.94, 1.31) | 2.01 (1.81, 2.22) |
+| 12 to < 24 months | 13 | 1.06 (0.87, 1.29) | 1.97 (1.62, 2.39) |
+| 2 to < 6 years | 26 | 1.11 (1.00, 1.23) | 1.75 (1.57, 1.96) |
+| 6 to < 17 years | 28 | 0.80 (0.69, 0.92) | 2.03 (1.78, 2.31) |

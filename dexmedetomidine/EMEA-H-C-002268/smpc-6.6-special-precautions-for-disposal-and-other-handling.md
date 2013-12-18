@@ -22,4 +22,4 @@ Dexdor has been shown to be compatible when administered with the following intr
 
 Lactated Ringers, 5% glucose solution, sodium chloride 9 mg/ml (0.9%) solution for injection, mannitol 200 mg/ml (20%), thiopental sodium, etomidate, vecuronium bromide, pancuronium bromide, succinylcholine, atracurium besylate, mivacurium chloride, rocuronium bromide, glycopyrrolate bromide, phenylephrine HCl, atropine sulphate, dopamine, noradrenaline, dobutamine, midazolam, morphine sulphate, fentanyl citrate, and a plasma-substitute.
 
-Any unused product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

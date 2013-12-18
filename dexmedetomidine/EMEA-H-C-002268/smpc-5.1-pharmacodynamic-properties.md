@@ -22,8 +22,10 @@ Delirium measured by the CAM-ICU scale was reduced in a study compared to midazo
 Those patients who withdrew due to insufficient sedation were switched to either propofol or midazolam.
 The risk of insufficient sedation was increased in patients who were difficult to sedate with standard care immediately prior to switching.
 
-Paediatric efficacy data from well controlled ICU studies is sparse but dexmedetomidine has been used as a sedative in children (see sections 5.2 and 4.4).
+Evidence of paediatric efficacy was seen in a dose-controlled ICU study in a largely post-operative population aged 1 month to ≤ 17 years.
+Approximately 50% of patients treated with dexmedetomidine did not require rescue addition of midazolam during a median treatment period of 20.3 hours, not exceeding 24 hours.
+Data on treatment for > 24 hours is not available.
+Data in new-born infants (28 – 44 weeks gestation) is very limited and restricted to low doses (≤ 0.2 mcg/kg/h) (see sections 5.2 and 4.4).
 New-born infants may be particularly sensitive to the bradycardic effects of Dexdor in the presence of hypothermia and in conditions of heart rate-dependent cardiac output.
-
 In double blind comparator controlled ICU studies the incidence of cortisol suppression in patients treated with dexmedetomidine (n=778) was 0.5% compared with 0% in patients treated with either midazolam (n=338) or propofol (n=275).
 The event was reported as mild in 1 and moderate in 3 cases.
