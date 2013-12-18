@@ -7,6 +7,7 @@ Intrathecal administration
 There have been fatal cases of inadvertent intrathecal administration of VELCADE.
 VELCADE 1 mg powder for solution for injection is for intravenous use only, while VELCADE 3.5 mg powder for solution for injection is for intravenous or subcutaneous use.
 VELCADE should not be administered intrathecally.
+
 Gastrointestinal toxicity
 Gastrointestinal toxicity, including nausea, diarrhoea, vomiting and constipation are very common with VELCADE treatment.
 Cases of ileus have been uncommonly reported (see section 4.8).
@@ -18,12 +19,11 @@ In the Phase III study evaluating VELCADE (injected intravenously) versus dexame
 In a Phase II study, platelets were lowest at Day 11 of each cycle of VELCADE treatment.
 There was no evidence of cumulative thrombocytopenia, including in the Phase II extension study.
 The mean platelet count nadir measured was approximately 40% of baseline.
-In patients with advanced myeloma the severity of thrombocytopenia was related to pre-treatment platelet count: for baseline platelet counts < 75,000/μl, 90% of 21 patients had a count ≤ 25,000/μl during the study, including 14%
-< 10,000/μl; in contrast, with a baseline platelet count > 75,000/μl, only 14% of 309 patients had a count ≤ 25×109/l during the study.
+In patients with advanced myeloma the severity of thrombocytopenia was related to pre-treatment platelet count: for baseline platelet counts < 75,000/μl, 90% of 21 patients had a count ≤25,000/μl during the study, including 14%
+< 10,000/μl; in contrast, with a baseline platelet count > 75,000/μl, only 14% of 309 patients had a count ≤25 x 109/l during the study.
 Platelet counts should be monitored prior to each dose of VELCADE.
-VELCADE therapy should be withheld when the platelet count is < 25,000/μl or in combination with melphalan and prednisone when the platelet count is ≤ 30,000/μl and re-initiated at a reduced dose after resolution (see section 4.2).
+VELCADE therapy should be withheld when the platelet count is < 25,000/μl or in combination with melphalan and prednisone when the platelet count is ≤30,000/μl and re-initiated at a reduced dose after resolution (see section 4.2).
 Potential benefit of the treatment should be carefully weighed against the risks, particularly in case of moderate to severe thrombocytopenia and risk factors for bleeding.
-
 Therefore, complete blood counts (CBC) with differential and including platelet counts should be frequently monitored throughout treatment with VELCADE.
 
 Herpes zoster virus reactivation
@@ -125,8 +125,8 @@ Bortezomib should be discontinued if serious reactions occur.
 
 [VELCADE 3.5 mg powder for solution for injection]
 
-In the Phase III study comparing VELCADE administered intravenously versus subcutaneously, the incidence of Grade ≥ 2 peripheral neuropathy events was 24% for the subcutaneous injection group and 41% for the intravenous injection group (p=0.0124).
-Grade ≥ 3 peripheral neuropathy occurred in 6% of patients in the subcutaneous treatment group, compared with 16% in the intravenous treatment group (p=0.0264).
+In the Phase III study comparing VELCADE administered intravenously versus subcutaneously, the incidence of Grade ≥2 peripheral neuropathy events was 24% for the subcutaneous injection group and 41% for the intravenous injection group (p=0.0124).
+Grade ≥3 peripheral neuropathy occurred in 6% of patients in the subcutaneous treatment group, compared with 16% in the intravenous treatment group (p=0.0264).
 The incidence of all grade peripheral neuropathy with VELCADE administered intravenously was lower in the historical studies with VELCADE administered intravenously than in study MMY-3021.
 
 Patients experiencing new or worsening peripheral neuropathy should undergo neurological evaluation and may require a change in the dose, schedule or route of administration to subcutaneous (see section 4.2).

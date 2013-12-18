@@ -8,5 +8,3 @@ Each pack contains 1 single use vial.
 [VELCADE 3.5 mg powder for solution for injection]
 
 Type 1 glass 10 ml-vial with a grey bromobutyl stopper and an aluminium seal, with a royal blue cap containing 3.5 mg bortezomib.
-
-Each pack contains 1 single-use vial.

@@ -2,7 +2,6 @@
 
 Contraception in males and females
 Male and female patients of childbearing potential must use effective contraceptive measures during and for 3 months following treatment.
-
 Pregnancy
 No clinical data are available for bortezomib with regard to exposure during pregnancy.
 The teratogenic potential of bortezomib has not been fully investigated.
