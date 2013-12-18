@@ -20,6 +20,7 @@ In some patients additional factor VIII was given.
 In more than a half of the reported cases, treatment with protease inhibitors was continued or reintroduced if treatment had been discontinued.
 A causal relationship has been evoked, although the mechanism of action has not been elucidated.
 Haemophiliac patients should therefore be made aware of the possibility of increased bleeding.
+
 Diabetes mellitus and hyperglycaemia: New onset diabetes mellitus, hyperglycaemia or exacerbation of existing diabetes mellitus has been reported in patients receiving protease inhibitors.
 In some of these the hyperglycaemia was severe and in some cases also associated with ketoacidosis.
 Many patients had confounding medical conditions, some of which required therapy with agents that have been associated with the development of diabetes mellitus or hyperglycaemia.
@@ -41,6 +42,8 @@ Typically, such reactions have been observed within the first few weeks or month
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis jiroveci pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
 
+Autoimmune disorders (such as Graves’ disease) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and can occur many months after initiation of treatment.
+
 Liver disease: Ritonavir should not be given to patients with decompensated liver disease.
 For patients with stable severe hepatic impairment (Child Pugh Grade C) without decompensation see section 4.2.
 Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk for severe and potentially fatal hepatic adverse reactions.
@@ -57,19 +60,20 @@ Renal failure, renal impairment, elevated creatinine, hypophosphataemia and prox
 
 Ritonavir oral solution contains castor oil polyoxyl which may cause stomach upset and diarrhoea.
 Ritonavir oral solution also contains the azo-colouring agent sunset yellow (E110) which may cause allergic reactions.
+
 Ritonavir oral solution contains alcohol (43 % v/v), ie up to 2572.5 mg per maximum dose of 600 mg, equivalent to 81 ml beer (4%), 23 ml wine (14%) per dose.
 Each 100 mg dose contains up to 428.8 mg alcohol and each 200 mg dose contains 857.5 mg alcohol.
 Therefore concomitant administration of Norvir with disulfiram or medicines with disulfiram-like reactions (eg metronidazole) should be avoided.
 Also to be taken into account in pregnant or breast-feeding women, children and high-risk groups such as patients with liver disease or epilepsy.
 
 Particular risk of toxicity in relation to the amount of alcohol and propylene glycol contained in the oral solution of Norvir.
-
 Healthcare professionals should be aware that Norvir oral solution is highly concentrated and contains the excipients alcohol (43.2% v/v) and propylene glycol (26.0% v/v).
 5 ml of Norvir solution (for antiretroviral purposes) contains 1.7 g of alcohol and 1.3 g propylene glycol.
 1 ml of Norvir solution (for pharmacokinetic enhancer purposes) contains 344.0 mg of alcohol and 265.7 mg propylene glycol.
 
 Special attention should be given to accurate calculation of the dose of Norvir, transcription of the medication order, dispensing information and dosing instructions to minimize the risk for medication errors and overdose.
 This is especially important for infants and young children.
+
 Total amounts of alcohol and propylene glycol from all medicines that are to be given to infants should be taken into account in order to avoid toxicity from these excipients.
 Infants should be monitored closely for toxicity related to Norvir oral solution including: hyperosmolality, with or without lactic acidosis, renal toxicity, central nervous system (CNS) depression (including stupor, coma, and apnea), seizures, hypotonia, cardiac arrhythmias and ECG changes, and hemolysis.
 Postmarketing life-threatening cases of cardiac toxicity (including complete atrioventricular (AV) block, bradycardia, and cardiomyopathy), lactic acidosis, acute renal failure, CNS depression and respiratory complications leading to death have been reported, predominantly in preterm neonates receiving ritonavir oral solution (see sections 4.3 and 4.9).
@@ -89,8 +93,9 @@ The following Warnings and Precautions should be considered when ritonavir is us
 When ritonavir is used as a pharmacokinetic enhancer at the 100 mg and 200 mg level it cannot be assumed that the following warnings and precautions will also apply.
 When ritonavir is used as a pharmacokinetic enhancer, full details on the warnings and precautions relevant to that particular PI must be considered, therefore the Summary of Product Characteristics, section 4.4, for the particular PI must be consulted to determine if the information below is applicable.
 
-PDE5 inhibitors: Particular caution should be used when prescribing sildenafil, tadalafil or vardenafil for the treatment of erectile dysfunction in patients receiving ritonavir.
+PDE5 inhibitors: Particular caution should be used when prescribing sildenafil or tadalafil for the treatment of erectile dysfunction in patients receiving ritonavir.
 Co-administration of ritonavir with these medicinal products is expected to substantially increase their concentrations and may result in associated adverse reactions such as hypotension and prolonged erection (see section 4.5).
+Concomitant use of avanafil or vardenafil with ritonavir is contraindicated.
 Concomitant use of sildenafil with ritonavir is contraindicated in pulmonary arterial hypertension patients (see section 4.3).
 
 HMG-CoA reductase inhibitors: The HMG-CoA reductase inhibitors simvastatin and lovastatin are highly dependent on CYP3A for metabolism, thus concomitant use of ritonavir with simvastatin or lovastatin is not recommended due to an increased risk of myopathy including rhabdomyolysis.
@@ -122,6 +127,7 @@ Rivaroxaban: It is not recommended to use ritonavir in patients receiving rivaro
 Ritonavir dosed as a pharmacokinetic enhancer
 
 The interaction profiles of HIV-protease inhibitors, co-administered with low dose ritonavir, are dependant on the specific co-administered protease inhibitor.
+
 For a description of the mechanisms and potential mechanisms contributing to the interaction profile of the PIs, see section 4.5.
 Please also review the Summary of Product Characteristics for the particular boosted PI.
 
@@ -130,7 +136,6 @@ Higher doses of ritonavir have been shown to be associated with an increased inc
 Co-administration of saquinavir and ritonavir has led to severe adverse reactions, mainly diabetic ketoacidosis and liver disorders, especially in patients with pre-existing liver disease.
 
 Saquinavir/ritonavir should not be given together with rifampicin, due to the risk of severe hepatotoxicity (presenting as increased hepatic transaminases) if the three medicines are given together (see section 4.5).
-
 Tipranavir: co-administered with 200 mg of ritonavir has been associated with reports of clinical hepatitis and hepatic decompensation including some fatalities.
 Extra vigilance is warranted in patients with chronic hepatitis B or hepatitis C co-infection, as these patients have an increased risk of hepatotoxicity.
 

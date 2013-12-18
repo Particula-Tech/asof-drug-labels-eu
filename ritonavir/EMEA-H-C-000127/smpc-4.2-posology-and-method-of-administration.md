@@ -10,17 +10,18 @@ When ritonavir is used as a pharmacokinetic enhancer with other protease inhibit
 The following HIV-1 protease inhibitors have been approved for use with ritonavir as a pharmacokinetic enhancer at the noted doses.
 
 Adult use:
-Amprenavir 600 mg twice daily with ritonavir 100 mg twice daily
-Atazanavir 300 mg once daily with ritonavir 100 mg once daily
-Fosamprenavir 700 mg twice daily with ritonavir 100 mg twice daily
+Amprenavir 600 mg twice daily with ritonavir 100 mg twice daily.
+Atazanavir 300 mg once daily with ritonavir 100 mg once daily.
+Fosamprenavir 700 mg twice daily with ritonavir 100 mg twice daily.
 Lopinavir co-formulated with ritonavir (lopinavir/ritonavir) 400 mg/100 mg or 800 mg/200mg.
 Saquinavir 1000 mg twice daily with ritonavir 100 mg twice daily in ART experienced patients.
 Initiate treatment with saquinavir 500 mg twice daily with ritonavir 100 mg twice daily for the first 7 days, then saquinavir 1000 mg twice daily with ritonavir 100 mg twice daily in ART-naïve patients.
-Tipranavir 500 mg twice daily with ritonavir 200 mg twice daily (tipranavir with ritonavir should not be used in treatment-naïve patients).
+Tipranavir 500 mg twice daily with ritonavir 200 mg twice daily.
+Tipranavir with ritonavir should not be used in treatment-naïve patients).
 Darunavir 600 mg twice daily with ritonavir 100 mg twice daily in antiretroviral treatment (ART) experienced patients.
 Darunavir 800 mg once daily with ritonavir 100 mg once daily may be used in some ART experienced patients.
 Refer to the darunavir SmPC for further information on once daily dosing in ART experienced patients.
-Darunavir 800mg once daily with ritonavir 100 mg once daily in ART-naïve patients
+Darunavir 800 mg once daily with ritonavir 100 mg once daily in ART-naïve patients.
 
 Paediatric use: Ritonavir is recommended for children 2 years of age and older.
 For further dosage recommendations, refer to the product information of other Protease Inhibitors approved for co-administration with ritonavir.
@@ -59,6 +60,7 @@ Paediatric Dosage Guidelines
 
 * Body surface area can be calculated with the following equation
 BSA (m²) = √(Height (cm) X Weight (kg) / 3600)
+
 Doses for intermediate body surface areas not included in the above table can be calculated using the following equations:
 To calculate the volume to be administered (in ml) the body surface area should be multiplied by a factor of: 3.1 for a dose of 250 mg/m²; 3.8 for one of 300 mg/m²; and by 4.4 for 350 mg/m².
 
@@ -73,7 +75,7 @@ Hepatic impairment: Ritonavir is principally metabolised and eliminated by the l
 Pharmacokinetic data indicate that no dose adjustment is necessary in patients with mild to moderate hepatic impairment (see section 5.2).
 Ritonavir should not be given to patients with severe hepatic impairment (see section 4.3).
 
-Elderly: Pharmacokinetic data indicated that no dose adjustment is necessary for elderly patients (see section 5.2).
+Older people: Pharmacokinetic data indicated that no dose adjustment is necessary for older patients (see section 5.2).
 
 The bitter taste of Norvir solution may be lessened if mixed with chocolate milk.
 
@@ -81,9 +83,8 @@ The bitter taste of Norvir solution may be lessened if mixed with chocolate milk
 
 Ritonavir soft capsules are administered orally and should preferably be ingested with food.
 
-Lopinavir co-formulated with ritonavir(lopinavir/ritonavir) 400 mg/100 mg or 800 mg/200 mg Saquinavir 1000 mg twice daily with ritonavir 100 mg twice daily in ART experienced patients.
-Tipranavir 500 mg twice daily with ritonavir 200 mg twice daily.
-(tipranavir with ritonavir should not be used in treatment-naïve patients).
+Lopinavir co-formulated with ritonavir(lopinavir/ritonavir) 400 mg/100 mg or 800 mg/200 mg.
+Tipranavir with ritonavir should not be used in treatment-naïve patients.
 
 Adult use: The recommended dosage of Norvir soft capsules is 600 mg (6 capsules) twice daily by mouth.
 
@@ -109,7 +110,9 @@ Ritonavir film-coated tablets are administered orally and should be ingested wit
 
 Norvir film-coated tablets should be swallowed whole and not chewed, broken or crushed.
 
-Lopinavir co-formulated with ritonavir (lopinavir/ritonavir) 400 mg/100 mg or 800 mg/200 mg Saquinavir 1000 mg twice daily with ritonavir 100 mg twice daily in ART experienced patients.
+Lopinavir co-formulated with ritonavir (lopinavir/ritonavir) 400 mg/100 mg or 800 mg/200 mg.
+Darunavir 600 mg twice daily with ritonavir 100 mg twice daily in antiretroviral treatment.
+(ART) experienced patients.
 
 Hepatic impairment: Ritonavir should not be given as a pharmacokinetic enhancer to patients with decompensated liver disease, (see section 4.3).
 

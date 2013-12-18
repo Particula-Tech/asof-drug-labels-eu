@@ -2,7 +2,7 @@
 
 Each ml of oral solution contains 80 mg of ritonavir.
 
-Excipients:
+Excipients with known effect:
 Alcohol (43,2 % v/v)
 Propylene glycol (26.0% v/v)
 Polyoxyl 35 Castor Oil
@@ -14,7 +14,7 @@ For a full list of excipients, see section 6.1.
 
 Each soft capsule contains 100 mg ritonavir.
 
-Excipients (per soft capsule):
+Excipients with known effect (per soft capsule):
 Alcohol (12%w/w)
 Castor Oil Polyoxyl 35
 
