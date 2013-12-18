@@ -52,7 +52,7 @@ Relative % predicted (1.1, 7.5) 0.008 (0.2, 9.8) 0.040
 
 In rhDNase users in study 301 the relative change in FEV1 % predicted from baseline across 26 weeks of treatment was 2.83 (95% CI -0.62, 6.27).
 For non-users the relative change was 4.30 (95% CI 0.53, 8.07).
-In study 302 the relative change (95% CI) for rhDNase users and non-users was 3.21 (-0.61, 7.03) and 4.73 (-1.93, 11.40), respectively.
+In study 302 the relative change (95% CI) for rhDNase users and non-users was 3.21 (- 0.61, 7.03) and 4.73 (-1.93, 11.40), respectively.
 
 The number of subjects with at least one protocol defined pulmonary exacerbation (PDPE, defined by the presence of at least 4 symptoms and signs plus the use of intravenous antibiotics) was 18.1% in the mannitol arm and 28% in the control arm in study 301 (ITT population).
 In study 302 15.2% subjects in the mannitol arm and 19% in the control had a PDPE.
