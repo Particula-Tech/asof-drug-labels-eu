@@ -76,12 +76,14 @@ This effect may be expected to be more pronounced for orally administered methyl
 Chemotherapeutic medicinal products
 In pharmacokinetic studies, EMEND, when given as a regimen of 125 mg on Day 1 and 80 mg/day on Days 2 and 3, did not influence the pharmacokinetics of docetaxel administered intravenously on
 Day 1 or vinorelbine administered intravenously on Day 1 or Day 8.
-Because the effect of EMEND on the pharmacokinetics of orally administered CYP3A4 substrates is greater than the effect of EMEND on the pharmacokinetics of intravenously administered CYP3A4 substrates, an interaction with orally administered chemotherapeutic medicinal products metabolised primarily or in part by CYP3A4 (e.g. etoposide, vinorelbine) cannot be excluded.
-Caution is advised and additional monitoring may be appropriate in patients receiving such medicinal products orally (see section 4.4).
+Because the effect of EMEND on the pharmacokinetics of orally administered CYP3A4 substrates is greater than the effect of EMEND on the pharmacokinetics of intravenously administered CYP3A4 substrates, an interaction with orally administered chemotherapeutic medicinal products metabolised primarily or partly by CYP3A4 (e.g. etoposide, vinorelbine) cannot be excluded.
+Caution is advised and additional monitoring may be appropriate in patients receiving medicinal products metabolized primarily or partly by CYP3A4 (see section 4.4).
+Post-marketing events of neurotoxicity, a potential adverse reaction of ifosfamide, have been reported after aprepitant and ifosfamide coadministration.
 
 Immunosuppressants
 During the 3-day CINV regimen, a transient moderate increase followed by a mild decrease in exposure of immunosuppressants metabolised by CYP3A4 (e.g. cyclosporine, tacrolimus, everolimus and sirolimus) is expected.
 Given the short duration of the 3-day regimen and the time-dependent limited changes in exposure, dose reduction of the immunosuppressant is not recommended during the 3 days of co-administration with EMEND.
+
 The potential effects of increased plasma concentrations of midazolam or other benzodiazepines metabolised via CYP3A4 (alprazolam, triazolam) should be considered when co-administering these medicinal products with EMEND (125 mg/80 mg).
 
 EMEND increased the AUC of midazolam, a sensitive CYP3A4 substrate, 2.3-fold on Day 1 and 3.3-fold on Day 5, when a single oral dose of 2 mg midazolam was co-administered on Days 1 and 5 of a regimen of EMEND 125 mg on Day 1 and 80 mg/day on Days 2 to 5.

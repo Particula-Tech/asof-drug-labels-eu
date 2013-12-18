@@ -9,9 +9,9 @@ The mean peak plasma concentration (Cmax) of aprepitant occurred at approximatel
 
 Following oral administration of a single 40 mg dose of EMEND in the fasted state, the AUC0-∞ (mean ± SD) was 8.0 ± 2.1 µg • h/ml and the Cmax was 0.7 ± 0.24 µg/ml.
 The median tmax was 3.0 hours.
-
 Concomitant intake of a 40 mg dose with a standard breakfast decreased the aprepitant Cmax by 18 % but did not affect AUC.
 This is not considered to be clinically important.
+
 Distribution
 Aprepitant is highly protein bound, with a mean of 97 %.
 The geometric mean apparent volume of distribution at steady state (Vdss) is approximately 66 l in humans.
@@ -32,7 +32,7 @@ The plasma clearance of aprepitant is dose-dependent, decreasing with increased 
 The terminal half-life is approximately 9 hours after administration of a single 40 mg dose.
 
 Pharmacokinetics in special populations
-Elderly: Following oral administration of a single 125 mg dose of aprepitant on Day 1 and 80 mg once daily on Days 2 through 5, the AUC0-24hr of aprepitant was 21 % higher on Day 1 and 36 % higher on Day 5 in elderly (≥ 65 years) relative to younger adults.
+Older people: Following oral administration of a single 125 mg dose of aprepitant on Day 1 and 80 mg once daily on Days 2 through 5, the AUC0-24hr of aprepitant was 21 % higher on Day 1 and 36 % higher on Day 5 in elderly (≥ 65 years) relative to younger adults.
 The Cmax was 10 % higher on Day 1 and 24 % higher on Day 5 in elderly relative to younger adults.
 These differences are not considered clinically meaningful.
 No dose adjustment for EMEND is necessary in elderly patients.
@@ -53,6 +53,7 @@ In patients with severe renal impairment, the AUC0-∞ of total aprepitant (unbo
 In patients with ESRD undergoing haemodialysis, the AUC0-∞ of total aprepitant decreased by 42 % and Cmax decreased by 32 %.
 Due to modest decreases in protein binding of aprepitant in patients with renal disease, the AUC of pharmacologically active unbound aprepitant was not significantly affected in patients with renal impairment compared with healthy subjects.
 Haemodialysis conducted 4 or 48 hours after dosing had no significant effect on the pharmacokinetics of aprepitant; less than 0.2 % of the dose was recovered in the dialysate.
+
 No dose adjustment for EMEND is necessary for patients with renal impairment or for patients with ESRD undergoing haemodialysis.
 
 Relationship between concentration and effect
@@ -75,7 +76,7 @@ Following a single intravenously administered 100 mg dose of [14C]-fosaprepitant
 
 The terminal half-life ranged from approximately 9 to 13 hours.
 
-Elderly: Following oral administration of a single 125 mg dose of aprepitant on Day 1 and 80 mg once daily on Days 2 through 5, the AUC0-24hr of aprepitant was 21 % higher on Day 1 and 36 % higher on Day 5 in elderly (≥65 years) relative to younger adults.
+Older people: Following oral administration of a single 125 mg dose of aprepitant on Day 1 and 80 mg once daily on Days 2 through 5, the AUC0-24hr of aprepitant was 21 % higher on Day 1 and 36 % higher on Day 5 in elderly (≥65 years) relative to younger adults.
 
 [EMEND 125 mg hard capsules]
 

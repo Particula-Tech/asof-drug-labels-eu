@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antiemetics and antinauseants, ATC code: A04AD12
+
 Aprepitant is a selective high-affinity antagonist at human substance P neurokinin 1 (NK1) receptors.
 
 In 2 multicenter, randomized, double-blind, active comparator-controlled, parallel-group phase III clinical studies, aprepitant was compared with ondansetron for the prevention of PONV in 1,658 patients undergoing open abdominal surgery.
@@ -132,7 +133,7 @@ In a second multicenter, randomised, double-blind, parallel-group, clinical stud
 Patients receiving the aprepitant regimen were receiving chemotherapy for a variety of tumour types including 52 % with breast cancer, 21 % with gastrointestinal cancers including colorectal cancer, 13 % with lung cancer and 6 % with gynecological cancers.
 The aprepitant regimen in combination with an ondansetron/dexamethasone regimen (see section 4.2) was compared with standard therapy (placebo in combination with ondansetron 8 mg orally (twice on Day 1, and every 12 hours on Days 2 and 3) plus dexamethasone 20 mg orally on Day 1).
 
-Efficacy was based on the evaluation of the following primary and key secondary endpoints: No vomiting in the overall period (0 to 120 hours post-chemotherapy), evaluation of safety and tolerability of the aprepitant regimen for CINV, and complete response (defined as no vomiting and no use of rescue therapy) in the overall period (0 to 120 hours post-chemotherapy).
+Efficacy was based on the evaluation of the following primary and key secondary endpoints: No vomiting in the overall period (0 to 120 hours post-chemotherapy), evaluation of safety and tolerability of the aprepitant regimen for chemotherapy induced nausea and vomiting (CINV), and complete response (defined as no vomiting and no use of rescue therapy) in the overall period (0 to 120 hours post-chemotherapy).
 Additionally, no significant nausea in the overall period (0 to 120 hours post-chemotherapy) was evaluated as an exploratory endpoint, and in the acute and delayed phases as a post-hoc analysis.
 
 A summary of the key study results is shown in Table 3.

@@ -6,7 +6,7 @@ Clinical treatment guidelines should be considered as regards the need for proph
 The recommended oral dose of EMEND is a single 40 mg dose within 3 hours prior to induction of anaesthesia.
 
 Special populations
-Elderly (≥ 65 years)
+Older people (≥ 65 years)
 No dose adjustment is necessary for the elderly (see section 5.2).
 
 Gender
@@ -60,7 +60,7 @@ Please refer to the Summary of Product Characteristics of co-administered 5-HT3 
 
 [EMEND 125 mg hard capsules]
 
-Elderly (≥65 years)
+(all sentences already above)
 
 [EMEND 165 mg hard capsules]
 

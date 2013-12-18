@@ -31,6 +31,11 @@ Description of selected adverse reactions
 Additional adverse reactions were observed in patients treated with the aprepitant (125 mg/80 mg) regimen for chemotherapy induced nausea and vomiting (CINV) and at a greater incidence than with standard therapy: abdominal distension, abdominal pain, acne, anaemia, anxiety, AST increased, asthaenia, blood alkaline phosphatase increased, blood sodium decreased, candidiasis, cardiovascular disorder, chest discomfort, cognitive disorder, conjunctivitis, cough, decreased appetite, disorientation, dizziness, duodenal ulcer perforation, dysgeusia, dyspepsia, dysuria, eructation, euphoric mood, faeces hard, fatigue, febrile neutropenia, flatulence, gait disturbance, gastroesophageal reflux disease, glucose urine present, hiccups, hot flush, hyperhidrosis, lethargy, malaise, muscle spasms, muscular weakness, nausea*, neutropenic colitis, neutrophil count decreased, oedema, oropharyngeal pain, palpitations, photosensitivity reaction, pollakiuria, polydipsia, postnasal drip, rash pruritic, red blood cells urine positive, seborrhoea, skin lesion, sneezing, somnolence, staphylococcal infection, stomatitis, throat irritation, tinnitus, urine output increased, vomiting*, weight decreased.
 *Nausea and vomiting were efficacy parameters in the first 5 days of post-chemotherapy treatment and were reported as reactions only thereafter.
 
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
 [EMEND 80 mg hard capsules]
 
 The most common adverse reactions reported at a greater incidence in patients treated with the aprepitant regimen than with standard therapy in patients receiving Highly Emetogenic Chemotherapy (HEC) were: hiccups (4.6 % versus 2.9 %), alanine aminotransferase (ALT) increased (2.8 % versus 1.1 %), dyspepsia (2.6 % versus 2.0 %), constipation (2.4 % versus 2.0 %), headache (2.0 % versus 1.8 %), and decreased appetite (2.0 % versus 0.5 %).
