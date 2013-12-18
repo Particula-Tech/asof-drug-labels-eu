@@ -12,6 +12,7 @@ In animals, tacrolimus ointment suppressed inflammatory reactions in experimenta
 Tacrolimus ointment did not reduce skin thickness and did not cause skin atrophy in animals.
 In patients with atopic dermatitis, improvement of skin lesions during treatment with tacrolimus ointment was associated with reduced Fc receptor expression on Langerhans cells and a reduction of their hyperstimulatory activity towards T cells.
 Tacrolimus ointment does not affect collagen synthesis in humans.
+
 Clinical efficacy and safety
 The efficacy and safety of Protopic was assessed in more than 18,500 patients treated with tacrolimus ointment in Phase I to Phase III clinical trials.
 Data from six major trials are presented here.
@@ -51,6 +52,7 @@ Table 2 Efficacy at week 3
 The incidence of local skin burning was higher in the tacrolimus treatment groups than in the hydrocortisone group.
 Pruritus decreased over time in the tacrolimus groups but not in the hydrocortisone group.
 There were no clinically relevant changes in the laboratory values or vital signs in either treatment group throughout the clinical trial.
+
 The purpose of the third multicentre, double-blind, randomised study was the assessment of efficacy and safety of 0.03% tacrolimus ointment applied once or twice a day relative to twice daily administration of 1% hydrocortisone acetate ointment in children with moderate to severe atopic dermatitis.
 Treatment duration was for up to three weeks.
 
@@ -85,6 +87,7 @@ The primary endpoint in both studies was the number of disease exacerbations req
 Both studies showed significant benefit with twice weekly treatment with tacrolimus ointment with regard to the primary and key secondary endpoints over a period of 12 months in a pooled population of patients with mild to severe atopic dermatitis.
 In a subanalysis of a pooled population of patients with moderate to severe atopic dermatitis these differences remained statistically significant (Table 4).
 No adverse events not reported previously were observed in these studies.
+
 Table 4 Efficacy (moderate to severe subpopulation)
 
 |  | Adults, ≥ 16 years |  | Children, 2-15 years |  |
@@ -112,18 +115,8 @@ The primary response to vaccination was not affected.
 
 Topical corticosteroid Tacrolimus 0.1%
 regimen§ (N=487)
-(N=485)
 
-| Response rate of ≥ 60% improvement in mEASI (Primary Endpoint)§§ | 50.8% | 71.6% |
+|  | (N=485) |  |
 | --- | --- | --- |
+| Response rate of ≥ 60% improvement in mEASI (Primary Endpoint)§§ | 50.8% | 71.6% |
 | Improvement ≥ 90% in Physician’s Global Evaluation | 28.5% | 47.7% |
-
-|  | Adults, ≥ 16 years |  | Children, 2-15 years |  |
-| --- | --- | --- | --- | --- |
-|  | Tacrolimus 0.1% Twice weekly (N=80) | Vehicle Twice weekly (N=73) | Tacrolimus 0.03% Twice weekly (N=78) | Vehicle Twice weekly (N=75) |
-| Median number of DEs requiring substantial intervention adjusted for time at risk (% of patients without DE requiring substantial intervention) | 1.0 (48.8%) | 5.3 (17.8%) | 1.0 (46.2%) | 2.9 (21.3%) |
-| Median time to first DE requiring substantial intervention | 142 days | 15 days | 217 days | 36 days |
-| Median number of DEs adjusted for time at risk | 1.0 (42.5%) | 6.8 (12.3%) | 1.5 (41.0%) | 3.5 (14.7%) |
-| (% of patients without any DE periods) |  |  |  |  |
-| Median time to first DE | 123 days | 14 days | 146 days | 17 days |
-| Mean (SD) percentage of days of DE exacerbation treatment | 16.1 (23.6) | 39.0 (27.8) | 16.9 (22.1) | 29.9 (26.8) |

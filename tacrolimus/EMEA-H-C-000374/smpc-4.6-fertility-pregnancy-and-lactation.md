@@ -9,6 +9,7 @@ Studies in animals have shown reproductive toxicity following systemic administr
 The potential risk for humans is unknown.
 
 Protopic ointment should not be used during pregnancy unless clearly necessary.
-Breastfeeding
+
+Breast-feeding
 Human data demonstrate that, after systemic administration, tacrolimus is excreted into breast milk.
 Although clinical data have shown that systemic exposure from application of tacrolimus ointment is low, breast-feeding during treatment with Protopic ointment is not recommended.

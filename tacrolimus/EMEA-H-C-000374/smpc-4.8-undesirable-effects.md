@@ -18,12 +18,8 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Metabolism and nutrition disorders |  | Alcohol intolerance (facial flushing or skin irritation after consumption of an alcoholic beverage) |  |  |
 | Nervous system disorders |  | Paraesthesias and dysaesthesias (hyperaesthesia, burning sensation) |  |  |
 | Skin and subcutaneous tissue disorders |  | Pruritus | Acne* | Rosacea* |
-| General disorders and | Application site burning, | Application site warmth, Application site erythema, |  | Application site oedema* |
+| General disorders and administration site conditions | Application site burning, Application site pruritus | Application site warmth, Application site erythema, Application site pain, Application site irritation, Application site paraesthesia, |  | Application site oedema* |
 
-administration Application site Application site pain,
-site conditions pruritus Application site irritation,
-Application site
-paraesthesia,
 Application site rash
 Investigations Drug level
 increased*
@@ -40,6 +36,11 @@ In a study of maintenance treatment (twice weekly treatment) in adults and child
 
 Paediatric population
 Frequency, type and severity of adverse reactions in children are similar to those reported in adults.
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 [Protopic 0.1% ointment]
 

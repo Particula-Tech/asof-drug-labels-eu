@@ -21,8 +21,8 @@ An attempt should be made to reduce the frequency of application or to use the l
 Generally, improvement is seen within one week of starting treatment.
 If no signs of improvement are seen after two weeks of treatment, further treatment options should be considered.
 
-Elderly patients
-Specific studies have not been conducted in elderly patients.
+Older people
+Specific studies have not been conducted in older people.
 However, the clinical experience available in this patient population has not shown the necessity for any dosage adjustment.
 
 Paediatric population
@@ -44,8 +44,8 @@ After 12 months treatment, a review of the patient`s condition should be conduct
 
 If signs of a flare reoccur, twice daily treatment should be re-initiated (see flare treatment section above).
 
-Elderly patients
-Specific studies have not been conducted in elderly patients (see flare treatment section above).
+Older people
+Specific studies have not been conducted in older people (see flare treatment section above).
 
 Paediatric population
 Children (2 years of age and above) should use the lower strength Protopic 0.03% ointment.

@@ -30,11 +30,11 @@ In case of persistent lymphadenopathy, the aetiology of the lymphadenopathy shou
 In the absence of a clear aetiology for the lymphadenopathy or in the presence of acute infectious mononucleosis, discontinuation of Protopic should be considered.
 
 The effect of treatment with Protopic ointment on the developing immune system of children aged below 2 years has not been established (see section 4.1).
+
 Protopic ointment has not been evaluated for its efficacy and safety in the treatment of clinically infected atopic dermatitis.
 Before commencing treatment with Protopic ointment, clinical infections at treatment sites should be cleared.
 Patients with atopic dermatitis are predisposed to superficial skin infections.
-Treatment with Protopic may be associated with an increased risk of folliculitis and herpes viral infections (herpes simplex dermatitis [eczema herpeticum], herpes simplex [cold sores],
-Kaposi’s varicelliform eruption) (see section 4.8).
+Treatment with Protopic may be associated with an increased risk of folliculitis and herpes viral infections (herpes simplex dermatitis [eczema herpeticum], herpes simplex [cold sores], Kaposi’s varicelliform eruption) (see section 4.8).
 In the presence of these infections, the balance of risks and benefits associated with Protopic use should be evaluated.
 
 Emollients should not be applied to the same area within 2 hours of applying Protopic ointment.
