@@ -15,12 +15,11 @@ Very low density lipoprotein (VLDL), low density lipoprotein (LDL), and high den
 No interaction studies were conducted on competitive protein binding.
 The role of sex hormone-binding globulin (SHBG) has not been determined.
 
-Metabolism
+Biotransformation
 The metabolism of fulvestrant has not been fully evaluated, but involves combinations of a number of possible biotransformation pathways analogous to those of endogenous steroids.
 Identified metabolites (includes 17-ketone, sulphone, 3-sulphate, 3- and 17-glucuronide metabolites) are either less active or exhibit similar activity to fulvestrant in anti-estrogen models.
 Studies using human liver preparations and recombinant human enzymes indicate that CYP3A4 is the only P450 isoenzyme involved in the oxidation of fulvestrant; however, non-P450 routes appear to be more predominant in vivo.
 In vitro data suggest that fulvestrant does not inhibit CYP450 isoenzymes.
-
 Elimination
 Fulvestrant is eliminated mainly in metabolised form.
 The major route of excretion is via the faeces, with less than 1% being excreted in the urine.
