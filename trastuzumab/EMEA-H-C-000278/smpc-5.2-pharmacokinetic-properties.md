@@ -3,7 +3,7 @@
 The pharmacokinetics of trastuzumab have been studied in patients with metastatic breast cancer, early breast cancer and advanced gastric cancer patients.
 Formal drug-drug interaction studies have not been performed with Herceptin.
 
-Breast Cancer
+Breast cancer
 
 Short duration intravenous infusions of 10, 50, 100, 250, and 500 mg trastuzumab once weekly in patients demonstrated non-linear pharmacokinetics where clearance decreased with increasing dose.
 
@@ -11,9 +11,10 @@ Half-life
 The elimination half-life is of 28-38 days and subsequently the washout period is up to 27 weeks (190 days or 5 elimination half-lives).
 
 Steady State pharmacokinetics
-Steady state should be reached by approximately 25 weeks.
+Steady state should be reached by approximately 27 weeks.
 In a population pharmacokinetic (two compartment, model-dependent) assessment of Phase I, II and III clinical trials in metastatic breast cancer, the median predicted AUC at steady state over a three-week period was three times 578 mg•day/l (1677 mg•day/l) with 3 weekly doses of 2 mg/kg and 1793 mg day/l with one every three week dose of 6 mg/kg; the estimated median peak concentrations were 104 mg/l and 189 mg/l and the trough concentrations were 64.9 mg/l and 47.3 mg/l, respectively.
-In patients with early breast cancer administered Herceptin at a loading dose of 8 mg/kg followed every three weeks by 6 mg/kg, using model-independent or non-compartmental analyses (NCA) the mean steady state trough concentration measured at cycle 13 (week 37) was 63 mg/l, which was comparable to that reported previously in patients with metastatic breast cancer receiving the weekly regimen.
+Early breast cancer patients administered an initial loading dose of 8 mg/kg followed by a three weekly maintenance dose of 6 mg/kg for 1 year, , achieved steady state mean Cmax of 225 µg/mL and mean Cmin of 68.9 µg/mL at day 21 of cycle 18, the last cycle of treatment for 1 year of treatment.
+These concentrations were comparable to those reported previously in patients with metastatic breast cancer
 Clearance (CL)
 The typical trastuzumab clearance (for a body weight of 68 kg) was 0.241 l/day.
 
@@ -25,10 +26,9 @@ In all clinical studies, the volume of distribution of the central (Vc) and the 
 
 Circulating shed antigen
 Detectable concentrations of the circulating extracellular domain of the HER2 receptor (shed antigen) are found in the serum of some patients with HER2 overexpressing breast cancers.
-Determination of shed antigen in baseline serum samples revealed that 64 % (286/447) of patients had detectable shed antigen, which ranged as high as 1880 ng/ml (median = 11 ng/ml).
+Determination of shed antigen in baseline serum samples revealed that 64 % (286/447) of patients had detectable shed antigen, which ranged as high as 1880 ng/mL (median = 11 ng/mL).
 Patients with higher baseline shed antigen levels were more likely to have lower serum trough concentrations of trastuzumab.
 However, with weekly dosing, most patients with elevated shed antigen levels achieved target serum concentrations of trastuzumab by week 6 and no significant relationship has been observed between baseline shed antigen and clinical response.
-
 Advanced Gastric Cancer
 
 Steady state pharmacokinetics
@@ -47,7 +47,6 @@ Herceptin has been studied thoroughly following intravenous administration in th
 The intravenous doses used most frequently are 8 mg/kg loading dose on day 1 followed by maintenance doses of 6 mg/kg every 3 weeks.
 These doses were chosen to maintain a steady state trough concentration necessary for complete saturation of the Her2 ligand.
 Intravenous pharmacokinetics have been well-characterized in all studies performed and the results have been further analysed using the population pharmacokinetics approach.
-Steady state should be reached by approximately 27 weeks.
 In a population pharmacokinetic (two compartment, model-dependent) assessment of Phase I, II and III clinical trials in MBC and EBC the estimated value for typical trastuzumab clearance (for a body weight of 68 kg) was 0.241 L/day.
 The volume of distribution of the central (Vc) and peripheral (Vp) compartment was 3.02 L and 2.68 L, respectively, in the typical patient.
 The effects of patient characteristics (such as age or serum creatinine) on the disposition of trastuzumab were studied and data suggest that the disposition of trastuzumab is not altered in any of these groups of patients.
