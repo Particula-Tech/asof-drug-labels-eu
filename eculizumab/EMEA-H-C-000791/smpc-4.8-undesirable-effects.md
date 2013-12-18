@@ -13,7 +13,7 @@ Table 1: Adverse Reactions reported in 239 patients included in PNH and aHUS cli
 
 | MedDRA System Organ Class | Very Common (≥1/10) | Common (≥1/100 to <1/10) | Uncommon (≥1/1,000 to <1/100) |
 | --- | --- | --- | --- |
-| Infection and infestations |  | Meningococcal sepsis, Meningococcal meningitis, Sepsis, Septic shock, Pneumonia, Arthritis bacterial, Upper respiratory tract infection, Nasopharyngitis, Bronchitis, Oral Herpes, Gastrointestinal infection, Urinary tract infection, Cystitis, Viral infection | Neisseria infection, Lower respiratory tract infection, Fungal infection, Haemophilus influenzae infection, Abscess, Cellulitis, Influenza, Gingival infection, Infection, Sinusitis, Tooth infection, Impetigo |
+| Infection and infestations |  | Meningococcal sepsis, Meningococcal meningitis, Sepsis, Septic shock, Pneumonia, Aspergillus infection , Arthritis bacterial, Upper respiratory tract infection, Nasopharyngitis, Bronchitis, Oral Herpes, Gastrointestinal infection, Urinary tract infection, Cystitis, Viral infection | Neisseria infection, Lower respiratory tract infection, Fungal infection, Haemophilus influenzae infection, Abscess, Cellulitis, Influenza, Gingival infection, Infection, Sinusitis, Tooth infection, Impetigo |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  | Malignant melanoma, Myelodysplastic syndrome |
 | Blood and lymphatic system disorders | Leukopenia | Thrombocytopenia, Haemolysis* | Coagulopathy, Red blood cell agglutination, Abnormal clotting factor, Anaemia, Lymphopenia |
 | Immune system disorders |  | Anaphylactic reaction | Hypersensitivity |

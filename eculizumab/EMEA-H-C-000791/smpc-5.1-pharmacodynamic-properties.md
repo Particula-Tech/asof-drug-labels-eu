@@ -10,7 +10,6 @@ Soliris is produced in a murine myeloma (NS0 cell line) expression system and pu
 The bulk drug substance manufacturing process also includes specific viral inactivation and removal steps.
 
 Mechanism of action
-
 Eculizumab, the active ingredient in Soliris, is a terminal complement inhibitor that specifically binds to the complement protein C5 with high affinity, thereby inhibiting its cleavage to C5a and C5b and preventing the generation of the terminal complement complex C5b-9.
 Eculizumab preserves the early components of complement activation that are essential for opsonization of microorganisms and clearance of immune complexes.
 
@@ -49,16 +48,26 @@ Baseline characteristics are shown in Table 2.
 Table 2: Patient Demographics and Characteristics in C04-001 and C04-002
 
 C04-001 C04-002
-Parameter Placebo N = 44 N = 43 Soliris N = 97 Soliris
-C04-001 C04-002
-Parameter Placebo N = 44 N = 43 Soliris N = 97 Soliris
+Placebo Soliris Soliris
+
+Parameter
+
+N = 44 N = 43 N = 97
 Mean Age (SD) 38.4 (13.4) 42.1 (15.5) 41.1 (14.4)
 Gender - Female (%) 29 (65.9) 23 (53.5) 49 (50.5)
 History of Aplastic Anaemia or MDS (%) 12 (27.3) 8 (18.7) 29 (29.9)
 Concomitant Anticoagulants (%) 20 (45.5) 24 (55.8) 59 (61)
-Concomitant Steroids/Immunosuppressant Treatments (%) 16 (36.4) 14 (32.6) 46 (47.4)
+
+Concomitant Steroids/Immunosuppressant
+
+16 (36.4) 14 (32.6) 46 (47.4)
+
+Treatments (%)
+
 Discontinued treatment 10 2 1
-PRBC in previous 12 months (median (Q1,Q3)) 17.0 (13.5, 25.0) 18.0 (12.0, 24.0) 8.0 (4.0, 24.0)
+PRBC in previous 12 months (median 18.0 (12.0,
+17.0 (13.5, 25.0) 8.0 (4.0, 24.0)
+(Q1,Q3)) 24.0)
 Mean Hgb level (g/dL) at setpoint (SD) 7.7 (0.75) 7.8 (0.79) N/A
 Pre-treatment LDH levels (median, U/L) 2,234.5 2,032.0 2,051.0
 Free Haemoglobin at baseline (median, 46.2 40.5 34.9
@@ -156,7 +165,9 @@ Table 5: Efficacy Outcomes in Prospective aHUS Studies C08-002A/B and C08-003A/B
 | Change in platelet count from baseline through week 26 (× 109/L), Point Estimate (95% CI) | 73 (40-105) P=0.0001 | 5 (-17.5-28) P=0.64 |
 | Normalization of platelet count All patients, n (%) (95% CI) Patients with abnormal baseline, n/n (%) | 14 (82) (57-96) 13/15 (87) | 18 (90) (68-99) 3/20 (15) |
 | TMA event-free status, n (%) (95% CI) | 15 (88) (64-99) | 16 (80) (56-94) |
-| TMA intervention rate Daily pre-eculizumab rate, median (min, max) Daily post-eculizumab rate, median (min, max) P-value | 0.88 (0.04, 1.59) 0 (0, 0.31) P<0.0001 | 0.23 (0.05, 1.09) 0 P <0.0001 |
+| TMA intervention rate Daily pre-eculizumab rate, median (min, max) Daily post-eculizumab rate, median (min, max) P-value | 0.88 (0.04, 1.59) | 0.23 (0.05, 1.09) |
+|  | 0 (0, 0.31) | 0 |
+|  | P<0.0001 | P <0.0001 |
 | CKD improvement by ≥1 stage, n (%) (95% CI) | 10 (59) (33-82) | 7 (35) (15-59) |
 | eGFR change mL/min/1.73 m2: median (range) at 26 weeks | 20 (-1, 98) | 5 (-1, 20) |
 | eGFR improvement ≥15 mL/min/1.73 m2, n (%) (95% CI) | 9 (53) (28-77)1 | 1 (5) (0-25) |
