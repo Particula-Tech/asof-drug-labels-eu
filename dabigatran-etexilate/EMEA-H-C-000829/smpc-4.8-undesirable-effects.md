@@ -44,7 +44,7 @@ Table 4 shows the adverse reactions ranked under headings of System Organ Classe
 | Diarrhoea | Uncommon |
 | Nausea | Uncommon |
 | Vomiting | Uncommon |
-| Gastrointestinal ulcer | Rare |
+| Gastrointestinal ulcer, including oesophageal ulcer | Rare |
 | Gastroesophagitis | Rare |
 | Gastroesophageal reflux disease | Rare |
 | Abdominal pain | Rare |
@@ -99,6 +99,11 @@ The definition of the adverse reaction major bleeding in the RE-NOVATE and RE-MO
 
 Objective testing was required for a retroperitoneal bleed (ultrasound or Computer Tomography (CT) scan) and for an intracranial and intraspinal bleed (CT scan or Magnetic Resonance Imaging).
 
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
 [Pradaxa 110 mg hard capsules]
 
 In the pivotal study investigating the prevention of stroke and SEE in patients with atrial fibrillation, a total of 12,042 patients were treated with dabigatran etexilate.
@@ -147,7 +152,7 @@ Table 4 shows the adverse reactions identified from the primary VTE prevention s
 | Nausea | Uncommon | Common |
 | Rectal haemorrhage | Uncommon | Uncommon |
 | Haemorrhoidal haemorrhage | Uncommon | Uncommon |
-| Gastrointestinal ulcer | Rare | Uncommon |
+| Gastrointestinal ulcer, including oesophageal ulcer | Rare | Uncommon |
 | Gastroesophagitis | Rare | Uncommon |
 | Gastroesophageal reflux disease | Rare | Uncommon |
 | Vomiting | Uncommon | Uncommon |
@@ -178,7 +183,8 @@ Table 4 shows the adverse reactions identified from the primary VTE prevention s
 | Wound secretion | Uncommon | - |
 | Surgical and medical procedures |  |  |
 | Wound drainage | Rare | - |
-| Post procedural drainage | Rare | - |
+
+Post procedural drainage Rare -
 
 Prevention of VTE
 
@@ -188,7 +194,7 @@ Prevention of VTE
 | Major bleeding | 24 (1.3) | 33 (1.8) | 27 (1.5) |
 | Any bleeding | 258 (13.8) | 251 (13.8) | 247 (13.4) |
 
-Prevention of stroke and SEE in adult patients with nonvalvular atrial fibrillation with one or more risk factors
+Prevention of stroke and SEE in adult patients with NVAF with one or more risk factors
 
 The table 6 shows bleeding events broken down to major and any bleeding in the pivotal study testing the prevention of thromboembolic stroke and SEE in patients with atrial fibrillation.
 
@@ -260,7 +266,7 @@ Table 4 shows the adverse reactions identified from the prevention of thromboemb
 | Nausea | Common |
 | Rectal haemorrhage | Uncommon |
 | Haemorrhoidal haemorrhage | Uncommon |
-| Gastrointestinal ulcer | Uncommon |
+| Gastrointestinal ulcer, including oesophageal ulcer | Uncommon |
 | Gastroesophagitis | Uncommon |
 | Gastroesophageal reflux disease | Uncommon |
 | Vomiting | Uncommon |

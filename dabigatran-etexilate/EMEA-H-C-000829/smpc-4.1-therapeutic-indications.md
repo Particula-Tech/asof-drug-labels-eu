@@ -4,13 +4,8 @@ Primary prevention of venous thromboembolic events in adult patients who have un
 
 [Pradaxa 110 mg hard capsules]
 
-Prevention of stroke and systemic embolism in adult patients with nonvalvular atrial fibrillation with one or more of the following risk factors:
-
-- Previous stroke, transient ischemic attack, or systemic embolism (SEE)
-- Left ventricular ejection fraction < 40 %
-- Symptomatic heart failure, ≥ New York Heart Association (NYHA) Class 2
-- Age ≥ 75 years
-- Age ≥ 65 years associated with one of the following: diabetes mellitus, coronary artery disease, or hypertension
+Prevention of stroke and systemic embolism in adult patients with non-valvular atrial fibrillation (NVAF), with one or more risk factors, such as prior stroke or transient ischemic attack (TIA); age
+≥ 75 years; heart failure (NYHA Class ≥ II); diabetes mellitus; hypertension.
 
 [Pradaxa 150 mg hard capsules]
 

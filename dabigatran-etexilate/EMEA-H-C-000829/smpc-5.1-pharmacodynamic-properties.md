@@ -34,7 +34,6 @@ In patients treated for prevention of VTEs after hip or knee replacement surgery
 - the 90th percentile of aPTT at trough (20-28 hours after the previous dose) was 51 seconds, which would be 1.3-fold upper limit of normal.
 
 The ECT was not measured in patients treated for prevention of VTEs after hip or knee replacement surgery with 220 mg dabigatran etexilate once daily.
-
 Clinical efficacy and safety
 
 Ethnic origin
@@ -123,10 +122,10 @@ Mechanism of action
 
 Prevention of VTE
 
-Prevention of stroke and SEE in adult patients with nonvalvular atrial fibrillation with one or more risk factors
+Prevention of stroke and SEE in adult patients with NVAF with one or more risk factors
 Steady state geometric mean dabigatran peak plasma concentration, measured around 2 hours after 150 mg dabigatran etexilate administration twice daily, was 175 ng/mL, with a range of 117-275 ng/mL (25th-75th percentile range).
 The dabigatran geometric mean trough concentration, measured at trough in the morning, at the end of the dosing interval (i.e. 12 hours after the 150 mg dabigatran evening dose), was on average 91.0 ng/mL, with a range of 61.0-143 ng/mL
-(25th-75th percentile range).For patients with atrial nonvalvular fibrillation treated for prevention of stroke and SEE with 150 mg dabigatran etexilate twice daily,
+(25th-75th percentile range).For patients with NVAF treated for prevention of stroke and SEE with 150 mg dabigatran etexilate twice daily,
 
 - the 90th percentile of dabigatran plasma concentrations measured at trough (10-16 hours after the previous dose) was about 200 ng/mL,
 - an ECT at trough (10-16 hours after the previous dose), elevated approximately 3-fold upper limit of normal refers to the observed 90th percentile of ECT prolongation of 103 seconds,
@@ -272,6 +271,7 @@ The relative risk of bleeding with dabigatran compared to warfarin increased wit
 Relative risk was highest in patients ≥ 75 years.
 The concomitant use of antiplatelets ASA or clopidogrel approximately doubles MBE rates with both dabigatran etexilate and warfarin.
 There was no significant interaction of treatment effects with the subgroups of renal function and CHADS2 score.
+
 Table 14: Hazard Ratio and 95 % CI for major bleeds by subgroups
 
 | Endpoint | Dabigatran etexilate 110 mg twice daily vs. Warfarin | Dabigatran etexilate 150 mg twice daily vs. Warfarin |
@@ -293,7 +293,7 @@ Table 14: Hazard Ratio and 95 % CI for major bleeds by subgroups
 The dabigatran geometric mean trough concentration, measured at trough in the morning, at the end of the dosing interval (i.e. 12 hours after the 150 mg dabigatran evening dose), was on average 91.0 ng/mL, with a range of 61.0-143 ng/mL (25th–
 75th percentile range).
 
-For patients with atrial nonvalvular fibrillation treated for prevention of stroke and SEE with 150 mg dabigatran etexilate twice daily,
+For patients with NVAF treated for prevention of stroke and SEE with 150 mg dabigatran etexilate twice daily,
 
 For patients randomized to warfarin, the mean percentage within time in therapeutic range (TTR) (INR 2-3) was 64.4 % (median TTR 67 %).
 
@@ -310,6 +310,19 @@ Table 8: Analysis of all cause and cardiovascular survival during the study peri
 Tables 9-10 display results of the primary efficacy and safety endpoint in relevant sub-populations:
 
 Table 9: Hazard Ratio and 95 % CI for stroke/SEE by subgroups
+
+| Endpoint | Dabigatran etexilate 110 mg twice daily vs. warfarin | Dabigatran etexilate 150 mg twice daily vs. warfarin |
+| --- | --- | --- |
+| Age (years) |  |  |
+| < 65 | 1.10 (0.64, 1.87) | 0.51 (0.26, 0.98) |
+| 65 ≤ and < 75 | 0.87 (0.62, 1.20) | 0.68 (0.47, 0.96) |
+| ≥ 75 | 0.88 (0.66, 1.17) | 0.67 (0.49, 0.90) |
+| ≥ 80 | 0.68 (0.44, 1.05) | 0.65 (0.43, 1.00) |
+| CrCL(mL/min) |  |  |
+| 30 ≤ and < 50 | 0.89 (0.61, 1.31) | 0.47 (0.30, 0.74) |
+| 50 ≤ and < 80 | 0.91 (0.68, 1.20) | 0.65 (0.47, 0.88) |
+
+≥ 80 0.83 (0.52, 1.32) 0.71 (0.44, 1.15)
 
 The concomitant use of antiplatelets ASA or clopidogrel approximately doubles MBE rates with both dabigatran and warfarin.
 

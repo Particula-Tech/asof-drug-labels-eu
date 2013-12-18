@@ -107,7 +107,8 @@ No double dose should be taken to make up for missed individual doses.
 
 Method of administration (prevention of VTE)
 
-Pradaxa should be swallowed as a whole with water, with or without food.
+Pradaxa can be takenwith or without food.
+Pradaxa should be swallowed as a whole with a glass of water, to facilitate delivery to the stomach.
 Patients should be instructed not to open the capsule as this may increase the risk of bleeding (see sections 5.2 and 6.6).
 
 [Pradaxa 110 mg hard capsules]
@@ -119,7 +120,7 @@ Patients should be instructed not to open the capsule as this may increase the r
 
 The method used to estimate renal function (CrCL in mL/min) during the clinical development of Pradaxa was the Cockgroft-Gault method.The formula is as follows:
 
-Prevention of stroke and SEE in adult patients with nonvalvular atrial fibrillation with one or more risk factors (SPAF)
+Prevention of stroke and SEE in adult patients with NVAF with one or more risk factors (SPAF)
 
 The recommended daily dose of Pradaxa is 300 mg taken as one 150 mg capsule twice daily.
 Therapy should be continued long term.
@@ -212,7 +213,7 @@ Patients can stay on dabigatran etexilate while being cardioverted.
 
 Paediatric population (SPAF)
 
-There is no relevant use of Pradaxa in the paediatric population in the indication: prevention of stroke and systemic embolism in patients with nonvalvular atrial fibrillation.
+There is no relevant use of Pradaxa in the paediatric population in the indication: prevention of stroke and systemic embolism in patients with NVAF.
 
 Missed dose (SPAF)
 

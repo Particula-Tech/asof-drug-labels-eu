@@ -22,6 +22,7 @@ After switching from 3-day treatment of once daily 40 mg enoxaparin s.c., 24 hou
 A higher anti-FXa/FIIa activity was observed after dabigatran etexilate administration with enoxaparin pre-treatment compared to that after treatment with dabigatran etexilate alone.
 This is considered to be due to the carry-over effect of enoxaparin treatment, and regarded as not clinically relevant.
 Other dabigatran related anti-coagulation tests were not changed significantly by the pre-treatment of enoxaparin.
+
 Interactions linked to dabigatran etexilate and dabigatran metabolic profile
 
 Dabigatran etexilate and dabigatran are not metabolised by the cytochrome P450 system and have no in vitro effects on human cytochrome P450 enzymes.
@@ -60,6 +61,7 @@ Close clinical surveillance is recommended when dabigatran etexilate is combined
 Quinidine: Quinidine was given as 200 mg dose every 2nd hour up to a total dose of 1,000 mg.
 Dabigatran etexilate was given twice daily over 3 consecutive days, on the 3rd day either with or without quinidine.
 Dabigatran AUCτ,ss and Cmax,ss were increased on average by 53 % and 56 %, respectively with concomitant quinidine (see sections 4.2 and 4.4).
+
 Patients treated for prevention of VTEs after hip or knee replacement surgery, dosing should be reduced to 150 mg taken once daily as 2 capsules of 75 mg Pradaxa if they receive concomitantly dabigatran etexilate and quinidine (see section 4.2).
 Close clinical surveillance is recommended when dabigatran etexilate is combined with quinidine and particularly in the occurrence of bleeding, notably in patients having a mild to moderate renal impairment.
 
@@ -91,7 +93,6 @@ Neither clinical nor in vitro test results are available for posaconazole which 
 P-gp inducers
 
 Concomitant administration of a P-gp inducer (such as rifampicin, St. John´s wort (Hypericum perforatum), carbamazepine, or phenytoin) is expected to result in decreased dabigatran concentrations and should be avoided (see sections 4.4 and 5.2).
-
 Rifampicin: Pre-dosing of the probe inducer rifampicin at a dose of 600 mg once daily for 7 days decreased total dabigatran peak and total exposure by 65.5 and 67 %, respectively.
 The inducing effect was diminished resulting in dabigatran exposure close to the reference by day 7 after cessation of rifampicin treatment.
 No further increase in bioavailability was observed after another 7 days.
@@ -131,7 +132,7 @@ With chronic use in the RE-LY study, NSAIDs increased the risk of bleeding by ap
 
 In patients with normal renal function after hip or knee replacement surgery, receiving dabigatran etexilate and verapamil concomitantly, the dose of Pradaxa should be reduced to 150 mg taken once daily as 2 capsules of 75 mg.
 
-For patients with atrial nonvalvular fibrillation treated for prevention of stroke and SEE, concomitantly receiving dabigatran etexilate and verapamil, the dose of Pradaxa should be reduced to 220 mg taken as one 110 mg capsule twice daily (see section 4.2).
+For patients with NVAF treated for prevention of stroke and SEE, concomitantly receiving dabigatran etexilate and verapamil, the dose of Pradaxa should be reduced to 220 mg taken as one 110 mg capsule twice daily (see section 4.2).
 
 [Pradaxa 150 mg hard capsules]
 

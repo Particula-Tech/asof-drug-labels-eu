@@ -4,6 +4,7 @@ After oral administration, dabigatran etexilate is rapidly and completely conver
 The cleavage of the prodrug dabigatran etexilate by esterase-catalysed hydrolysis to the active principle dabigatran is the predominant metabolic reaction.
 The absolute bioavailability of dabigatran following oral administration of Pradaxa was approximately 6.5 %.
 After oral administration of Pradaxa in healthy volunteers, the pharmacokinetic profile of dabigatran in plasma is characterized by a rapid increase in plasma concentrations with Cmax attained within 0.5 and 2.0 hours post administration.
+
 Absorption
 
 A study evaluating post-operative absorption of dabigatran etexilate, 1-3 hours following surgery, demonstrated relatively slow absorption compared with that in healthy volunteers, showing a smooth plasma concentration-time profile without high peak plasma concentrations.
@@ -36,13 +37,13 @@ Dabigatran is subject to conjugation forming pharmacologically active acylglucur
 Four positional isomers, 1-O, 2-O, 3-O, 4-O-acylglucuronide exist, each accounts for less than 10 % of total dabigatran in plasma.
 Traces of other metabolites were only detectable with highly sensitive analytical methods.
 Dabigatran is eliminated primarily in the unchanged form in the urine, at a rate of approximately 100 mL/min corresponding to the glomerular filtration rate.
-
 Special populations
 
 Renal insufficiency
 In phase I studies the exposure (AUC) of dabigatran after the oral administration of Pradaxa is approximately 2.7-fold higher in volunteers with moderate renal insufficiency (CrCL between 30-50 mL/min) than in those without renal insufficiency.
 
 In a small number of volunteers with severe renal insufficiency (CrCL 10-30 mL/min), the exposure (AUC) to dabigatran was approximately 6 times higher and the half-life approximately 2 times longer than that observed in a population without renal insufficiency (see sections 4.2, 4.3 and 4.4).
+
 Table 9: Half-life of total dabigatran in healthy subjects and subjects with impaired renal function.
 
 | glomerular filtration rate (CrCL,) [mL/min] | gMean (gCV%; range) half-life [h] |
@@ -75,7 +76,6 @@ Active substance exposure in the primary VTE prevention studies was about 40 % t
 
 Ethnic origin
 No clinically relevant inter-ethnic differences among Caucasian, African-American, Hispanic, Japanese or Chinese patients were observed regarding dabigatran pharmacokinetics and pharmacodynamics.
-
 Pharmacokinetic interactions
 
 The pro-drug dabigatran etexilate but not dabigatran is a substrate of the efflux transporter P-gp.
