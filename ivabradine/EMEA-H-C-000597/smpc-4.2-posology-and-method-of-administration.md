@@ -21,7 +21,7 @@ Treatment must be discontinued if heart rate remains below 50 bpm or symptoms of
 
 Special population
 
-Elderly patients
+Older people
 In patients aged 75 years or more, a lower starting dose should be considered (2.5 mg twice daily i.e. one half 5 mg tablet twice daily) before up-titration if necessary.
 
 Patients with renal impairment

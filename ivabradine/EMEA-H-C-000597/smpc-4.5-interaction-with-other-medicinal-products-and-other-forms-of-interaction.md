@@ -6,12 +6,13 @@ Concomitant use not recommended
 QT prolonging medicinal products
 - Cardiovascular QT prolonging medicinal products (e.g. quinidine, disopyramide, bepridil, sotalol, ibutilide, amiodarone).
 - Non cardiovascular QT prolonging medicinal products (e.g. pimozide, ziprasidone, sertindole, mefloquine, halofantrine, pentamidine, cisapride, intravenous erythromycin).
-The concomitant use of cardiovascular and non cardiovascular QT prolonging medicinal products with ivabradine should be avoided since QT prolongation may be exacerbated by heart rate reduction.
+The concomitant use of cardiovascular and non c ardiovascular QT prolonging medicinal products with ivabradine should be avoided since QT prolongation may be exacerbated by heart rate reduction.
 If the combination appears necessary, close cardiac monitoring is needed (see section 4.4).
 
 Concomitant use with precaution
 Potassium-depleting diuretics (thiazide diuretics and loop diuretics): hypokalemia can increase the risk of arrhythmia.
 As ivabradine may cause bradycardia, the resulting combination of hypokalemia and bradycardia is a predisposing factor to the onset of severe arrhythmias, especially in patients with long QT syndrome, whether congenital or substance-induced.
+
 Pharmacokinetic interactions
 
 Cytochrome P450 3A4 (CYP3A4)
@@ -22,7 +23,7 @@ Drug-drug interaction studies have established that CYP3A4 inhibitors increase i
 Increased plasma concentrations of ivabradine may be associated with the risk of excessive bradycardia (see section 4.4).
 
 Contra-indication of concomitant use
-The concomitant use of potent CYP3A4 inhibitors such as azole antifungals (ketoconazole, itraconazole), macrolide antibiotics (clarithromycin, erythromycin per os, josamycin, telithromycin), HIV protease inhibitors (nelfinavir, ritonavir) and nefazodone is contra-indicated (see section 4.3).
+The concomitant use of potent CYP3A4 inhibitors such as az ole antifungals (ketoconazole, itraconazole), macrolide antibiotics (clarithromycin, erythromycin per os, josamycin, telithromycin), HIV protease inhibitors (nelfinavir, ritonavir) and nefazodone is contra-indicated (see section 4.3).
 The potent CYP3A4 inhibitors ketoconazole (200 mg once daily) and josamycin (1 g twice daily) increased ivabradine mean plasma exposure by 7 to 8 fold.
 
 Concomitant use not recommended
@@ -39,9 +40,14 @@ The combination of ivabradine 10 mg twice daily with St John’s Wort was shown 
 The intake of St John’s Wort should be restricted during the treatment with ivabradine.
 
 Other concomitant use
-Specific drug-drug interaction studies have shown no clinically significant effect of the following medicinal products on pharmacokinetics and pharmacodynamics of ivabradine: proton pump inhibitors (omeprazole, lansoprazole), sildenafil, HMG CoA reductase inhibitors (simvastatin), dihydropyridine calcium channel blockers (amlodipine, lacidipine), digoxin and warfarin.
+Specific drug-drug interaction studies have shown no c linically significant effect of the following medicinal products on pharmacokinetics and pharmacodynamics of ivabradine: proton pump inhibitors (omeprazole, lansoprazole), sildenafil, HMG CoA reductase inhibitors (simvastatin), dihydropyridine calcium channel blockers (amlodipine, lacidipine), digoxin and warfarin.
 In addition there was no clinically significant effect of ivabradine on the pharmacokinetics of simvastatin, amlodipine, lacidipine, on the pharmacokinetics and pharmacodynamics of digoxin, warfarin and on the pharmacodynamics of aspirin.
 In pivotal phase III clinical trials the following medicinal products were routinely combined with ivabradine with no evidence of safety concerns: angiotensin converting enzyme inhibitors, angiotensin II antagonists, beta-blockers, diuretics, anti-aldosterone agents, short and long acting nitrates, HMG CoA reductase inhibitors, fibrates, proton pump inhibitors, oral antidiabetics, aspirin and other anti-platelet medicinal products.
-
 Paediatric population
 Interaction studies have only been performed in adults.
+
+[Procoralan 7.5 mg film-coated tablets]
+
+The concomitant use of cardiovascular and non cardiovascular QT prolonging medicinal products with ivabradine should be avoided since QT prolongation may be exacerbated by heart rate reduction.
+
+Specific drug-drug interaction studies have shown no c linically significant effect of the following medicinal products on pha rmacokinetics and pharmacodynamics of ivabradine: proton pump inhibitors (omeprazole, lansoprazole), sildenafil, HMG CoA reductase inhibitors (simvastatin), dihydropyridine calcium channel blockers (amlodipine, lacidipine), digoxin and warfarin.

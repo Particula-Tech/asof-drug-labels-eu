@@ -23,18 +23,18 @@ Ivabradine does not influence intracardiac conduction, contractility (no negativ
 - in patients with left ventricular dysfunction (left ventricular ejection fraction (LVEF) between 30 and 45%), ivabradine did not have any deleterious influence on LVEF.
 
 Clinical efficacy and safety
-
 The antianginal and anti-ischaemic efficacy of ivabradine was studied in five double-blind randomised trials (three versus placebo, and one each versus atenolol and amlodipine).
-These trials included a total of 4,111 patients with chronic stable angina pectoris, of whom 2,617 received ivabradine.
+These trials included a total of 4,111 pa tients with chronic stable angina pectoris, of whom 2,617 received ivabradine.
 
 Ivabradine 5 mg twice daily was shown to be effective on exercise test parameters within 3 to 4 weeks of treatment.
 Efficacy was confirmed with 7.5 mg twice daily.
-In particular, the additional benefit over 5 mg twice daily was established in a reference-controlled study versus atenolol: total exercise duration at trough was increased by about 1 minute after one month of treatment with 5 mg twice daily and further improved by almost 25 seconds after an additional 3-month period with forced titration to 7.5 mg twice daily.
-In this study, the antianginal and anti-ischaemic benefits of ivabradine were confirmed in patients aged 65 years or more.
+In particular, the additional benefit over 5 mg twice daily was established in a reference-controlled study versus atenolol: total exercise duration at trough was increased by about 1 minute after one month of treatment with 5 mg twice daily and further improved by almost 25 s econds after an additional 3-month period with forced titration to 7.5 mg twice daily.
+In this study, the antianginal and anti-ischaemic benefits of ivabradine were confirmed in patients aged 65 y ears or more.
 The efficacy of 5 and 7.5 mg twice daily was consistent across studies on exercise test parameters (total exercise duration, time to limiting angina, time to angina onset and time to 1 mm ST segment depression) and was associated with a decrease of about 70% in the rate of angina attacks.
 The twice-daily dosing regimen of ivabradine gave uniform efficacy over 24 hours.
 
 In a 889-patients randomised placebo-controlled study, ivabradine given on top of atenolol 50 mg o.d. showed additional efficacy on all ETT parameters at the trough of drug activity (12 hours after oral intake).
+
 In a 725-patients randomised placebo-controlled study, ivabradine did not show additional efficacy on top of amlodipine at the trough of drug activity (12 hours after oral intake) while an additional efficacy was shown at peak (3-4 hours after oral intake).
 
 Ivabradine efficacy was fully maintained throughout the 3- or 4-month treatment periods in the efficacy trials.
@@ -50,7 +50,7 @@ The antianginal and anti-ischaemic efficacy of ivabradine was preserved in diabe
 A large outcome study, BEAUTIFUL, was performed in 10917 patients with coronary artery disease and left ventricular dysfunction (LVEF<40%) on top of optimal background therapy with 86.9% of patients receiving beta-blockers.
 The main efficacy criterion was the composite of cardiovascular death, hospitalization for acute MI or hospitalization for new onset or worsening heart failure.
 The study showed no difference in the rate of the primary composite outcome in the ivabradine group by comparison to the placebo group (relative risk ivabradine:placebo 1.00, p=0.945).
-In a post-hoc subgroup of patients with symptomatic angina at randomisation (n=1507), no safety signal was identified regarding cardiovascular death, hospitalization for acute MI or heart failure (ivabradine 12.0% versus placebo 15.5%, p=0.05).
+In a post-hoc subgroup of patients with symptomatic angina at randomisation (n=1507), no s afety signal was identified regarding cardiovascular death, hospitalization for acute MI or heart failure (ivabradine 12.0% versus placebo 15.5%, p=0.05).
 
 The SHIFT study was a large multicentre, international, randomised double-blind placebo controlled outcome trial conducted in 6505 adult patients with stable chronic CHF (for ≥ 4 weeks), NYHA class II to IV, with a reduced left ventricular ejection fraction (LVEF ≤ 35%) and a resting heart rate ≥ 70 bpm.
 Patients received standard care including beta-blockers (89 %), ACE inhibitors and/or angiotensin II antagonists (91 %), diuretics (83 %), and anti-aldosterone agents (60 %).
@@ -59,7 +59,7 @@ The median follow-up duration was 22.9 months.
 Treatment with ivabradine was associated with an average reduction in heart rate of 15 bpm from a baseline value of 80 bpm.
 The difference in heart rate between ivabradine and placebo arms was 10.8 bpm at 28 days, 9.1 bpm at 12 months and 8.3 bpm at 24 months.
 
-The study demonstrated a clinically and statistically significant relative risk reduction of 18% in the rate of the primary composite endpoint of cardiovascular mortality and hospitalisation for worsening heart failure (hazard ratio: 0.82, 95%CI [0.75;0.90] – p<0.0001) apparent within 3 months of initiation of treatment.
+The study demonstrated a clinically and statistically significant relative risk reduction of 18% in the rate of the primary composite endpoint of cardiovascular mortality and hospitalisation for worsening heart failure (hazard ratio: 0.82, 95%CI [0.75;0.90] – p<0.0001) apparent within 3 m onths of initiation of treatment.
 The absolute risk reduction was 4.2%.
 The results on the primary endpoint are mainly driven by the heart failure endpoints, hospitalisation for worsening heart failure (absolute risk reduced by 4.7 %) and deaths from heart failure (absolute risk reduced by 1.1 %).
 
@@ -69,12 +69,7 @@ Treatment effect on the primary composite endpoint, its components and secondary
 | --- | --- | --- | --- | --- |
 | Primary composite endpoint | 793 (24.47) | 937 (28.71) | 0.82 [0.75; 0.90] | <0.0001 |
 | Components of the composite: - CV death - Hospitalisation for worsening HF | 449 (13.85) 514 (15.86) | 491 (15.04) 672 (20.59) | 0.91 [0.80; 1.03] 0.74 [0.66; 0.83] | 0.128 <0.0001 |
-
-Other secondary endpoints:
-- All cause death 503 (15.52) 552 (16.91) 0.90 [0.80; 1.02] 0.092
-- Death from HF 113 (3.49) 151 (4.63) 0.74 [0.58;0.94] 0.014
-- Hospitalisation for any cause 1231 (37.98) 1356 (41.54) 0.89 [0.82;0.96] 0.003
-- Hospitalisation for CV reason 977 (30.15) 1122 (34.38) 0.85 [0.78; 0.92] 0.0002
+| Other secondary endpoints: - All cause death - Death from HF - Hospitalisation for any cause - Hospitalisation for CV reason | 503 (15.52) 113 (3.49) 1231 (37.98) 977 (30.15) | 552 (16.91) 151 (4.63) 1356 (41.54) 1122 (34.38) | 0.90 [0.80; 1.02] 0.74 [0.58;0.94] 0.89 [0.82;0.96] 0.85 [0.78; 0.92] | 0.092 0.014 0.003 0.0002 |
 
 The reduction in the primary endpoint was observed consistently irrespective of gender, NYHA class, ischaemic or non-ischaemic heart failure aetiology and of background history of diabetes or hypertension.
 
@@ -92,11 +87,6 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 [Procoralan 7.5 mg film-coated tablets]
 
-The SHIFT study was a large multicentre, international, randomised double-blind placebo controlled outcome trial. conducted in 6505 adult patients with stable chronic CHF (for ≥ 4 weeks), NYHA class II to IV, with a reduced left ventricular ejection fraction (LVEF ≤ 35%) and a resting heart rate ≥ 70 bpm.
+- in clinical electrophysiology studies, ivabradine had no e ffect on a trioventricular or intraventricular conduction times or corrected QT intervals;
 
-|  | Ivabradine (N=3241) n (%) | Placebo (N=3264) n (%) | Hazard ratio [95% CI] | p-value |
-| --- | --- | --- | --- | --- |
-| Primary composite endpoint | 793 (24.47) | 937 (28.71) | 0.82 [0.75; 0.90] | <0.0001 |
-| Components of the composite: - CV death - Hospitalisation for worsening | 449 (13.85) 514 (15.86) | 491 (15.04) 672 (20.59) | 0.91 [0.80; 1.03] 0.74 [0.66; 0.83] | 0.128 <0.0001 |
-| HF |  |  |  |  |
-| Other secondary endpoints: - All cause death - Death from HF - Hospitalisation for any cause - Hospitalisation for CV reason | 503 (15.52) 113 (3.49) 1231 (37.98) 977 (30.15) | 552 (16.91) 151 (4.63) 1356 (41.54) 1122 (34.38) | 0.90 [0.80; 1.02] 0.74 [0.58;0.94] 0.89 [0.82;0.96] 0.85 [0.78; 0.92] | 0.092 0.014 0.003 0.0002 |
+The SHIFT study was a large multicentre, international, randomised double-blind placebo controlled outcome trial. conducted in 6505 adult patients with stable chronic CHF (for ≥ 4 weeks), NYHA class II to IV, with a reduced left ventricular ejection fraction (LVEF ≤ 35%) and a resting heart rate ≥ 70 bpm.

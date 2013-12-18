@@ -16,6 +16,8 @@ The following adverse reactions have been reported during clinical trials and ar
 |  | Uncommon* | Syncope, possibly related to bradycardia |
 | Eye disorders | Very common | Luminous phenomena (phosphenes) |
 |  | Common | Blurred vision |
+|  | Uncommon* | Diplopia |
+|  |  | Visual impairment |
 | Ear and labyrinth disorders | Uncommon | Vertigo |
 | Cardiac disorders | Common | Bradycardia |
 |  |  | AV 1st degree block (ECG prolonged PQ interval) |
@@ -45,8 +47,9 @@ The following adverse reactions have been reported during clinical trials and ar
 * Frequency calculated from clinical trials for adverse events detected from spontaneous report
 
 Description of selected adverse reactions
-Luminous phenomena (phosphenes) were reported by 14.5% of patients, described as a transient enhanced brightness in a limited area of the visual field.
+Luminous phenomena (phosphenes) were reported by 14.5% of patients, described as a transient enhanced brightness in a l imited area of the visual field.
 They are usually triggered by sudden variations in light intensity.
+Phosphenes may also be described as a h alo, image decomposition (stroboscopic or kaleidoscopic effects), coloured bright lights, or multiple image (retinal persistency).
 The onset of phosphenes is generally within the first two months of treatment after which they may occur repeatedly.
 Phosphenes were generally reported to be of mild to moderate intensity.
 All phosphenes resolved during or after treatment, of which a majority (77.5%) resolved during treatment.
@@ -54,6 +57,11 @@ Fewer than 1% of patients changed their daily routine or discontinued the treatm
 
 Bradycardia was reported by 3.3% of patients particularly within the first 2 to 3 months of treatment initiation.
 0.5% of patients experienced a severe bradycardia below or equal to 40 bpm.
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 [Procoralan 7.5 mg film-coated tablets]
 

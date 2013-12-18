@@ -13,4 +13,4 @@
 - Unstable angina
 - AV-block of 3rd degree
 - Combination with strong cytochrome P450 3A4 inhibitors such as azole antifungals (ketoconazole, itraconazole), macrolide antibiotics (clarithromycin, erythromycin per os, josamycin, telithromycin), HIV protease inhibitors (nelfinavir, ritonavir) and nefazodone (see sections 4.5 and 5.2)
-- Pregnancy, lactation (see section 4.6)
+- Pregnancy, lactation and women of child-bearing potential not using appropriate contraceptive measures (see section 4.6)
