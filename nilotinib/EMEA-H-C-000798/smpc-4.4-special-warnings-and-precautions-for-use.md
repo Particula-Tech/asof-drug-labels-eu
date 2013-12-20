@@ -21,7 +21,6 @@ In particular, no episodes of torsade de pointes (transient or sustained) were o
 Significant prolongation of the QT interval may occur when nilotinib is inappropriately taken with strong CYP3A4 inhibitors and/or medicinal products with a known potential to prolong QT, and/or food (see section 4.5).
 The presence of hypokalaemia and hypomagnesaemia may further enhance this effect.
 Prolongation of the QT interval may expose patients to the risk of fatal outcome.
-
 Tasigna should be used with caution in patients who have or who are at significant risk of developing prolongation of QTc, such as those:
 
 - with congenital long QT prolongation
@@ -30,11 +29,17 @@ Tasigna should be used with caution in patients who have or who are at significa
 
 Close monitoring for an effect on the QTc interval is advisable and a baseline ECG is recommended prior to initiating therapy with Tasigna and as clinically indicated.
 Hypokalaemia or hypomagnesaemia must be corrected prior to Tasigna administration and should be monitored periodically during therapy.
+
 Sudden death
 Uncommon cases (0.1 to 1%) of sudden deaths have been reported in patients with imatinib-resistant or intolerant CML in chronic phase or accelerated phase with a past medical history of cardiac disease or significant cardiac risk factors.
 Co-morbidities in addition to the underlying malignancy were also frequently present as were concomitant medicinal products.
 Ventricular repolarisation abnormalities may have been contributory factors.
 No cases of sudden death were reported in the Phase III study in newly diagnosed patients with CML in chronic phase.
+
+Laboratory tests and monitoring
+In a Phase III study in newly diagnosed CML patients, 1.1% of the patients treated with 400 mg nilotinib twice daily showed a Grade 3-4 elevation in cholesterol; no Grade 3-4 elevations were however observed in the 300 mg twice daily dose group.
+It is recommended that the lipid profile be assessed before initiating treatment with Tasigna and monitored during treatment, as clinically indicated (see section 4.2).
+If lipid-lowering agents are required, please refer to section 4.5 before initiating treatment since many cholesterol-lowering agents are also metabolised by the CYP3A4 pathway.
 
 Interactions with other medicinal products
 The administration of Tasigna with agents that are strong CYP3A4 inhibitors (including, but not limited to, ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir) should be avoided.
@@ -51,7 +56,6 @@ No food should be consumed for at least one hour after the dose is taken.
 Grapefruit juice and other foods that are known to inhibit CYP3A4 should be avoided.
 For patients who are unable to swallow hard capsules, the content of each hard capsule may be dispersed in one teaspoon of apple sauce and should be taken immediately.
 Not more than one teaspoon of apple sauce and no food other than apple sauce must be used (see section 5.2).
-
 Hepatic impairment
 Hepatic impairment has a modest effect on the pharmacokinetics of nilotinib.
 Single dose administration of 200 mg of nilotinib resulted in increases in AUC of 35%, 35% and 19% in subjects with mild, moderate and severe hepatic impairment, respectively, compared to a control group of subjects with normal hepatic function.
@@ -71,6 +75,7 @@ More frequent follow-up of these patients should be considered.
 
 Tumour lysis syndrome
 Due to possible occurrence of tumour lysis syndrome (TLS) correction of clinically significant dehydration and treatment of high uric acid levels are recommended prior to initiating therapy with Tasigna (see section 4.8).
+
 Lactose
 Tasigna hard capsules contain lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.

@@ -14,7 +14,6 @@ The exposure to nilotinib in healthy subjects was increased 3-fold when co-admin
 Concomitant treatment with strong CYP3A4 inhibitors, including ketoconazole, itraconazole, voriconazole, ritonavir, clarithromycin, and telithromycin, should therefore be avoided (see section 4.4).
 Increased exposure to nilotinib might also be expected with moderate CYP3A4 inhibitors.
 Alternative concomitant medicinal products with no or minimal CYP3A4 inhibition should be considered.
-
 Substances that may decrease nilotinib serum concentrations
 Rifampicin, a potent CYP3A4 inducer, decreases nilotinib Cmax by 64% and reduces nilotinib AUC by 80%.
 Rifampicin and nilotinib should not be used concomitantly.
@@ -26,6 +25,12 @@ Nilotinib has pH dependent solubility, with lower solubility at higher pH.
 In healthy subjects receiving esomeprazole at 40 mg once daily for 5 days, gastric pH was markedly increased, but nilotinib absorption was only decreased modestly (27% decrease in Cmax and 34% decrease in AUC0-∞).
 Nilotinib may be used concurrently with esomeprazole or other proton pump inhibitors as needed.
 
+In a healthy subjects study, no significant change in nilotinib pharmacokinetics was observed when a single 400 mg dose of Tasigna was administered 10 hours after and 2 hours before famotidine.
+Therefore, when the concurrent use of a H2 blocker is necessary, it may be administered approximately 10 hours before and approximately 2 hours after the dose of Tasigna.
+
+In the same study as above, administration of an antacid (aluminium hydroxide/magnesium hydroxide/simethicone) 2 hours before or after a single 400 mg dose of Tasigna also did not alter nilotinib pharmacokinetics.
+Therefore, if necessary, an antacid may be administered approximately 2 hours before or approximately 2 hours after the dose of Tasigna.
+
 Substances that may have their systemic concentration altered by nilotinib
 Nilotinib is a relatively strong inhibitor of CYP3A4, CYP2C8, CYP2C9, CYP2D6 and UGT1A1 in vitro, with Ki value being lowest for CYP2C9 (Ki=0.13 microM).
 
@@ -33,12 +38,13 @@ A single-dose drug-drug interaction study in healthy volunteers with 25 mg warfa
 There are no steady-state data.
 This study suggests that a clinically meaningful drug-drug interaction between nilotinib and warfarin is less likely up to a dose of 25 mg of warfarin.
 Due to lack of steady-state data, control of warfarin pharmacodynamic markers (INR or PT) following initiation of nilotinib therapy (at least during the first 2 weeks) is recommended.
+
 In addition, single-dose administration of Tasigna with orally administered midazolam to healthy subjects increased midazolam exposure by 30%.
 It cannot be excluded that the effect of nilotinib is greater at steady state.
 Caution should be exercised when co-administering Tasigna with substrates of these enzymes that have a narrow therapeutic index [e.g. astemizole, terfenadine, cisapride, pimozide, quinidine, bepridil or ergot alkaloids (ergotamine, dihydroergotamine)].
 
-Anti-arrhythmic medicinal products and other substances that may prolong QT
-Nilotinib should be used with caution in patients who have or may develop prolongation of QT, including those patients taking anti-arrhythmic medicinal products such as amiodarone, disopyramide, procainamide, quinidine and sotalol or other medicinal products that may lead to QT prolongation such as chloroquine, halofantrine, clarithromycin, haloperidol, methadone and moxifloxacin (see section 4.4).
+Anti-arrhythmic medicinal products and other substances that may prolong the QT interval
+Nilotinib should be used with caution in patients who have or may develop prolongation of the QT interval, including those patients taking anti-arrhythmic medicinal products such as amiodarone, disopyramide, procainamide, quinidine and sotalol or other medicinal products that may lead to QT prolongation such as chloroquine, halofantrine, clarithromycin, haloperidol, methadone and moxifloxacin (see section 4.4).
 
 Other interactions that may affect serum concentrations
 The absorption of Tasigna is increased if it is taken with food, resulting in a higher serum concentration (see sections 4.2, 4.4 and 5.2).

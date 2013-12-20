@@ -36,7 +36,7 @@ Serum lipase levels should be tested monthly or as clinically indicated (see sec
 Elevated bilirubin and hepatic transaminases: For Grade 3-4 bilirubin and hepatic transaminase elevations, doses should be reduced to 400 mg once daily or interrupted.
 Bilirubin and hepatic transaminases levels should be tested monthly or as clinically indicated.
 
-Elderly patients
+Older people
 Approximately 12% of subjects in the clinical study were 65 years of age or over.
 No major differences were observed for safety and efficacy in patients ≥65 years of age as compared to adults aged 18 to 65 years.
 
@@ -53,9 +53,12 @@ Patients with cardiac disorders
 In clinical studies, patients with uncontrolled or significant cardiac disease (e.g. recent myocardial infarction, congestive heart failure, unstable angina or clinically significant bradycardia) were excluded.
 Caution should be exercised in patients with relevant cardiac disorders (see section 4.4).
 
+Increases in serum cholesterol levels have been reported with Tasigna therapy (see section 4.4).
+Lipid profiles should be assessed prior to initiating Tasigna therapy and as clinically indicated during treatment.
 Paediatric population
 The safety and efficacy of Tasigna in children from birth to less than 18 years have not yet been established (see section 5.1).
 Therefore, its use in paediatric patients is not recommended due to a lack of data on safety and efficacy.
+
 Method of administration
 Tasigna should be taken twice daily approximately 12 hours apart and must not be taken with food.
 The hard capsules should be swallowed whole with water.

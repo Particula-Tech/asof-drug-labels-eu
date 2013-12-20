@@ -3,10 +3,13 @@
 Absorption
 Peak concentrations of nilotinib are reached 3 hours after oral administration.
 Nilotinib absorption following oral administration was approximately 30%.
+The absolute bioavailability of nilotinib has not been determined.
+As compared to an oral drink solution (pH of 1.2 to 1.3), relative bioavailability of nilotinib capsule is approximately 50%.
 In healthy volunteers, Cmax and area under the serum concentration-time curve (AUC) of nilotinib are increased by 112% and 82%, respectively, compared to fasting conditions when Tasigna is given with food.
 Administration of Tasigna 30 minutes or 2 hours after food increased bioavailability of nilotinib by 29% or 15%, respectively (see sections 4.2, 4.4 and 4.5).
 
 Single-dose administration of 400 mg nilotinib, using 2 hard capsules of 200 mg whereby the content of each hard capsule was dispersed in one teaspoon of apple sauce, was shown to be bioequivalent with a single-dose administration of 2 intact hard capsules of 200 mg.
+
 Nilotinib absorption (relative bioavailability) might be reduced by approximately 48% and 22% in patients with total gastrectomy and partial gastrectomy, respectively.
 
 Distribution

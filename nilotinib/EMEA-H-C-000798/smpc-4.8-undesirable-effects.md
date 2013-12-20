@@ -2,15 +2,16 @@
 
 Summary of the safety profile
 The data described below reflect exposure to Tasigna in 279 patients from a randomised Phase III study in patients with newly diagnosed Ph+ CML in chronic phase treated with 300 mg of nilotinib twice daily.
-The median duration of exposure was 36.4 months (range 0.1-46.7 months).
-The most frequent (≥10%) non-haematological adverse reactions were rash, pruritus, headache, nausea, fatigue, and myalgia.
+The median duration of exposure was 48.0 months (range 0.1-58.7 months).
+
+The most frequent (≥10%) non-haematological adverse reactions were rash, pruritus, headache, nausea, fatigue, alopecia and myalgia.
 Most of these adverse reactions were mild to moderate in severity.
-Upper abdominal pain, alopecia, constipation, diarrhoea, asthenia, dry skin, muscle spasms, arthralgia, vomiting, abdominal pain, peripheral oedema, dyspepsia and pain in extremity were observed less commonly (<10% and ≥5%), were of mild to moderate severity, manageable and generally did not require dose reduction.
-Discontinuation due to adverse drug reactions was observed in 10% of patients.
+Upper abdominal pain, constipation, diarrhoea, asthenia, dry skin, muscle spasms, arthralgia, vomiting, abdominal pain and peripheral oedema were observed less commonly (<10% and ≥5%), were of mild to moderate severity, manageable and generally did not require dose reduction.
+Discontinuation due to adverse drug reactions was observed in 9% of patients.
 
 Treatment-emergent haematological toxicities include myelosuppression: thrombocytopenia (18%), neutropenia (15%) and anaemia (7%).
 Pleural and pericardial effusions, regardless of causality, occurred in 1% and <1% of patients, respectively, receiving Tasigna 300 mg twice daily.
-Gastrointestinal haemorrhage, regardless of causality, was reported in 2.5% of these patients.
+Gastrointestinal haemorrhage, regardless of causality, was reported in 3% of these patients.
 
 The change from baseline in mean time-averaged QTcF interval at steady state was 6 msec.
 No patient had an absolute QTcF >500 msec while on the study medicinal product.
@@ -20,36 +21,39 @@ No decrease from baseline in mean left ventricular ejection fraction (LVEF) was 
 No patient had a LVEF of <45% during treatment nor an absolute reduction in LVEF of more than 15%.
 Most frequently reported adverse reactions in Tasigna clinical studies
 Non-haematological adverse reactions (excluding laboratory abnormalities) that are reported in at least 5% of the patients treated with 300 mg of nilotinib twice daily in the randomised Phase III study are shown in Table 2.
-These are ranked under heading of frequency using the following convention: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000); not known (cannot be estimated from the available data).
+These are ranked under heading of frequency using one decimal precision for percentages and the following convention: very common (≥1/10) or common (≥1/100 to <1/10).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Table 2 Non-haematological adverse reactions (≥5% of all patients)
+Table 2 Non-haematological adverse reactions (≥5% of all patients)*
 
 | System organ class | Frequency | Adverse reaction | All grades % | Grade 3-4 % |
 | --- | --- | --- | --- | --- |
-| Nervous system disorders | Very common | Headache | 15 | 1 |
+| Nervous system disorders | Very common | Headache | 16 | 1 |
 | Gastrointestinal disorders | Very common | Nausea | 14 | <1 |
 |  | Common | Constipation | 10 | 0 |
-|  | Common | Diarrhoea | 9 | <1 |
+|  | Common | Diarrhoea | 8 | <1 |
 |  | Common | Vomiting | 6 | 0 |
 |  | Common | Abdominal pain upper | 10 | 1 |
 |  | Common | Abdominal pain | 6 | 0 |
 |  | Common | Dyspepsia | 5 | 0 |
 | Skin and subcutaneous tissue disorders | Very common | Rash | 33 | <1 |
 |  | Very common | Pruritus | 18 | <1 |
-|  | Common | Alopecia | 10 | 0 |
-|  | Common | Dry skin | 9 | 0 |
+|  | Very common | Alopecia | 10 | 0 |
+|  | Very common | Dry skin | 10 | 0 |
 | Musculoskeletal and connective tissue disorders | Very common | Myalgia | 10 | <1 |
-|  | Common | Arthralgia | 7 | <1 |
+|  | Common | Arthralgia | 8 | <1 |
 |  | Common | Muscle spasms | 9 | 0 |
 |  | Common | Pain in extremity | 5 | <1 |
-| General disorders and administration site conditions | Very common | Fatigue | 11 | 0 |
-|  | Common | Asthenia | 9 | <1 |
+| General disorders and administration site conditions | Very common | Fatigue | 13 | 0 |
+|  | Common | Asthenia | 10 | <1 |
 |  | Common | Oedema peripheral | 5 | <1 |
+
+*Percentages are rounded to integer for presentation in this table.
+However, percentages with one decimal precision are used to identify terms with a frequency of at least 5% and to classify terms according to frequency categories.
 
 The following adverse reactions were reported in the Tasigna Phase III study at a frequency of less than 5%.
 For laboratory abnormalities, very common events (≥1/10) not included in Table 2 are also reported.
-These adverse reactions are included based on clinical relevance and ranked in order of decreasing seriousness within each category.
+These adverse reactions are included based on clinical relevance and ranked in order of decreasing seriousness within each category using the following convention: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), not known (cannot be estimated from the available data).
 
 Infections and infestations:
 Common: folliculitis, upper respiratory tract infection (including pharyngitis, nasopharyngitis, rhinitis).
@@ -60,29 +64,29 @@ Common: skin papilloma.
 Not known: oral papilloma, paraproteinaemia.
 
 Blood and lymphatic system disorders:
-Common: lymphopenia.
+Common: eosinophilia, lymphopenia.
 Uncommon: pancytopenia.
-Not known: febrile neutropenia, eosinophilia.
-
+Not known: febrile neutropenia.
 Immune system disorders:
 Not known: hypersensitivity.
+
 Endocrine disorders:
 Not known: hyperparathyroidism secondary.
 
 Metabolism and nutrition disorders:
 Very common: hypophosphataemia (including blood phosphorus decreased).
-Common: diabetes mellitus, hypercholesterolaemia, hyperlipidaemia, hyperglycaemia, decreased appetite.
-Uncommon: hyperkalaemia, hypocalcaemia, hypokalaemia, gout.
-Not known: hyperuricaemia, hypoglycaemia, dyslipidaemia, appetite disorder.
+Common: diabetes mellitus, hypercholesterolaemia, hyperlipidaemia, hypertriglyceridaemia, hyperglycaemia, decreased appetite.
+Uncommon: hyperkalaemia, hypocalcaemia, hypokalaemia, dyslipidaemia, gout.
+Not known: hyperuricaemia, hypoglycaemia, appetite disorder.
 
 Psychiatric disorders:
-Common: insomnia, anxiety.
-Not known: depressed mood, amnesia, dysphoria.
+Common: insomnia, depression, anxiety.
+Not known: amnesia, dysphoria.
 
 Nervous system disorders:
 Common: dizziness, hypoaesthesia, peripheral neuropathy.
-Uncommon: paraesthesia.
-Not known: syncope, migraine, tremor, lethargy, dysaesthesia, restless legs syndrome, hyperaesthesia.
+Uncommon: migraine, paraesthesia.
+Not known: syncope, tremor, lethargy, dysaesthesia, restless legs syndrome, hyperaesthesia.
 
 Eye disorders:
 Common: eye pruritus, conjunctivitis, dry eye (including xerophthalmia).
@@ -93,24 +97,25 @@ Ear and labyrinth disorders:
 Common: vertigo.
 
 Cardiac disorders*:
-Common: arrhythmia (including tachycardia, atrial fibrillation, ventricular extrasystoles, sinus bradycardia), electrocardiogram QT prolonged, palpitations.
-Uncommon: angina pectoris, cyanosis.
-Not known: cardiac failure, ejection fraction decrease, pericardial effusion, pericarditis, diastolic dysfunction, left bundle branch block.
+Common: angina pectoris, arrhythmia (including atrioventricular block, tachycardia, atrial fibrillation, ventricular extrasystoles, bradycardia), electrocardiogram QT prolonged, palpitations.
+Uncommon: cyanosis.
+Not known: cardiac failure, myocardial infarction, ejection fraction decrease, pericardial effusion, pericarditis, diastolic dysfunction, left bundle branch block.
 *reported in 300 mg twice daily and/or 400 mg twice daily treatment arm of phase III study
 
 Vascular disorders:
 Common: hypertension, flushing.
-Uncommon: peripheral arterial occlusive disease.
-Not known: haematoma, arteriosclerosis.
+Uncommon: peripheral arterial occlusive disease, arteriosclerosis.
+Not known: haematoma.
 
 Respiratory, thoracic and mediastinal disorders:
 Common: dyspnoea, cough.
-Not known: pleural effusion, dyspnoea exertional, pleurisy, epistaxis, oropharyngeal pain.
+Uncommon: pleural effusion.
+Not known: dyspnoea exertional, pleurisy, epistaxis, oropharyngeal pain.
 
 Gastrointestinal disorders:
 Common: abdominal distension, abdominal discomfort, dysgeusia, flatulence.
-Uncommon: pancreatitis, sensitivity of teeth.
-Not known: oesophageal ulcer, gastric ulcer, oesophageal pain, stomatitis, dry mouth, gastritis, enterocolitis, haemorrhoids, hiatus hernia, rectal haemorrhage, gingivitis.
+Uncommon: pancreatitis, gastritis, sensitivity of teeth.
+Not known: oesophageal ulcer, gastric ulcer, oesophageal pain, stomatitis, dry mouth, enterocolitis, haemorrhoids, hiatus hernia, rectal haemorrhage, gingivitis.
 Hepatobiliary disorders:
 Very common: hyperbilirubinaemia (including blood bilirubin increased).
 Common: hepatic function abnormal.
@@ -140,9 +145,9 @@ Not known: face oedema, localised oedema.
 
 Investigations:
 Very common: alanine aminotransferase increased, aspartate aminotransferase increased, lipase increased.
-Common: haemoglobin decreased, platelet count decreased, blood amylase increased, blood alkaline phosphatase increased, gamma-glutamyltransferase increased, weight increased.
-Uncommon: neutrophil count decreased, globulins decreased, blood insulin increased.
-Not known: lipoprotein increased (including very low density and high density), blood parathyroid hormone increased, blood potassium increased, white blood cell count decreased, blood insulin decreased, insulin C-peptide decreased, weight decreased.
+Common: haemoglobin decreased, blood amylase increased, blood alkaline phosphatase increased, gamma-glutamyltransferase increased, weight increased, blood insulin increased, lipoprotein increased (including very low density and high density).
+Uncommon: globulins decreased.
+Not known: blood parathyroid hormone increased, blood insulin decreased, insulin C-peptide decreased, weight decreased.
 Clinically relevant or severe abnormalities of routine haematological or biochemistry laboratory values are presented in Table 3.
 
 Table 3 Grade 3-4 laboratory abnormalities
@@ -156,10 +161,10 @@ Table 3 Grade 3-4 laboratory abnormalities
 | - Anaemia | 4 |
 | Biochemistry parameters |  |
 | - Elevated creatinine | 0 |
-| - Elevated lipase | 8 |
+| - Elevated lipase | 9 |
 | - Elevated SGOT (AST) | 1 |
 | - Elevated SGPT (ALT) | 4 |
-| - Hypophosphataemia | 6 |
+| - Hypophosphataemia | 7 |
 | - Elevated bilirubin (total) | 4 |
 
 Postmarketing experience
@@ -168,14 +173,22 @@ Since these reactions are reported from a population of uncertain size, it is no
 
 Frequency rare: Cases of tumour lysis syndrome have been reported in patients treated with Tasigna.
 
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
 [Tasigna 200 mg hard capsules]
 
 The data described below reflect exposure to Tasigna in a total of 717 patients from a randomised Phase III study in patients with newly diagnosed Ph+ CML in chronic phase treated at the recommended dose of 300 mg twice daily (n=279) and from an open-label multicentre Phase II study in patients with imatinib-resistant or intolerant CML in chronic phase (n=321) and accelerated phase (n=137) treated at the recommended dose of 400 mg twice daily.
 
 In patients with newly diagnosed CML in chronic phase
 
+Upper abdominal pain, constipation, diarrhoea, asthenia, dry skin, muscle spasms, arthralgia, vomiting, abdominal pain and peripheral oedema were observed less commonly (<10% and ≥5%) were of mild to moderate severity, manageable and generally did not require dose reduction.
+
 In patients with imatinib-resistant or intolerant CML in chronic phase and accelerated phase
 The data described below reflect exposure to Tasigna in 458 patients in an open-label multicentre Phase II study in patients with imatinib-resistant or intolerant CML in chronic phase (n=321) and accelerated phase (n=137) treated at the recommended dose of 400 mg twice daily.
+
 The most frequent (≥10%) non-haematological drug-related adverse events were rash, pruritus, nausea, fatigue, headache, vomiting, myalgia, constipation and diarrhoea.
 Most of these adverse events were mild to moderate in severity.
 Alopecia, muscle spasms, decreased appetite, arthralgia, abdominal pain, bone pain, peripheral oedema, asthenia, upper abdominal pain, dry skin, erythema and pain in extremity were observed less commonly (<10% and ≥5%) and have been of mild to moderate severity (Grade 1 or 2).
@@ -190,22 +203,19 @@ QTcF exceeding 500 msec was observed in <1% of patients.
 No episodes of torsade de pointes (transient or sustained) were observed.
 
 Non-haematological adverse reactions (excluding laboratory abnormalities) that are reported in at least 5% of the patients in Tasigna clinical studies are shown in Table 2.
-These are ranked under heading of frequency using the following convention: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000); not known [cannot be estimated from the available data].
 
 |  | Newly diagnosed CML-CP 300 mg twice daily n=279 |  |  | Imatinib-resistant or intolerant CML-CP and CML-AP 400 mg twice daily n=458 |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | 36-month analysis |  |  | 24-month analysis |  |  |  |  |
+|  | 48-month analysis |  |  | 24-month analysis |  |  |  |  |
 | System organ class/ Adverse reaction | Frequency All Grade grades 3-4 % % |  |  | CML- CML-Frequency All Grade CP AP grades 3-4 n=321 n=137 Grade Grade 3-4 3-4 % % % % |  |  |  |  |
 | Metabolism and nutrition disorders |  |  |  |  |  |  |  |  |
 | Decreased appetite * | Common | 4 | 0 | Common | 8 | <1 | <1 | 0 |
 | Nervous system disorders |  |  |  |  |  |  |  |  |
-| Headache | Very common | 15 | 1 | Very common | 15 | 1 | 2 | <1 |
-
+| Headache | Very common | 16 | 1 | Very common | 15 | 1 | 2 | <1 |
 | Gastrointestinal disorders |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Nausea | Very common | 14 | <1 | Very common | 20 | <1 | <1 | <1 |
 | Constipation | Common | 10 | 0 | Very common | 12 | <1 | <1 | 0 |
-| Diarrhoea | Common | 9 | <1 | Very common | 11 | 2 | 2 | <1 |
+| Diarrhoea | Common | 8 | <1 | Very common | 11 | 2 | 2 | <1 |
 | Vomiting | Common | 6 | 0 | Very common | 10 | <1 | <1 | 0 |
 | Upper abdominal pain | Common | 10 | 1 | Common | 5 | <1 | <1 | 0 |
 | Abdominal pain | Common | 6 | 0 | Common | 6 | <1 | <1 | <1 |
@@ -213,40 +223,40 @@ These are ranked under heading of frequency using the following convention: very
 | Skin and subcutaneous tissue disorders |  |  |  |  |  |  |  |  |
 | Rash | Very common | 33 | <1 | Very common | 28 | 1 | 2 | 0 |
 | Pruritus | Very common | 18 | <1 | Very common | 24 | <1 | <1 | 0 |
-| Alopecia | Common | 10 | 0 | Common | 9 | 0 | 0 | 0 |
-| Dry skin | Common | 9 | 0 | Common | 5 | 0 | 0 | 0 |
-| Erythema | Common | 2 | 0 | Common | 5 | <1 | <1 | 0 |
+| Alopecia | Very common | 10 | 0 | Common | 9 | 0 | 0 | 0 |
+| Dry skin | Very common | 10 | 0 | Common | 5 | 0 | 0 | 0 |
+| Erythema | Common | 3 | 0 | Common | 5 | <1 | <1 | 0 |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |  |  |  |  |
 | Myalgia | Very common | 10 | <1 | Very common | 10 | <1 | <1 | <1 |
-| Arthralgia | Common | 7 | <1 | Common | 7 | <1 | 1 | 0 |
+| Arthralgia | Common | 8 | <1 | Common | 7 | <1 | 1 | 0 |
 | Muscle spasms | Common | 9 | 0 | Common | 8 | <1 | <1 | 0 |
 | Bone pain | Common | 4 | 0 | Common | 6 | <1 | <1 | 0 |
 | Pain in extremity | Common | 5 | <1 | Common | 5 | <1 | <1 | <1 |
 | General disorders and administration site conditions |  |  |  |  |  |  |  |  |
-| Fatigue | Very common | 11 | 0 | Very common | 17 | 1 | 1 | <1 |
-| Asthenia | Common | 9 | <1 | Common | 6 | <1 | 0 | <1 |
+| Fatigue | Very common | 13 | 0 | Very common | 17 | 1 | 1 | <1 |
+| Asthenia | Very common | 10 | <1 | Common | 6 | <1 | 0 | <1 |
 | Oedema peripheral | Common | 5 | 0 | Common | 6 | 0 | 0 | 0 |
 
-* Also includes preferred term anorexia
+* Percentages are rounded to integer for presentation in this table.
+**Also includes preferred term anorexia
 
 The following adverse reactions were reported in patients in the Tasigna clinical studies at a frequency of less than 5%.
 
 Uncommon: pneumonia, urinary tract infection, gastroenteritis, bronchitis, herpes virus infection, candidiasis (including oral candidiasis).
 Not known: sepsis, subcutaneous abscess, anal abscess, furuncle, tinea pedis.
 
-Common: febrile neutropenia, pancytopenia, lymphopenia.
-Uncommon: thrombocythaemia, leukocytosis, eosinophilia.
+Common: eosinophilia, febrile neutropenia, pancytopenia, lymphopenia.
+Uncommon: thrombocythaemia, leukocytosis.
 
 Uncommon: hyperthyroidism, hypothyroidism.
 Not known: hyperparathyroidism secondary, thyroiditis.
 
-Common: electrolyte imbalance (including hypomagnesaemia, hyperkalaemia, hypokalaemia, hyponatraemia, hypocalcaemia, hypercalcaemia, hyperphosphataemia), diabetes mellitus, hyperglycaemia, hypercholesterolaemia, hyperlipidaemia.
-Uncommon: dehydration, increased appetite, gout.
-Not known: hyperuricaemia, hypoglycaemia, dyslipidaemia.
+Common: electrolyte imbalance (including hypomagnesaemia, hyperkalaemia, hypokalaemia, hyponatraemia, hypocalcaemia, hypercalcaemia, hyperphosphataemia), diabetes mellitus, hyperglycaemia, hypercholesterolaemia, hyperlipidaemia, hypertriglyceridaemia.
+Uncommon: dehydration, increased appetite, gout, dyslipidaemia.
+Not known: hyperuricaemia, hypoglycaemia.
 
 Common: depression, insomnia, anxiety.
 Not known: disorientation, confusional state, amnesia, dysphoria.
-
 Common: dizziness, peripheral neuropathy, hypoaesthesia, paraesthesia.
 Uncommon: intracranial haemorrhage, migraine, loss of consciousness (including syncope), tremor, disturbance in attention, hyperaesthesia.
 Not known: brain oedema, optic neuritis, lethargy, dysaesthesia, restless legs syndrome.
@@ -262,15 +272,16 @@ Common: angina pectoris, arrhythmia (including atroventricular block, cardiac fl
 Uncommon: cardiac failure, pericardial effusion, coronary artery disease, cardiac murmur, cyanosis.
 Not known: myocardial infarction, ventricular dysfunction, pericarditis, ejection fraction decreased.
 
-Uncommon: hypertensive crisis, peripheral arterial occlusive disease, haematoma.
-Not known: shock haemorrhagic, hypotension, thrombosis, arteriosclerosis.
+Uncommon: hypertensive crisis, peripheral arterial occlusive disease, haematoma, arteriosclerosis.
+Not known: shock haemorrhagic, hypotension, thrombosis.
+
 Common: dyspnoea, dyspnoea exertional, epistaxis, cough, dysphonia.
 Uncommon: pulmonary oedema, pleural effusion, interstitial lung disease, pleuritic pain, pleurisy, pharyngolaryngeal pain, throat irritation.
 Not known: pulmonary hypertension, wheezing, oropharyngeal pain.
 
 Common: pancreatitis, abdominal discomfort, abdominal distension, dysgeusia, flatulence.
-Uncommon: gastrointestinal haemorrhage, melaena, mouth ulceration, gastroesophageal reflux, stomatitis, oesophageal pain, dry mouth, sensitivity of teeth.
-Not known: gastrointestinal ulcer perforation, retroperitoneal haemorrhage, haematemesis, gastric ulcer, oesophagitis ulcerative, subileus, gastritis, enterocolitis, haemorrhoids, hiatus hernia, rectal haemorrhage, gingivitis.
+Uncommon: gastrointestinal haemorrhage, melaena, mouth ulceration, gastroesophageal reflux, stomatitis, oesophageal pain, dry mouth, gastritis, sensitivity of teeth.
+Not known: gastrointestinal ulcer perforation, retroperitoneal haemorrhage, haematemesis, gastric ulcer, oesophagitis ulcerative, subileus, enterocolitis, haemorrhoids, hiatus hernia, rectal haemorrhage, gingivitis.
 
 Uncommon: hepatotoxicity, toxic hepatitis, jaundice.
 Not known: cholestasis, hepatomegaly.
@@ -278,7 +289,6 @@ Not known: cholestasis, hepatomegaly.
 Common: night sweats, eczema, urticaria, erythema, hyperhidrosis, contusion, acne, dermatitis (including allergic, exfoliative and acneiform), dry skin.
 Uncommon: exfoliative rash, drug eruption, skin pain, ecchymosis, swelling face.
 Not known: erythema multiforme, erythema nodosum, skin ulcer, palmar-plantar erythrodysaesthesia syndrome, petechiae, photosensitivity, blister, dermal cysts, sebaceous hyperplasia, skin atrophy, skin discolouration, skin exfoliation, skin hyperpigmentation, skin hypertrophy, hyperkeratosis, psoriasis.
-
 Common: musculoskeletal chest pain, musculoskeletal pain, back pain, flank pain, neck pain.
 Uncommon: musculoskeletal stiffness, muscular weakness, joint swelling.
 Not known: arthritis.
@@ -293,9 +303,10 @@ Not known: breast induration, menorrhagia, nipple swelling.
 Common: chest pain (including non-cardiac chest pain), pain, pyrexia, chest discomfort, malaise.
 Uncommon: face oedema, gravitational oedema, influenza-like illness, chills, feeling body temperature change (including feeling hot, feeling cold).
 Not known: localised oedema.
-Common: haemoglobin decreased, platelet count decreased, blood amylase increased, blood alkaline phosphatase increased, gamma-glutamyltransferase increased, blood creatinine phosphokinase increased, weight decreased, weight increased.
-Uncommon: neutrophil count decreased, blood lactate dehydrogenase increased, blood glucose decreased, blood urea increased, globulins decreased.
-Not known: troponin increased, blood bilirubin unconjugated increased, blood insulin increased, blood insulin decreased, insulin C-peptide decreased, lipoprotein increased (including very low density and high density), blood parathyroid hormone increased, blood potassium increased, white blood cell count decreased.
+
+Common: haemoglobin decreased, blood amylase increased, blood alkaline phosphatase increased, gamma-glutamyltransferase increased, blood creatinine phosphokinase increased, weight decreased, weight increased, blood insulin increased, lipoprotein increased (including very low density and high density).
+Uncommon: blood lactate dehydrogenase increased, blood glucose decreased, blood urea increased, globulins decreased.
+Not known: troponin increased, blood bilirubin unconjugated increased, blood insulin decreased, insulin C-peptide decreased, blood parathyroid hormone increased.
 
 |  | Newly diagnosed CML-CP 300 mg twice daily | Imatinib-resistant or intolerant CML-CP and CML-AP 400 mg twice daily |  |
 | --- | --- | --- | --- |
@@ -307,10 +318,10 @@ Not known: troponin increased, blood bilirubin unconjugated increased, blood ins
 | - Anaemia | 4 | 11 | 27 |
 | Biochemistry parameters |  |  |  |
 | - Elevated creatinine | 0 | 1 | <1 |
-| - Elevated lipase | 8 | 18 | 18 |
+| - Elevated lipase | 9 | 18 | 18 |
 | - Elevated SGOT (AST) | 1 | 3 | 2 |
 | - Elevated SGPT (ALT) | 4 | 4 | 4 |
-| - Hypophosphataemia | 6 | 17 | 15 |
+| - Hypophosphataemia | 7 | 17 | 15 |
 | - Elevated bilirubin (total) | 4 | 7 | 9 |
 
 Sudden death
