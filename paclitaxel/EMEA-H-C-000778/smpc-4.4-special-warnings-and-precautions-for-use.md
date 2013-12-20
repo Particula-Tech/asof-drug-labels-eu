@@ -11,11 +11,25 @@ Haematology
 Bone marrow suppression (primarily neutropenia) occurs frequently with Abraxane.
 Neutropenia is dose-dependent and a dose-limiting toxicity.
 Frequent monitoring of blood cell counts should be performed during Abraxane therapy.
-Patients should not be retreated with subsequent cycles of Abraxane until neutrophils recover to >1.5 x 109/l and platelets recover to >100 x 109/l.
+Patients should not be retreated with subsequent cycles of Abraxane until neutrophils recover to >1500 cells/mm3 and platelets recover to >100,000 cells/mm3 (see section 4.2).
+
 Neuropathy
 Sensory neuropathy occurs frequently with Abraxane, although development of severe symptoms is less common.
 The occurrence of grade 1 or 2 sensory neuropathy does not generally require dose reduction.
-If grade 3 sensory neuropathy develops, treatment should be withheld until resolution to grade 1 or 2 followed by a dose reduction for all subsequent courses of Abraxane is recommended (see section 4.2).
+When Abraxane is used as monotherapy, if grade 3 sensory neuropathy develops, treatment should be withheld until resolution to grade 1 or 2 followed by a dose reduction for all subsequent courses of Abraxane is recommended (see section 4.2).
+For combination use of Abraxane and gemcitabine, if grade 3 or higher peripheral neuropathy develops, withhold Abraxane; continue treatment with gemcitabine at the same dose.
+Resume Abraxane at reduced dose when peripheral neuropathy improves to Grade 0 or 1 (see section 4.2).
+
+Sepsis
+Sepsis was reported at a rate of 5% in patients with or without neutropenia who received Abraxane in combination with gemcitabine.
+Complications due to the underlying pancreatic cancer, especially biliary obstruction or presence of biliary stent, were identified as significant contributing factors.
+If a patient becomes febrile (regardless of neutrophil count), initiate treatment with broad spectrum antibiotics.
+For febrile neutropenia, withhold Abraxane and gemcitabine until fever resolves and ANC ≥ 1500 cells/mm3, then resume treatment at reduced dose levels (see section 4.2).
+
+Pneumonitis
+Pneumonitis occurred in 1% of patients when Abraxane was used as monotherapy and in 4% of patients when Abraxane was used in combination with gemcitabine.
+Closely monitor all patients for signs and symptoms of pneumonitis.
+After ruling out infectious etiology and upon making a diagnosis of pneumonitis, permanently discontinue treatment with Abraxane and gemcitabine and promptly initiate appropriate treatment and supportive measures (see section 4.2).
 
 Hepatic impairment
 Because the toxicity of paclitaxel can be increased with hepatic impairment, administration of Abraxane in patients with hepatic impairment should be performed with caution.
@@ -36,11 +50,15 @@ CNS metastases are generally not well controlled by systemic chemotherapy.
 
 Gastrointestinal symptoms
 If patients experience nausea, vomiting and diarrhoea following the administration of Abraxane, they may be treated with commonly used anti-emetics and constipating agents.
+Patients 75 years and older
+For patients of 75 years and older, no benefit for the combination treatment of Abraxane and gemcitabine in comparison to gemcitabine monotherapy has been demonstrated.
+In the very elderly (≥75 years) who received Abraxane and gemcitabine, there was a higher incidence of serious adverse reactions and adverse reactions that led to treatment discontinuation including haematologic toxicities, peripheral neuropathy, decreased appetite and dehydration.
+Patients with pancreatic adenocarcinoma aged 75 years and older should be carefully assessed for their ability to tolerate Abraxane in combination with gemcitabine with special consideration to performance status, co-morbidities and increased risk of infections (see section 4.2 and 4.8)
 
-Pneumonitis
-Even though the incidence is low, patients should be closely monitored for signs and symptoms of pneumonitis.
-During the conduct of a trial in metastatic pancreatic cancer, a higher rate of pneumonitis events was observed in patients receiving Abraxane in combination with gemcitabine.
+Other
+Although limited data is available, no clear benefit in terms of prolonged overall survival has been demonstrated in pancreatic adenocarcinoma patients with normal CA 19-9 levels prior to start of treatment with Abraxane and gemcitabine (see section 5.1).
+Erlotinib should not be coadministered to Abraxane plus gemcitabine (see section 4.5).
 
 Excipients
-When reconstituted, Abraxane contains approximately 425 mg sodium per dose.
+When reconstituted, each ml of Abraxane concentrate contains 0.183 mmol sodium, which is 4.2 mg of sodium.
 To be taken into consideration by patients on a controlled sodium diet.

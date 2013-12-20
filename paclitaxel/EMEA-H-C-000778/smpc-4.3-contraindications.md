@@ -4,4 +4,4 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 Lactation (see section 4.6).
 
-Patients who have baseline neutrophil counts < 1.5 x 109/l.
+Patients who have baseline neutrophil counts <1500 cells/mm3.

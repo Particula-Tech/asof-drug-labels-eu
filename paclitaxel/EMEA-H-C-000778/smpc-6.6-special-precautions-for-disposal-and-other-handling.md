@@ -7,7 +7,6 @@ If the suspension contacts the skin, the skin should be washed immediately and t
 If it contacts mucous membranes, the membranes should be flushed thoroughly with water.
 Abraxane should only be prepared and administered by personnel appropriately trained in the handling of cytotoxic agents.
 Pregnant staff should not handle Abraxane.
-
 Given the possibility of extravasation, it is advisable to closely monitor the infusion site for possible infiltration during administration of the medicinal product.
 Limiting the infusion of Abraxane to 30 minutes, as directed, reduces the likelihood of infusion-related reactions.
 
@@ -33,6 +32,7 @@ Some settling of the reconstituted suspension may occur.
 Complete resuspension should be ensured by mild agitation before use.
 
 Discard the reconstituted suspension if precipitates are observed.
+
 The exact total dosing volume of 5 mg/ml suspension required for the patient should be calculated and the appropriate amount of reconstituted Abraxane should be injected into an empty, sterile, PVC or non-PVC type intravenous bag.
 The use of specialized di(2-ethylhexyl)phthalate (DEHP)-free solution containers or administration sets is not necessary to prepare or administer Abraxane infusions.
 In-line filters should not be used.

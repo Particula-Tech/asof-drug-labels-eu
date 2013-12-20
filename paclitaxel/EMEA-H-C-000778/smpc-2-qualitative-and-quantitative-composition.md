@@ -6,6 +6,6 @@ Each vial contains 250 mg of paclitaxel formulated as albumin bound nanoparticle
 After reconstitution, each ml of suspension contains 5 mg of paclitaxel formulated as albumin bound nanoparticles.
 
 Excipients with known effect
-The reconstituted medicinal product contains approximately 425 mg sodium per dose.
+Each ml of concentrate contains 0.183 mmol sodium, which is 4.2 mg of sodium.
 
 For the full list of excipients, see section 6.1.
