@@ -11,6 +11,7 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | System organ class | Frequency | Adverse reaction |
 | --- | --- | --- |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps) | Very rare | Secondary leukaemia and myelodysplasia |
+|  | Unknown | Hepatosplenic T-cell lymphoma* (see 4.4) |
 | Blood and lymphatic system disorders | Very common | Bone marrow suppression; leucopenia and thrombocytopenia |
 |  | Common | Anaemia |
 | Immune system disorders | Uncommon | Arthralgia, skin rash, drug fever |
@@ -23,6 +24,8 @@ Within each frequency grouping, undesirable effects are presented in order of de
 |  | Uncommon | Hepatic necrosis |
 | Skin and subcutaneous tissue disorders | Rare | Alopecia |
 | Reproductive system and breast disorders | Rare | Transient oligospermia |
+
+*In patients with inflammatory bowel disease (IBD), an unlicensed indication.
 
 6–mercaptopurine is hepatotoxic in animals and man.
 The histological findings in man have shown hepatic necrosis and biliary stasis

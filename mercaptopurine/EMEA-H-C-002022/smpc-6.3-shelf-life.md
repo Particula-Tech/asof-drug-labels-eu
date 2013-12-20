@@ -2,4 +2,4 @@
 
 1 year
 
-After first opening: 28 days.
+After first opening: 56 days.

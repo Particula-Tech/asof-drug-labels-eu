@@ -8,7 +8,7 @@ Depending on phase of treatment, starting or target doses generally vary between
 
 | 25 mg/m2 |  |  | 50 mg/m2 |  |  | 75 mg/m2 |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| BSA (m2) | Dose (mg) | Volume (ml) | BSA (m2) | Dose (mg) | Volume (ml) | BSA (m2) | Dose (mg) | Volume (ml) |
+| BSA (m2) | Dose (mg) | Volume (ml) | BSA (m2) | Dose (mg) | Volum e (ml) | BSA (m2) | Dose (mg) | Volum e (ml) |
 | 0.20 - 0.29 | 6 | 0.3 | 0.20 - 0.23 | 10 | 0.5 | 0.20 - 0.23 | 16 | 0.8 |
 | 0.30 - 0.36 | 8 | 0.4 | 0.24 – 0.26 | 12 | 0.6 | 0.24 - 0.26 | 20 | 1.0 |
 | 0.37 - 0.43 | 10 | 0.5 | 0.27 - 0.29 | 14 | 0.7 | 0.27 - 0.34 | 24 | 1.2 |

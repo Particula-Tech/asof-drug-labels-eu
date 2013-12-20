@@ -34,6 +34,10 @@ Mutagenicity and carcinogenicity
 Increases in chromosomal aberrations were observed in the peripheral lymphocytes of leukaemic patients, in a renal cell carcinoma patient who received an unstated dose of 6–mercaptopurine and in patients with chronic renal disease treated at doses of 0.4 – 1.0 mg/kg/day.
 
 In view of its action on cellular deoxyribonucleic acid (DNA) 6–mercaptopurine is potentially carcinogenic and consideration should be given to the theoretical risk of carcinogenesis with this treatment.
+Hepatosplenic T-cell lymphoma has been reported in patients with inflammatory bowel disease* treated with azathioprine (the prodrug to 6-mercaptopurine) or 6-mercaptopurine, either with or without concomitant treatment with anti-TNF alpha antibody.
+This rare type of T cell lymphoma has an aggressive disease course and is usually fatal (see also Section 4.8).
+*inflammatory bowel disease (IBD) is an unlicensed indication
+
 Interactions
 When oral anticoagulants are coadministered with 6–mercaptopurine, a reinforced monitoring of INR (International Normalised Ratio) is recommended (see section 4.5).
 
