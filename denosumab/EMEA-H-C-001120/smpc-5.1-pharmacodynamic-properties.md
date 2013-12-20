@@ -12,7 +12,6 @@ At the end of each dosing interval, CTX reductions were partially attenuated fro
 These effects were sustained with continued treatment.
 Bone turnover markers generally reached pre-treatment levels within 9 months after the last dose.
 Upon re-initiation, reductions in CTX by denosumab were similar to those observed in patients initiating primary denosumab treatment.
-
 Immunogenicity
 In clinical studies, neutralising antibodies have not been observed for Prolia.
 Using a sensitive immunoassay < 1% of patients treated with denosumab for up to 5 years tested positive for non neutralising binding antibodies with no evidence of altered pharmacokinetics, toxicity, or clinical response.
@@ -35,6 +34,7 @@ Table 2 The effect of Prolia on the risk of new vertebral fractures
 | 0-3 years | 7.2 | 2.3 | 4.8 (3.9, 5.8) | 68 (59, 74)* |
 
 *p < 0.0001, **p < 0.0001 – exploratory analysis
+
 Effect on hip fractures
 Prolia demonstrated a 40% relative reduction (0.5% absolute risk reduction) in the risk of hip fracture over 3 years (p < 0.05).
 The incidence of hip fracture was 1.2% in the placebo group compared to 0.7% in the Prolia group at 3 years.
@@ -90,7 +90,6 @@ All men received calcium (at least 1,000 mg) and vitamin D (at least 400 IU) sup
 
 Prolia significantly increased BMD at all clinical sites measured, relative to treatment with placebo at 3 years: 7.9% at the lumbar spine, 5.7% at the total hip, 4.9% at the femoral neck, 6.9% at the hip trochanter, 6.9% at the distal 1/3 radius and 4.7% at the total body (all p < 0.0001).
 In a prospectively planned exploratory analysis, significant increases in BMD were observed at the lumbar spine, total hip, femoral neck and the hip trochanter 1 month after the initial dose.
-
 Prolia demonstrated a significant relative risk reduction of new vertebral fractures: 85% (1.6% absolute risk reduction) at 1 year, 69% (2.2% absolute risk reduction) at 2 years and 62% (2.4% absolute risk reduction) at 3 years (all p < 0.01).
 
 Treatment of bone loss associated with adjuvant aromatase inhibitor therapy

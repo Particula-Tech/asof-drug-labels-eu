@@ -6,7 +6,6 @@ Do not shake excessively.
 To avoid discomfort at the site of injection, allow the pre-filled syringe to reach room temperature (up to 25°C) before injecting and inject slowly.
 Inject the entire contents of the pre-filled syringe.
 Dispose of any medicinal product remaining in the pre-filled syringe.
-
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 [Prolia 60 mg solution for injection]

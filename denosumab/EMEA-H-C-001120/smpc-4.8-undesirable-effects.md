@@ -3,14 +3,13 @@
 Summary of the safety profile
 The overall safety profile of Prolia was similar in postmenopausal women with osteoporosis and in breast or prostate cancer patients receiving hormone ablation in four Phase III placebo-controlled clinical trials.
 
-Uncommon cases of cellulitis and rare cases of hypocalcaemia, hypersensitivity and osteonecrosis of the jaw (see sections 4.4 and section 4.8 - description of selected adverse reactions) have been observed with Prolia.
+Uncommon cases of cellulitis; rare cases of hypocalcaemia, hypersensitivity and osteonecrosis of the jaw; and rare cases of atypical femoral fractures (see sections 4.4 and section 4.8 - description of selected adverse reactions) have been observed with Prolia.
 
 Tabulated list of adverse reactions
 The data in Table 1 below describe adverse reactions reported from Phase II and III clinical trials in patients with osteoporosis and breast or prostate cancer patients receiving hormone ablation; and/or spontaneous reporting.
 
 The following convention has been used for the classification of the adverse reactions (see table 1): very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000) and very rare (< 1/10,000) based on 1-year event rates.
 Within each frequency grouping and system organ class, undesirable effects are presented in order of decreasing seriousness.
-
 Table 1 Adverse reactions reported in women with postmenopausal osteoporosis and breast or prostate cancer patients receiving hormone ablation
 
 | MedDRA system organ class | Frequency category | Adverse reactions |
@@ -22,13 +21,14 @@ Table 1 Adverse reactions reported in women with postmenopausal osteoporosis and
 | Eye disorders | Common | Cataracts1 |
 | Gastrointestinal disorders | Common | Constipation |
 | Skin and subcutaneous tissue disorders | Common Uncommon | Rash Eczema |
-| Musculoskeletal and connective tissue disorders | Rare Common | Osteonecrosis of the jaw1 Pain in extremity |
+| Musculoskeletal and connective tissue disorders | Common Rare Rare | Pain in extremity Osteonecrosis of the jaw1 Atypical femoral fractures1 |
 
 1 See section Description of selected adverse reactions
 
 In a pooled analysis of data from all phase II and phase III placebo controlled studies, Influenza-like illness was reported with an event rate of 0.006 per subject year for denosumab and 0.003 per subject year for placebo.
 Although this imbalance was identified via the pooled analysis, it was not identified via the stratified analysis which was used to calculate the adverse reactions reported in table 1.
 There were no individual studies in which this imbalance was observed.
+
 Description of selected adverse reactions
 
 Hypocalcaemia
@@ -45,6 +45,8 @@ Skin infections reported as serious adverse reactions were similar in the placeb
 
 Osteonecrosis of the jaw
 In the osteoporosis clinical trial program (8710 patients treated ≥ 1 year), ONJ was reported rarely with Prolia (see section 4.4).
+Atypical fractures of the femur
+In the osteoporosis clinical trial program, atypical femoral fractures were reported rarely in patients treated with Prolia (see section 4.4).
 
 Cataracts
 In a single phase III placebo-controlled clinical trial in patients with prostate cancer receiving androgen deprivation therapy (ADT) an imbalance in cataract adverse events was observed (4.7% denosumab, 1.2% placebo).
@@ -54,7 +56,7 @@ Diverticulitis
 In a single phase III placebo-controlled clinical trial in patients with prostate cancer receiving ADT an imbalance in diverticulitis adverse events was observed (1.2% denosumab, 0% placebo).
 The incidence of diverticulitis was comparable between treatment groups in postmenopausal women with osteoporosis and in women undergoing aromatase inhibitor therapy for nonmetastatic breast cancer.
 
-Drug-related hypersenstivity reactions
+Drug-related hypersensitivity reactions
 In the post-marketing setting, rare events of drug-related hypersensitivity, including rash, urticaria, facial swelling and erythema have been reported in patients receiving Prolia.
 
 Other special populations

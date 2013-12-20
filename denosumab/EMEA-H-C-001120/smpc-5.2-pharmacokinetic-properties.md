@@ -3,6 +3,7 @@
 Absorption
 Following subcutaneous administration of a 1.0 mg/kg dose, which approximates the approved 60 mg dose, exposure based on AUC was 78% as compared to intravenous administration at the same dose level.
 For a 60 mg subcutaneous dose, maximum serum denosumab concentrations (Cmax) of 6 μg/ml (range 1-17 μg/ml) occurred in 10 days (range 2-28 days).
+
 Biotransformation
 Denosumab is composed solely of amino acids and carbohydrates as native immunoglobulin and is unlikely to be eliminated via hepatic metabolic mechanisms.
 Its metabolism and elimination are expected to follow the immunoglobulin clearance pathways, resulting in degradation to small peptides and individual amino acids.
@@ -20,7 +21,6 @@ However, the trend is not considered clinically important, since pharmacodynamic
 
 Linearity/non-linearity
 In dose ranging studies, denosumab exhibited non-linear, dose-dependent pharmacokinetics, with lower clearance at higher doses or concentrations, but approximately dose-proportional increases in exposures for doses of 60 mg and greater.
-
 Renal impairment
 In a study of 55 patients with varying degrees of renal function, including patients on dialysis, the degree of renal impairment had no effect on the pharmacokinetics of denosumab.
 
