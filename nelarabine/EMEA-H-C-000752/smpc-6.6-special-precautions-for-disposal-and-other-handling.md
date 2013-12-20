@@ -12,5 +12,4 @@ The normal procedures for proper handling and disposal of anti-tumour medicinal 
 Any liquid waste from the preparation of the nelarabine solution for infusion may be flushed with large amounts of water.
 
 — Accidental contact with the skin or eyes should be treated immediately with copious amounts of water.
-
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

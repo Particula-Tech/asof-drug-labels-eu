@@ -27,6 +27,7 @@ After infusion of 400 or 650 mg/m2 nelarabine over one hour in 6 paediatric pati
 Mean plasma ara-G Cmax and AUCinf values were 60.1 µM (17 %) and 212 µM.h (18 %), respectively.
 
 Distribution
+
 Nelarabine and ara-G are extensively distributed throughout the body based on combined Phase I pharmacokinetic data at nelarabine doses of 104 to 2,900 mg/m2.
 Specifically, for nelarabine, mean (%CV) VSS values were 115 l/m2 (159 %) and 89.4 l/m2 (278 %) in adult and paediatric patients, respectively.
 For ara-G, mean VSS/F values were 44.8 l/m2 (32 %) and 32.1 l/m2 (25 %) in adult and paediatric patients, respectively.
@@ -65,8 +66,8 @@ Limited clinical pharmacology data are available for patients below the age of 4
 
 Combined Phase 1 pharmacokinetic data at nelarabine doses of 104 to 2,900 mg/m2 indicate that the clearance (Cl) and Vss values for nelarabine and ara-G are comparable between the two groups.
 Further data with respect to nelarabine and ara-G pharmacokinetics in the paediatric population are provided in other subsections.
-
 Gender
+
 Gender has no effect on nelarabine or ara-G plasma pharmacokinetics.
 Intracellular ara-GTP Cmax and AUC(0–t) values at the same dose level were 2– to 3– fold greater on average in adult female than in adult male patients.
 

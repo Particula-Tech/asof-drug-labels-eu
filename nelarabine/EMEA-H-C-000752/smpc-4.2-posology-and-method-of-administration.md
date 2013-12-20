@@ -14,8 +14,8 @@ Adults and adolescents (aged 16 years and older)
 The recommended dose of nelarabine for adults is 1,500 mg/m2 administered intravenously over two hours on days 1, 3 and 5 and repeated every 21 days.
 
 Paediatric population
-
 Children and adolescents (aged 21 years and younger)
+
 The recommended dose of nelarabine for children and adolescents is 650 mg/m2 administered intravenously over one hour daily for 5 consecutive days, repeated every 21 days.
 
 In clinical studies, the 650 mg/m2 and 1,500 mg/m2 dose have both been used in patients in the age range 16 to 21 years.
