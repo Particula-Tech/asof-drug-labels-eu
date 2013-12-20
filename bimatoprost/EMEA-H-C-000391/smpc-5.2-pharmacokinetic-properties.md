@@ -17,7 +17,6 @@ Bimatoprost then undergoes oxidation, N-deethylation and glucuronidation to form
 Elimination
 Bimatoprost is eliminated primarily by renal excretion, up to 67 % of an intravenous dose administered to healthy adult volunteers was excreted in the urine, 25 % of the dose was excreted via the faeces.
 The elimination half-life, determined after intravenous administration, was approximately 45 minutes; the total blood clearance was 1.5 l/hr/kg.
-
 Characteristics in elderly patients
 After twice daily dosing with bimatoprost 0.3 mg/ml eye drops, solution, the mean AUC0-24hr value of 0.0634 ng•hr/ml bimatoprost in the elderly (subjects 65 years or older) were significantly higher than 0.0218 ng•hr/ml in young healthy adults.
 However, this finding is not clinically relevant as systemic exposure for both elderly and young subjects remained very low from ocular dosing.

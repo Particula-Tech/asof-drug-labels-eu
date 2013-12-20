@@ -16,4 +16,7 @@ Clear, single-dose Low Density Polyethylene (LDPE) containers with a twist-off t
 
 Each single-dose container contains 0.4 mL solution.
 
-The following pack sizes are available: cartons containing 5 single-dose containers, or trays containing 30 single-dose containers.
+The following pack sizes are available:
+Cartons containing 5 single-dose containers,
+Carton containing 30 single-dose containers in a tray,
+Carton containing 90 single-dose containers in 3 trays.

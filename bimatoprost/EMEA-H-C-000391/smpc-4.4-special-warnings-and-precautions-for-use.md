@@ -1,7 +1,7 @@
 # 4.4 Special warnings and precautions for use
 
 Ocular
-Before treatment is initiated, patients should be informed of the possibility of eyelash growth, darkening of the eyelid skin and increased iris pigmentation since these have been observed during treatment with LUMIGAN.
+Before treatment is initiated, patients should be informed of the possibility of eyelash growth, darkening of the eyelid skin and increased iris pigmentation, since these have been observed during treatment with LUMIGAN.
 Some of these changes may be permanent, and may lead to differences in appearance between the eyes when only one eye is treated.
 Increased iris pigmentation is likely to be permanent.
 The pigmentation change is due to increased melanin content in the melanocytes rather than to an increase in the number of melanocytes.
@@ -13,7 +13,7 @@ At 12 months, the incidence of iris hyperpigmentation with bimatoprost 0.1 mg/ml
 At 12 months, the incidence with bimatoprost 0.3 mg/ml eye drops, solution was 1.5% (see section 4.8 Table 2) and did not increase following 3 years treatment.
 Periorbital tissue pigmentation has been reported to be reversible in some patients.
 
-Cystoid macular oedema has been uncommonly reported (≥1/1000 to <1/100) following treatment with bimatoprost 0.3 mg/ml eye drops, solution.
+Cystoid macular oedema has been uncommonly reported (≥1/1,000 to <1/100) following treatment with bimatoprost 0.3 mg/ml eye drops, solution.
 Therefore, LUMIGAN should be used with caution in patients with known risk factors for macular oedema (e.g. aphakic patients, pseudophakic patients with a torn posterior lens capsule).
 
 There have been rare spontaneous reports of reactivation of previous corneal infiltrates or ocular infections with bimatoprost 0.3 mg/ml eye drops, solution.
@@ -26,8 +26,10 @@ There is a potential for hair growth to occur in areas where LUMIGAN solution co
 Thus, it is important to apply LUMIGAN as instructed and avoid it running onto the cheek or other skin areas.
 
 Respiratory
-LUMIGAN has not been studied in patients with compromised respiratory function and should therefore be used with caution in such patients.
-In clinical studies, in those patients with a history of a compromised respiratory function, no significant untoward respiratory effects have been seen.
+LUMIGAN has not been studied in patients with compromised respiratory function.
+While there is limited information available on patients with a history of asthma or COPD, there have been reports of exacerbation of asthma, dyspnoea and COPD, as well as reports of asthma, in post marketing experience.
+The frequency of these symptoms is not known.
+Patients with COPD, asthma or compromised respiratory function due to other conditions should be treated with caution.
 
 Cardiovascular
 LUMIGAN has not been studied in patients with heart block more severe than first degree or uncontrolled congestive heart failure.
@@ -41,6 +43,7 @@ Patients using LUMIGAN with other prostanglandin analogues should be monitored f
 LUMIGAN 0.1 mg/ml contains the preservative benzalkonium chloride (200 ppm), which may be absorbed by soft contact lenses.
 Eye irritation and discolouration of the soft contact lenses may also occur because of the presence of benzalkonium chloride.
 Contact lenses should be removed prior to instillation and may be reinserted 15 minutes following administration.
+
 Benzalkonium chloride, which is commonly used as a preservative in ophthalmic products, has been reported to cause punctate keratopathy and/or toxic ulcerative keratopathy.
 Since
 LUMIGAN 0.1 mg/ml contains 200 ppm benzalkonium chloride (four times the concentration in bimatoprost 0.3 mg/ml eye drops), it should be used with caution in dry eye patients, in patients where the cornea may be compromised and in patients taking multiple BAK-containing eye drops.
@@ -50,14 +53,14 @@ There have been reports of bacterial keratitis associated with the use of multip
 These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent ocular disease.
 Patients with a disruption of the ocular epithelial surface are at greater risk of developing bacterial keratitis.
 
-The tip of the bottle should not be allowed to contact the eye, surrounding structures, fingers or any other surface in order to avoid contamination of the solution.
+Patients should be instructed to avoid allowing the tip of the dispensing container to contact the eye or surrounding structures, to avoid eye injury and contamination of the solution.
 
 [LUMIGAN 0.3 mg/ml eye drops, solution]
 
 Neither naevi nor freckles of the iris appears to be affected by the treatment.
 At 12 months, the incidence of iris pigmentation with bimatoprost 0.3mg/ml was 1.5% (see section 4.8) and did not increase following 3 years treatment.
 
-Cystoid macular oedema has been uncommonly reported (≥1/1000 to <1/100) following treatment with bimatoprost 0.3 mg/ml eye drops.
+Cystoid macular oedema has been uncommonly reported (≥1/1,000 to <1/100) following treatment with bimatoprost 0.3 mg/ml eye drops.
 
 Patients using LUMIGAN with other prostanglandim analogues should be monitored for changes to their intraocular pressure.
 
@@ -66,11 +69,10 @@ Since LUMIGAN contains benzalkonium chloride, monitoring is required with freque
 
 [LUMIGAN 0.3 mg/mL eye drops, solution, in single-dose container]
 
-Typically, the brown pigmentation around the pupil spreds concentrically towards the periphery of the iris and the entire iris or parts become more brownish.
 At 3 months, the incidence of iris hyperpigmentation with bimatoprost 0.3 mg/mL single dose was 0.3%.
 At 12 months, the incidence of iris pigmentation with bimatoprost 0.3 mg/mL (multi-dose formulation) was 1.5% (see section 4.8) and did not increase following 3 years treatment.
 
-Cystoid macular oedema has been uncommonly reported (≥1/1000 to <1/100) following treatment with bimatoprost 0.3 mg/mL eye drops (multi-dose formulation).
+Cystoid macular oedema has been uncommonly reported (≥1/1,000 to <1/100) following treatment with bimatoprost 0.3 mg/mL eye drops (multi-dose formulation).
 
 There have been rare spontaneous reports of reactivation of previous corneal infiltrates or ocular infections with bimatoprost 0.3 mg/mL eye drops, solution (multi-dose formulation).
 

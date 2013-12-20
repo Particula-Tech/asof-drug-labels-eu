@@ -8,4 +8,4 @@ EU/1/02/205/001-002
 
 [LUMIGAN 0.3 mg/mL eye drops, solution, in single-dose container]
 
-EU/1/02/205/005-006
+EU/1/02/205/005-007

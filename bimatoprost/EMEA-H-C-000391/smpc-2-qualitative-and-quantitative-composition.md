@@ -2,7 +2,7 @@
 
 One ml of solution contains 0.1 mg bimatoprost.
 
-Excipient:
+Excipient with known effect:
 One ml of solution contains 0.2 mg benzalkonium chloride.
 
 For the full list of excipients, see section 6.1.

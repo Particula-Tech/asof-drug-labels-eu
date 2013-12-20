@@ -10,11 +10,9 @@
 
 [LUMIGAN 0.3 mg/mL eye drops, solution, in single-dose container]
 
-30 single dose containers in a tray
-18 months
-Once the tray is opened, the single dose containers should be used within 30 days
-
-5 single dose containers in a carton
-12 months
+5 pack – 12 months
+30 pack – 18 months
+90 pack – 18 months
+Once the tray is opened, the single dose containers should be used within 30 days.
 
 Discard the opened single-dose container immediately after use.

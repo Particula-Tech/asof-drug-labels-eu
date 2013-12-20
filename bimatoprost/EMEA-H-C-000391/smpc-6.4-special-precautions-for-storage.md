@@ -8,5 +8,6 @@ This medicinal product does not require any special storage conditions.
 
 [LUMIGAN 0.3 mg/mL eye drops, solution, in single-dose container]
 
-Single dose containers in the tray: No special requirements for storage.
-Single dose containers in the carton: Do not store above 25°C.
+5 pack - Do not store above 25°C
+30 pack - No special requirements for storage
+90 pack - No special requirements for storage
