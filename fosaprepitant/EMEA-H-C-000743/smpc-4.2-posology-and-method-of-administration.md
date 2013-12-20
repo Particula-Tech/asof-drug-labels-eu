@@ -35,7 +35,7 @@ For additional information on the co-administration with corticosteroids, see se
 Refer to the Summary of Product Characteristics of co-administered 5-HT3 antagonist medicinal products.
 
 Special populations
-Elderly (≥65 years)
+Older people (≥65 years)
 No dose adjustment is necessary for the elderly (see section 5.2).
 
 Gender

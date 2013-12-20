@@ -24,8 +24,9 @@ Dexamethasone: The oral dexamethasone dose on Days 1 and 2 should be reduced by 
 Fosaprepitant 150 mg administered as a single intravenous dose on Day 1 increased the AUC0-24hr of dexamethasone, a CYP3A4 substrate, by 100 % on Day 1 86 % on Day 2 and 18 % on Day 3 when dexamethasone was co-administered as a single 8 mg oral dose on Days 1, 2, and 3.
 Chemotherapeutic medicinal products
 Interaction studies with fosaprepitant 150 mg and chemotherapeutic medicinal products have not been conducted; however, based on studies with oral aprepitant and docetaxel and vinorelbine, IVEMEND 150 mg is not expected to have a clinically relevant interaction with intravenously administered docetaxel and vinorelbine.
-An interaction with orally administered chemotherapeutic medicinal products metabolised primarily or in part by CYP3A4 (e.g. etoposide, vinorelbine) cannot be excluded.
-Caution is advised and additional monitoring may be appropriate in patients receiving such medicinal products (see section 4.4).
+An interaction with orally administered chemotherapeutic medicinal products metabolised primarily or partly by CYP3A4 (e.g. etoposide, vinorelbine) cannot be excluded.
+Caution is advised and additional monitoring may be appropriate in patients receiving medicinal products metabolized primarily or partly by CYP3A4 (see section 4.4).
+Post-marketing events of neurotoxicity, a potential adverse reaction of ifosfamide, have been reported after aprepitant and ifosfamide coadministration.
 
 Immunosuppressants
 Following a single 150 mg fosaprepitant dose, a transient moderate increase for two days possibly followed by a mild decrease in exposure of immunosuppressants metabolised by CYP3A4 (e.g. cyclosporine, tacrolimus, everolimus and sirolimus) is expected.
