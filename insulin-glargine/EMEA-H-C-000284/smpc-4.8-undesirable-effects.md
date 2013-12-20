@@ -57,6 +57,12 @@ In general, the safety profile for children and adolescents (≤18 years of age)
 The adverse reaction reports received from post marketing surveillance included relatively more frequent injection site reactions (injection site pain, injection site reaction) and skin reactions (rash, urticaria) in children and adolescents (≤18 years of age) than in adults.
 Clinical study safety data are not available for children under 2 years.
 
+Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
 [Lantus 100 units/ml solution for injection in a cartridge.]
 
 (all sentences already above)
@@ -79,4 +85,4 @@ Clinical study safety data are not available for children under 2 years.
 
 [Lantus SoloStar 100 units/ml solution for injection in a pre-filled pen]
 
-Clinical study safety data are not available for children under2 years.
+(all sentences already above)

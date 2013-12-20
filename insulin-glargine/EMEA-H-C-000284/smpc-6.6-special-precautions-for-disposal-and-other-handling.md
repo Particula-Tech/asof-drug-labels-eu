@@ -10,7 +10,7 @@ Insulin label must always be checked before each injection to avoid medication e
 [Lantus 100 units/ml solution for injection in a cartridge.]
 
 Insulin pen
-The Lantus cartridges are to be used only in conjunction with OptiPen, ClikSTAR, Autopen 24 or Tactipen (see section 4.4).
+The Lantus cartridges are to be used only in conjunction with the pens: OptiPen, ClikSTAR, Autopen 24, Tactipen or AllStar (see section 4.4).
 Not all of these pens may be marketed in your country.
 
 The pen should be used as recommended in the information provided by the device manufacturer.
@@ -20,6 +20,7 @@ The manufacturer’s instructions for using the pen must be followed carefully f
 If the insulin pen is damaged or not working properly (due to mechanical defects) it has to be discarded, and a new insulin pen has to be used.
 
 If the pen malfunctions (see instructions for using the pen), the solution may be drawn from the cartridge into a syringe (suitable for an insulin with 100 units/ml) and injected.
+
 Cartridge
 Before insertion into the pen, the cartridge must be stored at room temperature for 1 to 2 hours.
 Inspect the cartridge before use.
@@ -33,9 +34,6 @@ The cartridges for OptiClik are to be used in conjunction with OptiClik only and
 If OptiClik is damaged or not working properly (due to mechanical defects) it has to be discarded, and a new OptiClik has to be used.
 
 It must only be used if the cartridge is intact and the solution is clear, colourless, with no solid particles visible, and if it is of water-like consistency.
-
-Insulin label must always be checked before each injection to avoid medication errors between insulin glargine and other insulins.
-(see section 4.4)
 
 [Lantus OptiSet 100 units/ml solution for injection in a pre-filled pen]
 
@@ -186,8 +184,8 @@ Important information for use of SoloStar:
 - The patient must always have a spare SoloStar available in case the SoloStar is lost or damaged.
 
 Please check section 6.4 of this SPC for instructions on how to store SoloStar.
-If SoloStar is in cool storage, it should be taken out 1 to 2 hours before injection to allow it to warm up.
 
+If SoloStar is in cool storage, it should be taken out 1 to 2 hours before you inject to allow it to warm up.
 The used SoloStar must be discarded as required by your local authorities.
 
 SoloStar has to be protected from dust and dirt.

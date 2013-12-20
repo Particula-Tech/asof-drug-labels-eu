@@ -5,8 +5,8 @@ Concentrations were thus consistent with the time profile of the pharmacodynamic
 The graph above shows the activity profiles over time of insulin glargine and NPH insulin.
 
 Insulin glargine injected once daily will reach steady state levels in 2-4 days after the first dose.
-When given intravenously the elimination half-life of insulin glargine and human insulin were comparable.
 
+When given intravenously the elimination half-life of insulin glargine and human insulin were comparable.
 After subcutaneous injection of Lantus in diabetic patients, insulin glargine is rapidly metabolized at the carboxyl terminus of the Beta chain with formation of two active metabolites M1 (21A-Gly-insulin) and M2 (21A-Gly-des-30B-Thr-insulin).
 In plasma, the principal circulating compound is the metabolite M1.
 The exposure to M1 increases with the administered dose of Lantus.

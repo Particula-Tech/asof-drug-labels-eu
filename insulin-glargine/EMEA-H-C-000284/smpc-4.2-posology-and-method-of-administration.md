@@ -21,8 +21,7 @@ In patients with renal impairment, insulin requirements may be diminished due to
 Hepatic impairment
 In patients with hepatic impairment, insulin requirements may be diminished due to reduced capacity for gluconeogenesis and reduced insulin metabolism.
 Paediatric population
-Safety and efficacy of Lantus have been established in adolescents and children aged 2 years and older.
-(see section 5.1).
+Safety and efficacy of Lantus have been established in adolescents and children aged 2 years and older (see section 5.1).
 Lantus has not been studied in children below the age of 2 years.
 
 Transition from other insulins to Lantus

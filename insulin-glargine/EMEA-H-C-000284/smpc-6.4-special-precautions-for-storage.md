@@ -18,13 +18,14 @@ In use cartridges
 
 [Lantus 100 units/ml solution for injection in a cartridge for OptiClik.]
 
-For storage conditions after first opening of this medicinal product,, see section 6.3.
+(all sentences already above)
 
 [Lantus OptiSet 100 units/ml solution for injection in a pre-filled pen]
 
 Not in-use pens
 Keep the prefilled pen in the outer carton in order to protect from light.
 In-use pens
+For storage conditions after first opening of this medicinal product,, see section 6.3.
 
 [Lantus SoloStar 100 units/ml solution for injection in a pre-filled pen]
 
