@@ -3,15 +3,6 @@
 Treatment must be initiated and administered under the supervision of a physician qualified and experienced in the use of chemotherapeutic agents.
 VELCADE must be reconstituted by a healthcare professional.
 
-VELCADE 1 mg powder for solution for injection is available for intravenous administration only.
-VELCADE 3.5 mg powder for solution for injection is available for intravenous or subcutaneous administration.
-
-VELCADE should not be given by other routes.
-Intrathecal administration has resulted in death.
-
-At least 72 hours should elapse between consecutive doses of VELCADE.
-
-There are limited data concerning retreatment with VELCADE (see section 5.1).
 Posology for treatment of progressive multiple myeloma (patients who have received at least one prior therapy)
 Monotherapy
 VELCADE 1 mg powder for solution for injection is administered via intravenous injection at the recommended dose of 1.3 mg/m2 body surface area twice weekly for two weeks on days 1, 4, 8, and 11 in a 21-day treatment cycle.
@@ -19,7 +10,6 @@ This 3-week period is considered a treatment cycle.
 It is recommended that patients receive 2 cycles of VELCADE following a confirmation of a complete response.
 It is also recommended that responding patients who do not achieve a complete remission receive a total of 8 cycles of VELCADE therapy.
 At least 72 hours should elapse between consecutive doses of VELCADE.
-
 Dose adjustments during treatment and re-initiation of treatment for monotherapy
 VELCADE treatment must be withheld at the onset of any Grade 3 non-haematological or any
 Grade 4 haematological toxicities, excluding neuropathy as discussed below (see also section 4.4).
@@ -36,7 +26,7 @@ Table 1: Recommended* posology modifications for bortezomib-related neuropathy
 | --- | --- |
 | Grade 1 (asymptomatic; loss of deep tendon reflexes or paresthesia) with no pain or loss of function | None |
 | Grade 1 with pain or Grade 2 (moderate symptoms; limiting instrumental Activities of Daily Living (ADL)**) | Reduce VELCADE to 1.0 mg/m2 or Change VELCADE treatment schedule to 1.3 mg/m2 once per week |
-| Grade 2 with pain or Grade 3 (severe symptoms; limiting self care ADL***) | Withhold VELCADE treatment until symptoms of toxicity have resolved. When toxicity resolves re-initiate VELCADE treatment and reduce dose to 0.7 mg/m2 once per week |
+| Grade 2 with pain or Grade 3 (severe symptoms; limiting self care ADL***) | Withhold VELCADE treatment until symptoms of toxicity have resolved. When toxicity resolves re-initiate VELCADE treatment and reduce dose to 0.7 mg/m2 once per week. |
 | Grade 4 (life-threatening consequences; urgent intervention indicated) and/or severe autonomic neuropathy | Discontinue VELCADE |
 
 * Based on posology modifications in Phase II and III multiple myeloma studies and post-marketing experience.
@@ -44,17 +34,18 @@ Grading based on NCI Common Toxicity Criteria CTCAE v 4.0.
 ** Instrumental ADL: refers to preparing meals, shopping for groceries or clothes, using telephone, managing money, etc; ***Self care ADL: refers to bathing, dressing and undressing, feeding self, using the toilet, taking medicinal products, and not bedridden.
 
 Combination therapy with pegylated liposomal doxorubicin
-VELCADE 1 mg powder for solution for injection is administered via intravenous injection at the recommended dose of 1.3 mg/m2 body surface area twice weekly for two weeks on days 1, 4, 8, and 11 in a 21- day treatment cycle.
+VELCADE 1 mg powder for solution for injection is administered via intravenous injection at the recommended dose of 1.3 mg/m2 body surface area twice weekly for two weeks on days 1, 4, 8, and 11 in a 21-day treatment cycle.
 This 3-week period is considered a treatment cycle.
 At least 72 hours should elapse between consecutive doses of VELCADE.
 Pegylated liposomal doxorubicin is administered at 30 mg/m² on day 4 of the VELCADE treatment cycle as a 1 hour intravenous infusion administered after the VELCADE injection.
 Up to 8 cycles of this combination therapy can be administered as long as patients have not progressed and tolerate treatment.
 Patients achieving a complete response can continue treatment for at least 2 cycles after the first evidence of complete response, even if this requires treatment for more than 8 cycles.
 Patients whose levels of paraprotein continue to decrease after 8 cycles can also continue for as long as treatment is tolerated and they continue to respond.
+
 For additional information concerning pegylated liposomal doxorubicin, see the corresponding
 
 Combination with dexamethasone
-VELCADE 1 mg powder for solution for injection is administered via intravenous injection at the recommended dose of 1.3 mg/m2 body surface area twice weekly for two weeks on days 1, 4, 8, and 11 in a 21-day treatment cycle.
+VELCADE 1 mg powder for solution for injection is administered via intravenous injection at the recommended dose of 1.3 mg/m2 body surface area twice weekly for two weeks on days 1, 4, 8, and 11 in a 21 day treatment cycle.
 This 3-week period is considered a treatment cycle.
 At least 72 hours should elapse between consecutive doses of VELCADE.
 Dexamethasone is administered orally at 20 mg on days 1, 2, 4, 5, 8, 9, 11, and 12 of the VELCADE treatment cycle.
@@ -100,9 +91,9 @@ Table 3: Posology modifications during subsequent cycles of VELCADE therapy in c
 
 | Toxicity | Posology modification or delay |
 | --- | --- |
-| Haematological toxicity during a cycle • If prolonged Grade 4 neutropenia or thrombocytopenia, or thrombocytopenia with bleeding is observed in the previous cycle | Consider reduction of the melphalan dose by 25% in the next cycle. |
-| • If platelet counts ≤30 x 109/l or ANC ≤0.75 x 109/l on a VELCADE dosing day (other than Day 1) | VELCADE therapy should be withheld |
-| • If several VELCADE doses in a cycle are withheld (≥3 doses during twice weekly administration or ≥2 doses during weekly administration) | VELCADE dose should be reduced by 1 dose level (from 1.3 mg/m2 to 1 mg/m2, or from 1 mg/m2 to 0.7 mg/m2) |
+| Haematological toxicity during a cycle ●If prolonged Grade 4 neutropenia or thrombocytopenia, or thrombocytopenia with bleeding is observed in the previous cycle | Consider reduction of the melphalan dose by 25% in the next cycle. |
+| ●If platelet counts ≤30 x 109/l or ANC ≤0.75 x 109/l on a VELCADE dosing day (other than day 1) | VELCADE therapy should be withheld |
+| ●If several VELCADE doses in a cycle are withheld (≥3 doses during twice weekly administration or ≥2 doses during weekly administration) | VELCADE dose should be reduced by 1 dose level (from 1.3 mg/m2 to 1 mg/m2, or from 1 mg/m2 to 0.7 mg/m2) |
 | Grade ≥3 non-haematological toxicities | VELCADE therapy should be withheld until symptoms of the toxicity have resolved to Grade 1 or baseline. Then, VELCADE may be reinitiated with one dose level reduction (from 1.3 mg/m2 to 1 mg/m2, or from 1 mg/m2 to 0.7 mg/m2). For VELCADE-related neuropathic pain and/or peripheral neuropathy, hold and/or modify VELCADE as outlined in Table 1. |
 
 For additional information concerning melphalan and prednisone, see the corresponding Summary of Product Characteristics.
@@ -116,7 +107,7 @@ Dexamethasone is administered orally at 40 mg on days 1, 2, 3, 4, 8, 9, 10 and 1
 Four treatment cycles of this combination therapy are administered.
 
 Combination therapy with dexamethasone and thalidomide
-VELCADE 1 mg powder for solution for injection is administered via intravenous injection at the recommended dose of 1.3 mg/m2 body surface area twice weekly for two weeks on days 1, 4, 8, and 11 in a 28-day treatment cycle.
+VELCADE 1 mg powder for solution for injection is administered via intravenous injection at the recommended dose of 1.3 mg/m2 body surface area twice weekly for two weeks on days 1, 4, 8, and 11 in a 28 day treatment cycle.
 This 4-week period is considered a treatment cycle.
 At least 72 hours should elapse between consecutive doses of VELCADE.
 Dexamethasone is administered orally at 40 mg on days 1, 2, 3, 4, 8, 9, 10 and 11 of the VELCADE treatment cycle.
@@ -126,23 +117,21 @@ It is recommended that patients with at least partial response receive 2 additio
 
 Table 4: Posology for VELCADE combination therapy for patients with previously untreated multiple myeloma eligible for haematopoietic stem cell transplantation
 
-| Vc+ Dx | Cycles 1 to 4 |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | Week | 1 | 2 | 3 |
-|  | Vc (1.3 mg/m2) | Day 1, 4 | Day 8, 11 | Rest Period |
-|  | Dx 40 mg | Day 1, 2, 3, 4 | Day 8, 9, 10, 11 | - |
-
-| Vc+Dx+T | Cycle 1 |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Week | 1 | 2 | 3 | 4 |
-|  | Vc (1.3 mg/m2) | Day 1, 4 | Day 8, 11 | Rest Period | Rest Period |
-|  | T 50 mg | Daily | Daily | - | - |
-|  | T 100 mga | - | - | Daily | Daily |
-|  | Dx 40 mg | Day 1, 2, 3, 4 | Day 8, 9, 10, 11 | - | - |
-|  | Cycles 2 to 4b |  |  |  |  |
-|  | Vc (1.3 mg/m2) | Day 1, 4 | Day 8, 11 | Rest Period | Rest Period |
-|  | T 200 mga | Daily | Daily | Daily | Daily |
-|  | Dx 40 mg | Day 1, 2, 3, 4 | Day 8, 9, 10, 11 | - | - |
+| Vc+ Dx | Cycles 1 to 4 |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Week | 1 |  | 2 |  | 3 |  |
+|  | Vc (1.3 mg/m2) | Day 1, 4 |  | Day 8, 11 |  | Rest Period |  |
+|  | Dx 40 mg | Day 1, 2, 3, 4 |  | Day 8, 9, 10, 11 |  | - |  |
+| Vc+Dx+T | Cycle 1 |  |  |  |  |  |  |
+|  | Week | 1 | 2 |  | 3 |  | 4 |
+|  | Vc (1.3 mg/m2) | Day 1, 4 | Day 8, 11 |  | Rest Period |  | Rest Period |
+|  | T 50 mg | Daily | Daily |  | - |  | - |
+|  | T 100 mga | - | - |  | Daily |  | Daily |
+|  | Dx 40 mg | Day 1, 2, 3, 4 | Day 8, 9, 10, 11 |  | - |  | - |
+|  | Cycles 2 to 4b |  |  |  |  |  |  |
+|  | Vc (1.3 mg/m2) | Day 1, 4 | Day 8, 11 |  | Rest Period |  | Rest Period |
+|  | T 200 mga | Daily | Daily |  | Daily |  | Daily |
+|  | Dx 40 mg | Day 1, 2, 3, 4 | Day 8, 9, 10, 11 |  | - |  | - |
 
 Vc=VELCADE; Dx=dexamethasone; T=thalidomide a Thalidomide dose is increased to 100 mg from week 3 of Cycle 1 only if 50 mg is tolerated and to 200 mg from cycle 2 onwards if 100 mg is tolerated.
 b Up to 6 cycles may be given to patients who achieve at least a partial response after 4 cycles
@@ -152,6 +141,13 @@ For VELCADE dosage adjustments for neuropathy refer to Table 1.
 In addition, when VELCADE is given in combination with other chemotherapeutic medicinal products, appropriate dose reductions for these products should be considered in the event of toxicities according to the recommendations in the Summary of Product Characteristics.
 
 Special populations
+
+Elderly
+There is no evidence to suggest that dose adjustments are necessary in patients over 65 years of age.
+
+There are no studies on the use of VELCADE in elderly patients with previously untreated multiple myeloma who are eligible for high-dose chemotherapy with haematopoietic stem cell transplantation.
+Therefore no dose recommendations can be made in this population.
+
 Hepatic impairment
 Patients with mild hepatic impairment do not require a dose adjustment and should be treated per the recommended dose.
 Patients with moderate or severe hepatic impairment should be started on VELCADE at a reduced dose of 0.7 mg/m2 per injection during the first treatment cycle, and a subsequent dose escalation to 1.0 mg/m2 or further dose reduction to 0.5 mg/m2 may be considered based on patient tolerability (see Table 5 and sections 4.4 and 5.2).
@@ -174,15 +170,18 @@ The pharmacokinetics of bortezomib are not influenced in patients with mild to m
 It is unknown if the pharmacokinetics of bortezomib are influenced in patients with severe renal impairment not undergoing dialysis (CrCL < 20 ml/min/1.73 m2).
 Since dialysis may reduce bortezomib concentrations, VELCADE should be administered after the dialysis procedure (see section 5.2).
 
-Older people
-There is no evidence to suggest that dose adjustments are necessary in patients over 65 years of age.
-There are no studies on the use of VELCADE in elderly patients with previously untreated multiple myeloma who are eligible for high-dose chemotherapy with haematopoietic stem cell transplantation.
-Therefore no dose recommendations can be made in this population.
-
 Paediatric population
 The safety and efficacy of VELCADE in children below 18 years of age have not been established (see sections 5.1 and 5.2).
-
+No data are available.
 Method of administration
+
+VELCADE 1 mg powder for solution for injection is available for intravenous administration only.
+
+VELCADE 3.5 mg powder for solution for injection is available for intravenous or subcutaneous administration.
+
+VELCADE should not be given by other routes.
+Intrathecal administration has resulted in death.
+
 Intravenous injection
 VELCADE 1 mg powder for solution for injection is for intravenous administration only.
 The reconstituted solution is administered as a 3-5 second bolus intravenous injection through a peripheral or central intravenous catheter followed by a flush with sodium chloride 9 mg/ml (0.9%) solution for injection.
@@ -192,9 +191,11 @@ At least 72 hours should elapse between consecutive doses of VELCADE.
 
 VELCADE 3.5 mg powder for solution for injection is administered via intravenous or subcutaneous injection at the recommended dose of 1.3 mg/m2 body surface area twice weekly for two weeks on days 1, 4, 8, and 11 in a 21-day treatment cycle.
 
+VELCADE 3.5 mg powder for solution for injection is administered via intravenous or subcutaneous injection at the recommended dose of 1.3 mg/m2 body surface area twice weekly for two weeks on days 1, 4, 8, and 11 in a 21 day treatment cycle.
+
 VELCADE 3.5 mg powder for solution for injection is administered via intravenous or subcutaneous injection in combination with oral melphalan and oral prednisone as shown in Table 2.
 
-VELCADE 3.5 mg powder for solution for injection is administered via intravenous or subcutaneous injection at the recommended dose of 1.3 mg/m2 body surface area twice weekly for two weeks on days 1, 4, 8, and 11 in a 28- day treatment cycle.
+VELCADE 3.5 mg powder for solution for injection is administered via intravenous or subcutaneous injection at the recommended dose of 1.3 mg/m2 body surface area twice weekly for two weeks on days 1, 4, 8, and 11 in a 28-day treatment cycle.
 
 VELCADE 3.5 mg reconstituted solution is administered as a 3-5 second bolus intravenous injection through a peripheral or central intravenous catheter followed by a flush with sodium chloride 9 mg/ml (0.9%) solution for injection.
 

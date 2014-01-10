@@ -12,13 +12,13 @@ VELCADE should not be used during pregnancy unless the clinical condition of the
 If VELCADE is used during pregnancy, or if the patient becomes pregnant while receiving this medicinal product, the patient should be informed of potential for hazard to the foetus.
 
 Thalidomide is a known human teratogenic active substance that causes severe life-threatening birth defects.
-Thalidomide is contraindicated during pregnancy and in women of childbearing potential unless all the conditions of the Thalidomide Celgene Pregnancy Prevention Programme are met.
+Thalidomide is contraindicated during pregnancy and in women of childbearing potential unless all the conditions of the thalidomide pregnancy prevention programme are met.
 Patients receiving VELCADE in combination with thalidomide should adhere to the pregnancy prevention programme of thalidomide.
 Refer to the Summary of Product Characteristics of thalidomide for additional information.
 
 Breast-feeding
 It is not known whether bortezomib is excreted in human milk.
-Because of the potential for serious undesirable effects in breast-fed infants, lactation should be discontinued during treatment with VELCADE.
+Because of the potential for serious adverse reactions in breast-fed infants, breast-feeding should be discontinued during treatment with VELCADE.
 
 Fertility
 Fertility studies were not conducted with VELCADE (see section 5.3).

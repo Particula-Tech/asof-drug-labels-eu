@@ -16,7 +16,7 @@ Therefore, patients who experience constipation should be closely monitored.
 Haematological toxicity
 VELCADE treatment is very commonly associated with haematological toxicities (thrombocytopenia, neutropenia and anaemia).
 In the Phase III study evaluating VELCADE (injected intravenously) versus dexamethasone, the most common haematologic toxicity was transient thrombocytopenia.
-In a Phase II study, platelets were lowest at Day 11 of each cycle of VELCADE treatment.
+In a Phase II study, platelets were lowest at day 11 of each cycle of VELCADE treatment.
 There was no evidence of cumulative thrombocytopenia, including in the Phase II extension study.
 The mean platelet count nadir measured was approximately 40% of baseline.
 In patients with advanced myeloma the severity of thrombocytopenia was related to pre-treatment platelet count: for baseline platelet counts < 75,000/μl, 90% of 21 patients had a count ≤25,000/μl during the study, including 14%
@@ -59,7 +59,7 @@ Special care is required when treating patients with any risk factors for seizur
 
 Hypotension
 VELCADE treatment is commonly associated with orthostatic/postural hypotension.
-Most undesirable effects are mild to moderate in nature and are observed throughout treatment.
+Most adverse reactions are mild to moderate in nature and are observed throughout treatment.
 Patients who developed orthostatic hypotension on VELCADE (injected intravenously) did not have evidence of orthostatic hypotension prior to treatment with VELCADE.
 Most patients required treatment for their orthostatic hypotension.
 A minority of patients with orthostatic hypotension experienced syncopal events.

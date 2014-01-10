@@ -2,8 +2,8 @@
 
 Summary of the safety profile
 
-The most commonly reported adverse reactions during treatment with VELCADE are nausea, diarrhoea, constipation, vomiting, fatigue, pyrexia, thrombocytopenia, anaemia, neutropenia, peripheral neuropathy (including sensory), headache, paraesthesia, decreased appetite, dyspnoea, rash, herpes zoster and myalgia.
 Serious adverse reactions uncommonly reported during treatment with VELCADE include cardiac failure, tumour lysis syndrome, pulmonary hypertension, posterior reversible encephalopathy syndrome, acute diffuse infiltrative pulmonary disorders and rarely autonomic neuropathy.
+The most commonly reported adverse reactions during treatment with VELCADE are nausea, diarrhoea, constipation, vomiting, fatigue, pyrexia, thrombocytopenia, anaemia, neutropenia, peripheral neuropathy (including sensory), headache, paraesthesia, decreased appetite, dyspnoea, rash, herpes zoster and myalgia.
 
 Tabulated summary of adverse reactions
 
@@ -72,8 +72,8 @@ Table 6: Adverse reactions in patients treated with VELCADE as single agent or i
 |  | Common | Muscle spasms*, Pain in extremity, Muscular weakness |
 |  | Uncommon | Muscle twitching, Joint swelling, Arthritis*, Joint stiffness, Myopathies*,Sensation of heaviness |
 |  | Rare | Rhabdomyolysis, Temporomandibular joint syndrome, Fistula, Joint effusion, Pain in jaw, Bone disorder, Musculoskeletal and connective tissue infections and inflammations*, Synovial cyst |
-| Renal and urinary disorders | Common | Renal impairment* |
-|  | Uncommon | Renal failure acute, Renal failure chronic*, Urinary tract infection*, Urinary tract signs and symptoms*, Haematuria*, Urinary retention, Micturition disorder*, Proteinuria, Azotaemia, Oliguria*, Pollakiuria |
+| Renal and urinary | Common | Renal impairment* |
+| disorders | Uncommon | Renal failure acute, Renal failure chronic*, Urinary tract infection*, Urinary tract signs and symptoms*, Haematuria*, Urinary retention, Micturition disorder*, Proteinuria, Azotaemia, Oliguria*, Pollakiuria |
 |  | Rare | Bladder irritation |
 | Reproductive system and breast disorders | Uncommon | Vaginal haemorrhage, Genital pain*, Erectile dysfunction, |
 |  | Rare | Testicular disorder*, Prostatitis, Breast disorder female, Epididymal tenderness, Epididymitis, Pelvic pain, Vulval ulceration |
@@ -92,6 +92,7 @@ Table 6: Adverse reactions in patients treated with VELCADE as single agent or i
 NOS=not otherwise specified
 * Grouping of more than one MedDRA preferred term.
 # Postmarketing adverse reaction
+
 Description of selected adverse reactions
 Herpes zoster virus reactivation
 Antiviral prophylaxis was administered to 26% of the patients in the Vc+M+P arm.
@@ -99,7 +100,6 @@ The incidence of herpes zoster among patients in the Vc+M+P treatment group was 
 
 Peripheral neuropathy in combination regimens
 In trials in which VELCADE was administered as induction treatment in combination with dexamethasone (study IFM-2005-01), and dexamethasone- thalidomide (study MMY-3010), the incidence of peripheral neuropathy in the combination regimens is presented in the table below:
-
 Table 7: Incidence of peripheral neuropathy during induction treatment by toxicity and treatment discontinuation due to peripheral neuropathy
 
 IFM-2005-01 MMY-3010
@@ -144,7 +144,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 | Metabolism and nutrition disorders | Very Common | Decreased appetite |
 |  | Common | Dehydration, Hypokalaemia*, Hyponatraemia*, Blood glucose abnormal*, Hypocalcaemia*, Enzyme abnormality* |
 |  | Uncommon | Tumour lysis syndrome, Failure to thrive*, Hypomagnesaemia*, Hypophosphataemia*, Hyperkalaemia*, Hypercalcaemia*, Hypernatraemia*, Uric acid abnormal*, Diabetes mellitus*, Fluid retention |
-|  | Rare | Hypermagnesaemia*, Acidosis, Electrolyte imbalance*, Fluid overload, Hypochloraemia*, Hypovolaemia, Hyperchloraemia*, Hyperphosphataemia*, Metabolic disorder, Vitamin B complex deficiency, Vitamin B12 deficiency, Gout, Increased appetite, Alcohol intolerance |
+|  | Rare | Hypermagnesaemia*, Acidosis, Electrolyte imbalance*, Fluid overload, Hypochloraemia*, Hypovolaemia, Hyperchloraemia *, Hyperphosphataemia*, Metabolic disorder, Vitamin B complex deficiency, Vitamin B12 deficiency, Gout, Increased appetite, Alcohol intolerance |
 | Psychiatric disorders | Common | Mood disorders and disturbances*, Anxiety disorder*, Sleep disorders and disturbances* |
 |  | Uncommon | Mental disorder*, Hallucination*, Psychotic disorder*, Confusion*, Restlessness |
 |  | Rare | Suicidal ideation*, Adjustment disorder, Delirium, Libido decreased |
@@ -193,9 +193,12 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 | Investigations | Common | Weight decreased |
 |  | Uncommon | Hyperbilirubinaemia*, Protein analyses abnormal*, Weight increased, Blood test abnormal*,C-reactive protein increased |
 |  | Rare | Blood gases abnormal*, Electrocardiogram abnormalities (inc QT prolongation)*, International normalised ratio abnormal*, Gastric pH decreased, Platelet aggregation increased, Troponin I increased, Virus identification and serology*, Urine analysis abnormal* |
-| Injury, poisoning | Uncommon | Fall, Contusion |
-| and procedural complications | Rare | Transfusion reaction, Fractures*, Rigors*, Face injury, Joint injury*, Burns, Laceration, Procedural pain, Radiation injuries* |
+| Injury, poisoning and procedural complications | Uncommon | Fall, Contusion |
+|  | Rare | Transfusion reaction, Fractures*, Rigors*, Face injury, Joint injury*, Burns, Laceration, Procedural pain, Radiation injuries* |
 | Surgical and medical procedures | Rare | Macrophage activation |
+
+System Organ
+Class Incidence Adverse reaction
 
 Notable differences in the safety profile of VELCADE administered subcutaneously versus intravenously as single agent
 In the Phase III study patients who received VELCADE subcutaneously compared to intravenous administration had 13% lower overall incidence of treatment emergent adverse reactions that were Grade 3 or higher in toxicity, and a 5% lower incidence of discontinuation of VELCADE.

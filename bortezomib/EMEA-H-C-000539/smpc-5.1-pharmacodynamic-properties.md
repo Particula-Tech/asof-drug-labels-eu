@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antineoplastic agents, other antineoplastic agents, ATC code: L01XX32.
+
 Mechanism of action
 Bortezomib is a proteasome inhibitor.
 It is specifically designed to inhibit the chymotrypsin-like activity of the 26S proteasome in mammalian cells.
@@ -77,11 +78,12 @@ A hazard ratio less than 1 indicates an advantage for VMP c Nominal p-value base
 EBMT criteria g All randomised patients with secretory disease
 * Survival update based on a median duration of follow-up at 60.1 months mo: months
 CI=Confidence Interval
+
 Patients eligible for stem cell transplantation
 Two randomised, open-label, multicenter Phase III trials (IFM-2005-01, MMY-3010) were conducted to demonstrate the safety and efficacy of VELCADE in dual and triple combinations with other chemotherapeutic agents, as induction therapy prior to stem cell transplantation in patients with previously untreated multiple myeloma.
 
 In study IFM-2005-01 VELCADE combined with dexamethasone [VcDx, n=240] was compared to vincristine- doxorubicin-dexamethasone [VDDx, n=242].
-Patients in the VcDx group received four 21-day cycles, each consisting of VELCADE (1.3 mg/m2 administered intravenously twice weekly on days 1, 4, 8, and 11), and oral dexamethasone (40 mg/day on days 1 to 4 and days 9 to 12, in Cycles 1 and 2, and on days 1 to 4 in Cycles 3 and 4).
+Patients in the VcDx group received four 21 day cycles, each consisting of VELCADE (1.3 mg/m2 administered intravenously twice weekly on days 1, 4, 8, and 11), and oral dexamethasone (40 mg/day on days 1 to 4 and days 9 to 12, in Cycles 1 and 2, and on days 1 to 4 in Cycles 3 and 4).
 Autologous stem cell transplants were received by 198 (82%) patients and 208 (87%) patients in the VDDx and VcDx groups respectively; the majority of patients underwent one single transplant procedure.
 Patient demographic and baseline disease charateristics were similar between the treatment groups.
 Median age of the patients in the study was 57 years, 55% were male and 48% of patients had high-risk cytogenetics.
@@ -123,6 +125,7 @@ Table 10: Efficacy results from study MMY-3010
 | --- | --- | --- | --- |
 | MMY-3010 | N=130 (ITT population) | N=127 (ITT population) |  |
 | *RR (Post-induction) CR+nCR CR+nCR+PR % (95% CI) | 49.2 (40.4, 58.1) 84.6 (77.2, 90.3) | 17.3 (11.2, 25.0) 61.4 (52.4, 69.9) | 4.63 (2.61, 8.22); < 0.001a 3.46 (1.90, 6.27); < 0.001a |
+| MMY-3010 | N=130 (ITT population) | N=127 (ITT population) |  |
 | *RR (Post-transplant) CR+nCR CR+nCR+PR % (95% CI) | 55.4 (46.4, 64.1) 77.7 (69.6, 84.5) | 34.6 (26.4, 43.6) 56.7 (47.6, 65.5) | 2.34 (1.42, 3.87); 0.001a 2.66 (1.55, 4.57); < 0.001a |
 
 CI=confidence interval; CR=complete response; nCR=near complete response; ITT=intent to treat; RR=response rate; Vc=VELCADE; VcTDx=VELCADE, thalidomide, dexamethasone; TDx=thalidomide, dexamethasone; PR=partial response; OR=odds ratio
@@ -146,6 +149,7 @@ The median survival of all patients enrolled was 17 months (range < 1 to 36+ mon
 This survival was greater than the six-to-nine month median survival anticipated by consultant clinical investigators for a similar patient population.
 By multivariate analysis, the response rate was independent of myeloma type, performance status, chromosome 13 deletion status, or the number or type of previous therapies.
 Patients who had received 2 to 3 prior therapeutic regimens had a response rate of 32% (10/32) and patients who received greater than 7 prior therapeutic regimens had a response rate of 31% (21/67).
+
 Table 11: Summary of disease outcomes from the Phase III (APEX) and Phase II studies
 
 |  | Phase III |  | Phase III |  | Phase III |  | Phase II |
@@ -154,11 +158,12 @@ Table 11: Summary of disease outcomes from the Phase III (APEX) and Phase II stu
 | Time related events | Vc n=333a | Dex n=336a | Vc n=132a | Dex n=119a | Vc n=200a | Dex n=217a | Vc n=202a |
 | TTP, days [95% CI] | 189b [148, 211] | 106b [86, 128] | 212d [188, 267] | 169d [105, 191] | 148b [129, 192] | 87b [84, 107] | 210 [154, 281] |
 | 1 year survival, % [95% CI] | 80d [74,85] | 66d [59,72] | 89d [82,95] | 72d [62,83] | 73 [64,82] | 62 [53,71] | 60 |
+|  | All patients |  | 1 prior line of therapy |  | > 1 prior line of therapy |  | ≥2 prior lines |
 | Best response (%) | Vc n=315c | Dex n=312c | Vc n=128 | Dex n=110 | Vc n=187 | Dex n=202 | Vc n=193 |
 | CR | 20 (6)b | 2 (< 1)b | 8 (6) | 2 (2) | 12 (6) | 0 (0) | (4)** |
 | CR+nCR | 41 (13)b | 5 (2)b | 16 (13) | 4 (4) | 25 (13) | 1 (< 1) | (10)** |
 | CR+nCR+PR | 121 (38)b | 56 (18)b | 57 (45)d | 29 (26)d | 64 (34)b | 27 (13)b | (27)** |
-| CR+nCR+PR+M R | 146 (46) | 108 (35) | 66 (52) | 45 (41) | 80 (43) | 63 (31) | (35)** |
+| CR+nCR+ PR+MR | 146 (46) | 108 (35) | 66 (52) | 45 (41) | 80 (43) | 63 (31) | (35)** |
 | Median duration Days (months) | 242 (8.0) | 169 (5.6) | 246 (8.1) | 189 (6.2) | 238 (7.8) | 126 (4.1) | 385* |
 | Time to response CR+PR (days) | 43 | 43 | 44 | 46 | 41 | 27 | 38* |
 
@@ -166,7 +171,7 @@ a
 Intent to Treat (ITT) population b p-value from the stratified log-rank test; analysis by line of therapy excludes stratification for therapeutic history; p < 0.0001 c
 Response population includes patients who had measurable disease at baseline and received at least 1 dose of study medicinal product.
 d p-value from the Cochran-Mantel-Haenszel chi-square test adjusted for the stratification factors; analysis by line of therapy excludes stratification for therapeutic history
-* CR+PR+MR**CR=CR, (IF-); nCR=CR (IF+)
+* CR+PR+MR **CR=CR, (IF-); nCR=CR (IF+)
 NA=not applicable, NE=not estimated
 TTP-Time to Progression
 CI=Confidence Interval
@@ -186,6 +191,7 @@ A protocol-defined interim analysis (based on 249 TTP events) triggered early st
 This interim analysis showed a TTP risk reduction of 45 % (95 % CI; 29-57 %, p < 0.0001) for patients treated with combination therapy of VELCADE and pegylated liposomal doxorubicin.
 The median TTP was 6.5 months for the VELCADE monotherapy patients compared with 9.3 months for the VELCADE plus pegylated liposomal doxorubicin combination therapy patients.
 These results, though not mature, constituted the protocol defined final analysis.
+
 VELCADE combination treatment with dexamethasone
 In the absence of any direct comparison between VELCADE and VELCADE in combination with dexamethasone in patients with progressive multiple myeloma, a statistical matched-pair analysis was conducted to compare results from the non randomised arm of VELCADE in combination with dexamethasone (Phase II open-label study MMY-2045), with results obtained in the VELCADE monotherapy arms from different Phase III randomised studies (M34101-039 [APEX] and DOXIL MMY-3001) in the same indication.
 The matched-pair analysis is a statistical method in which patients in the treatment group (e.g. VELCADE in combination with dexamethasone) and patients in the comparison group (e.g. VELCADE) are made comparable with respect to confounding factors by individually pairing study subjects.
@@ -212,6 +218,20 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 [VELCADE 3.5 mg powder for solution for injection]
 
+| Endpoints | VcDx | VDDx | OR; 95% CI; P valuea |
+| --- | --- | --- | --- |
+| IFM-2005-01 | N=240 (ITT population) | N=242 (ITT population) |  |
+| RR (Post-induction) *CR+nCR CR+nCR+VGPR+PR % (95% CI) | 14.6 (10.4, 19.7) 77.1 (71.2, 82.2) | 6.2 (3.5, 10.0) 60.7 (54.3, 66.9) | 2.58 (1.37, 4.85); 0.003 2.18 (1.46, 3.24); < 0.001 |
+| RR (Post-transplant)b CR+nCR | 37.5 (31.4, 44.0) | 23.1 (18.0, 29.0) | 1.98 (1.33, 2.95); 0.001 |
+| IFM-2005-01 | N=240 (ITT population) | N=242 (ITT population) |  |
+| CR+nCR+VGPR+PR % (95% CI) | 79.6 (73.9, 84.5) | 74.4 (68.4, 79.8) | 1.34 (0.87, 2.05); 0.179 |
+
+| Endpoints | VcTDx | TDx | OR; 95% CI; P valuea |
+| --- | --- | --- | --- |
+| MMY-3010 | N=130 (ITT population) | N=127 (ITT population) |  |
+| *RR (Post-induction) CR+nCR CR+nCR+PR % (95% CI) | 49.2 (40.4, 58.1) 84.6 (77.2, 90.3) | 17.3 (11.2, 25.0) 61.4 (52.4, 69.9) | 4.63 (2.61, 8.22); < 0.001a 3.46 (1.90, 6.27); < 0.001a |
+| *RR (Post-transplant) CR+nCR CR+nCR+PR % (95% CI) | 55.4 (46.4, 64.1) 77.7 (69.6, 84.5) | 34.6 (26.4, 43.6) 56.7 (47.6, 65.5) | 2.34 (1.42, 3.87); 0.001a 2.66 (1.55, 4.57); < 0.001a |
+
 |  | Phase III |  | Phase III |  | Phase III |  | Phase II |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | All patients |  | 1 prior line of therapy |  | > 1 prior line of therapy |  | ≥2 prior lines |
@@ -222,11 +242,9 @@ The European Medicines Agency has waived the obligation to submit the results of
 | CR | 20 (6)b | 2 (< 1)b | 8 (6) | 2 (2) | 12 (6) | 0 (0) | (4)** |
 | CR+nCR | 41 (13)b | 5 (2)b | 16 (13) | 4 (4) | 25 (13) | 1 (< 1) | (10)** |
 | CR+nCR+PR | 121 (38)b | 56 (18)b | 57 (45)d | 29 (26)d | 64 (34)b | 27 (13)b | (27)** |
-| CR+nCR+PR+MR | 146 (46) | 108 (35) | 66 (52) | 45 (41) | 80 (43) | 63 (31) | (35)** |
+| CR+nCR+ PR+MR | 146 (46) | 108 (35) | 66 (52) | 45 (41) | 80 (43) | 63 (31) | (35)** |
 | Median duration Days (months) | 242 (8.0) | 169 (5.6) | 246 (8.1) | 189 (6.2) | 238 (7.8) | 126 (4.1) | 385* |
 | Time to response CR+PR (days) | 43 | 43 | 44 | 46 | 41 | 27 | 38* |
-
-* CR+PR+MR **CR=CR, (IF-); nCR=CR (IF+)
 
 Clinical efficacy with subcutaneous administration of VELCADE in patients with relapsed/refractory multiple myeloma
 An open label, randomised, Phase III non-inferiority study compared the efficacy and safety of the subcutaneous administration of VELCADE versus the intravenous administration.
@@ -264,7 +282,6 @@ TTP, months 9.4 10.4
 (95% CI) (7.6, 10.6) (8.5, 11.7)
 Hazard ratio (95% CI)c 0.839 (0.564, 1.249)
 p-valued 0.38657
-
 Progression Free Survival, months 8.0 10.2
 (95% CI) (6.7, 9.8) (8.1, 10.8)
 Hazard ratio (95% CI)c 0.824 (0.574, 1.183)
@@ -276,5 +293,4 @@ a p-value is for the non-inferiority hypothesis that the SC arm retains at least
 b 222 subjects were enrolled into the study; 221 subjects were treated with VELCADE c Hazards ratio estimate is based on a Cox model adjusted for stratification factors: ISS staging and number of prior lines.
 d Log rank test adjusted for stratification factors: ISS staging and number of prior lines.
 e Median duration of follow up is 11.8 months
-
 VELCADE combination treatment with pegylated liposomal doxorubicin (study DOXIL-MMY-3001)

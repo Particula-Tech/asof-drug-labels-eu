@@ -14,7 +14,6 @@ Biotransformation
 In vitro studies with human liver microsomes and human cDNA-expressed cytochrome P450 isozymes indicate that bortezomib is primarily oxidatively metabolised via cytochrome P450 enzymes, 3A4, 2C19, and 1A2.
 The major metabolic pathway is deboronation to form two deboronated metabolites that subsequently undergo hydroxylation to several metabolites.
 Deboronated-bortezomib metabolites are inactive as 26S proteasome inhibitors.
-
 Elimination
 The mean elimination half-life (t1/2) of bortezomib upon multiple dosing ranged from 40-193 hours.
 Bortezomib is eliminated more rapidly following the first dose compared to subsequent doses.
