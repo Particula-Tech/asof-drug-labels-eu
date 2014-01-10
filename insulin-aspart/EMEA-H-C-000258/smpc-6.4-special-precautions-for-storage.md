@@ -11,22 +11,22 @@ Keep the vial in the outer carton in order to protect from light.
 
 For storage conditions of the medicinal product, see section 6.3.
 
-[NovoRapid Penfill 100 U/ml solution for injection in cartridge.]
+[NovoRapid Penfill 100 units/ml solution for injection in cartridge]
 
 Keep the cartridge in the outer carton in order to protect from light.
 
-[NovoRapid NovoLet 100 U/ml solution for injection in pre-filled pen.]
-
-Keep the pen cap on NovoLet in order to protect from light.
-
-[NovoRapid FlexPen 100 U/ml solution for injection in pre-filled pen.]
+[NovoRapid FlexPen 100 units/ml solution for injection in pre-filled pen]
 
 Keep the pen cap on FlexPen in order to protect from light.
 
-[NovoRapid InnoLet 100 U/ml solution for injection in pre-filled pen.]
+[NovoRapid InnoLet 100 units/ml solution for injection in pre-filled pen]
 
 Keep the pen cap on InnoLet in order to protect from light.
 
-[NovoRapid FlexTouch 100 U/ml solution for injection in pre-filled pen.]
+[NovoRapid FlexTouch 100 units/ml solution for injection in pre-filled pen]
 
 Keep the pen cap on FlexTouch in order to protect from light.
+
+[NovoRapid PumpCart 100 units/ml solution for injection in cartridge]
+
+During use or when carried as a spare: Store below 37°C (in use) or store below 30°C (carried as a spare).

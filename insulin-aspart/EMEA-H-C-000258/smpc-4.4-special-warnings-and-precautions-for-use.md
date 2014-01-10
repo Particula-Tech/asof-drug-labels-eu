@@ -23,11 +23,11 @@ Usual warning symptoms may disappear in patients with longstanding diabetes.
 A consequence of the pharmacodynamics of rapid-acting insulin analogues is that if hypoglycaemia occurs, it may occur earlier after an injection when compared with soluble human insulin.
 
 Since NovoRapid should be administered in immediate relation to a meal, the rapid onset of action should be considered in patients with concomitant diseases or treatment where a delayed absorption of food might be expected.
+
 Concomitant illness, especially infections and feverish conditions, usually increases the patient’s insulin requirements.
 Concomitant diseases in the kidney, liver or affecting the adrenal, pituitary or thyroid gland can require changes in the insulin dose.
 
 When patients are transferred between different types of insulin medicinal products, the early warning symptoms of hypoglycaemia may change or become less pronounced than those experienced with their previous insulin.
-
 Transfer from other insulin medicinal products
 
 Transferring a patient to another type or brand of insulin should be done under strict medical supervision.
@@ -38,7 +38,7 @@ If an adjustment is needed, it may occur with the first dose or during the first
 Injection site reactions
 
 As with any insulin therapy, injection site reactions may occur and include pain, redness, hives, inflammation, bruising, swelling and itching.
-Continuous rotation of the injection site within a given area may help to reduce the risk of developing these reactions.
+Continuous rotation of the injection site within a given area reduces the risk of developing these reactions.
 Reactions usually resolve in a few days to a few weeks.
 On rare occasions, injection site reactions may require discontinuation of NovoRapid.
 
@@ -48,3 +48,31 @@ Cases of cardiac failure have been reported when pioglitazone was used in combin
 This should be kept in mind if treatment with the combination of pioglitazone and NovoRapid is considered.
 If the combination is used, patients should be observed for signs and symptoms of heart failure, weight gain and oedema.
 Pioglitazone should be discontinued if any deterioration in cardiac symptoms occurs.
+
+Insulin antibodies
+
+Insulin administration may cause insulin antibodies to form.
+In rare cases, the presence of such insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency to hyper- or hypoglycaemia.
+
+[NovoRapid Penfill 100 units/ml solution for injection in cartridge]
+
+(all sentences already above)
+
+[NovoRapid FlexPen 100 units/ml solution for injection in pre-filled pen]
+
+(all sentences already above)
+
+[NovoRapid InnoLet 100 units/ml solution for injection in pre-filled pen]
+
+(all sentences already above)
+
+[NovoRapid FlexTouch 100 units/ml solution for injection in pre-filled pen]
+
+(all sentences already above)
+
+[NovoRapid PumpCart 100 units/ml solution for injection in cartridge]
+
+Misuse of NovoRapid PumpCart
+
+The NovoRapid PumpCart is for use with the Accu-Chek Insight insulin pump only.
+It must not be used with other devices not designed for the NovoRapid PumpCart (e.g., other insulin pumps or pen injection systems), as this may result in incorrect insulin dosing and subsequent hyper- or hypoglycaemia.

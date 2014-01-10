@@ -1,23 +1,23 @@
 # 1. NAME OF THE MEDICINAL PRODUCT
 
-NovoRapid 100 U/ml solution for injection.
+NovoRapid 100 units/ml solution for injection
 
-[NovoRapid Penfill 100 U/ml solution for injection in cartridge.]
+[NovoRapid Penfill 100 units/ml solution for injection in cartridge]
 
-NovoRapid Penfill 100 U/ml solution for injection in cartridge.
+NovoRapid Penfill 100 units/ml solution for injection in cartridge
 
-[NovoRapid NovoLet 100 U/ml solution for injection in pre-filled pen.]
+[NovoRapid FlexPen 100 units/ml solution for injection in pre-filled pen]
 
-NovoRapid NovoLet 100 U/ml solution for injection in pre-filled pen.
+NovoRapid FlexPen 100 units/ml solution for injection in pre-filled pen
 
-[NovoRapid FlexPen 100 U/ml solution for injection in pre-filled pen.]
+[NovoRapid InnoLet 100 units/ml solution for injection in pre-filled pen]
 
-NovoRapid FlexPen 100 U/ml solution for injection in pre-filled pen.
+NovoRapid InnoLet 100 units/ml solution for injection in pre-filled pen
 
-[NovoRapid InnoLet 100 U/ml solution for injection in pre-filled pen.]
+[NovoRapid FlexTouch 100 units/ml solution for injection in pre-filled pen]
 
-NovoRapid InnoLet 100 U/ml solution for injection in pre-filled pen.
+NovoRapid FlexTouch 100 units/ml solution for injection in pre-filled pen
 
-[NovoRapid FlexTouch 100 U/ml solution for injection in pre-filled pen.]
+[NovoRapid PumpCart 100 units/ml solution for injection in cartridge]
 
-NovoRapid FlexTouch 100 U/ml solution for injection in pre-filled pen.
+NovoRapid PumpCart 100 units/ml solution for injection in cartridge

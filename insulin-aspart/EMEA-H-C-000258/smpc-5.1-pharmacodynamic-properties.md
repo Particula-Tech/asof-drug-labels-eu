@@ -10,10 +10,8 @@ The blood glucose lowering effect of insulin aspart is due to the facilitated up
 
 NovoRapid produces a more rapid onset of action compared to soluble human insulin, together with a lower glucose concentration, as assessed within the first four hours after a meal.
 NovoRapid has a shorter duration of action compared to soluble human insulin after subcutaneous injection.
-
-Time (h)
-
 Fig. I. Blood glucose concentrations following a single pre-meal dose of NovoRapid injected immediately before a meal (solid curve) or soluble human insulin administered 30 minutes before a meal (hatched curve) in patients with type 1 diabetes mellitus.
+
 When NovoRapid is injected subcutaneously, the onset of action will occur within 10 to 20 minutes of injection.
 The maximum effect is exerted between 1 and 3 hours after injection.
 The duration of action is 3 to 5 hours.
