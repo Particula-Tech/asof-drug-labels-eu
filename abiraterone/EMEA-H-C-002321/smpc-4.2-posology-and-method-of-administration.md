@@ -12,7 +12,6 @@ Medical castration with LHRH analogue should be continued during treatment in pa
 Serum transaminases should be measured prior to starting treatment, every two weeks for the first three months of treatment and monthly thereafter.
 Blood pressure, serum potassium and fluid retention should be monitored monthly.
 However, patients with a significant risk for congestive heart failure should be monitored every 2 weeks for the first three months of treatment and monthly thereafter (see section 4.4).
-
 In patients with pre-existing hypokalaemia or those that develop hypokalaemia whilst being treated with ZYTIGA, consider maintaining the patient’s potassium level at ≥4.0 mM.
 For patients who develop Grade ≥3 toxicities including hypertension, hypokalaemia, oedema and other non-mineralocorticoid toxicities, treatment should be withheld and appropriate medical management should be instituted.
 Treatment with ZYTIGA should not be reinitiated until symptoms of the toxicity have resolved to Grade 1 or baseline.

@@ -18,6 +18,7 @@ ZYTIGA decreases serum testosterone and other androgens to levels lower than tho
 This results from the selective inhibition of the CYP17 enzyme required for androgen biosynthesis.
 Prostate specific antigen (PSA) serves as a biomarker in patients with prostate cancer.
 In a phase 3 clinical study of patients who failed prior chemotherapy with taxanes, 38% of patients treated with ZYTIGA, versus 10% of patients treated with placebo, had at least a 50% decline from baseline in PSA levels.
+
 Clinical efficacy and safety
 Efficacy was established in two randomised placebo-controlled multicentre phase 3 clinical studies (studies 301 and 302) of patients with metastatic castration resistant prostate cancer.
 Study 302 enrolled docetaxel naïve patients; whereas, study 301 enrolled patients who had received prior docetaxel.
@@ -32,7 +33,6 @@ Study 302 (chemotherapy naïve patients)
 
 This study enrolled chemotherapy naïve patients who were asymptomatic or mildly symptomatic and for whom chemotherapy was not yet clinically indicated.
 A score of 0-1 on Brief Pain Inventory-Short Form (BPI-SF) worst pain in last 24 hours was considered asymptomatic, and a score of 2-3 was considered mildly symptomatic.
-
 In study 302, (n=1,088) the median age of enrolled patients was 71 years for patients treated with ZYTIGA plus prednisone or prednisolone and 70 years for patients treated with placebo plus prednisone or prednisolone.
 The number of patients treated with ZYTIGA by racial group was Caucasian 520 (95.4%), Black 15 (2.8%), Asian 4 (0.7%) and other 6 (1.1%).
 The ECOG performance status was 0 for 76% of patients, and 1 for 24% of patients in both arms.
@@ -69,7 +69,6 @@ Hazard ratio**
 NE=Not Estimated
 * P-value is derived from a log-rank test stratified by baseline ECOG score (0 or 1)
 ** Hazard ratio < 1 favours ZYTIGA
-
 Figure 1: Kaplan Meier curves of radiographic progression-free survival in patients treated with either ZYTIGA or placebo in combination with prednisone or prednisolone plus LHRH analogues or prior orchiectomy
 
 AA=ZYTIGA
@@ -94,12 +93,12 @@ Progression or death 271 (50%) 336 (62%)
 Median rPFS in months 16.5 8.3
 (95% CI) (13.80, 16.79) (8.05, 9.43)
 p-value* < 0.0001
-Hazard ratio** 0.530 (0.451, 0.623)
 
+Hazard ratio**
+0.530 (0.451, 0.623)
 (95% CI)
 * P-value is derived from a log-rank test stratified by baseline ECOG score (0 or 1)
 ** Hazard ratio < 1 favours ZYTIGA
-
 Figure 2: Kaplan Meier curves of radiographic progression-free survival in patients treated with either ZYTIGA or placebo in combination with prednisone or prednisolone plus LHRH analogues or prior orchiectomy (At second interim analysis of OS-Investigator Review)
 
 AA=ZYTIGA

@@ -2,7 +2,7 @@
 
 Summary of the safety profile
 The most common adverse reactions seen are peripheral oedema, hypokalaemia, hypertension and urinary tract infection.
-Other important adverse reactions include, cardiac disorders, hepatotoxicity, and fractures.
+Other important adverse reactions include, cardiac disorders, hepatotoxicity, fractures, and allergic alveolitis.
 
 ZYTIGA may cause hypertension, hypokalaemia and fluid retention as a pharmacodynamic consequence of its mechanism of action.
 Inclinical studies, anticipated mineralocorticoid adverse reactions were seen more commonly in patients treated with ZYTIGA than in patients treated with placebo: hypokalaemia 21% versus 11%, hypertension 16% versus 11% and fluid retention (peripheral oedema) 26% versus 20%, respectively.
@@ -12,19 +12,21 @@ Concomitant use of a corticosteroid reduces the incidence and severity of these 
 
 Tabulated summary of adverse reactions
 In studies of patients with metastatic advanced prostate cancer who were using a luteinising hormone-releasing hormone (LHRH) analogue, or were previously treated with orchiectomy, ZYTIGA was administered at a dose of 1,000 mg daily in combination with low dose prednisone or prednisolone (10 mg daily).
-Adverse reactions observed during clinical studies are listed below by frequency category.
+
+Adverse reactions observed during clinical studies and post-marketing experience are listed below by frequency category.
 Frequency categories are defined as follows: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000).
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-Table 1: Adverse reactions identified in clinical studies
+Table 1: Adverse reactions identified in clinical studies and post-marketing
 
-| Infections and infestations | very common: urinary tract infection |
+| Infections and infestations | very common: urinary tract infection common: sepsis |
 | --- | --- |
 | Endocrine disorders | uncommon: adrenal insufficiency |
 | Metabolism and nutrition disorders | very common: hypokalaemia common: hypertriglyceridaemia |
 | Cardiac disorders | common: cardiac failure*, angina pectoris, arrhythmia, atrial fibrillation, tachycardia |
 | Vascular disorders | very common: hypertension |
+| Respiratory, thoracic and mediastinal disorders | rare: allergic alveolitisa |
 | Gastrointestinal disorders | very common: diarrhoea common: dyspepsia |
 | Hepatobiliary disorders | common: alanine aminotransferase increased, aspartate aminotransferase increased |
 | Skin and subcutaneous tissue disorders | common: rash |
@@ -34,7 +36,7 @@ Table 1: Adverse reactions identified in clinical studies
 | Injury, poisoning and procedural complications | common: fractures** |
 
 * Cardiac failure also includes congestive heart failure, left ventricular dysfunction and ejection fraction decreased
-** Fractures includes all fractures with the exception of pathological fracture
+** Fractures includes all fractures with the exception of pathological fracture a Spontaneous reports from post-marketing experience
 
 The following CTCAE (version 3.0) Grade 3 adverse reactions occurred in patients treated with ZYTIGA: hypokalaemia 3%; urinary tract infection, alanine aminotransferase increased, hypertension, aspartate aminotransferase increased, fractures 2%; peripheral oedema, cardiac failure, and atrial fibrillation 1% each.
 CTCAE (version 3.0) Grade 3 hypertriglyceridaemia and angina pectoris occurred in < 1% of patients.
@@ -66,3 +68,8 @@ Abnormal liver function tests developing in patients participating in clinical t
 Patients with elevations of ALT or AST > 20 x ULN were not re-treated.
 The safety of re-treatment in such patients is unknown.
 The mechanism for hepatotoxicity is not understood.
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
