@@ -93,19 +93,18 @@ Based on the initial analysis in the intent-to-treat population, a statistically
 The median time to best response and median duration of best response in patients who achieved a CR or CRp were 4.3 months and 8.3 months, respectively.
 Progression-free survival was significantly longer for subjects in the Dacogen arm, 3.7 months (95% CI: 2.7, 4.6) compared with subjects in the TC arm, 2.1 months (95% CI: 1.9, 3.1); hazard ratio 0.75 (95% CI: 0.62, 0.91), p = 0.0031.
 These results as well as other endpoints are shown in Table 2.
+
 Table 2: Other efficacy endpoints for Study DACO-016 (ITT population).
 
 | Outcomes | Dacogen n = 242 | TC (combined group) n = 243 | p-value |
 | --- | --- | --- | --- |
-| CR + CRp | 43 (17.8%) | 19 (7.8%) | 0.0011 |
-|  | OR = 2.5 (1.40, 4.78)b |  |  |
+| CR + CRp | 43 (17.8%) 19 (7.8%) OR = 2.5 (1.40, 4.78)b | 19 (7.8%) | 0.0011 |
 | CR | 38 (15.7%) | 18 (7.4%) | - |
-| EFSa | 3.5 (2.5, 4.1)b | 2.1 (1.9, 2.8)b | 0.0025 |
-|  | HR = 0.75 (0.62, 0.90)b |  |  |
-| PFSa | 3.7 (2.7, 4.6)b | 2.1 (1.9, 3.1)b | 0.0031 |
-|  | HR = 0.75 (0.62, 0.91)b |  |  |
+| EFSa | 3.5 2.1 (2.5, 4.1)b (1.9, 2.8)b HR = 0.75 (0.62, 0.90)b | 2.1 (1.9, 2.8)b | 0.0025 |
+| PFSa | 3.7 2.1 (2.7, 4.6)b (1.9, 3.1)b HR = 0.75 (0.62, 0.91)b | 2.1 (1.9, 3.1)b | 0.0031 |
 
-CR = complete remission; CRp = complete remission with incomplete platelet recovery, EFS = event-free survival, PFS = progression-free survival, OR = odds ratio, HR = hazard ratio
+CR = complete remission; CRp = complete remission with incomplete platelet recovery, EFS = event-free survival,
+PFS = progression-free survival, OR = odds ratio, HR = hazard ratio
 - = Not evaluable a Reported as median months b 95% confidence intervals
 
 Overall survival and complete remission rates in pre-specified disease-related sub-groups (i.e., cytogenetic risk, Eastern Cooperative Oncology Group [ECOG] score, age, type of AML, and baseline bone marrow blast count) were consistent with results for the overall study population.

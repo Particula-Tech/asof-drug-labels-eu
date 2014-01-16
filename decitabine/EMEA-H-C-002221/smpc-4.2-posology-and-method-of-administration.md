@@ -13,12 +13,13 @@ Treatment may be continued as long as the patient shows response, continues to b
 If after 4 cycles, the patient’s haematological values (e.g., platelet counts or absolute neutrophil count), have not returned to pre-treatment levels or if disease progression occurs (peripheral blast counts are increasing or bone marrow blast counts are worsening), the patient may be considered to be a non-responder and alternative therapeutic options to Dacogen should be considered.
 
 Pre-medication for the prevention of nausea and vomiting is not routinely recommended but may be administered if required.
+
 Management of myelosuppression and associated complications
 Myelosuppression and adverse events related to myelosuppression (thrombocytopenia, anaemia, neutropenia, and febrile neutropenia) are common in both treated and untreated patients with AML.
 Complications of myelosuppression include infections and bleeding.
 Treatment may be delayed at the discretion of the treating physician, if the patient experiences myelosuppression-associated complications, such as those described below:
 
-- Febrile neutropenia (temperature ≥ 38.5°C and absolute neutrophil count < 1,000/µL)
+- Febrile neutropenia (temperature ≥38.5°C and absolute neutrophil count < 1,000/µL)
 - Active viral, bacterial or fungal infection (i.e., requiring intravenous anti-infectives or extensive supportive care)
 - Haemorrhage (gastrointestinal, genito-urinary, pulmonary with platelets < 25,000/µL or any central nervous system haemorrhage)
 
@@ -43,4 +44,5 @@ The need for dose adjustment in patients with renal impairment has not been eval
 Method of administration
 Dacogen is administered by intravenous infusion.
 A central venous catheter is not required.
+
 For instructions on reconstitution and dilution of the medicinal product before administration, see section 6.6.

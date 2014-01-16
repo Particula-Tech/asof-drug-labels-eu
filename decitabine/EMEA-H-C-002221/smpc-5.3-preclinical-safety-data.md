@@ -8,4 +8,4 @@ Multi-cycle repeat-dose toxicity studies in rats and rabbits indicated that the 
 Gastrointestinal toxicity was also observed and in males, testicular atrophy which did not reverse over the scheduled recovery periods.
 Decitabine administration to neonatal/juvenile rats showed a comparable general toxicity profile as in older rats.
 Neurobehavioural development and reproductive capacity were unaffected when neonatal/juvenile rats were treated at dose levels inducing myelosuppression.
-See Section 4.2 for information on paediatric use
+See section 4.2 for information on paediatric use.

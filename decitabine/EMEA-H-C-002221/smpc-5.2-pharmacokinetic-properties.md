@@ -2,21 +2,25 @@
 
 The population pharmacokinetic (PK) parameters of decitabine were pooled from 3 clinical studies in 45 patients with AML or myelodysplastic syndrome (MDS) utilizing the 5-Day regimen.
 In each study, decitabine PK was evaluated on the fifth day of the first treatment cycle.
+
 Distribution
 The pharmacokinetics of decitabine following intravenous administration as a 1-hour infusion were described by a linear two-compartment model, characterised by rapid elimination of the drug from the central compartment and by relatively slow distribution from the peripheral compartment.
 For a typical patient (weight 70 kg/body surface area 1.73 m2) the decitabine pharmacokinetic parameters are listed in the Table 3 below.
 
 Table 3: Summary of population PK analysis for a typical patient receiving daily 1-hour infusions of Dacogen 20 mg/m2 over 5 days every 4 weeks.
 
-| Parameter a | Predicted Value | 95% CI |
-| --- | --- | --- |
-| Cmax (ng/ml) AUCcum (ng.h/ml) t1/2 (min) Vdss (L) CL (L/h) | 107 580 68.2 116 298 | 88.5 - 129 480 - 695 54.2 – 79.6 84.1 – 153 249 - 359 |
+Parameter a Predicted Value 95% CI
+Cmax (ng/ml) 107 88.5 - 129
+AUCcum (ng.h/ml) 580 480 - 695
+t1/2 (min) 68.2 54.2 - 79.6
+Vdss (L) 116 84.1 - 153
+CL (L/h) 298 249 - 359
 
-aThe total dose per cycle was 100 mg/m2
+a The total dose per cycle was 100 mg/m2
 
 Decitabine exhibits linear PK and following the intravenous infusion, steady-state concentrations are reached within 0.5 hour.
 Based on model simulation, PK parameters were independent of time (i.e., did not change from cycle to cycle) and no accumulation was observed with this dosing regimen.
-Plasma protein binding of decitabine is negligible (<1%).
+Plasma protein binding of decitabine is negligible (< 1%).
 Decitabine Vdss in cancer patients is large indicating distribution of the drug into peripheral tissues.
 There was no evidence of dependencies on age, creatinine clearance, total bilirubin, or disease.
 
@@ -41,7 +45,8 @@ Additional information on special populations
 The effects of renal or hepatic impairment, gender, age or race on the pharmacokinetics of decitabine have not been formally studied.
 Information on special populations was derived from pharmacokinetic data from the 3 studies noted above, and from one Phase I study in MDS subjects, (N = 14;
 15 mg/m2 x 3-hours q8h x 3 days).
-Elderly
+
+Older people
 Population pharmacokinetic analysis showed that decitabine pharmacokinetics are not dependent on age (range studied 40 to 87 years; median 70 years).
 
 Gender
@@ -56,7 +61,6 @@ The PK of decitabine have not been formally studied in patients with hepatic imp
 Results from a human mass-balance study and in vitro experiments mentioned above indicated that the CYP enzymes are unlikely to be involved in the metabolism of decitabine.
 In addition, the limited data from the population PK analysis indicated no significant PK parameter dependencies on total bilirubin concentration despite a wide range of total bilirubin levels.
 Thus, decitabine exposure is not likely to be affected in patients with impaired hepatic function.
-
 Renal impairment
 The PK of decitabine have not been formally studied in patients with renal insufficiency.
 The population PK analysis on the limited decitabine data indicated no significant PK parameter dependencies on normalized creatinine clearance, an indicator of renal function.
