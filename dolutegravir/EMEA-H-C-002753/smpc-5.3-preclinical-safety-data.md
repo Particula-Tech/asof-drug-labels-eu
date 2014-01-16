@@ -1,0 +1,16 @@
+# 5.3 Preclinical safety data
+
+Dolutegravir was not mutagenic or clastogenic using in vitro tests in bacteria and cultured mammalian cells, and an in vivo rodent micronucleus assay.
+Dolutegravir was not carcinogenic in long term studies in the mouse and rat.
+
+Dolutegravir did not affect male or female fertility in rats at doses up to 1000 mg/kg/day, the highest dose tested (24 times the 50 mg twice daily human clinical exposure based on AUC).
+
+Oral administration of dolutegravir to pregnant rats at doses up to 1000 mg/kg daily from days 6 to 17 of gestation did not elicit maternal toxicity, developmental toxicity or teratogenicity (27 times the 50 mg twice daily human clinical exposure based on AUC).
+
+Oral administration of dolutegravir to pregnant rabbits at doses up to 1000 mg/kg daily from days 6 to 18 of gestation did not elicit developmental toxicity or teratogenicity (0.40 times the 50 mg twice daily human clinical exposure based on AUC).
+In rabbits, maternal toxicity (decreased food consumption, scant/no faeces/urine, suppressed body weight gain) was observed at 1000 mg/kg (0.40 times the 50 mg twice daily human clinical exposure based on AUC).
+
+The effect of prolonged daily treatment with high doses of dolutegravir has been evaluated in repeat oral dose toxicity studies in rats (up to 26 weeks) and in monkeys (up to 38 weeks).
+The primary effect of dolutegravir was gastrointestinal intolerance or irritation in rats and monkeys at doses that produce systemic exposures approximately 21 and 0.82 times the 50 mg twice daily human clinical exposure based on AUC, respectively.
+Because gastrointestinal (GI) intolerance is considered to be due to local active substance administration, mg/kg or mg/m2 metrics are appropriate determinates of safety cover for this toxicity.
+GI intolerance in monkeys occurred at 15 times the human mg/kg equivalent dose (based on a 50 kg human), and 5 times the human mg/m2 equivalent dose for a clinical dose of 50 mg twice daily.
