@@ -1,0 +1,16 @@
+{
+  "active_substance": "sofosbuvir",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/002798",
+  "eu_number": "EU/1/13/894",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2014-01-16",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/sovaldi",
+  "molecule": "sofosbuvir",
+  "molecule_name": "SOFOSBUVIR",
+  "name": "Sovaldi",
+  "register_name": "Sovaldi",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h894.htm"
+}
