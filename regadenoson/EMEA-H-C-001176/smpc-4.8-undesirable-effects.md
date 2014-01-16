@@ -17,25 +17,23 @@ Frequencies are defined as very common (≥ 1/10), common
 (≥ 1/100 to < 1/10) and uncommon (≥ 1/1,000 to < 1/100).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-| Immune system disorders: |  |  |  |
-| --- | --- | --- | --- |
-| Uncommon |  | Hypersensitivity reactions including: | Rash, urticaria, angioedema, anaphylaxis |
-| Psychiatric disorders: |  |  |  |
-| Uncommon | Anxiety, insomnia |  |  |
-| Nervous system disorders: |  |  |  |
-| Very common | Headache, dizziness |  |  |
-| Common | Paraesthesia, hypoaesthesia, dysgeusia |  |  |
-| Uncommon | Convulsions, syncope, transient ischaemic attack, unresponsiveness to stimuli, depressed level of consciousness, tremor, somnolence |  |  |
-| Eye disorders: |  |  |  |
-| Uncommon | Vision blurred, eye pain |  |  |
-
-| Ear and labyrinth disorders: |  |
+| Immune system disorders: |  |
 | --- | --- |
+| Uncommon | Hypersensitivity reactions including: Rash, urticaria, angioedema, anaphylaxis |
+| Psychiatric disorders: |  |
+| Uncommon | Anxiety, insomnia |
+| Nervous system disorders: |  |
+| Very common | Headache, dizziness |
+| Common | Paraesthesia, hypoaesthesia, dysgeusia |
+| Uncommon | Convulsions, syncope, transient ischaemic attack, unresponsiveness to stimuli, depressed level of consciousness, tremor, somnolence |
+| Eye disorders: |  |
+| Uncommon | Vision blurred, eye pain |
+| Ear and labyrinth disorders: |  |
 | Uncommon | Tinnitus |
 | Cardiac disorders: |  |
 | Very common | Electrocardiogram ST segment changes |
 | Common | Angina pectoris, atrioventricular block, tachycardia, palpitations, other ECG abnormalities including electrocardiogram QT corrected interval prolonged |
-| Uncommon | Cardiac arrest, myocardial infarction, complete AV block, atrial fibrillation/flutter, bradycardia |
+| Uncommon | Cardiac arrest, myocardial infarction, complete AV block, atrial fibrillation/flutter, bradycardia, atrial flutter, new-onset, worsening or recurrence of atrial fibrillation |
 | Vascular disorders: |  |
 | Very common | Flushing |
 | Common | Hypotension |
@@ -76,6 +74,7 @@ Regadenoson increases sympathetic tone, which causes an increase in heart rate a
 In a patient with a long QT syndrome, sympathetic stimulation can result in less shortening of the QT interval than is normal and may even cause a paradoxical increase in the
 QT interval.
 In these patients, the phenomenon of R-on-T syndrome can occur, wherein an extra beat interrupts the T wave of the previous beat, and this increases the risk of a ventricular tachyarrhythmia.
+
 Headache was reported by 27% of subjects who received Rapiscan in clinical trials.
 The headache was considered severe in 3% of subjects.
 
