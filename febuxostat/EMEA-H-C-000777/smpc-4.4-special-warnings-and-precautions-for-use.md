@@ -9,10 +9,10 @@ No statistically significant differences were found and no causal relationship w
 Identified risk factors among these patients were a medical history of atherosclerotic disease and/or myocardial infarction, or of congestive heart failure.
 
 Medicinal product allergy / hypersensitivity
-Rare reports of serious allergic/hypersensitivity reactions, including life-threatening Stevens-Johnson Syndrome and acute anaphylactic reaction/shock, have been collected in the post-marketing experience.
+Rare reports of serious allergic/hypersensitivity reactions, including life-threatening Stevens-Johnson Syndrome, Toxic epidermal necrolysis and acute anaphylactic reaction/shock, have been collected in the post-marketing experience.
 In most cases, these reactions occurred during the first month of therapy with febuxostat.
 Some, but not all of these patients reported renal impairment and/or previous hypersensitivity to allopurinol.
-Severe hypersensitivity reactions were associated with renal or hepatic involvement in some cases.
+Severe hypersensitivity reactions, including Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) were associated with fever, haematological, renal or hepatic involvement in some cases.
 Patients should be advised of the signs and symptoms and monitored closely for symptoms of allergic/hypersensitivity reactions (see section 4.8).
 Febuxostat treatment should be immediately stopped if serious allergic/hypersensitivity reactions, including Stevens-Johnson Syndrome, occur since early withdrawal is associated with a better prognosis.
 If patient has developed allergic/hypersensitivity reactions including Stevens-Johnson Syndrome and acute anaphylactic reaction/shock, febuxostat must not be re-started in this patient at any time.
@@ -24,7 +24,6 @@ At treatment initiation with febuxostat flare prophylaxis for at least 6 months 
 If a gout flare occurs during febuxostat treatment, it should not be discontinued.
 The gout flare should be managed concurrently as appropriate for the individual patient.
 Continuous treatment with febuxostat decreases frequency and intensity of gout flares.
-
 Xanthine deposition
 In patients in whom the rate of urate formation is greatly increased (e.g. malignant disease and its treatment, Lesch-Nyhan syndrome) the absolute concentration of xanthine in urine could, in rare cases, rise sufficiently to allow deposition in the urinary tract.
 As there has been no experience with febuxostat, its use in these populations is not recommended.

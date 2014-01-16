@@ -17,6 +17,7 @@ Febuxostat metabolism depends on Uridine Glucuronosyl Transferase (UGT) enzymes.
 Medicinal products that inhibit glucuronidation, such as NSAIDs and probenecid, could in theory affect the elimination of febuxostat.
 In healthy subjects concomitant use of febuxostat and naproxen 250 mg twice daily was associated with an increase in febuxostat exposure (Cmax 28%, AUC 41% and t1/2 26%).
 In clinical studies the use of naproxen or other NSAIDs/Cox-2 inhibitors was not related to any clinically significant increase in adverse events.
+
 Febuxostat can be co-administered with naproxen with no dose adjustment of febuxostat or naproxen being necessary.
 
 Inducers of glucuronidation

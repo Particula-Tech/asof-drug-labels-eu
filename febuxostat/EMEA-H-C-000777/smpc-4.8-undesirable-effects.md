@@ -24,10 +24,9 @@ Table 1: Adverse reactions in combined phase 3, long-term extension studies and 
 | Cardiac disorders | Uncommon Atrial fibrillation, palpitations, ECG abnormal |
 | Vascular disorders | Uncommon Hypertension, flushing, hot flush |
 | Respiratory system disorders | Uncommon Dyspnoea, bronchitis, upper respiratory tract infection, cough |
-| Gastrointestinal disorders | Common Diarrhoea**, nausea Uncommon: Abdominal pain, abdominal distension, gastro-oesophageal reflux disease, vomiting, dry mouth, dyspepsia, constipation, frequent stools, flatulence, gastrointestinal discomfort Rare |
-|  | Pancreatitis, mouth ulceration |
-| Hepato-biliary disorders | Common Liver function abnormalities** Uncommon Cholelithiasis Rare Hepatitis, jaundice* |
-| Skin and subcutaneous tissue disorders | Common Rash (including various types of rash reported with lower frequencies, see below) Uncommon Dermatitis, urticaria, pruritus, skin discolouration, skin lesion, petechiae, rash macular, rash maculopapular, rash papular Rare Stevens-Johnson Syndrome*, angioedema*, generalized rash (serious)*, erythema, exfoliative rash, rash follicular, rash vesicular, rash pustular, rash pruritic*, rash erythematous, rash morbillifom, alopecia, hyperhidrosis |
+| Gastrointestinal disorders | Common Diarrhoea**, nausea Uncommon: Abdominal pain, abdominal distension, gastro-oesophageal reflux disease, vomiting, dry mouth, dyspepsia, constipation, frequent stools, flatulence, gastrointestinal discomfort Rare Pancreatitis, mouth ulceration |
+| Hepato-biliary disorders | Common Liver function abnormalities** Uncommon Cholelithiasis Rare Hepatitis, jaundice*, liver injury* |
+| Skin and subcutaneous tissue disorders | Common Rash (including various types of rash reported with lower frequencies, see below) Uncommon Dermatitis, urticaria, pruritus, skin discolouration, skin lesion, petechiae, rash macular, rash maculopapular, rash papular Rare Toxic epidermal necrolysis*, Stevens-Johnson Syndrome*, angioedema*, drug reaction with eosinophilia and systemic symptoms*, generalized rash (serious)*, erythema, exfoliative rash, rash follicular, rash vesicular, rash pustular, rash pruritic*, rash erythematous, rash morbillifom, alopecia, hyperhidrosis |
 | Musculoskeletal and connective tissue disorders | Uncommon Arthralgia, arthritis, myalgia, musculoskeletal pain, muscle weakness, muscle spasm, muscle tightness, bursitis Rare Rhabdomyolysis*, joint stiffness, musculoskeletal stiffness |
 | Renal and urinary disorders | Uncommon Renal failure, nephrolithiasis, haematuria, pollakiuria, proteinuria Rare Tubulointerstitial nephritis*, micturition urgency |
 | Reproductive system and breast disorder | Uncommon Erectile dysfunction |
@@ -38,9 +37,9 @@ Table 1: Adverse reactions in combined phase 3, long-term extension studies and 
 ** Treatment-emergent non-infective diarrhoea and abnormal liver function tests in the combined Phase 3 studies are more frequent in patients concomitantly treated with colchicine. *** See section 5.1 for incidences of gout flares in the individual Phase 3 randomized controlled studies.
 
 Description of selected adverse reactions
-Rare serious hypersensitivity reactions to febuxostat, including Stevens-Johnson Syndrome and anaphylactic reaction/shock, have occurred in the post-marketing experience.
-Stevens-Johnson Syndrome is characterised by progressive skin rashes associated with blisters or mucosal lesions and eye irritation.
-Hypersensitivity reactions to febuxostat can be associated to the following symptoms: skin reactions characterised by infiltrated maculopapular eruption, generalised or exfoliative rashes, but also skin lesions, facial oedema, fever, haematologic abnormalities such as thrombocytopenia, and single or multiple organ involvement (liver and kidney including tubulointerstitial nephritis) (see section 4.4).
+Rare serious hypersensitivity reactions to febuxostat, including Stevens-Johnson Syndrome, Toxic epidermal necrolysis and anaphylactic reaction/shock, have occurred in the post-marketing experience.
+Stevens-Johnson Syndrome and Toxic epidermal necrolysis are characterised by progressive skin rashes associated with blisters or mucosal lesions and eye irritation.
+Hypersensitivity reactions to febuxostat can be associated to the following symptoms: skin reactions characterised by infiltrated maculopapular eruption, generalised or exfoliative rashes, but also skin lesions, facial oedema, fever, haematologic abnormalities such as thrombocytopenia and eosinophilia, and single or multiple organ involvement (liver and kidney including tubulointerstitial nephritis) (see section 4.4).
 
 Gout flares were commonly observed soon after the start of treatment and during the first months.
 Thereafter, the frequency of gout flare decreases in a time-dependent manner.
@@ -60,10 +59,9 @@ Gout flare prophylaxis is recommended (see section 4.2 and 4.4).
 | Cardiac disorders | Uncommon Atrial fibrillation, palpitations, ECG abnormal |
 | Vascular disorders | Uncommon Hypertension, flushing, hot flush |
 | Respiratory system disorders | Uncommon Dyspnoea, bronchitis, upper respiratory tract infection, cough |
-| Gastrointestinal disorders | Common Diarrhoea**, nausea Uncommon: Abdominal pain, abdominal distension, gastro-oesophageal reflux disease, vomiting, dry mouth, dyspepsia, constipation, frequent stools, flatulence, gastrointestinal discomfort Rare |
-|  | Pancreatitis, mouth ulceration |
-| Hepato-biliary disorders | Common Liver function abnormalities** Uncommon Cholelithiasis Rare Hepatitis, jaundice* |
-| Skin and subcutaneous tissue disorders | Common Rash (including various types of rash reported with lower frequencies, see below) Uncommon Dermatitis, urticaria, pruritus, skin discolouration, skin lesion, petechiae, rash macular, rash maculopapular, rash papular Rare Stevens-Johnson Syndrome*, angioedema*,generalized rash (serious)*, erythema, exfoliative rash, rash follicular, rash vesicular, rash pustular, rash pruritic*, rash erythematous, rash morbillifom, alopecia, hyperhidrosis |
+| Gastrointestinal disorders | Common Diarrhoea**, nausea Uncommon: Abdominal pain, abdominal distension, gastro-oesophageal reflux disease, vomiting, dry mouth, dyspepsia, constipation, frequent stools, flatulence, gastrointestinal discomfort Rare Pancreatitis, mouth ulceration |
+| Hepato-biliary disorders | Common Liver function abnormalities** Uncommon Cholelithiasis Rare Hepatitis, jaundice*, liver injury* |
+| Skin and subcutaneous tissue disorders | Common Rash (including various types of rash reported with lower frequencies, see below) Uncommon Dermatitis, urticaria, pruritus, skin discolouration, skin lesion, petechiae, rash macular, rash maculopapular, rash papular Rare Toxic epidermal necrolysis*, Stevens-Johnson Syndrome*, angioedema*, drug reaction with eosinophilia and systemic symptoms*, generalized rash (serious)*, erythema, exfoliative rash, rash follicular, rash vesicular, rash pustular, rash pruritic*, rash erythematous, rash morbillifom, alopecia, hyperhidrosis |
 | Musculoskeletal and connective tissue disorders | Uncommon Arthralgia, arthritis, myalgia, musculoskeletal pain, muscle weakness, muscle spasm, muscle tightness, bursitis Rare Rhabdomyolysis*, joint stiffness, musculoskeletal stiffness |
 | Renal and urinary disorders | Uncommon Renal failure, nephrolithiasis, haematuria, pollakiuria, proteinuria Rare Tubulointerstitial nephritis*, micturition urgency |
 | Reproductive system and breast disorder | Uncommon Erectile dysfunction |

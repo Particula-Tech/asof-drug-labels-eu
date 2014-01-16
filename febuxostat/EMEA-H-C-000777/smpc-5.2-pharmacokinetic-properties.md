@@ -26,14 +26,14 @@ Biotransformation
 Febuxostat is extensively metabolized by conjugation via uridine diphosphate glucuronosyltransferase (UDPGT) enzyme system and oxidation via the cytochrome P450 (CYP) system.
 Four pharmacologically active hydroxyl metabolites have been identified, of which three occur in plasma of humans.
 In vitro studies with human liver microsomes showed that those oxidative metabolites were formed primarily by CYP1A1, CYP1A2, CYP2C8 or CYP2C9 and febuxostat glucuronide was formed mainly by UGT 1A1, 1A8, and 1A9.
-
 Elimination
 Febuxostat is eliminated by both hepatic and renal pathways.
 Following an 80 mg oral dose of 14C-labeled febuxostat, approximately 49% of the dose was recovered in the urine as unchanged febuxostat (3%), the acyl glucuronide of the active substance (30%), its known oxidative metabolites and their conjugates (13%), and other unknown metabolites (3%).
 In addition to the urinary excretion, approximately 45% of the dose was recovered in the faeces as the unchanged febuxostat (12%), the acyl glucuronide of the active substance (1%), its known oxidative metabolites and their conjugates (25%), and other unknown metabolites (7%).
+
 Renal impairment
 Following multiple doses of 80 mg of ADENURIC in patients with mild, moderate or severe renal impairment, the Cmax of febuxostat did not change, relative to subjects with normal renal function.
-The mean total AUC of febuxostat increased by approximately 1.8-fold from 7.5 μg⋅h/mL in the normal renal function group to 13.2 μg.h/mL in the severe renal dysfunction group.
+The mean total AUC of febuxostat increased by approximately 1.8-fold from 7.5 µg⋅h/mL in the normal renal function group to 13.2 µg.h/mL in the severe renal dysfunction group.
 The Cmax and AUC of active metabolites increased up to 2- and 4-fold, respectively.
 However, no dose adjustment is necessary in patients with mild or moderate renal impairment.
 
