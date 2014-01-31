@@ -28,6 +28,7 @@ TRAVATAN contains propylene glycol which may cause skin irritation.
 TRAVATAN contains polyoxyethylene hydrogenated castor oil 40 which may cause skin reactions.
 
 In patients with known predisposing risk factors for iritis/uveitis, TRAVATAN can be used with caution.
+
 Prostaglandins and prostaglandin analogues are biologically active materials that may be absorbed through the skin.
 Women who are pregnant or attempting to become pregnant should exercise appropriate precautions to avoid direct exposure to the contents of the bottle.
 In the unlikely event of coming in contact with a substantial portion of the contents of the bottle, thoroughly cleanse the exposed area immediately.

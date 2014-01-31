@@ -2,6 +2,7 @@
 
 Pharmacotherapeutic Group: Ophthalmologicals-antiglaucoma preparations and miotics-prostaglandin analogues
 ATC code: S01E E04
+
 Mechanism of action
 Travoprost, a prostaglandin F2α analogue, is a highly selective full agonist which has a high affinity for the prostaglandin FP receptor, and reduces the intraocular pressure by increasing the outflow of aqueous humour via trabecular meshwork and uveoscleral pathways.
 Reduction of the intraocular pressure in man starts about 2 hours after administration and maximum effect is reached after 12 hours.
