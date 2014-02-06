@@ -75,10 +75,7 @@ In combination with capecitabine
 
 - For capecitabine dose modifications, see capecitabine summary of product characteristics.
 - For patients developing the first appearance of Grade 2 toxicity, which persists at the time of the next docetaxel/capecitabine treatment, delay treatment until resolved to Grade 0-1, and resume at 100% of the original dose.
-- For patients developing the second appearance of Grade 2 toxicity, or the first appearance of
-
-Grade 3 toxicity, at any time during the treatment cycle, delay treatment until resolved to Grade 0-1 and then resume treatment with docetaxel 55 mg/m².
-
+- For patients developing the second appearance of Grade 2 toxicity, or the first appearance of Grade 3 toxicity, at any time during the treatment cycle, delay treatment until resolved to Grade 0-1 and then resume treatment with docetaxel 55 mg/m².
 - For any subsequent appearances of toxicities, or any Grade 4 toxicities, discontinue the docetaxel dose.
 
 For trastuzumab dose modifications, see trastuzumab summary of product characteristics.
@@ -114,13 +111,13 @@ Paediatric population
 The safety and efficacy of TAXOTERE in nasopharyngeal carcinoma in children aged 1 month to less than 18 years have not yet been established.
 There is no relevant use of TAXOTERE in the paediatric population in the indications breast cancer, non-small cell lung cancer, prostate cancer, gastric carcinoma and head and neck cancer, not including type II and III less differentiated nasopharyngeal carcinoma.
 
-Elderly patients
-Based on a population pharmacokinetic analysis, there are no special instructions for use in the elderly.
+Older people
+Based on a population pharmacokinetic analysis, there are no special instructions for use in the older people.
 In combination with capecitabine, for patients 60 years of age or more, a starting dose reduction of capecitabine to 75% is recommended (see capecitabine summary of product characteristics).
 
 [TAXOTERE 80 mg/2 ml concentrate and solvent for solution for infusion]
 
-(all sentences already above)
+Based on a population pharmacokinetic analysis, there are no special instructions for use in older people.
 
 [TAXOTERE 20 mg/1 ml concentrate for solution for infusion]
 

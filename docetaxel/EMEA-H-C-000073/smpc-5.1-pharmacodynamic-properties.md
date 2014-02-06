@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Taxanes, ATC Code: L01CD 02
+
 Mechanism of action
 
 Docetaxel is an antineoplastic agent which acts by promoting the assembly of tubulin into stable microtubules and inhibits their disassembly which leads to a marked decrease of free tubulin.
@@ -37,12 +38,12 @@ The first interim analysis was planned 3 years after the date when half of study
 The second interim analysis was done after 400 DFS events had been recorded overall, which led to a median follow-up of 55 months.
 The final analysis was performed when all patients had reached their 10-year follow-up visit (unless they had a DFS event or were lost to follow-up before).
 Disease-free survival (DFS) was the primary efficacy endpoint and Overall survival (OS) was the secondary efficacy endpoint.
-
 A final analysis was performed with an actual median follow up of 96 months.
 Significantly longer disease-free survival for the TAC arm compared to the FAC arm was demonstrated.
 Incidence of relapses at 10 years was reduced in patients receiving TAC compared to those who received FAC (39% versus 45%, respectively) i.e. an absolute risk reduction by 6% (p = 0.0043).
 Overall survival at 10 years was also significantly increased with TAC compared to FAC (76% versus 69%, respectively) i.e. an absolute reduction of the risk of death by 7% (p = 0.002).
 As the benefit observed in patients with 4+ nodes was not statistically significant on DFS and OS, the positive benefit/risk ratio for TAC in patients with 4+ nodes was not fully demonstrated at the final analysis.
+
 Overall, the study results demonstrate a positive benefit risk ratio for TAC compared to FAC.
 
 TAC-treated patient subsets according to prospectively defined major prognostic factors were analyzed:
@@ -363,6 +364,19 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 TAXOTERE was administered as a 1-hour infusion, all other medicinal products were given as intraveinously on day 1 every three weeks.
 
+| Patient subset | Number of patients in TAC group | Disease Free Survival |  |
+| --- | --- | --- | --- |
+|  |  | Hazard ratio* | 95% CI |
+| Overall | 539 | 0.68 | 0.49-0.93 |
+| Age category 1 <50 years ≥50 years | 260 279 | 0.67 0.67 | 0.43-1.05 0.43-1.05 |
+| Age category 2 <35 years ≥35 years | 42 497 | 0.31 0.73 | 0.11-0.89 0.52-1.01 |
+| Hormonal receptor |  |  |  |
+| status Negative Positive | 195 344 | 0.7 0.62 | 0.45-1.1 0.4-0.97 |
+| Tumour size ≤2 cm >2 cm | 285 254 | 0.69 0.68 | 0.43-1.1 0.45-1.04 |
+| Histological grade Grade1 (includes grade not assessed) Grade 2 Grade 3 | 64 | 0.79 | 0.24-2.6 |
+|  | 216 259 | 0.77 0.59 | 0.46-1.3 0.39-0.9 |
+| Menopausal status Pre-Menopausal Post-Menopausal | 285 254 | 0.64 0.72 | 0.40-1 0.47-1.12 |
+
 CI = confidence interval
 ER = estrogen receptor
 
@@ -370,10 +384,21 @@ ER = estrogen receptor
 
 Pharmacotherapeutic group: Taxanes, ATC Code: L01CD02
 
-Incidence of relapses at 10 years was reduced in patients receiving TAC compared to those who received FAC (39% versus 45%, respectively) i.e. an absolute risk reduction by 6%
-(p = 0.0043).
-
 1060 patients were randomized to receive either TAXOTERE 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 (539 patients in TAC arm), or doxorubicin 50 mg/m2 followed by fluorouracil 500 mg/m2 and cyclosphosphamide 500 mg/m2 (521 patients in FAC arm), as adjuvant treatment of operable node-negative breast cancer patients with high risk of relapse according to 1998 St. Gallen criteria (tumour size >2 cm and/or negative ER and PR and/or high histological/nuclear grade (grade 2 to 3) and /or age <35 years).).
+
+| Patient subset | Number of patients in TAC group | Disease Free Survival |  |
+| --- | --- | --- | --- |
+|  |  | Hazard ratio* | 95% CI |
+| Overall | 539 | 0.68 | 0.49-0.93 |
+| Age category 1 <50 years ≥50 years | 260 279 | 0.67 0.67 | 0.43-1.05 0.43-1.05 |
+| Age category 2 <35 years ≥35 years | 42 497 | 0.31 0.73 | 0.11-0.89 0.52-1.01 |
+| Hormonal receptor status Negative Positive | 195 344 | 0.7 0.62 | 0.45-1.1 0.4-0.97 |
+| Tumour size ≤2 cm >2 cm | 285 254 | 0.69 0.68 | 0.43-1.1 0.45-1.04 |
+| Histological grade Grade1 (includes grade not assessed) Grade 2 Grade 3 | 64 | 0.79 | 0.24-2.6 |
+|  | 216 259 | 0.77 0.59 | 0.46-1.3 0.39-0.9 |
+| Menopausal status Pre-Menopausal | 285 | 0.64 | 0.40-1 |
+
+Post-Menopausal 254 0.72 0.47-1.12
 
 Hazard ratio
 
@@ -409,21 +434,8 @@ There was less use of morphinic analgesic (p < 0.01), non-morphinic analgesics (
 
 [TAXOTERE 80 mg/4 ml concentrate for solution for infusion]
 
-After stratification according to the number of positive lymph nodes (1-3, 4+), 1491 patients were randomized to receive either docetaxel 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 (TAC arm), or doxorubicin 50 mg/m2 followed by fluorouracil 500 mg/m2 and cyclosphosphamide 500 mg/m2 (FAC arm).
-
 Overall survival at 10 years was also significantly increased with TAC compared to FAC (76%versus 69%, respectively) i.e. an absolute reduction of the risk of death by 7% (p = 0.002).
 
 [TAXOTERE 160 mg/8 ml concentrate for solution for infusion.]
 
-| Patient subset | Number of patients in TAC group | Disease Free Survival |  |
-| --- | --- | --- | --- |
-|  |  | Hazard ratio* | 95% CI |
-| Overall | 539 | 0.68 | 0.49-0.93 |
-| Age category 1 <50 years | 260 | 0.67 | 0.43-1.05 |
-| ≥50 years | 279 | 0.67 | 0.43-1.05 |
-| Age category 2 <35 years ≥35 years | 42 497 | 0.31 0.73 | 0.11-0.89 0.52-1.01 |
-| Hormonal receptor status Negative Positive | 195 344 | 0.7 0.62 | 0.45-1.1 0.4-0.97 |
-| Tumour size ≤2 cm >2 cm | 285 254 | 0.69 0.68 | 0.43-1.1 0.45-1.04 |
-| Histological grade Grade1 (includes grade not assessed) Grade 2 Grade 3 | 64 | 0.79 | 0.24-2.6 |
-|  | 216 259 | 0.77 0.59 | 0.46-1.3 0.39-0.9 |
-| Menopausal status Pre-Menopausal Post-Menopausal | 285 254 | 0.64 0.72 | 0.40-1 0.47-1.12 |
+(all sentences already above)

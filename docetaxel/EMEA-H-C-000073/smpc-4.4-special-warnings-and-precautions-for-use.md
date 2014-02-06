@@ -9,6 +9,7 @@ Neutropenia is the most frequent adverse reaction of docetaxel.
 Neutrophil nadirs occurred at a median of 7 days but this interval may be shorter in heavily pre-treated patients.
 Frequent monitoring of complete blood counts should be conducted on all patients receiving docetaxel.
 Patients should be retreated with docetaxel when neutrophils recover to a level ≥ 1,500 cells/mm3 (see section 4.2).
+
 In the case of severe neutropenia (< 500 cells/mm3 for seven days or more) during a course of docetaxel therapy, a reduction in dose for subsequent courses of therapy or the use of appropriate symptomatic measures are recommended (see section 4.2).
 
 In patients treated with docetaxel in combination with cisplatin and 5-fluorouracil (TCF), febrile neutropenia and neutropenic infection occurred at lower rates when patients received prophylactic G-CSF.
@@ -36,6 +37,14 @@ Fluid retention
 
 Patients with severe fluid retention such as pleural effusion, pericardial effusion and ascites should be monitored closely.
 
+Respiratory disorders
+
+Acute respiratory distress syndrome, interstitial pneumonia/pneumonitis, interstitial lung disease, pulmonary fibrosis and respiratory failure have been reported and may be associated with fatal outcome.
+Cases of radiation pneumonitis have been reported in patients receiving concomitant radiotherapy.
+If new or worsening pulmonary symptoms develop, patients should be closely monitored, promptly investigated, and appropriately treated.
+Interruption of docetaxel therapy is recommended until diagnosis is available.
+Early use of supportive care measures may help improve the condition.
+The benefit of resuming docetaxel treatment must be carefully evaluated.
 Patients with liver impairment
 
 In patients treated with docetaxel at 100 mg/m2 as single agent who have serum transaminase levels (ALT and/or AST) greater than 1.5 times the ULN concurrent with serum alkaline phosphatase levels greater than 2.5 times the ULN, there is a higher risk of developing severe adverse reactions such as toxic deaths including sepsis and gastrointestinal haemorrhage which can be fatal, febrile neutropenia, infections, thrombocytopenia, stomatitis and asthenia.
@@ -61,11 +70,19 @@ When patients are candidates for treatment with docetaxel in combination with tr
 Cardiac function should be further monitored during treatment (e.g. every three months) to help identify patients who may develop cardiac dysfunction.
 For more details see summary of product characteristics of trastuzumab.
 
+Eye disorders
+
+Cystoid macular oedema (CMO) has been reported in patients treated with docetaxel.
+Patients with impaired vision should undergo a prompt and complete ophthalmologic examination.
+In case CMO is diagnosed, docetaxel treatment should be discontinued and appropriate treatment initiated (see section 4.8).
+
 Others
 
 Contraceptive measures must be taken by both men and women during treatment and for men at least 6 months after cessation of therapy (see section 4.6).
 
+The concomitant use of docetaxel with strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, indinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin and voriconazole) should be avoided (see section 4.5).
 Additional cautions for use in adjuvant treatment of breast cancer
+
 Complicated neutropenia
 For patients who experience complicated neutropenia (prolonged neutropenia, febrile neutropenia or infection), G-CSF and dose reduction should be considered (see section 4.2).
 
@@ -82,7 +99,7 @@ In the docetaxel, doxorubicin and cyclophosphamide (TAC) treated patients, the r
 Patients with 4+ nodes
 As the benefit observed in patient with 4+ nodes was not statistically significant on disease-free survival (DFS) and overall survival (OS), the positive benefit/risk ratio for TAC in patients with 4+ nodes was not fully demonstrated at the final analysis (see section 5.1).
 
-Elderly patients
+Older people
 There are limited data available in patients > 70 years of age on docetaxel use in combination with doxorubicin and cyclophosphamide.
 
 Of the 333 patients treated with docetaxel every three weeks in a prostate cancer study, 209 patients were 65 years of age or greater and 68 patients were older than 75 years.
@@ -90,9 +107,10 @@ In patients treated with docetaxel every three weeks, the incidence of related n
 The incidence of related fever, diarrhoea, anorexia, and peripheral oedema occurred at rates ≥ 10% higher in patients who were 75 years of age or greater versus less than 65 years.
 
 Among the 300 (221 patients in the phase III part of the study and 79 patients in the phase II part) patients treated with docetaxel in combination with cisplatin and 5-fluorouracil in the gastric cancer study, 74 were 65 years of age or older and 4 patients were 75 years of age or older.
-The incidence of serious adverse events was higher in the elderly patients compared to younger patients.
-The incidence of the following adverse events (all grades): lethargy, stomatitis, neutropenic infection occurred at rates ≥ 10% higher in patients who were 65 years of age or older compared to younger patients.
-Elderly patients treated with TCF should be closely monitored.
+The incidence of serious adverse events was higher in older people compared to younger patients.
+The incidence of the following adverse events (all grades): lethargy, stomatitis, neutropenic infection occurred at rates
+≥ 10% higher in patients who were 65 years of age or older compared to younger patients.
+Older people treated with TCF should be closely monitored.
 
 [TAXOTERE 80 mg/2 ml concentrate and solvent for solution for infusion]
 
