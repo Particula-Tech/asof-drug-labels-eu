@@ -22,6 +22,7 @@ Endoscopic studies in intestinal mucosa have shown evidence of mucosal healing i
 Clinicalefficacy and safety
 
 Polyarticular juvenile idiopathic arthritis (JIA)
+
 The safety and efficacy of Humira was assessed in two studies (JIA I and II) in children with active polyarticular or polyarticular course juvenile idiopathic arthritis, who had a variety of JIA onset types (most frequently rheumatoid-factor negative or positive polyarthritis and extended oligoarthritis).
 
 JIA-I
@@ -77,12 +78,11 @@ At Week 12 and Week 24, PedACR30 response was 93.5% and 90.0%, respectively, usi
 The proportions of subjects with PedACR50/70/90 at Week 12 and Week 24 were 90.3%/61.3%/38.7% and 83.3%/73.3%/36.7%, respectively.
 Amongst those who responded (Pediatric ACR 30) at Week 24 (n=27 out of 30 patients), the Pediatric ACR 30 responses were maintained for up to 60 weeks in the OLE phase in patients who received Humira throughout this time period.
 Overall, 20 subjects were treated for 60 weeks or longer.
-
 Adults with Rheumatoid arthritis
 
-Humira was evaluated in over 3,000 patients in all rheumatoid arthritis clinical trials.
-Some patients were treated for up to 60 months duration.
-The efficacy and safety of Humira for the treatment of rheumatoid arthritis were assessed in five randomised, double-blind and well-controlled studies.
+Humira was evaluated in over 3000 patients in all rheumatoid arthritis clinical trials.
+The efficacy and safety of Humira were assessed in five randomised, double-blind and well-controlled studies.
+Some patients were treated for up to 120 months duration.
 
 RA study I evaluated 271 patients with moderately to severely active rheumatoid arthritis who were
 ≥ 18 years old, had failed therapy with at least one disease-modifying, anti rheumatic drug and had insufficient efficacy with methotrexate at doses of 12.5 to 25 mg (10 mg if methotrexate-intolerant) every week and whose methotrexate dose remained constant at 10 to 25 mg every week.
@@ -93,17 +93,17 @@ RA study II evaluated 544 patients with moderately to severely active rheumatoid
 Doses of 20 or 40 mg of Humira were given by subcutaneous injection every other week with placebo on alternative weeks or every week for 26 weeks; placebo was given every week for the same duration.
 No other disease-modifying anti-rheumatic drugs were allowed.
 
-RA study III evaluated 619 patients with moderately to severely active rheumatoid arthritis who were ≥ 18 years old, and who had an ineffective response to methotrexate at doses of 12.5 to 25 mg, or have been intolerant to 10 mg of methotrexate every week.
+RA study III evaluated 619 patients with moderately to severely active rheumatoid arthritis who were ≥ 18 years old, and who had an ineffective response to methotrexate at doses of 12.5 to 25 mg or have been intolerant to 10 mg of methotrexate every week.
 There were three groups in this study.
 The first received placebo injections every week for 52 weeks.
 The second received 20 mg of Humira every week for 52 weeks.
-The third group received 40 mg of Humira every other week with placebo injections on alternate weeks.
-Thereafter, patients enrolled in an open-label extension phase in which 40 mg of Humira was administered every other week up to 10 years.
+The third group received 40 mg of Humira every other week with placebo injections on alternate weeks.Upon completion of the first 52 weeks, 457 patients enrolled in an open-label extension phase in which 40 mg of Humira/MTX was administered every other week up to 10 years.
 
 RA study IV primarily assessed safety in 636 patients with moderately to severely active rheumatoid arthritis who were ≥ 18 years old.
 Patients were permitted to be either disease-modifying, anti-rheumatic drug-naïve or to remain on their pre-existing rheumatologic therapy provided that therapy was stable for a minimum of 28 days.
 These therapies include methotrexate, leflunomide, hydroxychloroquine, sulfasalazine and/or gold salts.
 Patients were randomised to 40 mg of Humira or placebo every other week for 24 weeks.
+
 RA study V evaluated 799 methotrexate-naïve, adult patients with moderate to severely active early rheumatoid arthritis (mean disease duration less than 9 months).
 This study evaluated the efficacy of Humira 40 mg every other week/methotrexate combination therapy, Humira 40 mg every other week monotherapy and methotrexate monotherapy in reducing the signs and symptoms and rate of progression of joint damage in rheumatoid arthritis for 104 weeks.
 
@@ -120,9 +120,10 @@ The results for the 40 mg every other week dose are summarised in Table 5.
 Table 5 ACR Responses in Placebo-Controlled Trials
 (Percent of Patients)
 
-| Response | RA Study Ia** | RA Study IIa** | RA Study IIIa** |
-| --- | --- | --- | --- |
+Response RA Study Ia** RA Study IIa** RA Study IIIa**
+
 |  | Placebo/ Humirab/ MTXc MTXc n=63 n=60 | Placebo Humirab n=110 n=113 | Placebo/ Humirab/ MTXc MTXc n=207 n=200 |
+| --- | --- | --- | --- |
 | ACR 20 6 months 12 months ACR 50 6 months 12 months ACR 70 6 months 12 months | 13.3% 65.1% NA NA | 19.1% 46.0% NA NA | 29.5% 63.3% 24.0% 58.9% |
 |  | 6.7% 52.4% NA NA | 8.2% 22.1% NA NA | 9.5% 39.1% 9.5% 41.5% |
 |  | 3.3% 23.8% NA NA | 1.8% 12.4% NA NA | 2.5% 20.8% 4.5% 23.2% |
@@ -142,6 +143,7 @@ Among those, 64 patients (79.0%) had ACR 20 responses; 56 patients (69.1%) had A
 In RA study IV, the ACR 20 response of patients treated with Humira plus standard of care was statistically significantly better than patients treated with placebo plus standard of care (p < 0.001).
 
 In RA studies I-IV, Humira-treated patients achieved statistically significant ACR 20 and 50 responses compared to placebo as early as one to two weeks after initiation of treatment.
+
 In RA study V with early rheumatoid arthritis patients who were methotrexate naïve, combination therapy with Humira and methotrexate led to faster and significantly greater ACR responses than methotrexate monotherapy and Humira monotherapy at Week 52 and responses were sustained at Week 104 (see Table 6).
 
 Table 6 ACR Responses in RA Study V
@@ -158,7 +160,9 @@ Table 6 ACR Responses in RA Study V
 | ACR 70 |  |  |  |  |  |  |
 | Week 52 | 27.2% | 25.9% | 45.5% | < 0.001 | < 0.001 | 0.656 |
 | Week 104 | 28.4% | 28.1% | 46.6% | < 0.001 | < 0.001 | 0.864 |
-| a p-value is from the pairwise comparison of methotrexate monotherapy and Humira/methotrexate combination therapy using the Mann-Whitney U test. b p-value is from the pairwise comparison of Humira monotherapy and Humira/methotrexate combination therapy using the Mann-Whitney U test c p-value is from the pairwise comparison of Humira monotherapy and methotrexate monotherapy using the Mann-Whitney U test |  |  |  |  |  |  |
+
+a p-value is from the pairwise comparison of methotrexate monotherapy and Humira/methotrexate combination therapy using the Mann-Whitney U test.
+b p-value is from the pairwise comparison of Humira monotherapy and Humira/methotrexate combination therapy using the Mann-Whitney U test c p-value is from the pairwise comparison of Humira monotherapy and methotrexate monotherapy using the Mann-Whitney U test
 
 At Week 52, 42.9% of patients who received Humira/methotrexate combination therapy achieved clinical remission (DAS28 < 2.6) compared to 20.6% of patients receiving methotrexate monotherapy and 23.4% of patients receiving Humira monotherapy.
 Humira/methotrexate combination therapy was clinically and statistically superior to methotrexate (p < 0.001) and Humira monotherapy (p < 0.001) in achieving a low disease state in patients with recently diagnosed moderate to severe rheumatoid arthritis.
@@ -169,11 +173,12 @@ Radiographic response
 In RA study III, where Humira treated patients had a mean duration of rheumatoid arthritis of approximately 11 years, structural joint damage was assessed radiographically and expressed as change in modified Total Sharp Score (TSS) and its components, the erosion score and joint space narrowing score.
 Humira/methotrexate patients demonstrated significantly less radiographic progression than patients receiving methotrexate alone at 6 and 12 months (see Table 7).
 
-Data from the open-label extension phase indicate that the reduction in rate of progression of structural damage is maintained for 8 and 10 years in a subset of patients.
+In the open-label extension of RA Study III, the reduction in rate of progression of structural damage is maintained for 8 and 10 years in a subset of patients.
 At 8 years, 81 of 207 patients originally treated with 40 mg Humira every other week were evaluated radiographically.
 Among those, 48 patients showed no progression of structural damage defined by a change from baseline in the mTSS of 0.5 or less.
 At 10 years, 79 of 207 patients originally treated with 40 mg Humira every other week were evaluated radiographically.
 Among those, 40 patients showed no progression of structural damage defined by a change from baseline in the mTSS of 0.5 or less.
+
 Table 7 Radiographic Mean Changes Over 12 Months in RA Study III
 
 |  | Placebo/ MTXa | Humira/MTX 40 mg every other week | Placebo/MTX-Humira/MTX (95% Confidence Intervalb) | p-value |
@@ -190,7 +195,8 @@ Table 8 Radiographic Mean Changes at Week 52 in RA Study V
 
 |  | MTX n=257 (95% confidence interval) | Humira n=274 (95% confidence interval) | Humira/MTX n=268 (95% confidence interval) | p-valuea | p-valueb | p-valuec |
 | --- | --- | --- | --- | --- | --- | --- |
-| Total Sharp Score | 5.7 (4.2-7.3) | 3.0 (1.7-4.3) | 1.3 (0.5-2.1) | < 0.001 | 0.0020 | < 0.001 |
+| Total Sharp | 5.7 (4.2-7.3) | 3.0 (1.7-4.3) | 1.3 (0.5-2.1) | < 0.001 | 0.0020 | < 0.001 |
+| Score |  |  |  |  |  |  |
 | Erosion score | 3.7 (2.7-4.7) | 1.7 (1.0-2.4) | 0.8 (0.4-1.2) | < 0.001 | 0.0082 | < 0.001 |
 | JSN score | 2.0 (1.2-2.8) | 1.3 (0.5-2.1) | 0.5 (0-1.0) | < 0.001 | 0.0037 | 0.151 |
 
@@ -205,6 +211,7 @@ Health-related quality of life and physical function were assessed using the dis
 All doses/schedules of Humira in all four studies showed statistically significantly greater improvement in the disability index of the HAQ from baseline to Month 6 compared to placebo and in RA study III the same was seen at Week 52.
 Results from the Short Form Health Survey (SF 36) for all doses/schedules of Humira in all four studies support these findings, with statistically significant physical component summary (PCS) scores, as well as statistically significant pain and vitality domain scores for the 40 mg every other week dose.
 A statistically significant decrease in fatigue as measured by functional assessment of chronic illness therapy (FACIT) scores was seen in all three studies in which it was assessed (RA studies I, III, IV).
+
 In RA study III, most subjects who achieved improvement in physical function and continued treatment maintained improvement through Week 520 (120 months) of open-label treatment.
 Improvement in quality of life was measured up to Week 156 (36 months) and improvement was maintained through that time.
 
@@ -219,7 +226,6 @@ Subjects may also have previously lost response or been intolerant to infliximab
 All subjects received open-label induction therapy at a dose based on their Baseline body weight: 160 mg at Week 0 and 80 mg at Week 2 for subjects ≥ 40 kg, and 80 mg and 40 mg, respectively, for subjects < 40 kg.
 
 At Week 4, subjects were randomized 1:1 based on their body weight at the time to either the Low Dose or Standard Dose maintenance regimens as shown in Table 9.
-
 Table 9
 Maintenance regimen
 
@@ -245,7 +251,9 @@ Rates of discontinuation of corticosteroids or immunomodulators are presented in
 | Clinical remission | 33.3% | 23.2% | 0.100 |
 | Clinical response | 41.9% | 28.4% | 0.038 |
 | * p value for Standard Dose versus Low Dose comparison. |  |  |  |
+
 | Table 11 Paediatric CD Study Discontinuation of Corticosteroids or Immunomodulators and Fistula Remission |  |  |  |
+| --- | --- | --- | --- |
 |  | Standard Dose 40/20 mg eow | Low Dose 20/10 mg eow | P value1 |
 | Discontinued corticosteroids | N= 33 | N=38 |  |
 | Week 26 | 84.8% | 65.8% | 0.066 |
@@ -263,7 +271,6 @@ Rates of discontinuation of corticosteroids or immunomodulators are presented in
 Statistically significant increases (improvement) from Baseline to Week 26 and 52 in Body Mass Index and height velocity were observed for both treatment groups.
 
 Statistically and clinically significant improvements from Baseline were also observed in both treatment groups for quality of life parameters (including IMPACT III).
-
 Adult Crohn’s disease
 
 The safety and efficacy of Humira were assessed in over 1500 patients with moderately to severely active Crohn’s disease (Crohn’s Disease Activity Index (CDAI) ≥ 220 and ≤ 450) in randomised, double-blind, placebo-controlled studies.
@@ -281,6 +288,7 @@ Patients in clinical response (decrease in CDAI ≥ 70) at Week 4 were stratifie
 Corticosteroid taper was permitted after Week 8.
 
 CD study I and CD study II induction of remission and response rates are presented in Table 12.
+
 Table 12
 Induction of Clinical Remission and Response
 (Percent of Patients)
@@ -304,7 +312,6 @@ Maintenance of remission and response rates are presented in Table 13.
 Clinical remission results remained relatively constant irrespective of previous TNF-antagonist exposure.
 
 Disease-related hospitalisations and surgeries were statistically significantly reduced with adalimumab compared with placebo at Week 56.
-
 Table 13
 Maintenance of Clinical Remission and Response
 (Percent of Patients)
@@ -322,6 +329,7 @@ Maintenance of Clinical Remission and Response
 
 * p < 0.001 for Humira versus placebo pairwise comparisons of proportions
 ** p < 0.02 for Humira versus placebo pairwise comparisons of proportions a Of those receiving corticosteroids at baseline
+
 Among patients who were not in response at Week 4, 43% of Humira maintenance patients responded by Week 12 compared to 30% of placebo maintenance patients.
 These results suggest that some patients who have not responded by Week 4 benefit from continued maintenance therapy through Week 12.
 Therapy continued beyond 12 Weeks did not result in significantly more responses (see section 4.2).
@@ -356,14 +364,21 @@ Clinical efficacy and safety
 
 Rheumatoid arthritis
 
-Humira was evaluated in over 3000 patients in all rheumatoid arthritis clinical trials.
-
-RA study III evaluated 619 patients with moderately to severely active rheumatoid arthritis who were ≥ 18 years old, and who had an ineffective response to methotrexate at doses of 12.5 to 25 mg or have been intolerant to 10 mg of methotrexate every week.
-
 The results for the 40 mg every other week dose are summarised in Table 3.
+
 ACR Responses in Placebo-Controlled Trials
 
+| Response | RA Study Ia** | RA Study IIa** | RA Study IIIa** |
+| --- | --- | --- | --- |
+|  | Placebo/ Humirab/ MTXc MTXc n=63 n=60 | Placebo Humirab n=110 n=113 | Placebo/ Humirab/ MTXc MTXc n=207 n=200 |
+| ACR 20 6 months 12 months ACR 50 6 months 12 months ACR 70 6 months 12 months | 13.3% 65.1% NA NA | 19.1% 46.0% NA NA | 29.5% 63.3% 24.0% 58.9% |
+|  | 6.7% 52.4% NA NA | 8.2% 22.1% NA NA | 9.5% 39.1% 9.5% 41.5% |
+|  | 3.3% 23.8% NA NA | 1.8% 12.4% NA NA | 2.5% 20.8% 4.5% 23.2% |
+
+Of 207 patients who were randomised to Humira 40mg every other week, 114 patients continued on Humira 40 mg every other week for 5 years.
+
 In RA study V with early rheumatoid arthritis patients who were methotrexate naïve, combination therapy with Humira and methotrexate led to faster and significantly greater ACR responses than methotrexate monotherapy and Humira monotherapy at Week 52 and responses were sustained at Week 104 (see Table 4).
+
 ACR Responses in RA Study V
 
 | Response | MTX n=257 | Humira n=274 | Humira/MTX n=268 | p-valuea | p-valueb | p-valuec |
@@ -388,6 +403,12 @@ In RA study V, structural joint damage was assessed radiographically and express
 
 Table 6
 Radiographic Mean Changes at Week 52 in RA Study V
+
+|  | MTX n=257 (95% confidence interval) | Humira n=274 (95% confidence interval) | Humira/MTX n=268 (95% confidence interval) | p-valuea | p-valueb | p-valuec |
+| --- | --- | --- | --- | --- | --- | --- |
+| Total Sharp Score | 5.7 (4.2-7.3) | 3.0 (1.7-4.3) | 1.3 (0.5-2.1) | < 0.001 | 0.0020 | < 0.001 |
+| Erosion score | 3.7 (2.7-4.7) | 1.7 (1.0-2.4) | 0.8 (0.4-1.2) | < 0.001 | 0.0082 | < 0.001 |
+| JSN score | 2.0 (1.2-2.8) | 1.3 (0.5-2.1) | 0.5 (0-1.0) | < 0.001 | 0.0037 | 0.151 |
 
 JIA I
 
@@ -417,7 +438,6 @@ Amongst those who responded at Week 16 (n=144), the Pediatric ACR 30/50/70/90 re
 Axial Spondyloarthritis
 
 Ankylosing spondylitis (AS)
-
 Humira 40 mg every other week was assessed in 393 patients in two randomised, 24 week double − blind, placebo − controlled studies in patients with active ankylosing spondylitis (mean baseline score of disease activity [Bath Ankylosing Spondylitis Disease Activity Index (BASDAI)] was 6.3 in all groups) who have had an inadequate response to conventional therapy.
 Seventy-nine (20.1%) patients were treated concomitantly with disease modifying anti − rheumatic drugs, and 37 (9.4%) patients with glucocorticoids.
 The blinded period was followed by an open − label period during which patients received Humira 40 mg every other week subcutaneously for up to an additional 28 weeks.
@@ -469,7 +489,7 @@ Efficacy Response in Placebo-Controlled Axial SpA Study - Reduction of signs and
 | ASASa 40 | 15% | 36%*** |
 | ASAS 20 | 31% | 52%** |
 | ASAS 5/6 | 6% | 31%*** |
-| ASAS partial remission | 5% | 16%*** |
+| ASAS partial remission | 5% | 16%* |
 | BASDAIb 50 | 15% | 35%** |
 
 a ASAS = Assessments in Spondyloarthritis International Society b Bath Ankylosing Spondylitis Disease Activity Index
@@ -513,6 +533,7 @@ Humira treatment reduced the rate of progression of peripheral joint damage comp
 In subjects treated with Humira with no radiographic progression from baseline to Week 48 (n=102), 84% continued to show no radiographic progression through 144 weeks of treatment.
 Humira treated patients demonstrated statistically significant improvement in physical function as assessed by HAQ and Short Form Health Survey (SF 36) compared to placebo at Week 24.
 Improved physical function continued during the open label extension up to Week 136.
+
 Psoriasis
 
 The safety and efficacy of Humira were studied in adult patients with chronic plaque psoriasis (≥ 10% BSA involvement and Psoriasis Area and Severity Index (PASI) ≥ 12 or ≥ 10) who were candidates for systemic therapy or phototherapy in randomised, double-blind studies.
@@ -523,6 +544,7 @@ In period A, patients received placebo or Humira at an initial dose of 80 mg fol
 After 16 weeks of therapy, patients who achieved at least a PASI 75 response (PASI score improvement of at least 75% relative to baseline), entered period B and received open-label 40 mg Humira every other week.
 Patients who maintained ≥PASI 75 response at Week 33 and were originally randomised to active therapy in Period A, were re-randomised in period C to receive 40 mg Humira every other week or placebo for an additional 19 weeks.
 Across all treatment groups, the mean baseline PASI score was 18.9 and the baseline Physician’s Global Assessment (PGA) score ranged from “moderate” (53% of subjects included) to “severe” (41%) to “very severe” (6%).
+
 Psoriasis Study II (CHAMPION) compared the efficacy and safety of Humira versus methotrexate and placebo in 271 patients.
 Patients received placebo, an initial dose of MTX 7.5 mg and thereafter dose increases up to Week 12, with a maximum dose of 25 mg or an initial dose of 80 mg Humira followed by 40 mg every other week (starting one week after the initial dose) for 16 weeks.
 There are no data available comparing Humira and MTX beyond 16 weeks of therapy.
@@ -625,11 +647,20 @@ Table 19
 
 Response, Remission and Mucosal Healing in Study UC-II
 
-|  | Placebo | HUMIRA 40 mg every other week |
-| --- | --- | --- |
-| Week 52 | N=246 | N=248 |
-| Clinical Response Clinical Remission Mucosal Healing Steroid-free remission for ≥ 90 days a | 18% 9% 15% 6% (N=140) | 30%* 17%* 25%* 13% * (N=150) |
-| Week 8 and 52 Sustained Response Sustained Remission Sustained Mucosal Healing | 12% 4% 11% | 24%** 8%* 19%* |
+Placebo HUMIRA 40 mg every other week
+
+Week 52 N=246 N=248
+Clinical Response 18% 30%*
+Clinical Remission 9% 17%*
+Mucosal Healing 15% 25%*
+Steroid-free remission for ≥ 90 days a 6% 13% *
+(N=140) (N=150)
+
+Week 8 and 52
+
+Sustained Response 12% 24%**
+Sustained Remission 4% 8%*
+Sustained Mucosal Healing 11% 19%*
 
 Clinical remission is Mayo score ≤ 2 with no subscore > 1;
 *p<0.05 for HUMIRA vs. placebo pairwise comparison of proportions
@@ -664,6 +695,19 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 The primary end point in RA studies I, II and III and the secondary endpoint in RA study IV was the percentage of patients who achieved an ACR 20 response at Week 24 or 26.
 
+| Response | MTX n=257 | Humira n=274 | Humira/MTX n=268 | p-valuea | p-valueb | p-valuec |
+| --- | --- | --- | --- | --- | --- | --- |
+| ACR 20 |  |  |  |  |  |  |
+| Week 52 | 62.6% | 54.4% | 72.8% | 0.013 | < 0.001 | 0.043 |
+| Week 104 | 56.0% | 49.3% | 69.4% | 0.002 | < 0.001 | 0.140 |
+| ACR 50 |  |  |  |  |  |  |
+| Week 52 | 45.9% | 41.2% | 61.6% | < 0.001 | < 0.001 | 0.317 |
+| Week 104 | 42.8% | 36.9% | 59.0% | < 0.001 | < 0.001 | 0.162 |
+| ACR 70 |  |  |  |  |  |  |
+| Week 52 | 27.2% | 25.9% | 45.5% | < 0.001 | < 0.001 | 0.656 |
+| Week 104 | 28.4% | 28.1% | 46.6% | < 0.001 | < 0.001 | 0.864 |
+| a p-value is from the pairwise comparison of methotrexate monotherapy and Humira/methotrexate combination therapy using the Mann-Whitney U test. b p-value is from the pairwise comparison of Humira monotherapy and Humira/methotrexate combination therapy using the Mann-Whitney U test c p-value is from the pairwise comparison of Humira monotherapy and methotrexate monotherapy using the Mann-Whitney U test |  |  |  |  |  |  |
+
 | Stratum | MTX |  | Without MTX |  |
 | --- | --- | --- | --- | --- |
 | Phase |  |  |  |  |
@@ -690,8 +734,6 @@ Maintenance of clinical remission was evaluated in CD Study I (CHARM).
 | Week 4 |  |  |  |  |  |
 | Clinical remission | 12% | 24% | 36%* | 7% | 21%* |
 | Clinical response (CR-100) | 24% | 37% | 49%** | 25% | 38%** |
-
-In CD Study II, at Week 4, 58% (499/854) of patients were in clinical response and were assessed in the primary analysis.
 
 Results from the overall UC-II study population are shown in Table169.
 

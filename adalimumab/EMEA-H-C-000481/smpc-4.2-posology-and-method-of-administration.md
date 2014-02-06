@@ -9,8 +9,7 @@ After proper training in injection technique, patients may self-inject with Humi
 
 Paediatric Population
 
-Polyarticular Juvenile Idiopathic Arthritis Age 2 to 12 years
-
+Polyarticular Juvenile Idiopathic Arthritis from 2 to 12 years of age
 The recommended dose of Humira for patients with polyarticular juvenile idiopathic arthritis, aged 2-12 years, is 24 mg/m² body surface area up to a maximum single dose of 20 mg adalimumab (for patients aged 2-<4) and up to a maximum single dose of 40 mg adalimumab (for patients aged 4-12) administered every other week via subcutaneous injection..
 The volume for injection is selected based on the patients' height and weight (Table 1).
 
@@ -34,9 +33,9 @@ Height Total Body Weight (kg)
 
 *Maximum single dose is 40 mg (0.8 ml)
 
-Polyarticular Juvenile Idiopathic Arthritis Age 13-17 years:
+Polyarticular Juvenile Idiopathic Arthritis from 13 years of age
 
-For adolescents aged 13-17 years, a dose of 40 mg is administered every other week regardless of body surface area.
+For adolescents from 13 years of age, a dose of 40 mg is administered every other week regardless of body surface area.
 
 A 40 mg pen and a 40 mg pre-filled syringe are also available for patients to administer a full 40 mg dose.
 
@@ -45,7 +44,7 @@ Continued therapy should be carefully reconsidered in a patient not responding w
 
 There is no relevant use of Humira in children aged less than 2 years in this indication.
 
-Paediatric Crohn's disease
+Paediatric Crohn's Disease
 
 Paediatric Crohn's disease patients < 40 kg:
 
@@ -56,9 +55,9 @@ After induction treatment, the recommended dose is 20 mg every other week via su
 Some subjects who experience insufficient response may benefit from an increase in dosing frequency to 20 mg Humira every week.
 
 Paediatric Crohn's disease patients ≥ 40 kg:
-
 The recommended Humira induction dose regimen for paediatric subjects with severe Crohn's disease is 80 mg at Week 0 followed by 40 mg at Week 2.
 In case there is a need for a more rapid response to therapy, the regimen 160 mg at Week 0 (dose can be administered as four injections in one day or as two injections per day for two consecutive days), 80 mg at Week 2 can be used, with the awareness that the risk for adverse events may be higher with use of the higher induction dose.
+
 After induction treatment, the recommended dose is 40 mg every other week via subcutaneous injection.
 Some subjects who experience insufficient response may benefit from an increase in dosing frequency to 40 mg Humira every week.
 
@@ -66,7 +65,9 @@ Continued therapy should be carefully considered in a subject not responding by 
 
 A 40 mg pen and a 40 mg prefilled syringe are also available for patients to administer a full 40 mg dose.
 
-There is no relevant use of Humira in children aged less than 6 years in this indication.Impaired renal and/or hepatic function
+There is no relevant use of Humira in children aged less than 6 years in this indication.
+
+Impaired renal and/or hepatic function
 
 Humira has not been studied in these patient populations.
 No dose recommendations can be made.
@@ -129,11 +130,8 @@ The recommended Humira induction dose regimen for adult patients with moderate t
 Available data suggest that clinical response is usually achieved within 2-8 weeks of treatment.
 Humira therapy should not be continued in patients failing to respond within this time period.
 
-Elderly patients
-
+Older people
 No dose adjustment is required.
-
-Impaired renal and/or hepatic function
 
 Polyarticular Juvenile Idiopathic Arthritis
 
@@ -162,6 +160,10 @@ There is no relevant use of Humira in the paediatric population in the indicatio
 The recommended dose of Humira for patients with ankylosing spondylitis axial spondyloarthritis without radiographic evidence of AS and for patients with psoriatic arthritis is 40 mg adalimumab administered every other week as a single dose via subcutaneous injection.
 
 There is little experience from re administration after more than 8 weeks since the previous dose.
+
+Older peopleNo dose adjustment is required.
+
+For adolescents from13 years of age, a dose of 40 mg is administered every other week regardless of body surface area.
 
 [Humira 40 mg solution for injection in pre-filled pen]
 
