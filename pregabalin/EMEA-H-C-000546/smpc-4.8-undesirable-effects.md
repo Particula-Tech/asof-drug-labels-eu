@@ -6,12 +6,12 @@ Adverse reactions were usually mild to moderate in intensity.
 In all controlled studies, the discontinuation rate due to adverse reactions was 12% for patients receiving pregabalin and 5% for patients receiving placebo.
 The most common adverse reactions resulting in discontinuation from pregabalin treatment groups were dizziness and somnolence.
 
-In the table below all adverse reactions, which occurred at an incidence greater than placebo and in more than one patient, are listed by class and frequency (very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000), not known (cannot be estimated from the available data).
+In the table below all adverse reactions, which occurred at an incidence greater than placebo and in more than one patient, are listed by class and frequency (very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (< 1/10,000), not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-The adverse reactions listed may also be associated with the underlying disease and / or concomitant medicinal products.
+The adverse reactions listed may also be associated with the underlying disease and/or concomitant medicinal products.
 
-In the treatment of central neuropathic pain due to spinal cord injury the incidence of adverse reactions in general, CNS adverse reactions and especially somnolence was increased (See 4.4).
+In the treatment of central neuropathic pain due to spinal cord injury the incidence of adverse reactions in general, CNS adverse reactions and especially somnolence was increased (see section 4.4).
 
 Additional reactions reported from post-marketing experience are included as Frequency not known in italics in the list below.
 
@@ -72,7 +72,7 @@ Rare Peripheral vision loss, oscillopsia, altered visual depth perception,
 
 photopsia, eye irritation, mydriasis, strabismus, visual brightness
 
-Frequency not known Vision loss, keratitis
+Frequency not known Vision loss, Keratitis
 
 Ear and labyrinth disorders
 
@@ -138,7 +138,7 @@ General disorders and administration site conditions
 
 Common Gait abnormal, feeling drunk, fatigue, oedema peripheral, oedema
 Uncommon Fall, chest tightness, asthenia, thirst, pain, feeling abnormal, chills
-Rare Generalised oedema, pyrexia
+Rare Generalised oedema, pirexia
 Frequency not known Face oedema
 
 Investigations
@@ -150,46 +150,46 @@ increased, aspartate aminotransferase increased, platelet count decreased
 
 Rare Blood glucose increased, blood potassium decreased, white blood
 
-cell count decreased, blood creatinine increased, weight decreased
-
-After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed in some patients.
+cell count decreased, blood creatinine increased, weight decreased After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed in some patients.
 The following reactions have been mentioned: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, pain, hyperhidrosis and dizziness.
 The patient should be informed about this at the start of the treatment.
 
-Concerning discontinuation of long-term treatment of pregabalin there are no data of the incidence and severity of withdrawal symptoms in relation to duration of use and dose of pregabalin.
+Concerning discontinuation of long-term treatment of pregabalin, data suggest that the incidence and severity of withdrawal symptoms may be dose-related.
 
-[LYRICA 50 mg hard capsules]
+[Lyrica 50 mg hard capsules]
 
-In the table below all adverse reactions, which occurred at an incidence greater than placebo and in more than one patient, are listed by class and frequency (very common (≥1/10); common (≥1/100 to ≤1/10); uncommon (≥1/1,000 to ≤1/100); rare (≥1/10,000 to ≤1/1,000); very rare (≤1/10,000), not known (cannot be estimated from the available data).
+In the table below all adverse reactions, which occurred at an incidence greater than placebo and in more than one patient, are listed by class and frequency (very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000), not known (cannot be estimated from the available data).
 
-Rare Generalised oedema,pyrexia
+Rare Generalised oedema,pirexia
 
-cell count decreased, blood creatinine increased, weight decreased After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed in some patients.
-
-[LYRICA 75 mg hard capsules]
+[Lyrica 75 mg hard capsules]
 
 The following reactions have been mentioned: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, pain, hyperhidrosis, and dizziness.
 
-[LYRICA 100 mg hard capsules]
+[Lyrica 100 mg hard capsules]
 
 (all sentences already above)
 
-[LYRICA 150 mg hard capsules]
+[Lyrica 150 mg hard capsules]
 
-In the treatment of central neuropathic pain due to spinal cord injury the incidence of adverse reactions in general, CNS adverse raections and especially somnolence was increased (See 4.4).
+In the treatment of central neuropathic pain due to spinal cord injury the incidence of adverse reactions in general, CNS adverse raections and especially somnolence was increased (see section 4.4).
 
-[LYRICA 200 mg hard capsules]
+[Lyrica 200 mg hard capsules]
 
-(all sentences already above)
+cell count decreased, blood creatinine increased, weight decreased
 
-[LYRICA 225 mg hard capsules]
+After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed in some patients.
+
+[Lyrica 225 mg hard capsules]
 
 Common Vomiting, , dry mouth, constipation, flatulence
 
-[LYRICA 300 mg hard capsules]
+Rare Generalised oedema, pyrexia
+
+[Lyrica 300 mg hard capsules]
 
 The following reactions have been: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, pain, hyperhidrosis and dizziness.
 
-[LYRICA 20 mg/ml oral solution]
+[Lyrica 20 mg/ml oral solution]
 
 Frequency not know Aggression

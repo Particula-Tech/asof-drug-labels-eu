@@ -31,8 +31,7 @@ The following events have been mentioned: insomnia, headache, nausea, anxiety, d
 The patient should be informed about this at the start of the treatment.
 
 Convulsions, including status epilepticus and grand mal convulsions, may occur during pregabalin use or shortly after discontinuing pregabalin.
-
-Concerning discontinuation of long-term treatment of pregabalin there are no data of the incidence and severity of withdrawal symptoms in relation to duration of use and dose of pregabalin.
+Concerning discontinuation of long-term treatment of pregabalin, data suggest that the incidence and severity of withdrawal symptoms may be dose-related.
 
 Congestive heart failure
 There have been post-marketing reports of congestive heart failure in some patients receiving pregabalin.
@@ -68,38 +67,36 @@ Lactose intolerance
 Lyrica contains lactose monohydrate.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
-[LYRICA 50 mg hard capsules]
+[Lyrica 50 mg hard capsules]
 
 Dizziness, somnolence, loss of consciousness, confusion and mental impairment
 Therefore, patients should be advised to exercise caution until they are familiar with the potential effects of themedicinal products.
 
-When pregabalin and opioids will be used in combination, measures to prevent constipation may be considered (especially in female patients and elderly
-
-[LYRICA 75 mg hard capsules]
+[Lyrica 75 mg hard capsules]
 
 (all sentences already above)
 
-[LYRICA 100 mg hard capsules]
+[Lyrica 100 mg hard capsules]
 
 (all sentences already above)
 
-[LYRICA 150 mg hard capsules]
+[Lyrica 150 mg hard capsules]
 
 (all sentences already above)
 
-[LYRICA 200 mg hard capsules]
+[Lyrica 200 mg hard capsules]
 
 (all sentences already above)
 
-[LYRICA 225 mg hard capsules]
+[Lyrica 225 mg hard capsules]
 
 (all sentences already above)
 
-[LYRICA 300 mg hard capsules]
+[Lyrica 300 mg hard capsules]
 
 (all sentences already above)
 
-[LYRICA 20 mg/ml oral solution]
+[Lyrica 20 mg/ml oral solution]
 
 Excipients which may cause allergic reactions
-LYRICA oral solution contains methyl parahydroxybenzoate and propyl parahydroxybenzoate which may cause allergic reactions (possibly delayed).
+Lyrica oral solution contains methyl parahydroxybenzoate and propyl parahydroxybenzoate which may cause allergic reactions (possibly delayed).
