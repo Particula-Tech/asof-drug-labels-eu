@@ -14,7 +14,6 @@ Urinary tract infections led to discontinuation in none of the patients receivin
 Serious adverse reactions included atrial fibrillation (0.2%).
 
 Adverse reactions observed during the 1-year (long term) active controlled (muscarinic antagonist) study were similar in type and severity to those observed in the three 12-week phase 3 double blind, placebo controlled studies.
-
 Tabulated list of adverse reactions
 
 The table below reflects the adverse reactions observed with mirabegron in the three 12-week phase 3 double blind, placebo controlled studies.
@@ -30,5 +29,10 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | Gastrointestinal disorders |  | Dyspepsia Gastritis | Lip oedema |
 | Skin and subcutaneous tissue disorders |  | Urticaria Rash Rash macular Rash papular Pruritus | Leukocytoclastic vasculitis Purpura |
 | Musculoskeletal and connective tissue disorders |  | Joint swelling |  |
-| Reproductive system and breast disorders |  | Vulvovaginal pruritis |  |
+| Reproductive system and breast disorders |  | Vulvovaginal pruritus |  |
 | Investigations |  | Blood pressure increased GGT increased AST increased ALT increased |  |
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

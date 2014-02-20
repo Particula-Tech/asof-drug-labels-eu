@@ -1,7 +1,6 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 In vitro data
-
 Mirabegron is transported and metabolised through multiple pathways.
 Mirabegron is a substrate for cytochrome P450 (CYP) 3A4, CYP2D6, butyrylcholinesterase, uridine diphospho-glucuronosyltransferases (UGT), the efflux transporter P-glycoprotein (P-gp) and the influx organic cation transporters (OCT) OCT1, OCT2, and OCT3.
 Studies of mirabegron using human liver microsomes and recombinant human CYP enzymes showed that mirabegron is a moderate and time-dependent inhibitor of CYP2D6 and a weak inhibitor of CYP3A.
@@ -24,9 +23,9 @@ Clinically relevant drug interactions between mirabegron and medicinal products 
 Effect of enzyme inhibitors
 Mirabegron exposure (AUC) was increased 1.8-fold in the presence of the strong inhibitor of CYP3A/P-gp ketoconazole in healthy volunteers.
 No dose-adjustment is needed when Betmiga is combined with inhibitors of CYP3A and/or P-gp.
-However, in patients with mild to moderate renal impairment (GFR 30 to 89 mL/min/1.73 m2) or mild hepatic impairment (Child-Pugh Class A) concomitantly receiving strong CYP3A inhibitors, such as itraconazole, ketoconazole, ritonavir and clarithromycin, the recommended dose is 25 mg once daily with or without food (see section 4.2).
-Betmiga is not recommended in patients with severe renal impairment (GFR
-15 to 29 mL/min/1.73 m2) or patients with moderate hepatic impairment (Child-Pugh Class B) concomitantly receiving strong CYP3A inhibitors (see sections 4.2 and 4.4).
+However, in patients with mild to moderate renal impairment (GFR
+30 to 89 mL/min/1.73 m2) or mild hepatic impairment (Child-Pugh Class A) concomitantly receiving strong CYP3A inhibitors, such as itraconazole, ketoconazole, ritonavir and clarithromycin, the recommended dose is 25 mg once daily with or without food (see section 4.2).
+Betmiga is not recommended in patients with severe renal impairment (GFR 15 to 29 mL/min/1.73 m2) or patients with moderate hepatic impairment (Child-Pugh Class B) concomitantly receiving strong CYP3A inhibitors (see sections 4.2 and 4.4).
 
 Effect of enzyme inducers
 Substances that are inducers of CYP3A or P-gp decrease the plasma concentrations of mirabegron.
@@ -38,6 +37,7 @@ Multiple once daily dosing of mirabegron IR resulted in a 90% increase in Cmax a
 Multiple once daily dosing of mirabegron resulted in a 79% increase in Cmax and a 241% increase in AUC of a single dose of desipramine.
 Caution is advised if mirabegron is co-administered with medicinal products with a narrow therapeutic index and significantly metabolised by CYP2D6, such as thioridazine, Type 1C antiarrhythmics (e.g., flecainide, propafenone) and tricyclic antidepressants (e.g., imipramine, desipramine).
 Caution is also advised if mirabegron is co-administered with CYP2D6 substrates that are individually dose titrated.
+
 Effect of mirabegron on transporters
 Mirabegron is a weak inhibitor of P-gp.
 Mirabegron increased Cmax and AUC by 29% and 27%, respectively, of the P-gp substrate digoxin in healthy volunteers.

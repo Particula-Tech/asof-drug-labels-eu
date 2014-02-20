@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Urologicals, Urinary antispasmodics ATC code: G04BD12.
-
 Mechanism of action
 
 Mirabegron is a potent and selective beta 3-adrenoceptor agonist.
@@ -41,7 +40,6 @@ Results for QTcF and QTcIf were consistent with QTcI.
 
 In this TQT study, mirabegron increased heart rate on ECG in a dose dependent manner across the 50 mg to 200 mg dose range examined.
 The maximum mean difference from placebo in heart rate ranged from 6.7 bpm with mirabegron 50 mg up to 17.3 bpm with mirabegron 200 mg in healthy subjects.
-
 Effects on pulse rate and blood pressure in patients with OAB
 In OAB patients (mean age of 59 years) across three 12-week phase 3 double blind, placebo controlled studies receiving mirabegron 50 mg once daily, an increase in mean difference from placebo of approximately 1 bpm for pulse rate and approximately 1 mm Hg or less in systolic blood pressure/ diastolic blood pressure (SBP/DBP) was observed.
 Changes in pulse rate and blood pressure are reversible upon discontinuation of treatment.
@@ -109,11 +107,11 @@ Table 1: Co-primary and Selected Secondary Efficacy Endpoints at End of Treatmen
 
 Pooled studies consisted of studies 046 (Europe / Australia), 047 (North America [NA]) and 074 (Europe / NA).
 † Least squares mean adjusted for baseline, gender, and study.
-* Statistically significantly superior compared to placebo at the 0.05 level without multiplicity adjustment. # Statistically significantly superior compared to placebo at the 0.05 level with multiplicity adjustment.
+* Statistically significantly superior compared to placebo at the 0.05 level without multiplicity adjustment.
+# Statistically significantly superior compared to placebo at the 0.05 level with multiplicity adjustment.
 FAS: Full analysis set, all randomized patients who took at least 1 dose of double blind study drug and who had a micturition measurement in the baseline diary and at least 1 post-baseline visit diary with a micturition measurement.
 FAS-I: Subset of FAS who also had at least 1 incontinence episode in the baseline diary.
 CI: Confidence Interval
-
 Table 2: Co-primary and Selected Secondary Efficacy Endpoints at End of Treatment for Studies 046, 047 and 074
 
 | Parameter | Study 046 |  |  | Study 047 |  | Study 074 |  |
@@ -143,13 +141,13 @@ Table 2: Co-primary and Selected Secondary Efficacy Endpoints at End of Treatmen
 | Mean level of urgency (FAS) (Secondary) |  |  |  |  |  |  |  |
 | n | 480 | 472 | 473 | 432 | 425 | 413 | 426 |
 | Mean baseline | 2.37 | 2.40 | 2.41 | 2.45 | 2.45 | 2.36 | 2.41 |
-|  | Placebo | Mirabegron 50 mg | Tolterodine ER 4 mg | Placebo | Mirabegron 50 mg | Placebo | Mirabegron 50 mg |
 | Mean change from baseline† | -0.22 | -0.31 | -0.29 | -0.08 | -0.19 | -0.15 | -0.29 |
 | Mean difference from placebo† | -- | -0.09 | -0.07 | -- | -0.11 | -- | -0.14 |
 | 95% Confidence Interval | -- | (-0.17, -0.02) | (-0.15, 0.01) | -- | (-0.18, -0.04) | -- | (-0.22, -0.06) |
 | p-value | -- | 0.018* | 0.085 | -- | 0.004* | -- | <0.001‡ |
 | Mean number of urgency incontinence episodes per 24 hours (FAS-I) (Secondary) |  |  |  |  |  |  |  |
 | n | 283 | 286 | 289 | 319 | 297 | 256 | 251 |
+|  | Placebo | Mirabegron 50 mg | Tolterodine ER 4 mg | Placebo | Mirabegron 50 mg | Placebo | Mirabegron 50 mg |
 | Mean baseline | 2.43 | 2.52 | 2.37 | 2.56 | 2.42 | 2.24 | 2.33 |
 | Mean change from baseline† | -1.11 | -1.46 | -1.18 | -0.89 | -1.32 | -0.95 | -1.33 |
 | Mean difference from placebo† | -- | -0.35 | -0.07 | -- | -0.43 | -- | -0.39 |
@@ -167,9 +165,7 @@ Table 2: Co-primary and Selected Secondary Efficacy Endpoints at End of Treatmen
 | Mean baseline | 4.11 | 3.95 | 3.87 | 5.5 | 5.4 | 5.13 | 5.13 |
 | Mean change from baseline† | 1.89 | 2.55 | 2.44 | 0.7 | 1.5 | 1.05 | 1.88 |
 | Mean difference from placebo† | -- | 0.66 | 0.55 | -- | 0.8 | -- | 0.83 |
-| 95% | -- | (0.25, 1.07) | (0.14, | -- | (0.4, 1.3) | -- | (0.41, 1.25) |
-|  | Placebo | Mirabegron 50 mg | Tolterodine ER 4 mg | Placebo | Mirabegron 50 mg | Placebo | Mirabegron 50 mg |
-| Confidence Interval |  |  | 0.95) |  |  |  |  |
+| 95% Confidence Interval | -- | (0.25, 1.07) | (0.14, 0.95) | -- | (0.4, 1.3) | -- | (0.41, 1.25) |
 | p-value | -- | 0.001* | 0.008* | -- | <0.001* | -- | <0.001* |
 
 † Least squares mean adjusted for baseline, gender and geographical region.
@@ -184,10 +180,10 @@ A randomized, active controlled, long term study demonstrated that efficacy was 
 
 Subjective improvement in health-related quality of life measurements
 In the three 12-week phase 3 double blind, placebo controlled studies, treatment of the symptoms of OAB with mirabegron once daily resulted in a statistically significant improvement over placebo on the following health-related quality of life measures: treatment satisfaction and symptom bother.
-
 Efficacy in patients with or without prior OAB antimuscarinic therapy
 Efficacy was demonstrated in patients with and without prior OAB antimuscarinic therapy.
 In addition mirabegron showed efficacy in patients who previously discontinued OAB antimuscarinic therapy due to insufficient effect (see Table 3).
+
 Table 3: Co-primary efficacy endpoints for patients with prior OAB antimuscarinic therapy
 
 | Parameter | Pooled studies (046, 047, 074) |  | Study 046 |  |  |

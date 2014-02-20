@@ -43,7 +43,6 @@ Interaction of mirabegron with a known CYP2D6 inhibitor is not expected and was 
 No dose adjustment is needed for mirabegron when administered with CYP2D6 inhibitors or in patients who are CYP2D6 poor metabolisers.
 
 Elimination
-
 Total body clearance (CLtot) from plasma is approximately 57 L/h.
 The terminal elimination half-life (t1/2) is approximately 50 hours.
 Renal clearance (CLR) is approximately 13 L/h, which corresponds to nearly 25% of CLtot.
@@ -55,7 +54,8 @@ Unchanged mirabegron accounted for the majority of the faecal radioactivity.
 
 Age
 
-The Cmax and AUC of mirabegron and its metabolites following multiple oral doses in elderly volunteers (≥ 65 years) were similar to those in younger volunteers (18–45 years).
+The Cmax and AUC of mirabegron and its metabolites following multiple oral doses in elderly volunteers
+(≥ 65 years) were similar to those in younger volunteers (18–45 years).
 
 Gender
 

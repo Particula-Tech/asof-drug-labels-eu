@@ -31,6 +31,7 @@ Strong CYP3A inhibitors see section 4.5
 
 Gender
 No dose adjustment is necessary according to gender.
+
 Paediatric population
 
 The safety and efficacy of mirabegron in children below 18 years of age have not yet been established.

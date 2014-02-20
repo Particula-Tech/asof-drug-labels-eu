@@ -27,16 +27,17 @@ The following table provides the daily dosing recommendations for subjects with 
 | Hepatic impairment(2) | Mild | 50 mg | 25 mg |
 |  | Moderate | 25 mg | Not recommended |
 
-4.
+1.
 Mild: GFR 60 to 89 mL/min/1.73 m2; moderate: GFR 30 to 59 mL/min/1.73 m2; severe: GFR
 15 to 29 mL/min/1.73 m2.
-5.
+2.
 Mild: Child-Pugh Class A; Moderate: Child-Pugh Class B.
-6.
+3.
 Strong CYP3A inhibitors see section 4.5
 
 Gender
 No dose adjustment is necessary according to gender.
+
 Paediatric population
 
 The safety and efficacy of mirabegron in children below 18 years of age have not yet been established.

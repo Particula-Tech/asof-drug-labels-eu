@@ -1,1 +1,11 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/12/809/001 - 007
+EU/1/12/809/015
+EU/1/12/809/016
+
+[Betmiga 50 mg prolonged-release tablets]
+
+EU/1/12/809/008 - 014
+EU/1/12/809/017
+EU/1/12/809/018

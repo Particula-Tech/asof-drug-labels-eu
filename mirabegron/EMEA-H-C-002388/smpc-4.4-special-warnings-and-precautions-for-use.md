@@ -4,8 +4,7 @@ Renal impairment
 
 Betmiga has not been studied in patients with end stage renal disease (GFR < 15 mL/min/1.73 m2 or patients requiring haemodialysis) and, therefore, it is not recommended for use in this patient population.
 Data are limited in patients with severe renal impairment (GFR 15 to 29 mL/min/1.73 m2); based on a pharmacokinetic study (see section 5.2) a dose reduction to 25 mg is recommended in this population.
-Betmiga is not recommended for use in patients with severe renal impairment (GFR
-15 to 29 mL/min/1.73 m2) concomitantly receiving strong CYP3A inhibitors (see section 4.5).
+Betmiga is not recommended for use in patients with severe renal impairment (GFR 15 to 29 mL/min/1.73 m2) concomitantly receiving strong CYP3A inhibitors (see section 4.5).
 
 Hepatic impairment
 
