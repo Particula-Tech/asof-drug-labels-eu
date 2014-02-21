@@ -1,0 +1,16 @@
+{
+  "active_substance": "brimonidine tartrate",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/002642",
+  "eu_number": "EU/1/13/904",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2014-02-20",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/mirvaso",
+  "molecule": "brimonidine",
+  "molecule_name": "BRIMONIDINE",
+  "name": "Mirvaso",
+  "register_name": "Mirvaso",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h904.htm"
+}
