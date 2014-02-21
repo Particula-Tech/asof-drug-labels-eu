@@ -13,34 +13,28 @@ There are no data regarding the switch from a medicinal product of a different a
 Alternative treatment options should be considered.
 
 Adults
-The recommended dose of CELSENTRI is 150 mg, 300 mg or 600 mg twice daily depending on interactions with co-administered antiretroviral therapy and other medicinal products (see Table 2 in section 4.5).
+The recommended dose of CELSENTRI is 150 mg, 300 mg or 600 mg twice daily depending on interactions with co-administered antiretroviral therapy and other medicinal products (see Table 1 in section 4.5).
 Elderly
 There is limited experience in patients >65 years of age (see section 5.2), therefore CELSENTRI should be used with caution in this population.
 
 Renal impairment
-Dosage adjustment is only recommended in patients with renal impairment who are receiving potent CYP3A4 inhibitors such as:
+In patients with a creatinine clearance of <80 mL/min, who are also receiving potent CYP3A4 inhibitors, the dose interval of maraviroc should be adjusted to 150 mg once daily (see sections 4.4 and 4.5).
 
-- protease inhibitors (except tipranavir/ritonavir)
-- ketoconazole, itraconazole, clarithromycin, telithromycin.
+Examples of agents/regimens with such potent CYP3A4-inhibiting activity are:
 
-CELSENTRI should be used with caution in patients with severe renal impairment (CLcr < 30mL/min) who are receiving potent CYP3A4 inhibitors (see sections 4.4 and 5.2).
+- ritonavir-boosted protease inhibitors (with the exception of tipranavir/ritonavir),
+- cobicistat,
+- itraconazole, voriconazole, clarithromycin and telithromycin,
+- telaprevir and boceprevir.
 
-The dose and dosing interval for CELSENTRI should be modified in renally impaired patients (CLcr <80 mL/min), including patients with end stage renal disease (ESRD) requiring dialysis (Table 1 below).
-These dosing recommendations are based on data from a renal impairment study (see section 5.2) in addition to modelling of pharmacokinetic data in subjects with varying degrees of renal impairment.
-
-Table 1: Dose and interval adjustments for patients with renal impairment
-
-| Recommended CELSENTRI dose interval | Creatinine clearance <80 mL/min |
-| --- | --- |
-| If administered without potent CYP3A4 inhibitors or if co-administered with tipranavir/ritonavir | No dose interval adjustment required |
-| If co-administered with fosamprenavir/ritonavir | CELSENTRI 150 mg every 12 hours |
-| If co-administered with potent CYP3A4 inhibitors, e.g. saquinavir/ritonavir, lopinavir/ritonavir, darunavir/ritonavir, atazanavir/ritonavir, ketoconazole | CELSENTRI 150 mg every 24 hours |
+CELSENTRI should be used with caution in patients with severe renal impairment
+(CLcr <30 mL/min) who are receiving potent CYP3A4 inhibitors (see sections 4.4 and 5.2).
 
 Hepatic impairment
 Limited data are available in patients with hepatic impairment, therefore CELSENTRI should be used with caution in this population (see sections 4.4 and 5.2).
 
 Paediatric population
-The safety and efficacy of CELSENTRI in children younger than 16 years of age has not been established.
+The safety and efficacy of CELSENTRI in children younger than 18 years of age has not been established.
 No data available (see section 5.2).
 
 Method of administration

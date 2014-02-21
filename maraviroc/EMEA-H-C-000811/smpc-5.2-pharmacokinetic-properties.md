@@ -6,9 +6,10 @@ The pharmacokinetics of oral maraviroc are not dose proportional over the dose r
 The absolute bioavailability of a 100 mg dose is 23% and is predicted to be 33% at 300 mg.
 Maraviroc is a substrate for the efflux transporter P-glycoprotein.
 
-Coadministration of a 300 mg tablet with a high fat breakfast reduced maraviroc Cmax and AUC by 33% in healthy volunteers.
+Co-administration of a 300 mg tablet with a high fat breakfast reduced maraviroc Cmax and AUC by 33% in healthy volunteers.
 There were no food restrictions in the studies that demonstrated the efficacy and safety of maraviroc (see section 5.1).
 Therefore, maraviroc can be taken with or without food at the recommended doses (see section 4.2).
+
 Distribution: maraviroc is bound (approximately 76%) to human plasma proteins, and shows moderate affinity for albumin and alpha-1 acid glycoprotein.
 The volume of distribution of maraviroc is approximately 194 L.
 
@@ -44,6 +45,7 @@ Subjects received 150 mg of maraviroc at different dose frequencies (healthy vol
 The average concentration (Cavg) of maraviroc over 24 hours was 445.1 ng/mL, 338.3 ng/mL, and 223.7 ng/mL for subjects with normal renal function, mild renal impairment, and moderate renal impairment, respectively.
 The Cavg of maraviroc from 24-48 hours for subjects with moderate renal impairment was low (Cavg: 32.8 ng/mL).
 Therefore, dosing frequencies of longer than 24 hours in subjects with renal impairment may result in inadequate exposures between 24-48 hours.
+
 Dose adjustment is necessary in patients with renal impairment receiving maraviroc with potent CYP3A4 inhibitors (see sections 4.2 and 4.4 and 4.5).
 
 Hepatic impairment: maraviroc is primarily metabolized and eliminated by the liver.
