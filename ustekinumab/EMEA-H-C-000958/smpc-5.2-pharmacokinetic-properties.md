@@ -31,9 +31,9 @@ There was no apparent accumulation in serum ustekinumab concentration over time 
 Impact of weight on pharmacokinetics
 In a population pharmacokinetic analysis using data from patients with psoriasis, body weight was found to be the most significant covariate affecting the clearance of ustekinumab.
 The median CL/F in patients with weight > 100 kg was approximately 55% higher compared to patients with weight
-≤ 100 kg.
-The median V/F in patients with weight > 100 kg was approximately 37% higher as compared to patients with weight ≤ 100 kg.
-The median trough serum concentrations of ustekinumab in patients with higher weight (> 100 kg) in the 90 mg group were comparable to those in patients with lower weight (≤ 100 kg) in the 45 mg group.
+≤100 kg.
+The median V/F in patients with weight > 100 kg was approximately 37% higher as compared to patients with weight ≤100 kg.
+The median trough serum concentrations of ustekinumab in patients with higher weight (> 100 kg) in the 90 mg group were comparable to those in patients with lower weight (≤100 kg) in the 45 mg group.
 Similar results were obtained from a confirmatory population pharmacokinetic analysis using data from patients with psoriatic arthritis.
 
 Special populations

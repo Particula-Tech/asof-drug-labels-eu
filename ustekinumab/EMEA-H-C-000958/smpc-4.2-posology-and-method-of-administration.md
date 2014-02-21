@@ -21,7 +21,7 @@ Alternatively, 90 mg may be used in patients with a body weight > 100 kg.
 
 Consideration should be given to discontinuing treatment in patients who have shown no response up to 28 weeks of treatment.
 
-Elderly patients (≥ 65 years)
+Elderly patients (≥65 years)
 No dose adjustment is needed for elderly patients (see section 4.4).
 
 Renal and hepatic impairment

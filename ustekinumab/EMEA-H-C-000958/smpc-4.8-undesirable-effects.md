@@ -9,7 +9,7 @@ Tabulated list of adverse reactions
 The safety data described below reflect exposure to ustekinumab in 7 controlled phase 2 and phase 3 studies in 4,031 patients with psoriasis and/or psoriatic arthritis, including 3,106 exposed for at least 6 months, 1,482 exposed for at least 4 years, and 838 exposed for at least 5 years.
 
 Table 1 provides a list of adverse reactions from psoriasis and psoriatic arthritis clinical studies as well as adverse reactions reported from post-marketing experience.
-The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to < 1/10), Uncommon (≥ 1/1,000 to < 1/100), Rare (≥ 1/10,000 to < 1/1,000), Very rare
+The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥1/10), Common (≥1/100 to < 1/10), Uncommon (≥1/1,000 to < 1/100), Rare (≥1/10,000 to < 1/1,000), Very rare
 (< 1/10,000), not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 

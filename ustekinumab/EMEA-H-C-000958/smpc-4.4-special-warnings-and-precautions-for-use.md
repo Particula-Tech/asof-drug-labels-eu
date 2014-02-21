@@ -49,7 +49,7 @@ STELARA has not been evaluated in patients who have undergone allergy immunother
 It is not known whether STELARA may affect allergy immunotherapy.
 
 Special populations
-Elderly patients (≥ 65 years)
+Elderly patients (≥65 years)
 No overall differences in efficacy or safety in patients age 65 and older who received STELARA were observed compared to younger patients, however the number of patients aged 65 and older is not sufficient to determine whether they respond differently from younger patients.
 Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly.
 
