@@ -21,6 +21,7 @@ Due to the specific binding of pantoprazole to the proton pumps within the parie
 Renal elimination represents the major route of excretion (about 80%) for the metabolites of pantoprazole; the rest is excreted with the faeces.
 The main metabolite in both serum and urine is desmethylpantoprazole, which is conjugated with sulphate.
 The half-life of the main metabolite (about 1.5 h) is not much longer than that of pantoprazole.
+
 Special populations
 Renal impairment
 No dose reduction is recommended when pantoprazole is administered to patients with impaired renal function (including patients on dialysis, which removes only negligible amounts of pantoprazole).

@@ -21,5 +21,6 @@ Patients should be advised that the tablets are not intended to provide immediat
 Patients may start to experience symptomatic relief after approximately one day of treatment with pantoprazole, but it might be necessary to take it for 7 days to achieve complete heartburn control.
 Patients should not take pantoprazole as a preventive medicinal product.
 
+Gastrointestinal infections caused by bacteria
 Decreased gastric acidity, due to any means - including proton pump inhibitors - increases gastric counts of bacteria normally present in the gastrointestinal tract.
-Treatment with acid-reducing medicinal products leads to a slightly increased risk of gastrointestinal infections such as Salmonella, Campylobacter, or C. difficile.
+Treatment with acid-reducing medicinal products leads to a slightly increased risk of gastrointestinal infections such as Salmonella, Campylobacter, or Clostridium difficile.

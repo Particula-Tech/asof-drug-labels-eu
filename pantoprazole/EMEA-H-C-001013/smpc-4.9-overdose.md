@@ -1,6 +1,5 @@
 # 4.9 Overdose
 
-There are no known symptoms of overdose in man.
 Doses up to 240 mg administered intravenously over 2 minutes were well tolerated.
 As pantoprazole is extensively protein bound, it is not readily dialysable.
 

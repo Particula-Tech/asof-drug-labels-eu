@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Proton pump inhibitors, ATC code: A02BC02
+Pharmacotherapeutic group: Drugs for acid related disorders, Proton pump inhibitors, ATC code: A02BC02
 
 Mechanism of action
 Pantoprazole is a substituted benzimidazole which inhibits the secretion of hydrochloric acid in the stomach by specific blockade of the proton pumps of the parietal cells.
@@ -12,6 +12,7 @@ Pantoprazole reduces acidity in the stomach and thereby increases gastrin in pro
 The increase in gastrin is reversible.
 Since pantoprazole binds to the enzyme distal to the receptor level, it can inhibit hydrochloric acid secretion independently of stimulation by other substances (acetylcholine, histamine, gastrin).
 The effect is the same whether the active substance is given orally or intravenously.
+
 The fasting gastrin values increase under pantoprazole.
 On short-term use, in most cases they do not exceed the upper limit of normal.
 During long-term treatment, gastrin levels double in most cases.
