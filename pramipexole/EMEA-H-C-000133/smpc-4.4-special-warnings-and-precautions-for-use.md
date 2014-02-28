@@ -23,6 +23,11 @@ Patients should be regularly monitored for the development of impulse control di
 Patients and carers should be made aware that behavioural symptoms of impulse control disorders including pathological gambling, increased libido, hypersexuality, compulsive spending or buying, binge eating and compulsive eating can occur in patients treated with dopamine agonists including SIFROL.
 Dose reduction/tapered discontinuation should be considered if such symptoms develop.
 
+Mania and delirium
+Patients should be regularly monitored for the development of mania and delirium.
+Patients and carers should be made aware that mania and delirium can occur in patients treated with pramipexole.
+Dose reduction/tapered discontinuation should be considered if such symptoms develop.
+
 Patients with psychotic disorders
 Patients with psychotic disorders should only be treated with dopamine agonists if the potential benefits outweigh the risks.
 Co-administration of antipsychotic medicinal products with pramipexole should be avoided (see section 4.5).

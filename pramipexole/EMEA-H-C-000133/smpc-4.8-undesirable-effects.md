@@ -27,7 +27,8 @@ Table 1: Parkinson’s disease
 | Uncommon | inappropriate antidiuretic hormone secretion1 |
 | Psychiatric disorders |  |
 | Common | abnormal dreams, behavioural symptoms of impulse control disorders and compulsions, confusion, hallucinations, insomnia |
-| Uncommon | binge eating1, compulsive shopping, delusion, hyperphagia1, hypersexuality, libido disorder, paranoia, pathological gambling, restlessness |
+| Uncommon | binge eating1, compulsive shopping, delusion, hyperphagia1, hypersexuality, libido disorder, paranoia, pathological gambling, restlessness, delirium |
+| Rare | mania |
 | Nervous system disorders |  |
 | Very common | dizziness, dyskinesia, somnolence |
 | Common | headache |
@@ -68,7 +69,7 @@ Table 2: Restless Legs Syndrome
 | Uncommon | inappropriate antidiuretic hormone secretion1 |
 | Psychiatric disorders |  |
 | Common | abnormal dreams, insomnia |
-| Uncommon | behavioural symptoms of impulse control disorders and compulsions such as binge eating, compulsive shopping, hypersexuality, and pathological gambling1; confusion, delusion1, hallucinations, hyperphagia1, libido disorder, paranoia1, restlessness |
+| Uncommon | behavioural symptoms of impulse control disorders and compulsions such as binge eating, compulsive shopping, hypersexuality, and pathological gambling1; confusion, delusion1, hallucinations, hyperphagia1, libido disorder, paranoia1, restlessness, mania1, delirium1 |
 | Nervous system disorders |  |
 | Common | dizziness, headache, somnolence |
 | Uncommon | amnesia1, dyskinesia, hyperkinesia1, sudden onset of sleep, syncope |
@@ -122,7 +123,8 @@ In a pharmacoepidemiological study pramipexole use was associated with an increa
 | Uncommon | inappropriate antidiuretic hormone secretion1 |
 | Psychiatric disorders |  |
 | Common | abnormal dreams, behavioural symptoms of impulse control disorders and compulsions, confusion, hallucinations, insomnia |
-| Uncommon | binge eating1, compulsive shopping, delusion, hyperphagia1, hypersexuality, libido disorder, paranoia, pathological gambling, restlessness |
+| Uncommon | binge eating1, compulsive shopping, delusion, hyperphagia1, hypersexuality, libido disorder, paranoia, pathological gambling, restlessness, delirium |
+| Rare | mania |
 | Nervous system disorders |  |
 | Very common | dizziness, dyskinesia, somnolence |
 | Common | headache |
@@ -154,7 +156,7 @@ In a pharmacoepidemiological study pramipexole use was associated with an increa
 | Uncommon | inappropriate antidiuretic hormone secretion1 |
 | Psychiatric disorders |  |
 | Common | abnormal dreams, insomnia |
-| Uncommon | behavioural symptoms of impulse control disorders and compulsions such as binge eating, compulsive shopping, hypersexuality, and pathological gambling1; confusion, delusion1, hallucinations, hyperphagia1, libido disorder, paranoia1, restlessness |
+| Uncommon | behavioural symptoms of impulse control disorders and compulsions such as binge eating, compulsive shopping, hypersexuality, and pathological gambling1; confusion, delusion1, hallucinations, hyperphagia1, libido disorder, paranoia1, restlessness, mania1, delirium1 |
 | Nervous system disorders |  |
 | Common | dizziness, headache, somnolence |
 | Uncommon | amnesia1, dyskinesia, hyperkinesia1, sudden onset of sleep, syncope |
@@ -204,7 +206,8 @@ The adverse drug reactions reported in the table below are those events that occ
 | Uncommon | inappropriate antidiuretic hormone secretion1 |
 | Psychiatric disorders |  |
 | Common | abnormal dreams, behavioural symptoms of impulse control disorders and compulsions; confusion, hallucinations, insomnia |
-| Uncommon | binge eating1, compulsive shopping, delusion, hyperphagia1, hypersexuality, libido disorder, paranoia, pathological gambling, restlessness |
+| Uncommon | binge eating1, compulsive shopping, delusion, hyperphagia1, hypersexuality, libido disorder, paranoia, pathological gambling, restlessness, delirium |
+| Rare | mania |
 | Nervous system disorders |  |
 | Very common | dizziness, dyskinesia, somnolence |
 | Common | headache |
@@ -246,7 +249,8 @@ The adverse drug reactions reported in the table below are those events that occ
 | Uncommon | inappropriate antidiuretic hormone secretion1 |
 | Psychiatric disorders |  |
 | Common | abnormal dreams, behavioural symptoms of impulse control disorders and compulsions; confusion, hallucinations, insomnia |
-| Uncommon | binge eating1, compulsive shopping, delusion, hyperphagia1, hypersexuality, libido disorder, paranoia, pathological gambling, restlessness |
+| Uncommon | binge eating1, compulsive shopping, delusion, hyperphagia1, hypersexuality, libido disorder, paranoia, pathological gambling, restlessness, delirium |
+| Rare | mania |
 | Nervous system disorders |  |
 | Very common | dizziness, dyskinesia, somnolence |
 | Common | headache |
