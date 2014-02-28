@@ -44,15 +44,21 @@ In these patients, physicians should be alert to the development of marked eosin
 
 Discontinuation of omalizumab should be considered in all severe cases with the above mentioned immune system disorders.
 
-Malignancies
-During clinical trials in adults and adolescents 12 years of age and older, there was a numerical imbalance in cancers arising in the Xolair (0.5%; 25 cancers in 5,015 patients) treatment group compared with the control (0.18%; 5 cancers in 2,854 patients) group.
-Malignancies were uncommon (<1/100) in both the active and the control group.
-The diversity in the type of cancers observed, the relatively short duration of exposure and the clinical features of the individual cases render a causal relationship unlikely.
-The overall observed incidence rate of malignancy in the Xolair clinical trial programme was comparable to that reported in the general population.
-
 Parasitic (helminth) infections
 IgE may be involved in the immunological response to some helminth infections.
 In patients at chronic high risk of helminth infection, a placebo-controlled trial showed a slight increase in infection rate with omalizumab, although the course, severity, and response to treatment of infection were unaltered.
 The helminth infection rate in the overall clinical programme, which was not designed to detect such infections, was less than 1 in 1,000 patients.
 However, caution may be warranted in patients at high risk of helminth infection, in particular when travelling to areas where helminthic infections are endemic.
 If patients do not respond to recommended anti-helminth treatment, discontinuation of Xolair should be considered.
+
+[Xolair 150 mg powder and solvent for solution for injection]
+
+In patients at chronic high risk of helminth infection, a placebo-controlled trial in allergic patients showed a slight increase in infection rate with omalizumab, although the course, severity, and response to treatment of infection were unaltered.
+
+[Xolair 75 mg solution for injection]
+
+(all sentences already above)
+
+[Xolair 150 mg solution for injection]
+
+(all sentences already above)

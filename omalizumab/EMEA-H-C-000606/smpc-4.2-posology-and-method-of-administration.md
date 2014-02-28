@@ -1,7 +1,6 @@
 # 4.2 Posology and method of administration
 
 Xolair treatment should be initiated by physicians experienced in the diagnosis and treatment of severe persistent asthma.
-
 Posology
 The appropriate dose and frequency of Xolair is determined by baseline IgE (IU/ml), measured before the start of treatment, and body weight (kg).
 Prior to administration of the initial dose, patients should have their IgE level determined by any commercial serum total IgE assay for their dose assignment.
@@ -38,7 +37,7 @@ Xolair doses (milligrams per dose) administered by subcutaneous injection every 
 
 |  | Body weight (kg) |
 | --- | --- |
-| Baseline IgE (IU/ml) | >90- >125- >20-25 >25-30 >30-40 >40-50 >50-60 >60-70 >70-80 >80-90 125 150 |
+| Baseline IgE (IU/ml) | >90- >125- ≥20-25 >25-30 >30-40 >40-50 >50-60 >60-70 >70-80 >80-90 125 150 |
 | ≥30-100 | 75 75 75 150 150 150 150 150 300 300 |
 | >100-200 | 150 150 150 300 300 300 300 300 450 600 |
 | >200-300 | 150 150 225 300 300 450 450 450 600 |
@@ -53,7 +52,7 @@ Xolair doses (milligrams per dose) administered by subcutaneous injection every 
 
 |  | Body weight (kg) |  |
 | --- | --- | --- |
-| Baseline IgE (IU/ml) | >90- >20-25 >25-30 >30-40 >40-50 >50-60 >60-70 >70-80 >80-90 125 | >125-150 |
+| Baseline IgE (IU/ml) | >90- ≥20-25 >25-30 >30-40 >40-50 >50-60 >60-70 >70-80 >80-90 125 | >125-150 |
 | ≥30-100 >100-200 | ADMINISTRATION EVERY 4 WEEKS SEE TABLE 2 |  |
 | >200-300 | 375 |  |
 | >300-400 | 450 525 |  |
@@ -68,7 +67,7 @@ Treatment duration, monitoring and dose adjustments
 Xolair is intended for long-term treatment.
 Clinical trials have demonstrated that it takes at least 12-16 weeks for Xolair treatment to show effectiveness.
 At 16 weeks after commencing Xolair therapy patients should be assessed by their physician for treatment effectiveness before further injections are administered.
-The decision to continue Xolair following the 16-week timepoint, or on subsequent occasions, should be based on whether a marked improvement in overall asthma control is seen (see section 5.1, Physician‟s overall assessment of treatment effectiveness).
+The decision to continue Xolair following the 16-week timepoint, or on subsequent occasions, should be based on whether a marked improvement in overall asthma control is seen (see section 5.1, Physician’s overall assessment of treatment effectiveness).
 
 Discontinuation of Xolair treatment generally results in a return to elevated free IgE levels and associated symptoms.
 Total IgE levels are elevated during treatment and remain elevated for up to one year after the discontinuation of treatment.
@@ -100,13 +99,16 @@ Alternatively, the injections can be administered in the thigh if there is any r
 There is limited experience with self-administration of Xolair.
 Therefore treatment is intended to be administered by a healthcare provider only.
 
-For instructions on reconstitution of Xolair before administration, see section 6.6 and also information for the healthcare professional section of the package leaflet.
+For instructions on reconstitution of the medicinal product before administration, see section 6.6 and also information for the healthcare professional section of the package leaflet.
 
 [Xolair 150 mg powder and solvent for solution for injection]
 
+Xolair treatment should be initiated by physicians experienced in the diagnosis and treatment of severe persistent asthma or chronic spontaneous urticaria.
+Allergic asthma
+
 |  | Body weight (kg) |
 | --- | --- |
-| Baseline IgE (IU/ml) | >90- >125- >20-25 >25-30 >30-40 >40-50 >50-60 >60-70 >70-80 >80-90 125 150 |
+| Baseline IgE (IU/ml) | >90- >125- ≥20-25 >25-30 >30-40 >40-50 >50-60 >60-70 >70-80 >80-90 125 150 |
 | ≥30-100 >100-200 | ADMINISTRATION EVERY 4 WEEKS SEE TABLE 2 |
 | >200-300 | 375 |
 | >300-400 | 450 525 |
@@ -116,6 +118,19 @@ For instructions on reconstitution of Xolair before administration, see section 
 | >700-800 | 225 225 300 375 450 450 525 600 |
 | >800-900 | 225 225 300 375 450 525 600 |
 | >900-1000 >1000-1100 >1100-1200 >1200-1300 >1300-1500 | 225 300 375 450 525 600 225 300 375 450 600 300 300 450 525 600 DO NOT ADMINISTER– data is unavailable for dose recommendation 300 375 450 525 300 375 525 600 |
+
+Chronic spontaneous urticaria (CSU)
+The recommended dose is 300 mg by subcutaneous injection every four weeks.
+
+Prescribers are advised to periodically reassess the need for continued therapy.
+
+Clinical trial experience of long-term treatment beyond 6 months in this indication is limited.
+
+There have been no studies on the effect of impaired renal or hepatic function on the pharmacokinetics of omalizumab.
+
+In allergic asthma, the safety and efficacy of Xolair in paediatric patients below the age of 6 years have not been established.
+
+In CSU, the safety and efficacy of Xolair in paediatric patients below the age of 12 years have not been established.
 
 [Xolair 75 mg solution for injection]
 
@@ -139,5 +154,5 @@ Therefore treatment is intended to be administered by a healthcare provider only
 
 |  | Body weight (kg) |
 | --- | --- |
-| Baseline IgE (IU/ml) | >90- >125- >20-25 >25-30 >30-40 >40-50 >50-60 >60-70 >70-80 >80-90 125 150 |
+| Baseline IgE (IU/ml) | >90- >125- ≥20-25 >25-30 >30-40 >40-50 >50-60 >60-70 >70-80 >80-90 125 150 |
 | ≥30-100 75 75 75 150 150 150 150 150 300 300 >100-200 150 150 150 300 300 300 300 300 450 600 >200-300 150 150 225 300 300 450 450 450 600 >300-400 225 225 300 450 450 450 600 600 >400-500 225 300 450 450 600 600 >500-600 300 300 450 600 600 >600-700 300 450 600 >700-800 >800-900 ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 >900-1000 >1000-1100 |  |

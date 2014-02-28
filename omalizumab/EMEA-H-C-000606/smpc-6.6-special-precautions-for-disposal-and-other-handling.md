@@ -53,6 +53,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 [Xolair 150 mg powder and solvent for solution for injection]
 
 Because of the viscosity of the reconstituted medicinal product care must be taken to withdraw all of the medicinal product from the vial before expelling any air or excess solution from the syringe in order to obtain the 1.2 ml.
+
 To prepare Xolair 150 mg vials for subcutaneous administration, please adhere to the following instructions:
 
 Draw 1.4 ml of water for injections from the ampoule into a syringe equipped with a large-bore 18-gauge needle.

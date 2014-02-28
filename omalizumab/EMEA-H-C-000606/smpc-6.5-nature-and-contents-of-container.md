@@ -16,9 +16,9 @@ Not all pack sizes may be marketed.
 
 [Xolair 75 mg solution for injection]
 
-0.5 ml solution in a pre-filled syringe barrel (type I glass) with staked needle (stainless steel), (type I) plunger stopper (latex-free rubber) and needle shield (latex-free).
+0.5 ml solution in a pre-filled syringe barrel (type I glass) with staked needle (stainless steel), (type I) plunger stopper (latex-free rubber) and needle shield.
 Pack sizes of 1, 4 or 10.
 
 [Xolair 150 mg solution for injection]
 
-1 ml solution in a pre-filled syringe barrel (type I glass) with staked needle (stainless steel), (type I) plunger stopper (latex-free rubber), and needle shield (latex-free).
+1 ml solution in a pre-filled syringe barrel (type I glass) with staked needle (stainless steel), (type I) plunger stopper (latex-free rubber), and needle shield.

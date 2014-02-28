@@ -28,3 +28,36 @@ Analyses of these limited data suggest that no dose adjustments are necessary fo
 
 Renal and hepatic impairment
 There are no pharmacokinetic or pharmacodynamic data in patients with renal or hepatic impairment (see sections 4.2 and 4.4).
+
+[Xolair 150 mg powder and solvent for solution for injection]
+
+The pharmacokinetics of omalizumab have been studied in adult and adolescent patients with allergic asthma as well as in adult and adolescent patients with CSU.
+The general pharmacokinetic characteristics of omalizumab are similar in these populations.
+
+Following a single subcutaneous dose in adult and adolescent patients with asthma or CSU, omalizumab was absorbed slowly, reaching peak serum concentrations after an average of 6-8 days.
+In patients with asthma, following multiple doses of omalizumab, areas under the serum concentration-time curve from Day 0 to Day 14 at steady state were up to 6-fold of those after the first dose.
+Following doses of 75 mg, 150 mg or 300 mg every 4 weeks in patients with CSU, trough serum concentrations of omalizumab increased proportionally with the dose level.
+
+Based on population pharmacokinetics, distribution of omalizumab was similar in patients with allergic asthma and patients with CSU.
+The apparent volume of distribution in patients with asthma following subcutaneous administration was 78 ± 32 ml/kg.
+
+Doubling of body weight approximately doubled apparent clearance.
+In CSU patients, based on population pharmacokinetic simulations, omalizumab serum elimination half-life at steady state averaged 24 days and apparent clearance at steady state for a patient of 80 kg weight was 3.0 ml/kg/day.
+
+Patients with asthma: The population pharmacokinetics of omalizumab were analysed to evaluate the effects of demographic characteristics.
+Analyses of these limited data suggest that no dose adjustments are necessary in patients with asthma for age (6-76 years), race/ethnicity, gender or body mass index (see section 4.2).
+
+Patients with CSU: The effects of demographic characteristics and other factors on omalizumab exposure were evaluated based on population pharmacokinetics.
+In addition, covariate effects were evaluated by analysing the relationship between omalizumab concentrations and clinical responses.
+These analyses suggest that no dose adjustments are necessary in patients with CSU for age
+(12-75 years), race/ethnicity, gender, body weight, body mass index, baseline IgE, anti-FcεRI autoantibodies or concomitant use of H2 antihistamines or LTRAs.
+
+There are no pharmacokinetic or pharmacodynamic data in allergic asthma or CSU patients with renal or hepatic impairment (see sections 4.2 and 4.4).
+
+[Xolair 75 mg solution for injection]
+
+(all sentences already above)
+
+[Xolair 150 mg solution for injection]
+
+(all sentences already above)
