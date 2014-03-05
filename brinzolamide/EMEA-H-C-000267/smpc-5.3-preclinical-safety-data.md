@@ -1,6 +1,7 @@
 # 5.3 Preclinical safety data
 
 Non-clinical data reveal no special hazard for humans with brinzolamide based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity, and carcinogenic potential.
+
 Developmental toxicity studies in rabbits with oral doses of brinzolamide of up to 6 mg/kg/day (125 times the recommended human ophthalmic dose) revealed no effect on foetal development despite significant maternal toxicity.
 Similar studies in rats resulted in slightly reduced ossification of skull and sternebrae of foetuses of dams receiving brinzolamide at doses of 18 mg/kg/day (375 times the recommended human ophthalmic dose), but not 6 mg/kg/day.
 These findings occurred at doses that caused metabolic acidosis with decreased body weight gain in dams and decreased foetal weights.

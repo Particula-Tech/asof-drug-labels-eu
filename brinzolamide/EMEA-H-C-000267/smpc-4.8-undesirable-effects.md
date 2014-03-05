@@ -27,11 +27,11 @@ The adverse reactions were obtained from clinical trials and postmarketing spont
 | General disorders and administration site conditions | Uncommon: pain, chest discomfort, asthenia, fatigue, feeling abnormal, feeling jittery, irritability Not Known: chest pain, peripheral oedema, malaise, medication residue |
 | Injury, poisoning and procedural complications | Uncommon: foreign body in eye |
 
-In small short-term clinical trials, approximately 12.5% of paediatric patients were observed to experience adverse reactions, the majority of which were local, non-serious ocular reactionssuch as conjunctival hyperaemia, eye irritation, eye discharge, and lacrimation increased (see also section 5.1).
-
+In small short-term clinical trials, approximately 12.5% of paediatric patients were observed to experience adverse reactions, the majority of which were local, non-serious ocular reactions such as conjunctival hyperaemia, eye irritation, eye discharge, and lacrimation increased (see also section 5.1).
 Dysgeusia (bitter or unusual taste in the mouth following instillation) was the most frequently reported systemic adverse reaction associated with the use of AZOPT during clinical studies.
 It is likely caused by passage of the eye drops in the nasopharynx via the nasolacrimal canal.
 Nasolacrimal occlusion or gently closing the eyelid after instillation may help reduce the incidence of this effect (see also section 4.2).
+
 AZOPT is a sulphonamide inhibitor of carbonic anhydrase with systemic absorption.
 Gastrointestinal, nervous system, haematological, renal and metabolic effects are generally associated with systemic carbonic anhydrase inhibitors.
 The same type of adverse reactions that are attributable to oral carbonic anhydrase inhibitors may occur with topical administration.

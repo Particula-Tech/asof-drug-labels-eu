@@ -11,6 +11,7 @@ Patients with significant renal tubular immaturity or abnormalities should only 
 
 Oral carbonic anhydrase inhibitors may impair the ability to perform tasks requiring mental alertness and/or physical coordination in elderly patients.
 AZOPT is absorbed systemically and therefore this may occur with topical administration.
+
 Concomitant therapy
 There is a potential for an additive effect on the known systemic effects of carbonic anhydrase inhibition in patients receiving an oral carbonic anhydrase inhibitor and AZOPT.
 The concomitant administration of AZOPT and oral carbonic anhydrase inhibitors has not been studied and is not recommended (see also section 4.5).
