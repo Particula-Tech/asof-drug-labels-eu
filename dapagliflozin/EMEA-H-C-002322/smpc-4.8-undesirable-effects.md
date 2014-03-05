@@ -41,13 +41,17 @@ Description of selected adverse reactions
 Hypoglycaemia
 The frequency of hypoglycaemia depended on the type of background therapy used in each study.
 
-The frequency of minor episodes of hypoglycaemia was similar (< 4%) between treatment groups, including placebo.
+For studies of dapagliflozin in monotherapy, as add-on to metformin or as add-on to sitagliptin (with or without metformin), the frequency of minor episodes of hypoglycaemia was similar (< 5%) between treatment groups, including placebo up to 102 weeks of treatment.
 Across all studies, major events of hypoglycaemia were uncommon and comparable between the groups treated with dapagliflozin or placebo.
-Studies with add-on sulphonylurea and add on insulin therapies had higher rates of hypoglycaemia (see section 4.5).
+Studies with add-on sulphonylurea and add-on insulin therapies had higher rates of hypoglycaemia (see section 4.5).
 
 In an add-on to glimepiride study, minor episodes of hypoglycaemia were reported more frequently in the group treated with dapagliflozin 10 mg plus glimepiride (6.0%) than in the placebo plus glimepiride group (2.1%).
 
-In an add-on to insulin study, minor episodes were reported more frequently in the group treated with dapagliflozin 10 mg plus insulin (40.3%) than in the placebo plus insulin group (34.0%).
+In an add-on to insulin study, episodes of major hypoglycaemia were reported in 0.5% and 1.0% of subjects treated with dapagliflozin 10 mg plus insulin at Weeks 24 and 104, respectively, and in 0.5% of subjects treated with placebo plus insulin groups at Weeks 24 and 104.
+At Weeks 24 and 104, minor episodes of hypoglycaemia were reported, respectively, in 40.3% and 53.1% of subjects who received dapagliflozin 10 mg plus insulin and in 34.0% and 41.6% of the subjects who received placebo plus insulin.
+
+In an add-on to metformin and a sulphonylurea study, up to 24 weeks, no episodes of major hypoglycaemia were reported.
+Minor episodes of hypoglycaemia were reported in 12.8% of subjects who received dapagliflozin 10 mg plus metformin and a sulphonylurea and in 3.7% of subjects who received placebo plus metformin and a sulphonylurea.
 
 Volume depletion
 Reactions related to volume depletion (including, reports of dehydration, hypovolaemia or hypotension) were reported in 0.8% and 0.4% of subjects who received dapagliflozin 10 mg and placebo, respectively; serious reactions occurred in < 0.2% of subjects balanced between dapagliflozin 10 mg and placebo (see section 4.4).
@@ -55,7 +59,7 @@ Reactions related to volume depletion (including, reports of dehydration, hypovo
 Vulvovaginitis, balanitis and related genital infections
 Vulvovaginitis, balanitis and related genital infections were reported in 4.8% and 0.9% of subjects who received dapagliflozin 10 mg and placebo, respectively.
 Most infections were mild to moderate, and subjects responded to an initial course of standard treatment and rarely resulted in discontinuation from dapagliflozin treatment.
-These infections were more frequent in females (9.7% and 3.4% for dapagliflozin and placebo, respectively), and subjects with a prior history were more likely to have a recurrent infection.
+These infections were more frequent in females (6.9% and 1.5% for dapagliflozin and placebo, respectively), and subjects with a prior history were more likely to have a recurrent infection.
 
 Urinary tract infections
 Urinary tract infections were more frequently reported for dapagliflozin 10 mg compared to placebo (4.3% versus 3.7%, respectively; see section 4.4).
@@ -65,7 +69,6 @@ These infections were more frequent in females, and subjects with a prior histor
 Parathyroid hormone (PTH)
 Small increases in serum PTH levels were observed with increases being larger in subjects with higher baseline PTH concentrations.
 Bone mineral density measurements in patients with normal or mildly impaired renal function did not indicate bone loss over a treatment period of one year.
-
 Malignancies
 During clinical trials, the overall proportion of subjects with malignant or unspecified tumours was similar between those treated with dapagliflozin (1.47%) and placebo/comparator (1.35%), and there was no carcinogenicity or mutagenicity signal in animal data (see section 5.3).
 When considering the cases of tumours occurring in the different organ systems, the relative risk associated with dapagliflozin was above 1 for some tumours (bladder, prostate, breast) and below 1 for others (e.g. blood and lymphatic, ovary, renal tract), not resulting in an overall increased tumour risk associated with dapagliflozin.
@@ -79,3 +82,8 @@ In subjects ≥ 65 years of age, adverse reactions related to renal impairment o
 The most commonly reported adverse reaction related to renal function was increased serum creatinine.
 The majority of these reactions were transient and reversible.
 In subjects ≥ 65 years of age, adverse reactions of volume depletion, most commonly reported as hypotension, were reported in 1.5% and 0.4% of dapagliflozin-treated subjects and placebo-treated subjects, respectively (see section 4.4).
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

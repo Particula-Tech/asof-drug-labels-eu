@@ -8,6 +8,7 @@ The absolute oral bioavailability of dapagliflozin following the administration 
 Administration with a high-fat meal decreased dapagliflozin Cmax by up to 50% and prolonged Tmax by approximately 1 hour, but did not alter AUC as compared with the fasted state.
 These changes are not considered to be clinically meaningful.
 Hence, Forxiga can be administered with or without food.
+
 Distribution
 Dapagliflozin is approximately 91% protein bound.
 Protein binding was not altered in various disease states (e.g. renal or hepatic impairment).
@@ -33,7 +34,6 @@ Renal impairment
 At steady-state (20 mg once-daily dapagliflozin for 7 days), subjects with type 2 diabetes mellitus and mild, moderate or severe renal impairment (as determined by iohexol plasma clearance) had mean systemic exposures of dapagliflozin of 32%, 60% and 87% higher, respectively, than those of subjects with type 2 diabetes mellitus and normal renal function.
 The steady-state 24-hour urinary glucose excretion was highly dependent on renal function and 85, 52, 18 and 11 g of glucose/day was excreted by subjects with type 2 diabetes mellitus and normal renal function or mild, moderate or severe renal impairment, respectively.
 The impact of hemodialysis on dapagliflozin exposure is not known.
-
 Hepatic impairment
 In subjects with mild or moderate hepatic impairment (Child-Pugh classes A and B), mean Cmax and AUC of dapagliflozin were up to 12% and 36% higher, respectively, compared to healthy matched control subjects.
 These differences were not considered to be clinically meaningful.
@@ -50,6 +50,7 @@ Pharmacokinetics in the paediatric population have not been studied.
 
 Gender
 The mean dapagliflozin AUCss in females was estimated to be about 22% higher than in males.
+
 Race
 There were no clinically relevant differences in systemic exposures between White, Black or Asian races.
 
