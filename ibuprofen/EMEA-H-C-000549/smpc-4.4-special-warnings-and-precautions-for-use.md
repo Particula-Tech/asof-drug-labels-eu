@@ -4,6 +4,7 @@ Before administration of Pedea an adequate echocardiographic examination should 
 
 Since prophylactic use in the first 3 days of life (starting within 6 hours of birth) in preterm newborn infants less than 28 weeks of gestational age was associated with increased pulmonary and renal adverse events, Pedea should not be used prophylactically at any gestational age (see sections 4.8 and 5.1).
 In particular, severe hypoxemia with pulmonary hypertension was reported in 3 infants within one hour of the first infusion and was reversed within 30 min after start of inhaled nitric oxide therapy.
+If hypoxaemia occurs during or following Pedea infusion, close attention should be paid to pulmonary pressure.
 
 Since ibuprofen was shown in vitro to displace bilirubin from its binding site to albumin, the risk of bilirubin encephalopathy in premature newborn infants may be increased (see section 5.2).
 Therefore, ibuprofen should not be used in infants with marked elevated bilirubin concentration.

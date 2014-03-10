@@ -10,10 +10,10 @@ The central volume of distribution may depend on the status of the ductus and de
 
 In vitro studies suggest that, similarly to other NSAIDs, ibuprofen is highly bound to plasma albumin, although this seems to be significantly lower (95 %) compared with adult plasma (99 %).
 Ibuprofen competes with bilirubin for albumin binding in newborn infant serum and, as a consequence, the free fraction of bilirubin may be increased at high ibuprofen concentrations.
-
 Elimination
 Elimination rate is markedly lower than in older children and adults, with an elimination half-life estimated at approximately 30 hours (16–43).
 The clearance of both enantiomers increases with gestational age, at least in the range of 24 to 28 weeks.
+
 PK-PD relationship
 In preterm newborns ibuprofen significantly reduced plasma concentrations of prostaglandins and their metabolites, particularly PGE2 and 6-keto-PGF-1-alpha.
 Low levels were sustained up to 72 hours in neonates who received 3 doses of ibuprofen, whereas subsequent re-increases were observed at 72 hours after only 1 dose of ibuprofen.

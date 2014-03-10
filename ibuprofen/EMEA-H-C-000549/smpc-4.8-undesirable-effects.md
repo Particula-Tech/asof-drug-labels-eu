@@ -36,3 +36,4 @@ In a clinical curative trial involving 175 preterm newborn infants less than 35 
 
 In a clinical trial where Pedea was administered prophylactically during the first 6 hours of life, severe hypoxemia with pulmonary hypertension was reported in 3 newborn infants less than 28 weeks of gestational age.
 This occurred within one hour of the first infusion and was reversed within 30 minutes after the inhalation of nitric oxide.
+There have also been post-marketing reports of pulmonary hypertension where Pedea was administered to premature neonates in the therapeutic setting.
