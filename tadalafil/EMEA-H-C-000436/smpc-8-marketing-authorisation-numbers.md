@@ -4,7 +4,7 @@ EU/1/02/237/006
 
 [CIALIS 5 mg film-coated tablets]
 
-EU/1/02/237/007-008
+EU/1/02/237/007-008, 010
 
 [CIALIS 10 mg film-coated tablets]
 
