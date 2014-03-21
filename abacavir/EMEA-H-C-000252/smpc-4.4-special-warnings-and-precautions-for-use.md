@@ -48,7 +48,7 @@ This is because it is currently difficult to differentiate between rashes induce
 
 - Management after an interruption of Ziagen therapy
 
-Regardless of a patient’s HLA-B*5701 status, if therapy with Ziagen has been discontinued for any reason and restarting therapy is under consideration, the reason for discontinuation must be established to assess whether the patient had any symptoms of a hypersensitivity reaction.
+Regardless of a patient’s HLA-B*5701 status, if therapy with any abacavir containing product has been discontinued for any reason and restarting abacavir therapy is under consideration, the reason for discontinuation must be established to assess whether the patient had any symptoms of a hypersensitivity reaction.
 If a hypersensitivity reaction cannot be ruled out, Ziagen or any other medicinal product containing abacavir (e.g. Kivexa, Trizivir) must not be restarted.
 
 Hypersensitivity reactions with rapid onset, including life-threatening reactions have occurred after restarting Ziagen in patients who had only one of the key symptoms of hypersensitivity (skin rash, fever, gastrointestinal, respiratory or constitutional symptoms such as lethargy and malaise) prior to stopping Ziagen.
@@ -56,8 +56,8 @@ The most common isolated symptom of a hypersensitivity reaction was a skin rash.
 Moreover, on very rare occasions hypersensitivity reactions have been reported in patients who have restarted therapy, and who had no preceding symptoms of a hypersensitivity reaction (i.e. patients previously considered to be abacavir tolerant).
 In both cases, if a decision is made to restart Ziagen this must be done in a setting where medical assistance is readily available.
 
-Screening for carriage of the HLA B*5701 allele is recommended prior to re-initiation of abacavir in patients of unknown HLA-B*5701 status who have previously tolerated abacavir.
-Re-initiation of abacavir in such patients who test positive for the HLA B*5701 allele is not recommended and should be considered only under exceptional circumstances where potential benefit outweighs the risk and with close medical supervision.
+Screening for carriage of the HLA-B*5701 allele is recommended prior to re-initiation of abacavir in patients of unknown HLA-B*5701 status who have previously tolerated abacavir.
+Re-initiation of abacavir in such patients who test positive for the HLA-B*5701 allele is not recommended and should be considered only under exceptional circumstances where potential benefit outweighs the risk and with close medical supervision.
 
 - Essential patient information
 
@@ -138,16 +138,16 @@ Immune Reactivation Syndrome: In HIV-infected patients with severe immune defici
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterium infections, and Pneumocystis carinii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
-Autoimmune disorders (such as Graves’ disease) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and can occur many months after initiation of treatment.
+Autoimmune disorders (such as Graves’ disease) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
 
-Osteonecrosis: Although the aetiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
+Osteonecrosis: Although the aetiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to CART.
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
 
 Opportunistic infections: patients receiving Ziagen or any other antiretroviral therapy may still develop opportunistic infections and other complications of HIV infection.
 Therefore patients should remain under close clinical observation by physicians experienced in the treatment of these associated HIV diseases.
 
-Transmission: patients should be advised that current antiretroviral therapy, including Ziagen, have not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination.
-Appropriate precautions should continue to be taken.
+Transmission: While effective viral suppression with antiretroviral therapy has been proven to substantially reduce the risk of sexual transmission, a residual risk cannot be excluded.
+Precautions to prevent transmission should be taken in accordance with national guidelines.
 Myocardial Infarction: Observational studies have shown an association between myocardial infarction and the use of abacavir.
 Those studied were mainly antiretroviral experienced patients.
 Data from clinical trials showed limited numbers of myocardial infarction and could not exclude a small increase in risk.
@@ -166,5 +166,3 @@ Sorbitol can have a mild laxative effect.
 The calorific value of sorbitol is 2.6 kcal/g.
 
 Ziagen oral solution also contains methyl parahydroxybenzoate and propyl parahydroxybenzoate which may cause allergic reactions (possibly delayed).
-
-Mycoardial Infarction: Observational studies have shown an association between myocardial infarction and the use of abacavir.

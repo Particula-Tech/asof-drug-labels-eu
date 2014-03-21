@@ -18,10 +18,10 @@ When changing back to a twice daily regimen, patients should complete the day's 
 
 Children (under 12 years of age):
 
-A dosing according to weight bands is recommended for Ziagen tablets.
+Dosing according to weight bands is recommended for Ziagen tablets.
 This dosing regimen for paediatric patients weighing 14-30 kg is based primarily on pharmacokinetic modelling.
 A pharmacokinetic overexposure of abacavir can occur since accurate dosing can not be achieved with this formulation.
-Therefore a close safety monitoring is warranted in these patients.
+Therefore close safety monitoring is warranted in these patients.
 
 Children weighing at least 30 kg: the adult dosage of 300 mg twice daily should be taken.
 
@@ -40,7 +40,7 @@ In patients with moderate hepatic impairment, no data are available, therefore t
 If abacavir is used in patients with mild or moderate hepatic impairment, then close monitoring is required, and if feasible, monitoring of abacavir plasma levels is recommended (see section 5.2).
 Abacavir is contraindicated in patients with severe hepatic impairment (see section 4.3 and 4.4).
 
-Elderly: no pharmacokinetic data is currently available in patients over 65 years of age.
+Elderly: no pharmacokinetic data are currently available in patients over 65 years of age.
 
 [Ziagen 20 mg/ml oral solution]
 

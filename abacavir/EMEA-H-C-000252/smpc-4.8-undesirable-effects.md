@@ -35,6 +35,7 @@ phosphokinase
 Urology Elevated creatinine, renal failure
 
 Rash (81% vs 67% respectively) and gastrointestinal manifestations (70% vs 54% respectively) were more frequently reported in children compared to adults.
+
 Some patients with hypersensitivity reactions were initially thought to have gastroenteritis, respiratory disease (pneumonia, bronchitis, pharyngitis) or a flu-like illness.
 This delay in diagnosis of hypersensitivity has resulted in Ziagen being continued or re-introduced, leading to more severe hypersensitivity reactions or death.
 Therefore, the diagnosis of hypersensitivity reaction should be carefully considered for patients presenting with symptoms of these diseases.
@@ -47,7 +48,9 @@ Consequently, patients should be advised of the importance of taking Ziagen regu
 
 Restarting Ziagen following a hypersensitivity reaction results in a prompt return of symptoms within hours.
 This recurrence of the hypersensitivity reaction is usually more severe than on initial presentation, and may include life-threatening hypotension and death.
-Regardless of their HLA-B*5701 status, patients who develop this hypersensitivity reaction must discontinue Ziagen and must never be rechallenged with Ziagen, or any other medicinal product containing abacavir (e.g. Kivexa, Trizivir).
+Regardless of their
+HLA-B*5701 status, patients who develop this hypersensitivity reaction must discontinue
+Ziagen and must never be rechallenged with Ziagen, or any other medicinal product containing abacavir (e.g. Kivexa, Trizivir).
 
 To avoid a delay in diagnosis and minimise the risk of a life-threatening hypersensitivity reaction, Ziagen must be permanently discontinued if hypersensitivity cannot be ruled out, even when other diagnoses are possible (respiratory diseases, flu-like illness, gastroenteritis or reactions to other medications).
 
@@ -57,13 +60,12 @@ Moreover, on very rare occasions hypersensitivity reactions have been reported i
 In both cases, if a decision is made to restart Ziagen this must be done in a setting where medical assistance is readily available.
 
 Each patient must be warned about this hypersensitivity reaction to abacavir.
-
 For many of the other adverse reactions reported, it is unclear whether they are related to Ziagen, to the wide range of medicinal products used in the management of HIV infection or as a result of the disease process.
 
 Many of those listed below occur commonly (nausea, vomiting, diarrhoea, fever, lethargy, rash) in patients with abacavir hypersensitivity.
 Therefore, patients with any of these symptoms should be carefully evaluated for the presence of this hypersensitivity reaction.
 If Ziagen has been discontinued in patients due to experiencing any one of these symptoms and a decision is made to restart a medicinal product containing abacavir, this must be done in a setting where medical assistance is readily available (see section 4.4.).
-Very rarely cases of erythema multiforme, Stevens Johnson syndrome or toxic epidermal necrolysis have been reported where abacavir hypersensitivity could not be ruled out.
+Very rarely cases of erythema multiforme, Stevens-Johnson syndrome or toxic epidermal necrolysis have been reported where abacavir hypersensitivity could not be ruled out.
 In such cases medicinal products containing abacavir should be permanently discontinued.
 
 Many of the adverse reactions have not been treatment limiting.
@@ -95,15 +97,18 @@ Combination antiretroviral therapy has been associated with metabolic abnormalit
 In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART) an inflammatory reaction to asymptomatic or residual opportunistic infections may arise.
 Autoimmune disorders (such as Graves’ disease) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
 
-Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to combination antiretroviral therapy (CART).
+Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to CART.
 The frequency of this is unknown (see section 4.4).
 
 Laboratory abnormalities
 In controlled clinical studies laboratory abnormalities related to Ziagen treatment were uncommon, with no differences in incidence observed between Ziagen treated patients and the control arms.
 
-[Ziagen 20 mg/ml oral solution]
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
-In a clinical study, 3.4 % of submects with a negative HLA-B*5701 status receiving abacavir developed a hypersensitivity reaction.
+[Ziagen 20 mg/ml oral solution]
 
 Respiratory tract Dyspnoea, cough, sore throat, adult respiratory distress syndrome,
 
@@ -114,5 +119,7 @@ Miscellaneous Fever, lethargy, malaise, oedema, lymphadenopathy, hypotension,
 conjunctivitis, anaphylaxis
 
 Musculoskeletal Myalgia, rarely myolysis, arthralgia, elevated creatine phosphokinase
+
+Regardless of their HLA-B*5701 status, patients who develop this hypersensitivity reaction must discontinue Ziagen and must never be rechallenged with Ziagen, or any other medicinal product containing abacavir (e.g. Kivexa, Trizivir).
 
 Cases of lactic acidosis, sometimes fatal, usually associated with severe hepatomegaly and hepatic steatosis, have been reported with the use of nucleoside analogues(see section 4.4).

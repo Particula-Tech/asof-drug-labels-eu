@@ -1,6 +1,6 @@
 # 4.1 Therapeutic indications
 
-Ziagen is indicated in antiretroviral combination therapy for the treatment of Human Immunodeficiency Virus (HIV) infection.
+Ziagen is indicated in antiretroviral combination therapy for the treatment of Human Immunodeficiency Virus (HIV) infection in adults and children.
 
 The demonstration of the benefit of Ziagen is mainly based on results of studies performed with a twice daily regimen, in treatment-naïve adult patients on combination therapy (see section 5.1).
 

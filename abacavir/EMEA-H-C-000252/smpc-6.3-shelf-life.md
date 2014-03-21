@@ -1,4 +1,4 @@
-# 6.3 Shelf life
+# 6.3 Shelf-life
 
 3 years
 
