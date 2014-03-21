@@ -1,0 +1,16 @@
+{
+  "active_substance": "lurasidone",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/002713",
+  "eu_number": "EU/1/14/913",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2014-03-21",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/latuda",
+  "molecule": "lurasidone",
+  "molecule_name": "LURASIDONE",
+  "name": "Latuda",
+  "register_name": "Latuda",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h913.htm"
+}
