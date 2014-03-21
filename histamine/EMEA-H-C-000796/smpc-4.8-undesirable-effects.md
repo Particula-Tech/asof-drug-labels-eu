@@ -1,6 +1,7 @@
 # 4.8 Undesirable effects
 
 Acute myeloid leukaemia
+
 Adverse reactions were reported to be at least possibly related to IL-2 and Ceplene treatment in almost all patients in studies in AML.
 
 The most common adverse reactions experienced by 30% or more of patients receiving IL-2 and Ceplene (listed in descending order of frequency) were: flushing, headache, fatigue, injection site granuloma, pyrexia and injection site erythema.

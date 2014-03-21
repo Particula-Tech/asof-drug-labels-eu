@@ -27,6 +27,7 @@ Direct the diluent against the side of the vial to avoid excessive foaming.
 Gently swirl to facilitate complete dissolution of the powder.
 Do NOT shake the vial during the entire reconstitution process.
 The resulting solution contains 22 x 10 6 IU (1,300 µg) of aldesleukin per 1.2 mL.
+
 Subsequent dilution to 200 µg/mL
 
 The entire contents of the reconstituted vial (1.2 mL) is then further diluted aseptically with 5.3 mL dextrose 5%w/v solution for injection to a total volume of 6.5 mL providing a final concentration of 200 µg/mL (3.3 x 106 IU/mL) of IL-2 (aldesleukin).

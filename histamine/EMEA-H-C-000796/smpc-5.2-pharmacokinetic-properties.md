@@ -14,6 +14,7 @@ However, this difference was not statistically significant.
 It is not known whether histamine crosses the placenta.
 
 Biotransformation/Elimination
+
 Histamine is eliminated by metabolism in kidney, liver and other tissues.
 The main enzymes involved in the metabolism of histamine are HNMT (histamine-N-methyltransferase) and DAO (diamine oxidase).
 The metabolites are mainly excreted in urine.
@@ -28,7 +29,6 @@ The pharmacokinetics of histamine are similar in healthy volunteers with normal 
 In subjects with severe renal impairment, there were decreases in systolic and diastolic blood pressure at plasma histamine concentrations which caused no appreciable decrease in blood pressure in other subjects.
 Thus, subjects with severe renal impairment may be more sensitive to the blood pressure lowering effects of exogenously administered histamine than subjects with normal renal function or subjects with mild or moderate renal impairment.
 Although the degree of renal impairment has little effect on the PK disposition of histamine, caution should be used in the administration of histamine to patients with severe renal impairment.
-
 Hepatic impairment
 
 A study was performed to measure the PK of histamine in normal volunteers compared to patients with mild, moderate, and severe hepatic impairment.

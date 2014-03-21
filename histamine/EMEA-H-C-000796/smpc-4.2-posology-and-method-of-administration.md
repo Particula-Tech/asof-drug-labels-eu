@@ -12,11 +12,11 @@ IL-2 is administered twice daily as a subcutaneous injection 1 to 3 minutes prio
 
 Interleukin-2 (IL-2) is commercially available as a recombinant IL-2; aldesleukin.
 The dispensing and storage directions below are specific to aldesleukin.
+
 Dispensing instructions for IL-2 (aldesleukin)
 
 IL-2 (aldesleukin) should be aseptically reconstituted, diluted and dispensed in capped polypropylene tuberculin syringes by the pharmacy based on the individual patient’s weight (see administration chart for aldesleukin below) at the recommended dose of 16 400 IU/kg (1 µg/kg).
 Up to two weeks supply of pre-filled capped tuberculin syringes may be provided to patients for home administration, with instructions that the syringes be stored under refrigeration at 2°C – 8°C prior to administration.
-
 Studies have shown chemical stability and sterility of diluted aldesleukin (dispensed in capped polypropylene tuberculin syringes) for up to three weeks when prepared in a controlled aseptic environment and stored under refrigeration at 2°C – 8°C.
 
 NOTE: Dispensing of aldesleukin must be carried out under controlled aseptic conditions.
@@ -42,6 +42,7 @@ Table 1: Administration chart for IL-2 (aldesleukin)
 
 *Injection volume rounded up to the nearest 0.05 mL
 ** Injection volumes based on 20% reductions are rounded thus actual dose reductions vary from 15%-25%
+
 Ceplene
 
 0.5 mL solution is sufficient for a single dose (see section 6.6).
@@ -55,7 +56,6 @@ For cycles 1-3, each cycle consists of 3 weeks of treatment, followed by a 3-wee
 For cycles 4-10, each cycle consists of 3 weeks of treatment, followed by a 6-week treatment-free period.
 
 The recommended dosing regimen is presented in Tables 2 and 3.
-
 Table 2: For treatment cycles 1-3 with Ceplene and IL-2
 
 | Week number (w)* |  |  | Treatment* |
@@ -104,8 +104,7 @@ Treatment should only be resumed after consideration of risk – benefit to the 
 
 For patients experiencing grade 2 (including cardiac function, renal, hepatic) toxicity
 - treatment should be discontinued until the event has returned to grade 1
-- the time of injection of the dose of Ceplene should be extended to a maximum of 15 minutes.
-- for cardiac, hepatic or renal toxicities the dose should be reduced by 20% for both Ceplene and IL-2.
+- the time of injection of the dose of Ceplene should be extended to a maximum of 15 minutes. - for cardiac, hepatic or renal toxicities the dose should be reduced by 20% for both Ceplene and IL-2.
 
 For patients experiencing grade 3 and 4 (including hypotension, arrhythmia) toxicities
 - treatment should be discontinued until the event is resolved.
@@ -146,7 +145,6 @@ The safety and efficacy of Ceplene in children below 18 years of age have not ye
 No data are available.
 
 Method of administration
-
 Ceplene is for subcutaneous use only.
 
 One to 3 minutes after the subcutaneous administration of IL-2 has been completed, Ceplene should be administered by slow subcutaneous injection at a rate not to exceed 0.1 mL (0.1 mg histamine dihydrochloride) per minute.
