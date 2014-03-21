@@ -27,9 +27,11 @@ In clinical trials, no PNH or aHUS patients experienced an infusion reaction whi
 Soliris administration should be interrupted in all patients experiencing severe infusion reactions and appropriate medical therapy administered.
 
 Immunogenicity
-Infrequent, low titre antibody responses have been detected in Soliris-treated patients across all studies.
-In placebo controlled studies low titre responses have been reported with a frequency (3.4%) similar to that of placebo (4.8%).
-No patients have been reported to develop neutralizing antibodies following therapy with Soliris, and there has been no observed correlation of antibody development to clinical response or adverse events.
+Infrequent antibody responses have been detected in Soliris-treated patients across all clinical studies.
+In placebo controlled studies low antibody responses have been reported with a frequency (3.4%) similar to that of placebo (4.8%).
+In patients with aHUS treated with Soliris, antibodies to Soliris were detected in 3/100 (3%) by the ECL bridging format assay.
+1/100 (1%) aHUS patients had low positive values for neutralizing antibodies.
+There has been no observed correlation of antibody development to clinical response or adverse events.
 
 Immunization
 Prior to initiating Soliris therapy, it is recommended that PNH and aHUS patients should initiate immunizations according to current immunization guidelines.

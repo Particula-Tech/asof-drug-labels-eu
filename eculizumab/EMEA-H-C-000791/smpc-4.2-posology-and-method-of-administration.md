@@ -39,26 +39,26 @@ For adults and paediatric aHUS patients supplemental dosing of Soliris is requir
 | --- | --- | --- | --- |
 | Plasmapheresis or plasma exchange | 300 mg | 300 mg per each plasmapheresis or plasma exchange session | Within 60 minutes after each plasmapheresis or plasma exchange |
 |  | ≥600 mg | 600 mg per each plasmapheresis or plasma exchange session |  |
-| Fresh frozen plasma infusion | ≥300 mg | 300 mg per each unit of fresh frozen plasma | 60 minutes prior to each 1 unit of fresh frozen plasma infusion |
+| Fresh frozen plasma infusion | ≥300 mg | 300 mg per infusion of fresh frozen plasma | 60 minutes prior to each infusion of fresh frozen plasma |
 
 Treatment monitoring aHUS patients should be monitored for signs and symptoms of thrombotic microangiopathy (TMA) (see section 4.4 aHUS laboratory monitoring).
 Soliris treatment is recommended to continue for the patient’s lifetime, unless the discontinuation of Soliris is clinically indicated (see section 4.4).
 
-Elderly population
+Older population
 Soliris may be administered to patients aged 65 years and over.
 There is no evidence to suggest that any special precautions are needed when older people are treated – although experience with Soliris in this patient population is still limited.
-Renal impairment
+Patients with renal impairment
 No dose adjustment is required for patients with renal impairment (see section 5.1).
 
-Hepatic impairment
+Patients with hepatic impairment
 The safety and efficacy of Soliris have not been studied in patients with hepatic impairment.
 
 Method of administration
 Do not administer as an intravenous push or bolus injection.
 Soliris should only be administered via intravenous infusion as described below.
-For instructions on dilution of the medicinal product before administration, see section 6.6.
 
-The diluted solution of Soliris should be administered by intravenous infusion over 25 – 45 minutes via gravity feed, a syringe-type pump, or an infusion pump.
+For instructions on dilution of the medicinal product before administration, see section 6.6.
+The diluted solution of Soliris should be administered by intravenous infusion over 25 – 45 minutes in adults and 1-4 hours in paediatric patients via gravity feed, a syringe-type pump, or an infusion pump.
 It is not necessary to protect the diluted solution of Soliris from light during administration to the patient.
 Patients should be monitored for one hour following infusion.
 If an adverse event occurs during the administration of Soliris, the infusion may be slowed or stopped at the discretion of the physician.
