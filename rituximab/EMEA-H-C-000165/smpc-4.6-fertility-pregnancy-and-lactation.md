@@ -22,3 +22,12 @@ There are no data currently available on the effects of MabThera on fertility.
 [MabThera 500 mg concentrate for solution for infusion]
 
 There are no adequate and well-controlled data from studies in pregnant women, however transient B-cell depletion and lymphocytopenia have been reported in some infants born to mothers exposed to MabTheraduring pregnancy.
+
+[MabThera 1400 mg solution for subcutaneous injection]
+
+Due to the long retention time of rituximab in B cell depleted patients, women of childbearing potential must employ effective contraceptive methods during and for 12 months after treatment with MabThera.
+
+B-cell levels in human neonates following maternal exposure to MabThera have not been studied in clinical trials.
+Similar effects have been observed in animal studies (see section 5.3).For these reasons MabThera should not be administered to pregnant women unless the possible benefit outweighs the potential risk.
+
+Animal studies did not reveal deleterious effects of rituximab or recombinant human hyaluronidase (rHuPH20) on reproductive organs.

@@ -12,3 +12,11 @@ For a full list of excipients, see section 6.1.
 [MabThera 500 mg concentrate for solution for infusion]
 
 Each single-use vial containing 500 mg of rituximab.
+
+[MabThera 1400 mg solution for subcutaneous injection]
+
+Each mL contains 120 mg of rituximab.
+
+Each vial contains 1400 mg/11.7 mL rituximab.
+
+For the full list of excipients, see section 6.1.

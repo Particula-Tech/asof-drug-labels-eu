@@ -21,3 +21,7 @@ Severe heart failure (New York Heart Association Class IV) or severe, uncontroll
 [MabThera 500 mg concentrate for solution for infusion]
 
 Contraindications for use in Rheumatoid arthritis, Granulomatosis with polyangiitis and Microsccopic polyangiitis
+
+[MabThera 1400 mg solution for subcutaneous injection]
+
+Hypersensitivity to the active substance or to murine proteins, hyaluronidase or to any of the other excipients listed in section 6.1.

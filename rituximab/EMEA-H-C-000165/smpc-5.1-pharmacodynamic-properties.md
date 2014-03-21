@@ -45,7 +45,6 @@ The ORR was 57 % (95% Confidence interval (CI); 41% – 73%; CR 14 %, PR 43%) wi
 Initial treatment, bulky disease, weekly for 4 doses
 In pooled data from three studies, 39 patients with relapsed or chemoresistant, bulky disease (single lesion ≥ 10 cm in diameter), low grade or follicular B cell NHL received 375 mg/m2 of MabThera as intravenous infusion weekly for four doses.
 The ORR was 36 % (CI95 % 21 % – 51 %; CR 3 %, PR 33 %) with a median TTP for responding patients of 9.6 months (range 4.5 to 26.8 months).
-
 Re-treatment, weekly for 4 doses
 In a multi-centre, single-arm study, 58 patients with relapsed or chemoresistant low grade or follicular B cell NHL, who had achieved an objective clinical response to a prior course of MabThera, were re-treated with 375 mg/m2 of MabThera as intravenous infusion weekly for four doses.
 Three of the patients had received two courses of MabThera before enrollment and thus were given a third course in the study.
@@ -504,3 +503,78 @@ Further, significantly higher proportion of patients achieved MCIDs for these sc
 | % SF-36 PHS MCID | 13% | 48%*** |
 | Mean Change in SF-36 MHS | 1.3 | 4.7** |
 | % SF-36 MHS MCID | 20% | 38%* |
+
+[MabThera 1400 mg solution for subcutaneous injection]
+
+Pharmacotherapeutic group: antineoplastic agents, monoclonal antibodies, ATC code: L01X C02
+
+MabThera subcutaneous formulation contains recombinant human hyaluronidase (rHuPH20), an enzyme used to increase the dispersion and absorption of co-administered substances when administered subcutaneously.
+
+Clinical experience of MabThera subcutaneous formulation in Non-Hodgkin’s lymphoma
+
+The clinical experience of MabThera subcutaneous formulation in Non-Hodgkin’s lymphoma is based on data from a phase III clinical trial (SABRINA BO22334) in patients with follicular lymphoma (FL) and a phase Ib dose-finding/dose-confirmation trial (SparkThera BP22333) in patients with FL.
+Results from trial BP22333 are presented in section 5.2.
+
+Trial BO22334 (SABRINA)
+A two-stage phase III, international, multi-centre, randomised, controlled, open-label trial was conducted in patients with previously untreated follicular lymphoma, to investigate the non-inferiority of the pharmacokinetic profile, together with efficacy and safety of MabThera subcutaneous formulation in combination with CHOP or CVP versus MabThera intravenous formulation in combination with CHOP or CVP.
+
+The objective of the first stage was to establish the rituximab subcutaneous dose that resulted in comparable MabThera subcutaneous formulation serum Ctrough levels compared with MabThera intravenous formulation, when given as part of induction treatment every 3 weeks (see section 5.2).
+The results of this stage are given below, for stage 2, an additional 280 patients will be enrolled.
+
+In stage 1, previously untreated patients (n=127) suffering from CD20 positive, follicular lymphoma (FL) grade 1, 2 or 3a were randomized into the following two treatment groups:
+
+- MabThera subcutaneous formulation (n= 63): first cycle MabThera intravenous formulation plus 7 cycles of MabThera subcutaneous formulation in combination with up to 8 cycles of CHOP or CVP chemotherapy administered every 3 weeks.
+
+MabThera intravenous formulation was used at the standard dose of 375 mg/m2 body surface area.
+MabThera subcutaneous formulation was given at a fixed dose of 1400 mg.
+Patients achieving at least partial response (PR) were entered on the MabThera subcutaneous formulation maintenance therapy once every 8 weeks for 24 months.
+
+- MabThera intravenous formulation (n= 64): 8 cycles of MabThera intravenous formulation in combination with up to 8 cycles of CHOP or CVP chemotherapy administered every 3 weeks.
+  MabThera intravenous formulation was used at the standard dose of 375 mg/m2.
+
+Patients achieving at least PR were entered on MabThera intravenous formulation maintenance therapy once every 8 weeks for 24 months.
+
+At the end of the induction phase, 90.5% of patients in the MabThera subcutaneous arm achieved an overall response compared with 84.4%, of patients in the MabThera intravenous arm.
+The proportion of patients with a complete response (complete response and unconfirmed complete response) was 46.0% in the MabThera subcutaneous arm and 29.7% in the MabThera intravenous arm.
+
+Immunogenicity
+Data from the development programme of MabThera subcutaneous formulation indicate that the formation of anti-rituximab antibodies (HACAs) after subcutaneous administration is comparable with that observed after intravenous administration.
+Throughout Stage 1 of trial BO22334, anti-rituximab antibodies were observed in 1/57 (2%) and 1/57 (2%) of patients in the intravenous and subcutaneous cohorts, respectively, among patients who were antibody-negative at baseline.
+Anti-rHuPH20 (Recombinant human hyaluronidase) antibodies were observed in 2/57 (4%) and 2/53 (4%) of patients in the intravenous and subcutaneous cohorts, respectively, among patients who were antibody-negative at baseline.
+
+The overall proportion of patients found to have anti-rHuPH20 antibodies remained generally constant over the follow-up period in both cohorts.
+There was no apparent relationship between HACAs or anti-rHuPH20 antibodies and adverse events.
+The clinical relevance of the development of HACAs or anti-rHuPH20 antibodies after treatment with MabThera subcutaneous formulation is not known.
+
+Clinical experience of MabThera concentrate for solution for infusion in Non-Hodgkin’s lymphoma
+
+Initial treatment in combination with chemotherapy
+
+Key results from all four trials are summarized in table 2.
+
+Table 2 Summary of key results from four phase III randomized trials evaluating the benefit of MabThera with different chemotherapy regimens in follicular lymphoma
+
+| Trial | Treatment, N | Median FU, months | ORR, % | CR, % | Median TTF/PFS/ EFS mo | OS rates, % |
+| --- | --- | --- | --- | --- | --- | --- |
+| M39021 | CVP, 159 R-CVP, 162 | 53 | 57 81 | 10 41 | Median TTP: 14.7 33.6 P<0.0001 | 53-months 71.1 80.9 p=0.029 |
+| GLSG’00 | CHOP, 205 R-CHOP, 223 | 18 | 90 96 | 17 20 | Median TTF: 2.6 years Not reached p < 0.001 | 18-months 90 95 p = 0.016 |
+| OSHO-39 | MCP, 96 R-MCP, 105 | 47 | 75 92 | 25 50 | Median PFS: 28.8 Not reached p < 0.0001 | 48-months 74 87 p = 0.0096 |
+| FL2000 | CHVP-IFN, 183 R-CHVP-IFN, 175 | 42 | 85 94 | 49 76 | Median EFS: 36 Not reached p < 0.0001 | 42-months 84 91 p = 0.029 |
+
+After a median observation time of 25 months from randomization, maintenance therapy with MabThera resulted in a clinically relevant and statistically significant improvement in the primary endpoint of investigator assessed progression-free survival (PFS) as compared to oberservation in patients with previously untreated follicular lymphoma (Table 3).
+
+Significant benefit from maintenance treatment with MabThera was also seen for the secondary endpoints event-free survival (EFS), time to next anti-lymphoma treatment (TNLT) time to next chemotherapy (TNCT) and overall response rate (ORR) (Table 3).
+The results of the primary analysis were confirmed with longer follow-up (median observation time: 48 months) and have been added to Table 3 to show the comparison between the 25 and 48 month follow-up periods.
+
+Table 3 Maintenance phase: overview of efficacy results MabThera vs. observation after 48 months median observation time (compared with results of primary analysis based on 25 months median observation time)
+
+The final efficacy analysis included all patients randomized to both parts of the trial.
+After a median observation time of 31 months for patients randomised to the induction phase, R-CHOP significantly improved the outcome of patients with relapsed/refractory follicular lymphoma when compared to CHOP (see Table 4).
+
+Table 4 Induction phase: overview of efficacy results for CHOP vs. R-CHOP (31 months median observation time)
+
+Table 5 Maintenance phase: overview of efficacy results MabThera vs. observation (28 months median observation time)
+
+The benefit of MabThera maintenance treatment was confirmed in all subgroups analysed, regardless of induction regimen (CHOP or R-CHOP) or quality of response to induction treatment (CR or PR) (table 5).
+
+The European Medicines Agency has waived the obligation to submit the results of studies with rituximab in all subsets of the paediatric population with follicular lymphoma.

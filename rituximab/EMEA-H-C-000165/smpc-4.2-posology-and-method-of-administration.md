@@ -117,3 +117,59 @@ The infusion rate may be increased upon improvement of symptoms.
 [MabThera 500 mg concentrate for solution for infusion]
 
 Previously untreated follicular lymphomaThe recommended dose of MabThera used as a maintenance treatment for patients with previously untreated follicular lymphoma who have responded to induction treatment is: 375 mg/m2 body surface area once every 2 months (starting 2 months after the last dose of induction therapy) until disease progression or for a maximum period of two years.
+
+[MabThera 1400 mg solution for subcutaneous injection]
+
+MabThera should be administered under the close supervision of an experienced healthcare professional, and in an environment where full resuscitation facilities are immediately available (see section 4.4).
+
+Premedication consisting of an anti-pyretic and an antihistaminic, e.g. paracetamol and diphenhydramine, should always be given before each administration of MabThera.
+
+Premedication with glucocorticoids should be considered if MabThera is not given in combination with glucocorticoid-containing chemotherapy for treatment of non-Hodgkin’s lymphoma.
+
+The recommended dose of MabThera subcutaneous formulation used for adult patients is a subcutaneous injection at a fixed dose of 1400 mg irrespective of the patient’s body surface area.
+
+Before starting MabThera subcutaneous injections, all patients must always receive beforehand, a full dose of MabThera by intravenous infusion, using MabThera intravenous formulation (see section 4.4).
+
+If patients were not able to receive one full MabThera intravenous infusion dose prior to the switch, they should continue the subsequent cycles with MabThera intravenous formulation until a full intravenous dose is successfully administered.
+Therefore, the switch to MabThera subcutaneous formulation can only occur at the second or subsequent cycles of treatment.
+
+It is important to check the medicinal product labels to ensure that the appropriate formulation (intravenous or subcutaneous formulation) is being given to the patient, as prescribed.
+
+MabThera subcutaneous formulation is not intended for intravenous administration and should be given via subcutaneous injection only.
+
+The recommended dose of MabThera in combination with chemotherapy for induction treatment of previously untreated or relapsed/ refractory patients with follicular lymphoma is: first cycle with MabThera intravenous formulation 375 mg/m2 body surface area, followed by subsequent cycles with MabThera subcutaneous formulation injected at a fixed dose of 1400 mg per cycle for up to 8cycles.
+
+MabThera should be administered on day 1 of each chemotherapy cycle, after administration of the glucocorticoid component of the chemotherapy if applicable.
+
+The recommended dose of MabThera subcutaneous formulation used as a maintenance treatment for patients with previously untreated follicular lymphoma who have responded to induction treatment is: 1400 mg once every 2 months (starting 2 months after the last dose of induction therapy) until disease progression or for a maximum period of two years.
+
+The recommended dose of MabThera subcutaneous formulation used as a maintenance treatment for patients with relapsed/refractory follicular lymphoma who have responded to induction treatment is: 1400 mg once every 3 months (starting 3 months after the last dose of induction therapy) until disease progression or for a maximum period of two years.
+
+The recommended dose is: first cycle, MabThera intravenous formulation: 375 mg/m2 body surface area, followed by subsequent cycles with MabThera subcutaneous formulation injected at a fixed dose of 1400 mg per cycle.
+In total: 8 cycles.
+
+MabThera is administered on day 1 of each chemotherapy cycle after intravenous infusion of the glucocorticoid component of CHOP.
+
+Dose adjustments during treatment
+
+When MabThera is given in combination with chemotherapy, standard dose reductions for the chemotherapeutic medicinal products should be applied (see section 4.8).
+
+The safety and efficacy of MabThera in children below 18 years has not been established.
+No data are available.
+
+Elderly
+
+Subcutaneous injections:
+MabThera subcutaneous formulation should be administered as subcutaneous injection only, over approximately 5 minutes.
+The hypodermic injection needle must only be attached to the syringe immediately prior to administration to avoid potential needle clogging.
+
+MabThera subcutaneous formulation should be injected subcutaneously into the abdominal wall and never into areas where the skin is red, bruised, tender, hard or areas where there are moles or scars.
+
+No data are available on performing the injection in other sites of the body, therefore injections should be restricted to the abdominal wall.
+
+During the treatment course with MabThera subcutaneous formulation, other medicinal products for subcutaneous administration should preferably be given at different sites.
+
+If an injection is interrupted it can be resumed at the same site or another location may be used, if appropriate.
+
+Intravenous infusion administration:
+The Summary of Product Characteristics (SmPC) of MabThera100 mg and 500 mg concentrate for solution for infusion should be referred to for information on dosing instructions and method of administration.

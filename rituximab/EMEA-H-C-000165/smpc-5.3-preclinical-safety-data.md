@@ -10,3 +10,19 @@ B cell counts returned to normal in these animals within 6 months of birth and d
 No long-term animal studies have been performed to establish the carcinogenic potential of rituximab, or to determine its effects on fertility in males or females.
 Standard tests to investigate mutagenicity have not been carried out, since such tests are not relevant for this molecule.
 However, due to its character it is unlikely that rituximab has any mutagenic potential.
+
+[MabThera 500 mg concentrate for solution for infusion]
+
+(all sentences already above)
+
+[MabThera 1400 mg solution for subcutaneous injection]
+
+Developmental toxicity studies have been performed in cynomolgus monkeys at doses up to 100 mg/kg (treatment on gestation days 20-50) and have revealed no evidence of toxicity to the foetus due to rituximab.
+
+No long-term animal studies have been performed to establish the carcinogenic potential of rituximab.
+Specific studies to determine the effects of rituximab or rHuPH20 on fertility have not been performed.
+In general toxicity studies in cynomolgus monkeys no deleterious effects on reproductive organs in males or females were observed.
+Additionally, no effects on semen quality were shown for rHuPH20.
+
+In embryofetal developmental studies in mice, rHuPH20 caused reduced fetal weight and loss of implantations at systemic exposures sufficiently in excess of human therapeutic exposure.
+There is no evidence of dysmorphogenesis (i.e. teratogenesis) resulting from systemic exposure to rHuPH20.

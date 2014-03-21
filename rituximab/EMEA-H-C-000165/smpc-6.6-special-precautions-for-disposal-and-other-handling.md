@@ -13,3 +13,10 @@ Any unused medicinal product or waste material should be disposed of in accordan
 [MabThera 500 mg concentrate for solution for infusion]
 
 Aseptically withdraw the necessary amount of MabThera, and dilute to a calculated concentration of 1 to 4 mg/ml rituximab into an infusion bag containing sterile, pyrogen-free sodium chloride 9 mg/ml (0.9%) solution for injection or 5 % D-Glucose in water.
+
+[MabThera 1400 mg solution for subcutaneous injection]
+
+The following points should be strictly adhered to regarding the use and disposal of syringes and other medicinal sharps:
+
+- Needles and syringes should never be reused
+- Place all used needles and syringes into a sharps container (puncture-proof disposable container).

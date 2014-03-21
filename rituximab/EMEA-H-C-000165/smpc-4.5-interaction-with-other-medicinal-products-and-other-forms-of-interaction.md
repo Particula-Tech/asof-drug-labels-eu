@@ -16,3 +16,7 @@ In these patients the rate of clinically relevant infection while on MabThera wa
 
 In patients with rheumatoid arthritis, 283 patients received subsequent thereapy with a biologic DMARD following MabThera.
 In these patients the rate of clinically relevant infection while on MabThera was 6.01 per 100 patient years compared to 4.97 per 100 patients years following treatment with the biologic DMARD.
+
+[MabThera 1400 mg solution for subcutaneous injection]
+
+Co-administration with MabThera did not appear to have an effect on the pharmacokinetics of fludarabine or cyclophosphamide.

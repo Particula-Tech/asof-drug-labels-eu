@@ -55,3 +55,73 @@ The PK parameters of rituximab in these patients appear similar to what has been
 [MabThera 500 mg concentrate for solution for infusion]
 
 The pharmacokinetic profile of MabThera when administered as 6 infusions of 375 mg/m2 in combination with 6 cycles of CHOP chemotherapy was similar to that seen with rituximab alone.
+
+[MabThera 1400 mg solution for subcutaneous injection]
+
+Absorption
+
+Rituximab pharmacokinetics following single dose administration of MabThera subcutaneous 375 mg/ m2, 625 mg/ m2 and 800 mg/ m2 were compared with MabThera intravenous 375 mg/ m2 in FL patients.
+Following subcutaneous administration, the absorption of rituximab is slow, reaching maximal concentrations about 3 days after administration.
+Based on popPK analysis an absolute bioavailability of 71% was estimated.
+Rituximab exposure increased dose proportional over the 375 mg/m2 to 800 mg/m2 subcutaneous dose range.
+Pharmacokinetic parameters such as clearance, distribution volume, and elimination half-life were comparable for both formulations.
+
+Trial BP22333 (SparkThera)
+A two-stage phase Ib trial to investigate the pharmacokinetics, safety and tolerability of MabThera subcutaneous formulation in patients with follicular lymphoma (FL) as part of maintenance treatment.
+In stage 2, MabThera subcutaneous formulation at a fixed dose of 1400 mg was administered as subcutaneous injection during maintenance treatment, after at least one cycle of MabThera intravenous formulation to FL patients who had previously responded to MabThera intravenous formulation in induction.
+
+The comparison of predicted median Cmax data for MabThera subcutaneous formulation and intravenous formulation are summarized in Table 6.
+
+Table 6: Trial BP22333 (SparkThera): Absorption - Pharmacokinetic parameters of MabThera SC compared to MabThera IV
+
+MabThera MabThera
+subcutaneous intravenous
+Predicted median Cmax 201 209
+(q2m) µg/mL
+Predicted median Cmax 189 184
+(q3m) µg/mL
+
+The median Tmax in the MabThera subcutaneous formulation was approximately 3 days as compared to the Tmax occuring at or close to the end of the infusion for the intravenous formulation.
+
+Trial BO22334 (SABRINA)
+MabThera subcutaneous formulation at a fixed dose of 1400 mg was administered for 6 cycles subcutaneously during induction at 3-weekly intervals, following the first cycle of MabThera intravenous formulation, in previously untreated FL patients in combination with chemotherapy.
+The serum rituximab Cmax at cycle 7 was similar between the two treatment arms, with geometric mean (CV%) values of 250.63 (19.01) μg/mL and 236.82 (29.41) μg/mL for the intravenous and the subcutaneous formulations respectively, with the resulting geometric mean ratio (Cmax, SC/Cmax, IV) of 0.941 (90% CI: 0.872, 1.015).
+
+Distribution/Elimination
+
+Geometric mean Ctrough and geometric mean AUCτ from the BPP22333 and BO22334 trials are summarized in Table 7.
+
+Table 7: Distribution/Elimination - Pharmacokinetic parameters of MabThera subcutaneous compared to MabThera intravenous
+
+Geometric Geometric Geometric Geometric
+mean Ctrough mean Ctrough mean AUCτ mean AUCτ
+(q2m) µg/mL (q3m) µg/mL cycle 2 (q2m) cycle 2 (q3m)
+µg.day/mL µg.day/mL
+MabThera 32.2 12.1 5430 5320
+subcutaneous
+formulation
+MabThera 25.9 10.9 4012 3947
+intravenous
+Geometric mean Geometric mean
+Ctrough values at pre-dose cycle 8 AUC values at cycle 7
+µg/mL µg.day/mL
+MabThera 134.6 3778
+MabThera 83.1 2734
+
+In a population pharmacokinetic analysis in 403 follicular lymphoma patients who received subcutaneous and/or intravenous MabThera, single or multiple infusions of MabThera as a single agent or in combination with chemotherapy, the population estimates of nonspecific clearance (CL1), initial specific clearance (CL2) likely contributed by B cells or tumour burden, and central compartment volume of distribution (V1) were 0.194 L/day, 0.535 L/day, and 4.37 L/day, respectively.
+The estimated median terminal elimination half-life of MabThera subcutaneous formulation was 29.7 days (range, 9.9 to 91.2 days).The analysis data set contained 6003 quantifiable samples from 403 patients administered SC and/or IV rituximab in trials BP22333 (3736 samples from 277 patients) and BO22334 (2267 samples from126 patients).
+Twenty nine (0.48%) post-dose observations (all from trial BP22333) were below the quantification limit.
+There were no missing covariate values except baseline B-cell count.
+Baseline tumour load was available only in trial BO22334.
+Special populations
+
+| In clinical trial BO22334, an effect was observed between body size and exposure ratios reported in |  |  |  |
+| --- | --- | --- | --- |
+| cycle 7, between rituximab subcutaneous formulation 1400 mg q3w and rituximab intravenous |  |  |  |
+| formulation 375 mg/m2 q3w with Ctrough ratios of 2.29, 1.31, and 1.41 in patients with low, medium |  |  |  |
+| and high BSA, respectively (low BSA |  | ≤ | 1.70 m2; 1.70 m2 < medium BSA < 1.90 m2; high BSA |
+| ≥ | 1.90 m2). The corresponding AUCτ ratios were 1.66, 1.17 and 1.32. |  |  |
+
+There was no evidence of clinically relevant dependencies of rituximab pharmacokinetics on age and sex.
+
+Anti-rituximab antibodies were detected in only 13 patients and did not result in any clinically relevant increase in steady-state clearance.

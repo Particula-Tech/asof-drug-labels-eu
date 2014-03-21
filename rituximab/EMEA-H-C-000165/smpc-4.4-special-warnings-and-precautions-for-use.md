@@ -201,3 +201,75 @@ Physicians should exercise caution when considering the use of MabThera in patie
 
 Hepatitis B virus (HBV) screening should be performed in all patientsbefore initiation of treatment with MabThera.
 These can be complemented with other appropriate markers as per local guideline.
+
+[MabThera 1400 mg solution for subcutaneous injection]
+
+The information provided in the section 4.4 pertains to the use of MabThera subcutaneous formulation in the approved indication Treatment of non Hodgkin lymphoma.
+For information related to the other indications, please refer to the SmPC of MabThera intravenous formulation.
+The use of MabThera subcutaneous formulation as monotherapy in patients with stage III-IV follicular lymphoma who are chemoresistant or are in their second or subsequent relapse after chemotherapy cannot be recommended as the safety of the once weekly subcutaneous administration has not been established.
+
+Use of MabThera may be associated with an increased risk of progressive multifocal leukoencephalopathy (PML).
+
+If any doubt exists, further evaluation, including MRI scan preferably with contrast, cerebrospinal fluid (CSF) testing for JC Viral DNA and repeat neurological assessments, should be considered.
+
+Infusion/Administration-related reactions
+
+MabThera is associated with infusion/administration-related reactions, which may be related to release of cytokines and/or other chemical mediators.
+Cytokine release syndrome may be clinically indistinguishable from acute hypersensitivity reactions.
+
+This set of reactions which includes syndrome of cytokine release, tumor lysis syndrome and anaphylactic and hypersensitivity reactions are described below.
+They are not specifically related to the route of administration of MabThera and can be observed with both formulations.
+
+Severe infusion-related reactions with fatal outcome have been reported during post-marketing use of the MabThera intravenous formulation, with an onset ranging within 30 minutes to 2 hours after starting the first MabThera IV infusion.
+They were characterized by pulmonary events and in some cases included rapid tumour lysis and features of tumour lysis syndrome in addition to fever, chills, rigors, hypotension, urticaria, angioedema and other symptoms (see section 4.8).
+
+This syndrome may be associated with some features of tumour lysis syndrome such as hyperuricaemia, hyperkalaemia, hypocalcaemia, hyperphosphaetemia, acute renal failure, elevated lactate dehydrogenase (LDH) and may be associated with acute respiratory failure and death.
+
+Patients with a high tumour burden or with a high number (≥25 x 109/L) of circulating malignant cells, who may be at higher risk of especially severe cytokine release syndrome, should only be treated with extreme caution.
+
+Since hypotension may occur during MabThera administration, consideration should be given to withholding anti-hypertensive medicines 12 hours prior to giving MabThera.
+
+Infusion related adverse reactions of all kinds have been observed in 77% of patients treated with MabThera intravenous formulation (including cytokine release syndrome accompanied by hypotension and bronchospasm in 10 % of patients) see section 4.8.
+
+Administration related reactions have been observed in up to 50% of patients treated with Mabthera subcutaneous formulation in clinical trials.
+The reactions occurring within 24 hours of the subcutaneous injection consisted primarily of erythema pruritus, rash and injections site reactions such as pain, swelling and redness and were generally of mild or moderate (grade 1 or 2) and transient nature.
+
+Local cutaneous reactions were very common in patients receiving MabThera subcutaneous in clinical trials; reported in up to 50% of patients at some time during treatment.
+Symptoms included pain, swelling, induration, haemorrhage, erythema, pruritus and rash (see section 4.8).
+Some local cutaneous reactions occurred more than 24 hours after the MabThera subcutaneous administration.
+The majority of local cutaneous reactions seen following administration of MabThera subcutaneous formulation was mild or moderate and resolved without any specific treatment.
+
+Before starting MabThera subcutaneous injections, all patients must always receive beforehand, a full
+dose of MabThera by intravenous infusion, using MabThera intravenous formulation. The highest risk
+of experiencing an administration related reaction is generally observed at cycle one. Beginning the
+therapy with MabThera intravenous infusion would allow a better handling of the administration
+reactions by slowing or stopping the intravenous infusion.
+
+If patients were not able to receive one full MabThera intravenous infusion dose prior to the switch, they should continue the subsequent cycles with MabThera intravenous formulation until a full intravenous dose is successfully administered.
+Therefore, the switch to MabThera subcutaneous formulation can only occur at the second or subsequent cycles of treatment.
+As with the intravenous formulation, MabThera subcutaneous formulation should be administered in an environment where full resuscitation facilities are immediately available and under the close supervision of an experienced healthcare professional.
+Premedication consisting of an analgesic/antipyretic and an antihistamine should always be administered before each dose of MabThera subcutaneous formulation.
+Premedication with glucocorticoids should also be considered.
+
+Patients should be observed for at least 15 minutes following MabThera subcutaneous
+administration. A longer period may be appropriate in patients with an increased risk of
+hypersensitivity reactions.
+
+Patients should be instructed to contact their treating physician immediately if symptoms that are suggestive of severe hypersensitivity or cytokine release syndrome occur at any time after medicinal product administration.
+
+The MabThera intravenous formulation has been used in 21 patients who underwent autologous bone marrow transplantation and other risk groups with a presumable reduced bone marrow function without inducing myelotoxicity.
+
+Cases of hepatitis B reactivation have been reported in patients receiving the MabThera intravenous formulation including fulminant hepatitis with fatal outcome.
+The majority of these patients were also exposed to cytotoxic chemotherapy.
+At minimum this should include HBsAg-status and HBcAb-status.These can be complemented with other appropriate markers as per local guidelines.
+
+Very rare cases of PML have been reported during post-marketing use of the MabThera intravenous formulation in NHL (see section 4.8).
+The majority of patients had received rituximab in combination with chemotherapy or as part of a hematopoietic stem cell transplant.
+Immunisation
+
+The safety of immunisation with live viral vaccines, following MabThera therapy has not been studied for NHL patients and vaccination with live virus vaccines is not recommended.
+In a non-randomized study, patients with relapsed low-grade NHL who received the MabThera intravenous formulation as monotherapy when compared to healthy untreated controls had a lower rate of response to vaccination with tetanus recall antigen (16% vs. 81%) and Keyhole Limpet Haemocyanin (KLH) neoantigen (4% vs. 69% when assessed for >2-fold increase in antibody titer).
+
+Mean pre-therapeutic antibody titers against a panel of antigens (Streptococcus pneumoniae, influenza A, mumps, rubella and varicella) were maintained for at least 6 months after treatment with MabThera.
+
+In case of such an event, with suspected relationship to MabThera, treatment should be permanently discontinued.
