@@ -1,5 +1,8 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-AstraZeneca AB
-SE-151 85 Södertälje
-Sweden
+Pfizer Consumer Healthcare Ltd
+Ramsgate Road
+Sandwich
+Kent
+CT13 9NJ
+UK

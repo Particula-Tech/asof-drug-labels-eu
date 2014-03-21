@@ -19,7 +19,6 @@ The remaining part is dependent on another specific isoform, CYP3A4, responsible
 
 Elimination
 The parameters below reflect mainly the pharmacokinetics in individuals with a functional CYP2C19 enzyme, extensive metabolisers.
-
 Total plasma clearance is about 17 l/h after a single dose and about 9 l/h after repeated administration.
 The plasma elimination half-life is about 1.3 hours after repeated once-daily dosing.
 Esomeprazole is completely eliminated from plasma between doses with no tendency for accumulation during once-daily administration.
