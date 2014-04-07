@@ -14,8 +14,8 @@ Inhibition of butyrylcholinesterase activity in CSF of 14 Alzheimer patients tre
 Clinical studies in Alzheimer’s dementia
 The efficacy of rivastigmine has been established through the use of three independent, domain specific, assessment tools which were assessed at periodic intervals during 6 month treatment periods.
 These include the ADAS-Cog (Alzheimer’s Disease Assessment Scale – Cognitive subscale, a performance based measure of cognition), the CIBIC-Plus (Clinician’s Interview Based Impression of Change-Plus, a comprehensive global assessment of the patient by the physician incorporating caregiver input), and the PDS (Progressive Deterioration Scale, a caregiver-rated assessment of the activities of daily living including personal hygiene, feeding, dressing, household chores such as shopping, retention of ability to orient oneself to surroundings as well as involvement in activities relating to finances, etc.).
-
 The patients studied had an MMSE (Mini-Mental State Examination) score of 10–24.
+
 The results for clinically relevant responders pooled from two flexible dose studies out of the three pivotal 26-week multicentre studies in patients with mild-to-moderately severe Alzheimer’s Dementia, are provided in Table 4 below.
 Clinically relevant improvement in these studies was defined a priori as at least 4-point improvement on the ADAS-Cog, improvement on the CIBIC-Plus, or at least a 10% improvement on the PDS.
 
@@ -136,6 +136,7 @@ Table 3
 *p<0.05 versus placebo
 
 As suggested by compartmental modelling, 9.5 mg/24 h transdermal patches exhibited exposure similar to that provided by an oral dose of 12 mg/day.
+
 48-week active comparator controlled study
 Patients involved in the active comparator controlled study had an initial baseline MMSE score of 10-24.
 The study was designed to compare the efficacy of the 13.3 mg/24 h transdermal patch against the 9.5 mg/24 h transdermal patch during a 48-week double-blind treatment phase in Alzheimer’s disease patients who demonstrated functional and cognitive decline after an initial 24-48 week open-label treatment phase while on a maintenance dose of 9.5 mg/24 h transdermal patch.

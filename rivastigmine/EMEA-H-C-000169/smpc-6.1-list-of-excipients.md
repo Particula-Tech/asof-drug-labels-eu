@@ -8,6 +8,7 @@ Silica, colloidal anhydrous
 Yellow iron oxide (E172)
 Red iron oxide (E172)
 Titanium dioxide (E171)
+Shellac
 
 [Exelon 3.0 mg hard capsules]
 
