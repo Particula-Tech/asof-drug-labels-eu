@@ -1,5 +1,6 @@
 # 4.6 Fertility, pregnancy and lactation
 
+Pregnancy
 There are no adequate and well-controlled trials of aripiprazole in pregnant women.
 Congenital anomalies have been reported; however, causal relationship with aripiprazole could not be established.
 Animal studies could not exclude potential developmental toxicity (see section 5.3).
@@ -9,5 +10,6 @@ Neonates exposed to antipsychotics (including aripiprazole) during the third tri
 There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, or feeding disorder.
 Consequently, newborns should be monitored carefully.
 
+Breast-feeding
 Aripiprazole is excreted in human breast milk.
 Patients should be advised not to breast feed if they are taking aripiprazole.

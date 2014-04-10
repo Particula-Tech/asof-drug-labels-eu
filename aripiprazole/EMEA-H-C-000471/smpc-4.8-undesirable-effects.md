@@ -1,8 +1,12 @@
 # 4.8 Undesirable effects
 
-Adults:
+Summary of the safety profile
+
 The most commonly reported adverse reactions in placebo-controlled trials are akathisia and nausea each occurring in more than 3% of patients treated with oral aripiprazole.
-The following adverse reactions occurred more often (≥ 1/100) than placebo, or were identified as possibly medically relevant adverse reactions (*):
+
+Tabulated list of adverse reactions
+
+The following adverse reactions occurred more often (≥ 1/100) than placebo, or were identified as possibly medically relevant adverse reactions (*).
 The frequency listed below is defined using the following convention: common (≥ 1/100 to < 1/10) and uncommon (≥ 1/1,000 to < 1/100).
 
 Psychiatric disorders
@@ -21,6 +25,8 @@ Common: dyspepsia, vomiting, nausea, constipation, salivary hypersecretion
 General disorders and administration site conditions
 Common: fatigue
 
+Description of selected adverse reactions
+
 Extrapyramidal symptoms (EPS): Schizophrenia - in a long term 52-week controlled trial, aripiprazole-treated patients had an overall-lower incidence (25.8%) of EPS including parkinsonism, akathisia, dystonia and dyskinesia compared with those treated with haloperidol (57.3%).
 In a long term 26-week placebo-controlled trial, the incidence of EPS was 19% for aripiprazole-treated patients and 13.1% for placebo-treated patients.
 In another long-term 26-week controlled trial, the incidence of EPS was 14.8% for aripiprazole-treated patients and 15.1% for olanzapine-treated patients.
@@ -35,20 +41,21 @@ Dystonia: Class Effect: Symptoms of dystonia, prolonged abnormal contractions of
 Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
 While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
 An elevated risk of acute dystonia is observed in males and younger age groups.
-
 Comparisons between aripiprazole and placebo in the proportions of patients experiencing potentially clinically significant changes in routine laboratory and lipid parameters (see section 5.1) revealed no medically important differences.
 Elevations of CPK (Creatine Phosphokinase), generally transient and asymptomatic, were observed in 3.5% of aripiprazole treated patients as compared to 2.0% of patients who received placebo.
 
-Other findings:
+Other findings
 Adverse reactions known to be associated with antipsychotic therapy and also reported during treatment with aripiprazole include neuroleptic malignant syndrome, tardive dyskinesia, seizure, cerebrovascular adverse reactions and increased mortality in elderly demented patients, hyperglycaemia and diabetes mellitus (see section 4.4).
-Paediatric population:
 
-Schizophrenia in adolescents aged 15 years and older:
+Paediatric population
+
+Schizophrenia in adolescents aged 15 years and older
 In a short-term placebo-controlled clinical trial involving 302 adolescents (13-17 years) with schizophrenia, the frequency and type of undesirable effects were similar to those in adults except for the following reactions that were reported more frequently in adolescents receiving aripiprazole than in adults receiving aripiprazole (and more frequently than placebo): somnolence/sedation and extrapyramidal disorder were reported very commonly (≥ 1/10), and dry mouth, increased appetite, and orthostatic hypotension were reported commonly (≥ 1/100, < 1/10).
 The safety profile in a 26-week open-label extension trial was similar to that observed in the short-term, placebo-controlled trial.
 In the pooled adolescent schizophrenia population (13-17 years) with exposure up to 2 years, incidence of low serum prolactin levels in females (<3 ng/ml) and males (<2 ng/ml) was 29.5% and 48.3%, respectively.
+In the adolescent (13-17 years) schizophrenia population with aripiprazole exposure of 5 to 30 mg up to 72 months, incidence of low serum prolactin levels in females (<3 ng/ml) and males (<2 ng/ml) was 25.6% and 45.0%, respectively.
 
-Manic episodes in Bipolar I Disorder in adolescents aged 13 years and older:
+Manic episodes in Bipolar I Disorder in adolescents aged 13 years and older
 The frequency and type of undesirable effects in adolescents with Bipolar I Disorder were similar to those in adults except for the following reactions: very commonly (≥ 1/10) somnolence (23.0%), extrapyramidal disorder (18.4%), akathisia (16.0%), and fatigue (11.8%); and commonly (≥ 1/100,
 < 1/10) abdominal pain upper, heart rate increased, weight increased, increased appetite, muscle twitching, and dyskinesia.
 
@@ -60,13 +67,12 @@ In the paediatric population somnolence and fatigue were observed more frequentl
 
 In the paediatric bipolar population (10-17 years) with exposure up to 30 weeks, incidence of low serum prolactin levels in females (<3 ng/ml) and males (<2 ng/ml) was 28.0% and 53.3%, respectively.
 
-Post-Marketing:
+Post-Marketing
+
 The following adverse reactions have been reported during post-marketing surveillance.
 The frequency of these reactions is considered not known (cannot be estimated from the available data).
 
-Blood and the lymphatic leukopenia, neutropenia, thrombocytopenia
-
-system disorders:
+Blood and lymphatic system leukopenia, neutropenia, thrombocytopenia disorders:
 
 Immune system disorders: allergic reaction (e.g. anaphylactic reaction, angioedema including swollen tongue, tongue oedema, face oedema, pruritus, or urticaria)
 
@@ -96,7 +102,7 @@ mediastinal disorders:
 
 Gastrointestinal disorders: pancreatitis, dysphagia, abdominal discomfort, stomach discomfort, diarrhoea
 
-Hepato-biliary disorders: hepatic failure, jaundice, hepatitis, increased Alanine
+Hepatobiliary disorders: hepatic failure, jaundice, hepatitis, increased Alanine
 
 Aminotransferase (ALT), increased Aspartate Aminotransferase (AST), increased Gamma Glutamyl Transferase (GGT), increased alkaline phosphatase
 
@@ -121,6 +127,11 @@ administration site conditions: pain, peripheral oedema
 Investigations: increased Creatine Phosphokinase, blood glucose increased, blood
 
 glucose fluctuation, glycosylated haemoglobin increased
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 [ABILIFY 10 mg tablets]
 
@@ -154,7 +165,7 @@ glucose fluctuation, glycosylated haemoglobin increased
 
 The most commonly reported adverse reactions in placebo-controlled trials are nausea, dizziness and somnolence each occurring in more than 3% of patients treated with aripiprazole solution for injection.
 
-The following adverse reactions occurred more often (≥ 1/100) than placebo, or were identified as possibly medically relevant adverse reactions (*) in clinical trials with aripiprazole solution for injection (see section 5.1):
+The following adverse reactions occurred more often (≥ 1/100) than placebo, or were identified as possibly medically relevant adverse reactions (*) in clinical trials with aripiprazole solution for injection (see section 5.1).
 
 Common: somnolence, dizziness, headache, akathisia
 Uncommon: orthostatic hypotension*, increased diastolic blood pressure*

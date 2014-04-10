@@ -2,7 +2,7 @@
 
 Posology
 
-Adults:
+Adults
 Schizophrenia: the recommended starting dose for ABILIFY is 10 or 15 mg/day with a maintenance dose of 15 mg/day administered on a once-a-day schedule without regard to meals.
 
 ABILIFY is effective in a dose range of 10 to 30 mg/day.
@@ -15,8 +15,7 @@ The maximum daily dose should not exceed 30 mg.
 
 Recurrence prevention of manic episodes in Bipolar I Disorder: for preventing recurrence of manic episodes in patients who have been receiving aripiprazole as monotherapy or combination therapy, continue therapy at the same dose.
 Adjustments of daily dosage, including dose reduction should be considered on the basis of clinical status.
-
-Paediatric population:
+Paediatric population
 Schizophrenia in adolescents aged 15 years and older: the recommended dose for ABILIFY is 10 mg/day administered on a once-a-day schedule without regard to meals.
 Treatment should be initiated at 2 mg (using ABILIFY oral solution 1 mg/ml) for 2 days, titrated to 5 mg for 2 additional days to reach the recommended daily dose of 10 mg.
 When appropriate, subsequent dose increases should be administered in 5 mg increments without exceeding the maximum daily dose of 30 mg (see section 5.1).
@@ -46,7 +45,7 @@ However, the maximum daily dose of 30 mg should be used with caution in patients
 
 Patients with renal impairment: no dosage adjustment is required in patients with renal impairment.
 
-Elderly: the effectiveness of ABILIFY in the treatment of schizophrenia and Bipolar I Disorder in patients aged 65 years and older has not been established.
+Older people: the effectiveness of ABILIFY in the treatment of schizophrenia and Bipolar I Disorder in patients aged 65 years and older has not been established.
 Owing to the greater sensitivity of this population, a lower starting dose should be considered when clinical factors warrant (see section 4.4).
 
 Gender: no dosage adjustment is required for female patients as compared to male patients
@@ -127,7 +126,7 @@ If continued treatment is indicated with oral aripiprazole, see the Summary of P
 
 Paediatric population: there is no experience in children and adolescents under 18 years of age.
 
-Elderly: the effectiveness of ABILIFY solution for injection in patients aged 65 years and older has not been established.
+Older people: the effectiveness of ABILIFY solution for injection in patients aged 65 years and older has not been established.
 
 Gender: no dosage adjustment is required for female patients as compared to male patients (see section 5.2).
 
