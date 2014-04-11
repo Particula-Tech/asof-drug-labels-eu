@@ -1,6 +1,6 @@
 # 4.9 Overdose
 
-From clinical trials and marketed use overdoses have been reported up to 40 times the recommended maintenance dose (72 mg).
+From clinical trials and marketed use, overdoses have been reported of up to 40 times (72 mg) the recommended maintenance dose.
 Events reported included severe nausea and severe vomiting.
 None of the reports included severe hypoglycaemia.
 All patients recovered without complications.

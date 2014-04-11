@@ -1,4 +1,4 @@
 # 3. PHARMACEUTICAL FORM
 
-Solution for injection in pre-filled pen.
-Clear, colourless, isotonic solution; pH=8.15.
+Solution for injection.
+Clear, colourless or almost colourless, isotonic solution; pH=8.15.

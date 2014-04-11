@@ -13,3 +13,5 @@ Animal studies did not indicate direct harmful effects with respect to fertility
 Dosing with Victoza during mid-gestation caused a reduction in maternal weight and foetal growth with equivocal effects on ribs in rats and skeletal variation in the rabbit.
 Neonatal growth was reduced in rats while exposed to Victoza, and persisted in the post-weaning period in the high dose group.
 It is unknown whether the reduced pup growth is caused by reduced pup milk intake due to a direct GLP-1 effect or reduced maternal milk production due to decreased caloric intake.
+
+Following intra-arterial injection of liraglutide to rabbits, slight to moderate haemorrhage, erythema and swelling at the injection site were observed.
