@@ -2,18 +2,18 @@
 
 Summary of the safety profile
 
-The safety of mirabegron was evaluated in 8433 patients with OAB, of which 5648 received at least one dose of mirabegron in the phase 2/3 clinical program, and 622 patients received mirabegron for at least 1 year (365 days).
-In the three 12-week phase 3 double blind, placebo controlled studies, 88% of the patients completed treatment with mirabegron, and 4% of the patients discontinued due to adverse events.
+The safety of Betmiga was evaluated in 8433 patients with OAB, of which 5648 received at least one dose of mirabegron in the phase 2/3 clinical program, and 622 patients received Betmiga for at least 1 year (365 days).
+In the three 12-week phase 3 double blind, placebo controlled studies, 88% of the patients completed treatment with Betmiga, and 4% of the patients discontinued due to adverse events.
 Most adverse reactions were mild to moderate in severity.
-
-The most common adverse reactions reported for patients treated with mirabegron 50 mg during the three 12-week phase 3 double blind, placebo controlled studies are tachycardia and urinary tract infections.
-The frequency of tachycardia was 1.2% in patients receiving mirabegron 50 mg.
-Tachycardia led to discontinuation in 0.1% patients receiving mirabegron 50 mg.
-The frequency of urinary tract infections was 2.9% in patients receiving mirabegron 50 mg.
-Urinary tract infections led to discontinuation in none of the patients receiving mirabegron 50 mg.
+The most common adverse reactions reported for patients treated with Betmiga 50 mg during the three 12-week phase 3 double blind, placebo controlled studies are tachycardia and urinary tract infections.
+The frequency of tachycardia was 1.2% in patients receiving Betmiga 50 mg.
+Tachycardia led to discontinuation in 0.1% patients receiving Betmiga 50 mg.
+The frequency of urinary tract infections was 2.9% in patients receiving Betmiga 50 mg.
+Urinary tract infections led to discontinuation in none of the patients receiving Betmiga 50 mg.
 Serious adverse reactions included atrial fibrillation (0.2%).
 
 Adverse reactions observed during the 1-year (long term) active controlled (muscarinic antagonist) study were similar in type and severity to those observed in the three 12-week phase 3 double blind, placebo controlled studies.
+
 Tabulated list of adverse reactions
 
 The table below reflects the adverse reactions observed with mirabegron in the three 12-week phase 3 double blind, placebo controlled studies.

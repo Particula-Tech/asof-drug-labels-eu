@@ -2,7 +2,7 @@
 
 Pregnancy
 
-There are limited amount of data from the use of mirabegron in pregnant women.
+There are limited amount of data from the use of Betmiga in pregnant women.
 Studies in animals have shown reproductive toxicity (see section 5.3).
 Betmiga is not recommended during pregnancy and in women of childbearing potential not using contraception.
 
@@ -10,7 +10,7 @@ Breast-feeding
 
 Mirabegron is excreted in the milk of rodents and therefore is predicted to be present in human milk (see section 5.3).
 No studies have been conducted to assess the impact of mirabegron on milk production in humans, its presence in human breast milk, or its effects on the breast-fed child.
-Mirabegron should not be administered during breast-feeding.
+Betmiga should not be administered during breast-feeding.
 
 Fertility
 

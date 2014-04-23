@@ -41,8 +41,8 @@ CYP2D6 polymorphism
 In healthy subjects who are genotypically poor metabolisers of CYP2D6 substrates (used as a surrogate for CYP2D6 inhibition), mean Cmax and AUCinf of a single 160 mg dose of a mirabegron IR formulation were 14% and 19% higher than in extensive metabolisers, indicating that CYP2D6 genetic polymorphism has minimal impact on the mean plasma exposure to mirabegron.
 Interaction of mirabegron with a known CYP2D6 inhibitor is not expected and was not studied.
 No dose adjustment is needed for mirabegron when administered with CYP2D6 inhibitors or in patients who are CYP2D6 poor metabolisers.
-
 Elimination
+
 Total body clearance (CLtot) from plasma is approximately 57 L/h.
 The terminal elimination half-life (t1/2) is approximately 50 hours.
 Renal clearance (CLR) is approximately 13 L/h, which corresponds to nearly 25% of CLtot.
@@ -54,8 +54,7 @@ Unchanged mirabegron accounted for the majority of the faecal radioactivity.
 
 Age
 
-The Cmax and AUC of mirabegron and its metabolites following multiple oral doses in elderly volunteers
-(≥ 65 years) were similar to those in younger volunteers (18–45 years).
+The Cmax and AUC of mirabegron and its metabolites following multiple oral doses in elderly volunteers (≥ 65 years) were similar to those in younger volunteers (18–45 years).
 
 Gender
 
@@ -68,13 +67,13 @@ The pharmacokinetics of mirabegron are not influenced by race.
 
 Renal impairment
 
-Following single dose administration of 100 mg mirabegron in volunteers with mild renal impairment (eGFR-MDRD 60 to 89 mL/min/1.73 m2), mean mirabegron Cmax and AUC were increased by 6% and 31% relative to volunteers with normal renal function.
+Following single dose administration of 100 mg Betmiga in volunteers with mild renal impairment (eGFR-MDRD 60 to 89 mL/min/1.73 m2), mean mirabegron Cmax and AUC were increased by 6% and 31% relative to volunteers with normal renal function.
 In volunteers with moderate renal impairment (eGFR-MDRD 30 to 59 mL/min/1.73 m2), Cmax and AUC were increased by 23% and 66%, respectively.
 In volunteers with severe renal impairment (eGFR-MDRD 15 to 29 mL/min/1.73 m2), mean Cmax and AUC values were 92% and 118% higher.
 Mirabegron has not been studied in patients with end stage renal disease (GFR < 15 mL/min/1.73 m2 or patients requiring haemodialysis).
 
 Hepatic impairment
 
-Following single dose administration of 100 mg mirabegron in volunteers with mild hepatic impairment (Child-Pugh Class A), mean mirabegron Cmax and AUC were increased by 9% and 19% relative to volunteers with normal hepatic function.
+Following single dose administration of 100 mg Betmiga in volunteers with mild hepatic impairment (Child-Pugh Class A), mean mirabegron Cmax and AUC were increased by 9% and 19% relative to volunteers with normal hepatic function.
 In volunteers with moderate hepatic impairment (Child-Pugh Class B), mean Cmax and AUC values were 175% and 65% higher.
 Mirabegron has not been studied in patients with severe hepatic impairment (Child-Pugh Class C).
