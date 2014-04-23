@@ -2,7 +2,7 @@
 
 Each tablet contains 50 mg voriconazole.
 
-Excipient with known effect:each tablet contains 63.42 mg lactose monohydrate.
+Excipient with known effect: each tablet contains 63.42 mg lactose monohydrate.
 
 For the full list of excipients, see section 6.1.
 
@@ -10,7 +10,7 @@ For the full list of excipients, see section 6.1.
 
 Each tablet contains 200 mg voriconazole.
 
-Excipient with known effect: each tablet containts 253.675 mg lactose monohydrate
+Excipient with known effect: each tablet contains 253.675 mg lactose monohydrate
 
 [VFEND 200 mg powder for solution for infusion]
 

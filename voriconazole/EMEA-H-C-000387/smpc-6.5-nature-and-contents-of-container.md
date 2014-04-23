@@ -19,7 +19,7 @@ VFEND powder and solvent for solution for infusion is available in a box contain
 
 1 single use 30 ml clear Type I glass vial with rubber stopper and aluminium cap with plastic seal of VFEND 200 mg, powder for solution.
 
-1 sterile, single use, foil overwrapped, polypropylene bag containing VFEND solvent for solution for infusion in one compartment (50 mL).
+1 sterile, single use, foil overwrapped, polypropylene bag containing VFEND solvent for solution for infusion in one compartment (50 ml).
 
 1 sterile, single use vial adapter.
 

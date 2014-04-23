@@ -13,7 +13,8 @@ Any unused product or waste material should be disposed of in accordance with lo
 The powder is reconstituted with either 19 ml of water for injections or 19 ml of 9 mg/ml (0.9%) Sodium Chloride for Infusion to obtain an extractable volume of 20 ml of clear concentrate containing 10 mg/ml of voriconazole.
 Discard the VFEND vial if vacuum does not pull the diluent into the vial.
 It is recommended that a standard 20 ml (non-automated) syringe be used to ensure that the exact amount (19.0 ml) of water for injections or (9 mg/ml [0.9%]) Sodium Chloride for Infusion is dispensed.
-This medicinal product is for single use only and any unused solution should be discarded and only clear solutions without particles should be used.
+This medicinal product is for single use only and any unused solution should be discarded.
+Only clear solutions without particles should be used.
 
 For administration, the required volume of the reconstituted concentrate is added to a recommended compatible infusion solution (detailed below) to obtain a final voriconazole solution containing 0.5-5 mg/ml.
 
@@ -44,14 +45,14 @@ Required Volumes of 10 mg/ml VFEND Concentrate
 
 The reconstituted solution can be diluted with:
 
-Sodium Chloride 9 mg/ml (0.9 %) Solution for Injection
+Sodium Chloride 9 mg/ml (0.9%) Solution for Injection
 Compound Sodium Lactate Intravenous Infusion
-5 % Glucose and Lactated Ringer’s Intravenous Infusion
-5 % Glucose and 0.45 % Sodium Chloride Intravenous Infusion
-5 % Glucose Intravenous Infusion
-5 % Glucose in 20 mEq Potassium Chloride Intravenous Infusion
-0.45 % Sodium Chloride Intravenous Infusion
-5 % Glucose and 0.9 % Sodium Chloride Intravenous Infusion
+5% Glucose and Lactated Ringer’s Intravenous Infusion
+5% Glucose and 0.45% Sodium Chloride Intravenous Infusion
+5% Glucose Intravenous Infusion
+5% Glucose in 20 mEq Potassium Chloride Intravenous Infusion
+0.45% Sodium Chloride Intravenous Infusion
+5% Glucose and 0.9% Sodium Chloride Intravenous Infusion
 
 The compatibility of voriconazole with diluents other than described above or in section 6.2 is unknown.
 
@@ -61,7 +62,6 @@ Use only items provided in the box with VFEND powder and solvent for solution fo
 
 Instructions for reconstitution and use:
 
-- This medicinal product is for single use only and any unused solution should be discarded.
 - To prepare the VFEND vial for reconstitution, remove the plastic cap from the vial and wipe the top with an antiseptic swab.
   Hold the vial adapter over the vial and press down firmly, until the vial locks into place.
   The spike in the vial adapter will penetrate the vial seal.
@@ -74,20 +74,21 @@ Instructions for reconstitution and use:
 - For dilution, gently invert the vial, vial adapter and syringe assembly and withdraw the required volume of the reconstituted concentrate into the syringe (see table below).
   Only clear solutions without particulates should be used.
   Do not administer to the patient as a bolus injection.
-- Once the syringe is reconnected to the blue port of the infusion bag, the contents are then emptied into the infusion bag from the syringe to provide a final voriconazole solution containing 0.5-4 mg/ml
+- Once the syringe is reconnected to the blue port of the infusion bag, the contents are then emptied into the infusion bag from the syringe to provide a final voriconazole solution containing 0.5-5 mg/ml.
 - The syringe may then be removed and the contents of the infusion bag mixed gently by inverting the bag several times.
   The bag should be carefully inspected to ensure that there are no particulates.
   The syringe, vial and vial adapter can then be discarded.
 
-If the required volume of VFEND concentrate as described in the table below requires the use of multiple vials, in order to provide the appropriate dose for a given body weight, then multiple infusion kits should be used.
+If the required volume of VFEND concentrate as described in the table below requires the use of multiple vials in order to provide the appropriate dose for a given body weight, then multiple infusion kits should be used.
 The instructions should be followed for reconstitution, dilution and administration of each kit.
 Each kit is for single use only.
 
-If multiple vials are required, each individual vial used must be administered using a separate sterile NaCL bag.
+If multiple vials are required, each individual vial used must be administered using a separate sterile sodium chloride bag.
+
 For administration, the twist-off port at the bottom of the infusion bag should be opened and the infusion line connected and primed.
 The contents of the infusion bag are now ready for infusion to the patient.
 
-The infusion bag should be checked to ensure that the entire of the bag have been infused, especially if the same intravenous line is to be used for sequential infusion of other drugs.
+The infusion bag should be checked to ensure that the entire contents of the bag have been infused, especially if the same intravenous line is to be used for sequential infusion of other drugs.
 Other additives should not be introduced into the infusion bag.
 
 | Body Weight (kg) | Volume of VFEND Concentrate (10 mg/ml) required for: |  |  |  |  |
@@ -123,7 +124,7 @@ Tap the bottle to release the powder.
 2.
 Measure 23 ml of water by filling the measuring cup to the top of the marked line.
 Add the water to the bottle.
-Using the cup measure another 23 ml of water and add this to the bottle.
+Using the cup, measure another 23 ml of water and add this to the bottle.
 3.
 Shake the closed bottle vigorously for about 1 minute.
 4.
@@ -133,8 +134,8 @@ Press bottle adaptor into the neck of the bottle.
 Replace the cap.
 6.
 Write the date of expiration of the constituted suspension on the bottle label (the shelf-life of the constituted suspension is 14 days).
-
 Following constitution, the volume of the suspension is 75 ml, providing a usable volume of 70 ml.
+
 Instructions for use:
 Shake the closed bottle of constituted suspension for approximately 10 seconds before each use.
 

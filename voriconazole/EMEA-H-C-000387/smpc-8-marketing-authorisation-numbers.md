@@ -12,7 +12,7 @@ EU/1/02/212/025
 
 [VFEND 200 mg powder and solvent for solution for infusion]
 
-EU/1/02/212/XXX
+EU/1/02/212/027
 
 [VFEND 40 mg/ml powder for oral suspension]
 

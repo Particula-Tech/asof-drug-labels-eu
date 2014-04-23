@@ -1,10 +1,10 @@
 # 4.1 Therapeutic indications
 
-Voriconazole, is a broad spectrum, triazole antifungal agent and is indicated in adults and children aged 2 years and above as follows:
+Voriconazole, is a broad-spectrum, triazole antifungal agent and is indicated in adults and children aged 2 years and above as follows:
 
 Treatment of invasive aspergillosis.
 
-Treatment of candidemia in non-neutropenic patients.
+Treatment of candidaemia in non-neutropenic patients.
 
 Treatment of fluconazole-resistant serious invasive Candida infections (including C. krusei).
 

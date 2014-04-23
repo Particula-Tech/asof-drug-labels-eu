@@ -4,7 +4,7 @@ This medicinal product does not require any special storage conditions.
 
 [VFEND 200 mg film-coated tablets]
 
-No special precautions for storage.
+(all sentences already above)
 
 [VFEND 200 mg powder for solution for infusion]
 
