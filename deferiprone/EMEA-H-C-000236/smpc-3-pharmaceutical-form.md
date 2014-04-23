@@ -10,7 +10,7 @@ The tablet can be divided into equal halves.
 
 Oral solution.
 
-Clear, reddish orange coloured liquid.
+Clear, reddish orange-coloured liquid.
 
 [Ferriprox 1000 mg film-coated tablets]
 

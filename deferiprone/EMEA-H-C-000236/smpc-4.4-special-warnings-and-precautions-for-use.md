@@ -35,9 +35,9 @@ In view of the genotoxicity results, a carcinogenic potential of deferiprone can
 Plasma Zn2+ concentration
 Monitoring of plasma Zn2+ concentration, and supplementation in case of a deficiency, is recommended.
 
-HIV positive or other immune compromised patients
-No data are available on the use of deferiprone in HIV positive or in other immune compromised patients.
-Given that deferiprone can be associated with neutropenia and agranulocytosis, therapy in immune compromised patients should not be initiated unless potential benefits outweigh potential risks.
+HIV positive or other immune-compromised patients
+No data are available on the use of deferiprone in HIV positive or in other immune-compromised patients.
+Given that deferiprone can be associated with neutropenia and agranulocytosis, therapy in immune-compromised patients should not be initiated unless potential benefits outweigh potential risks.
 
 Renal or hepatic impairment and liver fibrosis
 There are no data available on the use of deferiprone in patients with renal or hepatic impairment.

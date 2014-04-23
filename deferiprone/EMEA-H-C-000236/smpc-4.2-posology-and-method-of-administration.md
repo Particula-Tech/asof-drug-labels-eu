@@ -27,7 +27,7 @@ A total daily dose above 100 mg/kg body weight is not recommended because of the
 The effect of Ferriprox in decreasing the body iron is directly influenced by the dose and the degree of iron overload.
 After starting Ferriprox therapy, it is recommended that serum ferritin concentrations, or other indicators of body iron load, be monitored every two to three months to assess the long-term effectiveness of the chelation regimen in controlling the body iron load.
 Dose adjustments should be tailored to the individual patient’s response and therapeutic goals (maintenance or reduction of body iron burden).
-Interruption of therapy with deferiprone should be considered if serum ferritin measurements fall below 500 μg/l.
+Interruption of therapy with deferiprone should be considered if serum ferritin measurements fall below 500 µg/l.
 
 Paediatric population
 There are limited data available on the use of deferiprone in children between 6 and 10 years of age, and no data on deferiprone use in children under 6 years of age.

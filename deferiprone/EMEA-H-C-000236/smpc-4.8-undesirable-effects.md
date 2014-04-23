@@ -1,22 +1,26 @@
 # 4.8 Undesirable effects
 
+Summary of the safety profile
 The most common adverse reactions reported during therapy with deferiprone in clinical trials were nausea, vomiting, abdominal pain, and chromaturia, which were reported in more than 10% of patients.
 The most serious adverse reaction reported in clinical trials with deferiprone was agranulocytosis, defined as an absolute neutrophil count less than 0.5 x 109/l, which occurred in approximately 1% of patients.
 Less severe episodes of neutropenia were reported in approximately 5% of patients.
+Tabulated list of adverse reactions
+Adverse reaction frequencies: Very common (≥1/10), Common (≥1/100 to <1/10), not known (cannot be estimated from the available data).
 
-Adverse reaction frequencies: Very common (≥1/10), Common (≥1/100 to <1/10).
+| SYSTEM ORGAN CLASS | VERY COMMON (≥1/10) | COMMON (≥1/100 to <1/10) | FREQUENCY NOT KNOWN |
+| --- | --- | --- | --- |
+| Blood and lymphatic system disorders |  | Neutropenia Agranulocytosis |  |
+| Immune system disorders |  |  | Hypersensitivity reactions |
+| Metabolism and nutrition disorders |  | Increased Appetite |  |
+| Nervous system disorders |  | Headache |  |
+| Gastrointestinal disorders | Nausea Abdominal Pain Vomiting | Diarrhoea |  |
+| Skin and subcutaneous tissue disorders |  |  | Rash Urticaria |
+| Musculoskeletal and connective tissue disorders |  | Arthralgia |  |
+| Renal and urinary disorders | Chromaturia |  |  |
+| General disorders and administration site conditions |  | Fatigue |  |
+| Investigations |  | Increased liver enzymes |  |
 
-| SYSTEM ORGAN CLASS | VERY COMMON (≥1/10) | COMMON (≥1/100 to <1/10) |
-| --- | --- | --- |
-| Blood and lymphatic system disorders |  | Neutropenia Agranulocytosis |
-| Metabolism and nutrition disorders |  | Increased Appetite |
-| Nervous system disorders |  | Headache |
-| Gastrointestinal disorders | Nausea Abdominal Pain Vomiting | Diarrhoea |
-| Musculoskeletal and connective tissue disorders |  | Arthralgia |
-| Renal and urinary disorders | Chromaturia |  |
-| General disorders and administration site conditions |  | Fatigue |
-| Investigations |  | Increased liver enzymes |
-
+Description of selected adverse reactions
 The most serious adverse reaction reported in clinical trials with deferiprone is agranulocytosis (neutrophils <0.5x109/l), with an incidence of 1.1% (0.6 cases per 100 patient-years of treatment) (see section 4.4).
 The observed incidence of the less severe form of neutropenia (neutrophils <1.5x109/l) is 4.9% (2.5 cases per 100 patient-years).
 This rate should be considered in the context of the underlying elevated incidence of neutropenia in thalassaemia patients, particularly in those with hypersplenism.
