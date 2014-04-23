@@ -8,9 +8,10 @@ Hepatic toxicity
 Hepatic reactions (e.g. mild to moderate elevations in ALT, AST, alkaline phosphatase, total bilirubin and/or clinical hepatitis) have been reported during treatment with posaconazole.
 Elevated liver function tests were generally reversible on discontinuation of therapy and in some instances these tests normalised without interruption of therapy.
 Rarely, more severe hepatic reactions with fatal outcomes have been reported.
-Posaconazole should be used with caution in patients with hepatic insufficiency due to limited clinical experience and the possibility that posaconazole plasma levels may be higher in these patients (see sections 4.2 and 5.2).
+Posaconazole should be used with caution in patients with hepatic impairment due to limited clinical experience and the possibility that posaconazole plasma levels may be higher in these patients (see sections 4.2 and 5.2).
 
 Monitoring of hepatic function
+Liver function tests should be evaluated at the start of and during the course of posaconazole therapy.
 Patients who develop abnormal liver function tests during Noxafil therapy must be routinely monitored for the development of more severe hepatic injury.
 Patient management should include laboratory evaluation of hepatic function (particularly liver function tests and bilirubin).
 Discontinuation of Noxafil should be considered if clinical signs and symptoms are consistent with development of liver disease.
@@ -33,9 +34,19 @@ Posaconazole is an inhibitor of CYP3A4 and should only be used under specific ci
 Gastrointestinal dysfunction
 There are limited pharmacokinetic data in patients with severe gastrointestinal dysfunction (such as severe diarrhoea).
 Patients who have severe diarrhoea or vomiting should be monitored closely for breakthrough fungal infections.
+
 Rifamycin antibacterials (rifampicin, rifabutin), certain anticonvulsants (phenytoin, carbamazepine, phenobarbital, primidone), efavirenz and cimetidine
 Posaconazole concentrations may be significantly lowered in combination; therefore, concomitant use with posaconazole should be avoided unless the benefit to the patient outweighs the risk (see section 4.5).
 
 Excipients
 This medicinal product contains approximately 1.75 g of glucose per 5 ml of suspension.
 Patients with glucose-galactose malabsorption should not take this medicine.
+
+[Noxafil 100 mg gastro-resistant tablets]
+
+Rifamycin antibacterials (rifampicin, rifabutin), certain anticonvulsants (phenytoin, carbamazepine, phenobarbital, primidone), and efavirenz.
+
+Plasma exposure
+Posaconazole plasma concentrations following administration of posaconazole tablets are generally higher than those obtained with posaconazole oral suspension.
+Posaconazole plasma concentrations following administration of posaconazole tablets may increase over time in some patients (see section 5.2).
+Safety data at higher exposure levels achieved with posaconazole tablets are at present limited.

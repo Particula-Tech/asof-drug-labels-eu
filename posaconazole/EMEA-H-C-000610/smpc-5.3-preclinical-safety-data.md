@@ -10,9 +10,9 @@ In twelve-month neurotoxicity studies in dogs and monkeys, no functional effects
 Pulmonary phospholipidosis resulting in dilatation and obstruction of the alveoli was observed in the 2-year study in rats.
 These findings are not necessarily indicative of a potential for functional changes in humans.
 
-No effects on electrocardiograms, including QT and QTc intervals, were seen in a repeat dose safety pharmacology study in monkeys at systemic exposures 4.6-fold greater than the exposures obtained at therapeutic doses in humans.
+No effects on electrocardiograms, including QT and QTc intervals, were seen in a repeat dose safety pharmacology study in monkeys at systemic exposures 4.6-fold greater than the concentrations obtained at therapeutic doses in humans.
 Echocardiography revealed no indication of cardiac decompensation in a repeat dose safety pharmacology study in rats at a systemic exposure 1.4-fold greater than that achieved therapeutically.
-Increased systolic and arterial blood pressures (up to 29 mm-Hg) were seen in rats and monkeys at systemic exposures 1.4-fold and 4.6-fold greater, respectively, than those achieved with therapeutic doses.
+Increased systolic and arterial blood pressures (up to 29 mm-Hg) were seen in rats and monkeys at systemic exposures 1.4-fold and 4.6-fold greater, respectively, than those achieved with the human therapeutic doses.
 
 Reproduction, peri- and postnatal development studies were conducted in rats.
 At exposures lower than those obtained at therapeutic doses in humans, posaconazole caused skeletal variations and malformations, dystocia, increased length of gestation, reduced mean litter size and postnatal viability.
@@ -21,3 +21,9 @@ As observed with other azole antifungal agents, these effects on reproduction we
 
 Posaconazole was not genotoxic in in vitro and in vivo studies.
 Carcinogenicity studies did not reveal special hazards for humans.
+
+[Noxafil 100 mg gastro-resistant tablets]
+
+No effects on electrocardiograms, including QT and QTc intervals, were seen in a repeat dose safety pharmacology study in monkeys at maximal plasma concentrations 8.5-fold greater than the concentrations obtained at therapeutic doses in humans.
+Echocardiography revealed no indication of cardiac decompensation in a repeat dose safety pharmacology study in rats at a systemic exposure 2.1-fold greater than that achieved therapeutically.
+Increased systolic and arterial blood pressures (up to 29 mm-Hg) were seen in rats and monkeys at systemic exposures 2.1-fold and 8.5-fold greater, respectively, than those achieved with the human therapeutic doses.
