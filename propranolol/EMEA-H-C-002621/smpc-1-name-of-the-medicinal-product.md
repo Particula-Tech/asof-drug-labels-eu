@@ -1,0 +1,3 @@
+# 1. NAME OF THE MEDICINAL PRODUCT
+
+HEMANGIOL 3.75 mg/mL oral solution
