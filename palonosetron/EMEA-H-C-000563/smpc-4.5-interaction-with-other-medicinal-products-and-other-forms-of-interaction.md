@@ -15,6 +15,9 @@ In a population pharmacokinetic analysis, it has been shown that there was no si
 Corticosteroids
 Palonosetron has been administered safely with corticosteroids.
 
+Serotonergic Drugs (e.g. SSRIs and SNRIs)
+There have been reports of serotonin syndrome following concomitant use of 5-HT3 antagonists and other serotonergic drugs (including SSRIs and SNRIs).
+
 Other medicinal products
 Palonosetron has been administered safely with analgesics, antiemetic/antinauseants, antispasmodics and anticholinergic medicinal products.
 

@@ -12,7 +12,6 @@ Pharmacokinetic simulations indicate that the overall exposure (AUC0-∞) of 0.2
 Distribution
 Palonosetron at the recommended dose is widely distributed in the body with a volume of distribution of approximately 6.9 to 7.9 l/kg.
 Approximately 62 % of palonosetron is bound to plasma proteins.
-
 Biotransformation
 Palonosetron is eliminated by dual route, about 40 % eliminated through the kidney and with approximately 50 % metabolised to form two primary metabolites, which have less than 1 % of the 5HT3 receptor antagonist activity of palonosetron.
 In vitro metabolism studies have shown that CYP2D6 and to a lesser extent, CYP3A4 and CYP1A2 isoenzymes are involved in the metabolism of palonosetron.

@@ -19,10 +19,10 @@ Paediatric population
 
 The safety and efficacy in children have not been established.
 Currently available data are described in section 5.1 and section 5.2, but no recommendation on posology can be made.
+
 Hepatic impairment
 
 No dose adjustment is necessary for patients with impaired hepatic function.
-
 Renal impairment
 
 No dose adjustment is necessary for patients with impaired renal function.
