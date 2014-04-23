@@ -4,14 +4,13 @@ RA Patients
 Summary of the safety profile
 The most commonly reported ADRs (occurring in ≥ 5% of patients treated with tocilizumab monotherapy or in combination with DMARDs) were upper respiratory tract infections, nasopharyngitis, headache, hypertension and increased ALT.
 
-The most serious ADRs were serious infections, complications of diverticulitis, and hypersensitivity
-reactions.
+The most serious ADRs were serious infections, complications of diverticulitis, and hypersensitivity reactions.
 
 RA Patients
 The safety of tocilizumab has been studied in 4 placebo-controlled studies (studies II, III, IV and V), 1 MTX-controlled study (study I) and their extension periods (see section 5.1).
-
 The double-blind controlled period was 6 months in four studies (studies I, III, IV and V) and was up to 2 years in one study (study II).
 In the double-blind controlled studies, 774 patients received tocilizumab 4 mg/kg in combination with MTX, 1870 patients received tocilizumab 8 mg/kg in combination with MTX or other DMARDs and 288 patients received tocilizumab 8 mg/kg monotherapy.
+
 The long-term exposure population includes all patients who received at least one dose of tocilizumab either in the double-blind control period or open label extension phase in the studies.
 Of the 4009 patients in this population, 3577 received treatment for at least 6 months, 3296 for at least one year, 2806 received treatment for at least 2 years and 1222 for 3 years.
 
@@ -38,10 +37,10 @@ Summary of ADRs occurring in patients with RA receiving tocilizumab as monothera
 | Endocrine disorders |  |  | Hypothyroidism |
 
 * Includes elevations collected as part of routine laboratory monitoring (see text below)
-
 Infections
 In the 6-month controlled studies the rate of all infections reported with tocilizumab 8 mg/kg plus DMARD treatment was 127 events per 100 patient years compared to 112 events per 100 patient years in the placebo plus DMARD group.
 In the long-term exposure population, the overall rate of infections with RoActemra was 108 events per 100 patient years exposure.
+
 In 6-month controlled clinical studies, the rate of serious infections with tocilizumab 8 mg/kg plus DMARDs was 5.3 events per 100 patient years exposure compared to 3.9 events per 100 patient years exposure in the placebo plus DMARD group.
 In the monotherapy study the rate of serious infections was 3.6 events per 100 patient years of exposure in the tocilizumab group and 1.5 events per 100 patient years of exposure in the MTX group.
 
@@ -72,13 +71,13 @@ Immunogenicity
 A total of 2,876 patients have been tested for anti-tocilizumab antibodies in the 6-month controlled clinical trials.
 Of the 46 patients (1.6%) who developed anti-tocilizumab antibodies, 6 had an associated medically significant hypersensitivity reaction, of which 5 led to permanent discontinuation of treatment.
 Thirty patients (1.1%) developed neutralising antibodies.
-
 Haematological abnormalities:
 Neutrophils
 In the 6-month controlled trials decreases in neutrophil counts below 1 x 109/ l occurred in 3.4% of patients on tocilizumab 8 mg/kg plus DMARDs compared to < 0.1% of patients on placebo plus DMARDs.
 Approximately half of the patients who developed an ANC < 1 x 109/ l did so within 8 weeks after starting therapy.
 Decreases below 0.5 x 109/ l were reported in 0.3% patients receiving tocilizumab 8 mg/kg plus DMARDs.
 Infections with neutropenia have been reported.
+
 During the double-blind controlled period and with long-term exposure, the pattern and incidence of decreases in neutrophil counts remained consistent with what was seen in the 6-month controlled clinical trials.
 
 Platelets
@@ -105,7 +104,6 @@ During the 6-month controlled trials, increases of lipid parameters such as tota
 With routine laboratory monitoring it was seen that approximately 24% of patients receiving RoActemra in clinical trials experienced sustained elevations in total cholesterol ≥ 6.2 mmol/ l, with 15% experiencing a sustained increase in LDL to ≥ 4.1 mmol/ l. Elevations in lipid parameters responded to treatment with lipid-lowering agents.
 
 During the double-blind controlled period and with long-term exposure, the pattern and incidence of elevations in lipid parameters remained consistent with what was seen in the 6-month controlled trials.
-
 Malignancies
 The clinical data are insufficient to assess the potential incidence of malignancy following exposure to tocilizumab.
 Long-term safety evaluations are ongoing.
@@ -114,6 +112,7 @@ Paediatric population
 
 The safety of toclizumab in the pediatric population in the sections on pJIA and sJIA below.
 In general, the ADRs in pJIA and sJIA patients were similar in type to those see in RA patients, see section 4.8.
+
 The ADRs in the pJIA and sJIA patients treated with tocilizumab are described below and are presented in the Table 2 by system organ class and frequency categories, defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to < 1/10) or uncommon (≥ 1/1,000 to <1/100)
 
 Table 2: Summary of ADRs occurring in patients with sJIA or pJIA receiving tocilizumab as monotherapy or in combination with MTX.
@@ -144,8 +143,7 @@ Cholesterol sJIA pJIA
 increased
 
 1.
-Infusion related reaction events in pJIA patients included but were not limited to headache, nausea and hypotension
-2.
+Infusion related reaction events in pJIA patients included but were not limited to headache, nausea and hypotension 2.
 Infusion related reaction events in sJIA patients included but were not limited to rash, urticaria, diarrhea, epigastric discomfort, arthralgia and headache
 
 pJIA Patients
@@ -171,7 +169,7 @@ In general, the adverse drug reactions observed during or within 24 hours of an 
 No clinically significant hypersensitivity reactions associated with tocilizumab and requiring treatment discontinuation were reported.
 
 Immunogenicity
-One patient in the 10 mg/kg < 30 kg group developed positive anti-tocilizumab antibodies without developing a hypersensitivity reaction and subsequently withdrew from the study.
+One patient in the 10 mg/kg < 30kg group developed positive anti-tocilizumab antibodies without developing a hypersensitivity reaction and subsequently withdrew from the study.
 
 Neutrophils
 During routine laboratory monitoring in the tocilizumab all exposure population, a decrease in neutrophil count below 1 × 109/L occurred in 3.7% of patients.
@@ -180,7 +178,6 @@ Platelets
 During routine laboratory monitoring in the tocilizumab all exposure population, 1% of patients had a decrease in platelet count to ≤ 50 × 103/µL without associated bleeding events.
 
 Hepatic transaminase elevations
-
 During routine laboratory monitoring in the tocilizumab all exposure population, elevation in ALT or AST ≥ 3xULN occurred in 3.7% and <1% of patients, respectively.
 
 Lipid parameters
@@ -203,11 +200,11 @@ In the ongoing open label extension phase (Part II), the overall rate of infecti
 In the 12 week controlled phase, the rate of serious infections in the tocilizumab group was 11.5 per 100 patient years.
 At one year in the ongoing open label extension phase the overall rate of serious infections remained stable at 11.3 per 100 patient years.
 Reported serious infections were similar to those seen in RA patients with the addition of varicella and otitis media.
-
 Infusion Reactions
 Infusion related reactions are defined as all events occurring during or within 24 hours of an infusion.
 In the 12 week controlled phase, 4% of patients from the tocilizumab group experienced events occurring during infusion.
 One event (angioedema) was considered serious and life-threatening, and the patient was discontinued from study treatment.
+
 In the 12 week controlled phase, 16% of patients in the tocilizumab group and 5.4% of patients in the placebo group experienced an event within 24 hours of infusion.
 In the tocilizumab group, the events included, but were not limited to rash, urticaria, diarrhea, epigastric discomfort, arthralgia and headache.
 One of these events, urticaria, was considered serious.
@@ -242,10 +239,70 @@ Lipid parameters
 During routine laboratory monitoring in the 12 week controlled phase, elevation in total cholesterol
 > 1.5 x ULN to 2 x ULN occurred in 1.5% of the tocilizumab group and none in the placebo group.
 Elevation in LDL > 1.5 x ULN to 2 x ULN occurred in 1.9% of patients in the tocilizumab group, and in 0% of the placebo group.
-
 In the ongoing open label extension phase, the pattern and incidence of elevations in lipid parameters remained consistent with the 12 week controlled phase data.
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorization of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+[RoActemra 162 mg solution for injection in pre-filled syringe.]
+
+The most commonly reported Adverse Drug Reactions (ADRs) (occurring in ≥ 5% of patients treated with tocilizumab monotherapy or in combination with DMARDs) were upper respiratory tract infections, nasopharyngitis, headache, hypertension and increased ALT.
+
+Intravenous use
+
+Tabulated summary of adverse reactions
+(≥ 1/1,000 to < 1/100) rare (>1/10,000 to <1/1,000) or very rare (<1/10,000).
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+
+| System Organ Class[A1] | Very Common | Common | Uncommon |
+| --- | --- | --- | --- |
+| Blood and lymphatic system disorders |  | Leukopenia, Neutropenia |  |
+| Endocrine disorders |  |  | Hypothyroidism |
+| Eye disorders |  | Conjunctivitis |  |
+| Gastrointestinal disorders |  | Abdominal pain, Mouth ulceration, Gastritis | Stomatitis, Gastric ulcer |
+| General disorders and administration site conditions |  | Peripheral oedema Hypersensitivity reaction, Injection site reaction |  |
+| Infections and infestations | Upper respiratory tract infections | Cellulitis, Pneumonia, Oral herpes simplex, Herpes zoster | Diverticulitis |
+| Investigations |  | Hepatic transaminases increased, Weight increased, Total bilirubin increased* |  |
+| Metabolism and nutrition disorders | Hypercholesterolaemia* |  | Hypertriglyceridaemia |
+| Nervous system disorders |  | Headache, Dizziness |  |
+| Renal disorders |  |  | Nephrolithiasis |
+| Respiratory, thoracic and mediastinal disorders |  | Cough, Dyspnoea |  |
+| Skin and subcutaneous tissue disorders |  | Rash, Pruritus, Urticaria |  |
+| Vascular disorders |  | Hypertension |  |
+
+Description of selected adverse reactions
+
+Fatal anaphylaxis has been reported after marketing authorisation during treatment with intravenous tocilizumab (see section 4.4).
+
+Subcutaneous use
+The safety of subcutaneous tocilizumab in RA includes a double-blind, controlled, multicenter study, SC-I.
+SC-I was a non-inferiority study that compared the efficacy and safety of tocilizumab 162 mg administered every week versus 8 mg/kg intravenous in 1262 patients with RA.
+All patients received background non-biologic DMARD(s).
+The safety and immunogenicity observed for tocilizumab administered subcutaneous was consistent with the known safety profile of intravenous tocilizumab and no new or unexpected adverse drug reactions were observed (see Table 1).
+A higher frequency of injection site reactions was observed in the subcutaneous arms compared with placebo subcutaneous injections in the intravenous arms.
+
+Injection site reactions
+During the 6-month controlled period, in SC-I, the frequency of injection site reactions was 10.1% (64/631) and 2.4% (15/631) for the subcutaneous tocilizumab and the subcutaneous placebo ( intravenous group) weekly injections, respectively.
+These injection site reactions (including erythema, pruritus, pain and haematoma) were mild to moderate in severity.
+The majority was resolved without any treatment and none necessitated drug discontinuation.
+In SC-I, a total of 625 patients treated with tocilizumab 162mg weekly were tested for anti-tocilizumab antibodies in the 6 month controlled period.
+Five patients (0.8%) developed positive anti-tocilizumab antibodies; of these, all developed neutralizing anti-tocilizumab antibodies.
+One patient was tested positive for IgE isotype (0.2%).
+
+In SC-II, a total of 434 patients treated with tocilizumab 162mg every other week were tested for anti-tocilizumab antibodies in the 6 month controlled period.
+Seven patients (1.6%) developed positive anti-tocilizumab antibodies; of these, six (1.4%) developed neutralizing anti-tocilizumab antibodies.
+Four patients were tested positive for IgE isotype (0.9%).
+
+No correlation of antibody development to clinical response or adverse events was observed.
+
+During routine laboratory monitoring in the tocilizumab 6 month controlled clinical trial SC-I, a decrease in neutrophil count below 1 × 109/L occurred in 2.9% of patients on the subcutaneous weekly dose.
+
+There was no clear relationship between decreases in neutrophils below 1 x 109/L and the occurrence of serious infections.
+
+During routine laboratory monitoring in the tocilizumab 6 month clinical trial SC-I, none of the patients on the SC weekly dose had a decrease in platelet count to ≤50 × 103 / μl.
+
+During routine laboratory monitoring in the tocilizumab 6-month controlled clinical trial SC-I, elevation in ALT or AST ≥3 x ULN occurred in 6.5% and 1.4% of patients, respectively on the subcutaneous weekly dose.
+
+During routine laboratory monitoring in the tocilizumab 6 month controlled clinical trial SC-I, 19% of patients experienced sustained elevations in total cholesterol > 6.2 mmol/l (240 mg/dl), with 9% experiencing a sustained increase in LDL to ≥ 4.1 mmol/l (160 mg/dl) on the subcutaneous weekly dose.

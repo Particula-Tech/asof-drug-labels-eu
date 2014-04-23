@@ -6,9 +6,9 @@ RoActemra treatment must not be initiated in patients with active infections (se
 Administration of RoActemra should be interrupted if a patient develops a serious infection until the infection is controlled (see section 4.8).
 Healthcare professionals should exercise caution when considering the use of RoActemra in patients with a history of recurring or chronic infections or with underlying conditions (e.g. diverticulitis, diabetes and interstitial lung disease which may predispose patients to infections.
 
-Vigilance for the timely detection of serious infection is recommended for patients receiving biological treatments for moderate to severe RA sJIA or pJIA as signs and symptoms of acute inflammation may be lessened, associated with suppression of the acute phase reaction.
+Vigilance for the timely detection of serious infection is recommended for patients receiving biological treatments for moderate to severe RA, sJIA or pJIA as signs and symptoms of acute inflammation may be lessened, associated with suppression of the acute phase reaction.
 The effects of tocilizumab on C-reactive protein (CRP), neutrophils and signs and symptoms of infection should be considered when evaluating a patient for a potential infection.
-Patients (which includes younger children with sJIA or pJIA who may be less able to communicate their symptoms) and parents/guardians of sJIA patients, should be instructed to contact their healthcare professional immediately when any symptoms suggesting infection appear, in order to assure rapid evaluation and appropriate treatment.
+Patients (which includes younger children with sJIA or pJIA who may be less able to communicate their symptoms) and parents/guardians of sJIA or pJIA patients, should be instructed to contact their healthcare professional immediately when any symptoms suggesting infection appear, in order to assure rapid evaluation and appropriate treatment.
 
 Tuberculosis
 As recommended for other biological treatments, RA sJIA and pJIA patients should be screened for latent tuberculosis (TB) infection prior to starting RoActemra therapy.
@@ -31,6 +31,7 @@ Serious hypersensitivity reactions have been reported in association with infusi
 Such reactions may be more severe, and potentially fatal in patients who have experienced hypersensitivity reactions during previous infusions even if they have received premedication with steroids and antihistamines.
 Appropriate treatment should be available for immediate use in the event of an anaphylactic reaction during treatment with RoActemra.
 If an anaphylactic reaction or other serious hypersensitivity / serious infusion related reaction occurs, administration of RoActemra should be stopped immediately and RoActemra should be permanently discontinued.
+
 Active hepatic disease and hepatic impairment
 Treatment with RoActemra, particularly when administered concomitantly with MTX, may be associated with elevations in hepatic transaminases, therefore, caution should be exercised when considering treatment of patients with active hepatic disease or hepatic impairment (see sections 4.2 and 4.8).
 
@@ -66,9 +67,9 @@ In sJIA and pJIA patients, neutrophils and platelets should be monitored at the 
 Lipid parameters
 Elevations in lipid parameters including total cholesterol, low-density lipoprotein (LDL), high-density lipoprotein (HDL) and triglycerides were observed in patients treated with tocilizumab (see section 4.8).
 In the majority of patients, there was no increase in atherogenic indices, and elevations in total cholesterol responded to treatment with lipid lowering agents.
-
 In sJIA, pJIA and RA patients, assessment of lipid parameters should be performed 4 to 8 weeks following initiation of RoActemra therapy.
 Patients should be managed according to local clinical guidelines for management of hyperlipidaemia.
+
 Neurological disorders
 Physicians should be vigilant for symptoms potentially indicative of new-onset central demyelinating disorders.
 The potential for central demyelination with RoActemra is currently unknown.
@@ -79,6 +80,7 @@ Immunomodulatory medicinal products may increase the risk of malignancy.
 
 Vaccinations
 Live and live attenuated vaccines should not be given concurrently with RoActemra as clinical safety has not been established.
+In a randomized open-label study, adult RA patients treated with RoActemra and MTX were able to mount an effective response to both the 23-valent pneumococcal polysaccharide and tetanus toxoid vaccines which was comparable to the response seen in patients on MTX only.
 It is recommended that all patients, particularly sJIA and pJIA patients, be brought up to date with all immunisations in agreement with current immunisation guidelines prior to initiating RoActemra therapy.
 The interval between live vaccinations and initiation of RoActemra therapy should be in accordance with current vaccination guidelines regarding immunosuppressive agents.
 
@@ -100,3 +102,28 @@ Paediatric population
 sJIA Patients
 Macrophage activation syndrome (MAS) is a serious life-threatening disorder that may develop in sJIA patients.
 In clinical trials, tocilizumab has not been studied in patients during an episode of active MAS.
+
+[RoActemra 162 mg solution for injection in pre-filled syringe.]
+
+Vigilance for the timely detection of serious infection is recommended for patients receiving biological treatments for moderate to severe RA as signs and symptoms of acute inflammation may be lessened, associated with suppression of the acute phase reactants.
+Patients should be instructed to contact their healthcare professional immediately when any symptoms suggesting infection appear, in order to assure rapid evaluation and appropriate treatment.
+
+As recommended for other biological treatments, RA, patients should be screened for latent tuberculosis (TB) infection prior to starting RoActemra therapy.
+
+Patients should be advised to seek medical advice if signs/symptoms (e.g., persistent cough, wasting/weight loss, low grade (fever) suggestive of a tuberculosis infection occur during or after therapy with RoActemra.
+
+Serious hypersensitivity reactions, including anaphylaxis have been reported in association with RoActemra (see section 4.8).
+Such reactions may be more severe, and potentially fatal in patients who have experienced hypersensitivity reactions during previous treatment with tocilizumab even if they have received premedication with steroids and antihistamines.
+If an anaphylactic reaction or other serious hypersensitivity reaction occurs, administration of RoActemra should be stopped immediately, appropriate therapy initiated and tocilizumab should be permanently discontinued.
+
+For ALT or AST elevations > 3–5 x ULN, RoActemra treatment should be interrupted.
+
+In RA patients, assessment of lipid parameters should be performed 4 to 8 weeks following initiation of RoActemra therapy.
+
+It is recommended that all patients, be brought up to date with all immunisations in agreement with current immunisation guidelines prior to initiating RoActemra therapy.
+
+RA patients have an increased risk for cardiovascular disorders and should have risk factors (e.g. hypertension, hyperlipidaemia) managed as part of usual standard of care.
+
+There is no experience with the use of RoActemra with TNF antagonists or other biological treatments for RA patients.
+Traceability
+In order to improve the traceability of biological medicinal products, the tradename of the administered product should be clearly recorded (or stated) in the patient file.

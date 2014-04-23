@@ -14,3 +14,9 @@ Each 200 mg vial contains 0.20 mmol (4.43 mg) sodium.
 Each 400 mg vial contains 0.39 mmol (8.85 mg) sodium.
 
 For the full list of excipients, see section 6.1.
+
+[RoActemra 162 mg solution for injection in pre-filled syringe.]
+
+Each pre-filled syringe contains 162 mg of tocilizumab in 0.9 ml.
+
+Tocilizumab is a recombinant humanized, anti-human monoclonal antibody of the immunoglobulin G1 (IgG1) sub-class directed against soluble and membrane-bound interleukin 6 receptors.

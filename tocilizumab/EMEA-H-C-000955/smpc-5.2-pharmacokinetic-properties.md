@@ -4,6 +4,7 @@ RA Patients
 
 Absorption
 The pharmacokinetics of tocilizumab were determined using a population pharmacokinetic analysis on a database composed of 1,793 RA patients treated with a one-hour infusion of 4 and 8 mg/kg tocilizumab every 4 weeks for 24 weeks.
+
 The following parameters (predicted mean ± SD) were estimated for a dose of 8 mg/kg tocilizumab given every 4 weeks: steady-state area under curve (AUC) = 35000 ± 15500 h µg/ml, trough concentration (Cmin) = 9.74 ± 10.5 μg/ml and maximum concentration (Cmax) = 183 ± 85.6 µg/ml, and the accumulation ratios for AUC and Cmax were small, 1.22 and 1.06, respectively.
 The accumulation ratio was higher for Cmin (2.35), which was expected based on the non-linear clearance contribution at lower concentrations.
 Steady-state was reached following the first administration for Cmax and after 8 and 20 weeks for AUC and Cmin, respectively.
@@ -31,7 +32,6 @@ Pharmacokinetic parameters of tocilizumab did not change with time.
 A more than dose-proportional increase in the AUC and Cmin was observed for doses of 4 and 8 mg/kg every 4 weeks.
 Cmax increased dose-proportionally.
 At steady-state, predicted AUC and Cmin were 2.7 and 6.5 fold higher at 8 mg/kg as compared to 4 mg/kg, respectively.
-
 Special populations
 Renal impairment: No formal study of the effect of renal impairment on the pharmacokinetics of tocilizumab has been conducted.
 Most of the patients in the population pharmacokinetic analysis had normal renal function or mild renal impairment.
@@ -72,3 +72,27 @@ The linear clearance estimated as a parameter in the population pharmacokinetic 
 
 The half life of tocilizumab in pJIA patients is up to 16 days for the two body weight categories
 (8 mg/kg for body weight ≥ 30 kg or 10 mg/kg for body weight < 30 kg) during a dosing interval at steady state.
+
+[RoActemra 162 mg solution for injection in pre-filled syringe.]
+
+Intravenous use
+
+The following parameters (predicted mean ± SD) were estimated for a dose of 8 mg/kg tocilizumab given every 4 weeks: steady-state area under curve (AUC) = 35000 ± 15500 h µg/ml, trough concentration (Cmin) = 9.74 ± 14.8 μg/ml and maximum concentration (Cmax) = 183 ± 85.6 µg/ml, and. the accumulation ratios for AUC and Cmax were small, 1.22 and 1.06, respectively.
+At body weight ≥ 100 kg, the predicted mean (± SD) steady-state AUC, Cmin and Cmax of tocilizumab were 55500 ± 14100 μg•h/mL, 19.0 ± 12.0 μg/mL, and 269 ± 57 μg/mL, respectively, which are higher than mean exposure values for the patient population (AUC = 35000 ± 15500 h µg/ml, Cmin = 9.74 ± 10.5 μg/ml and Cmax = 183 ± 85.6 µg/ml).
+
+Subcutaneous use
+The pharmacokinetics of tocilizumab were determined using a population pharmacokinetic analysis on a database composed of 1759 RA patients treated with 162 mg subcutaneous every week, 162 mg subcutaneous every other week, and 8 mg/kg intravenous every 4 weeks for 24 weeks.
+
+The pharmacokinetic parameters of tocilizumab did not change with time.
+For the 162 mg every week dose, the predicted mean (±SD) steady-state AUC1week, Cmin and Cmax of tocilizumab were 8200 ± 3600 mcg•h/mL, 44.6 ± 20.6 mcg/mL, and 50.9 ± 21.8 mcg/mL, respectively.
+The accumulation ratios for AUC, Cmin, and Cmax were 6.83, 6.37, and 5.47, respectively.
+Steady state was reached after 12 weeks for AUC, Cmin, and Cmax.
+
+For the 162 every other week dose, the predicted mean (±SD) steady-state AUC2week, Cmin, and Cmax of tocilizumab were 3200 ± 2700 mcg•h/mL, 5.6 ± 7.0 mcg/mL, and 12.3 ± 8.7 mcg/mL, respectively.
+The accumulation ratios for AUC, Cmin, and Cmax were 2.67, 5.6, and 2.12, respectively.
+Steady state was reached after 12 weeks for AUC and Cmin, and after 10 weeks for Cmax.
+
+Following subcutaneous dosing in RA patients, the time to peak serum tocilizumab concentrations tmax was 2.8 days.
+The bioavailability for the subcutaneous formulation was 80%.
+
+For subcutaneous administration, the concentration-dependent apparent t 1/2 is up to 13 days for 162 mg every week and 5 days for 162 mg every other week in patients with RA at steady-state.

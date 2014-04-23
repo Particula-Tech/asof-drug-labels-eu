@@ -6,3 +6,9 @@ Diluted product: After dilution, the prepared solution for infusion is physicall
 
 From a microbiological point of view, the prepared solution for infusion should be used immediately.
 If not used immediately, in use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2°C–8°C, unless dilution has taken place in controlled and validated aseptic conditions.
+
+[RoActemra 162 mg solution for injection in pre-filled syringe.]
+
+30 months.
+
+Once removed from the refrigerator, RoActemra must be administered within 8 hours and should not be kept above 30°C.

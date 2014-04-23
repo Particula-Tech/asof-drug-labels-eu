@@ -23,7 +23,6 @@ Rheumatoid arthritis patients demonstrated a similar pattern of absolute neutrop
 Clinical efficacy and safety
 The efficacy of tocilizumab in alleviating the signs and symptoms of RA was assessed in five randomised, double-blind, multi-centre studies.
 Studies I-V enrolled patients ≥ 18 years of age with active RA diagnosed according to the American College of Rheumatology (ACR) criteria and who had at least eight tender and six swollen joints at baseline.
-
 In Study I, tocilizumab was administered intravenously every four weeks as monotherapy.
 In Studies II, III and V, tocilizumab was administered intravenously every four weeks in combination with MTX vs. placebo and MTX.
 In Study IV, tocilizumab was administered intravenously every 4 weeks in combination with other DMARDs vs. placebo and other DMARDs.
@@ -33,6 +32,7 @@ Study I evaluated 673 patients who had not been treated with MTX within six mont
 The majority (67%) of patients were MTX-naïve.
 Doses of 8 mg/kg of tocilizumab were given every four weeks as monotherapy.
 The comparator group was weekly MTX (dose titrated from 7.5 mg to a maximum of 20 mg weekly over an eight week period).
+
 Study II, a two year study with planned analyses at week 24, week 52 and week 104, evaluated 1,196 patients who had an inadequate clinical response to MTX.
 Doses of 4 or 8 mg/kg of tocilizumab or placebo were given every four weeks as blinded therapy for 52 weeks in combination with stable MTX (10 mg to 25 mg weekly).
 After week 52, all patients could receive open-label treatment with tocilizumab 8 mg/kg.
@@ -64,9 +64,9 @@ Patients in studies I – V had a mean Disease Activity Score (DAS28) of 6.5–6
 Significant reduction in DAS28 from baseline (mean improvement) of 3.1–3.4 were observed in tocilizumab-treated patients compared to control patients (1.3-2.1).
 The proportion of patients achieving a DAS28 clinical remission (DAS28 < 2.6) was significantly higher in patients receiving tocilizumab (28–34%) compared to 1–12% of control patients at 24 weeks.
 In study II, 65% of patients achieved a DAS28 < 2.6 at week 104 compared to 48% at 52 weeks and 33% of patients at week 24.
-
 In a pooled analysis of studies II, III and IV, the proportion of patients achieving an ACR 20, 50 and 70 response was significantly higher (59% vs. 50%, 37% vs. 27%, 18% vs. 11%, respectively) in the tocilizumab 8 mg/kg plus DMARD vs. the tocilizumab 4 mg/kg plus DMARD group (p< 0.03).
 Similarly the proportion of patients achieving a DAS28 remission (DAS28 < 2.6) was significantly higher (31% vs. 16% respectively) in patients receiving tocilizumab 8 mg/kg plus DMARD than in patients receiving tocilizumab 4 mg/kg plus DMARD (p< 0.0001).
+
 Table 3.
 ACR responses in placebo-/MTX-/DMARDs-controlled studies (% patients)
 
@@ -102,7 +102,6 @@ Inhibition of joint structural damage was shown with significantly less radiogra
 
 In the open-label extension of Study II the inhibition of progression of structural joint damage in tocilizumab plus MTX-treated patients was maintained in the second year of treatment.
 The mean change from baseline at week 104 in total Sharp-Genant score was significantly lower for patients randomised to tocilizumab 8 mg/kg plus MTX (p<0.0001) compared with patients who were randomised to placebo plus MTX.
-
 Table 4.
 Radiographic mean changes over 52 weeks in Study II
 
@@ -139,7 +138,6 @@ Study WA19924, a 24 week double-blinded study that compared tocilizumab monother
 Patients in the tocilizumab arm received an intravenous (IV) infusion of tocilizumab (8 mg/kg) every 4 weeks (q4w) and a subcutaneous (SC) placebo injection every 2 weeks (q2w).
 Patients in the adalimumab arm received an adalimumab SC injection (40 mg) q2w plus an IV placebo infusion q4w.
 A statistically significant superior treatment effect was seen in favour of tocilizumab over adalimumab in control of disease activity from baseline to week 24 for the primary endpoint of change in DAS28 and for all secondary endpoints (Table 5).
-
 Table 5: Efficacy Results for Study WA19924
 ADA + Placebo (IV) TCZ + Placebo (SC)
 
@@ -187,9 +185,9 @@ The primary endpoint was the proportion of patients with at least 30% improvemen
 Eighty five percent (64/75) of tocilizumab treated patients and 24.3% (9/37) of placebo treated patients achieved this endpoint.
 These proportions were highly significantly different (p<0.0001).
 
-The percent of patients achieving JIA ACR 30, 50, 70 and 90 responses are shown in Table 5.
+The percent of patients achieving JIA ACR 30, 50, 70 and 90 responses are shown in Table 6.
 
-Table6.
+Table 6.
 JIA ACR response rates at week 12 (% patients)
 
 | Response Rate | Tocilizumab N = 75 | Placebo N = 37 |
@@ -227,7 +225,6 @@ Patients < 30 kg were randomized 1:1 to receive either tocilizumab 8 mg/kg or 10
 Patients who completed Part I of the study and achieved at least a JIA ACR30 response at week 16 compared to baseline were eligible to enter the blinded withdrawal period (Part II) of the study.
 In Part II, patients were randomized to tocilizumab (same dose received in Part I) or placebo in a 1:1 ratio, stratified by concurrent MTX use and concurrent corticosteroid use.
 Each patient continued in Part II of the study until Week 40 or until the patient satisfied JIA ACR30 flare criteria (relative to Week 16) and qualified for escape to tocilizumab therapy (same dose received in Part I).
-
 Clinical response
 The primary endpoint was the proportion of patients with a JIA ACR30 flare at week 40 relative to week 16.
 Forty eight percent (48.1%, 39/81) of the patients treated with placebo flared compared with 25.6% (21/82) of tocilizumab treated patients.
@@ -238,6 +235,7 @@ At the conclusion of Part I, JIA ACR 30/50/70/90 responses were 89.4%, 83.0%, 62
 During the withdrawal phase (Part II), the percentage of patients achieving JIA ACR 30, 50, and 70 responses at Week 40 relative to baseline are shown in Table 7.
 In this statistical analysis, patients who flared (and escaped to TCZ) during Part II or who withdrew, were classified as non-responders.
 An additional analyses of JIA ACR responses, considering observed data at Week 40, regardless of flare status, showed that by Week 40, 95.1% of patients who had received continuous TCZ therapy, had achieved JIA ACR30 or higher.
+
 Table 7.
 JIA ACR Response Rates at Week 40 Relative to baseline (Percentage of Patients)
 
@@ -270,6 +268,103 @@ Number and Proportion of Patients with a JIA ACR30 Flare and Proportion of Patie
 | JIA ACR90 Response | 2 (8.7) | 17 (29.3) | 5 (18.5) | 32 (58.2) |
 
 Patients randomized to tocilizumab had fewer ACR30 flares and higher overall ACR responses than patients receiving placebo regardless of a history of prior biologic use.
-
 The European Medicines Agency has waived the obligation to submit the results of studies with RoActemra in all subsets of the paediatric population in rheumatoid arthritis and has deferred the obligation to submit the results of studies with RoActemra in one or more subsets of the paediatric population in juvenile idiopathic arthritis.
 See section 4.2 for information on paediatric use.
+
+[RoActemra 162 mg solution for injection in pre-filled syringe.]
+
+In healthy subjects administered tocilizumab in doses from 2 to 28 mg/kg intravenously and 81 to 162 mg subcutaneously, absolute neutrophil counts decreased to their lowest 2 to 5 days following administration.
+Rheumatoid arthritis patients demonstrate a comparable (to healthy subjects) decrease of absolute neutrophil counts following tocilizumab administration (see section 4.8).
+
+Intravenous use
+
+Study II, a two year study with planned analyses at week 24, week 52 and week 104, evaluated 1196 patients who had an inadequate clinical response to MTX.
+
+In all studies, patients treated with tocilizumab 8 mg/kg had statistically significant higher ACR 20, 50, 70 response rates at 6 months compared to control (Table 2).
+
+Similarly the proportion of patients achieving a DAS 28 remission (DAS28 < 2.6) was significantly higher (31% vs. 16% respectively) in patients receiving tocilizumab 8 mg/kg plus DMARD than in patients receiving tocilizumab 4 mg/kg plus DMARD (p< 0.0001).
+Table 2.
+
+|  | Study I AMBITION |  | Study II LITHE |  | Study III OPTION |  | Study IV TOWARD |  | Study V RADIATE |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Wee k | TCZ 8 mg/k g | MT X | TCZ 8 mg/k g + MT X | PBO + MT X | TCZ 8 mg/k g + MT X | PBO + MT X | TCZ 8 mg/kg + DMAR D | PBO + DMAR D | TCZ 8 mg/k g + MT X | PBO + MTX |
+|  | N = 286 | N = 284 | N = 398 | N = 393 | N = 205 | N = 204 | N = 803 | N = 413 | N = 170 | N = 158 |
+| ACR 20 |  |  |  |  |  |  |  |  |  |  |
+| 24 | 70%** * | 52% | 56%** * | 27% | 59%** * | 26% | 61%*** | 24% | 50%** * | 10% |
+| 52 |  |  | 56%** * | 25% |  |  |  |  |  |  |
+| ACR 50 |  |  |  |  |  |  |  |  |  |  |
+| 24 | 44%** | 33% | 32%** * | 10% | 44%** * | 11% | 38%*** | 9% | 29%** * | 4% |
+| 52 |  |  | 36%** * | 10% |  |  |  |  |  |  |
+| ACR 70 |  |  |  |  |  |  |  |  |  |  |
+| 24 | 28%** | 15% | 13%** * | 2% | 22%** * | 2% | 21%*** | 3% | 12%** | 1% |
+| 52 |  |  | 20%** 4% * |  |  |  |  |  |  |  |
+
+Inhibition of joint structural damage was shown with significantly less radiographic progression in patients receiving tocilizumab compared to control (Table 3).
+
+Following 1 year of treatment with tocilizumab plus MTX, 85% of patients(n=348) had no progression of structural joint damage, as defined by a change in the Total Sharp Score of zero or less, compared with 67% of placebo plus MTX-treated patients(n=290) (p ≤ 0.001).
+
+Tocilizumab versus adalimumabin monotherapy
+A statistically significant superior treatment effect was seen in favour of tocilizumab over adalimumab in control of disease activity from baseline to week 24 for the primary endpoint of change in DAS28 and for all secondary endpoints (Table 4).
+Table 4: Efficacy Results for Study WA19924
+ADA + Placebo TCZ + Placebo
+
+(IV) (SC)
+
+Difference in adjusted mean (95% -1.5 (-1.8, -1.1) <0.0001
+
+CI)
+
+Subcutaneous use
+The efficacy of subcutaneous administered tocilizumab in alleviating the signs and symptoms of RA and radiographic response, was assessed in two randomised, double-blind, controlled, multi-center studies.
+For study I (SC-I), patients were required to be >18 years of age with moderate to severe active RA diagnosed according to ACR criteria who had at least 4 tender and 4 swollen joints at baseline.
+All patients received background non-biologic DMARD(s).
+For study II (SC-II), patients were required to be > 18 years of age with moderate to severe active RA diagnosed according to ACR criteria who had at least 8 tender and 6 swollen joints at baseline.
+
+Switching from 8 mg/kg intravenous once every 4 weeks to 162 mg subcutaneous once every week, will alter exposure in the patient.
+The extent varies with the patient’s body weight (increased in light body weight patients and decreased in heavy body weight patients) but clinical outcome is consistent with that observed in intravenous treated patients.
+Study SC-I evaluated patients with moderate to severe active RA who had an inadequate clinical response to their existing rheumatologic therapy, including one or more DMARD(s) where approximately 20% had a history of inadequate response to at least one TNF inhibitor.
+In SC-I,
+1262 patients were randomized 1:1 to receive tocilizumab subcutaneous 162 mg every week or tocilizumab intravenous 8 mg/kg every four weeks in combination with non-biologic DMARD(s).
+The primary endpoint in the study was the difference in the proportion of patients who achieved an ACR20 response at week 24.
+The results from study SC-I is shown in Table 5.
+
+Table 5.
+ACR responses in study SC-I (% patients) at Week 24
+
+|  | SC-Ia |  |
+| --- | --- | --- |
+|  | TCZ SC 162 mg every week + DMARD N=558 | TCZ IV 8 mg/kg + DMARD N=537 |
+| ACR20 Week 24 | 69.4% | 73.4% |
+| Weighted difference (95% CI) | -4.0 (-9.2, 1.2) |  |
+| ACR50 Week 24 | 47.0% | 48.6% |
+| Weighted difference (95% CI) | -1.8 (-7.5, 4.0) |  |
+| ACR70 Week 24 | 24.0% | 27.9% |
+| Weighted difference (95% CI) | -3.8 (-9.0, 1.3) |  |
+
+TCZ = tocilizumab a = Per Protocol Population
+
+Patients in study SC-I had a mean Disease Activity Score (DAS28) at baseline of 6.6 and 6.7 on the subcutaneous and intravenous arms, respectively.
+At week 24, a significant reduction in DAS28 from baseline (mean improvement) of 3.5 was observed on both treatment arms, and a comparable proportion of patients had achieved DAS28 clinical remission (DAS28 < 2.6) on the subcutaneous (38.4%) and IV (36.9%) arms.
+
+The radiographic response of subcutaneous administered tocilizumab was assessed in a double-blind, controlled, multicenter study in patients with active RA (SC-II).
+Study SC-II evaluated patients with moderate to severe active RA who had an inadequate clinical response to their existing rheumatologic therapy, including one or more DMARD(s) where approximately 20% had a history of inadequate response to at least one TNF inhibitor.
+Patients were required to be >18 years of age with active RA diagnosed according to ACR criteria who had at least 8 tender and 6 swollen joints at baseline.
+In SC-II, 656 patients were randomized 2:1 to tocilizumab subcutaneous 162 mg every other week or placebo, in combination with non-biologic DMARD(s).
+
+In study SC-II, inhibition of structural joint damage was assessed radiographically and expressed as a change from baseline in the van der Heijde modified mean total Sharp score (mTSS).
+At week 24, inhibition of structural damage was shown, with significantly less radiographic progression in patients receiving tocilizumab subcutaneous compared to placebo (mean mTSS of 0.62 vs. 1.23, p=0.0149 (van Elteren).
+These results are consistent with those observed in patients treated with intravenous tocilizumab.
+
+In study SC-II, at week 24 there was ACR20 of 60.9%, ACR50 of 39.8% and ACR70 of 19.7% for patients treated with tocilizumab subcutaneous every other week versus placebo ACR20 of 31.5%, ACR50 of 12.3% and ACR70 of 5.0%.
+Patients had mean DAS28 at baseline of 6.7 on subcutaneous and 6.6 on placebo arms.
+At week 24, a significant reduction in DAS28 from baseline of 3.1 was observed on subcutaneous and 1.7 on placebo arm, and for DAS28 < 2.6, 32.0% was observed on subcutaneous and 4.0% on placebo arm.
+
+In study SC-I, the mean decrease in HAQ-DI from baseline to week 24 was 0.6 on both the subcutaneous and intravenous arms.
+The proportion of patients achieving a clinically relevant improvement in HAQ-DI at week 24 (change from baseline of ≥ 0.3 units) was also comparable on the subcutaneous (65.2%) versus intravenous (67.4%) arms, with a weighted difference in proportions of - 2.3% (95% CI - 8.1, 3.4).
+For SF-36, the mean change from baseline at week 24 in the mental component score was 6.22 for the subcutaneous arm and 6.54 for the intravenous arm, and for the physical component score was also similar with 9.49 for the subcutaneous arm and 9.65 for the intravenous arm.
+
+In study SC-II, mean decrease in HAQ-DI from baseline to week 24 was significantly greater for patients treated with tocilizumab subcutaneous every other week (0.4) versus placebo (0.3).
+Proportion of patients achieving a clinically relevant improvement in HAQ-DI at week 24 (change from baseline of ≥ 0.3 units) was higher for tocilizumab subcutaneous every other week (58%) versus placebo (46.8%).
+SF-36 (mean change in mental and physical component scores) was significantly greater with tocilizumab subcutaneous group (6.5 and 5.3) versus placebo (3.8 and 2.9).
+
+The European Medicines Agency has deferred the obligation to submit the results of studies with RoActemra in one or more subsets of the paediatric population in the treatment of chronic idiopathic arthritis (including rheumatoid arthritis, ankylosing spondylarthritis, psoriatic arthritis and juvenile idiopathic arthritis).

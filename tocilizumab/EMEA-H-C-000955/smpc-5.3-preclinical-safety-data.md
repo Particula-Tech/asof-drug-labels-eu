@@ -13,5 +13,12 @@ Effects on endocrine active and reproductive system organs were not observed in 
 Tocilizumab administered to cynomolgus monkeys during early gestation, was observed to have no direct or indirect harmful effect on pregnancy or embryonal-foetal development.
 However, a slight increase in abortion/embryonal-foetal death was observed with high systemic exposure (> 100 x human exposure) in the 50 mg/kg/day high-dose group compared to placebo and other low-dose groups.
 Although IL-6 does not seem to be a critical cytokine for foetal growth or the immunological control of the maternal/foetal interface, a relation of this finding to tocilizumab cannot be excluded.
+
 Treatment with a murine analogue did not exert toxicity in juvenile mice.
 In particular, there was no impairment of skeletal growth, immune function and sexual maturation.
+
+[RoActemra 162 mg solution for injection in pre-filled syringe.]
+
+Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity and toxicity to reproduction and development.
+
+The non-clinical safety profile of tocilizumab in the cynomolgus monkey does not suggest a difference between intravenous and subcutaneous routes of administration.

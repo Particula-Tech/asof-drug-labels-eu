@@ -2,7 +2,7 @@
 
 Instructions for dilution prior to administration
 Parenteral medicinal products should be inspected visually for particulate matter or discolouration prior to administration.
-Only solutions which are clear to opalescent, colourless to pale yellow and free of visible particles should be diluted
+Only solutions which are clear to opalescent, colourless to pale yellow and free of visible particles should be diluted.
 
 RA Patients
 Withdraw a volume of sterile, non-pyrogenic sodium chloride 9 mg/ml (0.9%) solution for injection from a 100 ml infusion bag, equal to the volume of RoActemra concentrate required for the patients dose, under aseptic conditions.
@@ -32,3 +32,17 @@ To mix the solution, gently invert the infusion bag to avoid foaming.
 
 RoActemra is for single-use only.
 Any unused product or waste material should be disposed of in accordance with local requirements.
+
+[RoActemra 162 mg solution for injection in pre-filled syringe.]
+
+RoActemra is supplied in a single use pre-filled syringe fitted into a needle safety device.
+After removing the pre-filled syringe from the refrigerator the pre-filled syringe should be allowed to reach room temperature (18°C to 28C°) by waiting for 25 to 30 minutes, before injecting RoActemra .
+The syringe should not be shaken.
+After removing the cap the injection must be started within 5 minutes, to prevent the medicine from drying out and blocking the needle.
+If the pre-filled syringe is not used within 5 minutes of removing the cap, you must dispose of it in a puncture resistant container and use a new pre-filled syringe.
+
+If following insertion of the needle you cannot depress the plunger, you must dispose of the pre-filled syringe in a puncture resistant container and use a new pre-filled syringe.
+
+Do not use if the medicine is cloudy or contains particles, is any colour besides colourless to slightly yellowish, or any part of the pre-filled syringe appears to be damaged.
+
+Comprehensive instructions for the administration of RoActemra in a pre-filled syringe are given in the package leaflet.

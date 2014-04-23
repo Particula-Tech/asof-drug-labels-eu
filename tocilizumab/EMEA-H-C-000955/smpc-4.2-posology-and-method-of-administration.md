@@ -1,6 +1,7 @@
 # 4.2 Posology and method of administration
 
-Treatment should be initiated by healthcare professionals experienced in the diagnosis and treatment of RA sJIA or pJIA All patients treated with RoActemra should be given the Patient Alert Card.
+Treatment should be initiated by healthcare professionals experienced in the diagnosis and treatment of RA, sJIA or pJIA.
+All patients treated with RoActemra should be given the Patient Alert Card.
 
 RA Patients
 Posology
@@ -136,9 +137,9 @@ RoActemra has not been studied in patients with hepatic impairment.
 Therefore, no dose recommendations can be made.
 
 Method of administration
-After dilution, RoActemra for RA sJIA and pJIA patients should be administered as an intravenous infusion over 1 hour.
+After dilution, RoActemra for RA, sJIA and pJIA patients should be administered as an intravenous infusion over 1 hour.
 
-RA sJIA and pJIA Patients ≥ 30 kg
+RA, sJIA and pJIA Patients ≥ 30 kg
 RoActemra should be diluted to a final volume of 100 ml with sterile, non-pyrogenic sodium chloride 9 mg/ml (0.9%) solution for injection using aseptic technique.
 
 For instructions on dilution of the medicinal product before administration, see section 6.6.
@@ -147,3 +148,48 @@ sJIA and pJIA Patients < 30 kg
 RoActemra should be diluted to a final volume of 50 ml with sterile, non-pyrogenic sodium chloride 9 mg/ml (0.9%) solution for injection using aseptic technique.
 
 For instructions on dilution of the medicinal product before administration, see section 6.6.
+
+[RoActemra 162 mg solution for injection in pre-filled syringe.]
+
+Treatment should be initiated by healthcare professionals experienced in the diagnosis and treatment of RA.
+Suitability of the patient for subcutaneous home use should be assessed and instruct patients to inform a healthcare professional if they experience symptoms of an allergic reaction before administering the next dose.
+Patients should seek immediate medical attention if developing symptoms of serious allergic reactions (see section 4.4).
+
+The recommended posology is subcutaneous 162mg once every week.
+
+Limited information is available regarding switching patients from RoActemra intravenous formulation to RoActemra subcutaneous fixed dose formulation.
+The once every week dosing interval should be followed.
+
+Patients transitioning from intravenous to subcutaneous formulation should administer their first subcutaneous dose instead of the next scheduled intravenous dose under the supervision of a qualified healthcare professional.
+
+| Laboratory Value | Action |
+| --- | --- |
+| > 1 to 3 x Upper Limit of Normal (ULN) | Dose modify concomitant DMARDs if appropriate. For persistent increases in this range, reduce RoActemra dose frequency to every other week injection or interrupt RoActemra until alanine aminotransferase (ALT) or aspartate aminotransferase (AST) have normalised. Restart with weekly or every other week injection, as clinically appropriate. |
+| > 3 to 5 x ULN | Interrupt RoActemra dosing until < 3 x ULN and follow recommendations above for > 1 to 3 x ULN. For persistent increases > 3 x ULN (confirmed by repeat testing, see 4.4.), discontinue RoActemra. |
+| > 5 x ULN | Discontinue RoActemra. |
+
+| Laboratory Value (cells x 109/ l ) | Action |
+| --- | --- |
+| ANC > 1 | Maintain dose. |
+| ANC 0.5 to 1 | Interrupt RoActemra dosing. When ANC increases > 1 x 109/ l resume RoActemra dosing every other week and increase to every week injection, as clinically appropriate. |
+| ANC < 0.5 | Discontinue RoActemra. |
+
+| Laboratory Value (cells x 103/ μl) | Action |
+| --- | --- |
+| 50 to 100 | Interrupt RoActemra dosing. When platelet count > 100 x 103/ μl resume RoActemra dosing every other week and increase to every week injection as clinically appropriate. |
+| < 50 | Discontinue RoActemra. |
+
+Missed dose
+If a patient misses a subcutaneous weekly injection of RoActemra within 7 days of the scheduled dose, he/she should be instructed to take the missed dose on the next scheduled day.
+If a patient misses a subcutaneous once every other week injection of RoActemra within 7 days of the scheduled dose, he/she should be instructed to take the missed dose immediately and the next dose on the next scheduled day.
+
+The safety and efficacy of RoActemra subcutaneous formulation in children from birth to less than 18 years have not been established.
+
+RoActemra is for subcutaneous use.
+After proper training in injection technique, patients may self-inject with RoActemra if their physician determines that it is appropriate.
+The total content (0.9 ml) of the pre-filled syringe should be administered as a subcutaneous injection.
+The recommended injection sites (abdomen, thigh and upper arm) should be rotated and injections should never be given into moles, scars, or areas where the skin is tender, bruised, red, hard, or not intact.
+
+The pre-filled syringe should not be shaken.
+
+Comprehensive instructions for the administration of RoActemra in a pre-filled syringe are given in the package leaflet , see section 6.6.
