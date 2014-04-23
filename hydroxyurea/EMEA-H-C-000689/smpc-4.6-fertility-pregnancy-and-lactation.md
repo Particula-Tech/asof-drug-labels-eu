@@ -21,9 +21,9 @@ Because of the potential for serious adverse reactions in infants, breastfeeding
 
 Fertility
 Fertility in males might be affected by treatment.
-Reversible azo- and oligo-spermia have been rarely observed in man, although these disorders are also associated with the underlying disease.
+Very common reversible oligo- and azoo-spermia have been observed in man, although these disorders are also associated with the underlying disease.
 Impaired fertility has been observed in male rats (see section 5.3).
 
 [Siklos 1000 mg film-coated tablets.]
 
-.
+Very common reversible oligo- and azo-spermia have been observed in man, although these disorders are also associated with the underlying disease.

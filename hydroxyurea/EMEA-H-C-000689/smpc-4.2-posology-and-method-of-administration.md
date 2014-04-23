@@ -28,6 +28,7 @@ Long-term data on the continued use of hydroxycarbamide in patients with Sickle 
 It is currently unknown how long patients should be treated with Siklos.
 The duration of treatment is the responsibility of the treating physician and should be based on the clinical and haematological status of the individual patient.
 
+Paediatric population
 Children less than 2 years of age
 Because of the rarity of data on treatment with hydroxycarbamide in children less than 2 years of age, dose regimens have not been established and thus, in this population, the treatment with hydroxycarbamide is not recommended.
 

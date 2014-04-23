@@ -42,7 +42,7 @@ Rare: Leg ulcers
 
 Not known: Cutaneous dryness
 Reproductive system and breast disorders:
-Very rare: Azoospermia, oligospermia4
+Very common: Oligospermia , azoospermia4
 Not known: Amenorrhea
 General disorders and administration site conditions:
 Not known: Fever
@@ -57,3 +57,12 @@ These disorders are also associated with the underlying disease.
 5 Weight gain may be an effect of improved general conditions.
 
 The clinical data obtained in patients with Sickle Cell Syndrome have not shown evidence of adverse reactions of hydroxycarbamide on hepatic and renal function.
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V
+
+[Siklos 1000 mg film-coated tablets.]
+
+Very common: Oligospermia,azoospermia4
