@@ -7,6 +7,7 @@ It is recommended that treatment be started after the transfusion of approximate
 Doses (in mg/kg) must be calculated and rounded to the nearest whole tablet size.
 
 The goals of iron chelation therapy are to remove the amount of iron administered in transfusions and, as required, to reduce the existing iron burden.
+
 Starting dose
 The recommended initial daily dose of EXJADE is 20 mg/kg body weight.
 
@@ -30,7 +31,6 @@ Doses above 40 mg/kg are not recommended because there is only limited experienc
 In patients treated with doses greater than 30 mg/kg, dose reductions in steps of 5 to 10 mg/kg should be considered when control has been achieved (e.g. serum ferritin levels persistently below 2,500 µg/l and showing a decreasing trend over time).
 In patients whose serum ferritin level has reached the target (usually between 500 and 1,000 µg/l), dose reductions in steps of 5 to 10 mg/kg should be considered to maintain serum ferritin levels within the target range.
 If serum ferritin falls consistently below 500 µg/l, an interruption of treatment should be considered (see section 4.4).
-
 Posology - non-transfusion-dependent thalassaemia syndromes
 Chelation therapy should only be initiated when there is evidence of iron overload (liver iron concentration [LIC] ≥5 mg Fe/g dry weight [dw] or serum ferritin consistently >800 µg/l).
 LIC is the preferred method of iron overload determination and should be used wherever available.
@@ -38,6 +38,7 @@ Caution should be taken during chelation therapy to minimise the risk of over-ch
 
 Starting dose
 The recommended initial daily dose of EXJADE in patients with non-transfusion-dependent thalassaemia syndromes is 10 mg/kg body weight.
+
 Dose adjustment
 It is recommended that serum ferritin be monitored every month.
 After every 3 to 6 months of treatment, a dose increase in increments of 5 to 10 mg/kg should be considered if the patient’s LIC is ≥7 mg Fe/g dw, or if serum ferritin is consistently >2,000 µg/l and not showing a downward trend, and the patient is tolerating the medicinal product well.
@@ -70,13 +71,13 @@ In these patients, closer monitoring of LIC and serum ferritin is essential to a
 
 The safety and efficacy of EXJADE in children from birth to 23 months of age have not been established.
 No data are available.
-
 Patients with renal impairment
 EXJADE has not been studied in patients with renal impairment and is contraindicated in patients with estimated creatinine clearance <60 ml/min (see sections 4.3 and 4.4).
 
 Patients with hepatic impairment
 EXJADE is not recommended in patients with severe hepatic impairment (Child-Pugh Class C). In patients with moderate hepatic impairment (Child-Pugh Class B), the dose should be considerably reduced followed by progressive increase up to a limit of 50% (see sections 4.4 and 5.2), and EXJADE must be used with caution in such patients.
 Hepatic function in all patients should be monitored before treatment, every 2 weeks during the first month and then every month (see section 4.4).
+
 Method of administration
 For oral use.
 EXJADE must be taken once daily on an empty stomach at least 30 minutes before food, preferably at the same time each day (see sections 4.5 and 5.2).

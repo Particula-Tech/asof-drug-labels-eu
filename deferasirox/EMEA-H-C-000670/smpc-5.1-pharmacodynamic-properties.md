@@ -7,6 +7,7 @@ Deferasirox is an orally active chelator that is highly selective for iron (III)
 It is a tridentate ligand that binds iron with high affinity in a 2:1 ratio.
 Deferasirox promotes excretion of iron, primarily in the faeces.
 Deferasirox has low affinity for zinc and copper, and does not cause constant low serum levels of these metals.
+
 Pharmacodynamic effects
 In an iron-balance metabolic study in iron-overloaded adult thalassaemic patients, EXJADE at daily doses of 10, 20 and 40 mg/kg induced the mean net excretion of 0.119, 0.329 and 0.445 mg Fe/kg body weight/day, respectively.
 
@@ -30,7 +31,6 @@ Fifty-six patients under the age of 6 years participated in this pivotal study, 
 
 It appeared from preclinical and clinical studies that EXJADE could be as active as deferoxamine when used in a dose ratio of 2:1 (i.e. a dose of EXJADE that is numerically half of the deferoxamine dose).
 However, this dosing recommendation was not prospectively assessed in the clinical trials.
-
 In addition, in patients with liver iron concentration ≥7 mg Fe/g dw with various rare anaemias or sickle cell disease, EXJADE up to 20 and 30 mg/kg produced a decrease in liver iron concentration and serum ferritin comparable to that obtained in patients with beta-thalassaemia.
 
 In patients with non-transfusion-dependent thalassaemia syndromes and iron overload, treatment with EXJADE was assessed in a 1-year, randomised, double-blind, placebo-controlled study.
@@ -42,5 +42,4 @@ At a starting dose of 10 mg/kg/day, EXJADE led to reductions in indicators of to
 On average, liver iron concentration decreased by 3.80 mg Fe/g dw in patients treated with EXJADE (starting dose 10 mg/kg/day) and increased by 0.38 mg Fe/g dw in patients treated with placebo (p<0.001).
 On average, serum ferritin decreased by 222.0 µg/l in patients treated with EXJADE (starting dose 10 mg/kg/day) and increased by 115 µg/l in patients treated with placebo (p<0.001).
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with EXJADE in one or more subsets of the paediatric population in the treatment of chronic iron overload requiring chelation therapy.
-See 4.2 for information on paediatric use.
+The European Medicines Agency has deferred the obligation to submit the results of studies with EXJADE in one or more subsets of the paediatric population in the treatment of chronic iron overload requiring chelation therapy (see section 4.2 for information on paediatric use).

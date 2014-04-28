@@ -15,11 +15,11 @@ The causes of the rises in serum creatinine have not been elucidated.
 Particular attention should therefore be paid to monitoring of serum creatinine in patients who are concomitantly receiving medicinal products that depress renal function, and in patients who are receiving high doses of EXJADE and/or low rates of transfusion (<7 ml/kg/month of packed red blood cells or
 <2 units/month for an adult).
 While no increase in renal adverse events was observed after dose escalation to doses above 30 mg/kg in clinical trials, an increased risk of renal adverse events with EXJADE doses above 30 mg/kg cannot be excluded.
-
 It is recommended that serum creatinine be assessed in duplicate before initiating therapy.
 Serum creatinine, creatinine clearance (estimated with the Cockcroft-Gault or MDRD formula in adults and with the Schwartz formula in children) and/or plasma cystatin C levels should be monitored weekly in the first month after initiation or modification of therapy with EXJADE, and monthly thereafter.
 Patients with pre-existing renal conditions and patients who are receiving medicinal products that depress renal function may be more at risk of complications.
 Care should be taken to maintain adequate hydration in patients who develop diarrhoea or vomiting.
+
 For adult patients, the daily dose may be reduced by 10 mg/kg if a rise in serum creatinine by >33% above the average of the pre-treatment measurements and estimated creatinine clearance decreases below the lower limit of the normal range (<90 ml/min) are seen at two consecutive visits, and cannot be attributed to other causes (see section 4.2).
 For paediatric patients, the dose may be reduced by 10 mg/kg if estimated creatinine clearance decreases below the lower limit of the normal range
 (<90 ml/min) and/or serum creatinine levels rise above the age-appropriate upper limit of normal at two consecutive visits.
@@ -37,7 +37,7 @@ If, despite dose reduction and interruption, the serum creatinine remains signif
 Hepatic function:
 
 Liver function test elevations have been observed in patients treated with EXJADE.
-Postmarketing cases of hepatic failure, sometimes fatal, have been reported in patients treated with EXJADE.
+Post-marketing cases of hepatic failure, sometimes fatal, have been reported in patients treated with EXJADE.
 Most reports of hepatic failure involved patients with significant morbidities including pre-existing liver cirrhosis.
 However, the role of EXJADE as a contributing or aggravating factor cannot be excluded (see section 4.8).
 
@@ -46,11 +46,22 @@ If there is a persistent and progressive increase in serum transaminase levels t
 Once the cause of the liver function test abnormalities has been clarified or after return to normal levels, cautious re-initiation of treatment at a lower dose followed by gradual dose escalation may be considered.
 
 EXJADE is not recommended in patients with severe hepatic impairment (Child-Pugh Class C) (see section 5.2).
+Summary of safety monitoring recommendations:
+
+| Test | Frequency |
+| --- | --- |
+| Serum creatinine, creatinine clearance and/or plasma cystatin C | In duplicate prior to therapy. Weekly during first month of therapy and during first month after dose modification. Monthly thereafter. |
+| Proteinuria | Monthly |
+| Other markers of renal tubular function (such as glycosuria in non-diabetics and low levels of serum potassium, phosphate, magnesium or urate, phosphaturia, aminoaciduria) | As needed. |
+| Serum transaminases, bilirubin, alkaline phosphatase | Prior to therapy. Every 2 weeks during first month of therapy. Monthly thereafter. |
+| Auditory and ophthalmic testing | Prior to therapy. Annually thereafter. |
+| Body weight, height and sexual development | Annually in paediatric patients. |
 
 In patients with a short life expectancy (e.g. high-risk myelodysplastic syndromes), especially when co-morbidities could increase the risk of adverse events, the benefit of EXJADE might be limited and may be inferior to risks.
 As a consequence, treatment with EXJADE is not recommended in these patients.
 
 Caution should be used in elderly patients due to a higher frequency of adverse reactions (in particular, diarrhoea).
+
 Data in children with non-transfusion-dependent thalassaemia are very limited (see section 5.1).
 As a consequence, EXJADE therapy should be closely monitored to detect side effects and to follow iron burden in the paediatric population.
 In addition, before treating heavily iron-overloaded children with non-transfusion-dependent thalassaemia with EXJADE, the physician should be aware that the consequences of long-term exposure in such patients are currently not known.
@@ -61,12 +72,13 @@ Multiple ulcers have been observed in some patients (see section 4.8).
 There have been reports of fatal gastrointestinal haemorrhages, especially in elderly patients who had haematological malignancies and/or low platelet counts.
 Physicians and patients should remain alert for signs and symptoms of gastrointestinal ulceration and haemorrhage during EXJADE therapy and promptly initiate additional evaluation and treatment if a serious gastrointestinal adverse reaction is suspected.
 Caution should be exercised in patients who are taking EXJADE in combination with substances that have known ulcerogenic potential, such as NSAIDs, corticosteroids, or oral bisphosphonates, in patients receiving anticoagulants and in patients with platelet counts below 50,000/mm3 (50 x 109/l) (see section 4.5).
-
 Skin disorders
 Skin rashes may appear during EXJADE treatment.
 The rashes resolve spontaneously in most cases.
 When interruption of treatment may be necessary, treatment may be reintroduced after resolution of the rash, at a lower dose followed by gradual dose escalation.
 In severe cases this reintroduction could be conducted in combination with a short period of oral steroid administration.
+Cases of Stevens-Johnson syndrome (SJS) have been reported post marketing.
+If SJS is suspected, EXJADE should be discontinued immediately and should not be reintroduced.
 
 Hypersensitivity reactions
 Cases of serious hypersensitivity reactions (such as anaphylaxis and angioedema) have been reported in patients receiving EXJADE, with the onset of the reaction occurring in the majority of cases within the first month of treatment (see section 4.8).
@@ -89,6 +101,7 @@ If serum ferritin falls consistently below 500 µg/l (in transfusional iron over
 
 The results of the tests for serum creatinine, serum ferritin and serum transaminases should be recorded and regularly assessed for trends.
 The results should also be noted in the provided patient’s booklet.
+
 In one clinical study, growth and sexual development of paediatric patients treated with EXJADE for up to 5 years were not affected.
 However, as a general precautionary measure in the management of paediatric patients with transfusional iron overload, body weight, height and sexual development should be monitored at regular intervals (every 12 months).
 
