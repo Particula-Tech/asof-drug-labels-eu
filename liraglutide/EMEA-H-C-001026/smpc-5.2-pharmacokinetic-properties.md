@@ -46,6 +46,7 @@ Hepatic impairment:
 The pharmacokinetics of liraglutide was evaluated in patients with varying degree of hepatic impairment in a single-dose trial.
 Liraglutide exposure was decreased by 13-23% in patients with mild to moderate hepatic impairment compared to healthy subjects.
 Exposure was significantly lower (44%) in patients with severe hepatic impairment (Child Pugh score >9).
+
 Renal impairment:
 Liraglutide exposure was reduced in patients with renal impairment compared to individuals with normal renal function.
 Liraglutide exposure was lowered by 33%, 14%, 27% and 28%, respectively, in patients with mild (creatinine clearance, CrCl 50-80 ml/min), moderate (CrCl 30-50 ml/min), and severe (CrCl <30 ml/min) renal impairment and in end-stage renal disease requiring dialysis.

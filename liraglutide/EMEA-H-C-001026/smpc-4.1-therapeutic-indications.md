@@ -1,9 +1,3 @@
 # 4.1 Therapeutic indications
 
-Victoza is indicated for treatment of adults with type 2 diabetes mellitus to achieve glycaemic control: In combination with:
-
-- Metformin or a sulphonylurea, in patients with insufficient glycaemic control despite maximal tolerated dose of monotherapy with metformin or sulphonylurea.
-
-In combination with:
-
-- Metformin and a sulphonylurea or metformin and a thiazolidinedione in patients with insufficient glycaemic control despite dual therapy.
+Victoza is indicated for treatment of adults with type 2 diabetes mellitus to achieve glycaemic control in combination with oral glucose-lowering medicinal products and/or basal insulin when these, together with diet and exercise, do not provide adequate glycaemic control (see sections 4.4 and 5.1 for available data on the different combinations).

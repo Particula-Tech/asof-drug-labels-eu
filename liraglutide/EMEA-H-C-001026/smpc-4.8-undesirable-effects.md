@@ -28,13 +28,9 @@ Table 1 Adverse reactions from long-term controlled phase 3 trials and spontaneo
 | Nervous system disorders |  | Headache Dizziness |  |  |  |
 | Cardiac disorders |  | Increased heart rate |  |  |  |
 | Gastrointestinal disorders | Nausea Diarrhoea | Vomiting Dyspepsia Abdominal pain upper Constipation Gastritis Flatulence Abdominal distension Gastroesophageal reflux disease Abdominal discomfort Toothache |  | Intestinal obstruction | Pancreatitis (including necrotising pancreatitis) |
-| Skin and subcutaneous |  | Rash | Urticaria Pruritus |  |  |
+| Skin and subcutaneous tissue disorder |  | Rash | Urticaria Pruritus |  |  |
+| Renal and urinary disorders |  |  | Renal impairment Renal failure acute |  |  |
 
-tissue disorder
-Renal and Renal
-urinary impairment
-disorders Renal
-failure acute
 General Fatigue Malaise
 disorders and Injection site
 administration reactions
@@ -50,6 +46,7 @@ Most episodes of confirmed hypoglycaemia in clinical trials were minor.
 No episodes of major hypoglycaemia were observed in the trial with liraglutide used as monotherapy.
 Major hypoglycaemia may occur uncommonly and has primarily been observed when liraglutide is combined with a sulphonylurea (0.02 events/subject year).
 Very few episodes (0.001 events/subject year) were observed with administration of liraglutide in combination with oral antidiabetics other than sulphonylureas.
+The risk of hypoglycaemia is low with combined use of basal insulin and liraglutide (1.0 events per subject year, see section 5.1).
 
 Gastrointestinal adverse reactions
 When combining liraglutide with metformin, 20.7% of patients reported at least one episode of nausea, and 12.6% of patients reported at least one episode of diarrhoea.
@@ -76,6 +73,7 @@ Allergic reactions
 Allergic reactions including urticaria, rash and pruritus have been reported from marketed use of Victoza.
 Few cases of anaphylactic reactions with additional symptoms such as hypotension, palpitations, dyspnoea and oedema have been reported with marketed use of Victoza.
 Few cases (0.05%) of angioedema have been reported during all long-term clinical trials with Victoza.
+
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

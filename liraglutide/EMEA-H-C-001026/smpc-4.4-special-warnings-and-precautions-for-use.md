@@ -4,8 +4,6 @@ Liraglutide should not be used in patients with type 1 diabetes mellitus or for 
 
 Liraglutide is not a substitute for insulin.
 
-The addition of liraglutide in patients already treated with insulin has not been evaluated and is therefore not recommended.
-
 There is limited experience in patients with congestive heart failure New York Heart Association (NYHA) class I-II and liraglutide should therefore be used with caution.
 There is no experience in patients with congestive heart failure NYHA class III-IV and liraglutide is therefore not recommended in these patients.
 
@@ -25,8 +23,8 @@ Thyroid adverse events, including increased blood calcitonin, goitre and thyroid
 
 Hypoglycaemia
 
-Patients receiving liraglutide in combination with a sulphonylurea may have an increased risk of hypoglycaemia (see section 4.8).
-The risk of hypoglycaemia can be lowered by a reduction in the dose of sulphonylurea.
+Patients receiving liraglutide in combination with a sulphonylurea or a basal insulin may have an increased risk of hypoglycaemia (see section 4.8).
+The risk of hypoglycaemia can be lowered by a reduction in the dose of sulphonylurea or basal insulin.
 
 Dehydration
 
