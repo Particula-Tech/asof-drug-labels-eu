@@ -1,8 +1,16 @@
 # 4.6 Fertility, pregnancy and lactation
 
-For NutropinAq, no clinical data on exposed pregnancies are available.
+Pregnancy
+There are no or limited data from the use of somatropin in pregnant women.
 Thus, the risk for humans is unknown.
-Although animal studies do not point to a potential risk during pregnancy, NutropinAq should be discontinued if pregnancy occurs.
+Animal studies are insufficient with respect to reproductive toxicity (see section 5.3).
+Somatropin is not recommended during pregnancy and should be discontinued if pregnancy occurs.
 During pregnancy, maternal somatropin will largely be replaced by placental growth hormone.
 
-It is not known whether somatropin is excreted in human milk, however, absorption of intact protein from the gastrointestinal tract of the infant is unlikely.
+Breast-feeding
+It is unknown whether somatropin/metabolites are excreted in human milk.
+No animal data are available.
+Caution should be exercised while breast-feeding during treatment with NutropinAq.
+
+Fertility
+The effect of NutropinAq has not been assessed in conventional animal fertility studies (see section 5.3) or clinical studies.

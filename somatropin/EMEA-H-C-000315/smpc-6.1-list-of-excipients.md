@@ -1,7 +1,8 @@
 # 6.1 List of excipients
 
 Sodium chloride
-Phenol
+Liquified phenol
 Polysorbate 20
-Sodium citrate and citric acid anhydrous
+Sodium citrate
+Citric acid, anhydrous
 Water for injections

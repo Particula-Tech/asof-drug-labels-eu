@@ -1,14 +1,14 @@
 # 6.6 Special precautions for disposal
 
 No special requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 Instructions for use and handling
 
-NutropinAq is supplied as a sterile solution with preservative for multiple use.
-The solution should be clear immediately after removal from the refrigerator.
-If the solution is cloudy, the content must not be injected.
+NutropinAq is supplied as a multi-dose solution.
+After removal from the refrigerator, if the solution is cloudy, the content must not be injected.
 Gently swirl.
-Do not shake vigorously in order not to denature the protein.
+Do not shake vigorously as it could denature the protein.
 
 NutropinAq is intended for use only with the NutropinAq Pen.
 Wipe the rubber seal of the NutropinAq with rubbing alcohol or an antiseptic solution to prevent contamination of the contents by microorganisms that may be introduced by repeated needle insertions.

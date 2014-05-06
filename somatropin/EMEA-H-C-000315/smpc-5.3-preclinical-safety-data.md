@@ -1,13 +1,19 @@
 # 5.3 Preclinical safety data
 
-The toxicity of NutropinAq has been tested in rats and monkeys and no findings of toxicological relevance were revealed.
-Carcinogenecity, mutagenicity and reproduction studies have not been conducted with NutropinAq.
+Non-clinical data reveal no special hazard for human based on conventional acute and repeated-dose toxicity studies.
 
-Due to its hormonal activity, somatropin may exert a promotional effect on tumour growth in tumour-bearing subjects.
-To date, this has not been confirmed in patients.
+Carcinogenic potential
 
-Local tolerance studies with NutropinAq showed no substantial adverse local reactions.
-Studies in transgenic mice suggest a low antibody provoking potential of (aged) liquid Nutropin.
+Carcinogenicity and genotoxicity studies have not been conducted with Nutropin Aq.
+In genotoxicity studies with other recombinant growth hormone preparations, there was no evidence of gene mutation in bacterial reverse mutation assays, chromosomal damage in human lymphocyte and mouse bone marrow cells, gene conversion in yeast or unscheduled DNA synthesis in human carcinoma cells.
+In carcinogenicity studies testing biologically recombinant active growth hormone in rats and mice, no increase in the incidence of tumors was shown.
 
-No common reproduction studies were performed.
-However, long-term treatment of monkeys during pregnancy and lactation and of newborn animals until adolescence, sexual maturity and reproduction did not indicate substantial disturbances of fertility, pregnancy, delivery, nursing or development of progeny.
+Toxicity to reproduction and development
+
+No conventional reproduction studies were performed.
+Somatropin is known to be associated with inhibition of the reproduction in male and female rats at doses of 3 IU/kg/day (1 mg/kg/day) or more, with reduced copulation and conception rates, lengthened or absent oestrous cycles, and at 10 IU/kg/day (3.3 mg/kg/day).
+Long-term treatment of monkeys during pregnancy and lactation and of newborn animals until adolescence, sexual maturity and reproduction did not indicate substantial disturbances of fertility, pregnancy, delivery, nursing or development of progeny.
+
+Environmental Risk Assessment (ERA)
+
+Under the proposed indications, the use of somatropin is not expected to result in an unacceptable risk to the environment.

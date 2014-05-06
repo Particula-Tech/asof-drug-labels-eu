@@ -4,4 +4,6 @@ Limited published data indicate that growth hormone treatment increases cytochro
 Monitoring is advisable when somatropin is administered in combination with medicinal products known to be metabolised by CYP450 liver enzymes, such as corticosteroids, sex steroids, anticonvulsants, and cyclosporin.
 
 In patients treated with somatropin, previously undiagnosed central (secondary) hypoadrenalism may be unmasked requiring glucocorticoid replacement therapy.
-In addition, patients treated with glucocortocoid replacement therapy for previously diagnosed hypoadrenalism may require an increase in their maintenance or stress doses, following initiation of somatropin treatment.
+In addition, patients treated with glucocortocoid replacement therapy for previously diagnosed hypoadrenalism may require an increase in their maintenance or stress doses, following initiation of somatropin treatment (see section 4.4).
+
+In patients with diabetes mellitus requiring drug therapy, the dose of insulin and/or oral hypoglycemic medicinal product may require adjustment when somatropin therapy is initiated (see section 4.4).
