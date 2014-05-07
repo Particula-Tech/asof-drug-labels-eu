@@ -7,7 +7,7 @@ Tresiba is a basal insulin for once-daily subcutaneous administration at any tim
 The potency of insulin analogues, including insulin degludec, is expressed in units (U).
 One (1) unit (U) of insulin degludec corresponds to 1 international unit (IU) of human insulin, 1 unit of insulin glargine or 1 unit of insulin detemir.
 
-In patients with type 2 diabetes mellitus, Tresiba can be administered alone, in combination with oral anti-diabetic medicinal products as well as in combination with bolus insulin (see section 5.1).
+In patients with type 2 diabetes mellitus, Tresiba can be administered alone or in any combination with oral anti-diabetic medicinal products, GLP-1 receptor agonists and bolus insulin (see section 5.1).
 
 In type 1 diabetes mellitus, Tresiba must be combined with short-/rapid-acting insulin to cover mealtime insulin requirements.
 
@@ -56,9 +56,15 @@ For most patients with type 1 diabetes, changing the basal insulin to Tresiba ca
 For patients with type 1 diabetes transferring from twice-daily basal insulin or having HbA1c < 8.0% at the time of transfer, the dose of Tresiba needs to be determined on an individual basis.
 Dose reduction needs to be considered followed by individual dosage adjustment based on the glycaemic response.
 
+Use of Tresiba in combination with GLP-1 receptor agonists in patients with type 2 diabetes mellitus
+
+When adding Tresiba to GLP-1 receptor agonists, the recommended daily starting dose is 10 units followed by individual dosage adjustments.
+
+When adding GLP-1 receptor agonists to Tresiba, it is recommended to reduce the dose of Tresiba by 20% to minimise the risk of hypoglycaemia.
+Subsequently, dosage should be adjusted individually.
 Special populations
 
-Elderly (≥ 65 years old)
+Elderly patients (≥ 65 years old)
 
 Tresiba can be used in elderly patients.
 Glucose-monitoring is to be intensified and the insulin dose adjusted on an individual basis (see section 5.2).
@@ -89,7 +95,7 @@ The 100 units/mL pre-filled pen delivers 1 - 80 units in steps of 1 unit.
 
 [Tresiba 200 units/mL solution for injection in pre-filled pen]
 
-The 200 units/mL pre-filled pen delivers 2–160 units in steps of 2 units.
+The 200 units/mL pre-filled pen delivers 2 – 160 units in steps of 2 units.
 
 [Tresiba 100 units/mL solution for injection in cartridge]
 

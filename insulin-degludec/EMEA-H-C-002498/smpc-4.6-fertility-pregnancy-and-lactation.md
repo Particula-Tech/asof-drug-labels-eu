@@ -1,6 +1,7 @@
 # 4.6 Fertility, pregnancy and lactation
 
 Pregnancy
+
 There is no clinical experience with use of Tresiba in pregnant women.
 
 Animal reproduction studies have not revealed any difference between insulin degludec and human insulin regarding embryotoxicity and teratogenicity.

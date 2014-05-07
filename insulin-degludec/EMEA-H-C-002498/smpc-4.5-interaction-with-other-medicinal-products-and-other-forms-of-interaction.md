@@ -3,7 +3,6 @@
 A number of medicinal products are known to interact with glucose metabolism.
 
 The following substances may reduce the insulin requirement
-
 Oral anti-diabetic medicinal products, GLP-1 receptor agonists, monoamine oxidase inhibitors (MAOI), beta-blockers, angiotensin converting enzyme (ACE) inhibitors, salicylates, anabolic steroids and sulphonamides.
 
 The following substances may increase the insulin requirement

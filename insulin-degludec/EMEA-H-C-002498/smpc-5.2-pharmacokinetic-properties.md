@@ -13,6 +13,7 @@ The ratio between AUCGIR,0-12h,SS and AUCGIR,τ,SS was 0.5.
 Distribution
 
 The affinity of insulin degludec to serum albumin corresponds to a plasma protein binding of >99% in human plasma.
+
 Biotransformation
 
 Degradation of insulin degludec is similar to that of human insulin; all metabolites formed are inactive.
@@ -25,13 +26,12 @@ The half-life of Tresiba is approximately 25 hours independent of dose.
 Linearity
 
 Dose proportionality in total exposure is observed after subcutaneous administration within the therapeutic dose range.
-In direct comparison, requirements for bioequivalence are met for Tresiba 100 U/mL and Tresiba 200 U/mL (based on AUCIDeg,τ,SS and Cmax, IDeg,SS).
-
+In direct comparison, requirements for bioequivalence are met for Tresiba 100 units/mL and Tresiba 200 units/mL (based on AUCIDeg,τ,SS and Cmax,IDeg,SS).
 Gender
 
 There is no gender difference in the pharmacokinetic properties of Tresiba.
 
-Elderly, race, renal and hepatic impairment
+Elderly patients, race, renal and hepatic impairment
 
 There is no difference in the pharmacokinetics of insulin degludec between elderly and younger adult patients, between races or between healthy subjects and patients with renal or hepatic impairment.
 

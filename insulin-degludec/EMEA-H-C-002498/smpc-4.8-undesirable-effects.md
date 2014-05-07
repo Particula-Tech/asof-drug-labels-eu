@@ -1,7 +1,6 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-
 The most frequently reported adverse reaction during treatment is hypoglycaemia (see section ‘Description of selected adverse reactions’ below).
 
 Tabulated list of adverse reactions
@@ -48,7 +47,28 @@ Paediatric population
 
 Tresiba has been administered to children and adolescents up to 18 years of age for the investigation of pharmacokinetic properties (see section 5.2).
 Safety and efficacy have not been investigated in children and adolescents.
-
 Other special populations
 
 Based on results from clinical trials, the frequency, type and severity of adverse reactions observed in elderly patients and in patients with renal or hepatic impairment do not indicate any differences to the broader experience in the general population.
+
+Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+[Tresiba 200 units/mL solution for injection in pre-filled pen]
+
+(all sentences already above)
+
+[Tresiba 100 units/mL solution for injection in cartridge]
+
+System organ class Frequency
+
+| Immune system disorders | Rare - Hypersensitivity |
+| --- | --- |
+|  | Rare - Urticaria |
+| Metabolism and nutrition disorders | Very common - Hypoglycaemia |
+| Skin and subcutaneous tissue disorders | Uncommon - Lipodystrophy |
+| General disorders and administration site conditions | Common - Injection site reactions |
+|  | Uncommon - Peripheral oedema |

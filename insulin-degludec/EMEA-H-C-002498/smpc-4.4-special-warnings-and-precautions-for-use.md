@@ -26,6 +26,7 @@ They include thirst, increased frequency of urination, nausea, vomiting, drowsin
 In type 1 diabetes mellitus, untreated hyperglycaemic events eventually lead to diabetic ketoacidosis, which is potentially lethal.
 
 Transfer from other insulin medicinal products
+
 Transferring a patient to another type, brand or manufacturer of insulin must be done under medical supervision and may result in the need for a change in dosage.
 
 Combination of pioglitazone and insulin medicinal products

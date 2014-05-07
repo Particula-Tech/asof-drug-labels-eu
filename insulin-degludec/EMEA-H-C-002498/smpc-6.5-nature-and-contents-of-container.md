@@ -2,13 +2,13 @@
 
 3 mL solution in a cartridge (type 1 glass) with a plunger (halobutyl) and a stopper (halobutyl/polyisoprene) contained in a pre-filled multidose disposable pen made of polypropylene.
 
-Pack sizes of 1, 5, and multipack containing 10 (2 packs of 5) pre-filled pens.
+Pack sizes of 1 (with or without needles), 5 (without needles) and multipack containing 10 (2 packs of 5) (without needles) pre-filled pens.
 
 Not all pack sizes may be marketed.
 
 [Tresiba 200 units/mL solution for injection in pre-filled pen]
 
-Pack sizes of 1, 2, 3 and multipack containing 6 (2 packs of 3) pre-filled pens.
+Pack sizes of 1 (with or without needles), 2 (without needles), 3 (without needles) and multipack containing 6 (2 packs of 3) (without needles) pre-filled pens.
 
 [Tresiba 100 units/mL solution for injection in cartridge]
 
