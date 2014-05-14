@@ -1,7 +1,9 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-The safety profile of ISENTRESS was based on the pooled safety data from two Phase III clinical studies in treatment-experienced adult patients and one Phase III clinical study in treatment-naïve adult patients as described below.
+The safety profile of ISENTRESS was based on the pooled safety data from two Phase III clinical studies in treatment-experienced adult patients and one Phase III clinical study in treatment-naïve adult patients.
+The most frequently reported adverse reactions during treatment were headache and nausea, occurring at 5% or greater.
+The most frequently reported serious adverse reaction was immune reconstitution syndrome.
 
 In treatment-experienced patients, the two randomised clinical studies used the recommended dose of 400 mg twice daily in combination with optimised background therapy (OBT) in 462 patients, in comparison to 237 patients taking placebo in combination with OBT.
 During double-blind treatment, the total follow-up was 708 patient-years in the group receiving ISENTRESS 400 mg twice daily, and 244 patient-years in the group receiving placebo.

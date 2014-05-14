@@ -64,10 +64,10 @@ Following Administration of Doses in Section 4.2
 
 The pharmacokinetics of raltegravir in children under 2 years of age has not been established.
 
-Older people
+Elderly
 There was no clinically meaningful effect of age on raltegravir pharmacokinetics over the age range studied (19 to 71 years, with few (8) subjects over the age of 65).
 
-Gender, Race and BMI
+Gender, race and BMI
 There were no clinically important pharmacokinetic differences due to gender, race or body mass index (BMI) in adults.
 
 Renal impairment
@@ -83,6 +83,7 @@ The effect of severe hepatic insufficiency on the pharmacokinetics of raltegravi
 [ISENTRESS 100 mg chewable tablets]
 
 Table 6 displays pharmacokinetic parameters in the 400 mg tablet (6 through 18 years of age) and the chewable tablet (2 through 11 years of age).
+
 Table 6: Raltegravir Pharmacokinetic Parameters IMPAACT P1066
 
 | Age | Formulation | Dose | N† | Geometric Mean (%CV) AUC 0-12hr (μM*hr) | Geometric Mean (%CV) C12hr (nM) |
