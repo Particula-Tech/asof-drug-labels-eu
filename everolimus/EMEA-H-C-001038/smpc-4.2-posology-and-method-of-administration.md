@@ -14,68 +14,32 @@ Management of severe and/or intolerable suspected adverse reactions may require 
 For adverse reactions of Grade 1, dose adjustment is usually not required.
 If dose reduction is required, the recommended dose is 5 mg daily and must not be lower than 5 mg daily.
 
-Table 1 summarises dose adjustment recommendations for specific adverse reactions (see also section 4.4).
+Table 1 summarises the dose adjustment recommendations for specific adverse reactions (see also section 4.4).
 
 Table 1 Afinitor dose adjustment recommendations
 
-Adverse reaction Severity1 Afinitor dose adjustment
-Non-infectious Grade 2 Consider interruption of therapy until symptoms improve to
-pneumonitis Grade ≤1.
-
-Re-initiate Afinitor at 5 mg daily.
-Discontinue treatment if failure to recover within 4 weeks.
-Grade 3 Interrupt Afinitor until symptoms resolve to Grade ≤1.
-Consider re-initiating Afinitor at 5 mg daily.
-If toxicity recurs at Grade 3, consider discontinuation.
-Grade 4 Discontinue Afinitor.
-
-Stomatitis Grade 2 Temporary dose interruption until recovery to Grade ≤1.
-
-Re-initiate Afinitor at same dose.
-If stomatitis recurs at Grade 2, interrupt dose until recovery to Grade ≤1.
-Re-initiate Afinitor at 5 mg daily.
-Grade 3 Temporary dose interruption until recovery to Grade ≤1.
-Re-initiate Afinitor at 5 mg daily.
-Grade 4 Discontinue Afinitor.
-
-Other non- Grade 2 If toxicity is tolerable, no dose adjustment required.
-haematological If toxicity becomes intolerable, temporary dose interruption
-toxicities until recovery to Grade ≤1. Re-initiate Afinitor at same
-(excluding dose.
-metabolic events) If toxicity recurs at Grade 2, interrupt Afinitor until recovery
-
-to Grade ≤1.
-Re-initiate Afinitor at 5 mg daily.
-Grade 3 Temporary dose interruption until recovery to Grade ≤1.
-Consider re-initiating Afinitor at 5 mg daily.
-If toxicity recurs at Grade 3, consider discontinuation.
-Grade 4 Discontinue Afinitor.
-
-Metabolic events Grade 2 No dose adjustment required.
-
-(e.g. hyperglycaemia, dyslipidaemia)
-Grade 3 Temporary dose interruption.
-Re-initiate Afinitor at 5 mg daily.
-Grade 4 Discontinue Afinitor.
-Thrombocytopenia Grade 2 Temporary dose interruption until recovery to Grade ≤1 (<75, ≥50x109/l) (≥75x109/l).
-Re-initiate Afinitor at same dose.
-Grade 3 & 4 Temporary dose interruption until recovery to Grade ≤1 (<50x109/l) (≥75x109/l).
-Re-initiate Afinitor at 5 mg daily.
-
-Neutropenia Grade 2 No dose adjustment required.
-
-(≥1x109/l)
-Grade 3 Temporary dose interruption until recovery to Grade ≤2 (<1, ≥0.5x109/l) (≥1x109/l).
-Re-initiate Afinitor at same dose.
-Grade 4 Temporary dose interruption until recovery to Grade ≤2 (<0.5x109/l) (≥1x109/l).
-Re-initiate Afinitor at 5 mg daily.
-
-Febrile Grade 3 Temporary dose interruption until recovery to Grade ≤2
-neutropenia (≥1.25x109/l) and no fever.
-
-Re-initiate Afinitor at 5 mg daily.
-Grade 4 Discontinue Afinitor.
-1 Grading based on National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) v3.0
+| Adverse reaction | Severity1 | Afinitor dose adjustment |
+| --- | --- | --- |
+| Non-infectious pneumonitis | Grade 2 | Consider interruption of therapy until symptoms improve to Grade ≤1. Re-initiate treatment at 5 mg daily. Discontinue treatment if failure to recover within 4 weeks. |
+|  | Grade 3 | Interrupt treatment until symptoms resolve to Grade ≤1. Consider re-initiating treatment at 5 mg daily. If toxicity recurs at Grade 3, consider discontinuation. |
+|  | Grade 4 | Discontinue treatment. |
+| Stomatitis | Grade 2 | Temporary dose interruption until recovery to Grade ≤1. Re-initiate treatment at same dose. If stomatitis recurs at Grade 2, interrupt dose until recovery to Grade ≤1. Re-initiate treatment at 5 mg daily. |
+|  | Grade 3 | Temporary dose interruption until recovery to Grade ≤1. Re-initiate treatment at 5 mg daily. |
+|  | Grade 4 | Discontinue treatment. |
+| Other non-haematological toxicities (excluding metabolic events) | Grade 2 | If toxicity is tolerable, no dose adjustment required. If toxicity becomes intolerable, temporary dose interruption until recovery to Grade ≤1. Re-initiate treatment at same dose. If toxicity recurs at Grade 2, interrupt treatment until recovery to Grade ≤1. Re-initiate treatment at 5 mg daily. |
+|  | Grade 3 | Temporary dose interruption until recovery to Grade ≤1. Consider re-initiating treatment at 5 mg daily. If toxicity recurs at Grade 3, consider discontinuation. |
+|  | Grade 4 | Discontinue treatment. |
+| Metabolic events (e.g. hyperglycaemia, dyslipidaemia) | Grade 2 | No dose adjustment required. |
+|  | Grade 3 | Temporary dose interruption. Re-initiate treatment at 5 mg daily. |
+|  | Grade 4 | Discontinue treatment. |
+| Thrombocytopenia | Grade 2 (<75, ≥50x109/l) | Temporary dose interruption until recovery to Grade ≤1 (≥75x109/l). Re-initiate treatment at same dose. |
+|  | Grade 3 & 4 (<50x109/l) | Temporary dose interruption until recovery to Grade ≤1 (≥75x109/l). Re-initiate treatment at 5 mg daily. |
+| Neutropenia | Grade 2 (≥1x109/l) | No dose adjustment required. |
+|  | Grade 3 (<1, ≥0.5x109/l) | Temporary dose interruption until recovery to Grade ≤2 (≥1x109/l). Re-initiate treatment at same dose. |
+|  | Grade 4 (<0.5x109/l) | Temporary dose interruption until recovery to Grade ≤2 (≥1x109/l). Re-initiate treatment at 5 mg daily. |
+| Febrile neutropenia | Grade 3 | Temporary dose interruption until recovery to Grade ≤2 (≥1.25x109/l) and no fever. Re-initiate treatment at 5 mg daily. |
+|  | Grade 4 | Discontinue treatment. |
+| 1 Grading based on National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) v3.0 |  |  |
 
 Special populations
 Elderly patients (≥65 years)
