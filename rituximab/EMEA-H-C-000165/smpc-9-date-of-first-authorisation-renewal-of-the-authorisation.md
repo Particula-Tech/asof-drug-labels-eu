@@ -2,3 +2,11 @@
 
 Date of first authorisation: 2 June 1998
 Date of latest renewal: 2 June 2008
+
+[MabThera 500 mg concentrate for solution for infusion]
+
+(all sentences already above)
+
+[MabThera 1400 mg solution for subcutaneous injection]
+
+Date of latest renewal: 2008

@@ -2,7 +2,7 @@
 
 MabThera is provided in sterile, preservative-free, non-pyrogenic, single use vials.
 
-Aseptically withdraw the necessary amount of MabThera, and dilute to a calculated concentration of 1 to 4 mg/ml rituximab into an infusion bag containing sterile, pyrogen-free sodium chloride 9 mg/ml (0.9%) solution for injection or 5% D-Glucose in water.
+Aseptically withdraw the necessary amount of MabThera, and dilute to a calculated concentration of 1 to 4 mg/mL rituximab into an infusion bag containing sterile, pyrogen-free sodium chloride 9 mg/mL (0.9%) solution for injection or 5% D-Glucose in water.
 For mixing the solution, gently invert the bag in order to avoid foaming.
 Care must be taken to ensure the sterility of prepared solutions.
 Since the medicinal product does not contain any anti-microbial preservative or bacteriostatic agents, aseptic technique must be observed.
@@ -12,7 +12,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 [MabThera 500 mg concentrate for solution for infusion]
 
-Aseptically withdraw the necessary amount of MabThera, and dilute to a calculated concentration of 1 to 4 mg/ml rituximab into an infusion bag containing sterile, pyrogen-free sodium chloride 9 mg/ml (0.9%) solution for injection or 5 % D-Glucose in water.
+Aseptically withdraw the necessary amount of MabThera, and dilute to a calculated concentration of 1 to 4 mg/mL rituximab into an infusion bag containing sterile, pyrogen-free sodium chloride 9 mg/mL (0.9%) solution for injection or 5 % D-Glucose in water.
 
 [MabThera 1400 mg solution for subcutaneous injection]
 

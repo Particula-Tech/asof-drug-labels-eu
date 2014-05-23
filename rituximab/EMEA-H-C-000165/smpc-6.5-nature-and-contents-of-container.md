@@ -1,11 +1,11 @@
 # 6.5 Nature and contents of container
 
-Clear Type I glass vials with butyl rubber stopper containing 100 mg of rituximab in 10 ml.
+Clear Type I glass vials with butyl rubber stopper containing 100 mg of rituximab in 10 mL.
 Packs of 2 vials.
 
 [MabThera 500 mg concentrate for solution for infusion]
 
-Clear Type I glass vials with butyl rubber stopper containing 500 mg of rituximab in 50 ml.
+Clear Type I glass vials with butyl rubber stopper containing 500 mg of rituximab in 50 mL.
 Pack of 1 vial.
 
 [MabThera 1400 mg solution for subcutaneous injection]
