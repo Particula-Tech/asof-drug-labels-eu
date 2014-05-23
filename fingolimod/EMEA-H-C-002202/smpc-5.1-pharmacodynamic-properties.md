@@ -21,7 +21,6 @@ Since this lymphocyte subset typically does not traffic to lymphoid organs it is
 Peripheral lymphocyte count increases are evident within days of stopping fingolimod treatment and typically normal counts are reached within one to two months.
 Chronic fingolimod dosing leads to a mild decrease in the neutrophil count to approximately 80% of baseline.
 Monocytes are unaffected by fingolimod.
-
 Fingolimod causes a transient reduction in heart rate and decrease in atrioventricular conduction at treatment initiation (see sections 4.4 and 4.8).
 The maximal decline in heart rate is seen within 6 hours post dose, with 70% of the negative chronotropic effect achieved on the first day.
 With continued administration heart rate returns to baseline within one month.
@@ -35,10 +34,12 @@ Fingolimod treatment with single or multiple doses of 0.5 and 1.25 mg for two we
 However, single fingolimod doses ≥5 mg (10-fold the recommended dose) are associated with a dose-dependent increase in airway resistance.
 Fingolimod treatment with multiple doses of 0.5, 1.25, or 5 mg is not associated with impaired oxygenation or oxygen desaturation with exercise or an increase in airway responsiveness to methacholine.
 Subjects on fingolimod treatment have a normal bronchodilator response to inhaled beta-agonists.
+
 Clinical efficacy and safety
 The efficacy of Gilenya has been demonstrated in two studies which evaluated once-daily doses of fingolimod 0.5 mg and 1.25 mg in patients with relapsing-remitting multiple sclerosis (RRMS).
 Both studies included patients who had experienced ≥2 relapses in the prior 2 years or ≥1 relapse during the prior year.
 Expanded Disability Status Score (EDSS) was between 0 and 5.5.
+A third study targeting the same patient population was completed after registration of Gilenya.
 
 Study D2301 (FREEDOMS) was a 2-year randomised, double-blind, placebo-controlled Phase III study of 1,272 patients (n=425 on 0.5 mg, 429 on 1.25 mg, 418 on placebo).
 Median values for baseline characteristics were: age 37 years, disease duration 6.7 years, and EDSS score 2.0.
@@ -57,13 +58,18 @@ Table 1: Study D2301 (FREEDOMS): Main results
 | Median (mean) number of new or enlarging T2 lesions over 24 months | 0.0 (2.5)** | 5.0 (9.8) |
 | Median (mean) number of Gd-enhancing lesions at Month 24 | 0.0 (0.2)** | 0.0 (1.1) |
 | Median (mean) % change in brain volume over 24 months | -0.7 (-0.8)** | -1.0 (-1.3) |
-| † Disability progression defined as 1-point increase in EDSS confirmed 3 months later ** p<0.001, *p<0.05 compared to placebo All analyses of clinical endpoints were intent-to-treat. MRI analyses used evaluable dataset. |  |  |
+
+† Disability progression defined as 1-point increase in EDSS confirmed 3 months later
+** p<0.001, *p<0.05 compared to placebo
+All analyses of clinical endpoints were intent-to-treat.
+MRI analyses used evaluable dataset.
 
 Patients who completed the 24-month core FREEDOMS study could enter a dose-blinded extension study (D2301E1) and receive fingolimod.
 In total, 920 patients entered (n=331 continued on 0.5 mg, 289 continued on 1.25 mg, 155 switched from placebo to 0.5 mg and 145 switched from placebo to 1.25 mg).
 After 12 months (month 36), 856 patients (93%) were still enrolled.
 Between months 24 and 36, the annualised relapse rate (ARR) for patients on fingolimod 0.5 mg in the core study who remained on 0.5 mg was 0.17 (0.21 in the core study).
 The ARR for patients who switched from placebo to fingolimod 0.5 mg was 0.22 (0.42 in the core study).
+
 Comparable results were shown in a replicate 2-year randomised, double-blind, placebo-controlled Phase III study on fingolimod in 1,083 patients (n=358 on 0.5 mg, 370 on 1.25 mg, 355 on placebo) with RRMS (D2309; FREEDOMS 2).
 Median values for baseline characteristics were: age 41 years, disease duration 8.9 years, EDSS score 2.5.
 

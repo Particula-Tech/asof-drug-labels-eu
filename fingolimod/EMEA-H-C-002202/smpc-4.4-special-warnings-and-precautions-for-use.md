@@ -2,7 +2,6 @@
 
 Bradyarrhythmia
 Initiation of Gilenya treatment results in a transient decrease in heart rate and may also be associated with atrioventricular conduction delays, including the occurrence of isolated reports of transient, spontaneously resolving complete AV block (see sections 4.8 and 5.1).
-
 After the first dose, the decline in heart rate starts within one hour, and is maximal within 6 hours.
 This post-dose effect persists over the following days, although usually to a milder extent, and usually abates over the next weeks.
 With continued administration, the average heart rate returns towards baseline within one month.
@@ -59,13 +58,15 @@ Infections
 A core pharmacodynamic effect of Gilenya is a dose-dependent reduction of the peripheral lymphocyte count to 20-30% of baseline values.
 This is due to the reversible sequestration of lymphocytes in lymphoid tissues (see section 5.1).
 
-Before initiating treatment with Gilenya, a recent complete blood count (CBC) (i.e. within 6 months) should be available.
+Before initiating treatment with Gilenya, a recent complete blood count (CBC) (i.e. within 6 months or after discontinuation of prior therapy) should be available.
 Assessments of CBC are also recommended periodically during treatment, at month 3 and at least yearly thereafter, and in case of signs of infection.
 Absolute lymphocyte count <0.2x109/l, if confirmed, should lead to treatment interruption until recovery, because in clinical studies, fingolimod treatment was interrupted in patients with absolute lymphocyte count <0.2x109/l.
 
 Initiation of treatment with Gilenya should be delayed in patients with severe active infection until resolution.
-Before initiating Gilenya therapy, patients without a history of chickenpox or without vaccination against varicella zoster virus (VZV) should be tested for antibodies to VZV.
-VZV vaccination of antibody negative patients should be considered prior to commencing treatment with Gilenya, following which initiation of treatment with Gilenya should be postponed for 1 month to allow full effect of vaccination to occur.
+Patients need to be assessed for their immunity to varicella (chickenpox) prior to Gilenya treatment.
+It is recommended that patients without a health care professional confirmed history of chickenpox or documentation of a full course of vaccination with varicella vaccine undergo antibody testing to varicella zoster virus (VZV) before initiating Gilenya therapy.
+A full course of vaccination for antibody-negative patients with varicella vaccine is recommended prior to commencing treatment with Gilenya (see section 4.8).
+Initiation of treatment with Gilenya should be postponed for 1 month to allow full effect of vaccination to occur.
 
 The immune system effects of Gilenya may increase the risk of infections (see section 4.8).
 Effective diagnostic and therapeutic strategies should be employed in patients with symptoms of infection while on therapy.
@@ -77,7 +78,7 @@ Elimination of fingolimod following discontinuation of therapy may take up to tw
 Patients should be instructed to report symptoms of infection up to 2 months after discontinuation of fingolimod.
 
 Macular oedema
-Macular oedema with or without visual symptoms has been reported in 0.4% of patients treated with fingolimod 0.5 mg, occurring predominantly in the first 3-4 months of therapy (see section 4.8).
+Macular oedema with or without visual symptoms has been reported in 0.5% of patients treated with fingolimod 0.5 mg, occurring predominantly in the first 3-4 months of therapy (see section 4.8).
 An ophthalmological evaluation is therefore recommended at 3-4 months after treatment initiation.
 If patients report visual disturbances at any time while on therapy, evaluation of the fundus, including the macula, should be carried out.
 
@@ -90,8 +91,9 @@ It is recommended that Gilenya be discontinued if a patient develops macular oed
 A decision on whether or not Gilenya therapy should be re-initiated after resolution of macular oedema needs to take into account the potential benefits and risks for the individual patient.
 
 Liver function
-During clinical trials, elevations 3-fold the upper limit of normal (ULN) or greater in liver transaminases occurred in 8% of patients treated with fingolimod 0.5 mg compared to 2% of placebo patients.
-Elevations 5-fold the ULN occurred in 2% of patients on fingolimod and 1% of patients on placebo.
+Increased hepatic enzymes, in particular alanine aminotransaminase (ALT) but also gamma glutamyltransferase (GGT) and aspartate transaminase (AST) have been reported in multiple sclerosis patients treated with Gilenya.
+In clinical trials, elevations 3-fold the upper limit of normal (ULN) or greater in ALT occurred in 8.0% of patients treated with fingolimod 0.5 mg compared to 1.9% of placebo patients.
+Elevations 5-fold the ULN occurred in 1.8% of patients on fingolimod and 0.9% of patients on placebo.
 In clinical trials, fingolimod was discontinued if the elevation exceeded 5 times the ULN.
 Recurrence of liver transaminase elevations occurred with rechallenge in some patients, supporting a relationship to fingolimod.
 In clinical studies, transaminase elevations occurred at any time during treatment although the majority occurred within the first 12 months.
@@ -118,20 +120,39 @@ Blood pressure effects
 Patients with hypertension uncontrolled by medication were excluded from participation in premarketing clinical trials and special care is indicated if patients with uncontrolled hypertension are treated with Gilenya.
 
 In MS clinical trials, patients treated with fingolimod 0.5 mg had an average increase of approximately 3 mmHg in systolic pressure, and approximately 1 mmHg in diastolic pressure, first detected approximately 1 month after treatment initiation, and persisting with continued treatment.
-In the two-year placebo-controlled study, hypertension was reported as an adverse event in 6.1% of patients on fingolimod 0.5 mg and in 3.8% of patients on placebo.
+In the two-year placebo-controlled study, hypertension was reported as an adverse event in 6.5% of patients on fingolimod 0.5 mg and in 3.3% of patients on placebo.
 Therefore, blood pressure should be regularly monitored during treatment with Gilenya.
 
 Respiratory effects
 Minor dose-dependent reductions in values for forced expiratory volume (FEV1) and diffusion capacity for carbon monoxide (DLCO) were observed with Gilenya treatment starting at Month 1 and remaining stable thereafter.
 Gilenya should be used with caution in patients with severe respiratory disease, pulmonary fibrosis and chronic obstructive pulmonary disease (see also section 4.8).
 
-Prior treatment with immunosuppressants
-When switching patients from interferon or glatiramer acetate to Gilenya, a washout is not necessary, assuming any immune effects (i.e. cytopenia) of such therapies have resolved.
+Posterior reversible encephalopathy syndrome
+Rare cases of posterior reversible encephalopathy syndrome (PRES) have been reported at the 0.5 mg dose in clinical trials and in the post-marketing setting (see section 4.8).
+Symptoms reported included sudden onset of severe headache, nausea, vomiting, altered mental status, visual disturbances and seizure.
+Symptoms of PRES are usually reversible but may evolve into ischaemic stroke or cerebral haemorrhage.
+Delay in diagnosis and treatment may lead to permanent neurological sequelae.
+If PRES is suspected, Gilenya should be discontinued.
+Prior treatment with immunosuppressive or immunomodulatory therapies
+There have been no studies performed to evaluate the efficacy and safety of Gilenya when switching patients from teriflunomide, dimethyl fumarate or alemtuzumab treatment to Gilenya.
+When switching patients from another disease modifying therapy to Gilenya, the half-life and mode of action of the other therapy must be considered in order to avoid an additive immune effect whilst at the same time minimising the risk of disease reactivation.
+A CBC is recommended prior to initiating Gilenya to ensure that immune effects of the previous therapy (i.e. cytopenia) have resolved.
 
-Due to the long half-life of natalizumab, concomitant exposure, and thus concomitant immune effects, could occur for up to 2-3 months following discontinuation of natalizumab if Gilenya was immediately started.
-Therefore caution is required when switching patients from natalizumab to Gilenya.
+Gilenya can generally be started immediately after discontinuation of interferon or glatiramer acetate.
 
-When switching from other immunosuppressive medications, the duration and mode of action of such substances must be considered when initiating Gilenya to avoid additive immune suppressive effects.
+For dimethyl fumarate, the washout period should be sufficient for CBC to recover before treatment with Gilenya is started.
+
+Due to the long half-life of natalizumab, elimination usually takes up to 2-3 months following discontinuation.
+Teriflunomide is also eliminated slowly from the plasma.
+Without an accelerated elimination procedure, clearance of teriflunomide from plasma can take from several months up to 2 years.
+An accelerated elimination procedure as defined in the teriflunomide summary of product characteristics is recommended or alternatively washout period should not be shorter than 3.5 months.
+Caution regarding potential concomitant immune effects is required when switching patients from natalizumab or teriflunomide to Gilenya.
+
+Alemtuzumab has profound and prolonged immunosuppressive effects.
+As the actual duration of these effects is unknown, initiating treatment with Gilenya after alemtuzumab is not recommended unless the benefits of such treatment clearly outweigh the risks for the individual patient.
+
+A decision to use prolonged concomitant treatment with corticosteroids should be taken after careful consideration.
+
 Co-administration with potent CYP450 inducers
 The combination of fingolimod with potent CYP450 inducers should be used with caution.
 Concomitant administration with St John’s wort is not recommended (see section 4.5).

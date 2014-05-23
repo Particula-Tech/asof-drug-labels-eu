@@ -12,6 +12,7 @@ Steady-state-blood concentrations are reached within 1 to 2 months following onc
 Food intake does not alter Cmax or exposure (AUC) of fingolimod.
 Fingolimod phosphate Cmax was slightly increased by 34% but AUC was unchanged.
 Therefore, Gilenya may be taken without regard to meals (see section 4.2).
+
 Distribution
 Fingolimod highly distributes in red blood cells, with the fraction in blood cells of 86%.
 Fingolimod phosphate has a smaller uptake in blood cells of <17%.
@@ -21,7 +22,8 @@ Fingolimod is extensively distributed to body tissues with a volume of distribut
 
 Biotransformation
 Fingolimod is transformed in humans by reversible stereoselective phosphorylation to the pharmacologically active (S)-enantiomer of fingolimod phosphate.
-Fingolimod is eliminated by oxidative biotransformation mainly via the cytochrome P450 4F2 isoenzyme and subsequent fatty acid-like degradation to inactive metabolites, and by formation of pharmacologically inactive non-polar ceramide analogues of fingolimod.
+Fingolimod is eliminated by oxidative biotransformation catalysed mainly via CYP4F2 and possibly other isoenzymes and subsequent fatty acid-like degradation to inactive metabolites.
+Formation of pharmacologically inactive non-polar ceramide analogues of fingolimod was also observed.
 The main enzyme involved in the metabolism of fingolimod is partially identified and may be either CYP4F2 or CYP3A4.
 
 Following single oral administration of [14C] fingolimod, the major fingolimod-related components in blood, as judged from their contribution to the AUC up to 34 days post dose of total radiolabelled components, are fingolimod itself (23%), fingolimod phosphate (10%), and inactive metabolites (M3 carboxylic acid metabolite (8%), M29 ceramide metabolite (9%) and M30 ceramide metabolite (7%)).
@@ -36,7 +38,6 @@ After 34 days, the recovery of the administered dose is 89%.
 
 Linearity
 Fingolimod and fingolimod phosphate concentrations increase in an apparently dose proportional manner after multiple once-daily doses of 0.5 mg or 1.25 mg.
-
 Characteristics in specific groups of patients
 The pharmacokinetics of fingolimod and fingolimod phosphate do not differ in males and females, in patients of different ethnic origin, or in patients with mild to severe renal impairment.
 
@@ -50,6 +51,7 @@ Fingolimod should be introduced cautiously in mild and moderate hepatic impaired
 
 Clinical experience and pharmacokinetic information in patients aged above 65 years are limited.
 Gilenya should be used with caution in patients aged 65 years and over (see section 4.2).
+
 Paediatric population
 There are limited data available from a renal transplant study that included 7 children above 11 years of age (study FTY720A0115).
 The comparison of these data to those in adult healthy volunteers is of limited relevance and no valid conclusions can be drawn regarding the pharmacokinetic properties of fingolimod in children.
