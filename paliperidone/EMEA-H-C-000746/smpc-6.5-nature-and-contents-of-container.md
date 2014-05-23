@@ -7,7 +7,6 @@ Each bottle contains two 1 g dessicant silica gel (silicone dioxide) pouches (po
 Pack sizes of 30 and 350 prolonged-release tablets.
 
 Blisters:
-
 Polyvinyl chloride (PVC) laminated with polychloro-trifluoroethylene (PCTFE)/aluminium push-through layer.
 Pack sizes of 14, 28, 30, 49, 56, and 98 prolonged-release tablets.
 

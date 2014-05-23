@@ -2,15 +2,15 @@
 
 Posology
 
-Schizophrenia
-The recommended dose of INVEGA for the treatment of schizophrenia is 6 mg once daily, administered in the morning.
+Schizophrenia (adults)
+The recommended dose of INVEGA for the treatment of schizophrenia in adults is 6 mg once daily, administered in the morning.
 Initial dose titration is not required.
 Some patients may benefit from lower or higher doses within the recommended range of 3 mg to 12 mg once daily.
 Dosage adjustment, if indicated, should occur only after clinical reassessment.
 When dose increases are indicated, increments of 3 mg/day are recommended and generally should occur at intervals of more than 5 days.
 
-Schizoaffective disorder
-The recommended dose of INVEGA for the treatment of schizoaffective disorder is 6 mg once daily, administered in the morning.
+Schizoaffective disorder (adults)
+The recommended dose of INVEGA for the treatment of schizoaffective disorder in adults is 6 mg once daily, administered in the morning.
 Initial dose titration is not required.
 Some patients may benefit from higher doses within the recommended range of 6 mg to 12 mg once daily.
 Dosage adjustment, if indicated, should occur only after clinical reassessment.
@@ -21,7 +21,7 @@ Switching to other antipsychotic medicinal products
 There are no systematically collected data to specifically address switching patients from INVEGA to other antipsychotic medicinal products.
 Due to different pharmacodynamic and pharmacokinetic profiles among antipsychotic medicinal products, supervision by a clinician is needed when switching to another antipsychotic product is considered medically appropriate.
 Elderly
-Dosing recommendations for elderly patients with normal renal function (≥ 80 ml/min) are the same as for adults with normal renal function.
+Dosing recommendations for elderly patients with normal renal function (≥80 ml/min) are the same as for adults with normal renal function.
 However, because elderly patients may have diminished renal function, dose adjustments may be required according to their renal function status (see Renal impairment below).
 INVEGA should be used with caution in elderly patients with dementia with risk factors for stroke (see section 4.4).
 Safety and efficacy of INVEGA in patients > 65 years of age with schizoaffective disorder have not been studied.
@@ -31,15 +31,27 @@ No dose adjustment is required in patients with mild or moderate hepatic impairm
 As INVEGA has not been studied in patients with severe hepatic impairment, caution is recommended in such patients.
 
 Renal impairment
-For patients with mild renal impairment (creatinine clearance ≥ 50 to < 80 ml/min), the recommended initial dose is 3 mg once daily.
+For patients with mild renal impairment (creatinine clearance ≥50 to < 80 ml/min), the recommended initial dose is 3 mg once daily.
 The dose may be increased to 6 mg once daily based on clinical response and tolerability.
 
-For patients with moderate to severe renal impairment (creatinine clearance ≥ 10 to < 50 ml/min), the recommended initial dose of INVEGA is 1.5 mg every day, which may be increased to 3 mg once daily after clinical reassessment.
+For patients with moderate to severe renal impairment (creatinine clearance ≥10 to < 50 ml/min), the recommended initial dose of INVEGA is 1.5 mg every day, which may be increased to 3 mg once daily after clinical reassessment.
 As INVEGA has not been studied in patients with creatinine clearance below 10 ml/min, use is not recommended in such patients.
 
 Paediatric population
-Schizophrenia and schizoaffective disorders: There is no relevant use of INVEGA in children aged less than 12 years.
-The safety and efficacy of INVEGA in children aged 12 to 17 years has not been established.
+Schizophrenia: The recommended starting dose of INVEGA for the treatment of schizophrenia in adolescents 15 years and older is 3 mg once daily, administered in the morning.
+
+Adolescents weighing < 51 kg: the maximum recommended daily dose of INVEGA is 6 mg.
+
+Adolescents weighing ≥51 kg: the maximum recommended daily dose of INVEGA is 12 mg.
+
+Dosage adjustment, if indicated, should occur only after clinical reassessment based on the individual need of the patient.
+When dose increases are indicated, increments of 3 mg/day are recommended and generally should occur at intervals of 5 days or more.
+The safety and efficacy of INVEGA in the treatment of schizophrenia in adolescents between 12 and 14 years old has not been established.
+Currently available data are described in section 4.8 and 5.1 but no recommendation on a posology can be made.
+There is no relevant use of INVEGA in children aged less than 12 years.
+
+Schizoaffective disorder: The safety and efficacy of INVEGA in the treatment of schizoaffective disorder in patients aged 12 to 17 years has not been studied or established.
+There is no relevant use of INVEGA in children aged less than 12 years.
 
 Other special populations
 No dose adjustment for INVEGA is recommended based on gender, race, or smoking status.

@@ -23,11 +23,11 @@ The PANSS is a validated multi-item inventory composed of five factors to evalua
 All tested doses of INVEGA separated from placebo on day 4 (p<0.05).
 Predefined secondary endpoints included the Personal and Social Performance (PSP) scale and the Clinical Global Impression – Severity (CGI-S) scale.
 In all three studies, INVEGA was superior to placebo on PSP and CGI-S.
-Efficacy was also evaluated by calculation of treatment response (defined as decrease in PANSS Total Score ≥ 30%) as a secondary endpoint.
-Schizophrenia Studies: Positive and Negative Syndrome Scale for Schizophrenia (PANSS) Total Score - Change From Baseline to End Point- LOCF for Studies R076477-SCH-303, R076477-SCH-304, and R076477-SCH-305: Intent-to-Treat Analysis Set
+Efficacy was also evaluated by calculation of treatment response (defined as decrease in PANSS Total Score ≥30%) as a secondary endpoint.
 
-|  | Placebo | INVEGA 3 mg | INVEGA 6 mg | INVEGA 9 mg | INVEGA 12 mg |
+| Schizophrenia Studies: Positive and Negative Syndrome Scale for Schizophrenia (PANSS) Total Score - Change From Baseline to End Point - LOCF for Studies R076477-SCH-303, R076477-SCH-304, and R076477-SCH-305: Intent-to-Treat Analysis Set |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
+|  | Placebo | INVEGA 3 mg | INVEGA 6 mg | INVEGA 9 mg | INVEGA 12 mg |
 | R076477-SCH-303 Mean baseline (SD) Mean change (SD) P-value (vs, Placebo) Diff. of LS Means (SE) | (N=126) 94.1 (10.74) -4.1 (23.16) |  | (N=123) 94.3 (10.48) -17.9 (22.23) <0.001 -13.7 (2.63) | (N=122) 93.2 (11.90) -17.2 (20.23) <0.001 -13.5 (2.63) | (N=129) 94.6 (10.98) -23.3 (20.12) <0.001 -18.9 (2.60) |
 | R076477-SCH-304 Mean baseline (SD) Mean change (SD) P-value (vs, Placebo) Diff. of LS Means (SE) | (N=105) 93.6 (11.71) -8.0 (21.48) |  | (N=111) 92.3 (11.96) -15.7 (18.89) 0.006 -7.0 (2.36) |  | (N=111) 94.1 (11.42) -17.5 (19.83) <0.001 -8.5 (2.35) |
 | R076477-SCH-305 Mean baseline (SD) Mean change (SD) P-value (vs, Placebo) Diff. of LS Means (SE) | (N=120) 93.9 (12.66) -2.8 (20.89) | (N=123) 91.6 (12.19) -15.0 (19.61) <0.001 -11.6 (2.35) |  | (N=123) 93.9 (13.20) -16.3 (21.81) <0.001 -12.9 (2.34) |  |
@@ -73,13 +73,13 @@ An effect of INVEGA on depressive symptoms has not been demonstrated.
 
 An examination of population subgroups did not reveal any evidence of differential responsiveness on the basis of gender, age, or geographic region.
 There were insufficient data to explore differential effects based on race.
-Efficacy was also evaluated by calculation of treatment response (defined as decrease in PANSS Total Score ≥ 30% and CGI-C Score ≤ 2) as a secondary endpoint.
-Schizoaffective Disorder Studies: Primary Efficacy Parameter, PANSS Total Score Change from Baseline from Studies R076477-SCA-3001 and R076477-SCA-3002: Intent-to-Treat Analysis Set
+Efficacy was also evaluated by calculation of treatment response (defined as decrease in PANSS Total Score ≥30% and CGI-C Score ≤2) as a secondary endpoint.
 
-|  | Placebo | INVEGA Lower Dose (3-6 mg) | INVEGA Higher Dose (9-12 mg) | INVEGA Flexible Dose (3-12 mg) |
+| Schizoaffective Disorder Studies: Primary Efficacy Parameter, PANSS Total Score Change from Baseline from Studies R076477-SCA-3001 and R076477-SCA-3002: Intent-to-Treat Analysis Set |  |  |  |  |
 | --- | --- | --- | --- | --- |
+|  | Placebo | INVEGA Lower Dose (3-6 mg) | INVEGA Higher Dose (9-12 mg) | INVEGA Flexible Dose (3-12 mg) |
 | R076477-SCA-3001 Mean baseline (SD) Mean change (SD) P-value (vs. Placebo) Diff. of LS Means (SE) | (N=107) 91.6 (12.5) -21.7 (21.4) | (N=105) 95.9 (13.0) -27.4 (22.1) 0.187 -3.6 (2.7) | (N=98) 92.7 (12.6) -30.6 (19.1) 0.003 -8.3 (2.8) |  |
-| R076477-SCH-3002 Mean baseline (SD) Mean change (SD) P-value (vs. Placebo) Diff. of LS Means (SE) | (N=93) 91.7 (12.1) -10.8 (18.7) |  |  | (N=211) 92.3 (13.5) -20.0 (20.23) <0.001 -13.5 (2.63) |
+| R076477-SCA-3002 Mean baseline (SD) Mean change (SD) P-value (vs. Placebo) Diff. of LS Means (SE) | (N=93) 91.7 (12.1) -10.8 (18.7) |  |  | (N=211) 92.3 (13.5) -20.0 (20.23) <0.001 -13.5 (2.63) |
 
 Note: Negative change in score indicates improvement.
 LOCF = last observation carried forward.
@@ -88,16 +88,62 @@ LOCF = last observation carried forward.
 | --- | --- | --- | --- | --- |
 |  | Placebo | INVEGA Lower Dose (3-6 mg) | INVEGA Higher Dose (9-12 mg) | INVEGA Flexible Dose (3-12 mg) |
 | R076477-SCA-3001 N Responder, n (%) Non-responder, n (%) P value (vs Placebo) | 107 43 (40.2) 64 (59.8) -- | 104 59 (56.7) 45 (43.3) 0.008 | 98 61 (62.2) 37 (37.8) 0.001 |  |
-| R076477-SCA-3002 N Responder, n (%) Non-responder, n (%) P value (vs Placebo) | 93 26 (28.0) 67 (72.0) -- |  |  | 210 85 (40.5) 125 (59.5) 0.046 |
-| Response defined as decrease from baseline in PANSS Total Score ≥ 30% and CGI-C Score ≤ 2 |  |  |  |  |
+
+R076477-SCA-3002
+N 93 210
+Responder, n (%) 26 (28.0) 85 (40.5)
+Non-responder, n (%) 67 (72.0) 125 (59.5)
+P value (vs Placebo) -- 0.046
+
+Response defined as decrease from baseline in PANSS Total Score ≥30% and CGI-C Score ≤2
 
 Paediatric population
 The European Medicines Agency has waived the obligation to submit the results of studies with INVEGA in all subsets of the paediatric population in the treatment of schizoaffective disorders.
-See 4.2 for information on paediatric use.
+See section 4.2 for information on paediatric use.
+
+The efficacy of INVEGA in the treatment of schizophrenia in adolescents between 12 and 14 years old has not been established.
+
+The efficacy of INVEGA in adolescent subjects with schizophrenia (INVEGA N = 149, placebo N = 51) was studied in a randomised, double-blind, placebo-controlled, 6-week study using a fixed-dose weight-based treatment group design over the dose range of 1.5 mg/day to 12 mg/day.
+Subjects were 12-17 years of age and met DSM-IV criteria for schizophrenia.
+Efficacy was evaluated using PANSS.
+This study demonstrated the efficacy of INVEGA of the medium dose group in adolescent subjects with schizophrenia.
+Secondary by dose analysis demonstrated the efficacy of 3 mg, 6 mg, and 12 mg dose given once daily.
+
+| Adolescent Schizophrenia Study: R076477-PSZ-3001: 6-week, fixed-dose, placebo-controlled Intent-to-Treat Analysis Set. LOCF endpoint change from baseline |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Placebo N=51 | INVEGA Low Dose 1.5 mg N=54 | INVEGA Medium Dose 3 or 6 mg* N=48 | INVEGA High Dose 6 or 12 mg** N=47 |
+| Change in PANSS Score Mean baseline (SD) Mean change (SD) P-value (vs Placebo) Diff. of LS Means (SE) | 90.6 (12.13) -7.9 (20.15) | 91.6 (12.54) -9.8 (16.31) 0.508 -2.1 (3.17) | 90.6 (14.01) -17.3 (14.33) 0.006 -10.1 (3.27) | 91.5 (13.86) -13.8 (15.74) 0.086 -6.6 (3.29) |
+| Responder Analysis Responder, n (%) Non-responder, n (%) P value (vs Placebo) | 17 (33.3) 34 (66.7) | 21 (38.9) 33 (61.1) 0.479 | 31 (64.6) 17 (35.4) 0.001 | 24 (51.1) 23 (48.9) 0.043 |
+
+Response defined as decrease from baseline in PANSS Total Score ≥20%
+Note: Negative change in score indicates improvement.
+LOCF = last observation carried forward.
+* Medium dose group: 3 mg for subjects < 51 kg, 6 mg for subjects ≥51 kg
+** High dose group: 6 mg for subjects < 51 kg, 12 mg for subjects ≥51 kg
+
+Efficacy of INVEGA over a flexible dose range of 3 mg/day to 9 mg/day in adolescent subjects
+(12 years and older) with schizophrenia (INVEGA N = 112, aripiprazole N = 114) was also evaluated in a randomised, double-blind, active-controlled study that included an 8-week, double-blind acute phase and an 18-week, double-blind maintenance phase.
+The changes in PANSS total scores from baseline to Week 8 and Week 26 were numerically similar between the INVEGA and aripiprazole treatment groups.
+In addition, the difference in the percentage of patients demonstrating ≥20% improvement in PANSS total score at Week 26 between the two treatment groups was numerically similar.
+
+| Adolescent Schizophrenia Study: R076477-PSZ-3003: 26-week, flexible-dose, active-controlled Intent-to-Treat Analysis Set. LOCF endpoint change from baseline |  |  |
+| --- | --- | --- |
+|  | INVEGA 3-9 mg N=112 | Aripiprazole 5-15 mg N=114 |
+| Change in PANSS Score 8 week, acute endpoint Mean baseline (SD) Mean change (SD) P-value (vs aripiprazole) Diff. of LS Means (SE) | 89.6 (12.22) -19.3 (13.80) 0.935 0.1 (1.83) | 92.0 (12.09) -19.8 (14.56) |
+| Change in PANSS Score 26 week endpoint Mean baseline (SD) Mean change (SD) P-value (vs aripiprazole) Diff. of LS Means (SE) | 89.6 (12.22) -25.6 (16.88) 0.877 -0.3 (2.20) | 92.0 (12.09) -26.8 (18.82) |
+| Responder Analysis 26 week endpoint Responder, n (%) Non-responder, n (%) P value (vs aripiprazole) | 86 (76.8) 26 (23.2) 0.444 | 93 (81.6) 21 (18.4) |
+
+Response defined as decrease from baseline in PANSS Total Score ≥20%
+Note: Negative change in score indicates improvement.
+LOCF = last observation carried forward.
 
 [INVEGA 3 mg prolonged-release tablets]
 
-(all sentences already above)
+| Schizoaffective Disorder Studies: Secondary Efficacy Parameter, Proportion of Subjects with Responder Status at LOCF End Point: Studies R076477-SCA-3001 and R076477-SCA-3002: Intent-to-Treat Analysis Set |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Placebo | INVEGA Lower Dose (3-6 mg) | INVEGA Higher Dose (9-12 mg) | INVEGA Flexible Dose (3-12 mg) |
+| R076477-SCA-3001 N Responder, n (%) Non-responder, n (%) P value (vs Placebo) | 107 43 (40.2) 64 (59.8) -- | 104 59 (56.7) 45 (43.3) 0.008 | 98 61 (62.2) 37 (37.8) 0.001 |  |
+| R076477-SCA-3002 N Responder, n (%) Non-responder, n (%) P value (vs Placebo) | 93 26 (28.0) 67 (72.0) -- |  |  | 210 85 (40.5) 125 (59.5) 0.046 |
 
 [INVEGA 6 mg prolonged-release tablets]
 
@@ -109,12 +155,4 @@ See 4.2 for information on paediatric use.
 
 [INVEGA 12 mg prolonged-release tablets]
 
-|  | Placebo | INVEGA Lower Dose (3-6 mg) | INVEGA Higher Dose (9-12 mg) | INVEGA Flexible Dose (3-12 mg) |
-| --- | --- | --- | --- | --- |
-| R076477-SCA-3001 Mean baseline (SD) Mean change (SD) P-value (vs. Placebo) Diff. of LS Means (SE) | (N=107) 91.6 (12.5) -21.7 (21.4) | (N=105) 95.9 (13.0) -27.4 (22.1) 0.187 -3.6 (2.7) | (N=98) 92.7 (12.6) -30.6 (19.1) 0.003 -8.3 (2.8) |  |
-
-R076477-SCH-3002 (N=93) (N=211)
-Mean baseline (SD) 91.7 (12.1) 92.3 (13.5)
-Mean change (SD) -10.8 (18.7) -20.0 (20.23)
-P-value (vs. Placebo) <0.001
-Diff. of LS Means (SE) -13.5 (2.63)
+(all sentences already above)

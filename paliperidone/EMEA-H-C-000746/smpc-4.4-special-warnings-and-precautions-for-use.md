@@ -4,6 +4,7 @@ Patients with schizoaffective disorder treated with paliperidone should be caref
 
 QT interval
 Caution should be exercised when INVEGA is prescribed in patients with known cardiovascular disease or family history of QT prolongation, and in concomitant use with other medicines thought to prolong the QT interval.
+
 Neuroleptic malignant syndrome
 Neuroleptic Malignant Syndrome (NMS), characterised by hyperthermia, muscle rigidity, autonomic instability, altered consciousness, and elevated serum creatine phosphokinase levels has been reported to occur with paliperidone.
 Additional clinical signs may include myoglobinuria (rhabdomyolysis) and acute renal failure.
@@ -40,6 +41,7 @@ Orthostatic hypotension
 Paliperidone may induce orthostatic hypotension in some patients based on its alpha-blocking activity.
 Based on pooled data from the three, placebo-controlled, 6-week, fixed-dose trials with INVEGA (3, 6, 9, and 12 mg), orthostatic hypotension was reported by 2.5% of subjects treated with INVEGA compared with 0.8% of subjects treated with placebo.
 INVEGA should be used with caution in patients with known cardiovascular disease (e.g., heart failure, myocardial infarction or ischaemia, conduction abnormalities), cerebrovascular disease, or conditions that predispose the patient to hypotension (e.g., dehydration and hypovolemia).
+
 Seizures
 INVEGA should be used cautiously in patients with a history of seizures or other conditions that potentially lower the seizure threshold.
 
@@ -71,7 +73,6 @@ Cerebrovascular adverse reactions
 An approximately 3-fold increased risk of cerebrovascular adverse reactions have been seen in randomised placebo-controlled clinical trials in the dementia population with some atypical antipsychotics, including risperidone, aripiprazole, and olanzapine.
 The mechanism for this increased risk is not known.
 INVEGA should be used with caution in elderly patients with dementia who have risk factors for stroke.
-
 Parkinson’s disease and dementia with Lewy bodies
 Physicians should weigh the risks versus the benefits when prescribing INVEGA to patients with Parkinson’s Disease or Dementia with Lewy Bodies (DLB) since both groups may be at increased risk of Neuroleptic Malignant Syndrome as well as having an increased sensitivity to antipsychotics.
 Manifestation of this increased sensitivity can include confusion, obtundation, postural instability with frequent falls, in addition to extrapyramidal symptoms.
@@ -92,6 +93,16 @@ Since patients treated with antipsychotics often present with acquired risk fact
 Antiemetic effect
 An antiemetic effect was observed in preclinical studies with paliperidone.
 This effect, if it occurs in humans, may mask the signs and symptoms of overdosage with certain medicines or of conditions such as intestinal obstruction, Reye’s syndrome, and brain tumour.
+
+Paediatric population
+The sedative effect of INVEGA should be closely monitored in this population.
+A change in the time of administration of INVEGA may improve the impact of sedation on the patient.
+
+Because of the potential effects of prolonged hyperprolactinemia on growth and sexual maturation in adolescents, regular clinical evaluation of endocrinological status should be considered, including measurements of height, weight, sexual maturation, monitoring of menstrual functioning, and other potential prolactin-related effects.
+
+During treatment with INVEGA regular examination for extrapyramidal symptoms and other movement disorders should also be conducted.
+
+For specific posology recommendations in the paediatric population see section 4.2.
 
 Intraoperative Floppy Iris Syndrome
 Intraoperative floppy iris syndrome (IFIS) has been observed during cataract surgery in patients treated with medicines with alpha1a-adrenergic antagonist effect, such as INVEGA (see section 4.8).

@@ -12,6 +12,7 @@ Paliperidone may antagonise the effect of levodopa and other dopamine agonists.
 If this combination is deemed necessary, particularly in end-stage Parkinson’s disease, the lowest effective dose of each treatment should be prescribed.
 
 Because of its potential for inducing orthostatic hypotension (see section 4.4), an additive effect may be observed when INVEGA is administered with other therapeutic agents that have this potential, e.g., other antipsychotics, tricyclics.
+
 Caution is advised if paliperidone is combined with other medicines known to lower the seizure threshold (i.e., phenothiazines or butyrophenones, clozapine, tricyclics or SSRIs, tramadol, mefloquine, etc.).
 
 No interaction study between INVEGA and lithium has been performed, however, a pharmacokinetic interaction is unlikely to occur.
@@ -32,7 +33,6 @@ On initiation of carbamazepine, the dose of INVEGA should be re-evaluated and in
 Conversely, on discontinuation of carbamazepine, the dose of INVEGA should be re-evaluated and decreased if necessary.
 It takes 2-3 weeks for full induction to be achieved and upon discontinuation of the inducer the effect wears off over a similar time period.
 Other medicinal products or herbals which are inducers, e.g. rifampicin and St John´s wort (Hypericum perforatum) may have similar effects on paliperidone.
-
 Medicinal products affecting gastrointestinal transit time may affect the absorption of paliperidone, e.g., metoclopramide.
 
 Co-administration of a single dose of INVEGA 12 mg with divalproex sodium prolonged-release tablets (two 500 mg tablets once daily) resulted in an increase of approximately 50% in the Cmax and AUC of paliperidone.
@@ -40,3 +40,6 @@ Dosage reduction for INVEGA should be considered when INVEGA is co-administered 
 
 Concomitant use of INVEGA with risperidone
 Concomitant use of INVEGA with oral risperidone is not recommended as paliperidone is the active metabolite of risperidone and the combination of the two may lead to additive paliperidone exposure.
+
+Paediatric population
+Interaction studies have only been performed in adults.
