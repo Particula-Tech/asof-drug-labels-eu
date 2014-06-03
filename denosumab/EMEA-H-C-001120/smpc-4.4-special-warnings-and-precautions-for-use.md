@@ -35,7 +35,7 @@ Atypical fractures of the femur
 Atypical femoral fractures have been reported in patients receiving Prolia (see section 4.8).
 Atypical femoral fractures may occur with little or no trauma in the subtrochanteric and diaphyseal regions of the femur.
 Specific radiographic findings characterize these events.
-Atypical femoral fractures have also been reported in patients with certain comorbid conditions (e.g. vitamin D deficiency, rheumatoid arthiritis, hypophosphatasia) and with use of certain pharmaceutical agents (e.g.bisphosphonates, glucocorticoids, proton pump inhibitors).
+Atypical femoral fractures have also been reported in patients with certain comorbid conditions (e.g. vitamin D deficiency, rheumatoid arthritis, hypophosphatasia) and with use of certain pharmaceutical agents (e.g. bisphosphonates, glucocorticoids, proton pump inhibitors).
 These events have also occurred without antiresorptive therapy.
 Similar fractures reported in association with bisphosphonates are often bilateral; therefore the contralateral femur should be examined in Prolia-treated patients who have sustained a femoral shaft fracture.
 Discontinuation of Prolia therapy in patients suspected to have an atypical femur fracture should be considered pending evaluation of the patient based on an individual benefit risk assessment.

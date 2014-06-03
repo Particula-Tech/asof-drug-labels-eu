@@ -11,7 +11,6 @@ Its metabolism and elimination are expected to follow the immunoglobulin clearan
 Elimination
 After Cmax, serum levels declined with a half-life of 26 days (range 6-52 days) over a period of 3 months (range 1.5-4.5 months).
 Fifty-three percent (53%) of patients had no measurable amounts of denosumab detected at 6 months post-dose.
-
 No accumulation or change in denosumab pharmacokinetics with time was observed upon subcutaneous multiple-dosing of 60 mg once every 6 months.
 Denosumab pharmacokinetics was not affected by the formation of binding antibodies to denosumab and was similar in men and women.
 Age (28-87 years), race and disease state (low bone mass or osteoporosis; prostate or breast cancer) do not appear to significantly affect the pharmacokinetics of denosumab.
@@ -21,6 +20,7 @@ However, the trend is not considered clinically important, since pharmacodynamic
 
 Linearity/non-linearity
 In dose ranging studies, denosumab exhibited non-linear, dose-dependent pharmacokinetics, with lower clearance at higher doses or concentrations, but approximately dose-proportional increases in exposures for doses of 60 mg and greater.
+
 Renal impairment
 In a study of 55 patients with varying degrees of renal function, including patients on dialysis, the degree of renal impairment had no effect on the pharmacokinetics of denosumab.
 
