@@ -11,7 +11,7 @@ Dabigatran etexilate should be used with caution in conditions with an increased
 Bleeding can occur at any site during therapy with dabigatran etexilate.
 An unexplained fall in haemoglobin and/or haematocrit or blood pressure should lead to a search for a bleeding site.
 
-Factors, such as decreased renal function (30-50 mL/min CrCL), age ≥ 75 years, low body weight
+Factors, such as decreased renal function (30-50 mL/min CrCL), age ≥75 years, low body weight
 < 50 kg, or mild to moderate P-gp inhibitor co-medication (e.g. amiodarone, quinidine or verapamil) are associated with increased dabigatran plasma levels (see sections 4.2, 4.5 and 5.2).
 
 The concomitant use of ticagrelor increases the exposure to dabigatran and may show pharmacodynamic interaction, which may result in an increased risk of bleeding (see section 4.5).
@@ -26,7 +26,7 @@ Close clinical surveillance (looking for signs of bleeding or anaemia) is recomm
 Table 1 summarises factors which may increase the haemorrhagic risk.
 Please also refer to contraindications in section 4.3.
 
-| Pharmacodynamic and kinetic factors | Age ≥ 75 years |
+| Pharmacodynamic and kinetic factors | Age ≥75 years |
 | --- | --- |
 | Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment (30-50 mL/min CrCL) • P-gp inhibitor co-medication (some P-gp inhibitors are contraindicated, see section 4.3 and 4.5) Minor: • Low body weight (< 50 kg) |
 | Pharmacodynamic interactions | • ASA • NSAID • Clopidogrel • SSRIs or SNRIs • Other drugs which may impair haemostasis |
@@ -82,9 +82,9 @@ Table 3 summarises discontinuation rules before invasive or surgical procedures.
 | Renal function (CrCL in mL/min) | Estimated half-life (hours) | Stop dabigatran before elective surgery |  |
 | --- | --- | --- | --- |
 |  |  | High risk of bleeding or major surgery | Standard risk |
-| ≥ 80 | ~ 13 | 2 days before | 24 hours before |
-| ≥ 50-< 80 | ~ 15 | 2-3 days before | 1-2 days before |
-| ≥ 30-< 50 | ~ 18 | 4 days before | 2-3 days before (> 48 hours) |
+| ≥80 | ~ 13 | 2 days before | 24 hours before |
+| ≥50-< 80 | ~ 15 | 2-3 days before | 1-2 days before |
+| ≥30-< 50 | ~ 18 | 4 days before | 2-3 days before (> 48 hours) |
 
 If an acute intervention is required, dabigatran etexilate should be temporarily discontinued.
 A surgery / intervention should be delayed if possible until at least 12 hours after the last dose.
@@ -119,13 +119,13 @@ Pradaxa hard capsules contain the colorant sunset yellow (E110), which may cause
 
 [Pradaxa 110 mg hard capsules]
 
-Patients with elevated liver enzymes > 2 ULN were excluded in controlled clinical trials investigating the VTE prevention following elective hip or knee replacement surgery as well as in the study investigating the prevention of stroke and SEE associated with atrial fibrillation.
+Patients with elevated liver enzymes > 2 ULN were excluded in the main trials.
 
 In a study of prevention of stroke and SEE in adult patients with NVAF, dabigatran etexilate was associated with higher rates of major gastrointestinal (GI) bleeding which was statistically significant for dabigatran etexilate 150 mg twice daily.
-This increased risk was seen in the elderly (≥ 75 years).
+This increased risk was seen in the elderly (≥75 years).
 In these atrial fibrillationpatients a dosage of 220 mg dabigatran given as 110 mg capsule twice daily should be considered and posology recommendations in section 4.2 be followed.
 
-| Pharmacodynamic and kinetic factors | Age ≥ 75 years |
+| Pharmacodynamic and kinetic factors | Age ≥75 years |
 | --- | --- |
 | Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment (30-50 mL/min CrCL) • P-gp inhibitor co-medication (some P-gp inhibitors are contraindicated, see section 4.3 and 4.5) Minor: • Low body weight (< 50 kg) |
 | Pharmacodynamic interactions | • ASA • NSAID • Clopidogrel • SSRIs or SNRIs • Other drugs which may impair haemostasis |
@@ -135,7 +135,7 @@ The presence of lesions, conditions, procedures and/or pharmacological treatment
 
 | Test (trough value) | Indication |  |
 | --- | --- | --- |
-|  | Prevention of VTE | Prevention of stroke and SEE |
+|  | pVTEp orthopaedic surgery | SPAF and DVT/PE |
 | dTT [ng/mL] | > 67 | > 200 |
 | ECT [x-fold upper limit of normal] | No data | > 3 |
 | aPTT [x-fold upper limit of normal] | > 1.3 | > 2 |
@@ -143,28 +143,34 @@ The presence of lesions, conditions, procedures and/or pharmacological treatment
 
 This risk of bleeding should be weighed against the urgency of intervention (for cardioversion see section 4.2).
 
-Myocardial Infarction
+Myocardial Infarction (SPAF)
 
 In the phase III study RE-LY (see section 5.1.) the overall rate of myocardial infarction (MI) was 0.82, 0.81, and 0.64 % / year for dabigatran etexilate 110 mg twice daily, dabigatran etexilate 150 mg twice daily and warfarin, respectively, an increase in relative risk for dabigatran of 29 % and 27 % compared to warfarin.
-Irrespective of therapy, the highest absolute risk of MI was seen in the following subgroups, with similar relative risk: patients with previous MI, patients ≥ 65 years with either diabetes or coronary artery disease, patients with left ventricular ejection fraction < 40 %, and patients with moderate renal dysfunction.
+Irrespective of therapy, the highest absolute risk of MI was seen in the following subgroups, with similar relative risk: patients with previous MI, patients ≥65 years with either diabetes or coronary artery disease, patients with left ventricular ejection fraction < 40 %, and patients with moderate renal dysfunction.
 Furthermore a higher risk of MI was seen in patients concomitantly taking ASA plus clopidogrel or clopidogrel alone.
+Myocardial Infarction (DVT/PE)
+
+In the three active controlled studies, a higher rate of MI was reported in patients who received dabigatran etexilate than in those who received warfarin: 0.4% vs. 0.2% in the short-term RE-COVER and RE-COVER II studies; and 0.8% vs. 0.1% in the long-term RE-MEDY trial.
+The increase was statistically significant in this study (p=0.022).
+
+In the RE-SONATE study, which compared dabigatran etexilate to placebo, the rate of MI was 0.1% for patients who received dabigatran etexilate and 0.2% for patients who received placebo
+
+Active Cancer Patients (DVT/PE)
+
+The efficacy and safety have not been established for DVT/PE patients with active cancer.
 
 [Pradaxa 150 mg hard capsules]
 
-Patients with elevated liver enzymes > 2 ULN were excluded from the study investigating the prevention of stroke and SEE associated with atrial fibrillation.
+Patients with elevated liver enzymes > 2 ULN were excluded from the main trials.
 
 Use of acetylsalicylic acid (ASA), clopidogrel or non steroidal antiinflammatory drug (NSAID), as well as the presence of esophagitis, gastritis or gastroesophageal reflux requiring increase the risk of GI bleeding.
 
-| Pharmacodynamic and kinetic factors | Age ≥ 75 years |
+| Test (trough value) | Indication |
 | --- | --- |
-| Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment (30-50 mL/min CrCL) • P-gp inhibitor co-medication (some P-gp inhibitors are contraindicated, see section 4.3 and 4.5) Minor: • Low body weight (< 50 kg) |
-| Pharmacodynamic interactions | • ASA |
-|  | • NSAID • Clopidogrel • SSRIs or SNRIs • Other drugs which may impair haemostasis |
-| Diseases / procedures with special haemorrhagic risks | • Congenital or acquired coagulation disorders • Thrombocytopenia or functional platelet defects • Recent biopsy, major trauma • Bacterial endocarditis • Esophagitis, gastritis or gastroesophageal reflux |
-
-| Test (trough value) |  |
-| --- | --- |
+|  | SPAF and DVT/PE |
 | dTT [ng/mL] | > 200 |
 | ECT [x-fold upper limit of normal] | > 3 |
 | aPTT [x-fold upper limit of normal] | > 2 |
 | INR | Should not be performed |
+
+The efficacy and safety have not been fully established for DVT/PE patients with active cancer.

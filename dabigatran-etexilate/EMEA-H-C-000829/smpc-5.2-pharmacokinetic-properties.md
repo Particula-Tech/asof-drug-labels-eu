@@ -26,7 +26,6 @@ Plasma concentrations of dabigatran showed a biexponential decline with a mean t
 After multiple doses a terminal half-life of about 12-14 hours was observed.
 The half-life was independent of dose.
 Half-life is prolonged if renal function is impaired as shown in table 9.
-
 Biotransformation
 
 Metabolism and excretion of dabigatran were studied following a single intravenous dose of radiolabeled dabigatran in healthy male subjects.
@@ -37,6 +36,7 @@ Dabigatran is subject to conjugation forming pharmacologically active acylglucur
 Four positional isomers, 1-O, 2-O, 3-O, 4-O-acylglucuronide exist, each accounts for less than 10 % of total dabigatran in plasma.
 Traces of other metabolites were only detectable with highly sensitive analytical methods.
 Dabigatran is eliminated primarily in the unchanged form in the urine, at a rate of approximately 100 mL/min corresponding to the glomerular filtration rate.
+
 Special populations
 
 Renal insufficiency
@@ -48,9 +48,9 @@ Table 9: Half-life of total dabigatran in healthy subjects and subjects with imp
 
 | glomerular filtration rate (CrCL,) [mL/min] | gMean (gCV%; range) half-life [h] |
 | --- | --- |
-| ≥ 80 | 13.4 (25.7 %; 11.0-21.6) |
-| ≥ 50-< 80 | 15.3 (42.7 %;11.7-34.1) |
-| ≥ 30-< 50 | 18.4 (18.5 %;13.3-23.0) |
+| ≥80 | 13.4 (25.7 %; 11.0-21.6) |
+| ≥50-< 80 | 15.3 (42.7 %;11.7-34.1) |
+| ≥30-< 50 | 18.4 (18.5 %;13.3-23.0) |
 | < 30 | 27.2(15.3 %; 21.6-35.0) |
 
 Clearance of dabigatran by haemodialysis was investigated in 7 patients with end-stage renal disease (ESRD) without atrial fibrillation.
@@ -61,14 +61,13 @@ The anticoagulant activity of dabigatran decreased with decreasing plasma concen
 
 Elderly patients
 Specific pharmacokinetic phase I studies with elderly subjects showed an increase of 40 to 60 % in the AUC and of more than 25 % in Cmax compared to young subjects.
-The effect by age on exposure to dabigatran was confirmed in the RE-LY study with an about 31 % higher trough concentration for subjects ≥ 75 years and by about 22 % lower trough level for subjects < 65 years compared to subjects between 65 and 75 years (see sections 4.2 and 4.4).
+The effect by age on exposure to dabigatran was confirmed in the RE-LY study with an about 31 % higher trough concentration for subjects ≥75 years and by about 22 % lower trough level for subjects < 65 years compared to subjects between 65 and 75 years (see sections 4.2 and 4.4).
 
 Hepatic impairment
 No change in dabigatran exposure was seen in 12 subjects with moderate hepatic insufficiency (Child Pugh B) compared to 12 controls (see sections 4.2 and 4.4).
-
 Body weight
 The dabigatran trough concentrations were about 20 % lower in patients with a body weight > 100 kg compared with 50-100 kg.
-The majority (80.8 %) of the subjects were in the ≥ 50 kg and < 100 kg category with no clear difference detected (see sections 4.2 and 4.4).
+The majority (80.8 %) of the subjects were in the ≥50 kg and < 100 kg category with no clear difference detected (see sections 4.2 and 4.4).
 Limited clinical data in patients < 50 kg are available.
 
 Gender
@@ -76,6 +75,7 @@ Active substance exposure in the primary VTE prevention studies was about 40 % t
 
 Ethnic origin
 No clinically relevant inter-ethnic differences among Caucasian, African-American, Hispanic, Japanese or Chinese patients were observed regarding dabigatran pharmacokinetics and pharmacodynamics.
+
 Pharmacokinetic interactions
 
 The pro-drug dabigatran etexilate but not dabigatran is a substrate of the efflux transporter P-gp.
@@ -86,20 +86,29 @@ This has been confirmed by in vivo studies with healthy volunteers, who did not 
 
 [Pradaxa 110 mg hard capsules]
 
-Half-life is prolonged if renal function is impaired as shown in table 15.
+Half-life is prolonged if renal function is impaired as shown in table 21.
 
-Table 15: Half-life of total dabigatran in healthy subjects and subjects with impaired renal function.
+Table 21: Half-life of total dabigatran in healthy subjects and subjects with impaired renal function.
 
 | glomerular filtration rate (CrCL,) [mL/min] | gMean (gCV %; range) half-life [h] |
 | --- | --- |
-| ≥ 80 | 13.4 (25.7 %; 11.0-21.6) |
-| ≥ 50-< 80 | 15.3 (42.7 %;11.7-34.1) |
-| ≥ 30-< 50 | 18.4 (18.5 %;13.3-23.0) |
-| < 30 | 27.2(15.3 %; 21.6-35.0) |
+| ≥80 | 13.4 (25.7 %; 11.0-21.6) |
+| ≥50-< 80 | 15.3 (42.7 %;11.7-34.1) |
+| ≥30-< 50 | 18.4 (18.5 %;13.3-23.0) |
+
+< 30 27.2(15.3 %; 21.6-35.0)
 
 The median CrCL in RE-LY was 68.4 mL/min.
 Almost half (45.8 %) of the RE-LY patients had a CrCL > 50-< 80 mL/min.
-Patients with moderate renal impairment (CrCL between 30-50 mL/min) had on average 2.29-fold and 1.81-fold higher pre- and post-dose dabigatran plasma concentrations, respectively, when compared with patients without renal impairment (CrCL ≥ 80 mL/min).
+Patients with moderate renal impairment (CrCL between 30-50 mL/min) had on average 2.29-fold and 1.81-fold higher pre- and post-dose dabigatran plasma concentrations, respectively, when compared with patients without renal impairment (CrCL ≥80 mL/min).
+
+The median CrCL in the RE-COVER study was 100.4 mL/min.
+21.7 % of patients had mild renal impairment (CrCL > 50 - < 80 mL/min) and 4.5% of patients had a moderate renal impairment (CrCL between 30 and 50 mL/min).
+Patients with mild and moderate renal impairment had at steady state an average 1.8-fold and 3.6-fold higher pre-dose dabigatran plasma concentrations compared with patients with CrCL > 80 mL/min, respectively.
+Similar values for CrCL were found in RE-COVER II.
+
+The median CrCL in the RE-MEDY and RE-SONATE studies were 99.0 mL/min and 99.7 mL/min, respectively.
+22.9 % and 22.5 % of the patients had a CrCL > 50-< 80 mL/min, and 4.1 % and 4.8 % had a CrCL between 30 and 50 mL/min in in the RE-MEDY and RE-SONATE studies.
 
 In atrial fibrillation patients females had on average 30 % higher trough and post-dose concentrations.
 No dose adjustment is required (see section 4.2).
@@ -110,10 +119,19 @@ Therefore concomitant use of P-gp transporter inhibitors (amiodarone, verapamil,
 
 Peak plasma concentrations are reached at 6 hours following administration in a postoperative period due to contributing factors such as anaesthesia, GI paresis, and surgical effects independent of the oral medicinal product formulation.
 
-Half-life is prolonged if renal function is impaired as shown in table 11.
+Half-life is prolonged if renal function is impaired as shown in table 17.
 
-Table 11: Half-life of total dabigatran in healthy subjects and subjects with impaired renal function.
+Table 17: Half-life of total dabigatran in healthy subjects and subjects with impaired renal function.
 
-Patients with moderate renal impairment (CrCL between 30 and 50 mL/min) had on average 2.29-fold and 1.81-fold higher pre- and post-dose dabigatran plasma concentrations, respectively, when compared with patients without renal impairment (CrCL ≥ 80 mL/min).
+| glomerular filtration rate (CrCL,) [mL/min] | gMean (gCV %; range) half-life [h] |
+| --- | --- |
+| ≥80 | 13.4 (25.7 %; 11.0-21.6) |
+| ≥50-< 80 | 15.3 (42.7 %;11.7-34.1) |
+| ≥30-< 50 | 18.4 (18.5 %;13.3-23.0) |
+| < 30 | 27.2(15.3 %; 21.6-35.0) |
+
+Patients with moderate renal impairment (CrCL between 30 and 50 mL/min) had on average 2.29-fold and 1.81-fold higher pre- and post-dose dabigatran plasma concentrations, respectively, when compared with patients without renal impairment (CrCL ≥80 mL/min).
+
+Patients with mild and moderate renal impairment had at steady state an average 1.8-fold and 3.6-fold higher pre-dosedabigatran plasma concentrations compared with patients with CrCL > 80 mL/min, respectively.
 
 No dose adjustment is recommended (see section 4.2).

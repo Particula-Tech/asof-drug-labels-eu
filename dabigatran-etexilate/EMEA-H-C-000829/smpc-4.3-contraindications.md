@@ -5,7 +5,7 @@
 - Active clinically significant bleeding
 - Lesion or condition, if considered a significant risk factor for major bleeding.
   This may include current or recent gastrointestinal ulceration, presence of malignant neoplasms at high risk of bleeding, recent brain or spinal injury, recent brain, spinal or ophthalmic surgery, recent intracranial haemorrhage, known or suspected oesophageal varices, arteriovenous malformations, vascular aneurysms or major intraspinal or intracerebral vascular abnormalities
-- Concomitant treatment with any other anticoagulants e.g. unfractionated heparin (UFH), low molecular weight heparins (enoxaparin, dalteparin etc), heparin derivatives (fondaparinux etc), oral anticoagulants (warfarin, rivaroxaban, apixaban etc) except under the circumstances of switching therapy to or from Pradaxa (see section 4.2) or when UFH is given at doses necessary to maintain an open central venous or arterial catheter (see section 4.5)
+- Concomitant treatment with any other anticoagulants e.g. unfractionated heparin (UFH), low molecular weight heparins (enoxaparin, dalteparin etc), heparin derivatives (fondaparinux etc), oral anticoagulants (warfarin, rivaroxaban, apixaban etc) except under specific circumstances of switching anticoagulant therapy (see section 4.2) or when UFH is given at doses necessary to maintain an open central venous or arterial catheter (see section 4.5)
 - Hepatic impairment or liver disease expected to have any impact on survival
-- Concomitant treatment with systemic ketoconazole, cyclosporine, itraconazole, tacrolimus and dronedarone (see section 4.5)
+- Concomitant treatment with systemic ketoconazole, cyclosporine, itraconazole and dronedarone (see section 4.5)
 - Prosthetic heart valves requiring anticoagulant treatment (see section 5.1).

@@ -3,7 +3,6 @@
 Women of childbearing potential / Contraception in males and females
 
 Women of childbearing potential should avoid pregnancy during treatment with dabigatran etexilate.
-
 Pregnancy
 
 There are limited amount of data from the use of dabigatran etexilate in pregnant women.
@@ -20,6 +19,7 @@ Breast-feeding should be discontinued during treatment with Pradaxa.
 Fertility
 
 No human data available.
+
 In animal studies an effect on female fertility was observed in the form of a decrease in implantations and an increase in pre-implantation loss at 70 mg/kg (representing a 5-fold higher plasma exposure level compared to patients).
 No other effects on female fertility were observed.
 There was no influence on male fertility.

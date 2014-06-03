@@ -9,3 +9,5 @@ At doses that were toxic to the mothers (5- to 10-fold the plasma exposure level
 In the pre- and post-natal study, an increase in foetal mortality was observed at doses that were toxic to the dams (a dose corresponding to a plasma exposure level 4-fold higher than observed in patients).
 
 In lifetime toxicology studies in rats and mice, there was no evidence for a tumorigenic potential of dabigatran up to maximum doses of 200 mg/kg.
+
+Dabigatran, the active moiety of dabigatran etexilate mesilate, is persistent in the environment.
