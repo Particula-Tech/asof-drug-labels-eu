@@ -1,3 +1,4 @@
 # 6.3 Shelf life
 
-2 years
+Bottles: 2 years
+Blisters: 3 years

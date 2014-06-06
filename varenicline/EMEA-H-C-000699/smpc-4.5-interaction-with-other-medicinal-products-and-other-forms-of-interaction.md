@@ -2,8 +2,8 @@
 
 Based on varenicline characteristics and clinical experience to date, CHAMPIX has no clinically meaningful drug interactions.
 No dosage adjustment of CHAMPIX or co-administered medicinal products listed below is recommended.
-
 In vitro studies indicate that varenicline is unlikely to alter the pharmacokinetics of compounds that are primarily metabolised by cytochrome P450 enzymes.
+
 Furthermore since metabolism of varenicline represents less than 10% of its clearance, active substances known to affect the cytochrome P450 system are unlikely to alter the pharmacokinetics of varenicline (see section 5.2) and therefore a dose adjustment of CHAMPIX would not be required.
 
 In vitro studies demonstrate that varenicline does not inhibit human renal transport proteins at therapeutic concentrations.

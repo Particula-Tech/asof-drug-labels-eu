@@ -8,16 +8,14 @@ No attempt has been made in either the design or the analysis of the CHAMPIX stu
 Clinical trials included approximately 4,000 patients treated with CHAMPIX for up to 1 year (average exposure 84 days).
 In general, when adverse reactions occurred, onset was in the first week of therapy; severity was generally mild to moderate and there were no differences by age, race or gender with regard to the incidence of adverse reactions.
 
-In patients treated with the recommended dose of 1mg BID following an initial titration period the adverse event most commonly reported was nausea (28.6%).
+In patients treated with the recommended dose of 1 mg BID following an initial titration period the adverse event most commonly reported was nausea (28.6%).
 In the majority of cases nausea occurred early in the treatment period, was mild to moderate in severity and seldom resulted in discontinuation.
 
 The treatment discontinuation rate due to adverse reactions was 11.4% for varenicline compared with 9.7% for placebo.
-In this group, the discontinuation rates for the most common adverse reactions in varenicline treated patients were as follows: nausea (2.7% vs. 0.6% for placebo), headache
-(0.6% vs. 1.0% for placebo), insomnia (1.3% vs. 1.2% for placebo), and abnormal dreams
-(0.2% vs. 0.2% for placebo).
+In this group, the discontinuation rates for the most common adverse reactions in varenicline treated patients were as follows: nausea (2.7% vs. 0.6% for placebo), headache (0.6% vs. 1.0% for placebo), insomnia (1.3% vs. 1.2% for placebo), and abnormal dreams (0.2% vs. 0.2% for placebo).
 
 Tabulated summary of adverse reactions
-In the table below all adverse reactions, which occurred at an incidence greater than placebo are listed by system organ class and frequency (very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100) and rare (≥1/10,000 to <1/1,000)).
+In the table below all adverse reactions, which occurred at an incidence greater than placebo are listed by system organ class and frequency (very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100) and rare (≥ 1/10,000 to < 1/1,000)).
 Reported postmarketing adverse reactions are also included for which frequency is not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
@@ -35,6 +33,8 @@ Not Known Hyperglycaemia, diabetes mellitus
 
 Psychiatric disorders
 Very common Abnormal dreams, insomnia
+System Organ Adverse Drug Reactions
+Class
 
 Uncommon Panic reaction, dysphoria, bradyphrenia, thinking abnormal, restlessness,
 
@@ -44,8 +44,6 @@ Not Known Suicidal ideation, psychosis, aggression, abnormal behaviour,
 
 somnambulism
 Nervous system disorders
-System Organ Adverse Drug Reactions
-Class
 Very common Headache
 
 Common Somnolence, dizziness, dysgeusia
@@ -121,11 +119,7 @@ Uncommon Liver function test abnormal, platelet count decreased, semen abnormal,
 
 C-reactive protein increased, blood calcium decreased, weight increased
 * frequencies are estimated from a post-marketing, observational cohort study
-
-[CHAMPIX 1 mg film-coated tablets]
-
-(all sentences already above)
-
-[CHAMPIX 0.5 mg film-coated tablets (SmPC 3)]
-
-In this group, the discontinuation rates for the most common adverse reactions in varenicline treated patients were as follows: nausea (2.7% vs. 0.6% for placebo), headache (0.6% vs. 1.0% for placebo), insomnia (1.3% vs. 1.2% for placebo), and abnormal dreams (0.2% vs. 0.2% for placebo).
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
