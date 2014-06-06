@@ -13,7 +13,7 @@ Furthermore, giant migrating contractions are induced by prucalopride.
 These are equivalent to the colonic mass movements in humans, and provide the main propulsive force to defecation.
 In dogs, the effects observed in the gastrointestinal tract are sensitive to blockade with selective 5-HT4 receptor antagonists illustrating that the observed effects are exerted via selective action on 5-HT4 receptors.
 
-Clinical experience
+Clinical efficacy and safety
 The efficacy of prucalopride was established in three multicentre, randomised, double-blind, 12-week placebo-controlled studies in subjects with chronic constipation (n=1,279 on prucalopride, 1,124 females, 155 males).
 The prucalopride doses studied in each of these three studies included 2 mg and 4 mg once daily.
 The primary efficacy endpoint was the proportion (%) of subjects that reached normalisation of bowel movements defined as an average of three or more spontaneous, complete bowel movements (SCBM) per week over the 12-week treatment period.
@@ -21,11 +21,12 @@ The primary efficacy endpoint was the proportion (%) of subjects that reached no
 For the population targeted in this label, the results are the following:
 
 The proportion of female patients in whom laxatives fail to provide adequate relief (target population) treated with the recommended dose of 2 mg prucalopride (n=458) that reached an average of
-≥3 SCBM per week was 31.0% (week 4) and 24.7% (week 12), versus 8.6% (week 4) and 9.2% (week 12) on placebo.
-A clinically meaningful improvement of ≥1 SCBM per week, the most important secondary efficacy endpoint, was achieved in 51.0% (week 4) and 44.2% (week 12) treated with 2 mg prucalopride versus 21.7% (week 4) and 22.6% (week 12) of placebo patients.
+≥ 3 SCBM per week was 31.0% (week 4) and 24.7% (week 12), versus 8.6% (week 4) and 9.2% (week 12) on placebo.
+A clinically meaningful improvement of ≥ 1 SCBM per week, the most important secondary efficacy endpoint, was achieved in 51.0% (week 4) and 44.2% (week 12) treated with 2 mg prucalopride versus 21.7% (week 4) and 22.6% (week 12) of placebo patients.
 
 Prucalopride’s effect on spontaneous bowel movements (SBM) also proved to be statistically superior to placebo for the portion of patients that had an increase of ≥1 SBM/week over the 12-week treatment period.
-At week 12, 68.3% of patients treated with 2 mg prucalopride had an average increase of ≥1 SBM/week versus 37.0% of placebo patients (p<0.001 vs placebo).
+At week 12, 68.3% of patients treated with 2 mg prucalopride had an average increase of
+≥1 SBM/week versus 37.0% of placebo patients (p<0.001 vs placebo).
 
 In all three studies, treatment with prucalopride also resulted in significant improvements in a validated and disease specific set of symptom measures (PAC SYM), including abdominal (bloating, discomfort, pain and cramps), stool (incomplete bowel movements, false alarm, straining, too hard, too small) and rectal symptoms (painful bowel movements, burning, bleeding/tearing), determined at week 4 and week 12.
 At week 4, the proportion of patients with an improvement of ≥1 versus baseline in the PAC SYM abdominal, stool, and rectal symptom subscales was 41.3%, 41.6%, and 31.3% respectively in patients treated with prucalopride 2 mg compared with 26.9%, 24.4% and 22.9% in patients on placebo.

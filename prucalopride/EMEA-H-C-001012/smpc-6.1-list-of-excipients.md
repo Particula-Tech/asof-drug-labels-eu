@@ -6,7 +6,7 @@ Microcrystalline cellulose
 Colloidal silicon dioxide
 Magnesium stearate
 
-Coating
+Tablet coating
 Hypromellose
 Lactose monohydrate
 Triacetin

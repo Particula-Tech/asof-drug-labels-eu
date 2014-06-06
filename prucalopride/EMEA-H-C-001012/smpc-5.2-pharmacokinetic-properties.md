@@ -9,7 +9,7 @@ Distribution
 Prucalopride is extensively distributed, and has a steady-state volume of distribution (Vdss) of 567 litre.
 The plasma protein binding of prucalopride is about 30%.
 
-Metabolism
+Biotransformation
 Metabolism is not the major route of elimination of prucalopride.
 In vitro, human liver metabolism is very slow and only minor amounts of metabolites are found.
 In an oral dose study with radiolabelled prucalopride in man, small amounts of eight metabolites were recovered in urine and faeces.
@@ -34,6 +34,7 @@ A population pharmacokinetic analysis showed that the apparent total clearance o
 Elderly
 After once daily dosing of 1 mg, peak plasma concentrations and AUC of prucalopride in elderly subjects were 26% to 28% higher than in young adults.
 This effect can be attributed to a diminished renal function in elderly.
+
 Renal impairment
 Compared to subjects with normal renal function, plasma concentrations of prucalopride after a single 2 mg dose were on average 25% and 51% higher in subjects with mild (ClCR 50-79 ml/min) and moderate (ClCR 25-49 ml/min) renal impairment, respectively.
 In subjects with severe renal impairment (ClCR ≤ 24 ml/min), plasma concentrations were 2.3 times the levels in healthy subjects (see section 4.2 and 4.4).

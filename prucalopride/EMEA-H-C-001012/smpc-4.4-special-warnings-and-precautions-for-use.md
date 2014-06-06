@@ -12,5 +12,5 @@ In case of severe diarrhoea, the efficacy of oral contraceptives may be reduced 
 
 Men: The safety and efficacy of Resolor for use in men has not been established in controlled clinical trials; therefore, Resolor is not recommended for use in men until further data becomes available.
 
-The tablets contain lactose monohydrate.
-Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption must not take this medicinal product.
+The tablets contain lactose.
+Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
