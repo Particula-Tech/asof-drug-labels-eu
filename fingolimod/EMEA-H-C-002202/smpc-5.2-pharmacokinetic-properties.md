@@ -25,7 +25,6 @@ Fingolimod is transformed in humans by reversible stereoselective phosphorylatio
 Fingolimod is eliminated by oxidative biotransformation catalysed mainly via CYP4F2 and possibly other isoenzymes and subsequent fatty acid-like degradation to inactive metabolites.
 Formation of pharmacologically inactive non-polar ceramide analogues of fingolimod was also observed.
 The main enzyme involved in the metabolism of fingolimod is partially identified and may be either CYP4F2 or CYP3A4.
-
 Following single oral administration of [14C] fingolimod, the major fingolimod-related components in blood, as judged from their contribution to the AUC up to 34 days post dose of total radiolabelled components, are fingolimod itself (23%), fingolimod phosphate (10%), and inactive metabolites (M3 carboxylic acid metabolite (8%), M29 ceramide metabolite (9%) and M30 ceramide metabolite (7%)).
 
 Elimination
@@ -38,6 +37,7 @@ After 34 days, the recovery of the administered dose is 89%.
 
 Linearity
 Fingolimod and fingolimod phosphate concentrations increase in an apparently dose proportional manner after multiple once-daily doses of 0.5 mg or 1.25 mg.
+
 Characteristics in specific groups of patients
 The pharmacokinetics of fingolimod and fingolimod phosphate do not differ in males and females, in patients of different ethnic origin, or in patients with mild to severe renal impairment.
 

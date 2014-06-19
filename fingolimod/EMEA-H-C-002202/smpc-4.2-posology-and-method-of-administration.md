@@ -1,10 +1,10 @@
 # 4.2 Posology and method of administration
 
 The treatment should be initiated and supervised by a physician experienced in multiple sclerosis.
-
 Posology
 The recommended dose of Gilenya is one 0.5 mg capsule taken orally once daily.
 Gilenya can be taken with or without food.
+
 The same first dose monitoring as for treatment initiation is recommended when treatment is interrupted for:
 
 - 1 day or more during the first 2 weeks of treatment.
