@@ -23,7 +23,6 @@ Glucuronide and/or sulfate conjugates of glycopyrronium were found in urine of h
 
 Multiple CYP isoenzymes contribute to the oxidative biotransformation of glycopyrronium.
 Inhibition or induction of the metabolism of glycopyrronium is unlikely to result in a relevant change of systemic exposure to the active substance.
-
 In vitro inhibition studies demonstrated that glycopyrronium bromide has no relevant capacity to inhibit CYP1A2, CYP2A6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1 or CYP3A4/5, the efflux transporters MDR1, MRP2 or MXR, and the uptake transporters OCT1 or OCT2.
 In vitro enzyme induction studies did not indicate a clinically relevant induction by glycopyrronium bromide for cytochrome P450 isoenzymes, or for UGT1A1 and the transporters MDR1 and MRP2.
 
@@ -37,6 +36,7 @@ Biliary clearance contributes to the non-renal clearance, but the majority of no
 Mean renal clearance of glycopyrronium following inhalation was in the range of 17.4 and 24.4 litres/h.
 Active tubular secretion contributes to the renal elimination of glycopyrronium.
 Up to 23% of the delivered dose was found in urine as parent drug.
+
 Glycopyrronium plasma concentrations declined in a multi-phasic manner.
 The mean terminal elimination half-life was much longer after inhalation (33 to 57 hours) than after intravenous
 (6.2 hours) and oral (2.8 hours) administration.
@@ -61,6 +61,6 @@ Impairment of the hepatic metabolism of glycopyrronium is not thought to result 
 
 Patients with renal impairment
 Renal impairment has an impact on the systemic exposure to glycopyrronium bromide.
-A moderate mean increase in total system exposure (AUClast) of up to 1.4-fold was seen in subjects with mild and moderate renal impairment and up to 2.2-fold in subjects with severe renal impairment and end-stage renal disease.
+A moderate mean increase in total systemic exposure (AUClast) of up to 1.4-fold was seen in subjects with mild and moderate renal impairment and up to 2.2-fold in subjects with severe renal impairment and end-stage renal disease.
 In COPD patients with mild and moderate renal impairment (estimated glomerular filtration rate, eGFR ≥30 ml/min/1.73 m2) Seebri Breezhaler can be used at the recommended dose.
 In patients with severe renal impairment (eGFR <30 ml/min/1.73 m2), including those with end-stage renal disease requiring dialysis, Seebri Breezhaler should only be used in the expected benefit outweighs the potential risk (see section 4.4).

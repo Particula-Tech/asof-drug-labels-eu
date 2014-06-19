@@ -2,6 +2,7 @@
 
 The inhaler provided with each new prescription should be used.
 Each inhaler should be disposed of after 30 days of use.
+
 Instructions for handling and use
 
 How to use your inhaler
@@ -16,11 +17,11 @@ Separate one of the blisters from the blister card by tearing along the perforat
 Take one blister and peel away the protective backing to expose the capsule.
 
 Do not push capsule through foil.
-
 Remove a capsule:
 Capsules should always be stored in the blister and only removed immediately before use.
 With dry hands, remove capsule from the blister.
 Do not swallow the capsule.
+
 Insert capsule:
 Place the capsule into the capsule chamber.
 
@@ -39,11 +40,11 @@ Do this only once.
 - You should hear a “click” as the capsule is being pierced.
 
 Release the side buttons fully.
-
 Breathe out:
 Before placing the mouthpiece in your mouth, breathe out fully.
 
 Do not blow into the mouthpiece.
+
 Inhale the medicine:
 To breathe the medicine deeply into your airways:
 
@@ -86,6 +87,7 @@ Additional information
 Some people occasionally cough briefly soon after inhaling a medicine.
 If you do, don’t worry.
 As long as the capsule is empty, you have received enough of your medicine.
+
 After you have finished taking your daily dose of Seebri Breezhaler:
 
 - Open the mouthpiece again, and remove the empty capsule by tipping it out of the capsule chamber.

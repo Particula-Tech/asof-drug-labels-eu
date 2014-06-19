@@ -3,7 +3,6 @@
 Seebri Breezhaler is a single-dose inhaler.
 Inhaler body and cap are made from acrylonitrile butadiene styrene, push buttons are made from methyl metacrylate acrylonitrile butadiene styrene.
 Needles and springs are made from stainless steel.
-
 PA/Alu/PVC – Alu perforated unit-dose blister
 
 Single pack containing 6x1, 12x1 or 30x1 hard capsules, together with one inhaler.
