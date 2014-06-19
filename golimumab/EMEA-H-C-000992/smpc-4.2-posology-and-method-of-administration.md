@@ -15,10 +15,12 @@ Simponi 50 mg given once a month, on the same date each month.
 Ankylosing spondylitis
 Simponi 50 mg given once a month, on the same date each month.
 
-Available data suggest that clinical response is usually achieved within 12 to 14 weeks of treatment (after 3-4 doses).
+For all of the above indications, available data suggest that clinical response is usually achieved within 12 to 14 weeks of treatment (after 3-4 doses).
 Continued therapy should be reconsidered in patients who show no evidence of therapeutic benefit within this time period.
 
-In patients weighing more than 100 kg who do not achieve an adequate clinical response after 3 or 4 doses, increasing the dose of golimumab to 100 mg once a month may be considered, taking into account the increased risk of certain serious adverse drug reactions with the 100 mg dose compared with the 50 mg dose (see section 4.8).
+Patients with bodyweight greater than 100 kg
+For all of the above indications, in patients with RA, PsA or AS with a body weight of more than 100 kg who do not achieve an adequate clinical response after 3 or 4 doses, increasing the dose of golimumab to 100 mg once a month may be considered, taking into account the increased risk of certain serious adverse drug reactions with the 100 mg dose compared with the 50 mg dose
+(see section 4.8).
 Continued therapy should be reconsidered in patients who show no evidence of therapeutic benefit after receiving 3 to 4 additional doses of 100 mg.
 
 Ulcerative colitis
@@ -42,8 +44,10 @@ The next dose should be administered based on the following guidance:
 - if the dose is less than 2 weeks late, the patient should inject his/her forgotten dose and stay on his/her original schedule.
 - if the dose is more than 2 weeks late, the patient should inject his/her forgotten dose and a new schedule should be established from the date of this injection.
 
-Older people (≥65 years)
-No dose adjustment is required in older people.
+Special populations
+Elderly (≥65 years)
+No dose adjustment is required in the elderly.
+
 Renal and hepatic impairment
 Simponi has not been studied in these patient populations.
 No dose recommendations can be made.
@@ -53,7 +57,7 @@ The safety and efficacy of Simponi in patients aged less than 18 have not yet be
 No data are available.
 
 Method of administration
-For subcutaneous use.
+Simponi is for subcutaneous use.
 After proper training in subcutaneous injection technique, patients may self-inject with Simponi if their physician determines that this is appropriate, with medical follow-up as necessary.
 Patients should be instructed to inject the full amount of Simponi according to the comprehensive instructions for administration provided in the package leaflet.
 If multiple injections are required, the injections should be administered at different sites on the body.

@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Tumour necrosis factor alpha (TNF-α) inhibitors, ATC code: L04AB06
+Pharmacotherapeutic group: Immunosuppressants, tumour necrosis factor alpha (TNF-α) inhibitors, ATC code: L04AB06
 
 Mechanism of action
 Golimumab is a human monoclonal antibody that forms high affinity, stable complexes with both the soluble and transmembrane bioactive forms of human TNF-α, which prevents the binding of TNF-α to its receptors.
@@ -12,7 +12,6 @@ In vitro, TNF-induced secretion of interleukin (IL)-6, IL-8 and granulocyte-macr
 Improvement in C-reactive protein (CRP) levels were observed relative to placebo groups and treatment with Simponi resulted in significant reductions from baseline in serum levels of IL-6, ICAM-1, matrix-metalloproteinase (MMP)-3 and vascular endothelial growth factor (VEGF) compared to control treatment.
 In addition, levels of TNF-αwere reduced in RA and AS patients and levels of IL-8 were reduced in PsA patients.
 These changes were observed at the first assessment (week 4) after the initial Simponi administration and were generally maintained through week 24.
-
 Clinical efficacy
 
 Rheumatoid arthritis
@@ -24,6 +23,7 @@ GO-FORWARD evaluated 444 patients who had active RA despite a stable dose of at 
 Patients were randomised to receive placebo + MTX, Simponi 50 mg + MTX, Simponi 100 mg + MTX or Simponi 100 mg + placebo.
 Patients receiving placebo + MTX were switched to Simponi 50 mg + MTX after week 24.
 At week 52, patients entered an open label long-term extension.
+
 GO-AFTER evaluated 445 patients who were previously treated with one or more of the anti-TNF agents adalimumab, etanercept, or infliximab.
 Patients were randomised to receive placebo, Simponi 50 mg, or Simponi 100 mg.
 Patients were allowed to continue concomitant DMARD therapy with MTX, sulfasalazine (SSZ), and/or hydroxychloroquine (HCQ) during the study.
@@ -49,7 +49,6 @@ In GO-FORWARD, among 89 subjects randomised to Simponi 50 mg + MTX, 48 were stil
 Among those, 40, 33 and 24 patients had ACR 20/50/70 response, respectively at week 104.
 
 In GO-AFTER, the percentage of patients achieving an ACR 20 response was greater for patients receiving Simponi than for patients receiving placebo regardless of the reason reported for discontinuation of one or more prior anti-TNF therapies.
-
 Table 2
 Key efficacy outcomes from the controlled portions of GO-FORWARD, GO-AFTER and GO-BEFORE.
 
@@ -88,15 +87,14 @@ At week 52, 15% of patients in the Simponi 50 mg + MTX group achieved a major cl
 Among 159 subjects randomised to Simponi 50 mg + MTX, 96 were still on this treatment at week 104.
 Among those, 85, 66 and 53 patients had ACR 20/50/70 response, respectively, at week 104.
 
-Radiographic Response:
+Radiographic response:
 In GO-BEFORE the change from baseline in the vdH-S score, a composite score of structural damage that radiographically measures the number and size of joint erosions and the degree of joint space narrowing in hands/wrists and feet, was used to assess the degree of structural damage.
 Key results for the Simponi 50 mg dose at week 52 are presented in Table 3.
-
 The number of patients with no new erosions or a change from baseline in total vdH-S Score ≤0 was significantly higher in the Simponi treatment group than in the control group (p = 0.003).
 The radiographic effects observed at week 52 were maintained through week 104.
 
 Table 3
-Radiographic Mean (SD) Changes from Baseline in Total vdH-S Score at week 52 in the overall population of GO-BEFORE
+Radiographic mean (SD) changes from baseline in total vdH-S score at week 52 in the overall population of GO-BEFORE
 
 |  | Placebo + MTX | Simponi 50 mg + MTX |
 | --- | --- | --- |
@@ -109,17 +107,16 @@ Radiographic Mean (SD) Changes from Baseline in Total vdH-S Score at week 52 in 
 | Change from baseline | 0.7 (2.8) | 0.5 (2.1) |
 | JSN Score |  |  |
 | Baseline | 8.4 (17.8) | 7.9 (16.1) |
-
-Change from baseline 0.6 (2.3) 0.2 (2.0)**
+| Change from baseline | 0.6 (2.3) | 0.2 (2.0)** |
 
 a n reflects randomized patients
 * p = 0.015
 ** p = 0.044
 
 Physical function and health-related quality of life
-Physical function and disability were assessed as a separate endpoint in GO-FORWARD and GO-AFTER using the disability index of the HAQ.
-In these studies, Simponi demonstrated clinically meaningful and statistically significant improvement in HAQ from baseline versus control at week 24.
-Among patients who remained on the Simponi treatment to which they were randomised at study start, improvement in HAQ was maintained through week 104.
+Physical function and disability were assessed as a separate endpoint in GO-FORWARD and GO-AFTER using the disability index of the HAQ DI.
+In these studies, Simponi demonstrated clinically meaningful and statistically significant improvement in HAQ DI from baseline versus control at week 24.
+Among patients who remained on the Simponi treatment to which they were randomised at study start, improvement in HAQ DI was maintained through week 104.
 
 In GO-FORWARD clinically meaningful and statistically significant improvements were demonstrated in health-related quality of life as measured by the physical component score of the SF-36 in patients treated with Simponi versus placebo at week 24.
 Among patients who remained on the Simponi treatment to which they were randomised at study start, improvement of the SF-36 physical component was maintained through week 104.
@@ -138,7 +135,6 @@ Approximately forty-eight percent of patients continued on stable doses of metho
 The co-primary endpoints were the percentage of patients achieving ACR 20 response at Week 14 and change from baseline in total PsA modified vdH-S score at Week 24.
 
 In general, no clinically meaningful differences in measures of efficacy were observed between the Simponi 50 mg and 100 mg dosing regimens.
-
 Signs and symptoms
 Key results for the 50 mg dose at weeks 14 and 24 are shown in table 4 and described below.
 
@@ -175,16 +171,15 @@ Of these 70 patients, 64, 46 and 31 patients had an ACR 20/50/70 response, respe
 Statistically significant responses in DAS28 were also observed at weeks 14 and 24 (p < 0.05).
 
 At Week 24 improvements in parameters of peripheral activity characteristic of psoriatic arthritis (e.g. number of swollen joints, number of painful/tender joints, dactylitis and enthesitis) were seen in the Simponi-treated patients.
-Simponi treatment resulted in significant improvement in physical function as assessed by HAQ, as well as significant improvements in health-related quality of life as measured by the physical and mental component summary scores of the SF-36.
-Among patients who remained on the Simponi treatment to which they were randomised at study start, DAS28 and HAQ responses were maintained through week 104.
+Simponi treatment resulted in significant improvement in physical function as assessed by HAQ DI, as well as significant improvements in health-related quality of life as measured by the physical and mental component summary scores of the SF-36.
+Among patients who remained on the Simponi treatment to which they were randomised at study start, DAS28 and HAQ DI responses were maintained through week 104.
 
-Radiographic Response:
+Radiographic response:
 Structural damage in both hands and feet was assessed radiographically by the change from baseline in the vdH-S score, modified for PsA by addition of hand distal interphalangeal (DIP) joints.
 
 Simponi 50 mg treatment reduced the rate of progression of peripheral joint damage compared with placebo treatment at week 24 as measured by change from baseline in total modified vdH-S Score (mean + SD score was 0.27 + 1.3 in the placebo group compared with -0.16 + 1.3 in the Simponi group; p = 0.011).
 Out of 146 patients who were randomized to Simponi 50 mg, 52 week X-ray data were available for 126 patients, of whom 77% showed no progression compared to baseline.
 At week 104, X-ray data were available for 114 patients, and 77% showed no progression from baseline.
-
 Ankylosing spondylitis
 The safety and efficacy of Simponi were evaluated in a multi-centre, randomised, double-blind, placebo-controlled study (GO-RAISE) in 356 adult patients with active ankylosing spondylitis (defined as a Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) ≥4 and a VAS for total back pain of ≥4, on a scale of 0 to 10 cm).
 Patients enrolled in this study had active disease despite current or previous NSAID or DMARD therapy and had not previously been treated with anti-TNF therapy.
@@ -241,15 +236,13 @@ The efficacy of Simponi through week 54 was assessed in this study.
 Table 6
 Key efficacy outcomes from PURSUIT - Induction and PURSUIT - Maintenance
 
-| PURSUIT-Induction |  |  |
-| --- | --- | --- |
-|  | Placebo N = 251 | Simponi 200/100 mg N = 253 |
-| Percentage of patients |  |  |
-| Patients in clinical response at week 6a | 30% | 51%** |
-
-| Patients in clinical remission at week 6b | 6% | 18%** |  |
+| PURSUIT-Induction |  |  |  |
 | --- | --- | --- | --- |
-| Patients with mucosal healing at week 6c | 29% | 42%** |  |
+|  | Placebo N = 251 | Simponi 200/100 mg N = 253 |  |
+| Percentage of patients |  |  |  |
+| Patients in clinical response at week 6a | 30% | 51%** |  |
+| Patients in clinical remission at week 6b | 6% | 18%** |  |
+| Patients with mucosal healing at week 6c | 29% | 42%* |  |
 | PURSUIT-Maintenance |  |  |  |
 |  | Placebod N = 154 | Simponi 50 mg N = 151 | Simponi 100 mg N = 151 |
 | Percentage of patients |  |  |  |

@@ -6,8 +6,9 @@ The most serious ADRs that have been reported for golimumab include serious infe
 
 Tabulated list of adverse reactions
 ADRs observed in clinical studies and reported from world-wide post-marketing use of golimumab are listed in Table 1.
-Within the designated system organ classes, the adverse drug reactions are listed under headings of frequency and using the following convention: Very common (≥1/10); Common (≥1/100 to < 1/10); Uncommon (≥1/1,000 to < 1/100); Rare (≥1/10,000 to < 1/1,000); Very rare
-(< 1/10,000); Not known (cannot be estimated from the available data).
+Within the designated system organ classes, the adverse drug reactions are listed under headings of frequency and using the following convention: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to < 1/1,000); very rare
+(< 1/10,000); not known (cannot be estimated from the available data).
+Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1
 Tabulated list of ADRs
@@ -64,7 +65,6 @@ Rare: Impaired healing
 Injury, poisoning and procedural complications
 Uncommon: Bone fractures
 *: Observed with other TNF-blocking agents, but not observed in clinical studies with golimumab.
-
 Description of selected adverse drug reactions
 
 Infections
@@ -73,16 +73,16 @@ In controlled and uncontrolled portions of the studies with a median follow-up o
 
 In the controlled period of pivotal trials, infections were observed in 22.8% of golimumab-treated patients (incidence per 100 subject-years: 130.4; 95% CI: 121.6, 139.7) compared with 19.9% of control patients (incidence per 100 subject-years: 123.0; 95% CI: 109.4, 137.8).
 In controlled and uncontrolled portions of the trials with a median follow-up of approximately 2 years, the incidence per 100 subject-years of infections was 96.0 events; 95% CI: 93.7, 98.4 for golimumab treated patients.
+
 In the controlled period of RA, PsA, and AS trials, serious infections were observed in 1.4% of golimumab-treated patients and 1.3% of control-treated patients.
 The incidence of serious infections per 100 subject-years of follow-up in the controlled period of RA, PsA and AS trials was 7.4; 95% CI: 4.6, 11.1 for the golimumab 100 mg group, 3.3; 95% CI: 1.3, 6.9 for the golimumab 50 mg group and 4.2; 95% CI: 1.8 , 8.2 for the placebo group.
 In the controlled period of UC trials of golimumab induction, serious infections were observed in 0.8% of golimumab-treated patients compared with 1.5% of control-treated patients.
 Serious infections observed in golimumab-treated patients included tuberculosis, bacterial infections including sepsis and pneumonia, invasive fungal infections and other opportunistic infections.
 Some of these infections have been fatal.
-In the controlled and uncontrolled portions of the pivotal trials with a median follow-up of approximately 2 years, there was a greater incidence of serious infections, including opportunistic infections and TB in patients receiving golimumab 100 mgcompared with patients receiving golimumab 50 mg.
+In the controlled and uncontrolled portions of the pivotal trials with a median follow-up of approximately 2 years, there was a greater incidence of serious infections, including opportunistic infections and TB in patients receiving golimumab 100 mg compared with patients receiving golimumab 50 mg.
 The incidence per 100 subject-years of all serious infections was 4.9; 95% CI: 4.3, 5.7, in patients receiving golimumab 100 mg and 3.1; 95% CI: 2.5, 3.9, in patients receiving golimumab 50 mg.
 
 Malignancies
-
 Lymphoma
 The incidence of lymphoma in golimumab-treated patients during the pivotal trials was higher than expected in the general population.
 In the controlled and uncontrolled portions of these trials with a median follow-up of approximately 2 years, a greater incidence of lymphoma was observed in patients receiving golimumab 100 mg compared with patients receiving golimumab 50 mg.
@@ -94,7 +94,6 @@ In the controlled periods of pivotal trials and through approximately 2 years of
 Through approximately 2 years of follow-up, the incidence of non-lymphoma malignancies (excluding non-melanoma skin cancer) was similar to the general population.
 
 In the controlled and uncontrolled periods of pivotal trials with a median follow-up of approximately 2 years, nonmelanoma skin cancer was diagnosed in 5 placebo-treated, 8 golimumab 50 mg-treated and 17 golimumab 100 mg-treated subjects with an incidence (95% CI) per 100 subject-years of follow-up of 0.39 (0.26, 0.58) for combined golimumab and 1.03 (0.33, 2.40) for placebo.
-
 In the controlled and uncontrolled period of pivotal trials with a median follow-up of approximately 2 years, malignancies besides nonmelanoma skin cancer and lymphoma were diagnosed in 3 placebo-treated, 17 golimumab 50 mg-treated and 17 golimumab 100 mg-treated subjects with an incidence (95% CI) per 100 subject-years of follow-up of 0.53 (0.37, 0.73) for combined golimumab and 0.61 (0.13, 1.80) for placebo (see section 4.4).
 
 Cases reported in clinical studies in asthma
@@ -102,6 +101,7 @@ In an exploratory clinical study, patients with severe persistent asthma receive
 Eight malignancies in the combined golimumab treatment group (n = 230) and none in the placebo treatment group (n = 79).
 Lymphoma was reported in 1 patient, non-melanoma skin cancer in 2 patients, and other malignancies in 5 patients.
 There was no specific clustering of any type of malignancy.
+
 During the placebo-controlled portion of the study, the incidence (95% CI) of all malignancies per 100 subject-years of follow-up was 3.19 (1.38, 6.28) in the golimumab group.
 In this study, the incidence (95% CI) per 100 subject-years of follow-up in golimumab-treated subjects was 0.40 (0.01, 2.20) for lymphoma, 0.79 (0.10, 2.86) for non-melanoma skin cancers, and 1.99 (0.64, 4.63) for other malignancies.
 For placebo subjects, the incidence (95% CI) per 100 subject-years of follow-up of these malignancies was 0.00 (0.00, 2.94).
@@ -120,13 +120,12 @@ In controlled and uncontrolled periods of the UC pivotal trials with a mean foll
 In the controlled period of RA and AS pivotal trials, ALT elevations ≥5 x ULN were uncommon and seen in more golimumab-treated patients (0.4% to 0.9%) than control patients (0.0%).
 This trend was not observed in the PsA population.
 In the controlled and uncontrolled periods of RA, PsA and AS pivotal trials, with a median follow-up of 3 years, the incidence of ALT elevations ≥5 x ULN was similar in both golimumab-treated and control patients.
-In general these elevations were asymptomatic and the abnormalities decreased or resolved with either continuation or discontinuation of golimumab or modification of concomitant medications.
+In general these elevations were asymptomatic and the abnormalities decreased or resolved with either continuation or discontinuation of golimumab or modification of concomitant medicinal products.
 In the controlled periods of the pivotal UC trials, of golimumab induction, ALT elevations ≥5 x ULN occurred in similar proportions of golimumab-treated patients compared to placebo-treated patients (0.3% to 1.0%, respectively).
 In the controlled and uncontrolled periods of the pivotal UC trials with a mean follow-up of 1 year, the incidence of ALT elevations ≥5 x ULN was 0.7% in patients receiving golimumab during the maintenance portion of the UC study.
 
-Within the RA, PsA and AS pivotal trials, one patient with pre-existing liver abnormalities and confounding medication treated with golimumab developed non-infectious fatal hepatitis with jaundice.
+Within the RA, PsA and AS pivotal trials, one patient with pre-existing liver abnormalities and confounding medicinal products treated with golimumab developed non-infectious fatal hepatitis with jaundice.
 The role of golimumab as a contributing or aggravation factor cannot be excluded.
-
 Injection site reactions
 In the controlled periods of pivotal trials, 5.1% of golimumab-treated patients had injection site reactions compared with 2.0% in control patients.
 The presence of antibodies to golimumab may increase the risk of injection site reactions.

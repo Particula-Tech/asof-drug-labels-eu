@@ -15,10 +15,10 @@ Some of these serious infections have occurred in patients on concomitant immuno
 Patients who develop a new infection while undergoing treatment with Simponi should be monitored closely and undergo a complete diagnostic evaluation.
 Administration of Simponi should be discontinued if a patient develops a new serious infection or sepsis, and appropriate antimicrobial or antifungal therapy should be initiated until the infection is controlled.
 For patients who have resided in or travelled to regions where invasive fungal infections such as histoplasmosis, coccidioidomycosis, or blastomycosis are endemic, the benefits and risks of Simponi treatment should be carefully considered before initiation of Simponi therapy.
-
 Tuberculosis
 There have been reports of tuberculosis in patients receiving Simponi.
 It should be noted that in the majority of these reports, tuberculosis was extrapulmonary presenting as either local or disseminated disease.
+
 Before starting treatment with Simponi, all patients must be evaluated for both active and inactive (‘latent’) tuberculosis.
 This evaluation should include a detailed medical history with personal history of tuberculosis or possible previous contact with tuberculosis and previous and/or current immunosuppressive therapy.
 Appropriate screening tests, i.e. tuberculin skin or blood test and chest X-ray, should be performed in all patients (local recommendations may apply).
@@ -50,11 +50,11 @@ For patients who test positive for HBV infection, consultation with a physician 
 Carriers of HBV who require treatment with Simponi should be closely monitored for signs and symptoms of active HBV infection throughout therapy and for several months following termination of therapy.
 Adequate data of treating patients who are carriers of HBV with anti-viral therapy in conjunction with TNF-antagonist therapy to prevent HBV reactivation are not available.
 In patients who develop HBV reactivation, Simponi should be stopped and effective anti-viral therapy with appropriate supportive treatment should be initiated.
-
 Malignancies and lymphoproliferative disorders
 The potential role of TNF-blocking therapy in the development of malignancies is not known.
 Based on the current knowledge, a possible risk for the development of lymphomas, leukaemia or other malignancies in patients treated with a TNF-antagonist cannot be excluded.
 Caution should be exercised when considering TNF-blocking therapy for patients with a history of malignancy or when considering continuing treatment in patients who develop malignancy.
+
 Paediatric malignancy
 Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-blocking agents (initiation of therapy ≤18 years of age) in the post marketing setting.
 Approximately half the cases were lymphomas.
@@ -93,6 +93,7 @@ Skin cancers
 Melanoma has been reported in patients treated with TNF-blocking agents, including Simponi.
 Merkel cell carcinoma has been reported in patients treated with other TNF-blocking agents (see section 4.8).
 Periodic skin examination is recommended, particularly for patients with risk factors for skin cancer.
+
 Congestive heart failure (CHF)
 Cases of worsening congestive heart failure (CHF) and new onset CHF have been reported with TNF blockers, including Simponi.
 In a clinical trial with another TNF-antagonist worsening congestive heart failure and increased mortality due to CHF have been observed.
@@ -127,7 +128,6 @@ Concurrent administration of TNF-antagonists and anakinra
 Serious infections and neutropenia were seen in clinical studies with concurrent use of anakinra and another TNF-blocking agent, etanercept, with no added clinical benefit.
 Because of the nature of the adverse events seen with this combination therapy, similar toxicities may also result from the combination of anakinra and other TNF-blocking agents.
 The combination of Simponi and anakinra is not recommended.
-
 Concurrent administration of TNF-antagonists and abatacept
 In clinical studies concurrent administration of TNF-antagonists and abatacept has been associated with an increased risk of infections including serious infections compared to TNF-antagonists alone, without increased clinical benefit.
 The combination of Simponi and abatacept is not recommended.
@@ -144,7 +144,7 @@ Patients treated with Simponi may receive concurrent vaccinations, except for li
 In patients receiving anti-TNF therapy, limited data are available on the response to vaccination with live vaccines or on the secondary transmission of infection by live vaccines.
 Use of live vaccines could result in clinical infections, including disseminated infections.
 
-Other uses of therapeutic infectious agents such as live attenuated bacteria (e.g., BCG bladder instillation for the treatment of cancer) could result in clinical infections, including disseminated infections.
+Other uses of therapeutic infectious agents such as live attenuated bacteria (e.g. BCG bladder instillation for the treatment of cancer) could result in clinical infections, including disseminated infections.
 It is recommended that therapeutic infectious agents not be given concurrently with Simponi.
 
 Allergic reactions
@@ -157,9 +157,9 @@ The needle cover on the pre-filled pen is manufactured from dry natural rubber c
 
 Special populations
 
-Older people (≥65 years)
+Elderly (≥65 years)
 In the Phase III studies in RA, PsA, AS, and UC, no overall differences in adverse events (AEs), serious adverse events (SAEs), and serious infections in patients age 65 or older who received Simponi were observed compared with younger patients.
-However, caution should be exercised when treating older people and particular attention paid with respect to occurrence of infections.
+However, caution should be exercised when treating the elderly and particular attention paid with respect to occurrence of infections.
 
 Renal and hepatic impairment
 Specific studies of Simponi have not been conducted in patients with renal or hepatic impairment.
@@ -169,9 +169,22 @@ Excipients
 Simponi contains sorbitol (E420).
 Patients with rare hereditary problems of fructose intolerance should not take Simponi.
 
+Potential for medication errors
+Simponi is registered in 50 mg and 100 mg strengths for subcutaneous administration.
+It is important that the right strength is used to administer the correct dose as indicated in the posology (see section 4.2).
+Care should be taken to provide the right strength to ensure that patients are not underdosed or overdosed.
+
 [Simponi 50 mg solution for injection in pre-filled syringe.]
 
 In an exploratory clinical trial evaluating the use of Simponi in patients with severe persistent asthma, more malignancies were reported in patients treated with Simponi compared with control patients
 (see section 4.8).
 
 The needle cover on the pre-filled syringe is manufactured from dry natural rubber containing latex, and may cause allergic reactions in individuals sensitive to latex.
+
+[Simponi 100 mg solution for injection in pre-filled pen.]
+
+(all sentences already above)
+
+[Simponi 100 mg solution for injection in pre-filled syringe.]
+
+(all sentences already above)

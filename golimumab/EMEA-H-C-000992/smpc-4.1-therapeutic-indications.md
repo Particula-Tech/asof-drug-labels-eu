@@ -9,7 +9,7 @@ Simponi, in combination with methotrexate (MTX), is indicated for:
 Simponi, in combination with MTX, has been shown to reduce the rate of progression of joint damage as measured by X-ray and to improve physical function.
 
 Psoriatic arthritis (PsA)
-Simponi, alone or in combination with MTX, is indicated for the treatment of active and progressive psoriatic arthritis in adult patients when the response to previous disease-modifying anti-rheumatic drug (DMARD) therapy has been inadequate.
+Simponi, alone or in combination with MTX, is indicated for the treatment of active and progressive psoriatic arthritis in adult patients when the response to previous DMARD therapy has been inadequate.
 Simponi has been shown to reduce the rate of progression of peripheral joint damage as measured by X-ray in patients with polyarticular symmetrical subtypes of the disease (see section 5.1) and to improve physical function.
 
 Ankylosing spondylitis (AS)

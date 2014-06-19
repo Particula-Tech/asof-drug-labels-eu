@@ -7,3 +7,11 @@ Keep the pre-filled pen in the outer carton in order to protect it from light.
 [Simponi 50 mg solution for injection in pre-filled syringe.]
 
 Keep the pre-filled syringe in the outer carton in order to protect it from light.
+
+[Simponi 100 mg solution for injection in pre-filled pen.]
+
+(all sentences already above)
+
+[Simponi 100 mg solution for injection in pre-filled syringe.]
+
+(all sentences already above)

@@ -7,6 +7,7 @@ The combination of Simponi with other biological therapeutics used to treat the 
 
 Live vaccines/therapeutic infectious agents
 Live vaccines should not be given concurrently with Simponi (see sections 4.4 and 4.6).
+
 Therapeutic infectious agents should not be given concurrently with Simponi (see section 4.4).
 
 Methotrexate
