@@ -2,7 +2,6 @@
 
 Women of childbearing potential
 Women of childbearing potential must use adequate contraception to prevent pregnancy and continue its use for at least 6 months after the last Remicade treatment.
-
 Pregnancy
 The moderate number (approximately 450) of prospectively collected pregnancies exposed to infliximab with known outcomes, including a limited number (approximately 230) exposed during the first trimester, does not indicate unexpected effects on pregnancy outcome.
 Due to its inhibition of TNFα, infliximab administered during pregnancy could affect normal immune responses in the newborn.

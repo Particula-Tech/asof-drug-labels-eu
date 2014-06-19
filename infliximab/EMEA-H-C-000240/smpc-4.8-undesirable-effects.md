@@ -7,7 +7,7 @@ The most serious ADRs associated with the use of TNF blockers that have been rep
 Tabulated list of adverse reactions
 Table 1 lists ADRs based on experience from clinical studies as well as adverse reactions, some with fatal outcome, reported from post-marketing experience.
 Within the organ system classes, adverse reactions are listed under headings of frequency using the following categories: very common
-(≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to
+(≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to
 < 1/1,000); very rare (< 1/10,000), not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
@@ -17,7 +17,6 @@ Infections and infestations
 Very Common: Viral infection (e.g. influenza, herpes virus infection).
 Common: Bacterial infections (e.g. sepsis, cellulitis, abscess).
 Uncommon: Tuberculosis, fungal infections (e.g. candidiasis).
-
 Rare: Meningitis, opportunistic infections (such as invasive fungal infections [pneumocystosis, histoplasmosis, aspergillosis, coccidioidomycosis, cryptococcosis, blastomycosis], bacterial infections [atypical mycobacterial, listeriosis, salmonellosis], and viral infections [cytomegalovirus]), parasitic infections, hepatitis B reactivation.
 Neoplasms benign, malignant and unspecified (including cysts and polyps)
 Rare: Lymphoma, non-Hodgkin’s lymphoma, Hodgkin’s disease, leukaemia, melanoma.
@@ -52,7 +51,6 @@ Not known: Myocardial ischaemia/myocardial infarction occurring during or within
 Vascular disorders
 Common: Hypotension, hypertension, ecchymosis, hot flush, flushing.
 Uncommon: Peripheral ischaemia, thrombophlebitis, haematoma.
-
 Rare: Circulatory failure, petechia, vasospasm.
 Respiratory, thoracic and mediastinal disorders
 Very common: Upper respiratory tract infection, sinusitis.
@@ -125,7 +123,6 @@ Signs and symptoms included myalgia and/or arthralgia with fever and/or rash, wi
 There are insufficient data on the incidence of delayed hypersensitivity reactions after Remicade-free intervals of more than 1 year but limited data from clinical studies suggest an increased risk for delayed hypersensitivity with increasing Remicade-free interval (see section 4.4).
 
 In a 1-year clinical study with repeated infusions in patients with Crohn's disease (ACCENT I study), the incidence of serum sickness-like reactions was 2.4%.
-
 Immunogenicity
 Patients who developed antibodies to infliximab were more likely (approximately 2-3 fold) to develop infusion-related reactions.
 Use of concomitant immunosuppressant agents appeared to reduce the frequency of infusion-related reactions.
@@ -136,7 +133,7 @@ In Crohn's disease patients who received maintenance treatment, antibodies to in
 The antibody incidence was 2-3 fold higher for patients treated episodically.
 Due to methodological limitations, a negative assay did not exclude the presence of antibodies to infliximab.
 Some patients who developed high titres of antibodies to infliximab had evidence of reduced efficacy.
-In psoriasis patients treated with infliximab as a maintenance regimen in the absence of concomitant immunomodulators, approximately 28% developed antibodies to infliximab (see section 4.4: "Infusion reactions and hypersensitivity").
+In psoriasis patients treated with infliximab as a maintenance regimen in the absence of concomitant immunomodulators, approximately 28% developed antibodies to infliximab (see section 4.4: “Infusion reactions and hypersensitivity”).
 
 Infections
 Tuberculosis, bacterial infections, including sepsis and pneumonia, invasive fungal, viral, and other opportunistic infections have been observed in patients receiving Remicade.
@@ -164,11 +161,11 @@ The median duration of follow-up was 0.8 years (incidence 5.7% [95% CI 2.65%-10.
 There was one reported malignancy amongst 77 control patients (median duration of follow-up 0.8 years; incidence 1.3% [95% CI 0.03%-7.0%]).
 The majority of the malignancies developed in the lung or head and neck.
 
-In addition, rare post-marketing cases of hepatosplenic T-cell lymphoma have been reported in patients with Crohn’s disease and ulcerative colitis treated with Remicade, the majority of whom were adolescent or young adult males (see section 4.4).
+In addition, rare post-marketing cases of hepatosplenic T-cell lymphoma have been reported in patients treated with Remicade with the vast majority of cases occurring in Crohn’s disease and ulcerative colitis, and most of whom were adolescent or young adult males (see section 4.4).
 
 Heart failure
 In a Phase II study aimed at evaluating Remicade in congestive heart failure (CHF), higher incidence of mortality due to worsening of heart failure were seen in patients treated with Remicade, especially those treated with the higher dose of 10 mg/kg (i.e. twice the maximum approved dose).
-In this study 150 patients with NYHA Class III-IV CHF (left ventricular ejection fraction ≤ 35%) were treated with 3 infusions of Remicade 5 mg/kg, 10 mg/kg, or placebo over 6 weeks.
+In this study 150 patients with NYHA Class III-IV CHF (left ventricular ejection fraction ≤35%) were treated with 3 infusions of Remicade 5 mg/kg, 10 mg/kg, or placebo over 6 weeks.
 At 38 weeks, 9 of 101 patients treated with Remicade (2 at 5 mg/kg and 7 at 10 mg/kg) died compared to one death among the 49 patients on placebo.
 There have been post-marketing reports of worsening heart failure, with and without identifiable precipitating factors, in patients taking Remicade.
 There have also been rare post-marketing reports of new onset heart failure, including heart failure in patients without known pre-existing cardiovascular disease.
@@ -176,7 +173,7 @@ Some of these patients have been under 50 years of age.
 
 Hepatobiliary events
 In clinical studies, mild or moderate elevations of ALT and AST have been observed in patients receiving Remicade without progression to severe hepatic injury.
-Elevations of ALT ≥ 5 x Upper Limit of Normal (ULN) have been observed (see Table 2).
+Elevations of ALT ≥5 x Upper Limit of Normal (ULN) have been observed (see Table 2).
 Elevations of aminotransferases were observed (ALT more common than AST) in a greater proportion of patients receiving Remicade than in controls, both when Remicade was given as monotherapy and when it was used in combination with other immunosuppressive agents.
 Most aminotransferase abnormalities were transient; however, a small number of patients experienced more prolonged elevations.
 In general, patients who developed ALT and AST elevations were asymptomatic, and the abnormalities decreased or resolved with either continuation or discontinuation of Remicade, or modification of concomitant therapy.
@@ -185,7 +182,7 @@ In post-marketing surveillance, very rare cases of jaundice and hepatitis, some 
 Table 2
 Proportion of patients with increased ALT activity in clinical studies
 
-| Indication | Number of patients3 |  | Median follow-up (wks)4 |  | ≥ 3 x ULN |  | ≥ 5 x ULN |  |
+| Indication | Number of patients3 |  | Median follow-up (wks)4 |  | ≥3 x ULN |  | ≥5 x ULN |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | placebo | infliximab | placebo | infliximab | placebo | infliximab | placebo | infliximab |
 | Rheumatoid arthritis1 | 375 | 1,087 | 58.1 | 58.3 | 3.2% | 3.9% | 0.8% | 0.9% |
@@ -197,12 +194,14 @@ Proportion of patients with increased ALT activity in clinical studies
 | Psoriatic arthritis | 98 | 191 | 18.1 | 39.1 | 0.0% | 6.8% | 0.0% | 2.1% |
 | Plaque psoriasis | 281 | 1,175 | 16.1 | 50.1 | 0.4% | 7.7% | 0.0% | 3.4% |
 
-1 Placebo patients received methotrexate while infliximab patients received both infliximab and methotrexate.
-2 Placebo patients in the 2 Phase III studies in Crohn’s disease, ACCENT I and ACCENT II, received an initial dose of 5 mg/kg infliximab at study start and were on placebo in the maintenance phase.
+Placebo patients received methotrexate while infliximab patients received both infliximab and methotrexate.
+Placebo patients in the 2 Phase III studies in Crohn’s disease, ACCENT I and ACCENT II, received an initial dose of 5 mg/kg infliximab at study start and were on placebo in the maintenance phase.
 Patients who were randomised to the placebo maintenance group and then later crossed over to infliximab are included in the infliximab group in the ALT analysis.
 In the Phase IIIb trial in Crohn’s disease, SONIC, placebo patients received AZA 2.5 mg/kg/day as active control in addition to placebo infliximab infusions.
-3 Number of patients evaluated for ALT.
-4 Median follow-up is based on patients treated.
+3
+Number of patients evaluated for ALT.
+4
+Median follow-up is based on patients treated.
 
 Antinuclear antibodies (ANA)/Anti-double-stranded DNA (dsDNA) antibodies
 Approximately half of infliximab-treated patients in clinical studies who were ANA negative at baseline developed a positive ANA during the study compared with approximately one fifth of placebo-treated patients.
@@ -237,7 +236,6 @@ There were no serious infusion reactions, and 2 subjects in REACH had non-seriou
 
 Immunogenicity
 Antibodies to infliximab were detected in 3 (2.9%) paediatric patients.
-
 Infections
 In the REACH study, infections were reported in 56.3% of randomised subjects treated with infliximab.
 Infections were reported more frequently for subjects who received q8 week as opposed to q12 week infusions (73.6% and 38.0%, respectively), while serious infections were reported for 3 subjects in the q8 week and 4 subjects in the q12 week maintenance treatment group.
@@ -273,6 +271,6 @@ Post-marketing experience
 Post-marketing spontaneous serious adverse events with infliximab in the paediatric population have included malignancies including hepatosplenic T-cell lymphomas, transient hepatic enzyme abnormalities, lupus-like syndromes, and positive auto-antibodies (see sections 4.4 and 4.8).
 
 Additional information on special populations
-Elderly patients (≥ 65 years)
+Elderly patients (≥65 years)
 In rheumatoid arthritis clinical studies, the incidence of serious infections was greater in infliximab plus methotrexate-treated patients 65 years and older (11.3%) than in those under 65 years of age (4.6%).
 In patients treated with methotrexate alone, the incidence of serious infections was 5.2% in patients 65 years and older compared to 2.7% in patients under 65 (see section 4.4).
