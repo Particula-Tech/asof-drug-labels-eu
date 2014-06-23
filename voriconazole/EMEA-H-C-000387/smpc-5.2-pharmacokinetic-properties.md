@@ -48,6 +48,7 @@ The terminal half-life of voriconazole depends on dose and is approximately 6 ho
 Because of non-linear pharmacokinetics, the terminal half-life is not useful in the prediction of the accumulation or elimination of voriconazole.
 
 Pharmacokinetics in special patient groups
+
 Gender
 In an oral multiple -dose study, Cmax and AUCτ for healthy young females were 83% and 113% higher, respectively, than in healthy young males (18-45 years).
 In the same study, no significant differences in Cmax and AUCτ were observed between healthy elderly males and healthy elderly females (≥65 years).
@@ -55,6 +56,7 @@ In the same study, no significant differences in Cmax and AUCτ were observed be
 In the clinical programme, no dosage adjustment was made on the basis of gender.
 The safety profile and plasma concentrations observed in male and female patients were similar.
 Therefore, no dosage adjustment based on gender is necessary.
+
 Elderly
 In an oral multiple-dose study Cmax and AUCτ in healthy elderly males (≥65 years) were 61% and 86% higher, respectively, than in healthy young males (18-45 years).
 No significant differences in Cmax and AUCτ were observed between healthy elderly females (≥ 65 years) and healthy young females (18-45 years).
@@ -63,7 +65,7 @@ In the therapeutic studies no dosage adjustment was made on the basis of age.
 A relationship between plasma concentrations and age was observed.
 The safety profile of voriconazole in young and elderly patients was similar and, therefore, no dosage adjustment is necessary for the elderly (see section 4.2).
 
-Paediatric
+Paediatric population
 The recommended doses in children and adolescent patients are based on a population pharmacokinetic analysis of data obtained from 112 immunocompromised paediatric patients aged 2 to <12 years and 26 immunocompromised adolescent patients aged 12 to <17 years.
 Multiple intravenous doses of 3, 4, 6, 7 and 8 mg/kg twice daily and multiple oral doses (using the powder for oral suspension) of 4 mg/kg, 6 mg/kg, and 200 mg twice daily were evaluated in 3 paediatric pharmacokinetic studies.
 Intravenous loading doses of 6 mg/kg IV twice daily on day 1 followed by 4 mg/kg intravenous dose twice daily and 300 mg oral tablets twice daily were evaluated in one adolescent pharmacokinetic study.
@@ -85,7 +87,7 @@ Based on the population pharmacokinetic analysis, 12- to 14-year-old adolescents
 
 Renal impairment
 In an oral single-dose (200 mg) study in subjects with normal renal function and mild (creatinine clearance 41-60 ml/min) to severe (creatinine clearance < 20 ml/min) renal impairment, the pharmacokinetics of voriconazole were not significantly affected by renal impairment.
-The plasma protein binding of voriconazole was similar in subjects with different degrees of renal impairment(see sections 4.2 and 4.4).
+The plasma protein binding of voriconazole was similar in subjects with different degrees of renal impairment (see sections 4.2 and 4.4).
 
 Hepatic impairment
 After an oral single-dose (200 mg), AUC was 233% higher in subjects with mild to moderate hepatic cirrhosis (Child-Pugh A and B) compared with subjects with normal hepatic function.
@@ -99,17 +101,11 @@ No pharmacokinetic data are available for patients with severe hepatic cirrhosis
 
 No significant differences in Cmax and AUCτ were observed between healthy elderly females (≥65 years) and healthy young females (18-45 years).
 
-Multiple intravenous doses of 3, 4, 6, 7 and 8 mg/kg twice daily and multiple oral doses (using powder for oral suspension) of 4 mg/kg, 6 mg/kg, and 200 mg twice daily were evaluated in 3 paediatric pharmacokinetic studies.
-
 In an oral single-dose (200 mg) study in subjects with normal renal function and mild (creatinine clearance 41-60 ml/min) to severe (creatinine clearance <20 ml/min) renal impairment, the pharmacokinetics of voriconazole were not significantly affected by renal impairment.
-The plasma protein binding of voriconazole was similar in subjects with different degrees of renal impairment (see sections 4.2 and 4.4).
 
 In an oral multiple-dose study, AUCτ was similar in subjects with moderate hepatic cirrhosis (Child-Pugh B) given a maintenance dose of 100 mg twice daily and subjects with normal hepatic function given 200 mg twice daily.
 
 [VFEND 200 mg powder for solution for infusion]
-
-Paediatrics
-The recommended doses in children and adolescent patients are based on a population pharmacokinetic analysis of data pooled from 112 immunocompromised paediatric patients aged 2 to <12 years and 26 immunocompromised adolescent patients aged 12 to <17 years.
 
 It is likely that these subjects may metabolize voriconazole more similarly to children than to adolescents/adults.
 

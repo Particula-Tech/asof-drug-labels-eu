@@ -67,7 +67,7 @@ Instructions for reconstitution and use:
   The spike in the vial adapter will penetrate the vial seal.
 - Remove the bag of VFEND solvent for solution for infusion from the foil overwrap (do not use scissors or any other sharp tool).
   Snap open the blue port of the infusion bag.
-- The VFEND powder is reconstituted by using the specially marked syringe provided to remove 19 ml of VFEND solvent for solution for infusion (Sodium Chloride (0.9%)) from the blue port of the infusion bag.
+- The VFEND powder is reconstituted by using the specially marked syringe provided to remove 19 ml of VFEND solvent for solution for infusion (Sodium Chloride (0.9%) from the blue port of the infusion bag.
 - The VFEND solvent for solution for infusion is then added to the vial by unscrewing the syringe from the bag, connecting it to the vial adapter and then emptying the contents from the syringe into the vial.
 - This will provide an extractable volume of 20 ml of clear concentrate containing 10 mg/ml of voriconazole.
   The connected syringe and vial are then gently swirled to ensure that the VFEND powder has completely dissolved and no particulates are visible (do not shake).
@@ -134,6 +134,7 @@ Press bottle adaptor into the neck of the bottle.
 Replace the cap.
 6.
 Write the date of expiration of the constituted suspension on the bottle label (the shelf-life of the constituted suspension is 14 days).
+
 Following constitution, the volume of the suspension is 75 ml, providing a usable volume of 70 ml.
 
 Instructions for use:

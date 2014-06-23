@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antimycotics for systemic use, triazole derivatives, ATC: J02AC03
+Pharmacotherapeutic group: Antimycotics for systemic use, triazole derivatives, ATC code: J02A C03
 
 Mode of Action
 Voriconazole is a triazole antifungal agent.
@@ -10,9 +10,10 @@ Voriconazole has been shown to be more selective for fungal cytochrome P-450 enz
 
 Pharmacokinetic/pharmacodynamic Relationship
 In 10 therapeutic studies, the median for the average and maximum plasma concentrations in individual subjects across the studies was 2425 ng/ml (inter-quartile range 1193 to 4380 ng/ml) and 3742 ng/ml (inter-quartile range 2027 to 6302 ng/ml), respectively.
-A positive association between mean, maximum or minimum plasma voriconazole concentration and efficacy in therapeutic studies was not found.
+A positive association between mean, maximum or minimum plasma voriconazole concentration and efficacy in therapeutic studies was not found and this relationship has not been explored in prophylaxis studies.
 
 Pharmacokinetic-Pharmacodynamic analyses of clinical trial data identified positive associations between plasma voriconazole concentrations and both liver function test abnormalities and visual disturbances.
+Dose adjustments in prophylaxis studies have not been explored.
 
 Clinical efficacy and safety
 In vitro, voriconazole displays broad-spectrum antifungal activity with antifungal potency against
@@ -20,12 +21,17 @@ Candida species (including fluconazole-resistant C. krusei and resistant strains
 C. albicans) and fungicidal activity against all Aspergillus species tested.
 In addition voriconazole shows in vitro fungicidal activity against emerging fungal pathogens, including those such as Scedosporium or Fusarium which have limited susceptibility to existing antifungal agents.
 
-Clinical efficacy defined as complete or partial response,) has been demonstrated for Aspergillus spp. including A. flavus, A. fumigatus, A. terreus, A. niger, A. nidulans; Candida spp., including C. albicans, C. glabrata, C. krusei, C. parapsilosis and C. tropicalis; and limited numbers of C. dubliniensis, C. inconspicua, and C. guilliermondii, Scedosporium spp., including S. apiospermum, S. prolificans; and Fusarium spp.
+Clinical efficacy defined as partial or complete response, has been demonstrated for Aspergillus spp. including A. flavus, A. fumigatus, A. terreus, A. niger, A. nidulans; Candida spp., including C. albicans,
+C. glabrata, C. krusei, C. parapsilosis and C. tropicalis; and limited numbers of C. dubliniensis,
+C. inconspicua, and C. guilliermondii, Scedosporium spp., including S. apiospermum, S. prolificans;
+and Fusarium spp.
 
 Other treated fungal infections (often with either partial or complete response) included isolated cases of
-Alternaria spp., Blastomyces dermatitidis, Blastoschizomyces capitatus, Cladosporium spp., Coccidioides immitis, Conidiobolus coronatus, Cryptococcus neoformans, Exserohilum rostratum, Exophiala spinifera, Fonsecaea pedrosoi, Madurella mycetomatis, Paecilomyces lilacinus, Penicillium spp. including P. marneffei, Phialophora richardsiae, Scopulariopsis brevicaulis and Trichosporon spp. including T. beigelii infections.
-
-In vitro activity against clinical isolates has been observed for Acremonium spp., Alternaria spp., Bipolaris spp., Cladophialophora spp.and Histoplasma capsulatum, with most strains being inhibited by concentrations of voriconazole in the range 0.05 to 2 µg/ml.
+Alternaria spp., Blastomyces dermatitidis, Blastoschizomyces capitatus, Cladosporium spp., Coccidioides immitis, Conidiobolus coronatus, Cryptococcus neoformans, Exserohilum rostratum, Exophiala spinifera, Fonsecaea pedrosoi, Madurella mycetomatis, Paecilomyces lilacinus, Penicillium spp. including
+P. marneffei, Phialophora richardsiae, Scopulariopsis brevicaulis and Trichosporon spp. including
+T. beigelii infections.
+In vitro activity against clinical isolates has been observed for Acremonium spp., Alternaria spp.,
+Bipolaris spp., Cladophialophora spp., and Histoplasma capsulatum, with most strains being inhibited by concentrations of voriconazole in the range 0.05 to 2 µg/ml.
 
 In vitro activity against the following pathogens has been shown, but the clinical significance is unknown: Curvularia spp. and Sporothrix spp.
 
@@ -34,7 +40,7 @@ Specimens for fungal culture and other relevant laboratory studies (serology, hi
 Therapy may be instituted before the results of the cultures and other laboratory studies are known; however, once these results become available, anti-infective therapy should be adjusted accordingly.
 
 The species most frequently involved in causing human infections include C. albicans, C. parapsilosis,
-C. tropicalis, C. glabrata and C. krusei, all of which usually exhibit MICs of less than 1 mg/L for voriconazole.
+C. tropicalis, C. glabrata and C. krusei, all of which usually exhibit minimal inhibitory concentration (MICs) of less than 1 mg/L for voriconazole.
 
 However, the in vitro activity of voriconazole against Candida species is not uniform.
 Specifically, for
@@ -113,8 +119,71 @@ Four additional patients with fusariosis had an infection caused by several orga
 
 The majority of patients receiving voriconazole treatment of the above mentioned rare infections were intolerant of, or refractory to, prior antifungal therapy.
 
+Primary Prophylaxis of Invasive Fungal Infections – Efficacy in HSCT recipients without prior proven or probable IFI
+Voriconazole was compared to itraconazole as primary prophylaxis in an open-label, comparative, multicenter study of adult and adolescent allogeneic HSCT recipients without prior proven or probable IFI.
+Success was defined as the ability to continue study drug prophylaxis for 100 days after HSCT (without stopping for >14 days) and survival with no proven or probable IFI for 180 days after HSCT.
+The modified intent-to-treat (MITT) group included 465 allogeneic HSCT recipients with 45% of patients having AML.
+From all patients 58% were subject to myeloablative conditions regimens.
+Prophylaxis with study drug was started immediately after HSCT: 224 received voriconazole and 241 received itraconazole.
+The median duration of study drug prophylaxis was 96 days for voriconazole and 68 days for itraconazole in the MITT group.
+
+Success rates and other secondary endpoints are presented in the table below:
+
+Study Endpoints Voriconazole Itraconazole Difference in P-Value
+N=224 N=241 proportions and the
+95% confidence
+interval (CI)
+Success at day 180* 109 (48.7%) 80 (33.2%) 16.4% (7.7%, 25.1%)** 0.0002**
+Success at day 100 121 (54.0%) 96 (39.8%) 15.4% (6.6%, 24.2%)** 0.0006**
+Completed at least 100 days of 120 (53.6%) 94 (39.0%) 14.6% (5.6%, 23.5%) 0.0015
+study drug prophylaxis
+Survived to day 180 184 (82.1%) 197 (81.7%) 0.4% (-6.6%, 7.4%) 0.9107
+Developed proven or probable IFI 3 (1.3%) 5 (2.1%) -0.7% (-3.1%, 1.6%) 0.5390
+to day 180
+Developed proven or probable IFI 2 (0.9%) 4 (1.7%) -0.8% (-2.8%, 1.3%) 0.4589
+to day 100
+Developed proven or probable IFI 0 3 (1.2%) -1.2% (-2.6%, 0.2%) 0.0813
+while on study drug
+
+* Primary endpoint of the study
+** Difference in proportions, 95% CI and p-valuesobtained after adjustment for randomization
+
+The breakthrough IFI rate to Day 180 and the primary endpoint of the study, which is Success at Day 180, for patients with AML and myeloablative conditioning regimens respectively, is presented in the table below:
+AML
+
+Study endpoints Voriconazole Itraconazole Difference in proportions and
+(N=98) (N=109) the 95% confidence interval
+(CI)
+Breakthrough IFI – Day 180 1 (1.0%) 2 (1.8%) -0.8% (-4.0%, 2.4%) **
+Success at Day 180* 55 (56.1%) 45 (41.3%) 14.7% (1.7%, 27.7%)***
+
+* Primary endpoint of study
+** Using a margin of 5%, non inferiority is demonstrated
+***Difference in proportions, 95% CI obtained after adjustment for randomization
+
+Myeloablative conditioning regimens
+
+Study endpoints Voriconazole Itraconazole Difference in proportions and
+(N=125) (N=143) the 95% confidence interval
+(CI)
+Breakthrough IFI – Day 180 2 (1.6%) 3 (2.1%) -0.5% (-3.7%, 2.7%) **
+Success at Day 180* 70 (56.0%) 53 (37.1%) 20.1% (8.5%, 31.7%)***
+
+* Primary endpoint of study
+** Using a margin of 5%, non inferiority is demonstrated
+*** Difference in proportions, 95% CI obtained after adjustment for randomization
+
+Secondary Prophylaxis of IFI – Efficacy in HSCT recipients with prior proven or probable IFI
+Voriconazole was investigated as secondary prophylaxis in an open-label, non-comparative, multicenter study of adult allogeneic HSCT recipients with prior proven or probable IFI.
+The primary endpoint was the rate of occurrence of proven and probable IFI during the first year after HSCT.
+The MITT group included 40 patients with prior IFI, including 31 with aspergillosis, 5 with candidiasis, and 4 with other IFI.
+The median duration of study drug prophylaxis was 95.5 days in the MITT group.
+
+Proven or probable IFIs developed in 7.5% (3/40) of patients during the first year after HSCT, including one candidemia, one scedosporiosis (both relapses of prior IFI), and one zygomycosis.
+The survival rate at Day 180 was 80.0% (32/40) and at 1 year was 70.0% (28/40).
+
 Duration of treatment
-In clinical trials, 561 patients received voriconazole therapy for greater than 12 weeks, with 136 patients receiving voriconazole for over 6 months.
+In clinical trials, 705 patients received voriconazole therapy for greater than 12 weeks, with 164 patients receiving voriconazole for over 6 months.
 
 Paediatric population
 Sixty-one paediatric patients aged 9 months up to 15 years who had definite or probable invasive fungal infections were treated with voriconazole.
@@ -133,15 +202,11 @@ No subject experienced an interval exceeding the potentially clinically-relevant
 
 [VFEND 200 mg film-coated tablets]
 
-Pharmacotherapeutic group: Antimycotics for systemic use, triazole derivatives, ATC code
-J02AC03
-
-Clinical efficacy defined as partial or complete response, has been demonstrated for Aspergillus spp. including A. flavus, A. fumigatus, A. terreus, A. niger, A. nidulans: Candida spp., including C. albicans, C. glabrata, C. krusei, C. parapsilosis and C. tropicalis; and limited numbers of C. dubliniensis, C. inconspicua, and C. guilliermondii, Scedosporium spp., including S. apiospermum, S. prolificans; and Fusarium spp.
+Pharmacotherapeutic group: Antimycotics for systemic use, triazole derivatives, ATC code J02
+AC03
 
 Alternaria spp., Blastomyces dermatitidis, Blastoschizomyces capitatus, Cladosporium spp.,
 Coccidioides immitis, Conidiobolus coronatus, Cryptococcus neoformans, Exserohilum rostratum, Exophiala spinifera, Fonsecaea pedrosoi, Madurella mycetomatis, Paecilomyces lilacinus, Penicillium spp. including P. marneffei, Phialophora richardsiae, Scopulariopsis brevicaulis and Trichosporon spp. including T. beigelii infections.
-
-In vitro activity against clinical isolates has been observed for Acremonium spp., Alternaria spp., Bipolaris spp., Cladophialophora spp.,and Histoplasma capsulatum, with most strains being inhibited by concentrations of voriconazole in the range 0.05 to 2 µg/ml.
 
 | Candida species | MIC breakpoint (mg/L) |  |
 | --- | --- | --- |
@@ -154,33 +219,45 @@ In vitro activity against clinical isolates has been observed for Acremonium spp
 | Other Candida spp.4 | Insufficient evidence |  |
 | 1 Strains with MIC values above the Susceptible (S) breakpoint are rare, or not yet reported. The identification and antimicrobial susceptibility tests on any such isolate must be repeated and if the result is confirmed the isolate sent to a reference laboratory. 2 In clinical studies, response to voriconazole in patients with C. glabrata infections was 21% lower compared to C. albicans, C. parapsilosis and C. tropicalis . However, this reduced response was not correlated with elevated MICs. 3 In clinical studies, response to voriconazole in C. krusei infections was similar to C. albicans, C. parapsilosis and C. tropicalis. However, as there were only 9 cases available for EUCAST analysis, there is currently insufficient evidence to set clinical breakpoints for C. krusei. 4 EUCAST has not determined non-species related breakpoints for voriconazole. |  |  |
 
-Four additional patients with fusariosis had an infection caused by several organisms; 2of them had a successful outcome.
+Study Endpoints Voriconazole Itraconazole Difference in proportions P-Value
+N=224 N=241 and the 95% confidence
+Completed at least 100 days 120 (53.6%) 94 (39.0%) 14.6% (5.6%, 23.5%) 0.0015
+of study drug prophylaxis
+Developed proven or 3 (1.3%) 5 (2.1%) -0.7% (-3.1%, 1.6%) 0.5390
+probable IFI to day 180
+Developed proven or 2 (0.9%) 4 (1.7%) -0.8% (-2.8%, 1.3%) 0.4589
+probable IFI to day 100
+Developed proven or 0 3 (1.2%) -1.2% (-2.6%, 0.2%) 0.0813
+probable IFI while on study
+drug
+
+Study endpoints Voriconazole Itraconazole Difference in proportions
+(N=98) (N=109) and the 95% confidence
+
+(N=125) (N=143) and the 95% confidence
 
 [VFEND 200 mg powder for solution for infusion]
 
 Pharmacotherapeutic group: Antimycotics for systemic use, triazole derivatives, ATC code: J02A
 C03
 
-Clinical efficacy defined as partial or complete response, has been demonstrated for Aspergillus spp. including A. flavus, A. fumigatus, A. terreus, A. niger, A. nidulans; Candida spp., including C. albicans, C. glabrata, C. krusei, C. parapsilosis and C. tropicalis; and limited numbers of C. dubliniensis, C. inconspicua, and C. guilliermondii, Scedosporium spp., including S. apiospermum, S. prolificans; and Fusarium spp.
-
-Other treated fungal infections (often with either partial or complete response, see below under Clinical Experience) included isolated cases of Alternaria spp., Blastomyces dermatitidis, Blastoschizomyces capitatus, Cladosporium spp., Coccidioides immitis, Conidiobolus coronatus, Cryptococcus neoformans, Exserohilum rostratum, Exophiala spinifera, Fonsecaea pedrosoi, Madurella mycetomatis, Paecilomyces lilacinus, Penicillium spp. including P. marneffei, Phialophora richardsiae, Scopulariopsis brevicaulis and
+Coccidioides immitis, Conidiobolus coronatus, Cryptococcus neoformans, Exserohilum rostratum, Exophiala spinifera, Fonsecaea pedrosoi, Madurella mycetomatis, Paecilomyces lilacinus,
+Penicillium spp. including P. marneffei, Phialophora richardsiae, Scopulariopsis brevicaulis and
 Trichosporon spp. including T. beigelii infections.
 
-In vitro activity against clinical isolates has been observed for Acremonium spp., Alternaria spp., Bipolaris spp., Cladophialophora spp., and Histoplasma capsulatum, with most strains being inhibited by concentrations of voriconazole in the range 0.05 to 2 µg/ml.
+Developed proven or probable 3 (1.3%) 5 (2.1%) -0.7% (-3.1%, 1.6%) 0.5390
+IFI to day 180
+Developed proven or probable 2 (0.9%) 4 (1.7%) -0.8% (-2.8%, 1.3%) 0.4589
+IFI to day 100
+Developed proven or probable 0 3 (1.2%) -1.2% (-2.6%, 0.2%) 0.0813
+IFI while on study drug
 
-Scedosporium spp.: Successful response to voriconazole therapy was seen in 16 (6 complete, 10 partial responses) of 28 patients with S. apiospermum and in 2 (both partial response) of 7 patients with
-
-A placebo-controlled, randomized, single-dose, crossover study to evaluate the effect on the QTc interval of healthy subjects was conducted with three oral doses of voriconazole and ketoconazole.
+** Difference in proportions, 95% CI and p-values obtained after adjustment for randomization
 
 [VFEND 200 mg powder and solvent for solution for infusion]
 
-No subject in any group had an increase in QTc of ≥ 60 msec from baseline.
+(all sentences already above)
 
 [VFEND 40 mg/ml powder for oral suspension]
 
-Clinical efficacy defined as partial or complete response, seehas been demonstrated for Aspergillus spp. including A. flavus, A. fumigatus, A. terreus, A. niger, A. nidulans; Candida spp., including C. albicans, C. glabrata, C. krusei, C. parapsilosis and C. tropicalis; and limited numbers of C. dubliniensis, C. inconspicua, and C. guilliermondii, Scedosporium spp., including S. apiospermum, S. prolificans; and Fusarium spp.
-
-Coccidioides immitis, Conidiobolus coronatus, Cryptococcus neoformans, Exserohilum rostratum,Exophiala spinifera, Fonsecaea pedrosoi, Madurella mycetomatis, Paecilomyces lilacinus, Penicillium spp. including
-P. marneffei, Phialophora richardsiae, Scopulariopsis brevicaulis and Trichosporon spp. including T. beigelii infections.
-
-In vitro activity against clinical isolates has been observed for Acremonium spp., Alternaria spp., Bipolaris spp., Cladophialophora spp., Histoplasma capsulatum, with most strains being inhibited by concentrations of voriconazole in the range 0.05 to 2µg/ml.
+95% confidence interval
