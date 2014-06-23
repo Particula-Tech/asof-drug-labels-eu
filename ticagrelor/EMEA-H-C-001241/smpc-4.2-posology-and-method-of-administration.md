@@ -19,7 +19,7 @@ Patients treated with clopidogrel can be directly switched to Brilique if needed
 Switching from prasugrel to Brilique has not been investigated.
 
 Special populations
-Elderly patients
+Older people
 No dose adjustment is required in elderly (see section 5.2).
 
 Patients with renal impairment
@@ -31,7 +31,7 @@ No dose adjustment is necessary for patients with mild hepatic impairment.
 Brilique has not been studied in patients with moderate or severe hepatic impairment.
 Its use in patients with moderate to severe hepatic impairment is therefore contraindicated (see section 4.3, 4.4 and 5.2).
 
-Paediatric patients
+Paediatric population
 The safety and efficacy of Brilique in children below the age of 18 in the approved adult indication has not been established.
 No data are available (see section 5.1 and 5.2).
 

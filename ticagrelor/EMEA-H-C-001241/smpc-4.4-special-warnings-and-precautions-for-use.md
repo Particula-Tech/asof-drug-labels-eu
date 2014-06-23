@@ -65,5 +65,5 @@ The concomitant use of Brilique with doses of simvastatin or lovastatin greater 
 
 Close clinical and laboratory monitoring is recommended when giving digoxin concomitantly with Brilique (see section 4.5).
 
-No data are available on concomitant use of Brilique with potent P-glycoprotein (P-gp) inhibitors (e.g. verapamil, quinidine, cyclosporin) that may increase ticagrelor exposure.
+No data are available on concomitant use of Brilique with verapamil and quinidine, drugs that are potent P-glycoprotein (P-gp) inhibitors and moderate CYP3A4 inhibitors which may increase ticagrelor exposure.
 If the association cannot be avoided, their concomitant use should be made with caution (see section 4.5).

@@ -31,7 +31,7 @@ The mean t1/2 was approximately 7 hours for ticagrelor and 8.5 hours for the act
 
 Special populations
 
-Elderly
+Older people
 Higher exposures to ticagrelor (approximately 25% for both Cmax and AUC) and the active metabolite were observed in elderly (≥ 75years) ACS patients compared to younger patients by the population pharmacokinetic analysis.
 These differences are not considered clinically significant (see section 4.2).
 
@@ -43,7 +43,7 @@ Higher exposures to ticagrelor and the active metabolite were observed in women 
 These differences are not considered clinically significant.
 
 Renal impairment
-Exposure to ticagrelor and the active metabolite were approximately 20% lower in patients with severe renal impairment (creatinine clearance <30 ml/min) compared to subjects with normal renal function (see section 4.2).
+Exposure to ticagrelor was approximately 20% lower and exposure to the active metabolite was approximately 17% higher in patients with severe renal impairment (creatinine clearance <30 ml/min) compared to subjects with normal renal function (see section 4.2).
 
 Hepatic impairment
 Cmax and AUC for ticagrelor were 12% and 23% higher in patients with mild hepatic impairment compared to matched healthy subjects, respectively (see section 4.2).

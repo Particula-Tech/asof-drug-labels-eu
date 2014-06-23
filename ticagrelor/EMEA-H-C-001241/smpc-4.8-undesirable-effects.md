@@ -1,12 +1,12 @@
 # 4.8 Undesirable effects
 
-Summary of safety profile
+Summary of the safety profile
 The safety of Brilique in patients with acute coronary syndromes (UA, NSTEMI and STEMI) was evaluated in the pivotal large phase 3 PLATO ([PLATelet Inhibition and Patient Outcomes] study, 18,624 patients), which compared patients treated with Brilique (loading dose of 180 mg of Brilique and a maintenance dose of 90 mg twice daily) to patients treated with clopidogrel (300-600 mg loading dose followed by 75 mg once daily maintenance dose) both given in combination with acetylsalicylic acid (ASA) and other standard therapies.
 
 The most commonly reported adverse reactions in patients treated with ticagrelor were dyspnoea, contusion and epistaxis and these reactions occurred at higher rates than in the clopidogrel treatment group.
 
-Tabulated summary of adverse reactions
-The following adverse reactions have been identified following studies with Brilique (Table 1).
+Tabulated list of adverse reactions
+The following adverse reactions have been identified following studies or have been reported in post-marketing experience with Brilique (Table 1).
 
 Adverse reactions are classified according to frequency and System Organ Class.
 Frequency categories are defined according to the following conventions: Very common (≥1/10), Common
@@ -20,7 +20,7 @@ Frequency categories are defined according to the following conventions: Very co
 | Psychiatric disorders |  |  |
 |  |  | Confusion |
 | Nervous system disorders |  |  |
-|  | Intracranial haemorrhageb, Dizziness, Headache | Paraesthesia |
+|  | Intracranial haemorrhage (including fatal)b, ##, Dizziness, Headache | Paraesthesia |
 | Eye disorders |  |  |
 |  | Eye haemorrhage (intraocular, conjunctival, retinal) |  |
 | Ear and labyrinth disorders |  |  |
@@ -28,6 +28,7 @@ Frequency categories are defined according to the following conventions: Very co
 | Respiratory, thoracic and mediastinal disorders |  |  |
 | Dyspnoeac, Epistaxis | Haemoptysis |  |
 | Gastrointestinal disorders |  |  |
+| Common | Uncommon | Rare |
 | Gastrointestinal haemorrhaged | Haematemesis, Gastroinstestinal ulcer haemorrhagee, Haemorrhoidal haemorrhage, Gastritis, Oral haemorrhage (including gingival bleeding), Vomiting, Diarrhoea, Abdominal pain, Nausea, Dyspepsia | Retroperitoneal haemorrhage, Constipation |
 | Skin and subcutaneous tissue disorders |  |  |
 | Subcutaneous or dermal bleedingf, Bruising g | Rash, Pruritus |  |
@@ -39,7 +40,6 @@ Frequency categories are defined according to the following conventions: Very co
 |  | Vaginal bleeding (including metrorrhagia) |  |
 | Investigations |  |  |
 |  |  | Blood creatinine increased |
-| Common | Uncommon | Rare |
 | Injury, poisoning and procedural complications |  |  |
 | Procedural site haemorrhagei | Post procedural haemorrhage, Haemorrhage | Wound haemorrhage, Traumatic haemorrhage |
 | Immune system disorders |  |  |
@@ -49,6 +49,7 @@ Multiple related adverse reaction terms have been grouped together in the table 
 a Hyperuricaemia, Blood uric acid increased b Cerebral haemorrhage, Haemorrhage intracranial, Haemorrhagic stroke, c Dyspnoea, Dyspnoea exertional, Dyspnoea at rest, Nocturnal dyspnoea d Gastrointestinal haemorrhage, Rectal haemorrhage, Intestinal haemorrhage, Melaena, Occult blood e Gastrointestinal ulcer haemorrhage, Gastric ulcer haemorrhage, Duodenal ulcer haemorrhage, Peptic ulcer haemorrhage f Subcutaneous haematoma, Skin haemorrhage, Haemorrhage subcutaneous, Petechiae g Contusion, Haematoma, Ecchymosis, Increased tendency to bruise, Traumatic haematoma h Haematuria, Blood urine present, Haemorrhage urinary tract i Vessel puncture site haemorrhage, Vessel puncture site haematoma, Injection site haemorrhage, Puncture site haemorrhage, Catheter site haemorrhage
 # There were no reported ADRs of haemarthrosis reported in the ticagrelor arm (n=9235) of the PLATO study, the frequency has been calculated using the upper limit of the 95% confidence interval for the point estimate (based on 3/X, where X represents the total sample size e.g. 9235).
 This is calculated as 3/9235 which equates to a frequency category of ‘rare’
+## Fatal intracranial bleedings have been reported during post-marketing
 
 Description of selected adverse reactions
 
@@ -57,7 +58,10 @@ Overall outcome of bleeding rates in the PLATO study are shown in Table 2.
 
 Table 2 –Kaplan-Meier estimate of bleeding rates by treatment
 
-|  | Brilique (%/year) N=9235 | Clopidogrel (%/year) N=9186 | P |
+Brilique Clopidogrel
+(%/year) (%/year)
+
+|  | N=9235 | N=9186 | P |
 | --- | --- | --- | --- |
 | PLATO Total Major | 11.6 | 11.2 | 0.4336 |
 | PLATO Major Fatal/Life-Threatening | 5.8 | 5.8 | 0.6988 |
@@ -120,3 +124,10 @@ Mean serum uric acid concentration increased approximately 15% with ticagrelor c
 The hyperuricaemia AEs reported were 0.5% for ticagrelor vs. 0.2% for clopidogrel.
 Of these AEs 0.05% for ticagrelor vs. 0.02% for clopidogrel were considered causally related by investigators.
 For gouty arthritis, the AEs reported were 0.2% for ticagrelor vs 0.1% for clopidogrel; none of these adverse events were assessed as causally related by investigators.
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system
+
+listed in Appendix V.

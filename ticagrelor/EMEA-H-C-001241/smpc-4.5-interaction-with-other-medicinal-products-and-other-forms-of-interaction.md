@@ -1,7 +1,7 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 Ticagrelor is primarily a CYP3A4 substrate and a mild inhibitor of CYP3A4.
-Ticagrelor is also a P-gp substrate and a weak P-gp inhibitor and may increase the exposure of P-gp substrates.
+Ticagrelor is also a P-glycoprotein (P-gp) substrate and a weak P-gp inhibitor and may increase the exposure of P-gp substrates.
 
 Effects of other medicinal products on Brilique
 
@@ -21,12 +21,19 @@ The Cmax of the active metabolite was unchanged and the AUC was decreased by 46%
 Other CYP3A inducers (e.g. dexamethasone, phenytoin, carbamazepine and phenobarbital) would be expected to decrease the exposure to Brilique as well.
 Co-administration of ticagrelor with potent CYP3A inducers may decrease exposure and efficacy of ticagrelor (see section 4.4).
 
+Cyclosporine (P-gp and CYP3A inhibitor)
+Co-administration of cyclosporine (600 mg) with ticagrelor increased ticagrelor Cmax and AUC equal to 2.3-fold and 2.8-fold, respectively.
+The AUC of the active metabolite was increased by 32% and Cmax was decreased by 15% in the presence of cyclosporine.
+
+No data are available on concomitant use of Brilique with other drugs that also are potent P-glycoprotein (P-gp) inhibitors and moderate CYP3A4 inhibitors (e.g. verapamil, quinidine) that also may increase ticagrelor exposure.
+If the association cannot be avoided, their concomitant use should be made with caution (see section 4.4).
+
 Others
 Clinical pharmacology interaction studies showed that co-administration of ticagrelor with heparin, enoxaparin and ASA or desmopressin did not have any effect on the pharmacokinetics of ticagrelor or the active metabolite or on ADP-induced platelet aggregation compared with ticagrelor alone.
 If clinically indicated, medicinal products that alter haemostasis should be used with caution in combination with Brilique (see section 4.4).
 
-No data are available on concomitant use of Brilique with potent P-gp inhibitors (e.g. verapamil, quinidine, cyclosporin) that may increase ticagrelor exposure.
-If clinically indicated, their concomitant use should be made with caution (see section 4.4).
+A 2-fold increase of ticagrelor exposure was observed after daily consumption of large quantities of grapefruit juice (3x 200ml).
+This magnitude of increased exposure is not expected to be clinically relevant to most patients.
 
 Effects of Brilique on other medicinal products
 
@@ -53,13 +60,17 @@ Oral contraceptives
 Co-administration of Brilique and levonorgestrel and ethinyl estradiol increased ethinyl estradiol exposure approximately 20% but did not alter the pharmacokinetics of levonorgestrel.
 No clinically relevant effect on oral contraceptive efficacy is expected when levonorgestrel and ethinyl estradiol are co-administered with Brilique.
 
-P-glycoprotein (P-gp) substrates (including digoxin, cyclosporin)
+P-glycoprotein (P-gp) substrates (including digoxin, cyclosporine)
 Concomitant administration of Brilique increased the digoxin Cmax by 75% and AUC by 28%.
 The mean trough digoxin levels were increased about 30% with ticagrelor co-administration with some individual maximum increases to 2 fold.
 In the presence of digoxin, the Cmax and AUC of ticagrelor and its active metabolite were not affected.
-Therefore, appropriate clinical and/or laboratory monitoring is recommended when giving narrow therapeutic index P-gp dependent medicinal products like digoxin or cyclosporin concomitantly with Brilique (see section 4.4).
+Therefore, appropriate clinical and/or laboratory monitoring is recommended when giving narrow therapeutic index P-gp dependent medicinal products like digoxin concomitantly with Brilique (see section 4.4).
+
+There was no effect of ticagrelor on cyclosporine blood levels.
+Effect of ticagrelor on other P-gp substrates has not been studied.
 
 Other concomitant therapy
+
 Medicinal products known to induce bradycardia
 Due to observations of mostly asymptomatic ventricular pauses and bradycardia, caution should be exercised when administering Brilique concomitantly with medicinal products known to induce bradycardia (see section 4.4).
 However no evidence of clinically significant adverse reactions was observed in the PLATO trial after concomitant administration with one or more medicinal products known to induce bradycardia (e.g., 96% beta blockers, 33% calcium channel blockers diltiazem and verapamil, and 4% digoxin).

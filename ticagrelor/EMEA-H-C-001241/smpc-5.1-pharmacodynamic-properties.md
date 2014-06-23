@@ -37,6 +37,7 @@ Exploratory analyses suggest a possible association with ASA dose such that redu
 Chronic daily ASA doses to accompany Brilique should be 75-150 mg (see section 4.2 and 4.4).
 
 Figure 1 shows the estimate of the risk to the first occurrence of any event in the composite efficacy endpoint.
+
 Figure 1 – Time to first occurrence of CV death, MI and Stroke (PLATO)
 
 Brilique reduced the occurrence of the primary composite endpoint compared to clopidogrel in both the UA/NSTEMI and STEMI population (Table 3).
