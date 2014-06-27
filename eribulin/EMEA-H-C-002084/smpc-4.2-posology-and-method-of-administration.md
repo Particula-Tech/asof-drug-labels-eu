@@ -55,14 +55,16 @@ The doses above may be used in mild and moderate impairment but close monitoring
 
 Patients with renal impairment
 
-Patients with severely impaired renal function (creatinine clearance <40 ml/min) may need a reduction of the dose (see section 5.2).
+Patients with severely impaired renal function (creatinine clearance <40 ml/min) may need a reduction of the dose.
 The optimal dose for this patient groups remains to be established.
 Caution and close safety monitoring as advised.
-No specific dose adjustments are recommended for patients with mild to moderate renal impairment.
 
+No specific dose adjustments are recommended for patients with mild to moderate renal impairment but close safety monitoring is advised.
+(See section 5.2)
 Elderly patients
 
 No specific dose adjustments are recommended based on the age of the patient (see section 4.8).
+
 Paediatric population
 
 There is no relevant use of HALAVEN in children and adolescents in the indication of breast cancer.

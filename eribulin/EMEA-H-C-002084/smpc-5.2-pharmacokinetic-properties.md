@@ -20,12 +20,14 @@ The pharmacokinetic properties are not dose or time dependent in the range of er
 
 Eribulin is eliminated primarily by biliary excretion.
 The transport protein involved in the excretion is presently unknown.
-Preclinical studies indicate that eribulin is transported by Pgp.
-However, it is unknown whether Pgp is contributing to the biliary excretion of eribulin.
-
+Preclinical in vitro studies indicate that eribulin is transported by Pgp.
+However it has been shown that at clinically relevant concentrations eribulin is not a Pgp inhibitor in vitro.
+Additionally, in vivo, concomitant administration of ketoconazole, a Pgp inhibitor, has no effect on eribulin exposure (AUC and Cmax).
+In vitro studies have also indicated that eribulin is not a substrate for OCT1.
 After administration of 14C-eribulin to patients, approximately 82% of the dose was eliminated in faeces and 9% in urine indicating that renal clearance is not a significant route of eribulin elimination.
 
 Unchanged eribulin represented most of the total radioactivity in faeces and urine.
+
 Hepatic impairment
 
 A study evaluated the PK of eribulin in patients with mild (Child-Pugh A; n=7) and moderate (Child-Pugh B; n=4) hepatic impairment due to liver metastases.
@@ -36,5 +38,6 @@ See section 4.2 for dosage recommendation.
 
 Renal impairment
 
-A study in patients with different degrees of impaired renal function showed that the exposure of eribulin in patients with moderate renal function (creatinine clearance ≥ 40 to 59 ml/min, n=6) was similar to patients with normal renal function while the exposure in patients with severe impairment was increased by 75% (creatinine clearance < 40 ml/min, n=4).
+Data in patients with different degrees of impaired renal function showed that the exposure of eribulin in patients with mild to moderate renal impairment (creatinine clearance ≥ 40 to 80 ml/min) was increased in some patients, as compared to patients with normal renal function.
+The mean exposure in patients with severe impairment was increased by 75% (creatinine clearance < 40 ml/min, n=4).
 See section 4.2 for treatment recommendations.
