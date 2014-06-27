@@ -30,6 +30,7 @@ A single sputum sample from a CF patient may contain multiple isolates of P. aer
 The in vitro antimicrobial susceptibility test methods used for parenteral aztreonam therapy can be used to monitor the susceptibility of P. aeruginosa isolated from CF patients.
 
 In the Phase 3 placebo-controlled studies of Cayston, local aztreonam concentrations generally exceeded aztreonam MIC values for P. aeruginosa, regardless of the level of P. aeruginosa susceptibility.
+
 Treatment with up to nine 28-day courses of 75 mg 3 times a day Cayston therapy resulted in clinically important improvements in respiratory symptoms, pulmonary function, and sputum
 P. aeruginosa CFU density; no increases in P. aeruginosa MIC50 (± 2 dilution change) were observed, whereas MIC90 increased intermittently to 4 times the initial MIC.
 In a 24-week active-controlled study of Cayston therapy, no increases in P. aeruginosa MIC50 (± 2 dilution change) were observed, whereas MIC90 increased to 4 times the initial MIC.
@@ -103,7 +104,6 @@ Patients continued on their baseline medications and whenever indicated addition
 Each 28-day course of Cayston was followed by a 28-day off drug period.
 Over nine 28-day courses of therapy, measures of pulmonary function (FEV1), CFQ-R respiratory symptoms scores, and P. aeruginosa sputum density showed a trend to improvement while the patients were on treatment compared with off treatment.
 However, due to the uncontrolled nature of the study and concomitant medications no conclusion can be drawn on the sustainability of the observed short term benefit over subsequent courses of treatment.
-
 Paediatric population
 
 A total of 137 paediatric patients aged 6 to 17 years with FEV1 ≤ 75% predicted have received Cayston in Phase 2 and Phase 3 clinical studies.

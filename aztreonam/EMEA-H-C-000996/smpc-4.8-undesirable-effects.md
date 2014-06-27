@@ -52,9 +52,10 @@ Lung function test decreased
 
 Lung function test decreased has been reported with use of Cayston, but was not associated with a sustained decrease in FEV1 (see section 5.1).
 
-The following rare and severe adverse reactions have not been observed to date with Cayston, but have been reported after parenteral use of other aztreonam containing products: toxic epidermal necrolysis, anaphylaxis, purpura, erythema multiforme, exfoliative dermatitis, urticaria, petechiae, pruritus, diaphoresis.
+The following rare and severe adverse reactions have been reported after parenteral use of other aztreonam containing products: toxic epidermal necrolysis, anaphylaxis, purpura, erythema multiforme, exfoliative dermatitis, urticaria, petechiae, pruritus, diaphoresis.
 
 d. Paediatric population
 
 A total of 137 paediatric patients aged 6 to 17 years with FEV1 ≤ 75% predicted have received Cayston in Phase 2 and Phase 3 clinical studies (6-12 years, n = 35; 13-17 years, n = 102).
+
 In Phase 2 and Phase 3 placebo-controlled clinical studies of Cayston, pyrexia was observed at a higher incidence rate in paediatric patients aged 6 to 17 years (18%) compared to adults (8%).

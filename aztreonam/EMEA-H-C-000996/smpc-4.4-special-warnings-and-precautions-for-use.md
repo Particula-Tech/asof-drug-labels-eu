@@ -10,7 +10,7 @@ Animal and human data demonstrate low risk of cross-reactivity between aztreonam
 Aztreonam, a monobactam, is only weakly immunogenic.
 Caution is advised when administering Cayston to patients if they have a history of beta-lactam allergy.
 
-The following rare and severe adverse reactions have not been observed to date with Cayston, but have been reported after parenteral use of other aztreonam containing products: toxic epidermal necrolysis, anaphylaxis, purpura, erythema multiforme, exfoliative dermatitis, urticaria, petechiae, pruritus, diaphoresis.
+The following rare and severe adverse reactions have been reported after parenteral use of other aztreonam containing products: toxic epidermal necrolysis, anaphylaxis, purpura, erythema multiforme, exfoliative dermatitis, urticaria, petechiae, pruritus, diaphoresis.
 Bronchospasm
 
 Bronchospasm is a complication associated with nebulised therapies.
