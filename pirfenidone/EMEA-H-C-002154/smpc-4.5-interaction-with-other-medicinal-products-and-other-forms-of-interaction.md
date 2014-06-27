@@ -10,7 +10,8 @@ In a Phase 1 study, the co-administration of Esbriet and fluvoxamine (a strong i
 
 Esbriet is contraindicated in patients with concomitant use of fluvoxamine (see section 4.3).
 Fluvoxamine should be discontinued prior to the initiation of Esbriet therapy and avoided during Esbriet therapy due to the reduced clearance of pirfenidone.
-Other therapies that are inhibitors of both CYP1A2 and one or more other CYP isoenzymes involved in the metabolism of pirfenidone (e.g. CYP2C9, 2C19, and 2D6) should be avoided during pirfenidone treatment.
+Other therapies that are inhibitors of both CYP1A2 and one or more other CYP isoenzymes involved in the metabolism of pirfenidone
+(e.g. CYP2C9, 2C19, and 2D6) should be avoided during pirfenidone treatment.
 
 In vitro in vivo extrapolations indicate that strong and selective inhibitors of CYP1A2 (e.g. enoxacin) have the potential to increase the exposure to pirfenidone by approximately 2 to 4-fold.
 If concomitant use of Esbriet with a strong and selective inhibitor of CYP1A2 cannot be avoided, the dose of Esbriet should be reduced to 801 mg daily (one capsule, three times a day).

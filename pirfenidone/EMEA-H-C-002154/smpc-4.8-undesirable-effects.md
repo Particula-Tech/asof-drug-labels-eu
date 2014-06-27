@@ -14,6 +14,10 @@ Adverse reactions are listed by System Organ Class (SOC) and within each frequen
 | --- | --- |
 | Infections and infestations |  |
 | Common: | Upper respiratory tract infection; urinary tract infection |
+| Blood and lymphatic system disorders |  |
+| Rare: | Agranulocytosis1 |
+| Immune system disorders |  |
+| Uncommon: | Angioedema1 |
 | Metabolism and nutrition disorders |  |
 | Common: | Weight decreased; anorexia; decreased appetite |
 | Psychiatric disorders |  |

@@ -33,7 +33,8 @@ At Week 72, a decline from baseline in percent predicted FVC of ≥10% (a thresh
 Although there was no difference between patients receiving Esbriet compared to placebo in change from Baseline to Week 72 of distance walked during a six minute walk test (6MWT) by the prespecified rank ANCOVA, in an ad hoc analysis, 37% of patients receiving Esbriet showed a decline of ≥50 m in 6MWT distance, compared to 47% of patients receiving placebo.
 
 In study PIPF-006, treatment with Esbriet (N=171) did not reduce the decline of percent predicted FVC from Baseline at Week 72 compared with placebo (N=173; p=0.501).
-However, treatment with Esbriet reduced the decline of percent predicted FVC from Baseline at Weeks 24 (p<0.001), 36 (p=0.011), and 48 (p=0.005).
+However, treatment with Esbriet reduced the decline of percent predicted FVC from Baseline at Weeks 24 (p<0.001),
+36 (p=0.011), and 48 (p=0.005).
 At Week 72, a decline in FVC of ≥10% was seen in 23% of patients receiving Esbriet and 27% receiving placebo (Table 3).
 
 | Table 3 Categorical assessment of change from Baseline to Week 72 in percent predicted FVC in study PIPF-006 |  |  |

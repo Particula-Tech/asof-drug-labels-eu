@@ -31,17 +31,24 @@ Patients should be instructed to report symptoms of photosensitivity reaction or
 Severe photosensitivity reactions are uncommon.
 Dose adjustments or temporary treatment discontinuation may be necessary in mild to severe cases of photosensitivity reaction or rash (see section 4.2).
 
+Angioedema
+
+Reports of angioedema (some serious) such as swelling of the face, lips and/or tongue which may be associated with difficulty breathing or wheezing have been received in association with use of Esbriet in the post-marketing setting.
+Therefore, patients who develop signs or symptoms of angioedema following administration of Esbriet should immediately discontinue treatment.
+Patients with angioedema should be managed according to standard of care.
+Esbriet should not be used in patients with a history of angioedema due to Esbriet (see section 4.3).
+
 Dizziness
 
 Dizziness has been reported in patients taking Esbriet.
 Therefore, patients should know how they react to this medicinal product before they engage in activities requiring mental alertness or coordination (see section 4.7).
 In clinical studies, most patients who experienced dizziness had a single event, and most events resolved, with a median duration of 22 days.
 If dizziness does not improve or if it worsens in severity, dose adjustment or even discontinuation of Esbriet may be warranted.
-
 Fatigue
 
 Fatigue has been reported in patients taking Esbriet.
 Therefore, patients should know how they react to this medicinal product before they engage in activities requiring mental alertness or coordination (see section 4.7).
+
 Weight loss
 
 Weight loss has been reported in patients treated with Esbriet (see section 4.8).
