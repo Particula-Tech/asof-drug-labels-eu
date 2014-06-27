@@ -6,13 +6,12 @@ Patients should be warned against the use of any alcoholic beverages in conjunct
 Sodium oxybate should not be used in combination with sedative hypnotics or other CNS depressants.
 
 Sedative hypnotics
-Drug interaction studies in healthy adults with sodium oxybate (single dose of 2.25 g) and lorazepam (an anxiolytic [benzodiazepine]; single dose of 2 mg) and zolpidem tartrate (a hypnotic [non-benzodiazepine]; single dose of 5 mg) demonstrated no pharmacokinetic interactions.
+Drug interaction studies in healthy adults with sodium oxybate (single dose of 2.25 g) and lorazepam (single dose of 2 mg) and zolpidem tartrate (single dose of 5 mg) demonstrated no pharmacokinetic interactions.
 Increased sleepiness was observed after concomitant administration of sodium oxybate (2.25 g) and lorazepam (2 mg).
 The pharmacodynamic interaction with zolpidem has not been assessed.
 When higher doses up to 9 g/d of sodium oxybate are combined with higher doses of hypnotics (within the recommended dose range) pharmacodynamic interactions associated with symptoms of CNS depression and/or respiratory depression cannot be excluded (see section 4.3).
-
 Tramadol
-A drug interaction study in healthy adults with sodium oxybate (single dose of 2.25 g) and tramadol (a central acting opioid; single dose of 100 mg) demonstrated no pharmacokinetic/pharmacodynamic interaction.
+A drug interaction study in healthy adults with sodium oxybate (single dose of 2.25 g) and tramadol (single dose of 100 mg) demonstrated no pharmacokinetic/pharmacodynamic interaction.
 When higher doses up to 9 g/d of sodium oxybate are combined with higher doses of opioids (within the recommended dose range) pharmacodynamic interactions associated with symptoms of CNS depression and/or respiratory depression cannot be excluded (see sections 4.3).
 
 Antidepressants
@@ -23,14 +22,27 @@ A possible additive effect of antidepressants and sodium oxybate cannot be exclu
 The rate of adverse events has increased when sodium oxybate is co-administered with tricyclic antidepressants.
 
 Modafinil
-A drug interaction study in healthy adults demonstrated no pharmacokinetic interactions between sodium oxybate (single dose of 4.5 g) and modafinil (a stimulant; single dose of 200 mg).
+A drug interaction study in healthy adults demonstrated no pharmacokinetic interactions between sodium oxybate (single dose of 4.5 g) and modafinil (single dose of 200 mg).
 Sodium oxybate has been administered concomitantly with CNS stimulant agents in approximately 80% of patients in clinical studies in narcolepsy.
 Whether this affected respiration during the night is unknown.
 
-The co-administration of omeprazole (a medicinal product that alters gastric pH) has no clinically significant effect on the pharmacokinetics of sodium oxybate.
+Omeprazole
+The co-administration of omeprazole has no clinically significant effect on the pharmacokinetics of sodium oxybate.
 The dose of sodium oxybate therefore does not require adjustment when given concomitantly with proton pump inhibitors.
 
-Studies in vitro with pooled human liver microsomes indicate that sodium oxybate does not significantly inhibit the activities of the human isoenzymes (see section 5.2).
+Ibuprofen
+Drug interaction studies in healthy adults demonstrated no pharmacokinetic interactions between sodium oxybate and ibuprofen.
 
-Since sodium oxybate is metabolised by GHB dehydrogenase there is a potential risk of an interaction with medicinal products that stimulate or inhibit this enzyme (e.g. valproate, phenytoin or ethosuximide).
-No interaction studies have been conducted in human subjects.
+Diclofenac
+Drug interaction studies in healthy adults demonstrated no pharmacokinetic interactions between sodium oxybate and diclofenac.
+Co-administration of sodium oxybate and diclofenac in healthy volunteers reduced the attention deficit caused by the administration of Xyrem alone as measured by psychometric tests.
+
+GHB dehydrogenase inhibitors
+Since sodium oxybate is metabolised by GHB dehydrogenase there is a potential risk of an interaction with medicinal products that stimulate or inhibit this enzyme (e.g. valproate, phenytoin or ethosuximide) (see section 4.4).
+
+The co-administration of sodium oxybate (6 g per day) with valproate (1250 mg per day) resulted in an increase in systemic exposure to sodium oxybate by approximately 25% and no significant change in Cmax.
+No effect on the pharmacokinetics of valproate was observed.
+The resulting pharmacodynamic effects, including increased impairment in cognitive function and sleepiness, were greater with co-administration than those observed with either drug alone.
+If concomitant use is warranted, patient response and tolerability should be monitored and dose adjustments made if required (see section 4.2).
+
+Studies in vitro with pooled human liver microsomes indicate that sodium oxybate does not significantly inhibit the activities of the human isoenzymes (see section 5.2).

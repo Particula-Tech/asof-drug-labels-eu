@@ -5,33 +5,34 @@ Treatment should be initiated by and remain under the guidance of a physician ex
 Due to the well known potential of abuse of sodium oxybate, physicians should evaluate patients for a history of or susceptibility to drug abuse prior to commencing treatment.
 During treatment, patients should be monitored for the risk of diversion, misuse and abuse of sodium oxybate (see section 4.4).
 
-Posology The recommended starting dose is 4.5 g/day sodium oxybate divided into two equal doses of 2.25 g/dose.
+Posology
+The recommended starting dose is 4.5 g/day sodium oxybate divided into two equal doses of 2.25 g/dose.
 The dose should be titrated to effect based on efficacy and tolerability (see section 4.4) up to a maximum of 9 g/day divided into two equal doses of 4.5 g/dose by adjusting up or down in dose increments of 1.5 g/day (i.e. 0.75 g/dose).
 A minimum of one to two weeks is recommended between dose increments.
 The dose of 9 g/day should not be exceeded due to the possible occurrence of severe symptoms at doses of 18 g/day or above (see section 4.4).
 
 Single doses of 4.5 g should not be given unless the patient has been titrated previously to that dose level.
 
+If sodium oxybate and valproate are used concomitantly (see section 4.5), a decrease in sodium oxybate dose by 20% is recommended.
+The recommended starting dose for sodium oxybate, when used concomitantly with valproate, is 3.6 g per night administered orally in two equal divided doses of approximately 1.8 g. If concomitant use is warranted, patient response and tolerability should be monitored and dose should be adapted accordingly (see section 4.4)
 Discontinuation of Xyrem
-
 The discontinuation effects of sodium oxybate have not been systematically evaluated in controlled clinical trials (see section 4.4).
 
 If the patient stops taking the medicinal product for more than 14 consecutive days, titration should be restarted from the lowest dose.
 
 Special populations
-
 Patients with hepatic impairment
 The starting dose should be halved in all patients with hepatic impairment, and response to dose increments monitored closely (see section 4.4).
 
 Patients with renal impairment
 All patients with impaired renal function should consider a dietary recommendation to reduce sodium intake (see section 4.4).
 
-Elderly patients
+Older people
 Elderly patients should be monitored closely for impaired motor and/or cognitive function when taking sodium oxybate (see section 4.4).
 
 Paediatric population
 The safety and efficacy of sodium oxybate in children and adolescents aged 0-18 years has not been established.
-No data is available.
+No data are available.
 Therefore the use of sodium oxybate in children and adolescents in not recommended.
 
 Method of administration

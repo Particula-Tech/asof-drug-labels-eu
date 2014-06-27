@@ -2,16 +2,31 @@
 
 Xyrem has the potential to induce respiratory depression
 
-Respiratory depression
+Respiratory and CNS depression
 Sodium oxybate also has the potential to induce respiratory depression.
 Apnoea and respiratory depression have been observed in a fasting healthy subject after a single intake of 4.5 g (twice the recommended starting dose).
 Patients should be questioned regarding signs of Central Nervous System (CNS) or respiratory depression.
 Special caution should be observed in patients with an underlying respiratory disorder.
-Because of the higher risk of sleep apnoea, patients with a BMI ≥40 kg/m2 should be monitored closely when taking sodium oxybate.
-
+Because of the higher risk of sleep apnoea, patients with a BMI
+≥40 kg/m2 should be monitored closely when taking sodium oxybate.
 Approximately 80% of patients who received sodium oxybate during clinical trials maintained CNS stimulant use.
 Whether this affected respiration during the night is unknown.
 Before increasing the sodium oxybate dose (see section 4.2), prescribers should be aware that sleep apnoea occurs in up to 50% of patients with narcolepsy.
+
+- Benzodiazepines
+
+Given the possibility of increasing the risk of respiratory depression, the concomitant use of benzodiazepines and sodium oxybate should be avoided.
+
+- Alcohol and CNS depressants
+
+The combined use of alcohol, or any CNS -depressant medicinal product, with sodium oxybate may result in potentiation of the CNS-depressant effects of sodium oxybate as well as increased risk of respiratory depression.
+Therefore, patients should be warned against the use of alcohol in conjunction with sodium oxybate.
+
+- GHB dehydrogenase inhibitors
+
+Caution is required in patients who are treated concomitantly with valproate or other GHB dehydrogenase inhibitors as pharmacokinetic and pharmacodynamic interactions have been observed when sodium oxybate is co-administered with valproate (see section 4.5).
+If concomitant use is warranted, dose adjustment is to be considered (see section 4.2).
+Additionally, patient response and tolerability should be carefully monitored and dose should be adapted accordingly.
 
 Abuse potential and dependence
 Sodium oxybate, which is as the sodium salt of GHB, is a CNS depressant active substance with well known abuse potential.
@@ -21,15 +36,8 @@ Patients should be routinely monitored and in the case of suspected abuse, treat
 There have been case reports of dependence after illicit use of GHB at frequent repeated doses (18 to 250 g/day) in excess of the therapeutic dose range.
 Whilst there is no clear evidence of emergence of dependence in patients taking sodium oxybate at therapeutic doses, this possibility cannot be excluded.
 
-CNS depression
-The combined use of alcohol or any CNS depressant medicinal product with sodium oxybate may result in potentiation of the CNS-depressant effects of sodium oxybate.
-Therefore, patients should be warned against the use of alcohol in conjunction with sodium oxybate.
-
 Patients with porphyria
 Sodium oxybate is considered to be unsafe in patients with porphyria because it has been shown to be porphyrogenic in animals or in vitro systems.
-
-Benzodiazepines
-Given the possibility of increasing the risk of respiratory depression, the concomitant use of benzodiazepines and sodium oxybate should be avoided
 
 Neuropsychiatric events
 Patients may become confused while being treated with sodium oxybate.
@@ -53,14 +61,15 @@ Patients taking sodium oxybate will have an additional daily intake of sodium th
 A dietary recommendation to reduce sodium intake should be carefully considered in the management of patients with heart failure, hypertension or compromised renal function.
 (see section 4.2).
 
-Patients with compromised liver function
+Patients with hepatic impairment
 Patients with compromised liver function will have an increased elimination half-life and systemic exposure to sodium oxybate (see Section 5.2).
 The starting dose should therefore be halved in such patients, and response to dose increments monitored closely (see section 4.2).
 
-Elderly
+Older people
 There is very limited experience with sodium oxybate in the elderly.
 Therefore, elderly patients should be monitored closely for impaired motor and/or cognitive function when taking sodium oxybate.
-Childhood and adolescence
+
+Paediatric population
 Safety and effectiveness in children and adolescents has not been established, therefore use in patients under 18 years of age is not recommended.
 
 Epileptic patients

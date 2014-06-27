@@ -7,6 +7,7 @@ The precise mechanism by which sodium oxybate produces an effect is unknown, how
 Sodium oxybate administered before nocturnal sleep increases Stages 3 and 4 sleep and increases sleep latency, whilst reducing the frequency of sleep onset REM periods (SOREMPs).
 Other mechanisms, which have yet to be elucidated, may also be involved.
 In the clinical trial database, greater than 80 % of patients maintained concomitant stimulant use.
+
 The effectiveness of sodium oxybate for the treatment of narcolepsy symptoms was established in four multicentre, randomised, double-blind, placebo-controlled, parallel-group trials (Trial 1, 2, 3 and 4) in patients with narcolepsy with cataplexy except for trial 2 where cataplexy was not required for enrolment Concomitant stimulant use was permitted in all trials (except for the active-treatment phase of Trial 2); antidepressants were withdrawn prior to active treatment in all trials with the exception of Trial 2.
 In each trial, the daily dose was divided into two equal doses.
 The first dose each night was taken at bedtime and the second dose was taken 2.5 to 4 hours later.
@@ -24,6 +25,7 @@ EDS – Excessive daytime sleepiness; ESS – Epworth Sleepiness Scale; MWT – 
 
 Trial 1 enrolled 246 patients with narcolepsy and incorporated a 1 week up-titration period.
 The primary measures of efficacy were changes in excessive daytime sleepiness as measured by the Epworth Sleepiness Scale (ESS), and the change in the overall severity of the patient’s narcolepsy symptoms as assessed by the investigator using the Clinical Global Impressions of Change (CGI-c) measure.
+
 Table 2 Summary of ESS in Trial 1
 
 | Epworth Sleepiness Scale (ESS; range 0-24) |  |  |  |  |
@@ -45,7 +47,6 @@ Table 3 Summary of CGI-c in Trial 1
 | 9 (55) | 30 (54.4) | < 0.001 |
 
 * The CGI-c data were analysed by defining responders as those patients who were very much improved or much improved.
-
 Trial 2 compared the effects of orally administered sodium oxybate, modafinil and sodium oxybate + modafinil, with placebo in the treatment of daytime sleepiness in narcolepsy.
 During the 8 week double-blind period, patients took modafinil at their established dose or placebo equivalent.
 The sodium oxybate or placebo equivalent dose was 6 g/day for the first 4 weeks and was increased to 9 g/day for the remaining 4 weeks.
@@ -63,6 +64,7 @@ Table 4 Summary of MWT in Trial 2
 
 Trial 3 enrolled 136 narcoleptic patients with moderate to severe cataplexy (median of 21 cataplexy attacks per week) at baseline.
 The primary efficacy measure in this trial was the frequency of cataplexy attacks.
+
 Table 5 Summary of outcomes in Trial 3
 
 | Dosage | Number of Subjects | Cataplexy Attacks |  |  |
