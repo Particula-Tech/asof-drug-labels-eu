@@ -41,13 +41,13 @@ The safety of reinitiating Avastin therapy in patients previously experiencing P
 
 Proteinuria (see section 4.8)
 Patients with a history of hypertension may be at increased risk for the development of proteinuria when treated with Avastin.
-There is evidence suggesting that all Grade (US National Cancer Institute-Common Terminology Criteria for Adverse Events [NCI-CTCAE (version 3.0)] proteinuria may be related to the dose.
+There is evidence suggesting that all Grade (US National Cancer Institute-Common Terminology Criteria for Adverse Events [NCI-CTCAE (version 3.0)]) proteinuria may be related to the dose.
 Monitoring of proteinuria by dipstick urinalysis is recommended prior to starting and during therapy.
 Therapy should be permanently discontinued in patients who develop Grade 4 proteinuria (nephrotic syndrome) (NCI-CTCAE v.3).
 
 Arterial thromboembolism (see section 4.8)
 In clinical trials, the incidence of arterial thromboembolic reactions including cerebrovascular accidents (CVAs), transient ischaemic attacks (TIAs) and myocardial infarctions (MIs) was higher in patients receiving Avastin in combination with chemotherapy compared to those who received chemotherapy alone.
-Patients receiving Avastin plus chemotherapy, with a history of arterial thromboembolism or age greater than 65 years have an increased risk of developing arterial thromboembolic reactions during therapy.
+Patients receiving Avastin plus chemotherapy, with a history of arterial thromboembolism, diabetes or age greater than 65 years have an increased risk of developing arterial thromboembolic reactions during therapy.
 Caution should be taken when treating these patients with Avastin.
 
 Therapy should be permanently discontinued in patients who develop arterial thromboembolic reactions.
@@ -110,7 +110,7 @@ Some of these reactions have resulted in various degrees of visual loss, includi
 
 Systemic effects following intravitreal use
 A reduction of circulating VEGF concentration has been demonstrated following intravitreal anti-VEGF therapy.
-Systemic adverse reactions including non-ocular haemorrhages and arterial thromboembolic reactions have been reported following intravitreal injection of VEGF inhibitors, and there is a theoretical risk that these may relate to VEGF inhibition.
+Systemic adverse reactions including non-ocular haemorrhages and arterial thromboembolic reactions have been reported following intravitreal injection of VEGF inhibitors.
 
 Ovarian failure/fertility
 Avastin may impair female fertility (see sections 4.6 and 4.8).

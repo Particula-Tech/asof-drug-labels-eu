@@ -12,39 +12,86 @@ The most frequently observed adverse reactions across clinical trials in patient
 
 Analyses of the clinical safety data suggest that the occurrence of hypertension and proteinuria with Avastin therapy are likely to be dose-dependent.
 
-The adverse reactions listed in this section fall into the following categories: Very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000).
+The adverse reactions listed in this section fall into the following frequency categories: Very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
 
-Table 1 lists adverse reactions associated with the use of Avastin in combination with different chemotherapy regimens in multiple indications.
-These reactions had occurred either with at least a 2% difference compared to the control arm (NCI-CTCAE Grade 3-5 reactions) or with at least a 10% difference compared to the control arm (NCI-CTCAE Grade 1-5 reactions), in at least one of the major clinical trials (NCI-CTCAE v.3).
+Tables 1 and 2 list adverse reactions associated with the use of Avastin in combination with different chemotherapy regimens in multiple indications.
 
-The adverse reactions listed in this table fall into the following categories: Very Common and Common.
-Adverse reactions are added to the appropriate category in the table below according to the highest incidence seen in any of the major clinical trials.
-Within each frequency grouping adverse reactions are presented in the order of decreasing seriousness.
+Table 1 provides all adverse reactions by frequency that were determined to have a causal relationship with Avastin through:
+
+- comparative incidences noted between clinical trial treatment arms (with at least a 10% difference compared to the control arm for NCI-CTCAE Grade 1-5 reactions or at least a 2% difference compared to the control arm for NCI-CTCAE Grade 3-5 reactions,
+- post-authorisation safety studies,
+- spontaneous reporting,
+- epidemiological studies\non-interventional or observational studies,
+- or through an evaluation of individual case reports.
+
+Table 2 provides the frequency of severe adverse reactions.
+Severe reactions are defined as adverse events with at least a 2% difference compared to the control arm in clinical studies for NCI-CTCAE Grade 3-5 reactions.
+Table 2 also includes adverse reactions which are considered by the MAH to be clinically significant or severe.
+
+Post-marketing adverse reactions are included in both Tables 1 and 2, where applicable.
+Detailed information about these post-marketing reactions are provided in Table 3.
+
+Adverse reactions are added to the appropriate frequency category in the tables below according to the highest incidence seen in any indication.
+Within each frequency category, adverse reactions are presented in the order of decreasing seriousness.
+
 Some of the adverse reactions are reactions commonly seen with chemotherapy, (e.g. palmar-plantar erythrodysaesthesia syndrome with capecitabine and peripheral sensory neuropathy with paclitaxel or oxaliplatin); however, an exacerbation by Avastin therapy can not be excluded.
-Table 1 Very common and common adverse reactions
 
-| System organ class (SOC) | NCI-CTCAE Grade 3-5 reactions (≥ 2% difference between the trial arms in at least one clinical trial) (NCI-CTCAE v.3) |  | All Grade reactions (≥ 10% difference between the trial arms in at least one clinical trial) (NCI-CTCAE v.3) |
-| --- | --- | --- | --- |
-|  | Very common | Common | Very common |
-| Infections and infestations |  | Sepsis Abscess Infection |  |
-| Blood and the lymphatic system disorders | Febrile neutropenia Leucopenia Thrombocytopenia Neutropenia | Anaemia |  |
-| Endocrine disorders |  |  | Ovarian failure** |
-| Metabolism and nutrition disorders |  | Dehydration | Anorexia |
-| Nervous system disorders | Peripheral sensory neuropathy | Cerebrovascular accident Syncope Somnolence Headache | Dysgeusia Headache Dysarthria |
-| Eye disorders |  |  | Eye disorder Lacrimation increased |
-| Cardiac disorders |  | Cardiac failure congestive Supraventricular tachycardia |  |
-| Vascular disorders | Hypertension | Thromboembolism (arterial)* Deep vein thrombosis Haemorrhage | Hypertension |
-| Respiratory, thoracic and mediastinal disorders |  | Pulmonary embolism Dyspnoea Hypoxia Epistaxis | Dyspnoea Epistaxis Rhinitis |
-| Gastrointestinal disorders | Diarrhoea Nausea Vomiting | Intestinal perforation Ileus Intestinal obstruction Abdominal pain Gastrointestinal disorder Stomatitis | Constipation Stomatitis Rectal haemorrhage Diarrhoea |
-| Skin and subcutaneous tissue disorders |  | Palmar-plantar erythrodysaesthesia syndrome | Exfoliative dermatitis Dry skin Skin discolouration |
-| Musculoskeletal, connective tissue and bone disorders |  | Muscular weakness Myalgia Arthralgia | Arthralgia |
-|  | Very common | Common | Very common |
-| Renal and urinary disorders |  | Proteinuria Urinary tract infection | Proteinuria |
-| General disorders and administration site conditions | Asthenia Fatigue | Pain Lethargy Mucosal inflammation | Pyrexia Asthenia Pain Mucosal inflammation |
+Table 1: Adverse Reactions by Frequency
 
-* Pooled arterial thromboembolic reactions including cerebrovascular accident, myocardial infarction, transient ischaemic attack and other arterial thromboembolic reactions.
+| System organ class | Very Common | Common | Uncommon | Rare | Very Rare | Frequency Not Known |
+| --- | --- | --- | --- | --- | --- | --- |
+| Infections and infestations |  | Sepsis, Abscessb,d, Infection, Urinary tract infection |  | Necrotising fasciitis a |  |  |
+| Blood and lymphatic system disorders | Febrile neutropenia, Leucopenia, Neutropeniab, Thrombo-cytopenia | Anaemia |  |  |  |  |
+| Immune system disorders |  | Hypersensitivity, infusion reactionsa,b,d |  |  |  |  |
+| Metabolism and nutrition disorders | Anorexia | Dehydration |  |  |  |  |
+| Nervous system disorders | Peripheral sensory neuropathyb, Dysarthria, Headache, Dysguesia | Cerebrovascular accident, Syncope, Somnolence |  | Posterior reversible encephalo-pathy synad,br,odme | Hypertensive encephalo-pathya |  |
+| Eye disorders | Eye disorder, Lacrimation increased |  |  |  |  |  |
+| Cardiac disorders |  | Congestive heart failureb,d, Supraventricular tachycardia |  |  |  |  |
+| Vascular disorders | Hypertensionb,d, Thrombo-embolism (venous)b,d | Thrombo-embolism (arterial)b,d, Haemorrhageb,d, Deep vein thrombosis |  |  |  | Renal thrombotic microangiopathya,b |
+| Respiratory, thoracic and mediastinal disorders | Dyspnoea, Rhinitis | Pulmonary haemorrhage/ Haemoptysisb,d, Pulmonary embolism, Epistaxis, Hypoxia, Dysphoniaa |  |  |  | Pulmonary hypertensiona, Nasal septum perforationa |
+| Gastrointestinal disorders | Rectal haemorrhage, Stomatitis, Constipation, Diarrhoea, Nausea, Vomiting | Gastrointestinal perforationb,d, Intestinal perforation, Ileus, Intestinal obstruction, Abdominal pain, Gastrointestinal disorder |  |  |  | Gastrointestinal ulcera |
+| Hepatobiliary disorders |  |  |  |  |  | Gallbladder perforationa,b |
+| Skin and subcutaneous tissue disorders | Wound healing complicationsb,d, Exfoliative dermatitis, Dry skin, Skin discoloration | Palmar-plantar erythro-dysaesthesia syndrome |  |  |  |  |
+| Musculoskeletal and connective tissue disorders | Arthralgia | Fistulab,d, Myalgia, Muscular weakness |  |  |  | Osteonecrosis of the jawa,b |
+| Renal and urinary disorders | Proteinuriab,d |  |  |  |  |  |
+| Reproductive system and breast disorders | Ovarian failureb,c,d |  |  |  |  |  |
+| General disorders and administration site conditions | Asthenia, Fatigue, Pyrexia, Pain, Mucosal inflammation | Lethargy |  |  |  |  |
+
+When events were noted as both all grade and grade 3-5 adverse drug reactions in clinical trials, the highest frequency observed in patients has been reported.
 Data are unadjusted for the differential time on treatment.
-** Based on a substudy from NSABP C-08 with 295 patients
+
+a For further information please refer to Table 3 'Adverse reactions reported in post-marketing setting.'
+b Terms represent a group of events that describe a medical concept rather than a single condition or MedDRA (Medical Dictionary for Regulatory Activities) preferred term.
+This group of medical terms may involve the same underlying pathophysiology (e.g. arterial thromboembolic reactions include cerebrovascular accident, myocardial infarction, transient ischaemic attack and other arterial thromboembolic reactions).
+c Based on a substudy from NSABP C-08 with 295 patients d For additional information refer below within section "Further information on selected serious adverse reactions."
+Table 2: Severe Adverse Reactions by Frequency
+
+| System organ class | Very Common | Common | Uncommon | Rare | Very Rare | Frequency Not Known |
+| --- | --- | --- | --- | --- | --- | --- |
+| Infections and infestations |  | Sepsis, Abscessa,b, Infection, Urinary tract infection |  |  |  | Necrotising fasciitisc |
+| Blood and lymphatic system disorders | Febrile neutropenia, Leucopenia, Neutropeniaa, Thrombo-cytopenia | Anaemia |  |  |  |  |
+| Immune system disorders |  |  |  |  |  | Hypersensitivity, infusiona, br,ecactions |
+| Metabolism and nutrition disorders |  | Dehydration |  |  |  |  |
+| Nervous system disorders | Peripheral sensory neuropathya | Cerebrovascular accident, Syncope, Somnolence, Headache |  |  |  | Posterior reversible encephalo-pathy syndrome a,b,c, Hypertensive encephalo-pathyc |
+| Cardiac disorders |  | Congestive heart failurea,b, Supraventricular tachycardia |  |  |  |  |
+| Vascular disorders | Hypertensiona,b | Thromboembolism arteriala,b, Haemorrhagea,b, Thromboembolism (venous)a,b Deep vein thrombosis |  |  |  | Renal thrombotic microangiopathyb,c |
+| Respiratory, thoracic and mediastinal disorders |  | Pulmonary haemorrhage/ Haemoptysisa,b, Pulmonary embolism, Epistaxis, Dyspnoea, Hypoxia |  |  |  | Pulmonary hypertensionc, Nasal septum perforationc |
+| Gastrointestinal disorders | Diarrhoea, Nausea, Vomiting | Intestinal perforation, Ileus, Intestinal obstruction, Abdominal pain, Gastrointestinal disorder, Stomatitis |  |  |  | Gastrointestinal perforationa,b, Gastrointestinal ulcerc, Rectal haemorrhage |
+| Hepatobiliary disorders |  |  |  |  |  | Gallbladder perforation b,c |
+| Skin and subcutaneous tissue disorders |  | Wound healing complicationsa,b, Palmar-plantar erythrodysaesthesia syndrome |  |  |  |  |
+| Musculoskeletal and connective tissue disorders |  | Myalgia, Arthralgia, Muscular weakness |  |  |  | Fistulaa,b, Osteonecrosis of the jawb,c |
+| Renal and urinary disorders |  | Proteinuriaa,b |  |  |  |  |
+| Reproductive system and breast disorders |  |  |  |  |  | Ovarian failurea,b |
+| General disorders and administration site conditions | Asthenia, Fatigue, | Pain, Lethargy, Mucosal Inflammation |  |  |  |  |
+
+Table 2 provides the frequency of severe adverse reactions.
+Severe reactions are defined as adverse events with at least a 2% difference compared to the control arm in clinical studies for NCI-CTCAE Grade 3-5 reactions.
+Table 2 also includes adverse reactions which are considered by the MAH to be clinically significant or severe.
+These clinically significant adverse reactions were reported in clinical trials but the grade 3-5 reactions did not meet the threshold of at least a 2% difference compared to the control arm.
+Table 2 also includes clinically significant adverse reactions that were observed only in the postmarketing setting, therefore, the frequency and NCI-CTCAE grade is not known.These clinically significant reactions have therefore been included in Table 2 within the column entitled “Frequency Not Known.”
+a Terms represent a group of events that describe a medical concept rather than a single condition or MedDRA (Medical Dictionary for Regulatory Activities) preferred term.
+This group of medical terms may involve the same underlying pathophysiology (e.g. arterial thromboembolic reactions include cerebrovascular accident, myocardial infarction, transient ischaemic attack and other arterial thromboembolic reactions).
+b For additional information refer below within section "Further information on selected serious adverse reactions" c For further information please refer to Table 3 'Adverse reactions reported in post-marketing setting.'
 
 Further information on selected serious adverse reactions
 
@@ -144,6 +191,7 @@ There have also been less common reactions of minor mucocutaneous haemorrhage in
 Thromboembolism (see section 4.4)
 
 Arterial thromboembolism: An increased incidence of arterial thromboembolic reactions was observed in patients treated with Avastin across indications, including cerebrovascular accidents, myocardial infarction, transient ischaemic attacks, and other arterial thromboembolic reactions.
+
 In clinical trials, the overall incidence of arterial thromboembolic reactions ranged up to 3.8% in the Avastin containing arms compared with up to 1.7% in the chemotherapy control arms.
 Fatal outcome was reported in 0.8% of patients receiving Avastin compared to 0.5% in patients receiving chemotherapy alone.
 Cerebrovascular accidents (including transient ischaemic attacks) were reported in up to 2.3% of patients treated with Avastin in combination with chemotherapy compared to 0.5% of patients treated with chemotherapy alone.
@@ -166,7 +214,6 @@ In clinical trials with Avastin, congestive heart failure (CHF) was observed in 
 In four phase III trials (AVF2119g, E2100, BO17708 and AVF3694g) in patients with metastatic breast cancer CHF Grade 3 (NCI-CTCAE v.3) or higher was reported in up to 3.5% of patients treated with Avastin in combination with chemotherapy compared with up to 0.9% in the control arms.
 For patients in study AVF3694g who received anthracyclines concomitantly with bevacizumab, the incidences of Grade 3 or higher CHF for the respective bevacizumab and control arms were similar to those in the other studies in metastatic breast cancer: 2.9% in the anthracycline + bevacizumab arm and 0% in the anthracycline + placebo arm.
 In addition, in study AVF3694g the incidences of all Grade CHF were similar between the anthracycline + Avastin (6.2%) and the anthracycline + placebo arms (6.0%).
-
 Most patients who developed CHF during mBC trials showed improved symptoms and/or left ventricular function following appropriate medical therapy.
 
 In most clinical trials of Avastin, patients with pre-existing CHF of NYHA (New York Heart Association) II-IV were excluded, therefore, no information is available on the risk of CHF in this population.
@@ -199,11 +246,11 @@ Long term effects of the treatment with bevacizumab on fertility are unknown.
 
 Laboratory abnormalities
 Decreased neutrophil count, decreased white blood cell count and presence of urine protein may be associated with Avastin treatment.
-
 Across clinical trials, the following Grade 3 and 4 (NCI-CTCAE v.3) laboratory abnormalities occurred in patients treated with Avastin with at least a 2% difference compared to the corresponding control groups: hyperglycaemia, decreased haemoglobin, hypokalaemia, hyponatraemia, decreased white blood cell count, increased international normalised ratio (INR).
+
 Post-marketing experience
 
-Table 2 Adverse reactions reported in post-marketing setting
+Table 3 Adverse reactions reported in post-marketing setting
 
 | System organ class (SOC) | Reactions (frequency*) |
 | --- | --- |
@@ -217,3 +264,8 @@ Table 2 Adverse reactions reported in post-marketing setting
 | Infections and Infestations | Necrotising fasciitis, usually secondary to wound healing complications, gastrointestinal perforation or fistula formation (rare) (see also section 4.4) |
 
 * if specified, the frequency has been derived from clinical trial data
+Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V*.

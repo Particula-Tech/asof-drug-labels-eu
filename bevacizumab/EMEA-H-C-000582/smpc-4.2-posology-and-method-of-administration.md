@@ -21,12 +21,12 @@ The recommended dose of Avastin is 7.5 mg/kg or 15 mg/kg of body weight given on
 Clinical benefit in NSCLC patients has been demonstrated with both 7.5 mg/kg and 15 mg/kg doses (see section 5.1).
 It is recommended that treatment be continued until progression of the underlying disease or until unacceptable toxicity.
 
-Advanced and/or metastatic Renal Cell Cancer (mRCC)
+Advanced and/or metastatic renal cell cancer (mRCC)
 
 The recommended dose of Avastin is 10 mg/kg of body weight given once every 2 weeks as an intravenous infusion.
 It is recommended that treatment be continued until progression of the underlying disease or until unacceptable toxicity.
 
-Epithelial Ovarian, Fallopian Tube and Primary Peritoneal Cancer
+Epithelial ovarian, fallopian tube and primary peritoneal cancer
 
 Front-line treatment: Avastin is administered in addition to carboplatin and paclitaxel for up to 6 cycles of treatment followed by continued use of Avastin as single agent until disease progression or for a maximum of 15 months or until unacceptable toxicity, whichever occurs earlier.
 The recommended dose of Avastin is 15 mg/kg of body weight given once every 3 weeks as an intravenous infusion.
