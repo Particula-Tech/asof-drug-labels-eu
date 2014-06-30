@@ -10,9 +10,7 @@ The incidences of embryo-foetal loss were 33, 50, and 85% for pregnant female mo
 At Caesarean section on GD100, oligohydramnios, decreased relative lung and kidney weights and microscopic evidence of renal hypoplasia consistent with delayed renal development were identified in all pertuzumab dose groups.
 In addition, consistent with foetal growth restrictions, secondary to oligohydramnios, lung hypoplasia (1 of 6 in 30 mg/kg and 1 of 2 in100 mg/kg groups), ventricular septal defects (1 of 6 in 30 mg/kg group), thin ventricular wall (1 of 2 in 100 mg/kg group) and minor skeletal defects (external - 3 of 6 in 30 mg/kg group) were also noted.
 Pertuzumab exposure was reported in offspring from all treated groups, at levels of 29% to 40% of maternal serum levels at GD100.
-
 In cynomolgus monkeys, weekly intravenous administration of pertuzumab at doses up to 150 mg/kg/dose was generally well tolerated.
 With doses of 15 mg/kg and higher, intermittent mild treatment-associated diarrhoea was noted.
 In a subset of monkeys, chronic dosing (7 to 26 weekly doses) resulted in episodes of severe secretory diarrhoea.
-The diarrhoea was managed (with the exception of euthanasia of one animal,
-50 mg/kg/dose) with supportive care including intravenous fluid replacement therapy.
+The diarrhoea was managed (with the exception of euthanasia of one animal, 50 mg/kg/dose) with supportive care including intravenous fluid replacement therapy.

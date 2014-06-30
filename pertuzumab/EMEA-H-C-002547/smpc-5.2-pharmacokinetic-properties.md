@@ -8,7 +8,6 @@ There have been no studies performed with other routes of administration.
 
 Distribution
 Across all clinical studies, the volume of distribution of the central (Vc) and the peripheral (Vp) compartment in the typical patient, was 3.11 litres and 2.46 litres, respectively.
-
 Biotransformation
 The metabolism of Perjeta has not been directly studied.
 Antibodies are cleared principally by catabolism.

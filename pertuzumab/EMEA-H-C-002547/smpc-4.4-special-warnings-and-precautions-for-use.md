@@ -7,8 +7,8 @@ Left ventricular dysfunction (including congestive heart failure)
 Decreases in LVEF have been reported with medicinal products that block HER2 activity, including Perjeta.
 Patients who have received prior anthracyclines or prior radiotherapy to the chest area may be at higher risk of LVEF declines.
 In the pivotal trial CLEOPATRA, Perjeta in combination with trastuzumab and docetaxel was not associated with a greater incidence of symptomatic left ventricular systolic dysfunction (LVSD) or LVEF declines compared with placebo and trastuzumab and docetaxel (see section 4.8).
-Perjeta has not been studied in patients with: a pre-treatment LVEF value of ≤ 50%; a prior history of congestive heart failure (CHF); LVEF declines to < 50% during prior trastuzumab adjuvant therapy; or conditions that could impair left ventricular function such as uncontrolled hypertension, recent myocardial infarction, serious cardiac arrhythmia requiring treatment or a cumulative prior anthracycline exposure to
-> 360 mg/m2 of doxorubicin or its equivalent.
+
+Perjeta has not been studied in patients with: a pre-treatment LVEF value of ≤ 50%; a prior history of congestive heart failure (CHF); LVEF declines to < 50% during prior trastuzumab adjuvant therapy; or conditions that could impair left ventricular function such as uncontrolled hypertension, recent myocardial infarction, serious cardiac arrhythmia requiring treatment or a cumulative prior anthracycline exposure to > 360 mg/m2 of doxorubicin or its equivalent.
 
 Assess LVEF prior to initiation of Perjeta and every three cycles during treatment to ensure that LVEF is within the institution’s normal limits.
 If LVEF is < 40% or 40-45% associated with ≥ 10% points below the pretreatment value, Perjeta and trastuzumab should be withheld and a repeat LVEF assessment performed within approximately 3 weeks.

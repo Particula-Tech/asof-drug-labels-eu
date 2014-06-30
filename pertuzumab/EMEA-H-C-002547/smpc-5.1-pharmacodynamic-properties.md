@@ -8,12 +8,12 @@ Perjeta is a recombinant humanised monoclonal antibody that specifically targets
 As a result, Perjeta inhibits ligand-initiated intracellular signalling through two major signal pathways, mitogen-activated protein (MAP) kinase and phosphoinositide 3-kinase (PI3K).
 Inhibition of these signalling pathways can result in cell growth arrest and apoptosis, respectively.
 In addition, Perjeta mediates antibody-dependent cell-mediated cytotoxicity (ADCC).
-
 While Perjeta alone inhibited the proliferation of human tumour cells, the combination of Perjeta and trastuzumab significantly augmented antitumour activity in HER2-overexpressing xenograft models.
 
 Clinical efficacy and safety
 
 The efficacy of Perjeta in HER2-positive breast cancer is supported by a randomised phase III comparative trial in metastatic breast cancer and two phase II studies (one single-arm trial in metastatic breast cancer and one randomised comparative trial in the neoadjuvant setting).
+
 Metastatic breast cancer
 
 Perjeta in combination with trastuzumab and docetaxel
@@ -60,8 +60,8 @@ Figure 1 IRF-assessed PFS by patient subgroup
 
 At an OS analysis performed one year after the primary analysis of efficacy, 267 patients had died with more deaths occurring in the placebo-treated group compared with the Perjeta-treated group.
 A statistically significant overall survival benefit in favour of the Perjeta-treated group was demonstrated (see Figure 2).
-
 Figure 2 Kaplan-Meier Curve of Overall Survival
+
 No statistically significant differences were found between the two treatment groups in Health Related Quality of Life as assessed by FACT-B TOI-PFB scores.
 
 Additional supportive clinical trial information
@@ -77,7 +77,6 @@ NeoSphere (WO20697) is a phase II, multicentre, multinational study with Perjeta
 Prior to surgery, patients were randomised into one of four treatment groups, as described in Table 3.
 The primary endpoint of the study was pathological complete response (pCR) rate following neoadjuvant therapy.
 The efficacy results are presented in Table 3.
-
 Table 3 Study WO20697: Summary of Primary Efficacy – pCR Rate (Intent to Treat Population)
 
 |  | Group A trastuzumab +docetaxel1 (N=107) | Group B Perjeta + trastuzumab + docetaxel1 (N=107) | Group C Perjeta + trastuzumab1 (N=107) | Group D Perjeta + docetaxel1 (N=96) |
@@ -87,8 +86,7 @@ Table 3 Study WO20697: Summary of Primary Efficacy – pCR Rate (Intent to Treat
 | p-value (Simes Corr. for CMH Test)6 |  | 0.0141 | 0.0198 | 0.0030 |
 
 1 Perjeta and/or trastuzumab were given at standard doses in a 3-weekly regimen for 4 cycles.
-Docetaxel 75 mg/m2 was escalated, if tolerated, to 100 mg/m intravenous every 3 weeks for 4 cycles.
-2
+Docetaxel 75 mg/m2 was escalated, if tolerated, to 100 mg/m2 intravenous every 3 weeks for 4 cycles.
 2 pCR defined as elimination of all invasive disease from the breast.
 3 95% CI for one sample binomial using the Pearson-Clopper method.
 4 Treatment Group B and C are compared to Group A while Group D is compared to Group B.
@@ -102,6 +100,7 @@ Approximately 2.8% (11/386 patients) of Perjeta-treated patients and 6.2% (23/37
 Of these 34 patients, none experienced severe (NCI-CTCAE Grade 4) infusion or hypersensitivity reactions (anaphylaxis) that were clearly related to ATA.
 However, Grade 3 hypersensitivity reactions associated with detectable ATAs occurred in 2 of 366 Perjeta-treated patients (0.5%) in phase I and II studies.
 There are currently insufficient data to evaluate the effects of ATA on the efficacy of Perjeta in combination with trastuzumab and docetaxel.
+
 Paediatric population
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Perjeta in all subsets of the paediatric population in breast cancer (see section 4.2 for information on paediatric use).

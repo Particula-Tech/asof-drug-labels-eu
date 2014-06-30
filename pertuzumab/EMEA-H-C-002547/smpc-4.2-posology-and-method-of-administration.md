@@ -1,7 +1,7 @@
 # 4.2 Posology and method of administration
 
 Perjeta is subject to restricted medical prescription and therapy should only be initiated under the supervision of a physician experienced in the administration of anti-cancer agents.
-Perjeta should be administered by a healthcare professional prepared to manage anaphylaxis and in an environment where full resuscitation service is immediately available.
+Perjeta should be administered by a healthcare professional prepared to manage anaphylaxis and in an environment where full resuscitation facilities are immediately available.
 
 Patients treated with Perjeta must have HER2-positive tumour status, defined as a score of 3+ by immunohistochemistry (IHC) and/or a ratio of ≥ 2.0 by in situ hybridisation (ISH) assessed by a validated test.
 To ensure accurate and reproducible results, the testing must be performed in a specialised laboratory, which can ensure validation of the testing procedures.
@@ -10,8 +10,8 @@ For full instructions on assay performance and interpretation please refer to th
 Posology
 
 The recommended initial loading dose of Perjeta is 840 mg administered as a 60 minute intravenous infusion, followed every 3 weeks thereafter by a maintenance dose of 420 mg administered over a period of 30 to 60 minutes.
-
 When administered with Perjeta the recommended initial loading dose of trastuzumab is 8 mg/kg body weight administered as an intravenous infusion followed every 3 weeks thereafter by a maintenance dose of 6 mg/kg body weight.
+
 When administered with Perjeta the recommended initial dose of docetaxel is 75 mg/m2, administered thereafter on a 3 weekly schedule.
 The dose of docetaxel may be escalated to 100 mg/m2 on subsequent cycles if the initial dose is well tolerated.
 
@@ -49,8 +49,7 @@ Perjeta and trastuzumab should be withheld for at least 3 weeks for any of the f
 - a drop in left ventricular ejection fraction (LVEF) to less than 40%
 - a LVEF of 40%-45% associated with a fall of ≥ 10% points below pre-treatment values.
 
-Perjeta and trastuzumab may be resumed if the LVEF has recovered to > 45% or 40-45% associated with
-< 10% points below pretreatment value.
+Perjeta and trastuzumab may be resumed if the LVEF has recovered to > 45% or 40-45% associated with < 10% points below pretreatment value.
 
 If after a repeat assessment within approximately 3 weeks, the LVEF has not improved, or has declined further, discontinuation of Perjeta and trastuzumab should be strongly considered, unless the benefits for the individual patient are deemed to outweigh the risks (see section 4.4).
 Infusion reactions
@@ -64,8 +63,7 @@ Elderly patients
 
 Limited data are available on the safety and efficacy of pertuzumab in patients ≥ 65 years of age.
 No significant differences in safety and efficacy of pertuzumab were observed between elderly patients aged 65 to 75 years and adult patients aged < 65 years.
-No dose adjustment is necessary in the elderly population
-≥ 65 years of age.
+No dose adjustment is necessary in the elderly population ≥ 65 years of age.
 Very limited data are available in patients > 75 years of age.
 
 Patients with renal impairment

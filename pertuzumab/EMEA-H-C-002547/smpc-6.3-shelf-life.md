@@ -1,7 +1,7 @@
 # 6.3 Shelf life
 
 Unopened vial
-3 years.
+2 years.
 
 Diluted solution
 Chemical and physical in-use stability has been demonstrated for 24 hours at 30°C.

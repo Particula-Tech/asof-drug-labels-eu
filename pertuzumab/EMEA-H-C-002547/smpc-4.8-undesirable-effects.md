@@ -5,7 +5,8 @@ Summary of the safety profile
 The safety of Perjeta has been evaluated in more than 1,400 patients either in the pivotal trial CLEOPATRA or in phase I and II trials conducted in patients with various malignancies and predominantly treated with Perjeta in combination with other antineoplastic agents.
 
 In the pivotal clinical trial CLEOPATRA, 407 patients received at least one dose of Perjeta in combination with trastuzumab and docetaxel.
-The most common adverse drug reactions (ADRs) (> 50%) were diarrhoea, alopecia and neutropenia.
+The most common adverse drug reactions (ADRs)
+(> 50%) were diarrhoea, alopecia and neutropenia.
 The most common NCI-CTCAE (version 3) Grade 3-4 ADRs (> 10%) were neutropenia, febrile neutropenia and leucopenia, and the most common serious adverse events were febrile neutropenia, neutropenia and diarrhoea.
 Treatment-related deaths occurred in 1.2% of patients in the Perjeta-treated group and 1.5% of patients in the placebo-treated group and were mainly due to febrile neutropenia and/or infection.
 After 1 year of additional follow-up, left ventricular dysfunction occurred at a frequency of <10% in the pivotal clinical trial CLEOPATRA (5.4% in the Perjeta-treated group and 8.6% in the placebo-treated group, including symptomatic left ventricular systolic dysfunction in 1.2% in the Perjeta-treated group and 3.3% of patients in the placebo-treated group).
@@ -15,8 +16,7 @@ Tabulated list of adverse reactions
 Table 1 summarizes the ADRs from the pivotal clinical trial CLEOPATRA, in which Perjeta was given in combination with docetaxel and trastuzumab.
 As Perjeta is used with trastuzumab and docetaxel, it is difficult to ascertain the causal relationship of an adverse event to a particular medicinal product.
 The safety of Perjeta in phase I and II studies was generally consistent with that observed in the CLEOPATRA trial, though the incidence and most common ADRs varied depending on whether Perjeta was administered as monotherapy or with concomitant anti-neoplastic agents.
-The ADRs are listed below by MedDRA system organ class (SOC) and categories of frequency:
-Very common (≥ 1/10)
+The ADRs are listed below by MedDRA system organ class (SOC) and categories of frequency: Very common (≥ 1/10)
 Common (≥ 1/100 to < 1/10)
 Uncommon( ≥ 1/1,000 to < 1/100)
 Rare (≥ 1/10,000 to < 1/1,000)
@@ -90,3 +90,9 @@ Most events were Grade 1 or 2 in severity, occurred in the first two cycles, and
 Laboratory abnormalities
 
 The incidence of NCI-CTCAE (version 3) Grade 3-4 neutropenia was balanced in the two treatment groups (85.9% of Perjeta-treated patients and 86.6% of placebo-treated patients, including 61.0% and 64.3% Grade 4 neutropenia, respectively).
+
+Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

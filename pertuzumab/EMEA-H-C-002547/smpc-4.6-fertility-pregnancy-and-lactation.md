@@ -1,9 +1,8 @@
 # 4.6 Fertility, pregnancy and lactation
 
-Contraception in males and females
+Contraception
 
-Women of childbearing potential and male patients with female partners of childbearing potential, must use effective contraception while receiving Perjeta and for 6 months following the last dose of Perjeta.
-
+Women of childbearing potential should use effective contraception while receiving Perjeta and for 6 months following the last dose of Perjeta.
 Pregnancy
 
 There is limited amount of data from the use of pertuzumab in pregnant women.
