@@ -15,7 +15,6 @@ Sildenafil has a peripheral site of action on erections.
 Sildenafil has no direct relaxant effect on isolated human corpus cavernosum but potently enhances the relaxant effect of NO on this tissue.
 When the NO/cGMP pathway is activated, as occurs with sexual stimulation, inhibition of PDE5 by sildenafil results in increased corpus cavernosum levels of cGMP.
 Therefore sexual stimulation is required in order for sildenafil to produce its intended beneficial pharmacological effects.
-
 Pharmacodynamic effects
 
 Studies in vitro have shown that sildenafil is selective for PDE5, which is involved in the erection process.
@@ -61,17 +60,5 @@ Across all trials, the proportion of patients reporting improvement on sildenafi
 The safety and efficacy of sildenafil was maintained in long-term studies.
 
 Paediatric population
-The European Medicines Agency has waived the obligation to submit the results of studies with VIAGRA in all subsets of the paediatric population for the treatment of erectile dysfuntion.
+The European Medicines Agency has waived the obligation to submit the results of studies with VIAGRA in all subsets of the paediatric population for the treatment of erectile dysfunction.
 See 4.2 for information on paediatric use.
-
-[VIAGRA 50 mg film-coated tablets]
-
-The following groups were not well represented or excluded from clinical trials: patients with pelvic surgery, patients post-radiotherapy, patients with severe renal or hepatic impairment and patients with certain cardiovascular conditions (see section 4.3 ).
-
-[VIAGRA 100 mg film-coated tablets]
-
-(all sentences already above)
-
-[VIAGRA 50 mg orodispersible tablets]
-
-(all sentences already above)

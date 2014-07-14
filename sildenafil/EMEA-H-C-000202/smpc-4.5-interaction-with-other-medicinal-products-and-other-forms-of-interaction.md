@@ -4,7 +4,7 @@ Effects of other medicinal products on sildenafil
 
 In vitro studies
 Sildenafil metabolism is principally mediated by the cytochrome P450 (CYP) isoforms 3A4 (major route) and 2C9 (minor route).
-Therefore, inhibitors of these isoenzymes may reduce sildenafil clearance.
+Therefore, inhibitors of these isoenzymes may reduce sildenafil clearance and inducers of these isoenzymes may increase sildenafil clearance.
 
 In vivo studies
 Population pharmacokinetic analysis of clinical trial data indicated a reduction in sildenafil clearance when co-administered with CYP3A4 inhibitors (such as ketoconazole, erythromycin, cimetidine).
@@ -20,15 +20,16 @@ Co-administration of the HIV protease inhibitor saquinavir, a CYP3A4 inhibitor, 
 Sildenafil had no effect on saquinavir pharmacokinetics (see section 4.2).
 Stronger CYP3A4 inhibitors such as ketoconazole and itraconazole would be expected to have greater effects.
 
-When a single 100 mg dose of sildenafil was administered with erythromycin, a specific CYP3A4 inhibitor, at steady state (500 mg twice daily. for 5 days), there was a 182% increase in sildenafil systemic exposure (AUC).
+When a single 100 mg dose of sildenafil was administered with erythromycin, a moderate CYP3A4 inhibitor, at steady state (500 mg twice daily. for 5 days), there was a 182% increase in sildenafil systemic exposure (AUC).
 In normal healthy male volunteers, there was no evidence of an effect of azithromycin (500 mg daily for 3 days) on the AUC, Cmax, tmax, elimination rate constant, or subsequent half-life of sildenafil or its principal circulating metabolite.
 Cimetidine (800 mg), a cytochrome P450 inhibitor and non-specific CYP3A4 inhibitor, caused a 56% increase in plasma sildenafil concentrations when co-administered with sildenafil (50 mg) to healthy volunteers.
-
 Grapefruit juice is a weak inhibitor of CYP3A4 gut wall metabolism and may give rise to modest increases in plasma levels of sildenafil.
 
 Single doses of antacid (magnesium hydroxide/aluminium hydroxide) did not affect the bioavailability of sildenafil.
 
 Although specific interaction studies were not conducted for all medicinal products, population pharmacokinetic analysis showed no effect of concomitant treatment on sildenafil pharmacokinetics when grouped as CYP2C9 inhibitors (such as tolbutamide, warfarin, phenytoin), CYP2D6 inhibitors (such as selective serotonin reuptake inhibitors, tricyclic antidepressants), thiazide and related diuretics, loop and potassium sparing diuretics, angiotensin converting enzyme inhibitors, calcium channel blockers, beta-adrenoreceptor antagonists or inducers of CYP450 metabolism (such as rifampicin, barbiturates).
+In a study of healthy male volunteers, co-administration of the endothelin antagonist, bosentan, (an inducer of CYP3A4 [moderate], CYP2C9 and possibly of CYP2C19) at steady state (125 mg twice a day) with sildenafil at steady state (80 mg three times a day) resulted in 62.6% and 55.4% decrease in sildenafil AUC and Cmax, respectively.
+Therefore, concomitant administration of strong CYP3A4 inducers, such as rifampin, is expected to cause greater decreases in plasma concentrations of sildenafil.
 
 Nicorandil is a hybrid of potassium channel activator and nitrate.
 Due to the nitrate component it has the potential to result in a serious interaction with sildenafil.
@@ -54,24 +55,29 @@ These reports included dizziness and light-headedness, but not syncope.
 No significant interactions were shown when sildenafil (50 mg) was co-administered with tolbutamide (250 mg) or warfarin (40 mg), both of which are metabolised by CYP2C9.
 
 Sildenafil (50 mg) did not potentiate the increase in bleeding time caused by acetyl salicylic acid (150 mg).
-
 Sildenafil (50 mg) did not potentiate the hypotensive effects of alcohol in healthy volunteers with mean maximum blood alcohol levels of 80 mg/dl.
 
 Pooling of the following classes of antihypertensive medication: diuretics, beta-blockers, ACE inhibitors, angiotensin II antagonists, antihypertensive medicinal products (vasodilator and centrally-acting), adrenergic neurone blockers, calcium channel blockers and alpha-adrenoceptor blockers, showed no difference in the side effect profile in patients taking sildenafil compared to placebo treatment.
 In a specific interaction study, where sildenafil (100 mg) was co-administered with amlodipine in hypertensive patients, there was an additional reduction on supine systolic blood pressure of 8 mmHg.
 The corresponding additional reduction in supine diastolic blood pressure was 7 mmHg.
 These additional blood pressure reductions were of a similar magnitude to those seen when sildenafil was administered alone to healthy volunteers (see section 5.1).
+
 Sildenafil (100 mg) did not affect the steady state pharmacokinetics of the HIV protease inhibitors, saquinavir and ritonavir, both of which are CYP3A4 substrates.
+
+In healthy male volunteers, sildenafil at steady state (80 mg t.i.d.) resulted in a 49.8% increase in bosentan AUC and a 42% increase in bosentan Cmax (125 mg b.i.d.).
 
 [VIAGRA 50 mg film-coated tablets]
 
-When a single 100 mg dose of sildenafil was administered with erythromycin, a specific CYP3A4 inhibitor, at steady state (500 mg twice daily for 5 days), there was a 182% increase in sildenafil systemic exposure (AUC).
+When a single 100 mg dose of sildenafil was administered with erythromycin, a moderate CYP3A4 inhibitor, at steady state (500 mg twice daily for 5 days), there was a 182% increase in sildenafil systemic exposure (AUC).
 
 Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4 (IC50 >150 μM).
 
+In these study populations, mean additional reductions of supine blood pressure of 7/7 mmHg,
+9/5 mmHg, and 8/4 mmHg, and mean additional reductions of standing blood pressure of 6/6 mmHg, 11/4 mmHg, and 4/5 mmHg, respectively, were observed.
+
 [VIAGRA 100 mg film-coated tablets]
 
-These additional blood pressure reductions were of a similar magnitude to those seen when sildenafil was administered alone to healthy volunteers (see section(see section 5.1).
+(all sentences already above)
 
 [VIAGRA 50 mg orodispersible tablets]
 

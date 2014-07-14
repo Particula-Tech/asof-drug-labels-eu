@@ -12,7 +12,7 @@ If VIAGRA is taken with food, the onset of activity may be delayed compared to t
 Special populations
 
 Elderly patients
-Dosage adjustments are not required in elderly patients.
+Dosage adjustments are not required in elderly patients (≥ 65 years old).
 
 Patients with renal impairment
 The dosing recommendations described in ‘Use in adults’ apply to patients with mild to moderate renal impairment (creatinine clearance = 30-80 mL/min).
