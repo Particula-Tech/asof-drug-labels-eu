@@ -16,7 +16,7 @@ The median age for the intent-to-treat (ITT) population was 73 years (range 64 t
 Thirty-six percent of subjects had poor-risk cytogenetics at baseline.
 The remainder of the subjects had intermediate-risk cytogenetics.
 Patients with favourable cytogenetics were not included in the study.
-Twenty-five percent of subjects had an ECOG performance status ≥2.
+Twenty-five percent of subjects had an ECOG performance status ≥ 2.
 Eighty-one percent of subjects had significant comorbidities (e.g., infection, cardiac impairment, pulmonary impairment).
 The number of patients treated with Dacogen by racial group was White 209 (86.4%) and Asian 33 (13.6%).
 
@@ -59,6 +59,7 @@ DACOGEN 242 137 65 28 12 1 0
 Total TC 243 107 55 19 7 4 0
 
 In an analysis with an additional 1 year of mature survival data, the effect of Dacogen on overall survival demonstrated a clinical improvement compared to the TC arm (7.7 months vs. 5.0 months, respectively, hazard ratio = 0.82, 95% CI: 0.68, 0.99, nominal p-value = 0.0373, Figure 2).
+
 Figure 2.
 Analysis of mature overall survival data (Intent-to-Treat population).
 
@@ -94,14 +95,17 @@ The median time to best response and median duration of best response in patient
 Progression-free survival was significantly longer for subjects in the Dacogen arm, 3.7 months (95% CI: 2.7, 4.6) compared with subjects in the TC arm, 2.1 months (95% CI: 1.9, 3.1); hazard ratio 0.75 (95% CI: 0.62, 0.91), p = 0.0031.
 These results as well as other endpoints are shown in Table 2.
 
-Table 2: Other efficacy endpoints for Study DACO-016 (ITT population).
+Table 2: Other efficacy endpoints for Study DACO-016 (ITT population)
 
 | Outcomes | Dacogen n = 242 | TC (combined group) n = 243 | p-value |
 | --- | --- | --- | --- |
 | CR + CRp | 43 (17.8%) 19 (7.8%) OR = 2.5 (1.40, 4.78)b | 19 (7.8%) | 0.0011 |
 | CR | 38 (15.7%) | 18 (7.4%) | - |
 | EFSa | 3.5 2.1 (2.5, 4.1)b (1.9, 2.8)b HR = 0.75 (0.62, 0.90)b | 2.1 (1.9, 2.8)b | 0.0025 |
-| PFSa | 3.7 2.1 (2.7, 4.6)b (1.9, 3.1)b HR = 0.75 (0.62, 0.91)b | 2.1 (1.9, 3.1)b | 0.0031 |
+| PFSa | 3.7 (2.7, 4.6)b | 2.1 (1.9, 3.1)b | 0.0031 |
+
+HR = 0.75
+(0.62, 0.91)b
 
 CR = complete remission; CRp = complete remission with incomplete platelet recovery, EFS = event-free survival,
 PFS = progression-free survival, OR = odds ratio, HR = hazard ratio

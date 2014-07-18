@@ -7,7 +7,7 @@ Distribution
 The pharmacokinetics of decitabine following intravenous administration as a 1-hour infusion were described by a linear two-compartment model, characterised by rapid elimination of the drug from the central compartment and by relatively slow distribution from the peripheral compartment.
 For a typical patient (weight 70 kg/body surface area 1.73 m2) the decitabine pharmacokinetic parameters are listed in the Table 3 below.
 
-Table 3: Summary of population PK analysis for a typical patient receiving daily 1-hour infusions of Dacogen 20 mg/m2 over 5 days every 4 weeks.
+Table 3: Summary of population PK analysis for a typical patient receiving daily 1-hour infusions of Dacogen 20 mg/m2 over 5 days every 4 weeks
 
 Parameter a Predicted Value 95% CI
 Cmax (ng/ml) 107 88.5 - 129
@@ -17,7 +17,6 @@ Vdss (L) 116 84.1 - 153
 CL (L/h) 298 249 - 359
 
 a The total dose per cycle was 100 mg/m2
-
 Decitabine exhibits linear PK and following the intravenous infusion, steady-state concentrations are reached within 0.5 hour.
 Based on model simulation, PK parameters were independent of time (i.e., did not change from cycle to cycle) and no accumulation was observed with this dosing regimen.
 Plasma protein binding of decitabine is negligible (< 1%).

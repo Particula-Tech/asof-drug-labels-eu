@@ -15,11 +15,11 @@ If after 4 cycles, the patient’s haematological values (e.g., platelet counts 
 Pre-medication for the prevention of nausea and vomiting is not routinely recommended but may be administered if required.
 
 Management of myelosuppression and associated complications
-Myelosuppression and adverse events related to myelosuppression (thrombocytopenia, anaemia, neutropenia, and febrile neutropenia) are common in both treated and untreated patients with AML.
+Myelosuppression and adverse events related to myelosuppression (thrombocytopaenia, anaemia, neutropaenia, and febrile neutropaenia) are common in both treated and untreated patients with AML.
 Complications of myelosuppression include infections and bleeding.
 Treatment may be delayed at the discretion of the treating physician, if the patient experiences myelosuppression-associated complications, such as those described below:
 
-- Febrile neutropenia (temperature ≥38.5°C and absolute neutrophil count < 1,000/µL)
+- Febrile neutropaenia (temperature ≥ 38.5°C and absolute neutrophil count < 1,000/µL)
 - Active viral, bacterial or fungal infection (i.e., requiring intravenous anti-infectives or extensive supportive care)
 - Haemorrhage (gastrointestinal, genito-urinary, pulmonary with platelets < 25,000/µL or any central nervous system haemorrhage)
 
