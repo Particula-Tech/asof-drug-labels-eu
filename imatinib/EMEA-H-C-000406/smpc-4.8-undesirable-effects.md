@@ -23,13 +23,13 @@ Miscellaneous adverse reactions such as pleural effusion, ascites, pulmonary oed
 These reactions can usually be managed by withholding Glivec temporarily and with diuretics and other appropriate supportive care measures.
 However, some of these reactions may be serious or life-threatening and several patients with blast crisis died with a complex clinical history of pleural effusion, congestive heart failure and renal failure.
 There were no special safety findings in paediatric clinical trials.
+
 Adverse reactions
 Adverse reactions reported as more than an isolated case are listed below, by system organ class and by frequency.
 Frequency categories are defined using the following convention: very common
 (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping, undesirable effects are presented in order of frequency, the most frequent first.
-
 Adverse reactions and their frequencies reported in Table 1 are based on the main registration studies.
 
 Table 1 Adverse reactions in clinical studies
@@ -98,7 +98,9 @@ Table 1 Adverse reactions in clinical studies
 | Reproductive system and breast disorders |  |
 | Uncommon: | Gynaecomastia, erectile dysfunction, menorrhagia, menstruation irregular, sexual dysfunction, nipple pain, breast enlargement, scrotal oedema |
 | Rare: | Haemorrhagic corpus luteum/haemorrhagic ovarian cyst |
+
 | General disorders and administration site conditions |  |
+| --- | --- |
 | Very common: | Fluid retention and oedema, fatigue |
 | Common: | Weakness, pyrexia, anasarca, chills, rigors |
 | Uncommon: | Chest pain, malaise |
@@ -144,6 +146,7 @@ Table 2 Adverse reactions from post-marketing reports
 | Not known: | Palmoplantar erythrodysesthesia syndrome |
 | Not known: | Lichenoid keratosis, lichen planus |
 | Not known: | Toxic epidermal necrolysis |
+| Not known: | Drug rash with eosinophilia and systemic symptoms (DRESS) |
 | Musculoskeletal and connective tissue disorders |  |
 | Not known: | Avascular necrosis/hip necrosis |
 | Not known: | Growth retardation in children |
@@ -174,3 +177,8 @@ In GIST patients (study B2222), 6.8% of grade 3 or 4 ALT (alanine aminotransfera
 Bilirubin elevation was below 3%.
 
 There have been cases of cytolytic and cholestatic hepatitis and hepatic failure; in some of them outcome was fatal, including one patient on high dose paracetamol.
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system. listed in Appendix V.

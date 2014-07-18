@@ -22,7 +22,7 @@ Fluid retention
 Occurrences of severe fluid retention (pleural effusion, oedema, pulmonary oedema, ascites, superficial oedema) have been reported in approximately 2.5% of newly diagnosed CML patients taking Glivec.
 Therefore, it is highly recommended that patients be weighed regularly.
 An unexpected rapid weight gain should be carefully investigated and if necessary appropriate supportive care and therapeutic measures should be undertaken.
-In clinical trials, there was an increased incidence of these events in elderly patients and those with a prior history of cardiac disease.
+In clinical trials, there was an increased incidence of these events in older people and those with a prior history of cardiac disease.
 Therefore, caution should be exercised in patients with cardiac dysfunction.
 
 Patients with cardiac disease

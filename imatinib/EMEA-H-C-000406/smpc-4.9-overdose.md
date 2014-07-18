@@ -13,6 +13,6 @@ Adult population
 8 to 10 g (single dose): Vomiting and gastrointestinal pain have been reported.
 
 Paediatric population
-One 3-year-old male exposed to a single dose of 400 mg experienced vomiting, diarrhoea and anorexia and another 3-year-old male exposed to a single dose of 980 mg dose experienced decreased white blood cell count and diarrhoea.
+One 3-year-old male exposed to a single dose of 400 mg experienced vomiting, diarrhoea and anorexia and another 3-year-old male exposed to a single dose of 980 mg experienced decreased white blood cell count and diarrhoea.
 
 In the event of overdose, the patient should be observed and appropriate supportive treatment given.

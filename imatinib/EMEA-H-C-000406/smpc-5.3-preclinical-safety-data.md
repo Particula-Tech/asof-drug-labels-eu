@@ -3,7 +3,6 @@
 The preclinical safety profile of imatinib was assessed in rats, dogs, monkeys and rabbits.
 
 Multiple dose toxicity studies revealed mild to moderate haematological changes in rats, dogs and monkeys, accompanied by bone marrow changes in rats and dogs.
-
 The liver was a target organ in rats and dogs.
 Mild to moderate increases in transaminases and slight decreases in cholesterol, triglycerides, total protein and albumin levels were observed in both species.
 No histopathological changes were seen in rat liver.
@@ -40,10 +39,14 @@ Imatinib was teratogenic in rats when administered during organogenesis at doses
 Teratogenic effects included exencephaly or encephalocele, absent/reduced frontal and absent parietal bones.
 These effects were not seen at doses ≤ 30 mg/kg.
 
+No new target organs were identified in the rat juvenile development toxicology study (day 10 to 70 postpartum) with respect to the known target organs in adult rats.
+In the juvenile toxicology study, effects upon growth, delay in vaginal opening and preputial separation were observed at approximately 0.3 to 2 times the average paediatric exposure at the highest recommended dose of 340 mg/m2.
+In addition, mortality was observed in juvenile animals (around weaning phase) at approximately 2 times the average paediatric exposure at the highest recommended dose of 340 mg/m2.
 In the 2-year rat carcinogenicity study administration of imatinib at 15, 30 and 60 mg/kg/day resulted in a statistically significant reduction in the longevity of males at 60 mg/kg/day and females at
 ≥30 mg/kg/day.
 Histopathological examination of decedents revealed cardiomyopathy (both sexes), chronic progressive nephropathy (females) and preputial gland papilloma as principal causes of death or reasons for sacrifice.
 Target organs for neoplastic changes were the kidneys, urinary bladder, urethra, preputial and clitoral gland, small intestine, parathyroid glands, adrenal glands and non-glandular stomach.
+
 Papilloma/carcinoma of the preputial/clitoral gland were noted from 30 mg/kg/day onwards, representing approximately 0.5 or 0.3 times the human daily exposure (based on AUC) at 400 mg/day or 800 mg/day, respectively, and 0.4 times the daily exposure in children (based on AUC) at 340 mg/m2/day.
 The no observed effect level (NOEL) was 15 mg/kg/day.
 The renal adenoma/carcinoma, the urinary bladder and urethra papilloma, the small intestine adenocarcinomas, the parathyroid glands adenomas, the benign and malignant medullary tumours of the adrenal glands and the non-glandular stomach papillomas/carcinomas were noted at 60 mg/kg/day, representing approximately 1.7 or 1 times the human daily exposure (based on AUC) at 400 mg/day or 800 mg/day, respectively, and 1.2 times the daily exposure in children (based on AUC) at 340 mg/m2/day.

@@ -11,6 +11,7 @@ Imatinib is a protein-tyrosine kinase inhibitor which potently inhibits the Bcr-
 The compound selectively inhibits proliferation and induces apoptosis in Bcr-Abl positive cell lines as well as fresh leukaemic cells from Philadelphia chromosome positive CML and acute lymphoblastic leukaemia (ALL) patients.
 
 In vivo the compound shows anti-tumour activity as a single agent in animal models using Bcr-Abl positive tumour cells.
+
 Imatinib is also an inhibitor of the receptor tyrosine kinases for platelet-derived growth factor (PDGF), PDGF-R, and stem cell factor (SCF), c-Kit, and inhibits PDGF- and SCF-mediated cellular events.
 In vitro, imatinib inhibits proliferation and induces apoptosis in gastrointestinal stromal tumour (GIST) cells, which express an activating kit mutation.
 Constitutive activation of the PDGF receptor or the Abl protein tyrosine kinases as a consequence of fusion to diverse partner proteins or constitutive production of PDGF have been implicated in the pathogenesis of MDS/MPD, HES/CEL and DFSP.
@@ -97,7 +98,6 @@ The degree of cytogenetic response and molecular response had a clear effect on 
 Whereas an estimated 96% (93%) of patients with CCyR (PCyR) at 12 months were free of progression to accelerated phase/blast crisis at 84 months, only 81% of patients without MCyR at 12 months were free of progression to advanced CML at 84 months (p<0.001 overall, p=0.25 between CCyR and PCyR).
 For patients with reduction in Bcr-Abl transcripts of at least 3 logarithms at 12 months, the probability of remaining free from progression to accelerated phase/blast crisis was 99% at 84 months.
 Similar findings were found based on a 18-months landmark analysis.
-
 In this study, dose escalations were allowed from 400 mg daily to 600 mg daily, then from 600 mg daily to 800 mg daily.
 After 42 months of follow-up, 11 patients experienced a confirmed loss (within 4 weeks) of their cytogenetic response.
 Of these 11 patients, 4 patients escalated up to 800 mg daily, 2 of whom regained a cytogenetic response (1 partial and 1 complete, the latter also achieving a molecular response), while of the 7 patients who did not escalate the dose, only one regained a complete cytogenetic response.
@@ -172,71 +172,93 @@ Table 5 Chemotherapy regimen used in combination with imatinib
 
 Study ADE10
 
-Prephase DEX 10 mg/m2 oral, days 1-5; CP 200 mg/m2 i.v., days 3, 4, 5; MTX
+Prephase DEX 10 mg/m2 oral, days 1-5;
 
-12 mg intrathecal, day 1
-Remission induction DEX 10 mg/m2 oral, days 6-7, 13-16; VCR 1 mg i.v., days 7, 14; IDA
-8 mg/m2 i.v.
-(0.5 h), days 7, 8, 14, 15; CP 500 mg/m2 i.v.(1 h) day 1; Ara-C 60 mg/m2 i.v., days 22-25, 29-32
+CP 200 mg/m2 i.v., days 3, 4, 5;
+MTX 12 mg intrathecal, day 1
+Remission induction DEX 10 mg/m2 oral, days 6-7, 13-16;
+VCR 1 mg i.v., days 7, 14;
+IDA 8 mg/m2 i.v.
+(0.5 h), days 7, 8, 14, 15;
+CP 500 mg/m2 i.v.(1 h) day 1;
+Ara-C 60 mg/m2 i.v., days 22-25, 29-32
 
-Consolidation MTX 500 mg/m2 i.v. (24 h), days 1, 15; 6-MP 25 mg/m2 oral, days 1-20
+Consolidation MTX 500 mg/m2 i.v. (24 h), days 1, 15;
+therapy I, III, V 6-MP 25 mg/m2 oral, days 1-20
+Consolidation Ara-C 75 mg/m2 i.v. (1 h), days 1-5;
+therapy II, IV VM26 60 mg/m2 i.v. (1 h), days 1-5
 
-therapy I, III, V
-
-Consolidation Ara-C 75 mg/m2 i.v. (1 h), days 1-5; VM26 60 mg/m2 i.v. (1 h), days 1-5
-
-therapy II, IV
 Study AAU02
-Induction therapy (de Daunorubicin 30 mg/m2 i.v., days 1-3, 15-16; VCR 2 mg total dose i.v.,
+Induction therapy (de Daunorubicin 30 mg/m2 i.v., days 1-3, 15-16;
 
-novo Ph+ ALL) days 1, 8, 15, 22; CP 750 mg/m2 i.v., days 1, 8; prednisone 60 mg/m2
+novo Ph+ ALL) VCR 2 mg total dose i.v., days 1, 8, 15, 22;
 
-oral, days 1-7, 15-21; IDA 9 mg/m2 oral, days 1-28; MTX 15 mg intrathecal, days 1, 8, 15, 22; Ara-C 40 mg intrathecal, days 1, 8, 15, 22; methylprednisolone 40 mg intrathecal, days 1, 8, 15, 22
-Consolidation (de Ara-C 1,000 mg/m2/12 h i.v.(3 h), days 1-4; mitoxantrone 10 mg/m2 i.v.
+CP 750 mg/m2 i.v., days 1, 8;
+Prednisone 60 mg/m2 oral, days 1-7, 15-21;
+IDA 9 mg/m2 oral, days 1-28;
+MTX 15 mg intrathecal, days 1, 8, 15, 22;
+Ara-C 40 mg intrathecal, days 1, 8, 15, 22;
+Methylprednisolone 40 mg intrathecal, days 1, 8, 15, 22
+Consolidation (de Ara-C 1,000 mg/m2/12 h i.v.(3 h), days 1-4;
 
-novo Ph+ ALL) days 3-5; MTX 15 mg intrathecal, day 1; methylprednisolone 40 mg
+novo Ph+ ALL) Mitoxantrone 10 mg/m2 i.v. days 3-5;
 
-intrathecal, day 1
+MTX 15 mg intrathecal, day 1;
+Methylprednisolone 40 mg intrathecal, day 1
 Study ADE04
 
-Prephase DEX 10 mg/m2 oral, days 1-5; CP 200 mg/m2 i.v., days 3-5; MTX 15 mg
+Prephase DEX 10 mg/m2 oral, days 1-5;
 
-intrathecal, day 1
-Induction therapy I DEX 10 mg/m2 oral, days 1-5; VCR 2 mg i.v., days 6, 13, 20; daunorubicin 45 mg/m2 i.v., days 6-7, 13-14
+CP 200 mg/m2 i.v., days 3-5;
+MTX 15 mg intrathecal, day 1
+Induction therapy I DEX 10 mg/m2 oral, days 1-5;
+VCR 2 mg i.v., days 6, 13, 20;
+Daunorubicin 45 mg/m2 i.v., days 6-7, 13-14
 Induction therapy II CP 1 g/m2 i.v.
-(1 h), days 26, 46; Ara-C 75 mg/m2 i.v.
-(1 h), days 28-31, 35-38, 42-45; 6-MP 60 mg/m2 oral, days 26-46
+(1 h), days 26, 46;
+Ara-C 75 mg/m2 i.v.
+(1 h), days 28-31, 35-38, 42-45;
+6-MP 60 mg/m2 oral, days 26-46
 
-Consolidation DEX 10 mg/m2 oral, days 1-5; vindesine 3 mg/m2 i.v., day 1; MTX
-therapy 1.5 g/m2 i.v. (24 h), day 1; etoposide 250 mg/m2 i.v. (1 h) days 4-5; Ara-
+Consolidation DEX 10 mg/m2 oral, days 1-5;
+therapy Vindesine 3 mg/m2 i.v., day 1;
 
-C 2x 2 g/m2 i.v.
+MTX 1.5 g/m2 i.v.
+(24 h), day 1;
+Etoposide 250 mg/m2 i.v.
+(1 h) days 4-5;
+Ara-C 2x 2 g/m2 i.v.
 (3 h, q 12 h), day 5
 Study AJP01
 Induction therapy CP 1.2 g/m2 i.v.
-(3 h), day 1; daunorubicin 60 mg/m2 i.v.
-(1 h), days 1-3; vincristine 1.3 mg/m2 i.v., days 1, 8, 15, 21; prednisolone 60 mg/m2/day oral
+(3 h), day 1;
+Daunorubicin 60 mg/m2 i.v.
+(1 h), days 1-3;
+Vincristine 1.3 mg/m2 i.v., days 1, 8, 15, 21;
+Prednisolone 60 mg/m2/day oral
 
 Consolidation Alternating chemotherapy course: high dose chemotherapy with MTX
 therapy 1 g/m2 i.v. (24 h), day 1, and Ara-C 2 g/m2 i.v. (q 12 h), days 2-3, for
 
 4 cycles
 
-Maintenance VCR 1.3 g/m2 i.v., day 1; prednisolone 60 mg/m2 oral, days 1-5
+Maintenance VCR 1.3 g/m2 i.v., day 1;
 
+Prednisolone 60 mg/m2 oral, days 1-5
 Study AUS01
 
 Induction- Hyper-CVAD regimen: CP 300 mg/m2 i.v. (3 h, q 12 h), days 1-3;
 
-consolidation therapy vincristine 2 mg i.v., days 4, 11; doxorubicine 50 mg/m2 i.v.
-(24 h), day 4; DEX 40 mg/day on days 1-4 and 11-14, alternated with MTX
-1 g/m2 i.v.
+consolidation therapy Vincristine 2 mg i.v., days 4, 11;
+Doxorubicine 50 mg/m2 i.v.
+(24 h), day 4;
+DEX 40 mg/day on days 1-4 and 11-14, alternated with MTX 1 g/m2 i.v.
 (24 h), day 1, Ara-C 1 g/m2 i.v.
 (2 h, q 12 h), days 2-3 (total of 8 courses)
 
-Maintenance VCR 2 mg i.v. monthly for 13 months; prednisolone 200 mg oral, 5 days
+Maintenance VCR 2 mg i.v. monthly for 13 months;
 
-per month for 13 months
+Prednisolone 200 mg oral, 5 days per month for 13 months
 All treatment regimens include administration of steroids for CNS prophylaxis.
 Ara-C: cytosine arabinoside; CP: cyclophosphamide; DEX: dexamethasone; MTX: methotrexate; 6-MP: 6-mercaptopurine VM26: Teniposide; VCR: vincristine; IDA: idarubicine; i.v.:
 intravenous
@@ -246,6 +268,7 @@ Glivec was administered intermittently in cohorts 1-5, with increasing duration 
 Continuous daily exposure to Glivec early in the course of treatment in combination with chemotherapy in cohort 5-patients (n=50) improved the 4-year event-free survival (EFS) compared to historical controls (n=120), who received standard chemotherapy without Glivec (69.6% vs. 31.6%, respectively).
 The estimated 4-year OS in cohort 5-patients was 83.6% compared to 44.8% in the historical controls.
 20 out of the 50 (40%) patients in cohort 5 received haematopoietic stem cell transplant.
+
 Table 6 Chemotherapy regimen used in combination with imatinib in study I2301
 
 | Consolidation block 1 (3 weeks) | VP-16 (100 mg/m2/day, IV): days 1-5 Ifosfamide (1.8 g/m2/day, IV): days 1-5 MESNA (360 mg/m2/dose q3h, x 8 doses/day, IV): days 1-5 G-CSF (5 μg/kg, SC): days 6-15 or until ANC > 1500 post nadir IT Methotrexate (age-adjusted): day 1 ONLY Triple IT therapy (age-adjusted): day 8, 15 |
@@ -256,7 +279,9 @@ Table 6 Chemotherapy regimen used in combination with imatinib in study I2301
 | Reinduction block 2 (3 weeks) | VCR (1.5 mg/m2/day, IV): days 1, 8 and 15 DAUN (45 mg/m2/day bolus, IV): days 1 and 2 CPM (250 mg/m2/dose q12h x 4 doses, iv): Days 3 and 4 PEG-ASP (2500 IUnits/m2, IM): day 4 G-CSF (5 μg/kg, SC): days 5-14 or until ANC > 1500 post nadir Triple IT therapy (age-adjusted): days 1 and 15 DEX (6 mg/m2/day, PO): days 1-7 and 15-21 |
 | Intensification block 2 (9 weeks) | Methotrexate (5 g/m2 over 24 hours, IV): days 1 and 15 Leucovorin (75 mg/m2 at hour 36, IV; 15 mg/m2 IV or PO q6h x 6 doses)iii: days 2, 3, 16, and 17 Triple IT therapy (age-adjusted): days 1 and 22 VP-16 (100 mg/m2/day, IV): days 22-26 CPM (300 mg/m2/day, IV): days 22-26 MESNA (150 mg/m2/day, IV): days 22-26 G-CSF (5 μg/kg, SC): days 27-36 or until ANC > 1500 post nadir ARA-C (3 g/m2, q12h, IV): days 43, 44 L-ASP (6000 IUnits/m2, IM): day 44 |
 | Maintenance (8-week cycles) Cycles 1–4 | MTX (5 g/m2 over 24 hours, IV): day 1 Leucovorin (75 mg/m2 at hour 36, IV; 15 mg/m2 IV or PO q6h x 6 doses)iii: days 2 and 3 Triple IT therapy (age-adjusted): days 1, 29 VCR (1.5 mg/m2, IV): days 1, 29 DEX (6 mg/m2/day PO): days 1-5; 29-33 6-MP (75 mg/m2/day, PO): days 8-28 Methotrexate (20 mg/m2/week, PO): days 8, 15, 22 VP-16 (100 mg/m2, IV): days 29-33 CPM (300 mg/m2, IV): days 29-33 MESNA IV days 29-33 G-CSF (5 μg/kg, SC): days 34-43 |
+
 | Maintenance (8-week cycles) Cycle 5 | Cranial irradiation (Block 5 only) 12 Gy in 8 fractions for all patients that are CNS1 and CNS2 at diagnosis 18 Gy in 10 fractions for patients that are CNS3 at diagnosis VCR (1.5 mg/m2/day, IV): days 1, 29 DEX (6 mg/m2/day, PO): days 1-5; 29-33 6-MP (75 mg/m2/day, PO): days 11-56 (Withhold 6-MP during the 6-10 days of cranial irradiation beginning on day 1 of Cycle 5. Start 6-MP the 1st day after cranial irradiation completion.) Methotrexate (20 mg/m2/week, PO): days 8, 15, 22, 29, 36, 43, 50 |
+| --- | --- |
 | Maintenance (8-week cycles) Cycles 6-12 | VCR (1.5 mg/m2/day, IV): days 1, 29 DEX (6 mg/m2/day, PO): days 1-5; 29-33 6-MP (75 mg/m2/day, PO): days 1-56 Methotrexate (20 mg/m2/week, PO): days 1, 8, 15, 22, 29, 36, 43, 50 |
 
 G-CSF = granulocyte colony stimulating factor, VP-16 = etoposide, MTX = methotrexate, IV = intravenous, SC = subcutaneous, IT = intrathecal, PO = oral, IM = intramuscular, ARA-C = cytarabine, CPM = cyclophosphamide, VCR = vincristine, DEX = dexamethasone, DAUN = daunorubicin, 6-MP = 6-mercaptopurine, E.Coli L-ASP = L-asparaginase, PEG-ASP = PEG asparaginase, MESNA= 2-mercaptoethane sulfonate sodium, iii= or until MTX level is < 0.1 µM, q6h = every 6 hours, Gy= Gray
@@ -268,6 +293,7 @@ Relapsed/refractory Ph+ ALL: When imatinib was used as single agent in patients 
 (Of note, out of the 411 patients, 353 were treated in an expanded access program without primary response data collected.)
 The median time to progression in the overall population of 411 patients with relapsed/refractory Ph+ ALL ranged from 2.6 to 3.1 months, and median overall survival in the 401 evaluable patients ranged from 4.9 to 9 months.
 The data was similar when re-analysed to include only those patients age 55 or older.
+
 Clinical studies in MDS/MPD
 Experience with Glivec in this indication is very limited and is based on haematological and cytogenetic response rates.
 There are no controlled trials demonstrating a clinical benefit or increased survival.
@@ -311,12 +337,12 @@ There are no controlled trials in paediatric patients with HES/CEL.
 Three (3) patients with HES and CEL associated with PDGFR gene re-arrangements were reported in 3 publications.
 The age of these patients ranged from 2 to 16 years and imatinib was given at dose 300 mg/m2 daily or doses ranging from 200 to 400 mg daily.
 All patients achieved complete haematological response, complete cytogenetic response and/or complete molecular response.
+
 Clinical studies in unresectable and/or metastatic GIST
 One phase II, open-label, randomised, uncontrolled multinational study was conducted in patients with unresectable or metastatic malignant gastrointestinal stromal tumours (GIST).
 In this study 147 patients were enrolled and randomised to receive either 400 mg or 600 mg orally once daily for up to 36 months.
 These patients ranged in age from 18 to 83 years old and had a pathologic diagnosis of Kit-positive malignant GIST that was unresectable and/or metastatic.
 Immunohistochemistry was routinely performed with Kit antibody (A-4502, rabbit polyclonal antiserum, 1:100; DAKO Corporation, Carpinteria, CA) according to analysis by an avidin-biotin-peroxidase complex method after antigen retrieval.
-
 The primary evidence of efficacy was based on objective response rates.
 Tumours were required to be measurable in at least one site of disease, and response characterisation based on Southwestern Oncology Group (SWOG) criteria.
 Results are provided in Table 7.
@@ -354,10 +380,10 @@ Patients were included who had a histological diagnosis of primary GIST expressi
 After resection of primary GIST, patients were randomised to one of the two arms: Glivec at 400 mg/day or matching placebo for one year.
 
 The primary endpoint of the study was recurrence-free survival (RFS), defined as the time from date of randomisation to the date of recurrence or death from any cause.
+
 Glivec significantly prolonged RFS, with 75% of patients being recurrence-free at 38 months in the Glivec group vs. 20 months in the placebo group (95% CIs, [30 - non-estimable]; [14 - non-estimable], respectively); (hazard ratio = 0.398 [0.259-0.610], p<0.0001).
 At one year the overall RFS was significantly better for Glivec (97.7%) vs. placebo (82.3%), (p<0.0001).
 The risk of recurrence was thus reduced by approximately 89% as compared with placebo (hazard ratio = 0.113 [0.049-0.264]).
-
 The risk of recurrence in patients after surgery of their primary GIST was retrospectively assessed based on the following prognostic factors: tumour size, mitotic index, tumour location.
 Mitotic index data were available for 556 of the 713 intention-to-treat (ITT) population.
 The results of subgroup analyses according to the United States National Institutes of Health (NIH) and the Armed Forces Institute of Pathology (AFIP) risk classifications are shown in Table 8.
@@ -388,10 +414,10 @@ In addition, thirty-six (36) months of Glivec treatment significantly prolonged 
 Longer duration of the treatment (> 36 months) may delay the onset of further recurrences; however the impact of this finding on the overall survival remains unknown.
 
 The total number of deaths were 25 for the 12-month treatment arm and 12 for the 36-month treatment arm.
+
 Treatment with imatinib for 36 months was superior to treatment for 12 months in the ITT analysis, i.e. including the entire study population.
 In a planned subgroup analysis by mutation type, the HR for RFS for 36 months of treatment for patients with mutations of exon 11 was 0.35 [95% CI: 0.22, 0.56].
 No conclusions can be drawn for other less common mutation subgroups due to the low number of observed events.
-
 Table 9 12-month and 36-month Glivec treatment (SSGXVIII/AIO Trial)
 
 12-month treatment arm 36-month treatment arm

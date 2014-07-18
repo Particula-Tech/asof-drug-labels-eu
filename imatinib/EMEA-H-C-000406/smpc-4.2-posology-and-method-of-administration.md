@@ -124,9 +124,9 @@ However, in these patients caution is recommended.
 The dose can be reduced if not tolerated.
 If tolerated, the dose can be increased for lack of efficacy (see sections 4.4 and 5.2).
 
-Elderly patients: Imatinib pharmacokinetics have not been specifically studied in the elderly.
+Older people: Imatinib pharmacokinetics have not been specifically studied in older people.
 No significant age-related pharmacokinetic differences have been observed in adult patients in clinical trials which included over 20% of patients age 65 and older.
-No specific dose recommendation is necessary in the elderly.
+No specific dose recommendation is necessary in older people.
 
 [Glivec 100 mg hard capsules]
 

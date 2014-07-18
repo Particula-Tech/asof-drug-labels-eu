@@ -16,4 +16,4 @@ Very dark yellow to brownish-orange film-coated tablet, round with “NVR” on 
 
 [Glivec 400 mg film-coated tablets]
 
-Very dark yellow to brownish-orange, ovaloid, biconvex film-coated tablet with bevelled edges, debossed with “NVR” on one side and “SL” on the other side.
+Very dark yellow to brownish-orange, ovaloid, biconvex film-coated tablet with bevelled edges, debossed with “glivec” on one side.
