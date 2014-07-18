@@ -5,6 +5,7 @@ As a result, reduction in organ weights and morphological and/or histopathologic
 All changes showed complete or partial reversibility.
 The changes in the reproductive organs and androgen-sensitive organs are consistent with the pharmacology of abiraterone.
 All treatment-related hormonal changes reversed or were shown to be resolving after a 4-week recovery period.
+
 In fertility studies in both male and female rats, abiraterone acetate reduced fertility, which was completely reversible in 4 to 16 weeks after abiraterone acetate was stopped.
 
 In a developmental toxicity study in the rat, abiraterone acetate affected pregnancy including reduced foetal weight and survival.

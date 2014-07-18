@@ -8,10 +8,8 @@ It is not known whether abiraterone or its metabolites are present in semen.
 A condom is required if the patient is engaged in sexual activity with a pregnant woman.
 If the patient is engaged in sex with a woman of childbearing potential, a condom is required along with another effective contraceptive method.
 Studies in animals have shown reproductive toxicity (see section 5.3).
-
 Pregnancy
-ZYTIGA is not for use in women.
-Abiraterone acetate is contraindicated in women who are or may potentially be pregnant (see section 4.3 and 5.3).
+ZYTIGA is not for use in women and is contraindicated in women who are or may potentially be pregnant (see section 4.3 and 5.3).
 
 Breast-feeding
 ZYTIGA is not for use in women.

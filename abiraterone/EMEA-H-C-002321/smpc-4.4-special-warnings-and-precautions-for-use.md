@@ -13,7 +13,7 @@ Before treating patients with a significant risk for congestive heart failure (e
 Before treatment with ZYTIGA, cardiac failure should be treated and cardiac function optimised.
 Hypertension, hypokalaemia and fluid retention should be corrected and controlled.
 During treatment, blood pressure, serum potassium, fluid retention (weight gain, peripheral oedema), and other signs and symptoms of congestive heart failure should be monitored every 2 weeks for 3 months, then monthly thereafter and abnormalities corrected.
-Assess cardiac function as clinically indicated, institute appropriate management and consider discontinuation of ZYTIGA treatment if there is a clinically significant decrease in cardiac function (see section4.2).
+Assess cardiac function as clinically indicated, institute appropriate management and consider discontinuation of this treatment if there is a clinically significant decrease in cardiac function (see section4.2).
 
 Hepatotoxicity and Hepatic impairment
 Marked increases in liver enzymes leading to treatment discontinuation or dose modification occurred in controlled clinical studies (see section 4.8).
@@ -63,4 +63,4 @@ Most cases developed within the first month of treatment and recovered after ZYT
 Caution is recommended in patients concomitantly treated with drugs known to be associated with myopathy/rhabdomyolysis.
 
 Interactions with other medicinal products
-Strong inducers of CYP3A4 during treatment are to be avoided unless there is no therapeutic alternative, due to risk of decreased exposure to ZYTIGA (see section 4.5).
+Strong inducers of CYP3A4 during treatment are to be avoided unless there is no therapeutic alternative, due to risk of decreased exposure to abiraterone (see section 4.5).

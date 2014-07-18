@@ -17,7 +17,7 @@ Pharmacodynamic effects
 ZYTIGA decreases serum testosterone and other androgens to levels lower than those achieved by the use of LHRH analogues alone or by orchiectomy.
 This results from the selective inhibition of the CYP17 enzyme required for androgen biosynthesis.
 Prostate specific antigen (PSA) serves as a biomarker in patients with prostate cancer.
-In a phase 3 clinical study of patients who failed prior chemotherapy with taxanes, 38% of patients treated with ZYTIGA, versus 10% of patients treated with placebo, had at least a 50% decline from baseline in PSA levels.
+In a phase 3 clinical study of patients who failed prior chemotherapy with taxanes, 38% of patients treated with abiraterone acetate, versus 10% of patients treated with placebo, had at least a 50% decline from baseline in PSA levels.
 
 Clinical efficacy and safety
 Efficacy was established in two randomised placebo-controlled multicentre phase 3 clinical studies (studies 301 and 302) of patients with metastatic castration resistant prostate cancer.
@@ -33,6 +33,7 @@ Study 302 (chemotherapy naïve patients)
 
 This study enrolled chemotherapy naïve patients who were asymptomatic or mildly symptomatic and for whom chemotherapy was not yet clinically indicated.
 A score of 0-1 on Brief Pain Inventory-Short Form (BPI-SF) worst pain in last 24 hours was considered asymptomatic, and a score of 2-3 was considered mildly symptomatic.
+
 In study 302, (n=1,088) the median age of enrolled patients was 71 years for patients treated with ZYTIGA plus prednisone or prednisolone and 70 years for patients treated with placebo plus prednisone or prednisolone.
 The number of patients treated with ZYTIGA by racial group was Caucasian 520 (95.4%), Black 15 (2.8%), Asian 4 (0.7%) and other 6 (1.1%).
 The ECOG performance status was 0 for 76% of patients, and 1 for 24% of patients in both arms.
@@ -69,6 +70,7 @@ Hazard ratio**
 NE=Not Estimated
 * P-value is derived from a log-rank test stratified by baseline ECOG score (0 or 1)
 ** Hazard ratio < 1 favours ZYTIGA
+
 Figure 1: Kaplan Meier curves of radiographic progression-free survival in patients treated with either ZYTIGA or placebo in combination with prednisone or prednisolone plus LHRH analogues or prior orchiectomy
 
 AA=ZYTIGA
@@ -79,7 +81,6 @@ The investigator radiographic review of rPFS performed as a follow up sensitivit
 Six hundred and seven (607) subjects had radiographic progression or died: 271 (50%) in the abiraterone acetate group and 336 (62%) in the placebo group.
 Treatment with abiraterone acetate decreased the risk of radiographic progression or death by 47% compared with placebo (HR=0.530; 95% CI: 0.451; 0.623; p < 0.0001).
 The median rPFS was 16.5 months in the abiraterone acetate group and 8.3 months in the placebo group.
-
 Table 3: Study 302: Radiographic progression-free survival of patients treated with either ZYTIGA or placebo in combination with prednisone or prednisolone plus LHRH analogues or prior orchiectomy (At second interim analysis of OS-Investigator Review)
 
 ZYTIGA PLACEBO
@@ -99,6 +100,7 @@ Hazard ratio**
 (95% CI)
 * P-value is derived from a log-rank test stratified by baseline ECOG score (0 or 1)
 ** Hazard ratio < 1 favours ZYTIGA
+
 Figure 2: Kaplan Meier curves of radiographic progression-free survival in patients treated with either ZYTIGA or placebo in combination with prednisone or prednisolone plus LHRH analogues or prior orchiectomy (At second interim analysis of OS-Investigator Review)
 
 AA=ZYTIGA
@@ -108,7 +110,6 @@ The study was unblinded based on the magnitude of clinical benefit observed.
 Twenty seven percent (147 of 546) of patients treated with ZYTIGA, compared with 34% (186 of 542) of patients treated with placebo, had died.
 Overall survival was longer for ZYTIGA than placebo with a 25% reduction in risk of death (HR=0.752; 95% CI: 0.606; 0.934).
 The p-value was 0.0097 which did not meet the pre-specified value for statistical significance (see Table 4 and Figure 3).
-
 Table 4: Study 302: Overall survival of patients treated with either ZYTIGA or placebo in combination with prednisone or prednisolone plus LHRH analogues or prior orchiectomy
 
 ZYTIGA PLACEBO
@@ -130,6 +131,7 @@ Hazard ratio**
 NE=Not Estimated
 * P-value is derived from a log-rank test stratified by baseline ECOG score (0 or 1)
 ** Hazard ratio < 1 favours ZYTIGA
+
 Figure 3: Kaplan Meier survival curves of patients treated with either ZYTIGA or placebo in combination with prednisone or prednisolone plus LHRH analogues or prior orchiectomy
 
 AA=ZYTIGA
@@ -140,7 +142,6 @@ Time to PSA progression based on PCWG2 criteria: The median time to PSA progress
 The time to PSA progression was approximately doubled with ZYTIGA treatment (HR=0.488).
 The proportion of subjects with a confirmed PSA response was greater in the ZYTIGA group than in the placebo group (62% versus 24%; p < 0.0001).
 In subjects with measurable soft tissue disease, significantly increased numbers of complete and partial tumor responses were seen with ZYTIGA treatment.
-
 Time to opiate use for cancer pain: The median time to opiate use for prostate cancer pain was not reached for patients receiving ZYTIGA and was 23.7 months for patients receiving placebo (HR=0.686; 95% CI: [0.566, 0.833], p=0.0001).
 
 Time to initiation of cytotoxic chemotherapy: The median time to initiation of cytotoxic chemotherapy was 25.2 months for patients receiving ZYTIGA and 16.8 months for patients receiving placebo (HR=0.580; 95% CI: [0.487, 0.691], p < 0.0001).
@@ -173,7 +174,6 @@ Liver metastasis was present in 11% of patients treated with ZYTIGA.
 
 In a planned analysis conducted after 552 deaths were observed, 42% (333 of 797) of patients treated with ZYTIGA compared with 55% (219 of 398) of patients treated with placebo, had died.
 A statistically significant improvement in median overall survival was seen in patients treated with ZYTIGA (see Table 5).
-
 Table 5: Overall survival of patients treated with either ZYTIGA or placebo in combination with prednisone or prednisolone plus LHRH analogues or prior orchiectomy
 
 ZYTIGA Placebo
@@ -186,7 +186,7 @@ Median survival (months) 14.8 (14.1, 15.4) 10.9 (10.2, 12.0)
 
 (95% CI)
 
-p-value a <0.0001
+p-value a < 0.0001
 Hazard ratio (95% CI) b 0.646 (0.543, 0.768)
 
 Updated Survival Analysis
@@ -201,19 +201,21 @@ Median survival (months)
 
 Hazard ratio (95% CI) b 0.740 (0.638, 0.859)
 
-a P-value is derived from a log-rank test stratified by ECOG performance status score (0-1 vs. 2), pain score (absent vs. present), number of prior chemotherapy regimens (1 vs. 2), and type of disease progression (PSA only vs. radiographic). b Hazard ratio is derived from a stratified proportional hazards model.
-Hazard ratio <1 favours ZYTIGA
+a P-value is derived from a log-rank test stratified by ECOG performance status score (0-1 vs. 2), pain score (absent vs. present), number of prior chemotherapy regimens (1 vs. 2), and type of disease progression (PSA only vs. radiographic).
+b Hazard ratio is derived from a stratified proportional hazards model.
+Hazard ratio < 1 favours ZYTIGA
 
 At all evaluation time points after the initial few months of treatment, a higher proportion of patients treated with ZYTIGA remained alive, compared with the proportion of patients treated with placebo (see Figure 4).
+
 Figure 4: Kaplan Meier survival curves of patients treated with either ZYTIGA or placebo in combination with prednisone or prednisolone plus LHRH analogues or prior orchiectomy
 
 AA=ZYTIGA
-
 Subgroup survival analyses showed a consistent survival benefit for treatment with ZYTIGA (see Figure 5).
 
 Figure 5: Overall survival by subgroup: hazard ratio and 95% confidence interval
 
 AA=ZYTIGA; BPI=Brief Pain Inventory; C.I.=confidence interval; ECOG=Eastern Cooperative Oncology Group performance score; HR=hazard ratio; NE=not evaluable
+
 In addition to the observed improvement in overall survival, all secondary study endpoints favoured ZYTIGA and were statistically significant after adjusting for multiple testing as follows:
 
 Patients receiving ZYTIGA demonstrated a significantly higher total PSA response rate (defined as a ≥50% reduction from baseline), compared with patients receiving placebo, 38% versus 10%, p < 0.0001.
