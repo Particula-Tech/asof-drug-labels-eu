@@ -7,8 +7,9 @@ As general advice to minimise the risk for skin cancer, exposure to sunlight and
 Patients receiving CellCept should be instructed to report immediately any evidence of infection, unexpected bruising, bleeding or any other manifestation of bone marrow depression.
 
 Patients treated with immunosuppressants, including CellCept, are at increased risk for opportunistic infections (bacterial, fungal, viral and protozoal), fatal infections and sepsis (see section 4.8).
-Among the opportunistic infections are BK virus associated nephropathy and JC virus associated progressive multifocal leukoencephalopathy (PML).
+Such infections include latent viral reactivation, such as hepatitis B or hepatitis C reactivation and infections caused by polyomaviruses (BK virus associated nephropathy, JC virus associated progressive multifocal leukoencephalopathy PML) Cases of hepatitis due to reactivation of hepatitis B or hepatitis C have been reported in carrier patients treated with immunosuppressants.
 These infections are often related to a high total immunosuppressive burden and may lead to serious or fatal conditions that physicians should consider in the differential diagnosis in immunosuppressed patients with deteriorating renal function or neurological symptoms.
+
 Patients receiving CellCept should be monitored for neutropenia, which may be related to CellCept itself, concomitant medications, viral infections, or some combination of these causes.
 Patients taking CellCept should have complete blood counts weekly during the first month, twice monthly for the second and third months of treatment, then monthly through the first year.
 If neutropenia develops (absolute neutrophil count < 1.3 x 103/µl), it may be appropriate to interrupt or discontinue CellCept.
@@ -34,6 +35,9 @@ In view of the significant reduction in the AUC of MPA by cholestyramine, cautio
 The risk: benefit of mycophenolate mofetil in combination with tacrolimus or sirolimus has not been established (see also section 4.5).
 
 [CellCept 500 mg powder for concentrate for solution for infusion.]
+
+Such infections include latent viral reactivation, such as hepatitis B or hepatitis C reactivation and infections caused by polyomaviruses (BK virus associated nephropathy, JC virus associated progressive multifocal leukoencephalopathy PML) .
+Cases of hepatitis due to reactivation of hepatitis B or hepatitis C have been reported in carrier patients treated with immunosuppressants.
 
 If neutropenia develops (absolute neutrophil count < 1.3 x 103/µl) it may be appropriate to interrupt or discontinue CellCept.
 

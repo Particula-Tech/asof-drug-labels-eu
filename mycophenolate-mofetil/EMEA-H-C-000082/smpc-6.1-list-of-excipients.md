@@ -15,6 +15,7 @@ polysorbate 80 citric acid hydrochloric acid sodium chloride.
 
 CellCept 1 g/5 ml powder for oral suspension:
 sorbitol silica, colloidal anhydrous sodium citrate soybean lecithin mixed fruit flavour xanthan gum aspartame* (E951) methyl parahydroxybenzoate (E218) citric acid anhydrous
+
 * contains phenylalanine equivalent to 2.78 mg/5 ml of suspension.
 
 [CellCept 500 mg film-coated tablets.]

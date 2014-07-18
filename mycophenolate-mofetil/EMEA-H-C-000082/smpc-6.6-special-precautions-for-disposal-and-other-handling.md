@@ -3,6 +3,7 @@
 Because mycophenolate mofetil has demonstrated teratogenic effects in rats and rabbits, CellCept capsules should not be opened or crushed.
 Avoid inhalation or direct contact with skin or mucous membranes of the powder contained in CellCept capsules.
 If such contact occurs, wash thoroughly with soap and water; rinse eyes with plain water.
+
 Any unused product or waste material should be disposed of in accordance with local requirements.
 
 [CellCept 500 mg powder for concentrate for solution for infusion.]
@@ -16,6 +17,7 @@ A detailed description of the preparation is given below:
 
 Step 1 a. Two vials of CellCept 500 mg powder for concentrate for solution for infusion are used for preparing each 1 g dose.
 Reconstitute the content of each vial by injecting 14 ml of glucose intravenous infusion 5 %.
+
 b. Gently shake the vial to dissolve the medicinal product yielding a slightly yellow solution.
 
 c. Inspect the resulting solution for particulate matter and discoloration prior to further dilution.
@@ -37,7 +39,6 @@ Because mycophenolate mofetil has demonstrated teratogenic effects in rats and r
 Because mycophenolate mofetil has demonstrated teratogenic effects in rats and rabbits, avoid inhalation or direct contact with skin or mucous membranes of the dry powder as well as direct contact of the reconstituted suspension with the skin.
 
 It is recommended that CellCept 1 g/5 ml powder for oral suspension be reconstituted by the pharmacist prior to dispensing to the patient.
-
 Preparation of suspension
 
 1.

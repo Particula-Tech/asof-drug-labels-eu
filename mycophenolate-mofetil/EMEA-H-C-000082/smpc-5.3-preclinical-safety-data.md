@@ -17,6 +17,7 @@ In teratology studies in rats and rabbits, foetal resorptions and malformations 
 The systemic exposure at these levels is approximately equivalent to or less than 0.5 times the clinical exposure at the recommended clinical dose of 2 g/day for renal transplant patients and approximately 0.3 times the clinical exposure at the recommended clinical dose of 3 g/day for cardiac transplant patients.
 
 Refer to section 4.6.
+
 The haematopoietic and lymphoid systems were the primary organs affected in toxicology studies conducted with mycophenolate mofetil in the rat, mouse, dog and monkey.
 These effects occurred at systemic exposure levels that are equivalent to or less than the clinical exposure at the recommended dose of 2 g/day for renal transplant recipients.
 Gastrointestinal effects were observed in the dog at systemic exposure levels equivalent to or less than the clinical exposure at the recommended dose.

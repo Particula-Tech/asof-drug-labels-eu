@@ -42,7 +42,6 @@ This effect tended to diminish with continued antibiotic use and to cease within
 The change in predose level may not accurately represent changes in overall MPA exposure.
 Therefore, a change in the dose of CellCept should not normally be necessary in the absence of clinical evidence of graft dysfunction.
 However, close clinical monitoring should be performed during the combination and shortly after antibiotic treatment.
-
 Tacrolimus: in hepatic transplant patients initiated on CellCept and tacrolimus, the AUC and Cmax of MPA, the active metabolite of CellCept, were not significantly affected by coadministration with tacrolimus.
 In, contrast, there was an increase of approximately 20 % in tacrolimus AUC when multiple doses of CellCept (1.5 g BID) were administered to patients taking tacrolimus.
 However, in renal transplant patients, tacrolimus concentration did not appear to be altered by CellCept (see also section 4.4).

@@ -9,6 +9,7 @@ Lymphoproliferative disease or lymphoma developed in 0.6 % of patients receiving
 Non-melanoma skin carcinomas occurred in 3.6 % of patients; other types of malignancy occurred in 1.1 % of patients.
 Three-year safety data in renal and cardiac transplant patients did not reveal any unexpected changes in incidence of malignancy compared to the 1-year data.
 Hepatic transplant patients were followed for at least 1 year, but less than 3 years.
+
 Opportunistic infections:
 All transplant patients are at increased risk of opportunistic infections; the risk increased with total immunosuppressive load (see section 4.4).
 The most common opportunistic infections in patients receiving CellCept (2 g or 3 g daily) with other immunosuppressants in controlled clinical trials of renal (2 g data), cardiac and hepatic transplant patients followed for at least 1 year were candida mucocutaneous, CMV viraemia/syndrome and Herpes simplex.
@@ -24,7 +25,6 @@ Elderly patients receiving CellCept as part of a combination immunosuppressive r
 
 Other adverse reactions:
 Adverse reactions, probably or possibly related to CellCept, reported in ≥1/10 and in ≥1/100 to<1/10 of patients treated with CellCept in the controlled clinical trials of renal (2 g data), cardiac and hepatic transplant patients are listed in the following table.
-
 Adverse Reactions, Probably or Possibly Related to CellCept, Reported in Patients Treated with CellCept in Renal, Cardiac and Hepatic Clinical Trials when Used in Combination with Ciclosporin and Corticosteroids
 
 Within the system organ classes, undesirable effects are listed under headings of frequency, using the following categories: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000), not known (cannot be estimated form the available data).
@@ -38,8 +38,8 @@ Within each frequency grouping, undesirable effects are presented in order of de
 |  | Common | Skin cancer, benign neoplasm of skin |
 | Blood and lymphatic system disorders | Very common | Leucopenia, thrombocytopenia, anaemia |
 |  | Common | Pancytopenia, leucocytosis |
-| Metabolism and nutrition | Very common | - |
-| disorders | Common | Acidosis, hyperkalaemia, hypokalaemia, hyperglycaemia, hypomagnesaemia, hypocalcaemia, hypercholesterolaemia, hyperlipidaemia, hypophosphataemia, hyperuricaemia, gout, anorexia |
+| Metabolism and nutrition disorders | Very common | - |
+|  | Common | Acidosis, hyperkalaemia, hypokalaemia, hyperglycaemia, hypomagnesaemia, hypocalcaemia, hypercholesterolaemia, hyperlipidaemia, hypophosphataemia, hyperuricaemia, gout, anorexia |
 | Psychiatric disorders | Very common | - |
 |  | Common | Agitation, confusional state, depression, anxiety, thinking abnormal, insomnia |
 | Nervous system disorders | Very common | - |
@@ -72,6 +72,7 @@ The types of adverse reactions reported during post-marketing with CellCept are 
 Additional adverse reactions reported during post-marketing are described below with the frequencies reported within brackets if known.
 
 Gastrointestinal: gingival hyperplasia (≥1/100 to <1/10), colitis including cytomegalovirus colitis, (≥1/100 to <1/10), pancreatitis, (≥1/100 to <1/10) and intestinal villous atrophy.
+
 Disorders related to immunosuppression: serious life-threatening infections including meningitis, endocarditis, tuberculosis and atypical mycobacterial infection.
 Cases of BK virus associated nephropathy, as well as cases of JC virus associated progressive multifocal leucoencephalopathy (PML), have been reported in patients treated with immunosuppressants, including CellCept.
 Agranulocytosis (≥1/1000 to <1/100) and neutropenia have been reported; therefore, regular monitoring of patients taking CellCept is advised (see section 4.4).
@@ -89,6 +90,10 @@ Congenital disorders: see further details in section 4.6.
 
 Respiratory, thoracic and mediastinal disorders:
 There have been isolated reports of interstitial lung disease and pulmonary fibrosis in patients treated with CellCept in combination with other immunosuppressants, some of which have been fatal.
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions the national reporting system listed in Appendix V.
 
 [CellCept 500 mg powder for concentrate for solution for infusion.]
 
@@ -147,6 +152,8 @@ Gastrointestinal: gingival hyperplasia (≥1/100 to <1/10), colitis including cy
 Disorders related to immunosuppression: serious life-threatening infections including meningitis, endocarditis tuberculosis and atypical mycobacterial infection.
 Agranulocytosis (≥1/1000 to <1/100) and neutropenia have been reported; therefore regular monitoring of patients taking CellCept is advised (see section 4.4).
 
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
 [CellCept 1 g/5 ml powder for oral suspension.]
 
 However, the following treatment-related adverse events were more frequent in the paediatric population, particularly in children under 6 years of age, when compared to adults: diarrhoea, sepsis, leucopenia, anaemia and infection.
@@ -162,7 +169,7 @@ Adverse reactions, probably or possibly related to CellCept, reported in ≥1/10
 | Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Very common | - |
 |  | Common | Skin cancer, benign neoplasm of skin |
 | Blood and lymphatic system disorders | Very common | Leucopenia, thrombocytopenia, anaemia |
-|  | Common | Pancytopenia, leucocytosis |
+|  | Common | Pancytopenia, leukocytosis |
 | Metabolism and nutrition disorders | Very common | - |
 |  | Common | Acidosis, hyperkalaemia, hypokalaemia, hyperglycaemia, hypomagnesaemia, hypocalcaemia, hypercholesterolaemia, hyperlipidaemia, hypophosphataemia, hyperuricaemia, gout, anorexia |
 | Psychiatric disorders | Very common | - |

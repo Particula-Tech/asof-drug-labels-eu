@@ -1,18 +1,20 @@
 # 5.2 Pharmacokinetic properties
 
+Absorption
 Following oral administration, mycophenolate mofetil undergoes rapid and extensive absorption and complete presystemic metabolism to the active metabolite, MPA.
 As evidenced by suppression of acute rejection following renal transplantation, the immunosuppressant activity of CellCept is correlated with MPA concentration.
 The mean bioavailability of oral mycophenolate mofetil, based on MPA AUC, is 94 % relative to IV mycophenolate mofetil.
 Food had no effect on the extent of absorption (MPA AUC) of mycophenolate mofetil when administered at doses of 1.5 g BID to renal transplant patients.
 However, MPA Cmax was decreased by 40 % in the presence of food.
 Mycophenolate mofetil is not measurable systemically in plasma following oral administration.
-MPA at clinically relevant concentrations is 97 % bound to plasma albumin.
-
+Distribution
 As a result of enterohepatic recirculation, secondary increases in plasma MPA concentration are usually observed at approximately 6 – 12 hours post-dose.
 A reduction in the AUC of MPA of approximately 40 % is associated with the co-administration of cholestyramine (4 g TID), indicating that there is a significant amount of enterohepatic recirculation.
-
+MPA at clinically relevant concentrations is 97 % bound to plasma albumin.
+Biotransformation
 MPA is metabolised principally by glucuronyl transferase to form the phenolic glucuronide of MPA (MPAG), which is not pharmacologically active.
 
+Elimination
 A negligible amount of substance is excreted as MPA (< 1 % of dose) in the urine.
 Orally administered radiolabelled mycophenolate mofetil results in complete recovery of the administered dose with 93 % of the administered dose recovered in the urine and 6 % recovered in the faeces.
 Most (about 87 %) of the administered dose is excreted in the urine as MPAG.
@@ -38,6 +40,7 @@ Hepatic impairment:
 In volunteers with alcoholic cirrhosis, hepatic MPA glucuronidation processes were relatively unaffected by hepatic parenchymal disease.
 Effects of hepatic disease on this process probably depend on the particular disease.
 However, hepatic disease with predominantly biliary damage, such as primary biliary cirrhosis, may show a different effect.
+
 Children and adolescents (aged 2 to 18 years):
 Pharmacokinetic parameters were evaluated in 49 paediatric renal transplant patients given 600 mg/m2 mycophenolate mofetil orally twice daily.
 This dose achieved MPA AUC values similar to those seen in adult renal transplant patients receiving CellCept at a dose of 1 g bid in the early and late post-transplant period.
@@ -54,8 +57,7 @@ Serum levels of LH, FSH and progesterone were not significantly affected.
 [CellCept 500 mg powder for concentrate for solution for infusion.]
 
 Following intravenous administration, mycophenolate mofetil undergoes rapid and complete metabolism to the active metabolite, MPA.
-The parent substance mycophenolate mofetil can be measured systemically during intravenous infusion; however, after oral administration it is below the limit of quantitation
-(0.4 μg/ml).
+The parent substance mycophenolate mofetil can be measured systemically during intravenous infusion.
 
 Orally administered radiolabelled mycophenolate mofetil results in complete recovery of the administered dose, with 93 % of the administered dose recovered in the urine and 6 % recovered in faeces.
 
@@ -73,4 +75,4 @@ In a single dose study (6 subjects/group), mean plasma MPA AUC observed in subje
 
 [CellCept 500 mg film-coated tablets.]
 
-MPA at clinically relevant concentrations, is 97 % bound to plasma albumin.
+(all sentences already above)

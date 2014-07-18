@@ -1,5 +1,6 @@
 # 4.6 Pregnancy and lactation
 
+Pregnancy:
 It is recommended that CellCept therapy should not be initiated until a negative pregnancy test has been obtained.
 Effective contraception must be used before beginning CellCept therapy, during therapy, and for six weeks following discontinuation of therapy (see section 4.5).
 Patients should be instructed to consult their physician immediately should pregnancy occur.
@@ -11,6 +12,7 @@ However, congenital malformations including ear malformations, i.e. abnormally f
 Cases of spontaneous abortions have been reported in patients exposed to CellCept.
 Studies in animals have shown reproductive toxicity (see section 5.3).
 
+Lactation:
 Mycophenolate mofetil has been shown to be excreted in the milk of lactating rats.
 It is not known whether this substance is excreted in human milk.
 Because of the potential for serious adverse reactions to mycophenolate mofetil in breast-fed infants, CellCept is contraindicated in nursing mothers (see section 4.3).
