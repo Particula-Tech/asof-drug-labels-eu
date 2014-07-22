@@ -19,9 +19,9 @@ Following intravenous administration of 14C-radiolabeled regadenoson to rats and
 These findings indicate that metabolism of regadenoson does not play a major role in the elimination of regadenoson.
 
 Elimination
-In healthy volunteers, 57% of the regadenoson dose is excreted unchanged in the urine
-(range 19-77%), with an average plasma renal clearance around 450 ml/min, i.e., in excess of the glomerular filtration rate.
+In healthy volunteers, 57% of the regadenoson dose is excreted unchanged in the urine (range 19-77%), with an average plasma renal clearance around 450 ml/min, i.e., in excess of the glomerular filtration rate.
 This indicates that renal tubular secretion plays a role in regadenoson elimination.
+
 Special populations
 A population pharmacokinetic analysis including data from subjects and patients demonstrated that regadenoson clearance decreases in parallel with a reduction in creatinine clearance (CLcr) and increases with increased body weight.
 Age, gender, and race have minimal effects on the pharmacokinetics of regadenoson.

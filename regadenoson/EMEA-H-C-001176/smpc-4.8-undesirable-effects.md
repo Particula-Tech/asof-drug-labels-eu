@@ -5,16 +5,15 @@ Adverse reactions in most patients receiving Rapiscan in clinical trials were mi
 Adverse reactions occurred in approximately 80% of patients.
 The most common adverse reactions reported during clinical development in a total of 1,651 patients/subjects were: dyspnoea (29%), headache (27%), flushing (23%), chest pain (19%), electrocardiogram ST segment changes (18%), gastrointestinal discomfort (15%) and dizziness (11%).
 
-Rapiscan may cause myocardial ischaemia (potentially associated with fatal cardiac arrest, life-threatening ventricular arrhythmias, and myocardial infarction), hypotension leading to syncope and transient ischaemic attacks, and SA/AV node block leading to first, second or third degree
-AV block, or sinus bradycardia requiring intervention (see section 4.4).
+Rapiscan may cause myocardial ischaemia (potentially associated with fatal cardiac arrest, life-threatening ventricular arrhythmias, and myocardial infarction), hypotension leading to syncope and transient ischaemic attacks, elevated blood pressure leading to hypertension and hypertensive crises, and SA/AV node block leading to first, second or third degree AV block, or sinus bradycardia requiring intervention (see section 4.4).
 Signs of hypersensitivity (rash, urticaria, angioedema, anaphylaxis and/or throat tightness) may be immediate or delayed onset.
-Aminophylline may be used to attenuate severe or persistent adverse reactions to Rapiscan (see section 4.4).
+Aminophylline may be used to attenuate severe or persistent adverse reactions to Rapiscan but should not be used solely for the purpose of terminating a seizure induced by Rapiscan (see section 4.4).
 
 Tabulated summary of adverse reactions
 Assessment of adverse reactions for regadenoson is based on safety data from clinical studies and post-marketing experience.
 All adverse reactions are presented in the table below and are listed by system organ class and frequency.
 Frequencies are defined as very common (≥ 1/10), common
-(≥ 1/100 to < 1/10) and uncommon (≥ 1/1,000 to < 1/100).
+(≥ 1/100 to < 1/10) uncommon (≥ 1/1,000 to < 1/100) and rare (≥ 1/10,000 to < 1/1,000).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 | Immune system disorders: |  |
@@ -26,6 +25,7 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | Very common | Headache, dizziness |
 | Common | Paraesthesia, hypoaesthesia, dysgeusia |
 | Uncommon | Convulsions, syncope, transient ischaemic attack, unresponsiveness to stimuli, depressed level of consciousness, tremor, somnolence |
+| Rare | Cerebrovascular accident |
 | Eye disorders: |  |
 | Uncommon | Vision blurred, eye pain |
 | Ear and labyrinth disorders: |  |
@@ -33,7 +33,7 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | Cardiac disorders: |  |
 | Very common | Electrocardiogram ST segment changes |
 | Common | Angina pectoris, atrioventricular block, tachycardia, palpitations, other ECG abnormalities including electrocardiogram QT corrected interval prolonged |
-| Uncommon | Cardiac arrest, myocardial infarction, complete AV block, atrial fibrillation/flutter, bradycardia, atrial flutter, new-onset, worsening or recurrence of atrial fibrillation |
+| Uncommon | Cardiac arrest, myocardial infarction, complete AV block, bradycardia, atrial flutter, new-onset, worsening or recurrence of atrial fibrillation |
 | Vascular disorders: |  |
 | Very common | Flushing |
 | Common | Hypotension |
@@ -70,9 +70,11 @@ In clinical trials, decreased systolic blood pressure (> 35 mm Hg) was observed 
 The risk of serious hypotension may be higher in patients with autonomic dysfunction, hypovolemia, left main coronary artery stenosis, stenotic valvular heart disease, pericarditis or pericardial effusions, or stenotic carotid artery disease with cerebrovascular insufficiency.
 In postmarketing experience, syncope and transient ischaemic attacks have been reported.
 
+In clinical trials, increased systolic blood pressure (≥ 50 mm Hg) was observed in 0.7% of patients and increased diastolic blood pressure (≥ 30 mm Hg) in 0.5% of patients.
+Most increases resolved within 10 to 15 minutes, but in some cases, increases were observed at 45 minutes following administration.
+
 Regadenoson increases sympathetic tone, which causes an increase in heart rate and a shortening of the QT interval.
-In a patient with a long QT syndrome, sympathetic stimulation can result in less shortening of the QT interval than is normal and may even cause a paradoxical increase in the
-QT interval.
+In a patient with a long QT syndrome, sympathetic stimulation can result in less shortening of the QT interval than is normal and may even cause a paradoxical increase in the QT interval.
 In these patients, the phenomenon of R-on-T syndrome can occur, wherein an extra beat interrupts the T wave of the previous beat, and this increases the risk of a ventricular tachyarrhythmia.
 
 Headache was reported by 27% of subjects who received Rapiscan in clinical trials.

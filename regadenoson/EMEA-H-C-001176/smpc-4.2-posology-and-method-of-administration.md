@@ -9,8 +9,7 @@ Patients should avoid consumption of any products containing methylxanthines (e.
 
 When possible, dipyridamole should be withheld for at least two days prior to Rapiscan administration (see section 4.5).
 
-Aminophylline may be used to attenuate severe and/or persistent adverse reactions to Rapiscan
-(see section 4.4).
+Aminophylline may be used to attenuate severe and/or persistent adverse reactions to Rapiscan but should not be used solely for the purpose of terminating a seizure induced by Rapiscan (see section 4.4).
 
 Rapiscan causes a rapid increase in heart rate (see sections 4.4 and 5.1).
 Patients should remain sitting or lying down and be monitored at frequent intervals after the injection until the ECG parameters, heart rate and blood pressure have returned to pre-dose levels.

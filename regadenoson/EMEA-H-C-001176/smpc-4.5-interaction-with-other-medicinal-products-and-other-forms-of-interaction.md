@@ -6,7 +6,7 @@ Methylxanthines
 Methylxanthines (e.g., caffeine and theophylline) are non-specific adenosine receptor antagonists and may interfere with the vasodilation activity of regadenoson (see section 5.1).
 Patients should avoid consumption of any products containing methylxanthines as well as any medicinal products containing theophylline for at least 12 hours before Rapiscan administration (see section 4.2).
 
-Aminophylline (100 mg, administered by slow intravenous injection over 60 seconds) injected 1 minute after 400 micrograms regadenoson in subjects undergoing cardiac catheterisation, was shown to shorten the duration of the coronary blood flow response to regadenoson as measured by pulsed-wave Doppler ultrasonography.
+Aminophylline (100 mg, administered by slow intravenous injection over 60 seconds) injected 1 minute after 400 micrograms regadenoson in subjects undergoing cardiac catheterisation, was shown to shorten the duration of the coronary blood flow response to regadenoson as measured by pulsed- wave Doppler ultrasonography.
 Aminophylline has been used to attenuate adverse reactions to Rapiscan (see section 4.4).
 
 Dipyridamole

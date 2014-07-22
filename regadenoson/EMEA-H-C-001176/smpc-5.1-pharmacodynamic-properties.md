@@ -24,8 +24,7 @@ Haemodynamic effects
 The majority of patients experience a rapid increase in heart rate.
 The greatest mean change from baseline (21 bpm) occurs approximately 1 minute after administration of Rapiscan.
 Heart rate returns to baseline within 10 minutes.
-Systolic blood pressure and diastolic blood pressure changes were variable, with the greatest mean change in systolic pressure of −3 mm Hg and in diastolic pressure of
-−4 mm Hg approximately 1 minute after Rapiscan administration.
+Systolic blood pressure and diastolic blood pressure changes were variable, with the greatest mean change in systolic pressure of −3 mm Hg and in diastolic pressure of −4 mm Hg approximately 1 minute after Rapiscan administration.
 An increase in blood pressure has been observed in some patients (maximum systolic blood pressure of 240 mm Hg and maximum diastolic blood pressure of 138 mm Hg).
 
 Respiratory effects
