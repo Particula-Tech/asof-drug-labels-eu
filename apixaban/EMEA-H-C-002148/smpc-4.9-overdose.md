@@ -16,5 +16,6 @@ However, there is currently no experience with the use of recombinant factor VII
 Re-dosing of recombinant factor VIIa could be considered and titrated depending on improvement of bleeding.
 
 Depending on local availability, a consultation of a coagulation expert should be considered in case of major bleedings.
-Haemodialysis decreased apixaban AUC by 14% in subjects with end stage renal disease, when a single dose of apixaban 5 mg was administered orally.
+
+Haemodialysis decreased apixaban AUC by 14% in subjects with end-stage renal disease (ESRD), when a single dose of apixaban 5 mg was administered orally.
 Therefore, haemodialysis is unlikely to be an effective means of managing apixaban overdose.

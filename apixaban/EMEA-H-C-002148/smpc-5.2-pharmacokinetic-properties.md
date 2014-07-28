@@ -5,8 +5,9 @@ The absolute bioavailability of apixaban is approximately 50% for doses up to 10
 Apixaban is rapidly absorbed with maximum concentrations (Cmax) appearing 3 to 4 hours after tablet intake.
 Intake with food does not affect apixaban AUC or Cmax at the 10 mg dose.
 Apixaban can be taken with or without food.
+
 Apixaban demonstrates linear pharmacokinetics with dose proportional increases in exposure for oral doses up to 10 mg.
-At doses ≥25 mg apixaban displays dissolution limited absorption with decreased bioavailability.
+At doses ≥ 25 mg apixaban displays dissolution limited absorption with decreased bioavailability.
 Apixaban exposure parameters exhibit low to moderate variability reflected by a within-subject and inter-subject variability of ~20% CV and ~30% CV, respectively.
 
 Distribution
@@ -29,7 +30,7 @@ Apixaban is a substrate of transport proteins, P-gp and breast cancer resistance
 Renal impairment
 There was no impact of impaired renal function on peak concentration of apixaban.
 There was an increase in apixaban exposure correlated to decrease in renal function, as assessed via measured creatinine clearance.
-In individuals with mild (creatinine clearance 51-80 ml/min), moderate (creatinine clearance 30-50 ml/min) and severe (creatinine clearance 15-29 ml/min) renal impairment, apixaban plasma concentrations (AUC) were increased 16, 29, and 44% respectively, compared to individuals with normal creatinine clearance.
+In individuals with mild (creatinine clearance 51-80 mL/min), moderate (creatinine clearance 30-50 mL/min) and severe (creatinine clearance 15-29 mL/min) renal impairment, apixaban plasma concentrations (AUC) were increased 16, 29, and 44% respectively, compared to individuals with normal creatinine clearance.
 Renal impairment had no evident effect on the relationship between apixaban plasma concentration and anti-FXa activity.
 
 In subjects with end-stage renal disease (ESRD), the AUC of apixaban was increased by 36% when a single dose of apixaban 5 mg was administered immediately after haemodialysis, compared to that seen in subjects with normal renal function.
