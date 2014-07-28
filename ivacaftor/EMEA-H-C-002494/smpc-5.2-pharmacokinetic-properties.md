@@ -32,11 +32,6 @@ The apparent clearance (CL/F) of ivacaftor was similar for healthy subjects and 
 Dose/time proportionality
 The pharmacokinetics of ivacaftor are generally linear with respect to time or dose ranging from 25 mg to 250 mg.
 
-Pharmacokinetic/pharmacodynamic relationships
-
-Based on pooled data from Phase 2a and Phase 3 studies in patients with a G551D mutation, population PK/PD analysis showed a relationship between FEV1 and ivacaftor exposure in an Emax model with an EC50 of 45 ng/mL and a corresponding EC90 of 405 ng/mL.
-Therefore, median Cmin at EC90 was chosen as the target PK parameter for efficacy.
-
 Hepatic impairment
 Following a single dose of 150 mg of ivacaftor, subjects with moderately impaired hepatic function (Child-Pugh Class B, score 7 to 9) had similar ivacaftor Cmax (mean (±SD) of 735 (331) ng/mL), but an approximately two-fold increase in ivacaftor AUC0-∞ (mean (±SD) of 16800 (6140) ng*hr/mL) compared with healthy subjects matched for demographics.
 Simulations for predicting the steady-state exposure of ivacaftor showed that by reducing the dosage from 150 mg q12h to 150 mg once daily, subjects with moderate hepatic impairment would have comparable steady-state Cmin values as those obtained with a dose of 150 mg q12h in subjects with CF. Therefore, a reduced dose of 150 mg once daily is recommended in patients with moderate hepatic impairment.
@@ -56,11 +51,10 @@ Therefore, no dose adjustments are recommended for mild and moderate renal impai
 However, caution is recommended when administering ivacaftor to patients with severe renal impairment (creatinine clearance less than or equal to 30 mL/min) or end stage renal disease (see sections 4.2 and 4.4).
 
 Paediatric population
-Based on population PK analysis, the absorption in children (2.99 h for zero-order absorption and 0.546 h-1 for absorption rate constant, ka) is not different from adults.
-However, the predicted total body clearance was lower in children (e.g., 10 L/h for a 20 kg male) than in adults (e.g., 18.9 L/h for a 70 kg male), which resulted in a higher AUC by exposure determination from observed data in children than in adults.
-
-Based on exposure determinations from observed data in Phase 2 and 3 studies, the 150 mg q12h dose regimen resulted in median and mean (SD) ivacaftor Cmin of 752 and 1180 (854) ng/mL for 6-11 year old subjects, 492 and 556 (356) ng/mL for 12-17 year old subjects and 690 and 774 (468) ng/mL for the adult subjects.
-The corresponding AUC median and mean values were 16560 and 18200 (6547) ng/mL.h for children 6 to 11 years old, 8122 and 8536 (3064) ng/mL.h for adolescents 12 to 17 years old, and 8770 and 9508 (3763) ng/mL.h for adults.
+Pharmacokinetic parameters are similar between the G551D and non-G551D populations.
+The similarity in these two populations is seen when comparing the results for each subgroup by age (6 to <12 years old, 12 to <18 years old, and 18 years old and greater).
+However, there is a difference in exposure between patients 6 to <12 years old compared to patients 18 years and older, with almost a 2-fold higher AUC in patients 6 to <12 years old.
+These observations are based on non-compartmental pharmacokinetic analyses, using semi-sparse PK data collected in studies 1, 2 and 5.
 
 Elderly population
 Clinical studies of ivacaftor did not include patients age 65 years and older.

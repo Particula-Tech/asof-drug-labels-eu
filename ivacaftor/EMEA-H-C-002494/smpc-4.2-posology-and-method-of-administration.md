@@ -1,7 +1,7 @@
 # 4.2 Posology and method of administration
 
 Kalydeco should only be prescribed by physicians with experience in the treatment of cystic fibrosis.
-If the patient's genotype is unknown, an accurate and validated genotyping method should be performed to confirm the presence of the G551D mutation in at least one allele of the CFTR gene before starting treatment.
+If the patient's genotype is unknown, an accurate and validated genotyping method should be performed to confirm the presence of one of the above-listed gating (class III) mutations in at least one allele of the CFTR gene before starting treatment.
 
 Posology
 
@@ -12,11 +12,11 @@ Kalydeco should be taken with fat-containing food.
 Meals and snacks recommended in CF guidelines or meals recommended in standard nutritional guidelines contain adequate amounts of fat.
 Examples of meals that contain fat are those prepared with butter or oils or those containing eggs, cheeses, nuts, whole milk, or meats.
 Food containing grapefruit or Seville oranges should be avoided during treatment with Kalydeco (see section 4.5).
-
 Special populations
 
 Elderly
 The efficacy and safety of Kalydeco in patients age 65 years or older have not been evaluated.
+
 Renal impairment
 No dose adjustment is necessary for patients with mild to moderate renal impairment.
 Caution is recommended while using ivacaftor in patients with severe renal impairment (creatinine clearance less than or equal to 30 ml/min) or end-stage renal disease.
@@ -29,7 +29,7 @@ In such case, the starting dose should be 150 mg every other day.
 Dosing intervals should be modified according to clinical response and tolerability (see sections 4.4 and 5.2).
 
 Concomitant use of CYP3A inhibitors
-When co-administered with potent inhibitors of CYP3A (e.g., ketoconazole, itraconazole, posaconazole, voriconazole, telithromycin and clarithromycin), Kalydeco should be administered at a dose of 150 mg twice a week (see sections 4.4 and 4.5).
+When co-administered with strong inhibitors of CYP3A (e.g., ketoconazole, itraconazole, posaconazole, voriconazole, telithromycin and clarithromycin), Kalydeco should be administered at a dose of 150 mg twice a week (see sections 4.4 and 4.5).
 
 When co-administered with moderate inhibitors of CYP3A (e.g., fluconazole, erythromycin), Kalydeco should be administered at a single daily dose of 150 mg (see sections 4.4 and 4.5).
 

@@ -1,38 +1,38 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-The safety profile of Kalydeco is based on pooled data from placebo-controlled Phase 3 clinical studies conducted in 109 patients who received ivacaftor and 104 patients who received placebo up to 48 weeks.
+The safety profile of Kalydeco is based on the pooled data from two double-blind placebo-controlled clinical studies conducted in 213 CF patients (109 received ivacaftor and 104 patients who received placebo up to 48 weeks) and who had a G551D mutation in the CFTR gene, and an 8-week, double-blind, placebo-controlled crossover study in 39 patients with CF who had a non-G551D gating (class III) mutation in the CFTR gene.
 
 The most common adverse reactions experienced by patients who received ivacaftor in the pooled placebo-controlled Phase 3 studies were abdominal pain (15.6% versus 12.5% on placebo), diarrhoea (12.8% versus 9.6% on placebo), dizziness (9.2% versus 1.0% on placebo), rash (12.8% versus 6.7% on placebo), upper respiratory tract reactions (including upper respiratory tract infection, nasal congestion, pharyngeal erythema, oropharyngeal pain, rhinitis, sinus congestion, and nasopharyngitis) (63.3% versus 50.0% on placebo), headache (23.9% versus 16.3% on placebo) and bacteria in sputum (7.3% versus 3.8% on placebo).
 One patient in the ivacaftor group reported a serious adverse reaction: abdominal pain.
 
 Tabulated list of adverse reactions
-Adverse reactions identified in patients who had a G551D mutation in at least one allele, age 6 years and older (pooled Phase 3 studies) are presented in Table 1 and are listed by system organ class, preferred term, and frequency.
+Adverse reactions identified in patients who had a G551D mutation in at least one allele, age 6 years and older (pooled Phase 3 studies with 96 weeks open-label extension) are presented in Table 1 and are listed by system organ class, preferred term, and frequency.
 Adverse reactions are ranked under the MedDRA frequency classification: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000) to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); and not known (frequency cannot be estimated using the available data).
 
-| Table 1. Adverse reactions in Kalydeco-treated patients age 6 years and older with the G551D mutation in the CFTR gene |  |  |
+| Table 1. Adverse reactions in Ivacaftor-treated patients age 6 years and older with the G551D mutation in the CFTR gene |  |  |
 | --- | --- | --- |
-| System Organ Class | Frequency Category | Adverse Reactions (Preferred term) Kalydeco N=109 |
+| System Organ Class | Frequency Category | Adverse Reactions (Preferred term) Ivacftor N=198 |
 | Infections and infestations | very common | Nasopharyngitis |
 |  | very common | Upper respiratory tract infection |
 |  | common | Rhinitis |
 | Nervous system disorders | very common | Headache |
-|  | common | Dizziness |
+|  | very common | Dizziness |
 | Ear and labyrinth disorders | common | Ear discomfort |
 |  | common | Ear pain |
 |  | common | Tinnitus |
 |  | common | Tympanic membrane hyperaemia |
 |  | uncommon | Ear congestion |
-|  | uncommon | Vestibular disorder |
-| Respiratory, thoracic and | very common | Nasal congestion |
-| mediastinal disorders | very common | Oropharyngeal pain |
+|  | common | Vestibular disorder |
+| Respiratory, thoracic and mediastinal disorders | very common | Nasal congestion |
+|  | very common | Oropharyngeal pain |
 |  | common | Pharyngeal erythema |
 |  | common | Sinus congestion |
 | Gastrointestinal disorders | very common | Abdominal pain |
 |  | very common | Diarrhoea |
 | Skin and subcutaneous tissue disorders | very common | Rash |
 | Reproductive system and breast disorders | uncommon | Breast inflammation |
-|  | uncommon | Breast mass |
+|  | common | Breast mass |
 |  | uncommon | Gynaecomastia |
 |  | uncommon | Nipple disorder |
 |  | uncommon | Nipple pain |
@@ -52,7 +52,6 @@ Nervous system disorders
 Headache
 During 48-week placebo-controlled clinical studies, the incidence of headache was 23.9% in Kalydeco-treated patients.
 Including data from all clinical trial and post-marketing data, most of these events were non-serious and most of these patients did not discontinue the treatment because of headache.
-
 Dizziness
 During 48-week placebo-controlled clinical studies, the incidence of dizziness was 9.2% in the Kalydeco-treated patients.
 Including data from all clinical trial and post-marketing data, most of these events were non-serious and most of these patients did not discontinue the treatment because of dizziness.
@@ -72,25 +71,33 @@ Kalydeco dosing was interrupted in most patients with transaminase elevations >5
 In all instances where dosing was interrupted for elevated transaminases, Kalydeco dosing was able to be resumed (see section 4.4).
 
 Paediatric population
-Table 2 lists the adverse reactions by system organ class, preferred term, and frequency in Kalydeco–treated paediatric patients age 6 through to 17 in the two 48-week Phase 3 studies in patients with CF with a G551D mutation.
-The safety data is limited to 23 patients between 6 to 11 years of age, and 22 patients between 12 to 17 years of age.
+Table 2 lists the adverse reactions by system organ class, preferred term, and frequency in Kalydeco-treated paediatric patients age 6 through to 17 in the pooled 48-week Phase 3 studies with 96 weeks open-label extension in patients with CF with a G551D mutation.
+The safety data is limited to 44 patients between 6 to 11 years of age, and 38 patients between 12 to 17 years of age.
 Adverse reactions are ranked under the MedDRA frequency classification: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1000 to <1/100), rare (≥1/10000 to <1/1000), very rare (<1/10000), and unknown (frequency cannot be estimated using the available data).
 
-| Table 2. Adverse reactions in Kalydeco-treated patients age 6 through 17 years with the G551D mutation in the CFTR gene |  |  |  |
+| Table 2. Adverse reactions in Ivacaftor-treated patients age 6 through 17 years with the G551D mutation in the CFTR gene |  |  |  |
 | --- | --- | --- | --- |
-| System Organ Class | Frequency Category |  | Adverse Reactions Kalydeco (Preferred Term) |
-|  | 6 to 11 Years N=23 | 12 to 17 Years N=22 |  |
+| System Organ Class | Frequency Category |  | Adverse Reactions Ivacaftor(Preferred Term) |
+|  | 6 to 11 Years N=44 | 12 to 17 Years N=38 |  |
 | Infections and infestations | very common | very common | Nasopharyngitis |
 |  | very common | very common | Upper respiratory tract infection |
 |  | common | very common | Rhinitis |
 | Nervous system disorders | very common | very common | Headache |
-|  | not observed | very common | Dizziness |
+|  | common | very common | Dizziness |
 | Ear and labyrinth disorders | common | common | Ear pain |
 |  | common | not observed | Tympanic membrane hyperaemia |
+|  | common | not observed | Tinnitus |
 | Respiratory, thoracic, and mediastinal disorders | very common | very common | Nasal congestion |
 |  | very common | very common | Oropharyngeal pain |
 |  | common | not observed | Pharyngeal erythema |
+|  | common | common | Sinus congestion |
 | Gastrointestinal disorders | very common | very common | Abdominal pain |
-|  | very common | not observed | Diarrhoea |
+|  | very common | very common | Diarrhoea |
 | Skin and subcutaneous tissue disorders | common | very common | Rash |
-| Investigations | common | very common | Bacteria in sputum |
+| Reproductive system and breast disorders | not observed | common | Breast mass |
+| Investigations | very common | very common | Bacteria in sputum |
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
