@@ -4,7 +4,6 @@ The pharmacokinetic data for bevacizumab are available from ten clinical trials 
 In all clinical trials, bevacizumab was administered as an IV infusion.
 The rate of infusion was based on tolerability, with an initial infusion duration of 90 minutes.
 The pharmacokinetics of bevacizumab was linear at doses ranging from 1 to 10 mg/kg.
-
 Distribution
 The typical value for central volume (Vc) was 2.73 L and 3.28 L for female and male patients respectively, which is in the range that has been described for IgGs and other monoclonal antibodies.
 The typical value for peripheral volume (Vp) was 1.69 L and 2.35 L for female and male patients respectively, when bevacizumab is co-administered with anti-neoplastic agents.
@@ -27,6 +26,7 @@ Bevacizumab clearance was approximately 30% faster in patients with low levels o
 Pharmacokinetics in special populations
 The population pharmacokinetics were analysed to evaluate the effects of demographic characteristics.
 The results showed no significant difference in the pharmacokinetics of bevacizumab in relation to age.
+
 Renal impairment
 No trials have been conducted to investigate the pharmacokinetics of bevacizumab in renally impaired patients since the kidneys are not a major organ for bevacizumab metabolism or excretion.
 

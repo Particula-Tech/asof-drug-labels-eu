@@ -6,6 +6,7 @@ Gastrointestinal perforations (see section 4.8)
 Patients may be at an increased risk for the development of gastrointestinal perforation and gall bladder perforation when treated with Avastin.
 Intra-abdominal inflammatory process may be a risk factor for gastrointestinal perforations in patients with metastatic carcinoma of the colon or rectum, therefore, caution should be exercised when treating these patients.
 Therapy should be permanently discontinued in patients who develop gastrointestinal perforation.
+
 Fistulae (see section 4.8)
 Patients may be at increased risk for the development of fistulae when treated with Avastin.
 Permanently discontinue Avastin in patients with tracheoesophageal (TE) fistula or any Grade 4 fistula [US National Cancer Institute-Common Terminology Criteria for Adverse Events (NCI-CTCAE v.3)].
@@ -38,7 +39,6 @@ There have been rare reports of Avastin-treated patients developing signs and sy
 A diagnosis of PRES requires confirmation by brain imaging, preferably magnetic resonance imaging (MRI).
 In patients developing PRES, treatment of specific symptoms including control of hypertension is recommended along with discontinuation of Avastin.
 The safety of reinitiating Avastin therapy in patients previously experiencing PRES is not known.
-
 Proteinuria (see section 4.8)
 Patients with a history of hypertension may be at increased risk for the development of proteinuria when treated with Avastin.
 There is evidence suggesting that all Grade (US National Cancer Institute-Common Terminology Criteria for Adverse Events [NCI-CTCAE (version 3.0)]) proteinuria may be related to the dose.
@@ -47,6 +47,7 @@ Therapy should be permanently discontinued in patients who develop Grade 4 prote
 
 Arterial thromboembolism (see section 4.8)
 In clinical trials, the incidence of arterial thromboembolic reactions including cerebrovascular accidents (CVAs), transient ischaemic attacks (TIAs) and myocardial infarctions (MIs) was higher in patients receiving Avastin in combination with chemotherapy compared to those who received chemotherapy alone.
+
 Patients receiving Avastin plus chemotherapy, with a history of arterial thromboembolism, diabetes or age greater than 65 years have an increased risk of developing arterial thromboembolic reactions during therapy.
 Caution should be taken when treating these patients with Avastin.
 
@@ -77,12 +78,12 @@ Congestive heart failure (CHF) (see section 4.8)
 Reactions consistent with CHF were reported in clinical trials.
 The findings ranged from asymptomatic declines in left ventricular ejection fraction to symptomatic CHF, requiring treatment or hospitalisation.
 Caution should be exercised when treating patients with clinically significant cardiovascular disease such as pre-existing coronary artery disease, or congestive heart failure with Avastin.
-
 Most of the patients who experienced CHF had metastatic breast cancer and had received previous treatment with anthracyclines, prior radiotherapy to the left chest wall or other risk factors for CHF were present.
 
 In patients in AVF3694g who received treatment with anthracyclines and who had not received anthracyclines before, no increased incidence of all Grade CHF was observed in the anthracycline + bevacizumab group compared to the treatment with anthracyclines only.
 CHF Grade 3 or higher reactions were somewhat more frequent among patients receiving bevacizumab in combination with chemotherapy than in patients receiving chemotherapy alone.
 This is consistent with results in patients in other studies of metastatic breast cancer who did not receive concurrent anthracycline treatment (NCI-CTCAE v.3) (see section 4.8).
+
 Neutropenia and infections (see section 4.8)
 Increased rates of severe neutropenia, febrile neutropenia, or infection with or without severe neutropenia (including some fatalities) have been observed in patients treated with some myelotoxic chemotherapy regimens plus Avastin in comparison to chemotherapy alone.
 This has mainly been seen in combination with platinum- or taxane-based therapies in the treatment of NSCLC and mBC.

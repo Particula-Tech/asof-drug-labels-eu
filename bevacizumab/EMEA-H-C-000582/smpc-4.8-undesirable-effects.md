@@ -15,7 +15,6 @@ Analyses of the clinical safety data suggest that the occurrence of hypertension
 The adverse reactions listed in this section fall into the following frequency categories: Very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
 
 Tables 1 and 2 list adverse reactions associated with the use of Avastin in combination with different chemotherapy regimens in multiple indications.
-
 Table 1 provides all adverse reactions by frequency that were determined to have a causal relationship with Avastin through:
 
 - comparative incidences noted between clinical trial treatment arms (with at least a 10% difference compared to the control arm for NCI-CTCAE Grade 1-5 reactions or at least a 2% difference compared to the control arm for NCI-CTCAE Grade 3-5 reactions,
@@ -33,8 +32,8 @@ Detailed information about these post-marketing reactions are provided in Table 
 
 Adverse reactions are added to the appropriate frequency category in the tables below according to the highest incidence seen in any indication.
 Within each frequency category, adverse reactions are presented in the order of decreasing seriousness.
-
-Some of the adverse reactions are reactions commonly seen with chemotherapy, (e.g. palmar-plantar erythrodysaesthesia syndrome with capecitabine and peripheral sensory neuropathy with paclitaxel or oxaliplatin); however, an exacerbation by Avastin therapy can not be excluded.
+Some of the adverse reactions are reactions commonly seen with chemotherapy; however, Avastin may exacerbate these reactions when combined with chemotherapeutic agents.
+Examples include palmar-plantar erythrodysaesthesia syndrome with pegylated liposomal doxorubicin or capecitabine, peripheral sensory neuropathy with paclitaxel or oxaliplatin, and nail disorders or alopecia with paclitaxel.
 
 Table 1: Adverse Reactions by Frequency
 
@@ -108,7 +107,8 @@ Fistulae (see section 4.4)
 Avastin use has been associated with serious cases of fistulae including reactions resulting in death.
 
 In clinical trials, gastrointestinal fistulae have been reported with an incidence of up to 2% in patients with metastatic colorectal cancer and ovarian cancer, but were also reported less commonly in patients with other types of cancers.
-Uncommon (≥ 0.1% to < 1%) reports of other types of fistulae that involve areas of the body other than the gastrointestinal tract (e.g. bronchopleural, urogenital and biliary fistulae) were observed across various indications.
+In a study of platinum resistant ovarian cancer (study MO22224), an incidence of up to 2.2% of fistulae involving the urinary bladder and female genital tract (including rectovaginal fistulae) was observed.
+Uncommon (≥ 0.1% to < 1%) reports of other types of fistulae that involve areas of the body other than the gastrointestinal tract (e.g. bronchopleural, and biliary fistulae) were observed across various indications.
 Fistulae have also been reported in post-marketing experience.
 
 Reactions were reported at various time points during treatment ranging from one week to greater than 1 year from initiation of Avastin, with most reactions occurring within the first 6 months of therapy.
@@ -232,8 +232,8 @@ Elderly patients
 In randomised clinical trials, age > 65 years was associated with an increased risk of developing arterial thromboembolic reactions, including cerebrovascular accidents (CVAs), transient ischaemic attacks (TIAs) and myocardial infarctions (MIs).
 Other reactions with a higher frequency seen in patients over 65 were Grade 3-4 leucopenia and thrombocytopenia (NCI-CTCAE v.3); and all Grade neutropenia, diarrhoea, nausea, headache and fatigue as compared to those aged ≤ 65 years when treated with Avastin (see sections 4.4 and 4.8 under Thromboembolism).
 In one clinical trial, the incidence of hypertension of grade ≥ 3 was twofold higher in patients aged > 65 years than in the younger age group (<65 years).
-
-No increase in the incidence of other reactions, including gastrointestinal perforation, wound healing complications, proteinuria, congestive heart failure, and haemorrhage was observed in elderly patients (> 65 years) receiving Avastin as compared to those aged ≤ 65 years treated with Avastin.
+In a study of platinum-resistant recurrent ovarian cancer patients, alopecia, mucosal inflammation, peripheral sensory neuropathy, proteinuria and hypertension were also reported and occurred at a rate at least 5% higher in the CT + BV arm for bevacizumab-treated patients ≥ 65 years of age compared with bevacizumab-treated patients aged < 65 years.
+No increase in the incidence of other reactions, including gastrointestinal perforation, wound healing complications, congestive heart failure, and haemorrhage was observed in elderly patients (> 65 years) receiving Avastin as compared to those aged ≤ 65 years treated with Avastin.
 
 Paediatric population
 The safety of Avastin in children and adolescents has not been established.
@@ -243,9 +243,9 @@ In NSABP C-08, a phase III trial of Avastin in adjuvant treatment of patients wi
 New cases of ovarian failure were reported in 2.6% patients in the mFOLFOX-6 group compared to 39% in the mFOLFOX-6 + bevacizumab group.
 After discontinuation of bevacizumab treatment, ovarian function recovered in 86.2% of these evaluable women.
 Long term effects of the treatment with bevacizumab on fertility are unknown.
-
 Laboratory abnormalities
 Decreased neutrophil count, decreased white blood cell count and presence of urine protein may be associated with Avastin treatment.
+
 Across clinical trials, the following Grade 3 and 4 (NCI-CTCAE v.3) laboratory abnormalities occurred in patients treated with Avastin with at least a 2% difference compared to the corresponding control groups: hyperglycaemia, decreased haemoglobin, hypokalaemia, hyponatraemia, decreased white blood cell count, increased international normalised ratio (INR).
 
 Post-marketing experience

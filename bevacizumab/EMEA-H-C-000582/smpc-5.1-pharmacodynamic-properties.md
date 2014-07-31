@@ -362,8 +362,8 @@ In the Avastin-containing arms, patients could receive Avastin as a single-agent
 Trial results show that 94%
 (277 / 296) of eligible patients went on to receive single agent bevacizumab at cycle 7.
 A high proportion of patients (approximately 62%) went on to receive a variety of non-protocol specified anti-cancer therapies, which may have impacted the analysis of overall survival.
-The efficacy results are presented in Table 13.
 
+The efficacy results are presented in Table 13.
 Table 13 Efficacy results for trial BO17704
 
 |  | Cisplatin/Gemcitabine + placebo | Cisplatin/Gemcitabine + Avastin 7.5 mg/kg q 3 weeks | Cisplatin/Gemcitabine + Avastin 15 mg/kg q 3 weeks |
@@ -632,6 +632,11 @@ Hazard Ratio (95% CI)4 0.74
 
 Recurrent ovarian cancer
 
+The safety and efficacy of Avastin in the treatment of recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer was studied in two phase III trials (AVF4095g and MO22224) with different patient populations and chemotherapy regimens.
+
+- AVF4095g evaluated the efficacy and safety of bevacizumab in combination with carboplatin and gemcitabine in patients with platinum-sensitive recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer.
+- MO22224 evaluated the efficacy and safety of bevacizumab in combination with paclitaxel, topotecan, or pegylated liposomal doxorubicin in patients with platinum-resistant recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer.
+
 AVF4095g
 The safety and efficacy of Avastin in the treatment of patients with platinum-sensitive, recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer, who have not received prior chemotherapy in the recurrent setting or prior bevacizumab treatment, was studied in a phase III randomised, double-blind, placebo-controlled trial (AVF4095g).
 The study compared the effect of adding Avastin to carboplatin and gemcitabine chemotherapy and continuing Avastin as a single agent to progression, to carboplatin and gemcitabine alone.
@@ -650,6 +655,7 @@ Additional endpoints included objective response, duration of response, overall 
 An independent review of the primary endpoint was also conducted.
 
 The results of this study are summarised in Table 19.
+
 Table 19 Efficacy results from study AVF4095g
 
 | Progression-free survival |  |  |  |  |  |  |
@@ -690,8 +696,85 @@ Table 20 Progression-free survival by time from last platinum therapy to recurre
 | Median | 9.7 | 12.4 |
 | Hazard ratio (95% CI) | 0.55 (0.41 – 0.73) |  |
 
+MO22224
+Study MO22224 evaluated the efficacy and safety of bevacizumab in combination with chemotherapy for platinum-resistant recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer.
+This study was designed as an open-label, randomized, two-arm Phase III evaluation of bevacizumab plus chemotherapy (CT+BV) versus chemotherapy alone (CT).
+A total of 361 patients were enrolled into this study and administered either chemotherapy (paclitaxel, topotecan, or pegylated liposomal doxorubicin (PLD) alone or in combination with bevacizumab:
+
+- CT Arm (chemotherapy alone):
+  - Paclitaxel 80 mg/m2 as a 1-hour IV infusion on Days 1, 8, 15, and 22 every 4 weeks.
+  - Topotecan 4 mg/m2 as a 30-minute IV infusion on Days 1, 8, and 15 every 4 weeks.
+    Alternatively, a 1.25 mg/m2 dose could be administered over 30 minutes on Days 1–5 every 3 weeks.
+  - PLD 40 mg/m2 as a 1 mg/min IV infusion on Day 1 only every 4 weeks.
+    After Cycle 1, the drug could be delivered as a 1-hour infusion.
+- CT+BV Arm (chemotherapy plus bevacizumab):
+  - The chosen chemotherapy was combined with bevacizumab 10 mg/kg IV every 2 weeks (or bevacizumab 15 mg/kg every 3 weeks if used in combination with topotecan 1.25 mg/m2 on Days 1–5 every 3 weeks).
+
+Eligible patients had epithelial ovarian, fallopian tube or primary peritoneal cancer that progressed within <6 months of previous platinum therapy consisting of a minimum of 4 platinum therapy cycles.
+Patients should have had a life expectancy of ≥ 12 weeks and no prior radiotherapy to the pelvis or abdomen.
+Most patients were FIGO Stage IIIC or Stage IV.
+The majority of patients in both arms had an ECOG Performance Status (PS) of 0 (CT: 56.4% vs. CT + BV: 61.2%).
+The percentage of patients with an ECOG PS of 1 or ≥ 2 was 38.7% and 5.0% in the CT arm, and 29.8% and 9.0% in the
+CT + BV arm.
+Information on race exists for 29.3% of patients and nearly all patients were white.
+The median age of patients was 61.0 (range: 25−84) years.
+A total of 16 patients (4.4%) were > 75 years old.
+The overall rates of discontinuation due to adverse events were 8.8% in the CT arm and 43.6% in the CT + BV arm (mostly due to Grade 2-3 adverse events) and the median time to discontinuation in the CT + BV arm was 5.2 months compared with 2.4 months in the CT arm.
+The rates of discontinuation due to adverse events in the subgroup of patients > 65 years old were 8.8% in the CT arm and 50.0% in the CT + BV arm.
+The HR for PFS was 0.47 (95% CI: 0.35, 0.62) and 0.45 (95% CI: 0.31, 0.67) for the < 65 and ≥ 65 subgroups, respectively.
+The primary endpoint was progression-free-survival, with secondary endpoints including objective response rate and overall survival.
+Results are presented in Table 21.
+Table 21 Efficacy Results from Study MO22224
+
+| Primary Endpoint |  |  |
+| --- | --- | --- |
+| Progression-Free Survival* |  |  |
+|  | CT (n=182) | CT+BV (n=179) |
+| Median (months) | 3.4 | 6.7 |
+| Hazard ratio (95% CI) | 0.379 [0.296, 0.485] |  |
+| p-value | <0.0001 |  |
+| Secondary Endpoints |  |  |
+| Objective Response Rate** |  |  |
+|  | CT (n=144) | CT+BV (n=142) |
+| % patients with objective response | 18 (12.5%) | 40 (28.2%) |
+| p –value | 0.0007 |  |
+| Overall Survival (final analysis)*** |  |  |
+|  | CT (n=182) | CT+BV (n=179) |
+| Median OS (months) | 13.3 | 16.6 |
+| Hazard Ratio (95% CI) | 0.870 [0.678, 1.116] |  |
+| p-value | 0.2711 |  |
+
+All analyses presented in this table are stratified analyses.
+* Primary analysis was performed with a data cut-off date of 14 November 2011.
+**Randomized Patients with Measurable Disease at Baseline.
+***The final analysis of overall survival was performed when 266 deaths, which account for 73.7 % of enrolled patients, were observed.
+
+The trial met its primary objective of PFS improvement.
+Compared to patients treated with chemotherapy (paclitaxel, topotecan or PLD) alone in the recurrent platinum-resistant setting, patients who received bevacizumab at a dose of 10 mg/kg every 2 weeks (or 15 mg/kg every 3 weeks if used in combination with 1.25 mg/m2 topotecan on Days 1–5 every 3 weeks) in combination with chemotherapy and continued to receive bevacizumab until disease progression or unacceptable toxicity, had a statistically significant improvement in PFS.
+The exploratory PFS and OS analyses by chemotherapy cohort (paclitaxel, topotecan and PLD) are summarized in Table 22.
+Table 22: Exploratory PFS and OS analyses by chemotherapy cohort
+
+|  | CT |  | CT+BV |
+| --- | --- | --- | --- |
+| Paclitaxel | n=115 |  |  |
+| Median PFS (months) | 3.9 |  | 9.2 |
+| Hazard ratio (95% CI) | 0.47 [0.31, 0.72] |  |  |
+| Median OS (months) | 13.2 |  | 22.4 |
+| Hazard ratio (95% CI) | 0.64 [0.41, 0.99] |  |  |
+| Topotecan | n=120 |  |  |
+| Median PFS (months) | 2.1 |  | 6.2 |
+| Hazard ratio (95% CI) | 0.28 [0.18, 0.44] |  |  |
+| Median OS (months) | 13.3 |  | 13.8 |
+| Hazard ratio (95% CI) | 1.07 [0.70, 1.63] |  |  |
+| PLD | n=126 |  |  |
+| Median PFS (months) | 3.5 |  | 5.1 |
+| Hazard ratio (95% CI) | 0.53 [0.36, 0.77] |  |  |
+| Median OS (months) | 14.1 | 13.7 |  |
+| Hazard ratio (95% CI) | 0.91 [0.61, 1.35] |  |  |
+
 Paediatric population
 The European Medicines Agency has waived the obligation to submit the results of studies, in all subsets of the paediatric population, in breast carcinoma, adenocarcinoma of the colon and rectum, lung carcinoma (small cell and non-small cell carcinoma), kidney and renal pelvis carcinoma (excluding nephroblastoma, nephroblastomatosis, clear cell sarcoma, mesoblastic nephroma, renal medullary carcinoma and rhabdoid tumour of the kidney), ovarian carcinoma (excluding rhabdomyosarcoma and germ cell tumours), fallopian tube carcinoma (excluding rhabdomyosarcoma and germ cell tumours) and peritoneal carcinoma (excluding blastomas and sarcomas).
+
 Anti-tumour activity was not observed in two studies among a total of 30 children aged > 3 years old with relapsed or progressive high-grade glioma when treated with bevacizumab and irinotecan.
 There is insufficient information to determine the safety and efficacy of bevacizumab in children with newly-diagnosed high-grade glioma.
 
