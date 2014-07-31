@@ -3,18 +3,18 @@
 Pharmacotherapeutic group: Direct factor Xa inhibitors, ATC code: B01AF01
 
 Mechanism of action
-Rivaroxaban is a highly selective direct Factor Xa inhibitor with oral bioavailability.
-Inhibition of Factor Xa interrupts the intrinsic and extrinsic pathway of the blood coagulation cascade, inhibiting both thrombin formation and development of thrombi.
-Rivaroxaban does not inhibit thrombin (activated Factor II) and no effects on platelets have been demonstrated.
+Rivaroxaban is a highly selective direct factor Xa inhibitor with oral bioavailability.
+Inhibition of factor Xa interrupts the intrinsic and extrinsic pathway of the blood coagulation cascade, inhibiting both thrombin formation and development of thrombi.
+Rivaroxaban does not inhibit thrombin (activated factor II) and no effects on platelets have been demonstrated.
 
 Pharmacodynamic effects
-Dose-dependent inhibition of Factor Xa activity was observed in humans.
+Dose-dependent inhibition of factor Xa activity was observed in humans.
 Prothrombin time (PT) is influenced by rivaroxaban in a dose dependent way with a close correlation to plasma concentrations (r value equals 0.98) if Neoplastin is used for the assay.
 Other reagents would provide different results.
 The readout for PT is to be done in seconds, because the INR (International Normalised Ratio) is only calibrated and validated for coumarins and cannot be used for any other anticoagulant.
 The activated partial thomboplastin time (aPTT) and HepTest are also prolonged dose-dependently; however, they are not recommended to assess the pharmacodynamic effect of rivaroxaban.
 There is no need for monitoring of coagulation parameters during treatment with rivaroxaban in clinical routine.
-However, if clinically indicated, rivaroxaban levels can be measured by calibrated quantitative anti-Factor Xa tests (see section 5.2).
+However, if clinically indicated, rivaroxaban levels can be measured by calibrated quantitative anti-factor-Xa tests (see section 5.2).
 
 Clinical efficacy and safety
 
@@ -28,7 +28,6 @@ Patients received the first dose of Xarelto at a minimum of 24 hours and up to 7
 
 Both the 2.5 mg twice daily and the 5 mg twice daily regimens of rivaroxaban were effective in further reducing the incidence of CV events on a background of standard antiplatelet care.
 The 2.5 mg twice daily regimen reduced mortality, and there is evidence that the lower dose had lower bleeding risks, therefore rivaroxaban 2.5 mg twice daily co-administered with acetylsalicylic acid (ASA) alone or with ASA plus clopidogrel or ticlopidine is recommended for the prevention of atherothrombotic events in adult patients after an ACS with elevated cardiac biomarkers.
-
 Relative to placebo, Xarelto significantly reduced the primary composite endpoint of CV death, MI or stroke.
 The benefit was driven by a reduction in CV death and MI and appeared early with a constant treatment effect over the entire treatment period (see Table 3 and Figure 1).
 Also the first secondary endpoint (all cause death, MI or stroke) was reduced significantly.
@@ -41,11 +40,12 @@ The safety results in this subgroup of patients undergoing PCI were comparable t
 
 Patients with elevated biomarkers (troponin or CK-MB) and without a prior stroke/TIA constituted 80 % of the study population.
 The results of this patient population were also consistent with the overall efficacy and safety results.
+
 Table 3: Efficacy results from phase III ATLAS ACS 2 TIMI 51
 
-| Study Population | Patients with a recent acute coronary syndrome Pa) |  |
+| Study Population | Patients with a recent acute coronary syndrome a) |  |
 | --- | --- | --- |
-| Treatment Dosage | Xarelto 2.5 mg, twice daily, N=5,114 n (%) Hazard Ratio (95 % CI) p-value Pb) | Placebo N=5,113 n (%) |
+| Treatment Dosage | Xarelto 2.5 mg, twice daily, N=5,114 n (%) Hazard Ratio (95 % CI) p-value b) | Placebo N=5,113 n (%) |
 | Cardiovascular death, MI or stroke | 313 (6.1 %) 0.84 (0.72, 0.97) p = 0.020* | 376 (7.4 %) |
 | All-cause death, MI or stroke | 320 (6.3 %) 0.83 (0.72, 0.97) p = 0.016* | 386 (7.5 %) |
 | Cardiovascular death | 94 (1.8 %) 0.66 (0.51, 0.86) p = 0.002** | 143 (2.8 %) |
@@ -59,9 +59,9 @@ a) modified intent to treat analysis set (intent to treat total analysis set for
 ** nominally significant
 Table 4: Efficacy results from phase III ATLAS ACS 2 TIMI 51 in patients undergoing PCI
 
-| Study Population | Patients with recent acute coronary syndrome undergoing PCI Pa) |  |
+| Study Population | Patients with recent acute coronary syndrome undergoing PCI a) |  |
 | --- | --- | --- |
-| Treatment Dosage | Xarelto 2.5 mg, twice daily, N=3114 n (%) Hazard Ratio (95 % CI) p-value Pb) | Placebo N=3096 n (%) |
+| Treatment Dosage | Xarelto 2.5 mg, twice daily, N=3114 n (%) Hazard Ratio (95 % CI) p-value b) | Placebo N=3096 n (%) |
 | Cardiovascular death, MI or stroke | 153 (4.9 %) 0.94 (0.75, 1.17) p = 0.572 | 165 (5.3 %) |
 | Cardiovascular death | 24 (0.8 %) 0.54 (0.33, 0.89) p = 0.013** | 45 (1.5 %) |
 | All-cause death | 31 (1.0 %) 0.64 (0.41, 1.01) p = 0.053 | 49 (1.6 %) |
@@ -74,9 +74,9 @@ a) modified intent to treat analysis set (intent to treat total analysis set for
 
 Table 5: Safety results from phase III ATLAS ACS 2 TIMI 51
 
-| Study Population | Patients with recent acute coronary syndrome Pa) |  |
+| Study Population | Patients with recent acute coronary syndrome a) |  |
 | --- | --- | --- |
-| Treatment Dosage | Xarelto 2.5 mg, twice daily, N=5,115 n (%) Hazard Ratio (95 % CI) p-value Pb) | Placebo N=5,125 n(%) |
+| Treatment Dosage | Xarelto 2.5 mg, twice daily, N=5,115 n (%) Hazard Ratio (95 % CI) p-value b) | Placebo N=5,125 n(%) |
 | Non-CABG TIMI major bleeding event | 65 (1.3 %) 3.46 (2.08, 5.77) p = < 0.001* | 19 (0.4 %) |
 | Fatal bleeding event | 6 (0.1 %) 0.67 (0.24, 1.89) p = 0.450 | 9 (0.2 %) |
 | Symptomatic intracranial haemorrhage | 14 (0.3 %) 2.83 (1.02, 7.86) p = 0.037 | 5 (0.1 %) |
@@ -84,7 +84,7 @@ Table 5: Safety results from phase III ATLAS ACS 2 TIMI 51
 | Surgical intervention for ongoing bleeding | 7 (0.1 %) | 9 (0.2 %) |
 | Transfusion of 4 or more units of blood over a 48 hour period | 19 (0.4 %) | 6 (0.1 %) |
 
-a) treatment-emergent safety analysis set b) vs. placebo; Log-Rank p-value
+a) safety population, on treatment b) vs. placebo; Log-Rank p-value
 * statistically significant
 
 Figure 1: Time to First Occurrence of Primary Efficacy Endpoint (CV death, MI or stroke)
@@ -120,7 +120,7 @@ The European Medicines Agency has waived the obligation to submit the results of
 [Xarelto 10 mg film-coated tablets]
 
 In patients undergoing major orthopaedic surgery, the 5/95 percentiles for PT (Neoplastin) 2 - 4 hours after tablet intake (i.e. at the time of maximum effect) ranged from 13 to 25 s (baseline values before surgery 12 to 15s).
-However, if clinically indicated rivaroxaban levels can be measured by calibrated quantitative anti-Factor Xa tests (see section 5.2).
+However, if clinically indicated rivaroxaban levels can be measured by calibrated quantitative anti-factor Xa tests (see section 5.2).
 
 The rivaroxaban clinical programme was designed to demonstrate the efficacy of rivaroxaban for the prevention of VTE, i.e. proximal and distal deep vein thrombosis (DVT) and pulmonary embolism (PE) in patients undergoing major orthopaedic surgery of the lower limbs.
 Over 9,500 patients (7,050 in total hip replacement surgery and 2,531 in total knee replacement surgery) were studied in controlled randomised double-blind phase III clinical studies, the RECORD-programme.
@@ -128,6 +128,7 @@ Rivaroxaban 10 mg once daily (od) started no sooner than 6 hours post-operativel
 In all three phase III studies (see table 3), rivaroxaban significantly reduced the rate of total VTE (any venographically detected or symptomatic DVT, non-fatal PE and death) and major VTE (proximal DVT, non-fatal PE and VTE-related death), the pre-specified primary and major secondary efficacy endpoints.
 Furthermore, in all three studies the rate of symptomatic VTE (symptomatic DVT, non-fatal PE, VTE-related death) was lower in rivaroxaban treated patients compared to patients treated with enoxaparin.
 The main safety endpoint, major bleeding, showed comparable rates for patients treated with rivaroxaban 10 mg compared to enoxaparin 40 mg.
+
 Table 3: Efficacy and safety results from phase III clinical studies
 
 |  | RECORD 1 | RECORD 2 | RECORD 3 |
@@ -140,9 +141,6 @@ Table 3: Efficacy and safety results from phase III clinical studies
 | Major bleedings | 6 (0.3 %) 2 (0.1 %) | 1 (0.1 %) 1 (0.1 %) | 7 (0.6 %) 6 (0.5 %) |
 
 The analysis of the pooled results of the phase III trials corroborated the data obtained in the individual studies regarding reduction of total VTE, major VTE and symptomatic VTE with rivaroxaban 10 mg once daily compared to enoxaparin 40 mg once daily.
-
-The European Medicines Agency has waived the obligation to submit the results of studies with Xarelto in all subsets of the paediatric population in the prevention of thromboembolic events.
-See section 4.2 for information on paediatric use.
 
 [Xarelto 15 mg film-coated tablets]
 
@@ -181,7 +179,7 @@ Table 3: Efficacy results from phase III ROCKET AF
 
 Table 4: Safety results from phase III ROCKET AF
 
-| Study population | Patients with non-valvular atrial fibrillationPa |  |  |
+| Study population | Patients with non-valvular atrial fibrillationa) |  |  |
 | --- | --- | --- | --- |
 | Treatment dosage | Xarelto 20 mg once a day (15 mg once a day in patients with moderate renal impairment) | Warfarin titrated to a target INR of 2.5 (therapeutic range 2.0 to 3.0) | Hazard ratio (95% CI) p-value |
 |  | Event rate (100 pt-yr) | Event rate (100 pt-yr) |  |
@@ -234,7 +232,7 @@ Table 5: Efficacy and safety results from phase III Einstein DVT
 
 | Study population | 3,449 patients with symptomatic acute deep vein thrombosis |  |
 | --- | --- | --- |
-| Treatment dosage and duration | XareltoPa 3, 6 or 12 months N=1,731 | Enoxaparin/VKAPb 3, 6 or 12 months N=1,718 |
+| Treatment dosage and duration | Xareltoa) 3, 6 or 12 months N=1,731 | Enoxaparin/VKAb) 3, 6 or 12 months N=1,718 |
 | Symptomatic recurrent VTE* | 36 (2.1%) | 51 (3.0%) |
 | Symptomatic recurrent PE | 20 (1.2%) | 18 (1.0%) |
 | Symptomatic recurrent DVT | 14 (0.8%) | 28 (1.6%) |
@@ -260,7 +258,7 @@ Table 6: Efficacy and safety results from phase III Einstein PE
 
 | Study population | 4,832 patients with an acute symptomatic PE |  |
 | --- | --- | --- |
-| Treatment dosage and duration | XareltoPa 3, 6 or 12 months N=2,419 | Enoxaparin/VKAPb 3, 6 or 12 months N=2,413 |
+| Treatment dosage and duration | Xareltoa) 3, 6 or 12 months N=2,419 | Enoxaparin/VKAb) 3, 6 or 12 months N=2,413 |
 | Symptomatic recurrent VTE* | 50 (2.1%) | 44 (1.8%) |
 | Symptomatic recurrent PE | 23 (1.0%) | 20 (0.8%) |
 | Symptomatic recurrent DVT | 18 (0.7%) | 17 (0.7%) |
@@ -276,7 +274,7 @@ Table 7: Efficacy and safety results from pooled analysis of phase III Einstein 
 
 | Study population | 8,281 patients with an acute symptomatic DVT or PE |  |
 | --- | --- | --- |
-| Treatment dosage and duration | XareltoPa 3, 6 or 12 months N=4,150 | Enoxaparin/VKAPb 3, 6 or 12 months N=4,131 |
+| Treatment dosage and duration | Xareltoa) 3, 6 or 12 months N=4,150 | Enoxaparin/VKAb) 3, 6 or 12 months N=4,131 |
 | Symptomatic recurrent VTE* | 86 (2.1%) | 95 (2.3%) |
 | Symptomatic recurrent PE | 43 (1.0%) | 38 (0.9%) |
 | Symptomatic recurrent DVT | 32 (0.8%) | 45 (1.1%) |
@@ -297,7 +295,7 @@ Table 8: Efficacy and safety results from phase III Einstein Extension
 
 | Study population | 1,197 patients continued treatment and prevention of recurrent venous thromboembolism |  |
 | --- | --- | --- |
-| Treatment dosage and duration | XareltoPaP 6 or 12 months N=602 | Placebo 6 or 12 months N=594 |
+| Treatment dosage and duration | Xareltoa) 6 or 12 months N=602 | Placebo 6 or 12 months N=594 |
 | Symptomatic recurrent VTE* | 8 (1.3%) | 42 (7.1%) |
 | Symptomatic recurrent PE | 2 (0.3%) | 13 (2.2%) |
 | Symptomatic recurrent DVT | 5 (0.8%) | 31 (5.2%) |

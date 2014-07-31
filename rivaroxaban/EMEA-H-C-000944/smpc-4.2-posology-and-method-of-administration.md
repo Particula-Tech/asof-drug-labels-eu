@@ -12,10 +12,10 @@ Treatment with Xarelto should be started as soon as possible after stabilisation
 
 If a dose is missed the patient should continue with the regular dose as recommended at the next scheduled time.
 The dose should not be doubled to make up for a missed dose.
-
 Converting from Vitamin K Antagonists (VKA) to Xarelto
 When converting patients from VKAs to Xarelto, International Normalized Ratio (INR) values will be falsely elevated after the intake of Xarelto.
 The INR is not valid to measure the anticoagulant activity of Xarelto, and therefore should not be used (see section 4.5).
+
 Converting from Xarelto to Vitamin K antagonists (VKA)
 There is a potential for inadequate anticoagulation during the transition from Xarelto to VKA.
 Continuous adequate anticoagulation should be ensured during any transition to an alternate anticoagulant.
@@ -26,7 +26,7 @@ While patients are on both Xarelto and VKA the INR should not be tested earlier 
 Once Xarelto is discontinued INR testing may be done reliably at least 24 hours after the last dose (see sections 4.5 and 5.2).
 
 Converting from parenteral anticoagulants to Xarelto
-For patients currently receiving a parenteral anticoagulant, Xarelto should be started 0 to 2 hours before the time of the next scheduled administration of the parenteral medicinal product (e.g. low molecular weight heparins) or at the time of discontinuation of a continuously administered parenteral medicinal product (e.g. intravenous unfractionated heparin).
+For patients currently receiving a parenteral anticoagulant, discontinue the parenteral anticoagulant and start Xarelto 0 to 2 hours before the time that the next scheduled administration of the parenteral medicinal product (e.g. low molecular weight heparins) would be due or at the time of discontinuation of a continuously administered parenteral medicinal product (e.g. intravenous unfractionated heparin).
 
 Converting from Xarelto to parenteral anticoagulants
 Give the first dose of parenteral anticoagulant at the time the next Xarelto dose would be taken.
@@ -60,6 +60,10 @@ Method of administration
 For oral use.
 Xarelto can be taken with or without food (see sections 4.5 and 5.2).
 
+For patients who are unable to swallow whole tablets, Xarelto tablet may be crushed and mixed with water or apple puree immediately prior to use and administered orally.
+The crushed Xarelto tablet may also be given through gastric tubes after confirmation of the correct gastric placement of the tube.
+The crushed tablet should be administered in a small amount of water via a gastric tube after which it should be flushed with water (see section 5.2).
+
 [Xarelto 10 mg film-coated tablets]
 
 The recommended dose is 10 mg rivaroxaban taken orally once daily.
@@ -71,13 +75,6 @@ The duration of treatment depends on the individual risk of the patient for veno
 - For patients undergoing major knee surgery, a treatment duration of 2 weeks is recommended.
 
 If a dose is missed the patient should take Xarelto immediately and then continue the following day with once daily intake as before.
-
-For the first two days of the conversion period, standard initial dosing of VKA should be used followed by VKA dosing guided by INR testing.
-While patients are on both Xarelto and VKA, the INR should not be tested earlier than 24 hours after the previous dose but prior to the next dose of Xarelto.
-
-Limited clinical data for patients with severe renal impairment (creatinine clearance 15 - 29 ml/min) indicate that rivaroxaban plasma concentrations are significantly increased, therefore, Xarelto is to be used with caution in these patients.
-
-Xarelto can be taken with or without food (see section 4.5 and 5.2).
 
 [Xarelto 15 mg film-coated tablets]
 
@@ -124,6 +121,10 @@ No dose adjustment is necessary in patients with mild renal impairment (creatini
 
 The tablets are to be taken with food (see section 5.2).
 
+After the administration of crushed Xarelto 15 mg or 20 mg film-coated tablets, the dose should be immediately followed by food.
+The crushed tablet should be administered in a small amount of water via a gastric tube after which it should be flushed with water.
+After the administration of crushed Xarelto15 mg or 20 mg film-coated tablets, the dose should then be immediately followed by enteral feeding (see section 5.2).
+
 [Xarelto 20 mg film-coated tablets]
 
-Limited clinical data for patients with severe renal impairment (creatinine clearance 15 - 29 ml/min) indicate that rivaroxaban plasma concentrations are significantly increased therefore, Xarelto is to be used with caution in these patients.
+(all sentences already above)

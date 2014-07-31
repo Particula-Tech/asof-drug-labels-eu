@@ -17,14 +17,13 @@ Several sub-groups of patients, as detailed below, are at increased risk of blee
 Therefore, the use of Xarelto in combination with dual antiplatelet therapy in patients at known increased risk for bleeding should be balanced against the benefit in terms of prevention of atherothrombotic events.
 In addition these patients are to be carefully monitored for signs and symptoms of bleeding complications and anaemia after initiation of treatment (see section 4.8).
 Any unexplained fall in haemoglobin or blood pressure should lead to a search for a bleeding site.
-
-Although treatment with rivaroxaban does not require routine monitoring of exposure, rivaroxaban levels measured with a calibrated quantitative anti-Factor Xa assay may be useful in exceptional situations where knowledge of rivaroxaban exposure may help to inform clinical decisions, e.g., overdose and emergency surgery (see sections 5.1 and 5.2).
+Although treatment with rivaroxaban does not require routine monitoring of exposure, rivaroxaban levels measured with a calibrated quantitative anti-factor Xa assay may be useful in exceptional situations where knowledge of rivaroxaban exposure may help to inform clinical decisions, e.g., overdose and emergency surgery (see sections 5.1 and 5.2).
 
 Renal impairment
 In patients with severe renal impairment (creatinine clearance < 30 ml/min) rivaroxaban plasma levels may be significantly increased (1.6 fold on average) which may lead to an increased bleeding risk.
 Xarelto is to be used with caution in patients with creatinine clearance 15 - 29 ml/min.
 Use is not recommended in patients with creatinine clearance < 15 ml/min (see sections 4.2 and 5.2).
-Xarelto is to be used with caution in patients with moderate renal impairment (creatinine clearance 30 - 49 ml/min) concomitantly receiving other medicinal products which increase rivaroxaban plasma concentrations (see section 4.5).
+In patients with moderate renal impairment (creatinine clearance 30 - 49 ml/min) concomitantly receiving other medicinal products which increase rivaroxaban plasma concentrations Xarelto is to be used with caution (see section 4.5).
 
 Interaction with other medicinal products
 The use of Xarelto is not recommended in patients receiving concomitant systemic treatment with azole-antimycotics (such as ketoconazole, itraconazole, voriconazole and posaconazole) or HIV protease inhibitors (e.g. ritonavir).
@@ -39,7 +38,7 @@ As with other antithrombotics, rivaroxaban is not recommended in patients with a
 
 - congenital or acquired bleeding disorders
 - uncontrolled severe arterial hypertension
-- active ulcerative gastrointestinal disease
+- other gastrointestinal disease without active ulceration that can potentially lead to bleeding complications (e.g. inflammatory bowel disease, oesophagitis, gastritis and gastroesophageal reflux disease)
 - vascular retinopathy
 - bronchiectasis or history of pulmonary bleeding
 
@@ -47,9 +46,6 @@ It should be used with caution in ACS patients:
 
 - > 75 years of age if co-administered with ASA alone or with ASA plus clopidogrel or ticlopidine
 - with low body weight (< 60 kg) if co-administered with ASA alone or with ASA plus clopidogrel or ticlopidine
-
-There is no need for monitoring of coagulation parameters during treatment with rivaroxaban in clinical routine.
-However, if clinically indicated rivaroxaban levels can be measured by calibrated quantitative anti-Factor Xa tests (see sections 5.1 and 5.2).
 
 Patients with prior stroke or TIA
 Xarelto 2.5 mg is contraindicated for the treatment of ACS in patients with a prior stroke or TIA (see section 4.3).
@@ -63,26 +59,25 @@ Xarelto should be restarted after the invasive procedure or surgical interventio
 
 Elderly population
 Increasing age may increase haemorrhagic risk (see section 5.2).
+
 Information about excipients
 Xarelto contains lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
 [Xarelto 10 mg film-coated tablets]
 
-These patients are to be carefully monitored for signs and symptoms of bleeding complications and anaemia after initiation of treatment.
+These patients are to be carefully monitored for signs and symptoms of bleeding complications and anaemia after initiation of treatment (see section 4.8).
 This may be done by regular physical examination of the patients, close observation of the surgical wound drainage and periodic measurements of haemoglobin.
 
 In patients with severe renal impairment (creatinine clearance < 30 ml/min) rivaroxaban plasma levels may be significantly increased (1.6-fold on average) which may lead to an increased bleeding risk.
 
-Care is to be taken if patients are treated concomitantly with medicinal products affecting haemostasis such as non-steroidal anti-inflammatory medicinal products (NSAIDs), acetylsalicylic acid, platelet aggregation inhibitors or other antithrombotic agents.
-
-Rivaroxaban, like other antithrombotic agents, is to be used with caution in patients with an increased bleeding risk such as:
-
-However, if clinically indicated rivaroxaban levels can be measured by calibrated quantitative anti-Factor Xa tests (see section 5.1 and 5.2).
+Care is to be taken if patients are treated concomitantly with medicinal products affecting haemostasis such as non-steroidal anti-inflammatory medicinal products (NSAIDs), acetylsalicylic acid (ASA) and platelet aggregation inhibitorsFor patients at risk of ulcerative gastrointestinal disease an appropriate prophylactic treatment may be considered (see section 4.5).
+As with other antithrombotics, rivaroxaban is to be used with caution in patients with an increased bleeding risk such as:
 
 Hip fracture surgery
 Rivaroxaban has not been studied in clinical trials in patients undergoing hip fracture surgery to evaluate efficacy and safety in these patients.
 Therefore, rivaroxaban is not recommended in these patients.
+
 Spinal/epidural anaesthesia or puncture
 When neuraxial anaesthesia (spinal/epidural anaesthesia) or spinal/epidural puncture is employed, patients treated with antithrombotic agents for prevention of thromboembolic complications are at risk of developing an epidural or spinal haematoma which can result in long-term or permanent paralysis.
 The risk of these events may be increased by the post-operative use of indwelling epidural catheters or the concomitant use of medicinal products affecting haemostasis.
@@ -101,9 +96,7 @@ If an invasive procedure or surgical intervention is required, Xarelto should be
 
 In the clinical studies mucosal bleedings (i.e. epistaxis, gingival, gastrointestinal, genito urinary) and anaemia were seen more frequently during long term rivaroxaban treatment compared with VKA treatment.
 
-These patients are to be carefully monitored for signs and symptoms of bleeding complications and anaemia after initiation of treatment (see section 4.8).
-
-Xarelto should be used with caution in patients with renal impairment concomitantly receiving other medicinal products that are potent inhibitors of CYP3A4 (e.g. clarithromycin, telithromycin) as PK modelling shows increased rivaroxaban concentrations in these patients.
+Xarelto should be used with caution in patients with renal impairment concomitantly receiving other medicinal products which increase rivaroxaban plasma concentrations (see section 4.5).
 
 Care is to be taken if patients are treated concomitantly with medicinal products affecting haemostasis such as non-steroidal anti-inflammatory medicinal products (NSAIDs), acetylsalicylic acid and platelet aggregation inhibitors.
 
