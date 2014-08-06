@@ -8,5 +8,3 @@ Therefore, in case of overdose, intraocular pressure should be monitored and if 
 [Eylea 40 mg/ml solution for injection in a vial.]
 
 In clinical trials doses of up to 4 mg in monthly intervals have been used and isolated cases of overdoses with 8 mg occurred.
-
-Therefore, in case of overdose intraocular pressure should be monitored and if deemed necessary by the treating physician, adequate treatment should be initiated.

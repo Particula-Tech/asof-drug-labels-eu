@@ -18,7 +18,6 @@ In this case the schedule for monitoring should be determined by the treating ph
 Macular Oedema secondary to CRVO
 
 The recommended dose for Eylea is 2 mg aflibercept equivalent to 50 microlitres.
-
 After the initial injection, treatment is given monthly.
 The interval between two doses should not be shorter than one month.
 
@@ -33,7 +32,19 @@ If treatment has been discontinued, visual and anatomic outcomes should be monit
 Usually, monitoring should be done at the injection visits.
 During treatment interval extension through to completion of therapy, the monitoring schedule should be determined by the treating physician based on the individual patient’s response and may be more frequent than the schedule of injections.
 
-Special population
+Diabetic Macular Oedema
+
+The recommended dose for Eylea is 2 mg aflibercept equivalent to 50 microlitres.
+
+Eylea treatment is initiated with one injection per month for five consecutive doses, followed by one injection every two months.
+There is no requirement for monitoring between injections.
+
+After the first 12 months of treatment with Eylea, the treatment interval may be extended based on visual and anatomic outcomes.
+The schedule for monitoring should be determined by the treating physician.
+
+If visual and anatomic outcomes indicate that the patient is not benefiting from continued treatment, Eylea should be discontinued.
+
+Special populations
 
 Hepatic and/or renal impairment
 No specific studies in patients with hepatic and/or renal impairment have been conducted with Eylea.
@@ -42,12 +53,11 @@ Available data do not suggest a need for a dose adjustment with Eylea in these p
 
 Elderly population
 No special considerations are needed.
+There is limited experience in patients older than 75 years with DME.
 
 Paediatric population
 Safety and efficacy have not been established in children and adolescents.
-There is no relevant use of
-Eylea in the paediatric population in the indications wet AMD and CRVO.
-
+There is no relevant use of Eylea in the paediatric population in the indications wet AMD, CRVO and DME.
 Method of administration
 
 Intravitreal injections must be carried out according to medical standards and applicable guidelines by a qualified physician experienced in administering intravitreal injections.
@@ -55,12 +65,12 @@ In general, adequate anaesthesia and asepsis, including topical broad spectrum m
 Surgical hand disinfection, sterile gloves, a sterile drape, and a sterile eyelid speculum (or equivalent) are recommended.
 
 The injection needle should be inserted 3.5-4.0 mm posterior to the limbus into the vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe.
-The injection volume of
-0.05 ml is then delivered; a different scleral site should be used for subsequent injections.
+The injection volume of 0.05 ml is then delivered; a different scleral site should be used for subsequent injections.
 
 Immediately following the intravitreal injection, patients should be monitored for elevation in intraocular pressure.
 Appropriate monitoring may consist of a check for perfusion of the optic nerve head or tonometry.
 If required, sterile equipment for paracentesis should be available.
+
 Following intravitreal injection patients should be instructed to report any symptoms suggestive of endophthalmitis (e.g. eye pain, redness of the eye, photophobia, blurring of vision) without delay.
 
 Each pre-filled syringe should only be used for the treatment of a single eye.
@@ -77,12 +87,8 @@ For handling of the medicinal product, see section 6.6.
 
 [Eylea 40 mg/ml solution for injection in a vial.]
 
-Special populations
-
-No specific studies in patients with hepatic and/or renal impairment were conducted with Eylea.
-
 Each vial should only be used for the treatment of a single eye.
 
 The vial contains more than the recommended dose of 2 mg aflibercept.
 The extractable volume of the vial (100 microlitres) is not to be used in total.
-Injecting the entire volume could result in overdose.
+Injecting the entire volume of the vial could result in overdose.

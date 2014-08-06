@@ -3,8 +3,7 @@
 The pre-filled syringe is for single use only.
 Do not open sterile pre-filled blister outside the clean administration room.
 
-Since the pre-filled syringe contains more volume (90 microlitres) than the recommended dose
-(50 microlitres), a part of the volume contained in the syringe has to be discarded prior to the administration.
+Since the pre-filled syringe contains more volume (90 microlitres) than the recommended dose (50 microlitres), a part of the volume contained in the syringe has to be discarded prior to the administration.
 
 The solution should be inspected visually for any foreign particulate matter and/or discolouration or any variation in physical appearance prior to administration.
 In the event of either being observed, discard the medicinal product.
@@ -34,8 +33,7 @@ Remove the plastic needle shield.
 Holding the syringe with the needle pointing up, check the syringe for bubbles.
 If there are bubbles, gently tap the syringe with your finger until the bubbles rise to the top.
 8.
-To eliminate all bubbles and to expel excess medicinal product, slowly depress the plunger to align the cylindrical base of the dome plunger with the black dosing line on the syringe (equivalent to
-50 microlitres).
+To eliminate all bubbles and to expel excess medicinal product, slowly depress the plunger to align the cylindrical base of the dome plunger with the black dosing line on the syringe (equivalent to 50 microlitres).
 
 9.
 The pre-filled syringe is for single use only.
@@ -46,7 +44,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 The vial is for single use only.
 Since the vial contains more volume (100 microlitres) than the recommended dose (50 microlitres), a part of the volume contained in the vial has to be discarded prior to the administration.
 
-Instructions for use of vials:
+Instructions for use of vial:
 
 Remove the plastic cap and disinfect the outer part of the rubber stopper of the vial.
 Attach the 18 G, 5-micron filter needle supplied in the carton to a 1-ml sterile, Luer-lock syringe.
@@ -68,4 +66,3 @@ When ready to administer Eylea, remove the plastic needle shield.
 Eliminate all bubbles and expel excess drug by slowly depressing the plunger so that the plunger tip aligns with the line that marks 0.05 ml on the syringe.
 
 11.
-The vials are for single use only.

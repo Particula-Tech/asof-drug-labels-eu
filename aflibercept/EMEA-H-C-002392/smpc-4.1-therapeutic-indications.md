@@ -2,7 +2,9 @@
 
 Eylea is indicated for adults for the treatment of
 
-- neovascular (wet) age-related macular degeneration (AMD) (see section 5.1).
+- neovascular (wet) age-related macular degeneration (AMD) (see section 5.1),
 - visual impairment due to macular oedema secondary to central retinal vein occlusion (CRVO)
 
-(see section 5.1).
+(see section 5.1),
+
+- visual impairment due to diabetic macular oedema (DME) (see section 5.1).

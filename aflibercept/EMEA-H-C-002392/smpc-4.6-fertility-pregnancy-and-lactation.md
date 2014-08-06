@@ -1,8 +1,7 @@
 # 4.6 Fertility, pregnancy and lactation
 
 Women of childbearing potential
-Women of childbearing potential have to use effective contraception during treatment and for at least
-3 months after the last intravitreal injection of aflibercept (see section 4.4).
+Women of childbearing potential have to use effective contraception during treatment and for at least 3 months after the last intravitreal injection of aflibercept (see section 4.4).
 
 Pregnancy
 There are no data on the use of aflibercept in pregnant women.
