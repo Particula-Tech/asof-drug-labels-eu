@@ -48,7 +48,7 @@ In these studies, grade 3 or 4 ascites and generalised oedema were each reported
 Patients who develop symptoms suggestive of pleural effusion such as dyspnoea or dry cough should be evaluated by chest X-ray.
 Grade 3 or 4 pleural effusion may require thoracocentesis and oxygen therapy.
 Fluid retention events were typically managed by supportive care measures that include diuretics and short courses of steroids (see sections 4.2 and 4.8).
-While the safety profile of SPRYCEL in the elderly population was similar to that in the younger population, patients aged 65 years and older are more likely to experience fluid retention events and dyspnoea and should be monitored closely.
+While the safety profile of SPRYCEL in older people was similar to that in the younger population, patients aged 65 years and older are more likely to experience fluid retention events and dyspnoea and should be monitored closely.
 Fluid retention was reported less frequently in patients treated with once daily schedule compared to twice daily in two Phase III dose-optimisation studies (see section 4.8).
 
 Pulmonary arterial hypertension (PAH)
@@ -75,8 +75,7 @@ Of the 2,182 patients with resistance or intolerance to prior imatinib therapy w
 Twenty-one of these patients (1%) experienced a QTcF > 500 msec.
 
 Dasatinib should be administered with caution to patients who have or may develop prolongation of QTc.
-These include patients with hypokalaemia or hypomagnesaemia, patients with congenital long
-QT syndrome, patients taking anti-arrhythmic medicinal products or other medicinal products which lead to QT prolongation, and cumulative high dose anthracycline therapy.
+These include patients with hypokalaemia or hypomagnesaemia, patients with congenital long QT syndrome, patients taking anti-arrhythmic medicinal products or other medicinal products which lead to QT prolongation, and cumulative high dose anthracycline therapy.
 Hypokalaemia or hypomagnesaemia should be corrected prior to dasatinib administration.
 
 Cardiac adverse reactions

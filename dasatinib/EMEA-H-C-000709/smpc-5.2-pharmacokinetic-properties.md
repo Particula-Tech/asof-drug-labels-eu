@@ -22,7 +22,7 @@ CYP3A4 is a major enzyme responsible for the metabolism of dasatinib.
 
 Elimination
 Elimination is predominantly in the faeces, mostly as metabolites.
-Following a single oral dose of [14C]-labelled dasatinib, approximately 89% of the dose was eliminated within 10 days, with 4% and 85% of the radioactivity recovered in the urine and faeces, respectively.
+Following a single oral dose of [14C]- labelled dasatinib, approximately 89% of the dose was eliminated within 10 days, with 4% and 85% of the radioactivity recovered in the urine and faeces, respectively.
 Unchanged dasatinib accounted for 0.1% and 19% of the dose in urine and faeces, respectively, with the remainder of the dose as metabolites.
 
 Hepatic and renal impairment

@@ -50,9 +50,9 @@ Paediatric population
 The safety and efficacy of SPRYCEL in children and adolescents below 18 years of age have not yet been established.
 No data are available (see section 5.1).
 
-Elderly population
+Older people
 No clinically relevant age-related pharmacokinetic differences have been observed in these patients.
-No specific dose recommendation is necessary in the elderly.
+No specific dose recommendation is necessary in older people.
 
 Hepatic impairment
 Patients with mild, moderate or severe hepatic impairment may receive the recommended starting dose.
@@ -64,5 +64,5 @@ Since the renal clearance of dasatinib and its metabolites is < 4%, a decrease i
 
 Method of administration
 SPRYCEL must be administered orally.
-Tablets must not be crushed or cut in order to minimize the risk of dermal exposure, they must be swallowed whole.
+Film-coated tablets must not be crushed or cut in order to minimize the risk of dermal exposure, they must be swallowed whole.
 They can be taken with or without a meal and should be taken consistently either in the morning or in the evening.

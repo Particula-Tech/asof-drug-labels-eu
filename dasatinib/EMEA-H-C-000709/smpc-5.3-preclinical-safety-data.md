@@ -7,6 +7,7 @@ Gastrointestinal toxicity was dose-limiting in rats and monkeys, as the intestin
 In rats, minimal to mild decreases in erythrocyte parameters were accompanied by bone marrow changes; similar changes occurred in monkeys at a lower incidence.
 Lymphoid toxicity in rats consisted of lymphoid depletion of the lymph nodes, spleen, and thymus, and decreased lymphoid organ weights.
 Changes in the gastrointestinal, haematopoietic and lymphoid systems were reversible following cessation of treatment.
+
 Renal changes in monkeys treated for up to 9 months were limited to an increase in background kidney mineralisation.
 Cutaneous haemorrhage was observed in an acute, single-dose oral study in monkeys but was not observed in repeat-dose studies in either monkeys or rats.
 In rats, dasatinib inhibited platelet aggregation in vitro and prolonged cuticle bleeding time in vivo, but did not invoke spontaneous haemorrhage.

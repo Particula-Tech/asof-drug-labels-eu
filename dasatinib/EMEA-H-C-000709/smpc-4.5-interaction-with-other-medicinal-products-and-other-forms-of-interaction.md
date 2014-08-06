@@ -13,8 +13,7 @@ Active substances that may decrease dasatinib plasma concentrations
 When dasatinib was administered following 8 daily evening administrations of 600 mg rifampicin, a potent CYP3A4 inducer, the AUC of dasatinib was decreased by 82%.
 Other medicinal products that induce CYP3A4 activity (e.g. dexamethazone, phenytoin, carbamazepine, phenobarbital or herbal preparations containing Hypericum perforatum, also known as St. John´s Wort) may also increase metabolism and decrease dasatinib plasma concentrations.
 Therefore, concomitant use of potent CYP3A4 inducers with dasatinib is not recommended.
-In patients in whom rifampicin or other
-CYP3A4 inducers are indicated, alternative medicinal products with less enzyme induction potential should be used.
+In patients in whom rifampicin or other CYP3A4 inducers are indicated, alternative medicinal products with less enzyme induction potential should be used.
 
 Histamine-2 antagonists and proton pump inhibitors
 Long-term suppression of gastric acid secretion by H2 antagonists or proton pump inhibitors (e.g. famotidine and omeprazole) is likely to reduce dasatinib exposure.
