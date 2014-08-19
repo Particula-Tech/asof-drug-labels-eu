@@ -2,19 +2,24 @@
 
 Each tablet contains 5 mg desloratadine.
 
-For a full list of excipients, see section 6.1.
+Excipient(s) with known effect:
+This medicine contains lactose.
+
+For the full list of excipients, see section 6.1.
 
 [Azomyr 5 mg oral lyophilisate]
 
-Each dose of Azomyr oral lyophilisate contains 5 mg desloratadine.
+Each oral lyophilisate contains 5 mg desloratadine.
+
+This medicine contains mannitol and aspartame (E951).
 
 [Azomyr 2.5 mg orodispersible tablets]
 
-Each dose of Azomyr orodispersible tablet contains 2.5 mg desloratadine.
+Each orodispersible tablet contains 2.5 mg desloratadine.
 
 [Azomyr 5 mg orodispersible tablets]
 
-Each dose of Azomyr orodispersible tablet contains 5 mg desloratadine.
+Each orodispersible tablet contains 5 mg desloratadine.
 
 [Azomyr 0.5 mg/ml oral solution]
 

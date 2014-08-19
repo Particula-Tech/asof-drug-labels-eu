@@ -8,7 +8,7 @@ Oral lyophilisate
 
 [Azomyr 2.5 mg orodispersible tablets]
 
-Orodispersible Tablet
+Orodispersible tablet
 
 Light-red, flat-faced, round, speckled tablets, one side branded with “K”
 

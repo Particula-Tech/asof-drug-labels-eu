@@ -1,4 +1,5 @@
 # 4.7 Effects on ability to drive and use machines
 
-In clinical trials that assessed the driving ability, no impairment occurred in patients receiving desloratadine.
-However, patients should be informed that very rarely some people experience drowsiness, which may affect their ability to drive or use machines.
+Azomyr has no or negligible influence on the ability to drive and use machines based on clinical trials.
+Patients should be informed that most people do not experience drowsiness.
+Nevertheless, as there is individual variation in response to all medicinal products, it is recommended that patients are advised not to engage in activities requiring mental alertness, such as driving a car or using machines, until they have established their own response to the medicinal product.
