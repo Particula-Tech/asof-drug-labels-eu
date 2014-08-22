@@ -1,7 +1,7 @@
 # 5.2 Pharmacokinetic properties
 
 Under physiological conditions, ivabradine is rapidly released from tablets and is highly water-soluble (>10 mg/ml).
-Ivabradine is the S-enantiomer with no bi oconversion demonstrated in vivo.
+Ivabradine is the S-enantiomer with no bioconversion demonstrated in vivo.
 The N-desmethylated derivative of ivabradine has been identified as the main active metabolite in humans.
 
 Absorption and bioavailability
@@ -23,7 +23,8 @@ Ivabradine has low affinity for CYP3A4, shows no clinically relevant CYP3A4 indu
 Inversely, potent inhibitors and inducers may substantially affect ivabradine plasma concentrations (see section 4.5).
 
 Elimination
-Ivabradine is eliminated with a main half-life of 2 hours (70-75% of the AUC) in plasma and an effective half-life of 11 hour s. The total clearance is about 400 ml/min and the renal clearance is about 70 ml/min.
+Ivabradine is eliminated with a main half-life of 2 hours (70-75% of the AUC) in plasma and an effective half-life of 11 hours.
+The total clearance is about 400 ml/min and the renal clearance is about 70 ml/min.
 Excretion of metabolites occurs to a similar extent via faeces and urine.
 About 4% of an oral dose is excreted unchanged in urine.
 

@@ -32,6 +32,7 @@ The following adverse reactions have been reported during clinical trials and ar
 | Gastrointestinal disorders | Uncommon | Nausea |
 |  |  | Constipation |
 |  |  | Diarrhoea |
+|  |  | Abdominal pain* |
 | Skin and subcutaneous tissue disorders | Uncommon* | Angioedema |
 |  |  | Rash |
 |  | Rare* | Erythema |
@@ -47,9 +48,9 @@ The following adverse reactions have been reported during clinical trials and ar
 * Frequency calculated from clinical trials for adverse events detected from spontaneous report
 
 Description of selected adverse reactions
-Luminous phenomena (phosphenes) were reported by 14.5% of patients, described as a transient enhanced brightness in a l imited area of the visual field.
+Luminous phenomena (phosphenes) were reported by 14.5% of patients, described as a transient enhanced brightness in a limited area of the visual field.
 They are usually triggered by sudden variations in light intensity.
-Phosphenes may also be described as a h alo, image decomposition (stroboscopic or kaleidoscopic effects), coloured bright lights, or multiple image (retinal persistency).
+Phosphenes may also be described as a halo, image decomposition (stroboscopic or kaleidoscopic effects), coloured bright lights, or multiple image (retinal persistency).
 The onset of phosphenes is generally within the first two months of treatment after which they may occur repeatedly.
 Phosphenes were generally reported to be of mild to moderate intensity.
 All phosphenes resolved during or after treatment, of which a majority (77.5%) resolved during treatment.

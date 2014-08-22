@@ -41,7 +41,7 @@ Limited data are available in patients with mild to moderate hypotension, and iv
 Ivabradine is contra-indicated in patients with severe hypotension (blood pressure < 90/50 mmHg) (see section 4.3).
 
 Atrial fibrillation - Cardiac arrhythmias
-There is no evidence of risk of (excessive) bradycardia on r eturn to sinus rhythm when pharmacological cardioversion is initiated in patients treated with ivabradine.
+There is no evidence of risk of (excessive) bradycardia on return to sinus rhythm when pharmacological cardioversion is initiated in patients treated with ivabradine.
 However, in the absence of extensive data, non urgent DC-cardioversion should be considered 24 hours after the last dose of ivabradine.
 
 Use in patients with congenital QT syndrome or treated with QT prolonging medicinal products

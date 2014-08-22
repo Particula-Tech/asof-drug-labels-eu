@@ -24,12 +24,12 @@ Ivabradine does not influence intracardiac conduction, contractility (no negativ
 
 Clinical efficacy and safety
 The antianginal and anti-ischaemic efficacy of ivabradine was studied in five double-blind randomised trials (three versus placebo, and one each versus atenolol and amlodipine).
-These trials included a total of 4,111 pa tients with chronic stable angina pectoris, of whom 2,617 received ivabradine.
+These trials included a total of 4,111 patients with chronic stable angina pectoris, of whom 2,617 received ivabradine.
 
 Ivabradine 5 mg twice daily was shown to be effective on exercise test parameters within 3 to 4 weeks of treatment.
 Efficacy was confirmed with 7.5 mg twice daily.
-In particular, the additional benefit over 5 mg twice daily was established in a reference-controlled study versus atenolol: total exercise duration at trough was increased by about 1 minute after one month of treatment with 5 mg twice daily and further improved by almost 25 s econds after an additional 3-month period with forced titration to 7.5 mg twice daily.
-In this study, the antianginal and anti-ischaemic benefits of ivabradine were confirmed in patients aged 65 y ears or more.
+In particular, the additional benefit over 5 mg twice daily was established in a reference-controlled study versus atenolol: total exercise duration at trough was increased by about 1 minute after one month of treatment with 5 mg twice daily and further improved by almost 25 seconds after an additional 3-month period with forced titration to 7.5 mg twice daily.
+In this study, the antianginal and anti-ischaemic benefits of ivabradine were confirmed in patients aged 65 years or more.
 The efficacy of 5 and 7.5 mg twice daily was consistent across studies on exercise test parameters (total exercise duration, time to limiting angina, time to angina onset and time to 1 mm ST segment depression) and was associated with a decrease of about 70% in the rate of angina attacks.
 The twice-daily dosing regimen of ivabradine gave uniform efficacy over 24 hours.
 
@@ -50,7 +50,7 @@ The antianginal and anti-ischaemic efficacy of ivabradine was preserved in diabe
 A large outcome study, BEAUTIFUL, was performed in 10917 patients with coronary artery disease and left ventricular dysfunction (LVEF<40%) on top of optimal background therapy with 86.9% of patients receiving beta-blockers.
 The main efficacy criterion was the composite of cardiovascular death, hospitalization for acute MI or hospitalization for new onset or worsening heart failure.
 The study showed no difference in the rate of the primary composite outcome in the ivabradine group by comparison to the placebo group (relative risk ivabradine:placebo 1.00, p=0.945).
-In a post-hoc subgroup of patients with symptomatic angina at randomisation (n=1507), no s afety signal was identified regarding cardiovascular death, hospitalization for acute MI or heart failure (ivabradine 12.0% versus placebo 15.5%, p=0.05).
+In a post-hoc subgroup of patients with symptomatic angina at randomisation (n=1507), no safety signal was identified regarding cardiovascular death, hospitalization for acute MI or heart failure (ivabradine 12.0% versus placebo 15.5%, p=0.05).
 
 The SHIFT study was a large multicentre, international, randomised double-blind placebo controlled outcome trial conducted in 6505 adult patients with stable chronic CHF (for ≥ 4 weeks), NYHA class II to IV, with a reduced left ventricular ejection fraction (LVEF ≤ 35%) and a resting heart rate ≥ 70 bpm.
 Patients received standard care including beta-blockers (89 %), ACE inhibitors and/or angiotensin II antagonists (91 %), diuretics (83 %), and anti-aldosterone agents (60 %).
@@ -59,7 +59,7 @@ The median follow-up duration was 22.9 months.
 Treatment with ivabradine was associated with an average reduction in heart rate of 15 bpm from a baseline value of 80 bpm.
 The difference in heart rate between ivabradine and placebo arms was 10.8 bpm at 28 days, 9.1 bpm at 12 months and 8.3 bpm at 24 months.
 
-The study demonstrated a clinically and statistically significant relative risk reduction of 18% in the rate of the primary composite endpoint of cardiovascular mortality and hospitalisation for worsening heart failure (hazard ratio: 0.82, 95%CI [0.75;0.90] – p<0.0001) apparent within 3 m onths of initiation of treatment.
+The study demonstrated a clinically and statistically significant relative risk reduction of 18% in the rate of the primary composite endpoint of cardiovascular mortality and hospitalisation for worsening heart failure (hazard ratio: 0.82, 95%CI [0.75;0.90] – p<0.0001) apparent within 3 months of initiation of treatment.
 The absolute risk reduction was 4.2%.
 The results on the primary endpoint are mainly driven by the heart failure endpoints, hospitalisation for worsening heart failure (absolute risk reduced by 4.7 %) and deaths from heart failure (absolute risk reduced by 1.1 %).
 
@@ -86,7 +86,5 @@ The European Medicines Agency has waived the obligation to submit the results of
 The European Medicines Agency has deferred the obligation to submit the results of studies with Procoralan in one or more subsets of the paediatric population in the treatment of chronic heart failure (see section 4.2 for information on paediatric use).
 
 [Procoralan 7.5 mg film-coated tablets]
-
-- in clinical electrophysiology studies, ivabradine had no e ffect on a trioventricular or intraventricular conduction times or corrected QT intervals;
 
 The SHIFT study was a large multicentre, international, randomised double-blind placebo controlled outcome trial. conducted in 6505 adult patients with stable chronic CHF (for ≥ 4 weeks), NYHA class II to IV, with a reduced left ventricular ejection fraction (LVEF ≤ 35%) and a resting heart rate ≥ 70 bpm.
