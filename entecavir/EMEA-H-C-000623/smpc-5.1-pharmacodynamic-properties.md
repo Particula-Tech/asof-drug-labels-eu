@@ -12,7 +12,6 @@ In addition, high exposures of entecavir had no relevant adverse effects on γ p
 Antiviral activity: entecavir inhibited HBV DNA synthesis (50% reduction, EC50) at a concentration of 0.004 µM in human HepG2 cells transfected with wild-type HBV.
 The median EC50 value for entecavir against LVDr HBV (rtL180M and rtM204V) was 0.026 µM (range 0.010-0.059 µM).
 Recombinant viruses encoding adefovir-resistant substitutions at either rtN236T or rtA181V remained fully susceptible to entecavir.
-
 An analysis of the inhibitory activity of entecavir against a panel of laboratory and clinical HIV-1 isolates using a variety of cells and assay conditions yielded EC50 values ranging from 0.026 to
 > 10 µM; the lower EC50 values were observed when decreased levels of virus were used in the assay.
 In cell culture, entecavir selected for an M184I substitution at micromolar concentrations, confirming inhibitory pressure at high entecavir concentrations.
@@ -30,8 +29,7 @@ Resistance is mediated by reduced inhibitor binding to the altered HBV reverse t
 Clinical experience: the demonstration of benefit is based on histological, virological, biochemical, and serological responses after 48 weeks of treatment in active-controlled clinical trials of 1,633 adults with chronic hepatitis B infection, evidence of viral replication and compensated liver disease.
 The safety and efficacy of entecavir were also evaluated in an active-controlled clinical trial of 191 HBV-infected patients with decompensated liver disease and in a clinical trial of 68 patients co-infected with HBV and HIV.
 
-In studies in patients with compensated liver disease, histological improvement was defined as a
-≥ 2-point decrease in Knodell necro-inflammatory score from baseline with no worsening of the Knodell fibrosis score.
+In studies in patients with compensated liver disease, histological improvement was defined as a ≥ 2-point decrease in Knodell necro-inflammatory score from baseline with no worsening of the Knodell fibrosis score.
 Responses for patients with baseline Knodell Fibrosis Scores of 4 (cirrhosis) were comparable to overall responses on all efficacy outcome measures (all patients had compensated liver disease).
 High baseline Knodell necroinflammatory scores (> 10) were associated with greater histological improvement in nucleoside-naive patients.
 Baseline ALT levels ≥ 2 times ULN and baseline HBV DNA ≤ 9.0 log10 copies/ml were both associated with higher rates of virologic response (Week 48 HBV DNA < 400 copies/ml) in nucleoside-naive HBeAg-positive patients.
@@ -99,8 +97,7 @@ By 48 weeks of post-treatment follow-up, a substantial number of HBeAg negative 
 
 Liver biopsy results: 57 patients from the pivotal nucleoside-naive studies 022 (HBeAg positive) and 027 (HBeAg negative) who enrolled in a long-term rollover study were evaluated for long-term liver histology outcomes.
 The entecavir dosage was 0.5 mg daily in the pivotal studies (mean exposure 85 weeks) and 1 mg daily in the rollover study (mean exposure 177 weeks), and 51 patients in the rollover study initially also received lamivudine (median duration 29 weeks).
-Of these patients, 55/57 (96%) had histological improvement as previously defined (see above), and 50/57 (88%) had a
-≥ 1-point decrease in Ishak fibrosis score.
+Of these patients, 55/57 (96%) had histological improvement as previously defined (see above), and 50/57 (88%) had a ≥ 1-point decrease in Ishak fibrosis score.
 For patients with baseline Ishak fibrosis score ≥ 2, 25/43 (58%) had a ≥ 2-point decrease.
 All (10/10) patients with advanced fibrosis or cirrhosis at baseline (Ishak fibrosis score of 4, 5 or 6) had a ≥ 1 point decrease (median decrease from baseline was 1.5 points).
 At the time of the long-term biopsy, all patients had HBV DNA < 300 copies/ml and 49/57 (86%) had serum ALT ≤ 1 times ULN.
@@ -169,7 +166,21 @@ At Week 72 post-transplant, none of 55 observed cases had virologic recurrence o
 All 61 patients had HBsAg loss post-transplantation, and 2 of these later became HBsAg positive despite maintaining undetectable HBV DNA (<6 IU/ml).
 The frequency and nature of adverse events in this study were consistent with those expected in patients who have received a liver transplant and the known safety profile of entecavir.
 
-Paediatric population: the European Medicines Agency has deferred the obligation to submit the results of studies with Baraclude in one or more subsets of the paediatric population with chronic hepatitis B (see section 4.2 for information on paediatric use).
+Paediatric population: Study 189 is an ongoing study of the efficacy and safety of entecavir among 180 nucleoside-treatment-naïve children and adolescents from 2 to < 18 years of age with HBeAg-positive chronic hepatitis B infection, compensated liver disease, and elevated ALT.
+Subjects were randomized (2:1) to receive blinded treatment with entecavir 0.015 mg/kg up to 0.5 mg/day (N = 120) or placebo (N = 60).
+The randomization was stratified by age group (2 to 6 years; > 6 to 12 years; and > 12 to < 18 years).
+Baseline demographics and HBV disease characteristics were comparable between the 2 treatment arms and across age cohorts.
+At study entry, the mean HBV DNA was 8.0 log10 IU/ml and mean ALT was 105 U/l for the primary cohort (the first 123 treated subjects).
+The primary efficacy endpoint was a composite of HBeAg seroconversion and serum HBV DNA
+< 50 IU/ml (approximately 300 copies/ml) at Week 48 for the primary cohort.
+Twenty-four percent (20/82) of subjects in the entecavir-treated group and 2% (1/41) of subjects in the placebo-treated group met the primary endpoint.
+Forty-six percent (38/82) of entecavir-treated subjects and 2% (1/41) of placebo-treated subjects achieved HBV DNA < 50 IU/ml at Week 48.
+When assessed by baseline HBV DNA, 77% (26/34) of entecavir-treated subjects with HBV
+DNA < 8 log10 IU/ml at baseline and 25% (12/48) with HBV DNA ≥ 8 log10 IU/ml achieved HBV DNA < 50 IU/ml.
+ALT normalization occurred in 67% (55/82) of entecavir-treated subjects and 22% (9/41) of placebo-treated subjects; 24% (20/82) of entecavir-treated subjects and 12% (5/41) of placebo-treated subjects had HBeAg seroconversion.
+In 2 paediatric studies (Studies 028 and 189), 110 patients who received entecavir for up to 48 weeks were monitored for resistance.
+Genotypic evaluations were performed on all patients who had virologic breakthrough, or HBV DNA ≥ 50 IU/ml at Week 48 or discontinued early.
+No amino acid substitutions associated with resistance to entecavir were identified.
 
 Clinical resistance: patients in clinical trials initially treated with entecavir 0.5 mg (nucleoside-naive) or 1.0 mg (lamivudine-refractory) and with an on-therapy PCR HBV DNA measurement at or after Week 24 were monitored for resistance.
 Through Week 240 in nucleoside-naive studies, genotypic evidence of ETVr substitutions at rtT184, rtS202, or rtM250 was identified in 3 patients treated with entecavir, 2 of whom experienced virologic breakthrough (see table).
@@ -224,10 +235,14 @@ Also, lamivudine-refractory patients who achieved HBV DNA < 104 log10 copies/ml 
 
 Patients had stable controlled HIV (HIV RNA < 400 copies/ml) with recurrence of HBV viraemia on a lamivudine-containing HAART regimen.HAART regimens did not include emtricitabine or tenofovir disoproxil fumarate.
 
+When assessed by baseline HBV DNA, 77% (26/34) of entecavir-treated subjects with HBV DNA
+< 8 log10 IU/ml at baseline and 25% (12/48) with HBV DNA ≥ 8 log10 IU/ml achieved HBV DNA
+< 50 IU/ml.
+
 These substitutions were observed only in the presence of LVDr substitutions (rtM204Vand rtL180M).
 
 d ≥1 log10 increase above nadir in HBV DNA by PCR, confirmed with successive measurements or at the end of the windowed time point.
 
-50
+54
 Among lamivudine-refractory patients with baseline HBV DNA <107 log10 copies/ml, 64% (9/14) achieved HBV DNA <300 copies/ml at Week 48.
 Also, lamivudine-refractory patients who achieved HBV DNA <104 log10 copies/ml by PCR at Week 24 had a lower rate of resistance than those who did not (5-year cumulative probability 17.6% [n=50] versus 60.5% [n=135], respectively).

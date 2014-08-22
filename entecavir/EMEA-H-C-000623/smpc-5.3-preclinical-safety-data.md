@@ -12,6 +12,8 @@ In rats, maternal toxicity, embryo-foetal toxicity (resorptions), lower foetal b
 In rabbits, embryo-foetal toxicity (resorptions), reduced ossification (hyoid), and an increased incidence of 13th rib were observed at high exposures.
 In a peri-postnatal study in rats, no adverse effects on offspring were observed.
 In a separate study wherein entecavir was administered to pregnant lactating rats at 10 mg/kg, both foetal exposure to entecavir and secretion of entecavir into milk were demonstrated.
+In juvenile rats administered entecavir from postnatal days 4 to 80, a moderately reduced acoustic startle response was noted during the recovery period (postnatal days 110 to 114) but not during the dosing period at AUC values ≥ 92 times those in humans at the 0.5 mg dose or paediatric equivalent dose.
+Given the exposure margin, this finding is considered of unlikely clinical significance.
 
 No evidence of genotoxicity was observed in an Ames microbial mutagenicity assay, a mammalian-cell gene mutation assay, and a transformation assay with Syrian hamster embryo cells.
 A micronucleus study and a DNA repair study in rats were also negative.

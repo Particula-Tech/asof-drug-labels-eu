@@ -38,8 +38,14 @@ Patients with lamivudine-resistant HBV are at higher risk of developing subseque
 The cumulative probability of emerging genotypic entecavir resistance after 1, 2, 3, 4 and 5 years treatment in the lamivudine-refractory studies was 6%, 15%, 36%, 47% and 51%, respectively.
 Virological response should be frequently monitored in the lamivudine-refractory population and appropriate resistance testing should be performed.
 In patients with a suboptimal virological response after 24 weeks of treatment with entecavir, a modification of treatment should be considered (see sections 4.5 and 5.1).
+When starting therapy in patients with a documented history of lamivudine-resistant HBV, combination use of entecavir plus a second antiviral agent (which does not share cross-resistance with either lamivudine or entecavir) should be considered in preference to entecavir monotherapy.
+
 Pre-existing lamivudine-resistant HBV is associated with an increased risk for subsequent entecavir resistance regardless of the degree of liver disease; in patients with decompensated liver disease, virologic breakthrough may be associated with serious clinical complications of the underlying liver disease.
 Therefore, in patients with both decompensated liver disease and lamivudine-resistant HBV, combination use of entecavir plus a second antiviral agent (which does not share cross-resistance with either lamivudine or entecavir) should be considered in preference to entecavir monotherapy.
+
+Paediatric population: A lower rate of virologic response (HBV DNA < 50 IU/ml) was observed in paediatric patients with baseline HBV DNA ≥ 8.0 log10 IU/ml (see section 5.1).
+Entecavir should be used in these patients only if the potential benefit justifies the potential risk to the child (e.g. resistance).
+Since some paediatric patients may require long-term or even lifetime management of chronic active hepatitis B, consideration should be given to the impact of entecavir on future treatment options.
 
 Liver transplant recipients: renal function should be carefully evaluated before and during entecavir therapy in liver transplant recipients receiving cyclosporine or tacrolimus (see section 5.2).
 

@@ -23,7 +23,6 @@ Skin and subcutaneous tissue disorders: uncommon: rash, alopecia
 General disorders and administration site common: fatigue conditions:
 
 Cases of lactic acidosis have been reported, often in association with hepatic decompensation, other serious medical conditions or drug exposures (see section 4.4).
-
 Treatment beyond 48 weeks: continued treatment with entecavir for a median duration of 96 weeks did not reveal any new safety signals.
 
 c. Description of selected adverse reactions
@@ -46,7 +45,14 @@ In studies in lamivudine-refractory patients, with only limited numbers of patie
 
 In the clinical trials entecavir treatment was discontinued if patients achieved a prespecified response.
 If treatment is discontinued without regard to treatment response, the rate of post-treatment ALT flares could be higher.
-d. Other special populations
+
+d. Paediatric Population
+
+The safety of entecavir in paediatric patients from 2 to < 18 years of age is based on two ongoing clinical trials in subjects with chronic HBV infection; one Phase 2 pharmacokinetic trial (study 028) and one Phase 3 trial (study 189).
+These trials provide experience in 173 HBeAg-positive nucleoside-treatment-naïve subjects treated with entecavir for a median duration of 60 weeks.
+The adverse reactions observed in paediatric subjects who received treatment with entecavir were consistent with those observed in clinical trials of entecavir in adults.(see a. Summary of the safety profile and section 5.1)
+
+e. Other special populations
 
 Experience in patients with decompensated liver disease: the safety profile of entecavir in patients with decompensated liver disease was assessed in a randomized open-label comparative study in which patients received treatment with entecavir 1 mg/day (n = 102) or adefovir dipivoxil 10 mg/day (n = 89) (study 048).
 Relative to the adverse reactions noted in section b. Tabulated list of adverse reactions, one additional adverse reaction [decrease in blood bicarbonate (2%)] was observed in entecavir-treated patients through week 48.
@@ -61,6 +67,10 @@ Albumin levels < 2.5 g/dl occurred in 30% of patients, lipase levels > 3 times b
 Experience in patients co-infected with HIV: the safety profile of entecavir in a limited number of HIV/HBV co-infected patients on lamivudine-containing HAART (highly active antiretroviral therapy) regimens was similar to the safety profile in monoinfected HBV patients (see section 4.4).
 
 Gender/age: there was no apparent difference in the safety profile of entecavir with respect to gender (≈ 25% women in the clinical trials) or age (≈ 5% of patients > 65 years of age).
+
+Reporting of suspected adverse reactions: Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 [Baraclude 1 mg film-coated tablets]
 

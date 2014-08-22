@@ -5,5 +5,9 @@ Apart from lamivudine, adefovir dipivoxil and tenofovir disoproxil fumarate, the
 Patients should be monitored closely for adverse reactions when entecavir is coadministered with such medicinal products.
 
 No pharmacokinetic interactions between entecavir and lamivudine, adefovir or tenofovir were observed.
+
 Entecavir is not a substrate, an inducer or an inhibitor of cytochrome P450 (CYP450) enzymes (see section 5.2).
 Therefore CYP450 mediated drug interactions are unlikely to occur with entecavir.
+
+Paediatric population
+Interaction studies have only been performed in adults.

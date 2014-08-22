@@ -17,4 +17,4 @@ Not all pack sizes and container types may be marketed.
 [Baraclude 0.05 mg/ml oral solution]
 
 210 ml oral solution in a HDPE bottles with child-resistant closures (polypropylene).
-Each carton includes a measuring spoon (polypropylene) with milliliter marks from 1 up to 10 ml
+Each carton includes a measuring spoon (polypropylene) with markings from 0.5 ml up to 10 ml
