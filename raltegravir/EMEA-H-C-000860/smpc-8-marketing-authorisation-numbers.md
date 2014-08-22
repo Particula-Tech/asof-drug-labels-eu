@@ -10,3 +10,7 @@ EU/1/07/436/004
 [ISENTRESS 25 mg chewable tablets]
 
 EU/1/07/436/003
+
+[ISENTRESS 100 mg granules for oral suspension]
+
+EU/1/07/436/005

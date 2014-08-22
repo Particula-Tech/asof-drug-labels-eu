@@ -12,3 +12,8 @@ High density polyethylene (HDPE) bottle with a child-resistant polypropylene clo
 [ISENTRESS 25 mg chewable tablets]
 
 (all sentences already above)
+
+[ISENTRESS 100 mg granules for oral suspension]
+
+PET/aluminium/LLDPE sachets.
+One carton contains 60 sachets, two 5 ml oral dosing syringes and 2 mixing cups.

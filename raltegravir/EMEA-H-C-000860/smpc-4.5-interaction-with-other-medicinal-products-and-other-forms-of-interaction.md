@@ -1,7 +1,7 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 In vitro studies indicate that raltegravir is not a substrate of cytochrome P450 (CYP) enzymes, does not inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or CYP3A, does not induce CYP3A4 and does not inhibit P-glycoprotein-mediated transport.
-Based on these data, ISENTRESS is not expected to affect the pharmacokinetics of medicinal products that are substrates of these enzymes or P-glycoprotein.
+Based on these data, raltegravir is not expected to affect the pharmacokinetics of medicinal products that are substrates of these enzymes or P-glycoprotein.
 
 Based on in vitro and in vivo studies, raltegravir is eliminated mainly by metabolism via a UGT1A1-mediated glucuronidation pathway.
 
@@ -51,45 +51,88 @@ Pharmacokinetic Interaction Data
 | --- | --- | --- |
 | ANTI-RETROVIRAL |  |  |
 | Protease inhibitors (PI) |  |  |
-| atazanavir /ritonavir (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑ 41 % raltegravir C12hr ↑ 77 % raltegravir Cmax ↑ 24 % (UGT1A1 inhibition) | No dose adjustment required for ISENTRESS. |
-| tipranavir /ritonavir (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓ 24 % raltegravir C12hr ↓ 55 % raltegravir Cmax ↓ 18 % (UGT1A1 induction) | No dose adjustment required for ISENTRESS. |
+| atazanavir /ritonavir (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑41 % raltegravir C12hr ↑77 % raltegravir Cmax ↑24 % (UGT1A1 inhibition) | No dose adjustment required for ISENTRESS. |
+| tipranavir /ritonavir (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓24 % raltegravir C12hr ↓55 % raltegravir Cmax ↓18 % (UGT1A1 induction) | No dose adjustment required for ISENTRESS. |
 | Non-nucleoside reverse transcriptase inhibitors (NNRTIs) |  |  |
-| efavirenz (raltegravir 400 mg Single Dose) | raltegravir AUC ↓ 36 % raltegravir C12hr ↓ 21 % raltegravir Cmax ↓ 36 % (UGT1A1 induction) | No dose adjustment required for ISENTRESS. |
-| etravirine (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓ 10 % raltegravir C12hr ↓ 34 % raltegravir Cmax ↓ 11 % (UGT1A1 induction) etravirine AUC ↑ 10 % etravirine C12hr ↑ 17 % etravirine Cmax ↑ 4 % | No dose adjustment required for ISENTRESS or etravirine. |
+| efavirenz (raltegravir 400 mg Single Dose) | raltegravir AUC ↓36 % raltegravir C12hr ↓21 % raltegravir Cmax ↓36 % (UGT1A1 induction) | No dose adjustment required for ISENTRESS. |
+| etravirine (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓10 % raltegravir C12hr ↓34 % raltegravir Cmax ↓11 % (UGT1A1 induction) etravirine AUC ↑10 % etravirine C12hr ↑17 % etravirine Cmax ↑4 % | No dose adjustment required for ISENTRESS or etravirine. |
 | Nucleoside/tide reverse transcriptase inhibitors |  |  |
-| tenofovir (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑ 49 % raltegravir C12hr ↑ 3 % raltegravir Cmax ↑ 64 % (mechanism of interaction unknown) tenofovir AUC ↓ 10 % tenofovir C24hr ↓ 13 % tenofovir Cmax ↓ 23 % | No dose adjustment required for ISENTRESS or tenofovir disoproxil fumarate. |
+| tenofovir (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑49 % raltegravir C12hr ↑3 % raltegravir Cmax ↑64 % (mechanism of interaction unknown) tenofovir AUC ↓10 % tenofovir C24hr ↓13 % tenofovir Cmax ↓23 % | No dose adjustment required for ISENTRESS or tenofovir disoproxil fumarate. |
 | CCR5 inhibitors |  |  |
-| maraviroc (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓ 37 % raltegravir C12hr ↓ 28 % raltegravir Cmax ↓ 33 % (mechanism of interaction unknown) maraviroc AUC ↓ 14 % maraviroc C12hr ↓ 10 % maraviroc Cmax ↓ 21 % | No dose adjustment required for ISENTRESS or maraviroc. |
+| maraviroc (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓37 % raltegravir C12hr ↓28 % raltegravir Cmax ↓33 % (mechanism of interaction unknown) maraviroc AUC ↓14 % maraviroc C12hr ↓10 % maraviroc Cmax ↓21 % | No dose adjustment required for ISENTRESS or maraviroc. |
 | HCV ANTIVIRALS |  |  |
 | NS3/4A protease inhibitors (PI) |  |  |
-| boceprevir (raltegravir 400 mg Single Dose) | raltegravir AUC ↑ 4 % raltegravir C12hr ↓ 25 % raltegravir Cmax ↑ 11 % (mechanism of interaction unknown) | No dose adjustment required for ISENTRESS or boceprevir. |
+| boceprevir (raltegravir 400 mg Single Dose) | raltegravir AUC ↑4 % raltegravir C12hr ↓25 % raltegravir Cmax ↑11 % (mechanism of interaction unknown) | No dose adjustment required for ISENTRESS or boceprevir. |
 | ANTIMICROBIALS |  |  |
 | Antimycobacterial |  |  |
-| rifampicin (raltegravir 400 mg Single Dose) | raltegravir AUC ↓ 40 % raltegravir C12hr ↓ 61 % raltegravir Cmax ↓ 38 % (UGT1A1 induction) | Rifampicin reduces plasma levels of ISENTRESS. If co-administration with rifampicin is unavoidable, a doubling of the dose of ISENTRESS can be considered (see section 4.4). |
+| rifampicin (raltegravir 400 mg Single Dose) | raltegravir AUC ↓40 % raltegravir C12hr ↓61 % raltegravir Cmax ↓38 % (UGT1A1 induction) | Rifampicin reduces plasma levels of ISENTRESS. If co-administration with rifampicin is unavoidable, a doubling of the dose of ISENTRESS can be considered (see section 4.4). |
 | SEDATIVE |  |  |
-| midazolam (raltegravir 400 mg Twice Daily) | midazolam AUC ↓ 8 % midazolam Cmax ↑ 3 % | No dosage adjustment required for ISENTRESS or midazolam. These results indicate that raltegravir is not an inducer or inhibitor of CYP3A4, and raltegravir is thus not anticipated to affect the pharmacokinetics of medicinal products which are CYP3A4 substrates. |
+| midazolam (raltegravir 400 mg Twice Daily) | midazolam AUC ↓8 % midazolam Cmax ↑3 % | No dosage adjustment required for ISENTRESS or midazolam. These results indicate that raltegravir is not an inducer or inhibitor of CYP3A4, and raltegravir is thus not anticipated to affect the pharmacokinetics of medicinal products which are CYP3A4 substrates. |
 | METAL CATION ANTACIDS |  |  |
-| aluminium and magnesium hydroxide antacid (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓ 49 % raltegravir C12 hr ↓ 63 % raltegravir Cmax ↓ 44 % 2 hours before raltegravir raltegravir AUC ↓ 51 % raltegravir C12 hr ↓ 56 % raltegravir Cmax ↓ 51 % 2 hours after raltegravir raltegravir AUC ↓ 30 % raltegravir C12 hr ↓ 57 % raltegravir Cmax ↓ 24 % (chelation of metal cations) | Aluminium and magnesium containing antacids reduce raltegravir plasma levels. Co-administration of ISENTRESS with aluminium and/or magnesium containing antacids is not recommended. |
-| calcium carbonate antacid (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓ 55 % raltegravir C12 hr ↓ 32 % raltegravir Cmax ↓ 52 % (chelation of metal cations) | No dose adjustment required for ISENTRESS. |
+| aluminium and magnesium hydroxide antacid (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓49 % raltegravir C12 hr ↓63 % raltegravir Cmax ↓44 % 2 hours before raltegravir raltegravir AUC ↓51 % raltegravir C12 hr ↓56 % raltegravir Cmax ↓51 % 2 hours after raltegravir raltegravir AUC ↓30 % raltegravir C12 hr ↓57 % raltegravir Cmax ↓24 % (chelation of metal cations) | Aluminium and magnesium containing antacids reduce raltegravir plasma levels. Co-administration of ISENTRESS with aluminium and/or magnesium containing antacids is not recommended. |
+| calcium carbonate antacid (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓55 % raltegravir C12 hr ↓32 % raltegravir Cmax ↓52 % (chelation of metal cations) | No dose adjustment required for ISENTRESS. |
 | H2 BLOCKERS AND PROTON PUMP INHIBITORS |  |  |
-| omeprazole (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑ 37 % raltegravir C12 hr ↑ 24 % raltegravir Cmax ↑ 51 % (increased solubility) | No dose adjustment required for ISENTRESS. |
-| famotidine (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑ 44 % raltegravir C12 hr ↑ 6 % raltegravir Cmax ↑ 60 % (increased solubility) | No dose adjustment required for ISENTRESS. |
+| omeprazole (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑37 % raltegravir C12 hr ↑24 % raltegravir Cmax ↑51 % (increased solubility) | No dose adjustment required for ISENTRESS. |
+| famotidine (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑44 % raltegravir C12 hr ↑6 % raltegravir Cmax ↑60 % (increased solubility) | No dose adjustment required for ISENTRESS. |
 | HORMONAL CONTRACEPTIVES |  |  |
-| Ethinyl Estradiol Norelgestromin (raltegravir 400 mg Twice Daily) | Ethinyl Estradiol AUC ↓ 2 % Ethinyl Estradiol Cmax ↑ 6 % Norelgestromin AUC ↑ 14 % Norelgestromin Cmax ↑ 29 % | No dosage adjustment required for ISENTRESS or hormonal contraceptives (estrogen-and/or progesterone-based). |
+| Ethinyl Estradiol Norelgestromin (raltegravir 400 mg Twice Daily) | Ethinyl Estradiol AUC ↓2 % Ethinyl Estradiol Cmax ↑6 % Norelgestromin AUC ↑14 % Norelgestromin Cmax ↑29 % | No dosage adjustment required for ISENTRESS or hormonal contraceptives (estrogen-and/or progesterone-based). |
 | OPIOID ANALGESICS |  |  |
 | methadone (raltegravir 400 mg Twice Daily) | methadone AUC ↔ methadone Cmax ↔ | No dose adjustment required for ISENTRESS or methadone. |
 
 [ISENTRESS 100 mg chewable tablets]
 
-In addition, tenofovir may increase plasma levels of raltegravir, however, the mechanism for this effect is unknown (see Table 2).
+In addition, tenofovir may increase plasma levels of raltegravir, however, the mechanism for this effect is unknown (see Table 3).
 
-Co-administration of ISENTRESS with other agents that increase gastric pH (e.g., omeprazole and famotidine) may increase the rate of raltegravir absorption and result in increased plasma levels of raltegravir (see Table 2).
+Co-administration of ISENTRESS with other agents that increase gastric pH (e.g., omeprazole and famotidine) may increase the rate of raltegravir absorption and result in increased plasma levels of raltegravir (see Table 3).
 
 All interaction studies have been performed in adults.
 
-Table 2
+Table 3
 Pharmacokinetic Interaction Data in Adults
+
+| Medicinal products by therapeutic area | Interaction (mechanism, if known) | Recommendations concerning co-administration |
+| --- | --- | --- |
+| ANTI-RETROVIRAL |  |  |
+| Protease inhibitors (PI) |  |  |
+| atazanavir /ritonavir (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑41 % raltegravir C12hr ↑77 % raltegravir Cmax ↑24 % (UGT1A1 inhibition) | No dose adjustment required for ISENTRESS. |
+| tipranavir /ritonavir (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓24 % raltegravir C12hr ↓55 % raltegravir Cmax ↓18 % (UGT1A1 induction) | No dose adjustment required for ISENTRESS. |
+| Non-nucleoside reverse transcriptase inhibitors (NNRTIs) |  |  |
+| efavirenz (raltegravir 400 mg Single Dose) | raltegravir AUC ↓36 % raltegravir C12hr ↓21 % raltegravir Cmax ↓36 % (UGT1A1 induction) | No dose adjustment required for ISENTRESS. |
+| etravirine (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓10 % raltegravir C12hr ↓34 % raltegravir Cmax ↓11 % (UGT1A1 induction) etravirine AUC ↑10 % etravirine C12hr ↑17 % etravirine Cmax ↑4 % | No dose adjustment required for ISENTRESS or etravirine. |
+| Nucleoside/tide reverse transcriptase inhibitors |  |  |
+| tenofovir (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑49 % raltegravir C12hr ↑3 % raltegravir Cmax ↑64 % (mechanism of interaction unknown) tenofovir AUC ↓10 % tenofovir C24hr ↓13 % tenofovir Cmax ↓23 % | No dose adjustment required for ISENTRESS or tenofovir disoproxil fumarate. |
+| CCR5 inhibitors |  |  |
+| maraviroc (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓37 % raltegravir C12hr ↓28 % raltegravir Cmax ↓33 % (mechanism of interaction unknown) maraviroc AUC ↓14 % maraviroc C12hr ↓10 % maraviroc Cmax ↓21 % | No dose adjustment required for ISENTRESS or maraviroc. |
+| HCV ANTIVIRALS |  |  |
+| NS3/4A protease inhibitors (PI) |  |  |
+| boceprevir (raltegravir 400 mg Single Dose) | raltegravir AUC ↑4 % raltegravir C12hr ↓25 % raltegravir Cmax ↑11 % (mechanism of interaction unknown) | No dose adjustment required for ISENTRESS or boceprevir. |
+| ANTIMICROBIALS |  |  |
+| Antimycobacterial |  |  |
+| rifampicin (raltegravir 400 mg Single Dose) | raltegravir AUC ↓40 % raltegravir C12hr ↓61 % raltegravir Cmax ↓38 % (UGT1A1 induction) | Rifampicin reduces plasma levels of ISENTRESS. If co-administration with rifampicin is unavoidable, a doubling of the dose of ISENTRESS can be considered (see section 4.4). |
+| SEDATIVE |  |  |
+| midazolam (raltegravir 400 mg Twice Daily) | midazolam AUC ↓8 % midazolam Cmax ↑3 % | No dosage adjustment required for ISENTRESS or midazolam. These results indicate that raltegravir is not an inducer or inhibitor of CYP3A4, and raltegravir is thus not anticipated to affect the pharmacokinetics of medicinal products which are CYP3A4 substrates. |
+
+| Medicinal products by therapeutic area | Interaction (mechanism, if known) | Recommendations concerning co-administration |
+| --- | --- | --- |
+| METAL CATION ANTACIDS |  |  |
+| aluminium and magnesium hydroxide antacid (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓49 % raltegravir C12 hr ↓63 % raltegravir Cmax ↓44 % 2 hours before raltegravir raltegravir AUC ↓51 % raltegravir C12 hr ↓56 % raltegravir Cmax ↓51 % 2 hours after raltegravir raltegravir AUC ↓30 % raltegravir C12 hr ↓57 % raltegravir Cmax ↓24 % (chelation of metal cations) | Aluminium and magnesium containing antacids reduce raltegravir plasma levels. Co-administration of ISENTRESS with aluminium and/or magnesium containing antacids is not recommended. |
+| calcium carbonate antacid (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓55 % raltegravir C12 hr ↓32 % raltegravir Cmax ↓52 % (chelation of metal cations) | No dose adjustment required for ISENTRESS. |
+| H2 BLOCKERS AND PROTON PUMP INHIBITORS |  |  |
+| omeprazole (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑37 % raltegravir C12 hr ↑24 % raltegravir Cmax ↑51 % (increased solubility) | No dose adjustment required for ISENTRESS. |
+| famotidine (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑44 % raltegravir C12 hr ↑6 % raltegravir Cmax ↑60 % (increased solubility) | No dose adjustment required for ISENTRESS. |
+| HORMONAL CONTRACEPTIVES |  |  |
+| Ethinyl Estradiol Norelgestromin (raltegravir 400 mg Twice Daily) | Ethinyl Estradiol AUC ↓2 % Ethinyl Estradiol Cmax ↑6 % Norelgestromin AUC ↑14 % Norelgestromin Cmax ↑29 % | No dosage adjustment required for ISENTRESS or hormonal contraceptives (estrogen-and/or progesterone-based). |
+| OPIOID ANALGESICS |  |  |
+| methadone (raltegravir 400 mg Twice Daily) | methadone AUC ↔ methadone Cmax ↔ | No dose adjustment required for ISENTRESS or methadone. |
 
 [ISENTRESS 25 mg chewable tablets]
 
 (all sentences already above)
+
+[ISENTRESS 100 mg granules for oral suspension]
+
+In addition, tenofovir may increase plasma levels of raltegravir, however, the mechanism for this effect is unknown (see Table 2).
+
+Co-administration of ISENTRESS with other agents that increase gastric pH (e.g., omeprazole and famotidine) may increase the rate of raltegravir absorption and result in increased plasma levels of raltegravir (see Table 2).
+
+Table 2

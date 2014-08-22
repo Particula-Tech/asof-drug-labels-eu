@@ -19,14 +19,14 @@ Food appears to increase pharmacokinetic variability relative to fasting.
 
 Overall, considerable variability was observed in the pharmacokinetics of raltegravir.
 For observed C12 hr in BENCHMRK 1 and 2 the coefficient of variation (CV) for inter-subject variability = 212 % and the CV for intra-subject variability = 122 %.
-Sources of variability may include differences in co-administration with food and concomitant medications.
+Sources of variability may include differences in co-administration with food and concomitant medicines.
 
 Distribution
 Raltegravir is approximately 83 % bound to human plasma protein over the concentration range of 2 to 10 µM.
 Raltegravir readily crossed the placenta in rats, but did not penetrate the brain to any appreciable extent.
 
 In two studies of HIV-1 infected patients who received raltegravir 400 mg twice daily, raltegravir was readily detected in the cerebrospinal fluid.
-In the first study (n=18), the median cerebrospinal fluid concentration was 5.8 % (range 1 to 53.5 %) of the corresponding plasma concentration.
+In the first study(n=18), the median cerebrospinal fluid concentration was 5.8 % (range 1 to 53.5 %) of the corresponding plasma concentration.
 In the second study (n=16), the median cerebrospinal fluid concentration was 3 % (range 1 to 61 %) of the corresponding plasma concentration.
 These median proportions are approximately 3- to 6-fold lower than the free fraction of raltegravir in plasma.
 
@@ -42,27 +42,29 @@ Thus the data indicate that the major mechanism of clearance of raltegravir in h
 UGT1A1 Polymorphism
 In a comparison of 30 subjects with *28/*28 genotype to 27 subjects with wild-type genotype, the geometric mean ratio (90 % CI) of AUC was 1.41 (0.96, 2.09) and the geometric mean ratio of C12 hr was 1.91 (1.43, 2.55).
 Dose adjustment is not considered necessary in subjects with reduced UGT1A1 activity due to genetic polymorphism.
-
 Special populations
 
 Paediatric population
-Based on a formulation comparison study in healthy adult volunteers, the chewable tablet has higher oral bioavailability compared to the 400 mg tablet.
-In this study, administration of the chewable tablet with a high fat meal led to an average 6 % decrease in AUC, 62 % decrease in Cmax, and 188 % increase in C12hr compared to administration in the fasted state.
+Based on a formulation comparison study in healthy adult volunteers, the chewable tablet and granules for oral suspension have higher oral bioavailability compared to the 400 mg tablet.
+In this study, administration of the chewable tablet with a high fat meal led to an average 6 % decrease in AUC,
+62 % decrease in Cmax, and 188 % increase in C12hr compared to administration in the fasted state.
 Administration of the chewable tablet with a high fat meal does not affect raltegravir pharmacokinetics to a clinically meaningful degree and the chewable tablet can be administered without regard to food.
+The effect of food on the granules for oral suspension formulation was not studied.
 
-Table 5 displays pharmacokinetic parameters in the 400 mg tablet (6 through 18 years of age) and the chewable tablet (2 through 11 years of age).
-Table 5: Raltegravir Pharmacokinetic Parameters IMPAACT P1066
-Following Administration of Doses in Section 4.2
+Table 6 displays pharmacokinetic parameters in the 400 mg tablet, the chewable tablet), and the granules for oral suspension, by body weight.
 
-| Age | Formulation | Dose | N† | Geometric Mean (%CV) AUC 0-12hr (μM*hr) | Geometric Mean (%CV) C12hr (nM) |
+Table 6
+Raltegravir Pharmacokinetic Parameters IMPAACT P1066 Following Administration of Doses in Section 4.2
+
+| Body weight | Formulation | Dose | N* | Geometric mean (%CV†) AUC0-12hr (μM●hr) | Geometric mean (%CV†) C12hr (nM) |
 | --- | --- | --- | --- | --- | --- |
-| 12 through 18 years | 400 mg tablet | 400 mg twice daily, regardless of weight‡ | 11 | 15.7 (98 %) | 333 (78 %) |
-| 6 through 11 years | 400 mg tablet | 400 mg twice daily, for patients ≥25 kg | 11 | 15.8 (120 %) | 246 (221 %) |
-| 6 through 11 years | Chewable tablet | Weight based dosing | 10 | 22.6 (34 %) | 130 (88 %) |
-| 2 through 5 years | Chewable tablet | Weight based dosing | 12 | 18.0 (59 %) | 71 (55 %) |
-| †Number of patients with intensive pharmacokinetic (PK) results at the final recommended dose. ‡Patients in this age group received approximately 8 mg/kg dose at time of intensive PK which met PK and safety targets. Based on review of the individual profiles and receipt of a mean dose of 390 mg, 400 mg twice daily was selected as the recommended dose for this age group. |  |  |  |  |  |
+| ≥25 kg | Film-coated tablet | 400 mg twice daily | 18 | 14.1 (121 %) | 233 (157 %) |
+| ≥25 kg | Chewable tablet | Weight based dosing, see dosing tables for the chewable tablet | 9 | 22.1 (36 %) | 113 (80 %) |
+| 11 to less than 25 kg | Chewable tablet | Weight based dosing, see dosing tables for the chewable tablet | 13 | 18.6 (68 %) | 82 (123 %) |
+| 3 to less than 20 kg | Oral suspension | Weight based dosing, see dosing table for granules for oral suspension | 19 | 24.5 (43 %) | 113 (69 %) |
+| *Number of patients with intensive pharmacokinetic (PK) results at the final recommended dose. †Geometric coefficient of variation. |  |  |  |  |  |
 
-The pharmacokinetics of raltegravir in children under 2 years of age has not been established.
+The pharmacokinetics of raltegravir in infants under 4 weeks of age has not been established.
 
 Elderly
 There was no clinically meaningful effect of age on raltegravir pharmacokinetics over the age range studied (19 to 71 years, with few (8) subjects over the age of 65).
@@ -82,18 +84,32 @@ The effect of severe hepatic insufficiency on the pharmacokinetics of raltegravi
 
 [ISENTRESS 100 mg chewable tablets]
 
-Table 6 displays pharmacokinetic parameters in the 400 mg tablet (6 through 18 years of age) and the chewable tablet (2 through 11 years of age).
+Table 8 displays pharmacokinetic parameters in the 400 mg tablet, the chewable tablet), and the granules for oral suspension, by body weight.
 
-Table 6: Raltegravir Pharmacokinetic Parameters IMPAACT P1066
+Table 8
 
-| Age | Formulation | Dose | N† | Geometric Mean (%CV) AUC 0-12hr (μM*hr) | Geometric Mean (%CV) C12hr (nM) |
+| Body weight | Formulation | Dose | N* | Geometric mean (%CV†) AUC0-12hr (μM●hr) | Geometric mean (%CV†) C12hr (nM) |
 | --- | --- | --- | --- | --- | --- |
-| 12 through 18 years | 400 mg tablet | 400 mg twice daily, regardless of weight‡ | 11 | 15.7 (98 %) | 333 (78 %) |
-| 6 through 11 years | 400 mg tablet | 400 mg twice daily, for patients ≥25 kg | 11 | 15.8 (120 %) | 246 (221 %) |
-| 6 through 11 years | Chewable tablet | Weight based dosing, see Table 1 | 10 | 22.6 (34 %) | 130 (88 %) |
-| 2 through 5 years | Chewable tablet | Weight based dosing, see Table 1 | 12 | 18.0 (59 %) | 71 (55 %) |
-| †Number of patients with intensive pharmacokinetic (PK) results at the final recommended dose. ‡Patients in this age group received approximately 8 mg/kg dose at time of intensive PK which met PK and safety targets. Based on review of the individual profiles and receipt of a mean dose of 390 mg, 400 mg twice daily was selected as the recommended dose for this age group. |  |  |  |  |  |
+| ≥25 kg | Film-coated tablet | 400 mg twice daily | 18 | 14.1 (121 %) | 233 (157 %) |
+| ≥25 kg | Chewable tablet | Weight based dosing, see dosing Table 1 | 9 | 22.1 (36 %) | 113 (80 %) |
+| 11 to less than 25 kg | Chewable tablet | Weight based dosing, see dosing Table 2 | 13 | 18.6 (68 %) | 82 (123 %) |
+| 3 to less than 20 kg | Oral suspension | Weight based dosing, see dosing table for granules for oral suspension | 19 | 24.5 (43 %) | 113 (69 %) |
+| *Number of patients with intensive pharmacokinetic (PK) results at the final recommended dose. †Geometric coefficient of variation. |  |  |  |  |  |
 
 [ISENTRESS 25 mg chewable tablets]
 
-(all sentences already above)
+In this study, administration of the chewable tablet with a high fat meal led to an average 6 % decrease in AUC, 62 % decrease in Cmax, and 188 % increase in C12hr compared to administration in the fasted state.
+
+[ISENTRESS 100 mg granules for oral suspension]
+
+Table 7 displays pharmacokinetic parameters in the 400 mg tablet, the chewable tablet, and the granules for oral suspension, by body weight.
+
+Table 7
+
+| Body weight | Formulation | Dose | N* | Geometric mean (%CV†) AUC0-12hr (μM●hr) | Geometric mean (%CV†) C12hr (nM) |
+| --- | --- | --- | --- | --- | --- |
+| ≥25 kg | Film-coated tablet | 400 mg twice daily | 18 | 14.1 (121 %) | 233 (157 %) |
+| ≥25 kg | Chewable tablet | Weight based dosing, see dosing tables for the chewable tablet | 9 | 22.1 (36 %) | 113 (80 %) |
+| 11 to less than 25 kg | Chewable tablet | Weight based dosing, see dosing tables for the chewable tablet | 13 | 18.6 (68 %) | 82 (123 %) |
+| 3 to less than 20 kg | Oral suspension | Weight based dosing, see dosing Table 1 | 19 | 24.5 (43 %) | 113 (69 %) |
+| *Number of patients with intensive pharmacokinetic (PK) results at the final recommended dose. †Geometric coefficient of variation. |  |  |  |  |  |

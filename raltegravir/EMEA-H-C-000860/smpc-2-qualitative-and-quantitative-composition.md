@@ -17,3 +17,10 @@ Excipient with known effect: Each chewable tablet contains approximately 0.93 mg
 Each chewable tablet contains 25 mg of raltegravir (as potassium).
 
 Excipient with known effect: Each chewable tablet contains approximately 0.46 mg fructose, approximately 0.05 mg phenylalanine (as a component of aspartame) and approximately 1.4 mg sorbitol.
+
+[ISENTRESS 100 mg granules for oral suspension]
+
+Each sachet contains 100 mg of raltegravir (as potassium).
+Following reconstitution the oral suspension has a concentration of 20 mg per ml.
+
+Excipients with known effect: Each sachet contains approximately: 0.5 mg fructose, 1.5 mg sorbitol and 4.7 mg sucrose.

@@ -11,37 +11,41 @@ Tablet core
 
 Film-coating
 - Polyvinyl alcohol
-- Titanium dioxide (E171)
+- Titanium dioxide
 - Polyethylene glycol 3350
 - Talc
-- Red iron oxide (E172)
-- Black iron oxide (E172)
+- Red iron oxide
+- Black iron oxide
 
 [ISENTRESS 100 mg chewable tablets]
 
-- Hydroxypropyl cellulose (E463)
-- Sucralose (E955)
-- Saccharin sodium (E954)
-- Sodium citrate dihydrate (E331)
-- Mannitol (E421)
-- Licorice extract
+- Hydroxypropyl cellulose
+- Sucralose
+- Saccharin sodium
+- Sodium citrate dihydrate
+- Mannitol
+- Monoammonium glycyrrhizinate
 - Sorbitol (E420)
 - Fructose
 - Banana flavour
 - Orange flavour
 - Masking flavour
 - Aspartame (E951)
-- Crospovidone, (E1202)
-- Sodium stearyl fumarate (E470a)
-- Magnesium stearate (E470b)
-- Hypromellose 2910/6cP (E464)
-- Macrogol/PEG 400 (E1521)
-- Ethylcellulose 20 cP (E462)
-- Ammonium hydroxide (E527)
+- Crospovidone, Type A
+- Sodium stearyl fumarate- Magnesium stearate
+- Hypromellose 2910/6cP
+- Macrogol/PEG 400
+- Ethylcellulose 20 cP
+- Ammonium hydroxide
 - Medium chain triglycerides
 - Oleic acid
-- Yellow iron oxide (E172)
+- Yellow iron oxide
 
 [ISENTRESS 25 mg chewable tablets]
 
 (all sentences already above)
+
+[ISENTRESS 100 mg granules for oral suspension]
+
+- Sucrose
+- Carmellose sodium
