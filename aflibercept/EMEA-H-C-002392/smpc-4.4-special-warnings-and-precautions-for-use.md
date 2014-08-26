@@ -18,6 +18,7 @@ Systemic effects
 Systemic adverse events including non-ocular haemorrhages and arterial thromboembolic events have been reported following intravitreal injection of VEGF inhibitors and there is a theoretical risk that these may relate to VEGF inhibition.
 There are limited data on safety in the treatment of patients with CRVO or DME with a history of stroke or transient ischaemic attacks or myocardial infarction within the last 6 months.
 Caution should be exercised when treating such patients.
+
 Other
 As with other intravitreal anti-VEGF treatments for AMD, CRVO and DME the following also applies:
 

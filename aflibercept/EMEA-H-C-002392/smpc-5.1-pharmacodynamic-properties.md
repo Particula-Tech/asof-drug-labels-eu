@@ -87,39 +87,21 @@ Eylea treatment was shown to be non-inferior and clinically equivalent to the ra
 In the VIEW2 study, at week 52, 95.6% of patients in the Eylea 2Q8 treatment group maintained vision compared to 94.4% patients in the ranibizumab 0.5Q4 group.
 Eylea treatment was shown to be non-inferior and clinically equivalent to the ranibizumab 0.5Q4 group.
 
-Detailed results from the combined analysis of both studies are shown in the Table 3 and Figure 1below.
+Detailed results from the combined analysis of both studies are shown in the Table 3 and Figure 1 below.
 Table 3: Efficacy outcomes at week 52 (primary analysis) and week 96; combined data from the
 VIEW1 and VIEW2 studiesB)
 
-Efficacy Outcome Eylea 2Q8 E) Ranibizumab 0.5Q4
-(Eylea 2 mg every 8 weeks (ranibizumab 0.5 mg every
-following 3 initial monthly 4 weeks)
-doses)
-(N = 607) (N = 595)
-Week 52 Week 96G) Week 52 Week 96G)
-Mean number of injections 7.6 11.2 12.3 16.5
-from baseline
-Mean number of injections
-during second year (Week 4.2 4.7
-52 to 96)
-Proportion of patients with
-maintained visual acuity 95.33%B) 92.42% 94.42% B) 91.60%
-(< 15 letters of BCVAA)
-loss) (Per Protocol Set)
-DifferenceC) 0.9% 0.8%
-(95% CI)D) (-1.7, 3.5)F) (-2.3, 3.8)F)
-Mean change in BCVA as
-measured by ETDRSA) 8.40 7.62 8.74 7.89
-letter score from baseline
-Difference in LS A)
-mean change (ETDRS -0.32 0.25
-letters)C) (-1.87, 1.23) (-1.98, 1.49)
-(95% CI)D)
-Proportion of patients who
-gained at least 15 letters of 30.97% 33.44% 32.44% 31.60%
-vision from baseline
-DifferenceC) -1.5% 1.8%
-(95% CI)D) (-6.8, 3.8) (-3.5, 7.1)
+| Efficacy Outcome | Eylea 2Q8 E) (Eylea 2 mg every 8 weeks following 3 initial monthly doses) (N = 607) |  | Ranibizumab 0.5Q4 (ranibizumab 0.5 mg every 4 weeks) (N = 595) |  |
+| --- | --- | --- | --- | --- |
+|  | Week 52 | Week 96G) | Week 52 | Week 96G) |
+| Mean number of injections from baseline | 7.6 | 11.2 | 12.3 | 16.5 |
+| Mean number of injections during second year (Week 52 to 96) |  | 4.2 |  | 4.7 |
+| Proportion of patients with maintained visual acuity (< 15 letters of BCVAA) loss) (Per Protocol Set) | 95.33%B) | 92.42% | 94.42% B) | 91.60% |
+| DifferenceC) (95% CI)D) | 0.9% (-1.7, 3.5)F) | 0.8% (-2.3, 3.8)F) |  |  |
+| Mean change in BCVA as measured by ETDRSA) letter score from baseline | 8.40 | 7.62 | 8.74 | 7.89 |
+| Difference in LS A) mean change (ETDRS letters)C) (95% CI)D) | -0.32 (-1.87, 1.23) | 0.25 (-1.98, 1.49) |  |  |
+| Proportion of patients who gained at least 15 letters of vision from baseline | 30.97% | 33.44% | 32.44% | 31.60% |
+| DifferenceC) (95% CI)D) | -1.5% (-6.8, 3.8) | 1.8% (-3.5, 7.1) |  |  |
 
 A) BCVA: Best Corrected Visual Acuity
 ETDRS: Early Treatment Diabetic Retinopathy Study
@@ -256,7 +238,7 @@ Table 5: Efficacy Outcomes at Week 52 (Full Analysis Set with LOCF) in VIVIDDME 
 |  | 2 mg Q8 A | 2 mg Q4 | (laser) | 2 mg Q8 A | 2 mg Q4 | (laser) |
 |  | (N = 135) | (N = 136) | (N = 132) | (N = 151) | (N = 154) | (N = 154) |
 | Mean change in BCVA as measured by ETDRS E letter score from Baseline | 10.7 | 10.5 | 1.2 | 10.7 | 12.5 | 0.2 |
-| Difference in LS mean B,C,E (97.5% CI) | 9.1 (6.3, 11.8) | 9.3 (6.5, 12.0) |  | 10.45 (7.7, 13.2) | 12.19 (9.4, 15.0) |  |
+| Difference in LS mean B,C,E (97.5% CI) | 9.1 (6.3 11.8) | 9.3 (6.5, 12.0) |  | 10.45 (7.7, 13.2) | 12.19 (9.4, 15.0) |  |
 | Proportion of patients who gained at least 15 letters in BCVA E from Baseline | 33% | 32% | 9% | 31% | 42% | 8% |
 | Adjusted Difference D,C,E (97.5% CI) | 24% (13.5, 34.9) | 23% (12.6, 33.9) |  | 23% (13.5, 33.1) | 34% (24.1, 44.4) |  |
 
@@ -310,8 +292,6 @@ In patients treated with Eylea (one injection every month for six months) there 
 
 In patients treated with Eylea, rapid and robust response in morphology (central retinal thickness
 [CRT]) as assessed by OCT was seen soon after treatment initiation.
-
-Detailed results from the combined analysis of both studies are shown in the Table 3 and Figure 1 below.
 
 | Efficacy Outcome | Eylea 2Q8 E) (Eylea 2 mg every 8 weeks following 3 initial monthly doses) (N = 607) |  | Ranibizumab 0.5Q4 (ranibizumab 0.5 mg every 4 weeks) (N = 595) |  |
 | --- | --- | --- | --- | --- |

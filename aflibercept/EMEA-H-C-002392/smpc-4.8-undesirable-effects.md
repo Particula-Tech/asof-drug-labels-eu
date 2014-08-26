@@ -7,7 +7,7 @@ Among those, 2,198 patients were treated with the recommended dose of 2 mg.
 
 Serious adverse reactions related to the injection procedure have occurred in less than 1 in 2,600 intravitreal injections with Eylea and included cataract, retinal detachment, vitreous detachment, endophthalmitis, and intraocular pressure increased (see section 4.4).
 
-The most frequently observed adverse reactions (in at least 5% of patients treated with Eylea) were conjunctival haemorrhage (25.3%), eye pain (10.2%), intraocular pressure increased (7.3%), vitreous detachment (7.0%), vitreous floaters (6.9%) and cataract (6.9%).
+The most frequently observed adverse reactions (in at least 5% of patients treated with Eylea) were conjunctival haemorrhage (25.3%), visual acuity reduced (11.2%), eye pain (10.2%), intraocular pressure increased (7.3%), vitreous detachment (7.0%), vitreous floaters (6.9%) and cataract (6.9%).
 
 Tabulated list of adverse reactions
 
@@ -23,7 +23,7 @@ Table 1: All treatment-emergent adverse drug reactions reported in patients in p
 | System Organ Class | Very common | Common | Uncommon | Rare |
 | --- | --- | --- | --- | --- |
 | Immune system disorders |  |  | Hypersensitivity*** |  |
-| Eye disorders | Conjunctival haemorrhage, Eye pain | Retinal pigment epithelium tear*, Detachment of the retinal pigment epithelium, Retinal degeneration, Vitreous haemorrhage, Cataract, Cataract nuclear, Cataract subcapsular, Cataract cortical, Corneal erosion, Corneal abrasion, Intraocular pressure increased, Vision blurred, Vitreous floaters, Corneal oedema, Vitreous detachment, Injection site pain, Foreign body sensation in eyes, Lacrimation increased, Eyelid oedema, Injection site haemorrhage, Punctate keratitis, Conjunctival hyperaemia, Ocular hyperaemia | Endophthalmitis**, Retinal detachment, Retinal tear, Iritis, Uveitis, Iridocyclitis, Lenticular opacities, Corneal epithelium defect, Injection site irritation, Abnormal sensation in eye, Eyelid irritation, Anterior chamber flare | Vitritis Hypopyon |
+| Eye disorders | Conjunctival haemorrhage, Visual acuity reduced, Eye pain | Retinal pigment epithelium tear*, Detachment of the retinal pigment epithelium, Retinal degeneration, Vitreous haemorrhage, Cataract, Cataract nuclear, Cataract subcapsular, Cataract cortical, Corneal erosion, Corneal abrasion, Intraocular pressure increased, Vision blurred, Vitreous floaters, Corneal oedema, Vitreous detachment, Injection site pain, Foreign body sensation in eyes, Lacrimation increased, Eyelid oedema, Injection site haemorrhage, Punctate keratitis, Conjunctival hyperaemia, Ocular hyperaemia | Blindness, Endophthalmitis**, Retinal detachment, Retinal tear, Iritis, Uveitis, Iridocyclitis, Lenticular opacities, Corneal epithelium defect, Injection site irritation, Abnormal sensation in eye, Eyelid irritation, Anterior chamber flare | Vitritis Hypopyon |
 
 * Conditions known to be associated with wet AMD.
 Observed in the wet AMD studies only.
@@ -58,7 +58,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 Among those,
 2,198 patients were treated with the recommended dose of 2 mg.
 
-The most frequently observed adverse reactions (in at least 5% of patients treated with Eylea) were conjunctival haemorrhage (25.3 %), eye pain (10.2%), intraocular pressure increased (7.3%), vitreous detachment (7.0%), vitreous floaters (6.9%) and cataract (6.9%).
+The most frequently observed adverse reactions (in at least 5% of patients treated with Eylea) were conjunctival haemorrhage (25.3 %), visual acuity reduced (11.2%), eye pain (10.2%), intraocular pressure increased (7.3%), vitreous detachment (7.0%), vitreous floaters (6.9%) and cataract (6.9%).
 
 The incidence of ATEs in the phase III CRVO studies (GALILEO and COPERNICUS) during the 76/100 weeks study duration was 0.6% (2 out of 317) in patients treated with at least one dose of
 Eylea compared to 1.4% (2 out of 142) in the group of patients receiving only sham treatment (see section 5.1).
