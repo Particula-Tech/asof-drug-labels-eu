@@ -1,8 +1,13 @@
 # 5.2 Pharmacokinetic properties
 
-Plasma concentrations were obtained from a subset of 21 patients in the two, 6-month efficacy studies prior to dosing and on day 7, 30, 60, and 90 following the intravitreal implant containing 350 µg or 700 µg dexamethasone.
+Plasma concentrations were obtained from a subset of 21 patients in the two RVO, 6-month efficacy studies prior to dosing and on days 7, 30, 60, and 90 following intravitreal injection of a single intravitreal implant containing 350 µg or 700 µg dexamethasone.
 Ninety-five percent of the plasma dexamethasone concentration values for the 350 µg dose group and 86% for the 700 µg dose group were below the lower limit of quantitation (0.05 ng/ml).
 The highest plasma concentration value of 0.094 ng/ml was observed in one subject from the 700 µg group.
+Plasma dexamethasone concentration did not appear to be related to age, body weight, or sex of patients.
+
+Plasma concentrations were obtained from a subgroup of patients in the two DME pivotal studies prior to dosing and on days 1, 7, and 21, and months 1.5 and 3 following intravitreal injection of a single intravitreal implant containing 350 µg or 700 µg dexamethasone.
+One hundred percent of the plasma dexamethasone concentration values for the 350 µg dose group and 90% for the 700 µg dose group were below the lower limit of quantitation (0.05 ng/ml).
+The highest plasma concentration value of 0.102 ng/ml was observed in 1 subject from the 700 µg group.
 Plasma dexamethasone concentration did not appear to be related to age, body weight, or sex of patients.
 
 In a 6-month monkey study following a single intravitreal injection of OZURDEX the dexamethasone vitreous humour Cmax was 100 ng/ml at day 42 post-injection and 5.57 ng/ml at day 91.

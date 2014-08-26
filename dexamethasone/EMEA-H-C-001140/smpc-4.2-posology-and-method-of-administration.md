@@ -6,11 +6,18 @@ Posology
 The recommended dose is one OZURDEX implant to be administered intra-vitreally to the affected eye.
 Administration to both eyes concurrently is not recommended (see section 4.4).
 
+DME
+Patients treated with OZURDEX who have experienced an initial response and in the physician’s opinion may benefit from retreatment without being exposed to significant risk should be considered for retreatment.
+
+Retreatment may be performed after approximately 6 months if the patient experiences decreased vision and/or an increase in retinal thickness, secondary to recurrent or worsening diabetic macular oedema.
+
+There is currently no experience of the efficacy or safety of repeat administrations in DME beyond 7 implants.
+
+RVO and Uveitis
 Repeat doses should be considered when a patient experiences a response to treatment followed subsequently by a loss in visual acuity and in the physician’s opinion may benefit from retreatment without being exposed to significant risk (see section 5.1).
 
 Patients who experience and retain improved vision should not be retreated.
-Patients who experience a deterioration in vision, which is not slowed by OZURDEX, should not be retreated.
-
+Patients who experience deterioration in vision, which is not slowed by OZURDEX, should not be retreated.
 There is only very limited information on repeat dosing intervals less than 6 months (see section 5.1).
 There is currently no experience of repeat administrations in posterior segment non-infectious uveitis or beyond 2 implants in Retinal Vein Occlusion.
 
@@ -19,14 +26,19 @@ Patients should be monitored following the injection to permit early treatment i
 Special populations
 Elderly (≥65 years old)
 No dose adjustment is required for elderly patients.
+
 Renal impairment
 OZURDEX has not been studied in patients with renal impairment however no special considerations are needed in this population.
 
 Hepatic impairment
-OZURDEX has not been studied in patients with hepatic impairment, however no special considerations are needed in this population.
+OZURDEX has not been studied in patients with hepatic impairment; however no special considerations are needed in this population.
 
 Paediatric population
-There is no relevant use of OZURDEX in the paediatric population in macular oedema following either Branch Retinal Vein Occlusion (BRVO) or Central Retinal Vein Occlusion (CRVO).
+There is no relevant use of OZURDEX in the paediatric population in
+
+- diabetic macular oedema
+- macular oedema following either Branch Retinal Vein Occlusion (BRVO) or Central Retinal Vein Occlusion (CRVO)
+
 The safety and efficacy of OZURDEX in uveitis in the paediatric population have not been established.
 No data are available.
 
@@ -53,5 +65,4 @@ Remove the needle in the same direction as used to enter the vitreous.
 Immediately after injecting OZURDEX, use indirect ophthalmoscopy in the quadrant of injection to confirm successful implantation.
 Visualisation is possible in the large majority of cases.
 In cases in which the implant cannot be visualised, take a sterile cotton bud and lightly depress over the injection site to bring the implant into view.
-
 Following the intravitreal injection patients should continue to be treated with a broad spectrum antimicrobial.
