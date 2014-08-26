@@ -2,9 +2,10 @@
 
 Treatment should be initiated under supervision of a physician experienced in the treatment of the disease.
 
+Posology
+
 Adults: The recommended dosage for the treatment of relapsing MS is 30 micrograms (1 ml solution), administered by intramuscular (IM) injection once a week (see section 6.6).
 No additional benefit has been shown by administering a higher dose (60 micrograms) once a week.
-
 Titration: To help patients reduce the incidence and severity of flu-like symptoms (see section 4.8), titration can be performed at the initiation of treatment.
 Titration using the BIOSET or pre-filled syringe can be achieved by initiating therapy on ¼ dose increments per week reaching the full dose (30 micrograms/week) by the fourth week.
 
@@ -23,6 +24,8 @@ No data are available
 Elderly: Clinical studies did not include a sufficient number of patients aged 65 and over to determine whether they respond differently than younger patients.
 However, based on the mode of clearance of the active substance there are no theoretical reasons for any requirement for dose adjustments in the elderly.
 
+Method of administration
+
 The intramuscular injection site should be varied each week (see section 5.3).
 
 Doctors may prescribe a 25 mm, 25 gauge needle to patients for whom such a needle is appropriate to administer an intramuscular injection.
@@ -30,6 +33,8 @@ Doctors may prescribe a 25 mm, 25 gauge needle to patients for whom such a needl
 At the present time, it is not known for how long patients should be treated.
 Patients should be clinically evaluated after two years of treatment and longer-term treatment should be decided on an individual basis by the treating physician.
 Treatment should be discontinued if the patient develops chronic progressive MS.
+
+For instructions on reconstitution of the medicinal product before administration, see section 6.6.
 
 [AVONEX 30 micrograms/0.5 ml solution for injection.]
 

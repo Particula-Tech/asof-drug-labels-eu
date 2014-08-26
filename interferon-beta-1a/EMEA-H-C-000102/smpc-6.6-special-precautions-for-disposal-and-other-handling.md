@@ -11,13 +11,13 @@ The formulation does not contain a preservative.
 Each vial of AVONEX contains a single dose only.
 Discard the unused portion of any vial.
 
-Any unused product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 [AVONEX 30 micrograms/0.5 ml solution for injection.]
 
 AVONEX is provided as ready to use solution for injection in a pre-filled syringe.
 
-Once removed from the refrigerator, AVONEX in a pre-filled syringe should be allowed to warm to room temperature (15 °C -30 °C) for about 30 minutes.
+Once removed from the refrigerator, AVONEX in a pre-filled syringe should be allowed to warm to room temperature (15°C - 30°C) for about 30 minutes.
 
 Do not use external heat sources such as hot water to warm AVONEX 30 micrograms solution for injection.
 
@@ -30,7 +30,7 @@ Discard the unused portion of any pre-filled syringe.
 
 For single-use only: The solution for injection in a pre-filled syringe is contained within the AVONEX PEN.
 
-Once removed from the refrigerator, the AVONEX PEN should be allowed to warm to room temperature (15 °C to 30 °C) for about 30 minutes.
+Once removed from the refrigerator, the AVONEX PEN should be allowed to warm to room temperature (15°C to 30°C) for about 30 minutes.
 
 Each single-use, disposable, pre-filled pen contains a single dose of AVONEX.
 The solution for injection can be observed through an oval medication display window on the AVONEX PEN.

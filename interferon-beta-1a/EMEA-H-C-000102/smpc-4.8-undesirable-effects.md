@@ -32,6 +32,7 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | not known | weight decreased, weight increased, liver function tests abnormal |
 | Cardiac disorders not known | cardiomyopathy, congestive heart failure (see section 4.4), palpitations, arrhythmia, tachycardia |
 | Blood and lymphatic system disorders not known | pancytopenia, thrombocytopenia |
+| rare | thrombotic microangiopathy including thrombotic thrombocytopenic purpura/haemolytic uraemic syndrome.* |
 | Nervous system disorders very common | headache2 |
 | common | muscle spasticity, hypoesthesia |
 | not known | neurological symptoms, syncope3, hypertonia, dizziness, paraesthesia, seizures, migraine |
@@ -43,6 +44,7 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | not known | angioneurotic oedema, pruritus, rash vesicular, urticaria, aggravation of psoriasis |
 | Musculoskeletal and connective tissue disorders common | muscle cramp, neck pain, myalgia2, arthralgia, pain in extremity, back pain, muscle stiffness, musculoskeletal stiffness |
 | not known | systemic lupus erythematosus, muscle weakness, arthritis |
+| Renal and urinary disorders rare | nephrotic syndrome, glomerulosclerosis (see section 4.4 ‘special warnings and precautions’) |
 | Endocrine disorders not known | hypothyroidism, hyperthyroidism |
 | Metabolism and nutrition disorders common | anorexia |
 | Infections and infestations not known | injection site abscess1 |
@@ -58,10 +60,20 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Psychiatric disorders common | depression (see section 4.4), insomnia |
 | not known | suicide, psychosis, anxiety, confusion, emotional lability |
 
+*Class label for interferon beta products (see section 4.4).
+
 1Injection site reactions including pain, inflammation and very rare cases of abscess or cellulitis that may require surgical intervention have been reported.
 
 2The frequency of occurrence is higher at the beginning of treatment.
 
 3A syncope episode may occur after AVONEX injection, it is normally a single episode that usually appears at the beginning of the treatment and does not recur with subsequent injections.
 
-Paediatric population: Limited published data suggest that the safety profile in adolescents from 12 to 16 years of age receiving AVONEX 30 micrograms IM once per week is similar to that seen in adults.
+Paediatric population
+
+Limited published data suggest that the safety profile in adolescents from 12 to 16 years of age receiving AVONEX 30 micrograms IM once per week is similar to that seen in adults.
+
+Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

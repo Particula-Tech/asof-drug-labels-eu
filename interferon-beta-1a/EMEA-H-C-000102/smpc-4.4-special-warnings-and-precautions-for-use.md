@@ -6,9 +6,21 @@ Patients should be advised to immediately report any symptoms of depression and/
 
 Patients exhibiting depression should be monitored closely during therapy and treated appropriately.
 Cessation of therapy with AVONEX should be considered (see also sections 4.3 and 4.8).
-
 AVONEX should be administered with caution to patients with a history of seizures, to those receiving treatment with anti-epileptics, particularly if their epilepsy is not adequately controlled with anti-epileptics (see sections 4.5 and 4.8).
+
 Caution should be used and close monitoring considered when administering AVONEX to patients with severe renal and hepatic failure and to patients with severe myelosuppression.
+
+Thrombotic microangiopathy (TMA): Cases of thrombotic microangiopathy, manifested as thrombotic thrombocytopenic purpura (TTP) or haemolytic uraemic syndrome (HUS), including fatal cases, have been reported with interferon beta products.
+Events were reported at various time points during treatment and may occur several weeks to several years after starting treatment with interferon beta.
+Early clinical features include thrombocytopenia, new onset hypertension, fever, central nervous system symptoms (e.g. confusion, paresis) and impaired renal function.
+Laboratory findings suggestive of TMA include decreased platelet counts, increased serum lactate dehydrogenase (LDH) due to haemolysis and schistocytes (erythrocyte fragmentation) on a blood film.
+Therefore if clinical features of TMA are observed, further testing of blood platelet levels, serum LDH, blood films and renal function is recommended.
+If TMA is diagnosed, prompt treatment is required (considering plasma exchange) and immediate discontinuation of Avonex is recommended.
+
+Nephrotic Syndrome: Cases of nephrotic syndrome with different underlying nephropathies including collapsing focal segmental glomerulosclerosis (FSGS), minimal change disease (MCD), membranoproliferative glomerulonephritis (MPGN) and membranous glomerulopathy (MGN) have been reported during treatment with interferon-beta products.
+Events were reported at various time points during treatment and may occur after several years of treatment with interferon-beta.
+Periodic monitoring of early signs or symptoms, e.g. oedema, proteinuria and impaired renal function is recommended, especially in patients at higher risk of renal disease.
+Prompt treatment of nephrotic syndrome is required and discontinuation of treatment with Avonex should be considered.
 
 Hepatic injury including elevated serum hepatic enzyme levels, hepatitis, autoimmune hepatitis and hepatic failure has been reported with interferon beta in post-marketing (see section 4.8).
 In some cases, these reactions have occurred in the presence of other medicinal products that have been associated with hepatic injury.
@@ -27,7 +39,6 @@ The antibodies of some of those patients reduce the activity of interferon beta-
 Neutralising antibodies are associated with a reduction in the in vivo biological effects of AVONEX and may potentially be associated with a reduction of clinical efficacy.
 It is estimated that the plateau for the incidence of neutralising antibody formation is reached after 12 months of treatment.
 Data from patients treated up to two years with AVONEX suggests that approximately 8% develop neutralising antibodies.
-
 The use of various assays to detect serum antibodies to interferons limits the ability to compare antigenicity among different products.
 
 [AVONEX 30 micrograms/0.5 ml solution for injection.]

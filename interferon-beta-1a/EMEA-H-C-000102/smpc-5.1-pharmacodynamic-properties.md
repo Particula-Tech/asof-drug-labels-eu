@@ -13,6 +13,7 @@ Interferon beta is produced by various cell types including fibroblasts and macr
 Natural interferon beta and AVONEX (interferon beta-1a) are glycosylated and have a single N-linked complex carbohydrate moiety.
 Glycosylation of other proteins is known to affect their stability, activity, biodistribution, and half-life in blood.
 However, the effects of interferon beta that are dependent on glycosylation are not fully defined.
+Mechanism of action
 
 AVONEX exerts its biological effects by binding to specific receptors on the surface of human cells.
 This binding initiates a complex cascade of intracellular events that leads to the expression of numerous interferon-induced gene products and markers.
@@ -22,6 +23,8 @@ Some of these products have been measured in the serum and cellular fractions of
 After a single intramuscular dose of AVONEX, serum levels of these products remain elevated for at least four days and up to one week.
 
 Whether the mechanism of action of AVONEX in MS is mediated by the same pathway as the biological effects described above is not known because the pathophysiology of MS is not well established.
+
+Clinical efficacy and safety
 
 The effects of lyophilised AVONEX in the treatment of MS were demonstrated in a placebo-controlled study of 301 patients (AVONEX n=158, placebo n=143) with relapsing MS characterised by at least 2 exacerbations in the previous 3 years or at least one exacerbation per year prior to entry when the duration of the disease was less than 3 years.
 Patients with an EDSS of 1.0 to 3.5 at entry were included in the clinical trial.
@@ -44,12 +47,12 @@ However, the impact of early treatment with AVONEX is unknown even in this high-
 Furthermore, for the time-being there is no well established definition of a high risk patient although a more conservative approach is to accept at least nine T2 hyperintense lesions on the initial scan and at least one new T2 or one new Gd-enhancing lesion on a follow-up scan taken at least three months after the initial scan.
 In any case, treatment should only be considered for patients classified at high risk.
 
-Paediatric population: Limited data of the efficacy/safety of AVONEX 15 micrograms IM once per week (n=8) as compared to no treatment (n=8) with follow up for 4 years showed results in line to those seen in adults, although the EDSS scores increased in the treated group over the 4 year follow-up thus indicating disease progression.
+Paediatric population
+
+Limited data of the efficacy/safety of AVONEX 15 micrograms IM once per week (n=8) as compared to no treatment (n=8) with follow up for 4 years showed results in line to those seen in adults, although the EDSS scores increased in the treated group over the 4 year follow-up thus indicating disease progression.
 No direct comparison with the dose currently recommended in adults is available.
 
 [AVONEX 30 micrograms/0.5 ml solution for injection.]
-
-Pharmacotherapeutic Group: Interferons, ATC code : L03 AB07.
 
 Interferons are cytokines that mediate antiviral, antiproliferative, and immunomodulatory activities.
 Three major forms of interferons have been distinguished: alpha, beta, and gamma.
