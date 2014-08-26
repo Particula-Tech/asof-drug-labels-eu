@@ -22,7 +22,7 @@ Table 1 Adverse reactions reported in patients with osteoporosis and breast or p
 | Eye disorders | Common | Cataracts1 |
 | Gastrointestinal disorders | Common Common | Constipation Abdominal discomfort |
 | Skin and subcutaneous tissue disorders | Common Common | Rash Eczema |
-| Musculoskeletal and connective tissue disorders | Very common Rare Rare | Pain in extremity Osteonecrosis of the jaw1 Atypical femoral fractures1 |
+| Musculoskeletal and connective tissue disorders | Very common Very common Rare Rare | Pain in extremity Musculoskeletal pain1 Osteonecrosis of the jaw1 Atypical femoral fractures1 |
 
 1 See section Description of selected adverse reactions
 
@@ -35,7 +35,9 @@ Hypocalcaemia
 In two phase III placebo-controlled clinical trials in postmenopausal women with osteoporosis, approximately 0.05% (2 out of 4,050) of patients had declines of serum calcium levels (less than 1.88 mmol/l) following Prolia administration.
 Declines of serum calcium levels (less than 1.88 mmol/l) were not reported in either the two phase III placebo-controlled clinical trials in patients receiving hormone ablation or the phase III placebo-controlled clinical trial in men with osteoporosis.
 
-In the post-marketing setting, rare cases of severe symptomatic hypocalcaemia have been reported in patients at increased risk of hypocalcaemia receiving Prolia.
+In the post-marketing setting, rare cases of severe symptomatic hypocalcaemia have been predominantly reported in patients at increased risk of hypocalcaemia receiving Prolia, with most cases occurring in the first weeks of initiating therapy.
+Examples of the clinical manifestations of severe symptomatic hypocalcaemia have included QT interval prolongation, tetany, seizures and altered mental status (see section 4.4).
+Symptoms of hypocalcaemia in denosumab clinical studies included paresthesias or muscle stiffness, twitching, spasms and muscle cramps.
 
 Skin infections
 In phase III placebo-controlled clinical trials, the overall incidence of skin infections was similar in the placebo and the Prolia groups in postmenopausal women with osteoporosis (placebo [1.2%, 50 out of 4,041] versus Prolia [1.5%, 59 out of 4,050]); in men with osteoporosis (placebo [0.8%, 1 out of 120] versus Prolia [0%, 0 out of 120]) and in breast or prostate cancer patients receiving hormone ablation (placebo [1.7%, 14 out of 845] versus Prolia [1.4%, 12 out of 860]).
@@ -48,6 +50,7 @@ In clinical trials in osteoporosis and in breast or prostate cancer patients rec
 
 Atypical fractures of the femur
 In the osteoporosis clinical trial program, atypical femoral fractures were reported rarely in patients treated with Prolia (see section 4.4).
+
 Cataracts
 In a single phase III placebo-controlled clinical trial in patients with prostate cancer receiving androgen deprivation therapy (ADT) an imbalance in cataract adverse events was observed (4.7% denosumab, 1.2% placebo).
 No imbalance was observed in postmenopausal women or men with osteoporosis or in women undergoing aromatase inhibitor therapy for nonmetastatic breast cancer.
@@ -59,6 +62,11 @@ The incidence of diverticulitis was comparable between treatment groups in postm
 Drug-related hypersensitivity reactions
 In the post-marketing setting, rare events of drug-related hypersensitivity, including rash, urticaria, facial swelling, erythema, and anaphylactic reactions have been reported in patients receiving Prolia.
 
+Musculoskeletal pain
+Musculoskeletal pain, including severe cases, has been reported in patients receiving Prolia in the post-marketing setting.
+In clinical trials, musculoskeletal pain was very common in both denosumab and placebo groups.
+Musculoskeletal pain leading to discontinuation of study treatment was uncommon.
+
 Other special populations
 In clinical studies, patients with severe renal impairment (creatinine clearance < 30 ml/min) or receiving dialysis were at greater risk of developing hypocalcaemia in the absence of calcium supplementation.
 Adequate intake of calcium and vitamin D is important in patients with severe renal impairment or receiving dialysis (see section 4.4).
@@ -69,5 +77,7 @@ It allows continued monitoring of the benefit/risk balance of the medicinal prod
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 [Prolia 60 mg solution for injection]
+
+In the post-marketing setting, rare cases of severe symptomatic hypocalcaemia have been reported predominantly in patients at increased risk of hypocalcaemia receiving Prolia, with most cases occurring in the first weeks of initiating therapy.
 
 In phase III placebo-controlled clinical trials, the overall incidence of skin infections was similar in the placebo and the Prolia groups in postmenopausal women with osteoporosis (placebo [1.2%, 50 out of 4,041] versus Prolia [1.5%, 59 out of 4,050]), in men with osteoporosis (placebo [0.8%, 1 out of 120] versus Prolia [0%, 0 out of 120]) and in breast or prostate cancer patients receiving hormone ablation (placebo [1.7%, 14 out of 845] versus Prolia [1.4%, 12 out of 860]).

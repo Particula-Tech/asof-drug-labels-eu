@@ -11,6 +11,7 @@ Its metabolism and elimination are expected to follow the immunoglobulin clearan
 Elimination
 After Cmax, serum levels declined with a half-life of 26 days (range 6-52 days) over a period of 3 months (range 1.5-4.5 months).
 Fifty-three percent (53%) of patients had no measurable amounts of denosumab detected at 6 months post-dose.
+
 No accumulation or change in denosumab pharmacokinetics with time was observed upon subcutaneous multiple-dosing of 60 mg once every 6 months.
 Denosumab pharmacokinetics was not affected by the formation of binding antibodies to denosumab and was similar in men and women.
 Age (28-87 years), race and disease state (low bone mass or osteoporosis; prostate or breast cancer) do not appear to significantly affect the pharmacokinetics of denosumab.

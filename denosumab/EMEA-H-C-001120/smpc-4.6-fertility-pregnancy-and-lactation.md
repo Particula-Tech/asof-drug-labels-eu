@@ -5,6 +5,7 @@ There are no adequate data from the use of Prolia in pregnant women.
 Reproductive toxicity was shown in a study of cynomolgus monkeys, dosed throughout pregnancy with denosumab at AUC exposures 119-fold higher than the human dose (see section 5.3).
 
 Prolia is not recommended for use in pregnant women.
+
 Women who become pregnant during Prolia treatment are encouraged to enrol in Amgen’s Pregnancy Surveillance programme.
 Contact details are provided in section 6 of the Package Leaflet – Information for the user.
 

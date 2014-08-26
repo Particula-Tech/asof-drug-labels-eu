@@ -6,7 +6,7 @@ The recommended dose of Prolia is 60 mg administered as a single subcutaneous in
 Patients must be adequately supplemented with calcium and vitamin D (see section 4.4).
 
 Patients with renal impairment
-No dose adjustment is required in patients with renal impairment (see sections 4.4 and 5.2).
+No dose adjustment is required in patients with renal impairment (see sections 4.4 for recommendations relating to monitoring of calcium).
 
 Patients with hepatic impairment
 The safety and efficacy of denosumab have not been studied in patients with hepatic impairment (see section 5.2).
