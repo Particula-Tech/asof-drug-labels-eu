@@ -1,5 +1,7 @@
 # 4.4 Special warnings and precautions for use
 
+In order to improve traceability of biological medicinal products, the tradename and the batch number of the administered product should be clearly recorded.
+
 Infections
 
 Patients taking TNF-antagonists are more susceptible to serious infections.
@@ -35,7 +37,6 @@ Prescribers are reminded of the risk of false negative tuberculin skin test resu
 If active tuberculosis is diagnosed, Humira therapy must not be initiated (see section 4.3).
 
 In all situations described below, the benefit/risk balance of therapy should be very carefully considered.
-
 If latent tuberculosis is suspected, a physician with expertise in the treatment of tuberculosis should be consulted.
 
 If latent tuberculosis is diagnosed, appropriate treatment must be started with anti-tuberculosis prophylaxis treatment before the initiation of Humira, and in accordance with local recommendations.
@@ -48,6 +49,7 @@ Some patients who have been successfully treated for active tuberculosis have re
 Patients should be instructed to seek medical advice if signs/symptoms suggestive of a tuberculosis infection (e.g., persistent cough, wasting/weight loss, low grade fever, listlessness) occur during or after therapy with Humira.
 
 Other opportunistic infections:
+
 Opportunistic infections, including invasive fungal infections have been observed in patients receiving Humira.
 These infections have not consistently been recognised in patients taking TNF-antagonists and this resulted in delays in appropriate treatment, sometimes resulting in fatal outcomes.
 
@@ -69,7 +71,6 @@ Neurological events
 
 TNF-antagonists including Humira have been associated in rare instances with new onset or exacerbation of clinical symptoms and/or radiographic evidence of central nervous system demyelinating disease including multiple sclerosis and optic neuritis, and peripheral demyelinating disease, including Guillain-Barré syndrome.
 Prescribers should exercise caution in considering the use of Humira in patients with pre-existing or recent-onset central or peripheral nervous system demyelinating disorders.
-
 Allergic reactions
 
 Serious allergic reactions associated with Humira were rare during clinical trials.
@@ -109,7 +110,6 @@ Melanoma and Merkel cell carcinoma have also been reported in patients treated w
 In an exploratory clinical trial evaluating the use of another TNF-antagonist, infliximab, in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies, mostly in the lung or head and neck, were reported in infliximab-treated patients compared with control patients.
 All patients had a history of heavy smoking.
 Therefore, caution should be exercised when using any TNF-antagonist in COPD patients, as well as in patients with increased risk for malignancy due to heavy smoking.
-
 With current data it is not known if adalimumab treatment influences the risk for developing dysplasia or colon cancer.
 All patients with ulcerative colitis who are at increased risk for dysplasia or colon carcinoma (for example, patients with long-standing ulcerative colitis or primary sclerosing cholangitis), or who had a prior history of dysplasia or colon carcinoma should be screened for dysplasia at regular intervals before therapy and throughout their disease course.
 This evaluation should include colonoscopy and biopsies per local recommendations.
@@ -151,7 +151,6 @@ Serious infections were seen in clinical studies with concurrent use of anakinra
 Because of the nature of the adverse events seen with the combination of etanercept and anakinra therapy, similar toxicities may also result from the combination of anakinra and other TNF-antagonists.
 Therefore, the combination of adalimumab and anakinra is not recommended.
 (See section 4.5).
-
 Concomitant administration of adalimumab with other biologic DMARDS (e.g, anakinra and abatacept) or other TNF-antagonists is not recommended based upon the possible increased risk for infections, including serious infections and other potential pharmacological interactions.
 (See section 4.5).
 
@@ -166,6 +165,7 @@ Small bowel obstruction
 
 Failure to respond to treatment for Crohn’s disease may indicate the presence of fixed fibrotic stricture that may require surgical treatment.
 Available data suggest that Humira does not worsen or cause strictures.
+
 Older people
 The frequency of serious infections among Humira treated subjects over 65 years of age (3.5%) was higher than for those under 65 years of age (1.5%).
 Some of those had a fatal outcome.

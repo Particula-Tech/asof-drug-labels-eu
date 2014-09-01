@@ -1,12 +1,18 @@
 # 4.1 Therapeutic indications
 
+Juvenile idiopathic arthritis
+
 Polyarticular juvenile idiopathic arthritis
 
-Humira in combination with methotrexate is indicated for the treatment of active polyarticular juvenile idiopathic arthritis, in children and adolescents from the age of 2 years who have had an inadequate response to one or more disease-modifying anti-rheumatic drugs (DMARDs).
+Humira in combination with methotrexate is indicated for the treatment of active polyarticular juvenile idiopathic arthritis, in patients from the age of 2 years who have had an inadequate response to one or more disease-modifying anti-rheumatic drugs (DMARDs).
 Humira can be given as monotherapy in case of intolerance to methotrexate or when continued treatment with methotrexate is inappropriate (for the efficacy in monotherapy see section 5.1).
-Humira has not been studied in children aged less than 2 years.
+Humira has not been studied in patients aged less than 2 years.
 
-Paediatric Crohn's Disease
+Enthesitis-related arthritis
+
+Humira is indicated for the treatment of active enthesitis-related arthritis in patients, 6 years of age and older, who have had an inadequate response to, or who are intolerant of, conventional therapy (see section 5.1).
+
+Paediatric Crohn's disease
 
 Humira is indicated for the treatment of severe active Crohn's disease in paediatric patients (from 6 years of age) who have had an inadequate response to conventional therapy including primary nutrition therapy, a corticosteroid, and an immunomodulator, or who are intolerant to or have contraindications for such therapies.
 
@@ -32,6 +38,7 @@ Ankylosing spondylitis(AS)
 Humira is indicated for the treatment of adults with severe active ankylosing spondylitis who have had an inadequate response to conventional therapy.
 
 Axial spondyloarthritis without radiographic evidence of AS
+
 Humira is indicated for the treatment of adults with severe axial spondyloarthritis without radiographic evidence of AS but with objective signs of inflammation by elevated CRP and / or MRI, who have had an inadequate response to, or are intolerant to nonsteroidal anti-inflammatory drugs.
 
 Psoriatic arthritis

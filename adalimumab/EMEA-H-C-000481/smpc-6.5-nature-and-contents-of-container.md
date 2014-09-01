@@ -1,6 +1,7 @@
 # 6.5 Nature and contents of container
 
 Humira 40 mg solution for injection in single-use vial (type I glass), fitted with rubber stoppers, aluminium crimps and flip-off seals.
+
 1 Pack of 2 boxes each containing:
 1 vial (0.8 ml sterile solution), 1 empty sterile injection syringe,1 needle, 1 vial adapter and 2 alcohol pads.
 
