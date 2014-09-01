@@ -3,12 +3,12 @@
 Women of childbearing potential
 Women of childbearing age should be advised to use an effective method of contraception during treatment.
 Daxas is not recommended in women of childbearing potential not using contraception.
-
 Pregnancy
 There are limited amount of data from the use of roflumilast in pregnant women.
 
 Studies in animals have shown reproductive toxicity (see section 5.3).
 Daxas is not recommended during pregnancy.
+
 Roflumilast has been demonstrated to cross the placenta in pregnant rats.
 
 Breastfeeding

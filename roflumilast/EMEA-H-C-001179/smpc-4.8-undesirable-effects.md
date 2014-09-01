@@ -23,7 +23,8 @@ Adverse reactions with roflumilast in clinical COPD studies and post-marketing e
 | Endocrine disorders |  |  | Gynaecomastia |
 | Metabolism and nutrition disorders | Weight decreased Decreased appetite |  |  |
 | Psychiatric disorders | Insomnia | Anxiety | Suicidal ideation and behaviour* Depression Nervousness |
-| Nervous system disorders | Headache | Tremor Vertigo Dizziness | Dysgeusia |
+| Nervous system disorders | Headache | Tremor | Dysgeusia |
+|  |  | Vertigo Dizziness |  |
 | Cardiac disorders |  | Palpitations |  |
 | Respiratory, thoracic and mediastinal disorders |  |  | Respiratory tract infections (excluding Pneumonia) |
 | Gastrointestinal disorders | Diarrhoea Nausea Abdominal pain | Gastritis Vomiting Gastro-esophageal reflux disease Dyspepsia | Haematochezia Constipation |
@@ -35,3 +36,8 @@ Adverse reactions with roflumilast in clinical COPD studies and post-marketing e
 Description of selected adverse reactions
 * In clinical studies and post-marketing experience, rare instances of suicidal ideation and behaviour, including completed suicide, were reported.
 Patients and caregivers should be instructed to notify the prescriber of any suicidal ideation (see also section 4.4).
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

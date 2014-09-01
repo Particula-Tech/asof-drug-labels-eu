@@ -17,7 +17,6 @@ Due to the physico-chemical properties, roflumilast is readily distributed to or
 An early distribution phase with marked penetration into tissues is followed by a marked elimination phase out of fatty tissue most probably due to pronounced break-down of parent compound to roflumilast N-oxide.
 These studies in rats with radiolabeled roflumilast also indicate low penetration across the blood-brain barrier.
 There is no evidence for a specific accumulation or retention of roflumilast or its metabolites in organs and fatty tissue.
-
 Biotransformation
 Roflumilast is extensively metabolised via Phase I (cytochrome P450) and Phase II (conjugation) reactions.
 The N-oxide metabolite is the major metabolite observed in the plasma of humans.
@@ -40,7 +39,7 @@ The pharmacokinetics of roflumilast and its N-oxide metabolite are dose-proporti
 
 Special populations
 
-In elderly, females and in non-Caucasians, total PDE4 inhibitory activity was increased.
+In older people, females and in non-Caucasians, total PDE4 inhibitory activity was increased.
 Total PDE4 inhibitory activity was slightly decreased in smokers.
 None of these changes were considered to be clinically meaningful.
 No dose adjustment is recommended in these patients.

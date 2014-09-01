@@ -8,7 +8,7 @@ Daxas has been studied in clinical trials for up to one year.
 
 Special populations
 
-Elderly (65 years and older)
+Older people (65 years and older)
 No dose adjustment is necessary.
 
 Renal impairment
@@ -17,7 +17,6 @@ No dose adjustment is necessary.
 Hepatic impairment
 The clinical data with Daxas in patients with mild hepatic impairment classified as Child-Pugh A are insufficient to recommend a dose adjustment (see section 5.2) and therefore Daxas should be used with caution in these patients.
 Patients with moderate or severe hepatic impairment classified as Child-Pugh B or C must not take Daxas (see section 4.3).
-
 Paediatric population
 There is no relevant use of Daxas in the paediatric population (under 18 years) in the indication COPD.
 

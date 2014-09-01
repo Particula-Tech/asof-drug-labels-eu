@@ -8,6 +8,7 @@ The mechanism of action is the inhibition of PDE4, a major cyclic adenosine mono
 Roflumilast targets the PDE4A, 4B and 4D splicing variants with similar potency in the nanomolar range.
 The affinity to the PDE4C splicing variants is 5 to 10-fold lower.
 This mechanism of action and the selectivity also apply to roflumilast N-oxide, which is the major active metabolite of roflumilast.
+
 Pharmacodynamic effects
 Inhibition of PDE4 leads to elevated intracellular cAMP levels and mitigates COPD-related malfunctions of leukocytes, airway and pulmonary vascular smooth muscle cells, endothelial and airway epithelial cells and fibroblasts in experimental models.
 Upon in vitro stimulation of human neutrophils, monocytes, macrophages or lymphocytes, roflumilast and roflumilast N-oxide suppress the release of inflammatory mediators e.g. leukotriene B4, reactive oxygen species, tumor necrosis factor α, interferon γ and granzyme B.
@@ -34,13 +35,13 @@ Roflumilast did not significantly reduce the rate of exacerbations compared with
 The reduction of moderate or severe exacerbations with Daxas and LABA compared to placebo and LABA was on average 21% (p=0.0011).
 The respective reduction in exacerbations seen in patients without concomitant LABAs was on average 15% (p=0.0387).
 The numbers of patients who died due to any reason were equal for those treated with placebo or roflumilast (42 deaths each group; 2.7% each group; pooled analysis).
-
 A total of 2,690 patients were included and randomized in two supportive 1-year studies (M2-111 and M2-112).
 In contrast to the two confirmative studies, a history of chronic bronchitis and of COPD exacerbations was not requested for patients’ inclusion.
 Inhaled corticosteroids were used in 809 (61%) of the roflumilast treated patients, whereas the use of LABAs and theophylline was prohibited.
 Daxas 500 micrograms once daily significantly improved lung function compared to placebo, on average by 51 ml (pre-bronchodilator FEV1, p<0.0001), and by 53 ml (post-bronchodilator FEV1, p<0.0001).
 The rate of exacerbations (as defined in the protocols) were not significantly reduced by roflumilast in the individual studies (relative risk reduction: 13.5% in study M2-111 and 6.6% in study M2-112; p= not significant).
 Adverse events rates were independent of concomitant treatment with inhaled corticosteroids.
+
 Two six-month supportive studies (M2-127 and M2-128) included patients with a history of COPD for at least 12 months prior to baseline.
 Both studies included moderate to severe patients with a non-reversible airway obstruction and a FEV1 of 40% to 70% of predicted.
 Roflumilast or placebo treatment was added to continuous treatment with a long-acting bronchodilator, in particular salmeterol in study M2-127 or tiotropium in study M2-128.
