@@ -62,8 +62,8 @@ In the 6-month controlled trials adverse events associated with infusion (select
 Events reported during the infusion were primarily episodes of hypertension; events reported within 24 hours of finishing an infusion were headache and skin reactions (rash, urticaria).
 These events were not treatment limiting.
 
-The rate of anaphylactic reactions (occurring in a total of 6/3,778 patients, 0.2%) was several fold higher with the 4 mg/kg dose, compared to the 8 mg/kg dose.
-Clinically significant hypersensitivity reactions associated with tocilizumab and requiring treatment discontinuation were reported in a total of 13 out of 3,778 patients (0.3%) treated with tocilizumab during the controlled and open label clinical studies.
+The rate of anaphylactic reactions (occurring in a total of 8/4,009 patients, 0.2%) was several fold higher with the 4 mg/kg dose, compared to the 8 mg/kg dose.
+Clinically significant hypersensitivity reactions associated with tocilizumab and requiring treatment discontinuation were reported in a total of 56 out of 4,009 patients (1.4%) treated with tocilizumab during the controlled and open label clinical studies.
 These reactions were generally observed during the second to fifth infusions of tocilizumab (see section 4.4).
 Fatal anaphylaxis has been reported after marketing authorisation during treatment with tocilizumab (see section 4.4).
 
@@ -107,6 +107,9 @@ During the double-blind controlled period and with long-term exposure, the patte
 Malignancies
 The clinical data are insufficient to assess the potential incidence of malignancy following exposure to tocilizumab.
 Long-term safety evaluations are ongoing.
+
+Skin Reactions
+Very rare reports of Stevens-Johnson Syndrome have occurred in the post marketing setting.
 
 Paediatric population
 
@@ -153,7 +156,6 @@ The frequency of ADRs in pJIA patients can be found in Table 2 .
 The types of ADRs in pJIA patients were similar to those seen in RA and sJIA patients, see section 4.8.
 When compared to the adult RA population, events of nasopharyngitis, headache, nausea, and decreased neutrophil count were more frequently reported in the pJIA population.
 Events of cholesterol increased were less frequently reported in the pJIA population than in the adult RA population.
-
 Infections
 The rate of infections in the tocilizumab all exposure population was 163.7 per 100 patient years.
 The most common events observed were nasopharyngitis and upper respiratory tract infections.
@@ -163,7 +165,7 @@ The incidence of infections leading to dose interruptions was also numerically h
 Infusion Reactions
 In pJIA patients, infusion related reactions are defined as all events occurring during or within 24 hours of an infusion.
 In the tocilizumab all exposure population, 11 patients (5.9%) experienced infusion reactions during the infusion and 38 patients (20.2%) experienced an event within 24 hours of an infusion.
-The most common events occuring during infusion were headache, nausea and hypotension and within 24 hours of infusion were dizziness and hypotension.
+The most common events occurring during infusion were headache, nausea and hypotension and within 24 hours of infusion were dizziness and hypotension.
 In general, the adverse drug reactions observed during or within 24 hours of an infusion were similar in nature to those seen in RA and sJIA patients, see section 4.8.
 
 No clinically significant hypersensitivity reactions associated with tocilizumab and requiring treatment discontinuation were reported.
@@ -192,7 +194,6 @@ In general, the ADRs in sJIA patients were similar in type to those seen in RA p
 The frequency of ADRs in sJIA patients can be found in Table 2.
 When compared to the adult RA population, patients with sJIA experienced a higher frequency of nasopharyngitis, decrease in neutrophil counts, hepatic transaminases increased, and diarrhea.
 Events of cholesterol increased were less frequently reported in the sJIA population than in the adult RA population.
-
 Infections
 In the 12 week controlled phase, the rate of all infections in the tocilizumab group was 344.7 per 100 patient years and 287.0 per 100 patient years in the placebo group.
 In the ongoing open label extension phase (Part II), the overall rate of infections remained similar at 306.6 per 100 patient years.
@@ -200,6 +201,7 @@ In the ongoing open label extension phase (Part II), the overall rate of infecti
 In the 12 week controlled phase, the rate of serious infections in the tocilizumab group was 11.5 per 100 patient years.
 At one year in the ongoing open label extension phase the overall rate of serious infections remained stable at 11.3 per 100 patient years.
 Reported serious infections were similar to those seen in RA patients with the addition of varicella and otitis media.
+
 Infusion Reactions
 Infusion related reactions are defined as all events occurring during or within 24 hours of an infusion.
 In the 12 week controlled phase, 4% of patients from the tocilizumab group experienced events occurring during infusion.
@@ -230,8 +232,7 @@ Hepatic transaminase elevations
 During routine laboratory monitoring in the 12 week controlled phase, elevation in ALT or AST ≥ 3 x ULN occurred in 5% and 3% of patients, respectively, in the tocilizumab group, and 0% in the placebo group.
 
 In the ongoing open label extension phase, elevation in ALT or AST ≥ 3 x ULN occurred in 12% and 4% of patients, respectively, in the tocilizumab group.
-
-Immunoglobuilin G
+Immunoglobulin G
 IgG levels decrease during therapy.
 A decrease to the lower limit of normal occurred in 15 patients at some point in the study.
 
@@ -239,6 +240,7 @@ Lipid parameters
 During routine laboratory monitoring in the 12 week controlled phase, elevation in total cholesterol
 > 1.5 x ULN to 2 x ULN occurred in 1.5% of the tocilizumab group and none in the placebo group.
 Elevation in LDL > 1.5 x ULN to 2 x ULN occurred in 1.9% of patients in the tocilizumab group, and in 0% of the placebo group.
+
 In the ongoing open label extension phase, the pattern and incidence of elevations in lipid parameters remained consistent with the 12 week controlled phase data.
 
 Reporting of suspected adverse reactions

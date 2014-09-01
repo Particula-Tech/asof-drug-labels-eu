@@ -32,6 +32,7 @@ Pharmacokinetic parameters of tocilizumab did not change with time.
 A more than dose-proportional increase in the AUC and Cmin was observed for doses of 4 and 8 mg/kg every 4 weeks.
 Cmax increased dose-proportionally.
 At steady-state, predicted AUC and Cmin were 2.7 and 6.5 fold higher at 8 mg/kg as compared to 4 mg/kg, respectively.
+
 Special populations
 Renal impairment: No formal study of the effect of renal impairment on the pharmacokinetics of tocilizumab has been conducted.
 Most of the patients in the population pharmacokinetic analysis had normal renal function or mild renal impairment.
@@ -66,7 +67,6 @@ The predicted mean (± SD) AUC4weeks, Cmax and Cmin of tocilizumab were 23200 ±
 
 The accumulation ratios were 1.05 and 1.16 for AUC4weeks, and 1.43 and 2.22 for Cmin for 10 mg/kg (body weight < 30 kg) and 8 mg/kg (body weight ≥ 30 kg) doses, respectively.
 No accumulation for Cmax was observed.
-
 In pJIA patients, the central volume of distribution was 50 ml/kg, the peripheral volume of distribution was 53 ml/kg, resulting in a volume of distribution at steady state of 103 ml/kg.
 The linear clearance estimated as a parameter in the population pharmacokinetic analysis was 0.146 ml/hr/kg.
 

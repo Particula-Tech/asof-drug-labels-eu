@@ -29,7 +29,6 @@ Withdraw a volume of sterile, non-pyrogenic sodium chloride 9 mg/ml (0.9%) solut
 The required amount of RoActemra concentrate (0.5 ml/kg) should be withdrawn from the vial and placed in the 50 ml infusion bag.
 This should be a final volume of 50 ml.
 To mix the solution, gently invert the infusion bag to avoid foaming.
-
 RoActemra is for single-use only.
 Any unused product or waste material should be disposed of in accordance with local requirements.
 

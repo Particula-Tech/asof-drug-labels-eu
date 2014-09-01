@@ -11,7 +11,7 @@ The effects of tocilizumab on C-reactive protein (CRP), neutrophils and signs an
 Patients (which includes younger children with sJIA or pJIA who may be less able to communicate their symptoms) and parents/guardians of sJIA or pJIA patients, should be instructed to contact their healthcare professional immediately when any symptoms suggesting infection appear, in order to assure rapid evaluation and appropriate treatment.
 
 Tuberculosis
-As recommended for other biological treatments, RA sJIA and pJIA patients should be screened for latent tuberculosis (TB) infection prior to starting RoActemra therapy.
+As recommended for other biological treatments, RA, sJIA and pJIA patients should be screened for latent tuberculosis (TB) infection prior to starting RoActemra therapy.
 Patients with latent TB should be treated with standard anti-mycobacterial therapy before initiating RoActemra.
 Prescribers are reminded of the risk of false negative tuberculin skin and interferon-gamma TB blood test results, especially in patients who are severely ill or immunocompromised.
 
@@ -89,7 +89,7 @@ RA patients have an increased risk for cardiovascular disorders and should have 
 (e.g. hypertension, hyperlipidaemia) managed as part of usual standard of care.
 
 Combination with TNF antagonists
-There is no experience with the use of RoActemra with TNF antagonists or other biological treatments for RA sJIA or pJIA patients.
+There is no experience with the use of RoActemra with TNF antagonists or other biological treatments for RA, sJIA or pJIA patients.
 RoActemra is not recommended for use with other biological agents.
 
 Sodium
