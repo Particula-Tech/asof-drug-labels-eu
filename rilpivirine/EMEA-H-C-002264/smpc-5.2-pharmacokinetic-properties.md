@@ -25,15 +25,14 @@ The terminal elimination half-life of rilpivirine is approximately 45 hours.
 After single dose oral administration of 14C-rilpivirine, on average 85% and 6.1% of the radioactivity could be retrieved in faeces and urine, respectively.
 In faeces, unchanged rilpivirine accounted for on average 25% of the administered dose.
 Only trace amounts of unchanged rilpivirine (< 1% of dose) were detected in urine.
-
 Additional information on special populations
 Paediatric population
 The pharmacokinetics of rilpivirine in pediatric patients are under investigation.
 Dosing recommendations for pediatric patients cannot be made due to insufficient data (see section 4.2).
 
-Elderly
+Older people
 Population pharmacokinetic analysis in HIV infected patients showed that rilpivirine pharmacokinetics are not different across the age range (18 to 78 years) evaluated, with only 3 subjects aged 65 years or older.
-No dose adjustment of EDURANT is required in elderly patients.
+No dose adjustment of EDURANT is required in older patients.
 EDURANT should be used with caution in this population (see section 4.2).
 
 Gender

@@ -10,12 +10,11 @@ Co-administration of EDURANT with medicinal products that increase gastric pH ma
 Medicinal products that are affected by the use of rilpivirine
 EDURANT at a dose of 25 mg once daily is not likely to have a clinically relevant effect on the exposure of medicinal products metabolised by CYP enzymes.
 Rilpivirine inhibits P-glycoprotein in vitro (IC50 is 9.2 μM).
-In a clinical study rilpivirine did not significantly affect the pharmacokinetics of digoxin.
+In a clinical study, rilpivirine did not significantly affect the pharmacokinetics of digoxin.
 However, it may not be completely excluded that rilpivirine can increase the exposure to other drugs transported by P-glycoprotein that are more sensitive to intestinal P-gp inhibition, e.g. dabigatran etexilate.
 
-Rilpivirine inhibits the active renal tubular secretion of creatinine.
-Via the same mechanism exposure to metformin may be increased.
-Patients should be carefully monitored when initiating or stopping the concomitant administration of rilpivirine and metformin.
+Rilpivirine is an in vitro inhibitor of the transporter MATE-2K with an IC50 of < 2.7 nM.
+The clinical implications of this finding are currently unknown.
 
 Established and theoretical interactions with selected antiretrovirals and non-antiretroviral medicinal products are listed in table 1.
 
@@ -53,7 +52,7 @@ Interactions between rilpivirine and co-administered medicinal products are list
 | Ketoconazole*# 400 mg once daily | ketoconazole AUC ↓ 24% ketoconazole Cmin ↓ 66% ketoconazole Cmax ↔ (induction of CYP3A due to high rilpivirine dose in the study) rilpivirine AUC ↑ 49% rilpivirine Cmin ↑ 76% rilpivirine Cmax ↑ 30% (inhibition of CYP3A enzymes) | At the recommended dose of 25 mg once daily, no dose adjustment is required when EDURANT is co-administered with ketoconazole. |
 | Fluconazole Itraconazole Posaconazole Voriconazole | Not studied. Concomitant use of EDURANT with azole antifungal agents may cause an increase in the plasma concentrations of rilpivirine. (inhibition of CYP3A enzymes) | No dose adjustment is required. |
 | ANTIMYCOBACTERIALS |  |  |
-| Rifabutin*# 300 mg once daily | rifabutin AUC ↔ rifabutin Cmin ↔ rifabutin Cmax ↔ 25-O-desacetyl-rifabutin AUC ↔ 25-O-desacetyl-rifabutin Cmin ↔ 25-O-desacetyl-rifabutin Cmax ↔ rilpivirine AUC ↓ 46% rilpivirine Cmin ↓ 49% rilpivirine Cmax ↓ 35% (induction of CYP3A enzymes) | EDURANT must not be used in combination with rifabutin as co-administration is likely to result in loss of therapeutic effect of EDURANT. |
+| Rifabutin* 300 mg once daily† 300 mg once daily (+ 25 mg once daily rilpivirine) 300 mg once daily (+ 50 mg once daily rilpivirine) | rifabutin AUC ↔ rifabutin Cmin ↔ rifabutin Cmax ↔ 25-O-desacetyl-rifabutin AUC ↔ 25-O-desacetyl-rifabutin Cmin ↔ 25-O-desacetyl-rifabutin Cmax ↔ rilpivirine AUC ↓ 42% rilpivirine Cmin ↓ 48% rilpivirine Cmax ↓ 31% rilpivirine AUC ↑ 16%* rilpivirine Cmin ↔* rilpivirine Cmax ↑ 43%* * compared to 25 mg once daily rilpivirine alone (induction of CYP3A enzymes) | Throughout co-administration of EDURANT with rifabutin, the EDURANT dose should be increased from 25 mg once daily to 50 mg once daily. When rifabutin co-administration is stopped, the EDURANT dose should be decreased to 25 mg once daily. |
 | Rifampicin*# 600 mg once daily | rifampicin AUC ↔ rifampicin Cmin NA rifampicin Cmax ↔ 25-desacetyl-rifampicin AUC ↓ 9% 25-desacetyl-rifampicin Cmin NA 25-desacetyl-rifampicin Cmax ↔ rilpivirine AUC ↓ 80% rilpivirine Cmin ↓ 89% rilpivirine Cmax ↓ 69% (induction of CYP3A enzymes) | EDURANT must not be used in combination with rifampicin as co-administration is likely to result in loss of therapeutic effect of EDURANT. |
 | Rifapentine | Not studied. Significant decreases in rilpivirine plasma concentrations are expected. (induction of CYP3A enzymes) | EDURANT must not be used in combination with rifapentine as co-administration is likely to result in loss of therapeutic effect of EDURANT. |
 | MACROLIDE ANTIBIOTICS |  |  |
@@ -77,7 +76,7 @@ Interactions between rilpivirine and co-administered medicinal products are list
 | ANTICOAGULANTS |  |  |
 | Dabigatran etexilate | Not studied. A risk for increases in dabigatran plasma concentrations cannot be excluded. (inhibition of intestinal P-gp) | The combination of EDURANT and dabigatran etexilate should be used with caution. |
 | ANTIDIABETICS |  |  |
-| Metformin | Not studied. It may not be excluded that rilpivirine will give rise to increased exposure of metformin. (inhibition of the active renal secretion of metformin) | Careful patient monitoring is advised when starting or ending concomitant treatment. |
+| Metformin* 850 mg single dose | metformin AUC ↔ metformin Cmin NA metformin Cmax ↔ | No dose adjustment is required. |
 | HERBAL PRODUCTS |  |  |
 | St John's wort (Hypericum perforatum) | Not studied. Significant decreases in rilpivirine plasma concentrations are expected. (induction of CYP3A enzymes) | EDURANT must not be used in combination with products containing St John’s wort as co-administration may result in loss of therapeutic effect of EDURANT. |
 | ANALGESICS |  |  |
@@ -92,9 +91,9 @@ Interactions between rilpivirine and co-administered medicinal products are list
 
 * The interaction between EDURANT and the medicinal product was evaluated in a clinical study.
 All other drug-drug interactions shown are predicted.
-#
-This interaction study has been performed with a dose higher than the recommended dose for EDURANT assessing the maximal effect on the co-administered medicinal product.
+# This interaction study has been performed with a dose higher than the recommended dose for EDURANT assessing the maximal effect on the co-administered medicinal product.
 The dosing recommendation is applicable to the recommended dose of EDURANT of 25 mg once daily.
+† This interaction study has been performed with a dose higher than the recommended dose for EDURANT.
 
 QT prolonging medicinal products
 There is limited information available on the potential for a pharmacodynamic interaction between rilpivirine and medicinal products that prolong the QTc interval of the ECG.

@@ -1,13 +1,12 @@
 # 4.4 Special warnings and precautions for use
 
-Patients should be advised that current antiretroviral therapy does not cure HIV, and there is still a risk of passing HIV to others through sexual contact or contamination with blood when taking EDURANT.
-Appropriate precautions to prevent the transmission of HIV should continue to be employed.
-
+While effective viral suppression with antiretroviral therapy has been proven to substantially reduce the risk of sexual transmission, a residual risk cannot be excluded.
+Precautions to prevent transmission should be taken in accordance with national guidelines.
 Virologic failure and development of resistance
 EDURANT has not been evaluated in patients with previous virologic failure to any other antiretroviral therapy.
 The list of rilpivirine resistance-associated mutations presented in section 5.1 should only guide the use of EDURANT in the treatment-naïve population.
 
-In the pooled efficacy analysis from the Phase III trials through 96 weeks, patients treated with EDURANT with a baseline viral load > 100,000 HIV-1 RNA copies/ml had a greater risk of virologic failure (18.2% with EDURANT versus 7.9% with efavirenz) compared to patients with a baseline viral load ≤100,000 HIV-1 RNA copies/ml (5.7% with EDURANT versus 3.6% with efavirenz).
+In the pooled efficacy analysis from the Phase III trials through 96 weeks, patients treated with EDURANT with a baseline viral load > 100,000 HIV-1 RNA copies/ml had a greater risk of virologic failure (18.2% with EDURANT versus 7.9% with efavirenz) compared to patients with a baseline viral load ≤ 100,000 HIV-1 RNA copies/ml (5.7% with EDURANT versus 3.6% with efavirenz).
 The greater risk of virologic failure for patients in the EDURANT arm was observed in the first 48 weeks of these trials (see section 5.1).
 Patients with a baseline viral load > 100,000 HIV-1 RNA copies/ml who experienced virologic failure exhibited a higher rate of treatment-emergent resistance to the non-nucleoside reverse transcriptase inhibitor (NNRTI) class.
 More patients who failed virologically on EDURANT than who failed virologically on efavirenz developed lamivudine/emtricitabine associated resistance (see section 5.1).
