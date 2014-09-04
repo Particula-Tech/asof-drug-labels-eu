@@ -65,3 +65,35 @@ While similar blood pressure was achieved in all treatment groups, fewer subject
 An accompanying improvement in the glomerular filtration rate (GFR) was not observed during the first three months of treatment.
 The slowing in the progression to clinical proteinuria was evident as early as three months and continued over the 2 year period.
 Regression to normoalbuminuria (< 30 mg/day) was more frequent in the Aprovel 300 mg group (34%) than in the placebo group (21%).
+
+Dual blockade of the renin-angiotensin-aldosterone system (RAAS)
+Two large randomised, controlled trials (ONTARGET (ONgoing Telmisartan Alone and in combination with Ramipril Global Endpoint Trial) and VA NEPHRON-D (The Veterans Affairs Nephropathy in Diabetes)) have examined the use of the combination of an ACE-inhibitor with an angiotensin II receptor blocker.
+ONTARGET was a study conducted in patients with a history of cardiovascular or cerebrovascular disease, or type 2 diabetes mellitus accompanied by evidence of end-organ damage.
+VA NEPHRON-D was a study in patients with type 2 diabetes mellitus and diabetic nephropathy.
+These studies have shown no significant beneficial effect on renal and/or cardiovascular outcomes and mortality, while an increased risk of hyperkalaemia, acute kidney injury and/or hypotension as compared to monotherapy was observed.
+Given their similar pharmacodynamic properties, these results are also relevant for other ACE-inhibitors and angiotensin II receptor blockers.
+ACE-inhibitors and angiotensin II receptor blockers should therefore not be used concomitantly in patients with diabetic nephropathy.
+ALTITUDE (Aliskiren Trial in Type 2 Diabetes Using Cardiovascular and Renal Disease Endpoints) was a study designed to test the benefit of adding aliskiren to a standard therapy of an ACE-inhibitor or an angiotensin II receptor blocker in patients with type 2 diabetes mellitus and chronic kidney disease, cardiovascular disease, or both.
+The study was terminated early because of an increased risk of adverse outcomes.
+Cardiovascular death and stroke were both numerically more frequent in the aliskiren group than in the placebo group and adverse events and serious adverse events of interest (hyperkalaemia, hypotension and renal dysfunction) were more frequently reported in the aliskiren group than in the placebo group.
+
+[Aprovel 150 mg tablets.]
+
+Two large randomised, controlled trials(ONTARGET (ONgoing Telmisartan Alone and in combination with Ramipril Global Endpoint Trial) and VA NEPHRON-D (The Veterans Affairs Nephropathy in Diabetes)) have examined the use of the combination of an ACE-inhibitor with an angiotensin II receptor blocker.
+ALTITUDE (Aliskiren Trial in Type 2 Diabettes Using Cardiovascular and Renal Disease Endpoints) was a study designed to test the benefit of adding aliskiren to a standard therapy of an ACE-inhibitor or an angiotensin II receptor blocker in patients with type 2 diabetes mellitus and chronic kidney disease, cardiovascular disease, or both.
+
+[Aprovel 300 mg tablets.]
+
+(all sentences already above)
+
+[Aprovel 75 mg film-coated tablets.]
+
+Two large randomised, controlled trials (ONTARGET (ONgoing Telmisartan Alone and in combination with Ramipril Global Endpoint Trial) andVA NEPHRON-D (The Veterans Affairs Nephropathy in Diabetes)) have examined the use of the combination of an ACE-inhibitor with an angiotensin II receptor blocker.
+
+[Aprovel 150 mg film-coated tablets.]
+
+(all sentences already above)
+
+[Aprovel 300 mg film-coated tablets.]
+
+Two large randomised, controlled trials (ONTARGET (ONgoing Telmisartan Alone and in combination with Ramipril Global Endpoint Trial) and VA NEPHRON-D (The Veterans Affairs Nephropathy in Diabetes) have examined the use of the combination of an ACE-inhibitor with an angiotensin II receptor blocker.

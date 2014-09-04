@@ -12,16 +12,17 @@ There is no experience regarding the administration of Aprovel in patients with 
 Hypertensive patients with type 2 diabetes and renal disease: the effects of irbesartan both on renal and cardiovascular events were not uniform across all subgroups, in an analysis carried out in the study with patients with advanced renal disease.
 In particular, they appeared less favourable in women and non-white subjects (see section 5.1).
 
-Dual blockade of the renin-angiotensin-aldosterone system (RAAS):
-Dual blockade of the RAAS by combining Aprovel with aliskiren is not recommended since there is an increased risk of hypotension, hyperkalaemia, and changes in renal function.
-The use of Aprovel in combination with aliskiren is contraindicated in patients with diabetes mellitus or renal impairment (GFR <60 ml/min/1.73 m²) (see section 4.5).
+Dual blockade of the renin-angiotensin-aldosterone system (RAAS): There is evidence that the concomitant use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren increases the risk of hypotension, hyperkalaemia and decreased renal function (including acute renal failure).
+Dual blockade of RAAS through the combined use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren is therefore not recommended (see sections 4.5 and 5.1).
+If dual blockade therapy is considered absolutely necessary, this should only occur under specialist supervision and subject to frequent close monitoring of renal function, electrolytes and blood pressure.
+ACE-inhibitors and angiotensin II receptor blockers should not be used concomitantly in patients with diabetic nephropathy.
 
 Hyperkalaemia: as with other medicinal products that affect the renin-angiotensin-aldosterone system, hyperkalaemia may occur during the treatment with Aprovel, especially in the presence of renal impairment, overt proteinuria due to diabetic renal disease, and/or heart failure.
 Close monitoring of serum potassium in patients at risk is recommended (see section 4.5).
-
 Lithium: the combination of lithium and Aprovel is not recommended (see section 4.5).
 
 Aortic and mitral valve stenosis, obstructive hypertrophic cardiomyopathy: as with other vasodilators, special caution is indicated in patients suffering from aortic or mitral stenosis, or obstructive hypertrophic cardiomyopathy.
+
 Primary aldosteronism: patients with primary aldosteronism generally will not respond to antihypertensive medicinal products acting through inhibition of the renin-angiotensin system.
 Therefore, the use of Aprovel is not recommended.
 
@@ -40,7 +41,8 @@ Paediatric population: irbesartan has been studied in paediatric populations age
 
 [Aprovel 150 mg tablets.]
 
-(all sentences already above)
+Dual blockade of the renin-angiotensin-aldosterone system (RAAS):
+There is evidence that the concomitant use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren increases the risk of hypotension, hyperkalaemia and decreased renal function (including acute renal failure).
 
 [Aprovel 300 mg tablets.]
 

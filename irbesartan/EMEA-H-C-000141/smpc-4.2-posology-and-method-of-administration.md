@@ -6,11 +6,11 @@ The usual recommended initial and maintenance dose is 150 mg once daily, with or
 Aprovel at a dose of 150 mg once daily generally provides a better 24 hour blood pressure control than 75 mg.
 However, initiation of therapy with 75 mg could be considered, particularly in haemodialysed patients and in the elderly over 75 years.
 
-In patients insufficiently controlled with 150 mg once daily, the dose of Aprovel can be increased to 300 mg, or other antihypertensive agents can be added.
+In patients insufficiently controlled with 150 mg once daily, the dose of Aprovel can be increased to 300 mg, or other antihypertensive agents can be added (see sections 4.3, 4.4, 4.5 and 5.1).
 In particular, the addition of a diuretic such as hydrochlorothiazide has been shown to have an additive effect with Aprovel (see section 4.5).
 
 In hypertensive type 2 diabetic patients, therapy should be initiated at 150 mg irbesartan once daily and titrated up to 300 mg once daily as the preferred maintenance dose for treatment of renal disease.
-The demonstration of renal benefit of Aprovel in hypertensive type 2 diabetic patients is based on studies where irbesartan was used in addition to other antihypertensive agents, as needed, to reach target blood pressure (see section 5.1).
+The demonstration of renal benefit of Aprovel in hypertensive type 2 diabetic patients is based on studies where irbesartan was used in addition to other antihypertensive agents, as needed, to reach target blood pressure (see sections 4.3, 4.4, 4.5 and 5.1).
 
 Special Populations
 
