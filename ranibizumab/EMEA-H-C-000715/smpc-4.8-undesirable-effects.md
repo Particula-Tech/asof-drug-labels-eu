@@ -5,12 +5,12 @@ The majority of adverse reactions reported following administration of Lucentis 
 
 The most frequently reported ocular adverse reactions following injection of Lucentis are: eye pain, ocular hyperaemia, increased intraocular pressure, vitritis, vitreous detachment, retinal haemorrhage, visual disturbance, vitreous floaters, conjunctival haemorrhage, eye irritation, foreign body sensation in eyes, increased lacrimation, blepharitis, dry eye and eye pruritus.
 The most frequently reported non-ocular adverse reactions are headache, nasopharyngitis and arthralgia.
+
 Less frequently reported, but more serious, adverse reactions include endophthalmitis, blindness, retinal detachment, retinal tear and iatrogenic traumatic cataract (see section 4.4).
 
 Patients should be informed of symptoms of these potential adverse reactions and instructed to inform their physician if they develop signs such as eye pain or increased discomfort, worsening eye redness, blurred or decreased vision, an increased number of small particles in their vision, or increased sensitivity to light.
 
 The adverse reactions experienced following administration of Lucentis in clinical trials are summarised in the table below.
-
 Tabulated list of adverse reactions#
 The adverse reactions are listed by system organ class and frequency using the following convention: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000), not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
@@ -49,6 +49,7 @@ retinal tear, detachment of the retinal pigment epithelium, retinal pigment epit
 Uncommon Blindness, endophthalmitis, hypopyon, hyphaema,
 
 keratopathy, iris adhesion, corneal deposits, corneal oedema, corneal striae, injection site pain, injection site irritation, abnormal sensation in eye, eyelid irritation.
+
 Respiratory, thoracic and mediastinal disorders
 
 Common Cough

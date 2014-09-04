@@ -4,44 +4,31 @@ Pharmacotherapeutic group: Ophthalmologicals, antineovascularisation agents, ATC
 
 Ranibizumab is a humanised recombinant monoclonal antibody fragment targeted against human vascular endothelial growth factor A (VEGF-A).
 It binds with high affinity to the VEGF-A isoforms (e.g. VEGF110, VEGF121 and VEGF165), thereby preventing binding of VEGF-A to its receptors VEGFR-1 and VEGFR-2.
-Binding of VEGF-A to its receptors leads to endothelial cell proliferation and neovascularisation, as well as vascular leakage, all of which are thought to contribute to the progression of the neovascular form of age-related macular degeneration or to visual impairment caused by either diabetic macular oedema or macular oedema secondary to RVO.
+Binding of VEGF-A to its receptors leads to endothelial cell proliferation and neovascularisation, as well as vascular leakage, all of which are thought to contribute to the progression of the neovascular form of age-related macular degeneration, pathologic myopia or to visual impairment caused by either diabetic macular oedema or macular oedema secondary to RVO.
 
 Treatment of wet AMD
 In wet AMD, the clinical safety and efficacy of Lucentis have been assessed in three randomised, double-masked, sham- or active-controlled studies of 24 months duration in patients with neovascular AMD.
 A total of 1,323 patients (879 active and 444 control) were enrolled in these studies.
 
 In study FVF2598g (MARINA), 716 patients with minimally classic or occult with no classic choroidal neovascularisation (CNV) received monthly intravitreal injections of Lucentis 0.3 mg (n=238) or 0.5 mg (n=240) or sham (n=238) injections.
-
 In study FVF2587g (ANCHOR), 423 patients with predominantly classic CNV lesions received either: 1) monthly intravitreal injections of Lucentis 0.3 mg and sham PDT (n=140); 2) monthly intravitreal injections of Lucentis 0.5 mg and sham PDT (n=140); or 3) sham intravitreal injections and active verteporfin PDT (n=143).
 Sham or active verteporfin PDT was given with the initial Lucentis injection and every 3 months thereafter if fluorescein angiography showed persistence or recurrence of vascular leakage.
 
-Key outcome measures are summarised in Tables 1, 2 and Figure 1.
+Key outcome measures are summarised in Table 1 and Figure 1.
 
-Table 1 Outcomes at Month 12 and Month 24 in study FVF2598g (MARINA)
+Table 1 Outcomes at Month 12 and Month 24 in study FVF2598g (MARINA) and FVF2587g (ANCHOR)
 
-| Outcome measure | Month | Sham (n=238) | Lucentis 0.5 mg (n=240) |
-| --- | --- | --- | --- |
-| Loss of <15 letters in visual acuity (%)a (maintenance of vision, primary endpoint) | Month 12 | 62% | 95% |
-|  | Month 24 | 53% | 90% |
-| Gain of ≥15 letters in visual acuity (%)a | Month 12 | 5% | 34% |
-|  | Month 24 | 4% | 33% |
-| Mean change in visual acuity (letters) (SD)a | Month 12 | -10.5 (16.6) | +7.2 (14.4) |
-|  | Month 24 | -14.9 (18.7) | +6.6 (16.5) |
-
-a p<0.01
-Table 2 Outcomes at Month 12 and Month 24 in study FVF2587g (ANCHOR)
-
-| Outcome measure | Month | Verteporfin PDT (n=143) | Lucentis 0.5 mg (n=140) |
-| --- | --- | --- | --- |
-| Loss of <15 letters in visual acuity (%)a (maintenance of vision, primary endpoint) | Month 12 | 64% | 96% |
-|  | Month 24 | 66% | 90% |
-| Gain of ≥15 letters in visual acuity (%)a | Month 12 | 6% | 40% |
-|  | Month 24 | 6% | 41% |
-| Mean change in visual acuity (letters) (SD)a | Month 12 | -9.5 (16.4) | +11.3 (14.6) |
-|  | Month 24 | -9.8 (17.6) | +10.7 (16.5) |
+|  |  | FVF2598g (MARINA) |  | FVF2587g (ANCHOR) |  |
+| --- | --- | --- | --- | --- | --- |
+| Outcome measure | Month | Sham (n=238) | Lucentis 0.5 mg (n=240) | Verteporfin PDT (n=143) | Lucentis 0.5 mg (n=140) |
+| Loss of <15 letters in visual acuity (%)a (maintenance of vision, primary endpoint) | Month 12 | 62% | 95% | 64% | 96% |
+|  | Month 24 | 53% | 90% | 66% | 90% |
+| Gain of ≥15 letters in visual acuity (%)a | Month 12 | 5% | 34% | 6% | 40% |
+|  | Month 24 | 4% | 33% | 6% | 41% |
+| Mean change in visual acuity (letters) (SD)a | Month 12 | -10.5 (16.6) | +7.2 (14.4) | -9.5 (16.4) | +11.3 (14.6) |
+|  | Month 24 | -14.9 (18.7) | +6.6 (16.5) | -9.8 (17.6) | +10.7 (16.5) |
 
 a p<0.01
-
 Figure 1 Mean change in visual acuity from baseline to Month 24 in study FVF2598g (MARINA) and study FVF2587g (ANCHOR)
 
 Study FVF2598g (MARINA)
@@ -86,13 +73,10 @@ Sham (n=238) Verteporfin PDT (n=143)
 
 Results from both trials indicated that continued ranibizumab treatment may also be of benefit in patients who lost ≥15 letters of best-corrected visual acuity (BCVA) in the first year of treatment.
 
-The use of Lucentis beyond 36 months has not been studied.
-
 Study FVF3192g (PIER) was a randomised, double-masked, sham-controlled study designed to assess the safety and efficacy of Lucentis in 184 patients with all forms of neovascular AMD.
 Patients received Lucentis 0.3 mg (n=60) or 0.5 mg (n=61) intravitreal injections or sham (n=63) injections once a month for 3 consecutive doses, followed by a dose administered once every 3 months.
 From Month 14 of the study, sham-treated patients were allowed to cross over to receive ranibizumab and from Month 19, more frequent treatments were possible.
 Patients treated with Lucentis in PIER received a mean of 10 total treatments.
-
 The primary efficacy endpoint was mean change in visual acuity at 12 months compared with baseline.
 After an initial increase in visual acuity (following monthly dosing), on average, patients’ visual acuity declined with quarterly dosing, returning to baseline at Month 12 and this effect was maintained in most ranibizumab-treated patients (82%) at Month 24.
 Data from a limited number of subjects that crossed over to receive ranibizumab after more than a year of sham-treatment suggested that early initiation of treatment may be associated with a better preservation of visual acuity.
@@ -111,39 +95,19 @@ In the phase II study D2201 (RESOLVE), 151 patients were treated with ranibizuma
 The initial ranibizumab dose (0.3 mg or 0.5 mg) could be doubled at any time during the study after the first injection.
 Laser photocoagulation was allowed as rescue treatment from Month 3 in both treatment arms.
 The study had two parts: an exploratory part (the first 42 patients analysed at Month 6) and a confirmatory part (the remaining 109 patients analysed at Month 12).
+The mean average change in BCVA from Month 1 to Month 12 compared to baseline was +7.8 (±7.72) letters in the pooled ranibizumab-treated patients (n=102) from both parts of the study, compared to -0.1 (±9.77) letters for patients on sham treatment (p<0.0001 for the treatment difference).
 
-Key outcome measures from the confirmatory part of the study (2/3 of patients) are summarised in Table 3.
-Table 3 Outcomes at Month 12 in study D2201 (RESOLVE) (overall study population)
-
-| Outcome measure | Ranibizumab pooled (n=102) | Sham (n=49) |
-| --- | --- | --- |
-| Mean average change in BCVA from Month 1 to Month 12 compared to baselinea (letters) (SD) (primary endpoint) | +7.8 (7.72) | -0.1 (9.77) |
-| Mean change in BCVA at Month 12a (letters) (SD) | +10.3 (9.14) | -1.4 (14.16) |
-| Gain of ≥10 letters in BCVA (%) at Month 12a | 60.8 | 18.4 |
-| Gain of ≥15 letters in BCVA (%) at Month 12 | 32.4 | 10.2 |
-| p-value | 0.0043 |  |
-
-ap<0.0001
-
-In the phase III study D2301 (RESTORE), 345 patients with visual impairment due to macular oedema were randomised to receive either intravitreal injection of ranibizumab 0.5 mg as monotherapy and sham laser photocoagulation (n=116), combined ranibizumab 0.5 mg and laser photocoagulation (n=118), or sham injection and laser photocoagulation (n=111).
-Treatment with ranibizumab was started with monthly intravitreal injections and continued until visual acuity was stable for at least three consecutive monthly assessments.
+In the phase III study D2301 (RESTORE), 345 patients with visual impairment due to macular oedema were randomised to receive either intravitreal injection of ranibizumab 0.5 mg as monotherapy and sham laser photocoagulation (n=116), combined ranibizumab 0.5 mg and laser photocoagulation (n=118) or sham injection and laser photocoagulation (n=111).
+Treatment with ranibizumab was initiated with monthly intravitreal injections and continued until visual acuity was stable for at least three consecutive monthly assessments.
 The treatment was reinitiated when a reduction in BCVA due to DME progression was observed.
 Laser photocoagulation was administered at baseline on the same day, at least 30 minutes before injection of ranibizumab, and then as needed based on ETDRS criteria.
 
-Key outcome measures are summarised in Table 4 and Figure 2.
+240 patients, who had previously completed the 12-month RESTORE study, were enrolled in the open-label, multicentre 24-month extension (RESTORE Extension) study.
+Patients were treated with ranibizumab 0.5 mg pro re nata (PRN) in the same eye that was selected as the study eye in the study D2301 (RESTORE).
+Treatment was re-initiated at monthly intervals upon a decrease in BCVA due to DME and continued until stable BCVA was reached.
+In addition, laser treatment was administered if deemed necessary by the investigator and based on ETDRS criteria.
 
-Table 4 Outcomes at Month 12 in study D2301 (RESTORE)
-
-Outcome measure compared to baseline Ranibizumab Ranibizumab Laser
-0.5 mg 0.5 mg + Laser
-n=115 n=118 n=110
-Mean average change in BCVA from 6.1 (6.4) 5.9 (7.9) 0.8 (8.6)
-Month 1 to Month 12a (±SD)
-Gain of ≥10 letters or BCVA ≥84a (%) 37.4 43.2 15.5
-Gain of ≥15 letters or BCVA ≥84 (%) 22.6 22.9 8.2
-p-value 0.0032 0.0021
-
-ap<0.0001
+Key outcome measures are summarised in Table 2 (RESTORE and Extension) and Figure 2 (RESTORE).
 Figure 2 Mean change in visual acuity from baseline over time in study D2301 (RESTORE)
 
 12
@@ -174,23 +138,105 @@ Laser (N = 110)
 BL=baseline; SE=standard error of mean
 * Difference in least square means, p<0.0001/0.0004 based on two-sided stratified Cochran-Mantel-Haenszel test
 
-The effect was consistent in most subgroups.
-However, subjects with a fairly good baseline BCVA (>73 letters) together with macular oedema with central retinal thickness of <300 μm did not appear to benefit from treatment with ranibizumab compared to laser photocoagulation.
+The effect at 12 months was consistent in most subgroups.
+However, subjects with a fairly good baseline BCVA (>73 letters) together with macular oedema with central retinal thickness of <300 µm did not appear to benefit from treatment with ranibizumab compared to laser photocoagulation.
+Table 2 Outcomes at Month 12 in study D2301 (RESTORE) and at Month 36 in study D2301-E1 (RESTORE Extension)
+
+Outcome measures at Month 12 compared Ranibizumab Ranibizumab Laser
+to baseline in study D2301 (RESTORE) 0.5 mg 0.5 mg + Laser
+n=115 n=118 n=110
+Mean average change in BCVA from 6.1 (6.4)a 5.9 (7.9)a 0.8 (8.6)
+Month 1 to Month 12a (±SD)
+Mean change in BCVA at Month 12 (±SD) 6.8 (8.3)a 6.4 (11.8)a 0.9 (11.4)
+Gain of ≥10 letters or BCVA ≥84 letters at 37.4a 43.2a 15.5
+Month 12 (%)
+Gain of ≥15 letters or BCVA ≥84 letters at 22.6 22.9 8.2
+Month 12 (%)
+Outcome measure at Month 36 compared Prior ranibizumab Prior ranibizumab Prior laser
+to D2301 (RESTORE) baseline in study 0.5 mg 0.5 mg + laser
+D2301-E1 (RESTORE Extension) n=83 n=83 n=74*
+Mean change in BCVA at Month 24 (SD) 7.9 (9.0) 6.7 (7.9) 5.4 (9.0)
+Mean change in BCVA at Month 36 (SD) 8.0 (10.1) 6.7 (9.6) 6.0 (9.4)
+Gain of ≥10 letters or BCVA ≥84 letters at
+47.0 44.6 41.9
+Month 36 (%)
+Gain of ≥15 letters or BCVA ≥84 letters at
+27.7 30.1 21.6
+Month 36 (%)
+
+ap<0.0001 for comparisons of ranibizumab arms vs. laser arm.
+n in D2301-E1 (RESTORE Extension) is the number of patients with a value at both D2301 (RESTORE) baseline (Month 0) and at the Month 36 visit.
+*of the 74 patients with prior laser treatment, 59 (79%) received ranibizumab in the extension study.
 
 The improvement in visual acuity seen with Lucentis 0.5 mg at 12 months was accompanied by patient-reported benefits with regards to most vision-related functions as measured by the National Eye Institute Visual Function Questionnaire (VFQ-25) scores.
 For other subscales of this questionnaire no treatment differences could be established.
 The difference between Lucentis 0.5 mg and the control group was assessed with p-values of 0.0137 (ranibizumab mono) and 0.0041 (ranibizumab+laser) for the VFQ-25 composite score.
 
-In both studies, the improvement of vision was accompanied by a continuous decrease in the macular oedema as measured by central retinal thickness (CRT).
+The mean number of injections administered in the 12-month RESTORE study was 7.0 in the ranibizumab 0.5 mg, 6.8 in the ranibizumab plus laser groups and 7.3 sham injections in the laser monotherapy group.
+On average, 6.4 ranibizumab injections were administered per patient in the 24-month extension period in patients who were treated with ranibizumab in study D2301 (RESTORE).
+Of the 74 patients from study D2301 (RESTORE) laser treatment arm, 59 (79%) received ranibizumab at some point during the extension phase.
+On average, these 59 patients received 8.1 ranibizumab injections in the 24-month extension.
+The proportions of patients who did not require any ranibizumab treatment during the extension phase were 19%, 25% and 20% in the prior ranibizumab, prior ranibizumab + laser and prior laser group, respectively.
+
+The long-term safety profile of ranibizumab observed in the 24-month extension study is consistent with the known Lucentis safety profile.
+
+In the phase IIIb study D2304 (RETAIN), 372 patients with visual impairment due to DME were randomised to receive intravitreal injections of either:
+
+- ranibizumab 0.5 mg with concomitant laser photocoagulation on a treat-and-extend (TE) regimen (n=121),
+- ranibizumab 0.5 mg monotherapy on a TE regimen (n=128),
+- ranibizumab 0.5 mg monotherapy on a PRN regimen (n=123).
+
+In all groups, treatment with ranibizumab was initiated with monthly intravitreal injections and continued until BCVA was stable for at least three consecutive monthly assessments.
+Laser photocoagulation was administered at baseline on the same day as the first ranibizumab injection and then as needed based on ETDRS criteria.
+On TE, ranibizumab was then administered, at scheduled treatment at intervals of 2-3 months.
+On PRN, BCVA was assessed monthly and ranibizumab was then administered during the same visit, if needed.
+In all groups, monthly treatment was re-initiated upon a decrease in BCVA due to DME progression and continued until stable BCVA was reached again.
+The study duration was 24 months.
+
+In the RETAIN study, after 3 initial monthly treatment visits, the number of scheduled treatment visits required by the TE regimen was 13 compared to the 20 monthly visits required by the PRN regimen.
+With both regimens, more than 70% of patients maintained their BCVA with a visit frequency of
+≥2 months.
+Over 24 months the mean (median) number of injections was 12.4 (12.0) in TE ranibizumab + laser, 12.8 (12.0) in TE ranibizumab alone, and 10.7 (10.0) for the PRN ranibizumab treatment groups.
+The addition of laser was not associated with a reduced mean number of ranibizumab injections in the TE regimen.
+
+The key outcome measures are summarised in Table 3.
+
+Table 3 Outcomes in study D2304 (RETAIN)
+
+Outcome measure TE ranibizumab TE ranibizumab PRN ranibizumab
+compared to baseline 0.5 mg + laser 0.5 mg alone 0.5 mg
+n=117 n=125 n=117
+Mean average change
+in BCVA from 5.9 (5.5) a 6.1 (5.7) a 6.2 (6.0)
+Month 1 to Month 12
+(SD)
+Mean average change
+in BCVA from
+6.8 (6.0) 6.6 (7.1) 7.0 (6.4)
+Month 1 to Month 24
+(SD)
+Mean change in BCVA
+8.3 (8.1) 6.5 (10.9) 8.1 (8.5)
+at Month 24 (SD)
+Gain of ≥10 letters or
+BCVA ≥84 letters at 43.6 40.8 45.3
+Month 24 (%)
+Gain of ≥15 letters or
+BCVA ≥84 letters at 25.6 28.0 30.8
+Month 24(%)
+
+ap<0.0001 for assessment of non-inferiority to PRN
+
+In DME studies, the improvement in BCVA was accompanied by a reduction over time in mean CSFT in all the treatment groups.
 
 Treatment of visual impairment due to macular oedema secondary to RVO
 The clinical safety and efficacy of Lucentis in patients with visual impairment due to macular oedema secondary to RVO have been assessed in the randomised, double-masked, controlled studies BRAVO and CRUISE that recruited subjects with BRVO (n=397) and CRVO (n=392), respectively.
 In both studies, subjects received either 0.3 mg or 0.5 mg intravitreal ranibizumab or sham injections.
 After 6 months, patients in the sham-control arms were crossed over to 0.5 mg ranibizumab.
 In BRAVO, laser photocoagulation as rescue was allowed in all arms from Month 3.
+Key outcome measures from BRAVO and CRUISE are summarised in Tables 4 and 5 and Figures 3 and 4.
 
-Key outcome measures from BRAVO and CRUISE are summarised in Tables 5 and 6 and Figures 3 and 4.
-Table 5 Outcomes at Month 6 and 12 (BRAVO)
+Table 4 Outcomes at Month 6 and 12 (BRAVO)
 
 |  | Sham/Lucentis 0.5 mg (n=132) | Lucentis 0.5 mg (n=131) |
 | --- | --- | --- |
@@ -224,7 +270,7 @@ Treatment group Sham/Ranibizumab 0.5 mg (n=132)
 Ranibizumab 0.5 mg (n=131)
 
 BL=baseline; SE=standard error of mean
-Table 6 Outcomes at Month 6 and 12 (CRUISE)
+Table 5 Outcomes at Month 6 and 12 (CRUISE)
 
 |  | Sham/Lucentis 0.5 mg (n=130) | Lucentis 0.5 mg (n=130) |
 | --- | --- | --- |
@@ -291,9 +337,9 @@ During the 12 months of the study, patients received on average 4.6 injections (
 In Group II, which is the recommended posology (see section 4.2), 50.9% of patients required 1 or 2 injections, 34.5% required 3 to 5 injections and 14.7% required 6 to 12 injections over the 12-month study period.
 62.9% of Group II patients did not require injections in the second 6 months of the study.
 
-The key outcomes from RADIANCE are summarised in Table 7 and Figure 5.
+The key outcomes from RADIANCE are summarised in Table 6 and Figure 5.
 
-Table 7 Outcomes at Month 3 and 12 (RADIANCE)
+Table 6 Outcomes at Month 3 and 12 (RADIANCE)
 
 Group I Group II Group III
 

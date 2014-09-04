@@ -12,8 +12,8 @@ Sustained IOP increases have also been identified (see section 4.8).
 Both intraocular pressure and the perfusion of the optic nerve head must be monitored and managed appropriately.
 
 Bilateral treatment
-The safety and efficacy of Lucentis therapy administered to both eyes concurrently have not been studied.
-If bilateral treatment is performed at the same time this could lead to an increased systemic exposure, which could increase the risk of systemic adverse events.
+Limited data on bilateral use of Lucentis (including same-day administration) do not suggest an increased risk of systemic adverse events compared with unilateral treatment.
+
 Immunogenicity
 There is a potential for immunogenicity with Lucentis.
 Since there is a potential for an increased systemic exposure in subjects with DME, an increased risk for developing hypersensitivity in this patient population cannot be excluded.
@@ -34,7 +34,6 @@ The dose should be withheld and treatment should not be resumed earlier than the
 Retinal pigment epithelial tear
 Risk factors associated with the development of a retinal pigment epithelial tear after anti-VEGF therapy for wet AMD, include a large and/or high pigment epithelial retinal detachment.
 When initiating Lucentis therapy, caution should be used in patients with these risk factors for retinal pigment epithelial tears.
-
 Rhegmatogenous retinal detachment or macular holes
 Treatment should be discontinued in subjects with rhegmatogenous retinal detachment or stage 3 or 4 macular holes.
 
@@ -52,6 +51,7 @@ Systemic adverse events including non-ocular haemorrhages and arterial thromboem
 
 There are limited data on safety in the treatment of DME, macular oedema due to RVO and CNV secondary to PM patients with prior history of stroke or transient ischaemic attacks.
 Caution should be exercised when treating such patients (see section 4.8).
+
 Prior episodes of RVO, ischaemic branch RVO and central RVO
 There is limited experience with treatment of patients with prior episodes of RVO and of patients with ischaemic branch RVO (BRVO) and central RVO (CRVO).
 In patients with RVO presenting with clinical signs of irreversible ischaemic visual function loss, treatment is not recommended.
