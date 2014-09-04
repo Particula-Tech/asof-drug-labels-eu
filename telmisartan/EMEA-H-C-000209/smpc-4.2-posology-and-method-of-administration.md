@@ -24,9 +24,7 @@ Limited experience is available in patients with severe renal impairment or haem
 A lower starting dose of 20 mg is recommended in these patients (see section 4.4).
 No posology adjustment is required for patients with mild to moderate renal impairment.
 
-Concomitant use of telmisartan with aliskiren is contraindicated in patients with renal impairment (GFR < 60 ml/min/1.73 m2) (see section 4.3).
-
-Patients with hepatic impairmen:
+Patients with hepatic impairment:
 
 Micardis is contraindicated in patients with severe hepatic impairment (see section 4.3).
 In patients with mild to moderate hepatic impairment, the posology should not exceed 40 mg once daily (see section 4.4).
@@ -47,11 +45,3 @@ Precautions to be taken before handling or administering the medicinal product
 
 Telmisartan should be kept in the sealed blister due to the hygroscopic property of the tablets.
 Tablets should be taken out of the blister shortly before administration (see section 6.6).
-
-[Micardis 40 mg tablets]
-
-Patients with hepatic impairment
-
-[Micardis 80 mg tablets]
-
-(all sentences already above)

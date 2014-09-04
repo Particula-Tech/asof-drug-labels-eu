@@ -1,10 +1,5 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
-Contraindicated (see section 4.3)
-
-Dual blockade of the renin-angiotensin-aldosterone system (RAAS)
-The combination of telmisartan with aliskiren is contraindicated in patients with diabetes mellitus or renal impairment (GFR < 60 ml/min/1.73 m2) and is not recommended in other patients (see sections 4.3, 4.4).
-
 Digoxin
 When telmisartan was co-administered with digoxin, median increases in digoxin peak plasma concentration (49%) and in trough concentration (20%) were observed.
 When initiating, adjusting, and discontinuing telmisartan, monitor digoxin levels in order to maintain levels within the therapeutic range.
@@ -41,7 +36,6 @@ Patients should be adequately hydrated and consideration should be given to moni
 
 In one study the co-administration of telmisartan and ramipril led to an increase of up to 2.5 fold in the AUC0-24 and Cmax of ramipril and ramiprilat.
 The clinical relevance of this observation is not known.
-
 Diuretics (thiazide or loop diuretics)
 
 Prior treatment with high dose diuretics such as furosemide (loop diuretic) and hydrochlorothiazide (thiazide diuretic) may result in volume depletion, and in a risk of hypotension when initiating therapy with telmisartan.
@@ -51,6 +45,8 @@ To be taken into account with concomitant use
 Other antihypertensive agents
 
 The blood pressure lowering effect of telmisartan can be increased by concomitant use of other antihypertensive medicinal products.
+
+Clinical trial data has shown that dual blockade of the renin-angiotensin-aldosterone-system (RAAS) through the combined use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren is associated with a higher frequency of adverse events such as hypotension, hyperkalaemia and decreased renal function (including acute renal failure) compared to the use of a single RAAS-acting agent (see sections 4.3, 4.4 and 5.1).
 
 Based on their pharmacological properties it can be expected that the following medicinal products may potentiate the hypotensive effects of all antihypertensives including telmisartan: Baclofen, amifostine.
 Furthermore, orthostatic hypotension may be aggravated by alcohol, barbiturates, narcotics, or antidepressants.

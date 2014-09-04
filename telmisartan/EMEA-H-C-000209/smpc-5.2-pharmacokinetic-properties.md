@@ -18,7 +18,6 @@ The mean steady state apparent volume of distribution (Vdss) is approximately 50
 Biotransformation
 Telmisartan is metabolised by conjugation to the glucuronide of the parent compound.
 No pharmacological activity has been shown for the conjugate.
-
 Elimination
 Telmisartan is characterised by biexponential decay pharmacokinetics with a terminal elimination half-life of >20 hours.
 The maximum plasma concentration (Cmax) and, to a smaller extent, the area under the plasma concentration-time curve (AUC), increase disproportionately with dose.
@@ -47,6 +46,7 @@ In patients with mild to moderate and severe renal impairment, doubling of plasm
 However, lower plasma concentrations were observed in patients with renal insufficiency undergoing dialysis.
 Telmisartan is highly bound to plasma protein in renal-insufficient patients and cannot be removed by dialysis.
 The elimination half-life is not changed in patients with renal impairment.
+
 Hepatic impairment
 Pharmacokinetic studies in patients with hepatic impairment showed an increase in absolute bioavailability up to nearly 100 %.
 The elimination half-life is not changed in patients with hepatic impairment.

@@ -27,22 +27,21 @@ Symptomatic hypotension, especially after the first dose of Micardis, may occur 
 Such conditions should be corrected before the administration of Micardis.
 Volume and/or sodium depletion should be corrected prior to administration of Micardis.
 
-Dual blockade of the renin-angiotensin-aldosterone system
+Dual blockade of the renin-angiotensin-aldosterone system (RAAS)
 
-The use of telmisartan in combination with aliskiren is contraindicated in patients with diabetes mellitus or renal impairment (GFR < 60 ml/min/1.73 m2) (see section 4.3).
-
-As a consequence of inhibiting the renin-angiotensin-aldosterone system, hypotension, syncope, hyperkalaemia and changes in renal function (including acute renal failure) have been reported in susceptible individuals, especially if combining medicinal products that affect this system.
-Dual blockade of the renin-angiotensin-aldosterone system (e.g. by administering telmisartan with other blockers of the renin-angiotensin-aldosterone system) is therefore not recommended.
-Close monitoring of renal function is advisable if co-administration is considered necessary.
+There is evidence that the concomitant use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren increases the risk of hypotension, hyperkalaemia and decreased renal function (including acute renal failure).
+Dual blockade of RAAS through the combined use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren is therefore not recommended (see sections 4.5 and 5.1).
+If dual blockade therapy is considered absolutely necessary, this should only occur under specialist supervision and subject to frequent close monitoring of renal function, electrolytes and blood pressure.
+ACE-inhibitors and angiotensin II receptor blockers should not be used concomitantly in patients with diabetic nephropathy.
 
 Other conditions with stimulation of the renin-angiotensin-aldosterone system
 
 In patients whose vascular tone and renal function depend predominantly on the activity of the renin-angiotensin-aldosterone system (e.g. patients with severe congestive heart failure or underlying renal disease, including renal artery stenosis), treatment with medicinal products that affect this system such as telmisartan has been associated with acute hypotension, hyperazotaemia, oliguria, or rarely acute renal failure (see section 4.8).
+
 Primary aldosteronism
 
 Patients with primary aldosteronism generally will not respond to antihypertensive medicinal products acting through inhibition of the renin-angiotensin system.
 Therefore, the use of telmisartan is not recommended.
-
 Aortic and mitral valve stenosis, obstructive hypertrophic cardiomyopathy
 
 As with other vasodilators, special caution is indicated in patients suffering from aortic or mitral stenosis, or obstructive hypertrophic cardiomyopathy.
@@ -79,3 +78,11 @@ As observed for angiotensin converting enzyme inhibitors, telmisartan and the ot
 Other
 
 As with any antihypertensive agent, excessive reduction of blood pressure in patients with ischaemic cardiopathy or ischaemic cardiovascular disease could result in a myocardial infarction or stroke.
+
+[Micardis 40 mg tablets]
+
+Therefore, in these patients an appropriate blood glucose monitoring should be considered; a dose adjustment of insulin or antidiabetics may be required, when indicated.
+
+[Micardis 80 mg tablets]
+
+(all sentences already above)

@@ -74,7 +74,7 @@ Very rare: Interstitial lung disease4
 Gastrointestinal disorders
 
 Uncommon: Abdominal pain, diarrhoea, dyspepsia, flatulence, vomiting
-Rare: Dry mouth, stomach discomfort
+Rare: Dry mouth, stomach discomfort, dysgeusia
 
 Hepato-biliary disorders
 
@@ -83,9 +83,9 @@ Rare: Hepatic function abnormal/liver disorder3
 Skin and subcutaneous tissue disorders
 
 Uncommon: Pruritus, hyperhidrosis, rash
-Rare: Angioedema (also with fatal outcome), eczema, erythema, urticaria,
+Rare: Angioedema (also with fatal outcome), eczema, erythema,
 
-drug eruption, toxic skin eruption
+urticaria, drug eruption, toxic skin eruption
 
 Muscoloskeletal and connective tissue disorders
 
@@ -127,6 +127,11 @@ Interstitial lung disease
 Cases of interstitial lung disease have been reported from post-marketing experience in temporal association with the intake of telmisartan.
 However, a causal relationship has not been established.
 
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
 [Micardis 40 mg tablets]
 
 Serious adverse drug reactions include anaphylactic reaction and angioedema which may occur rarely (≥1/10,000 to <1/1,000), and acute renal failure.
@@ -137,10 +142,6 @@ The listing also takes into account serious adverse reactions and adverse reacti
 
 infection including pharyngitis and sinusitis )
 
-Rare: Angioedema (also with fatal outcome), eczema, erythema, ,
-
-urticaria, drug eruption, toxic skin eruption
-
 Rare: Haemoglobin decreased, blood uric acid increased, hepatic
 
 enzyme increased, blood creatine phosphokinase increased
@@ -150,6 +151,10 @@ enzyme increased, blood creatine phosphokinase increased
 Description of selected adverse reactions
 
 [Micardis 80 mg tablets]
+
+Rare: Angioedema (also with fatal outcome), eczema, erythema, urticaria,
+
+drug eruption, toxic skin eruption
 
 Rare: Arthralgia, pain in extremity, tendor pain (tendinitis like symptoms)
 

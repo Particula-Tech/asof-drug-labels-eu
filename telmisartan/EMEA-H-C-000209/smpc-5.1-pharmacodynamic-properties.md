@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Angiotensin II Antagonists, plain, ATC Code: C09CA07.
-
 Mechanism of action
 
 Telmisartan is an orally active and specific angiotensin II receptor (type AT1) antagonist.
@@ -15,6 +14,7 @@ Plasma aldosterone levels are decreased by telmisartan.
 Telmisartan does not inhibit human plasma renin or block ion channels.
 Telmisartan does not inhibit angiotensin converting enzyme (kininase II), the enzyme which also degrades bradykinin.
 Therefore it is not expected to potentiate bradykinin-mediated adverse effects.
+
 In human, an 80 mg dose of telmisartan almost completely inhibits the angiotensin II evoked blood pressure increase.
 The inhibitory effect is maintained over 24 hours and still measurable up to 48 hours.
 
@@ -39,15 +39,16 @@ The incidence of dry cough was significantly lower in patients treated with telm
 
 Cardiovascular prevention
 ONTARGET (ONgoing Telmisartan Alone and in Combination with Ramipril Global Endpoint Trial) compared the effects of telmisartan, ramipril and the combination of telmisartan and ramipril on cardiovascular outcomes in 25620 patients aged 55 years or older with a history of coronary artery disease, stroke, TIA, peripheral arterial disease, or type 2 diabetes mellitus accompanied by evidence of end-organ damage (e.g. retinopathy, left ventricular hypertrophy, macro- or microalbuminuria), which is a population at risk for cardiovascular events.
-
 Patients were randomized to one of the three following treatment groups: telmisartan 80 mg (n = 8542), ramipril 10 mg (n = 8576), or the combination of telmisartan 80 mg plus ramipril 10 mg (n = 8502), and followed for a mean observation time of 4.5 years.
 
 Telmisartan showed a similar effect to ramipril in reducing the primary composite endpoint of cardiovascular death, non-fatal myocardial infarction, non-fatal stroke, or hospitalization for congestive heart failure.
-The incidence of the primary endpoint was similar in the telmisartan (16.7 %) and ramipril (16.5 %) groups.
+The incidence of the primary endpoint was similar in the telmisartan
+(16.7 %) and ramipril (16.5 %) groups.
 The hazard ratio for telmisartan vs. ramipril was 1.01 (97.5 % CI 0.93 - 1.10, p (non-inferiority) = 0.0019 at a margin of 1.13).
 The all-cause mortality rate was 11.6 % and 11.8 % among telmisartan and ramipril treated patients, respectively.
 
 Telmisartan was found to be similarly effective to ramipril in the pre-specified secondary endpoint of cardiovascular death, non-fatal myocardial infarction, and non-fatal stroke [0.99 (97.5 % CI 0.90 - 1.08), p (non-inferiority) = 0.0004], the primary endpoint in the reference study HOPE (The Heart Outcomes Prevention Evaluation Study), which had investigated the effect of ramipril vs. placebo.
+
 TRANSCEND randomized ACE-I intolerant patients with otherwise similar inclusion criteria as ONTARGET to telmisartan 80 mg (n=2954) or placebo (n=2972), both given on top of standard care.
 The mean duration of follow up was 4 years and 8 months.
 No statistically significant difference in the incidence of the primary composite endpoint (cardiovascular death, non-fatal myocardial infarction, non-fatal stroke, or hospitalization for congestive heart failure) was found [15.7 % in the telmisartan and 17.0 % in the placebo groups with a hazard ratio of 0.92 (95 % CI 0.81 - 1.05, p = 0.22)].
@@ -63,6 +64,18 @@ Therefore the use of a combination of telmisartan and ramipril is not recommende
 
 In the "Prevention Regimen For Effectively avoiding Second Strokes" (PRoFESS) trial in patients 50 years and older, who recently experienced stroke, an increased incidence of sepsis was noted for telmisartan compared with placebo, 0.70 % vs. 0.49 % [RR 1.43 (95 % confidence interval 1.00 - 2.06)]; the incidence of fatal sepsis cases was increased for patients taking telmisartan (0.33 %) vs. patients taking placebo (0.16 %) [RR 2.07 (95 % confidence interval 1.14 - 3.76)].
 The observed increased occurrence rate of sepsis associated with the use of telmisartan may be either a chance finding or related to a mechanism not currently known.
+
+Two large randomised, controlled trials (ONTARGET (ONgoing Telmisartan Alone and in combination with Ramipril Global Endpoint Trial) and VA NEPHRON-D (The Veterans Affairs Nephropathy in Diabetes)) have examined the use of the combination of an ACE-inhibitor with an angiotensin II receptor blocker.
+ONTARGET was a study conducted in patients with a history of cardiovascular or cerebrovascular disease, or type 2 diabetes mellitus accompanied by evidence of end-organ damage.
+For more detailed information see above under the heading “Cardiovascular prevention”.
+VA NEPHRON-D was a study in patients with type 2 diabetes mellitus and diabetic nephropathy.
+These studies have shown no significant beneficial effect on renal and/or cardiovascular outcomes and mortality, while an increased risk of hyperkalaemia, acute kidney injury and/or hypotension as compared to monotherapy was observed.
+Given their similar pharmacodynamic properties, these results are also relevant for other ACE-inhibitors and angiotensin II receptor blockers.
+ACE-inhibitors and angiotensin II receptor blockers should therefore not be used concomitantly in patients with diabetic nephropathy.
+
+ALTITUDE (Aliskiren Trial in Type 2 Diabetes Using Cardiovascular and Renal Disease Endpoints) was a study designed to test the benefit of adding aliskiren to a standard therapy of an ACE-inhibitor or an angiotensin II receptor blocker in patients with type 2 diabetes mellitus and chronic kidney disease, cardiovascular disease, or both.
+The study was terminated early because of an increased risk of adverse outcomes.
+Cardiovascular death and stroke were both numerically more frequent in the aliskiren group than in the placebo group and adverse events and serious adverse events of interest (hyperkalaemia, hypotension and renal dysfunction) were more frequently reported in the aliskiren group than in the placebo group.
 
 Paediatric population
 The safety and efficacy of Micardis in children and adolescents aged below 18 years have not been established.
