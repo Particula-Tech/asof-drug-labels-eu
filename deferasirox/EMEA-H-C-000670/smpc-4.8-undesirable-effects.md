@@ -25,11 +25,16 @@ Table 1
 
 Blood and lymphatic system disorders
 
-Not known: Pancytopenia1, thrombocytopenia1, anaemia aggravated1
+Not known: Pancytopenia1, thrombocytopenia1, anaemia aggravated1,
 
+neutropenia
 Immune system disorders
 
 Not known: Hypersensitivity reactions (including anaphylaxis and angioedema)1
+
+Metabolism and nutrition disorders
+
+Not known: Metabolic acidosis
 
 Psychiatric disorders
 
@@ -43,6 +48,7 @@ Uncommon: Dizziness
 Eye disorders
 
 Uncommon: Early cataract, maculopathy
+Rare: Optic neuritis
 
 Ear and labyrinth disorders
 
@@ -63,6 +69,7 @@ Uncommon: Gastrointestinal haemorrhage, gastric ulcer (including multiple
 ulcers), duodenal ulcer, gastritis
 
 Rare: Oesophagitis
+Not known: Gastrointestinal perforation
 
 Hepatobiliary disorders
 
@@ -82,8 +89,9 @@ Very common: Blood creatinine increased
 
 Common: Proteinuria
 Uncommon: Renal tubulopathy (acquired Fanconi’s syndrome), glycosuria
-Not known: Acute renal failure1, tubulointerstitial nephritis1
+Not known: Acute renal failure1, tubulointerstitial nephritis1, nephrolithiasis,
 
+renal tubular necrosis1
 General disorders and administration site conditions
 
 Uncommon: Pyrexia, oedema, fatigue
@@ -95,6 +103,8 @@ Gallstones and related biliary disorders were reported in about 2% of patients.
 Elevations of liver transaminases were reported as an adverse reaction in 2% of patients.
 Elevations of transaminases greater than 10 times the upper limit of the normal range, suggestive of hepatitis, were uncommon (0.3%).
 During post-marketing experience, hepatic failure, sometimes fatal, has been reported with EXJADE, especially in patients with pre-existing liver cirrhosis (see section 4.4).
+There have been post-marketing reports of metabolic acidosis.
+The majority of these patients had renal impairment, renal tubulopathy (Fanconi’s syndrome) or diarrhoea, or conditions where acid-base imbalance is a known complication (see section 4.4).
 Serious acute pancreatitis may potentially occur as a complication of gallstones (and related biliary disorders).
 As with other iron chelator treatment, high-frequency hearing loss and lenticular opacities (early cataracts) have been uncommonly observed in patients treated with EXJADE (see section 4.4).
 

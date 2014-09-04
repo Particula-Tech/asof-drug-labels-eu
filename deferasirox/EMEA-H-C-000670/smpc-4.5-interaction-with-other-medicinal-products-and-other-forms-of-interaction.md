@@ -32,9 +32,9 @@ Therefore, the concomitant use of EXJADE with theophylline is not recommended.
 If EXJADE and theophylline are used concomitantly, monitoring of theophylline concentration and theophylline dose reduction should be considered.
 An interaction between EXJADE and other CYP1A2 substrates cannot be excluded.
 For substances that are predominantly metabolised by CYP1A2 and that have a narrow therapeutic index (e.g. clozapine, tizanidine), the same recommendations apply as for theophylline.
+
 The concomitant administration of EXJADE and aluminium-containing antacid preparations has not been formally studied.
 Although deferasirox has a lower affinity for aluminium than for iron, it is not recommended to take EXJADE tablets with aluminium-containing antacid preparations.
-
 The concomitant administration of EXJADE and vitamin C has not been formally studied.
 Doses of vitamin C up to 200 mg per day have not been associated with adverse consequences.
 

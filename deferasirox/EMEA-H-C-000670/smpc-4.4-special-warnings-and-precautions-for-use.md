@@ -20,6 +20,11 @@ Serum creatinine, creatinine clearance (estimated with the Cockcroft-Gault or MD
 Patients with pre-existing renal conditions and patients who are receiving medicinal products that depress renal function may be more at risk of complications.
 Care should be taken to maintain adequate hydration in patients who develop diarrhoea or vomiting.
 
+There have been post-marketing reports of metabolic acidosis occurring during treatment with EXJADE.
+The majority of these patients had renal impairment, renal tubulopathy (Fanconi’s syndrome) or diarrhoea, or conditions where acid-base imbalance is a known complication.
+Acid-base balance should be monitored as clinically indicated in these populations.
+Interruption of EXJADE therapy should be considered in patients who develop metabolic acidosis.
+
 For adult patients, the daily dose may be reduced by 10 mg/kg if a rise in serum creatinine by >33% above the average of the pre-treatment measurements and estimated creatinine clearance decreases below the lower limit of the normal range (<90 ml/min) are seen at two consecutive visits, and cannot be attributed to other causes (see section 4.2).
 For paediatric patients, the dose may be reduced by 10 mg/kg if estimated creatinine clearance decreases below the lower limit of the normal range
 (<90 ml/min) and/or serum creatinine levels rise above the age-appropriate upper limit of normal at two consecutive visits.
@@ -40,7 +45,6 @@ Liver function test elevations have been observed in patients treated with EXJAD
 Post-marketing cases of hepatic failure, sometimes fatal, have been reported in patients treated with EXJADE.
 Most reports of hepatic failure involved patients with significant morbidities including pre-existing liver cirrhosis.
 However, the role of EXJADE as a contributing or aggravating factor cannot be excluded (see section 4.8).
-
 It is recommended that serum transaminases, bilirubin and alkaline phosphatase be checked before the initiation of treatment, every 2 weeks during the first month and monthly thereafter.
 If there is a persistent and progressive increase in serum transaminase levels that cannot be attributed to other causes, EXJADE should be interrupted.
 Once the cause of the liver function test abnormalities has been clarified or after return to normal levels, cautious re-initiation of treatment at a lower dose followed by gradual dose escalation may be considered.
@@ -69,7 +73,8 @@ In addition, before treating heavily iron-overloaded children with non-transfusi
 Gastrointestinal
 Upper gastrointestinal ulceration and haemorrhage have been reported in patients, including children and adolescents, receiving EXJADE.
 Multiple ulcers have been observed in some patients (see section 4.8).
-There have been reports of fatal gastrointestinal haemorrhages, especially in elderly patients who had haematological malignancies and/or low platelet counts.
+There have been reports of ulcers complicated with digestive perforation.
+Also, there have been reports of fatal gastrointestinal haemorrhages, especially in elderly patients who had haematological malignancies and/or low platelet counts.
 Physicians and patients should remain alert for signs and symptoms of gastrointestinal ulceration and haemorrhage during EXJADE therapy and promptly initiate additional evaluation and treatment if a serious gastrointestinal adverse reaction is suspected.
 Caution should be exercised in patients who are taking EXJADE in combination with substances that have known ulcerogenic potential, such as NSAIDs, corticosteroids, or oral bisphosphonates, in patients receiving anticoagulants and in patients with platelet counts below 50,000/mm3 (50 x 109/l) (see section 4.5).
 Skin disorders
@@ -78,7 +83,8 @@ The rashes resolve spontaneously in most cases.
 When interruption of treatment may be necessary, treatment may be reintroduced after resolution of the rash, at a lower dose followed by gradual dose escalation.
 In severe cases this reintroduction could be conducted in combination with a short period of oral steroid administration.
 Cases of Stevens-Johnson syndrome (SJS) have been reported post marketing.
-If SJS is suspected, EXJADE should be discontinued immediately and should not be reintroduced.
+The risk of other more severe skin reactions (TEN [toxic epidermal necrolysis], DRESS [drug reaction with eosinophilia and systemic symptoms]) cannot be excluded.
+If SJS or any other severe skin reaction is suspected, EXJADE should be discontinued immediately and should not be reintroduced.
 
 Hypersensitivity reactions
 Cases of serious hypersensitivity reactions (such as anaphylaxis and angioedema) have been reported in patients receiving EXJADE, with the onset of the reaction occurring in the majority of cases within the first month of treatment (see section 4.8).
