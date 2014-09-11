@@ -1,6 +1,6 @@
 # 6.3 Shelf life
 
-20 months
+20 months.
 
 After dilution:
 

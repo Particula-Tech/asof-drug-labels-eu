@@ -1,6 +1,9 @@
 # 4.4 Special warnings and precautions for use
 
-Cardiac toxicity: It is recommended that all patients receiving Caelyx routinely undergo frequent ECG monitoring.
+Given the difference in pharmacokinetic profiles and dosing schedules, Caelyx should not be used interchangeably with other formulations of doxorubicin hydrochloride.
+
+Cardiac toxicity
+It is recommended that all patients receiving Caelyx routinely undergo frequent ECG monitoring.
 Transient ECG changes such as T-wave flattening, S-T segment depression and benign arrhythmias are not considered mandatory indications for the suspension of Caelyx therapy.
 However, reduction of the QRS complex is considered more indicative of cardiac toxicity.
 If this change occurs, the most definitive test for anthracycline myocardial injury, i.e., endomyocardial biopsy, must be considered.
@@ -16,16 +19,18 @@ In patients with cardiac disease requiring treatment, administer Caelyx only whe
 
 Exercise caution in patients with impaired cardiac function who receive Caelyx.
 
-Whenever cardiomyopathy is suspected, i.e., the left ventricular ejection fraction has substantially decreased relative to pre-treatment values and/or left ventricular ejection fraction is lower than a prognostically relevant value (e.g. < 45 %), endomyocardial biopsy may be considered and the benefit of continued therapy must be carefully evaluated against the risk of developing irreversible cardiac damage.
+Whenever cardiomyopathy is suspected, i.e., the left ventricular ejection fraction has substantially decreased relative to pre-treatment values and/or left ventricular ejection fraction is lower than a prognostically relevant value (e.g., < 45%), endomyocardial biopsy may be considered and the benefit of continued therapy must be carefully evaluated against the risk of developing irreversible cardiac damage.
+
 Congestive heart failure due to cardiomyopathy may occur suddenly, without prior ECG changes and may also be encountered several weeks after discontinuation of therapy.
 
 Caution must be observed in patients who have received other anthracyclines.
-The total dose of doxorubicin hydrochloride must also take into account any previous (or concomitant) therapy with cardiotoxic compounds such as other anthracyclines/anthraquinones or e.g. 5-fluorouracil.
+The total dose of doxorubicin hydrochloride must also take into account any previous (or concomitant) therapy with cardiotoxic compounds such as other anthracyclines/anthraquinones or e.g., 5-fluorouracil.
 Cardiac toxicity also may occur at cumulative anthracycline doses lower than 450 mg/m2 in patients with prior mediastinal irradiation or in those receiving concurrent cyclophosphamide therapy.
 
 The cardiac safety profile for the dosing schedule recommended for both breast and ovarian cancer (50 mg/m2) is similar to the 20 mg/m2 profile in patients with AIDS-KS (see section 4.8).
 
-Myelosuppression: Many patients treated with Caelyx have baseline myelosuppression due to such factors as their pre-existing HIV disease or numerous concomitant or previous medications, or tumours involving bone marrow.
+Myelosuppression
+Many patients treated with Caelyx have baseline myelosuppression due to such factors as their pre-existing HIV disease or numerous concomitant or previous medications, or tumours involving bone marrow.
 In the pivotal trial in patients with ovarian cancer treated at a dose of 50 mg/m2, myelosuppression was generally mild to moderate, reversible, and was not associated with episodes of neutropaenic infection or sepsis.
 Moreover, in a controlled clinical trial of Caelyx vs. topotecan, the incidence of treatment related sepsis was substantially less in the Caelyx-treated ovarian cancer patients as compared to the topotecan treatment group.
 A similar low incidence of myelosuppression was seen in patients with metastatic breast cancer receiving Caelyx in a first-line clinical trial.
@@ -37,12 +42,16 @@ Persistent severe myelosuppression, may result in superinfection or haemorrhage.
 In controlled clinical studies in patients with AIDS-KS against a bleomycin/vincristine regimen, opportunistic infections were apparently more frequent during treatment with Caelyx.
 Patients and doctors must be aware of this higher incidence and take action as appropriate.
 
+Secondary haematological malignancies
 As with other DNA-damaging antineoplastic agents, secondary acute myeloid leukemias and myelodysplasias have been reported in patients having received combined treatment with doxorubicin.
 Therefore, any patient treated with doxorubicin should be kept under haematological supervision.
 
-Given the difference in pharmacokinetic profiles and dosing schedules, Caelyx should not be used interchangeably with other formulations of doxorubicin hydrochloride.
-
-Infusion-associated reactions: Serious and sometimes life-threatening infusion reactions, which are characterised by allergic-like or anaphylactoid-like reactions, with symptoms including asthma, flushing, urticarial rash, chest pain, fever, hypertension, tachycardia, pruritus, sweating, shortness of breath, facial oedema, chills, back pain, tightness in the chest and throat and/or hypotension may occur within minutes of starting the infusion of Caelyx.
+Secondary oral neoplasms
+Very rare cases of secondary oral cancer have been reported in patients with long-term (more than one year) exposure to Caelyx or those receiving a cumulative Caelyx dose greater than 720 mg/m2.
+Cases of secondary oral cancer were diagnosed both, during treatment with Caelyx, and up to 6 years after the last dose.
+Patients should be examined at regular intervals for the presence of oral ulceration or any oral discomfort that may be indicative of secondary oral cancer.
+Infusion-associated reactions
+Serious and sometimes life-threatening infusion reactions, which are characterised by allergic-like or anaphylactoid-like reactions, with symptoms including asthma, flushing, urticarial rash, chest pain, fever, hypertension, tachycardia, pruritus, sweating, shortness of breath, facial oedema, chills, back pain, tightness in the chest and throat and/or hypotension may occur within minutes of starting the infusion of Caelyx.
 Very rarely, convulsions also have been observed in relation to infusion reactions (see section 4.8).
 Temporarily stopping the infusion usually resolves these symptoms without further therapy.
 However, medications to treat these symptoms (e.g., antihistamines, corticosteroids, adrenaline, and anticonvulsants), as well as emergency equipment should be available for immediate use.
@@ -50,6 +59,7 @@ In most patients treatment can be resumed after all symptoms have resolved, with
 Infusion reactions rarely recur after the first treatment cycle.
 To minimise the risk of infusion reactions, the initial dose should be administered at a rate no greater than 1 mg/minute (see section 4.2).
 
-Diabetic patients: Please note that each vial of Caelyx contains sucrose and the dose is administered in 5 % (50 mg/ml) glucose solution for infusion.
+Diabetic patients
+Please note that each vial of Caelyx contains sucrose and the dose is administered in 5% (50 mg/ml) glucose solution for infusion.
 
 For common adverse events which required dose modification or discontinuation see section 4.8.
