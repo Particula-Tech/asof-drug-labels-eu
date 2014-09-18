@@ -9,10 +9,10 @@ Special populations
 
 Patients with renal impairment
 For patients with renal impairment, no dose adjustment for Trajenta is required.
-
 Patients with hepatic impairment
 Pharmacokinetic studies suggest that no dose adjustment is required for patients with hepatic impairment but clinical experience in such patients is lacking.
-Elderly patients
+
+Older people
 No dose adjustment is necessary based on age.
 
 However, clinical experience in patients > 80 years of age is limited and caution should be exercised when treating this population.

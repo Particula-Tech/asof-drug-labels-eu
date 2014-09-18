@@ -2,7 +2,6 @@
 
 The pharmacokinetics of linagliptin has been extensively characterized in healthy subjects and patients with type 2 diabetes.
 After oral administration of a 5 mg dose to healthy volunteers or patients, linagliptin was rapidly absorbed, with peak plasma concentrations (median Tmax) occurring 1.5 hours post-dose.
-
 Plasma concentrations of linagliptin decline in a triphasic manner with a long terminal half-life (terminal half-life for linagliptin more than 100 hours), that is mostly related to the saturable, tight binding of linagliptin to DPP-4 and does not contribute to the accumulation of the medicinal product.
 The effective half-life for accumulation of linagliptin, as determined from oral administration of multiple doses of 5 mg linagliptin, is approximately 12 hours.
 After once daily dosing of 5 mg linagliptin, steady-state plasma concentrations are reached by the third dose.
@@ -58,9 +57,9 @@ Gender
 No dosage adjustment is necessary based on gender.
 Gender had no clinically relevant effect on the pharmacokinetics of linagliptin based on a population pharmacokinetic analysis of Phase I and Phase II data.
 
-Geriatric
+Older people
 No dosage adjustment is required based on age up to 80 years, as age did not have a clinically relevant impact on the pharmacokinetics of linagliptin based on a population pharmacokinetic analysis of Phase I and Phase II data.
-Elderly subjects (65 to 80 oldest patients was 78 years) had comparable plasma concentrations of linagliptin compared to younger subjects.
+Older subjects (65 to 80, oldest patient was 78 years) had comparable plasma concentrations of linagliptin compared to younger subjects.
 
 Paediatric population
 Studies characterizing the pharmacokinetics of linagliptin in paediatric patients have not been yet performed.

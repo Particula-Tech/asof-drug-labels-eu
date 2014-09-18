@@ -21,6 +21,7 @@ Linagliptin once daily produced clinically significant improvements in glycaemic
 The reductions in glycosylated haemoglobin A1c (HbA1c) were similar across different subgroups including gender, age, renal impairment and body mass index (BMI).
 Higher baseline HbA1c was associated with a greater reduction in HbA1c.
 There was a significant difference in reduction in HbA1c between Asian patients (0.8%) and White patients (0.5%) in the pooled studies.
+
 Linagliptin as monotherapy in patients ineligible for metformin
 The efficacy and safety of linagliptin monotherapy was evaluated in a double-blind placebo-controlled study of 24 weeks duration.
 Treatment with once daily linagliptin at 5 mg provided a significant improvement in HbA1c (-0.69% change compared to placebo), in patients with baseline HbA1c of approximately 8%.
@@ -69,8 +70,8 @@ Body weight did not differ significantly between the groups.
 The observed incidence of hypoglycaemia in patients treated with linagliptin was higher than placebo, due to an increase in asymptomatic hypoglycaemic events.
 There was no difference between groups in severe hypoglycaemic events.
 
-Linagliptin as add-on therapy in elderly patients (age ≥ 70 years) with type 2 diabetes
-The efficacy and safety of linagliptin in elderly (age ≥ 70years) type 2 diabetes patients was evaluated in a double-blind study of 24 weeks duration.
+Linagliptin as add-on therapy in older people (age ≥ 70 years) with type 2 diabetes
+The efficacy and safety of linagliptin in older people (age ≥ 70years) with type 2 diabetes was evaluated in a double-blind study of 24 weeks duration.
 Patients received metformin and/or sulphonylurea and/or insulin as background therapy.
 Doses of background antidiabetic medications were kept stable during the first 12 weeks, after which adjustments were permitted.
 Linagliptin provided significant improvements in HbA1c (-0.64 % change compared to placebo after 24 weeks), from a mean baseline HbA1c of 7.8%.

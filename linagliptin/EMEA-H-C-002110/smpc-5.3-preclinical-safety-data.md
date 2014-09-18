@@ -10,7 +10,6 @@ Linagliptin and its main metabolite did not show a genotoxic potential.
 Oral 2 year carcinogenicity studies in rats and mice revealed no evidence of carcinogenicity in rats or male mice.
 A significantly higher incidence of malignant lymphomas only in female mice at the highest dose (> 200 times human exposure) is not considered relevant for humans (explanation: non-treatment related but due to highly variable background incidence).
 Based on these studies there is no concern for carcinogenicity in humans.
-
 The NOAEL for fertility, early embryonic development and teratogenicity in rats was set at >900 times the human exposure.
 The NOAEL for maternal-, embryo-fetal-, and offspring toxicity in rats was 49 times human exposure.
 No teratogenic effects were observed in rabbits at >1000 times human exposure.
