@@ -23,3 +23,11 @@ Croscarmellose sodium
 Magnesium stearate
 
 Tablet coat polyvinyl alcohol macrogol 3350 titanium dioxide (E171) talc iron oxide yellow (E172)
+
+[Noxafil 300 mg concentrate for solution for infusion]
+
+Betadex Sulfobutyl Ether Sodium (SBECD)
+Disodium edetate
+Hydrochloric acid [for pH adjustment]
+Sodium hydroxide [for pH adjustment]
+Water for injections

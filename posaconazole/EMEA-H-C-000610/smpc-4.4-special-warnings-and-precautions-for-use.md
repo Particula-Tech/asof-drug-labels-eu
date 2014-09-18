@@ -28,7 +28,6 @@ Noxafil should be administered with caution to patients with pro-arrhythmic cond
 - Concomitant use with medicinal products known to prolong the QTc interval (other than those mentioned in section 4.3).
 
 Electrolyte disturbances, especially those involving potassium, magnesium or calcium levels, should be monitored and corrected as necessary before and during posaconazole therapy.
-
 Posaconazole is an inhibitor of CYP3A4 and should only be used under specific circumstances during treatment with other medicinal products that are metabolised by CYP3A4 (see section 4.5).
 
 Gastrointestinal dysfunction
@@ -38,8 +37,12 @@ Patients who have severe diarrhoea or vomiting should be monitored closely for b
 Rifamycin antibacterials (rifampicin, rifabutin), certain anticonvulsants (phenytoin, carbamazepine, phenobarbital, primidone), efavirenz and cimetidine
 Posaconazole concentrations may be significantly lowered in combination; therefore, concomitant use with posaconazole should be avoided unless the benefit to the patient outweighs the risk (see section 4.5).
 
+Midazolam and other benzodiazepines metabolised by CYP3A4
+Due to the risk of prolonged sedation and possible respiratory depression co-administration of posaconazole with any benzodiazepines metabolised by CYP3A4 (e.g. midazolam, triazolam, alprazolam) should only be considered if clearly necessary.
+Dose adjustment of benzodiazepines metabolised by CYP3A4 should be considered (see section 4.5).
+
 Excipients
-This medicinal product contains approximately 1.75 g of glucose per 5 ml of suspension.
+This medicinal product contains approximately 1.75 g of glucose per 5 mL of suspension.
 Patients with glucose-galactose malabsorption should not take this medicine.
 
 [Noxafil 100 mg gastro-resistant tablets]
@@ -50,3 +53,23 @@ Plasma exposure
 Posaconazole plasma concentrations following administration of posaconazole tablets are generally higher than those obtained with posaconazole oral suspension.
 Posaconazole plasma concentrations following administration of posaconazole tablets may increase over time in some patients (see section 5.2).
 Safety data at higher exposure levels achieved with posaconazole tablets are at present limited.
+
+[Noxafil 300 mg concentrate for solution for infusion]
+
+Hepatic reactions (e.g. elevations in ALT, AST, alkaline phosphatase, total bilirubin and/or clinical hepatitis) have been reported during treatment with posaconazole.
+
+Monitoring of patients with severe renal impairment
+Due to the variability in exposure, patients with severe renal impairment should be monitored closely for breakthrough fungal infections (see sections 4.2 and 5.2).
+
+In patients, mean maximum plasma concentrations (Cmax) after posaconazole concentrate for solution for infusion are 4-fold increased compared to administration of oral suspension.
+An increased effect on the QTc interval cannot be ruled out.
+Particular caution is advised in such cases where posaconazole is administered peripherally, as the recommended infusion time of 30 minutes may further increase Cmax.
+
+Plasma concentrations following administration of posaconazole intravenous concentrate for solution for infusion are generally higher than those obtained with posaconazole oral suspension.
+Posaconazole plasma concentrations following administration of posaconazole may increase over time in some patients (see section 5.2).
+Safety data at higher exposure levels achieved with posaconazole concentrate for solution for infusion are at present limited.
+
+Thromboembolic events
+Thromboembolic events have been identified as a potential risk for posaconazole intravenous concentrate for solution for infusion but were not observed in the clinical studies.
+Thrombophlebitis was observed in clinical trials.
+Caution is warranted on any sign or symptom of thromboembolic events (see sections 4.8 and 5.3).

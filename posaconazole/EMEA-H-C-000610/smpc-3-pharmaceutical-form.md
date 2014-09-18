@@ -8,3 +8,8 @@ White suspension
 
 Gastro-resistant tablet (tablet)
 Yellow-coated, capsule-shaped tablet of 17.5 mm length debossed with “100” on one side.
+
+[Noxafil 300 mg concentrate for solution for infusion]
+
+Concentrate for solution for infusion.
+Clear, colourless to yellow liquid.

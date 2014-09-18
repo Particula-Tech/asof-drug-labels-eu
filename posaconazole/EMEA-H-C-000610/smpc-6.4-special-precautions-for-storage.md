@@ -5,3 +5,9 @@ Do not freeze.
 [Noxafil 100 mg gastro-resistant tablets]
 
 This medicinal product does not require any special storage conditions.
+
+[Noxafil 300 mg concentrate for solution for infusion]
+
+Store in a refrigerator at 2°C-8°C.
+
+For storage conditions after dilution of the medicinal product, see section 6.3.

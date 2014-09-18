@@ -21,5 +21,12 @@ Noxafil gastro-resistant tablets are indicated for use in the treatment of the f
 
 Noxafil gastro-resistant tablets are also indicated for prophylaxis of invasive fungal infections in the following patients:
 
-Noxafil tablets are not indicated for the treatment of oropharyngeal candidiasis.
 Please refer to the Summary of Product Characteristics of Noxafil oral suspension for use in oropharyngeal candidiasis.
+
+[Noxafil 300 mg concentrate for solution for infusion]
+
+Noxafil concentrate for solution for infusion is indicated for use in the treatment of the following fungal infections in adults (see section 5.1):
+
+Noxafil concentrate for solution for infusion is also indicated for prophylaxis of invasive fungal infections in the following patients:
+
+- Hematopoietic stem cell transplant (HSCT) recipients who are undergoing high-dose immunosuppressive therapy for graft versus host disease (GVHD) and who are at high risk of developing invasive fungal infections.

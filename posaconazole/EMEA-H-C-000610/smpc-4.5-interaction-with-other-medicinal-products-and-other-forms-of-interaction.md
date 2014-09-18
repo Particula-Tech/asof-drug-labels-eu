@@ -4,29 +4,32 @@ Effects of other medicinal products on posaconazole
 Posaconazole is metabolised via UDP glucuronidation (phase 2 enzymes) and is a substrate for p-glycoprotein (P-gp) efflux in vitro.
 Therefore, inhibitors (e.g. verapamil, ciclosporin, quinidine, clarithromycin, erythromycin, etc.) or inducers (e.g. rifampicin, rifabutin, certain anticonvulsants, etc.) of these clearance pathways may increase or decrease posaconazole plasma concentrations, respectively.
 
+Rifabutin
 Rifabutin (300 mg once a day) decreased the Cmax (maximum plasma concentration) and AUC (area under the plasma concentration time curve) of posaconazole to 57 % and 51 %, respectively.
 Concomitant use of posaconazole and rifabutin and similar inducers (e.g. rifampicin) should be avoided unless the benefit to the patient outweighs the risk.
 See also below regarding the effect of posaconazole on rifabutin plasma levels.
 
+Efavirenz
 Efavirenz (400 mg once a day) decreased the Cmax and AUC of posaconazole by 45 % and 50 %, respectively.
 Concomitant use of posaconazole and efavirenz should be avoided unless the benefit to the patient outweighs the risk.
 
 Fosamprenavir
 Combining fosamprenavir with posaconazole may lead to decreased posaconazole plasma concentrations.
 If concomitant administration is required, close monitoring for breakthrough fungal infections is recommended.
-Repeat dose administration of fosamprenavir (700 mg BID x 10 days) decreased the Cmax and AUC of posaconazole oral suspension (200 mg QD on the 1st day, 200 mg BID on the 2nd day, then 400 mg BID x 8 Days) by 21 % and 23 %, respectively.
+Repeat dose administration of fosamprenavir (700 mg twice daily x 10 days) decreased the Cmax and AUC of posaconazole oral suspension (200 mg once daily on the 1st day, 200 mg twice daily on the 2nd day, then 400 mg twice daily x 8 Days) by 21 % and 23 %, respectively.
 The effect of posaconazole on fosamprenavir levels when fosamprenavir is given with ritonavir is unknown.
-
 Phenytoin
 Phenytoin (200 mg once a day) decreased the Cmax and AUC of posaconazole by 41 % and 50 %, respectively.
 Concomitant use of posaconazole and phenytoin and similar inducers (e.g. carbamazepine, phenobarbital, primidone) should be avoided unless the benefit to the patient outweighs the risk.
 
-H2 receptor antagonists and proton pump inhibitors: Posaconazole plasma concentrations (Cmax and AUC) were reduced by 39 % when posaconazole was administered with cimetidine (400 mg twice a day) due to reduced absorption possibly secondary to a decrease in gastric acid production.
+H2 receptor antagonists and proton pump inhibitors
+Posaconazole plasma concentrations (Cmax and AUC) were reduced by 39 % when posaconazole was administered with cimetidine (400 mg twice a day) due to reduced absorption possibly secondary to a decrease in gastric acid production.
 Co-administration of posaconazole with H2 receptor antagonists should be avoided if possible.
 Similarly, administration of 400 mg posaconazole with esomeprazole (40 mg daily) decreased mean Cmax and AUC by 46 % and 32 %, respectively, compared to dosing with 400 mg posaconazole alone.
 Co-administration of posaconazole with proton pump inhibitors should be avoided if possible.
 
-Food: The absorption of posaconazole is significantly increased by food (see sections 4.2 and 5.2).
+Food
+The absorption of posaconazole is significantly increased by food (see sections 4.2 and 5.2).
 
 Effects of posaconazole on other medicinal products
 Posaconazole is a potent inhibitor of CYP3A4.
@@ -53,6 +56,7 @@ Vinca alkaloids
 Posaconazole may increase the plasma concentration of vinca alkaloids (e.g. vincristine and vinblastine), which may lead to neurotoxicity.
 Therefore, concomitant use of posaconazole and vinca alkaloids should be avoided unless the benefit to the patient outweighs the risk.
 If co-administered, then it is recommended that dose adjustment of vinca alkaloids be considered.
+
 Rifabutin
 Posaconazole increased the Cmax and AUC of rifabutin by 31 % and 72 %, respectively.
 Concomitant use of posaconazole and rifabutin should be avoided unless the benefit to the patient outweighs the risk (see also above regarding the effect of rifabutin on plasma levels of posaconazole).
@@ -86,12 +90,13 @@ Following co-administration of posaconazole oral suspension (400 mg twice daily)
 Following co-administration of posaconazole oral suspension (400 mg twice daily) with atazanavir and ritonavir (300/100 mg once daily) for 7 days in healthy subjects Cmax and AUC of atazanavir increased by an average of 1.5-fold and 2.5-fold (range 0.9 to 4.1-fold), respectively.
 The addition of posaconazole to therapy with atazanavir or with atazanavir plus ritonavir was associated with increases in plasma bilirubin levels.
 Frequent monitoring for adverse reactions and toxicity related to antiretroviral agents that are substrates of CYP3A4 is recommended during co-administration with posaconazole.
+
 Midazolam and other benzodiazepines metabolised by CYP3A4
 In a study in healthy volunteers posaconazole oral suspension (200 mg once daily for 10 days) increased the exposure (AUC) of intravenous midazolam (0.05 mg/kg) by 83 %.
 In another study in healthy volunteers, repeat dose administration of posaconazole oral suspension (200 mg twice daily for 7 days) increased the Cmax and AUC of intravenous midazolam (0.4 mg single dose) by an average of 1.3- and 4.6-fold (range 1.7 to 6.4-fold), respectively; Posaconazole oral suspension 400 mg twice daily for 7 days increased the intravenous midazolam Cmax and AUC by 1.6 and 6.2-fold (range 1.6 to 7.6-fold), respectively.
 Both doses of posaconazole increased Cmax and AUC of oral midazolam (2 mg single oral dose) by 2.2 and 4.5-fold, respectively.
 In addition, posaconazole oral suspension (200 mg or 400 mg) prolonged the mean terminal half-life of midazolam from approximately 3-4 hours to 8-10 hours during co-administration.
-Due to the risk of prolonged sedation it is recommended that dose adjustments should be considered when posaconazole is administered concomitantly with any benzodiazepine that is metabolised by CYP3A4 (e.g. midazolam, triazolam, alprazolam).
+Due to the risk of prolonged sedation it is recommended that dose adjustments should be considered when posaconazole is administered concomitantly with any benzodiazepine that is metabolised by CYP3A4 (e.g. midazolam, triazolam, alprazolam) (see section 4.4).
 
 Calcium channel blockers metabolised through CYP3A4 (e.g. diltiazem, verapamil, nifedipine, nisoldipine)
 Frequent monitoring for adverse reactions and toxicity related to calcium channel blockers is recommended during co-administration with posaconazole.
@@ -110,10 +115,18 @@ Interaction studies have only been performed in adults.
 
 [Noxafil 100 mg gastro-resistant tablets]
 
-H2 receptor antagonists and proton pump inhibitors
 No clinically relevant effects were observed when posaconazole tablets are concomitantly used with antacids, H2-receptor antagonists and proton pump inhibitors.
 No dosage adjustment of posaconazole tablets is required when posaconazole tablets are concomitantly used with antacids, H2-receptor antagonists and proton pump inhibitors.
 
 The effect of co-administration with posaconazole on plasma levels of CYP3A4 substrates may also be variable within a patient.
 
 Therefore, trough concentrations that fall in the upper part of the usual therapeutic range should be targeted and careful attention should be paid to clinical signs and symptoms, laboratory parameters and tissue biopsies.
+
+[Noxafil 300 mg concentrate for solution for infusion]
+
+The following information was derived from data with posaconazole oral suspension or early tablet formulation.
+All drug interactions with posaconazole oral suspension, except for those that affect the absorption of posaconazole (via gastric pH and motility) are considered relevant to posaconazole concentrate for solution for infusion as well.
+
+After oral administration, posaconazole increased the Cmax and AUC of rifabutin by 31 % and 72 %, respectively.
+
+Repeat dose administration of oral posaconazole oral suspension (400 mg twice daily for 16 days) increased the Cmax and AUC of sirolimus (2 mg single dose) an average of 6.7-fold and 8.9-fold (range 3.1 to 17.5-fold), respectively, in healthy subjects.

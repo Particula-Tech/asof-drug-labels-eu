@@ -10,4 +10,8 @@ Supportive care may be considered.
 
 [Noxafil 100 mg gastro-resistant tablets]
 
-There is no experience with overdosage of posaconazole tablets.
+There is no experience with overdose of posaconazole tablets.
+
+[Noxafil 300 mg concentrate for solution for infusion]
+
+There is no experience with overdose of posaconazole concentrate for solution for infusion.
