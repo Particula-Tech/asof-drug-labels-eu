@@ -19,15 +19,15 @@ This rapid onset of activity allows a Humalog injection (or, in the case of admi
 The time course of action of any insulin may vary considerably in different individuals or at different times in the same individual.
 The faster onset of action compared to soluble human insulin is maintained regardless of injection site.
 As with all insulin preparations, the duration of action of Humalog is dependent on dose, site of injection, blood supply, temperature, and physical activity.
-Humalog can be used in conjunction with a longer-acting human insulin or oral sulphonylurea agents, on the advice of a physician.
+
+Humalog can be used in conjunction with a longer-acting insulin or oral sulphonylurea agents, on the advice of a physician.
 
 Use of Humalog in an insulin infusion pump:
 Only certain CE-marked insulin infusion pumps may be used to infuse insulin lispro.
 Before infusing insulin lispro, the manufacturers instructions should be studied to ascertain the suitability or otherwise for the particular pump.
 Read and follow the instructions that accompany the infusion pump.
 Use the correct reservoir and catheter for the pump.
-Change the infusion set every 48 hours.
-Use aseptic technique when inserting the infusion set.
+The infusion set (tubing and cannula) should be changed in accordance with the instructions in the product information supplied with the infusion set.
 In the event of a hypoglycaemic episode, the infusion should be stopped until the episode is resolved.
 If repeated or severe low blood glucose levels occur, notify your health care professional and consider the need to reduce or stop your insulin infusion.
 A pump malfunction or obstruction of the infusion set can result in a rapid rise in glucose levels.
@@ -91,26 +91,6 @@ When administered subcutaneously care should be taken when injecting Humalog BAS
 Humalog BASAL has an activity profile that is very similar to that of a basal insulin (NPH) over a period of approximately 15 hours.
 As with all insulin preparations, the duration of action of Humalog BASAL is dependent on dose, site of injection, blood supply, temperature, and physical activity.
 
-[Humalog Pen 100 U/ml, solution for injection]
-
-When administered subcutaneously care should be taken when injecting Humalog Pen to ensure that a blood vessel has not been entered.
-
-Humalog Pen takes effect rapidly and has a shorter duration of activity (2 to 5 hours) given subcutaneously as compared with regular insulin.
-As with all insulin preparations, the duration of action of Humalog Pen is dependent on dose, site of injection, blood supply, temperature, and physical activity.
-
-[Humalog Mix25 100 U/ml Pen, suspension for injection]
-
-(all sentences already above)
-
-[Humalog Mix50 100 U/ml Pen, suspension for injection]
-
-The duration of action of the insulin lispro protamine suspension (BASAL) component of Humalog Mix50 is similar to that of a basal insulin NPH.
-
-[Humalog BASAL 100 U/ml Pen, suspension for injection]
-
-Humalog BASAL can be given in conjunction with Humalog.
-Under no circumstances should Humalog BASAL be given intravenously.
-
 [Humalog 100 U/ml KwikPen, solution for injection]
 
 When administered subcutaneously care should be taken when injecting Humalog KwikPen to ensure that a blood vessel has not been entered.
@@ -124,8 +104,41 @@ As with all insulin preparations, the duration of action of Humalog KwikPen is d
 
 [Humalog Mix50 100 U/ml KwikPen, suspension for injection]
 
-(all sentences already above)
+The duration of action of the insulin lispro protamine suspension (BASAL) component of Humalog Mix50 is similar to that of a basal insulin NPH.
 
 [Humalog BASAL 100 U/ml KwikPen, suspension for injection]
 
-(all sentences already above)
+Humalog BASAL can be given in conjunction with Humalog.
+Under no circumstances should Humalog BASAL be given intravenously.
+
+[Humalog 200 units/ml solution for injection in pre-filled pen]
+
+Posology
+
+This rapid onset of activity allows a Humalog injection to be given very close to mealtime.
+The duration of action of Humalog is dependent on dose, site of injection, blood supply, temperature, and physical activity.
+
+Humalog can be used in conjunction with a longer-acting insulin or oral sulphonylurea medicinal products, on the advice of a physician.
+
+Humalog 100 units/ml KwikPen and Humalog 200 units/ml KwikPen
+Humalog KwikPen is available in two strengths.
+For both, the needed dose is dialled in units.
+Both pre-filled pens, the Humalog 100 units/ml KwikPen and the Humalog 200 units/ml KwikPen deliver 1 – 60 units in steps of 1 unit in a single injection.
+The dose counter shows the number of units regardless of strength and no dose conversion should be done when transferring a patient to a new strength.
+Humalog 200 units/ml KwikPen should be reserved for the treatment of patients with diabetes requiring daily doses of more than 20 units of rapid-acting insulin.
+The insulin lispro solution containing 200 units/ml should not be withdrawn from the pre-filled pen (the KwikPen) or mixed with any other insulin (see section 4.4 and section 6.2).
+
+Special populations
+
+Renal impairment
+Insulin requirements may be reduced in the presence of renal impairment.
+
+Hepatic impairment
+Insulin requirements may be reduced in patients with hepatic impairment due to reduced capacity for gluconeogenesis and reduced insulin breakdown; however, in patients with chronic hepatic impairment, an increase in insulin resistance may lead to increased insulin requirements.
+
+Method of administration
+Humalog solution for injection should be given subcutaneously.
+
+Humalog 200 units/ml KwikPen solution for injection should not be used in an insulin infusion pump.
+
+Humalog 200 units/ml KwikPen solution for injection should not be used intravenously.

@@ -14,6 +14,7 @@ A few patients who have experienced hypoglycaemic reactions after transfer from 
 Uncorrected hypoglycaemic or hyperglycaemic reactions can cause loss of consciousness, coma, or death.
 
 The use of dosages which are inadequate or discontinuation of treatment, especially in insulin-dependent diabetics, may lead to hyperglycaemia and diabetic ketoacidosis; conditions which are potentially lethal.
+
 Insulin requirements may be reduced in the presence of renal impairment.
 Insulin requirements may be reduced in patients with hepatic impairment due to reduced capacity for gluconeogenesis and reduced insulin breakdown; however, in patients with chronic hepatic impairment, an increase in insulin resistance may lead to increased insulin requirements.
 
@@ -67,22 +68,6 @@ Under no circumstances should Humalog BASAL be given intravenously.
 Combination of Humalog BASAL with pioglitazone:
 This should be kept in mind, if treatment with the combination of pioglitazone and Humalog BASAL is considered.
 
-[Humalog Pen 100 U/ml, solution for injection]
-
-(all sentences already above)
-
-[Humalog Mix25 100 U/ml Pen, suspension for injection]
-
-(all sentences already above)
-
-[Humalog Mix50 100 U/ml Pen, suspension for injection]
-
-(all sentences already above)
-
-[Humalog BASAL 100 U/ml Pen, suspension for injection]
-
-(all sentences already above)
-
 [Humalog 100 U/ml KwikPen, solution for injection]
 
 (all sentences already above)
@@ -98,3 +83,22 @@ This should be kept in mind, if treatment with the combination of pioglitazone a
 [Humalog BASAL 100 U/ml KwikPen, suspension for injection]
 
 (all sentences already above)
+
+[Humalog 200 units/ml solution for injection in pre-filled pen]
+
+Transferring a patient to another type or brand of insulin
+
+Hypoglyceamia and hyperglyceamia
+Conditions which may make the early warning symptoms of hypoglycaemia different or less pronounced include long duration of diabetes, intensified insulin therapy, diabetic nerve disease or medicinal products such as beta-blockers.
+
+Insulin requirements and dosage adjustment
+
+Avoidance of medication errors when using insulin lispro (200 units/ml) in pre-filled pen:
+The insulin lispro solution for injection containing 200 units/ml must not be transferred from the pre-filled pen, the KwikPen, to a syringe.
+The markings on the insulin syringe will not measure the dose correctly.
+Overdose can result causing severe hypoglycemia.
+The insulin lispro solution for injection containing 200 units/ml must not be transferred from the KwikPen to any other insulin delivery device, including insulin infusion pumps.
+Patients must be instructed to always check the insulin label before each injection to avoid accidental mix-ups between the two different strengths of Humalog as well as other insulin products.
+
+Excipients
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, i.e., essentially “sodium-free”.

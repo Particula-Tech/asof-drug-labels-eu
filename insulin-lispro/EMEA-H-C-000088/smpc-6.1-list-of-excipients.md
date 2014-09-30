@@ -36,22 +36,6 @@ Phenol [1.00 mg/ml]
 
 (all sentences already above)
 
-[Humalog Pen 100 U/ml, solution for injection]
-
-(all sentences already above)
-
-[Humalog Mix25 100 U/ml Pen, suspension for injection]
-
-(all sentences already above)
-
-[Humalog Mix50 100 U/ml Pen, suspension for injection]
-
-(all sentences already above)
-
-[Humalog BASAL 100 U/ml Pen, suspension for injection]
-
-(all sentences already above)
-
 [Humalog 100 U/ml KwikPen, solution for injection]
 
 (all sentences already above)
@@ -67,3 +51,9 @@ Phenol [1.00 mg/ml]
 [Humalog BASAL 100 U/ml KwikPen, suspension for injection]
 
 (all sentences already above)
+
+[Humalog 200 units/ml solution for injection in pre-filled pen]
+
+Metacresol
+Trometamol
+Hydrochloric acid and sodium hydroxide (for pH adjustment).

@@ -41,22 +41,6 @@ Humalog BASAL is a white, sterile suspension.
 
 Humalog BASAL consists of insulin lispro protamine suspension.
 
-[Humalog Pen 100 U/ml, solution for injection]
-
-Humalog Pen is a sterile, clear, colourless, aqueous solution.
-
-[Humalog Mix25 100 U/ml Pen, suspension for injection]
-
-(all sentences already above)
-
-[Humalog Mix50 100 U/ml Pen, suspension for injection]
-
-(all sentences already above)
-
-[Humalog BASAL 100 U/ml Pen, suspension for injection]
-
-(all sentences already above)
-
 [Humalog 100 U/ml KwikPen, solution for injection]
 
 Humalog KwikPen is a sterile, clear, colourless, aqueous solution.
@@ -72,3 +56,11 @@ Humalog KwikPen is a sterile, clear, colourless, aqueous solution.
 [Humalog BASAL 100 U/ml KwikPen, suspension for injection]
 
 (all sentences already above)
+
+[Humalog 200 units/ml solution for injection in pre-filled pen]
+
+One ml solution contains 200 units (equivalent to 6.9 mg) insulin lispro*.
+Each pen contains 600 units of insulin lispro in 3 ml solution.
+
+* produced in E.coli by recombinant DNA technology.
+For the full list of excipients, see section 6.1.

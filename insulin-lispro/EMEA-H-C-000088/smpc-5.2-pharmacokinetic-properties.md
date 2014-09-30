@@ -33,22 +33,6 @@ The pharmacokinetics of Humalog Mix50 are representative of the individual pharm
 Humalog BASAL has a prolonged absorption profile, achieving a maximum insulin concentration approximately 6 hours after dosing.
 When considering the clinical relevance of these kinetics, it is more appropriate to examine the glucose utilisation curves.
 
-[Humalog Pen 100 U/ml, solution for injection]
-
-(all sentences already above)
-
-[Humalog Mix25 100 U/ml Pen, suspension for injection]
-
-(all sentences already above)
-
-[Humalog Mix50 100 U/ml Pen, suspension for injection]
-
-(all sentences already above)
-
-[Humalog BASAL 100 U/ml Pen, suspension for injection]
-
-When considering the clinical relevance of these kinetics, it is more appropriate to examine the glucose utilisation curves properties.
-
 [Humalog 100 U/ml KwikPen, solution for injection]
 
 (all sentences already above)
@@ -63,4 +47,9 @@ When considering the clinical relevance of these kinetics, it is more appropriat
 
 [Humalog BASAL 100 U/ml KwikPen, suspension for injection]
 
-(all sentences already above)
+When considering the clinical relevance of these kinetics, it is more appropriate to examine the glucose utilisation curves properties.
+
+[Humalog 200 units/ml solution for injection in pre-filled pen]
+
+Insulin lispro 200 units/ml solution for injection was bioequivalent to insulin lispro 100 units/ml solution for injection after subcutaneous administration of a single 20 unit dose in healthy subjects.
+Time to maximum concentration was also similar between formulations.

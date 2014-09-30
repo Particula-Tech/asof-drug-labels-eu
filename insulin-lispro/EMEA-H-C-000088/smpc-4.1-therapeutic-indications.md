@@ -27,22 +27,6 @@ Humalog Mix50 is indicated for the treatment of patients with diabetes mellitus 
 
 Humalog BASAL is indicated for the treatment of patients with diabetes mellitus who require insulin for the maintenance of normal glucose homeostasis.
 
-[Humalog Pen 100 U/ml, solution for injection]
-
-Humalog Pen is also indicated for the initial stabilisation of diabetes mellitus.
-
-[Humalog Mix25 100 U/ml Pen, suspension for injection]
-
-(all sentences already above)
-
-[Humalog Mix50 100 U/ml Pen, suspension for injection]
-
-(all sentences already above)
-
-[Humalog BASAL 100 U/ml Pen, suspension for injection]
-
-(all sentences already above)
-
 [Humalog 100 U/ml KwikPen, solution for injection]
 
 Humalog KwikPen is also indicated for the initial stabilisation of diabetes mellitus.
@@ -58,3 +42,8 @@ Humalog KwikPen is also indicated for the initial stabilisation of diabetes mell
 [Humalog BASAL 100 U/ml KwikPen, suspension for injection]
 
 (all sentences already above)
+
+[Humalog 200 units/ml solution for injection in pre-filled pen]
+
+For the treatment of adults with diabetes mellitus who require insulin for the maintenance of normal glucose homeostasis.
+Humalog 200 units/ml KwikPen is also indicated for the initial stabilisation of diabetes mellitus.

@@ -32,26 +32,6 @@ EU/1/96/007/025 2 x (5 x 3 ml) Humalog Mix50 cartridges for a 3 ml pen
 EU/1/96/007/010 5 x 3 ml Humalog BASAL cartridges for a 3 ml pen
 EU/1/96/007/029 2 x (5 x 3 ml) Humalog BASAL cartridges for a 3 ml pen
 
-[Humalog Pen 100 U/ml, solution for injection]
-
-EU/1/96/007/015 5 x 3 ml Pens
-EU/1/96/007/026 2 x (5 x 3 ml) Pens
-
-[Humalog Mix25 100 U/ml Pen, suspension for injection]
-
-EU/1/96/007/016 5 x 3 ml Humalog Mix25 100 U/ml Pens
-EU/1/96/007/027 2 x (5 x 3 ml) Humalog Mix25 100 U/ml Pens
-
-[Humalog Mix50 100 U/ml Pen, suspension for injection]
-
-EU/1/96/007/017 5 x 3 ml Humalog Mix50 100 U/ml Pens
-EU/1/96/007/028 2 x (5 x 3 ml) Humalog Mix50 100 U/ml Pens
-
-[Humalog BASAL 100 U/ml Pen, suspension for injection]
-
-EU/1/96/007/018 5 x 3 ml Humalog BASAL Pen for a 3 ml pen
-EU/1/96/007/030 2 x (5 x 3 ml) Humalog BASAL Pen for a 3 ml pen
-
 [Humalog 100 U/ml KwikPen, solution for injection]
 
 EU/1/96/007/031 5 x 3 ml Humalog 100 U/ml KwikPen
@@ -71,3 +51,10 @@ EU/1/96/007/036 2 x (5 x 3 ml) Humalog Mix50 100 U/ml KwikPens
 
 EU/1/96/007/037 5 x 3 ml Humalog BASAL 100 U/ml KwikPen
 EU/1/96/007/038 2 x (5 x 3 ml) Humalog BASAL 100 U/ml KwikPen
+
+[Humalog 200 units/ml solution for injection in pre-filled pen]
+
+EU/1/96/007/039
+EU/1/96/007/040
+EU/1/96/007/041
+EU/1/96/007/042

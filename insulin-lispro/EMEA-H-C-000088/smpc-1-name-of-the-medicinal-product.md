@@ -26,22 +26,6 @@ Humalog Mix50 100 U/ml suspension for injection in cartridge
 
 Humalog BASAL 100 U/ml suspension for injection in cartridge
 
-[Humalog Pen 100 U/ml, solution for injection]
-
-Humalog Pen 100 U/ml, solution for injection
-
-[Humalog Mix25 100 U/ml Pen, suspension for injection]
-
-Humalog Mix25 100 U/ml Pen, suspension for injection
-
-[Humalog Mix50 100 U/ml Pen, suspension for injection]
-
-Humalog Mix50 100 U/ml Pen, suspension for injection
-
-[Humalog BASAL 100 U/ml Pen, suspension for injection]
-
-Humalog BASAL 100 U/ml Pen, suspension for injection
-
 [Humalog 100 U/ml KwikPen, solution for injection]
 
 Humalog 100 U/ml KwikPen, solution for injection
@@ -57,3 +41,7 @@ Humalog Mix50 100 U/ml KwikPen, suspension for injection
 [Humalog BASAL 100 U/ml KwikPen, suspension for injection]
 
 Humalog BASAL 100 U/ml KwikPen, suspension for injection
+
+[Humalog 200 units/ml solution for injection in pre-filled pen]
+
+Humalog 200 units/ml solution for injection in pre-filled pen

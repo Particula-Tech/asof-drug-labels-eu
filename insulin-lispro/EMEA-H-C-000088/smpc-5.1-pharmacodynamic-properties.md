@@ -2,6 +2,7 @@
 
 Pharmacotherapeutic group : Fast-acting human insulin analogue.
 ATC code: A10A B04
+
 The primary activity of insulin lispro is the regulation of glucose metabolism.
 
 In addition, insulins have several anabolic and anti-catabolic actions on a variety of different tissues.
@@ -17,7 +18,6 @@ The typical activity profile following subcutaneous injection is illustrated bel
 
 Insulin
 Lispro
-
 Humulin R
 Hypoglycaemic
 Activity
@@ -26,7 +26,6 @@ Activity
 
 Time (Hours)
 The above representation reflects the relative amount of glucose over time required to maintain the subject's whole blood glucose concentrations near fasting levels and is an indicator of the effect of these insulins on glucose metabolism over time.
-
 Clinical trials have been performed in children (61 patients aged 2 to 11) and children and adolescents (481 patients aged 9 to 19 years), comparing insulin lispro to human soluble insulin.
 The pharmacodynamic profile of insulin lispro in children is similar to that seen in adults.
 
@@ -58,8 +57,8 @@ Humalog BASAL has an activity profile that is very similar to that of a basal in
 
 Clinical trials in patients with type 1 and type 2 diabetes have demonstrated reduced postprandial hyperglycaemia with Humalog Mix25 compared to human insulin mixture 30/70.
 In one clinical study there was a small (0.38 mmol/l) increase in blood glucose levels at night (3a.m.).
-
 In the figure below the pharmacodynamics of Humalog Mix25 and BASAL are illustrated.
+
 Hypoglycemic Activity
 
 Humalog Mix25
@@ -96,8 +95,6 @@ The rapid onset and early peak of activity of insulin lispro is observed followi
 In the figure below the pharmacodynamics of Humalog Mix50 and BASAL are illustrated.
 Humalog Mix50
 
-0 4 8 1 1 2 2
-
 [Humalog Mix50 100 U/ml suspension for injection in cartridge]
 
 (all sentences already above)
@@ -107,7 +104,7 @@ Humalog Mix50
 Pharmaco-therapeutic group: Intermediate acting human insulin analogue.
 ATC Code: A10A C04.
 
-[Humalog Pen 100 U/ml, solution for injection]
+[Humalog 100 U/ml KwikPen, solution for injection]
 
 Pharmacotherapeutic group : Fast-acting human insulin analogue, ATC code: A10A B04
 
@@ -117,26 +114,10 @@ Insulin lispro has a rapid onset of action (approximately 15 minutes), thus allo
 Insulin lispro
 Hypoglycemic
 
-[Humalog Mix25 100 U/ml Pen, suspension for injection]
+[Humalog Mix25 100 U/ml KwikPen, suspension for injection]
 
 Pharmaco-therapeutic group:
 ATC Code: A10A D04.
-
-[Humalog Mix50 100 U/ml Pen, suspension for injection]
-
-(all sentences already above)
-
-[Humalog BASAL 100 U/ml Pen, suspension for injection]
-
-(all sentences already above)
-
-[Humalog 100 U/ml KwikPen, solution for injection]
-
-(all sentences already above)
-
-[Humalog Mix25 100 U/ml KwikPen, suspension for injection]
-
-(all sentences already above)
 
 [Humalog Mix50 100 U/ml KwikPen, suspension for injection]
 
@@ -145,3 +126,16 @@ ATC Code: A10A D04.
 [Humalog BASAL 100 U/ml KwikPen, suspension for injection]
 
 (all sentences already above)
+
+[Humalog 200 units/ml solution for injection in pre-filled pen]
+
+Pharmacotherapeutic group : Drugs used in diabetes, insulins and analogues for injection, fast-acting, ATC code: A10AB04
+
+The time course of insulin lispro action may vary in different individuals or at different times in the same individual and is dependent on dose, site of injection, blood supply, temperature and physical activity.
+
+Figure 1:
+
+The above representation (figure 1) reflects the relative amount of glucose over time required to maintain the subject's whole blood glucose concentrations near fasting levels and is an indicator of the effect of these insulins (100 units/ml) on glucose metabolism over time.
+
+The pharmacodynamic responses of insulin lispro 200 units/ml solution for injection were similar to those for insulin lispro 100 units/ml solution for injection after subcutaneous administration of a single 20 unit dose in healthy subjects as shown in the graph below (figure 2).
+Figure 2: Arithmetic mean glucose infusion rate versus time profiles following subcutaneous administration of 20 units of insulin lispro 200 units/ml or insulin lispro 100 units/ml

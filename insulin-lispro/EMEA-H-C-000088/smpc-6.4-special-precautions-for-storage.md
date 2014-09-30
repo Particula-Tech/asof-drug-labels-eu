@@ -38,27 +38,11 @@ The pen with the inserted cartridge should not be stored with the needle attache
 
 (all sentences already above)
 
-[Humalog Pen 100 U/ml, solution for injection]
+[Humalog 100 U/ml KwikPen, solution for injection]
 
 Unused pre-filled pens
 
 The pre-filled pen should not be stored with the needle attached.
-
-[Humalog Mix25 100 U/ml Pen, suspension for injection]
-
-(all sentences already above)
-
-[Humalog Mix50 100 U/ml Pen, suspension for injection]
-
-(all sentences already above)
-
-[Humalog BASAL 100 U/ml Pen, suspension for injection]
-
-(all sentences already above)
-
-[Humalog 100 U/ml KwikPen, solution for injection]
-
-(all sentences already above)
 
 [Humalog Mix25 100 U/ml KwikPen, suspension for injection]
 
@@ -69,5 +53,9 @@ The pre-filled pen should not be stored with the needle attached.
 (all sentences already above)
 
 [Humalog BASAL 100 U/ml KwikPen, suspension for injection]
+
+(all sentences already above)
+
+[Humalog 200 units/ml solution for injection in pre-filled pen]
 
 (all sentences already above)
