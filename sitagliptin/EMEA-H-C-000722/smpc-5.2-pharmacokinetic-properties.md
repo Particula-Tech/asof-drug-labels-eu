@@ -1,12 +1,13 @@
 # 5.2 Pharmacokinetic properties
 
 Absorption
-Following oral administration of a 100-mg dose to healthy subjects, sitagliptin was rapidly absorbed, with peak plasma concentrations (median Tmax) occurring 1 to 4 hours post-dose, mean plasma AUC of sitagliptin was 8.52 µM•hr, Cmax was 950 nM.
+Following oral administration of a 100-mg dose to healthy subjects, sitagliptin was rapidly absorbed, with peak plasma concentrations (median Tmax) occurring 1 to 4 hours post-dose, mean plasma AUC of sitagliptin was 8.52 μM•hr, Cmax was 950 nM.
 The absolute bioavailability of sitagliptin is approximately 87 %.
 Since co-administration of a high-fat meal with Januvia had no effect on the pharmacokinetics, Januvia may be administered with or without food.
 
 Plasma AUC of sitagliptin increased in a dose-proportional manner.
 Dose-proportionality was not established for Cmax and C24hr (Cmax increased in a greater than dose-proportional manner and C24hr increased in a less than dose-proportional manner).
+
 Distribution
 The mean volume of distribution at steady state following a single 100-mg intravenous dose of sitagliptin to healthy subjects is approximately 198 liters.
 The fraction of sitagliptin reversibly bound to plasma proteins is low (38 %).
@@ -33,7 +34,7 @@ The clinical relevance of hOAT-3 in sitagliptin transport has not been establish
 Sitagliptin is also a substrate of p-glycoprotein, which may also be involved in mediating the renal elimination of sitagliptin.
 However, ciclosporin, a p-glycoprotein inhibitor, did not reduce the renal clearance of sitagliptin.
 Sitagliptin is not a substrate for OCT2 or OAT1 or PEPT1/2 transporters.
-In vitro, sitagliptin did not inhibit OAT3 (IC50=160 µM) or p-glycoprotein (up to 250 µM) mediated transport at therapeutically relevant plasma concentrations.
+In vitro, sitagliptin did not inhibit OAT3 (IC50=160 μM) or p-glycoprotein (up to 250 μM) mediated transport at therapeutically relevant plasma concentrations.
 In a clinical study sitagliptin had a small effect on plasma digoxin concentrations indicating that sitagliptin may be a mild inhibitor of p-glycoprotein.
 
 Characteristics in patients
@@ -48,8 +49,9 @@ Patients with mild renal impairment did not have a clinically meaningful increas
 An approximately 2-fold increase in the plasma AUC of sitagliptin was observed in patients with moderate renal impairment, and an approximately 4-fold increase was observed in patients with severe renal impairment and in patients with ESRD on haemodialysis, as compared to normal healthy control subjects.
 Sitagliptin was modestly removed by haemodialysis (13.5 % over a 3- to 4-hour haemodialysis session starting 4 hours postdose).
 To achieve plasma concentrations of sitagliptin similar to those in patients with normal renal function, lower dosages are recommended in patients with moderate and severe renal impairment, as well as in ESRD patients requiring dialysis (see section 4.2).
+
 Hepatic impairment
-No dose adjustment for Januvia is necessary for patients with mild or moderate hepatic impairment (Child-Pugh score ≤ 9).
+No dose adjustment for Januvia is necessary for patients with mild or moderate hepatic impairment (Child-Pugh score ≤9).
 There is no clinical experience in patients with severe hepatic impairment (Child-Pugh score > 9).
 However, because sitagliptin is primarily renally eliminated, severe hepatic impairment is not expected to affect the pharmacokinetics of sitagliptin.
 

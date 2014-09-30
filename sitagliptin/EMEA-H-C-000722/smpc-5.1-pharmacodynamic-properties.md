@@ -22,10 +22,10 @@ By enhancing active incretin levels, sitagliptin increases insulin release and d
 In patients with type 2 diabetes with hyperglycaemia, these changes in insulin and glucagon levels lead to lower hemoglobin A1c (HbA1c) and lower fasting and postprandial glucose concentrations.
 The glucose-dependent mechanism of sitagliptin is distinct from the mechanism of sulphonylureas, which increase insulin secretion even when glucose levels are low and can lead to hypoglycaemia in patients with type 2 diabetes and in normal subjects.
 Sitagliptin is a potent and highly selective inhibitor of the enzyme DPP-4 and does not inhibit the closely-related enzymes DPP-8 or DPP-9 at therapeutic concentrations.
-
 In a two-day study in healthy subjects, sitagliptin alone increased active GLP-1 concentrations, whereas metformin alone increased active and total GLP-1 concentrations to similar extents.
 Co-administration of sitagliptin and metformin had an additive effect on active GLP-1 concentrations.
 Sitagliptin, but not metformin, increased active GIP concentrations.
+
 Clinical efficacy and safety
 Overall, sitagliptin improved glycaemic control when used as monotherapy or in combination treatment (see Table 2).
 
@@ -79,7 +79,7 @@ HbA1c results in placebo-controlled monotherapy and combination therapy studies*
 † Least squares means adjusted for prior antihyperglycaemic therapy status and baseline value.
 ‡ p<0.001 compared to placebo or placebo + combination treatment.
 § HbA1c (%) at week 18.
-% HbA1c (%) at week 24.
+%HbA1c (%) at week 24.
 # HbA1c (%) at week 26.
 ¶ Least squares mean adjusted for metformin use at Visit 1 (yes/no), insulin use at Visit 1 (pre-mixed vs. non-pre-mixed [intermediate- or long-acting]), and baseline value.
 Treatment by stratum (metformin and insulin use) interactions were not significant (p > 0.10).
@@ -91,11 +91,20 @@ The overall incidence of gastrointestinal adverse reactions considered as drug-r
 The incidence of hypoglycaemia was not significantly different between the treatment groups (sitagliptin, 1.3 %; metformin, 1.9 %).
 Body weight decreased from baseline in both groups (sitagliptin, -0.6 kg; metformin -1.9 kg).
 In a study comparing the efficacy and safety of the addition of Januvia 100 mg once daily or glipizide (a sulphonylurea) in patients with inadequate glycaemic control on metformin monotherapy, sitagliptin was similar to glipizide in reducing HbA1c.
-The mean glipizide dose used in the comparator group was 10 mg per day with approximately 40 % of patients requiring a glipizide dose of ≤ 5 mg/day throughout the study.
+The mean glipizide dose used in the comparator group was 10 mg per day with approximately 40 % of patients requiring a glipizide dose of ≤5 mg/day throughout the study.
 However, more patients in the sitagliptin group discontinued due to lack of efficacy than in the glipizide group.
 Patients treated with sitagliptin exhibited a significant mean decrease from baseline in body weight compared to a significant weight gain in patients administered glipizide (-1.5 vs. +1.1 kg).
 In this study, the proinsulin to insulin ratio, a marker of efficiency of insulin synthesis and release, improved with sitagliptin and deteriorated with glipizide treatment.
 The incidence of hypoglycaemia in the sitagliptin group (4.9 %) was significantly lower than that in the glipizide group (32.0 %).
+
+A 24-week placebo-controlled study involving 660 patients was designed to evaluate the insulin-sparing efficacy and safety of sitagliptin (100 mg once daily) added to insulin glargine with or without metformin (at least 1,500 mg) during intensification of insulin therapy.
+Baseline HbA1c was 8.74 % and baseline insulin dose was 37 IU/day.
+Patients were instructed to titrate their insulin glargine dose based on fingerstick fasting glucose values.
+At Week 24, the increase in daily insulin dose was 19 IU/day in patients treated with sitagliptin and 24 IU/day in patients treated with placebo.
+The reduction in HbA1c in patients treated with sitagliptin and insulin (with or without metformin) was -1.31 % compared to -0.87 % in patients treated with placebo and insulin (with or without metformin), a difference of -0.45 % [95 % CI: -0.60, -0.29].
+The incidence of hypoglycaemia was 25.2 % in patients treated with sitagliptin and insulin (with or without metformin) and 36.8 % in patients treated with placebo and insulin (with or without metformin).
+The difference was mainly due to a higher percentage of patients in the placebo group experiencing 3 or more episodes of hypoglycaemia (9.4 vs. 19.2 %).
+There was no difference in the incidence of severe hypoglycaemia.
 
 A study comparing sitagliptin at 25 or 50 mg once daily to glipizide at 2.5 to 20 mg/day was conducted in patients with moderate to severe renal impairment.
 This study involved 423 patients with chronic renal impairment (estimated glomerular filtration rate < 50 ml/min).
