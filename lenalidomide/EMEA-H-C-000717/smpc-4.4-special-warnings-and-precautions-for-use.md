@@ -62,6 +62,7 @@ The efficacy of contraceptive steroids may be reduced during co-treatment with d
 
 Implants and levonorgestrel-releasing intrauterine systems are associated with an increased risk of infection at the time of insertion and irregular vaginal bleeding.
 Prophylactic antibiotics should be considered particularly in patients with neutropenia.
+
 Copper-releasing intrauterine devices are generally not recommended due to the potential risks of infection at the time of insertion and menstrual blood loss which may compromise patients with neutropenia or thrombocytopenia.
 
 Pregnancy testing
@@ -94,6 +95,7 @@ A national controlled distribution system has been implemented in collaboration 
 The controlled distribution system includes the use of a patient card and/or equivalent tool for prescribing and/or dispensing controls, and the collecting of detailed data relating to the indication in order to monitor closely the off-label use within the national territory.
 Ideally, pregnancy testing, issuing a prescription and dispensing should occur on the same day.
 Dispensing of lenalidomide to women of childbearing potential should occur within 7 days of the prescription and following a medically supervised negative pregnancy test result.
+
 Other special warnings and precautions for use
 
 Cardiovascular disorders
@@ -106,7 +108,6 @@ Venous and arterial thromboembolic events
 In patients with multiple myeloma, the combination of lenalidomide with dexamethasone is associated with an increased risk of venous thromboembolism (predominantly deep vein thrombosis and pulmonary embolism) and arterial thromboembolism (predominantly myocardial infarction and cerebrovascular event) – see sections 4.5 and 4.8.
 
 In patients with myelodysplatic syndromes, treatment with lenalidomide monotherapy was also associated with a risk of venous thromboembolism (predominantly deep vein thrombosis and pulmonary embolism), but to a lesser extent than in patients with multiple myeloma – see sections 4.5 and 4.8.
-
 Consequently, patients with known risk factors for thromboembolism – including prior thrombosis – should be closely monitored.
 Action should be taken to try to minimize all modifiable risk factors (e.g. smoking, hypertension, and hyperlipidaemia).
 Concomitant administration of erythropoietic agents or previous history of thromboembolic events may also increase thrombotic risk in these patients.
@@ -146,9 +147,10 @@ Renal impairment
 Lenalidomide is substantially excreted by the kidney.
 Therefore care should be taken in dose selection and monitoring of renal function is advised in patients with renal impairment (see section 4.2).
 
-Thyroid function
-Cases of hypothyroidism have been reported and monitoring of thyroid function should be considered.
-
+Thyroid disorders
+Cases of hypothyroidism and cases of hyperthyroidism have been reported.
+Optimal control of co-morbid conditions influencing thyroid function is recommended before start of treatment.
+Baseline and ongoing monitoring of thyroid function is recommended.
 Peripheral neuropathy
 Lenalidomide is structurally related to thalidomide, which is known to induce severe peripheral neuropathy.
 At this time, the neurotoxic potential of lenalidomide associated with long-term use cannot be ruled out.
@@ -191,7 +193,7 @@ Progression to acute myeloid leukaemia in low- and intermediate-1-risk MDS
 - Karyotype
 
 Baseline variables including complex cytogenetics are associated with progression to AML in subjects who are transfusion dependent and have a Del (5q) abnormality.
-In a clinical trial of Revlimid in low-or intermediate-1-risk myelodysplastic syndromes, subjects who had a complex cytogenetics had the highest estimated 2-year cumulative risk of progression to AML (38.6%).
+In a combined analysis of two clinical trials of Revlimid in low- or intermediate-1-risk myelodysplastic syndromes, subjects who had a complex cytogenetics had the highest estimated 2-year cumulative risk of progression to AML (38.6%).
 The estimated 2-year rate of progression to AML in patients with an isolated Del (5q) abnormality was 13.8%, compared to 17.3% for patients with Del (5q) and one additional cytogenetic abnormality.
 
 As a consequence, the benefit/risk ratio of Revlimid when MDS is associated with Del (5q) and complex cytogenetics is unknown.

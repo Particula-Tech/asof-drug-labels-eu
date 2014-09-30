@@ -11,8 +11,9 @@ The recommended starting dose of lenalidomide is 25 mg orally once daily on days
 The recommended dose of dexamethasone is 40 mg orally once daily on days 1-4, 9-12, and 17-20 of each 28-day cycle for the first 4 cycles of therapy and then 40 mg once daily on days 1-4 every 28 days.
 Dosing is continued or modified based upon clinical and laboratory findings (see section 4.4).
 Prescribing physicians should carefully evaluate which dose of dexamethasone to use, taking into account the condition and disease status of the patient.
-Lenalidomide treatment must not be started if the Absolute Neutrophil Counts (ANC) < 1.0 x 109/l, and/or platelet counts < 75 x 109/l or, dependent on bone marrow infiltration by plasma cells, platelet counts < 30 x 109/l.
 
+Lenalidomide treatment must not be started if the Absolute Neutrophil Counts (ANC) < 1.0 x 109/l, and/or platelet counts < 75 x 109/l or, dependent on bone marrow infiltration by plasma cells, platelet counts
+< 30 x 109/l.
 Recommended dose adjustments during treatment and restart of treatment
 Dose adjustments, as summarised below, are recommended to manage grade 3 or 4 neutropenia or thrombocytopenia, or other grade 3 or 4 toxicity judged to be related to lenalidomide.
 
@@ -77,7 +78,8 @@ Dose adjustments, as summarized below, are recommended to manage grade 3 or 4 ne
 | --- | --- |
 | Dose Level -1 | 5.0 mg once daily on days 1-28 every 28 days |
 | Dose Level -2 | 2.5 mg once daily on days 1-28 every 28 days |
-| Dose Level -3 | 2.5 mg every other day 1-28 every 28 days |
+
+Dose Level -3 2.5 mg every other day 1-28 every 28 days
 
 For patients who are dosed initially at 10 mg and who experience thrombocytopenia or neutropenia:
 
@@ -112,12 +114,13 @@ Paediatric population
 The safety and efficacy of Revlimid in children aged 0-17 years have not yet been established.
 No data are available.
 
-Elderly population
-The effects of age on the pharmacokinetics of lenalidomide have not been studied.
+Older people
+Currently available pharmacokinetic data are described in section 5.2.
 Lenalidomide has been used in clinical trials in multiple myeloma patients up to 86 years of age and in myelodysplastic syndromes patients up to 95 years of age (see section 5.1).
 
 The percentage of multiple myeloma patients aged 65 or over was not significantly different between the lenalidomide/dexamethasone and placebo/dexamethasone groups.
 No overall difference in safety or efficacy was observed between these patients and younger patients, but greater pre-disposition of older individuals cannot be ruled out.
+
 For myelodysplastic syndromes patients treated with lenalidomide, no overall difference in safety and efficacy was observed between patients aged over 65 and younger patients.
 
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and it would be prudent to monitor renal function.
@@ -152,14 +155,12 @@ After initiation of lenalidomide therapy, subsequent lenalidomide dose modificat
 | Severe renal impairment (CLcr < 30 ml/min, not requiring dialysis) | Starting dose | 2.5 mg once daily (days 1-21 of repeated 28-day cycles) |
 |  | Dose level -1 | 2.5 mg every other day (days 1-28 of repeated 28-day cycles) |
 |  | Dose level -2 | 2.5 mg twice a week (days 1-28 of repeated 28-day cycles) |
-| End Stage Renal Disease (ESRD) (CLcr < 30 ml/min, requiring dialysis) | Starting dose | 2.5 mg once daily (days 1-21 of repeated 28-day cycles) |
-|  | Dose level -1 | 2.5 mg every other day |
-| On dialysis days, the dose should be administered following dialysis. |  | (days 1-28 of repeated 28-day cycles) |
+| End Stage Renal Disease (ESRD) (CLcr < 30 ml/min, requiring dialysis) On dialysis days, the dose should be administered following dialysis. | Starting dose | 2.5 mg once daily (days 1-21 of repeated 28-day cycles) |
+|  | Dose level -1 | 2.5 mg every other day (days 1-28 of repeated 28-day cycles) |
 |  | Dose level -2 | 2.5 mg twice a week (days 1-28 of repeated 28-day cycles) |
 
 Patients with hepatic impairment
 Lenalidomide has not formally been studied in patients with impaired hepatic function and there are no specific dose recommendations.
-
 Method of administration
 
 Revlimid capsules should be taken at about the same time each day.
@@ -180,6 +181,15 @@ Lenalidomide has been used in clinical trials in multiple myeloma patients up to
 The percentage of patients aged 65 or over was not significantly different between the lenalidomide/dexamethasone and placebo/dexamethasone groups.
 
 No dose adjustments are required for patients with mild renal impairment.
+
+| Renal Function (CLcr) | Dose Adjustment (Days 1 to 21 of repeated 28-day cycles) |
+| --- | --- |
+| Moderate renal impairment (30 ≤ CLcr < 50 ml/min) | 10 mg once daily1 |
+| Severe renal impairment (CLcr < 30 ml/min, not requiring dialysis) | 7.5 mg once daily2,3 15 mg every other day3 |
+
+End Stage Renal Disease (ESRD) 5 mg once daily. On dialysis
+(CLcr < 30 ml/min, requiring dialysis) days, the dose should be
+administered following dialysis.
 
 [Revlimid 10 mg hard capsules]
 

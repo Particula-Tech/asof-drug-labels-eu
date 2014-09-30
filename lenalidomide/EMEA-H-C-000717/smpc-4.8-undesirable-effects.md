@@ -20,6 +20,7 @@ In the Phase II, all 148 patients were on lenalidomide treatment.
 In the Phase III study, 69 patients were on lenalidomide 5 mg, 69 patients on lenalidomide 10 mg and 67 patients were on placebo during the double-blind phase of the study.
 
 Most adverse events tended to occur during the first 16 weeks of therapy with lenalidomide.
+
 Serious adverse reactions include:
 
 - Venous thromboembolism (deep vein thrombosis, pulmonary embolism) (see section 4.4)
@@ -29,16 +30,16 @@ The most frequently observed adverse reactions which occurred more frequently in
 
 Tabulated list of adverse reactions
 
-The adverse reactions observed in patients treated for multiple myeloma and myelodysplastic syndromes are listed below by system organ class and frequency.
+The adverse reactions observed in patients treated for multiple myeloma or myelodysplastic syndromes are listed below by system organ class and frequency.
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000), not known (cannot be estimated from the available data).
+Frequencies are defined as: very common (≥ 1/10); common
+(≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000), not known (cannot be estimated from the available data).
 
 The following table is derived from data gathered during the main studies in multiple myeloma and myelodysplastic syndromes and from post-marketing data for multiple myeloma only.
 The data were not adjusted according to the greater duration of treatment in the lenalidomide/dexamethasone versus the placebo/dexamethasone arms in the pivotal multiple myeloma studies (see section 5.1).
 
 Adverse reactions have been included under the appropriate category in the table below according to the highest frequency observed in any of the major clinical trials.
-
-Table 1: ADRs reported in clinical studies and post-marketing data in patients with multiple myeloma and in clinical trials in patients with myelodysplastic syndromes treated with lenalidomide#
+Table 1: ADRs reported in clinical studies and post-marketing data in patients with multiple myeloma or in clinical trials in patients with myelodysplastic syndromes treated with lenalidomide#
 
 | System Organ Class / Preferred Term | All ADRs/Frequency | Grade 3−4 ADRs/Frequency |
 | --- | --- | --- |
@@ -46,18 +47,18 @@ Table 1: ADRs reported in clinical studies and post-marketing data in patients w
 | Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Uncommon Basal cell carcinoma Squamous skin cancer^* | Rare Tumour lysis syndrome† |
 | Blood and Lymphatic System Disorders | Very Common Thrombocytopenia^, Neutropenias^, Anaemia, Haemorrhagic disorder^, Leucopenias Common Pancytopenia Uncommon Haemolysis, Autoimmune haemolytic anaemia, Haemolytic anaemia | Very Common Thrombocytopenia^◊, Neutropenias^◊, Leucopenias Common Febrile Neutropenia^◊, Anaemia◊ Uncommon Hypercoagulation, Coagulopathy |
 | Immune System Disorders | Uncommon Hypersensitivity^ |  |
-| Endocrine Disorders | Common Hypothyroidism |  |
-| Metabolism and Nutrition Disorders | Very Common Hypokalaemia, Decreased appetite Common Hypomagnesaemia, Hypocalcaemia, Dehydration, Iron overload | Common Hypokalaemia, Hypocalcaemia, Hypophosphataemia, Hyperglycaemia◊, Decreased Appetite |
+| Endocrine Disorders | Common Hypothyroidism, Hyperthyroidism |  |
+| Metabolism and Nutrition Disorders | Very Common Hypokalaemia, Decreased appetite Common Hypomagnesaemia, Hypocalcaemia, Dehydration, Iron overload, Weight Decreased | Common Hypokalaemia, Hypocalcaemia, Hypophosphataemia, Hyperglycaemia◊, Decreased Appetite |
 | Psychiatric Disorder | Uncommon Loss of libido | Common Depression, Altered mood◊~ |
 | Nervous System disorders | Very Common Peripheral neuropathies (excluding motor neuropathy), Dizziness, Tremor, Dysgeusia, Headache Common Ataxia, Balance impaired | Common Cerebrovascular Accident, Dizziness, Syncope Uncommon Intracranial haemorrhage^, Transient ischaemic attack, Cerebral ischaemia |
 | Eye Disorders | Very Common Blurred vision Common Reduced visual acuity, Cataract | Common Cataract Uncommon Blindness |
 | Ear and Labyrinth Disorders | Common Deafness (Including Hypoacusis), Tinnitus |  |
 | Cardiac Disorders | Common Atrial Fibrillation, Bradycardia Uncommon Arrhythmia, QT prolongation, Atrial flutter, Ventricular extrasystoles | Common Myocardial infarction^◊, Atrial Fibrillation◊, Congestive Cardiac Failure◊, Tachycardia, Cardiac failure◊ |
-| Vascular Disorders | Very Common Venous Thromboembolic Events, predominantly Deep Vein Thrombosis and Pulmonary Embolism^ Common Hypotension, Hypertension, Ecchymosis^, Haematoma | Very Common Venous Thromboembolic Events, predominantly Deep Vein Thrombosis and Pulmonary Embolism^◊ Uncommon Ischemia, Peripheral ischemia, Intracranial venous sinus thrombosis |
+| Vascular Disorders | Very Common Venous Thromboembolic Events, predominantly Deep Vein Thrombosis and Pulmonary Embolism^ Common Hypotension, Hypertension, Ecchymosis^, Haematoma | Very Common Venous Thromboembolic Events, predominantly Deep Vein Thrombosis◊ and Pulmonary Embolism^◊ Uncommon Ischemia, Peripheral ischemia, Intracranial venous sinus thrombosis |
 | Respiratory, Thoracic and Mediastinal Disorders | Very common Dyspnoea, Nasopharyngitis, Pharyngitis, Bronchitis, Epistaxis^ | Common Respiratory Distress, Bronchitis Not known Interstitial pneumonitis† |
-| Gastrointestinal Disorders | Very Common Constipation, Diarrhoea, Abdominal pain, Nausea, Vomiting Common Gastrointestinal Haemorrhage (including rectal haemorrhage, haemorrhoidal haemorrhage, peptic ulcer haemorrhage and gingival bleeding)^, Dry Mouth, Stomatitis, Dysphagia, Dyspepsia Uncommon Colitis, Caecitis | Common Diarrhoea◊, Constipation, Nausea, Toothache Not known Pancreatitis† |
+| Gastrointestinal Disorders | Very Common Constipation, Diarrhoea, Abdominal pain, Nausea, Vomiting Common Gastrointestinal Haemorrhage (including rectal haemorrhage, haemorrhoidal haemorrhage, peptic ulcer haemorrhage and gingival bleeding)^, Dry Mouth, Stomatitis, Dysphagia, Dyspepsia Uncommon Colitis, Caecitis | Common Diarrhoea◊, Constipation, Nausea, Toothache Not known Pancreatitis†, Gastrointestinal perforation (including diverticular, intestinal and large intestine perforations) |
 | Hepatobiliary Disorders | Common Abnormal Liver Function Tests Uncommon Hepatic failure^ Not known Acute hepatic failure^†, Hepatitis toxic^, Cytolytic hepatitis^†, Cholestatic hepatitis^†, Mixed cytolytic/ cholestatic hepatitis^† | Common Abnormal Liver Function Tests Uncommon Hepatic failure^ Not known Acute hepatic failure^†, Hepatitis toxic^† |
-| Skin and Subcutaneous tissue Disorders | Very Common Rashes, Dry Skin, Pruritus Common Urticaria, Hyperhidrosis, Skin Hyperpigmentation, Eczema Uncommon Skin discolouration, Photosensitivity reaction | Common Rashes, Pruritus Uncommon Angioedema† Rare Stevens-Johnson Syndrome^†, Toxic epidermal necrolysis^† |
+| Skin and Subcutaneous tissue Disorders | Very Common Rashes, Dry Skin, Pruritus Common Urticaria, Hyperhidrosis, Skin Hyperpigmentation, Eczema Uncommon Skin discolouration, Photosensitivity reaction | Common Rashes, Pruritus Uncommon Angioedema† Rare Stevens-Johnson Syndrome^†, Toxic epidermal necrolysis^† Not known Leukocytoclastic Vasculitis† |
 | Musculoskeletal and connective tissue disorders | Very Common Muscle Spasms, Bone Pain, Musculoskeletal and connective tissue pain and discomfort, Arthralgia, Myalgia Common Joint swelling | Common Muscle Weakness, Bone Pain, Back pain◊ Uncommon Joint swelling |
 | Renal and Urinary Disorders | Common Haematuria^, Urinary retention, Urinary incontinence Uncommon Acquired Fanconi syndrome | Common Renal failure◊ Uncommon Renal tubular necrosis |
 | Reproductive System and Breast Disorders | Common Erectile Dysfunction |  |
@@ -96,7 +97,6 @@ Neutropenia and thrombocytopenia
 
 The combination of lenalidomide with dexamethasone in multiple myeloma patients is associated with a higher incidence of grade 4 neutropenia (5.1% in lenalidomide/dexamethasone-treated patients compared with 0.6% in placebo/dexamethasone-treated patients).
 Grade 4 febrile neutropenia episodes were observed infrequently (0.6% in lenalidomide/dexamethasone-treated patients compared to 0.0% in placebo/dexamethasone treated patients).
-
 The combination of lenalidomide with dexamethasone in multiple myeloma patients is associated with a higher incidence of grade 3 and grade 4 thrombocytopenia (9.9% and 1.4%, respectively, in lenalidomide/dexamethasone-treated patients compared to 2.3% and 0.0% in placebo/dexamethasone-treated patients).
 
 - Myelodysplastic syndromes
@@ -104,6 +104,7 @@ The combination of lenalidomide with dexamethasone in multiple myeloma patients 
 In myelodysplastic syndromes patients, lenalidomide is associated with a higher incidence of grade 3 or 4 neutropenia (74.6% in lenalidomide-treated patients compared with 14.9% in patients on placebo in the Phase III study).
 Grade 3 or 4 febrile neutropenia episodes were observed in 2.2% of lenalidomide-treated patients compared with 0.0% in patients on placebo).
 Lenalidomide is associated with a higher incidence of grade 3 or 4 thrombocytopenia (37% in lenalidomide-treated patients compared with 1.5% in patients on placebo in the Phase III study).
+
 Venous thromboembolism
 An increased risk of DVT and PE is associated with the use of lenalidomide with dexamethasone in patients with multiple myeloma, and to a lesser extent in patients with myelodysplastic syndromes treated with lenalidomide monotherapy (see section 4.5).
 Concomitant administration of erythropoietic agents or previous history of DVT may also increase thrombotic risk in these patients.
@@ -140,8 +141,21 @@ In the patients with IHC-p53 positivity, a lower rate of progression to AML was 
 
 Hepatic disorders
 The following hepatic disorders have been reported (frequency unknown): acute hepatic failure and cholestasis (both potentially fatal), toxic hepatitis, cytolytic hepatitis, mixed cytolytic/cholestatic hepatitis.
+
 Rhabdomyolysis
 Rare cases of rhabdomyolysis have been observed, some of them when lenalidomide is administered with a statin.
+
+Thyroid disorders
+Cases of hypothyroidism and cases of hyperthyroidism have been reported (see section 4.4 Thyroid disorders).
+
+Gastrointestinal disorders
+Gastrointestinal perforations have been reported during treatment with lenalidomide.
+Gastrointestinal perforations may lead to septic complications and may be associated with fatal outcome.
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 [Revlimid 5 mg hard capsules]
 
@@ -150,9 +164,7 @@ Rare cases of rhabdomyolysis have been observed, some of them when lenalidomide 
 [Revlimid 7.5 mg hard capsules]
 
 The adverse reactions observed in patients treated with lenalidomide/dexamethasone are listed below by system organ class and frequency.
-Frequencies are defined as: very common (≥ 1/10); common
-(≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare
-(< 1/10,000), not known (cannot be estimated from the available data).
+Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000), not known (cannot be estimated from the available data).
 
 The following table is derived from data gathered during the pivotal studies and from post-marketing data.
 The data were not adjusted according to the greater duration of treatment in the lenalidomide/dexamethasone versus the placebo/dexamethasone arms in the pivotal studies (see section 5.1).
@@ -165,7 +177,7 @@ Table 1: ADRs reported in clinical studies and post-marketing data in patients w
 | Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Uncommon Basal cell carcinoma Squamous skin cancer^* | Rare Tumour lysis syndrome† |
 | Blood and Lymphatic System Disorders | Very Common Thrombocytopenia^, Neutropenias^, Anaemia, Haemorrhagic disorder^, Leucopenias Common Pancytopenia Uncommon Haemolysis, Autoimmune haemolytic anaemia, Haemolytic anaemia | Very Common Thrombocytopenia^, Neutropenias^, Leucopenias Common Febrile Neutropenia, Anaemia Uncommon Hypercoagulation, Coagulopathy |
 | Immune System Disorders | Uncommon Hypersensitivity^ |  |
-| Endocrine Disorders | Common Hypothyroidism |  |
+| Endocrine Disorders | Common Hypothyroidism, Hyperthyroidism |  |
 | Metabolism and Nutrition Disorders | Very Common Hypokalaemia, Decreased appetite Common Hypomagnesaemia, Hypocalcaemia, Dehydration | Common Hypokalaemia, Hypocalcaemia, Hypophosphataemia |
 | Psychiatric Disorder | Uncommon Loss of libido | Common Depression |
 | Nervous System disorders | Very Common Peripheral neuropathies (excluding motor neuropathy), Dizziness, Tremor, Dysgeusia, Headache Common Ataxia, Balance impaired | Common Cerebrovascular Accident, Dizziness, Syncope Uncommon Intracranial haemorrhage^, Transient ischaemic attack, Cerebral ischaemia |
@@ -174,9 +186,9 @@ Table 1: ADRs reported in clinical studies and post-marketing data in patients w
 | Cardiac Disorders | Common Atrial Fibrillation, Bradycardia Uncommon Arrhythmia, QT prolongation, Atrial flutter, Ventricular extrasystoles | Common Myocardial infarction^, Atrial Fibrillation, Congestive Cardiac Failure, Tachycardia |
 | Vascular Disorders | Very Common Venous Thromboembolic Events, predominantly Deep Vein Thrombosis and Pulmonary Embolism^ Common Hypotension, Hypertension, Ecchymosis^ | Very Common Venous Thromboembolic Events, predominantly Deep Vein Thrombosis and Pulmonary Embolism^ Uncommon Ischemia, Peripheral ischemia, Intracranial venous sinus thrombosis |
 | Respiratory, Thoracic and Mediastinal Disorders | Very common Dyspnoea, Nasopharyngitis, Pharyngitis, Bronchitis, Epistaxis^ | Common Respiratory Distress Not known Interstitial pneumonitis† |
-| Gastrointestinal Disorders | Very Common Constipation, Diarrhoea, Nausea, Vomiting Common Gastrointestinal Haemorrhage (including rectal haemorrhage, haemorrhoidal haemorrhage, peptic ulcer haemorrhage and gingival bleeding)^, Abdominal Pain, Dry Mouth, Stomatitis, Dysphagia Uncommon Colitis, Caecitis | Common Diarrhoea, Constipation, Nausea Not known Pancreatitis† |
+| Gastrointestinal Disorders | Very Common Constipation, Diarrhoea, Nausea, Vomiting Common Gastrointestinal Haemorrhage (including rectal haemorrhage, haemorrhoidal haemorrhage, peptic ulcer haemorrhage and gingival bleeding)^, Abdominal Pain, Dry Mouth, Stomatitis, Dysphagia Uncommon Colitis, Caecitis | Common Diarrhoea, Constipation, Nausea Not known Pancreatitis†, Gastrointestinal perforation (including diverticular, intestinal and large intestine perforations) |
 | Hepatobiliary Disorders | Common Abnormal Liver Function Tests Uncommon Hepatic failure^ Not known Acute hepatic failure^†, Hepatitis toxic^, Cytolytic hepatitis^†, Cholestatic hepatitis^†, Mixed cytolytic/ cholestatic hepatitis^† | Common Abnormal Liver Function Tests Uncommon Hepatic failure^ Not known Acute hepatic failure^†, Hepatitis toxic^† |
-| Skin and Subcutaneous tissue Disorders | Very Common Rashes Common Urticaria, Hyperhidrosis, Dry Skin, Pruritus, Skin Hyperpigmentation, Eczema Uncommon Skin discolouration, Photosensitivity reaction | Common Rashes Uncommon Angioedema† Rare Stevens-Johnson Syndrome^†, Toxic epidermal necrolysis^† |
+| Skin and Subcutaneous tissue Disorders | Very Common Rashes Common Urticaria, Hyperhidrosis, Dry Skin, Pruritus, Skin Hyperpigmentation, Eczema Uncommon Skin discolouration, Photosensitivity reaction | Common Rashes Uncommon Angioedema† Rare Stevens-Johnson Syndrome^†, Toxic epidermal necrolysis^† Not known Leukocytoclastic Vasculitis† |
 | Musculoskeletal and connective tissue disorders | Very Common Muscle Spasms, Bone Pain, Musculoskeletal and connective tissue pain and discomfort Common Joint swelling | Common Muscle Weakness, Bone Pain Uncommon Joint swelling |
 | Renal and Urinary Disorders | Common Haematuria^, Urinary retention, Urinary incontinence Uncommon Acquired Fanconi syndrome | Common Renal failure Uncommon Renal tubular necrosis |
 | Reproductive System and Breast Disorders | Common Erectile Dysfunction |  |

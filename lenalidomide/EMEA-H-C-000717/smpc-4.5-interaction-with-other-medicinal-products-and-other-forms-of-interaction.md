@@ -22,14 +22,14 @@ Digoxin
 Concomitant administration with lenalidomide 10 mg/day increased the plasma exposure of digoxin (0.5 mg, single dose) by 14% with a 90% CI (confidence interval) [0.52%-28.2%].
 It is not known whether the effect will be different in the therapeutic situation (higher lenalidomide doses and concomitant treatment with dexamethasone).
 Therefore, monitoring of the digoxin concentration is advised during lenalidomide treatment.
-
 Statins
-There is an increased risk of rhabdomyolysis when statins are combined to lenalidomide, which may be simply additive.
-A reinforced clinical and biological monitoring is warranted notably during the first weeks of treatment.
+There is an increased risk of rhabdomyolysis when statins are administered with lenalidomide, which may be simply additive.
+Enhanced clinical and laboratory monitoring is warranted notably during the first weeks of treatment.
 
-Interactions with other medicines
-Co-administration of lenalidomide, a P-gp substrate, with known P-gp inhibitors (cyclosporine, clarithromycin, itraconazole, ketoconazole, quinidine, verapamil) may increase its plasma levels and thus its toxicity.
-If such a combination is to be given, patients should be closely monitored for the occurrence of side- effects.
+Dexamethasone
+Co-administration of single or multiple doses of dexamethasone (40 mg/ day) has no clinically relevant effect on the multiple dose pharmacokinetics of lenalidomide (25 mg/ day).
 
-Results from human in vitro metabolism studies indicate that lenalidomide is not metabolised by cytochrome P450 enzymes suggesting that administration of lenalidomide with drugs that inhibit cytochrome P450 enzymes is not likely to result in metabolic drug interactions in man.
-In vitro studies indicate that lenalidomide has no inhibitory effect on CYP1A2, CYP2C9, CYP2C19, CYP2D6, CYP2E1 or CYP3A.
+Interactions with P-glycoprotein (P-gp) inhibitors
+In vitro, lenalidomide is a substrate of P-gp, but is not a P-gp inhibitor.
+Co-administration of multiple doses of the strong P-gp inhibitor quinidine (600 mg, twice daily) or the moderate P-gp inhibitor/substrate temsirolimus (25 mg) has no clinically relevant effect on the pharmacokinetics of lenalidomide (25 mg).
+Co-administration of lenalidomide does not alter the pharmacokinetics of temsirolimus.
