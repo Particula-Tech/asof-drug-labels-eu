@@ -23,12 +23,13 @@ NSAIDs: in a clinical study conducted in healthy volunteers, the concomitant adm
 However, due to the lack of interaction studies with other NSAIDs it is presently unclear whether there is an increased risk of gastrointestinal bleeding with all NSAIDs.
 Consequently, NSAIDs including Cox-2 inhibitors and clopidogrel should be co-administered with caution (see section 4.4).
 
+SSRIs: since SSRIs affect platelet activation and increase the risk of bleeding, the concomitant administration of SSRIs with clopidogrel should be undertaken with caution.
+
 Other concomitant therapy: Since clopidogrel is metabolised to its active metabolite partly by CYP2C19, use of medicinal products that inhibit the activity of this enzyme would be expected to result in reduced drug levels of the active metabolite of clopidogrel.
 The clinical relevance of this interaction is uncertain.
 As a precaution concomitant use of strong or moderate CYP2C19 inhibitors should be discouraged (see sections 4.4 and 5.2).
 
 Medicinal products that inhibit CYP2C19 include omeprazole and esomeprazole, fluvoxamine, fluoxetine, moclobemide, voriconazole, fluconazole, ticlopidine, ciprofloxacin, cimetidine, carbamazepine, oxcarbazepine and chloramphenicol.
-
 Proton Pump Inhibitors (PPI):
 Omeprazole 80 mg once daily administered either at the same time as clopidogrel or with 12 hours between the administrations of the two drugs decreased the exposure of the active metabolite by 45% (loading dose) and 40% (maintenance dose).
 The decrease was associated with a 39% (loading dose) and 21% (maintenance dose) reduction of inhibition of platelet aggregation.

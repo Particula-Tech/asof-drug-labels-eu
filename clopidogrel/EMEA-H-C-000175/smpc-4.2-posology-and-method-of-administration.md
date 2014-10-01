@@ -23,9 +23,7 @@ ASA (75-100 mg daily) should be initiated and continued in combination with clop
 If a dose is missed:
 
 - Within less than 12 hours after regular scheduled time: patients should take the dose immediately and then take the next dose at the regular scheduled time.
-
 - For more than 12 hours: patients should take the next dose at the regular scheduled time and should not double the dose.
-
 - Paediatric population
 
 Clopidogrel should not be used in children because of efficacy concerns (see section 5.1).
