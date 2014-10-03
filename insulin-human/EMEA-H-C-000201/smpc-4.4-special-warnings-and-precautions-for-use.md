@@ -79,7 +79,11 @@ Pioglitazone should be discontinued if any deterioration in cardiac symptoms occ
 [Insuman Rapid 100 IU/ml solution for injection in a cartridge]
 
 Pens to be used with Insuman Rapid cartridges
-The Insuman Rapid cartridges should only be used with the following pens: OptiPen, ClikSTAR, Tactipen and Autopen 24 and should not be used with any other reusable pen as the dosing accuracy has only been established with the listed pens.
+The Insuman Rapid cartridges should only be used with the following pens:
+- JuniorSTAR which delivers Insuman Rapid in 0.5 unit dose increments
+- OptiPen, ClikSTAR, Tactipen, Autopen 24 and AllStar which all deliver Insuman Rapid in 1 unit dose increments.
+These cartridges should not be used with any other reusable pen as the dosing accuracy has only been established with the listed pens.
+Not all of these pens may be marketed in your country.
 
 [Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen.]
 
@@ -111,7 +115,9 @@ Changes in strength, brand (manufacturer), type (regular, NPH, lente, long-actin
 [Insuman Basal 100 IU/ml suspension for injection in a cartridge]
 
 Pens to be used with Insuman Basal cartridges
-The Insuman Basal cartridges should only be used with the following pens: OptiPen, ClikSTAR, Tactipen and Autopen 24 and should not be used with any other reusable pen as the dosing accuracy has only been established with the listed pens.
+The Insuman Basal cartridges should only be used with the following pens:
+- JuniorSTAR which delivers Insuman Basal in 0.5 unit dose increments
+- OptiPen, ClikSTAR, Tactipen, Autopen 24 and AllStar which all deliver Insuman Basal in 1 unit dose increments.
 
 [Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen.]
 
@@ -140,7 +146,9 @@ Transfer to Insuman Comb 15
 [Insuman Comb 15 100 IU/ml suspension for injection in a cartridge]
 
 Pens to be used with Insuman Comb 15 cartridges
-The Insuman Comb 15 cartridges should only be used with the following pens: OptiPen, ClikSTAR, Tactipen and Autopen 24 and should not be used with any other reusable pen as the dosing accuracy has only been established with the listed pens.
+The Insuman Com 15 cartridges should only be used with the following pens:
+- JuniorSTAR which delivers Insuman Comb 15 in 0.5 unit dose increments
+- OptiPen, ClikSTAR, Tactipen, Autopen 24 and AllStar which all deliver Insuman Comb 15 in 1 unit dose increments.
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen.]
 
@@ -169,7 +177,9 @@ Transfer to Insuman Comb 25
 [Insuman Comb 25 100 IU/ml suspension for injection in a cartridge]
 
 Pens to be used with Insuman Comb 25 cartridges
-The Insuman Comb 25 cartridges should only be used with the following pens: OptiPen, ClikSTAR, Tactipen and Autopen 24 and should not be used with any other reusable pen as the dosing accuracy has only been established with the listed pens.
+The Insuman Comb 25 cartridges should only be used with the following pens:
+- JuniorSTAR which delivers Insuman Comb 25 in 0.5 unit dose increments
+- OptiPen, ClikSTAR, Tactipen, Autopen 24 and AllStar which all deliver Insuman Comb 25 in 1 unit dose increments.
 
 [Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen.]
 
@@ -194,7 +204,9 @@ Transfer to Insuman Comb 30
 [Insuman Comb 30 100 IU/ml suspension for injection in a cartridge]
 
 Pens to be used with Insuman Comb 30 cartridges
-The Insuman Comb 30 cartridges should only be used with the following pens: OptiPen, ClikSTAR, Tactipen and Autopen 24 and should not be used with any other reusable pen as the dosing accuracy has only been established with the listed pens.
+The Insuman Comb 30 cartridges should only be used with the following pens:
+- JuniorSTAR which delivers Insuman Comb 30 in 0.5 unit dose increments
+- OptiPen, ClikSTAR, Tactipen, Autopen 24 and AllStar which all deliver Insuman Comb 30 in 1 unit dose increments.
 
 [Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen.]
 
@@ -223,7 +235,9 @@ Transfer to Insuman Comb 50
 [Insuman Comb 50 100 IU/ml suspension for injection in a cartridge]
 
 Pens to be used with Insuman Comb 50 cartridges
-The Insuman Comb 50 cartridges should only be used with the following pens: OptiPen, ClikSTAR, Tactipen and Autopen 24 and should not be used with any other reusable pen as the dosing accuracy has only been established with the listed pens.
+The Insuman Comb 50 cartridges should only be used with the following pens:
+- JuniorSTAR which delivers Insuman Comb 50 in 0.5 unit dose increments
+- OptiPen, ClikSTAR, Tactipen, Autopen 24 and AllStar which all deliver Insuman Comb 50 in 1 unit dose increments.
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen.]
 

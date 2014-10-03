@@ -6,6 +6,7 @@ Do not shake the vial vigorously as this may cause frothing.
 Froth may interfere with the correct measurement of the dose.
 
 Insuman Rapid must only be used if the solution is clear, colourless, with no solid particles visible, and if it is of a water-like consistency.
+
 Insuman Rapid must not be used in external or implanted insulin pumps or in peristaltic pumps with silicone tubing.
 
 It must be remembered that neutral regular insulin precipitates out at a pH of approximately 4.5 to 6.5.
@@ -28,7 +29,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 [Insuman Rapid 100 IU/ml solution for injection in a cartridge]
 
 Insulin pen
-The Insuman Rapid cartridges are to be used only in conjunction with the pens: OptiPen, ClikSTAR, Autopen 24 or Tactipen (see section 4.4).
+The Insuman Rapid cartridges are to be used only in conjunction with the pens: OptiPen, ClikSTAR, Autopen 24, Tactipen, AllStar or JuniorSTAR (see section 4.4).
 Not all of these pens may be marketed in your country.
 
 The pen should be used as recommended in the information provided by the device manufacturer.
@@ -38,7 +39,6 @@ The manufacturer’s instructions for using the pen must be followed carefully f
 If the insulin pen is damaged or not working properly (due to mechanical defects) it has to be discarded, and a new insulin pen has to be used.
 
 If the pen malfunctions (see instructions for using the pen), the solution may be drawn from the cartridge into an injection syringe (suitable for an insulin with 100 IU/ml) and injected.
-
 Cartridges
 Before insertion into the pen, Insuman Rapid must be kept at room temperature for 1 to 2 hours.
 Inspect the cartridge before use.
@@ -278,7 +278,7 @@ Insuman Basal may be mixed with all insulin human formulation, but not with thos
 
 [Insuman Basal 100 IU/ml suspension for injection in a cartridge]
 
-The Insuman Basal cartridges are to be used only in conjunction with OptiPen, ClikSTAR, Autopen 24 or Tactipen (see section 4.4).
+The Insuman Basal cartridges are to be used only in conjunction with the pens: OptiPen, ClikSTAR, Autopen 24, Tactipen, AllStar or JuniorSTAR (see section 4.4).
 
 If the pen malfunctions (see instructions for using the pen), the suspension may be drawn from the cartridge into an injection syringe (suitable for an insulin with 100 IU/ml) and injected.
 
@@ -343,7 +343,7 @@ Insuman Comb 15 may be mixed with all insulin human formulations, but not with t
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a cartridge]
 
-The Insuman Comb 15 cartridges are to be used only in conjunction with OptiPen, ClikSTAR, Autopen 24 or Tactipen (see section 4.4).
+The Insuman Comb 15 cartridges are to be used only in conjunction with the pens: OptiPen, ClikSTAR, Autopen 24, Tactipen, AllStar or JuniorSTAR (see section 4.4).
 
 Before insertion into the pen, Insuman Comb 15 must be kept at room temperature for 1 to 2 hours and then resuspended to check the contents.
 
@@ -379,7 +379,7 @@ Insuman Comb 25 may be mixed with all insulin human formulations,, but not with 
 
 [Insuman Comb 25 100 IU/ml suspension for injection in a cartridge]
 
-The Insuman Comb 25 cartridges are to be used only in conjunction with OptiPen, ClikSTAR, Autopen 24 or Tactipen (see section 4.4).
+The Insuman Comb 25 cartridges are to be used only in conjunction with the pens: OptiPen, ClikSTAR, Autopen 24, Tactipen, AllStar or JuniorSTAR (see section 4.4).
 
 Before insertion into the pen, Insuman Comb 25 must be kept at room temperature for 1 to 2 hours and then resuspended to check the contents.
 
@@ -409,7 +409,7 @@ Insuman Comb 30 may be mixed with all insulin human formulations, but not with t
 
 [Insuman Comb 30 100 IU/ml suspension for injection in a cartridge]
 
-The Insuman Comb 30 cartridges are to be used only in conjunction with OptiPen, ClikSTAR, Autopen 24 or Tactipen (see section 4.4).
+The Insuman Comb 30 cartridges are to be used only in conjunction with the pens: OptiPen, ClikSTAR, Autopen 24, Tactipen, AllStar or JuniorSTAR (see section 4.4).
 
 Before insertion into the pen, Insuman Comb 30 must be kept at room temperature for 1 to 2 hours and then resuspended to check the contents.
 
@@ -445,7 +445,7 @@ Insuman Comb 50 may be mixed with all insulin human formulations, but not with t
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a cartridge]
 
-The Insuman Comb 50 cartridges are to be used only in conjunction with OptiPen, ClikSTAR, Autopen 24 or Tactipen (see section 4.4).
+The Insuman comb 50 cartridges are to be used only in conjunction with the pens: OptiPen, ClikSTAR, Autopen 24, Tactipen, AllStar or JuniorSTAR (see section 4.4).
 
 Before insertion into the pen, Insuman Comb 50 must be kept at room temperature for 1 to 2 hours and then resuspended to check the contents.
 
@@ -474,6 +474,7 @@ The cartridge must only be used once.
 
 Before use, the filled cartridge must be kept at room temperature for 1 to 2 hours.
 Air bubbles must be removed before starting the infusion (see the operator’s manual for the pump).
+
 If the infusion pump malfunctions, the solution may be drawn from the cartridge into an injection syringe (suitable for an insulin with 100 IU/ml) and injected.
 
 Insuman Infusat must not be used in peristaltic pumps with silicone tubing.
@@ -488,6 +489,7 @@ Before use, Insuman Infusat must be kept at room temperature for 1 to 2 hours.
 The solution must only be used if it is clear, colourless or almost colourless and practically free from visible particles.
 
 Insulin label must always be checked before each administration to avoid medication errors between Insuman Implantable and other insulins (see section 4.4).
+
 Insuman Implantable must not be used with any other pumps (external or implantable) than the Medtronic MiniMed Implantable pump or with any other medical devices including syringes (see section 4.2).
 
 All procedures should be performed using sterile technique.
@@ -556,7 +558,6 @@ The patient should only be released once blood glucose levels are stable and wit
 
 If the flush procedure is unsuccessful, catheter replacement surgery is usually performed.
 Detailed instructions on the side port catheter flush procedure is contained in the Physician’s Manual.
-
 Under-delivery due to a problem with the pump
 A rinse procedure of the pump is performed to reverse this condition.
 The purpose of this procedure is to dissolve insulin deposits within the pump reservoir, pumping mechanism and the side port catheter using 0.1 M sodium hydroxide sterile solution supplied by Medtronic MiniMed.

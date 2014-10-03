@@ -162,6 +162,5 @@ In addition, if patients are attempting to deliver more than 2.5 times the progr
 Detailed instructions on programming these limitations are contained in the Physician’s Manual.
 
 In case of severe hypoglycaemia, the pump should be investigated by the treating physician for possible catheter occlusion leading to accumulation of insulin with subsequent release of this accumulated insulin (see sections 4.4 and 6.6).
-
 During a refill procedure, a very small amount of insulin may be deposited subcutaneously, possibly resulting in hypoglycaemia.
 Patients must be informed to closely monitor blood glucose levels on refill days (see section 6.6).
