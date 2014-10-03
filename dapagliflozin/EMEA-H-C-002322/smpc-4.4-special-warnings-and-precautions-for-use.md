@@ -35,13 +35,14 @@ Urinary tract infections were more frequently reported for dapagliflozin 10 mg c
 Pyelonephritis was uncommon and occurred at a similar frequency to control.
 Urinary glucose excretion may be associated with an increased risk of urinary tract infection; therefore, temporary interruption of dapagliflozin should be considered when treating pyelonephritis or urosepsis.
 
-Elderly patients elderly patients are more likely to have impaired renal function, and/or to be treated with anti-hypertensive medicinal products that may cause changes in renal function such as angiotensin-converting enzyme inhibitors (ACE-I) and angiotensin II type 1 receptor blockers (ARB).
+Elderly patients
+Elderly patients are more likely to have impaired renal function, and/or to be treated with anti-hypertensive medicinal products that may cause changes in renal function such as angiotensin-converting enzyme inhibitors (ACE-I) and angiotensin II type 1 receptor blockers (ARB).
 The same recommendations for renal function apply to elderly patients as to all patients (see sections 4.2, 4.4, 4.8 and 5.1).
 
 In subjects ≥ 65 years of age, a higher proportion of subjects treated with dapagliflozin had adverse reactions related to renal impairment or failure compared with placebo.
 The most commonly reported adverse reaction related to renal function was serum creatinine increases, the majority of which were transient and reversible (see section 4.8).
 
-elderly patients may be at a greater risk for volume depletion and are more likely to be treated with diuretics.
+Elderly patients may be at a greater risk for volume depletion and are more likely to be treated with diuretics.
 In subjects ≥ 65 years of age, a higher proportion of subjects treated with dapagliflozin had adverse reactions related to volume depletion (see section 4.8).
 
 Therapeutic experience in patients 75 years and older is limited.
@@ -65,8 +66,3 @@ Due to its mechanism of action, patients taking Forxiga will test positive for g
 Lactose
 The tablets contain lactose anhydrous.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency, or glucose-galactose malabsorption should not take this medicinal product.
-
-[Forxiga 10 mg film-coated tablets]
-
-Elderly patients
-Elderly patients are more likely to have impaired renal function, and/or to be treated with anti-hypertensive medicinal products that may cause changes in renal function such as angiotensin-converting enzyme inhibitors (ACE-I) and angiotensin II type 1 receptor blockers (ARB).

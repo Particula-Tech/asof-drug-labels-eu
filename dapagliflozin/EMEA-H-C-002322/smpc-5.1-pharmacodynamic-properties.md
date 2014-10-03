@@ -4,6 +4,7 @@ Pharmacotherapeutic group: Drugs used in diabetes, Other blood glucose lowering 
 
 Mechanism of action
 Dapagliflozin is a highly potent (Ki: 0.55 nM), selective and reversible inhibitor of sodium-glucose co-transporter 2 (SGLT2).
+
 The SGLT2 is selectively expressed in the kidney with no expression detected in more than 70 other tissues including liver, skeletal muscle, adipose tissue, breast, bladder and brain.
 SGLT2 is the predominant transporter responsible for reabsorption of glucose from the glomerular filtrate back into the circulation.
 Despite the presence of hyperglycaemia in type 2 diabetes, reabsorption of filtered glucose continues.
@@ -23,7 +24,6 @@ Pharmacodynamic effects
 Increases in the amount of glucose excreted in the urine were observed in healthy subjects and in subjects with type 2 diabetes mellitus following the administration of dapagliflozin.
 Approximately 70 g of glucose was excreted in the urine per day (corresponding to 280 kcal/day) at a dapagliflozin dose of 10 mg/day in subjects with type 2 diabetes mellitus for 12 weeks.
 Evidence of sustained glucose excretion was seen in subjects with type 2 diabetes mellitus given dapagliflozin 10 mg/day for up to 2 years.
-
 This urinary glucose excretion with dapagliflozin also results in osmotic diuresis and increases in urinary volume in subjects with type 2 diabetes mellitus.
 Urinary volume increases in subjects with type 2 diabetes mellitus treated with dapagliflozin 10 mg were sustained at 12 weeks and amounted to approximately 375 ml/day.
 The increase in urinary volume was associated with a small and transient increase in urinary sodium excretion that was not associated with changes in serum sodium concentrations.
@@ -33,11 +33,13 @@ At 24 weeks, reductions in serum uric acid concentrations ranged from -48.3 to -
 
 Clinical efficacy and safety
 Thirteen double-blind, randomised, controlled clinical trials were conducted with 6,362 subjects with type 2 diabetes to evaluate the efficacy and safety of Forxiga; 4,273 subjects in these studies were treated with dapagliflozin.
-Twelve studies had a treatment period of 24 weeks duration, 8 with long-term extensions ranging from 24 to 78 weeks (up to a total study duration of 102 weeks), and one study was 52 weeks in duration with a long-term extension of 52 weeks (total study duration of 104 weeks).
+Twelve studies had a treatment period of 24 weeks duration, 8 with long-term extensions ranging from 24 to 80 weeks (up to a total study duration of 104 weeks), and one study was 52 weeks in duration with long-term extensions of 52 and 104 weeks (total study duration of 208 weeks).
 Mean duration of diabetes ranged from 1.4 to 16.9 years.
-Fifty-two percent had mild renal impairment and 11% had moderate renal impairment.
+Fifty-two percent (52%) had mild renal impairment and 11% had moderate renal impairment.
 Fifty-one percent (51%) of the subjects were men, 84% were White, 9% were Asian, 3% were Black and 4% were of other racial groups.
 Eighty percent (80%) of the subjects had a body mass index (BMI) ≥ 27.
+Furthermore, two 12-week, placebo-controlled studies were conducted in patients with inadequately controlled type 2 diabetes and hypertension.
+
 Glycaemic control
 Monotherapy
 A double-blind, placebo-controlled study of 24-week duration (with an additional extension period) was conducted to evaluate the safety and efficacy of monotherapy with Forxiga in subjects with inadequately controlled type 2 diabetes mellitus.
@@ -59,12 +61,15 @@ Results at Week 24 (LOCFa) of a placebo-controlled study of dapagliflozin as mon
 aLOCF: Last observation (prior to rescue for rescued subjects) carried forward bAll randomised subjects who took at least one dose of double-blind study medication during the short-term double-blind period cLeast squares mean adjusted for baseline value
 *p-value < 0.0001 versus placebo
 § Not evaluated for statistical significance as a result of the sequential testing procedure for secondary end points
+
 Combination therapy
-In a 52-week, active-controlled non-inferiority study (with a 52-week extension period), Forxiga was evaluated as add-on therapy to metformin compared with a sulphonylurea (glipizide) as add-on therapy to metformin in subjects with inadequate glycaemic control (HbA1c > 6.5% and ≤ 10%).
+In a 52-week, active-controlled non-inferiority study (with 52- and 104-week extension periods), Forxiga was evaluated as add-on therapy to metformin compared with a sulphonylurea (glipizide) as add-on therapy to metformin in subjects with inadequate glycaemic control (HbA1c > 6.5% and
+≤ 10%).
 The results showed a similar mean reduction in HbA1c from baseline to Week 52, compared to glipizide, thus demonstrating non-inferiority (Table 3).
 At Week 104, adjusted mean change from baseline in HbA1c was -0.32% for dapagliflozin and -0.14% for glipizide.
-At 52 and 104 weeks, a significantly lower proportion of subjects in the group treated with dapagliflozin (3.5% and 4.3%, respectively) experienced at least one event of hypoglycaemia compared to the group treated with glipizide (40.8% and 47.0%, respectively).
-The proportion of subjects remaining in the study at Week 104 was 56.2% for the group treated with dapagliflozin and 50.0% for the group treated with glipizide.
+At Week 208, adjusted mean change from baseline in HbA1c was -0.10% for dapagliflozin and 0.20% for glipizide.
+At 52, 104 and 208 weeks, a significantly lower proportion of subjects in the group treated with dapagliflozin (3.5%, 4.3% and 5.0%, respectively) experienced at least one event of hypoglycaemia compared to the group treated with glipizide (40.8%, 47.0% and 50.0%, respectively).
+The proportion of subjects remaining in the study at Week 104 and Week 208 was 56.2% and 39.7% for the group treated with dapagliflozin and 50.0% and 34.6% for the group treated with glipizide.
 
 Table 3.
 Results at Week 52 (LOCFa) in an active-controlled study comparing dapagliflozin to glipizide as add-on to metformin
@@ -101,7 +106,7 @@ At Weeks 48 and 104, the insulin dose remained stable compared to baseline in su
 In the placebo group there was a mean increase of 10.5 IU/day and 18.3 IU/day from baseline (mean average dose of 84 and 92 IU/day) at Weeks 48 and 104, respectively.
 The proportion of subjects remaining in the study at Week 104 was 72.4% for the group treated with dapagliflozin 10 mg and 54.8% for the placebo group.
 Table 4.
-Results of 24-week (LOCFa) placebo-controlled studies of dapagliflozin in add-on combination with metforminor sitagliptin (with or without metformin)
+Results of 24-week (LOCFa) placebo-controlled studies of dapagliflozin in add-on combination with metformin or sitagliptin (with or without metformin)
 Add-on combination
 
 Metformin1 DPP-4 Inhibitor
@@ -166,7 +171,7 @@ aLOCF: Last observation (prior to or on the date of the first insulin up-titrati
 Fasting plasma glucose
 Treatment with dapagliflozin 10 mg as a monotherapy or as an add-on to either metformin, glimepiride, metformin and a sulphonylurea, sitagliptin (with or without metformin) or insulin resulted in statistically significant reductions in fasting plasma glucose (-1.90 to -1.20 mmol/l
 [-34.2 to -21.7 mg/dl]) compared to placebo (-0.33 to 0.21 mmol/l [-6.0 to 3.8 mg/dl]).
-This effect was observed at Week 1 of treatment and maintained in studies extended through Week 102.
+This effect was observed at Week 1 of treatment and maintained in studies extended through Week 104.
 
 Post-prandial glucose
 Treatment with dapagliflozin 10 mg as an add-on to glimepiride resulted in statistically significant reductions in 2-hour post-prandial glucose at 24 weeks that were maintained up to Week 48.
@@ -178,23 +183,27 @@ These effects were sustained in longer-term trials.
 At 48 weeks, the difference for dapagliflozin as add-on to sitagliptin (with or without metformin) compared with placebo was -2.22 kg.
 At 102 weeks, the difference for dapagliflozin as add-on to metformin compared with placebo, or as add-on to insulin compared with placebo was -2.14 and -2.88 kg, respectively.
 
-As an add-on therapy to metformin in an active-controlled non-inferiority study, dapagliflozin resulted in a statistically significant body weight reduction of -4.65 kg at 52 weeks (p < 0.0001, Table 3) that was sustained at 104 weeks (-5.06 kg) compared with glipizide.
+As an add-on therapy to metformin in an active-controlled non-inferiority study, dapagliflozin resulted in a statistically significant body weight reduction compared with glipizide of -4.65 kg at 52 weeks
+(p < 0.0001, Table 3) that was sustained at 104 and 208 weeks (-5.06 kg and –4.38 kg, respectively).
 
 A 24-week study in 182 diabetic subjects using dual energy X-ray absorptiometry (DXA) to evaluate body composition demonstrated reductions with dapagliflozin 10 mg plus metformin compared with placebo plus metformin, respectively, in body weight and body fat mass as measured by DXA rather than lean tissue or fluid loss.
 Treatment with Forxiga plus metformin showed a numerical decrease in visceral adipose tissue compared with placebo plus metformin treatment in a magnetic resonance imaging substudy.
 
 Blood pressure
-In a pre-specified pooled analysis of 12 placebo-controlled studies, treatment with dapagliflozin 10 mg resulted in a systolic blood pressure change from baseline of -4.4 mmHg and diastolic blood pressure of -2.1 mmHg versus -0.9 mmHg systolic and -0.5 mmHg diastolic blood pressure for placebo group at Week 24.
+In a pre-specified pooled analysis of 13 placebo-controlled studies, treatment with dapagliflozin 10 mg resulted in a systolic blood pressure change from baseline of –3.7 mmHg and diastolic blood pressure of –1.8 mmHg versus –0.5 mmHg systolic and -0.5 mmHg diastolic blood pressure for placebo group at Week 24.
+Similar reductions were observed up to 104 weeks.
+
+In two 12-week, placebo-controlled studies a total of 1,062 patients with inadequately controlled type 2 diabetes and hypertension (despite pre-existing stable treatment with an ACE-I or ARB in one study and an ACE-I or ARB plus one additional antihypertensive treatment in another study) were treated with dapagliflozin 10 mg or placebo.
+At Week 12 for both studies, dapagliflozin 10 mg plus usual antidiabetic treatment provided improvement in HbA1c and decreased the placebo-corrected systolic blood pressure on average by 3.1 and 4.3 mmHg, respectively.
 
 Cardiovascular safety
 A meta-analysis of cardiovascular events in the clinical program was performed.
-In the clinical program, 36.6% of subjects had a history of cardiovascular disease (excluding hypertension) at baseline and 70.0% had hypertension.
+In the clinical program, 34.4% of subjects had a history of cardiovascular disease (excluding hypertension) at baseline and 67.9% had hypertension.
 Cardiovascular episodes were adjudicated by an independent adjudication committee.
 The primary end point was the time-to-first event of one of the following outcomes: cardiovascular death, stroke, myocardial infarction (MI) or hospitalisation for unstable angina.
-Primary episodes occurred at a rate of 1.64% per patient-year in subjects treated with dapagliflozin and 1.99% in comparator-treatment subjects, per patient-year.
-The hazard ratio comparing dapagliflozin to comparator was 0.82 (95% Confidence interval [CI]: 0.58, 1.15), indicating that in this analysis Forxiga is not associated with an increase in cardiovascular risk in patients with type 2 diabetes mellitus.
-Cardiovascular death, MI and stroke were observed with a hazard ratio of 0.79 (95% CI: 0.54, 1.17).
-
+Primary episodes occurred at a rate of 1.62% per patient-year in subjects treated with dapagliflozin and 2.06% in comparator-treatment subjects, per patient-year.
+The hazard ratio comparing dapagliflozin to comparator was 0.79 (95% Confidence interval [CI]: 0.58, 1.07), indicating that in this analysis Forxiga is not associated with an increase in cardiovascular risk in patients with type 2 diabetes mellitus.
+Cardiovascular death, MI and stroke were observed with a hazard ratio of 0.77 (95% CI: 0.54, 1.10).
 Patients with renal impairment
 Moderate renal impairment (eGFR ≥ 30 to < 60 ml/min/1.73 m2)
 The efficacy of dapagliflozin was also assessed separately in a dedicated study of diabetic subjects with moderate renal impairment (252 subjects with mean eGFR 45 ml/min/1.73 m2).
@@ -202,6 +211,7 @@ The mean change from baseline in HbA1c at 24 weeks was -0.44% and -0.33%, for da
 
 Patients with baseline HbA1c ≥ 9%
 In a pre-specified analysis of subjects with baseline HbA1c ≥ 9.0%, treatment with dapagliflozin 10 mg resulted in statistically significant reductions in HbA1c at Week 24 as a monotherapy (adjusted mean change from baseline: -2.04% and 0.19% for dapagliflozin 10 mg and placebo, respectively) and as an add-on to metformin (adjusted mean change from baseline: -1.32% and -0.53% for dapagliflozin and placebo, respectively).
+
 Paediatric population
 The European Medicines Agency has deferred the obligation to submit the results of studies with dapagliflozin in one or more subsets of the paediatric population in the treatment of type 2 diabetes (see section 4.2 for information on paediatric use).
 

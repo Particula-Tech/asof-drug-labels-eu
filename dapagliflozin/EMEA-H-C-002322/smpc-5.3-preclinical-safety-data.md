@@ -9,7 +9,6 @@ Direct administration of dapagliflozin to weanling juvenile rats and indirect ex
 In a juvenile toxicity study, when dapagliflozin was dosed directly to young rats from postnatal day 21 until postnatal day 90, renal pelvic and tubular dilatations were reported at all dose levels; pup exposures at the lowest dose tested were ≥ 15 times the maximum recommended human dose.
 These findings were associated with dose-related increases in kidney weight and macroscopic kidney enlargement observed at all doses.
 The renal pelvic and tubular dilatations observed in juvenile animals did not fully reverse within the approximate 1-month recovery period.
-
 In a separate study of pre- and postnatal development, maternal rats were dosed from gestation day 6 through postnatal day 21, and pups were indirectly exposed in utero and throughout lactation.
 (A satellite study was conducted to assess dapagliflozin exposures in milk and pups.)
 Increased incidence or severity of renal pelvic dilatation was observed in adult offspring of treated dams, although only at the highest dose tested (associated maternal and pup dapagliflozin exposures were 1,415 times and 137 times, respectively, the human values at the maximum recommended human dose).
