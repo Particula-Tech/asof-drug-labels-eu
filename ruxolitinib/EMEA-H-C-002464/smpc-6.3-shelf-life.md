@@ -1,7 +1,7 @@
 # 6.3 Shelf life
 
 Blisters
-18 months
+2 years
 
 Bottles
 2 years

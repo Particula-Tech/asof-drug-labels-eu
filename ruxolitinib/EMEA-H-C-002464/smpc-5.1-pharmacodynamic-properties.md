@@ -18,8 +18,8 @@ Ruxolitinib resulted in maximal inhibition of STAT3 phosphorylation 2 hours afte
 
 Baseline elevations in inflammatory markers associated with constitutional symptoms such as TNFα, IL-6 and CRP in subjects with myelofibrosis were decreased following treatment with ruxolitinib.
 Myelofibrosis patients did not become refractory to the pharmacodynamic effects of ruxolitinib treatment over time.
-
 In a thorough QT study in healthy subjects, there was no indication of a QT/QTc prolonging effect of ruxolitinib in single doses up to a supratherapeutic dose of 200 mg, indicating that ruxolitinib has no effect on cardiac repolarisation.
+
 Clinical efficacy and safety
 Two randomised phase 3 studies (COMFORT-I and COMFORT-II) were conducted in patients with myelofibrosis (primary myelofibrosis, post-polycythaemia vera myelofibrosis or post-essential thrombocythaemia myelofibrosis).
 In both studies, patients had palpable splenomegaly at least 5 cm below the costal margin and risk category of intermediate-2 (2 prognostic factors) or high risk (3 or more prognostic factors) based on the International Working Group (IWG) Consensus Criteria.
@@ -74,8 +74,9 @@ A significantly larger proportion of subjects in the Jakavi group achieved a ≥
 An improvement in overall quality of life was measured by a validated instrument, the EORTC QLQ-C30 in both COMFORT-I and COMFORT-II.
 At week 24 in COMFORT-I the mean change for the global health status/quality of life score was +12.3 and -3.4 (p<0.0001) for Jakavi and placebo, respectively.
 
-In COMFORT-I, 13 out of 155 patients (8.4%) died in the Jakavi group and 24 out of 154 patients (15.6%) died in the placebo group.
-In COMFORT-II, 13 out of 146 patients (8.9%) died in the Jakavi group and 5 out of 73 patients (6.8%) died in the best available therapy group.
+In COMFORT-I, after a median follow-up of 34.3 months, the death rate in patients randomised to the ruxolitinib arm was 27.1% versus 35.1% in patients randomised to placebo; HR 0.687; 95% CI 0.459-1.029; p=0.0668.
+In COMFORT-II, after a median follow-up of 34.7 months, the death rate in patients randomised to ruxolitinib was 19.9% versus 30.1% in patients randomised to best available treatment (BAT); HR 0.48; 95% CI 0.28-0.85; p=0.009.
+In both studies, the lower death rates noted in the ruxolitinib arm were predominantly driven by the results obtained in the post polycythaemia vera and post essential thrombocythaemia subgroups.
 
 Paediatric population
 The European Medicines Agency has waived the obligation to submit the results of studies with Jakavi in all subsets of the paediatric population for the treatment of myelofibrosis (see section 4.2 for information on paediatric use).

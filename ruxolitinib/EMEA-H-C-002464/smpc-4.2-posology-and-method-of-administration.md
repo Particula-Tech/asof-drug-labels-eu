@@ -11,11 +11,11 @@ Starting dose
 The recommended starting dose of Jakavi is 15 mg twice daily for patients with a platelet count between 100,000/mm3 and 200,000/mm3 and 20 mg twice daily for patients with a platelet count of >200,000/mm3.
 There is limited information to recommend a starting dose for patients with platelet counts between 50,000/mm3 and <100,000/mm3.
 The maximum recommended starting dose in these patients is 5 mg twice daily and the patients should be titrated cautiously.
-
 Dose modifications
 Doses may be titrated based on safety and efficacy.
 Treatment should be discontinued for platelet counts less than 50,000/mm3 or absolute neutrophil counts less than 500/mm3.
 After recovery of platelet and neutrophil counts above these levels, dosing may be re-started at 5 mg twice daily and gradually increased based on careful monitoring of complete blood cell count, including a white blood cell count differential.
+
 Dose reductions should be considered if the platelet count decreases below 100,000/mm3, with the goal of avoiding dose interruptions for thrombocytopenia.
 
 If efficacy is considered insufficient and platelet and neutrophil counts are adequate, doses may be increased by a maximum of 5 mg twice daily.
@@ -49,13 +49,13 @@ In patients with any hepatic impairment the recommended starting dose based on p
 Subsequent doses should be adjusted based on careful monitoring of safety and efficacy.
 Patients diagnosed with hepatic impairment while receiving Jakavi should have complete blood counts, including a white blood cell count differential, monitored at least every one to two weeks for the first 6 weeks after initiation of therapy with Jakavi and as clinically indicated thereafter once their liver function and blood counts have been stabilised.
 Jakavi dose can be titrated to reduce the risk of cytopenia.
-
-Elderly patients (≥65 years)
-No additional dose adjustments are recommended for elderly patients.
+Older people (≥65 years)
+No additional dose adjustments are recommended for older people.
 
 Paediatric population
 The safety and efficacy of Jakavi in children aged up to 18 years have not been established.
 No data are available (see section 5.1).
+
 Treatment discontinuation
 Treatment may be continued as long as the benefit-risk remains positive.
 However the treatment should be discontinued after 6 months if there has been no reduction in spleen size or improvement in symptoms since initiation of therapy.

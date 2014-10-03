@@ -11,6 +11,10 @@ The three most frequent non-haematological adverse drug reactions were bruising 
 
 The three most frequent non-haematological laboratory abnormalities were raised alanine aminotransferase (26.9%), raised aspartate aminotransferase (19.3%) and hypercholesterolaemia (16.6%).
 
+As expected with an extended follow-up period, the cumulative frequency of some adverse events increased in the evaluation of the 3-year follow-up safety data (median duration of exposure of 33.2 months in COMFORT-I and COMFORT-II for patients initially randomised to ruxolitinib) from 457 patients with myelofibrosis treated with ruxolitinib during the randomised and extension periods of the two pivotal phase 3 studies.
+This evaluation included data from patients that were initially randomised to ruxolitinib (N=301) and patients that received ruxolitinib after crossing over from control treatment arms (N=156).
+With these updated data, therapy discontinuation due to adverse events was observed in 17.1% of patients treated with ruxolitinib.
+
 Tabulated summary of adverse drug reactions from clinical studies
 In the clinical study programme the severity of adverse drug reactions was assessed based on the CTCAE, defining grade 1 = mild, grade 2 = moderate, grade 3 = severe and grade 4=life-threatening.
 
@@ -66,13 +70,13 @@ Thrombocytopenia
 In the phase 3 clinical studies, in patients who developed grade 3 or 4 thrombocytopenia, the median time to onset was approximately 8 weeks.
 Thrombocytopenia was generally reversible with dose reduction or dose interruption.
 The median time to recovery of platelet counts above 50,000/mm3 was 14 days.
-Platelet transfusions were administered to 4.7% of patients receiving Jakavi and to 4.0% of patients receiving control regimens.
+During the randomised period, platelet transfusions were administered to 4.7% of patients receiving Jakavi and to 4.0% of patients receiving control regimens.
 Discontinuation of treatment because of thrombocytopenia occurred in 0.7% of patients receiving Jakavi and 0.9% of patients receiving control regimens.
 Patients with a platelet count of 100,000/mm3 to 200,000/mm3 before starting Jakavi had a higher frequency of grade 3 or 4 thrombocytopenia compared to patients with platelet count >200,000/mm3 (64.2% versus 38.5%).
 
 Neutropenia
 In the phase 3 clinical studies, in patients who developed grade 3 or 4 neutropenia, the median time to onset was 12 weeks.
-Dose holding or reductions due to neutropenia were reported in 1.0% of patients, and 0.3% of patients discontinued treatment because of neutropenia.
+During the randomised period, dose holding or reductions due to neutropenia were reported in 1.0% of patients, and 0.3% of patients discontinued treatment because of neutropenia.
 
 Bleeding
 In the phase 3 pivotal studies bleeding events (including intracranial and gastrointestinal, bruising and other bleeding events) were reported in 32.6% of patients exposed to Jakavi and 23.2% of patients exposed to the reference treatments (placebo or best available therapy).
@@ -89,3 +93,8 @@ Increased systolic blood pressure
 In the phase 3 pivotal clinical studies an increase in systolic blood pressure of 20 mmHg or more from baseline was recorded in 31.5% of patients on at least one visit compared with 19.5% of the control-treated patients.
 In COMFORT-I the mean increase from baseline in systolic BP was 0-2 mmHg on Jakavi versus a decrease of 2-5 mmHg in the placebo arm.
 In COMFORT-II mean values showed little difference between the ruxolitinib-treated and the control-treated patients.
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

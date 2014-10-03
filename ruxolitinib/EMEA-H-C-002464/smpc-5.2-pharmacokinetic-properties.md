@@ -7,6 +7,7 @@ Based on a human mass balance study, oral absorption of ruxolitinib, as ruxoliti
 Mean ruxolitinib Cmax and total exposure (AUC) increased proportionally over a single dose range of 5-200 mg.
 There was no clinically relevant change in the pharmacokinetics of ruxolitinib upon administration with a high-fat meal.
 The mean Cmax was moderately decreased (24%) while the mean AUC was nearly unchanged (4% increase) on dosing with a high-fat meal.
+
 Distribution
 The apparent volume of distribution at steady state is 53-65 litres in myelofibrosis patients.
 At clinically relevant concentrations of ruxolitinib, binding to plasma proteins in vitro is approximately 97%, mostly to albumin.
@@ -38,7 +39,6 @@ The predicted oral clearance was 17.7 l/h in women and 22.1 l/h in men, with 39%
 
 Paediatric population
 The safety and effectiveness of Jakavi in paediatric patients have not been established (see section 5.1, “Paediatric population”).
-
 Renal impairment
 Renal function was determined using both Modification of Diet in Renal Disease (MDRD) and urinary creatinine.
 Following a single ruxolitinib dose of 25 mg, the exposure of ruxolitinib was similar in subjects with various degrees of renal impairment and in those with normal renal function.

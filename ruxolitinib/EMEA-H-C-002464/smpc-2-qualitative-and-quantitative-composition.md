@@ -7,6 +7,12 @@ Each tablet contains 71.45 mg lactose monohydrate.
 
 For the full list of excipients, see section 6.1.
 
+[Jakavi 10 mg tablets]
+
+Each tablet contains 10 mg ruxolitinib (as phosphate).
+
+Each tablet contains 142.90 mg lactose monohydrate.
+
 [Jakavi 15 mg tablets]
 
 Each tablet contains 15 mg ruxolitinib (as phosphate).

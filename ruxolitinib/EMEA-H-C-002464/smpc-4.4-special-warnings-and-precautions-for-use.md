@@ -17,8 +17,8 @@ Patients with a haemoglobin level below 10.0 g/dl at the beginning of the treatm
 More frequent monitoring of haematology parameters and of clinical signs and symptoms of Jakavi-related adverse drug reactions is recommended for patients with baseline haemoglobin below 10.0 g/dl.
 
 Neutropenia (absolute neutrophil count <500) was generally reversible and was managed by temporarily withholding Jakavi (see sections 4.2 and 4.8).
-
 Complete blood counts should be monitored as clinically indicated and dose adjusted as required (see sections 4.2 and 4.8).
+
 Infections
 Patients should be assessed for the risk of developing serious bacterial, mycobacterial, fungal and viral infections.
 Tuberculosis has been reported in patients receiving Jakavi for myelofibrosis.
@@ -59,7 +59,6 @@ Following interruption or discontinuation of Jakavi, symptoms of myelofibrosis m
 There have been cases of patients discontinuing Jakavi who sustained more severe events, particularly in the presence of acute intercurrent illness.
 It has not been established whether abrupt discontinuation of Jakavi contributed to these events.
 Unless abrupt discontinuation is required, gradual tapering of the dose of Jakavi may be considered, although the utility of the tapering is unproven.
-
 Excipients
 Jakavi contains lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.

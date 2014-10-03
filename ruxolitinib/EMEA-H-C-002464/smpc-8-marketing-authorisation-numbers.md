@@ -3,6 +3,10 @@
 EU/1/12/773/001
 EU/1/12/773/004-006
 
+[Jakavi 10 mg tablets]
+
+EU/1/12/773/013-016
+
 [Jakavi 15 mg tablets]
 
 EU/1/12/773/002

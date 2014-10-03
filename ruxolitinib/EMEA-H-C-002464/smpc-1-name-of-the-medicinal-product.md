@@ -2,6 +2,10 @@
 
 Jakavi 5 mg tablets
 
+[Jakavi 10 mg tablets]
+
+Jakavi 10 mg tablets
+
 [Jakavi 15 mg tablets]
 
 Jakavi 15 mg tablets

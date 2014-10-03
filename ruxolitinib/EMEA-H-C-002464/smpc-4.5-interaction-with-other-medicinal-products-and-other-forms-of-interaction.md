@@ -33,10 +33,10 @@ In healthy subjects co-administration of ruxolitinib (10 mg single dose) with er
 
 No dose adjustment is recommended when ruxolitinib is co-administered with mild or moderate CYP3A4 inhibitors (e.g. erythromycin).
 However, patients should be closely monitored for cytopenias when initiating therapy with a moderate CYP3A4 inhibitor.
-
 Effects of ruxolitinib on other medicinal products
 Oral contraceptives
 There is no interaction study with oral contraceptives.
+
 Substances metabolised by CYP3A4
 It cannot be excluded that ruxolitinib inhibits CYP3A4 in the intestine.
 Increased systemic exposure may be obtained for substances which are metabolised by CYP3A4, and particularly those that undergo extensive intestinal metabolism.
