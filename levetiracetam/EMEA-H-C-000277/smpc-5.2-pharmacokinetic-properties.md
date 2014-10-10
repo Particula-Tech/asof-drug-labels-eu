@@ -35,6 +35,7 @@ The major metabolic pathway (24 % of the dose) is an enzymatic hydrolysis of the
 Production of the primary metabolite, ucb L057, is not supported by liver cytochrome P450 isoforms.
 Hydrolysis of the acetamide group was measurable in a large number of tissues including blood cells.
 The metabolite ucb L057 is pharmacologically inactive.
+
 Two minor metabolites were also identified.
 One was obtained by hydroxylation of the pyrrolidone ring (1.6 % of the dose) and the other one by opening of the pyrrolidone ring (0.9 % of the dose).
 Other unidentified components accounted only for 0.6 % of the dose.
@@ -65,7 +66,6 @@ In the elderly, the half-life is increased by about 40 % (10 to 11 hours).
 This is related to the decrease in renal function in this population (see section 4.2).
 
 Renal impairment
-
 The apparent body clearance of both levetiracetam and of its primary metabolite is correlated to the creatinine clearance.
 It is therefore recommended to adjust the maintenance daily dose of Keppra, based on creatinine clearance in patients with moderate and severe renal impairment (see section 4.2).
 
@@ -76,6 +76,7 @@ Hepatic impairment
 
 In subjects with mild and moderate hepatic impairment, there was no relevant modification of the clearance of levetiracetam.
 In most subjects with severe hepatic impairment, the clearance of levetiracetam was reduced by more than 50 % due to a concomitant renal impairment (see section 4.2).
+
 Paediatric population
 
 Children (4 to 12 years)
@@ -99,7 +100,7 @@ In the population pharmacokinetic analysis conducted in patients from 1 month to
 Age also had an influence on both parameters.
 This effect was pronounced for the younger infants, and subsided as age increased, to become negligible around 4 years of age.
 
-In both population pharmacokinetic analyses, there was about a 20 % increase of apparent clearance of levetiracetam when it was co-administered with an enzyme-inducing AED.
+In both population pharmacokinetic analyses, there was about a 20 % increase of apparent clearance of levetiracetam when it was co-administered with an enzyme-inducing antiepileptic medicinal product.
 
 [Keppra 500 mg film-coated tablets]
 
@@ -121,7 +122,6 @@ Linear and dose proportional increases were observed for peak plasma concentrati
 
 The pharmacokinetic profile has been characterized following oral administration.
 A single dose of 1500 mg levetiracetam diluted in 100 ml of a compatible diluent and infused intravenously over 15 minutes is bioequivalent to 1500 mg levetiracetam oral intake, given as three 500 mg tablets.
-
 The intravenous administration of doses up to 4000 mg diluted in 100 ml of 0.9 % sodium chloride infused over 15 minutes and doses up to 2500 mg diluted in 100 ml of 0.9 % sodium chloride infused over 5 minutes was evaluated.
 The pharmacokinetic and safety profiles did not identify any safety concerns.
 

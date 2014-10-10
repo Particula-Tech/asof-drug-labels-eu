@@ -29,6 +29,7 @@ In adults, levetiracetam efficacy has been demonstrated in 3 double-blind, place
 In a pooled analysis, the percentage of patients who achieved 50 % or greater reduction from baseline in the partial onset seizure frequency per week at stable dose (12/14 weeks) was of 27.7 %, 31.6 % and 41.3 % for patients on 1000, 2000 or 3000 mg levetiracetam respectively and of 12.6 % for patients on placebo.
 
 Paediatric population
+
 In paediatric patients (4 to 16 years of age), levetiracetam efficacy was established in a double-blind, placebo-controlled study, which included 198 patients and had a treatment duration of 14 weeks.
 In this study, the patients received levetiracetam as a fixed dose of 60 mg/kg/day (with twice a day dosing).
 44.6 % of the levetiracetam treated patients and 19.6 % of the patients on placebo had a 50 % or greater reduction from baseline in the partial onset seizure frequency per week.
@@ -51,7 +52,6 @@ The patients had to present with unprovoked partial seizures or with generalized
 The patients were randomized to carbamazepine CR 400 – 1200 mg/day or levetiracetam 1000 - 3000 mg/day, the duration of the treatment was up to 121 weeks depending on the response.
 Six-month seizure freedom was achieved in 73.0 % of levetiracetam-treated patients and 72.8 % of carbamazepine-CR treated patients; the adjusted absolute difference between treatments was 0.2 % (95 % CI: -7.8 8.2).
 More than half of the subjects remained seizure free for 12 months (56.6 % and 58.5 % of subjects on levetiracetam and on carbamazepine CR respectively).
-
 In a study reflecting clinical practice, the concomitant antiepileptic medication could be withdrawn in a limited number of patients who responded to levetiracetam adjunctive therapy (36 adult patients out of 69).
 
 Adjunctive therapy in the treatment of myoclonic seizures in adults and adolescents from 12 years of age with Juvenile Myoclonic Epilepsy.
@@ -61,6 +61,7 @@ The majority of patients presented with juvenile myoclonic epilepsy.
 In this study, levetiracetam, dose was 3000 mg/day given in 2 divided doses.
 58.3 % of the levetiracetam treated patients and 23.3 % of the patients on placebo had at least a 50 % reduction in myoclonic seizure days per week.
 With continued long-term treatment, 28.6 % of the patients were free of myoclonic seizures for at least 6 months and 21.0 % were free of myoclonic seizures for at least 1 year.
+
 Adjunctive therapy in the treatment of primary generalised tonic-clonic seizures in adults and adolescents from 12 years of age with idiopathic generalised epilepsy.
 
 Levetiracetam efficacy was established in a 24-week double-blind, placebo-controlled study which included adults, adolescents and a limited number of children suffering from idiopathic generalized epilepsy with primary generalized tonic-clonic (PGTC) seizures in different syndromes (juvenile myoclonic epilepsy, juvenile absence epilepsy, childhood absence epilepsy, or epilepsy with Grand Mal seizures on awakening).
@@ -86,8 +87,7 @@ In a pooled analysis, the percentage of patients who achieved 50% or greater red
 
 The primary measure of effectiveness was the responder rate (percent of patients with ≥ 50% reduction from baseline in average daily partial onset seizure frequency) assessed by a blinded central reader using a 48-hour video EEG.
 
-Six-month seizure freedom was achieved in 73.0 % of levetiracetam-treated patients and 72.8 % of carbamazepine-CR treated patients; the adjusted absolute difference between treatments was 0.2%
-(95 % CI: -7.8 8.2).
+Six-month seizure freedom was achieved in 73.0 % of levetiracetam-treated patients and 72.8 % of carbamazepine-CR treated patients; the adjusted absolute difference between treatments was 0.2% (95 % CI: -7.8 8.2).
 
 [Keppra 100 mg/ml concentrate for solution for infusion]
 

@@ -2,11 +2,9 @@
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, genotoxicity and carcinogenicity.
 Adverse effects not observed in clinical studies but seen in the rat and to a lesser extent in the mouse at exposure levels similar to human exposure levels and with possible relevance for clinical use were liver changes, indicating an adaptive response such as increased weight and centrilobular hypertrophy, fatty infiltration and increased liver enzymes in plasma.
-
 No adverse effects on male or female fertility or reproduction performance were observed in rats at doses up to 1800 mg/kg/day (x 6 the MRHD on a mg/m2 or exposure basis) in parents and F1 generation.
 
-Two embryo-fetal development (EFD) studies were performed in rats at 400, 1200 and
-3600 mg/kg/day.
+Two embryo-fetal development (EFD) studies were performed in rats at 400, 1200 and 3600 mg/kg/day.
 At 3600 mg/kg/day, in only one of the 2 EFD studies, there was a slight decrease in fetal weight associated with a marginal increase in skeletal variations/minor anomalies.
 There was no effect on embryomortality and no increased incidence of malformations.
 The NOAEL (No Observed Adverse Effect Level) was 3600 mg/kg/day for pregnant female rats (x 12 the MRHD on a mg/m2 basis) and 1200 mg/kg/day for fetuses.

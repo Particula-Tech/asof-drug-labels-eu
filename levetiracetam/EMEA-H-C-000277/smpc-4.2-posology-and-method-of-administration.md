@@ -134,8 +134,6 @@ The daily dose is administered in two equally divided doses.
 
 [Keppra 500 mg film-coated tablets]
 
-The CLcr in ml/min/1.73 m2 may be estimated from serum creatinine (mg/dl) determination using, for young adolescents, children and infants, using the following formula (Schwartz formula):
-
 CLcr (ml/min/1.73 m2) = -------------------------------------
 
 | Group | Creatinine clearance (ml/min/1.73m2) | Dose and frequency (1) |  |
@@ -158,8 +156,6 @@ Add-on therapy for infants aged 6 to 23 months, children (2 to 11 years) and ado
 [140-age( years)] x weight (kg)
 
 [Keppra 100 mg/ml oral solution]
-
-Serum Creatinine (mg/dl) ks= 0.45 in Term infants to 1 year old; ks= 0.55 in Children to less than 13 years and in adolescent female; ks= 0.7 in adolescent male
 
 The initial therapeutic dose is 7 mg/kg twice daily.
 Depending upon the clinical response and tolerability, the dose can be increased up to 21 mg/kg twice daily.
@@ -187,7 +183,6 @@ In order to ensure the accuracy of the dosing, this presentation should be presc
 - A 150 ml bottle with a 1 ml oral syringe (containing up to 100 mg levetiracetam) graduated every 0.05 ml (corresponding to 5 mg)
 
 In order to ensure the accuracy of the dosing, this presentation should be prescribed for infants aged 1 month to less than 6 months.
-
 The oral solution may be diluted in a glass of water or baby’s bottle and may be taken with or without food.
 A graduated oral syringe, an adaptor for the syringe and instructions for use in the package leaflet are provided with Keppra.
 
@@ -196,7 +191,7 @@ A graduated oral syringe, an adaptor for the syringe and instructions for use in
 Duration of treatment
 There is no experience with administration of intravenous levetiracetam for longer period than 4 days.
 
-The CLcr in ml/min/1.73 m2 may be estimated from serum creatinine (mg/dl) determination using, for young adolescents and children using the following formula (Schwartz formula):
+The CLcr in ml/min/1.73 m2 may be estimated from serum creatinine (mg/dl) determination, for young adolescents and children using the following formula (Schwartz formula):
 
 ks= 0.55 in Children to less than 13 years and in adolescent female; ks= 0.7 in adolescent male
 

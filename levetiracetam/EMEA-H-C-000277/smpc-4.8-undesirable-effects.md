@@ -17,7 +17,8 @@ The frequency is defined as follows: very common (≥1/10); common (≥1/100 to 
 |  | Very common | Common | Uncommon | Rare |
 | Infections and infestations | Nasopharyngitis |  |  | Infection |
 | Blood and lymphatic system disorders |  |  | Thrombocytopenia, leukopenia | Pancytopenia, neutropenia, agranulocytosis |
-| Metabolism and nutrition disorders |  | Anorexia | Weight decreased , weight increase |  |
+| Immune system disorders |  |  |  | Drug reaction with eosinophilia and systemic symptoms (DRESS) |
+| Metabolism and nutrition disorders |  | Anorexia | Weight decreased, weight increase | Hyponatraemia |
 | Psychiatric disorders |  | Depression, hostility/ aggression, anxiety, insomnia, nervousness/irritability | Suicide attempt, suicidal ideation, psychotic disorder, abnormal behaviour, hallucination, anger, confusional state , panic attack, affect lability/mood swings, agitation | Completed suicide, personality disorder, thinking abnormal |
 | Nervous system disorders | Somnolence, headache | Convulsion, balance disorder, dizziness, lethargy, tremor | Amnesia, memory impairment, coordination abnormal/ataxia, paraesthesia, disturbance in attention | Choreoathetosis, dyskinesia, hyperkinesia |
 | Eye disorders |  |  | Diplopia, vision blurred |  |
@@ -25,18 +26,11 @@ The frequency is defined as follows: very common (≥1/10); common (≥1/100 to 
 | Respiratory, thoracic and mediastinal disorders |  | Cough |  |  |
 | Gastrointestinal disorders |  | Abdominal pain, diarrhoea, dyspepsia, vomiting, nausea |  | Pancreatitis |
 | Hepatobiliary disorders |  |  | Liver function test abnormal | Hepatic failure, hepatitis |
+|  | Very common | Common | Uncommon | Rare |
 | Skin and subcutaneous tissue disorders |  | Rash | Alopecia, eczema, pruritus, | Toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme |
-| Musculoskeletal |  |  | Muscular weakness, |  |
-
-and connective myalgia
-tissue disorders
-General disorders Asthenia/fatigue
-and
-administration
-site conditions
-Injury, poisoning Injury
-and procedural
-complications
+| Musculoskeletal and connective tissue disorders |  |  | Muscular weakness, myalgia |  |
+| General disorders and administration site conditions |  | Asthenia/fatigue |  |  |
+| Injury, poisoning and procedural complications |  |  | Injury |  |
 
 Description of selected adverse reactions
 
@@ -62,6 +56,11 @@ It was concluded that Keppra was not different (non inferior) from placebo with 
 Results related to behavioural and emotional functioning indicated a worsening in Keppra treated patients on aggressive behaviour as measured in a standardised and systematic way using a validated instrument (CBCL – Achenbach Child Behavior Checklist).
 However subjects, who took Keppra in the long-term open label follow-up study, did not experience a worsening, on average, in their behavioural and emotional functioning; in particular measures of aggressive behaviour were not worse than baseline.
 
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
 [Keppra 500 mg film-coated tablets]
 
 (all sentences already above)
@@ -81,10 +80,10 @@ However subjects, who took Keppra in the long-term open label follow-up study, d
 |  | Very common | Common | Uncommon | Rare |
 | Infections and infestations | Nasopharyngitis |  |  | Infection |
 | Blood and lymphatic system disorders |  |  | Thrombocytopenia, leukopenia | Pancytopenia, neutropenia, agranulocytosis |
-| Metabolism and nutrition disorders |  | Anorexia | Weight decreased , weight increase |  |
-| Psychiatric disorders |  | Depression, hostility/ aggression, anxiety, insomnia, nervousness/irritability | Suicide attempt, suicidal ideation, psychotic disorder, abnormal behaviour, hallucination, anger, | Completed suicide, personality disorder, thinking abnormal |
+| Immune system disorders |  |  |  | Drug reaction with eosinophilia and systemic symptoms (DRESS) |
+| Metabolism and nutrition disorders |  | Anorexia | Weight decreased , weight increase | Hyponatraemia |
 |  | Very common | Common | Uncommon | Rare |
-|  |  |  | confusional state , panic attack, affect lability/mood swings, agitation |  |
+| Psychiatric disorders |  | Depression, hostility/ aggression, anxiety, insomnia, nervousness/irritability | Suicide attempt, suicidal ideation, psychotic disorder, abnormal behaviour, hallucination, anger, confusional state , panic attack, affect lability/mood swings, agitation | Completed suicide, personality disorder, thinking abnormal |
 | Nervous system disorders | Somnolence, headache | Convulsion, balance disorder, dizziness, lethargy, tremor | Amnesia, memory impairment, coordination abnormal/ataxia, paraesthesia, disturbance in attention | Choreoathetosis, dyskinesia, hyperkinesia |
 | Eye disorders |  |  | Diplopia, vision blurred |  |
 | Ear and labyrinth disorders |  | Vertigo |  |  |
@@ -105,9 +104,9 @@ Since there was limited exposure for Keppra intravenous use and since oral and i
 |  | Very common | Common | Uncommon | Rare |
 | Infections and infestations | Nasopharyngitis |  |  | Infection |
 | Blood and lymphatic system disorders |  |  | Thrombocytopenia, leukopenia | Pancytopenia, neutropenia, agranulocytosis |
-| Metabolism and nutrition |  | Anorexia | Weight decreased , weight increase |  |
 |  | Very common | Common | Uncommon | Rare |
-| disorders |  |  |  |  |
+| Immune system disorders |  |  |  | Drug reaction with eosinophilia and systemic symptoms (DRESS) |
+| Metabolism and nutrition disorders |  | Anorexia | Weight decreased, weight increase | Hyponatraemia |
 | Psychiatric disorders |  | Depression, hostility/ aggression, anxiety, insomnia, nervousness/irritability | Suicide attempt, suicidal ideation, psychotic disorder, abnormal behaviour, hallucination, anger, confusional state , panic attack, affect lability/mood swings, agitation | Completed suicide, personality disorder, thinking abnormal |
 | Nervous system disorders | Somnolence, headache | Convulsion, balance disorder, dizziness, lethargy, tremor | Amnesia, memory impairment, coordination abnormal/ataxia, paraesthesia, disturbance in attention | Choreoathetosis, dyskinesia, hyperkinesia |
 | Eye disorders |  |  | Diplopia, vision blurred |  |
