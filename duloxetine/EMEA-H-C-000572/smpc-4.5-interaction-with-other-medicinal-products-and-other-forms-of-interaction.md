@@ -1,10 +1,10 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
-Monoamine oxidase inhibitors (MAOIs): Due to the risk of serotonin syndrome, duloxetine should not be used in combination with nonselective irreversible monoamine oxidase inhibitors (MAOIs), or within at least 14 days of discontinuing treatment with an MAOI.
+Monoamine oxidase inhibitors (MAOIs): Due to the risk of serotonin syndrome, duloxetine should not be used in combination with non-selective irreversible monoamine oxidase inhibitors (MAOIs), or within at least 14 days of discontinuing treatment with an MAOI.
 Based on the half-life of duloxetine, at least 5 days should be allowed after stopping Cymbalta before starting an MAOI (see section 4.3).
 
-For selective, reversible MAOIs, like moclobemide, the risk of serotonin syndrome is lower.
-However, the concomitant use of Cymbalta with selective, reversible MAOIs is not recommended (see section 4.4).
+The concomitant use of Cymbalta with selective, reversible MAOIs, like moclobemide, is not recommended (see section 4.4).
+The antibiotic linezolid is a reversible non-selective MAOI and should not be given to patients treated with Cymbalta (see section 4.4).
 
 Inhibitors of CYP1A2: Because CYP1A2 is involved in duloxetine metabolism, concomitant use of duloxetine with potent inhibitors of CYP1A2 is likely to result in higher concentrations of duloxetine.
 Fluvoxamine (100 mg once daily), a potent inhibitor of CYP1A2, decreased the apparent plasma clearance of duloxetine by about 77% and increased AUCo-t 6-fold.
@@ -13,8 +13,8 @@ Therefore Cymbalta should not be administered in combination with potent inhibit
 CNS medicinal products: The risk of using duloxetine in combination with other CNS-active medicinal products has not been systematically evaluated, except in the cases described in this section.
 Consequently, caution is advised when Cymbalta is taken in combination with other centrally acting medicinal products or substances, including alcohol and sedative medicinal products (e.g. benzodiazepines, morphinomimetics, antipsychotics, phenobarbital, sedative antihistamines).
 
-Serotonin syndrome: In rare cases, serotonin syndrome has been reported in patients using SSRIs (e.g. paroxetine, fluoxetine) concomitantly with serotonergic medicinal products.
-Caution is advisable if Cymbalta is used concomitantly with serotonergic antidepressants like SSRIs, tricyclics like clomipramine or amitriptyline, St John’s wort (Hypericum perforatum), venlafaxine or triptans, tramadol, pethidine and tryptophan.
+Serotonergic agents: In rare cases, serotonin syndrome has been reported in patients using SSRIs/SNRIs concomitantly with serotonergic agents.
+Caution is advisable if Cymbalta is used concomitantly with serotonergic agents like SSRIs, SNRIs, tricyclic antidepressants like clomipramine or amitriptyline, MAOIs like moclobemide or linezolid, St John’s wort (Hypericum perforatum) or triptans, tramadol, pethidine and tryptophan (see section 4.4).
 
 Effect of duloxetine on other medicinal products
 Medicinal products metabolised by CYP1A2: The pharmacokinetics of theophylline, a CYP1A2 substrate, were not significantly affected by co-administration with duloxetine (60 mg twice daily).
@@ -35,3 +35,7 @@ Effects of other medicinal products on duloxetine
 Antacids and H2 antagonists: Co-administration of duloxetine with aluminium- and magnesium-containing antacids or duloxetine with famotidine had no significant effect on the rate or extent of duloxetine absorption after administration of a 40 mg oral dose.
 
 Inducers of CYP1A2: Population pharmacokinetic analyses have shown that smokers have almost 50% lower plasma concentrations of duloxetine compared with non-smokers.
+
+[Cymbalta 60 mg hard gastro-resistant capsules]
+
+Caution is advisable if Cymbalta is used concomitantly with serotonergic agents like SSRIs, SNRIs, tricyclic antidepressants like clomipramine or amitriptyline, MAOIs like moclobemide or linezolid, St John’s wort (Hypericum perforatum), or triptans, tramadol, pethidine and tryptophan (see section 4.4).

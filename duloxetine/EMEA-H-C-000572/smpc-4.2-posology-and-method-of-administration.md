@@ -34,17 +34,11 @@ In patients with inadequate initial response, additional response after this tim
 
 The therapeutic benefit should be reassessed regularly (at least every three months) (see section 5.1).
 
-Paediatric population
-Duloxetine should not be used in children and adolescents under the age of 18 years for the treatment of major depressive disorder because of safety and efficacy concerns (see sections 4.4, 4.8 and 5.1).
-
-The safety and efficacy of duloxetine for the treatment of diabetic peripheral neuropathic pain or generalized anxiety disorder have not been studied.
-No data are available.
-
 Special populations
 
 Elderly
 No dosage adjustment is recommended for elderly patients solely on the basis of age.
-However, as with any medicine, caution should be exercised when treating the elderly, especially with Cymbalta 120 mg per day for major depressive disorder, for which data are limited (see sections 4.4 and 5.2).
+However, as with any medicine, caution should be exercised when treating the elderly, especially with Cymbalta 120 mg per day for major depressive disorder or generalised anxiety disorder, for which data are limited (see sections 4.4 and 5.2).
 
 Hepatic impairment
 Cymbalta must not be used in patients with liver disease resulting in hepatic impairment (see sections 4.3 and 5.2).
@@ -52,6 +46,15 @@ Cymbalta must not be used in patients with liver disease resulting in hepatic im
 Renal impairment
 No dosage adjustment is necessary for patients with mild or moderate renal dysfunction (creatinine clearance 30 to 80 ml/min).
 Cymbalta must not be used in patients with severe renal impairment (creatinine clearance <30 ml/min; see section 4.3).
+
+Paediatric population
+Duloxetine should not be used in children and adolescents under the age of 18 years for the treatment of major depressive disorder because of safety and efficacy concerns (see sections 4.4, 4.8 and 5.1).
+
+The safety and efficacy of duloxetine for the treatment of generalised anxiety disorder in paediatric patients aged 7-17 years have not been established.
+Current available data are described in sections 4.8, 5.1 and 5.2.
+
+The safety and efficacy of duloxetine for the treatment of diabetic peripheral neuropathic pain has not been studied.
+No data are available.
 
 Discontinuation of treatment
 Abrupt discontinuation should be avoided.

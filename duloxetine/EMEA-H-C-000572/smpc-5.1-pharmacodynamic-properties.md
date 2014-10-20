@@ -24,11 +24,12 @@ Only a small proportion of patients included in pivotal clinical trials had seve
 In a relapse prevention study, patients responding to 12-weeks of acute treatment with open-label Cymbalta 60 mg once daily were randomised to either Cymbalta 60 mg once daily or placebo for a further 6-months.
 Cymbalta 60 mg once daily demonstrated a statistically significant superiority compared to placebo (p=0.004) on the primary outcome measure, the prevention of depressive relapse, as measured by time to relapse.
 The incidence of relapse during the 6-months double-blind follow-up period was 17% and 29% for duloxetine and placebo, respectively.
+
 During 52 weeks of placebo-controlled double blind treatment, duloxetine-treated patients with recurrent MDD had a significantly longer symptom free period (p<0.001) compared with patients randomised to placebo.
 All patients had previously responded to duloxetine during open-label duloxetine treatment (28 to 34 weeks) at a dose of 60 to 120 mg/day.
 During the 52-week placebo-controlled double blind treatment phase 14.4% of the duloxetine-treated patients and 33.1% of the placebo-treated patients experience a return of their depressive symptoms (p<0.001).
 
-The effect of Cymbalta 60 mg once a day in elderly depressed patients (≥65 years) was specifically examined in a study that showed a statistically significative difference in the reduction of the HAMD17 score for duloxetine-treated patients compared to placebo.
+The effect of Cymbalta 60 mg once a day in elderly depressed patients (≥65 years) was specifically examined in a study that showed a statistically significant difference in the reduction of the HAMD17 score for duloxetine-treated patients compared to placebo.
 Tolerability of Cymbalta 60 mg once daily in elderly patients was comparable to that seen in the younger adults.
 However, data on elderly patients exposed to the maximum dose (120mg per day) are limited and thus, caution is recommended when treating this population.
 
@@ -42,6 +43,9 @@ In a relapse prevention study, patients responding to 6 months of acute treatmen
 Cymbalta 60 mg to 120 mg once daily demonstrated statistically significant superiority compared to placebo (p<0.001) on the prevention of relapse, as measured by time to relapse.
 The incidence of relapse during the 6-months double-blind follow-up period was 14% for Cymbalta and 42% for placebo.
 
+The efficacy of Cymbalta 30-120 mg (flexible dosing) once a day in elderly patients (>65 years) with generalised anxiety disorder was evaluated in a study that demonstrated statistically significant improvement in the HAM-A total score for duloxetine treated patients compared to placebo treated patients.
+The efficacy and safety of Cymbalta 30-120 mg once daily in elderly patients with generalised anxiety disorder was similar to that seen in studies of younger adult patients.
+However, data on elderly patients exposed to the maximum dose (120 mg per day) are limited and, thus, caution is recommended when using this dose with the elderly population.
 Diabetic Peripheral Neuropathic Pain: The efficacy of Cymbalta as a treatment for diabetic neuropathic pain was established in 2 randomised, 12-week, double-blind, placebo-controlled, fixed dose studies in adults (22 to 88 years) having diabetic neuropathic pain for at least 6 months.
 Patients meeting diagnostic criteria for major depressive disorder were excluded from these trials.
 The primary outcome measure was the weekly mean of 24-hour average pain, which was collected in a daily diary by patients on an 11-point Likert scale.
@@ -60,6 +64,7 @@ In an open label long-term uncontrolled study, the pain reduction in patients re
 
 Paediatric population
 Duloxetine has not been studied in patients under the age of 7.
+
 Two randomized, double-blind, parallel clinical trials were performed in 800 paediatric patients aged 7 to 17 years with major depressive disorder (see section 4.2).
 These two studies included a 10 week placebo and active (fluoxetine) controlled acute phase followed by six months period of active controlled extension treatment.
 Neither duloxetine (30-120 mg) nor the active control arm (fluoxetine 20-40 mg) statistically separated from placebo on change from baseline to endpoint in the Children´s Depression Rating Scale-Revised (CDRS-R) total score.
@@ -67,6 +72,15 @@ Discontinuation due to adverse events was higher in patients taking duloxetine c
 During the 10-week acute treatment period, suicidal behaviours were reported (duloxetine 0/333 [0%], fluoxetine 2/225 [0.9%], placebo 1/220 [0.5%]).
 Over the entire 36-week course of the study, 6 out of 333 patients initially randomized to duloxetine and 3 out of 225 patients initially randomized to fluoxetine experienced suicidal behaviour (exposure adjusted incidence 0.039 events per patient year for duloxetine, and 0.026 for fluoxetine).
 In addition, one patient who transitioned from placebo to duloxetine experienced a suicidal behaviour while taking duloxetine.
+
+A randomised, double-blind, placebo-controlled study was performed in 272 patients aged 7-17 years with generalised anxiety disorder.
+The study included a 10 week placebo-controlled acute phase, followed by an 18 week extension treatment period.
+A flexible dose regimen was used in this study, to allow for slow dose escalation from 30 mg once daily to higher doses (maximum 120 mg once daily).
+Treatment with duloxetine showed a statistically significantly greater improvement in GAD symptoms, as measured by PARS severity score for GAD (mean difference between duloxetine and placebo of 2.7 points [95% CI 1.3-4.0]), after 10 weeks of treatment.
+The maintenance of the effect has not been evaluated.
+There was no statistically significant difference in discontinuation due to adverse events between duloxetine and placebo groups during the 10 week acute treatment phase.
+Two patients who transitioned from placebo to duloxetine after the acute phase experienced suicidal behaviours while taking duloxetine during the extension phase.
+A conclusion on the overall benefit/risk in this age group has not been established (see also sections 4.2 and 4.8).
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Cymbalta in all subsets of the paediatric population in the treatment of major depressive disorder, diabetic neuropathic pain and generalised anxiety disorder.
 See section 4.2 for information on paediatric use.

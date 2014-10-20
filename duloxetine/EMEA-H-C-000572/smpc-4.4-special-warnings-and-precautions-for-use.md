@@ -21,9 +21,12 @@ Increased plasma concentrations of duloxetine occur in patients with severe rena
 For patients with severe renal impairment, see section 4.3.
 See section 4.2 for information on patients with mild or moderate renal dysfunction.
 
-Use with antidepressants
-Caution should be exercised when using Cymbalta in combination with antidepressants.
-In particular the combination with selective reversible MAOIs is not recommended.
+Serotonin syndrome
+As with other serotonergic agents, serotonin syndrome, a potentially life-threatening condition, may occur with duloxetine treatment, particularly with concomitant use of other serotonergic agents (including SSRIs, SNRIs tricyclic antidepressants or triptans), with agents that impair metabolism of serotonin such as MAOIs, or with antipsychotics or other dopamine antagonists that may affect the serotonergic neurotransmitter systems (see sections 4.3 and 4.5).
+
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g. hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhoea).
+
+If concomitant treatment with duloxetine and other serotonergic agents that may affect the serotonergic and/or dopaminergic neurotransmitter systems is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
 
 St John’s wort
 Adverse reactions may be more common during concomitant use of Cymbalta and herbal preparations containing St John’s wort (Hypericum perforatum).
@@ -33,6 +36,7 @@ Major Depressive Disorder and Generalised Anxiety Disorder: Depression is associ
 This risk persists until significant remission occurs.
 As improvement may not occur during the first few weeks or more of treatment, patients should be closely monitored until such improvement occurs.
 It is general clinical experience that the risk of suicide may increase in the early stages of recovery.
+
 Other psychiatric conditions for which Cymbalta is prescribed can also be associated with an increased risk of suicide-related events.
 In addition, these conditions may be co-morbid with major depressive disorder.
 The same precautions observed when treating patients with major depressive disorder should therefore be observed when treating patients with other psychiatric disorders.
@@ -76,9 +80,8 @@ Generally these symptoms are self-limiting and usually resolve within 2 weeks, t
 It is therefore advised that duloxetine should be gradually tapered when discontinuing treatment over a period of no less than 2 weeks, according to the patient’s needs (see section 4.2).
 
 Elderly
-Data on the use of Cymbalta 120mg in elderly patients with major depressive disorders are limited.
+Data on the use of Cymbalta 120 mg in elderly patients with major depressive disorder and generalised anxiety disorder are limited.
 Therefore, caution should be exercised when treating the elderly with the maximum dosage (see sections 4.2 and 5.2).
-Data on the use of Cymbalta in elderly patients with generalised anxiety disorder are limited.
 
 Akathisia/psychomotor restlessness
 The use of duloxetine has been associated with the development of akathisia, characterised by a subjectively unpleasant or distressing restlessness and need to move often accompanied by an inability to sit or stand still.
@@ -98,3 +101,7 @@ Duloxetine should be used with caution in patients treated with other medicinal 
 Sucrose
 Cymbalta hard gastro-resistant capsules contain sucrose.
 Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrose-isomaltase insufficiency should not take this medicine.
+
+[Cymbalta 60 mg hard gastro-resistant capsules]
+
+Data on the use of Cymbalta 120mg in elderly patients with major depressive disorder and generalised anxiety disorder are limited.
