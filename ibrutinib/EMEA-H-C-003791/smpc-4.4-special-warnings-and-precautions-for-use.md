@@ -1,0 +1,51 @@
+# 4.4 Special warnings and precautions for use
+
+Bleeding-related events
+There have been reports of haemorrhagic events in patients treated with IMBRUVICA, both with and without thrombocytopenia.
+These include minor haemorrhagic events such as contusion, epistaxis, and petechiae; and major haemorrhagic events including gastrointestinal bleeding, intracranial haemorrhage, and haematuria.
+
+Patients were excluded from participation in IMBRUVICA phase 2 and 3 studies if they required warfarin or other vitamin K antagonists.
+Warfarin or other vitamin K antagonists should not be administered concomitantly with IMBRUVICA.
+Supplements such as fish oil and vitamin E preparations should be avoided.
+Use of IMBRUVICA in patients requiring other anticoagulants or medicinal products that inhibit platelet function may increase the risk of bleeding, and particular care should be taken if anticoagulant therapy is used.
+Patients with congenital bleeding diathesis have not been studied.
+
+IMBRUVICA should be held at least 3 to 7 days pre- and post-surgery depending upon the type of surgery and the risk of bleeding.
+
+Leukostasis
+Cases of leukostasis have been reported in patients treated with IMBRUVICA.
+A high number of circulating lymphocytes (> 400,000/mcL) may confer increased risk.
+Consider temporarily holding IMBRUVICA.
+Patients should be closely monitored.
+Administer supportive care including hydration and/or cytoreduction as indicated.
+
+Infections
+Infections (including sepsis, neutropenic sepsis, bacterial, viral, or fungal infections) were observed in patients treated with IMBRUVICA.
+Some of these infections have been associated with hospitalisation and death.
+Most patients with fatal infections also had neutropenia.
+Patients should be monitored for fever, neutropenia and infections and appropriate anti-infective therapy should be instituted as indicated.
+
+Cytopenias
+Treatment-emergent grade 3 or 4 cytopenias (neutropenia, thrombocytopenia and anaemia) were reported in patients treated with IMBRUVICA.
+Monitor complete blood counts monthly.
+
+Atrial fibrillation/flutter
+Atrial fibrillation and atrial flutter have been reported in patients treated with IMBRUVICA, particularly in patients with cardiac risk factors, acute infections, and a previous history of atrial fibrillation.
+Periodically monitor all patients clinically for atrial fibrillation.
+Patients who develop arrhythmic symptoms or new onset of dyspnoea should be evaluated clinically and if indicated have an electrocardiogram (ECG) performed.
+In patients with preexisting atrial fibrillation requiring anticoagulant therapy, alternative treatment options to IMBRUVICA should be considered.
+In patients who develop atrial fibrillation on therapy with IMBRUVICA a thorough assessment of the risk for thromboembolic disease should be undertaken.
+In patients at high risk and where alternatives to IMBRUVICA are non-suitable, tightly controlled treatment with anticoagulants should be considered.
+
+Effects on the QT interval
+In a phase 2 study, ECG evaluations showed IMBRUVICA produced a mild decrease in QTcF interval (mean 7.5 ms). Although the underlying mechanism and safety relevance of this finding is not known, clinicians should use clinical judgment when assessing whether to prescribe ibrutinib to patients at risk from further shortening their QTc duration (e.g., Congenital Short QT Syndrome or patients with a family history of such a syndrome).
+
+Drug-drug interactions
+Co-administration of strong or moderate CYP3A4 inhibitors with IMBRUVICA may lead to increased ibrutinib exposure and consequently a higher risk for toxicity.
+On the contrary, co-administration of CYP3A4 inducers may lead to decreased IMBRUVICA exposure and consequently a risk for lack of efficacy.
+Therefore, concomitant use of IMBRUVICA with strong or moderate CYP3A4 inhibitors/inducers should be avoided whenever possible and co-administration should only be considered when the potential benefits clearly outweigh the potential risks.
+Patients should be closely monitored for signs of IMBRUVICA toxicity if a CYP3A4 inhibitor must be used (see sections 4.2 and 4.5).
+If a CYP3A4 inducer must be used, closely monitor patients for signs of IMBRUVICA lack of efficacy.
+
+Women of childbearing potential
+Women of childbearing potential must use a highly effective method of contraception while taking IMBRUVICA (see section 4.6).

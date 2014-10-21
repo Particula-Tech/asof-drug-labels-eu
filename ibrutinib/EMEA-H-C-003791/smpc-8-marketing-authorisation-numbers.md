@@ -1,0 +1,4 @@
+# 8. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/14/945/001 (90 hard capsules)
+EU/1/14/945/002 (120 hard capsules)
