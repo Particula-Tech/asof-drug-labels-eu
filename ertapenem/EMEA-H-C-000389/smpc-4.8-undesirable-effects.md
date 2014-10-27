@@ -24,7 +24,7 @@ For patients who received only INVANZ, the most frequently reported laboratory a
 Tabulated list of adverse reactions
 For patients who received only INVANZ, the following adverse reactions were reported during therapy plus follow-up for 14 days after treatment was stopped:
 
-Common (≥ 1/100 to < 1/10); Uncommon (≥ 1/1,000 to < 1/100); Rare (≥ 1/10,000 to < 1/1,000); Very rare (< 1/10,000); Not known (cannot be estimated from the available data)
+Common (≥1/100 to < 1/10); Uncommon (≥1/1,000 to < 1/100); Rare (≥1/10,000 to < 1/1,000); Very rare (< 1/10,000); Not known (cannot be estimated from the available data)
 
 |  | Adults 18 years of age and older | Children and adolescents (3 months to 17 years of age) |
 | --- | --- | --- |
@@ -33,7 +33,7 @@ Common (≥ 1/100 to < 1/10); Uncommon (≥ 1/1,000 to < 1/100); Rare (≥ 1/10,
 | Immune system disorders | Rare: Allergy Not known: Anaphylaxis including anaphylactoid reactions |  |
 | Metabolism and nutrition disorders | Uncommon: Anorexia Rare: Hypoglycaemia |  |
 | Psychiatric disorders | Uncommon: Insomnia, confusion Rare: Agitation, anxiety, depression Not known: Altered mental status (including aggression, delirium, disorientation, mental status changes) | Not known: Altered mental status (including aggression) |
-| Nervous system disorders | Common: Headache Uncommon: Dizziness, somnolence, taste perversion, seizure (see section 4.4) Rare: Tremor, syncope Not known: Hallucinations, dyskinesia, myoclonus, gait disturbance | Uncommon: Headache Not known: Hallucinations |
+| Nervous system disorders | Common: Headache Uncommon: Dizziness, somnolence, taste perversion, seizure (see section 4.4) Rare: Tremor, syncope Not known: Hallucinations, depressed level of consciousness, dyskinesia, myoclonus, gait disturbance | Uncommon: Headache Not known: Hallucinations |
 | Eye disorders | Rare: Scleral disorder |  |
 | Cardiac disorders | Uncommon: Sinus bradycardia Rare: Arrhythmia, tachycardia |  |
 | Vascular disorders | Common: Infused vein complication, phlebitis/thrombophlebitis Uncommon: Hypotension Rare: Haemorrhage, increased blood pressure | Uncommon: Hot flush, hypertension |
@@ -51,3 +51,8 @@ Common (≥ 1/100 to < 1/10); Uncommon (≥ 1/1,000 to < 1/100); Rare (≥ 1/10,
 | Haematology | Common: Elevation in platelet count Uncommon: Decreases in white blood cells, platelet count, segmented neutrophils, haemoglobin and haematocrit; increases in eosinophils, activated partial thromboplastin time, prothrombin time, segmented neutrophils, and white blood cells Rare: Decrease in lymphocytes; increases in band neutrophils, lymphocytes, metamyelocytes, monocytes, myelocytes; atypical lymphocytes | Common: Decreases in neutrophil count Uncommon: Increases in platelet count, activated partial thromboplastin time, prothrombin time, decreases in haemoglobin |
 | Urinalysis | Uncommon: Increases in urine bacteria, urine white blood cells, urine epithelial cells, and urine red blood cells; urine yeast present Rare: Increase in urobilinogen |  |
 | Miscellaneous | Uncommon: Positive Clostridium difficile toxin |  |
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

@@ -36,8 +36,8 @@ This medicinal product contains approximately 6.0 mEq (approximately 137 mg) of 
 Considerations for use in particular populations
 Experience in the use of ertapenem in the treatment of severe infections is limited.
 In clinical studies for the treatment of community-acquired pneumonia, in adults, 25 % of evaluable patients treated with ertapenem had severe disease (defined as pneumonia severity index > III).
-In a clinical study for the treatment of acute gynaecologic infections, in adults, 26 % of evaluable patients treated with ertapenem had severe disease (defined as temperature ≥ 39°C and/or bacteraemia); ten patients had bacteraemia.
-Of evaluable patients treated with ertapenem in a clinical study for the treatment of intra-abdominal infections, in adults, 30 % had generalized peritonitis and 39 % had infections involving sites other than the appendix including the stomach, duodenum, small bowel, colon, and gallbladder; there were limited numbers of evaluable patients who were enrolled with APACHE II scores ≥ 15 and efficacy in these patients has not been established.
+In a clinical study for the treatment of acute gynaecologic infections, in adults, 26 % of evaluable patients treated with ertapenem had severe disease (defined as temperature ≥39°C and/or bacteraemia); ten patients had bacteraemia.
+Of evaluable patients treated with ertapenem in a clinical study for the treatment of intra-abdominal infections, in adults, 30 % had generalized peritonitis and 39 % had infections involving sites other than the appendix including the stomach, duodenum, small bowel, colon, and gallbladder; there were limited numbers of evaluable patients who were enrolled with APACHE II scores ≥15 and efficacy in these patients has not been established.
 
 The efficacy of INVANZ in the treatment of community acquired pneumonia due to penicillin-resistant Streptococcus pneumoniae has not been established.
 

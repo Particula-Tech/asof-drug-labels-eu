@@ -2,9 +2,7 @@
 
 General properties
 
-Pharmacotherapeutic group: Antibacterials for systemic use, carbapenems, ATC code: J01DH03
-
-Mechanism of action
+Pharmacotherapeutic group: Antibacterials for systemic use, carbapenems, ATC code: J01DH03 Mechanism of action
 Ertapenem inhibits bacterial cell wall synthesis following attachment to penicillin binding proteins (PBPs).
 In Escherichia coli, affinity is strongest to PBPs 2 and 3.
 
@@ -28,13 +26,13 @@ Breakpoints
 
 The EUCAST MIC breakpoints are as follows:
 
-- Enterobacteriaceae: S ≤ 0.5 mg/l and R > 1 mg/l
-- Streptococcus A,B,C,G: S ≤ 0.5 mg/l and R > 0.5 mg/l
-- Streptococcus pneumoniae: S ≤ 0.5 mg/l and R > 0.5 mg/l
-- Haemophilus influenzae: S ≤ 0.5 mg/l and R > 0.5 mg/l
-- M. catarrhalis: S ≤ 0.5 mg/l and R > 0.5 mg/l
-- Gram negative anaerobes: S ≤ 1mg/l and R > 1 mg/l
-- Non species related breakpoints: S ≤ 0.5 mg/l and R > 1 mg/l
+- Enterobacteriaceae: S ≤0.5 mg/l and R > 1 mg/l
+- Streptococcus A,B,C,G: S ≤0.5 mg/l and R > 0.5 mg/l
+- Streptococcus pneumoniae: S ≤0.5 mg/l and R > 0.5 mg/l
+- Haemophilus influenzae: S ≤0.5 mg/l and R > 0.5 mg/l
+- M. catarrhalis: S ≤0.5 mg/l and R > 0.5 mg/l
+- Gram negative anaerobes: S ≤1mg/l and R > 1 mg/l
+- Non species related breakpoints: S ≤0.5 mg/l and R > 1 mg/l
 
 (NB: Susceptibility of staphylococci to ertapenem is inferred from the methicillin susceptibility)
 
@@ -97,7 +95,6 @@ Legionella species
 † The efficacy of INVANZ in the treatment of community acquired pneumonia due to penicillin-resistant Streptococcus pneumoniae has not been established.
 + frequency of acquired resistance > 50 % in some Member States
 # Methicillin-resistant staphylococci (including MRSA) are always resistant to betalactams.
-
 Information from clinical studies
 
 Efficacy in Paediatric Studies

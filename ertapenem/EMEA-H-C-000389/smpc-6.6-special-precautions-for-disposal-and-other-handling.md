@@ -8,7 +8,6 @@ Reconstituted solutions should be diluted in sodium chloride 9 mg/ml (0.9 %) sol
 
 Preparation for intravenous administration:
 INVANZ must be reconstituted and then diluted prior to administration.
-
 Adults and adolescents (13 to 17 years of age)
 Reconstitution
 Reconstitute the contents of a 1 g vial of INVANZ with 10 ml of water for injection or sodium chloride 9 mg/ml (0.9 %) solution to yield a reconstituted solution of approximately 100 mg/ml.

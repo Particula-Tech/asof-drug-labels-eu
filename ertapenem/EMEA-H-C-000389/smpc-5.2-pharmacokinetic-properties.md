@@ -4,6 +4,7 @@ Plasma concentrations
 Average plasma concentrations of ertapenem following a single 30 minute intravenous infusion of a 1 g dose in healthy young adults (25 to 45 years of age) were 155 micrograms/ml (Cmax) at 0.5 hour postdose (end of infusion), 9 micrograms/ml at 12 hour postdose, and 1 microgram/ml at 24 hour postdose.
 
 Area under the plasma concentration curve (AUC) of ertapenem in adults increases nearly dose-proportionally over the 0.5 to 2 g dose range.
+
 There is no accumulation of ertapenem in adults following multiple intravenous doses ranging from 0.5 to 2 g daily.
 
 Average plasma concentrations of ertapenem following a single 30 minute intravenous infusion of a 15 mg/kg (up to a maximum dose of 1 g) dose in patients 3 to 23 months of age were
@@ -16,7 +17,6 @@ Average plasma concentrations of ertapenem following a single 30 minute intraven
 170.4 micrograms/ml (Cmax) at 0.5 hour postdose (end of infusion), 7.0 micrograms/ml at 12 hour postdose, and 1.1 microgram/ml at 24 hour postdose.
 
 Average plasma concentrations of ertapenem following a single 30 minute intravenous infusion of a 1 g dose in three patients 13 to 17 years of age were 155.9 micrograms/ml (Cmax) at 0.5 hour postdose (end of infusion), and 6.2 micrograms/ml at 12 hour postdose.
-
 Distribution
 Ertapenem is highly bound to human plasma proteins.
 In healthy young adults (25 to 45 years of age), the protein binding of ertapenem decreases, as plasma concentrations increase, from approximately 95 % bound at an approximate plasma concentration of < 50 micrograms/ml to approximately 92 % bound at an approximate plasma concentration of 155 micrograms/ml (average concentration achieved at the end of infusion following 1 g intravenously).
@@ -36,6 +36,7 @@ In-vitro studies indicate that ertapenem does not inhibit P-glycoprotein-mediate
 Biotransformation
 In healthy young adults (23 to 49 years of age), after intravenous infusion of radiolabelled 1 g ertapenem, the plasma radioactivity consists predominantly (94 %) of ertapenem.
 The major metabolite of ertapenem is the ring-opened derivative formed by dehydropeptidase-I-mediated hydrolysis of the beta-lactam ring.
+
 In-vitro studies in human liver microsomes indicate that ertapenem does not inhibit metabolism mediated by any of the six major CYP isoforms: 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4.
 
 Elimination
@@ -52,10 +53,10 @@ Gender
 The plasma concentrations of ertapenem are comparable in men and women.
 
 Elderly
-Plasma concentrations following a 1 g and 2 g intravenous dose of ertapenem are slightly higher (approximately 39 % and 22 %, respectively) in healthy elderly adults (≥ 65 years) relative to young adults (< 65 years).
+Plasma concentrations following a 1 g and 2 g intravenous dose of ertapenem are slightly higher (approximately 39 % and 22 %, respectively) in healthy elderly adults (≥65 years) relative to young adults (<65 years).
 In the absence of severe renal impairment, no dosage adjustment is necessary in elderly patients.
 
-Paediatric patients
+Paediatric population
 Plasma concentrations of ertapenem are comparable in paediatric patients 13 to 17 years of age and adults following a 1 g once daily intravenous dose.
 
 Following the 20 mg/kg dose (up to a maximum dose of 1 g), the pharmacokinetic parameter values in patients 13 to 17 years of age were generally comparable to those in healthy young adults.
@@ -67,12 +68,12 @@ Plasma concentrations at the midpoint of the dosing interval following a single 
 The plasma clearance (ml/min/kg) of ertapenem in patients 3 months to 12 years of age is approximately 2-fold higher as compared to that in adults.
 At the 15 mg/kg dose, the AUC value and plasma concentrations at the midpoint of the dosing interval in patients 3 months to 12 years of age were comparable to those in young healthy adults receiving a 1 g intravenous dose of ertapenem.
 
-Hepatic impairment
+Patients with hepatic impairment
 The pharmacokinetics of ertapenem in patients with hepatic impairment have not been established.
 Due to the limited extent of hepatic metabolism of ertapenem, its pharmacokinetics are not expected to be affected by hepatic impairment.
 Therefore, no dosage adjustment is recommended in patients with hepatic impairment.
 
-Renal impairment
+Patients with renal impairment
 Following a single 1 g intravenous dose of ertapenem in adults, AUCs of total ertapenem (bound and unbound) and of unbound ertapenem are similar in patients with mild renal impairment (Clcr 60 to 90 ml/min/1.73 m2) compared with healthy subjects (ages 25 to 82 years).
 AUCs of total ertapenem and of unbound ertapenem are increased in patients with moderate renal impairment (Clcr 31 to 59 ml/min/1.73 m2) approximately 1.5-fold and 1.8-fold, respectively, compared with healthy subjects.
 AUCs of total ertapenem and of unbound ertapenem are increased in patients with severe renal impairment (Clcr 5 to 30 ml/min/1.73 m2) approximately 2.6-fold and 3.4-fold, respectively, compared with healthy subjects.
