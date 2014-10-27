@@ -33,11 +33,10 @@ After ruling out infectious etiology and upon making a diagnosis of pneumonitis,
 
 Hepatic impairment
 Because the toxicity of paclitaxel can be increased with hepatic impairment, administration of Abraxane in patients with hepatic impairment should be performed with caution.
-Patients with hepatic impairment may be at increased risk of toxicity, particularly from myelosuppression, and such patients should be closely monitored for development of profound myelosuppression.
+Patients with hepatic impairment may be at increased risk of toxicity, particularly from myelosuppression; such patients should be closely monitored for development of profound myelosuppression.
 
-Patients with severe hepatic impairment (bilirubin > 5 x ULN or AST/ALT > 10 x ULN) have not been studied and should not be treated with Abraxane.
-The appropriate dose regimen in patients with less severe hepatic impairment is unknown.
-A dose reduction in patients with bilirubin >2 ULN must be considered since paclitaxel clearance is decreased in patients with high bilirubin levels (see section 5.2).
+Abraxane is not recommended in patients that have total bilirubin > 5 x ULN or AST > 10 x ULN.
+In addition, Abraxane is not recommended in patients with metastatic adenocarcinoma of the pancreas that have moderate to severe hepatic impairment (total bilirubin > 1.5 x ULN and AST ≤ 10 x ULN) (see section 5.2).
 
 Cardiotoxicity
 Rare reports of congestive heart failure and left ventricular dysfunction have been observed among individuals receiving Abraxane.
@@ -50,6 +49,7 @@ CNS metastases are generally not well controlled by systemic chemotherapy.
 
 Gastrointestinal symptoms
 If patients experience nausea, vomiting and diarrhoea following the administration of Abraxane, they may be treated with commonly used anti-emetics and constipating agents.
+
 Patients 75 years and older
 For patients of 75 years and older, no benefit for the combination treatment of Abraxane and gemcitabine in comparison to gemcitabine monotherapy has been demonstrated.
 In the very elderly (≥75 years) who received Abraxane and gemcitabine, there was a higher incidence of serious adverse reactions and adverse reactions that led to treatment discontinuation including haematologic toxicities, peripheral neuropathy, decreased appetite and dehydration.
@@ -57,7 +57,8 @@ Patients with pancreatic adenocarcinoma aged 75 years and older should be carefu
 
 Other
 Although limited data is available, no clear benefit in terms of prolonged overall survival has been demonstrated in pancreatic adenocarcinoma patients with normal CA 19-9 levels prior to start of treatment with Abraxane and gemcitabine (see section 5.1).
-Erlotinib should not be coadministered to Abraxane plus gemcitabine (see section 4.5).
+
+Erlotinib should not be coadministered with Abraxane plus gemcitabine (see section 4.5).
 
 Excipients
 When reconstituted, each ml of Abraxane concentrate contains 0.183 mmol sodium, which is 4.2 mg of sodium.

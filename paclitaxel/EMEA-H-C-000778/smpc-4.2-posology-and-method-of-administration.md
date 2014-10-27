@@ -11,7 +11,7 @@ Dose adjustments during treatment of breast cancer
 Patients who experience severe neutropenia (neutrophil count < 500 cells/mm3 for a week or longer) or severe sensory neuropathy during Abraxane therapy should have the dose reduced to 220 mg/m2 for subsequent courses.
 Following recurrence of severe neutropenia or severe sensory neuropathy, additional dose reduction should be made to 180 mg/m2.
 Abraxane should not be administered until neutrophil counts recover to >1500 cells/mm3.
-For grade 3 sensory neuropathy withhold treatment until resolution to grade 1 or 2, followed by a dose reduction for all subsequent courses.
+For grade 3 sensory neuropathy, withhold treatment until resolution to grade 1 or 2, followed by a dose reduction for all subsequent courses.
 
 Pancreatic adenocarcinoma
 The recommended dose of Abraxane in combination with gemcitabine is 125 mg/m2 administered intravenously over 30 minutes on Days 1, 8 and 15 of each 28-day cycle.
@@ -65,26 +65,37 @@ aSee Table 1 for dose level reductions
 Special populations
 
 Patients with hepatic impairment
-Insufficient data are currently available to recommend dose modifications in patients with mild to moderate hepatic impairment that ensure acceptable toxicity while maintaining efficacy of Abraxane.
-Patients with severe hepatic impairment should not be treated with paclitaxel (see sections 4.4.and 5.2).
+For patients with mild hepatic impairment (total bilirubin > 1 to ≤ 1.5 x ULN and aspartate aminotransferase [AST] ≤ 10 x ULN), no dose adjustments are required, regardless of indication.
+Treat with same doses as patients with normal hepatic function.
+For metastatic breast cancer patients with moderate to severe hepatic impairment (total bilirubin > 1.5 to ≤ 5 x ULN and AST ≤ 10 x ULN), a 20% reduction in dose is recommended.
+The reduced dose may be escalated to the dose for patients with normal hepatic function if the patient is tolerating the treatment for at least two cycles (see sections 4.4 and 5.2).
+
+For patients with metastatic adenocarcinoma of the pancreas that have moderate to severe hepatic impairment, there are insufficient data to permit dosage recommendations (see sections 4.4 and 5.2).
+
+For patients with total bilirubin > 5 x ULN or AST > 10 x ULN, there are insufficient data to permit dosage recommendations regardless of indication (see sections 4.4 and 5.2).
+
 Patients with renal impairment
-Studies in patients with impaired renal function have not been performed and insufficient data are currently available to recommend dose modifications of Abraxane in patients with renal impairment (see section 5.2).
+Adjustment of the starting Abraxane dose is not required for patients with mild to moderate renal impairment (estimated creatinine clearance ≥30 to <90 ml/min).
+There are insufficient data available to recommend dose modifications of Abraxane in patients with severe renal impairment or end stage renal disease (estimated creatinine clearance <30 ml/min) (see section 5.2).
 
 Older people
 No additional dosage reductions, other than those for all patients, are recommended for patients 65 years and older.
 
 Of the 229 patients in the randomized study who received Abraxane monotherapy for breast cancer, 13% were at least 65 years of age and < 2% were 75 years and older.
 No toxicities occurred notably more frequently among patients at least 65 years of age who received Abraxane.
+However, a subsequent analysis in 981 patients receiving Abraxane monotherapy for metastatic breast cancer, of which 15% were ≥ 65 years old and 2% were ≥ 75 years old, showed a higher incidence of epistaxis, diarrhoea, dehydration, fatigue and peripheral oedema in patients ≥ 65 years.
 
 Of the 421 patients with pancreatic adenocarcinoma in the randomized study who received Abraxane in combination with gemcitabine, 41% were 65 years and older and 10% were 75 years and older.
 In patients aged 75 years and older who received Abraxane and gemcitabine, there was a higher incidence of serious adverse reactions and adverse reactions that led to treatment discontinuation (see section 4.4).
 Patients with pancreatic adenocarcinoma aged 75 years and older should be carefully assessed before treatment is considered (see section 4.4).
+
+Pharmacokinetic/pharmacodynamic modelling using data from 125 patients with advanced solid tumours indicates that patients ≥ 65 years of age may be more susceptible to development of neutropenia within the first treatment cycle.
 
 Paediatric population
 The safety and efficacy of Abraxane in children and adolescents aged 0-17 years has not been established.
 There is no relevant use of Abraxane in the paediatric population in the indication of metastatic breast cancer or pancreatic adenocarcinoma.
 
 Method of administration
-Abraxane is administered intravenously.
+Administer reconstituted Abraxane suspension intravenously using an infusion set incorporating a 15 µm filter.
 
 For instructions on reconstitution of the medicinal product before administration, see section 6.6.

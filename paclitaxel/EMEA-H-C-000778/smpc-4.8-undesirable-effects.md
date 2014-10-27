@@ -7,7 +7,6 @@ The frequencies of adverse reactions associated with the administration of Abrax
 
 Frequencies are defined as: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1000 to <1/100), rare (≥1/10,000 to <1/1000), very rare (<1/10,000).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-
 Breast cancer (Abraxane administered as monotherapy)
 
 Tabulated list of adverse reactions
@@ -61,9 +60,10 @@ Peripheral neuropathy (mostly Grade 1 or 2 sensory neuropathy) was observed in 6
 
 Gastrointestinal disorders
 Nausea occurred in 29% of the patients and diarrhoea in 25% of the patients.
-
 Skin and subcutaneous tissue disorders
-Alopecia was observed in 90% of the patients treated with Abraxane.
+Alopecia was observed in >80% of the patients treated with Abraxane.
+The majority of alopecia events occurred less than one month after initiation of Abraxane.
+Pronounced hair loss ≥50% is expected for the majority of patients who experience alopecia.
 
 Musculoskeletal and connective tissue disorders
 Arthralgia occurred in 32% of patients on Abraxane and was severe in 6% of cases.
@@ -72,6 +72,7 @@ The symptoms were usually transient, typically occurred three days after Abraxan
 
 General disorders and administration site conditions
 Asthenia/Fatigue was reported in 40% of the patients.
+
 Pancreatic adenocarcinoma (Abraxane administered in combination with gemcitabine)
 
 Tabulated list of adverse reactions
@@ -125,6 +126,7 @@ For patients treated with Abraxane in combination with gemcitabine, the median t
 The median time to improvement by at least 1 grade was 21 days, and the median time to improvement from grade 3 peripheral neuropathy to Grade 0 or 1 was 29 days.
 Of the patients with treatment interrupted due to peripheral neuropathy, 44% (31/70 patients) were able to resume Abraxane at a reduced dose.
 No patients treated with Abraxane in combination with gemcitabine had grade 4 peripheral neuropathy.
+
 Sepsis
 Sepsis was reported at a rate of 5% in patients with or without neutropenia who received Abraxane in combination with gemcitabine during the conduct of a trial in pancreatic adenocarcinoma.
 Complications due to the underlying pancreatic cancer, especially biliary obstruction or presence of biliary stent, were identified as significant contributing factors.

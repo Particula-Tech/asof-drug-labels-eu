@@ -28,13 +28,13 @@ The median time to disease progression was 5.3 months (175 mg/m2; 95% CI: 4.6-6.
 
 Randomised comparative study
 This multi-centre trial was conducted in patients with metastatic breast cancer, who were treated every 3 weeks with single-agent paclitaxel, either as solvent-based paclitaxel 175 mg/m2 given as a 3-hour infusion with premedication to prevent hypersensitivity (N = 225), or as Abraxane 260 mg/m2 given as a 30 minute infusion without premedication (N = 229).
-
 Sixty-four percent of patients had impaired performance status (ECOG 1 or 2) at study entry; 79% had visceral metastases; and 76% had > 3 sites of metastases.
 Fourteen percent of the patients had not received prior chemotherapy; 27% had received chemotherapy in the adjuvant setting only, 40% in the metastatic setting only, and 19% in both metastatic and adjuvant settings.
 Fifty-nine percent received study medicinal product as second or greater than second-line therapy.
 Seventy-seven percent of the patients had been previously exposed to anthracyclines.
 
 Results for overall response rate and time to disease progression, and progression-free survival and survival for patients receiving > 1st-line therapy, are shown below.
+
 Table 7: Results for overall response rate, median time to disease progression, and progression-free survival as assessed by the investigator
 
 | Efficacy variable | Abraxane (260 mg/m2) | Solvent-based paclitaxel (175 mg/m2) | p-value |
@@ -99,6 +99,7 @@ Table 8: Efficacy results from randomized study in patients with pancreatic aden
 CI = confidence interval, HRA+G/G = hazard ratio of Abraxane+gemcitabine/gemcitabine, pA+G/pG=response rate ratio of Abraxane+gemcitabine/gemcitabine a stratified Cox proportional hazard model b stratified log-rank test, stratified by geographic region (North America versus others), KPS (70 to 80 versus 90 to 100), and presence of liver metastasis (yes versus no).
 
 There was a statistically significant improvement in OS for patients treated with Abraxane/gemcitabine versus gemcitabine alone, with 1.8 months increase in median OS, 28% overall reduction in risk of death, 59% improvement in 1-year survival, and 125% improvement in 2-year survival rates.
+
 Figure 1: Kaplan-Meier Curve of Overall Survival (Intent-to-treat Population)
 
 1.0 ABRAXANE+Gemcitabine 0.9 Gemcitabine
