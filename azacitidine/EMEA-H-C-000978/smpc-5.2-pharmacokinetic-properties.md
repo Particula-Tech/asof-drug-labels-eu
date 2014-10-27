@@ -1,10 +1,10 @@
 # 5.2 Pharmacokinetic properties
 
-The pharmacokinetics of azacitidine were studied following single 75 mg/m2 doses given by subcutaneous and intravenous administration.
-
 Absorption
-Azacitidine was rapidly absorbed after subcutaneous administration with peak plasma azacitidine concentrations of 750 ± 403 ng/mL occurring at 0.5 h (the first sampling point) after dosing.
-The absolute bioavailability of azacitidine after subcutaneous relative to intravenous administration was approximately 89 % based on area under the curve (AUC).
+Following subcutaneous administration of a single 75 mg/m2 dose, azacitidine was rapidly absorbed with peak plasma concentrations of 750 ± 403 ng/mL occurring at 0.5 h after dosing (the first sampling point).
+The absolute bioavailability of azacitidine after subcutaneous relative to intravenous administration (single 75 mg/m2 doses) was approximately 89% based on area under the curve (AUC).
+
+Area under the curve and maximum plasma concentration (Cmax) of subcutaneous admiminstration of azacitidine were approximately proportional within the 25 to 100 mg/m2 dose range.
 
 Distribution
 Following intravenous administration, the mean volume of distribution was 76 ± 26 L, and systemic clearance was 147 ± 47 L/h.
@@ -25,7 +25,13 @@ Urinary excretion is the primary route of elimination of azacitidine and/or its 
 Following intravenous and subcutaneous administration of 14C-azacitidine, 85 and 50 % of the administered radioactivity was recovered in urine respectively, while < 1 % was recovered in faeces.
 
 Special populations
-The effects of renal or hepatic impairment (see section 4.2), gender, age, or race on the pharmacokinetics of azacitidine have not been formally studied.
+The effects of hepatic impairment (see section 4.2), gender, age, or race on the pharmacokinetics of azacitidine have not been formally studied.
+
+Renal impairment
+Renal impairment has no major effect on the pharmacokinetic exposure of azacitidine after single and multiple subcutaneous administrations.
+Following subcutaneous administration of a single 75 mg/m2 dose, mean exposure values (AUC and Cmax) from subjects with mild, moderate and severe renal impairment were increased by 11-21%, 15-27%, and 41-66%, respectively, compared to normal renal function subjects.
+However, exposure was within the same general range of exposures observed for subjects with normal renal function.
+Azacitidine can be administered to patients with renal impairment without initial dose adjustment provided these patients are monitored for toxicity since azacitidine and/or its metabolites are primarily excreted by the kidney.
 
 Pharmacogenomics
 The effect of known cytidine deaminase polymorphisms on azacitidine metabolism has not been formally investigated.

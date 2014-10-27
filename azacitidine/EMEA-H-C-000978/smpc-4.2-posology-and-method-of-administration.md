@@ -60,11 +60,9 @@ No specific dose adjustments are recommended for the elderly.
 Because elderly patients are more likely to have decreased renal function, it may be useful to monitor renal function.
 
 Renal impairment
-No formal studies have been conducted in patients with decreased renal function.
-Patients with severe organ impairment should be carefully monitored for adverse events.
-No specific modification to the starting dose is recommended in patients with renal impairment (e.g. baseline serum creatinine or blood urea nitrogen [BUN] ≥ 2-fold above upper limit of normal [ULN] or serum bicarbonate less than 20 mmol/l) prior to starting treatment; subsequent dose modifications should be based on haematology and renal laboratory values.
+Azacitidine can be administered to patients with renal impairment without initial dose adjustment (see section 5.2).
 If unexplained reductions in serum bicarbonate levels to less than 20 mmol/l occur, the dose should be reduced by 50 % on the next cycle.
-If unexplained elevations in serum creatinine or BUN to ≥ 2-fold above baseline values and above ULN occur, the next cycle should be delayed until values return to normal or baseline and the dose should be reduced by 50 % on the next treatment cycle (see section 4.4).
+If unexplained elevations in serum creatinine or blood urea nitrogen (BUN) to ≥ 2-fold above baseline values and above upper limit of normal (ULN) occur, the next cycle should be delayed until values return to normal or baseline and the dose should be reduced by 50 % on the next treatment cycle (see section 4.4).
 
 Hepatic impairment
 No formal studies have been conducted in patients with hepatic impairment (see section 4.4).

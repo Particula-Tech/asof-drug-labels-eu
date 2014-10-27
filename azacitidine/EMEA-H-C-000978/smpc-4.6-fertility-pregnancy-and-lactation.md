@@ -12,10 +12,10 @@ The advantages of treatment should be weighed against the possible risk for the 
 
 Breast-feeding
 It is not known whether azacitidine or its metabolites are excreted in human milk.
-Due to the potential serious adverse reactions in the nursing child, breastfeeding is contraindicated during azacitidine therapy.
+Due to the potential serious adverse reactions in the nursing child, breast-feeding is contraindicated during azacitidine therapy.
 
 Fertility
 There are no human data on the effect of azacitidine on fertility.
-In animals, adverse effects of azacitidine on male fertility have been documented (see section 5.3).
+In animals, adverse reactions with azacitidine use on male fertility have been documented (see section 5.3).
 Men should be advised not to father a child while receiving treatment and must use effective contraception during and up to 3 months after treatment.
 Before starting treatment, male patients should be advised to seek counselling on sperm storage.

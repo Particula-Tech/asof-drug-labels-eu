@@ -43,9 +43,9 @@ Description of selected adverse reactions
 Haematologic adverse reactions
 The most commonly reported adverse reactions associated with azacitidine treatment were haematological including thrombocytopenia, neutropenia and leukopenia, and were usually Grade 3 or 4.
 There is a greater risk of these events occurring during the first 2 cycles, after which they occur with less frequency in patients with restoration of haematological function.
-Most haematological adverse reactions were managed by routine monitoring of complete blood counts and delaying azacitidine administration in the next cycle, prophylactic antibiotics and/or growth factor support (e.g. G-CSF) for neutropenia and transfusions for anaemia or thromobocytopenia as required.
+Most haematological adverse reactions were managed by routine monitoring of complete blood counts and delaying azacitidine administration in the next cycle, prophylactic antibiotics and/or growth factor support (e.g. G-CSF) for neutropenia and transfusions for anaemia or thrombocytopenia as required.
 Infections
-Myelosupression may lead to neutropenia and an increased risk of infection.
+Myelosuppression may lead to neutropenia and an increased risk of infection.
 Serious infections such as neutropenic sepsis (0.8 %) and pneumonia (2.5 %) were reported in patients receiving azacitidine, some with a fatal outcome.
 Infections may be managed with the use of anti-infectives plus growth factor support (e.g. G-CSF) for neutropenia.
 

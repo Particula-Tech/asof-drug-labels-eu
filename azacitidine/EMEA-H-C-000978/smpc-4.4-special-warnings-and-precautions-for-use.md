@@ -17,10 +17,9 @@ Renal impairment
 Renal abnormalities ranging from elevated serum creatinine to renal failure and death were reported in patients treated with intravenous azacitidine in combination with other chemotherapeutic agents.
 In addition, renal tubular acidosis, defined as a fall in serum bicarbonate to < 20 mmol/L in association with an alkaline urine and hypokalaemia (serum potassium < 3 mmol/L) developed in 5 subjects with chronic myelogenous leukaemia (CML) treated with azacitidine and etoposide.
 If unexplained reductions in serum bicarbonate (< 20 mmol/L) or elevations of serum creatinine or BUN occur, the dose should be reduced or administration delayed (see section 4.2).
+Patients should be advised to report oliguria and anuria to the health care provider immediately.
 
-The patients should be advised to report oliguria and anuria to the health care provider immediately.
-
-Patients with renal impairment should be closely monitored for toxicity since azacitidine and/or its metabolites are primarily excreted by the kidney (see section 4.2).
+Although no clinically relevant differences in the frequency of adverse reactions were noted between subjects with normal renal function compared to those with renal impairment, patients with renal impairment should be closely monitored for toxicity since azacitidine and/or its metabolites are primarily excreted by the kidney (see section 4.2).
 
 Laboratory tests
 Liver function tests, serum creatinine and serum bicarbonate should be determined prior to initiation of therapy and prior to each treatment cycle.
