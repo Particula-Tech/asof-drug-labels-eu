@@ -1,11 +1,13 @@
 # 5.2 Pharmacokinetic properties
 
-The pharmacokinetic properties of darunavir, co-administered with ritonavir, have been evaluated in healthy adult volunteers and in HIV-1 infected patients.
+The pharmacokinetic properties of darunavir, co-administered with cobicistat or ritonavir, have been evaluated in healthy adult volunteers and in HIV-1 infected patients.
 Exposure to darunavir was higher in HIV-1 infected patients than in healthy subjects.
 The increased exposure to darunavir in HIV-1 infected patients compared to healthy subjects may be explained by the higher concentrations of α1-acid glycoprotein (AAG) in HIV-1 infected patients, resulting in higher darunavir binding to plasma AAG and, therefore, higher plasma concentrations.
-Darunavir is primarily metabolised by CYP3A.
-Ritonavir inhibits CYP3A, thereby increasing the plasma concentrations of darunavir considerably.
 
+Darunavir is primarily metabolised by CYP3A.
+Cobicistat and ritonavir inhibit CYP3A, thereby increasing the plasma concentrations of darunavir considerably.
+
+For information on cobicistat pharmacokinetic properties, consult the cobicistat Summary of Product Characteristics.
 Absorption
 Darunavir was rapidly absorbed following oral administration.
 Maximum plasma concentration of darunavir in the presence of low dose ritonavir is generally achieved within 2.5-4.0 hours.
@@ -13,8 +15,8 @@ Maximum plasma concentration of darunavir in the presence of low dose ritonavir 
 The absolute oral bioavailability of a single 600 mg dose of darunavir alone was approximately 37% and increased to approximately 82% in the presence of 100 mg twice daily ritonavir.
 The overall pharmacokinetic enhancement effect by ritonavir was an approximate 14-fold increase in the systemic exposure of darunavir when a single dose of 600 mg darunavir was given orally in combination with ritonavir at 100 mg twice daily (see section 4.4).
 
-When administered without food, the relative bioavailability of darunavir in the presence of low dose ritonavir is 30% lower as compared to intake with food.
-Therefore, PREZISTA tablets should be taken with ritonavir and with food.
+When administered without food, the relative bioavailability of darunavir in the presence of cobicistat or low dose ritonavir is lower as compared to intake with food.
+Therefore, PREZISTA tablets should be taken with cobicistat or ritonavir and with food.
 The type of food does not affect exposure to darunavir.
 
 Distribution
@@ -33,7 +35,6 @@ Elimination
 After a 400/100 mg 14C-darunavir with ritonavir dose, approximately 79.5% and 13.9% of the administered dose of 14C-darunavir could be retrieved in faeces and urine, respectively.
 Unchanged darunavir accounted for approximately 41.2% and 7.7% of the administered dose in faeces and urine, respectively.
 The terminal elimination half-life of darunavir was approximately 15 hours when combined with ritonavir.
-
 The intravenous clearance of darunavir alone (150 mg) and in the presence of low dose ritonavir was 32.8 l/h and 5.9 l/h, respectively.
 
 Special populations
@@ -44,10 +45,16 @@ The pharmacokinetics of darunavir in combination with ritonavir taken twice dail
 
 The pharmacokinetics of darunavir in combination with ritonavir taken twice daily in
 14 treatment-experienced paediatric patients, aged 3 to < 6 years and weighing at least 15 kg to
-< 20 kg, showed that weight-based dosages resulted in darunavir exposure that was comparable to that achieved in adults receiving PREZISTA/rtv 600/100 mg twice daily (see section 4.2).
-The pharmacokinetics of darunavir in combination with ritonavir taken once daily in 12 ART-naïve paediatric patients, aged 12 to < 18 years and weighing at least 40 kg, showed that PREZISTA/rtv 800/100 mg once daily results in darunavir exposure that was comparable to that achieved in adults receiving PREZISTA/rtv 800/100 mg once daily.
-Therefore the same once daily dosage may be used in treatment-experienced adolescents aged 12 to < 18 years and weighing at least 40 kg without darunavir resistance associated mutations (DRV-RAMs)* and who have plasma HIV-1 RNA
-< 100,000 copies/ml and CD4+ cell count ≥100 cells x 106/l (see section 4.2).
+< 20 kg, showed that weight-based dosages resulted in darunavir exposure that was comparable to that achieved in adults receiving PREZISTA/ritonavir 600/100 mg twice daily (see section 4.2).
+
+The pharmacokinetics of darunavir in combination with ritonavir taken once daily in 12 ART-naïve paediatric patients, aged 12 to < 18 years and weighing at least 40 kg, showed that PREZISTA/ritonavir 800/100 mg once daily results in darunavir exposure that was comparable to that achieved in adults receiving PREZISTA/ritonavir 800/100 mg once daily.
+Therefore the same once daily dosage may be used in treatment-experienced adolescents aged 12 to < 18 years and weighing at least 40 kg without darunavir resistance associated mutations (DRV-RAMs)* and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count ≥100 cells x 106/l (see section 4.2).
+* DRV-RAMs: V11I, V32I, L33F, I47V, I50V, I54M, I54L, T74P, L76V, I84V and L89V
+
+The pharmacokinetics of darunavir in combination with ritonavir taken once daily in
+10 treatment-experienced paediatric patients, aged 3 to < 6 years and weighing at least 14 kg to
+< 20 kg, showed that weight-based dosages resulted in darunavir exposure that was comparable to that achieved in adults receiving PREZISTA/ritonavir 800/100 mg once daily (see section 4.2).
+In addition, pharmacokinetic modeling and simulation of darunavir exposures in paediatric patients across the ages of 3 to < 18 years confirmed the darunavir exposures as observed in the clinical studies and allowed the identification of weight-based PREZISTA/ritonavir once daily dosing regimens for paediatric patients weighing at least 15 kg that are either ART-naïve or treatment-experienced paediatric patients without DRV-RAMs* and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count ≥100 cells x 106/l (see section 4.2).
 * DRV-RAMs: V11I, V32I, L33F, I47V, I50V, I54M, I54L, T74P, L76V, I84V and L89V
 
 Elderly
@@ -72,7 +79,11 @@ The effect of severe hepatic impairment on the pharmacokinetics of darunavir has
 
 [PREZISTA 75 mg film-coated tablets]
 
-(all sentences already above)
+The pharmacokinetic properties of darunavir, co-administered with ritonavir, have been evaluated in healthy adult volunteers and in HIV-1 infected patients.
+Ritonavir inhibits CYP3A, thereby increasing the plasma concentrations of darunavir considerably.
+
+When administered without food, the relative bioavailability of darunavir in the presence of low dose ritonavir is 30% lower as compared to intake with food.
+Therefore, PREZISTA tablets should be taken with ritonavir and with food.
 
 [PREZISTA 150 mg film-coated tablets]
 
@@ -80,8 +91,7 @@ The effect of severe hepatic impairment on the pharmacokinetics of darunavir has
 
 [PREZISTA 300 mg film-coated tablets]
 
-The pharmacokinetics of darunavir in combination with ritonavir taken once daily in 12 ART-naïve paediatric patients, aged 12 to < 18 years and weighing at least 40 kg, showed that PREZISTA/rtv 800/100 mg once daily results in darunavir exposure that was comparable to that achieved in adults receiving PREZISTA/rtv 800/100 mg once daily (see section 4.2).
-Therefore the same once daily dosage may be used in treatment-experienced adolescents aged 12 to < 18 years and weighing at least 40 kg without darunavir resistance associated mutations (DRV-RAMs)* and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count ≥100 cells x 106/l (see section 4.2).
+(all sentences already above)
 
 [PREZISTA 400 mg film-coated tablets]
 
