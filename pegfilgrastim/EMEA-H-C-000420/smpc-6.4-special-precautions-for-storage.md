@@ -8,4 +8,4 @@ Neulasta left at room temperature for more than 72 hours should be discarded.
 Do not freeze.
 Accidental exposure to freezing temperatures for a single period of less than 24 hours does not adversely affect the stability of Neulasta.
 
-Keep the container in the outer carton, in order to protect from light.
+Keep the container in the outer carton in order to protect from light.

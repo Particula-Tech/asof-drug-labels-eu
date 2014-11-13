@@ -1,8 +1,22 @@
-# 4.6 Pregnancy and lactation
+# 4.6 Fertility, pregnancy and lactation
 
-There are no adequate data from the use of pegfilgrastim in pregnant women.
+Pregnancy
+
+There are no or limited amount of data from the use of pegfilgrastim in pregnant women.
 Studies in animals have shown reproductive toxicity (see section 5.3).
-The potential risk for humans is unknown.
-Neulasta should not be used during pregnancy unless clearly necessary.
+Neulasta is not recommended during pregnancy and in women of childbearing potential not using contraception.
 
-There is no clinical experience with breast-feeding women, therefore Neulasta should not be administered to women who are breast-feeding.
+Women who become pregnant during treatment are encouraged to enrol in Amgen’s Pregnancy Surveillance Programme.
+Contact details are provided in section 6 of the Package leaflet.
+
+Breast-feeding
+
+There is insufficient information on the excretion of Neulasta / metabolites in human milk, a risk to the newborns/infants cannot be excluded.
+A decision must be made whether to discontinue breast-feeding or to discontinue/abstain from Neulasta therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
+
+Women who are breast-feeding during treatment are encouraged to enrol in Amgen’s Lactation Surveillance programme.
+Contact details are provided in section 6 of the Package leaflet.
+
+Fertility
+
+Pegfilgrastim did not affect reproductive performance or fertility in male or female rats at cumulative weekly doses approximately 6 to 9 times higher than the recommended human dose (based on body surface area) (see section 5.3).

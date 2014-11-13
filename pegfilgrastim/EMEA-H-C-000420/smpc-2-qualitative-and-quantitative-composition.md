@@ -9,8 +9,8 @@ The concentration is 10 mg/ml based on protein only**.
 The potency of this product should not be compared to the potency of another pegylated or non-pegylated protein of the same therapeutic class.
 For more information, see section 5.1
 
-Excipients:
+Excipient(s) with known effect:
+Each pre-filled syringe contains 30 mg sorbitol (E420)
+Each pre-filled syringe contains less than 1 mmol (23 mg) sodium (see section 4.4).
 
-Excipients known to have a recognised action: sorbitol E420, sodium acetate (see section 4.4).
-
-For a full list of excipients, see section 6.1.
+For the full list of excipients, see section 6.1.

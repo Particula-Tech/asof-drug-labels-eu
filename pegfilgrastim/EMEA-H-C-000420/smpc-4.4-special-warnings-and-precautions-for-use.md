@@ -11,9 +11,9 @@ Particular care should be taken to distinguish the diagnosis of blast transforma
 The safety and efficacy of Neulasta administration in de novo AML patients aged < 55 years with cytogenetics t(15;17) have not been established.
 
 The safety and efficacy of Neulasta have not been investigated in patients receiving high dose chemotherapy.
-Neulasta should not be used to increase the dose of cytotoxic chemotherapy beyond established dosage regimens.
+This medicinal product should not be used to increase the dose of cytotoxic chemotherapy beyond established dosage regimens.
 
-Uncommon (≥1/1000 to < 1/100) pulmonary adverse effects, in particular interstitial pneumonia, have been reported after G-CSF administration.
+Uncommon (≥1/1,000 to < 1/100) pulmonary adverse reactions, in particular interstitial pneumonia, have been reported after G-CSF administration.
 Patients with a recent history of pulmonary infiltrates or pneumonia may be at higher risk (see section 4.8).
 
 The onset of pulmonary signs such as cough, fever, and dyspnoea in association with radiological signs of pulmonary infiltrates, and deterioration in pulmonary function along with increased neutrophil count may be preliminary signs of Adult Respiratory Distress Syndrome (ARDS).
@@ -22,33 +22,38 @@ In such circumstances Neulasta should be discontinued at the discretion of the p
 Capillary leak syndrome has been reported after granulocyte-colony stimulating factor administration and is characterised by hypotension, hypoalbuminaemia, oedema and hemoconcentration.
 Patients who develop symptoms of capillary leak syndrome should be closely monitored and receive standard symptomatic treatment, which may include a need for intensive care (see section 4.8).
 
-Uncommon (≥ 1/1000 to < 1/100) but generally asymptomatic cases of splenomegaly and uncommon (≥ 1/1000 to < 1/100) cases of splenic rupture, including some fatal cases, have been reported following administration of pegfilgrastim (see section 4.8).
+Uncommon but generally asymptomatic cases of splenomegaly and uncommon cases of splenic rupture, including some fatal cases, have been reported following administration of pegfilgrastim (see section 4.8).
 Therefore, spleen size should be carefully monitored (e.g. clinical examination, ultrasound).
 A diagnosis of splenic rupture should be considered in patients reporting left upper abdominal pain or shoulder tip pain.
-
 Treatment with Neulasta alone does not preclude thrombocytopenia and anaemia because full dose myelosuppressive chemotherapy is maintained on the prescribed schedule.
 Regular monitoring of platelet count and haematocrit is recommended.
 Special care should be taken when administering single or combination chemotherapeutic agents which are known to cause severe thrombocytopenia.
 
-Sickle cell crises have been associated with the use of pegfilgrastim in patients with sickle cell disease
+Sickle cell crises have been associated with the use of pegfilgrastim in patients with sickle cell trait or
 
-(see section 4.8). Therefore, physicians should exercise caution when administering Neulasta in
-patients with sickle cell disease, should monitor appropriate clinical parameters and laboratory status
-and be attentive to the possible association of Neulasta with splenic enlargement and vaso-occlusive
-crisis.
+sickle cell disease (see section 4.8). Therefore, physicians should use caution when prescribing
+Neulasta in patients with sickle cell trait or sickle cell disease, should monitor appropriate clinical
+parameters and laboratory status and be attentive to the possible association of this medicine with
+splenic enlargement and vaso-occlusive crisis.
 
 White blood cell (WBC) counts of 100 x 109/l or greater have been observed in less than 1% of patients receiving Neulasta.
 No adverse events directly attributable to this degree of leukocytosis have been reported.
-Such elevation in white blood cells is transient, typically seen 24 to 48 hours after administration and is consistent with the pharmacodynamic effects of Neulasta.
-Consistent with the clinical effects of Neulasta and the potential for leukocytosis, a WBC count should be performed at regular intervals during therapy.
-If leukocyte counts exceed 50 x 109/l after the expected nadir, Neulasta should be discontinued immediately.
+Such elevation in white blood cells is transient, typically seen 24 to 48 hours after administration and is consistent with the pharmacodynamic effects of this medicine.
+Consistent with the clinical effects and the potential for leukocytosis, a WBC count should be performed at regular intervals during therapy.
+If leukocyte counts exceed 50 x 109/l after the expected nadir, this medicine should be discontinued immediately.
 
+Hypersensitivity, including anaphylactic reactions, occurring on initial or subsequent treatment have been reported in patients treated with Neulasta.
+Permanently discontinue Neulasta in patients with clinically significant hypersensitivity.
+Do not administer Neulasta to patients with a history of hypersensitivity to pegfilgrastim or filgrastim.
 If a serious allergic reaction occurs, appropriate therapy should be administered, with close patient follow-up over several days.
-Neulasta should be permanently discontinued in patients who experience a serious allergic reaction (see section 4.8).
+
+As with all therapeutic proteins, there is a potential for immunogenicity.
+Rates of generation of antibodies against pegfilgrastim is generally low.
+Binding antibodies do occur as expected with all biologics; however, they have not been associated with neutralising activity at present.
 
 The safety and efficacy of Neulasta for the mobilisation of blood progenitor cells in patients or healthy donors has not been adequately evaluated.
 
-The needle cover of the pre-filled syringe contains dry natural rubber (a derivative of latex), which may cause allergic reactions.
+The needle cap of the pre-filled syringe contains dry natural rubber (a derivative of latex), which may cause allergic reactions.
 
 Increased haematopoietic activity of the bone marrow in response to growth factor therapy has been associated with transient positive bone imaging findings.
 This should be considered when interpreting bone-imaging results.

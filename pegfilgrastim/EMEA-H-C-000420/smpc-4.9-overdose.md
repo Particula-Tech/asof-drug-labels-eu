@@ -1,3 +1,4 @@
 # 4.9 Overdose
 
-There is no experience with overdose of Neulasta in humans.
+Single doses of 300 µg/kg have been administered subcutaneously to a limited number of healthy volunteers and patients with non-small cell lung cancer without serious adverse reactions.
+The adverse events were similar to those in subjects receiving lower doses of pegfilgrastim.
