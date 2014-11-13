@@ -33,7 +33,6 @@ The efficacy of re-administration has not been established, for safety see secti
 Elderly
 
 TYSABRI is not recommended for use in patients aged over 65 due to a lack of data in this population.
-
 Renal and hepatic impairment
 
 Studies have not been conducted to examine the effects of renal or hepatic impairment.
@@ -41,6 +40,7 @@ Studies have not been conducted to examine the effects of renal or hepatic impai
 The mechanism for elimination and results from population pharmacokinetics suggest that dose adjustment would not be necessary in patients with renal or hepatic impairment.
 
 Paediatric Population
+
 TYSABRI is contraindicated in children and adolescents below the age of 18 years (see section 4.3).
 
 Method of Administration

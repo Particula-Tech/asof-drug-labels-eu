@@ -18,7 +18,6 @@ Under normal conditions, VCAM-1 is not expressed in the brain parenchyma.
 However, in the presence of pro-inflammatory cytokines, VCAM-1 is upregulated on endothelial cells and possibly on glial cells near the sites of inflammation.
 In the setting of central nervous system (CNS) inflammation in MS, it is the interaction of α4β1 with VCAM-1, CS-1 and osteopontin that mediates the firm adhesion and transmigration of leukocytes into the brain parenchyma and may perpetuate the inflammatory cascade in CNS tissue.
 Blockade of the molecular interactions of α4β1 with its targets reduces inflammatory activity present in the brain in MS and inhibits further recruitment of immune cells into inflamed tissue, thus reducing the formation or enlargement of MS lesions.
-
 Clinical efficacy
 
 Efficacy as monotherapy has been evaluated in one randomised, double-blind, placebo-controlled study lasting 2 years (AFFIRM study) in relapsing-remitting MS patients who had experienced at least 1 clinical relapse during the year prior to entry and had a Kurtzke Expanded Disability Status Scale (EDSS) score between 0 and 5.

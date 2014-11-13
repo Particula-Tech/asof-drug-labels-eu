@@ -89,10 +89,10 @@ Concurrent or prior treatment with immunosuppressants
 
 The safety and efficacy of TYSABRI in combination with other immunosuppressive and antineoplastic therapies have not been fully established.
 Concurrent use of these agents with TYSABRI may increase the risk of infections, including opportunistic infections, and is contraindicated (see section 4.3).
-
 Patients with a treatment history of immunosuppressant medications are at increased risk for PML.
 Care should be taken with patients who have previously received immunosuppressants to allow sufficient time for immune function recovery to occur.
 Physicians must evaluate each individual case to determine whether there is evidence of an immunocompromised state prior to commencing treatment with TYSABRI (see section 4.3).
+
 In Phase 3 MS clinical trials, concomitant treatment of relapses with a short course of corticosteroids was not associated with an increased rate of infection.
 Short courses of corticosteroids can be used in combination with TYSABRI.
 

@@ -6,6 +6,7 @@ Over the 2-year duration of the studies, 43.5% of patients treated with natalizu
 
 The highest incidence of adverse reactions identified from placebo-controlled trials in multiple sclerosis patients with natalizumab given at the recommended dose, are reported as dizziness, nausea, urticaria and rigors associated with infusions.
 
+1 An adverse event judged related to therapy by the investigating physician.
 List of adverse reactions
 Adverse reactions reported with natalizumab with an incidence of 0.5% greater than reported with placebo are shown below.
 
@@ -14,15 +15,18 @@ Frequencies were defined as follows:
 
 Common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100).
 
-1 An adverse event judged related to therapy by the investigating physician.
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Infections and infestations
+
 Common Urinary tract infection
+
 Nasopharyngitis
 
 Immune system disorders
+
 Common Urticaria
+
 Uncommon Hypersensitivity
 
 Nervous system disorders
@@ -31,14 +35,19 @@ Dizziness
 Uncommon Progressive Multifocal Leukoencephalopathy (PML)
 
 Gastrointestinal disorders
+
 Common Vomiting
+
 Nausea
 
 Musculoskeletal and connective tissue disorders
+
 Common Arthralgia
 
 General disorders and administration site conditions
+
 Common Rigors
+
 Pyrexia
 Fatigue
 
@@ -101,3 +110,9 @@ During treatment with TYSABRI, small reductions in haemoglobin (mean decrease 0.
 All changes in haematological variables returned to pre-treatment values, usually within 16 weeks of last dose of TYSABRI and the changes were not associated with clinical symptoms.
 In post-marketing experience, there have also been reports of eosinophilia (eosinophil count >1,500/mm3) without clinical symptoms.
 In such cases where TYSABRI therapy was discontinued the elevated eosinophil levels resolved.
+
+Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
