@@ -6,6 +6,7 @@ Leukocytosis occurred in 50% of patients with APL, as determined by haematology 
 
 Serious adverse reactions were common (1-10%) and not unexpected in this population.
 Those serious adverse reactions attributed to TRISENOX included APL differentiation syndrome (3), leukocytosis (3), prolonged QT interval (4, 1 with torsade de pointes), atrial fibrillation/atrial flutter (1), hyperglycaemia (2) and a variety of serious adverse reactions related to haemorrhage, infections, pain, diarrhoea, nausea.
+
 In general, treatment-emergent adverse events tended to decrease over time, perhaps accounted for by amelioration of the underlying disease process.
 Patients tended to tolerate consolidation and maintenance treatment with less toxicity than in induction.
 This is probably due to the confounding of adverse events by the uncontrolled disease process early on in the treatment course and the myriad concomitant medicinal products required to control symptoms and morbidity.
@@ -68,12 +69,12 @@ Pericardial effusion Common Common
 Ventricular extrasystoles Common Not known
 Cardiac failure Not known Not known
 Ventricular tachycardia Not known Not known
-All grades Grades≥3
 
 Vascular Disorders
 
 Vasculitis Common Common
 Hypotension Common Not known
+All grades Grades≥3
 
 Respiratory, Thoracic and Mediastinal Disorders
 
@@ -131,7 +132,7 @@ Gamma-glutamyltransferase increased* Not known* Not known*
 *In the CALGB study C9710, 2 cases of grade ≥3 increased GGT were reported out of the 200 patients who received TRISENOX consolidation cycles (cycle 1 and cycle 2) versus none in the control arm.
 
 During TRISENOX treatment, 14 of the 52 patients in the APL studies had one or more symptoms of APL differentiation syndrome, characterised by fever, dyspnoea, weight gain, pulmonary infiltrates and pleural or pericardial effusions, with or without leukocytosis (see section 4.4).
-Twenty-seven patients had leukocytosis (WBC ≥ 10 x 103/µl) during induction, 4 of whom had values above 100,000/µl.
+Twenty-seven patients had leukocytosis (WBC ≥ 10 x 103/μl) during induction, 4 of whom had values above 100,000/μl.
 Baseline white blood cell (WBC) counts did not correlate with development of leukocytosis on study, and WBC counts during consolidation therapy were not as high as during induction.
 In these studies, leukocytosis was not treated with chemotherapeutic medicinal products.
 Medicinal products that are used to lower the white blood cell count often exacerbate the toxicities associated with leukocytosis, and no standard approach has proven effective.
@@ -151,3 +152,8 @@ Only 2 patients discontinued treatment early due to this adverse event and one w
 Forty-four percent of patients experienced symptoms that could be associated with neuropathy; most were mild to moderate and were reversible upon cessation of treatment with TRISENOX.
 
 In post marketing experience, a differentiation syndrome, like retinoic acid syndrome, has also been reported for the treatment of malignancies other than APL with TRISENOX.
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V*.

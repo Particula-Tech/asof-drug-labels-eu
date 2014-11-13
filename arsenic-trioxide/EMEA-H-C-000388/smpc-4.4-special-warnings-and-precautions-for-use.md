@@ -42,7 +42,7 @@ Patients with hepatic impairment:
 Since limited data are available across all hepatic impairment groups, caution is advised in the use of TRISENOX in patients with hepatic impairment.
 The experience in patients with severe hepatic impairment is insufficient to determine if dose adjustment is required..
 
-Elderly patients: There is limited clinical data on the use of TRISENOX in the elderly population.
+Older people: There is limited clinical data on the use of TRISENOX in the elderly population.
 Caution is needed in these patients.
 
 Hyperleukocytosis: Treatment with TRISENOX has been associated with the development of hyperleukocytosis (≥ 10 x 103/μl) in some patients.

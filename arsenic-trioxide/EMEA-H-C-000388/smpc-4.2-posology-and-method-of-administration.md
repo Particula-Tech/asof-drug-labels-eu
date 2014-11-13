@@ -35,4 +35,5 @@ TRISENOX must be administered intravenously over 1-2 hours.
 The infusion duration may be extended up to 4 hours if vasomotor reactions are observed.
 A central venous catheter is not required.
 Patients must be hospitalised at the beginning of treatment due to symptoms of disease and to ensure adequate monitoring.
+
 For instructions on preparation of the medicinal product before administration, see section 6.6.

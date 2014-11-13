@@ -10,7 +10,6 @@ Unused portions of each ampoule must be discarded properly.
 Do not save any unused portions for later administration.
 
 TRISENOX must not be mixed with or concomitantly administered in the same intravenous line with other medicinal products.
-
 TRISENOX must be administered intravenously over 1-2 hours.
 The infusion duration may be extended up to 4 hours if vasomotor reactions are observed.
 A central venous catheter is not required.
@@ -21,4 +20,4 @@ Do not use the preparation if foreign particulate matter is present.
 
 Procedure for proper disposal
 
-Any unused product, any items that come into contact with the product, and waste material must be disposed of in accordance with local requirements.
+Any unused medicinal product, any items that come into contact with the product, or waste material must be disposed of in accordance with local requirements.

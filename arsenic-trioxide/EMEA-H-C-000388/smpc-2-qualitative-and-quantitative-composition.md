@@ -2,4 +2,4 @@
 
 One ml of TRISENOX contains 1 mg of Arsenic trioxide
 
-For a full list of excipients, see section 6.1
+For the full list of excipients, see section 6.1
