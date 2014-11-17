@@ -1,5 +1,7 @@
 # 4.8 Undesirable effects
 
+Summary of the safety profile
+
 The overall safety profile of Avastin is based on data from over 4,500 patients with various malignancies, predominantly treated with Avastin in combination with chemotherapy in clinical trials.
 
 The most serious adverse reactions were:
@@ -11,10 +13,12 @@ The most serious adverse reactions were:
 The most frequently observed adverse reactions across clinical trials in patients receiving Avastin were hypertension, fatigue or asthenia, diarrhoea and abdominal pain.
 
 Analyses of the clinical safety data suggest that the occurrence of hypertension and proteinuria with Avastin therapy are likely to be dose-dependent.
+Tabulated list of adverse reactions
 
 The adverse reactions listed in this section fall into the following frequency categories: Very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
 
 Tables 1 and 2 list adverse reactions associated with the use of Avastin in combination with different chemotherapy regimens in multiple indications.
+
 Table 1 provides all adverse reactions by frequency that were determined to have a causal relationship with Avastin through:
 
 - comparative incidences noted between clinical trial treatment arms (with at least a 10% difference compared to the control arm for NCI-CTCAE Grade 1-5 reactions or at least a 2% difference compared to the control arm for NCI-CTCAE Grade 3-5 reactions,
@@ -63,6 +67,7 @@ a For further information please refer to Table 3 'Adverse reactions reported in
 b Terms represent a group of events that describe a medical concept rather than a single condition or MedDRA (Medical Dictionary for Regulatory Activities) preferred term.
 This group of medical terms may involve the same underlying pathophysiology (e.g. arterial thromboembolic reactions include cerebrovascular accident, myocardial infarction, transient ischaemic attack and other arterial thromboembolic reactions).
 c Based on a substudy from NSABP C-08 with 295 patients d For additional information refer below within section "Further information on selected serious adverse reactions."
+
 Table 2: Severe Adverse Reactions by Frequency
 
 | System organ class | Very Common | Common | Uncommon | Rare | Very Rare | Frequency Not Known |
@@ -91,8 +96,7 @@ Table 2 also includes clinically significant adverse reactions that were observe
 a Terms represent a group of events that describe a medical concept rather than a single condition or MedDRA (Medical Dictionary for Regulatory Activities) preferred term.
 This group of medical terms may involve the same underlying pathophysiology (e.g. arterial thromboembolic reactions include cerebrovascular accident, myocardial infarction, transient ischaemic attack and other arterial thromboembolic reactions).
 b For additional information refer below within section "Further information on selected serious adverse reactions" c For further information please refer to Table 3 'Adverse reactions reported in post-marketing setting.'
-
-Further information on selected serious adverse reactions
+Description of selected serious adverse reactions
 
 Gastrointestinal perforations (see section 4.4)
 Avastin has been associated with serious cases of gastrointestinal perforation.
@@ -214,6 +218,7 @@ In clinical trials with Avastin, congestive heart failure (CHF) was observed in 
 In four phase III trials (AVF2119g, E2100, BO17708 and AVF3694g) in patients with metastatic breast cancer CHF Grade 3 (NCI-CTCAE v.3) or higher was reported in up to 3.5% of patients treated with Avastin in combination with chemotherapy compared with up to 0.9% in the control arms.
 For patients in study AVF3694g who received anthracyclines concomitantly with bevacizumab, the incidences of Grade 3 or higher CHF for the respective bevacizumab and control arms were similar to those in the other studies in metastatic breast cancer: 2.9% in the anthracycline + bevacizumab arm and 0% in the anthracycline + placebo arm.
 In addition, in study AVF3694g the incidences of all Grade CHF were similar between the anthracycline + Avastin (6.2%) and the anthracycline + placebo arms (6.0%).
+
 Most patients who developed CHF during mBC trials showed improved symptoms and/or left ventricular function following appropriate medical therapy.
 
 In most clinical trials of Avastin, patients with pre-existing CHF of NYHA (New York Heart Association) II-IV were excluded, therefore, no information is available on the risk of CHF in this population.
@@ -228,6 +233,19 @@ These results suggest that close clinical observation with appropriate cardiac a
 Hypersensitivity reactions/infusion reactions (see section 4.4 and Post-marketing experience below) In some clinical trials anaphylactic and anaphylactoid-type reactions were reported more frequently in patients receiving Avastin in combination with chemotherapy than with chemotherapy alone.
 The incidence of these reactions in some clinical trials of Avastin is common (up to 5% in bevacizumab-treated patients).
 
+Ovarian failure/fertility (see sections 4.4 and 4.6)
+In NSABP C-08, a phase III trial of Avastin in adjuvant treatment of patients with colon cancer, the incidence of new cases of ovarian failure, defined as amenorrhoea lasting 3 or more months, FSH level ≥ 30 mIU/mL and a negative serum β-HCG pregnancy test, has been evaluated in 295 premenopausal women.
+New cases of ovarian failure were reported in 2.6% patients in the mFOLFOX-6 group compared to 39% in the mFOLFOX-6 + bevacizumab group.
+After discontinuation of bevacizumab treatment, ovarian function recovered in 86.2% of these evaluable women.
+Long term effects of the treatment with bevacizumab on fertility are unknown.
+
+Laboratory abnormalities
+Decreased neutrophil count, decreased white blood cell count and presence of urine protein may be associated with Avastin treatment.
+
+Across clinical trials, the following Grade 3 and 4 (NCI-CTCAE v.3) laboratory abnormalities occurred in patients treated with Avastin with at least a 2% difference compared to the corresponding control groups: hyperglycaemia, decreased haemoglobin, hypokalaemia, hyponatraemia, decreased white blood cell count, increased international normalised ratio (INR).
+
+Other special populations
+
 Elderly patients
 In randomised clinical trials, age > 65 years was associated with an increased risk of developing arterial thromboembolic reactions, including cerebrovascular accidents (CVAs), transient ischaemic attacks (TIAs) and myocardial infarctions (MIs).
 Other reactions with a higher frequency seen in patients over 65 were Grade 3-4 leucopenia and thrombocytopenia (NCI-CTCAE v.3); and all Grade neutropenia, diarrhoea, nausea, headache and fatigue as compared to those aged ≤ 65 years when treated with Avastin (see sections 4.4 and 4.8 under Thromboembolism).
@@ -237,17 +255,6 @@ No increase in the incidence of other reactions, including gastrointestinal perf
 
 Paediatric population
 The safety of Avastin in children and adolescents has not been established.
-
-Ovarian failure/fertility (see sections 4.4 and 4.6)
-In NSABP C-08, a phase III trial of Avastin in adjuvant treatment of patients with colon cancer, the incidence of new cases of ovarian failure, defined as amenorrhoea lasting 3 or more months, FSH level ≥ 30 mIU/mL and a negative serum β-HCG pregnancy test, has been evaluated in 295 premenopausal women.
-New cases of ovarian failure were reported in 2.6% patients in the mFOLFOX-6 group compared to 39% in the mFOLFOX-6 + bevacizumab group.
-After discontinuation of bevacizumab treatment, ovarian function recovered in 86.2% of these evaluable women.
-Long term effects of the treatment with bevacizumab on fertility are unknown.
-Laboratory abnormalities
-Decreased neutrophil count, decreased white blood cell count and presence of urine protein may be associated with Avastin treatment.
-
-Across clinical trials, the following Grade 3 and 4 (NCI-CTCAE v.3) laboratory abnormalities occurred in patients treated with Avastin with at least a 2% difference compared to the corresponding control groups: hyperglycaemia, decreased haemoglobin, hypokalaemia, hyponatraemia, decreased white blood cell count, increased international normalised ratio (INR).
-
 Post-marketing experience
 
 Table 3 Adverse reactions reported in post-marketing setting
@@ -264,8 +271,9 @@ Table 3 Adverse reactions reported in post-marketing setting
 | Infections and Infestations | Necrotising fasciitis, usually secondary to wound healing complications, gastrointestinal perforation or fistula formation (rare) (see also section 4.4) |
 
 * if specified, the frequency has been derived from clinical trial data
+
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V*.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

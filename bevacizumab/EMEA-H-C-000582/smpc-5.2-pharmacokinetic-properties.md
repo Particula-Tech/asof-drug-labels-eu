@@ -9,7 +9,7 @@ The typical value for central volume (Vc) was 2.73 L and 3.28 L for female and m
 The typical value for peripheral volume (Vp) was 1.69 L and 2.35 L for female and male patients respectively, when bevacizumab is co-administered with anti-neoplastic agents.
 After correcting for body weight, male patients had a larger Vc (+ 20%) than female patients.
 
-Metabolism
+Biotransformation
 Assessment of bevacizumab metabolism in rabbits following a single IV dose of 125I-bevacizumab indicated that its metabolic profile was similar to that expected for a native IgG molecule which does not bind VEGF.
 The metabolism and elimination of bevacizumab is similar to endogenous IgG i.e. primarily via proteolytic catabolism throughout the body, including endothelial cells, and does not rely primarily on elimination through the kidneys and liver.
 Binding of the IgG to the FcRn receptor results in protection from cellular metabolism and the long terminal half-life.

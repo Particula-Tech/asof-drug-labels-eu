@@ -44,6 +44,7 @@ The addition of Avastin to IFL resulted in statistically significant increases i
 The clinical benefit, as measured by overall survival, was seen in all pre-specified patient subgroups, including those defined by age, sex, performance status, location of primary tumour, number of organs involved and duration of metastatic disease.
 
 The efficacy results of Avastin in combination with IFL-chemotherapy are displayed in Table 4.
+
 Table 4 Efficacy results for trial AVF2107g
 
 |  | AVF2107g |  |
@@ -63,7 +64,6 @@ Table 4 Efficacy results for trial AVF2107g
 
 a 5 mg/kg every 2 weeks.
 b Relative to control arm.
-
 Among the 110 patients randomised to Arm 3 (5-FU/FA + Avastin) prior to discontinuation of this arm, the median overall survival was 18.3 months and the median progression free survival was 8.8 months.
 
 AVF2192g
@@ -279,7 +279,6 @@ Table 10 Trial E2100 efficacy results
 | p-value | 0.1374 |  |
 
 The clinical benefit of Avastin as measured by PFS was seen in all pre-specified subgroups tested (including disease-free interval, number of metastatic sites, prior receipt of adjuvant chemotherapy and oestrogen receptor (ER) status).
-
 AVF3694g
 Study AVF3694g was a Phase III, multicentre, randomised, placebo-controlled trial designed to evaluate the efficacy and safety of Avastin in combination with chemotherapy compared to chemotherapy plus placebo as first-line treatment for patients with HER2-negative metastatic or locally recurrent breast cancer.
 
@@ -381,7 +380,7 @@ a patients with measurable disease at baseline
 
 Advanced and/or metastatic renal cell cancer (mRCC)
 
-Avastin in Combination with Interferon alfa-2a for the First-Line Treatment of Advanced and/ or Metastatic Renal Cell Cancer (BO17705)
+Avastin in combination with interferon alfa-2a for the first-line treatment of advanced and/ or metastatic renal cell cancer (BO17705)
 
 This was a phase III randomised double-blind trial conducted to evaluate the efficacy and safety of Avastin in combination with interferon (IFN) alfa-2a versus IFN alfa-2a alone as first-line treatment in mRCC.
 The 649 randomised patients (641 treated) had Karnofsky Performance Status (KPS) of ≥ 70%, no CNS metastases and adequate organ function.

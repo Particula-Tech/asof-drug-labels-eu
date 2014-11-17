@@ -15,6 +15,7 @@ In cases of internal fistula not arising in the gastrointestinal (GI) tract, dis
 
 Wound healing complications (see section 4.8)
 Avastin may adversely affect the wound healing process.
+Serious wound healing complications , including anastomotic complications, with a fatal outcome have been reported.
 Therapy should not be initiated for at least 28 days following major surgery or until the surgical wound is fully healed.
 In patients who experienced wound healing complications during therapy, treatment should be withheld until the wound is fully healed.
 Therapy should be withheld for elective surgery.
@@ -39,6 +40,7 @@ There have been rare reports of Avastin-treated patients developing signs and sy
 A diagnosis of PRES requires confirmation by brain imaging, preferably magnetic resonance imaging (MRI).
 In patients developing PRES, treatment of specific symptoms including control of hypertension is recommended along with discontinuation of Avastin.
 The safety of reinitiating Avastin therapy in patients previously experiencing PRES is not known.
+-
 Proteinuria (see section 4.8)
 Patients with a history of hypertension may be at increased risk for the development of proteinuria when treated with Avastin.
 There is evidence suggesting that all Grade (US National Cancer Institute-Common Terminology Criteria for Adverse Events [NCI-CTCAE (version 3.0)]) proteinuria may be related to the dose.
