@@ -67,10 +67,13 @@ These fractures occur after minimal or no trauma and some patients experience th
 Fractures are often bilateral; therefore the contralateral femur should be examined in bisphosphonate-treated patients who have sustained a femoral shaft fracture.
 Poor healing of these fractures has also been reported.
 Discontinuation of bisphosphonate therapy in patients suspected to have an atypical femur fracture should be considered pending evaluation of the patient, based on an individual benefit risk assessment.
-
 During bisphosphonate treatment patients should be advised to report any thigh, hip or groin pain and any patient presenting with such symptoms should be evaluated for an incomplete femur fracture.
+
 Hypocalcaemia
 Hypocalcaemia has been reported in patients treated with Zometa.
-Cardiac arrhythmias and neurologic adverse events (including seizures, numbness and tetany) have been reported secondary to cases of severe hypocalcaemia.
+Cardiac arrhythmias and neurologic adverse events (including convulsions, hypoaesthesia and tetany) have been reported secondary to cases of severe hypocalcaemia.
 Cases of severe hypocalcaemia requiring hospitalisation have been reported.
 In some instances, the hypocalcaemia may be life-threatening (see section 4.8).
+Caution is advised when Zometa is administered with medicinal products known to cause hypocalcaemia, as they may have a synergistic effect resulting in severe hypocalcaemia (see section 4.5).
+Serum calcium should be measured and hypocalcaemia must be corrected before initiating Zometa therapy.
+Patients should be adequately supplemented with calcium and vitamin D.

@@ -3,7 +3,7 @@
 In clinical studies, Zometa has been administered concomitantly with commonly used anticancer agents, diuretics, antibiotics and analgesics without clinically apparent interactions occurring.
 Zoledronic acid shows no appreciable binding to plasma proteins and does not inhibit human P450 enzymes in vitro (see section 5.2), but no formal clinical interaction studies have been performed.
 
-Caution is advised when bisphosphonates are administered with aminoglycosides, since both agents may have an additive effect, resulting in a lower serum calcium level for longer periods than required.
+Caution is advised when bisphosphonates are administered with aminoglycosides, calcitonin or loop diuretics, since these agents may have an additive effect, resulting in a lower serum calcium level for longer periods than required (see section 4.4).
 
 Caution is indicated when Zometa is used with other potentially nephrotoxic medicinal products.
 Attention should also be paid to the possibility of hypomagnesaemia developing during treatment.

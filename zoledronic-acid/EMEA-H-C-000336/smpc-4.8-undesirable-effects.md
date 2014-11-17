@@ -1,10 +1,10 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-Within three days after Zometa administration, an acute phase reaction has commonly been reported, with symptoms including bone pain, fever, fatigue, arthralgia, myalgia and rigors; these symptoms usually resolve within a few days (see description of selected adverse reactions).
+Within three days after Zometa administration, an acute phase reaction has commonly been reported, with symptoms including bone pain, fever, fatigue, arthralgia, myalgia, rigors and arthritis with subsequent joint swelling; these symptoms usually resolve within a few days (see description of selected adverse reactions).
 
 The following are the important identified risks with Zometa in the approved indications:
-Renal function impairment, osteonecrosis of the jaw, acute phase reaction, hypocalcaemia, ocular adverse events, atrial fibrillation, anaphylaxis.
+Renal function impairment, osteonecrosis of the jaw, acute phase reaction, hypocalcaemia, atrial fibrillation, anaphylaxis, interstitial lung disease.
 The frequencies for each of these identified risks are shown in Table 1.
 
 Tabulated list of adverse reactions
@@ -33,13 +33,13 @@ Rare: Confusion
 Nervous system disorders
 
 Common: Headache
-Uncommon: Dizziness, paraesthesia, taste disturbance,
+Uncommon: Dizziness, paraesthesia, dysgeusia,
 
 hypoaesthesia, hyperaesthesia, tremor, somnolence
 
-Very rare: Seizures, numbness and tetany (secondary to
+Very rare: Convulsions, hypoaesthesia and tetany
 
-hypocalcaemia)
+(secondary to hypocalcaemia)
 Eye disorders
 
 Common: Conjunctivitis
@@ -47,7 +47,8 @@ Uncommon: Blurred vision, scleritis and orbital
 
 inflammation
 
-Very rare: Uveitis, episcleritis
+Rare: Uveitis
+Very rare: Episcleritis
 
 Cardiac disorders
 
@@ -55,8 +56,7 @@ Uncommon: Hypertension, hypotension, atrial fibrillation,
 
 hypotension leading to syncope or circulatory collapse
 
-Rare: Bradycardia
-Very rare: Cardiac arrhythmia (secondary to
+Rare: Bradycardia, cardiac arrhythmia (secondary to
 
 hypocalcaemia)
 Respiratory, thoracic and mediastinal disorders
@@ -66,7 +66,7 @@ Rare: Interstitial lung disease
 
 Gastrointestinal disorders
 
-Common: Nausea, vomiting, anorexia
+Common: Nausea, vomiting, decreased appetite
 Uncommon: Diarrhoea, constipation, abdominal pain,
 
 dyspepsia, stomatitis, dry mouth
@@ -81,7 +81,7 @@ Common: Bone pain, myalgia, arthralgia, generalised
 
 pain
 
-Uncommon: Muscle cramps, osteonecrosis of the jaw
+Uncommon: Muscle spasms, osteonecrosis of the jaw
 
 Renal and urinary disorders
 
@@ -97,6 +97,10 @@ rigors, malaise and flushing)
 Uncommon: Asthenia, peripheral oedema, injection site
 
 reactions (including pain, irritation, swelling, induration), chest pain, weight increase, anaphylactic reaction/shock, urticaria
+
+Rare: Arthritis and joint swelling as a symptom of
+
+acute phase reaction
 Investigations
 
 Very common: Hypophosphataemia
@@ -113,12 +117,12 @@ Zometa has been associated with reports of renal dysfunction.
 In a pooled analysis of safety data from Zometa registration trials for the prevention of skeletal-related events in patients with advanced malignancies involving bone, the frequency of renal impairment adverse events suspected to be related to Zometa (adverse reactions) was as follows: multiple myeloma (3.2%), prostate cancer (3.1%), breast cancer (4.3%), lung and other solid tumours (3.2%).
 Factors that may increase the potential for deterioration in renal function include dehydration, pre-existing renal impairment, multiple cycles of Zometa or other bisphosphonates, as well as concomitant use of nephrotoxic medicinal products or using a shorter infusion time than currently recommended.
 Renal deterioration, progression to renal failure and dialysis have been reported in patients after the initial dose or a single dose of 4 mg zoledronic acid (see section 4.4).
-
 Osteonecrosis of the jaw
 Cases of osteonecrosis (primarily of the jaws) have been reported, predominantly in cancer patients treated with medicinal products that inhibit bone resorption, such as Zometa.
 Many of these patients had signs of local infection including osteomyelitis, and the majority of the reports refer to cancer patients following tooth extractions or other dental surgeries.
 Osteonecrosis of the jaws has multiple documented risk factors including a diagnosis of cancer, concomitant therapies (e.g. chemotherapy, radiotherapy, corticosteroids) and co-morbid conditions (e.g. anaemia, coagulopathies, infection, pre-existing oral disease).
 Although causality has not been determined, it is recommended to avoid dental surgery as recovery may be prolonged (see section 4.4).
+
 Atrial fibrillation
 In one 3-year, randomised, double-blind controlled trial that evaluated the efficacy and safety of zoledronic acid 5 mg once yearly vs. placebo in the treatment of postmenopausal osteoporosis (PMO), the overall incidence of atrial fibrillation was 2.5% (96 out of 3,862) and 1.9% (75 out of 3,852) in patients receiving zoledronic acid 5 mg and placebo, respectively.
 The rate of atrial fibrillation serious adverse events was 1.3% (51 out of 3,862) and 0.6% (22 out of 3,852) in patients receiving zoledronic acid 5 mg and placebo, respectively.
@@ -126,7 +130,7 @@ The imbalance observed in this trial has not been observed in other trials with 
 The mechanism behind the increased incidence of atrial fibrillation in this single clinical trial is unknown.
 
 Acute phase reaction
-This adverse drug reaction consists of a constellation of symptoms that includes fever, myalgia, headache, extremity pain, nausea, vomiting, diarrhoea and arthralgia.
+This adverse drug reaction consists of a constellation of symptoms that includes fever, myalgia, headache, extremity pain, nausea, vomiting, diarrhoea, arthralgia and arthritis with subsequent joint swelling.
 The onset time is ≤ 3 days post-Zometa infusion, and the reaction is also referred to using the terms “flu-like” or “post-dose” symptoms.
 
 Atypical fractures of the femur
@@ -135,11 +139,16 @@ During post-marketing experience the following reactions have been reported (fre
 Hypocalcaemia-related ADRs
 Hypocalcaemia is an important identified risk with Zometa in the approved indications.
 Based on the review of both clinical trial and post-marketing cases, there is sufficient evidence to support an association between Zometa therapy, the reported event of hypocalcaemia, and the secondary development of cardiac arrhythmia.
-Furthermore, there is evidence of an association between hypocalcaemia and secondary neurological events reported in these cases including; seizures, numbness and tetany (see section 4.4).
+Furthermore, there is evidence of an association between hypocalcaemia and secondary neurological events reported in these cases including; convulsions, hypoaesthesia and tetany (see section 4.4).
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 [Zometa 4 mg/5 ml concentrate for solution for infusion]
 
-(all sentences already above)
+This adverse drug reaction consists of a constellation of symptoms that includes fever, myalgia, headache, extremity pain, nausea, vomiting, diarrhoea arthralgia and arthritis with subsequent joint swelling.
 
 [Zometa 4 mg/100 ml solution for infusion]
 

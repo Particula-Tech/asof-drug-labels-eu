@@ -21,7 +21,8 @@ The renal clearance of zoledronic acid was correlated with creatinine clearance,
 Population analysis showed that for a patient with creatinine clearance of 20 ml/min (severe renal impairment), or 50 ml/min (moderate impairment), the corresponding predicted clearance of zoledronic acid would be 37% or 72%, respectively, of that of a patient showing creatinine clearance of 84 ml/min.
 Only limited pharmacokinetic data are available in patients with severe renal insufficiency (creatinine clearance < 30 ml/min).
 
-Zoledronic acid shows no affinity for the cellular components of blood and plasma protein binding is low (approximately 56%) and independent of the concentration of zoledronic acid.
+In an in vitro study, zoledronic acid showed low affinity for the cellular components of human blood, with a mean blood to plasma concentration ratio of 0.59 in a concentration range of 30 ng/ml to 5000 ng/ml.
+The plasma protein binding is low, with the unbound fraction ranging from 60% at 2 ng/ml to 77% at 2000 ng/ml of zoledronic acid.
 
 Special populations
 Paediatric patients

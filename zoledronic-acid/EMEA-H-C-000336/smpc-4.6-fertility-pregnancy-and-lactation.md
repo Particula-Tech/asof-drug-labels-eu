@@ -5,6 +5,7 @@ There are no adequate data on the use of zoledronic acid in pregnant women.
 Animal reproduction studies with zoledronic acid have shown reproductive toxicity (see section 5.3).
 The potential risk for humans is unknown.
 Zometa should not be used during pregnancy.
+Women of child-bearing potential should be advised to avoid becoming pregnant.
 
 Breast-feeding
 It is not known whether zoledronic acid is excreted into human milk.

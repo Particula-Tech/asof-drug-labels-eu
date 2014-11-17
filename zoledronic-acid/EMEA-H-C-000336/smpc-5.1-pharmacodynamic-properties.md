@@ -7,6 +7,7 @@ It is an inhibitor of osteoclastic bone resorption.
 
 The selective action of bisphosphonates on bone is based on their high affinity for mineralised bone, but the precise molecular mechanism leading to the inhibition of osteoclastic activity is still unclear.
 In long-term animal studies, zoledronic acid inhibits bone resorption without adversely affecting the formation, mineralisation or mechanical properties of bone.
+
 In addition to being a potent inhibitor of bone resorption, zoledronic acid also possesses several anti-tumour properties that could contribute to its overall efficacy in the treatment of metastatic bone disease.
 The following properties have been demonstrated in preclinical studies:
 
@@ -21,7 +22,6 @@ Patients receiving zoledronic acid 4 mg reported less increase in pain than thos
 Fewer zoledronic acid 4 mg patients suffered pathological fractures.
 The treatment effects were less pronounced in patients with blastic lesions.
 Efficacy results are provided in Table 2.
-
 In a second study including solid tumours other than breast or prostate cancer, zoledronic acid 4 mg significantly reduced the proportion of patients with an SRE, delayed the median time to first SRE by > 2 months, and reduced the skeletal morbidity rate.
 Multiple event analysis showed 30.7% risk reduction in developing SREs in the zoledronic acid 4 mg group compared with placebo.
 Efficacy results are provided in Table 3.
