@@ -16,7 +16,6 @@ Cytotoxic agents may decrease the intestinal absorption of phenytoin.
 Careful monitoring of the phenytoin serum levels is recommended.
 It is possible that the levels of other anti-epileptic medicinal products may also be altered.
 Serum antiepileptic levels should be closely monitored during treatment with Xaluprine, making dose adjustments as necessary.
-
 Effects of other medicinal products on mercaptopurine
 When allopurinol and Xaluprine are administered concomitantly it is essential that only a quarter of the usual dose of Xaluprine is given since allopurinol decreases the rate of metabolism of 6–mercaptopurine via xanthine oxidase.
 Also other xanthine oxidase inhibitors, such as febuxostat, may decrease the metabolism of mercaptopurine and concomitant administration is not recommended as data are insufficient to determine an adequate dose reduction.

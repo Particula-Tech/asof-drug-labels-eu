@@ -38,6 +38,10 @@ Hepatosplenic T-cell lymphoma has been reported in patients with inflammatory bo
 This rare type of T cell lymphoma has an aggressive disease course and is usually fatal (see also Section 4.8).
 *inflammatory bowel disease (IBD) is an unlicensed indication
 
+Paediatric population
+Cases of symptomatic hypoglycaemia have been reported in children with ALL receiving 6-mercaptopurine (see section 4.8).
+The majority of reported cases were in children under the age of six or with a low body mass index.
+
 Interactions
 When oral anticoagulants are coadministered with 6–mercaptopurine, a reinforced monitoring of INR (International Normalised Ratio) is recommended (see section 4.5).
 

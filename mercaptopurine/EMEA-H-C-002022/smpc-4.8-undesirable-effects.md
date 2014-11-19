@@ -1,7 +1,6 @@
 # 4.8 Undesirable effects
 
 The main adverse reaction of treatment with 6–mercaptopurine is bone marrow suppression leading to leucopenia and thrombocytopenia.
-
 For mercaptopurine there is a lack of modern clinical documentation which can serve as support for accurately determining the frequency of adverse reactions.
 
 The following events have been identified as adverse reactions.
@@ -17,15 +16,18 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Immune system disorders | Uncommon | Arthralgia, skin rash, drug fever |
 |  | Rare | Facial oedema |
 | Metabolism and nutrition disorders | Common | Anorexia |
+|  | Unknown | Hypoglycaemia† |
 | Gastrointestinal disorders | Common | Stomatitis, diarrhoea, vomiting, nausea |
 |  | Uncommon | Pancreatitis, oral ulceration |
 |  | Very rare | Intestinal ulceration |
 | Hepatobiliary disorders | Common | Biliary stasis, hepatotoxicity |
 |  | Uncommon | Hepatic necrosis |
 | Skin and subcutaneous tissue disorders | Rare | Alopecia |
+|  | Unknown | Photosensitivity reaction |
 | Reproductive system and breast disorders | Rare | Transient oligospermia |
 
-*In patients with inflammatory bowel disease (IBD), an unlicensed indication.
+* In patients with inflammatory bowel disease (IBD), an unlicensed indication.
+† In the paediatric population.
 
 6–mercaptopurine is hepatotoxic in animals and man.
 The histological findings in man have shown hepatic necrosis and biliary stasis
@@ -34,3 +36,8 @@ The incidence of hepatotoxicity varies considerably and can occur with any dose 
 
 Monitoring of liver function tests may allow early detection of hepatotoxicity.
 This is usually reversible if 6–mercaptopurine therapy is stopped soon enough but fatal liver damage has occurred.
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

@@ -8,6 +8,7 @@ If Xaluprine comes into contact with skin or mucosa, it should be washed immedia
 Spillages must be wiped immediately.
 
 Women who are pregnant, planning to be or breastfeeding should not handle Xaluprine.
+
 Parents / care givers and patients should be advised to keep Xaluprine out of the reach and sight of children, preferably in a locked cupboard.
 Accidental ingestion can be lethal for children.
 
