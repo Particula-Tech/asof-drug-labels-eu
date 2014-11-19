@@ -1,6 +1,6 @@
 # 4.4 Special warnings and precautions for use
 
-Efficacy and safety of Renagel has not been studied in patients with :
+Efficacy and safety of Renagel has not been studied in patients with:
 
 - swallowing disorders
 - active inflammatory bowel disease
@@ -10,9 +10,9 @@ Efficacy and safety of Renagel has not been studied in patients with :
 Therefore caution should be exercised when Renagel is used in patients with these disorders.
 
 Intestinal obstruction and ileus/subileus
-In very rare cases, intestinal obstruction and ileus/subileus have been observed in patients during treatment with Renagel.
+In very rare cases, intestinal obstruction and ileus/subileus have been observed in patients during treatment with sevelamer hydrochloride.
 Constipation may be a preceding symptom.
-Patients who are constipated should be monitored carefully while being treated with Renagel.
+Patients who are constipated should be monitored carefully while being treated with sevelamer hydrochloride.
 Renagel treatment should be re-evaluated in patients who develop severe constipation or other severe gastrointestinal symptoms.
 
 Fat-soluble vitamins
@@ -45,26 +45,17 @@ Uncommon reports of difficulty swallowing the Renagel tablet have been reported.
 Many of these cases involved patients with co-morbid conditions including swallowing disorders or oesophageal abnormalities.
 Caution should be exercised when Renagel is used in patients with difficulty swallowing.
 
-Anti-arrhythmic and anti-seizure medicinal products
-Caution should be exercised when prescribing Renagel to patients also taking anti-arrhythmias and anti-seizure medicinal products (see section 4.5).
-
 Hypothyroidism
-Closer monitoring of patients with hypothyroidism co-administered with sevelamer hydrochloride and levothryroxine is recommended (see section 4.5).
+Closer monitoring of patients with hypothyroidism co-administered with sevelamer hydrochloride and levothyroxine is recommended (see section 4.5).
 
 Long term chronic treatment
-As data on the chronic use of sevelamer for over one year are not yet available, potential absorption and accumulation of sevelamer during long-term chronic treatment cannot be totally excluded (see section 5.2 Pharmacokinetics).
+As data on the chronic use of sevelamer for over one year are not yet available, potential absorption and accumulation of sevelamer during long-term chronic treatment cannot be totally excluded (see section 5.2).
 
 Hyperparathyroidism
 Renagel alone is not indicated for the control of hyperparathyroidism.
-In patients with secondary hyperparathyroidism Renagel should be used within the context of a multiple therapeutic approach, which could include calcium supplements, 1,25 - dihydroxy Vitamin D3 or one of its analogues to lower the intact parathyroid hormone (iPTH) levels.
+In patients with secondary hyperparathyroidism Renagel should be used within the context of a multiple therapeutic approach, which could include calcium supplements, 1,25-dihydroxy Vitamin D3 or one of its analogues to lower the intact parathyroid hormone (iPTH) levels.
 
 Serum chloride
 Serum chloride may increase during Renagel treatment as chloride may be exchanged for phosphorus in the intestinal lumen.
 Although no clinically significant serum chloride increase has been observed in the clinical studies, serum chloride should be monitored as is done in the routine follow-up of a dialysis patient.
-One gram of Renagel contains approximately 180 mg (5.1mEq) chloride.
-
-[Renagel 800 mg film-coated tablets]
-
-- gastrointestinal motility disorders including untreated or severe gastroparesis, diverticulosis, retention of gastric contents and abnormal or irregular bowel motion
-
-Many of these cases involved patients with co-morbid conditions including swallowing disorders or oroesophageal abnormalities.
+One gram of Renagel contains approximately 180 mg (5.1 mEq) chloride.

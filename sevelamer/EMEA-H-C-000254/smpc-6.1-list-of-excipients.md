@@ -5,10 +5,10 @@ Silica, colloidal anhydrous
 Stearic acid
 
 Film-coating:
-Hypromellose
+Hypromellose (E464)
 Diacetylated monoglycerides
 
 Printing ink:
 Iron oxide black (E172)
 Propylene glycol
-Hypromellose
+Hypromellose (E464)

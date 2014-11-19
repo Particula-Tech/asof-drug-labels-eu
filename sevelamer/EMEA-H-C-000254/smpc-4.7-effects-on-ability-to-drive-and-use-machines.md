@@ -1,3 +1,3 @@
 # 4.7 Effects on ability to drive and use machines
 
-No studies on the effects on ability to drive and use machines have been performed.
+Sevelamer has no or negligible influence on the ability to drive and use machines.

@@ -1,23 +1,26 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
+Dialysis
 Interaction studies have not been conducted in patients on dialysis.
 
-In interaction studies in healthy volunteers, Renagel decreased the bioavailability of ciprofloxacin by approximately 50% when co-administered with Renagel in a single dose study.
+Ciprofloxacin
+In interaction studies in healthy volunteers, sevelamer hydrochloride decreased the bioavailability of ciprofloxacin by approximately 50% when co-administered with Renagel in a single dose study.
 Consequently, Renagel should not be taken simultaneously with ciprofloxacin.
 
-Patients taking anti-arrhythmic medications for the control of arrhythmias and anti-seizure medications for the control of seizure disorders were excluded from clinical trials.
-Caution should be exercised when prescribing Renagel to patients also taking these medications.
-During post marketing experience, very rare cases of increased TSH levels have been reported in patients co-administered Renagel and levothyroxine.
-Closer monitoring of TSH levels is therefore recommended in patients receiving both medications.
+Anti-arrhythmics and anti-seizure medicinal products
+Patients taking anti-arrhythmic medicinal products for the control of arrhythmias and anti-seizure medicinal products for the control of seizure disorders were excluded from clinical trials.
+Caution should be exercised when prescribing sevelamer hydrochloride to patients also taking these medicinal products.
+Levothyroxine
+During post marketing experience, very rare cases of increased thyroid stimulating hormone (TSH) levels have been reported in patients co-administered sevelamer hydrochloride and levothyroxine.
+Closer monitoring of TSH levels is therefore recommended in patients receiving both medicinal products.
 
-Reduced levels of ciclosporin, mycophenolate mofetil and tacrolimus have been reported in transplant patients when coadministered with Renagel without any clinical consequences (i.e graft rejection).
+Ciclosporin, mycophenolate mofetil and tacrolimus in transplant patients
+Reduced levels of ciclosporin, mycophenolate mofetil and tacrolimus have been reported in transplant patients when coadministered with sevelamer hydrochloride without any clinical consequences (i.e graft rejection).
 The possibility of an interaction cannot be excluded and a close monitoring of blood concentrations of mycophenolate mofetil, ciclosporin and tacrolimus should be considered during the use of combination and after its withdrawal.
 
+Digoxin, warfarin, enalapril or metoprolol
 In interaction studies in healthy volunteers, Renagel had no effect on the bioavailability of digoxin, warfarin, enalapril or metoprolol.
 
-Renagel is not absorbed and may affect the bioavailbility of other medicinal products.
-When administering any medicinal product where a reduction in the bioavailability could have a clinically significant effect on safety or efficacy, the medicinal product should be administered at least one hour before or three hours after Renagel, or the physician should consider monitoring blood levels.
-
-[Renagel 800 mg film-coated tablets]
-
+Bioavailability
 Renagel is not absorbed and may affect the bioavailability of other medicinal products.
+When administering any medicinal product where a reduction in the bioavailability could have a clinically significant effect on safety or efficacy, the medicinal product should be administered at least one hour before or three hours after Renagel, or the physician should consider monitoring blood levels.
