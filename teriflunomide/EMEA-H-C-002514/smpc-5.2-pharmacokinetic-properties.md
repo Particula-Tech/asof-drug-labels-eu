@@ -40,6 +40,7 @@ Characteristics in specific groups of patients
 Gender, Elderly, Paediatric patients
 Several sources of intrinsic variability were identified in healthy subjects and MS patients based on the PopPK analysis: age, body weight, gender, race, and albumin and bilirubin levels.
 Nevertheless, their impact remains limited (≤31%).
+
 Hepatic impairment
 Mild and moderate hepatic impairment had no impact on the pharmacokinetic of teriflunomide.
 Therefore no dose adjustment is anticipated in mild and moderate hepatic-impaired patients.

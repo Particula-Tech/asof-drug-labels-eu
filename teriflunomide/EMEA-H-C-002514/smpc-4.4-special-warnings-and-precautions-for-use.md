@@ -19,6 +19,7 @@ Accelerated elimination procedure
 Teriflunomide is eliminated slowly from the plasma.
 Without an accelerated elimination procedure, it takes an average of 8 months to reach plasma concentrations less than 0.02 mg/l, although due to individual variation in substance clearance it may take up to 2 years.
 An accelerated elimination procedure can be used at any time after discontinuation of teriflunomide (see section 4.6 and 5.2 for procedural details).
+
 Hepatic effects
 Elevations of liver enzymes have been observed in patients receiving teriflunomide (see section 4.8).
 These elevations occurred mostly within the first 6 months of treatment.
@@ -56,13 +57,14 @@ Pulmonary symptoms, such as persistent cough and dyspnoea, may be a reason for d
 Haematological effects
 A mean decrease less than 15% from baseline affecting white blood cell count has been observed (see section 4.8).
 As a precaution, a recent complete blood cell count, including differential white blood cell count and platelets, should be available before the initiation of treatment with AUBAGIO and the complete blood cell count should be assessed during AUBAGIO therapy as indicated by clinical signs and symptoms (e.g., infections).
+
 In patients with pre-existing anaemia, leucopenia, and /or thrombocytopenia as well as in patients with impaired bone marrow function or those at risk of bone marrow suppression, the risk of haematological disorders is increased.
 If such effects occur, the accelerated elimination procedure (see above) to reduce plasma levels of teriflunomide should be considered.
 In cases of severe haematological reactions, including pancytopenia, AUBAGIO and any concomitant myelosuppressive treatment must be discontinued and a teriflunomide accelerated elimination procedure should be considered.
 
 Skin reactions
 No cases of severe skins reactions have been reported with teriflunomide in the clinical trials.
-In patients treated with leflunomide, the parent compound, very rare cases of Stevens-Johnson syndrome or toxic epidermal necrolysis have been reported.
+In patients treated with leflunomide, the parent compound, very rare cases of Stevens-Johnson syndrome or toxic epidermal necrolysis and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have been reported.
 In case of ulcerative stomatitis, teriflunomide administration should be discontinued.
 If skin and /or mucosal reactions are observed which raise the suspicion of severe generalised major skin reactions (Stevens-Johnson syndrome, or toxic epidermal necrolysis-Lyell’s syndrome), teriflunomide and any other possibly associated treatment must be discontinued, and an accelerated procedure initiated immediately.
 In such cases patients should not be re-exposed to teriflunomide (see section 4.3).
@@ -74,10 +76,8 @@ However, there was a wide variability in final outcome, i.e. in some patients th
 If a patient taking AUBAGIO develops a confirmed peripheral neuropathy, consider discontinuing AUBAGIO therapy and performing the accelerated elimination procedure.
 
 Vaccination
-In a clinical study, teriflunomide-treated patients mounted appropriate immune responses to a seasonal influenza vaccination, consistent with the preservation of a response to booster vaccine.
-Patients reached post-vaccination antibody titres, consistent with seroprotection.
-No clinical data are available on the efficacy and safety of vaccinations regarding primary immune response to neopathogens.
-The use of live attenuated vaccines may carry a risk of infections and should, therefore, be avoided.
+Two clinical studies have shown that vaccinations to inactivated neoantigen (first vaccination), or recall antigen (reexposure) were safe and effective during AUBAGIO treatment .
+The use of live attenuated vaccines may carry a risk of infections and should therefore be avoided.
 
 Immunosuppressive or immunomodulating therapies
 As leflunomide is the parent compound of teriflunomide, co-administration of teriflunomide with leflunomide is not recommended.
@@ -94,7 +94,6 @@ Therefore, caution is required when switching patients from natalizumab to AUBAG
 Based on the half-life of fingolimod, a 6-week interval without therapy is needed for clearance from the circulation and a 1 to 2 month period is needed for lymphocytes to return to normal range following discontinuation of fingolimod.
 Starting AUBAGIO during this interval will result in concomitant exposure to fingolimod.
 This may lead to an additive effect on the immune system and caution is, therefore, indicated.
-
 In MS patients, the median t1/2z was approximately 19 days after repeated doses of 14 mg.
 If a decision is made to stop treatment with AUBAGIO, during the interval of 5 half-lives (approximately 3.5 months although may be longer in some patients), starting other therapies will result in concomitant exposure to AUBAGIO.
 This may lead to an additive effect on the immune system and caution is, therefore, indicated.

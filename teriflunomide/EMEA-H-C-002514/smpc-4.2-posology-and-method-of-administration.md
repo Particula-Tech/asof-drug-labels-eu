@@ -14,7 +14,6 @@ Renal impairment
 No dosage adjustment is necessary for patients with mild, moderate or severe renal impairment not undergoing dialysis.
 Patients with severe renal impairment undergoing dialysis were not evaluated.
 Teriflunomide is contraindicated in this population (see section 4.3).
-
 Hepatic impairment
 No dosage adjustment is necessary for patients with mild and moderate hepatic impairment.
 Teriflunomide is contraindicated in patients with severe hepatic impairment (see section 4.3).

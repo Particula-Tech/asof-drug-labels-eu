@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Selective immunosuppressants, ATC Code: L04AA31.
-
 Mechanism of action
 
 Teriflunomide is an immunomodulatory agent with anti-inflammatory properties that selectively and reversibly inhibits the mitochondrial enzyme dihydroorotate dehydrogenase (DHO-DH), required for the de novo pyrimidine synthesis.
@@ -15,6 +14,7 @@ Effects on immune cell numbers in the blood: In the placebo-controlled studies, 
 
 Potential to prolong the QT interval
 In a placebo-controlled thorough QT study performed in healthy subjects, teriflunomide at mean steady-state concentrations did not show any potential for prolonging the QTcF interval compared with placebo: the largest time matched mean difference between teriflunomide and placebo was 3.45 ms with the upper bound of the 90% CI being 6.45 ms.
+
 Effect on renal tubular functions
 In the placebo-controlled studies, mean decreases in serum uric acid at a range of 20 to 30% were observed in patients treated with teriflunomide compared to placebo.
 Mean decrease in serum phosphorus was around 10% in the teriflunomide group compared to placebo.
@@ -47,12 +47,10 @@ The mean duration of disease, since first symptoms, was 8.0 years.
 A majority of patients (67.2%) had not received disease-modifying therapy during the 2 years before study entry.
 The study results are shown in Table 1.
 
-Table 1 - Main Results ( for the approved dose, ITT population)
+Table 1 ­ Main Results ( for the approved dose, ITT population)
 
 TEMSO-study TOWER-study
-Teriflunomide Teriflunomide
-Placebo Placebo
-14 mg 14 mg
+Teriflunomide 14 mg Placebo Teriflunomide 14 mg Placebo
 N 358 363 370 388
 Clinical Outcomes
 Annualised relapse rate 0.37 0.54 0.32 0.50
@@ -63,13 +61,8 @@ Hazard ratio (CI95%) 0.72, (0.58, 0.89)∗∗ 0.63, (0.50, 0.79)∗∗∗∗
 Disability Progression 20.2% 27.3% 15.8% 19.7%
 week 108
 Hazard ratio (CI95%) 0.70 (0.51, 0.97)∗ 0.68 (0.47, 1.00)∗
-6-month Sustained 13.8% 18.7% 11.7% 11.9%
-TEMSO-study TOWER-study
-Teriflunomide Teriflunomide
-Placebo Placebo
-14 mg 14 mg
-N 358 363 370 388
-Disability Progression
+6-month Sustained
+Disability Progression 13.8% 18.7% 11.7% 11.9%
 week 108
 Hazard ratio (CI95%) 0.75 (0.50, 1.11) 0.84 (0.53, 1.33)
 MRI endpoints
@@ -78,13 +71,9 @@ Change relative to placebo 67%∗∗∗
 Mean Number of Gd-
 enhancing lesions at 0.38 1.18
 week 108 Not measured
-Change relative to -0.80 (-1.20, -0.39)∗∗∗∗
-placebo (CI95%)
-Number of unique active
-0.75 2.46
-lesions /scan
-Change relative to 69%, (59%; 77%)∗∗∗∗
-placebo (CI95%)
+Change relative to placebo (CI95%) -0.80 (-1.20, -0.39)∗∗∗∗
+Number of unique active lesions /scan 0.75 2.46
+Change relative to placebo (CI95%) 69%, (59%; 77%)∗∗∗∗
 
 ∗∗∗∗ p<0.0001 ∗∗∗ p<0.001 ∗∗ p<0.01 ∗ p<0.05 compared to placebo
 (1) BOD: burden of disease: total lesion volume (T2 and T1 hypointense) in ml
@@ -94,6 +83,12 @@ A consistent treatment effect on relapses and time to 3-month sustained disabili
 Due to the design of the study, high disease activity was defined as 2 or more relapses in one year, and with one or more Gd-enhancing lesion on brain MRI.
 No similar subgroup analysis was performed in TOWER as no MRI data were obtained.
 No data are available in patients who have failed to respond to a full and adequate course (normally at least one year of treatment) of beta-interferon, having had at least 1 relapse in the previous year while on therapy, and at least 9 T2-hyperintense lesions in cranial MRI or at least 1 Gd-enhancing lesion, or patients having an unchanged or increased relapse rate in the prior year as compared to the previous 2 years.
+
+TOPIC was a double-blind, placebo-controlled study that evaluated once daily doses of teriflunomide 7 mg and 14 mg for up to 108 weeks in patients with first clinical demyelinating event (mean age 32.1 years).
+The primary endpoint was time to a second clinical episode (relapse).
+A total of 618 patients were randomized to receive 7 mg (n=205) or 14 mg (n=216) of teriflunomide or placebo (n=197).
+The risk of a second clinical attack over 2 two years was 35.9% in the placebo group and 24.0% in the teriflunomide 14 mg treatment group (hazard ratio: 0.57, 95% confidence interval: 0.38 to 0.87, p=0.0087).
+The results from the TOPIC study confirmed the efficacy of teriflunomide in RRMS (including early RRMS with first clinical demyelinating event and MRI lesions disseminated in time and space).
 
 Teriflunomide effectiveness was compared to that of a subcutaneous interferon beta-1a (at the recommended dose of 44 µg three times a week) in 324 randomised patients in a study (TENERE) with minimum treatment duration of 48 weeks (maximum 114 weeks).
 The risk of failure (confirmed relapse or permanent treatment discontinuation whichever came first) was the primary endpoint.

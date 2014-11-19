@@ -16,7 +16,7 @@ Therefore, medicinal products metabolised by CYP2C8, such as repaglinide, paclit
 
 Effect of teriflunomide on oral contraceptive: 0.03 mg ethinylestradiol and 0.15 mg levonorgestrel
 There was an increase in mean ethinylestradiol Cmax and AUC0-24 (1.58- and 1.54-fold, respectively) and levonorgestrel Cmax and AUC0-24 (1.33- and 1.41-fold, respectively) following repeated doses of teriflunomide.
-While this interaction of teriflunomide is not expected to adversely impact the efficacy of oral contraceptives, consideration should be given to the type or dose of oral contraceptives used in combination with teriflunomide.
+While this interaction of teriflunomide is not expected to adversely impact the efficacy of oral contraceptives, it should be considered when selecting or adjusting oral contraceptive treatment used in combination with teriflunomide.
 
 Effect of teriflunomide on CYP1A2 substrate: caffeine
 Repeated doses of teriflunomide decreased mean Cmax and AUC of caffeine (CYP1A2 substrate) by 18% and 55%, respectively, suggesting that teriflunomide may be a weak inducer of CYP1A2 in vivo.
