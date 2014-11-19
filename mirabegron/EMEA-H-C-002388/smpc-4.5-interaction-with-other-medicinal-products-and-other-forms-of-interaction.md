@@ -24,9 +24,9 @@ Clinically relevant drug interactions between mirabegron and medicinal products 
 Effect of enzyme inhibitors
 Mirabegron exposure (AUC) was increased 1.8-fold in the presence of the strong inhibitor of CYP3A/P-gp ketoconazole in healthy volunteers.
 No dose-adjustment is needed when Betmiga is combined with inhibitors of CYP3A and/or P-gp.
-However, in patients with mild to moderate renal impairment (GFR 30 to 89 mL/min/1.73 m2) or mild hepatic impairment (Child-Pugh Class A) concomitantly receiving strong CYP3A inhibitors, such as itraconazole, ketoconazole, ritonavir and clarithromycin, the recommended dose is 25 mg once daily with or without food (see section 4.2).
-Betmiga is not recommended in patients with severe renal impairment (GFR
-15 to 29 mL/min/1.73 m2) or patients with moderate hepatic impairment (Child-Pugh Class B) concomitantly receiving strong CYP3A inhibitors (see sections 4.2 and 4.4).
+However, in patients with mild to moderate renal impairment (GFR
+30 to 89 mL/min/1.73 m2) or mild hepatic impairment (Child-Pugh Class A) concomitantly receiving strong CYP3A inhibitors, such as itraconazole, ketoconazole, ritonavir and clarithromycin, the recommended dose is 25 mg once daily with or without food (see section 4.2).
+Betmiga is not recommended in patients with severe renal impairment (GFR 15 to 29 mL/min/1.73 m2) or patients with moderate hepatic impairment (Child-Pugh Class B) concomitantly receiving strong CYP3A inhibitors (see sections 4.2 and 4.4).
 
 Effect of enzyme inducers
 Substances that are inducers of CYP3A or P-gp decrease the plasma concentrations of mirabegron.
