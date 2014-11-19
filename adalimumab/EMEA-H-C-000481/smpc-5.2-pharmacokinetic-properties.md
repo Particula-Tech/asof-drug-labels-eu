@@ -5,11 +5,13 @@ Absorption and distribution
 Following the administration of 24 mg/m2 (up to a maximum of 40 mg) subcutaneously every other week to patients with polyarticular juvenile idiopathic arthritis (JIA) who were 4 to 17 years the mean trough steady-state (values measured from Week 20 to 48) serum adalimumab concentration was 5.6 ± 5.6 µg/ml (102% CV) for adalimumab without concomitant methotrexate and 10.9 ± 5.2 µg/ml (47.7% CV) with concomitant methotrexate.
 
 In patients with polyarticular JIA who were 2 to <4 years old or aged 4 and above weighing <15 kg dosed with adalimumab 24 mg/m2, the mean trough steady-state serum adalimumab concentrations was 6.0 ± 6.1 µg/ml (101% CV) for adalimumab without concomitant methotrexate and 7.9 ± 5.6 µg/ml (71.2% CV) with concomitant methotrexate.
+
 Following the administration of 24 mg/m2 (up to a maximum of 40 mg) subcutaneously every other week to patients with enthesitis-related arthritis who were 6 to 17 years, the mean trough steady-state (values measured at Week 24) serum adalimumab concentrations were 8.8 ± 6.6 μg/mL for adalimumab without concomitant methotrexate and 11.8 ± 4.3 μg/mL with concomitant methotrexate.
 
 In paediatric patients with moderate to severe CD, the open-label adalimumab induction dose was 160/80 mg or 80/40 mg at Weeks 0 and 2, respectively, dependent on a body weight cut-off of 40 kg.
 At Week 4, patients were randomised 1:1 to either the Standard Dose (40/20 mg eow) or Low Dose (20/10 mg eow) maintenance treatment groups based on their body weight.
-The mean (±SD) serum adalimumab trough concentrations achieved at Week 4 were 15.7±6.6 µg/mL for patients ≥ 40 kg (160/80 mg) and 10.6±6.1 µg/mL for patients < 40 kg (80/40 mg).
+The mean (±SD) serum adalimumab trough concentrations achieved at Week 4 were 15.7±6.6 µg/mL for patients
+≥ 40 kg (160/80 mg) and 10.6±6.1 µg/mL for patients < 40 kg (80/40 mg).
 
 For patients who stayed on their randomised therapy, the mean (±SD) adalimumab trough concentrations at Week 52 were 9.5±5.6 µg/mL for the Standard Dose group and 3.5±2.2 µg/mL for the Low Dose group.
 The mean trough concentrations were maintained in patients who continued to receive adalimumab treatment eow for 52 weeks.

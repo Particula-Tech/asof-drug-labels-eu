@@ -1,9 +1,9 @@
 # 4.2 Posology and method of administration
 
 Posology
-
-Humira treatment should be initiated and supervised by specialist physicians experienced in the diagnosis and treatment of conditions for which Humira is indicated.
+Humira treatment should be initiated and supervised by specialist physicians experienced in the diagnosis and treatment of conditons for which Humira is indicated.
 Patients treated with Humira should be given the special alert card.
+
 After proper training in injection technique, patients may self-inject with Humira if their physician determines that it is appropriate and with medical follow-up as necessary.
 
 Paediatric Population
@@ -47,11 +47,11 @@ Continued therapy should be carefully reconsidered in a patient not responding w
 There is no relevant use of Humira in patients aged less than 2 years in this indication.
 
 Enthesitis-related arthritis
-
 The recommended dose of Humira for patients with enthesitis-related arthritis 6 years of age and older is 24 mg/m² body surface area up to a maximum single dose of 40 mg adalimumab administered every other week via subcutaneous injection.
 The volume for injection is selected based on the patients' height and weight (Table 1).
 
 Humira has not been studied in patients with enthesitis-related arthritis aged less than 6 years.
+
 Paediatric Crohn's disease
 
 Paediatric Crohn's disease patients < 40 kg:
@@ -88,6 +88,8 @@ Full instructions for use are provided in the package leaflet.
 
 [Humira 40 mg solution for injection in pre-filled syringe]
 
+Humira treatment should be initiated and supervised by specialist physicians experienced in the diagnosis and treatment of conditions for which Humira is indicated.
+
 During treatment with Humira, other concomitant therapies (e.g., corticosteroids and/or immunomodulatory agents) should be optimised.
 
 Rheumatoid arthritis
@@ -115,7 +117,6 @@ For all of the above indications, available data suggest that the clinical respo
 Psoriasis
 
 The recommended dose of Humira for adult patients is an initial dose of 80 mg administered subcutaneously, followed by 40 mg subcutaneously given every other week starting one week after the initial dose.
-
 Continued therapy beyond 16 weeks should be carefully reconsidered in a patient not responding within this time period.
 
 Crohn’s disease

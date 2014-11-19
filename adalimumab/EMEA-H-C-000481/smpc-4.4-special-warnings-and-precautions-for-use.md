@@ -27,7 +27,6 @@ Tuberculosis:
 
 Tuberculosis, including reactivation and new onset of tuberculosis, has been reported in patients receiving Humira.
 Reports included cases of pulmonary and extra-pulmonary (i.e. disseminated) tuberculosis.
-
 Before initiation of therapy with Humira, all patients must be evaluated for both active or inactive (“latent”) tuberculosis infection.
 This evaluation should include a detailed medical assessment of patient history of tuberculosis or possible previous exposure to people with active tuberculosis and previous and/or current immunosuppressive therapy.
 Appropriate screening tests (i.e. tuberculin skin test and chest X-ray) should be performed in all patients (local recommendations may apply).
@@ -37,6 +36,7 @@ Prescribers are reminded of the risk of false negative tuberculin skin test resu
 If active tuberculosis is diagnosed, Humira therapy must not be initiated (see section 4.3).
 
 In all situations described below, the benefit/risk balance of therapy should be very carefully considered.
+
 If latent tuberculosis is suspected, a physician with expertise in the treatment of tuberculosis should be consulted.
 
 If latent tuberculosis is diagnosed, appropriate treatment must be started with anti-tuberculosis prophylaxis treatment before the initiation of Humira, and in accordance with local recommendations.
@@ -71,6 +71,7 @@ Neurological events
 
 TNF-antagonists including Humira have been associated in rare instances with new onset or exacerbation of clinical symptoms and/or radiographic evidence of central nervous system demyelinating disease including multiple sclerosis and optic neuritis, and peripheral demyelinating disease, including Guillain-Barré syndrome.
 Prescribers should exercise caution in considering the use of Humira in patients with pre-existing or recent-onset central or peripheral nervous system demyelinating disorders.
+
 Allergic reactions
 
 Serious allergic reactions associated with Humira were rare during clinical trials.
@@ -110,6 +111,7 @@ Melanoma and Merkel cell carcinoma have also been reported in patients treated w
 In an exploratory clinical trial evaluating the use of another TNF-antagonist, infliximab, in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies, mostly in the lung or head and neck, were reported in infliximab-treated patients compared with control patients.
 All patients had a history of heavy smoking.
 Therefore, caution should be exercised when using any TNF-antagonist in COPD patients, as well as in patients with increased risk for malignancy due to heavy smoking.
+
 With current data it is not known if adalimumab treatment influences the risk for developing dysplasia or colon cancer.
 All patients with ulcerative colitis who are at increased risk for dysplasia or colon carcinoma (for example, patients with long-standing ulcerative colitis or primary sclerosing cholangitis), or who had a prior history of dysplasia or colon carcinoma should be screened for dysplasia at regular intervals before therapy and throughout their disease course.
 This evaluation should include colonoscopy and biopsies per local recommendations.
@@ -130,7 +132,6 @@ It is recommended that paediatric patients, if possible, be brought up to date w
 
 Patients on Humira may receive concurrent vaccinations, except for live vaccines.
 Administration of live vaccines to infants exposed to adalimumab in utero is not recommended for 5 months following the mother’s last adalimumab injection during pregnancy.
-
 Congestive heart failure
 
 In a clinical trial with another TNF-antagonist worsening congestive heart failure and increased mortality due to congestive heart failure have been observed.
@@ -151,6 +152,7 @@ Serious infections were seen in clinical studies with concurrent use of anakinra
 Because of the nature of the adverse events seen with the combination of etanercept and anakinra therapy, similar toxicities may also result from the combination of anakinra and other TNF-antagonists.
 Therefore, the combination of adalimumab and anakinra is not recommended.
 (See section 4.5).
+
 Concomitant administration of adalimumab with other biologic DMARDS (e.g, anakinra and abatacept) or other TNF-antagonists is not recommended based upon the possible increased risk for infections, including serious infections and other potential pharmacological interactions.
 (See section 4.5).
 

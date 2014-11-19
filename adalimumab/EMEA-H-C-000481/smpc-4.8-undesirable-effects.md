@@ -16,6 +16,7 @@ Fatal and life-threatening infections (including sepsis, opportunistic infection
 
 Serious haematological, neurological and autoimmune reactions have also been reported.
 These include rare reports of pancytopenia, aplastic anaemia, central and peripheral demyelinating events and reports of lupus, lupus-related conditions and Stevens-Johnson syndrome.
+
 Paediatric population
 
 Undesirable effects in paediatric patients
@@ -29,7 +30,6 @@ The following list of adverse reactions is based on experience from clinical tri
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 The highest frequency seen among the various indications has been included.
 An asterisk (*) appears in the SOC column if further information is found elsewhere in sections 4.3, 4.4 and 4.8.
-
 Table 2
 Undesirable Effects
 
@@ -40,14 +40,14 @@ Undesirable Effects
 |  | Uncommon | neurological infections (including viral meningitis), opportunistic infections and tuberculosis (including coccidioidomycosis, histoplasmosis and mycobacterium avium complex infection), bacterial infections, eye infections, diverticulitis1) |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Common | skin cancer excluding melanoma (including basal cell carcinoma and squamous cell carcinoma), benign neoplasm |
 |  | Uncommon | lymphoma**, solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), melanoma** |
-|  | Rare Not known | leukaemia1) |
-|  |  | hepatosplenic T-cell lymphoma1) Merkel cell carcinoma (neuroendocrine carcinoma of the skin)1) |
+|  | Rare | leukaemia1) |
+|  | Not known | hepatosplenic T-cell lymphoma1) Merkel cell carcinoma (neuroendocrine carcinoma of the skin)1) |
 | Blood and the lymphatic system disorders* | Very common | leucopaenia (including neutropaenia and agranulocytosis), anaemia |
 |  | Common | leucocytosis, thrombocytopaenia |
 |  | Uncommon | idiopathic thrombocytopaenic purpura |
 |  | Rare | pancytopaenia |
 | Immune system disorders* | Common | hypersensitivity, allergies (including seasonal allergy) |
-|  | Uncommon | sarcoidosis1) |
+|  | Uncommon | sarcoidosis1), vasculitis |
 |  | Rare | anaphylaxis1) |
 | Metabolism and nutrition disorders | Very common | lipids increased |
 |  | Common | hypokalaemia, uric acid increased, blood sodium abnormal, hypocalcaemia, hyperglycaemia, hypophosphataemia, dehydration |
@@ -104,7 +104,6 @@ Injection site reactions
 
 In the pivotal controlled trials in adults and children, 13.6% of patients treated with Humira developed injection site reactions (erythema and/or itching, haemorrhage, pain or swelling), compared to 7.6% of patients receiving placebo or active control.
 Injection site reactions generally did not necessitate discontinuation of the medicinal product.
-
 Infections
 
 In the pivotal controlled trials in adults and children, the rate of infection was 1.52 per patient year in the Humira treated patients and 1.45 per patient year in the placebo and active control-treated patients.
@@ -131,7 +130,6 @@ The observed rate of non-melanoma skin cancers is approximately 10.3 per 1,000 p
 
 In post-marketing experience from January 2003 to December 2010, predominantly in patients with rheumatoid arthritis, the reported rate of malignancies is approximately 2.7 per 1,000 patient treatment years.
 The reported rates for non-melanoma skin cancers and lymphomas are approximately 0.2 and 0.3 per 1,000 patient treatment years, respectively (see section 4.4).
-
 Rare post-marketing cases of hepatosplenic T-cell lymphoma have been reported in patients treated with adalimumab (see section 4.4).
 
 Autoantibodies
@@ -153,6 +151,7 @@ No ALT elevations ≥ 3 x ULN occurred in the Phase 3 trial of Humira in patient
 
 In controlled Phase 3 trials of Humira in patients with Crohn’s disease and ulcerative colitis with a control period reanging from 4 to 52 weeks.
 ALT elevations ≥ 3 x ULN occurred in 0.9% of Humira-treated patients and 0.9% of controlled-treated patients.
+
 In the Phase 3 trial of Humira in patients with paediatric Crohn’s disease which evaluated efficacy and safety of two body weight adjusted maintenance dose regimens following body weight adjusted induction therapy up to 52 weeks of treatment, ALT elevations ≥ 3 x ULN occurred in 2.6% of patients all of whom were exposed to concomitant immunosuppressants at baseline.
 
 Across all indications in clinical trials patients with raised ALT were asymptomatic and in most cases elevations were transient and resolved on continued treatment.
@@ -186,7 +185,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 |  | Uncommon | idiopathic thrombocytopaenic purpura |
 |  | Rare | Pancytopaenia |
 | Immune system disorders* | Common | hypersensitivity, allergies (including seasonal allergy) |
-|  | Uncommon | sarcoidosis1) |
+|  | Uncommon | sarcoidosis1), vasculitis |
 |  | Rare | anaphylaxis 1) |
 | Metabolism and nutrition disorders | Very common | lipids increased |
 |  | Common | hypokalaemia, uric acid increased, blood sodium abnormal, hypocalcaemia, hyperglycaemia, hypophosphataemia, dehydration |
@@ -227,8 +226,8 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 |  | Uncommon | nocturia |
 | Reproductive system and breast disorders | Uncommon | erectile dysfunction |
 | General disorders and administration site conditions* | Very Common | injection site reaction (including injection site erythema) |
-|  | Common | chest pain, oedema, pyrexia1) |
-|  | Uncommon | inflammation |
+|  | Common | chest pain, |
+|  | Uncommon | oedema, pyrexia1) inflammation |
 | Investigations* | Common | coagulation and bleeding disorders (including activated partial thromboplastin time prolonged), autoantibody test positive (including double stranded DNA antibody), blood lactate dehydrogenase increased |
 | Injury , poisoning and procedural complications | Common | impaired healing |
 
@@ -245,16 +244,17 @@ The following list of adverse reactions is based on experience from clinical tri
 | Infections and infestations* | Very common | respiratory tract infections (including lower and upper respiratory tract infection, pneumonia, sinusitis, pharyngitis, nasopharyngitis and pneumonia herpes viral) |
 |  | Common | systemic infections (including sepsis, candidiasis and influenza), intestinal infections (including gastroenteritis viral), skin and soft tissue infections (including paronychia, cellulitis, impetigo, necrotising fasciitis and herpes zoster), ear infections, oral infections (including herpes simplex, oral herpes and tooth infections), reproductive tract infections (including vulvovaginal mycotic infection), urinary tract infections (including pyelonephritis), fungal infections, joint infections |
 |  | Uncommon | neurological infections (including viral meningitis), opportunistic infections and tuberculosis (including coccidioidomycosis, histoplasmosis and mycobacterium avium complex infection), bacterial infections, eye infections, diverticulitis 1) |
-| Neoplasms benign, | Common | skin cancer excluding melanoma (including |
-| malignant and unspecified (including cysts and polyps)* | Uncommon | basal cell carcinoma and squamous cell carcinoma) benign neoplasm lymphoma**, solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), melanoma** |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Common | skin cancer excluding melanoma (including basal cell carcinoma and squamous cell carcinoma) benign neoplasm |
+|  | Uncommon | lymphoma**, solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), melanoma** |
 |  | Rare | leukaemia1) |
-|  | Not Known | hepatosplenic T-cell lymphoma1) Merkel cell carcinoma (neuroendocrine carcinoma of the skin)1) |
+|  | Not Known | hepatosplenic T-cell lymphoma1) |
+|  |  | Merkel cell carcinoma (neuroendocrine carcinoma of the skin)1) |
 | Blood and the lymphatic system disorders* | Very common | leucopaenia (including neutropaenia and agranulocytosis), anaemia |
 |  | Common | leucocytosis, thrombocytopaenia |
 |  | Uncommon | idiopathic thrombocytopaenic purpura |
 |  | Rare | pancytopaenia |
 | Immune system disorders* | Common | hypersensitivity, allergies (including seasonal allergy) |
-|  | Uncommon | sarcoidosis1) |
+|  | Uncommon | sarcoidosis1), vasculitis |
 |  | Rare | anaphylaxis1) |
 | Metabolism and nutrition disorders | Very common | lipids increased |
 |  | Common | hypokalaemia, uric acid increased, blood sodium abnormal, hypocalcaemia hyperglycaemia, hypophosphataemia, dehydration |
@@ -304,6 +304,8 @@ In controlled and open label adult and paediatric studies with Humira, serious i
 
 [Humira 40 mg solution for injection in pre-filled pen]
 
+The proportion of patients who discontinued treatment due to adverse events during the double-blind, controlled portion of pivotal studies was 6.1% for patients taking Humira and 55.7% for control treated patients.
+
 Serious adverse reactions have also been reported for Humira.
 
 ≥ 1/10; common ≥ 1/100 to < 1/10; uncommon ≥ 1/1000 to < 1/100 rare ≥ 1/10,000 to < 1/1,000 and not known – cannot be estimated from the available data) in Table 2 below.
@@ -311,26 +313,27 @@ Serious adverse reactions have also been reported for Humira.
 | System Organ Class | Frequency | Adverse Reaction |
 | --- | --- | --- |
 | Infections and infestations* | Very common | respiratory tract infections (including lower and upper respiratory tract infection, pneumonia, sinusitis, pharyngitis, nasopharyngitis and pneumonia herpes viral) |
-|  | Common | systemic infections (including sepsis, candidiasis and influenza), intestinal infections (including gastroenteritis viral), skin and soft tissue infections (including paronychia, cellulitis, impetigo, necrotising fasciitis and herpes zoster), ear infections, oral infections (including herpes simplex, oral herpes and tooth infections), reproductive tract infections (including vulvovaginal mycotic infection), |
-|  | Uncommon | urinary tract infections (including pyelonephritis), fungal infections, joint infections neurological infections (including viral meningitis), opportunistic infections and tuberculosis (including coccidioidomycosis, histoplasmosis and mycobacterium avium complex infection), bacterial infections, eye infections, diverticulitis1) |
+|  | Common | systemic infections (including sepsis, candidiasis and influenza), intestinal infections (including gastroenteritis viral), skin and soft tissue infections (including paronychia, cellulitis, impetigo, necrotising fasciitis and herpes zoster), ear infections, oral infections (including herpes simplex, oral herpes and tooth infections), reproductive tract infections (including vulvovaginal mycotic infection), urinary tract infections (including pyelonephritis), fungal infections, joint infections |
+|  | Uncommon | neurological infections (including viral meningitis), opportunistic infections and tuberculosis (including coccidioidomycosis, histoplasmosis and mycobacterium avium complex infection), bacterial infections, eye infections, diverticulitis1) |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Common | skin cancer excluding melanoma (including basal cell carcinoma and squamous cell carcinoma) benign neoplasm, |
 |  | Uncommon | lymphoma**, solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), melanoma** |
 |  | Rare | leukaemia1) |
-|  | Not Known | hepatosplenic T-cell lymphoma1) Merkel cell carcinoma (neuroendocrine carcinoma of the skin)1) |
+|  | Not Known | hepatosplenic T-cell lymphoma1) |
+|  |  | Merkel cell carcinoma (neuroendocrine carcinoma of the skin)1) |
 | Blood and the lymphatic system disorders* | Very common | leucopaenia (including neutropaenia and agranulocytosis), anaemia |
 |  | Common | leucocytosis, thrombocytopaenia |
 |  | Uncommon | idiopathic thrombocytopaenic purpura |
 |  | Rare | pancytopaenia |
 | Immune system disorders* | Common | hypersensitivity, allergies (including seasonal allergy) |
-|  | Uncommon | sarcoidosis1) |
+|  | Uncommon | sarcoidosis1), vasculitis |
 |  | Rare | anaphylaxis1) |
 | Metabolism and nutrition disorders | Very common | lipids increased |
 |  | Common | hypokalaemia, uric acid increased, blood sodium abnormal, hypocalcaemia hyperglycaemia, hypophosphataemia, dehydration |
 | Psychiatric disorders | Common | mood alterations (including depression), anxiety, insomnia |
 | Nervous system disorders* | Very common | headache |
 |  | Common | paraesthesias (including hypoaesthesia), migraine, nerve root compression |
-|  | Uncommon | cerebrovascular accident1), tremor, neuropathy |
-|  | Rare | multiple sclerosis, demyelinating disorders (e.g. optic neuritis, Guillain-Barré syndrome) 1) |
+|  | Uncommon | cerebrovascular accident1), |
+|  | Rare | tremor, neuropathy multiple sclerosis, demyelinating disorders (e.g. optic neuritis, Guillain-Barré syndrome) 1) |
 | Eye disorders | Common | visual impairment, conjunctivitis, blepharitis, eye swelling |
 |  | Uncommon | diplopia |
 | Ear and labyrinth disorders | Common | vertigo |
