@@ -100,10 +100,9 @@ The observed treatment difference (95% CI) between ivacaftor and placebo was 10.
 The effect of ivacaftor in the overall population of study 5 (including the secondary endpoints absolute change in BMI at 8 weeks of treatment and absolute change in the respiratory domain of the CFQ-R through 8 weeks of treatment) and by individual mutation (absolute change in sweat chloride and in percent predicted FEV1 at week 8) is shown in Table 4.
 Based on clinical (percent predicted FEV1) and pharmacodynamic (sweat chloride) responses to ivacaftor, efficacy in patients with the G970R mutation could not be established.
 
-Table 4: Effect of Ivacaftor for Efficacy Variables in the Overall Population and for Specific CFTR Mutations
-
-| Absolute change in percent predicted FEV1 | BMI (kg/m2) | CFQ-R respiratory domain score (points) |
+| Table 4: Effect of Ivacaftor for Efficacy Variables in the Overall Population and for Specific CFTR Mutations |  |  |
 | --- | --- | --- |
+| Absolute change in percent predicted FEV1 | BMI (kg/m2) | CFQ-R respiratory domain score (points) |
 | Through Week 8 | At Week 8 | Through Week 8 |
 | All patients (n=39) Results shown as mean (95% CI) change from baseline ivacaftor vs placebo-treated patients: |  |  |
 | 10.7 (7.3, 14.1) | 0.66 (0.34, 0.99) | 9.6 (4.5, 14.7) |
@@ -122,7 +121,8 @@ Study 3: study in patients with CF with the F508del mutation in the CFTR gene
 Study 3 (Part A) was a 16-week, 4:1 randomised, double-blind, placebo-controlled, parallel-group Phase 2 study of ivacaftor (150 mg every 12 hours) in 140 patients with CF age 12 years and older who were homozygous for the F508del mutation in the CFTR gene and who had FEV1 ≥40% predicted.
 
 The mean absolute change from baseline through Week 16 in percent predicted FEV1 (primary efficacy endpoint) was 1.5 percentage points in the ivacaftor group and -0.2 percentage points in the placebo group.
-The estimated treatment difference for ivacaftor versus placebo was 1.7 percentage points (95% CI: -0.6, 4.1); this difference was not statistically significant (P = 0.15).
+The estimated treatment difference for ivacaftor versus placebo was 1.7 percentage points
+(95% CI: -0.6, 4.1); this difference was not statistically significant (P = 0.15).
 
 Study 4: open-label extension study
 In Study 4 patients who completed treatment in studies 1 and 2 with placebo were switched to ivacaftor while patients on ivacaftor continued to receive it for a minimum of 96 weeks, i.e., length of treatment with ivacaftor was at least 96 weeks for patients in the placebo/ivacaftor group and at least 144 weeks for patients in the ivacaftor/ivacaftor group.

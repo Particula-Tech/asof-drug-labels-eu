@@ -42,7 +42,6 @@ Therefore, no dose adjustment of oral contraceptives is necessary.
 Ivacaftor has been studied with the CYP2C8 substrate rosiglitazone.
 No significant effect on rosiglitazone exposure was found.
 Therefore, no dose adjustment of CYP2C8 substrates such as rosiglitazone is necessary.
-
 Ivacaftor has been studied with the CYP2D6 substrate desipramine.
 No significant effect on desipramine exposure was found.
 Therefore, no dose adjustment of CYP2D6 substrates such as desipramine is necessary.

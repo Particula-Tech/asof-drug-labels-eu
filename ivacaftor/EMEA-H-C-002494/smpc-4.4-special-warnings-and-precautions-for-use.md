@@ -38,6 +38,11 @@ Ivacaftor is a weak CYP3A inhibitor and may modify the pharmacokinetics of medic
 In vitro studies indicated that ivacaftor has the potential to inhibit CYP2C9.
 Ivacaftor is a weak inhibitor of P-glycoprotein (P-gp) and may increase the exposure of medicinal products that are substrates for P-gp (see section 4.5).
 
+Cataracts
+Cases of non-congenital lens opacities without impact on vision have been reported in paediatric patients aged up to 12 years old treated with ivacaftor.
+Although other risk factors were present in some cases (such as corticosteroid use, exposure to radiation) a possible risk attributable to ivacaftor cannot be excluded.
+Baseline and follow-up ophthalmological examinations are recommended in paediatric patients initiating ivacaftor treatment.
+
 Lactose
 Kalydeco contains lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.

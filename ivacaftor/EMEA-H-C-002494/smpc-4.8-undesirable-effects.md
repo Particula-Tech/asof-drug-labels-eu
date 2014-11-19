@@ -5,14 +5,13 @@ The safety profile of Kalydeco is based on the pooled data from two double-blind
 
 The most common adverse reactions experienced by patients who received ivacaftor in the pooled placebo-controlled Phase 3 studies were abdominal pain (15.6% versus 12.5% on placebo), diarrhoea (12.8% versus 9.6% on placebo), dizziness (9.2% versus 1.0% on placebo), rash (12.8% versus 6.7% on placebo), upper respiratory tract reactions (including upper respiratory tract infection, nasal congestion, pharyngeal erythema, oropharyngeal pain, rhinitis, sinus congestion, and nasopharyngitis) (63.3% versus 50.0% on placebo), headache (23.9% versus 16.3% on placebo) and bacteria in sputum (7.3% versus 3.8% on placebo).
 One patient in the ivacaftor group reported a serious adverse reaction: abdominal pain.
-
 Tabulated list of adverse reactions
 Adverse reactions identified in patients who had a G551D mutation in at least one allele, age 6 years and older (pooled Phase 3 studies with 96 weeks open-label extension) are presented in Table 1 and are listed by system organ class, preferred term, and frequency.
 Adverse reactions are ranked under the MedDRA frequency classification: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000) to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); and not known (frequency cannot be estimated using the available data).
 
 | Table 1. Adverse reactions in Ivacaftor-treated patients age 6 years and older with the G551D mutation in the CFTR gene |  |  |
 | --- | --- | --- |
-| System Organ Class | Frequency Category | Adverse Reactions (Preferred term) Ivacftor N=198 |
+| System Organ Class | Frequency Category | Adverse Reactions (Preferred term) Ivacaftor N=198 |
 | Infections and infestations | very common | Nasopharyngitis |
 |  | very common | Upper respiratory tract infection |
 |  | common | Rhinitis |
@@ -47,11 +46,11 @@ Including data from all clinical trial and post-marketing data, most of these ev
 Ear and labyrinth disorders
 During 48-week placebo-controlled clinical studies, the incidence of ear and labyrinth disorders was 9.2% in Kalydeco-treated patients.
 Most events were described as mild to moderate in severity, 1 event of ear pain was described as severe; none were serious; no patients discontinued treatment because of ear and labyrinth disorders.
-
 Nervous system disorders
 Headache
 During 48-week placebo-controlled clinical studies, the incidence of headache was 23.9% in Kalydeco-treated patients.
 Including data from all clinical trial and post-marketing data, most of these events were non-serious and most of these patients did not discontinue the treatment because of headache.
+
 Dizziness
 During 48-week placebo-controlled clinical studies, the incidence of dizziness was 9.2% in the Kalydeco-treated patients.
 Including data from all clinical trial and post-marketing data, most of these events were non-serious and most of these patients did not discontinue the treatment because of dizziness.
