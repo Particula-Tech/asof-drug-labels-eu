@@ -35,7 +35,6 @@ The median CL/F in patients with weight > 100 kg was approximately 55% higher co
 The median V/F in patients with weight > 100 kg was approximately 37% higher as compared to patients with weight ≤100 kg.
 The median trough serum concentrations of ustekinumab in patients with higher weight (> 100 kg) in the 90 mg group were comparable to those in patients with lower weight (≤100 kg) in the 45 mg group.
 Similar results were obtained from a confirmatory population pharmacokinetic analysis using data from patients with psoriatic arthritis.
-
 Special populations
 No pharmacokinetic data are available in patients with impaired renal or hepatic function.
 No specific studies have been conducted in elderly patients.

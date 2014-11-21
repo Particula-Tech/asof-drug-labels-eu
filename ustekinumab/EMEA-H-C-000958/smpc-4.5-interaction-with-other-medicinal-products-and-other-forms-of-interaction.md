@@ -1,6 +1,7 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 Live vaccines should not be given concurrently with STELARA (see section 4.4).
+
 No interaction studies have been performed in humans.
 In the population pharmacokinetic analyses of the phase III studies, the effect of the most frequently used concomitant medicinal products in patients with psoriasis (including paracetamol, ibuprofen, acetylsalicylic acid, metformin, atorvastatin, levothyroxine) on pharmacokinetics of ustekinumab was explored.
 There were no indications of an interaction with these concomitantly administered medicinal products.

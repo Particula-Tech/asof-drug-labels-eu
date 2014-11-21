@@ -48,6 +48,13 @@ Immunotherapy
 STELARA has not been evaluated in patients who have undergone allergy immunotherapy.
 It is not known whether STELARA may affect allergy immunotherapy.
 
+Serious skin conditions
+In patients with psoriasis, exfoliative dermatitis has been reported following ustekinumab treatment (see section 4.8).
+Patients with plaque psoriasis may develop erythrodermic psoriasis, with symptoms that may be clinically indistinguishable from exfoliative dermatitis, as part of the natural course of their disease.
+As part of the monitoring of the patient’s psoriasis, physicians should be alert for symptoms of erythrodermic psoriasis or exfoliative dermatitis.
+If these symptoms occur, appropriate therapy should be instituted.
+STELARA should be discontinued if a drug reaction is suspected.
+
 Special populations
 Elderly patients (≥65 years)
 No overall differences in efficacy or safety in patients age 65 and older who received STELARA were observed compared to younger patients, however the number of patients aged 65 and older is not sufficient to determine whether they respond differently from younger patients.

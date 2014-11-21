@@ -19,6 +19,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 [STELARA 45 mg solution for injection in pre-filled syringe.]
 
 The solution in the STELARA pre-filled syringe should not be shaken.
+
 STELARA does not contain preservatives; therefore any unused medicinal product remaining in the syringe should not be used.
 Stelara is supplied as a sterile, single-use syringe.
 
