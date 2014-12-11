@@ -27,7 +27,7 @@ The therapeutic dose regimen should not be prescribed until the initiation dose 
 For patients receiving several respiratory therapies, the recommended order is:
 
 1.
-Bronchodilator (must be administered 5-15 minutes before Bronchitol).
+Bronchodilator
 2.
 Bronchitol
 3.
@@ -36,6 +36,8 @@ Physiotherapy/exercise
 Dornase alfa (if applicable)
 5.
 Inhaled antibiotics (if applicable)
+
+A bronchodilator must be administered 5-15 minutes before each dose of Bronchitol.
 
 The recommended dose of Bronchitol is 400 mg twice a day.
 This requires the inhalation of the contents of ten capsules via the inhaler device twice a day.
@@ -66,8 +68,8 @@ The doses should be taken morning and night with the evening dose taken 2-3 hour
 Each of the capsules is loaded into the device separately.
 The contents of the capsules are inhaled via the inhaler device with one or two breaths.
 After inhalation, each empty capsule is discarded before inserting the next capsule into the inhaler device with as little delay as possible between capsules.
-
 The inhaler device is to be replaced after one week of use.
 If the inhaler does require cleaning, ensure the device is empty then wash in warm water and before re-use, allow the inhaler to thoroughly air dry.
+
 Detailed instructions on how to use the inhaler can be found in the patient information leaflet.
 Patients should be advised to carefully read them.

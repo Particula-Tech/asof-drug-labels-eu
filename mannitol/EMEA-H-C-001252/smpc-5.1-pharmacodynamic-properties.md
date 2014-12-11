@@ -52,7 +52,7 @@ Relative % predicted (1.1, 7.5) 0.008 (0.2, 9.8) 0.040
 
 In rhDNase users in study 301 the relative change in FEV1 % predicted from baseline across 26 weeks of treatment was 2.83 (95% CI -0.62, 6.27).
 For non-users the relative change was 4.30 (95% CI 0.53, 8.07).
-In study 302 the relative change (95% CI) for rhDNase users and non-users was 3.21 (- 0.61, 7.03) and 4.73 (-1.93, 11.40), respectively.
+In study 302 the relative change (95% CI) for rhDNase users and non-users was 3.21 (-0.61, 7.03) and 4.73 (-1.93, 11.40), respectively.
 
 The number of subjects with at least one protocol defined pulmonary exacerbation (PDPE, defined by the presence of at least 4 symptoms and signs plus the use of intravenous antibiotics) was 18.1% in the mannitol arm and 28% in the control arm in study 301 (ITT population).
 In study 302 15.2% subjects in the mannitol arm and 19% in the control had a PDPE.
@@ -63,5 +63,4 @@ Paediatric population
 As stated in section 4.2, the safety and efficacy of Bronchitol in children and adolescents aged less than 18 years has not been established.
 
 In studies DPM-CF-301 and 302 relative % predicted FEV1 compared to control in children (6-11 years) was improved by 0.44% (95% CI -5.90, 6.77, N=43) and 6.1% (95% CI -1.28, 13.54, N=59) over 26 weeks (p=0.892 and 0.104) respectively.
-
 In adolescents (12-17 years) relative change in % predicted FEV1 compared to control improved by 3.31% (95% CI -2.29, 8.90, N=55) and 0.42% (95% CI -5.45, 6.29, N=94) over 26 weeks (p=0.245 and 0.888) respectively.

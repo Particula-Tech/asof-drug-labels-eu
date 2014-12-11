@@ -4,6 +4,7 @@ Absorption
 In a study of 18 healthy male adult volunteers, the absolute bioavailability of mannitol powder for inhalation by comparison to mannitol administered intravenously was 0.59% ± 0.15.
 The rate and extent of absorption of mannitol after inhaled administration was very similar to that observed after oral administration.
 The Tmax after inhaled administration was 1.5 ± 0.5 hours.
+
 In a study of 9 cystic fibrosis patients (6 adults, 3 adolescents), using 400 mg inhaled mannitol as a single dose (Day 1) then twice a day for 7 days (Days 2 - 7), pharmacokinetic parameters were similar for adults and adolescents, except for a longer average apparent terminal half life for adolescents (Day 1 = 7.29 hours, Day 7 = 6.52 hours) compared with adults (Day 1 = 6.10 hours,
 Day 7 = 5.42 hours).
 Overall, the comparison of AUCs between Day 1 and Day 7 showed a time independence of pharmacokinetics, indicating linearity at the dose level administered in this study.

@@ -1,6 +1,7 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
+
 Initiation dose assessment
 The most commonly observed adverse reaction associated with the use of Bronchitol during the initiation dose assessment is cough (3.6% of patients), (see section 4.4).
 
@@ -44,12 +45,12 @@ Table 1: Frequency of adverse reactions with Bronchitol during the treatment pha
 |  |  | Cough1 | Asthma |
 |  |  | Chest discomfort2 | Rhinorrhoea |
 |  |  | Wheezing | Bronchospasm2 |
-|  |  | Productive cough | Fungus sputum test |
-|  |  | Throat irritation | positive |
-|  |  |  | Dysphonia |
-|  |  |  | Dyspnoea |
-|  |  |  | Hyperventilation |
 
+Productive cough Fungus sputum test
+Throat irritation positive
+Dysphonia
+Dyspnoea
+Hyperventilation
 Obstructive airways
 disorder
 Respiratory tract
@@ -153,7 +154,13 @@ Table 2: Frequency of adverse reactions with Bronchitol during the treatment pha
 | tissue disorders |  |  | pain |
 | Renal and urinary disorders |  |  | Urinary incontinence |
 | General disorders and |  |  | Pyrexia |
-| administration site conditions |  |  |  |
+
+administration site conditions
 
 1Adverse reaction occurred on the day of screening
 2Adverse reaction occurred both during the treatment phase and on the day of screening
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V*.
