@@ -9,9 +9,9 @@ Treatment should be continued as long as the patient continues to benefit.
 For a dose of 400 mg once daily (see dose adjustments below), 200 mg hard capsules are available.
 
 If a dose is missed the patient should not take an additional dose, but take the usual prescribed next dose.
+
 Dose adjustments or modifications
 Tasigna may need to be temporarily withheld and/or dose reduced for haematological toxicities (neutropenia, thrombocytopenia) that are not related to the underlying leukaemia (see Table 1).
-
 Table 1 Dose adjustments for neutropenia and thrombocytopenia
 
 Newly diagnosed ANC* <1.0 x 109/l and/or platelet 1. Treatment with Tasigna must be
@@ -53,8 +53,11 @@ Patients with cardiac disorders
 In clinical studies, patients with uncontrolled or significant cardiac disease (e.g. recent myocardial infarction, congestive heart failure, unstable angina or clinically significant bradycardia) were excluded.
 Caution should be exercised in patients with relevant cardiac disorders (see section 4.4).
 
-Increases in serum cholesterol levels have been reported with Tasigna therapy (see section 4.4).
-Lipid profiles should be assessed prior to initiating Tasigna therapy and as clinically indicated during treatment.
+Increases in total serum cholesterol levels have been reported with Tasigna therapy (see section 4.4).
+Lipid profiles should be determined prior to initiating Tasigna therapy, assessed at month 3 and 6 after initiating therapy and at least yearly during chronic therapy.
+
+Increases in blood glucose levels have been reported with Tasigna therapy (see section 4.4).
+Blood glucose levels should be assessed prior to initiating Tasigna therapy and monitored during treatment.
 Paediatric population
 The safety and efficacy of Tasigna in children from birth to less than 18 years have not yet been established (see section 5.1).
 Therefore, its use in paediatric patients is not recommended due to a lack of data on safety and efficacy.

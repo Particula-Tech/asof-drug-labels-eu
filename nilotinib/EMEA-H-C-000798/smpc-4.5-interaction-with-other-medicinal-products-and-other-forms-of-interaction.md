@@ -3,9 +3,9 @@
 Tasigna may be given in combination with haematopoietic growth factors such as erythropoietin or granulocyte colony-stimulating factor (G-CSF) if clinically indicated.
 It may be given with hydroxyurea or anagrelide if clinically indicated.
 
-Substances that may increase nilotinib serum concentrations
 Nilotinib is mainly metabolised in the liver and is also a substrate for the multi-drug efflux pump, P-glycoprotein (P-gp).
 Therefore, absorption and subsequent elimination of systemically absorbed nilotinib may be influenced by substances that affect CYP3A4 and/or P-gp.
+Substances that may increase nilotinib serum concentrations
 Concomitant administration of nilotinib with imatinib (a substrate and moderator of P-gp and CYP3A4), had a slight inhibitory effect on CYP3A4 and/or P-gp.
 The AUC of imatinib was increased by 18% to 39%, and the AUC of nilotinib was increased by 18% to 40%.
 These changes are unlikely to be clinically important.
@@ -14,6 +14,7 @@ The exposure to nilotinib in healthy subjects was increased 3-fold when co-admin
 Concomitant treatment with strong CYP3A4 inhibitors, including ketoconazole, itraconazole, voriconazole, ritonavir, clarithromycin, and telithromycin, should therefore be avoided (see section 4.4).
 Increased exposure to nilotinib might also be expected with moderate CYP3A4 inhibitors.
 Alternative concomitant medicinal products with no or minimal CYP3A4 inhibition should be considered.
+
 Substances that may decrease nilotinib serum concentrations
 Rifampicin, a potent CYP3A4 inducer, decreases nilotinib Cmax by 64% and reduces nilotinib AUC by 80%.
 Rifampicin and nilotinib should not be used concomitantly.
@@ -32,24 +33,21 @@ In the same study as above, administration of an antacid (aluminium hydroxide/ma
 Therefore, if necessary, an antacid may be administered approximately 2 hours before or approximately 2 hours after the dose of Tasigna.
 
 Substances that may have their systemic concentration altered by nilotinib
-Nilotinib is a relatively strong inhibitor of CYP3A4, CYP2C8, CYP2C9, CYP2D6 and UGT1A1 in vitro, with Ki value being lowest for CYP2C9 (Ki=0.13 microM).
+In vitro, nilotinib is a relatively strong inhibitor of CYP3A4, CYP2C8, CYP2C9, CYP2D6 and UGT1A1, with Ki value being lowest for CYP2C9 (Ki=0.13 microM).
 
 A single-dose drug-drug interaction study in healthy volunteers with 25 mg warfarin, a sensitive CYP2C9 substrate, and 800 mg nilotinib did not result in any changes in warfarin pharmacokinetic parameters or warfarin pharmacodynamics measured as prothrombin time (PT) and international normalised ratio (INR).
 There are no steady-state data.
 This study suggests that a clinically meaningful drug-drug interaction between nilotinib and warfarin is less likely up to a dose of 25 mg of warfarin.
 Due to lack of steady-state data, control of warfarin pharmacodynamic markers (INR or PT) following initiation of nilotinib therapy (at least during the first 2 weeks) is recommended.
 
-In addition, single-dose administration of Tasigna with orally administered midazolam to healthy subjects increased midazolam exposure by 30%.
-It cannot be excluded that the effect of nilotinib is greater at steady state.
-Caution should be exercised when co-administering Tasigna with substrates of these enzymes that have a narrow therapeutic index [e.g. astemizole, terfenadine, cisapride, pimozide, quinidine, bepridil or ergot alkaloids (ergotamine, dihydroergotamine)].
+In CML patients, nilotinib administered at 400 mg twice daily for 12 days increased the systemic exposure (AUC and Cmax) of oral midazolam (a substrate of CYP3A4) 2.6-fold and 2.0-fold, respectively.
+Nilotinib is a moderate CYP3A4 inhibitor.
+As a result, the systemic exposure of other drugs primarily metabolised by CYP3A4 (e.g. certain HMG-CoA reductase inhibitors) may be increased when co-administered with nilotinib.
+Appropriate monitoring and dose adjustment may be necessary for drugs that are CYP3A4 substrates and have a narrow therapeutic index (including but not limited to alfentanil, cyclosporine, dihydroergotamine, ergotamine, fentanyl, sirolimus and tacrolimus) when co-administered with nilotinib.
 
 Anti-arrhythmic medicinal products and other substances that may prolong the QT interval
 Nilotinib should be used with caution in patients who have or may develop prolongation of the QT interval, including those patients taking anti-arrhythmic medicinal products such as amiodarone, disopyramide, procainamide, quinidine and sotalol or other medicinal products that may lead to QT prolongation such as chloroquine, halofantrine, clarithromycin, haloperidol, methadone and moxifloxacin (see section 4.4).
 
-Other interactions that may affect serum concentrations
-The absorption of Tasigna is increased if it is taken with food, resulting in a higher serum concentration (see sections 4.2, 4.4 and 5.2).
+Food interactions
+The absorption and bioavailability of Tasigna are increased if it is taken with food, resulting in a higher serum concentration (see sections 4.2, 4.4 and 5.2).
 Grapefruit juice and other foods that are known to inhibit CYP3A4 should be avoided.
-
-[Tasigna 200 mg hard capsules]
-
-The absorption of Tasigna is increased if it is taken with food, resulting in higher serum concentration (see sections 4.2, 4.4 and 5.2).

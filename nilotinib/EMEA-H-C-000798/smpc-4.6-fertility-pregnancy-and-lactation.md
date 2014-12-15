@@ -1,7 +1,7 @@
 # 4.6 Fertility, pregnancy and lactation
 
 Women of childbearing potential
-Women of childbearing potential have to use highly effective contraception during treatment with Tasigna.
+Women of childbearing potential have to use highly effective contraception during treatment with Tasigna and for up to two weeks after ending treatment.
 
 Pregnancy
 There are no or limited amount of data from the use of nilotinib in pregnant women.
