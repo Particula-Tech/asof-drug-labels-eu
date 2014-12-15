@@ -13,6 +13,5 @@ In addition, during a 13-week study, atrophic and degenerative changes occurred 
 
 In embryotoxicity and teratogenicity studies in mice, dose-related increases in foetal resorption and teratogenicity were observed.
 In monkeys, abortion and embryolethality were observed at high doses, but there was no evidence of teratogenicity.
-
 Capecitabine was not mutagenic in vitro to bacteria (Ames test) or mammalian cells (Chinese hamster V79/HPRT gene mutation assay).
 However, similar to other nucleoside analogues (ie, 5-FU), capecitabine was clastogenic in human lymphocytes (in vitro) and a positive trend occurred in mouse bone marrow micronucleus tests (in vivo).

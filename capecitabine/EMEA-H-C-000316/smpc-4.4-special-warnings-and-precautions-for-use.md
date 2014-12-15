@@ -13,6 +13,8 @@ Dose reduction should be applied as necessary (see section 4.2).
 Dehydration.
 Dehydration should be prevented or corrected at the onset.
 Patients with anorexia, asthenia, nausea, vomiting or diarrhoea may rapidly become dehydrated.
+Dehydration may cause acute renal failure, especially in patients with pre-existing compromised renal function or when capecitabine is given concomitantly with known nephrotoxic drugs.
+Acute renal failure secondary to dehydration might be potentially fatal.
 If grade 2 (or higher) dehydration occurs, capecitabine treatment should be immediately interrupted and the dehydration corrected.
 Treatment should not be restarted until the patient is rehydrated and any precipitating causes have been corrected or controlled.
 Dose modifications applied should be applied for the precipitating adverse event as necessary (see section 4.2).
@@ -24,7 +26,7 @@ Grade 3 hand-foot syndrome is moist desquamation, ulceration, blistering and sev
 If grade 2 or 3 hand-foot syndrome occurs, administration of capecitabine should be interrupted until the event resolves or decreases in intensity to grade 1.
 Following grade 3 hand-foot syndrome, subsequent doses of capecitabine should be decreased.
 When capecitabine and cisplatin are used in combination, the use of vitamin B6 (pyridoxine) is not advised for symptomatic or secondary prophylactic treatment of hand–foot syndrome, because of published reports that it may decrease the efficacy of cisplatin.
-
+There is some evidence that dexpanthenol is effective for hand-foot syndrome prophylaxis in patients treated with Xeloda.
 Cardiotoxicity.
 Cardiotoxicity has been associated with fluoropyrimidine therapy, including myocardial infarction, angina, dysrhythmias, cardiogenic shock, sudden death and electrocardiographic changes (including very rare cases of QT prolongation).
 These adverse reactions may be more common in patients with a prior history of coronary artery disease.

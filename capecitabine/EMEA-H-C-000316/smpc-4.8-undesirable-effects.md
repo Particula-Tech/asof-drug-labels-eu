@@ -1,9 +1,5 @@
 # 4.8 Undesirable effects
 
-Reporting of suspected adverse reactions
-Reporting suspected adverse reactions after authorisation of the medicinal product is important.
-It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 Summary of the safety profile
 
 The overall safety profile of capecitabine is based on data from over 3000 patients treated with capecitabine as monotherapy or capecitabine in combination with different chemotherapy regimens in multiple indications.
@@ -63,9 +59,8 @@ Table 5 Summary of related ADRs reported in patients treated with capecitabine i
 | --- | --- | --- |
 |  | All grades | All grades |
 | Infections and infestations | - | Herpes zoster, Urinary tract infection, Oral candidiasis, Upper respiratory tract infection , Rhinitis, Influenza, +Infection, Oral herpes |
-| Blood and lymphatic system disorders | +Neutropenia, +Leucopenia, +Anaemia, +Neutropenic fever, | Bone marrow depression, +Febrile Neutropenia |
+| Blood and lymphatic system disorders | +Neutropenia, +Leucopenia, +Anaemia, +Neutropenic fever, Thrombocytopenia | Bone marrow depression, +Febrile Neutropenia |
 |  | All grades | All grades |
-|  | Thrombocytopenia |  |
 | Immune system disorders | - | Hypersensitivity |
 | Metabolism and nutrition disorders | Appetite decreased | Hypokalaemia, Hyponatraemia, Hypomagnesaemia, Hypocalcaemia, Hyperglycaemia |
 | Psychiatric disorders | - | Sleep disorder, Anxiety |
@@ -100,6 +95,7 @@ Table 6 Summary of events reported with capecitabine in the post-marketing setti
 |  |  |  | Stevens-Johnson Syndrome and |
 |  |  |  | Toxic Epidermal Necrolysis |
 |  |  |  | (see section 4.4) |
+| Renal and urinary disorders | Acute renal failure secondary to dehydration |  |  |
 
 Description of selected adverse reactions
 
@@ -136,6 +132,11 @@ Patients with renal impairment (see section 4.2, 4.4, and 5.2):
 An analysis of safety data in patients treated with capecitabine monotherapy (colorectal cancer) with baseline renal impairment showed an increase in the incidence of treatment-related grade 3 and 4 adverse reactions compared to patients with normal renal function (36% in patients without renal impairment n=268, vs. 41% in mild n=257 and 54% in moderate n=59, respectively) (see section 5.2).
 Patients with moderately impaired renal function show an increased rate of dose reduction (44%) vs. 33% and 32% in patients with no or mild renal impairment and an increase in early withdrawals from treatment (21% withdrawals during the first two cycles) vs. 5% and 8% in patients with no or mild renal impairment.
 
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
 [Xeloda 500 mg film-coated tablets.]
 
 (≥ 1/100to < 1/10) and uncommon (≥ 1/1,000to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare
@@ -147,9 +148,9 @@ Patients with moderately impaired renal function show an increased rate of dose 
 | Infections and infestations | - | Herpes viral infection, Nasopharyngitis, Lower respiratory tract infection | Sepsis, Urinary tract infection, Cellulitis, Tonsillitis, Pharyngitis, Oral candidiasis, Influenza, Gastroenteritis, Fungal infection, Infection, Tooth abscess |
 | Neoplasm benign, malignant and unspecified | - | - | Lipoma |
 | Blood and lymphatic system disorders | - | Neutropenia, Anaemia | Febrile neutropenia, Pancytopenia, Granulocytopenia, Thrombocytopenia, Leukopenia, Haemolytic anaemia, International Normalised Ratio (INR) increased/Prothrombin time prolonged |
-|  | All grades | All grades | Severe and/or Life-threatening (grade 3-4) or considered medically relevant |
 | Immune system disorders | - | - | Hypersensitivity |
 | Metabolism and nutrition disorders | Anorexia | Dehydration, , Weight decreased | Diabetes, Hypokalaemia, Appetite disorder, Malnutrition, Hypertriglyceridaemia, |
+|  | All grades | All grades | Severe and/or Life-threatening (grade 3-4) or considered medically relevant |
 | Psychiatric disorders | - | Insomnia, Depression | Confusional state, Panic attack, Depressed mood, Libido decreased |
 | Nervous system disorders | - | Headache, Lethargy Dizziness, Parasthesia Dysgeusia | Aphasia, Memory impairment, Ataxia, Syncope, Balance disorder, Sensory disorder, Neuropathy peripheral |
 | Eye disorders | - | Lacrimation increased, Conjunctivitis, Eye irritation | Visual acuity reduced, Diplopia |
@@ -159,9 +160,9 @@ Patients with moderately impaired renal function show an increased rate of dose 
 | Respiratory, thoracic and mediastinal disorders | - | Dyspnoea, Epistaxis, Cough, Rhinorrhoea | Pulmonary embolism, Pneumothorax, Haemoptysis, Asthma, Dyspnoea exertional |
 | Gastrointestinal disorders | Diarrhoea, Vomiting, Nausea, Stomatitis, Abdominal pain | Gastrointestinal haemorrhage, Constipation, Upper abdominal pain, Dyspepsia, Flatulence, Dry mouth | Intestinal obstruction, Ascites, Enteritis, Gastritis, Dysphagia, Abdominal pain lower, Oesophagitis, Abdominal discomfort, Gastrooesophageal reflux disease, Colitis, Blood in stool |
 | Hepatobiliary disorders | - | Hyperbilirubinemia , Liver function test abnormalities | Jaundice |
-|  | All grades | All grades | Severe and/or Life-threatening (grade 3-4) or considered medically relevant |
 | Skin and subcutaneous tissue disorders | Palmar-plantar erythrodysaesthesia syndrome | Rash, Alopecia, Erythema, Dry skin, Pruritus, Skin hyper-pigmentation, Rash macular, Skin desquamation, Dermatitis, Pigmentation disorder, Nail disorder | Blister, Skin ulcer, Rash, Urticaria, Photosensitivity reaction, Palmar erythema, Swelling face, Purpura, Radiation recall syndrome |
 | Muskuloskeletal and connective tissue disorders | - | Pain in extremity, Back pain, Arthralgia | Joint swelling, Bone pain, Facial pain, Musculoskeletal stiffness, Muscular weakness |
+|  | All grades | All grades | Severe and/or Life-threatening (grade 3-4) or considered medically relevant |
 | Renal and urinary disorders | - | - | Hydronephrosis, Urinary incontinence, Haematuria, Nocturia, Blood creatinine increased |
 | Reproductive system and breast disorders | - | - | Vaginal haemorrhage |
 | General disorders and administration site conditions | Fatigue, Asthenia | Pyrexia, , Oedema peripheral, Malaise, Chest pain | Oedema, Chills, Influenza like illness, Rigors, Body temperature increased |
@@ -175,6 +176,7 @@ Patients with moderately impaired renal function show an increased rate of dose 
 | Metabolism and nutrition disorders | Appetite decreased | Hypokalaemia, Hyponatraemia, Hypomagnesaemia, Hypocalcaemia, Hyperglycaemia |
 | Psychiatric disorders | - | Sleep disorder, Anxiety |
 | Nervous system disorders | Paraesthesia, Dysaesthesia, Peripheral neuropathy, Peripheral sensory neuropathy, Dysgeusia, Headache | Neurotoxicity, Tremor, Neuralgia, Hypersensitivity reaction, Hypoaesthesia |
+|  | All grades | All grades |
 | Eye disorders | Lacrimation increased | Visual disorders, Dry eye, Eye pain, Visual impairment, Vision blurred |
 | Ear and labyrinth disorders | - | Tinnitus, Hypoacusis |
 | Cardiac disorders | - | Atrial fibrillation, Cardiac ischemia/infarction |
@@ -185,7 +187,5 @@ Patients with moderately impaired renal function show an increased rate of dose 
 | Skin and subcutaneous tissue disorders | Alopecia, Nail disorder | Hyperhidrosis, Rash erythematous, Urticaria, Night sweats |
 | Musculoskeletal and connective tissue disorders | Myalgia, Arthralgia, Pain in extremity | Pain in jaw , Muscle spasms, Trismus, Muscular weakness |
 | Renal and urinary disorder | - | Haematuria, Proteinuria, Creatinine renal clearance decreased, Dysuria |
-| General disorders and administration site conditions | Pyrexia, Weakness, +Lethargy, Temperature intolerance | Mucosal inflammation, Pain in limb, Pain, Chills, Chest pain, Influenza-like illness, +Fever, |
-|  | All grades | All grades |
-|  |  | Infusion related reaction, Injection site reaction, Infusion site pain, Injection site pain |
+| General disorders and administration site conditions | Pyrexia, Weakness, +Lethargy, Temperature intolerance | Mucosal inflammation, Pain in limb, Pain, Chills, Chest pain, Influenza-like illness, +Fever, Infusion related reaction, Injection site reaction, Infusion site pain, Injection site pain |
 | Injury, poisoning and procedural complications | - | Contusion |

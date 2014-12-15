@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: cytostatic (antimetabolite), ATC code: L01BC06
+
 Capecitabine is a non-cytotoxic fluoropyrimidine carbamate, which functions as an orally administered precursor of the cytotoxic moiety 5-fluorouracil (5-FU).
 Capecitabine is activated via several enzymatic steps (see section 5.2).
 The enzyme involved in the final conversion to 5-FU, thymidine phosphorylase (ThyPase), is found in tumour tissues, but also in normal tissues, albeit usually at lower levels.
@@ -33,6 +34,7 @@ XELOX showed a trend towards superior OS with a HR of 0.87 (95% CI=[0.72; 1.05];
 The 5 year OS rate was 78% for XELOX versus 74% for 5-FU/LV.
 The efficacy data is based on a median observation time of 59 months for OS and 57 months for DFS.
 The rate of withdrawal due to adverse events was higher in the XELOX combination therapy arm (21%) as compared with that of the 5-FU/LV monotherapy arm (9%) in the ITT population.
+
 Monotherapy with capecitabine in metastatic colorectal cancer
 Data from two identically-designed, multicentre, randomised, controlled phase III clinical trials (SO14695; SO14796) support the use of capecitabine for first line treatment of metastatic colorectal cancer.
 In these trials, 603 patients were randomised to treatment with capecitabine (1250 mg/m2 twice daily for 2 weeks followed by a 1-week rest period and given as 3-week cycles).
@@ -64,6 +66,7 @@ In this treatment subgroup comparison, XELOX plus bevacizumab was similar compar
 The median follow up at the time of the primary analyses in the intent-to-treat population was 1.5 years; data from analyses following an additional 1 year of follow up are also included in table 8.
 However, the on-treatment PFS analysis did not confirm the results of the general PFS and OS analysis: the hazard ratio of XELOX versus FOLFOX-4 was 1.24 with 97.5% CI 1.07 - 1.44.
 Although sensitivity analyses show that differences in regimen schedules and timing of tumor assessments impact the on-treatment PFS analysis, a full explanation for this result has not been found.
+
 Table 8 Key efficacy results for the non-inferiority analysis of Study NO16966
 
 PRIMARY ANALYSIS
@@ -93,8 +96,7 @@ ITT 602 596 0.99 (0.88; 1.12)
 In a randomised, controlled phase III study (CAIRO), the effect of using capecitabine at a starting dose of 1000 mg/m2 for 2 weeks every 3 weeks in combination with irinotecan for the first-line treatment of patients with metastatic colorectal cancer was studied.
 820 Patients were randomized to receive either sequential treatment (n=410) or combination treatment (n=410).
 Sequential treatment consisted of first-line capecitabine (1250 mg/m2 twice daily for 14 days), second-line irinotecan (350 mg/m2 on day 1), and third-line combination of capecitabine (1000 mg/m2 twice daily for 14 days) with oxaliplatin (130 mg/m2 on day 1).
-Combination treatment (XELIRI) consisted of first-line capecitabine
-(1000 mg/m2 twice daily for 14 days) combined with irinotecan (250 mg /m2 on day 1) (XELIRI) and second-line capecitabine (1000 mg/m2 twice daily for 14 days) plus oxaliplatin (130 mg/m2 on day 1).
+Combination treatment) consisted of first-line capecitabine (1000 mg/m2 twice daily for 14 days) combined with irinotecan (250 mg /m2 on day 1) (XELIRI) and second-line capecitabine (1000 mg/m2 twice daily for 14 days) plus oxaliplatin (130 mg/m2 on day 1).
 All treatment cycles were administered at intervals of 3 weeks.
 In first-line treatment the median progression-free survival in the intent-to-treat population was 5.8 months (95%CI 5.1 - 6.2 months) for capecitabine monotherapy and 7.8 months (95%CI 7.0 - 8.3 months; p=0.0002) for XELIRI.
 However this was associated with an increased incidence of gastrointestinal toxicity and neutropenia during first-line treatment with XELIRI (26% and 11% for XELIRI and first line capecitabine respectively).
@@ -108,7 +110,6 @@ Patients treated with XELIRI experienced excessive gastrointestinal toxicity com
 
 In the EORTC study patients were randomised to receive either open label FOLFIRI (n=41) or XELIRI (n=44) with additional randomisation to either double-blind treatment with celecoxib or placebo.
 Median PFS and overall survival (OS) times were shorter for XELIRI versus FOLFIRI (PFS 5.9 versus 9.6 months and OS 14.8 versus 19.9 months), in addition to which excessive rates of diarrhoea were reported in patients receiving the XELIRI regimen (41% XELIRI, 5.1% FOLFIRI).
-
 In the study published by Skof et al, patients were randomised to receive either FOLFIRI or XELIRI .
 Overall response rate was 49% in the XELIRI and 48% in the FOLFIRI arm (p=0.76).
 At the end of treatment, 37% of patients in the XELIRI and 26% of patients in the FOLFIRI arm were without evidence of the disease (p=0.56).
@@ -127,10 +128,12 @@ Data from a multicentre, randomised, controlled phase II study (AIO KRK 0604) su
 120 Patients were randomised to a modified XELIRI regimen with capecitabine 800 mg/m2 twice daily for two weeks followed by a 7-day rest period), irinotecan (200 mg/m2 as a 30 minute infusion on day 1 every 3 weeks), and bevacizumab (7.5 mg/kg as a 30 to 90 minute infusion on day 1 every 3 weeks) ; 127 patients were randomised to treatment with capecitabine (1000 mg/m2 twice daily for two weeks followed by a 7-day rest period), oxaliplatin (130 mg/m2 as a 2 hour infusion on day 1 every 3 weeks), and bevacizumab (7.5 mg/kg as a 30 to 90 minute infusion on day 1 every 3 weeks).
 Following a mean duration of follow-up for the study population of 26.2 months, treatment responses were as shown below:
 
+Table 9 Key efficacy results for AIO KRK study
+
 |  | XELOX + bevacizumab (ITT: N=127) | Modified XELIRI+ bevacizumab (ITT: N= 120) | Hazard ratio 95% CI P value |
 | --- | --- | --- | --- |
 | Progression-free Survival after 6 months |  |  |  |
-| ITT 95% CI | 76% 69 - 84% | 84% (95% 77 - 90% | - |
+| ITT 95% CI | 76% 69 - 84% | 84% 77 - 90% | - |
 | Median progression free survival |  |  |  |
 | ITT 95% CI | 10.4 months 9.0 - 12.0 | 12.1 months 10.8 - 13.2 | 0.93 0.82 - 1.07 P=0.30 |
 | Median overall survival |  |  |  |
@@ -140,10 +143,11 @@ Combination therapy in second-line treatment of metastatic colorectal cancer
 Data from a multicentre, randomised, controlled phase III clinical study (NO16967) support the use of capecitabine in combination with oxaliplatin for the second-line treatment of metastastic colorectal cancer.
 In this trial, 627 patients with metastatic colorectal carcinoma who have received prior treatment with irinotecan in combination with a fluoropyrimidine regimen as first line therapy were randomised to treatment with XELOX or FOLFOX-4.
 For the dosing schedule of XELOX and FOLFOX-4 (without addition of placebo or bevacizumab), refer to table 7.
-XELOX was demonstrated to be non-inferior to FOLFOX-4 in terms of progression-free survival in the per-protocol population and intent-to-treat population (see table 9).
-The results indicate that XELOX is equivalent to FOLFOX-4 in terms of overall survival (see table 9).
-The median follow up at the time of the primary analyses in the intent-to-treat population was 2.1 years; data from analyses following an additional 6 months of follow up are also included in table 9.
-Table 9 Key efficacy results for the non-inferiority analysis of Study NO16967
+XELOX was demonstrated to be non-inferior to FOLFOX-4 in terms of progression-free survival in the per-protocol population and intent-to-treat population (see table 10).
+The results indicate that XELOX is equivalent to FOLFOX-4 in terms of overall survival (see table 10).
+The median follow up at the time of the primary analyses in the intent-to-treat population was 2.1 years; data from analyses following an additional 6 months of follow up are also included in table 10.
+
+Table 10 Key efficacy results for the non-inferiority analysis of Study NO16967
 
 PRIMARY ANALYSIS
 XELOX FOLFOX-4
@@ -197,7 +201,7 @@ Colon, colorectal and advanced gastric cancer: meta-analysis
 A meta-analysis of six clinical trials (studies SO14695, SO14796, M66001, NO16966, NO16967, M17032) supports capecitabine replacing 5-FU in mono- and combination treatment in gastrointestinal cancer.
 The pooled analysis includes 3097 patients treated with capecitabine-containing regimens and 3074 patients treated with 5-FU-containing regimens.
 Median overall survival time was 703 days (95% CI: 671; 745) in patients treated with capecitabine-containing regimens and 683 days (95% CI: 646; 715) in patients treated with 5-FU-containing regimens.
-The hazard ratio for overall survival was 0.94 (95% CI: 0.89; 1.00, p=0.0489) indicating that capecitabine-containing regimens are superior to 5-FU-containing regimens.
+The hazard ratio for overall survival was 0.94 (95% CI: 0.89; 1.00, p=0.0489) indicating that capecitabine-containing regimens are non-inferior to 5-FU-containing regimens.
 
 Breast cancer:
 
@@ -221,7 +225,6 @@ Median survival was 384 and 373 days.
 All indications:
 
 A meta-analysis of 14 clinical trials with data from over 4700 patients treated with capecitabine monotherapy or capecitabine in combination with different chemotherapy regimens in multiple indications (colon, colorectal, gastric and breast cancer) showed that patients on capecitabine who developed hand-foot syndrome (HFS) had a longer overall survival compared to patients who did not develop HFS: median overall survival 1100 days (95% CI 1007;1200) vs 691 days (95% CI 638;754) with a hazard ratio of 0.61 (95% CI 0.56; 0.66).
-
 Paediatric population:
 
 The European Medicines Agency has waived the obligation to conduct studies with Xeloda in all subsets of the paediatric population in adenocarcinoma of the colon and rectum, gastric adenocarcinoma and breast carcinoma (see section 4.2 for information on paediatric use).
@@ -232,6 +235,8 @@ In this trial, 1987 patients were randomised to treatment with capecitabine (125
 In the all-randomised population, capecitabine was shown to be superior to 5FU/LV for disease-free survival (hazard ratio 0.849; 95% CI 0.739 - 0.976;, p = 0.0212), as well as for overall survival (hazard ratio 0.828; 95% CI 0.705 - 0.971; p = 0.0203).
 
 In this treatment subgroup comparison, XELOX plus bevacizumab was similar compared to FOLFOX-4 plus bevacizumab in terms of progression-free survival (hazard ratio 1.01; 97.5% CI 0.84 - 1.22]).
+
+Combination treatment consisted of first-line capecitabine (1000 mg/m2 twice daily for 14 days) combined with irinotecan (250 mg /m2 on day 1) (XELIRI) and second-line capecitabine (1000 mg/m2 twice daily for 14 days) plus oxaliplatin (130 mg/m2 on day 1).
 
 Patients treated with XELIRI experienced excessive gastrointestinal toxicity compared with FOLFIRI (diarrhoea 48% and 14% for XELIRI and FLFIRI respectively).
 
