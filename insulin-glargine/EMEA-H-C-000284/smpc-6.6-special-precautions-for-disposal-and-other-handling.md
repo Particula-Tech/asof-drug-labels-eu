@@ -10,7 +10,7 @@ Insulin label must always be checked before each injection to avoid medication e
 [Lantus 100 units/ml solution for injection in a cartridge.]
 
 Insulin pen
-The Lantus cartridges are to be used only in conjunction with the pens: OptiPen, ClikSTAR, Autopen 24, Tactipen or AllStar (see section 4.4).
+The Lantus cartridges are to be used only in conjunction with the pens: OptiPen, ClikSTAR, Autopen 24, Tactipen, AllStar or JuniorSTAR (see section 4.4).
 Not all of these pens may be marketed in your country.
 
 The pen should be used as recommended in the information provided by the device manufacturer.
@@ -113,7 +113,6 @@ The outer and inner needle caps should be removed.
 The outer cap should be kept to remove the used needle.
 
 While holding the pen with the needle pointing upwards, the insulin reservoir should be tapped with the finger so that any air bubbles rise up towards the needle.
-
 Then the injection button should be pressed all the way in.
 
 If insulin has been expelled through the needle tip, then the pen and the needle are working properly.
@@ -186,6 +185,7 @@ Important information for use of SoloStar:
 Please check section 6.4 of this SPC for instructions on how to store SoloStar.
 
 If SoloStar is in cool storage, it should be taken out 1 to 2 hours before you inject to allow it to warm up.
+
 The used SoloStar must be discarded as required by your local authorities.
 
 SoloStar has to be protected from dust and dirt.

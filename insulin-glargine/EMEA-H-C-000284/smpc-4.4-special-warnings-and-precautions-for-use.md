@@ -2,8 +2,8 @@
 
 Lantus is not the insulin of choice for the treatment of diabetic ketoacidosis.
 Instead, regular insulin administered intravenously is recommended in such cases.
-
 In case of insufficient glucose control or a tendency to hyper- or hypoglycaemic episodes, the patient's adherence to the prescribed treatment regimen, injection sites and proper injection technique and all other relevant factors must be reviewed before dose adjustment is considered.
+
 Transferring a patient to another type or brand of insulin should be done under strict medical supervision.
 Changes in strength, brand (manufacturer), type (regular, NPH, lente, long-acting, etc.), origin (animal, human, human insulin analogue) and/or method of manufacture may result in the need for a change in dose.
 
@@ -73,7 +73,13 @@ Pioglitazone should be discontinued if any deterioration in cardiac symptoms occ
 
 Pens to be used with Lantus cartridges
 
-The Lantus cartridges should only be used with the following pens: OptiPen, ClikSTAR, Tactipen, Autopen 24 and AllStar and should not be used with any other reusable pen as the dosing accuracy has only been established with the listed pens.
+The Lantus cartridges should only be used with the following pens:
+
+- JuniorSTAR which delivers Lantus in 0.5 unit dose increments
+- OptiPen, ClikSTAR, Tactipen, Autopen 24 and AllStar, which all deliver Lantus in 1 unit dose
+
+increments.
+These cartridges should not be used with any other reusable pen as the dosing accuracy has only been established with the listed pens.
 Not all of these pens may be marketed in your country.
 
 [Lantus 100 units/ml solution for injection in a cartridge for OptiClik.]

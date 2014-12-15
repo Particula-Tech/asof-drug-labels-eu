@@ -58,13 +58,15 @@ Effects of insulin glargine (once daily) on diabetic retinopathy were evaluated 
 No significant difference was seen in the progression of diabetic retinopathy when insulin glargine was compared to NPH insulin.
 
 The ORIGIN (Outcome Reduction with Initial Glargine INtervention) study was a multicenter, randomized, 2x2 factorial design study conducted in 12,537 participants at high cardiovascular (CV) risk with impaired fasting glucose (IFG) or impaired glucose tolerance (IGT) (12% of participants) or type 2 diabetes mellitus treated with ≤1 antidiabetic oral agent (88% of participants).
-Participants were randomized (1:1) to receive insulin glargine (n=6264), titrated to reach FPG ≤95 mg/dL (5.3 mM), or standard care (n=6273).
+Participants were randomized (1:1) to receive insulin glargine (n=6264), titrated to reach FPG ≤95 mg/dL
+(5.3 mM), or standard care (n=6273).
 The first co-primary efficacy outcome was the time to the first occurrence of CV death, nonfatal myocardial infarction (MI), or nonfatal stroke, and the second co-primary efficacy outcome was the time to the first occurrence of any of the first co-primary events, or revascularisation procedure (coronary, carotid, or peripheral), or hospitalisation for heart failure.
 
 Secondary endpoints included all-cause mortality and a composite microvascular outcome.
 
 Insulin glargine did not alter the relative risk for CV disease and CV mortality when compared to standard of care.
 There were no differences between insulin glargine and standard care for the two co-primary outcomes; for any component endpoint comprising these outcomes; for all-cause mortality; or for the composite microvascular outcome.
+
 Mean dose of insulin glargine by study end was 0.42 U/kg.
 At baseline, participants had a median HbA1c value of 6.4% and median on-treatment HbA1c values ranged from 5.9 to 6.4% in the insulin glargine group, and 6.2% to 6.6% in the standard care group throughout the duration of follow-up.
 The rates of severe hypoglycaemia (affected participants per 100 participant years of exposure) were 1.05 for insulin glargine and 0.30 for standard care group and the rates of confirmed non-severe hypoglycaemia were 7.71 for insulin glargine and 2.44 for standard care group.

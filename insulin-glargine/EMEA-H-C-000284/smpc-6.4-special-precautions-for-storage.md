@@ -13,7 +13,6 @@ For storage conditions after first opening of this medicinal product, see sectio
 
 Unopened cartridges
 Keep the cartridge in the outer carton in order to protect from light.
-
 In use cartridges
 
 [Lantus 100 units/ml solution for injection in a cartridge for OptiClik.]
@@ -24,10 +23,12 @@ In use cartridges
 
 Not in-use pens
 Keep the prefilled pen in the outer carton in order to protect from light.
+
 In-use pens
 For storage conditions after first opening of this medicinal product,, see section 6.3.
 
 [Lantus SoloStar 100 units/ml solution for injection in a pre-filled pen]
 
 Keep the pre-filled pen in the outer carton in order to protect from light.
+
 In use pens

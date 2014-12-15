@@ -14,7 +14,7 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | Nervous system disorders |  |  |  |  | Dysgeusia |
 | Eyes disorders |  |  |  | Visual impairment Retinopathy |  |
 | Skin and subcutaneous tissue disorders |  | Lipohypertro-phy | Lipoatrophy |  |  |
-| Musculoskeletal and connective tissue disorders |  |  |  |  | Myalgia |
+| Musculoskeleta l and connective tissue disorders |  |  |  |  | Myalgia |
 | General disorders and administration site conditions |  | Injection site reactions |  | Oedema |  |
 
 Description of selected adverse reactions
@@ -76,7 +76,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 | Nervous system disorders |  |  |  |  | Dysgeusia |
 | Eyes disorders |  |  |  | Visual impairment Retinopathy |  |
 | Skin and subcutaneous tissue disorders |  | Lipohypertro-- phy | Lipoatrophy |  |  |
-| Musculoskeletal and connective tissue disorders |  |  |  |  | Myalgia |
+| Musculoskeleta l and connective tissue disorders |  |  |  |  | Myalgia |
 | General disorders and administration site conditions |  | Injection site reactions |  | Oedema |  |
 
 [Lantus OptiSet 100 units/ml solution for injection in a pre-filled pen]
