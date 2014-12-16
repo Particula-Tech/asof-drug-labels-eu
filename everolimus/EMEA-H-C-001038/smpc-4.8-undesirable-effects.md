@@ -1,17 +1,16 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-The safety profile is based on pooled data from 2,406 patients treated with Afinitor in eight clinical studies, consisting of four randomised, double-blind, placebo controlled phase III studies and four phase II studies, related to the approved indications.
+The safety profile is based on pooled data from 2,470 patients treated with Afinitor in nine clinical studies, consisting of four randomised, double-blind, placebo controlled phase III studies and five open-label phase I and phase II studies, related to the approved indications.
 
-The most common adverse reactions (incidence ≥1/10) from the pooled safety data were (in decreasing order): stomatitis, rash, fatigue, diarrhoea, infections, nausea, decreased appetite, anaemia, dysgeusia, pneumonitis, weight decreased, peripheral oedema, asthenia, pruritus, epistaxis, hyperglycaemia, hypercholesterolaemia, headache, and vomiting.
-
-The most frequent Grade 3-4 adverse reactions (incidence ≥1/100 to <1/10) were stomatitis, anaemia, hyperglycaemia, fatigue, infections, pneumonitis, diarrhoea, asthenia, thrombocytopenia, neutropenia, dyspnoea, proteinuria, lymphopenia, hypophosphataemia, rash, and hypertension.
+The most common adverse reactions (incidence ≥1/10) from the pooled safety data were (in decreasing order): stomatitis, rash, fatigue, diarrhoea, infections, nausea, decreased appetite, anaemia, dysgeusia, pneumonitis, hyperglycaemia, weight decreased, pruritus, asthenia, peripheral oedema, hypercholesterolaemia, epistaxis and headache.
+The most frequent Grade 3-4 adverse reactions (incidence ≥1/100 to <1/10) were stomatitis, anaemia, hyperglycaemia, fatigue, infections, pneumonitis, diarrhoea, asthenia, thrombocytopenia, neutropenia, dyspnoea, lymphopenia, proteinuria, haemorrhage, hypophosphataemia, rash, hypertension, aspartate aminotransferase (AST) increased, alanine aminotransferase (ALT) increased and pneumonia.
 The grades follow CTCAE Version 3.0.
 
 Tabulated list of adverse reactions
 Table 3 presents the frequency category of adverse reactions reported in the pooled analysis considered for the safety pooling.
 Adverse reactions are listed according to MedDRA system organ class and frequency category.
-Frequency categories are defined using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
+Frequency categories are defined using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 3 Adverse reactions reported in clinical studies
@@ -40,7 +39,7 @@ Table 3 Adverse reactions reported in clinical studies
 | Cardiac disorders |  |
 | Uncommon | Congestive cardiac failure |
 | Vascular disorders |  |
-| Common | Hypertension, haemorrhage b |
+| Common | Haemorrhage b, hypertension |
 | Uncommon | Flushing, deep vein thrombosis |
 | Respiratory, thoracic and mediastinal disorders |  |
 | Very common | Pneumonitis c, epistaxis |
@@ -48,10 +47,10 @@ Table 3 Adverse reactions reported in clinical studies
 | Uncommon | Haemoptysis, pulmonary embolism |
 | Rare | Acute respiratory distress syndrome |
 | Gastrointestinal disorders |  |
-| Very common | Stomatitis d, diarrhoea, nausea, vomiting |
-| Common | Dry mouth, abdominal pain, mucosal inflammation, oral pain, dyspepsia, dysphagia |
+| Very common | Stomatitis d, diarrhoea, nausea |
+| Common | Vomiting, dry mouth, abdominal pain, mucosal inflammation, oral pain, dyspepsia, dysphagia |
 | Hepatobiliary disorders |  |
-| Common | Alanine aminotransferase increased, aspartate aminotransferase increased |
+| Common | Aspartate aminotransferase increased, alanine aminotransferase increased |
 | Skin and subcutaneous tissue disorders |  |
 | Very common | Rash, pruritus |
 | Common | Dry skin, nail disorders, mild alopecia, acne, erythema, onychoclasis, palmar-plantar erythrodysaesthesia syndrome, skin exfoliation, skin lesion |
@@ -62,16 +61,16 @@ Table 3 Adverse reactions reported in clinical studies
 | Common | Proteinuria*, blood creatinine increased, renal failure* |
 | Uncommon | Increased daytime urination, acute renal failure* |
 | Reproductive system and breast disorders |  |
-| Uncommon | Menstruation irregular |
-| Rare | Amenorrhoea |
+| Common | Menstruation irregular e |
+| Uncommon | Amenorrhoea e |
 | General disorders and administration site conditions |  |
-| Very common | Fatigue, peripheral oedema, asthenia |
+| Very common | Fatigue, asthenia, peripheral oedema |
 | Common | Pyrexia |
 | Uncommon | Non-cardiac chest pain |
 | Rare | Impaired wound healing |
 | Investigations |  |
 | Very common | Weight decreased |
-| * See also subsection “Description of selected adverse reactions” a Includes all reactions within the ‘infections and infestations’ system organ class including (common) pneumonia and (uncommon) herpes zoster, sepsis, and isolated cases of opportunistic infections [e.g. aspergillosis, candidiasis and hepatitis B (see also section 4.4)] b Includes different bleeding events not listed individually c Includes (common) pneumonitis, interstitial lung disease, lung infiltration and (rare) pulmonary alveolar haemorrhage, pulmonary toxicity, and alveolitis d Includes (very common) stomatitis, (common) aphthous stomatitis, mouth and tongue ulceration and (uncommon) glossodynia, glossitis |  |
+| * See also subsection “Description of selected adverse reactions” a Includes all reactions within the ‘infections and infestations’ system organ class including (common) pneumonia and (uncommon) herpes zoster, sepsis, and isolated cases of opportunistic infections [e.g. aspergillosis, candidiasis, pneumocystis jirovecii (carinii) pneumonia (PJP, PCP) and hepatitis B (see also section 4.4)] b Includes different bleeding events not listed individually c Includes (common) pneumonitis, interstitial lung disease, lung infiltration and (rare) pulmonary alveolar haemorrhage, pulmonary toxicity, and alveolitis d Includes (very common) stomatitis, (common) aphthous stomatitis, mouth and tongue ulceration and (uncommon) glossodynia, glossitis e Frequency based upon number of women from 10 to 55 years of age in the pooled data |  |
 
 Description of selected adverse reactions
 In clinical studies and post-marketing spontaneous reports, everolimus has been associated with serious cases of hepatitis B reactivation, including fatal outcome.
@@ -82,10 +81,13 @@ Monitoring of renal function is recommended (see section 4.4).
 
 In clinical studies and post-marketing spontaneous reports, everolimus has been associated with cases of amenorrhoea (secondary amenorrhoea and other menstrual irregularities).
 
+In clinical studies and post-marketing spontaneous reports, everolimus has been associated with cases of pneumocystis jirovecii (carinii) pneumonia (PJP, PCP), some with fatal outcome (see section 4.4).
+
+In clinical trials and post-marketing spontaneous reports, angioedema has been reported with and without concomitant use of ACE inhibitors (see section 4.4).
 Elderly patients
-In the safety pooling, 36% of the Afinitor-treated patients were ≥65 years of age.
-The number of patients with an adverse reaction leading to discontinuation of the medicinal product was higher in patients ≥65 years of age (19% vs. 12%).
-The most common adverse reactions leading to discontinuation were pneumonitis, stomatitis, fatigue and dyspnoea.
+In the safety pooling, 35% of the Afinitor-treated patients were ≥65 years of age.
+The number of patients with an adverse reaction leading to discontinuation of the medicinal product was higher in patients ≥65 years of age (19% vs. 13%).
+The most common adverse reactions leading to discontinuation were pneumonitis (including insterstitial lung disease), stomatitis, fatigue and dyspnoea.
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

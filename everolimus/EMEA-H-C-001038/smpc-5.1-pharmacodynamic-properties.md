@@ -9,21 +9,22 @@ Inhibition of the mTORC1 signalling pathway interferes with the translation and 
 S6K1is thought to phosphorylate the activation function domain 1 of the oestrogen receptor, which is responsible for ligand-independent receptor activation.
 Everolimus reduces levels of vascular endothelial growth factor (VEGF), which potentiates tumour angiogenic processes.
 Everolimus is a potent inhibitor of the growth and proliferation of tumour cells, endothelial cells, fibroblasts and blood-vessel-associated smooth muscle cells and has been shown to reduce glycolysis in solid tumours in vitro and in vivo.
+
 Clinical efficacy and safety
 Hormone receptor-positive advanced breast cancer
 BOLERO-2 (study CRAD001Y2301), a randomised, double-blind, multicentre phase III study of Afinitor + exemestane versus placebo + exemestane, was conducted in postmenopausal women with oestrogen receptor-positive, HER2/neu negative advanced breast cancer with recurrence or progression following prior therapy with letrozole or anastrozole.
 Randomisation was stratified by documented sensitivity to prior hormonal therapy and by the presence of visceral metastasis.
 Sensitivity to prior hormonal therapy was defined as either (1) documented clinical benefit (complete response [CR], partial response [PR], stable disease ≥24 weeks) from at least one prior hormonal therapy in the advanced setting or (2) at least 24 months of adjuvant hormonal therapy prior to recurrence.
-
 The primary endpoint for the study was progression-free survival (PFS) evaluated by RECIST (Response Evaluation Criteria in Solid Tumors), based on the investigator’s assessment (local radiology).
 Supportive PFS analyses were based on an independent central radiology review.
 
 Secondary endpoints included overall survival (OS), objective response rate, clinical benefit rate, safety, change in quality of life (QoL) and time to ECOG PS (Eastern Cooperative Oncology Group performance status) deterioration.
 
 A total of 724 patients were randomised in a 2:1 ratio to the combination everolimus (10 mg daily) + exemestane (25 mg daily) (n=485) or to the placebo + exemestane arm (25 mg daily) (n=239).
-The median duration of treatment was 29.5 weeks (range 1.0-123.3 weeks) for patients receiving everolimus + exemestane and 14.1 weeks (range 1.0-101.0 weeks) for the placebo + exemestane group.
+At the time of the final OS analysis, the median duration of everolimus treatment was 24.0 weeks (range 1.0-199.1 weeks).
+The median duration of exemestane treatment was longer in the everolimus + exemestane group at 29.5 weeks (1.0-199.1) compared to 14.1 weeks (1.0-156.0) in the placebo + exemestane group.
 
-The efficacy results were obtained from the final PFS analysis (see Table 4 and Figure 1).
+The efficacy results for the primary endpoint were obtained from the final PFS analysis (see Table 4 and Figure 1).
 Patients in the placebo + exemestane arm did not cross over to everolimus at the time of progression.
 
 Table 4 BOLERO-2 efficacy results
@@ -33,12 +34,13 @@ Table 4 BOLERO-2 efficacy results
 | Median progression-free survival (months) (95% CI) |  |  |  |  |
 | Investigator radiological review | 7.8 (6.9 to 8.5) | 3.2 (2.8 to 4.1) | 0.45 (0.38 to 0.54) | <0.0001 |
 | Independent radiological review | 11.0 (9.7 to 15.0) | 4.1 (2.9 to 5.6) | 0.38 (0.31 to 0.48) | <0.0001 |
+| Median overall survival (months) (95% CI) |  |  |  |  |
+| Median overall survival | 31.0 (28.0 – 34.6) | 26.6 (22.6 – 33.1) | 0.89 (0.73 – 1.10) | 0.1426 |
 | Best overall response (%) (95% CI) |  |  |  |  |
 | Objective response rateb | 12.6% (9.8 to 15.9) | 1.7% (0.5 to 4.2) | n/ad | <0.0001e |
 | Clinical benefit ratec | 51.3% (46.8 to 55.9) | 26.4% (20.9 to 32.4) | n/ad | <0.0001e |
 | a Plus exemestane b Objective response rate = proportion of patients with complete or partial response c Clinical benefit rate = proportion of patients with complete or partial response or stable disease ≥24 weeks d Not applicable e p value is obtained from the exact Cochran-Mantel-Haenszel test using a stratified version of the Cochran-Armitage permutation test. |  |  |  |  |
 
-OS data are not mature at the time of the interim analysis and no statistically significant treatment-related difference in OS was noted [HR=0.77 (95% CI: 0.57, 1.04)].
 Figure 1 BOLERO-2 Kaplan-Meier progression-free survival curves (investigator radiological review)
 
 100
@@ -65,12 +67,12 @@ The estimated PFS treatment effect was supported by planned subgroup analysis of
 For all analysed subgroups (age, sensitivity to prior hormonal therapy, number of organs involved, status of bone-only lesions at baseline and presence of visceral metastasis, and across major demographic and prognostic subgroups) a positive treatment effect was seen with everolimus + exemestane with an estimated hazard ratio versus placebo + exemestane ranging from 0.25 to 0.60.
 
 No differences in the time to ≥5% deterioration in the global and functional domain scores of QLQ-C30 were observed in the two arms.
-
 Advanced neuroendocrine tumours of pancreatic origin (pNET)
 RADIANT-3 (study CRAD001C2324), a phase III, multicentre, randomised, double-blind study of Afinitor plus best supportive care (BSC) versus placebo plus BSC in patients with advanced pNET, demonstrated a statistically significant clinical benefit of Afinitor over placebo by a 2.4-fold prolongation of median progression-free-survival (PFS) (11.04 months versus 4.6 months), (HR 0.35; 95% CI: 0.27, 0.45; p<0.0001) (see Table 5 and Figure 2).
 
 RADIANT-3 involved patients with well- and moderately-differentiated advanced pNET whose disease had progressed within the prior 12 months.
 Treatment with somatostatin analogues was allowed as part of BSC.
+
 The primary endpoint for the study was PFS evaluated by RECIST (Response Evaluation Criteria in Solid Tumors).
 Following documented radiological progression, patients could be unblinded by the investigator.
 Those randomised to placebo were then able to receive open-label Afinitor.
@@ -114,14 +116,15 @@ Hazard Ratio = 0.35
 
 Time (months)
 No. of patients still at risk
-Afinitor 207 189 153 126 114 80 49 36 28 21 10 6 2 0 0 0 Placebo 203 117 98 59 52 24 16 7 4 3 2 1 1 1 1 0 Following disease progression 172 of the 203 patients (84.7%) initially randomised to placebo crossed over to open-label Afinitor.
+Afinitor 207 189 153 126 114 80 49 36 28 21 10 6 2 0 0 0 Placebo 203 117 98 59 52 24 16 7 4 3 2 1 1 1 1 0
+
+Following disease progression 172 of the 203 patients (84.7%) initially randomised to placebo crossed over to open-label Afinitor.
 The overall survival results show no statistically significant difference in OS (HR=0.89 [95% CI: 0.64, 1.23]).
 
 Advanced renal cell carcinoma
 RECORD-1 (study CRAD001C2240), a phase III, international, multicentre, randomised, double-blind study comparing everolimus 10 mg/day and placebo, both in conjunction with best supportive care, was conducted in patients with metastatic renal cell carcinoma whose disease had progressed on or after treatment with VEGFR-TKI (vascular endothelial growth factor receptor tyrosine kinase inhibitor) therapy (sunitinib, sorafenib, or both sunitinib and sorafenib).
 Prior therapy with bevacizumab and interferon-α was also permitted.
 Patients were stratified according to Memorial Sloan-Kettering Cancer Center (MSKCC) prognostic score (favourable- vs. intermediate- vs. poor-risk groups) and prior anticancer therapy (1 vs. 2 prior VEGFR-TKIs).
-
 Progression-free survival, documented using RECIST (Response Evaluation Criteria in Solid Tumours) and assessed via a blinded, independent central review, was the primary endpoint.
 Secondary endpoints included safety, objective tumour response rate, overall survival, disease-related symptoms, and quality of life.
 After documented radiological progression, patients could be unblinded by the investigator: those randomised to placebo were then able to receive open-label everolimus 10 mg/day.
@@ -178,3 +181,11 @@ Crossover to open-label Afinitor following disease progression for patients allo
 
 Paediatric population
 The European Medicines Agency has waived the obligation to submit the results of studies with Afinitor in all subsets of the paediatric population in neuroendocrine tumours of pancreatic origin and in renal cell carcinoma (see section 4.2 for information on paediatric use).
+
+[Afinitor 5 mg tablets]
+
+Afinitor 207 189 153 126 114 80 49 36 28 21 10 6 2 0 0 0 Placebo 203 117 98 59 52 24 16 7 4 3 2 1 1 1 1 0 Following disease progression 172 of the 203 patients (84.7%) initially randomised to placebo crossed over to open-label Afinitor.
+
+[Afinitor 10 mg tablets]
+
+(all sentences already above)

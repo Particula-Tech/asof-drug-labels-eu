@@ -15,6 +15,7 @@ Breast-feeding
 It is not known whether everolimus is excreted in breast milk.
 However, in rats, everolimus and/or its metabolites readily pass into the milk (see section 5.3).
 Therefore, women taking everolimus should not breast-feed.
+
 Fertility
 The potential for everolimus to cause infertility in male and female patients is unknown, however amenorrhoea (secondary amenorrhoea and other menstrual irregularities) and associated luteinising hormone (LH)/follicle stimulating hormone (FSH) imbalance has been observed in female patients.
 Based on non-clinical findings, male and female fertility may be compromised by treatment with everolimus (see section 5.3).

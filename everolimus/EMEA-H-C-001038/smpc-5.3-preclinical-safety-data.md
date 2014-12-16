@@ -13,7 +13,6 @@ There was evidence of reversibility.
 
 In animal reproductive studies female fertility was not affected.
 However, oral doses of everolimus in female rats at ≥0.1 mg/kg (approximately 4% of the AUC0-24h in patients receiving the 10 mg daily dose) resulted in increases in pre-implantation loss.
-
 Everolimus crossed the placenta and was toxic to the foetus.
 In rats, everolimus caused embryo/foetotoxicity at systemic exposure below the therapeutic level.
 This was manifested as mortality and reduced foetal weight.
