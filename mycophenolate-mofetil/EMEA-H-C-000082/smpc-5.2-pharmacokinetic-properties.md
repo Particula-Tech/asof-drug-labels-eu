@@ -11,6 +11,7 @@ Distribution
 As a result of enterohepatic recirculation, secondary increases in plasma MPA concentration are usually observed at approximately 6 – 12 hours post-dose.
 A reduction in the AUC of MPA of approximately 40 % is associated with the co-administration of cholestyramine (4 g TID), indicating that there is a significant amount of enterohepatic recirculation.
 MPA at clinically relevant concentrations is 97 % bound to plasma albumin.
+
 Biotransformation
 MPA is metabolised principally by glucuronyl transferase to form the phenolic glucuronide of MPA (MPAG), which is not pharmacologically active.
 
@@ -45,7 +46,6 @@ Children and adolescents (aged 2 to 18 years):
 Pharmacokinetic parameters were evaluated in 49 paediatric renal transplant patients given 600 mg/m2 mycophenolate mofetil orally twice daily.
 This dose achieved MPA AUC values similar to those seen in adult renal transplant patients receiving CellCept at a dose of 1 g bid in the early and late post-transplant period.
 MPA AUC values across age groups were similar in the early and late post-transplant period.
-
 Elderly patients (≥ 65 years):
 Pharmacokinetic behaviour of CellCept in the elderly has not been formally evaluated.
 

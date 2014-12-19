@@ -68,7 +68,7 @@ Use in elderly (≥ 65 years): the recommended dose of 1 g administered twice a 
 
 No data are available for hepatic transplant patients with severe chronic renal impairment.
 
-For instructions on reconstitution and dilution of the medicinal product before administration, see section 6.6
+For instructions on reconstitution and dilution of the medicinal product before administration, see section 6.6.
 
 [CellCept 1 g/5 ml powder for oral suspension.]
 

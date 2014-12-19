@@ -7,8 +7,20 @@ As general advice to minimise the risk for skin cancer, exposure to sunlight and
 Patients receiving CellCept should be instructed to report immediately any evidence of infection, unexpected bruising, bleeding or any other manifestation of bone marrow depression.
 
 Patients treated with immunosuppressants, including CellCept, are at increased risk for opportunistic infections (bacterial, fungal, viral and protozoal), fatal infections and sepsis (see section 4.8).
-Such infections include latent viral reactivation, such as hepatitis B or hepatitis C reactivation and infections caused by polyomaviruses (BK virus associated nephropathy, JC virus associated progressive multifocal leukoencephalopathy PML) Cases of hepatitis due to reactivation of hepatitis B or hepatitis C have been reported in carrier patients treated with immunosuppressants.
+Such infections include latent viral reactivation, such as hepatitis B or hepatitis C reactivation and infections caused by polyomaviruses (BK virus associated nephropathy, JC virus associated progressive multifocal leukoencephalopathy PML).
+Cases of hepatitis due to reactivation of hepatitis B or hepatitis C have been reported in carrier patients treated with immunosuppressants.
 These infections are often related to a high total immunosuppressive burden and may lead to serious or fatal conditions that physicians should consider in the differential diagnosis in immunosuppressed patients with deteriorating renal function or neurological symptoms.
+
+There have been reports of hypogammaglobulinaemia in association with recurrent infections in patients receiving CellCept in combination with other immunosuppressants.
+In some of these cases switching CellCept to an alternative immunosuppressant resulted in serum IgG levels returning to normal.
+Patients on CellCept who develop recurrent infections should have their serum immunoglobulins measured.
+In cases of sustained, clinically relevant hypogammaglobulinaemia, appropriate clinical action should be considered taking into account the potent cytostatic effects that mycophenolic acid has on T- and B-lymphocytes.
+
+There have been published reports of bronchiectasis in adults and children who received CellCept in combination with other immunosuppressants.
+In some of these cases switching CellCept to another immunosuppressant resulted in improvement in respiratory symptoms.
+The risk of bronchiectasis may be linked to hypogammaglobulinaemia or to a direct effect on the lung.
+There have also been isolated reports of interstitial lung disease and pulmonary fibrosis, some of which were fatal (see section 4.8).
+It is recommended that patients who develop persistent pulmonary symptoms, such as cough and dyspnoea, are investigated.
 
 Patients receiving CellCept should be monitored for neutropenia, which may be related to CellCept itself, concomitant medications, viral infections, or some combination of these causes.
 Patients taking CellCept should have complete blood counts weekly during the first month, twice monthly for the second and third months of treatment, then monthly through the first year.
@@ -35,9 +47,6 @@ In view of the significant reduction in the AUC of MPA by cholestyramine, cautio
 The risk: benefit of mycophenolate mofetil in combination with tacrolimus or sirolimus has not been established (see also section 4.5).
 
 [CellCept 500 mg powder for concentrate for solution for infusion.]
-
-Such infections include latent viral reactivation, such as hepatitis B or hepatitis C reactivation and infections caused by polyomaviruses (BK virus associated nephropathy, JC virus associated progressive multifocal leukoencephalopathy PML) .
-Cases of hepatitis due to reactivation of hepatitis B or hepatitis C have been reported in carrier patients treated with immunosuppressants.
 
 If neutropenia develops (absolute neutrophil count < 1.3 x 103/µl) it may be appropriate to interrupt or discontinue CellCept.
 

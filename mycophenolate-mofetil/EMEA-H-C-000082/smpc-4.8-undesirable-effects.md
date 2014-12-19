@@ -37,7 +37,7 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Very common | - |
 |  | Common | Skin cancer, benign neoplasm of skin |
 | Blood and lymphatic system disorders | Very common | Leucopenia, thrombocytopenia, anaemia |
-|  | Common | Pancytopenia, leucocytosis |
+|  | Common | Pancytopenia, leukocytosis |
 | Metabolism and nutrition disorders | Very common | - |
 |  | Common | Acidosis, hyperkalaemia, hypokalaemia, hyperglycaemia, hypomagnesaemia, hypocalcaemia, hypercholesterolaemia, hyperlipidaemia, hypophosphataemia, hyperuricaemia, gout, anorexia |
 | Psychiatric disorders | Very common | - |
@@ -90,6 +90,10 @@ Congenital disorders: see further details in section 4.6.
 
 Respiratory, thoracic and mediastinal disorders:
 There have been isolated reports of interstitial lung disease and pulmonary fibrosis in patients treated with CellCept in combination with other immunosuppressants, some of which have been fatal.
+There have also been reports of bronchiectasis in children and adults (frequency not known).
+Immune system disorders:
+Hypogammaglobulinaemia has been reported in patients receiving CellCept in combination with other immunosuppressants (frequency not known).
+
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
@@ -102,7 +106,6 @@ The adverse reaction profile associated with the administration of CellCept 500 
 The following data refer to the safety experience of oral CellCept in renal transplant patients.
 Data in hepatic transplant patients are based on i.v. dosing of CellCept for up to 14 days followed by oral dosing.
 Adverse reactions, probably or possibly related to CellCept, reported in ≥1/10 and in ≥1/100 to <1/10 of patients treated with CellCept in the controlled clinical trials of renal (2 g data) and hepatic transplant patients are listed in the following table.
-
 Adverse Reactions, Probably or Possibly Related to CellCept, Reported in Patients Treated with CellCept in Renal and Hepatic Clinical Trials when Used in Combination with Ciclosporin and Corticosteroids
 
 | System organ class |  | Adverse drug reactions |
@@ -112,7 +115,7 @@ Adverse Reactions, Probably or Possibly Related to CellCept, Reported in Patient
 | Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Very common | - |
 |  | Common | Skin cancer, benign neoplasm of skin |
 | Blood and lymphatic system disorders | Very common | Leucopenia, thrombocytopenia, anaemia |
-|  | Common | Pancytopenia, leucocytosis |
+|  | Common | Pancytopenia, leukocytosis |
 | Metabolism and nutrition disorders | Very common | - |
 |  | Common | Acidosis, hyperkalaemia, hypokalaemia, hyperglycaemia, hypomagnesaemia, hypocalcaemia, hypercholesterolaemia, hyperlipidaemia, hypophosphataemia, anorexia |
 | Psychiatric disorders | Very common | - |
@@ -157,45 +160,9 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 [CellCept 1 g/5 ml powder for oral suspension.]
 
 However, the following treatment-related adverse events were more frequent in the paediatric population, particularly in children under 6 years of age, when compared to adults: diarrhoea, sepsis, leucopenia, anaemia and infection.
-
 Elderly patients receiving CellCept as part of a combination immunosuppressive regimen may be at increased risk of certain infections (including cytomegalovirus tissue invasive disease) and possibly gastrointestinal haemorrhage and pulmonary oedema, compared to younger individuals.
 
 Adverse reactions, probably or possibly related to CellCept, reported in ≥1/10 and in ≥1/100 to <1/10 of patients treated with CellCept in the controlled clinical trials of renal (2 g data), cardiac and hepatic transplant patients are listed in the following table.
-
-| System organ class |  | Adverse drug reactions |
-| --- | --- | --- |
-| Infections and infestations | Very common | Sepsis, gastrointestinal candidiasis, urinary tract infection, herpes simplex, herpes zoster |
-|  | Common | Pneumonia, influenza, respiratory tract infection, respiratory moniliasis, gastrointestinal infection, candidiasis, gastroenteritis, infection, bronchitis, pharyngitis, sinusitis, fungal skin infection, skin candida, vaginal candidiasis, rhinitis |
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Very common | - |
-|  | Common | Skin cancer, benign neoplasm of skin |
-| Blood and lymphatic system disorders | Very common | Leucopenia, thrombocytopenia, anaemia |
-|  | Common | Pancytopenia, leukocytosis |
-| Metabolism and nutrition disorders | Very common | - |
-|  | Common | Acidosis, hyperkalaemia, hypokalaemia, hyperglycaemia, hypomagnesaemia, hypocalcaemia, hypercholesterolaemia, hyperlipidaemia, hypophosphataemia, hyperuricaemia, gout, anorexia |
-| Psychiatric disorders | Very common | - |
-|  | Common | Agitation, confusional state, depression, anxiety, thinking abnormal, insomnia |
-| Nervous system disorders | Very common | - |
-|  | Common | Convulsion, hypertonia, tremor, somnolence, myasthenic syndrome, dizziness, headache, paraesthesia, dysgeusia |
-| Cardiac disorders | Very common | - |
-|  | Common | Tachycardia |
-| Vascular disorders | Very common | - |
-|  | Common | Hypotension, hypertension, vasodilatation |
-| Respiratory, thoracic and mediastinal disorders | Very common | - |
-|  | Common | Pleural effusion, dyspnoea, cough |
-| Gastrointestinal disorders | Very common | Vomiting, abdominal pain, diarrhoea, nausea |
-|  | Common | Gastrointestinal haemorrhage, peritonitis, ileus, colitis, gastric ulcer, duodenal ulcer, gastritis, oesophagitis, stomatitis, constipation, dyspepsia, flatulence, eructation |
-| Hepatobiliary disorders | Very common | - |
-|  | Common | Hepatitis, jaundice, hyperbilirubinaemia |
-| Skin and subcutaneous tissue disorders | Very common | - |
-|  | Common | Skin hypertrophy, rash, acne, alopecia, |
-| Musculoskeletal and connective Tissue disorders | Very common | - |
-|  | Common | Arthralgia |
-| Renal and urinary disorders | Very common | - |
-|  | Common | Renal impairment |
-| General disorders and administration site conditions | Very common | - |
-|  | Common | Oedema, pyrexia, chills, pain, malaise, asthenia, |
-| Investigations | Very common | - |
-|  | Common | Hepatic enzyme increased, blood creatinine increased, blood lactate dehydrogenase increased, blood urea increased, blood alkaline phosphatase increased, weight decreased |
 
 Gastrointestinal: gingival hyperplasia (≥1/100 to <1/10), colitis including cytomegaloviruscolitis, (≥1/100 to <1/10), pancreatitis (≥1/100 to <1/10) and intestinal villous atrophy.
 

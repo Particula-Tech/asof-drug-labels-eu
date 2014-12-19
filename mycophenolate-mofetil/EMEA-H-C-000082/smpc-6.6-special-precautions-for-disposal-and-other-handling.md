@@ -22,7 +22,6 @@ b. Gently shake the vial to dissolve the medicinal product yielding a slightly y
 
 c. Inspect the resulting solution for particulate matter and discoloration prior to further dilution.
 Discard the vial if particulate matter or discoloration is observed.
-
 Step 2 a. Further dilute the content of the two reconstituted vials (approx. 2 x 15 ml) into 140 ml of glucose intravenous infusion 5 %.
 The final concentration of the solution is 6 mg/ml mycophenolate mofetil.
 
@@ -39,6 +38,7 @@ Because mycophenolate mofetil has demonstrated teratogenic effects in rats and r
 Because mycophenolate mofetil has demonstrated teratogenic effects in rats and rabbits, avoid inhalation or direct contact with skin or mucous membranes of the dry powder as well as direct contact of the reconstituted suspension with the skin.
 
 It is recommended that CellCept 1 g/5 ml powder for oral suspension be reconstituted by the pharmacist prior to dispensing to the patient.
+
 Preparation of suspension
 
 1.
