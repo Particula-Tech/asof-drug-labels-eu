@@ -6,5 +6,5 @@ Boric acid (E284)
 Mannitol (E421)
 Sodium chloride
 Propylene glycol (E1520)
-Sodium hydroxide and/or hydrochloric acid (to adjust pH)
+Sodium hydroxide and/or hydrochloric acid (for pH-adjustment)
 Purified water

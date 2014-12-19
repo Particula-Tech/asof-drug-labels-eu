@@ -1,3 +1,3 @@
 # 1. NAME OF THE MEDICINAL PRODUCT
 
-TRAVATAN 40 micrograms/ml eye drops, solution
+TRAVATAN 40 micrograms/mL eye drops, solution
