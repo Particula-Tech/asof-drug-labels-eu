@@ -19,7 +19,6 @@ Biotransformation
 During 24 hours following administration of a single radiolabelled [3H]-liraglutide dose to healthy subjects, the major component in plasma was intact liraglutide.
 Two minor plasma metabolites were detected (≤9% and ≤5% of total plasma radioactivity exposure).
 Liraglutide is metabolised in a similar manner to large proteins without a specific organ having been identified as major route of elimination.
-
 Elimination
 
 Following a [3H]-liraglutide dose, intact liraglutide was not detected in urine or faeces.
@@ -50,3 +49,4 @@ Exposure was significantly lower (44%) in patients with severe hepatic impairmen
 Renal impairment:
 Liraglutide exposure was reduced in patients with renal impairment compared to individuals with normal renal function.
 Liraglutide exposure was lowered by 33%, 14%, 27% and 28%, respectively, in patients with mild (creatinine clearance, CrCl 50-80 ml/min), moderate (CrCl 30-50 ml/min), and severe (CrCl <30 ml/min) renal impairment and in end-stage renal disease requiring dialysis.
+Similarly, in a 26-week clinical trial, patients with type 2 diabetes and moderate renal impairment (CrCL 30-59 ml/min, see section 5.1) had 26% lower liraglutide exposure when compared with a separate trial including patients with type 2 diabetes with normal renal function or mild renal impairment.

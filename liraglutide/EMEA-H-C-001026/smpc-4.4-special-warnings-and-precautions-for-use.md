@@ -10,21 +10,21 @@ There is no experience in patients with congestive heart failure NYHA class III-
 There is limited experience in patients with inflammatory bowel disease and diabetic gastroparesis.
 Use of liraglutide is not recommended in these patients since it is associated with transient gastrointestinal adverse reactions, including nausea, vomiting and diarrhoea.
 
-Pancreatitis
+Acute pancreatitis
 
-Use of GLP-1 analogues has been associated with the risk of pancreatitis.
+Use of GLP-1 receptor agonists has been associated with a risk of developing acute pancreatitis.
 There have been few reported events of acute pancreatitis.
-Patients should be informed of the characteristic symptom of acute pancreatitis: persistent, severe abdominal pain.
-If pancreatitis is suspected, Victoza and other potentially suspect medicinal products should be discontinued.
+Patients should be informed of the characteristic symptoms of acute pancreatitis.
+If pancreatitis is suspected, Victoza should be discontinued; if acute pancreatitis is confirmed, Victoza should not be restarted.
+Caution should be exercised in patients with a history of pancreatitis.
 
 Thyroid disease
-
 Thyroid adverse events, including increased blood calcitonin, goitre and thyroid neoplasm have been reported in clinical trials in particular in patients with pre-existing thyroid disease and liraglutide should therefore be used with caution.
 
 Hypoglycaemia
 
-Patients receiving liraglutide in combination with a sulphonylurea or a basal insulin may have an increased risk of hypoglycaemia (see section 4.8).
-The risk of hypoglycaemia can be lowered by a reduction in the dose of sulphonylurea or basal insulin.
+Patients receiving liraglutide in combination with a sulfonylurea or a basal insulin may have an increased risk of hypoglycaemia (see section 4.8).
+The risk of hypoglycaemia can be lowered by a reduction in the dose of sulfonylurea or basal insulin.
 
 Dehydration
 
