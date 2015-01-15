@@ -7,7 +7,6 @@ Serum concentrations: After inhalation of a 112 mg single dose (4 x 28 mg capsul
 In comparison, after inhalation of a single dose of tobramycin 300 mg/5 ml nebuliser solution (TOBI), Cmax was 1.04 ± 0.58 µg/ml and median Tmax was one hour.
 The extent of systemic exposure (AUC) was also similar for the 112 mg TOBI Podhaler dose and the 300 mg tobramycin nebuliser solution dose.
 At the end of a 4-week dosing cycle of TOBI Podhaler (112 mg twice daily), maximum serum concentration of tobramycin 1 hour after dosing was 1.99 ± 0.59 µg/ml.
-
 Sputum concentrations: After inhalation of a 112 mg single dose (4 x 28 mg capsules) of TOBI Podhaler in cystic fibrosis patients, sputum Cmax of tobramycin was 1047 ± 1080 µg/g (mean ± SD).
 In comparison, after inhalation of a single 300 mg dose of tobramycin nebuliser solution (TOBI), sputum Cmax was 737.3 ± 1028.4 µg/g.
 The variability in pharmacokinetic parameters was higher in sputum as compared to serum.

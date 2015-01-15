@@ -9,10 +9,10 @@ It is bactericidal at concentrations equal to or slightly greater than inhibitor
 
 Breakpoints
 Established susceptibility breakpoints for parenteral administration of tobramycin are inappropriate in the aerosolised administration of the medicinal product.
+
 Sputum from cystic fibrosis exhibits an inhibitory action on the local biological activity of inhaled aminoglycosides.
 This necessitates sputum concentrations of tobramycin after inhalation to be about ten-fold above the minimum inhibitory concentration (MIC) or higher for P. aeruginosa suppression.
 In the active-controlled study, at least 89% of patients had P. aeruginosa isolates with MICs at least 15 times lower than mean post-dose sputum concentration, both at baseline and at the end of the third active treatment cycle.
-
 Susceptibility
 In the absence of conventional susceptibility breakpoints for the inhaled route of administration, caution must be exercised in defining organisms as susceptible or insusceptible to inhaled tobramycin.
 
@@ -40,12 +40,12 @@ In addition, all patients were infected with P. aeruginosa as demonstrated by a 
 In a randomised, double-blind, placebo-controlled, multicentre study, TOBI Podhaler 112 mg (4 x 28 mg capsules) was administered twice daily, for three cycles of 28 days on-treatment and 28 days off-treatment (a total treatment period of 24 weeks).
 Patients who were randomised to the placebo treatment group received placebo during the first treatment cycle and TOBI Podhaler in the subsequent two cycles.
 Patients in this study had no exposure to inhaled tobramycin for at least 4 months prior to study start.
+
 TOBI Podhaler significantly improved lung function compared with placebo, as shown by the relative increase in percent predicted FEV1 of about 13% after 28 days of treatment.
 The improvements in lung function achieved during the first treatment cycle were maintained during the two subsequent cycles of treatment with TOBI Podhaler.
 
 When patients in the placebo treatment group were switched from placebo to TOBI Podhaler at the start of the second treatment cycle, they experienced a similar improvement from baseline in percent predicted FEV1.
 Treatment with TOBI Podhaler for 28 days resulted in a statistically significant reduction in P. aeruginosa sputum density (mean difference with placebo about 2.70 log10 in colony forming units/CFUs).
-
 In a second open-label, multicentre study, patients received treatment with either TOBI Podhaler
 (112 mg) or tobramycin 300 mg/5 ml nebuliser solution (TOBI), administered twice daily for three cycles.
 A majority of the patients were tobramycin-experienced adults with chronic pulmonary P. aeruginosa infection.
@@ -70,5 +70,3 @@ In the active-controlled study, administration of a TOBI Podhaler dose was faste
 Patient-reported convenience and overall treatment satisfaction (as collected through a patient-reported outcomes questionnaire) were consistently higher with TOBI Podhaler compared with tobramycin nebuliser solution in each cycle.
 
 For safety results see section 4.8.
-
-The European Medicines Agency has deferred the obligation to submit the results of studies with inhaled tobramycin in one or more subsets of the paediatric population in Pseudomonas aeruginosa pulmonary infection/colonisation in patients with cystic fibrosis (see section 4.2 for information on paediatric use).

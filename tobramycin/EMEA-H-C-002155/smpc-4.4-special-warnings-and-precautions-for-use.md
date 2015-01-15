@@ -83,5 +83,3 @@ If clinical deterioration of pulmonary status is evident, additional or alternat
 Observed benefits on lung function and P. aeruginosa suppression should be assessed in the context of the patient’s tolerance of TOBI Podhaler.
 
 Safety and efficacy have not been studied in patients with forced expiratory volume in 1 second (FEV1) <25% or >75% predicted, or patients colonised with Burkholderia cepacia.
-
-Long-term safety data are not available for TOBI Podhaler.

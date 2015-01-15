@@ -9,12 +9,12 @@ The two doses (of 4 capsules each) should be inhaled as close as possible to 12 
 In case of missed dose with at least 6 hours until the next dose, the patient should take the dose as soon as possible.
 Otherwise, the patient should wait for the next dose and not inhale more capsules to make up for the missed dose.
 
-Treatment with TOBI Podhaler should be continued on a cyclical basis for as long as the physician considers the patient is gaining clinical benefit from the treatment with TOBI Podhaler taking into account that long-term safety data are not available for TOBI Podhaler.
+Treatment with TOBI Podhaler should be continued on a cyclical basis for as long as the physician considers the patient is gaining clinical benefit from the treatment with TOBI Podhaler.
 If clinical deterioration of pulmonary status is evident, additional or alternative anti-pseudomonal therapy should be considered.
 See also information on clinical benefit and tolerability in sections 4.4, 4.8 and 5.1.
 
 Special populations
-Elderly patients (≥65 years)
+Older people (≥65 years)
 There are insufficient data in this population to support a recommendation for or against dose adjustment.
 Patients with renal impairment
 Tobramycin is primarily excreted unchanged in the urine and renal function is expected to affect the exposure to tobramycin.
