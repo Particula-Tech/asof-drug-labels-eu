@@ -1,5 +1,6 @@
 # 4.8 Undesirable effects
 
+Summary of safety profile
 Based on an analysis of all chronic ITP patients receiving eltrombopag in 3 controlled and 2 uncontrolled clinical studies, the overall incidence of adverse reactions in subjects treated with eltrombopag was 82 % (367/446).
 The median duration of exposure to eltrombopag was 304 days and patient year’s exposure was 377 in this study population.
 
@@ -9,8 +10,10 @@ In the HCV studies the safety population consisted of all randomized subjects wh
 Subjects are analysed according to the treatment received (total safety double blind population, eltrombopag N=955 and placebo N=484).
 
 The most important serious adverse reactions identified in the ITP or HCV trials were hepatotoxicity and thrombotic/thromboembolic events.
+
 The most common adverse reactions (experienced by at least 10 % of patients) of any grade in the ITP or HCV trials included; headache, anaemia, decreased appetite, insomnia, cough, nausea, diarrhoea, alopecia, pruritus, myalgia, pyrexia, fatigue, influenza like illness, asthenia, chills and peripheral oedema.
 
+List of adverse reactions
 The adverse reactions in the ITP studies (N = 446) and in the HCV studies (N = 955) are listed below by MedDRA system organ class and by frequency.
 
 Very common (≥ 1/10)
@@ -20,17 +23,13 @@ Rare (≥ 1/10,000 to < 1/1,000)
 Very rare (< 1/10,000)
 Not known (cannot be estimated from the available data)
 
-Summary of the safety profile
-
-Tabulated list of adverse reactions
-
 ITP study population
 
 Infections and infestations
 
-Uncommon Pharyngitis, Urinary tract infection, Influenza, Nasopharyngitis, Oral herpes,
+Uncommon Pharyngitis, Urinary tract infection, Influenza, Oral herpes, Pneumonia,
 
-Pneumonia, Sinusitis, Tonsillitis, Upper respiratory tract infection
+Sinusitis, Tonsillitis, Respiratory tract infection
 
 Neoplasms benign, malignant and unspecified (incl cysts and polyps)
 
@@ -48,29 +47,27 @@ Uncommon Hypersensitivity
 
 Metabolism and nutrition disorders
 
-Uncommon Anorexia, Hypokalaemia, Decreased appetite, Increased appetite, Gout,
+Uncommon Anorexia, Hypokalaemia, Decreased appetite, Gout, Hypocalcaemia, Blood
 
-Hypocalcaemia, Blood uric acid increased
+uric acid increased
 
 Psychiatric disorders
 
-Common Insomnia
-Uncommon Sleep disorder, Anxiety, Depression, Apathy, Mood altered, Tearfulness
+Uncommon Sleep disorder, Depression, Apathy, Mood altered, Tearfulness
 
 Nervous systems disorders
 
-Very Common Headache
 Common Paraesthesia
-Uncommon Dizziness, Dysgeusia, Hypoaesthesia, Somnolence, Migraine, Tremor,
+Uncommon Hypoaesthesia, Somnolence, Migraine, Tremor, Balance disorder,
 
-Balance disorder, Dysaesthesia, Hemiparesis, Migraine with aura, Neuropathy peripheral, Peripheral sensory neuropathy, Speech disorder, Toxic neuropathy, Vascular headache
+Dysaesthesia, Hemiparesis, Migraine with aura, Neuropathy peripheral, Peripheral sensory neuropathy, Speech disorder, Toxic neuropathy, Vascular headache
 
 Eye disorders
 
-Common Cataract, Dry eye
-Uncommon Vision blurred, Lenticular opacities, Astigmatism, Cataract cortical,
+Common Dry eye
+Uncommon Vision blurred, Lenticular opacities, Astigmatism, Cataract cortical, Eye
 
-Conjunctival haemorrhage, Eye pain, Lacrimation increased, Retinal haemorrhage, Retinal pigment epitheliopathy, Visual acuity reduced, Visual impairment, Visual acuity tests abnormal, Blepharitis and Keratoconjunctivitis sicca
+pain, Lacrimation increased, Retinal haemorrhage, Retinal pigment epitheliopathy, Visual acuity reduced, Visual impairment, Visual acuity tests abnormal, Blepharitis and Keratoconjunctivitis sicca
 
 Ear and labyrinth disorders
 
@@ -80,32 +77,32 @@ Cardiac disorders
 
 Uncommon Tachycardia, Acute myocardial infarction, Cardiovascular disorder,
 
-Cyanosis, Palpitations, Sinus tachycardia, Electrocardiogram QT prolonged
+Cyanosis, Sinus tachycardia, Electrocardiogram QT prolonged
 
 Vascular disorders
 
-Uncommon Deep vein thrombosis, Hypertension, Embolism, Hot flush,
+Uncommon Deep vein thrombosis, Embolism, Hot flush, Thrombophlebitis superficial,
 
-Thrombophlebitis superficial, Flushing, Haematoma
+Flushing, Haematoma
 
 Respiratory, thoracic and mediastinal disorders
 
-Uncommon Epistaxis, Pulmonary embolism, Pulmonary infarction, Cough, Nasal
+Uncommon Pulmonary embolism, Pulmonary infarction, Nasal discomfort,
 
-discomfort, Oropharyngeal blistering, Oropharyngeal pain, Sinus disorder, Sleep apnoea syndrome
+Oropharyngeal blistering, Oropharyngeal pain, Sinus disorder, Sleep apnoea syndrome
 
 Gastrointestinal disorders
 
-Common Nausea, Diarrhoea, Constipation, Abdominal pain upper
-Uncommon Abdominal discomfort, Abdominal distension, Dry mouth, Dyspepsia,
+Common Nausea, Diarrhoea
+Uncommon Dry mouth, Vomiting, Abdominal pain, Glossodynia, Mouth haemorrhage,
 
-Vomiting, Abdominal pain, Gingival bleeding, Glossodynia, Haemorrhoids, Mouth haemorrhage, Abdominal tenderness, Faeces discoloured, Flatulence, Food poisoning, Frequent bowel movements, Haematemesis, Oral discomfort
+Abdominal tenderness, Faeces discoloured, Flatulence, Food poisoning, Frequent bowel movements, Haematemesis, Oral discomfort
 
 Hepatobiliary disorders
 
-Common Alanine aminotransferase increased*, Aspartate aminotransferase
+Common Alanine aminotransferase increased*, Aspartate aminotransferase increased*,
 
-increased*, Blood bilirubin increased, Hyperbilirubinaemia, Hepatic function abnormal
+Hyperbilirubinaemia, Hepatic function abnormal
 
 Uncommon Cholestasis, Hepatic lesion, Hepatitis
 
@@ -113,15 +110,15 @@ Uncommon Cholestasis, Hepatic lesion, Hepatitis
 
 Skin and subcutaneous tissue disorders
 
-Common Rash, Pruritus, Alopecia
-Uncommon Ecchymosis, Hyperhidrosis, Pruritus generalised, Urticaria, Dermatosis,
+Common Rash, Alopecia
+Uncommon Hyperhidrosis, Pruritus generalised, Urticaria, Dermatosis, Petechiae, Cold
 
-Petechiae, Cold sweat, Erythema, Melanosis, Night sweats, Pigmentation disorder, Skin discolouration, Skin exfoliation, Swelling face
+sweat, Erythema, Melanosis, Pigmentation disorder, Skin discolouration, Skin exfoliation
 
 Musculoskeletal and connective tissue disorders
 
-Common Arthralgia, Myalgia, Muscle spasm, Bone pain
-Uncommon Muscular weakness, Pain in extremity, Sensation of heaviness
+Common Myalgia, Muscle spasm, Musculoskeletal pain, Bone pain, Back pain
+Uncommon Muscular weakness
 
 Renal and urinary disorders
 
@@ -129,22 +126,25 @@ Uncommon Renal failure, Leukocyturia, Lupus nephritis, Nocturia, Proteinuria, Bl
 
 urea increased, Blood creatinine increased, Urine protein/creatinine ratio increased
 
+Reproductive system and breast disorders
+
+Common Menorrhagia
+
 General disorders and administration site conditions
 
-Common Fatigue, Oedema peripheral
-Uncommon Chest pain, Feeling hot, Pain, Vessel puncture site haemorrhage, Asthenia,
+Uncommon Chest pain, Feeling hot, Vessel puncture site haemorrhage, Asthenia, Feeling
 
-Feeling jittery, Ill-defined disorder, Inflammation of wound, Influenza like illness, Malaise, Mucosal inflammation, Non-cardiac chest pain, Pyrexia, Sensation of foreign body
+jittery, Inflammation of wound, Malaise, Pyrexia, Sensation of foreign body
 
 Investigations
 
 Uncommon Blood albumin increased, Blood alkaline phosphatase increased, Protein
 
-total increased, Weight increased, Blood albumin decreased, pH urine increased
+total increased, Blood albumin decreased, pH urine increased
 
 Injury, poisoning and procedural complications
 
-Uncommon Contusion, Sunburn
+Uncommon Sunburn
 
 HCV study population (in combination with anti-viral interferon and ribavirin therapy)
 
@@ -276,11 +276,15 @@ Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Annex V.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system
+
+listed in Appendix V.
 
 [Revolade 50 mg film-coated tablets]
 
-The adverse reactionsin the ITP studies (N = 446) and in the HCV studies (N = 955) are listed below by MedDRA system organ class and by frequency.
+Summary of the safety profile
+
+Common Myalgia, Muscle spasm, Musculosketal pain, Bone pain, Back pain
 
 [Revolade 75 mg film-coated tablets]
 

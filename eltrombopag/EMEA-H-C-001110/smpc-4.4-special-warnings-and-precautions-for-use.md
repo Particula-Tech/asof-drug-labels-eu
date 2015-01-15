@@ -1,7 +1,7 @@
 # 4.4 Special warnings and precautions for use
 
 There is an increased risk for adverse reactions, including potentially fatal hepatic decompensation and thromboembolic events, in thrombocytopenic HCV patients with advanced chronic liver disease, as defined by low albumin levels ≤ 35 g/L or MELD score ≥ 10, when treated with eltrombopag in combination with interferon-based therapy.
-In addition, the benefits of treatment in terms of the proportion achieving SVR compared with placebo were modest in these patients (especially for those with baseline albumin ≤ 35g/L) compared with the group overall.
+In addition, the benefits of treatment in terms of the proportion achieving sustained virological response (SVR) compared with placebo were modest in these patients (especially for those with baseline albumin ≤ 35g/L) compared with the group overall.
 Treatment with eltrombopag in these patients should be initiated only by physicians experienced in the management of advanced HCV, and only when the risks of thrombocytopenia or withholding antiviral therapy necessitate intervention.
 If treatment is considered clinically indicated, close monitoring of these patients is required.
 
@@ -27,7 +27,11 @@ If bilirubin is elevated perform fractionation.
 Abnormal serum liver tests should be evaluated with repeat testing within 3 to 5 days.
 If the abnormalities are confirmed, serum liver tests should be monitored until the abnormalities resolve, stabilise, or return to baseline levels.
 Eltrombopag should be discontinued if ALT levels increase (≥ 3X ULN in patients with normal liver function or ≥ 3X baseline in patients with pre-treatment elevations in transaminases) and are:
-• progressive, or • persistent for ≥ 4 weeks, or • accompanied by increased direct bilirubin, or • accompanied by clinical symptoms of liver injury or evidence for hepatic decompensation
+
+- progressive, or
+- persistent for ≥ 4 weeks, or
+- accompanied by increased direct bilirubin, or
+- accompanied by clinical symptoms of liver injury or evidence for hepatic decompensation
 
 Exercise caution when administering eltrombopag to patients with hepatic disease.
 In ITP patients use a lower starting dose of eltrombopag and monitor closely when administering to patients with hepatic impairment (see section 4.2).
@@ -48,13 +52,12 @@ Eltrombopag should be terminated if antiviral therapy is discontinued for hepati
 Thrombotic/Thromboembolic complications
 
 In controlled studies in thrombocytopenic patients with HCV receiving interferon-based therapy
-(n = 1439), 38 out of 955 subjects (4 %) treated with eltrombopag and 6 out of 484 subjects (1 %) in the placebo group experienced TEEs.
+(n = 1439), 38 out of 955 subjects (4 %) treated with eltrombopag and 6 out of 484 subjects (1 %) in the placebo group experienced thromboembolic events (TEEs).
 Reported thrombotic/thromboembolic complications included both venous and arterial events.
 The majority of TEEs were non-serious and resolved by the end of the study.
 Portal vein thrombosis was the most common TEE in both treatment groups (2 % in patients treated with eltrombopag versus < 1 % for placebo).
 No specific temporal relationship between start of treatment and event of TEE were observed.
-Patients with low albumin levels
-(≤ 35 g/L) or MELD ≥ 10 had a twofold greater risk of TEEs than those with higher albumin levels; those aged ≥ 60 years had a 2-fold greater risk of TEEs compared to younger patients.
+Patients with low albumin levels (≤ 35 g/L) or MELD ≥ 10 had a twofold greater risk of TEEs than those with higher albumin levels; those aged ≥ 60 years had a 2-fold greater risk of TEEs compared to younger patients.
 Eltrombopag should only be administered to such patients after careful consideration of the expected benefits in comparison with the risks.
 Patients should be closely monitored for signs and symptoms of TEE.
 
@@ -67,7 +70,6 @@ In eltrombopag clinical trials in ITP thromboembolic events were observed at low
 Caution should be used when administering eltrombopag to patients with known risk factors for thromboembolism including but not limited to inherited (e.g. Factor V Leiden) or acquired risk factors (e.g. ATIII deficiency, antiphospholipid syndrome), advanced age, patients with prolonged periods of immobilisation, malignancies, contraceptives and hormone replacement therapy, surgery/trauma, obesity and smoking.
 Platelet counts should be closely monitored and consideration given to reducing the dose or discontinuing eltrombopag treatment if the platelet count exceeds the target levels (see section 4.2).
 The risk-benefit balance should be considered in patients at risk of thromboembolic events (TEEs) of any aetiology.
-
 Eltrombopag should not be used in ITP patients with hepatic impairment (Child-Pugh score ≥ 5) unless the expected benefit outweighs the identified risk of portal venous thrombosis.
 When treatment is considered appropriate, exercise caution when administering eltrombopag to patients with hepatic impairment (see sections 4.2 and 4.8).
 
@@ -106,6 +108,7 @@ Consideration should be given to performing a bone marrow aspirate and biopsy ov
 
 The effectiveness and safety of eltrombopag have not been established for use in other thrombocytopenic conditions including chemotherapy-induced thrombocytopenia or MDS.
 Eltrombopag should not be used outside of clinical trials for the treatment of thrombocytopenia due to MDS or any other cause of thrombocytopenia other than the approved indications.
+
 Ocular changes
 
 Cataracts were observed in toxicology studies of eltrombopag in rodents (see section 5.3).
@@ -123,5 +126,3 @@ The clinical significance of these QTc prolongation events is unknown.
 Loss of response to eltrombopag
 
 A loss of response or failure to maintain a platelet response with eltrombopag treatment within the recommended dosing range should prompt a search for causative factors, including an increased bone marrow reticulin.
-
-This medicinal product contains less than 1 mmol sodium (23 mg) per 100 mg, i.e. essentially ‘sodium- free’.

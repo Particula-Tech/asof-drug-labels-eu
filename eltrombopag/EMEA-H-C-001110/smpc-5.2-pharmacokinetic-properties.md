@@ -7,11 +7,11 @@ Plasma eltrombopag AUC(0-τ) and Cmax estimates for ITP patients are presented (
 
 Table 6: Geometric mean (95 % confidence intervals) of steady-state plasma eltrombopag pharmacokinetic parameters in adults with ITP
 
-Eltrombopag dose, once N AUC(0-τ)a, μg.h/ml Cmaxa , μg/ml
-daily
-30 mg 28 47 (39, 58) 3.78 (3.18, 4.49)
-50 mg 34 108 (88, 134) 8.01 (6.73, 9.53)
-75 mg 26 168 (143, 198) 12.7 (11.0, 14.5)
+| Eltrombopag dose, once daily | N | AUC(0-τ)a, μg.h/ml | Cmaxa , μg/ml |
+| --- | --- | --- | --- |
+| 30 mg | 28 | 47 (39, 58) | 3.78 (3.18, 4.49) |
+| 50 mg | 34 | 108 (88, 134) | 8.01 (6.73, 9.53) |
+| 75 mg | 26 | 168 (143, 198) | 12.7 (11.0, 14.5) |
 
 a - AUC(0-τ) and Cmax based on population PK post-hoc estimates.
 
@@ -20,16 +20,12 @@ Plasma eltrombopag Cmax AUC(0-τ) estimates for patients with HCV enrolled in th
 
 Table 7 Geometric mean (95 % CI) steady-state plasma eltrombopag pharmacokinetic parameters in patients with chronic HCV
 
-Eltrombopag Dose N AUC(0-τ) Cmax
-(once daily) (μg.h/ml) (μg/ml)
-25 mg 330 118 6.40
-(109, 128) (5.97, 6.86)
-50 mg 119 166 9.08
-(143, 192) (7.96, 10.35)
-75 mg 45 301 16.71
-(250, 363) (14.26, 19.58)
-100 mg 96 354 19.19
-(304, 411) (16.81, 21.91)
+| Eltrombopag dose (once daily) | N | AUC(0-τ) (μg.h/ml) | Cmax (μg/ml) |
+| --- | --- | --- | --- |
+| 25 mg | 330 | 118 (109, 128) | 6.40 (5.97, 6.86) |
+| 50 mg | 119 | 166 (143, 192) | 9.08 (7.96, 10.35) |
+| 75 mg | 45 | 301 (250, 363) | 16.71 (14.26, 19.58) |
+| 100 mg | 96 | 354 (304, 411) | 19.19 (16.81, 21.91) |
 
 Data presented as geometric mean (95 % CI).
 AUC (0-τ) and Cmax based on population PK post-hoc estimates at the highest dose in the data for each patient.
@@ -101,7 +97,6 @@ Unbound eltrombopag (active) concentrations for this highly protein bound medici
 The influence of hepatic impairment on the pharmacokinetics of eltrombopag following repeat administration was evaluated using a population pharmacokinetic analysis in 28 healthy adults and 714 patients with hepatic impairment (673 patients with HCV and 41 patients with chronic liver disease of other aetiology).
 Of the 714 patients, 642 were with mild hepatic impairment, 67 with moderate hepatic impairment, and 2 with severe hepatic impairment.
 Compared to healthy volunteers, patients with mild hepatic impairment had approximately 111 % (95 % CI: 45 % to 283 %) higher plasma eltrombopag AUC(0-τ) values and patients with moderate hepatic impairment had approximately 183 % (95 % CI: 90 % to 459 %) higher plasma eltrombopag AUC(0-τ) values.
-.
 
 Therefore, eltrombopag should not be used in ITP patients with hepatic impairment (Child-Pugh score ≥ 5) unless the expected benefit outweighs the identified risk of portal venous thrombosis (see sections 4.2 and 4.4).
 For patients with HCV initiate eltrombopag at a dose of 25 mg once daily (see section 4.2).

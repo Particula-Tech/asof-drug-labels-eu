@@ -16,7 +16,6 @@ Renal effects were not observed in rats after 28 weeks or in dogs after 52 weeks
 
 Hepatocyte degeneration and/or necrosis, often accompanied by increased serum liver enzymes, was observed in mice, rats and dogs at doses that were associated with morbidity and mortality or were poorly tolerated.
 No hepatic effects were observed after chronic dosing in rats (28 weeks) and in dogs (52 weeks) at 4 or 2 times the human clinical exposure in ITP patients at 75 mg/day and 2 times and equivalent to the human clinical exposure in HCV patients at 100 mg/day, based on AUC.
-
 At poorly tolerated doses in rats and dogs (> 10 times the human clinical exposure in ITP patients at 75 mg/day and> 4 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC), decreased reticulocyte counts and regenerative bone marrow erythroid hyperplasia (rats only) were observed in short term studies.
 There were no effects of note on red cell mass or reticulocyte counts after dosing for up to 28 weeks in rats, 52 weeks in dogs and 2 years in mice or rats at maximally tolerated doses which were 2 to 4 times human clinical exposure in ITP patients at 75 mg/day and
 ≤ 2 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC.
