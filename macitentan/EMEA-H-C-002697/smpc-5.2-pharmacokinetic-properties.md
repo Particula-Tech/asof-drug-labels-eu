@@ -36,6 +36,7 @@ The major excretion route is via urine, accounting for about 50% of the dose.
 Special populations
 
 There is no clinically relevant effect of age, sex or ethnic origin on the pharmacokinetics of macitentan and its active metabolite.
+
 Renal impairment
 
 Exposure to macitentan and its active metabolite was increased by 1.3- and 1.6-fold, respectively, in patients with severe renal impairment.

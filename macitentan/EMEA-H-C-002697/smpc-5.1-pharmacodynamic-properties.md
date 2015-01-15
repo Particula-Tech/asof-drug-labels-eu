@@ -20,7 +20,9 @@ A multicenter, double-blind, placebo-controlled, parallel-group, event-driven, P
 At baseline, the majority of enrolled patients (64%) were treated with a stable dose of specific therapy for PAH, either oral phosphodiesterase inhibitors (61%) and/or inhaled/oral prostanoids (6%).
 
 The primary endpoint was the time to first occurrence of a morbidity or mortality event, up to the end of double-blind treatment, defined as death, or atrial septostomy, or lung transplantation, or initiation of intravenous (i.v.) or subcutaneous (s.c.) prostanoids, or other worsening of PAH.
-Other worsening of PAH was defined as the presence of all of the three following components: a sustained decrease in 6-minute walk distance (6MWD) of at least 15% from baseline; worsening of PAH symptoms (worsening of WHO FC or right heart failure); and need for new treatment for PAH.
+Other worsening of PAH was defined as the presence of all of the three following components: a sustained decrease in 6-minute walk distance (6MWD) of at least 15% from baseline; worsening of PAH symptoms
+
+(worsening of WHO FC or right heart failure); and need for new treatment for PAH.
 All events were confirmed by an independent adjudication committee, blinded to treatment allocation.
 
 All patients were followed up to end-of-study (EOS) for vital status.
@@ -39,8 +41,8 @@ Treatment with macitentan 10 mg resulted in a 45% risk reduction (hazard ratio [
 The treatment effect was established early and was sustained.
 
 Efficacy of macitentan 10 mg on the primary endpoint was consistent across subgroups of age, sex, ethnic origin, geographical region, aetiology, by monotherapy or in combination with another PAH therapy and by WHO FC (I/II and III/IV).
-
 Figure 1 Kaplan-Meier estimates of the first morbidity-mortality event in SERAPHIN
+
 Table 1 Summary of outcome events
 
 | Endpoints & Statistics | Patients with events |  | Treatment Comparison: Macitentan 10 mg vs Placebo |  |  |  |
@@ -53,7 +55,6 @@ Table 1 Summary of outcome events
 | a = based on Cox’s Proportional Hazards Model b = % of patients with an event at 36 months = 100 × (1 - KM estimate) c= all cause death up to EOT regardless of prior worsening |  |  |  |  |  |  |
 
 The number of deaths of all causes up to EOS on macitentan 10 mg was 35 versus 44 on placebo (HR 0.77; 97.5% CI: 0.46 to 1.28).
-
 The risk of PAH related death or hospitalisation for PAH up to EOT was reduced by 50% (HR 0.50; 97.5% CI: 0.34 to 0.75; logrank p < 0.0001) in patients receiving macitentan 10 mg (50 events) compared to placebo (84 events).
 At 36 months, 44.6% of patients on placebo and 29.4% of patients on macitentan 10 mg (Absolute Risk Reduction = 15.2%) had been hospitalised for PAH or died from a PAH-related cause.
 
@@ -74,6 +75,7 @@ Haemodynamic endpoints
 
 Haemodynamic parameters were assessed in a subset of patients (placebo [N = 67], macitentan 10 mg [N = 57]) after 6 months of treatment.
 Patients treated with macitentan 10 mg achieved a median reduction of 36.5% (97.5% CI: 21.7 to 49.2%) in pulmonary vascular resistance and an increase of 0.58 L/min/m2 (97.5% CI: 0.28 to 0.93 L/min/m2) in cardiac index compared to placebo.
+
 Paediatric population
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with macitentan in all subsets of the paediatric population in PAH (see section 4.2 for information on paediatric use).

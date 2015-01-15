@@ -21,12 +21,15 @@ Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10)
 |  | Common | Influenza |
 |  | Common | Urinary tract infection |
 | Blood and lymphatic system disorders | Very Common | Anaemia |
+| Immune system disorders | Uncommon | Hypersensitivity reactions (e.g., angioedema, pruritus, rash)* |
 | Nervous system disorders | Very Common | Headache |
-| Vascular disorders | Common | Hypotension* |
+| Vascular disorders | Common | Hypotension** |
+
+* Data derived from pooled placebo-controlled studies.
 
 Description of selected adverse reactions
 
-* Hypotension has been associated with the use of ERAs.
+** Hypotension has been associated with the use of ERAs.
 In a long-term double-blind study in patients with PAH, hypotension was reported for 7.0% and 4.4% of patients on macitentan 10 mg and placebo, respectively.
 This corresponded to 3.5 events / 100 patient-years on macitentan 10 mg compared to 2.7 events / 100 patient-years on placebo.
 
@@ -48,7 +51,6 @@ A decrease from baseline in haemoglobin concentration to below 10 g/dL was repor
 White blood cells
 
 In a double-blind study in patients with PAH, macitentan 10 mg was associated with a decrease in mean leucocyte count from baseline of 0.7 × 109/L versus no change in placebo-treated patients.
-
 Platelets
 In a double-blind study in patients with PAH, macitentan 10 mg was associated with a decrease in mean platelet count of 17 × 109/L, versus a mean decrease of 11 × 109/L in placebo-treated patients.
 

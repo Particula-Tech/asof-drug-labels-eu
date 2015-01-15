@@ -10,8 +10,8 @@ The film-coated tablets are not breakable and are to be swallowed whole, with wa
 Opsumit should be taken every day at about the same time.
 If the patient misses a dose of Opsumit, the patient should be told to take it as soon as possible and then take the next dose at the regularly scheduled time.
 The patient should be told not to take two doses at the same time if a dose has been missed.
-
 Elderly patients
+
 No dose adjustment is required in patients over the age of 65 years (see section 5.2).
 There is limited clinical experience in patients over the age of 75 years.
 Therefore Opsumit should be used with caution in this population (see section 4.4).
