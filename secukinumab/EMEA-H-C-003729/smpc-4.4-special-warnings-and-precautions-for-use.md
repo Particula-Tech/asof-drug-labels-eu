@@ -1,0 +1,52 @@
+# 4.4 Special warnings and precautions for use
+
+Infections
+
+Cosentyx has the potential to increase the risk of infections.
+In clinical studies, infections have been observed in patients receiving Cosentyx (see section 4.8).
+Most of these were mild or moderate upper respiratory tract infections such as nasopharyngitis and did not require treatment discontinuation.
+
+Related to the mechanism of action of Cosentyx, non-serious mucocutaneous candida infections were more frequently reported for secukinumab than placebo in the psoriasis clinical studies (3.55 per 100 patient years for secukinumab 300 mg versus 1.00 per 100 patient years for placebo) (see section 4.8).
+
+Caution should be exercised when considering the use of Cosentyx in patients with a chronic infection or a history of recurrent infection.
+
+Patients should be instructed to seek medical advice if signs or symptoms suggestive of an infection occur.
+If a patient develops a serious infection, the patient should be closely monitored and Cosentyx should not be administered until the infection resolves.
+
+No increased susceptibility to tuberculosis was reported from clinical studies.
+However, Cosentyx should not be given to patients with active tuberculosis.
+Anti-tuberculosis therapy should be considered prior to initiation of Cosentyx in patients with latent tuberculosis.
+
+Crohn’s disease
+
+Caution should be exercised when prescribing Cosentyx to patients with Crohn’s disease as exacerbations of Crohn’s disease, in some cases serious, were observed in clinical studies in both Cosentyx and placebo groups.
+Patients who are treated with Cosentyx and have Crohn’s disease should be followed closely.
+
+Hypersensitivity reactions
+
+If an anaphylactic or other serious allergic reactions occur, administration of Cosentyx should be discontinued immediately and appropriate therapy initiated.
+
+Vaccinations
+
+Live vaccines should not be given concurrently with Cosentyx.
+Patients receiving Cosentyx may receive concurrent inactivated or non-live vaccinations.
+In a study, after meningococcal and inactivated influenza vaccinations, a similar proportion of healthy volunteers treated with 150 mg of secukinumab and those treated with placebo were able to mount an adequate immune response of at least a 4-fold increase in antibody titres to meningococcal and influenza vaccines.
+The data suggest that Cosentyx does not suppress the humoral immune response to the meningococcal or influenza vaccines.
+
+Concomitant immunosuppressive therapy
+
+In psoriasis studies, the safety and efficacy of Cosentyx in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated (see also section 4.5).
+
+[Cosentyx 150 mg solution for injection in pre-filled syringe]
+
+Latex-sensitive individuals
+
+The removable needle cap of the Cosentyx pre-filled syringe contains a derivative of natural rubber latex.
+No natural rubber latex has to date been detected in the removable needle cap.
+Nevertheless, the use of Cosentyx pre-filled syringes in latex-sensitive individuals has not been studied and there is therefore a potential risk of hypersensitivity reactions which cannot be completely ruled out.
+
+[Cosentyx 150 mg solution for injection in pre-filled pen]
+
+The removable cap of the Cosentyx pre-filled pen contains a derivative of natural rubber latex.
+No natural rubber latex has to date been detected in the removable cap.
+Nevertheless, the use of Cosentyx pre-filled pens in latex-sensitive individuals has not been studied and there is therefore a potential risk for hypersensitivity reactions which cannot be completely ruled out.
