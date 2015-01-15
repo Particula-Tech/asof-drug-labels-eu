@@ -29,6 +29,5 @@ Hepatic impairment
 No specific study in patients with hepatic impairment was performed.
 In general, monoclonal antibodies are not eliminated via hepatic metabolic mechanisms.
 The pharmacokinetics of denosumab is not expected to be affected by hepatic impairment.
-
 Paediatric population
 The pharmacokinetic profile in paediatric populations has not been assessed.

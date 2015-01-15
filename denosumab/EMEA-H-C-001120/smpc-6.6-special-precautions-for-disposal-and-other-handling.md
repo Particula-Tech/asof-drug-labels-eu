@@ -1,6 +1,6 @@
 # 6.6 Special precautions for disposal and other handling
 
-Before administration, the Prolia solution should be inspected.
+Before administration, the solution should be inspected.
 Do not inject the solution if it contains particles, or is cloudy or discoloured.
 Do not shake excessively.
 To avoid discomfort at the site of injection, allow the pre-filled syringe to reach room temperature (up to 25°C) before injecting and inject slowly.

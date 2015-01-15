@@ -3,13 +3,13 @@
 Summary of the safety profile
 The overall safety profile of Prolia was similar in patients with osteoporosis and in breast or prostate cancer patients receiving hormone ablation in five Phase III placebo-controlled clinical trials.
 
-Uncommon cases of cellulitis; rare cases of hypocalcaemia, hypersensitivity, osteonecrosis of the jaw and atypical femoral fractures (see sections 4.4 and section 4.8 - description of selected adverse reactions) have been observed with Prolia.
+The most common side effects with Prolia (seen in more than one patient in ten) are musculoskeletal pain and pain in the extremity.
+Uncommon cases of cellulitis; rare cases of hypocalcaemia, hypersensitivity, osteonecrosis of the jaw and atypical femoral fractures (see sections 4.4 and section 4.8 - description of selected adverse reactions) have been observed in patients taking Prolia.
 
 Tabulated list of adverse reactions
 The data in Table 1 below describe adverse reactions reported from Phase II and III clinical trials in patients with osteoporosis and breast or prostate cancer patients receiving hormone ablation; and/or spontaneous reporting.
-
-The following convention has been used for the classification of the adverse reactions (see table 1): very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000) and very rare (< 1/10,000) based on crude incidence rates.
-Within each frequency grouping and system organ class, undesirable effects are presented in order of decreasing seriousness.
+The following convention has been used for the classification of the adverse reactions (see table 1): very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000) and very rare (< 1/10,000).
+Within each frequency grouping and system organ class, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1 Adverse reactions reported in patients with osteoporosis and breast or prostate cancer patients receiving hormone ablation
 

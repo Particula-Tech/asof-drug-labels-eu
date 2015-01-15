@@ -44,9 +44,6 @@ Discontinuation of Prolia therapy in patients suspected to have an atypical femu
 During Prolia treatment, patients should be advised to report new or unusual thigh, hip, or groin pain.
 Patients presenting with such symptoms should be evaluated for an incomplete femoral fracture.
 
-Dry natural rubber
-The needle cover of the pre-filled syringe contains dry natural rubber (a derivative of latex), which may cause allergic reactions.
-
 Concomitant treatment with other denosumab-containing medicinal products
 Patients being treated with Prolia should not be treated concomitantly with other denosumab-containing medicinal products (for prevention of skeletal related events in adults with bone metastases from solid tumours).
 
@@ -55,7 +52,11 @@ Patients with severe renal impairment (creatinine clearance < 30 ml/min) or rece
 The risks of developing hypocalcaemia and accompanying parathyroid hormone elevations increase with increasing degree of renal impairment.
 Adequate intake of calcium, vitamin D and regular monitoring of calcium is especially important in these patients, see above.
 
+Dry natural rubber
+The needle cover of the pre-filled syringe contains dry natural rubber (a derivative of latex), which may cause allergic reactions.
+
 Warnings for Excipients
+This medicinal product contains sorbitol.
 Patients with rare hereditary problems of fructose intolerance should not use Prolia.
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per 60 mg i.e. essentially ‘sodium-free’.

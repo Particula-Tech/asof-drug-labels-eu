@@ -18,7 +18,7 @@ Prolia is not recommended in paediatric patients (age < 18) as the safety and ef
 Inhibition of RANK/RANK ligand (RANKL) in animal studies has been coupled to inhibition of bone growth and lack of tooth eruption (see also section 5.3).
 
 Method of administration
-Administration should be performed by an individual who has been adequately trained in injection techniques.
 For subcutaneous use.
+Administration should be performed by an individual who has been adequately trained in injection techniques.
 
 The instructions for use, handling and disposal are given in section 6.6.
