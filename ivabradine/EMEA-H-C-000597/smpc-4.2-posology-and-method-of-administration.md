@@ -4,11 +4,17 @@ Posology
 
 For the different doses, film-coated tablets containing 5 mg and 7.5 mg ivabradine are available.
 
-Treatment of coronary artery disease
-The usual recommended starting dose of ivabradine is 5 mg twice daily.
-After three to four weeks of treatment, the dose may be increased to 7.5 mg twice daily depending on the therapeutic response.
-If, during treatment, heart rate decreases persistently below 50 beats per minute (bpm) at rest or the patient experiences symptoms related to bradycardia such as dizziness, fatigue or hypotension, the dose must be titrated downward including the possible dose of 2.5 mg twice daily (one half 5 mg tablet twice daily).
-Treatment must be discontinued if heart rate below 50 bpm or symptoms of bradycardia persist (see section 4.4).
+Symptomatic treatment of chronic stable angina pectoris
+It is recommended that the decision to initiate or titrate treatment takes place with the availability of serial heart rate measurements, ECG or ambulatory 24-hour monitoring.
+The starting dose of ivabradine should not exceed 5 mg twice daily in patients aged below 75 years.
+After three to four weeks of treatment, if the patient is still symptomatic, if the initial dose is well tolerated and if resting heart rate remains above 60 bpm, the dose may be increased to the next higher dose in patients receiving 2.5 mg twice daily or 5 mg twice daily.
+The maintenance dose should not exceed 7.5 mg twice daily.
+If there is no improvement in symptoms of angina within 3 months after start of treatment, treatment of ivabradine should be discontinued.
+In addition, discontinuation of treatment should be considered if there is only limited symptomatic response and when there is no clinically relevant reduction in resting heart rate within three months.
+If, during treatment, heart rate decreases below 50 beats per minute (bpm) at rest or the patient experiences symptoms related to bradycardia such as dizziness, fatigue or hypotension, the dose must be titrated downward including the lowest dose of 2.5 mg twice daily (one half 5 mg tablet twice daily).
+After dose reduction, heart rate should be monitored (see section 4.4).
+Treatment must be discontinued if heart rate remains below 50 bpm or symptoms of bradycardia persist despite dose reduction.
+
 Treatment of chronic heart failure
 The treatment has to be initiated only in patient with stable heart failure.
 It is recommended that the treating physician should be experienced in the management of chronic heart failure.

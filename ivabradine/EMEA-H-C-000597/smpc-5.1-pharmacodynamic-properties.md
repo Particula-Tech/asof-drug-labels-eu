@@ -23,6 +23,7 @@ Ivabradine does not influence intracardiac conduction, contractility (no negativ
 - in patients with left ventricular dysfunction (left ventricular ejection fraction (LVEF) between 30 and 45%), ivabradine did not have any deleterious influence on LVEF.
 
 Clinical efficacy and safety
+
 The antianginal and anti-ischaemic efficacy of ivabradine was studied in five double-blind randomised trials (three versus placebo, and one each versus atenolol and amlodipine).
 These trials included a total of 4,111 patients with chronic stable angina pectoris, of whom 2,617 received ivabradine.
 
@@ -34,7 +35,6 @@ The efficacy of 5 and 7.5 mg twice daily was consistent across studies on exerci
 The twice-daily dosing regimen of ivabradine gave uniform efficacy over 24 hours.
 
 In a 889-patients randomised placebo-controlled study, ivabradine given on top of atenolol 50 mg o.d. showed additional efficacy on all ETT parameters at the trough of drug activity (12 hours after oral intake).
-
 In a 725-patients randomised placebo-controlled study, ivabradine did not show additional efficacy on top of amlodipine at the trough of drug activity (12 hours after oral intake) while an additional efficacy was shown at peak (3-4 hours after oral intake).
 
 Ivabradine efficacy was fully maintained throughout the 3- or 4-month treatment periods in the efficacy trials.
@@ -51,6 +51,16 @@ A large outcome study, BEAUTIFUL, was performed in 10917 patients with coronary 
 The main efficacy criterion was the composite of cardiovascular death, hospitalization for acute MI or hospitalization for new onset or worsening heart failure.
 The study showed no difference in the rate of the primary composite outcome in the ivabradine group by comparison to the placebo group (relative risk ivabradine:placebo 1.00, p=0.945).
 In a post-hoc subgroup of patients with symptomatic angina at randomisation (n=1507), no safety signal was identified regarding cardiovascular death, hospitalization for acute MI or heart failure (ivabradine 12.0% versus placebo 15.5%, p=0.05).
+
+A large outcome study, SIGNIFY, was performed in 19102 patients with coronary artery disease and without clinical heart failure (LVEF > 40%), on top of optimal background therapy.
+A therapeutic scheme higher than the approved posology was used (starting dose 7.5 mg b.i.d.
+(5 mg b.i.d, if age ≥ 75 years) and titration up to 10 mg b.i.d).
+The main efficacy criterion was the composite of cardiovascular death or non-fatal MI.
+The study showed no difference in the rate of the primary composite endpoint (PCE) in the ivabradine group by comparison to the placebo group (relative risk ivabradine/placebo 1.08, p=0.197).
+Bradycardia was reported by 17.9 % of patients in the ivabradine group (2.1% in the placebo group).
+Verapamil, diltiazem or strong CYP 3A4 inhibitors were received by 7.1% of patients during the study.
+A small statistically significant increase in the PCE was observed in a pre-specified subgroup of patients with angina patients in CCS class II or higher at baseline (n=12049) (annual rates 3.4% versus 2.9%, relative risk ivabradine/placebo 1.18, p=0.018), but not in the subgroup of the overall angina population in CCS class ≥ I (n=14286) (relative risk ivabradine/placebo 1.11, p=0.110).
+The higher than approved dose used in the study did not fully explain these findings.
 
 The SHIFT study was a large multicentre, international, randomised double-blind placebo controlled outcome trial conducted in 6505 adult patients with stable chronic CHF (for ≥ 4 weeks), NYHA class II to IV, with a reduced left ventricular ejection fraction (LVEF ≤ 35%) and a resting heart rate ≥ 70 bpm.
 Patients received standard care including beta-blockers (89 %), ACE inhibitors and/or angiotensin II antagonists (91 %), diuretics (83 %), and anti-aldosterone agents (60 %).

@@ -2,23 +2,32 @@
 
 Special warnings
 
+Lack of benefit on clinical outcomes in patients with symptomatic chronic stable angina pectoris
+Ivabradine is indicated only for symptomatic treatment of chronic stable angina pectoris because ivabradine has no benefits on cardiovascular outcomes (e.g. myocardial infarction or cardiovascular death ) (see section 5.1).
+
+Measurement of heart rate
+Given that the heart rate may fluctuate considerably over time, serial heart rate measurements, ECG or ambulatory 24-hour monitoring should be considered when determining resting heart rate before initiation of ivabradine treatment and in patients on treatment with ivabradine when titration is considered.
+This also applies to patients with a low heart rate, in particular when heart rate decreases below 50 bpm, or after dose reduction (see section 4.2).
+
 Cardiac arrhythmias
 Ivabradine is not effective in the treatment or prevention of cardiac arrhythmias and likely loses its efficacy when a tachyarrhythmia occurs (eg. ventricular or supraventricular tachycardia).
 Ivabradine is therefore not recommended in patients with atrial fibrillation or other cardiac arrhythmias that interfere with sinus node function.
-It is recommended to regularly clinically monitor ivabradine treated patients for the occurrence of atrial fibrillation (sustained or paroxysmal), which should also include ECG monitoring if clinically indicated (e.g. in case of exacerbated angina, palpitations, irregular pulse).
-The risk of developing atrial fibrillation may be higher in chronic heart failure patients treated with ivabradine.
+In patients treated with ivabradine the risk of developing atrial fibrillation is increased (see section 4.8).
 Atrial fibrillation has been more common in patients using concomitantly amiodarone or potent class I anti-arrhythmics.
+It is recommended to regularly clinically monitor ivabradine treated patients for the occurrence of atrial fibrillation (sustained or paroxysmal), which should also include ECG monitoring if clinically indicated (e.g. in case of exacerbated angina, palpitations, irregular pulse).
+Patients should be informed of signs and symptoms of atrial fibrillation and be advised to contact their physician if these occur.
+If atrial fibrillation develops during treatment, the balance of benefits and risks of continued ivabradine treatment should be carefully reconsidered.
 Chronic heart failure patients with intraventricular conduction defects (bundle branch block left, bundle branch block right) and ventricular dyssynchrony should be monitored closely.
 
 Use in patients with AV-block of 2nd degree
 Ivabradine is not recommended in patients with AV-block of 2nd degree.
 
 Use in patients with a low heart rate
-Ivabradine must not be initiated in patients with a pre-treatment resting heart rate below 60 beats per minute (see section 4.3).
+Ivabradine must not be initiated in patients with a pre-treatment resting heart rate below 70 beats per minute (see section 4.3).
 If, during treatment, resting heart rate decreases persistently below 50 bpm or the patient experiences symptoms related to bradycardia such as dizziness, fatigue or hypotension, the dose must be titrated downward or treatment discontinued if heart rate below 50 bpm or symptoms of bradycardia persist (see section 4.2).
 
 Combination with calcium channel blockers
-Concomitant use of ivabradine with heart rate reducing calcium channel blockers such as verapamil or diltiazem is not recommended (see section 4.5).
+Concomitant use of ivabradine with heart rate reducing calcium channel blockers such as verapamil or diltiazem is contraindicated (see sections 4.3 and 4.5).
 No safety issue has been raised on the combination of ivabradine with nitrates and dihydropyridine calcium channel blockers such as amlodipine.
 Additional efficacy of ivabradine in combination with dihydropyridine calcium channel blockers has not been established (see section 5.1).
 
@@ -28,6 +37,7 @@ Ivabradine should be used with caution in heart failure patients with NYHA funct
 
 Stroke
 The use of ivabradine is not recommended immediately after a stroke since no data is available in these situations.
+
 Visual function
 Ivabradine influences on retinal function (see section 5.1).
 To date, there is no evidence of a toxic effect of ivabradine on the retina, but the effects of long-term ivabradine treatment beyond one year on retinal function are currently not known.
@@ -48,7 +58,6 @@ Use in patients with congenital QT syndrome or treated with QT prolonging medici
 The use of ivabradine in patients with congenital QT syndrome or treated with QT prolonging medicinal products should be avoided (see section 4.5).
 If the combination appears necessary, close cardiac monitoring is needed.
 Heart rate reduction, as caused by ivabradine, may exacerbate QT prolongation, which may give rise to severe arrhythmias, in particular Torsade de pointes.
-
 Hypertensive patients requiring blood pressure treatment modifications.
 In the SHIFT trial more patients experienced episodes of increased blood pressure while treated with ivabradine (7.1%) compared to patients treated with placebo (6.1%).
 These episodes occurred most frequently shortly after blood pressure treatment was modified, were transient, and did not affect the treatment effect of ivabradine.
