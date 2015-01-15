@@ -16,6 +16,7 @@ Placental transfer of alogliptin occurs in rats.
 
 Alogliptin was not teratogenic in rats or rabbits with a systemic exposure at the NOAELs far above the human exposure at the recommended dose.
 Higher doses of alogliptin were not teratogenic but resulted in maternal toxicity, and were associated with delayed and/or lack of ossification of bones and decreased foetal body weights.
+
 In a pre- and postnatal development study in rats, exposures far above the human exposure at the recommended dose did not harm the developing embryo or affect offspring growth and development.
 Higher doses of alogliptin decreased offspring body weight and exerted some developmental effects considered secondary to the low body weight.
 

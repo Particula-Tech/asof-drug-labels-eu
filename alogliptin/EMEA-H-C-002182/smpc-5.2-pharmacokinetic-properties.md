@@ -21,6 +21,7 @@ Distribution
 Following a single intravenous dose of 12.5 mg alogliptin to healthy subjects, the volume of distribution during the terminal phase was 417 L indicating that the drug is well distributed into tissues.
 
 Alogliptin is 20-30% bound to plasma proteins.
+
 Biotransformation
 
 Alogliptin does not undergo extensive metabolism, 60-70% of the dose is excreted as unchanged drug in the urine.
@@ -29,7 +30,6 @@ Two minor metabolites were detected following administration of an oral dose of 
 (< 6% of the parent compound).
 M-I is an active metabolite and is a highly selective inhibitor of DPP-4 similar to alogliptin; M-II does not display any inhibitory activity towards DPP-4 or other DPP-related enzymes.
 In vitro data indicate that CYP2D6 and CYP3A4 contribute to the limited metabolism of alogliptin.
-
 In vitro studies indicate that alogliptin does not induce CYP1A2, CYP2B6 and CYP2C9 and does not inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or CYP3A4 at concentrations achieved with the recommended dose of 25 mg alogliptin.
 Studies in vitro have shown alogliptin to be a mild inducer of CYP3A4, but alogliptin has not been shown to induce CYP3A4 in studies in vivo.
 
@@ -59,6 +59,7 @@ mild (CrCl = > 50 to ≤ 80 mL/min), moderate (CrCl = ≥ 30 to ≤ 50 mL/min), 
 
 An approximate 1.7-fold increase in AUC for alogliptin was observed in patients with mild renal impairment.
 However, as the distribution of AUC values for alogliptin in these patients was within the same range as control subjects, no dose adjustment for patients with mild renal impairment is necessary (see section 4.2).
+
 In patients with moderate or severe renal impairment, or end-stage renal disease on haemodialysis, an increase in systemic exposure to alogliptin of approximately 2- and 4-fold was observed, respectively.
 (Patients with end-stage renal disease underwent haemodialysis immediately after alogliptin dosing.
 Based on mean dialysate concentrations, approximately 7% of the drug was removed during a 3-hour haemodialysis session.)
@@ -69,7 +70,6 @@ Total exposure to alogliptin was approximately 10% lower and peak exposure was a
 The magnitude of these reductions was not considered to be clinically relevant.
 Therefore, no dose adjustment is necessary for patients with mild to moderate hepatic impairment (Child-Pugh scores of 5 to 9).
 Alogliptin has not been studied in patients with severe hepatic impairment (Child-Pugh score > 9, see section 4.2).
-
 Age, gender, race, body weight
 Age (65-81 years old), gender, race (white, black and Asian) and body weight did not have any clinically relevant effect on the pharmacokinetics of alogliptin.
 No dose adjustment is necessary (see section 4.2).

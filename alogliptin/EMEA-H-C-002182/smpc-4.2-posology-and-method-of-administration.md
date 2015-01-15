@@ -13,7 +13,7 @@ When alogliptin is used in combination with a sulphonylurea or insulin, a lower 
 
 Caution should be exercised when alogliptin is used in combination with metformin and a thiazolidinedione as an increased risk of hypoglycaemia has been observed with this triple therapy (see section 4.4).
 In case of hypoglycaemia, a lower dose of the thiazolidinedione or metformin may be considered.
-The safety and efficacy of alogliptin when used as triple therapy with metformin and a sulphonylurea have not been established.
+The safety and efficacy of alogliptin when used as triple therapy with metformin and a sulphonylurea have not been fully established.
 
 Special populations
 
@@ -28,7 +28,8 @@ For patients with moderate renal impairment (creatinine clearance ≥ 30 to ≤ 
 
 For patients with severe renal impairment (creatinine clearance < 30 mL/min) or end-stage renal disease requiring dialysis, one-quarter of the recommended dose of alogliptin should be administered (6.25 mg once daily).
 Alogliptin may be administered without regard to the timing of dialysis.
-However, experience in patients with severe renal impairment or end-stage renal disease requiring dialysis is limited and alogliptin should be used with caution in such patients (see sections 4.4 and 5.2).
+Experience in patients requiring renal dialysis is limited.
+Alogliptin has not been studied in patients undergoing peritoneal dialysis (see sections 4.4 and 5.2).
 
 Appropriate assessment of renal function is recommended prior to initiation of treatment and periodically thereafter (see section 4.4).
 
