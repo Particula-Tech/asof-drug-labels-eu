@@ -13,21 +13,22 @@ The adverse reactions listed may also be associated with the underlying disease 
 
 In the treatment of central neuropathic pain due to spinal cord injury the incidence of adverse reactions in general, CNS adverse reactions and especially somnolence was increased (see section 4.4).
 
-Additional reactions reported from post-marketing experience are included as Frequency not known in italics in the list below.
+Additional reactions reported from post-marketing experience are included in italics in the list below.
 
 System Organ Class Adverse drug reactions
 
 Infections and infestations
 
-Uncommon Nasopharyngitis
+Common Nasopharyngitis
 
 Blood and lymphatic system disorders
 
-Rare Neutropenia
+Uncommon Neutropenia
 
 Immune system disorders
 
-Frequency not known Hypersensitivity, angioedema, allergic reaction
+Uncommon Hypersensitivity
+Rare Angioedema, allergic reaction
 
 Metabolism and nutrition disorders
 
@@ -36,44 +37,39 @@ Uncommon Anorexia, hypoglycaemia
 
 Psychiatric disorders
 
-Common Euphoric mood, confusion, irritability, libido decreased,
+Common Euphoric mood, confusion, irritability, disorientation, insomnia,
 
-disorientation, insomnia
+libido decreased
 
 Uncommon Hallucination, panic attack, restlessness, agitation, depression,
 
-depressed mood, mood swings, depersonalisation, word finding difficulty, abnormal dreams, libido increased, anorgasmia, apathy
+depressed mood, elevated mood, aggression, mood swings, depersonalisation, word finding difficulty, abnormal dreams, libido increased, anorgasmia, apathy
 
-Rare Disinhibition, elevated mood
-Frequency not known Aggression
+Rare Disinhibition
 
 Nervous system disorders
 
-Very Common Dizziness, somnolence
-Common Ataxia, coordination abnormal, tremor, dysarthria, memory
+Very Common Dizziness, somnolence, headache
+Common Ataxia, coordination abnormal, tremor, dysarthria, amnesia,
 
-impairment, disturbance in attention, paraesthesia, sedation, balance disorder, lethargy, headache
+memory impairment, disturbance in attention, paraesthesia, hypoaesthesia, sedation, balance disorder, lethargy
 
-Uncommon Syncope, stupor, myoclonus, psychomotor hyperactivity, ageusia,
+Uncommon Syncope, stupor, myoclonus, loss of consciousness, psychomotor
 
-dyskinesia, dizziness postural, intention tremor, nystagmus, cognitive disorder, speech disorder, hyporeflexia, hypoaesthesia, amnesia, hyperaesthesia, burning sensation
+hyperactivity, dyskinesia, dizziness postural, intention tremor, nystagmus, cognitive disorder, mental impairment, speech disorder, hyporeflexia, hyperaesthesia, burning sensation, ageusia, malaise
 
-Rare Hypokinesia, parosmia, dysgraphia
-Frequency not known Loss of consciousness, mental impairment, convulsions, malaise
+Rare Convulsions, parosmia, hypokinesia, dysgraphia
 
 Eye disorders
 
 Common Vision blurred, diplopia
-Uncommon Visual disturbance, eye swelling, visual field defect, visual acuity
+Uncommon Peripheral vision loss, visual disturbance, eye swelling, visual field
 
-reduced, eye pain, asthenopia, dry eye, lacrimation increased
+defect, visual acuity reduced, eye pain, asthenopia, photopsia, dry eye, lacrimation increased, eye irritation
 
-Rare Peripheral vision loss, oscillopsia, altered visual depth perception,
+Rare Vision loss, keratitis, oscillopsia, altered visual depth perception,
 
-photopsia, eye irritation, mydriasis, strabismus, visual brightness
-
-Frequency not known Vision loss, Keratitis
-
+mydriasis, strabismus, visual brightness
 Ear and labyrinth disorders
 
 Common Vertigo
@@ -81,77 +77,86 @@ Uncommon Hyperacusis
 
 Cardiac disorders
 
-Uncommon Tachycardia, atrioventricular block first degree
-Rare Sinus tachycardia, sinus bradycardia, sinus arrhythmia
-Frequency not known Congestive heart failure, QT prolongation
+Uncommon Tachycardia, atrioventricular block first degree, sinus bradycardia,
+
+congestive heart failure
+
+Rare QT prolongation, sinus tachycardia, sinus arrhythmia
 
 Vascular disorders
 
-Uncommon Flushing, hot flushes, hypotension, hypertension
-Rare Peripheral coldness
+Uncommon Hypotension, hypertension, hot flushes, flushing, peripheral
 
+coldness
 Respiratory, thoracic and mediastinal disorders
 
-Uncommon Dyspnoea, nasal dryness
-Rare Epistaxis, throat tightness, cough, nasal congestion, rhinitis, snoring
-Frequency not known Pulmonary oedema
+Uncommon Dyspnoea, epistaxis, cough, nasal congestion, rhinitis, snoring,
+
+nasal dryness
+
+Rare Pulmonary oedema, throat tightness
 
 Gastrointestinal disorders
 
-Common Vomiting, dry mouth, constipation, flatulence
-Uncommon Abdominal distension, gastrooesophageal reflux disease, salivary
+Common Vomiting, nausea, constipation, diarrhoea, flatulence, abdominal
 
-hypersecretion, hypoaesthesia oral
+distension, dry mouth
 
-Rare Ascites, pancreatitis, dysphagia
-Frequency not known Swollen tongue, diarrhoea, nausea
+Uncommon Gastrooesophageal reflux disease, salivary hypersecretion,
+
+hypoaesthesia oral
+
+Rare Ascites, pancreatitis, swollen tongue, dysphagia
 
 Skin and subcutaneous tissue disorders
 
-Uncommon Rash papular, hyperhidrosis
-Rare Urticaria, cold sweat
-Frequency not known Stevens Johnson syndrome, pruritus
+Uncommon Rash papular, urticaria, hyperhidrosis, pruritus
+Rare Stevens Johnson syndrome, cold sweat
 
 Musculoskeletal and connective tissue disorders
 
-Uncommon Muscle twitching, joint swelling, muscle cramp, myalgia, arthralgia,
+Common Muscle cramp, arthralgia, back pain, pain in limb, cervical spasm
+Uncommon Joint swelling, myalgia, muscle twitching, neck pain, muscle
 
-back pain, pain in limb, muscle stiffness
+stiffness
 
-Rare Rhabdomyolysis, cervical spasm, neck pain
+Rare Rhabdomyolysis
 
 Renal and urinary disorders
 
 Uncommon Urinary incontinence, dysuria
-Rare Renal failure, oliguria
-Frequency not known Urinary retention
+Rare Renal failure, oliguria, urinary retention
 
 Reproductive system and breast disorders
 
 Common Erectile dysfunction
-Uncommon Ejaculation delayed, sexual dysfunction
-Rare Amenorrhoea, breast discharge, breast pain, dysmenorrhoea, breast
+Uncommon Sexual dysfunction, ejaculation delayed, dysmenorrhoea, breast
 
-enlargement
-Frequency not known Gynaecomastia
+pain
+
+Rare Amenorrhoea, breast discharge, breast enlargement,
+
+gynaecomastia
 General disorders and administration site conditions
 
-Common Gait abnormal, feeling drunk, fatigue, oedema peripheral, oedema
-Uncommon Fall, chest tightness, asthenia, thirst, pain, feeling abnormal, chills
-Rare Generalised oedema, pirexia
-Frequency not known Face oedema
+Common Oedema peripheral, oedema, gait abnormal, fall, feeling drunk,
 
+feeling abnormal, fatigue
+
+Uncommon Generalised oedema, face oedema, chest tightness, pain, pyrexia,
+
+thirst, chills, asthenia
 Investigations
 
 Common Weight increased
 Uncommon Blood creatine phosphokinase increased, alanine aminotransferase
 
-increased, aspartate aminotransferase increased, platelet count decreased
+increased, aspartate aminotransferase increased, blood glucose increased, platelet count decreased, blood creatinine increased, blood potassium decreased, weight decreased
 
-Rare Blood glucose increased, blood potassium decreased, white blood
+Rare White blood cell count decreased
 
-cell count decreased, blood creatinine increased, weight decreased After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed in some patients.
-The following reactions have been mentioned: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, pain, hyperhidrosis and dizziness.
+After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed in some patients.
+The following reactions have been mentioned: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, pain, hyperhidrosis and dizziness, suggestive of physical dependence.
 The patient should be informed about this at the start of the treatment.
 
 Concerning discontinuation of long-term treatment of pregabalin, data suggest that the incidence and severity of withdrawal symptoms may be dose-related.
@@ -160,11 +165,11 @@ Concerning discontinuation of long-term treatment of pregabalin, data suggest th
 
 In the table below all adverse reactions, which occurred at an incidence greater than placebo and in more than one patient, are listed by class and frequency (very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000), not known (cannot be estimated from the available data).
 
-Rare Generalised oedema,pirexia
-
 [Lyrica 75 mg hard capsules]
 
-The following reactions have been mentioned: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, pain, hyperhidrosis, and dizziness.
+Rare Amenorrhoea, breast discharge, breast enlargement, gynaecomastia
+
+The following reactions have been mentioned: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, pain, hyperhidrosis, and dizziness, suggestive of physical dependence.
 
 [Lyrica 100 mg hard capsules]
 
@@ -176,20 +181,16 @@ In the treatment of central neuropathic pain due to spinal cord injury the incid
 
 [Lyrica 200 mg hard capsules]
 
-cell count decreased, blood creatinine increased, weight decreased
-
-After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed in some patients.
+(all sentences already above)
 
 [Lyrica 225 mg hard capsules]
 
-Common Vomiting, , dry mouth, constipation, flatulence
-
-Rare Generalised oedema, pyrexia
+(all sentences already above)
 
 [Lyrica 300 mg hard capsules]
 
-The following reactions have been: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, pain, hyperhidrosis and dizziness.
+The following reactions have been: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, pain, hyperhidrosis and dizziness, suggestive of physical dependence.
 
 [Lyrica 20 mg/ml oral solution]
 
-Frequency not know Aggression
+(all sentences already above)

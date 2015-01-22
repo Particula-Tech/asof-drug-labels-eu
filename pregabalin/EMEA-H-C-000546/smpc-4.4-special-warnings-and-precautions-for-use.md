@@ -27,9 +27,8 @@ There are insufficient data for the withdrawal of concomitant antiepileptic medi
 
 Withdrawal symptoms
 After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed in some patients.
-The following events have been mentioned: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, nervousness, depression, pain, convulsion, hyperhidrosis and dizziness.
+The following events have been mentioned: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, nervousness, depression, pain, convulsion, hyperhidrosis and dizziness, suggestive of physical dependence.
 The patient should be informed about this at the start of the treatment.
-
 Convulsions, including status epilepticus and grand mal convulsions, may occur during pregabalin use or shortly after discontinuing pregabalin.
 Concerning discontinuation of long-term treatment of pregabalin, data suggest that the incidence and severity of withdrawal symptoms may be dose-related.
 
@@ -56,9 +55,9 @@ Reduced lower gastrointestinal tract function
 There are post-marketing reports of events related to reduced lower gastrointestinal tract function (e.g., intestinal obstruction, paralytic ileus, constipation) when pregabalin was co-administered with medications that have the potential to produce constipation, such as opioid analgesics.
 When pregabalin and opioids will be used in combination, measures to prevent constipation may be considered (especially in female patients and elderly).
 
-Abuse potential
-Cases of abuse have been reported.
-Caution should be exercised in patients with a history of substance abuse and the patient should be monitored for symptoms of pregabalin abuse.
+Misuse, abuse potential or dependence
+Cases of misuse, abuse and dependence have been reported.
+Caution should be exercised in patients with a history of substance abuse and the patient should be monitored for symptoms of pregabalin misuse, abuse or dependence (development of tolerance, dose escalation, drug-seeking behaviour have been reported).
 
 Encephalopathy
 Cases of encephalopathy have been reported, mostly in patients with underlying conditions that may precipitate encephalopathy.

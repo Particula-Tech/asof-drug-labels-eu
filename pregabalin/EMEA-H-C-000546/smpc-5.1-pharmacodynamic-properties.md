@@ -5,7 +5,7 @@ Pharmacotherapeutic group: Antiepileptics, other antiepileptics ATC code: N03AX1
 The active substance, pregabalin, is a gamma-aminobutyric acid analogue ((S)-3-(aminomethyl)-5-methylhexanoic acid).
 
 Mechanism of action
-Pregabalin binds to an auxiliary subunit (α2-δprotein) of voltage-gated calcium channels in the central nervous system.
+Pregabalin binds to an auxiliary subunit ( 2- protein) of voltage-gated calcium channels in the central nervous system.
 
 Clinical Efficacy and safety
 Neuropathic pain
@@ -22,6 +22,7 @@ For patients not experiencing somnolence, such an improvement was observed in 33
 For patients who experienced somnolence the responder rates were 48% on pregabalin and 16% on placebo.
 
 In the controlled clinical trial in central neuropathic pain 22% of the Pregabalin treated patients and 7% of the patients on placebo had a 50% improvement in pain score.
+
 Epilepsy
 Adjunctive Treatment
 Pregabalin has been studied in 3 controlled clinical trials of 12 week duration with either twice a day dosing (BID) or three times a day (TID) dosing.

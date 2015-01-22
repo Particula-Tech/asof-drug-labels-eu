@@ -4,7 +4,7 @@ Pregabalin steady-state pharmacokinetics are similar in healthy volunteers, pati
 
 Absorption
 Pregabalin is rapidly absorbed when administered in the fasted state, with peak plasma concentrations occurring within 1 hour following both single and multiple dose administration.
-Pregabalin oral bioavailability is estimated to be ≥90% and is independent of dose.
+Pregabalin oral bioavailability is estimated to be 90% and is independent of dose.
 Following repeated administration, steady state is achieved within 24 to 48 hours.
 The rate of pregabalin absorption is decreased when given with food resulting in a decrease in Cmax by approximately 25-30% and a delay in tmax to approximately 2.5 hours.
 However, administration of pregabalin with food has no clinically significant effect on the extent of pregabalin absorption.
