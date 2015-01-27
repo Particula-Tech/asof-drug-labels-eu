@@ -25,3 +25,21 @@ The table below describes adverse reactions by system organ class and frequency.
 ** Observed with four times daily dose
 
 Patients with evidence of corneal epithelial breakdown should immediately discontinue use of Yellox and should be monitored closely for corneal health (see section 4.4).
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via
+United Kingdom
+Yellow Card Scheme
+
+Website: www.mhra.gov.uk/yellowcard
+
+Ireland
+HPRA Pharmacovigilance,
+Earlsfort Terrace,
+IRL - Dublin 2;
+Tel: +353 1 6764971;
+Fax: +353 1 6762517.
+Website: www.hpra.ie;
+E-mail: medsafety@hpra.ie.

@@ -11,6 +11,7 @@ In vitro, the 99.8% were bound to proteins in human plasma.
 No biological relevant melanin binding was observed in vitro.
 Studies in rabbits using radio-labelled bromfenac have demonstrated that highest concentrations after topical administration are observed in the cornea followed by the conjunctiva and the aqueous humour.
 Only low concentrations were observed in the lens and vitreous.
+
 Biotransformation
 In vitro studies indicate that bromfenac is mainly metabolised by CYP2C9, which is absent in both iris-ciliary body and retina/choroid and the level of this enzyme in the cornea is less than 1% compared to the corresponding hepatic level.
 In orally treated humans unchanged parent compound is the major component in plasma.
