@@ -67,6 +67,7 @@ Cardiac Disorders
 Tachycardia Very Common Common
 Pericardial effusion Common Common
 Ventricular extrasystoles Common Not known
+All grades Grades≥3
 Cardiac failure Not known Not known
 Ventricular tachycardia Not known Not known
 
@@ -74,7 +75,6 @@ Vascular Disorders
 
 Vasculitis Common Common
 Hypotension Common Not known
-All grades Grades≥3
 
 Respiratory, Thoracic and Mediastinal Disorders
 
@@ -132,7 +132,7 @@ Gamma-glutamyltransferase increased* Not known* Not known*
 *In the CALGB study C9710, 2 cases of grade ≥3 increased GGT were reported out of the 200 patients who received TRISENOX consolidation cycles (cycle 1 and cycle 2) versus none in the control arm.
 
 During TRISENOX treatment, 14 of the 52 patients in the APL studies had one or more symptoms of APL differentiation syndrome, characterised by fever, dyspnoea, weight gain, pulmonary infiltrates and pleural or pericardial effusions, with or without leukocytosis (see section 4.4).
-Twenty-seven patients had leukocytosis (WBC ≥ 10 x 103/μl) during induction, 4 of whom had values above 100,000/μl.
+Twenty-seven patients had leukocytosis (WBC ≥ 10 x 103/µl) during induction, 4 of whom had values above 100,000/µl.
 Baseline white blood cell (WBC) counts did not correlate with development of leukocytosis on study, and WBC counts during consolidation therapy were not as high as during induction.
 In these studies, leukocytosis was not treated with chemotherapeutic medicinal products.
 Medicinal products that are used to lower the white blood cell count often exacerbate the toxicities associated with leukocytosis, and no standard approach has proven effective.

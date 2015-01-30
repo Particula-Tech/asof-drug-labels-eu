@@ -1,11 +1,11 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Other antineoplastic agents, ATC code: L01XX27
-
 Mechanism of action
 The mechanism of action of TRISENOX is not completely understood.
 Arsenic trioxide causes morphological changes and deoxyribonucleic acid (DNA) fragmentation characteristic of apoptosis in NB4 human promyelocytic leukaemia cells in vitro.
 Arsenic trioxide also causes damage or degradation of the fusion protein Pro-Myelocytic Leukaemia/Retinoic Acid Receptor-alpha (PML/RAR alpha).
+
 Clinical efficacy and safety
 TRISENOX has been investigated in 52 APL patients, previously treated with an anthracycline and a retinoid regimen, in two open-label, single-arm, non-comparative studies.
 One was a single investigator clinical study (n=12) and the other was a multicentre, 9-institution study (n=40).
@@ -22,16 +22,13 @@ The median age in the multicentre study was 40 years (age range 5 to 73).
 
 The results are summarised in the table below.
 
-Single Centre Trial Multicentre Trial
-N=12 N=40
-TRISENOX Dose, 0.16 (0.06 – 0.20) 0.15
-mg/kg/day
-(Median, Range)
-Complete Remission 11 (92%) 34 (85%)
-Time to Bone Marrow 32 days 35 days
-Remission (Median)
-Time to CR (Median) 54 days 59 days
-18-Month Survival 67% 66%
+|  | Single Centre Trial N=12 | Multicentre Trial N=40 |
+| --- | --- | --- |
+| TRISENOX Dose, mg/kg/day (Median, Range) | 0.16 (0.06 – 0.20) | 0.15 |
+| Complete Remission | 11 (92%) | 34 (85%) |
+| Time to Bone Marrow Remission (Median) | 32 days | 35 days |
+| Time to CR (Median) | 54 days | 59 days |
+| 18-Month Survival | 67% | 66% |
 
 The single institution study included 2 paediatric patients (< 18 years old), both of whom achieved CR.
 The multicentre trial included 5 paediatric patients (< 18 years old), 3 of whom achieved CR.
