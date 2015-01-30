@@ -12,7 +12,6 @@ A drug-drug interaction study assessing the effect of rifampicin, a potent CYP3A
 Therefore, the concomitant use of bortezomib with strong CYP3A4 inducers (e.g., rifampicin, carbamazepine, phenytoin, phenobarbital and St. John’s Wort) is not recommended, as efficacy may be reduced.
 
 In the same drug-drug interaction study assessing the effect of dexamethasone, a weaker CYP3A4 inducer, on the pharmacokinetics of bortezomib (injected intravenously), there was no significant effect on the pharmacokinetics of bortezomib based on data from 7 patients.
-
 A drug-drug interaction study assessing the effect of melphalan-prednisone on the pharmacokinetics of bortezomib (injected intravenously), showed a mean bortezomib AUC increase of 17% based on data from 21 patients.
 This is not considered clinically relevant.
 
