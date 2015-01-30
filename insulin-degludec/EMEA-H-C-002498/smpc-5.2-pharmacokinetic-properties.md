@@ -13,7 +13,6 @@ The ratio between AUCGIR,0-12h,SS and AUCGIR,τ,SS was 0.5.
 Distribution
 
 The affinity of insulin degludec to serum albumin corresponds to a plasma protein binding of >99% in human plasma.
-
 Biotransformation
 
 Degradation of insulin degludec is similar to that of human insulin; all metabolites formed are inactive.
@@ -27,6 +26,7 @@ Linearity
 
 Dose proportionality in total exposure is observed after subcutaneous administration within the therapeutic dose range.
 In direct comparison, requirements for bioequivalence are met for Tresiba 100 units/mL and Tresiba 200 units/mL (based on AUCIDeg,τ,SS and Cmax,IDeg,SS).
+
 Gender
 
 There is no gender difference in the pharmacokinetic properties of Tresiba.
@@ -37,5 +37,5 @@ There is no difference in the pharmacokinetics of insulin degludec between elder
 
 Paediatric population
 
-Pharmacokinetic properties of insulin degludec were investigated in children (6–11 years) and adolescents (12–18 years) and were comparable to those observed in adults with type 1 diabetes mellitus.
-Total exposure after a single dose is, however, higher in children and adolescents than in adults with type 1 diabetes mellitus.
+Pharmacokinetic properties of insulin degludec in children (1–11 years) and adolescents (12–18 years) were at steady state comparable to those observed in adults with type 1 diabetes mellitus.
+Total exposure after a single dose was, however, higher in children and adolescents than in adults with type 1 diabetes mellitus.

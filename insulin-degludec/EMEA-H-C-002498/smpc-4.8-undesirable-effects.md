@@ -46,7 +46,9 @@ These reactions are usually mild and transitory and they normally disappear duri
 Paediatric population
 
 Tresiba has been administered to children and adolescents up to 18 years of age for the investigation of pharmacokinetic properties (see section 5.2).
-Safety and efficacy have not been investigated in children and adolescents.
+Safety and efficacy have been demonstrated in a long term trial in children aged 1 to less than 18 years.
+The frequency, type and severity of adverse reactions in the paediatric population do not indicate differences to the experience in the general diabetes population (see section 5.1).
+
 Other special populations
 
 Based on results from clinical trials, the frequency, type and severity of adverse reactions observed in elderly patients and in patients with renal or hepatic impairment do not indicate any differences to the broader experience in the general population.
@@ -56,19 +58,3 @@ Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-[Tresiba 200 units/mL solution for injection in pre-filled pen]
-
-(all sentences already above)
-
-[Tresiba 100 units/mL solution for injection in cartridge]
-
-System organ class Frequency
-
-| Immune system disorders | Rare - Hypersensitivity |
-| --- | --- |
-|  | Rare - Urticaria |
-| Metabolism and nutrition disorders | Very common - Hypoglycaemia |
-| Skin and subcutaneous tissue disorders | Uncommon - Lipodystrophy |
-| General disorders and administration site conditions | Common - Injection site reactions |
-|  | Uncommon - Peripheral oedema |

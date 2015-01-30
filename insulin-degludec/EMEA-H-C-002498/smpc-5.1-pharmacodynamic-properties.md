@@ -14,6 +14,7 @@ Pharmacodynamic effects
 
 Tresiba is a basal insulin that forms soluble multi-hexamers upon subcutaneous injection, resulting in a depot from which insulin degludec is continuously and slowly absorbed into the circulation leading to a flat and stable glucose-lowering-effect of Tresiba (see figure 1).
 During a period of 24 hours with once-daily treatment, the glucose-lowering effect of Tresiba, in contrast to insulin glargine, was evenly distributed between the first and second 12 hours (AUCGIR,0-12h,SS/AUCGIR,total,SS = 0.5).
+
 Time since injection (hours)
 Treatment IDeg 0.6 units/kg
 Figure 1 Glucose infusion rate profile, smoothed, steady state - Mean profile 0-24 hours - IDeg 100 units/mL 0.6 units/kg - Trial 1987
@@ -178,7 +179,6 @@ Ratio: 1.18 [0.66; 2.12]6 Ratio: 0.77 [0.44; 1.35]
 Nocturnal confirmed hypoglycaemia was defined as episodes between midnight and 6 a.m.
 5 The difference is for Tresiba Flex – Tresiba
 6 The ratio is for Tresiba Flex/Tresiba.
-
 In a 104-week clinical trial, 57% of patients with type 2 diabetes treated with Tresiba (insulin degludec) in combination with metformin achieved a target HbA1c < 7.0% and the remaining patients continued in a 26-week open label trial and were randomised to add liraglutide or a single dose of insulin aspart (with the largest meal).
 In the insulin degludec + liraglutide arm, the insulin dose was reduced by 20% in order to minimise the risk of hypoglycaemia.
 Addition of liraglutide resulted in a statistically significantly greater reduction of HbA1c (-0.73% for liraglutide vs -0.40% for comparator, estimated means) and body weight (-3.03 vs 0.72 kg, estimated means).
@@ -189,13 +189,25 @@ Paediatric population
 The European Medicines Agency has waived the obligation to submit the results of trials with Tresiba in:
 
 - Neonates and infants from birth to less than 12 months of age with type 1 diabetes mellitus and children from birth to less than 10 years of age with type 2 diabetes mellitus on the grounds that the disease or condition for which the specific medicinal product is intended does not occur in the specified paediatric subset (see section 4.2 for information on paediatric use).
-- Children and adolescents from 10 to less than 18 years of age with type 2 diabetes mellitus on the grounds that the disease or condition for which the specific medicinal product is intended does not occur in the specified paediatric subset (see section 4.2 for information on paediatric use).
+
+The efficacy and safety of Tresiba has been studied in a 1:1 randomised controlled clinical trial in children and adolescents with type 1 diabetes mellitus for a period of 26 weeks (n=350), followed by a 26-week extension period (n=280).
+Patients in the Tresiba arm included 43 children aged 1–5 years, 70 children aged 6–11 years and 61 adolescents aged 12–17 years.
+Tresiba dosed once daily showed similar reduction in HbA1c at week 52 and greater reduction in FPG from baseline versus the comparator insulin detemir dosed once or twice daily.
+This was achieved with 30% lower daily doses of Tresiba compared to insulin detemir.
+The rates (events per patient-year of exposure) of severe hypoglycaemia (ISPAD definition; 0.51 vs 0.33), confirmed hypoglycaemia (57.71 vs 54.05) and nocturnal confirmed hypoglycaemia (6.03 vs 7.60) were comparable with Tresiba versus insulin detemir.
+In both treatment arms, children aged 6-11 years had a numerically higher rate of confirmed hypoglycaemia than in the other age groups.
+A numerically higher rate of severe hypoglycaemia in children aged 6-11 years in the Tresiba arm was observed.
+The rate of hyperglycaemic episodes with ketosis was significantly lower for Tresiba versus insulin detemir, 0.68 and 1.09, respectively.
+No safety issues were identified with Tresiba with respect to adverse events and standard safety parameters.
+Antibody development was sparse and had no clinical impact.
+Efficacy and safety data for adolescent patients with type 2 diabetes mellitus have been extrapolated from data for adolescent and adult patients with type 1 diabetes mellitus and adult patients with type 2 diabetes mellitus.
+Results support the use of Tresiba in adolescent patients with type 2 diabetes mellitus.
 
 [Tresiba 200 units/mL solution for injection in pre-filled pen]
 
-(all sentences already above)
+In both treatment arms, children aged 6-11 years had a numercally higher rate of confirmed hypoglycaemia than in the other age groups.
+Efficacy and safety data for adolescent pateints with type 2 diabetes mellitus have been extrapolated from data for adolescent and adult patients with type 1 diabetes mellitus and adult patients with type 2 diabetes mellitus.
 
 [Tresiba 100 units/mL solution for injection in cartridge]
 
-In a 104-week clinical trial, 57% of patients with type 2 diabetes treated with Tresiba (insulin degludec) in combination with metformin achieved a target HbA1c <7.0% and the remaining patients continued in a 26-week open label trial and were randomised to add liraglutide or a single dose of insulin aspart (with the largest meal).
-The rate of hypoglycaemic episodes (per patient year of exposure) was statistically significantly lower when adding liraglutide compared to adding a single dose of insulin aspart (1.0 vs 8.15; ratio: 0.13; 95% CI 0.08 to 0.21).
+The rates (events per patient year of exposure) of severe hypoglycaemia (ISPAD definition; 0.51 vs 0.33), confirmed hypoglycaemia (57.71 vs 54.05) and nocturnal confirmed hypoglycaemia (6.03 vs 7.60) were comparable with Tresiba versus insulin detemir.

@@ -5,13 +5,12 @@ Hypoglycaemia
 Omission of a meal or unplanned strenuous physical exercise may lead to hypoglycaemia.
 
 Hypoglycaemia may occur if the insulin dose is too high in relation to the insulin requirement (see sections 4.5, 4.8 and 4.9).
-
+In children, care should be taken to match insulin doses (especially in basal-bolus regimens) with food intake and physical activities in order to minimise the risk of hypoglycaemia.
 Patients whose blood-glucose control is greatly improved (e.g. by intensified insulin therapy) may experience a change in their usual warning symptoms of hypoglycaemia and must be advised accordingly.
 Usual warning symptoms may disappear in patients with long-standing diabetes.
 
 Concomitant illness, especially infections and fever, usually increases the patient's insulin requirement.
 Concomitant diseases in the kidney, liver or diseases affecting the adrenal, pituitary or thyroid gland may require changes in the insulin dose.
-
 As with other basal insulin products, the prolonged effect of Tresiba may delay recovery from hypoglycaemia.
 
 Hyperglycaemia

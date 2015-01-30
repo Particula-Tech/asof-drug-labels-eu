@@ -76,8 +76,8 @@ Glucose-monitoring is to be intensified and the insulin dose adjusted on an indi
 
 Paediatric population
 
-The safety and efficacy of Tresiba in children and adolescents below 18 years of age have not been established.
-Currently available data are described in section 5.2, but no recommendation on a posology can be made.
+Tresiba can be used in adolescents and children from the age of 1 year (see section 5.1).
+When changing basal insulin to Tresiba, dose reduction of basal and bolus insulin needs to be considered on an individual basis, in order to minimise the risk of hypoglycaemia (see section 4.4).
 
 Method of administration
 
