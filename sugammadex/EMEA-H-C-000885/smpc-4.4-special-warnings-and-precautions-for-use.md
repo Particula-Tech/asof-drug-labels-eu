@@ -40,7 +40,7 @@ Re-administration of rocuronium or vecuronium after routine reversal (up to 4 mg
 
 The onset of neuromuscular blockade may be prolonged up to approximately 4 minutes, and the duration of neuromuscular blockade may be shortened up to approximately 15 minutes after re-administration of rocuronium 1.2 mg/kg (or 0.6 mg/kg).
 
-Based on PK modeling the recommended waiting time in patients with mild or moderate renal impairment for re-use of 0.6 mg/kg rocuronium or 0.1 mg/kg vecuronium after routine reversal with sugammadex should be 24 hours.
+Based on PK modelling the recommended waiting time in patients with mild or moderate renal impairment for re-use of 0.6 mg/kg rocuronium or 0.1 mg/kg vecuronium after routine reversal with sugammadex should be 24 hours.
 If a shorter waiting time is required, the rocuronium dose for a new neuromuscular blockade should be 1.2 mg/kg.
 
 Re-administration of rocuronium or vecuronium after immediate reversal (16 mg/kg sugammadex): For the very rare cases where this might be required, a waiting time of 24 hours is suggested.

@@ -12,7 +12,7 @@ Metabolism:
 In preclinical and clinical studies no metabolites of sugammadex have been observed and only renal excretion of the unchanged product was observed as the route of elimination.
 
 Elimination:
-In adult anaesthetized patients with normal renal function the effective half-life of sugammadex is about 2.5 hours and the estimated plasma clearance is about 75 ml/min (based on compartmental pharmacokinetic analysis, using three compartments).
+In adult anaesthetized patients with normal renal function the elimination half-life of sugammadex is about 2 hours and the estimated plasma clearance is about 84 ml/min.
 A mass balance study demonstrated that > 90% of the dose was excreted within 24 hours.
 96% of the dose was excreted in urine, of which at least 95% could be attributed to unchanged sugammadex.
 Excretion via faeces or expired air was less than 0.02% of the dose.
@@ -21,26 +21,33 @@ Administration of sugammadex to healthy volunteers resulted in increased renal e
 Special populations:
 
 Renal impairment and age:
-In two pharmacokinetic studies comparing patients with severe renal impairment to patients with normal renal function, sugammadex levels in plasma were similar during at least the first 20 minutes after dosing, and thereafter the levels decreased faster in the control group.
-Total exposure to sugammadex was prolonged, leading to approximately 15-fold higher exposure in patients with severe renal impairment.
-In some of the patients with severe renal insufficiency, sugammadex levels were minimally detectable in plasma one month after dosing.
+In a pharmacokinetic study comparing patients with severe renal impairment to patients with normal renal function, sugammadex levels in plasma were similar during the first hour after dosing, and thereafter the levels decreased faster in the control group.
+Total exposure to sugammadex was prolonged, leading to 17-fold higher exposure in patients with severe renal impairment.
+Low concentrations of sugammadex are detectable for at least 48 hours post-dose in patients with severe renal insufficiency.
+Predicted pharmacokinetic parameters of sugammadex by age group and renal function based on compartmental modelling are presented below:
 
-Predicted pharmacokinetic parameters of sugammadex by age group and renal function based on compartmental modelling (using three compartments) are presented below:
-
-| Selected patient characteristics |  |  | Predicted PK parameters |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Demo-graphics | Renal function (creatinine clearance in ml/min) |  | Clearance in ml/min (CV) | Volume of distribution at steady state in litres (CV) | Effective half-life in hours (CV) |
-| Adult 40 yrs 75 kg | Normal | 100 | 75 (27%) | 19 (30%) | 2.5 (26%) |
-|  | Impaired | Mild 50 Moderate 30 Severe 10 | 34 (27%) 16 (27%) 3 (27%) | 41 (55%) 89 (69%) 679 (80%) | 5.5 (26%) 11.2 (26%) 66.8 (26%) |
-| Elderly 75 yrs 75 kg | Normal | 80 | 70 (27%) | 24 (38%) | 2.7 (26%) |
-|  | Impaired | Mild 50 Moderate 30 Severe 10 | 40 (27%) 19 (27%) 3 (27%) | 41 (55%) 89 (69%) 679 (80%) | 4.7 (26%) 9.5 (26%) 56.7 (26%) |
-| Demo-graphics | Renal function (creatinine clearance in ml/min) |  | Clearance in ml/min (CV) | Volume of distribution at steady state in litres (CV) | Effective half-life in hours (CV) |
-| Adolescent 15 yrs 56 kg | Normal | 95 | 62 (27%) | 14 (26%) | 3.0 (26%) |
-|  | Impaired | Mild 48 Moderate 29 Severe 10 | 27 (27%) 13 (27%) 2 (27%) | 26 (50%) 55 (66%) 400 (79%) | 6.7 (26%) 13.8 (26%) 83.2 (26%) |
-| Child 7 yrs 23 kg | Normal | 51 | 29 (27%) | 8 (34%) | 6.4 (26%) |
-|  | Impaired | Mild 26 Moderate 15 Severe 5 | 11 (27%) 5 (27%) 1 (27%) | 17 (59%) 39 (71%) 301 (80%) | 17.2 (26%) 39.1 (26%) 262 (26%) |
-
-Mean and coefficient of variation (CV in %) are presented.
+Selected patient characteristics Predicted PK parameters
+Demo- Renal function Clearance in Volume of Elimination
+graphics (creatinine clearance in mL/min distribution at steady half-life in
+mL/min) (CV) state in litres hours (CV)
+Adult Normal 100 84 (22%) 11.9 2.0 (19%)
+40 yrs Impaired Mild 50 48 (22%) 13.1 3.6 (20%)
+75 kg Moderate 30 29 (23%) 13.7 6.1 (21%)
+Severe 10 9 (19%) 14.2 20.3 (20%)
+Elderly Normal 80 72 (26%) 12.4 2.4 (23%)
+75 yrs Impaired Mild 50 49 (22%) 13.1 3.5 (19%)
+75 kg Moderate 30 29 (22%) 13.7 6.1 (20%)
+Severe 10 8 (19%) 14.2 21.0 (23%)
+Adolescent Normal 95 76 (20%) 9.3 1.7 (17%)
+15 yrs Impaired Mild 48 45 (24%) 10.1 3.0 (21%)
+56 kg Moderate 29 26 (22%) 10.5 5.2 (19%)
+Severe 10 7 (18%) 10.9 17.8 (18%)
+Child Normal 51 40 (21%) 4.3 1.5 (16%)
+7 yrs Impaired Mild 26 20 (20%) 4.5 2.9 (19%)
+23 kg Moderate 15 11 (27%) 4.6 5.2 (24%)
+Severe 5 3 (22%) 4.7 19.4 (23%)
+Mean and coefficient of variation (CV in %) are presented. For Volume of distribution no CV could
+be estimated from the model.
 
 Gender:
 No gender differences were observed.

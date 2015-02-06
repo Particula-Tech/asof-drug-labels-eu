@@ -38,6 +38,7 @@ Time (minutes) from administration of sugammadex or neostigmine at reappearance 
 | --- | --- | --- |
 |  | Sugammadex (2 mg/kg) | Neostigmine (50 mcg/kg) |
 | Rocuronium N | 48 | 48 |
+|  | Sugammadex (2 mg/kg) | Neostigmine (50 mcg/kg) |
 | Median (minutes) Range | 1.4 0.9-5.4 | 17.6 3.7-106.9 |
 | Vecuronium N Median (minutes) Range | 48 2.1 1.2-64.2 | 45 18.9 2.9-76.2 |
 
