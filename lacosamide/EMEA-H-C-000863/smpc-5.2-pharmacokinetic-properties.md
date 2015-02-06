@@ -46,6 +46,7 @@ Therefore dosage supplementation following haemodialysis is recommended (see sec
 The exposure of the O-desmethyl metabolite was several-fold increased in patients with moderate and severe renal impairment.
 In absence of haemodialysis in patients with endstage renal disease, the levels were increased and continuously rising during the 24-hour sampling.
 It is unknown whether the increased metabolite exposure in endstage renal disease subjects could give rise to adverse effects but no pharmacological activity of the metabolite has been identified.
+
 Hepatic impairment
 Subjects with moderate hepatic impairment (Child-Pugh B) showed higher plasma concentrations of lacosamide (approximately 50% higher AUCnorm).
 The higher exposure was partly due to a reduced renal function in the studied subjects.

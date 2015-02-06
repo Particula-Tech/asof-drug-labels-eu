@@ -19,5 +19,4 @@ The maximum recommended dose is 400 mg/day.
 These trials, involving 1308 patients with a history of an average of 23 years of partial-onset seizures, were designed to evaluate the efficacy and safety of lacosamide when administered concomitantly with 1-3 antiepileptics in patients with uncontrolled partial-onset seizures with or without secondary generalisation.
 Overall the proportion of subjects with a 50% reduction in seizure frequency was 23%, 34%, and 40% for placebo, lacosamide 200 mg/day and lacosamide 400 mg/day.
 There are insufficient data regarding the withdrawal of concomitant antiepileptic medicinal products to achieve monotherapy with lacosamide.
-
 The pharmacokinetics and safety of a single loading dose of iv lacosamide were determined in a multicenter, open-label study designed to assess the safety and tolerability of rapid initiation of lacosamide using a single iv loading dose (including 200 mg) followed by twice daily oral dosing (equivalent to the iv dose) as adjunctive therapy in adult subjects 16 to 60 years of age with partial-onset seizures.

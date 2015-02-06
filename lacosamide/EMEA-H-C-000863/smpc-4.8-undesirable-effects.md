@@ -2,7 +2,7 @@
 
 Summary of safety profile
 
-Based on the analysis of pooled placebo-controlled clinical trials in 1,308 patients with partial-onset seizures, a total of 61.9% of patients randomized to lacosamide and 35.2% of patients randomized to placebo reported at least 1 adverse reaction.
+Based on the analysis of pooled placebo-controlled clinical trials in adjunctive therapy in 1,308 patients with partial-onset seizures, a total of 61.9% of patients randomized to lacosamide and 35.2% of patients randomized to placebo reported at least 1 adverse reaction.
 The most frequently reported adverse reactions with lacosamide treatment were dizziness, headache, nausea and diplopia.
 They were usually mild to moderate in intensity.
 Some were dose-related and could be alleviated by reducing the dose.
@@ -13,37 +13,40 @@ Incidence of CNS adverse reactions such as dizziness may be higher after a loadi
 
 Tabulated list of adverse reactions
 
-The table below shows the frequencies of adverse reactions which have been reported in pooled placebo-controlled clinical trials (with an incidence rate ≥1% in the lacosamide group and which are >1% more than placebo) and post-marketing experience.
+The table below shows the frequencies of adverse reactions which have been reported in clinical trials and post-marketing experience.
 The frequencies are defined as follows: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100) and not known (frequency cannot be estimated from available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 | System organ class | Very common | Common | Uncommon | Not known |
 | --- | --- | --- | --- | --- |
-| Blood and lymphatic disorders |  |  |  | Agranulocytosis(2) |
-| Immune system disorders |  |  | Drug hypersensitivity(2) |  |
-| Psychiatric disorders |  | Depression Confusional state(1) Insomnia(2) | Aggression(2) Agitation(2) Euphoric mood(2) Psychotic disorder(2) Suicide attempt (2) Suicidal ideation (2) Hallucination (2) |  |
-| Nervous system disorders | Dizziness Headache | Balance disorder Coordination abnormal Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia(1) Dysarthria(1) Disturbance in attention(1) |  |  |
+| Blood and lymphatic disorders |  |  |  | Agranulocytosis(1) |
+| Immune system disorders |  |  | Drug hypersensitivity(1) | Drug reaction with eosinophilia and systemic symptoms (DRESS) (1) |
+| Psychiatric disorders |  | Depression Confusional state Insomnia(1) | Aggression(1) Agitation(1) Euphoric mood(1) Psychotic disorder(1) Suicide attempt (1) Suicidal ideation (1) Hallucination (1) |  |
+| Nervous system disorders | Dizziness Headache | Balance disorder Coordination abnormal Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia |  |  |
 | Eye disorders | Diplopia | Vision blurred |  |  |
-| Ear and labyrinth disorders |  | Vertigo Tinnitus(1) |  |  |
-| Cardiac disorders |  |  | Atrioventricular block(2) Bradycardia(2) Atrial Fibrillation (2) Atrial Flutter (2) |  |
-| Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia(1) Dry mouth(1) |  |  |
-| Hepatobiliary disorders |  |  | Liver function test abnormal(2) |  |
-| Skin and subcutaneous |  | Pruritus Rash(2) | Angioedema(2) Urticaria(2) |  |
+| Ear and labyrinth disorders |  | Vertigo Tinnitus |  |  |
+| Cardiac disorders |  |  | Atrioventricular block(1) Bradycardia(1) Atrial Fibrillation (1) Atrial Flutter (1) |  |
+| Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea |  |  |
 
-tissue disorders
-Musculoskeletal Muscle spasms(1)
+Hepatobiliary Liver function test
+disorders abnormal(1)
+Skin and Pruritus Angioedema(1) Stevens-Johnson
+subcutaneous Rash(1) Urticaria(1) syndrome(1)
+tissue disorders Toxic epidermal
+necrolysis(1)
+Musculoskeletal Muscle spasms
 and connective
 tissue disorders
 General disorders Gait disturbance
 and administration Asthenia
 site conditions Fatigue
-Irritability(1)
+Irritability
+Feeling drunk
 Injury, poisoning Fall
 and procedural Skin laceration
-complications
+complications Contusion
 
-(1) potentially important adverse drug reactions identified as being reported in pooled clinical trials with an incidence rate not meeting the criteria used above.
-(2) adverse reactions reported in post marketing experience.
+(1) adverse reactions reported in post marketing experience.
 
 Description of selected adverse reactions
 The use of lacosamide is associated with dose-related increase in the PR interval.
@@ -59,9 +62,9 @@ Abnormalities in liver function tests have been observed in controlled trials wi
 Elevations of ALT to ≥3XULN occurred in 0.7% (7/935) of Vimpat patients and 0% (0/356) of placebo patients.
 
 Multiorgan hypersensitivity reactions
-Multiorgan hypersensitivity reactions have been reported in patients treated with some antiepileptic agents.
+Multiorgan hypersensitivity reactions (also known as Drug Reaction with Eosinophilia and Systemic Symptoms, DRESS) have been reported in patients treated with some antiepileptic agents.
 These reactions are variable in expression, but typically present with fever and rash and can be associated with involvement of different organ systems.
-Potential cases have been reported rarely with lacosamide and if multiorgan hypersensitivity reaction is suspected, lacosamide should be discontinued.
+If multiorgan hypersensitivity reaction is suspected, lacosamide should be discontinued.
 
 Paediatric Population
 Frequency, type and severity of adverse reactions in adolescents aged 16-18 years are expected to be the same as in adults.
@@ -77,17 +80,17 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 | System organ class | Very common | Common | Uncommon | Not known |
 | --- | --- | --- | --- | --- |
-| Blood and lymphatic disorders |  |  |  | Agranulocytosis(2) |
-| Immune system disorders |  |  | Drug hypersensitivity(2) |  |
-| Psychiatric disorders |  | Depression Confusional state(1) Insomnia(2) | Aggression(2) Agitation(2) Euphoric mood(2) Psychotic disorder(2) Suicide attempt (2) Suicidal ideation (2) Hallucination (2) |  |
-| Nervous system disorders | Dizziness Headache | Balance disorder Coordination abnormal Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia(1) Dysarthria(1) Disturbance in attention(1) |  |  |
+| Blood and lymphatic disorders |  |  |  | Agranulocytosis(1) |
+| Immune system disorders |  |  | Drug hypersensitivity(1) | Drug reaction with eosinophilia and systemic symptoms (DRESS) (1) |
+| Psychiatric disorders |  | Depression Confusional state Insomnia(1) | Aggression(1) Agitation(1) Euphoric mood(1) Psychotic disorder(1) Suicide attempt (1) Suicidal ideation (1) Hallucination (1) |  |
+| Nervous system disorders | Dizziness Headache | Balance disorder Coordination abnormal Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia |  |  |
 | Eye disorders | Diplopia | Vision blurred |  |  |
-| Ear and labyrinth disorders |  | Vertigo Tinnitus(1) |  |  |
-| Cardiac disorders |  |  | Atrioventricular block(2) Bradycardia(2) Atrial Fibrillation (2) Atrial Flutter (2) |  |
-| Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia(1) Dry mouth(1) |  |  |
-| Hepatobiliary disorders |  |  | Liver function test abnormal(2) |  |
-| Skin and subcutaneous tissue disorders |  | Pruritus Rash(2) | Angioedema(2) Urticaria(2) |  |
+| Ear and labyrinth disorders |  | Vertigo Tinnitus |  |  |
+| Cardiac disorders |  |  | Atrioventricular block(1) Bradycardia(1) Atrial Fibrillation (1) Atrial Flutter (1) |  |
+| Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea |  |  |
+| Hepatobiliary disorders |  |  | Liver function test abnormal(1) |  |
 
+Multiorgan hypersensitivity reactions (also known as Drug Reaction with Eosinophilia and Systemic Symptom, DRESS) have been reported in patients treated with some antiepileptic agents.
 These reactions are variable in expression but typically present with fever and rash and can be associated with involvement of different organ systems.
 
 [Vimpat 150 mg film-coated tablets]
@@ -96,48 +99,55 @@ No second or higher degree AV Block was seen in.these studies.
 
 [Vimpat 200 mg film-coated tablets]
 
-(all sentences already above)
+| System organ class | Very common | Common | Uncommon | Not known |
+| --- | --- | --- | --- | --- |
+| Blood and lymphatic disorders |  |  |  | Agranulocytosis(1) |
+| Immune system disorders |  |  | Drug hypersensitivity(1) | Drug reaction with eosinophilia and systemic symptoms (DRESS) (1) |
+| Psychiatric disorders |  | Depression Confusional state Insomnia(1) | Aggression(1) Agitation(1) Euphoric mood(1) Psychotic disorder(1) Suicide attempt (1) Suicidal ideation (1) Hallucination (1) |  |
+| Nervous system disorders | Dizziness Headache | Balance disorder Coordination abnormal Memory impairment Cognitive disorder Somnolence Tremor Nystagmus HypoesthesiaDysart hria Disturbance in attention Paraesthesia |  |  |
+| Eye disorders | Diplopia | Vision blurred |  |  |
+| Ear and labyrinth disorders |  | Vertigo Tinnitus |  |  |
+| Cardiac disorders |  |  | Atrioventricular block(1) Bradycardia(1) Atrial Fibrillation (1) Atrial Flutter (1) |  |
+| Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea |  |  |
+| Hepatobiliary disorders |  |  | Liver function test abnormal(1) |  |
 
 [Treatment initiation pack]
 
 | System organ class | Very common | Common | Uncommon | Not known |
 | --- | --- | --- | --- | --- |
-| Blood and lymphatic disorders |  |  |  | Agranulocytosis(2) |
-| Immune system disorders |  |  | Drug hypersensitivity(2) |  |
-| Psychiatric disorders |  | Depression Confusional state(1) Insomnia(2) | Aggression(2) Agitation(2) Euphoric mood(2) Psychotic disorder(2) Suicide attempt (2) Suicidal ideation (2) Hallucination (2) |  |
-| Nervous system disorders | Dizziness Headache | Balance disorder Coordination abnormal Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia(1) Dysarthria(1) Disturbance in attention(1) |  |  |
+| Blood and lymphatic disorders |  |  |  | Agranulocytosis(1) |
+| Immune system disorders |  |  | Drug hypersensitivity(1) | Drug reaction with eosinophilia and systemic symptoms (DRESS) (1) |
+| Psychiatric disorders |  | Depression Confusional state Insomnia(1) | Aggression(1) Agitation(1) Euphoric mood(1) Psychotic disorder(1) Suicide attempt (1) Suicidal ideation (1) Hallucination (1) |  |
+| Nervous system disorders | Dizziness Headache | Balance disorder Coordination abnormal Memory impairment Cognitive disorder Somnolence Tremor Nystagmus HypoesthesiaDysart hria Disturbance in attention Paraesthesia |  |  |
 | Eye disorders | Diplopia | Vision blurred |  |  |
-| Ear and labyrinth disorders |  | Vertigo Tinnitus(1) |  |  |
-| Cardiac disorders |  |  | Atrioventricular block(2) Bradycardia(2) Atrial Fibrillation (2) Atrial Flutter (2) |  |
-| Gastrointestinal disorders | Nausea | Vomiting Constipation |  |  |
+| Ear and labyrinth disorders |  | Vertigo Tinnitus |  |  |
+| Cardiac disorders |  |  | Atrioventricular block(1) Bradycardia(1) Atrial Fibrillation (1) |  |
 
+Atrial Flutter (1)
+Gastrointestinal Nausea Vomiting
+disorders Constipation
 Flatulence
-Dyspepsia(1)
-Dry mouth(1)
-Hepatobiliary Liver function test
-disorders abnormal(2)
-Skin and Pruritus Angioedema(2)
-subcutaneous Rash(2) Urticaria(2)
+Dyspepsia
+Dry mouth
+Diarrhoea
 
 [Vimpat 10 mg/ml syrup]
 
 | System organ class | Very common | Common | Uncommon | Not known |
 | --- | --- | --- | --- | --- |
-| Blood and lymphatic disorders |  |  |  | Agranulocytosis(2) |
-| Immune system disorders |  |  | Drug hypersensitivity(2) |  |
-| Psychiatric disorders |  | Depression Confusional state(1) Insomnia(2) | Aggression(2) Agitation(2) Euphoric mood(2) Psychotic disorder(2) Suicide attempt (2) Suicidal ideation (2) Hallucination (2) |  |
-| Nervous system disorders | Dizziness Headache | Balance disorder Coordination abnormal Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia(1) Dysarthria(1) Disturbance in attention(1) |  |  |
-| Eye disorders | Diplopia | Vision blurred |  |  |
+| Blood and lymphatic disorders |  |  |  | Agranulocytosis(1) |
+| Immune system disorders |  |  | Drug hypersensitivity(1) | Drug reaction with eosinophilia and systemic symptoms (DRESS) (1) |
+| Psychiatric disorders |  | Depression Confusional state Insomnia(1) | Aggression(1) Agitation(1) Euphoric mood(1) Psychotic disorder(1) Suicide attempt (1) Suicidal ideation (1) Hallucination (1) |  |
+| Nervous system disorders | Dizziness Headache | Balance disorder Coordination abnormal Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention |  |  |
 
+Paraesthesia
+Eye disorders Diplopia Vision blurred
 Ear and labyrinth Vertigo
-disorders Tinnitus(1)
+disorders Tinnitus
 Cardiac disorders Atrioventricular
-block(2)
-Bradycardia(2)
-Atrial Fibrillation (2)
-Atrial Flutter (2)
-Gastrointestinal Nausea Vomiting
-disorders Constipation
+block(1)
+Bradycardia(1)
+Atrial Fibrillation (1)
 
 No second or higher degree AV Block was seen in. these studies.
 
@@ -145,15 +155,18 @@ No second or higher degree AV Block was seen in. these studies.
 
 | System organ class | Very common | Common | Uncommon | Not known |
 | --- | --- | --- | --- | --- |
-| Blood and lymphatic disorders |  |  |  | Agranulocytosis(2) |
-| Immune system disorders |  |  | Drug hypersensitivity(2) |  |
-| Psychiatric disorders |  | Depression Confusional state(1) Insomnia(2) | Aggression(2) Agitation(2) Euphoric mood(2) Psychotic disorder(2) Suicide attempt (2) Suicidal ideation (2) Hallucination (2) |  |
-| Nervous system disorders | Dizziness Headache | Balance disorder Coordination abnormal Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia(1) Dysarthria(1) Disturbance in attention(1) |  |  |
+| Blood and lymphatic disorders |  |  |  | Agranulocytosis(1) |
+| Immune system disorders |  |  | Drug hypersensitivity(1) | Drug reaction with eosinophilia and systemic symptoms (DRESS) (1) |
+| Psychiatric disorders |  | Depression Confusional state Insomnia(1) | Aggression(1) Agitation(1) Euphoric mood(1) Psychotic disorder(1) Suicide attempt (1) Suicidal ideation (1) Hallucination (1) |  |
+| Nervous system disorders | Dizziness Headache | Balance disorder Coordination abnormal Memory impairment Cognitive disorder Somnolence Tremor Nystagmus |  |  |
 
-Eye disorders Diplopia Vision blurred
-General disorders Gait disturbance Erythema(3)
+Hypoesthesia
+Dysarthria
+Disturbance in
+attention
+General disorders Gait disturbance Erythema(2)
 Injection site pain
-or discomfort (3)
-Irritation(3)
+or discomfort (2)
+Irritation(2)
 
-(3) local adverse events associated with intravenous administration
+(2) local adverse events associated with intravenous administration

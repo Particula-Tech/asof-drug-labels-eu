@@ -33,6 +33,7 @@ Progesterone concentrations were not affected when the medicinal products were c
 Others
 Interaction trials showed that lacosamide had no effect on the pharmacokinetics of digoxin.
 There was no clinically relevant interaction between lacosamide and metformin.
+Co-administration of warfarin with lacosamide does not result in a clinically relevant change in the pharmacokinetics and pharmacodynamics of warfarin.
 Although no pharmacokinetic data on the interaction of lacosamide with alcohol are available, a pharmacodynamic effect cannot be excluded.
 Lacosamide has a low protein binding of less than 15%.
 Therefore, clinically relevant interactions with other drugs through competition for protein binding sites are considered unlikely.
