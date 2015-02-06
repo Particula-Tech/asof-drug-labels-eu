@@ -8,9 +8,15 @@ Drug interaction studies of febuxostat with drugs that are metabolized by XO hav
 Drug interaction studies of febuxostat with cytotoxic chemotherapy have not been conducted.
 No data is available regarding the safety of febuxostat during cytotoxic therapy.
 
+Rosiglitazone/CYP2C8 substrates
+Febuxostat was shown to be a weak inhibitor of CYP2C8 in vitro.
+In a study in healthy subjects, coadministration of 120 mg febuxostat QD with a single 4 mg oral dose of rosiglitazone had no effect on the pharmacokinetics of rosiglitazone and its metabolite N-desmethyl rosiglitazone, indicating that febuxostat is not a CYP2C8 enzyme inhibitor in vivo.
+Thus, co-administration of febuxostat with rosiglitazone or other CYP2C8 substrates is not expected to require any dose adjustment for those compounds.
 Theophylline
-Although interaction studies have not been performed with febuxostat, inhibition of XO may cause an increase in the theophylline level (inhibition of the metabolism of theophylline has been reported with other XO inhibitors).
-Hence caution is advised if these active substances are given concomitantly, and theophylline levels should be monitored in patients starting febuxostat therapy.
+An interaction study in healthy subjects has been performed with febuxostat to evaluate whether the inhibition of XO may cause an increase in the theophylline circulating levels as reported with other XO inhibitors.
+The results of the study showed that the co-administration of febuxostat 80 mg QD with theophylline 400 mg single dose has no effect on the pharmacokinetics or safety of theophylline.
+Therefore no special caution is advised when febuxostat 80 mg and theophylline are given concomitantly.
+No data is available for febuxostat 120 mg.
 
 Naproxen and other inhibitors of glucuronidation
 Febuxostat metabolism depends on Uridine Glucuronosyl Transferase (UGT) enzymes.

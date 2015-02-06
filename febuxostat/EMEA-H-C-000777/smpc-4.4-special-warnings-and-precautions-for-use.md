@@ -37,7 +37,9 @@ Organ transplant recipients
 As there has been no experience in organ transplant recipients, the use of febuxostat in such patients is not recommended (see section 5.1).
 
 Theophylline
-Febuxostat should be used with caution in patients concomitantly treated with theophylline and theophylline levels should be monitored in patients starting febuxostat therapy (see section 4.5).
+Co-administration of febuxostat 80 mg and theophylline 400mg single dose in healthy subjects showed absence of any pharmacokinetic interaction (see section 4.5).
+Febuxostat 80 mg can be used in patients concomitantly treated with theophylline without risk of increasing theophylline plasma levels.
+No data is available for febuxostat 120 mg.
 
 Liver disorders
 During the combined phase 3 clinical studies, mild liver function test abnormalities were observed in patients treated with febuxostat (5.0%).

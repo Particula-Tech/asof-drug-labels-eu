@@ -18,6 +18,7 @@ In each phase 3 pivotal study, ADENURIC demonstrated superior ability to lower a
 The primary efficacy endpoint in the APEX and FACT studies was the proportion of patients whose last 3 monthly serum uric acid levels were < 6.0 mg/dL (357 µmol/L).
 In the additional phase 3 CONFIRMS study, for which results became available after the marketing authorisation for ADENURIC was first issued, the primary efficacy endpoint was the proportion of patients whose serum urate level was < 6.0 mg/dL at the final visit.
 No patients with organ transplant have been included in these studies (see section 4.2).
+
 APEX Study: The Allopurinol and Placebo-Controlled Efficacy Study of Febuxostat (APEX) was a Phase 3, randomized, double-blind, multicenter, 28-week study.
 One thousand and seventy-two (1072) patients were randomized: placebo (n=134), ADENURIC 80 mg QD (n=267), ADENURIC 120 mg QD (n=269), ADENURIC 240 mg QD (n=134) or allopurinol (300 mg QD [n=258] for patients with a baseline serum creatinine ≤1.5 mg/dL or 100 mg QD [n=10] for patients with a baseline serum creatinine >1.5 mg/dL and ≤2.0 mg/dL).
 Two hundred and forty mg febuxostat (2 times the recommended highest dose) was used as a safety evaluation dose.
@@ -30,7 +31,6 @@ Seven hundred sixty (760) patients were randomized: ADENURIC 80 mg QD (n=256), A
 The FACT study showed the statistically significant superiority of both ADENURIC 80 mg and ADENURIC 120 mg QD treatment arms versus the conventionally used dose of allopurinol 300 mg treatment arm in reducing and maintaining sUA below 6 mg/dL (357 µmol/L).
 
 Table 2 summarises the primary efficacy endpoint results:
-
 Table 2
 Proportion of Patients with Serum Uric Acid Levels <6.0 mg/dL (357 µmol/L)
 Last Three Monthly Visits
@@ -45,6 +45,7 @@ Last Three Monthly Visits
 The ability of ADENURIC to lower serum uric acid levels was prompt and persistent.
 Reduction in serum uric acid level to <6.0 mg/dL (357 µmol/L) was noted by the Week 2 visit and was maintained throughout treatment.
 The mean serum uric acid levels over time for each treatment group from the two pivotal Phase 3 studies are shown in Figure 1.
+
 Figure 1 Mean Serum Uric Acid Levels in Combined Pivotal Phase 3 Studies
 
 11
@@ -89,6 +90,7 @@ ADENURIC achieved the primary efficacy endpoint in 44% (80 mg QD), 45% (120 mg Q
 There were no clinically significant differences in the percent decrease in serum uric acid concentration in healthy subjects irrespective of their renal function (58% in the normal renal function group and 55% in the severe renal dysfunction group).
 
 An analysis in patients with gout and renal impairment was prospectively defined in the CONFIRMS study, and showed that febuxostat was significantly more efficacious in lowering serum urate levels to < 6 mg/dL compared to allopurinol 300 mg/200 mg in patients who had gout with mild to moderate renal impairment (65% of patients studied).
+
 Primary endpoint in the sub group of patients with sUA ≥ 10 mg/dL
 Approximately 40% of patients (combined APEX and FACT) had a baseline sUA of ≥ 10 mg/dL.
 In this subgroup ADENURIC achieved the primary efficacy endpoint (sUA < 6.0 mg/dL at the last 3 visits) in 41% (80 mg QD), 48% (120 mg QD), and 66% (240 mg QD) of patients compared to 9% in the allopurinol 300 mg/100 mg QD and 0 % in the placebo groups.
@@ -120,6 +122,7 @@ Serum urate levels were maintained over time (i.e. 91% and 93% of patients on in
 Three years data showed a decrease in the incidence of gout flares with less than 4% of patients requiring treatment for a flare (i.e. more than 96% of patients did not require treatment for a flare) at Month 16-24 and at Month 30-36.
 
 46% and 38%, of patients on final stable treatment of febuxostat 80 or 120 mg QD, respectively, had complete resolution of the primary palpable tophus from baseline to the Final Visit.
+
 FOCUS Study (TMX-01-005) was a 5 years Phase 2, open-label, multicenter, safety extension study for patients who had completed the febuxostat 4 weeks of double blind dosing in study TMX-00-004.
 116 patients were enrolled and received initially febuxostat 80 mg QD.
 62% of patients required no dose adjustment to maintain sUA <6 mg/dL and 38% of patients required a dose adjustment to achieve a final stable dose.

@@ -19,7 +19,8 @@ Table 1: Adverse reactions in combined phase 3, long-term extension studies and 
 | Eye disorders | Rare Blurred vision |
 | Metabolism and nutrition disorders | Common*** Gout flares Uncommon Diabetes mellitus, hyperlipidemia, decrease appetite, weight increase Rare Weight decrease, increase appetite, anorexia |
 | Psychiatric disorders | Uncommon Libido decreased, insomnia Rare Nervousness |
-| Nervous system disorders | Common Headache Uncommon Dizziness, paraesthesia, hemiparesis, somnolence, altered taste, hypoaesthesia, hyposmia |
+| Nervous system disorders | Common |
+|  | Headache Uncommon Dizziness, paraesthesia, hemiparesis, somnolence, altered taste, hypoaesthesia, hyposmia |
 | Ear and labyrinth disorders | Rare Tinnitus |
 | Cardiac disorders | Uncommon Atrial fibrillation, palpitations, ECG abnormal |
 | Vascular disorders | Uncommon Hypertension, flushing, hot flush |
@@ -31,7 +32,18 @@ Table 1: Adverse reactions in combined phase 3, long-term extension studies and 
 | Renal and urinary disorders | Uncommon Renal failure, nephrolithiasis, haematuria, pollakiuria, proteinuria Rare Tubulointerstitial nephritis*, micturition urgency |
 | Reproductive system and breast disorder | Uncommon Erectile dysfunction |
 | General disorders and administration site conditions | Common Oedema Uncommon Fatigue, chest pain, chest discomfort Rare Thirst |
-| Investigations | Uncommon Blood amylase increase, platelet count decrease, WBC decrease, lymphocyte count decrease, blood creatine increase, blood creatinine increase, haemoglobin decrease, blood urea increase, blood triglycerides increase, blood cholesterol increase, haematocritic decrease, blood lactate dehydrogenase increased, blood potassium increase Rare Blood glucose increase, activated partial thromboplastin time prolonged, red blood cell count decrease, blood alkaline phosphatase increase |
+
+Investigations Uncommon
+Blood amylase increase, platelet count decrease, WBC decrease,
+lymphocyte count decrease, blood creatine increase, blood
+creatinine increase, haemoglobin decrease, blood urea increase,
+blood triglycerides increase, blood cholesterol increase,
+haematocritic decrease, blood lactate dehydrogenase increased,
+blood potassium increase
+Rare
+Blood glucose increase, activated partial thromboplastin time
+prolonged, red blood cell count decrease, blood alkaline
+phosphatase increase
 
 * Adverse reactions coming from post-marketing experience
 ** Treatment-emergent non-infective diarrhoea and abnormal liver function tests in the combined Phase 3 studies are more frequent in patients concomitantly treated with colchicine. *** See section 5.1 for incidences of gout flares in the individual Phase 3 randomized controlled studies.
@@ -45,25 +57,11 @@ Gout flares were commonly observed soon after the start of treatment and during 
 Thereafter, the frequency of gout flare decreases in a time-dependent manner.
 Gout flare prophylaxis is recommended (see section 4.2 and 4.4).
 
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
 [ADENURIC 120 mg film-coated tablets]
 
-| Blood and lymphatic system disorders | Rare Pancytopenia, thrombocytopenia |
-| --- | --- |
-| Immune system disorders | Rare Anaphylactic reaction*, drug hypersensitivity* |
-| Endocrine disorders | Uncommon Blood thyroid stimulating hormone increased |
-| Eye disorders | Rare Blurred vision |
-| Metabolism and nutrition disorders | Common*** Gout flares Uncommon Diabetes mellitus, hyperlipidemia, decrease appetite, weight increase Rare Weight decrease, increase appetite, anorexia |
-| Psychiatric disorders | Uncommon Libido decreased, insomnia Rare Nervousness |
-| Nervous system disorders | Common Headache Uncommon Dizziness, paraesthesia, hemiparesis, somnolence, altered taste, hypoaesthesia, hyposmia |
-| Ear and labyrinth disorders | Rare Tinnitus |
-| Cardiac disorders | Uncommon Atrial fibrillation, palpitations, ECG abnormal |
-| Vascular disorders | Uncommon Hypertension, flushing, hot flush |
-| Respiratory system disorders | Uncommon Dyspnoea, bronchitis, upper respiratory tract infection, cough |
-| Gastrointestinal disorders | Common Diarrhoea**, nausea Uncommon: Abdominal pain, abdominal distension, gastro-oesophageal reflux disease, vomiting, dry mouth, dyspepsia, constipation, frequent stools, flatulence, gastrointestinal discomfort Rare Pancreatitis, mouth ulceration |
-| Hepato-biliary disorders | Common Liver function abnormalities** Uncommon Cholelithiasis Rare Hepatitis, jaundice*, liver injury* |
-| Skin and subcutaneous tissue disorders | Common Rash (including various types of rash reported with lower frequencies, see below) Uncommon Dermatitis, urticaria, pruritus, skin discolouration, skin lesion, petechiae, rash macular, rash maculopapular, rash papular Rare Toxic epidermal necrolysis*, Stevens-Johnson Syndrome*, angioedema*, drug reaction with eosinophilia and systemic symptoms*, generalized rash (serious)*, erythema, exfoliative rash, rash follicular, rash vesicular, rash pustular, rash pruritic*, rash erythematous, rash morbillifom, alopecia, hyperhidrosis |
-| Musculoskeletal and connective tissue disorders | Uncommon Arthralgia, arthritis, myalgia, musculoskeletal pain, muscle weakness, muscle spasm, muscle tightness, bursitis Rare Rhabdomyolysis*, joint stiffness, musculoskeletal stiffness |
-| Renal and urinary disorders | Uncommon Renal failure, nephrolithiasis, haematuria, pollakiuria, proteinuria Rare Tubulointerstitial nephritis*, micturition urgency |
-| Reproductive system and breast disorder | Uncommon Erectile dysfunction |
-| General disorders and administration site conditions | Common Oedema Uncommon Fatigue, chest pain, chest discomfort Rare Thirst |
-| Investigations | Uncommon Blood amylase increase, platelet count decrease, WBC decrease, lymphocyte count decrease, blood creatine increase, blood creatinine increase, haemoglobin decrease, blood urea increase, blood triglycerides increase, blood cholesterol increase, haematocritic decrease, blood lactate dehydrogenase increased, blood potassium increase Rare Blood glucose increased, activated partial thromboplastin time prolonged, red blood cell count decrease, blood alkaline phosphatase increase |
+Blood glucose increased, activated partial thromboplastin time
