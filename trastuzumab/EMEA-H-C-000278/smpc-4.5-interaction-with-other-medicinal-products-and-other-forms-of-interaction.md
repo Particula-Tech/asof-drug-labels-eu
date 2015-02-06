@@ -20,3 +20,11 @@ By comparison of simulated serum trastuzumab concentrations after trastuzumab mo
 Comparison of PK results from two Phase II studies (BO15935 and M77004) and one Phase III study (H0648g) in which patients were treated concomitantly with Herceptin and paclitaxel and two Phase II studies in which Herceptin was administered as monotherapy (W016229 and MO16982), in women with HER2-positive MBC indicates that individual and mean Herceptin trough serum concentrations varied within and across studies but there was no clear effect of the concomitant administration of paclitaxel on the pharmacokinetics of trastuzumab.
 
 The administration of concomitant anastrozole did not appear to influence the pharmacokinetics of trastuzumab.
+
+[Herceptin 600 mg solution for injection in vial]
+
+(all sentences already above)
+
+[Herceptin 600 mg solution for injection in administration system]
+
+Clinically significant interactions with the concomitant medicinal product used in clinical trials have not been observed based on the results of a population PK analysis (studies HO407g, HO551g, HO649g, and HO648g).

@@ -22,7 +22,7 @@ As human IgG1 is secreted into human milk, and the potential for harm to the inf
 Fertility
 There is no fertility data available.
 
-[Herceptin 600 mg/5 mL solution for injection]
+[Herceptin 600 mg solution for injection in vial]
 
 Women of childbearing potential / Contraception
 
@@ -32,3 +32,7 @@ As animal reproduction studies are not always predictive of human response, Herc
 
 In the post-marketing setting, cases of fetal renal growth and/or function impairment in association with oligohydramnios, some associated with fatal pulmonary hypoplasia of the fetus, have been reported in pregnant women receiving Herceptin.
 Women who become pregnant should be advised of the possibility of harm to the fetus.
+
+[Herceptin 600 mg solution for injection in administration system]
+
+(all sentences already above)

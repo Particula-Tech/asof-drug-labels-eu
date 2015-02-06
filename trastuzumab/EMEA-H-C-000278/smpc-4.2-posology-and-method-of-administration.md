@@ -7,6 +7,8 @@ It is important to check the product labels to ensure that the correct formulati
 Herceptin intravenous formulation is not intended for subcutaneous administration and should be administered via an intravenous infusion only.
 Limited information is currently available on switches from one formulation to the other.
 
+In order to prevent medication errors it is important to check the vial labels to ensure that the drug being prepared and administered is Herceptin (trastuzumab) and not trastuzumab emtansine.
+
 Posology
 
 Metastatic breast cancer
@@ -28,7 +30,6 @@ There were no restrictions on the relative timing of Herceptin and anastrozole a
 Early breast cancer
 
 Three-weekly and weekly schedule
-
 As a three-weekly regimen the recommended initial loading dose of Herceptin is 8 mg/kg body weight.
 The recommended maintenance dose of Herceptin at three-weekly intervals is 6 mg/kg body weight, beginning three weeks after the loading dose.
 As a weekly regimen (initial loading dose of 4 mg/kg followed by 2 mg/kg every week) concomitantly with paclitaxel following chemotherapy with doxorubicin and cyclophosphamide.
@@ -45,7 +46,7 @@ Breast cancer and gastric cancer
 
 Duration of treatment
 Patients with MBC or MGC should be treated with Herceptin until progression of disease.
-Patients with EBC should be treated with Herceptin for 1 year or until disease recurrence, whichever occurs first.; extending treatment in EBC beyond one year is not recommended (see section 5.1).
+Patients with EBC should be treated with Herceptin for 1 year or until disease recurrence, whichever occurs first; extending treatment in EBC beyond one year is not recommended (see section 5.1).
 
 Dose reduction
 No reductions in the dose of Herceptin were made during clinical trials.
@@ -72,6 +73,7 @@ Paediatric population
 There is no relevant use of Herceptin in the paediatric population.
 
 Method of administration
+
 Herceptin loading dose should be administered as a 90-minute intravenous infusion.
 Do not administer as an intravenous push or bolus.
 Herceptin intravenous infusion should be administered by a healthcare provider prepared to manage anaphylaxis and an emergency kit should be available.
@@ -83,11 +85,11 @@ If the initial loading dose was well tolerated, the subsequent doses can be admi
 
 For instructions on reconstitution of Herceptin intravenous formulation before administration, see section 6.6.
 
-[Herceptin 600 mg/5 mL solution for injection]
+[Herceptin 600 mg solution for injection in vial]
 
 Herceptin subcutaneous formulation is not intended for intravenous administration and should be administered via a subcutaneous injection only.
 
-The recommended dose for Herceptin subcutaneous formulation is 600 mg/5 mL irrespective of the patient’s body weight.
+The recommended dose for Herceptin subcutaneous formulation is 600 mg irrespective of the patient’s body weight.
 No loading dose is required.
 This dose should be administered subcutaneously over 2-5 minutes every three weeks.
 
@@ -95,7 +97,6 @@ In the pivotal trial (BO22227) Herceptin subcutaneous formulation was administer
 The preoperative chemotherapy regimen consisted of docetaxel (75 mg/m²) followed by FEC (5FU, epirubicin and cyclophosphamide) at a standard dose.
 
 Patients with MBC should be treated with Herceptin until progression of disease.
-Patients with EBC should be treated with Herceptin for 1 year or until disease recurrence, whichever occurs first; extending treatment in EBC beyond one year is not recommended (see section 5.1).
 
 Refer to the Summary of Product Characteristics (SmPC) for paclitaxel, docetaxel or aromatase inhibitor for information on dose reduction or delays.
 
@@ -109,3 +110,23 @@ During the treatment course with Herceptin subcutaneous formulation other medici
 Patients should be observed for six hours after the first injection and for two hours after subsequent injections for signs or symptoms of administration-related reactions (see sections 4.4 and 4.8).
 
 For instructions on use and handling of Herceptin subcutaneous formulation refer to section 6.6.
+
+[Herceptin 600 mg solution for injection in administration system]
+
+The recommended dose for Herceptin subcutaneous formulation in administration system is 600 mg, irrespective of the patient’s body weight.
+This dose should be administered subcutaneously every three weeks.
+The duration of the administration is approximately 5 minutes
+
+If no dose is administered due to mishandling or failure of the administration system, then dosing with a new administration system is advised.
+If there are repeated incidences of mishandling or failure of the administration system, the alternative dosage form, Herceptin 600 mg solution for injection in vial should be administered subcutaneously for the remainder of the treatment duration.
+
+If a partial dose is administered due to mishandling or failure of the administration system, the next full dose should be administered at the next scheduled visit in 3 weeks.
+
+The Herceptin 600 mg solution for injection in administration system is ready to use and is for single use only.
+The 600 mg dose should be administered as a subcutaneous injection.
+New injections should be given at least 2.5 cm from the old site on healthy skin and never into areas where the skin is red, bruised, tender, or hard.
+The injection site may need to be shaved to facilitate the fixing and removal of the adhesive pad of the administration system.
+
+During the treatment course with Herceptin subcutaneous formulation in administration system, other medicinal products for subcutaneous administration should preferably be injected at different sites.
+
+For instructions on use and handling of Herceptin subcutaneous formulation, refer to section 6.6 of the SmPC, and section 7 of the package leaflet.

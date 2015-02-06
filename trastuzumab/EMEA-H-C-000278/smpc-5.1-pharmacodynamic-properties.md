@@ -25,7 +25,6 @@ HER2 gene amplification should be detected using fluorescence in situ hybridisat
 Patients are eligible for Herceptin treatment if they show strong HER2 overexpression as described by a 3+ score by IHC or a positive FISH or CISH result.
 
 To ensure accurate and reproducible results, the testing must be performed in a specialised laboratory, which can ensure validation of the testing procedures.
-
 The recommended scoring system to evaluate the IHC staining patterns is as stated in Table 2:
 
 Table 2 Recommended Scoring System to Evaluate the IHC Staining Patterns in Breast Cancer
@@ -40,6 +39,7 @@ Table 2 Recommended Scoring System to Evaluate the IHC Staining Patterns in Brea
 In general, FISH is considered positive if the ratio of the HER2 gene copy number per tumour cell to the chromosome 17 copy number is greater than or equal to 2, or if there are more than 4 copies of the HER2 gene per tumour cell if no chromosome 17 control is used.
 
 In general, CISH is considered positive if there are more than 5 copies of the HER2 gene per nucleus in greater than 50 % of tumour cells.
+
 For full instructions on assay performance and interpretation please refer to the package inserts of validated FISH and CISH assays.
 Official recommendations on HER2 testing may also apply.
 
@@ -158,12 +158,12 @@ In the adjuvant setting, Herceptin was investigated in 4 large multicentre, rand
 - Study BO16348 was designed to compare one and two years of three-weekly Herceptin treatment versus observation in patients with HER2 positive EBC following surgery, established chemotherapy and radiotherapy (if applicable).
   In addition, comparison of two years versus one year Herceptin treatment was performed.
   Patients assigned to receive Herceptin were given an initial loading dose of 8 mg/kg, followed by 6 mg/kg every three weeks for either one or two years.
-- The NCCTG N9831 and NSABP B-31 studies that comprise the joint analysis were designed to investigate the clinical utility of combining Herceptin treatment with paclitaxel following AC chemotherapy, additionally the NCCTG N9831 study also investigated adding Herceptin sequentially to AC→P chemotherapy in patients with HER2 positive EBC following surgery.
+- The NSABP B-31 and NCCTG N9831 studies that comprise the joint analysis were designed to investigate the clinical utility of combining Herceptin treatment with paclitaxel following AC chemotherapy, additionally the NCCTG N9831 study also investigated adding Herceptin sequentially to AC→P chemotherapy in patients with HER2 positive EBC following surgery.
 - The BCIRG 006 study was designed to investigate combining Herceptin treatment with docetaxel either following AC chemotherapy or in combination with docetaxel and carboplatin in patients with HER2 positive EBC following surgery.
 
 Early breast cancer in the HERA trial was limited to operable, primary, invasive adenocarcinoma of the breast, with axillary nodes positive or axillary nodes negative if tumors at least 1 cm in diameter.
 
-In the joint analysis of the NCCTG N9831 and NSABP B-31 studies, EBC was limited to women with operable breast cancer at high risk, defined as HER2-positive and axillary lymph node positive or HER2 positive and lymph node negative with high risk features (tumor size > 1 cm and ER negative or tumor size > 2 cm, regardless of hormonal status).
+In the joint analysis of the NSABP B-31 and NCCTG N9831 studies, EBC was limited to women with operable breast cancer at high risk, defined as HER2-positive and axillary lymph node positive or HER2 positive and lymph node negative with high risk features (tumor size > 1 cm and ER negative or tumor size > 2 cm, regardless of hormonal status).
 
 In the BCIRG 006 study HER2 positive, EBC was defined as either lymph node positive or high risk node negative patients with no (pN0) lymph node involvement, and at least 1 of the following factors: tumour size greater than 2 cm, estrogen receptor and progesterone receptor negative, histological and/or nuclear grade 2-3, or age < 35 years).
 
@@ -191,7 +191,7 @@ In this final analysis, extending Herceptin treatment for a duration of two year
 The rate of asymptomatic cardiac dysfunction was increased in the 2-year treatment arm (8.1 % versus 4.6 % in the 1-year treatment arm).
 More patients experienced at least one grade 3 or 4 adverse event in the 2-year treatment arm (20.4 %) compared with the 1-year treatment arm (16.3 %).
 
-In the NCCTG N9831 and NSABP B-31 studies Herceptin was administered in combination with paclitaxel, following AC chemotherapy.
+In the NSABP B-31 and NCCTG N9831 studies Herceptin was administered in combination with paclitaxel, following AC chemotherapy.
 
 Doxorubicin and cyclophosphamide were administered concurrently as follows:
 
@@ -206,24 +206,45 @@ or
 
 - intravenous paclitaxel - 175 mg/m2 as a continuous intravenous infusion, given every 3 weeks for 4 cycles (day 1 of each cycle).
 
-The efficacy results from the joint analysis of the NCCTG 9831 and NSABP B-31 trials are summarized in Table 7.
+The efficacy results from the joint analysis of the NSABP B-31 and NCCTG 9831 trials at the time of the definitive analysis of DFS* are summarized in Table 7.
 The median duration of follow up was 1.8 years for the patients in the AC→P arm and 2.0 years for patients in the AC→PH arm.
 
-Table 7 Efficacy Results from the Joint Analysis of the NCCTG 9831 and NSABP B-31 Trials
+Table 7 Summary of Efficacy results from the joint analysis of the NSABP B-31 and NCCTG N9831 trials at the time of the definitive DFS analysis*
 
 | Parameter | AC→P (n=1679) | AC→PH (n=1672) | Hazard Ratio vs AC→P (95% CI) p-value |
 | --- | --- | --- | --- |
 | Disease-free survival No. patients with event (%) | 261 (15.5) | 133 (8.0) | 0.48 (0.39, 0.59) p<0.0001 |
 | Distant Recurrence No. patients with event | 193 (11.5) | 96 (5.7) | 0.47 (0.37, 0.60) p<0.0001 |
-| Death (OS event): No. patients with event | 92 (5.5) | 62 (3.7) | 0.67 (0.48, 0.92) p=0.014 |
+| Death (OS event): No. patients with event | 92 (5.5) | 62 (3.7) | 0.67 (0.48, 0.92) p=0.014** |
 
 A: doxorubicin; C: cyclophosphamide; P: paclitaxel; H: trastuzumab
+* At median duration of follow up of 1.8 years for the patients in the AC→P arm and 2.0 years for patients in the AC→PH arm
+** p value for OS did not cross the pre-specified statistical boundary for comparison of AC→PH vs. AC→P
 
 For the primary endpoint, DFS, the addition of Herceptin to paclitaxel chemotherapy resulted in a 52 % decrease in the risk of disease recurrence.
 The hazard ratio translates into an absolute benefit, in terms of 3-year disease-free survival rate estimates of 11.8 percentage points (87.2 % versus 75.4 %) in favour of the AC→PH (Herceptin) arm.
 At the time of a safety update after a median of 3.5-3.8 years follow up, an analysis of DFS reconfirms the magnitude of the benefit shown in the definitive analysis of DFS.
 Despite the cross-over to Herceptin in the control arm, the addition of Herceptin to paclitaxel chemotherapy resulted in a 52 % decrease in the risk of disease recurrence.
 The addition of Herceptin to paclitaxel chemotherapy also resulted in a 37 % decrease in the risk of death.
+
+The pre-planned final analysis of OS from the joint analysis of studies NSABP B-31 and NCCTG N9831 was performed when 707 deaths had occurred (median follow-up 8.3 years in the AC→P H group).
+Treatment with AC→PH resulted in a statistically significant improvement in OS compared with AC→P (stratified HR=0.64; 95% CI [0.55, 0.74]; log-rank p-value < 0.0001).
+At 8 years, the survival rate was estimated to be 86.9% in the AC→PH arm and 79.4% in the AC→P arm, an absolute benefit of 7.4% (95% CI 4.9%, 10.0%).
+The final OS results from the joint analysis of studies NSABP B-31 and NCCTG N9831 are summarized in Table 8 below:
+
+Table 8 Final Overall Survival Analysis from the joint analysis of trials NSABP B-31 and NCCTG N9831
+
+| Parameter | AC→P (N=2032) | AC→PH (N=2031) | p-value versus AC→P | Hazard Ratio versus AC→P (95% CI) |
+| --- | --- | --- | --- | --- |
+| Death (OS event): No. patients with event (%) | 418 (20.6%) | 289 (14.2%) | < 0.0001 | 0.64 (0.55, 0.74) |
+
+A: doxorubicin; C: cyclophosphamide; P: paclitaxel; H: trastuzumab
+
+DFS analysis was also performed at the final analysis of OS from the joint analysis of studies
+NSABP B-31 and NCCTG N9831.
+The updated DFS analysis results (stratified HR = 0.61; 95% CI [0.54, 0.69]) showed a similar DFS benefit compared to the definitive primary DFS analysis, despite 24.8% patients in the AC→P arm who crossed over to receive Herceptin.
+At 8 years, the disease-free survival rate was estimated to be 77.2% (95% CI: 75.4, 79.1) in the AC→PH arm, an absolute benefit of 11.8% compared with the AC→P arm.
+
 In the BCIRG 006 study Herceptin was administered either in combination with docetaxel, following AC chemotherapy (AC→DH) or in combination with docetaxel and carboplatin (DCarbH).
 
 Docetaxel was administered as follows:
@@ -240,10 +261,9 @@ which was followed by:
 
 Herceptin was administered weekly with chemotherapy and 3 weekly thereafter for a total of 52 weeks.
 
-The efficacy results from the BCIRG 006 are summarized in Tables 8 and 9.
+The efficacy results from the BCIRG 006 are summarized in Tables 9 and 10.
 The median duration of follow up was 2.9 years in the AC→D arm and 3.0 years in each of the AC→DH and DCarbH arms.
-
-Table 8 Overview of Efficacy Analyses BCIRG 006 AC→D versus AC→DH
+Table 9 Overview of Efficacy Analyses BCIRG 006 AC→D versus AC→DH
 
 | Parameter | AC→D (n=1073) | AC→DH (n=1074) | Hazard Ratio vs AC→D (95 % CI) p-value |
 | --- | --- | --- | --- |
@@ -252,7 +272,8 @@ Table 8 Overview of Efficacy Analyses BCIRG 006 AC→D versus AC→DH
 | Death (OS event) No. patients with event | 80 | 49 | 0.58 (0.40, 0.83) p=0.0024 |
 
 AC→D = doxorubicin plus cyclophosphamide, followed by docetaxel; AC→DH = doxorubicin plus cyclophosphamide, followed by docetaxel plus trastuzumab; CI = confidence interval
-Table 9 Overview of Efficacy Analyses BCIRG 006 AC→D versus DCarbH
+
+Table 10 Overview of Efficacy Analyses BCIRG 006 AC→D versus DCarbH
 
 | Parameter | AC→D (n=1073) | DCarbH (n=1074) | Hazard Ratio vs AC→D (95 % CI) |
 | --- | --- | --- | --- |
@@ -266,17 +287,19 @@ In the BCIRG 006 study for the primary endpoint, DFS, the hazard ratio translate
 
 In study BCIRG 006, 213/1075 patients in the DCarbH (TCH) arm, 221/1074 patients in the AC→DH (AC→TH) arm, and 217/1073 in the AC→D (AC→T) arm had a Karnofsky performance status ≤90 (either 80 or 90).
 No disease-free survival (DFS) benefit was noticed in this subgroup of patients (hazard ratio = 1.16, 95 % CI [0.73, 1.83] for DCarbH (TCH) versus AC→D (AC→T); hazard ratio 0.97, 95 % CI [0.60, 1.55] for AC→DH (AC→TH) versus AC→D).
+In addition a post-hoc exploratory analysis was performed on the data sets from the joint analysis (JA) NSABP B-31/NCCTG N9831* and BCIRG006 clinical studies combining DFS events and symptomatic cardiac events and summarised in Table 11:
 
-In addition a post-hoc exploratory analysis was performed on the data sets from the joint analysis (JA) NSABP B-31/NCCTG N9831 and BCIRG006 clinical studies combining DFS events and symptomatic cardiac events and summarised in Table 10:
+Table 11 Post-Hoc Exploratory Analysis Results from the Joint Analysis NSABP B-31/NCCTG N9831 and BCIRG006 Clinical Studies Combining DFS Events and Symptomatic Cardiac Events
 
-Table 10 Post-Hoc Exploratory Analysis Results from the Joint Analysis NSABP B-31/NCCTG N9831 and BCIRG006 Clinical Studies Combining DFS Events and Symptomatic Cardiac Events
-
-|  | AC→PH (vs. AC→P) (NSABP B-31 and NCCTG N9831) | AC→DH (vs. AC→D) (BCIRG 006) | DCarbH (vs. AC→D) (BCIRG 006) |
+|  | AC→PH (vs. AC→P) (NSABP B-31 and NCCTG N9831)* | AC→DH (vs. AC→D) (BCIRG 006) | DCarbH (vs. AC→D) (BCIRG 006) |
 | --- | --- | --- | --- |
 | Primary efficacy analysis DFS Hazard ratios (95 % CI) p-value | 0.48 (0.39, 0.59) p<0.0001 | 0.61 (0.49, 0.77) p< 0.0001 | 0.67 (0.54, 0.83) p=0.0003 |
 | Post-hoc exploratory analysis with DFS and symptomatic cardiac events Hazard ratios (95 % CI) | 0.64 (0.53, 0.77) | 0.70 (0.57, 0.87) | 0.71 (0.57, 0.87) |
 
 A: doxorubicin; C: cyclophosphamide; P: paclitaxel; D: docetaxel; Carb: carboplatin; H: trastuzumab CI = confidence interval
+* At the time of the definitive analysis of DFS.
+Median duration of follow up was 1.8 years in the AC→P arm and 2.0 years in the AC→PH arm
+
 Early breast cancer (neoadjuvant-adjuvant setting)
 
 So far, no results are available which compare the efficacy of Herceptin administered with chemotherapy in the adjuvant setting with that obtained in the neo-adjuvant/adjuvant setting.
@@ -303,10 +326,10 @@ which was followed after surgery by
 
 - additional cycles of adjuvant Herceptin (to complete 1 year of treatment)
 
-The efficacy results from MO16432 are summarized in Table 11.
+The efficacy results from MO16432 are summarized in Table 12.
 The median duration of follow-up in the Herceptin arm was 3.8 years.
 
-Table 11 Efficacy Results from MO16432
+Table 12 Efficacy Results from MO16432
 
 | Parameter | Chemo + Herceptin (n=115) | Chemo only (n=116) |  |
 | --- | --- | --- | --- |
@@ -321,6 +344,7 @@ An absolute benefit of 13 percentage points in favour of the Herceptin arm was e
 Metastatic gastric cancer
 
 Herceptin has been investigated in one randomised, open-label phase III trial ToGA (BO18255) in combination with chemotherapy versus chemotherapy alone.
+
 Chemotherapy was administered as follows:
 
 - capecitabine - 1000 mg/m2 orally twice daily for 14 days every 3 weeks for 6 cycles (evening of day 1 to morning of day 15 of each cycle)
@@ -333,9 +357,9 @@ Either of which was administered with:
 
 - cisplatin - 80 mg/m2 every 3 weeks for 6 cycles on day 1 of each cycle.
 
-The efficacy results from study BO18225 are summarized in Table 12:
+The efficacy results from study BO18225 are summarized in Table 13:
 
-Table 12 Efficacy Results from BO18225
+Table 13 Efficacy Results from BO18225
 
 | Parameter | FP N = 290 | FP +H N = 294 | HR (95 % CI) | p-value |
 | --- | --- | --- | --- | --- |
@@ -347,7 +371,6 @@ Table 12 Efficacy Results from BO18225
 
 FP + H: Fluoropyrimidine/cisplatin + Herceptin
 FP: Fluoropyrimidine/cisplatin a Odds ratio
-
 Patients were recruited to the trial who were previously untreated for HER2-positive inoperable locally advanced or recurrent and/or metastatic adenocarcinoma of the stomach or gastro-oesophageal junction not amenable to curative therapy.
 The primary endpoint was overall survival which was defined as the time from the date of randomization to the date of death from any cause.
 At the time of the analysis a total of 349 randomized patients had died: 182 patients (62.8 %) in the control arm and 167 patients (56.8 %) in the treatment arm.
@@ -365,13 +388,15 @@ Immunogenicity
 Human anti-trastuzumab antibodies were detected in one patient, who had no allergic manifestations.
 
 There are no immunogenicity data available for Herceptin in gastric cancer.
+
 Paediatric population
 
-The European Medicines Agency has waived the obligation to submit the results of studies with Herceptin in all subsets of the paediatric population in breast and gastric cancer (see section 4.2 for information on paediatric use.).
+The European Medicines Agency has waived the obligation to submit the results of studies with Herceptin in all subsets of the paediatric population in breast and gastric cancer (see section 4.2 for information on paediatric use).
 
-[Herceptin 600 mg/5 mL solution for injection]
+[Herceptin 600 mg solution for injection in vial]
 
 Herceptin subcutaneous formulation contains recombinant human hyaluronidase (rHuPH20), an enzyme used to increase the dispersion and absorption of co-administered drugs when administered subcutaneously.
+
 Overexpression of HER2 is observed in 20% - 30% of primary breast cancers.
 
 Table 2: Recommended scoring system to evaluate the IHC staining patterns
@@ -380,12 +405,13 @@ Intravenous formulation
 
 Weekly dosing in metatstatic breast cancer
 The efficacy results from the monotherapy and combination therapy studies are summarised in Table 3:
+
 Table 3: Efficacy results from the monotherapy and combination therapy studies
 
 The efficacy results from the non-comparative monotherapy and combination therapy studies are summarised in Table 4:
 Table 4: Efficacy results from the non-comparative monotherapy and combination therapy studies
 
-- Studies NCCTG N9831 and NSABP B-31 that comprise the joint analysis were designed to investigate the clinical utility of combining Herceptin treatment with paclitaxel following AC chemotherapy, additionally the NCCTG N9831 study also investigated adding Herceptin sequentially to AC→P chemotherapy in patients with HER2 positive EBC following surgery.
+- Studies NSABP B-31 and NCCTG N9831 that comprise the joint analysis were designed to investigate the clinical utility of combining Herceptin treatment with paclitaxel following AC chemotherapy, additionally the NCCTG N9831 study also investigated adding Herceptin sequentially to AC→P chemotherapy in patients with HER2 positive EBC following surgery.
 - Study BCIRG 006 study was designed to investigate combining Herceptin treatment with docetaxel either following AC chemotherapy or in combination with docetaxel and carboplatin in patients with HER2 positive EBC following surgery.
 
 Early breast cancer in the BO16348 Study was limited to operable, primary, invasive adenocarcinoma of the breast, with axillary nodes positive or axillary nodes negative if tumors at least 1 cm in diameter.
@@ -399,31 +425,36 @@ Table 5: Efficacy results from study BO16348
 *Co-primary endpoint of DFS of 1 year versus observation met the pre-defined statistical boundary
 **Final analysis (including crossover of 52 % of patients from the observation arm to Herceptin)
 
-The efficacy results from the joint analysis of the NCCTG 9831 and NSABP B-31 trials are summarized in Table 6.
+The efficacy results from the joint analysis of the NSABP B-31 and NCCTG 9831 trials at the time of the definitive analysis of DFS* are summarized in Table 6.
 
-Table 6: Efficacy results from the joint analysis of the NCCTG 9831 and NSABP B-31 trials
+Table 6: Summary of Efficacy results from the joint analysis studies NSABP B-31 and NCCTG N9831 at the time of the definitive DFS analysis*
 
 | Parameter | AC→P (n=1679) | AC→PH (n=1672) | Hazard Ratio vs AC→P (95 % CI) p-value |
 | --- | --- | --- | --- |
 | Disease-free survival No. patients with event (%) | 261 (15.5) | 133 (8.0) | 0.48 (0.39, 0.59) p<0.0001 |
 | Distant Recurrence No. patients with event | 193 (11.5) | 96 (5.7) | 0.47 (0.37, 0.60) p<0.0001 |
-| Death (OS event): No. patients with event | 92 (5.5) | 62 (3.7) | 0.67 (0.48, 0.92) p=0.014 |
+| Death (OS event): No. patients with event | 92 (5.5) | 62 (3.7) | 0.67 (0.48, 0.92) p=0.014** |
 
-The efficacy results from the BCIRG 006 are summarized in Tables 7 and 8.
+The pre-planned final analysis of OS from the joint analysis of studies NSABP B-31 and NCCTG N9831 was performed when 707 deaths had occurred (median follow-up 8.3 years in the AC→PH group).
 
-Table 7: Overview of efficacy analyses BCIRG 006 AC→D versus AC→DH
+The final OS results from the joint analysis of studies NSABP B-31 and NCCTG N9831 are summarized in Table 7:
 
-Table 8: Overview of efficacy analyses BCIRG 006 AC→D versus DCarbH
+Table 7: Final Overall Survival Analysis from the joint analysis of trials NSABP B-31 and NCCTG N9831
 
-In addition a post-hoc exploratory analysis was performed on the data sets from the joint analysis (JA) NSABP B-31/NCCTG N9831 and BCIRG006 clinical studies combining DFS events and symptomatic cardiac events and summarised in Table 9:
+The efficacy results from the BCIRG 006 are summarized in Tables 8 and 9.
+Table 8: Overview of efficacy analyses BCIRG 006 AC→D versus AC→DH
 
-Table 9: Post-hoc exploratory analysis results from the joint analysis NSABP B-31/NCCTG N9831 and BCIRG006 clinical studies combining DFS events and symptomatic cardiac events
+Table 9: Overview of efficacy analyses BCIRG 006 AC→D versus DCarbH
+
+In addition a post-hoc exploratory analysis was performed on the data sets from the joint analysis (JA) NSABP B-31/NCCTG N9831 and BCIRG006 clinical studies combining DFS events and symptomatic cardiac events and summarised in Table 10:
+
+Table 10: Post-hoc exploratory analysis results from the joint analysis NSABP B-31/NCCTG N9831* and BCIRG006 clinical studies combining DFS events and symptomatic cardiac events
 
 Early breast cancer – (neoadjuvant-adjuvant setting)
 
-The efficacy results from MO16432 are summarized in Table 10.
+The efficacy results from MO16432 are summarized in Table 11.
 
-Table 10: Efficacy results from MO16432
+Table 11: Efficacy results from MO16432
 
 | Parameter | Chemo + Herceptin (n=115) | Chemo only (n=116) |  |
 | --- | --- | --- | --- |
@@ -433,6 +464,7 @@ Table 10: Efficacy results from MO16432
 
 An absolute benefit of 13 percentage points in favour of the Herceptin arm was estimated in terms of 3-year event-free survival rate (65 % versus.
 52 %).
+
 Subcutaneous formulation
 
 Study BO22227 was conducted to demonstrate non-inferiority of Herceptin subcutaneous formulation versus Herceptin intravenous formulation based on co-primary PK and efficacy endpoints.
@@ -444,3 +476,9 @@ For the PK co-primary endpoint refer to section 5.2.
 For the comparative safety profile see section 4.8.
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Herceptin in all subsets of the paediatric population in breast cancer (see section 4.2 for information on paediatric use).
+
+[Herceptin 600 mg solution for injection in administration system]
+
+In addition a post-hoc exploratory analysis was performed on the data sets from the joint analysis (JA) NSABP B-31/NCCTG N9831 and BCIRG006 clinical trials combining DFS events and symptomatic cardiac events and summarised in Table 10:
+
+Table 10: Post-hoc exploratory analysis results from the joint analysis NSABP B-31/NCCTG N9831 and BCIRG006 clinical trials combining DFS events and symptomatic cardiac events

@@ -32,8 +32,12 @@ Herceptin in combination with capecitabine or 5-fluorouracil and cisplatin is in
 Herceptin should only be used in patients with metastatic gastric cancer (MGC) whose tumours have HER2 overexpression as defined by IHC2+ and a confirmatory SISH or FISH result, or by an IHC 3+ result.
 Accurate and validated assay methods should be used (see sections 4.4 and 5.1).
 
-[Herceptin 600 mg/5 mL solution for injection]
+[Herceptin 600 mg solution for injection in vial]
 
 Herceptin is indicated for the treatment of adult patients with HER2 positive metastatic breast cancer (MBC):
 
 Herceptin is indicated for the treatment of adult patients with HER2 positive early breast cancer (EBC).
+
+[Herceptin 600 mg solution for injection in administration system]
+
+(all sentences already above)

@@ -6,7 +6,7 @@ A study of trehalose, a major formulation excipient did not reveal any toxicitie
 
 No long-term animal studies have been performed to establish the carcinogenic potential of Herceptin, or to determine its effects on fertility in males.
 
-[Herceptin 600 mg/5 mL solution for injection]
+[Herceptin 600 mg solution for injection in vial]
 
 Intravenous formulation
 
@@ -19,3 +19,7 @@ Herceptin subcutaneous formulation was locally and systemically well tolerated.
 Hyaluronidase is found in most tissues of the human body.
 Non-clinical data for recombinant human hyaluronidase reveal no special hazard for humans based on conventional studies of repeated dose toxicity including safety pharmacology endpoints.
 Reproductive toxicology studies with rHuPH20 revealed embryofetal toxicity in mice at high systemic exposure, but did not show teratogenic potential.
+
+[Herceptin 600 mg solution for injection in administration system]
+
+(all sentences already above)

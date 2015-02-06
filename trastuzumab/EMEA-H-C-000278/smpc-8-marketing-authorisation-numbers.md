@@ -2,6 +2,10 @@
 
 EU/1/00/145/001
 
-[Herceptin 600 mg/5 mL solution for injection]
+[Herceptin 600 mg solution for injection in vial]
 
 EU/1/00/145/002
+
+[Herceptin 600 mg solution for injection in administration system]
+
+EU/1/00/145/003
