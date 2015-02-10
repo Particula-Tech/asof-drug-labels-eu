@@ -29,7 +29,6 @@ No dose adjustment of Tybost is required for patients with renal impairment, inc
 Cobicistat has not been studied in patients receiving dialysis, and, therefore, no recommendation can be made for these patients.
 
 Cobicistat has been shown to decrease estimated creatinine clearance due to inhibition of tubular secretion of creatinine.
-Cobicistat has not been studied in HIV-1 infected patients with baseline creatinine clearance below 70 ml/min.
 Tybost should not be initiated in patients with creatinine clearance less than 70 ml/min if any co-administered agent (e.g. emtricitabine, lamivudine, tenofovir disoproxil fumarate, or adefovir) requires dose adjustment based on creatinine clearance.
 See sections 4.4, 4.8 and 5.2.
 

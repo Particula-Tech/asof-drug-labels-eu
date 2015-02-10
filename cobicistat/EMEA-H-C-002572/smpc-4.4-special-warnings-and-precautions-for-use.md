@@ -2,7 +2,6 @@
 
 Co-administration with other medicinal products
 Cobicistat is a strong mechanism-based CYP3A inhibitor and is a CYP3A substrate.
-
 Increased plasma concentrations of medicinal products that are metabolised by CYP3A (including atazanavir and darunavir) are observed on co-administration with cobicistat.
 Higher plasma concentrations of co-administered medicinal products can result in increased or prolonged therapeutic effects or adverse reactions.
 For medicinal products metabolised by CYP3A these higher plasma concentrations may potentially lead to severe, life-threatening or fatal events (see section 4.3).
@@ -35,7 +34,6 @@ Tybost co-administered with atazanavir or darunavir should not be used in combin
 Dosing recommendations for such combinations have not been established and co-administration may result in decreased plasma concentrations of atazanavir, darunavir and/or the other antiretroviral agents that require pharmacoenhancement leading to loss of antiviral activity and development of resistance.
 
 Tybost should not be used concurrently with ritonavir due to similar effects of cobicistat and ritonavir on CYP3A.
-
 Tybost should not be used in combination with other medicinal products containing cobicistat (such as the fixed-dose combination tablet elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil).
 
 Effects on estimated creatinine clearance

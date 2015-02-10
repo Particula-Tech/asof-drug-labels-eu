@@ -8,6 +8,7 @@ Inhibition of CYP3A-mediated metabolism by cobicistat enhances the systemic expo
 
 The effect of cobicistat on atazanavir pharmacokinetics was demonstrated in the pharmacokinetic sub-study (n = 48) of the phase 3 study GS-US-216-0114 in which HIV-1 infected patients received atazanavir 300 mg + cobicistat 150 mg or atazanavir 300 mg + ritonavir 100 mg, both in combination with emtricitabine and tenofovir disoproxil fumarate fixed-dose combination.
 The steady-state pharmacokinetic parameters of atazanavir were comparable when boosted with cobicistat versus ritonavir (see Table 4).
+
 Table 4: Pharmacokinetic parameters [mean ± SD (%CV)] of atazanavir in the pharmacokinetic sub-study of phase 3 study GS-US-216-0114
 
 | Atazanavir pharmacokinetics parameters | Atazanavir + cobicistata (n = 22) | Atazanavir + ritonavira (n = 26) |
@@ -31,7 +32,6 @@ Table 5: Pharmacokinetic parameters [mean ± SD (%CV)] of darunavir 800 mg co-ad
 
 Antiviral activity in vitro
 Cobicistat has no detectable antiviral activity against HIV-1, HBV or HCV and does not antagonise the antiviral effect of HIV inhibitors.
-
 Clinical experience
 Antiviral efficacy data from randomised controlled studies is available for cobicistat-boosted atazanavir, but not for cobicistat-boosted darunavir (see sections 4.4 and 5.2).
 
@@ -46,7 +46,8 @@ Virologic response rate was evaluated in both treatment arms and virologic respo
 (< 50 HIV-1 RNA copies/ml).
 Viruses were known to be susceptible to atazanavir, emtricitabine and tenofovir disoproxil fumarate at baseline.
 
-Baseline characteristics and treatment outcomes through 48 weeks for study GS-US-216-0114 are presented in Tables 6 and 7 respectively.
+Baseline characteristics and treatment outcomes at weeks 48 and 144 for study GS-US-216-0114 are presented in Tables 6 and 7, respectively.
+
 Table 6: Demographic and baseline disease characteristics of antiretroviral treatment-naïve HIV-1 infected adult subjects in study GS-US-216-0114
 
 |  |  | Atazanavir + |
@@ -77,40 +78,56 @@ Table 6: Demographic and baseline disease characteristics of antiretroviral trea
 | ≤ 200 cells/mm3 |  |  |
 
 a Plus background regimen of emtricitabine 200 mg and tenofovir disoproxil fumarate 300 mg fixed-dose combination
+Table 7: Virologic outcome of randomised treatment of study GS-US-216-0114 at weeks 48 and
 
-Table 7: Virologic outcome of randomised treatment of study GS-US-216-0114 at week 48a
+|  | Week 48a |  | Week 144b |  |
+| --- | --- | --- | --- | --- |
+|  | Atazanavir + | Atazanavir + | Atazanavir + | Atazanavir + |
+|  | cobicistatf | ritonavirf | cobicistatf | ritonavirf |
+|  | (n = 344) | (n = 348) | (n = 344) | (n = 348) |
+| Virologic success |  |  |  |  |
+|  | 85% | 87% | 72% | 74% |
+| HIV-1 RNA < 50 copies/ml |  |  |  |  |
+| Treatment difference | -2.2% (95% CI = -7.4%, 3.0%) |  | -2.1% (95% CI = -8.7%, 4.5%) |  |
+| Virologic failurec | 6% | 4% | 8% | 5% |
+| No virologic data in week 48 |  |  |  |  |
+|  | 9% | 9% | 20% | 21% |
+| or 144 window |  |  |  |  |
+| Discontinued study drug due to |  |  |  |  |
+|  | 6% | 7% | 11% | 11% |
+| AE or deathd |  |  |  |  |
+| Discontinued study drug due to |  |  |  |  |
+| other reasons and last available | 3% | 2% | 8% | 10% |
+| HIV-1 RNA < 50 copies/mle |  |  |  |  |
+| Missing data during window but |  |  |  |  |
+|  | 0% | 0% | < 1% | < 1% |
+| on study drug |  |  |  |  |
 
-|  |  | Atazanavir + |
-| --- | --- | --- |
-|  | Atazanavir + cobicistate |  |
-|  |  | ritonavire |
-|  | (n = 344) |  |
-|  |  | (n = 348) |
-| Virologic success |  |  |
-|  | 85% | 87% |
-| HIV-1 RNA < 50 copies/ml |  |  |
-| Treatment difference | -2.2% (95% CI = -7.4%, 3.0%) |  |
-| Virologic failureb | 6% | 4% |
-| No virologic data in week 48 window | 9% | 9% |
-| Discontinued study drug due to AE or deathc | 6% | 7% |
-| Discontinued study drug due to other reasons and |  |  |
-|  | 3% | 2% |
-| last available HIV-1 RNA < 50 copies/mld |  |  |
-| Missing data during window but on study drug | 0% | 0% |
-
-a Week 48 window is between day 309 and 378 (inclusive) b Includes subjects who had ≥ 50 copies/ml in the week 48 window, subjects who discontinued early due to lack or loss of efficacy, subjects who discontinued for reasons other than an adverse event, death or lack or loss of efficacy and at the time of discontinuation had a viral value of ≥ 50 copies/ml.
-c Includes patients who discontinued due to adverse event (AE) or death at any time point from day 1 through the time window if this resulted in no virologic data on treatment during the specified window.
-d Includes subjects who discontinued for reasons other than an adverse event, death or lack or loss of efficacy, e.g., withdrew consent, loss to follow-up, etc.
-e Plus background regimen of emtricitabine 200 mg and tenofovir disoproxil fumarate 300 mg fixed-dose combination
+a Week 48 window is between day 309 and 378 (inclusive) b Week 144 window is between day 967 and 1,050 (inclusive) c Includes subjects who had ≥ 50 copies/ml in the week 48 or 144 windows; subjects who discontinued early due to lack or loss of efficacy; subjects who discontinued for reasons other than an adverse event, death or lack or loss of efficacy, and at the time of discontinuation had a viral value of ≥ 50 copies/ml.
+d Includes patients who discontinued due to adverse event (AE) or death at any time point from day 1 through the time window if this resulted in no virologic data on treatment during the specified window.
+e Includes subjects who discontinued for reasons other than an adverse event, death, or lack or loss of efficacy, e.g., withdrew consent, loss to follow-up.
+f Plus background regimen of emtricitabine 200 mg and tenofovir disoproxil fumarate 300 mg fixed-dose combination
 
 Atazanavir + cobicistat + emtricitabine and tenofovir disoproxil fumarate fixed-dose combination was non-inferior in achieving HIV-1 RNA < 50 copies/ml when compared to atazanavir + ritonavir
 + emtricitabine and tenofovir disoproxil fumarate fixed-dose combination.
-In study GS-US-216-0114, the mean increase from baseline in CD4+ cell count at week 48 was 213 cells/mm3 in patients receiving cobicistat-boosted atazanavir and 219 cells/mm3 in patients receiving ritonavir-boosted atazanavir.
 
-In an analysis of treatment-failure subjects in study GS-US-216-0114 through week 48, evaluable genotypic data from paired baseline and treatment-failure isolates were available for 11 of the 12 virologic failures in the cobicistat group.
-Among the 11 patients, 2 developed the emtricitabine-associated resistance substitution M184V.
-No subject developed the tenofovir-associated resistance substitution K65R or any primary resistance substitution associated with protease inhibitors.
-In the ritonavir group, genotypic data is available for all 12 virologic failures and no subject had emergent resistance to any component of the regimen.
+Changes in CD4+ cell counts through 48 and 144 weeks in study GS-US-216-0114 are presented in Table 8.
+
+Table 8: Changes in CD4+ cell counts through weeks 48 and 144 in study GS-US-216-0114
+
+|  | Week 48 |  | Week 144 |  |
+| --- | --- | --- | --- | --- |
+|  | Atazanavir + cobicistata (n = 344) | Atazanavir + ritonavira (n = 348) | Atazanavir + cobicistata (n = 344) | Atazanavir + ritonavira (n = 348) |
+| Mean increase from baseline in CD4+ T-cell count (cells/mm3)b | 213 | 219 | 310 | 332 |
+
+a Plus background regimen of emtricitabine 200 mg and tenofovir disoproxil fumarate 300 mg fixed-dose combination b Missing = excluded analysis
+
+In an analysis of treatment-failure subjects in study GS-US-216-0114 through week 144, evaluable genotypic data from paired baseline and treatment-failure isolates were available for all 21 virologic failures in the cobicistat group.
+Among the 21 patients, 3 developed the emtricitabine-associated resistance substitution M184V.
+No subject developed the tenofovir-associated resistance substitutions K65R or K70E, or any primary resistance substitution associated with protease inhibitors.
+In the ritonavir group, genotypic data was available for all 19 virologic failures.
+Among the 19 patients,
+1 developed the emtricitabine-associated resistance substitution M184V with no tenofovir- or primary protease inhibitor-associated resistance substitutions.
 
 Paediatric population
 The European Medicines Agency has deferred the obligation to submit the results of studies with cobicistat in one or more subsets of the paediatric population in treatment of HIV-1 infection (see section 4.2 for information on paediatric use).

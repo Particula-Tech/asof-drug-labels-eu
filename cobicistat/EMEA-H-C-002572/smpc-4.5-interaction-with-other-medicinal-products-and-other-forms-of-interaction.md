@@ -15,6 +15,7 @@ Cobicistat is not expected to induce CYP3A4 or P-gp (MDR1).
 
 Unlike ritonavir, cobicistat is not an inducer of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19 or UGT1A1.
 If switching pharmacoenhancer from ritonavir to cobicistat, caution is required during the first two weeks of treatment with Tybost, particularly if doses of any concomitantly administered medicinal products have been titrated or adjusted during use of ritonavir as a pharmacoenhancer (see section 4.4).
+
 Concomitant use contraindicated
 Medicinal products that are extensively metabolised by CYP3A and have high first pass metabolism appear to be the most susceptible to large increases in exposure when co-administered with cobicistat.
 Co-administration of Tybost with medicinal products such as dihydroergotamine, ergotamine, ergometrine, orally administered midazolam, triazolam, amiodarone, quinidine, cisapride, pimozide, alfuzosin, simvastatin, lovastatin, and sildenafil which are highly dependent on CYP3A for clearance and for which elevated plasma concentrations are associated with serious and/or life-threatening events is contraindicated (see section 4.3).
@@ -24,7 +25,7 @@ St. John’s wort (Hypericum perforatum), rifampicin, carbamazepine, phenobarbit
 
 Concomitant use not recommended
 Co-administration of Tybost with medicinal products that are moderate to weak inducers of CYP3A may result in decreased plasma concentration of cobicistat and consequently that of atazanavir or darunavir being boosted, leading to loss of therapeutic effect and possible development of resistance.
-Some examples include, but are not limited to, etravirine, efavirenz, nevirapine, boceprevir, telaprevir, fluticasone, and bosentan (see Table 2).
+Some examples include, but are not limited to, etravirine, efavirenz, nevirapine, boceprevir, fluticasone, and bosentan (see Table 2).
 
 Co-administration of Tybost with medicinal products that inhibit CYP3A may result in increased plasma concentration of cobicistat.
 Some examples include, but are not limited to, itraconazole, ketoconazole, and voriconazole (see Table 2).
@@ -57,7 +58,8 @@ Table 2: Interactions between cobicistat and other medicinal products
 | Ketoconazole | Interaction not studied. Concentrations of ketoconazole and/or cobicistat may increase with co-administration of cobicistat. | When administering ketoconazole with Tybost, the maximum daily dose of ketoconazole should not exceed 200 mg per day. Caution is warranted and clinical monitoring is recommended during co-administration. |
 | Itraconazole Voriconazole Posaconazole Fluconazole | Concentrations of itraconazole, fluconazole and posaconazole may be increased when co-administered with cobicistat. Concentrations of voriconazole may increase or decrease when co-administered with cobicistat. | Clinical monitoring is recommended upon co-administration with Tybost. When administering with Tybost, the maximum daily dose of itraconazole should not exceed 200 mg per day. Voriconazole should not be used unless the possible benefit is considered to outweigh the risks associated with the unpredictable effect on plasma concentrations. |
 | HCV protease inhibitors |  |  |
-| Boceprevir Telaprevir | Interaction not studied. | Atazanavir, darunavir, boceprevir or telaprevir plasma concentrations may decrease upon co-administration. Co-administration with Tybost is not recommended. |
+| Telaprevir (750 mg three times daily)/ Elvitegravir (150 mg once daily)/Cobicistat (150 mg once daily)1 | Telaprevir: AUC: ↔ Cmax: ↔ Cmin: ↔ Cobicistat: AUC: ↔ Cmax: ↔ Cmin: ↑ 232% | No dose adjustment is required when Tybost is co-administered with telaprevir. |
+| Boceprevir | Interaction not studied. | Atazanavir, darunavir or boceprevir plasma concentrations may decrease upon co-administration. Co-administration with Tybost is not recommended. |
 | Antimycobacterials |  |  |
 | Rifabutin (150 mg every other day)/Elvitegravir (150 mg once daily)/Cobicistat (150 mg once daily) | Co-administration of rifabutin, a potent CYP3A inducer, may significantly decrease cobicistat plasma concentrations. Cobicistat: AUC: ↔ Cmax: ↔ Cmin: ↓ 66% Rifabutin: AUC: ↔ Cmax: ↔ Cmin: ↔ 25-O-desacetyl-rifabutin: AUC: ↑ 525% Cmax: ↑ 384% Cmin: ↑ 394% | Co-administration of Tybost and rifabutin is not recommended. If the combination is needed, the recommended dose of rifabutin is 150 mg 3 times per week on set days (for example Monday-Wednesday-Friday). Increased monitoring for rifabutin-associated adverse reactions including neutropenia and uveitis is warranted due to an expected increase in exposure to desacetyl-rifabutin. Further dose reduction of rifabutin has not been studied. It should be kept in mind that a twice weekly dose of 150 mg may not provide an optimal exposure to rifabutin thus leading to a risk of rifabutin resistance and a treatment failure. |
 | Macrolide antibiotics |  |  |
@@ -70,8 +72,8 @@ Table 2: Interactions between cobicistat and other medicinal products
 | ORAL ANTI-DIABETICS |  |  |
 | Metformin | Interaction not studied. Cobicistat reversibly inhibits MATE1, and concentrations of metformin may be increased when co-administered with cobicistat. | Careful patient monitoring and dose adjustment of metformin is recommended in patients who are taking Tybost. |
 | NARCOTIC ANALGESICS |  |  |
-| Methadone | Methadone: AUC: ↔ Cmin: ↔ Cmax: ↔ | No dose adjustment of methadone is required. |
-| Buprenorphine/Naloxone | Buprenorphine: AUC: ↑ 35% Cmin: ↑ 66% Cmax: ↑ 12% Naloxone: AUC: ↓ 28% Cmax: ↓ 28% | No dose adjustment of Tybost is required. |
+| Methadone | Methadone: AUC: ↔ Cmax: ↔ Cmin: ↔ | No dose adjustment of methadone is required. |
+| Buprenorphine/Naloxone | Buprenorphine: AUC: ↑ 35% Cmax: ↑ 12% Cmin: ↑ 66% Naloxone: AUC: ↓ 28% Cmax: ↓ 28% | No dose adjustment of Tybost is required. |
 | ORAL CONTRACEPTIVES |  |  |
 | Norgestimate/Ethinyl-estradiol | Interaction not studied. Concentrations of contraceptive components may be affected on co-administration with cobicistat. | No data are available to make recommendations on the use of atazanavir/cobicistat or darunavir/cobicistat with combined or progestagen-only oral or implanted contraceptives. Alternative forms of contraception should be used. |
 | ANTIARRHYTHMICS |  |  |
@@ -89,8 +91,8 @@ Table 2: Interactions between cobicistat and other medicinal products
 | INHALED BETA AGONISTS |  |  |
 | Salmeterol | Interaction not studied. Co-administration of salmeterol with cobicistat may result in increased plasma concentrations of salmeterol. | Increased plasma concentrations of salmeterol are associated with the potential for serious and/or life-threatening reactions. Co-administration of salmeterol and Tybost is not recommended (see section 4.4). |
 | HMG Co-A REDUCTASE INHIBITORS |  |  |
-| Atorvastatin Fluvastatin Pitavastatin Pravastatin | Interaction not studied. Plasma concentrations of HMG Co-A reductase inhibitors may be increased when co-administered with cobicistat. | Plasma concentrations of atorvastatin, pitavastatin, fluvastatin, pravastatin or rosuvastatin are expected to increase when co-administered with atazanavir/cobicistat or darunavir/cobicistat. |
-| Rosuvastatin (10 mg single dose)/Elvitegravir (150 mg once daily)/Cobicistat (150 mg once daily) | Rosuvastatin: AUC: ↑ 38% Cmax: ↑ 89% Cmin: ↑ 43% Cobicistat: AUC: ↔ Cmax: ↔ Cmin: ↔ | Co-administration of atorvastatin with Tybost is not recommended. If the use of atorvastatin is considered strictly necessary, the lowest possible dose of atorvastatin should be administered with careful monitoring. Caution should be exercised when co-administering Tybost with pitavastatin. Consult the Summary of Product Characteristics of atazanavir or darunavir for further information on use in combination with these medicinal products. |
+| Atorvastatin Fluvastatin Pitavastatin Pravastatin | Interaction not studied. Plasma concentrations of HMG Co-A reductase inhibitors may be increased when co-administered with cobicistat. | Plasma concentrations of atorvastatin, pitavastatin, fluvastatin, pravastatin or rosuvastatin are expected to increase when co-administered with atazanavir/cobicistat or darunavir/cobicistat. Co-administration of atorvastatin with Tybost is not recommended. If the use of atorvastatin is considered strictly necessary, the lowest possible dose of atorvastatin should be administered with careful monitoring. Caution should be exercised when co-administering Tybost with pitavastatin. Consult the Summary of Product Characteristics of atazanavir or darunavir for further information on use in combination with these medicinal products. |
+| Rosuvastatin (10 mg single dose)/Elvitegravir (150 mg once daily)/Cobicistat (150 mg once daily) | Rosuvastatin: AUC: ↑ 38% Cmax: ↑ 89% Cmin: ↑ 43% Cobicistat: AUC: ↔ Cmax: ↔ Cmin: ↔ |  |
 | PHOSPHODIESTERASE TYPE-5 (PDE-5) INHIBITORS |  |  |
 | Sildenafil Tadalafil Vardenafil | Interaction not studied. PDE-5 inhibitors are primarily metabolised by CYP3A. Co-administration with cobicistat may result in increased sildenafil, tadalafil and vardenafil plasma concentrations, which may result in PDE-5 inhibitor-associated adverse reactions. | Co-administration of Tybost with sildenafil for the treatment of pulmonary arterial hypertension is contraindicated (see section 4.3). Caution should be exercised, including consideration of dose reduction, when co-administering Tybost with tadalafil for the treatment of pulmonary arterial hypertension. For the treatment of erectile dysfunction, it is recommended that a single dose of sildenafil no more than 25 mg in 48 hours, vardenafil no more than 2.5 mg in 72 hours, or tadalafil no more than 10 mg in 72 hours be co-administered with Tybost. |
 | ANTIDEPRESSANTS |  |  |
@@ -105,4 +107,5 @@ Table 2: Interactions between cobicistat and other medicinal products
 | ANTI-GOUT |  |  |
 | Colchicine | Interaction not studied. Colchicine plasma concentrations may be increased when co-administered with cobicistat. | Dose reductions of colchicine may be required. Tybost should not be co-administered with colchicine to patients with renal or hepatic impairment. |
 
+1 This study was conducted using the fixed-dose combination tablet elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil.
 ND = not determined

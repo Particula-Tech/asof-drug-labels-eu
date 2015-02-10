@@ -31,6 +31,7 @@ No clinically relevant pharmacokinetic differences due to gender have been ident
 
 Ethnicity
 No clinically relevant pharmacokinetic differences due to ethnicity have been identified for cobicistat.
+
 Paediatric population
 The pharmacokinetics of cobicistat in paediatric subjects have not been established.
 
