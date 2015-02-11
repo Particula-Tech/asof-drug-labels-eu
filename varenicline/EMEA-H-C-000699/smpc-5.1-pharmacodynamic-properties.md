@@ -20,6 +20,7 @@ Two thousand six hundred nineteen (2619) patients received CHAMPIX 1 mg BID (tit
 Comparative clinical studies
 Two identical double-blind clinical trials prospectively compared the efficacy of CHAMPIX (1 mg twice daily), sustained release bupropion (150 mg twice daily) and placebo in smoking cessation.
 In these 52-week duration studies, patients received treatment for 12 weeks, followed by a 40-week non-treatment phase.
+
 The primary endpoint of the two studies was the carbon monoxide (CO) confirmed, 4-week continuous quit rate (4W-CQR) from week 9 through week 12.
 The primary endpoint for CHAMPIX demonstrated statistical superiority to bupropion and placebo.
 
@@ -50,21 +51,20 @@ Patients who stopped smoking by Week 12 were then randomised to receive either C
 The primary study endpoint was the CO-confirmed continuous abstinence rate from week 13 through week 24 in the double-blind treatment phase.
 A key secondary endpoint was the continuous abstinence (CA) rate for week 13 through week 52.
 
-This study showed the benefit of an additional 12-week treatment with CHAMPIX 1 mg twice daily for the maintenance of smoking cessation compared to placebo.
-The odds of maintaining abstinence at week 24, following an additional 12 weeks of treatment with CHAMPIX, were 2.47 times those for placebo (p < 0.0001).
-Superiority to placebo for CA was maintained through week 52 (Odds Ratio=1.35, p=0.0126).
+This study showed the benefit of an additional 12-week treatment with CHAMPIX 1 mg twice daily for the maintenance of smoking cessation compared to placebo; superiority to placebo for CA was maintained through week 52.The key results are summarised in the following table:
 
-The key results are summarised in the following table:
+Continuous Abstinence Rates in Subjects Treated with Champix versus Placebo
 
 CHAMPIX Placebo Difference Odds ratio
 n=602 n=604 (95% CI) (95% CI)
-CA wk 13-24 70.6% 49.8% 20.8% 2.47
+CA* wk 13-24 70.6% 49.8% 20.8% 2.47
 
 (15.4%, 26.2%) (1.95, 3.15)
 
-CA wk 13-52 44.0% 37.1% 6.9% 1.35
+CA* wk 13-52 44.0% 37.1% 6.9% 1.35
 
 (1.4%,12.5%) (1.07, 1.70)
+*CA: Continuous Abstinence Rate
 
 There is currently limited clinical experience with the use of CHAMPIX among black people to determine clinical efficacy.
 
@@ -80,20 +80,43 @@ CHAMPIX was evaluated in a double-blind, placebo-controlled trial of 494 patient
 Subjects who experienced an adverse event of a concern during previous treatment were excluded.
 Subjects were randomised 1:1 to CHAMPIX 1 mg twice daily (N=249) or placebo (N=245) for 12 weeks of treatment and followed for up to 40 weeks post-treatment.
 Patients included in this study had taken CHAMPIX for a smoking-cessation attempt in the past (for a total treatment duration of a minimum of two weeks), at least three months prior to study entry, and had been smoking for at least four weeks.
-
-Patients treated with CHAMPIX had a superior rate of CO-confirmed abstinence during weeks 9 through 12 (45.0%) compared to patients treated with placebo (11.8%) (odds ratio 7.08; 95% CI 4.34, 11.55; p<0.0001) and from weeks 9 through 52 (20.1%) compared to subjects treated with placebo (3.3%) (odds ratio 9.00; 95% CI 3.97, 20.41; p<0.0001) .
-
+Patients treated with CHAMPIX had a superior rate of CO-confirmed abstinence during weeks 9 through 12 and from weeks 9 through 52 compared to subjects treated with placebo.
 The key results are summarised in the following table:
+
+Continuous Abstinence Rates in Subjects Treated with Champix versus Placebo
 
 CHAMPIX Placebo Odds ratio (95% CI),
 n=249 n=245 p value
-CA wk 9-12 45.0% 11.8% 7.08 (4.34, 11.55)
+CA* wk 9-12 45.0% 11.8% 7.08 (4.34, 11.55)
 
 p<0.0001
 
-CA wk 9-52 20.1% 3.3% 9.00 (3.97, 20.41)
+CA* wk 9-52 20.1% 3.3% 9.00 (3.97, 20.41)
 
 p<0.0001
+*CA: Continuous Abstinence Rate
+
+Gradual approach to quitting smoking
+CHAMPIX was evaluated in a 52-week double-blind placebo-controlled study of 1,510 subjects who were not able or willing to quit smoking within four weeks, but were willing to gradually reduce their smoking over a 12 week period before quitting.
+Subjects were randomised to either CHAMPIX 1 mg twice daily (n=760) or placebo (n=750) for 24 weeks and followed up post-treatment through week 52.
+Subjects were instructed to reduce the number of cigarettes smoked by at least 50 percent by the end of the first four weeks of treatment, followed by a further 50 percent reduction from week four to week eight of treatment, with the goal of reaching complete abstinence by 12 weeks.
+After the initial 12-week reduction phase, subjects continued treatment for another 12 weeks.
+Subjects treated with CHAMPIX had a significantly higher Continuous Abstinence Rate compared with placebo; the key results are summarised in the following table:
+
+Continuous Abstinence Rates in Subjects Treated with Champix versus Placebo
+
+CHAMPIX Placebo Odds ratio (95% CI),
+n=760 n=750 p value
+CA* wk 15-24 32.1% 6.9% 8.74 (6.09, 12.53)
+
+p<0.0001
+
+CA* wk 21-52 27.0% 9.9% 4.02 (2.94, 5.50)
+
+p<0.0001
+*CA: Continuous Abstinence Rate
+
+The CHAMPIX safety profile in this study was consistent with that of premarketing studies.
 
 Subjects with cardiovascular disease
 CHAMPIX was evaluated in a randomised, double-blind, placebo-controlled study of subjects with stable, cardiovascular disease (other than, or in addition to, hypertension) that had been diagnosed for more than 2 months.
@@ -158,6 +181,8 @@ The limited data available from this single smoking cessation study are not suff
 Two identical double-blind clinical trials prospectively compared the efficacy of CHAMPIX
 (1 mg twice daily), sustained release bupropion (150 mg twice daily) and placebo in smoking cessation.
 
+This study showed the benefit of an additional 12-week treatment with CHAMPIX 1 mg twice daily for the maintenance of smoking cessation compared to placebo; superiority to placebo for CA was maintained through week 52.
+
 The 4 week (week 9-12) CQR for varenicline and placebo was 53.9% and 19.4%, respectively (difference=34.5, 95% CI:
 
 The following adjudicated events occurred with a frequency ≥ 1% in either treatment group during treatment
@@ -171,5 +196,7 @@ The efficacy of varenicline was confirmed in a randomised placebo-controlled tri
 Among reported neuropsychiatric adverse events, insomnia was the only event reported in either treatment group in ≥ 5% of subjects at a rate higher in the varenicline group than in placebo (9.5% vs. 4.7%).
 
 [CHAMPIX 0.5 mg film-coated tablets (SmPC 3)]
+
+*CA: Continuous Abstinence
 
 During the active treatment period, the incidence of suicide-related events was similar between the varenicline-treated and the placebo-treated subjects (11 vs. 9.3 %, respectively).

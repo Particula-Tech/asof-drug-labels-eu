@@ -10,13 +10,17 @@ The recommended dose is 1 mg varenicline twice daily following a 1-week titratio
 
 The patient should set a date to stop smoking.
 CHAMPIX dosing should usually start at 1-2 weeks before this date (see section 5.1).
+Patients should be treated with CHAMPIX for 12 weeks.
+
+For patients who have successfully stopped smoking at the end of 12 weeks, an additional course of 12 weeks treatment with CHAMPIX at 1 mg twice daily may be considered for the maintenance of abstinence (see section 5.1).
+
+A gradual approach to quitting smoking with CHAMPIX should be considered for patients who are not able or willing to quit abruptly.
+Patients should reduce smoking during the first 12 weeks of treatment and quit by the end of that treatment period.
+Patients should then continue taking CHAMPIX for an additional 12 weeks for a total of 24 weeks of treatment (see section 5.1).
+Patients who are motivated to quit and who did not succeed in stopping smoking during prior CHAMPIX therapy, or who relapsed after treatment, may benefit from another quit attempt with CHAMPIX (see section 5.1).
 
 Patients who cannot tolerate adverse reactions of CHAMPIX may have the dose lowered temporarily or permanently to 0.5 mg twice daily.
 
-Patients should be treated with CHAMPIX for 12 weeks.
-For patients who have successfully stopped smoking at the end of 12 weeks, an additional course of 12 weeks treatment with CHAMPIX at 1 mg twice daily may be considered (see section 5.1).
-
-Patients who are motivated to quit and who did not succeed in stopping smoking during prior CHAMPIX therapy, or who relapsed after treatment, may benefit from another quit attempt with CHAMPIX (see section 5.1).
 Smoking cessation therapies are more likely to succeed for patients who are motivated to stop smoking and who are provided with additional advice and support.
 
 In smoking cessation therapy, risk for relapse to smoking is elevated in the period immediately following the end of treatment.
@@ -50,8 +54,6 @@ CHAMPIX can be taken with or without food
 [CHAMPIX 1 mg film-coated tablets]
 
 CHAMPIX dosing should usually start 1-2 weeks before this date (see section 5.1).
-
-Patients who are motivated to quit and who did not succeed in stopping smoking during prior CHAMPIX therapy, or who relapsed after treatment, may benefit from another attempt with CHAMPIX (see section 5.1).
 
 [CHAMPIX 0.5 mg film-coated tablets (SmPC 3)]
 

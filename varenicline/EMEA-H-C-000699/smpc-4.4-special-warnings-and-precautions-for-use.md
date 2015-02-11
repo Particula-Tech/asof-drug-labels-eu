@@ -38,7 +38,7 @@ There were rare reports of life-threatening angioedema requiring urgent medical 
 Patients experiencing these symptoms should discontinue treatment with varenicline and contact a health care provider immediately.
 
 Cutaneous reactions
-There have also been post-marketing reports of rare but severe cutaneous reactions, including Stevens-Johnson Syndrome and Erythema Multiforme in patients using varenicline.
+There have also been post-marketing reports of rare but severe cutaneous reactions, including Stevens-Stevens-Johnson Syndrome and Erythema Multiforme in patients using varenicline.
 As these skin reactions can be life threatening, patients should discontinue treatment at the first sign of rash or skin reaction and contact a healthcare provider immediately.
 
 [CHAMPIX 1 mg film-coated tablets]
@@ -46,6 +46,8 @@ As these skin reactions can be life threatening, patients should discontinue tre
 In many post-marketing cases, resolution of symptoms after discontinuation of varenicline was reported, although in some cases the symptoms persisted; therefore, ongoing follow up should be provided until symptoms resolve.
 
 In addition, smoking cessation, with or without pharmacotherapy, has been associated with the exacerbation of underlying psychiatric illness (e.g. depression).
+
+There have also been post-marketing reports of rare but severe cutaneous reactions, including Stevens-Johnson Syndrome and Erythema Multiforme in patients using varenicline.
 
 [CHAMPIX 0.5 mg film-coated tablets (SmPC 3)]
 

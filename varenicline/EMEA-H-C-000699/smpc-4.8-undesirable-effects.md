@@ -16,30 +16,35 @@ In this group, the discontinuation rates for the most common adverse reactions i
 
 Tabulated summary of adverse reactions
 In the table below all adverse reactions, which occurred at an incidence greater than placebo are listed by system organ class and frequency (very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100) and rare (≥ 1/10,000 to < 1/1,000)).
+Adverse drug reactions listed in the table below are based on evaluation of data from pre-marketing phase 2-3 studies and updated based on pooled data from 18 placebo-controlled pre- and post-marketing studies, including approximately 5,000 patients treated with varenicline.
 Reported postmarketing adverse reactions are also included for which frequency is not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
-
 System Organ Adverse Drug Reactions
 Class
 Infections and infestations
+Very common Nasopharyngitis
 
-Uncommon Bronchitis, nasopharyngitis, sinusitis, fungal infection, viral infection
+Common Bronchitis, sinusitis
+Uncommon Fungal infection, viral infection
+
+Blood and lymphatic system disorders
+
+Rare Platelet count decreased
 
 Metabolism and nutrition disorders
 
-Common Increased appetite
-Uncommon Anorexia, decreased appetite, polydipsia
-Not Known Hyperglycaemia, diabetes mellitus
+Common Weight increased, decreased appetite, increased appetite
+Rare Polydipsia
+Not Known Diabetes mellitus, hyperglycaemia
 
 Psychiatric disorders
 Very common Abnormal dreams, insomnia
-System Organ Adverse Drug Reactions
-Class
 
-Uncommon Panic reaction, dysphoria, bradyphrenia, thinking abnormal, restlessness,
+Uncommon Panic reaction, thinking abnormal, restlessness, mood swings,
 
-mood swings, depression*, anxiety*, hallucinations*, libido increased, libido decreased
+depression*, anxiety*, hallucinations*, libido increased, libido decreased
 
+Rare Dysphoria, bradyphrenia
 Not Known Suicidal ideation, psychosis, aggression, abnormal behaviour,
 
 somnambulism
@@ -47,79 +52,105 @@ Nervous system disorders
 Very common Headache
 
 Common Somnolence, dizziness, dysgeusia
-Uncommon Seizure, hypertonia, dysarthria, tremor, coordination abnormal, lethargy,
+Uncommon Seizure, tremor, lethargy, hypoaesthesia
+Rare Cerebrovascular accident, hypertonia, dysarthria, coordination abnormal,
 
-hypoaesthesia, hypogeusia
-
-Rare Cerebrovascular accident
-
+hypogeusia, circadian rhythm sleep disorder
 Eye disorders
 
-Uncommon Scotoma, scleral discolouration, eye pain, mydriasis, photophobia,
+Uncommon Conjunctivitis, eye pain
+Rare Scotoma, scleral discolouration, mydriasis, photophobia, myopia,
 
-myopia, lacrimation increased
+lacrimation increased
 Ear and labyrinth disorders
 
 Uncommon Tinnitus
 
 Cardiac disorders
 
-Uncommon Atrial fibrillation, palpitations, electrocardiogram ST segment
+Uncommon Angina pectoris, tachycardia, palpitations, heart rate increased
+Rare Atrial fibrillation, electrocardiogram ST segment depression,
 
-depression, electrocardiogram T wave amplitude decreased, heart rate increased
+electrocardiogram T wave amplitude decreased
 
 Not Known Myocardial infarction
 
 Vascular disorders
 
-Uncommon Blood pressure increased
+Uncommon Blood pressure increased, hot flush
 
 Respiratory, thoracic and mediastinal disorders
 
-Uncommon Dyspnoea, cough, respiratory tract congestion, hoarseness,
+Common Dyspnoea, cough
+Uncommon Upper respiratory tract inflammation, respiratory tract congestion,
 
-pharyngolaryngeal pain, throat irritation, sinus congestion, post nasal drip, rhinorrhoea, snoring
+dysphonia, rhinitis allergic, throat irritation, sinus congestion, upper-airway cough syndrome, rhinorrhoea
+
+Rare Laryngeal pain, snoring
+
 Gastrointestinal disorders
 Very common Nausea
 
-Common Vomiting, constipation, diarrhoea, abdominal distension, stomach
+Common Gastrooesophageal reflux disease, vomiting, constipation, diarrhoea,
 
-discomfort, dyspepsia, flatulence, dry mouth
+abdominal distension, abdominal pain, toothache, dyspepsia, flatulence, dry mouth
 
-Uncommon Haematemesis, haematochezia, gastritis, gastrooesophageal reflux
+Uncommon Haematochezia, gastritis, change of bowel habit, eructation, aphthous
 
-disease, abdominal pain, change of bowel habit, abnormal faeces, eructation, aphthous stomatitis, gingival pain, tongue coated
+stomatitis, gingival pain
+
+Rare Haematemesis, abnormal faeces, tongue coated
+
 Skin and subcutaneous tissue disorders
 
-Uncommon Rash generalised, erythema, pruritus, acne, hyperhidrosis, night sweats
+Common Rash, pruritus
+Uncommon Erythema, acne, hyperhidrosis, night sweats
+
+System Organ Adverse Drug Reactions
+Class
+
 Not Known Severe cutaneous reactions, including Stevens Johnson Syndrome and
 
 Erythema Multiforme, angioedema
 Musculoskeletal and connective tissue disorders
 
-Uncommon Joint stiffness, muscle spasms, chest wall pain, costochondritis
+Common Arthralgia, myalgia, back pain
+Uncommon Muscle spasms, musculoskeletal chest pain
+Rare Joint stiffness, costochondritis
 
 Renal and urinary disorders
 
-Uncommon Glycosuria, nocturia, polyuria
+Uncommon Pollakiuria, nocturia
+Rare Glycosuria, polyuria
 
 Reproductive system and breast disorders
 
-Uncommon Menorrhagia, vaginal discharge, sexual dysfunction
+Uncommon Menorrhagia
+Rare Vaginal discharge, sexual dysfunction
 
 General disorders and administration site conditions
 
-Common Fatigue
-Uncommon Chest discomfort, chest pain, pyrexia, feeling cold, asthenia, circadian
+Common Chest pain, fatigue
+Uncommon Chest discomfort, influenza like illness, pyrexia, asthenia, malaise
+Rare Feeling cold, cyst
 
-rhythm sleep disorder, malaise, cyst
 Investigations
 
-Uncommon Liver function test abnormal, platelet count decreased, semen abnormal,
+Common Liver function test abnormal
+Rare Semen analysis abnormal, C-reactive protein increased, blood calcium
 
-C-reactive protein increased, blood calcium decreased, weight increased
-* frequencies are estimated from a post-marketing, observational cohort study
+decreased
+* Frequencies are estimated from a post-marketing, observational cohort study
+
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+[CHAMPIX 1 mg film-coated tablets]
+
+(all sentences already above)
+
+[CHAMPIX 0.5 mg film-coated tablets (SmPC 3)]
+
+.

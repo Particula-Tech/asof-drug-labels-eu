@@ -23,10 +23,10 @@ In vitro studies demonstrate that varenicline does not inhibit cytochrome P450 e
 The P450 enzymes tested for inhibition were: 1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1, and 3A4/5.
 Also, in human hepatocytes in vitro, varenicline was shown to not induce the activity of cytochrome P450 enzymes 1A2 and 3A4.
 Therefore, varenicline is unlikely to alter the pharmacokinetics of compounds that are primarily metabolised by cytochrome P450 enzymes.
-
 Elimination
 The elimination half-life of varenicline is approximately 24 hours.
 Renal elimination of varenicline is primarily through glomerular filtration along with active tubular secretion via the organic cationic transporter, OCT2 (see section 4.5).
+
 Linearity/Non linearity
 Varenicline exhibits linear kinetics when given as single (0.1 to 3 mg) or repeated 1 to 3 mg/day doses.
 
