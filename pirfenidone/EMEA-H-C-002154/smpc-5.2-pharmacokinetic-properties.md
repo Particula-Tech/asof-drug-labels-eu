@@ -19,7 +19,6 @@ Biotransformation
 
 Approximately 70–80% of pirfenidone is metabolised via CYP1A2 with minor contributions from other CYP isoenzymes including CYP2C9, 2C19, 2D6, and 2E1.
 In vitro and in vivo studies to date have not detected any activity of the major metabolite (5-carboxy-pirfenidone), even at concentrations or doses greatly above those associated with activity of pirfenidone itself.
-
 Elimination
 
 The oral clearance of pirfenidone appears modestly saturable.

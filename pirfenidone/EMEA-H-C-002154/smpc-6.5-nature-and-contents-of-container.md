@@ -3,13 +3,11 @@
 Pack sizes
 
 2-week treatment initiation pack
-1 x PVC/PE/PCTFE aluminium foil blister card containing 21 capsules, packaged together with 1 x PVC/PE/PCTFE aluminium foil blister card containing 42 capsules, for a total of 63 capsules per pack.
-
-1-week treatment maintenance pack
-1 x PVC/PE/PCTFE aluminium foil blister card containing 63 capsules.
+7 x PVC/PE/PCTFE aluminium foil blister strips, each containing 3 capsules (for the Week 1 dosing), packaged together with 7 x PVC/PE/PCTFE aluminium foil blister strips, each containing 6 capsules (for the Week 2 dosing), for a total of 63 capsules per pack.
 
 4-week treatment maintenance pack
-4 x 1-week treatment packs of PVC/PE/PCTFE aluminium foil blister cards each containing 63 capsules for a total of 252 capsules per pack.
+14 x PVC/PE/PCTFE aluminium foil blister strips each containing 18 capsules (2-day supply).
+There are 14 x 18 capsules in PVC/PE/PCTFE aluminium foil perforated blister strips for a total of 252 capsules per pack.
 
 250 ml white HDPE bottle with child-resistant closure containing 270 capsules.
 

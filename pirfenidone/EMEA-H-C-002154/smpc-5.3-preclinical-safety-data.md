@@ -7,6 +7,7 @@ Reversibility was observed after cessation of treatment.
 An increased incidence of liver tumours was observed in carcinogenicity studies conducted in rats and mice.
 These hepatic findings are consistent with an induction of hepatic microsomal enzymes, an effect which has not been observed in patients receiving Esbriet.
 These findings are not considered relevant to humans.
+
 A statistically significant increase in uterine tumours was observed in female rats administered 1500 mg/kg/day, 37 times the human dose of 2403 mg/day.
 The results of mechanistic studies indicate that the occurrence of uterine tumours is probably related to a chronic dopamine-mediated sex hormone imbalance involving a species specific endocrine mechanism in the rat which is not present in humans.
 

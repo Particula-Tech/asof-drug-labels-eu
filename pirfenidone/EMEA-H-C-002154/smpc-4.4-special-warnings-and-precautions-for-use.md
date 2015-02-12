@@ -45,7 +45,6 @@ Therefore, patients should know how they react to this medicinal product before 
 In clinical studies, most patients who experienced dizziness had a single event, and most events resolved, with a median duration of 22 days.
 If dizziness does not improve or if it worsens in severity, dose adjustment or even discontinuation of Esbriet may be warranted.
 Fatigue
-
 Fatigue has been reported in patients taking Esbriet.
 Therefore, patients should know how they react to this medicinal product before they engage in activities requiring mental alertness or coordination (see section 4.7).
 

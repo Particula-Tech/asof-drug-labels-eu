@@ -11,8 +11,8 @@ Pirfenidone attenuates fibroblast proliferation, production of fibrosis-associat
 
 Clinical efficacy
 
-The clinical efficacy of Esbriet has been studied in three Phase 3, multicentre, randomised, double-blind, placebo-controlled studies in patients with IPF.
-Two of the Phase 3 studies (PIPF-004 and PIPF-006) were multinational, and the third (SP3) was conducted in Japan.
+The clinical efficacy of Esbriet has been studied in four Phase 3, multicentre, randomised, double-blind, placebo-controlled studies in patients with IPF.
+Three of the Phase 3 studies (PIPF-004, PIPF-006, and PIPF-016) were multinational, and one (SP3) was conducted in Japan.
 
 PIPF-004 and PIPF-006 compared treatment with Esbriet 2403 mg/day to placebo.
 The studies were nearly identical in design, with few exceptions including an intermediate dose group (1197 mg/day) in PIPF-004.
@@ -28,9 +28,9 @@ At Week 72, a decline from baseline in percent predicted FVC of ≥10% (a thresh
 |  | Pirfenidone 2403 mg/day (N = 174) | Placebo (N = 174) |
 | Decline of ≥10% or death or lung transplant | 35 (20%) | 60 (35%) |
 | Decline of less than 10% | 97 (56%) | 90 (52%) |
-| No decline (FVC change ≥0%) | 42 (24%) | 24 (14%) |
+| No decline (FVC change >0%) | 42 (24%) | 24 (14%) |
 
-Although there was no difference between patients receiving Esbriet compared to placebo in change from Baseline to Week 72 of distance walked during a six minute walk test (6MWT) by the prespecified rank ANCOVA, in an ad hoc analysis, 37% of patients receiving Esbriet showed a decline of ≥50 m in 6MWT distance, compared to 47% of patients receiving placebo.
+Although there was no difference between patients receiving Esbriet compared to placebo in change from Baseline to Week 72 of distance walked during a six minute walk test (6MWT) by the prespecified rank ANCOVA, in an ad hoc analysis, 37% of patients receiving Esbriet showed a decline of ≥50 m in 6MWT distance, compared to 47% of patients receiving placebo in PIPF-004.
 
 In study PIPF-006, treatment with Esbriet (N=171) did not reduce the decline of percent predicted FVC from Baseline at Week 72 compared with placebo (N=173; p=0.501).
 However, treatment with Esbriet reduced the decline of percent predicted FVC from Baseline at Weeks 24 (p<0.001),
@@ -42,14 +42,35 @@ At Week 72, a decline in FVC of ≥10% was seen in 23% of patients receiving Esb
 |  | Pirfenidone 2403 mg/day (N = 171) | Placebo (N = 173) |
 | Decline of ≥10% or death or lung transplant | 39 (23%) | 46 (27%) |
 | Decline of less than 10% | 88 (52%) | 89 (51%) |
-| No decline (FVC change ≥ 0%) | 44 (26%) | 38 (22%) |
+| No decline (FVC change >0%) | 44 (26%) | 38 (22%) |
 
-The decline in 6MWT distance from Baseline to Week 72 was significantly reduced compared with placebo in this study (p <0.001, rank ANCOVA).
-Additionally, in an ad hoc analysis, 33% of patients receiving Esbriet showed a decline of ≥50 m in 6MWT distance, compared to 47% of patients receiving placebo.
+The decline in 6MWT distance from Baseline to Week 72 was significantly reduced compared with placebo in study PIPF-006 (p<0.001, rank ANCOVA).
+Additionally, in an ad hoc analysis, 33% of patients receiving Esbriet showed a decline of ≥50 m in 6MWT distance, compared to 47% of patients receiving placebo in PIPF-006.
 
 In a pooled analysis of survival in PIPF-004 and PIPF-006 the mortality rate with Esbriet 2403 mg/day group was 7.8% compared with 9.8% with placebo (HR 0.77 [95% CI, 0.47–1.28]).
 
-The third study (SP3) in Japanese patients compared pirfenidone 1800 mg/day (comparable to 2403 mg/day in the US and European populations of PIPF-004/006 on a weight-normalised basis) with placebo (N=110, N=109, respectively).
+PIPF-016 compared treatment with Esbriet 2403 mg/day to placebo.
+Treatment was administered three times daily for 52 weeks.
+The primary endpoint was the change from Baseline to Week 52 in percent predicted FVC.
+In a total of 555 patients, the median baseline percent predicted FVC and %DLCO were 68% (range: 48–91%) and 42% (range: 27–170%), respectively.
+Two percent of patients had percent predicted FVC below 50% and 21% of patients had a percent predicted DLCO below 35% at Baseline.
+
+In study PIPF-016, the decline of percent predicted FVC from Baseline at Week 52 of treatment was significantly reduced in patients receiving Esbriet (N=278) compared with patients receiving placebo (N=277; p<0.000001, rank ANCOVA).
+Treatment with Esbriet also significantly reduced the decline of percent predicted FVC from Baseline at Weeks 13 (p<0.000001), 26 (p<0.000001), and 39 (p=0.000002).
+At Week 52, a decline from Baseline in percent predicted FVC of ≥10% or death was seen in 17% of patients receiving Esbriet compared to 32% receiving placebo (Table 4).
+
+| Table 4 Categorical assessment of change from Baseline to Week 52 in percent predicted FVC in study PIPF-016 |  |  |
+| --- | --- | --- |
+|  | Pirfenidone 2403 mg/day (N = 278) | Placebo (N = 277) |
+| Decline of ≥10% or death | 46 (17%) | 88 (32%) |
+| Decline of less than 10% | 169 (61%) | 162 (58%) |
+| No decline (FVC change >0%) | 63 (23%) | 27 (10%) |
+
+The decline in distance walked during a 6MWT from Baseline to Week 52 was significantly reduced in patients receiving Esbriet compared with patients receiving placebo in PIPF-016 (p=0.036, rank ANCOVA); 26% of patients receiving Esbriet showed a decline of ≥50 m in 6MWT distance compared to 36% of patients receiving placebo.
+
+In a pre-specified pooled analysis of studies PIPF-016, PIPF-004, and PIPF-006 at Month 12, all-cause mortality was significantly lower in Esbriet 2403 mg/day group (3.5%, 22 of 623 patients) compared with placebo (6.7%, 42 of 624 patients), resulting in a 48% reduction in the risk of all-cause mortality within the first 12 months (HR 0.52 [95% CI, 0.31–0.87], p=0.0107, log-rank test).
+
+The study (SP3) in Japanese patients compared pirfenidone 1800 mg/day (comparable to 2403 mg/day in the US and European populations of PIPF-004/006 on a weight-normalised basis) with placebo (N=110, N=109, respectively).
 Treatment with pirfenidone significantly reduced mean decline in vital capacity (VC) at Week 52 (the primary endpoint) compared with placebo (-0.09±0.02 l versus -0.16±0.02 l respectively, p=0.042).
 
 Paediatric population

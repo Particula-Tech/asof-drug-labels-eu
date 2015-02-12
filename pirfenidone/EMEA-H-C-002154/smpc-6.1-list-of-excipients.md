@@ -9,14 +9,11 @@ Magnesium stearate
 
 Capsule shell: body
 
-Indigo carmine (E132)
 Titanium dioxide (E171)
 Gelatin
 
 Capsule shell: cap
 
-Red iron oxide (E172)
-Yellow iron oxide (E172)
 Titanium dioxide (E171)
 Gelatin
 
