@@ -12,6 +12,8 @@ Gastrointestinal disorders
 Very common: Nausea, vomiting
 Common: Diarrhoea, dyspepsia, flatulence, upper abdominal pain, constipation
 Not known: Pruritus, rash, abdominal pain, intestinal obstruction, ileus/subileus, diverticulitis and intestinal perforation
+Metabolism and nutrition disorders
+Uncommon: Acidosis, increased serum chloride levels
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
