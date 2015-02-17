@@ -1,6 +1,8 @@
 # 4.8 Undesirable effects
 
-Hypoglycaemia, in general the most frequent adverse reaction of insulin therapy, may occur if the insulin dose is too high in relation to the insulin requirement.
+Summary of the safety profile
+
+Hypoglycaemia (very common), in general the most frequent adverse reaction of insulin therapy, may occur if the insulin dose is too high in relation to the insulin requirement (see section 4.4).
 
 Tabulated list of adverse reactions
 
@@ -14,7 +16,7 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | Nervous system disorders |  |  |  |  | Dysgeusia |
 | Eyes disorders |  |  |  | Visual impairment Retinopathy |  |
 | Skin and subcutaneous tissue disorders |  | Lipohypertro-phy | Lipoatrophy |  |  |
-| Musculoskeleta l and connective tissue disorders |  |  |  |  | Myalgia |
+| Musculoskeletal and connective tissue disorders |  |  |  |  | Myalgia |
 | General disorders and administration site conditions |  | Injection site reactions |  | Oedema |  |
 
 Description of selected adverse reactions
@@ -24,15 +26,11 @@ Severe hypoglycaemic attacks, especially if recurrent, may lead to neurological 
 Prolonged or severe hypoglycaemic episodes may be life-threatening.
 
 In many patients, the signs and symptoms of neuroglycopenia are preceded by signs of adrenergic counter-regulation.
-Generally, the greater and more rapid the decline in blood glucose, the more marked is the phenomenon of counter-regulation and its symptoms.
+Generally, the greater and more rapid the decline in blood glucose, the more marked is the phenomenon of counter-regulation and its symptoms (see section 4.4).
 
 Immune system disorders
 Immediate-type allergic reactions to insulin are rare.
 Such reactions to insulin (including insulin glargine) or the excipients may, for example, be associated with generalised skin reactions, angio-oedema, bronchospasm, hypotension and shock, and may be life-threatening.
-
-Insulin administration may cause insulin antibodies to form.
-In clinical studies, antibodies that cross-react with human insulin and insulin glargine were observed with the same frequency in both NPH-insulin and insulin glargine treatment groups.
-In rare cases, the presence of such insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency to hyper- or hypoglycaemia.
 
 Eyes disorders
 A marked change in glycaemic control may cause temporary visual impairment, due to temporary alteration in the turgidity and refractive index of the lens.
@@ -42,9 +40,8 @@ However, intensification of insulin therapy with abrupt improvement in glycaemic
 In patients with proliferative retinopathy, particularly if not treated with photocoagulation, severe hypoglycaemic episodes may result in transient amaurosis.
 
 Skin and subcutaneous tissue disorders
-As with any insulin therapy, lipodystrophy may occur at the injection site and delay local insulin absorption.
+Lipodystrophy may occur at the injection site and delay local insulin absorption.
 Continuous rotation of the injection site within the given injection area may help to reduce or prevent these reactions.
-
 General disorders and administration site conditions
 Injection site reactions include redness, pain, itching, hives, swelling, or inflammation.
 Most minor reactions to insulins at the injection site usually resolve in a few days to a few weeks.
@@ -63,11 +60,11 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
-[Lantus 100 units/ml solution for injection in a cartridge.]
+[Lantus 100 units/ml solution for injection in a cartridge]
 
 (all sentences already above)
 
-[Lantus 100 units/ml solution for injection in a cartridge for OptiClik.]
+[Lantus 100 units/ml solution for injection in a cartridge for OptiClik]
 
 | MedDRA system organ classes | Very common | Common | Uncommon | Rare | Very rare |
 | --- | --- | --- | --- | --- | --- |
@@ -75,13 +72,21 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 | Metabolism and nutrition disorders | Hypoglycaemia |  |  |  |  |
 | Nervous system disorders |  |  |  |  | Dysgeusia |
 | Eyes disorders |  |  |  | Visual impairment Retinopathy |  |
-| Skin and subcutaneous tissue disorders |  | Lipohypertro-- phy | Lipoatrophy |  |  |
-| Musculoskeleta l and connective tissue disorders |  |  |  |  | Myalgia |
+| Skin and subcutaneous tissue disorders |  | Lipohypertro- -phy | Lipoatrophy |  |  |
+| Musculoskeletal and connective tissue disorders |  |  |  |  | Myalgia |
 | General disorders and administration site conditions |  | Injection site reactions |  | Oedema |  |
 
 [Lantus OptiSet 100 units/ml solution for injection in a pre-filled pen]
 
-(all sentences already above)
+| MedDRA system organ classes | Very common | Common | Uncommon | Rare | Very rare |
+| --- | --- | --- | --- | --- | --- |
+| Immune system disorders |  |  |  | Allergic reactions |  |
+| Metabolism and nutrition disorders | Hypoglycaemia |  |  |  |  |
+| Nervous system disorders |  |  |  |  | Dysgeusia |
+| Eyes disorders |  |  |  | Visual impairment Retinopathy |  |
+| Skin and subcutaneous tissue disorders |  | Lipohyper-trophy | Lipoatrophy |  |  |
+| Musculoskeletal and connective tissue disorders |  |  |  |  | Myalgia |
+| General disorders and administration site conditions |  | Injection site reactions |  | Oedema |  |
 
 [Lantus SoloStar 100 units/ml solution for injection in a pre-filled pen]
 

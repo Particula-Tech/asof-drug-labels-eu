@@ -7,9 +7,6 @@ In case of insufficient glucose control or a tendency to hyper- or hypoglycaemic
 Transferring a patient to another type or brand of insulin should be done under strict medical supervision.
 Changes in strength, brand (manufacturer), type (regular, NPH, lente, long-acting, etc.), origin (animal, human, human insulin analogue) and/or method of manufacture may result in the need for a change in dose.
 
-Insulin administration may cause insulin antibodies to form.
-In rare cases, the presence of such insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency to hyper- or hypoglycaemia (see section 4.8).
-
 Hypoglycaemia
 
 The time of occurrence of hypoglycaemia depends on the action profile of the insulins used and may, therefore, change when the treatment regimen is changed.
@@ -48,7 +45,7 @@ These include:
 - missed meals,
 - alcohol consumption,
 - certain uncompensated endocrine disorders, (e.g. in hypothyroidism and in anterior pituitary or adrenocortical insufficiency),
-- concomitant treatment with certain other medicinal products.
+- concomitant treatment with certain other medicinal products (see section 4.5).
 
 Intercurrent illness
 
@@ -56,6 +53,11 @@ Intercurrent illness requires intensified metabolic monitoring.
 In many cases urine tests for ketones are indicated, and often it is necessary to adjust the insulin dose.
 The insulin requirement is often increased.
 Patients with type 1 diabetes must continue to consume at least a small amount of carbohydrates on a regular basis, even if they are able to eat only little or no food, or are vomiting etc. and they must never omit insulin entirely.
+
+Insulin antibodies
+
+Insulin administration may cause insulin antibodies to form.
+In rare cases, the presence of such insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency to hyper- or hypoglycaemia (see section 5.1).
 
 Medication errors
 
@@ -69,7 +71,11 @@ This should be kept in mind if treatment with the combination of pioglitazone an
 If the combination is used, patients should be observed for signs and symptoms of heart failure, weight gain and oedema.
 Pioglitazone should be discontinued if any deterioration in cardiac symptoms occurs.
 
-[Lantus 100 units/ml solution for injection in a cartridge.]
+Excipients
+
+This medicinal product contains less than 1 mmol (23 mg) sodium per dose, i.e. it is essentially ‘sodium-free’.
+
+[Lantus 100 units/ml solution for injection in a cartridge]
 
 Pens to be used with Lantus cartridges
 
@@ -82,7 +88,7 @@ increments.
 These cartridges should not be used with any other reusable pen as the dosing accuracy has only been established with the listed pens.
 Not all of these pens may be marketed in your country.
 
-[Lantus 100 units/ml solution for injection in a cartridge for OptiClik.]
+[Lantus 100 units/ml solution for injection in a cartridge for OptiClik]
 
 (all sentences already above)
 
@@ -90,10 +96,10 @@ Not all of these pens may be marketed in your country.
 
 Handling of the pen
 
-Before using OptiSet, the Instructions for Use included in the Package Leaflet must be read carefully.
-OptiSet has to be used as recommended in these Instructions for Use (see section 6.6).
+Before using OptiSet, the instructions for use included in the package leaflet must be read carefully.
+OptiSet has to be used as recommended in these instructions for use (see section 6.6).
 
 [Lantus SoloStar 100 units/ml solution for injection in a pre-filled pen]
 
-Before using SoloStar, the Instructions for Use included in the Package Leaflet must be read carefully.
-SoloStar has to be used as recommended in these Instructions for Use (see section 6.6).
+Before using SoloStar, the instructions for use included in the package leaflet must be read carefully.
+SoloStar has to be used as recommended in these instructions for use (see section 6.6).

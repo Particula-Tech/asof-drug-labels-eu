@@ -5,7 +5,7 @@ Posology
 Lantus contains insulin glargine, an insulin analogue, and has a prolonged duration of action.
 Lantus should be administered once daily at any time but at the same time each day.
 
-The Lantus dose regimen (dose and timing) should be individually adjusted.
+The dose regimen (dose and timing) should be individually adjusted.
 In patients with type 2 diabetes mellitus, Lantus can also be given together with orally active antidiabetic medicinal products.
 The potency of this medicinal product is stated in units.
 These units are exclusive to Lantus and are not the same as IU or the units used to express the potency of other insulin analogues (see section 5.1).
@@ -17,12 +17,20 @@ In the elderly, progressive deterioration of renal function may lead to a steady
 
 Renal impairment
 In patients with renal impairment, insulin requirements may be diminished due to reduced insulin metabolism.
+
 Hepatic impairment
 In patients with hepatic impairment, insulin requirements may be diminished due to reduced capacity for gluconeogenesis and reduced insulin metabolism.
-
 Paediatric population
+
+- Adolescents and children aged 2 years and older patients
+
 Safety and efficacy of Lantus have been established in adolescents and children aged 2 years and older (see section 5.1).
-Lantus has not been studied in children below the age of 2 years.
+The dose regimen (dose and timing) should be individually adjusted.
+
+- Children below 2 years of age
+
+The safety and efficacy of Lantus have not been established.
+No data are available.
 
 Transition from other insulins to Lantus
 
@@ -30,12 +38,13 @@ When changing from a treatment regimen with an intermediate or long-acting insul
 
 To reduce the risk of nocturnal and early morning hypoglycaemia, patients who are changing their basal insulin regimen from a twice daily NPH insulin to a once daily regimen with Lantus should reduce their daily dose of basal insulin by 20-30% during the first weeks of treatment.
 During the first weeks the reduction should, at least partially, be compensated by an increase in mealtime insulin, after this period the regimen should be adjusted individually.
-As with other insulin analogues, patients with high insulin doses because of antibodies to human insulin may experience an improved insulin response with Lantus.
+
+Patients with high insulin doses because of antibodies to human insulin may experience an improved insulin response with Lantus.
 
 Close metabolic monitoring is recommended during the transition and in the initial weeks thereafter.
 
 With improved metabolic control and resulting increase in insulin sensitivity a further adjustment in dose regimen may become necessary.
-Dose adjustment may also be required, for example, if the patient's weight or life-style changes, change of timing of insulin dose or other circumstances arise that increase susceptibility to hypo-or hyperglycaemia (see section 4.4).
+Dose adjustment may also be required, for example, if the patient's weight or life-style changes, change of timing of insulin dose or other circumstances arise that increase susceptibility to hypo- or hyperglycaemia (see section 4.4).
 
 Method of administration
 
@@ -53,11 +62,11 @@ Mixing or diluting can change its time/action profile and mixing can cause preci
 
 For further details on handling, see section 6.6.
 
-[Lantus 100 units/ml solution for injection in a cartridge.]
+[Lantus 100 units/ml solution for injection in a cartridge]
 
 (all sentences already above)
 
-[Lantus 100 units/ml solution for injection in a cartridge for OptiClik.]
+[Lantus 100 units/ml solution for injection in a cartridge for OptiClik]
 
 (all sentences already above)
 
@@ -65,8 +74,8 @@ For further details on handling, see section 6.6.
 
 OptiSet delivers insulin in increments of 2 units up to a maximum single dose of 40 units.
 
-Before using OptiSet, the Instructions for Use included in the Package Leaflet must be read carefully (see section 6.6).
+Before using OptiSet, the instructions for use included in the package leaflet must be read carefully (see section 6.6).
 
 [Lantus SoloStar 100 units/ml solution for injection in a pre-filled pen]
 
-Before using SoloStar, the Instructions for Use included in the Package Leaflet must be read carefully (see section 6.6).
+Before using SoloStar, the instructions for use included in the package leaflet must be read carefully (see section 6.6).

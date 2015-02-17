@@ -21,19 +21,3 @@ Breast-feeding women may require adjustments in insulin dose and diet.
 Fertility
 
 Animal studies do not indicate direct harmful effects with respect to fertility.
-
-[Lantus 100 units/ml solution for injection in a cartridge.]
-
-(all sentences already above)
-
-[Lantus 100 units/ml solution for injection in a cartridge for OptiClik.]
-
-(all sentences already above)
-
-[Lantus OptiSet 100 units/ml solution for injection in a pre-filled pen]
-
-No metabolic effects of ingested insulin glargine on the breast-fed newborn/infant are anticipated since insulin glargine as a peptide is digested into aminoacids in the human gastrointestinal tract.Breast-feeding women may require adjustments in insulin dose and diet.
-
-[Lantus SoloStar 100 units/ml solution for injection in a pre-filled pen]
-
-(all sentences already above)

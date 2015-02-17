@@ -3,12 +3,12 @@
 EU/1/00/134/001-004
 EU/1/00/134/012
 
-[Lantus 100 units/ml solution for injection in a cartridge.]
+[Lantus 100 units/ml solution for injection in a cartridge]
 
 EU/1/00/134/005-007
 EU/1/00/134/013-017
 
-[Lantus 100 units/ml solution for injection in a cartridge for OptiClik.]
+[Lantus 100 units/ml solution for injection in a cartridge for OptiClik]
 
 EU/1/00/134/022-029
 
