@@ -9,7 +9,6 @@ Non-proliferating cells are relatively insensitive to azacitidine.
 Incorporation of azacitidine into DNA results in the inactivation of DNA methyltransferases, leading to hypomethylation of DNA.
 DNA hypomethylation of aberrantly methylated genes involved in normal cell cycle regulation, differentiation and death pathways may result in gene re-expression and restoration of cancer-suppressing functions to cancer cells.
 The relative importance of DNA hypomethylation versus cytotoxicity or other activities of azacitidine to clinical outcomes has not been established.
-
 Clinical efficacy and safety
 The efficacy and safety of Vidaza were studied in an international, multicenter, controlled, open-label, randomised, parallel-group, Phase 3 comparative study (AZA PH GL 2003 CL 001) in patients with: intermediate-2 and high-risk MDS according to the International Prognostic Scoring System (IPSS), refractory anaemia with excess blasts (RAEB), refractory anaemia with excess blasts in transformation (RAEB-T) and modified chronic myelomonocytic leukaemia (mCMML) according to the French American British (FAB) classification system.
 RAEB-T patients (21-30 % blasts) are now considered to be AML patients under the current WHO classification system.
@@ -27,6 +26,7 @@ Within the Intent to Treat population (ITT), the median age was 69 years (range 
 In the ITT analysis of 358 patients (179 azacitidine and 179 CCR), Vidaza treatment was associated with a median survival of 24.46 months versus 15.02 months for those receiving CCR treatment, a difference of 9.4 months, with a stratified log-rank p-value of 0.0001.
 The hazard ratio for the treatment effect was 0.58 (95 % CI: 0.43, 0.77).
 The two-year survival rates were 50.8 % in patients receiving azacitidine versus 26.2 % in patients receiving CCR (p < 0.0001).
+
 Log-Rank p = 0.0001
 HR = 0.58 [95% CI: 0.43-0.77]
 Deaths: AZA = 82, CCR = 113
@@ -43,7 +43,6 @@ KEY: AZA = azacitidine; CCR = conventional care regimens; CI = confidence interv
 The survival benefits of Vidaza were consistent regardless of the CCR treatment option (BSC alone, low-dose cytarabine plus BSC or standard induction chemotherapy plus BSC) utilised in the control arm.
 
 When IPSS cytogenetic subgroups were analysed, similar findings in terms of median overall survival were observed in all groups (good, intermediate, poor cytogenetics, including monosomy 7).
-
 On analyses of age subgroups, an increase in median overall survival was observed for all groups
 (< 65 years, ≥ 65 years and ≥ 75 years).
 

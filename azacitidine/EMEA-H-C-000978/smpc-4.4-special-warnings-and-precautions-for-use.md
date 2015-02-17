@@ -30,3 +30,7 @@ Patients with a history of severe congestive heart failure, clinically unstable 
 Recent data from a clinical trial in patients with a known history of cardiovascular or pulmonary disease showed a significantly increased incidence of cardiac events with azacitidine (see section 4.8).
 It is therefore advised to exercise caution when prescribing azacitidine to these patients.
 Cardiopulmonary assessment before and during the treatment should be considered.
+
+Necrotising fasciitis
+Necrotising fasciitis, including fatal cases, have been reported in patients treated with Vidaza.
+Vidaza therapy should be discontinued in patients who develop necrotising fasciitis, and appropriate treatment should be promptly initiated.
