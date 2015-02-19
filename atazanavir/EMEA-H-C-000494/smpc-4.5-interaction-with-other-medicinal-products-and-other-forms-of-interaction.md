@@ -2,7 +2,6 @@
 
 When REYATAZ and ritonavir are co-administered, the metabolic drug interaction profile for ritonavir may predominate because ritonavir is a more potent CYP3A4 inhibitor than atazanavir.
 The Summary of Product Characteristics for ritonavir must be consulted before initiation of therapy with REYATAZ and ritonavir.
-
 Atazanavir is metabolised in the liver through CYP3A4.
 It inhibits CYP3A4.
 Therefore, REYATAZ with ritonavir is contraindicated with medicinal products that are substrates of CYP3A4 and have a narrow therapeutic index: astemizole, terfenadine, cisapride, pimozide, quinidine, bepridil, triazolam, orally administered midazolam, and ergot alkaloids, particularly ergotamine and dihydroergotamine (see section 4.3).

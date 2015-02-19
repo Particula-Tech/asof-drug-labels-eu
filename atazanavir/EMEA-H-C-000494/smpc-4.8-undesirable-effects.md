@@ -56,7 +56,7 @@ Musculoskeletal and connective uncommon: muscle atrophy, arthralgia, myalgia;
 tissue disorders: rare: myopathy
 Renal and urinary disorders: uncommon: nephrolithiasisa, hematuria, proteinuria,
 
-pollakiuria;
+pollakiuria, interstitial nephritis;
 rare: kidney pain
 
 Reproductive system and breast uncommon: gynaecomastia disorders:

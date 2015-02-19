@@ -1,7 +1,7 @@
 # 4.4 Special warnings and precautions for use
 
-Patients should be advised that current antiretroviral therapy has not been proven to prevent the risk of transmission of HIV to others through blood or sexual contact.
-Appropriate precautions should continue to be employed.
+While effective viral suppression with antiretroviral therapy has been proven to substantially reduce the risk of sexual transmission, a residual risk cannot be excluded.
+Precautions to prevent transmission should be taken in accordance with national guidelines.
 
 Co-administration of REYATAZ with ritonavir at doses greater than 100 mg once daily has not been clinically evaluated.
 The use of higher ritonavir doses may alter the safety profile of atazanavir (cardiac effects, hyperbilirubinaemia) and therefore is not recommended.
@@ -63,10 +63,17 @@ Dose reduction of atazanavir is not recommended because it may result in a loss 
 
 Indinavir is also associated with indirect (unconjugated) hyperbilirubinaemia due to inhibition of UGT.
 Combinations of REYATAZ and indinavir have not been studied and co-administration of these medicinal products is not recommended (see section 4.5).
+Cholelithiasis
+Cholelithiasis has been reported in patients receiving REYATAZ (see section 4.8).
+Some patients required hospitalization for additional management and some had complications.
+If signs or symptoms of cholelithiasis occur, temporary interruption or discontinuation of treatment may be considered.
 
 Nephrolithiasis
 Nephrolithiasis has been reported in patients receiving REYATAZ (see section 4.8).
+Some patients required hospitalization for additional management and some had complications.
+In some cases, nephrolithiasis has been associated with acute renal failure or renal insufficiency.
 If signs or symptoms of nephrolithiasis occur, temporary interruption or discontinuation of treatment may be considered.
+
 Immune reactivation syndrome
 In HIV-infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
@@ -104,6 +111,7 @@ Co-administration of voriconazole and REYATAZ with ritonavir is not recommended,
 
 In the majority of patients, a reduction in both voriconazole and atazanavir exposures are expected.
 In a small number of patients without a functional CYP2C19 allele, significantly increased voriconazole exposures are expected (see section 4.5).
+
 Concomitant use of REYATAZ/ritonavir and fluticasone or other glucocorticoids that are metabolized by CYP3A4 is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects, including Cushing's syndrome and adrenal suppression
 (see section 4.5).
 
