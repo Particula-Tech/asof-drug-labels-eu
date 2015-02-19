@@ -20,6 +20,10 @@ There is no specific experience in the management of lenalidomide overdose in mu
 
 (all sentences already above)
 
+[Revlimid 20 mg hard capsules]
+
+(all sentences already above)
+
 [Revlimid 25 mg hard capsules]
 
 (all sentences already above)

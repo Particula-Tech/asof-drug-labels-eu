@@ -1,3 +1,3 @@
 # 6.6 Special precautions for disposal
 
-Unused medicinal product should be returned to the pharmacist.
+Any unused product or waste material should be disposed of in accordance with local requirements.

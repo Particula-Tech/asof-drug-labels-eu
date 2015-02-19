@@ -20,6 +20,10 @@ EU/1/07/391/002
 
 EU/1/07/391/003
 
+[Revlimid 20 mg hard capsules]
+
+EU/1/07/391/009
+
 [Revlimid 25 mg hard capsules]
 
 EU/1/07/391/004

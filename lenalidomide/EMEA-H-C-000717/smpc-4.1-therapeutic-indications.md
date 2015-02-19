@@ -2,6 +2,8 @@
 
 Multiple myeloma
 
+Revlimid is indicated for the treatment of adult patients with previously untreated multiple myeloma who are not eligible for transplant (see section 4.2).
+
 Revlimid in combination with dexamethasone is indicated for the treatment of multiple myeloma in adult patients who have received at least one prior therapy.
 
 Myelodysplastic syndromes
