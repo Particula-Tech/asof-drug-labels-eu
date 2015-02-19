@@ -3,56 +3,79 @@
 During antipsychotic treatment, improvement in the patient's clinical condition may take several days to some weeks.
 Patients should be closely monitored throughout this period.
 
+Suicidality
+
 The occurrence of suicidal behaviour is inherent in psychotic illnesses and mood disorders and in some cases has been reported early after initiation or switch of antipsychotic therapy, including treatment with aripiprazole (see section 4.8).
 Close supervision of high-risk patients should accompany antipsychotic therapy.
 Results of an epidemiological study suggested that there was no increased risk of suicidality with aripiprazole compared to other antipsychotics among adult patients with schizophrenia or bipolar disorder.
 There are insufficient paediatric data to evaluate this risk in younger patients (below 18 years of age), but there is evidence that the risk of suicide persists beyond the first 4 weeks of treatment for atypical antipsychotics, including aripiprazole.
 
-Cardiovascular disorders: aripiprazole should be used with caution in patients with known cardiovascular disease (history of myocardial infarction or ischaemic heart disease, heart failure, or conduction abnormalities), cerebrovascular disease, conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medicinal products) or hypertension, including accelerated or malignant.
+Cardiovascular disorders
+
+Aripiprazole should be used with caution in patients with known cardiovascular disease (history of myocardial infarction or ischaemic heart disease, heart failure, or conduction abnormalities), cerebrovascular disease, conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medicinal products) or hypertension, including accelerated or malignant.
 
 Cases of venous thromboembolism (VTE) have been reported with antipsychotic drugs.
 Since patients treated with antipsychotics often present with acquired risk factors for VTE, all possible risk factors for VTE should be identified before and during treatment with ABILIFY and preventive measures undertaken.
 
-Conduction abnormalities: in clinical trials of aripiprazole, the incidence of QT prolongation was comparable to placebo.
+Conduction abnormalities
+
+In clinical trials of aripiprazole, the incidence of QT prolongation was comparable to placebo.
 As with other antipsychotics, aripiprazole should be used with caution in patients with a family history of QT prolongation.
 
-Tardive dyskinesia: in clinical trials of one year or less duration, there were uncommon reports of treatment emergent dyskinesia during treatment with aripiprazole.
+Tardive dyskinesia
+
+In clinical trials of one year or less duration, there were uncommon reports of treatment emergent dyskinesia during treatment with aripiprazole.
 If signs and symptoms of tardive dyskinesia appear in a patient on ABILIFY, dose reduction or discontinuation should be considered.
 These symptoms can temporally deteriorate or can even arise after discontinuation of treatment.
 
-Other extrapyramidal symptoms: in paediatric clinical trials of aripiprazole akathisia and parkinsonism were observed.
+Other extrapyramidal symptoms
+
+In paediatric clinical trials of aripiprazole akathisia and parkinsonism were observed.
 If signs and symptoms of other EPS appear in a patient taking ABILIFY, dose reduction and close clinical monitoring should be considered.
 
-Neuroleptic Malignant Syndrome (NMS): NMS is a potentially fatal symptom complex associated with antipsychotic medicinal products.
+Neuroleptic Malignant Syndrome (NMS)
+
+NMS is a potentially fatal symptom complex associated with antipsychotic medicinal products.
 In clinical trials, rare cases of NMS were reported during treatment with aripiprazole.
 Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis and cardiac dysrhythmia).
 Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure.
 However, elevated creatine phosphokinase and rhabdomyolysis, not necessarily in association with NMS, have also been reported.
 If a patient develops signs and symptoms indicative of NMS, or presents with unexplained high fever without additional clinical manifestations of NMS, all antipsychotic medicinal products, including ABILIFY, must be discontinued.
 
-Seizure: in clinical trials, uncommon cases of seizure were reported during treatment with aripiprazole.
+Seizure
+
+In clinical trials, uncommon cases of seizure were reported during treatment with aripiprazole.
 Therefore, aripiprazole should be used with caution in patients who have a history of seizure disorder or have conditions associated with seizures.
 
-Elderly patients with dementia-related psychosis:
-Increased mortality: in three placebo-controlled trials (n= 938; mean age: 82.4 years; range:
-56-99 years) of aripiprazole in elderly patients with psychosis associated with Alzheimer's disease, patients treated with aripiprazole were at increased risk of death compared to placebo.
-The rate of death in aripiprazole-treated patients was 3.5% compared to 1.7% in the placebo group.
+Elderly patients with dementia-related psychosis
+
+Increased mortality
+In three placebo-controlled trials (n = 938; mean age: 82.4 years; range: 56-99 years) of aripiprazole in elderly patients with psychosis associated with Alzheimer's disease, patients treated with aripiprazole were at increased risk of death compared to placebo.
+The rate of death in aripiprazole-treated patients was 3.5 % compared to 1.7 % in the placebo group.
 Although the causes of deaths were varied, most of the deaths appeared to be either cardiovascular (e.g. heart failure, sudden death) or infectious (e.g. pneumonia) in nature.
-Cerebrovascular adverse reactions: in the same trials, cerebrovascular adverse reactions (e.g. stroke, transient ischaemic attack), including fatalities, were reported in patients (mean age: 84 years; range: 78-88 years).
-Overall, 1.3% of aripiprazole-treated patients reported cerebrovascular adverse reactions compared with 0.6% of placebo-treated patients in these trials.
+
+Cerebrovascular adverse reactions
+In the same trials, cerebrovascular adverse reactions (e.g. stroke, transient ischaemic attack), including fatalities, were reported in patients (mean age: 84 years; range: 78-88 years).
+Overall, 1.3 % of aripiprazole-treated patients reported cerebrovascular adverse reactions compared with 0.6 % of placebo-treated patients in these trials.
 This difference was not statistically significant.
 However, in one of these trials, a fixed-dose trial, there was a significant dose response relationship for cerebrovascular adverse reactions in patients treated with aripiprazole.
 ABILIFY is not indicated for the treatment of dementia-related psychosis.
 
-Hyperglycaemia and diabetes mellitus: hyperglycaemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated with atypical antipsychotic agents, including ABILIFY.
+Hyperglycaemia and diabetes mellitus
+
+Hyperglycaemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated with atypical antipsychotic agents, including ABILIFY.
 Risk factors that may predispose patients to severe complications include obesity and family history of diabetes.
 In clinical trials with aripiprazole, there were no significant differences in the incidence rates of hyperglycaemia-related adverse reactions (including diabetes) or in abnormal glycaemia laboratory values compared to placebo.
 Precise risk estimates for hyperglycaemia-related adverse reactions in patients treated with ABILIFY and with other atypical antipsychotic agents are not available to allow direct comparisons.
 Patients treated with any antipsychotic agents, including ABILIFY, should be observed for signs and symptoms of hyperglycaemia (such as polydipsia, polyuria, polyphagia and weakness) and patients with diabetes mellitus or with risk factors for diabetes mellitus should be monitored regularly for worsening of glucose control.
 
-Hypersensitivity: as with other medicinal products, hypersensitivity reactions, characterised by allergic symptoms, may occur with aripiprazole (see section 4.8).
+Hypersensitivity
 
-Weight gain: weight gain is commonly seen in schizophrenic and bipolar mania patients due to comorbidities, use of antipsychotics known to cause weight gain, poorly managed life-style, and might lead to severe complications.
+As with other medicinal products, hypersensitivity reactions, characterised by allergic symptoms, may occur with aripiprazole (see section 4.8).
+
+Weight gain
+
+Weight gain is commonly seen in schizophrenic and bipolar mania patients due to co-morbidities, use of antipsychotics known to cause weight gain, poorly managed life-style, and might lead to severe complications.
 Weight gain has been reported post-marketing among patients prescribed ABILIFY.
 When seen, it is usually in those with significant risk factors such as history of diabetes, thyroid disorder or pituitary adenoma.
 In clinical trials aripiprazole has not been shown to induce clinically relevant weight gain in adults (see section 5.1).
@@ -60,15 +83,24 @@ In clinical trials of adolescent patients with bipolar mania, aripiprazole has b
 Weight gain should be monitored in adolescent patients with bipolar mania.
 If weight gain is clinically significant, dose reduction should be considered (see section 4.8).
 
-Dysphagia: oesophageal dysmotility and aspiration have been associated with antipsychotic treatment, including ABILIFY.
+Dysphagia
+
+Oesophageal dysmotility and aspiration have been associated with antipsychotic treatment, including ABILIFY.
 Aripiprazole and other antipsychotic active substances should be used cautiously in patients at risk for aspiration pneumonia.
 
-Pathological gambling: post-marketing reports of pathological gambling have been reported among patients prescribed ABILIFY, regardless of whether these patients had a prior history of gambling.
+Pathological gambling
+
+Post-marketing reports of pathological gambling have been reported among patients prescribed ABILIFY, regardless of whether these patients had a prior history of gambling.
 Patients with a prior history of pathological gambling may be at increased risk and should be monitored carefully (see section 4.8).
-Lactose: ABILIFY tablets contain lactose.
+
+Lactose
+
+ABILIFY tablets contain lactose.
 Patients with rare hereditary problems of galactose intolerance, the lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
-Patients with ADHD comorbidity: despite the high comorbidity frequency of Bipolar I Disorder and ADHD, very limited safety data are available on concomitant use of ABILIFY and stimulants; therefore, extreme caution should be taken when these drugs are co-administered.
+Patients with ADHD comorbidity
+
+Despite the high comorbidity frequency of Bipolar I Disorder and ADHD, very limited safety data are available on concomitant use of ABILIFY and stimulants; therefore, extreme caution should be taken when these drugs are co-administered.
 
 [ABILIFY 10 mg tablets]
 
@@ -84,9 +116,11 @@ Patients with ADHD comorbidity: despite the high comorbidity frequency of Bipola
 
 [ABILIFY 10 mg orodispersible tablets]
 
-Increased mortality: in three placebo-controlled trials (n= 938; mean age: 82.4 years; range: 56-99 years) of aripiprazole in elderly patients with psychosis associated with Alzheimer's disease, patients treated with aripiprazole were at increased risk of death compared to placebo.
+Phenylketonurics
 
-Phenylketonurics: ABILIFY orodispersible tablets contain aspartame, a source of phenylalanine which may be harmful for people with phenylketonuria.
+ABILIFY orodispersible tablets contain aspartame, a source of phenylalanine which may be harmful for people with phenylketonuria.
+
+ABILIFY orodispersible tablets contain lactose.
 
 [ABILIFY 15 mg orodispersible tablets]
 
@@ -98,7 +132,8 @@ Phenylketonurics: ABILIFY orodispersible tablets contain aspartame, a source of 
 
 [ABILIFY 1 mg/ml oral solution]
 
-Intolerance:
+Intolerance
+
 The oral solution contains fructose.
 Patients with rare hereditary problems of fructose intolerance should not take this medicinal product.
 The oral solution contains methyl parahydroxybenzoate and propyl parahydroxybenzoate which may cause allergic reactions (possibly delayed).

@@ -28,19 +28,19 @@ Excipient with known effect: 186.54 mg lactose per tablet
 
 Each orodispersible tablet contains 10 mg of aripiprazole.
 
-Excipient with known effect: 2 mg aspartame (E951) per orodispersible tablet
+Excipient with known effect: 2 mg aspartame (E951) and 0.075 mg lactose per orodispersible tablet
 
 [ABILIFY 15 mg orodispersible tablets]
 
 Each orodispersible tablet contains 15 mg of aripiprazole.
 
-Excipient with known effect: 3 mg aspartame (E951) per orodispersible tablet
+Excipient with known effect: 3 mg aspartame (E951) and 0.1125 mg lactose per orodispersible tablet
 
 [ABILIFY 30 mg orodispersible tablets]
 
 Each orodispersible tablet contains 30 mg of aripiprazole.
 
-Excipient with known effect: 6 mg aspartame (E951) per orodispersible tablet
+Excipient with known effect: 6 mg aspartame (E951) and 0.225 mg lactose per orodispersible tablet
 
 [ABILIFY 1 mg/ml oral solution]
 

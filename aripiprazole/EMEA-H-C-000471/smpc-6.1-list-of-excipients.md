@@ -5,7 +5,6 @@ Maize starch
 Microcrystalline cellulose
 Hydroxypropyl cellulose
 Magnesium stearate
-
 Indigo carmine aluminium lake (E132)
 
 [ABILIFY 10 mg tablets]
@@ -52,7 +51,6 @@ Propyl parahydroxybenzoate (E216)
 Sodium hydroxide
 Sucrose
 Purified water
-
 Natural orange cream with other natural flavours
 
 [ABILIFY 7.5 mg/ml solution for injection]
