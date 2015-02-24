@@ -16,8 +16,3 @@ Effects on male and female fertility were assessed as part of a 6-month study in
 Absent or irregular menses associated with alterations in female reproductive hormone levels and changes in sperm morphology and motility were observed at all dose levels.
 Based on Cmax and AUC for free aflibercept observed at the 3 mg/kg intravenous dose, the systemic exposures were approximately 4,900-fold and 1,500-fold higher, respectively, than the exposure observed in humans after an intravitreal dose of 2 mg.
 All changes were reversible.
-
-[Eylea 40 mg/ml solution for injection in a vial.]
-
-At the 0.1 mg/kg dose, the systemic exposures based on
-Cmax and cumulative AUC for free aflibercept were approximately 17- and 10-fold higher, respectively, when compared to corresponding values observed in humans after an intravitreal dose of 2 mg.

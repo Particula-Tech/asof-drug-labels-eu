@@ -5,8 +5,7 @@
 One pre-filled syringe contains 90 microlitres, equivalent to 3.6 mg aflibercept.
 This provides a usable amount to deliver a single dose of 50 microlitres containing 2 mg aflibercept.
 
-*Fusion protein consisting of portions of human VEGF (Vascular Endothelial Growth Factor) receptors 1 and 2 extracellular domains fused to the Fc portion of human IgG1 and produced in
-Chinese hamster ovary (CHO) K1 cells by recombinant DNA technology.
+*Fusion protein consisting of portions of human VEGF (Vascular Endothelial Growth Factor) receptors 1 and 2 extracellular domains fused to the Fc portion of human IgG1 and produced in Chinese hamster ovary (CHO) K1 cells by recombinant DNA technology.
 
 For the full list of excipients, see section 6.1.
 

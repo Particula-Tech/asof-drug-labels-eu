@@ -11,8 +11,8 @@ The mean maximum plasma concentration of free aflibercept is approximately 50 to
 It is estimated that after intravitreal administration of 2 mg to patients, the mean maximum plasma concentration of free aflibercept is more than 100-fold lower than the concentration of aflibercept required to half-maximally bind systemic VEGF (2.91 microgram/ml) in a study of healthy volunteers.
 Therefore, systemic pharmacodynamic effects such as blood pressure changes are unlikely.
 
-These pharmacokinetic results were confirmed in pharmacokinetic sub-studies in patients with CRVO (mean Cmax of free aflibercept in plasma 0.046 microgram/ml (range: 0 to 0.081 microgram/ml); and in patients with DME (mean Cmax of free aflibercept in plasma 0.032 microgram/ml (range: 0 to 0.076 microgram/ml).
-After IVT injection, free plasma levels of aflibercept decline gradually to become lower than the detection limits within one week.
+In pharmacokinetic sub-studies in patients with CRVO, BRVO, or DME mean Cmax of free aflibercept in plasma were similar with values in the range of 0.03 to 0.05 microgram/ml and individual values not exceeding 0.14 microgram/ml.
+Thereafter, plasma concentrations of free aflibercept declined to values below or close to the lower limit of quantitation generally within one week; undetectable concentrations were reached before the next administration after 4 weeks in all patients.
 Elimination
 As Eylea is a protein-based therapeutic, no metabolism studies have been conducted.
 
@@ -22,11 +22,11 @@ As with other large proteins, both free and bound aflibercept are expected to be
 Renal impairment
 No special studies in patients with renal impairment have been conducted with Eylea.
 
-Pharmacokinetic analysis of patients in the VIEW2 study, of which 40% had renal impairment (24% mild, 15% moderate, and 1% severe), revealed no differences with respect to plasma concentrations of active drug after intravitreal administration every 4 or 8 weeks.
+Pharmacokinetic analysis of patients in the VIEW2 study, of which 40% had renal impairment
+(24% mild, 15% moderate, and 1% severe), revealed no differences with respect to plasma concentrations of active drug after intravitreal administration every 4 or 8 weeks.
 
 Similar results were seen in patients with CRVO in the GALILEO study and in patients with DME in the VIVIDDME study.
 
 [Eylea 40 mg/ml solution for injection in a vial.]
 
-Pharmacokinetic analysis of patients in the VIEW2 study, of which 40% had renal impairment
-(24% mild, 15% moderate, and 1% severe), revealed no differences with respect to plasma concentrations of active drug after intravitreal administration every 4 or 8 weeks.
+.

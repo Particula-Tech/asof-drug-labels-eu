@@ -12,25 +12,26 @@ The recommended dose for Eylea is 2 mg aflibercept, equivalent to 50 microlitres
 
 Eylea treatment is initiated with one injection per month for three consecutive doses, followed by one injection every two months.
 There is no requirement for monitoring between injections.
-After the first 12 months of treatment with Eylea, the treatment interval may be extended based on visual and anatomic outcomes.
+After the first 12 months of treatment with Eylea, the treatment interval may be extended based on visual and/or anatomic outcomes.
 In this case the schedule for monitoring should be determined by the treating physician and may be more frequent than the schedule of injections.
 
-Macular Oedema secondary to CRVO
+Macular Oedema secondary to RVO (branch RVO or central RVO)
 
 The recommended dose for Eylea is 2 mg aflibercept equivalent to 50 microlitres.
 After the initial injection, treatment is given monthly.
 The interval between two doses should not be shorter than one month.
 
-If there is no improvement in visual and anatomic outcomes over the course of the first three injections, continued treatment is not recommended.
+If visual and anatomic outcomes indicate that the patient is not benefiting from continued treatment, Eylea should be discontinued.
 
-Monthly treatment continues until visual and anatomic outcomes are stable for three monthly assessments.
-Thereafter the need for continued treatment should be reconsidered.
+Monthly treatment continues until maximum visual acuity is achieved and/or there are no signs of disease activity.
+Three or more consecutive, monthly injections may be needed.
 
-If necessary, treatment may be continued with gradually increasing treatment intervals to maintain a stable visual and anatomic outcome.
-If treatment has been discontinued, visual and anatomic outcomes should be monitored and treatment should be resumed if these deteriorate.
+Treatment may then be continued with a treat and extend regimen with gradually increased treatment intervals to maintain stable visual and/or anatomic outcomes, however there are insufficient data to conclude on the length of these intervals.
+If visual and/or anatomic outcomes deteriorate, the treatment interval should be shortened accordingly.
 
-Usually, monitoring should be done at the injection visits.
-During treatment interval extension through to completion of therapy, the monitoring schedule should be determined by the treating physician based on the individual patient’s response and may be more frequent than the schedule of injections.
+The monitoring and treatment schedule should be determined by the treating physician based on the individual patient’s response.
+
+Monitoring for disease activity may include clinical examination, functional testing or imaging techniques (e.g. optical coherence tomography or fluorescein angiography).
 
 Diabetic Macular Oedema
 
@@ -39,7 +40,7 @@ The recommended dose for Eylea is 2 mg aflibercept equivalent to 50 microlitres.
 Eylea treatment is initiated with one injection per month for five consecutive doses, followed by one injection every two months.
 There is no requirement for monitoring between injections.
 
-After the first 12 months of treatment with Eylea, the treatment interval may be extended based on visual and anatomic outcomes.
+After the first 12 months of treatment with Eylea, the treatment interval may be extended based on visual and/or anatomic outcomes.
 The schedule for monitoring should be determined by the treating physician.
 
 If visual and anatomic outcomes indicate that the patient is not benefiting from continued treatment, Eylea should be discontinued.
@@ -57,7 +58,8 @@ There is limited experience in patients older than 75 years with DME.
 
 Paediatric population
 Safety and efficacy have not been established in children and adolescents.
-There is no relevant use of Eylea in the paediatric population in the indications wet AMD, CRVO and DME.
+There is no relevant use of Eylea in the paediatric population in the indications wet AMD, CRVO, BRVO and DME.
+
 Method of administration
 
 Intravitreal injections must be carried out according to medical standards and applicable guidelines by a qualified physician experienced in administering intravitreal injections.
