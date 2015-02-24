@@ -24,8 +24,7 @@ Palonosetron has been administered safely with analgesics, antiemetic/antinausea
 [Aloxi 500 micrograms soft capsules]
 
 UChemotherapeutic medicinal productsU
-
-UMetoclopramideU
+In preclinical studies, palonosetron did not inhibit the antitumour activity of the five chemotherapeutic agents tested (cisplatin, cyclophosphamide, cytarabine, doxorubicin and mitomycin C). UMetoclopramideU
 
 UCYP2D6 inducers and inhibitorsU
 

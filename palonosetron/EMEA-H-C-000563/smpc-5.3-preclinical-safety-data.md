@@ -3,6 +3,7 @@
 Effects in non-clinical studies were observed only at exposures considered sufficiently in excess of the maximum human exposure indicating little relevance to clinical use.
 
 Non-clinical studies indicate that palonosetron, only at very high concentrations, may block ion channels involved in ventricular de- and re-polarisation and prolong action potential duration.
+
 Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryonal/foetal development, parturition or postnatal development.
 Only limited data from animal studies are available regarding the placental transfer (see section 4.6).
 

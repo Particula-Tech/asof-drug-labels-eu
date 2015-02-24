@@ -11,18 +11,22 @@ Aloxi should be injected over 30 seconds.
 
 The efficacy of Aloxi in the prevention of nausea and vomiting induced by highly emetogenic chemotherapy may be enhanced by the addition of a corticosteroid administered prior to chemotherapy.
 
-Elderly population
+Elderly people
 
 No dose adjustment is necessary for the elderly.
-
 Paediatric population
 
-The safety and efficacy in children have not been established.
-Currently available data are described in section 5.1 and section 5.2, but no recommendation on posology can be made.
+Children and Adolescents (aged 1 month to 17 years):
+20 micrograms/kg (the maximum total dose should not exceed 1500 micrograms) palonosetron administered as a single 15 minute intravenous infusion beginning approximately 30 minutes before the start of chemotherapy.
+
+The safety and efficacy of Aloxi in children aged less than 1 month have not been established.
+No data are available.
+There are limited data on the use of Aloxi in the prevention of nausea and vomiting in children under 2 years of age.
 
 Hepatic impairment
 
 No dose adjustment is necessary for patients with impaired hepatic function.
+
 Renal impairment
 
 No dose adjustment is necessary for patients with impaired renal function.
@@ -40,6 +44,9 @@ UAdults
 UElderly population
 
 UPaediatric population
+
+The safety and efficacy of Aloxi in children have not been established.
+Currently available data are described in section 5.1 and section 5.2, but no recommendation on posology can be made.
 
 UHepatic impairment
 

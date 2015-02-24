@@ -17,6 +17,7 @@ Palonosetron was non-inferior versus the comparators in the acute phase of emesi
 
 Although comparative efficacy of palonosetron in multiple cycles has not been demonstrated in controlled clinical studies, 875 patients enrolled in the three phase 3 trials continued in an open label safety study and were treated with palonosetron 750 micrograms for up to 9 additional cycles of chemotherapy.
 The overall safety was maintained during all cycles.
+
 Table 1: Percentage of patients a responding by treatment group and phase in the Moderately Emetogenic Chemotherapy study versus ondansetron
 
 Aloxi Ondansetron
@@ -109,16 +110,35 @@ No clinically significant changes were shown on heart rate, atrioventricular (AV
 
 Paediatric population
 Prevention of Chemotherapy Induced Nausea and Vomiting (CINV):
-The safety and efficacy of Palonosetron i.v at single doses of 3µg/kg and 10µg/kg was investigated in a clinical study in 72 patients in the following age groups, >28 days to 23 months (12 patients), 2 to 11 years (31 patients), and 12 to 17 years of age (29 patients), receiving highly or moderately emetogenic chemotherapy.
+The safety and efficacy of Palonosetron i.v at single doses of 3 µg/kg and 10 µg/kg was investigated in the first clinical study in 72 patients in the following age groups, >28 days to 23 months (12 patients), 2 to 11 years (31 patients), and 12 to 17 years of age (29 patients), receiving highly or moderately emetogenic chemotherapy.
 No safety concerns were raised at either dose level.
 The primary efficacy variable was the proportion of patients with a complete response (CR, defined as no emetic episode and no rescue medication) during the first 24 hours after the start of chemotherapy administration.
 Efficacy after palonosetron 10 µg/kg compared to palonosetron 3µg/kg was 54.1% and 37.1% respectively.
+
+The efficacy of Aloxi for the prevention of chemotherapy-induced nausea and vomiting in paediatric cancer patients was demonstrated in a second non-inferiority pivotal trial comparing a single intravenous infusion of palonosetron versus an i.v. ondansetron regimen.
+A total of 493 paediatric patients, aged 64 days to 16.9 years, receiving moderately (69.2%) or highly emetogenic chemotherapy (30.8%) were treated with palonosetron 10 µg/kg (maximum 0.75 mg), palonosetron 20 µg/kg (maximum 1.5 mg) or ondansetron (3 x 0.15 mg/kg , maximum total dose 32 mg) 30 minutes prior to the start of emetogenic chemotherapy during Cycle 1.
+Most patients were non-naïve to chemotherapy (78.5%) across all treatment groups.
+Emetogenic chemotherapies administered included doxorubicin, cyclophosphamide (<1500 mg/m2), ifosfamide, cisplatin, dactinomycin, carboplatin, and daunorubicin.
+Adjuvant corticosteroids, including dexamethasone, were administered with chemotherapy in 55% of patients.
+The primary efficacy endpoint was Complete Response in the acute phase of the first cycle of chemotherapy, defined as no vomiting, no retching, and no rescue medication in the first 24 hours after starting chemotherapy.
+Efficacy was based on demonstrating non-inferiority of intravenous palonosetron compared to intravenous ondansetron.
+Non-inferiority criteria were met if the lower bound of the 97.5% confidence interval for the difference in Complete Response rates of intravenous palonosetron minus intravenous ondansetron was larger than -15%.
+In the palonosetron 10 µg/kg, 20 µg/kg and ondansetron groups, the proportion of patients with CR0-24h was 54.2%, 59.4% and 58.6%.
+Since the 97.5% confidence interval (stratum adjusted Mantel-Haenszel test) of the difference in CR0-24h between palonosetron 20 µg/kg and ondansetron was [-11.7%, 12.4%], the 20 µg/kg palonosetron dose demonstrated non-inferiority to ondansetron.
+
+While this study demonstrated that paediatric patients require a higher palonosetron dose than adults to prevent chemotherapy-induced nausea and vomiting, the safety profile is consistent with the established profile in adults (see section 4.8).
 Pharmacokinetic information is provided in section 5.2.
 
 Prevention of Post Operative Nausea and Vomiting (PONV):
-The safety and efficacy of Palonosetron i.v at single doses of 1µg/kg and 3µg/kg was compared in a clinical study in 150 patients in the following age groups, >28 days to 23 months (7 patients), 2 to 11 years (96 patients), and 12 to 16 years of age (47 patients) undergoing elective surgery.
+Two paediatric trials were performed.
+The safety and efficacy of Palonosetron i.v at single doses of 1µg/kg and 3µg/kg was compared in the first clinical study in 150 patients in the following age groups, >28 days to 23 months (7 patients), 2 to 11 years (96 patients), and 12 to 16 years of age (47 patients) undergoing elective surgery.
 No safety concerns were raised in either treatment group.
 The proportion of patients without emesis during 0-72 hours post-operatively was similar after palonosetron 1 µg/kg or 3 µg/kg (88% vs 84%).
+The second paediatric,trial was a multicenter, double-blind, double-dummy, randomised, parallel group, active control, single-dose non-inferiority study, comparing i.v. palonosetron (1 µg/kg, max 0.075 mg) versus I.V. ondansetron.
+A total of 670 paediatric surgical patients participated, age 30 days to 16.9 years.
+The primary efficacy endpoint, Complete Response (CR: no vomiting, no retching, and no antiemetic rescue medication) during the first 24 hours postoperatively was achieved in 78.2% of patients in the palonosetron group and 82.7% in the ondansetron group.
+Given the pre-specified non-inferiority margin of -10%, the stratum adjusted Mantel-Haenszel statistical non-inferiority confidence interval for the difference in the primary endpoint, complete response (CR), was [-10.5, 1.7%], therefore non-inferiority was not demonstrated.
+No new safety concerns were raised in either treatment group.
 
 Please see section 4.2 for information on paediatric use.
 
@@ -134,7 +154,6 @@ The majority of patients in the study were women (73 %), white (69 %), and naïv
 Efficacy was based on demonstrating non-inferiority of oral palonosetron doses compared to the approved intravenous formulation.
 Non-inferiority criteria were met if the lower bound of the two-sided 98.3 % confidence interval for the difference in complete response rates of oral palonosetron dose minus approved intravenous formulation was larger than -15 %.
 The non-inferiority margin was 15 %.
-
 As shown in Table 1, oral Aloxi capsules 500 micrograms demonstrated non-inferiority to the active comparator during the 0 to 24 hour and 0 to 120 hour time intervals; however, for the 24 to 120 hour time period, non-inferiority was not shown.
 
 Although comparative efficacy of palonosetron in multiple cycles has not been demonstrated in controlled clinical trials, 217 patients were enrolled in a multicentre, open label safety study and were treated with palonosetron capsules 750 micrograms for up to 4 cycles of chemotherapy in a total of 654 chemotherapy cycles.
@@ -164,3 +183,8 @@ A lower bound greater that -15 % demonstrates non-inferiority between Aloxi oral
 Significance levels at alpha 0.0167 (adjusted for multiple comparisons).
 
 No clinically significant changes were shown on heart rate, atrioventricular (AV) conduction and cardiac repolarization.
+
+The safety and efficacy of Palonosetron i.v at single doses of 3µg/kg and 10µg/kg was investigated in the first clinical study in 72 patients in the following age groups, >28 days to 23 months (12 patients), 2 to 11 years (31 patients), and 12 to 17 years of age (29 patients), receiving highly or moderately emetogenic chemotherapy.
+
+The second paediatric trial was a multicenter, double-blind, double-dummy, randomised, parallel group, active control, single-dose non-inferiority study, comparing i.v. palonosetron (1 µg/kg, max 0.075 mg) versus i.v. ondansetron.
+Given the pre-specified non-inferiority margin of -10%, the stratum adjusted Mantel-Haenszel statistical non-inferiority confidence interval for the difference in the primary endpoint, complete response (CR), was [-10.5, 1.7%], therefore non-inferiority was not demonstrated No new safety concerns were raised in either treatment group.
