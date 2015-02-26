@@ -2,7 +2,7 @@
 
 3 years
 
-[Ziagen 20 mg/ml oral solution]
+[Ziagen 20 mg/mL oral solution]
 
 2 years
 

@@ -25,7 +25,3 @@ Additionally, it is recommended that HIV infected women do not breast-feed their
 Fertility
 
 Studies in animals showed that abacavir had no effect on fertility (see section 5.3).
-
-[Ziagen 20 mg/ml oral solution]
-
-Abacavir and its metabolites are excreted secreted into the milk of lactating rats.

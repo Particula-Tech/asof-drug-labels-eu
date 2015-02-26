@@ -20,6 +20,7 @@ Additionally, autoinduction of abacavir metabolism or induction of the metabolis
 Mild myocardial degeneration in the heart of mice and rats was observed following administration of abacavir for two years.
 The systemic exposures were equivalent to 7 to 24 times the expected systemic exposure in humans.
 The clinical relevance of this finding has not been determined.
+
 In reproductive toxicity studies, embryo and foetal toxicity have been observed in rats but not in rabbits.
 These findings included decreased foetal body weight, foetal oedema, and an increase in skeletal variations/malformations, early intra-uterine deaths and still births.
 No conclusion can be drawn with regard to the teratogenic potential of abacavir because of this embryo-foetal toxicity.

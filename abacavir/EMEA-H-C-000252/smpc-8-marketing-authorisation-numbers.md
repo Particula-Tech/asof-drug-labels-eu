@@ -2,6 +2,6 @@
 
 EU/1/99/112/001
 
-[Ziagen 20 mg/ml oral solution]
+[Ziagen 20 mg/mL oral solution]
 
 EU/1/99/112/002

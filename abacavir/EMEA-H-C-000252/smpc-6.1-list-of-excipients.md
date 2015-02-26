@@ -1,19 +1,19 @@
 # 6.1 List of excipients
 
-Core:
+Tablet Core
 Microcrystalline cellulose
 Sodium starch glycollate
 Magnesium stearate
 Colloidal anhydrous silica
 
-Coating:
+Tablet Coating
 Triacetin
 Methylhydroxypropylcellulose
 Titanium dioxide
 Polysorbate 80
 Iron oxide yellow
 
-[Ziagen 20 mg/ml oral solution]
+[Ziagen 20 mg/mL oral solution]
 
 Sorbitol 70% (E420)
 Saccharin sodium

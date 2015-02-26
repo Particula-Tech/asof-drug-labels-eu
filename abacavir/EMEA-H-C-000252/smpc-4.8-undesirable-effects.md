@@ -60,6 +60,7 @@ Moreover, on very rare occasions hypersensitivity reactions have been reported i
 In both cases, if a decision is made to restart Ziagen this must be done in a setting where medical assistance is readily available.
 
 Each patient must be warned about this hypersensitivity reaction to abacavir.
+
 For many of the other adverse reactions reported, it is unclear whether they are related to Ziagen, to the wide range of medicinal products used in the management of HIV infection or as a result of the disease process.
 
 Many of those listed below occur commonly (nausea, vomiting, diarrhoea, fever, lethargy, rash) in patients with abacavir hypersensitivity.
@@ -91,7 +92,6 @@ Common: fever, lethargy, fatigue
 Cases of lactic acidosis, sometimes fatal, usually associated with severe hepatomegaly and hepatic steatosis, have been reported with the use of nucleoside analogues (see section 4.4).
 
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump).
-
 Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
 
 In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART) an inflammatory reaction to asymptomatic or residual opportunistic infections may arise.
@@ -101,14 +101,21 @@ Cases of osteonecrosis have been reported, particularly in patients with general
 The frequency of this is unknown (see section 4.4).
 
 Laboratory abnormalities
+
 In controlled clinical studies laboratory abnormalities related to Ziagen treatment were uncommon, with no differences in incidence observed between Ziagen treated patients and the control arms.
 
+Paediatric population
+
+1206 HIV-infected paediatric patients aged 3 months to 17 years were enrolled in the ARROW Trial (COL105677), 669 of whom received abacavir and lamivudine either once or twice daily (see section 5.1).
+No additional safety issues have been identified in paediatric subjects receiving either once or twice daily dosing compared to adults.
+
 Reporting of suspected adverse reactions
+
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
-[Ziagen 20 mg/ml oral solution]
+[Ziagen 20 mg/mL oral solution]
 
 Respiratory tract Dyspnoea, cough, sore throat, adult respiratory distress syndrome,
 
