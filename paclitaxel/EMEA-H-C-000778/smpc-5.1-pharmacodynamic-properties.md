@@ -35,7 +35,7 @@ Seventy-seven percent of the patients had been previously exposed to anthracycli
 
 Results for overall response rate and time to disease progression, and progression-free survival and survival for patients receiving > 1st-line therapy, are shown below.
 
-Table 7: Results for overall response rate, median time to disease progression, and progression-free survival as assessed by the investigator
+Table 10: Results for overall response rate, median time to disease progression, and progression-free survival as assessed by the investigator
 
 | Efficacy variable | Abraxane (260 mg/m2) | Solvent-based paclitaxel (175 mg/m2) | p-value |
 | --- | --- | --- | --- |
@@ -51,7 +51,7 @@ Table 7: Results for overall response rate, median time to disease progression, 
 *This data is based on Clinical Study Report: CA012-0 Addendum dated Final (23 March-2005) a Chi-squared test b Log-rank test
 
 Two hundred and twenty nine patients treated with Abraxane in the randomized, controlled clinical trial were evaluated for safety.
-Neurotoxicity to paclitaxel was evaluated through improvement by one grade for patients experiencing grade 3 peripheral neuropathy at any time during therapy.
+Neurotoxicity to paclitaxel was evaluated through improvement by one grade for patients experiencing Grade 3 peripheral neuropathy at any time during therapy.
 The natural course of peripheral neuropathy to resolution to baseline due to cumulative toxicity of Abraxane after > 6 courses of treatment was not evaluated and remains unknown.
 
 Pancreatic adenocarcinoma
@@ -72,7 +72,7 @@ A higher median cumulative dose of gemcitabine was delivered in the Abraxane/gem
 The primary efficacy endpoint was overall survival (OS).
 The key secondary endpoints were progression-free survival (PFS) and overall response rate (ORR), both assessed by independent, central, blinded radiological review using RECIST guidelines (Version 1.0).
 
-Table 8: Efficacy results from randomized study in patients with pancreatic adenocarcinoma (Intent-to-treat population)
+Table 11: Efficacy results from randomized study in patients with pancreatic adenocarcinoma (Intent-to-treat population)
 
 |  | Abraxane(125 mg/m2)/gemcitabine (N=431) | Gemcitabine (N=430) |
 | --- | --- | --- |
@@ -100,7 +100,7 @@ CI = confidence interval, HRA+G/G = hazard ratio of Abraxane+gemcitabine/gemcita
 
 There was a statistically significant improvement in OS for patients treated with Abraxane/gemcitabine versus gemcitabine alone, with 1.8 months increase in median OS, 28% overall reduction in risk of death, 59% improvement in 1-year survival, and 125% improvement in 2-year survival rates.
 
-Figure 1: Kaplan-Meier Curve of Overall Survival (Intent-to-treat Population)
+Figure 1: Kaplan-Meier curve of overall survival (intent-to-treat population)
 
 1.0 ABRAXANE+Gemcitabine 0.9 Gemcitabine
 
@@ -123,7 +123,7 @@ Proportion
 0.0
 
 (PT at Risk)
-A BX/GEM :
+ABX/GEM :
 GEM :
 Time (months)
 
@@ -134,5 +134,54 @@ For patients with normal baseline CA 19-9 levels the survival HR was 1.07 (95% C
 
 There was a statistically significant improvement in PFS for patients treated with Abraxane/gemcitabine versus gemcitabine alone, with 1.8 months increase in median PFS.
 
+Non-small cell lung cancer
+A multicenter, randomized, open-label study was conducted in 1052 chemotherapy-naive patients with Stage IIIb/IV non-small cell lung cancer.
+The study compared Abraxane in combination with carboplatin versus solvent-based paclitaxel in combination with carboplatin as first-line treatment in patients with advanced non-small cell lung cancer.
+Over 99% of patients had an ECOG (Eastern Cooperative Oncology Group) performance status of 0 or 1.
+Patients with pre-existing neuropathy of Grade ≥ 2 or serious medical risk factors involving any of the major organ systems were excluded.
+Abraxane was administered to patients (N=521) as an intravenous infusion over 30 minutes at a dose of 100 mg/m2 on Days 1, 8 and 15 of each 21-day cycle without any steroid premedication and without granulocyte colony stimulating factor prophylaxis.
+Beginning immediately after the end of Abraxane administration, carboplatin at a dose of AUC = 6 mg•min/mL was administered intravenously on Day 1 only of each 21-day cycle.
+Solvent-based paclitaxel was administered to patients (N=531) at a dose of 200 mg/m2 as an intravenous infusion over 3 hours with standard premedication, immediately followed by carboplatin administered intravenously at AUC = 6 mg•min/mL.
+Each drug was administered on Day 1 of each 21-day cycle.
+In both study arms treatment was administered until disease progression or development of an unacceptable toxicity.
+Patients received a median of 6 cycles of treatment in both study arms.
+
+The primary efficacy endpoint was overall response rate defined as the percentage of patients who achieved an objective confirmed complete response or partial response based on an independent, central, blinded radiological review using RECIST (Version 1.0).
+Patients in the Abraxane/carboplatin arm had a significantly higher overall response rate compared with patients in the control arm: 33% versus 25%, p = 0.005 (Table 12).
+There was a significant difference in overall response rate in the Abraxane/carboplatin arm compared to the control arm in patients with non-small cell lung cancer of squamous histology (N=450, 41% vs. 24%, p<0.001), however this difference did not translate into a difference in PFS or OS.
+There was no difference in ORR between the treatment arms in patients with non-squamous histology (N=602, 26% vs 25%, p=0.808).
+
+Table 12: Overall response rate in randomized non-small cell lung cancer trial (intent-to-treat population)
+
+| Efficacy Parameter | Abraxane (100 mg/m2/week) + carboplatin (N=521) | Solvent-based paclitaxel (200 mg/m2 every 3 weeks) + carboplatin (N=531) |
+| --- | --- | --- |
+| Overall Response Rate (independent review) |  |  |
+| Confirmed complete or partial overall response, n (%) | 170 (33%) | 132 (25%) |
+| 95% CI (%) | 28.6, 36.7 | 21.2, 28.5 |
+| pA/pT (95.1% CI) | 1.313 (1.082, 1.593) |  |
+| P-valuea | 0.005 |  |
+
+CI = confidence interval; HRA/T = hazard ratio of Abraxane/carboplatin to solvent-based paclitaxel/carboplatin; pA/pT = response rate ratio of Abraxane/carboplatin to solvent-based paclitaxel/carboplatin.
+a P-value is based on a chi-square test.
+
+There was no statistically significant difference in progression-free survival (by blinded radiologist assessment) and overall survival between the two treatment arms.
+A non-inferiority analysis was conducted for PFS and OS, with a pre-specified non-inferiority margin of 15%.
+The non-inferiority criterion was met for both PFS and OS with the upper bound of the 95% confidence interval for the associated hazard ratios being less than 1.176 (Table 13).
+Table 13: Non-inferiority analyses on progression-free survival and overall survival in randomized non-small cell lung cancer trial (intent-to-treat population)
+
+| Efficacy Parameter | Abraxane (100 mg/m2/week) + carboplatin (N=521) | Solvent-based paclitaxel (200 mg/m2 every 3 weeks) + carboplatin (N=531) |
+| --- | --- | --- |
+| Progression-free Survivala (independent review) |  |  |
+| Death or progression, n (%) | 429 (82%) | 442 (83%) |
+| Median PFS (95% CI) (months) | 6.8 (5.7, 7.7) | 6.5 (5.7, 6.9) |
+| HRA/T (95% CI) | 0.949 (0.830, 1.086) |  |
+| Overall Survival |  |  |
+| Number of deaths, n (%) | 360 (69%) | 384 (72%) |
+| Median OS (95% CI) (months) | 12.1 (10.8, 12.9) | 11.2 (10.3, 12.6) |
+| HRA/T (95.1% CI) | 0.922 (0.797, 1.066) |  |
+
+CI = confidence interval; HRA/T = hazard ratio of Abraxane/carboplatin to solvent-based paclitaxel/carboplatin; pA/pT = response rate ratio of Abraxane/carboplatin to solvent-based paclitaxel/carboplatin.
+a Per EMA methodological considerations for PFS endpoint, missing observations or initiation of subsequent new therapy were not used for censoring.
+
 Paediatric population
-The European Medicines Agency has waived the obligation to submit the results of studies with Abraxane in all subsets of the paediatric population in the treatment of metastatic breast cancer and pancreatic adenocarcinoma (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with Abraxane in all subsets of the paediatric population in the treatment of metastatic breast cancer, pancreatic adenocarcinoma and non-small cell lung cancer (see section 4.2 for information on paediatric use).

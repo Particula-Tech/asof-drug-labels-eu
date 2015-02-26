@@ -3,16 +3,17 @@
 Summary of the safety profile
 The most common clinically significant adverse reactions associated with the use of Abraxane have been neutropenia, peripheral neuropathy, arthralgia/myalgia and gastrointestinal disorders.
 
-The frequencies of adverse reactions associated with the administration of Abraxane are listed in Table 4 (Abraxane as monotherapy) and Table 5 (Abraxane in combination with gemcitabine).
+The frequencies of adverse reactions associated with the administration of Abraxane are listed in Table 6 (Abraxane as monotherapy) and Table 7 (Abraxane in combination with gemcitabine), and Table 9 (Abraxane in combination with carboplatin).
 
 Frequencies are defined as: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1000 to <1/100), rare (≥1/10,000 to <1/1000), very rare (<1/10,000).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
 Breast cancer (Abraxane administered as monotherapy)
 
 Tabulated list of adverse reactions
-Table 4 lists adverse reactions associated with the administration of Abraxane to patients from studies in which Abraxane has been administered as monotherapy at any dose in any indication (N = 789).
+Table 6 lists adverse reactions associated with the administration of Abraxane to patients from studies in which Abraxane has been administered as monotherapy at any dose in any indication (N = 789).
 
-Table 4: Adverse reactions reported with Abraxane monotherapy at any dose in clinical studies
+Table 6: Adverse reactions reported with Abraxane monotherapy at any dose in clinical studies
 
 | Infections and infestations | Common: Infection, urinary tract infection, folliculitis, upper respiratory tract infection, candidiasis, sinusitis Uncommon: Oral candidiasis, nasopharyngitis, cellulitis, herpes simplex, viral infection, pneumonia, catheter-related infection, fungal infection, herpes zoster, injection site infection, sepsis2, neutropenic sepsis2 |
 | --- | --- |
@@ -60,6 +61,7 @@ Peripheral neuropathy (mostly Grade 1 or 2 sensory neuropathy) was observed in 6
 
 Gastrointestinal disorders
 Nausea occurred in 29% of the patients and diarrhoea in 25% of the patients.
+
 Skin and subcutaneous tissue disorders
 Alopecia was observed in >80% of the patients treated with Abraxane.
 The majority of alopecia events occurred less than one month after initiation of Abraxane.
@@ -77,30 +79,33 @@ Pancreatic adenocarcinoma (Abraxane administered in combination with gemcitabine
 
 Tabulated list of adverse reactions
 Adverse reactions were assessed in 421 patients treated with Abraxane in combination with gemcitabine and 402 gemcitabine monotherapy-treated patients receiving first-line systemic treatment for metastatic adenocarcinoma of the pancreas in a phase III randomized, controlled, open-label trial.
-Table 5 lists adverse reactions assessed in patients with pancreatic adenocarcinoma treated with Abraxane in combination with gemcitabine.
+Table 7 lists adverse reactions assessed in patients with pancreatic adenocarcinoma treated with Abraxane in combination with gemcitabine.
 
-Table 5: Adverse reactions reported with Abraxane in combination with gemcitabine (N =421)
+Table 7: Adverse reactions reported with Abraxane in combination with gemcitabine (N =421)
 
-| Infections and infestations | Common: Sepsis, pneumonia, oral candidiasis |
-| --- | --- |
+Infections and Common: Sepsis, pneumonia, oral candidiasis
+infestations
+
 | Blood and lymphatic system disorders | Very common: Neutropenia, anaemia, thrombocytopenia Common: Pancytopenia Uncommon: Thrombotic thrombocytopenic purpura |
+| --- | --- |
 | Metabolism and nutrition disorders | Very common: Dehydration, decreased appetite, hypokalaemia |
 | Psychiatric disorders | Very common: Insomnia, depression Common: Anxiety |
-| Nervous system disorders | Very common: Peripheral neuropathya, dysgeusia, headache, dizziness Uncommon: VIIth nerve paralysis |
+| Nervous system disorders | Very common: Peripheral neuropathy1, dysgeusia, headache, dizziness Uncommon: VIIth nerve paralysis |
 | Eye disorders | Common: Lacrimation increased Uncommon: Cystoid macular oedema |
 | Cardiac disorders | Common: Cardiac failure congestive, tachycardia |
 | Vascular disorders | Common: Hypotension, hypertension |
-| Respiratory, thoracic and mediastinal disorders | Very Common: Dyspnoea, epistaxis, cough Common: Pneumonitis, nasal congestion Uncommon: Dry throat, nasal dryness |
-| Gastrointestinal disorders | Very Common: Nausea, diarrhoea, vomiting, constipation, abdominal pain, abdominal pain upper Common: Stomatitis, intestinal obstruction, colitis, dry mouth |
+| Respiratory, thoracic and mediastinal disorders | Very common: Dyspnoea, epistaxis, cough Common: Pneumonitis2, nasal congestion Uncommon: Dry throat, nasal dryness |
+| Gastrointestinal disorders | Very common: Nausea, diarrhoea, vomiting, constipation, abdominal pain, abdominal pain upper Common: Stomatitis, intestinal obstruction, colitis, dry mouth |
 | Hepatobiliary disorders | Common: Cholangitis |
-| Skin and subcutaneous tissue disorders | Very Common: Alopecia, rash Common: Pruritus, dry skin, nail disorder, flushing |
+| Skin and subcutaneous tissue disorders | Very common: Alopecia, rash Common: Pruritus, dry skin, nail disorder, flushing |
 | Musculoskeletal and connective tissue disorders | Very common: Pain in extremity, arthralgia, myalgia Common: Muscular weakness, bone pain |
 | Renal and urinary disorders | Common: Acute renal failure Uncommon: Haemolytic uraemic syndrome |
 | General disorders and administration site conditions | Very common: Fatigue, oedema peripheral, pyrexia, asthenia, chills Common: Infusion site reaction |
 | Investigations | Very common: Weight decreased, alanine aminotransferase increased Common: Aspartate aminotransferase increased, blood bilirubin increased, blood creatinine increased |
 
 MedDRA = Medical Dictionary for Regulatory Activities; SMQ = Standardized MedDRA Query (a grouping of several MedDRA preferred terms to capture a medical concept).
-a Peripheral neuropathy evaluated using the Standardized MedDRA Query (broad scope).
+1 Peripheral neuropathy evaluated using the SMQ (broad scope).
+2 Pneumonitis is evaluated using the SMQ interstitial lung disease (broad scope)
 
 In this phase III randomized, controlled, open-label trial, adverse reactions resulting in death within 30 days of the last dose of study drug were reported for 4% of patients receiving Abraxane in combination with gemcitabine and for 4% of patients receiving gemcitabine monotherapy.
 
@@ -108,9 +113,9 @@ Description of selected adverse reactions
 The following are the most common and important incidences of adverse reactions related to 421 patients with metastatic adenocarcinoma of the pancreas who were treated with 125 mg/m2 Abraxane in combination with gemcitabine at a dose of 1000 mg/m2 given on Days 1, 8 and 15 of each 28-day cycle in the phase III clinical study.
 
 Blood and lymphatic system disorders
-Table 6 provides the frequency and severity of haematologic laboratory-detected abnormalities for patients treated with Abraxane in combination with gemcitabine or with gemcitabine.
+Table 8 provides the frequency and severity of haematologic laboratory-detected abnormalities for patients treated with Abraxane in combination with gemcitabine or with gemcitabine.
 
-Table 6: Haematologic laboratory-detected abnormalities in pancreatic adenocarcinoma trial
+Table 8: Haematologic laboratory-detected abnormalities in pancreatic adenocarcinoma trial
 
 |  | Abraxane(125 mg/m2)/ Gemcitabine |  | Gemcitabine |  |
 | --- | --- | --- | --- | --- |
@@ -121,11 +126,11 @@ Table 6: Haematologic laboratory-detected abnormalities in pancreatic adenocarci
 
 a 405 patients assessed in Abraxane/gemcitabine-treated group b 388 patients assessed in gemcitabine-treated group c 404 patients assessed in Abraxane/gemcitabine-treated group
 
-Peripheral Neuropathy
-For patients treated with Abraxane in combination with gemcitabine, the median time to first occurrence of grade 3 peripheral neuropathy was 140 days.
-The median time to improvement by at least 1 grade was 21 days, and the median time to improvement from grade 3 peripheral neuropathy to Grade 0 or 1 was 29 days.
+Peripheral neuropathy
+For patients treated with Abraxane in combination with gemcitabine, the median time to first occurrence of Grade 3 peripheral neuropathy was 140 days.
+The median time to improvement by at least 1 grade was 21 days, and the median time to improvement from Grade 3 peripheral neuropathy to Grade 0 or 1 was 29 days.
 Of the patients with treatment interrupted due to peripheral neuropathy, 44% (31/70 patients) were able to resume Abraxane at a reduced dose.
-No patients treated with Abraxane in combination with gemcitabine had grade 4 peripheral neuropathy.
+No patients treated with Abraxane in combination with gemcitabine had Grade 4 peripheral neuropathy.
 
 Sepsis
 Sepsis was reported at a rate of 5% in patients with or without neutropenia who received Abraxane in combination with gemcitabine during the conduct of a trial in pancreatic adenocarcinoma.
@@ -138,6 +143,43 @@ Pneumonitis has been reported at a rate of 4% with the use of Abraxane in combin
 Of the 17 cases of pneumonitis reported in patients treated with Abraxane in combination with gemcitabine, 2 had a fatal outcome.
 Monitor patients closely for signs and symptoms of pneumonitis.
 After ruling out infectious etiology and upon making a diagnosis of pneumonitis, permanently discontinue treatment with Abraxane and gemcitabine and promptly initiate appropriate treatment and supportive measures (see section 4.2).
+
+Non-small cell lung cancer (Abraxane administered in combination with carboplatin)
+
+Tabulated list of adverse reactions
+Table 9 lists adverse reactions associated with the administration of Abraxane in combination with carboplatin.
+
+Table 9: Adverse reactions reported with Abraxane in combination with carboplatin (N = 514)
+
+| Infections and infestations | Common: Pneumonia, bronchitis, upper respiratory tract infection, urinary tract infection Uncommon: Sepsis, oral candidiasis |
+| --- | --- |
+| Blood and lymphatic system disorders1 | Very common: Neutropenia1, thrombocytopenia1, anaemia1, leukopenia1 Common: Febrile neutropenia, lymphopenia Uncommon: Pancytopenia |
+| Immune system disorders | Uncommon: Drug hypersensitivity, hypersensitivity |
+| Metabolism and nutrition disorders | Very common: Decreased appetite Common: Dehydration |
+| Psychiatric disorders | Common: Insomnia |
+| Nervous system disorders | Very common: Peripheral neuropathy2 Common: Dysgeusia, headache, dizziness |
+| Eye disorders | Common: Vision blurred |
+| Vascular disorders | Common: Hypotension, hypertension Uncommon: Flushing |
+| Respiratory thoracic and mediastinal disorders | Very common: Dyspnoea Common: Haemoptysis, epistaxis, cough Uncommon: Pneumonitis3 |
+| Gastrointestinal disorders | Very common: Diarrhoea, vomiting, nausea, constipation Common: Stomatitis, dyspepsia, abdominal pain, dysphagia |
+| Hepatobiliary disordesrs | Common: Hyperbilirubinaemia |
+| Skin and subcutaneous tissue disorders | Very common: Rash, alopecia Common: Pruritus, nail disorder Uncommon: Skin exfoliation, dermatitis allergic, urticaria |
+| Musculoskeletal and connective tissue disorders | Very common: Arthralgia, myalgia Common: Back pain, pain in extremity, musculoskeletal pain |
+| General disorders and administration site conditions | Very common: Fatigue, asthenia, oedema peripheral Common: Pyrexia, chest pain Uncommon: Mucosal inflammation, infusion site extravasation, infusion site inflammation, infusion site rash |
+| Investigations | Common: Alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, weight decreased |
+
+MedDRA = Medical Dictionary for Regulatory Activities: SMQ = Standardized MedDRA Query 1 Based on laboratory assessments: maximal degree of myelosuppression (treated population)
+2 Peripheral neuropathy is evaluated using the SMQ neuropathy (broad scope)
+3 Pneumonitis is evaluated using the SMQ interstitial lung disease (broad scope)
+
+For non-small cell lung cancer patients treated with Abraxane and carboplatin, the median time to first occurrence of Grade 3 treatment related peripheral neuropathy was 121 days, and the median time to improvement from Grade 3 treatment related peripheral neuropathy to Grade 1 was 38 days.
+No patients treated with Abraxane and carboplatin experienced Grade 4 peripheral neuropathy.
+
+Anemia and thrombocytopenia were more commonly reported in the Abraxane arm than in the Taxol arm (54% versus 28% and 45% versus 27% respectively).
+
+Patient-reported taxane toxicity was assessed using the 4 subscales of the Functional Assessment of Cancer Therapy (FACT)-Taxane questionnaire.
+Using repeated measure analysis, 3 of the 4 subscales (peripheral neuropathy, pain hands/feet, and hearing) favored Abraxane and carboplatin (p ≤ 0.002).
+For the other subscale (oedema), there was no difference in the treatment arms.
 
 Post-marketing experience
 Cranial nerve palsies, vocal cord paresis, and rare reports of severe hypersensitivity reactions have been reported during post-marketing surveillance of Abraxane.

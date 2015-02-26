@@ -17,12 +17,11 @@ The fraction of free paclitaxel was significantly higher with Abraxane (6.2%) th
 This resulted in significantly higher exposure to unbound paclitaxel with Abraxane compared with solvent-based paclitaxel, even though the total exposure is comparable.
 This is possibly due to paclitaxel not being trapped in Cremophor EL micelles as with solvent-based paclitaxel.
 Based on the published literature, in vitro studies of binding to human serum proteins, (using paclitaxel at concentrations ranging from 0.1 to 50 µg/ml), indicate that the presence of cimetidine, ranitidine, dexamethasone, or diphenhydramine did not affect protein binding of paclitaxel.
-
 Based on population pharmacokinetic analysis, the total volume of distribution is approximately 1741 L; the large volume of distribution indicates extensive extravascular distribution and/or tissue binding of paclitaxel.
 
 Biotransformation and elimination
 Based on the published literature, in vitro studies with human liver microsomes and tissue slices show that paclitaxel is metabolised primarily to 6α-hydroxypaclitaxel; and to two minor metabolites, 3’-p-hydroxypaclitaxel and 6α-3’-p-dihydroxypaclitaxel.
-The formation of these hydroxylated metabolites is catalysed by CYP2C8, CYP3A4, and both CYP2C8 and CYP3A4, respectively.
+The formation of these hydroxylated metabolites is catalysed by CYP2C8, CYP3A4, and both CYP2C8 and CYP3A4 isoenzymes, respectively.
 
 In patients with metastatic breast cancer, after a 30-minute infusion of Abraxane at 260 mg/m2, the mean value for cumulative urinary excretion of unchanged active substance accounted for 4% of the total administered dose with less than 1% as the metabolites 6α-hydroxypaclitaxel and 3’-p-hydroxypaclitaxel, indicating extensive non-renal clearance.
 Paclitaxel is principally eliminated by hepatic metabolism and biliary excretion.
@@ -48,7 +47,6 @@ Pharmacokinetic data are insufficient for patients with severe renal impairment 
 
 Older people
 Population pharmacokinetic analysis for Abraxane included patients with ages ranging from 24 to 85 years old and shows that age does not significantly influence the maximum elimination rate and systemic exposure (AUC and Cmax) of paclitaxel.
-
 Pharmacokinetic/pharmacodynamic modelling using data from 125 patients with advanced solid tumours indicates that patients ≥ 65 years of age may be more susceptible to development of neutropenia within the first treatment cycle, although the plasma paclitaxel exposure is not affected by age.
 
 Other intrinsic factors

@@ -15,11 +15,11 @@ Patients should not be retreated with subsequent cycles of Abraxane until neutro
 
 Neuropathy
 Sensory neuropathy occurs frequently with Abraxane, although development of severe symptoms is less common.
-The occurrence of grade 1 or 2 sensory neuropathy does not generally require dose reduction.
-When Abraxane is used as monotherapy, if grade 3 sensory neuropathy develops, treatment should be withheld until resolution to grade 1 or 2 followed by a dose reduction for all subsequent courses of Abraxane is recommended (see section 4.2).
-For combination use of Abraxane and gemcitabine, if grade 3 or higher peripheral neuropathy develops, withhold Abraxane; continue treatment with gemcitabine at the same dose.
+The occurrence of Grade 1 or 2 sensory neuropathy does not generally require dose reduction.
+When Abraxane is used as monotherapy, if Grade 3 sensory neuropathy develops, treatment should be withheld until resolution to Grade 1 or 2 followed by a dose reduction for all subsequent courses of Abraxane is recommended (see section 4.2).
+For combination use of Abraxane and gemcitabine, if Grade 3 or higher peripheral neuropathy develops, withhold Abraxane; continue treatment with gemcitabine at the same dose.
 Resume Abraxane at reduced dose when peripheral neuropathy improves to Grade 0 or 1 (see section 4.2).
-
+For combination use of Abraxane and carboplatin, if Grade 3 or higher peripheral neuropathy develops, treatment should be withheld until improvement to Grade 0 or 1 followed by a dose reduction for all subsequent courses of Abraxane and carboplatin (see section 4.2).
 Sepsis
 Sepsis was reported at a rate of 5% in patients with or without neutropenia who received Abraxane in combination with gemcitabine.
 Complications due to the underlying pancreatic cancer, especially biliary obstruction or presence of biliary stent, were identified as significant contributing factors.
@@ -53,7 +53,7 @@ If patients experience nausea, vomiting and diarrhoea following the administrati
 Patients 75 years and older
 For patients of 75 years and older, no benefit for the combination treatment of Abraxane and gemcitabine in comparison to gemcitabine monotherapy has been demonstrated.
 In the very elderly (≥75 years) who received Abraxane and gemcitabine, there was a higher incidence of serious adverse reactions and adverse reactions that led to treatment discontinuation including haematologic toxicities, peripheral neuropathy, decreased appetite and dehydration.
-Patients with pancreatic adenocarcinoma aged 75 years and older should be carefully assessed for their ability to tolerate Abraxane in combination with gemcitabine with special consideration to performance status, co-morbidities and increased risk of infections (see section 4.2 and 4.8)
+Patients with pancreatic adenocarcinoma aged 75 years and older should be carefully assessed for their ability to tolerate Abraxane in combination with gemcitabine with special consideration to performance status, co-morbidities and increased risk of infections (see section 4.2 and 4.8).
 
 Other
 Although limited data is available, no clear benefit in terms of prolonged overall survival has been demonstrated in pancreatic adenocarcinoma patients with normal CA 19-9 levels prior to start of treatment with Abraxane and gemcitabine (see section 5.1).
