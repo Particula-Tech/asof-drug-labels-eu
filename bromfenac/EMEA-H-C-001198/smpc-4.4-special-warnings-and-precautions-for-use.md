@@ -22,6 +22,8 @@ Topical NSAIDs should be used with caution in these patients.
 There have been reports that ophthalmic NSAIDs may cause increased bleeding of ocular tissues (including hyphaema) in conjunction with ocular surgery.
 Yellox should be used with caution in patients with known bleeding tendencies or who are receiving other medicinal products which may prolong bleeding time.
 
+It has been observed in rare cases that upon withdrawal of Yellox, a flare-up of the inflammatory response, e.g. in the form of macular oedema, due to the cataract operation may occur.
+
 Ocular infection
 An acute ocular infection may be masked by the topical use of anti-inflammatory medicinal products.
 
