@@ -17,4 +17,11 @@ The nucleoside analogues (e.g. didanosine) like zidovudine, are not eliminated b
 A modest increase in Cmax (28 %) was observed for zidovudine when administered with lamivudine, however overall exposure (AUC) is not significantly altered.
 Zidovudine has no effect on the pharmacokinetics of lamivudine (see section 5.2).
 
+Due to similarities, Epivir should not be administered concomitantly with other cytidine analogues, such as emtricitabine.
+Moreover, Epivir should not be taken with any other medicinal products containing lamivudine (see section 4.4).
+
+In vitro lamivudine inhibits the intracellular phosphorylation of cladribine leading to a potential risk of cladribine loss of efficacy in case of combination in the clinical setting.
+Some clinical findings also support a possible interaction between lamivudine and cladribine.
+Therefore, the concomitant use of lamivudine with cladribine is not recommended (see section 4.4).
+
 Lamivudine metabolism does not involve CYP3A, making interactions with medicinal products metabolised by this system (e.g. PIs) unlikely.

@@ -13,13 +13,13 @@ Very rare: Pure red cell aplasia
 Nervous system disorders
 Common: Headache, insomnia
 Very rare: peripheral neuropathy (or paraesthesia)
+
 Respiratory, thoracic and mediastinal disorders
 Common: Cough, nasal symptoms
 
 Gastrointestinal disorders
 Common: Nausea, vomiting, abdominal pain or cramps, diarrhoea
 Rare: Pancreatitis. elevations in serum amylase.
-
 Hepatobiliary disorders
 Uncommon: Transient elevations in liver enzymes (AST, ALT).
 Rare: Hepatitis
@@ -46,6 +46,16 @@ Autoimmune disorders (such as Graves’ disease) have also been reported to occu
 
 Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term combined antiretroviral exposure (cART).
 The frequency of which is unknown (see section 4.4).
+
+Paediatric population
+
+1206 HIV-infected paediatric patients aged 3 months to 17 years were enrolled in the ARROW Trial (COL105677), 669 of whom received abacavir and lamivudine either once or twice daily (see section 5.1).
+No additional safety issues have been identified in paediatric subjects receiving either once or twice daily dosing compared to adults.
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 [Epivir 10 mg/ml oral solution]
 

@@ -1,14 +1,15 @@
 # 4.4 Special warnings and precautions for use
 
+While effective viral suppression with antiretroviral therapy has been proven to substantially reduce the risk of sexual transmission, a residual risk cannot be excluded.
+Precautions to prevent transmission should be taken in accordance with national guidelines.
+
 Epivir is not recommended for use as monotherapy.
 
 Renal impairment: In patients with moderate to severe renal impairment, the terminal plasma half-life of lamivudine is increased due to decreased clearance, therefore the dose should be adjusted (see section 4.2).
+
 Triple nucleoside therapy: There have been reports of a high rate of virological failure and of emergence of resistance at an early stage when lamivudine was combined with tenofovir disoproxil fumarate and abacavir as well as with tenofovir disoproxil fumarate and didanosine as a once daily regimen.
 
 Opportunistic infections: Patients receiving Epivir or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of HIV infection, and therefore should remain under close clinical observation by physicians experienced in the treatment of patients with associated HIV diseases.
-
-Transmission of HIV: Patients should be advised that current antiretroviral therapy, including Epivir, has not been proven to prevent the risk of transmission of HIV to others through sexual contact or contamination with blood.
-Appropriate precautions should continue to be taken.
 
 Pancreatitis: Cases of pancreatitis have occurred rarely.
 However it is not clear whether these cases were due to the antiretroviral treatment or to the underlying HIV disease.
@@ -27,7 +28,6 @@ Caution should be exercised when administering nucleoside analogues to any patie
 Patients co-infected with hepatitis C and treated with alpha interferon and ribavirin may constitute a special risk.
 
 Patients at increased risk should be followed closely.
-
 Mitochondrial dysfunction: Nucleoside and nucleotide analogues have been demonstrated in vitro and in vivo to cause a variable degree of mitochondrial damage.
 There have been reports of mitochondrial dysfunction in HIV-negative infants exposed in utero and/or post-natally to nucleoside analogues.
 The main adverse events reported are haematological disorders (anaemia, neutropenia), metabolic disorders (hyperlactatemia, hyperlipasemia).
@@ -64,8 +64,9 @@ If there is evidence of worsening liver disease in such patients, interruption o
 
 Osteonecrosis: Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
+Epivir should not be taken with any other medicinal products containing lamivudine or medicinal products containing emtricitabine (see section 4.5).
 
-Epivir should not be taken with any other medicinal products containing lamivudine or medicinal products containing emtricitabine.
+The combination of lamivudine with cladribine is not-recommended (see section 4.5).
 
 [Epivir 10 mg/ml oral solution]
 
