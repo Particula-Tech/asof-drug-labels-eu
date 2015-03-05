@@ -9,13 +9,15 @@ The time to maximum concentration (Tmax) remained constant at approximately 4 ho
 Renal clearance averaged less than 0.1 l/h and was relatively constant throughout the dosage range.
 
 The pharmacokinetic parameters observed with various dosing schemes of ritonavir alone are shown in the table below.
-
 Ritonavir Dosing Regimen
-100 mg once 100 mg twice 200 mg once 200 mg twice 600 mg twice
+100 mg 100 mg twice 200 mg once 200 mg twice 600 mg twice
 
-daily daily1 daily daily daily
+once daily daily1 daily daily daily
 Cmax (µg/ml) 0.84 ± 0.39 0.89 3.4 ± 1.3 4.5 ± 1.3 11.2 ± 3.6
-Ctrough (µg/ml) 0.08 ± 0.04 0.22 0.16 ± 0.10 0.6 ± 0.2 3.7 ± 2.6
+Ctrough 0.08 ± 0.04 0.22 0.16 ± 0.10 0.6 ± 0.2 3.7 ± 2.6
+
+(µg/ml)
+
 AUC12 or 24 6.6 ± 2.4 6.2 20.0 ± 5.6 21.92 ± 6.48 77.5 ± 31.5
 
 (µg•h/ml)
@@ -55,9 +57,8 @@ This was consistent with the observations in animal studies.
 Special Populations: No clinically significant differences in AUC or Cmax were noted between males and females.
 Ritonavir pharmacokinetic parameters were not statistically significantly associated with body weight or lean body mass.
 Ritonavir plasma exposures in patients 50 – 70 years of age when dosed 100 mg in combination with lopinavir or at higher doses in the absence of other protease inhibitors is similar to that observed in younger adults.
-
-Patients with impaired liver function: After multiple dosing of ritonavir to healthy volunteers (500 mg twice daily) and subjects with mild to moderate hepatic impairment (Child Pugh Class A and B,
-400 mg twice daily) exposure to ritonavir after dose normalisation was not significantly different between the two groups.
+Patients with impaired liver function: After multiple dosing of ritonavir to healthy volunteers
+(500 mg twice daily) and subjects with mild to moderate hepatic impairment (Child Pugh Class A and B, 400 mg twice daily) exposure to ritonavir after dose normalisation was not significantly different between the two groups.
 
 Patients with impaired renal function: Ritonavir pharmacokinetic parameters have not been studied in patients with renal impairment.
 However, since the renal clearance of ritonavir is negligible, no changes in the total body clearance are expected in patients with renal impairment.

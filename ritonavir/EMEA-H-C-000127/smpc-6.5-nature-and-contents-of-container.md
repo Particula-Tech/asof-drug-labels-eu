@@ -8,6 +8,7 @@ Two pack sizes are available for Norvir oral solution:
 - Multipack containing 450 ml (5 bottles of 90 ml) oral solution plus five 7.5 ml dosing syringes.
 
 The 7.5 ml dosing syringe has graduations from 0.8 ml to 7.5 ml.
+
 Not all pack sizes may be marketed.
 
 [Norvir 100 mg soft capsules]

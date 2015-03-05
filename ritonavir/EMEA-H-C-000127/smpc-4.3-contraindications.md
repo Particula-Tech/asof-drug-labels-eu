@@ -1,6 +1,6 @@
 # 4.3 Contraindications
 
-Hypersensitivity to the active substance or to any of the excipients.
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
 
 When ritonavir is used as a pharmacokinetic enhancer of other PIs, consult the Summary of Product Characteristics of the co-administered protease inhibitor for contraindications.
 
@@ -8,9 +8,8 @@ Ritonavir should not be given as a pharmacokinetic enhancer or as an antiretrovi
 
 In vitro and in vivo studies have demonstrated that ritonavir is a potent inhibitor of CYP3A- and CYP2D6- mediated biotransformations.
 The following medicines are contraindicated when used with ritonavir and unless otherwise noted, the contraindication is based on the potential for ritonavir to inhibit metabolism of the co-administered medicinal product, resulting in increased exposure to the co-administered medicinal product and risk of clinically significant adverse effects.
-
 The enzyme-modulating effect of ritonavir may be dose dependent.
-For some products, contraindications may be more relevant when ritonavir is used as an antiretroviral agent than when ritonavir is used as a pharmacokinetic enhancer (eg rifabutin and voriconazole):
+For some products, contraindications may be more relevant when ritonavir is used as an antiretroviral agent than when ritonavir is used as a pharmacokinetic enhancer (e.g. rifabutin and voriconazole):
 
 Medicinal Product Medicinal Products Rationale
 
@@ -23,10 +22,10 @@ Antagonist which may lead to severe hypotension (see
 
 section 4.5).
 
-Analgesics Pethidine, piroxicam, Increased plasma concentrations of norpethidine,
-propoxyphne piroxicam and propoxyphene. Thereby,
+Analgesics Pethidine, piroxicam, Increased plasma concentrations of
+propoxyphne norpethidine, piroxicam and propoxyphene.
 
-increasing the risk of serious respiratory depression or haematologic abnormalities, or other serious adverse effects from these agents.
+Thereby, increasing the risk of serious respiratory depression or haematologic abnormalities, or other serious adverse effects from these agents.
 
 Antiarrthymics Amiodarone, bepridil, Increased plasma concentrations of amiodarone,
 
@@ -37,9 +36,9 @@ Antibiotic Fusidic Acid Increased plasma concentrations of fusidic acid
 
 and ritonavir.
 
-Antifungal Voriconazole Concomitant use of ritonavir (400 mg twice daily
+Antifungal Voriconazole Concomitant use of ritonavir (400 mg twice
 
-and more) and voriconazole is contraindicated due to a reduction in voriconazole plasma concentrations and possible loss of effect (see section 4.5).
+daily and more) and voriconazole is contraindicated due to a reduction in voriconazole plasma concentrations and possible loss of effect (see section 4.5).
 
 Antihistamines Astemizole, terfenadine Increased plasma concentrations of astemizole
 
@@ -51,10 +50,10 @@ Antimycobacterial Rifabutin Concomitant use of ritonavir dosed as an
 antiretroviral agent (600 mg twice daily) and rifabutin due to an increase of rifabutin serum concentrations and risk of adverse events including uveitis (see section 4.4).
 Recommendations regarding use of ritonavir dosed as a pharmacokinetic enhancer with rifabutin are noted in section 4.5.
 
-Antipsychotics/ Clozapine, pimozide Increased plasma concentrations of clozapine and
-Neuroleptics pimozide. Thereby, increasing the risk of serious
+Antipsychotics/ Clozapine, pimozide Increased plasma concentrations of clozapine
+Neuroleptics and pimozide. Thereby, increasing the risk of
 
-haematologic abnormalities, or other serious adverse effects from these agents.
+serious haematologic abnormalities, or other serious adverse effects from these agents.
 
 Quetiapine Increased plasma concentrations of quetiapine
 
@@ -70,9 +69,9 @@ methylergonovine
 GI motility agent Cisapride Increased plasma concentrations of cisapride.
 
 Thereby, increasing the risk of serious arrhythmias from this agent.
-HMG Co-A Reductase Lovastatin, simvastatin Increased plasma concentrations of lovastatin and
+HMG Co-A Reductase Lovastatin, simvastatin Increased plasma concentrations of lovastatin
 
-Inhibitor simvastatin; thereby, increasing the risk of
+Inhibitor and simvastatin; thereby, increasing the risk of
 
 myopathy including rhabdomyolysis (see section 4.5).
 
@@ -90,12 +89,12 @@ See section 4.4 and section 4.5 for coadministration of sildenafil in patients w
 Vardenafil Increased plasma concentrations of vardenafil
 
 (see section 4.4. and 4.5).
-Sedatives/hypnotics Clorazepate, diazepam, Increased plasma concentrations of clorazepate, estazolam, flurazepam, diazepam, estazolam, flurazepam, oral midazolam oral midazolam and and triazolam.
-Thereby, increasing the risk of
+Sedatives/hypnotics Clorazepate, diazepam, Increased plasma concentrations of clorazepate, estazolam, flurazepam, diazepam, estazolam, flurazepam, oral oral midazolam and midazolam and triazolam.
+Thereby, increasing
 
-triazolam extreme sedation and respiratory depression from
+triazolam the risk of extreme sedation and respiratory
 
-these agents.
+depression from these agents.
 (For caution on parenterally administered midazolam, see section 4.5).
 
 Ritonavir medicinal product level decreased

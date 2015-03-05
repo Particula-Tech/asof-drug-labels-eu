@@ -8,7 +8,6 @@ Pharmacokinetic enhancement by ritonavir is based on ritonavir’s activity as a
 The degree of enhancement is related to the metabolic pathway of the co-administered protease inhibitor and the impact of the co-administered protease inhibitor on the metabolism of ritonavir.
 Maximal inhibition of metabolism of the co-administered protease inhibitor is generally achieved with ritonavir doses of 100 mg daily to 200 mg twice daily, and is dependent on the co-administered protease inhibitor.
 For additional information on the effect of ritonavir on co-administered protease inhibitor metabolism, see section 4.5 and refer to the Summary of Product Characteristics of the particular co-administered PIs.
-
 Ritonavir dosed as an antiretroviral agent
 
 Ritonavir is an orally active peptidomimetic inhibitor of the HIV-1 and HIV-2 aspartyl proteases.
@@ -19,6 +18,7 @@ Ritonavir was the first protease inhibitor (approved in 1996) for which efficacy
 However, due to ritonavir’s metabolic inhibitory properties its use as a pharmacokinetic enhancer of other protease inhibitors is the prevalent use of ritonavir in clinical practice (see section 4.2).
 
 Effects on the Electrocardiogram
+
 QTcF interval was evaluated in a randomised, placebo and active (moxifloxacin 400 mg once daily) controlled crossover study in 45 healthy adults, with 10 measurements over 12 hours on Day 3.
 The maximum mean (95% upper confidence bound) difference in QTcF from placebo was 5.5 (7.6) for 400 mg twice daily ritonavir.
 The Day 3 ritonavir exposure was approximately 1.5 fold higher than that observed with the 600 mg twice daily dose at steady state.
@@ -56,6 +56,7 @@ The continuation of ritonavir therapy should be evaluated by viral load because 
 Paediatric Use
 
 In an open label trial completed in 1998 in HIV infected, clinically stable children there was a significant difference (p = 0.03) in the detectable RNA levels in favour of a triple regimen (ritonavir, zidovudine and lamivudine) following 48 weeks treatment.
+
 In a study completed in 2003, 50 HIV-1 infected, protease inhibitor and lamivudine naïve children age 4 weeks to 2 years received ritonavir 350 or 450 mg/m2 every 12 hours co-administered with zidovudine 160 mg/m2 every 8 hours and lamivudine 4 mg/kg every 12 hours.
 In intent to treat analyses, 72% and 36% of patients achieved reduction in plasma HIV-1 RNA of ≤ 400 copies/ml at Week 16 and 104, respectively.
 Response was similar in both dosing regimens and across patient age.

@@ -8,7 +8,7 @@ Propylene glycol (26.0% v/v)
 Polyoxyl 35 Castor Oil
 Sunset Yellow (E110)
 
-For a full list of excipients, see section 6.1.
+For the full list of excipients, see section 6.1.
 
 [Norvir 100 mg soft capsules]
 

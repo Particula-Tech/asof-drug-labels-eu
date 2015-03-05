@@ -47,7 +47,6 @@ Patients should not remain on 300 mg twice daily for more than 3 days.
 Paediatric use (2 years of age and above): the recommended dosage of Norvir solution in children is 350 mg/m² by mouth twice daily and should not exceed 600 mg twice daily.
 Norvir should be started at 250 mg/m² and increased at 2 to 3 day intervals by 50 mg/m² twice daily.
 The dose should be administered using a calibrated dosing syringe.
-
 Paediatric Dosage Guidelines
 
 | Body Surface area* (m²) | Twice daily dose 250 mg/m² | Twice daily dose 300 mg/m² | Twice daily dose 350 mg/m² |
@@ -83,7 +82,8 @@ The bitter taste of Norvir solution may be lessened if mixed with chocolate milk
 
 Ritonavir soft capsules are administered orally and should preferably be ingested with food.
 
-Lopinavir co-formulated with ritonavir(lopinavir/ritonavir) 400 mg/100 mg or 800 mg/200 mg.
+Lopinavir co-formulated with ritonavir(lopinavir/ritonavir) 400 mg/100 mg or
+800 mg/200 mg.
 Tipranavir with ritonavir should not be used in treatment-naïve patients.
 
 Adult use: The recommended dosage of Norvir soft capsules is 600 mg (6 capsules) twice daily by mouth.
@@ -94,7 +94,6 @@ Paediatric use (2 years of age and above): the recommended dosage of Norvir in c
 Norvir should be started at 250 mg/m² and increased at 2 to 3 day intervals by 50 mg/m² twice daily (please refer to the Norvir 80 mg/ml oral solution Summary of Product Characteristics)
 
 For older children it may be feasible to substitute soft capsules for the maintenance dose of the oral solution.
-
 Dosage conversion from oral solution to soft capsules for children
 
 | Oral solution dose | Capsule dose |
@@ -110,7 +109,7 @@ Ritonavir film-coated tablets are administered orally and should be ingested wit
 
 Norvir film-coated tablets should be swallowed whole and not chewed, broken or crushed.
 
-Lopinavir co-formulated with ritonavir (lopinavir/ritonavir) 400 mg/100 mg or 800 mg/200 mg.
+Lopinavir co-formulated with ritonavir (lopinavir/ritonavir) 400 mg/100 mg or
 Darunavir 600 mg twice daily with ritonavir 100 mg twice daily in antiretroviral treatment.
 (ART) experienced patients.
 
@@ -121,7 +120,6 @@ Adult use: The recommended dose of Norvir film-coated tablets is 600 mg (6 table
 Treatment should be initiated at 300 mg (3 tablets) twice daily for a period of three days and increased by 100 mg (1 tablet) twice daily increments up to 600 mg twice daily over a period of no longer than 14 days.
 
 For older children it may be feasible to substitute tablets for the maintenance dose of the oral solution.
-
 Dosage conversion from oral solution to tablets for children
 
 | Oral solution dose | Tablet dose |
