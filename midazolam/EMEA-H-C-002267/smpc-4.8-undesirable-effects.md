@@ -10,14 +10,13 @@ The table below lists the adverse reactions reported to occur when oromucosal mi
 The frequency of adverse reactions is classified as follows:
 Common: ≥ 1/100 to < 1/10
 Uncommon: ≥ 1/1,000 to < 1/100
-Very rare: ≤ 1/10,000
+Very rare: < 1/10,000
 
-Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness;
+Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness:
 
-System Organ Class Frequency: Adverse Drug Reaction
-
-| Nervous system disorders | Common: Sedation, somnolence, depressed levels of consciousness Respiratory depression |
+| System Organ Class | Frequency: Adverse Drug Reaction |
 | --- | --- |
+| Nervous system disorders | Common: Sedation, somnolence, depressed levels of consciousness Respiratory depression |
 | Gastrointestinal disorders | Common: Nausea and vomiting |
 | Skin and subcutaneous tissue disorders | Uncommon: Pruritus, rash and urticaria |
 
@@ -37,3 +36,8 @@ Description of selected adverse reactions
 An increased risk for falls and fractures has been recorded in elderly benzodiazepine users.
 
 Life-threatening incidents are more likely to occur in those with pre-existing respiratory insufficiency or impaired cardiac function, particularly when a high dosage is administered (see section 4.4).
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

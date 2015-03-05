@@ -2,7 +2,7 @@
 
 Each pre-filled oral syringe contains 2.5 mg midazolam (as hydrochloride) in 0.5 ml solution
 
-For a full list of excipients, see section 6.1
+For the full list of excipients, see section 6.1
 
 [BUCCOLAM 5 mg oromucosal solution]
 

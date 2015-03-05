@@ -25,15 +25,19 @@ Ulcer-healing medicinal products: Cimetidine, ranitidine and omeprazole have bee
 
 Xanthines: Metabolism of midazolam and other benzodiazepines is accelerated by xanthines.
 
-Medicinal products s that inhibit CYP3A4
+Medicinal products that inhibit CYP3A4
 
 Medicinal product interactions following oromucosal administration of midazolam are likely to be similar to those observed after intravenous midazolam rather than oral administration.
 
+Food
+
+Grapefruit juice: reduces the clearance of midazolam and potentiates its action.
 Azole antifungals
 
 Ketoconazole increased the plasma concentrations of intravenous midazolam by 5-fold while the terminal half-life increased by about 3-fold.
 
 Voriconazole increased the exposure of intravenous midazolam by 3-fold whereas its elimination half-life increased by about 3-fold.
+
 Fluconazole and itraconazole both increased the plasma concentrations of intravenous midazolam by 2 to 3-fold associated with an increase in terminal half-life by 2.4-fold for itraconazole and 1.5-fold for fluconazole.
 
 Posaconazole increased the plasma concentrations of intravenous midazolam by about 2-fold.
@@ -62,11 +66,9 @@ Medicinal products that induce CYP3A4
 Rifampicin (7 days of 600 mg once daily) decreased the plasma concentrations of intravenous midazolam by about 60%.
 The terminal half-life decreased by about 50-60%.
 
-Herb and food
+Herb
 St John’s Wort decreased plasma concentrations of midazolam by about 20-40% associated with a decrease in terminal half life of about 15-17%.
 Depending on the specific St John's Wort extract, the CYP3A4-inducing effect may vary.
-
-Grapefruit juice: reduces the clearance of midazolam and potentiates its action.
 
 Pharmacodynamic Drug-Drug Interactions (DDI)
 
@@ -76,6 +78,7 @@ Examples include opiate derivatives (used as analgesics, antitussives or substit
 
 Alcohol (including alcohol-containing medicinal products may markedly enhance the sedative effect of midazolam.
 Alcohol intake should be strongly avoided in case of midazolam administration (see section 4.4).
+
 Midazolam decreases the minimum alveolar concentration (MAC) of inhalation anaesthetics.
 
 The effect of CYP3A4 inhibitors may be larger in infants since part of the oromucosal dose is probably swallowed and absorbed in the gastro-intestinal tract.

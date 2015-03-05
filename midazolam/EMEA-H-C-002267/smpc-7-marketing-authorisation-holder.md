@@ -2,4 +2,4 @@
 
 ViroPharma SPRL rue Montoyer 47
 1000 Brussels
-Belgium
+Belgium eu.medinfo@viropharma.com

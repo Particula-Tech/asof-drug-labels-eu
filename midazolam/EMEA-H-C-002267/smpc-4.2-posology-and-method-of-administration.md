@@ -8,8 +8,8 @@ Infants, toddlers, children and adolescents:
 
 | Age range | Dose | Label colour |
 | --- | --- | --- |
-| 3 to 6 months hospital setting | 2.5mg | Yellow |
-| > 6 months to < 1 year | 2.5mg | Yellow |
+| 3 to 6 months hospital setting | 2.5 mg | Yellow |
+| > 6 months to < 1 year | 2.5 mg | Yellow |
 | 1 year to < 5 years | 5 mg | Blue |
 | 5 years to < 10 years | 7.5 mg | Purple |
 | 10 years to < 18 years | 10 mg | Orange |
@@ -38,8 +38,9 @@ BUCCOLAM is for oromucosal use.
 The full amount of solution should be inserted slowly into the space between the gum and the cheek.
 Laryngo-tracheal insertion should be avoided to prevent accidental aspiration of the solution.
 If necessary (for larger volumes and/or smaller patients), approximately half the dose should be given slowly into one side of the mouth, then the other half given slowly into the other side.
+For detailed instructions on how to administer the medicinal product, see section 6.6.
 
-Precautions to be taken before manipulating or administering the product
+Precautions to be taken before handling or administering the medicinal product
 No needle, intravenous tubing or any other device for parenteral administration should be attached to the oral syringe.
 BUCCOLAM is not for intravenous use.
 The oral syringe cap should be removed before use to avoid risk of choking.

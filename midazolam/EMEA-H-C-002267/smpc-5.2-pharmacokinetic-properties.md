@@ -28,7 +28,7 @@ There is a slow and insignificant passage of midazolam into the cerebrospinal fl
 In humans, midazolam has been shown to cross the placenta slowly and to enter foetal circulation.
 Small quantities of midazolam are found in human milk.
 
-Metabolism
+Biotransformation
 Midazolam is almost entirely eliminated by biotransformation.
 The fraction of the dose extracted by the liver has been estimated to be 30-60%.
 Midazolam is hydroxylated by the cytochrome P4503A4 isozyme and the major urinary and plasma metabolite is alpha-hydroxy-midazolam.
@@ -55,7 +55,6 @@ Patients with renal impairment
 The elimination half-life in patients with chronic renal failure is similar to that in healthy volunteers.
 
 The elimination half-life of midazolam is prolonged up to six times in the critically ill.
-
 Patients with cardiac insufficiency
 The elimination half-life is longer in patients with congestive heart failure compared with that in healthy subjects (see section 4.4).
 

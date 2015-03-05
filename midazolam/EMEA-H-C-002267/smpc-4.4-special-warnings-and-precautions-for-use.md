@@ -7,6 +7,7 @@ Therefore, the use of BUCCOLAM in the 3-6 month age group should be limited for 
 
 Midazolam should be used with caution in patients with chronic renal failure, impaired hepatic or cardiac function.
 Midazolam may accumulate in patients with chronic renal failure or impaired hepatic function whilst in patients with impaired cardiac function it may cause decreased clearance of midazolam.
+
 Debilitated patients are more prone to the central nervous system (CNS) effects of benzodiazepines and, therefore, lower doses may be required.
 
 Midazolam should be avoided in patients with a medical history of alcohol or drug abuse.
