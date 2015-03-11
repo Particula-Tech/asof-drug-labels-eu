@@ -1,7 +1,7 @@
 # 5.3 Preclinical safety data
 
 Ruxolitinib has been evaluated in safety pharmacology, repeated dose toxicity, genotoxicity and reproductive toxicity studies and in a carcinogenicity study.
-Target organs associated with the pharmacological action of ruxolitinb in repeated dose studies include bone marrow, peripheral blood and lymphoid tissues.
+Target organs associated with the pharmacological action of ruxolitinib in repeated dose studies include bone marrow, peripheral blood and lymphoid tissues.
 Infections generally associated with immunosuppression were noted in dogs.
 Adverse decreases in blood pressure along with increases in heart rate were noted in a dog telemetry study, and an adverse decrease in minute volume was noted in a respiratory study in rats.
 The margins (based on unbound Cmax) at the non-adverse level in the dog and rat studies were 15.7-fold and 10.4-fold greater, respectively, than the maximum human recommended dose of 25 mg twice daily.

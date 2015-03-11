@@ -33,21 +33,12 @@ In healthy subjects co-administration of ruxolitinib (10 mg single dose) with er
 
 No dose adjustment is recommended when ruxolitinib is co-administered with mild or moderate CYP3A4 inhibitors (e.g. erythromycin).
 However, patients should be closely monitored for cytopenias when initiating therapy with a moderate CYP3A4 inhibitor.
+
 Effects of ruxolitinib on other medicinal products
-Oral contraceptives
-There is no interaction study with oral contraceptives.
-
-Substances metabolised by CYP3A4
-It cannot be excluded that ruxolitinib inhibits CYP3A4 in the intestine.
-Increased systemic exposure may be obtained for substances which are metabolised by CYP3A4, and particularly those that undergo extensive intestinal metabolism.
-Safety monitoring of orally administered CYP3A4 metabolised substances is advised when combined with ruxolitinib.
-The interaction is likely to be minimised if the time between co-administrations is kept as long as possible.
-
 Substances transported by P-glycoprotein or other transporters
 Ruxolitinib may inhibit P-glycoprotein and breast cancer resistance protein (BCRP) in the intestine.
 This may result in increased sytemic exposure of substrates of these transporters, such as dabigatran etexilate, ciclosporin, rosuvastatin and potentially digoxin.
 Therapeutic drug monitoring (TDM) or clinical monitoring of the affected substance is advised.
-
 It is possible that the potential inhibition of P-gp and BCRP in the intestine can be minimised if the time between administrations is kept apart as long as possible.
 
 Haematopoietic growth factors
@@ -57,3 +48,8 @@ It is not known whether the Janus Associated Kinase (JAK) inhibition by Jakavi r
 Cytoreductive therapies
 The concomitant use of cytoreductive therapies and Jakavi has not been studied.
 The safety and efficacy of this co-administration is not known (see section 4.4).
+
+A study in healthy subjects indicated that ruxolitinib did not inhibit the metabolism of the oral CYP3A4 substrate midazolam.
+Therefore, no increase in exposure of CYP3A4 substrates is anticipated when combining them with Jakavi.
+Another study in healthy subjects indicated that Jakavi does not affect the pharmacokinetics of an oral contraceptive containing ethinylestradiol and levonorgestrel.
+Therefore, it is not anticipated that the contraceptive efficacy of this combination will be compromised by co-administration of ruxolitinib.
