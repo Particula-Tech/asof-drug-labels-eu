@@ -2,11 +2,9 @@
 
 Summary of the safety profile
 
-The safety of Betmiga was evaluated in 8433 patients with OAB, of which 5648 received at least one dose of mirabegron in the phase 2/3 clinical program, and 622 patients received Betmiga for at least 1 year
-(365 days).
+The safety of Betmiga was evaluated in 8433 patients with OAB, of which 5648 received at least one dose of mirabegron in the phase 2/3 clinical program, and 622 patients received Betmiga for at least 1 year (365 days).
 In the three 12-week phase 3 double blind, placebo controlled studies, 88% of the patients completed treatment with Betmiga, and 4% of the patients discontinued due to adverse events.
 Most adverse reactions were mild to moderate in severity.
-
 The most common adverse reactions reported for patients treated with Betmiga 50 mg during the three 12-week phase 3 double blind, placebo controlled studies are tachycardia and urinary tract infections.
 The frequency of tachycardia was 1.2% in patients receiving Betmiga 50 mg.
 Tachycardia led to discontinuation in 0.1% patients receiving Betmiga 50 mg.
@@ -28,7 +26,7 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | Infections and infestations | Urinary tract infection | Vaginal infection Cystitis |  |
 | Eye disorders |  |  | Eyelid oedema |
 | Cardiac disorders | Tachycardia | Palpitation Atrial fibrillation |  |
-| Gastrointestinal disorders |  | Dyspepsia Gastritis | Lip oedema |
+| Gastrointestinal disorders | Nausea* | Dyspepsia Gastritis | Lip oedema |
 | Skin and subcutaneous tissue disorders |  | Urticaria Rash Rash macular Rash papular Pruritus | Leukocytoclastic vasculitis Purpura Angioedema* |
 | Musculoskeletal and connective tissue disorders |  | Joint swelling |  |
 | Reproductive system and breast disorders |  | Vulvovaginal pruritus |  |
