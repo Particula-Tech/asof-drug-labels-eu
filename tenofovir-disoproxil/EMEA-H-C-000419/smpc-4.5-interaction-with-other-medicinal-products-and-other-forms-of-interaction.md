@@ -33,14 +33,11 @@ Table 1: Interactions between tenofovir disoproxil fumarate and other medicinal 
 | Atazanavir/Ritonavir (300 q.d./100 q.d./300 q.d.) | Atazanavir: AUC: ↓ 25% Cmax: ↓ 28% Cmin: ↓ 26% Tenofovir: AUC: ↑ 37% Cmax: ↑ 34% Cmin: ↑ 29% | No dose adjustment is recommended. The increased exposure of tenofovir could potentiate tenofovir-associated adverse events, including renal disorders. Renal function should be closely monitored (see section 4.4). |
 | Lopinavir/Ritonavir (400 b.i.d./100 b.i.d./300 q.d.) | Lopinavir/ritonavir: No significant effect on lopinavir/ritonavir PK parameters. Tenofovir: AUC: ↑ 32% Cmax: ↔ Cmin: ↑ 51% | No dose adjustment is recommended. The increased exposure of tenofovir could potentiate tenofovir-associated adverse events, including renal disorders. Renal function should be closely monitored (see section 4.4). |
 | Darunavir/Ritonavir (300/100 b.i.d./300 q.d.) | Darunavir: No significant effect on darunavir/ritonavir PK parameters. Tenofovir: AUC: ↑ 22% Cmin: ↑ 37% | No dose adjustment is recommended. The increased exposure of tenofovir could potentiate tenofovir-associated adverse events, including renal disorders. Renal function should be closely monitored (see section 4.4). |
-| NRTIs |  |  |
-| Didanosine | Co-administration of tenofovir disoproxil fumarate and didanosine results in a 40-60% increase in systemic exposure to didanosine that may increase the risk for didanosine-related adverse reactions. Rarely, pancreatitis and lactic acidosis, sometimes fatal, have been reported. Co-administration of tenofovir disoproxil fumarate and didanosine at a dose of 400 mg daily has been associated with a significant decrease in CD4 cell count, possibly due to an intracellular interaction increasing phosphorylated (i.e. active) didanosine. A decreased dosage of 250 mg didanosine co-administered with tenofovir disoproxil fumarate therapy has been associated with reports of high rates of virological failure within several tested combinations for the treatment of HIV-1 infection. | Co-administration of tenofovir disoproxil fumarate and didanosine is not recommended (see section 4.4). |
 
-Adefovir dipivoxil AUC: ↔ Tenofovir disoproxil
-Cmax: ↔ fumarate should not be
-administered concurrently
-with adefovir dipivoxil
-(see section 4.4).
+| NRTIs |  |  |
+| --- | --- | --- |
+| Didanosine | Co-administration of tenofovir disoproxil fumarate and didanosine results in a 40-60% increase in systemic exposure to didanosine that may increase the risk for didanosine-related adverse reactions. Rarely, pancreatitis and lactic acidosis, sometimes fatal, have been reported. Co-administration of tenofovir disoproxil fumarate and didanosine at a dose of 400 mg daily has been associated with a significant decrease in CD4 cell count, possibly due to an intracellular interaction increasing phosphorylated (i.e. active) didanosine. A decreased dosage of 250 mg didanosine co-administered with tenofovir disoproxil fumarate therapy has been associated with reports of high rates of virological failure within several tested combinations for the treatment of HIV-1 infection. | Co-administration of tenofovir disoproxil fumarate and didanosine is not recommended (see section 4.4). |
+| Adefovir dipivoxil | AUC: ↔ Cmax: ↔ | Tenofovir disoproxil fumarate should not be administered concurrently with adefovir dipivoxil (see section 4.4). |
 
 Studies conducted with other medicinal products
 There were no clinically significant pharmacokinetic interactions when tenofovir disoproxil fumarate was co-administered with emtricitabine, lamivudine, indinavir, efavirenz, nelfinavir, saquinavir (ritonavir boosted), methadone, ribavirin, rifampicin, tacrolimus, or the hormonal contraceptive norgestimate/ethinyl oestradiol.
@@ -75,4 +72,11 @@ Tenofovir disoproxil fumarate must be taken with food, as food enhances the bioa
 (see section 4.4 and Table 2).
 
 Interactions between tenofovir disoproxil fumarate and protease inhibitors and antiretroviral agents other than protease inhibitors are listed in Table 2 below (increase is indicated as “↑”, decrease as “↓”, no change as “↔”, twice daily as “b.i.d.”, and once daily as “q.d.”).
+
 Table 2: Interactions between tenofovir disoproxil fumarate and other medicinal products
+
+| NRTIs |  |  |
+| --- | --- | --- |
+| Didanosine | Co-administration of tenofovir disoproxil fumarate and didanosine results in a 40-60% increase in systemic exposure to didanosine that may increase the risk for didanosine-related adverse reactions. Rarely, pancreatitis and lactic acidosis, sometimes fatal, have been reported. Co-administration of tenofovir disoproxil fumarate and didanosine at a dose of 400 mg daily has been associated with a significant decrease in CD4 cell count, possibly due to an intracellular interaction increasing phosphorylated (i.e. active) didanosine. A decreased dosage of 250 mg didanosine co-administered with tenofovir disoproxil fumarate therapy has been associated with reports of high rates of virological failure within several tested combinations for the treatment of HIV-1 infection. | Co-administration of tenofovir disoproxil fumarate and didanosine is not recommended (see section 4.4). |
+| Adefovir dipivoxil | AUC: ↔ Cmax: ↔ | Tenofovir disoproxil fumarate should not be administered concurrently with adefovir dipivoxil (see section 4.4). |
+| Entecavir | AUC: ↔ Cmax: ↔ | No clinically significant pharmacokinetic interactions when tenofovir disoproxil fumarate was co-administered with entecavir. |

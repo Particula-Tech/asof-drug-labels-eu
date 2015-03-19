@@ -1,8 +1,8 @@
 # 4.4 Special warnings and precautions for use
 
 General
-Patients must be advised that tenofovir disoproxil fumarate has not been proven to prevent the risk of transmission of HIV to others through sexual contact or contamination with blood.
-Appropriate precautions must continue to be used.
+While effective viral suppression with antiretroviral therapy has been proven to substantially reduce the risk of sexual transmission, a residual risk cannot be excluded.
+Precautions to prevent transmission should be taken in accordance with national guidelines.
 
 Co-administration of other medicinal products
 
@@ -42,16 +42,24 @@ Renal adverse reactions consistent with proximal renal tubulopathy have been rep
 HIV-1 infected paediatric patients aged 2 to < 12 years in clinical study GS-US-104-0352 (see sections 4.8 and 5.1).
 
 Renal monitoring
-It is recommended that renal function (creatinine clearance and serum phosphate) is assessed in all patients prior to initiating therapy with tenofovir disoproxil fumarate and that it is also monitored every four weeks during the first year of tenofovir disoproxil fumarate therapy, and then every three months.
-In patients at risk for renal impairment, including patients who have previously experienced renal events while receiving adefovir dipivoxil, consideration should be given to more frequent monitoring of renal function.
+It is recommended that renal function (creatinine clearance and serum phosphate) is assessed in all patients prior to initiating therapy with tenofovir disoproxil fumarate and that it is also monitored after two to four weeks of treatment, after three months of treatment and every three to six months thereafter in patients without renal risk factors.
+In patients at risk for renal impairment, a more frequent monitoring of renal function is required.
 
 Renal management
 If serum phosphate is confirmed to be < 3.0 mg/dl (0.96 mmol/l) in any paediatric patient receiving tenofovir disoproxil fumarate, renal function should be re-evaluated within one week, including measurements of blood glucose, blood potassium and urine glucose concentrations (see section 4.8, proximal tubulopathy).
 If renal abnormalities are suspected or detected then consultation with a nephrologist should be obtained to consider interruption of tenofovir disoproxil fumarate treatment.
+Interrupting treatment with tenofovir disoproxil fumarate should also be considered in case of progressive decline of renal function when no other cause has been identified.
 
 Co-administration and risk of renal toxicity
 Use of tenofovir disoproxil fumarate should be avoided with concurrent or recent use of a nephrotoxic medicinal product (e.g. aminoglycosides, amphotericin B, foscarnet, ganciclovir, pentamidine, vancomycin, cidofovir or interleukin-2).
 If concomitant use of tenofovir disoproxil fumarate and nephrotoxic agents is unavoidable, renal function should be monitored weekly.
+Cases of acute renal failure after initiation of high dose or multiple non-steroidal anti-inflammatory drugs (NSAIDs) have been reported in patients treated with tenofovir disoproxil fumarate and with risk factors for renal dysfunction.
+If tenofovir disoproxil fumarate is co-administered with an NSAID, renal function should be monitored adequately.
+
+A higher risk of renal impairment has been reported in patients receiving tenofovir disoproxil fumarate in combination with a ritonavir or cobicistat boosted protease inhibitor.
+A close monitoring of renal function is required in these patients (see section 4.5).
+In patients with renal risk factors, the co-administration of tenofovir disoproxil fumarate with a boosted protease inhibitor should be carefully evaluated.
+
 Tenofovir disoproxil fumarate has not been clinically evaluated in patients receiving medicinal products which are secreted by the same renal pathway, including the transport proteins human organic anion transporter (hOAT) 1 and 3 or MRP 4 (e.g. cidofovir, a known nephrotoxic medicinal product).
 These renal transport proteins may be responsible for tubular secretion and in part, renal elimination of tenofovir and cidofovir.
 Consequently, the pharmacokinetics of these medicinal products, which are secreted by the same renal pathway including transport proteins hOAT 1 and 3 or MRP 4, might be modified if they are co-administered.
@@ -84,7 +92,6 @@ Liver disease
 Tenofovir and tenofovir disoproxil fumarate are not metabolised by liver enzymes.
 A pharmacokinetic study has been performed in non-HIV infected adult patients with various degrees of hepatic impairment.
 No significant pharmacokinetic alteration has been observed in these patients (see section 5.2).
-
 Patients with pre-existing liver dysfunction, including chronic active hepatitis, have an increased frequency of liver function abnormalities during combination antiretroviral therapy (CART) and should be monitored according to standard practice.
 If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered.
 
@@ -126,12 +133,12 @@ Some late-onset neurological disorders have been reported (hypertonia, convulsio
 Whether the neurological disorders are transient or permanent is currently unknown.
 Any child exposed in utero to nucleoside and nucleotide analogues, even HIV negative children, should have clinical and laboratory follow-up and should be fully investigated for possible mitochondrial dysfunction in case of relevant signs or symptoms.
 These findings do not affect current national recommendations to use antiretroviral therapy in pregnant women to prevent vertical transmission of HIV.
-
 Immune reactivation syndrome
 In HIV infected patients with severe immune deficiency at the time of institution of CART, an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis jirovecii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
+
 Autoimmune disorders (such as Graves’ disease) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
 
 Osteonecrosis
@@ -153,9 +160,13 @@ Viread 204 mg film-coated tablets contain lactose monohydrate.
 
 HIV antibody testing should be offered to all HBV infected patients before initiating tenofovir disoproxil fumarate therapy (see below Co-infection with HIV-1 and hepatitis B).
 
-Patients must be advised that tenofovir disoproxil fumarate has not been proven to prevent the risk of transmission of HIV or HBV to others through sexual contact or contamination with blood.
+HIV-1
 
-It is recommended that creatinine clearance is calculated in all patients prior to initiating therapy with tenofovir disoproxil fumarate and renal function (creatinine clearance and serum phosphate) is also monitored every four weeks during the first year, and then every three months.
+Chronic hepatitis B
+Patients must be advised that tenofovir disoproxil fumarate has not been proven to prevent the risk of transmission of HBV to others through sexual contact or contamination with blood.
+Appropriate precautions must continue to be used.
+
+It is recommended that creatinine clearance is calculated in all patients prior to initiating therapy with tenofovir disoproxil fumarate and renal function (creatinine clearance and serum phosphate) is also monitored after two to four weeks of treatment, after three months of treatment and every three to six months thereafter in patients without renal risk factors.
 
 If serum phosphate is < 1.5 mg/dl (0.48 mmol/l) or creatinine clearance is decreased to < 50 ml/min in any adult patient receiving tenofovir disoproxil fumarate, renal function should be re-evaluated within one week, including measurements of blood glucose, blood potassium and urine glucose concentrations (see section 4.8, proximal tubulopathy).
 Consideration should also be given to interrupting treatment with tenofovir disoproxil fumarate in adult patients with creatinine clearance decreased to < 50 ml/min or decreases in serum phosphate to < 1.0 mg/dl (0.32 mmol/l).

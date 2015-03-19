@@ -9,6 +9,7 @@ These reactions are usually mild to moderate gastrointestinal events.
 Approximately 1% of tenofovir disoproxil fumarate-treated adult patients discontinued treatment due to the gastrointestinal events.
 
 Lactic acidosis, severe hepatomegaly with steatosis and lipodystrophy are associated with tenofovir disoproxil fumarate (see sections 4.4 and 4.8 Description of selected adverse reactions).
+
 Co-administration of Viread and didanosine is not recommended as this may result in an increased risk of adverse reactions (see section 4.5).
 Rarely, pancreatitis and lactic acidosis, sometimes fatal, have been reported (see section 4.4).
 
@@ -47,7 +48,8 @@ Very common: rash
 Rare: angioedema
 Musculoskeletal and connective tissue disorders:
 Uncommon: rhabdomyolysis1, muscular weakness1
-Rare: osteomalacia (manifested as bone pain and infrequently contributing to fractures)1, 2, myopathy1
+osteomalacia (manifested as bone pain and infrequently contributing to fractures)1,
+Rare: 2, myopathy1
 Renal and urinary disorders:
 Uncommon: increased creatinine
 acute renal failure, renal failure, acute tubular necrosis, proximal renal
@@ -65,6 +67,9 @@ The frequency category was estimated from a statistical calculation based on the
 Description of selected adverse reactions
 Renal impairment
 As Viread may cause renal damage monitoring of renal function is recommended (see sections 4.4 and 4.8 Summary of the safety profile).
+Proximal renal tubulopathy generally resolved or improved after tenofovir disoproxil fumarate discontinuation.
+However, in some patients, declines in creatinine clearance did not completely resolve despite tenofovir disoproxil fumarate discontinuation.
+Patients at risk of renal impairment (such as patients with baseline renal risk factors, advanced HIV disease, or patients receiving concomitant nephrotoxic medications) are at increased risk of experiencing incomplete recovery of renal function despite tenofovir disoproxil fumarate discontinuation (see section 4.4).
 
 Interaction with didanosine
 Co-administration of tenofovir disoproxil fumarate and didanosine is not recommended as it results in a 40-60% increase in systemic exposure to didanosine that may increase the risk of didanosine-related adverse reactions (see section 4.5).
@@ -145,7 +150,6 @@ Thirteen percent (6/45) of the tenofovir disoproxil fumarate group, 13% (6/45) o
 
 At week 168, in this population of patients with decompensated liver disease, the rate of death was of 13% (6/45) in the tenofovir disoproxil fumarate group, 11% (5/45) in the emtricitabine plus tenofovir disoproxil fumarate group and 14% (3/22) in the entecavir group.
 The rate of hepatocellular carcinoma was 18% (8/45) in the tenofovir disoproxil fumarate group, 7% (3/45) in the emtricitabine plus tenofovir disoproxil fumarate group and 9% (2/22) in the entecavir group.
-
 Subjects with a high baseline CPT score were at higher risk of developing serious adverse events (see section 4.4).
 
 Patients with lamivudine-resistant chronic hepatitis B: No new adverse reactions to tenofovir disoproxil fumarate were identified from a randomised, double-blind study (GS-US-174-0121) in which 280 lamivudine-resistant patients received treatment with tenofovir disoproxil fumarate
@@ -164,6 +168,7 @@ Exacerbations of hepatitis during treatment
 In studies with nucleoside-naïve patients, on-treatment ALT elevations > 10 times ULN (upper limit of normal) and > 2 times baseline occurred in 2.6% of tenofovir disoproxil fumarate-treated patients.
 ALT elevations had a median time to onset of 8 weeks, resolved with continued treatment, and, in a majority of cases, were associated with a ≥ 2 log10 copies/ml reduction in viral load that preceded or coincided with the ALT elevation.
 Periodic monitoring of hepatic function is recommended during treatment (see section 4.4).
+
 In HBV infected patients, clinical and laboratory evidence of exacerbations of hepatitis have occurred after discontinuation of HBV therapy (see section 4.4).
 
 Chronic hepatitis B
@@ -183,6 +188,7 @@ Since tenofovir disoproxil fumarate can cause renal toxicity, close monitoring o
 
 All adverse reactions are presented in Table 3.
 
-HIV-1 clinical studies: Assessment of adverse reactions from HIV-1 clinical study data is based on experience in two studies in 653 treatment-experienced adult patients receiving treatment with tenofovir disoproxil fumarate (n = 443) or placebo (n = 210) in combination with other antiretroviral medicinal products for 24 weeks and also in a double-blind comparative controlled study in which 600 treatment-naïve adult patients received treatment with tenofovir disoproxil 245 mg (as fumarate) (n = 299) or stavudine (n = 301) in combination with lamivudine and efavirenz for 144 weeks.
+HIV-1 clinical studies: Assessment of adverse reactions from HIV-1 clinical study data is based on experience in two studies in 653 treatment-experienced adult patients receiving treatment with tenofovir disoproxil fumarate (n = 443) or placebo (n = 210) in combination with other antiretroviral medicinal products for 24 weeks and also in a double-blind comparative controlled study in which 600 treatment-naïve adult patients received treatment with tenofovir disoproxil 245 mg (as fumarate)
+(n = 299) or stavudine (n = 301) in combination with lamivudine and efavirenz for 144 weeks.
 
 Table 3: Tabulated summary of adverse reactions associated with tenofovir disoproxil fumarate based on clinical study and post-marketing experience

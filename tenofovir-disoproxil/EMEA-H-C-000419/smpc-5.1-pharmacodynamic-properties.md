@@ -18,6 +18,7 @@ Tenofovir shows activity in vitro against HIV-2, with an EC50 of 4.9 µmol/l in 
 
 Resistance: Strains of HIV-1 with reduced susceptibility to tenofovir and a K65R mutation in reverse transcriptase have been selected in vitro and in some patients (see Clinical efficacy and safety).
 Tenofovir disoproxil fumarate should be avoided in antiretroviral-experienced patients with strains harbouring the K65R mutation (see section 4.4).
+In addition, a K70E substitution in HIV-1 reverse transcriptase has been selected by tenofovir and results in low-level reduced susceptibility to tenofovir.
 
 Clinical studies in treatment-experienced patients have assessed the anti-HIV activity of tenofovir disoproxil 245 mg (as fumarate) against strains of HIV-1 with resistance to nucleoside inhibitors.
 The results indicate that patients whose HIV expressed 3 or more thymidine-analogue associated mutations (TAMs) that included either the M41L or L210W reverse transcriptase mutation showed reduced response to tenofovir disoproxil 245 mg (as fumarate) therapy.
@@ -40,6 +41,7 @@ The 144-week, double-blind, active controlled phase of study GS-99-903 evaluated
 The mean baseline CD4 cell count was 279 cells/mm3, the mean baseline plasma HIV-1 RNA was 4.91 log10 copies/ml, 19% of patients had symptomatic HIV-1 infection and 18% had AIDS.
 Patients were stratified by baseline HIV-1 RNA and CD4 count.
 Forty-three percent of patients had baseline viral loads > 100,000 copies/ml and 39% had CD4 cell counts < 200 cells/ml.
+
 By intent to treat analysis (missing data and switch in antiretroviral therapy (ART) considered as failure), the proportion of patients with HIV-1 RNA below 400 copies/ml and 50 copies/ml at 48 weeks of treatment was 80% and 76% respectively in the tenofovir disoproxil 245 mg (as fumarate) arm, compared to 84% and 80% in the stavudine arm.
 At 144 weeks, the proportion of patients with HIV-1 RNA below 400 copies/ml and 50 copies/ml was 71% and 68% respectively in the tenofovir disoproxil 245 mg (as fumarate) arm, compared to 64% and 63% in the stavudine arm.
 
@@ -51,12 +53,12 @@ The K65R mutation occurred in a slightly higher percentage of patients in the te
 Efavirenz or lamivudine resistance either preceded or was coincident with the development of K65R in all cases.
 Eight patients had HIV that expressed K65R in the tenofovir disoproxil 245 mg (as fumarate) arm, 7 of these occurred during the first 48 weeks of treatment and the last one at week 96.
 No further K65R development was observed up to week 144.
+One patient in the tenofovir disoproxil (as fumarate) arm developed the K70E substitution in the virus.
 From both the genotypic and phenotypic analyses there was no evidence for other pathways of resistance to tenofovir.
 
 Data pertaining to HBV
 The antiviral activity of tenofovir disoproxil fumarate against hepatitis B virus (HBV) has been demonstrated in vitro and clinically in adults and adolescents.
 Please refer to the Summaries of Product Characteristics for Viread 245 mg film-coated tablets and Viread 33 mg/g granules.
-
 Paediatric population
 In study GS-US-104-0321, 87 HIV-1 infected treatment-experienced patients 12 to < 18 years of age were treated with tenofovir disoproxil fumarate (n = 45) or placebo (n = 42) in combination with an optimised background regimen (OBR) for 48 weeks.
 Due to limitations of the study, a benefit of tenofovir disoproxil fumarate over placebo was not demonstrated based on plasma HIV-1 RNA levels at week 24.
@@ -252,6 +254,7 @@ a p-value comparing the combined tenofovir-containing arms versus the entecavir 
 
 Experience beyond 48 weeks in study GS-US-174-0108
 Using a noncompleter/switch = failure analysis, 50% (21/42) of subjects receiving tenofovir disoproxil fumarate, 76% (28/37) of subjects receiving emtricitabine plus tenofovir disoproxil fumarate and 52% (11/21) of subjects receiving entecavir achieved HBV DNA < 400 copies/ml at week 168.
+
 Experience in patients with lamivudine-resistant HBV at 96 weeks (study GS-US-174-0121)
 The efficacy and safety of 245 mg tenofovir disoproxil (as fumarate) was evaluated in a randomised, double-blind study (GS-US-174-0121) in HBeAg positive and HBeAg negative patients (n = 280) with compensated liver disease, viraemia (HBV DNA ≥ 1,000 IU/ml), and genotypic evidence of lamivudine resistance (rtM204I/V +/- rtL180M).
 Only five had adefovir-associated resistance mutations at baseline.
@@ -284,7 +287,6 @@ Genotypic data from paired baseline and on treatment HBV isolates were available
 
 In a paediatric study (GS-US-174-0115), 52 patients (including 6 patients with lamivudine resistance mutations at baseline) received tenofovir disoproxil fumarate for up to 72 weeks.
 Genotypic evaluations were performed on all patients with HBV DNA > 400 copies/ml at week 48 (n = 6) and week 72 (n = 5).
-
 HIV-1: In study GS-US-104-0321, 87 HIV-1 infected treatment-experienced patients 12 to < 18 years of age were treated with tenofovir disoproxil fumarate (n = 45) or placebo (n = 42) in combination with an optimised background regimen (OBR) for 48 weeks.
 
 Chronic hepatitis B: In study GS-US-174-0115, 106 HBeAg negative and HBeAg positive patients aged 12 to < 18 years with chronic HBV infection [HBV DNA ≥ 105 copies/ml, elevated serum ALT (≥ 2 x ULN) or a history of elevated serum ALT levels in the past 24 months] were treated with tenofovir disoproxil 245 mg (as fumarate) (n = 52) or placebo (n = 54) for 72 weeks.

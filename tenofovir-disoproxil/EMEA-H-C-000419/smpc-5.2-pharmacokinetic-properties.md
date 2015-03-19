@@ -1,7 +1,6 @@
 # 5.2 Pharmacokinetic properties
 
 Tenofovir disoproxil fumarate is a water soluble ester prodrug which is rapidly converted in vivo to tenofovir and formaldehyde.
-
 Tenofovir is converted intracellularly to tenofovir monophosphate and to the active component, tenofovir diphosphate.
 
 Absorption
@@ -17,6 +16,7 @@ Distribution
 Following intravenous administration the steady-state volume of distribution of tenofovir was estimated to be approximately 800 ml/kg.
 After oral administration of tenofovir disoproxil fumarate, tenofovir is distributed to most tissues with the highest concentrations occurring in the kidney, liver and the intestinal contents (preclinical studies).
 In vitro protein binding of tenofovir to plasma or serum protein was less than 0.7 and 7.2%, respectively, over the tenofovir concentration range 0.01 to 25 µg/ml.
+
 Biotransformation
 In vitro studies have determined that neither tenofovir disoproxil fumarate nor tenofovir are substrates for the CYP450 enzymes.
 Moreover, at concentrations substantially higher (approximately 300-fold) than those observed in vivo, tenofovir did not inhibit in vitro drug metabolism mediated by any of the major human CYP450 isoforms involved in drug biotransformation (CYP3A4, CYP2D6, CYP2C9, CYP2E1, or CYP1A1/2).
@@ -37,7 +37,6 @@ The pharmacokinetics of tenofovir were independent of tenofovir disoproxil fumar
 
 Gender
 Limited data on the pharmacokinetics of tenofovir in women indicate no major gender effect.
-
 Ethnicity
 Pharmacokinetics have not been specifically studied in different ethnic groups.
 
@@ -88,11 +87,11 @@ Pharmacokinetic studies have not been performed in the elderly (over 65 years of
 HIV-1: Steady-state pharmacokinetics of tenofovir were evaluated in 8 HIV-1 infected adolescent patients (aged 12 to < 18 years) with body weight ≥ 35 kg.
 Mean (± SD) Cmax and AUCtau are 0.38 ± 0.13 μg/ml and 3.39 ± 1.22 μg·h/ml, respectively.
 Tenofovir exposure achieved in adolescent patients receiving oral daily doses of tenofovir disoproxil 245 mg (as fumarate) was similar to exposures achieved in adults receiving once-daily doses of tenofovir disoproxil 245 mg (as fumarate).
+
 Chronic hepatitis B: Steady-state tenofovir exposure in HBV infected adolescent patients
 (12 to < 18 years of age) receiving an oral daily dose of tenofovir disoproxil 245 mg (as fumarate) was similar to exposures achieved in adults receiving once-daily doses of tenofovir disoproxil 245 mg (as fumarate).
 
 Pharmacokinetic studies have not been performed with tenofovir disoproxil (as fumarate) 245 mg tablets in children under 12 years or with renal impairment.
-
 Pharmacokinetic parameters of tenofovir were determined following administration of a single dose of tenofovir disoproxil 245 mg to 40 non-HIV, non-HBV infected adult patients with varying degrees of renal impairment defined according to baseline creatinine clearance (CrCl) (normal renal function when CrCl > 80 ml/min; mild with CrCl = 50-79 ml/min; moderate with CrCl = 30-49 ml/min and severe with CrCl = 10-29 ml/min).
 The dosing recommendations in patients with renal impairment, with increased dosing interval, are expected to result in higher peak plasma concentrations and lower Cmin levels in patients with renal impairment compared with patients with normal renal function.
 The clinical implications of this are unknown.
@@ -108,6 +107,7 @@ A single 245 mg dose of tenofovir disoproxil was administered to non-HIV, non-HB
 [Viread 33 mg/g granules]
 
 HIV-1: Steady-state pharmacokinetics of tenofovir were evaluated in 8 HIV-1 infected adolescent patients (aged 12 to < 18 years) with body weight ≥ 35 kg and in 23 HIV-1 infected children aged 2 to < 12 years (see Table 9 below).
+
 Table 9: Mean (± SD) tenofovir pharmacokinetic parameters by age groups for paediatric patients
 
 Pharmacokinetic parameters of tenofovir were determined following administration of a single dose of tenofovir disoproxil 245 mg to 40 non-HIV, non-HBV infected adult patients with varying degrees of renal impairment defined according to baseline adult creatinine clearance (CrCl) (normal renal function when CrCl > 80 ml/min; mild with CrCl = 50-79 ml/min; moderate with
