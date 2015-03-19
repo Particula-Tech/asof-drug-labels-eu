@@ -2,7 +2,7 @@
 
 Active substances that may increase dasatinib plasma concentrations
 In vitro studies indicate that dasatinib is a CYP3A4 substrate.
-Concomitant use of dasatinib and medicinal products which potently inhibit CYP3A4 (e.g. ketoconazole, itraconazole, erythromycin, clarithromycin, ritonavir, telithromycin) may increase exposure to dasatinib.
+Concomitant use of dasatinib and medicinal products or substances which potently inhibit CYP3A4 (e.g. ketoconazole, itraconazole, erythromycin, clarithromycin, ritonavir, telithromycin, grapefruit juice) may increase exposure to dasatinib.
 Therefore, in patients receiving dasatinib, systemic administration of a potent CYP3A4 inhibitor is not recommended.
 
 At clinically relevant concentrations, binding of dasatinib to plasma proteins is approximately 96% on the basis of in vitro experiments.

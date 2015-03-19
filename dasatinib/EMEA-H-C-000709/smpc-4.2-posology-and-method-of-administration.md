@@ -9,7 +9,7 @@ The recommended starting dose for accelerated, myeloid or lymphoid blast phase (
 
 Treatment duration
 In clinical studies, treatment with SPRYCEL was continued until disease progression or until no longer tolerated by the patient.
-The effect of stopping treatment after the achievement of a complete cytogenetic response (CCyR) has not been investigated.
+The effect of stopping treatment on long-term disease outcome after the achievement of a cytogenetic or molecular response [including complete cytogenetic response (CCyR), major molecular response (MMR) and MR4.5] has not been investigated.
 
 To achieve the recommended dose, SPRYCEL is available as 20 mg, 50 mg, 70 mg, 80 mg, 100 mg and 140 mg film-coated tablets.
 Dose increase or reduction is recommended based on patient response and tolerability.

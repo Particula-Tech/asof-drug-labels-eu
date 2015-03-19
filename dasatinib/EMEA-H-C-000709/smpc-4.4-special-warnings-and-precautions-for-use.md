@@ -4,7 +4,7 @@ Clinically relevant interactions
 Dasatinib is a substrate and an inhibitor of cytochrome P450 (CYP) 3A4.
 Therefore, there is a potential for interaction with other concomitantly administered medicinal products that are metabolized primarily by or modulate the activity of CYP3A4 (see section 4.5).
 
-Concomitant use of dasatinib and medicinal products that potently inhibit CYP3A4 (e.g. ketoconazole, itraconazole, erythromycin, clarithromycin, ritonavir, telithromycin) may increase exposure to dasatinib.
+Concomitant use of dasatinib and medicinal products or substances that potently inhibit CYP3A4 (e.g. ketoconazole, itraconazole, erythromycin, clarithromycin, ritonavir, telithromycin, grapefruit juice) may increase exposure to dasatinib.
 Therefore, in patients receiving dasatinib, coadministration of a potent CYP3A4 inhibitor is not recommended (see section 4.5).
 Concomitant use of dasatinib and medicinal products that induce CYP3A4 (e.g. dexamethasone, phenytoin, carbamazepine, rifampicin, phenobarbital or herbal preparations containing Hypericum perforatum, also known as St. John's Wort) may substantially reduce exposure to dasatinib, potentially increasing the risk of therapeutic failure.
 Therefore, in patients receiving dasatinib, coadministration of alternative medicinal products with less potential for CYP3A4 induction should be selected (see section 4.5).
@@ -22,37 +22,36 @@ Due to the limitations of this clinical study, caution is recommended when admin
 Important adverse reactions
 Myelosuppression
 Treatment with dasatinib is associated with anaemia, neutropenia and thrombocytopenia.
-Their occurrence is more frequent in patients with advanced phase CML or Ph+ ALL than in chronic phase CML.
-In imatinib resistant or intolerant patients, complete blood counts should be performed weekly for the first 2 months, and then monthly thereafter, or as clinically indicated.
-In patients with newly diagnosed chronic phase CML, complete blood counts should be performed every 2 weeks for the first 6 weeks, every 3 months for 2 years and then every 6 months thereafter.
-Myelosuppression was generally reversible and usually managed by withholding dasatinib temporarily or by dose reduction (see sections 4.2 and 4.8).
+Their occurrence is earlier and more frequent in patients with advanced phase CML or Ph+ ALL than in chronic phase CML.
+In patients with advanced phase CML or Ph+ ALL, complete blood counts should be performed weekly for the first 2 months, and then monthly thereafter, or as clinically indicated.
+In patients with chronic phase CML, complete blood counts should be performed every 2 weeks for 12 weeks, then every 3 months thereafter or as clinically indicated.
+Myelosuppression is generally reversible and usually managed by withholding dasatinib temporarily or by dose reduction (see sections 4.2 and 4.8).
 
 Bleeding
-In the Phase III study in patients with newly diagnosed chronic phase CML, 1 patient (< 1%) receiving dasatinib compared to 2 patients (1%) receiving imatinib had grade 3 or 4 haemorrhage after a minimum of 12 months follow-up.
-In clinical studies in patients with resistance or intolerance to prior imatinib therapy, severe central nervous system (CNS) haemorrhage occurred in < 1% of patients.
-Eight cases were fatal and 6 of them were associated with Common Toxicity Criteria (CTC) grade 4 thrombocytopenia.
-Grade 3 or 4 gastrointestinal haemorrhage occurred in 4% of patients with resistance or intolerance to prior imatinib therapy and generally required treatment interruptions and transfusions.
-Other grade 3 or 4 haemorrhage occurred in 2% of patients with resistance or intolerance to prior imatinib therapy.
+In patients with chronic phase CML (n=548), 5 patients (1%) receiving dasatinib had grade 3 or 4 haemorrhage.
+In clinical studies in patients with advanced phase CML receiving the recommended dose of SPRYCEL (n=304), severe central nervous system (CNS) haemorrhage occurred in 1% of patients.
+One case was fatal and was associated with Common Toxicity Criteria (CTC) grade 4 thrombocytopenia.
+Grade 3 or 4 gastrointestinal haemorrhage occurred in 6% of patients with advanced phase CML and generally required treatment interruptions and transfusions.
+Other grade 3 or 4 haemorrhage occurred in 2% of patients with advanced phase CML.
 Most bleeding related events in these patients were typically associated with grade 3 or 4 thrombocytopenia (see section 4.8).
 Additionally, in vitro and in vivo platelet assays suggest that SPRYCEL treatment reversibly affects platelet activation.
 
-Patients were excluded from participation in initial SPRYCEL clinical studies if they took medicinal products that inhibit platelet function or anticoagulants.
-In subsequent studies, the use of anticoagulants, acetylsalicylic acid, and non-steroidal anti-inflammatory drugs (NSAIDs) was allowed concurrently with SPRYCEL if the platelet count was > 50,000-75,000/mm3.
 Caution should be exercised if patients are required to take medicinal products that inhibit platelet function or anticoagulants.
+
 Fluid retention
 Dasatinib is associated with fluid retention.
-In the Phase III clinical study in patients with newly diagnosed chronic phase CML, grade 3 or 4 fluid retention was reported in 2 patients (1%) in each of the dasatinib and the imatinib-treatment groups after a minimum of 12 months follow-up (see section 4.8).
-In clinical studies in patients with resistance or intolerance to prior imatinib therapy, grade 3 or 4 fluid retention was reported in 11% of patients, including grade 3 or 4 pleural and pericardial effusion reported in 7% and 2% of patients, respectively.
-In these studies, grade 3 or 4 ascites and generalised oedema were each reported in < 1% of patients, and grade 3 or 4 pulmonary oedema was reported in 1% of patients.
+In the Phase III clinical study in patients with newly diagnosed chronic phase CML, grade 3 or 4 fluid retention was reported in 13 patients (5%) in the dasatinib-treatment group and in 2 patients (1%) in the imatinib-treatment group after a minimum of 60 months follow-up (see section 4.8).
+In all SPRYCEL treated patients with chronic phase CML, severe fluid retention occurred in 32 patients (6%) receiving SPRYCEL at the recommended dose (n=548).
+In clinical studies in patients with advanced phase CML receiving SPRYCEL at the recommended dose (n=304), grade 3 or 4 fluid retention was reported in 8% of patients, including grade 3 or 4 pleural and pericardial effusion reported in 7% and 1% of patients, respectively.
+In these patients grade 3 or 4 pulmonary oedema and pulmonary hypertension were each reported in 1% of patients.
 
 Patients who develop symptoms suggestive of pleural effusion such as dyspnoea or dry cough should be evaluated by chest X-ray.
 Grade 3 or 4 pleural effusion may require thoracocentesis and oxygen therapy.
 Fluid retention events were typically managed by supportive care measures that include diuretics and short courses of steroids (see sections 4.2 and 4.8).
-While the safety profile of SPRYCEL in older people was similar to that in the younger population, patients aged 65 years and older are more likely to experience fluid retention events and dyspnoea and should be monitored closely.
-Fluid retention was reported less frequently in patients treated with once daily schedule compared to twice daily in two Phase III dose-optimisation studies (see section 4.8).
+Patients aged 65 years and older are more likely than younger patients to experience pleural effusion, dyspnoea, cough, pericardial effusion and congestive heart failure, and should be monitored closely.
 
 Pulmonary arterial hypertension (PAH)
-PAH (pre-capillary pulmonary arterial hypertension confirmed by right heart catheterization) has been reported in association with dasatinib treatment in post-marketing reports (see section 4.8).
+PAH (pre-capillary pulmonary arterial hypertension confirmed by right heart catheterization) has been reported in association with dasatinib treatment (see section 4.8).
 In these cases, PAH was reported after initiation of dasatinib therapy, including after more than one year of treatment.
 
 Patients should be evaluated for signs and symptoms of underlying cardiopulmonary disease prior to initiating dasatinib therapy.
@@ -67,7 +66,7 @@ Improvements in haemodynamic and clinical parameters have been observed in dasat
 
 QT Prolongation
 In vitro data suggest that dasatinib has the potential to prolong cardiac ventricular repolarisation (QT Interval) (see section 5.3).
-In 258 dasatinib-treated patients and 258 imatinib-treated patients with a minimum of 12 months follow-up in the Phase III study in newly diagnosed chronic phase CML, 1 patient (< 1%) in each group had QTc prolongation reported as an adverse reaction.
+In 258 dasatinib-treated patients and 258 imatinib-treated patients with a minimum of 60 months follow-up in the Phase III study in newly diagnosed chronic phase CML, 1 patient (< 1%) in each group had QTc prolongation reported as an adverse reaction.
 The median changes in QTcF from baseline were 3.0 msec in dasatinib-treated patients compared to 8.2 msec in imatinib-treated patients.
 One patient (< 1%) in each group experienced a QTcF > 500 msec.
 In 865 patients with leukaemia treated with dasatinib in Phase II clinical trials, the mean changes from baseline in QTc interval using Fridericia's method (QTcF) were 4 - 6 msec; the upper 95% confidence intervals for all mean changes from baseline were < 7 msec (see section 4.8).
@@ -80,7 +79,7 @@ Hypokalaemia or hypomagnesaemia should be corrected prior to dasatinib administr
 
 Cardiac adverse reactions
 Dasatinib was studied in a randomised trial of 519 patients with newly diagnosed CML in chronic phase which included patients with prior cardiac disease.
-The cardiac adverse reactions of congestive heart failure/cardiac dysfunction and fatal myocardial infarction were reported in patients taking dasatinib.
+The cardiac adverse reactions of congestive heart failure/cardiac dysfunction, pericardial effusion, arrhythmias, palpitations, QT prolongation and myocardial infarction (including fatal) were reported in patients taking dasatinib.
 Adverse cardiac events were more frequent in patients with risk factors or a history of cardiac disease.
 Patients with risk factors (e.g. hypertension, hyperlipidemia, diabetes) or a history of cardiac disease (e.g. prior percutaneous coronary intervention, documented coronary artery disease) should be monitored carefully for clinical signs or symptoms consistent with cardiac dysfunction such as chest pain, shortness of breath, and diaphoresis.
 
