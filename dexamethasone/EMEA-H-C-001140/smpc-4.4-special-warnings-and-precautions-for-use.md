@@ -5,7 +5,7 @@ Proper aseptic injection techniques must always be used.
 In addition, patients should be monitored following the injection to permit early treatment if an infection or increased intraocular pressure occurs.
 Monitoring may consist of a check for perfusion of the optic nerve head immediately after the injection, tonometry within 30 minutes following the injection, and biomicroscopy between two and seven days following the injection.
 
-Patients must be instructed to report any symptoms suggestive of endophthalmitis or any of the above mentioned events without delay e.g. eye pain, blurred vision etc (see section 4.8).
+Patients must be instructed to report any symptoms suggestive of endophthalmitis or any of the above mentioned events without delay, e.g. eye pain, blurred vision etc. (see section 4.8).
 
 All patients with posterior capsule tear, such as those with a posterior lens (e.g. due to cataract surgery), and/or those who have an iris opening to the vitreous cavity (e.g. due to iridectomy) with or without a history of vitrectomy, are at risk of implant migration into the anterior chamber.
 Implant migration to the anterior chamber may lead to corneal oedema.

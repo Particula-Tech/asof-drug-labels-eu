@@ -1,15 +1,22 @@
 # 4.8 Undesirable effects
 
+Summary of the safety profile
+The most commonly-reported adverse events reported following treatment with OZURDEX are those frequently observed with ophthalmic steroid treatment or intravitreal injections (elevated IOP, cataract formation and conjunctival or vitreal haemorrhage respectively).
+
+Less frequently reported, but more serious, adverse reactions include endophthalmitis, necrotizing retinitis, retinal detachment and retinal tear.
+
+With the exception of headache and migraine, no systemic adverse drug reactions were identified with the use of OZURDEX.
+
+Tabulated list of adverse reactions
 The adverse reactions considered related to OZURDEX treatment from the Phase III clinical trials (DME, BRVO/CRVO and uveitis) and spontaneous reporting are listed by MedDRA System organ class in the table below using the following convention:
 
-Very Common (≥ 1/10); Common (≥1/100 to <1/10); Uncommon (≥1/1,000 to <1/100); Rare (≥1/10,000 to <1/1,000); Very Rare (<1/10,000).
+Very common (≥ 1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-
 Table 1 Adverse reactions
 
 | System organ class | Frequency | Adverse reaction |
 | --- | --- | --- |
-| Nervous System Disorders | Common | Headache |
+| Nervous system disorders | Common | Headache |
 |  | Uncommon | Migraine |
 | Eye disorders | Very common | Intraocular pressure increased, cataract, conjunctival haemorrhage* |
 |  | Common | Ocular hypertension, cataract subcapsular, vitreous haemorrhage*, visual acuity reduced*, visual impairment/ disturbance, vitreous detachment*, vitreous floaters*, vitreous opacities*, blepharitis, eye pain*, photopsia*, conjunctival oedema* conjunctival hyperaemia* |
@@ -18,10 +25,12 @@ Table 1 Adverse reactions
 
 * indicates adverse reactions considered to be related to the intravitreal injection procedure (the frequency of these adverse reactions is proportional to the number of treatments given)
 
+Description of selected adverse reactions
 Diabetic Macular Oedema
 
 The clinical safety of OZURDEX in patients with diabetic macular oedema was assessed in two phase 3 randomized, double-masked, sham-controlled studies.
 In both studies, a total of 347 patients were randomized and received OZURDEX and 350 patients received sham.
+
 The most frequently reported adverse reactions across the entire study period in the study eye of patients who received OZURDEX were cataract and elevated IOP (see below).
 
 In the 3 year DME clinical studies, at baseline, 87% of patients with a phakic study eye treated with OZURDEX had some degree of lens opacification/ early cataract.
@@ -36,7 +45,6 @@ The rate and magnitude of IOP elevation following OZURDEX treatment did not incr
 At baseline 3% of patients required IOP-lowering medication(s).
 Overall, 42% of patients required IOP-lowering medications in the study eye at some stage during the 3 year studies, with the majority of these patients requiring more than one medication.
 Peak usage (33%) occurred during the first 12 months and remained similar from year to year.
-
 A total of 4 patients (1%) treated with OZURDEX had procedures in the study eye for the treatment of IOP elevation.
 One patient treated with OZURDEX required incisional surgery (trabeculectomy) to manage the steroid-induced IOP elevation, 1 patient had a trabeculectomy owing to anterior chamber fibrin blocking the aqueous outflow leading to increased IOP, 1 patient had an iridotomy for narrow angle glaucoma and 1 patient had iridectomy due to cataract surgery.
 No patient required removal of the implant by vitrectomy to control IOP.
@@ -59,6 +67,7 @@ The adverse reaction profile of 341 patients analysed following a second injecti
 A total of 54 % of patients experienced at least one adverse reaction.
 The incidence of increased IOP (24.9 %) was similar to that seen following the first injection and likewise returned to baseline by open-label day 180.
 The overall incidence of cataracts was higher after 1 year compared to the initial 6 months.
+
 Uveitis
 The clinical safety of OZURDEX in patients with inflammation of the posterior segment of the eye presenting as non-infectious uveitis, has been assessed in a single, multicentre, masked, randomised study.
 
@@ -70,4 +79,4 @@ The most frequently reported adverse reactions in the study eye of patients who 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V*.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

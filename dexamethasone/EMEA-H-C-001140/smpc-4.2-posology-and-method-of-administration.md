@@ -13,7 +13,7 @@ Retreatment may be performed after approximately 6 months if the patient experie
 
 There is currently no experience of the efficacy or safety of repeat administrations in DME beyond 7 implants.
 
-RVO and Uveitis
+RVO and uveitis
 Repeat doses should be considered when a patient experiences a response to treatment followed subsequently by a loss in visual acuity and in the physician’s opinion may benefit from retreatment without being exposed to significant risk (see section 5.1).
 
 Patients who experience and retain improved vision should not be retreated.
@@ -24,6 +24,7 @@ There is currently no experience of repeat administrations in posterior segment 
 Patients should be monitored following the injection to permit early treatment if an infection or increased intraocular pressure occurs (see section 4.4).
 
 Special populations
+
 Elderly (≥65 years old)
 No dose adjustment is required for elderly patients.
 
@@ -43,7 +44,7 @@ The safety and efficacy of OZURDEX in uveitis in the paediatric population have 
 No data are available.
 
 Method of administration
-Single-use intravitreal implant in applicator for intravitreal use only.
+OZURDEX is a single-use intravitreal implant in applicator for intravitreal use only.
 Each applicator can only be used for the treatment of a single eye.
 
 The intravitreal injection procedure should be carried out under controlled aseptic conditions which include the use of sterile gloves, a sterile drape, and a sterile eyelid speculum (or equivalent).
