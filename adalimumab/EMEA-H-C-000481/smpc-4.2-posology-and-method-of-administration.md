@@ -1,6 +1,7 @@
 # 4.2 Posology and method of administration
 
 Posology
+
 Humira treatment should be initiated and supervised by specialist physicians experienced in the diagnosis and treatment of conditons for which Humira is indicated.
 Patients treated with Humira should be given the special alert card.
 
@@ -39,18 +40,41 @@ Polyarticular juvenile idiopathic arthritis from 13 years of age
 
 For patients from 13 years of age, a dose of 40 mg is administered every other week regardless of body surface area.
 
-A 40 mg pen and a 40 mg pre-filled syringe are also available for patients to administer a full 40 mg dose.
-
 Available data suggest that clinical response is usually achieved within 12 weeks of treatment.
 Continued therapy should be carefully reconsidered in a patient not responding within this time period.
 
 There is no relevant use of Humira in patients aged less than 2 years in this indication.
-
 Enthesitis-related arthritis
+
 The recommended dose of Humira for patients with enthesitis-related arthritis 6 years of age and older is 24 mg/m² body surface area up to a maximum single dose of 40 mg adalimumab administered every other week via subcutaneous injection.
 The volume for injection is selected based on the patients' height and weight (Table 1).
 
 Humira has not been studied in patients with enthesitis-related arthritis aged less than 6 years.
+
+Paediatric plaque psoriasis
+
+The recommended Humira dose is 0.8 mg per kg body weight (up to a maximum of 40 mg per dose) administered subcutaneously weekly for the first two doses and every other week thereafter.
+Continued therapy beyond 16 weeks should be carefully considered in a patient not responding within this time period.
+
+If retreatment with Humira is indicated, the above guidance on dose and treatment duration should be followed.
+
+The safety of Humira in paediatric patients with plaque psoriasis has been assessed for a mean of 13 months.
+
+There is no relevant use of Humira in children aged less than 4 years in this indication.
+
+The volume for injection is selected based on the patients' weight (Table 2).
+
+Table 2: Humira Dose in Milliliters (mL) by Weight for Patients with Pediatric Psoriasis
+
+| Body Weight (kg) | Paediatric Psoriasis Dose |
+| --- | --- |
+| 13 – 16 | 0.2 mL (10 mg) |
+| 17 – 22 | 0.3 mL (15 mg) |
+| 23 – 28 | 0.4 mL (20 mg) |
+| 29 – 34 | 0.5 mL (25 mg) |
+| 35 – 40 | 0.6 mL (30 mg) |
+| 41 – 46 | 0.7 mL (35 mg) |
+| 47+ | 0.8 mL (40 mg) |
 
 Paediatric Crohn's disease
 
@@ -63,7 +87,6 @@ After induction treatment, the recommended dose is 20 mg every other week via su
 Some subjects who experience insufficient response may benefit from an increase in dosing frequency to 20 mg Humira every week.
 
 Paediatric Crohn's disease patients ≥ 40 kg:
-
 The recommended Humira induction dose regimen for paediatric subjects with severe Crohn's disease is 80 mg at Week 0 followed by 40 mg at Week 2.
 In case there is a need for a more rapid response to therapy, the regimen 160 mg at Week 0 (dose can be administered as four injections in one day or as two injections per day for two consecutive days), 80 mg at Week 2 can be used, with the awareness that the risk for adverse events may be higher with use of the higher induction dose.
 
@@ -71,8 +94,6 @@ After induction treatment, the recommended dose is 40 mg every other week via su
 Some subjects who experience insufficient response may benefit from an increase in dosing frequency to 40 mg Humira every week.
 
 Continued therapy should be carefully considered in a subject not responding by Week 12.
-
-A 40 mg pen and a 40 mg prefilled syringe are also available for patients to administer a full 40 mg dose.
 
 There is no relevant use of Humira in children aged less than 6 years in this indication.
 
@@ -85,6 +106,8 @@ Method of administration
 
 Humira is administered by subcutaneous injection.
 Full instructions for use are provided in the package leaflet.
+
+A 40 mg pen and a 40 mg prefilled syringe are also available for patients to administer a full 40 mg dose.
 
 [Humira 40 mg solution for injection in pre-filled syringe]
 
@@ -113,10 +136,10 @@ Ankylosing spondylitis, axial spondyloarthritis without radiographic evidence of
 The recommended dose of Humira for patients with ankylosing spondylitis, axial spondyloarthritis without radiographic evidence of AS and for patients with psoriatic arthritis is 40 mg adalimumab administered every other week as a single dose via subcutaneous injection.
 
 For all of the above indications, available data suggest that the clinical response is usually achieved within 12 weeks of treatment.
-
 Psoriasis
 
 The recommended dose of Humira for adult patients is an initial dose of 80 mg administered subcutaneously, followed by 40 mg subcutaneously given every other week starting one week after the initial dose.
+
 Continued therapy beyond 16 weeks should be carefully reconsidered in a patient not responding within this time period.
 
 Crohn’s disease
@@ -148,17 +171,13 @@ A 40 mg paediatric vial is available for patients who need to administer less th
 
 There is no relevant use of Humira in patients aged <2 years in this indication.
 
-Paediatric psoriasis
-
-The safety and efficacy of Humira in children aged 4-17 years have not been established.
-No data are available.
-There is no relevant use of Humira in children aged <4 years in this indication.
-
 There is no relevant use of Humira in children aged below 6 years in this indication.
 
 Paediatric ulcerative colitis
 
 The safety and efficacy of Humira in children aged 4-17 years have not yet been established.
+No data are available.
+There is no relevant use of Humira in children aged <4 years in this indication.
 
 Psoriatic arthritis and axial spondyloarthritis including ankylosing spondylitis
 
@@ -171,6 +190,10 @@ The recommended dose of Humira for patients with ankylosing spondylitis axial sp
 There is little experience from re administration after more than 8 weeks since the previous dose.
 
 For patients from13 years of age, a dose of 40 mg is administered every other week regardless of body surface area.
+
+The recommended Humira dose is 0.8mg per kg body weight (up to a maximum of 40 mg per dose) administered subcutaneously weekly for the first two doses and every other week thereafter.
+
+Table 2 Humira Dose in Milliliters (mL) by Weight for Patients with Pediatric Psoriasis
 
 [Humira 40 mg solution for injection in pre-filled pen]
 

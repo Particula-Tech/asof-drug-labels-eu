@@ -27,6 +27,7 @@ Tuberculosis:
 
 Tuberculosis, including reactivation and new onset of tuberculosis, has been reported in patients receiving Humira.
 Reports included cases of pulmonary and extra-pulmonary (i.e. disseminated) tuberculosis.
+
 Before initiation of therapy with Humira, all patients must be evaluated for both active or inactive (“latent”) tuberculosis infection.
 This evaluation should include a detailed medical assessment of patient history of tuberculosis or possible previous exposure to people with active tuberculosis and previous and/or current immunosuppressive therapy.
 Appropriate screening tests (i.e. tuberculin skin test and chest X-ray) should be performed in all patients (local recommendations may apply).
@@ -42,7 +43,6 @@ If latent tuberculosis is suspected, a physician with expertise in the treatment
 If latent tuberculosis is diagnosed, appropriate treatment must be started with anti-tuberculosis prophylaxis treatment before the initiation of Humira, and in accordance with local recommendations.
 
 Use of anti-tuberculosis prophylaxis treatment should also be considered before the initiation of Humira in patients with several or significant risk factors for tuberculosis despite a negative test for tuberculosis and in patients with a past history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed.
-
 Despite prophylactic treatment for tuberculosis, cases of reactivated tuberculosis have occurred in patients treated with Humira.
 Some patients who have been successfully treated for active tuberculosis have redeveloped tuberculosis while being treated with Humira.
 
@@ -58,7 +58,7 @@ Diagnosis and administration of empiric antifungal therapy in these patients sho
 
 Hepatitis B reactivation
 
-Reactivation of hepatitis B has occurred in patients receiving a TNF-antagonist including Humira, who are chronic carriers of this virus (i.e., surface antigen positive).
+Reactivation of hepatitis B has occurred in patients receiving a TNF-antagonist including Humira, who are chronic carriers of this virus (i.e. surface antigen positive).
 Some cases have had a fatal outcome.
 Patients should be tested for HBV infection before initiating treatment with Humira.
 For patients who test positive for hepatitis B infection, consultation with a physician with expertise in the treatment of hepatitis B is recommended.
@@ -78,7 +78,6 @@ Serious allergic reactions associated with Humira were rare during clinical tria
 Non-serious allergic reactions associated with Humira were uncommon during clinical trials.
 Reports of serious allergic reactions including anaphylaxis have been received following Humira administration.
 If an anaphylactic reaction or other serious allergic reaction occurs, administration of Humira should be discontinued immediately and appropriate therapy initiated.
-
 Immunosuppression
 
 In a study of 64 patients with rheumatoid arthritis that were treated with Humira, there was no evidence of depression of delayed-type hypersensitivity, depression of immunoglobulin levels, or change in enumeration of effector T-, B, - NK-cells, monocyte/macrophages, and neutrophils.
@@ -132,6 +131,7 @@ It is recommended that paediatric patients, if possible, be brought up to date w
 
 Patients on Humira may receive concurrent vaccinations, except for live vaccines.
 Administration of live vaccines to infants exposed to adalimumab in utero is not recommended for 5 months following the mother’s last adalimumab injection during pregnancy.
+
 Congestive heart failure
 
 In a clinical trial with another TNF-antagonist worsening congestive heart failure and increased mortality due to congestive heart failure have been observed.
@@ -152,7 +152,6 @@ Serious infections were seen in clinical studies with concurrent use of anakinra
 Because of the nature of the adverse events seen with the combination of etanercept and anakinra therapy, similar toxicities may also result from the combination of anakinra and other TNF-antagonists.
 Therefore, the combination of adalimumab and anakinra is not recommended.
 (See section 4.5).
-
 Concomitant administration of adalimumab with other biologic DMARDS (e.g, anakinra and abatacept) or other TNF-antagonists is not recommended based upon the possible increased risk for infections, including serious infections and other potential pharmacological interactions.
 (See section 4.5).
 

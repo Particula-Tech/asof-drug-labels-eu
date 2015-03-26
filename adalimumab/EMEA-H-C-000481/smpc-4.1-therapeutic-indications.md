@@ -12,6 +12,10 @@ Enthesitis-related arthritis
 
 Humira is indicated for the treatment of active enthesitis-related arthritis in patients, 6 years of age and older, who have had an inadequate response to, or who are intolerant of, conventional therapy (see section 5.1).
 
+Paediatric plaque psoriasis
+
+Humira is indicated for the treatment of severe chronic plaque psoriasis in children and adolescents from 4 years of age who have had an inadequate response to or are inappropriate candidates for topical therapy and phototherapies.
+
 Paediatric Crohn's disease
 
 Humira is indicated for the treatment of severe active Crohn's disease in paediatric patients (from 6 years of age) who have had an inadequate response to conventional therapy including primary nutrition therapy, a corticosteroid, and an immunomodulator, or who are intolerant to or have contraindications for such therapies.

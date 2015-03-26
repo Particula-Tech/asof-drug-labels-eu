@@ -6,7 +6,6 @@ For Humira, limited clinical data on exposed pregnancies are available
 
 In a developmental toxicity study conducted in monkeys, there was no indication of maternal toxicity, embryotoxicity or teratogenicity.
 Preclinical data on postnatal toxicity of adalimumab are not available (see section 5.3).
-
 Due to its inhibition of TNFα, adalimumab administered during pregnancy could affect normal immune responses in the newborn.
 Administration of adalimumab is not recommended during pregnancy..
 

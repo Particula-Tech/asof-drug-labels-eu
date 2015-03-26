@@ -17,6 +17,8 @@ For patients who stayed on their randomised therapy, the mean (±SD) adalimumab 
 The mean trough concentrations were maintained in patients who continued to receive adalimumab treatment eow for 52 weeks.
 For patients who dose escalated from eow to weekly regimen, the mean (±SD) serum concentrations of adalimumab at Week 52 were 15.3±11.4 μg/mL (40/20 mg, weekly) and 6.7±3.5 μg/mL (20/10 mg, weekly).
 
+Following the administration of 0.8 mg/kg (up to a maximum of 40 mg) subcutaneously every other week to paediatric patients with chronic plaque psoriasis, the mean ± SD steady-state adalimumab trough concentration was approximately 7.4 ± 5.8 µg/mL (79% CV).
+
 Adults
 
 After subcutaneous administration of a single 40 mg dose, absorption and distribution of adalimumab was slow, with peak serum concentrations being reached about 5 days after administration.
@@ -28,13 +30,13 @@ Adalimumab concentrations in the synovial fluid from several rheumatoid arthriti
 Following subcutaneous administration of 40 mg of adalimumab every other week in adult rheumatoid arthritis (RA) patients the mean steady-state trough concentrations were approximately 5 µg/ml (without concomitant methotrexate) and 8 to 9 µg/ml (with concomitant methotrexate), respectively.
 The serum adalimumab trough levels at steady-state increased roughly proportionally with dose following 20, 40 and 80 mg subcutaneous dosing every other week and every week.
 
+In adult patients with psoriasis, the mean steady-state trough concentration was 5 μg/mL during adalimumab 40 mg every other week monotherapy treatment.
+
 Elimination
 
 Population pharmacokinetic analyses with data from over 1300 RA patients revealed a trend toward higher apparent clearance of adalimumab with increasing body weight.
 After adjustment for weight differences, gender and age appeared to have a minimal effect on adalimumab clearance.
 The serum levels of free adalimumab (not bound to anti-adalimumab antibodies, AAA) were observed to be lower in patients with measurable AAA.
-Humira has not been studied in patients with hepatic or renal impairment.
-
 Hepatic or renal impairment
 
 Humira has not been studied in patients with hepatic or renal impairment.
@@ -44,8 +46,6 @@ Humira has not been studied in patients with hepatic or renal impairment.
 Following the administration of 24 mg/m2 (up to a maximum of 40 mg) subcutaneously every other week to patients with polyarticular juvenile idiopathic arthritis (JIA) who were 4 to 17 years the mean trough steady-state (values measured from Week 20 to 48) serum adalimumab concentration was 5.6 ± 5.6 µg/mL (102% CV) for adalimumab without concomitant methotrexateand 10.9 ± 5.2 µg/mL (47.7% CV) with concomitant methotrexate.
 
 In patients with polyarticular JIA who were 2 to <4 years old or aged 4 and above weighing <15 kg dosed with adalimumab 24 mg/m2 , the mean trough steady-state serum adalimumab concentrations was 6.0 ± 6.1 µg/ml (101% CV) for adalimumab without concomitant methotrexate and 7.9 ± 5.6 µg/ml (71.2% CV) with concomitant methotrexate.
-
-In patients with psoriasis, the mean steady-state trough concentration was 5 µg/mL during adalimumab 40 mg every other week monotherapy treatment.
 
 In patients with Crohn’s disease, the loading dose of 80 mg Humira on Week 0 followed by 40 mg Humira on Week 2 achieves serum adalimumab trough concentrations of approximately 5.5 µg/ml during the induction period.
 A loading dose of 160 mg Humira on Week 0 followed by 80 mg Humira on Week 2 achieves serum adalimumab trough concentrations of approximately 12 µg/ml during the induction period.
