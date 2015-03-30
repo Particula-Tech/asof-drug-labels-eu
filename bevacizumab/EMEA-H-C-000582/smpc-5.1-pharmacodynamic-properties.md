@@ -139,7 +139,7 @@ Both co-primary objectives were met:
 Secondary PFS analyses, based on ‘on-treatment’-based response assessments, confirmed the significantly superior clinical benefit for patients treated with Avastin (analyses shown in Table 7), consistent with the statistically significant benefit observed in the pooled analysis.
 Table 7 Key efficacy results for the superiority analysis (ITT population, trial NO16966)
 
-| Endpoint (months) | FOLFOX-4 or XELOX + placebo (n=701) | FOLFOX-4 or XELOX + bevacizumab (n=699) | P value |
+| Endpoint (months) | FOLFOX-4 or XELOX + placebo (n=701) | FOLFOX-4 or XELOX + bevacizumab (n=699) | P-value |
 | --- | --- | --- | --- |
 | Primary endpoint |  |  |  |
 | Median PFS** | 8.0 | 9.4 | 0.0023 |
@@ -154,7 +154,7 @@ Table 7 Key efficacy results for the superiority analysis (ITT population, trial
 * Overall survival analysis at clinical cut-off 31 January 2007
 ** Primary analysis at clinical cut-off 31 January 2006 a relative to control arm
 
-In the FOLFOX treatment subgroup, the median PFS was 8.6 months in placebo and 9.4 months in bevacizumab treated patients, HR = 0.89, 97.5% CI = [0.73; 1.08]; p-value = 0.1871, the corresponding results in the XELOX treatment subgroup being 7.4 vs. 9.3 months, HR = 0.77, 97.5% CI = [0.63 ; 0.94]; p-value = 0.0026.
+In the FOLFOX treatment subgroup, the median PFS was 8.6 months in placebo and 9.4 months in bevacizumab treated patients, HR = 0.89, 97.5% CI = [0.73; 1.08]; p-value = 0.1871, the corresponding results in the XELOX treatment subgroup being 7.4 vs. 9.3 months, HR = 0.77, 97.5% CI = [0.63; 0.94]; p-value = 0.0026.
 
 The median overall survival was 20.3 months in placebo and 21.2 months in bevacizumab treated patients in the FOLFOX treatment subgroup, HR=0.94, 97.5% CI = [0.75; 1.16]; p-value = 0.4937, the corresponding results in the XELOX, treatment subgroup being 19.2 vs. 21.4 months, HR = 0.84, 97.5% CI = [0.68; 1.04]; p-value = 0.0698.
 
@@ -543,7 +543,7 @@ Hazard Ratio (95% CI)4 0.90 0.64
 4 Relative to the control arm.
 
 BO17707 (ICON7)
-BO17707 was a Phase III, two arm, multicentre, randomised, controlled, open-label study comparing the effect of adding Avastin to carboplatin plus paclitaxel in patients with FIGO Stage I or IIA (Grade 3 or clear cell histology only; n = 142), or FIGO Stage IIB - IV (all Grades and all histological types, n = 1386) epithelial ovarian, fallopian tube or primary peritoneal cancer following surgery (NCI-CTCAE v.3).
+BO17707 was a Phase III, two arm, multicentre, randomised, controlled, open-label study comparing the effect of adding Avastin to carboplatin plus paclitaxel in patients with FIGO stage I or IIA (Grade 3 or clear cell histology only; n = 142), or FIGO stage IIB - IV (all Grades and all histological types, n = 1386) epithelial ovarian, fallopian tube or primary peritoneal cancer following surgery (NCI-CTCAE v.3).
 
 Patients who had received prior therapy with bevacizumab or prior systemic anticancer therapy for ovarian cancer (e.g. chemotherapy, monoclonal antibody therapy, tyrosine kinase inhibitor therapy, or hormonal therapy) or previous radiotherapy to the abdomen or pelvis were excluded from the study.
 
@@ -771,8 +771,85 @@ Table 22: Exploratory PFS and OS analyses by chemotherapy cohort
 | Median OS (months) | 14.1 | 13.7 |  |
 | Hazard ratio (95% CI) | 0.91 [0.61, 1.35] |  |  |
 
+Cervical Cancer
+
+GOG-0240
+The efficacy and safety of Avastin in combination with chemotherapy (paclitaxel and cisplatin or paclitaxel and topotecan) in the treatment for patients with persistent, recurrent or metastatic carcinoma of the cervix was evaluated in study GOG-0240, a randomised, four-arm, open label, multicentre phase III trial.
+
+A total of 452 patients were randomised to receive either:
+
+- Paclitaxel 135 mg/m2 IV over 24 hours on Day 1 and cisplatin 50 mg/m2 IV on Day 2, every 3 weeks (q3w); or
+
+Paclitaxel 175 mg/m2 IV over 3 hours on Day 1 and cisplatin 50 mg/m2 IV on Day 2 (q3w); or Paclitaxel 175 mg/m2 IV over 3 hours on Day 1 and cisplatin 50 mg/m2 IV on Day 1 (q3w)
+
+- Paclitaxel 135 mg/m2 IV over 24 hours on Day 1 and cisplatin 50 mg/m2 IV on Day 2 plus bevacizumab 15 mg/kg IV on Day 2 (q3w); or
+
+Paclitaxel 175 mg/m2 IV over 3 hours on Day 1 and cisplatin 50 mg/m2 IV on Day 2 plus bevacizumab 15 mg/kg IV on Day 2 (q3w); or
+Paclitaxel 175 mg/m2 IV over 3 hours on Day 1 and cisplatin 50 mg/m2 IV on Day 1 plus bevacizumab 15 mg/kg IV on Day 1 (q3w)
+
+- Paclitaxel 175 mg/m2 IV over 3 hours on Day 1 and topotecan 0.75 mg/m2 IV over 30 minutes on days 1-3 (q3w)
+- Paclitaxel 175 mg/m2 IV over 3 hours on Day 1 and topotecan 0.75 mg/m2 IV over 30 minutes on Days 1-3 plus bevacizumab 15 mg/kg IV on Day 1 (q3w)
+
+Eligible patients had persistent, recurrent or metastatic squamous cell carcinoma, adenosquamous carcinoma, or adenocarcinoma of the cervix which was not amenable to curative treatment with surgery and/or radiation therapy and who have not received prior therapy with bevacizumab or other VEGF inhibitors or VEGF receptor–targeted agents.
+The median age was 46.0 years (range: 20−83) in the Chemo alone group and 48.0 years
+(range: 22−85) in the Chemo+Avastin group; with 9.3% of patients in the Chemo alone group and 7.5% of patients in the Chemo+Avastin group over the age of 65 years.
+Of the 452 patients randomized at baseline, the majority of patients were white (80.0% in the Chemo alone group and 75.3% in the Chemo+Avastin group), had squamous cell carcinoma (67.1% in the Chemo alone group and 69.6% in the Chemo+Avastin group), had persistent/recurrent disease (83.6% in the Chemo alone group and 82.8% in the Chemo+Avastin group), had 1-2 metastatic sites (72.0% in the Chemo alone group and 76.2% in the Chemo+Avastin group), had lymph node involvement (50.2% in the Chemo alone group and 56.4% in the Chemo+Avastin group), and had a platinum free interval ≥ 6 months (72.5% in the Chemo alone group and 64.4% in the Chemo+Avastin group).
+
+The primary efficacy endpoint was overall survival.
+Secondary efficacy endpoints included progression-free survival and objective response rate.
+Results from the primary analysis and the follow-up analysis are presented by Avastin Treatment and by Trial Treatment in Table 23 and Table 24, respectively.
+
+Table 23 Efficacy results from study GOG-0240 by Avastin Treatment
+
+|  | Chemotherapy (n=225) | Chemotherapy + Avastin (n=227) |
+| --- | --- | --- |
+| Primary Endpoint |  |  |
+| Overall Survival – Primary analysis6 |  |  |
+| Median (months)1 | 12.9 | 16.8 |
+| Hazard ratio [95% CI] | 0.74 [0.58, 0.94] (p-value5 = 0.0132) |  |
+| Overall Survival – Follow-up analysis7 |  |  |
+| Median (months)1 | 13.3 | 16.8 |
+| Hazard ratio [95% CI] | 0.76 [0.62, 0.94] (p-value5,8 = 0.0126) |  |
+| Secondary Endpoints |  |  |
+| Progression-free survival – Primary analysis6 |  |  |
+| Median PFS (months)1 | 6.0 | 8.3 |
+| Hazard ratio [95% CI] | 0.66 [0.54, 0.81] (p-value5 <0.0001) |  |
+| Best Overall Response – Primary analysis6 |  |  |
+| Responders (Response rate2) | 76 (33.8 %) | 103 (45.4 %) |
+| 95% CI for Response Rates3 | [27.6%, 40.4%] | [38.8%, 52.1%] |
+| Difference in Response Rates | 11.60% |  |
+| 95% CI for Difference in Response Rates4 | [2.4%, 20.8%] |  |
+| p-value (Chi-squared Test) | 0.0117 |  |
+
+1 Kaplan-Meier estimates
+2 Patients and percentage of patients with best overall response of confirmed CR or PR; percentage calculated on patients with measurable disease at baseline
+3 95% CI for one sample binomial using Pearson-Clopper method
+4 Approximate 95% CI for difference of two rates using Hauck-Anderson method
+5 log-rank test (stratified)
+6 Primary analysis was performed with a data cut-off date of 12 December 2012 and is considered the final analysis
+7 Follow-up analysis was performed with a data cut-off date of 07 March 2014
+8 p-value displayed for descriptive purpose only
+Table 24 Overall survival results from study GOG-0240 by Trial Treatment
+
+| Treatment | Other Factor | Overall survival – Primary analysis1 | Overall survival - Follow-up analysis2 |
+| --- | --- | --- | --- |
+| Comparison |  | Hazard Ratio (95% CI) | Hazard Ratio (95% CI) |
+| Avastin vs. | Cisplatin+ Paclitaxel | 0.72 (0.51, 1.02) | 0.75 (0.55, 1.01) |
+| No Avastin |  | (17.5 vs.14.3 months; p = 0.0609) | (17.5 vs.15.0 months; p = 0.0584) |
+|  | Topotecan+ Paclitaxel | 0.76 (0.55, 1.06) | 0.79 (0.59, 1.07) |
+|  |  | (14.9 vs. 11.9 months; p = 0.1061) | (16.2 vs. 12.0 months; p = 0.1342) |
+| Topotecan+ | Avastin | 1.15 (0.82, 1.61) | 1.15 (0.85, 1.56) |
+| Paclitaxel vs. |  | (14.9 vs. 17.5 months; p = 0.4146) | (16.2 vs 17.5 months; p = 0.3769) |
+| Cisplatin+ |  |  |  |
+|  | No Avastin | 1.13 (0.81, 1.57) | 1.08 (0.80, 1.45) |
+| Paclitaxel |  |  |  |
+|  |  | (11.9 vs.14.3 months; p = 0.4825) | (12.0 vs 15.0 months; p = 0.6267) |
+
+1 Primary analysis was performed with a data cut-off date of 12 December 2012 and is considered the final analysis
+2 Follow-up analysis was performed with a data cut-off date of 07 March 2014; all p-values are displayed for descriptive purpose only
+
 Paediatric population
-The European Medicines Agency has waived the obligation to submit the results of studies, in all subsets of the paediatric population, in breast carcinoma, adenocarcinoma of the colon and rectum, lung carcinoma (small cell and non-small cell carcinoma), kidney and renal pelvis carcinoma (excluding nephroblastoma, nephroblastomatosis, clear cell sarcoma, mesoblastic nephroma, renal medullary carcinoma and rhabdoid tumour of the kidney), ovarian carcinoma (excluding rhabdomyosarcoma and germ cell tumours), fallopian tube carcinoma (excluding rhabdomyosarcoma and germ cell tumours) and peritoneal carcinoma (excluding blastomas and sarcomas).
+The European Medicines Agency has waived the obligation to submit the results of studies, in all subsets of the paediatric population, in breast carcinoma, adenocarcinoma of the colon and rectum, lung carcinoma (small cell and non-small cell carcinoma), kidney and renal pelvis carcinoma (excluding nephroblastoma, nephroblastomatosis, clear cell sarcoma, mesoblastic nephroma, renal medullary carcinoma and rhabdoid tumour of the kidney), ovarian carcinoma (excluding rhabdomyosarcoma and germ cell tumours), fallopian tube carcinoma (excluding rhabdomyosarcoma and germ cell tumours), peritoneal carcinoma (excluding blastomas and sarcomas) and cervix and corpus uteri carcinoma.
 
 Anti-tumour activity was not observed in two studies among a total of 30 children aged > 3 years old with relapsed or progressive high-grade glioma when treated with bevacizumab and irinotecan.
 There is insufficient information to determine the safety and efficacy of bevacizumab in children with newly-diagnosed high-grade glioma.

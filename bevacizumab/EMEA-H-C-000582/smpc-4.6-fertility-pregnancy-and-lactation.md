@@ -4,9 +4,10 @@ Women of childbearing potential
 Women of childbearing potential have to use effective contraception during (and up to 6 months after) treatment.
 
 Pregnancy
-There are no data on the use of Avastin in pregnant women.
+There are no clinical trial data on the use of Avastin in pregnant women.
 Studies in animals have shown reproductive toxicity including malformations (see section 5.3).
 IgGs are known to cross the placenta, and Avastin is anticipated to inhibit angiogenesis in the foetus, and thus is suspected to cause serious birth defects when administered during pregnancy.
+In the post-marketing setting, cases of foetal abnormalities in women treated with bevacizumab alone or in combination with known embryotoxic chemotherapeutics have been observed (see section 4.8).
 Avastin is contraindicated in pregnancy (see section 4.3).
 
 Breast-feeding

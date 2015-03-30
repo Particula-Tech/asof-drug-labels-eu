@@ -25,17 +25,23 @@ Advanced and/or metastatic renal cell cancer (mRCC)
 
 The recommended dose of Avastin is 10 mg/kg of body weight given once every 2 weeks as an intravenous infusion.
 It is recommended that treatment be continued until progression of the underlying disease or until unacceptable toxicity.
-
 Epithelial ovarian, fallopian tube and primary peritoneal cancer
 
 Front-line treatment: Avastin is administered in addition to carboplatin and paclitaxel for up to 6 cycles of treatment followed by continued use of Avastin as single agent until disease progression or for a maximum of 15 months or until unacceptable toxicity, whichever occurs earlier.
 The recommended dose of Avastin is 15 mg/kg of body weight given once every 3 weeks as an intravenous infusion.
+
 Treatment of platinum-sensitive recurrent disease: Avastin is administered in combination with carboplatin and gemcitabine for 6 cycles and up to 10 cycles followed by continued use of Avastin as single agent until disease progression.The recommended dose of Avastin is 15 mg/kg of body weight given once every 3 weeks as an intravenous infusion.
 
 Treatment of platinum-resistant recurrent disease: Avastin is administered in combination with one of the following agents – paclitaxel, topotecan (given weekly) or pegylated liposomal doxorubicin.
 The recommended dose of Avastin is 10 mg/kg of body weight given once every 2 weeks as an intravenous infusion.
 When Avastin is administered in combination with topotecan (given on days 1-5, every 3 weeks), the recommended dose of Avastin is 15 mg/kg of body weight given once every 3 weeks as an intravenous infusion.
 It is recommended that treatment be continued until disease progression or unacceptable toxicity (see section 5.1, study MO22224).
+
+Cervical Cancer
+
+Avastin is administered in combination with one of the following chemotherapy regimens: paclitaxel and cisplatin or paclitaxel and topotecan.
+The recommended dose of Avastin is 15 mg/kg of body weight given once every 3 weeks as an intravenous infusion.
+It is recommended that treatment be continued until progression of the underlying disease or until unacceptable toxicity (see section 5.1).
 
 Special populations
 
@@ -60,7 +66,6 @@ Method of administration
 The initial dose should be delivered over 90 minutes as an intravenous infusion.
 If the first infusion is well tolerated, the second infusion may be administered over 60 minutes.
 If the 60-minute infusion is well tolerated, all subsequent infusions may be administered over 30 minutes.
-
 It should not be administered as an intravenous push or bolus.
 
 Precautions to be taken before handling or administering the medicinal product

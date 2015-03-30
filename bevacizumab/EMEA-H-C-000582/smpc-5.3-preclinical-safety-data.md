@@ -12,3 +12,4 @@ An adverse effect on female fertility can however be expected as repeat dose tox
 Bevacizumab has been shown to be embryotoxic and teratogenic when administered to rabbits.
 Observed effects included decreases in maternal and foetal body weights, an increased number of foetal resorptions and an increased incidence of specific gross and skeletal foetal malformations.
 Adverse foetal outcomes were observed at all tested doses, of which the lowest dose resulted in average serum concentrations approximately 3 times larger than in humans receiving 5 mg/kg every 2 weeks.
+Information on foetal malformations observed in the post marketing setting are provided in section 4.6 Fertility, Pregnancy and Lactation and 4.8 Undesirable Effects.
