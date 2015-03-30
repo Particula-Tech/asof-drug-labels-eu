@@ -8,9 +8,8 @@ Co-administration of other medicinal products: Emtriva should not be taken with 
 
 Opportunistic infections: Patients receiving emtricitabine or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of HIV infection, and therefore should remain under close clinical observation by physicians experienced in the treatment of patients with HIV associated diseases.
 
-Transmission of HIV: Patients must be advised that antiretroviral therapies, including emtricitabine, have not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination.
-Appropriate precautions should continue to be used.
-Patients should also be informed that emtricitabine is not a cure for HIV infection.
+Transmission of HIV: While effective viral suppression with antiretroviral therapy has been proven to substantially reduce the risk of sexual transmission, a residual risk cannot be excluded.
+Precautions to prevent transmission should be taken in accordance with national guidelines.
 
 Renal function: Emtricitabine is principally eliminated by the kidney via glomerular filtration and active tubular secretion.
 Emtricitabine exposure may be markedly increased in patients with moderate or severe renal insufficiency (creatinine clearance < 50 ml/min) receiving daily doses of 200 mg emtricitabine as hard capsules or 240 mg as the oral solution.
@@ -25,7 +24,6 @@ Lactic acidosis: Lactic acidosis, usually associated with hepatic steatosis, has
 Early symptoms (symptomatic hyperlactataemia) include benign digestive symptoms (nausea, vomiting and abdominal pain), non-specific malaise, loss of appetite, weight loss, respiratory symptoms (rapid and/or deep breathing) or neurological symptoms (including motor weakness).
 Lactic acidosis has a high mortality and may be associated with pancreatitis, liver failure or renal failure.
 Lactic acidosis generally occurred after a few or several months of treatment.
-
 Treatment with nucleoside analogues should be discontinued in the setting of symptomatic hyperlactataemia and metabolic/lactic acidosis, progressive hepatomegaly, or rapidly elevating aminotransferase levels.
 
 Caution should be exercised when administering nucleoside analogues to any patient (particularly obese women) with hepatomegaly, hepatitis or other known risk factors for liver disease and hepatic steatosis (including certain medicinal products and alcohol).
