@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 Alexion Europe SAS
-25 Boulevard de l’Amiral Bruix
-75016 Paris
+1-15, avenue Edouard Belin
+92500 Rueil-Malmaison
 FRANCE

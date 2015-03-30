@@ -1,6 +1,6 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Eculizumab is a humanised monoclonal (IgG2/4κ ) antibody produced in NS0 cell line by recombinant DNA technology.
+Eculizumab is a humanised monoclonal (IgG2/4κ) antibody produced in NS0 cell line by recombinant DNA technology.
 
 One vial of 30 ml contains 300 mg of eculizumab (10 mg/ml).
 

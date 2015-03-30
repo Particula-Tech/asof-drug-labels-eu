@@ -9,13 +9,13 @@ To reduce the risk of infection, all patients must be vaccinated at least 2 week
 PNH patients must be vaccinated 2 weeks prior to Soliris initiation. aHUS patients who are treated with Soliris less than 2 weeks after receiving a meningococcal vaccine must receive treatment with appropriate prophylactic antibiotics until 2 weeks after vaccination.
 Patients must be re-vaccinated according to current medical guidelines for vaccination use.
 Tetravalent vaccines against serotypes A, C, Y and W135 are strongly recommended, preferably conjugated ones.
-
 Vaccination may not be sufficient to prevent meningococcal infection.
 Consideration should be given to official guidance on the appropriate use of antibacterial agents.
 Cases of serious or fatal meningococcal infections have been reported in Soliris-treated patients.
 All patients should be monitored for early signs of meningococcal infection, evaluated immediately if infection is suspected, and treated with appropriate antibiotics if necessary.
 Patients should be informed of these signs and symptoms and steps taken to seek medical care immediately.
 Physicians must discuss the benefits and risks of Soliris therapy with patients and provide them with a patient information brochure and a patient safety card (see Package Leaflet for a description).
+
 Other Systemic Infections
 Due to its mechanism of action, Soliris therapy should be administered with caution to patients with active systemic infections.
 Patients may have increased susceptibility to infections, especially with encapsulated bacteria.
@@ -47,7 +47,6 @@ Treatment with Soliris should not alter anticoagulant management.
 PNH Laboratory Monitoring
 PNH patients should be monitored for signs and symptoms of intravascular haemolysis, including serum lactate dehydrogenase (LDH) levels.
 PNH patients receiving Soliris therapy should be similarly monitored for intravascular haemolysis by measuring LDH levels, and may require dose adjustment within the recommended 14±2 day dosing schedule during the maintenance phase (up to every 12 days).
-
 aHUS Laboratory Monitoring aHUS patients receiving Soliris therapy should be monitored for thrombotic microangiopathy by measuring platelet counts, serum LDH and serum creatinine, and may require dose adjustment within the recommended 14±2 day dosing schedule during the maintenance phase (up to every 12 days).
 
 Treatment Discontinuation for PNH
@@ -59,21 +58,25 @@ In PNH clinical studies, 16 patients discontinued the Soliris treatment regimen.
 Serious haemolysis was not observed.
 
 Treatment Discontinuation for aHUS
-Severe thrombotic microangiopathy complications were observed after Soliris discontinuation in the aHUS clinical studies.
-If aHUS patients discontinue treatment with Soliris, they should be monitored closely for signs and symptoms of severe thrombotic microangiopathy complications.
+Thrombotic microangiopathy (TMA) complications have been observed as early as 4 weeks and up to 127 weeks following discontinuation of Soliris treatment in some patients.
+Discontinuation of treatment should only be considered if medically justified.
 
+In aHUS clinical studies, 61 patients (21 paediatric patients) discontinued Soliris treatment with a median follow-up period of 24 weeks.
+Fifteen severe thrombotic microangiopathy (TMA) complications in 12 patients were observed following treatment discontinuation, and 2 severe TMA complications occurred in an additional 2 patients that received a reduced dosing regimen of Soliris outside of the approved dosing regimen (See Section 4.2).
+Severe TMA complications occurred in patients regardless of whether they had an identified genetic mutation, high risk polymorphism or auto-antibody.
+Additional serious medical complications occurred in these patients including severe worsening of kidney function, disease-related hospitalization and progression to end stage renal disease requiring dialysis.
+Despite Soliris re-initiation following discontinuation, progression to end stage renal disease occurred in one patient.
+
+If aHUS patients discontinue treatment with Soliris, they should be monitored closely for signs and symptoms of severe thrombotic microangiopathy complications.
+Monitoring may be insufficient to predict or prevent severe thrombotic microangiopathy complications in patients with aHUS after discontinuation of Soliris.
 Severe thrombotic microangiopathy complications post discontinuation can be identified by (i) any two, or repeated measurement of any one, of the following: a decrease in platelet count of 25% or more as compared to either baseline or to peak platelet count during Soliris treatment; an increase in serum creatinine of 25% or more as compared to baseline or to nadir during Soliris treatment; or, an increase in serum LDH of 25% or more as compared to baseline or to nadir during Soliris treatment; or (ii) any one of the following: a change in mental status or seizures; angina or dyspnoea; or thrombosis.
 
-Monitor any patient who discontinues Soliris for at least 12 weeks to detect severe thrombotic microangiopathy complications.
-
 If severe thrombotic microangiopathy complications occur after Soliris discontinuation, consider reinstitution of Soliris treatment, supportive care with PE/PI, or appropriate organ-specific supportive measures including renal support with dialysis, respiratory support with mechanical ventilation or anticoagulation.
-In aHUS clinical studies, 18 patients (5 in the prospective studies) discontinued Soliris treatment.
-Seven (7) severe thrombotic microangiopathy complications were observed following the missed dose in 5 patients and Soliris was re-initiated in 4 of these 5 patients.
 
 Educational materials
 All physicians who intend to prescribe Soliris must ensure they are familiar with the physician’s guide to prescribing.
 Physicians must discuss the benefits and risks of Soliris therapy with patients and provide them with a patient information brochure and a patient safety card.
-Patients should be instructed that if they develop fever > 39°C, headache accompanied with fever and/or stiff neck or sensitivity to light, they should immediately seek medical care as these signs may be indicative of meningococcal infection.
+Patients should be instructed that if they develop fever, headache accompanied with fever and/or stiff neck or sensitivity to light, they should immediately seek medical care as these signs may be indicative of meningococcal infection.
 
 Excipients
 This medicinal product contains 5 mmol sodium per vial.
