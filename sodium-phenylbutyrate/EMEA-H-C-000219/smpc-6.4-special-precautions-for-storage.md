@@ -4,4 +4,4 @@ Do not store above 30°C.
 
 [AMMONAPS 940 mg/g granules]
 
-Store in a refrigerator (2°C – 8°C).
+Do not store above 25oC

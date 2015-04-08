@@ -16,7 +16,7 @@ The effect of food on absorption is unknown.
 Distribution
 The volume of distribution of phenylbutyrate is 0.2 l/kg.
 
-Metabolism
+Biotransformation
 After a single dose of 5 g of sodium phenylbutyrate, in the form of tablets, measurable plasma levels of phenylacetate and phenylacetylglutamine are detected 30 and 60 minutes respectively after dosing.
 The mean time to peak concentration is 3.74 and 3.43 hours, respectively, and the mean peak concentration is 48.5 and 68.5 µg/ml, respectively.
 The elimination half-life was estimated to be 1.2 and 2.4 hours, respectively.
@@ -29,7 +29,8 @@ Three cirrhotic patients (out of 6) who received repeated oral administration of
 
 In normal volunteers gender differences were found in the pharmacokinetic parameters of phenylbutyrate and phenylacetate (AUC and Cmax about 30 - 50 % greater in females), but not phenylacetylglutamine.
 This may be due to the lipophilicity of sodium phenylbutyrate and consequent differences in volume of distribution.
-Excretion
+
+Elimination
 Approximately 80 - 100 % of the medicinal product is excreted by the kidneys within 24 hours as the conjugated product, phenylacetylglutamine.
 
 [AMMONAPS 940 mg/g granules]

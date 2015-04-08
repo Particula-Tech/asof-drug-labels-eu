@@ -14,6 +14,7 @@ With haemodialysis, use of alternative waste nitrogen excretion pathways (sodium
 Patients with neonatal-onset disease had a high incidence of mental retardation.
 
 In patients diagnosed during gestation and treated prior to any episode of hyperammonaemic encephalopathy, survival was 100 %, but even in these patients, many subsequently demonstrated cognitive impairment or other neurologic deficits.
+
 In late-onset deficiency patients, including females heterozygous for ornithine transcarbamylase deficiency, who recovered from hyperammonaemic encephalopathy and were then treated chronically with dietary protein restriction and sodium phenylbutyrate, the survival rate was 98 %.
 The majority of the patients who were tested had an IQ in the average to low average/borderline mentally retarded range.
 Their cognitive performance remained relatively stable during phenylbutyrate therapy.

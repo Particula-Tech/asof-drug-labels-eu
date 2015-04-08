@@ -45,3 +45,8 @@ Increased weight.
 
 A probable case of toxic reaction to AMMONAPS (450 mg/kg/d) was reported in an 18-year old anorectic female patient who developed a metabolic encephalopathy associated with lactic acidosis, severe hypokalaemia, pancytopaenia, peripheral neuropathy, and pancreatitis.
 She recovered following dose reduction except for recurrent pancreatitis episodes that eventually prompted treatment discontinuation.
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
