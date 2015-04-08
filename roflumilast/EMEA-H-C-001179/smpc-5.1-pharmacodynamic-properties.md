@@ -35,6 +35,7 @@ Roflumilast did not significantly reduce the rate of exacerbations compared with
 The reduction of moderate or severe exacerbations with Daxas and LABA compared to placebo and LABA was on average 21% (p=0.0011).
 The respective reduction in exacerbations seen in patients without concomitant LABAs was on average 15% (p=0.0387).
 The numbers of patients who died due to any reason were equal for those treated with placebo or roflumilast (42 deaths each group; 2.7% each group; pooled analysis).
+
 A total of 2,690 patients were included and randomized in two supportive 1-year studies (M2-111 and M2-112).
 In contrast to the two confirmative studies, a history of chronic bronchitis and of COPD exacerbations was not requested for patients’ inclusion.
 Inhaled corticosteroids were used in 809 (61%) of the roflumilast treated patients, whereas the use of LABAs and theophylline was prohibited.

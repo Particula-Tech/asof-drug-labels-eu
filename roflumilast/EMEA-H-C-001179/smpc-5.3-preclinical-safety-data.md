@@ -4,6 +4,7 @@ There is no evidence for an immunotoxic, skin sensitising or phototoxic potentia
 
 A slight reduction in male fertility was seen in conjunction with epididymal toxicity in rats.
 No epididymal toxicity or changes in semen parameters were present in any other rodent or non-rodent species including monkeys in spite of higher exposures.
+
 In one of two rat embryofetal development studies, a higher incidence of incomplete skull bone ossification was seen at a dose producing maternal toxicity.
 In one of three rat studies on fertility and embryofetal development, post-implantation losses were observed.
 Post-implantation losses were not seen in rabbits.

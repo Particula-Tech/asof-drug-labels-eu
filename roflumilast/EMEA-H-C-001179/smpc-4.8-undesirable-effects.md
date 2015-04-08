@@ -13,7 +13,6 @@ Very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/10
 (≥1/10,000 to <1/1,000); very rare (<1/10,000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-
 Table 1.
 Adverse reactions with roflumilast in clinical COPD studies and post-marketing experience
 
@@ -22,9 +21,8 @@ Adverse reactions with roflumilast in clinical COPD studies and post-marketing e
 | Immune system disorders |  | Hypersensitivity | Angioedema |
 | Endocrine disorders |  |  | Gynaecomastia |
 | Metabolism and nutrition disorders | Weight decreased Decreased appetite |  |  |
-| Psychiatric disorders | Insomnia | Anxiety | Suicidal ideation and behaviour* Depression Nervousness |
-| Nervous system disorders | Headache | Tremor | Dysgeusia |
-|  |  | Vertigo Dizziness |  |
+| Psychiatric disorders | Insomnia | Anxiety | Suicidal ideation and behaviour* Depression Nervousness Panic attack |
+| Nervous system disorders | Headache | Tremor Vertigo Dizziness | Dysgeusia |
 | Cardiac disorders |  | Palpitations |  |
 | Respiratory, thoracic and mediastinal disorders |  |  | Respiratory tract infections (excluding Pneumonia) |
 | Gastrointestinal disorders | Diarrhoea Nausea Abdominal pain | Gastritis Vomiting Gastro-esophageal reflux disease Dyspepsia | Haematochezia Constipation |
