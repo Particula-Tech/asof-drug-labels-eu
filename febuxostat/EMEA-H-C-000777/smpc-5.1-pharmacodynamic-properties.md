@@ -10,7 +10,6 @@ Febuxostat is a 2-arylthiazole derivative that achieves its therapeutic effect o
 Febuxostat is a potent, non-purine selective inhibitor of XO (NP-SIXO) with an in vitro inhibition Ki value less than one nanomolar.
 Febuxostat has been shown to potently inhibit both the oxidized and reduced forms of XO.
 At therapeutic concentrations febuxostat does not inhibit other enzymes involved in purine or pyrimidine metabolism, namely, guanine deaminase, hypoxanthine guanine phosphoribosyltransferase, orotate phosphoribosyltransferase, orotidine monophosphate decarboxylase or purine nucleoside phosphorylase.
-
 Clinical efficacy and safety
 
 The efficacy of ADENURIC was demonstrated in three Phase 3 pivotal studies (the two pivotal APEX and FACT studies, and the additional CONFIRMS study described below) that were conducted in 4101 patients with hyperuricaemia and gout.
@@ -31,6 +30,7 @@ Seven hundred sixty (760) patients were randomized: ADENURIC 80 mg QD (n=256), A
 The FACT study showed the statistically significant superiority of both ADENURIC 80 mg and ADENURIC 120 mg QD treatment arms versus the conventionally used dose of allopurinol 300 mg treatment arm in reducing and maintaining sUA below 6 mg/dL (357 µmol/L).
 
 Table 2 summarises the primary efficacy endpoint results:
+
 Table 2
 Proportion of Patients with Serum Uric Acid Levels <6.0 mg/dL (357 µmol/L)
 Last Three Monthly Visits
@@ -45,7 +45,6 @@ Last Three Monthly Visits
 The ability of ADENURIC to lower serum uric acid levels was prompt and persistent.
 Reduction in serum uric acid level to <6.0 mg/dL (357 µmol/L) was noted by the Week 2 visit and was maintained throughout treatment.
 The mean serum uric acid levels over time for each treatment group from the two pivotal Phase 3 studies are shown in Figure 1.
-
 Figure 1 Mean Serum Uric Acid Levels in Combined Pivotal Phase 3 Studies
 
 11
@@ -62,8 +61,8 @@ Figure 1 Mean Serum Uric Acid Levels in Combined Pivotal Phase 3 Studies
 ADENURIC 80 mg
 5
 
-4 ADENURIC 120 mg
-
+4
+ADENURIC 120 mg
 3
 ADENURIC 240 mg
 2
@@ -90,7 +89,6 @@ ADENURIC achieved the primary efficacy endpoint in 44% (80 mg QD), 45% (120 mg Q
 There were no clinically significant differences in the percent decrease in serum uric acid concentration in healthy subjects irrespective of their renal function (58% in the normal renal function group and 55% in the severe renal dysfunction group).
 
 An analysis in patients with gout and renal impairment was prospectively defined in the CONFIRMS study, and showed that febuxostat was significantly more efficacious in lowering serum urate levels to < 6 mg/dL compared to allopurinol 300 mg/200 mg in patients who had gout with mild to moderate renal impairment (65% of patients studied).
-
 Primary endpoint in the sub group of patients with sUA ≥ 10 mg/dL
 Approximately 40% of patients (combined APEX and FACT) had a baseline sUA of ≥ 10 mg/dL.
 In this subgroup ADENURIC achieved the primary efficacy endpoint (sUA < 6.0 mg/dL at the last 3 visits) in 41% (80 mg QD), 48% (120 mg QD), and 66% (240 mg QD) of patients compared to 9% in the allopurinol 300 mg/100 mg QD and 0 % in the placebo groups.
@@ -135,4 +133,22 @@ Increased TSH values (>5.5 µIU/mL) were observed in patients on long-term treat
 
 [ADENURIC 120 mg film-coated tablets]
 
+Gout
+
 The efficacy of ADENURIC was demonstrated in three Phase 3 pivotal studies (the two pivotal APEX and FACT studies, and the additional CONFIRMS study, described below) that were conducted in 4101 patients with hyperuricaemia and gout.
+
+Tumor Lysis Syndrome
+The efficacy and safety of ADENURIC in the prevention and treatment of Tumor Lysis Syndrome was evaluated in the FLORENCE (FLO-01) study.
+ADENURIC showed a superior and faster urate lowering activity compared to allopurinol.
+FLORENCE was a randomized (1:1), double blind, phase III, pivotal trial comparing ADENURIC 120 mg once daily with allopurinol 200 to 600 mg daily (mean allopurinol daily dose [± standard deviation]: 349.7 ± 112.90 mg) in terms of control of serum uric acid level.
+Eligible patients had to be candidates for allopurinol treatment or have no access to rasburicase.
+Primary endpoints were serum uric acid area under the curve (AUC sUA1-8) and change in serum creatinine (sC) level both from baseline to Day 8.
+Overall, 346 patients with haematological malignancies undergoing chemotherapy and at intermediate / high risk of Tumor Lysis Syndrome were included.
+Mean AUC sUA1-8 (mgxh/dl) was significantly lower with ADENURIC (514.0 ± 225.71 vs 708.0 ± 234.42; least square means difference: -196.794 [95% confidence interval: -238.600 ; -154.988]; p < .0001).
+Furthermore, the mean serum uric acid level was significantly lower with ADENURIC since the first 24 hours of treatment and at any following time point.
+No significant difference in mean serum creatinine change (%) occurred between ADENURIC and allopurinol (-0.83 ± 26.98 vs -4.92 ± 16.70 respectively; least square means difference: 4.0970 [95% confidence interval: -0.6467 ; 8.8406]; p=0.0903).
+With regard to secondary endpoints, no significant difference was detected in terms of incidence of laboratory TLS (8.1% and 9.2% in ADENURIC and allopurinol arm, respectively; relative risk: 0.875 [95% confidence interval: 0.4408 ; 1.7369]; p=0.8488) nor of clinical TLS (1.7% and 1.2% in ADENURIC and allopurinol arm, respectively; relative risk: 0.994 [95% confidence interval: 0.9691 ; 1.0199]; p=1.0000).
+Incidence of overall treatment-emergent signs and symptoms and adverse drug reactions was 67.6% vs 64.7% and 6.4% vs 6.4% with ADENURIC and allopurinol respectively.
+In the FLORENCE study ADENURIC demonstrated a superior control of serum uric acid level compared to allopurinol in patients scheduled to receive the latter drug.
+No data comparing ADENURIC with rasburicase are currently available.
+The efficacy and safety of febuxostat has not been established in patients with acute severe TLS, e.g. in patients who failed on other urate lowering therapies.

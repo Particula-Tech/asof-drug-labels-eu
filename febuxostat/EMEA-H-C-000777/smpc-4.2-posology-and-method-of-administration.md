@@ -30,5 +30,14 @@ ADENURIC should be taken by mouth and can be taken with or without food.
 
 [ADENURIC 120 mg film-coated tablets]
 
-ADENURIC works sufficiently quicklyto allow retesting of the serum uric acid after 2 weeks.
+Gout: The recommended oral dose of ADENURIC is 80 mg once daily without regard to food.
+
 The therapeutic target is to decrease and maintain serum uric acid below 6 mg/dL (357μmol/L).
+
+Tumor Lysis Syndrome: The recommended oral dose of ADENURIC is 120 mg once daily without regard to food.
+ADENURIC should be started two days before the beginning of cytotoxic therapy and continued for a minimum of 7 days; however treatment may be prolonged up to 9 days according to chemotherapy duration as per clinical judgment.
+
+Gout: The recommended dose in patients with mild hepatic impairment is 80 mg.
+
+Tumour Lysis Syndrome: in the pivotal Phase III trial (FLORENCE) only subjects with severe hepatic insufficiency were excluded from trial participation.
+No dose adjustment was required for enrolled patients on the basis of hepatic function.

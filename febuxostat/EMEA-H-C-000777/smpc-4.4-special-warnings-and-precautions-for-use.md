@@ -55,4 +55,11 @@ Patients with rare hereditary problems of galactose intolerance, the Lapp lactas
 
 [ADENURIC 120 mg film-coated tablets]
 
+Treatment of chronic hyperuricaemia
+Prevention and treatment of hyperuricaemia in patients at risk of TLS
+Patients undergoing chemotherapy for haematologic malignancies at intermediate to high risk of Tumor Lysis Syndrome treated with ADENURIC should be under cardiac monitoring as clinically appropriate.
+
 Gout flares may occur during initiation of treatment due to changing serum uric acid levels resulting in mobilization of urate from tissue deposits (see sections 4.8 and 5.1).
+
+This has not been observed in the pivotal clinical study with ADENURIC in the Tumor Lysis Syndrome.
+As there has been no experience with febuxostat, its use in patients with Lesch-Nyhan Syndrome is not recommended.

@@ -52,4 +52,8 @@ Therefore, febuxostat may be taken without regard to antacid use.
 
 [ADENURIC 120 mg film-coated tablets]
 
+In the Tumor Lysis Syndrome pivotal trial febuxostat 120 mg daily was administered to patients undergoing several chemotherapy regimens, including monoclonal antibodies.
+However, drug-drug and drug-disease interactions were not explored during this study.
+Therefore, possible interactions with any concomitantly administered cytotoxic drug cannot be ruled out.
+
 In healthy subjects concomitant use of febuxostat and naproxen 250mg twice daily was associated with an increase in febuxostat exposure (Cmax 28%, AUC 41% and t1/2 26%).
