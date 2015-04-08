@@ -38,6 +38,7 @@ Canagliflozin is not recommended for use in patients receiving loop diuretics (s
 For patients receiving canagliflozin, in case of intercurrent conditions that may lead to volume depletion (such as a gastrointestinal illness), careful monitoring of volume status (e.g., physical examination, blood pressure measurements, laboratory tests including renal function tests), and serum electrolytes is recommended.
 Temporary interruption of treatment with canagliflozin may be considered for patients who develop volume depletion while on canagliflozin therapy until the condition is corrected.
 If interrupted, consideration should be given to more frequent glucose monitoring.
+
 Elevated haematocrit
 
 Haematocrit increase was observed with canagliflozin treatment (see section 4.8); therefore, caution in patients with already elevated haematocrit is warranted.

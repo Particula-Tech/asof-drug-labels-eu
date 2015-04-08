@@ -38,6 +38,12 @@ As dabigatran concentrations may be increased in the presence of canagliflozin, 
 Simvastatin: The combination of canagliflozin 300 mg once daily for 6 days with a single dose of simvastatin (CYP3A4 substrate) 40 mg resulted in a 12% increase in AUC and a 9% increase in Cmax of simvastatin and an 18% increase in AUC and a 26% increase in Cmax of simvastatin acid.
 The increases in simvastatin and simvastatin acid exposures are not considered clinically relevant.
 
-Inhibition of BCRP by canagliflozin cannot be excluded at an intestinal level and increased exposure may therefore occur for drugs transported by BCRP, e.g. certain statins like rosuvastatin and some anti-cancer agents.
+Inhibition of BCRP by canagliflozin cannot be excluded at an intestinal level and increased exposure may therefore occur for medicinal products transported by BCRP, e.g. certain statins like rosuvastatin and some anti-cancer medicinal products.
 
 In interaction studies, canagliflozin at steady-state had no clinically relevant effect on the pharmacokinetics of metformin, oral contraceptives (ethinyl estradiol and levonorgestrol), glibenclamide, paracetamol, hydrochlorothiazide, or warfarin.
+Drug/Laboratory test interference
+
+1,5-AG assay
+Increases in urinary glucose excretion with Invokana can falsely lower 1,5-anhydroglucitol (1,5-AG) levels and make measurements of 1,5-AG unreliable in assessing glycemic control.
+Therefore, 1,5-AG assays should not be used for assessment of glycemic control in patients on canagliflozin.
+For further detail, it may be advisable to contact the specific manufacturer of the 1,5-AG assay.

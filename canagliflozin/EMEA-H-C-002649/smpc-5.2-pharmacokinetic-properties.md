@@ -38,6 +38,7 @@ Less than 1% of the dose was excreted as unchanged canagliflozin in urine.
 Renal clearance of canagliflozin 100 mg and 300 mg doses ranged from 1.30 mL/min to 1.55 mL/min.
 
 Canagliflozin is a low-clearance substance, with a mean systemic clearance of approximately 192 mL/min in healthy subjects following intravenous administration.
+
 Special populations
 
 Patients with renal impairment
@@ -50,9 +51,8 @@ The Cmax of canagliflozin was moderately increased by 13%, 29%, and 29% in subje
 Compared to healthy subjects, plasma AUC of canagliflozin was increased by approximately 17%, 63%, and 50% in subjects with mild, moderate, and severe renal impairment, respectively, but was similar for ESRD subjects and healthy subjects.
 
 Canagliflozin was negligibly removed by haemodialysis.
-
 Patients with hepatic impairment
-Relative to subjects with normal hepatic function, the geometric mean ratios for Cmax and AUC∞of canagliflozin were 107% and 110%, respectively, in subjects with Child-Pugh class A (mild hepatic impairment) and 96% and111%, respectively, in subjects with Child-Pugh class B (moderate) hepatic impairment following administration of a single 300 mg dose of canagliflozin.
+Relative to subjects with normal hepatic function, the geometric mean ratios for Cmax and AUC∞of canagliflozin were 107% and 110%, respectively, in subjects with Child-Pugh class A (mild hepatic impairment) and 96% and 111%, respectively, in subjects with Child-Pugh class B (moderate) hepatic impairment following administration of a single 300 mg dose of canagliflozin.
 
 These differences are not considered to be clinically meaningful.
 There is no clinical experience in patients with Child-Pugh class C (severe) hepatic impairment.
@@ -71,7 +71,3 @@ These increases in canagliflozin exposure are not expected to be clinically rele
 The effect of being homozygote (UGT1A9*3/*3, frequency < 0.1%) is probably more marked, but has not been investigated.
 
 Gender, race/ethnicity, or body mass index had no clinically meaningful effect on the pharmacokinetics of canagliflozin based on a population pharmacokinetic analysis.
-
-[Invokana 300 mg film-coated tablets]
-
-Elderly (≥65 years of age)

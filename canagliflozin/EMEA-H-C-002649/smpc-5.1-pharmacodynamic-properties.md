@@ -2,9 +2,10 @@
 
 Pharmacotherapeutic group: Drugs used in diabetes, other blood glucose lowering drugs, excluding insulins.
 ATC code: A10BX11.
+
 Mechanism of action
 
-SGLT2, expressed in the proximal renal tubules, is responsible for the majority of the reabsorption of filtered glucose from the tubular lumen.
+The SGLT2 transporter, expressed in the proximal renal tubules, is responsible for the majority of the reabsorption of filtered glucose from the tubular lumen.
 Patients with diabetes have been shown to have elevated renal glucose reabsorption which may contribute to persistent elevated blood glucose concentrations.
 Canagliflozin is an orally-active inhibitor of SGLT2.
 By inhibiting SGLT2, canagliflozin reduces reabsorption of filtered glucose and lowers the renal threshold for glucose (RTG), and thereby increases UGE, lowering elevated plasma glucose concentrations by this insulin-independent mechanism in patients with type 2 diabetes.
@@ -14,7 +15,7 @@ Canagliflozin’s action to increase UGE directly lowering plasma glucose is ind
 Improvement in homeostasis model assessment for beta-cell function (HOMA beta-cell) and improved beta-cell insulin secretion response to a mixed-meal challenge has been observed in clinical studies with canagliflozin.
 
 In phase 3 studies, pre-meal administration of canagliflozin 300 mg provided a greater reduction in postprandial glucose excursion than observed with the 100 mg dose.
-This effect at the 300 mg dose of canagliflozin may, in part, be due to local inhibition of intestinal SGLT1 (an important intestinal glucose transporter) related to transient high concentrations of canagliflozin in the intestinal lumen prior to medicinal product absorption (canagliflozin is a low potency inhibitor of SGLT1).
+This effect at the 300 mg dose of canagliflozin may, in part, be due to local inhibition of intestinal SGLT1 (an important intestinal glucose transporter) related to transient high concentrations of canagliflozin in the intestinal lumen prior to medicinal product absorption (canagliflozin is a low potency inhibitor of the SGLT1 transporter).
 Studies have shown no glucose malabsorption with canagliflozin.
 
 Pharmacodynamic effects
@@ -35,9 +36,10 @@ A total of 10,285 patients with type 2 diabetes participated in nine double-blin
 The racial distribution was 72% White, 16% Asian, 4% Black, and 8% other groups.
 16% of patients were Hispanic.
 Approximately 58% of patients were male.
-Patients had an overall mean age of 59.5 years (range 21 years to 96 years), with 3,082 patients ≥65 years of age and 510 patients ≥75 years of age.
+Patients had an overall mean age of 59.6 years (range 21 years to 96 years), with 3,082 patients ≥65 years of age and 510 patients ≥75 years of age.
 58% of patients had a body mass index (BMI) ≥30 kg/m2.
 In the clinical development programme, 1,085 patients with a baseline eGFR 30 mL/min/1.73 m2 to < 60 mL/min/1.73 m2 were evaluated.
+
 Placebo-controlled studies
 Canagliflozin was studied as monotherapy, dual therapy with metformin, dual therapy with a sulphonylurea, triple therapy with metformin and a sulphonylurea, triple therapy with metformin and pioglitazone, and as an add-on therapy with insulin (table 2).
 In general, canagliflozin produced clinically and statistically significant (p<0.001) results relative to placebo in glycaemic control, including HbA1c, the percentage of patients achieving HbA1c < 7%, change from baseline fasting plasma glucose (FPG), and 2-hour postprandial glucose (PPG).
@@ -53,10 +55,10 @@ Table 2: Efficacy results from placebo-controlled clinical studiesa
 | Baseline (mean) | 8.06 | 8.01 | 7.97 |
 | Change from baseline (adjusted mean) | -0.77 | -1.03 | 0.14 |
 | Difference from placebo (adjusted mean) (95% CI) | -0.91b (-1.09; -0.73) | -1.16b (-1.34; -0.98) | N/Ac |
-| Patients (%) achieving HbA1c < 7% | 44.5 | 62.4 | 20.6 |
+| Patients (%) achieving HbA1c < 7% | 44.5b | 62.4b | 20.6 |
 | Body weight |  |  |  |
 | Baseline (mean) in kg | 85.9 | 86.9 | 87.5 |
-| Change from baseline (adjusted mean) | -2.8 | -3.9 | -0.6 |
+| % change from baseline (adjusted mean) | -2.8 | -3.9 | -0.6 |
 | Difference from placebo (adjusted mean) (95% CI) | -2.2b (-2.9; -1.6) | -3.3b (-4.0; -2.6) | N/Ac |
 | Dual therapy with metformin (26 weeks) |  |  |  |
 |  | Canagliflozin + metformin |  | Placebo + metformin (N=183) |
@@ -65,10 +67,10 @@ Table 2: Efficacy results from placebo-controlled clinical studiesa
 | Baseline (mean) | 7.94 | 7.95 | 7.96 |
 | Change from baseline (adjusted mean) | -0.79 | -0.94 | -0.17 |
 | Difference from placebo (adjusted mean) (95% CI) | -0.62b (-0.76; -0.48) | -0.77b (-0.91; -0.64) | N/Ac |
-| Patients (%) achieving HbA1c < 7% | 45.5 | 57.8 | 29.8 |
+| Patients (%) achieving HbA1c < 7% | 45.5b | 57.8b | 29.8 |
 | Body weight |  |  |  |
 | Baseline (mean) in kg | 88.7 | 85.4 | 86.7 |
-| Change from baseline (adjusted mean) | -3.7 | -4.2 | -1.2 |
+| % change from baseline (adjusted mean) | -3.7 | -4.2 | -1.2 |
 | Difference from placebo (adjusted mean) (95% CI) | -2.5b (-3.1; -1.9) | -2.9b (-3.5; -2.3) | N/Ac |
 | Triple therapy with metformin and sulphonylurea (26 weeks) |  |  |  |
 |  | Canagliflozin + metformin and sulphonylurea |  | Placebo + metformin and sulphonylurea (N=156) |
@@ -77,10 +79,10 @@ Table 2: Efficacy results from placebo-controlled clinical studiesa
 | Baseline (mean) | 8.13 | 8.13 | 8.12 |
 | Change from baseline (adjusted mean) | -0.85 | -1.06 | -0.13 |
 | Difference from placebo (adjusted mean) (95% CI) | -0.71b (-0.90; -0.52) | -0.92b (-1.11; -0.73) | N/Ac |
-| Patients (%) achieving HbA1c < 7% | 43.2 | 56.6 | 18.0 |
+| Patients (%) achieving HbA1c < 7% | 43.2b | 56.6b | 18.0 |
 | Body weight |  |  |  |
 | Baseline (mean) in kg | 93.5 | 93.5 | 90.8 |
-| Change from baseline (adjusted mean) | -2.1 | -2.6 | -0.7 |
+| % change from baseline (adjusted mean) | -2.1 | -2.6 | -0.7 |
 | Difference from placebo (adjusted mean) (95% CI) | -1.4b (-2.1; -0.7) | -2.0b (-2.7; -1.3) | N/Ac |
 | Add-on therapy with insulind (18 weeks) |  |  |  |
 |  | Canagliflozin + insulin |  | Placebo + insulin (N=565) |
@@ -89,11 +91,11 @@ Table 2: Efficacy results from placebo-controlled clinical studiesa
 | Baseline (mean) | 8.33 | 8.27 | 8.20 |
 | Change from baseline (adjusted mean) | -0.63 | -0.72 | 0.01 |
 | Difference from placebo (adjusted mean) (97.5% CI) | -0.65b (-0.73; -0.56) | -0.73b (-0.82; -0.65) | N/Ac |
-| Patients (%) achieving HbA1c < 7% | 19.8 | 24.7 | 7.7 |
+| Patients (%) achieving HbA1c < 7% | 19.8b | 24.7b | 7.7 |
 | Body weight |  |  |  |
 | Baseline (mean) in kg | 96.9 | 96.7 | 97.7 |
-| Change from baseline (adjusted mean) | -1.8 | -2.3 | 0.1 |
-| Difference from placebo (adjusted mean) (97.5% CI) | -1.9b (-2.2; -1.6) | -2.4b (-2.7; -2.1) | N/Ac |
+| % change from baseline (adjusted mean) | -1.8 | -2.3 | 0.1 |
+| Difference from placebo (adjusted mean) (97.5% CI) | -1.9b (-2.2; -1.5) | -2.4b (-2.8; -2.0) | N/Ac |
 
 a Intent-to-treat population using last observation in study prior to glycaemic rescue therapy.
 b p<0.001 compared to placebo.
@@ -123,33 +125,33 @@ Table 3: Efficacy results from active-controlled clinical studiesa
 | Patients (%) achieving HbA1c < 7% | 53.6 | 60.1 | 55.8 |
 | Body weight |  |  |  |
 | Baseline (mean) in kg | 86.8 | 86.6 | 86.6 |
-| Change from baseline (adjusted mean) | -4.2 | -4.7 | 1.0 |
+| % change from baseline (adjusted mean) | -4.2 | -4.7 | 1.0 |
 | Difference from glimepiride (adjusted mean) (95% CI) | -5.2b (−5.7; −4.7) | -5.7b (−6.2; −5.1) | N/Ac |
+| Compared to sitagliptin as triple therapy with metformin and sulphonylurea (52 weeks) |  |  |  |
+|  | Canagliflozin 300 mg + metformin and sulphonylurea (N=377) |  | Sitagliptin 100 mg + metformin and sulphonylurea (N=378) |
+| HbA1c (%) |  |  |  |
+| Baseline (mean) | 8.12 |  | 8.13 |
+| Change from baseline (adjusted mean) | -1.03 |  | -0.66 |
+| Difference from sitagliptin (adjusted mean) (95% CI) | -0.37b (-0.50; -0.25) |  | N/Ac |
+| Patients (%) achieving HbA1c < 7% | 47.6 |  | 35.3 |
+| Body weight |  |  |  |
+| Baseline (mean) in kg | 87.6 |  | 89.6 |
+| % change from baseline (adjusted mean) | -2.5 |  | 0.3 |
 
-| Compared to sitagliptin as triple therapy with metformin and sulphonylurea (52 weeks) |  |  |
-| --- | --- | --- |
-|  | Canagliflozin 300 mg + metformin and sulphonylurea (N=377) | Sitagliptin 100 mg + metformin and sulphonylurea (N=378) |
-| HbA1c (%) |  |  |
-| Baseline (mean) | 8.12 | 8.13 |
-| Change from baseline (adjusted mean) | -1.03 | -0.66 |
-| Difference from sitagliptin (adjusted mean) (95% CI) | -0.37b (-0.50; -0.25) | N/Ac |
-| Patients (%) achieving HbA1c < 7% | 47.6 | 35.3 |
-| Body weight |  |  |
-| Baseline (mean) in kg | 87.6 | 90.0 |
-| Change from baseline (adjusted mean) | -2.5 | 0.3 |
-| Difference from sitagliptin (adjusted mean) (95% CI) | -2.8d (-3.3; -2.2) | N/Ac |
+Difference from sitagliptin (adjusted -2.8d N/Ac
+mean) (95% CI) (-3.3; -2.2)
 
 a Intent-to-treat population using last observation in study prior to glycaemic rescue therapy.
 b p<0.05.
 c Not applicable.
-d p<0.01.
+d p<0.001.
 
 Special populations
 In three studies conducted in special populations (older patients, patients with an eGFR of 30 mL/min/1.73 m2 to < 50 mL/min/1.73 m2 and patients with or at high risk for cardiovascular disease), canagliflozin was added to patients’ current stable diabetes treatments (diet, monotherapy, or combination therapy).
 
 Older patients
 A total of 714 patients ≥55 years of age to ≤80 years of age (227 patients 65 years of age to
-< 75 years of age and 46 patients 75 years of age to < 85 years of age) with inadequate glycaemic control on current diabetes treatment (glucose-lowering medicinal products and/or diet and exercise) participated in a double-blind, placebo-controlled study over 26 weeks.
+< 75 years of age and 46 patients 75 years of age to ≤80 years of age) with inadequate glycaemic control on current diabetes treatment (glucose-lowering medicinal products and/or diet and exercise) participated in a double-blind, placebo-controlled study over 26 weeks.
 Statistically significant (p<0.001) changes from baseline HbA1c relative to placebo of -0.57% and -0.70% were observed for 100 mg and 300 mg, respectively (see sections 4.2 and 4.8).
 
 Patients with eGFR 45 mL/min/1.73 m2 to < 60 mL/min/1.73 m2
@@ -163,6 +165,7 @@ Consistent with the expected increase of hypoglycaemia when a medicinal product 
 Fasting plasma glucose
 In four placebo-controlled studies, treatment with canagliflozin as monotherapy or add-on therapy with one or two oral glucose-lowering medicinal products resulted in mean changes from baseline relative to placebo in FPG of -1.2 mmol/L to -1.9 mmol/L for canagliflozin 100 mg and -1.9 mmol/L to -2.4 mmol/L for canagliflozin 300 mg, respectively.
 These reductions were sustained over the treatment period and near maximal after the first day of treatment.
+
 Postprandial glucose
 Using a mixed-meal challenge, canagliflozin as monotherapy or add-on therapy with one or two oral glucose-lowering medicinal products reduced postprandial glucose (PPG) from baseline relative to placebo by -1.5 mmol/L to -2.7 mmol/L for canagliflozin 100 mg and -2.1 mmol/L to -3.5 mmol/L for 300 mg, respectively, due to reductions in the pre-meal glucose concentration and reduced postprandial glucose excursions.
 

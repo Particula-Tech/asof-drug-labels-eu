@@ -11,7 +11,7 @@ When pregnancy is detected, treatment with canagliflozin should be discontinued.
 Breast-feeding
 
 It is unknown whether canagliflozin and/or its metabolites are excreted in human milk.
-Available pharmacodynamic/toxicological data in animals have shown excretion of canagliflozin/metabolites in milk, as well as pharmacologically mediated effects in nursing offspring and juvenile rats exposed to canagliflozin (see section 5.3).
+Available pharmacodynamic/toxicological data in animals have shown excretion of canagliflozin/metabolites in milk, as well as pharmacologically mediated effects in breast-feeding offspring and juvenile rats exposed to canagliflozin (see section 5.3).
 A risk to newborns/infants cannot be excluded.
 Canagliflozin should not be used during breast-feeding.
 
