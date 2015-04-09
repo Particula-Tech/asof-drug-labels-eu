@@ -38,7 +38,7 @@ Inherently resistant organisms
 Gram negative organisms
 * denotes species against which it is considered that activity has been satisfactorily demonstrated in clinical studies.
 
-Information from clinical trials
+Clinical efficacy and safety
 In two clinical trials in complicated skin and soft tissues infections, 36% of patients treated with Cubicin met the criteria for systemic inflammatory response syndrome (SIRS).
 The most common type of infection treated was wound infection (38% of patients), while 21% had major abscesses.
 These limitations of the patients population treated should be taken into account when deciding to use Cubicin.

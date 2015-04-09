@@ -10,10 +10,10 @@ The pharmacokinetics of daptomycin were not significantly altered by aztreonam.
 Although small changes in the pharmacokinetics of daptomycin and tobramycin were observed during coadministration by intravenous infusion over a 30-minute period using a Cubicin dose of 2 mg/kg, the changes were not statistically significant.
 The interaction between daptomycin and tobramycin with an approved dose of Cubicin is unknown.
 Caution is warranted when Cubicin is co-administered with tobramycin.
-
 Experience with the concomitant administration of Cubicin and warfarin is limited.
 Studies of Cubicin with anticoagulants other than warfarin have not been conducted.
 Anticoagulant activity in patients receiving Cubicin and warfarin should be monitored for the first several days after therapy with Cubicin is initiated.
+
 There is limited experience regarding concomitant administration of daptomycin with other medicinal products that may trigger myopathy (e.g. HMG-CoA reductase inhibitors).
 However, some cases of marked rises in CPK levels and cases of rhabdomyolysis occurred in patients taking one of these medicinal products at the same time as Cubicin.
 It is recommended that other medicinal products associated with myopathy should if possible be temporarily discontinued during treatment with Cubicin unless the benefits of concomitant administration outweigh the risk.

@@ -4,6 +4,7 @@ Clinical studies in patients employed infusion of daptomycin over 30 minutes.
 There is no clinical experience in patients with the administration of daptomycin as an injection over 2 minutes.
 This mode of administration was only studied in healthy subjects.
 However, when compared with the same doses given as intravenous infusions over 30 minutes there were no clinically important differences in the pharmacokinetics and safety profile of daptomycin (see also sections 4.8 and 5.2).
+
 Posology
 
 - cSSTI without concurrent Staphylococcus aureus bacteraemia: Cubicin 4 mg/kg is administered once every 24 hours for 7-14 days or until the infection is resolved (see section 5.1).
@@ -33,19 +34,18 @@ Dose adjustments in patients with renal impairment by indication and creatinine 
 |  | < 30 ml/min | 6 mg/kg every 48 hours | (1, 2) |
 
 (1) The safety and efficacy of the dose interval adjustment have not been evaluated in controlled clinical trials and the recommendation is based on pharmacokinetic studies and modelling results (see sections 4.4 and 5.2).
-
 (2) The same dose adjustments, which are based on pharmacokinetic data in volunteers including PK modelling results, are recommended for patients on haemodialysis (HD) or continuous ambulatory peritoneal dialysis (CAPD).
 Whenever possible, Cubicin should be administered following the completion of dialysis on dialysis days (see section 5.2).
 
 Hepatic impairment
 No dose adjustment is necessary when administering Cubicin to patients with mild or moderate hepatic impairment (Child-Pugh Class B) (see section 5.2).
 No data are available in patients with severe hepatic impairment (Child-Pugh Class C). Therefore caution should be exercised if Cubicin is given to such patients.
+
 Elderly patients
 The recommended doses should be used in elderly patients except those with severe renal impairment (see above and section 4.4).
-However, there are limited data on the safety and efficacy of daptomycin in patients aged > 65 years and caution should be exercised if Cubicin is given to such patients.
 
 Paediatric population
-The safety and efficacy of Cubicin in children and adolescents below the age of 18 have not been established.
+The safety and efficacy of Cubicin in children and adolescents aged below 18 years have not been established.
 Currently available data are described in section 5.2 but no recommendation on a posology can be made.
 
 Method of administration

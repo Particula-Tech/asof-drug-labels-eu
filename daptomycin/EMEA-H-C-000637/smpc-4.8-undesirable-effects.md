@@ -82,3 +82,7 @@ The majority of transaminase elevations were of Grade 1-3 toxicity and resolved 
 The safety data for the administration of daptomycin via 2-minute intravenous injection are derived from two pharmacokinetic studies in healthy volunteers.
 Based on these study results, both methods of daptomycin administration, the 2-minute intravenous injection and the 30-minute intravenous infusion, had a similar safety and tolerability profile.
 There was no relevant difference in local tolerability or in the nature and frequency of adverse reactions.
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

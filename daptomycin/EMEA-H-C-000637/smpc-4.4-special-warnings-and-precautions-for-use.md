@@ -18,7 +18,6 @@ The efficacy of Cubicin in patients with prosthetic valve infections or with lef
 
 Deep-seated infections
 Patients with deep-seated infections should receive any required surgical interventions (e.g. debridement, removal of prosthetic devices, valve replacement surgery) without delay.
-
 Enterococcal infections
 There is insufficient evidence to be able to draw any conclusions regarding the possible clinical efficacy of Cubicin against infections due to enterococci, including Enterococcus faecalis and Enterococcus faecium.
 In addition, dose regimens of daptomycin that might be appropriate for the treatment of enterococcal infections, with or without bacteraemia, have not been identified.
@@ -28,6 +27,7 @@ In some instances treatment failure has been associated with the selection of or
 Non-susceptible micro-organisms
 The use of antibacterials may promote the overgrowth of non-susceptible micro-organisms.
 If superinfection occurs during therapy, appropriate measures should be taken.
+
 Clostridium difficile-associated diarrhoea
 Clostridium difficile-associated diarrhoea (CDAD) has been reported with Cubicin (see section 4.8).
 If CDAD is suspected or confirmed, Cubicin may need to be discontinued and appropriate treatment instituted as clinically indicated.
@@ -52,7 +52,6 @@ Therefore, it is recommended that:
 
 Peripheral neuropathy
 Patients who develop signs or symptoms that might represent a peripheral neuropathy during therapy with Cubicin should be investigated and consideration should be given to discontinuation of daptomycin (see sections 4.8 and 5.3).
-
 Eosinophilic pneumonia
 Eosinophilic pneumonia has been reported in patients receiving Cubicin (see section 4.8).
 In most reported cases associated with Cubicin, patients developed fever, dyspnoea with hypoxic respiratory insufficiency, and diffuse pulmonary infiltrates.
@@ -60,6 +59,7 @@ The majority of cases occurred after more than 2 weeks of treatment with Cubicin
 Recurrence of eosinophilic pneumonia upon re-exposure has been reported.
 Patients who develop these signs and symptoms while receiving Cubicin should undergo prompt medical evaluation, including, if appropriate, bronchoalveolar lavage, to exclude other causes (e.g. bacterial infection, fungal infection, parasites, other medicinal products).
 Cubicin should be discontinued immediately and treatment with systemic steroids should be initiated when appropriate.
+
 Renal impairment
 Renal impairment has been reported during treatment with Cubicin.
 Severe renal impairment may in itself also pre-dispose to elevations in daptomycin levels which may increase the risk of development of myopathy (see above).
