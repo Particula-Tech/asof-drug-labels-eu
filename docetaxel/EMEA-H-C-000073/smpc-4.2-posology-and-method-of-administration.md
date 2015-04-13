@@ -75,7 +75,10 @@ In combination with capecitabine
 
 - For capecitabine dose modifications, see capecitabine summary of product characteristics.
 - For patients developing the first appearance of Grade 2 toxicity, which persists at the time of the next docetaxel/capecitabine treatment, delay treatment until resolved to Grade 0-1, and resume at 100% of the original dose.
-- For patients developing the second appearance of Grade 2 toxicity, or the first appearance of Grade 3 toxicity, at any time during the treatment cycle, delay treatment until resolved to Grade 0-1 and then resume treatment with docetaxel 55 mg/m².
+- For patients developing the second appearance of Grade 2 toxicity, or the first appearance of
+
+Grade 3 toxicity, at any time during the treatment cycle, delay treatment until resolved to Grade 0-1 and then resume treatment with docetaxel 55 mg/m².
+
 - For any subsequent appearances of toxicities, or any Grade 4 toxicities, discontinue the docetaxel dose.
 
 For trastuzumab dose modifications, see trastuzumab summary of product characteristics.

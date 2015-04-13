@@ -38,6 +38,7 @@ The first interim analysis was planned 3 years after the date when half of study
 The second interim analysis was done after 400 DFS events had been recorded overall, which led to a median follow-up of 55 months.
 The final analysis was performed when all patients had reached their 10-year follow-up visit (unless they had a DFS event or were lost to follow-up before).
 Disease-free survival (DFS) was the primary efficacy endpoint and Overall survival (OS) was the secondary efficacy endpoint.
+
 A final analysis was performed with an actual median follow up of 96 months.
 Significantly longer disease-free survival for the TAC arm compared to the FAC arm was demonstrated.
 Incidence of relapses at 10 years was reduced in patients receiving TAC compared to those who received FAC (39% versus 45%, respectively) i.e. an absolute risk reduction by 6% (p = 0.0043).
@@ -67,13 +68,24 @@ Grade 4 neutropenia, febrile neutropenia and neutropenic infection was decreased
 In both arms, after the last cycle of chemotherapy, patients with ER+ and/or PgR+ tumours received tamoxifen 20 mg once a day for up to 5 years.
 Adjuvant radiation therapy was administered according to guidelines in place at participating institutions and was given to 57.3% of patients who received TAC and 51.2% of patients who received FAC.
 
-Median duration of follow-up was 77 months.
-Significantly longer disease-free survival for the TAC arm compared to the FAC arm was demonstrated.
+One primary analysis and one updated analysis were performed.
+The primary analysis was done when all patients had a follow-up of greater than 5 years (median follow-up time of 77 months).
+The updated analysis was performed when all patients had reached their 10-year (median follow up time of 10 years and 5 months) follow-up visit (unless they had a DFS event or were lost to follow-up previously).
+Disease-free survival (DFS) was the primary efficacy endpoint and Overall survival (OS) was the secondary efficacy endpoint.
+At the median follow-up time of 77 months, significantly longer disease-free survival for the TAC arm compared to the FAC arm was demonstrated.
 TAC-treated patients had a 32% reduction in the risk of relapse compared to those treated with FAC (hazard ratio = 0.68, 95% CI (0.49-0.93), p = 0.01).
-Overall survival (OS) was also longer in the TAC arm with TAC-treated patients having a 24% reduction in the risk of death compared to FAC (hazard ratio = 0.76, 95% CI (0.46-1.26, p = 0.29).
-However, the distribution of OS was not significantly different between the 2 groups.
+At the median follow up time of 10 years and 5 months, TAC-treated patients had a 16,5% reduction in the risk of relapse compared to those treated with FAC (hazard ratio = 0.84, 95% CI (0.65-1.08), p=0.1646).
+DFS data were not statistically significant but were still associated with a positive trend in favour of TAC.
 
-TAC-treated patient subsets according to prospectively defined major prognostic factors were analyzed (see table below):
+At the median follow-up time of 77 months, overall survival (OS) was longer in the TAC arm with TAC-treated patients having a 24% reduction in the risk of death compared to FAC (hazard ratio = 0.76, 95% CI (0.46-1.26, p = 0.29).
+However, the distribution of OS was not significantly different between the 2 groups.
+At the median follow up time of 10 years and 5 months, TAC-treated patients had a 9% reduction in the risk of death compared to FAC-treated patients (hazard ratio = 0.91, 95% CI (0.63-1.32)).
+The survival rate was 93.7% in the TAC arm and 91.4 % in the FAC arm, at the 8-year follow-up timepoint, and 91.3 % in the TAC arm and 89 % in the FAC arm, at the 10-year follow-up timepoint.
+
+The positive benefit risk ratio for TAC compared to FAC remained unchanged.
+
+TAC-treated patient subsets according to prospectively defined major prognostic factors were analysed in the primary analysis (at the median follow-up time of 77 months) (see table below):
+
 Subset Analyses-Adjuvant Therapy in Patients with Node-negative Breast Cancer Study (Intent-to-Treat Analysis)
 
 | Patient subset | Number of patients in TAC group | Disease Free Survival |  |
@@ -84,8 +96,7 @@ Subset Analyses-Adjuvant Therapy in Patients with Node-negative Breast Cancer St
 | Age category 2 <35 years ≥35 years | 42 497 | 0.31 0.73 | 0.11-0.89 0.52-1.01 |
 | Hormonal receptor status Negative Positive | 195 344 | 0.7 0.62 | 0.45-1.1 0.4-0.97 |
 | Tumour size ≤2 cm >2 cm | 285 254 | 0.69 0.68 | 0.43-1.1 0.45-1.04 |
-| Histological grade Grade1 (includes grade not assessed) Grade 2 Grade 3 | 64 | 0.79 | 0.24-2.6 |
-|  | 216 259 | 0.77 0.59 | 0.46-1.3 0.39-0.9 |
+| Histological grade Grade1 (includes grade not assessed) Grade 2 Grade 3 | 64 216 259 | 0.79 0.77 0.59 | 0.24-2.6 0.46-1.3 0.39-0.9 |
 | Menopausal status Pre-Menopausal Post-Menopausal | 285 254 | 0.64 0.72 | 0.40-1 0.47-1.12 |
 
 *a hazard ratio (TAC/FAC) of less than 1 indicates that TAC is associated with a longer disease free survival compared to FAC.
@@ -105,6 +116,7 @@ CI = confidence interval; ER = estrogen receptor
 PR = progesterone receptor a ER/PR-negative or Grade 3 or tumor size >5 cm
 
 The estimated hazard ratio was using Cox proportional hazard model with treatment group as the factor.
+
 TAXOTERE as single agent
 
 Two randomised phase III comparative studies, involving a total of 326 alkylating or
@@ -124,7 +136,6 @@ A total of 449 patients were randomized to receive either docetaxel monotherapy 
 Both regimens were administered every 3 weeks.
 Without affecting the primary endpoint, overall response rate (32% vs 25%, p = 0.10), docetaxel prolonged median time to progression (24.6 weeks vs 15.6 weeks; p < 0.01) and median survival (15.3 months vs 12.7 months; p = 0.03).
 More grade 3/4 adverse events were observed for docetaxel monotherapy (55.4%) compared to paclitaxel (23.0%).
-
 TAXOTERE in combination with doxorubicin
 
 One large randomized phase III study, involving 429 previously untreated patients with metastatic disease, has been performed with doxorubicin (50 mg/m²) in combination with docetaxel (75 mg/m²) (AT arm) versus doxorubicin (60 mg/m²) in combination with cyclophosphamide (600 mg/m²) (AC arm).
@@ -143,6 +154,7 @@ In this study, AT arm showed a higher incidence of severe neutropenia (90% versu
 On the other hand, AC arm showed a higher incidence of severe anemia (15.8% versus 8.5%) than AT arm, and, in addition, a higher incidence of severe cardiac toxicity: congestive heart failure (3.8% versus 2.8%), absolute LVEF decrease ≥ 20% (13.1% versus 6.1%), absolute LVEF decrease ≥ 30% (6.2% versus 1.1%).
 Toxic deaths occurred in 1 patient in the AT arm (congestive heart failure) and in 4 patients in the AC arm (1 due to septic shock and 3 due to congestive heart failure).
 In both arms, quality of life measured by the EORTC questionnaire was comparable and stable during treatment and follow-up.
+
 TAXOTERE in combination with trastuzumab
 
 Docetaxel in combination with trastuzumab was studied for the treatment of patients with metastatic breast cancer whose tumours over express HER2, and who previously had not received chemotherapy for metastatic disease.
@@ -164,7 +176,6 @@ Efficacy results are summarized in the following table:
 TTP = time to progression; “ne” indicates that it could not be estimated or it was not yet reached.
 1Full analysis set (intent-to-treat)
 2 Estimated median survival
-
 TAXOTERE in combination with capecitabine
 
 Data from one multicenter, randomised, controlled phase III clinical study support the use of docetaxel in combination with capecitabine for treatment of patients with locally advanced or metastatic breast cancer after failure of cytotoxic chemotherapy, including an anthracycline.
@@ -185,10 +196,10 @@ In a phase III study, in previously treated patients, time to progression (12.3 
 The 1-year survival rate was also significantly longer in docetaxel (40%) versus BSC (16%).
 There was less use of morphinic analgesic (p < 0.01), non-morphinic analgesics (p < 0.01), other disease-related medications (p = 0.06) and radiotherapy (p < 0.01) in patients treated with docetaxel at 75 mg/m² compared to those with BSC.
 The overall response rate was 6.8% in the evaluable patients, and the median duration of response was 26.1 weeks.
+
 TAXOTERE in combination with platinum agents in chemotherapy-naïve patients
 
 In a phase III study, 1218 patients with unresectable stage IIIB or IV NSCLC, with KPS of 70% or greater, and who did not receive previous chemotherapy for this condition, were randomised to either docetaxel (T) 75 mg/m2 as a 1 hour infusion immediately followed by cisplatin (Cis) 75 mg/m2 over 30-60 minutes every 3 weeks (TCis), docetaxel 75 mg/m2 as a 1 hour infusion in combination with carboplatin (AUC 6 mg/ml.min) over 30-60 minutes every 3 weeks, or vinorelbine (V) 25 mg/m2 administered over 6-10 minutes on days 1, 8, 15, 22 followed by cisplatin 100 mg/m2 administered on day 1 of cycles repeated every 4 weeks (VCis).
-
 Survival data, median time to progression and response rates for two arms of the study are illustrated in the following table:
 
 |  | TCis n = 408 | VCis n = 404 | Statistical analysis |
@@ -364,18 +375,7 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 TAXOTERE was administered as a 1-hour infusion, all other medicinal products were given as intraveinously on day 1 every three weeks.
 
-| Patient subset | Number of patients in TAC group | Disease Free Survival |  |
-| --- | --- | --- | --- |
-|  |  | Hazard ratio* | 95% CI |
-| Overall | 539 | 0.68 | 0.49-0.93 |
-| Age category 1 <50 years ≥50 years | 260 279 | 0.67 0.67 | 0.43-1.05 0.43-1.05 |
-| Age category 2 <35 years ≥35 years | 42 497 | 0.31 0.73 | 0.11-0.89 0.52-1.01 |
-| Hormonal receptor |  |  |  |
-| status Negative Positive | 195 344 | 0.7 0.62 | 0.45-1.1 0.4-0.97 |
-| Tumour size ≤2 cm >2 cm | 285 254 | 0.69 0.68 | 0.43-1.1 0.45-1.04 |
-| Histological grade Grade1 (includes grade not assessed) Grade 2 Grade 3 | 64 | 0.79 | 0.24-2.6 |
-|  | 216 259 | 0.77 0.59 | 0.46-1.3 0.39-0.9 |
-| Menopausal status Pre-Menopausal Post-Menopausal | 285 254 | 0.64 0.72 | 0.40-1 0.47-1.12 |
+TAC-treated patient subsets according to prospectively defined major prognostic factors were analyzed in the primary analysis (at the median follow-up time of 77 months) (see table below):
 
 CI = confidence interval
 ER = estrogen receptor
@@ -390,15 +390,13 @@ Pharmacotherapeutic group: Taxanes, ATC Code: L01CD02
 | --- | --- | --- | --- |
 |  |  | Hazard ratio* | 95% CI |
 | Overall | 539 | 0.68 | 0.49-0.93 |
-| Age category 1 <50 years ≥50 years | 260 279 | 0.67 0.67 | 0.43-1.05 0.43-1.05 |
+| Age category 1 |  |  |  |
+| <50 years ≥50 years | 260 279 | 0.67 0.67 | 0.43-1.05 0.43-1.05 |
 | Age category 2 <35 years ≥35 years | 42 497 | 0.31 0.73 | 0.11-0.89 0.52-1.01 |
 | Hormonal receptor status Negative Positive | 195 344 | 0.7 0.62 | 0.45-1.1 0.4-0.97 |
 | Tumour size ≤2 cm >2 cm | 285 254 | 0.69 0.68 | 0.43-1.1 0.45-1.04 |
-| Histological grade Grade1 (includes grade not assessed) Grade 2 Grade 3 | 64 | 0.79 | 0.24-2.6 |
-|  | 216 259 | 0.77 0.59 | 0.46-1.3 0.39-0.9 |
-| Menopausal status Pre-Menopausal | 285 | 0.64 | 0.40-1 |
-
-Post-Menopausal 254 0.72 0.47-1.12
+| Histological grade Grade1 (includes grade not assessed) Grade 2 Grade 3 | 64 216 259 | 0.79 0.77 0.59 | 0.24-2.6 0.46-1.3 0.39-0.9 |
+| Menopausal status Pre-Menopausal Post-Menopausal | 285 254 | 0.64 0.72 | 0.40-1 0.47-1.12 |
 
 Hazard ratio
 
