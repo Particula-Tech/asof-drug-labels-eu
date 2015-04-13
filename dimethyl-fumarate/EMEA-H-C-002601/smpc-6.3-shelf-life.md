@@ -4,4 +4,4 @@
 
 [Tecfidera 240 mg gastro-resistant hard capsules]
 
-240 mg gastro-resistant hard capsules: 2 years
+240 mg gastro-resistant hard capsules: 3 years

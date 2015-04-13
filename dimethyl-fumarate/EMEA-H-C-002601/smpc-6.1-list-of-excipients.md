@@ -20,7 +20,6 @@ Gelatin
 Titanium dioxide (E171)
 Brilliant Blue FCF (E133)
 Yellow iron oxide (E172)
-
 Capsule print (black ink)
 
 Shellac

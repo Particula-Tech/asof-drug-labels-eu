@@ -110,3 +110,8 @@ No untoward clinical consequences were observed in clinical trials.
 
 Levels of 1,25-dihydroxyvitamin D decreased in Tecfidera treated patients relative to placebo (median percentage decrease from baseline at 2 years of 25% versus 15%, respectively) and levels of parathyroid hormone (PTH) increased in Tecfidera treated patients relative to placebo (median percentage increase from baseline at 2 years of 29% versus 15%, respectively).
 Mean values for both parameters remained within normal range.
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

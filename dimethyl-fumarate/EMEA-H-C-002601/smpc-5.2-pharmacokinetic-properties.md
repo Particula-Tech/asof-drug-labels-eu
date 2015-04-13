@@ -16,6 +16,7 @@ This resulted in a minimal accumulation of exposure yielding an increase in the 
 
 Food does not have a clinically significant effect on exposure of dimethyl fumarate.
 However, Tecfidera should be taken with food due to improved tolerability with respect to flushing or gastrointestinal adverse events (see section 4.2).
+
 Distribution
 
 The apparent volume of distribution following oral administration of 240 mg Tecfidera varies between 60 L and 90 L. Human plasma protein binding of monomethyl fumarate generally ranges between 27% and 40%.
@@ -51,10 +52,10 @@ The pharmacokinetics in patients aged 65 and over has not been studied.
 Paediatric population
 
 The pharmacokinetics in patients below the age of 18 has not been studied.
-
 Renal impairment
 
 Since the renal pathway is a secondary route of elimination for dimethyl fumarate accounting for less than 16% of the dose administered, evaluation of pharmacokinetics in individuals with renal impairment was not conducted.
+
 Hepatic impairment
 
 As dimethyl fumarate and monomethyl fumarate are metabolised by esterases, without the involvement of the CYP450 system, evaluation of phamacokinetics in individuals with hepatic impairment was not conducted.
