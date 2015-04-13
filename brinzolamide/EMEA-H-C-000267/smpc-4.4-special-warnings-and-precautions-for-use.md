@@ -6,10 +6,11 @@ The same types of adverse reactions that are attributable to sulphonamides may o
 If signs of serious reactions or hypersensitivity occur, discontinue the use of this preparation.
 
 Acid-base disturbances have been reported with oral carbonic anhydrase inhibitors.
+Use with caution in patients with risk of renal impairment because the possible risk of metabolic acidosis (see section 4.2).
+
 Brinzolamide has not been studied in pre-term infants (less than 36 weeks gestational age) or those less than 1 week of age.
 Patients with significant renal tubular immaturity or abnormalities should only receive brinzolamide after careful consideration of the risk benefit balance because of the possible risk of metabolic acidosis.
-
-Oral carbonic anhydrase inhibitors may impair the ability to perform tasks requiring mental alertness and/or physical coordination in elderly patients.
+Oral carbonic anhydrase inhibitors may impair the ability to perform tasks requiring mental alertness and/or physical coordination.
 AZOPT is absorbed systemically and therefore this may occur with topical administration.
 
 Concomitant therapy
@@ -26,14 +27,17 @@ AZOPT has not been studied in patients with narrow-angle glaucoma and its use is
 
 The possible role of brinzolamide on corneal endothelial function has not been investigated in patients with compromised corneas (particularly in patients with low endothelial cell count).
 Specifically, patients wearing contact lenses have not been studied and careful monitoring of these patients when using brinzolamide is recommended, since carbonic anhydrase inhibitors may affect corneal hydration and wearing contact lenses might increase the risk for the cornea.
-Likewise, in other cases of compromised corneas such as patients with diabetes mellitus, careful monitoring is recommended.
+Careful monitoring of patients with compromised corneas such as patients with diabetes mellitus or corneal dystrophies is recommended.
 
 Benzalkonium chloride, which is commonly used as a preservative in ophthalmic products, has been reported to cause punctate keratopathy and/or toxic ulcerative keratopathy.
 Since AZOPT contains benzalkonium chloride, close monitoring is required with frequent or prolonged use in dry eye patients, or in conditions where the cornea is compromised.
 
 AZOPT has not been studied in patients wearing contact lenses.
-AZOPT contains benzalkonium chloridewhich may cause eye irritation and is known to discolour soft contact lenses.
+AZOPT contains benzalkonium chloride which may cause eye irritation and is known to discolour soft contact lenses.
 Contact with soft contact lenses is to be avoided.
-Patients must be instructed to remove contact lenses prior to the application of AZOPT and wait 15 minutes after instillation of the dose before reinsertion.
+Patients must be instructed to remove contact lenses prior to the application of AZOPT and wait at least 15 minutes after instillation of the dose before reinsertion.
 
 Potential rebound effects following cessation of treatment with AZOPT have not been studied; the IOP-lowering effect is expected to last for 5-7 days.
+
+Paediatric population
+The safety and efficacy of AZOPT in infants, children and adolescents aged 0 to 17 years has not been established and its use is not recommended in infants, children or adolescents
