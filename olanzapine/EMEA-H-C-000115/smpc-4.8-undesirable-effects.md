@@ -1,5 +1,6 @@
 # 4.8 Undesirable effects
 
+Summary of the safety profile
 Adults
 The most frequently (seen in ≥ 1% of patients) reported adverse reactions associated with the use of olanzapine in clinical trials were somnolence, weight gain, eosinophilia, elevated prolactin, cholesterol, glucose and triglyceride levels (see section 4.4), glucosuria, increased appetite, dizziness, akathisia, parkinsonism, leukopenia, neutropenia (see section 4.4), dyskinesia, orthostatic hypotension, anticholinergic effects, transient asymptomatic elevations of hepatic aminotransferases (see section 4.4), rash, asthenia, fatigue, pyrexia, arthralgia, increased alkaline phosphatase, high gamma glutamyltransferase, high uric acid, high creatine phosphokinase and oedema.
 
@@ -8,43 +9,99 @@ The following table lists the adverse reactions and laboratory investigations ob
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 The frequency terms listed are defined as follows: Very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000), not known (cannot be estimated from the data available).
 
-| Very common | Common | Uncommon | Rare |
-| --- | --- | --- | --- |
-| Blood and the lymphatic system disorders |  |  |  |
-|  | Eosinophilia |  | Thrombocytopenia11 |
-|  | Leukopenia10 Neutropenia10 |  |  |
-| Immune system disorders |  |  |  |
-|  |  | Hypersensitivity11 |  |
-| Metabolism and nutrition disorders |  |  |  |
-| Weight gain1 | Elevated cholesterol levels2,3 Elevated glucose levels4 Elevated triglyceride levels2,5 Glucosuria Increased appetite | Development or exacerbation of diabetes occasionally associated with ketoacidosis or coma, including some fatal 1c1a ses (see section 4.4) | Hypothermia12 |
-| Nervous system disorders |  |  |  |
-| Somnolence | Dizziness Akathisia6 Parkinsonism6 Dyskinesia6 | Seizures where in most cases a history of seizures or risk factors for seizures were reported 11 Dystonia (including oculogyration) 11 Tardive dyskinesia11 Amnesia 9 Dysarthria | Neuroleptic malignant syndrome (see section 4.4) 12Discontinuation symptoms7, 12 |
-| Respiratory, thoracic and mediastinal disorders |  |  |  |
-|  |  | Epistaxis9 |  |
-| Cardiac disorders |  |  |  |
-|  |  | Bradycardia QTc prolongation (see section 4.4) | Ventricular tachycardia/fibrillation, sudden death (see section 4.4)11 |
-| Vascular disorders |  |  |  |
-| Orthostatic hypotension10 |  | Thromboembolism (including pulmonary embolism and deep vein thrombosis) (see section 4.4) |  |
-| Gastrointestinal disorders |  |  |  |
-|  | Mild, transient anticholinergic effects including constipation and dry mouth | Abdominal distension9 | Pancreatitis11 |
-| Hepato-biliary disorders |  |  |  |
-|  | Transient, asymptomatic elevations of hepatic aminotransferases (ALT, AST), especially in early treatment (see section |  | Hepatitis (including hepatocellular, cholestatic or mixed liver injury) 11 |
-|  | 4.4) |  |  |
-| Skin and subcutaneous tissue disorders |  |  |  |
-|  | Rash | Photosensitivity reaction Alopecia |  |
-| Musculoskeletal and connective tissue disorders |  |  |  |
-|  | Arthralgia9 |  | Rhabdomyolysis11 |
-| Renal and urinary disorders |  |  |  |
-|  |  | Urinary incontinence, urinary retention Urinary hesitation11 |  |
-| Reproductive system and breast disorders |  |  |  |
-|  | Erectile dysfunction in males Decreased libido in males and females | Amenorrhea Breast enlargement Galactorrhea in females Gynaecomastia/breast enlargement in males | Priapism12 |
-| General disorders and administration site conditions |  |  |  |
-|  | Asthenia Fatigue Oedema Pyrexia10 |  |  |
-| Investigations |  |  |  |
-| Elevated plasma prolactin levels8 | Increased alkaline phosphatase10 High creatine phosphokinase11 High Gamma Glutamyltransferase10 High Uric Acid 10 | Increased total bilirubin |  |
-|  |  |  | Not known |
-| Pregnancy, puerperium and perinatal conditions |  |  |  |
-|  |  |  | Drug withdrawal syndrome neonatal (see section 4.6) |
+| Very common | Common | Uncommon | Rare | Not known |
+| --- | --- | --- | --- | --- |
+| Blood and the lymphatic system disorders |  |  |  |  |
+
+Eosinophilia Thrombocytopenia11
+Leukopenia10
+Neutropenia10
+Immune system disorders
+Hypersensitivity11
+Metabolism and nutrition disorders
+Weight Elevated cholesterol Development or Hypothermia12
+gain1 levels2,3 exacerbation of
+Elevated glucose diabetes occasionally
+levels4 associated with
+Elevated triglyceride ketoacidosis or coma,
+levels2,5 including some fatal
+Glucosuria cases (see section
+Increased appetite 4.4) 11
+Nervous system disorders
+Somnolence Dizziness Seizures where in Neuroleptic malignant
+Akathisia6 most cases a history syndrome (see section
+Parkinsonism6 of seizures or risk 4.4)12 Discontinuation
+Dyskinesia6 factors for seizures symptoms7, 12
+were reported 11
+Dystonia (including
+oculogyration) 11
+Tardive dyskinesia11
+Amnesia 9
+Dysarthria
+Cardiac disorders
+Bradycardia Ventricular
+QTc prolongation (see tachycardia/fibrillation,
+section 4.4) sudden death (see
+section 4.4)11
+Vascular disorders
+Orthostatic Thromboembolism
+hypotension10 (including pulmonary
+embolism and deep
+vein thrombosis) (see
+section 4.4)
+Respiratory, thoracic and mediastinal disorders
+Epistaxis9
+Gastrointestinal disorders
+Mild, transient Abdominal Pancreatitis11
+anticholinergic distension9
+effects including
+constipation and dry
+mouth
+Hepatobiliary disorders
+Transient, Hepatitis (including
+asymptomatic hepatocellular,
+elevations of hepatic cholestatic or mixed
+aminotransferases liver injury) 11
+(ALT, AST),
+especially in early
+treatment (see section
+4.4)
+Skin and subcutaneous tissue disorders
+Rash Photosensitivity
+reaction
+Alopecia
+Musculoskeletal and connective tissue disorders
+Arthralgia9 Rhabdomyolysis11
+Renal and urinary disorders
+Urinary incontinence,
+urinary retention
+Urinary hesitation11
+Pregnancy, puerperium and perinatal conditions
+Drug
+withdrawal
+syndrome
+neonatal (see
+section 4.6)
+Reproductive system and breast disorders
+Erectile dysfunction Amenorrhea Priapism12
+in males Breast enlargement
+Decreased libido in Galactorrhea in
+males and females females
+Gynaecomastia/breast
+enlargement in males
+General disorders and administration site conditions
+Asthenia
+Fatigue
+Oedema
+Pyrexia10
+Investigations
+Elevated Increased alkaline Increased total
+plasma phosphatase10 bilirubin
+prolactin High creatine
+levels8 phosphokinase11
+High Gamma
+Glutamyltransferase10
+High uric acid 10
 
 1 Clinically significant weight gain was observed across all baseline Body Mass Index (BMI) categories.
 Following short term treatment (median duration 47 days), weight gain ≥ 7% of baseline body weight was very common (22.2 %), ≥ 15 % was common (4.2 %) and ≥ 25 % was uncommon (0.8 %).
@@ -85,7 +142,7 @@ The proportion of patients who had adverse, clinically significant changes in we
 In adult patients who completed 9-12 months of therapy, the rate of increase in mean blood glucose slowed after approximately 6 months.
 
 Additional information on special populations
-In clinical trials in elderly patients with dementia, olanzapine treatment was associated with a higher incidence of death and cerebrovascular adverse reactions compared to placebo (see also section 4.4).
+In clinical trials in elderly patients with dementia, olanzapine treatment was associated with a higher incidence of death and cerebrovascular adverse reactions compared to placebo (see section 4.4).
 Very common adverse reactions associated with the use of olanzapine in this patient group were abnormal gait and falls.
 Pneumonia, increased body temperature, lethargy, erythema, visual hallucinations and urinary incontinence were observed commonly.
 
@@ -116,7 +173,7 @@ Nervous system disorders
 Very common: Sedation (including: hypersomnia, lethargy, somnolence).
 Gastrointestinal disorders
 Common: Dry mouth
-Hepato-biliary disorders
+Hepatobiliary disorders
 Very common: Elevations of hepatic aminotransferases (ALT/AST; see section 4.4).
 Investigations
 Very common: Decreased total bilirubin, increased GGT, elevated plasma prolactin levels16.
@@ -134,91 +191,37 @@ Changes in total fasting cholesterol levels from borderline at baseline (≥ 4.3
 
 16 Elevated plasma prolactin levels were reported in 47.4% of adolescent patients.
 
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
 [ZYPREXA 5 mg coated tablets]
 
-| Very common | Common | Uncommon | Rare |
-| --- | --- | --- | --- |
-| Blood and the lymphatic system disorders |  |  |  |
-|  | Eosinophilia |  | Thrombocytopenia11 |
+| Very common | Common | Uncommon | Rare | Not known |
+| --- | --- | --- | --- | --- |
+| Blood and the lymphatic system disorders |  |  |  |  |
+|  | Eosinophilia |  | Thrombocytopenia11 |  |
 
-Leukopenia10
-Neutropenia10
-Immune system disorders
-Hypersensitivity11
-Weight gain1 Elevated cholesterol Development or Hypothermia12
-levels2,3 exacerbation of
-Elevated glucose diabetes occasionally
-levels4 associated with
-Elevated triglyceride ketoacidosis or coma,
-levels2,5 including some fatal
-Glucosuria cases (see section 4.4)
-Increased appetite 11
-Somnolence Dizziness Seizures where in most Neuroleptic malignant
-Akathisia6 cases a history of syndrome (see section
-Parkinsonism6 seizures or risk factors 4.4) 12
-Dyskinesia6 for seizures were Discontinuation
-reported 11 symptoms7,12
-Dystonia (including
+Weight gain1 Elevated Development or Hypothermia12
+cholesterol levels2,3 exacerbation of
+Elevated ketoacidosis or coma,
+triglyceride levels2,5 including some fatal
+Parkinsonism6 of seizures or risk 4.4) 12
+Dyskinesia6 factors for seizures Discontinuation
+were reported 11 symptoms7,12
 oculogyration)11
-Tardive dyskinesia11
-Amnesia 9
-Dysarthria
-Respiratory, thoracic and mediastinal disorders
-Epistaxis9
-Cardiac disorders
-Bradycardia Ventricular
-QTc prolongation (see tachycardia/fibrillation,
-section 4.4) sudden death (see
-section 4.4)11
-Vascular disorders
-Orthostatic Thromboembolism
-hypotension10 (including pulmonary
-embolism and deep
-vein thrombosis) (see
-section 4.4)
-Mild, transient Abdominal distension9 Pancreatitis11
-anticholinergic effects
-including constipation
-and dry mouth
-Transient, Hepatitis (including
-asymptomatic hepatocellular,
-elevations of hepatic cholestatic or mixed
-aminotransferases liver injury)11
-(ALT, AST), especially
-in early treatment (see
-Skin and subcutaneous tissue disorders
-Rash Photosensitivity
-reaction
-Alopecia
-Musculoskeletal and connective tissue disorders
-Arthralgia9 Rhabdomyolysis11
-Renal and urinary disorders
-Urinary incontinence,
-urinary retention
-Urinary hesitation11
-Reproductive system and breast disorders
-Erectile dysfunction in Amenorrhea Priapism12
-males Breast enlargement
-Decreased libido in Galactorrhea in females
-males and females Gynaecomastia/breast
-enlargement in males
-General disorders and administration site conditions
-Asthenia
-Fatigue
-Oedema
-Pyrexia10
-Elevated plasma Increased alkaline Increased total bilirubin
-prolactin levels8 phosphatase10
-High creatine
-phosphokinase11
-High Gamma
-Glutamyltransferase 10
-High Uric Acid 10
-Not known
-Pregnancy, puerperium and perinatal conditions
-Drug withdrawal
-syndrome neonatal (see
-section 4.6)
+constipation and
+dry mouth
+elevations of cholestatic or mixed
+hepatic liver injury)11
+aminotransferases
+treatment (see
+neonatal
+(see section
+4.6)
+Glutamyltransferase
+10
 
 (≥ 10%) of tremor, dry mouth, increased appetite, and weight gain.
 Long-term olanzapine treatment (up to 12 months) for recurrence prevention in patients with bipolar disorder was associated with an increase of ≥ 7% from baseline body weight in 39.9% of patients.
@@ -228,55 +231,22 @@ With long-term exposure (at least 24 weeks), 89.4 % gained ≥ 7 %, 55.3 % gaine
 
 [ZYPREXA 7.5 mg coated tablets]
 
-Parkinsonism6 seizures or risk factors 4.4)12
-Dyskinesia6 for seizures were )
-reported 11 Discontinuation
-symptoms7, 12
-
-|  | Rash | Photosensitivity reaction Alopecia |  |
-| --- | --- | --- | --- |
-| Musculoskeletal and connective tissue disorders |  |  |  |
-|  | Arthralgia9 |  | Rhabdomyolysis11 |
-| Renal and urinary disorders |  |  |  |
-|  |  | Urinary incontinence, urinary retention Urinary hesitation11 |  |
-| Reproductive system and breast disorders |  |  |  |
-|  | Erectile dysfunction in males Decreased libido in males and females | Amenorrhea Breast enlargement Galactorrhea in females Gynaecomastia/breast enlargement in males | Priapism12 |
-| General disorders and administration site conditions |  |  |  |
-|  | Asthenia Fatigue Oedema Pyrexia10 |  |  |
-| Investigations |  |  |  |
-| Elevated plasma prolactin levels8 | Increased alkaline phosphatase10 High creatine phosphokinase11 High Gamma Glutamyltransferase 10 High Uric Acid 10 | Increased total bilirubin |  |
-|  |  |  | Not known |
-| Pregnancy, puerperium and perinatal conditions |  |  |  |
-|  |  |  | Drug withdrawal syndrome neonatal (see section 4.6) |
+Parkinsonism6 of seizures or risk 4.4)12
+were reported 11 symptoms7, 12
+(see
+section
 
 13 Following short term treatment (median duration 22 days), weight gain ≥ 7% of baseline body weight (kg) was very common (40.6 %), ≥ 15 % of baseline body weight was common (7.1 %) and ≥ 25 % was common (2.5 %).
 
 [ZYPREXA 10 mg coated tablets.]
 
-Parkinsonism6 seizures or risk factors 4.4)12Discontinuation
-Dyskinesia6 for seizures were symptoms7, 12
-reported11
-
-| Skin and subcutaneous tissue disorders |  |  |  |
-| --- | --- | --- | --- |
-|  | Rash | Photosensitivity reaction Alopecia |  |
-| Musculoskeletal and connective tissue disorders |  |  |  |
-|  | Arthralgia9 |  | Rhabdomyolysis11 |
-| Renal and urinary disorders |  |  |  |
-|  |  | Urinary incontinence, urinary retention Urinary hesitation11 |  |
-| Reproductive system and breast disorders |  |  |  |
-|  | Erectile dysfunction in males Decreased libido in males and females | Amenorrhea Breast enlargement Galactorrhea in females Gynaecomastia/breast enlargement in males | Priapism12 |
-| General disorders and administration site conditions |  |  |  |
-|  | Asthenia Fatigue Oedema Pyrexia10 |  |  |
-| Investigations |  |  |  |
-| Elevated plasma prolactin levels8 | Increased alkaline phosphatase10 High creatine phosphokinase11 High Gamma Glutamyltransferase 10 High Uric Acid 10 | Increased total bilirubin |  |
-|  |  |  | Not known |
-| Pregnancy, puerperium and perinatal conditions |  |  |  |
-|  |  |  | Drug withdrawal syndrome neonatal (see section 4.6) |
+Very common Common Uncommon Rare Not
+known
+Blood and the lymphatic system disorders
+were reported11 symptoms7, 12
 
 [ZYPREXA 15 mg coated tablets]
 
-reported11 symptoms7, 12
 Amnesia9
 
 13 Following short term treatment (median duration 22 days), weight gain ≥ 7 % of baseline body weight (kg) was very common (40.6 %), ≥ 15% of baseline body weight was common (7.1 %) and ≥ 25 % was common (2.5 %).
@@ -285,22 +255,7 @@ Amnesia9
 
 [ZYPREXA 20 mg coated tablets]
 
-| Skin and subcutaneous tissue disorders |  |  |  |
-| --- | --- | --- | --- |
-|  | Rash | Photosensitivity reaction Alopecia |  |
-| Musculoskeletal and connective tissue disorders |  |  |  |
-|  | Arthralgia 9 |  | Rhabdomyolysis11 |
-| Renal and urinary disorders |  |  |  |
-|  |  | Urinary incontinence, urinary retention Urinary hesitation11 |  |
-| Reproductive system and breast disorders |  |  |  |
-|  | Erectile dysfunction in males Decreased libido in males and females | Amenorrhea Breast enlargement Galactorrhea in females Gynaecomastia/breast enlargement in males | Priapism12 |
-| General disorders and administration site conditions |  |  |  |
-|  | Asthenia Fatigue Oedema Pyrexia10 |  |  |
-| Investigations |  |  |  |
-| Elevated plasma prolactin levels8 | Increased alkaline phosphatase10 High creatine phosphokinase11 High Gamma Glutamyltransferase 10 High Uric Acid 10 | Increased total bilirubin |  |
-|  |  |  | Not known |
-| Pregnancy, puerperium and perinatal conditions |  |  |  |
-|  |  |  | Drug withdrawal syndrome neonatal (see section 4.6) |
+Arthralgia 9 Rhabdomyolysis11
 
 13Following short term treatment (median duration 22 days), weight gain ≥ 7% of baseline body weight (kg) was very common (40.6 %), ≥ 15 % of baseline body weight was common (7.1 %) and ≥ 25 % was common (2.5 %).
 
@@ -323,22 +278,4 @@ Common (≥ 1/100 to < 1/10): Injection site discomfort.
 
 The undesirable effects listed below have been observed following administration of oral and prolonged release intramuscular injection olanzapine, but may also occur following administration of ZYPREXA powder for solution for injection.
 
-reported11 symptoms7,12
-
-|  | section 4.4) |  |  |
-| --- | --- | --- | --- |
-| Skin and subcutaneous tissue disorders |  |  |  |
-|  | Rash | Photosensitivity reaction Alopecia |  |
-| Musculoskeletal and connective tissue disorders |  |  |  |
-|  | Arthralgia9 |  | Rhabdomyolysis11 |
-| Renal and urinary disorders |  |  |  |
-|  |  | Urinary incontinence, urinary retention Urinary hesitation11 |  |
-| Reproductive system and breast disorders |  |  |  |
-|  | Erectile dysfunction in males Decreased libido in males and females | Amenorrhea Breast enlargement Galactorrhea in females Gynaecomastia/breast enlargement in males | Priapism12 |
-| General disorders and administration site conditions |  |  |  |
-|  | Asthenia Fatigue Oedema Pyrexia10 |  |  |
-| Investigations |  |  |  |
-| Elevated plasma prolactin levels8 | Increased alkaline phosphatase10 High creatine phosphokinase11 High Gamma Glutamyltransferase 10 High Uric Acid 10 | Increased total bilirubin |  |
-|  |  |  | Not known |
-| Pregnancy, puerperium and perinatal conditions |  |  |  |
-|  |  |  | Drug withdrawal syndrome neonatal (see section 4.6) |
+were reported11 symptoms7,12

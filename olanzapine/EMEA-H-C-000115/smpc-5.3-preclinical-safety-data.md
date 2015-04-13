@@ -17,6 +17,7 @@ Haematologic toxicity
 Effects on haematology parameters were found in each species, including dose-related reductions in circulating leukocytes in mice and non-specific reductions of circulating leukocytes in rats; however, no evidence of bone marrow cytotoxicity was found.
 Reversible neutropenia, thrombocytopenia, or anaemia developed in a few dogs treated with 8 or 10 mg/kg/day (total olanzapine exposure [AUC] is 12- to 15-fold greater than that of a man given a 12-mg dose).
 In cytopenic dogs, there were no adverse effects on progenitor and proliferating cells in the bone marrow.
+
 Reproductive toxicity
 Olanzapine had no teratogenic effects.
 Sedation affected mating performance of male rats.

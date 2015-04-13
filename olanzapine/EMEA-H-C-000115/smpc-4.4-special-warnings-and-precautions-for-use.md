@@ -4,7 +4,7 @@ During antipsychotic treatment, improvement in the patient's clinical condition 
 Patients should be closely monitored during this period.
 
 Dementia-related psychosis and/or behavioural disturbances
-Olanzapine is not approved for the treatment of dementia-related psychosis and/or behavioural disturbances and is not recommended for use in this particular group of patients because of an increase in mortality and the risk of cerebrovascular accident.
+Olanzapine is not recommended for use in patients with dementia-related psychosis and/or behavioural disturbances because of an increase in mortality and the risk of cerebrovascular accident.
 In placebo-controlled clinical trials (6-12 weeks duration) of elderly patients (mean age 78 years) with dementia-related psychosis and/or disturbed behaviours, there was a 2-fold increase in the incidence of death in olanzapine-treated patients compared to patients treated with placebo (3.5% vs. 1.5%, respectively).
 The higher incidence of death was not associated with olanzapine dose (mean daily dose 4.4 mg) or duration of treatment.
 Risk factors that may predispose this patient population to increased mortality include age > 65 years, dysphagia, sedation, malnutrition and dehydration, pulmonary conditions (e.g., pneumonia, with or without aspiration), or concomitant use of benzodiazepines.
@@ -15,7 +15,6 @@ There was a 3-fold increase in CVAE in patients treated with olanzapine compared
 All olanzapine- and placebo-treated patients who experienced a cerebrovascular event had pre-existing risk factors.
 Age > 75 years and vascular/mixed type dementia were identified as risk factors for CVAE in association with olanzapine treatment.
 The efficacy of olanzapine was not established in these trials.
-
 Parkinson's disease
 The use of olanzapine in the treatment of dopamine agonist associated psychosis in patients with Parkinson's disease is not recommended.
 In clinical trials, worsening of Parkinsonian symptomatology and hallucinations were reported very commonly and more frequently than with placebo (see section 4.8), and olanzapine was not more effective than placebo in the treatment of psychotic symptoms.
@@ -33,13 +32,13 @@ Hyperglycaemia and diabetes
 Hyperglycaemia and/or development or exacerbation of diabetes occasionally associated with ketoacidosis or coma has been reported uncommonly, including some fatal cases (see section 4.8).
 In some cases, a prior increase in body weight has been reported which may be a predisposing factor.
 Appropriate clinical monitoring is advisable in accordance with utilised antipsychotic guidelines, e.g. measuring of blood glucose at baseline, 12 weeks after starting olanzapine treatment and annually thereafter.
-Patients treated with any antipsychotic agents, including ZYPREXA, should be observed for signs and symptoms of hyperglycaemia (such as polydipsia, polyuria, polyphagia, and weakness) and patients with diabetes mellitus or with risk factors for diabetes mellitus should be monitored regularly for worsening of glucose control.
+Patients treated with any antipsychotic medicines, including ZYPREXA, should be observed for signs and symptoms of hyperglycaemia (such as polydipsia, polyuria, polyphagia, and weakness) and patients with diabetes mellitus or with risk factors for diabetes mellitus should be monitored regularly for worsening of glucose control.
 Weight should be monitored regularly, e.g. at baseline, 4, 8 and 12 weeks after starting olanzapine treatment and quarterly thereafter.
 
 Lipid alterations
 Undesirable alterations in lipids have been observed in olanzapine-treated patients in placebo-controlled clinical trials (see section 4.8).
 Lipid alterations should be managed as clinically appropriate, particularly in dyslipidemic patients and in patients with risk factors for the development of lipids disorders.
-Patients treated with any antipsychotic agents, including ZYPREXA, should be monitored regularly for lipids in accordance with utilised antipsychotic guidelines, e.g. at baseline, 12 weeks after starting olanzapine treatment and every 5 years thereafter.
+Patients treated with any antipsychotic medicines, including ZYPREXA, should be monitored regularly for lipids in accordance with utilised antipsychotic guidelines, e.g. at baseline, 12 weeks after starting olanzapine treatment and every 5 years thereafter.
 
 Anticholinergic activity
 While olanzapine demonstrated anticholinergic activity in vitro, experience during the clinical trials revealed a low incidence of related events.
@@ -54,11 +53,11 @@ Caution should be exercised in patients with low leukocyte and/or neutrophil cou
 Neutropenia has been reported commonly when olanzapine and valproate are used concomitantly (see section 4.8).
 
 Discontinuation of treatment
-Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported rarely ( ≥ 0.01% and < 0.1%) when olanzapine is stopped abruptly.
+Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported rarely (≥ 0.01% and < 0.1%) when olanzapine is stopped abruptly.
 
 QT interval
 In clinical trials, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] ≥ 500 milliseconds [msec] at any time post baseline in patients with baseline QTcF < 500 msec) were uncommon (0.1% to 1%) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo.
-However, as with other antipsychotics, caution should be exercised when olanzapine is prescribed with medicines known to increase QTc interval, especially in the elderly, in patients with congenital long QT syndrome, congestive heart failure, heart hypertrophy, hypokalaemia or hypomagnesaemia.
+However, caution should be exercised when olanzapine is prescribed with medicines known to increase QTc interval, especially in the elderly, in patients with congenital long QT syndrome, congestive heart failure, heart hypertrophy, hypokalaemia or hypomagnesaemia.
 
 Thromboembolism
 Temporal association of olanzapine treatment and venous thromboembolism has been reported uncommonly (≥ 0.1% and < 1%).
@@ -81,17 +80,15 @@ These symptoms can temporally deteriorate or even arise after discontinuation of
 
 Postural hypotension
 Postural hypotension was infrequently observed in the elderly in olanzapine clinical trials.
-As with other antipsychotics, it is recommended that blood pressure is measured periodically in patients over 65 years.
+It is recommended that blood pressure is measured periodically in patients over 65 years.
 
 Sudden cardiac death
 In postmarketing reports with olanzapine, the event of sudden cardiac death has been reported in patients with olanzapine.
 In a retrospective observational cohort study, the risk of presumed sudden cardiac death in patients treated with olanzapine was approximately twice the risk in patients not using antipsychotics.
 In the study, the risk of olanzapine was comparable to the risk of atypical antipsychotics included in a pooled analysis.
-
 Paediatric population
 Olanzapine is not indicated for use in the treatment of children and adolescents.
-Studies in patients aged 13-17 years showed various adverse reactions, including weight gain, changes in metabolic parameters and increases in prolactin levels.
-Long-term outcomes associated with these events have not been studied and remain unknown (see sections 4.8 and 5.1).
+Studies in patients aged 13-17 years showed various adverse reactions, including weight gain, changes in metabolic parameters and increases in prolactin levels (see sections 4.8 and 5.1).
 
 Lactose
 ZYPREXA tablets contain lactose.
@@ -101,17 +98,19 @@ Patients with rare hereditary problems of galactose intolerance, the Lapp lactas
 
 Hyperglycaemia and/or development or exacerbation of diabetes occasionally associated with ketoacidosis or coma has been reported uncommonly , including some fatal cases (see section 4.8).
 
+Studies in patients aged 13-17 years showed various adverse reactions, including weight gain, changes in metabolic parameters and increases in prolactin levels(see sections 4.8 and 5.1).
+
 [ZYPREXA 7.5 mg coated tablets]
 
-Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported rarely ( ≥0.01% and < 0.1%)) when olanzapine is stopped abruptly.
+Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported rarely (≥0.01% and < 0.1%) when olanzapine is stopped abruptly.
 
 [ZYPREXA 10 mg coated tablets.]
 
-Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported rarely (≥ 0.01% and < 0.1%) when olanzapine is stopped abruptly.
+(all sentences already above)
 
 [ZYPREXA 15 mg coated tablets]
 
-Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported rarely ( ≥0.01% and < 0.1%) when olanzapine is stopped abruptly.
+(all sentences already above)
 
 [ZYPREXA 20 mg coated tablets]
 
@@ -132,6 +131,7 @@ Temporal association of treatment with IM olanzapine with hypotension, bradycard
 Simultaneous injection of intramuscular olanzapine and parenteral benzodiazepine is not recommended due to the potential for excessive sedation, cardiorespiratory depression and in very rare cases, death (see sections 4.5 and 6.2).
 If the patient is considered to need parenteral benzodiazepine treatment, this should not be given until at least one hour after IM olanzapine administration.
 If the patient has received parenteral benzodiazepine, IM olanzapine administration should only be considered after careful evaluation of clinical status and the patient should be closely monitored for excessive sedation and cardiorespiratory depression.
+
 Hypotension
 It is extremely important that patients receiving intramuscular olanzapine should be closely observed for hypotension including postural hypotension, bradyarrhythmia and/or hypoventilation, particularly for the first 4 hours following injection and close observation should be continued after this period if clinically indicated.
 Blood pressure, pulse, respiratory rate and level of consciousness should be observed regularly and remedial treatment provided if required.
@@ -140,6 +140,8 @@ Patients should remain recumbent if dizzy or drowsy after injection until examin
 The safety and efficacy of IM olanzapine has not been evaluated in patients with alcohol or drug intoxication (either with prescribed or illicit drugs) (see section 4.5).
 
 While olanzapine demonstrated anticholinergic activity in vitro, experience during oral clinical trials revealed a low incidence of related events.
+
+Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported rarely ( ≥ 0.01% and < 0.1%) when olanzapine is stopped abruptly.
 
 In clinical trials with oral administration, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] ≥ 500 milliseconds [msec] at any time post baseline in patients with baseline QTcF < 500 msec) were uncommon (0.1% to 1%) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo.
 In clinical trials with ZYPREXA powder for solution for injection, olanzapine was not associated with a persistent increase in absolute QT or in QTc intervals.

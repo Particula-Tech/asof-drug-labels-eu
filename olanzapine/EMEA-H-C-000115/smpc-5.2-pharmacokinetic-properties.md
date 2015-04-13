@@ -21,6 +21,7 @@ After oral administration, the mean terminal elimination half-life of olanzapine
 In healthy elderly (65 and over) versus non-elderly subjects, the mean elimination half-life was prolonged (51.8 versus 33.8 hr) and the clearance was reduced (17.5 versus 18.2 l/hr).
 The pharmacokinetic variability observed in the elderly is within the range for the non-elderly.
 In 44 patients with schizophrenia > 65 years of age, dosing from 5 to 20 mg/day was not associated with any distinguishing profile of adverse events.
+
 In female versus male subjects the mean elimination half life was somewhat prolonged (36.7 versus 32.3 hr) and the clearance was reduced (18.9 versus 27.3 l/hr).
 However, olanzapine (5-20 mg) demonstrated a comparable safety profile in female (n=467) as in male patients (n=869).
 
@@ -71,7 +72,6 @@ The Cmax occurs earlier after intramuscular compared to oral use (15 to 45 minut
 As with oral use, Cmax and area under the curve after intramuscular use are directly proportional to the dose administered.
 For the same dose of olanzapine administered intramuscularly and orally, the associated area under the curve, half-life, clearance and volume of distribution are similar.
 The metabolic profiles following intramuscular and oral use are similar.
-
 In non-smoking versus smoking subjects (males and females) administered olanzapine intramuscularly the mean elimination half-life was prolonged (38.6 versus 30.4 hr) and the clearance was reduced (18.6 versus 27.7 l/hr).
 
 Additional pharmacokinetic data following administration of oral olanzapine are described below.

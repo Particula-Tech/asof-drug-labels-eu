@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: diazepines, oxazepines and thiazepines, ATC code: N05A H03.
+Pharmacotherapeutic group: psycholeptics, diazepines, oxazepines, thiazepines and oxepines, ATC code N05A H03.
 
 Pharmacodynamic effects
 Olanzapine is an antipsychotic, antimanic and mood stabilising agent that demonstrates a broad pharmacologic profile across a number of receptor systems.
@@ -32,8 +32,9 @@ In a second 12-month recurrence prevention study in manic episode patients who a
 In an 18-month co-therapy study in manic or mixed episode patients stabilised with olanzapine plus a mood stabiliser (lithium or valproate), long-term olanzapine co-therapy with lithium or valproate was not statistically significantly superior to lithium or valproate alone in delaying bipolar recurrence, defined according to syndromic (diagnostic) criteria.
 
 Paediatric population
-The experience in adolescents (ages 13 to 17 years) is limited to short term efficacy data in schizophrenia (6 weeks) and mania associated with bipolar I disorder (3 weeks), involving less than 200 adolescents.
+Controlled efficacy data in adolescents (ages 13 to 17 years) are limited to short term studies in schizophrenia (6 weeks) and mania associated with bipolar I disorder (3 weeks), involving less than 200 adolescents.
 Olanzapine was used as a flexible dose starting with 2.5 and ranging up to 20 mg/day.
 During treatment with olanzapine, adolescents gained significantly more weight compared with adults.
 The magnitude of changes in fasting total cholesterol, LDL cholesterol, triglycerides, and prolactin (see sections 4.4 and 4.8) were greater in adolescents than in adults.
-There are no data on maintenance of effect and limited data on long term safety (see sections 4.4 and 4.8).
+There are no controlled data on maintenance of effect or long term safety (see sections 4.4 and 4.8).
+Information on long term safety is primarily limited to open-label, uncontrolled data.

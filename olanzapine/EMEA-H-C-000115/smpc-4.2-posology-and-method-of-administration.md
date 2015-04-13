@@ -13,10 +13,8 @@ During treatment for schizophrenia, manic episode and recurrence prevention in b
 An increase to a dose greater than the recommended starting dose is advised only after appropriate clinical reassessment and should generally occur at intervals of not less than 24 hours.
 Olanzapine can be given without regards for meals as absorption is not affected by food.
 Gradual tapering of the dose should be considered when discontinuing olanzapine.
-Paediatric population
-Olanzapine is not recommended for use in children and adolescents below 18 years of age due to a lack of data on safety and efficacy.
-A greater magnitude of weight gain, lipid and prolactin alterations has been reported in short term studies of adolescent patients than in studies of adult patients (see sections 4.4, 4.8, 5.1 and 5.2).
 
+Special populations
 Elderly patients
 A lower starting dose (5 mg/day) is not routinely indicated but should be considered for those 65 and over when clinical factors warrant (see section 4.4).
 
@@ -24,16 +22,19 @@ Patients with renal and/or hepatic impairment
 A lower starting dose (5 mg) should be considered for such patients.
 In cases of moderate hepatic insufficiency (cirrhosis, Child-Pugh Class A or B), the starting dose should be 5 mg and only increased with caution.
 
-Gender
-The starting dose and dose range need not be routinely altered for female patients relative to male patients.
-
 Smokers
 The starting dose and dose range need not be routinely altered for non-smokers relative to smokers.
+The metabolism of olanzapine may be induced by smoking.
+Clinical monitoring is recommended and an increase of olanzapine dose may be considered if necessary (see section 4.5).
 
 When more than one factor is present which might result in slower metabolism (female gender, geriatric age, non-smoking status), consideration should be given to decreasing the starting dose.
 Dose escalation, when indicated, should be conservative in such patients.
 
 (See sections 4.5 and 5.2)
+
+Paediatric population
+Olanzapine is not recommended for use in children and adolescents below 18 years of age due to a lack of data on safety and efficacy.
+A greater magnitude of weight gain, lipid and prolactin alterations has been reported in short term studies of adolescent patients than in studies of adult patients (see sections 4.4, 4.8, 5.1 and 5.2).
 
 [ZYPREXA 5 mg coated tablets]
 
@@ -53,7 +54,7 @@ Dose escalation, when indicated, should be conservative in such patients.
 
 [ZYPREXA 20 mg coated tablets]
 
-(all sentences already above)
+#Special populations
 
 [ZYPREXA 10 mg powder for solution for injection]
 
@@ -72,15 +73,14 @@ ZYPREXA powder for solution for injection should be reconstituted in accordance 
 
 For further information on continued treatment with oral olanzapine (5 to 20 mg daily), see the Summary of Product Characteristics for ZYPREXA coated tablets or ZYPREXA VELOTAB orodispersible tablets.
 
-There is no experience in children.
-ZYPREXA powder for solution for injection is not recommended for use in children and adolescents due to a lack of data on safety and efficacy.
 The recommended starting dose in elderly patients (> 60 years) is 2.5 - 5 mg.
 Depending on the patient's clinical status (see section 4.4), a second injection, 2.5 - 5 mg, may be administered 2 hours after the first injection.
 Not more than 3 injections should be given in any 24 hour period and the maximum daily dose of 20 mg (including all formulations) of olanzapine should not be exceeded.
-
-The dose and dose range need not be routinely altered for female patients relative to male patients.
 
 The dose and dose range need not be routinely altered for non-smokers relative to smokers.
 
 When more than one factor is present which might result in slower metabolism (female gender, geriatric age, non-smoking status), consideration should be given to decreasing the dose.
 Additional injections, when indicated, should be conservative in such patients.
+
+There is no experience in children.
+ZYPREXA powder for solution for injection is not recommended for use in children and adolescents due to a lack of data on safety and efficacy.
