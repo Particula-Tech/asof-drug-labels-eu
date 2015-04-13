@@ -1,14 +1,17 @@
 # 4.8 Undesirable effects
 
+a. Summary of the safety profile:
+
 The safety of bexarotene has been examined in clinical studies of 193 patients with CTCL who received bexarotene for up to 118 weeks and in 420 non-CTCL cancer patients in other studies.
 
 In 109 patients with CTCL treated at the recommended initial dose of 300 mg/m2/day, the most commonly reported adverse reactions to Targretin were hyperlipaemia ((primarily elevated triglycerides) 74%), hypothyroidism (29%), hypercholesterolaemia (28%), headache (27%), leucopenia (20%), pruritus (20%), asthenia (19%), rash (16%), exfoliative dermatitis (15%), and pain (12%).
+
+b. Tabulated list of adverse reactions:
 
 The following Targretin-related adverse reactions were reported during clinical studies in patients with CTCL (N=109) treated at the recommended initial dose of 300 mg/m2/day.
 The frequencies of adverse reactions are classified as very common (>1/10), common (>1/100, <1/10), uncommon (>1/1,000, <1/100), rare (>1/10,000, <1/1,000), and very rare (<1/10,000).
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
-
 Blood and lymphatic system disorders
 Very common: Leucopenia
 
@@ -43,6 +46,7 @@ Common: Dry Eyes, Eye Disorder
 Uncommon: Cataract Specified1,2,3, Amblyopia3, Visual Field Defect, Corneal Lesion,
 
 Abnormal Vision1,2,3, Blepharitis, Conjunctivitis3
+
 Ear and labyrinth disorders
 
 Common: Deafness

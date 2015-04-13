@@ -2,8 +2,9 @@
 
 Bexarotene therapy should only be initiated and maintained by physicians experienced in the treatment of patients with CTCL.
 
+Posology
+
 The recommended initial dose is 300 mg/m2/day.
-Targretin capsules should be taken as a single oral daily dose with a meal (see section 4.5).
 Initial dose calculations according to body surface area are as follows:
 
 | Initial dose level (300 mg/m2/day) | Number of 75 mg Targretin capsules |
@@ -17,13 +18,25 @@ With appropriate clinical monitoring, individual patients may benefit from doses
 Doses greater than 650 mg/m2/day have not been evaluated in patients with CTCL.
 In clinical trials, bexarotene was administered for up to 118 weeks to patients with CTCL.
 Treatment should be continued as long as the patient is deriving benefit.
-Use in children and adolescents: the clinical safety and effectiveness of bexarotene in the paediatric population (below 18 years of age) have not been studied and this product should not be used in a paediatric population until further data become available.
 
-Use in the elderly: of the total number of patients with CTCL in clinical studies, 61% were 60 years or older, while 30% were 70 years or older.
+Paediatric population:
+The safety and efficacy of bexarotene in children (aged below 18 years) have not been established.
+No data are available.
+
+Elderly patients:
+Of the total number of patients with CTCL in clinical studies, 61% were 60 years or older, while 30% were 70 years or older.
 No overall differences in safety were observed between patients 70 years or older and younger patients, but greater sensitivity of some older individuals to bexarotene cannot be ruled out.
 The standard dose should be used in the elderly.
 
-Renal insufficiency: no formal studies have been conducted in patients with renal insufficiency.
+Patients with renal impairment:
+No formal studies have been conducted in patients with renal insufficiency.
 Clinical pharmacokinetic data indicate that urinary elimination of bexarotene and its metabolites is a minor excretory pathway for bexarotene.
 In all evaluated patients, the estimated renal clearance of bexarotene was less than 1 ml/minute.
 In view of the limited data, patients with renal insufficiency should be monitored carefully while on bexarotene therapy.
+
+Method of administration
+
+For oral use.
+
+Targretin capsules should be taken as a single oral daily dose with a meal.
+The capsule should not be chewed.

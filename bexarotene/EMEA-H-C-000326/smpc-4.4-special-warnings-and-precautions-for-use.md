@@ -16,6 +16,7 @@ Elevations of serum cholesterol should be managed according to current medical p
 
 Pancreatitis: acute pancreatitis associated with elevations of fasting serum triglycerides has been reported in clinical studies.
 Patients with CTCL having risk factors for pancreatitis (e.g., prior episodes of pancreatitis, uncontrolled hyperlipidaemia, excessive alcohol consumption, uncontrolled diabetes mellitus, biliary tract disease, and medications known to increase triglyceride levels or to be associated with pancreatic toxicity) should not be treated with bexarotene, unless the potential benefit outweighs the risk.
+
 Liver Function Test (LFT) abnormalities: LFT elevations associated with the use of bexarotene have been reported.
 Based on data from ongoing clinical trials, elevation of LFTs resolved within one month in 80% of patients following a decrease in dose or discontinuation of therapy.
 Baseline LFTs should be obtained, and LFTs should be carefully monitored weekly during the first month and then monthly thereafter.
@@ -43,9 +44,13 @@ Vitamin A supplementation: because of the relationship of bexarotene to vitamin 
 Patients with diabetes mellitus: caution should be exercised when administering bexarotene in patients using insulin, agents enhancing insulin secretion (e.g. sulfonylureas), or insulin-sensitisers (e.g. thiazolidinediones).
 Based on the known mechanism of action, bexarotene may potentially enhance the action of these agents, resulting in hypoglycaemia.
 No cases of hypoglycaemia associated with the use of bexarotene as monotherapy have been reported.
-
 Photosensitivity: the use of some retinoids has been associated with photosensitivity.
 Patients should be advised to minimise exposure to sunlight and avoid sun lamps during therapy with bexarotene, as in vitro data indicate that bexarotene may potentially have a photosensitising effect.
 
 Oral contraceptives: bexarotene can potentially induce metabolic enzymes and thereby theoretically reduce the efficacy of oestroprogestive contraceptives.
 Thus, if treatment with bexarotene is intended in a woman of childbearing potential, a reliable, non-hormonal form of contraception is also required, because bexarotene belongs to a therapeutic class for which the human malformative risk is high.
+
+Paediatric population:
+Targretin is not recommended in children (aged below 18 years).
+
+Targretin contains a small amount of sorbitol, therefore patients with rare hereditary problems of fructose intolerance should not take this medicine.

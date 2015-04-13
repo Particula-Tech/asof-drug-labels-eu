@@ -1,6 +1,6 @@
 # 5.3 Preclinical safety data
 
-Carcinogenesis, mutagenesis, impairment of fertility: bexarotene is not genotoxic.
+Bexarotene is not genotoxic.
 Carcinogenicity studies have not been conducted.
 Fertility studies have not been conducted; however, in sexually immature male dogs, reversible aspermatogenesis (28-day study) and testicular degeneration (91-day study) were seen.
 When bexarotene was administered for six months to sexually mature dogs, no testicular effects were seen.
