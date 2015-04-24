@@ -1,9 +1,11 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
+
 The safety of Benlysta in patients with SLE has been evaluated in 3 placebo-controlled studies.
 The data described below reflect exposure to Benlysta 10 mg/kg in 674 patients with SLE, including 472 exposed for at least 52 weeks.
 The safety data presented include data beyond Week 52 in some patients.
+Data from postmarketing reports are also included.
 Patients received Benlysta 10 mg/kg intravenously over a 1-hour period on Days 0, 14, 28, and then every 28 days for 52 weeks.
 The majority of patients were also receiving one or more of the following concomitant treatments for SLE: corticosteroids, immunomodulatory medicinal products, anti-malarials, non-steroidal anti-inflammatory medicinal products.
 
@@ -17,8 +19,10 @@ Adverse reactions are listed below by MedDRA system organ class and by frequency
 The frequency categories used are:
 
 Very common > 1/10
-Common ≥ 1/100 to <1/10
-Uncommon ≥ 1/1,000 to <1/100
+
+Common ≥1/100 to <1/10
+
+Uncommon ≥1/1,000 to <1/100
 
 Rare >1/10,000 to <1/1000
 

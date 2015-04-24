@@ -1,13 +1,13 @@
 # 4.4 Special warnings and precautions for use
 
 Benlysta has not been studied in the following patient groups, and is not recommended in:
-• severe active central nervous system lupus
-• severe active lupus nephritis (see section 5.1)
-•
-HIV
-• a history of, or current, hepatitis B or C
-• hypogammaglobulinaemia (IgG <400 mg/dl) or IgA deficiency (IgA <10 mg/dl)
-• a history of major organ transplant or hematopoietic stem /cell /marrow transplant or renal transplant.
+
+- severe active central nervous system lupus
+- severe active lupus nephritis (see section 5.1)
+- HIV
+- a history of, or current, hepatitis B or C
+- hypogammaglobulinaemia (IgG <400 mg/dl) or IgA deficiency (IgA <10 mg/dl)
+- a history of major organ transplant or hematopoietic stem /cell /marrow transplant or renal transplant.
 
 Concomitant use with B cell targeted therapy or cyclophosphamide
 Benlysta has not been studied in combination with other B cell targeted therapy or intravenous cyclophosphamide.
@@ -43,6 +43,12 @@ Patients receiving any therapy for chronic infection should not begin therapy wi
 Patients who develop an infection while undergoing treatment with Benlysta should be monitored closely.
 The risk of using Benlysta in patients with active or latent tuberculosis is unknown.
 
+Progressive multifocal leukoencephalopathy
+Progressive multifocal leukoencephalopathy (PML) has been reported with Benlysta treatment for SLE.
+Physicians should be particularly alert to symptoms suggestive of PML that patients may not notice (e.g., cognitive, neurological or psychiatric symptoms or signs).
+Patients should be monitored for any of these new or worsening symptoms or signs, and if such symptoms/signs occur, referral to a neurologist and appropriate diagnostic measures for PML should be considered.
+If PML is suspected, further dosing must be suspended until PML has been excluded.
+
 Immunisation
 Live vaccines should not be given for 30 days before, or concurrently with Benlysta, as clinical safety has not been established.
 No data are available on the secondary transmission of infection from persons receiving live vaccines to patients receiving Benlysta.
@@ -60,6 +66,5 @@ Patients with malignant neoplasm within the last 5 years have not been studied, 
 [Benlysta 400 mg powder for concentrate for solution for infusion.]
 
 Benlysta has not been studied in the following patient groups and is not recommended in:
-• severe active central nervous system lupus severe active lupus nephritis (see section 5.1)
 
 Live vaccines should not be given for 30 days before, or concurrently with Benlysta as clinical safety has not been established.

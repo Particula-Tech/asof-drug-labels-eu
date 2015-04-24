@@ -28,10 +28,10 @@ Renal impairment: No specific studies have been conducted to examine the effects
 During clinical development Benlysta was studied in patients with SLE and renal impairment (261 subjects with moderate renal impairment, creatinine clearance ≥30 and
 <60 ml/min; 14 subjects with severe renal impairment, creatinine clearance ≥15 and <30 ml/min).
 The reduction in systemic clearance estimated by population PK modelling for patients at the midpoints of the renal impairment categories relative to patients with median creatinine clearance in the PK population
-(79.9 ml/min) were 1.4% for mild (75 ml/min), 11.7% for moderate (45 ml/min) and 24.0% for severe (22.5 ml/min) renal impairment.
+(79.9 ml/min) were 1.4% for mild (75 ml/min), 11.7% for moderate (45 ml/min) and 24.0% for severe
+(22.5 ml/min) renal impairment.
 Although proteinuria (> 2 g/day) increased belimumab clearance and decreases in creatinine clearance decreased belimumab clearance, these effects were within the expected range of variability.
 Therefore, no dose adjustment is recommended for patients with renal impairment.
-
 Hepatic impairment: No specific studies have been conducted to examine the effects of hepatic impairment on the pharmacokinetics of belimumab.
 IgG1 molecules such as belimumab are catabolised by widely distributed proteolytic enzymes, which are not restricted to hepatic tissue and changes in hepatic function are unlikely to have any effect on the elimination of belimumab.
 
