@@ -1,12 +1,11 @@
 # 4.6 Fertility, pregnancy and lactation
 
 Pregnancy
-There are no or limited amount of data from the use of dolutegravir in pregnant women.
+There are limited amount of data from the use of dolutegravir in pregnant women.
 The effect of dolutegravir on human pregnancy is unknown.
 In reproductive toxicity studies in animals, dolutegravir was shown to cross the placenta.
 Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3).
-Tivicay should be used during pregnancy only if the expected benefit justifies the potential risk to the foetus.
-There are no or limited amount of data from the use of dolutegravir in pregnant women.
+Dolutegravir should be used during pregnancy only if the expected benefit justifies the potential risk to the foetus.
 
 Breast-feeding
 It is unknown whether dolutegravir is excreted in human milk.

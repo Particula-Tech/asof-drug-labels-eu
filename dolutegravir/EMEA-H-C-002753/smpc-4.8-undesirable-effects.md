@@ -1,11 +1,12 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-The safety profile is based on pooled data from Phase IIb and Phase III clinical studies in 980 previously untreated patients, 357 previously treated patients unexposed to integrase inhibitors and 234 patients with prior treatment failure that included an integrase inhibitor (including integrase class resistance).
+The safety profile is based on pooled data from Phase IIb and Phase III clinical studies in 1222 previously untreated patients, 357 previously treated patients unexposed to integrase inhibitors and 264 patients with prior treatment failure that included an integrase inhibitor (including integrase class resistance).
 The most severe adverse reaction, seen in an individual patient, was a hypersensitivity reaction that included rash and severe liver effects (see section 4.4).
-The most commonly seen treatment emergent adverse reactions were nausea (15%), diarrhoea (16%) and headache (14%).
+The most commonly seen treatment emergent adverse reactions were nausea (13%), diarrhoea (18%) and headache (13%).
 
 The safety profile was similar across the different treatment populations mentioned above.
+
 Tabulated list of adverse reactions
 The adverse reactions considered at least possibly related to dolutegravir are listed by body system, organ class and absolute frequency.
 Frequencies are defined as very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000).
@@ -17,6 +18,8 @@ Table 2 Adverse Reactions
 |  | Uncommon | Immune Reconstitution Syndrome (see section 4.4)** |
 | Psychiatric disorders | Common | Insomnia |
 |  | Common | Abnormal dreams |
+|  | Common | Depression |
+|  | Uncommon | Suicidal ideation or suicide attempt (particularly in patients with a pre-existing history of depression or psychiatric illness) |
 | Nervous system disorders | Very common | Headache |
 |  | Common | Dizziness |
 | Gastrointestinal disorders | Very common | Nausea |
@@ -38,7 +41,7 @@ Table 2 Adverse Reactions
 Description of selected adverse reactions
 
 Changes in laboratory biochemistries
-Increases in serum creatinine occurred within the first week of treatment with Tivicay and remained stable through 48 weeks.
+Increases in serum creatinine occurred within the first week of treatment with dolutegravir and remained stable through 48 weeks.
 A mean change from baseline of 9.96 μmol/L was observed after 48 weeks of treatment.
 Creatinine increases were comparable by various background regimens.
 These changes are not considered to be clinically relevant since they do not reflect a change in glomerular filtration rate.
@@ -46,7 +49,7 @@ These changes are not considered to be clinically relevant since they do not ref
 Co-infection with Hepatitis B or C
 In Phase III studies patients with hepatitis B and/or C co-infection were permitted to enrol provided that baseline liver chemistry tests did not exceed 5 times the upper limit of normal (ULN).
 Overall, the safety profile in patients co-infected with hepatitis B and/or C was similar to that observed in patients without hepatitis B or C co-infection, although the rates of AST and ALT abnormalities were higher in the subgroup with hepatitis B and/or C co-infection for all treatment groups.
-Liver chemistry elevations consistent with immune reconstitution syndrome were observed in some subjects with hepatitis B and/or C co-infection at the start of Tivicay therapy, particularly in those whose anti-hepatitis B therapy was withdrawn (see section 4.4).
+Liver chemistry elevations consistent with immune reconstitution syndrome were observed in some subjects with hepatitis B and/or C co-infection at the start of dolutegravir therapy, particularly in those whose anti-hepatitis B therapy was withdrawn (see section 4.4).
 
 Immune response syndrome
 In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise.

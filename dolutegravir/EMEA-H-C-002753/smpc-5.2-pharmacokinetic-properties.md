@@ -22,7 +22,6 @@ The apparent volume of distribution is 17 L to 20 L in HIV-infected patients, ba
 Binding of dolutegravir to plasma proteins is independent of dolutegravir concentration.
 Total blood and plasma drug-related radioactivity concentration ratios averaged between 0.441 to 0.535, indicating minimal association of radioactivity with blood cellular components.
 The unbound fraction of dolutegravir in plasma is increased at low levels of serum albumin (<35 g/L) as seen in subjects with moderate hepatic impairment.
-
 Dolutegravir is present in cerebrospinal fluid (CSF).
 In 13 treatment-naïve subjects on a stable dolutegravir plus abacavir/lamivudine regimen, dolutegravir concentration in CSF averaged 18 ng/mL (comparable to unbound plasma concentration, and above the IC50).
 
@@ -37,16 +36,24 @@ Fifty-three percent of total oral dose is excreted unchanged in the faeces.
 It is unknown if all or part of this is due to unabsorbed active substance or biliary excretion of the glucuronidate conjugate, which can be further degraded to form the parent compound in the gut lumen.
 Thirty-two percent of the total oral dose is excreted in the urine, represented by ether glucuronide of dolutegravir (18.9% of total dose), N-dealkylation metabolite (3.6% of total dose), and a metabolite formed by oxidation at the benzylic carbon (3.0% of total dose).
 
+Drug interactions
+In vitro, dolutegravir demonstrated no direct, or weak inhibition (IC50>50 μM) of the enzymes cytochrome P450 (CYP)1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 CYP3A, uridine diphosphate glucuronosyl transferase (UGT)1A1 or UGT2B7, or the transporters Pgp, BCRP, BSEP, OATP1B1, OATP1B3, OCT1, MATE2-K, MRP2 or MRP4.
+In vitro, dolutegravir did not induce CYP1A2, CYP2B6 or CYP3A4.
+Based on this data, dolutegravir is not expected to affect the pharmacokinetics of medicinal products that are substrates of major enzymes or transporters (see section 4.5).
+
+In vitro, dolutegravir was not a substrate of human OATP 1B1, OATP 1B3 or OCT 1.
+
 Elimination
 Dolutegravir has a terminal half-life of ~14 hours.
 The apparent oral clearance (CL/F) is approximately 1L/hr in HIV-infected patients based on a population pharmacokinetic analysis.
+
 Linearity/non-linearity
 The linearity of dolutegravir pharmacokinetics is dependent on dose and formulation.
 Following oral administration of tablet formulations, in general, dolutegravir exhibited nonlinear pharmacokinetics with less than dose-proportional increases in plasma exposure from 2 to 100 mg; however increase in dolutegravir exposure appears dose proportional from 25 mg to 50 mg for the tablet formulation.
 With 50 mg twice daily, the exposure over 24 hours was approximately doubled compared to 50 mg once daily.
 
 Pharmacokinetic/pharmacodynamic relationship(s)
-In a randomized, dose-ranging trial, HIV-1–infected subjects treated with dolutegravir monotherapy (ING111521) demonstrated rapid and dose-dependent antiviral activity, with mean declinein HIV-1 RNA of 2.5 log10 at day 11 for 50 mg dose .
+In a randomized, dose-ranging trial, HIV-1–infected subjects treated with dolutegravir monotherapy (ING111521) demonstrated rapid and dose-dependent antiviral activity, with mean decline in HIV-1 RNA of 2.5 log10 at day 11 for 50 mg dose .
 This antiviral response was maintained for 3 to 4 days after the last dose in the 50 mg group.
 
 Special patient populations
@@ -56,7 +63,6 @@ The pharmacokinetics of dolutegravir in 10 antiretroviral treatment-experienced 
 
 Elderly
 Population pharmacokinetic analysis of dolutegravir using data in HIV-1 infected adults showed that there was no clinically relevant effect of age on dolutegravir exposure.
-
 Pharmacokinetic data for dolutegravir in subjects >65 years of age are limited.
 
 Renal impairment

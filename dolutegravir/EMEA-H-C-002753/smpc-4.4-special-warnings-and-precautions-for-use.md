@@ -4,7 +4,7 @@ While effective viral suppression with antiretroviral therapy has been proven to
 Precautions to prevent transmission should be taken in accordance with national guidelines.
 
 Integrase class resistance of particular concern
-The decision to use dolutegravir in the presence of integrase class resistance should take into account that the activity of dolutegravir is considerably compromised for viral strains harbouring Q148+>2 secondary mutations from G140A/C/S, E138A/K/T, L74I (see section 5.1).
+The decision to use dolutegravir in the presence of integrase class resistance should take into account that the activity of dolutegravir is considerably compromised for viral strains harbouring Q148+≥2 secondary mutations from G140A/C/S, E138A/K/T, L74I (see section 5.1).
 To what extent dolutegravir provides added efficacy in the presence of such integrase class resistance is uncertain.
 
 Hypersensitivity reactions
