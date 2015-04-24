@@ -1,8 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Glaxo Group Limited
-980 Great West Road
-Brentford
-Middlesex
-TW8 9GS
+Novartis Europharm Limited
+Frimley Business Park
+Camberley GU16 7SR
 United Kingdom

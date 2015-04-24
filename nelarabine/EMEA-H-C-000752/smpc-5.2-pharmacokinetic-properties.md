@@ -20,7 +20,6 @@ Mean plasma ara-G Cmax and AUCinf values were 115 µM (16 %) and 571 µM.h (30 %
 
 Intracellular Cmax for ara-GTP appeared within 3 to 25 hours on day 1.
 Mean (%CV) intracellular ara-GTP Cmax and AUC values were 95.6 µM (139 %) and 2214 µM.h (263 %) at this dose.
-
 Paediatric patients
 
 After infusion of 400 or 650 mg/m2 nelarabine over one hour in 6 paediatric patients, mean (%CV) plasma nelarabine Cmax and AUCinf values, adjusted to a 650 mg/m2 dose, were 45.0 µM (40 %) and 38.0 µM.h (39 %), respectively.
@@ -61,11 +60,11 @@ Renal clearance averaged 9.0 l/h/m2 (151 %) for nelarabine and 2.6 l/h/m2 (83%) 
 Because the timecourse of intracellular ara-GTP was prolonged, its elimination half-life could not be accurately estimated.
 
 Paediatric population
-
 Limited clinical pharmacology data are available for patients below the age of 4 years.
 
 Combined Phase 1 pharmacokinetic data at nelarabine doses of 104 to 2,900 mg/m2 indicate that the clearance (Cl) and Vss values for nelarabine and ara-G are comparable between the two groups.
 Further data with respect to nelarabine and ara-G pharmacokinetics in the paediatric population are provided in other subsections.
+
 Gender
 
 Gender has no effect on nelarabine or ara-G plasma pharmacokinetics.
