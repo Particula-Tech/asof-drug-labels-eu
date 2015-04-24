@@ -45,13 +45,13 @@ Total PDE4 inhibitory activity was slightly decreased in smokers.
 None of these changes were considered to be clinically meaningful.
 No dose adjustment is recommended in these patients.
 A combination of factors, such as in black, non-smoking females, might lead to an increase of exposure and persistent intolerability.
-In this case, Daxas treatment should be reassessed (see section 4.4).
+In this case, roflumilast treatment should be reassessed (see section 4.4).
 
 Renal impairment
 Total PDE4 inhibitory activity decreased by 9% in patients with severe renal impairment (creatinine clearance 10-30 ml/min).
 No dose adjustment is necessary.
 
 Hepatic impairment
-The pharmacokinetics of Daxas 250 micrograms once-daily was tested in 8 patients with mild to moderate hepatic impairment classified as Child-Pugh A and B. In these patients, the total PDE4 inhibitory activity was increased by about 20% in patients with Child-Pugh A and about 90% in patients with Child-Pugh B. Simulations suggest dose proportionality between Daxas 250 and 500 micrograms in patients with mild and moderate hepatic impairment.
+The pharmacokinetics of roflumilast 250 micrograms once-daily was tested in 16 patients with mild to moderate hepatic impairment classified as Child-Pugh A and B. In these patients, the total PDE4 inhibitory activity was increased by about 20% in patients with Child-Pugh A and about 90% in patients with Child-Pugh B. Simulations suggest dose proportionality between roflumilast 250 and 500 micrograms in patients with mild and moderate hepatic impairment.
 Caution is necessary in Child-Pugh A patients (see section 4.2).
-Patients with moderate or severe hepatic impairment classified as Child-Pugh B or C should not take Daxas (see section 4.3).
+Patients with moderate or severe hepatic impairment classified as Child-Pugh B or C should not take roflumilast (see section 4.3).

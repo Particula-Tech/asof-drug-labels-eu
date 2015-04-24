@@ -13,6 +13,7 @@ Very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/10
 (≥1/10,000 to <1/1,000); very rare (<1/10,000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
 Table 1.
 Adverse reactions with roflumilast in clinical COPD studies and post-marketing experience
 
@@ -32,7 +33,7 @@ Adverse reactions with roflumilast in clinical COPD studies and post-marketing e
 | General disorders and administration site conditions |  | Malaise Asthenia Fatigue |  |
 
 Description of selected adverse reactions
-* In clinical studies and post-marketing experience, rare instances of suicidal ideation and behaviour, including completed suicide, were reported.
+* In clinical studies and post-marketing experience, rare instances of suicidal ideation and behaviour, including suicide, were reported.
 Patients and caregivers should be instructed to notify the prescriber of any suicidal ideation (see also section 4.4).
 
 Reporting of suspected adverse reactions

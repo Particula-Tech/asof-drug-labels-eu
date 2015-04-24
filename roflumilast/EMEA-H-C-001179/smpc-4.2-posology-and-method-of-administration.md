@@ -1,14 +1,14 @@
 # 4.2 Posology and method of administration
 
 Posology
-The recommended dose is one tablet of 500 micrograms roflumilast once daily.
+The recommended dose is 500 micrograms (one tablet) roflumilast once daily.
 
 Daxas may need to be taken for several weeks to achieve its effect (see section 5.1).
 Daxas has been studied in clinical trials for up to one year.
 
 Special populations
 
-Older people (65 years and older)
+Elderly
 No dose adjustment is necessary.
 
 Renal impairment

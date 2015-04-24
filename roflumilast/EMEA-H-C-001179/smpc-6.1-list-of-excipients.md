@@ -7,7 +7,7 @@ Povidone (K90)
 Magnesium stearate
 
 Coating
-Hypromellose 2910
+Hypromellose
 Macrogol 4000
 Titanium dioxide (E171)
 Iron oxide yellow (E172)
