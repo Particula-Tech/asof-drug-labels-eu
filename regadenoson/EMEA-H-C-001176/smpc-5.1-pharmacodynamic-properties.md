@@ -24,14 +24,15 @@ Haemodynamic effects
 The majority of patients experience a rapid increase in heart rate.
 The greatest mean change from baseline (21 bpm) occurs approximately 1 minute after administration of Rapiscan.
 Heart rate returns to baseline within 10 minutes.
-Systolic blood pressure and diastolic blood pressure changes were variable, with the greatest mean change in systolic pressure of −3 mm Hg and in diastolic pressure of −4 mm Hg approximately 1 minute after Rapiscan administration.
+Systolic blood pressure and diastolic blood pressure changes were variable, with the greatest mean change in systolic pressure of −3 mm Hg and in diastolic pressure of
+−4 mm Hg approximately 1 minute after Rapiscan administration.
 An increase in blood pressure has been observed in some patients (maximum systolic blood pressure of 240 mm Hg and maximum diastolic blood pressure of 138 mm Hg).
 
 Respiratory effects
 The A2B and A3 adenosine receptors have been implicated in the pathophysiology of bronchoconstriction in susceptible individuals (i.e., asthmatics).
 In in vitro studies, regadenoson has been shown to have little binding affinity for the A2B and A3 adenosine receptors.
 The incidence of a FEV1 reduction > 15% from baseline after Rapiscan administration was assessed in three randomised, controlled clinical studies.
-In the first study in 49 patients with moderate to severe COPD, the rate of FEV1 reduction > 15% from baseline was 12% and 6% following Rapiscan and placebo dosing, respectively (p = 0.31).
+In the first study in 49 patients with moderate to severe COPD, the rate of FEV1 reduction > 15% from baseline was 12% and 6% following Rapiscan and placebo dosing, respectively (p=0.31).
 In the second study in 48 patients with mild to moderate asthma who had previously been shown to have bronchoconstrictive reactions to adenosine monophosphate, the rate of FEV1 reduction > 15% from baseline was the same (4%) following both Rapiscan and placebo dosing.
 In the third study in 1009 patients with mild or moderate asthma (n=537) and moderate or severe COPD (n=472) the incidence of FEV1 reduction >15% from baseline was 1.1% and 2.9% in patients with asthma (p=0.15) and 4.2% and 5.4% in patients with COPD (p=0.58) following Rapiscan and placebo dosing, respectively.
 In the first and second studies, dyspnoea was reported as an adverse reaction following Rapiscan dosing (61% for patients with COPD; 34% for patients with asthma) while no subjects experienced dyspnoea following placebo dosing.
@@ -40,7 +41,7 @@ A relationship between increased severity of disease and the increased incidence
 The use of bronchodilator therapy for symptoms was not different between Rapiscan and placebo.
 Dyspnoea did not correlate with a decrease in FEV1.
 
-Clinical efficacy
+Clinical efficacy and safety
 Clinical studies have demonstrated the efficacy and safety of Rapiscan in patients indicated for pharmacologic stress radionuclide MPI.
 
 The efficacy and safety of Rapiscan were determined relative to adenosine in two randomised, double-blind studies (ADVANCE MPI 1 and ADVANCE MPI 2) in 2,015 patients with known or suspected coronary artery disease who were referred for a clinically-indicated pharmacologic stress MPI.
@@ -60,10 +61,13 @@ In the pooled study population, 68% of patients had 0-1 segments showing reversi
 The agreement rate for the image obtained with Rapiscan or adenosine relative to the initial adenosine image was calculated by determining how frequently the patients assigned to each initial adenosine category (0-1, 2-4, 5-17 reversible segments) were placed in the same category with the randomised scan.
 The agreement rates for Rapiscan and adenosine were calculated as the average of the agreement rates across the three categories determined by the initial scan.
 The ADVANCE MPI 1 and ADVANCE MPI 2 studies, individually and combined, demonstrated that Rapiscan is similar to adenosine in assessing the extent of reversible perfusion abnormalities:
+
 ADVANCE ADVANCE Combined
 
 MPI 1 MPI 2 Studies
+
 (n = 1,113) (n = 758) (n = 1,871)
+
 Adenosine – Adenosine Agreement Rate (± SE) 61 ± 3% 64 ± 4% 62 ± 3%
 Number of Patients (n) 372 259 631
 Adenosine – Rapiscan Agreement Rate (± SE) 62 ± 2% 63 ± 3% 63 ± 2%

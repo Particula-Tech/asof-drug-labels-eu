@@ -10,9 +10,9 @@ Fatal cardiac arrest, life-threatening ventricular arrhythmias, and myocardial i
 
 Rapiscan should be used in caution in patients with recent myocardial infarction.
 Clinical trials conducted with regadenoson excluded patients with recent (within 3 months) myocardial infarction.
-
 Sinoatrial and atrioventricular nodal block
 Adenosine receptor agonists including regadenoson can depress the sinoatrial (SA) and AV nodes and may cause first, second or third degree AV block, or sinus bradycardia.
+
 Hypotension
 Adenosine receptor agonists including regadenoson induce arterial vasodilation and hypotension.
 The risk of serious hypotension may be higher in patients with autonomic dysfunction, hypovolemia, left main coronary artery stenosis, stenotic valvular heart disease, pericarditis or pericardial effusions, or stenotic carotid artery disease with cerebrovascular insufficiency.

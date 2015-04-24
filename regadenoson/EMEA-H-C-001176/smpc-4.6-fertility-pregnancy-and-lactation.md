@@ -10,7 +10,7 @@ Rapiscan should not be used during pregnancy unless clearly necessary.
 Breast-feeding
 It is unknown whether regadenoson is excreted in human breast milk.
 The excretion of regadenoson in milk has not been studied in animals.
-A decision should be made whether to discontinue breast- feeding or to abstain from Rapiscan administration taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
+A decision should be made whether to discontinue breast-feeding or to abstain from Rapiscan administration taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
 If Rapiscan is administered, the woman should not breast-feed for at least 10 hours (that is, at least 5 times the plasma elimination half-life) following Rapiscan administration.
 
 Fertility

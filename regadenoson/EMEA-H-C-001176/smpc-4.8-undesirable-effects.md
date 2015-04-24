@@ -9,7 +9,7 @@ Rapiscan may cause myocardial ischaemia (potentially associated with fatal cardi
 Signs of hypersensitivity (rash, urticaria, angioedema, anaphylaxis and/or throat tightness) may be immediate or delayed onset.
 Aminophylline may be used to attenuate severe or persistent adverse reactions to Rapiscan but should not be used solely for the purpose of terminating a seizure induced by Rapiscan (see section 4.4).
 
-Tabulated summary of adverse reactions
+Tabulated list of adverse reactions
 Assessment of adverse reactions for regadenoson is based on safety data from clinical studies and post-marketing experience.
 All adverse reactions are presented in the table below and are listed by system organ class and frequency.
 Frequencies are defined as very common (≥ 1/10), common
@@ -61,22 +61,26 @@ Description of selected adverse reactions
 Fatal cardiac arrest, life-threatening ventricular arrhythmias and myocardial infarction may result from the ischaemia induced by pharmacologic stress agents.
 Cardiac resuscitation equipment and trained staff should be available before administering Rapiscan (see section 4.4).
 
+Sinoatrial and atrioventricular nodal block
 Adenosine receptor agonists, including Rapiscan, can depress the SA and AV nodes and may cause first, second or third degree AV block, or sinus bradycardia requiring intervention.
 In clinical trials first degree AV block (PR prolongation > 220 msec) developed in 3% of patients within 2 hours of Rapiscan administration; transient second degree AV block with one dropped beat was observed in one patient receiving Rapiscan.
 In postmarketing experience, third degree heart block and asystole have been reported within minutes of Rapiscan administration.
-
+Hypotension
 Adenosine receptor agonists, including Rapiscan induce arterial vasodilation and hypotension.
 In clinical trials, decreased systolic blood pressure (> 35 mm Hg) was observed in 7% of patients and decreased diastolic blood pressure (> 25 mm Hg) was observed in 4% of patients within 45 minutes of Rapiscan administration.
 The risk of serious hypotension may be higher in patients with autonomic dysfunction, hypovolemia, left main coronary artery stenosis, stenotic valvular heart disease, pericarditis or pericardial effusions, or stenotic carotid artery disease with cerebrovascular insufficiency.
 In postmarketing experience, syncope and transient ischaemic attacks have been reported.
 
+Elevated blood pressure
 In clinical trials, increased systolic blood pressure (≥ 50 mm Hg) was observed in 0.7% of patients and increased diastolic blood pressure (≥ 30 mm Hg) in 0.5% of patients.
 Most increases resolved within 10 to 15 minutes, but in some cases, increases were observed at 45 minutes following administration.
 
+Long QT syndrome
 Regadenoson increases sympathetic tone, which causes an increase in heart rate and a shortening of the QT interval.
 In a patient with a long QT syndrome, sympathetic stimulation can result in less shortening of the QT interval than is normal and may even cause a paradoxical increase in the QT interval.
 In these patients, the phenomenon of R-on-T syndrome can occur, wherein an extra beat interrupts the T wave of the previous beat, and this increases the risk of a ventricular tachyarrhythmia.
 
+Headache
 Headache was reported by 27% of subjects who received Rapiscan in clinical trials.
 The headache was considered severe in 3% of subjects.
 
