@@ -13,5 +13,3 @@ Store in a refrigerator (2ºC - 8ºC).
 Keep the blister card in the outer carton in order to protect from light.
 
 Do not freeze.
-
-56

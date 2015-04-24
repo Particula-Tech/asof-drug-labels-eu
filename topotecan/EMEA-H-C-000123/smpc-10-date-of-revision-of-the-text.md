@@ -2,11 +2,8 @@
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu/.
 
-16
-
 [HYCAMTIN 4 mg powder for concentrate for solution for infusion]
 
-31
 ,1.
 NAME OF THE MEDICINAL PRODUCT
 
@@ -48,9 +45,7 @@ If well tolerated, treatment may continue until disease progression (see section
 The capsule(s) must be swallowed whole, and must not be chewed crushed or divided.
 Hycamtin capsules may be taken with or without food (see section 5.2).
 
-Prior to administration of the first course of topotecan, patients must have a baseline neutrophil count of ≥ 1.5 x 109/l, a platelet count of ≥ 100 x 109/l and a haemoglobin level of ≥ 9 g/dl (after transfusion
-
-32 if necessary).
+Prior to administration of the first course of topotecan, patients must have a baseline neutrophil count of ≥ 1.5 x 109/l, a platelet count of ≥ 100 x 109/l and a haemoglobin level of ≥ 9 g/dl (after transfusion if necessary).
 
 Subsequent doses
 Topotecan should not be re-administered unless the neutrophil count is ≥ 1 x 109/l, the platelet count is ≥ 100 x 109/l, and the haemoglobin level is ≥ 9 g/dl (after transfusion if necessary).
@@ -85,7 +80,6 @@ There are insufficient data available with HYCAMTIN capsules to make a dose reco
 Paediatric population
 The experience in children is limited, therefore no recommendation for treatment of paediatric patients with HYCAMTIN can be given (see section 5.1).
 
-33
 Older people
 No overall differences in effectiveness were observed between patients over 65 years and younger adult patients.
 However in the two studies administering both oral and intravenous topotecan, patients older than 65 years old receiving oral topotecan experienced an increase in drug related diarrhoea compared to those younger than 65 years of age (see section 4.4 and 4.8).
@@ -120,22 +114,19 @@ Accurate assessment of performance status at the time therapy is given is import
 
 Topotecan is partly eliminated via renal excretion and renal impairment might lead to increased exposure to topotecan.
 Dosing recommendations for patients receiving oral topotecan with creatinine clearance less than 30 ml/min have not been established.
-Topotecan is not recommended to be used in
-
-34 these patients.
+Topotecan is not recommended to be used in these patients.
 
 A small number of hepatically impaired patients (serum bilirubin between 1.5 and 10 mg/dl) were given intravenous topotecan at 1.5 mg/m2 for five days every three weeks.
 A reduction in topotecan clearance was observed.
 However, there are insufficient data available to make a dose recommendation for this patient group.
 There is insufficient experience of the use of topotecan in patients with severely impaired hepatic function (serum bilirubin ≥ 10 mg/dl).
-Topotecan is not recommended to be used in these patients.
 
-Diarrhoea, including severe diarrhoea requiring hospitalization, has been reported during treatment with oral topotecan.
+Diarrhoea, including severe diarrhoea requiring hospitalisation, has been reported during treatment with oral topotecan.
 Diarrhoea related to oral topotecan can occur at the same time as drug-related neutropenia and its sequelae.
 Communication with patients prior to drug administration regarding these side effects and proactive management of early and all signs and symptoms of diarrhoea is important.
 Cancer treatment-induced diarrhoea (CTID) is associated with significant morbidity and may be life-threatening.
 Should diarrhoea occur during treatment with oral topotecan, physicians are advised to aggressively manage diarrhoea.
-Clinical guidelines describing the aggressive management of CTID includes specific recommendations on patient communication and awareness, recognition of early warning signs, use of anti-diarrhoeals and antibiotics, changes in fluid intake and diet, and need for hospitalization (see sections 4.2 and 4.8).
+Clinical guidelines describing the aggressive management of CTID includes specific recommendations on patient communication and awareness, recognition of early warning signs, use of anti-diarrhoeals and antibiotics, changes in fluid intake and diet, and need for hospitalisation (see sections 4.2 and 4.8).
 
 Intravenous topotecan should be considered in the following clinical situations: uncontrolled emesis, swallowing disorders, uncontrolled diarrhoea, clinical conditions and medication that may alter gastrointestinal motility and drug absorption.
 
@@ -145,7 +136,6 @@ No in vivo human pharmacokinetic interaction studies have been performed.
 
 Topotecan does not inhibit human P450 enzymes (see section 5.2).
 In an intravenous population study, the co-administration of granisetron, ondansetron, morphine or corticosteroids did not appear to have a significant effect on the pharmacokinetics of total topotecan (active and inactive form).
-
 Topotecan is a substrate for both ABCB1 (P-glycoprotein) and ABCG2 (BCRP).
 Inhibitors of ABCB1 and ABCG2 administered with oral topotecan have been shown to increase topotecan exposure.
 
@@ -154,9 +144,7 @@ Patients should be carefully monitored for adverse reactions when oral topotecan
 
 In combining topotecan with other chemotherapy agents, reduction of the doses of each medicinal product may be required to improve tolerability.
 However, in combining with platinum agents, there is a distinct sequence-dependent interaction depending on whether the platinum agent is given on day 1 or 5 of the topotecan dosing.
-If either cisplatin or carboplatin is given on day 1 of the topotecan dosing, a lower dose of each agent must be given to improve tolerability compared to the dose of each
-
-35 agent which can be given if the platinum agent is given on day 5 of the topotecan dosing.
+If either cisplatin or carboplatin is given on day 1 of the topotecan dosing, a lower dose of each agent must be given to improve tolerability compared to the dose of each agent which can be given if the platinum agent is given on day 5 of the topotecan dosing.
 Currently there is only limited experience in combining oral topotecan with other chemotherapy agents.
 
 The pharmacokinetics of topotecan was generally unchanged when coadministered with ranitidine.
@@ -192,7 +180,6 @@ In clinical trials involving patients with relapsed small cell lung cancer, the 
 Toxicity was predictable and reversible.
 There were no signs of cumulative haematological or non-haematological toxicity.
 
-36
 The frequencies associated with the haematological and non-haematological adverse events presented are for adverse events considered to be related/possibly related to oral topotecan therapy.
 
 Adverse reactions are listed below, by system organ class and absolute frequency (all reported events).
@@ -233,8 +220,6 @@ Common : asthenia, pyrexia, malaise
 
 Immune system disorders
 Common: hypersensitivity reaction including rash
-
-37
 Not known: anaphylactic reaction, angioedema, urticaria
 
 Hepato-biliary disorders
@@ -243,7 +228,6 @@ Uncommon: hyperbilirubinaemia
 The incidence of adverse events listed above have the potential to occur with a higher frequency in patients who have a poor performance status (see section 4.4).
 
 Safety data are presented based on an integrated data set of 682 patients with relapsed lung cancer administered 2536 courses of oral topotecan monotherapy (275 patients with relapsed SCLC and 407 with relapsed non-SCLC).
-
 Haematological
 Neutropenia: Severe neutropenia (Grade 4 - neutrophil count < 0.5 x 109/l) occurred in 32 % of patients in 13 % of courses.
 Median time to onset of severe neutropenia was Day 12 with a median duration of 7 days.
@@ -276,7 +260,6 @@ For severe cases (CTC grade 3/4) reported as related / possibly related to topot
 The overall incidence of drug-related diarrhoea was 22 %, including 4 % with Grade 3 and 0.4 % with Grade 4.
 Drug-related diarrhoea was more frequent in patients ≥65 years of age (28 %) compared to those less than 65 years of age (19 %).
 
-38
 Complete alopecia related/possibly related to topotecan administration was observed in 9 % of patients and partial alopecia related/possibly related to topotecan administration in 11 % of patients.
 
 Therapeutic interventions associated with non-haematological effects included anti-emetic agents, given to 47 % of patients in 38 % of courses and anti-diarrhoeal agents, given to 15 % of patients in 6 % of courses.
@@ -291,8 +274,13 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 4.9 Overdose
 
+Overdoses have been reported in patients being treated with topotecan capsules (up to 5 fold of the recommended dose) and intravenous topotecan (up to 10 fold of the recommended dose).
+The observed signs and symptoms for overdose were consistent with the known undesirable events associated with topotecan (see section 4.8).
+The primary complications of overdose are bone marrow suppression and mucositis.
+In addition, elevated hepatic enzymes have been reported with intravenous topotecan overdose.
+
 There is no known antidote for topotecan overdose.
-The primary complications of overdose are anticipated to be bone marrow suppression and mucositis.
+Further management should be as clinically indicated or as recommended by the national poisons centre, where available.
 
 5.
 PHARMACOLOGICAL PROPERTIES
@@ -314,12 +302,10 @@ The median survival for patients treated with topotecan + BSC was 25.9 weeks (95
 (95 % C.I.
 11.1, 18.6) for patients receiving BSC alone (p=0.0104).
 
-39
 Patient self-reports of symptoms using an unblinded assessment showed a consistent trend for symptom benefit for oral topotecan + BSC.
 
 One Phase 2 study (Study 065) and one Phase 3 study (Study 396) were conducted to evaluate the efficacy of oral topotecan versus intravenous topotecan in patients who had relapsed ≥ 90 days after completion of one prior regimen of chemotherapy (see Table 1).
 Oral and intravenous topotecan were associated with similar symptom palliation in patients with relapsed sensitive SCLC in patient self-reports on an unblinded symptom scale assessment in each of these two studies.
-
 Table 1.
 Summary of survival, response rate, and time to progression in SCLC patients treated with oral HYCAMTIN or intravenous HYCAMTIN
 
@@ -348,7 +334,7 @@ The bioavailability of oral topotecan (total and lactone) in humans is approxima
 Plasma concentrations of total topotecan (i.e. lactone and carboxylate forms) and topotecan lactone (active moiety) peak at approximately 2.0 hours and 1.5 hours, respectively, and decline bi-exponentially with mean terminal half-life of approximately 3.0 to 6.0 hour.
 Total exposure (AUC) increases approximately proportionally with dose.
 There is little or no accumulation of topotecan with repeated daily dosing and there is no evidence of a change in the PK after multiple doses.
-Preclinical studies 40 indicate plasma protein binding of topotecan is low (35 %) and distribution between blood cells and plasma was fairly homogeneous.
+Preclinical studies indicate plasma protein binding of topotecan is low (35 %) and distribution between blood cells and plasma was fairly homogeneous.
 
 A major route of clearance of topotecan is by hydrolysis of the lactone ring to form the ring-opened carboxylate.
 Other than hydrolysis, topotecan is cleared predominantly renally, with a minor component metabolized to the N-desmethyl metabolite (SB-209780) identified in plasma, urine and faeces.
@@ -376,9 +362,7 @@ Similar results were obtained if glomerular filtration rate (ml/min) was estimat
 Patients with creatinine clearance >60 ml/min have been included in efficacy/safety studies of topotecan.
 Therefore, use of the normal starting dose in patients with a mild decrease in renal function is considered established (see section 4.2).
 
-Korean patients with renal impairment had generally higher exposure than non-Asian patients with the
-
-41 same degree of renal impairment.
+Korean patients with renal impairment had generally higher exposure than non-Asian patients with the same degree of renal impairment.
 The clinical significance of this finding is unclear.
 Geometric mean topotecan lactone dose-normalized AUC(0-∞) values for Korean patients were 7.9, 12.9 and 19.7 ng*h/mL in subjects with creatinine clearance values of more than 80 mL/min, 50 to 80 mL/min and 30 to 49 mL/min, respectively (see section 4.2 and 4.4).
 There are no data from Asian patients with renal impairment other than Koreans.
@@ -393,7 +377,6 @@ Topotecan was also shown to cause embryo-foetal lethality when given to rats and
 In reproductive toxicity studies with topotecan in rats there was no effect on male or female fertility; however, in females super-ovulation and slightly increased pre-implantation loss were observed.
 
 The carcinogenic potential of topotecan has not been studied.
-
 6.
 PHARMACEUTICAL PARTICULARS
 
@@ -410,9 +393,7 @@ Titanium dioxide (E171)
 Sealing band:
 
 Black ink comprising:
-black iron oxide (E172) shellac anhydrous ethanol – see leaflet for further information propylene glycol isopropyl alcohol butanol concentrated ammonia solution
-
-42 potassium hydroxide
+black iron oxide (E172) shellac anhydrous ethanol – see leaflet for further information propylene glycol isopropyl alcohol butanol concentrated ammonia solution potassium hydroxide
 
 6.2 Incompatibilities
 
@@ -442,11 +423,13 @@ Each blister card contains 10 capsules.
 
 HYCAMTIN capsules should not be opened or crushed.
 Any unused product or waste material should be disposed of in accordance with local requirements.
-
 7.
 MARKETING AUTHORISATION HOLDER
 
-SmithKline Beecham Ltd, 980 Great West Road, Brentford, Middlesex, TW8 9GS, United Kingdom.
+Novartis Europharm Limited
+Frimley Business Park
+Camberley GU16 7SR
+United Kingdom
 
 8.
 MARKETING AUTHORISATION NUMBERS
@@ -456,15 +439,12 @@ EU/1/96/027/006
 9.
 DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-43
 Date of first authorisation: 12/11/1996
 Date of latest renewal: 13/11/2006
 
 10.
 DATE OF REVISION OF THE TEXT
 
-44
-
 [HYCAMTIN 1 mg hard capsules]
 
-57
+(all sentences already above)

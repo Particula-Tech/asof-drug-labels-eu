@@ -2,7 +2,6 @@
 
 Haematological toxicity is dose-related and full blood count including platelets should be monitored regularly (see section 4.2).
 
-4
 As with other cytotoxic medicinal products, topotecan can cause severe myelosuppression.
 Myelosuppression leading to sepsis and fatalities due to sepsis have been reported in patients treated with topotecan (see section 4.8).
 
@@ -30,7 +29,7 @@ However, there are insufficient data available to make a dose recommendation for
 
 [HYCAMTIN 4 mg powder for concentrate for solution for infusion]
 
-19
+(all sentences already above)
 
 [HYCAMTIN 1 mg hard capsules]
 
@@ -38,14 +37,13 @@ Topotecan is partly eliminated via renal excretion and renal impairment might le
 Dosing recommendations for patients receiving oral topotecan with creatinine clearance less than 30 ml/min have not been established.
 Topotecan is not recommended to be used in these patients.
 
-47
 There is insufficient experience of the use of topotecan in patients with severely impaired hepatic function (serum bilirubin ≥ 10 mg/dl).
 
-Diarrhoea, including severe diarrhoea requiring hospitalization, has been reported during treatment with oral topotecan.
+Diarrhoea, including severe diarrhoea requiring hospitalisation, has been reported during treatment with oral topotecan.
 Diarrhoea related to oral topotecan can occur at the same time as drug-related neutropenia and its sequelae.
 Communication with patients prior to drug administration regarding these side effects and proactive management of early and all signs and symptoms of diarrhoea is important.
 Cancer treatment-induced diarrhoea (CTID) is associated with significant morbidity and may be life-threatening.
 Should diarrhoea occur during treatment with oral topotecan, physicians are advised to aggressively manage diarrhoea.
-Clinical guidelines describing the aggressive management of CTID includes specific recommendations on patient communication and awareness, recognition of early warning signs, use of anti-diarrhoeals and antibiotics, changes in fluid intake and diet, and need for hospitalization (see sections 4.2 and 4.8).
+Clinical guidelines describing the aggressive management of CTID includes specific recommendations on patient communication and awareness, recognition of early warning signs, use of anti-diarrhoeals and antibiotics, changes in fluid intake and diet, and need for hospitalisation (see sections 4.2 and 4.8).
 
 Intravenous topotecan should be considered in the following clinical situations: uncontrolled emesis, swallowing disorders, uncontrolled diarrhoea, clinical conditions and medication that may alter gastrointestinal motility and drug absorption.

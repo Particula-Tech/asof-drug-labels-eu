@@ -27,9 +27,7 @@ In vitro, topotecan did not inhibit human P450 enzymes CYP1A2, CYP2A6, CYP2C8/9,
 When given in combination with cisplatin (cisplatin day 1, topotecan days 1 to 5), the clearance of topotecan was reduced on day 5 compared to day 1 (19.1 l/h/m2 compared to 21.3 l/h/m2 [n=9]) (see section 4.5).
 
 Plasma clearance in patients with hepatic impairment (serum bilirubin between 1.5 and 10 mg/dl) decreased to about 67 % when compared with a control group of patients.
-Topotecan half-life was
-
-13 increased by about 30 % but no clear change in volume of distribution was observed.
+Topotecan half-life was increased by about 30 % but no clear change in volume of distribution was observed.
 Plasma clearance of total topotecan (active and inactive form) in patients with hepatic impairment only decreased by about 10 % compared with the control group of patients.
 
 Plasma clearance in patients with renal impairment (creatinine clearance 41-60 ml/min.) decreased to about 67 % compared with control patients.
@@ -40,7 +38,6 @@ Mean half-life increased from 1.9 hours to 4.9 hours.
 In a population study, a number of factors including age, weight and ascites had no significant effect on clearance of total topotecan (active and inactive form).
 
 Paediatrics
-
 The pharmacokinetics of topotecan given as a 30-minute infusion for 5 days were evaluated in two studies.
 One study included a dose range of 1.4 mg/m2 to 2.4 mg/m2 in children (aged 2 up to 12 years, n = 18), adolescents (aged 12 up to 16 years, n = 9), and young adults (aged 16 to 21 years, n = 9) with refractory solid tumours.
 The second study included a dose range of 2.0 mg/m2 to 5.2 mg/m2 in children (n = 8), adolescents (n = 3), and young adults (n = 3) with leukaemia.
@@ -48,13 +45,12 @@ In these studies, there were no apparent differences in the pharmacokinetics of 
 
 [HYCAMTIN 4 mg powder for concentrate for solution for infusion]
 
-28
-Topotecan half-life was increased by about 30 % but no clear change in volume of distribution was observed.
+(all sentences already above)
 
 [HYCAMTIN 1 mg hard capsules]
 
 The pharmacokinetics of topotecan after oral administration have been evaluated in cancer patients following doses of 1.2 to 3.1 mg/m2/day and 4 mg/m2/day administered daily for 5 days.
-The 53 bioavailability of oral topotecan (total and lactone) in humans is approximately 40 %.
+The bioavailability of oral topotecan (total and lactone) in humans is approximately 40 %.
 Plasma concentrations of total topotecan (i.e. lactone and carboxylate forms) and topotecan lactone (active moiety) peak at approximately 2.0 hours and 1.5 hours, respectively, and decline bi-exponentially with mean terminal half-life of approximately 3.0 to 6.0 hour.
 Total exposure (AUC) increases approximately proportionally with dose.
 
@@ -78,9 +74,7 @@ The pharmacokinetics of oral topotecan has not been studied in patients with hep
 Results of a cross-study analysis suggest that the exposure to topotecan lactone, the active moiety following topotecan administration, increases at decreased renal function.
 Geometric mean topotecan lactone dose-normalized AUC(0-∞) values were 9.4, 11.1 and 12.0 ng*h/mL in subjects with creatinine clearance values of more than 80 mL/min, 50 to 80 mL/min and 30 to 49 mL/min, respectively.
 In this analysis, creatinine clearance was calculated using the Cockcroft-Gault method.
-Similar results were
-
-54 obtained if glomerular filtration rate (ml/min) was estimated using the MDRD formula corrected for body weight.
+Similar results were obtained if glomerular filtration rate (ml/min) was estimated using the MDRD formula corrected for body weight.
 Patients with creatinine clearance >60 ml/min have been included in efficacy/safety studies of topotecan.
 Therefore, use of the normal starting dose in patients with a mild decrease in renal function is considered established (see section 4.2).
 

@@ -5,13 +5,9 @@ Mannitol (E421)
 Hydrochloric acid (E507)
 Sodium hydroxide
 
-14
-
 [HYCAMTIN 4 mg powder for concentrate for solution for infusion]
 
 Hydrochloric acid(E507)
-
-29
 
 [HYCAMTIN 1 mg hard capsules]
 

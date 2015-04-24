@@ -8,10 +8,7 @@ The cellular sequela of inhibition of topoisomerase-I by topotecan is the induct
 
 Relapsed Ovarian Cancer
 
-In a comparative study of topotecan and paclitaxel in patients previously treated for ovarian carcinoma with platinum based chemotherapy (n = 112 and 114, respectively), the response rate (95 % CI) was
-
-9
-20.5 % (13 %, 28 %) versus 14 % (8 %, 20 %) and median time to progression 19 weeks versus 15 weeks (hazard ratio 0.7 [0.6, 1.0]), for topotecan and paclitaxel, respectively.
+In a comparative study of topotecan and paclitaxel in patients previously treated for ovarian carcinoma with platinum based chemotherapy (n = 112 and 114, respectively), the response rate (95 % CI) was 20.5 % (13 %, 28 %) versus 14 % (8 %, 20 %) and median time to progression 19 weeks versus 15 weeks (hazard ratio 0.7 [0.6, 1.0]), for topotecan and paclitaxel, respectively.
 Median overall survival was 62 weeks for topotecan versus 53 weeks for paclitaxel (hazard ratio 0.9 [0.6, 1.3]).
 
 The response rate in the whole ovarian carcinoma programme (n = 392, all previously treated with cisplatin or cisplatin and paclitaxel) was 16 %.
@@ -38,7 +35,6 @@ Patient self-reports of symptoms using an unblinded assessment showed a consiste
 One Phase 2 study (Study 065) and one Phase 3 study (Study 396) were conducted to evaluate the efficacy of oral topotecan versus intravenous topotecan in patients who had relapsed ≥ 90 days after completion of one prior regimen of chemotherapy (see Table 1).
 Oral and intravenous topotecan were associated with similar symptom palliation in patients with relapsed sensitive SCLC in patient self-reports on an unblinded symptom scale assessment in each of these two studies.
 
-10
 Table 1.
 Summary of survival, response rate, and time to progression in SCLC patients treated with oral HYCAMTIN or intravenous HYCAMTIN
 
@@ -72,7 +68,6 @@ Cervical Carcinoma
 In a randomised, comparative phase III trial conducted by the Gynaecological Oncology Group (GOG 0179), topotecan plus cisplatin (n=147) was compared with cisplatin alone (n=146) for the treatment of histologically confirmed persistent, recurrent or Stage IVB carcinoma of the cervix where curative treatment with surgery and/or radiation was not considered appropriate.
 Topotecan plus cisplatin had a statistically significant benefit in overall survival relative to cisplatin monotherapy after adjusting for interim analyses (Log-rank p =0.033).
 
-11
 Table 2.
 Study results Study GOG-0179
 
@@ -105,20 +100,12 @@ In an open-label trial involving children (n = 108, age range: infant to 16 year
 Tumour types included were Ewing's Sarcoma/primitive neuroectodermal tumour, neuroblastoma, osteoblastoma, and rhabdomyosarcoma.
 Antitumour activity was demonstrated primarily in patients with neuroblastoma.
 Toxicities of topotecan in paediatric patients with recurrent and refractory solid tumours were similar to those historically seen in adult patients.
-In this study, forty-six (43 %) patients received G-CSF over 192 (42.1 %) courses; sixty-five (60 %) received
-
-12 transfusions of Packed Red Blood Cells and fifty (46 %) of platelets over 139 and 159 courses (30.5 % and 34.9 %) respectively.
+In this study, forty-six (43 %) patients received G-CSF over 192 (42.1 %) courses; sixty-five (60 %) received transfusions of Packed Red Blood Cells and fifty (46 %) of platelets over 139 and 159 courses (30.5 % and 34.9 %) respectively.
 Based on the dose-limiting toxicity of myelosuppression, the maximum tolerated dose (MTD) was established at 2.0 mg/m2/day with G-CSF and 1.4 mg/m2/day without G-CSF in a pharmacokinetic study in paediatric patients with refractory solid tumours (see section 5.2).
 
 [HYCAMTIN 4 mg powder for concentrate for solution for infusion]
 
 Pharmacotherapeutic group: Other antineoplastic agents: ATC code: L01XX17.
-
-24
-
-In a comparative study of topotecan and paclitaxel in patients previously treated for ovarian carcinoma with platinum based chemotherapy (n = 112 and 114, respectively), the response rate (95 % CI) was 20.5 % (13 %, 28 %) versus 14 % (8 %, 20 %) and median time to progression 19 weeks versus 15 weeks (hazard ratio 0.7 [0.6, 1.0]), for topotecan and paclitaxel, respectively.
-
-25
 
 |  | Study 065 |  |  | Study 396 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -132,19 +119,6 @@ In a comparative study of topotecan and paclitaxel in patients previously treate
 |  | (8.3, 21.3) |  | (11.6, 18.3) | (9.7, 14.1) |  | (13.3, 18.9) |
 | Hazard ratio (95 % CI) | 0.90 (0.60, 1.35) |  |  | 1.21 (0.96, 1.53) |  |  |
 
-Topotecan plus cisplatin had a statistically significant benefit in overall survival relative to cisplatin monotherapy after adjusting for
-
-26 interim analyses (Log-rank p =0.033).
-
-Toxicities of topotecan in paediatric patients with recurrent
-
-27 and refractory solid tumours were similar to those historically seen in adult patients.
-In this study, forty-six (43 %) patients received G-CSF over 192 (42.1 %) courses; sixty-five (60 %) received transfusions of Packed Red Blood Cells and fifty (46 %) of platelets over 139 and 159 courses (30.5 % and 34.9 %) respectively.
-
 [HYCAMTIN 1 mg hard capsules]
-
-A phase III trial (study 478) compared oral topotecan plus Best Supportive Care (BSC) (n=71) with BSC alone (n=70) in patients who had relapsed following first line therapy (median time to progression [TTP] from first-line therapy: 84 days for oral topotecan + BSC, 90 days for BSC) and for
-
-52 whom retreatment with intravenous chemotherapy was not considered appropriate.
 
 Safety and effectiveness of oral topotecan in paediatric patients have not been established.
