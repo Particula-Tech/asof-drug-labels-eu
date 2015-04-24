@@ -11,7 +11,7 @@ The frequency listed below is defined using the following convention: common (â‰
 
 Psychiatric disorders
 Common: restlessness, insomnia, anxiety
-Uncommon: depression*
+Uncommon: depression*, hypersexuality
 Nervous system disorders
 Common: extrapyramidal disorder, akathisia, tremor, dizziness, somnolence, sedation, headache
 Eye disorders

@@ -156,7 +156,17 @@ comorbidities Week 4 Week 12 ADHD Week 4 Week 12
 
 [ABILIFY 30 mg orodispersible tablets]
 
-(all sentences already above)
+Psychiatric Week 4 Week 12 ADHD Week 4 Week 12
+
+| comorbidities |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| ABILIFY 10 mg (n = 48) | 14.9 | 15.1 | ABILIFY 10 mg (n = 44) | 15.2 | 15.6 |
+| ABILIFY 30 mg (n = 51) | 16.7 | 16.9 | ABILIFY 30 mg (n = 48) | 15.9 | 16.7 |
+| Placebo (n = 52)a | 7.0 | 8.2 | Placebo (n = 47)b | 6.3 | 7.0 |
+| No psychiatric comorbidities | Week 4 | Week 12 | No ADHD | Week 4 | Week 12 |
+| ABILIFY 10 mg (n = 27) | 12.8 | 15.9 | ABILIFY 10 mg (n = 37) | 12.7 | 15.7 |
+| ABILIFY 30 mg (n = 25) | 15.3 | 14.7 | ABILIFY 30 mg (n = 30) | 14.6 | 13.4 |
+| Placebo (n = 18) | 9.4 | 9.7 | Placebo (n = 25) | 9.9 | 10.0 |
 
 [ABILIFY 1 mg/ml oral solution]
 
