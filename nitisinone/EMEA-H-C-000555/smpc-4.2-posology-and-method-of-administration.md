@@ -1,14 +1,13 @@
 # 4.2 Posology and method of administration
 
-Posology
-
 Nitisinone treatment should be initiated and supervised by a physician experienced in the treatment of HT-1 patients.
+
+Posology
 Treatment of all genotypes of the disease should be initiated as early as possible to increase overall survival and avoid complications such as liver failure, liver cancer and renal disease.
 Adjunct to the nitisinone treatment, a diet deficient in phenylalanine and tyrosine is required and should be followed by monitoring of plasma amino acids (see sections 4.4 and 4.8).
 
-The dose of nitisinone should be adjusted individually.
-
 The recommended initial dose in the paediatric and adult population is 1 mg/kg body weight/day divided in 2 doses administered orally.
+The dose of nitisinone should be adjusted individually.
 
 Dose adjustment
 During regular monitoring, it is appropriate to follow urine succinylacetone, liver function test values and alpha-fetoprotein levels (see section 4.4).
@@ -18,22 +17,13 @@ This dose should be considered as a maximal dose for all patients.
 If the biochemical response is satisfactory, the dose should be adjusted only according to body weight gain.
 
 However, in addition to the tests above, during the initiation of therapy or if there is a deterioration, it may be necessary to follow more closely all available biochemical parameters (i.e. plasma succinylacetone, urine 5-aminolevulinate (ALA) and erythrocyte porphobilinogen (PBG)-synthase activity).
-
 Special populations
 There are no specific dose recommendations for elderly or patients that have renal or hepatic impairment.
 
 Paediatric population
-The safety and effect of nitisinone have been studied in the paediatric population.
 The dose recommendation in mg/kg body weight is the same in children and adults.
 
 Method of administration
-
 The capsule may be opened and the content suspended in a small amount of water or formula diet immediately before intake.
 
-[Orfadin 5 mg hard capsules]
-
-However, in addition to the tests above, during the initiation of therapy or if there is a deterioration it may be necessary to follow more closely all available biochemical parameters (i.e. plasma succinylacetone, urine 5-aminolevulinate (ALA) and erythrocyte porphobilinogen (PBG)-synthase activity).
-
-[Orfadin 10 mg hard capsules]
-
-(all sentences already above)
+It is recommended that if nitisinone treatment is initiated with food, this should be maintained on a routine basis, see section 4.5.

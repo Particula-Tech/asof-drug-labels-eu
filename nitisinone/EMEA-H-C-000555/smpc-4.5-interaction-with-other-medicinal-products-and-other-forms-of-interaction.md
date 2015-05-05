@@ -8,4 +8,4 @@ Based on in vitro studies, nitisinone is not expected to inhibit CYP 1A2, 2C9, 2
 
 No formal food interactions studies have been performed.
 However, nitisinone has been co-administered with food during the generation of efficacy and safety data.
-Therefore, it is recommended that if nitisinone treatment is initiated with food, this should be maintained on a routine basis.
+Therefore, it is recommended that if nitisinone treatment is initiated with food, this should be maintained on a routine basis, see section 4.2.

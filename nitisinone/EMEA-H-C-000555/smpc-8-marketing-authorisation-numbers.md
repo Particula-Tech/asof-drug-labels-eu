@@ -9,3 +9,7 @@ EU/1/04/303/002
 [Orfadin 10 mg hard capsules]
 
 EU/1/04/303/003
+
+[Orfadin 20 mg hard capsules]
+
+EU/1/04/303/004

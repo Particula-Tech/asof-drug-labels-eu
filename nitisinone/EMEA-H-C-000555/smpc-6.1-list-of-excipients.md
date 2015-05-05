@@ -1,7 +1,8 @@
 # 6.1 List of excipients
 
-Capsule content pregelatinised starch (maize)
+Capsule content
+Starch, pregelatinised (maize)
 
 Capsule shell gelatin titanium dioxide (E 171)
 
-Imprint black iron oxide (E 172), shellac, propylene glycol ammonium hydroxide
+Printing ink black iron oxide (E 172) shellac propylene glycol ammonium hydroxide

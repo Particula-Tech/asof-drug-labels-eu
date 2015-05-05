@@ -1,4 +1,5 @@
 # 4.7 Effects on ability to drive and use machines
 
-No studies on the effects on the ability to drive and use machines have been performed.
-If the patient experiences adverse reactions affecting the vision, the ability to drive and use machines should be considered.
+There is minor influence on the ability to drive and use machines.
+Adverse reactions involving the eyes (see section 4.8) can affect the vision.
+If the vision is affected the patient should not drive or use machines until the event has subsided.
