@@ -5,10 +5,11 @@ Any unused product or waste material should be disposed of in accordance with lo
 Extemporaneous formulation
 
 When Tamiflu powder for oral suspension is not available
-When commercially manufactured Tamiflu powder for oral suspension is not available, patients who are unable to swallow capsules may receive appropriate doses of Tamiflu prepared in a pharmacy or prepared at home.
+Commercially manufactured Tamiflu for oral suspension (6 mg/ml) is the preferred product for paediatric and adult patients who have difficulties swallowing capsules or where lower doses are needed.
+In the event that commercially manufactured Tamiflu powder for oral suspension is not available, the pharmacist may compound a suspension (6 mg/ml) from Tamiflu capsules or patients can prepare the suspension from capsules at home.
 
-For infants less than 1 year of age, the pharmacy preparation should be preferred to home preparation.
-Detailed information on the home preparation can be found in the package leaflet of Tamiflu capsules under “Making Tamiflu suspension at home”.
+The pharmacy preparation should be preferred to home preparation.
+Detailed information on the home preparation can be found in the package leaflet of Tamiflu capsules under “Making liquid Tamiflu at home”.
 
 Syringes of appropriate volume and grading should be provided for administering the pharmacy compounded suspension as well as for the procedures involved in the home preparation.
 In both cases, the correct volumes should preferably be marked on the syringes.
@@ -36,15 +37,12 @@ Volume of pharmacy compounded 6 mg/ml suspension prepared based upon the patient
 | > 40 kg | 125 ml | 137.5 ml (or 150 ml)* |
 
 * Depending on the capsule strength used.
-
 Second, determine the number of capsules and the amount of vehicle (water containing 0.05 % w/v sodium benzoate added as a preservative) that is needed to prepare the total volume (calculated from the table above) of pharmacy compounded 6 mg/ml suspension as shown in the table below:
-
 Number of capsules and amount of vehicle needed to prepare the total volume of a pharmacy compounded 6 mg/ml suspension
 
 | Total volume of compounded suspension to be prepared | Required number of Tamiflu capsules (mg of oseltamivir) |  |  | Required volume of vehicle |
 | --- | --- | --- | --- | --- |
 |  | 75 mg | 45 mg | 30 mg |  |
-| 50 ml | 4 capsules (300 mg) | Please use alternative capsule strength* | 10 capsules (300 mg) | 49.5 ml |
 | 60 ml | Please use alternative capsule strength* | 8 capsules (360 mg) | 12 capsules (360 mg) | 59.5 ml |
 | 75 ml | 6 capsules (450 mg) | 10 capsules (450 mg) | 15 capsules (450 mg) | 74 ml |
 | 90 ml | Please use alternative capsule strength* | 12 capsules (540 mg) | 18 capsules (540 mg) | 89 ml |
@@ -69,7 +67,7 @@ A funnel may be used to eliminate any spillage.
 Close the bottle using a child-resistant cap.
 6.
 Put an ancillary label on the bottle indicating “Shake Gently Before Use”.
-(Note: This compounded suspension should be gently shaken prior to administration to minimize the tendency for air entrapment.)
+(Note: This compounded suspension should be gently shaken prior to administration to minimise the tendency for air entrapment.)
 7.
 Instruct the parent or caregiver that any remaining material following completion of therapy must be discarded.
 It is recommended that this information be provided by either affixing an ancillary label to the bottle or adding a statement to the pharmacy label instructions.
@@ -78,7 +76,6 @@ Place an appropriate expiration date label according to storage condition (see s
 
 Place a pharmacy label on the bottle that includes the patient’s name, dosing instructions, use by date, name of medicinal product and any other required information to be in compliance with local pharmacy regulations.
 Refer to the table below for the proper dosing instructions.
-
 Dosing chart for pharmacy-compounded 6 mg/ml suspension prepared from Tamiflu capsules for infants and children 1 year of age or older
 
 | Body weight (kg) | Dose (mg) | Volume per dose 6 mg/ml | Treatment dose (for 5 days) | Prophylaxis dose (for 10 days) |
@@ -101,6 +98,7 @@ The pharmacist may compound a 6 mg/ml suspension from Tamiflu 30 mg, 45 mg or 75
 First, calculate the total volume needed to be compounded and dispensed for each patient.
 The total volume required is determined by the weight of the patient according to the recommendation in the table below.
 To allow for accurate volume withdrawal of up to 10 doses (2 withdrawals per daily treatment dose for 5 days), the column indicating measurement loss is to be considered for compounding.
+
 Volume of pharmacy compounded 6 mg/ml suspension prepared based upon the patient’s weight
 
 | Body weight (kg) | Total volume to compound per patient weight (ml) Measurement loss not considered | Total volume to compound per patient weight (ml) Measurement loss considered |
@@ -111,13 +109,11 @@ Volume of pharmacy compounded 6 mg/ml suspension prepared based upon the patient
 * Depending on the capsule strength used.
 
 Second, determine the number of capsules and the amount of vehicle (water containing 0.05 % w/v sodium benzoate added as a preservative) that is needed to prepare the total volume (calculated from the table above) of pharmacy compounded 6 mg/ml suspension as shown in the table below:
-
 Number of capsules and amount of vehicle needed to prepare the total volume of a pharmacy compounded 6 mg/ml suspension
 
 | Total volume of compounded suspension to be prepared | Required number of Tamiflu capsules (mg of oseltamivir) |  |  | Required volume of vehicle |
 | --- | --- | --- | --- | --- |
 |  | 75 mg | 45 mg | 30 mg |  |
-| 30 ml | Please use alternative capsule strength* | 4 capsules (180 mg) | 6 capsules (180 mg) | 29.5 ml |
 | 50 ml | 4 capsules (300 mg) | Please use alternative capsule strength* | 10 capsules (300 mg) | 49.5 ml |
 | 60 ml | Please use alternative capsule strength* | 8 capsules (360 mg) | 12 capsules (360 mg) | 59.5 ml |
 | 75 ml | 6 capsules (450 mg) | 10 capsules (450 mg) | 15 capsules (450 mg) | 74 ml |
@@ -139,39 +135,25 @@ A funnel may be used to eliminate any spillage.
 Close the bottle using a child-resistant cap.
 6.
 Put an ancillary label on the bottle indicating “Shake Gently Before Use”.
-(Note: This compounded suspension should be gently shaken prior to administration to minimize the tendency for air entrapment.)
+(Note: This compounded suspension should be gently shaken prior to administration to minimise the tendency for air entrapment.)
 7.
 Instruct the parent or caregiver that any remaining material following completion of therapy must be discarded.
 It is recommended that this information be provided by either affixing an ancillary label to the bottle or adding a statement to the pharmacy label instructions.
 8.
 Place an appropriate expiration date label according to storage condition (see section 6.3).
+
 Place a pharmacy label on the bottle that includes the patient’s name, dosing instructions, use by date, name of medicinal product and any other required information to be in compliance with local pharmacy regulations.
 Refer to the table below for the proper dosing instructions.
-
-Dosing chart for pharmacy compounded 6 mg/ml suspension prepared from Tamiflu capsules for infants 0 to 30 days of age (less than one month of age)
-
-| Body Weight (rounded to the nearest 0.5 kg) | Dose (mg) | Volume per dose (6 mg/ml) | Treatment Dose (for 5 days) | Prophylaxis Dose (for 10 days) | Dispenser size to use (grading 0.1 ml) |
-| --- | --- | --- | --- | --- | --- |
-| 3 kg | 6 mg | 1.0 ml | 1.0 ml twice daily | 1.0 ml once daily | 1.0 ml (or 2.0 ml) |
-| 3.5 kg | 7 mg | 1.2 ml | 1.2 ml twice daily | 1.2 ml once daily | 2.0 ml |
-| 4 kg | 8 mg | 1.3 ml | 1.3 ml twice daily | 1.3 ml once daily | 2.0 ml |
-| 4.5 kg | 9 mg | 1.5 ml | 1.5 ml twice daily | 1.5 ml once daily | 2.0 ml |
-
-Dosing chart for pharmacy compounded 6 mg/ml suspension prepared from Tamiflu capsules for infants of 31 to 90 days of age (more than one month to three months of age)
+Dosing chart for pharmacy compounded 6 mg/ml suspension prepared from Tamiflu capsules for infants less than 1 year of age
 
 | Body Weight (rounded to the nearest 0.5 kg) | Dose (mg) | Volume per dose (6 mg/ml) | Treatment Dose (for 5 days) | Prophylaxis Dose (for 10 days) | Dispenser size to use (grading 0.1 ml) |
 | --- | --- | --- | --- | --- | --- |
-| 4 kg | 10 mg | 1.7 ml | 1.7 ml twice daily | 1.7 ml once daily | 2.0 ml (or 3.0 ml) |
-| 4.5 kg | 11.25 mg | 1.9 ml | 1.9 ml twice daily | 1.9 ml once daily | 2.0 ml (or 3.0 ml) |
-| 5 kg | 12.5 mg | 2.1 ml | 2.1 ml twice daily | 2.1 ml once daily | 3.0 ml |
-| 5.5 kg | 13.75 mg | 2.3 ml | 2.3 ml twice daily | 2.3 ml once daily | 3.0 ml |
-| 6 kg | 15 mg | 2.5 ml | 2.5 ml twice daily | 2.5 ml once daily | 3.0 ml |
-| 6.5 kg | 16.25 mg | 2.7 ml | 2.7 ml twice daily | 2.7 ml once daily | 3.0 ml |
-
-Dosing chart for pharmacy compounded 6 mg/ml suspension prepared from Tamiflu capsules for infants 91 to less than 365 days of age (more than three months to twelve months of age)
-
-| Body Weight (rounded to the nearest 0.5 kg) | Dose (mg) | Volume per dose (6 mg/ml) | Treatment Dose (for 5 days) | Prophylaxis Dose (for 10 days) | Dispenser size to use (grading 0.1 ml) |
-| --- | --- | --- | --- | --- | --- |
+| 3 kg | 9 mg | 1.5 ml | 1.5 ml twice daily | 1.5 ml once daily | 2.0 ml or 3.0 ml |
+| 3.5 kg | 10.5 mg | 1.8 ml | 1.8 ml twice daily | 1.8 ml once daily | 2.0 ml or 3.0 ml |
+| 4 kg | 12 mg | 2.0 ml | 2.0 ml twice daily | 2.0 ml once daily | 3.0 ml |
+| 4.5 kg | 13.5 mg | 2.3 ml | 2.3 ml twice daily | 2.3 ml once daily | 3.0 ml |
+| 5 kg | 15 mg | 2.5 ml | 2.5 ml twice daily | 2.5 ml once daily | 3.0 ml |
+| 5.5 kg | 16.5 mg | 2.8 ml | 2.8 ml twice daily | 2.8 ml once daily | 3.0 ml |
 | 6 kg | 18 mg | 3.0 ml | 3.0 ml twice daily | 3.0 ml once daily | 3.0 ml (or 5.0 ml) |
 | 6.5 kg | 19.5 mg | 3.3 ml | 3.3 ml twice daily | 3.3 ml once daily | 5.0 ml |
 | 7 kg | 21 mg | 3.5 ml | 3.5ml twice daily | 3.5 ml once daily | 5.0 ml |
@@ -186,11 +168,11 @@ Dispense the pharmacy compounded suspension with a graduated oral syringe for me
 If possible, mark or highlight the graduation corresponding to the appropriate dose (according to the dosing tables above) on the oral syringe for each patient.
 
 The appropriate dose must be mixed by the caregiver with an equal quantity of sweet liquid food, such as sugar water, chocolate syrup, cherry syrup, dessert toppings (like caramel or fudge sauce) to mask the bitter taste.
+
 Home preparation
 
-When commercially manufactured Tamiflu oral suspension is not available, a pharmacy compounded suspension prepared from Tamiflu capsules can be used (see detailed instructions above).
-If the pharmacy compounded suspension is also not available, Tamiflu suspension may be prepared at home.
-The pharmacy compounded suspension is the preferred option in infants less than 1 year of age.
+When commercially manufactured Tamiflu oral suspension is not available, a pharmacy compounded suspension prepared from Tamiflu capsules must be used (see detailed instructions above).
+If the commercially manufactured Tamiflu oral suspension and the pharmacy compounded suspension is also not available, Tamiflu suspension may be prepared at home.
 
 When appropriate capsule strengths are available for the dose needed, the dose is given by opening the capsule and mixing its contents with no more than one teaspoon of a suitable sweetened food product.
 The bitter taste can be masked by products such as sugar water, chocolate syrup, cherry syrup, dessert toppings (like caramel or fudge sauce).
@@ -198,7 +180,7 @@ The mixture should be stirred and given entirely to the patient.
 The mixture must be swallowed immediately after its preparation.
 
 When only 75 mg capsules are available, and doses of 30 mg or 45 mg are needed, the preparation of Tamiflu suspension involves additional steps.
-Detailed instructions can be found in the package leaflet of Tamiflu capsules under “Making Tamiflu suspension at home”.
+Detailed instructions can be found in the package leaflet of Tamiflu capsules under “Making liquid Tamiflu at home”.
 
 [Tamiflu 45 mg hard capsules]
 
@@ -222,7 +204,6 @@ Add all 55 ml of water into the bottle, recap the bottle and shake the closed bo
 Remove the cap and push the bottle adapter into the neck of the bottle.
 Close the bottle tightly with the cap (on the top of the bottle adapter).
 This will make sure that the bottle adapter fits in the bottle in the right position.
-
 Tamiflu powder for suspension will appear as an opaque and white to light yellow suspension after reconstitution.
 
 [Tamiflu 12 mg/ml powder for oral suspension]

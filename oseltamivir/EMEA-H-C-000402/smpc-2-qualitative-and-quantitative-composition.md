@@ -13,7 +13,7 @@ Each hard capsule contains oseltamivir phosphate equivalent to 75 mg of oseltami
 
 [Tamiflu 6 mg/ml powder for oral suspension]
 
-Each ml of reconstituted suspension contains 6 mg oseltamivir.
+Each ml of reconstituted suspension contains oseltamivir phosphate equivalent to 6 mg of oseltamivir.
 One bottle of reconstituted suspension (65 ml) contains 390 mg of oseltamivir.
 
 Excipients with known effect:
@@ -24,7 +24,7 @@ Excipients with known effect:
 
 [Tamiflu 12 mg/ml powder for oral suspension]
 
-Each ml of reconstituted suspension contains 12 mg oseltamivir.
+Each ml of reconstituted suspension contains oseltamivir phosphate equivalent to 12 mg of oseltamivir.
 One bottle of reconstituted suspension (75 ml) contains 900 mg of oseltamivir.
 
 30 mg oseltamivir suspension delivers 0.9 g of sorbitol.

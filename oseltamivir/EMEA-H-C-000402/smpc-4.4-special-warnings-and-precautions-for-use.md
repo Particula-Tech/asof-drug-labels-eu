@@ -2,7 +2,6 @@
 
 Oseltamivir is effective only against illness caused by influenza viruses.
 There is no evidence for efficacy of oseltamivir in any illness caused by agents other than influenza viruses (see section 5.1).
-
 Tamiflu is not a substitute for influenza vaccination.
 Use of Tamiflu must not affect the evaluation of individuals for annual influenza vaccination.
 The protection against influenza lasts only as long as Tamiflu is administered.
@@ -21,8 +20,7 @@ Efficacy of oseltamivir in the treatment of subjects with chronic cardiac diseas
 No difference in the incidence of complications was observed between the treatment and placebo groups in this population (see section 5.1).
 
 Paediatric population
-No data allowing a dose recommendation for premature children (< 37 weeks post-menstrual age*) are currently available.
-* Time between first day of last normal menstrual period and day of assessment, gestational age plus post-natal age.
+No data allowing a dose recommendation for premature children (< 36 weeks post-conceptual age) are currently available.
 
 Severe renal impairment
 Dose adjustment is recommended for both treatment and prevention in adolescents (13 to 17 years of age) and adults with severe renal impairment.
@@ -35,7 +33,7 @@ Patients should be closely monitored for behavioural changes, and the benefits a
 
 [Tamiflu 45 mg hard capsules]
 
-(all sentences already above)
+No data allowing a dose recommendation for premature children (<36 weeks post-conceptual age) are currently available.
 
 [Tamiflu 75 mg hard capsules]
 

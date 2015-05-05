@@ -1,12 +1,8 @@
 # 4.1 Therapeutic indications
 
 Treatment of influenza
-In patients one year of age and older who present with symptoms typical of influenza, when influenza virus is circulating in the community.
+Tamiflu is indicated in adults and children including full term neonates who present with symptoms typical of influenza, when influenza virus is circulating in the community.
 Efficacy has been demonstrated when treatment is initiated within two days of first onset of symptoms.
-This indication is based on clinical studies of naturally occurring influenza in which the predominant infection was influenza A (see section 5.1).
-
-Tamiflu is indicated for the treatment of infants less than 1 year of age during a pandemic influenza outbreak (see section 5.2).
-The treating physician should take into account the pathogenicity of the circulating strain and the underlying condition of the patient to ensure there is a potential benefit to the child.
 
 Prevention of influenza
 

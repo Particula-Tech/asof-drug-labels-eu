@@ -7,6 +7,7 @@ Oseltamivir is readily absorbed from the gastrointestinal tract after oral admin
 At least 75 % of an oral dose reaches the systemic circulation as the active metabolite.
 Exposure to the pro-drug is less than 5 % relative to the active metabolite.
 Plasma concentrations of both pro-drug and active metabolite are proportional to dose and are unaffected by co-administration with food.
+
 Distribution
 The mean volume of distribution at steady state of the oseltamivir carboxylate is approximately 23 litres in humans, a volume equivalent to extracellular body fluid.
 Since neuraminidase activity is extracellular, oseltamivir carboxylate distributes to all sites of influenza virus spread.
@@ -26,24 +27,27 @@ The active metabolite is eliminated entirely by renal excretion.
 Renal clearance (18.8 l/h) exceeds glomerular filtration rate (7.5 l/h) indicating that tubular secretion occurs in addition to glomerular filtration.
 Less than 20 % of an oral radiolabelled dose is eliminated in faeces.
 
-Special populations
+Other special populations
 
-Children
-Infants less than 1 year of age: Limited pharmacokinetic and safety data are available for infants less than 1 year of age.
-Pharmacokinetic modeling was undertaken using these data in addition to data from studies in adults and infants and children 1 year of age or older.
-The results demonstrate that doses of 3 mg /kg twice daily for infants aged 3 to 12 months and 2.5 mg /kg twice daily for infants aged between 1 and 3 months provide exposures similar to those shown to be clinically efficacious in adults and infants and children 1 year of age or older (see sections 4.1 and 4.2).
-There are currently no data available in infants less than 1 month of age using Tamiflu.
+Paediatric population
 
+Infants less than 1 year of age: The pharmacokinetics, pharmacodynamics and safety of Tamiflu have been evaluated in two uncontrolled open-label studies including influenza infected children less than one year of age (n=135).
+The rate of clearance of the active metabolite, corrected for body-weight, decreases with ages below one year.
+Metabolite exposures are also more variable in the youngest infants.
+The available data indicates that the exposure following a 3 mg/kg dose in infants 0 - 12 months of age provides pro-drug and metabolite exposures anticipated to be efficacious with a safety profile comparable to that seen in older children and adults using the approved dose (see sections 4.1 and 4.2).The reported adverse events were consistent with the established safety profile in older children.
+
+There are no data available for infants below 1 year of age for post exposure prevention of influenza.
+Prevention during an influenza epidemic in the community has not been studied in children below 12 years of age.
 Infants and children 1 year of age or older: The pharmacokinetics of oseltamivir have been evaluated in single-dose pharmacokinetic studies in infants, children and adolescents 1 to 16 years of age.
 Multiple-dose pharmacokinetics were studied in a small number of children enrolled in a clinical efficacy study.
 Younger children cleared both the pro-drug and its active metabolite faster than adults, resulting in a lower exposure for a given mg/kg dose.
 Doses of 2 mg/kg give oseltamivir carboxylate exposures comparable to those achieved in adults receiving a single 75 mg dose (approximately 1 mg/kg).
 The pharmacokinetics of oseltamivir in children and adolescents 12 years of age or older are similar to those in adults.
 
-Elderly
-Exposure to the active metabolite at steady state was 25 to 35 % higher in elderly (age 65 to 78 years) compared to adults less than 65 years of age given comparable doses of oseltamivir.
-Half-lives observed in the elderly were similar to those seen in young adults.
-On the basis of drug exposure and tolerability, dosage adjustments are not required for elderly patients unless there is evidence of moderate or severe renal impairment (creatinine clearance below 60 ml /min) (see section 4.2).
+Older people
+Exposure to the active metabolite at steady state was 25 to 35 % higher in older people (age 65 to 78 years) compared to adults less than 65 years of age given comparable doses of oseltamivir.
+Half-lives observed in older people were similar to those seen in young adults.
+On the basis of drug exposure and tolerability, dosage adjustments are not required for older people unless there is evidence of moderate or severe renal impairment (creatinine clearance below 60 ml /min) (see section 4.2).
 
 Renal impairment
 Administration of 100 mg oseltamivir phosphate twice daily for 5 days to patients with various degrees of renal impairment showed that exposure to oseltamivir carboxylate is inversely proportional to declining renal function.
@@ -51,3 +55,20 @@ For dosing, see section 4.2.
 
 Hepatic impairment
 In vitro studies have concluded that exposure to oseltamivir is not expected to be increased significantly nor is exposure to the active metabolite expected to be significantly decreased in patients with hepatic impairment (see section 4.2).
+
+[Tamiflu 45 mg hard capsules]
+
+(all sentences already above)
+
+[Tamiflu 75 mg hard capsules]
+
+Infants less than 1 year of age:
+The pharmacokinetics, pharmacodynamics and safety of Tamiflu have been evaluated in two uncontrolled open-label studies including influenza infected children less than one year of age (n=135).
+
+[Tamiflu 6 mg/ml powder for oral suspension]
+
+(all sentences already above)
+
+[Tamiflu 12 mg/ml powder for oral suspension]
+
+(all sentences already above)

@@ -11,7 +11,7 @@ Shelf life of 10 days when stored below 25 °C.
 
 [Tamiflu 75 mg hard capsules]
 
-.
+10 years
 
 [Tamiflu 6 mg/ml powder for oral suspension]
 

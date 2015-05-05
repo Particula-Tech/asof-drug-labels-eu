@@ -8,7 +8,6 @@ In adults/adolescents, the most commonly reported adverse reactions (ARs) were n
 The majority of these ARs were reported on a single occasion on either the first or second treatment day and resolved spontaneously within 1-2 days.
 In children, the most commonly reported adverse reaction was vomiting.
 In the majority of patients, these ARs did not lead to discontinuation of Tamiflu.
-
 The following serious adverse reactions have been rarely reported since oseltamivir has been marketed: Anaphylactic and anaphylactoid reactions, hepatic disorders (fulminant hepatitis, hepatic function disorder and jaundice), angioneurotic oedema, Stevens-Johnson syndrome and toxic epidermal necrolysis, gastrointestinal bleeding and neuropsychiatric disorders.
 (Regarding neuropsychiatric disorders, see section 4.4.)
 
@@ -33,9 +32,9 @@ Table 1 Adverse reactions in studies investigating Tamiflu for treatment and pre
 | Nervous system disorders | Headache | Insomnia | Altered level of consciousness, Convulsion |  |
 | Eye disorders |  |  |  | Visual disturbance |
 | Cardiac disorders |  |  | Cardiac arrhythmia |  |
-|  | Very common | Common | Uncommon | Rare |
 | Respiratory, thoracic and mediastinal disorders |  | Cough, Sore throat, Rhinorrhea |  |  |
-| Gastrointestinal disorders | Nausea | Vomiting Abdominal pain (incl. upper abdominal pain), Dyspepsia |  | Gastrointestinal bleedings, Hemorrhagic colitis |
+|  | Very common | Common | Uncommon | Rare |
+| Gastrointestinal disorders | Nausea | Vomiting Abdominal pain (incl. upper abdominal pain), Dyspepsia |  | Gastrointestinal bleedings, Haemorrhagic colitis |
 | Hepatobiliary disorders |  |  | Elevated liver enzymes | Fulminant hepatitis, Hepatic failure, Hepatitis |
 | Skin and subcutaneous tissue disorders |  |  | Eczema, Dermatitis, Rash, Urticaria | Angioneurotic oedema, Erythema multiforme, Stevens-Johnson syndrome, Toxic epidermal necrolysis |
 | General disorders and administration site conditions |  | Pain Dizziness (incl. vertigo), Fatigue, Pyrexia, Pain in limb |  |  |
@@ -78,10 +77,13 @@ These cases include fatal fulminant hepatitis/hepatic failure.
 Other special populations
 
 Paediatric population (infants less than one year of age)
+In two studies to characterise the pharmacokinetics, pharmacodynamics and safety profile of oseltamivir therapy in 135 influenza infected children less than one year of age, the safety profile was similar among age cohorts with vomiting, diarrohea and diaper rash being the most frequently reported adverse events (see section 5.2).
+Insufficient data are available for infants who have a post-conceptual age of less than 36 weeks.
+
 Safety information available on oseltamivir administered for treatment of influenza in infants less than one year of age from prospective and retrospective observational studies (comprising together more than 2,400 infants of that age class), epidemiological databases research and postmarketing reports suggest that the safety profile in infants less than one year of age is similar to the established safety profile of children aged one year and older.
 
-Elderly patients and patients with chronic cardiac and/or respiratory disease
-The population included in the influenza treatment studies is comprised of otherwise healthy adults/adolescents and patients “at risk” (patients at higher risk of developing complications associated with influenza, e.g. elderly patients and patients with chronic cardiac or respiratory disease).
+Older people and patients with chronic cardiac and/or respiratory disease
+The population included in the influenza treatment studies is comprised of otherwise healthy adults/adolescents and patients “at risk” (patients at higher risk of developing complications associated with influenza, e.g. older people and patients with chronic cardiac or respiratory disease).
 In general, the safety profile in the patients “at risk” was qualitatively similar to that in otherwise healthy adults/adolescents.
 
 Immunocompromised patients
@@ -89,6 +91,11 @@ In a 12-week prophylaxis study in 475 immunocompromised patients, including 18 c
 
 Children with pre-existing bronchial asthma
 In general, the adverse reaction profile in children with pre-existing bronchial asthma was qualitatively similar to that of otherwise healthy children.
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 [Tamiflu 45 mg hard capsules]
 
@@ -105,33 +112,18 @@ In general, the adverse reaction profile in children with pre-existing bronchial
 |  | Very common | Common | Uncommon | Rare |
 | Infections and infestations |  | Bronchitis, Herpes simplex, Nasopharyngitis, Upper respiratory tract infections, Sinusitis |  |  |
 | Blood and lymphatic system disorders |  |  |  | Thrombocytopenia |
-|  | Very common | Common | Uncommon | Rare |
 | Immune system disorders |  |  | Hypersensitivity reaction | Anaphylactic reactions, Anaphylactoid reactions |
 | Psychiatric disorders |  |  |  | Agitation, Abnormal behaviour, Anxiety, Confusion, Delusions, Delirium, Hallucination, Nightmares, Self-injury |
 | Nervous system disorders | Headache | Insomnia | Altered level of consciousness, Convulsion |  |
 | Eye disorders |  |  |  | Visual disturbance |
 | Cardiac disorders |  |  | Cardiac arrhythmia |  |
 | Respiratory, thoracic and mediastinal disorders |  | Cough, Sore throat, Rhinorrhea |  |  |
-| Gastrointestinal disorders | Nausea | Vomiting Abdominal pain (incl. upper abdominal pain), Dyspepsia |  | Gastrointestinal bleedings, Hemorrhagic colitis |
+| Gastrointestinal disorders | Nausea | Vomiting Abdominal pain (incl. upper abdominal pain), Dyspepsia |  | Gastrointestinal bleedings, Haemorrhagic colitis |
 | Hepatobiliary disorders |  |  | Elevated liver enzymes | Fulminant hepatitis, Hepatic failure, Hepatitis |
+|  | Very common | Common | Uncommon | Rare |
 | Skin and subcutaneous tissue disorders |  |  | Eczema, Dermatitis, Rash, Urticaria | Angioneurotic oedema, Erythema multiforme, Stevens-Johnson syndrome, Toxic epidermal necrolysis |
 | General disorders and administration site conditions |  | Pain Dizziness (incl. vertigo), Fatigue, Pyrexia, Pain in limb |  |  |
 
 [Tamiflu 12 mg/ml powder for oral suspension]
 
-| System Organ Class (SOC) | Adverse reactions according to frequency |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | Very common | Common | Uncommon | Rare |
-| Infections and infestations |  | Bronchitis, Herpes simplex, Nasopharyngitis, Upper respiratory tract infections, Sinusitis |  |  |
-| Blood and lymphatic system disorders |  |  |  | Thrombocytopenia |
-| Immune system disorders |  |  | Hypersensitivity reaction | Anaphylactic reactions, Anaphylactoid reactions |
-| Psychiatric disorders |  |  |  | Agitation, Abnormal behaviour, Anxiety, Confusion, Delusions, Delirium, Hallucination, Nightmares, Self-injury |
-| Nervous system disorders | Headache | Insomnia | Altered level of consciousness, Convulsion |  |
-| Eye disorders |  |  |  | Visual disturbance |
-| Cardiac disorders |  |  | Cardiac arrhythmia |  |
-| Respiratory, thoracic and mediastinal disorders |  | Cough, Sore throat, Rhinorrhea |  |  |
-| Gastrointestinal disorders | Nausea | Vomiting Abdominal pain (incl. upper abdominal pain), Dyspepsia |  | Gastrointestinal bleedings, Hemorrhagic colitis |
-|  | Very common | Common | Uncommon | Rare |
-| Hepatobiliary disorders |  |  | Elevated liver enzymes | Fulminant hepatitis, Hepatic failure, Hepatitis |
-| Skin and subcutaneous tissue disorders |  |  | Eczema, Dermatitis, Rash, Urticaria | Angioneurotic oedema, Erythema multiforme, Stevens-Johnson syndrome, Toxic epidermal necrolysis |
-| General disorders and administration site conditions |  | Pain Dizziness (incl. vertigo), Fatigue, Pyrexia, Pain in limb |  |  |
+(all sentences already above)

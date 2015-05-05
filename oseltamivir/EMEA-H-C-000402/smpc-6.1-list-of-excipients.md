@@ -1,7 +1,7 @@
 # 6.1 List of excipients
 
 Capsule core
-Pregelatinized starch (derived from maize starch)
+Pregelatinised starch (derived from maize starch)
 Talc
 Povidone
 Croscarmellose sodium
