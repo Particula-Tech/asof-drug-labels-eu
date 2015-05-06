@@ -1,14 +1,17 @@
 # 4.4 Special warnings and precautions for use
 
+While effective viral suppression with antiretroviral therapy has been proven to substantially reduce the risk of sexual transmission, a residual risk cannot be excluded.
+Precautions to prevent transmission should be taken in accordance with national guidelines.
+
 Hepatic disease
 The safety and efficacy of maraviroc have not been specifically studied in patients with significant underlying liver disorders.
 Cases of hepatotoxicity and hepatic failure with allergic features have been reported in association with maraviroc.
 In addition, an increase in hepatic adverse reactions with maraviroc was observed during studies of treatment-experienced subjects with HIV infection, although there was no overall increase in ACTG Grade 3/4 liver function test abnormalities (see section 4.8).
 Hepatobiliary disorders reported in treatment-naïve patients were uncommon and balanced between treatment groups (see section 4.8).Patients with pre-existing liver dysfunction, including chronic active hepatitis, can have an increased frequency of liver function abnormalities during combination antiretroviral therapy and should be monitored according to standard practice.
 Discontinuation of maraviroc should be strongly considered in any patient with signs or symptoms of acute hepatitis, in particular if drug-related hypersensitivity is suspected or with increased liver transaminases combined with rash or other systemic symptoms of potential hypersensitivity (e.g. pruritic rash, eosinophilia or elevated IgE).
-
 Since there are very limited data in patients with hepatitis B/C co-infection, special caution should be exercised when treating these patients with maraviroc.
 In case of concomitant antiviral therapy for hepatitis B and/or C, please refer also to the relevant product information for these medicinal products.
+
 There is limited experience in patients with reduced hepatic function, therefore maraviroc should be used with caution in this population (see sections 4.2 and 5.2).
 
 Severe skin and hypersensitivity reactions
@@ -42,11 +45,11 @@ Autoimmune disorders (such as Graves’ disease) have also been reported to occu
 Tropism
 Maraviroc should be taken as part of an antiretroviral combination regimen.
 Maraviroc should optimally be combined with other antiretrovirals to which the patient's virus is sensitive (see section 5.1).
-
 Maraviroc should only be used when only CCR5-tropic HIV-1 is detectable (i.e. CXCR4 or dual/mixed tropic virus not detected) as determined by an adequately validated and sensitive detection method (see sections 4.1, 4.2 and 5.1).
 The Monogram Trofile assay was used in the clinical studies of maraviroc.
 Other phenotypic and genotypic assays are currently being evaluated.
 The viral tropism cannot be predicted by treatment history or assessment of stored samples.
+
 Changes in viral tropism occur over time in HIV-1 infected patients.
 Therefore there is a need to start therapy shortly after a tropism test.
 
@@ -57,11 +60,6 @@ Maraviroc is not recommended to be used in treatment-naïve patients based on th
 Dose adjustment
 Physicians should ensure that appropriate dose adjustment of maraviroc is made when maraviroc is co-administered with CYP3A4 inhibitors and/or inducers since maraviroc concentrations and its therapeutic effects may be affected (see sections 4.2 and 4.5).
 Please also refer to the respective Summary of Product Characteristics of the other antiretroviral medicinal products used in the combination.
-
-Information for patients
-Patients should be advised that antiretroviral therapies including CELSENTRI have not been shown to prevent the risk of transmission of HIV to others through sexual contact or contamination with blood.
-They should continue to use appropriate precautions.
-Patients should also be informed that CELSENTRI is not a cure for HIV-1 infection.
 
 Osteonecrosis
 Although the aetiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
