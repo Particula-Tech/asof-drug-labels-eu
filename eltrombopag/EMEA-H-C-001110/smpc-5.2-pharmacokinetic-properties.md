@@ -81,7 +81,7 @@ Special patient populations
 Renal impairment
 
 The pharmacokinetics of eltrombopag has been studied after administration of eltrombopag to adult subjects with renal impairment.
-Following administration of a single 50 mg-dose, the AUC0-∞ of eltrombopag was 32 % to 36 % lower in subjects with mild to moderate renal impairment, and 60 % lower in subjects with severe renal impairment compared with healthy volunteers.
+Following administration of a single 50 mg-dose, the AUC0-∞of eltrombopag was 32 % to 36 % lower in subjects with mild to moderate renal impairment, and 60 % lower in subjects with severe renal impairment compared with healthy volunteers.
 There was substantial variability and significant overlap in exposures between patients with renal impairment and healthy volunteers.
 Unbound eltrombopag (active) concentrations for this highly protein bound medicinal product were not measured.
 Patients with impaired renal function should use eltrombopag with caution and close monitoring, for example by testing serum creatinine and/or urine analysis (see section 4.2).
@@ -90,7 +90,7 @@ The efficacy and safety of eltrombopag has not been established in subjects with
 Hepatic impairment
 
 The pharmacokinetics of eltrombopag has been studied after administration of eltrombopag to adult subjects with hepatic impairment.
-Following the administration of a single 50 mg dose, the AUC0-∞ of eltrombopag was 41 % higher in subjects with mild hepatic impairment and 80 % to 93 % higher in subjects with moderate to severe hepatic impairment compared with healthy volunteers.
+Following the administration of a single 50 mg dose, the AUC0-∞of eltrombopag was 41 % higher in subjects with mild hepatic impairment and 80 % to 93 % higher in subjects with moderate to severe hepatic impairment compared with healthy volunteers.
 There was substantial variability and significant overlap in exposures between patients with hepatic impairment and healthy volunteers.
 Unbound eltrombopag (active) concentrations for this highly protein bound medicinal product were not measured.
 
@@ -98,7 +98,7 @@ The influence of hepatic impairment on the pharmacokinetics of eltrombopag follo
 Of the 714 patients, 642 were with mild hepatic impairment, 67 with moderate hepatic impairment, and 2 with severe hepatic impairment.
 Compared to healthy volunteers, patients with mild hepatic impairment had approximately 111 % (95 % CI: 45 % to 283 %) higher plasma eltrombopag AUC(0-τ) values and patients with moderate hepatic impairment had approximately 183 % (95 % CI: 90 % to 459 %) higher plasma eltrombopag AUC(0-τ) values.
 
-Therefore, eltrombopag should not be used in ITP patients with hepatic impairment (Child-Pugh score ≥ 5) unless the expected benefit outweighs the identified risk of portal venous thrombosis (see sections 4.2 and 4.4).
+Therefore, eltrombopag should not be used in ITP patients with hepatic impairment (Child-Pugh score ≥5) unless the expected benefit outweighs the identified risk of portal venous thrombosis (see sections 4.2 and 4.4).
 For patients with HCV initiate eltrombopag at a dose of 25 mg once daily (see section 4.2).
 
 Race
@@ -119,5 +119,5 @@ Based on model estimate, female HCV patient had approximately 41 % higher plasma
 Age
 
 The influence of age on eltrombopag pharmacokinetics was evaluated using population pharmacokinetics analysis in 28 healthy subjects, 673 patients with HCV, and 41 patients with chronic liver disease of other aetiology ranging from 19 to 74 years old.
-There are no PK data on the use of eltrombopag in patients ≥ 75 years.
-Based on model estimate, elderly (≥ 65 years) patients had approximately 41 % higher plasma eltrombopag AUC(0-τ) as compared to younger patients (see section 4.2).
+There are no PK data on the use of eltrombopag in patients ≥75 years.
+Based on model estimate, elderly (≥65 years) patients had approximately 41 % higher plasma eltrombopag AUC(0-τ) as compared to younger patients (see section 4.2).

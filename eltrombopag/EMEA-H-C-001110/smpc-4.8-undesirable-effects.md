@@ -16,10 +16,10 @@ The most common adverse reactions (experienced by at least 10 % of patients) of 
 List of adverse reactions
 The adverse reactions in the ITP studies (N = 446) and in the HCV studies (N = 955) are listed below by MedDRA system organ class and by frequency.
 
-Very common (≥ 1/10)
-Common (≥ 1/100 to < 1/10)
-Uncommon (≥ 1/1,000 to < 1/100)
-Rare (≥ 1/10,000 to < 1/1,000)
+Very common (≥1/10)
+Common (≥1/100 to < 1/10)
+Uncommon (≥1/1,000 to < 1/100)
+Rare (≥1/10,000 to < 1/1,000)
 Very rare (< 1/10,000)
 Not known (cannot be estimated from the available data)
 
@@ -100,9 +100,9 @@ Abdominal tenderness, Faeces discoloured, Flatulence, Food poisoning, Frequent b
 
 Hepatobiliary disorders
 
-Common Alanine aminotransferase increased*, Aspartate aminotransferase increased*,
+Common Alanine aminotransferase increased*, Aspartate aminotransferase
 
-Hyperbilirubinaemia, Hepatic function abnormal
+increased*, Hyperbilirubinaemia, Hepatic function abnormal
 
 Uncommon Cholestasis, Hepatic lesion, Hepatitis
 
@@ -132,9 +132,9 @@ Common Menorrhagia
 
 General disorders and administration site conditions
 
-Uncommon Chest pain, Feeling hot, Vessel puncture site haemorrhage, Asthenia, Feeling
+Uncommon Chest pain, Feeling hot, Vessel puncture site haemorrhage, Asthenia,
 
-jittery, Inflammation of wound, Malaise, Pyrexia, Sensation of foreign body
+Feeling jittery, Inflammation of wound, Malaise, Pyrexia, Sensation of foreign body
 
 Investigations
 
@@ -248,18 +248,18 @@ In 3 controlled and 2 uncontrolled clinical studies, among adult chronic ITP pat
 In a placebo-controlled study (n = 288, Safety population), following 2 weeks treatment in preparation for invasive procedures, 6 of 143 (4 %) adult patients with chronic liver disease receiving eltrombopag experienced 7 TEEs of the portal venous system and 2 of 145 (1 %) subjects in the placebo group experienced 3 TEEs.
 Five of the 6 patients treated with eltrombopag experienced the TEE at a platelet count > 200,000/µl
 
-No specific risk factors were identified in those subjects who experienced a TEE with the exception of platelet counts ≥ 200,000/µl (see section 4.4).
+No specific risk factors were identified in those subjects who experienced a TEE with the exception of platelet counts ≥200,000/µl (see section 4.4).
 
 In controlled studies in thrombocytopenic patients with HCV (n = 1439), 38 out of 955 subjects (4 %) treated with eltrombopag experienced a TEE and 6 out of 484 subjects (1 %) in the placebo group experienced TEEs.
 Portal vein thrombosis was the most common TEE in both treatment groups (2 % in patients treated with eltrombopag versus < 1 % for placebo) (see section 4.4).
-Patients with low albumin levels (≤ 35 g/L) or MELD ≥ 10 had a twofold greater risk of TEEs than those with higher albumin levels; those aged ≥ 60 years had a 2-fold greater risk of TEEs compared to younger patients.
+Patients with low albumin levels (≤35 g/L) or MELD ≥10 had a twofold greater risk of TEEs than those with higher albumin levels; those aged ≥60 years had a 2-fold greater risk of TEEs compared to younger patients.
 
 Hepatic decompensation (use with interferon)
 
 Chronic HCV patients with cirrhosis may be at risk of hepatic decompensation when receiving alfa interferon therapy.
 In 2 controlled clinical studies in thrombocytopenic patients with HCV, hepatic decompensation (ascites, hepatic encephalopathy, variceal haemorrhage, spontaneous bacterial peritonitis) was reported more frequently in the eltrombopag arm (11 %) than in the placebo arm
 (6 %).
-In patients with low albumin levels (≤ 35 g/L) or Model for End-Stage Liver Disease (MELD) score ≥ 10 at baseline, there was a three-fold greater risk of hepatic decompensation and an increase in the risk of a fatal adverse event compared to those with less advanced liver disease.
+In patients with low albumin levels (≤35 g/L) or Model for End-Stage Liver Disease (MELD) score ≥10 at baseline, there was a three-fold greater risk of hepatic decompensation and an increase in the risk of a fatal adverse event compared to those with less advanced liver disease.
 Eltrombopag should only be administered to such patients after careful consideration of the expected benefits in comparison with the risks.
 Patients with these characteristics should be closely monitored for signs and symptoms of hepatic decompensation (see section 4.4).
 

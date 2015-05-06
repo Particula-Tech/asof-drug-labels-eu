@@ -6,7 +6,7 @@ HMG CoA reductase inhibitors
 
 In vitro studies demonstrated that eltrombopag is not a substrate for the organic anion transporter polypeptide, OATP1B1, but is an inhibitor of this transporter.
 In vitro studies also demonstrated that eltrombopag is a breast cancer resistance protein (BCRP) substrate and inhibitor.
-Administration of eltrombopag 75 mg once daily for 5 days with a single 10 mg dose of the OATP1B1 and BCRP substrate rosuvastatin to 39 healthy adult subjects increased plasma rosuvastatin Cmax 103 % (90 % confidence interval [CI]: 82 %, 126 %) and AUC0-∞ 55 % (90 % CI: 42 %, 69 %).
+Administration of eltrombopag 75 mg once daily for 5 days with a single 10 mg dose of the OATP1B1 and BCRP substrate rosuvastatin to 39 healthy adult subjects increased plasma rosuvastatin Cmax 103 % (90 % confidence interval [CI]: 82 %, 126 %) and AUC0-∞55 % (90 % CI: 42 %, 69 %).
 Interactions are also expected with other HMG-CoA reductase inhibitors, including atorvastatin, fluvastatin, lovastatin, pravastatin and simvastatin.
 When co-administered with eltrombopag, a reduced dose of statins should be considered and careful monitoring for statin adverse reactions should be undertaken (see section 5.2).
 
@@ -33,12 +33,12 @@ Effects of other medicinal products on eltrombopag
 Polyvalent cations (chelation)
 
 Eltrombopag chelates with polyvalent cations such as iron, calcium, magnesium, aluminium, selenium and zinc.
-Administration of a single dose of eltrombopag 75 mg with a polyvalent cation-containing antacid (1524 mg aluminium hydroxide and 1425 mg magnesium carbonate) decreased plasma eltrombopag AUC0-∞ by 70 % (90 % CI: 64 %, 76 %) and Cmax by 70 % (90 % CI: 62 %, 76 %).
+Administration of a single dose of eltrombopag 75 mg with a polyvalent cation-containing antacid (1524 mg aluminium hydroxide and 1425 mg magnesium carbonate) decreased plasma eltrombopag AUC0-∞by 70 % (90 % CI: 64 %, 76 %) and Cmax by 70 % (90 % CI: 62 %, 76 %).
 Antacids, dairy products and other products containing polyvalent cations, such as mineral supplements, must be administered at least four hours apart from eltrombopag dosing to avoid significant reduction in eltrombopag absorption due to chelation (see sections 4.2 and 5.2).
 
 Food interaction
 
-Administration of a single 50 mg-dose of eltrombopag with a standard high-calorie, high-fat breakfast that included dairy products reduced plasma eltrombopag AUC0-∞ by 59 % (90 % CI: 54 %, 64 %) and Cmax by 65 % (90 % CI: 59 %, 70 %).
+Administration of a single 50 mg-dose of eltrombopag with a standard high-calorie, high-fat breakfast that included dairy products reduced plasma eltrombopag AUC0-∞by 59 % (90 % CI: 54 %, 64 %) and Cmax by 65 % (90 % CI: 59 %, 70 %).
 Food low in calcium [< 50 mg calcium] including fruit, lean ham, beef and unfortified (no added calcium, magnesium, iron) fruit juice, unfortified soy milk, and unfortified grain did not significantly impact plasma eltrombopag exposure, regardless of calorie and fat content (see sections 4.2 and 5.2).
 Lopinavir/ritonavir
 

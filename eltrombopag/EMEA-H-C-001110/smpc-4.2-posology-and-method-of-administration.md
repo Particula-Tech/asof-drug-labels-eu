@@ -11,7 +11,7 @@ In most patients, measurable elevations in platelet counts take 1-2 weeks (see s
 
 Chronic immune (idiopathic) thrombocytopenia
 
-The lowest dose of eltrombopag to achieve and maintain a platelet count ≥ 50,000/µl should be used.
+The lowest dose of eltrombopag to achieve and maintain a platelet count ≥50,000/µl should be used.
 Dose adjustments are based upon the platelet count response.
 Do not use eltrombopag to normalise platelet counts.
 In clinical studies, platelet counts generally increased within 1 to 2 weeks after starting eltrombopag and decreased within 1 to 2 weeks after discontinuation.
@@ -20,11 +20,11 @@ For patients of East Asian ancestry, eltrombopag should be initiated at a reduce
 
 Monitoring and dose adjustment
 
-After initiating eltrombopag, adjust the dose to achieve and maintain a platelet count ≥ 50,000/µl as necessary to reduce the risk for bleeding.
+After initiating eltrombopag, adjust the dose to achieve and maintain a platelet count ≥50,000/µl as necessary to reduce the risk for bleeding.
 Do not exceed a dose of 75 mg daily.
 
 Clinical haematology and liver tests should be monitored regularly throughout therapy with eltrombopag and the dose regimen of eltrombopag modified based on platelet counts as outlined in Table 1.
-During therapy with eltrombopag complete blood counts (CBCs), including platelet count and peripheral blood smears, should be assessed weekly until a stable platelet count (≥ 50,000/µl for at least 4 weeks) has been achieved.
+During therapy with eltrombopag complete blood counts (CBCs), including platelet count and peripheral blood smears, should be assessed weekly until a stable platelet count (≥50,000/µl for at least 4 weeks) has been achieved.
 CBCs including platelet counts and peripheral blood smears should be obtained monthly thereafter.
 
 The lowest effective dosing regimen to maintain platelet counts should be used as clinically indicated.
@@ -34,9 +34,9 @@ Table 1 Dose adjustments of eltrombopag in ITP patients
 | Platelet count | Dose adjustment or response |
 | --- | --- |
 | < 50,000/µl following at least 2 weeks of therapy | Increase daily dose by 25 mg to a maximum of 75 mg/day. |
-| ≥ 50,000/µl to ≤ 150,000/µl | Use lowest dose of eltrombopag and/or concomitant ITP treatment to maintain platelet counts that avoid or reduce bleeding. |
-| > 150,000/µl to ≤ 250,000/µl | Decrease the daily dose by 25 mg. Wait 2 weeks to assess the effects of this and any subsequent dose adjustments. |
-| > 250,000/µl | Stop eltrombopag; increase the frequency of platelet monitoring to twice weekly. Once the platelet count is ≤ 100,000/µl, reinitiate therapy at a daily dose reduced by 25 mg. |
+| ≥50,000/µl to ≤150,000/µl | Use lowest dose of eltrombopag and/or concomitant ITP treatment to maintain platelet counts that avoid or reduce bleeding. |
+| > 150,000/µl to ≤250,000/µl | Decrease the daily dose by 25 mg. Wait 2 weeks to assess the effects of this and any subsequent dose adjustments. |
+| > 250,000/µl | Stop eltrombopag; increase the frequency of platelet monitoring to twice weekly. Once the platelet count is ≤100,000/µl, reinitiate therapy at a daily dose reduced by 25 mg. |
 
 Eltrombopag can be administered in addition to other ITP medicinal products.
 The dose regimen of concomitant ITP medicinal products should be modified, as medically appropriate, to avoid excessive increases in platelet counts during therapy with eltrombopag.
@@ -86,9 +86,9 @@ Table 2 Dose adjustments of eltrombopag in HCV patients during antiviral therapy
 | Platelet count | Dose adjustment or response |
 | --- | --- |
 | < 50,000/µl following at least 2 weeks of therapy | Increase daily dose by 25 mg to a maximum of 100 mg/day. |
-| ≥ 50,000/µl to ≤ 100,000/µl | Use lowest dose of eltrombopag as necessary to avoid dose reductions of peginterferon |
-| > 100,000/µl to ≤ 150,000/µl | Decrease the daily dose by 25 mg. Wait 2 weeks to assess the effects of this and any subsequent dose adjustments♦. |
-| > 150,000/µl | Stop eltrombopag; increase the frequency of platelet monitoring to twice weekly. Once the platelet count is ≤ 100,000/µl, reinitiate therapy at a daily dose reduced by 25 mg*. |
+| ≥50,000/µl to ≤100,000/µl | Use lowest dose of eltrombopag as necessary to avoid dose reductions of peginterferon |
+| > 100,000/µl to ≤150,000/µl | Decrease the daily dose by 25 mg. Wait 2 weeks to assess the effects of this and any subsequent dose adjustments♦. |
+| > 150,000/µl | Stop eltrombopag; increase the frequency of platelet monitoring to twice weekly. Once the platelet count is ≤100,000/µl, reinitiate therapy at a daily dose reduced by 25 mg*. |
 
 * - For patients taking 25 mg eltrombopag once daily, consideration should be given to reinitiating dosing at 25 mg every other day.
 ♦ - On initiation of antiviral therapy the platelet count may fall, so immediate eltrombopag dose reductions should be avoided.
@@ -109,11 +109,11 @@ Patients with impaired renal function should use eltrombopag with caution and cl
 
 Hepatic impairment
 
-Eltrombopag should not be used in ITP patients with hepatic impairment (Child-Pugh score ≥ 5) unless the expected benefit outweighs the identified risk of portal venous thrombosis (see section 4.4).
+Eltrombopag should not be used in ITP patients with hepatic impairment (Child-Pugh score ≥5) unless the expected benefit outweighs the identified risk of portal venous thrombosis (see section 4.4).
 
 If the use of eltrombopag is deemed necessary for ITP patients with hepatic impairment the starting dose must be 25 mg once daily.
 After initiating the dose of eltrombopag in patients with hepatic impairment wait 3 weeks before increasing the dose.
-No dose adjustment is required for thrombocytopenic patients with chronic HCV and mild hepatic impairment (Child-Pugh score ≤ 6).
+No dose adjustment is required for thrombocytopenic patients with chronic HCV and mild hepatic impairment (Child-Pugh score ≤6).
 Thrombocytopenic patients with chronic HCV should initiate eltrombopag at a dose of 25 mg once daily (see section 5.2).
 After initiating the dose of eltrombopag in patients with hepatic impairment wait 2 weeks before increasing the dose.
 
@@ -147,11 +147,3 @@ Method of administration
 
 Oral use.
 Eltrombopag should be taken at least four hours before or after any products such as antacids, dairy products (or other calcium containing food products), or mineral supplements containing polyvalent cations (e.g. iron, calcium, magnesium, aluminium, selenium and zinc) (see sections 4.5 and 5.2).
-
-[Revolade 50 mg film-coated tablets]
-
-During therapy with eltrombopag complete blood counts (CBCs), including platelet count and peripheral blood smears, should be assessed weekly until a stable platelet count (≥50,000/µl for at least 4 weeks) has been achieved.
-
-[Revolade 75 mg film-coated tablets]
-
-(all sentences already above)
