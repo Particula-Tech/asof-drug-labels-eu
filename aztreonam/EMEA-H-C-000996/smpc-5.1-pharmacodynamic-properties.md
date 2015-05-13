@@ -106,8 +106,16 @@ Over nine 28-day courses of therapy, measures of pulmonary function (FEV1), CFQ-
 However, due to the uncontrolled nature of the study and concomitant medications no conclusion can be drawn on the sustainability of the observed short term benefit over subsequent courses of treatment.
 Paediatric population
 
-A total of 137 paediatric patients aged 6 to 17 years with FEV1 ≤ 75% predicted have received Cayston in Phase 2 and Phase 3 clinical studies.
+A total of 137 paediatric patients aged 6 to 17 years with chronic P. aeruginosa infection and FEV1
+≤ 75% predicted have received Cayston in Phase 2 and Phase 3 clinical studies.
 Paediatric patients had clinical improvements with Cayston as determined by an increase in FEV1, improvement in CFQ-R respiratory symptoms scores and decline in P. aeruginosa sputum density.
-Cayston is indicated for use in paediatric patients aged 6 years and older based on the above clinical experience.
+Cayston is indicated for use in paediatric patients aged 6 years and older with repeated cycles of 28 days on therapy followed by 28 days off Cayston therapy based on the above clinical experience.
+
+In a Phase 2 open-label study (GS-US-205-0162), 105 paediatric patients aged 3 months to < 18 years (24 patients aged 3 months to < 2 years; 25 patients aged 2 to < 6 years; 56 patients aged 6 to
+< 18 years) with CF and documented initial/new onset P. aeruginosa infection/colonisation received Cayston 3 times a day for a single course of 28 days.
+
+Of the 101 patients, all having a positive cultures for P. aeruginosa within 30 days of study enrolment, of whom 56 (55.4%) were free of P. aeruginosa at baseline who completed a 28-day treatment course 89.1% (n = 90) were free of P. aeruginosa at the end of treatment (Day 28) and 75.2% (n = 76) were free of P. aeruginosa 1 month after the end of treatment (Day 56).
+A total of 79 patients who completed a 28-day treatment course and who did not receive an additional antipseudomonal antibiotic during the treatment period were evaluable 6 months after the end of treatment; of these, 58.2%
+(n = 46) remained free of P. aeruginosa throughout this time period.
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with Cayston in one or more subsets of the paediatric population in cystic fibrosis patients with Pseudomonas aeruginosa pulmonary infection/colonisation (see section 4.2 for information on paediatric use).

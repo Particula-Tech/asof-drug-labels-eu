@@ -11,14 +11,16 @@ For the combined Phase 3 placebo-controlled studies, ten minutes following a sin
 Plasma concentrations
 
 Individual patients’ plasma aztreonam concentrations exhibited considerable variability.
+
 One hour following a single dose of 75 mg Cayston (at approximately peak plasma concentration), the mean plasma level in patients with CF was 0.59 µg/ml.
 Mean peak plasma levels at Days 0, 14, and 28 of a course with 75 mg Cayston 3 times a day were 0.55 µg/ml, 0.67 µg/ml, and 0.65 µg/ml, respectively, indicating no systemic accumulation of aztreonam following 3 times a day dosing.
 In contrast, the serum concentration of aztreonam following administration of aztreonam for injection (500 mg) is approximately 54 µg/ml.
 
+Plasma aztreonam concentrations in paediatric patients aged 3 months to < 6 years are comparable to those observed for children > 6 years, adolescents and adults.
+
 Distribution
 
 The protein binding of aztreonam in plasma is approximately 77% at clinically relevant plasma concentrations.
-
 Metabolism
 
 Aztreonam is not extensively metabolised.
@@ -30,6 +32,7 @@ Elimination
 The elimination half-life of aztreonam from serum is approximately 2.1 hours for inhalation administration, similar to what has been reported for aztreonam for injection.
 Approximately 10% of the total Cayston dose is excreted in the urine as unchanged drug, as compared to 60-65% following intravenous administration of aztreonam for injection.
 Systemically absorbed aztreonam is eliminated about equally by active tubular secretion and glomerular filtration.
+
 Pharmacokinetics in special populations
 
 Age and gender

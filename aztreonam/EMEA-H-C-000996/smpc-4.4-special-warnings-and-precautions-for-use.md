@@ -11,11 +11,11 @@ Aztreonam, a monobactam, is only weakly immunogenic.
 Caution is advised when administering Cayston to patients if they have a history of beta-lactam allergy.
 
 The following rare and severe adverse reactions have been reported after parenteral use of other aztreonam containing products: toxic epidermal necrolysis, anaphylaxis, purpura, erythema multiforme, exfoliative dermatitis, urticaria, petechiae, pruritus, diaphoresis.
+
 Bronchospasm
 
-Bronchospasm is a complication associated with nebulised therapies.
-Patients were pre-treated with a bronchodilator before dosing with study therapy.
-In placebo-controlled studies, an acute reduction of ≥ 15% in forced expiratory volume in 1 second (FEV1) following administration of study therapy was observed in 3% of patients treated with Cayston and 4% of patients receiving placebo despite pre-treatment with a bronchodilator before dosing with study therapy.
+Bronchospasm (an acute reduction of ≥ 15% in FEV1) is a complication associated with nebulised therapies.
+Bronchospasm has been reported after Cayston administration (see section 4.8).
 Patients should use a bronchodilator before each dose of Cayston.
 If a case of bronchospasm is suspected to be part of an allergic reaction appropriate measures should be taken (see “allergic reactions” paragraph above).
 

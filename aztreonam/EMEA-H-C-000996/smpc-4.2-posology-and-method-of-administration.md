@@ -18,6 +18,7 @@ The recommended dose for adults is 75 mg three times per 24 hours for 28 days.
 Doses should be taken at least 4 hours apart.
 
 Cayston may be taken in repeated cycles of 28 days on therapy followed by 28 days off Cayston therapy.
+
 Paediatric population
 
 Cayston is indicated in children aged 6 years and older.
@@ -25,9 +26,9 @@ In clinical studies with Cayston patients younger than 6 years of age were exclu
 The safety and efficacy of Cayston in children younger than 6 years of age has not been established.
 The dosing in children aged 6 years and older is the same as for adults.
 Dosage is not based on weight or adjusted for age.
+For currently available data see section 5.1.
 
-Elderly population
-
+Older people
 Clinical studies of Cayston did not include Cayston-treated patients aged 65 years and older to determine whether they respond differently from younger patients.
 If Cayston is to be prescribed to the elderly then the posology is the same as for adults.
 
