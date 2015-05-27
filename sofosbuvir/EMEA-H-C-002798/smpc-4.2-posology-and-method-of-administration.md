@@ -13,7 +13,7 @@ Table 1: Recommended co-administered medicinal product(s) and treatment duration
 
 | Patient population* | Treatment | Duration |
 | --- | --- | --- |
-| Patients with genotype 1, 4, 5 or 6 CHC | Sovaldi + ribavirin + peginterferon alfa | 12 weeksa, b |
+| Patients with genotype 1, 4, 5 or 6 CHC | Sovaldi + ribavirin + peginterferon alfa | 12 weeksa,b |
 |  | Sovaldi + ribavirin Only for use in patients ineligible or intolerant to peginterferon alfa (see section 4.4) | 24 weeks |
 | Patients with genotype 2 CHC | Sovaldi + ribavirin | 12 weeksb |
 | Patients with genotype 3 CHC | Sovaldi + ribavirin + peginterferon alfa | 12 weeksb |
@@ -28,7 +28,7 @@ b. Consideration should be given to potentially extending the duration of therap
 
 c. See Special patient populations – Patients awaiting liver transplantation below.
 
-The dose of ribavirin, when used in combination with Sovaldi, is weight-based (<75 kg = 1,000 mg and ≥75 kg = 1,200 mg) and administered orally in two divided doses with food.
+The dose of ribavirin, when used in combination with Sovaldi is weight-based (<75 kg = 1,000 mg and ≥75 kg = 1,200 mg) and administered orally in two divided doses with food.
 
 Concerning co-administration with other direct-acting antivirals against HCV, see section 4.4.
 
@@ -45,7 +45,7 @@ Table 2: Ribavirin dose modification guideline for co-administration with Sovald
 | Laboratory values | Reduce ribavirin dose to 600 mg/day if: | Discontinue ribavirin if: |
 | --- | --- | --- |
 | Haemoglobin in subjects with no cardiac disease | <10 g/dL | <8.5 g/dL |
-| Haemoglobin in subjects with history of stable cardiac disease | ≥2 g/dL decrease in haemoglobin during any 4 week period treatment | <12 g/dL despite 4 weeks at reduced dose |
+| Haemoglobin in subjects with history of stable cardiac disease | ≥2 g/dL decrease in haemoglobin during any 4 week treatment period | <12 g/dL despite 4 weeks at reduced dose |
 
 Once ribavirin has been withheld due to either a laboratory abnormality or clinical manifestation, an attempt may be made to restart ribavirin at 600 mg daily and further increase the dose to 800 mg daily.
 However, it is not recommended that ribavirin be increased to the original assigned dose (1,000 mg to 1,200 mg daily).

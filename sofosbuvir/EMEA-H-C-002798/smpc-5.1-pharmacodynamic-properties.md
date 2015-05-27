@@ -32,6 +32,7 @@ The sofosbuvir-associated resistance substitution S282T was not detected in any 
 The S282T substitution in NS5B was detected in a single subject receiving Sovaldi monotherapy in a Phase 2 study.
 This subject harboured <1% HCV S282T at baseline and developed S282T (>99%) at 4 weeks post-treatment which resulted in a 13.5-fold change in sofosbuvir EC50 and reduced viral replication capacity.
 The S282T substitution reverted to wild-type over the next 8 weeks and was no longer detectable by deep sequencing at 12 weeks post-treatment.
+
 Two NS5B substitutions, L159F and V321A, were detected in post-treatment relapse samples from multiple genotype 3 HCV infected subjects in the Phase 3 clinical studies.
 No shift in the phenotypic susceptibility to sofosbuvir or ribavirin of subject isolates with these substitutions was detected.
 In addition, S282R and L320F substitutions were detected on treatment by deep sequencing in a pre-transplant subject with a partial treatment response.
@@ -62,9 +63,9 @@ Sustained virologic response (SVR) was the primary endpoint to determine the HCV
 Clinical studies in subjects with genotype 1, 4, 5 and 6 chronic hepatitis C
 Treatment-naïve subjects - NEUTRINO (study 110)
 NEUTRINO was an open-label, single-arm study that evaluated 12 weeks of treatment with sofosbuvir in combination with peginterferon alfa 2a and ribavirin in treatment-naïve subjects with genotype 1, 4, 5 or 6 HCV infection.
-
 Treated subjects (n = 327) had a median age of 54 years (range: 19 to 70); 64% of the subjects were male; 79% were White; 17% were Black; 14% were Hispanic or Latino; mean body mass index was 29 kg/m2 (range: 18 to 56 kg/m2); 78% had baseline HCV RNA greater than 6 log10 IU/mL; 17% had cirrhosis; 89% had HCV genotype 1 and 11% had HCV genotype 4, 5 or 6.
 Table 5 presents the response rates for the treatment group of sofosbuvir + peginterferon alfa + ribavirin.
+
 Table 5: Response rates in study NEUTRINO
 
 |  | SOF+PEG+RBV 12 weeks (n = 327) |
@@ -117,7 +118,7 @@ Table 7: Response rates in study FISSION
 | Genotype 2 | 95% (69/73) | 78% (52/67) |
 | Genotype 3 | 56% (102/183) | 63% (110/176) |
 | Outcome for subjects without SVR12 |  |  |
-| On-treatment virologic failure | <1% (1/256) | 7% (18/243) |
+| On-treatment virologic failure | < 1% (1/256) | 7% (18/243) |
 | Relapseb | 30% (76/252) | 21% (46/217) |
 | Otherc | 3% (8/256) | 7% (17/243) |
 
@@ -250,7 +251,7 @@ Table 14: SVR12 rates for selected subgroups by genotype in study VALENCE
 |  | Genotype 2 SOF+RBV 12 weeks (n = 73) | Genotype 3 SOF+RBV 24 weeks (n = 250) |
 | --- | --- | --- |
 | Treatment-naïve | 97% (31/32) | 93% (98/105) |
-| Non-cirrhotic | 97% (29/30) | 94% (86/92) |
+| Non-cirrhotic | 97% (29/30) | 93% (86/92) |
 | Cirrhotic | 100% (2/2) | 92% (12/13) |
 | Treatment-experienced | 90% (37/41) | 77% (112/145) |
 | Non-cirrhotic | 91% (30/33) | 85% (85/100) |
@@ -344,7 +345,6 @@ Consideration should be given to treating these patients, and potentially extend
 b. These are exploratory or Phase 2 studies.
 The outcomes should be interpreted with caution, as subject numbers are small and SVR rates may be impacted by the selection of patients.
 c. Summary data from both studies.
-
 Table 19: Outcomes by therapeutic regimen and treatment duration, a comparison across studies in genotype 2 HCV infection
 
 | Patient population (Study number/name) | Regimen/Duration | Subgroup | SVR12 rate % (n/N) |
@@ -384,7 +384,6 @@ b. These are exploratory or Phase 2 studies.
 The outcomes should be interpreted with caution, as subject numbers are small and SVR rates may be impacted by the selection of patients.
 In the ELECTRON study (N = 11), the duration of peginterferon alfa ranged from 4-12 weeks in combination with sofosbuvir + ribavirin.
 c. All patients were non-cirrhotic in these two studies.
-
 Table 20: Outcomes by therapeutic regimen and treatment duration, a comparison across studies in genotype 3 HCV infection
 
 | Patient population (Study number/name) | Regimen/Duration | Subgroup | SVR12 rate % (n/N) |

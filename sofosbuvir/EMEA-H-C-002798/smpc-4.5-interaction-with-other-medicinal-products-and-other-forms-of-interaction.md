@@ -30,8 +30,8 @@ Table 3: Interactions between Sovaldi and other medicinal products
 | Rifabutin Rifampicin Rifapentine | Interaction not studied. Expected: ↓ Sofosbuvir ↓ GS-331007 | Co-administration of Sovaldi with rifabutin or rifapentine is expected to decrease the concentration of sofosbuvir, leading to reduced therapeutic effect of Sovaldi. Such co-administration is not recommended. Sovaldi should not be used with rifampicin, a potent intestinal P-gp inducer (see section 4.4). |
 | HERBAL SUPPLEMENTS |  |  |
 | St. John’s wort (Hypericum perforatum) | Interaction not studied. Expected: ↓ Sofosbuvir ↓ GS-331007 | Sovaldi should not be used with St. John’s wort, a potent intestinal P-gp inducer (see section 4.4). |
-| HCV ANTIVIRAL AGENTS: HCV PROTEASE INHIBITORS |  |  |
-| Boceprevir (BOC) Telaprevir (TPV) | Interaction not studied. Expected: ↑ Sofosbuvir (TPV) ↔ Sofosbuvir (BOC) ↔ GS-331007 (TPV or BOC) | No drug-drug interaction data exists regarding the co-administration of Sovaldi with boceprevir or telaprevir. |
+| HCV ANITIVIRAL AGENTS: HCV PROTEASE INHIBITORS |  |  |
+| Boceprevir (BOC) Telaprevir (TPV) | Interaction not studied. Expected: ↑ Sofosbuvir (TPV) ↔ Sofosbuvir (BOC) ↔ GS-331007 (TPV or BOC) | No drug-drug interactio data exists regarding the co-administration of Sovaldi with boceprevir or telaprevir. |
 | NARCOTIC ANALGESICS |  |  |
 | Methadonef (Methadone maintenance therapy [30 to 130 mg/daily]) | R-methadone ↔ Cmax 0.99 (0.85, 1.16) ↔ AUC 1.01 (0.85, 1.21) ↔ Cmin 0.94 (0.77, 1.14) S-methadone ↔ Cmax 0.95 (0.79, 1.13) ↔ AUC 0.95 (0.77, 1.17) ↔ Cmin 0.95 (0.74, 1.22) Sofosbuvir ↓ Cmax 0.95c (0.68, 1.33) ↑ AUC 1.30c (1.00, 1.69) Cmin (NA) GS-331007 ↓ Cmax 0.73c (0.65, 0.83) ↔ AUC 1.04c (0.89, 1.22) Cmin (NA) | No dose adjustment of sofosbuvir or methadone is required when sofosbuvir and methadone are used concomitantly. |
 | IMMUNOSUPPRESSANTS |  |  |
@@ -45,7 +45,7 @@ Table 3: Interactions between Sovaldi and other medicinal products
 | HIV ANTIVIRAL AGENTS: HIV PROTEASE INHIBITORS |  |  |
 | Darunavir boosted with ritonavirf (800/100 mg once daily) | Darunavir ↔ Cmax 0.97 (0.94, 1.01) ↔ AUC 0.97 (0.94, 1.00) ↔ Cmin 0.86 (0.78, 0.96) Sofosbuvir ↑ Cmax 1.45 (1.10, 1.92) ↑ AUC 1.34 (1.12, 1.59) Cmin (NA) GS-331007 ↔ Cmax 0.97 (0.90, 1.05) ↔ AUC 1.24 (1.18, 1.30) Cmin (NA) | No dose adjustment of sofosbuvir or darunavir (ritonavir boosted) is required when sofosbuvir and darunavir are used concomitantly. |
 | HIV ANTIVIRAL AGENTS: INTEGRASE INHIBITORS |  |  |
-| Raltegravirf (400 mg once daily) | Raltegravir ↓ Cmax 0.57 (0.44, 0.75) ↓ AUC 0.73 (0.59, 0.91) ↔ Cmin 0.95 (0.81, 1.12) Sofosbuvir ↔ Cmax 0.87 (0.71, 1.08) ↔ AUC 0.95 (0.82, 1.09) Cmin (NA) GS-331007 ↔ Cmax 1.09 (0.99, 1.20) ↔ AUC 1.03 (0.97, 1.08) Cmin (NA) | No dose adjustment of sofosbuvir or raltegravir is required when sofosbuvir and raltegravir are used concomitantly. |
+| Raltegravirf (400 mg twice daily) | Raltegravir ↓ Cmax 0.57 (0.44, 0.75) ↓ AUC 0.73 (0.59, 0.91) ↔ Cmin 0.95 (0.81, 1.12) Sofosbuvir ↔ Cmax 0.87 (0.71, 1.08) ↔ AUC 0.95 (0.82, 1.09) Cmin (NA) GS-331007 ↔ Cmax 1.09 (0.99, 1.20) ↔ AUC 1.03 (0.97, 1.08) Cmin (NA) | No dose adjustment of sofosbuvir or raltegravir is required when sofosbuvir and raltegravir are used concomitantly. |
 | ORAL CONTRACEPTIVES |  |  |
 | Norgestimate/ethinyl estradiol | Norgestromin ↔ Cmax 1.06 (0.93, 1.22) ↔ AUC 1.05 (0.92, 1.20) Cmin (NA) Norgestrel ↔ Cmax 1.18 (0.99, 1.41) ↔ AUC 1.19 (0.98, 1.44) Cmin (NA) Ethinyl estradiol ↔ Cmax 1.14 (0.96, 1.36) ↔ AUC 1.08 (0.93, 1.25) Cmin (NA) | No dose adjustment of norgestimate/ethinyl estradiol is required when sofosbuvir and norgestimate/ethinyl estradiol are used concomitantly. |
 

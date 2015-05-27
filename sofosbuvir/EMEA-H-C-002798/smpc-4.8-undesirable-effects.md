@@ -15,7 +15,6 @@ The most common adverse drug reactions occurring in subjects receiving sofosbuvi
 The following adverse drug reactions have been identified with sofosbuvir in combination with ribavirin or in combination with peginterferon alfa and ribavirin (Table 4).
 The adverse reactions are listed below by body system organ class and frequency.
 Frequencies are defined as follows: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000) or very rare (<1/10,000).
-
 Table 4: Adverse drug reactions identified with sofosbuvir in combination with ribavirin or peginterferon alfa and ribavirin
 
 Frequency SOFa + RBVb SOF + PEGc + RBV
@@ -27,7 +26,6 @@ Common anaemia
 Metabolism and nutrition disorders:
 Very common decreased appetite
 Common weight decreased
-Frequency SOFa + RBVb SOF + PEGc + RBV
 Psychiatric disorders:
 Very common insomnia insomnia
 Common depression depression, anxiety, agitation

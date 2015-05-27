@@ -1,10 +1,9 @@
 # 5.2 Pharmacokinetic properties
 
 Sofosbuvir is a nucleotide prodrug that is extensively metabolised.
-The active metabolite is not observed.
+The active metabolite is formed in hepatocytes and not observed in plasma.
 The predominant (>90%) metabolite, GS-331007, is inactive.
 It is formed through sequential and parallel pathways to the formation of active metabolite.
-
 Absorption
 The pharmacokinetic properties of sofosbuvir and the predominant circulating metabolite GS-331007 have been evaluated in healthy adult subjects and in subjects with chronic hepatitis C. Following oral administration, sofosbuvir was absorbed quickly and the peak plasma concentration was observed ~0.5-2 hour post-dose, regardless of dose level.
 Peak plasma concentration of GS-331007 was observed between 2 to 4 hours post-dose.
@@ -15,9 +14,12 @@ Effects of food
 Relative to fasting conditions, the administration of a single dose of sofosbuvir with a standardised high fat meal slowed the rate of absorption of sofosbuvir.
 The extent of absorption of sofosbuvir was increased approximately 1.8-fold, with little effect on peak concentration.
 The exposure to GS-331007 was not altered in the presence of a high-fat meal.
+
 Distribution
-Sofosbuvir is not a substrate for hepatic transporters including the organic anion-transporting polypeptide (OATP) 1B1 or 1B3.
-While subject to active tubular secretion, GS-331007 is not a substrate for renal transporters including organic anion transporter (OAT) 1 or 3, or organic cation transporter (OCT) 2.
+Sofosbuvir is not a substrate for hepatic uptake transporters, organic anion-transporting polypeptide (OATP) 1B1 or 1B3, and organic cation transporter (OCT) 1.
+While subject to active tubular secretion, GS-331007 is not a substrate for renal transporters including organic anion transporter (OAT) 1 or 3, OCT2, MRP2, P-gp, BCRP or MATE1.
+Sofosbuvir and GS-331007 are not inhibitors of drug transporters P-gp, BCRP, MRP2, BSEP, OATP1B1, OATP1B3 and OCT1.
+GS-331007 is not an inhibitor of OAT1, OCT2, and MATE1.
 
 Sofosbuvir is approximately 85% bound to human plasma proteins (ex vivo data) and the binding is independent of drug concentration over the range of 1 μg/mL to 20 μg/mL.
 Protein binding of GS-331007 was minimal in human plasma.
@@ -27,6 +29,7 @@ Biotransformation
 Sofosbuvir is extensively metabolised in the liver to form the pharmacologically active nucleoside analog triphosphate GS-461203.
 The metabolic activation pathway involves sequential hydrolysis of the carboxyl ester moiety catalysed by human cathepsin A (CatA) or carboxylesterase 1 (CES1) and phosphoramidate cleavage by histidine triad nucleotide-binding protein 1 (HINT1) followed by phosphorylation by the pyrimidine nucleotide biosynthesis pathway.
 Dephosphorylation results in the formation of nucleoside metabolite GS-331007 that cannot be efficiently rephosphorylated and lacks anti-HCV activity in vitro.
+Sofosbuvir and GS-331007 are not substrates or inhibitors of UGT1A1 or CYP3A4, CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, and CYP2D6 enzymes.
 
 After a single 400 mg oral dose of [14C]-sofosbuvir, sofosbuvir and GS-331007 accounted for approximately 4% and >90% of drug-related material (sum of molecular weight-adjusted AUC of sofosbuvir and its metabolites) systemic exposure, respectively.
 
@@ -39,7 +42,6 @@ The median terminal half-lives of sofosbuvir and GS-331007 were 0.4 and 27 hours
 Linearity/non-linearity
 The dose linearity of sofosbuvir and its primary metabolite, GS-331007, was evaluated in fasted healthy subjects.
 Sofosbuvir and GS-331007 AUCs are near dose proportional over the dose range of 200 mg to 400 mg.
-
 Pharmacokinetics in special populations
 Gender and race
 No clinically relevant pharmacokinetic differences due to gender or race have been identified for sofosbuvir and GS-331007.
@@ -71,5 +73,5 @@ Paediatric population
 The pharmacokinetics of sofosbuvir and GS-331007 in paediatric subjects have not been established (see section 4.2).
 
 Pharmacokinetic/pharmacodynamic relationship(s)
-Efficacy, in terms of rapid virologic response, has been shown to correlate with exposure to sofosbuvir as well as GS-331007.
+Efficacy, in terms of rapid virologic response, has been shown to correlate with exposure to sofosbuvir as well as GS 331007.
 However, neither of these entities has been evidenced to be a general surrogate marker for efficacy (SVR12) at the therapeutic 400 mg dose.
