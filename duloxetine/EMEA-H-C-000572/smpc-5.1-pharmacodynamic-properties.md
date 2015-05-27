@@ -46,6 +46,7 @@ The incidence of relapse during the 6-months double-blind follow-up period was 1
 The efficacy of Cymbalta 30-120 mg (flexible dosing) once a day in elderly patients (>65 years) with generalised anxiety disorder was evaluated in a study that demonstrated statistically significant improvement in the HAM-A total score for duloxetine treated patients compared to placebo treated patients.
 The efficacy and safety of Cymbalta 30-120 mg once daily in elderly patients with generalised anxiety disorder was similar to that seen in studies of younger adult patients.
 However, data on elderly patients exposed to the maximum dose (120 mg per day) are limited and, thus, caution is recommended when using this dose with the elderly population.
+
 Diabetic Peripheral Neuropathic Pain: The efficacy of Cymbalta as a treatment for diabetic neuropathic pain was established in 2 randomised, 12-week, double-blind, placebo-controlled, fixed dose studies in adults (22 to 88 years) having diabetic neuropathic pain for at least 6 months.
 Patients meeting diagnostic criteria for major depressive disorder were excluded from these trials.
 The primary outcome measure was the weekly mean of 24-hour average pain, which was collected in a daily diary by patients on an 11-point Likert scale.
@@ -70,7 +71,7 @@ These two studies included a 10 week placebo and active (fluoxetine) controlled 
 Neither duloxetine (30-120 mg) nor the active control arm (fluoxetine 20-40 mg) statistically separated from placebo on change from baseline to endpoint in the Children´s Depression Rating Scale-Revised (CDRS-R) total score.
 Discontinuation due to adverse events was higher in patients taking duloxetine compared with those treated with fluoxetine, mostly due to nausea.
 During the 10-week acute treatment period, suicidal behaviours were reported (duloxetine 0/333 [0%], fluoxetine 2/225 [0.9%], placebo 1/220 [0.5%]).
-Over the entire 36-week course of the study, 6 out of 333 patients initially randomized to duloxetine and 3 out of 225 patients initially randomized to fluoxetine experienced suicidal behaviour (exposure adjusted incidence 0.039 events per patient year for duloxetine, and 0.026 for fluoxetine).
+Over the entire 36-week course of the study, 6 out of 333 patients initially randomized to duloxetine and 3 out of 225 patients initially randomized to fluoxetine experienced suicidal behaviour (exposure adjusted incidence 0.039 events per patient year for duloxetine and 0.026 for fluoxetine).
 In addition, one patient who transitioned from placebo to duloxetine experienced a suicidal behaviour while taking duloxetine.
 
 A randomised, double-blind, placebo-controlled study was performed in 272 patients aged 7-17 years with generalised anxiety disorder.
@@ -84,7 +85,3 @@ A conclusion on the overall benefit/risk in this age group has not been establis
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Cymbalta in all subsets of the paediatric population in the treatment of major depressive disorder, diabetic neuropathic pain and generalised anxiety disorder.
 See section 4.2 for information on paediatric use.
-
-[Cymbalta 60 mg hard gastro-resistant capsules]
-
-Over the entire 36-week course of the study 6 out of 333 patients initially randomized to duloxetine and 3 out of 225 patients initially randomized to fluoxetine experienced suicidal behaviour (exposure adjusted incidence 0.039 events per patient year for duloxetine and 0.026 for fluoxetine).

@@ -35,7 +35,3 @@ Effects of other medicinal products on duloxetine
 Antacids and H2 antagonists: Co-administration of duloxetine with aluminium- and magnesium-containing antacids or duloxetine with famotidine had no significant effect on the rate or extent of duloxetine absorption after administration of a 40 mg oral dose.
 
 Inducers of CYP1A2: Population pharmacokinetic analyses have shown that smokers have almost 50% lower plasma concentrations of duloxetine compared with non-smokers.
-
-[Cymbalta 60 mg hard gastro-resistant capsules]
-
-Caution is advisable if Cymbalta is used concomitantly with serotonergic agents like SSRIs, SNRIs, tricyclic antidepressants like clomipramine or amitriptyline, MAOIs like moclobemide or linezolid, St John’s wort (Hypericum perforatum), or triptans, tramadol, pethidine and tryptophan (see section 4.4).
