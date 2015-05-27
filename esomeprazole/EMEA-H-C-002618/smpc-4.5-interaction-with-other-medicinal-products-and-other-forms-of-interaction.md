@@ -29,11 +29,11 @@ In high-dose methotrexate administration a temporary withdrawal of esomeprazole 
 
 Tacrolimus
 Concomitant administration of esomeprazole has been reported to increase the serum levels of tacrolimus.
-A reinforced monitoring of tacrolimus concentrations as well as renal function (creatinine clearnce) should be performed, and dosage of tacrolimus adjusted if needed.
+A reinforced monitoring of tacrolimus concentrations as well as renal function (creatinine clearance) should be performed, and dosage of tacrolimus adjusted if needed.
 
 Medicinal products with pH dependent absorption
 Gastric acid suppression during treatment with esomeprazole and other PPIs might decrease or increase the absorption of medicinal products with a gastric pH dependent absorption.
-The absorption of medicinal products such as ketoconazole, itraconazole and erlotinib can decrease during treatment with esomeprazole and the absorption of digoxin can increase during treatment with esomeprazole.
+The absorption of medicinal products taken orally such as ketoconazole, itraconazole and erlotinib can decrease during treatment with esomeprazole and the absorption of digoxin can increase during treatment with esomeprazole.
 
 Concomitant treatment with omeprazole (20 mg daily) and digoxin in healthy subjects increased the bioavailability of digoxin by 10% (up to 30% in two out of ten subjects).
 Digoxin toxicity has been rarely reported.

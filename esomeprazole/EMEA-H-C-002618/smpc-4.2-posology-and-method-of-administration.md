@@ -21,7 +21,7 @@ However, patients with severe liver impairment should be advised by a doctor bef
 Elderly patients (≥65 years old)
 Dose adjustment is not required in elderly patients.
 Paediatric population
-There is no relevant use of NEXIUM Control in the paediatric population below 18 years of age in the indication: “short-term treatment of reflux symptoms (e.g., heartburn and acid regurgitation)”.
+There is no relevant use of Nexium Control in the paediatric population below 18 years of age in the indication: “short-term treatment of reflux symptoms (e.g., heartburn and acid regurgitation)”.
 
 Method of administration
 The tablets should be swallowed whole with half a glass of water.

@@ -10,7 +10,7 @@ Patients should be instructed to consult a doctor if:
 - They are aged over 55 years with new or recently changed symptoms.
 
 Patients with long-term recurrent symptoms of indigestion or heartburn should see their doctor at regular intervals.
-Especially, patients over 55 years taking any non-prescription indigestion or heartburn remedy on a daily basis should inform their pharmacist or doctor.
+Patients over 55 years taking any non-prescription indigestion or heartburn remedy on a daily basis should inform their pharmacist or doctor.
 
 Patients should not take Nexium Control as a long term preventive medicinal product.
 

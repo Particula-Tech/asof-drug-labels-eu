@@ -44,4 +44,4 @@ The investigators’ assessments of heartburn resolution were consistent with th
 The investigators also found esomeprazole to be significantly more effective than placebo in resolving acid regurgitation (58.5% - 63.6% vs placebo 28.3% - 37.4%) during the week 2 evaluation.
 
 Following Overall Treatment Evaluation (OTE) of patients at week 2, 78.0-80.7% of patients on esomeprazole 20 mg, compared to 72.4 – 78.3% for placebo, reported their condition as improved.
-The majority of these rated the importance of this change to be Important to Extremely Important in performing their activities of daily living (79-86% at week 2).
+The majority of these rated the importance of this change to be Important to Extremely Important in performing their activities of daily living (79 - 86% at week 2).

@@ -30,7 +30,7 @@ Linearity/non-linearity
 The pharmacokinetics of esomeprazole has been studied in doses up to 40 mg b.i.d.
 The area under the plasma concentration-time curve increases with repeated administration of esomeprazole.
 This increase is dose-dependent and results in a more than dose proportional increase in AUC after repeated administration.
-This time - and dose-dependency is due to a decrease of first pass metabolism and systemic clearance probably caused by an inhibition of the CYP2C19 enzyme by esomeprazole and/or its sulphone metabolite.
+This time and dose-dependency is due to a decrease of first pass metabolism and systemic clearance probably caused by an inhibition of the CYP2C19 enzyme by esomeprazole and/or its sulphone metabolite.
 
 Special patient populations
 Poor metabolisers
