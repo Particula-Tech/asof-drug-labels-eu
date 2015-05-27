@@ -17,10 +17,11 @@ Therefore, repeated administration of bexarotene may result in an auto-induction
 P450 3A4, such as tamoxifen.
 For example bexarotene may reduce the efficacy of oral contraceptives (see sections 4.4 and 4.6).
 
+Bexarotene may potentially enhance the action of insulin, agents enhancing insulin secretion (e.g. sulfonylureas), or insulin-sensitisers (e.g. thiazolidinediones), resulting in hypoglycaemia (see section 4.4).
+
 Laboratory test interactions: CA125 assay values in patients with ovarian cancer may be accentuated with bexarotene therapy.
 
 Food interactions: in all clinical trials, patients were instructed to take Targretin capsules with or immediately following a meal.
 In one clinical study, plasma bexarotene AUC and Cmax values were substantially higher following the administration of a fat-containing meal versus those following the administration of a glucose solution.
 Because safety and efficacy data from clinical trials are based upon administration with food, it is recommended that Targretin capsules be administered with food.
-
 On the basis of the oxidative metabolism of bexarotene by cytochrome P450 3A4, grapefruit juice may theoretically lead to an increase in plasma bexarotene concentrations.

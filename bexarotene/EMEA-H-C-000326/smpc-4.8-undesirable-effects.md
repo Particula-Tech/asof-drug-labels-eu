@@ -12,6 +12,7 @@ The following Targretin-related adverse reactions were reported during clinical 
 The frequencies of adverse reactions are classified as very common (>1/10), common (>1/100, <1/10), uncommon (>1/1,000, <1/100), rare (>1/10,000, <1/1,000), and very rare (<1/10,000).
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+
 Blood and lymphatic system disorders
 Very common: Leucopenia
 
@@ -79,7 +80,6 @@ Skin2,3, Skin Disorder
 Uncommon: Serous Drainage1, Herpes Simplex, Pustular Rash, Skin Discoloration3 Hair
 
 Disorder1, Nail Disorder1,3
-
 Musculoskeletal and connective tissue disorders
 
 Common: Bone Pain, Arthralgia, Myalgia
@@ -115,6 +115,10 @@ Of these, liver failure, subsequently determined to be not related to bexarotene
 
 Hypothyroidism generally occurs 4-8 weeks after commencement of therapy.
 It may be asymptomatic and responds to treatment with thyroxine and resolves upon withdrawal of treatment.
-
 Bexarotene has a different adverse reaction profile to other oral, non-retinoid X receptor (RXR) - selective retinoids.
 Owing to its primarily RXR-binding activity, bexarotene is less likely to cause mucocutaneous, nail, and hair toxicities; arthralgia; and myalgia; which are frequently reported with retinoic acid receptor (RAR) -binding agents.
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
