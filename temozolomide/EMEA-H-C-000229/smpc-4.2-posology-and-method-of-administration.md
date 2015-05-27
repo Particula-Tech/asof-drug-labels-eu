@@ -16,9 +16,9 @@ TMZ is administered orally at a dose of 75 mg/m2 daily for 42 days concomitant w
 No dose reductions are recommended, but delay or discontinuation of TMZ administration should be decided weekly according to haematological and non-haematological toxicity criteria.
 TMZ administration can be continued throughout the 42 day concomitant period (up to 49 days) if all of the following conditions are met:
 
-- absolute neutrophil count (ANC) ≥ 1.5 x 109/l
-- thrombocyte count ≥ 100 x 109/l
-- common toxicity criteria (CTC) non-haematological toxicity ≤ Grade 1 (except for alopecia, nausea and vomiting).
+- absolute neutrophil count (ANC) ≥1.5 x 109/l
+- thrombocyte count ≥100 x 109/l
+- common toxicity criteria (CTC) non-haematological toxicity ≤Grade 1 (except for alopecia, nausea and vomiting).
 
 During treatment a complete blood count should be obtained weekly.
 TMZ administration should be temporarily interrupted or permanently discontinued during the concomitant phase according to the haematological and non-haematological toxicity criteria as noted in Table 1.
@@ -26,17 +26,17 @@ TMZ administration should be temporarily interrupted or permanently discontinued
 | Table 1. TMZ dosing interruption or discontinuation during concomitant radiotherapy and TMZ |  |  |
 | --- | --- | --- |
 | Toxicity | TMZ interruptiona | TMZ discontinuation |
-| Absolute neutrophil count | ≥ 0.5 and < 1.5 x 109/l | < 0.5 x 109/l |
-| Thrombocyte count | ≥ 10 and < 100 x 109/l | < 10 x 109/l |
+| Absolute neutrophil count | ≥0.5 and < 1.5 x 109/l | < 0.5 x 109/l |
+| Thrombocyte count | ≥10 and < 100 x 109/l | < 10 x 109/l |
 | CTC non-haematological toxicity (except for alopecia, nausea, vomiting) | CTC Grade 2 | CTC Grade 3 or 4 |
 
-a: Treatment with concomitant TMZ can be continued when all of the following conditions are met: absolute neutrophil count ≥ 1.5 x 109/l; thrombocyte count ≥ 100 x 109/l; CTC non-haematological toxicity ≤ Grade 1 (except for alopecia, nausea, vomiting).
+a: Treatment with concomitant TMZ can be continued when all of the following conditions are met: absolute neutrophil count ≥1.5 x 109/l; thrombocyte count ≥100 x 109/l; CTC non-haematological toxicity ≤Grade 1 (except for alopecia, nausea, vomiting).
 
 Monotherapy phase
 
 Four weeks after completing the TMZ + RT concomitant phase, TMZ is administered for up to 6 cycles of monotherapy treatment.
 Dose in Cycle 1 (monotherapy) is 150 mg/m2 once daily for 5 days followed by 23 days without treatment.
-At the start of Cycle 2, the dose is escalated to 200 mg/m2 if the CTC non-haematological toxicity for Cycle 1 is Grade ≤ 2 (except for alopecia, nausea and vomiting), absolute neutrophil count (ANC) is ≥ 1.5 x 109/l, and the thrombocyte count is ≥ 100 x 109/l.
+At the start of Cycle 2, the dose is escalated to 200 mg/m2 if the CTC non-haematological toxicity for Cycle 1 is Grade ≤2 (except for alopecia, nausea and vomiting), absolute neutrophil count (ANC) is ≥1.5 x 109/l, and the thrombocyte count is ≥100 x 109/l.
 If the dose was not escalated at Cycle 2, escalation should not be done in subsequent cycles.
 Once escalated, the dose remains at 200 mg/m2 per day for the first 5 days of each subsequent cycle except if toxicity occurs.
 Dose reductions and discontinuations during the monotherapy phase should be applied according to Tables 2 and 3.
@@ -82,7 +82,7 @@ No data are available.
 Patients with hepatic or renal impairment
 
 The pharmacokinetics of TMZ were comparable in patients with normal hepatic function and in those with mild or moderate hepatic impairment.
-No data are available on the administration of TMZ in patients with severe hepatic impairment (Child’s Class C) or with renalimpairment.
+No data are available on the administration of TMZ in patients with severe hepatic impairment (Child’s Class C) or with renal impairment.
 Based on the pharmacokinetic properties of TMZ, it is unlikely that dose reductions are required in patients with severe hepatic impairment or any degree of renal impairment.
 However, caution should be exercised when TMZ is administered in these patients.
 
@@ -101,7 +101,7 @@ If vomiting occurs after the dose is administered, a second dose should not be a
 
 [Temodal 20 mg hard capsules]
 
-Based on the pharmacokinetic properties of TMZ, it is unlikely that dose reductions are required in patients with severe hepatic impairment or any degree of renalimpairment.
+(all sentences already above)
 
 [Temodal 100 mg hard capsules]
 
@@ -124,8 +124,6 @@ Based on the pharmacokinetic properties of TMZ, it is unlikely that dose reducti
 TMZ is administered at a dose of 75 mg/m2 daily for 42 days concomitant with focal radiotherapy (60 Gy administered in 30 fractions).
 
 In patients previously untreated with chemotherapy, TMZ is administered at a dose of 200 mg/m2 once daily for the first 5 days followed by a 23 day treatment interruption (total of 28 days).
-
-No data are available on the administration of TMZ in patients with severe hepatic impairment (Child’s Class C) or with renal impairment.
 
 Temodal 2.5 mg/ml powder for solution for infusion must be administered only by intravenous infusion.
 It must not be given by other routes of administration, such as the intrathecal, intramuscular, or subcutaneous route.

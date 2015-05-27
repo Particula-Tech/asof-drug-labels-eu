@@ -28,7 +28,7 @@ The body is imprinted with "180 mg", the Schering-Plough logo and two stripes.
 
 [Temodal 250 mg hard capsules]
 
-The hard capsules have an opaque white body and cap and are imprinted with black ink.
+The hard capsules have an opaque white body and cap, and are imprinted with black ink.
 The body is imprinted with "250 mg", the Schering-Plough logo and two stripes.
 
 [Temodal 2.5 mg/ml powder for solution for infusion]
