@@ -1,12 +1,15 @@
 # 4.6 Fertility, pregnancy and lactation
 
+Women of childbearing potential
+
+Women of childbearing potential should use effective contraception during treatment with prucalopride
+
 Pregnancy
 
 Experience with prucalopride during pregnancy is limited.
 Cases of spontaneous abortion have been observed during clinical studies, although, in the presence of other risk factors, the relationship to prucalopride is unknown.
 Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryonal/foetal development, parturition or postnatal development (see section 5.3).
 Resolor is not recommended during pregnancy.
-Women of childbearing potential should use effective contraception during treatment with prucalopride.
 
 Breast-feeding
 
