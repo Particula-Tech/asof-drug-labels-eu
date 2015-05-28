@@ -5,6 +5,7 @@ Summary of the safety profile
 The adverse drug reactions (ADRs) most frequently reported in clinical trials with adults were headache, insomnia, sedation/somnolence, parkinsonism, akathisia, tachycardia, tremor, dystonia, upper respiratory tract infection, anxiety, dizziness, weight increased, nausea, agitation, constipation, vomiting, fatigue, depression, dyspepsia, diarrhoea, dry mouth, toothache, musculoskeletal pain, hypertension, asthenia, back pain, electrocardiogram QT prolonged, and cough.
 
 The ADRs that appeared to be dose-related included headache, sedation/somnolence, parkinsonism, akathisia, tachycardia, dystonia, dizziness, tremor, upper respiratory tract infection, dyspepsia, and musculoskeletal pain.
+
 In the schizoaffective disorder studies, a greater proportion of subjects in the total INVEGA dose group who were receiving concomitant therapy with an antidepressant or mood stabiliser experienced adverse events as compared to those subjects treated with INVEGA monotherapy.
 
 Tabulated list of adverse reactions
@@ -25,17 +26,9 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | Nervous system disorders | parkinsonismb, akathisiab, sedation/ somnolence, headache | dystoniab, dizziness, dyskinesiab, tremorb | tardive dyskinesia, convulsione, syncope, psychomotor hyperactivity, dizziness postural, disturbance in attention, dysarthria, dysgeusia, hypoaesthesia, paresthaesia | neuroleptic malignant syndrome, cerebral ischaemia, unresponsive to stimulic, loss of consciousness, depressed level of consciousnessc, diabetic comac balance disorder, coordination abnormal, head titubationc |  |
 | Eye disorders |  | vision blurred | photophobia, conjunctivitis, dry eye | glaucoma, eye movement disorderc, eye rollingc, lacrimation increased, ocular hyperaemia |  |
 | Ear and labyrinth disorders |  |  | vertigo, tinnitus, ear pain |  |  |
+| Cardiac disorders |  | atrioventricular block, conduction disorder, electrocardiogram QT prolonged, bradycardia, tachycardia | sinus arrhythmia, electrocardiogram abnormal, palpitations | atrial fibrillation, postural orthostatic tachycardia syndromec |  |
+| Vascular disorders |  | orthostatic hypotension, hypertension | hypotension | pulmonary embolism, venous thrombosis, ischaemia, flushing |  |
 
-Cardiac atrioventricular sinus arrhythmia, atrial fibrillation,
-disorders block, conduction electrocardiogram postural orthostatic
-disorder, abnormal, palpitations tachycardia syndromec
-electrocardiogram
-QT prolonged,
-bradycardia,
-tachycardia
-Vascular orthostatic hypotension pulmonary embolism,
-disorders hypotension, venous thrombosis,
-hypertension ischaemia, flushing
 Respiratory, pharyngolaryngeal dyspnoea, wheezing, sleep apnoea pulmonary
 thoracic and pain, cough, nasal epistaxis syndrome, congestion
 mediastinal congestion hyperventilation,
@@ -96,10 +89,8 @@ complications
 a Refer to ‘Hyperprolactinaemia’ below.
 b Refer to ‘Extrapyramidal symptoms’ below.
 c Not observed in INVEGA clinical studies but observed in post-marketing environment with paliperidone d In placebo-controlled pivotal trials, diabetes mellitus was reported in 0.05% in INVEGA-treated subjects compared to a rate of 0% in placebo group.
-Overall incidence from all clinical trials was 0.14% in all INVEGA-treated subjects e Insomnia includes: initial insomnia, middle insomnia; Convulsion includes: grand mal convulsion; Oedema includes: generalized oedema, oedema peripheral, pitting oedema.
-Menstrual disorder includes: menstruation irregular, oligomenorrhoea
-
-Undesirable effects noted with risperidone formulations
+Overall incidence from all clinical trials was 0.14% in all INVEGA-treated subjects e Insomnia includes: initial insomnia, middle insomnia; Convulsion includes: grand mal convulsion; Oedema includes: generalised oedema, oedema peripheral, pitting oedema.
+Menstrual disorder includes: menstruation irregular, oligomenorrhoea Undesirable effects noted with risperidone formulations
 Paliperidone is the active metabolite of risperidone, therefore, the adverse reaction profiles of these compounds (including both the oral and injectable formulations) are relevant to one another.
 In addition to the above adverse reactions, the following adverse reactions have been noted with the use of risperdone products and can be expected to occur with INVEGA.
 Nervous system disorders: cerebrovascular disorder
@@ -148,7 +139,7 @@ Extrapyramidal Symptoms (EPS)
 In the short-term, placebo-controlled, fixed-dose adolescent study, the incidence of EPS was higher than placebo for all doses of INVEGA with an increased frequency of EPS at higher doses.
 Across all adolescent studies, EPS was more common in adolescents than in adults for each INVEGA dose.
 
-Weight Gain
+Weight gain
 In the short-term, placebo-controlled, fixed-dose adolescent study, a higher percentage of INVEGA-treated subjects (6-19% depending on dose) had an increase in body weight of ≥7% compared to placebo-treated subjects (2%).
 There was no clear dose relationship.
 In the long-term 2-year study, the subjects who were exposed to INVEGA during both the double-blind and open-label studies reported a modest weight gain (4.9 kg).
@@ -182,6 +173,20 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 Ear and vertigo, tinnitus, ear
 labyrinth pain
 disorders
+Cardiac atrioventricular sinus arrhythmia, atrial fibrillation,
+disorders block, conduction electrocardiogram postural orthostatic
+disorder, abnormal, palpitations tachycardia syndromec
+electrocardiogram
+QT prolonged,
+bradycardia,
+tachycardia
+Vascular orthostatic hypotension pulmonary embolism,
+disorders hypotension, venous thrombosis,
+hypertension ischaemia, flushing
+
+Menstrual disorder includes: menstruation irregular, oligomenorrhoea
+
+Undesirable effects noted with risperidone formulations
 
 [INVEGA 6 mg prolonged-release tablets]
 

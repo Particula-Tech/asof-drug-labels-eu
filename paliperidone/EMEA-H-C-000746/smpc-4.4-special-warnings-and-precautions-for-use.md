@@ -73,10 +73,10 @@ Cerebrovascular adverse reactions
 An approximately 3-fold increased risk of cerebrovascular adverse reactions have been seen in randomised placebo-controlled clinical trials in the dementia population with some atypical antipsychotics, including risperidone, aripiprazole, and olanzapine.
 The mechanism for this increased risk is not known.
 INVEGA should be used with caution in elderly patients with dementia who have risk factors for stroke.
+
 Parkinson’s disease and dementia with Lewy bodies
 Physicians should weigh the risks versus the benefits when prescribing INVEGA to patients with Parkinson’s Disease or Dementia with Lewy Bodies (DLB) since both groups may be at increased risk of Neuroleptic Malignant Syndrome as well as having an increased sensitivity to antipsychotics.
 Manifestation of this increased sensitivity can include confusion, obtundation, postural instability with frequent falls, in addition to extrapyramidal symptoms.
-
 Priapism
 Antipsychotic medicinal products (including risperidone) with α-adrenergic blocking effects have been reported to induce priapism.
 During postmarketing surveillance priapism has also been reported with paliperidone, which is the active metabolite of risperidone.

@@ -31,7 +31,7 @@ In vitro studies have shown that paliperidone is a P-gp substrate and a weak inh
 No in vivo data are available and the clinical relevance is unknown.
 
 Hepatic impairment
-Paliperidone is not extensively metabolized in the liver.
+Paliperidone is not extensively metabolised in the liver.
 In a study in subjects with moderate hepatic impairment (Child-Pugh class B), the plasma concentrations of free paliperidone were similar to those of healthy subjects.
 No data are available in patients with severe hepatic impairment (Child-Pugh class C).
 
