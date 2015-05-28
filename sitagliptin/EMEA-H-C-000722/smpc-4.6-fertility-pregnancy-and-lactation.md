@@ -1,7 +1,7 @@
 # 4.6 Fertility, pregnancy and lactation
 
 Pregnancy
-There are no adequate data from the use of Januvia in pregnant women.
+There are no adequate data from the use of sitagliptin in pregnant women.
 Studies in animals have shown reproductive toxicity at high doses (see section 5.3).
 The potential risk for humans is unknown.
 Due to lack of human data, Januvia should not be used during pregnancy.

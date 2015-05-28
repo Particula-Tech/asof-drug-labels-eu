@@ -3,6 +3,16 @@
 Effects of other medicinal products on sitagliptin
 Clinical data described below suggest that the risk for clinically meaningful interactions by co-administered medicinal products is low.
 
+In vitro studies indicated that the primary enzyme responsible for the limited metabolism of sitagliptin is CYP3A4, with contribution from CYP2C8.
+In patients with normal renal function, metabolism, including via CYP3A4, plays only a small role in the clearance of sitagliptin.
+Metabolism may play a more significant role in the elimination of sitagliptin in the setting of severe renal impairment or end-stage renal disease (ESRD).
+For this reason, it is possible that potent CYP3A4 inhibitors (i.e. ketoconazole, itraconazole, ritonavir, clarithromycin) could alter the phamacokinetics of sitagliptin in patients with severe renal impairment or ESRD.
+The effect of potent CYP3A4 inhibitors in the setting of renal impairment has not been assessed in a clinical study.
+
+In vitro transport studies showed that sitagliptin is a substrate for p-glycoprotein and organic anion transporter-3 (OAT3).
+OAT3 mediated transport of sitagliptin was inhibited in vitro by probenecid, although the risk of clinically meaningful interactions is considered to be low.
+Concomitant administration of OAT3 inhibitors has not been evaluated in vivo.
+
 Metformin: Co-administration of multiple twice-daily doses of 1,000 mg metformin with 50 mg sitagliptin did not meaningfully alter the pharmacokinetics of sitagliptin in patients with type 2 diabetes.
 
 Ciclosporin: A study was conducted to assess the effect of ciclosporin, a potent inhibitor of p-glycoprotein, on the pharmacokinetics of sitagliptin.
@@ -11,23 +21,12 @@ These changes in sitagliptin pharmacokinetics were not considered to be clinical
 The renal clearance of sitagliptin was not meaningfully altered.
 Therefore, meaningful interactions would not be expected with other p-glycoprotein inhibitors.
 
-In vitro studies indicated that the primary enzyme responsible for the limited metabolism of sitagliptin is CYP3A4, with contribution from CYP2C8.
-In patients with normal renal function, metabolism, including via CYP3A4, plays only a small role in the clearance of sitagliptin.
-Metabolism may play a more significant role in the elimination of sitagliptin in the setting of severe renal impairment or end-stage renal disease (ESRD).
-For this reason, it is possible that potent CYP3A4 inhibitors (i.e. ketoconazole, itraconazole, ritonavir, clarithromycin) could alter the phamacokinetics of sitagliptin in patients with severe renal impairment or ESRD.
-The effects of potent CYP3A4 inhibitors in the setting of renal impairment has not been assessed in a clinical study.
-
-In vitro transport studies showed that sitagliptin is a substrate for p-glycoprotein and organic anion transporter-3 (OAT3).
-OAT3 mediated transport of sitagliptin was inhibited in vitro by probenecid, although the risk of clinically meaningful interactions is considered to be low.
-Concomitant administration of OAT3 inhibitors has not been evaluated in vivo.
-
 Effects of sitagliptin on other medicinal products
-In vitro data suggest that sitagliptin does not inhibit nor induce CYP450 isoenzymes.
-In clinical studies, sitagliptin did not meaningfully alter the pharmacokinetics of metformin, glyburide, simvastatin, rosiglitazone, warfarin, or oral contraceptives, providing in vivo evidence of a low propensity for causing interactions with substrates of CYP3A4, CYP2C8, CYP2C9, and organic cationic transporter (OCT).
-
-Sitagliptin had a small effect on plasma digoxin concentrations, and may be a mild inhibitor of p-glycoprotein in vivo.
-
 Digoxin: Sitagliptin had a small effect on plasma digoxin concentrations.
-Following administration of 0.25 mg digoxin concomitantly with 100 mg of Januvia daily for 10 days, the plasma AUC of digoxin was increased on average by 11 %, and the plasma Cmax on average by 18 %.
+Following administration of 0.25 mg digoxin concomitantly with 100 mg of sitagliptin daily for 10 days, the plasma AUC of digoxin was increased on average by 11 %, and the plasma Cmax on average by 18 %.
 No dose adjustment of digoxin is recommended.
 However, patients at risk of digoxin toxicity should be monitored for this when sitagliptin and digoxin are administered concomitantly.
+
+In vitro data suggest that sitagliptin does not inhibit nor induce CYP450 isoenzymes.
+In clinical studies, sitagliptin did not meaningfully alter the pharmacokinetics of metformin, glyburide, simvastatin, rosiglitazone, warfarin, or oral contraceptives, providing in vivo evidence of a low propensity for causing interactions with substrates of CYP3A4, CYP2C8, CYP2C9, and organic cationic transporter (OCT).
+Sitagliptin may be a mild inhibitor of p-glycoprotein in vivo.

@@ -3,7 +3,7 @@
 Absorption
 Following oral administration of a 100-mg dose to healthy subjects, sitagliptin was rapidly absorbed, with peak plasma concentrations (median Tmax) occurring 1 to 4 hours post-dose, mean plasma AUC of sitagliptin was 8.52 μM•hr, Cmax was 950 nM.
 The absolute bioavailability of sitagliptin is approximately 87 %.
-Since co-administration of a high-fat meal with Januvia had no effect on the pharmacokinetics, Januvia may be administered with or without food.
+Since co-administration of a high-fat meal with sitagliptin had no effect on the pharmacokinetics, Januvia may be administered with or without food.
 
 Plasma AUC of sitagliptin increased in a dose-proportional manner.
 Dose-proportionality was not established for Cmax and C24hr (Cmax increased in a greater than dose-proportional manner and C24hr increased in a less than dose-proportional manner).
@@ -21,7 +21,6 @@ Six metabolites were detected at trace levels and are not expected to contribute
 In vitro studies indicated that the primary enzyme responsible for the limited metabolism of sitagliptin was CYP3A4, with contribution from CYP2C8.
 
 In vitro data showed that sitagliptin is not an inhibitor of CYP isozymes CYP3A4, 2C8, 2C9, 2D6, 1A2, 2C19 or 2B6, and is not an inducer of CYP3A4 and CYP1A2.
-
 Elimination
 Following administration of an oral [14C]sitagliptin dose to healthy subjects, approximately 100 % of the administered radioactivity was eliminated in faeces (13 %) or urine (87 %) within one week of dosing.
 The apparent terminal t1/2 following a 100-mg oral dose of sitagliptin was approximately 12.4 hours.
@@ -41,7 +40,7 @@ Characteristics in patients
 The pharmacokinetics of sitagliptin were generally similar in healthy subjects and in patients with type 2 diabetes.
 
 Renal impairment
-A single-dose, open-label study was conducted to evaluate the pharmacokinetics of a reduced dose of sitagliptin (50-mg) in patients with varying degrees of chronic renal impairment compared to normal healthy control subjects.
+A single-dose, open-label study was conducted to evaluate the pharmacokinetics of a reduced dose of sitagliptin (50 mg) in patients with varying degrees of chronic renal impairment compared to normal healthy control subjects.
 The study included patients with renal impairment classified on the basis of creatinine clearance as mild (50 to < 80 ml/min), moderate (30 to < 50 ml/min), and severe
 (< 30 ml/min), as well as patients with end-stage renal disease (ESRD) on haemodialysis.
 

@@ -12,6 +12,7 @@ Sitagliptin was not carcinogenic in mice.
 In rats, there was an increased incidence of hepatic adenomas and carcinomas at systemic exposure levels 58 times the human exposure level.
 Since hepatotoxicity has been shown to correlate with induction of hepatic neoplasia in rats, this increased incidence of hepatic tumors in rats was likely secondary to chronic hepatic toxicity at this high dose.
 Because of the high safety margin (19-fold at this no-effect level), these neoplastic changes are not considered relevant for the situation in humans.
+
 No adverse effects upon fertility were observed in male and female rats given sitagliptin prior to and throughout mating.
 
 In a pre-/postnatal development study performed in rats sitagliptin showed no adverse effects.

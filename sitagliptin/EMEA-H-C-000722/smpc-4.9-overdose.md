@@ -1,6 +1,6 @@
 # 4.9 Overdose
 
-During controlled clinical trials in healthy subjects, single doses of up to 800 mg sitagliptin were generally well tolerated.
+During controlled clinical trials in healthy subjects, single doses of up to 800 mg sitagliptin were administered.
 Minimal increases in QTc, not considered to be clinically relevant, were observed in one study at a dose of 800 mg sitagliptin.
 There is no experience with doses above 800 mg in clinical studies.
 In Phase I multiple-dose studies, there were no dose-related clinical adverse reactions observed with sitagliptin with doses of up to 600 mg per day for periods of up to 10 days and 400 mg per day for periods of up to 28 days.
