@@ -7,6 +7,7 @@ Mirvaso is contraindicated in patients receiving monoamine oxidase (MAO) inhibit
 
 The possibility of an additive or potentiating effect with central nervous system depressants
 (alcohol, barbiturates, opiates, sedatives, or anaesthetics) should be considered.
+
 No data on the level of circulating catecholamines after Mirvaso administration are available.
 Caution, however, is advised in patients taking substances which can affect the metabolism and uptake of circulating amines e.g. chlorpromazine, methylphenidate, reserpine.
 

@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Other dermatological preparations, Other dermatologicals, ATC code: D11AX21.
+Pharmacotherapeutic group: Other dermatological preparations, Other dermatologicals,
+ATC code: D11AX21.
 
 Mechanism of action
 Brimonidine is a highly selective alpha2-adrenergic receptor agonist that is 1000-fold more selective for the alpha2-adrenergic receptor than the alpha1-adrenergic receptor.
@@ -13,6 +14,7 @@ The efficacy of Mirvaso in the treatment of moderate to severe facial erythema o
 Moderate to severe erythema was defined as a grade 3 or greater on both the Clinician Erythema Assessment (CEA) scale and Patient Self-Assessment (PSA) scale.
 The studies were conducted in 553 randomised subjects aged 18 years and older who were treated once daily for 4 weeks with either Mirvaso or vehicle.
 Of these, 539 completed 29 days of treatment and had data available to be included in the efficacy analysis at Day 29, with the majority being Caucasians between 18 and 65 years of age.
+
 The primary endpoint was expressed in terms of composite success i.e. subjects responding with a 2-grade reduction on both baseline CEA score and baseline PSA score on Day 29.
 The results from both clinical studies demonstrated that Mirvaso was significantly more effective (p<0.001) in the reduction of facial erythema of rosacea than vehicle gel when applied once daily for 29 days (primary endpoint, see Table 2).
 For the population subset of patients with severe erythema at baseline
@@ -28,11 +30,12 @@ Table 2: Percentage of subjects with a 2-grade improvement in both CEA and PSA
 
 | Success day 29 | Study 1 |  | Study 2 |  |
 | --- | --- | --- | --- | --- |
-|  | Mirvaso Gel n=127 | Vehicle Gel n=128 | Mirvaso Gel n=142 | Vehicle Gel n=142 |
+|  | Mirvaso Gel n=12 7 | Vehicle Gel n=12 8 | Mirvaso Gel n=14 2 | Vehicle Gel n=14 2 |
 | 3 hours after application | 31.5% | 10.9% | 25.4% | 9.2% |
 | 6 hours after application | 30.7% | 9.4% | 25.4% | 9.2% |
+|  | Mirvaso Gel n=12 7 | Vehicle Gel n=12 8 | Mirvaso Gel n=14 2 | Vehicle Gel n=14 2 |
 | 9 hours after application | 26.0% | 10.2% | 17.6% | 10.6% |
-| 12 hours after application | 22.8% | 8.6% | 21.1% | 9.9% |
+| 12 hours after applicatio n | 22.8% | 8.6% | 21.1% | 9.9% |
 | Day 29 p-value | <0.001 | - | <0.001 | - |
 
 Table 3: Percentage of subjects with severe erythema at baseline Day 1 (CEA or PSA grade 4) with 2-grade improvement in both CEA and PSA
@@ -50,14 +53,15 @@ Table 4: Percentage of subjects with a 1-grade improvement in both CEA and PSA
 
 | Success Day 29 | Study 1 |  | Study 2 |  |
 | --- | --- | --- | --- | --- |
-|  | Mirvaso Gel n=127 | Vehicle Gel n=128 | Mirvaso Gel n=142 | Vehicle Gel n=142 |
+|  | Mirvaso Gel n=12 7 | Vehicle Gel n=12 8 | Mirvaso Gel n=14 2 | Vehicle Gel n=14 2 |
 | 3 hours after application | 70.9% | 32.8% | 71.1% | 40.1% |
 | 6 hours after application | 69.3% | 32.0% | 64.8% | 43.0% |
 | 9 hours after application | 63.8% | 29.7% | 66.9% | 39.4% |
-| 12 hours after application | 56.7% | 30.5% | 53.5% | 40.1% |
+| 12 hours after applicatio n | 56.7% | 30.5% | 53.5% | 40.1% |
 | Day 29 p-value | <0.001 | - | <0.001 | - |
 
 No clinically meaningful trends with respect to tachyphylaxis or rebound effects (worsening of baseline erythema after cessation of treatment) were observed with use of Mirvaso for 29 days.
+
 The results from a long term open label study in 449 patients, with continuous treatment for up to one year, confirmed that chronic use of Mirvaso is safe and effective.
 Daily reductions in erythema for the first month of use (as measured with the CEA and PSA scales) were similar to those observed in the controlled trials, and those reductions were achievable for up to 12 months with no apparent loss of effect over time.
 The overall frequencies of adverse reactions in this study are reflected in
