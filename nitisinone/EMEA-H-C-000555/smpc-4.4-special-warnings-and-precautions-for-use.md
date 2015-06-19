@@ -17,3 +17,31 @@ Platelet and white blood cell (WBC) monitoring
 It is recommended that platelet and WBC counts are monitored regularly, as a few cases of reversible thrombocytopenia and leucopenia were observed during clinical evaluation.
 
 Monitoring visits should be performed every 6 months; shorter intervals between visits are recommended in case of adverse events.
+
+[Orfadin 5 mg hard capsules]
+
+(all sentences already above)
+
+[Orfadin 10 mg hard capsules]
+
+(all sentences already above)
+
+[Orfadin 20 mg hard capsules]
+
+(all sentences already above)
+
+[Orfadin 4 mg/ml oral suspension]
+
+Excipients with known effect:
+Glycerol
+Each ml contains 500 mg.
+A dose of 20 ml oral suspension (10 g glycerol) or more may cause headache, stomach upset and diarrhoea.
+
+Sodium
+Each ml contains 0.7 mg (0.03 mmol).
+
+Sodium benzoate
+Each ml contains 1 mg.
+Increase in bilirubin following its displacement from albumin, caused by benzoic acid and its salts, may increase jaundice in pre-term and full-term jaundiced neonates and develop into kernicterus (unconjugated bilirubin deposits in the brain tissue).
+A close monitoring of the plasma levels of bilirubin in the newborn patient is therefore of great importance.
+Bilirubin levels should be measured before start of treatment: in case of markedly elevated plasma levels of bilirubin, especially in premature patients with risk factors as acidosis and low albumin level, treatment with an appropriately weighed portion of an Orfadin capsule should be considered instead of the oral suspension until the unconjugated bilirubin plasma levels are normalised.

@@ -13,3 +13,7 @@ Orfadin 10 mg hard capsules
 [Orfadin 20 mg hard capsules]
 
 Orfadin 20 mg hard capsules
+
+[Orfadin 4 mg/ml oral suspension]
+
+Orfadin 4 mg/ml oral suspension

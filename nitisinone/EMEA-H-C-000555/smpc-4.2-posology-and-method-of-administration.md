@@ -26,4 +26,92 @@ The dose recommendation in mg/kg body weight is the same in children and adults.
 Method of administration
 The capsule may be opened and the content suspended in a small amount of water or formula diet immediately before intake.
 
+Orfadin is also available as a 4 mg/ml oral suspension for paediatric patients who have difficulties swallowing capsules.
+
 It is recommended that if nitisinone treatment is initiated with food, this should be maintained on a routine basis, see section 4.5.
+
+[Orfadin 5 mg hard capsules]
+
+(all sentences already above)
+
+[Orfadin 10 mg hard capsules]
+
+(all sentences already above)
+
+[Orfadin 20 mg hard capsules]
+
+(all sentences already above)
+
+[Orfadin 4 mg/ml oral suspension]
+
+The suspension is administered in the patient’s mouth with an oral syringe without dilution.
+A 1 ml,
+3 ml and 5 ml oral syringes are included in the pack to measure the dose in ml in accordance with the prescribed posology.
+The oral syringes are graduated in 0.01 ml, 0.1 ml and 0.2 ml steps respectively.
+The table below shows the dose conversion (mg/ml) for the three oral syringes sizes.
+
+Dose conversion tables respectively for the three oral syringe sizes:
+
+| 1-ml oral syringe (0.01 ml graduation) | Dose Orfadin |  |
+| --- | --- | --- |
+|  | mg | ml |
+|  | 1.00 | 0.25 |
+|  | 1.25 | 0.31 |
+|  | 1.50 | 0.38 |
+|  | 1.75 | 0.44 |
+|  | 2.00 | 0.50 |
+|  | 2.25 | 0.56 |
+|  | 2.50 | 0.63 |
+|  | 2.75 | 0.69 |
+|  | 3.00 | 0.75 |
+|  | 3.25 | 0.81 |
+|  | 3.50 | 0.88 |
+|  | 3.75 | 0.94 |
+|  | 4.00 | 1.00 |
+
+| 3-ml oral syringe (0.1 ml graduation) | Dose Orfadin |  |
+| --- | --- | --- |
+|  | mg | ml |
+|  | 4.5 | 1.1 |
+|  | 5.0 | 1.3 |
+|  | 5.5 | 1.4 |
+|  | 6.0 | 1.5 |
+|  | 6.5 | 1.6 |
+|  | 7.0 | 1.8 |
+|  | 7.5 | 1.9 |
+|  | 8.0 | 2.0 |
+|  | 8.5 | 2.1 |
+|  | 9.0 | 2.3 |
+|  | 9.5 | 2.4 |
+|  | 10.0 | 2.5 |
+|  | 10.5 | 2.6 |
+|  | 11.0 | 2.8 |
+|  | 11.5 | 2.9 |
+|  | 12.0 | 3.0 |
+
+| 5-ml oral syringe (0.2 ml graduation) | Dose Orfadin |  |
+| --- | --- | --- |
+|  | mg | ml |
+|  | 13.0 | 3.2 |
+|  | 14.0 | 3.6 |
+|  | 15.0 | 3.8 |
+|  | 16.0 | 4.0 |
+|  | 17.0 | 4.2 |
+|  | 18.0 | 4.6 |
+|  | 19.0 | 4.8 |
+|  | 20.0 | 5.0 |
+
+Important information about instructions for use:
+Re-dispersing is required before each use by vigorous shaking.
+Before re-dispersion, the medicinal product may appear as a solid cake with a slightly opalescent supernatant.
+The dose should be withdrawn and administered immediately after re-dispersion.
+It is important to carefully follow the instructions given in section 6.6 for preparation and administration of the dose, in order to ensure the dosing accuracy.
+It is recommended that the healthcare professional advises the patient or care giver how to use the oral syringes to ensure that the correct volume is administered and that the prescription is given in ml.
+
+Orfadin is also available in 2 mg, 5 mg, 10 mg and 20 mg capsules, if considered more suitable for the patient.
+
+It is recommended that the oral suspension is taken with food, see section 4.5.
+
+Precautions to be taken before handling or administering the medicinal product
+No needle, intravenous tubing or any other device for parenteral administration should be attached to the oral syringe.
+Orfadin is for oral use only.

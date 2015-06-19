@@ -15,3 +15,8 @@ White, opaque capsules (6x16 mm) imprinted “NTBC 10mg” in black on the body 
 [Orfadin 20 mg hard capsules]
 
 White, opaque capsules (6x16 mm) imprinted “NTBC 20mg” in black on the body of the capsule.
+
+[Orfadin 4 mg/ml oral suspension]
+
+Oral suspension.
+White, slightly viscous opaque suspension.

@@ -13,3 +13,7 @@ EU/1/04/303/003
 [Orfadin 20 mg hard capsules]
 
 EU/1/04/303/004
+
+[Orfadin 4 mg/ml oral suspension]
+
+EU/1/04/303/005

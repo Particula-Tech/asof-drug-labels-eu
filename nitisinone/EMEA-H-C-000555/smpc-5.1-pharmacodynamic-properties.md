@@ -13,7 +13,6 @@ Pharmacodynamic effects
 Nitisinone treatment leads to normalised porphyrin metabolism with normal erythrocyte porphobilinogen synthase activity and urine 5-aminolevulinate, decreased urinary excretion of succinylacetone, increased plasma tyrosine concentration and increased urinary excretion of phenolic acids.
 Available data from a clinical study indicates that in more than 90% of the patients urine succinylacetone was normalized during the first week of treatment.
 Succinylacetone should not be detectable in urine or plasma when the nitisinone dose is properly adjusted.
-
 Clinical efficacy and safety
 When compared to data for historical controls, it can be seen that treatment with nitisinone together with dietary restriction results in a higher survival probability in all HT-1 phenotypes.
 This is seen in the following table:

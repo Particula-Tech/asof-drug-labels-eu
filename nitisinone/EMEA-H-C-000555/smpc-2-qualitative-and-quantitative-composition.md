@@ -15,3 +15,11 @@ Each capsule contains 10 mg nitisinone.
 [Orfadin 20 mg hard capsules]
 
 Each capsule contains 20 mg nitisinone.
+
+[Orfadin 4 mg/ml oral suspension]
+
+1 ml contains 4 mg of nitisinone.
+
+Excipients with known effect:
+Each ml contains:
+sodium 0.7 mg (0.03 mmol) glycerol 500 mg sodium benzoate 1 mg
