@@ -1,23 +1,32 @@
 # 4.8 Undesirable effects
 
+Tabulated list of adverse reactions
+
 Adverse reactions reported in excess (> 0.5%) of placebo and as more than an isolated case in patients receiving pioglitazone in double-blind studies are listed below as MedDRA preferred term by system organ class and absolute frequency.
 Frequencies are defined as: very common (≥ 1/10); common
 (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to< 1/1,000); very rare
 (< 1/10,000); not known (cannot be estimated from the available data).
-Within each frequency grouping, adverse reactions are presented in order of decreasing incidence and seriousness.
+Within each system organ class, adverse reactions are presented in order of decreasing incidence followed by decreasing seriousness.
+
+| Adverse reaction | Frequency of adverse reactions of pioglitazone by treatment regimen |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Mono-therapy | Combination |  |  |  |  |
+|  |  | with metformin | with sulpho-nylurea |  | with metformin and sulpho-nylurea | with insulin |
+| Infections and infestations |  |  |  |  |  |  |
+| upper respiratory tract infection | common | common | common |  | common | common |
+| bronchitis |  |  |  |  |  | common |
+| sinusitis | uncommon | uncommon | uncommon |  | uncommon | uncommon |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |  |  |  |  |
+| bladder cancer | uncommon | uncommon |  | uncommon | uncommon | uncommon |
+| Blood and lymphatic system disorders |  |  |  |  |  |  |
+| anaemia |  | common |  |  |  |  |
+| Immune System Disorders |  |  |  |  |  |  |
+| hypersensitivity and allergic reactions1 | not known | not known | not known |  | not known | not known |
 
 | Adverse reaction | Frequency of adverse reactions of pioglitazone by treatment regimen |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | Mono-therapy | Combination |  |  |  |
 |  |  | with metformin | with sulpho-nylurea | with metformin and sulpho-nylurea | with insulin |
-| Infections and infestations |  |  |  |  |  |
-| upper respiratory tract infection | common | common | common | common | common |
-| bronchitis |  |  |  |  | common |
-| sinusitis | uncommon | uncommon | uncommon | uncommon | uncommon |
-| Blood and lymphatic system disorders |  |  |  |  |  |
-| anaemia |  | common |  |  |  |
-| Immune System Disorders |  |  |  |  |  |
-| Hypersensitivity and allergic reactions1 | not known | not known | not known | not known | not known |
 | Metabolism and nutrition disorders |  |  |  |  |  |
 | hypo-glycaemia |  |  | uncommon | very common | common |
 | appetite increased |  |  | uncommon |  |  |
@@ -26,41 +35,31 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | headache |  | common | uncommon |  |  |
 | dizziness |  |  | common |  |  |
 | insomnia | uncommon | uncommon | uncommon | uncommon | uncommon |
-
-| Adverse reaction | Frequency of adverse reactions of pioglitazone by treatment regimen |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Mono-therapy | Combination |  |  |  |  |
-|  |  | with metformin | with sulpho-nylurea |  | with metformin and sulpho-nylurea | with insulin |
-| Eye disorders |  |  |  |  |  |  |
-| visual disturbance2 | common | common | uncommon |  |  |  |
-| macular oedema3 | not known | not known | not known |  | not known | not known |
-| Ear and labyrinth disorders |  |  |  |  |  |  |
-| vertigo |  |  | uncommon |  |  |  |
-| Cardiac disorders |  |  |  |  |  |  |
-| heart failure4 |  |  |  |  |  | common |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |  |  |  |  |
-| bladder cancer | uncommon | uncommon |  | uncommon | uncommon | uncommon |
-| Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |  |
-| dyspnoea |  |  |  |  |  | common |
-| Gastrointestinal disorders |  |  |  |  |  |  |
-| flatulence |  | uncommon | common |  |  |  |
-| Skin and subcutaneous tissue disorders |  |  |  |  |  |  |
-| sweating |  |  | uncommon |  |  |  |
-| Musculoskeletal and connective tissue disorders |  |  |  |  |  |  |
-| fracture bone5 | common | common | common |  | common | common |
-| arthralgia |  | common |  |  | common | common |
-| back pain |  |  |  |  |  | common |
-| Renal and urinary disorders |  |  |  |  |  |  |
-| haematuria |  | common |  |  |  |  |
-| glycosuria |  |  | uncommon |  |  |  |
-| proteinuria |  |  | uncommon |  |  |  |
-| Reproductive system and breast disorders |  |  |  |  |  |  |
-| erectile dysfunction |  | common |  |  |  |  |
-
-| Adverse reaction | Frequency of adverse reactions of pioglitazone by treatment regimen |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
+| Eye disorders |  |  |  |  |  |
+| visual disturbance2 | common | common | uncommon |  |  |
+| macular oedema3 | not known | not known | not known | not known | not known |
+| Ear and labyrinth disorders |  |  |  |  |  |
+| vertigo |  |  | uncommon |  |  |
+| Cardiac disorders |  |  |  |  |  |
+| heart failure4 |  |  |  |  | common |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |
+| dyspnoea |  |  |  |  | common |
+| Gastrointestinal disorders |  |  |  |  |  |
+| flatulence |  | uncommon | common |  |  |
+| Skin and subcutaneous tissue disorders |  |  |  |  |  |
+| sweating |  |  | uncommon |  |  |
+| Musculoskeletal and connective tissue disorders |  |  |  |  |  |
+| fracture bone5 | common | common | common | common | common |
+| arthralgia |  | common |  | common | common |
+| back pain |  |  |  |  | common |
 |  | Mono-therapy | Combination |  |  |  |
 |  |  | with metformin | with sulpho-nylurea | with metformin and sulpho-nylurea | with insulin |
+| Renal and urinary disorders |  |  |  |  |  |
+| haematuria |  | common |  |  |  |
+| glycosuria |  |  | uncommon |  |  |
+| proteinuria |  |  | uncommon |  |  |
+| Reproductive system and breast disorders |  |  |  |  |  |
+| erectile dysfunction |  | common |  |  |  |
 | General disorders and administration site conditions |  |  |  |  |  |
 | oedema |  |  |  |  | very common |
 | fatigue |  |  | uncommon |  |  |
@@ -68,7 +67,9 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | weight increased6 | common | common | common | common | common |
 | blood creatine phospho-kinase increased |  |  |  | common |  |
 | increased lactic dehydro-genase |  |  | uncommon |  |  |
-| Alanine aminotransferase increased7 | not known | not known | not known | not known | not known |
+| alanine aminotransferase increased7 | not known | not known | not known | not known | not known |
+
+Description of selected adverse reactions
 
 1 Postmarketing reports of hypersensitivity reactions in patients treated with pioglitazone have been reported.
 These reactions include anaphylaxis, angioedema, and urticaria.
@@ -102,9 +103,13 @@ Mean levels of liver enzymes decreased with treatment with pioglitazone.
 Rare cases of elevated liver enzymes and hepatocellular dysfunction have occurred in post-marketing experience.
 Although in very rare cases fatal outcome has been reported, causal relationship has not been established.
 
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
 [Actos 30 mg tablets]
 
-Adverse reactions reported in excess (≥ 0.5%) of placebo and as more than an isolated case in patients receiving pioglitazone in double-blind studies are listed below as MedDRA preferred term by system organ class and absolute frequency.
 (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare
 
 | Adverse reaction | Frequency of adverse reactions of pioglitazone by treatment regimen |  |  |  |  |
@@ -115,45 +120,39 @@ Adverse reactions reported in excess (≥ 0.5%) of placebo and as more than an i
 | upper respiratory tract infection | common | common | common | common | common |
 | bronchitis |  |  |  |  | common |
 | sinusitis | uncommon | uncommon | uncommon | uncommon | uncommon |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |  |  |  |
+| bladder cancer | uncommon | uncommon | uncommon | uncommon | uncommon |
 | Blood and lymphatic system disorders |  |  |  |  |  |
 | anaemia |  | common |  |  |  |
 | Immune System Disorders |  |  |  |  |  |
-| Hypersensitivity and allergic reactions1 | not known | not known | not known | not known | not known |
+| hypersensitivity and allergic reactions1 | not known | not known | not known | not known | not known |
+|  | Mono-therapy | Combination |  |  |  |
+|  |  | with metformin | with sulpho-nylurea | with metformin and sulpho-nylurea | with insulin |
 | Metabolism and nutrition disorders |  |  |  |  |  |
 | hypo-glycaemia |  |  | uncommon | very common | common |
 | appetite increased |  |  | uncommon |  |  |
-
-| Adverse reaction | Frequency of adverse reactions of pioglitazone by treatment regimen |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Mono-therapy | Combination |  |  |  |  |
-|  |  | with metformin |  | with sulpho-nylurea | with metformin and sulpho-nylurea | with insulin |
-| Nervous system disorders |  |  |  |  |  |  |
-| hypo-aesthesia | common | common |  | common | common | common |
-| headache |  | common |  | uncommon |  |  |
-| dizziness |  |  |  | common |  |  |
-| insomnia | uncommon | uncommon |  | uncommon | uncommon | uncommon |
-| Eye disorders |  |  |  |  |  |  |
-| visual disturbance2 | common | common |  | uncommon |  |  |
-| macular oedema3 | not known | not known |  | not known | not known | not known |
-| Ear and labyrinth disorders |  |  |  |  |  |  |
-| vertigo |  |  |  | uncommon |  |  |
-| Cardiac disorders |  |  |  |  |  |  |
-| heart failure4 |  |  |  |  |  | common |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |  |  |  |  |
-| bladder cancer | uncommon |  | uncommon | uncommon | uncommon | uncommon |
-| Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |  |
-| dyspnoea |  |  |  |  |  | common |
-| Gastrointestinal disorders |  |  |  |  |  |  |
-| flatulence |  | uncommon |  | common |  |  |
-| Skin and subcutaneous tissue disorders |  |  |  |  |  |  |
-| sweating |  |  |  | uncommon |  |  |
-| Musculoskeletal and connective tissue disorders |  |  |  |  |  |  |
-| fracture bone5 | common | common |  | common | common | common |
-| arthralgia |  | common |  |  | common | common |
-| back pain |  |  |  |  |  | common |
-
-| Adverse reaction | Frequency of adverse reactions of pioglitazone by treatment regimen |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
+| Nervous system disorders |  |  |  |  |  |
+| hypo-aesthesia | common | common | common | common | common |
+| headache |  | common | uncommon |  |  |
+| dizziness |  |  | common |  |  |
+| insomnia | uncommon | uncommon | uncommon | uncommon | uncommon |
+| Eye disorders |  |  |  |  |  |
+| visual disturbance2 | common | common | uncommon |  |  |
+| macular oedema3 | not known | not known | not known | not known | not known |
+| Ear and labyrinth disorders |  |  |  |  |  |
+| vertigo |  |  | uncommon |  |  |
+| Cardiac disorders |  |  |  |  |  |
+| heart failure4 |  |  |  |  | common |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |
+| dyspnoea |  |  |  |  | common |
+| Gastrointestinal disorders |  |  |  |  |  |
+| flatulence |  | uncommon | common |  |  |
+| Skin and subcutaneous tissue disorders |  |  |  |  |  |
+| sweating |  |  | uncommon |  |  |
+| Musculoskeletal and connective tissue disorders |  |  |  |  |  |
+| fracture bone5 | common | common | common | common | common |
+| arthralgia |  | common |  | common | common |
+| back pain |  |  |  |  | common |
 |  | Mono-therapy | Combination |  |  |  |
 |  |  | with metformin | with sulpho-nylurea | with metformin and sulpho-nylurea | with insulin |
 | Renal and urinary disorders |  |  |  |  |  |
@@ -169,7 +168,7 @@ Adverse reactions reported in excess (≥ 0.5%) of placebo and as more than an i
 | weight increased6 | common | common | common | common | common |
 | blood creatine phospho-kinase increased |  |  |  | common |  |
 | increased lactic dehydro-genase |  |  | uncommon |  |  |
-| Alanine aminotransferase increased7 | not known | not known | not known | not known | not known |
+| alanine aminotransferase increased7 | not known | not known | not known | not known | not known |
 
 [Actos 45 mg tablets]
 
@@ -181,39 +180,9 @@ Adverse reactions reported in excess (≥ 0.5%) of placebo and as more than an i
 | upper respiratory tract infection | common | common | common | common |  | common |
 | bronchitis |  |  |  |  |  | common |
 | sinusitis | uncommon | uncommon | uncommon | uncommon |  | uncommon |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |  |  |  |  |
+| bladder cancer | uncommon | uncommon | uncommon | uncommon |  | uncommon |
 | Blood and lymphatic system disorders |  |  |  |  |  |  |
 | anaemia |  | common |  |  |  |  |
 | Immune System Disorders |  |  |  |  |  |  |
-| Hypersensitivity and allergic reactions1 | not known | not known | not known |  | not known | not known |
-| Metabolism and nutrition disorders |  |  |  |  |  |  |
-| hypo-glycaemia |  |  | uncommon | very common |  | common |
-| appetite increased |  |  | uncommon |  |  |  |
-
-| Adverse reaction | Frequency of adverse reactions of pioglitazone by treatment regimen |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Mono-therapy | Combination |  |  |  |  |  |  |  |
-|  |  | with metformin |  | with sulpho-nylurea |  | with metformin and sulpho-nylurea |  | with insulin |  |
-| Nervous system disorders |  |  |  |  |  |  |  |  |  |
-| hypo-aesthesia | common | common |  | common |  | common |  | common |  |
-| headache |  | common |  | uncommon |  |  |  |  |  |
-| dizziness |  |  |  | common |  |  |  |  |  |
-| insomnia | uncommon | uncommon |  | uncommon |  | uncommon |  | uncommon |  |
-| Eye disorders |  |  |  |  |  |  |  |  |  |
-| visual disturbance2 | common | common |  | uncommon |  |  |  |  |  |
-| macular oedema3 | not known | not known |  | not known |  | not known |  | not known |  |
-| Ear and labyrinth disorders |  |  |  |  |  |  |  |  |  |
-| vertigo |  |  |  | uncommon |  |  |  |  |  |
-| Cardiac disorders |  |  |  |  |  |  |  |  |  |
-| heart failure4 |  |  |  |  |  |  |  | common |  |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |  |  |  |  |  |  |  |
-| bladder cancer | uncommon |  | uncommon |  | uncommon |  | uncommon |  | uncommon |
-| Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |  |  |  |  |
-| dyspnoea |  |  |  |  |  |  |  | common |  |
-| Gastrointestinal disorders |  |  |  |  |  |  |  |  |  |
-| flatulence |  | uncommon |  | common |  |  |  |  |  |
-| Skin and subcutaneous tissue disorders |  |  |  |  |  |  |  |  |  |
-| sweating |  |  |  | uncommon |  |  |  |  |  |
-| Musculoskeletal and connective tissue disorders |  |  |  |  |  |  |  |  |  |
-| fracture bone5 | common | common |  | common |  | common |  | common |  |
-| arthralgia |  | common |  |  |  | common |  | common |  |
-| back pain |  |  |  |  |  |  |  | common |  |
+| hypersensitivity and allergic reactions1 | not known | not known | not known |  | not known | not known |

@@ -13,6 +13,7 @@ Kaplan-Meier analysis showed shorter time to treatment failure in patients treat
 At two years, glycaemic control (defined as HbA1c < 8.0%) was sustained in 69% of patients treated with pioglitazone, compared with 50% of patients on gliclazide.
 In a two-year study of combination therapy comparing pioglitazone with gliclazide when added to metformin, glycaemic control measured as mean change from baseline in HbA1c was similar between treatment groups after one year.
 The rate of deterioration of HbA1c during the second year was less with pioglitazone than with gliclazide.
+
 In a placebo controlled trial, patients with inadequate glycaemic control despite a three month insulin optimisation period were randomised to pioglitazone or placebo for 12 months.
 Patients receiving pioglitazone had a mean reduction in HbA1c of 0.45% compared with those continuing on insulin alone, and a reduction of insulin dose in the pioglitazone treated group.
 
@@ -30,7 +31,7 @@ In most clinical trials, reduced total plasma triglycerides and free fatty acids
 In clinical trials of up to two years duration, pioglitazone reduced total plasma triglycerides and free fatty acids, and increased HDL cholesterol levels, compared with placebo, metformin or gliclazide.
 Pioglitazone did not cause statistically significant increases in LDL cholesterol levels compared with placebo, whilst reductions were observed with metformin and gliclazide.
 In a 20-week study, as well as reducing fasting triglycerides, pioglitazone reduced post prandial hypertriglyceridaemia through an effect on both absorbed and hepatically synthesised triglycerides.
-These effects were independent of pioglitazone’s effects on glycaemia and were statistically significant different to glibenclamide.
+These effects were independent of pioglitazone’s effects on glycaemia and were statistically significantly different to glibenclamide.
 
 In PROactive, a cardiovascular outcome study, 5238 patients with type 2 diabetes mellitus and pre-existing major macrovascular disease were randomised to pioglitazone or placebo in addition to existing antidiabetic and cardiovascular therapy, for up to 3.5 years.
 The study population had an average age of 62 years; the average duration of diabetes was 9.5 years.
@@ -39,7 +40,6 @@ To be eligible patients had to have had one or more of the following: myocardial
 Almost half of the patients had a previous myocardial infarction and approximately 20% had had a stroke.
 Approximately half of the study population had at least two of the cardiovascular history entry criteria.
 Almost all subjects (95%) were receiving cardiovascular medicinal products (beta blockers, ACE inhibitors, angiotensin II antagonists, calcium channel blockers, nitrates, diuretics, aspirin, statins, fibrates).
-
 Although the study failed regarding its primary endpoint, which was a composite of all-cause mortality, non-fatal myocardial infarction, stroke, acute coronary syndrome, major leg amputation, coronary revascularisation and leg revascularisation, the results suggest that there are no long-term cardiovascular concerns regarding use of pioglitazone.
 However, the incidences of oedema, weight gain and heart failure were increased.
 No increase in mortality from heart failure was observed.

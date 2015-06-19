@@ -21,4 +21,5 @@ Hyperplasia of the urinary bladder was not seen in dogs or monkeys treated with 
 In an animal model of familial adenomatous polyposis (FAP), treatment with two other thiazolidinediones increased tumour multiplicity in the colon.
 The relevance of this finding is unknown.
 
-Environmental Risk Assessment: no environmental impact is anticipated from the clinical use of pioglitazone.
+Environmental Risk Assessment (ERA):
+No environmental impact is anticipated from the clinical use of pioglitazone.

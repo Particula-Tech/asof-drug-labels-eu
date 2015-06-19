@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 Takeda Pharma A/S
-Langebjerg 1
-DK-4000 Roskilde
+Dybendal Alle 10,
+DK-2630 Taastrup
 Denmark
