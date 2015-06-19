@@ -1,0 +1,56 @@
+# 6.6 Special precautions for disposal and other handling
+
+Preparation should be performed by trained personnel in accordance with good practices rules, especially with respect to asepsis.
+
+Preparation and administration
+
+Calculating the dose
+The prescribed dose for the patient is given in mg/kg.
+Based on this prescribed dose, calculate the total dose to be given.
+More than one vial of OPDIVO concentrate may be needed to give the total dose for the patient.
+
+- The total nivolumab dose in mg = the patient’s weight in kg × the prescribed dose in mg/kg.
+- The volume of OPDIVO concentrate to prepare the dose (mL) = the total dose in mg, divided by 10 (the OPDIVO concentrate strength is 10 mg/mL).
+
+Preparing the infusion
+Take care to ensure aseptic handling when you prepare the infusion.
+The infusion should be prepared in a laminar flow hood or safety cabinet using standard precautions for the safe handling of intravenous agents.
+
+OPDIVO can be used for intravenous administration either:
+
+- without dilution, after transfer to an infusion container using an appropriate sterile syringe; or
+- after diluting to concentrations as low as 1 mg/mL.
+  The final infusion concentration should range between 1 and 10 mg/mL.
+  OPDIVO concentrate may be diluted with either:
+  - sodium chloride 9 mg/mL (0.9%) solution for injection; or
+  - 50 mg/mL (5%) glucose solution for injection.
+
+STEP 1
+
+- Inspect the OPDIVO concentrate for particulate matter or discoloration.
+  Do not shake the vial.
+  OPDIVO concentrate is a clear to opalescent, colourless to pale yellow liquid that may contain few light particles.
+- Withdraw the required volume of OPDIVO concentrate using an appropriate sterile syringe.
+
+STEP 2
+
+- Transfer the concentrate into a sterile, evacuated glass bottle or intravenous container (PVC or polyolefin).
+- If applicable, dilute with the required volume of sodium chloride 9 mg/mL (0.9%) solution for injection or 50 mg/mL (5%) glucose solution for injection.
+  Gently mix the infusion by manual rotation.
+  Do not shake.
+
+Administration
+OPDIVO infusion must not be administered as an intravenous push or bolus injection.
+Administer the OPDIVO infusion intravenously over a period of 60 minutes.
+OPDIVO infusion should not be infused at the same time in the same intravenous line with other agents.
+Use a separate infusion line for the infusion.
+
+Use an infusion set and an in-line, sterile, non-pyrogenic, low protein binding filter (pore size of 0.2 μm to 1.2 μm).
+
+OPDIVO infusion is compatible with PVC and polyolefin containers, glass bottles, PVC infusion sets and in-line filters with polyethersulfone membranes with pore sizes of 0.2 µm to 1.2 µm.
+
+After administration of the nivolumab dose, flush the line with sodium chloride 9 mg/mL (0.9%) solution for injection or 50 mg/mL (5%) glucose solution for injection.
+
+Disposal
+Do not store any unused portion of the infusion solution for reuse.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
