@@ -144,6 +144,9 @@ Neoplasms benign, malignant and unspecified (incl. cysts and polyps)
 There does not appear to be an increased risk of malignancy with teriflunomide in the clinical trial experience.
 The risk of malignancy, particularly lymphoproliferative disorders, is increased with use of some other agents that affect the immune system (class effect).
 
+Severe skin reactions
+Cases of severe skins reactions have been reported with teriflunomide post-marketing (see section 4.4).
+
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.

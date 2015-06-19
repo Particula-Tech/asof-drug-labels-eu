@@ -47,10 +47,12 @@ The mean duration of disease, since first symptoms, was 8.0 years.
 A majority of patients (67.2%) had not received disease-modifying therapy during the 2 years before study entry.
 The study results are shown in Table 1.
 
-Table 1 ­ Main Results ( for the approved dose, ITT population)
+Table 1 - Main Results ( for the approved dose, ITT population)
 
 TEMSO-study TOWER-study
-Teriflunomide 14 mg Placebo Teriflunomide 14 mg Placebo
+Teriflunomide Teriflunomide
+Placebo Placebo
+14 mg 14 mg
 N 358 363 370 388
 Clinical Outcomes
 Annualised relapse rate 0.37 0.54 0.32 0.50
@@ -71,9 +73,13 @@ Change relative to placebo 67%∗∗∗
 Mean Number of Gd-
 enhancing lesions at 0.38 1.18
 week 108 Not measured
-Change relative to placebo (CI95%) -0.80 (-1.20, -0.39)∗∗∗∗
-Number of unique active lesions /scan 0.75 2.46
-Change relative to placebo (CI95%) 69%, (59%; 77%)∗∗∗∗
+Change relative to -0.80 (-1.20, -0.39)∗∗∗∗
+placebo (CI95%)
+Number of unique active
+0.75 2.46
+lesions /scan
+Change relative to 69%, (59%; 77%)∗∗∗∗
+placebo (CI95%)
 
 ∗∗∗∗ p<0.0001 ∗∗∗ p<0.001 ∗∗ p<0.01 ∗ p<0.05 compared to placebo
 (1) BOD: burden of disease: total lesion volume (T2 and T1 hypointense) in ml

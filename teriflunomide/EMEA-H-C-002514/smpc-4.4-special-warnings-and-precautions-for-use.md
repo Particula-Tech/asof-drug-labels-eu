@@ -63,8 +63,8 @@ If such effects occur, the accelerated elimination procedure (see above) to redu
 In cases of severe haematological reactions, including pancytopenia, AUBAGIO and any concomitant myelosuppressive treatment must be discontinued and a teriflunomide accelerated elimination procedure should be considered.
 
 Skin reactions
-No cases of severe skins reactions have been reported with teriflunomide in the clinical trials.
-In patients treated with leflunomide, the parent compound, very rare cases of Stevens-Johnson syndrome or toxic epidermal necrolysis and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have been reported.
+Cases of severe skins reactions have been reported with teriflunomide postmarketing.
+In patients treated with leflunomide, the parent compound, very rare cases of Stevens-Johnson syndrome or toxic epidermal necrolysis and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have been reported as well.
 In case of ulcerative stomatitis, teriflunomide administration should be discontinued.
 If skin and /or mucosal reactions are observed which raise the suspicion of severe generalised major skin reactions (Stevens-Johnson syndrome, or toxic epidermal necrolysis-Lyell’s syndrome), teriflunomide and any other possibly associated treatment must be discontinued, and an accelerated procedure initiated immediately.
 In such cases patients should not be re-exposed to teriflunomide (see section 4.3).
