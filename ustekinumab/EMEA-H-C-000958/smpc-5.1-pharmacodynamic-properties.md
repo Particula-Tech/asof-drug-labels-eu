@@ -12,13 +12,13 @@ However, abnormal regulation of IL 12 and IL 23 has been associated with immune 
 
 By binding the shared p40 subunit of IL-12 and IL-23, ustekinumab may exert its clinical effects in both psoriasis and psoriatic arthritis through interruption of the Th1 and Th17 cytokine pathways, which are central to the pathology of these diseases.
 
-Immunization
-During the long term extension of Psoriasis Study 2 (PHOENIX 2), patients treated with STELARA for at least 3.5 years mounted similar antibody responses to both pneumococcal polysaccharide and tetanus vaccines as a non-systemically treated psoriasis control group.
-Similar proportions of patients developed protective levels of anti-pneumococcal and anti-tetanus antibodies and antibody titers were similar among STELARA-treated and control patients.
+Immunisation
+During the long term extension of Psoriasis Study 2 (PHOENIX 2), adult patients treated with STELARA for at least 3.5 years mounted similar antibody responses to both pneumococcal polysaccharide and tetanus vaccines as a non-systemically treated psoriasis control group.
+Similar proportions of adult patients developed protective levels of anti-pneumococcal and anti-tetanus antibodies and antibody titers were similar among STELARA-treated and control patients.
 
 Clinical efficacy
 
-Plaque psoriasis
+Plaque psoriasis (Adults)
 The safety and efficacy of ustekinumab was assessed in 1,996 patients in two randomised, double-blind, placebo-controlled studies in patients with moderate to severe plaque psoriasis and who were candidates for phototherapy or systemic therapy.
 In addition, a randomised, blinded assessor, active-controlled study compared ustekinumab and etanercept in patients with moderate to severe plaque psoriasis who had had an inadequate response to, intolerance to, or contraindication to ciclosporin, MTX, or PUVA.
 
@@ -43,9 +43,9 @@ Baseline disease characteristics were generally consistent across all treatment 
 Approximately one third (Psoriasis Study 1) and one quarter (Psoriasis Study 2) of subjects had Psoriatic Arthritis (PsA).
 Similar disease severity was also seen in Psoriasis Study 3.
 
-The primary endpoint in these studies was the proportion of patients who achieved PASI 75 response from baseline at Week 12 (see Tables 2 and 3).
+The primary endpoint in these studies was the proportion of patients who achieved PASI 75 response from baseline at Week 12 (see Tables 4 and 5).
 
-Table 2 Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psoriasis Study 2 (PHOENIX 2)
+Table 4 Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psoriasis Study 2 (PHOENIX 2)
 
 |  | Week 12 2 doses (Week 0 and Week 4) |  |  | Week 28 3 doses (Week 0, Week 4 and Week 16) |  |
 | --- | --- | --- | --- | --- | --- |
@@ -74,7 +74,7 @@ Table 2 Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psoria
 a p < 0.001 for ustekinumab 45 mg or 90 mg in comparison with placebo (PBO).
 b PGA = Physician Global Assessment
 
-Table 3 Summary of clinical response at Week 12 in Psoriasis Study 3 (ACCEPT)
+Table 5 Summary of clinical response at Week 12 in Psoriasis Study 3 (ACCEPT)
 
 |  | Psoriasis Study 3 |  |  |
 | --- | --- | --- | --- |
@@ -97,8 +97,8 @@ In Psoriasis Study 1 maintenance of PASI 75 was significantly superior with cont
 Similar results were seen with each dose of ustekinumab.
 At 1 year (Week 52), 89% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 63% of patients re-randomised to placebo (treatment withdrawal) (p < 0.001).
 At 18 months (Week 76), 84% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 19% of patients re-randomised to placebo (treatment withdrawal).
-At 3 years (Week 148), 82% of patients re-randomized to maintenance treatment were PASI 75 responders.
-At 5 years (Week 244), 80% of patients re-randomized to maintenance treatment were PASI 75 responders.
+At 3 years (Week 148), 82% of patients re-randomised to maintenance treatment were PASI 75 responders.
+At 5 years (Week 244), 80% of patients re-randomised to maintenance treatment were PASI 75 responders.
 
 In patients re-randomised to placebo, and who reinitiated their original ustekinumab treatment regimen after loss of ≥50% of PASI improvement 85% regained PASI 75 response within 12 weeks after re-initiating therapy.
 
@@ -108,14 +108,14 @@ Similarly, significant improvements were seen in Psoriasis Study 2 at Week 4 and
 In Psoriasis Study 1, improvements in nail psoriasis (Nail Psoriasis Severity Index), in the physical and mental component summary scores of the SF-36 and in the Itch Visual Analogue Scale (VAS) were also significant in each ustekinumab treatment group compared with placebo.
 In Psoriasis Study 2, the Hospital Anxiety and Depression Scale (HADS) and Work Limitations Questionnaire (WLQ) were also significantly improved in each ustekinumab treatment group compared with placebo.
 
-Psoriatic arthritis (PsA)
+Psoriatic arthritis (PsA) (Adults)
 Ustekinumab has been shown to improve signs and symptoms, physical function and health-related quality of life, and reduce the rate of progression of peripheral joint damage in adult patients with active PsA.
 
 The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double-blind, placebo-controlled studies in patients with active PsA (≥5 swollen joints and ≥5 tender joints) despite non-steroidal anti-inflammatory (NSAID) or disease modifying antirheumatic (DMARD) therapy.
 Patients in these studies had a diagnosis of PsA for at least 6 months.
 Patients with each subtype of PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (39%), spondylitis with peripheral arthritis (28%), asymmetric peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%).
 Over 70% and 40% of the patients in both studies had enthesitis and dactylitis at baseline, respectively.
-Patients were randomized to receive treatment with ustekinumab 45 mg, 90 mg, or placebo subcutaneously at Weeks 0 and 4 followed by every 12 weeks (q12w) dosing.
+Patients were randomised to receive treatment with ustekinumab 45 mg, 90 mg, or placebo subcutaneously at Weeks 0 and 4 followed by every 12 weeks (q12w) dosing.
 Approximately 50% of patients continued on stable doses of MTX
 (≤25 mg/week).
 
@@ -126,14 +126,14 @@ In Study 2, the majority of patients (58%, n = 180) had been previously treated 
 Signs and symptoms
 Treatment with ustekinumab resulted in significant improvements in the measures of disease activity compared to placebo at Week 24.
 The primary endpoint was the percentage of patients who achieved American College of Rheumatology (ACR) 20 response at Week 24.
-The key efficacy results are shown in Table 4 below.
+The key efficacy results are shown in Table 6 below.
 
-Table 4 Number of patients who achieved clinical response in Psoriatic arthritis Study 1 (PSUMMIT I) and Study 2 (PSUMMIT II) at Week 24
+Table 6 Number of patients who achieved clinical response in Psoriatic arthritis Study 1 (PSUMMIT I) and Study 2 (PSUMMIT II) at Week 24
 
 |  | Psoriatic arthritis Study 1 |  |  | Psoriatic arthritis Study 2 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | PBO | 45 mg | 90 mg | PBO | 45 mg | 90 mg |
-| Number of patients randomized | 206 | 205 | 204 | 104 | 103 | 105 |
+| Number of patients randomised | 206 | 205 | 204 | 104 | 103 | 105 |
 | ACR 20 response, N (%) | 47 (23%) | 87 (42%)a | 101 (50%)a | 21 (20%) | 45 (44%)a | 46 (44%)a |
 | ACR 50 response, N (%) | 18 (9%) | 51 (25%)a | 57 (28%)a | 7 (7%) | 18 (17%)b | 24 (23%)a |
 | ACR 70 response, N (%) | 5 (2%) | 25 (12%)a | 29 (14%)a | 3 (3%) | 7 (7%)c | 9 (9%)c |
@@ -188,14 +188,63 @@ In PsA Study 2 there was a significant improvement in Functional Assessment of C
 The proportion of patients achieving a clinically significant improvement in fatigue (4 points in FACIT-F) was also significantly greater in the ustekinumab groups compared with placebo.
 Improvements in FACIT scores were maintained through Week 52.
 Paediatric population
-The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population in moderate to severe plaque psoriasis and juvenile idiopathic arthritis (see section 4.2 for information on paediatric use).
+The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population aged 6 to 11 years in moderate to severe plaque psoriasis and juvenile idiopathic arthritis (see section 4.2 for information on paediatric use).
+
+Paediatric plaque psoriasis
+Ustekinumab has been shown to improve signs and symptoms, and health related quality of life in paediatric patients 12 years and older with plaque psoriasis.
+
+The efficacy of ustekinumab was studied in 110 paediatric patients aged 12 to 17 years with moderate to severe plaque psoriasis in a multicenter, Phase 3, randomised, double blind, placebo controlled study (CADMUS).
+Patients were randomised to receive either placebo (n = 37), or the recommended dose of ustekinumab (see section 4.2; n = 36) or half of the recommended dose of ustekinumab
+(n = 37) by subcutaneous injection at Weeks 0 and 4 followed by every 12 week (q12w) dosing.
+At Week 12, placebo treated patients crossed over to receive ustekinumab.
+
+Patients with PASI ≥12, PGA ≥3 and BSA involvement of at least 10%, who were candidates for systemic therapy or phototherapy, were eligible for the study.
+Approximately 60% of the patients had prior exposure to conventional systemic therapy or phototherapy.
+Approximately 11% of the patients had prior exposure to biologics.
+
+The primary endpoint was the proportion of patients who achieve a PGA score of cleared (0) or minimal (1) at Week 12.
+Secondary endpoints included PASI 75, PASI 90, change from baseline in Children’s Dermatology Life Quality Index (CDLQI), change from baseline in the total scale score of PedsQL (Paediatric Quality of Life Inventory) at Week 12.
+At Week 12, subjects treated with ustekinumab showed significantly greater improvement in their psoriasis and health related quality of life compared with placebo (Table 7).
+
+All patients were followed for efficacy for up to 52 weeks following first administration of study agent.
+The proportion of patients with a PGA score of cleared (0) or minimal (1) and the proportion achieving PASI 75 showed separation between the ustekinumab treated group and placebo at the first post-baseline visit at Week 4, reaching a maximum by Week 12.
+Improvements in PGA, PASI, CDLQI and PedsQL were maintained through Week 52 (Table 7).
+
+Table 7 Summary of primary and secondary endpoints at Week 12 and Week 52
+
+| Paediatric psoriasis study (CADMUS) |  |  |  |
+| --- | --- | --- | --- |
+|  | Week 12 |  | Week 52 |
+|  | Placebo | Recommended dose of Ustekinumab | Recommended dose of Ustekinumab |
+|  | N (%) | N (%) | N (%) |
+| Patients randomised | 37 | 36 | 35 |
+| PGA |  |  |  |
+| PGA of cleared (0) or minimal (1) | 2 (5.4%) | 25 (69.4%)a | 20 (57.1%) |
+| PGA of Cleared (0) | 1 (2.7%) | 17 (47.2%)a | 13 (37.1%) |
+| PASI |  |  |  |
+| PASI 75 responders | 4 (10.8%) | 29 (80.6%)a | 28 (80.0%) |
+| PASI 90 responders | 2 (5.4%) | 22 (61.1%)a | 23 (65.7%) |
+| PASI 100 responders | 1 (2.7%) | 14 (38.9%)a | 13 (37.1%) |
+| CDLQI |  |  |  |
+| CDLQI of 0 or 1b | 6 (16.2%) | 18 (50.0%)c | 20 (57.1%) |
+| PedsQL |  |  |  |
+| Change from baseline Mean (SD)d | 3.35 (10.04) | 8.03 (10.44)e | 7.26 (10.92) |
+
+a p < 0.001 b CDLQI: The CDLQI is a dermatology instrument to assess the effect of a skin problem on the health-related quality of life in the paediatric population.
+CDLQI of 0 or 1 indicates no effect on child’s quality of life.
+c p = 0.002 d PedsQL: The PedsQL Total Scale Score is a general health-related quality of life measure developed for use in children and adolescent populations.
+For the placebo group at Week 12, N = 36 e p = 0.028
+
+During the placebo controlled period through Week 12, the efficacy of both the recommended and half of the recommended dose groups were generally comparable at the primary endpoint (69.4% and 67.6% respectively) although there was evidence of a dose response for higher level efficacy criteria (e.g. PGA of cleared (0), PASI 90).
+Beyond Week 12, efficacy was generally higher and better sustained in the recommended dose group compared with half of the recommended dosage group in which a modest loss of efficacy was more frequently observed toward the end of each 12 week dosing interval.
+The safety profiles of the recommended dose and half of the recommended dose were comparable.
 
 [STELARA 90 mg solution for injection]
 
 |  | Psoriatic arthritis Study 1 |  |  | Psoriatic arthritis Study 2 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | PBO | 45 mg | 90 mg | PBO | 45 mg | 90 mg |
-| Number of patients randomized | 206 | 205 | 204 | 104 | 103 | 105 |
+| Number of patients randomised | 206 | 205 | 204 | 104 | 103 | 105 |
 | ACR 20 response, N (%) | 47 (23%) | 87 (42%)a | 101 (50%)a | 21 (20%) | 45 (44%)a | 46 (44%)a |
 | ACR 50 response, N (%) | 18 (9%) | 51 (25%)a | 57 (28%)a | 7 (7%) | 18 (17%)b | 24 (23%)a |
 | ACR 70 response, N (%) | 5 (2%) | 25 (12%)a | 29 (14%)a | 3 (3%) | 7 (7%)c | 9 (9%)c |

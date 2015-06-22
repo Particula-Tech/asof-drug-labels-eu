@@ -1,19 +1,19 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-The most common adverse reactions (> 5%) in controlled periods of the psoriasis and psoriatic arthritis clinical studies with ustekinumab were nasopharyngitis, headache and upper respiratory tract infection.
+The most common adverse reactions (> 5%) in controlled periods of the adult psoriasis and psoriatic arthritis clinical studies with ustekinumab were nasopharyngitis, headache and upper respiratory tract infection.
 Most were considered to be mild and did not necessitate discontinuation of study treatment.
 The most serious adverse reaction that has been reported for STELARA is serious hypersensitivity reactions including anaphylaxis (see section 4.4).
 
 Tabulated list of adverse reactions
-The safety data described below reflect exposure to ustekinumab in 7 controlled phase 2 and phase 3 studies in 4,135 patients with psoriasis and/or psoriatic arthritis, including 3,256 exposed for at least 6 months, 1,482 exposed for at least 4 years, and 838 exposed for at least 5 years.
+The safety data described below reflect exposure in adults to ustekinumab in 7 controlled phase 2 and phase 3 studies in 4,135 patients with psoriasis and/or psoriatic arthritis, including 3,256 exposed for at least 6 months, 1,482 exposed for at least 4 years, and 838 exposed for at least 5 years.
 
-Table 1 provides a list of adverse reactions from psoriasis and psoriatic arthritis clinical studies as well as adverse reactions reported from post-marketing experience.
-The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥1/10), Common (≥1/100 to < 1/10), Uncommon (≥1/1,000 to < 1/100), Rare (≥1/10,000 to < 1/1,000), Very rare
-(< 1/10,000), not known (cannot be estimated from the available data).
+Table 3 provides a list of adverse reactions from adult psoriasis and psoriatic arthritis clinical studies as well as adverse reactions reported from post-marketing experience.
+The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥1/10), Common (≥1/100 to < 1/10), Uncommon (≥1/1,000 to < 1/100), Rare (≥1/10,000 to
+< 1/1,000), Very rare (< 1/10,000), not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Table 1 List of adverse reactions
+Table 3 List of adverse reactions
 
 System Organ Class Frequency: Adverse reaction
 Infections and infestations Common: Dental infections, upper respiratory tract infection,
@@ -63,7 +63,7 @@ The incidence of non-melanoma skin cancer was 0.65 per 100 patient-years of foll
 
 In the controlled and non-controlled periods of psoriasis and psoriatic arthritis clinical studies, representing 9,848 patient-years of exposure in 4,135 patients, the median follow-up was 1.1 years; 3.2 years for psoriasis studies and 1.0 year for psoriatic arthritis studies.
 Malignancies excluding non-melanoma skin cancers were reported in 55 patients in 9,830 patient-years of follow-up (incidence of 0.56 per 100 patient-years of follow-up for ustekinumab-treated patients).
-This incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the general population (standardized incidence ratio = 0.92 [95% confidence interval: 0.69, 1.20], adjusted for age, gender and race).
+This incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the general population (standardised incidence ratio = 0.92 [95% confidence interval: 0.69, 1.20], adjusted for age, gender and race).
 The most frequently observed malignancies, other than non-melanoma skin cancer, were prostate, melanoma, colorectal and breast cancers.
 The incidence of non-melanoma skin cancer was 0.50 per 100 patient-years of follow-up for ustekinumab-treated patients (49 patients in 9,815 patient-years of follow-up).
 The ratio of patients with basal versus squamous cell skin cancers (4:1) is comparable with the ratio expected in the general population (see section 4.4).
@@ -76,6 +76,11 @@ In clinical studies less than 8% of ustekinumab-treated patients developed antib
 No apparent association between the development of antibodies to ustekinumab and the development of injection site reactions was observed.
 The majority of patients who were positive for antibodies to ustekinumab had neutralizing antibodies.
 Efficacy tended to be lower in patients positive for antibodies to ustekinumab; however, antibody positivity did not preclude a clinical response.
+
+Paediatric population
+Undesirable effects in paediatric patients 12 years and older with plaque psoriasis
+The safety of ustekinumab has been studied in a phase 3 study of 110 patients from 12 to 17 years of age for up to 60 weeks.
+In this study, the adverse events reported were similar to those seen in previous studies in adults with plaque psoriasis.
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

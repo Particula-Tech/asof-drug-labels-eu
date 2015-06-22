@@ -35,6 +35,7 @@ The median CL/F in patients with weight > 100 kg was approximately 55% higher co
 The median V/F in patients with weight > 100 kg was approximately 37% higher as compared to patients with weight ≤100 kg.
 The median trough serum concentrations of ustekinumab in patients with higher weight (> 100 kg) in the 90 mg group were comparable to those in patients with lower weight (≤100 kg) in the 45 mg group.
 Similar results were obtained from a confirmatory population pharmacokinetic analysis using data from patients with psoriatic arthritis.
+
 Special populations
 No pharmacokinetic data are available in patients with impaired renal or hepatic function.
 No specific studies have been conducted in elderly patients.
@@ -42,6 +43,8 @@ No specific studies have been conducted in elderly patients.
 The pharmacokinetics of ustekinumab were generally comparable between Asian and non-Asian patients with psoriasis.
 
 In the population pharmacokinetic analysis, there were no indications of an effect of tobacco or alcohol on the pharmacokinetics of ustekinumab.
+
+Serum ustekinumab concentrations in paediatric psoriasis patients 12 to 17 years of age, treated with the recommended weight-based dose were generally comparable to those in the adult psoriasis population treated with the adult dose, while serum ustekinumab concentrations in paediatric psoriasis patients treated with half of the recommended weight-based dose were generally lower than those in adults.
 
 Regulation of CYP450 enzymes
 The effects of IL-12 or IL-23 on the regulation of CYP450 enzymes were evaluated in an in vitro study using human hepatocytes, which showed that IL-12 and/or IL-23 at levels of 10 ng/mL did not alter human CYP450 enzyme activities (CYP1A2, 2B6, 2C9, 2C19, 2D6, or 3A4; see section 4.5).

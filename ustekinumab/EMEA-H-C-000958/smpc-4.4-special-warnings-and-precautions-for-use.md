@@ -14,6 +14,7 @@ Patients receiving STELARA should be monitored closely for signs and symptoms of
 
 Patients should be instructed to seek medical advice if signs or symptoms suggestive of an infection occur.
 If a patient develops a serious infection, the patient should be closely monitored and STELARA should not be administered until the infection resolves.
+
 Malignancies
 Immunosuppressants like ustekinumab have the potential to increase the risk of malignancy.
 Some patients who received STELARA in clinical studies developed cutaneous and non-cutaneous malignancies (see section 4.8).
