@@ -1,6 +1,6 @@
 # 4.2 Posology and method of administration
 
-Simponi treatment is to be initiated and supervised by qualified physicians experienced in the diagnosis and treatment of rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis or ulcerative colitis.
+Simponi treatment is to be initiated and supervised by qualified physicians experienced in the diagnosis and treatment of rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, non-radiographic axial spondyloarthritis, or ulcerative colitis.
 Patients treated with Simponi should be given the Patient Alert Card.
 
 Posology
@@ -9,17 +9,14 @@ Rheumatoid arthritis
 Simponi 50 mg given once a month, on the same date each month.
 Simponi should be given concomitantly with MTX.
 
-Psoriatic arthritis
-Simponi 50 mg given once a month, on the same date each month.
-
-Ankylosing spondylitis
+Psoriatic arthritis, ankylosing spondylitis, or non-radiographic axial spondyloarthritis
 Simponi 50 mg given once a month, on the same date each month.
 
 For all of the above indications, available data suggest that clinical response is usually achieved within 12 to 14 weeks of treatment (after 3-4 doses).
 Continued therapy should be reconsidered in patients who show no evidence of therapeutic benefit within this time period.
 
 Patients with bodyweight greater than 100 kg
-For all of the above indications, in patients with RA, PsA or AS with a body weight of more than 100 kg who do not achieve an adequate clinical response after 3 or 4 doses, increasing the dose of golimumab to 100 mg once a month may be considered, taking into account the increased risk of certain serious adverse drug reactions with the 100 mg dose compared with the 50 mg dose
+For all of the above indications, in patients with RA, PsA, AS, or nr-Axial SpA with a body weight of more than 100 kg who do not achieve an adequate clinical response after 3 or 4 doses, increasing the dose of golimumab to 100 mg once a month may be considered, taking into account the increased risk of certain serious adverse drug reactions with the 100 mg dose compared with the 50 mg dose
 (see section 4.8).
 Continued therapy should be reconsidered in patients who show no evidence of therapeutic benefit after receiving 3 to 4 additional doses of 100 mg.
 

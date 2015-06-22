@@ -15,6 +15,7 @@ Some of these serious infections have occurred in patients on concomitant immuno
 Patients who develop a new infection while undergoing treatment with Simponi should be monitored closely and undergo a complete diagnostic evaluation.
 Administration of Simponi should be discontinued if a patient develops a new serious infection or sepsis, and appropriate antimicrobial or antifungal therapy should be initiated until the infection is controlled.
 For patients who have resided in or travelled to regions where invasive fungal infections such as histoplasmosis, coccidioidomycosis, or blastomycosis are endemic, the benefits and risks of Simponi treatment should be carefully considered before initiation of Simponi therapy.
+
 Tuberculosis
 There have been reports of tuberculosis in patients receiving Simponi.
 It should be noted that in the majority of these reports, tuberculosis was extrapulmonary presenting as either local or disseminated disease.
@@ -160,6 +161,7 @@ Special populations
 Elderly (≥65 years)
 In the Phase III studies in RA, PsA, AS, and UC, no overall differences in adverse events (AEs), serious adverse events (SAEs), and serious infections in patients age 65 or older who received Simponi were observed compared with younger patients.
 However, caution should be exercised when treating the elderly and particular attention paid with respect to occurrence of infections.
+There were no patients age 45 and over in the nr-Axial SpA study.
 
 Renal and hepatic impairment
 Specific studies of Simponi have not been conducted in patients with renal or hepatic impairment.
@@ -168,7 +170,6 @@ Simponi should be used with caution in subjects with impaired hepatic function (
 Excipients
 Simponi contains sorbitol (E420).
 Patients with rare hereditary problems of fructose intolerance should not take Simponi.
-
 Potential for medication errors
 Simponi is registered in 50 mg and 100 mg strengths for subcutaneous administration.
 It is important that the right strength is used to administer the correct dose as indicated in the posology (see section 4.2).

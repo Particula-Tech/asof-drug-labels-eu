@@ -15,8 +15,8 @@ The systemic clearance of golimumab was estimated to be 6.9 ±2.0 mL/day/kg.
 Terminal half-life value was estimated to be approximately 12 ±3 days in healthy subjects and similar values were observed in patients with RA, PsA, AS, or UC.
 
 When 50 mg golimumab was administered subcutaneously to patients with RA, PsA or AS every 4 weeks, serum concentrations reached steady state by week 12.
-With concomitant use of MTX, treatment with 50 mg golimumab subcutaneous every 4 weeks resulted in a mean (±standard deviation) steady-state trough serum concentration of approximately 0.6 ±0.4 μg/mL in RA patients with active RA despite MTX therapy, and approximately 0.5 ±0.4 μg/mL in patients with active PsA and approximately 0.8 ±0.4 μg/mL in patients with AS.
-
+With concomitant use of MTX, treatment with 50 mg golimumab subcutaneously every 4 weeks resulted in a mean (±standard deviation) steady-state trough serum concentration of approximately 0.6 ±0.4 μg/mL in RA patients with active RA despite MTX therapy, and approximately 0.5 ±0.4 μg/mL in patients with active PsA and approximately 0.8 ±0.4 μg/mL in patients with AS.
+Steady-state trough mean serum golimumab concentrations in patients with nr-Axial SpA were similar to those observed in patients with AS following subcutaneous administration of 50 mg golimumab every 4 weeks.
 Patients with RA, PsA or AS who did not receive concomitant MTX had approximately 30% lower steady-state trough concentrations of golimumab than those who received golimumab with MTX.
 In a limited number of RA patients treated with subcutaneous golimumab over a 6-month period, concomitant use of MTX reduced the apparent clearance of golimumab by approximately 36%.
 However, population pharmacokinetic analysis indicated that concomitant use of NSAIDs, oral corticosteroids or sulfasalazine did not influence the apparent clearance of golimumab.
@@ -26,6 +26,7 @@ Treatment with 50 mg or 100 mg golimumab subcutaneous every 4 weeks during maint
 ± 0.5 μg/mL and 1.8 ± 1.1 μg/mL, respectively.
 
 In UC patients treated with 50 mg or 100 mg golimumab subcutaneously every 4 weeks, concomitant use of immunomodulators did not have a substantial effect on steady-state trough levels of golimumab.
+
 Patients who developed anti-golimumab antibodies generally had low trough steady-state serum concentrations of golimumab (see section 5.1).
 
 Linearity
