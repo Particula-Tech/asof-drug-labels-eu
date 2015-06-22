@@ -36,6 +36,7 @@ The general pharmacokinetic characteristics of omalizumab are similar in these p
 
 Following a single subcutaneous dose in adult and adolescent patients with asthma or CSU, omalizumab was absorbed slowly, reaching peak serum concentrations after an average of 6-8 days.
 In patients with asthma, following multiple doses of omalizumab, areas under the serum concentration-time curve from Day 0 to Day 14 at steady state were up to 6-fold of those after the first dose.
+
 Following doses of 75 mg, 150 mg or 300 mg every 4 weeks in patients with CSU, trough serum concentrations of omalizumab increased proportionally with the dose level.
 
 Based on population pharmacokinetics, distribution of omalizumab was similar in patients with allergic asthma and patients with CSU.
@@ -43,7 +44,6 @@ The apparent volume of distribution in patients with asthma following subcutaneo
 
 Doubling of body weight approximately doubled apparent clearance.
 In CSU patients, based on population pharmacokinetic simulations, omalizumab serum elimination half-life at steady state averaged 24 days and apparent clearance at steady state for a patient of 80 kg weight was 3.0 ml/kg/day.
-
 Patients with asthma: The population pharmacokinetics of omalizumab were analysed to evaluate the effects of demographic characteristics.
 Analyses of these limited data suggest that no dose adjustments are necessary in patients with asthma for age (6-76 years), race/ethnicity, gender or body mass index (see section 4.2).
 

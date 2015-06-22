@@ -9,18 +9,18 @@ Xolair should not be used during pregnancy unless clearly necessary.
 
 Breast-feeding
 It is unknown whether omalizumab is excreted in human milk.
-Available pharmacodynamic/toxicological data in non-human primates have shown excretion of omalizumab into milk.
+Available data in non-human primates have shown excretion of omalizumab into milk (see section 5.3).
 A risk to the newborns/infants cannot be excluded.
 Omalizumab should not be given during breast-feeding.
 
 Fertility
 There are no human fertility data for omalizumab.
-In specifically-designed non-clinical fertility studies, including mating studies, no impairment of male or female fertility was observed following repeated dosing with omalizumab at dose levels up to 75 mg/kg.
+In specifically-designed non-clinical fertility studies in non-human primates, including mating studies, no impairment of male or female fertility was observed following repeated dosing with omalizumab at dose levels up to 75 mg/kg.
 Furthermore, no genotoxic effects were observed in separate non-clinical genotoxicity studies (see section 5.3).
 
 [Xolair 150 mg powder and solvent for solution for injection]
 
-Available pharmacodynamics/toxicological data in non-human primates have shown excretion of omalizumab into milk.
+In specifically-designed non-clinical fertility studies, in non-human primates including mating studies, no impairment of male or female fertility was observed following repeated dosing with omalizumab at dose levels up to 75 mg/kg.
 
 [Xolair 75 mg solution for injection]
 

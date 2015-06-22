@@ -1,10 +1,11 @@
 # 4.8 Undesirable effects
 
-Over 4,400 allergic asthma patients were randomised in controlled efficacy trials with Xolair.
-
+Summary of the safety profile
 During clinical trials in adult and adolescent patients 12 years of age and older, the most commonly reported adverse reactions were injection site reactions, including injection site pain, swelling, erythema and pruritus, and headaches.
-In clinical trials in children 6 to <12 years of age, the most commonly reported adverse reactions suspected of being related to the medicinal product were headache, pyrexia and upper abdominal pain.
+In clinical trials in children 6 to <12 years of age, the most commonly reported adverse reactions were headache, pyrexia and upper abdominal pain.
 Most of the reactions were mild or moderate in severity.
+
+Tabulated list of adverse reactions
 Table 4 lists the adverse reactions recorded in clinical studies in the total safety population treated with Xolair by MedDRA system organ class and frequency.
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 Frequency categories are defined as: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000) and very rare (<1/10,000).
@@ -37,11 +38,13 @@ Table 4: Adverse reactions
 *: Very common in children 6 to <12 years of age
 **: In children 6 to <12 years of age
 
+Description of selected adverse reactions
 Immune system disorders
 For further information, see section 4.4.
+
 Arterial thromboembolic events (ATE)
 In controlled clinical trials and during interim analyses of an observational study, a numerical imbalance of ATE was observed.
-ATE included stroke, transient ischaemic attack, myocardial infarction, unstable angina, and cardiovascular death (including death from unknown cause).
+The definition of the composite endpoint ATE included stroke, transient ischaemic attack, myocardial infarction, unstable angina, and cardiovascular death (including death from unknown cause).
 In the final analysis of the observational study, the rate of ATE per 1,000 patient years was 7.52 (115/15,286 patient years) for Xolair-treated patients and 5.12 (51/9,963 patient years) for control patients.
 In a multivariate analysis controlling for available baseline cardiovascular risk factors, the hazard ratio was 1.32 (95% confidence interval 0.91-1.91).
 In a new analysis of pooled clinical trials, which included all randomised double-blind, placebo-controlled clinical trials lasting 8 or more weeks, the rate of ATE per 1,000 patient years was 2.69 (5/1,856 patient years) for Xolair-treated patients and 2.38 (4/1,680 patient years) for placebo patients (rate ratio 1.13, 95% confidence interval 0.24-5.71).
@@ -63,7 +66,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 [Xolair 150 mg powder and solvent for solution for injection]
 
 Allergic asthma
-
+Summary of safety profile
 During clinical trials in adult and adolescent patients 12 years of age and older, the most commonly reported adverse reactions were injection site reactions, including injection site pain, swelling, erythema, pruritus and headaches.
 
 Table 4: Adverse reactions in allergic asthma
@@ -82,11 +85,8 @@ Table 4: Adverse reactions in allergic asthma
 | Uncommon | Postural hypotension, flushing |
 | Respiratory, thoracic and mediastinal disorders |  |
 | Uncommon Rare Not known | Allergic bronchospasm, coughing Laryngoedema Allergic granulomatous vasculitis (i.e. Churg-Strauss syndrome) |
-
-Gastrointestinal disorders
-
+| Gastrointestinal disorders |  |
 | Common Uncommon | Abdominal pain upper** Dyspeptic signs and symptoms, diarrhoea, nausea |
-| --- | --- |
 | Skin and subcutaneous tissue disorders |  |
 | Uncommon Rare Not known | Photosensitivity, urticaria, rash, pruritus Angioedema Alopecia |
 | Musculoskeletal and connective tissue disorders |  |
@@ -143,7 +143,7 @@ Upper respiratory tract
 infection
 * Despite not showing a 2% difference to placebo, injection site reactions were included as all cases were assessed causally related to study treatment.
 
-Description of safety aspects of special interest pertinent to allergic asthma and CSU indications
+Description of selected adverse reactions pertinent to allergic asthma and CSU indications
 No relevant data was obtained in clinical studies in CSU that would require a modification of the sections below.
 
 In allergic patients at chronic high risk of helminth infection, a placebo-controlled trial showed a slight numerical increase in infection rate with omalizumab that was not statistically significant.

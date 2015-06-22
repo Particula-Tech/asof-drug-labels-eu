@@ -5,14 +5,17 @@ Pharmacotherapeutic group: Drugs for obstructive airway diseases, other systemic
 Omalizumab is a recombinant DNA-derived humanised monoclonal antibody that selectively binds to human immunoglobulin E (IgE).
 The antibody is an IgG1 kappa that contains human framework regions with the complementary-determining regions of a murine parent antibody that binds to IgE.
 
+Mechanism of action
 Omalizumab binds to IgE and prevents binding of IgE to FCεRI (high-affinity IgE receptor), thereby reducing the amount of free IgE that is available to trigger the allergic cascade.
 Treatment of atopic subjects with omalizumab resulted in a marked down-regulation of FCεRI receptors on basophils.
-Furthermore, the in vitro histamine release from basophils isolated from Xolair-treated subjects was reduced by approximately 90% following stimulation with an allergen compared to pre-treatment values.
+
+Pharmacodynamic effects
+The in vitro histamine release from basophils isolated from Xolair-treated subjects was reduced by approximately 90% following stimulation with an allergen compared to pre-treatment values.
 
 In clinical studies, serum free IgE levels were reduced in a dose-dependent manner within one hour following the first dose and maintained between doses.
 One year after discontinuation of Xolair dosing, the IgE levels had returned to pre-treatment levels with no observed rebound in IgE levels after washout of the medicinal product.
 
-Clinical experience
+Clinical efficacy and safety
 Adults and adolescents ≥12 years of age
 The efficacy and safety of Xolair were demonstrated in a 28-week double-blind placebo-controlled study (study 1) involving 419 severe allergic asthmatics, ages 12-79 years, who had reduced lung function (FEV1 40-80% predicted) and poor asthma symptom control despite receiving high dose inhaled corticosteroids and a long-acting beta2-agonist.
 Eligible patients had experienced multiple asthma exacerbations requiring systemic corticosteroid treatment or had been hospitalised or attended an emergency room due to a severe asthma exacerbation in the past year despite continuous treatment with high-dose inhaled corticosteroids and a long-acting beta2-agonist.
@@ -109,16 +112,17 @@ Omalizumab binds to IgE and lowers free IgE levels.
 Subsequently, IgE receptors (FcεRI) on cells down-regulate.
 It is not entirely understood how this results in an improvement of CSU symptoms.
 
+Pharmacodynamic effect
 In clinical studies in CSU patients, maximum suppression of free IgE was observed 3 days after the first subcutaneous dose.
 After repeated dosing once every 4 weeks, pre-dose serum free IgE levels remained stable between 12 and 24 weeks of treatment.
 After discontinuation of Xolair, free IgE levels increased towards pre-treatment levels over a 16-week treatment-free follow-up period.
-Clinical experience in allergic asthma
+Clinical efficacy and safety in allergic asthma
 
 Table 6 includes results in the study 1 population.
 
 Table 6: Results of study 1
 
-Clinical experience in chronic spontaneous urticaria (CSU)
+Clinical efficacy and safety in chronic spontaneous urticaria (CSU)
 The efficacy and safety of Xolair were demonstrated in two randomised, placebo-controlled phase III studies (study 1 and 2) in patients with CSU who remained symptomatic despite H1 antihistamine therapy at the approved dose.
 A third study (study 3) primarily evaluated the safety of Xolair in patients with CSU who remained symptomatic despite treatment with H1 antihistamines at up to four times the approved dose and H2 antihistamine and/or LTRA treatment.
 The three studies enrolled 975 patients aged between 12 and 75 years (mean age 42.3 years; 39 patients 12-17 years, 54 patients ≥65 years; 259 males and 716 females).
@@ -135,6 +139,7 @@ Omalizumab at 300 mg reduced the weekly itch severity score by 8.55 to 9.77 (p <
 Statistically significant results were further observed in the responder rates for UAS7≤6 (at week 12) which were higher for the 300 mg treatment groups, ranging from 52-66% (p<0.0001) compared to 11-19% for the placebo groups, and complete response (UAS7=0) was achieved by 34-44% (p<0.0001) of patients treated with 300 mg compared to 5-9% of patients in the placebo groups.
 Patients in the 300 mg treatment groups achieved the highest mean proportion of angioedema-free days from week 4 to week 12, (91.0-96.1%; p<0.001) compared to the placebo groups (88.1-89.2%).
 Mean change from baseline to week 12 in the overall DLQI for the 300 mg treatment groups was greater (p<0.001) than for placebo showing an improvement ranging from 9.7-10.3 points compared to 5.1-6.1 points for the corresponding placebo groups.
+
 Table 7: Change from baseline to week 12 in weekly itch severity score, studies 1, 2 and 3 (mITT population*)
 
 Omalizumab
@@ -176,11 +181,10 @@ The results were similar in study 3.
 In all three studies the mean weekly itch severity score increased gradually during the 16-week treatment-free follow-up period, consistent with symptom re-occurrence.
 Mean values at the end of the follow-up period were similar to the placebo group, but lower than respective mean baseline values.
 
-Placebo
 Figure 1: Mean weekly itch severity score over time, study 1 (mITT population)
 
 Week 12
-Primary
+Primary Placebo
 Endpoint Omalizumab 300 mg
 15
 10
@@ -192,7 +196,6 @@ Week
 Omalizumab or placebo administered
 
 BOCF=baseline observation carried forward; mITT=modified intention-to-treat population
-
 Efficacy after 24 weeks of treatment
 The magnitude of the efficacy outcomes observed at week 24 of treatment was comparable to that observed at week 12:
 For 300 mg, in studies 1 and 3, the mean decrease from baseline in weekly itch severity score was 9.8 and 8.6, the proportion of patients with UAS7≤6 was 61.7% and 55.6%, and the proportion of patients with complete response (UAS7=0) was 48.1% and 42.5%, respectively, (all p<0.0001, when compared to placebo).
@@ -210,4 +213,5 @@ The responder rates were: 33% at week 12 and 67% at week 24 for UAS7=0, and 56% 
 
 [Xolair 150 mg solution for injection]
 
-(all sentences already above)
+Placebo
+Primary

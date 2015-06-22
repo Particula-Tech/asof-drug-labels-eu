@@ -2,7 +2,7 @@
 
 Powder and solvent for solution for injection.
 
-Xolair is an off-white lyophilised powder.
+Off-white lyophilised powder.
 
 [Xolair 150 mg powder and solvent for solution for injection]
 
