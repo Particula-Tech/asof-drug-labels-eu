@@ -1,4 +1,4 @@
 # 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 26 May 2010
-Date of latest renewal:
+Date of latest renewal: 15 January 2015

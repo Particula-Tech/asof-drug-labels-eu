@@ -5,6 +5,8 @@ The recommended dose of Prolia is 60 mg administered as a single subcutaneous in
 
 Patients must be adequately supplemented with calcium and vitamin D (see section 4.4).
 
+Patients treated with Prolia should be given the package leaflet and the patient reminder card.
+
 Patients with renal impairment
 No dose adjustment is required in patients with renal impairment (see sections 4.4 for recommendations relating to monitoring of calcium).
 

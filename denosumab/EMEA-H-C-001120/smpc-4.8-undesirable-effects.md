@@ -8,6 +8,7 @@ Uncommon cases of cellulitis; rare cases of hypocalcaemia, hypersensitivity, ost
 
 Tabulated list of adverse reactions
 The data in Table 1 below describe adverse reactions reported from Phase II and III clinical trials in patients with osteoporosis and breast or prostate cancer patients receiving hormone ablation; and/or spontaneous reporting.
+
 The following convention has been used for the classification of the adverse reactions (see table 1): very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000) and very rare (< 1/10,000).
 Within each frequency grouping and system organ class, adverse reactions are presented in order of decreasing seriousness.
 
@@ -46,7 +47,7 @@ These cases were predominantly cellulitis.
 Skin infections reported as serious adverse reactions were similar in the placebo (0.6%, 5 out of 845) and the Prolia (0.6%, 5 out of 860) groups in the breast and prostate cancer studies.
 
 Osteonecrosis of the jaw
-In clinical trials in osteoporosis and in breast or prostate cancer patients receiving hormone ablation (12347 patients, 9912 treated ≥ 1 year), ONJ was reported rarely with Prolia (see section 4.4).
+ONJ has been reported rarely, in 14 patients, in clinical trials in osteoporosis and in breast or prostate cancer patients receiving hormone ablation including a total of 19,521 patients (see section 4.4).
 
 Atypical fractures of the femur
 In the osteoporosis clinical trial program, atypical femoral fractures were reported rarely in patients treated with Prolia (see section 4.4).

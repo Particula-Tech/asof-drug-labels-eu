@@ -19,19 +19,23 @@ Patients receiving Prolia may develop skin infections (predominantly cellulitis)
 Patients should be advised to seek prompt medical attention if they develop signs or symptoms of cellulitis.
 
 Osteonecrosis of the Jaw (ONJ)
-ONJ has been reported rarely in clinical studies and in the post marketing setting in patients receiving denosumab at a dose of 60 mg every 6 months for osteoporosis.
-ONJ has been reported commonly in clinical studies in patients with advanced cancer treated with denosumab at the studied dose of 120 mg administered monthly.
+ONJ has been reported rarely in patients receiving Prolia for osteoporosis (see section 4.8).
 
-Known risk factors for ONJ include previous treatment with bisphosphonates, older age, poor oral hygiene, invasive dental procedures (e.g. tooth extractions, dental implants, oral surgery), and co-morbid disorders (e.g. pre-existing dental disease, anaemia, coagulopathy, infection), smoking, a diagnosis of cancer with bone lesions, concomitant therapies (e.g., chemotherapy, antiangiogenic biologics, corticosteroids, radiotherapy to head and neck).
+The start of treatment / new treatment course should be delayed in patients with unhealed open soft tissue lesions in the mouth.
+A dental examination with preventive dentistry and an individual benefit-risk assessment is recommended prior to treatment with Prolia in patients with concomitant risk factors.
 
-It is important to evaluate patients for risk factors for ONJ before starting treatment.
-A dental examination with appropriate preventive dentistry is recommended prior to treatment with Prolia in patients with concomitant risk factors.
-All patients should be encouraged to maintain good oral hygiene, receive routine dental check-ups, and immediately report any oral symptoms such as dental mobility, pain or swelling during treatment with Prolia.
+The following risk factors should be considered when evaluating a patient’s risk of developing ONJ:
 
-While on treatment, patients should avoid invasive dental procedures if possible.
-For patients who develop ONJ while on Prolia therapy, dental surgery may exacerbate the condition.
-The management plan of the individual patients who develop ONJ should be set up in close collaboration between the treating physician and a dentist or oral surgeon with expertise in ONJ.
-Temporary interruption of treatment should be considered until the condition resolves and contributing risk factors are mitigated where possible
+- potency of the medicinal product that inhibits bone resorption (higher risk for highly potent compounds), route of administration (higher risk for parenteral administration) and cumulative dose of bone resorption therapy.
+- cancer, co-morbid conditions (e.g. anaemia, coagulopathies, infection), smoking.
+- concomitant therapies: corticosteroids, chemotherapy, angiogenesis inhibitors, radiotherapy to head and neck.
+- poor oral hygiene, periodontal disease, poorly fitting dentures, history of dental disease, invasive dental procedures e.g. tooth extractions.
+
+All patients should be encouraged to maintain good oral hygiene, receive routine dental check-ups, and immediately report any oral symptoms such as dental mobility, pain or swelling or non-healing of sores or discharge during treatment with Prolia.
+While on treatment, invasive dental procedures should be performed only after careful consideration and be avoided in close proximity to Prolia administration.
+
+The management plan of the patients who develop ONJ should be set up in close collaboration between the treating physician and a dentist or oral surgeon with expertise in ONJ.
+Temporary interruption of treatment should be considered until the condition resolves and contributing risk factors are mitigated where possible.
 
 Atypical fractures of the femur
 Atypical femoral fractures have been reported in patients receiving Prolia (see section 4.8).
