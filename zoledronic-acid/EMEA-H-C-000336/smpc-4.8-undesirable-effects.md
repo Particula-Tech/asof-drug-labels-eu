@@ -117,11 +117,11 @@ Zometa has been associated with reports of renal dysfunction.
 In a pooled analysis of safety data from Zometa registration trials for the prevention of skeletal-related events in patients with advanced malignancies involving bone, the frequency of renal impairment adverse events suspected to be related to Zometa (adverse reactions) was as follows: multiple myeloma (3.2%), prostate cancer (3.1%), breast cancer (4.3%), lung and other solid tumours (3.2%).
 Factors that may increase the potential for deterioration in renal function include dehydration, pre-existing renal impairment, multiple cycles of Zometa or other bisphosphonates, as well as concomitant use of nephrotoxic medicinal products or using a shorter infusion time than currently recommended.
 Renal deterioration, progression to renal failure and dialysis have been reported in patients after the initial dose or a single dose of 4 mg zoledronic acid (see section 4.4).
+
 Osteonecrosis of the jaw
-Cases of osteonecrosis (primarily of the jaws) have been reported, predominantly in cancer patients treated with medicinal products that inhibit bone resorption, such as Zometa.
-Many of these patients had signs of local infection including osteomyelitis, and the majority of the reports refer to cancer patients following tooth extractions or other dental surgeries.
-Osteonecrosis of the jaws has multiple documented risk factors including a diagnosis of cancer, concomitant therapies (e.g. chemotherapy, radiotherapy, corticosteroids) and co-morbid conditions (e.g. anaemia, coagulopathies, infection, pre-existing oral disease).
-Although causality has not been determined, it is recommended to avoid dental surgery as recovery may be prolonged (see section 4.4).
+Cases of osteonecrosis of the jaw have been reported, predominantly in cancer patients treated with medicinal products that inhibit bone resorption, such as Zometa (see section 4.4).
+Many of these patients were also receiving chemotherapy and corticosteroids and had signs of local infection including osteomyelitis.
+The majority of the reports refer to cancer patients following tooth extractions or other dental surgeries.
 
 Atrial fibrillation
 In one 3-year, randomised, double-blind controlled trial that evaluated the efficacy and safety of zoledronic acid 5 mg once yearly vs. placebo in the treatment of postmenopausal osteoporosis (PMO), the overall incidence of atrial fibrillation was 2.5% (96 out of 3,862) and 1.9% (75 out of 3,852) in patients receiving zoledronic acid 5 mg and placebo, respectively.
@@ -153,7 +153,6 @@ This adverse drug reaction consists of a constellation of symptoms that includes
 [Zometa 4 mg/100 ml solution for infusion]
 
 The frequencies for each of these identified risks are shown in Table 2.
-
 The following adverse reactions, listed in Table 2, have been accumulated from clinical studies and post-marketing reports following predominantly chronic treatment with 4 mg zoledronic acid:
 
 Table 2

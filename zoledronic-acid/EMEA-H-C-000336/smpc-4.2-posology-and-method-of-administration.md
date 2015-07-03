@@ -1,6 +1,7 @@
 # 4.2 Posology and method of administration
 
 Zometa must only be prescribed and administered to patients by healthcare professionals experienced in the administration of intravenous bisphosphonates.
+Patients treated with Zometa should be given the package leaflet and the patient reminder card.
 
 Posology
 Prevention of skeletal related events in patients with advanced malignancies involving bone
@@ -14,12 +15,12 @@ The decision to treat patients with bone metastases for the prevention of skelet
 Treatment of TIH
 Adults and older people
 The recommended dose in hypercalcaemia (albumin-corrected serum calcium ≥ 12.0 mg/dl or 3.0 mmol/l) is a single dose of 4 mg zoledronic acid.
-
 Renal impairment
 TIH:
 Zometa treatment in TIH patients who also have severe renal impairment should be considered only after evaluating the risks and benefits of treatment.
 In the clinical studies, patients with serum creatinine > 400 µmol/l or > 4.5 mg/dl were excluded.
 No dose adjustment is necessary in TIH patients with serum creatinine < 400 µmol/l or < 4.5 mg/dl (see section 4.4).
+
 Prevention of skeletal related events in patients with advanced malignancies involving bone:
 When initiating treatment with Zometa in patients with multiple myeloma or metastatic bone lesions from solid tumours, serum creatinine and creatinine clearance (CLcr) should be determined.
 CLcr is calculated from serum creatinine using the Cockcroft-Gault formula.
@@ -56,7 +57,6 @@ Intravenous use.
 Zometa 4 mg powder and solvent for solution for infusion, reconstituted and further diluted in 100 ml (see section 6.6), should be given as a single intravenous infusion in no less than 15 minutes.
 
 In patients with mild to moderate renal impairment, reduced Zometa doses are recommended (see section “Posology” above and section 4.4).
-
 Instructions for preparing reduced doses of Zometa
 Withdraw an appropriate volume of the reconstituted solution (4 mg/5 ml) as needed:
 
@@ -67,6 +67,7 @@ Withdraw an appropriate volume of the reconstituted solution (4 mg/5 ml) as need
 For instructions on reconstitution and dilution of the medicinal product before administration, see section 6.6.
 The withdrawn amount of reconstituted solution must be diluted in 100 ml of sterile 0.9% w/v sodium chloride solution or 5% w/v glucose solution.
 The dose must be given as a single intravenous infusion over no less than 15 minutes.
+
 Zometa reconstituted solution must not be mixed with calcium or other divalent cation-containing infusion solutions such as lactated Ringer’s solution, and should be administered as a single intravenous solution in a separate infusion line.
 
 Patients must be maintained well hydrated prior to and following administration of Zometa.
