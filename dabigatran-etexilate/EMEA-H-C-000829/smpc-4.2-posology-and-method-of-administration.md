@@ -7,14 +7,15 @@ Primary Prevention of Venous Thromboembolism in Orthopaedic Surgery (pVTEp ortho
 Patients following elective knee replacement surgery
 
 The recommended dose of Pradaxa is 220 mg once daily taken as 2 capsules of 110 mg.
-Treatment should be initiated orally within 1-4 hours of completed surgery with a single capsule and continuing with 2 capsules once daily thereafter for a total of 10 days.
+Treatment should be initiated orally within 1-4 hours of completed surgery with a single of 110 mg capsule and continuing with 2 capsules once daily thereafter for a total of 10 days.
 
 Patients following elective hip replacement surgery
 
 The recommended dose of Pradaxa is 220 mg once daily taken as 2 capsules of 110 mg.
-Treatment should be initiated orally within 1-4 hours of completed surgery with a single capsule and continuing with 2 capsules once daily thereafter for a total of 28-35 days.
+Treatment should be initiated orally within 1-4 hours of completed surgery with a single capsule of 110 mg and continuing with 2 capsules once daily thereafter for a total of 28-35 days.
 
-For the following groups the recommended daily dose of Pradaxa is 150 mg taken once daily as 2 capsules of 75 mg:
+For the following groups the recommended daily dose of Pradaxa is 150 mg taken once daily as 2 capsules of 75 mg.
+Treatment should be initiated orally within 1-4 hours of completed surgery with a single capsule of 75 mg and continuing with 2 capsules once daily thereafter for a total of 10 days (knee replacement surgery) or 28-35 days (hip replacement surgery):
 
 - Patients with moderate renal impairment (creatinine clearance, CrCL 30-50 mL/min) [see Renal impairment (pVTEp orthopaedic surgery )]
 - Patients who receive concomitant verapamil, amiodarone, quinidine [see Concomitant use of Pradaxa with mild to moderate P-glycoprotein (P-gp) inhibitors, i.e. amidarone, quinidine or verapamil (pVTEp orthopaedic surgery)]
@@ -61,12 +62,12 @@ Dosing should be reduced to 150 mg taken once daily as 2 capsules of 75 mg Prada
 In this situation Pradaxa and these medicinal products should be taken at the same time.
 
 In patients with moderate renal impairment and concomitantly treated with dabigatran etexilate and verapamil, a dose reduction of Pradaxa to 75 mg daily should be considered (see sections 4.4 and 4.5).
-
 Elderly (pVTEp orthopaedic surgery)
 
 In elderly patients (> 75 years) there is limited clinical experience.
 These patients should be treated with caution.
 The recommended dose is 150 mg taken once daily as 2 capsules of 75 mg (see sections 4.4 and 5.1).
+
 As renal impairment may be frequent in the elderly (>75 years), renal function should be assessed by calculating the CrCL prior to initiation of treatment with Pradaxa to exclude patients with severe renal impairment (i.e. CrCL < 30 mL/min).
 While on treatment the renal function should also be assessed in certain clinical situations when it is suspected that the renal function could decline or deteriorate (such as hypovolemia, dehydration, and with certain comedications, etc) (see sections 4.3, 4.4 and 5.2).
 
@@ -104,7 +105,6 @@ Missed dose (pVTEp orthopaedic surgery)
 It is recommended to continue with the remaining daily doses of dabigatran etexilate at the same time of the next day.
 
 No double dose should be taken to make up for missed individual doses.
-
 Method of administration (pVTEp orthopaedic surgery)
 
 Pradaxa can be takenwith or without food.
@@ -113,8 +113,9 @@ Patients should be instructed not to open the capsule as this may increase the r
 
 [Pradaxa 110 mg hard capsules]
 
+Treatment should be initiated orally within 1-4 hours of completed surgery with a single capsule of 110 mg and continuing with 2 capsules once daily thereafter for a total of 10 days.
+
 - Patients with moderate renal impairment (creatinine clearance (CrCL) 30-50 mL/min) [see Renal impairment (pVTEp orthopaedic surgery)]
-- Patients aged 75 or above [see Elderly (pVTEp pVTEp orthopaedic surgery)]
 
 - Renal function should be assessed by calculating the creatinine clearance (CrCL) prior to initiation of treatment with Pradaxa to exclude patients with severe renal impairment (i.e. CrCL < 30 mL/min) (see sections 4.3, 4.4 and 5.2).
 - Renal function should also be assessed when a decline in renal function is suspected during treatment (e.g. hypovolaemia, dehydration, and in case of concomitant use of certain medicinal products)
@@ -154,8 +155,8 @@ For the following groups the daily dose of Pradaxa of 300 mg or 220 mg should be
 - Patients between 75-80 years
 - Patients with moderate renal impairment
 - Patients with gastritis, esophagitis or gastroesophageal reflux
+- Other patients at increased risk of bleeding
 
-Other patients at increased risk of bleeding
 For DVT/PE the recommendation for the use of Pradaxa 220 mg taken as one 110 mg capsule twice daily is based on pharmacokinetic and pharmacodynamic analyses and has not been studied in this clinical setting.
 
 See further down and sections 4.4, 4.5, 5.1 and 5.2.
@@ -210,7 +211,7 @@ Gender (SPAF, DVT/PE)
 
 Hepatic impairment (SPAF, DVT/PE)
 
-Patients with elevated liver enzymes > 2 upper limit of normal (ULN) were excluded in the maintrials .
+Patients with elevated liver enzymes > 2 upper limit of normal (ULN) were excluded in the main trials .
 
 Switching (SPAF.
 
@@ -238,11 +239,11 @@ Patients can stay on dabigatran etexilate while being cardioverted.
 Paediatric population (SPAF)
 
 There is no relevant use of Pradaxa in the paediatric population in the indication: prevention of stroke and systemic embolism in patients with NVAF.
+
 Paediatric population (DVT/PE)
 
 The safety and efficacy of Pradaxa in children from birth to less than 18 years of age have not yet been established.
 Currently available data are described in section 4.8 and 5.1, but no recommendation on a posology can be made.
-
 Missed dose (SPAF, DVT/PE)
 
 A forgotten dabigatran etexilate dose may still be taken up to 6 hours prior to the next scheduled dose.
@@ -263,6 +264,8 @@ Assessment of renal function (SPAF, DVT/PE
 - Renal function should be assessed during treatment with Pradaxa at least once a year or more frequently as needed in certain clinical situations when it is suspected that the renal function could decline or deteriorate (e.g. hypovolaemia, dehydration, and in case of concomitant us of certain medicinal products)
 
 Renal impairment SPAF, DVT/PE
+
+Dosing should be reduced to 220 mg taken as one 110 mg capsule twice daily in patients who receive concomitantly dabigatran etexilate and verapamil (see sections 4.4 and 4.5).
 
 Patients with elevated liver enzymes > 2 upper limit of normal (ULN) were excluded inthe main trials .
 Switching (SPAF, DVT/PE)

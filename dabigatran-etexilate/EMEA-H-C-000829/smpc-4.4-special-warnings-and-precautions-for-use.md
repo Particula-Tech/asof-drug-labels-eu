@@ -20,11 +20,12 @@ Use of acetylsalicylic acid (ASA), clopidogrel or non steroidal antiinflammatory
 The administration of a PPI can be considered to prevent GI bleeding.
 
 Bleeding risk may be increased in patients concomitantly treated with selective serotonin re-uptake inhibitors (SSRIs) or selective serotonin norepinephrine re-uptake inhibitors (SNRIs) (see section 4.5).
-
 Close clinical surveillance (looking for signs of bleeding or anaemia) is recommended throughout the treatment period, especially if risk factors are combined (see section 5.1).
 
 Table 1 summarises factors which may increase the haemorrhagic risk.
 Please also refer to contraindications in section 4.3.
+
+Table 1: Factors which may increase the haemorrhagic risk.
 
 | Pharmacodynamic and kinetic factors | Age ≥75 years |
 | --- | --- |
@@ -43,12 +44,15 @@ Diluted thrombin time (dTT), ecarin clotting time (ECT) and activated partial th
 
 Table 2 shows coagulation test thresholds at trough that may be associated with an increased risk of bleeding (see section 5.1)
 
+Table 2: Coagulation test thresholds at trough that may be associated with an increased risk of bleeding.
+
 | Test (trough value) |  |
 | --- | --- |
 | dTT [ng/mL] | > 67 |
 | ECT [x-fold upper limit of normal] | No data |
 | aPTT [x-fold upper limit of normal] | > 1.3 |
-| INR | Should not be performed |
+
+INR Should not be performed
 
 Patients who develop acute renal failure must discontinue Pradaxa (see section 4.3).
 
@@ -57,6 +61,7 @@ Limited data is available in patients < 50 kg (see section 5.2).
 When severe bleedings occur treatment must be discontinued and the source of bleeding investigated (see section 4.9).
 
 Medicinal products that may enhance the risk of haemorrhage should not be administered concomitantly or should be administered with caution with Pradaxa (see section 4.5).
+
 Use of fibrinolytic medicinal products for the treatment of acute ischemic stroke
 
 The use of fibrinolytic medicinal products for the treatment of acute ischemic stroke may be considered if the patient presents with a dTT, ECT or aPTT not exceeding the ULN according to the local reference range.
@@ -79,6 +84,8 @@ Preoperative phase
 
 Table 3 summarises discontinuation rules before invasive or surgical procedures.
 
+Table 3: Discontinuation rules before invasive or surgical procedures
+
 | Renal function (CrCL in mL/min) | Estimated half-life (hours) | Stop dabigatran before elective surgery |  |
 | --- | --- | --- | --- |
 |  |  | High risk of bleeding or major surgery | Standard risk |
@@ -90,7 +97,6 @@ If an acute intervention is required, dabigatran etexilate should be temporarily
 A surgery / intervention should be delayed if possible until at least 12 hours after the last dose.
 If surgery cannot be delayed the risk of bleeding may be increased.
 This risk of bleeding should be weighed against the urgency of intervention.
-
 Spinal anaesthesia/epidural anaesthesia/lumbar puncture
 
 Procedures such as spinal anaesthesia may require complete haemostatic function.
@@ -102,6 +108,7 @@ These patients require frequent observation for neurological signs and symptoms 
 Postoperative phase
 
 Dabigatran etexilate should be restarted after the invasive procedure or surgical intervention as soon as possible provided the clinical situation allows and adequate haemostasis has been established.
+
 Patients at risk for bleeding or patients at risk of overexposure, notably patients with moderate renal impairment (CrCL 30-50 mL/min), should be treated with caution (see sections 4.4 and 5.1).
 
 Patients at high surgical mortality risk and with intrinsic risk factors for thromboembolic events

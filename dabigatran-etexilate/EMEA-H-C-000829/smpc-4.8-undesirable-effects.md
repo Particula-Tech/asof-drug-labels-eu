@@ -6,12 +6,13 @@ A total of 10,795 patients were treated in 6 actively controlled VTE prevention 
 Of these 6,684 were treated with 150 mg or 220 mg daily of Pradaxa.
 
 The most commonly reported adverse reactions are bleedings occurring in total in approximately 14 % of patients; the frequency of major bleeds (including wound site bleedings) is less than 2 %.
-
 Although rare in frequency in clinical trials, major or severe bleeding may occur and, regardless of location, may lead to disabling, life-threatening or even fatal outcomes.
 
 Tabulated list of adverse reactions
 
 Table 4 shows the adverse reactions ranked under headings of System Organ Classes (SOC) and frequency using the following convention: very common (≥1/10), common (≥1 /100 to <1 /10), uncommon (≥1/1,000 to <1 /100), rare (≥1 /10,000 to <1 /1,000), very rare (<1 /10,000), not known (cannot be estimated from the available data).
+
+Table 4: Adverse reactions
 
 | SOC / Preferred term. |  |
 | --- | --- |
@@ -82,6 +83,8 @@ Bleeding
 
 The table 5 shows the number (%) of patients experiencing the adverse reaction bleeding during the treatment period in the VTE prevention in the two pivotal clinical trials, according to dose.
 
+Table 5: Number (%) of patients experiencing the adverse reaction bleeding
+
 |  | Dabigatran etexilate 150 mg N (%) | Dabigatran etexilate 220 mg N (%) | Enoxaparin N (%) |
 | --- | --- | --- | --- |
 | Treated | 1,866(100.0) | 1,825(100.0) | 1,848(100.0) |
@@ -108,7 +111,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 In the pivotal study investigating the prevention of stroke and SEE in patients with atrial fibrillation, a total of 12,042 patients were treated with dabigatran etexilate.
 Of these 6,059 were treated with 150 mg twice daily of dabigatran etexilate, while 5,983 received doses of 110 mg twice daily.
-In the 2 active controlled a DVT/PE treatment trials, RE-COVER and RE-COVER II, a total of 2,456 patients were included in the safety analysis for dabigatran etexilate.
+In the 2 active controlled a DVT/PE treatment trials, RE-COVER and RE-COVER II, a total of 2,553 patients were included in the safety analysis for dabigatran etexilate.
 All patients received doses of 150 mg twice daily of dabigatran etexilate.
 Adverse drug reactions for both treatments, dabigatran etexilate and warfarin, are counted from the first intake of dabigatran etexilate or warfarin after the parenteral therapy has been discontinued (oral only treatment period).
 This includes all adverse drug reactions which occurred during dabigatran therapy.
@@ -117,7 +120,7 @@ All adverse drug reactions, which occurred during warfarin therapy, are included
 A total of 2,114 patients were treated in the active controlled DVT/PE prevention trial, RE-MEDY, and in the placebo-controlled DVT/PE prevention trial, RE-SONATE.
 In total, about 9 % of patients treated for elective hip or knee surgery (short-term treatment for up to 42 days) , 22 % of patient with atrial fibrillation treated for the prevention of stroke and SEE (long-term treatment for up to 3 years), 14 % of patient treated for DVT/PE and 15 % of patients treated for DVT/PE prevention experienced adverse reactions.
 
-The most commonly reported adverse reactions are bleedings occurring in total in approximately 14 % of patients treated short-term for elective hip or knee replacement surgery, 16,5 % in patients with atrial fibrillation treated for the prevention of stroke and SEE, and in 14,4 % of patients treated for DVT/PE.
+The most commonly reported adverse reactions are bleedings occurring in total in approximately 14 % of patients treated short-term for elective hip or knee replacement surgery, 16,6 % in patients with atrial fibrillation treated long-term for the prevention of stroke and SEE, and in 14,4 % of patients treated for DVT/PE.
 Furthermore, bleeding occurred in 19.4% of patients in the DVT/PE prevention trial RE-MEDY and in 10,5% of patient in the DVT/PE prevention trial RE-SONATE.
 
 Since the patient populations treated in the three indications are not comparable and bleeding events are distributed over several System Organ Classes (SOC), a summary description of major and any bleeding are broken down by indication and given in tables 5 and 6 below.
@@ -204,15 +207,17 @@ Prevention of stroke and SEE in adult patients with NVAF with one or more risk f
 
 The table 6 shows bleeding events broken down to major and any bleeding in the pivotal study testing the prevention of thromboembolic stroke and SEE in patients with atrial fibrillation.
 
+Table 6: Bleeding events in a study testing the prevention of thromboembolic stroke and SEE in patients with atrial fibrillation
+
 |  | Dabigatran etexilate 110 mg twice daily | Dabigatran etexilate 150 mg twice daily | Warfarin |
 | --- | --- | --- | --- |
 | Subjects randomized | 6,015 | 6,076 | 6,022 |
-| Major bleeding | 342 (2.87 %) | 399 (3.32 %) | 421 (3.57 %) |
-| Intracranial bleeding | 27 (0.23 %) | 38 (0.32 %) | 90 (0.76 %) |
-| GI bleeding | 134 (1.14 %) | 186 (1.57 %) | 125 (1.07 %) |
-| Fatal bleeding | 23 (0.19 %) | 28 (0.23 %) | 39 (0.33 %) |
+| Major bleeding | 347 (2.92 %) | 409 (3.40 %) | 426 (3.61 %) |
+| Intracranial bleeding | 27 (0.23 %) | 39 (0.32 %) | 91 (0.77 %) |
+| GI bleeding | 134 (1.13 %) | 192 (1.60 %) | 128 (1.09 %) |
+| Fatal bleeding | 26 (0.22 %) | 30 (0.25 %) | 42 (0.36 %) |
 | Minor bleeding | 1,566 (13.16 %) | 1,787 (14.85 %) | 1,931 (16.37 %) |
-| Any bleeding | 1,754 (14.74 %) | 1,993 (16.56 %) | 2,166 (18.37 %) |
+| Any bleeding | 1,759 (14.78 %) | 1,997 (16.60 %) | 2,169 (18.39 %) |
 
 Major bleeding was defined to fulfil one or more of the following criteria:
 Bleeding associated with a reduction in haemoglobin of at least 20 g/L or leading to a transfusion of at least 2 units of blood or packed cells.
@@ -223,8 +228,8 @@ Major bleeds were classified as life-threatening if they fulfilled one or more o
 Subjects randomized to dabigatran etexilate 110 mg twice daily or 150 mg twice daily had a significantly lower risk for life-threatening bleeds and intracranial bleeding compared to warfarin [p
 < 0.05].
 Both dose strengths of dabigatran etexilate had also a statistically significant lower total bleed rate.
-Subjects randomized to dabigatran etexilate 110 mg twice daily had a significantly lower risk for major bleeds compared with warfarin (hazard ratio 0.80 [p=0.0026]).
-Subjects randomized to dabigatran etexilate 150 mg twice daily had a significantly higher risk for major GI bleeds compared with warfarin (hazard ratio 1.47 [p=0.0008].
+Subjects randomized to dabigatran etexilate 110 mg twice daily had a significantly lower risk for major bleeds compared with warfarin (hazard ratio 0.81 [p=0.0027]).
+Subjects randomized to dabigatran etexilate 150 mg twice daily had a significantly higher risk for major GI bleeds compared with warfarin (hazard ratio 1.48 [p=0.0005].
 This effect was seen primarily in patients ≥75 years.
 The clinical benefit of dabigatran with regard to stroke and SEE prevention and decreased risk of ICH compared to warfarin is preserved across individual subgroups, e.g. renal impairment, age, concomitant medication use such as anti-platelets or P-gp inhibitors.
 While certain patient subgroups are at an increased risk of major bleeding when treated with an anticoagulant, the excess bleeding risk for dabigatran is due to GI bleeding, typically seen within the first 3-6 months following initiation of dabigatran etexilate therapy.
@@ -233,6 +238,8 @@ Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevent
 
 Table 7 shows bleeding events in the pooled pivotal studies RE-COVER and RE-COVER II testing the treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE).
 In the pooled studies the primary safety endpoints of major bleeding, major or clinically relevant bleeding and any bleeding were significantly lower than warfarin at a nominal alpha level of 5 %.
+
+Table 7: Bleeding events in the studies RE-COVER and RE-COVER II testing the treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE)
 
 |  | Dabigatran etexilate 150 mg twice daily | Warfarin | Hazard ratio vs. warfarin (95% confidence interval) |
 | --- | --- | --- | --- |
@@ -259,6 +266,8 @@ A bleeding event was categorised as an MBE if it fulfilled at least one of the f
 Table 8 shows bleeding events in pivotal study RE-MEDY testing prevention of deep vein thrombosis (DVT) and pulmonary embolism (PE).
 Some bleeding events (MBEs/CRBEs; any bleeding) were significantly lower at a nominal alpha level of 5% in patients receiving dabigatran etexilate as compared with those receiving warfarin.
 
+Table 8: Bleeding events in study RE-MEDY testing prevention of deep vein thrombosis (DVT) and pulmonary embolism (PE)
+
 Dabigatran etexilate Warfarin Hazard ratio vs
 150 mg twice daily warfarin
 (95% Confidence
@@ -280,6 +289,7 @@ The definition of MBEs followed the recommendations of the International Society
 
 Table 9 shows bleeding events in pivotal study RE-SONATE testing prevention of deep vein thrombosis (DVT) and pulmonary embolism (PE).
 The rate of the combination of MBEs/CRBEs and the rate of any bleeding was significantly lower at a nominal alpha level of 5 % in patients receiving placebo as compared with those receiving dabigatran etexilate.
+Table 9: Bleeding events in study RE-SONATE testing prevention of deep vein thrombosis (DVT) and pulmonary embolism (PE)
 
 |  | Dabigatran etexilate 150 mg twice daily | Placebo | Hazard ratio vs placebo (95% confidence interval) |
 | --- | --- | --- | --- |
@@ -314,11 +324,11 @@ On treatment 2 (22.1 %) patients experienced mild related adverse events (gastro
 
 [Pradaxa 150 mg hard capsules]
 
-In the 2 active controlled DVT/PE treatment trials, RE-COVER and RE-COVER II, a total of 2,456 patients were included in the safety analysis for dabigatran etexilate.
+In the 2 active controlled DVT/PE treatment trials, RE-COVER and RE-COVER II, a total of 2,553 patients were included in the safety analysis for dabigatran etexilate.
 
 In total, 22 % of patient with atrial fibrillation treated for the prevention of stroke and SEE (long-term treatment for up to 3 years) , 14 % of patients treated for DVT/PE and 15 % of patients treated for DVT/PE preventionexperienced adverse reactions.
 
-The most commonly reported adverse reactions are bleedings occurring in total in approximately 16,5 % in patients with atrial fibrillation treated for the prevention of stroke and SEE and in 14,4 % of patients treated for DVT/PE.
+The most commonly reported adverse reactions are bleedings occurring in total in approximately 16,6 % in patients with atrial fibrillation treated long-term for the prevention of stroke and SEE and in 14,4 % of patients treated for DVT/PE.
 Furthermore, bleedings occured in 19.4 % of patients in the DVT/PE prevention trial RE-MEDY and in 10,5 % of patients in the DVT/PE trial RE-SONATE.
 
 Since the patient population treated in the three indications are not comparable and bleeding events are distributed over several System Organ Classes (SOC), a summary description of major and any bleeding are broken down by indication and are provided in tables 5, 6, 7 and 8 below.
@@ -384,21 +394,16 @@ They are ranked under headings of System Organ Class (SOC) and frequency using t
 
 The table 5 shows bleeding events broken down to major and any bleeding in the pivotal study testing the prevention of thromboembolic stroke and SEE in patients with atrial fibrillation.
 
+Table 5: Bleeding events in a study testing the prevention of thromboembolic stroke and SEE in patients with atrial fibrillation
+
 Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevention of recurrent DVT and PE in adults (DVT/PE) treatment
 
 Table 6 shows bleeding events in the pooled pivotal studies RE-COVER and RE-COVER II testing the treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE).
-
-| Patients included in safety analysis | 2,456 | 2,462 |  |
-| --- | --- | --- | --- |
-| Major bleeding events | 24 (1.0 %) | 40 (1.6 %) | 0.60 (0.36, 0.99) |
-| Intracranial Bleeding | 2 (0.1 %) | 4 (0.2 %) | 0.50 (0.09, 2.74) |
-| Major GI bleeding | 10 (0.4 %) | 12 (0.5 %) | 0.83 (0.36, 1.93) |
-| Life-threatening bleed | 4 (0.2 %) | 6 (0.2 %) | 0.66 (0.19, 2.36) |
-| Major bleeding events/clinically relevant bleeds | 109 (4.4 %) | 189 (7.7 %) | 0.56 (0.45, 0.71) |
-| Any bleeding | 354 (14.4 %) | 503 (20.4 %) | 0.67 (0.59, 0.77) |
-| Any GI bleeding | 70 (2.9 %) | 55 (2.2 %) | 1.27 (0.90, 1.82) |
+Table 6: Bleeding events in the studies RE-COVER and RE-COVER II testing the treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE)
 
 Table 7 shows bleeding events in pivotal study RE-MEDY testing prevention of deep vein thrombosis (DVT) and pulmonary embolism (PE).
+
+Table 7: Bleeding events in study RE-MEDY testing prevention of deep vein thrombosis (DVT) and pulmonary embolism (PE)
 
 |  | Dabigatran etexilate 150 mg twice daily | Warfarin | Hazard ratio vs warfarin (95% Confidence Interval) |
 | --- | --- | --- | --- |
@@ -411,12 +416,13 @@ Table 7 shows bleeding events in pivotal study RE-MEDY testing prevention of dee
 | Any bleeding | 278 (19.4 %) | 373 (26.2 %) | 0.71 (0.61, 0.83) |
 | Any GI bleeds | 45 (3.1%) | 32 (2.2%) | 1.39 (0.87, 2.20) |
 
-Table 8 shows bleeding events in pivotal study RE-SONATE testing prevention of deep vein thrombosis (DVT) and pulmonary embolism (PE),.
+Table 8 shows bleeding events in pivotal study RE-SONATE testing prevention of deep vein thrombosis (DVT) and pulmonary embolism (PE).
+
+Table 8: Bleeding events in study RE-SONATE testing prevention of deep vein thrombosis (DVT) and pulmonary embolism (PE)
 
 Treatment of DVT and PE, and prevention of recurrent DVT and PE in adults (DVT/PE)
 
 In the three active controlled studies, a higher rate of MI was reported in patients who received dabigatran etexilate than in those who received warfarin: 0.4% vs. 0.2% in the short-term RECOVER and RECOVER II studies; and 0.8% vs. 0.1% in the long-term RE-MEDY trial.
-
 In the RE-SONATE study, which compared dabigatran etexilate to placebo, the rate of MI was 0.1 % for patients who received dabigatran etexilate and 0.2 %for patients who received placebo (see section 4.4.).
 
 Based on dabigatran concentrations as determined by the diluted thrombin time test and clinical assessment, the dose was adjusted to the target dose of 2.14 (± 10%) mg/kg bodyweight of dabigatran etexilate On treatment 2 (22.1 %) patients experienced mild related adverse events (gastrooesophageal reflux / abdominal pain; abdominal discomfort) and 1 (11.1 %) patient experienced a not related serious adverse event (recurrent VTE of the leg) in the post treatment period > 3 days after stop of dabigatran etexilate.

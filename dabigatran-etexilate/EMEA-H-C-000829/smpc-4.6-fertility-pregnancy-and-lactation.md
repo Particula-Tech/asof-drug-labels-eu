@@ -3,6 +3,7 @@
 Women of childbearing potential / Contraception in males and females
 
 Women of childbearing potential should avoid pregnancy during treatment with dabigatran etexilate.
+
 Pregnancy
 
 There are limited amount of data from the use of dabigatran etexilate in pregnant women.

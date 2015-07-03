@@ -26,6 +26,7 @@ Plasma concentrations of dabigatran showed a biexponential decline with a mean t
 After multiple doses a terminal half-life of about 12-14 hours was observed.
 The half-life was independent of dose.
 Half-life is prolonged if renal function is impaired as shown in table 9.
+
 Biotransformation
 
 Metabolism and excretion of dabigatran were studied following a single intravenous dose of radiolabeled dabigatran in healthy male subjects.
@@ -65,6 +66,7 @@ The effect by age on exposure to dabigatran was confirmed in the RE-LY study wit
 
 Hepatic impairment
 No change in dabigatran exposure was seen in 12 subjects with moderate hepatic insufficiency (Child Pugh B) compared to 12 controls (see sections 4.2 and 4.4).
+
 Body weight
 The dabigatran trough concentrations were about 20 % lower in patients with a body weight > 100 kg compared with 50-100 kg.
 The majority (80.8 %) of the subjects were in the ≥50 kg and < 100 kg category with no clear difference detected (see sections 4.2 and 4.4).
@@ -95,8 +97,7 @@ Table 21: Half-life of total dabigatran in healthy subjects and subjects with im
 | ≥80 | 13.4 (25.7 %; 11.0-21.6) |
 | ≥50-< 80 | 15.3 (42.7 %;11.7-34.1) |
 | ≥30-< 50 | 18.4 (18.5 %;13.3-23.0) |
-
-< 30 27.2(15.3 %; 21.6-35.0)
+| < 30 | 27.2(15.3 %; 21.6-35.0) |
 
 The median CrCL in RE-LY was 68.4 mL/min.
 Almost half (45.8 %) of the RE-LY patients had a CrCL > 50-< 80 mL/min.
@@ -122,13 +123,6 @@ Peak plasma concentrations are reached at 6 hours following administration in a 
 Half-life is prolonged if renal function is impaired as shown in table 17.
 
 Table 17: Half-life of total dabigatran in healthy subjects and subjects with impaired renal function.
-
-| glomerular filtration rate (CrCL,) [mL/min] | gMean (gCV %; range) half-life [h] |
-| --- | --- |
-| ≥80 | 13.4 (25.7 %; 11.0-21.6) |
-| ≥50-< 80 | 15.3 (42.7 %;11.7-34.1) |
-| ≥30-< 50 | 18.4 (18.5 %;13.3-23.0) |
-| < 30 | 27.2(15.3 %; 21.6-35.0) |
 
 Patients with moderate renal impairment (CrCL between 30 and 50 mL/min) had on average 2.29-fold and 1.81-fold higher pre- and post-dose dabigatran plasma concentrations, respectively, when compared with patients without renal impairment (CrCL ≥80 mL/min).
 

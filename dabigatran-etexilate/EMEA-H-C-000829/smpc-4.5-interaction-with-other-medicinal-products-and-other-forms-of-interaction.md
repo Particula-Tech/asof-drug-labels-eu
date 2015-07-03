@@ -50,7 +50,6 @@ Dronedarone: When dabigatran etexilate and dronedarone were given at the same ti
 The terminal half-life and renal clearance of dabigatran were not affected by dronedarone.
 When single and multiple doses of dronedarone were given 2 h after dabigatran etexilate, the increases in dabigatran AUC0-∞were 1.3-fold and 1.6-fold, respectively.
 Concomitant treatment with dronedarone is contraindicated.
-
 Amiodarone: When Pradaxa was co-administered with a single oral dose of 600 mg amiodarone, the extent and rate of absorption of amiodarone and its active metabolite DEA were essentially unchanged.
 The dabigatran AUC and Cmax were increased by about 60 % and 50 %, respectively.
 The mechanism of the interaction has not been completely clarified.
@@ -122,7 +121,6 @@ Digoxin: In a study performed with 24 healthy subjects, when Pradaxa was co-admi
 Co-medication with selective serotonin re-uptake inhibitors (SSRIs) or selective serotonin norepinephrine re-uptake inhibitors (SNRIs)
 
 SSRIs and SNRIs increased the risk of bleeding in RE-LY in all treatment groups.
-
 Gastric pH
 
 Pantoprazole: When Pradaxa was co-administered with pantoprazole, a decrease in the dabigatran area under the plasma concentration-time curve of approximately 30 % was observed.
@@ -158,4 +156,4 @@ With chronic use in the RE-LY study, NSAIDs increased the risk of bleeding by ap
 
 In view of the long half-life of amiodarone the potential for drug interaction may exist for weeks after discontinuation of amiodarone (see sections 4.2 and 4.4 Close clinical surveillance is recommended when dabigatran etexilate is combined with amiodarone and particularly in the occurrence of bleeding, notably in patients having a mild to moderate renal impairment.
 
-Patients with NVAF concomitantly receiving dabigatran etexilate and verapamil, the dose of Pradaxa should be reduced to 220 mg taken as one 110 mg capsule twice daily (see section 4.2).Close clinical surveillance is recommended when dabigatran etexilate is combined with verapamil and particularly in the occurrence of bleeding, notably in patients having a mild to moderate renal impairment.
+Patients concomitantly receiving dabigatran etexilate and verapamil, the dose of Pradaxa should be reduced to 220 mg taken as one 110 mg capsule twice daily (see section 4.2).Close clinical surveillance is recommended when dabigatran etexilate is combined with verapamil and particularly in the occurrence of bleeding, notably in patients having a mild to moderate renal impairment.
