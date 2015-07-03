@@ -11,6 +11,7 @@ Administration of ibrutinib in fasted condition resulted in approximately 60% of
 Distribution
 Reversible binding of ibrutinib to human plasma protein in vitro was 97.3% with no concentration dependence in the range of 50 to 1,000 ng/mL.
 The apparent volume of distribution at steady state (Vd, ss/F) was approximately 10,000 L.
+
 Metabolism
 Ibrutinib is metabolised primarily by, CYP3A4 to produce a dihydrodiol metabolite with an inhibitory activity towards BTK approximately 15 times lower than that of ibrutinib.
 Involvement of CYP2D6 in the metabolism of ibrutinib appears to be minimal.
@@ -19,9 +20,8 @@ Therefore, no precautions are necessary in patients with different CYP2D6 genoty
 Elimination
 Apparent clearance (CL/F) is approximately 1,000 L/h.
 The half-life of ibrutinib is 4 to 13 hours.
-After a single oral administration of radiolabeled [14C]-ibrutinib in healthy subjects, approximately 90% of radioactivity was excreted within 168 hours, with the majority (80%) excreted in the faeces and less than 10% accounted for in urine.
+After a single oral administration of radiolabeled [14C]-ibrutinib in healthy subjects, approximately 90% of radioactivity was excreted within 168 hours, with the majority (80%) excreted in the faeces and < 10% accounted for in urine.
 Unchanged ibrutinib accounted for approximately 1% of the radiolabeled excretion product in faeces and none in urine.
-
 Special populations
 
 Elderly
@@ -38,7 +38,7 @@ There are insufficient data to evaluate the potential effect of race on ibrutini
 
 Body weight
 Population pharmacokinetics data indicated that body weight (range: 41-146 kg; mean [SD]:
-83 (19) kg) had a negligible effect on ibrutinib clearance.
+83 [19 kg]) had a negligible effect on ibrutinib clearance.
 
 Renal impairment
 Ibrutinib has minimal renal clearance; urinary excretion of metabolites is < 10% of the dose.
@@ -47,15 +47,17 @@ There are no data in patients with severe renal impairment or patients on dialys
 
 Hepatic impairment
 Ibrutinib is metabolised in the liver.
-In a dedicated hepatic impairment trial in non-cancer patients administered a single dose of 140 mg of medicinal product, preliminary data showed an approximate 4-, 8-, and 9-fold increase in ibrutinib exposure in subjects with mild (n = 6), moderate (n = 10) and severe (n = 8) hepatic impairment, respectively.
+A hepatic impairment trial, was performed in non-cancer subjects administered a single dose of 140 mg of medicinal product under fasting conditions.
+The effect of impaired liver function varied substantially between individuals, but on average a 2.7-, 8.2-, and 9.8-fold increase in ibrutinib exposure (AUClast) was observed in subjects with mild (n = 6, Child-Pugh class A), moderate (n = 10, Child-Pugh class B) and severe (n = 8, Child-Pugh class C) hepatic impairment, respectively.
 The free fraction of ibrutinib also increased with degree of impairment, with 3.0, 3.8 and 4.8% in subjects with mild, moderate and severe liver impairment, respectively, compared to 3.3% in plasma from matched healthy controls within this study.
-An increase in unbound ibrutinib exposure is estimated to be 4-, 9-, and 13-fold in subjects with mild, moderate, and severe hepatic impairment, respectively (see section 4.2).
+The corresponding increase in unbound ibrutinib exposure (AUCunbound, last) is estimated to be 4.1-, 9.8-, and 13-fold in subjects with mild, moderate, and severe hepatic impairment, respectively (see section 4.2).
 
 Co-administration with CYP substrates
 In vitro studies indicated that ibrutinib is a weak inhibitor toward CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4.
 The dihydrodiol metabolite of ibrutinib is a weak inhibitor toward CYP2B6, CYP2C8, CYP2C9, and CYP2D6.
 Both ibrutinib and the dihydrodiol metabolite are at most weak inducers of CYP450 isoenzymes in vitro.
 Therefore, it is unlikely that the medicinal product has any clinically relevant drug-drug interactions with medicinal products that may be metabolised by the CYP450 enzymes.
+
 Co-administration with transport substrates/inhibitors
 In vitro studies indicated that ibrutinib is not a substrate of P-gp, OATP1B1 and OATP1B3.
 Ibrutinib is an in vitro inhibitor of P-gp (see section 4.5).

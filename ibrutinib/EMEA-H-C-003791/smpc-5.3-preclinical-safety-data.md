@@ -4,8 +4,8 @@ The following adverse effects were seen in studies of 13-weeks duration in rats 
 Ibrutinib was found to induce gastrointestinal effects (soft faeces/diarrhoea and/or inflammation) and lymphoid depletion in rats and dogs with a No Observed Adverse Effect Level (NOAEL) of 30 mg/kg/day in both species.
 Based on mean exposure (AUC) at the 560 mg/day clinical dose, AUC ratios were 2.6 and 21 at the NOAEL in male and female rats, and 0.4 and 1.8 at the NOAEL in male and female dogs, respectively.
 Lowest Observed Effect Level (LOEL) (60 mg/kg/day) margins in the dog are 3.6-fold (males) and 2.3-fold (females).
-In rats, moderate pancreatic acinar cell atrophy (considered adverse) was observed at doses of ≥100 mg/kg in male rats (AUC exposure margin of 2.6-fold) and not observed in females at doses up to 300 mg/kg/day (AUC exposure 21.3-fold).
-Mildly decreased trabecular and cortical bone was seen in female rats administered > 100 mg/kg/day (AUC exposure margin 20.3-fold).
+In rats, moderate pancreatic acinar cell atrophy (considered adverse) was observed at doses of ≥100 mg/kg in male rats (AUC exposure margin of 2.6-fold) and not observed in females at doses up to 300 mg/kg/day (AUC exposure margin of 21.3-fold).
+Mildly decreased trabecular and cortical bone was seen in female rats administered > 100 mg/kg/day (AUC exposure margin of 20.3-fold).
 All gastrointestinal, lymphoid and bone findings recovered following recovery periods of 6-13 weeks.
 Pancreatic findings partially recovered during comparable reversal periods.
 

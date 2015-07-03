@@ -37,8 +37,13 @@ In patients with preexisting atrial fibrillation requiring anticoagulant therapy
 In patients who develop atrial fibrillation on therapy with IMBRUVICA a thorough assessment of the risk for thromboembolic disease should be undertaken.
 In patients at high risk and where alternatives to IMBRUVICA are non-suitable, tightly controlled treatment with anticoagulants should be considered.
 
+Tumour lysis syndrome
+Tumour lysis syndrome has been reported with IMBRUVICA therapy.
+Patients at risk of tumour lysis syndrome are those with high tumour burden prior to treatment.
+Monitor patients closely and take appropriate precautions.
+
 Effects on the QT interval
-In a phase 2 study, ECG evaluations showed IMBRUVICA produced a mild decrease in QTcF interval (mean 7.5 ms). Although the underlying mechanism and safety relevance of this finding is not known, clinicians should use clinical judgment when assessing whether to prescribe ibrutinib to patients at risk from further shortening their QTc duration (e.g., Congenital Short QT Syndrome or patients with a family history of such a syndrome).
+In a phase 2 study, ECG evaluations showed IMBRUVICA produced a mild decrease in QTcF interval (mean 7.5 ms). Although the underlying mechanism and safety relevance of this finding are not known, clinicians should use clinical judgment when assessing whether to prescribe ibrutinib to patients at risk from further shortening their QTc duration (e.g., Congenital Short QT Syndrome or patients with a family history of such a syndrome).
 
 Drug-drug interactions
 Co-administration of strong or moderate CYP3A4 inhibitors with IMBRUVICA may lead to increased ibrutinib exposure and consequently a higher risk for toxicity.

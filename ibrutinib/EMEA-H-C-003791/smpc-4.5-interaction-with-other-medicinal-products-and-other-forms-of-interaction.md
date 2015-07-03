@@ -8,7 +8,7 @@ Concomitant use of IMBRUVICA and medicinal products that strongly or moderately 
 Strong CYP3A4 inhibitors
 Co-administration of ketoconazole, a strong CYP3A4 inhibitor, in 18 fasted healthy subjects, increased exposure (Cmax and AUC) of ibrutinib by 29- and 24-fold, respectively.
 Simulations using fasted conditions suggested that the strong CYP3A4 inhibitor clarithromycin may increase the AUC of ibrutinib by a factor of 14.
-Strong inhibitors of CYP3A4 (e.g., ketoconazole, indinavir, nelfinavir, ritonavir, saquinavir, clarithromycin, telithromycin, itraconazole, nefazadone and cobicistat) should be avoided.
+Strong inhibitors of CYP3A4 (e.g., ketoconazole, indinavir, nelfinavir, ritonavir, saquinavir, clarithromycin, telithromycin, itraconazole, nefazodon and cobicistat) should be avoided.
 If the benefit outweighs the risk and a strong CYP3A4 inhibitor must be used, reduce the IMBRUVICA dose to 140 mg (one capsule) or withhold treatment temporarily (for 7 days or less).
 Monitor patient closely for toxicity and follow dose modification guidance as needed (see sections 4.2 and 4.4).
 
@@ -17,8 +17,9 @@ Simulations using fasted conditions suggested that moderate CYP3A4 inhibitors, d
 Moderate inhibitors (e.g., voriconazole, erythromycin, amprenavir, aprepitant, atazanavir, ciprofloxacin, crizotinib, darunavir/ritonavir, diltiazem, fluconazole, fosamprenavir, imatinib, verapamil, amiodarone, dronedarone) should be avoided.
 If a moderate CYP3A4 inhibitor must be used, reduce IMBRUVICA treatment to 140 mg (one capsule) for the duration of the inhibitor use.
 Monitor patient closely for toxicity and follow dose modification guidance as needed (see sections 4.2 and 4.4).
+
 Mild CYP3A4 inhibitors
-Simulations using clinically relevant fasted conditions suggested that the mild CYP3A4 inhibitors azithromycin and fluvoxamine may increase the AUC of ibrutinib by a factor of < 2-fold.
+Simulations using clinically relevant fasted conditions suggested that the mild CYP3A4 inhibitors azithromycin and fluvoxamine may increase the AUC of ibrutinib by < 2-fold.
 No dose adjustment is required in combination with mild inhibitors.
 Monitor patient closely for toxicity and follow dose modification guidance as needed.
 
@@ -28,8 +29,8 @@ Grapefruit and Seville oranges should be avoided during IMBRUVICA treatment, as 
 Agents that may decrease ibrutinib plasma concentrations
 Administration of IMBRUVICA with inducers of CYP3A4 can decrease ibrutinib plasma concentrations.
 
-Co-administration of rifampin, a strong CYP3A4 inducer, in 18 fasted healthy subjects, decreased exposure (Cmax and AUC) of ibrutinib by 92 and 90%, respectively.
-Avoid concomitant use of strong or moderate CYP3A4 inducers (e.g., carbamazepine, rifampin, phenytoin).
+Co-administration of rifampicin, a strong CYP3A4 inducer, in 18 fasted healthy subjects, decreased exposure (Cmax and AUC) of ibrutinib by 92 and 90%, respectively.
+Avoid concomitant use of strong or moderate CYP3A4 inducers (e.g., carbamazepine, rifampicin, phenytoin).
 Preparations containing St. John's Wort are contraindicated during treatment with IMBRUVICA, as efficacy may be reduced.
 Consider alternative agents with less CYP3A4 induction.
 If the benefit outweighs the risk and a strong or moderate CYP3A4 inducer must be used, monitor patient closely for lack of efficacy (see sections 4.3 and 4.4).
