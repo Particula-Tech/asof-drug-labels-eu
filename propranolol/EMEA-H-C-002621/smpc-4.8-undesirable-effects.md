@@ -5,7 +5,7 @@ In clinical trials for proliferating infantile haemangioma, the most frequently 
 Globally, the adverse reactions reported in the compassionate use program and in literature concerned hypoglycemia (and related event like hypoglycaemic seizure) and aggravated respiratory tract infections with respiratory distress.
 
 Tabulated list of adverse reactions
-The following table gives the adverse reactions, reported whatever dose and treatment duration, in two clinical studies, including 424 patients treated by HEMANGIOL at 1 mg/kg/day or 3 mg/kg/day for a maximum treatment duration of 6 months.
+The following table gives the adverse reactions, reported whatever dose and treatment duration, in three clinical studies, including 435 patients treated by HEMANGIOL at 1 mg/kg/day or 3 mg/kg/day for a maximum treatment duration of 6 months.
 Their frequency is defined using the following conventions: very common (≥ 1/10), common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data).
 Due to the clinical trial database size rare and very rare categories are not represented.
 Within each system organ class, adverse reactions are presented in order of decreasing seriousness.
