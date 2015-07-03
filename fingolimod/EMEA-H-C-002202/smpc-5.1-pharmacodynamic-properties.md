@@ -5,9 +5,9 @@ Pharmacotherapeutic group: Selective immunosuppressants, ATC code: L04AA27
 Mechanism of action
 Fingolimod is a sphingosine 1-phosphate receptor modulator.
 Fingolimod is metabolised by sphingosine kinase to the active metabolite fingolimod phosphate.
-Fingolimod phosphate binds at low nanomolar concentrations to sphingosine 1-phosphate (S1P) receptor 1 located on lymphocytes, and readily crosses the blood-brain barrier to bind to S1P receptor 1 located on neural cells in the central nervous system.
+Fingolimod phosphate binds at low nanomolar concentrations to sphingosine 1-phosphate (S1P) receptor 1 located on lymphocytes, and readily crosses the blood-brain barrier to bind to S1P receptor 1 located on neural cells in the central nervous system (CNS).
 By acting as a functional antagonist of S1P receptors on lymphocytes, fingolimod phosphate blocks the capacity of lymphocytes to egress from lymph nodes, causing a redistribution, rather than depletion, of lymphocytes.
-This redistribution reduces the infiltration of pathogenic lymphocyte cells into the central nervous system, where they would be involved in nerve inflammation and nervous tissue damage.
+Animal studies have shown that this redistribution reduces the infiltration of pathogenic lymphocytes, including pro-inflammatory Th17 cells, into the CNS, where they would be involved in nerve inflammation and nervous tissue damage.
 Animal studies and in vitro experiments indicate that fingolimod may also act via interaction with S1P receptors on neural cells.
 
 Pharmacodynamic effects

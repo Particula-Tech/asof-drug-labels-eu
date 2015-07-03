@@ -9,6 +9,7 @@ In the pooled data from these two studies the most serious adverse reactions on 
 The most frequent adverse reactions (incidence ≥10%) on Gilenya 0.5 mg were influenza, sinusitis, headache, diarrhoea, back pain, hepatic enzyme increased and cough.
 The most frequent adverse reaction reported for Gilenya 0.5 mg leading to treatment interruption was ALT elevations (2.2%).
 The adverse reactions in Study D2302 (TRANSFORMS), a 1-year study in 849 patients treated with fingolimod which used interferon beta-1a as comparator, were generally similar to placebo-controlled studies, taking into account the differences in study duration.
+
 Adverse reactions reported with Gilenya 0.5 mg in Studies D2301 (FREEDOMS) and D2309 (FREEDOMS II) are shown below.
 Frequencies were defined using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
 
@@ -26,6 +27,7 @@ Bronchitis
 Tinea versicolor
 
 Uncommon: Pneumonia
+Not known**: Cryptococcal infections
 
 Blood and lymphatic system disorders
 
@@ -99,6 +101,7 @@ Uncommon: Neutrophil count decreased
 
 * Not reported in Studies FREEDOMS, FREEDOMS II and TRANSFORMS.
 The frequency category was based on an estimated exposure of approximately 10, 000 patients to fingolimod in all clinical trials.
+** Cryptococcal infections, including isolated cases of cryptococcal meningitis, have been reported in the post-marketing setting (see section 4.4).
 
 Description of selected adverse reactions
 Infections
@@ -117,13 +120,13 @@ The risk of recurrence after re-challenge has not been evaluated.
 Macular oedema incidence is increased in multiple sclerosis patients with a history of uveitis (17% with a history of uveitis vs. 0.6% without a history of uveitis).
 Gilenya has not been studied in multiple sclerosis patients with diabetes mellitus, a disease which is associated with an increased risk for macular oedema (see section 4.4).
 In renal transplant clinical studies in which patients with diabetes mellitus were included, therapy with fingolimod 2.5 mg and 5 mg resulted in a 2-fold increase in the incidence of macular oedema.
-
 Bradyarrhythmia
 Initiation of Gilenya treatment results in a transient decrease in heart rate and may also be associated with atrioventricular conduction delays.
 In multiple sclerosis clinical studies the maximal decline in heart rate was seen within 6 hours after treatment initiation, with declines in mean heart rate of 12-13 beats per minute for Gilenya 0.5 mg.
 Heart rate below 40 beats per minute was rarely observed in patients on Gilenya 0.5 mg.
 The average heart rate returned towards baseline within 1 month of chronic treatment.
 Bradycardia was generally asymptomatic but some patients experienced mild to moderate symptoms, including hypotension, dizziness, fatigue and/or palpitations, which resolved within the first 24 hours after treatment initiation (see also sections 4.4 and 5.1).
+
 In multiple sclerosis clinical studies first-degree atrioventricular block (prolonged PR interval on ECG) was detected after treatment initiation in 4.7% of patients on fingolimod 0.5 mg, in 2.8% of patients on intramuscular interferon beta-1a, and in 1.6% of patients on placebo.
 Second-degree atrioventricular block was detected in less than 0.2% patients on Gilenya 0.5 mg.
 In the post-marketing setting, isolated reports of transient, spontaneously resolving complete AV block have been observed during the six hour monitoring period following the first dose of Gilenya.
@@ -154,11 +157,11 @@ In clinical studies, rare events involving the nervous system occurred in patien
 
 Vascular disorders
 Rare cases of peripheral arterial occlusive disease occurred in patients treated with fingolimod at higher doses (1.25 mg).
-
 Respiratory system
 Minor dose-dependent reductions in values for forced expiratory volume (FEV1) and diffusion capacity for carbon monoxide (DLCO) were observed with Gilenya treatment starting at Month 1 and remaining stable thereafter.
 At Month 24, the reduction from baseline values in percentage of predicted FEV1 was 2.7% for fingolimod 0.5 mg and 1.2% for placebo, a difference that resolved after treatment discontinuation.
 For DLCO the reductions at Month 24 were 3.3% for fingolimod 0.5 mg and 2.7% for placebo.
+
 Lymphomas
 There have been cases of lymphoma of different varieties, in both clinical studies and the post-marketing setting, including a fatal case of Epstein-Barr virus (EBV) positive B-cell lymphoma.
 The incidence of lymphoma (B-cell and T-cell) cases was higher in clinical trials than expected in the general population.

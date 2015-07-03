@@ -2,6 +2,7 @@
 
 Bradyarrhythmia
 Initiation of Gilenya treatment results in a transient decrease in heart rate and may also be associated with atrioventricular conduction delays, including the occurrence of isolated reports of transient, spontaneously resolving complete AV block (see sections 4.8 and 5.1).
+
 After the first dose, the decline in heart rate starts within one hour, and is maximal within 6 hours.
 This post-dose effect persists over the following days, although usually to a milder extent, and usually abates over the next weeks.
 With continued administration, the average heart rate returns towards baseline within one month.
@@ -74,6 +75,11 @@ During treatment, patients receiving Gilenya should be instructed to report symp
 
 Suspension of Gilenya should be considered if a patient develops a serious infection and consideration of benefit-risk should be undertaken prior to re-initiation of therapy.
 
+Isolated cases of cryptococcal meningitis (a fungal infection) have been reported in the post-marketing setting (see section 4.8).
+Patients with symptoms and signs consistent with cryptococcal meningitis (e.g. headache accompanied by mental changes such as confusion, hallucinations, and/or personality changes) should undergo prompt diagnostic evaluation.
+If cryptococcal meningitis is diagnosed, fingolimod should be suspended and appropriate treatment should be initiated.
+A multidisciplinary consultation (i.e. infectious disease specialist) should be undertaken if re-initiation of fingolimod is warranted.
+
 Elimination of fingolimod following discontinuation of therapy may take up to two months and vigilance for infection should therefore be continued throughout this period.
 Patients should be instructed to report symptoms of infection up to 2 months after discontinuation of fingolimod.
 
@@ -89,7 +95,6 @@ It is recommended that multiple sclerosis patients with diabetes mellitus or a h
 Continuation of Gilenya in patients with macular oedema has not been evaluated.
 It is recommended that Gilenya be discontinued if a patient develops macular oedema.
 A decision on whether or not Gilenya therapy should be re-initiated after resolution of macular oedema needs to take into account the potential benefits and risks for the individual patient.
-
 Liver function
 Increased hepatic enzymes, in particular alanine aminotransaminase (ALT) but also gamma glutamyltransferase (GGT) and aspartate transaminase (AST) have been reported in multiple sclerosis patients treated with Gilenya.
 In clinical trials, elevations 3-fold the upper limit of normal (ULN) or greater in ALT occurred in 8.0% of patients treated with fingolimod 0.5 mg compared to 1.9% of placebo patients.
@@ -102,6 +107,7 @@ Serum transaminase levels returned to normal within approximately 2 months after
 Gilenya has not been studied in patients with severe pre-existing hepatic injury (Child-Pugh class C) and should not be used in these patients (see section 4.3).
 
 Due to the immunosuppressive properties of fingolimod, initiation of treatment should be delayed in patients with active viral hepatitis until resolution.
+
 Recent (i.e. within last 6 months) transaminase and bilirubin levels should be available before initiation of treatment with Gilenya.
 In the absence of clinical symptoms, liver transaminases should be monitored at Months 1, 3, 6, 9 and 12 on therapy and periodically thereafter.
 If liver transaminases rise above 5 times the ULN, more frequent monitoring should be instituted, including serum bilirubin and alkaline phosphatase (ALP) measurement.
@@ -122,7 +128,6 @@ Patients with hypertension uncontrolled by medication were excluded from partici
 In MS clinical trials, patients treated with fingolimod 0.5 mg had an average increase of approximately 3 mmHg in systolic pressure, and approximately 1 mmHg in diastolic pressure, first detected approximately 1 month after treatment initiation, and persisting with continued treatment.
 In the two-year placebo-controlled study, hypertension was reported as an adverse event in 6.5% of patients on fingolimod 0.5 mg and in 3.3% of patients on placebo.
 Therefore, blood pressure should be regularly monitored during treatment with Gilenya.
-
 Respiratory effects
 Minor dose-dependent reductions in values for forced expiratory volume (FEV1) and diffusion capacity for carbon monoxide (DLCO) were observed with Gilenya treatment starting at Month 1 and remaining stable thereafter.
 Gilenya should be used with caution in patients with severe respiratory disease, pulmonary fibrosis and chronic obstructive pulmonary disease (see also section 4.8).
@@ -133,6 +138,7 @@ Symptoms reported included sudden onset of severe headache, nausea, vomiting, al
 Symptoms of PRES are usually reversible but may evolve into ischaemic stroke or cerebral haemorrhage.
 Delay in diagnosis and treatment may lead to permanent neurological sequelae.
 If PRES is suspected, Gilenya should be discontinued.
+
 Prior treatment with immunosuppressive or immunomodulatory therapies
 There have been no studies performed to evaluate the efficacy and safety of Gilenya when switching patients from teriflunomide, dimethyl fumarate or alemtuzumab treatment to Gilenya.
 When switching patients from another disease modifying therapy to Gilenya, the half-life and mode of action of the other therapy must be considered in order to avoid an additive immune effect whilst at the same time minimising the risk of disease reactivation.
