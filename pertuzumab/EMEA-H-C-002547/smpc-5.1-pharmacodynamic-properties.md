@@ -8,6 +8,7 @@ Perjeta is a recombinant humanised monoclonal antibody that specifically targets
 As a result, Perjeta inhibits ligand-initiated intracellular signalling through two major signal pathways, mitogen-activated protein (MAP) kinase and phosphoinositide 3-kinase (PI3K).
 Inhibition of these signalling pathways can result in cell growth arrest and apoptosis, respectively.
 In addition, Perjeta mediates antibody-dependent cell-mediated cytotoxicity (ADCC).
+
 While Perjeta alone inhibited the proliferation of human tumour cells, the combination of Perjeta and trastuzumab significantly augmented antitumour activity in HER2-overexpressing xenograft models.
 
 Clinical efficacy and safety
@@ -30,8 +31,9 @@ Docetaxel was given as an initial dose of 75 mg/m2 as an intravenous infusion ev
 The dose of docetaxel could be escalated to 100 mg/m2 at the investigator’s discretion if the initial dose was well tolerated.
 
 The primary endpoint of the study was progression-free survival (PFS) as assessed by an independent review facility (IRF) and defined as the time from the date of randomization to the date of disease progression or death (from any cause) if the death occurred within 18 weeks of the last tumour assessment.
+Secondary efficacy endpoints were overall survival (OS), PFS (investigator-assessed), objective response rate (ORR), duration of response, and time to symptom progression according to the FACT B Quality of Life questionnaire.
 
-Approximately half the patients in each treatment group had hormone receptor-positive disease (defined as oestrogen receptor positive and/or progesterone receptor positive) and approximately half of the patients in each treatment group had received prior adjuvant or neoadjuvant therapy.
+Approximately half the patients in each treatment group had hormone receptor-positive disease (defined as oestrogen receptor-positive and/or progesterone receptor-positive) and approximately half of the patients in each treatment group had received prior adjuvant or neoadjuvant therapy.
 Most of these patients had received prior anthracycline therapy and 11% of all patients had received prior trastuzumab.
 A total of 43% of patients in both treatment groups had previously received radiotherapy.
 Patients’ median LVEF at baseline was 65.0% (range 50% – 88%) in both groups.
@@ -39,18 +41,19 @@ Patients’ median LVEF at baseline was 65.0% (range 50% – 88%) in both groups
 The efficacy results from the CLEOPATRA study are summarised in Table 2.
 A statistically significant improvement in IRF-assessed PFS was demonstrated in the Perjeta-treated group compared with the placebo-treated group.
 The results for investigator-assessed PFS were similar to those observed for IRF-assessed PFS.
+
 Table 2 Summary of efficacy from CLEOPATRA study
 
 | Parameter | Placebo+ trastuzumab + docetaxel n=406 | Perjeta+ trastuzumab + docetaxel n=402 | HR (95% CI) | p-value |
 | --- | --- | --- | --- | --- |
-| Progression-Free Survival (independent review) – primary endpoint no. of patients with an event Median months | 242 (59%) 12.4 | 191 (47.5%) 18.5 | 0.62 [0.51;0.75] | <0.0001 |
-| Overall Survival no. of patients with an event* Median months | 154 (37.9%) 37.6 | 113 (28.1%) Not reached | 0.66 [0.52;0.84] | 0.0008* |
-| Objective Response Rate (ORR)^ no. of patients with measurable disease Responders** 95% CI for ORR Complete response (CR) Partial Response (PR) Stable disease (SD) Progressive disease (PD) | 336 233 (69.3%) [64.1; 74.2] 14 (4.2%) 219 (65.2%) 70 (20.8%) 28 (8.3%) | 343 275 (80.2%) [75.6; 84.3] 19 (5.5%) 256 (74.6%) 50 (14.6%) 13 (3.8 %) | Difference in ORR: 10.8% [4.2,17.5]% | 0.0011 |
-| Duration of Response †^ n= Median weeks 95% CI for Median | 233 54.1 [46;54] | 275 87.6 [71;106] |  |  |
+| Progression-Free Survival (independent review) – primary endpoint* no. of patients with an event Median months | 242 (59%) 12.4 | 191 (47.5%) 18.5 | 0.62 [0.51;0.75] | <0.0001 |
+| Overall Survival - secondary endpoint** no. of patients with an event Median months | 221 (54.4%) 40.8 | 168 (41.8%) 56.5 | 0.68 [0.56;0.84] | 0.0002 |
+| Objective Response Rate (ORR)^ - secondary endpoint no. of patients with measurable disease Responders*** 95% CI for ORR Complete response (CR) Partial Response (PR) Stable disease (SD) Progressive disease (PD) | 336 233 (69.3%) [64.1; 74.2] 14 (4.2%) 219 (65.2%) 70 (20.8%) 28 (8.3%) | 343 275 (80.2%) [75.6; 84.3] 19 (5.5%) 256 (74.6%) 50 (14.6%) 13 (3.8 %) | Difference in ORR: 10.8% [4.2,17.5]% | 0.0011 |
+| Duration of Response †^ n= Median weeks 95% CI for Median | 233 54.1 [46;64] | 275 87.6 [71;106] |  |  |
 
-* p-value met the O’Brien Fleming stopping boundary of the Lan DeMets alpha spending function for the interim analysis of overall survival (p ≤ 0.0138).
-The result was therefore statistically significant.
-** Patients with best overall response of confirmed CR or PR by RECIST.
+* Primary progression-free survival analysis, cutoff date 13th May 2011.
+** Final analysis of overall survival, cutoff date 11th February 2014.
+*** Patients with best overall response of confirmed CR or PR by RECIST.
 † Evaluated in patients with Best Overall Response of CR or PR.
 ^ Objective response rate and duration of response are based on IRF-assessed tumour assessments.
 
@@ -58,9 +61,12 @@ Consistent results were observed across pre-specified patient subgroups includin
 A post hoc exploratory analysis revealed that for patients who had received prior trastuzumab (n = 88), the hazard ratio for IRF-assessed PFS was 0.62 (95% CI 0.35, 1.07), compared with 0.60 (95% CI 0.43, 0.83) for patients who had received prior therapy which did not include trastuzumab (n = 288).
 Figure 1 IRF-assessed PFS by patient subgroup
 
-At an OS analysis performed one year after the primary analysis of efficacy, 267 patients had died with more deaths occurring in the placebo-treated group compared with the Perjeta-treated group.
-A statistically significant overall survival benefit in favour of the Perjeta-treated group was demonstrated (see Figure 2).
+The final analysis of OS was performed when 389 patients had died (221 in the placebo-treated group and 168 in the Perjeta-treated group).
+The statistically significant OS benefit in favour of the Perjeta-treated group, previously observed at an interim analysis of OS (performed one year after the primary analysis), was maintained (HR 0.68, p = 0.0002 log-rank test).
+The median time to death was 40.8 months in the placebo-treated group and 56.5 months in the Perjeta-treated group (see Table 2, Figure 2).
 Figure 2 Kaplan-Meier Curve of Overall Survival
+
+HR= hazard ratio; CI= confidence interval; Pla= placebo; Ptz= pertuzumab (Perjeta); T= trastuzumab (Herceptin); D= docetaxel.
 
 No statistically significant differences were found between the two treatment groups in Health Related Quality of Life as assessed by FACT-B TOI-PFB scores.
 

@@ -26,7 +26,7 @@ Delayed or missed doses
 
 If the time between two sequential infusions is less than 6 weeks, the 420 mg dose of Perjeta should be administered as soon as possible without regard to the next planned dose.
 
-If the time between two sequential infusions is 6 weeks or more, the initial loading dose of 840 mg Perjeta should be re-administered as a 60 minute intravenous infusion followed every 3 weeks thereafter by a maintenance dose of 420 mg administered over a period of 30 to 60 minutes.
+If the time between two sequential infusions is 6 weeks or more, the initial loading dose of 840 mg Perjeta should be re-administered as a 60-minute intravenous infusion followed every 3 weeks thereafter by a maintenance dose of 420 mg administered over a period of 30 to 60 minutes.
 
 Dose modification
 
@@ -57,6 +57,9 @@ Infusion reactions
 The infusion rate may be slowed or interrupted if the patient develops an infusion reaction (see section 4.8).
 The infusion may be resumed when symptoms abate.
 Treatment including oxygen, beta agonists, antihistamines, rapid i.v. fluids and antipyretics may also help alleviate symptoms.
+
+Hypersensitivity reactions/anaphylaxis
+
 The infusion should be discontinued immediately if the patient experiences a NCI-CTCAE Grade 4 reaction (anaphylaxis), bronchospasm or acute respiratory distress syndrome (see section 4.4).
 
 Elderly patients

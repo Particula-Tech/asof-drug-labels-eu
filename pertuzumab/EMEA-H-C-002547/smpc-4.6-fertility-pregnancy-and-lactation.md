@@ -3,6 +3,7 @@
 Contraception
 
 Women of childbearing potential should use effective contraception while receiving Perjeta and for 6 months following the last dose of Perjeta.
+
 Pregnancy
 
 There is limited amount of data from the use of pertuzumab in pregnant women.
