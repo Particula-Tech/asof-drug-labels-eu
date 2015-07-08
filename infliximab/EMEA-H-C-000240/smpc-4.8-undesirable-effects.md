@@ -2,7 +2,7 @@
 
 Summary of the safety profile
 Upper respiratory tract infection was the most common adverse drug reaction (ADR) reported in clinical trials, occurring in 25.3% of infliximab-treated patients compared with 16.5% of control patients.
-The most serious ADRs associated with the use of TNF blockers that have been reported for Remicade include HBV reactivation, CHF, serious infections (including sepsis, opportunistic infections and TB), serum sickness (delayed hypersensitivity reactions), haematologic reactions, systemic lupus erythematosus/lupus-like syndrome, demyelinating disorders, hepatobiliary events, lymphoma, HSTCL, intestinal or perianal abscess (in Crohn’s disease), and serious infusion reactions (see section 4.4).
+The most serious ADRs associated with the use of TNF blockers that have been reported for Remicade include HBV reactivation, CHF, serious infections (including sepsis, opportunistic infections and TB), serum sickness (delayed hypersensitivity reactions), haematologic reactions, systemic lupus erythematosus/lupus-like syndrome, demyelinating disorders, hepatobiliary events, lymphoma, HSTCL, leukaemia, Merkel cell carcinoma, melanoma, paediatric malignancy, sarcoidosis/sarcoid-like reaction, intestinal or perianal abscess (in Crohn’s disease), and serious infusion reactions (see section 4.4).
 
 Tabulated list of adverse reactions
 Table 1 lists ADRs based on experience from clinical studies as well as adverse reactions, some with fatal outcome, reported from post-marketing experience.
@@ -86,7 +86,6 @@ Rare: Granulomatous lesion.
 Investigations
 Uncommon: Autoantibody positive.
 Rare: Complement factor abnormal.
-
 Infusion-related reactions
 An infusion-related reaction was defined in clinical studies as any adverse event occurring during an infusion or within 1 hour after an infusion.
 In Phase III clinical studies, 18% of infliximab-treated patients compared with 5% of placebo-treated patients experienced an infusion-related reaction.
@@ -121,8 +120,8 @@ In the psoriasis studies, delayed hypersensitivity reactions occurred early in t
 Signs and symptoms included myalgia and/or arthralgia with fever and/or rash, with some patients experiencing pruritus, facial, hand or lip oedema, dysphagia, urticaria, sore throat and headache.
 
 There are insufficient data on the incidence of delayed hypersensitivity reactions after Remicade-free intervals of more than 1 year but limited data from clinical studies suggest an increased risk for delayed hypersensitivity with increasing Remicade-free interval (see section 4.4).
-
 In a 1-year clinical study with repeated infusions in patients with Crohn's disease (ACCENT I study), the incidence of serum sickness-like reactions was 2.4%.
+
 Immunogenicity
 Patients who developed antibodies to infliximab were more likely (approximately 2-3 fold) to develop infusion-related reactions.
 Use of concomitant immunosuppressant agents appeared to reduce the frequency of infusion-related reactions.
@@ -192,9 +191,13 @@ Proportion of patients with increased ALT activity in clinical studies
 | Paediatric Ulcerative colitis | N/A | 60 | N/A | 49.4 | N/A | 6.7% | N/A | 1.7% |
 | Ankylosing spondylitis | 76 | 275 | 24.1 | 101.9 | 0.0% | 9.5% | 0.0% | 3.6% |
 | Psoriatic arthritis | 98 | 191 | 18.1 | 39.1 | 0.0% | 6.8% | 0.0% | 2.1% |
-| Plaque psoriasis | 281 | 1,175 | 16.1 | 50.1 | 0.4% | 7.7% | 0.0% | 3.4% |
 
+Plaque 281 1,175 16.1 50.1 0.4% 7.7% 0.0% 3.4%
+psoriasis
+
+1
 Placebo patients received methotrexate while infliximab patients received both infliximab and methotrexate.
+2
 Placebo patients in the 2 Phase III studies in Crohn’s disease, ACCENT I and ACCENT II, received an initial dose of 5 mg/kg infliximab at study start and were on placebo in the maintenance phase.
 Patients who were randomised to the placebo maintenance group and then later crossed over to infliximab are included in the infliximab group in the ALT analysis.
 In the Phase IIIb trial in Crohn’s disease, SONIC, placebo patients received AZA 2.5 mg/kg/day as active control in addition to placebo infliximab infusions.
@@ -274,3 +277,7 @@ Additional information on special populations
 Elderly patients (≥65 years)
 In rheumatoid arthritis clinical studies, the incidence of serious infections was greater in infliximab plus methotrexate-treated patients 65 years and older (11.3%) than in those under 65 years of age (4.6%).
 In patients treated with methotrexate alone, the incidence of serious infections was 5.2% in patients 65 years and older compared to 2.7% in patients under 65 (see section 4.4).
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

@@ -177,7 +177,7 @@ The long half-life of infliximab should be taken into consideration if a surgica
 A patient who requires surgery while on Remicade should be closely monitored for infections, and appropriate actions should be taken.
 
 Failure to respond to treatment for Crohn’s disease may indicate the presence of a fixed fibrotic stricture that may require surgical treatment.
-Available data suggest that infliximab does not worsen or cause strictures.
+There is no evidence to suggest that infliximab worsens or causes fibrotic strictures.
 
 Special populations
 Elderly patients (≥65 years)
