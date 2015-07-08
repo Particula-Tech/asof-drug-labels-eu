@@ -5,6 +5,7 @@ Summary of the safety profile
 The safety of the recommended dose of Quinsair was evaluated in 472 patients with CF from two double-blind, single-cycle, placebo-controlled trials and from an active-comparator study with an optional uncontrolled extension.
 
 The most frequently reported adverse reactions were cough/productive cough (54%), dysgeusia (30%) and fatigue/asthenia (25%).
+
 Tabulated list of adverse reactions reported with Quinsair
 
 The adverse reactions with at least a reasonable possibility of a causal relationship with Quinsair are presented according to the MedDRA System Organ Classification.
@@ -64,7 +65,6 @@ Weight decrease was reported as an adverse event during clinical studies, but wa
 
 Serious haematological adverse reactions such as pancytopenia, agranulocytosis and haemolytic anaemia have been reported following systemic administration of levofloxacin.
 Their frequency cannot be estimated from available data.
-
 Paediatric population
 
 In clinical trials, 51 adolescents with CF (≥ 12 to < 18 years old) received Quinsair 240 mg twice daily and 6 adolescents with CF received Quinsair 120 mg (n = 3) or 240 mg (n = 3) once daily.

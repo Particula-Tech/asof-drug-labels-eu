@@ -21,6 +21,7 @@ Keeping the handset level, place the mouthpiece in the patient’s mouth making 
 Ask the patient to inhale and exhale through the mouthpiece until the treatment is finished.
 When the treatment is complete, the controller will ‘beep’ twice.
 Disconnect the controller and dismantle the Zirela Nebuliser Handset for cleaning and disinfection.
+
 Do not put other medicinal products into the Zirela Nebuliser Handset.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

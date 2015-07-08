@@ -3,10 +3,10 @@
 Hypersensitivity reactions
 
 Levofloxacin can cause serious, potentially fatal hypersensitivity reactions (e.g. including angioedema and anaphylactic shock).
-
 Severe bullous reactions
 
 Cases of severe bullous skin reactions such as Stevens-Johnson syndrome or toxic epidermal necrolysis have been reported with systemic administration of levofloxacin (see section 4.8).
+
 Hepatobiliary disorders
 
 Cases of hepatic necrosis up to fatal hepatic failure have been reported with systemically administered levofloxacin, primarily in patients with severe underlying diseases (e.g. sepsis, see section 4.8).
@@ -52,6 +52,7 @@ Tendinitis and tendon rupture, sometimes bilateral, may occur within 48 hours of
 The risk of tendinitis and tendon rupture is increased in patients aged over 60 years, in patients receiving daily doses of 1000 mg and in patients using corticosteroids.
 
 Tendinitis was reported in patients with CF receiving Quinsair as an uncommon adverse reaction during clinical trials (see section 4.8).
+
 Bronchospasm
 
 Bronchospasm is a complication associated with inhaled therapies including Quinsair (see section 4.8).
@@ -89,11 +90,11 @@ If superinfection occurs during therapy, appropriate measures should be taken.
 Vision disorders
 
 If vision becomes impaired or any effects on the eyes are experienced, an eye specialist should be consulted immediately (see sections 4.7 and 4.8).
-
 Prevention of photosensitisation
 
 Photosensitisation has been reported with levofloxacin (see section 4.8).
 It is recommended that patients should not expose themselves unnecessarily to strong sunlight or to artificial UV rays (e.g. sunray lamp, solarium) during treatment and for 48 hours following treatment discontinuation in order to prevent photosensitisation.
+
 Interference with laboratory tests
 
 In patients treated with levofloxacin, determination of opiates in urine may give false-positive results.
