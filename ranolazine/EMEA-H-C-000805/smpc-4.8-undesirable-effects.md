@@ -76,6 +76,11 @@ Laboratory findings: Small, clinically insignificant, reversible elevations in s
 There was no renal toxicity related to these findings.
 A renal function study in healthy volunteers demonstrated a reduction in creatinine clearance with no change in glomerular filtration rate consistent with inhibition of renal tubular secretion of creatinine.
 
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
 [Ranexa 500 mg prolonged-release tablets]
 
 Uncommon: blurred vision, visual disturbance, diplpopia.

@@ -2,7 +2,6 @@
 
 After oral administration of Ranexa, peak plasma concentrations (Cmax) are typically observed between 2 and 6 hours.
 Steady state is generally achieved within 3 days of twice-daily dosing.
-
 Absorption: The mean absolute bioavailability of ranolazine after oral administration of immediate-release ranolazine tablets ranged from 35−50%, with large inter-individual variability.
 Ranexa exposure increases more than in proportion to dose.
 There was a 2.5- to 3-fold increase in steady-state AUC as the dose was increased from 500 mg to 1000 mg twice daily.
@@ -50,6 +49,7 @@ In the population pharmacokinetic analysis, a 1.2-fold increase in ranolazine ex
 In subjects with severe renal impairment (creatinine clearance 10–30 ml/min), a 1.3- to 1.8-fold increase in ranolazine exposure was estimated.
 
 The influence of dialysis on the pharmacokinetics of ranolazine has not been evaluated.
+
 Hepatic impairment: The pharmacokinetics of ranolazine have been evaluated in patients with mild or moderate hepatic impairment.
 There are no data in patients with severe hepatic impairment.
 Ranolazine AUC was unaffected in patients with mild hepatic impairment but increased 1.8-fold in patients with moderate impairment.

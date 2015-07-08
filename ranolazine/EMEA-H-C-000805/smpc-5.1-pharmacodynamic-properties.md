@@ -27,7 +27,6 @@ In a large outcome study (MERLIN-TIMI 36) in 6,560 patients with UA/NSTEMI ACS, 
 No proarrhythmic effects were observed in 3,162 patients treated with Ranexa based on 7-day Holter monitoring in the MERLIN-TIMI 36 study.
 There was a significantly lower incidence of arrhythmias in patients treated with Ranexa (80%) versus placebo (87%), including ventricular tachycardia
 ≥ 8 beats (5% versus 8%).
-
 Clinical efficacy and safety: Clinical studies have demonstrated the efficacy and safety of Ranexa in the treatment of patients with chronic angina, either alone or when the benefit from other antianginal medicinal products was sub-optimal.
 
 In the pivotal study, CARISA, Ranexa was added to treatment with atenolol 50 mg once daily, amlodipine 5 mg once daily, or diltiazem 180 mg once daily.
