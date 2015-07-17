@@ -1,0 +1,12 @@
+# 5.3 Preclinical safety data
+
+The safety of pembrolizumab was evaluated in a 1-month and a 6-month repeat-dose toxicity study in Cynomolgus monkeys administered IV doses of 6, 40 or 200 mg/kg once a week in the 1-month study and once every two weeks in the 6-month study, followed by a 4-month treatment-free period.
+No findings of toxicological significance were observed and the no observed adverse effect level (NOAEL) in both studies was ≥200 mg/kg, which is 19 times the exposure in humans at the highest clinically tested dose (10 mg/kg).
+
+Animal reproduction studies have not been conducted with pembrolizumab.
+The PD-1/PD-L1 pathway is thought to be involved in maintaining tolerance to the foetus thoughout pregnancy.
+Blockade of PD-L1 signaling has been shown in murine models of pregnancy to disrupt tolerance to the foetus and to result in an increase in foetal loss.
+These results indicate a potential risk that administration of KEYTRUDA during pregnancy could cause foetal harm, including increased rates of abortion or stillbirth.
+
+Fertility studies have not been conducted with pembrolizumab.
+In 1 month and 6 month repeat-dose toxicology studies in monkeys, there were no notable effects in the male and female reproductive organs; however, many animals in these studies were not sexually mature.
