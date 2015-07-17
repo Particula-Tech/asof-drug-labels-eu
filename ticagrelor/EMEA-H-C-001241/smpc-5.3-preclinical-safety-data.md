@@ -4,8 +4,8 @@ Preclinical data for ticagrelor and its major metabolite have not demonstrated u
 
 Gastrointestinal irritation was observed in several animal species at clinical relevant exposure levels (see section 4.8).
 
-In female rats, ticagrelor at high dose showed an increased incidence of uterine tumors (adenocarcinomas) and an increased incidence of hepatic adenomas.
-The mechanism for uterine tumors is likely hormonal imbalance which can lead to tumors in rats.
+In female rats, ticagrelor at high dose showed an increased incidence of uterine tumours (adenocarcinomas) and an increased incidence of hepatic adenomas.
+The mechanism for uterine tumours is likely hormonal imbalance which can lead to tumours in rats.
 The mechanism for the hepatic adenomas is likely due to a rodent-specific enzyme induction in the liver.
 Thus, the carcinogenicity findings are considered unlikely to be relevant for humans.
 

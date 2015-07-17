@@ -1,13 +1,13 @@
 # 6.1 List of excipients
 
-Core
+Tablet core
 Mannitol (E421)
-Dibasic calcium phosphate
+Calcium hydrogen phosphate dihydrate
 Magnesium stearate (E470b)
 Sodium starch glycolate
 Hydroxypropyl-cellulose (E463)
 
-Coating
+Tablet coating
 Talc
 Titanium dioxide (E171)
 Ferric oxide yellow (E172)

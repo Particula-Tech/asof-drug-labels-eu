@@ -3,13 +3,17 @@
 Pharmacotherapeutic group: Platelet aggregation inhibitors excluding heparin, ATC code: B01AC24
 
 Mechanism of action
-Brilique contains ticagrelor a member of the chemical class cyclopentyltriazolopyrimidines (CPTP), which is a selective adenosine diphosphate (ADP) receptor antagonist acting on the P2Y12 ADP-receptor that can prevent ADP-mediated platelet activation and aggregation.
-Ticagrelor is orally active, and reversibly interacts with the platelet P2Y12 ADP-receptor.
-Ticagrelor does not interact with the ADP binding site itself, but interacts with platelet P2Y12 ADP-receptor to prevent signal transduction.
+Brilique contains ticagrelor, a member of the chemical class cyclopentyltriazolopyrimidines (CPTP), which is an oral, direct acting, selective and reversibly binding P2Y12 receptor antagonist that prevents adenosine diphosphate (ADP)- mediated P2Y12 dependent platelet activation and aggregation.
+Ticagrelor does not prevent ADP binding but when bound to the P2Y12 receptor prevents ADP-induced signal transduction.
+Since platelets participate in the initiation and/or evolution of thrombotic complications of atherosclerotic disease, inhibition of platelet function has been shown to reduce the risk of cardiovascular events such as death, myocardial infarction or stroke.
+
+Ticagrelor also increases local endogenous adenosine levels by inhibiting the equilibrative nucleoside transporter -1 (ENT-1).
+Ticagrelor has been documented to augment the following adenosine-induced effects in healthy subjects and in patients with ACS: vasodilation (measured by coronary blood flow increases in healthy volunteers and ACS patients; headache), inhibition of platelet function (in human whole blood in vitro) and dyspnoea.
+However, a link between the observed increases in adenosine and clinical outcomes (e.g.: morbidity-mortality) has not been clearly elucidated.
 
 Pharmacodynamic effects
 Onset of Action
-In patients with stable coronary artery disease on ASA, ticagrelor demonstrates a rapid onset of pharmacological effect as demonstrated by a mean Inhibition of Platelet Aggregation (IPA) for ticagrelor at 0.5 hours after 180 mg loading dose of about 41%, with the maximum IPA effect of 89% by 2-4 hours post dose, and maintained between 2-8 hours.
+In patients with stable coronary artery disease on ASA, ticagrelor demonstrates a rapid onset of pharmacological effect as demonstrated by a mean inhibition of platelet aggregation (IPA) for ticagrelor at 0.5 hours after 180 mg loading dose of about 41%, with the maximum IPA effect of 89% by 2-4 hours post dose, and maintained between 2-8 hours.
 90% of patients had final extent IPA >70% by 2 hours post dose.
 
 Offset of Action
@@ -25,7 +29,7 @@ The PLATO study included 18,624 patients who presented within 24 hours of onset 
 On a background of daily ASA, ticagrelor 90 mg twice daily showed superiority to 75 mg daily clopidogrel in preventing the composite endpoint of cardiovascular [CV] death, myocardial infarction [MI], or stroke, with the difference driven by CV death and MI.
 Patients received a 300 mg loading dose of clopidogrel (600 mg possible if having PCI) or 180 mg of ticagrelor.
 
-The result appeared early (absolute risk reduction [ARR] 0.6% and Relative Risk Reduction [RRR] of 12% at 30 days), with a constant treatment effect over the entire 12 month period, yielding ARR
+The result appeared early (absolute risk reduction [ARR] 0.6% and relative risk reduction [RRR] of 12% at 30 days), with a constant treatment effect over the entire 12 month period, yielding ARR
 1.9% per year with RRR of 16%.
 This suggests it is appropriate to treat patients with ticagrelor for up to 12 months (see section 4.2).
 Treating 54 ACS patients with ticagrelor instead of clopidogrel will prevent 1 atherothrombotic event; treating 91 will prevent 1 CV death (see Figure 1 and Table 3).
@@ -37,7 +41,6 @@ Exploratory analyses suggest a possible association with ASA dose such that redu
 Chronic daily ASA doses to accompany Brilique should be 75-150 mg (see section 4.2 and 4.4).
 
 Figure 1 shows the estimate of the risk to the first occurrence of any event in the composite efficacy endpoint.
-
 Figure 1 – Time to first occurrence of CV death, MI and Stroke (PLATO)
 
 Brilique reduced the occurrence of the primary composite endpoint compared to clopidogrel in both the UA/NSTEMI and STEMI population (Table 3).

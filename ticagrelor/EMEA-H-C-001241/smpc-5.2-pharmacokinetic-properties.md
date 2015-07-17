@@ -13,6 +13,9 @@ Ingestion of a high-fat meal resulted in a 21% increase in ticagrelor AUC and 22
 These small changes are considered of minimal clinical significance; therefore, ticagrelor can be given with or without food.
 Ticagrelor as well as the active metabolite are P-gp substrates.
 
+Ticagrelor as crushed tablets mixed in water, given orally or administered through a nasogastric tube into the stomach, has a comparable bioavailability to whole tablets with regards to AUC and Cmax for ticagrelor and the active metabolite.
+Initial exposure (0.5 and 1 hour post-dose) from crushed ticagrelor tablets mixed in water was higher compared to whole tablets, with a generally identical concentration profile thereafter (2 to 48 hours).
+
 Distribution
 The steady state volume of distribution of ticagrelor is 87.5 l. Ticagrelor and the active metabolite is extensively bound to human plasma protein (>99.0%).
 
@@ -31,11 +34,11 @@ The mean t1/2 was approximately 7 hours for ticagrelor and 8.5 hours for the act
 
 Special populations
 
-Older people
-Higher exposures to ticagrelor (approximately 25% for both Cmax and AUC) and the active metabolite were observed in elderly (≥ 75years) ACS patients compared to younger patients by the population pharmacokinetic analysis.
+Elderly
+Higher exposures to ticagrelor (approximately 25% for both Cmax and AUC) and the active metabolite were observed in elderly (≥75years) ACS patients compared to younger patients by the population pharmacokinetic analysis.
 These differences are not considered clinically significant (see section 4.2).
 
-Paediatric
+Paediatric population
 Ticagrelor has not been evaluated in a paediatric population (see section 4.2 and 5.1).
 
 Gender
@@ -51,5 +54,5 @@ Ticagrelor has not been studied in patients with moderate or severe hepatic impa
 
 Ethnicity
 Patients of Asian descent have a 39% higher mean bioavailability compared to Caucasian patients.
-Patients self-identified as Black had an 18% lower bioavailability of ticagrelor compared to Caucasian patients.
+Patients self-identified as black had an 18% lower bioavailability of ticagrelor compared to Caucasian patients.
 In clinical pharmacology studies, the exposure (Cmax and AUC) to ticagrelor in Japanese subjects was approximately 40% (20% after adjusting for body weight) higher compared to that in Caucasians.
