@@ -35,7 +35,7 @@ Where Grade 3 or 4 reactions occurred, the actual total frequency and the freque
 | Skin and subcutaneous tissue disorders | Alopecia | Rash Pruritus (3.9%) (G3/4: 0.1%) Nail disorder Night sweats Dry skin Erythema Hyperhidrosis | Palmar plantar erythrodysaesthesia | Angioedema |
 | Musculoskeletal and connective tissue disorders | Arthralgia and myalgia (19.4%) (G3/4: 1.1%) Back pain (13.0%) (G3/4:1.5%) Pain in extremity (10.0%) (G3/4: 0.7%) | Bone pain ( 9.6%) (G3/4: 1.7%) Muscle spasms (5.1%) (G3/4: 0.1%) Musculoskeletal pain and musculoskeletal chest pain Muscular weakness |  |  |
 | Renal and urinary disorders |  | Dysuria | Haematuria Proteinuria Renal failure |  |
-| General disorders and administration site conditions | Fatigue/Asthenia (47.9%) (G3/4 : 7.8%) Pyrexia (20.4%) (G3/4: 0.6%) | Mucosal Inflammation (8.3%) (G3/4: 1.1%)d Peripheral oedema Pain Chills Chest Pain Influenza like illness |  |  |
+| General disorders and administration site conditions | Fatigue/Asthenia (47.9%) (G3/4 : 7.8%) Pyrexia (20.4%) (G3/4: 0.6%) | Mucosal inflammation (8.3%) (G3/4: 1.1%)d Peripheral oedema Pain Chills Chest pain Influenza like illness |  |  |
 | Investigations | Weight decreased (11.3%) (G3/4: 0.3%) |  |  |  |
 
 a Includes 1 or 2 Grade 5 b From spontaneous reporting c Includes preferred terms of peripheral neuropathy, peripheral motor neuropathy, polyneuropathy, paraesthesia, peripheral sensory neuropathy, peripheral sensorimotor neuropathy and demyelinating polyneuropathy d No Grade 4

@@ -57,7 +57,7 @@ Patients with renal impairment
 
 Patients with severely impaired renal function (creatinine clearance <40 ml/min) may need a reduction of the dose.
 The optimal dose for this patient groups remains to be established.
-Caution and close safety monitoring as advised.
+Caution and close safety monitoring is advised.
 
 No specific dose adjustments are recommended for patients with mild to moderate renal impairment but close safety monitoring is advised.
 (See section 5.2)

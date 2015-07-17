@@ -8,6 +8,7 @@ HALAVEN should only be prepared and administered by personnel appropriately trai
 Pregnant staff should not handle HALAVEN.
 
 Using aseptic technique HALAVEN can be diluted up to 100 ml with sodium chloride 9 mg/ml (0.9%) solution for injection.
+Following administration, it is recommended that the intravenous line be flushed with sodium chloride 9 mg/ml (0.9%) solution for injection to ensure administration of the complete dose.
 It must not be mixed with other medicinal products and should not be diluted in glucose 5% infusion solution.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

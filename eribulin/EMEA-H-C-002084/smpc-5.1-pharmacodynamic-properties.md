@@ -25,7 +25,7 @@ Efficacy Parameter HALAVEN TPC
 HALAVEN
 0.9 Overall Survival
 
-0.8 Number of Events 365 203
+0.8 Number of Events 386 203
 0.7 Median (months) 13.2 10.5
 0.6 Physician’s Choice Treatment of Hazard Ratio (95% CI)a 0.805 (0.677, 0.958)
 0.5 (TPC) Nominal P value 0.014b
