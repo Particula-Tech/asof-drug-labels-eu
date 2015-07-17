@@ -32,8 +32,8 @@ With increasing renal impairment, from mild (CLcr 50 to < 80 ml/min) to moderate
 However, the maximum observed plasma concentrations as well as volumes of distribution estimates were similar across the groups.
 The plasma concentration-time profiles were not significantly altered in the early stages after dosing when most pharmacologic effects are observed.
 No dose adjustment is needed in patients with renal impairment.
-
 The pharmacokinetics of regadenoson in patients on dialysis has not been assessed.
+
 Hepatic impairment
 Greater than 55% of the regadenoson dose is excreted unchanged in the urine and factors that decrease clearance do not affect the plasma concentration in the early stages after dosing when clinically meaningful pharmacologic effects are observed.
 The pharmacokinetic parameters of regadenoson have not been specifically evaluated in those with varying degrees of hepatic impairment.

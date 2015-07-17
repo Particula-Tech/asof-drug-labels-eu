@@ -43,7 +43,6 @@ Dyspnoea did not correlate with a decrease in FEV1.
 
 Clinical efficacy and safety
 Clinical studies have demonstrated the efficacy and safety of Rapiscan in patients indicated for pharmacologic stress radionuclide MPI.
-
 The efficacy and safety of Rapiscan were determined relative to adenosine in two randomised, double-blind studies (ADVANCE MPI 1 and ADVANCE MPI 2) in 2,015 patients with known or suspected coronary artery disease who were referred for a clinically-indicated pharmacologic stress MPI.
 A total of 1,871 of these patients had images considered valid for the primary efficacy evaluation, including 1,294 (69%) men and 577 (31%) women with a median age of 66 years (range 26-93 years of age).
 Each patient received an initial stress scan using adenosine (6-minute infusion using a dose of 0.14 mg/kg/min, without exercise) with a radionuclide gated SPECT (single photon emission computed tomography) imaging protocol.
@@ -81,7 +80,6 @@ Effect of caffeine
 In a study of adult patients undergoing pharmacological stress radionuclide MPI with Rapiscan, randomized to placebo (n=66) or caffeine (200 mg, n=70 or 400 mg, n=71) administered 90 minutes before the test, caffeine compromised the diagnostic accuracy of detecting reversible perfusion defects (p<0.001).
 There was no statistical difference between 200 mg and 400 mg caffeine with Rapiscan.
 Also, there was no apparent effect of 200 mg or 400 mg of caffeine on regadenoson plasma concentrations.
-
 Safety and tolerability testing
 In ADVANCE MPI 1 and ADVANCE MPI 2, the following pre-specified safety and tolerability endpoints comparing Rapiscan to adenosine achieved statistical significance: (1) a summed score of both the presence and severity of the symptom groups of flushing, chest pain, and dyspnoea was lower with Rapiscan (0.9 ± 0.03) than with adenosine (1.3 ± 0.05); and (2) the symptom groups of flushing (21% vs 32%), chest pain (28% vs 40%), and ‘throat, neck or jaw pain’ (7% vs 13%) were less frequent with Rapiscan; the incidence of headache (25% vs 16%) was more frequent with Rapiscan.
 

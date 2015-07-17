@@ -41,7 +41,8 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | Respiratory, thoracic and mediastinal disorders: |  |
 | Very common | Dyspnoea |
 | Common | Throat tightness, throat irritation, cough |
-| Uncommon | Tachypnoea |
+| Uncommon | Tachypnoea, wheezing |
+| Not known | Bronchospasm, Respiratory arrest |
 | Gastrointestinal disorders: |  |
 | Very common | Gastrointestinal discomfort |
 | Common | Vomiting, nausea, oral discomfort |
@@ -65,6 +66,7 @@ Sinoatrial and atrioventricular nodal block
 Adenosine receptor agonists, including Rapiscan, can depress the SA and AV nodes and may cause first, second or third degree AV block, or sinus bradycardia requiring intervention.
 In clinical trials first degree AV block (PR prolongation > 220 msec) developed in 3% of patients within 2 hours of Rapiscan administration; transient second degree AV block with one dropped beat was observed in one patient receiving Rapiscan.
 In postmarketing experience, third degree heart block and asystole have been reported within minutes of Rapiscan administration.
+
 Hypotension
 Adenosine receptor agonists, including Rapiscan induce arterial vasodilation and hypotension.
 In clinical trials, decreased systolic blood pressure (> 35 mm Hg) was observed in 7% of patients and decreased diastolic blood pressure (> 25 mm Hg) was observed in 4% of patients within 45 minutes of Rapiscan administration.

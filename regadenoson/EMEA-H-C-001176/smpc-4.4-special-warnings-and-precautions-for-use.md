@@ -41,8 +41,8 @@ Rapiscan should be used with caution in patients with a history of atrial fibril
 In post-marketing experience there have been cases of worsening or recurrence of atrial fibrillation after administration of Rapiscan.
 
 Bronchoconstriction
-Adenosine receptor agonists may cause bronchoconstriction and respiratory compromise.
-For patients with known or suspected bronchoconstrictive disease, chronic obstructive pulmonary disease (COPD) or asthma, appropriate bronchodilator therapy and resuscitative measures should be available prior to Rapiscan administration.
+Adenosine receptor agonists, including Rapiscan, may cause bronchoconstriction and respiratory arrest (see section 4.8) , especially in patients with known or suspected bronchoconstrictive disease, chronic obstructive pulmonary disease (COPD) or asthma.
+Appropriate bronchodilator therapy and resuscitative measures should be available prior to Rapiscan administration.
 
 Long QT syndrome
 Regadenoson stimulates sympathetic output and may increase the risk of ventricular tachyarrhythmias in patients with a long QT syndrome.
