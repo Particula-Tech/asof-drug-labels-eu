@@ -38,13 +38,13 @@ Dose reduction or interruption may be considered if there are abnormalities in l
 Renal tubulopathy has been mainly reported in children and adolescents with beta-thalassaemia treated with EXJADE.
 
 If, despite dose reduction and interruption, the serum creatinine remains significantly elevated and there is also persistent abnormality in another marker of renal function (e.g. proteinuria, Fanconi’s Syndrome), the patient should be referred to a renal specialist, and further specialised investigations (such as renal biopsy) may be considered.
-
 Hepatic function:
 
 Liver function test elevations have been observed in patients treated with EXJADE.
 Post-marketing cases of hepatic failure, sometimes fatal, have been reported in patients treated with EXJADE.
 Most reports of hepatic failure involved patients with significant morbidities including pre-existing liver cirrhosis.
 However, the role of EXJADE as a contributing or aggravating factor cannot be excluded (see section 4.8).
+
 It is recommended that serum transaminases, bilirubin and alkaline phosphatase be checked before the initiation of treatment, every 2 weeks during the first month and monthly thereafter.
 If there is a persistent and progressive increase in serum transaminase levels that cannot be attributed to other causes, EXJADE should be interrupted.
 Once the cause of the liver function test abnormalities has been clarified or after return to normal levels, cautious re-initiation of treatment at a lower dose followed by gradual dose escalation may be considered.
@@ -89,6 +89,7 @@ If SJS or any other severe skin reaction is suspected, EXJADE should be disconti
 Hypersensitivity reactions
 Cases of serious hypersensitivity reactions (such as anaphylaxis and angioedema) have been reported in patients receiving EXJADE, with the onset of the reaction occurring in the majority of cases within the first month of treatment (see section 4.8).
 If such reactions occur, EXJADE should be discontinued and appropriate medical intervention instituted.
+Deferasirox should not be reintroduced in patients who have experienced a hypersensitivity reaction due to the risk of anaphylactic shock (see section 4.3).
 
 Vision and hearing
 Auditory (decreased hearing) and ocular (lens opacities) disturbances have been reported (see section 4.8).
