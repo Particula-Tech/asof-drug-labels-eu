@@ -10,3 +10,4 @@ EU/1/08/492/006
 [RoActemra 162 mg solution for injection in pre-filled syringe.]
 
 EU/1/08/492/007
+EU/1/08/492/008

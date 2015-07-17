@@ -156,6 +156,7 @@ The frequency of ADRs in pJIA patients can be found in Table 2 .
 The types of ADRs in pJIA patients were similar to those seen in RA and sJIA patients, see section 4.8.
 When compared to the adult RA population, events of nasopharyngitis, headache, nausea, and decreased neutrophil count were more frequently reported in the pJIA population.
 Events of cholesterol increased were less frequently reported in the pJIA population than in the adult RA population.
+
 Infections
 The rate of infections in the tocilizumab all exposure population was 163.7 per 100 patient years.
 The most common events observed were nasopharyngitis and upper respiratory tract infections.
@@ -194,10 +195,10 @@ In general, the ADRs in sJIA patients were similar in type to those seen in RA p
 The frequency of ADRs in sJIA patients can be found in Table 2.
 When compared to the adult RA population, patients with sJIA experienced a higher frequency of nasopharyngitis, decrease in neutrophil counts, hepatic transaminases increased, and diarrhea.
 Events of cholesterol increased were less frequently reported in the sJIA population than in the adult RA population.
+
 Infections
 In the 12 week controlled phase, the rate of all infections in the tocilizumab group was 344.7 per 100 patient years and 287.0 per 100 patient years in the placebo group.
 In the ongoing open label extension phase (Part II), the overall rate of infections remained similar at 306.6 per 100 patient years.
-
 In the 12 week controlled phase, the rate of serious infections in the tocilizumab group was 11.5 per 100 patient years.
 At one year in the ongoing open label extension phase the overall rate of serious infections remained stable at 11.3 per 100 patient years.
 Reported serious infections were similar to those seen in RA patients with the addition of varicella and otitis media.
@@ -232,6 +233,7 @@ Hepatic transaminase elevations
 During routine laboratory monitoring in the 12 week controlled phase, elevation in ALT or AST ≥ 3 x ULN occurred in 5% and 3% of patients, respectively, in the tocilizumab group, and 0% in the placebo group.
 
 In the ongoing open label extension phase, elevation in ALT or AST ≥ 3 x ULN occurred in 12% and 4% of patients, respectively, in the tocilizumab group.
+
 Immunoglobulin G
 IgG levels decrease during therapy.
 A decrease to the lower limit of normal occurred in 15 patients at some point in the study.

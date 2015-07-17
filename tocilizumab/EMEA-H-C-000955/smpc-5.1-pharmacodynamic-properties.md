@@ -15,10 +15,10 @@ In clinical studies with tocilizumab, rapid decreases in CRP, erythrocyte sedime
 Consistent with the effect on acute phase reactants, treatment with tocilizumab was associated with reduction in platelet count within the normal range.
 Increases in haemoglobin levels were observed, through tocilizumab decreasing the IL-6 driven effects on hepcidin production to increase iron availability.
 In tocilizumab-treated patients, decreases in the levels of CRP to within normal ranges were seen as early as week 2, with decreases maintained while on treatment.
+
 In healthy subjects administered tocilizumab in doses from 2 to 28 mg/kg, absolute neutrophil counts decreased to their lowest 3 to 5 days following administration.
 Thereafter, neutrophils recovered towards baseline in a dose dependent manner.
 Rheumatoid arthritis patients demonstrated a similar pattern of absolute neutrophil counts following tocilizumab administration (see section 4.8).
-
 Clinical efficacy and safety
 The efficacy of tocilizumab in alleviating the signs and symptoms of RA was assessed in five randomised, double-blind, multi-centre studies.
 Studies I-V enrolled patients ≥ 18 years of age with active RA diagnosed according to the American College of Rheumatology (ACR) criteria and who had at least eight tender and six swollen joints at baseline.
@@ -100,9 +100,9 @@ After 2 years of treatment with tocilizumab plus MTX, 14% of patients achieved a
 Radiographic response
 In Study II, in patients with an inadequate response to MTX, inhibition of structural joint damage was assessed radiographically and expressed as change in modified Sharp score and its components, the erosion score and joint space narrowing score.
 Inhibition of joint structural damage was shown with significantly less radiographic progression in patients receiving tocilizumab compared to control (Table 4).
+
 In the open-label extension of Study II the inhibition of progression of structural joint damage in tocilizumab plus MTX-treated patients was maintained in the second year of treatment.
 The mean change from baseline at week 104 in total Sharp-Genant score was significantly lower for patients randomised to tocilizumab 8 mg/kg plus MTX (p<0.0001) compared with patients who were randomised to placebo plus MTX.
-
 Table 4.
 Radiographic mean changes over 52 weeks in Study II
 
@@ -201,7 +201,6 @@ mTSS - modified Total Sharp Score
 JSN - Joint space narrowing
 
 All efficacy comparisons vs Placebo + MTX. ***p≤0.0001; **p<0.001; *p<0.05;
-
 ‡p-value < 0.05 vs. Placebo + MTX, but endpoint was exploratory (not included in the hierarchy of statistical testing and has therefore not been controlled for multiplicity)
 
 Paediatric population sJIA Patients
@@ -209,6 +208,7 @@ Clinical efficacy
 The efficacy of tocilizumab for the treatment of active sJIA was assessed in a 12 week randomised, double blind, placebo-controlled, parallel group, two arm study.
 Patients included in the trial had a total disease duration of at least 6 months and active disease but were not experiencing an acute flare requiring corticosteroid doses of more than 0.5 mg/kg prednisone equivalent.
 Efficacy for the treatment of macrophage activation syndrome has not been investigated.
+
 Patients (treated with or without MTX) were randomised (tocilizumab:placebo = 2:1) to one of two treatment groups, 75 patients received tocilizumab infusions every two weeks, either 8 mg/kg for patients ≥ 30 kg or 12 mg/kg for patients < 30 kg and 37 patients were assigned to receiving placebo infusions every two weeks.
 Corticosteroid tapering was permitted from week six for patients who achieved a JIA ACR70 response.
 After 12 weeks or at the time of escape, due to disease worsening, patients were treated in the open label phase at weight appropriate dosing.
