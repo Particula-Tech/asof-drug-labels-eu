@@ -6,10 +6,10 @@ Patients should be closely monitored during this period.
 Suicidality
 The occurrence of suicidal behaviour is inherent in psychotic illnesses and in some cases has been reported early after initiation or switch of antipsychotic therapy.
 Close supervision of high-risk patients should accompany antipsychotic therapy.
-
 Parkinson’s disease
 If prescribed to patients with Parkinson’s disease, antipsychotic medicinal products may exacerbate the underlying parkinsonism symptoms.
 Physicians should therefore weigh the risks versus the benefits when prescribing Latuda to patients with Parkinson’s disease.
+
 Extrapyramidal symptoms (EPS)
 Medicinal products with dopamine receptor antagonistic properties have been associated with extrapyramidal adverse reactions including rigidity, tremors, mask-like face, dystonias, drooling of saliva, drooped posture and abnormal gait.
 In placebo controlled clinical studies in adult patients with schizophrenia there was an increased occurrence of EPS following treatment with lurasidone compared to placebo.
@@ -25,7 +25,7 @@ Seizures
 Lurasidone should be used cautiously in patients with a history of seizures or other conditions that potentially lower the seizure threshold.
 
 Neuroleptic malignant syndrome (NMS)
-Neuroleptic Malignant Syndrome, characterised by hyperthermia, muscle rigidity, autonomic instability, altered consciousness and elevated serum creatine phosphokinase levels, has been reported to occur with antipsychotics.
+Neuroleptic Malignant Syndrome, characterised by hyperthermia, muscle rigidity, autonomic instability, altered consciousness and elevated serum creatine phosphokinase levels, has been reported to occur with antipsychotics including lurasidone.
 Additional signs may include myoglobinuria (rhabdomyolysis) and acute renal failure.
 In this event, all antipsychotics, including lurasidone, should be discontinued.
 
@@ -44,13 +44,13 @@ Lurasidone should be used with caution in elderly patients with dementia who hav
 Venous thromboembolism
 Cases of venous thromboembolism (VTE) have been reported with antipsychotic medicinal products.
 Since patients treated with antipsychotics often present with acquired risk factors for VTE, all possible risk factors for VTE should be identified before and during treatment with lurasidone and preventive measures undertaken.
-
 Hyperprolactinaemia
 Lurasidone elevates prolactin levels due to antagonism of dopamine D2 receptors.
 
 Weight gain
 Weight gain has been observed with atypical antipsychotic use.
 Clinical monitoring of weight is recommended.
+
 Hyperglycaemia
 Rare cases of glucose related adverse reactions, e.g. increase in blood glucose, have been reported in clinical trials with lurasidone.
 Appropriate clinical monitoring is advisable in diabetic patients and in patients with risk factors for the development of diabetes mellitus.

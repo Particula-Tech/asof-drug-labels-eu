@@ -21,7 +21,7 @@ Table 1
 | Immune system disorders |  |  |  |  | Hypersensitivity# |
 | Metabolism and nutrition disorders |  | Weight increased | Decreased appetite Blood glucose increased |  |  |
 | Psychiatric disorders |  | Insomnia Agitation Anxiety Restlessness | Nightmare Catatonia |  | Suicidal behaviour**** Panic attack**** Sleep disorder**** |
-| Nervous system disorders | Akathisia Somnolence* | Parkinsonism** Dizziness Dystonia*** Dyskinesia | Lethargy Dysarthria |  | Convulsion**** |
+| Nervous system disorders | Akathisia Somnolence* | Parkinsonism** Dizziness Dystonia*** Dyskinesia | Lethargy Dysarthria | Neuroleptic malignant syndrome (NMS) | Convulsion**** |
 | Eye disorders |  |  | Blurred vision |  |  |
 | Ear and labyrinth disorders |  |  |  |  | Vertigo**** |
 | Cardiac disorders |  |  | Tachycardia |  | Angina**** AV block first degree**** Bradycardia**** |

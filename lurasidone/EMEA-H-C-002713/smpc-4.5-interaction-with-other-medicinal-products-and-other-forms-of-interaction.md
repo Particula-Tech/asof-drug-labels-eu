@@ -16,11 +16,11 @@ Potential for other medicinal products to affect lurasidone
 
 Lurasidone and its active metabolite ID-14283 both contribute to the pharmacodynamic effect at the dopaminergic and serotonergic receptors.
 Lurasidone and its active metabolite ID-14283 are primarily metabolised by CYP3A4.
-
 CYP3A4 inhibitors
 Lurasidone is contraindicated with strong CYP3A4 inhibitors (e.g. boceprevir, clarithromycin, cobicistat, indinavir, itraconazole, ketoconazole, nefazodone, nelfinavir, posaconazole, ritonavir, saquinavir, telaprevir, telithromycin, voriconazole) (see section 4.3).
 
 Coadministration of lurasidone with the strong CYP3A4 inhibitor ketoconazole resulted in a 9- and 6-fold increase in exposure of lurasidone and its active metabolite ID-14283 respectively.
+
 Coadministration of lurasidone with medicinal products that moderately inhibit CYP3A4 (e.g. diltiazem, erythromycin, fluconazole verapamil) may increase exposure to lurasidone.
 Moderate CYP3A4 inhibitors are estimated to result in a 2-5 fold increase in exposure of CYP3A4 substrates.
 
@@ -54,6 +54,13 @@ Concomitant administration of BCRP substrates may result in increases in the pla
 
 Coadministration of lurasidone with lithium indicated that lithium had clinically negligible effects on the pharmacokinetics of lurasidone, therefore no dose adjustment of lurasidone is required when coadministered with lithium.
 Lurasidone does not impact concentrations of lithium.
-
 A clinical drug interaction study investigating the effect of coadministration of lurasidone on patients taking oral combination contraceptives including norgestimate and ethinyl estradiol, indicated that lurasidone had no clinically or statistically meaningful effects on the pharmacokinetics of the contraceptive or sex hormone binding globulin (SHBG) levels.
 Therefore, lurasidone can be coadministered with oral contraceptives.
+
+[Latuda 37 mg film-coated tablets]
+
+(all sentences already above)
+
+[Latuda 74 mg film-coated tablets]
+
+Moderate CYP3A4 inhibitors are estimated to result in a 2-5-fold increase in exposure of CYP3A4 substrates.

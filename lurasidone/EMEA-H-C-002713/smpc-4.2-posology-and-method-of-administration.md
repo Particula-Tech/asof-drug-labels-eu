@@ -21,7 +21,8 @@ Caution should be exercised when treating patients ≥65 years of age with highe
 
 Renal impairment
 No dose adjustment of lurasidone is required in patients with mild renal impairment.
-In patients with moderate (Creatinine Clearance (CrCl) ≥ 30 and < 50 ml/min), severe renal impairment (CrCL >15 and < 30 ml/min) and End Stage Renal Disease (ESRD) patients (CrCl < 15 ml/min), the recommended starting dose is 18.5 mg and the maximum dose should not exceed 74 mg once daily.
+In patients with moderate (Creatinine Clearance (CrCl) ≥ 30 and < 50 ml/min), severe renal impairment (CrCL >15 and < 30 ml/min) and End Stage Renal Disease (ESRD) patients
+(CrCl < 15 ml/min), the recommended starting dose is 18.5 mg and the maximum dose should not exceed 74 mg once daily.
 Latuda should not be used in patients with ESRD unless the potential benefits outweigh the potential risks.
 If used in ESRD, clinical monitoring is advised.
 
@@ -33,7 +34,7 @@ The maximum daily dose in moderate hepatic impairment patients should not exceed
 
 Paediatric population
 The safety and efficacy of lurasidone in children aged less than 18 years have not been established.
-No data are available.
+Current available data are described in section 5.2, but no recommendation on a posology can be made.
 
 Dose adjustment due to interactions
 A starting dose of 18.5 mg is recommended and the maximum dose of lurasidone should not exceed 74 mg once daily in combination with moderate CYP3A4 inhibitors.
