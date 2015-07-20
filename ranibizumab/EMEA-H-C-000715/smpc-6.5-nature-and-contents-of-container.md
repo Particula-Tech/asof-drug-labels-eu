@@ -13,3 +13,7 @@ Pack containing 1 vial.
 The pre-filled syringe has a plunger rod and a finger grip, and is packed in a sealed tray.
 
 Pack size of one pre-filled syringe.
+
+[Lucentis 10 mg/ml solution for injection (SmPC 4)]
+
+0.23 ml sterile solution in a vial (type I glass) with a stopper (chlorobutyl rubber) and 1 blunt filter needle (18G x 1½″, 1.2 mm x 40 mm, 5 µm).

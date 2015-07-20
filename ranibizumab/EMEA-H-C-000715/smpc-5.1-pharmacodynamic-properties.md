@@ -5,12 +5,12 @@ Pharmacotherapeutic group: Ophthalmologicals, antineovascularisation agents, ATC
 Ranibizumab is a humanised recombinant monoclonal antibody fragment targeted against human vascular endothelial growth factor A (VEGF-A).
 It binds with high affinity to the VEGF-A isoforms (e.g. VEGF110, VEGF121 and VEGF165), thereby preventing binding of VEGF-A to its receptors VEGFR-1 and VEGFR-2.
 Binding of VEGF-A to its receptors leads to endothelial cell proliferation and neovascularisation, as well as vascular leakage, all of which are thought to contribute to the progression of the neovascular form of age-related macular degeneration, pathologic myopia or to visual impairment caused by either diabetic macular oedema or macular oedema secondary to RVO.
-
 Treatment of wet AMD
 In wet AMD, the clinical safety and efficacy of Lucentis have been assessed in three randomised, double-masked, sham- or active-controlled studies of 24 months duration in patients with neovascular AMD.
 A total of 1,323 patients (879 active and 444 control) were enrolled in these studies.
 
 In study FVF2598g (MARINA), 716 patients with minimally classic or occult with no classic choroidal neovascularisation (CNV) received monthly intravitreal injections of Lucentis 0.3 mg (n=238) or 0.5 mg (n=240) or sham (n=238) injections.
+
 In study FVF2587g (ANCHOR), 423 patients with predominantly classic CNV lesions received either: 1) monthly intravitreal injections of Lucentis 0.3 mg and sham PDT (n=140); 2) monthly intravitreal injections of Lucentis 0.5 mg and sham PDT (n=140); or 3) sham intravitreal injections and active verteporfin PDT (n=143).
 Sham or active verteporfin PDT was given with the initial Lucentis injection and every 3 months thereafter if fluorescein angiography showed persistence or recurrence of vascular leakage.
 
@@ -106,8 +106,8 @@ Laser photocoagulation was administered at baseline on the same day, at least 30
 Patients were treated with ranibizumab 0.5 mg pro re nata (PRN) in the same eye that was selected as the study eye in the study D2301 (RESTORE).
 Treatment was re-initiated at monthly intervals upon a decrease in BCVA due to DME and continued until stable BCVA was reached.
 In addition, laser treatment was administered if deemed necessary by the investigator and based on ETDRS criteria.
-
 Key outcome measures are summarised in Table 2 (RESTORE and Extension) and Figure 2 (RESTORE).
+
 Figure 2 Mean change in visual acuity from baseline over time in study D2301 (RESTORE)
 
 12
@@ -179,7 +179,6 @@ On average, these 59 patients received 8.1 ranibizumab injections in the 24-mont
 The proportions of patients who did not require any ranibizumab treatment during the extension phase were 19%, 25% and 20% in the prior ranibizumab, prior ranibizumab + laser and prior laser group, respectively.
 
 The long-term safety profile of ranibizumab observed in the 24-month extension study is consistent with the known Lucentis safety profile.
-
 In the phase IIIb study D2304 (RETAIN), 372 patients with visual impairment due to DME were randomised to receive intravitreal injections of either:
 
 - ranibizumab 0.5 mg with concomitant laser photocoagulation on a treat-and-extend (TE) regimen (n=121),
@@ -228,12 +227,12 @@ Month 24(%)
 ap<0.0001 for assessment of non-inferiority to PRN
 
 In DME studies, the improvement in BCVA was accompanied by a reduction over time in mean CSFT in all the treatment groups.
-
 Treatment of visual impairment due to macular oedema secondary to RVO
 The clinical safety and efficacy of Lucentis in patients with visual impairment due to macular oedema secondary to RVO have been assessed in the randomised, double-masked, controlled studies BRAVO and CRUISE that recruited subjects with BRVO (n=397) and CRVO (n=392), respectively.
 In both studies, subjects received either 0.3 mg or 0.5 mg intravitreal ranibizumab or sham injections.
 After 6 months, patients in the sham-control arms were crossed over to 0.5 mg ranibizumab.
 In BRAVO, laser photocoagulation as rescue was allowed in all arms from Month 3.
+
 Key outcome measures from BRAVO and CRUISE are summarised in Tables 4 and 5 and Figures 3 and 4.
 
 Table 4 Outcomes at Month 6 and 12 (BRAVO)
@@ -283,7 +282,8 @@ ap<0.0001
 
 Figure 4 Mean change from baseline BCVA over time to Month 6 and Month 12 (CRUISE)
 
-20 sham-controlled crossed-over to ranibizumab sham-controlled arm
+20 sham-controlled sham-controlled arm
+crossed-over to ranibizumab
 
 18 + 14.9
 
@@ -293,7 +293,6 @@ Figure 4 Mean change from baseline BCVA over time to Month 6 and Month 12 (CRUIS
 12
 
 10
-
 8 + 7.3
 
 6
@@ -336,7 +335,6 @@ The 277 patients were randomised to one of the following arms:
 During the 12 months of the study, patients received on average 4.6 injections (range 1-11) in Group I and 3.5 injections (range 1-12) in Group II.
 In Group II, which is the recommended posology (see section 4.2), 50.9% of patients required 1 or 2 injections, 34.5% required 3 to 5 injections and 14.7% required 6 to 12 injections over the 12-month study period.
 62.9% of Group II patients did not require injections in the second 6 months of the study.
-
 The key outcomes from RADIANCE are summarised in Table 6 and Figure 5.
 
 Table 6 Outcomes at Month 3 and 12 (RADIANCE)
@@ -404,3 +402,15 @@ Paediatric population
 The safety and efficacy of ranibizumab have not yet been studied in paediatric patients.
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Lucentis in all subsets of the paediatric population in neovascular AMD, visual impairment due to DME, visual impairment due to macular oedema secondary to RVO and visual impairment due to CNV secondary to PM (see section 4.2 for information on paediatric use).
+
+[Lucentis 10 mg/ml solution for injection (SmPC 2)]
+
+(all sentences already above)
+
+[Lucentis 10 mg/ml solution for injection in pre-filled syringe]
+
+(all sentences already above)
+
+[Lucentis 10 mg/ml solution for injection (SmPC 4)]
+
+20 sham-controlled crossed-over to ranibizumab sham-controlled arm

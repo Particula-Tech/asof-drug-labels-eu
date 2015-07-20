@@ -3,6 +3,7 @@
 Store in a refrigerator (2°C - 8°C).
 Do not freeze.
 Keep the vial in the outer carton in order to protect from light.
+Prior to use, the unopened vial may be kept at room temperature (25°C) for up to 24 hours.
 
 [Lucentis 10 mg/ml solution for injection (SmPC 2)]
 
@@ -12,3 +13,7 @@ Keep the vial in the outer carton in order to protect from light.
 
 Keep the pre-filled syringe in its sealed tray in the carton in order to protect from light.
 Prior to use, the unopened tray may be kept at room temperature (25°C) for up to 24 hours.
+
+[Lucentis 10 mg/ml solution for injection (SmPC 4)]
+
+(all sentences already above)

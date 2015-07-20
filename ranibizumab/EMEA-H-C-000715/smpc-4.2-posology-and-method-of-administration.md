@@ -73,3 +73,7 @@ Injecting the entire volume of the pre-filled syringe could result in overdose.
 To expel the air bubble along with the excess medicinal product, slowly push the plunger until the edge below the dome of the rubber stopper is aligned with the black dosing line on the syringe (equivalent to 0.05 ml, i.e., 0.5 mg ranibizumab).
 
 Each pre-filled syringe should only be used for the treatment of a single eye.
+
+[Lucentis 10 mg/ml solution for injection (SmPC 4)]
+
+(all sentences already above)
