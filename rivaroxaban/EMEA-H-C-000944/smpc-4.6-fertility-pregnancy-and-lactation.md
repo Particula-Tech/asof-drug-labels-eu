@@ -11,6 +11,7 @@ Safety and efficacy of Xarelto have not been established in breast feeding women
 Data from animals indicate that rivaroxaban is secreted into milk.
 Therefore Xarelto is contraindicated during breast feeding (see section 4.3).
 A decision must be made whether to discontinue breast feeding or to discontinue/abstain from therapy.
+
 Fertility
 No specific studies with rivaroxaban in humans have been conducted to evaluate effects on fertility.
 In a study on male and female fertility in rats no effects were seen (see section 5.3).

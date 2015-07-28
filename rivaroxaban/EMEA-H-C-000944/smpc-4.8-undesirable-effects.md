@@ -2,7 +2,6 @@
 
 Summary of the safety profile
 The safety of rivaroxaban has been evaluated in eleven phase III studies including 32,625 patients exposed to rivaroxaban (see Table 1).
-
 Table 1: Number of patients studied, maximum daily dose and treatment duration in phase III studies
 
 | Indication | Number of patients* | Maximum daily dose | Maximum treatment duration |
@@ -30,7 +29,6 @@ The frequencies of adverse reactions reported with Xarelto are summarised in tab
 
 Frequencies are defined as:
 very common (≥ 1/10) common (≥ 1/100 to < 1/10) uncommon (≥ 1/1,000 to < 1/100) rare (≥ 1/10,000 to < 1/1,000) very rare ( < 1/10,000) not known (cannot be estimated from the available data)
-
 Table 2: All treatment-emergent adverse reactions reported in patients in phase III studies
 
 | Common | Uncommon | Rare | Not known |
@@ -84,10 +82,11 @@ Known complications secondary to severe bleeding such as compartment syndrome an
 Therefore, the possibility of haemorrhage is to be considered in evaluating the condition in any anticoagulated patient.
 
 Post-marketing observations
-Angioedema and allergic oedema have been reported post-marketing in temporal association with the use of Xarelto.
+The following adverse reactions have been reported post-marketing in temporal association with the use of Xarelto.
 The frequency of these adverse reactions reported from post-marketing experience cannot be estimated.
-In the pooled phase III trials, these events were uncommon (≥ 1/1,000 to
-< 1/100).
+Immune system disorders: Angioedema and allergic oedema (In the pooled phase III trials, these events were uncommon (≥ 1/1,000 to < 1/100)).
+Hepatobiliary disorders: Cholestasis, Hepatitis (incl. hepatocellular injury) (In the pooled phase III trials, these events were rare (≥ 1/10,000 to < 1/1,000)).
+Blood and lymphatic system disorders: Thrombocytopenia (In the pooled phase III trials, these events were uncommon (≥ 1/1,000 to < 1/100)).
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

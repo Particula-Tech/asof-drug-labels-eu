@@ -119,6 +119,12 @@ The recommendation for the use of 15 mg is based on PK modelling and has not bee
 
 No dose adjustment is necessary in patients with mild renal impairment (creatinine clearance 50 - 80 ml/min) (see section 5.2).
 
+Patients undergoing cardioversion
+Xarelto can be initiated or continued in patients who may require cardioversion.
+For transesophageal echocardiogram (TEE) guided cardioversion in patients not previously treated with anticoagulants, Xarelto treatment should be started at least 4 hours before cardioversion to ensure adequate anticoagulation (see sections 5.1 and 5.2).
+For all patients, confirmation should be sought prior to cardioversion that the patient has taken Xarelto as prescribed.
+Decisions on initiation and duration of treatment should take established guideline recommendations for anticoagulant treatment in patients undergoing cardioversion into account.
+
 The tablets are to be taken with food (see section 5.2).
 
 After the administration of crushed Xarelto 15 mg or 20 mg film-coated tablets, the dose should be immediately followed by food.

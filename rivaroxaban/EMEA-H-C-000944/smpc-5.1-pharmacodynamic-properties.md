@@ -12,6 +12,9 @@ Dose-dependent inhibition of factor Xa activity was observed in humans.
 Prothrombin time (PT) is influenced by rivaroxaban in a dose dependent way with a close correlation to plasma concentrations (r value equals 0.98) if Neoplastin is used for the assay.
 Other reagents would provide different results.
 The readout for PT is to be done in seconds, because the INR (International Normalised Ratio) is only calibrated and validated for coumarins and cannot be used for any other anticoagulant.
+In a clinical pharmacology study on the reversal of rivaroxaban pharmacodynamics in healthy adult subjects (n=22), the effects of single doses (50 IU/kg) of two different types of PCCs, a 3-factor PCC (Factors II, IX and X) and a 4-factor PCC (Factors II, VII, IX and X) were assessed.
+The 3-factor PCC reduced mean Neoplastin PT values by approximately 1.0 second within 30 minutes, compared to reductions of approximately 3.5 seconds observed with the 4-factor PCC.
+In contrast, the 3-factor PCC had a greater and more rapid overall effect on reversing changes in endogenous thrombin generation than the 4-factor PCC (see section 4.9).
 The activated partial thomboplastin time (aPTT) and HepTest are also prolonged dose-dependently; however, they are not recommended to assess the pharmacodynamic effect of rivaroxaban.
 There is no need for monitoring of coagulation parameters during treatment with rivaroxaban in clinical routine.
 However, if clinically indicated, rivaroxaban levels can be measured by calibrated quantitative anti-factor-Xa tests (see section 5.2).
@@ -28,6 +31,7 @@ Patients received the first dose of Xarelto at a minimum of 24 hours and up to 7
 
 Both the 2.5 mg twice daily and the 5 mg twice daily regimens of rivaroxaban were effective in further reducing the incidence of CV events on a background of standard antiplatelet care.
 The 2.5 mg twice daily regimen reduced mortality, and there is evidence that the lower dose had lower bleeding risks, therefore rivaroxaban 2.5 mg twice daily co-administered with acetylsalicylic acid (ASA) alone or with ASA plus clopidogrel or ticlopidine is recommended for the prevention of atherothrombotic events in adult patients after an ACS with elevated cardiac biomarkers.
+
 Relative to placebo, Xarelto significantly reduced the primary composite endpoint of CV death, MI or stroke.
 The benefit was driven by a reduction in CV death and MI and appeared early with a constant treatment effect over the entire treatment period (see Table 3 and Figure 1).
 Also the first secondary endpoint (all cause death, MI or stroke) was reduced significantly.
@@ -142,6 +146,11 @@ Table 3: Efficacy and safety results from phase III clinical studies
 
 The analysis of the pooled results of the phase III trials corroborated the data obtained in the individual studies regarding reduction of total VTE, major VTE and symptomatic VTE with rivaroxaban 10 mg once daily compared to enoxaparin 40 mg once daily.
 
+In addition to the phase III RECORD program, a post-authorization, non-interventional, open-label cohort study (XAMOS) has been conducted in 17,413 patients undergoing major orthopaedic surgery of the hip or knee, to compare rivaroxaban with other pharmacological thromboprophylaxis (standard-of-care) under real-life setting.
+Symptomatic VTE occurred in 57 (0.6%) patients in the rivaroxaban group (n=8,778) and 88 (1.0%) of patients in the standard-of-care group (n=8,635; HR 0.63; 95% CI 0.43-0.91); safety population).
+Major bleeding occurred in 35 (0.4%) and 29 (0.3%) of patients in the rivaroxaban and standard-of-care groups (HR 1.10; 95% CI 0.67-1.80).
+Thus, the results were consistent with the results of the pivotal randomised studies.
+
 [Xarelto 15 mg film-coated tablets]
 
 In patients receiving rivaroxaban for treatment of DVT and PE and prevention of recurrence, the 5/95 percentiles for PT (Neoplastin) 2 - 4 hours after tablet intake (i.e. at the time of maximum effect) for 15 mg rivaroxaban twice daily ranged from 17 to 32 s and for 20 mg rivaroxaban once daily from 15 to 30 s. At trough (8 - 16 h after tablet intake) the 5/95 percentiles for 15 mg twice daily ranged from 14 to 24 s and for 20 mg once daily (18 - 30 h after tablet intake) from 13 to 20 s.
@@ -168,8 +177,7 @@ Table 3: Efficacy results from phase III ROCKET AF
 
 | Study population | ITT analyses of efficacy in patients with non-valvular atrial fibrillation |  |  |
 | --- | --- | --- | --- |
-| Treatment dosage | Xarelto 20 mg od (15 mg od in patients with moderate renal impairment) | Warfarin titrated to a target INR of 2.5 (therapeutic range 2.0 to 3.0) | Hazard ratio (95% CI) p-value, test for superiority |
-|  | Event rate (100 pt-yr) | Event rate (100 pt-yr) |  |
+| Treatment dosage | Xarelto 20 mg od (15 mg od in patients with moderate renal impairment) Event rate (100 pt-yr) | Warfarin titrated to a target INR of 2.5 (therapeutic range 2.0 to 3.0) Event rate (100 pt-yr) | Hazard ratio (95% CI) p-value, test for superiority |
 | Stroke and non-CNS systemic embolism | 269 (2.12) | 306 (2.42) | 0.88 (0.74 - 1.03) 0.117 |
 | Stroke, non-CNS systemic embolism and vascular death | 572 (4.51) | 609 (4.81) | 0.94 (0.84 - 1.05) 0.265 |
 | Stroke, non-CNS systemic embolism, vascular death and myocardial infarction | 659 (5.24) | 709 (5.65) | 0.93 (0.83 - 1.03) 0.158 |
@@ -181,8 +189,7 @@ Table 4: Safety results from phase III ROCKET AF
 
 | Study population | Patients with non-valvular atrial fibrillationa) |  |  |
 | --- | --- | --- | --- |
-| Treatment dosage | Xarelto 20 mg once a day (15 mg once a day in patients with moderate renal impairment) | Warfarin titrated to a target INR of 2.5 (therapeutic range 2.0 to 3.0) | Hazard ratio (95% CI) p-value |
-|  | Event rate (100 pt-yr) | Event rate (100 pt-yr) |  |
+| Treatment dosage | Xarelto 20 mg once a day (15 mg once a day in patients with moderate renal impairment) Event rate (100 pt-yr) | Warfarin titrated to a target INR of 2.5 (therapeutic range 2.0 to 3.0) Event rate (100 pt-yr) | Hazard ratio (95% CI) p-value |
 | Major and non-major clinically relevant bleeding events | 1,475 (14.91) | 1,449 (14.52) | 1.03 (0.96 - 1.11) 0.442 |
 | Major bleeding events | 395 (3.60) | 386 (3.45) | 1.04 (0.90 - 1.20) 0.576 |
 | Death due to bleeding* | 27 (0.24) | 55 (0.48) | 0.50 (0.31 - 0.79) 0.003 |
@@ -196,6 +203,13 @@ Table 4: Safety results from phase III ROCKET AF
 a) Safety population, on treatment
 * Nominally significant
 
+Patients undergoing cardioversion
+A prospective, randomized, open-label, multicenter, exploratory study with blinded endpoint evaluation (X-VERT) was conducted in 1504 patients (oral anticoagulant naive and pre-treated) with non-valvular atrial fibrillation scheduled for cardioversion to compare rivaroxaban with dose-adjusted VKA (randomized 2:1), for the prevention of cardiovascular events.
+TEE- guided (1 - 5 days of pre-treatment) or conventional cardioversion (at least three weeks of pre-treatment) strategies were employed.
+The primary efficacy outcome (all stroke, transient ischemic attack, non-CNS systemic embolism, MI and cardiovascular death) occurred in 5 (0.5 %) patients in the rivaroxaban group
+(n = 978) and 5 (1.0 %) patients in the VKA group (n = 492; RR 0.50; 95 % CI 0.15-1.73; modified ITT population).
+The principal safety outcome (major bleeding) occurred in 6 (0.6 %) and 4 (0.8 %) patients in the rivaroxaban (n = 988) and VKA (n = 499) groups, respectively (RR 0.76; 95 % CI 0.21-2.67; safety population).
+This exploratory study showed comparable efficacy and safety between rivaroxaban and VKA treatment groups in the setting of cardioversion.
 Treatment of DVT, PE and prevention of recurrent DVT and PE
 The Xarelto clinical program was designed to demonstrate the efficacy of Xarelto in the initial and continued treatment of acute DVT and PE and prevention of recurrence.
 Over 9,400 patients were studied in three randomised controlled phase III clinical studies (Einstein DVT, Einstein PE and Einstein Extension) and additionally a predefined pooled analysis of the Einstein DVT and Einstein PE studies was conducted.
@@ -205,6 +219,7 @@ In Einstein DVT 3,449 patients with acute DVT were studied for the treatment of 
 The treatment duration was for 3, 6 or 12 months depending on the clinical judgement of the investigator.
 For the initial 3 week treatment of acute DVT 15 mg rivaroxaban was administered twice daily.
 This was followed by 20 mg rivaroxaban once daily.
+
 In Einstein PE, 4,832 patients with acute PE were studied for the treatment of PE and the prevention of recurrent DVT and PE.
 For the initial treatment of acute PE 15 mg rivaroxaban was administered twice daily for three weeks.
 
@@ -227,7 +242,6 @@ In the enoxaparin/VKA group, there was no clear relation between the level of me
 Within the highest tertile according to centre, the hazard ratio with rivaroxaban versus warfarin was 0.69 (95% CI: 0.35 - 1.35).
 
 The incidence rates for the primary safety outcome (major or clinically relevant non-major bleeding events) as well as the secondary safety outcome (major bleeding events) were similar for both treatment groups.
-
 Table 5: Efficacy and safety results from phase III Einstein DVT
 
 | Study population | 3,449 patients with symptomatic acute deep vein thrombosis |  |
@@ -253,7 +267,6 @@ Within the highest tertile according to centre, the hazard ratio with rivaroxaba
 
 The incidence rates for the primary safety outcome (major or clinically relevant non-major bleeding events) were slightly lower in the rivaroxaban treatment group (10.3% (249/2412)) than in the enoxaparin/VKA treatment group (11.4% (274/2405)).
 The incidence of the secondary safety outcome (major bleeding events) was lower in the rivaroxaban group (1.1% (26/2412)) than in the enoxaparin/VKA group (2.2% (52/2405)) with a hazard ratio 0.493 (95% CI: 0.308 - 0.789).
-
 Table 6: Efficacy and safety results from phase III Einstein PE
 
 | Study population | 4,832 patients with an acute symptomatic PE |  |
@@ -270,6 +283,7 @@ Table 6: Efficacy and safety results from phase III Einstein PE
 * p < 0.0026 (non-inferiority to a prespecified hazard ratio of 2.0); hazard ratio: 1.123 (0.749 – 1.684)
 
 A prespecified pooled analysis of the outcome of the Einstein DVT and PE studies was conducted (see Table 7).
+
 Table 7: Efficacy and safety results from pooled analysis of phase III Einstein DVT and Einstein PE
 
 | Study population | 8,281 patients with an acute symptomatic DVT or PE |  |
@@ -286,7 +300,6 @@ Table 7: Efficacy and safety results from pooled analysis of phase III Einstein 
 * p < 0.0001 (non-inferiority to a prespecified hazard ratio of 1.75); hazard ratio: 0.886 (0.661 – 1.186)
 
 The prespecified net clinical benefit (primary efficacy outcome plus major bleeding events) of the pooled analysis was reported with a hazard ratio of 0.771 ((95% CI: 0.614 – 0.967), nominal p value p= 0.0244).
-
 In the Einstein Extension study (see Table 8) rivaroxaban was superior to placebo for the primary and secondary efficacy outcomes.
 For the primary safety outcome (major bleeding events) there was a non-significant numerically higher incidence rate for patients treated with rivaroxaban 20 mg once daily compared to placebo.
 The secondary safety outcome (major or clinically relevant non-major bleeding events) showed higher rates for patients treated with rivaroxaban 20 mg once daily compared to placebo.
@@ -308,12 +321,4 @@ a) Rivaroxaban 20 mg once daily
 
 [Xarelto 20 mg film-coated tablets]
 
-| Study population | ITT analyses of efficacy in patients with non-valvular atrial fibrillation |  |  |
-| --- | --- | --- | --- |
-| Treatment dosage | Xarelto 20 mg od (15 mg od in patients with moderate renal impairment) Event rate (100 pt-yr) | Warfarin titrated to a target INR of 2.5 (therapeutic range 2.0 to 3.0) Event rate (100 pt-yr) | Hazard ratio (95% CI) p-value, test for superiority |
-| Stroke and non-CNS systemic embolism | 269 (2.12) | 306 (2.42) | 0.88 (0.74 - 1.03) 0.117 |
-| Stroke, non-CNS systemic embolism and vascular death | 572 (4.51) | 609 (4.81) | 0.94 (0.84 - 1.05) 0.265 |
-| Stroke, non-CNS systemic embolism, vascular death and myocardial infarction | 659 (5.24) | 709 (5.65) | 0.93 (0.83 - 1.03) 0.158 |
-| Stroke | 253 (1.99) | 281 (2.22) | 0.90 (0.76 - 1.07) 0.221 |
-| Non-CNS systemic embolism | 20 (0.16) | 27 (0.21) | 0.74 (0.42 - 1.32) 0.308 |
-| Myocardial infarction | 130 (1.02) | 142 (1.11) | 0.91 (0.72 - 1.16) 0.464 |
+(all sentences already above)
