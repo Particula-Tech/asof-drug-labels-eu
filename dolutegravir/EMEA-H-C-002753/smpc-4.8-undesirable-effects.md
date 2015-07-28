@@ -54,7 +54,6 @@ Liver chemistry elevations consistent with immune reconstitution syndrome were o
 Immune response syndrome
 In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise.
 Autoimmune disorders (such as Graves’ disease) have also been reported; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
-
 Paediatric population
 Based on limited available data in adolescents (12 to less than 18 years of age and weighing at least 40 kg), there were no additional types of adverse reactions beyond those observed in the adult population.
 

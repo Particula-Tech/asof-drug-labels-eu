@@ -36,37 +36,38 @@ Table 1: Drug Interactions
 | --- | --- | --- |
 | HIV-1 Antiviral Agents |  |  |
 | Non-nucleoside Reverse Transcriptase Inhibitors |  |  |
-| Etravirine | Dolutegravir ↓ AUC ↓ 71% Cmax ↓ 52% Cτ ↓ 88% Etravirine ↔ (induction of UGT1A1 and CYP3A enzymes) | Etravirine decreased plasma dolutegravir concentration, which may result in loss of virologic response and possible resistance to dolutegravir. Dolutegravir should not be used with etravirine without co-administration of atazanavir/ritonavir, darunavir/ritonavir or lopinavir/ritonavir (see further below in table). |
+| Etravirine without boosted protease inhibitors | Dolutegravir ↓ AUC ↓ 71% Cmax ↓ 52% Cτ ↓ 88% Etravirine ↔ (induction of UGT1A1 and CYP3A enzymes) | Etravirine without boosted protease inhibitors decreased plasma dolutegravir concentration. The recommended dose of dolutegravir is 50 mg twice daily when co-administered with etravirine without boosted protease inhibitors. Dolutegravir should not be used with etravirine without co-administration of atazanavir/ritonavir, darunavir/ritonavir or lopinavir/ritonavir in INI-resistant patients (see further below in table). |
+| Lopinavir/ritonavir + etravirine | Dolutegravir ↔ AUC ↑ 11% Cmax ↑ 7% Cτ ↑ 28% LPV ↔ RTV ↔ | No dose adjustment is necessary. |
+| Darunavir/ritonavir + etravirine | Dolutegravir ↓ AUC ↓ 25% Cmax ↓ 12% Cτ ↓ 36% DRV ↔ RTV ↔ | No dose adjustment is necessary. |
 | Efavirenz | Dolutegravir ↓ AUC ↓ 57% Cmax ↓ 39% Cτ ↓ 75% Efavirenz ↔ (historical controls) (induction of UGT1A1 and CYP3A enzymes) | The recommended dose of dolutegravir is 50 mg twice daily when co-administered with efavirenz. In the presence of integrase class resistance alternative combinations that do not include efavirenz should be considered (see section 4.4). |
-| Nevirapine | Dolutegravir ↓ (Not studied, a similar | The recommended dose of dolutegravir is 50 mg twice daily when co-administered with nevirapine. |
-|  | reduction in exposure as observed with efavirenz is expected, due to induction) | In the presence of integrase class resistance alternative combinations that do not include nevirapine should be considered (see section 4.4). |
+| Nevirapine | Dolutegravir ↓ (Not studied, a similar reduction in exposure as observed with efavirenz is expected, due to induction) | The recommended dose of dolutegravir is 50 mg twice daily when co-administered with nevirapine. In the presence of integrase class resistance alternative combinations that do not include nevirapine should be considered (see section 4.4). |
 | Rilpivirine | Dolutegravir ↔ AUC ↑ 12% Cmax ↑ 13% Cτ ↑ 22% Rilpivirine ↔ | No dose adjustment is necessary. |
 | Nucleoside Reverse Transcriptase Inhibitors |  |  |
 | Tenofovir | Dolutegravir ↔ AUC ↑ 1% Cmax ↓ 3% Cτ ↓ 8% Tenofovir ↔ | No dose adjustment is necessary. |
 | Protease Inhibitors |  |  |
-| Atazanavir | Dolutegravir ↑ AUC ↑ 91% Cmax ↑ 50% Cτ ↑ 180% Atazanavir ↔ (historical controls) (inhibition of UGT1A1 and CYP3A enzymes) | No dose adjustment is necessary. |
-| Atazanavir/ritonavir | Dolutegravir ↑ AUC ↑ 62% Cmax ↑ 34% Cτ ↑ 121% Atazanavir ↔ Ritonavir ↔ (inhibition of UGT1A1 and CYP3A enzymes) | No dose adjustment is necessary. |
+| Atazanavir | Dolutegravir ↑ AUC ↑ 91% Cmax ↑ 50% Cτ ↑ 180% Atazanavir ↔ (historical controls) (inhibition of UGT1A1 and CYP3A enzymes) | No dose adjustment is necessary. Tivicay should not be dosed higher than 50 mg twice daily in combination with atazanavir (see section 5.2) due to lack of data |
+| Atazanavir/ritonavir | Dolutegravir ↑ AUC ↑ 62% Cmax ↑ 34% Cτ ↑ 121% Atazanavir ↔ Ritonavir ↔ (inhibition of UGT1A1 and | No dose adjustment is necessary. Tivicay should not be dosed higher than 50 mg twice daily in combination with atazanavir (see section 5.2) due to lack of data. |
+|  | CYP3A enzymes) |  |
 | Tipranavir/ritonavir (TPV+RTV) | Dolutegravir ↓ AUC ↓ 59% Cmax ↓ 47% Cτ ↓ 76% (induction of UGT1A1 and CYP3A enzymes) | The recommended dose of dolutegravir is 50 mg twice daily when co-administered with tipranavir/ritonavir the absence of integrase class resistance. In the presence of integrase class resistance this combination should be avoided (see section 4.4). |
 | Fosamprenavir/ ritonavir (FPV+RTV) | Dolutegravir ↓ AUC ↓ 35% Cmax ↓ 24% Cτ ↓ 49% (induction of UGT1A1 and CYP3A enzymes) | No dose adjustment is necessary in the absence of integrase class resistance. In the presence of integrase class resistance alternative combinations that do not include fosamprenavir/ritonavir should be considered. |
 | Nelfinavir | Dolutegravir ↔ (Not studied) | No dose adjustment is necessary. |
-| Darunavir/ritonavir | Dolutegravir ↓ AUC ↓ 32% Cmax ↓ 11% C24 ↓ 38% (induction of UGT1A1 and CYP3A enzymes) | No dose adjustment is necessary. |
-| Lopinavir/ritonavir | Dolutegravir ↔ AUC ↓ 3% | No dose adjustment is necessary. |
-|  | Cmax ↔ 0% C24 ↓ 6% |  |
-| Protease Inhibitors and Non-nucleoside Reverse Transcriptase Inhibitors combinations |  |  |
-| Lopinavir/ritonavir + etravirine | Dolutegravir ↔ AUC ↑ 10% Cmax ↑ 7% Cτ ↑ 28% LPV ↔ RTV ↔ | No dose adjustment is necessary. |
-| Darunavir/ritonavir + etravirine | Dolutegravir ↓ AUC ↓ 25% Cmax ↓ 12% Cτ ↓ 37% DRV ↔ RTV ↔ | No dose adjustment is necessary. |
+| Darunavir/ritonavir | Dolutegravir ↓ AUC ↓ 22% Cmax ↓ 11% C24 ↓ 38% (induction of UGT1A1 and CYP3A enzymes) | No dose adjustment is necessary. |
+| Lopinavir/ritonavir | Dolutegravir ↔ AUC ↓ 4% Cmax ↔ 0% C24 ↓ 6% | No dose adjustment is necessary. |
 | Other Antiviral agents |  |  |
 | Telaprevir | Dolutegravir ↑ AUC ↑ 25% Cmax ↑ 19% Cτ ↑ 37% Telaprevir ↔ (historical controls) (inhibition of CYP3A enzyme) | No dose adjustment is necessary. |
 | Boceprevir | Dolutegravir ↔ AUC ↑ 7% Cmax ↑ 5% Cτ ↑ 8% Boceprevir ↔ (historical controls) | No dose adjustment is necessary. |
+| Daclatasvir | Dolutegravir ↔ AUC ↑ 33% Cmax ↑ 29% Cτ ↑ 45% Daclatasvir ↔ | Daclatasvir did not change dolutegravir plasma concentration to a clinically relevant extent. Dolutegravir did not change daclatasvir plasma concentration. No dose adjustment is necessary. |
 | Other agents |  |  |
 | Antiarrhythmics |  |  |
 | Dofetilide | Dofetilide ↑ (Not studied, potential increase via inhibition of OCT2 transporter) | Dolutegravir and dofetilide co-administration is contraindicated due to potential life-threatening toxicity caused by high dofetilide concentration (see section 4.3). |
 | Anticonvulsants |  |  |
-| Oxcarbamazepine Phenytoin Phenobarbital Carbamazepine | Dolutegravir ↓ (Not studied, decrease expected due to induction of UGT1A1 and CYP3A enzymes) | Co-administration with these enzyme inducers should be avoided. |
+| Carbamazepine | Dolutegravir ↓ AUC ↓ 49% | The recommended dose of dolutegravir is 50 mg twice daily when co-administered with |
+|  | Cmax ↓ 33% Cτ ↓ 73% | carbamazepine. Alternatives to carbamazepine should be used where possible for INI resistant patients. |
+| Oxcarbazepine Phenytoin Phenobarbital | Dolutegravir ↓ (Not studied, decrease expected due to induction of UGT1A1 and CYP3A enzymes, a similar reduction in exposure as observed with carbamazepine is expected) | The recommended dose of dolutegravir is 50 mg twice daily when co-administered with these metabolic inducers. Alternative combinations that do not include these metabolic inducers should be used where possible in INI-resistant patients. |
 | Azole anti-fungal agents |  |  |
 | Ketoconazole Fluconazole Itraconazole Posaconazole Voriconazole | Dolutegravir ↔ (Not studied) | No dose adjustment is necessary. Based on data from other CYP3A4 inhibitors, a marked increase is not expected. |
 | Herbal products |  |  |
-| St. John’s wort | Dolutegravir ↓ (Not studied, decrease expected due to induction of UGT1A1 and CYP3A enzymes) | Co-administration with St. John’s wort is strongly discouraged. |
+| St. John’s wort | Dolutegravir ↓ (Not studied, decrease expected due to induction of UGT1A1 and CYP3A enzymes, a similar reduction in exposure as observed with carbamazepine is expected) | The recommended dose of dolutegravir is 50 mg twice daily when co-administered with St. John’s wort. Alternative combinations that do not include St. John’s wort should be used where possible in INI-resistant patients. |
 | Antacids and supplements |  |  |
 | Magnesium/ aluminium-containing antacid | Dolutegravir ↓ AUC ↓ 74% Cmax ↓ 72% (Complex binding to polyvalent ions) | Magnesium/ aluminium-containing antacid should be taken well separated in time from the administration of dolutegravir (minimum 2 hours after or 6 hours before). |
 | Calcium supplements | Dolutegravir ↓ AUC ↓ 39% Cmax ↓ 37% C24 ↓ 39% (Complex binding to polyvalent ions) | Calcium supplements, iron supplements or multivitamins should be taken well separated in time from the administration of dolutegravir (minimum 2 hours after or 6 hours before). |
@@ -75,13 +76,12 @@ Table 1: Drug Interactions
 | Corticosteroids |  |  |
 | Prednisone | Dolutegravir ↔ AUC ↑ 11% Cmax ↑ 6% Cτ ↑ 17% | No dose adjustment is necessary. |
 | Antidiabetics |  |  |
-| Metformin | Metformin ↑ Dolutegravir ↔ (Not studied. Increase of metformin expected, due to inhibition of OCT-2 transporter) | Close monitoring of metformin efficacy and safety is recommended when starting or stopping dolutegravir in patients receiving metformin. A dose adjustment of metformin may be necessary. |
+| Metformin | Metformin ↑ When co-administered with dolutegravir 50mg once daily: Metformin AUC ↑ 79% Cmax ↑ 66% When co-administered with dolutegravir 50mg twice daily: Metformin AUC ↑ 145 % Cmax ↑ 111% | A dose adjustment of metformin should be considered when starting and stopping coadministration of dolutegravir with metformin, to maintain glycaemic control. In patients with moderate renal impairment a dose adjustment of metformin should be considered when coadministered with dolutegravir, because of the increased risk for lactic acidosis in patients with moderate renal impairment due to increased metformin concentration (section 4.4). |
 | Antimycobacterials |  |  |
 | Rifampicin | Dolutegravir ↓ AUC ↓ 54% Cmax ↓ 43% Cτ ↓72% (induction of UGT1A1 and CYP3A enzymes) | The recommended dose of dolutegravir is 50 mg twice daily when co-administered with rifampicin in the absence of integrase class resistance. In the presence of integrase class resistance this combination should be avoided (see section 4.4). |
 | Rifabutin | Dolutegravir ↔ AUC ↓ 5% Cmax ↑ 16% Cτ ↓ 30% (induction of UGT1A1 and CYP3A enzymes) | No dose adjustment is necessary. |
 | Oral contraceptives |  |  |
-| Ethinyl estradiol (EE) and Norelgestromin (NGMN) | Dolutegravir ↔ EE ↔ AUC ↑ 3% Cmax ↓ 1% | Dolutegravir had no pharmacodynamic effect on Luteinizing Hormone (LH), Follicle Stimulating Hormone (FSH) and progesterone. No dose adjustment of oral contraceptives is necessary when co-administered with dolutegravir. |
-|  | NGMN ↔ AUC ↓ 2% Cmax ↓ 11% |  |
+| Ethinyl estradiol (EE) and Norelgestromin (NGMN) | Dolutegravir ↔ EE ↔ AUC ↑ 3% Cmax ↓ 1% NGMN ↔ AUC ↓ 2% Cmax ↓ 11% | Dolutegravir had no pharmacodynamic effect on Luteinizing Hormone (LH), Follicle Stimulating Hormone (FSH) and progesterone. No dose adjustment of oral contraceptives is necessary when co-administered with dolutegravir. |
 | Analgesics |  |  |
 | Methadone | Dolutegravir ↔ Methadone ↔ AUC ↓ 2% Cmax ↔ 0% Cτ ↓ 1% | No dose adjustment is necessary of either agent. |
 

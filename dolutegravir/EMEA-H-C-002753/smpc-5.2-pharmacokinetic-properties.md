@@ -13,7 +13,6 @@ Food increased the extent and slowed the rate of absorption of dolutegravir.
 Bioavailability of dolutegravir depends on meal content: low, moderate, and high fat meals increased dolutegravir AUC(0-∞) by 33%, 41%, and 66%, increased Cmax by 46%, 52%, and 67%, prolonged Tmax to 3, 4, and 5 hours from 2 hours under fasted conditions, respectively.
 These increases may be clinically relevant in the presence of certain integrase class resistance.
 Therefore, Tivicay is recommended to be taken with food by patients infected with HIV with integrase class resistance (see section 4.2).
-
 The absolute bioavailability of dolutegravir has not been established.
 
 Distribution
@@ -22,6 +21,7 @@ The apparent volume of distribution is 17 L to 20 L in HIV-infected patients, ba
 Binding of dolutegravir to plasma proteins is independent of dolutegravir concentration.
 Total blood and plasma drug-related radioactivity concentration ratios averaged between 0.441 to 0.535, indicating minimal association of radioactivity with blood cellular components.
 The unbound fraction of dolutegravir in plasma is increased at low levels of serum albumin (<35 g/L) as seen in subjects with moderate hepatic impairment.
+
 Dolutegravir is present in cerebrospinal fluid (CSF).
 In 13 treatment-naïve subjects on a stable dolutegravir plus abacavir/lamivudine regimen, dolutegravir concentration in CSF averaged 18 ng/mL (comparable to unbound plasma concentration, and above the IC50).
 
@@ -53,8 +53,13 @@ Following oral administration of tablet formulations, in general, dolutegravir e
 With 50 mg twice daily, the exposure over 24 hours was approximately doubled compared to 50 mg once daily.
 
 Pharmacokinetic/pharmacodynamic relationship(s)
-In a randomized, dose-ranging trial, HIV-1–infected subjects treated with dolutegravir monotherapy (ING111521) demonstrated rapid and dose-dependent antiviral activity, with mean decline in HIV-1 RNA of 2.5 log10 at day 11 for 50 mg dose .
+In a randomized, dose-ranging trial, HIV-1–infected subjects treated with dolutegravir monotherapy (ING111521) demonstrated rapid and dose-dependent antiviral activity, with mean decline in HIV-1 RNA of 2.5 log10 at day 11 for 50 mg dose.
 This antiviral response was maintained for 3 to 4 days after the last dose in the 50 mg group.
+PK/PD modelling using pooled data from clinical studies in integrase resistant patients suggest that increasing the dose from 50 mg twice daily to 100 mg twice daily may increase the effectiveness of dolutegravir in patients with integrase resistance and limited treatment options due to advanced multi class resistance.
+The proportion of responders (HIV-1 RNA <50 c/mL) at week 24 was predicted to increase around 4-18% in the subjects with Q148 + ≥2 secondary mutations from G140A/C/S, E138A/K/T, L74I.
+Although these simulated results have not been confirmed in clinical trials, this high dose may be considered in the presence of the Q148 + ≥2 secondary mutations from G140A/C/S, E138A/K/T, L74I in patients with overall limited treatment options due to advanced multi class resistance.
+There is no clinical data on the safety or efficacy of the 100 mg twice daily dose.
+Co-treatment with atazanavir increases the exposure of dolutegravir markedly, and should not be used in combination with this high dose, since safety with the resulting dolutegravir exposure has not been established.
 
 Special patient populations
 
@@ -63,6 +68,7 @@ The pharmacokinetics of dolutegravir in 10 antiretroviral treatment-experienced 
 
 Elderly
 Population pharmacokinetic analysis of dolutegravir using data in HIV-1 infected adults showed that there was no clinically relevant effect of age on dolutegravir exposure.
+
 Pharmacokinetic data for dolutegravir in subjects >65 years of age are limited.
 
 Renal impairment

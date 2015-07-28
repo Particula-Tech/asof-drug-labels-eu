@@ -14,8 +14,10 @@ Please refer to section 4.5.
 
 Patients infected with HIV-1 with resistance to the integrase class (documented or clinically suspected)
 The recommended dose of dolutegravir is 50 mg (one tablet) twice daily.
-The decision to use dolutegravir for such patients should be informed by the integrase resistance pattern (see section 5.1).
 
+In the presence of documented resistance that includes Q148 + ≥2 secondary mutations from G140A/C/S, E138A/K/T, L74I, modelling suggests that an increased dose may be considered for patients with limited treatment options (less than 2 active agents) due to advanced multi class resistance (see section 5.2).
+
+The decision to use dolutegravir for such patients should be informed by the integrase resistance pattern (see section 5.1).
 Co-administration of Tivicay with some medicines should be avoided in this population (e.g. efavirenz, nevirapine, tipranavir/ritonavir, or rifampicin).
 Please refer to section 4.4 and 4.5.
 

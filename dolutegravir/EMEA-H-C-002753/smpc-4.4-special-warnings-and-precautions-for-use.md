@@ -5,8 +5,7 @@ Precautions to prevent transmission should be taken in accordance with national 
 
 Integrase class resistance of particular concern
 The decision to use dolutegravir in the presence of integrase class resistance should take into account that the activity of dolutegravir is considerably compromised for viral strains harbouring Q148+≥2 secondary mutations from G140A/C/S, E138A/K/T, L74I (see section 5.1).
-To what extent dolutegravir provides added efficacy in the presence of such integrase class resistance is uncertain.
-
+To what extent dolutegravir provides added efficacy in the presence of such integrase class resistance is uncertain (see section 5.2).
 Hypersensitivity reactions
 Hypersensitivity reactions have been reported with dolutegravir, and were characterized by rash, constitutional findings, and sometimes, organ dysfunction, including severe liver reactions.
 Dolutegravir and other suspect agents should be discontinued immediately if signs or symptoms of hypersensitivity reactions develop (including, but not limited to, severe rash or rash accompanied by raised liver enzymes, fever, general malaise, fatigue, muscle or joint aches, blisters, oral lesions, conjunctivitis, facial oedema, eosinophilia, angioedema).
@@ -30,10 +29,13 @@ Therefore, patients should remain under close clinical observation by physicians
 
 Drug interactions
 Factors that decrease dolutegravir exposure should be avoided in the presence of integrase class resistance.
-This includes co-administration with medicinal products that reduce dolutegravir exposure (e.g. magnesium/ aluminium-containing antacid, iron and calcium supplements, multivitamins and inducing agents, tipranavir/ritonavir, rifampicin and certain anti-epileptic drugs) (see section 4.5).
+This includes co-administration with medicinal products that reduce dolutegravir exposure (e.g. magnesium/ aluminium-containing antacid, iron and calcium supplements, multivitamins and inducing agents, etravirine (without boosted protease inhibitors), tipranavir/ritonavir, rifampicin, St. John’s wort and certain anti-epileptic drugs) (see section 4.5).
 
-Metformin concentrations may be increased by dolutegravir.
-Patients should be monitored during therapy and a dose adjustment of metformin may be required (see section 4.5).
+Dolutegravir increased metformin concentrations.
+A dose adjustment of metformin should be considered when starting and stopping coadministration of dolutegravir with metformin, to maintain glycaemic control (see section 4.5).
+Metformin is eliminated renally and therefore it is of importance to monitor renal function when co-treated with dolutegravir.
+This combination may increase the risk for lactic acidosis in patients with moderate renal impairment (stage 3a creatinine clearance [CrCl] 45– 59 mL/min) and a cautious approach is recommended.
+Reduction of the metformin dose should be highly considered.
 
 Osteonecrosis
 Although the aetiology is considered to be multifactorial (including corticosteroid use, biphosphonates, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported in patients with advanced HIV-disease and/or long-term exposure to CART.

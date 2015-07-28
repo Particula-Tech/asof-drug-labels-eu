@@ -6,7 +6,6 @@ The effect of dolutegravir on human pregnancy is unknown.
 In reproductive toxicity studies in animals, dolutegravir was shown to cross the placenta.
 Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3).
 Dolutegravir should be used during pregnancy only if the expected benefit justifies the potential risk to the foetus.
-
 Breast-feeding
 It is unknown whether dolutegravir is excreted in human milk.
 Available toxicological data in animals has shown excretion of dolutegravir in milk.

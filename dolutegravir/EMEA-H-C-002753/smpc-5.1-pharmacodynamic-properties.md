@@ -22,6 +22,7 @@ In 100% human serum, the mean protein fold shift was 75 fold, resulting in prote
 Resistance
 
 Resistance in vitro
+
 Serial passage is used to study resistance evolution in vitro.
 When using the lab-strain HIV-1 IIIB during passage over 112 days, mutations selected appeared slowly, with substitutions at positions S153Y and F, resulting in a maximal fold change in susceptibility of 4 (range 2-4).
 These mutations were not selected in patients treated with dolutegravir in the clinical studies.
@@ -56,6 +57,8 @@ Treatment emergent integrase resistance typically appeared in patients with a hi
 Five further subjects experienced PDVF between weeks 24 and 48, and 2 of these 5 had treatment emergent mutations.
 Treatment-emergent mutations or mixtures of mutations observed were L74I (n=1), N155H (n=2).
 
+The VIKING-4 study examined dolutegravir (plus optimized background therapy) in subjects with primary genotypic resistance to INIs at Screening in 30 subjects.
+Treatment-emergent mutations observed were consistent with those observed in the VIKING-3 study.
 Effects on electrocardiogram
 No relevant effects were seen on the QTc interval, with doses exceeding the clinical dose by approximately three fold.
 
@@ -103,7 +106,7 @@ In SINGLE, the median time to viral suppression was shorter in the dolutegravir 
 
 At week 96, results were consistent with those seen at week 48.
 In SPRING-2, dolutegravir was still non-inferior to raltegravir (viral suppression in 81% vs 76% of patients), and with a median change in CD4 count of 276 vs 264 cells/mm3, respectively.
-In SINGLE, dolutegravir + ABC/3TC was still superior to EFV/TDF/FTC (viral suppression in 80% vs 72%, treatment difference 8.0% (2.3, 13.8), p=0.006, and with a median change in CD4 count of 325 vs 281 cells/ mm3, respectively.
+In SINGLE, dolutegravir + ABC/3TC was still superior to EFV/TDF/FTC (viral suppression in 80% vs 72%, treatment difference 8.0% (2.3, 13.8), p=0.006, and with an adjusted mean change in CD4 count of 325 vs 281 cells/ mm3, respectively.
 
 In FLAMINGO (ING114915), an open-label, randomised and active-controlled study, 484 HIV-1 infected antiretroviral naïve adults received one dose of either dolutegravir 50 mg once daily (n=242) or darunavir/ritonavir (DRV/r) 800 mg/100 mg once daily (n=242), both administered with either ABC/3TC or TDF/FTC.
 At baseline, median patient age was 34 years, 15% were female, 28% non-white, 10% had hepatitis B and/or C co-infection, and 3% were CDC Class C; these characteristics were similar between treatment groups.
@@ -162,6 +165,7 @@ The study enrolled 183 patients, 133 with INI-resistance at Screening and 50 wit
 Raltegravir/elvitegravir was part of the current failing regimen in 98/183 patients (part of prior failing therapies in the others).
 At baseline, median patient age was 48 years, 23% were female, 29% non-white, and 20% had hepatitis B and/or C co-infection.
 Median baseline CD4+ was 140 cells/mm3, median duration of prior ART was 14 years, and 56% were CDC Class C. Subjects showed multiple class ART resistance at baseline: 79% had ≥2 NRTI, 75% ≥1 NNRTI, and 71% ≥2 PI major mutations; 62% had non-R5 virus.
+
 Mean change from baseline in HIV RNA at day 8 (primary endpoint) was -1.4log10 copies/mL (95% CI -1.3 – -1.5log10, p<0.001).
 Response was associated with baseline INI mutation pathway, as shown in Table 5.
 
@@ -201,13 +205,23 @@ VO Population (HIV-1 RNA <50 c/mL, Snapshot algorithm)
 | Primary mutation other than Q148H/K/R2 | 2/2 (100%) | 20/20 (100%) | 21/27 (78%) | 8/10 (80%) | 51/59 (86%) | 50/58 (86%) |
 | Q148 + 1 secondary mutation3 | 2/2 (100%) | 8/12 (67%) | 10/17 (59%) | - | 20/31 (65%) | 19/31 (61%) |
 | Q148 +≥2 secondary mutations 3 | 1/2 (50%) | 2/11 (18%) | 1/3 (33%) | - | 4/16 (25%) | 4/16 (25%) |
-| 1 Historical or phenotypic evidence of INI resistance only. 2 N155H, Y143C/H/R, T66A, E92Q 3 G140A/C/S, E138A/K/T, L74I OSS: combined genotypic and phenotypic resistance (Monogram Biosciences Net Assessment) |  |  |  |  |  |  |
+| 1 Historical or phenotypic evidence of INI resistance only. 2 N155H, Y143C/H/R, T66A, E92Q |  |  |  |  |  |  |
+
+3 G140A/C/S, E138A/K/T, L74I
+OSS: combined genotypic and phenotypic resistance (Monogram Biosciences Net Assessment)
 
 The median change in CD4+ T cell count from baseline for VIKING-3 based on observed data was 61 cells/mm3 at Week 24 and 110 cells/mm3 at Week 48.
 
 In the double blind, placebo controlled VIKING-4 study (ING116529), 30 HIV-1 infected, ART-experienced adults with primary genotypic resistance to INIs at Screening, were randomised to receive either dolutegravir 50 mg twice daily or placebo with the current failing regimen for 7 days followed by an open label phase with all subjects receiving dolutegravir.
-The primary endpoint at Day 8 showed that dolutegravir 50 mg twice daily was superior to placebo, with an adjusted mean treatment difference for the change from Baseline in Plasma HIV-1 RNA of -1.2 log10 copies/mL (95% CI -1.5 - -0.8log10 copies/mL, p<0.001).
+At baseline, median patient age was 49 years, 20% were female, 58% non-white, and 23% had hepatitis B and/or C co-infection.
+Median baseline CD4+ was 160 cells/mm3, median duration of prior ART was 13 years, and 63% were CDC Class C. Subjects showed multiple class ART resistance at baseline: 80% had ≥2 NRTI, 73% ≥1 NNRTI, and 67% ≥2 PI major mutations; 83% had non-R5 virus.
+Sixteen of 30 subjects (53%) harboured Q148 virus at baseline.
+The primary endpoint at Day 8 showed that dolutegravir 50 mg twice daily was superior to placebo, with an adjusted mean treatment difference for the change from Baseline in Plasma HIV-1 RNA of -1.2 log10 copies/mL (95% CI -1.5 - - 0.8log10 copies/mL, p<0.001).
 The day 8 responses in this placebo controlled study were fully in line with those seen in VIKING-3 (not placebo controlled), including by baseline integrase resistance categories.
+At week 48, 12/30 (40%) subjects had HIV-1 RNA <50 copies/mL (ITT-E, Snapshot algorithm).
+
+In a combined analysis of VIKING-3 and VIKING-4 (n=186, VO population), the proportion of subjects with HIV RNA <50 copies/mL at Week 48 was 126/186 (68%).
+The proportion of subjects with HIV RNA <50 copies/mL was 96/126 (76%) for No Q148 mutations, 22/41 (54%) for Q148+1 and 5/19 (26%) for Q148+≥2 secondary mutations.
 
 Paediatric population
 In a Phase I/II 48 week multicentre, open-label study (P1093/ING112578), the pharmacokinetic parameters, safety, tolerability and efficacy of Tivicay will be evaluated in combination regimens in HIV-1 infected adolescents.
