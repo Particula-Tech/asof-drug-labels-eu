@@ -63,7 +63,7 @@ Treatment discontinuations due to ALT and AST increases were reported in 1.7% an
 No deaths were reported due to hepatotoxicity event.
 
 In clinical trials, the risk for hepatotoxicity was mitigated by exclusion of patients with baseline hepatitis or significant abnormalities of liver function tests.
-In the 301 trial, patients with baseline ALT and AST ≥2.5 x ULN in the absence of liver metastases and > 5 x ULN in the presence of liver metastases wereexcluded.
+In the 301 trial, patients with baseline ALT and AST ≥2.5 x ULN in the absence of liver metastases and > 5 x ULN in the presence of liver metastases were excluded.
 In the 302 trial, patients with liver metastases were not eligible and patients with baseline ALT and AST ≥2.5 x ULN were excluded.
 Abnormal liver function tests developing in patients participating in clinical trials were vigorously managed by requiring treatment interruption and permitting re-treatment only after return of liver function tests to the patient’s baseline (see section 4.2).
 Patients with elevations of ALT or AST > 20 x ULN were not re-treated.
