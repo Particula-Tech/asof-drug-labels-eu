@@ -15,15 +15,14 @@ In patients who have been exposed to tuberculosis and patients who have travelle
 Patients who develop a new infection while undergoing treatment with Humira, should be monitored closely and undergo a complete diagnostic evaluation.
 Administration of Humira should be discontinued if a patient develops a new serious infection or sepsis, and appropriate antimicrobial or antifungal therapy should be initiated until the infection is controlled.
 Physicians should exercise caution when considering the use of Humira in patients with a history of recurring infection or with underlying conditions which may predispose patients to infections, including the use of concomitant immunosuppressive medications.
-
-Serious infections:
+Serious infections
 
 Serious infections, including sepsis, due to bacterial, mycobacterial, invasive fungal, parasitic, viral, or other opportunistic infections such as listeriosis, legionellosis and pneumocystis have been reported in patients receiving Humira.
 
 Other serious infections seen in clinical trials include pneumonia, pyelonephritis, septic arthritis and septicaemia.
 Hospitalisation or fatal outcomes associated with infections have been reported.
 
-Tuberculosis:
+Tuberculosis
 
 Tuberculosis, including reactivation and new onset of tuberculosis, has been reported in patients receiving Humira.
 Reports included cases of pulmonary and extra-pulmonary (i.e. disseminated) tuberculosis.
@@ -43,16 +42,16 @@ If latent tuberculosis is suspected, a physician with expertise in the treatment
 If latent tuberculosis is diagnosed, appropriate treatment must be started with anti-tuberculosis prophylaxis treatment before the initiation of Humira, and in accordance with local recommendations.
 
 Use of anti-tuberculosis prophylaxis treatment should also be considered before the initiation of Humira in patients with several or significant risk factors for tuberculosis despite a negative test for tuberculosis and in patients with a past history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed.
+
 Despite prophylactic treatment for tuberculosis, cases of reactivated tuberculosis have occurred in patients treated with Humira.
 Some patients who have been successfully treated for active tuberculosis have redeveloped tuberculosis while being treated with Humira.
 
 Patients should be instructed to seek medical advice if signs/symptoms suggestive of a tuberculosis infection (e.g., persistent cough, wasting/weight loss, low grade fever, listlessness) occur during or after therapy with Humira.
 
-Other opportunistic infections:
+Other opportunistic infections
 
 Opportunistic infections, including invasive fungal infections have been observed in patients receiving Humira.
 These infections have not consistently been recognised in patients taking TNF-antagonists and this resulted in delays in appropriate treatment, sometimes resulting in fatal outcomes.
-
 For patients who develop the signs and symptoms such as fever, malaise, weight loss, sweats, cough, dyspnea, and/or pulmonary infiltrates or other serious systemic illness with or without concomitant shock an invasive fungal infection should be suspected and administration of Humira should be promptly discontinued.
 Diagnosis and administration of empiric antifungal therapy in these patients should be made in consultation with a physician with expertise in the care of patients with invasive fungal infections.
 
@@ -78,6 +77,7 @@ Serious allergic reactions associated with Humira were rare during clinical tria
 Non-serious allergic reactions associated with Humira were uncommon during clinical trials.
 Reports of serious allergic reactions including anaphylaxis have been received following Humira administration.
 If an anaphylactic reaction or other serious allergic reaction occurs, administration of Humira should be discontinued immediately and appropriate therapy initiated.
+
 Immunosuppression
 
 In a study of 64 patients with rheumatoid arthritis that were treated with Humira, there was no evidence of depression of delayed-type hypersensitivity, depression of immunoglobulin levels, or change in enumeration of effector T-, B, - NK-cells, monocyte/macrophages, and neutrophils.
@@ -89,7 +89,6 @@ However, the occurrence was rare.
 In the post marketing setting, cases of leukemia have been reported in patients treated with a TNF-antagonist.
 There is an increased background risk for lymphoma and leukemia in rheumatoid arthritis patients with long-standing, highly active, inflammatory disease, which complicates the risk estimation.
 With the current knowledge, a possible risk for the development of lymphomas, leukemia, and other malignancies in patients treated with a TNF-antagonist cannot be excluded.
-
 Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-antagonists (initiation of therapy ≤ 18 years of age), including adalimumab in the post marketing setting.
 Approximately half the cases were lymphomas.
 The other cases represented a variety of different malignancies and included rare malignancies usually associated with immunosuppression.
@@ -126,7 +125,6 @@ Vaccinations
 
 Similar antibody responses to the standard 23-valent pneumococcal vaccine and the influenza trivalent virus vaccination were observed in a study in 226 adult subjects with rheumatoid arthritis who were treated with adalimumab or placebo.
 No data are available on the secondary transmission of infection by live vaccines in patients receiving Humira.
-
 It is recommended that paediatric patients, if possible, be brought up to date with all immunisations in agreement with current immunisation guidelines prior to initiating Humira therapy.
 
 Patients on Humira may receive concurrent vaccinations, except for live vaccines.
@@ -152,6 +150,7 @@ Serious infections were seen in clinical studies with concurrent use of anakinra
 Because of the nature of the adverse events seen with the combination of etanercept and anakinra therapy, similar toxicities may also result from the combination of anakinra and other TNF-antagonists.
 Therefore, the combination of adalimumab and anakinra is not recommended.
 (See section 4.5).
+
 Concomitant administration of adalimumab with other biologic DMARDS (e.g, anakinra and abatacept) or other TNF-antagonists is not recommended based upon the possible increased risk for infections, including serious infections and other potential pharmacological interactions.
 (See section 4.5).
 
@@ -167,11 +166,11 @@ Small bowel obstruction
 Failure to respond to treatment for Crohn’s disease may indicate the presence of fixed fibrotic stricture that may require surgical treatment.
 Available data suggest that Humira does not worsen or cause strictures.
 
-Older people
-The frequency of serious infections among Humira treated subjects over 65 years of age (3.5%) was higher than for those under 65 years of age (1.5%).
+Elderly patients
+
+The frequency of serious infections among Humira treated subjects over 65 years of age (3.6%) was higher than for those under 65 years of age (1.4%).
 Some of those had a fatal outcome.
 Particular attention regarding the risk for infection should be paid when treating the elderly.
-
 Paediatric population
 
 See Vaccinations above.
@@ -201,3 +200,7 @@ For patients who develop the signs and symptoms such as fever, malaise, weight l
 In an exploratory clinical trial evaluating the use of another TNF-antagonists , infliximab, in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies, mostly in the lung or head and neck, were reported in infliximab-treated patients compared with control patients.
 
 Rare reports of pancytopaenia including aplastic anaemia have been reported with TNF antagonists.
+
+[Humira 40 mg solution for injection in pre-filled syringe (SmPC 5)]
+
+There is an increased background risk for lymphoma and leukemia in rheumatoid arthritis patients with long-standing highly active, inflammatory disease, which complicates the risk estimation.

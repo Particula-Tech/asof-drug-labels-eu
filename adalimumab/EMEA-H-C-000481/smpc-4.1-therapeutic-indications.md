@@ -33,11 +33,9 @@ Humira can be given as monotherapy in case of intolerance to methotrexate or whe
 
 Humira has been shown to reduce the rate of progression of joint damage as measured by X-ray and to improve physical function, when given in combination with methotrexate.
 
-(for the efficacy in monotherapy see section 5.1).
-
 Axial spondyloarthritis
 
-Ankylosing spondylitis(AS)
+Ankylosing spondylitis (AS)
 
 Humira is indicated for the treatment of adults with severe active ankylosing spondylitis who have had an inadequate response to conventional therapy.
 
@@ -54,6 +52,10 @@ Psoriasis
 
 Humira is indicated for the treatment of moderate to severe chronic plaque psoriasis in adult patients who failed to respond to or who have a contraindication to, or are intolerant to other systemic therapy including cyclosporine, methotrexate or PUVA.
 
+Hidradenitis suppurativa (HS)
+
+Humira is indicated for the treatment of active moderate to severe hidradenitis suppurativa (acne inversa) in adult patients with an inadequate response to conventional systemic HS therapy.
+
 Crohn’s disease
 
 Humira is indicated for treatment of moderately to severely active Crohn’s disease, in adult patients who have not responded despite a full and adequate course of therapy with a corticosteroid and/or an immunosuppressant; or who are intolerant to or have medical contraindications for such therapies.
@@ -64,8 +66,12 @@ Humira is indicated for treatment of moderately to severely active ulcerative co
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
-Ankylosing spondylitis (AS)
+(all sentences already above)
 
 [Humira 40 mg solution for injection in pre-filled pen]
+
+(all sentences already above)
+
+[Humira 40 mg solution for injection in pre-filled syringe (SmPC 5)]
 
 (all sentences already above)

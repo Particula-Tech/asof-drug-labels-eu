@@ -25,3 +25,10 @@ EU/1/03/256/007
 EU/1/03/256/008
 EU/1/03/256/009
 EU/1/03/256/010
+
+[Humira 40 mg solution for injection in pre-filled syringe (SmPC 5)]
+
+EU/1/03/256/012
+EU/1/03/256/013
+EU/1/03/256/014
+EU/1/03/256/015

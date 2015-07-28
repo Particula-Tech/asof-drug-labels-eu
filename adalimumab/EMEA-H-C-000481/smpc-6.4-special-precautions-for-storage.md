@@ -21,3 +21,7 @@ Keep the pre-filled pen in the outer carton in order to protect from light.
 
 A single Humira pen may be stored at temperatures up to a maximum of 25°C for a period of up to 14 days.
 The pen must be protected from light, and discarded if not used within the 14-day period.
+
+[Humira 40 mg solution for injection in pre-filled syringe (SmPC 5)]
+
+Keep the pre-filled syringe in the outer carton in order to protect from light.
