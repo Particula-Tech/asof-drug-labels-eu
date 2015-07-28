@@ -7,7 +7,12 @@
 3 years.
 
 Shelf-life after first use of the vial
+5 ml vial
 The medicinal product may be stored for a maximum of 4 weeks not above 25°C and away from direct heat or direct light.
+Keep the vial in the outer carton in order to protect from light.
+
+10 ml vial
+The medicinal product may be stored for a maximum of 4 weeks not above 30°C and away from direct heat or direct light.
 Keep the vial in the outer carton in order to protect from light.
 
 It is recommended that the date of the first use from the vial be noted on the label.

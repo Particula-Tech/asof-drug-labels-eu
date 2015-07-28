@@ -1,12 +1,12 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-
 Hypoglycaemia (very common), in general the most frequent adverse reaction of insulin therapy, may occur if the insulin dose is too high in relation to the insulin requirement (see section 4.4).
 
 Tabulated list of adverse reactions
 
 The following related adverse reactions from clinical investigations are listed below by system organ class and in order of decreasing incidence (very common: ≥1/10; common: ≥1/100 to <1/10; uncommon: ≥1/1,000 to <1/100; rare: ≥1/10,000 to <1/1,000; very rare: <1/10,000).
+
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 | MedDRA system organ classes | Very common | Common | Uncommon | Rare | Very rare |
@@ -31,7 +31,6 @@ Generally, the greater and more rapid the decline in blood glucose, the more mar
 Immune system disorders
 Immediate-type allergic reactions to insulin are rare.
 Such reactions to insulin (including insulin glargine) or the excipients may, for example, be associated with generalised skin reactions, angio-oedema, bronchospasm, hypotension and shock, and may be life-threatening.
-
 Eyes disorders
 A marked change in glycaemic control may cause temporary visual impairment, due to temporary alteration in the turgidity and refractive index of the lens.
 
@@ -42,6 +41,7 @@ In patients with proliferative retinopathy, particularly if not treated with pho
 Skin and subcutaneous tissue disorders
 Lipodystrophy may occur at the injection site and delay local insulin absorption.
 Continuous rotation of the injection site within the given injection area may help to reduce or prevent these reactions.
+
 General disorders and administration site conditions
 Injection site reactions include redness, pain, itching, hives, swelling, or inflammation.
 Most minor reactions to insulins at the injection site usually resolve in a few days to a few weeks.

@@ -32,19 +32,27 @@ The dose regimen (dose and timing) should be individually adjusted.
 The safety and efficacy of Lantus have not been established.
 No data are available.
 
-Transition from other insulins to Lantus
+Switch from other insulins to Lantus
 
-When changing from a treatment regimen with an intermediate or long-acting insulin to a regimen with Lantus, a change of the dose of the basal insulin may be required and the concomitant antidiabetic treatment may need to be adjusted (dose and timing of additional regular insulins or fast-acting insulin analogues or the dose of oral antidiabetic medicinal products).
+When switching from a treatment regimen with an intermediate or long-acting insulin to a regimen with Lantus, a change of the dose of the basal insulin may be required and the concomitant antidiabetic treatment may need to be adjusted (dose and timing of additional regular insulins or fast-acting insulin analogues or the dose of oral antidiabetic medicinal products).
+
+Switch from twice daily NPH insulin to Lantus
 
 To reduce the risk of nocturnal and early morning hypoglycaemia, patients who are changing their basal insulin regimen from a twice daily NPH insulin to a once daily regimen with Lantus should reduce their daily dose of basal insulin by 20-30% during the first weeks of treatment.
+
+Switch from insulin glargine 300 units/ml to Lantus
+
+Lantus and Toujeo (insulin glargine 300 units/ml) are not bioequivalent and are not directly interchangeable.
+To reduce the risk of hypoglycemia, patients who are changing their basal insulin regimen from an insulin regimen with once daily insulin glargine 300 units/ml to a once daily regimen with Lantus should reduce their dose by approximately 20%.
+
 During the first weeks the reduction should, at least partially, be compensated by an increase in mealtime insulin, after this period the regimen should be adjusted individually.
 
-Patients with high insulin doses because of antibodies to human insulin may experience an improved insulin response with Lantus.
-
-Close metabolic monitoring is recommended during the transition and in the initial weeks thereafter.
+Close metabolic monitoring is recommended during the switch and in the initial weeks thereafter.
 
 With improved metabolic control and resulting increase in insulin sensitivity a further adjustment in dose regimen may become necessary.
 Dose adjustment may also be required, for example, if the patient's weight or life-style changes, change of timing of insulin dose or other circumstances arise that increase susceptibility to hypo- or hyperglycaemia (see section 4.4).
+
+Patients with high insulin doses because of antibodies to human insulin may experience an improved insulin response with Lantus.
 
 Method of administration
 
@@ -59,7 +67,6 @@ Injection sites must be rotated within a given injection area from one injection
 
 Lantus must not be mixed with any other insulin or diluted.
 Mixing or diluting can change its time/action profile and mixing can cause precipitation.
-
 For further details on handling, see section 6.6.
 
 [Lantus 100 units/ml solution for injection in a cartridge]
@@ -77,5 +84,7 @@ OptiSet delivers insulin in increments of 2 units up to a maximum single dose of
 Before using OptiSet, the instructions for use included in the package leaflet must be read carefully (see section 6.6).
 
 [Lantus SoloStar 100 units/ml solution for injection in a pre-filled pen]
+
+When changing from a treatment regimen with an intermediate or long-acting insulin to a regimen with Lantus, a change of the dose of the basal insulin may be required and the concomitant antidiabetic treatment may need to be adjusted (dose and timing of additional regular insulins or fast-acting insulin analogues or the dose of oral antidiabetic medicinal products).
 
 Before using SoloStar, the instructions for use included in the package leaflet must be read carefully (see section 6.6).

@@ -2,6 +2,7 @@
 
 Lantus is not the insulin of choice for the treatment of diabetic ketoacidosis.
 Instead, regular insulin administered intravenously is recommended in such cases.
+
 In case of insufficient glucose control or a tendency to hyper- or hypoglycaemic episodes, the patient's adherence to the prescribed treatment regimen, injection sites and proper injection technique and all other relevant factors must be reviewed before dose adjustment is considered.
 
 Transferring a patient to another type or brand of insulin should be done under strict medical supervision.

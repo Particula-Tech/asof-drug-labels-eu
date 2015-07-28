@@ -3,7 +3,6 @@
 In healthy subjects and diabetic patients, insulin serum concentrations indicated a slower and much more prolonged absorption and showed a lack of a peak after subcutaneous injection of insulin glargine in comparison to human NPH insulin.
 Concentrations were thus consistent with the time profile of the pharmacodynamic activity of insulin glargine.
 The graph above shows the activity profiles over time of insulin glargine and NPH insulin.
-
 Insulin glargine injected once daily will reach steady state levels in 2-4 days after the first dose.
 
 When given intravenously the elimination half-life of insulin glargine and human insulin were comparable.
@@ -13,6 +12,7 @@ In plasma, the principal circulating compound is the metabolite M1.
 The exposure to M1 increases with the administered dose of Lantus.
 The pharmacokinetic and pharmacodynamic findings indicate that the effect of the subcutaneous injection with Lantus is principally based on exposure to M1.
 Insulin glargine and the metabolite M2 were not detectable in the vast majority of subjects and, when they were detectable their concentration was independent of the administered dose of Lantus.
+
 In clinical studies, subgroup analyses based on age and gender did not indicate any difference in safety and efficacy in insulin glargine-treated patients compared to the entire study population.
 
 Paediatric population

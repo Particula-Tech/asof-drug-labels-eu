@@ -8,6 +8,7 @@ Mechanism of action
 Insulin glargine is a human insulin analogue designed to have a low solubility at neutral pH.
 It is completely soluble at the acidic pH of the Lantus injection solution (pH 4).
 After injection into the subcutaneous tissue, the acidic solution is neutralised leading to formation of micro-precipitates from which small amounts of insulin glargine are continuously released, providing a smooth, peakless, predictable concentration/time profile with a prolonged duration of action.
+
 Insulin glargine is metabolised into 2 active metabolites M1 and M2 (see section 5.2).
 
 Insulin receptor binding: In vitro studies indicate that the affinity of insulin glargine and its metabolites M1 and M2 for the human insulin receptor is similar to the one of human insulin.
@@ -25,12 +26,12 @@ In clinical pharmacology studies, intravenous insulin glargine and human insulin
 As with all insulins, the time course of action of insulin glargine may be affected by physical activity and other variables.
 
 In euglycaemic clamp studies in healthy subjects or in patients with type 1 diabetes, the onset of action of subcutaneous insulin glargine was slower than with human NPH insulin, its effect profile was smooth and peakless, and the duration of its effect was prolonged.
-
 The following graph shows the results from a study in patients:
 
 Activity profile in patients with type 1 diabetes
 
 *determined as amount of glucose infused to maintain constant plasma glucose levels (hourly mean values)
+
 The longer duration of action of subcutaneous insulin glargine is directly related to its slower rate of absorption and supports once daily administration.
 The time course of action of insulin and insulin analogues such as insulin glargine may vary considerably in different individuals or within the same individual.
 
@@ -47,7 +48,6 @@ Participants were randomised (1:1) to receive insulin glargine (n=6264), titrate
 The first co-primary efficacy outcome was the time to the first occurrence of CV death, nonfatal myocardial infarction (MI), or nonfatal stroke, and the second co-primary efficacy outcome was the time to the first occurrence of any of the first co-primary events, or revascularisation procedure (coronary, carotid, or peripheral), or hospitalisation for heart failure.
 
 Secondary endpoints included all-cause mortality and a composite microvascular outcome.
-
 Insulin glargine did not alter the relative risk for CV disease and CV mortality when compared to standard of care.
 There were no differences between insulin glargine and standard care for the two co-primary outcomes; for any component endpoint comprising these outcomes; for all-cause mortality; or for the composite microvascular outcome.
 
@@ -57,6 +57,7 @@ The rates of severe hypoglycaemia (affected participants per 100 participant yea
 Over the course of this 6-year study, 42% of the insulin glargine group did not experience any hypoglycaemia.
 
 At the last on-treatment visit, there was a mean increase in body weight from baseline of 1.4 kg in the insulin glargine group and a mean decrease of 0.8 kg in the standard care group.
+
 Paediatric population
 
 In a randomised, controlled clinical study, paediatric patients (age range 6 to 15 years) with type 1 diabetes (n=349) were treated for 28 weeks with a basal-bolus insulin regimen where regular human insulin was used before each meal.
