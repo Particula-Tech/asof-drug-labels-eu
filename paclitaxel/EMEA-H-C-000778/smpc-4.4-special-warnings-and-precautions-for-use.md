@@ -20,6 +20,7 @@ When Abraxane is used as monotherapy, if Grade 3 sensory neuropathy develops, tr
 For combination use of Abraxane and gemcitabine, if Grade 3 or higher peripheral neuropathy develops, withhold Abraxane; continue treatment with gemcitabine at the same dose.
 Resume Abraxane at reduced dose when peripheral neuropathy improves to Grade 0 or 1 (see section 4.2).
 For combination use of Abraxane and carboplatin, if Grade 3 or higher peripheral neuropathy develops, treatment should be withheld until improvement to Grade 0 or 1 followed by a dose reduction for all subsequent courses of Abraxane and carboplatin (see section 4.2).
+
 Sepsis
 Sepsis was reported at a rate of 5% in patients with or without neutropenia who received Abraxane in combination with gemcitabine.
 Complications due to the underlying pancreatic cancer, especially biliary obstruction or presence of biliary stent, were identified as significant contributing factors.
@@ -57,7 +58,6 @@ Patients with pancreatic adenocarcinoma aged 75 years and older should be carefu
 
 Other
 Although limited data is available, no clear benefit in terms of prolonged overall survival has been demonstrated in pancreatic adenocarcinoma patients with normal CA 19-9 levels prior to start of treatment with Abraxane and gemcitabine (see section 5.1).
-
 Erlotinib should not be coadministered with Abraxane plus gemcitabine (see section 4.5).
 
 Excipients

@@ -105,10 +105,10 @@ Patients with hepatic impairment
 For patients with mild hepatic impairment (total bilirubin > 1 to ≤ 1.5 x ULN and aspartate aminotransferase [AST] ≤ 10 x ULN), no dose adjustments are required, regardless of indication.
 Treat with same doses as patients with normal hepatic function.
 
-For metastatic breast cancer patients with moderate to severe hepatic impairment (total bilirubin > 1.5 to ≤ 5 x ULN and AST ≤ 10 x ULN), a 20% reduction in dose is recommended.
+For metastatic breast cancer patients and non-small cell lung cancer patients with moderate to severe hepatic impairment (total bilirubin > 1.5 to ≤ 5 x ULN and AST ≤ 10 x ULN), a 20% reduction in dose is recommended.
 The reduced dose may be escalated to the dose for patients with normal hepatic function if the patient is tolerating the treatment for at least two cycles (see sections 4.4 and 5.2).
 
-For patients with metastatic adenocarcinoma of the pancreas and non-small cell lung cancer patients that have moderate to severe hepatic impairment, there are insufficient data to permit dosage recommendations (see sections 4.4 and 5.2).
+For patients with metastatic adenocarcinoma of the pancreas that have moderate to severe hepatic impairment, there are insufficient data to permit dosage recommendations (see sections 4.4 and 5.2).
 
 For patients with total bilirubin > 5 x ULN or AST > 10 x ULN, there are insufficient data to permit dosage recommendations regardless of indication (see sections 4.4 and 5.2).
 
