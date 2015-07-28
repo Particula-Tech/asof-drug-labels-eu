@@ -24,6 +24,8 @@ Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10)
 | Immune system disorders | Uncommon | Hypersensitivity reactions (e.g., angioedema, pruritus, rash)* |
 | Nervous system disorders | Very Common | Headache |
 | Vascular disorders | Common | Hypotension** |
+| Respiratory, thoracic and mediastinal disorders | Common | Nasal congestion* |
+| General disorders and administration site conditions | Very common | Oedema, fluid retention*** |
 
 * Data derived from pooled placebo-controlled studies.
 
@@ -33,8 +35,10 @@ Description of selected adverse reactions
 In a long-term double-blind study in patients with PAH, hypotension was reported for 7.0% and 4.4% of patients on macitentan 10 mg and placebo, respectively.
 This corresponded to 3.5 events / 100 patient-years on macitentan 10 mg compared to 2.7 events / 100 patient-years on placebo.
 
-Oedema/fluid retention has been associated with the use of ERAs and is also a clinical manifestation of right heart failure and underlying PAH disease.
-In a long-term double-blind study in patients with PAH, the incidence of oedema AEs in the macitentan 10 mg and placebo treatment groups was 11.0 events / 100 patient-years on macitentan 10 mg compared to 12.5 events / 100 patient-years on placebo.
+*** Oedema/fluid retention has been associated with the use of ERAs.
+In a long-term double-blind study in patients with PAH, the incidence of oedema AEs in the macitentan 10 mg and placebo treatment groups was 21.9% and 20.5%, respectively.
+In a double-blind study in patients with idiopathic pulmonary fibrosis, the incidence of peripheral oedema AEs in the macitentan and placebo treatment groups was 11.8% and 6.8%, respectively.
+In two double-blind clinical studies in patients with digital ulcers associated with systemic sclerosis, the incidences of peripheral oedema AEs ranged from 13.4% to 16.1% in the macitentan 10 mg groups and from 6.2% to 4.5% in the placebo groups.
 
 Laboratory abnormalities
 
@@ -51,6 +55,7 @@ A decrease from baseline in haemoglobin concentration to below 10 g/dL was repor
 White blood cells
 
 In a double-blind study in patients with PAH, macitentan 10 mg was associated with a decrease in mean leucocyte count from baseline of 0.7 × 109/L versus no change in placebo-treated patients.
+
 Platelets
 In a double-blind study in patients with PAH, macitentan 10 mg was associated with a decrease in mean platelet count of 17 × 109/L, versus a mean decrease of 11 × 109/L in placebo-treated patients.
 

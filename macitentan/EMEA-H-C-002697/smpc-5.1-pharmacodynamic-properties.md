@@ -20,9 +20,7 @@ A multicenter, double-blind, placebo-controlled, parallel-group, event-driven, P
 At baseline, the majority of enrolled patients (64%) were treated with a stable dose of specific therapy for PAH, either oral phosphodiesterase inhibitors (61%) and/or inhaled/oral prostanoids (6%).
 
 The primary endpoint was the time to first occurrence of a morbidity or mortality event, up to the end of double-blind treatment, defined as death, or atrial septostomy, or lung transplantation, or initiation of intravenous (i.v.) or subcutaneous (s.c.) prostanoids, or other worsening of PAH.
-Other worsening of PAH was defined as the presence of all of the three following components: a sustained decrease in 6-minute walk distance (6MWD) of at least 15% from baseline; worsening of PAH symptoms
-
-(worsening of WHO FC or right heart failure); and need for new treatment for PAH.
+Other worsening of PAH was defined as the presence of all of the three following components: a sustained decrease in 6-minute walk distance (6MWD) of at least 15% from baseline; worsening of PAH symptoms (worsening of WHO FC or right heart failure); and need for new treatment for PAH.
 All events were confirmed by an independent adjudication committee, blinded to treatment allocation.
 
 All patients were followed up to end-of-study (EOS) for vital status.
