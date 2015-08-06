@@ -2,10 +2,6 @@
 
 Film-coated tablets
 
-[Azomyr 5 mg oral lyophilisate]
-
-Oral lyophilisate
-
 [Azomyr 2.5 mg orodispersible tablets]
 
 Orodispersible tablet

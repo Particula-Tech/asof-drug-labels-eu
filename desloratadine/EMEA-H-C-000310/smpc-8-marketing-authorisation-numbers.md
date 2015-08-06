@@ -2,10 +2,6 @@
 
 EU/1/00/157/001-013
 
-[Azomyr 5 mg oral lyophilisate]
-
-EU/1/00/157/022-034
-
 [Azomyr 2.5 mg orodispersible tablets]
 
 EU/1/00/157/035-046

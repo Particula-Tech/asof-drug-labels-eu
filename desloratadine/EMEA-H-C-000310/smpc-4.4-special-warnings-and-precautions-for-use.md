@@ -4,13 +4,6 @@ In the case of severe renal insufficiency, Azomyr should be used with caution (s
 
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
-[Azomyr 5 mg oral lyophilisate]
-
-In the case of severe renal insufficiency, Azomyr should be used with caution.
-
-This product contains aspartame 1.75 mg per oral lyophilisate.
-Aspartame is a source of phenylalanine, which may be harmful for people with phenylketonuria.
-
 [Azomyr 2.5 mg orodispersible tablets]
 
 This product contains 1.4 mg of phenylalanine per 2.5 mg dose of Azomyr orodispersible tablet.
@@ -22,6 +15,7 @@ This product contains 2.9 mg of phenylalanine per 5 mg dose of Azomyr orodispers
 
 [Azomyr 0.5 mg/ml oral solution]
 
+Paediatric population
 In children below 2 years of age, the diagnosis of allergic rhinitis is particularly difficult to distinguish from other forms of rhinitis.
 The absence of upper respiratory tract infection or structural abnormalities, as well as patient history, physical examinations, and appropriate laboratory and skin tests should be considered.
 

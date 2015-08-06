@@ -18,17 +18,15 @@ There is no evidence of clinically relevant medicine accumulation following once
 Biotransformation
 The enzyme responsible for the metabolism of desloratadine has not been identified yet, and therefore, some interactions with other medicinal products cannot be fully excluded.
 Desloratadine does not inhibit CYP3A4 in vivo, and in vitro studies have shown that the medicinal product does not inhibit CYP2D6 and is neither a substrate nor an inhibitor of P-glycoprotein.
-
 Elimination
 In a single dose trial using a 7.5 mg dose of desloratadine, there was no effect of food (high-fat, high caloric breakfast) on the disposition of desloratadine.
 In another study, grapefruit juice had no effect on the disposition of desloratadine.
 
-[Azomyr 5 mg oral lyophilisate]
-
-In single-dose crossover studies of Azomyr oral lyophilisate with Azomyr tablets, the formulations were bioequivalent.
-
-The presence of food has no relevant influence on AUC and Cmax of Azomyr oral lyophilisate while the presence of food prolongs Tmax for desloratadine from 2.5 to 4 hours and Tmax for 3-OH-desloratadine from 4 to 6 hours.
-In a separate study, grapefruit juice had no effect on the disposition of desloratadine.
+Renally impaired patients
+The pharmacokinetics of desloratadine in patients with chronic renal insufficiency (CRI) was compared with that of healthy subjects in one single-dose study and one multiple dose study.
+In the single-dose study, the exposure to desloratadine was approximately 2 and 2.5-fold greater in subjects with mild to moderate and severe CRI, respectively, than in healthy subjects.
+In the multiple-dose study, steady state was reached after Day 11, and compared to healthy subjects the exposure to desloratadine was ~1.5-fold greater in subjects with mild to moderate CRI and ~2.5-fold greater in subjects with severe CRI.
+In both studies, changes in exposure (AUC and Cmax) of desloratadine and 3-hydroxydesloratadine were not clinically relevant.
 
 [Azomyr 2.5 mg orodispersible tablets]
 
@@ -38,9 +36,11 @@ The prevalence of this poor metaboliser phenotype was comparable for adult (6 %)
 In a multiple-dose pharmacokinetic study conducted with the tablet formulation in healthy adult subjects, four subjects were found to be poor metabolisers of desloratadine.
 These subjects had a Cmax concentration about 3-fold higher at approximately 7 hours with a terminal phase half-life of approximately 89 hours.
 
-In single-dose crossover studies of Azomyr 5 mg orodispersible tablets with Azomyr 5 mg conventional tablets or Azomyr 5 mg oral lyophilisate, the formulations were bioequivalent.
+In single-dose crossover studies of Azomyr 5 mg orodispersible tablets with Azomyr 5 mg conventional tablets, the formulations were bioequivalent.
 Azomyr 2.5 mg tablets has not been evaluated in paediatric patients however in conjunction with the dose finding studies in paediatrics, the pharmacokinetics data for Azomyr orodispersible tablets supports the use of the 2.5 mg dose in paediatric patients 6 to 11 years of age.
 
+The presence of food prolongs Tmax for desloratadine from 2.5 to 4 hours and Tmax for 3-OH-desloratadine from 4 to 6 hours.
+In a separate study, grapefruit juice had no effect on the disposition of desloratadine.
 Water had no effect on the bioavailability of Azomyr orodispersible tablets.
 
 [Azomyr 5 mg orodispersible tablets]
@@ -58,8 +58,8 @@ The exposure (AUC) to desloratadine was about 6-fold higher and the Cmax was abo
 Exposure was the same in adult and paediatric poor metabolisers when treated with age-appropriate doses.
 The overall safety profile of these subjects was not different from that of the general population.
 The effects of desloratadine in poor metabolizers < 2 years of age have not been studied.
-In separate single dose studies, at the recommended doses, paediatric patients had comparable AUC and Cmax values of desloratadine to those in adults who received a 5 mg dose of desloratadine syrup.
 
+In separate single dose studies, at the recommended doses, paediatric patients had comparable AUC and Cmax values of desloratadine to those in adults who received a 5 mg dose of desloratadine syrup.
 There is no evidence of clinically relevant active substance accumulation following once daily adult and adolescent dosing of desloratadine (5 mg to 20 mg) for 14 days.
 
 In a single dose, crossover study of desloratadine, the tablet and the syrup formulations were found to be bioequivalent.

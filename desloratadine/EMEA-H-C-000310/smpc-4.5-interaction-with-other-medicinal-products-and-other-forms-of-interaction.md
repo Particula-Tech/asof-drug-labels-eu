@@ -2,20 +2,9 @@
 
 No clinically relevant interactions were observed in clinical trials with desloratadine tablets in which erythromycin or ketoconazole were co-administered (see section 5.1).
 
-In a clinical pharmacology trial Azomyr taken concomitantly with alcohol did not potentiate the performance impairing effects of alcohol (see section 5.1).
-
-[Azomyr 5 mg oral lyophilisate]
+Paediatric population
+Interaction studies have only been performed in adults.
 
 In a clinical pharmacology trial, Azomyr tablets taken concomitantly with alcohol did not potentiate the performance impairing effects of alcohol (see section 5.1).
-
-[Azomyr 2.5 mg orodispersible tablets]
-
-(all sentences already above)
-
-[Azomyr 5 mg orodispersible tablets]
-
-(all sentences already above)
-
-[Azomyr 0.5 mg/ml oral solution]
-
-(all sentences already above)
+However, cases of alcohol intolerance and intoxication have been reported during post-marketing use.
+Therefore, caution is recommended if alcohol is taken concomitantly.

@@ -1,7 +1,8 @@
 # 4.2 Posology and method of administration
 
 Posology
-Adults and adolescents (12 years of age and over): The recommended dose of Azomyr is one tablet once a day.
+Adults and adolescents (12 years of age and over)
+The recommended dose of Azomyr is one tablet once a day.
 
 Intermittent allergic rhinitis (presence of symptoms for less than 4 days per week or for less than 4 weeks) should be managed in accordance with the evaluation of patient’s disease history and the treatment could be discontinued after symptoms are resolved and reinitiated upon their reappearance.
 In persistent allergic rhinitis (presence of symptoms for 4 days or more per week and for more than 4 weeks), continued treatment may be proposed to the patients during the allergen exposure periods.
@@ -16,20 +17,8 @@ Method of administration
 Oral use.
 The dose can be taken with or without food.
 
-[Azomyr 5 mg oral lyophilisate]
-
-Adults and adolescents (12 years of age and over): The recommended dose of Azomyr is one oral lyophilisate placed in the mouth once a day.
-
-The safety and efficacy of Azomyr 5 mg oral lyophilisate in children below the age of 12 years have not been established.
-
-Immediately before use, the blister must be carefully peeled open and the dose of oral lyophilisate removed without crushing it.
-The dose of oral lyophilisate is placed in the mouth where it will disperse immediately.
-Water or other liquid is not needed to swallow the dose.
-The dose must be taken as soon as the blister has been opened.
-
 [Azomyr 2.5 mg orodispersible tablets]
 
-Adults and adolescents 12 years of age and over
 The recommended dose of Azomyr is two 2.5 mg orodispersible tablets placed in the mouth once a day.
 
 Children 6 to 11 years of age: the recommended dose of Azomyr is one 2.5 mg orodispersible tablet placed in mouth once a day.
@@ -40,10 +29,12 @@ There is limited clinical trial efficacy experience with the use of desloratadin
 
 Immediately before use, the blister must be carefully peeled open and the dose of orodispersible tablet removed without crushing it.
 The dose of orodispersible tablet is placed in the mouth where it will disperse immediately.
+Water or other liquid is not needed to swallow the dose.
+The dose must be taken as soon as the blister has been opened.
 
 [Azomyr 5 mg orodispersible tablets]
 
-Adults and adolescents (12 years of age and over): The recommended dose of Azomyr is one 5 mg orodispersible tablet placed in the mouth once a day.
+The recommended dose of Azomyr is one 5 mg orodispersible tablet placed in the mouth once a day.
 
 The safety and efficacy of Azomyr 5 mg orodispersible tablets in children below the age of 12 years have not been established.
 

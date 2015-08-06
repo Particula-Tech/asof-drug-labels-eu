@@ -6,10 +6,6 @@ Non-clinical studies conducted with desloratadine and loratadine demonstrated th
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity, carcinogenic potential, toxicity to reproduction and development.
 The lack of carcinogenic potential was demonstrated in studies conducted with desloratadine and loratadine.
 
-[Azomyr 5 mg oral lyophilisate]
-
-No significant local irritant effect was observed when the rapidly-dissolving form was tested in a hamster cheek pouch mucous membrane irritation assay.
-
 [Azomyr 2.5 mg orodispersible tablets]
 
 The collective analysis of preclinical and clinical irritation studies for the orodispersible tablet indicate that this formulation in unlikely to pose risk for local irritation with clinical use.

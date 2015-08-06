@@ -5,10 +5,6 @@ Azomyr is indicated in adults and adolescents aged 12 years and older for the re
 - allergic rhinitis (see section 5.1)
 - urticaria (see section 5.1)
 
-[Azomyr 5 mg oral lyophilisate]
-
-(all sentences already above)
-
 [Azomyr 2.5 mg orodispersible tablets]
 
 Azomyr is indicated in adults, adolescents aged 12 years and older and children aged 6 – 11 years old for the relief of symptoms associated with:

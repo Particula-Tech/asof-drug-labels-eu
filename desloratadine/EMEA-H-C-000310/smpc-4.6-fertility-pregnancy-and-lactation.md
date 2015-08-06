@@ -1,7 +1,7 @@
 # 4.6 Fertility, pregnancy and lactation
 
 Pregnancy
-There are no or limited amount of data (less than 300 pregnancy outcomes) from the use of desloratadine in pregnant women.
+A large amount of data on pregnant women (more than 1,000 pregnancy outcomes) indicate no malformative nor foeto/ neonatal toxicity of desloratadine.
 Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3).
 As a precautionary measure, it is preferable to avoid the use of Azomyr during pregnancy.
 
