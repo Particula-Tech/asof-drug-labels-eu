@@ -8,6 +8,7 @@ Pharmacokinetic enhancement by ritonavir is based on ritonavir’s activity as a
 The degree of enhancement is related to the metabolic pathway of the co-administered protease inhibitor and the impact of the co-administered protease inhibitor on the metabolism of ritonavir.
 Maximal inhibition of metabolism of the co-administered protease inhibitor is generally achieved with ritonavir doses of 100 mg daily to 200 mg twice daily, and is dependent on the co-administered protease inhibitor.
 For additional information on the effect of ritonavir on co-administered protease inhibitor metabolism, see section 4.5 and refer to the Summary of Product Characteristics of the particular co-administered PIs.
+
 Ritonavir dosed as an antiretroviral agent
 
 Ritonavir is an orally active peptidomimetic inhibitor of the HIV-1 and HIV-2 aspartyl proteases.
@@ -63,6 +64,10 @@ Response was similar in both dosing regimens and across patient age.
 
 In a study completed in 2000, 76 HIV-1 infected children aged 6 months to 12 years who were protease inhibitor naive and naive to lamivudine and/or stavudine received ritonavir 350 or 450 mg/m2 every 12 hours co-administered with lamivudine and stavudine.
 In intent to treat analyses, 50% and 57% of patients in the 350 and 450 mg/m2 dose groups, respectively, achieved reduction in plasma HIV-1 RNA to ≤ 400 copies/ml at Week 48.
+
+[Norvir 100 mg powder for oral suspension]
+
+(all sentences already above)
 
 [Norvir 100 mg soft capsules]
 

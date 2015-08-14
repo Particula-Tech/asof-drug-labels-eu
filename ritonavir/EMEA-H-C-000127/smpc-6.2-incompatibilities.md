@@ -2,9 +2,13 @@
 
 Norvir should not be diluted with water.
 
+[Norvir 100 mg powder for oral suspension]
+
+Not applicable.
+
 [Norvir 100 mg soft capsules]
 
-Not applicable
+(all sentences already above)
 
 [Norvir 100 mg film-coated tablets]
 

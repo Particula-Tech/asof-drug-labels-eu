@@ -14,3 +14,17 @@ Treatment of overdose with ritonavir should consist of general supportive measur
 Due to the solubility characteristics and possibility of transintestinal elimination, it is proposed that management of overdose could entail gastric lavage and administration of activated charcoal.
 Since ritonavir is extensively metabolised by the liver and is highly protein bound, dialysis is unlikely to be beneficial in significant removal of the medicine.
 However, dialysis can remove both alcohol and propylene glycol in the case of overdose with ritonavir oral solution.
+
+[Norvir 100 mg powder for oral suspension]
+
+Symptoms
+
+Management
+
+[Norvir 100 mg soft capsules]
+
+(all sentences already above)
+
+[Norvir 100 mg film-coated tablets]
+
+(all sentences already above)

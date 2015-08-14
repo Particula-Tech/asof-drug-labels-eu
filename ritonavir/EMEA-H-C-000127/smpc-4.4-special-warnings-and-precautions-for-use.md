@@ -7,6 +7,7 @@ While effective viral suppression with antiretroviral therapy has been proven to
 Precautions to prevent transmission should be taken in accordance with national guidelines.
 
 When ritonavir is used as a pharmacokinetic enhancer with other PIs, full details on the warnings and precautions relevant to that particular PI should be considered, therefore the Summary of Product Characteristics for the particular PI must be consulted.
+
 Ritonavir dosed as an antiretroviral agent or as a pharmacokinetic enhancer
 
 Patients with chronic diarrhoea or malabsorption: Extra monitoring is recommended when diarrhoea occurs.
@@ -19,7 +20,6 @@ In some patients additional factor VIII was given.
 In more than a half of the reported cases, treatment with protease inhibitors was continued or reintroduced if treatment had been discontinued.
 A causal relationship has been evoked, although the mechanism of action has not been elucidated.
 Haemophiliac patients should therefore be made aware of the possibility of increased bleeding.
-
 Diabetes mellitus and hyperglycaemia: New onset diabetes mellitus, hyperglycaemia or exacerbation of existing diabetes mellitus has been reported in patients receiving protease inhibitors.
 In some of these the hyperglycaemia was severe and in some cases also associated with ketoacidosis.
 Many patients had confounding medical conditions, some of which required therapy with agents that have been associated with the development of diabetes mellitus or hyperglycaemia.
@@ -42,6 +42,7 @@ Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycoba
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
 
 Autoimmune disorders (such as Graves’ disease) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and can occur many months after initiation of treatment.
+
 Liver disease: Ritonavir should not be given to patients with decompensated liver disease.
 For patients with stable severe hepatic impairment (Child Pugh Grade C) without decompensation see section 4.2.
 Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk for severe and potentially fatal hepatic adverse reactions.
@@ -55,7 +56,6 @@ For specific dosing information in patients with renal impairment, refer to the 
 See also section 4.2.
 
 Renal failure, renal impairment, elevated creatinine, hypophosphataemia and proximal tubulopathy (including Fanconi syndrome) have been reported with the use of tenofovir disoproxil fumarate in clinical practice (see section 4.8).
-
 Ritonavir oral solution contains castor oil polyoxyl which may cause stomach upset and diarrhoea.
 Ritonavir oral solution also contains the azo-colouring agent sunset yellow (E110) which may cause allergic reactions.
 
@@ -107,6 +107,7 @@ If treatment with an HMG-CoA reductase inhibitor is indicated, pravastatin or fl
 
 Digoxin: Particular caution should be used when prescribing ritonavir in patients taking digoxin since co-administration of ritonavir with digoxin is expected to increase digoxin levels.
 The increased digoxin levels may lessen over time (see section 4.5).
+
 In patients who are already taking digoxin when ritonavir is introduced, the digoxin dose should be reduced to one-half of the patients’ normal dose and patient need to be followed more closely than usual for several weeks after initiating co-administration of ritonavir and digoxin.
 
 In patients who are already taking ritonavir when digoxin is introduced, digoxin should be introduced more gradually than usual.
@@ -123,7 +124,6 @@ Adverse reactions of nausea, dizziness, hypotension and syncope have been observ
 Rivaroxaban: It is not recommended to use ritonavir in patients receiving rivaroxaban, due to the risk of increased bleeding (see section 4.5).
 
 Ritonavir dosed as a pharmacokinetic enhancer
-
 The interaction profiles of HIV-protease inhibitors, co-administered with low dose ritonavir, are dependant on the specific co-administered protease inhibitor.
 
 For a description of the mechanisms and potential mechanisms contributing to the interaction profile of the PIs, see section 4.5.
@@ -139,6 +139,7 @@ Tipranavir: co-administered with 200 mg of ritonavir has been associated with re
 Extra vigilance is warranted in patients with chronic hepatitis B or hepatitis C co-infection, as these patients have an increased risk of hepatotoxicity.
 
 Doses of ritonavir lower than 200 mg twice daily should not be used as they might alter the efficacy profile of the combination.
+
 Fosamprenavir: Co-administration of fosamprenavir with ritonavir in doses greater than 100 mg twice daily has not been clinically evaluated.
 The use of higher ritonavir doses might alter the safety profile of the combination and therefore is not recommended.
 
@@ -147,6 +148,79 @@ The use of higher ritonavir doses may alter the safety profile of atazanavir (ca
 Only when atazanavir with ritonavir is co-administered with efavirenz, a dose increase of ritonavir to 200mg once daily could be considered.
 In this instance, close clinical monitoring is warranted.
 Refer to the Reyataz Summary of Product Characteristics for further details.
+
+[Norvir 100 mg powder for oral suspension]
+
+Patients with chronic diarrhoea or malabsorption
+Extra monitoring is recommended when diarrhoea occurs.
+
+Haemophilia
+There have been reports of increased bleeding, including spontaneous skin haematomas and haemarthroses, in haemophiliac patients type A and B treated with protease inhibitors.
+Haemophiliac patients should, therefore, be made aware of the possibility of increased bleeding.
+
+Diabetes mellitus and hyperglycaemia
+New onset diabetes mellitus, hyperglycaemia or exacerbation of existing diabetes mellitus has been reported in patients receiving protease inhibitors.
+Many patients had confounding medical conditions, some of which required therapy with medicinal products that have been associated with the development of diabetes mellitus or hyperglycaemia.
+
+Lipodystrophy
+Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients.
+
+Pancreatitis
+Pancreatitis should be considered if clinical symptoms (nausea, vomiting, abdominal pain) or abnormalities in laboratory values (such as increased serum lipase or amylase values) suggestive of pancreatitis should occur.
+
+Immune Reactivation Syndrome
+In HIV-infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymtomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
+
+Liver disease
+Ritonavir should not be given to patients with decompensated liver disease (see section 4.2).
+
+Renal disease
+Since the renal clearance of ritonavir is negligible, the decrease in the total body clearance is not expected in patients with renal impairment (see also section 4.2).
+
+Medication error
+Special attention should be given to the accurate calculation of the dose of Norvir, transcription of the medication order, dispensing information and dosing instructions to minimise the risk for medication errors and underdosing.
+
+Osteonecrosis
+Although the aetiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
+
+PR interval prolongation
+Ritonavir has been shown to cause modest asymptomatic prolongation of the PR interval in some healthy adult subjects.
+
+PDE5 inhibitors
+Particular caution should be used when prescribing sildenafil or tadalafil for the treatment of erectile dysfunction in patients receiving ritonavir.
+Concomitant use of avanafil or vardenafil with ritonavir is contraindicated (see section 4.3).
+HMG-CoA reductase inhibitors
+The HMG-CoA reductase inhibitors simvastatin and lovastatin are highly dependent on CYP3A for metabolism, thus concomitant use of ritonavir with simvastatin or lovastatin is not recommended due to an increased risk of myopathy including rhabdomyolysis.
+
+Digoxin
+Particular caution should be used when prescribing ritonavir in patients taking digoxin since co-administration of ritonavir with digoxin is expected to increase digoxin levels.
+
+Ethinyl estradiol
+Barrier or other non-hormonal methods of contraception should be considered when administering ritonavir at therapeutic or low doses as ritonavir is likely to reduce the effect and change the uterine bleeding profile when co-administered with estradiol-containing contraceptives.
+
+Glucocorticoids
+Concomitant use of ritonavir and fluticasone or other glucocorticoids that are metabolised by CYP3A4 is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects, including Cushing’s syndrome and adrenal suppression (see section 4.5).
+
+Trazodone
+Particular caution should be used when prescribing ritonavir in patients using trazodone.
+
+Rivaroxaban
+It is not recommended to use ritonavir in patients receiving rivaroxaban, due to the risk of increased bleeding (see section 4.5).
+
+The interaction profiles of HIV-protease inhibitors, co-administered with low dose ritonavir, are dependent on the specific co-administered protease inhibitor.
+
+Saquinavir
+Doses of ritonavir higher than 100 mg twice daily should not be used.
+
+Tipranavir
+Co-administraton of tipranavir with 200 mg of ritonavir has been associated with reports of clinical hepatitis and hepatic decompensation including some fatalities.
+
+Fosamprenavir
+Co-administration of fosamprenavir with ritonavir in doses greater than 100 mg twice daily has not been clinically evaluated.
+
+Atazanavir
+Co-administration of atazanavir with ritonavir at doses greater than 100 mg once daily has not been clinically evaluated.
+Refer to the Summary of Product Characteristics for atazanavir for further details.
 
 [Norvir 100 mg soft capsules]
 

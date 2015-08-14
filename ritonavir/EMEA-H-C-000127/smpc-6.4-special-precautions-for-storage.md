@@ -6,6 +6,10 @@ Do not refrigerate or freeze.
 Avoid exposure to excessive heat.
 Keep the bottle tightly closed.
 
+[Norvir 100 mg powder for oral suspension]
+
+Store below 30°C.
+
 [Norvir 100 mg soft capsules]
 
 Store in a refrigerator (2ºC - 8ºC) until they are dispensed to the patient.
