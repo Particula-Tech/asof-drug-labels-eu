@@ -33,7 +33,6 @@ If CIALIS is prescribed, a careful individual benefit/risk evaluation should be 
 Priapism and anatomical deformation of the penis
 Patients who experience erections lasting 4 hours or more should be instructed to seek immediate medical assistance.
 If priapism is not treated immediately, penile tissue damage and permanent loss of potency may result.
-
 CIALIS, should be used with caution in patients with anatomical deformation of the penis (such as angulation, cavernosal fibrosis or Peyronie's disease), or in patients who have conditions which may predispose them to priapism (such as sickle cell anaemia, multiple myeloma or leukaemia).
 
 Use with CYP3A4 inhibitors
@@ -53,7 +52,7 @@ A medical history and physical examination should be undertaken to diagnose erec
 
 Prior to initiating treatment with tadalafil for benign prostatic hyperplasia patients should be examined to rule out the presence of carcinoma of the prostate and carefully assessed for cardiovascular conditions (see section 4.3).
 
-There are limited clinical data on the safety of single-dose administration of CIALIS in patients with severe hepatic insufficiency (Child-Pugh Class C). Once-a-day administration either for the treatment of erectile dysfunction or benign prostatic hyperplasia has not been evaluated in patients with hepatic insufficiency.
+There is limited clinical data on the safety of single-dose administration of CIALIS in patients with severe hepatic insufficiency (Child-Pugh Class C). Once-a-day administration either for the treatment of erectile dysfunction or benign prostatic hyperplasia has not been evaluated in patients with hepatic insufficiency.
 
 [CIALIS 10 mg film-coated tablets]
 
@@ -62,4 +61,4 @@ There is limited clinical data on the safety of single-dose administration of CI
 
 [CIALIS 20 mg film-coated tablets]
 
-In patients who are taking alpha1 blockers concomitant administration of CIALIS may lead to symptomatic hypotension in some patients (see section 4.5).
+(all sentences already above)

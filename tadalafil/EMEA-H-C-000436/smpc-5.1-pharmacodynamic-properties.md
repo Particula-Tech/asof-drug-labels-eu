@@ -12,7 +12,7 @@ Pharmacodynamic effects
 Studies in vitro have shown that tadalafil is a selective inhibitor of PDE5.
 PDE5 is an enzyme found in corpus cavernosum smooth muscle, vascular and visceral smooth muscle, skeletal muscle, platelets, kidney, lung, and cerebellum.
 The effect of tadalafil is more potent on PDE5 than on other phosphodiesterases.
-Tadalafil is > 10,000-fold more potent for PDE5 than for PDE1, PDE2, and PDE4 enzymes which are found in the heart, brain, blood vessels, liver, and other organs.
+Tadalafil is > 10,000-fold more potent for PDE5 than for PDE1, PDE2, and PDE4, enzymes which are found in the heart, brain, blood vessels, liver, and other organs.
 Tadalafil is > 10,000-fold more potent for PDE5 than for PDE3, an enzyme found in the heart and blood vessels.
 This selectivity for PDE5 over PDE3 is important because PDE3 is an enzyme involved in cardiac contractility.
 Additionally, tadalafil is approximately 700-fold more potent for PDE5 than for PDE6, an enzyme which is found in the retina and is responsible for phototransduction.
@@ -55,8 +55,6 @@ The effect of PDE5 inhibition on cGMP concentration in the corpus cavernosum is 
 The resulting vascular relaxation increases blood perfusion which may be the mechanism by which symptoms of benign prostatic hyperplasia are reduced.
 These vascular effects may be complemented by inhibition of bladder afferent nerve activity and smooth muscle relaxation of the prostate and bladder.
 
-Tadalafil is > 10,000-fold more potent for PDE5 than for PDE1, PDE2, and PDE4, enzymes which are found in the heart, brain, blood vessels, liver, and other organs.
-
 Erectile dysfunction
 For CIALIS on demand, three clinical studies were conducted in 1054 patients in an at-home setting to define the period of responsiveness.
 
@@ -69,6 +67,7 @@ CIALIS was studied in 4 clinical studies of 12 weeks duration enrolling over 150
 The improvement in the total international prostate symptom score with CIALIS 5mg in the four studies were -4.8, -5.6, -6.1 and -6.3 compared to -2.2, - 3.6, -3.8 and -4.2 with placebo.
 The improvements in total international prostate symptom score occurred as early as 1 week.
 In one of the studies, which also included tamsulosin 0.4 mg as an active comparator, the improvement in total international prostate symptom score with CIALIS 5mg, tamsulosin and placebo were -6.3, -5.7 and -4.2 respectively.
+
 One of these studies assessed improvements in erectile dysfunction and signs and symptoms of benign prostatic hyperplasia in patients with both conditions.
 The improvements in the erectile function domain of the international index of erectile function and the total international prostate symptom score in this study were 6.5 and -6.1 with CIALIS 5 mg compared to 1.8 and -3.8 with placebo, respectively.
 The mean per-subject proportion of successful sexual intercourse attempts was 71.9% with CIALIS 5 mg compared to 48.3% with placebo.
@@ -76,8 +75,6 @@ The mean per-subject proportion of successful sexual intercourse attempts was 71
 The maintenance of the effect was evaluated in an open-label extension to one of the studies, which showed that the improvement in total international prostate symptom score seen at 12 weeks was maintained for up to 1 additional year of treatment with CIALIS 5mg.
 
 [CIALIS 10 mg film-coated tablets]
-
-Pharmacotherapeutic group: Urologicals, Drugs used in erectile dysfunction, ATC Code G04BE08.
 
 Three clinical studies were conducted in 1054 patients in an at-home setting to define the period of responsiveness to CIALIS.
 

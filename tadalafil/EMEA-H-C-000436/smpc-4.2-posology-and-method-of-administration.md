@@ -16,7 +16,6 @@ In these patients the recommended dose is 5 mg taken once a day at approximately
 The dose may be decreased to 2.5 mg once a day based on individual tolerability.
 
 The appropriateness of continued use of the daily regimen should be reassessed periodically.
-
 Special populations
 Elderly men
 Dose adjustments are not required in elderly patients.
@@ -24,15 +23,13 @@ Dose adjustments are not required in elderly patients.
 Men with renal impairment
 Dose adjustments are not required in patients with mild to moderate renal impairment.
 For patients with severe renal impairment 10 mg is the maximum recommended dose.
-Once-a-day dosing of tadalafil is not recommended in patients with severe renal impairment.
-(see sections 4.4 and 5.2).
+Once-a-day dosing of tadalafil is not recommended in patients with severe renal impairment (see sections 4.4 and 5.2).
 
 Men with hepatic impairment
 The recommended dose of CIALIS is 10 mg taken prior to anticipated sexual activity and with or without food.
 There is limited clinical data on the safety of CIALIS in patients with severe hepatic impairment (Child-Pugh Class C); if prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician.
 There are no available data about the administration of doses higher than 10 mg of tadalafil to patients with hepatic impairment.
-Once-a-day dosing has not been evaluated in patients with hepatic impairment; therefore, if prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician.
-(see sections 4.4 and 5.2).
+Once-a-day dosing has not been evaluated in patients with hepatic impairment; therefore, if prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician (see sections 4.4 and 5.2).
 
 Men with diabetes
 Dose adjustments are not required in diabetic patients.
@@ -54,17 +51,17 @@ Patients who are unable to tolerate tadalafil 5 mg for the treatment of benign p
 
 For patients with severe renal impairment 10 mg is the maximum recommended dose for on-demand treatment.
 
-Once-a-day dosing of 2.5 or 5 mg tadalafil both for the treatment of erectile dysfunction or benign prostatic hyperplasia is not recommended in patients with severe renal impairment.
-(see sections 4.
+Once-a-day dosing of 2.5 or 5 mg tadalafil both for the treatment of erectile dysfunction or benign prostatic hyperplasia is not recommended in patients with severe renal impairment (see sections 4.
 4 and 5.2).
 
 For the treatment of erectile dysfunction using on-demand CIALIS the recommended dose of CIALIS is 10 mg taken prior to anticipated sexual activity and with or without food.
 
 Once-a-day dosing of CIALIS both for the treatment of erectile dysfunction and benign prostatic hyperplasia has not been evaluated in patients with hepatic impairment; therefore, if prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician.
+(see sections 4.4 and 5.2).
 
 [CIALIS 10 mg film-coated tablets]
 
-Once-a-day dosing has not been evaluated in patients with hepatic impairment; therefore if prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician.
+Once-a-day dosing has not been evaluated in patients with hepatic impairment; therefore if prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician (see sections 4.4 and 5.2).
 
 [CIALIS 20 mg film-coated tablets]
 

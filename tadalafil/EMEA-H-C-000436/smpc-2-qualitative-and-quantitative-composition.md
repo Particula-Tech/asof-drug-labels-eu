@@ -2,7 +2,7 @@
 
 Each tablet contains 2.5 mg tadalafil.
 
-Excipient(s) with known effect:
+Excipient with known effect:
 Each coated tablet contains 87 mg of lactose (as monohydrate).
 
 For the full list of excipients, see section 6.1.

@@ -30,6 +30,7 @@ Therefore, administration of CIALIS to patients who are using any form of organi
 Based on the results of a clinical study in which 150 subjects receiving daily doses of tadalafil 20 mg for 7 days and 0.4 mg sublingual nitroglycerin at various times, this interaction lasted for more than 24 hours and was no longer detectable when 48 hours had elapsed after the last tadalafil dose.
 Thus, in a patient prescribed any dose of CIALIS (2.5 mg-20 mg), where nitrate administration is deemed medically necessary in a life-threatening situation, at least 48 hours should have elapsed after the last dose of CIALIS before nitrate administration is considered.
 In such circumstances, nitrates should only be administered under close medical supervision with appropriate haemodynamic monitoring.
+
 Anti-hypertensives (including calcium channel blockers)
 The co-administration of doxazosin (4 and 8 mg daily) and tadalafil (5 mg daily dose and 20 mg as a single dose) increases the blood pressure-lowering effect of this alpha-blocker in a significant manner.
 This effect lasts at least twelve hours and may be symptomatic, including syncope.
@@ -48,6 +49,12 @@ In study subjects whose blood pressure was not controlled, the reduction was gre
 In patients receiving concomitant antihypertensive medicinal products, tadalafil 20 mg may induce a blood pressure decrease, which (with the exception of alpha blockers -see above-) is, in general, minor and not likely to be clinically relevant.
 Analysis of phase 3 clinical trial data showed no difference in adverse events in patients taking tadalafil with or without antihypertensive medicinal products.
 However, appropriate clinical advice should be given to patients regarding a possible decrease in blood pressure when they are treated with antihypertensive medicinal products.
+
+Riociguat
+Preclinical studies showed an additive systemic blood pressure lowering effect when PDE5 inhibitors were combined with riociguat.
+In clinical studies, riociguat has been shown to augment the hypotensive effects of PDE5 inhibitors.
+There was no evidence of favourable clinical effect of the combination in the population studied.
+Concomitant use of riociguat with PDE5 inhibitors, including tadalafil, is contraindicated (see section 4.3).
 
 5- alpha reductase inhibitors
 In a clinical trial that compared tadalafil 5 mg coadministered with finasteride 5 mg to placebo plus finasteride 5 mg in the relief of BPH symptoms, no new adverse reactions were identified.

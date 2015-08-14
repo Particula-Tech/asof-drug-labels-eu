@@ -4,8 +4,7 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 In clinical studies, tadalafil was shown to augment the hypotensive effects of nitrates.
 This is thought to result from the combined effects of nitrates and tadalafil on the nitric oxide/cGMP pathway.
-Therefore, administration of CIALIS to patients who are using any form of organic nitrate is contraindicated.
-(see section 4.5).
+Therefore, administration of CIALIS to patients who are using any form of organic nitrate is contraindicated (see section 4.5).
 
 CIALIS, must not be used in men with cardiac disease for whom sexual activity is inadvisable.
 Physicians should consider the potential cardiac risk of sexual activity in patients with pre-existing cardiovascular disease.
@@ -19,3 +18,4 @@ The following groups of patients with cardiovascular disease were not included i
 - patients with a stroke within the last 6 months.
 
 CIALIS is contraindicated in patients who have loss of vision in one eye because of non-arteritic anterior ischaemic optic neuropathy (NAION), regardless of whether this episode was in connection or not with previous PDE5 inhibitor exposure (see section 4.4).
+The co-administration of PDE5 inhibitors, including tadalafil, with guanylate cyclase stimulators, such as riociguat, is contraindicated as it may potentially lead to symptomatic hypotension (see section 4.5).

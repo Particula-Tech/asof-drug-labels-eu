@@ -21,7 +21,6 @@ Consequently, it is not expected to be clinically active at observed metabolite 
 Elimination
 The mean oral clearance for tadalafil is 2.5 l/h and the mean half-life is 17.5 hours in healthy subjects.
 Tadalafil is excreted predominantly as inactive metabolites, mainly in the faeces (approximately 61 % of the dose) and to a lesser extent in the urine (approximately 36 % of the dose).
-
 Linearity/non-linearity
 Tadalafil pharmacokinetics in healthy subjects are linear with respect to time and dose.
 Over a dose range of 2.5 to 20 mg, exposure (AUC) increases proportionally with dose.

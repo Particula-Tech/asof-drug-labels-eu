@@ -11,7 +11,6 @@ Breastfeeding
 Available pharmacodynamic/toxicological data in animals have shown excretion of tadalafil in milk.
 A risk to the suckling child cannot be excluded.
 CIALIS should not be used during breast feeding.
-
 Fertility
 Effects were seen in dogs that might indicate impairment of fertility.
 Two subsequent clinical studies suggest that this effect is unlikely in humans, although a decrease in sperm concentration was seen in some men (see sections 5.1 and 5.3).
