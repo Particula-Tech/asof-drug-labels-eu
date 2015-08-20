@@ -14,6 +14,9 @@ The initial therapeutic dose is 500 mg twice daily.
 This dose can be started on the first day of treatment.
 Depending upon the clinical response and tolerability, the daily dose can be increased up to 1,500 mg twice daily.
 Dose changes can be made in 500 mg twice daily increases or decreases every two to four weeks.
+Discontinuation
+If levetiracetam has to be discontinued it is recommended to withdraw it gradually (e.g. in adults and adolescents weighing more than 50 kg: 500 mg decreases twice daily every two to four weeks; in infants older than 6 months, children and adolescents weighting less than 50 kg: dose decrease should not exceed 10 mg/kg twice daily every two weeks; in infants (less than 6 months): dose decrease should not exceed 7 mg/kg twice daily every two weeks).
+
 Special populations
 
 Elderly (65 years and older)
@@ -75,7 +78,7 @@ Dosing adjustment for infants, children and adolescents patients weighing less t
 | Severe | < 30 | 3.5 to 7 mg/kg (0.035 to 0.07 ml/kg) twice daily | 5 to 10 mg/kg (0.05 to 0.10 ml/kg) twice daily |
 | End-stage renal disease patients undergoing dialysis | -- | 7 to 14 mg/kg (0.07 to 0(2.) 1(44) ml/kg) once daily | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) once daily (3) (5) |
 
-(1) Keppra oral solution should be used for doses under 250 mg and for patients unable to swallow tablets.
+(1) Keppra oral solution should be used for doses under 250 mg, for doses not multiple of 250 mg when dosing recommendation is not achievable by taking multiple tablets and for patients unable to swallow tablets.
 (2) A 10.5 mg/kg (0.105 ml/kg) loading dose is recommended on the first day of treatment with levetiracetam.
 (3) A 15 mg/kg (0.15 ml/kg) loading dose is recommended on the first day of treatment with levetiracetam.
 (4) Following dialysis, a 3.5 to 7 mg/kg (0.035 to 0.07 ml/kg) supplemental dose is recommended.
@@ -99,30 +102,15 @@ In all of the above cases Keppra oral solution should be used.
 Monotherapy
 
 The safety and efficacy of Keppra in children and adolescents below 16 years as monotherapy treatment have not been established.
-There are no data available.
+No data are available.
 Add-on therapy for infants aged from 6 to 23 months, children (2 to 11 years) and adolescents (12 to 17 years) weighing less than 50 kg
 
 Keppra oral solution is the preferred formulation for use in infants and children under the age of 6 years.
 
-The initial therapeutic dose is 10 mg/kg twice daily.
-Depending upon the clinical response and tolerability, the dose can be increased up to 30 mg/kg twice daily.
-Dose changes should not exceed increases or decreases of 10 mg/kg twice daily every two weeks.
+For children 6 years and above, Keppra oral solution should be used for doses under 250 mg, for doses not multiple of 250 mg when dosing recommendation is not achievable by taking multiple tablets and for patients unable to swallow tablets
 The lowest effective dose should be used.
+The starting dose for a child or adolescent of 25kg should be 250mg twice daily with a maximum dose of 750mg twice daily.
 Dose in children 50 kg or greater is the same as in adults.
-
-Dose recommendations for infants from 6 months of age, children and adolescents:
-
-| Weight | Starting dose: 10 mg/kg twice daily | Maximum dose: 30 mg/kg twice daily |
-| --- | --- | --- |
-| 6 kg (1) | 60 mg (0.6 ml) twice daily | 180 mg (1.8 ml) twice daily |
-| 10 kg (1) | 100 mg (1 ml) twice daily | 300 mg (3 ml) twice daily |
-| 15 kg (1) | 150 mg (1.5 ml) twice daily | 450 mg (4.5 ml) twice daily |
-| 20 kg (1) | 200 mg (2 ml) twice daily | 600 mg (6 ml) twice daily |
-| 25 kg | 250 mg twice daily | 750 mg twice daily |
-| From 50 kg (2) | 500 mg twice daily | 1,500 mg twice daily |
-
-(1) Children 25 kg or less should preferably start the treatment with Keppra 100 mg/ml oral solution.
-(2) Dose in children and adolescents 50 kg or more is the same as in adults.
 
 Add-on therapy for infants aged from 1 month to less than 6 months
 
@@ -135,6 +123,7 @@ The daily dose is administered in two equally divided doses.
 [Keppra 500 mg film-coated tablets]
 
 CLcr (ml/min/1.73 m2) = -------------------------------------
+Serum Creatinine (mg/dl) ks= 0.45 in Term infants to 1 year old; ks= 0.55 in Children to less than 13 years and in adolescent female; ks= 0.7 in adolescent male
 
 | Group | Creatinine clearance (ml/min/1.73m2) | Dose and frequency (1) |  |
 | --- | --- | --- | --- |
@@ -157,6 +146,26 @@ Add-on therapy for infants aged 6 to 23 months, children (2 to 11 years) and ado
 
 [Keppra 100 mg/ml oral solution]
 
+If levetiracetam has to be discontinued it is recommended to withdraw it gradually (e.g. in adults and adolescents weighing more than 50 kg: 500 mg decreases twice daily every two to four weeks; in infants older than 6 months, children and adolescents weighting less than 50 kg: dose decrease should not exceed 10 mg/kg twice daily every two weeks; in infants (less than 6 months): dose decrease should not exceed 7 mg/ kg twice daily every two weeks).
+
+The initial therapeutic dose is 10 mg/kg twice daily.
+Depending upon the clinical response and tolerability, the dose can be increased up to 30 mg/kg twice daily.
+Dose changes should not exceed increases or decreases of 10 mg/kg twice daily every two weeks.
+
+Dose recommendations for infants from 6 months of age, children and adolescents:
+
+| Weight | Starting dose: 10 mg/kg twice daily | Maximum dose: 30 mg/kg twice daily |
+| --- | --- | --- |
+| 6 kg (1) | 60 mg (0.6 ml) twice daily | 180 mg (1.8 ml) twice daily |
+| 10 kg (1) | 100 mg (1 ml) twice daily | 300 mg (3 ml) twice daily |
+| 15 kg (1) | 150 mg (1.5 ml) twice daily | 450 mg (4.5 ml) twice daily |
+| 20 kg (1) | 200 mg (2 ml) twice daily | 600 mg (6 ml) twice daily |
+| 25 kg | 250 mg twice daily | 750 mg twice daily |
+| From 50 kg (2) | 500 mg twice daily | 1,500 mg twice daily |
+
+(1) Children 25 kg or less should preferably start the treatment with Keppra 100 mg/ml oral solution.
+(2) Dose in children and adolescents 50 kg or more is the same as in adults.
+
 The initial therapeutic dose is 7 mg/kg twice daily.
 Depending upon the clinical response and tolerability, the dose can be increased up to 21 mg/kg twice daily.
 Dose changes should not exceed increases or decreases of 7 mg/kg twice daily every two weeks.
@@ -172,24 +181,29 @@ Dose recommendations for infants aged from 1 month to less than 6 months:
 
 Three presentations are available:
 
-- A 300 ml bottle with a 10 ml oral syringe (containing up to 1000 mg levetiracetam) graduated every 0.25 ml (corresponding to 25 mg).
+- A 300 ml bottle with a 10 ml oral syringe (delivering up to 1000 mg levetiracetam) graduated every 0.25 ml (corresponding to 25 mg).
 
 This presentation should be prescribed for children aged 4 years and older, adolescents and adults.
 
-- A 150 ml bottle with a 3 ml oral syringe (containing up to 300 mg levetiracetam) graduated every 0.1 ml (corresponding to 10 mg)
+- A 150 ml bottle with a 3 ml oral syringe (delivering up to 300 mg levetiracetam) graduated every 0.1 ml (corresponding to 10 mg)
 
 In order to ensure the accuracy of the dosing, this presentation should be prescribed for infants and young children aged from 6 months to less than 4 years.
 
-- A 150 ml bottle with a 1 ml oral syringe (containing up to 100 mg levetiracetam) graduated every 0.05 ml (corresponding to 5 mg)
+- A 150 ml bottle with a 1 ml oral syringe (delivering up to 100 mg levetiracetam) graduated every 0.05 ml (corresponding to 5 mg)
 
 In order to ensure the accuracy of the dosing, this presentation should be prescribed for infants aged 1 month to less than 6 months.
 The oral solution may be diluted in a glass of water or baby’s bottle and may be taken with or without food.
-A graduated oral syringe, an adaptor for the syringe and instructions for use in the package leaflet are provided with Keppra.
 
 [Keppra 100 mg/ml concentrate for solution for infusion]
 
+Keppra therapy can be initiated with either intravenous or oral administration.
+Conversion to or from oral to intravenous administration can be done directly without titration.
+The total daily dose and frequency of administration should be maintained.
+
 Duration of treatment
 There is no experience with administration of intravenous levetiracetam for longer period than 4 days.
+
+If levetiracetam has to be discontinued it is recommended to withdraw it gradually (e.g. in adults and adolescents weighing more than 50 kg: 500 mg decreases twice daily every two to four weeks; in children and adolescents weighting less than 50 kg: dose decrease should not exceed 10 mg/kg twice daily every two weeks).
 
 The CLcr in ml/min/1.73 m2 may be estimated from serum creatinine (mg/dl) determination, for young adolescents and children using the following formula (Schwartz formula):
 
@@ -227,7 +241,4 @@ Add-on therapy for infants and children less than 4 years
 The safety and efficacy of Keppra concentrate for solution for infusion in infants and children less than 4 years have not been established.
 Currently available data are described in sections 4.8, 5.1, and 5.2 but no recommendation on a posology can be made.
 
-Keppra therapy can be initiated with either intravenous or oral administration.
-Conversion to or from oral to intravenous administration can be done directly without titration.
-The total daily dose and frequency of administration should be maintained.
 Keppra concentrate is for intravenous use only and the recommended dose must be diluted in at least 100 ml of a compatible diluent and administered intravenously as a 15-minute intravenous infusion (see section 6.6).

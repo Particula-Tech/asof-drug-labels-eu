@@ -16,7 +16,7 @@ This medicinal product does not require any special storage conditions.
 
 [Keppra 100 mg/ml oral solution]
 
-Store in the original container in order to protect from light.
+Store in the original bottle in order to protect from light.
 
 [Keppra 100 mg/ml concentrate for solution for infusion]
 

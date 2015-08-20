@@ -7,7 +7,7 @@ There is no evidence for any relevant gender, race or circadian variability.
 The pharmacokinetic profile is comparable in healthy volunteers and in patients with epilepsy.
 
 Due to its complete and linear absorption, plasma levels can be predicted from the oral dose of levetiracetam expressed as mg/kg bodyweight.
-Therefore there is no need for plasma level monitoring of levetiracetam.
+Therefore, there is no need for plasma level monitoring of levetiracetam.
 
 A significant correlation between saliva and plasma concentrations has been shown in adults and children (ratio of saliva/plasma concentrations ranged from 1 to 1.7 for oral tablet formulation and after 4 hours post-dose for oral solution formulation).
 
@@ -23,7 +23,6 @@ Peak concentrations (Cmax) are typically 31 and 43 µg/ml following a single 1,0
 The extent of absorption is dose-independent and is not altered by food.
 
 Distribution
-
 No tissue distribution data are available in humans.
 Neither levetiracetam nor its primary metabolite are significantly bound to plasma proteins (< 10 %).
 The volume of distribution of levetiracetam is approximately 0.5 to 0.7 l/kg, a value close to the total body water volume.
@@ -66,9 +65,9 @@ In the elderly, the half-life is increased by about 40 % (10 to 11 hours).
 This is related to the decrease in renal function in this population (see section 4.2).
 
 Renal impairment
+
 The apparent body clearance of both levetiracetam and of its primary metabolite is correlated to the creatinine clearance.
 It is therefore recommended to adjust the maintenance daily dose of Keppra, based on creatinine clearance in patients with moderate and severe renal impairment (see section 4.2).
-
 In anuric end-stage renal disease adult subjects the half-life was approximately 25 and 3.1 hours during interdialytic and intradialytic periods, respectively.
 The fractional removal of levetiracetam was 51 % during a typical 4-hour dialysis session.
 
@@ -122,10 +121,11 @@ Linear and dose proportional increases were observed for peak plasma concentrati
 
 The pharmacokinetic profile has been characterized following oral administration.
 A single dose of 1500 mg levetiracetam diluted in 100 ml of a compatible diluent and infused intravenously over 15 minutes is bioequivalent to 1500 mg levetiracetam oral intake, given as three 500 mg tablets.
+
 The intravenous administration of doses up to 4000 mg diluted in 100 ml of 0.9 % sodium chloride infused over 15 minutes and doses up to 2500 mg diluted in 100 ml of 0.9 % sodium chloride infused over 5 minutes was evaluated.
 The pharmacokinetic and safety profiles did not identify any safety concerns.
 
-The time independent pharmacokinetic profile of levetiracetam was also confirmed following 1500 mg intravenous infusion for 4 days with b.i.d dosing.
+The time independent pharmacokinetic profile of levetiracetam was also confirmed following 1500 mg intravenous infusion for 4 days with twice daily dosing.
 
 Peak plasma concentration (Cmax) observed in 17 subjects following a single intravenous dose of 1500 mg infused over 15 minutes was 51 ± 19 µg/ml (arithmetic average ± standard deviation).
 

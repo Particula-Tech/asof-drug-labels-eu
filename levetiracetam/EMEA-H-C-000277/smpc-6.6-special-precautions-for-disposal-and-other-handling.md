@@ -20,12 +20,12 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 [Keppra 100 mg/ml concentrate for solution for infusion]
 
-See Table 1 for the recommended preparation and administration of Keppra concentrate to achieve a total daily dose of 500 mg, 1,000 mg, 2,000 mg, or 3,000 mg in two divided doses.
+See Table 1 for the recommended preparation and administration of Keppra concentrate for solution for infusion to achieve a total daily dose of 500 mg, 1,000 mg, 2,000 mg, or 3,000 mg in two divided doses.
 
 Table 1.
-Preparation and administration of Keppra concentrate
+Preparation and administration of Keppra concentrate for solution for infusion
 
-| Dose | Withdrawal Volume | Volume of Diluent | Infusion Time | Frequency of administration | Total Daily Dose |
+| Dose | Withdrawal Volume | Volume of Diluent | Infusion Time | Frequency of Administration | Total Daily Dose |
 | --- | --- | --- | --- | --- | --- |
 | 250 mg | 2.5 ml (half 5 ml vial) | 100 ml | 15 minutes | Twice daily | 500 mg/day |
 | 500 mg | 5 ml (one 5 ml vial) | 100 ml | 15 minutes | Twice daily | 1000 mg/day |
@@ -34,12 +34,12 @@ Preparation and administration of Keppra concentrate
 
 This medicinal product is for single use only, any unused solution should be discarded.
 
-Keppra concentrate was found to be physically compatible and chemically stable when mixed with the following diluents for at least 24 hours and stored in PVC bags at controlled room temperature 15-25 °C.
+Keppra concentrate for solution for infusion was found to be physically compatible and chemically stable for at least 24 hours when mixed with the following diluents and stored in PVC bags at controlled room temperature 15-25 °C.
 
 Diluents:
 
-- Sodium chloride (0.9%) injection
-- Lactated Ringer’s injection
-- Dextrose 5% injection
+- Sodium chloride 9 mg/ml (0.9%) solution for injection
+- Lactated Ringer’s solution for injection
+- Dextrose 50 mg/ml (5%) solution for injection
 
 Medicinal product with particulate matter or discoloration should not be used.

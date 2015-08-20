@@ -1,12 +1,12 @@
 # 4.6 Fertility, pregnancy and lactation
 
 Pregnancy
-Postmarketing data from several prospective pregnancy registries have documented outcomes in over 1000 women exposed to levetiracetam monotherapy during the first trimester of pregnancy.
+Postmarketing data from several prospective pregnancy registries have documented outcomes in over 1,000 women exposed to levetiracetam monotherapy during the first trimester of pregnancy.
 Overall, these data do not suggest a substantial increase in the risk for major congenital malformations, although a teratogenic risk cannot be completely excluded.
-Therapy with multiple antiepileptic medicinal products is associated with a higher risk of congenital malformations than monotherapy and therefore monotherapy should be considered.
+Therapy with multiple antiepileptic medicinal products is associated with a higher risk of congenital malformations than monotherapy and, therefore, monotherapy should be considered.
 Studies in animals have shown reproductive toxicity (see section 5.3).
 Keppra is not recommended during pregnancy and in women of childbearing potential not using contraception unless clinically necessary.
-As with other antiepileptic medicinal products, physiological changes during pregnancy may affect levetiracetam concentration.
+Physiological changes during pregnancy may affect levetiracetam concentration.
 Decrease in levetiracetam plasma concentrations has been observed during pregnancy.
 This decrease is more pronounced during the third trimester (up to 60% of baseline concentration before pregnancy).
 Appropriate clinical management of pregnant women treated with levetiracetam should be ensured.
