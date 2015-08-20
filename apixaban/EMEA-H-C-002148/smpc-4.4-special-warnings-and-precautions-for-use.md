@@ -86,7 +86,7 @@ It is not recommended in patients with severe hepatic impairment (see section 5.
 
 It should be used with caution in patients with mild or moderate hepatic impairment (Child Pugh A or B) (see sections 4.2 and 5.2).
 
-Patients with elevated liver enzymes ALT/AST > 2 x ULN or total bilirubin ≥ 1.5 x ULN were excluded in clinical trials.
+Patients with elevated liver enzymes ALT/AST > 2 x ULN or total bilirubin ≥1.5 x ULN were excluded in clinical trials.
 Therefore Eliquis should be used cautiously in this population (see section 5.2).
 Prior to initiating Eliquis, liver function testing should be performed.
 

@@ -7,7 +7,7 @@ Intake with food does not affect apixaban AUC or Cmax at the 10 mg dose.
 Apixaban can be taken with or without food.
 
 Apixaban demonstrates linear pharmacokinetics with dose proportional increases in exposure for oral doses up to 10 mg.
-At doses ≥ 25 mg apixaban displays dissolution limited absorption with decreased bioavailability.
+At doses ≥25 mg apixaban displays dissolution limited absorption with decreased bioavailability.
 Apixaban exposure parameters exhibit low to moderate variability reflected by a within-subject and inter-subject variability of ~20% CV and ~30% CV, respectively.
 
 Distribution

@@ -18,8 +18,8 @@ The recommended dose of Eliquis is 5 mg taken orally twice daily.
 
 Dose reduction
 
-The recommended dose of Eliquis is 2.5 mg taken orally twice daily in patients with NVAF and at least two of the following characteristics: age ≥ 80 years, body weight ≤ 60 kg, or serum creatinine
-≥ 1.5 mg/dL (133 micromole/L).
+The recommended dose of Eliquis is 2.5 mg taken orally twice daily in patients with NVAF and at least two of the following characteristics: age ≥80 years, body weight ≤60 kg, or serum creatinine
+≥1.5 mg/dL (133 micromole/L).
 
 Therapy should be continued long term.
 
@@ -53,7 +53,7 @@ When converting patients from Vitamin K antagonist (VKA) therapy to Eliquis, dis
 Switching from Eliquis to VKA therapy
 When converting patients from Eliquis to VKA therapy, continue administration of Eliquis for at least 2 days after beginning VKA therapy.
 After 2 days of coadministration of Eliquis with VKA therapy, obtain an INR prior to the next scheduled dose of Eliquis.
-Continue coadministration of Eliquis and VKA therapy until the INR is ≥ 2.0.
+Continue coadministration of Eliquis and VKA therapy until the INR is ≥2.0.
 
 Patients with renal impairment
 No dose adjustment is necessary in patients with mild or moderate renal impairment (see section 5.2).

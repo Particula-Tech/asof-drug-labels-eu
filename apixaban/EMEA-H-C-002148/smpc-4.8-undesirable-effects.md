@@ -25,6 +25,7 @@ Table 2
 | Thrombocytopenia | Uncommon | - | - |
 | Immune system disorders |  |  |  |
 | Hypersensitivity, allergic edema and Anaphylaxis | Rare | Uncommon | - |
+| Pruritus | Uncommon | Uncommon | Uncommon* |
 | Nervous system disorders |  |  |  |
 | Brain haemorrhage | - | Uncommon | Rare |
 | Eye disorders |  |  |  |
@@ -63,6 +64,7 @@ Table 2
 | Post procedural haemorrhage (including post procedural haematoma, wound haemorrhage, vessel puncture site haematoma and catheter site haemorrhage), wound secretion, incision site haemorrhage (including incision site haematoma), operative haemorrhage | Uncommon | - | - |
 | Traumatic haemorrhage, post procedural haemorrhage, incision site haemorrhage | - | Uncommon | Uncommon |
 
+* There were no occurrences of generalized pruritus in CV185057 (long term prevention of VTE)
 The use of Eliquis may be associated with an increased risk of occult or overt bleeding from any tissue or organ, which may result in posthaemorrhagic anaemia.
 The signs, symptoms, and severity will vary according to the location and degree or extent of the bleeding (see section 4.4 and section 5.1).
 
@@ -81,6 +83,7 @@ Table 2 shows the adverse reactions ranked under headings of System Organ Class 
 | --- | --- | --- |
 | Immune system disorders |  |  |
 | Hypersensitivity, allergic edema and Anaphylaxis | Uncommon | - |
+| Pruritus | Uncommon | Uncommon* |
 | Nervous system disorders |  |  |
 | Brain haemorrhage | Uncommon | Rare |
 | Eye disorders |  |  |

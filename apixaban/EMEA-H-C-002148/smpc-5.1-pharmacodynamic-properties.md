@@ -47,7 +47,7 @@ Clinical efficacy and safety
 Prevention of VTE (VTEp): elective hip or knee replacement surgery
 The apixaban clinical program was designed to demonstrate the efficacy and safety of apixaban for the prevention of VTE in a broad range of adult patients undergoing elective hip or knee replacement.
 A total of 8,464 patients were randomized in two pivotal, double-blind, multi-national studies, comparing apixaban 2.5 mg given orally twice daily (4,236 patients) or enoxaparin 40 mg once daily (4,228 patients).
-Included in this total were 1,262 patients (618 in the apixaban group) of age 75 or older, 1,004 patients (499 in the apixaban group) with low body weight (≤ 60 kg), 1,495 patients (743 in the apixaban group) with BMI ≥ 33 kg/m2, and 415 patients (203 in the apixaban group) with moderate renal impairment.
+Included in this total were 1,262 patients (618 in the apixaban group) of age 75 or older, 1,004 patients (499 in the apixaban group) with low body weight (≤60 kg), 1,495 patients (743 in the apixaban group) with BMI ≥33 kg/m2, and 415 patients (203 in the apixaban group) with moderate renal impairment.
 
 The ADVANCE-3 study included 5,407 patients undergoing elective hip replacement, and the ADVANCE-2 study included 3,057 patients undergoing elective knee replacement.
 Subjects received either apixaban 2.5 mg given orally twice daily (po bid) or enoxaparin 40 mg administered subcutaneously once daily (sc od).
@@ -105,10 +105,10 @@ A total of 23,799 patients were randomised in the clinical program (ARISTOTLE: a
 The program was designed to demonstrate the efficacy and safety of apixaban for the prevention of stroke and systemic embolism in patients with nonvalvular atrial fibrillation (NVAF) and one or more additional risk factors, such as:
 
 - prior stroke or transient ischaemic attack (TIA)
-- age ≥ 75 years
+- age ≥75 years
 - hypertension
 - diabetes mellitus
-- symptomatic heart failure (NYHA Class ≥ II)
+- symptomatic heart failure (NYHA Class ≥II)
 
 ARISTOTLE STUDY
 In the ARISTOTLE study a total of 18,201 patients were randomized to double-blind treatment with apixaban 5 mg twice daily (or 2.5 mg twice daily in selected patients [4.7%], see section 4.2) or warfarin (target INR range 2.0-3.0), patients were exposed to study drug for a mean of 20 months.
@@ -209,7 +209,7 @@ Both studies were randomized, parallel-group, double-blind, multinational trials
 All the key safety and efficacy endpoints were adjudicated by an independent blinded committee.
 
 AMPLIFY STUDY
-In the AMPLIFY study a total of 5,395 patients were randomized to treatment with apixaban 10 mg twice daily orally for 7 days followed by apixaban 5 mg twice daily orally for 6 months, or enoxaparin 1 mg/kg twice daily subcutaneously for at least 5 days (until INR≥ 2) and warfarin (target INR range 2.0-3.0) orally for 6 months.
+In the AMPLIFY study a total of 5,395 patients were randomized to treatment with apixaban 10 mg twice daily orally for 7 days followed by apixaban 5 mg twice daily orally for 6 months, or enoxaparin 1 mg/kg twice daily subcutaneously for at least 5 days (until INR≥2) and warfarin (target INR range 2.0-3.0) orally for 6 months.
 
 The mean age was 56.9 years and 89.8% of randomised patients had unprovoked VTE events.
 
