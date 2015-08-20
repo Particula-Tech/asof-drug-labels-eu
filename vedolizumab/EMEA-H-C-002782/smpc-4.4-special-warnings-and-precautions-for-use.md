@@ -1,5 +1,7 @@
 # 4.4 Special warnings and precautions for use
 
+Vedolizumab should be administered in a healthcare setting equipped to allow management of acute hypersensitivity reactions including anaphylaxis, if they occur.
+Appropriate monitoring and medical support measures should be available for immediate use when administering vedolizumab.
 All patients should be observed continuously during each infusion.
 For the first two infusions, they should also be observed for approximately two hours following completion of the infusion for signs and symptoms of acute hypersensitivity reactions.
 For all subsequent infusions, patients should be observed for approximately one hour following completion of the infusion.

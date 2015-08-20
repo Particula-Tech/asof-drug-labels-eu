@@ -3,7 +3,7 @@
 Summary of safety profile
 
 Vedolizumab has been studied in three placebo-controlled clinical trials in patients with ulcerative colitis (GEMINI I) or Crohn’s disease (GEMINI II and III).
-In two controlled studies (GEMINI I and II) involving 1,434 patients receiving vedolizumab 300 mg at Week 0, Week 2 and then every eight weeks or every four weeks for up to 52 weeks, and 297 patients receiving placebo for up to 52 weeks, adverse events were reported in 84% of vedolizumab-treated patients and 78% of placebo-treated patients.
+In two controlled studies (GEMINI I and II) involving 1,434 patients receiving vedolizumab 300 mg at Week 0, Week 2 and then every eight weeks or every four weeks from Week 6 for up to 52 weeks, and 297 patients receiving placebo for up to 52 weeks, adverse events were reported in 84% of vedolizumab-treated patients and 78% of placebo-treated patients.
 Over 52 weeks, 19% of vedolizumab-treated patients experienced serious adverse events compared to 13% of placebo-treated patients.
 Similar rates of adverse events were seen in the every eight week and every four week dosing groups in the Phase 3 clinical trials.
 The proportion of patients who discontinued treatment due to adverse events was 9% for vedolizumab-treated patients and 10% for placebo-treated patients.
@@ -23,9 +23,11 @@ The following listing of adverse reactions is based on the clinical trial experi
 Within the system organ classes, adverse reactions are listed under headings of the following frequency categories: very common (≥1/10), common (≥1/100 to <1/10) and uncommon (≥1/1,000 to <1/100).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-| Table 1. Adverse Reactions |  |  |
-| --- | --- | --- |
+Table 1.
+Adverse Reactions
+
 | System Organ Class | Frequency | Adverse Reaction(s) |
+| --- | --- | --- |
 | Infection and infestation | Very Common | Nasopharyngitis |
 |  | Common | Bronchitis, Gastroenteritis, Upper respiratory tract infection, Influenza, Sinusitis, Pharyngitis |
 |  | Uncommon | Respiratory tract infection, Vulvovaginal candidiasis, Oral Candidiasis |
@@ -37,7 +39,7 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | Skin and subcutaneous tissue disorders | Common | Rash, Pruritus, Eczema, Erythema, Night sweats, Acne |
 |  | Uncommon | Folliculitis |
 | Musculoskeletal and connective tissue disorders | Very Common | Arthralgia |
-|  | Common | Muscle spasms, Back pain, Muscular weakness, Fatigue |
+|  | Common | Muscle spasms, Back pain, Muscular weakness, Fatigue, Pain in the extremity |
 | General disorders and administration site conditions | Common | Pyrexia |
 |  | Uncommon | Infusion site reaction (including: Infusion site pain and Infusion site irritation), Infusion related reaction Chills, Feeling cold |
 

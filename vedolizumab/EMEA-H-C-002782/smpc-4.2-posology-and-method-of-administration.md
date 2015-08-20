@@ -1,6 +1,6 @@
 # 4.2 Posology and method of administration
 
-Entyvio treatment should be initiated and supervised by specialist healthcare professionals experienced in the diagnosis and treatment of ulcerative colitis or Crohn’s disease.
+Entyvio treatment should be initiated and supervised by specialist healthcare professionals experienced in the diagnosis and treatment of ulcerative colitis or Crohn’s disease (see section 4.4).
 Patients should be given the package leaflet and the Patient Alert Card.
 
 Posology
