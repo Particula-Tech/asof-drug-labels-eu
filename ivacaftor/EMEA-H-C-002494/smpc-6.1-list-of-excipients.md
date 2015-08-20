@@ -16,6 +16,7 @@ Macrogol
 Talc
 Indigo carmine aluminum lake (E132)
 Carnauba wax
+
 Printing ink
 Shellac
 Iron oxide black (E172)

@@ -2,7 +2,7 @@
 
 Only patients with CF who had a G551D, G1244E, G1349D, G178R, G551S, G970R, S1251N, S1255P, S549N, or S549R gating (Class III) mutation in at least one allele of the CFTR gene were included in studies 1, 2, and 5 (see section 5.1).
 Only limited data are available in patients carrying the G551D-CFTR mutation with percent predicted FEV1 (forced expiratory volume exhaled in the first second) of less than 40% (12 patients).
-Patients with a percent predicted FEV1 below 40% were not included in the study of patients with CF with non-G551D gating mutations, Study 5 (see section 5.1).
+Patients with a percent predicted FEV1 below 40% were not included in the study of patients with CF with non-G551D gating mutations, study 5 (see section 5.1).
 
 In study 5, four patients with the G970R mutation were included.
 In three of four patients the improvement in the sweat chloride test was <5 mmol/L and this group did not demonstrate a clinically relevant improvement in FEV1 after 8 weeks of treatment.
