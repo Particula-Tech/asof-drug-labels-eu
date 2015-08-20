@@ -12,10 +12,11 @@ Additional safety analyses (including long-term data) from data across the entir
 Tabulated list of adverse reactions
 
 Adverse reactions in table 1 are based on the pooled analysis of the four 26-week placebo-controlled studies (n=2,313) described above.
+Adverse reactions reported from world-wide postmarketing use of canagliflozin are also included in this tabulation.
 Adverse reactions listed below are classified according to frequency and system organ class (SOC).
 Frequency categories are defined according to the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), not known (cannot be estimated from the available data).
 
-Table 1: Frequency of adverse reactions (MedDRA) in placebo-controlled studiesa
+Table 1: Tabulated list of adverse reactions (MedDRA) from placebo-controlled studiesa and from postmarketing experience
 
 | System organ class Frequency | Adverse reaction |
 | --- | --- |
@@ -30,27 +31,27 @@ Table 1: Frequency of adverse reactions (MedDRA) in placebo-controlled studiesa
 | common | Constipation, Thirstb, Nausea |
 | Skin and subcutaneous tissue disorders |  |
 | uncommon | Rashc, Urticaria |
+| not known | Angioedemad |
 | Musculoskeletal and connective tissue disorders |  |
-| uncommon | Bone fractured |
+| uncommon | Bone fracturee |
 | Renal and urinary disorders |  |
-| common | Polyuria or Pollakiuriae, Urinary tract infectionf |
+| common | Polyuria or Pollakiuriaf, Urinary tract infection (pyelonephritis and urosepsis have been reported postmarketing) |
 | Reproductive system and breast disorders |  |
 | very common | Vulvovaginal candidiasis**, g |
 | common | Balanitis or balanoposthitis**, h |
 | Investigations |  |
 | common | Dyslipidemiai, Haematocrit increased**, j |
-| uncommon | Blood creatinine increased**, k, Blood urea increased **, l, Blood potassium increased**, m, Blood phosphate increasedn |
+| uncommon | Blood creatinine increased**, k, Blood urea increased**, l, Blood potassium increased**, m, Blood phosphate increasedn |
 
 * Related to volume depletion; see section 4.4.
 ** See section 4.4.
 a Safety data profiles from individual pivotal studies (including studies in moderately renally impaired patients; older patients [≥55 years of age to ≤80 years of age]; patients with increased CV-risk) were generally consistent with the adverse reactions identified in this table.
 b Thirst includes the terms thirst, dry mouth, and polydipsia.
 c Rash includes the terms rash erythematous, rash generalised, rash macular, rash maculopapular, rash papular, rash pruritic, rash pustular, and rash vesicular.
-d Bone fracture was reported in 0.7% and 0.6% for canagliflozin 100 mg and 300 mg, respectively, compared to 0.3% for placebo.
+d Based on postmarketing experience with canagliflozin.
+e Bone fracture was reported in 0.7% and 0.6% for canagliflozin 100 mg and 300 mg, respectively, compared to 0.3% for placebo.
 See bone fracture section below for additional information.
-e Polyuria or pollakiuria includes the terms polyuria, pollakiuria, micturition urgency, nocturia, and urine output increased. f Urinary tract infection includes the terms urinary tract infection, cystitis, kidney infection, and urosepsis.
-There was no imbalance among canagliflozin 100 mg, canagliflozin 300 mg, and placebo for kidney infection or urosepsis.
-g Vulvovaginal candidiasis includes the terms vulvovaginal candidiasis, vulvovaginal mycotic infection, vulvovaginitis, vaginal infection, vulvitis, and genital infection fungal.
+f Polyuria or pollakiuria includes the terms polyuria, pollakiuria, micturition urgency, nocturia, and urine output increased. g Vulvovaginal candidiasis includes the terms vulvovaginal candidiasis, vulvovaginal mycotic infection, vulvovaginitis, vaginal infection, vulvitis, and genital infection fungal.
 h Balanitis or balanoposthitis includes the terms balanitis, balanoposthitis, balanitis candida, and genital infection fungal.
 i Mean percent increases from baseline for canagliflozin 100 mg and 300 mg versus placebo, respectively, were total cholesterol 3.4% and 5.2% versus 0.9%; HDL-cholesterol 9.4% and 10.3% versus 4.0%; LDL-cholesterol 5.7% and 9.3% versus 1.3%; non-HDL-cholesterol 2.2% and 4.4% versus 0.7%; triglycerides 2.4% and 0.0% versus 7.6%.
 j Mean changes from baseline in haematocrit were 2.4% and 2.5% for canagliflozin 100 mg and 300 mg, respectively, compared to 0.0% for placebo.
@@ -75,6 +76,7 @@ For patients with a baseline eGFR 30 mL/min/1.73 m2 to < 60 mL/min/1.73 m2, the 
 In patients ≥75 years of age, the incidences were 4.9% on canagliflozin 100 mg and 8.7% on canagliflozin 300 mg compared to 2.6% in the control group (see sections 4.2 and 4.4).
 
 In the dedicated cardiovascular study and the larger pooled analysis, discontinuations due to adverse reactions related to volume depletion and serious adverse reactions related to volume depletion were not increased with canagliflozin.
+
 Hypoglycaemia in add-on therapy with insulin or insulin secretagogues
 The frequency of hypoglycaemia was low (approximately 4%) among treatment groups, including placebo, when used as monotherapy or as an add-on to metformin.
 When canagliflozin was added to insulin therapy, hypoglycaemia was observed in 49.3%, 48.2%, and 36.8% of patients treated with canagliflozin 100 mg, canagliflozin 300 mg, and placebo, respectively, and severe hypoglycaemia occurred in 1.8%, 2.7%, and 2.5% of patients treated with canagliflozin 100 mg, canagliflozin 300 mg, and placebo, respectively.
@@ -95,7 +97,6 @@ Urinary tract infections
 Urinary tract infections were more frequently reported for canagliflozin 100 mg and 300 mg (5.9% versus 4.3%, respectively) compared to 4.0% with placebo.
 Most infections were mild to moderate with no increase in the occurrence of serious adverse reactions.
 Subjects responded to standard treatments while continuing canagliflozin treatment.
-The incidence of recurrent infections was not increased with canagliflozin.
 
 Bone fracture
 In a cardiovascular study of 4,327 patients with known or at high risk for cardiovascular disease, the incidence rates of bone fracture were 1.6, 1.6, and 1.1 per 100 patient years of exposure to canagliflozin 100 mg, canagliflozin 300 mg, and placebo, respectively, with the fracture imbalance initially occurring within the first 26 weeks of therapy.
@@ -111,9 +112,9 @@ Decreases in eGFR (-3.6% and -5.2%) were reported with canagliflozin 100 mg and 
 
 Patients with renal impairment (eGFR < 60 mL/min/1.73 m2 or CrCl < 60 mL/min)
 Patients with a baseline eGFR < 60 mL/min/1.73 m2 or CrCl < 60 mL/min had a higher incidence of adverse reactions associated with volume depletion (e.g., postural dizziness, orthostatic hypotension, hypotension) with incidences of 4.7%, 8.1%, and 1.5% on canagliflozin 100 mg, canagliflozin 300 mg, and placebo, respectively (see sections 4.2 and 4.4).
+
 The overall incidence of elevated serum potassium was higher in patients with moderate renal impairment with incidences of 7.5%, 12.3%, and 8.1% on canagliflozin 100 mg, canagliflozin 300 mg, and placebo, respectively.
 In general, elevations were transient and did not require specific treatment.
-
 Increases in serum creatinine of 10-11% and BUN of approximately 12% were observed with both doses of canagliflozin.
 The proportion of patients with larger decreases in eGFR (> 30%) at any time during treatment was 9.3%, 12.2%, and 4.9% with canagliflozin 100 mg, canagliflozin 300 mg, and placebo, respectively.
 At study endpoint, 3.0% of patients treated with canagliflozin 100 mg, 4.0% with canagliflozin 300 mg, and 3.3% with placebo had such decreases (see section 4.4).

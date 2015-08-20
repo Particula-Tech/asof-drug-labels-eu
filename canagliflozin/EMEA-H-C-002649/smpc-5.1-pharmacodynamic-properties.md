@@ -17,7 +17,6 @@ Improvement in homeostasis model assessment for beta-cell function (HOMA beta-ce
 In phase 3 studies, pre-meal administration of canagliflozin 300 mg provided a greater reduction in postprandial glucose excursion than observed with the 100 mg dose.
 This effect at the 300 mg dose of canagliflozin may, in part, be due to local inhibition of intestinal SGLT1 (an important intestinal glucose transporter) related to transient high concentrations of canagliflozin in the intestinal lumen prior to medicinal product absorption (canagliflozin is a low potency inhibitor of the SGLT1 transporter).
 Studies have shown no glucose malabsorption with canagliflozin.
-
 Pharmacodynamic effects
 
 Following single and multiple oral doses of canagliflozin to patients with type 2 diabetes, dose-dependent decreases in RTG and increases in UGE were observed.
@@ -101,7 +100,6 @@ a Intent-to-treat population using last observation in study prior to glycaemic 
 b p<0.001 compared to placebo.
 c Not applicable.
 d Canagliflozin as add-on therapy to insulin (with or without other glucose-lowering medicinal products).
-
 In addition to the studies presented above, glycaemic efficacy results observed in an 18-week dual therapy sub-study with a sulphonylurea and a 26-week triple therapy study with metformin and pioglitazone were generally comparable with those observed in other studies.
 
 Active-controlled studies
@@ -137,15 +135,12 @@ Table 3: Efficacy results from active-controlled clinical studiesa
 | Body weight |  |  |  |
 | Baseline (mean) in kg | 87.6 |  | 89.6 |
 | % change from baseline (adjusted mean) | -2.5 |  | 0.3 |
-
-Difference from sitagliptin (adjusted -2.8d N/Ac
-mean) (95% CI) (-3.3; -2.2)
+| Difference from sitagliptin (adjusted mean) (95% CI) | -2.8d (-3.3; -2.2) |  | N/Ac |
 
 a Intent-to-treat population using last observation in study prior to glycaemic rescue therapy.
 b p<0.05.
 c Not applicable.
 d p<0.001.
-
 Special populations
 In three studies conducted in special populations (older patients, patients with an eGFR of 30 mL/min/1.73 m2 to < 50 mL/min/1.73 m2 and patients with or at high risk for cardiovascular disease), canagliflozin was added to patients’ current stable diabetes treatments (diet, monotherapy, or combination therapy).
 
