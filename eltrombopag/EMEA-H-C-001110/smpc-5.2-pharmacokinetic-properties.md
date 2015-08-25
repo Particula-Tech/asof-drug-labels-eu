@@ -3,9 +3,9 @@
 Pharmacokinetics
 
 The plasma eltrombopag concentration-time data collected in 88 patients with ITP in Studies TRA100773A and TRA100773B were combined with data from 111 healthy adult subjects in a population PK analysis.
-Plasma eltrombopag AUC(0-τ) and Cmax estimates for ITP patients are presented (Table 6).
+Plasma eltrombopag AUC(0-τ) and Cmax estimates for ITP patients are presented (Table 7).
 
-Table 6: Geometric mean (95 % confidence intervals) of steady-state plasma eltrombopag pharmacokinetic parameters in adults with ITP
+Table 7: Geometric mean (95 % confidence intervals) of steady-state plasma eltrombopag pharmacokinetic parameters in adults with ITP
 
 | Eltrombopag dose, once daily | N | AUC(0-τ)a, μg.h/ml | Cmaxa , μg/ml |
 | --- | --- | --- | --- |
@@ -16,9 +16,9 @@ Table 6: Geometric mean (95 % confidence intervals) of steady-state plasma eltro
 a - AUC(0-τ) and Cmax based on population PK post-hoc estimates.
 
 Plasma eltrombopag concentration-time data collected in 590 subjects with HCV enrolled in Phase III studies TPL103922/ENABLE 1 and TPL108390/ENABLE 2 were combined with data from patients with HCV enrolled in the Phase II study TPL102357 and healthy adult subjects in a population PK analysis.
-Plasma eltrombopag Cmax AUC(0-τ) estimates for patients with HCV enrolled in the Phase 3 studies are presented for each dose studied in Table 7.
+Plasma eltrombopag Cmax AUC(0-τ) estimates for patients with HCV enrolled in the Phase 3 studies are presented for each dose studied in Table 8.
 
-Table 7 Geometric mean (95 % CI) steady-state plasma eltrombopag pharmacokinetic parameters in patients with chronic HCV
+Table 8 Geometric mean (95 % CI) steady-state plasma eltrombopag pharmacokinetic parameters in patients with chronic HCV
 
 | Eltrombopag dose (once daily) | N | AUC(0-τ) (μg.h/ml) | Cmax (μg/ml) |
 | --- | --- | --- | --- |
@@ -36,7 +36,6 @@ Eltrombopag is absorbed with a peak concentration occurring 2 to 6 hours after o
 Administration of eltrombopag concomitantly with antacids and other products containing polyvalent cations such as dairy products and mineral supplements significantly reduces eltrombopag exposure (see section 4.2).
 The absolute oral bioavailability of eltrombopag after administration to humans has not been established.
 Based on urinary excretion and metabolites eliminated in faeces, the oral absorption of drug-related material following administration of a single 75 mg eltrombopag solution dose was estimated to be at least 52 %.
-
 Distribution
 
 Eltrombopag is highly bound to human plasma proteins (> 99.9 %), predominantly to albumin.
@@ -81,7 +80,7 @@ Special patient populations
 Renal impairment
 
 The pharmacokinetics of eltrombopag has been studied after administration of eltrombopag to adult subjects with renal impairment.
-Following administration of a single 50 mg-dose, the AUC0-∞of eltrombopag was 32 % to 36 % lower in subjects with mild to moderate renal impairment, and 60 % lower in subjects with severe renal impairment compared with healthy volunteers.
+Following administration of a single 50 mg-dose, the AUC0-∞ of eltrombopag was 32 % to 36 % lower in subjects with mild to moderate renal impairment, and 60 % lower in subjects with severe renal impairment compared with healthy volunteers.
 There was substantial variability and significant overlap in exposures between patients with renal impairment and healthy volunteers.
 Unbound eltrombopag (active) concentrations for this highly protein bound medicinal product were not measured.
 Patients with impaired renal function should use eltrombopag with caution and close monitoring, for example by testing serum creatinine and/or urine analysis (see section 4.2).
@@ -90,7 +89,7 @@ The efficacy and safety of eltrombopag has not been established in subjects with
 Hepatic impairment
 
 The pharmacokinetics of eltrombopag has been studied after administration of eltrombopag to adult subjects with hepatic impairment.
-Following the administration of a single 50 mg dose, the AUC0-∞of eltrombopag was 41 % higher in subjects with mild hepatic impairment and 80 % to 93 % higher in subjects with moderate to severe hepatic impairment compared with healthy volunteers.
+Following the administration of a single 50 mg dose, the AUC0-∞ of eltrombopag was 41 % higher in subjects with mild hepatic impairment and 80 % to 93 % higher in subjects with moderate to severe hepatic impairment compared with healthy volunteers.
 There was substantial variability and significant overlap in exposures between patients with hepatic impairment and healthy volunteers.
 Unbound eltrombopag (active) concentrations for this highly protein bound medicinal product were not measured.
 
@@ -98,7 +97,7 @@ The influence of hepatic impairment on the pharmacokinetics of eltrombopag follo
 Of the 714 patients, 642 were with mild hepatic impairment, 67 with moderate hepatic impairment, and 2 with severe hepatic impairment.
 Compared to healthy volunteers, patients with mild hepatic impairment had approximately 111 % (95 % CI: 45 % to 283 %) higher plasma eltrombopag AUC(0-τ) values and patients with moderate hepatic impairment had approximately 183 % (95 % CI: 90 % to 459 %) higher plasma eltrombopag AUC(0-τ) values.
 
-Therefore, eltrombopag should not be used in ITP patients with hepatic impairment (Child-Pugh score ≥5) unless the expected benefit outweighs the identified risk of portal venous thrombosis (see sections 4.2 and 4.4).
+Therefore, eltrombopag should not be used in ITP patients with hepatic impairment (Child-Pugh score ≥ 5) unless the expected benefit outweighs the identified risk of portal venous thrombosis (see sections 4.2 and 4.4).
 For patients with HCV initiate eltrombopag at a dose of 25 mg once daily (see section 4.2).
 
 Race
@@ -119,5 +118,5 @@ Based on model estimate, female HCV patient had approximately 41 % higher plasma
 Age
 
 The influence of age on eltrombopag pharmacokinetics was evaluated using population pharmacokinetics analysis in 28 healthy subjects, 673 patients with HCV, and 41 patients with chronic liver disease of other aetiology ranging from 19 to 74 years old.
-There are no PK data on the use of eltrombopag in patients ≥75 years.
-Based on model estimate, elderly (≥65 years) patients had approximately 41 % higher plasma eltrombopag AUC(0-τ) as compared to younger patients (see section 4.2).
+There are no PK data on the use of eltrombopag in patients ≥ 75 years.
+Based on model estimate, elderly (≥ 65 years) patients had approximately 41 % higher plasma eltrombopag AUC(0-τ) as compared to younger patients (see section 4.2).

@@ -4,3 +4,5 @@ Revolade is indicated for adult chronic immune (idiopathic) thrombocytopenic pur
 Revolade may be considered as second line treatment for adult non-splenectomised patients where surgery is contraindicated.
 
 Revolade is indicated in adult patients with chronic hepatitis C virus (HCV) infection for the treatment of thrombocytopenia, where the degree of thrombocytopenia is the main factor preventing the initiation or limiting the ability to maintain optimal interferon-based therapy (see sections 4.4 and 5.1).
+
+Revolade is indicated in adult patients with acquired severe aplastic anaemia (SAA) who were either refractory to prior immunosuppressive therapy or heavily pretreated and are unsuitable for haematopoietic stem cell transplantation (see section 5.1).

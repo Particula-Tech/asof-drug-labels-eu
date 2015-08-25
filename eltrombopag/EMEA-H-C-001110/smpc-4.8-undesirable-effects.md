@@ -1,25 +1,29 @@
 # 4.8 Undesirable effects
 
 Summary of safety profile
+
 Based on an analysis of all chronic ITP patients receiving eltrombopag in 3 controlled and 2 uncontrolled clinical studies, the overall incidence of adverse reactions in subjects treated with eltrombopag was 82 % (367/446).
 The median duration of exposure to eltrombopag was 304 days and patient year’s exposure was 377 in this study population.
 
-ENABLE 1 (TPL103922 N=716) and ENABLE 2 (TPL108390 N=805) were randomized, double-blind, placebo-controlled, multicentre studies to assess the efficacy and safety of eltrombopag in thrombocytopenic subjects with HCV infection who were otherwise eligible to initiate antiviral therapy with interferon and ribavirin therapy(see section 5.1).
+ENABLE 1 (TPL103922 N=716) and ENABLE 2 (TPL108390 N=805) were randomized, double-blind, placebo-controlled, multicentre studies to assess the efficacy and safety of eltrombopag in thrombocytopenic subjects with HCV infection who were otherwise eligible to initiate antiviral therapy with interferon and ribavirin therapy.
 
 In the HCV studies the safety population consisted of all randomized subjects who received double-blind study drug during Part 2 of ENABLE 1 (eltrombopag treatment N=449, placebo N=232) and ENABLE 2 (eltrombopag treatment N=506, placebo N=252).
 Subjects are analysed according to the treatment received (total safety double blind population, eltrombopag N=955 and placebo N=484).
+The safety of eltrombopag in severe aplastic anaemia was assessed in a single-arm, open-label trial (N=43) in which 12 patients (28 %) were treated for > 6 months and 9 patients (21 %) were treated for > 1 year.
 
 The most important serious adverse reactions identified in the ITP or HCV trials were hepatotoxicity and thrombotic/thromboembolic events.
 
 The most common adverse reactions (experienced by at least 10 % of patients) of any grade in the ITP or HCV trials included; headache, anaemia, decreased appetite, insomnia, cough, nausea, diarrhoea, alopecia, pruritus, myalgia, pyrexia, fatigue, influenza like illness, asthenia, chills and peripheral oedema.
 
 List of adverse reactions
-The adverse reactions in the ITP studies (N = 446) and in the HCV studies (N = 955) are listed below by MedDRA system organ class and by frequency.
 
-Very common (≥1/10)
-Common (≥1/100 to < 1/10)
-Uncommon (≥1/1,000 to < 1/100)
-Rare (≥1/10,000 to < 1/1,000)
+The adverse reactions in the ITP studies (N = 446), the HCV studies (N = 955), the SAA studies
+(N = 43) and post-marketing reports are listed below by MedDRA system organ class and by frequency.
+
+Very common (≥ 1/10)
+Common (≥ 1/100 to < 1/10)
+Uncommon (≥ 1/1,000 to < 1/100)
+Rare (≥ 1/10,000 to < 1/1,000)
 Very rare (< 1/10,000)
 Not known (cannot be estimated from the available data)
 
@@ -50,7 +54,6 @@ Metabolism and nutrition disorders
 Uncommon Anorexia, Hypokalaemia, Decreased appetite, Gout, Hypocalcaemia, Blood
 
 uric acid increased
-
 Psychiatric disorders
 
 Uncommon Sleep disorder, Depression, Apathy, Mood altered, Tearfulness
@@ -107,7 +110,6 @@ increased*, Hyperbilirubinaemia, Hepatic function abnormal
 Uncommon Cholestasis, Hepatic lesion, Hepatitis
 
 *Increase of alanine aminotransferase and aspartate aminotransferase may occur simultaneously, although at a lower frequency.
-
 Skin and subcutaneous tissue disorders
 
 Common Rash, Alopecia
@@ -214,7 +216,6 @@ Very common Pruritus, Alopecia
 Common Rash, Dry skin, Eczema, Rash pruritic, Erythema, Hyperhidrosis, Pruritus
 
 generalised, Night sweats, Skin lesion
-
 Musculoskeletal and connective tissue disorder
 
 Very common Myalgia
@@ -239,6 +240,72 @@ Common Blood bilirubin increased, Weight decreased, White blood cell count
 
 decreased, Haemoglobin decreased, Neutrophil count decreased, International normalised ratio increased, Activated partial thromboplastin time prolonged, Blood glucose increased, Blood albumin decreased, Electrocardiogram QT prolonged
 
+SAA study population
+
+Blood and lymphatic system disorders
+
+Common Neutropenia, Splenic infarction
+
+Metabolism and nutrition disorders
+
+Common Iron overload, Decreased appetite, Hypoglycaemia, Increased appetite
+
+Psychiatric disorders
+
+Very common Insomnia
+Common Anxiety, Depression
+
+Nervous systems disorders
+
+Very common Headache, Dizziness
+Common Syncope
+
+Eye disorders
+
+Common Dry eye, Eye pruritus, Cataract, Ocular icterus, Vision blurred, Visual
+
+impairment, Vitreous floaters
+
+Respiratory, thoracic and mediastinal disorders
+
+Very common Cough. Dyspnoea, Oropharyngeal Pain, Rhinorrhoea
+Common Epistaxis
+
+Gastrointestinal disorders
+
+Very common Abdominal pain, Diarrhoea, Nausea
+Common Gingival bleeding, Oral mucosal blistering, Oral pain, Vomiting, Abdominal
+
+discomfort, Abdominal pain, Constipation, Abdominal distension, Dysphagia, Faeces discoloured, Swollen tongue, Gastrointestinal motility disorder, Flatulence
+
+Hepatobiliary disorders
+
+Very common Transaminases increased
+Common Blood bilirubin increased (hyperbilirubinemia), Jaundice
+
+Skin and subcutaneous tissue disorders
+
+Very common Ecchymosis
+Common Petechiae, Rash, Pruritus, Urticaria, Skin lesion, Rash Macular
+
+Musculosketal and connective tissue disorders
+
+Very common Arthralgia, Muscle spasms, Pain in extremity
+Common Back pain, Myalgia, Bone pain
+
+Renal and urinary disorders
+
+Common Chromaturia
+
+General disorders and administration site conditions
+
+Very common Fatigue, Febrile neutropenia, Pyrexia
+Common Asthenia, Oedema peripheral, Chills, Malaise
+
+Investigations
+
+Common Blood creatine phosphokinase increased
+
 Description of selected adverse reactions
 
 Thrombotic/Thromboembolic events (TEEs)
@@ -247,19 +314,18 @@ In 3 controlled and 2 uncontrolled clinical studies, among adult chronic ITP pat
 
 In a placebo-controlled study (n = 288, Safety population), following 2 weeks treatment in preparation for invasive procedures, 6 of 143 (4 %) adult patients with chronic liver disease receiving eltrombopag experienced 7 TEEs of the portal venous system and 2 of 145 (1 %) subjects in the placebo group experienced 3 TEEs.
 Five of the 6 patients treated with eltrombopag experienced the TEE at a platelet count > 200,000/µl
-
-No specific risk factors were identified in those subjects who experienced a TEE with the exception of platelet counts ≥200,000/µl (see section 4.4).
+No specific risk factors were identified in those subjects who experienced a TEE with the exception of platelet counts ≥ 200,000/µl (see section 4.4).
 
 In controlled studies in thrombocytopenic patients with HCV (n = 1439), 38 out of 955 subjects (4 %) treated with eltrombopag experienced a TEE and 6 out of 484 subjects (1 %) in the placebo group experienced TEEs.
 Portal vein thrombosis was the most common TEE in both treatment groups (2 % in patients treated with eltrombopag versus < 1 % for placebo) (see section 4.4).
-Patients with low albumin levels (≤35 g/L) or MELD ≥10 had a twofold greater risk of TEEs than those with higher albumin levels; those aged ≥60 years had a 2-fold greater risk of TEEs compared to younger patients.
+Patients with low albumin levels (≤ 35 g/L) or MELD ≥ 10 had a twofold greater risk of TEEs than those with higher albumin levels; those aged ≥ 60 years had a 2-fold greater risk of TEEs compared to younger patients.
 
 Hepatic decompensation (use with interferon)
 
 Chronic HCV patients with cirrhosis may be at risk of hepatic decompensation when receiving alfa interferon therapy.
 In 2 controlled clinical studies in thrombocytopenic patients with HCV, hepatic decompensation (ascites, hepatic encephalopathy, variceal haemorrhage, spontaneous bacterial peritonitis) was reported more frequently in the eltrombopag arm (11 %) than in the placebo arm
 (6 %).
-In patients with low albumin levels (≤35 g/L) or Model for End-Stage Liver Disease (MELD) score ≥10 at baseline, there was a three-fold greater risk of hepatic decompensation and an increase in the risk of a fatal adverse event compared to those with less advanced liver disease.
+In patients with low albumin levels (≤ 35 g/L) or Model for End-Stage Liver Disease (MELD) score ≥ 10 at baseline, there was a three-fold greater risk of hepatic decompensation and an increase in the risk of a fatal adverse event compared to those with less advanced liver disease.
 Eltrombopag should only be administered to such patients after careful consideration of the expected benefits in comparison with the risks.
 Patients with these characteristics should be closely monitored for signs and symptoms of hepatic decompensation (see section 4.4).
 
@@ -272,13 +338,21 @@ Increased bone marrow reticulin
 Across the programme, no patients had evidence of clinically relevant bone marrow abnormalities or clinical findings that would indicate bone marrow dysfunction.
 In one ITP patient, eltrombopag treatment was discontinued due to bone marrow reticulin (see section 4.4).
 
+Cytogenetic abnormalities
+
+In the single-arm, open-label trial in SAA, patients had bone marrow aspirates evaluated for cytogenetic abnormalities.
+Eight (19%) patients had a new cytogenetic abnormality reported, including 5 patients who had changes in chromosome 7.
+In the two ongoing studies (ELT116826 and ELT116643), cytogenetic abnormalities have been detected in 4/28 (14%) and 4/62 (6%) subjects in each study.
+
+Haematologic malignancies
+
+In the single-arm, open label trial in SAA, three (7%) patients were diagnosed with MDS following treatment with eltrombopag, in the two ongoing studies (ELT116826 and ELT116643), 1/28 (4%) and 1/62 (2%) subject has been diagnosed with MDS or AML in each study.
+
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system
-
-listed in Appendix V.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 [Revolade 50 mg film-coated tablets]
 
