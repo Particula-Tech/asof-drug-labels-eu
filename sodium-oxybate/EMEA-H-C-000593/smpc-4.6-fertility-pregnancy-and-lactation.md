@@ -2,7 +2,6 @@
 
 Pregnancy
 Animal studies have shown no evidence of teratogenicity but embryolethality was seen in both rat and rabbit studies (see section 5.3).
-
 Data from a limited number of pregnant women exposed in the first trimester indicate a possible increased risk of spontaneous abortions.
 To date no other relevant epidemiological data are available.
 Limited data from pregnant patients during second and third trimester indicate no malformative or foeto/neonatal toxicity of sodium oxybate.
@@ -15,4 +14,4 @@ Breastfeeding is not recommended during treatment with sodium oxybate.
 
 Fertility
 There is no clinical data available on the effect of sodium oxybate on fertility.
-No effect on fertility parameters in the rat was observed (see section 5.3).
+Studies in male and female rats at doses up to 1,000 mg/kg/day GHB have shown no evidence of an adverse effect on fertility.

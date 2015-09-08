@@ -5,6 +5,7 @@ Most data derives from the illicit use of GHB.
 Sodium oxybate is the sodium salt of GHB.
 Events associated with withdrawal syndrome have been observed outside the therapeutic range.
 
+Symptoms
 Patients have exhibited varying degrees of depressed consciousness that may fluctuate rapidly between a confusional, agitated combative state with ataxia and coma.
 Emesis (even with impaired consciousness), diaphoresis, headache, and impaired psychomotor skills may be observed.
 Blurred vision has been reported.
@@ -14,6 +15,8 @@ There are reports of compromise in the rate and depth of respiration and of life
 Cheyne-Stokes respiration and apnoea have been observed.
 Bradycardia and hypothermia may accompany unconsciousness, as well as muscular hypotonia, but tendon reflexes remain intact.
 Bradycardia has been responsive to atropine intravenous administration.
+
+Management
 Gastric lavage may be considered if co-ingestants are suspected.
 Because emesis may occur in the presence of impaired consciousness, appropriate posture (left lateral recumbent position) and protection of the airway by intubation may be warranted.
 Although gag reflex may be absent in deeply comatose patients, even unconscious patients may become combative to intubation, and rapid sequence induction (without the use of sedative) should be considered.

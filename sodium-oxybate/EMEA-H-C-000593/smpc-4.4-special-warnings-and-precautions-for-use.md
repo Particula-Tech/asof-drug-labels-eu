@@ -9,6 +9,7 @@ Patients should be questioned regarding signs of Central Nervous System (CNS) or
 Special caution should be observed in patients with an underlying respiratory disorder.
 Because of the higher risk of sleep apnoea, patients with a BMI
 ≥40 kg/m2 should be monitored closely when taking sodium oxybate.
+
 Approximately 80% of patients who received sodium oxybate during clinical trials maintained CNS stimulant use.
 Whether this affected respiration during the night is unknown.
 Before increasing the sodium oxybate dose (see section 4.2), prescribers should be aware that sleep apnoea occurs in up to 50% of patients with narcolepsy.
@@ -22,14 +23,19 @@ Given the possibility of increasing the risk of respiratory depression, the conc
 The combined use of alcohol, or any CNS -depressant medicinal product, with sodium oxybate may result in potentiation of the CNS-depressant effects of sodium oxybate as well as increased risk of respiratory depression.
 Therefore, patients should be warned against the use of alcohol in conjunction with sodium oxybate.
 
-- GHB dehydrogenase inhibitors
+- Gamma hydroxybutyrate (GHB) dehydrogenase inhibitors
 
 Caution is required in patients who are treated concomitantly with valproate or other GHB dehydrogenase inhibitors as pharmacokinetic and pharmacodynamic interactions have been observed when sodium oxybate is co-administered with valproate (see section 4.5).
 If concomitant use is warranted, dose adjustment is to be considered (see section 4.2).
 Additionally, patient response and tolerability should be carefully monitored and dose should be adapted accordingly.
 
+- Topiramate
+
+There have been clinical observation(s) of coma and increased plasma GHB concentration after co-administration of sodium oxybate with topiramate.
+Therefore, patients should be warned against the use of topiramate in conjunction with sodium oxybate (section 4.5).
+
 Abuse potential and dependence
-Sodium oxybate, which is as the sodium salt of GHB, is a CNS depressant active substance with well known abuse potential.
+Sodium oxybate, which is as the sodium salt of GHB, is a CNS depressant active substance with well-known abuse potential.
 Prior to treatment physicians should evaluate patients for a history of or susceptibility to drug abuse.
 Patients should be routinely monitored and in the case of suspected abuse, treatment with sodium oxybate should be discontinued.
 
@@ -58,19 +64,11 @@ Therefore, episodes of sleepwalking should be fully evaluated and appropriate in
 
 Sodium intake
 Patients taking sodium oxybate will have an additional daily intake of sodium that ranges from 0.82 g (for a 4.5 g/day Xyrem dose) to 1.6 g (for a 9 g/day Xyrem dose).
-A dietary recommendation to reduce sodium intake should be carefully considered in the management of patients with heart failure, hypertension or compromised renal function.
-(see section 4.2).
+A dietary recommendation to reduce sodium intake should be carefully considered in the management of patients with heart failure, hypertension or compromised renal function (see section 4.2).
 
-Patients with hepatic impairment
-Patients with compromised liver function will have an increased elimination half-life and systemic exposure to sodium oxybate (see Section 5.2).
-The starting dose should therefore be halved in such patients, and response to dose increments monitored closely (see section 4.2).
-
-Older people
+Elderly
 There is very limited experience with sodium oxybate in the elderly.
 Therefore, elderly patients should be monitored closely for impaired motor and/or cognitive function when taking sodium oxybate.
-
-Paediatric population
-Safety and effectiveness in children and adolescents has not been established, therefore use in patients under 18 years of age is not recommended.
 
 Epileptic patients
 Seizures have been observed in patients treated with sodium oxybate.

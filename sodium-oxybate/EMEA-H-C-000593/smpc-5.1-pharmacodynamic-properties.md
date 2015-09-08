@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Other nervous system medicinal products, ATC code: N07XX04.
+Pharmacotherapeutic group: Other nervous system drugs, ATC code: N07XX04.
 
 Sodium oxybate is a central nervous system depressant which reduces excessive daytime sleepiness and cataplexy in patients with narcolepsy and modifies sleep architecture reducing fragmented nighttime sleep.
 The precise mechanism by which sodium oxybate produces an effect is unknown, however sodium oxybate is thought to act by promoting slow (delta) wave sleep and consolidating night-time sleep.
@@ -14,7 +14,7 @@ The first dose each night was taken at bedtime and the second dose was taken 2.5
 
 Table 1 Summary of clinical trials performed using sodium oxybate for the treatment of narcolepsy
 
-| Trial | Primary Efficacy | N= | Secondary Efficacy | Duration | Active treatment and Dose (g/d) |
+| Trial | Primary Efficacy | N | Secondary Efficacy | Duration | Active treatment and Dose (g/d) |
 | --- | --- | --- | --- | --- | --- |
 | Trial 1 | EDS (ESS); CGIc | 246 | MWT/Sleep Architecture/ Cataplexy/Naps/FOSQ | 8 weeks | Xyrem 4.5 - 9 |
 | Trial 2 | EDS (MWT) | 231 | Sleep Architecture/ ESS/CGIc/Naps | 8 weeks | Xyrem 6 – 9 Modafinil 200-600 mg |
@@ -25,7 +25,6 @@ EDS – Excessive daytime sleepiness; ESS – Epworth Sleepiness Scale; MWT – 
 
 Trial 1 enrolled 246 patients with narcolepsy and incorporated a 1 week up-titration period.
 The primary measures of efficacy were changes in excessive daytime sleepiness as measured by the Epworth Sleepiness Scale (ESS), and the change in the overall severity of the patient’s narcolepsy symptoms as assessed by the investigator using the Clinical Global Impressions of Change (CGI-c) measure.
-
 Table 2 Summary of ESS in Trial 1
 
 | Epworth Sleepiness Scale (ESS; range 0-24) |  |  |  |  |
@@ -47,6 +46,7 @@ Table 3 Summary of CGI-c in Trial 1
 | 9 (55) | 30 (54.4) | < 0.001 |
 
 * The CGI-c data were analysed by defining responders as those patients who were very much improved or much improved.
+
 Trial 2 compared the effects of orally administered sodium oxybate, modafinil and sodium oxybate + modafinil, with placebo in the treatment of daytime sleepiness in narcolepsy.
 During the 8 week double-blind period, patients took modafinil at their established dose or placebo equivalent.
 The sodium oxybate or placebo equivalent dose was 6 g/day for the first 4 weeks and was increased to 9 g/day for the remaining 4 weeks.
@@ -64,7 +64,6 @@ Table 4 Summary of MWT in Trial 2
 
 Trial 3 enrolled 136 narcoleptic patients with moderate to severe cataplexy (median of 21 cataplexy attacks per week) at baseline.
 The primary efficacy measure in this trial was the frequency of cataplexy attacks.
-
 Table 5 Summary of outcomes in Trial 3
 
 | Dosage | Number of Subjects | Cataplexy Attacks |  |  |
@@ -83,9 +82,10 @@ The primary efficacy measure in this trial was the frequency of cataplexy attack
 
 Table 6 Summary of outcome in Trial 4
 
-|  | Number of Subjects | Baseline | Median Change from Baseline | Change from Baseline Compared to Placebo (p-value) |
+| Treatment Group | Number of Subjects | Cataplexy Attacks |  |  |
 | --- | --- | --- | --- | --- |
-| Trial 4 |  | Median attacks/two weeks |  |  |
+| Trial 4 |  | Baseline | Median Change from Baseline | Change from Baseline Compared to Placebo (p-value) |
+|  |  | Median attacks/two weeks |  |  |
 | Placebo | 29 | 4.0 | 21.0 | - |
 | Sodium oxybate | 26 | 1.9 | 0 | p <0.001 |
 

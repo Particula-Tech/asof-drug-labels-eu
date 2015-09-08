@@ -1,66 +1,78 @@
 # 4.8 Undesirable effects
 
+Summary of the safety profile
 The most commonly reported adverse reactions are dizziness, nausea, and headache, all occurring in 10% to 20% of patients.
+The most serious adverse reactions are suicidal attempt, psychosis, respiratory depression and convulsion.
+
+The safety and efficacy of sodium oxybate for the treatment of narcolepsy symptoms was established in four multicentre, randomised, double-blind, placebo-controlled, parallel-group trials in patients with narcolepsy with cataplexy except for one trial where cataplexy was not required for enrolment.
+Two Phase 3 and one Phase 2 double-blind, parallel-group, placebo-controlled studies were performed to assess the indication of sodium oxybate for fibromyalgia.
+Additionally, randomised, double-blind, placebo-controlled, crossover drug-drug interaction studies with ibuprofen, diclofenac and valproate were performed in healthy subjects and are summarised in section 4.5.
+
+In addition to the adverse reactions reported during clinical studies, adverse reactions have been reported in post-marketing experience.
+It is not always possible to reliably estimate the frequency of their incidence in the population to be treated.
+
+Tabulated summary of adverse reactions
+Undesirable effects are listed according to MedDRA System Organ Class.
 
 Frequency estimate: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1000 to < 1/100); rare (≥ 1/10,000 to < 1/1000); very rare (< 1/10,000); not known (cannot be estimated from the available data).
 
-Within each frequency grouping, adverse events are presented in order of decreasing seriousness.
-
-Infections and infestations:
+Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Infections and infestations
 Common: nasopharyngitis, sinusitis
 
-Immune system disorders:
+Immune system disorders
 Uncommon: hypersensitivity
 
-Metabolism and nutrition disorders:
+Metabolism and nutrition disorders
 Common: anorexia, decreased appetite
+Not known: dehydration
 
-Psychiatric disorders:
+Psychiatric disorders
 Common: depression, cataplexy, anxiety, abnormal dreams, confusional state, disorientation, nightmares, sleepwalking, sleep disorder, insomnia, middle insomnia, nervousness
 Uncommon: suicide attempt, psychosis, paranoia, hallucination, abnormal thinking, agitation, initial insomnia
-Not known (cannot be estimated from the available data): suicidal ideation, euphoric mood
+Not known: suicidal ideation, euphoric mood
 
-Nervous system disorders:
+Nervous system disorders
 Very common: dizziness, headache
 Common: sleep paralysis, somnolence, tremor, balance disorder, disturbance in attention, hypoaesthesia, paraesthesia, sedation, dysgeusia
 Uncommon: myoclonus, amnesia, restless legs syndrome
-Not known (cannot be estimated from the available data): convulsion
+Not known: convulsion
 
-Eye disorders:
+Eye disorders
 Common: blurred vision
 
-Ear and labyrinth disorders:
+Ear and labyrinth disorders
 Common: vertigo
 
-Cardiac disorders:
+Cardiac disorders
 Common: palpitations
 
-Vascular disorders:
+Vascular disorders
 Common: hypertension
 
-Respiratory, thoracic and mediastinal disorders:
+Respiratory, thoracic and mediastinal disorders
 Common: dyspnoea, snoring, nasal congestion
-Not known (cannot be estimated from the available data): respiratory depression, sleep apnoea
+Not known: respiratory depression, sleep apnoea
 
-Gastrointestinal disorders:
+Gastrointestinal disorders
 Very common: nausea (the frequency of nausea is higher in women than men)
 Common: vomiting, diarrhoea, abdominal pain upper,
 Uncommon: faecal incontinence
+Not known: dry mouth
 
-Skin and subcutaneous tissue disorders:
+Skin and subcutaneous tissue disorders
 Common: hyperhidrosis, rash
-Not known (cannot be estimated from the available data): urticaria
+Not known: urticaria, angioedema
 
-Musculoskeletal and connective tissue disorders:
+Musculoskeletal and connective tissue disorders
 Common: arthralgia, muscle, spasms, back pain
 
-Renal and urinary disorders:
+Renal and urinary disorders
 Common: enuresis nocturna, urinary incontinence
-
-General disorders and administration site conditions:
+General disorders and administration site conditions
 Common: asthenia, fatigue, feeling drunk, oedema peripheral
 
-Investigations:
+Investigations
 Common: blood pressure increased, weight decreased
 
 Injury, poisoning and procedural complications

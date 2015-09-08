@@ -10,16 +10,17 @@ Drug interaction studies in healthy adults with sodium oxybate (single dose of 2
 Increased sleepiness was observed after concomitant administration of sodium oxybate (2.25 g) and lorazepam (2 mg).
 The pharmacodynamic interaction with zolpidem has not been assessed.
 When higher doses up to 9 g/d of sodium oxybate are combined with higher doses of hypnotics (within the recommended dose range) pharmacodynamic interactions associated with symptoms of CNS depression and/or respiratory depression cannot be excluded (see section 4.3).
+
 Tramadol
 A drug interaction study in healthy adults with sodium oxybate (single dose of 2.25 g) and tramadol (single dose of 100 mg) demonstrated no pharmacokinetic/pharmacodynamic interaction.
-When higher doses up to 9 g/d of sodium oxybate are combined with higher doses of opioids (within the recommended dose range) pharmacodynamic interactions associated with symptoms of CNS depression and/or respiratory depression cannot be excluded (see sections 4.3).
+When higher doses up to 9 g/day of sodium oxybate are combined with higher doses of opioids (within the recommended dose range) pharmacodynamic interactions associated with symptoms of CNS depression and/or respiratory depression cannot be excluded (see sections 4.3).
 
 Antidepressants
 Drug interaction studies in healthy adults demonstrated no pharmacokinetic interactions between sodium oxybate (single dose of 2.25 g) and the antidepressants protriptyline hydrochloride (single dose of 10 mg) and duloxetine (60 mg at steady state).
 No additional effect on sleepiness was observed when comparing single doses of sodium oxybate alone (2.25 g) and sodium oxybate (2.25 g) in combination with duloxetine (60 mg at steady state).
 Antidepressants have been used in the treatment of cataplexy.
 A possible additive effect of antidepressants and sodium oxybate cannot be excluded.
-The rate of adverse events has increased when sodium oxybate is co-administered with tricyclic antidepressants.
+The rate of adverse reactions has increased when sodium oxybate is co-administered with tricyclic antidepressants.
 
 Modafinil
 A drug interaction study in healthy adults demonstrated no pharmacokinetic interactions between sodium oxybate (single dose of 4.5 g) and modafinil (single dose of 200 mg).
@@ -44,5 +45,8 @@ The co-administration of sodium oxybate (6 g per day) with valproate (1250 mg pe
 No effect on the pharmacokinetics of valproate was observed.
 The resulting pharmacodynamic effects, including increased impairment in cognitive function and sleepiness, were greater with co-administration than those observed with either drug alone.
 If concomitant use is warranted, patient response and tolerability should be monitored and dose adjustments made if required (see section 4.2).
+
+Topiramate
+Possible pharmacodynamic and pharmacokinetic interactions when sodium oxybate is used concomitantly with topiramate cannot be excluded as clinical observation(s) of coma, and increased plasma GHB concentration were reported in a patient(s) under concomitant use of sodium oxybate and topiramate (section 4.4).
 
 Studies in vitro with pooled human liver microsomes indicate that sodium oxybate does not significantly inhibit the activities of the human isoenzymes (see section 5.2).
