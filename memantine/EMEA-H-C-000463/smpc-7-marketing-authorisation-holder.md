@@ -2,5 +2,5 @@
 
 H. Lundbeck A/S
 Ottiliavej 9
-DK-2500 Valby
+2500 Valby
 Denmark

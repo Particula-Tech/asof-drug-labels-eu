@@ -6,6 +6,7 @@ No special requirements.
 
 Prior to first use the dosing pump has to be screwed on the bottle.
 For removing the screw cap from the bottle the cap must be turned anticlockwise and unscrewed completely (fig.1).
+
 Mounting the dosing pump on the bottle:
 
 The dosing pump has to be removed from the plastic bag (fig.

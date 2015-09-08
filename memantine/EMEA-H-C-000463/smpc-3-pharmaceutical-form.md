@@ -1,9 +1,9 @@
-# 3. PHARMACEUTICAL FORM
+# 3. PHARMACEUTICAL form
 
-Film-coated tablets.
+Film-coated tablet.
 Pale yellow to yellow, oval shaped film-coated tablet with breaking line and engravings “1 0” on one side and “M M” on the other side
 
-The tablet can be divided into equal halves.
+The tablet can be divided into equal doses.
 
 [Ebixa 5 mg/pump actuation oral solution.]
 

@@ -1,8 +1,11 @@
 # 6.5 Nature and contents of container
 
-Blister packs containing either 7, 10, 14 or 20 tablets per blister strip.
-Pack sizes of 14, 28, 30, 42, 49 x 1, 50, 56, 56 x 1, 70, 84, 98, 98 x 1, 100, 100 x 1, 112, 980 (10 x 98) or 1000 (20 x 50) tablets are presented.
-The pack sizes 49 x 1, 56 x1, 98 x 1 and 100 x 1 film-coated tablets are presented in unit dose blister.
+Blister: PVDC/PE/PVC/Al-blister or PP/Al-blister
+Pack sizes of 14, 28, 30, 42, 50, 56, 70, 84, 98, 100,112 film-coated tablets.
+
+Multipack containing 980 (10 packs of 98) and 1000 (20 packs of 50) film-coated tablets.
+Perforated unit dose blister: PVDC/PE/PVC/Al-blister or PP/Al-blister
+Pack sizes 49 x 1, 56 x1, 98 x 1 and 100 x 1 film-coated tablets .
 
 Not all pack sizes may be marketed.
 
@@ -16,5 +19,6 @@ Each pack contains 28 film-coated tablets in 4 PVDC/PE/PVC/Al-blister or PP/Al-b
 
 [Ebixa 20 mg film-coated tablets.]
 
-Blister packs containing 14 film-coated tablets per PVDC/PE/PVC/Al-blister or PP/Al-blister strip.
-Pack sizes of 14, 28, 42, 49 x 1, 56, 56 x 1, 70, 84, 98, 98 x 1, 100 x 1, 112 or 840 (20 x 42) film-coated tablets are presented.
+Pack sizes of 14, 28, 42, 56, 70, 84, 98, 112 film-coated tablets.
+
+Multipack containing 840 (20 x 42) film-coated tablets

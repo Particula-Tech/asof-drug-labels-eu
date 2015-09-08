@@ -1,3 +1,3 @@
 # 4.1 Therapeutic indications
 
-Treatment of patients with moderate to severe Alzheimer’s disease.
+Treatment of adult patients with moderate to severe Alzheimer’s disease.
