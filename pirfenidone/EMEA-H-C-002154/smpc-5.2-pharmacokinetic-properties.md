@@ -22,7 +22,7 @@ In vitro and in vivo studies to date have not detected any activity of the major
 Elimination
 
 The oral clearance of pirfenidone appears modestly saturable.
-In a multiple-dose, dose-ranging study in healthy older adults administered doses ranging from 267 mg to 1335 mg three times a day, the mean clearance decreased by approximately 25% above a dose of 801 mg three times a day.
+In a multiple-dose, dose-ranging study in healthy older adults administered doses ranging from 267 mg to 1,335 mg three times a day, the mean clearance decreased by approximately 25% above a dose of 801 mg three times a day.
 Following single dose administration of pirfenidone in healthy older adults, the mean apparent terminal elimination half-life was approximately 2.4 hours.
 Approximately 80% of an orally administered dose of pirfenidone is cleared in the urine within 24 hours of dosing.
 The majority of pirfenidone is excreted as the 5-carboxy-pirfenidone metabolite (>95% of that recovered), with less than 1% of pirfenidone excreted unchanged in urine.
@@ -37,7 +37,7 @@ Esbriet is contraindicated in severe hepatic impairment and end stage liver dise
 
 Renal impairment
 No clinically relevant differences in the pharmacokinetics of pirfenidone were observed in subjects with mild to severe renal impairment compared with subjects with normal renal function.
-The parent drug is predominantly metabolised to 5-carboxy-pirfenidone, and the pharmacokinetics of this metabolite is altered in subjects with moderate to severe renal impairment.
+The parent substance is predominantly metabolised to 5-carboxy-pirfenidone, and the pharmacokinetics of this metabolite is altered in subjects with moderate to severe renal impairment.
 However, the predicted amount of metabolite accumulation at steady state is not pharmacodynamically important because the terminal elimination half-life is only 1–2 hours in these subjects.
 No dose adjustment is required in patients with mild to moderate renal impairment who are receiving pirfenidone.
 The use of pirfenidone is contraindicated in patients with severe renal impairment (CrCl <30ml/min) or end stage renal disease requiring dialysis (see sections 4.2 and 4.3).

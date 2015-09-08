@@ -7,17 +7,12 @@ Croscarmellose sodium
 Povidone
 Magnesium stearate
 
-Capsule shell: body
+Capsule shell
 
 Titanium dioxide (E171)
 Gelatin
 
-Capsule shell: cap
-
-Titanium dioxide (E171)
-Gelatin
-
-Imprinting Inks
+Printing Inks
 
 Brown S-1-16530 or 03A2 inks containing:
 Shellac

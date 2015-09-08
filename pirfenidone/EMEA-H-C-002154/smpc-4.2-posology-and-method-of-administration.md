@@ -33,7 +33,7 @@ Hepatic function: In the event of significant elevation of alanine and/or aspart
 
 Special populations
 
-Older people
+Elderly
 No dose adjustment is necessary in patients 65 years and older (see section 5.2).
 
 Hepatic impairment
@@ -47,8 +47,9 @@ No dose adjustment is necessary in patients with mild to moderate renal impairme
 Esbriet therapy should not be used in patients with severe renal impairment (CrCl <30 ml/min) or end stage renal disease requiring dialysis (see sections 4.3 and 5.2).
 
 Paediatric population
-There is no relevant use of Esbriet in the paediatric population in the treatment of IPF.
+There is no relevant use of Esbriet in the paediatric population for the indication of IPF.
 
 Method of administration
 
-Esbriet is to be swallowed whole with water and taken with food to reduce the possibility of nausea and dizziness (see sections 4.8 and 5.2).
+Esbriet is for oral use.
+The capsules are to be swallowed whole with water and taken with food to reduce the possibility of nausea and dizziness (see sections 4.8 and 5.2).

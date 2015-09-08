@@ -15,7 +15,7 @@ The clinical efficacy of Esbriet has been studied in four Phase 3, multicentre, 
 Three of the Phase 3 studies (PIPF-004, PIPF-006, and PIPF-016) were multinational, and one (SP3) was conducted in Japan.
 
 PIPF-004 and PIPF-006 compared treatment with Esbriet 2403 mg/day to placebo.
-The studies were nearly identical in design, with few exceptions including an intermediate dose group (1197 mg/day) in PIPF-004.
+The studies were nearly identical in design, with few exceptions including an intermediate dose group (1,197 mg/day) in PIPF-004.
 In both studies, treatment was administered three times daily for a minimum of 72 weeks.
 The primary endpoint in both studies was the change from Baseline to Week 72 in percent predicted Forced Vital Capacity (FVC).
 
@@ -25,7 +25,7 @@ At Week 72, a decline from baseline in percent predicted FVC of ≥10% (a thresh
 
 | Table 2 Categorical assessment of change from Baseline to Week 72 in percent predicted FVC in study PIPF-004 |  |  |
 | --- | --- | --- |
-|  | Pirfenidone 2403 mg/day (N = 174) | Placebo (N = 174) |
+|  | Pirfenidone 2,403 mg/day (N = 174) | Placebo (N = 174) |
 | Decline of ≥10% or death or lung transplant | 35 (20%) | 60 (35%) |
 | Decline of less than 10% | 97 (56%) | 90 (52%) |
 | No decline (FVC change >0%) | 42 (24%) | 24 (14%) |
@@ -39,7 +39,7 @@ At Week 72, a decline in FVC of ≥10% was seen in 23% of patients receiving Esb
 
 | Table 3 Categorical assessment of change from Baseline to Week 72 in percent predicted FVC in study PIPF-006 |  |  |
 | --- | --- | --- |
-|  | Pirfenidone 2403 mg/day (N = 171) | Placebo (N = 173) |
+|  | Pirfenidone 2,403 mg/day (N = 171) | Placebo (N = 173) |
 | Decline of ≥10% or death or lung transplant | 39 (23%) | 46 (27%) |
 | Decline of less than 10% | 88 (52%) | 89 (51%) |
 | No decline (FVC change >0%) | 44 (26%) | 38 (22%) |
@@ -49,7 +49,7 @@ Additionally, in an ad hoc analysis, 33% of patients receiving Esbriet showed a 
 
 In a pooled analysis of survival in PIPF-004 and PIPF-006 the mortality rate with Esbriet 2403 mg/day group was 7.8% compared with 9.8% with placebo (HR 0.77 [95% CI, 0.47–1.28]).
 
-PIPF-016 compared treatment with Esbriet 2403 mg/day to placebo.
+PIPF-016 compared treatment with Esbriet 2,403 mg/day to placebo.
 Treatment was administered three times daily for 52 weeks.
 The primary endpoint was the change from Baseline to Week 52 in percent predicted FVC.
 In a total of 555 patients, the median baseline percent predicted FVC and %DLCO were 68% (range: 48–91%) and 42% (range: 27–170%), respectively.
@@ -61,7 +61,7 @@ At Week 52, a decline from Baseline in percent predicted FVC of ≥10% or death 
 
 | Table 4 Categorical assessment of change from Baseline to Week 52 in percent predicted FVC in study PIPF-016 |  |  |
 | --- | --- | --- |
-|  | Pirfenidone 2403 mg/day (N = 278) | Placebo (N = 277) |
+|  | Pirfenidone 2,403 mg/day (N = 278) | Placebo (N = 277) |
 | Decline of ≥10% or death | 46 (17%) | 88 (32%) |
 | Decline of less than 10% | 169 (61%) | 162 (58%) |
 | No decline (FVC change >0%) | 63 (23%) | 27 (10%) |

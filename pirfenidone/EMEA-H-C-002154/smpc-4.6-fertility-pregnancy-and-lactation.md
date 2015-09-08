@@ -5,7 +5,7 @@ Pregnancy
 There are no data from the use of Esbriet in pregnant women.
 In animals placental transfer of pirfenidone and/or its metabolites occurs with the potential for accumulation of pirfenidone and/or its metabolites in amniotic fluid.
 
-At high doses (≥1000 mg/kg/day) rats exhibited prolongation of gestation and reduction in foetal viability.
+At high doses (≥1,000 mg/kg/day) rats exhibited prolongation of gestation and reduction in foetal viability.
 As a precautionary measure, it is preferable to avoid the use of Esbriet during pregnancy.
 
 Breast-feeding

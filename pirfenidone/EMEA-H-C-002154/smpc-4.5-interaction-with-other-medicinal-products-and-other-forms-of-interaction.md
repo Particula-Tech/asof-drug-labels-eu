@@ -13,7 +13,7 @@ Fluvoxamine should be discontinued prior to the initiation of Esbriet therapy an
 Other therapies that are inhibitors of both CYP1A2 and one or more other CYP isoenzymes involved in the metabolism of pirfenidone
 (e.g. CYP2C9, 2C19, and 2D6) should be avoided during pirfenidone treatment.
 
-In vitro in vivo extrapolations indicate that strong and selective inhibitors of CYP1A2 (e.g. enoxacin) have the potential to increase the exposure to pirfenidone by approximately 2 to 4-fold.
+In vitro and in vivo extrapolations indicate that strong and selective inhibitors of CYP1A2 (e.g. enoxacin) have the potential to increase the exposure to pirfenidone by approximately 2 to 4-fold.
 If concomitant use of Esbriet with a strong and selective inhibitor of CYP1A2 cannot be avoided, the dose of Esbriet should be reduced to 801 mg daily (one capsule, three times a day).
 Patients should be closely monitored for emergence of adverse reactions associated with Esbriet therapy.
 Discontinue Esbriet if necessary (see sections 4.2 and 4.4).
