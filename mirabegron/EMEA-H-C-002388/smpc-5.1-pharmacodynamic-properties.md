@@ -28,6 +28,7 @@ In this study in male patients with LUTS/BOO, the adjusted mean (SE) change from
 
 Effect on QT interval
 Betmiga at doses of 50 mg or 100 mg had no effect on the QT interval individually corrected for heart rate (QTcI interval) when evaluated either by sex or by the overall group.
+
 A thorough QT (TQT) study (n = 164 healthy male and n = 153 healthy female volunteers with a mean age of 33 years) evaluated the effect of repeat oral dosing of mirabegron at the indicated dose (50 mg once daily) and two supra-therapeutic doses (100 and 200 mg once daily) on the QTcI interval.
 The supra-therapeutic doses represent approximately 2.6- and 6.5-fold the exposure of the therapeutic dose, respectively.
 A single 400 mg dose of moxifloxacin was used as a positive control.
@@ -58,6 +59,7 @@ In one study, 495 patients received an active control (tolterodine prolonged rel
 
 The co-primary efficacy endpoints were (1) change from baseline to end of treatment in mean number of incontinence episodes per 24 hours and (2) change from baseline to end of treatment in mean number of micturitions per 24 hours based on a 3-day micturition diary.
 Mirabegron demonstrated statistically significant larger improvements compared to placebo for both co-primary endpoints as well as secondary endpoints (see Tables 1 and 2).
+
 Table 1: Co-primary and Selected Secondary Efficacy Endpoints at End of Treatment for Pooled Studies
 
 | Parameter | Pooled studies (046, 047, 074) |  |
@@ -136,10 +138,10 @@ Table 2: Co-primary and Selected Secondary Efficacy Endpoints at End of Treatmen
 | n | 480 | 472 | 475 | 433 | 424 | 415 | 426 |
 | Mean baseline | 156.7 | 161.1 | 158.6 | 157.5 | 156.3 | 164.0 | 159.3 |
 | Mean change from baseline† | 12.3 | 24.2 | 25.0 | 7.0 | 18.2 | 8.3 | 20.7 |
-| Mean difference from placebo† | -- | 11.9 | 12.6 | -- | 11.1 | -- | 12.4 |
-| 95% | -- | (6.3, 17.4) | (7.1, 18.2) | -- | (4.4, 17.9) | -- | (6.3, 18.6) |
+| Mean difference from | -- | 11.9 | 12.6 | -- | 11.1 | -- | 12.4 |
 |  | Placeb o | Mirabegro n 50 mg | Tolterodin e ER 4 mg | Placeb o | Mirabegro n 50 mg | Placeb o | Mirabegro n 50 mg |
-| Confidenc e Interval |  |  |  |  |  |  |  |
+| placebo† |  |  |  |  |  |  |  |
+| 95% Confidenc e Interval | -- | (6.3, 17.4) | (7.1, 18.2) | -- | (4.4, 17.9) | -- | (6.3, 18.6) |
 | p-value | -- | <0.001# | <0.001* | -- | 0.001# | -- | <0.001# |
 | Mean level of urgency (FAS) (Secondary) |  |  |  |  |  |  |  |
 | n | 480 | 472 | 473 | 432 | 425 | 413 | 426 |
@@ -161,9 +163,9 @@ Table 2: Co-primary and Selected Secondary Efficacy Endpoints at End of Treatmen
 | Mean change from baseline† | -1.65 | -2.25 | -2.07 | -0.82 | -1.57 | -1.35 | -1.94 |
 | Mean difference from placebo† | -- | -0.60 | -0.42 | -- | -0.75 | -- | -0.59 |
 | 95% Confidenc e Interval | -- | (-1.02, -0.18) | (-0.84, -0.00) | -- | (-1.20, -0.30) | -- | (-1.01, -0.16) |
+|  | Placeb o | Mirabegro n 50 mg | Tolterodin e ER 4 mg | Placeb o | Mirabegro n 50 mg | Placeb o | Mirabegro n 50 mg |
 | p-value | -- | 0.005* | 0.050* | -- | 0.001* | -- | 0.007‡ |
 | Treatment satisfaction – visual analogue scale (FAS) (Secondary) |  |  |  |  |  |  |  |
-|  | Placeb o | Mirabegro n 50 mg | Tolterodin e ER 4 mg | Placeb o | Mirabegro n 50 mg | Placeb o | Mirabegro n 50 mg |
 | n | 428 | 414 | 425 | 390 | 387 | 377 | 388 |
 | Mean baseline | 4.11 | 3.95 | 3.87 | 5.5 | 5.4 | 5.13 | 5.13 |
 | Mean change from baseline† | 1.89 | 2.55 | 2.44 | 0.7 | 1.5 | 1.05 | 1.88 |
@@ -213,7 +215,7 @@ Table 3: Co-primary efficacy endpoints for patients with prior OAB antimuscarini
 | Mean difference from placebo† | -- | -0.70 | -- | -0.76 | -0.06 |
 | 95% Confidence Interval | -- | (-1.01, -0.38) | -- | (-1.32, -0.19) | (-0.63, 0.50) |
 | Mean number of micturitions per 24 hours (FAS) |  |  |  |  |  |
-| n | 466 | 464 | 155 | 160 | 155 |
+| n | 466 | 464 | 159 | 160 | 155 |
 | Mean baseline | 11.60 | 11.67 | 11.89 | 11.49 | 11.99 |
 | Mean change from baseline† | -0.86 | -1.54 | -1.03 | -1.62 | -1.11 |
 | Mean difference from placebo† | -- | -0.67 | -- | -0.59 | -0.08 |
@@ -253,8 +255,9 @@ In a phase 1 study assessing the effect of mirabegron on IOP using Goldmann appl
 | n | 480 | 472 | 475 | 433 | 424 | 415 | 426 |
 | Mean baseline | 156.7 | 161.1 | 158.6 | 157.5 | 156.3 | 164.0 | 159.3 |
 | Mean change from baseline† | 12.3 | 24.2 | 25.0 | 7.0 | 18.2 | 8.3 | 20.7 |
-| Mean difference from placebo† | -- | 11.9 | 12.6 | -- | 11.1 | -- | 12.4 |
+| Mean difference | -- | 11.9 | 12.6 | -- | 11.1 | -- | 12.4 |
 |  | Placeb o | Mirabegro n 50 mg | Tolterodin e ER 4 mg | Placeb o | Mirabegro n 50 mg | Placeb o | Mirabegro n 50 mg |
+| from placebo† |  |  |  |  |  |  |  |
 | 95% Confidenc e Interval | -- | (6.3, 17.4) | (7.1, 18.2) | -- | (4.4, 17.9) | -- | (6.3, 18.6) |
 | p-value | -- | <0.001# | <0.001* | -- | 0.001# | -- | <0.001# |
 | Mean level of urgency (FAS) (Secondary) |  |  |  |  |  |  |  |
@@ -276,9 +279,10 @@ In a phase 1 study assessing the effect of mirabegron on IOP using Goldmann appl
 | Mean baseline | 5.78 | 5.72 | 5.79 | 5.61 | 5.90 | 5.42 | 5.80 |
 | Mean change from baseline† | -1.65 | -2.25 | -2.07 | -0.82 | -1.57 | -1.35 | -1.94 |
 | Mean difference from placebo† | -- | -0.60 | -0.42 | -- | -0.75 | -- | -0.59 |
-| 95% Confidenc e Interval | -- | (-1.02, -0.18) | (-0.84, -0.00) | -- | (-1.20, -0.30) | -- | (-1.01, -0.16) |
-| p-value | -- | 0.005* | 0.050* | -- | 0.001* | -- | 0.007‡ |
+| 95% Confidenc | -- | (-1.02, -0.18) | (-0.84, -0.00) | -- | (-1.20, -0.30) | -- | (-1.01, -0.16) |
 |  | Placeb o | Mirabegro n 50 mg | Tolterodin e ER 4 mg | Placeb o | Mirabegro n 50 mg | Placeb o | Mirabegro n 50 mg |
+| e Interval |  |  |  |  |  |  |  |
+| p-value | -- | 0.005* | 0.050* | -- | 0.001* | -- | 0.007‡ |
 | Treatment satisfaction – visual analogue scale (FAS) (Secondary) |  |  |  |  |  |  |  |
 | n | 428 | 414 | 425 | 390 | 387 | 377 | 388 |
 | Mean baseline | 4.11 | 3.95 | 3.87 | 5.5 | 5.4 | 5.13 | 5.13 |
