@@ -36,3 +36,8 @@ Patients treated with Perjeta, trastuzumab and docetaxel are at increased risk o
 As nadir neutrophil counts were similar in Perjeta-treated and placebo-treated patients, the higher incidence of febrile neutropenia in Perjeta-treated patients may be associated with the higher incidence of mucositis and diarrhoea in these patients.
 Symptomatic treatment for mucositis and diarrhoea should be considered.
 In the pivotal trial, CLEOPATRA, no events of febrile neutropenia were reported after cessation of docetaxel.
+Diarrhoea
+
+Pertuzumab may elicit severe diarrhoea.
+In case of onset of severe diarrhoea an anti-diarrhoeal treatment should be instituted and interruption of the treatment with pertuzumab should be considered if no improvement of the condition is achieved.
+When the diarrhoea is under control the treatment with pertuzumab may be reinstated.

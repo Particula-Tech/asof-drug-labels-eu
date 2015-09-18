@@ -53,7 +53,6 @@ ADRs reported in patients receiving Perjeta and trastuzumab after discontinuatio
 
 In the pivotal trial CLEOPATRA, ADRs were reported less frequently after discontinuation of docetaxel treatment.
 After discontinuation of docetaxel, ADRs in the Perjeta and trastuzumab treated group occurred in < 10% of patients with the exception of diarrhoea (28.1%), upper respiratory tract infection (18.3%), rash (18.3%), headache (17.0%), fatigue (13.4%), nasopharyngitis (17.0%), asthenia (13.4%), pruritus (13.7%), arthralgia (11.4%), nausea (12.7%), pain in extremity (13.4%), back pain (12.1%) and cough (12.1%).
-
 Description of selected adverse reactions
 
 Left ventricular dysfunction
@@ -91,7 +90,6 @@ Diarrhoeal events responded well to proactive management with anti-diarrhoeal ag
 Rash
 Rash occurred in 51.7% of Perjeta-treated patients, compared with 38.9% of placebo-treated patients.
 Most events were Grade 1 or 2 in severity, occurred in the first two cycles, and responded to standard therapies, such as topical or oral treatment for acne.
-
 Laboratory abnormalities
 The incidence of NCI-CTCAE (version 3) Grade 3-4 neutropenia was balanced in the two treatment groups (86.3% of Perjeta-treated patients and 86.6% of placebo-treated patients, including 60.7% and 64.8% Grade 4 neutropenia, respectively).
 

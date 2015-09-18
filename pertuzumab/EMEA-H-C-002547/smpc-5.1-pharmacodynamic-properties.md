@@ -41,7 +41,6 @@ Patients’ median LVEF at baseline was 65.0% (range 50% – 88%) in both groups
 The efficacy results from the CLEOPATRA study are summarised in Table 2.
 A statistically significant improvement in IRF-assessed PFS was demonstrated in the Perjeta-treated group compared with the placebo-treated group.
 The results for investigator-assessed PFS were similar to those observed for IRF-assessed PFS.
-
 Table 2 Summary of efficacy from CLEOPATRA study
 
 | Parameter | Placebo+ trastuzumab + docetaxel n=406 | Perjeta+ trastuzumab + docetaxel n=402 | HR (95% CI) | p-value |
