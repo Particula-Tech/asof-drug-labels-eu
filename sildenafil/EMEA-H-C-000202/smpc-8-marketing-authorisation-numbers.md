@@ -8,11 +8,13 @@ EU/1/98/077/013
 EU/1/98/077/006-008
 EU/1/98/077/014
 EU/1/98/077/016-019
+EU/1/98/077/024
 
 [VIAGRA 100 mg film-coated tablets]
 
 EU/1/98/077/010-012
 EU/1/98/077/015
+EU/1/98/077/025
 
 [VIAGRA 50 mg orodispersible tablets]
 

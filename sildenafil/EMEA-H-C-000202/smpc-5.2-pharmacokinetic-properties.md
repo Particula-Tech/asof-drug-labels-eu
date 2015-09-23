@@ -29,18 +29,18 @@ The N-desmethyl metabolite is further metabolised, with a terminal half-life of 
 Elimination
 
 The total body clearance of sildenafil is 41 L/h with a resultant terminal phase half-life of 3-5 h. After either oral or intravenous administration, sildenafil is excreted as metabolites predominantly in the faeces (approximately 80% of administered oral dose) and to a lesser extent in the urine (approximately 13% of administered oral dose).
+
 Pharmacokinetics in special patient groups
 
 Elderly
 Healthy, elderly volunteers (65 years or over) had a reduced clearance of sildenafil, resulting in approximately 90% higher plasma concentrations of sildenafil and the active N-desmethyl metabolite compared to those seen in healthy younger volunteers (18-45 years).
 Due to age-differences in plasma protein binding, the corresponding increase in free sildenafil plasma concentration was approximately 40%.
-
 Renal insufficiency
 In volunteers with mild to moderate renal impairment (creatinine clearance = 30-80 mL/min), the pharmacokinetics of sildenafil were not altered after receiving a 50 mg single oral dose.
-The mean AUC and Cmax of the N-desmethyl metabolite increased 126% and 73% respectively, compared to age-matched volunteers with no renal impairment.
+The mean AUC and Cmax of the N-desmethyl metabolite increased up to 126% and up to 73% respectively, compared to age-matched volunteers with no renal impairment.
 However, due to high inter-subject variability, these differences were not statistically significant.
 In volunteers with severe renal impairment (creatinine clearance <30 mL/min), sildenafil clearance was reduced, resulting in mean increases in AUC and Cmax of 100% and 88% respectively compared to age-matched volunteers with no renal impairment.
-In addition, N-desmethyl metabolite AUC and Cmax values were significantly increased 79% and 200% respectively.
+In addition, N-desmethyl metabolite AUC and Cmax values were significantly increased by 200% and 79% respectively.
 
 Hepatic insufficiency
 In volunteers with mild to moderate hepatic cirrhosis (Child-Pugh A and B) sildenafil clearance was reduced, resulting in increases in AUC (84%) and Cmax (47%) compared to age-matched volunteers with no hepatic impairment.
@@ -49,6 +49,7 @@ The pharmacokinetics of sildenafil in patients with severely impaired hepatic fu
 [VIAGRA 50 mg film-coated tablets]
 
 Healthy elderly volunteers (65 years or over) had a reduced clearance of sildenafil, resulting in approximately 90% higher plasma concentrations of sildenafil and the active N-desmethyl metabolite compared to those seen in healthy younger volunteers (18-45 years).
+The mean AUC and Cmax of the N-desmethyl metabolite increased up to126% and up to 73% respectively, compared to age-matched volunteers with no renal impairment.
 
 [VIAGRA 100 mg film-coated tablets]
 

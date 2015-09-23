@@ -48,13 +48,15 @@ Consistent with its known effects on the nitric oxide/cGMP pathway (see section 
 Concomitant administration of sildenafil to patients taking alpha-blocker therapy may lead to symptomatic hypotension in a few susceptible individuals.
 This is most likely to occur within 4 hours post sildenafil dosing (see sections 4.2 and 4.4).
 In three specific drug-drug interaction studies, the alpha-blocker doxazosin (4 mg and 8 mg) and sildenafil (25 mg, 50 mg, or 100 mg) were administered simultaneously to patients with benign prostatic hyperplasia (BPH) stabilized on doxazosin therapy.
-In these study populations, mean additional reductions of supine blood pressure of 7/7 mmHg, 9/5 mmHg, and 8/4 mmHg, and mean additional reductions of standing blood pressure of 6/6 mmHg, 11/4 mmHg, and 4/5 mmHg, respectively, were observed.
+In these study populations, mean additional reductions of supine blood pressure of 7/7 mmHg,
+9/5 mmHg, and 8/4 mmHg, and mean additional reductions of standing blood pressure of 6/6 mmHg, 11/4 mmHg, and 4/5 mmHg, respectively, were observed.
 When sildenafil and doxazosin were administered simultaneously to patients stabilized on doxazosin therapy, there were infrequent reports of patients who experienced symptomatic postural hypotension.
 These reports included dizziness and light-headedness, but not syncope.
 
 No significant interactions were shown when sildenafil (50 mg) was co-administered with tolbutamide (250 mg) or warfarin (40 mg), both of which are metabolised by CYP2C9.
 
-Sildenafil (50 mg) did not potentiate the increase in bleeding time caused by acetyl salicylic acid (150 mg).
+Sildenafil (50 mg) did not potentiate the increase in bleeding time caused by acetyl salicylic acid
+(150 mg).
 Sildenafil (50 mg) did not potentiate the hypotensive effects of alcohol in healthy volunteers with mean maximum blood alcohol levels of 80 mg/dl.
 
 Pooling of the following classes of antihypertensive medication: diuretics, beta-blockers, ACE inhibitors, angiotensin II antagonists, antihypertensive medicinal products (vasodilator and centrally-acting), adrenergic neurone blockers, calcium channel blockers and alpha-adrenoceptor blockers, showed no difference in the side effect profile in patients taking sildenafil compared to placebo treatment.
@@ -71,9 +73,6 @@ In healthy male volunteers, sildenafil at steady state (80 mg t.i.d.) resulted i
 When a single 100 mg dose of sildenafil was administered with erythromycin, a moderate CYP3A4 inhibitor, at steady state (500 mg twice daily for 5 days), there was a 182% increase in sildenafil systemic exposure (AUC).
 
 Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4 (IC50 >150 μM).
-
-In these study populations, mean additional reductions of supine blood pressure of 7/7 mmHg,
-9/5 mmHg, and 8/4 mmHg, and mean additional reductions of standing blood pressure of 6/6 mmHg, 11/4 mmHg, and 4/5 mmHg, respectively, were observed.
 
 [VIAGRA 100 mg film-coated tablets]
 
