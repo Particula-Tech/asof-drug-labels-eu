@@ -38,7 +38,6 @@ Digoxin: co-administration of multiple of 5 mg linagliptin with multiple doses o
 Therefore, linagliptin is not an inhibitor of P-glycoprotein-mediated transport in vivo.
 
 Warfarin: multiple daily doses of 5 mg linagliptin did not alter the pharmacokinetics of S(-) or R(+) warfarin, a CYP2C9 substrate, administered in a single dose.
-
 Simvastatin: multiple daily doses of linagliptin had a minimal effect on the steady-state pharmacokinetics of simvastatin, a sensitive CYP3A4 substrate, in healthy volunteers.
 Following administration of a supratherapeutic dose of 10 mg linagliptin concomitantly with 40 mg of simvastatin daily for 6 days, the plasma AUC of simvastatin was increased by 34%, and the plasma Cmax by 10%.
 

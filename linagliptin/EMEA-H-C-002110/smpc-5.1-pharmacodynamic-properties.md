@@ -70,7 +70,7 @@ Body weight did not differ significantly between the groups.
 The observed incidence of hypoglycaemia in patients treated with linagliptin was higher than placebo, due to an increase in asymptomatic hypoglycaemic events.
 There was no difference between groups in severe hypoglycaemic events.
 
-Linagliptin as add-on therapy in older people (age ≥ 70 years) with type 2 diabetes
+Linagliptin as add-on therapy in older people (age ≥70 years) with type 2 diabetes
 The efficacy and safety of linagliptin in older people (age ≥ 70years) with type 2 diabetes was evaluated in a double-blind study of 24 weeks duration.
 Patients received metformin and/or sulphonylurea and/or insulin as background therapy.
 Doses of background antidiabetic medications were kept stable during the first 12 weeks, after which adjustments were permitted.

@@ -13,8 +13,9 @@ Sulphonylureas and insulin are known to cause hypoglycaemia.
 Therefore, caution is advised when linagliptin is used in combination with a sulphonylurea and/or insulin.
 A dose reduction of the sulphonylurea or insulin, may be considered (see section 4.2).
 
-Pancreatitis
+Acute pancreatitis
+Use of DPP-4 inhibitors has been associated with a risk of developing acute pancreatitis.
 In post-marketing experience of linagliptin there have been spontaneously reported adverse reactions of acute pancreatitis.
-Patients should be informed of the characteristic symptom of acute pancreatitis: persistent, severe abdominal pain.
-Resolution of pancreatitis has been observed after discontinuation of linagliptin.
-If pancreatitis is suspected, Trajenta should be discontinued.
+Patients should be informed of the characteristic symptoms of acute pancreatitis.
+If pancreatitis is suspected, Trajenta should be discontinued; if acute pancreatitis is confirmed, Trajenta should not be restarted.
+Caution should be exercised in patients with a history of pancreatitis.

@@ -28,8 +28,7 @@ The placebo-controlled studies included studies where linagliptin was given as
 Adverse reactions classified by system organ class and MedDRA preferred terms reported in patients who received 5 mg linagliptin in double-blind studies as monotherapy or as add-on therapy are presented per treatment regimen in the table below (see table 1).
 
 The adverse reactions are listed by absolute frequency.
-Frequencies are defined as very common
-(≥ 1/10), common (≥ 1/100 to <1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), or very rare (<1/10,000), not known (cannot be estimated from the available data).
+Frequencies are defined as very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), or very rare (<1/10,000), not known (cannot be estimated from the available data).
 
 Table 1 Adverse reactions reported in patients who received linagliptin 5 mg daily as monotherapy or as add-on therapies (frequencies identified from pooled analysis of placebo-controlled studies) in clinical trial and from post-marketing experience
 
