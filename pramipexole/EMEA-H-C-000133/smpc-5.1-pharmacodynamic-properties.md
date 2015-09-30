@@ -23,6 +23,7 @@ Out of these, approximately 1,000 were in more advanced stages, received concomi
 
 In early and advanced Parkinson’s disease, efficacy of pramipexole in controlled clinical trials was maintained for approximately six months.
 In open continuation trials lasting for more than three years there were no signs of decreasing efficacy.
+
 In a controlled double blind clinical trial of 2 year duration, initial treatment with pramipexole significantly delayed the onset of motor complications, and reduced their occurrence compared to initial treatment with levodopa.
 This delay in motor complications with pramipexole should be balanced against a greater improvement in motor function with levodopa (as measured by the mean change in UPDRS-score).
 The overall incidence of hallucinations and somnolence was generally higher in the escalation phase with the pramipexole group.

@@ -40,11 +40,11 @@ Pramipexole is completely absorbed following oral administration.
 The absolute bioavailability is greater than 90%.
 
 In a Phase I trial, where pramipexole immediate release and prolonged-release tablets were assessed in fasted state, the minimum and peak plasma concentration (Cmin, Cmax) and exposure (AUC) of the same daily dose of SIFROL prolonged-release tablets given once daily and SIFROL tablets given three times a day were equivalent.
-
 The once daily administration of SIFROL prolonged-release tablets causes less frequent fluctuations in the pramipexole plasma concentration over 24 hours compared to the three times daily administration of pramipexole immediate release tablets.
 
 The maximum plasma concentrations occur at about 6 hours after administration of SIFROL prolonged-release tablets once daily.
 Steady state of exposure is reached at the latest after 5 days of continuous dosing.
+
 Concomitant administration with food does generally not affect the bioavailability of pramipexole.
 Intake of a high fat meal induced an increase in peak concentration (Cmax) of about 24% after a single dose administration and about 20% after multiple dose administrations and a delay of about 2 hours in time to reach peak concentration in healthy volunteers.
 Total exposure (AUC) was not affected by concomitant food intake.

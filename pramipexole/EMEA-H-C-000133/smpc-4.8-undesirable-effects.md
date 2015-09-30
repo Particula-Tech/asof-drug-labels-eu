@@ -1,7 +1,7 @@
 # 4.8 Undesirable effects
 
 Expected adverse reactions
-The following adverse reactions are expected under the use of SIFROL: abnormal dreams, amnesia, behavioural symptoms of impulse control disorders and compulsions such as binge eating, compulsive shopping, hypersexuality and pathological gambling; cardiac failure, confusion, constipation, delusion, dizziness, dyskinesia, dyspnoea, fatigue, hallucinations, headache, hiccups, hyperkinesia, hyperphagia, hypotension, inappropriate antidiuretic hormone secretion, insomnia, libido disorders, nausea, paranoia, peripheral oedema, pneumonia, pruritus, rash and other hypersensitivity; restlessness, somnolence, sudden onset of sleep, syncope, visual impairment including diplopia, vision blurred and visual acuity reduced, vomiting, weight decrease including decreased appetite, weight increase.
+The following adverse reactions are expected under the use of SIFROL: abnormal dreams, amnesia, behavioural symptoms of impulse control disorders and compulsions such as binge eating, compulsive shopping, hypersexuality and pathological gambling; cardiac failure, confusion, constipation, delirium, delusion, dizziness, dyskinesia, dyspnoea, fatigue, hallucinations, headache, hiccups, hyperkinesia, hyperphagia, hypotension, inappropriate antidiuretic hormone secretion, insomnia, libido disorders, mania, nausea, paranoia, peripheral oedema, pneumonia, pruritus, rash and other hypersensitivity; restlessness, somnolence, sudden onset of sleep, syncope, visual impairment including diplopia, vision blurred and visual acuity reduced, vomiting, weight decrease including decreased appetite, weight increase.
 
 Based on the analysis of pooled placebo-controlled trials, comprising a total of 1,923 patients on pramipexole and 1,354 patients on placebo, adverse drug reactions were frequently reported for both groups.
 63% of patients on pramipexole and 52% of patients on placebo reported at least one adverse drug reaction.
@@ -10,10 +10,10 @@ Tables 1 and 2 display the frequency of adverse drug reactions from placebo-cont
 The adverse drug reactions reported in these tables are those events that occurred in 0.1% or more of patients treated with pramipexole and were reported significantly more often in patients taking pramipexole than placebo, or where the event was considered clinically relevant.
 The majority of adverse drug reactions were mild to moderate, they usually start early in therapy and most tended to disappear even as therapy was continued.
 
-Within the system organ classes, adverse reactions are listed under headings of frequency (number of patients expected to experience the reaction), using the following categories: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000).
+Within the system organ classes, adverse reactions are listed under headings of frequency (number of patients expected to experience the reaction), using the following categories: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to < 1/1,000); very rare (< 1/10,000).
 
 Parkinson’s disease, most common adverse reactions
-The most commonly (≥ 5%) reported adverse drug reactions in patients with Parkinson’s disease more frequent with pramipexole treatment than with placebo were nausea, dyskinesia, hypotension, dizziness, somnolence, insomnia, constipation, hallucination, headache and fatigue.
+The most commonly (≥5%) reported adverse drug reactions in patients with Parkinson’s disease more frequent with pramipexole treatment than with placebo were nausea, dyskinesia, hypotension, dizziness, somnolence, insomnia, constipation, hallucination, headache and fatigue.
 The incidence of somnolence is increased at doses higher than 1.5 mg pramipexole salt per day (see section 4.2).
 A more frequent adverse drug reaction in combination with levodopa was dyskinesia.
 Hypotension may occur at the beginning of treatment, especially if pramipexole is titrated too fast.
@@ -57,7 +57,7 @@ With 95 % certainty, the frequency category is not greater than uncommon, but mi
 A precise frequency estimation is not possible as the side effect did not occur in a clinical trial database of 2,762 patients with Parkinson’s Disease treated with pramipexole.
 
 Restless Legs Syndrome, most common adverse reactions
-The most commonly (≥ 5%) reported adverse drug reactions in patients with Restless Legs Syndrome treated with pramipexole were nausea, headache, dizziness and fatigue.
+The most commonly (≥5%) reported adverse drug reactions in patients with Restless Legs Syndrome treated with pramipexole were nausea, headache, dizziness and fatigue.
 Nausea and fatigue were more often reported in female patients treated with SIFROL (20.8% and 10.5%, respectively) compared to males (6.7% and 7.3%, respectively).
 Table 2: Restless Legs Syndrome
 
@@ -112,6 +112,11 @@ Possible independent risk factors for impulse control disorders included dopamin
 Cardiac failure
 In clinical studies and post-marketing experience cardiac failure has been reported in patients with pramipexole.
 In a pharmacoepidemiological study pramipexole use was associated with an increased risk of cardiac failure compared with non-use of pramipexole (observed risk ratio 1.86; 95% CI, 1.21-2.85).
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 [SIFROL 0.18 mg tablets]
 
