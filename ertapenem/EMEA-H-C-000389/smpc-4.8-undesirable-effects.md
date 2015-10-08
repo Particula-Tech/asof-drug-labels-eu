@@ -38,7 +38,7 @@ Common (≥1/100 to < 1/10); Uncommon (≥1/1,000 to < 1/100); Rare (≥1/10,000
 | Cardiac disorders | Uncommon: Sinus bradycardia Rare: Arrhythmia, tachycardia |  |
 | Vascular disorders | Common: Infused vein complication, phlebitis/thrombophlebitis Uncommon: Hypotension Rare: Haemorrhage, increased blood pressure | Uncommon: Hot flush, hypertension |
 | Respiratory, thoracic and mediastinal disorders | Uncommon: Dyspnoea, pharyngeal discomfort Rare: Nasal congestion, cough, epistaxis, rales/rhonchi, wheezing |  |
-| Gastrointestinal disorders | Common: Diarrhoea, nausea, vomiting Uncommon: Constipation, acid regurgitation, dry mouth, dyspepsia, abdominal pain Rare: Dysphagia, faecal incontinence, pelvic peritonitis | Common: Diarrhoea Uncommon: Faeces discoloured, melaena |
+| Gastrointestinal disorders | Common: Diarrhoea, nausea, vomiting Uncommon: Constipation, acid regurgitation, dry mouth, dyspepsia, abdominal pain Rare: Dysphagia, faecal incontinence, pelvic peritonitis Not known: teeth staining | Common: Diarrhoea Uncommon: Faeces discoloured, melaena |
 | Hepato-biliary disorders | Rare: Cholecystitis, jaundice, liver disorder |  |
 | Skin and subcutaneous tissue disorders | Common: Rash, pruritus Uncommon: Erythema, urticaria Rare: Dermatitis, desquamation Not known: Drug Rash with Eosinophilia and Systemic Symptoms (DRESS syndrome) | Common: Diaper dermatitis Uncommon: Erythema, rash, petechiae |
 | Musculoskeletal and connective tissue disorders | Rare: Muscle cramp, shoulder pain Not known: Muscular weakness |  |
