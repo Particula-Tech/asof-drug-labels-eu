@@ -128,7 +128,9 @@ In patients treated with MabThera, the occurrence of pre-existing ischemic cardi
 Therefore, in patients with a known cardiac history, and those who experienced prior cardiopulmonary adverse reactions, the risk of cardiovascular complications resulting from infusion reactions should be considered before treatment with MabThera and patients closely monitored during administration.
 Since hypotension may occur during MabThera infusion, consideration should be given to withholding anti-hypertensive medications 12 hours prior to the MabThera infusion.
 
-IRRs for patients with granulomatosis with polyangiitis and microscopic polyangiitis were similar to those seen for rheumatoid arthritis patients in clinical trials (see section 4.8).
+| IRRs for patients | with granulomatosis with polyangiitis and microscopic polyangiitis were similar to |  |
+| --- | --- | --- |
+| those seen for rheumatoid arthritis patients in clinical |  | trials (see section 4.8). |
 
 Cardiac disorders
 Angina pectoris, cardiac arrhythmias such as atrial flutter and fibrillation, heart failure and/or myocardial infarction have occurred in patients treated with MabThera.
@@ -154,9 +156,9 @@ At minimum this should include HBsAg-status and HBcAb-status.
 These can be complemented with other appropriate markers as per local guidelines.
 Patients with active hepatitis B disease should not be treated with MabThera.
 Patients with positive hepatitis B serology (either HBsAg or HBcAb) should consult liver disease experts before start of treatment and should be monitored and managed following local medical standards to prevent hepatitis B reactivation.
+
 Late neutropenia
 Measure blood neutrophils prior to each course of MabThera, and regularly up to 6-months after cessation of treatment, and upon signs or symptoms of infection (see section 4.8).
-
 Skin reactions
 Severe skin reactions such as Toxic Epidermal Necrolysis (Lyell’s syndrome) and Stevens-Johnson syndrome, some with fatal outcome, have been reported (see section 4.8).
 In case of such an event with a suspected relationship to MabThera, treatment should be permanently discontinued.
@@ -168,14 +170,19 @@ Vaccination should be completed at least 4 weeks prior to first administration o
 The safety of immunisation with live viral vaccines following MabThera therapy has not been studied.
 Therefore vaccination with live virus vaccines is not recommended whilst on MabThera or whilst peripherally B cell depleted.
 
-Patients treated with MabThera may receive non-live vaccinations.
-However, response rates to non-live vaccines may be reduced.
-In a randomised trial, patients with rheumatoid arthritis treated with MabThera and methotrexate had comparable response rates to tetanus recall antigen (39% vs. 42%), reduced rates to pneumococcal polysaccharide vaccine (43% vs. 82% to at least 2 pneumococcal antibody serotypes), and KLH neoantigen (47% vs. 93%), when given 6 months after MabThera as compared to patients only receiving methotrexate.
-Should non-live vaccinations be required whilst receiving MabThera therapy, these should be completed at least 4 weeks prior to commencing the next course of MabThera.
-
-In the overall experience of MabThera repeat treatment over one year in rheumatoid arthritis, the proportions of patients with positive antibody titres against S. pneumoniae, influenza, mumps, rubella, varicella and tetanus toxoid were generally similar to the proportions at baseline.
-
+Patients treated with MabThera may receive non-live vaccinations. However, response rates to non-
+live vaccines may be reduced. In a randomised trial, patients with rheumatoid arthritis treated with
+MabThera and methotrexate had comparable response rates to tetanus recall antigen (39% vs. 42%),
+reduced rates to pneumococcal polysaccharide vaccine (43% vs. 82% to at least 2 pneumococcal
+antibody serotypes), and KLH neoantigen (47% vs. 93%), when given 6 months after MabThera as
+compared to patients only receiving methotrexate. Should non-live vaccinations be required whilst
+receiving MabThera therapy, these should be completed at least 4 weeks prior to commencing the next
+course of MabThera.
+In the overall experience of MabThera repeat treatment over one year in rheumatoid arthritis, the
+proportions of patients with positive antibody titres against S. pneumoniae, influenza, mumps, rubella,
+varicella and tetanus toxoid were generally similar to the proportions at baseline.
 Concomitant/sequential use of other DMARDs in rheumatoid arthritis
+
 The concomitant use of MabThera and anti-rheumatic therapies other than those specified under the rheumatoid arthritis indication and posology is not recommended.
 
 There are limited data from clinical trials to fully assess the safety of the sequential use of other DMARDs (including TNF inhibitors and other biologics) following MabThera (see section 4.5).
@@ -200,7 +207,15 @@ Patients with active hepatitis B disease should not be treated with MabThera.Pat
 
 Therefore, in patients with a known cardiac history, and those who experienced prior cardiopulmonary adverse reactions the risk of cardiovascular complications resulting from infusion reactions should be considered before treatment with MabThera and patients closely monitored during administration.
 
+| IRRs for patients with | granulomatosis with polyangiitis and microscopic polyangiitis were similar to |  |
+| --- | --- | --- |
+| those seen for rheumatoid arthritis patients in clinical trials (see |  | section 4.8). |
+
 These can be complemented with other appropriate markers as per local guideline.
+
+However, response rates to non-live vaccines may be reduced.
+In a randomised trial, patients with rheumatoid arthritis treated with MabThera and methotrexate had comparable response rates to tetanus recall antigen (39% vs. 42%), reduced rates to pneumococcal polysaccharide vaccine (43% vs. 82% to at least 2 pneumococcal antibody serotypes), and KLH neoantigen (47% vs. 93%), when given 6 months after MabThera as compared to patients only receiving methotrexate.
+Should non-live vaccinations be required whilst receiving MabThera therapy, these should be completed at least 4 weeks prior to commencing the next course of MabThera.
 
 [MabThera 1400 mg solution for subcutaneous injection]
 
@@ -228,16 +243,14 @@ Infusion related adverse reactions of all kinds have been observed in 77% of pat
 Administration related reactions have been observed in up to 50% of patients treated with Mabthera subcutaneous formulation in clinical trials.
 The reactions occurring within 24 hours of the subcutaneous injection consisted primarily of erythema pruritus, rash and injections site reactions such as pain, swelling and redness and were generally of mild or moderate (grade 1 or 2) and transient nature.
 
-Local cutaneous reactions were very common in patients receiving MabThera subcutaneous in clinical trials; reported in up to 50% of patients at some time during treatment.
+Local cutaneous reactions were very common in patients receiving MabThera subcutaneous in clinical trials.
 Symptoms included pain, swelling, induration, haemorrhage, erythema, pruritus and rash (see section 4.8).
 Some local cutaneous reactions occurred more than 24 hours after the MabThera subcutaneous administration.
 The majority of local cutaneous reactions seen following administration of MabThera subcutaneous formulation was mild or moderate and resolved without any specific treatment.
 
-Before starting MabThera subcutaneous injections, all patients must always receive beforehand, a full
-dose of MabThera by intravenous infusion, using MabThera intravenous formulation. The highest risk
-of experiencing an administration related reaction is generally observed at cycle one. Beginning the
-therapy with MabThera intravenous infusion would allow a better handling of the administration
-reactions by slowing or stopping the intravenous infusion.
+Before starting MabThera subcutaneous injections, all patients must always receive beforehand, a full dose of MabThera by intravenous infusion, using MabThera intravenous formulation.
+The highest risk of experiencing an administration related reaction is generally observed at cycle one.
+Beginning the therapy with MabThera intravenous infusion would allow a better handling of the administration reactions by slowing or stopping the intravenous infusion.
 
 If patients were not able to receive one full MabThera intravenous infusion dose prior to the switch, they should continue the subsequent cycles with MabThera intravenous formulation until a full intravenous dose is successfully administered.
 Therefore, the switch to MabThera subcutaneous formulation can only occur at the second or subsequent cycles of treatment.

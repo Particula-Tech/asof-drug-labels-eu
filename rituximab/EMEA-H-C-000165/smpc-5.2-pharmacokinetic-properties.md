@@ -70,9 +70,9 @@ Trial BP22333 (SparkThera)
 A two-stage phase Ib trial to investigate the pharmacokinetics, safety and tolerability of MabThera subcutaneous formulation in patients with follicular lymphoma (FL) as part of maintenance treatment.
 In stage 2, MabThera subcutaneous formulation at a fixed dose of 1400 mg was administered as subcutaneous injection during maintenance treatment, after at least one cycle of MabThera intravenous formulation to FL patients who had previously responded to MabThera intravenous formulation in induction.
 
-The comparison of predicted median Cmax data for MabThera subcutaneous formulation and intravenous formulation are summarized in Table 6.
+The comparison of predicted median Cmax data for MabThera subcutaneous formulation and intravenous formulation are summarized in Table 7.
 
-Table 6: Trial BP22333 (SparkThera): Absorption - Pharmacokinetic parameters of MabThera SC compared to MabThera IV
+Table 7: Trial BP22333 (SparkThera): Absorption - Pharmacokinetic parameters of MabThera SC compared to MabThera IV
 
 MabThera MabThera
 subcutaneous intravenous
@@ -89,9 +89,8 @@ The serum rituximab Cmax at cycle 7 was similar between the two treatment arms, 
 
 Distribution/Elimination
 
-Geometric mean Ctrough and geometric mean AUCτ from the BPP22333 and BO22334 trials are summarized in Table 7.
-
-Table 7: Distribution/Elimination - Pharmacokinetic parameters of MabThera subcutaneous compared to MabThera intravenous
+Geometric mean Ctrough and geometric mean AUCτ from the BP22333 and BO22334 trials are summarized in Table 8.
+Table 8: Distribution/Elimination - Pharmacokinetic parameters of MabThera subcutaneous compared to MabThera intravenous
 
 Geometric Geometric Geometric Geometric
 mean Ctrough mean Ctrough mean AUCτ mean AUCτ
@@ -113,6 +112,7 @@ The estimated median terminal elimination half-life of MabThera subcutaneous for
 Twenty nine (0.48%) post-dose observations (all from trial BP22333) were below the quantification limit.
 There were no missing covariate values except baseline B-cell count.
 Baseline tumour load was available only in trial BO22334.
+
 Special populations
 
 | In clinical trial BO22334, an effect was observed between body size and exposure ratios reported in |  |  |  |

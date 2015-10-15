@@ -6,6 +6,7 @@ Summary of the safety profile
 
 The overall safety profile of MabThera in non-Hodgkin’s lymphoma and chronic lymphocytic leukaemia is based on data from patients from clinical trials and from post-marketing surveillance.
 These patients were treated either with MabThera monotherapy (as induction treatment or maintenance treatment following induction treatment) or in combination with chemotherapy.
+
 The most frequently observed adverse drug reactions (ADRs) in patients receiving MabThera were IRRs which occurred in the majority of patients during the first infusion.
 The incidence of infusion-related symptoms decreases substantially with subsequent infusions and is less than 1% after eight doses of MabThera.
 
@@ -305,7 +306,6 @@ Table 3 Adverse Drug Reactions occurring at 6-months in ≥ 5% of patients recei
 | Flushing | 5% |
 
 Selected adverse drug reactions
-
 Infusion related reactions
 IRRs in the GPA and MPA clinical trial were defined as any adverse event occurring within 24 hours of an infusion and considered to be infusion-related by investigators in the safety population.
 Ninety nine patients were treated with MabThera and 12% experienced at least one IRR.
@@ -430,16 +430,18 @@ The incidence of malignancy in MabThera treated patients in the granulomatosis w
 The information provided in this section pertains to the use of MabThera in oncology.
 For information related to the autoimmune indications, please refer to the SmPC of MabThera intravenous formulation.
 
-During the development programme, the safety profile of MabThera subcutaneous formulation was comparable to that of the intravenous formulation with the exception of local injection site reactions.
-Local injection site reactions were very common in patients receiving MabThera subcutaneous formulation in trials SparkThera (BP22333) and SABRINA (BO22334), reported in up to 50% of patients at some time during treatment.
-Symptoms included pain, swelling, induration, haemorrhage, erythema, pruritis and rash.
-All reactions seen following subcutaneous administration were mild or moderate, apart from one patient who experienced one episode of grade 3 injection site rash and one patient reported a grade 3 dry mouth.
-
+During the development program, the safety profile of MabThera subcutaneous formulation was comparable to that of the intravenous formulation with the exception of local cutaneous reactions.
+Local cutaneous reactions, including injection site reactions, were very common in patients receiving MabThera subcutaneous formulation.
+In the phase 3 SABRINA trial (BO22334), local cutaneous reactions were reported in up to 20% of patients receiving subcutaneous MabThera.
+The most common local cutaneous reactions in the MabThera subcutaneous arm were injection site erythema (13%), injection site pain (7%), and injection site oedema (4%).
+Events seen following subcutaneous administration were mild or moderate, apart from one patient who reported a local cutaneous reaction of Grade 3 intensity (injection site rash) following the first MabThera subcutaneous administration (Cycle 2).
+Local cutaneous reactions of any grade in the MabThera subcutaneous arm were most common during the first subcutaneous cycle (Cycle 2), followed by the second, and the incidence decreased with subsequent injections.
 Adverse reactions reported in MabThera subcutaneous formulation usage
 
-The risk of acute reactions associated with the subcutaneous formulation of MabThera was assessed in two open-label trials involving patients with follicular lymphoma during induction and maintenance (SABRINA BO22334) and during maintenance only (SparkThera BP22333).
-In trial BO22334, severe administration-related reactions (grade≥3) were reported in two patients following administration of MabThera subcutaneous formulation (one patient reporting grade 3 injection site rash, and one patient reporting grade 3 dry mouth), both occurring after induction cycle 2 i.e. the first MabThera subcutaneous formulation dose given to each patient.
-In trial BP22333, no severe administration-related reactions were reported.
+The risk of acute administration-related reactions associated with the subcutaneous formulation of MabThera was assessed in two open-label trials involving patients with follicular lymphoma during induction and maintenance (SABRINA BO22334) and during maintenance only (SparkThera BP22333).
+In SABRINA, severe administration-related reactions (grade≥3) were reported in two patients (2%) following administration of MabThera subcutaneous formulation.
+These events were Grade 3 injection site rash and dry mouth.
+In SparkThera, no severe administration-related reactions were reported.
 
 Adverse reactions reported in MabThera intravenous formulation usage
 

@@ -16,8 +16,8 @@ Chronic lymphocytic leukaemia (CLL)
 
 MabThera in combination with chemotherapy is indicated for the treatment of patients with previously untreated and relapsed/refractory chronic lymphocytic leukaemia.
 Only limited data are available on efficacy and safety for patients previously treated with monoclonal antibodies including MabThera or patients refractory to previous MabThera plus chemotherapy.
-
 See section 5.1 for further information.
+
 Rheumatoid arthritis
 
 MabThera in combination with methotrexate is indicated for the treatment of adult patients with severe active rheumatoid arthritis who have had an inadequate response or intolerance to other disease-modifying anti-rheumatic drugs (DMARD) including one or more tumour necrosis factor (TNF) inhibitor therapies.

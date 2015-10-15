@@ -108,6 +108,25 @@ First infusion
 The recommended initial rate for infusion is 50 mg/h; after the first 30 minutes, it can be escalated in 50 mg/h increments every 30 minutes, to a maximum of 400 mg/h.
 Subsequent infusions
 
+| All indications |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Subsequent doses of MabThera can be infused at an initial rate of 100 mg/h, and increased by |  |  |  |  |  |
+| 100 mg/h increments at 30 minute intervals, to a maximum of 400 mg/h. |  |  |  |  |  |
+| Rheumatoid arthritis only |  |  |  |  |  |
+| Alternative subsequent, faster, infusion schedule |  |  |  |  |  |
+| If patients did not experience a serious infusion related reaction with their first or subsequent |  |  |  |  |  |
+| infusions | of a dose of 1000 mg MabThera | administered over the standard infusion schedule, a more |  |  |  |
+| rapid infusion can be administered for second and subsequent infusions using |  |  |  | the same | concentration |
+| as in previous infusions (4 mg/mL in a 250 mL volume). |  |  | Initiate at a rate of 250mg/hour for the first |  |  |
+| 30 minutes and then 600 mg/hour for the next 90 minutes. If the more rapid infusion is tolerated, this |  |  |  |  |  |
+| infusion schedule can be used when administering subsequent infusions. |  |  |  |  |  |
+
+Patients who have clinically significant cardiovascular disease, including arrhythmias, or previous serious infusion reactions to any prior biologic therapy or to rituximab, should not be administered the more rapid infusion.
+
+[MabThera 500 mg concentrate for solution for infusion]
+
+Mild or moderate IRRs (section 4.8) usually respond to a reduction in the rate of infusion.
+
 All indications
 
 Subsequent doses of MabThera can be infused at an initial rate of 100 mg/h, and increased by 100 mg/h increments at 30 minute intervals, to a maximum of 400 mg/h.
@@ -119,12 +138,6 @@ Alternative subsequent, faster, infusion schedule
 If patients did not experience a serious infusion related reaction with their first or subsequent infusions of a dose of 1000 mg MabThera administered over the standard infusion schedule, a more rapid infusion can be administered for second and subsequent infusions using the same concentration as in previous infusions (4 mg/mL in a 250 mL volume).
 Initiate at a rate of 250mg/hour for the first 30 minutes and then 600 mg/hour for the next 90 minutes.
 If the more rapid infusion is tolerated, this infusion schedule can be used when administering subsequent infusions.
-
-Patients who have clinically significant cardiovascular disease, including arrhythmias, or previous serious infusion reactions to any prior biologic therapy or to rituximab, should not be administered the more rapid infusion.
-
-[MabThera 500 mg concentrate for solution for infusion]
-
-Mild or moderate IRRs (section 4.8) usually respond to a reduction in the rate of infusion.
 
 [MabThera 1400 mg solution for subcutaneous injection]
 
