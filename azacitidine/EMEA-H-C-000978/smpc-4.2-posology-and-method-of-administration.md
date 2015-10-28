@@ -14,6 +14,7 @@ Patients should be monitored for haematologic response/toxicity and renal toxici
 Laboratory tests
 Liver function tests, serum creatinine and serum bicarbonate should be determined prior to initiation of therapy and prior to each treatment cycle.
 Complete blood counts should be performed prior to initiation of therapy and as needed to monitor response and toxicity, but at a minimum, prior to each treatment cycle.
+
 Dose adjustment due to haematological toxicity
 Haematological toxicity is defined as the lowest count reached in a given cycle (nadir) if platelets
 ≤ 50.0 x 109/l and/or absolute neutrophil count (ANC) ≤ 1 x 109/l.
@@ -59,12 +60,12 @@ Elderly patients
 No specific dose adjustments are recommended for the elderly.
 Because elderly patients are more likely to have decreased renal function, it may be useful to monitor renal function.
 
-Renal impairment
+Patients with renal impairment
 Azacitidine can be administered to patients with renal impairment without initial dose adjustment (see section 5.2).
 If unexplained reductions in serum bicarbonate levels to less than 20 mmol/l occur, the dose should be reduced by 50 % on the next cycle.
 If unexplained elevations in serum creatinine or blood urea nitrogen (BUN) to ≥ 2-fold above baseline values and above upper limit of normal (ULN) occur, the next cycle should be delayed until values return to normal or baseline and the dose should be reduced by 50 % on the next treatment cycle (see section 4.4).
 
-Hepatic impairment
+Patients with hepatic impairment
 No formal studies have been conducted in patients with hepatic impairment (see section 4.4).
 Patients with severe hepatic organ impairment should be carefully monitored for adverse events.
 No specific modification to the starting dose is recommended for patients with hepatic impairment prior to starting treatment; subsequent dose modifications should be based on haematology laboratory values.

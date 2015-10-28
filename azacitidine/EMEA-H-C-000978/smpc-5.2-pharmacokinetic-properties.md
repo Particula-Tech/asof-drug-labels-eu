@@ -26,7 +26,6 @@ Following intravenous and subcutaneous administration of 14C-azacitidine, 85 and
 
 Special populations
 The effects of hepatic impairment (see section 4.2), gender, age, or race on the pharmacokinetics of azacitidine have not been formally studied.
-
 Renal impairment
 Renal impairment has no major effect on the pharmacokinetic exposure of azacitidine after single and multiple subcutaneous administrations.
 Following subcutaneous administration of a single 75 mg/m2 dose, mean exposure values (AUC and Cmax) from subjects with mild, moderate and severe renal impairment were increased by 11-21%, 15-27%, and 41-66%, respectively, compared to normal renal function subjects.

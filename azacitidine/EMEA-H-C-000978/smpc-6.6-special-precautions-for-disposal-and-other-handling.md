@@ -5,6 +5,7 @@ Vidaza is a cytotoxic medicinal product and, as with other potentially toxic com
 Procedures for proper handling and disposal of anticancer medicinal products should be applied.
 If reconstituted azacitidine comes into contact with the skin, immediately and thoroughly wash with soap and water.
 If it comes into contact with mucous membranes, flush thoroughly with water.
+
 Reconstitution procedure
 Vidaza should be reconstituted with water for injections.
 The shelf life of the reconstituted medicinal product can be extended by reconstituting with refrigerated (2 °C to 8 °C) water for injections.
