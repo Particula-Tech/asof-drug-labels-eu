@@ -21,12 +21,12 @@ Fingolimod and fingolimod phosphate are highly protein bound (>99%).
 Fingolimod is extensively distributed to body tissues with a volume of distribution of about 1,200±260 litres.
 A study in four healthy subjects who received a single intravenous dose of a radioiodolabelled analogue of fingolimod demonstrated that fingolimod penetrates into the brain.
 In a study in 13 male multiple sclerosis patients who received Gilenya 0.5 mg/day, the mean amount of fingolimod (and fingolimod phosphate) in seminal ejaculate, at steady-state, was approximately 10,000 times lower than the oral dose administered (0.5 mg).
-
 Biotransformation
 Fingolimod is transformed in humans by reversible stereoselective phosphorylation to the pharmacologically active (S)-enantiomer of fingolimod phosphate.
 Fingolimod is eliminated by oxidative biotransformation catalysed mainly via CYP4F2 and possibly other isoenzymes and subsequent fatty acid-like degradation to inactive metabolites.
 Formation of pharmacologically inactive non-polar ceramide analogues of fingolimod was also observed.
 The main enzyme involved in the metabolism of fingolimod is partially identified and may be either CYP4F2 or CYP3A4.
+
 Following single oral administration of [14C] fingolimod, the major fingolimod-related components in blood, as judged from their contribution to the AUC up to 34 days post dose of total radiolabelled components, are fingolimod itself (23%), fingolimod phosphate (10%), and inactive metabolites (M3 carboxylic acid metabolite (8%), M29 ceramide metabolite (9%) and M30 ceramide metabolite (7%)).
 
 Elimination

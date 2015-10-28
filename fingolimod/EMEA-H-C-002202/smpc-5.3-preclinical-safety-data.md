@@ -2,6 +2,7 @@
 
 The preclinical safety profile of fingolimod was assessed in mice, rats, dogs and monkeys.
 The major target organs were the lymphoid system (lymphopenia and lymphoid atrophy), lungs (increased weight, smooth muscle hypertrophy at the bronchio-alveolar junction), and heart (negative chronotropic effect, increase in blood pressure, perivascular changes and myocardial degeneration) in several species; blood vessels (vasculopathy) in rats only at doses of 0.15 mg/kg and higher in a 2-year study, representing an approximate 4-fold margin based on the human systemic exposure (AUC) at a daily dose of 0.5 mg.
+
 No evidence of carcinogenicity was observed in a 2-year bioassay in rats at oral doses of fingolimod up to the maximally tolerated dose of 2.5 mg/kg, representing an approximate 50-fold margin based on human systemic exposure (AUC) at the 0.5 mg dose.
 However, in a 2-year mouse study, an increased incidence of malignant lymphoma was seen at doses of 0.25 mg/kg and higher, representing an approximate 6-fold margin based on the human systemic exposure (AUC) at a daily dose of 0.5 mg.
 

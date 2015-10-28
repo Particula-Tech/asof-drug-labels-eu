@@ -10,7 +10,6 @@ However individual patients may not return to baseline heart rate by the end of 
 Conduction abnormalities were typically transient and asymptomatic.
 They usually did not require treatment and resolved within the first 24 hours on treatment.
 If necessary, the decrease in heart rate induced by fingolimod can be reversed by parenteral doses of atropine or isoprenaline.
-
 All patients should have an ECG and blood pressure measurement performed prior to and 6 hours after the first dose of Gilenya.
 All patients should be monitored for a period of 6 hours for signs and symptoms of bradycardia with hourly heart rate and blood pressure measurement.
 Continuous (real time) ECG monitoring during this 6 hour period is recommended.
@@ -30,13 +29,13 @@ If treatment is considered, advice from a cardiologist should be sought prior to
 Gilenya has not been studied in patients with arrhythmias requiring treatment with class Ia (e.g. quinidine, disopyramide) or class III (e.g. amiodarone, sotalol) antiarrhythmic medicinal products.
 Class Ia and class III antiarrhythmic medicinal products have been associated with cases of torsades de pointes in patients with bradycardia.
 Since initiation of Gilenya treatment results in decreased heart rate, Gilenya should not be used concomitantly with these medicinal products.
+
 Experience with Gilenya is limited in patients receiving concurrent therapy with beta blockers, heart-rate-lowering calcium channel blockers (such as verapamil, diltiazem or ivabradine), or other substances which may decrease heart rate (e.g. digoxin, anticholinesteratic agents or pilocarpine).
 Since the initiation of Gilenya treatment is also associated with slowing of the heart rate (see also section 4.8, Bradyarrhythmia), concomitant use of these substances during Gilenya initiation may be associated with severe bradycardia and heart block.
 Because of the potential additive effect on heart rate treatment with Gilenya should not be initiated in patients who are concurrently treated with these substances (see also section 4.5).
 In such patients, treatment with Gilenya should be considered only if the anticipated benefits outweigh the potential risks.
 If treatment with Gilenya is considered, advice from a cardiologist should be sought regarding the switch to non heart-rate lowering medicinal products prior to initiation of treatment.
 If the heart-rate-lowering medication cannot be stopped, cardiologist’s advice should be sought to determine appropriate first dose monitoring, at least overnight extended monitoring is recommended (see also section 4.5).
-
 The effects on heart rate and atrioventricular conduction may recur on re-introduction of Gilenya treatment depending on duration of the interruption and time since start of Gilenya treatment.
 The same first dose monitoring as for treatment initiation is recommended when treatment is interrupted for:
 
@@ -64,6 +63,7 @@ Assessments of CBC are also recommended periodically during treatment, at month 
 Absolute lymphocyte count <0.2x109/l, if confirmed, should lead to treatment interruption until recovery, because in clinical studies, fingolimod treatment was interrupted in patients with absolute lymphocyte count <0.2x109/l.
 
 Initiation of treatment with Gilenya should be delayed in patients with severe active infection until resolution.
+
 Patients need to be assessed for their immunity to varicella (chickenpox) prior to Gilenya treatment.
 It is recommended that patients without a health care professional confirmed history of chickenpox or documentation of a full course of vaccination with varicella vaccine undergo antibody testing to varicella zoster virus (VZV) before initiating Gilenya therapy.
 A full course of vaccination for antibody-negative patients with varicella vaccine is recommended prior to commencing treatment with Gilenya (see section 4.8).
@@ -74,7 +74,6 @@ Effective diagnostic and therapeutic strategies should be employed in patients w
 During treatment, patients receiving Gilenya should be instructed to report symptoms of infection to their physician.
 
 Suspension of Gilenya should be considered if a patient develops a serious infection and consideration of benefit-risk should be undertaken prior to re-initiation of therapy.
-
 Isolated cases of cryptococcal meningitis (a fungal infection) have been reported in the post-marketing setting (see section 4.8).
 Patients with symptoms and signs consistent with cryptococcal meningitis (e.g. headache accompanied by mental changes such as confusion, hallucinations, and/or personality changes) should undergo prompt diagnostic evaluation.
 If cryptococcal meningitis is diagnosed, fingolimod should be suspended and appropriate treatment should be initiated.
@@ -95,6 +94,7 @@ It is recommended that multiple sclerosis patients with diabetes mellitus or a h
 Continuation of Gilenya in patients with macular oedema has not been evaluated.
 It is recommended that Gilenya be discontinued if a patient develops macular oedema.
 A decision on whether or not Gilenya therapy should be re-initiated after resolution of macular oedema needs to take into account the potential benefits and risks for the individual patient.
+
 Liver function
 Increased hepatic enzymes, in particular alanine aminotransaminase (ALT) but also gamma glutamyltransferase (GGT) and aspartate transaminase (AST) have been reported in multiple sclerosis patients treated with Gilenya.
 In clinical trials, elevations 3-fold the upper limit of normal (ULN) or greater in ALT occurred in 8.0% of patients treated with fingolimod 0.5 mg compared to 1.9% of placebo patients.
@@ -112,7 +112,6 @@ Recent (i.e. within last 6 months) transaminase and bilirubin levels should be a
 In the absence of clinical symptoms, liver transaminases should be monitored at Months 1, 3, 6, 9 and 12 on therapy and periodically thereafter.
 If liver transaminases rise above 5 times the ULN, more frequent monitoring should be instituted, including serum bilirubin and alkaline phosphatase (ALP) measurement.
 With repeated confirmation of liver transaminases above 5 times the ULN, treatment with Gilenya should be interrupted and only re-commenced once liver transaminase values have normalised.
-
 Patients who develop symptoms suggestive of hepatic dysfunction, such as unexplained nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine, should have liver enzymes checked and Gilenya should be discontinued if significant liver injury is confirmed (for example liver transaminase levels greater than 5-fold the ULN and/or serum bilirubin elevations).
 Resumption of therapy will be dependent on whether or not another cause of liver injury is determined and on the benefits to patient of resuming therapy versus the risks of recurrence of liver dysfunction.
 
@@ -128,6 +127,7 @@ Patients with hypertension uncontrolled by medication were excluded from partici
 In MS clinical trials, patients treated with fingolimod 0.5 mg had an average increase of approximately 3 mmHg in systolic pressure, and approximately 1 mmHg in diastolic pressure, first detected approximately 1 month after treatment initiation, and persisting with continued treatment.
 In the two-year placebo-controlled study, hypertension was reported as an adverse event in 6.5% of patients on fingolimod 0.5 mg and in 3.3% of patients on placebo.
 Therefore, blood pressure should be regularly monitored during treatment with Gilenya.
+
 Respiratory effects
 Minor dose-dependent reductions in values for forced expiratory volume (FEV1) and diffusion capacity for carbon monoxide (DLCO) were observed with Gilenya treatment starting at Month 1 and remaining stable thereafter.
 Gilenya should be used with caution in patients with severe respiratory disease, pulmonary fibrosis and chronic obstructive pulmonary disease (see also section 4.8).
@@ -147,7 +147,6 @@ A CBC is recommended prior to initiating Gilenya to ensure that immune effects o
 Gilenya can generally be started immediately after discontinuation of interferon or glatiramer acetate.
 
 For dimethyl fumarate, the washout period should be sufficient for CBC to recover before treatment with Gilenya is started.
-
 Due to the long half-life of natalizumab, elimination usually takes up to 2-3 months following discontinuation.
 Teriflunomide is also eliminated slowly from the plasma.
 Without an accelerated elimination procedure, clearance of teriflunomide from plasma can take from several months up to 2 years.

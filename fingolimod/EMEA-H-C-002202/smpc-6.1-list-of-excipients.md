@@ -8,6 +8,7 @@ Capsule shell:
 Yellow iron oxide (E172)
 Titanium dioxide (E171)
 Gelatin
+
 Printing ink:
 Shellac (E904)
 Dehydrated alcohol

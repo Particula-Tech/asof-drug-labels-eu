@@ -18,6 +18,5 @@ There are no data on the effects of fingolimod on labour and delivery.
 Breast-feeding
 Fingolimod is excreted in milk of treated animals during lactation at concentrations 2-3-fold higher than that found in maternal plasma (see section 5.3).
 Due to the potential for serious adverse reactions to fingolimod in nursing infants, women receiving Gilenya should not breastfeed.
-
 Fertility
 Data from preclinical studies do not suggest that fingolimod would be associated with an increased risk of reduced fertility (see section 5.3).

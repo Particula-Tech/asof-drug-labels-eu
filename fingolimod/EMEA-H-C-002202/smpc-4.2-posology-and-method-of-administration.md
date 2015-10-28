@@ -13,7 +13,6 @@ The same first dose monitoring as for treatment initiation is recommended when t
 - more than 2 weeks after one month of treatment.
 
 If the treatment interruption is of shorter duration than the above, the treatment should be continued with the next dose as planned (see section 4.4).
-
 Special populations
 Elderly population
 Gilenya should be used with caution in patients aged 65 years and over due to insufficient data on safety and efficacy (see section 5.2).
