@@ -19,6 +19,7 @@ No teratogenic effects were observed in rats or rabbits at maternally toxic dose
 In pregnant rabbits, gross lesions of the stomach and intestines were observed in dead or moribund does at maternal doses 2 and 4 times the highest dose administered in the definitive embryo-development study.
 In the pre- and postnatal development assessment in rats, atazanavir produced a transient reduction in body weight in the offspring at a maternally toxic dose.
 Systemic exposure to atazanavir at doses that resulted in maternal toxicity was at least equal to or slightly greater than that observed in humans given 400 mg once daily.
+
 Atazanavir was negative in an Ames reverse-mutation assay but did induce chromosomal aberrations in vitro in both the absence and presence of metabolic activation.
 In in vivo studies in rats, atazanavir did not induce micronuclei in bone marrow, DNA damage in duodenum (comet assay), or unscheduled DNA repair in liver at plasma and tissue concentrations exceeding those that were clastogenic in vitro.
 

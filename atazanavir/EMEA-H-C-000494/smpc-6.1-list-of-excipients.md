@@ -1,37 +1,34 @@
 # 6.1 List of excipients
 
+REYATAZ 100 mg hard capsules
 Capsule contents:
-Crospovidone
-Lactose monohydrate
-Magnesium stearate
+crospovidone, lactose monohydrate and magnesium stearate
 
 Capsule shells:
-Gelatine
-Indigocarmin (E132)
-Titanium dioxide (E171)
+gelatine, indigocarmin (E132) and titanium dioxide (E171)
 
-Blue ink containing:
-Shellac
-Propylene glycol
-Ammonium hydroxide
-Indigocarmin (E132)
-White ink containing:
-Shellac
-Titanium dioxide (E171)
-Ammonium hydroxide
-Propylene glycol
-Simethicone
+Blue ink containing: shellac, propylene glycol, ammonium hydroxide and indigocarmin (E132)
 
-[REYATAZ 150 mg hard capsules]
+White ink containing: shellac, titanium dioxide (E171), ammonium hydroxide, propylene glycol and simethicone
+REYATAZ 150 mg hard capsules
+Capsule contents: crospovidone, lactose monohydrate and magnesium stearate
 
-(all sentences already above)
+Capsule shells: gelatine, indigocarmin (E132) and titanium dioxide (E171)
 
-[REYATAZ 200 mg hard capsules]
+Blue ink containing: shellac, propylene glycol, ammonium hydroxide and indigocarmin (E132)
 
-(all sentences already above)
+White ink containing: shellac, titanium dioxide (E171), ammonium hydroxide, propylene glycol and simethicone
 
-[REYATAZ 300 mg hard capsules]
+REYATAZ 200mg hard capsules
+Capsule contents: crospovidone, lactose monohydrate and magnesium stearate
 
-Red iron oxide
-Black iron oxide
-Yellow iron oxide
+Capsule shells: gelatine, indigocarmin (E132) and titanium dioxide (E171)
+
+White ink containing: shellac, titanium dioxide (E171), ammonium hydroxide, propylene glycol and simethicone
+
+REYATAZ 300 mg hard capsules
+Capsule contents: crospovidone, lactose monohydrate and magnesium stearate
+
+Capsule shells: gelatine, red iron oxide, black iron oxide, yellow iron oxide, indigocarmin (E132) and titanium dioxide (E171)
+
+White ink containing: shellac, titanium dioxide (E171), ammonium hydroxide, propylene glycol and simethicone

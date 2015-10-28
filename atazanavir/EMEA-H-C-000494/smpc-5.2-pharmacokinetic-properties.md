@@ -6,6 +6,9 @@ The pharmacokinetics of atazanavir exhibit a non-linear disposition.
 Absorption: in HIV-infected patients (n=33, combined studies), multiple dosing of REYATAZ 300 mg once daily with ritonavir 100 mg once daily with food produced a geometric mean (CV%) for atazanavir, Cmax of 4466 (42%) ng/ml, with time to Cmax of approximately 2.5 hours.
 The geometric mean (CV%) for atazanavir Cmin and AUC was 654 (76%) ng/ml and 44185 (51%) ng•h/ml, respectively.
 
+In HIV-infected patients (n=13), multiple dosing of REYATAZ 400 mg (without ritonavir) once daily with food produced a geometric mean (CV%) for atazanavir Cmax of 2298 (71) ng/ml, with time to Cmax of approximately 2.0 hours.
+The geometric mean (CV%) for atazanavir Cmin and AUC were 120 (109) ng/ml and 14874 (91) ng•h/ml, respectively.
+
 Food effect: co-administration of REYATAZ and ritonavir with food optimises the bioavailability of atazanavir.
 Co-administration of a single 300 mg dose of REYATAZ and 100 mg dose of ritonavir with a light meal resulted in a 33% increase in the AUC and a 40% increase in both the Cmax and the 24 hour concentration of atazanavir relative to the fasting state.
 Co-administration with a high-fat meal did not affect the AUC of atazanavir relative to fasting conditions and the Cmax was within 11% of fasting values.
@@ -38,6 +41,10 @@ The mechanism of this decrease is unknown.
 (See sections 4.2 and 4.4.)
 
 Hepatic impairment: atazanavir is metabolised and eliminated primarily by the liver.
+REYATAZ (without ritonavir) has been studied in adult subjects with moderate-to-severe hepatic impairment
+(14 Child-Pugh Class B and 2 Child-Pugh Class C subjects) after a single 400 mg dose.
+The mean AUC(0-∞) was 42% greater in subjects with impaired hepatic function than in healthy subjects.
+The mean half-life of atazanavir in hepatically impaired subjects was 12.1 hours compared to 6.4 hours in healthy subjects.
 The effects of hepatic impairment on the pharmacokinetics of atazanavir after a 300 mg dose with ritonavir have not been studied.
 Concentrations of atazanavir with or without ritonavir are expected to be increased in patients with moderately or severely impaired hepatic function (see sections 4.2, 4.3, and 4.4).
 

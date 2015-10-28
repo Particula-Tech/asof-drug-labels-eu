@@ -1,10 +1,9 @@
 # 4.8 Undesirable effects
 
 a. Summary of the safety profile
-REYATAZ has been evaluated for safety in combination therapy with other antiretroviral medicinal products in controlled clinical trials in 1,806 adult patients receiving REYATAZ 400 mg once daily (1,151 patients, 52 weeks median duration and 152 weeks maximum duration) or REYATAZ 300 mg with ritonavir 100 mg once daily (655 patients, 96°weeks median duration and 108 weeks maximum duration).
+REYATAZ has been evaluated for safety in combination therapy with other antiretroviral medicinal products in controlled clinical trials in 1,806 adult patients receiving REYATAZ 400 mg once daily (1,151 patients, 52 weeks median duration and 152 weeks maximum duration) or REYATAZ 300 mg with ritonavir 100 mg once daily (655 patients, 96 weeks median duration and 108 weeks maximum duration).
 
 Adverse reactions were consistent between patients who received REYATAZ 400 mg once daily and patients who received REYATAZ 300 mg with ritonavir 100 mg once daily, except that jaundice and elevated total bilirubin levels were reported more frequently with REYATAZ plus ritonavir.
-
 Among patients who received REYATAZ 400 mg once daily or REYATAZ 300 mg with ritonavir 100 mg once daily, the only adverse reactions of any severity reported very commonly with at least a possible relationship to regimens containing REYATAZ and one or more NRTIs were nausea (20%), diarrhoea (10%), and jaundice (13%).
 Among patients receiving REYATAZ 300 mg with ritonavir 100 mg, the frequency of jaundice was 19%.
 In the majority of cases, jaundice was reported within a few days to a few months after the initiation of treatment (see section 4.4).
@@ -72,6 +71,7 @@ b See section c. Description of selected adverse reactions for more details.
 c. Description of selected adverse reactions
 In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise.
 Autoimmune disorders (such as Graves' disease) have also been reported; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
+
 Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to combination antiretroviral therapy (CART).
 The frequency of this is unknown (see section 4.4).
 
@@ -91,7 +91,6 @@ Among experienced patients treated with REYATAZ 300 mg once daily with 100 mg ri
 Among naive patients treated with REYATAZ 300 mg once daily with 100 mg ritonavir once daily for a median duration of 96 weeks, 48% had Grade 3-4 total bilirubin elevations (see section 4.4).
 
 Other marked clinical laboratory abnormalities (Grade 3 or 4) reported in ≥ 2% of patients receiving regimens containing REYATAZ and one or more NRTIs included: elevated creatine kinase (7%), elevated alanine aminotransferase/serum glutamic-pyruvic transaminase (ALT/SGPT) (5%), low neutrophils (5%), elevated aspartate aminotransferase/serum glutamic-oxaloacetic transaminase (AST/SGOT) (3%), and elevated lipase (3%).
-
 Two percent of patients treated with REYATAZ experienced concurrent Grade 3-4 ALT/AST and Grade 3-4 total bilirubin elevations.
 
 d. Paediatric population

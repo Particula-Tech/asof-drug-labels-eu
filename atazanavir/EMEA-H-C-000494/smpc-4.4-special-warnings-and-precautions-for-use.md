@@ -19,7 +19,7 @@ Patients with pre-existing liver dysfunction, including chronic active hepatitis
 If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered.
 
 Renal impairment: No dosage adjustment is needed in patients with renal impairment.
-However, REYATAZ with ritonavir is not recommended in patients undergoing haemodialysis (see sections 4.2 and 5.2).
+However, REYATAZ is not recommended in patients undergoing haemodialysis (see sections 4.2 and 5.2).
 
 QT prolongation: Dose related asymptomatic prolongations in PR interval with REYATAZ have been observed in clinical studies.
 Caution should be used with medicinal products known to induce PR prolongations.
@@ -63,6 +63,18 @@ Dose reduction of atazanavir is not recommended because it may result in a loss 
 
 Indinavir is also associated with indirect (unconjugated) hyperbilirubinaemia due to inhibition of UGT.
 Combinations of REYATAZ and indinavir have not been studied and co-administration of these medicinal products is not recommended (see section 4.5).
+
+Withdrawal of ritonavir only under restrictive conditions
+The recommended standard treatment is REYATAZ boosted with ritonavir, ensuring optimal pharmacokinetic parameters and level of virologic suppression.
+The withdrawal of ritonavir from the boosted regimen of REYATAZ is not recommended, but may be considered in adults patients at the dose of 400 mg once daily with food only under the following combined restrictive conditions:
+
+- absence of prior virologic failure
+- undetectable viral load during the last 6 months under current regimen
+- viral strains not harbouring HIV resistance associated mutations (RAMs) to current regimen.
+
+REYATAZ given without ritonavir should not be considered in patients treated with a backbone regimen containing tenofovir disoproxil fumarate and with other concomitant medications that reduce atazanavir bioavailability (see section 4.5 In case of withdrawal of ritonavir from the recommended atazanavir boosted regimen) or in case of perceived challenging compliance.
+
+REYATAZ given without ritonavir should not be used in pregnant patients given that it could result of suboptimal exposure of particular concern for the mother infection and vertical transmission.
 Cholelithiasis
 Cholelithiasis has been reported in patients receiving REYATAZ (see section 4.8).
 Some patients required hospitalization for additional management and some had complications.
@@ -102,9 +114,9 @@ Co-administration of REYATAZ with nevirapine or efavirenz is not recommended (se
 If the co-administration of REYATAZ with an NNRTI is required, an increase in the dose of both REYATAZ and ritonavir to 400 mg and 200 mg, respectively, in combination with efavirenz could be considered with close clinical monitoring.
 
 Atazanavir is metabolised principally by CYP3A4.
-Co-administration of REYATAZ with ritonavir and medicinal products that induce CYP3A4 is not recommended (see sections 4.3 and 4.5).
+Co-administration of REYATAZ and medicinal products that induce CYP3A4 is not recommended (see sections 4.3 and 4.5).
 
-PDE5 inhibitors used for the treatment of erectile dysfunction: particular caution should be used when prescribing PDE5-inhibitors (sildenafil, tadalafil, or vardenafil) for the treatment of erectile dysfunction in patients receiving REYATAZ with concomitant low-dose ritonavir.
+PDE5 inhibitors used for the treatment of erectile dysfunction: particular caution should be used when prescribing PDE5-inhibitors (sildenafil, tadalafil, or vardenafil) for the treatment of erectile dysfunction in patients receiving REYATAZ.
 Co-administration of REYATAZ with these medicinal products is expected to substantially increase their concentrations and may result in PDE5-associated adverse events such as hypotension, visual changes and priapism (see section 4.5).
 
 Co-administration of voriconazole and REYATAZ with ritonavir is not recommended, unless an assessment of the benefit/risk justifies the use of voriconazole.
@@ -115,15 +127,16 @@ In a small number of patients without a functional CYP2C19 allele, significantly
 Concomitant use of REYATAZ/ritonavir and fluticasone or other glucocorticoids that are metabolized by CYP3A4 is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects, including Cushing's syndrome and adrenal suppression
 (see section 4.5).
 
-Concomitant use of salmeterol and REYATAZ/ritonavir may result in increased cardiovascular adverse events associated with salmeterol.
-Co-administration of salmeterol and REYATAZ is not recommended (see section 4.5).
+Concomitant use of salmeterol and REYATAZ may result in increased cardiovascular adverse events associated with salmeterol.
+Co-administration of salmeterol and REYATAZ is not recommended
+(see section 4.5).
 
 The absorption of atazanavir may be reduced in situations where gastric pH is increased irrespective of cause.
 
 Co-administration of REYATAZ with proton pump inhibitors is not recommended (see section 4.5).
 If the combination of REYATAZ with a proton pump inhibitor is judged unavoidable, close clinical monitoring is recommended in combination with an increase in the dose of REYATAZ to 400 mg with 100 mg of ritonavir; doses of proton pump inhibitors comparable to omeprazole 20 mg should not be exceeded.
 
-Co-administration of REYATAZ/ritonavir with other hormonal contraceptives or oral contraceptives containing progestogens other than norgestimate has not been studied, and therefore should be avoided (see section 4.5).
+Co-administration of REYATAZ with other hormonal contraceptives or oral contraceptives containing progestogens other than norgestimate or norethindrone has not been studied, and therefore should be avoided (see section 4.5).
 
 Lactose
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
@@ -138,4 +151,4 @@ Cardiac monitoring is recommended based on the presence of clinical findings (e.
 
 Efficacy
 Atazanavir/ritonavir is not effective in viral strains harbouring multiple mutations of resistance.
-While in adults no benefit can be expected in patients with ≥4 PI mutations, in treatment experienced children even lower numbers of PI mutations may be predictive of a lack of benefit (see section 5.1).
+While in adults no benefit can be expected in patients with ≥ 4 PI mutations, in treatment experienced children even lower numbers of PI mutations may be predictive of a lack of benefit (see section 5.1).

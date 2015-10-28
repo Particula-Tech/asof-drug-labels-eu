@@ -2,8 +2,9 @@
 
 Pregnancy
 A moderate amount of data in pregnant women (between 300-1000) pregnancy outcomes) indicate no malformative toxicity of atazanavir.
-Animal studies do not indicate reproductive toxicity (see section 5.3).
-The use of REYATAZ may be considered during pregnancy only if the potential benefit justifies the potential risk.
+Animal studies do not indicate reproductive toxicity
+(see section 5.3).
+The use of REYATAZ with ritonavir may be considered during pregnancy only if the potential benefit justifies the potential risk.
 
 In clinical trial AI424-182 REYATAZ/ritonavir (300/100 mg or 400/100 mg) in combination with zidovudine/lamivudine was administered to 41 pregnant women during the second or third trimester.
 Six of 20 (30%) women on REYATAZ/ritonavir 300/100 mg and 13 of 21 (62%) women on REYATAZ/ritonavir 400/100 mg experienced grades 3 to 4 hyperbilirubinaemia.
@@ -16,7 +17,7 @@ There were no reported cases of kernicterus in neonates.
 
 For dosing recommendations see section 4.2 and for pharmacokinetic data see section 5.2.
 
-It is not known whether REYATAZ administered to the mother during pregnancy will exacerbate physiological hyperbilirubinaemia and lead to kernicterus in neonates and infants.
+It is not known whether REYATAZ with ritonavir administered to the mother during pregnancy will exacerbate physiological hyperbilirubinaemia and lead to kernicterus in neonates and infants.
 In the prepartum period, additional monitoring should be considered.
 
 Breast-feeding

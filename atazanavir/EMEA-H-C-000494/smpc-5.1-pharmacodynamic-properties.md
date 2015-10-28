@@ -4,7 +4,6 @@ Pharmacotherapeutic group: protease inhibitor, ATC code: J05AE08
 
 Mechanism of action: atazanavir is an azapeptide HIV-1 protease inhibitor (PI).
 The compound selectively inhibits the virus-specific processing of viral Gag-Pol proteins in HIV-1 infected cells, thus preventing formation of mature virions and infection of other cells.
-
 Antiviral activity in vitro: atazanavir exhibits anti-HIV-1 (including all clades tested) and anti-HIV-2 activity in cell culture.
 
 Resistance
@@ -23,6 +22,7 @@ Frequency de novo PI substitution (n=26)a
 10-20% none
 
 a Number of patients with paired genotypes classified as virological failures (HIV RNA ≥ 400 copies/ml).
+
 The M184I/V substitution emerged in 5/26 REYATAZ/ritonavir and 7/26 lopinavir/ritonavir virologic failure patients, respectively.
 
 Antiretroviral treatment experienced adult patients
@@ -47,10 +47,10 @@ The resistance in antiretroviral treatment experienced patients mainly occurs by
 Clinical results
 In antiretroviral naive adult patients
 Study 138 is an international randomised, open-label, multicenter, prospective trial of treatment naïve patients comparing REYATAZ/ritonavir (300 mg/100 mg once daily) to lopinavir/ritonavir
-(400 mg/100 mg twice daily), each in combination with fixed dose tenofovir/emtricitabine
-(300 mg/200 mg tablets once daily).
+(400 mg/100 mg twice daily), each in combination with fixed dose tenofovir disoproxil fumarate/emtricitabine (300 mg/200 mg tablets once daily).
 The REYATAZ/ritonavir arm showed similar (non-inferior) antiviral efficacy compared to the lopinavir/ritonavir arm, as assessed by the proportion of patients with HIV RNA < 50 copies/ml at week 48 (Table 5).
 Analyses of data through 96 weeks of treatment demonstrated durability of antiviral activity (Table 5).
+
 Table 5: Efficacy Outcomes in Study 138 a
 
 | Parameter | REYATAZ/ritonavirb (300 mg/100 mg once daily) n=440 |  | Lopinavir/ritonavirc (400 mg/100 mg twice daily) n=443 |  |
@@ -76,20 +76,33 @@ Table 5: Efficacy Outcomes in Study 138 a
 | HIV RNA <100,000 copies/ml | 179 (n=183) | 243 (n=163) | 194 (n=183) | 267 (n=152) |
 | ≥100,000 copies/ml | 227 (n=187) | 291 (n=173) | 245 (n=180) | 310 (n=165) |
 
-a Mean baseline CD4 cell count was 214 cells/mm3 (range 2 to 810 cells/mm3) and mean baseline plasma HIV-1 RNA was 4.94 log10 copies/ml (range 2.6 to 5.88 log10 copies/ml) b REYATAZ/RTV with tenofovir/emtricitabine (fixed dose 300 mg/200 mg tablets once daily).
-c Lopinavir/RTV with tenofovir/emtricitabine (fixed dose 300 mg/200 mg tablets once daily).
+a Mean baseline CD4 cell count was 214 cells/mm3 (range 2 to 810 cells/mm3) and mean baseline plasma HIV-1 RNA was 4.94 log10 copies/ml (range 2.6 to 5.88 log10 copies/ml) b REYATAZ/RTV with tenofovir disoproxil fumarate/emtricitabine (fixed dose 300 mg/200 mg tablets once daily).
+c Lopinavir/RTV with tenofovir disoproxil fumarate/emtricitabine (fixed dose 300 mg/200 mg tablets once daily).
 d Intent-to-treat analysis, with missing values considered as failures.
 e Per protocol analysis: Excluding non-completers and patients with major protocol deviations.
 f Number of patients evaluable.
 
+Data on withdrawal of ritonavir from atazanavir boosted regimen (see also section 4.4)
+Study 136 (INDUMA)
+In an open-label, randomised, comparative study following a 26- to 30-week induction phase with REYATAZ 300 mg + ritonavir 100 mg once daily and two NRTIs, unboosted REYATAZ 400 mg once daily and two NRTIs administered during a 48-week maintenance phase (n=87) had similar antiviral efficacy compared with REYATAZ + ritonavir and two NRTIs (n=85) in HIV infected subjects with fully suppressed HIV replication, as assessed by the proportion of subjects with
+HIV RNA < 50 copies/ml: 78% of subjects on unboosted REYATAZ and two NRTIs compared with 75% on REYATAZ + ritonavir and two NRTIs.
+
+Eleven subjects (13%) in the unboosted REYATAZ group and 6 (7%) in the REYATAZ + ritonavir group, had virologic rebound.
+Four subjects in the unboosted REYATAZ group and 2 in the REYATAZ + ritonavir group had HIV RNA > 500 copies/ml during the maintenance phase.
+No subject in either group showed emergence of protease inhibitor resistance.
+The M184V substitution in reverse transcriptase, which confers resistance to lamivudine and emtricitabine, was detected in 2 subjects in the unboosted REYATAZ and 1 subject in the REYATAZ + ritonavir group.
+There were fewer treatment discontinuations in the unboosted REYATAZ group (1 vs. 4 subjects in the REYATAZ + ritonavir group).
+There was less hyperbilirubinaemia and jaundice in the unboosted REYATAZ group compared with the REYATAZ + ritonavir group (18 and 28 subjects, respectively).
+
 In antiretroviral experienced adult patients
-Study 045 is a randomised, multicenter trial comparing REYATAZ/ritonavir (300/100 mg once daily) and REYATAZ/saquinavir (400/1,200 mg once daily), to lopinavir + ritonavir (400/100 mg fixed dose combination twice daily), each in combination with tenofovir (see sections 4.5 and 4.8) and one NRTI, in patients with virologic failure on two or more prior regimens containing at least one PI, NRTI, and NNRTI.
+Study 045 is a randomised, multicenter trial comparing REYATAZ/ritonavir (300/100 mg once daily) and REYATAZ/saquinavir (400/1,200 mg once daily), to lopinavir + ritonavir (400/100 mg fixed dose combination twice daily), each in combination with tenofovir disoproxil fumarate (see sections 4.5 and 4.8) and one NRTI, in patients with virologic failure on two or more prior regimens containing at least one PI, NRTI, and NNRTI.
 For randomised patients, the mean time of prior antiretroviral exposure was 138 weeks for PIs, 281 weeks for NRTIs, and 85 weeks for NNRTIs.
 At baseline, 34% of patients were receiving a PI and 60% were receiving an NNRTI.
 Fifteen of 120 (13%) patients in the REYATAZ + ritonavir treatment arm and 17 of 123 (14%) patients in the lopinavir + ritonavir arm had four or more of the PI substitutions L10, M46, I54, V82, I84, and L90.
 Thirty-two percent of patients in the study had a viral strain with fewer than two NRTI substitutions.
 
 The primary endpoint was the time-averaged difference in change from baseline in HIV RNA through 48 weeks (Table 6).
+
 Table 6: Efficacy Outcomes at Week 48a and at Week 96 (Study 045)
 
 | Parameter | ATV/RTVb (300 mg/ 100 mg once daily) n=120 |  | LPV/RTVc (400 mg/ 100 mg twice daily) n=123 |  | Time-averaged difference ATV/RTV-LPV/RTV [97.5% CId] |  |
@@ -107,8 +120,8 @@ Table 6: Efficacy Outcomes at Week 48a and at Week 96 (Study 045)
 | All patients | 110 (n=83) | 122 (n=60) | 121 (n=94) | 154 (n=60) | NA | NA |
 
 a The mean baseline CD4 cell count was 337 cells/mm3 (range: 14 to 1,543 cells/mm3) and the mean baseline plasma HIV-1 RNA level was 4.4 log10 copies/ml (range: 2.6 to 5.88 log10 copies/ml).
-b ATV/RTV with tenofovir/emtricitabine (fixed dose 300 mg/200 mg tablets once daily).
-c LPV/RTV with tenofovir/emtricitabine (fixed dose 300 mg/200 mg tablets once daily).
+b ATV/RTV with tenofovir disoproxil fumarate/emtricitabine (fixed dose 300 mg/200 mg tablets once daily).
+c LPV/RTV with tenofovir disoproxil fumarate/emtricitabine (fixed dose 300 mg/200 mg tablets once daily).
 d Confidence interval.
 e Number of patients evaluable.
 f Intent-to-treat analysis, with missing values considered as failures.
@@ -138,7 +151,8 @@ Efficacy data observed in the 41 paediatric patients aged 6 years to less than 1
 For treatment-naive paediatric patients, the mean baseline CD4 cell count was 344 cells/mm3 (range: 2 to 800 cells/ mm3) and mean baseline plasma HIV 1 RNA was 4.67 log10 copies/ml (range: 3.70 to 5.00 log10 copies/ml).
 For treatment-experienced paediatric patients, the mean baseline CD4 cell count was 522 cells/mm3 (range: 100 to 1157 cells/ mm3) and mean baseline plasma HIV 1 RNA was 4.09 log10 copies/ml (range: 3.28 to 5.00 log10 copies/ml).
 
-Table 7: Efficacy Outcomes (paediatric patients 6 years to less than 18 years of age) at Week 48 (Study PACTG 1020A)
+Table 7: Efficacy Outcomes (paediatric patients 6 years to less than 18 years of age) at
+Week 48 (Study PACTG 1020A)
 
 | Parameter | Treatment-Naive REYATAZ Capsules/ritonavir (300 mg/100 mg once daily) n=16 | Treatment-Experienced REYATAZ Capsules/ritonavir (300 mg/100 mg once daily) n=25 |
 | --- | --- | --- |
