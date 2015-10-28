@@ -3,7 +3,7 @@
 Nivolumab is associated with immune-related adverse reactions.
 Patients should be monitored continuously (at least up to 5 months after the last dose) as an adverse reaction with nivolumab may occur at any time during or after discontinuation of nivolumab therapy.
 
-For suspected immune related adverse reactions, adequate evaluation should be performed to confirm aetiology or exclude other causes.
+For suspected immune-related adverse reactions, adequate evaluation should be performed to confirm aetiology or exclude other causes.
 Based on the severity of the adverse reaction, nivolumab should be withheld and corticosteroids administered.
 If immunosuppression with corticosteroids is used to treat an adverse reaction, a taper of at least 1 month duration should be initiated upon improvement.
 Rapid tapering may lead to worsening of the adverse reaction.
@@ -12,8 +12,7 @@ Non-corticosteroid immunosuppressive therapy should be added if there is worseni
 Nivolumab should not be resumed while the patient is receiving immunosuppressive doses of corticosteroids or other immunosuppressive therapy.
 Prophylactic antibiotics should be used to prevent opportunistic infections in patients receiving immunosuppressive therapy.
 
-Nivolumab must be permanently discontinued for any severe immune related adverse reaction that recurs and for any life threatening immune related adverse reaction.
-
+Nivolumab must be permanently discontinued for any severe immune-related adverse reaction that recurs and for any life threatening immune-related adverse reaction.
 Use of nivolumab in melanoma patients with rapidly progressing disease
 Physicians should consider the delayed onset of nivolumab effect before initiating treatment in patients with rapidly progressing disease (see section 5.1).
 
@@ -21,6 +20,7 @@ Immune-related pneumonitis
 Severe pneumonitis or interstitial lung disease, including fatal cases, has been observed with nivolumab treatment (see section 4.8).
 Patients should be monitored for signs and symptoms of pneumonitis such as radiographic changes (e.g., focal ground glass opacities, patchy filtrates), dyspnoea, and hypoxia.
 Infectious and disease-related aetiologies should be ruled out.
+
 For Grade 3 or 4 pneumonitis, nivolumab must be permanently discontinued, and corticosteroids should be initiated at a dose of 2 to 4 mg/kg/day methylprednisolone equivalents.
 
 For Grade 2 (symptomatic) pneumonitis, nivolumab should be withheld and corticosteroids initiated at a dose of 1 mg/kg/day methylprednisolone equivalents.
@@ -54,7 +54,6 @@ For Grade 2 transaminase or total bilirubin elevation, nivolumab should be withh
 Persistent elevations in these laboratory values should be managed with corticosteroids at a dose of 0.5 to 1 mg/kg/day methylprednisolone equivalents.
 Upon improvement, nivolumab may be resumed after corticosteroid taper, if needed.
 If worsening or no improvement occurs despite initiation of corticosteroids, corticosteroid dose should be increased to 1 to 2 mg/kg/day methylprednisolone equivalents and nivolumab must be permanently discontinued.
-
 Immune-related nephritis or renal dysfunction
 Severe nephritis or renal dysfunction has been observed with nivolumab treatment (see section 4.8).
 Patients should be monitored for signs and symptoms of nephritis and renal dysfunction.
@@ -67,8 +66,8 @@ For Grade 2 or 3 serum creatinine elevation, nivolumab should be withheld, and c
 Upon improvement, nivolumab may be resumed after corticosteroid taper.
 If worsening or no improvement occurs despite initiation of corticosteroids, corticosteroid dose should be increased to 1 to 2 mg/kg/day methylprednisolone equivalents, and nivolumab must be permanently discontinued.
 
-Immue-related endocrinopathies
-Severe endocrinopathies, including hypothyroidism, hyperthyroidism, adrenal insufficiency, hypophysitis, diabetes mellitus, and diabetes ketoacidosis have been observed with nivolumab treatment (see section 4.8).
+Immune-related endocrinopathies
+Severe endocrinopathies, including hypothyroidism, hyperthyroidism, adrenal insufficiency, hypophysitis, diabetes mellitus, and diabetic ketoacidosis have been observed with nivolumab treatment (see section 4.8).
 
 Patients should be monitored for clinical signs and symptoms of endocrinopathies and for changes in thyroid function (at the start of treatment, periodically during treatment, and as indicated based on clinical evaluation).
 Patients may present with fatigue, headache, mental status changes, abdominal pain, unusual bowel habits, and hypotension, or nonspecific symptoms which may resemble other causes such as brain metastasis or underlying disease.
@@ -97,7 +96,6 @@ Nivolumab should be withheld for Grade 3 rash and discontinued for Grade 4 rash.
 Severe rash should be managed with high-dose corticosteroid at a dose of 1 to 2 mg/kg/day prednisone equivalents.
 
 Caution should be used when considering the use of nivolumab in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other immune-stimulatory anticancer agents.
-
 Other immune-related adverse reactions
 The following immune-related adverse reactions were reported in less than 1% of patients treated with nivolumab in clinical trials across doses and tumour types: pancreatitis, uveitis, demyelination, autoimmune neuropathy (including facial and abducens nerve paresis), Guillain-Barré syndrome, hypopituitarism, and myasthenic syndrome.
 
@@ -105,18 +103,32 @@ For suspected immune-related adverse reactions, adequate evaluation should be pe
 Based on the severity of the adverse reaction, nivolumab should be withheld and corticosteroids administered.
 Upon improvement, nivolumab may be resumed after corticosteroid taper.
 Nivolumab must be permanently discontinued for any severe immune-related adverse reaction that recurs and for any life-threatening immune-related adverse reaction.
+
 Infusion reactions
 Severe infusion reactions have been reported in clinical trials (see section 4.8).
 In case of a severe infusion reaction, nivolumab infusion must be discontinued and appropriate medical therapy administered.
 Patients with mild or moderate infusion reaction may receive nivolumab with close monitoring.
 
 Special populations
+
+Melanoma
+
 Patients with a baseline performance score ≥ 2, active brain metastases, ocular melanoma, autoimmune disease, and patients who had been receiving systemic immunosuppressants prior to study entry were excluded from the pivotal clinical trials.
 In addition, CA209037 excluded patients who have had a Grade 4 adverse reaction that was related to anti-CTLA-4 therapy (see section 5.1).
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential risk-benefit on an individual basis.
 
 Experience with nivolumab in previously untreated BRAF mutation-positive melanoma is limited.
 
+Non-Small Cell Lung Cancer
+
+Patients with a baseline performance score ≥ 2, active brain metastases or autoimmune disease, symptomatic interstitial lung disease, and patients who had been receiving systemic immunosuppressants prior to study entry were excluded from the clinical trials of NSCLC (see sections 4.5 and 5.1).
+In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential risk-benefit on an individual basis.
+
 Patients on controlled sodium diet
 Each mL of this medicinal product contains 0.1 mmol (or 2.5 mg) sodium.
 To be taken into consideration when treating patients on a controlled sodium diet.
+
+Patient Alert Card
+All prescribers of OPDIVO must be familiar with the Physician Information and Management Guidelines.
+The prescriber must discuss the risks of OPDIVO therapy with the patient.
+The patient will be provided with the Patient Alert Card with each prescription.

@@ -12,6 +12,8 @@ In syngeneic mouse models, blocking PD-1 activity resulted in decreased tumour g
 
 Clinical efficacy and safety
 
+Melanoma
+
 Randomised phase 3 study vs. dacarbazine (CA209066)
 The safety and efficacy of nivolumab 3 mg/kg for the treatment of advanced (unresectable or metastatic) melanoma were evaluated in a phase 3, randomised, double-blind study (CA209066).
 The study included adult patients (18 years or older) with confirmed, treatment-naive, Stage III or IV BRAF wild-type melanoma and an Eastern Cooperative Oncology Group (ECOG) performance-status score of 0 or 1.
@@ -34,6 +36,7 @@ Sixteen percent of patients had received prior adjuvant therapy; the most common
 Four percent of patients had a history of brain metastasis, and 37% of patients had a baseline LDH level greater than ULN at study entry.
 
 The Kaplan-Meier curves for OS are shown in Figure 1.
+
 Figure 1: Kaplan-Meier curves of OS (CA209066)
 
 Overall Survival (Months)
@@ -53,7 +56,8 @@ The observed OS benefit was consistently demonstrated across subgroups of patien
 Survival benefit was observed regardless of whether patients had tumours that were designated PD-L1 negative or PD-L1 positive (tumour membrane expression cut off of 5% or 10%).
 Data available indicate that the onset of nivolumab effect is delayed such that benefit of nivolumab above chemotherapy may take 2-3 months.
 
-Response rates, time to response, and duration of response are shown in Table 3.
+Efficacy results are shown in Table 3.
+
 Table 3: Efficacy Results (CA209066)
 
 nivolumab dacarbazine
@@ -114,6 +118,7 @@ Randomisation was stratified by BRAF and PD-L1 status and best response to prior
 
 The co-primary efficacy outcome measures were confirmed ORR in the first 120 subjects treated with nivolumab, as measured by independent radiology review committee (IRRC) using RECIST 1.1, and comparison of OS of nivolumab to chemotherapy.
 Additional outcome measures included duration and timing of response.
+
 The median age was 60 years (range: 23-88).
 Sixty-four percent of patients were men and 98% were white.
 ECOG performance scores were 0 for 61% of patients and 1 for 39% of patients.
@@ -149,7 +154,7 @@ Months (range) 2.1 (1.6-7.4) 3.5 (2.1-6.1)
 Objective responses to nivolumab (according to the definition of the co-primary endpoint) were observed in patients with or without BRAF mutation-positive melanoma.
 Of the patients who received nivolumab, the ORR in the BRAF mutation-positive subgroup (n=26) was 23% (95% CI: 9.0, 43.6), and 34% (95% CI: 24.6, 44.5) in patients whose tumours were BRAF wild-type (n=94).
 Objective responses to nivolumab were observed regardless of whether patients had tumours that were designated PD-L1 negative or PD-L1 positive (tumour membrane expression cut off of 5% or 10%).
-However the role of this biomarker (PD-L1 expression) has not been fully elucidated.
+However, the role of this biomarker (PD-L1 expression) has not been fully elucidated.
 
 The OS data were not mature at the time of the PFS analysis.
 There was no statistically significant difference between nivolumab and chemotherapy in the preliminary OS analysis that was not adjusted for the potentially confounding effects of subsequent therapy.
@@ -160,6 +165,7 @@ Investigator assessed, confirmed ORRs in all treated patients were 25.7% [95% CI
 Investigator assessed, confirmed ORRs in BRAF mutation-positive patients (n=79) were 19.3% [95% CI: 10.0, 31.9] vs. 13.6% [95% CI: 2.9, 34.9]), respectively, and in BRAF wild-type patients (n=291) were 27.5% [95% CI: 21.6, 34.0] vs. 10.0% [95% CI: 4.4, 18.8]), respectively.
 
 PFS numerically favoured the nivolumab group vs the chemotherapy group in all randomised patients, BRAF mutation positive patients, and BRAF wild-type patients (HRs 0.74 [95% CI: 0.57, 0.97], 0.98 [95% CI: 0.56, 1.70], and 0.63 [95% CI: 0.47, 0.85], respectively).
+
 Safety and efficacy in elderly patients
 No overall differences in safety or efficacy were reported between elderly (≥ 65 years) and younger patients (< 65 years).
 
@@ -170,6 +176,104 @@ In this patient population, objective response was reported in 33 patients (31%)
 (95% CI: 17.0, NR).
 The median PFS was 3.7 months (95% CI: 1.9, 9.3).
 The median OS was 17.3 months (95% CI: 12.5, 36.7), and the estimated OS rates were 63% (95% CI: 53, 71) at 1 year, 48% (95% CI: 38, 57) at 2 years, and 41% (95% CI: 31, 51) at 3 years.
+
+Non-Small Cell Lung Cancer
+
+Randomised phase 3 study vs. docetaxel (CA209017)
+The safety and efficacy of nivolumab 3 mg/kg as a single agent for the treatment of advanced or metastatic squamous NSCLC were evaluated in a phase 3, randomised, open-label study (CA209017).
+The study included patients (18 years or older) who have experienced disease progression during or after one prior platinum doublet-based chemotherapy regimen and an Eastern Cooperative Oncology Group (ECOG) performance status score of 0 or 1.
+Patients were enrolled regardless of their PD-L1 status.
+Patients with active autoimmune disease, symptomatic interstitial lung disease, or untreated brain metastasis were excluded from the study.
+Patients with treated brain metastases were eligible if neurologically returned to baseline at least 2 weeks prior to enrolment, and either off corticosteroids, or on a stable or decreasing dose of <10 mg daily prednisone equivalents.
+
+A total of 272 patients were randomised to receive either nivolumab 3 mg/kg (N = 135) administered intravenously over 60 minutes every 2 weeks or docetaxel (n = 137) 75 mg/m2 every 3 weeks.
+Treatment was continued as long as clinical benefit was observed or until treatment was no longer tolerated.
+Tumour assessments, according to the Response Evaluation Criteria in Solid Tumours (RECIST), version 1.1, were conducted 9 weeks after randomisation and continued every 6 weeks thereafter.
+The primary efficacy outcome measure was overall survival (OS).
+Key secondary efficacy outcome measures were investigator-assessed objective response rate (ORR) and progression-free survival (PFS).
+In addition, symptom improvement and overall health status were assessed using the Lung Cancer Symptom Score (LCSS) average symptom burden index and the EQ-5D Visual Analogue Scale (EQ-VAS), respectively.
+
+Baseline characteristics were generally balanced between the two groups.
+The median age was 63 years (range: 39-85) with 44% ≥65 years of age and 11% ≥75 years of age.
+The majority of patients were white (93%) and male (76%).
+Thirty-one percent had progressive disease reported as the best response to their most recent prior regimen and 45% received nivolumab within 3 months of completing their most recent prior regimen.
+Baseline ECOG performance status score was 0 (24%) or 1 (76%).
+
+The Kaplan-Meier curves for OS are shown in Figure 2.
+Figure 2: Kaplan-Meier curves of OS (CA209017)
+
+Overall Survival (Months)
+Number of Subjects at Risk
+Nivolumab 3 mg/kg
+
+135 113 86 69 52 31 15 7 0
+
+Docetaxel
+
+137 103 68 45 30 14 7 2 0
+
+Nivolumab 3 mg/kg (events: 86/135), median and 95% CI: 9.23 (7.33, 13.27)
+Docetaxel (events: 113/137), median and 95% CI: 6.01 (5.13, 7.33)
+
+The observed OS benefit was consistently demonstrated across subgroups of patients.
+Survival benefit was observed regardless of whether patients had tumours that were designated PD-L1 negative or PD-L1 positive (tumour membrane expression cut off of 1%, 5% or 10%).
+However, the role of this biomarker (PD-L1 expression) has not been fully elucidated.
+
+Study CA209017 included a limited number of patients ≥ 75 years (11 in the nivolumab group and 18 in the docetaxel group).
+Nivolumab showed numerically less effect on OS (HR 1.85; 95% CI: 0.76, 4.51), PFS (HR=1.76; 95%-CI: 0.77, 4.05) and ORR (9.1% vs 16.7%).
+Because of the small sample size, no definitive conclusions can be drawn from these data.
+
+Efficacy results are shown in Table 5.
+Table 5: Efficacy results (CA209017)
+
+nivolumab docetaxel
+(n = 135) (n = 137)
+
+Overall survival
+
+Events 86 (63.7) 113 (82.5)
+Hazard ratio 0.59
+96.85% CI (0.43, 0.81)
+p-value 0.0002
+Median (95% CI) months 9.23 (7.33, 13.27) 6.01 (5.13, 7.33)
+Rate (95% CI) at 12 months 42.1 (33.7, 50.3) 23.7 (16.9, 31.1)
+Confirmed objective response 27 (20.0%) 12 (8.8%)
+(95% CI) (13.6, 27.7) (4.6, 14.8)
+Odds ratio (95% CI) 2.64 (1.27, 5.49)
+p-value 0.0083
+Complete response (CR) 1 (0.7%) 0
+Partial response (PR) 26 (19.3%) 12 (8.8%)
+Stable disease (SD) 39 (28.9%) 47 (34.3%)
+
+Median duration of response
+
+Months (range) Not reached (2.9 - 20.5+) 8.4 (1.4+ - 15.2+)
+
+Median time to response
+
+Months (range) 2.2 (1.6 - 11.8) 2.1 (1.8 - 9.5)
+
+Progression-free survival
+
+Events 105 (77.8) 122 (89.1)
+Hazard ratio 0.62
+95% CI (0.47, 0.81)
+p-value < 0.0004
+Median (95% CI) (months) 3.48 (2.14, 4.86) 2.83 (2.10, 3.52)
+Rate (95% CI) at 12 months 20.8 (14.0, 28.4) 6.4 (2.9, 11.8)
+
+The rate of disease-related symptom improvement, as measured by LCSS, was similar between the nivolumab group (18.5%) and the docetaxel group (21.2%).
+The average EQ-VAS increased over time for both treatment groups, indicating better overall health status for patients remaining on treatment.
+
+Single-arm phase 2 study (CA209063)
+Study CA209063 was a single-arm, open-label study conducted in 117 patients with locally advanced or metastatic squamous NSCLC after two or more lines of therapy; otherwise similar inclusion criteria as study CA209017 were applied.
+Nivolumab 3 mg/kg showed an overall response rate of 14.5% (95% CI: 8.7,22.2%), a median OS of 8.21 months (95% CI: 6.05,10.9), and a median PFS of 1.87 months (95% CI 1.77,3.15).
+The PFS was measured by RECIST version 1.1.
+The estimated 1-year survival rate was 41%.
+
+Safety and efficacy in elderly patients
+No overall differences in safety or efficacy were reported between elderly (≥ 65 years) and younger patients (< 65 years).
+Data from patients 75 years of age or older are too limited to draw conclusions on this population.
 
 Paediatric population
 The European Medicines Agency has deferred the obligation to submit the results of studies with nivolumab in all subsets of the paediatric population in the treatment of malignant solid tumours (see section 4.2 for information on paediatric use).

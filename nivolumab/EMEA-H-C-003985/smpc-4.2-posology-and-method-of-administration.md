@@ -5,7 +5,6 @@ Treatment must be initiated and supervised by physicians experienced in the trea
 Posology
 The recommended dose of OPDIVO is 3 mg/kg administered intravenously over 60 minutes every 2 weeks.
 Treatment should be continued as long as clinical benefit is observed or until treatment is no longer tolerated by the patient.
-
 Dose escalation or reduction is not recommended.
 Dosing delay or discontinuation may be required based on individual safety and tolerability.
 Guidelines for permanent discontinuation or withholding of doses are described in Table 1.
@@ -34,6 +33,8 @@ Grade 4 rash Permanently discontinue OPDIVO
 Note: Toxicity grades are in accordance with National Cancer Institute Common Terminology Criteria for Adverse Events Version 4.0 (NCI-CTCAE v4).
 a Recommendation for the use of hormone replacement therapy is provided in section 4.4.
 
+Patients treated with OPDIVO must be given the patient alert card and be informed about the risks of OPDIVO (see also package leaflet).
+
 OPDIVO should also be permanently discontinued for Grade 2 or 3 immune-related adverse reactions that persist despite treatment modifications (see section 4.4) or for inability to reduce corticosteroid dose to 10 mg prednisone or equivalent per day.
 
 Special populations
@@ -41,13 +42,16 @@ Special populations
 Paediatric population
 The safety and efficacy of OPDIVO in children below 18 years of age have not been established.
 No data are available.
-
 Elderly
 No dose adjustment is required for elderly patients (≥ 65 years) (see sections 5.1 and 5.2).
+
+Non-Small Cell Lung Cancer
+Data from patients 75 years of age or older are too limited to draw conclusions on this population.
 
 Renal impairment
 Based on the population pharmacokinetic (PK) results, no dose adjustment is required in patients with mild or moderate renal impairment (see section 5.2).
 Data from patients with severe renal impairment are too limited to draw conclusions on this population.
+
 Hepatic impairment
 Based on the population PK results, no dose adjustment is required in patients with mild hepatic impairment (see section 5.2).
 Data from patients with moderate or severe hepatic impairment are too limited to draw conclusions on these populations.
@@ -55,7 +59,7 @@ OPDIVO must be administered with caution in patients with moderate (total biliru
 
 Method of administration
 
-OPDIVO is for intraveous use only.
+OPDIVO is for intravenous use only.
 It is to be administered as an intravenous infusion over a period of 60 minutes.
 The infusion must be administered through a sterile, non-pyrogenic, low protein binding in-line filter with a pore size of 0.2-1.2 μm.
 
