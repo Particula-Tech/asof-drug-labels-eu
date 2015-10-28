@@ -15,7 +15,7 @@ There is no requirement for monitoring between injections.
 After the first 12 months of treatment with Eylea, the treatment interval may be extended based on visual and/or anatomic outcomes.
 In this case the schedule for monitoring should be determined by the treating physician and may be more frequent than the schedule of injections.
 
-Macular Oedema secondary to RVO (branch RVO or central RVO)
+Macular oedema secondary to RVO (branch RVO or central RVO)
 
 The recommended dose for Eylea is 2 mg aflibercept equivalent to 50 microlitres.
 After the initial injection, treatment is given monthly.
@@ -33,7 +33,7 @@ The monitoring and treatment schedule should be determined by the treating physi
 
 Monitoring for disease activity may include clinical examination, functional testing or imaging techniques (e.g. optical coherence tomography or fluorescein angiography).
 
-Diabetic Macular Oedema
+Diabetic macular oedema
 
 The recommended dose for Eylea is 2 mg aflibercept equivalent to 50 microlitres.
 
@@ -45,20 +45,33 @@ The schedule for monitoring should be determined by the treating physician.
 
 If visual and anatomic outcomes indicate that the patient is not benefiting from continued treatment, Eylea should be discontinued.
 
+Myopic choroidal neovascularisation
+
+The recommended dose for Eylea is a single intravitreal injection of 2 mg aflibercept equivalent to 50 microlitres.
+
+Additional doses may be administered if visual and/or anatomic outcomes indicate that the disease persists.
+Recurrences should be treated as a new manifestation of the disease.
+
+The schedule for monitoring should be determined by the treating physician.
+
+The interval between two doses should not be shorter than one month.
 Special populations
 
 Hepatic and/or renal impairment
+
 No specific studies in patients with hepatic and/or renal impairment have been conducted with Eylea.
 
 Available data do not suggest a need for a dose adjustment with Eylea in these patients (see section 5.2).
 
 Elderly population
+
 No special considerations are needed.
 There is limited experience in patients older than 75 years with DME.
 
 Paediatric population
+
 Safety and efficacy have not been established in children and adolescents.
-There is no relevant use of Eylea in the paediatric population in the indications wet AMD, CRVO, BRVO and DME.
+There is no relevant use of Eylea in the paediatric population in the indications wet AMD, CRVO, BRVO, DME and myopic CNV.
 
 Method of administration
 

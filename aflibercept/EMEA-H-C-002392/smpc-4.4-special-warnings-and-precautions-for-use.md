@@ -12,15 +12,19 @@ Special precaution is needed in patients with poorly controlled glaucoma (do not
 In all cases, both the intraocular pressure and the perfusion of the optic nerve head must therefore be monitored and managed appropriately.
 
 Immunogenicity
+
 As this is a therapeutic protein, there is a potential for immunogenicity with Eylea (see section 4.8).
 Patients should be instructed to report any signs or symptoms of intraocular inflammation, e.g. pain, photophobia, or redness, which may be a clinical sign attributable to hypersensitivity.
 
 Systemic effects
+
 Systemic adverse events including non-ocular haemorrhages and arterial thromboembolic events have been reported following intravitreal injection of VEGF inhibitors and there is a theoretical risk that these may relate to VEGF inhibition.
-There are limited data on safety in the treatment of patients with CRVO, BRVO or DME with a history of stroke or transient ischaemic attacks or myocardial infarction within the last 6 months.
+There are limited data on safety in the treatment of patients with CRVO, BRVO, DME or myopic CNV with a history of stroke or transient ischaemic attacks or myocardial infarction within the last 6 months.
 Caution should be exercised when treating such patients.
+
 Other
-As with other intravitreal anti-VEGF treatments for AMD, CRVO, BRVO and DME the following also applies:
+
+As with other intravitreal anti-VEGF treatments for AMD, CRVO, BRVO, DME and myopic CNV the following also applies:
 
 - The safety and efficacy of Eylea therapy administered to both eyes concurrently have not been systematically studied (see section 5.1).
   If bilateral treatment is performed at the same time this could lead to an increased systemic exposure, which could increase the risk of systemic adverse events.
@@ -33,8 +37,10 @@ There is no data available on the concomitant use of Eylea with other anti-VEGF 
 - Treatment should be withheld in patients with rhegmatogenous retinal detachment or stage 3 or 4 macular holes.
 - In the event of a retinal break the dose should be withheld and treatment should not be resumed until the break is adequately repaired.
 - The dose should be withheld and treatment should not be resumed earlier than the next scheduled treatment in the event of:
-  - a decrease in best-corrected visual acuity (BCVA) of ≥30 letters compared with the last assessment of visual acuity;
-  - a subretinal haemorrhage involving the centre of the fovea, or, if the size of the haemorrhage is ≥50%, of the total lesion area.
+
+o a decrease in best-corrected visual acuity (BCVA) of ≥30 letters compared with the last assessment of visual acuity;
+o a subretinal haemorrhage involving the centre of the fovea, or, if the size of the haemorrhage is ≥50%, of the total lesion area.
+
 - The dose should be withheld within the previous or next 28 days in the event of a performed or planned intraocular surgery.
 - Eylea should not be used in pregnancy unless the potential benefit outweighs the potential risk to the foetus (see section 4.6).
 - Women of childbearing potential have to use effective contraception during treatment and for at least 3 months after the last intravitreal injection of aflibercept (see section 4.6).
@@ -42,7 +48,10 @@ There is no data available on the concomitant use of Eylea with other anti-VEGF 
   In patients presenting with clinical signs of irreversible ischaemic visual function loss, the treatment is not recommended.
 
 Populations with limited data
+
 There is only limited experience in the treatment of subjects with DME due to type I diabetes or in diabetic patients with an HbA1c over 12% or with proliferative diabetic retinopathy.
 Eylea has not been studied in patients with active systemic infections or in patients with concurrent eye conditions such as retinal detachment or macular hole.
 There is also no experience of treatment with Eylea in diabetic patients with uncontrolled hypertension.
 This lack of information should be considered by the physician when treating such patients.
+
+In myopic CNV there is no experience with Eylea in the treatment of non-Asian patients, patients who have previously undergone treatment for myopic CNV, and patients with extrafoveal lesions.

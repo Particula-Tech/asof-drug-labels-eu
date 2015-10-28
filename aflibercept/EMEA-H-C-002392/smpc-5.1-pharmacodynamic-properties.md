@@ -4,17 +4,18 @@ Pharmacotherapeutic group: Ophthalmologicals / Antineovascularisation agents
 ATC code: S01LA05
 
 Aflibercept is a recombinant fusion protein consisting of portions of human VEGF receptor 1 and 2 extracellular domains fused to the Fc portion of human IgG1.
+
 Aflibercept is produced in Chinese hamster ovary (CHO) K1 cells by recombinant DNA technology.
 
 Aflibercept acts as a soluble decoy receptor that binds VEGF-A and PlGF with higher affinity than their natural receptors, and thereby can inhibit the binding and activation of these cognate VEGF receptors.
 
 Mechanism of action
+
 Vascular endothelial growth factor-A (VEGF-A) and placental growth factor (PlGF) are members of the VEGF family of angiogenic factors that can act as potent mitogenic, chemotactic, and vascular permeability factors for endothelial cells.
 VEGF acts via two receptor tyrosine kinases; VEGFR-1 and VEGFR-2, present on the surface of endothelial cells.
 PlGF binds only to VEGFR-1, which is also present on the surface of leucocytes.
 Excessive activation of these receptors by VEGF-A can result in pathological neovascularisation and excessive vascular permeability.
 PlGF can synergize with VEGF-A in these processes, and is also known to promote leucocyte infiltration and vascular inflammation.
-
 Pharmacodynamic effects
 
 wet AMD
@@ -25,11 +26,9 @@ Leakage of blood and fluid from CNV may cause retinal thickening or oedema and/o
 In patients treated with Eylea (one injection per month for three consecutive months, followed by one injection every 2 months), retinal thickness decreased soon after treatment initiation, and the mean CNV lesion size was reduced, consistent with the results seen with ranibizumab 0.5 mg every month.
 
 In the VIEW1 study there were mean decreases in retinal thickness on optical coherence tomography (OCT) (-130 and -129 microns at week 52 for the Eylea 2 mg every two months and ranibizumab 0.5 mg every month study groups, respectively).
-Also at the 52 week time point, in the VIEW2 study there were mean decreases in retinal thickness on OCT (-149 and -139 microns for the Eylea 2 mg every two months and ranibizumab 0.5 mg every month study groups, respectively).
+Also at the 52 week time point, in the VIEW2 study there were mean decreases in retinal thickness on OCT (-149 and -139 microns for the Eylea 2 mg every two months and ranibizumab 0.5 mg every month study groups, respectively).The reduction of CNV size and reduction in retinal thickness were generally maintained in the second year of the studies.
 
-The reduction of CNV size and reduction in retinal thickness were generally maintained in the second year of the studies.
-
-Macular Oedema secondary to CRVO and BRVO
+Macular oedema secondary to CRVO and BRVO
 
 In CRVO and BRVO, retinal ischaemia occurs and signals the release of VEGF which in turn destabilises the tight junctions and promotes endothelial cell proliferation.
 Up-regulation of VEGF is associated with the breakdown of the blood retina barrier and this increased vascular permeability results in retinal oedema, stimulation of endothelial cell growth and neovascularisation.
@@ -37,24 +36,26 @@ Up-regulation of VEGF is associated with the breakdown of the blood retina barri
 In patients treated with Eylea (one injection every month for six months), there was consistent, rapid and robust response in morphology (central retinal thickness [CRT] as assessed by OCT).
 Improvements in mean CRT were maintained through week 24.
 
-Retinal thickness on OCT at week 24 compared to baseline was a secondary efficacy variable in the COPERNICUS and GALILEO studies (CRVO), and the VIBRANT study (BRVO).
-In all three studies, the mean change in CRT from baseline to week 24 was statistically significant, favouring Eylea.
-
-In the COPERNICUS and GALILEO studies the mean decrease from baseline in retinal thickness on OCT at week 24 was significantly greater in patients treated with Eylea 2 mg every month than in the control group (-457 microns vs. -145 microns in COPERNICUS, and -449 microns vs. -169 microns in GALILEO).
-The decrease from baseline in retinal thickness was maintained to the end of study, week 100 in COPERNICUS, and to week 76 in GALILEO.
-
-In the VIBRANT study the mean decrease from baseline in retinal thickness on OCT at week 24 was significantly greater in patients treated with Eylea 2 mg every month than in the control group (-280 microns vs. -128 microns).
-This decrease from baseline was maintained to week 52.
+In the COPERNICUS and GALILEO studies (CRVO), the mean decrease from baseline in CRT at week 24 was significantly greater in patients treated with Eylea 2 mg every month than in the control group (-457 microns vs. -145 microns in COPERNICUS, and -449 microns vs. -169 microns in GALILEO).In the VIBRANT study (BRVO) the mean decrease from baseline in CRT at week 24 was significantly greater in patients treated with Eylea 2 mg every month than in the control group (-280 microns vs. -128 microns).
+This decrease from baseline was maintained to end of study, week 100 in COPERNICUS, week 76 in GALILEO and week 52 in VIBRANT.
 
 Diabetic macular oedema
 
 Diabetic macular oedema is characterised by increased vasopermeability and damage to the retinal capillaries which may result in loss of visual acuity.
 
 In patients treated with Eylea, rapid and robust response in morphology (central retinal thickness [CRT]) as assessed by OCT was seen soon after treatment initiation.
-The mean change in CRT from baseline to week 52 was statistically significant favoring Eylea.
+The mean change in CRT from baseline to week 52 was statistically significant favouring Eylea.
 
-In the VIVID-DME study there were mean decreases in retinal thickness on optical coherence tomography (OCT) (-192.4 and -66.2 microns at week 52 for the Eylea 2Q8 and laser group, respectively).
-Also at the 52 week time point, in the VISTA-DME study there were mean decreases in retinal thickness on OCT (-183.1 and -73.3 microns for the Eylea 2Q8 and laser group, respectively).
+In the VIVID-DME study there were mean decreases in CRT of -192.4 and -66.2 microns at week 52 for the Eylea 2Q8 and laser group, respectively.
+Likewise, in the VISTA-DME study there were mean decreases in CRT of -183.1 and -73.3 microns at week 52 for the Eylea 2Q8 and laser group, respectively.
+Myopic choroidal neovascularisation
+
+Myopic choroidal neovascularisation (myopic CNV) is a frequent cause of vision loss in adults with pathologic myopia.
+It develops as a wound healing mechanism consequent to Bruch’s membrane ruptures and represents the most vision-threatening event in pathologic myopia.
+
+In patients treated with Eylea in the MYRROR study (one injection given at start of therapy, with additional injections given in case of disease persistence or recurrence), retinal thickness assessed by OCT decreased soon after treatment initiation and the mean CNV lesion size was reduced.
+The mean change in CRT from baseline to week 24 was statistically significant favouring Eylea (-79 microns and -4 microns for the Eylea 2 mg treatment group and the control group, respectively).
+The decrease from baseline in retinal thickness in the Eylea 2 mg group was maintained through week 48.
 
 Clinical efficacy and safety
 
@@ -90,7 +91,8 @@ following 3 initial monthly 4 weeks)
 doses)
 (N = 607) (N = 595)
 Week 52 Week 96G) Week 52 Week 96G)
-Mean number of injections 7.6 11.2 12.3 16.5
+Mean number of injections
+7.6 11.2 12.3 16.5
 from baseline
 Mean number of injections
 during second year (Week 4.2 4.7
@@ -105,7 +107,7 @@ Mean change in BCVA as
 measured by ETDRSA) 8.40 7.62 8.74 7.89
 letter score from baseline
 Difference in LS A)
-mean change (ETDRS -0.32 -0.25
+mean change (ETDRS -0.32 0.25
 letters)C) (-1.87, 1.23) (-1.98, 1.49)
 (95% CI)D)
 Proportion of patients who
@@ -148,8 +150,9 @@ In the second year of the studies, efficacy was generally maintained through the
 In the second year of the studies, 2-4% of patients required all injections on a monthly basis, and a third of patients required at least one injection with a treatment interval of only one month.
 
 Elderly Population
+
 In the clinical studies, approximately 89% (1,616/1,817) of the patients randomised to treatment with Eylea were 65 years of age or older and approximately 63% (1,139/1,817) were 75 years of age or older.
-Macular Oedema secondary to CRVO
+Macular oedema secondary to CRVO
 
 The safety and efficacy of Eylea were assessed in two randomised, multi-centre, double-masked, sham-controlled studies in patients with macular oedema secondary to CRVO.
 A total of 358 patients were treated and evaluable for efficacy (217 with Eylea) in the two studies COPERNICUS and GALILEO.
@@ -169,48 +172,25 @@ In both pivotal studies the maximal improvement in visual acuity has been achiev
 The statistically significant difference was maintained through week 52.
 
 Detailed results from the analysis of both studies are shown in the Table 3 and Figure 2 below.
-Table 3: Efficacy outcomes at week 24, week 52 and week 76/100 (Full Analysis Set with LOCFC)) in COPERNICUS and GALILEO studies
-
-| Efficacy Outcomes | COPERNICUS |  |  |  |  |  | GALILEO |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | 24 Weeks |  | 52 Weeks |  | 100 Weeks |  | 24 Weeks |  | 52 Weeks |  | 76 Weeks |  |
-|  | Eylea 2 mg Q4 (N = 114) | Control (N= 73) | Eylea 2 mg (N = 114) | ControlE) (N =73) | Eylea F) 2 mg (N= 114) | Control E,F) (N=73) | Eylea 2 mg Q4 (N = 103) | Control (N = 68) | Eylea 2 mg (N = 103) | Control (N = 68) | Eylea G) 2 mg (N = 103) | Control G) (N = 68) |
-| Proportion of patients who gained at least 15 letters in BCVAC) from baseline | 56% | 12% | 55% | 30% | 49.1% | 23.3% | 60% | 22% | 60% | 32% | 57.3% | 29.4% |
-| Weighted differenceA,B,E) (95% CI) p-value | 44.8% (33.0, 56.6) p < 0.0001 |  | 25.9% (11.8, 40.1) p = 0.0006 |  | 26.7% (13.1, 40.3) |  | 38.3% (24.4, 52.1) p < 0.0001 |  | 27.9% (13.0, 42.7) p = 0.0004 |  | 28.0% (13.3, 42.6) |  |
-|  |  |  |  |  | p=0.0003 |  |  |  |  |  | p=0.0004 |  |
-| Mean change in BCVA as measured by ETDRSC) letter score from baseline (SD) | 17.3 (12.8) | -4.0 (18.0) | 16.2 (17.4) | 3.8 (17.1) | 13.0 (17.7) | 1.5 (17.7) | 18.0 (12.2) | 3.3 (14.1) | 16.9 (14.8) | 3.8 (18.1) | 13.7 (17.8) | 6.2 (17.7) |
-| Difference in LS meanA,C,D,E) (95% CI) p-value | 21.7 (17.4, 26.0) p < 0.0001 |  | 12.7 (7.7, 17.7) p < 0.0001 |  | 11.8 (6.7, 17.0) |  | 14.7 (10.8, 18.7) p < 0.0001 |  | 13.2 (8.2, 18.2) p < 0.0001 |  | 7.6 (2.1, 13.1) |  |
-|  |  |  |  |  | p < 0.0001 |  |  |  |  |  | p=0.0070 |  |
-
-A) Difference is Eylea 2 mg Q4 weeks minus control
-B) Difference and confidence interval (CI) are calculated using Cochran-Mantel-Haenszel (CMH) test adjusted for region (America vs. rest of the world for COPERNICUS and Europe vs. Asia/Pacific for GALILEO) and baseline BCVA category (> 20/200 and ≤ 20/200)
-C) BCVA: Best Corrected Visual Acuity
-ETDRS: Early Treatment Diabetic Retinopathy Study
-LOCF: Last Observation Carried Forward
-SD: Standard deviation
-LS: Least square means derived from ANCOVA
-D) LS mean difference and confidence interval based on an ANCOVA model with factors treatment group, region (America vs. rest of the world for COPERNICUS and Europe vs. Asia/Pacific for GALILEO) and baseline BCVA category (> 20/200 and ≤ 20/200)
-E) In COPERNICUS study, control group patients could receive Eylea on an as-needed basis as frequently as every 4 weeks during week 24 to week 52; patients had visits every 4 weeks.
-F) In COPERNICUS study, both control group and Eylea 2mg patients received Eylea 2 mg on an as-needed basis as frequently as every 4 weeks starting from Week 52 to Week 96; patients had mandatory quarterly visits but may have been seen as frequently as every 4 weeks if necessary.
-G) In GALILEO study, both control group and Eylea 2mg patients received Eylea 2 mg on an as-needed basis every 8 weeks starting from Week 52 to Week 68; patients had mandatory visits every 8 weeks.
 Figure 2: Mean change from baseline to week 76/100 in visual acuity by treatment group for the COPERNICUS and GALILEO studies (Full Analysis Set)
 
 The proportion of perfused patients in the Eylea group was high in the GALILEO study at baseline 86.4%; (n = 89).
 Perfusion at week 24 primary endpoint was 91.8% (n = 89).
-The patients were largely able to maintain their perfusion status until week 76 84.3%; (n = 75).
+The patients were largely able to maintain their perfusion status until week 76, 84.3%; (n = 75).
 The number of perfused patients that started on sham was 79.4% (n = 54) at baseline.
 Perfusion at week 24 primary endpoint was 85.5% (n = 47).
 Patients in the sham group were switched to Eylea according to pre-specified criteria at week 52, 83.7% (n = 41) were perfused at this time.
 The patients were able to maintain their perfusion status until week 76, 84.0% (n = 42).
+
 The proportion of perfused patients in the Eylea group in the COPERNICUS study at baseline was 67.5% (n = 77).
 Perfusion at week 24 primary endpoint was 87.4%; (n = 90).
 After week 24, patients in the Eylea group were treated according to pre-specified criteria.
-At week 100 76.8 % (n = 76) of patients were perfused.
+At week 100, 76.8 % (n = 76) of patients were perfused.
 The percentage of perfused patients that started on sham was 68.5% (n = 50) at baseline.
 Perfusion at week 24 primary endpoint was 58.6% (n = 34).
 Patients in the sham arm were eligible to receive Eylea from week 24.
 The proportion of perfused patients increased to 83.9%
-(n = 47) at week 52 and was largely maintained until week 100 78%; (n = 39).
+(n = 47) at week 52 and was largely maintained until week 100, 78%; (n = 39).
 
 The beneficial effect of Eylea treatment on visual function was similar in the baseline subgroups of perfused and non-perfused patients.
 
@@ -223,7 +203,7 @@ Elderly population
 
 In the CRVO studies, approximately 52% (112/217) of the patients randomised to treatment with Eylea were 65 years of age or older, and approximately 18% (38/217) were 75 years of age or older.
 
-Macular Oedema secondary to BRVO
+Macular oedema secondary to BRVO
 
 The safety and efficacy of Eylea were assessed in a randomised, multi-centre, double-masked, active-controlled study in patients with macular oedema secondary to BRVO which included Hemi-Retinal Vein Occlusion.
 A total of 181 patients were treated and evaluable for efficacy (91 with Eylea) in the VIBRANT study.
@@ -240,9 +220,9 @@ At week 24, the Eylea group was superior to laser control for the primary endpoi
 Change in visual acuity at week 24 compared to baseline was a secondary efficacy variable in the VIBRANT study.
 The difference between treatment groups was statistically significant in favour of Eylea.
 The course of visual improvement was rapid and maximal improvement was achieved at month 3 with subsequent stabilisation of the effect on visual acuity and central retinal thickness until month 6 and subsequent maintenance of the effect until month 12.
-
 In the laser group 67 patients received rescue treatment with Eylea beginning at week 24 (Active Control/ Eylea 2mg group).
 In this treatment group visual acuity improved by about 5 letters from week 24 to 52.
+
 Detailed results from the analysis of the VIBRANT study are shown in the Table 4 and Figure 3 below.
 
 Table 4: Efficacy outcomes at week 24 and week 52 (Full Analysis Set with LOCF) in VIBRANT study
@@ -253,7 +233,8 @@ Table 4: Efficacy outcomes at week 24 and week 52 (Full Analysis Set with LOCF) 
 |  | Eylea 2mg Q4 (N = 91) | Active Control (laser) (N = 90) | Eylea 2mg Q8 (N = 91) D) | Active Control (laser)/Eylea 2mgE) (N = 90) |
 | Proportion of patients who gained at least 15 letters in BCVA from Baseline (%) | 52.7% | 26.7% | 57.1% | 41.1% |
 | Weighted Difference A,B (%) (95% CI) p-value | 26.6% (13.0, 40.1) p=0.0003 |  | 16.2% (2.0, 30.5) p=0.0296 |  |
-| Mean change in BCVA as measured by ETDRS letter score from Baseline (SD) | 17.0 (11.9) | 6.9 (12.9) | 17.1 (13.1) | 12.2 (11.9) |
+| Mean change in BCVA as measured by ETDRS letter score from Baseline (SD) | 17.0 | 6.9 | 17.1 | 12.2 (11.9) |
+|  | (11.9) | (12.9) | (13.1) |  |
 | Difference in LS mean A,C (95% CI) p-value | 10.5 (7.1, 14.0) p<0.0001 |  | 5.2 (1.7, 8.7) p=0.0035F) |  |
 
 A) Difference is Eylea 2 mg Q4 weeks minus Laser Control
@@ -275,9 +256,9 @@ Elderly population
 
 In the BRVO study, approximately 58% (53/91) of the patients randomised to treatment with Eylea were 65 years of age or older, and approximately 23% (21/91) were 75 years of age or older.
 
-Diabetic Macular Oedema
+Diabetic macular oedema
 
-The safety and efficacy of Eylea were assessed in two randomised, multi-center, double-masked, active-controlled studies in patients with DME.
+The safety and efficacy of Eylea were assessed in two randomised, multi-centre, double-masked, active-controlled studies in patients with DME.
 A total of 862 randomised and treated patients were evaluable for efficacy.
 Of those, 576 were randomised to the Eylea groups in two studies (VIVIDDME and VISTADME).
 In each study, patients were randomly assigned in a 1:1:1 ratio to 1 of 3 dosing regimens:
@@ -318,29 +299,73 @@ Figure 4: Mean change in BCVA as Measured by ETDRS Letter Score from Baseline to
 Week 52 in VIVIDDME and VISTADME Studies
 
 The VISTADME second year outcomes are in line with the results from the primary and secondary endpoints obtained at week 52.
+
 Treatment effects in evaluable subgroups (e.g., age, gender, race, baseline HbA1c, baseline visual acuity, prior anti-VEGF therapy) in each study and in the combined analysis were generally consistent with the results in the overall populations.
+
 In the VIVIDDME and VISTADME studies, 36 (9%) and 197 (43%) patients received prior anti-VEGF therapy, respectively, with a 3-month or longer washout period.
 Treatment effects in the subgroup of patients who had previously been treated with a VEGF inhibitor prior to study participation were similar to those seen in patients who were VEGF inhibitor naïve prior to study participation.
 
 Patients with bilateral disease were eligible to receive anti-VEGF treatment in their fellow eye if determined to be necessary by the physician.
 In the VISTADME study, 198 (65%) of Eylea patients received bilateral Eylea injections; in the VIVIDDME study, 70 (26%) of Eylea patients received a different anti-VEGF treatment in their fellow eye.
-
 Elderly population
 
 In the DME phase III studies, approximately 47% (268/576) of the patients randomised to treatment with Eylea were 65 years of age or older, and approximately 9% (52/576) were 75 years of age or older.
 Efficacy and safety outcomes were consistent with the outcomes of the overall population.
 
+Myopic choroidal neovascularisation
+The safety and efficacy of Eylea were assessed in a randomised, multi-centre, double-masked, sham-controlled study in treatment-naïve, Asian patients with myopic CNV.
+Patients were randomly assigned in a 3:1 ratio to receive either 2 mg Eylea intravitreally or sham injections administered once at study start with additional injections given monthly in case of disease persistence or recurrence until week 24, when the primary endpoint was assessed.
+At week 24, patients initially randomised to sham were eligible to receive the first dose of Eylea.
+Following this, patients in both groups continued to be eligible for additional injections in case of disease persistence or recurrence.
+
+A total of 121 patients were treated and evaluable for efficacy (90 with Eylea).
+Their age ranged from 27 to 83 years with a mean of 58 years.
+
+The difference between treatment groups was statistically significant in favour of Eylea for the primary endpoint (change in BCVA) and confirmatory secondary efficacy endpoint (proportion of patients who gained 15 letters in BCVA) at week 24 compared to baseline.
+Differences for both endpoints were maintained through week 48.
+
+Detailed results from the analysis of the MYRROR study are shown in Table 6 and Figure 5 below.
+Table 6: Efficacy outcomes at week 24 (primary analysis) and week 48 in MYRROR study (Full Analysis Set with LOCFA))
+
+| Efficacy Outcomes | MYRROR |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | 24 Weeks |  | 48 Weeks |  |
+|  | Eylea 2mg (N = 90) | Sham (N = 31) | Eylea 2mg (N = 90) | Sham/ Eylea 2mg (N = 31) |
+| Mean change in BCVA letter score as measured by ETDRS from baseline (SD)B) | 12.1 (8.3) | -2.0 (9.7) | 13.5 (8.8) | 3.9 (14.3) |
+| Difference in LS meanC,D,E) (95% CI) | 14.1 (10.8, 17.4) |  | 9.5 (5.4, 13.7) |  |
+| Proportion of patients who gained at least 15 letters in BCVAB) from baseline | 38.9% | 9.7% | 50.0% | 29.0% |
+| Weighted differenceD,F) (95% CI) | 29.2% (14.4, 44.0) |  | 21.0% (1.9, 40.1) |  |
+
+A) LOCF: Last Observation Carried Forward
+B) BCVA: Best Corrected Visual Acuity
+ETDRS: Early Treatment Diabetic Retinopathy Study
+SD: Standard Deviation
+C) LS mean: Least square means derived from ANCOVA model
+D) CI: Confidence Interval
+E) LS mean difference and 95% CI based on an ANCOVA model with treatment group and country (country designations) as fixed effects, and baseline BCVA as covariant.
+F) Difference and 95% CI are calculated using Cochran-Mantel-Haenszel (CMH) test adjusted for country (country designations)
+Figure 5: Mean Change from Baseline to Week 48 in Visual Acuity by Treatment Group for the MYRROR Study (Full Analysis Set, LOCF)
+
+Elderly population
+
+In the myopic CNV study, approximately 36% (33/91) of the patients randomised to treatment with Eylea were 65 years of age or older, and approximately 10% (9/91) were 75 years of age or older.
+
 Paediatric population
 
-The European Medicines Agency has waived the obligation to submit the results of studies with Eylea in all subsets of the paediatric population in wet AMD, CRVO, BRVO and DME (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with Eylea in all subsets of the paediatric population in wet AMD, CRVO, BRVO, DME and myopic CNV populations (see section 4.2 for information on paediatric use).
 
 [Eylea 40 mg/ml solution for injection in a vial.]
+
+Also at the 52 week time point, in the VIEW2 study there were mean decreases in retinal thickness on OCT (-149 and -139 microns for the Eylea 2 mg every two months and ranibizumab 0.5 mg every month study groups, respectively).
+The reduction of CNV size and reduction in retinal thickness were generally maintained in the second year of the studies.
 
 In CRVO and BRVO retinal ischaemia occurs and signals the release of VEGF which in turn destabilises the tight junctions and promotes endothelial cell proliferation.
 
 In patients treated with Eylea (one injection every month for six months) there was consistent, rapid and robust response in morphology (central retinal thickness [CRT] as assessed by OCT).
 
-Retinal thickness on OCT at week 24 compared to baseline was a secondary efficacy variable in the COPERNICUS and GALILEO studies (CRVO) and the VIBRANT study (BRVO).
+In the COPERNICUS and GALILEO studies (CRVO) the mean decrease from baseline in CRT at week 24 was significantly greater in patients treated with Eylea 2 mg every month than in the control group (-457 microns vs. -145 microns in COPERNICUS, and -449 microns vs. -169 microns in GALILEO).
+In the VIBRANT study (BRVO) the mean decrease from baseline in CRT at week 24 was significantly greater in patients treated with Eylea 2 mg every month than in the control group (-280 microns vs. -128 microns).
+This decrease from baseline was maintained to end of study, week 100 in COPERNICUS, week 76 in GALILEO, and week 52 in VIBRANT.
 
 | Efficacy Outcome | Eylea 2Q8 E) (Eylea 2 mg every 8 weeks following 3 initial monthly doses) (N = 607) |  | Ranibizumab 0.5Q4 (ranibizumab 0.5 mg every 4 weeks) (N = 595) |  |
 | --- | --- | --- | --- | --- |
@@ -362,14 +387,24 @@ In combined data analysis of the VIEW1 and VIEW2 studies Eylea demonstrated clin
 |  | Eylea 2mg Q4 (N = 91) | Active Control (laser) (N = 90) | Eylea 2mg Q8 (N = 91)D) | Active Control (laser)/Eylea 2mgE) (N = 90) |
 | Proportion of patients who gained at least 15 letters in BCVA from Baseline (%) | 52.7% | 26.7% | 57.1% | 41.1% |
 | Weighted Difference A,B (%) (95% CI) p-value | 26.6% (13.0, 40.1) p=0.0003 |  | 16.2% (2.0, 30.5) p=0.0296 |  |
-| Mean change in BCVA as measured by ETDRS letter score from Baseline (SD) | 17.0 (11.9) | 6.9 (12.9) | 17.1 (13.1) | 12.2 (11.9) |
+| Mean change in BCVA as measured by ETDRS letter score from Baseline (SD) | 17.0 | 6.9 | 17.1 | 12.2 (11.9) |
+|  | (11.9) | (12.9) | (13.1) |  |
 | Difference in LS mean A,C (95% CI) p-value | 10.5 (7.1, 14.0) p<0.0001 |  | 5.2 (1.7, 8.7) p=0.0035F) |  |
 
 C) LS mean difference and 95% CI based on an ANCOVA model with treatment group, baseline BCVA category
 (> 20/200 and ≤ 20/200) and region (North America vs. Japan) as fixed effects, and baseline BCVA as covariate
-Figure 3: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 24 52 in VIBRANT Study
+Figure 3: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 52in VIBRANT Study
 
 In the Eylea group the proportion of perfused patients was maintained through week 52).
 
 E BCVA: Best Corrected Visual Acuity
 Figure 4: Mean change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 52 in VIVIDDME and VISTADME Studies
+
+| Efficacy Outcomes | MYRROR |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | 24 Weeks |  | 48 Weeks |  |
+|  | Eylea 2mg (N = 90) | Sham (N = 31) | Eylea 2mg (N = 90) | Sham/ Eylea 2mg (N = 31) |
+| Mean change in BCVA letter score as measured by ETDRS from baseline (SD) B) | 12.1 (8.3) | -2.0 (9.7) | 13.5 (8.8) | 3.9 (14.3) |
+| Difference in LS mean C,D, E) (95% CI) | 14.1 (10.8, 17.4) |  | 9.5 (5.4, 13.7) |  |
+| Proportion of patients who gained at least 15 letters in BCVAB) from baseline | 38.9% | 9.7% | 50.0% | 29.0% |
+| Weighted difference D, F) (95% CI) | 29.2% (14.4, 44.0) |  | 21.0% (1.9, 40.1) |  |

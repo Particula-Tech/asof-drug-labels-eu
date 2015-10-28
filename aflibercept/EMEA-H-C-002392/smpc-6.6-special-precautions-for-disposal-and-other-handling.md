@@ -1,7 +1,7 @@
 # 6.6 Special precautions for disposal and other handling
 
 The pre-filled syringe is for single use only.
-Do not open sterile pre-filled blister outside the clean administration room.
+Do not open the sterile pre-filled blister outside the clean administration room.
 
 Since the pre-filled syringe contains more volume (90 microlitres) than the recommended dose
 (50 microlitres), a part of the volume contained in the syringe has to be discarded prior to the administration.
@@ -10,7 +10,6 @@ The solution should be inspected visually for any foreign particulate matter and
 In the event of either being observed, discard the medicinal product.
 
 For the intravitreal injection, a 30 G x ½ inch injection needle should be used.
-
 Instructions for use of pre-filled syringe:
 
 1.
@@ -21,22 +20,21 @@ Keep the syringe in the sterile tray until you are ready for assembly.
 Using aseptic technique, remove the syringe from the sterilised blister.
 3.
 To remove the syringe cap, hold the syringe in one hand while using the other hand to grasp the syringe cap with the thumb and fore finger.
-Please note: Snap off (do not turn or twist) the syringe cap.
+Please note: You should snap off (do not turn or twist) the syringe cap.
 
 4.
 To avoid compromising the sterility of the product, do not pull back on the plunger.
 5.
 Using aseptic technique, firmly twist the injection needle onto the Luer-lock syringe tip.
 
+.
 6.
-Remove the plastic needle shield.
-7.
 Holding the syringe with the needle pointing up, check the syringe for bubbles.
 If there are bubbles, gently tap the syringe with your finger until the bubbles rise to the top.
-8.
+7.
 To eliminate all bubbles and to expel excess medicinal product, slowly depress the plunger to align the cylindrical base of the dome plunger with the black dosing line on the syringe (equivalent to 50 microlitres).
 
-9.
+8.
 The pre-filled syringe is for single use only.
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -63,9 +61,7 @@ Note: Filter needle is not to be used for intravitreal injection.
 
 Using aseptic technique, firmly twist a 30 G x ½ inch injection needle to the Luer-lock syringe tip.
 
-When ready to administer Eylea, remove the plastic needle shield.
+9.
+Eliminate all bubbles and expel excess medicinal product by slowly depressing the plunger so that the plunger tip aligns with the line that marks 0.05 ml on the syringe.
 
 10.
-Eliminate all bubbles and expel excess drug by slowly depressing the plunger so that the plunger tip aligns with the line that marks 0.05 ml on the syringe.
-
-11.
