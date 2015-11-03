@@ -28,7 +28,8 @@ Vascular disorders:
 Very common: Hypotension*, hypertension*
 
 Respiratory, thoracic and mediastinal disorders
-Uncommon: Dyspnoea
+Common: Respiratory depression
+Uncommon: Dyspnoea, apnoea
 
 Gastrointestinal disorders
 Common: Nausea, vomiting, dry mouth
@@ -55,3 +56,8 @@ Paediatric population
 Children > 1 month post-natal, predominantly post-operative, have been evaluated for treatment up to 24 hours in the ICU and demonstrated a similar safety profile as in adults.
 Data in new-born infants (28 – 44 weeks gestation) is very limited and restricted to maintenance doses ≤ 0.2 mcg/kg/h.
 A single case of hypothermic bradycardia in a neonate has been reported in the literature.
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

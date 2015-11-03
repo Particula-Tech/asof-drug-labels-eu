@@ -7,6 +7,6 @@ Each 2 ml vial contains 200 micrograms of dexmedetomidine.
 Each 4 ml vial contains 400 micrograms of dexmedetomidine.
 Each 10 ml vial contains 1000 micrograms of dexmedetomidine.
 
-The concentration of the final solution after dilution is 4 micrograms/ml.
+The concentration of the final solution after dilution should be either 4 micrograms/ml or 8 micrograms/ml.
 
 For the full list of excipients, see section 6.1.

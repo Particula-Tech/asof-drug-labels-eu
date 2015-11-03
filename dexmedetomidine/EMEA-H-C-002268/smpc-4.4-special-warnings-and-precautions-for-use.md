@@ -2,7 +2,7 @@
 
 Dexdor is intended for use in an intensive care setting and use in other environments is not recommended.
 All patients should have continuous cardiac monitoring during Dexdor infusion.
-Respiration should be monitored in non-intubated patients.
+Respiration should be monitored in non-intubated patients due to the risk of respiratory depression and in some case apnoea (see section 4.8).
 
 Dexdor should not be used as an induction agent for intubation or to provide sedation during muscle relaxant use.
 

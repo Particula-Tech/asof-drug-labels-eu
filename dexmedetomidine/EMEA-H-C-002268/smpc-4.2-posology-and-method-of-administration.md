@@ -21,7 +21,7 @@ The use of Dexdor for longer than this period should be regularly reassessed.
 
 Special populations
 
-Elderly patients: No dose adjustment is normally required for elderly patients.
+Elderly: No dose adjustment is normally required for elderly patients.
 
 Renal impairment: No dose adjustment is required for patients with renal impairment.
 

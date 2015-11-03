@@ -9,4 +9,3 @@ Expected effects are primarily cardiovascular and should be treated as clinicall
 At high concentration hypertension may be more prominent than hypotension.
 In clinical studies, cases of sinus arrest reversed spontaneously or responded to treatment with atropine and glycopyrrolate.
 Resuscitation was required in isolated cases of severe overdose resulting in cardiac arrest.
-None of the cases of overdose have resulted in death.
