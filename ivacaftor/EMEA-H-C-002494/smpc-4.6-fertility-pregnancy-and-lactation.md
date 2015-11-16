@@ -12,6 +12,6 @@ The safe use of Kalydeco during breast-feeding has not been established.
 Kalydeco should only be used during breast-feeding if the potential benefit outweighs the potential risk.
 
 Fertility
-Ivacaftor impaired fertility and reproductive performance indices in male and female rats at
-200 mg/kg/day (approximately 5 and 6 times, respectively, the maximum recommended human dose (MRHD) based on summed AUCs of ivacaftor and its metabolites) when dams were dosed prior to and during early pregnancy (see section 5.3).
-No effects on male or female fertility and reproductive performance indices were observed at ≤100 mg/kg/day (approximately 3 times the MRHD based on summed AUCs of ivacaftor and its metabolites).
+Ivacaftor impaired fertility and reproductive performance indices in male and female rats at 200 mg/kg/day (resulting in exposures approximately 5 and 6 times, respectively, the exposure in humans at the maximum recommended human dose [MRHD] based on summed AUCs of ivacaftor and its metabolites) when dams were dosed prior to and during early pregnancy (see section 5.3).
+No effects on male or female fertility and reproductive performance indices were observed at
+≤100 mg/kg/day (resulting in exposures approximately 3 times the exposure in humans at the MRHD based on summed AUCs of ivacaftor and its metabolites).

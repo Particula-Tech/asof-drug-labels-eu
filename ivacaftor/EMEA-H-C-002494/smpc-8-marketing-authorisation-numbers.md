@@ -1,3 +1,8 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/12/782/001-002
+
+[Kalydeco 50 mg granules in sachet]
+
+EU/1/12/782/003
+EU/1/12/782/004

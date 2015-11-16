@@ -2,6 +2,19 @@
 
 Each film-coated tablet contains 150 mg of ivacaftor.
 
-Excipient with known effect: each film-coated tablet contains 167.2 mg lactose (as monohydrate)
+Excipient with known effect:
+Each film-coated tablet contains 167.2 mg of lactose (as monohydrate)
 
 For the full list of excipients, see section 6.1.
+
+[Kalydeco 50 mg granules in sachet]
+
+Kalydeco 50 mg granules in sachet
+Each sachet contains 50 mg of ivacaftor.
+
+Each sachet contains 73.2 mg of lactose (as monohydrate)
+
+Kalydeco 75 mg granules in sachet
+Each sachet contains 75 mg of ivacaftor.
+
+Each sachet contains 109.8 mg of lactose (as monohydrate)

@@ -12,7 +12,7 @@ Magnesium stearate
 Tablet film coat
 Polyvinyl alcohol
 Titanium dioxide (E171)
-Macrogol
+Macrogol (PEG 3350)
 Talc
 Indigo carmine aluminum lake (E132)
 Carnauba wax
@@ -22,3 +22,8 @@ Shellac
 Iron oxide black (E172)
 Propylene glycol
 Ammonium hydroxide
+
+[Kalydeco 50 mg granules in sachet]
+
+Mannitol
+Sucralose
