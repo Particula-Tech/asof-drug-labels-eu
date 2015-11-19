@@ -8,6 +8,7 @@ Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10),
 
 Metabolism and nutrition disorders
 Uncommon: anorexia, decreased appetite, dehydration.
+Rare: hyponatremia
 
 Psychiatric disorders
 Uncommon: anxiety, insomnia, confusional state, hallucination.
