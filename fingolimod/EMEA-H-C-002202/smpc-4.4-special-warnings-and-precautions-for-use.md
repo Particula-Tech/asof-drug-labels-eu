@@ -21,6 +21,10 @@ If the heart rate at 6 hours is the lowest since the first dose was administered
 Additionally, if after 6 hours, the heart rate is <45 bpm, or the ECG shows new onset second degree or higher grade AV block or a QTc interval ≥500 msec, extended monitoring (at least overnight monitoring), should be performed, and until the findings have resolved.
 The occurrence at any time of third degree AV block should also lead to extended monitoring (at least overnight monitoring).
 
+Very rare cases of T-wave inversion have been reported in patients treated with fingolimod.
+In case of T-wave inversion, the prescriber should ensure that there are no associated myocardial ischaemia signs or symptoms.
+If myocardial ischaemia is suspected, it is recommended to seek advice from a cardiologist.
+
 Due to the risk of serious rhythm disturbances, Gilenya should not be used in patients with second degree Mobitz type II or higher AV block, sick-sinus syndrome, or sino-atrial heart block, a history of symptomatic bradycardia or recurrent syncope, or in patients with significant QT prolongation (QTc>470msec (female) or >450msec (male)).
 Since significant bradycardia may be poorly tolerated in patients with known ischaemic heart disease (including angina pectoris), cerebrovascular disease, history of myocardial infarction, congestive heart failure, history of cardiac arrest, uncontrolled hypertension or severe sleep apnoea, Gilenya should not be used in these patients.
 In such patients, treatment with Gilenya should be considered only if the anticipated benefits outweigh the potential risks.
@@ -69,7 +73,7 @@ It is recommended that patients without a health care professional confirmed his
 A full course of vaccination for antibody-negative patients with varicella vaccine is recommended prior to commencing treatment with Gilenya (see section 4.8).
 Initiation of treatment with Gilenya should be postponed for 1 month to allow full effect of vaccination to occur.
 
-The immune system effects of Gilenya may increase the risk of infections (see section 4.8).
+The immune system effects of Gilenya may increase the risk of infections, including opportunistic infections (see section 4.8).
 Effective diagnostic and therapeutic strategies should be employed in patients with symptoms of infection while on therapy.
 During treatment, patients receiving Gilenya should be instructed to report symptoms of infection to their physician.
 
@@ -161,6 +165,11 @@ A decision to use prolonged concomitant treatment with corticosteroids should be
 Co-administration with potent CYP450 inducers
 The combination of fingolimod with potent CYP450 inducers should be used with caution.
 Concomitant administration with St John’s wort is not recommended (see section 4.5).
+
+Basal cell carcinoma
+Basal cell carcinoma (BCC) has been reported in patients receiving Gilenya (see section 4.8).
+Vigilance for skin lesions is warranted and a medical evaluation of the skin is recommended at initiation, after at least one year and then at least yearly taking into consideration clinical judgement.
+The patient should be referred to a dermatologist in case suspicious lesions are detected.
 
 Stopping therapy
 If a decision is made to stop treatment with Gilenya a 6 week interval without therapy is needed, based on half-life, to clear fingolimod from the circulation (see section 5.2).
