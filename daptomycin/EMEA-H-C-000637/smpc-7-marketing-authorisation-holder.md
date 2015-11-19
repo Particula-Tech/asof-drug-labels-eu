@@ -1,7 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 Novartis Europharm Limited
-Wimblehurst Road
-Horsham
-West Sussex, RH12 5AB
+Frimley Business Park
+Camberley GU16 7SR
 United Kingdom

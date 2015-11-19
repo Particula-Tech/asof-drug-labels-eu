@@ -2,7 +2,6 @@
 
 General
 If a focus of infection other than cSSTI or RIE is identified after initiation of Cubicin therapy consideration should be given to instituting alternative antibacterial therapy that has been demonstrated to be efficacious in the treatment of the specific type of infection(s) present.
-
 Anaphylaxis/hypersensitivity reactions
 Anaphylaxis/hypersensitivity reactions have been reported with Cubicin.
 If an allergic reaction to Cubicin occurs, discontinue use and institute appropriate therapy.
@@ -18,6 +17,7 @@ The efficacy of Cubicin in patients with prosthetic valve infections or with lef
 
 Deep-seated infections
 Patients with deep-seated infections should receive any required surgical interventions (e.g. debridement, removal of prosthetic devices, valve replacement surgery) without delay.
+
 Enterococcal infections
 There is insufficient evidence to be able to draw any conclusions regarding the possible clinical efficacy of Cubicin against infections due to enterococci, including Enterococcus faecalis and Enterococcus faecium.
 In addition, dose regimens of daptomycin that might be appropriate for the treatment of enterococcal infections, with or without bacteraemia, have not been identified.
@@ -34,7 +34,6 @@ If CDAD is suspected or confirmed, Cubicin may need to be discontinued and appro
 
 Drug/laboratory test interactions
 False prolongation of prothrombin time (PT) and elevation of international normalised ratio (INR) have been observed when certain recombinant thromboplastin reagents are utilised for the assay (see also section 4.5).
-
 Creatine phosphokinase and myopathy
 Increases in plasma creatine phosphokinase (CPK; MM isoenzyme) levels associated with muscular pains and/or weakness and cases of myositis, myoglobinaemia and rhabdomyolysis have been reported during therapy with Cubicin (see also sections 4.5, 4.8 and 5.3).
 In clinical studies, marked increases in plasma CPK to > 5x Upper Limit of Normal (ULN) without muscle symptoms occurred more commonly in Cubicin-treated patients (1.9%) than in those that received comparators (0.5%).
@@ -52,6 +51,10 @@ Therefore, it is recommended that:
 
 Peripheral neuropathy
 Patients who develop signs or symptoms that might represent a peripheral neuropathy during therapy with Cubicin should be investigated and consideration should be given to discontinuation of daptomycin (see sections 4.8 and 5.3).
+
+Paediatric population
+Paediatric patients below the age of one year should not be given Cubicin due to the risk of potential effects on muscular, neuromuscular, and/or nervous systems (either peripheral and/or central) that were observed in neonatal dogs (see section 5.3).
+
 Eosinophilic pneumonia
 Eosinophilic pneumonia has been reported in patients receiving Cubicin (see section 4.8).
 In most reported cases associated with Cubicin, patients developed fever, dyspnoea with hypoxic respiratory insufficiency, and diffuse pulmonary infiltrates.
@@ -59,7 +62,6 @@ The majority of cases occurred after more than 2 weeks of treatment with Cubicin
 Recurrence of eosinophilic pneumonia upon re-exposure has been reported.
 Patients who develop these signs and symptoms while receiving Cubicin should undergo prompt medical evaluation, including, if appropriate, bronchoalveolar lavage, to exclude other causes (e.g. bacterial infection, fungal infection, parasites, other medicinal products).
 Cubicin should be discontinued immediately and treatment with systemic steroids should be initiated when appropriate.
-
 Renal impairment
 Renal impairment has been reported during treatment with Cubicin.
 Severe renal impairment may in itself also pre-dispose to elevations in daptomycin levels which may increase the risk of development of myopathy (see above).

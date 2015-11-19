@@ -58,3 +58,41 @@ The success rates in RIE patients are shown in the table below.
 Failure of treatment due to persisting or relapsing Staphylococcus aureus infections was observed in 19/120 (15.8%) patients treated with Cubicin, 9/53 (16.7%) patients treated with vancomycin and 2/62 (3.2%) patients treated with an anti-staphylococcal semi-synthetic penicillin.
 Among these failures six patients treated with Cubicin and one patient treated with vancomycin were infected with Staphylococcus aureus that developed increasing MICs of daptomycin on or following therapy (see “Mechanisms of resistance” above).
 Most patients who failed due to persisting or relapsing Staphylococcus aureus infection had deep-seated infection and did not receive necessary surgical intervention.
+The safety and efficacy of daptomycin was evaluated in paediatric patients aged 1 to 17 years (Study DAP-PEDS-07-03) with cSSTI caused by Gram positive pathogens.
+Patients were enrolled in a stepwise approach into well-defined age groups and given age-dependent doses once daily for up to 14 days, as follows:
+
+- Age group 1 (n=113): 12 to 17 years treated with daptomycin dosed at 5 mg/kg or standard-of-care (SOC);
+- Age group 2 (n=113): 7 to 11 years treated with daptomycin dosed at 7 mg/kg or SOC;
+- Age group 3 (n=125): 2 to 6 years treated with daptomycin dosed at 9 mg/kg or SOC;
+- Age group 4 (n=45): 1 to < 2 years treated with daptomycin dosed at 10 mg/kg or SOC.
+
+The primary objective of Study DAP-PEDS-07-03 was to assess the safety of treatment.
+Secondary objectives included an assessment of efficacy of age-dependent doses of intravenous daptomycin in comparison with standard-of-care therapy.
+The key efficacy endpoint was the sponsor-defined clinical outcome at test-of-cure (TOC), which was defined by a blinded medical director.
+
+A total of 389 subjects were treated in the study, including 256 subjects who received daptomycin and 133 subjects who received standard-of-care.
+In all populations the clinical success rates were comparable between the daptomycin and SOC treatment arms, supporting the primary efficacy analysis in the ITT population.
+
+Summary of sponsor-defined clinical outcome at test-of-cure:
+
+Clinical Success
+
+DAP SOC
+n/N (%) n/N (%) % difference
+Intent-to-treat 227/257 (88.3%) 114/132 (86.4%) 2.0
+Modified intent-to-treat 186/210 (88.6%) 92/105 (87.6%) 0.9
+Clinically evaluable 204/207 (98.6%) 99/99 (100%) -1.5
+Microbiologically evaluable (ME) 164/167 (98.2%) 78/78 (100%) -1.8
+
+The overall therapeutic response rate also was similar for the daptomycin and SOC treatment arms for infections caused by MRSA, MSSA and Streptococcus pyogenes (see table below; ME population); response rates were > 94% for both treatment arms across these common pathogens.
+
+Summary of overall therapeutic response by type of baseline pathogen (ME population):
+
+| Pathogen | Success a rate n/N (%) |  |
+| --- | --- | --- |
+|  | Cubicin | Comparator |
+| Methicillin-susceptible Staphylococcus aureus (MSSA) | 68/69 (99%) | 28/29 (97%) |
+| Methicillin-resistant Staphylococcus aureus (MRSA) | 63/66 (96%) | 34/34 (100%) |
+| Streptococcus pyogenes | 17/18 (94%) | 5/5 (100%) |
+
+a Subjects achieving clinical success (Clinical Response of “Cure” or “Improved”) and microbiological success (pathogen–level response of “Eradicated” or “Presumed Eradicated”) are classified as overall therapeutic success.

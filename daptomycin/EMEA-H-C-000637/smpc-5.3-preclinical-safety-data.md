@@ -20,9 +20,12 @@ The findings of in vitro and some in vivo studies designed to investigate the me
 The specific cell surface component directly targeted has not been identified.
 Mitochondrial loss/damage was also observed; however the role and significance of this finding in the overall pathology are unknown.
 This finding was not associated with an effect on muscle contraction.
-
 In contrast to adult dogs, juvenile dogs appeared to be more sensitive to peripheral nerve lesions as compared to skeletal myopathy.
 Juvenile dogs developed peripheral and spinal nerve lesions at doses lower than those associated with skeletal muscle toxicity.
+
+In neonatal dogs, daptomycin caused marked clinical signs of twitching, muscle rigidity in the limbs, and impaired use of limbs, which resulted in decreases in body weight and overall body condition at doses ≥50 mg/kg/day and necessitated early discontinuation of treatment in these dose groups.
+At lower dose levels (25 mg/kg/day), mild and reversible clinical signs of twitching and one incidence of muscle rigidity were observed without any effects on body weight.
+There was no histopathological correlation in the peripheral and central nervous system tissue, or in the skeletal muscle, at any dose level, and the mechanism and clinical relevance for the adverse clinical signs are therefore unknown.
 
 Reproductive toxicity testing showed no evidence of effects on fertility, embryofetal, or postnatal development.
 However, daptomycin can cross the placenta in pregnant rats (see section 5.2).
