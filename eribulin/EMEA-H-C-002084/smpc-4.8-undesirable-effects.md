@@ -2,14 +2,14 @@
 
 Summary of safety profile
 
-The most commonly reported undesirable effects related to HALAVEN, are bone marrow suppression manifested as neutropenia, leucopenia, anaemia, thrombocytopenia with associated infections.
+The most commonly reported adverse reactions related to HALAVEN, are bone marrow suppression manifested as neutropenia, leucopenia, anaemia, thrombocytopenia with associated infections.
 New onset or worsening of pre-existing peripheral neuropathy has also been reported.
 Gastrointestinal toxicities, manifested as anorexia, nausea, vomiting, diarrhoea, constipation, and stomatitis are among reported undesirable effects.
 Other undesirable effects include fatigue, alopecia, increased liver enzymes, sepsis and musculoskeletal pain syndrome.
 
 Tabulated list of adverse reactions
 
-Unless otherwise noted, the table shows the incidence rates of adverse events observed in 1503 breast cancer patients who received the recommended dose in five Phase 2 and two Phase 3 studies.
+Unless otherwise noted, the table shows the incidence rates of adverse reactions observed in 1503 breast cancer patients who received the recommended dose in five Phase 2 and two Phase 3 studies.
 
 Frequency categories are defined as: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000) and very rare (< 1/10,000).
 Within each frequency grouping, undesirable effects are presented in order of decreasing frequency.
@@ -35,12 +35,12 @@ Where Grade 3 or 4 reactions occurred, the actual total frequency and the freque
 | Skin and subcutaneous tissue disorders | Alopecia | Rash Pruritus (3.9%) (G3/4: 0.1%) Nail disorder Night sweats Dry skin Erythema Hyperhidrosis | Palmar plantar erythrodysaesthesia | Angioedema |
 | Musculoskeletal and connective tissue disorders | Arthralgia and myalgia (19.4%) (G3/4: 1.1%) Back pain (13.0%) (G3/4:1.5%) Pain in extremity (10.0%) (G3/4: 0.7%) | Bone pain ( 9.6%) (G3/4: 1.7%) Muscle spasms (5.1%) (G3/4: 0.1%) Musculoskeletal pain and musculoskeletal chest pain Muscular weakness |  |  |
 | Renal and urinary disorders |  | Dysuria | Haematuria Proteinuria Renal failure |  |
-| General disorders and administration site conditions | Fatigue/Asthenia (47.9%) (G3/4 : 7.8%) Pyrexia (20.4%) (G3/4: 0.6%) | Mucosal inflammation (8.3%) (G3/4: 1.1%)d Peripheral oedema Pain Chills Chest pain Influenza like illness |  |  |
+| General disorders and administration site conditions | Fatigue/Asthenia (47.9%) (G3/4 : 7.8%) Pyrexia (20.4%) (G3/4: 0.6%) | Mucosal Inflammation (8.3%) (G3/4: 1.1%)d Peripheral oedema Pain Chills Chest pain Influenza like illness |  |  |
 | Investigations | Weight decreased (11.3%) (G3/4: 0.3%) |  |  |  |
 
 a Includes 1 or 2 Grade 5 b From spontaneous reporting c Includes preferred terms of peripheral neuropathy, peripheral motor neuropathy, polyneuropathy, paraesthesia, peripheral sensory neuropathy, peripheral sensorimotor neuropathy and demyelinating polyneuropathy d No Grade 4
 
-Selected adverse reactions
+Description of selected adverse reactions
 
 Neutropenia
 The neutropenia observed was reversible and not cumulative; the mean time to nadir was 13 days and the mean time to recovery from severe neutropenia (< 0.5 x 109/l) was 8 days.
@@ -61,7 +61,7 @@ In patients with pre-existing Grade 1 or 2 peripheral neuropathy the frequency o
 
 Hepatotoxicity
 In some patients with normal/abnormal liver enzymes prior treatment with eribulin, increased levels of liver enzymes have been reported with initiation of eribulin treatment.
-Such elevations appeared to have occurred early with eribulin treatment in cycle 1 – 2 for the majority of these patients and whilst thought likely to be a phenomenon of adaptation to eribulin treatment by the liver and not a sign of significant liver toxicity in most patients , hepatotoxicity has also been reported.
+Such elevations appeared to have occurred early with eribulin treatment in cycle 1 – 2 for the majority of these patients and whilst thought likely to be a phenomenon of adaptation to eribulin treatment by the liver and not a sign of significant liver toxicity in most patients, hepatotoxicity has also been reported.
 
 Special populations
 

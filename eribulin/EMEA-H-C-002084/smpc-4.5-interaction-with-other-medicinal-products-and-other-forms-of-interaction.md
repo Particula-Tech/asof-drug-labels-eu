@@ -18,6 +18,6 @@ Effects of eribulin on the pharmacokinetics of other drugs
 
 In vitro data indicate that eribulin is a mild inhibitor of the important drug metabolising enzyme CYP3A4.
 No in vivo data are available.
-Caution and monitoring for adverse effects is recommended with concomitant use of substances that have a narrow therapeutic window and that are eliminated mainly via CYP3A4-mediated metabolism (eg alfentanil, cyclosporine, ergotamine, fentanyl, pimozide, quinidine, sirolimus, tacrolimus).
+Caution and monitoring for adverse events is recommended with concomitant use of substances that have a narrow therapeutic window and that are eliminated mainly via CYP3A4-mediated metabolism (eg alfentanil, cyclosporine, ergotamine, fentanyl, pimozide, quinidine, sirolimus, tacrolimus).
 
 Eribulin does not inhibit the CYP enzymes CYP1A2, 2B6, 2C8, 2C9, 2C19, 2D6 or 2E1 at relevant clinical concentrations.

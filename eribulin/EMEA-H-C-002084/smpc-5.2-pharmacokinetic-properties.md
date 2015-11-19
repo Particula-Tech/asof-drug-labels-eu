@@ -24,13 +24,14 @@ Preclinical in vitro studies indicate that eribulin is transported by Pgp.
 However it has been shown that at clinically relevant concentrations eribulin is not a Pgp inhibitor in vitro.
 Additionally, in vivo, concomitant administration of ketoconazole, a Pgp inhibitor, has no effect on eribulin exposure (AUC and Cmax).
 In vitro studies have also indicated that eribulin is not a substrate for OCT1.
+
 After administration of 14C-eribulin to patients, approximately 82% of the dose was eliminated in faeces and 9% in urine indicating that renal clearance is not a significant route of eribulin elimination.
 
 Unchanged eribulin represented most of the total radioactivity in faeces and urine.
 
 Hepatic impairment
 
-A study evaluated the PK of eribulin in patients with mild (Child-Pugh A; n=7) and moderate (Child-Pugh B; n=4) hepatic impairment due to liver metastases.
+A study evaluated the pharmacokinetics of eribulin in patients with mild (Child-Pugh A; n=7) and moderate (Child-Pugh B; n=4) hepatic impairment due to liver metastases.
 Compared to patients with normal hepatic function (n=6), eribulin exposure increased 1.8-fold and 3-fold in patients with mild and moderate hepatic impairment, respectively.
 Administration of HALAVEN at a dose of 0.97 mg/m2 to patients with mild hepatic impairment and 0.62 mg/m2 to patients with moderate hepatic impairment resulted in a somewhat higher exposure than after a dose of 1.23 mg/m2 to patients with normal hepatic function.
 HALAVEN was not studied in patients with severe hepatic impairment (Child-Pugh C). There is no study in patients with hepatic impairment due to cirrhosis.
@@ -38,6 +39,8 @@ See section 4.2 for dosage recommendation.
 
 Renal impairment
 
-Data in patients with different degrees of impaired renal function showed that the exposure of eribulin in patients with mild to moderate renal impairment (creatinine clearance ≥ 40 to 80 ml/min) was increased in some patients, as compared to patients with normal renal function.
-The mean exposure in patients with severe impairment was increased by 75% (creatinine clearance < 40 ml/min, n=4).
+Increased eribulin exposure was seen in some patients with moderately or severely impaired renal function, with high between-subject variability.
+The pharmacokinetics of eribulin were evaluated in a Phase 1 study in patients with normal renal function (Creatinine clearance: ≥ 80 ml/min; n=7), moderate (30-50 ml/min; n=6) or severe (15-<30 ml/min; n=6) renal impairment.
+Creatinine clearance was estimated with the Cockcroft-Gault formula.
+A 1.5-fold (90% CI: 0.9-2.5) higher dose-normalised AUC(0-inf) was observed in patients with moderate and severe renal impairment.
 See section 4.2 for treatment recommendations.

@@ -9,10 +9,10 @@ Treatment with eribulin should only be initiated in patients with ANC values ≥
 Febrile neutropenia occurred in < 5% of breast cancer patients treated with eribulin.
 Patients experiencing febrile neutropenia, severe neutropenia or thrombocytopenia, should be treated according to the recommendations in section 4.2.
 
-Patients with ALT or AST >3 x ULN experienced a higher incidence of Grade 4 neutropenia and febrile neutropenia.
+Patients with alanine aminotransferase (ALT) or aspartate aminotransferase (AST) >3 x upper limit of normal (ULN) experienced a higher incidence of Grade 4 neutropenia and febrile neutropenia.
 Although data are limited, patients with bilirubin >1.5 x ULN also have a higher incidence of Grade 4 neutropenia and febrile neutropenia.
 
-Severe neutropenia may be managed by the use of G-CSF or equivalent at the physician’s discretion in accordance with relevant guidelines (see section 5.1).
+Severe neutropenia may be managed by the use of granulocyte colony-stimulating factor (G-CSF) or equivalent at the physician’s discretion in accordance with relevant guidelines (see section 5.1).
 
 Peripheral neuropathy
 

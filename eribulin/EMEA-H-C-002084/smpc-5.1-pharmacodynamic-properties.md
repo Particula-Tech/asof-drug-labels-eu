@@ -2,7 +2,7 @@
 
 Pharmacotherapeutic group: Other antineoplastic agents, ATC code: L01XX41
 
-HALAVEN (eribulin mesilate) is a non-taxane, microtubule dynamics inhibitor belonging to the halichondrin class of antineoplastic agents.
+Eribulin mesilate is a non-taxane, microtubule dynamics inhibitor belonging to the halichondrin class of antineoplastic agents.
 It is a structurally simplified synthetic analogue of halichondrin B, a natural product isolated from the marine sponge Halichondria okadai.
 
 Eribulin inhibits the growth phase of microtubules without affecting the shortening phase and sequesters tubulin into non-productive aggregates.
@@ -15,7 +15,7 @@ The 762 patients in the pivotal Phase 3 EMBRACE study (Study 305) had locally re
 Patients must have progressed within 6 months of their last chemotherapeutic regimen.
 The HER2 status of the patients was: 16.1% positive, 74.2% negative and 9.7% unknown, whilst 18.9% of patients were triple negative.
 They were randomized 2:1 to receive either HALAVEN, or treatment of physician’s choice (TPC), which consisted of 97% chemotherapy (26% vinorelbine, 18% gemcitabine, 18% capecitabine, 16% taxane, 9% anthracycline, 10% other chemotherapy), or 3% hormonal therapy.
-The study met its primary endpoint with an overall survival result that was statistically significantly better in the eribulin group compared to TPC at 55% of events.
+The study met its primary endpoint with an overall survival (OS) result that was statistically significantly better in the eribulin group compared to TPC at 55% of events.
 This result was confirmed with an updated overall survival analysis carried out at 77% of events.
 Study 305 - Updated Overall Survival ( ITT Population)
 
@@ -54,7 +54,6 @@ The updated OS analysis showed a survival benefit for the eribulin group compare
 The second Phase 3 study in earlier line metastatic breast cancer, Study 301, was an open-label, randomized, study in patients (n=1102) with locally advanced or metastatic breast cancer to investigate the efficacy of HALAVEN monotherapy compared to capecitabine monotherapy in terms of OS and PFS as co-primary endpoint.
 Patients had previously received up to three prior chemotherapy regimens, including both an anthracycline and a taxane and a maximum of two for advanced disease, with the percentage who had received 0, 1 or 2 prior chemotherapy treatments for metastatic breast cancer being 20.0%, 52.0% or 27.2% respectively.
 The HER2 status of the patients was: 15.3% positive, 68.5% negative and 16.2% unknown, whilst 25.8% of patients were triple negative.
-
 Study 301 - Overall Survival (ITT Population)
 
 Efficacy Parameter OS in ITT Population
@@ -84,6 +83,7 @@ HALAVEN 554 530 505 464 423 378 349 320 268 243 214 193 173 151 133 119 99 77 52
 
 Progression free survival assessed by independent review was similar between eribulin and capecitabine with medians of 4.1 months vs 4.2 months (HR 1.08; [95% CI: 0.932, 1.250]) respectively.
 Objective response rate as assessed by independent review was also similar between eribulin and capecitabine; 11.0% (95% CI: 8.5, 13.9) in the eribulin group and 11.5% (95% CI: 8.9, 14.5) in the capecitabine group.
+
 The overall survival in patients in HER2 negative and HER2 positive patients in the eribulin and control groups in Study 305 and Study 301 is shown below:
 
 | Efficacy Parameter | Study 305 Updated Overall Survival ITT Population |  |  |  |
@@ -105,6 +105,5 @@ The overall survival in patients in HER2 negative and HER2 positive patients in 
 | p-value (log rank) | 0.030 |  | 0.837 |  |
 
 Note: Concomitant anti-HER2 therapy was not included in Study 305 and Study 301.
-
 Paediatric population
-The European Medicines Agency has waived the obligation to submit the results of studies with eribulin in all subsets of the paediatric population in the indication of breast cancer.
+The European Medicines Agency has waived the obligation to submit the results of studies with eribulin in all subsets of the paediatric population in the indication of breast cancer (see section 4.2 for information on paediatric use).
