@@ -319,8 +319,8 @@ The following list of adverse reactions is based on experience from clinical tri
 | Infections and infestations* | Very common | respiratory tract infections (including lower and upper respiratory tract infection, pneumonia, sinusitis, pharyngitis, nasopharyngitis and pneumonia herpes viral) |
 |  | Common | systemic infections (including sepsis, candidiasis and influenza), intestinal infections (including gastroenteritis viral), skin and soft tissue infections (including paronychia, cellulitis, impetigo, necrotising fasciitis and herpes zoster), ear infections, oral infections (including herpes simplex, oral herpes and tooth infections), reproductive tract infections (including vulvovaginal mycotic infection), urinary tract infections (including pyelonephritis), fungal infections, joint infections |
 |  | Uncommon | neurological infections (including viral meningitis), opportunistic infections and tuberculosis (including coccidioidomycosis, histoplasmosis and mycobacterium avium complex infection), bacterial infections, eye infections, diverticulitis1) |
-| Neoplasms benign, malignant and unspecified (including cysts and | Common | skin cancer excluding melanoma (including basal cell carcinoma and squamous cell carcinoma) |
-| polyps)* | Uncommon | benign neoplasm, lymphoma**, solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), melanoma** |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Common | skin cancer excluding melanoma (including basal cell carcinoma and squamous cell carcinoma) benign neoplasm, |
+|  | Uncommon | lymphoma**, solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), melanoma** |
 |  | Rare | leukaemia1) |
 |  | Not Known | hepatosplenic T-cell lymphoma1) Merkel cell carcinoma (neuroendocrine carcinoma of the skin)1) |
 | Blood and the lymphatic system disorders* | Very common | leucopaenia (including neutropaenia and agranulocytosis), anaemia |
@@ -346,8 +346,8 @@ The following list of adverse reactions is based on experience from clinical tri
 |  | Rare | cardiac arrest |
 | Vascular disorders | Common | hypertension, flushing, haematoma |
 |  | Uncommon | aortic aneurysm, vascular arterial occlusion, thrombophlebitis |
-| Respiratory, thoracic and mediastinal disorders* | Common | asthma, dyspnoea, cough |
-|  | Uncommon | pulmonary embolism1), interstitial lung disease, chronic obstructive pulmonary disease, pneumonitis, pleural effusion1) |
+| Respiratory, thoracic and | Common | asthma, |
+| mediastinal disorders* | Uncommon | dyspnoea, cough pulmonary embolism1), interstitial lung disease, chronic obstructive pulmonary disease, pneumonitis, pleural effusion1) |
 |  | Rare | pulmonary fibrosis1) |
 | Gastrointestinal disorders | Very common | abdominal pain, nausea and vomiting |
 |  | Common | GI haemorrhage, dyspepsia, gastroesophageal reflux disease, sicca syndrome |
@@ -358,8 +358,8 @@ The following list of adverse reactions is based on experience from clinical tri
 |  | Not known | liver failure1) |
 | Skin and subcutaneous tissue disorders | Very Common | rash (including exfoliative rash), |
 |  | Common | Worsening or new onset of psoriasis (including palmoplantar pustular psoriasis)1), urticaria, bruising (including purpura), dermatitis (including eczema), onychoclasis, hyperhydrosis, alopecia1), pruritus |
-|  | Uncommon | night sweats, scar |
-|  | Rare | erythema multiforme1), Stevens-Johnson syndrome1), angioedema1), cutaneous vasculitis1) |
+|  | Uncommon | night sweats, |
+|  | Rare | scar erythema multiforme1), Stevens-Johnson syndrome1), angioedema1), cutaneous vasculitis1) |
 |  | Not known | worsening of symptoms of dermatomyositis1) |
 | Musculoskeletal and connective tissue disorders | Very common | musculoskeletal pain |
 |  | Common | muscle spasms (including blood creatine phosphokinase increased) |

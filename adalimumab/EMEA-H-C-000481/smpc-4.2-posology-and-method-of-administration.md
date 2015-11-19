@@ -142,6 +142,10 @@ The recommended dose of Humira for adult patients is an initial dose of 80 mg ad
 
 Continued therapy beyond 16 weeks should be carefully reconsidered in a patient not responding within this time period.
 
+Beyond 16 weeks, patients with inadequate response may benefit from an increase in dosing frequency to 40 mg every week.
+The benefits and risks of continued weekly Humira therapy should be carefully reconsidered in a patient with an inadequate response after the increase in dosing frequency (see section 5.1).
+If adequate response is achieved with an increased dosing frequency, the dose may subsequently be reduced to 40 mg every other week.
+
 Hidradenitis suppurativa
 
 The recommended Humira dose regimen for adult patients with hidradenitis suppurativa (HS) is 160 mg initially at Day 1 (given as four 40 mg injections in one day or as two 40 mg injections per day for two consecutive days), followed by 80 mg two weeks later at Day 15 (given as two 40 mg injections in one day).
@@ -170,7 +174,6 @@ Some patients who experience decrease in their response may benefit from an incr
 Some patients who have not responded by Week 4 may benefit from continued maintenance therapy through Week 12.
 
 Ulcerative colitis
-
 The recommended Humira induction dose regimen for adult patients with moderate to severe ulcerative colitis is 160 mg at Week 0 (dose can be administered as four injections in one day or as two injections per day for two consecutive days) and 80 mg at Week 2.
 
 Available data suggest that clinical response is usually achieved within 2-8 weeks of treatment.

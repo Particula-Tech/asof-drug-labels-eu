@@ -296,7 +296,7 @@ A similar safety profile was observed during retreatment as before withdrawal.
 Significant improvements at Week 16 from baseline compared to placebo (Studies I and II) and MTX (Study II) were demonstrated in the DLQI (Dermatology Life Quality Index).
 In Study I, improvements in the physical and mental component summary scores of the SF-36 were also significant compared to placebo.
 
-In an open-label extension study, for patients who dose escalated from 40 mg every other week to 40 mg weekly due to a PASI response below 50% and were evaluated at 12 weeks after dose escalation, 93/349 (26.6%) of patients achieved PASI 75 response.
+In an open-label extension study, for patients who dose escalated from 40 mg every other week to 40 mg weekly due to a PASI response below 50%, 26.4% (92/349) and 37.8% (132/349) of patients achieved PASI 75 response at Week 12 and 24, respectively.
 
 Psoriasis Study III (REACH) compared the efficacy and safety of Humira versus placebo in 71 patients with moderate to severe chronic plaque psoriasis and hand and/or foot psoriasis.
 Patients received an initial dose of 80 mg Humira followed by 40 mg every other week (starting one week after the initial dose) or placebo for 16 weeks.
@@ -852,6 +852,8 @@ A modified Total Sharp Score (mTSS), which included distal interphalangeal joint
 
 Humira treatment reduced the rate of progression of peripheral joint damage compared with placebo treatment as measured by change from baseline in mTSS (mean ± SD) 0.8 ± 2.5 in the placebo group (at Week 24) compared with 0.0 ± 1.9( p< 0.001) in the Humira group (at Week 48).
 
+In an open-label extension study, for patients who dose escalated from 40 mg every other week to 40 mg weekly due to a PASI response below 50%, 26.4%(92/349) and 37.8% (132/349) of patients achieved PASI 75 response at Week 12 and 24, respectively.
+
 |  | Placebo (treatment withdrawal) N = 73 | Humira 40 mg every other week N = 70 | Humira 40 mg weekly N = 70 |
 | --- | --- | --- | --- |
 | Week 24 | 24 (32.9%) | 36 (51.4%) | 40 (57.1%) |
@@ -916,6 +918,8 @@ Upon completion of both studies, 383 patients enrolled in an open-label extensio
 | a p < 0.001 Humira vs. placebo b p < 0.001 Humira vs. methotrexate c p < 0.01 Humira vs. placebo d p < 0.05 Humira vs. methotrexate |  |  |  |
 
 In Psoriasis Study I, 28% of patients who were PASI 75 responders and were re-randomised to placebo at Week 33 compared to 5% continuing on Humira, p < 0.001, experienced “loss of adequate response” (PASI score after Week 33 and on or before Week 52 that resulted in a <PASI 50 response relative to baseline with a minimum of a 6-point increase in PASI score relative to Week 33).
+
+In an open-label extension study, for patients who dose escalated from 40 mg every other week to 40 mg weekly due to a PASI response below 50% , 26.4% (92/349) and 37.8% (132/349) of patients achieved PASI 75 response at Week 12 and 24, respectively.
 
 Patients received Humira 0.8 mg/kg eow (up to 40 mg), 0.4 mg/kg eow (up to 20 mg), or methotrexate 0.1- 0.4 mg/kg weekly (up to 25 mg).
 At week 16, more patients randomised to Humira 0.8 mg/kg had positive efficacy responses (e.g., PASI 75) than those randomised to 0.4 mg/kg eow or MTX.
