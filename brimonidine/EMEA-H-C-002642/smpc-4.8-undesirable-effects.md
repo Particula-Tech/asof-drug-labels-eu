@@ -16,10 +16,12 @@ Table 1 – Adverse reactions
 | Nervous system disorders | Uncommon | Headache, paraesthesia |
 | Eye disorders | Uncommon | Eyelid oedema |
 | Vascular disorders | Common | Flushing |
+|  | Rare | Hypotension* |
 | Respiratory, thoracic and mediastinal disorders | Uncommon | Nasal congestion |
 | Gastrointestinal disorders | Uncommon | Dry mouth |
 | Skin and subcutaneous tissue disorders | Common | Erythema, pruritus, skin burning sensation |
 |  | Uncommon | Acne, allergic contact dermatitis, contact dermatitis, dermatitis, dry skin, pain of skin, skin discomfort, rash papular, rosacea, skin irritation, skin warm, swelling face*, urticaria* |
+|  | Rare | Angioedema* |
 | General disorders and administration site conditions | Uncommon | Feeling hot, peripheral coldness |
 
 * Adverse reactions reported from post-marketing data.

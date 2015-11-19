@@ -25,17 +25,15 @@ CEA and PSA were defined as follows:
 CEA: Clinician Erythema Assessment: 0=Clear skin with no signs of erythema, 1=Almost clear; slight redness, 2=Mild erythema; definite redness, 3=Moderate erythema+ marked redness and 4=Severe erythema+ fiery redness
 
 PSA: Patient Self-Assessment: 0=No redness, 1=Very mild redness, 2=Mild redness, 3=Moderate redness and 4=Severe redness
-
 Table 2: Percentage of subjects with a 2-grade improvement in both CEA and PSA
 
 | Success day 29 | Study 1 |  | Study 2 |  |
 | --- | --- | --- | --- | --- |
-|  | Mirvaso Gel n=12 7 | Vehicle Gel n=12 8 | Mirvaso Gel n=14 2 | Vehicle Gel n=14 2 |
+|  | Mirvaso Gel n=127 | Vehicle Gel n=128 | Mirvaso Gel n=142 | Vehicle Gel n=142 |
 | 3 hours after application | 31.5% | 10.9% | 25.4% | 9.2% |
 | 6 hours after application | 30.7% | 9.4% | 25.4% | 9.2% |
-|  | Mirvaso Gel n=12 7 | Vehicle Gel n=12 8 | Mirvaso Gel n=14 2 | Vehicle Gel n=14 2 |
 | 9 hours after application | 26.0% | 10.2% | 17.6% | 10.6% |
-| 12 hours after applicatio n | 22.8% | 8.6% | 21.1% | 9.9% |
+| 12 hours after application | 22.8% | 8.6% | 21.1% | 9.9% |
 | Day 29 p-value | <0.001 | - | <0.001 | - |
 
 Table 3: Percentage of subjects with severe erythema at baseline Day 1 (CEA or PSA grade 4) with 2-grade improvement in both CEA and PSA
@@ -53,11 +51,11 @@ Table 4: Percentage of subjects with a 1-grade improvement in both CEA and PSA
 
 | Success Day 29 | Study 1 |  | Study 2 |  |
 | --- | --- | --- | --- | --- |
-|  | Mirvaso Gel n=12 7 | Vehicle Gel n=12 8 | Mirvaso Gel n=14 2 | Vehicle Gel n=14 2 |
+|  | Mirvaso Gel n=127 | Vehicle Gel n=128 | Mirvaso Gel n=142 | Vehicle Gel n=142 |
 | 3 hours after application | 70.9% | 32.8% | 71.1% | 40.1% |
 | 6 hours after application | 69.3% | 32.0% | 64.8% | 43.0% |
 | 9 hours after application | 63.8% | 29.7% | 66.9% | 39.4% |
-| 12 hours after applicatio n | 56.7% | 30.5% | 53.5% | 40.1% |
+| 12 hours after application | 56.7% | 30.5% | 53.5% | 40.1% |
 | Day 29 p-value | <0.001 | - | <0.001 | - |
 
 No clinically meaningful trends with respect to tachyphylaxis or rebound effects (worsening of baseline erythema after cessation of treatment) were observed with use of Mirvaso for 29 days.
@@ -71,6 +69,5 @@ Mirvaso conveyed an increased risk of occurrence of any specific type of adverse
 
 Concomitant use of Mirvaso with other medicinal products for the treatment of inflammatory lesions of rosacea has not been systematically investigated.
 However, in the long term open label study, the efficacy and safety of Mirvaso, as described above, was not affected by the concomitant use of cosmetics or other medicinal products (e.g. topical metronidazole, topical azelaic acid, and oral tetracyclines including low dose doxycycline) for the treatment of inflammatory lesions of rosacea in the concerned subpopulation (131/449 patients in the study used concomitant rosacea medicinal product).
-
 Paediatric population
 The European Medicines Agency has waived the obligation to submit the results of studies with Mirvaso in all subsets of the paediatric population in treatment of rosacea (see section 4.2 for information on paediatric use).
