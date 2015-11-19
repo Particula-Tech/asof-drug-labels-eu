@@ -48,8 +48,7 @@ Anorexia 20.2 1.2 14.1 0.6
 Constipation 11.9 0.6 7.4 0.6
 Common Dyspepsia 5.4 0.6 0.6 0.0
 Skin and Very Rash 16.1 0.6 4.9 0.0
-subcutaneous common Alopecia 11.3 0.0*** 5.5 0.0***
-tissue disorders
+subcutaneous tissue disorders common Alopecia 11.3 0.0*** 5.5 0.0***
 Renal and Very Creatinine 10.7 0.6 9.8 1.2
 urinary common elevation
 disorders
@@ -250,7 +249,7 @@ Rare cases of radiation recall have been reported in patients who have received 
 Uncommon cases of peripheral ischaemia leading sometimes to extremity necrosis have been reported.
 
 Rare cases of bullous conditions have been reported including Stevens-Johnson syndrome and Toxic epidermal necrolysis which in some cases were fatal.
-Rarely, haemolytic anaemia has been reported in patients treated with pemetrexed.
+Rarely, immune-mediated haemolytic anaemia has been reported in patients treated with pemetrexed.
 
 Rare cases of anaphylactic shock have been reported.
 
