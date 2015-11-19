@@ -38,10 +38,10 @@ Two components, namely raltegravir and raltegravir-glucuronide, were detected in
 The major circulating entity was raltegravir and represented approximately 70 % of the total radioactivity; the remaining radioactivity in plasma was accounted for by raltegravir-glucuronide.
 Studies using isoform-selective chemical inhibitors and cDNA-expressed UDP-glucuronosyltransferases (UGT) show that UGT1A1 is the main enzyme responsible for the formation of raltegravir-glucuronide.
 Thus the data indicate that the major mechanism of clearance of raltegravir in humans is UGT1A1-mediated glucuronidation.
-
 UGT1A1 Polymorphism
 In a comparison of 30 subjects with *28/*28 genotype to 27 subjects with wild-type genotype, the geometric mean ratio (90 % CI) of AUC was 1.41 (0.96, 2.09) and the geometric mean ratio of C12 hr was 1.91 (1.43, 2.55).
 Dose adjustment is not considered necessary in subjects with reduced UGT1A1 activity due to genetic polymorphism.
+
 Special populations
 
 Paediatric population
@@ -76,7 +76,6 @@ Renal impairment
 Renal clearance of unchanged medicinal product is a minor pathway of elimination.
 In adults, there were no clinically important pharmacokinetic differences between patients with severe renal insufficiency and healthy subjects (see section 4.2).
 Because the extent to which raltegravir may be dialysable is unknown, dosing before a dialysis session should be avoided.
-
 Hepatic impairment
 Raltegravir is eliminated primarily by glucuronidation in the liver.
 In adults, there were no clinically important pharmacokinetic differences between patients with moderate hepatic insufficiency and healthy subjects.

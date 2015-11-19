@@ -1,9 +1,5 @@
 # 4.4 Special warnings and precautions for use
 
-Depression
-Depression, including suicidal ideation and behaviours, has been reported, particularly in patients with a pre-existing history of depression or psychiatric illness.
-Caution should be used in patients with a pre-existing history of depression or psychiatric illness.
-
 Patients should be advised that current anti-retroviral therapy does not cure HIV and has not been proven to prevent the transmission of HIV to others through blood contact.
 While effective viral suppression with antiretroviral therapy has been proven to substantially reduce the risk of sexual transmission, a residual risk cannot be excluded.
 Precautions to prevent transmission should be taken in accordance with national guidelines.
@@ -14,6 +10,10 @@ Raltegravir has a relatively low genetic barrier to resistance.
 Therefore, whenever possible, raltegravir should be administered with two other active ARTs to minimise the potential for virological failure and the development of resistance (see section 5.1).
 
 In treatment naïve patients, the clinical study data on use of raltegravir are limited to use in combination with two nucleotide reverse transcriptase inhibitors (NRTIs) (emtricitabine and tenofovir disoproxil fumarate).
+
+Depression
+Depression, including suicidal ideation and behaviours, has been reported, particularly in patients with a pre-existing history of depression or psychiatric illness.
+Caution should be used in patients with a pre-existing history of depression or psychiatric illness.
 
 Hepatic impairment
 The safety and efficacy of raltegravir have not been established in patients with severe underlying liver disorders.

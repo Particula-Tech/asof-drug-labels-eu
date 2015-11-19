@@ -47,9 +47,6 @@ Frequencies are defined as common (≥1/100 to < 1/10), uncommon (≥1/1,000 to 
 | Reproductive system and breast disorders | Uncommon | erectile dysfunction, gynaecomastia, menopausal symptoms |
 | General disorders and administration site conditions | common | asthenia, fatigue, pyrexia |
 |  | uncommon | chest discomfort, chills, face oedema, fat tissue increased, feeling jittery, malaise, submandibular mass, oedema peripheral, pain |
-
-| System Organ Class | Frequency | Adverse reactions ISENTRESS (alone or in combination with other ART) |
-| --- | --- | --- |
 | Investigations | common | alanine aminotransferase increased, atypical lymphocytes, aspartate aminotransferase increased, blood triglycerides increased, lipase increased, blood pancreatic amylase increased |
 |  | uncommon | absolute neutrophil count decreased, alkaline phosphatase increased, blood albumin decreased, blood amylase increased, blood bilirubin increased, blood cholesterol increased, blood creatinine increased, blood glucose increased, blood urea nitrogen increased, creatine phosphokinase increased, fasting blood glucose increased, glucose urine present, high density lipoprotein increased, international normalised ratio increased, low density lipoprotein increased, platelet count decreased, red blood cells urine positive, waist circumference increased, weight increased, white blood cell count decreased |
 | Injury, poisoning and procedural complications | Uncommon | accidental overdose |
@@ -140,8 +137,7 @@ The most frequently reported adverse reactions during treatment were headache an
 | Gastrointestinal disorders | common | abdominal distention, abdominal pain, diarrhoea, flatulence, nausea, vomiting, dyspepsia |
 |  | uncommon | gastritis, abdominal discomfort, abdominal pain upper, abdominal tenderness, anorectal discomfort, constipation, dry mouth, epigastric discomfort, erosive duodenitis, eructation, gastrooesophageal reflux disease, gingivitis, glossitis, odynophagia, pancreatitis acute, peptic ulcer, rectal haemorrahage |
 | Hepato-biliary disorders | Uncommon | hepatitis, hepatic steatosis, hepatitis alcoholic, hepatic failure |
-| Skin and subcutaneous tissue disorders | common | rash |
-|  | uncommon | acne, alopecia, dermatitis acneiforme, dry skin, erythema, facial wasting, hyperhidrosis, lipoatrophy, lipodystrophy acquired, lipohypertrophy, night sweats, prurigo, pruritus, pruritus generalised, rash macular, rash maculo-papular, rash pruritic, skin lesion, urticaria, xeroderma, Stevens Johnson syndrome, drug rash with eosinophilia and systemic symptoms (DRESS) |
+| Skin and subcutaneous tissue disorders | common uncommon | rash acne, alopecia, dermatitis acneiforme, dry skin, erythema, facial wasting, hyperhidrosis, lipoatrophy, lipodystrophy acquired, lipohypertrophy, night sweats, prurigo, pruritus, pruritus generalised, rash macular, rash maculo-papular, rash pruritic, skin lesion, urticaria, xeroderma, Stevens Johnson syndrome, drug rash with eosinophilia and systemic symptoms (DRESS) |
 | Musculoskeletal and connective tissue disorders | Uncommon | arthralgia, arthritis, back pain, flank pain, musculoskeletal pain, myalgia, neck pain, osteopenia, pain in extremity, tendonitis, rhabdomyolysis |
 | Renal and urinary disorders | Uncommon | renal failure, nephritis, nephrolithiasis, nocturia, renal cyst, renal impairment, tubulointerstitial nephritis |
 | Reproductive system and breast disorders | Uncommon | erectile dysfunction, gynaecomastia, menopausal symptoms |

@@ -277,16 +277,16 @@ Prior ART Use by Class
 
 NNRTI 78 %
 PI 83 %
+
+Final dose population
+
+Parameter N=96
 Response Week 24 Week 48
 
 Achieved ≥1 log10 HIV RNA drop from baseline or
 
 <400 copies/ml 72 % 79 %
 Achieved HIV RNA <50 copies/ ml 54 % 57 %
-
-Final dose population
-
-Parameter N=96
 Mean CD4 cell count (%) increase from baseline 119 cells/mm3 156 cells/mm3
 (3.8 %) (4.6 %)
 

@@ -33,7 +33,7 @@ The safety profile observed in patients who used atazanavir and / or tenofovir w
 Therefore no dose adjustment is required.
 
 Co-administration of ISENTRESS with antacids containing divalent metal cations may reduce raltegravir absorption by chelation, resulting in a decrease of raltegravir plasma levels.
-Taking an aluminium and magnesium antacid within 2 hours of ISENTRESS administration significantly decreased raltegravir plasma levels.
+Taking an aluminium and magnesium antacid within 6 hours of ISENTRESS administration significantly decreased raltegravir plasma levels.
 Therefore, co-administration of ISENTRESS with aluminium and/or magnesium containing antacids is not recommended.
 Co-administration of ISENTRESS with a calcium carbonate antacid decreased raltegravir plasma levels; however, this interaction is not considered clinically meaningful.
 Therefore, when ISENTRESS is co-administered with calcium carbonate containing antacids no dose adjustment is required.
@@ -69,7 +69,7 @@ Pharmacokinetic Interaction Data
 | SEDATIVE |  |  |
 | midazolam (raltegravir 400 mg Twice Daily) | midazolam AUC ↓8 % midazolam Cmax ↑3 % | No dosage adjustment required for ISENTRESS or midazolam. These results indicate that raltegravir is not an inducer or inhibitor of CYP3A4, and raltegravir is thus not anticipated to affect the pharmacokinetics of medicinal products which are CYP3A4 substrates. |
 | METAL CATION ANTACIDS |  |  |
-| aluminium and magnesium hydroxide antacid (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓49 % raltegravir C12 hr ↓63 % raltegravir Cmax ↓44 % 2 hours before raltegravir raltegravir AUC ↓51 % raltegravir C12 hr ↓56 % raltegravir Cmax ↓51 % 2 hours after raltegravir raltegravir AUC ↓30 % raltegravir C12 hr ↓57 % raltegravir Cmax ↓24 % (chelation of metal cations) | Aluminium and magnesium containing antacids reduce raltegravir plasma levels. Co-administration of ISENTRESS with aluminium and/or magnesium containing antacids is not recommended. |
+| aluminium and magnesium hydroxide antacid (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓49 % raltegravir C12 hr ↓63 % raltegravir Cmax ↓44 % 2 hours before raltegravir raltegravir AUC ↓51 % raltegravir C12 hr ↓56 % raltegravir Cmax ↓51 % 2 hours after raltegravir raltegravir AUC ↓30 % raltegravir C12 hr ↓57 % raltegravir Cmax ↓24 % 6 hours before raltegravir raltegravir AUC ↓13 % raltegravir C12 hr ↓50 % raltegravir Cmax ↓10 % 6 hours after raltegravir raltegravir AUC ↓11 % raltegravir C12 hr ↓49 % raltegravir Cmax ↓10 % (chelation of metal cations) | Aluminium and magnesium containing antacids reduce raltegravir plasma levels. Co-administration of ISENTRESS with aluminium and/or magnesium containing antacids is not recommended. |
 | calcium carbonate antacid (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓55 % raltegravir C12 hr ↓32 % raltegravir Cmax ↓52 % (chelation of metal cations) | No dose adjustment required for ISENTRESS. |
 | H2 BLOCKERS AND PROTON PUMP INHIBITORS |  |  |
 | omeprazole (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑37 % raltegravir C12 hr ↑24 % raltegravir Cmax ↑51 % (increased solubility) | No dose adjustment required for ISENTRESS. |
@@ -115,7 +115,7 @@ Pharmacokinetic Interaction Data in Adults
 | Medicinal products by therapeutic area | Interaction (mechanism, if known) | Recommendations concerning co-administration |
 | --- | --- | --- |
 | METAL CATION ANTACIDS |  |  |
-| aluminium and magnesium hydroxide antacid (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓49 % raltegravir C12 hr ↓63 % raltegravir Cmax ↓44 % 2 hours before raltegravir raltegravir AUC ↓51 % raltegravir C12 hr ↓56 % raltegravir Cmax ↓51 % 2 hours after raltegravir raltegravir AUC ↓30 % raltegravir C12 hr ↓57 % raltegravir Cmax ↓24 % (chelation of metal cations) | Aluminium and magnesium containing antacids reduce raltegravir plasma levels. Co-administration of ISENTRESS with aluminium and/or magnesium containing antacids is not recommended. |
+| aluminium and magnesium hydroxide antacid (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓49 % raltegravir C12 hr ↓63 % raltegravir Cmax ↓44 % 2 hours before raltegravir raltegravir AUC ↓51 % raltegravir C12 hr ↓56 % raltegravir Cmax ↓51 % 2 hours after raltegravir raltegravir AUC ↓30 % raltegravir C12 hr ↓57 % raltegravir Cmax ↓24 % 6 hours before raltegravir raltegravir AUC ↓13 % raltegravir C12 hr ↓50 % raltegravir Cmax ↓10 % 6 hours after raltegravir raltegravir AUC ↓11 % raltegravir C12 hr ↓49 % raltegravir Cmax ↓10 % (chelation of metal cations) | Aluminium and magnesium containing antacids reduce raltegravir plasma levels. Co-administration of ISENTRESS with aluminium and/or magnesium containing antacids is not recommended. |
 | calcium carbonate antacid (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓55 % raltegravir C12 hr ↓32 % raltegravir Cmax ↓52 % (chelation of metal cations) | No dose adjustment required for ISENTRESS. |
 | H2 BLOCKERS AND PROTON PUMP INHIBITORS |  |  |
 | omeprazole (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑37 % raltegravir C12 hr ↑24 % raltegravir Cmax ↑51 % (increased solubility) | No dose adjustment required for ISENTRESS. |

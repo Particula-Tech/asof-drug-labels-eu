@@ -9,6 +9,7 @@ ISENTRESS should not be used during pregnancy.
 Anti-retroviral Pregnancy Registry
 To monitor maternal-foetal outcomes in patients inadvertently administered ISENTRESS while pregnant, an Anti-retroviral Pregnancy Registry has been established.
 Physicians are encouraged to register patients in this registry.
+
 As a general rule, when deciding to use antiretroviral agents for the treatment of HIV infection in pregnant women and consequently for reducing the risk of HIV vertical transmission to the newborn, the animal data as well as the clinical experience in pregnant women should be taken into account in order to characterise the safety for the foetus.
 
 Breast-feeding
