@@ -10,8 +10,8 @@ For the full list of excipients, see section 6.1.
 
 [Cosentyx 150 mg solution for injection in pre-filled syringe]
 
-Each pre-filled syringe contains 150 mg secukinumab in 1 ml.
+Each pre-filled syringe contains 150 mg secukinumab* in 1 ml.
 
 [Cosentyx 150 mg solution for injection in pre-filled pen]
 
-Each pre-filled pen contains 150 mg secukinumab in 1 ml.
+Each pre-filled pen contains 150 mg secukinumab* in 1 ml.

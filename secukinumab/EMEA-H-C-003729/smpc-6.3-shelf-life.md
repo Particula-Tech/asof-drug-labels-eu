@@ -1,6 +1,7 @@
 # 6.3 Shelf life
 
 3 years
+
 After reconstitution
 
 Chemical and physical in-use stability has been demonstrated for 24 hours at 2ºC to 8ºC.

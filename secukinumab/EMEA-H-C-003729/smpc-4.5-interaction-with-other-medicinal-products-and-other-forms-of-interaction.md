@@ -8,3 +8,5 @@ The formation of some CYP450 enzymes is suppressed by increased levels of cytoki
 Thus, anti-inflammatory treatments, such as with the IL-17A inhibitor secukinumab, may result in normalisation of CYP450 levels with accompanying lower exposure of CYP450-metabolised co-medications.
 Therefore, a clinically relevant effect on CYP450 substrates with a narrow therapeutic index, where the dose is individually adjusted (e.g. warfarin) cannot be excluded.
 On initiation of secukinumab therapy in patients being treated with these types of medicinal products, therapeutic monitoring should be considered.
+
+No interaction was seen when Cosentyx was administered concomitantly with methotrexate (MTX) and/or corticosteroids in arthritis studies (including in patients with psoriatic arthritis and ankylosing spondylitis).

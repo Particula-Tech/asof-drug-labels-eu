@@ -6,8 +6,10 @@ EU/1/14/980/001
 
 EU/1/14/980/002
 EU/1/14/980/003
+EU/1/14/980/006
 
 [Cosentyx 150 mg solution for injection in pre-filled pen]
 
 EU/1/14/980/004
 EU/1/14/980/005
+EU/1/14/980/007
