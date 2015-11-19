@@ -1,7 +1,7 @@
 # 4.4 Special warnings and precautions for use
 
 The incidence and severity of adverse reactions generally increase with higher doses.
-If treatment is interrupted for more than several days, it should be re-initiated at 1.5 mg twice daily to reduce the possibility of adverse reactions (e.g. vomiting).
+If treatment is interrupted for more than three days, it should be re-initiated at 1.5 mg twice daily to reduce the possibility of adverse reactions (e.g. vomiting).
 
 Skin application site reactions may occur with rivastigmine patch and are usually mild or moderate in intensity.
 These reactions are not in themselves an indication of sensitisation.
@@ -12,7 +12,7 @@ In these cases, treatment should be discontinued (see section 4.3).
 Patients who develop application site reactions suggestive of allergic contact dermatitis to rivastigmine patch and who still require rivastigmine treatment should only be switched to oral rivastigmine after negative allergy testing and under close medical supervision.
 It is possible that some patients sensitised to rivastigmine by exposure to rivastigmine patch may not be able to take rivastigmine in any form.
 
-There have been rare post-marketing reports of patients experiencing disseminated skin hypersensitivity reactions when administered rivastigmine irrespective of the route of administration (oral, transdermal).
+There have been rare post-marketing reports of patients experiencing allergic dermatitis (disseminated) when administered rivastigmine irrespective of the route of administration (oral, transdermal).
 In these cases, treatment should be discontinued (see section 4.3).
 
 Patients and caregivers should be instructed accordingly.
@@ -34,6 +34,9 @@ In case of severe vomiting associated with rivastigmine treatment, appropriate d
 Some cases of severe vomiting were associated with oesophageal rupture (see section 4.8).
 Such events appeared to occur particularly after dose increments or high doses of rivastigmine.
 
+Rivastigmine may cause bradycardia which constitutes a risk factor in the occurrence of torsade de pointes, predominantly in patients with risk factors.
+Caution is advised in patients at higher risk of developing torsade de pointes; for example, those with uncompensated heart failure, recent myocardial infarction, bradyarrhythmias, a predisposition to hypokalaemia or hypomagnesaemia, or concomitant use with medicinal products known to induce QT prolongation and/or torsade de pointes (see sections 4.5 and 4.8).
+
 Care must be taken when using rivastigmine in patients with sick sinus syndrome or conduction defects (sino-atrial block, atrio-ventricular block) (see section 4.8).
 
 Rivastigmine may cause increased gastric acid secretions.
@@ -45,13 +48,14 @@ Cholinomimetics may induce or exacerbate urinary obstruction and seizures.
 Caution is recommended in treating patients predisposed to such diseases.
 
 The use of rivastigmine in patients with severe dementia of Alzheimer’s disease or associated with Parkinson’s disease, other types of dementia or other types of memory impairment (e.g. age-related cognitive decline) has not been investigated and therefore use in these patient populations is not recommended.
-
 Like other cholinomimetics, rivastigmine may exacerbate or induce extrapyramidal symptoms.
 Worsening (including bradykinesia, dyskinesia, gait abnormality) and an increased incidence or severity of tremor have been observed in patients with dementia associated with Parkinson’s disease (see section 4.8).
 These events led to the discontinuation of rivastigmine in some cases (e.g. discontinuations due to tremor 1.7% on rivastigmine vs 0% on placebo).
 Clinical monitoring is recommended for these adverse reactions.
+
 Special populations
 Patients with clinically significant renal or hepatic impairment might experience more adverse reactions (see sections 4.2 and 5.2).
+Dosing recommendations to titrate according to individual tolerability must be closely followed.
 Patients with severe hepatic impairment have not been studied.
 However, Exelon may be used in this patient population and close monitoring is necessary.
 
@@ -90,6 +94,8 @@ Gastrointestinal disorders such as nausea, vomiting and diarrhoea are dose-relat
 Weight loss
 Patients with Alzheimer’s disease may lose weight whilst taking cholinesterase inhibitors, including rivastigmine.
 The patient’s weight should be monitored during therapy with Exelon transdermal patches.
+
+Bradycardia
 Other adverse reactions
 Care must be taken when prescribing Exelon transdermal patches:
 
@@ -109,9 +115,8 @@ In case of contact with eyes or if the eyes become red after handling the patch,
 
 - Patients with body weight below 50 kg may experience more adverse reactions and may be more likely to discontinue due to adverse reactions (see section 4.2).
   Carefully titrate and monitor these patients for adverse reactions (e.g. excessive nausea or vomiting) and consider reducing the maintenance dose to the 4.6 mg/24 h transdermal patch if such adverse reactions develop.
-- Hepatic impairment: Patients with clinically significant hepatic impairment might experience more adverse reactions (see sections 4.2 and 5.2).
-  Consider using the 4.6 mg/24 h transdermal patch both as initial and maximum dose in these patients.
-- Renal impairment: Patients with clinically significant renal impairment might experience more adverse reactions (see sections 4.2 and 5.2).
+- Hepatic impairment: Patients with clinically significant hepatic impairment may experience more adverse reactions.
+  Particular caution must be exercised in titrating these patients (see sections 4.2 and 5.2).
 
 [Exelon 9.5 mg/24 h transdermal patch]
 

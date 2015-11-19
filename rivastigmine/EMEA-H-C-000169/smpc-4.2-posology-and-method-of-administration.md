@@ -34,13 +34,13 @@ Similarly a larger effect was observed in Parkinson’s disease patients with vi
 Treatment effect has not been studied in placebo-controlled trials beyond 6 months.
 
 Re-initiation of therapy
-If treatment is interrupted for more than several days, it should be re-initiated at 1.5 mg twice daily.
+If treatment is interrupted for more than three days, it should be re-initiated at 1.5 mg twice daily.
 Dose titration should then be carried out as described above.
 
 Renal and hepatic impairment
 No dose adjustment is necessary for patients with mild to moderate renal or hepatic impairment.
-However, due to increased exposure in these populations dosing recommendations to titrate according to individual tolerability should be closely followed as patients with clinically significant renal or hepatic impairment might experience more adverse reactions.
-Patients with severe hepatic impairment have not been studied (see sections 4.4 and 5.2).
+However, due to increased exposure in these populations dosing recommendations to titrate according to individual tolerability should be closely followed as patients with clinically significant renal or hepatic impairment might experience more dose-dependent adverse reactions.
+Patients with severe hepatic impairment have not been studied, however, Exelon capsules may be used in this patient population provided close monitoring is exercised (see sections 4.4 and 5.2).
 
 Paediatric population
 There is no relevant use of Exelon in the paediatric population in the treatment of Alzheimer’s disease.
@@ -63,6 +63,8 @@ Rivastigmine oral solution should be administered twice a day, with morning and 
 The prescribed amount of solution should be withdrawn from the container using the oral dosing syringe supplied.
 Rivastigmine oral solution may be swallowed directly from the syringe.
 Rivastigmine oral solution and rivastigmine capsules may be interchanged at equal doses.
+
+Patients with severe hepatic impairment have not been studied, however, Exelon oral solution may be used in this patient population provided close monitoring is exercised (see sections 4.4 and 5.2).
 
 [Exelon 4.6 mg/24 h transdermal patch]
 
@@ -107,10 +109,11 @@ Special populations
 - Paediatric population: There is no relevant use of Exelon in the paediatric population in the treatment of Alzheimer’s disease.
 - Patients with body weight below 50 kg: Particular caution should be exercised in titrating patients with body weight below 50 kg above the recommended effective dose of 9.5 mg/24 h (see section 4.4).
   They may experience more adverse reactions and may be more likely to discontinue due to adverse reactions.
-- Hepatic impairment: No dose adjustment is necessary for patients with hepatic impairment.
-  However, due to increased exposure in these populations as observed with the oral forms, dosing recommendations to titrate according to individual tolerability should be closely followed as patients with clinically significant hepatic impairment might experience more adverse reactions.
-- Renal impairment: No dose adjustment is necessary for patients with renal impairment.
-  However, due to increased exposure in these populations as observed with the oral forms, dosing recommendations to titrate according to individual tolerability should be closely followed as patients with clinically significant renal impairment might experience more adverse reactions (see sections 4.4 and 5.2).
+- Hepatic impairment: Due to increased exposure in mild to moderate hepatic impairment as observed with the oral formulation, dosing recommendations to titrate according to individual tolerability should be closely followed.
+  Patients with clinically significant hepatic impairment may experience more dose-dependent adverse reactions.
+  Patients with severe hepatic impairment have not been studied.
+  Particular caution should be exercised in titrating these patients (see sections 4.4 and 5.2).
+- Renal impairment: No dose adjustment is necessary for patients with renal impairment (see section 5.2).
 
 Method of administration
 Transdermal patches should be applied once a day to clean, dry, hairless, intact healthy skin on the upper or lower back, upper arm or chest, in a place which will not be rubbed by tight clothing.
