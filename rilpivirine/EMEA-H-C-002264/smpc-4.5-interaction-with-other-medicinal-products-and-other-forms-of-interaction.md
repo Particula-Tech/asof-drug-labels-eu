@@ -19,6 +19,8 @@ The clinical implications of this finding are currently unknown.
 Established and theoretical interactions with selected antiretrovirals and non-antiretroviral medicinal products are listed in table 1.
 
 Interaction table
+Interaction studies have only been performed in adults.
+
 Interactions between rilpivirine and co-administered medicinal products are listed in table 1 (increase is indicated as “↑”, decrease as “↓”, no change as “↔”, not applicable as “NA”, confidence interval as “CI”).
 
 | Table 1: INTERACTIONS AND DOSE RECOMMENDATIONS WITH OTHER MEDICINAL PRODUCTS |  |  |
@@ -52,7 +54,7 @@ Interactions between rilpivirine and co-administered medicinal products are list
 | Ketoconazole*# 400 mg once daily | ketoconazole AUC ↓ 24% ketoconazole Cmin ↓ 66% ketoconazole Cmax ↔ (induction of CYP3A due to high rilpivirine dose in the study) rilpivirine AUC ↑ 49% rilpivirine Cmin ↑ 76% rilpivirine Cmax ↑ 30% (inhibition of CYP3A enzymes) | At the recommended dose of 25 mg once daily, no dose adjustment is required when EDURANT is co-administered with ketoconazole. |
 | Fluconazole Itraconazole Posaconazole Voriconazole | Not studied. Concomitant use of EDURANT with azole antifungal agents may cause an increase in the plasma concentrations of rilpivirine. (inhibition of CYP3A enzymes) | No dose adjustment is required. |
 | ANTIMYCOBACTERIALS |  |  |
-| Rifabutin* 300 mg once daily† 300 mg once daily (+ 25 mg once daily rilpivirine) 300 mg once daily (+ 50 mg once daily rilpivirine) | rifabutin AUC ↔ rifabutin Cmin ↔ rifabutin Cmax ↔ 25-O-desacetyl-rifabutin AUC ↔ 25-O-desacetyl-rifabutin Cmin ↔ 25-O-desacetyl-rifabutin Cmax ↔ rilpivirine AUC ↓ 42% rilpivirine Cmin ↓ 48% rilpivirine Cmax ↓ 31% rilpivirine AUC ↑ 16%* rilpivirine Cmin ↔* rilpivirine Cmax ↑ 43%* * compared to 25 mg once daily rilpivirine alone (induction of CYP3A enzymes) | Throughout co-administration of EDURANT with rifabutin, the EDURANT dose should be increased from 25 mg once daily to 50 mg once daily. When rifabutin co-administration is stopped, the EDURANT dose should be decreased to 25 mg once daily. |
+| Rifabutin* 300 mg once daily† 300 mg once daily (+ 25 mg once daily rilpivirine) 300 mg once daily (+ 50 mg once daily rilpivirine) | rifabutin AUC ↔ rifabutin Cmin ↔ rifabutin Cmax ↔ 25-O-desacetyl-rifabutin AUC ↔ 25-O-desacetyl-rifabutin Cmin ↔ 25-O-desacetyl-rifabutin Cmax ↔ rilpivirine AUC ↓ 42% rilpivirine Cmin ↓ 48% rilpivirine Cmax ↓ 31% rilpivirine AUC ↑16%* rilpivirine Cmin ↔* rilpivirine Cmax ↑43%* * compared to 25 mg once daily rilpivirine alone (induction of CYP3A enzymes) | Throughout co-administration of EDURANT with rifabutin, the EDURANT dose should be increased from 25 mg once daily to 50 mg once daily. When rifabutin co-administration is stopped, the EDURANT dose should be decreased to 25 mg once daily. |
 | Rifampicin*# 600 mg once daily | rifampicin AUC ↔ rifampicin Cmin NA rifampicin Cmax ↔ 25-desacetyl-rifampicin AUC ↓ 9% 25-desacetyl-rifampicin Cmin NA 25-desacetyl-rifampicin Cmax ↔ rilpivirine AUC ↓ 80% rilpivirine Cmin ↓ 89% rilpivirine Cmax ↓ 69% (induction of CYP3A enzymes) | EDURANT must not be used in combination with rifampicin as co-administration is likely to result in loss of therapeutic effect of EDURANT. |
 | Rifapentine | Not studied. Significant decreases in rilpivirine plasma concentrations are expected. (induction of CYP3A enzymes) | EDURANT must not be used in combination with rifapentine as co-administration is likely to result in loss of therapeutic effect of EDURANT. |
 | MACROLIDE ANTIBIOTICS |  |  |
@@ -91,7 +93,8 @@ Interactions between rilpivirine and co-administered medicinal products are list
 
 * The interaction between EDURANT and the medicinal product was evaluated in a clinical study.
 All other drug-drug interactions shown are predicted.
-# This interaction study has been performed with a dose higher than the recommended dose for EDURANT assessing the maximal effect on the co-administered medicinal product.
+#
+This interaction study has been performed with a dose higher than the recommended dose for EDURANT assessing the maximal effect on the co-administered medicinal product.
 The dosing recommendation is applicable to the recommended dose of EDURANT of 25 mg once daily.
 † This interaction study has been performed with a dose higher than the recommended dose for EDURANT.
 

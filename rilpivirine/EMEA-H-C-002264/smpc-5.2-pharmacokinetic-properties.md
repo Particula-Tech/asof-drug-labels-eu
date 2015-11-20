@@ -1,6 +1,6 @@
 # 5.2 Pharmacokinetic properties
 
-The pharmacokinetic properties of rilpivirine have been evaluated in adult healthy subjects and in adult antiretroviral treatment-naïve HIV-1 infected patients.
+The pharmacokinetic properties of rilpivirine have been evaluated in adult healthy subjects and in antiretroviral treatment-naïve HIV-1 infected patients 12 years of age and older.
 Exposure to rilpivirine was generally lower in HIV-1 infected patients than in healthy subjects.
 
 Absorption
@@ -25,10 +25,14 @@ The terminal elimination half-life of rilpivirine is approximately 45 hours.
 After single dose oral administration of 14C-rilpivirine, on average 85% and 6.1% of the radioactivity could be retrieved in faeces and urine, respectively.
 In faeces, unchanged rilpivirine accounted for on average 25% of the administered dose.
 Only trace amounts of unchanged rilpivirine (< 1% of dose) were detected in urine.
+
 Additional information on special populations
-Paediatric population
-The pharmacokinetics of rilpivirine in pediatric patients are under investigation.
-Dosing recommendations for pediatric patients cannot be made due to insufficient data (see section 4.2).
+Paediatric population (less than 18 years of age)
+The pharmacokinetics of rilpivirine in antiretroviral treatment-naïve HIV-1 infected adolescent subjects receiving EDURANT 25 mg once daily were comparable to those in treatment-naïve HIV-1 infected adults receiving EDURANT 25 mg once daily.
+There was no impact of body weight on rilpivirine pharmacokinetics in paediatric subjects in trial C213 (33 to 93 kg), similar to what was observed in adults.
+
+The pharmacokinetics of rilpivirine in paediatric patients less than 12 years of age are under investigation.
+Dosing recommendations for paediatric patients less than 12 years of age cannot be made due to insufficient data (see section 4.2).
 
 Older people
 Population pharmacokinetic analysis in HIV infected patients showed that rilpivirine pharmacokinetics are not different across the age range (18 to 78 years) evaluated, with only 3 subjects aged 65 years or older.
@@ -37,7 +41,6 @@ EDURANT should be used with caution in this population (see section 4.2).
 
 Gender
 No clinically relevant differences in the pharmacokinetics of rilpivirine have been observed between men and women.
-
 Race
 Population pharmacokinetic analysis of rilpivirine in HIV infected patients indicated that race had no clinically relevant effect on the exposure to rilpivirine.
 

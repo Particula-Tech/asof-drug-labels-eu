@@ -5,7 +5,7 @@ Therapy should be initiated by a physician experienced in the management of HIV 
 Posology
 EDURANT must always be given in combination with other antiretroviral medicinal products.
 
-Adults
+Adults and adolescents (12 to less than 18 years of age)
 The recommended dose of EDURANT is one 25 mg tablet taken once daily.
 EDURANT must be taken with a meal (see section 5.2).
 
@@ -26,7 +26,7 @@ No dose adjustment of EDURANT is required in older patients (see section 5.2).
 EDURANT should be used with caution in this population.
 
 Paediatric population
-The safety and efficacy of EDURANT in children aged < 18 years have not yet been established.
+The safety and efficacy of EDURANT in children aged < 12 years have not yet been established.
 No data are available.
 
 Hepatic impairment
