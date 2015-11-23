@@ -12,6 +12,7 @@ The adverse reactions in Study D2302 (TRANSFORMS), a 1-year study in 849 patient
 
 Adverse reactions reported with Gilenya 0.5 mg in Studies D2301 (FREEDOMS) and D2309 (FREEDOMS II) are shown below.
 Frequencies were defined using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
+
 Tabulated list of adverse reactions
 
 Infections and infestations
@@ -119,7 +120,6 @@ Description of selected adverse reactions
 Infections
 In multiple sclerosis clinical studies the overall rate of infections (65.1%) at the 0.5 mg dose was similar to placebo.
 However, lower respiratory tract infections, primarily bronchitis and to a lesser extent herpes infection and pneumonia were more common in Gilenya-treated patients.
-
 Some cases of disseminated herpes infection, including fatal cases, have been reported even at the 0.5 mg dose.
 
 In the post-marketing setting, cases of infections with opportunistic pathogens, such as viral (e.g. varicella zoster virus [VZV], John Cunningham virus [JCV] causing Progressive Multifocal Leukoencephalopathy, herpes simplex virus [HSV]), fungal (e.g. cryptococci including cryptococcal meningitis) or bacterial (e.g. atypical mycobacterium), have been reported (see section 4.4).
@@ -141,6 +141,7 @@ In multiple sclerosis clinical studies the maximal decline in heart rate was see
 Heart rate below 40 beats per minute was rarely observed in patients on Gilenya 0.5 mg.
 The average heart rate returned towards baseline within 1 month of chronic treatment.
 Bradycardia was generally asymptomatic but some patients experienced mild to moderate symptoms, including hypotension, dizziness, fatigue and/or palpitations, which resolved within the first 24 hours after treatment initiation (see also sections 4.4 and 5.1).
+
 In multiple sclerosis clinical studies first-degree atrioventricular block (prolonged PR interval on ECG) was detected after treatment initiation in 4.7% of patients on fingolimod 0.5 mg, in 2.8% of patients on intramuscular interferon beta-1a, and in 1.6% of patients on placebo.
 Second-degree atrioventricular block was detected in less than 0.2% patients on Gilenya 0.5 mg.
 In the post-marketing setting, isolated reports of transient, spontaneously resolving complete AV block have been observed during the six hour monitoring period following the first dose of Gilenya.
@@ -176,6 +177,7 @@ Respiratory system
 Minor dose-dependent reductions in values for forced expiratory volume (FEV1) and diffusion capacity for carbon monoxide (DLCO) were observed with Gilenya treatment starting at Month 1 and remaining stable thereafter.
 At Month 24, the reduction from baseline values in percentage of predicted FEV1 was 2.7% for fingolimod 0.5 mg and 1.2% for placebo, a difference that resolved after treatment discontinuation.
 For DLCO the reductions at Month 24 were 3.3% for fingolimod 0.5 mg and 2.7% for placebo.
+
 Lymphomas
 There have been cases of lymphoma of different varieties, in both clinical studies and the post-marketing setting, including a fatal case of Epstein-Barr virus (EBV) positive B-cell lymphoma.
 The incidence of lymphoma (B-cell and T-cell) cases was higher in clinical trials than expected in the general population.

@@ -35,6 +35,7 @@ Fingolimod treatment with single or multiple doses of 0.5 and 1.25 mg for two we
 However, single fingolimod doses ≥5 mg (10-fold the recommended dose) are associated with a dose-dependent increase in airway resistance.
 Fingolimod treatment with multiple doses of 0.5, 1.25, or 5 mg is not associated with impaired oxygenation or oxygen desaturation with exercise or an increase in airway responsiveness to methacholine.
 Subjects on fingolimod treatment have a normal bronchodilator response to inhaled beta-agonists.
+
 Clinical efficacy and safety
 The efficacy of Gilenya has been demonstrated in two studies which evaluated once-daily doses of fingolimod 0.5 mg and 1.25 mg in patients with relapsing-remitting multiple sclerosis (RRMS).
 Both studies included patients who had experienced ≥2 relapses in the prior 2 years or ≥1 relapse during the prior year.
@@ -68,6 +69,7 @@ The ARR for patients who switched from placebo to fingolimod 0.5 mg was 0.22 (0.
 
 Comparable results were shown in a replicate 2-year randomised, double-blind, placebo-controlled Phase III study on fingolimod in 1,083 patients (n=358 on 0.5 mg, 370 on 1.25 mg, 355 on placebo) with RRMS (D2309; FREEDOMS 2).
 Median values for baseline characteristics were: age 41 years, disease duration 8.9 years, EDSS score 2.5.
+
 Table 2: Study D2309 (FREEDOMS 2): Main results
 
 |  | Fingolimod 0.5 mg | Placebo |
@@ -86,7 +88,6 @@ Study D2302 (TRANSFORMS) was a 1-year randomised, double-blind, double-dummy, ac
 Median values for baseline characteristics were: age 36 years, disease duration 5.9 years, and EDSS score 2.0.
 Outcome results are shown in Table 3.
 There were no significant differences between the 0.5 mg and the 1.25 mg doses as regards study endpoints.
-
 Table 3: Study D2302 (TRANSFORMS): Main results
 
 |  | Fingolimod 0.5 mg | Interferon beta-1a, 30 μg |

@@ -9,6 +9,7 @@ In multiple sclerosis clinical studies the concomitant treatment of relapses wit
 Vaccination
 During and for up to two months after treatment with Gilenya vaccination may be less effective.
 The use of live attenuated vaccines may carry a risk of infections and should therefore be avoided (see sections 4.4 and 4.8).
+
 Bradycardia-inducing substances
 Fingolimod has been studied in combination with atenolol and diltiazem.
 When fingolimod was used with atenolol in an interaction study in healthy volunteers, there was an additional 15% reduction of heart rate at fingolimod treatment initiation, an effect not seen with diltiazem.

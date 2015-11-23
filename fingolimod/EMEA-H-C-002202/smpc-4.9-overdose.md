@@ -2,7 +2,6 @@
 
 Single doses up to 80 times the recommended dose (0.5 mg) were well tolerated in healthy volunteers.
 At 40 mg, 5 of 6 subjects reported mild chest tightness or discomfort which was clinically consistent with small airway reactivity.
-
 Fingolimod can induce bradycardia upon treatment initiation.
 The decline in heart rate usually starts within one hour of the first dose, and is steepest within 6 hours.
 The negative chronotropic effect of Gilenya persists beyond 6 hours and progressively attenuates over subsequent days of treatment (see section 4.4 for details).
