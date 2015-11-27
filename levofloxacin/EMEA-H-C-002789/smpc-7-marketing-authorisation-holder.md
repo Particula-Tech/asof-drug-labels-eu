@@ -1,7 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Regintel Limited,
-Templetown,
-Carlingford
-County Louth
-Ireland
+Raptor Pharmaceuticals Europe B.V.
+Naritaweg 165
+1043 BW Amsterdam
+The Netherlands
