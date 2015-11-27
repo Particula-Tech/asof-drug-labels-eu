@@ -6,15 +6,3 @@ Mechanism of action
 Mycophenolate mofetil is the 2-morpholinoethyl ester of MPA.
 MPA is a potent, selective, uncompetitive and reversible inhibitor of inosine monophosphate dehydrogenase, and therefore inhibits the de novo pathway of guanosine nucleotide synthesis without incorporation into DNA.
 Because T- and B-lymphocytes are critically dependent for their proliferation on de novo synthesis of purines whereas other cell types can utilise salvage pathways, MPA has more potent cytostatic effects on lymphocytes than on other cells.
-
-[CellCept 500 mg powder for concentrate for solution for infusion.]
-
-(all sentences already above)
-
-[CellCept 1 g/5 ml powder for oral suspension.]
-
-(all sentences already above)
-
-[CellCept 500 mg film-coated tablets.]
-
-Mechanism of actionMycophenolate mofetil is the 2-morpholinoethyl ester of MPA.

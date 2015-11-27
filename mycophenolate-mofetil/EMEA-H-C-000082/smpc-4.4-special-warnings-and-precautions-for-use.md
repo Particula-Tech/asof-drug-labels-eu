@@ -1,10 +1,12 @@
 # 4.4 Special warnings and precautions for use
 
+Neoplasms
+
 Patients receiving immunosuppressive regimens involving combinations of medicinal products, including CellCept, are at increased risk of developing lymphomas and other malignancies, particularly of the skin (see section 4.8).
 The risk appears to be related to the intensity and duration of immunosuppression rather than to the use of any specific agent.
 As general advice to minimise the risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
 
-Patients receiving CellCept should be instructed to report immediately any evidence of infection, unexpected bruising, bleeding or any other manifestation of bone marrow depression.
+Infections
 
 Patients treated with immunosuppressants, including CellCept, are at increased risk for opportunistic infections (bacterial, fungal, viral and protozoal), fatal infections and sepsis (see section 4.8).
 Such infections include latent viral reactivation, such as hepatitis B or hepatitis C reactivation and infections caused by polyomaviruses (BK virus associated nephropathy, JC virus associated progressive multifocal leukoencephalopathy PML).
@@ -21,6 +23,7 @@ In some of these cases switching CellCept to another immunosuppressant resulted 
 The risk of bronchiectasis may be linked to hypogammaglobulinaemia or to a direct effect on the lung.
 There have also been isolated reports of interstitial lung disease and pulmonary fibrosis, some of which were fatal (see section 4.8).
 It is recommended that patients who develop persistent pulmonary symptoms, such as cough and dyspnoea, are investigated.
+Blood and immune system
 
 Patients receiving CellCept should be monitored for neutropenia, which may be related to CellCept itself, concomitant medications, viral infections, or some combination of these causes.
 Patients taking CellCept should have complete blood counts weekly during the first month, twice monthly for the second and third months of treatment, then monthly through the first year.
@@ -31,20 +34,56 @@ The mechanism for mycophenolate mofetil induced PRCA is unknown.
 PRCA may resolve with dose reduction or cessation of CellCept therapy.
 Changes to CellCept therapy should only be undertaken under appropriate supervision in transplant recipients in order to minimise the risk of graft rejection (see section 4.8).
 
+Patients receiving CellCept should be instructed to report immediately any evidence of infection, unexpected bruising, bleeding or any other manifestation of bone marrow depression.
+
 Patients should be advised that during treatment with CellCept, vaccinations may be less effective and the use of live attenuated vaccines should be avoided (see section 4.5).
 Influenza vaccination may be of value.
 Prescribers should refer to national guidelines for influenza vaccination.
 
-Because CellCept has been associated with an increased incidence of digestive system adverse events, including infrequent cases of gastrointestinal tract ulceration, haemorrhage and perforation, CellCept should be administered with caution in patients with active serious digestive system disease.
+Gastro-intestinal
+
+CellCept has been associated with an increased incidence of digestive system adverse events, including infrequent cases of gastrointestinal tract ulceration, haemorrhage and perforation.
+CellCept should be administered with caution in patients with active serious digestive system disease.
 
 CellCept is an IMPDH (inosine monophosphate dehydrogenase) inhibitor.
-On theoretical grounds, therefore, it should be avoided in patients with rare hereditary deficiency of hypoxanthine-guanine phosphoribosyl-transferase (HGPRT) such as Lesch-Nyhan and Kelley-Seegmiller syndrome.
+Therefore, it should be avoided in patients with rare hereditary deficiency of hypoxanthine-guanine phosphoribosyltransferase (HGPRT) such as Lesch-Nyhan and Kelley-Seegmiller syndrome.
+
+Interactions
+
+Caution should be exercised when switching combination therapy from regimens containing immunosuppressants, which interfere with MPA enterohepatic recirculation e.g. ciclosporin to others devoid of this effect e.g. sirolimus, belatacept, or vice versa, as this might result in changes of MPA exposure.
+Drugs of other classes which interfere with MPA’s enterohepatic cycle e.g. cholestyramine should be used with caution due to their potential to reduce the plasma levels and efficacy of CellCept (see also section 4.5).
 
 It is recommended that CellCept should not be administered concomitantly with azathioprine because such concomitant administration has not been studied.
 
-In view of the significant reduction in the AUC of MPA by cholestyramine, caution should be used in the concomitant administration of CellCept with medicinal products that interfere with enterohepatic recirculation because of the potential to reduce the efficacy of CellCept.
+The risk/benefit ratio of mycophenolate mofetil in combination with tacrolimus or sirolimus has not been established (see also section 4.5).
 
-The risk: benefit of mycophenolate mofetil in combination with tacrolimus or sirolimus has not been established (see also section 4.5).
+Special populations
+
+Elderly patients may be at an increased risk of adverse events such as certain infections (including cytomegalovirus tissue invasive disease) and possibly gastrointestinal haemorrhage and pulmonary oedema, compared with younger individuals (see section 4.8).
+
+Teratogenic effects
+Mycophenolate is a powerful human teratogen.
+Spontaneous abortion (rate of 45-49%) and congenital malformations (estimated rate of 23-27%) have been reported following MMF exposure during pregnancy.
+Therefore CellCept is contraindicated in pregnancy unless there are no suitable alternative treatments to prevent transplant rejection.
+Female and male patients of reproductive potential should be made aware of the risks and follow the recommendations provided in section 4.6.
+(e.g. contraceptive methods, pregnancy testing) prior to, during, and after therapy with CellCept.
+Physicians should ensure that women and men taking mycophenolate understand the risk of harm to the baby, the need for effective contraception, and the need to immediately consult their physician if there is a possibility of pregnancy.
+
+Contraception (see section 4.6)
+Because of the genotoxic and teratogenic potential of CellCept, women with childbearing potential should use two reliable forms of contraception simultaneously before starting CellCept therapy, during therapy, and for six weeks after stopping the therapy; unless abstinence is the chosen method of contraception (see section 4.5).
+
+Sexually active men are recommended to use condoms during treatment and for at least 90 days after cessation of treatment.
+Condom use applies for both reproductively competent and vasectomized men, because the risks associated with the transfer of seminal fluid also apply to men who have had a vasectomy.
+In addition, female partners of male patients treated with CellCept are recommended to use highly effective contraception during treatment and for a total of 90 days after the last dose of CellCept.
+
+Educational materials
+In order to assist patients in avoiding foetal exposure to mycophenolate and to provide additional important safety information, the Marketing Authorisation holder will provide educational materials to healthcare professionals.
+The educational materials will reinforce the warnings about the teratogenicity of mycophenolate, provide advice on contraception before therapy is started and guidance on the need for pregnancy testing.
+Full patient information about the teratogenic risk and the pregnancy prevention measures should be given by the physician to women of childbearing potential and, as appropriate, to male patients.
+
+Additional precautions
+Patients should not donate blood during therapy or for at least 6 weeks following discontinuation of mycophenolate.
+Men should not donate semen during therapy or for 90 days following discontinuation of mycophenolate.
 
 [CellCept 500 mg powder for concentrate for solution for infusion.]
 
@@ -52,11 +91,15 @@ If neutropenia develops (absolute neutrophil count < 1.3 x 103/µl) it may be ap
 
 Patients should be advised that during treatment with CellCept, vaccinations may be less effective, and the use of live attenuated vaccines should be avoided (see section 4.5).
 
-On theoretical grounds, therefore, it should be avoided in patients with rare hereditary deficiency of hypoxanthine-guanine phosphoribosyltransferase (HGPRT) such as Lesch-Nyhan and Kelley-Seegmiller syndrome.
-
+Caution should be exercised when switching combination therapy from regimens containing immunosuppressants, which interfere with MPA enterohepatic recirculation e.g. ciclosporin, to others devoid of this effect e.g. sirolimus, belatacept, or vice versa, as this might result in changes of MPA exposure.
+Drugs of other classes which interfere with MPA’s enterohepatic cycle e.g. cholesterolamine, should be used with caution due to their potential to reduce the plasma levels and efficacy of CellCept (see also section 4.5).
 Some degree of enterohepatic recirculation is anticipated following intravenous administration of CellCept.
 
+Therefore CellCept is contraindicated in pregnancy unless there are no suitable alternative treatments to prevent transplant rejection.Female and male patients of reproductive potential should be made aware of the risks and follow the recommendations provided in section 4.6.
+
 [CellCept 1 g/5 ml powder for oral suspension.]
+
+Drugs of other classes which interfere with MPA’s enterohepatic cycle e.g. cholestyramine, should be used with caution due to their potential to reduce plasma levels and efficacy of CellCept (see also section 4.5).
 
 CellCept 1 g/5 ml powder for oral suspension contains aspartame.
 Therefore, care should be taken if CellCept 1 g/5 ml powder for oral suspension is administered to patients with phenylketonuria (see section 6.1)
@@ -66,4 +109,4 @@ Patients with rare hereditary problems of fructose intolerance should not take t
 
 [CellCept 500 mg film-coated tablets.]
 
-(all sentences already above)
+Drugs of other classes which interfere with MPA’s enterohepatic cycle e.g. cholestyramine, should be used with caution due to their potential to reduce the plasma level and efficacy of CellCept (see also section 4.5).
