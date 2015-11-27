@@ -18,11 +18,11 @@ After a single dose of [14C] sirolimus in healthy volunteers, the majority (91.1
 Clinical studies of Rapamune did not include a sufficient number of patients above 65 years of age to determine whether they will respond differently than younger patients.
 Sirolimus trough concentration data in 35 renal transplant patients above 65 years of age were similar to those in the adult population (n=822) from 18 to 65 years of age.
 
-In paediatric patients on dialysis (30% to 50% reduction in glomerular filtration rate) within age ranges of 5 to 11 years and 12 to 18 years, the mean weight-normalised CL/F was larger for younger paediatric patients (580 ml/h/kg) than for older paediatric patients (450 ml/h/kg) as compared with adults (287 ml/h/kg).
+In paediatric patients on dialysis (30% to 50% reduction in glomerular filtration rate) within age ranges of 5 to 11 years and 12 to 18 years, the mean weight-normalised CL/F was larger for younger paediatric patients (580 mL/h/kg) than for older paediatric patients (450 mL/h/kg) as compared with adults (287 mL/h/kg).
 There was a large variability for individuals within the age groups.
 
 Sirolimus concentrations were measured in concentration-controlled studies of paediatric renal-transplant patients who were also receiving ciclosporin and corticosteroids.
-The target for trough concentrations was 10-20 ng/ml.
+The target for trough concentrations was 10-20 ng/mL.
 At steady-state, 8 children aged 6-11 years received mean ±SD doses of 1.75 ±0.71 mg/day (0.064 ±0.018 mg/kg, 1.65 ±0.43 mg/m2) while 14 adolescents aged 12-18 years received mean ±SD doses of 2.79 ±1.25 mg/day (0.053 ±0.0150 mg/kg,
 1.86 ±0.61 mg/m2).
 The younger children had a higher weight-normalized Cl/F (214 mL/h/kg) compared with the adolescents (136 mL/h/kg).
@@ -39,13 +39,11 @@ The pharmacokinetics of sirolimus were similar in various populations with renal
 [Rapamune 0.5 mg coated tablets]
 
 Much of the general pharmacokinetic information was obtained using the Rapamune oral solution, which is summarised first.
-Information directly related to the tablet formulation is summarised specifically in the Oral Tablet section.
+Information directly related to the tablet formulation is summarised specifically in the Oral tablet section.
 
 The terminal half-life in stable renal transplant patients after multiple oral doses was 62 ±16 hours.
 
-At steady-state, 8 children aged 6-11 years received mean ±SD doses of 1.75 ±0.71 mg/day (0.064 ±0.018 mg/kg, 1.65 ±0.43 mg/m2) while 14 adolescents aged 12-18 years received mean ±SD doses of 2.79 ±1.25 mg/day (0.053 ±0.0150 mg/kg, 1.86 ±
-0.61 mg/m2).
-The younger children had a higher weight-normalised CL/F (214 ml/h/kg) compared with the adolescents (136 ml/h/kg).
+The younger children had a higher weight-normalised CL/F (214 mL/h/kg) compared with the adolescents (136 mL/h/kg).
 
 In severe hepatically impaired patients (Child-Pugh classification C), mean values for sirolimus AUC and t1/2 were increased 210% and 170%, respectively, and CL/F was decreased by 67% compared to normal healthy subjects.
 The longer half-lives observed in hepatically impaired patients delay reaching steady-state.
@@ -71,21 +69,21 @@ Sirolimus concentrations, following the administration of Rapamune tablets (5 mg
 
 Rapamune tablets administered to 12 renal transplant patients above 65 years of age gave similar results to adult patients (n=167) 18 to 65 years of age.
 
-Initial Therapy (2 to 3 months post-transplant): In most patients receiving Rapamune tablets with a loading dose of 6 mg followed by an initial maintenance dose of 2 mg, whole blood sirolimus trough concentrations rapidly achieved steady-state concentrations within the recommended target range (4 to 12 ng/ml, chromatographic assay).
-Sirolimus pharmacokinetic parameters following daily doses of 2 mg Rapamune tablets administered in combination with ciclosporin microemulsion (4 hours prior to Rapamune tablets) and corticosteroids in 13 renal transplant patients, based on data collected at months 1 and 3 after transplantation, were: Cmin,ss 7.39 ±2.18 ng/ml; Cmax,ss 15.0 ±4.9 ng/ml; tmax,ss 3.46 ±2.40 hours; AUCτ,ss 230 ±67 ng•h/ml; CL/F/WT, 139 ±63 ml/h/kg (parameters calculated from LC-MS/MS assay results).
-The corresponding results for the oral solution in the same clinical study were Cmin,ss 5.40 ±2.50 ng/ml, Cmax,ss 14.4 ±5.3 ng/ml, tmax,ss 2.12 ±0.84 hours, AUCτ,ss 194 ±
-78 ng•h/ml, CL/F/W 173 ±50 ml/h/kg.
+Initial Therapy (2 to 3 months post-transplant): In most patients receiving Rapamune tablets with a loading dose of 6 mg followed by an initial maintenance dose of 2 mg, whole blood sirolimus trough concentrations rapidly achieved steady-state concentrations within the recommended target range (4 to 12 ng/mL, chromatographic assay).
+Sirolimus pharmacokinetic parameters following daily doses of 2 mg Rapamune tablets administered in combination with ciclosporin microemulsion (4 hours prior to Rapamune tablets) and corticosteroids in 13 renal transplant patients, based on data collected at months 1 and 3 after transplantation, were: Cmin,ss 7.39 ±2.18 ng/mL; Cmax,ss 15.0 ±4.9 ng/mL; tmax,ss 3.46 ±2.40 hours; AUCτ,ss 230 ±67 ng.h/mL; CL/F/WT, 139 ±63 mL/h/kg (parameters calculated from LC-MS/MS assay results).
+The corresponding results for the oral solution in the same clinical study were Cmin,ss 5.40 ±2.50 ng/mL, Cmax,ss 14.4 ±5.3 ng/mL, tmax,ss 2.12 ±0.84 hours, AUCτ,ss 194 ±78 ng.h/mL, CL/F/W 173 ±50 mL/h/kg.
 Whole blood trough sirolimus concentrations, as measured by LC/MS/MS, were significantly correlated (r2=0.85) with AUCτ,ss.
 
-Based on monitoring in all patients during the period of concomitant therapy with ciclosporin, mean (10th, 90th percentiles) troughs (expressed as chromatographic assay values) and daily doses were 8.6 ± 3.0 ng/ml (5.0 to 13 ng/ml) and 2.1 ±0.70 mg (1.5 to 2.7 mg), respectively (see section 4.2).
-
-Maintenance therapy: From month 3 to month 12, following discontinuation of ciclosporin, mean (10th, 90th percentiles) troughs (expressed as chromatographic assay values) and daily doses were 19 ± 4.1 ng/ml (14 to 24 ng/ml) and 8.2 ±4.2 mg (3.6 to 13.6 mg), respectively (see section 4.2).
+Based on monitoring in all patients during the period of concomitant therapy with ciclosporin, mean (10th, 90th percentiles) troughs (expressed as chromatographic assay values) and daily doses were 8.6 ± 3.0 ng/mL (5.0 to 13 ng/mL) and 2.1 ±0.70 mg (1.5 to 2.7 mg), respectively (see section 4.2).
+Maintenance therapy: From month 3 to month 12, following discontinuation of ciclosporin, mean (10th, 90th percentiles) troughs (expressed as chromatographic assay values) and daily doses were 19 ± 4.1 ng/mL (14 to 24 ng/mL) and 8.2 ±4.2 mg (3.6 to 13.6 mg), respectively (see section 4.2).
 Therefore, the sirolimus dose was approximately 4-fold higher to account for both the absence of the pharmacokinetic interaction with ciclosporin (2-fold increase) and the augmented immunosuppressive requirement in the absence of ciclosporin (2-fold increase).
 
 [Rapamune 1 mg coated tablets.]
 
-The younger children had a higher weight-normalised CL/F (214ml/h/kg) compared with the adolescents (136 ml/h/kg).
+The corresponding results for the oral solution in the same clinical study were Cmin,ss 5.40 ±2.50 ng/mL, Cmax,ss 14.4 ±5.3 ng/mL, tmax,ss 2.12 ±0.84 hours, AUCτ,ss 194 ± 78 ng.h/mL, CL/F/W 173 ±50 mL/h/kg.
 
 [Rapamune 2 mg coated tablets.]
 
-Based on monitoring in all patients during the period of concomitant therapy with ciclosporin, mean (10th, 90th percentiles) troughs (expressed as chromatographic assay values) and daily doses were 8.6 ±3.0 ng/ml (5.0 to 13 ng/ml) and 2.1 ±0.70 mg (1.5 to 2.7 mg), respectively (see section 4.2).
+Sirolimus pharmacokinetic parameters following daily doses of 2 mg Rapamune tablets administered in combination with ciclosporin microemulsion (4 hours prior to Rapamune tablets) and corticosteroids in 13 renal transplant patients, based on data collected at months 1 and 3 after transplantation, were: Cmin,ss 7.39 ±2.18 ng/mL; Cmax,ss 15.0 ±4.9 ng/mL; tmax,ss 3.46 ±2.40 hours; AUCτ,ss 230 ±67 ng. h/mL; CL/F/WT, 139 ±63 mL/h/kg (parameters calculated from LC-MS/MS assay results).
+
+Based on monitoring in all patients during the period of concomitant therapy with ciclosporin, mean (10th, 90th percentiles) troughs (expressed as chromatographic assay values) and daily doses were 8.6 ±3.0 ng/mL (5.0 to 13 ng/mL) and 2.1 ±0.70 mg (1.5 to 2.7 mg), respectively (see section 4.2).

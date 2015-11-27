@@ -13,15 +13,13 @@ In rat, testicular interstitial cell adenomas were likely indicative of a specie
 In reproduction toxicity studies decreased fertility in male rats was observed.
 Partly reversible reductions in sperm counts were reported in a 13-week rat study.
 Reductions in testicular weights and/or histological lesions (e.g. tubular atrophy and tubular giant cells) were observed in rats and in a monkey study.
-In rats, sirolimus caused embryo/foetotoxicity that was manifested as mortality and reduced foetal weights (with associated delays in skeletal ossification).
-(see section 4.6).
+In rats, sirolimus caused embryo/foetotoxicity that was manifested as mortality and reduced foetal weights (with associated delays in skeletal ossification) (see section 4.6).
 
 [Rapamune 0.5 mg coated tablets]
 
 Adverse reactions not observed in clinical studies, but seen in animals at exposure levels similar to clinical exposure levels and with possible relevance to clinical use, were as follows: pancreatic islet cell vacuolation, testicular tubular degeneration, gastrointestinal ulceration, bone fractures and calluses, hepatic haematopoiesis, and pulmonary phospholipidosis.
 
 Reductions in testicular weights and/or histological lesions (e.g., tubular atrophy and tubular giant cells) were observed in rats and in a monkey study.
-In rats, sirolimus caused embryo/foetotoxicity that was manifested as mortality and reduced foetal weights (with associated delays in skeletal ossification) (see section 4.6).
 
 [Rapamune 1 mg coated tablets.]
 

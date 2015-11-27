@@ -1,7 +1,7 @@
 # 3. PHARMACEUTICAL FORM
 
 Oral solution.
-Pale yellow to yellow solution
+Pale yellow to yellow solution.
 
 [Rapamune 0.5 mg coated tablets]
 

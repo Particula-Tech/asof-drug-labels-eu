@@ -1,6 +1,7 @@
 # 6.1 List of excipients
 
 Polysorbate 80 (E433)
+
 Phosal 50 PG (phosphatidylcholine, propylene glycol, mono-and diglycerides, ethanol, soya fatty acids and ascorbyl palmitate).
 
 [Rapamune 0.5 mg coated tablets]
@@ -16,7 +17,7 @@ Tablet coating:
 
 Glycerol monooleate
 Pharmaceutical glaze (shellac)
-Calcium sulphate
+Calcium sulfate
 Microcrystalline cellulose
 Sucrose
 Titanium dioxide
@@ -25,6 +26,7 @@ Brown iron oxide (E172)
 Poloxamer 188 α-tocopherol
 Povidone
 Carnauba wax
+Ink-Red Opacode S-1-15095
 
 [Rapamune 1 mg coated tablets.]
 

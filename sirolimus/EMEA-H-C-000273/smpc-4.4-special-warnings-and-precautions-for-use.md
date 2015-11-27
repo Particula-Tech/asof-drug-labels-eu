@@ -30,15 +30,18 @@ New onset nephrosis (nephrotic syndrome) was also reported in 2% of the patients
 The safety and efficacy of conversion from calcineurin inhibitors to Rapamune in maintenance renal transplant patients have not been established.
 
 The concomitant use of Rapamune with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced haemolytic uraemic syndrome/thrombotic thrombocytopenic purpura/thrombotic microangiopathy (HUS/TTP/TMA).
-
 HMG-CoA reductase inhibitors
 In clinical studies, the concomitant administration of Rapamune and HMG-CoA reductase inhibitors and/or fibrates was well-tolerated.
 During Rapamune therapy with or without CsA, patients should be monitored for elevated lipids, and patients administered an HMG-CoA reductase inhibitor and/or fibrate should be monitored for the possible development of rhabdomyolysis and other adverse reactions, as described in the respective Summary of Product Characteristics of these agents.
+
 Cytochrome P450 isozymes
 Co-administration of sirolimus with strong inhibitors of CYP3A4 (such as ketoconazole, voriconazole, itraconazole, telithromycin or clarithromycin) or inducers of CYP3A4 (such as rifampin, rifabutin) is not recommended (see section 4.5).
 
 Angiotensin-converting enzyme inhibitors (ACE)
 The concomitant administration of sirolimus and angiotensin-converting enzyme inhibitors has resulted in angioneurotic oedema-type reactions.
+
+Increased rates of biopsy confirmed acute rejection (BCAR) have been observed with concomitant use of sirolimus with ACE inhibitors (see section 5.1).
+Patients receiving sirolimus should be monitored closely if taking ACE inhibitors concomitantly.
 
 Vaccination
 Immunosuppressants may affect response to vaccination.
@@ -48,7 +51,7 @@ The use of live vaccines should be avoided during treatment with Rapamune.
 Malignancy
 
 Increased susceptibility to infection and the possible development of lymphoma and other malignancies, particularly of the skin, may result from immunosuppression (see section 4.8).
-As usual for patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
+As usual for patients with increased risk for skin cancer, exposure to sunlight and ultraviolet (UV) light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
 
 Infections
 
@@ -73,7 +76,8 @@ Lung and liver transplant populations
 The safety and efficacy of Rapamune as immunosuppressive therapy have not been established in liver or lung transplant patients, and therefore such use is not recommended.
 
 In two clinical studies in de novo liver transplant patients, the use of sirolimus plus ciclosporin or tacrolimus was associated with an increase in hepatic artery thrombosis, mostly leading to graft loss or death.
-A clinical study in liver transplant patients randomised to conversion from a calcineurin inhibitor (CNI)-based regimen to a sirolimus-based regimen versus continuation of a CNI-based regimen 6-144 months post-liver transplantation failed to demonstrate superiority in baseline-adjusted GFR at 12 months (-4.45 ml/min and -3.07 ml/min, respectively).
+
+A clinical study in liver transplant patients randomised to conversion from a calcineurin inhibitor (CNI)-based regimen to a sirolimus-based regimen versus continuation of a CNI-based regimen 6-144 months post-liver transplantation failed to demonstrate superiority in baseline-adjusted GFR at 12 months (-4.45 mL/min and -3.07 mL/min, respectively).
 The study also failed to demonstrate non-inferiority of the rate of combined graft loss, missing survival data, or death for the sirolimus conversion group compared to the CNI continuation group.
 The rate of death in the sirolimus conversion group was higher than the CNI continuation group, although the rates were not significantly different.
 The rates of premature study discontinuation, adverse events overall (and infections, specifically), and biopsy-proven acute liver graft rejection at 12 months were all significantly greater in the sirolimus conversion group compared to the CNI continuation group.
@@ -93,9 +97,11 @@ The risk/benefit should be considered in patients with established hyperlipidaem
 Similarly the risk/benefit of continued Rapamune therapy should be re-evaluated in patients with severe refractory hyperlipidaemia.
 
 Ethanol
+
 Rapamune oral solution contains up to 2.5 vol % ethanol (alcohol).
-A 6 mg loading dose contains up to 150 mg of alcohol which is equivalent to 3 ml beer or 1.25 ml wine.
-This dose could potentially be harmful for those suffering from alcoholism and should be taken into account in children and high-risk groups such as patients with liver disease or epilepsy.
+A 6 mg loading dose contains up to 150 mg of alcohol which is equivalent to 3 mL beer or 1.25 mL wine.
+This dose could potentially be harmful for those suffering from alcoholism and should be taken into account in pregnant or breast-feeding women, children and high-risk groups such as patients with liver disease or epilepsy.
+
 Maintenance doses of 4 mg or less contain small amounts of ethanol (100 mg or less) that are likely to be too low to be harmful.
 
 [Rapamune 0.5 mg coated tablets]
