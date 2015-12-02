@@ -1,0 +1,45 @@
+# 5.2 Pharmacokinetic properties
+
+Following subcutaneous dosing in patients with asthma, mepolizumab exhibited approximately dose-proportional pharmacokinetics over a dose range of 12.5 mg to 250 mg.
+
+Absorption
+
+Following subcutaneous administration to healthy subjects or patients with asthma, mepolizumab was absorbed slowly with a median time to reach maximum plasma concentration (Tmax) ranging from 4 to 8 days.
+Following a single subcutaneous administration in the abdomen, thigh or arm of healthy subjects, mepolizumab absolute bioavailability was 64%, 71% and 75%, respectively.
+In patients with asthma the absolute bioavailability of mepolizumab administered subcutaneously in the arm ranged from 74-80%.
+Following repeat subcutaneous administration every 4 weeks, there is approximately a two-fold accumulation at steady state.
+
+Distribution
+
+Following a single intravenous administration to patients with asthma, mepolizumab distributes into a mean volume of distribution of 55 to 85 mL/kg.
+
+Biotransformation
+
+Mepolizumab is a humanized IgG1 monoclonal antibody degraded by proteolytic enzymes which are widely distributed in the body and not restricted to hepatic tissue.
+
+Elimination
+
+Following a single intravenous administration to patients with asthma, the mean systemic clearance (CL) ranged from 1.9 to 3.3 mL/day/kg, with a mean terminal half-life of approximately 20 days.
+Following subcutaneous administration of mepolizumab the mean terminal half-life (t1/2) ranged from 16 to 22 days.
+In the population pharmacokinetic analysis estimated mepolizumab systemic clearance was 3.1 mL/day/kg.
+
+Paediatric population
+There are limited pharmacokinetic data available in the paediatric population (59 subjects with eosinophilic esophagitis, 19 subjects with severe asthma).
+Intravenous mepolizumab pharmacokinetics was evaluated by population pharmacokinetic analysis in a paediatric study conducted in subjects aged 2–17 years old with eosinophilic esophagitis.
+Paediatric pharmacokinetics was largely predictable from adults, after taking into account bodyweight.
+Mepolizumab pharmacokinetics in adolescent subjects with severe eosinophilic asthma included in the phase 3 studies were consistent with adults (see section 4.2).
+
+Special populations
+
+Elderly patients (≥65 years old)
+There are limited pharmacokinetic data available in elderly patients (≥65 years old) across all clinical studies (N=90).
+However, in the population pharmacokinetic analysis, there were no indications of an effect of age on the pharmacokinetics of mepolizumab over the age range of 12 to 82 years.
+
+Renal impairment
+No formal studies have been conducted to investigate the effect of renal impairment on the pharmacokinetics of mepolizumab.
+Based on population pharmacokinetic analyses, no dose adjustment is required in patients with creatinine clearance values between 50-80 mL/min.
+There are limited data available in patients with creatinine clearance values <50 mL/min.
+
+Hepatic impairment
+No formal studies have been conducted to investigate the effect of hepatic impairment on the pharmacokinetics of mepolizumab.
+Since mepolizumab is degraded by widely distributed proteolytic enzymes, not restricted to hepatic tissue, changes in hepatic function are unlikely to have any effect on the elimination of mepolizumab.
