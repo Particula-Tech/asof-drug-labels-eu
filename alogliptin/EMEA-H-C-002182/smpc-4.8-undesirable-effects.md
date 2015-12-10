@@ -36,7 +36,7 @@ Table 2 shows additional adverse reactions which have been spontaneously reporte
 | Immune system disorders Hypersensitivity | Not known |
 | Gastrointestinal disorders Acute pancreatitis | Not known |
 | Hepatobiliary disorders Hepatic dysfunction including hepatic failure | Not known |
-| Skin and subcutaneous tissue disorders Exfoliative skin conditions including Stevens-Johnson syndrome Erythema multiforme Angioedema Urticaria | Not known Not known Not known Not known |
+| Skin and subcutaneous tissue disorders Exfoliative skin conditions including Stevens-Johnson syndrome Angioedema Urticaria | Not known Not known Not known |
 
 Reporting of suspected adverse reactions
 

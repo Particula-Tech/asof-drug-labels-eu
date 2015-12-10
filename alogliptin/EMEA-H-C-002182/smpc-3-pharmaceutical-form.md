@@ -4,6 +4,9 @@ Film-coated tablet (tablet).
 
 Light pink, oval (approximately 9.1 mm long by 5.1 mm wide), biconvex, film-coated tablets with “TAK” and “ALG-6.25” printed in grey ink on one side.
 
+4.
+CLINICAL PARTICULARS
+
 [Vipidia 12.5 mg film-coated tablets]
 
 Yellow, oval (approximately 9.1 mm long by 5.1 mm wide), biconvex, film-coated tablets with

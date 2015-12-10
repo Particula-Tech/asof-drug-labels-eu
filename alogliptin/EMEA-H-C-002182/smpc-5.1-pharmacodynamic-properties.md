@@ -28,7 +28,6 @@ A total of 14,779 patients with type 2 diabetes mellitus, including 6,448 patien
 In these studies, 2,257 alogliptin-treated patients were ≥ 65 years old and 386 alogliptin-treated patients were
 ≥ 75 years old.
 The studies included 5,744 patients with mild renal impairment, 1,290 patients with moderate renal impairment and 82 patients with severe renal impairment / end-stage renal disease treated with alogliptin.
-
 Overall, treatment with the recommended daily dose of 25 mg alogliptin improved glycaemic control when given as monotherapy and as initial or add-on combination therapy.
 This was determined by clinically relevant and statistically significant reductions in glycosylated haemoglobin (HbA1c) and fasting plasma glucose compared to control from baseline to study endpoint.
 Reductions in HbA1c were similar across different subgroups including renal impairment, age, gender and body mass index, while differences between races (e.g. White and non-White) were small.
@@ -152,7 +151,9 @@ The European Medicines Agency has deferred the obligation to submit the results 
 | Alogliptin 25 mg once daily with a thiazolidinedione ± metformin or a sulphonylurea (n=195) | 8.01 (0.837) | -0.80 (0.056) | -0.61* (-0.80, -0.41) |
 | Alogliptin 25 mg once daily with insulin + metformin (n=126) | 9.27 (1.127) | -0.71 (0.078) | -0.59* (-0.80, -0.37) |
 | FAS = full analysis set LOCF = last observation carried forward † Least squares means adjusted for prior antihyperglycaemic therapy status and baseline values * p<0.001 compared to placebo or placebo+combination treatment |  |  |  |
+
 | Table 4: Change in HbA1c (%) from baseline with alogliptin 25 mg by active-controlled study (PPS, LOCF) |  |  |  |
+| --- | --- | --- | --- |
 | Study | Mean baseline HbA1c (%) (SD) | Mean change from baseline in HbA1c (%)† (SE) | Treatment-corrected change from baseline in HbA1c (%)† (1-sided CI) |
 | Add-on combination therapy studies |  |  |  |
 | Alogliptin 25 mg once daily with metformin vs a sulphonylurea + metformin Change at Week 52 (n=382) Change at Week 104 (n=382) | 7.61 (0.526) 7.61 (0.526) | -0.76 (0.027) -0.72 (0.037 | -0.03 (-infinity, 0.059) -0.13* (-infinity, -0.006) |

@@ -30,7 +30,7 @@ Experience of alogliptin use in clinical trials in patients with congestive hear
 
 Hypersensitivity reactions
 
-Hypersensitivity reactions, including anaphylactic reactions, angioedema and exfoliative skin conditions including Stevens-Johnson syndrome and erythema multiforme have been observed for DPP-4 inhibitors and have been spontaneously reported for alogliptin in the post-marketing setting.
+Hypersensitivity reactions, including anaphylactic reactions, angioedema and exfoliative skin conditions including Stevens-Johnson syndrome have been observed for DPP-4 inhibitors and have been spontaneously reported for alogliptin in the post-marketing setting.
 In clinical studies of alogliptin, anaphylactic reactions were reported with a low incidence.
 
 Acute pancreatitis
