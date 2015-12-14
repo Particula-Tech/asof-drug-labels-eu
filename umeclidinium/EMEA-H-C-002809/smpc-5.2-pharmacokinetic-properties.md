@@ -5,13 +5,12 @@ Absorption
 Following inhaled administration of umeclidinium bromide in healthy volunteers, Cmax occurred at 5 to 15 minutes.
 The absolute bioavailability of inhaled umeclidinium bromide was on average 13% of the dose, with negligible contribution from oral absorption.
 Following repeat dosing of inhaled umeclidinium bromide, steady state was achieved within 7 to 10 days with 1.5 to 1.8-fold accumulation.
+
 Distribution
 
 Following intravenous administration to healthy subjects, the mean volume of distribution was 86 litres.
 In vitro plasma protein binding in human plasma was on average 89%.
 
-*A step-down statistical testing procedure was used in this study and this comparison was below a comparison that did not achieve statistical significance.
-Therefore, statistical significance on this comparison cannot be inferred.
 Biotransformation
 
 In vitro studies showed that umeclidinium bromide is principally metabolised by cytochrome P450 2D6 (CYP2D6) and is a substrate for the P-glycoprotein (P-gp) transporter.
@@ -32,7 +31,6 @@ Characteristics in specific groups of subjects or patients
 
 Elderly
 A population pharmacokinetic analysis showed that pharmacokinetics of umeclidinium bromide are similar between COPD patients 65 years and older and those younger than 65 years of age.
-
 Renal impairment
 Subjects with severe renal impairment (creatinine clearance <30mL/min) showed no evidence of an increase in systemic exposure to umeclidinium bromide (Cmax and AUC), and no evidence of altered protein binding between subjects with severe renal impairment and healthy volunteers.
 

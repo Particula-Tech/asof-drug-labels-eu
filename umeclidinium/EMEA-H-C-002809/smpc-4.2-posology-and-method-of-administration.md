@@ -37,10 +37,13 @@ The Ellipta inhaler contains pre-dispensed doses and is ready to use.
 The inhaler is packaged in a tray containing a desiccant sachet, to reduce moisture.
 The desiccant sachet should be thrown away and it should not be eaten or inhaled.
 
-The inhaler will be in the ‘closed’ position when it is first taken out of its sealed tray.
-It should not be opened until it is ready to be inhaled.
-The inhaler does not need to be stored in the foil laminate tray once it has been opened.
+The patient should be advised to not open the tray until they are ready to inhale a dose.
 
+The inhaler will be in the ‘closed’ position when it is first taken out of its sealed tray.
+The “Discard by” date should be written on the inhaler label in the space provided.
+The “Discard by” date is 6 weeks from the date of opening the tray.
+After this date the inhaler should no longer be used.
+The tray can be discarded after first opening.
 If the inhaler cover is opened and closed without inhaling the medicinal product, the dose will be lost.
 The lost dose will be securely held inside the inhaler, but it will no longer be available to be inhaled.
 
