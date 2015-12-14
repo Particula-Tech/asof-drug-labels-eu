@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Drugs used in diabetes, Other blood glucose lowering drugs, excl. insulins, ATC code: A10BX12
+
 Mechanism of action
 
 Empagliflozin is a reversible, highly potent (IC50 of 1.3 nmol) and selective competitive inhibitor of sodium-glucose co-transporter 2 (SGLT2).
@@ -25,18 +26,18 @@ The glucosuria observed with empagliflozin is accompanied by mild diuresis which
 
 Clinical efficacy and safety
 
-A total of 11,250 patients with type 2 diabetes were treated in 10 double-blind, placebo- and active-controlled clinical studies, of which 6,015 received empagliflozin (empagliflozin 10 mg: 3021 patients; empagliflozin 25 mg: 3994 patients).
+A total of 11,250 patients with type 2 diabetes were treated in 10 double-blind, placebo- and active-controlled clinical studies, of which 7,015 received empagliflozin (empagliflozin 10 mg: 3021 patients; empagliflozin 25 mg: 3994 patients).
 Four studies had treatment durations of 24 weeks; extensions of those and other studies had patients exposed to empagliflozin for up to 102 weeks.
 
 Treatment with empagliflozin as monotherapy and in combination with metformin, pioglitazone, a sulphonylurea, DPP-4 inhibitors, and insulin lead to clinically relevant improvements in HbA1c, fasting plasma glucose (FPG), body weight, and systolic and diastolic blood pressure.
 Administration of empagliflozin 25 mg resulted in a higher proportion of patients achieving HbA1c goal of less than 7% and fewer patients needing glycaemic rescue compared to empagliflozin 10 mg and placebo.
 Higher baseline HbA1c was associated with a greater reduction in HbA1c.
-
 Monotherapy
 The efficacy and safety of empagliflozin as monotherapy was evaluated in a double-blind, placebo- and active-controlled study of 24 weeks duration in treatment-naïve patients.
 Treatment with empagliflozin resulted in a statistically significant (p<0.0001) reduction in HbA1c compared to placebo (Table 2) and a clinically meaningful decrease in FPG.
 In a prespecified analysis of patients (N=201) with a baseline HbA1c ≥8.5%, treatment resulted in a reduction in HbA1c from baseline of -1.44% for empagliflozin 10 mg, -1.43% for empagliflozin 25 mg, -1.04% for sitagliptin, and an increase of 0.01% for placebo.
 In the double-blind placebo-controlled extension of this study, reductions of HbA1c, body weight and blood pressure were sustained up to Week 52.
+
 Table 2: Efficacy results of a 24 week placebo-controlled study of empagliflozin as monotherapya
 
 |  | Placebo | Jardiance |  | Sitagliptin |
@@ -58,7 +59,7 @@ Table 2: Efficacy results of a 24 week placebo-controlled study of empagliflozin
 | SBP (mmHg)4 |  |  |  |  |
 | Baseline (mean) | 130.4 | 133.0 | 129.9 | 132.5 |
 | Change from baseline1 | -0.3 | -2.9 | -3.7 | 0.5 |
-| Difference from placebo1 (95% CI) |  | -2.6* (-5.2, -0.0) | -3.4* (-6.0, - 0.9) | 0.8 (-1.4, 3.1)3 |
+| Difference from placebo1 (97.5% CI) |  | -2.6* (-5.2, -0.0) | -3.4* (-6.0, -0.9) | 0.8 (-1.4, 3.1)3 |
 
 a Full analysis set (FAS) using last observation carried forward (LOCF) prior to glycaemic rescue therapy
 1 Mean adjusted for baseline value
@@ -142,7 +143,7 @@ a Full analysis set (FAS) using last observation carried forward (LOCF) prior to
 
 Empagliflozin 24 months data, as add on to metformin in comparison to glimepiride
 In a study comparing the efficacy and safety of empagliflozin 25 mg versus glimepiride (up to 4 mg per day) in patients with inadequate glycaemic control on metformin alone, treatment with empagliflozin daily resulted in superior reduction in HbA1c (Table 4), and a clinically meaningful reduction in FPG, compared to glimepiride.
-Empagliflozin daily resulted in a statistically significant reduction in body weight, systolic and diastolic blood pressure and a statistically significantly lower proportion of patients with hypoglycaemic events compared to glimepiride (1.6% for empagliflozin, 20.4% for glimepiride, p<0.0001).
+Empagliflozin daily resulted in a statistically significant reduction in body weight, systolic and diastolic blood pressure and a statistically significantly lower proportion of patients with hypoglycaemic events compared to glimepiride (2.5% for empagliflozin, 24.2% for glimepiride, p<0.0001).
 Table 4: Efficacy results at 104 week in an active controlled study comparing empagliflozin to glimepiride as add on to metformina
 
 |  | Empagliflozin 25 mg | Glimepirideb |
@@ -266,8 +267,8 @@ Table 7 Results at 24 week in a placebo-controlled study of empagliflozin in ren
 | N | 95 | 98 | 97 | 89 | 91 |
 | Body Weight (kg)2 |  |  |  |  |  |
 | Baseline (mean) | 86.00 | 92.05 | 88.06 | 83.20 | 84.90 |
-| Change from baseline1 | -0.33 | -1.76 | -2.33 | -0.11 | -1.39 |
-| Difference from placebo1 (95% CI) |  | -1.43 (-2.09, -0.77) | -2.00 (-2.66, -1.34) |  | -1.28 (-2.08, -0.48) |
+| Change from baseline1 | -0.33 | -1.76 | -2.33 | -0.25 | -0.98 |
+| Difference from placebo1 (95% CI) |  | -1.43 (-2.09, -0.77) | -2.00 (-2.66, -1.34) |  | -0.74 (-1.50, -0.03) |
 | N | 95 | 98 | 97 | 89 | 91 |
 | SBP (mmHg)2 |  |  |  |  |  |
 | Baseline (mean) | 134.69 | 137.37 | 133.68 | 137.29 | 135.04 |
@@ -293,7 +294,7 @@ Treatment with empagliflozin as add-on to metformin or metformin and a sulphonyl
 
 Patients with high baseline HbA1c >10%
 
-In a pre-specified pooled analysis of three phase 3 studies, treatment with open-label empagliflozin 25 mg in patients with severe hyperglycaemia (N=257, mean baseline HbA1c 11.26%) resulted in a clinically meaningful reduction in HbA1c from baseline of 3.27%; no placebo or empagliflozin 10 mg arms were included in these studies.
+In a pre-specified pooled analysis of three phase 3 studies, treatment with open-label empagliflozin 25 mg in patients with severe hyperglycaemia (N=184, mean baseline HbA1c 11.15%) resulted in a clinically meaningful reduction in HbA1c from baseline of 3.27% at week 24; no placebo or empagliflozin 10 mg arms were included in these studies.
 
 Body weight
 
@@ -339,7 +340,3 @@ In a pre-specified pooled analysis of 4 placebo-controlled studies, treatment wi
 Paediatric population
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with Jardiance in one or more subsets of the paediatric population in type 2 diabetes mellitus (see section 4.2 for information on paediatric use).
-
-[Jardiance 25 mg film-coated tablets]
-
-3 LOCF, values after taking antidiabetic rescue medications or changing antihypertensive rescue therapy censored

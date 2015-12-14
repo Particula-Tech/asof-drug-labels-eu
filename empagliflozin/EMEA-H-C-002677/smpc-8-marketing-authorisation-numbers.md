@@ -1,5 +1,6 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
 
+Jardiance 10 mg film-coated tablets
 EU/1/14/930/010
 EU/1/14/930/011
 EU/1/14/930/012
@@ -10,8 +11,7 @@ EU/1/14/930/016
 EU/1/14/930/017
 EU/1/14/930/018
 
-[Jardiance 25 mg film-coated tablets]
-
+Jardiance 25 mg film-coated tablets
 EU/1/14/930/001
 EU/1/14/930/002
 EU/1/14/930/003

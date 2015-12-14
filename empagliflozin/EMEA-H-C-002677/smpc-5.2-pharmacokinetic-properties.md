@@ -12,7 +12,6 @@ There were no clinically relevant differences in empagliflozin pharmacokinetics 
 
 Administration of empagliflozin 25 mg after intake of a high-fat and high calorie meal resulted in slightly lower exposure; AUC decreased by approximately 16% and Cmax by approximately 37% compared to fasted condition.
 The observed effect of food on empagliflozin pharmacokinetics was not considered clinically relevant and empagliflozin may be administered with or without food.
-
 Distribution
 
 The apparent steady-state volume of distribution was estimated to be 73.8 l based on the population pharmacokinetic analysis.
@@ -50,11 +49,11 @@ In this analysis, AUC was estimated to be 5.82%, 10.4%, and 17.3% lower in subje
 
 Gender
 Gender had no clinically relevant effect on the pharmacokinetics of empagliflozin based on the population pharmacokinetic analysis.
-
 Race
 In the population pharmacokinetic analysis, AUC was estimated to be 13.5% higher in Asians with a body mass index of 25 kg/m2 compared to non-Asians with a body mass index of 25 kg/m2.
-Elderly patients
+
+Elderly
 Age did not have a clinically meaningful impact on the pharmacokinetics of empagliflozin based on the population pharmacokinetic analysis.
 
-Paediatric patients
+Paediatric population
 Studies characterising the pharmacokinetics of empagliflozin in paediatric patients have not been performed.
