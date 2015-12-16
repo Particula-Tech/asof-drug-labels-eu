@@ -23,6 +23,7 @@ Concurrent therapy with nephrotoxic medicinal products (such as aminoglycosides,
 
 Consumption of moderate amounts of alcohol did not alter exposure to Tecfidera and was not associated with an increase in adverse reactions.
 Consumption of large quantities of undiluted strong alcoholic drinks (more than 30% alcohol by volume) may lead to increased dissolution rates of Tecfidera and, therefore, may increase the frequency of gastrointestinal adverse reactions.
+
 In vitro CYP induction studies did not demonstrate an interaction between Tecfidera and oral contraceptives.
 In vivo interaction studies have not been performed with oral contraceptives.
 Even though an interaction is not expected, non-hormonal contraceptive measures should be considered with Tecfidera (see section 4.6).

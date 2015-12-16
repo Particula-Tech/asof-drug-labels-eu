@@ -32,7 +32,6 @@ The relevance of these findings to humans is not known.
 In the testes, degeneration of the seminiferous epithelium was seen in rats and dogs.
 The findings were observed at approximately the recommended dose in rats and 6 times the recommended dose in dogs (AUC basis).
 The relevance of these findings to humans is not known.
-
 Findings in the forestomach of mice and rats consisted of squamous epithelial hyperplasia and hyperkeratosis; inflammation; and squamous cell papilloma and carcinoma in studies of 3 months or longer in duration.
 The forestomach of mice and rats does not have a human counterpart.
 

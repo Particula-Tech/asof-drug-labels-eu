@@ -13,10 +13,10 @@ Within 1 month, the recommended dose of 240 mg twice a day should be resumed.
 Tecfidera should be taken with food (see section 5.2).
 For those patients who may experience flushing or gastrointestinal adverse reactions, taking Tecfidera with food may improve tolerability (see sections 4.4, 4.5 and 4.8).
 
-Older people
-
+Elderly
 Clinical studies of Tecfidera had limited exposure to patients aged 55 years and above, and did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently than younger patients (see section 5.2).
 Based on the mode of action of the active substance there are no theoretical reasons for any requirement for dose adjustments in the elderly.
+
 Renal and hepatic impairment
 
 Tecfidera has not been studied in patients with renal or hepatic impairment.
@@ -27,7 +27,7 @@ Paediatric population
 
 The safety and efficacy of Tecfidera in children and adolescents aged 10 to 18 years have not been established.
 No data are available.
-There is no relevant use of Tecfidera in children aged less than 10 years in multiple sclerosis.
+There is no relevant use of Tecfidera in children aged less than 10 years for the indication of relapsing remitting multiple sclerosis.
 
 Method of administration
 

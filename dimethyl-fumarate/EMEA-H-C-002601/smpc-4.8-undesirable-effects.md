@@ -28,6 +28,7 @@ The incidence of the adverse reactions below are expressed according to the foll
 | MedDRA System Organ Class | Adverse reaction | Frequency category |
 | --- | --- | --- |
 | Infections and infestations | Gastroenteritis | Common |
+|  | Progressive multifocal leukoencephalopathy (PML) | Not known |
 | Blood and lymphatic system disorders | Lymphopenia | Common |
 |  | Leucopenia | Common |
 | Immune system disorders | Hypersensitivity | Uncommon |
@@ -99,10 +100,11 @@ Upon treatment with Tecfidera, mean lymphocyte counts decreased over the first y
 On average, lymphocyte counts decreased by approximately 30% of baseline value.
 Mean and median lymphocyte counts remained within normal limits.
 Lymphocyte counts <0.5x109/l were observed in <1% of patients treated with placebo and 6% of patients treated with Tecfidera.
-A lymphocyte count <0.2x109/l was observed in 1 patient treated with Tecfidera and in no patients treated with placebo.
-The incidence of infections (58% versus 60%) and serious infections (2% versus 2%) was similar in patients treated with placebo or Tecfidera.
+A lymphocyte count <0.2x109/l was observed in 1 patient treated with Tecfidera and in no patients treated with placebo.The incidence of infections (58% versus 60%) and serious infections (2% versus 2%) was similar in patients treated with placebo or Tecfidera.
 An increased incidence of infections and serious infections was not observed in patients with lymphocyte counts <0.8x109/l or <0.5x109/l.
+PML has occurred in the setting of severe and prolonged lymphopenia (please refer to section 4.4).
 A transient increase in mean eosinophil counts was seen during the first 2 months of therapy.
+
 Laboratory abnormalities
 
 In the placebo-controlled studies, measurement of urinary ketones (1+ or greater) was higher in patients treated with Tecfidera (45%) compared to placebo (10%).

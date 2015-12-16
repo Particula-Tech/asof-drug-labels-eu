@@ -5,7 +5,7 @@ Enteric-coated microtablets
 Microcrystalline cellulose
 Croscarmellose sodium
 Talc
-Silica, hydrophobic colloidal
+Silica, colloidal anhydrous
 Magnesium stearate
 Triethyl citrate
 Methacrylic acid – methyl methacrylate copolymer (1:1)
@@ -20,6 +20,7 @@ Gelatin
 Titanium dioxide (E171)
 Brilliant Blue FCF (E133)
 Yellow iron oxide (E172)
+
 Capsule print (black ink)
 
 Shellac
