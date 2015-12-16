@@ -17,3 +17,7 @@ Co-administration with pimozide, terfenadine, astemizole or cisapride (see secti
 [EMEND 125 mg hard capsules (SmPC 5)]
 
 (all sentences already above)
+
+[EMEND 125 mg powder for oral suspension]
+
+(all sentences already above)

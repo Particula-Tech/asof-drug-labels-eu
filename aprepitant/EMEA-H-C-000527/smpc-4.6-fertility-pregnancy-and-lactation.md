@@ -36,3 +36,7 @@ The potential for reproductive toxicity of aprepitant has not been fully charact
 [EMEND 125 mg hard capsules (SmPC 5)]
 
 (all sentences already above)
+
+[EMEND 125 mg powder for oral suspension]
+
+(all sentences already above)

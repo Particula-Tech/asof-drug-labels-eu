@@ -17,3 +17,7 @@ Detailed information on this medicinal product is available on the website of th
 [EMEND 125 mg hard capsules (SmPC 5)]
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu/.
+
+[EMEND 125 mg powder for oral suspension]
+
+(all sentences already above)

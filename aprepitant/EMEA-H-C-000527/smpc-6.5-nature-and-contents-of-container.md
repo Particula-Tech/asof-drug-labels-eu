@@ -28,3 +28,9 @@ Aluminium blister containing one 165 mg capsule.
 [EMEND 125 mg hard capsules (SmPC 5)]
 
 Aluminium blister containing one 125 mg capsule and two 80 mg capsules.
+
+[EMEND 125 mg powder for oral suspension]
+
+PET/aluminium/LLDPE sachets.
+Single-use carton
+Each carton contains one sachet with the powder for oral suspension, one 5 mL polypropylene oral dispenser with silicone o-ring and one polypropylene mixing cup.

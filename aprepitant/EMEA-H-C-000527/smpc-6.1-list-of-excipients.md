@@ -3,14 +3,13 @@
 Capsule content
 Sucrose
 Microcrystalline cellulose (E 460)
-Hydroxypropyl cellulose (E 463)
+Hydroxypropylcellulose (E 463)
 Sodium laurilsulfate
 
 Capsule shell
 Gelatin
 Titanium dioxide (E 171)
 Yellow iron oxide (E 172)
-
 Printing ink
 Shellac
 Potassium hydroxide
@@ -33,3 +32,9 @@ Indigo carmine (E 132)
 Capsule shell (125 mg)
 
 Capsule shell (80 mg)
+
+[EMEND 125 mg powder for oral suspension]
+
+Sodium laurilsulfate (E 487)
+Lactose (anhydrous)
+Sodium stearyl fumarate (E 485)

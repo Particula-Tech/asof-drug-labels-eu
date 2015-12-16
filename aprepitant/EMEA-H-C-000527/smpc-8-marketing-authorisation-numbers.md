@@ -22,3 +22,7 @@ EU/1/03/262/010
 [EMEND 125 mg hard capsules (SmPC 5)]
 
 EU/1/03/262/006
+
+[EMEND 125 mg powder for oral suspension]
+
+EU/1/03/262/011

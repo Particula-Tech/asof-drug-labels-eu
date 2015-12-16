@@ -32,3 +32,11 @@ Each 80 mg capsule contains 80 mg of aprepitant.
 
 Each capsule contains 125 mg of sucrose (in the 125 mg capsule).
 Each capsule contains 80 mg of sucrose (in the 80 mg capsule).
+
+[EMEND 125 mg powder for oral suspension]
+
+Each sachet contains 125 mg of aprepitant.
+After reconstitution, 1 mL oral suspension contains 25 mg of aprepitant.
+
+Excipients with known effect:
+Each sachet contains approximately 125 mg of sucrose and 468.7 mg lactose (as anhydrous).
