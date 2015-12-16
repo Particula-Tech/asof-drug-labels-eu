@@ -14,5 +14,4 @@ Coadministration with high-dose ritonavir (400 mg and above twice daily) because
 Coadministration with ergot alkaloids (ergotamine, dihydroergotamine), which are CYP3A4 substrates, since increased plasma concentrations of these medicinal products can lead to ergotism (see section 4.5).
 
 Coadministration with sirolimus since voriconazole is likely to increase plasma concentrations of sirolimus significantly (see section 4.5).
-
 Coadministration with St. John’s Wort (see section 4.5).

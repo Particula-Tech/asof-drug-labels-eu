@@ -13,17 +13,10 @@ Titanium dioxide (E171)
 Lactose monohydrate
 Glycerol triacetate
 
-[VFEND 200 mg film-coated tablets]
-
-(all sentences already above)
-
 [VFEND 200 mg powder for solution for infusion]
 
-Sulphobutylether beta cyclodextrin sodium (SBECD)
-
-[VFEND 200 mg powder and solvent for solution for infusion]
-
 Powder for solution for infusion:
+Sulfobutylether beta cyclodextrin sodium (SBECD)
 
 Solvent for solution for infusion:
 Sodium chloride 0.9% in Water for Injections

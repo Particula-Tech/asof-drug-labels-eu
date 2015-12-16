@@ -2,8 +2,7 @@
 
 Posology
 Electrolyte disturbances such as hypokalaemia, hypomagnesaemia and hypocalcaemia should be monitored and corrected, if necessary, prior to initiation and during voriconazole therapy (see section 4.4).
-
-VFEND is also available as 200 mg film-coated tablets, 200 mg powder for solution for infusion, 200 mg powder and solvent for solution for infusion and 40 mg/ml powder for oral suspension.
+VFEND is also available as 200 mg powder for solution for infusion, 200 mg powder and solvent for solution for infusion and 40 mg/ml powder for oral suspension.
 
 Treatment
 Adults
@@ -46,7 +45,6 @@ Note: Based on a population pharmacokinetic analysis in 112 immunocompromised pa
 
 It is recommended to initiate the therapy with intravenous regimen, and oral regimen should be considered only after there is a significant clinical improvement.
 It should be noted that an 8 mg/kg intravenous dose will provide voriconazole exposure approximately 2-fold higher than a 9 mg/kg oral dose.
-
 These oral dose recommendations for children are based on studies in which voriconazole was administered as the powder for oral suspension.
 Bioequivalence between the powder for oral suspension and tablets has not been investigated in a paediatric population.
 Considering the assumed limited gastro-enteric transit time in paediatric patients, the absorption of tablets may be different in paediatric compared to adult patients.
@@ -89,17 +87,17 @@ However, if the combination is strictly needed, the maintenance dose of voricona
 
 Efavirenz may be coadministered with voriconazole if the maintenance dose of voriconazole is increased to 400 mg every 12 hours and the efavirenz dose is reduced by 50%, i.e. to 300 mg once daily.
 When treatment with voriconazole is stopped, the initial dosage of efavirenz should be restored (see sections 4.4 and 4.5).
-
-Elderly patients
+Elderly
 No dose adjustment is necessary for elderly patients (see section 5.2).
 
-Patients with renal impairment
+Renal impairment
 The pharmacokinetics of orally administered voriconazole are not affected by renal impairment.
 Therefore, no adjustment is necessary for oral dosing for patients with mild to severe renal impairment (see section 5.2).
 
 Voriconazole is haemodialysed with a clearance of 121 ml/min.
 A 4-hour haemodialysis session does not remove a sufficient amount of voriconazole to warrant dose adjustment.
-Patients with hepatic impairment
+
+Hepatic impairment
 It is recommended that the standard loading dose regimens be used but that the maintenance dose be halved in patients with mild to moderate hepatic cirrhosis (Child-Pugh A and B) receiving voriconazole (see section 5.2).
 
 Voriconazole has not been studied in patients with severe chronic hepatic cirrhosis (Child-Pugh C).
@@ -116,22 +114,15 @@ Currently available data are described in sections 4.8 and 5.1 but no recommenda
 Method of administration
 VFEND film-coated tablets are to be taken at least one hour before, or one hour following, a meal.
 
-[VFEND 200 mg film-coated tablets]
-
-VFEND is also available as 50 mg film-coated tablets, 200 mg powder for solution for infusion, 200 mg powder and solvent for solution for infusion and 40 mg/ml powder for oral suspension.
-
-If patient is unable to tolerate treatment at a higher dose reduce the oral dose by 50 mg steps to the 200 mg twice daily (or 100 mg twice daily for patients less than 40 kg) maintenance dose.
-
-It is recommended that the standard loading dose regimens be used but that the maintenance dose be halved in patients with mild to moderate hepatic cirrhosis (Child-Pugh A and B) receiving voriconazole
-(see section 5.2).
-
 [VFEND 200 mg powder for solution for infusion]
 
 It is recommended that VFEND is administered at a maximum rate of 3 mg/kg per hour over 1 to 3 hours.
 
-VFEND is also available as 50 mg and 200 mg film-coated tablets, 200 mg powder and solvent for solution for infusion and 40 mg/ml powder for oral suspension.
+VFEND is also available as 50 mg and 200 mg film-coated tablets and 40 mg/ml powder for oral suspension.
 
 If patient is unable to tolerate intravenous treatment at 4 mg/kg twice daily, reduce the dose to 3 mg/kg twice daily.
+
+If patient is unable to tolerate treatment at a higher dose reduce the oral dose by 50 mg steps to the 200 mg twice daily (or 100 mg twice daily for patients less than 40 kg) maintenance dose.
 
 If patient response to treatment is inadequate, the intravenous dose may be increased by 1 mg/kg steps.
 If patient is unable to tolerate treatment, reduce the intravenous dose by 1 mg/kg steps.
@@ -150,10 +141,6 @@ The intravenous vehicle, SBECD, is haemodialysed with a clearance of 55 ml/min.
 VFEND requires reconstitution and dilution (see section 6.6) prior to administration as an intravenous infusion.
 Not for bolus injection.
 
-[VFEND 200 mg powder and solvent for solution for infusion]
-
-VFEND is also available as 50 mg and 200 mg film-coated tablets, 200 mg powder for solution for infusion and 40 mg/ml powder for oral suspension.
-
 [VFEND 40 mg/ml powder for oral suspension]
 
 VFEND is also available as 50 mg and 200 mg film-coated tablets, 200 mg powder for solution for injection and 200 mg powder and solvent for solution for infusion.
@@ -163,5 +150,8 @@ VFEND is also available as 50 mg and 200 mg film-coated tablets, 200 mg powder f
 |  |  | Patients 40 kg and above* | Patients less than 40 kg* |
 | Loading dose regimen (first 24 hours) | 6 mg/kg every 12 hours | 400 mg (10 ml) every 12 hours | 200 mg (5 ml) every 12 hours |
 | Maintenance dose (after first 24 hours) | 4 mg/kg twice daily | 200 mg (5 ml) twice daily | 100 mg (2.5 ml) twice daily |
+
+It is recommended that the standard loading dose regimens be used but that the maintenance dose be halved in patients with mild to moderate hepatic cirrhosis (Child-Pugh A and B) receiving voriconazole
+(see section 5.2).
 
 VFEND oral suspension is to be taken at least one hour before, or two hours following, a meal.

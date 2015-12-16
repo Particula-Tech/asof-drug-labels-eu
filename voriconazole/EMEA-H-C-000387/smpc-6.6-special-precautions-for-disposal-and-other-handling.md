@@ -1,47 +1,17 @@
 # 6.6 Special precautions for disposal
 
-No special requirements.
-
-[VFEND 200 mg film-coated tablets]
-
-(all sentences already above)
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 [VFEND 200 mg powder for solution for infusion]
 
-Any unused product or waste material should be disposed of in accordance with local requirements.
-
+VFEND 200 mg powder for solution for infusion:
 The powder is reconstituted with either 19 ml of water for injections or 19 ml of 9 mg/ml (0.9%) Sodium Chloride for Infusion to obtain an extractable volume of 20 ml of clear concentrate containing 10 mg/ml of voriconazole.
 Discard the VFEND vial if vacuum does not pull the diluent into the vial.
 It is recommended that a standard 20 ml (non-automated) syringe be used to ensure that the exact amount (19.0 ml) of water for injections or (9 mg/ml [0.9%]) Sodium Chloride for Infusion is dispensed.
 This medicinal product is for single use only and any unused solution should be discarded.
 Only clear solutions without particles should be used.
 
-For administration, the required volume of the reconstituted concentrate is added to a recommended compatible infusion solution (detailed below) to obtain a final voriconazole solution containing 0.5-5 mg/ml.
-
-Required Volumes of 10 mg/ml VFEND Concentrate
-
-| Body Weight (kg) | Volume of VFEND Concentrate (10 mg/ml) required for: |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | 3 mg/kg dose (number of vials) | 4 mg/kg dose (number of vials) | 6 mg/kg dose (number of vials) | 8 mg/kg dose (number of vials) | 9 mg/kg dose (number of vials) |
-| 10 | - | 4.0 ml (1) | - | 8.0 ml (1) | 9.0 ml (1) |
-| 15 | - | 6.0 ml (1) | - | 12.0 ml (1) | 13.5 ml (1) |
-| 20 | - | 8.0 ml (1) | - | 16.0 ml (1) | 18.0 ml (1) |
-| 25 | - | 10.0 ml (1) | - | 20.0 ml (1) | 22.5 ml (2) |
-| 30 | 9.0 ml (1) | 12.0 ml (1) | 18.0 ml (1) | 24.0 ml (2) | 27.0 ml (2) |
-| 35 | 10.5 ml (1) | 14.0 ml (1) | 21.0 ml (2) | 28.0 ml (2) | 31.5 ml (2) |
-| 40 | 12.0 ml (1) | 16.0 ml (1) | 24.0 ml (2) | 32.0 ml (2) | 36.0 ml (2) |
-| 45 | 13.5 ml (1) | 18.0 ml (1) | 27.0 ml (2) | 36.0 ml (2) | 40.5 ml (3) |
-| 50 | 15.0 ml (1) | 20.0 ml (1) | 30.0 ml (2) | 40.0 ml (2) | 45.0 ml (3) |
-| 55 | 16.5 ml (1) | 22.0 ml (2) | 33.0 ml (2) | 44.0 ml (3) | 49.5 ml (3) |
-| 60 | 18.0 ml (1) | 24.0 ml (2) | 36.0 ml (2) | 48.0 ml (3) | 54.0 ml (3) |
-| 65 | 19.5 ml (1) | 26.0 ml (2) | 39.0 ml (2) | 52.0 ml (3) | 58.5 ml (3) |
-| 70 | 21.0 ml (2) | 28.0 ml (2) | 42.0 ml (3) | - | - |
-| 75 | 22.5 ml (2) | 30.0 ml (2) | 45.0 ml (3) | - | - |
-| 80 | 24.0 ml (2) | 32.0 ml (2) | 48.0 ml (3) | - | - |
-| 85 | 25.5 ml (2) | 34.0 ml (2) | 51.0 ml (3) | - | - |
-| 90 | 27.0 ml (2) | 36.0 ml (2) | 54.0 ml (3) | - | - |
-| 95 | 28.5 ml (2) | 38.0 ml (2) | 57.0 ml (3) | - | - |
-| 100 | 30.0 ml (2) | 40.0 ml (2) | 60.0 ml (3) | - | - |
+For administration, the required volume of the reconstituted concentrate is added to a recommended compatible infusion solution (detailed in the table below) to obtain a final voriconazole solution containing 0.5-5 mg/ml.
 
 The reconstituted solution can be diluted with:
 
@@ -56,8 +26,7 @@ Compound Sodium Lactate Intravenous Infusion
 
 The compatibility of voriconazole with diluents other than described above or in section 6.2 is unknown.
 
-[VFEND 200 mg powder and solvent for solution for infusion]
-
+VFEND 200 mg powder and solvent for solution for infusion:
 Use only items provided in the box with VFEND powder and solvent for solution for infusion in the preparation of the infusion.
 
 Instructions for reconstitution and use:
@@ -91,6 +60,8 @@ The contents of the infusion bag are now ready for infusion to the patient.
 The infusion bag should be checked to ensure that the entire contents of the bag have been infused, especially if the same intravenous line is to be used for sequential infusion of other drugs.
 Other additives should not be introduced into the infusion bag.
 
+Required Volumes of 10 mg/ml VFEND Concentrate
+
 | Body Weight (kg) | Volume of VFEND Concentrate (10 mg/ml) required for: |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | 3 mg/kg dose (number of vials) | 4 mg/kg dose (number of vials) | 6 mg/kg dose (number of vials) | 8 mg/kg dose (number of vials) | 9 mg/kg dose (number of vials) |
@@ -112,7 +83,7 @@ Other additives should not be introduced into the infusion bag.
 | 85 | 25.5 ml (2) | 34.0 ml (2) | 51.0 ml (3) | - | - |
 | 90 | 27.0 ml (2) | 36.0 ml (2) | 54.0 ml (3) | - | - |
 | 95 | 28.5 ml (2) | 38.0 ml (2) | 57.0 ml (3) | - | - |
-| 100 | 30.0 ml (2) | 40.0 ml (2) | 60.0 ml (3) |  |  |
+| 100 | 30.0 ml (2) | 40.0 ml (2) | 60.0 ml (3) | - | - |
 
 Further information is provided for medical or healthcare professionals at the end of the Package Leaflet.
 
@@ -122,9 +93,7 @@ Constitution instructions:
 1.
 Tap the bottle to release the powder.
 2.
-Measure 23 ml of water by filling the measuring cup to the top of the marked line.
-Add the water to the bottle.
-Using the cup, measure another 23 ml of water and add this to the bottle.
+Add 2 measuring cups of water, providing a total volume of 46 ml.
 3.
 Shake the closed bottle vigorously for about 1 minute.
 4.

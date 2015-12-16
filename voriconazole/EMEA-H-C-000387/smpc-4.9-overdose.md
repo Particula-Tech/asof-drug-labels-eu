@@ -9,18 +9,10 @@ There is no known antidote to voriconazole.
 Voriconazole is haemodialysed with a clearance of 121 ml/min.
 In an overdose, haemodialysis may assist in the removal of voriconazole from the body.
 
-[VFEND 200 mg film-coated tablets]
-
-(all sentences already above)
-
 [VFEND 200 mg powder for solution for infusion]
 
 The intravenous vehicle, SBECD, is haemodialysed with a clearance of 55 ml/min.
 In an overdose, haemodialysis may assist in the removal of voriconazole and SBECD from the body.
-
-[VFEND 200 mg powder and solvent for solution for infusion]
-
-(all sentences already above)
 
 [VFEND 40 mg/ml powder for oral suspension]
 

@@ -52,7 +52,6 @@ Pharmacokinetics in special patient groups
 Gender
 In an oral multiple -dose study, Cmax and AUCτ for healthy young females were 83% and 113% higher, respectively, than in healthy young males (18-45 years).
 In the same study, no significant differences in Cmax and AUCτ were observed between healthy elderly males and healthy elderly females (≥65 years).
-
 In the clinical programme, no dosage adjustment was made on the basis of gender.
 The safety profile and plasma concentrations observed in male and female patients were similar.
 Therefore, no dosage adjustment based on gender is necessary.
@@ -93,27 +92,16 @@ Hepatic impairment
 After an oral single-dose (200 mg), AUC was 233% higher in subjects with mild to moderate hepatic cirrhosis (Child-Pugh A and B) compared with subjects with normal hepatic function.
 Protein binding of voriconazole was not affected by impaired hepatic function.
 
-In an oral multiple-dose study, AUCτ was similar in subjects with moderate hepatic cirrhosis (Child-Pugh
-B) given a maintenance dose of 100 mg twice daily and subjects with normal hepatic function given 200 mg twice daily.
+In an oral multiple-dose study, AUCτ was similar in subjects with moderate hepatic cirrhosis (Child-Pugh B) given a maintenance dose of 100 mg twice daily and subjects with normal hepatic function given 200 mg twice daily.
 No pharmacokinetic data are available for patients with severe hepatic cirrhosis (Child-Pugh C) (see sections 4.2 and 4.4).
 
-[VFEND 200 mg film-coated tablets]
+[VFEND 200 mg powder for solution for infusion]
 
 No significant differences in Cmax and AUCτ were observed between healthy elderly females (≥65 years) and healthy young females (18-45 years).
-
-In an oral single-dose (200 mg) study in subjects with normal renal function and mild (creatinine clearance 41-60 ml/min) to severe (creatinine clearance <20 ml/min) renal impairment, the pharmacokinetics of voriconazole were not significantly affected by renal impairment.
-
-In an oral multiple-dose study, AUCτ was similar in subjects with moderate hepatic cirrhosis (Child-Pugh B) given a maintenance dose of 100 mg twice daily and subjects with normal hepatic function given 200 mg twice daily.
-
-[VFEND 200 mg powder for solution for infusion]
 
 It is likely that these subjects may metabolize voriconazole more similarly to children than to adolescents/adults.
 
 In patients with moderate to severe renal dysfunction (serum creatinine levels > 2.5 mg/dl), accumulation of the intravenous vehicle, SBECD, occurs (see sections 4.2 and 4.4).
-
-[VFEND 200 mg powder and solvent for solution for infusion]
-
-(all sentences already above)
 
 [VFEND 40 mg/ml powder for oral suspension]
 
@@ -121,3 +109,5 @@ Bioequivalence was established between the 200 mg tablet and the 40 mg/ml oral s
 When multiple doses of voriconazole oral suspension are administered with high fat meals, Cmax and AUCτ are reduced by 58% and 37% respectively.
 
 A relationship between plasma concentrations and age was observed.The safety profile of voriconazole in young and elderly patients was similar and, therefore, no dosage adjustment is necessary for the elderly (see section 4.2).
+
+In an oral single-dose (200 mg) study in subjects with normal renal function and mild (creatinine clearance 41-60 ml/min) to severe (creatinine clearance <20 ml/min) renal impairment, the pharmacokinetics of voriconazole were not significantly affected by renal impairment.

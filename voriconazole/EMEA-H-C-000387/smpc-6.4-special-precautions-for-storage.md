@@ -2,17 +2,9 @@
 
 This medicinal product does not require any special storage conditions.
 
-[VFEND 200 mg film-coated tablets]
-
-(all sentences already above)
-
 [VFEND 200 mg powder for solution for infusion]
 
 For storage conditions after reconstitution of the medicinal product, see section 6.3.
-
-[VFEND 200 mg powder and solvent for solution for infusion]
-
-(all sentences already above)
 
 [VFEND 40 mg/ml powder for oral suspension]
 

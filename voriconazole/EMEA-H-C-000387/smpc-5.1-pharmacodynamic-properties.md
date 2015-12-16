@@ -30,6 +30,7 @@ Other treated fungal infections (often with either partial or complete response)
 Alternaria spp., Blastomyces dermatitidis, Blastoschizomyces capitatus, Cladosporium spp., Coccidioides immitis, Conidiobolus coronatus, Cryptococcus neoformans, Exserohilum rostratum, Exophiala spinifera, Fonsecaea pedrosoi, Madurella mycetomatis, Paecilomyces lilacinus, Penicillium spp. including
 P. marneffei, Phialophora richardsiae, Scopulariopsis brevicaulis and Trichosporon spp. including
 T. beigelii infections.
+
 In vitro activity against clinical isolates has been observed for Acremonium spp., Alternaria spp.,
 Bipolaris spp., Cladophialophora spp., and Histoplasma capsulatum, with most strains being inhibited by concentrations of voriconazole in the range 0.05 to 2 µg/ml.
 
@@ -38,7 +39,6 @@ In vitro activity against the following pathogens has been shown, but the clinic
 Breakpoints
 Specimens for fungal culture and other relevant laboratory studies (serology, histopathology) should be obtained prior to therapy to isolate and identify causative organisms.
 Therapy may be instituted before the results of the cultures and other laboratory studies are known; however, once these results become available, anti-infective therapy should be adjusted accordingly.
-
 The species most frequently involved in causing human infections include C. albicans, C. parapsilosis,
 C. tropicalis, C. glabrata and C. krusei, all of which usually exhibit minimal inhibitory concentration (MICs) of less than 1 mg/L for voriconazole.
 
@@ -116,7 +116,6 @@ In addition, a successful response was seen in 1 of 3 patients with infections c
 Fusarium spp.: Seven (3 complete, 4 partial responses) of 17 patients were successfully treated with voriconazole.
 Of these 7 patients, 3 had eye, 1 had sinus, and 3 had disseminated infection.
 Four additional patients with fusariosis had an infection caused by several organisms; 2 of them had a successful outcome.
-
 The majority of patients receiving voriconazole treatment of the above mentioned rare infections were intolerant of, or refractory to, prior antifungal therapy.
 
 Primary Prophylaxis of Invasive Fungal Infections – Efficacy in HSCT recipients without prior proven or probable IFI
@@ -149,6 +148,7 @@ while on study drug
 ** Difference in proportions, 95% CI and p-valuesobtained after adjustment for randomization
 
 The breakthrough IFI rate to Day 180 and the primary endpoint of the study, which is Success at Day 180, for patients with AML and myeloablative conditioning regimens respectively, is presented in the table below:
+
 AML
 
 Study endpoints Voriconazole Itraconazole Difference in proportions and
@@ -160,7 +160,6 @@ Success at Day 180* 55 (56.1%) 45 (41.3%) 14.7% (1.7%, 27.7%)***
 * Primary endpoint of study
 ** Using a margin of 5%, non inferiority is demonstrated
 ***Difference in proportions, 95% CI obtained after adjustment for randomization
-
 Myeloablative conditioning regimens
 
 Study endpoints Voriconazole Itraconazole Difference in proportions and
@@ -186,50 +185,30 @@ Duration of treatment
 In clinical trials, 705 patients received voriconazole therapy for greater than 12 weeks, with 164 patients receiving voriconazole for over 6 months.
 
 Paediatric population
-Sixty-one paediatric patients aged 9 months up to 15 years who had definite or probable invasive fungal infections were treated with voriconazole.
-This population included 34 patients 2 to <12 years old and 20 patients 12-15 years of age.
-
-The majority (57/61) had failed previous antifungal therapies.
-Therapeutic studies included 5 patients aged 12-15 years, the remaining patients received voriconazole in the compassionate use programmes.
-Underlying diseases in these patients included haematological malignancies (27 patients) and chronic granulomatous disease (14 patients).
-The most commonly treated fungal infection was aspergillosis (43/61; 70%).
+Fifty-three paediatric patients aged 2 to <18 years were treated with voriconazole in two prospective, open-label, non-comparative, multi-center clinical trials.
+One study enrolled 31 patients with possible, proven or probable invasive aspergillosis (IA), of whom 14 patients had proven or probable IA and were included in the MITT efficacy analyses.
+The second study enrolled 22 patients with invasive candidiasis including candidaemia (ICC), and esophageal candidiasis (EC) requiring either primary or salvage therapy, of whom 17 were included in the MITT efficacy analyses.
+For patients with IA the overall rates of global response at 6 weeks were 64.3% (9/14), the global response rate was 40% (2/5) for patients 2 to <12 years and 77.8% (7/9) for patients 12 to <18 years of age.
+For patients with ICC the global response rate at EOT was 85.7% (6/7) and for patients with EC the global response rate at EOT was 70% (7/10).
+The overall rate of response (ICC and EC combined) was 88.9% (8/9) for 2 to <12 years old and 62.5% (5/8) for 12 to <18 years old.
 
 Clinical studies examining QTc interval
 A placebo-controlled, randomized, single-dose, crossover study to evaluate the effect on the QTc interval of healthy volunteers was conducted with three oral doses of voriconazole and ketoconazole.
 The placebo-adjusted mean maximum increases in QTc from baseline after 800, 1200 and 1600 mg of voriconazole were 5.1, 4.8, and 8.2 msec, respectively and 7.0 msec for ketoconazole 800 mg.
-No subject in any group had an increase in QTc of ≥60 msec from baseline.
+No subject in any group had an increase in QTc of ≥ 60 msec from baseline.
 No subject experienced an interval exceeding the potentially clinically-relevant threshold of 500 msec.
-
-[VFEND 200 mg film-coated tablets]
-
-Pharmacotherapeutic group: Antimycotics for systemic use, triazole derivatives, ATC code J02
-AC03
-
-Alternaria spp., Blastomyces dermatitidis, Blastoschizomyces capitatus, Cladosporium spp.,
-Coccidioides immitis, Conidiobolus coronatus, Cryptococcus neoformans, Exserohilum rostratum, Exophiala spinifera, Fonsecaea pedrosoi, Madurella mycetomatis, Paecilomyces lilacinus, Penicillium spp. including P. marneffei, Phialophora richardsiae, Scopulariopsis brevicaulis and Trichosporon spp. including T. beigelii infections.
-
-Study Endpoints Voriconazole Itraconazole Difference in proportions P-Value
-N=224 N=241 and the 95% confidence
-Completed at least 100 days 120 (53.6%) 94 (39.0%) 14.6% (5.6%, 23.5%) 0.0015
-of study drug prophylaxis
-Developed proven or 3 (1.3%) 5 (2.1%) -0.7% (-3.1%, 1.6%) 0.5390
-probable IFI to day 180
-Developed proven or 2 (0.9%) 4 (1.7%) -0.8% (-2.8%, 1.3%) 0.4589
-probable IFI to day 100
-Developed proven or 0 3 (1.2%) -1.2% (-2.6%, 0.2%) 0.0813
-probable IFI while on study
-drug
-
-Study endpoints Voriconazole Itraconazole Difference in proportions
-(N=98) (N=109) and the 95% confidence
-
-(N=125) (N=143) and the 95% confidence
 
 [VFEND 200 mg powder for solution for infusion]
 
 Pharmacotherapeutic group: Antimycotics for systemic use, triazole derivatives, ATC code: J02A
 C03
 
+Candida species (including fluconazole -resistant C. krusei and resistant strains of C. glabrata and C. albicans) and fungicidal activity against all Aspergillus species tested.
+
+Clinical efficacy defined as partial or complete response, has been demonstrated for Aspergillus spp. including A. flavus, A. fumigatus, A. terreus, A. niger, A. nidulans; Candida spp., including C. albicans, C. glabrata, C. krusei, C. parapsilosis and C. tropicalis; and limited numbers of C. dubliniensis,
+C. inconspicua, and C. guilliermondii, Scedosporium spp., including S. apiospermum, S. prolificans; and Fusarium spp.
+
+Alternaria spp., Blastomyces dermatitidis, Blastoschizomyces capitatus, Cladosporium spp.,
 Coccidioides immitis, Conidiobolus coronatus, Cryptococcus neoformans, Exserohilum rostratum, Exophiala spinifera, Fonsecaea pedrosoi, Madurella mycetomatis, Paecilomyces lilacinus,
 Penicillium spp. including P. marneffei, Phialophora richardsiae, Scopulariopsis brevicaulis and
 Trichosporon spp. including T. beigelii infections.
@@ -243,10 +222,13 @@ IFI while on study drug
 
 ** Difference in proportions, 95% CI and p-values obtained after adjustment for randomization
 
-[VFEND 200 mg powder and solvent for solution for infusion]
+Study endpoints Voriconazole Itraconazole Difference in proportions
+(N=98) (N=109) and the 95% confidence
 
-(all sentences already above)
+(N=125) (N=143) and the 95% confidence
 
 [VFEND 40 mg/ml powder for oral suspension]
+
+Coccidioides immitis, Conidiobolus coronatus, Cryptococcus neoformans, Exserohilum rostratum, Exophiala spinifera, Fonsecaea pedrosoi, Madurella mycetomatis, Paecilomyces lilacinus, Penicillium spp. including P. marneffei, Phialophora richardsiae, Scopulariopsis brevicaulis and Trichosporon spp. including T. beigelii infections.
 
 95% confidence interval

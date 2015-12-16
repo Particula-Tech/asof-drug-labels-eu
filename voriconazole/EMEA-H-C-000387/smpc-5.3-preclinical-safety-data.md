@@ -10,10 +10,6 @@ In the pre- and post-natal development study in rats at exposures lower than tho
 The effects on parturition are probably mediated by species-specific mechanisms, involving reduction of oestradiol levels, and are consistent with those observed with other azole antifungal agents.
 Voriconazole administration induced no impairment of male or female fertility in rats at exposures similar to those obtained in humans at therapeutic doses.
 
-[VFEND 200 mg film-coated tablets]
-
-(all sentences already above)
-
 [VFEND 200 mg powder for solution for infusion]
 
 Preclinical data on the intravenous vehicle SBECD indicated that the main effects were vacuolation of urinary tract epithelium and activation of macrophages in the liver and lungs in the repeated-dose toxicity studies.
@@ -23,10 +19,6 @@ Carcinogenicity studies were not performed with SBECD.
 An impurity present in SBECD has been shown to be an alkylating mutagenic agent with evidence for carcinogenicity in rodents.
 This impurity should be considered a substance with carcinogenic potential in humans.
 In light of these data the duration of treatment with the intravenous formulation should be no longer than 6 months.
-
-[VFEND 200 mg powder and solvent for solution for infusion]
-
-(all sentences already above)
 
 [VFEND 40 mg/ml powder for oral suspension]
 

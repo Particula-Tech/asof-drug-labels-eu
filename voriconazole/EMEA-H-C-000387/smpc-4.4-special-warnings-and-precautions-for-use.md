@@ -18,7 +18,7 @@ Voriconazole should be administered with caution to patients with potentially pr
   No subject experienced an interval exceeding the potentially clinically-relevant threshold of 500 msec (see section 5.1).
 
 Hepatic toxicity
-In clinical trials, there have been uncommon cases of serious hepatic reactions during treatment with voriconazole (including clinical hepatitis, cholestasis and fulminant hepatic failure, including fatalities).
+In clinical trials, there have been cases of serious hepatic reactions during treatment with voriconazole (including clinical hepatitis, cholestasis and fulminant hepatic failure, including fatalities).
 Instances of hepatic reactions were noted to occur primarily in patients with serious underlying medical conditions (predominantly haematological malignancy).Transient hepatic reactions, including hepatitis and jaundice, have occurred among patients with no other identifiable risk factors.
 Liver dysfunction has usually been reversible on discontinuation of therapy (see section 4.8).
 
@@ -37,7 +37,6 @@ There have been reports of prolonged visual adverse reactions, including blurred
 Renal adverse reactions
 Acute renal failure has been observed in severely ill patients undergoing treatment with VFEND.
 Patients being treated with voriconazole are likely to be treated concomitantly with nephrotoxic medicinal products and have concurrent conditions that may result in decreased renal function (see section 4.8).
-
 Monitoring of renal function
 Patients should be monitored for the development of abnormal renal function.
 This should include laboratory evaluation, particularly serum creatinine.
@@ -47,10 +46,10 @@ Patients, especially children, with risk factors for acute pancreatitis (e.g., r
 Monitoring of serum amylase or lipase may be considered in this clinical situation.
 
 Dermatological adverse reactions
-Patients have rarely developed exfoliative cutaneous reactions, such as Stevens-Johnson syndrome, during treatment with VFEND.
+Patients have developed exfoliative cutaneous reactions, such as Stevens-Johnson syndrome, during treatment with VFEND.
 If a patient develops a rash he should be monitored closely and VFEND discontinued if lesions progress.
 
-In addition VFEND has been associated with phototoxicity and pseudoporphyria.
+In addition VFEND has been associated with phototoxicity, including reactions such as ephelides, lentigo, actinic keratosis and pseudoporphyria.
 It is recommended that all patients, including children, avoid exposure to direct sunlight during VFEND treatment and use measures such as protective clothing and sunscreen with high sun protection factor (SPF).
 
 Long-term treatment
@@ -69,6 +68,7 @@ If a patient develops skeletal pain and radiologic findings compatible with peri
 Paediatric population
 Safety and effectiveness in paediatric subjects below the age of two years has not been established (see sections 4.8 and 5.1).
 Voriconazole is indicated for paediatric patients aged two years or older.
+A higher frequency of liver enzyme elevations was observed in the paediatric population (see section 4.8).
 Hepatic function should be monitored in both children and adults.
 Oral bioavailability may be limited in paediatric patients aged 2 to <12 years with malabsorption and very low body weight for age.
 In that case, intravenous voriconazole administration is recommended.
@@ -90,6 +90,7 @@ When voriconazole is coadministered with efavirenz the dose of voriconazole shou
 Rifabutin (Potent CYP450 inducer)
 Careful monitoring of full blood counts and adverse reactions to rifabutin (e.g., uveitis) is recommended when rifabutin is coadministered with voriconazole.
 Concomitant use of voriconazole and rifabutin should be avoided unless the benefit outweighs the risk (see section 4.5).
+
 Ritonavir (potent CYP450 inducer; CYP3A4 inhibitor and substrate)
 Coadministration of voriconazole and low-dose ritonavir (100 mg twice daily) should be avoided unless an assessment of the benefit/risk to the patient justifies the use of voriconazole (see sections 4.3 and 4.5).
 
@@ -103,7 +104,7 @@ Dose reduction of methadone may be needed (see section 4.5).
 
 Short-acting opiates (CYP3A4 substrate)
 Reduction in the dose of alfentanil, fentanyl and other short-acting opiates similar in structure to alfentanil and metabolised by CYP3A4 (e.g., sufentanil) should be considered when coadministered with voriconazole (see section 4.5).
-As the half-life of alfentanil is prolonged in a 4-fold manner when alfentanil is coadministered with voriconazole, and in an independent published study concomitant use of voriconazole with fentanyl resulted in an increase in the mean AUC0-∞of fentanyl, frequent monitoring for opiate-associated adverse reactions (including a longer respiratory monitoring period) may be necessary.
+As the half-life of alfentanil is prolonged in a 4-fold manner when alfentanil is coadministered with voriconazole, and in an independent published study concomitant use of voriconazole with fentanyl resulted in an increase in the mean AUC0-∞ of fentanyl, frequent monitoring for opiate-associated adverse reactions (including a longer respiratory monitoring period) may be necessary.
 
 Long-acting opiates (CYP3A4 substrate)
 Reduction in the dose of oxycodone and other long-acting opiates metabolized by CYP3A4 (e.g., hydrocodone) should be considered when coadministered with voriconazole.
@@ -116,11 +117,6 @@ Monitoring for voriconazole-associated adverse reactions is recommended if voric
 
 VFEND tablets contain lactose and should not be given to patients with rare hereditary problems of galactose intolerance, Lapp lactase deficiency or glucose-galactose malabsorption.
 
-[VFEND 200 mg film-coated tablets]
-
-Instances of hepatic reactions were noted to occur primarily in patients with serious underlying medical conditions (predominantly haematological malignancy).
-Transient hepatic reactions, including hepatitis and jaundice, have occurred among patients with no other identifiable risk factors.
-
 [VFEND 200 mg powder for solution for infusion]
 
 Duration of treatment
@@ -130,16 +126,13 @@ Infusion-related reactions
 Infusion-related reactions, predominantly flushing and nausea, have been observed during administration of the intravenous formulation of voriconazole.
 Depending on the severity of symptoms, consideration should be given to stopping treatment (see section 4.8).
 
+Instances of hepatic reactions were noted to occur primarily in patients with serious underlying medical conditions (predominantly haematological malignancy).
+Transient hepatic reactions, including hepatitis and jaundice, have occurred among patients with no other identifiable risk factors.
+
 Sodium content
 Each vial of VFEND contains 217.6 mg of sodium.
 This should be taken into consideration for patients on a controlled sodium diet.
 
-[VFEND 200 mg powder and solvent for solution for infusion]
-
-(all sentences already above)
-
 [VFEND 40 mg/ml powder for oral suspension]
-
-There have been reports of prolonged visual adverse reactions, including blurred vision,optic neuritis and papilloedema (see section 4.8).
 
 VFEND oral suspension contains sucrose and should not be given to patients with rare hereditary problems of fructose intolerance, sucrase-isomaltase deficiency or glucose-galactose malabsorption.
