@@ -77,6 +77,11 @@ Uncommon:
 
 - Inflicted injury
 
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
 [Kentera 90.7 mg/g gel in sachet]
 
 Summary of the safety profile
@@ -100,12 +105,13 @@ Adverse reactions reported in the double-blind period of the Phase 3 study
 | Nervous system disorders | Headache Dizziness | Somnolence Dysgeusia Poor quality sleep Tremor |
 | Eye disorders |  | Dry eye |
 | Ear and labyrinth disorders |  | Vertigo |
-| Cardiac disorders |  | Atrial fibrillation Atrial flutter Sinus arrhythmia |
-| Vascular disorders |  | Flushing |
-| Respiratory thoracic and mediastinal disorders |  | Cough Increased upper airway secretion |
+| Cardiac disorders |  | Atrial fibrillation Atrial flutter |
 
 | System organ class | Common (≥1/100 to <1/10) | Uncommon (≥1/1,000 to <1/100) |
 | --- | --- | --- |
+|  |  | Sinus arrhythmia |
+| Vascular disorders |  | Flushing |
+| Respiratory thoracic and mediastinal disorders |  | Cough Increased upper airway secretion |
 | Gastrointestinal disorders | Dry mouth Constipation | Diarrhoea Nausea Dyspepsia Vomiting Haemorrhoids |
 | Skin and subcutaneous tissue disorders | Pruritus | Rash Dry skin Rash pruritic |
 | Renal and urinary disorders |  | Dysuria Haematuria Renal pain Urinary retention |
@@ -123,13 +129,12 @@ Adverse reactions reported in the double-blind period of the Phase 3 study
 | Eye disorders |  | Dry eye |
 | Ear and labyrinth disorders |  | Vertigo |
 | Cardiac disorders |  | Atrial fibrillation Atrial flutter Sinus arrhythmia |
-| Vascular disorders |  | Flushing |
-| Respiratory thoracic and mediastinal disorders |  | Cough Increased upper airway secretion |
-| Gastrointestinal disorders | Dry mouth | Diarrhoea |
 
 | System organ class | Common (≥1/100 to <1/10) | Uncommon (≥1/1,000 to <1/100) |
 | --- | --- | --- |
-|  | Constipation | Nausea Dyspepsia Vomiting Haemorrhoids |
+| Vascular disorders |  | Flushing |
+| Respiratory thoracic and mediastinal disorders |  | Cough Increased upper airway secretion |
+| Gastrointestinal disorders | Dry mouth Constipation | Diarrhoea Nausea Dyspepsia Vomiting Haemorrhoids |
 | Skin and subcutaneous tissue disorders | Pruritus | Rash Dry skin Rash pruritic |
 | Renal and urinary disorders |  | Dysuria Haematuria Renal pain Urinary retention |
 | General disorders and administration site conditions | Application site pruritus Application site dermatitis | Fatigue Oedema Peripheral Application site papules Application site anaesthesia Application site erythema Application site irritation Application site pain Application site pustules |

@@ -17,13 +17,13 @@ Pregnancy
 
 There are no adequate data on the use of oxybutynin topical gel in pregnant women.
 Kentera should not to be used during pregnancy unless clearly necessary.
-
 Breast-feeding
 
 Available information shows that oxybutynin is excreted in milk of rats, but is not known whether oxybutynin is excreted in human milk.
 Use of oxybutynin is not recommended during breast-feeding.
 
 Fertility
+
 Data on possible effects of the use of oxybutynin on human male and female fertility are not available.
 Fertility studies in rats suggest a 6-fold margin of safety in both male and female breeding adults when Kentera is administered as prescribed.
 (see section 5.3)

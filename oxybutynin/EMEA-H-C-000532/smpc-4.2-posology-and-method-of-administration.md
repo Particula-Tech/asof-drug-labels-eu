@@ -31,8 +31,8 @@ There is no experience with the use of Kentera in patients with hepatic impairme
 Paediatric population
 
 There is no relevant use of Kentera in children or adolescent patients up to 18 years of age.
-
 Method of administration
+
 Kentera should be applied to dry, intact skin on the abdomen, upper arms/shoulders, or thighs.
 Application sites should be rotated.
 Application should not be made to the same site on consecutive days.

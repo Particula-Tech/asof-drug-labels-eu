@@ -1,6 +1,6 @@
 # 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this product is available on the website of the European Medicines Agency (EMEA) http://www.emea.europa.eu
+Detailed information on this product is available on the website of the European Medicines Agency http://www.ema.europa.eu
 
 [Kentera 90.7 mg/g gel in sachet]
 
