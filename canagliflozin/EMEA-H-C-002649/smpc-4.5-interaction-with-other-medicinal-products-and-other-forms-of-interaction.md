@@ -19,7 +19,7 @@ Following co-administration of canagliflozin with rifampicin (an inducer of vari
 These decreases in exposure to canagliflozin may decrease efficacy.
 
 If a combined inducer of these UGT enzymes and transport proteins must be co-administered with canagliflozin, monitoring of glycaemic control to assess response to canagliflozin is appropriate.
-If an inducer of these UGT enzymes must be co-administered with canagliflozin, increasing the dose to 300 mg once daily may be considered if patients are currently tolerating canagliflozin 100 mg once daily, have an eGFR ≥60 mL/min/1.73 m2 or CrCl ≥60 mL/min, and require additional glycaemic control.
+If an inducer of these UGT enzymes must be co-administered with canagliflozin, increasing the dose to 300 mg once daily may be considered if patients are currently tolerating canagliflozin 100 mg once daily, have an eGFR ≥ 60 mL/min/1.73 m2 or CrCl ≥ 60 mL/min, and require additional glycaemic control.
 In patients with an eGFR 45 mL/min/1.73 m2 to < 60 mL/min/1.73 m2 or CrCl 45 mL/min to < 60 mL/min taking canagliflozin 100 mg who are receiving concurrent therapy with a UGT enzyme inducer and who require additional glycaemic control, other glucose-lowering therapies should be considered (see sections 4.2 and 4.4).
 
 Cholestyramine may potentially reduce canagliflozin exposure.

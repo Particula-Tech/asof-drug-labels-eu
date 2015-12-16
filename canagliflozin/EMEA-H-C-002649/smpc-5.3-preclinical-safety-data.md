@@ -8,7 +8,7 @@ In an embryo-foetal development study in rats, ossification delays of metatarsal
 It is unknown whether ossification delays can be attributed to effects of canagliflozin on calcium homeostasis observed in adult rats.
 Ossification delays were also observed for the combination of canagliflozin and metformin, which were more prominent than for metformin alone at canagliflozin exposures 43 times and 12 times higher than clinical exposures at 100 mg and 300 mg doses.
 
-In a pre- and postnatal development study, canagliflozin administered to female rats from gestation day 6 to lactation day 20 resulted in decreased body weights in male and female offspring at maternally toxic doses > 30 mg/kg/day (exposures ≥5.9 times the human exposure to canagliflozin at the MHRD).
+In a pre- and postnatal development study, canagliflozin administered to female rats from gestation day 6 to lactation day 20 resulted in decreased body weights in male and female offspring at maternally toxic doses > 30 mg/kg/day (exposures ≥ 5.9 times the human exposure to canagliflozin at the MHRD).
 Maternal toxicity was limited to decreased body weight gain.
 
 A study in juvenile rats administered canagliflozin from day 1 through day 90 postnatal did not show increased sensitivity compared to effects observed in adults rats.

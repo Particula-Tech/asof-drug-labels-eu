@@ -43,7 +43,7 @@ Special populations
 Patients with renal impairment
 A single-dose, open-label study evaluated the pharmacokinetics of canagliflozin 200 mg in subjects with varying degrees of renal impairment (classified using CrCl based on the Cockroft-Gault equation) compared to healthy subjects.
 The study included 8 subjects with normal renal function
-(CrCl ≥80 mL/min), 8 subjects with mild renal impairment (CrCl 50 mL/min to < 80 mL/min),
+(CrCl ≥ 80 mL/min), 8 subjects with mild renal impairment (CrCl 50 mL/min to < 80 mL/min),
 8 subjects with moderate renal impairment (CrCl 30 mL/min to < 50 mL/min), and 8 subjects with severe renal impairment (CrCl < 30 mL/min) as well as 8 subjects with ESRD on haemodialysis.
 
 The Cmax of canagliflozin was moderately increased by 13%, 29%, and 29% in subjects with mild, moderate, and severe renal failure, respectively, but not in subjects on haemodialysis.
@@ -52,11 +52,11 @@ Compared to healthy subjects, plasma AUC of canagliflozin was increased by appro
 Canagliflozin was negligibly removed by haemodialysis.
 
 Patients with hepatic impairment
-Relative to subjects with normal hepatic function, the geometric mean ratios for Cmax and AUC∞of canagliflozin were 107% and 110%, respectively, in subjects with Child-Pugh class A (mild hepatic impairment) and 96% and 111%, respectively, in subjects with Child-Pugh class B (moderate) hepatic impairment following administration of a single 300 mg dose of canagliflozin.
+Relative to subjects with normal hepatic function, the geometric mean ratios for Cmax and AUC∞ of canagliflozin were 107% and 110%, respectively, in subjects with Child-Pugh class A (mild hepatic impairment) and 96% and 111%, respectively, in subjects with Child-Pugh class B (moderate) hepatic impairment following administration of a single 300 mg dose of canagliflozin.
 These differences are not considered to be clinically meaningful.
 There is no clinical experience in patients with Child-Pugh class C (severe) hepatic impairment.
 
-Elderly (≥65 years old)
+Elderly (≥ 65 years old)
 Age had no clinically meaningful effect on the pharmacokinetics of canagliflozin based on a population pharmacokinetic analysis (see sections 4.2, 4.4, and 4.8).
 
 Paediatric population
