@@ -32,4 +32,4 @@
 
 [Lyrica 20 mg/ml oral solution]
 
-2 years
+2 years.

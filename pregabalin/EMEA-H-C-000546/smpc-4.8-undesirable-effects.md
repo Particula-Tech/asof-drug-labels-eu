@@ -1,19 +1,23 @@
 # 4.8 Undesirable effects
 
-The pregabalin clinical programme involved over 8900 patients who were exposed to pregabalin, of whom over 5600 were in double-blind placebo controlled trials.
+The pregabalin clinical programme involved over 8900 patients exposed to pregabalin, of whom over 5600 were in double-blind placebo controlled trials.
 The most commonly reported adverse reactions were dizziness and somnolence.
 Adverse reactions were usually mild to moderate in intensity.
 In all controlled studies, the discontinuation rate due to adverse reactions was 12% for patients receiving pregabalin and 5% for patients receiving placebo.
 The most common adverse reactions resulting in discontinuation from pregabalin treatment groups were dizziness and somnolence.
 
-In the table below all adverse reactions, which occurred at an incidence greater than placebo and in more than one patient, are listed by class and frequency (very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (< 1/10,000), not known (cannot be estimated from the available data).
+In table 2 below all adverse reactions, which occurred at an incidence greater than placebo and in more than one patient, are listed by class and frequency (very common (≥1/10); common (≥1/100 to
+< 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to < 1/1,000); very rare (< 1/10,000), not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 The adverse reactions listed may also be associated with the underlying disease and/or concomitant medicinal products.
 
 In the treatment of central neuropathic pain due to spinal cord injury the incidence of adverse reactions in general, CNS adverse reactions and especially somnolence was increased (see section 4.4).
 
-Additional reactions reported from post-marketing experience are included in italics in the list below.
+Additional reactions reported from postmarketing experience are included in italics in the list below.
+
+Table 2.
+Pregabalin Adverse Drug Reactions
 
 System Organ Class Adverse drug reactions
 
@@ -23,7 +27,7 @@ Common Nasopharyngitis
 
 Blood and lymphatic system disorders
 
-Uncommon Neutropenia
+Uncommon Neutropaenia
 
 Immune system disorders
 
@@ -46,6 +50,7 @@ Uncommon Hallucination, panic attack, restlessness, agitation, depression,
 depressed mood, elevated mood, aggression, mood swings, depersonalisation, word finding difficulty, abnormal dreams, libido increased, anorgasmia, apathy
 
 Rare Disinhibition
+System Organ Class Adverse drug reactions
 
 Nervous system disorders
 
@@ -134,9 +139,9 @@ Uncommon Sexual dysfunction, ejaculation delayed, dysmenorrhoea, breast
 
 pain
 
-Rare Amenorrhoea, breast discharge, breast enlargement,
+Rare Amenorrhoea, breast discharge, breast enlargement, gynaecomastia
+System Organ Class Adverse drug reactions
 
-gynaecomastia
 General disorders and administration site conditions
 
 Common Oedema peripheral, oedema, gait abnormal, fall, feeling drunk,
@@ -161,13 +166,19 @@ The patient should be informed about this at the start of the treatment.
 
 Concerning discontinuation of long-term treatment of pregabalin, data suggest that the incidence and severity of withdrawal symptoms may be dose-related.
 
+Paediatric population
+The pregabalin safety profile observed in two paediatric studies (pharmacokinetic and tolerability study, n=65; 1 year open label follow on safety study, n=54) was similar to that observed in the adult studies (see sections 4.2, 5.1 and 5.2).
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
 [Lyrica 50 mg hard capsules]
 
-In the table below all adverse reactions, which occurred at an incidence greater than placebo and in more than one patient, are listed by class and frequency (very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000), not known (cannot be estimated from the available data).
+(all sentences already above)
 
 [Lyrica 75 mg hard capsules]
-
-Rare Amenorrhoea, breast discharge, breast enlargement, gynaecomastia
 
 The following reactions have been mentioned: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, pain, hyperhidrosis, and dizziness, suggestive of physical dependence.
 

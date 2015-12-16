@@ -5,14 +5,16 @@ As the potential risk for humans is unknown, effective contraception must be use
 
 Pregnancy
 There are no adequate data from the use of pregabalin in pregnant women.
+
 Studies in animals have shown reproductive toxicity (see section 5.3).
 The potential risk for humans is unknown.
 
 Lyrica should not be used during pregnancy unless clearly necessary (if the benefit to the mother clearly outweighs the potential risk to the foetus).
 
 Breast-feeding
-It is not known if pregabalin is excreted in the breast milk of humans; however, it is present in the milk of rats.
-Therefore, breast-feeding is not recommended during treatment with pregabalin.
+Pregabalin is excreted into human milk (see section 5.2).
+The effect of pregabalin on newborns/infants is unknown.
+A decision must be made whether to discontinue breast-feeding or to discontinue pregabalin therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
 
 Fertility
 There are no clinical data on the effects of pregabalin on female fertility.

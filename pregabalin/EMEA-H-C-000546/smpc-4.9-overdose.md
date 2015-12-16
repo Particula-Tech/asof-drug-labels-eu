@@ -1,6 +1,6 @@
 # 4.9 Overdose
 
-In the post-marketing experience, the most commonly reported adverse reactions observed when pregabalin was taken in overdose included somnolence, confusional state, agitation, and restlessness.
+In the postmarketing experience, the most commonly reported adverse reactions observed when pregabalin was taken in overdose included somnolence, confusional state, agitation, and restlessness.
 
 In rare occasions, cases of coma have been reported.
 
@@ -16,7 +16,7 @@ Treatment of pregabalin overdose should include general supportive measures and 
 
 [Lyrica 100 mg hard capsules]
 
-In the post-marketing experience, the most commonly reported adverse raections observed when pregabalin was taken in overdose included somnolence, confusional state, agitation, and restlessness.
+In the postmarketing experience, the most commonly reported adverse raections observed when pregabalin was taken in overdose included somnolence, confusional state, agitation, and restlessness.
 
 [Lyrica 150 mg hard capsules]
 

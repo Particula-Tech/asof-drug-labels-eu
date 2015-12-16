@@ -45,16 +45,17 @@ Remove the filled syringe from the bottle in the upright position (Figures 5 and
 
 4.
 Discharge the syringe contents into the mouth (Figure 7).
-Repeat steps 2 to 4 as needed to achieve the required dose (Table 2).
+Repeat steps 2 to 4 as needed to achieve the required dose (Table 3).
 
 5.
-Rinse the syringe and replace the cap on the bottle (PIBA remains in place) (Figures 8 and 9).
+Rinse the syringe and replace the cap on the bottle (PIBA remains in place)
+(Figures 8 and 9).
 
 Figure 1 Figure 2 Figure 3
 Figure 4 Figure 5 Figure 6
 Figure 7 Figure 8 Figure 9
 
-Table 2.
+Table 3.
 Oral Syringe Withdrawals to Deliver Prescribed Dose of Lyrica
 
 | Lyrica Dose (mg) | Total Solution Volume (ml) | First Syringe Withdrawal (ml) | Second Syringe Withdrawal (ml) | Third Syringe Withdrawal (ml) |

@@ -2,10 +2,10 @@
 
 Each hard capsule contains 25 mg of pregabalin.
 
-Excipients:
+Excipients with known effect:
 Each hard capsule also contains 35 mg lactose monohydrate.
 
-For a full list of excipients, see section 6.1.
+For the full list of excipients, see section 6.1.
 
 [Lyrica 50 mg hard capsules]
 

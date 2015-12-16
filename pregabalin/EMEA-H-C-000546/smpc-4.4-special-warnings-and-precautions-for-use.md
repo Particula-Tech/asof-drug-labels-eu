@@ -9,31 +9,32 @@ Pregabalin should be discontinued immediately if symptoms of angioedema, such as
 
 Dizziness, somnolence, loss of consciousness, confusion, and mental impairment
 Pregabalin treatment has been associated with dizziness and somnolence, which could increase the occurrence of accidental injury (fall) in the elderly population.
-There have also been post-marketing reports of loss of consciousness, confusion and mental impairment.
+There have also been postmarketing reports of loss of consciousness, confusion and mental impairment.
 Therefore, patients should be advised to exercise caution until they are familiar with the potential effects of the medicinal product.
 
 Vision-related effects
 In controlled trials, a higher proportion of patients treated with pregabalin reported blurred vision than did patients treated with placebo which resolved in a majority of cases with continued dosing.
 In the clinical studies where ophthalmologic testing was conducted, the incidence of visual acuity reduction and visual field changes was greater in pregabalin-treated patients than in placebo-treated patients; the incidence of fundoscopic changes was greater in placebo-treated patients (see section 5.1).
 
-In the post-marketing experience, visual adverse reactions have also been reported, including loss of vision, visual blurring or other changes of visual acuity, many of which were transient.
+In the postmarketing experience, visual adverse reactions have also been reported, including loss of vision, visual blurring or other changes of visual acuity, many of which were transient.
 Discontinuation of pregabalin may result in resolution or improvement of these visual symptoms.
 
 Renal failure
 Cases of renal failure have been reported and in some cases discontinuation of pregabalin did show reversibility of this adverse reaction.
 
-Withdrawal of concomitant antiepileptic medicinal products
-There are insufficient data for the withdrawal of concomitant antiepileptic medicinal products, once seizure control with pregabalin in the add-on situation has been reached, in order to reach monotherapy on pregabalin.
+Withdrawal of concomitant anti-epileptic medicinal products
+There are insufficient data for the withdrawal of concomitant anti-epileptic medicinal products, once seizure control with pregabalin in the add-on situation has been reached, in order to reach monotherapy on pregabalin.
 
 Withdrawal symptoms
-After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed in some patients.
+After discontinuation of short-term and long-term treatment with pregabalin, withdrawal symptoms have been observed in some patients.
 The following events have been mentioned: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, nervousness, depression, pain, convulsion, hyperhidrosis and dizziness, suggestive of physical dependence.
 The patient should be informed about this at the start of the treatment.
 Convulsions, including status epilepticus and grand mal convulsions, may occur during pregabalin use or shortly after discontinuing pregabalin.
+
 Concerning discontinuation of long-term treatment of pregabalin, data suggest that the incidence and severity of withdrawal symptoms may be dose-related.
 
 Congestive heart failure
-There have been post-marketing reports of congestive heart failure in some patients receiving pregabalin.
+There have been postmarketing reports of congestive heart failure in some patients receiving pregabalin.
 These reactions are mostly seen in elderly cardiovascular compromised patients during pregabalin treatment for a neuropathic indication.
 Pregabalin should be used with caution in these patients.
 Discontinuation of pregabalin may resolve the reaction.
@@ -52,7 +53,7 @@ Therefore patients should be monitored for signs of suicidal ideation and behavi
 Patients (and caregivers of patients) should be advised to seek medical advice should signs of suicidal ideation or behaviour emerge.
 
 Reduced lower gastrointestinal tract function
-There are post-marketing reports of events related to reduced lower gastrointestinal tract function (e.g., intestinal obstruction, paralytic ileus, constipation) when pregabalin was co-administered with medications that have the potential to produce constipation, such as opioid analgesics.
+There are postmarketing reports of events related to reduced lower gastrointestinal tract function (e.g. intestinal obstruction, paralytic ileus, constipation) when pregabalin was co-administered with medications that have the potential to produce constipation, such as opioid analgesics.
 When pregabalin and opioids will be used in combination, measures to prevent constipation may be considered (especially in female patients and elderly).
 
 Misuse, abuse potential or dependence

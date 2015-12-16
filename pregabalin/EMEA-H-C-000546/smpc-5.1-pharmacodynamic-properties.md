@@ -1,13 +1,13 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antiepileptics, other antiepileptics ATC code: N03AX16
+Pharmacotherapeutic group: Anti-epileptics, other anti-epileptics ATC code: N03AX16
 
-The active substance, pregabalin, is a gamma-aminobutyric acid analogue ((S)-3-(aminomethyl)-5-methylhexanoic acid).
+The active substance, pregabalin, is a gamma-aminobutyric acid analogue [(S)-3-(aminomethyl)-5-methylhexanoic acid].
 
 Mechanism of action
-Pregabalin binds to an auxiliary subunit ( 2- protein) of voltage-gated calcium channels in the central nervous system.
+Pregabalin binds to an auxiliary subunit (α2-δprotein) of voltage-gated calcium channels in the central nervous system.
+Clinical efficacy and safety
 
-Clinical Efficacy and safety
 Neuropathic pain
 Efficacy has been shown in trials in diabetic neuropathy, post herpetic neuralgia and spinal cord injury.
 Efficacy has not been studied in other models of neuropathic pain.
@@ -21,17 +21,22 @@ In controlled clinical trials in peripheral neuropathic pain 35% of the pregabal
 For patients not experiencing somnolence, such an improvement was observed in 33% of patients treated with pregabalin and 18% of patients on placebo.
 For patients who experienced somnolence the responder rates were 48% on pregabalin and 16% on placebo.
 
-In the controlled clinical trial in central neuropathic pain 22% of the Pregabalin treated patients and 7% of the patients on placebo had a 50% improvement in pain score.
+In the controlled clinical trial in central neuropathic pain 22% of the pregabalin treated patients and 7% of the patients on placebo had a 50% improvement in pain score.
 
 Epilepsy
 Adjunctive Treatment
-Pregabalin has been studied in 3 controlled clinical trials of 12 week duration with either twice a day dosing (BID) or three times a day (TID) dosing.
+Pregabalin has been studied in 3 controlled clinical trials of 12 week duration with either BID or TID dosing.
 Overall, the safety and efficacy profiles for BID and TID dosing regimens were similar.
 
 A reduction in seizure frequency was observed by Week 1.
 
+Paediatric population
+The efficacy and safety of pregabalin as adjunctive treatment for epilepsy in paediatric patients below the age of 12 and adolescents has not been established.
+The adverse events observed in a pharmacokinetic and tolerability study that enrolled patients from 3 months to 16 years of age (n=65) were similar to those observed in adults.
+Results of a 1 year open label safety study in 54 paediatric patients from 3 months to 16 years of age with epilepsy indicate that the adverse events of pyrexia and upper respiratory infections were observed more frequently than in adult studies (see sections 4.2, 4.8 and 5.2).
+
 Monotherapy (newly diagnosed patients)
-Pregabalin has been studied in 1 controlled clinical trial of 56 week duration with twice a day dosing (BID).
+Pregabalin has been studied in 1 controlled clinical trial of 56 week duration with BID dosing.
 Pregabalin did not achieve non-inferiority to lamotrigine based on the 6-month seizure freedom endpoint.
 Pregabalin and lamotrigine were similarly safe and well tolerated.
 
@@ -50,7 +55,7 @@ Funduscopic changes were observed in 1.7% of pregabalin-treated and 2.1% of plac
 
 [Lyrica 50 mg hard capsules]
 
-For patient’s not experiencing somnolence, such an improvement was observed in 33% of patients treated with pregabalin and 18% of patients on placebo.
+(all sentences already above)
 
 [Lyrica 75 mg hard capsules]
 
@@ -62,7 +67,7 @@ For patient’s not experiencing somnolence, such an improvement was observed in
 
 [Lyrica 150 mg hard capsules]
 
-(all sentences already above)
+Pregabalin has been studied in 3 controlled clinical trials of 12 week duration with BID or TID dosing.
 
 [Lyrica 200 mg hard capsules]
 
