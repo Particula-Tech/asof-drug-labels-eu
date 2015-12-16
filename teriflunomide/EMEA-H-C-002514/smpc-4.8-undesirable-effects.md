@@ -1,27 +1,25 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-A total of 2267patients were exposed to teriflunomide (1155 on teriflunomide 7 mg and 1112on teriflunomide 14 mg) once daily for a median duration of about 672 days in four placebo-controlled studies (1045and 1002 patients for teriflunomide 7 mg and 14 mg, respectively) and one active comparator study (110 patients in each of the teriflunomide treatment groups) in patients with relapsing forms of MS (Relapsing Multiple Sclerosis, RMS).
+A total of 2267 patients were exposed to teriflunomide (1155 on teriflunomide 7 mg and 1112 on teriflunomide 14 mg) once daily for a median duration of about 672 days in four placebo-controlled studies (1045 and 1002 patients for teriflunomide 7 mg and 14 mg, respectively) and one active comparator study (110 patients in each of the teriflunomide treatment groups) in patients with relapsing forms of MS (Relapsing Multiple Sclerosis, RMS).
 Teriflunomide is the main metabolite of leflunomide.
 The safety profile of leflunomide in patients suffering from rheumatoid arthritis or psoriatic arthritis may be pertinent when prescribing teriflunomide in MS patients.
 
 The placebo-controlled pooled analysis was based on 2047 patients with Relapsing Multiple Sclerosis treated with teriflunomide once daily.
-Within this safety population, the most commonly reported adverse reactions in the teriflunomide treated patients were: diarrhoea, increased ALT, nausea, and alopecia.
-In general, diarrhoea, nausea and alopecia, were mild to moderate, transient and infrequently led to treatment discontinuation.
+Within this safety population, the most commonly reported adverse reactions in the teriflunomide treated patients were: headache, diarrhoea, increased ALT, nausea, and alopecia.
+In general, headache, diarrhoea, nausea and alopecia, were mild to moderate, transient and infrequently led to treatment discontinuation.
 
 Tabulated list of adverse reactions
-Adverse reactions reported with AUBAGIO in placebo-controlled studies are shown below.
+Adverse reactions reported with AUBAGIO in placebo-controlled studies, reported for teriflunomide 7 mg or 14 mg at ≥ 1% higher rate than for placebo, are shown below.
 Frequencies were defined using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are ranked in order of decreasing seriousness.
 
-System organ Very common Common Uncommon Rare Very rare
-class
-Infections and Influenza, Upper
-infestations (see respiratory tract
-section 4.4) infection,
-Urinary tract
-System organ Very common Common Uncommon Rare Very rare
-class
+System organ Very Common Uncommon Rare Very rare Not known
+class common
+Infections and Influenza, Upper Severe
+infestations (see respiratory tract infections
+section 4.4) infection, including
+Urinary tract sepsisa
 infection,
 Bronchitis,
 Sinusitis,
@@ -33,66 +31,84 @@ Oral herpes,
 Tooth infection,
 Laryngitis,
 Tinea pedis
-Blood and Neutropenia, (see
-lymphatic system section 4.4) Mild
-disorders Anaemia thrombocytopenia
-(platelets
+Blood and Neutropenia, Mild
+lymphatic (see section 4.4) thrombocyto
+system Anaemia penia
+disorders (platelets
 <100G/l)
-Immune system Mild allergic
-disorders reactions
+Immune system Mild allergic Hyper-
+disorders reactions sensitivity
+reactions
+(immediate
+or delayed)
+including
+anaphylaxis
+and
+angioedema
 Psychiatric Anxiety
 disorders
-Nervous system Paraesthesia, Hyperaesthesia,
-disorders Sciatica, Neuralgia,
-Carpal tunnel Peripheral
-syndrome neuropathy
-Vascular Hypertension (see
-disorders section 4.4)
+Nervous system Headache Paraesthesia, Hyperaesthe
+disorders Sciatica, sia,
+Carpal tunnel Neuralgia,
+syndrome Peripheral
+neuropathy
+Cardiac Palpitations
+disorders
+Vascular Hypertension
+disorders (see section 4.4)
 Respiratory, Interstitial
 thoracic and lung
 mediastinal disease∗
 disorders
-Gastrointestinal Diarrhoea, Abdominal pain Pancreatitis∗
-disorders Nausea upper,
+Gastrointestinal Diarrhoea, Abdominal pain Pancreatitis,
+disorders Nausea upper, Stomatitis
 Vomiting,
 Toothache
-Skin and Alopecia Rash,
-subcutaneous Acne
+Skin and Alopecia Rash, Severe skin
+subcutaneous Acne reactionsa
 tissue disorders
-Musculoskeletal Musculoskeletal
-and connective pain,
-tissue disorders Myalgia
+Musculoskeleta Musculoskeletal
+l and pain,
+connective Myalgia,
+tissue disorders Arthralgia
+System organ Very Common Uncommon Rare Very rare Not known
+class common
 Renal and Pollakiuria
-urinary disorders
+urinary
+disorders
 Reproductive Menorrhagia
 system and
 breast disorders
-General disorders Pain
-and
+General Pain
+disorders and
 administration
 site conditions
 Investigations Alanine Gamma-
-aminotransferase glutamyltransferase
-(ALT) increase (GGT) increase
-(see section 4.4) (see section 4.4),
-System organ Very common Common Uncommon Rare Very rare
-class
+aminotransfe glutamyltransfer
+rase (ALT) ase (GGT)
+increase (see increase (see
+section 4.4) section 4.4),
 Aspartate
-aminotransferase
-increase (see
+aminotransferas
+e increase (see
 section 4.4),
-Weight decrease,
-Neutrophil count
-decrease (see
-section 4.4),
+Weight
+decrease,
+Neutrophil
+count decrease
+(see section 4.4),
 White blood cell
-count decrease (see
-section 4.4)
-Injury, poisoning Post-traumatic
-and procedural pain
+count decrease
+(see section 4.4),
+Blood creatine
+phosphokinase
+increased
+Injury, Post-
+poisoning and traumatic
+procedural pain
 complications
 
-∗: Based on leflunomide data only
+∗: Based on leflunomide data only a: please refer to the detailed description section
 
 Description of selected adverse reactions
 Alopecia
@@ -102,7 +118,6 @@ Discontinuation because of alopecia was 1.3% in the teriflunomide 14 mg teriflun
 
 Hepatic effects
 During placebo-controlled studies the following was detected:
-
 ALT increase (based on laboratory data) according to baseline status - Safety population in placebo-controlled studies
 
 Placebo Teriflunomide 14 mg
@@ -121,13 +136,14 @@ The recovery time varied between months and years.
 Blood pressure effects
 In placebo-controlled studies the following was established:
 
-- systolic blood pressure was >140 mm Hg in 19.9%of patients receiving 14 mg/day teriflunomide as compared to 15.5% receiving placebo;
+- systolic blood pressure was >140 mm Hg in 19.9% of patients receiving 14 mg/day teriflunomide as compared to 15.5% receiving placebo;
 - systolic blood pressure was >160 mm Hg in 3.8% of patients receiving 14 mg/day teriflunomide as compared to 2.0% receiving placebo;
-- diasystolic blood pressure was >90 mm Hg in 21.4% of patients receiving 14 mg/day teriflunomide as compared to 13.6% receiving placebo.
+- diastolic blood pressure was >90 mm Hg in 21.4% of patients receiving 14 mg/day teriflunomide as compared to 13.6% receiving placebo.
 
 Infections
 In placebo-controlled studies, no increase in serious infections was observed with teriflunomide 14 mg (2.7%) as compared to placebo (2.2%).
 Serious opportunistic infections occurred in 0.2% of each group.
+Severe infections including sepsis, sometimes fatal have been reported postmarketing.
 
 Haematological effects
 A mean decrease affecting white blood cell (WBC) count (<15% from baseline levels, mainly neutrophil and lymphocytes decrease) was observed in placebo-controlled trials with AUBAGIO, although a greater decrease was observed in some patients.
@@ -136,17 +152,16 @@ The effect on red blood cell (RBC) (<2%) and platelet counts (<10%) was less pro
 
 Peripheral neuropathy
 In placebo-controlled studies, peripheral neuropathy, including both polyneuropathy and mononeuropathy (e.g., carpal tunnel syndrome), was reported more frequently in patients taking teriflunomide than in patients taking placebo.
-In the pivotal, placebo-controlled studies, the incidence of peripheral neuropathy confirmed by nerve conduction studies was 1.4% (13 patients out 1002) on 14 mg of teriflunomide, compared with 0 ) 0.4% (4 patients out of 997)on placebo.
-Treatment was discontinued in 8 patients with peripheral neuropathy and 5 on teriflunomide 14 mg.
-Recovery following treatment discontinuation was reported in the 5of these patients.
+In the pivotal, placebo-controlled studies, the incidence of peripheral neuropathy confirmed by nerve conduction studies was 1.9% (17 patients out of 898) on 14 mg of teriflunomide, compared with 0.4% (4 patients out of 898) on placebo.
+Treatment was discontinued in 5 patients with peripheral neuropathy on teriflunomide 14 mg.
+Recovery following treatment discontinuation was reported in 4 of these patients.
 
 Neoplasms benign, malignant and unspecified (incl. cysts and polyps)
 There does not appear to be an increased risk of malignancy with teriflunomide in the clinical trial experience.
 The risk of malignancy, particularly lymphoproliferative disorders, is increased with use of some other agents that affect the immune system (class effect).
 
 Severe skin reactions
-Cases of severe skins reactions have been reported with teriflunomide post-marketing (see section 4.4).
-
+Cases of severe skin reactions have been reported with teriflunomide post-marketing (see section 4.4).
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.

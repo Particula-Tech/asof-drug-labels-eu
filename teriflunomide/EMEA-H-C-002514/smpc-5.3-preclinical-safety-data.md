@@ -12,6 +12,7 @@ Clastogenicity observed in vitro was considered to be an indirect effect related
 The minor metabolite TFMA (4-trifluoromethylaniline) caused mutagenicity and clastogenicity in vitro but not in vivo.
 
 No evidence of carcinogenicity was observed in rats and mice.
+
 Fertility was unaffected in rats despite adverse effects of teriflunomide on male reproductive organs, including reduced sperm count.
 There were no external malformations in the offspring of male rats administered teriflunomide prior to mating with untreated female rats.
 Teriflunomide was embryotoxic and teratogenic in rats and rabbits at doses in the human therapeutic range.

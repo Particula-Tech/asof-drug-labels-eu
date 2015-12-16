@@ -21,7 +21,6 @@ Therefore, teriflunomide plasma concentrations should be measured before a woman
 Once the teriflunomide plasma concentration is determined to be below 0.02 mg/l, the plasma concentration must be determined again after an interval of at least 14 days.
 If both plasma concentrations are below 0.02 mg/l, no risk to the foetus is to be expected.
 For further information on the sample testing please contact the Marketing Authorisation Holder or its local representative (see section 7).
-
 Accelerated elimination procedure
 
 After stopping treatment with teriflunomide:

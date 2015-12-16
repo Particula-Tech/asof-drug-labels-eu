@@ -57,14 +57,15 @@ Pulmonary symptoms, such as persistent cough and dyspnoea, may be a reason for d
 Haematological effects
 A mean decrease less than 15% from baseline affecting white blood cell count has been observed (see section 4.8).
 As a precaution, a recent complete blood cell count, including differential white blood cell count and platelets, should be available before the initiation of treatment with AUBAGIO and the complete blood cell count should be assessed during AUBAGIO therapy as indicated by clinical signs and symptoms (e.g., infections).
-
 In patients with pre-existing anaemia, leucopenia, and /or thrombocytopenia as well as in patients with impaired bone marrow function or those at risk of bone marrow suppression, the risk of haematological disorders is increased.
 If such effects occur, the accelerated elimination procedure (see above) to reduce plasma levels of teriflunomide should be considered.
 In cases of severe haematological reactions, including pancytopenia, AUBAGIO and any concomitant myelosuppressive treatment must be discontinued and a teriflunomide accelerated elimination procedure should be considered.
 
 Skin reactions
-Cases of severe skins reactions have been reported with teriflunomide postmarketing.
-In patients treated with leflunomide, the parent compound, very rare cases of Stevens-Johnson syndrome or toxic epidermal necrolysis and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have been reported as well.
+Cases of severe skin reactions have been reported postmarketing (including Stevens-Johnson syndrome and toxic epidermal necrolysis).
+
+In patients treated with leflunomide, the parent compound, very rare cases of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have also been reported.
+
 In case of ulcerative stomatitis, teriflunomide administration should be discontinued.
 If skin and /or mucosal reactions are observed which raise the suspicion of severe generalised major skin reactions (Stevens-Johnson syndrome, or toxic epidermal necrolysis-Lyell’s syndrome), teriflunomide and any other possibly associated treatment must be discontinued, and an accelerated procedure initiated immediately.
 In such cases patients should not be re-exposed to teriflunomide (see section 4.3).
@@ -76,7 +77,7 @@ However, there was a wide variability in final outcome, i.e. in some patients th
 If a patient taking AUBAGIO develops a confirmed peripheral neuropathy, consider discontinuing AUBAGIO therapy and performing the accelerated elimination procedure.
 
 Vaccination
-Two clinical studies have shown that vaccinations to inactivated neoantigen (first vaccination), or recall antigen (reexposure) were safe and effective during AUBAGIO treatment .
+Two clinical studies have shown that vaccinations to inactivated neoantigen (first vaccination), or recall antigen (reexposure) were safe and effective during AUBAGIO treatment.
 The use of live attenuated vaccines may carry a risk of infections and should therefore be avoided.
 
 Immunosuppressive or immunomodulating therapies
