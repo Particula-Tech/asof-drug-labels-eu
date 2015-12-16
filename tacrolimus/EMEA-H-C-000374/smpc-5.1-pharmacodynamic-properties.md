@@ -113,10 +113,13 @@ The primary response to vaccination was not affected.
 
 [Protopic 0.1% ointment]
 
-Topical corticosteroid Tacrolimus 0.1%
-regimen§ (N=487)
+|  | Adults, ≥ 16 years |  | Children, 2-15 years |  |
+| --- | --- | --- | --- | --- |
+|  | Tacrolimus 0.1% Twice weekly (N=80) | Vehicle Twice weekly (N=73) | Tacrolimus 0.03% Twice weekly (N=78) | Vehicle Twice weekly (N=75) |
+| Median number of DEs requiring substantial intervention adjusted for time at risk (% of patients without DE requiring substantial intervention) | 1.0 (48.8%) | 5.3 (17.8%) | 1.0 (46.2%) | 2.9 (21.3%) |
+| Median time to first DE requiring substantial intervention | 142 days | 15 days | 217 days | 36 days |
+| Median number of DEs adjusted for time at risk (% of patients without any DE periods) | 1.0 (42.5%) | 6.8 (12.3%) | 1.5 (41.0%) | 3.5 (14.7%) |
+| Median time to first DE | 123 days | 14 days | 146 days | 17 days |
+| Mean (SD) percentage of days of DE exacerbation | 16.1 (23.6) | 39.0 (27.8) | 16.9 (22.1) | 29.9 (26.8) |
 
-|  | (N=485) |  |
-| --- | --- | --- |
-| Response rate of ≥ 60% improvement in mEASI (Primary Endpoint)§§ | 50.8% | 71.6% |
-| Improvement ≥ 90% in Physician’s Global Evaluation | 28.5% | 47.7% |
+treatment

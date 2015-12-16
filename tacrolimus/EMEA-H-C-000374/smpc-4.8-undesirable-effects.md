@@ -14,10 +14,10 @@ Within each frequency grouping, undesirable effects are presented in order of de
 
 | System Organ Class | Very Common ≥1/10 | Common ≥1/100, <1/10 | Uncommon ≥1/1000, <1/100 | Not known (cannot be estimated from the available data) |
 | --- | --- | --- | --- | --- |
-| Infections and infestations |  | Local skin infection regardless of specific aetiology including but not limited to: Eczema herpeticum, Folliculitis, Herpes simplex, Herpes virus infection, Kaposi’s varicelliform eruption* |  |  |
+| Infections and infestations |  | Local skin infection regardless of specific aetiology including but not limited to: Eczema herpeticum, Folliculitis, Herpes simplex, Herpes virus infection, Kaposi’s varicelliform eruption* |  | Ophthalmic Herpes Infection* |
 | Metabolism and nutrition disorders |  | Alcohol intolerance (facial flushing or skin irritation after consumption of an alcoholic beverage) |  |  |
 | Nervous system disorders |  | Paraesthesias and dysaesthesias (hyperaesthesia, burning sensation) |  |  |
-| Skin and subcutaneous tissue disorders |  | Pruritus | Acne* | Rosacea* |
+| Skin and subcutaneous tissue disorders |  | Pruritus | Acne* | Rosacea* Lentigo* |
 | General disorders and administration site conditions | Application site burning, Application site pruritus | Application site warmth, Application site erythema, Application site pain, Application site irritation, Application site paraesthesia, |  | Application site oedema* |
 
 Application site rash
@@ -46,9 +46,9 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 | System Organ Class | Very Common ≥1/10 | Common ≥1/100, <1/10 | Uncommon ≥1/1000, <1/100 | Not known (cannot be estimated from the available data) |
 | --- | --- | --- | --- | --- |
-| Infections and infestations |  | Local skin infection regardless of specific aetiology including but not limited to: Eczema herpeticum, Folliculitis, Herpes simplex, Herpes virus infection, Kaposi’s varicelliform eruption* |  |  |
+| Infections and infestations |  | Local skin infection regardless of specific aetiology including but not limited to: Eczema herpeticum, Folliculitis, Herpes simplex, Herpes virus infection, Kaposi’s varicelliform eruption* |  | Ophthalmic Herpes Infection* |
 | Metabolism and nutrition disorders |  | Alcohol intolerance (facial flushing or skin irritation after consumption of an alcoholic beverage) |  |  |
 | Nervous system disorders |  | Paraesthesias and dysaesthesias (hyperaesthesia, burning sensation) |  |  |
-| Skin and subcutaneous tissue disorders |  | Pruritus | Acne* | Rosacea* |
+| Skin and subcutaneous tissue disorders |  | Pruritus | Acne* | Rosacea* Lentigo* |
 | General disorders and administration site conditions | Application site burning, Application site pruritus | Application site warmth, Application site erythema, Application site pain, Application site irritation, Application site paraesthesia, Application site rash |  | Application site oedema* |
 | Investigations |  |  |  | Drug level increased* (see section 4.4) |
