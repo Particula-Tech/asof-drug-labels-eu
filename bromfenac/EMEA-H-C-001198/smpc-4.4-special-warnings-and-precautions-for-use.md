@@ -3,14 +3,12 @@
 All topical NSAIDs may slow or delay healing like topical corticosteroids.
 Concomitant use of NSAIDs and topical steroids may increase the potential for healing problems.
 
-Yellox contains sodium sulphite which may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in susceptible patients.
-
 Cross-sensitivity
 There is the potential for cross-sensitivity to acetylsalicylic acid, phenylacetic acid derivatives, and other NSAIDs.
-Therefore, caution should be used when treating individuals who have previously exhibited sensitivities to these medicinal products and potential risks and benefit should be carefully evaluated.
+Therefore, treating individuals who have previously exhibited sensitivities to these medicinal products has to be avoided (see section 4.3).
 
 Susceptible persons
-In susceptible patients, continued use of topical NSAIDs, including Yellox may result in epithelial breakdown, corneal thinning, corneal erosion, corneal ulceration or corneal perforation.
+In susceptible patients, continued use of topical NSAIDs, including bromfenac may result in epithelial breakdown, corneal thinning, corneal erosion, corneal ulceration or corneal perforation.
 These events may be sight threatening.
 Patients with evidence of corneal epithelial breakdown should immediately discontinue use of topical NSAIDs and should be closely monitored for corneal health.
 Consequently in at risk patients concomitant use of ophthalmic corticosteroids with NSAIDs may lead to a higher risk of corneal adverse events.
@@ -36,3 +34,4 @@ Since Yellox contains benzalkonium chloride, close monitoring is required with f
 Benzalkonium chloride is known to discolour soft contact lenses.
 Contact with soft contact lenses must be avoided.
 Benzalkonium chloride has been reported to cause eye irritation, punctuate keratopathy and/or toxic ulcerative keratopathy.
+Yellox contains sodium sulphite which may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in susceptible patients.

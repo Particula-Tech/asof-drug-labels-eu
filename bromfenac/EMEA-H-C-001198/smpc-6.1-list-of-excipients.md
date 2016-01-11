@@ -4,7 +4,7 @@ Boric acid
 Borax
 Sodium sulphite, anhydrous (E221)
 Tyloxapol
-Povidone
+Povidone (K30)
 Benzalkonium chloride
 Disodium edetate
 Water for injections

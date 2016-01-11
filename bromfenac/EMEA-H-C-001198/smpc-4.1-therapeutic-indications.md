@@ -1,3 +1,3 @@
 # 4.1 Therapeutic indications
 
-Treatment of postoperative ocular inflammation following cataract extraction in adults.
+Yellox is indicated in adults for the treatment of postoperative ocular inflammation following cataract extraction .

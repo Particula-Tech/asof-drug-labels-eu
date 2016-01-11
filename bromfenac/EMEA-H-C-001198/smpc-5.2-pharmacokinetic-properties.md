@@ -17,6 +17,6 @@ In vitro studies indicate that bromfenac is mainly metabolised by CYP2C9, which 
 In orally treated humans unchanged parent compound is the major component in plasma.
 Several conjugated and unconjugated metabolites have been identified with the cyclic amide being the major urinary metabolite.
 
-Excretion
+Elimination
 After ocular administration the half-life of bromfenac in aqueous humour is 1.4 h indicating rapid elimination.
 After oral administration of 14C-bromfenac to healthy volunteers, urinary excretion was found to be the major route of radioactive excretions, accounting for approximately 82% while faecal excretion represented approximately 13% of the dose.
