@@ -60,10 +60,10 @@ Subjects with ESRD (CrCl<15 ml/min) have not been investigated.
 
 Gender
 There were no clinically relevant differences between genders in the pharmacokinetics of lurasidone in a population pharmacokinetic analysis in patients with schizophrenia.
-
 Race
 There were no clinically relevant differences in the pharmacokinetics of lurasidone in a population pharmacokinetic analysis in patients with schizophrenia.
 It was noted that Asian subjects had 1.5 fold increased exposure to lurasidone compared to Caucasian subjects.
+
 Smoking
 Based on in vitro studies utilising human liver enzymes, lurasidone is not a substrate for CYP1A2; smoking should, therefore, not have an effect on the pharmacokinetics of lurasidone.
 

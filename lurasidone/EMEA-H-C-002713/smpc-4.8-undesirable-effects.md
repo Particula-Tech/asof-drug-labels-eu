@@ -21,14 +21,14 @@ Table 1
 | Immune system disorders |  |  |  |  | Hypersensitivity# |
 | Metabolism and nutrition disorders |  | Weight increased | Decreased appetite Blood glucose increased |  |  |
 | Psychiatric disorders |  | Insomnia Agitation Anxiety Restlessness | Nightmare Catatonia |  | Suicidal behaviour**** Panic attack**** Sleep disorder**** |
-| Nervous system disorders | Akathisia Somnolence* | Parkinsonism** Dizziness Dystonia*** Dyskinesia | Lethargy Dysarthria | Neuroleptic malignant syndrome (NMS) | Convulsion**** |
+| Nervous system disorders | Akathisia Somnolence* | Parkinsonism** Dizziness Dystonia*** Dyskinesia | Lethargy Dysarthria Tardive dyskinesia | Neuroleptic malignant syndrome (NMS) | Convulsion**** |
 | Eye disorders |  |  | Blurred vision |  |  |
 | Ear and labyrinth disorders |  |  |  |  | Vertigo**** |
 | Cardiac disorders |  |  | Tachycardia |  | Angina**** AV block first degree**** Bradycardia**** |
 | Vascular disorders |  |  | Hypertension Hypotension Orthostatic hypotension Hot flush Blood pressure increased |  |  |
 | Gastrointestinal disorders |  | Nausea Vomiting Dyspepsia Salivary hypersecretion Dry mouth Upper abdominal pain Stomach discomfort | Flatulence |  | Diarrhoea**** Dysphagia**** Gastritis**** |
 | Hepatobiliary disorders |  |  | Alanine aminotransferase increased |  |  |
-| Skin and subcutaneous tissue disorders |  |  | Hyperhidrosis |  | Rash**** Pruritus**** Angioedema**** |
+| Skin and subcutaneous tissue disorders |  |  | Hyperhidrosis |  | Rash**** Pruritus**** Angioedema**** Stevens-Johnson syndrome |
 | Musculoskeletal and connective tissue disorders |  | Musculoskeletal stiffness Blood creatine phosphokinase increase | Joint stiffness Myalgia Neck pain Back pain | Rhabdomyolysis |  |
 | Renal and urinary disorders |  | Serum creatinine increased | Dysuria |  | Renal failure**** |
 | Pregnancy, puerperium and perinatal conditions |  |  |  |  | Drug withdrawal syndrome neonatal (see 4.6) |
@@ -42,6 +42,8 @@ Table 1
 
 Description of selected adverse reactions
 
+Post marketing reports of clinically serious cases of skin and other hypersensitivity reactions have been reported in association with lurasidone treatment, including some reports of Stevens-Johnson syndrome.
+
 Events of interest to the class
 Extrapyramidal symptoms (EPS): In the short-term placebo controlled studies, the incidence of reported events related to EPS, excluding akathisia and restlessness, was 13.5% for lurasidone-treated subjects versus 5.8% for placebo-treated subjects.
 The incidence of akathisia for lurasidone-treated subjects was 12.9% versus 3.0% for placebo-treated subjects.
@@ -50,6 +52,7 @@ Dystonia: Symptoms of dystonia, prolonged abnormal contractions of muscle groups
 Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, difficulty swallowing, difficulty breathing, and/or protrusion of the tongue.
 While these symptoms can occur at low doses, they occur more frequently and with greater severity, higher potency and at higher doses of first generation antipsychotic medicinal products.
 An elevated risk of acute dystonia is observed in males and younger age groups.
+
 Venous thromboembolism: Cases of venous thromboembolism, including cases of pulmonary embolism and cases of deep vein thrombosis have been reported with antipsychotic drugs -Frequency unknown.
 
 Reporting of suspected adverse reactions
