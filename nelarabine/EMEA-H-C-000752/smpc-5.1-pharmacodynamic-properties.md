@@ -9,7 +9,6 @@ Accumulation of ara-GTP in leukaemic blasts allows for preferential incorporatio
 This results in cell death.
 Other mechanisms may contribute to the cytotoxic effects of nelarabine.
 In vitro, T-cells are more sensitive than B-cells to the cytotoxic effects of nelarabine.
-
 Clinical studies
 
 Adult studies
@@ -23,7 +22,8 @@ A total of 6 patients (21 %) [95 % CI: 8 %–41 %] achieved a complete response 
 Time to complete response in both classifications of response ranged from 2.9 to 11.7 weeks.
 Duration of response (in both classifications of response (n=5) ranged between 15 and 195+ weeks.
 Median overall survival was 20.6 weeks [95 % CI: 10.4–36.4].
-Survival at one year was 29% [95 % CI: 12 %–45 %].
+Survival at one year was 29 % [95 % CI: 12 %–45 %].
+
 Paediatric studies
 
 In an open-label, multicenter study carried out by Childrens Oncology Group, nelarabine was administered intravenously over 1 hour for 5 days to 151 patients ≤ 21 years of age, 149 of whom had relapsed or refractory T-cell acute lymphoblastic leukaemia (T-ALL) or T-cell lymphoblastic lymphoma (T-LBL).

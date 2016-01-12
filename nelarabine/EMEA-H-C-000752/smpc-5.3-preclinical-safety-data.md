@@ -12,6 +12,7 @@ Mutagenicity
 Nelarabine was mutagenic to L5178Y/TK mouse lymphoma cells with and without metabolic activation.
 
 Reproduction toxicity
+
 Compared to controls, nelarabine caused increased incidences of foetal malformations, anomalies, and variations in rabbits when given at doses approximately 24 % of the adult human dose on a mg/m2 basis during the period of organogenesis.
 Cleft palate was seen in rabbits given a dose approximately 2-fold the adult human dose, absent pollices in rabbits given a dose approximately 79 % of the adult human dose while absent gall bladder, accessory lung lobes, fused or extra sternebrae and delayed ossification was seen at all doses.
 Maternal body weight gain and foetal body weights were reduced in rabbits given a dose approximately 2-fold the adult human dose.

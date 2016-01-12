@@ -33,7 +33,6 @@ Carcinogenicity and mutagenicity
 
 Carcinogenicity testing of nelarabine has not been performed.
 Nelarabine however, is known to be genotoxic to mammalian cells (see section 5.3).
-
 Sodium warning
 
 This medicinal product contains 1.725 mg/ml (75 micromols) of sodium.

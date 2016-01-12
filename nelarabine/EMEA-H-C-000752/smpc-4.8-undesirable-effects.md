@@ -7,7 +7,9 @@ The most frequently occurring adverse events were fatigue; gastrointestinal diso
 Neurotoxicity is the dose limiting toxicity associated with nelarabine therapy (see section 4.4).
 
 Tabulated list of adverse reactions
-The following convention has been utilised for the classification of frequency: Very common (≥1/10), Common (≥ 1/100 to < 1/10), Uncommon (≥ 1/1,000 to < 1/100), Rare (≥ 1/10,000 to < 1/1,000) and Very rare (< 1/10,000), not known (cannot be estimated from the available data)
+The following convention has been utilised for the classification of frequency: Very common
+(≥ 1/10), Common (≥ 1/100 to < 1/10), Uncommon (≥ 1/1,000 to < 1/100), Rare (≥ 1/10,000 to
+< 1/1,000) and Very rare (< 1/10,000), not known (cannot be estimated from the available data)
 
 | Adverse events(s) | Adults (1,500 mg/m2) N=103 (%) | Children (650 mg/m2) N=84 (%) |
 | --- | --- | --- |
@@ -16,8 +18,8 @@ The following convention has been utilised for the classification of frequency: 
 | Neoplasms benign and malignant (including cysts and polyps) |  |  |
 | Tumour lysis syndrome (see also Data from compassionate use programme and non-pivotal studies) | Common: 1 (1) | N/A |
 | Blood and lymphatic system disorders |  |  |
-| Febrile neutropenia | Very common: 12 (12) | Common: 1(1) |
-| Neutropenia | Very common: 83(81) | Very common: 79 (94) |
+| Febrile neutropenia | Very common: 12 (12) | Common: 1 (1) |
+| Neutropenia | Very common: 83 (81) | Very common: 79 (94) |
 | Leukopenia | Common: 3 (3) | Very common: 32 (38) |
 | Thrombocytopenia | Very common: 89 (86) | Very common: 74 (88) |
 | Anaemia | Very common: 102 (99) | Very common: 80 (95) |
@@ -55,7 +57,7 @@ The following convention has been utilised for the classification of frequency: 
 | Diarrhoea | Very common: 23 (22) | Common: 2 (2) |
 | Stomatitis | Common: 8 (8) | Common: 1 (1) |
 | Vomiting | Very common: 23 (22) | Common: 8 (10) |
-| Abdominal pain | Common: 9(9) | N/A |
+| Abdominal pain | Common: 9 (9) | N/A |
 | Constipation | Very common: 22 (21) | Common: 1 (1) |
 | Nausea | Very common: 42 (41) | Common: 2 (2) |
 | Hepatobiliary disorders |  |  |
@@ -92,12 +94,12 @@ One subject in the paediatric group had a fatal neurological event of status epi
 
 Data from NCI studies/compassionate use programme and phase I studies
 
-In addition to the adverse reactions seen in the pivotal clinical trials, there are also data from 875 patients from NCI studies/compassionate use programme (694 patients) and Phase I (181 patients) studies of nelarabine.
+In addition to the adverse reactions seen in the pivotal clinical trials, there are also data from 875 patients from NCI studies/compassionate use programme (694 patients) and Phase I
+(181 patients) studies of nelarabine.
 The following additional adverse reactions were seen:
 
 Neoplasms benign and malignant (including cysts and polyps)
 Tumour lysis syndrome – 7 cases (see sections 4.2 and 4.4)
-
 Post – Marketing Data
 
 The following adverse reactions have been identified during post-approval use of nelarabine.
