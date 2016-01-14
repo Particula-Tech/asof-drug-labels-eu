@@ -59,7 +59,7 @@ Table 7: Adverse reactions in patients with Multiple Myeloma treated with VELCAD
 |  | Rare | Respiratory failure, Acute respiratory distress syndrome, Apnoea, Pneumothorax, Atelectasis, Pulmonary hypertension, Haemoptysis, Hyperventilation, Orthopnoea, Pneumonitis, Respiratory alkalosis, Tachypnoea, Pulmonary fibrosis, Bronchial disorder*, Hypocapnia*, Interstitial lung disease, Lung infiltration, Throat tightness, Dry throat, Increased upper airway secretion, Throat irritation, Upper-airway cough syndrome |
 | Gastrointestinal disorders | Very Common | Nausea and vomiting symptoms*, Diarrhoea*, Constipation |
 |  | Common | Gastrointestinal haemorrhage (inc mucosal)*, Dyspepsia, Stomatitis*, Abdominal distension, Oropharyngeal pain*, Abdominal pain (inc gastrointestinal and splenic pain)*, Oral disorder*, Flatulence |
-|  | Uncommon | Pancreatitis (inc chronic)*, Haematemesis, Lip swelling*, Gastrointestinal obstruction (inc ileus)*, Abdominal discomfort, Oral ulceration*, Enteritis*, Gastritis*, Gingival bleeding, Gastrooesophageal reflux disease*, Colitis (inc clostridium difficile)*, Colitis ischaemic#, Gastrointestinal inflammation*, Dysphagia, Irritable bowel syndrome, Gastrointestinal disorder NOS, Tongue coated, Gastrointestinal motility disorder*, Salivary gland disorder* |
+|  | Uncommon | Pancreatitis (inc chronic)*, Haematemesis, Lip swelling*, Gastrointestinal obstruction (inc small intestinal obstruction, ileus)*, Abdominal discomfort, Oral ulceration*, Enteritis*, Gastritis*, Gingival bleeding, Gastrooesophageal reflux disease*, Colitis (inc clostridium difficile)*, Colitis ischaemic#, Gastrointestinal inflammation*, Dysphagia, Irritable bowel syndrome, Gastrointestinal disorder NOS, Tongue coated, Gastrointestinal motility disorder*, Salivary gland disorder* |
 |  | Rare | Pancreatitis acute, Peritonitis*, Tongue oedema*, Ascites, Oesophagitis, Cheilitis, Faecal incontinence, Anal sphincter atony, Faecaloma*, Gastrointestinal ulceration and perforation*, Gingival hypertrophy, Megacolon, Rectal discharge, Oropharyngeal blistering*, Lip pain, Periodontitis, Anal fissure, Change of bowel habit, Proctalgia, Abnormal faeces |
 | Hepatobiliary disorders | Common | Hepatic enzyme abnormality* |
 |  | Uncommon | Hepatotoxicity (inc liver disorder), Hepatitis*, Cholestasis |
@@ -201,7 +201,7 @@ VDDx=vincristine, doxorubicin, dexamethasone; VcDx=VELCADE, dexamethasone; TDx=t
 Note: Peripheral neuropathy included the preferred terms: neuropathy peripheral, peripheral motor neuropathy, peripheral sensory neuropathy, and polyneuropathy.
 
 Mantle cell lymphoma
-In study LYM-3002 in which VELCADE was administered with cyclophosphamide, doxorubicin, and prednisone (R-CAP), the incidence of peripheral neuropathy in the combination regimens is presented in the table below:
+In study LYM-3002 in which VELCADE was administered with rituximab, cyclophosphamide, doxorubicin, and prednisone (R-CAP), the incidence of peripheral neuropathy in the combination regimens is presented in the table below:
 
 Table 10: Incidence of peripheral neuropathy in study LYM-3002 by toxicity and treatment discontinuation due to peripheral neuropathy
 
@@ -274,7 +274,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 |  | Rare | Respiratory failure, Acute respiratory distress syndrome, Apnoea, Pneumothorax, Atelectasis, Pulmonary hypertension, Haemoptysis, Hyperventilation, Orthopnoea, Pneumonitis, Respiratory alkalosis, Tachypnoea, Pulmonary fibrosis, Bronchial disorder*, Hypocapnia*, Interstitial lung disease, Lung infiltration, Throat tightness, Dry throat, Increased upper airway secretion, Throat irritation, Upper-airway cough syndrome |
 | Gastrointestinal disorders | Very Common | Nausea and vomiting symptoms*, Diarrhoea*, Constipation |
 |  | Common | Gastrointestinal haemorrhage (inc mucosal)*, Dyspepsia, Stomatitis*, Abdominal distension, Oropharyngeal pain*, Abdominal pain (inc gastrointestinal and splenic pain)*, Oral disorder*, Flatulence |
-|  | Uncommon | Pancreatitis (inc chronic)*, Haematemesis, Lip swelling*, Gastrointestinal obstruction (inc ileus)*, Abdominal discomfort, Oral ulceration*, Enteritis*, Gastritis*, Gingival bleeding, Gastrooesophageal reflux disease*, Colitis (inc clostridium difficile)*, Colitis ischaemic#, Gastrointestinal inflammation*, Dysphagia, Irritable bowel syndrome, Gastrointestinal disorder NOS, Tongue coated, Gastrointestinal motility disorder*, Salivary gland disorder* |
+|  | Uncommon | Pancreatitis (inc chronic)*, Haematemesis, Lip swelling*, Gastrointestinal obstruction (inc small intestinal obstruction, ileus)*, Abdominal discomfort, Oral ulceration*, Enteritis*, Gastritis*, Gingival bleeding, Gastrooesophageal reflux disease*, Colitis (inc clostridium difficile)*, Colitis ischaemic#, Gastrointestinal inflammation*, Dysphagia, Irritable bowel syndrome, Gastrointestinal disorder NOS, Tongue coated, Gastrointestinal motility disorder*, Salivary gland disorder* |
 |  | Rare | Pancreatitis acute, Peritonitis*, Tongue oedema*, Ascites, Oesophagitis, Cheilitis, Faecal incontinence, Anal sphincter atony, Faecaloma*, Gastrointestinal ulceration and perforation*, Gingival hypertrophy, Megacolon, Rectal discharge, Oropharyngeal blistering*, Lip pain, Periodontitis, Anal fissure, Change of bowel habit, Proctalgia, Abnormal faeces |
 | Hepatobiliary disorders | Common | Hepatic enzyme abnormality* |
 |  | Uncommon | Hepatotoxicity (inc liver disorder), Hepatitis*, Cholestasis |
@@ -299,8 +299,8 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 | Investigations | Common | Weight decreased |
 |  | Uncommon | Hyperbilirubinaemia*, Protein analyses abnormal*, Weight increased, Blood test abnormal*,C-reactive protein increased |
 |  | Rare | Blood gases abnormal*, Electrocardiogram abnormalities (inc QT prolongation)*, International normalised ratio abnormal*, Gastric pH decreased, Platelet aggregation increased, Troponin I increased, Virus identification and serology*, Urine analysis abnormal* |
-| Injury, poisoning | Uncommon | Fall, Contusion |
-| and procedural complications | Rare | Transfusion reaction, Fractures*, Rigors*, Face injury, Joint injury*, Burns, Laceration, Procedural pain, Radiation injuries* |
+| Injury, poisoning and procedural complications | Uncommon | Fall, Contusion |
+|  | Rare | Transfusion reaction, Fractures*, Rigors*, Face injury, Joint injury*, Burns, Laceration, Procedural pain, Radiation injuries* |
 | Surgical and medical procedures | Rare | Macrophage activation |
 
 The safety profile of VELCADE in 240 MCL patients treated with VELCADE at 1.3 mg/m2 in combination with rituximab, cyclophosphamide, doxorubicin, and prednisone (VcR-CAP) versus 242 patients treated with rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone [R-CHOP] was relatively consistent to that observed in patients with multiple myeloma with main differences described below.

@@ -189,6 +189,9 @@ A protocol-defined interim analysis (based on 249 TTP events) triggered early st
 This interim analysis showed a TTP risk reduction of 45% (95% CI; 29-57%, p < 0.0001) for patients treated with combination therapy of VELCADE and pegylated liposomal doxorubicin.
 The median TTP was 6.5 months for the VELCADE monotherapy patients compared with 9.3 months for the VELCADE plus pegylated liposomal doxorubicin combination therapy patients.
 These results, though not mature, constituted the protocol defined final analysis.
+The final analysis for OS performed after a median follow-up of 8.6 years showed no significant difference in OS between the two treatment arms.
+The median OS was 30.8 months (95% CI; 25.2-36.5 months) for the VELCADE monotherapy patients and 33.0 months (95% CI;
+28.9-37.1 months) for the VELCADE plus pegylated liposomal doxorubicin combination therapy patients.
 
 VELCADE combination treatment with dexamethasone
 In the absence of any direct comparison between VELCADE and VELCADE in combination with dexamethasone in patients with progressive multiple myeloma, a statistical matched-pair analysis was conducted to compare results from the non randomised arm of VELCADE in combination with dexamethasone (Phase II open-label study MMY-2045), with results obtained in the VELCADE monotherapy arms from different Phase III randomised studies (M34101-039 [APEX] and DOXIL MMY-3001) in the same indication.
@@ -310,7 +313,6 @@ A total of 218 patients were evaluable for response.
 
 This study met its primary objective of non-inferiority for response rate (CR+PR) after 4 cycles of single agent VELCADE for both the subcutaneous and intravenous routes, 42% in both groups.
 In addition, secondary response-related and time to event related efficacy endpoints showed consistent results for subcutaneous and intravenous administration (Table 15).
-
 Table 15: Summary of efficacy analyses comparing subcutaneous and intravenous administrations of VELCADE
 
 VELCADE intravenous VELCADE
@@ -352,5 +354,4 @@ e Median duration of follow up is 11.8 months
 VELCADE combination treatment with pegylated liposomal doxorubicin (study DOXIL-MMY-3001)
 
 Efficacy results are presented in Table 16:
-
 Table 16: Efficacy results from study LYM-3002
