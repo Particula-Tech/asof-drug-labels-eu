@@ -2,7 +2,7 @@
 
 - History of severe and unexpected reactions to fluoropyrimidine therapy,
 - Hypersensitivity to capecitabine or to any of the excipients listed in section 6.1 or fluorouracil,
-- In patients with known dihydropyrimidine dehydrogenase (DPD) deficiency (see section 4.4),
+- In patients with known complete absence of dihydropyrimidine dehydrogenase (DPD) activity (see section 4.4),
 - During pregnancy and lactation,
 - In patients with severe leukopenia, neutropenia, or thrombocytopenia,
 - In patients with severe hepatic impairment,

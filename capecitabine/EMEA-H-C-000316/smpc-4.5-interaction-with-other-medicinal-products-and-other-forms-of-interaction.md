@@ -27,11 +27,12 @@ This interaction, which leads to increased fluoropyrimidine toxicity, is potenti
 Therefore, capecitabine must not be administered concomitantly with sorivudine or its chemically related analogues, such as brivudine (see section 4.3).
 There must be at least a 4-week waiting period between end of treatment with sorivudine or its chemically related analogues such as brivudine and start of capecitabine therapy.
 
-Antacid: the effect of an aluminum hydroxide and magnesium hydroxide-containing antacid on the pharmacokinetics of capecitabine was investigated.
+Antacid: the effect of an aluminium hydroxide and magnesium hydroxide-containing antacid on the pharmacokinetics of capecitabine was investigated.
 There was a small increase in plasma concentrations of capecitabine and one metabolite (5’-DFCR); there was no effect on the 3 major metabolites (5’-DFUR, 5-FU and FBAL).
 
 Allopurinol: interactions with allopurinol have been observed for 5-FU; with possible decreased efficacy of 5-FU.
 Concomitant use of allopurinol with capecitabine should be avoided.
+
 Interferon alpha: the MTD of capecitabine was 2000 mg/m2 per day when combined with interferon alpha-2a (3 MIU/m2 per day) compared to 3000 mg/m2 per day when capecitabine was used alone.
 
 Radiotherapy: the MTD of capecitabine alone using the intermittent regimen is 3000 mg/m2 per day, whereas, when combined with radiotherapy for rectal cancer, the MTD of capecitabine is 2000 mg/m2 per day using either a continuous schedule or given daily Monday through Friday during a 6-week course of radiotherapy.

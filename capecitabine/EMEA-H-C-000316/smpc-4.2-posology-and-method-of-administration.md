@@ -151,5 +151,3 @@ Dose modifications for toxicity when capecitabine is used continuously in combin
 
 In patients with moderate renal impairment at baseline, a dose reduction to 75% for a starting dose of 1250mg/m2 is recommended.
 In patients with moderate renal impairment at baseline, no dose reduction is required for a starting dose of 1000mg/m2.
-
-There is no relevant use of capecitabine in the paediatric population in the indications colon, colorectal, gastic and breast cancer.

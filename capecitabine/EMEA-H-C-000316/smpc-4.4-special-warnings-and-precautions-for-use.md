@@ -56,11 +56,15 @@ Treatment with capecitabine monotherapy may be resumed when bilirubin decreases 
 Renal impairment.
 The incidence of grade 3 or 4 adverse reactions in patients with moderate renal impairment (creatinine clearance 30-50 ml/min) is increased compared to the overall population (see sections 4.2 and 4.3).
 
-DPD deficiency: Rarely, unexpected, severe toxicity (e.g. stomatitis, diarrhoea, neutropenia and neurotoxicity) associated with 5-FU has been attributed to a deficiency of DPD activity.
-A link between decreased levels of DPD and increased, potentially fatal toxic effects of 5-FU therefore cannot be excluded.
-Patients with known DPD deficiency should not be treated with capecitabine (see section 4.3).
+Dihydropyrimidine dehydrogenase (DPD) deficiency: Rarely, unexpected, severe toxicity (e.g. stomatitis, diarrhoea, mucosal inflammation, neutropenia and neurotoxicity) associated with 5-FU has been attributed to a deficiency of DPD activity.
+Patients with low or absent DPD activity, an enzyme involved in fluorouracil degradation, are at increased risk for severe, life-threatening, or fatal adverse reactions caused by fluorouracil.
+Although DPD deficiency cannot be precisely defined, it is known that patients with certain homozygous or certain compound heterozygous mutations in the DPYD gene locus, which can cause complete or near complete absence of DPD enzymatic activity (as determined from laboratory assays), have the highest risk of life-threatening or fatal toxicity and should not be treated with Xeloda (see section 4.3).
+No dose has been proven safe for patients with complete absence of DPD activity..
+
+For patients with partial DPD deficiency (such as those with heterozygous mutations in the DPYD gene) and where the benefits of Xeloda are considered to outweigh the risks (taking into account the suitability of an alternative non-fluoropyrimidine chemotherapeutic regimen), these patients must be treated with extreme caution and frequent monitoring with dose adjusment according to toxicity.There is insufficient data to recommend a specific dose in patients with partial DPD activity as measured by specific test.
+
 In patients with unrecognised DPD deficiency treated with capecitabine, life-threatening toxicities manifesting as acute overdose may occur (see section 4.9).
-In the event of grade 2-4 acute toxicity, treatment must be discontinued immediately until observed toxicity resolves.
+In the event of grade 2-4 acute toxicity, treatment must be discontinued immediately .
 Permanent discontinuation should be considered based on clinical assessment of the onset, duration and severity of the observed toxicities.
 
 Ophthalmologic complications: Patients should be carefully monitored for ophthalmological
@@ -75,6 +79,8 @@ As this medicinal product contains anhydrous lactose as an excipient, patients w
 [Xeloda 500 mg film-coated tablets.]
 
 Treatment with capecitabine monotherapy may be resumed when bilirubin decreases to ≤ 3.0 x ULN or hepatic aminotransferases decrease to ≤ 2.5 x ULN.
+
+Patients with low or absent DPD activity, an enzyme involved in fluorouracil degradation, are at increased risk for severe, life-threatening, or fatal adverse reactions caused by fluorouracil.Although DPD deficiency cannot be precisely defined, it is known that patients with certain homozygous or certain compound heterozygous mutations in the DPYD gene locus, which can cause complete or near complete absence of DPD enzymatic activity (as determined from laboratory assays), have the highest risk of life-threatening or fatal toxicity and should not be treated with Xeloda (see section 4.3).
 
 Severe skin reactions: Xeloda can induce severe skin reactions such as Stevens-Johnson syndrome and Toxic Epidermal Necrolysis.
 Xeloda should be permanently discontinued in patients who experience a severe skin reaction during treatment.
