@@ -23,6 +23,7 @@ Patients with asthma may experience reversible temporary mild bronchospasm after
 
 Therapeutic dose regimen
 The therapeutic dose regimen should not be prescribed until the initiation dose assessment has been performed.
+The patient must complete and pass the initiation dose assessment before starting treatment with Bronchitol.
 
 For patients receiving several respiratory therapies, the recommended order is:
 

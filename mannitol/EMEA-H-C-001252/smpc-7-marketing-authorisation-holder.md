@@ -1,9 +1,7 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 Pharmaxis Pharmaceuticals Limited,
-The Priory,
-Stomp Road,
-Burnham,
-Buckinghamshire,
-SL1 7LW,
+25 Moorgate,
+London,
+EC2R 6AY
 United Kingdom.
