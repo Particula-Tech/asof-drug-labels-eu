@@ -8,7 +8,6 @@ There are limited data on the use of imatinib in pregnant women.
 Studies in animals have however shown reproductive toxicity (see section 5.3) and the potential risk for the foetus is unknown.
 Glivec should not be used during pregnancy unless clearly necessary.
 If it is used during pregnancy, the patient must be informed of the potential risk to the foetus.
-
 Breast-feeding
 There is limited information on imatinib distribution on human milk.
 Studies in two breast-feeding women revealed that both imatinib and its active metabolite can be distributed into human milk.

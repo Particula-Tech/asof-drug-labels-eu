@@ -104,10 +104,10 @@ There is very limited experience in children with MDS/MPD, DFSP, GIST and HES/CE
 
 The safety and efficacy of imatinib in children with MDS/MPD, DFSP, GIST and HES/CEL aged less than 18 years of age have not been established in clinical trials.
 Currently available published data are summarised in section 5.1 but no recommendation on a posology can be made.
+
 Hepatic insufficiency: Imatinib is mainly metabolised through the liver.
 Patients with mild, moderate or severe liver dysfunction should be given the minimum recommended dose of 400 mg daily.
 The dose can be reduced if not tolerated (see sections 4.4, 4.8 and 5.2).
-
 Liver dysfunction classification:
 
 | Liver dysfunction | Liver function tests |

@@ -41,7 +41,10 @@ In the study in patients with unresectable and/or metastatic GIST, both gastroin
 Based on the available data, no predisposing factors (e.g. tumour size, tumour location, coagulation disorders) have been identified that place patients with GIST at a higher risk of either type of haemorrhage.
 Since increased vascularity and propensity for bleeding is a part of the nature and clinical course of GIST, standard practices and procedures for the monitoring and management of haemorrhage in all patients should be applied.
 
-Tumor lysis syndrome
+In addition, gastric antral vascular ectasia (GAVE), a rare cause of gastrointestinal haemorrhage, has been reported in post-marketing experience in patients with CML, ALL and other diseases (see section 4.8).
+When needed, discontinuation of Glivec treatment may be considered.
+
+Tumour lysis syndrome
 Due to the possible occurrence of tumour lysis syndrome (TLS), correction of clinically significant dehydration and treatment of high uric acid levels are recommended prior to initiation of Glivec (see section 4.8).
 Laboratory tests
 Complete blood counts must be performed regularly during therapy with Glivec.
@@ -55,6 +58,10 @@ In patients with impaired renal function, imatinib plasma exposure seems to be h
 Patients with renal impairment should be given the minimum starting dose.
 Patients with severe renal impairment should be treated with caution.
 The dose can be reduced if not tolerated (see section 4.2 and 5.2).
+
+Long-term treatment with imatinib may be associated with a clinically significant decline in renal function.
+Renal function should, therefore, be evaluated prior to the start of imatinib therapy and closely monitored during therapy, with particular attention to those patients exhibiting risk factors for renal dysfunction.
+If renal dysfunction is observed, appropriate management and treatment should be prescribed in accordance with standard treatment guidelines.
 
 Paediatric population
 There have been case reports of growth retardation occurring in children and pre-adolescents receiving imatinib.

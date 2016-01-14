@@ -3,6 +3,7 @@
 The preclinical safety profile of imatinib was assessed in rats, dogs, monkeys and rabbits.
 
 Multiple dose toxicity studies revealed mild to moderate haematological changes in rats, dogs and monkeys, accompanied by bone marrow changes in rats and dogs.
+
 The liver was a target organ in rats and dogs.
 Mild to moderate increases in transaminases and slight decreases in cholesterol, triglycerides, total protein and albumin levels were observed in both species.
 No histopathological changes were seen in rat liver.
@@ -38,10 +39,10 @@ The no observed effect level (NOEL) for both the maternal animals and the F1 gen
 Imatinib was teratogenic in rats when administered during organogenesis at doses ≥ 100 mg/kg, approximately equal to the maximum clinical dose of 800 mg/day, based on body surface area.
 Teratogenic effects included exencephaly or encephalocele, absent/reduced frontal and absent parietal bones.
 These effects were not seen at doses ≤ 30 mg/kg.
-
 No new target organs were identified in the rat juvenile development toxicology study (day 10 to 70 postpartum) with respect to the known target organs in adult rats.
 In the juvenile toxicology study, effects upon growth, delay in vaginal opening and preputial separation were observed at approximately 0.3 to 2 times the average paediatric exposure at the highest recommended dose of 340 mg/m2.
 In addition, mortality was observed in juvenile animals (around weaning phase) at approximately 2 times the average paediatric exposure at the highest recommended dose of 340 mg/m2.
+
 In the 2-year rat carcinogenicity study administration of imatinib at 15, 30 and 60 mg/kg/day resulted in a statistically significant reduction in the longevity of males at 60 mg/kg/day and females at
 ≥30 mg/kg/day.
 Histopathological examination of decedents revealed cardiomyopathy (both sexes), chronic progressive nephropathy (females) and preputial gland papilloma as principal causes of death or reasons for sacrifice.

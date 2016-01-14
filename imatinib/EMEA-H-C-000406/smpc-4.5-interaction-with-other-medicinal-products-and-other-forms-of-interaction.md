@@ -11,11 +11,11 @@ Pretreatment with multiple doses of rifampicin 600 mg followed by a single 400 m
 Similar results were observed in patients with malignant gliomas treated with Glivec while taking enzyme-inducing anti-epileptic drugs (EIAEDs) such as carbamazepine, oxcarbazepine and phenytoin.
 The plasma AUC for imatinib decreased by 73% compared to patients not on EIAEDs.
 Concomitant use of rifampicin or other strong CYP3A4 inducers and imatinib should be avoided.
-
 Active substances that may have their plasma concentration altered by Glivec
 Imatinib increases the mean Cmax and AUC of simvastatin (CYP3A4 substrate) 2- and 3.5-fold, respectively, indicating an inhibition of the CYP3A4 by imatinib.
 Therefore, caution is recommended when administering Glivec with CYP3A4 substrates with a narrow therapeutic window (e.g. cyclosporine, pimozide, tacrolimus, sirolimus, ergotamine, diergotamine, fentanyl, alfentanil, terfenadine, bortezomib, docetaxel and quinidine).
 Glivec may increase plasma concentration of other CYP3A4 metabolised drugs (e.g. triazolo-benzodiazepines, dihydropyridine calcium channel blockers, certain HMG-CoA reductase inhibitors, i.e. statins, etc.).
+
 Because of known increased risks of bleeding in conjunction with the use of imatinib (e.g. haemorrhage), patients who require anticoagulation should receive low-molecular-weight or standard heparin, instead of coumarin derivatives such as warfarin.
 
 In vitro Glivec inhibits the cytochrome P450 isoenzyme CYP2D6 activity at concentrations similar to those that affect CYP3A4 activity.

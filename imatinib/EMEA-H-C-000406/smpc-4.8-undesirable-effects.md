@@ -18,7 +18,6 @@ However, these oedemas were rarely severe and may be managed with diuretics, oth
 When imatinib was combined with high dose chemotherapy in Ph+ ALL patients, transient liver toxicity in the form of transaminase elevation and hyperbilirubinaemia were observed.
 Considering the limited safety database, the adverse events thus far reported in children are consistent with the known safety profile in adult patients with Ph+ ALL.
 The safety database for children with Ph+ALL is very limited though no new safety concerns have been identified.
-
 Miscellaneous adverse reactions such as pleural effusion, ascites, pulmonary oedema and rapid weight gain with or without superficial oedema may be collectively described as “fluid retention”.
 These reactions can usually be managed by withholding Glivec temporarily and with diuretics and other appropriate supportive care measures.
 However, some of these reactions may be serious or life-threatening and several patients with blast crisis died with a complex clinical history of pleural effusion, congestive heart failure and renal failure.
@@ -30,9 +29,10 @@ Frequency categories are defined using the following convention: very common
 (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping, undesirable effects are presented in order of frequency, the most frequent first.
-Adverse reactions and their frequencies reported in Table 1 are based on the main registration studies.
 
-Table 1 Adverse reactions in clinical studies
+Adverse reactions and their frequencies are reported in Table 1.
+
+Table 1 Tabulated summary of adverse reactions
 
 | Infections and infestations |  |
 | --- | --- |
@@ -40,6 +40,9 @@ Table 1 Adverse reactions in clinical studies
 | Rare: | Fungal infection |
 | Neoplasm benign, malignant and unspecified (including cysts and polyps) |  |
 | Rare: | Tumour lysis syndrome |
+| Not known: | Tumour haemorrhage/tumour necrosis* |
+| Immune system disorders |  |
+| Not known: | Anaphylactic shock* |
 | Blood and lymphatic system disorders |  |
 | Very common: | Neutropenia, thrombocytopenia, anaemia |
 | Common: | Pancytopenia, febrile neutropenia |
@@ -58,27 +61,33 @@ Table 1 Adverse reactions in clinical studies
 | Common: | Dizziness, paraesthesia, taste disturbance, hypoaesthesia |
 | Uncommon: | Migraine, somnolence, syncope, peripheral neuropathy, memory impairment, sciatica, restless leg syndrome, tremor, cerebral haemorrhage |
 | Rare: | Increased intracranial pressure, convulsions, optic neuritis |
+| Not known: | Cerebral oedema* |
 | Eye disorders |  |
 | Common: | Eyelid oedema, lacrimation increased, conjunctival haemorrhage, conjunctivitis, dry eye, blurred vision |
 | Uncommon: | Eye irritation, eye pain, orbital oedema, scleral haemorrhage, retinal haemorrhage, blepharitis, macular oedema |
 | Rare: | Cataract, glaucoma, papilloedema |
+| Not known: | Vitreous haemorrhage* |
 | Ear and labyrinth disorders |  |
 | Uncommon: | Vertigo, tinnitus, hearing loss |
 | Cardiac disorders |  |
 | Uncommon: | Palpitations, tachycardia, cardiac failure congestive3, pulmonary oedema |
 | Rare: | Arrhythmia, atrial fibrillation, cardiac arrest, myocardial infarction, angina pectoris, pericardial effusion |
+| Not known: | Pericarditis*, cardiac tamponade* |
 | Vascular disorders4 |  |
 | Common: | Flushing, haemorrhage |
 | Uncommon: | Hypertension, haematoma, subdural haematoma, peripheral coldness, hypotension, Raynaud’s phenomenon |
+| Not known: | Thrombosis/embolism* |
 | Respiratory, thoracic and mediastinal disorders |  |
 | Common: | Dyspnoea, epistaxis, cough |
 | Uncommon: | Pleural effusion5, pharyngolaryngeal pain, pharyngitis |
 | Rare: | Pleuritic pain, pulmonary fibrosis, pulmonary hypertension, pulmonary haemorrhage |
+| Not known: | Acute respiratory failure10*, interstitial lung disease* |
 | Gastrointestinal disorders |  |
 | Very common: | Nausea, diarrhoea, vomiting, dyspepsia, abdominal pain6 |
 | Common: | Flatulence, abdominal distension, gastro-oesophageal reflux, constipation, dry mouth, gastritis |
 | Uncommon: | Stomatitis, mouth ulceration, gastrointestinal haemorrhage7, eructation, melaena, oesophagitis, ascites, gastric ulcer, haematemesis, cheilitis, dysphagia, pancreatitis |
 | Rare: | Colitis, ileus, inflammatory bowel disease |
+| Not known: | Ileus/intestinal obstruction*, gastrointestinal perforation*, diverticulitis*, gastric antral vascular ectasia (GAVE)* |
 | Hepatobiliary disorders |  |
 | Common: | Increased hepatic enzymes |
 | Uncommon: | Hyperbilirubinaemia, hepatitis, jaundice |
@@ -88,19 +97,20 @@ Table 1 Adverse reactions in clinical studies
 | Common: | Pruritus, face oedema, dry skin, erythema, alopecia, night sweats, photosensitivity reaction |
 | Uncommon: | Rash pustular, contusion, sweating increased, urticaria, ecchymosis, increased tendency to bruise, hypotrichosis, skin hypopigmentation, dermatitis exfoliative, onychoclasis, folliculitis, petechiae, psoriasis, purpura, skin hyperpigmentation, bullous eruptions |
 | Rare: | Acute febrile neutrophilic dermatosis (Sweet’s syndrome), nail discolouration, angioneurotic oedema, rash vesicular, erythema multiforme, leucocytoclastic vasculitis, Stevens-Johnson syndrome, acute generalised exanthematous pustulosis (AGEP) |
+| Not known: | Palmoplantar erythrodysesthesia syndrome*, lichenoid keratosis*, lichen planus*, toxic epidermal necrolysis*, drug rash with eosinophilia and systemic symptoms (DRESS)* |
 | Musculoskeletal and connective tissue disorders |  |
 | Very common: | Muscle spasm and cramps, musculoskeletal pain including myalgia, arthralgia, bone pain9 |
 | Common: | Joint swelling |
 | Uncommon: | Joint and muscle stiffness |
 | Rare: | Muscular weakness, arthritis, rhabdomyolysis/myopathy |
+| Not known: | Avascular necrosis/hip necrosis*, growth retardation in children* |
 | Renal and urinary disorders |  |
 | Uncommon: | Renal pain, haematuria, renal failure acute, urinary frequency increased |
+| Not known: | Renal failure chronic |
 | Reproductive system and breast disorders |  |
 | Uncommon: | Gynaecomastia, erectile dysfunction, menorrhagia, menstruation irregular, sexual dysfunction, nipple pain, breast enlargement, scrotal oedema |
 | Rare: | Haemorrhagic corpus luteum/haemorrhagic ovarian cyst |
-
 | General disorders and administration site conditions |  |
-| --- | --- |
 | Very common: | Fluid retention and oedema, fatigue |
 | Common: | Weakness, pyrexia, anasarca, chills, rigors |
 | Uncommon: | Chest pain, malaise |
@@ -110,6 +120,9 @@ Table 1 Adverse reactions in clinical studies
 | Uncommon: | Blood creatinine increased, blood creatine phosphokinase increased, blood lactate dehydrogenase increased, blood alkaline phosphatase increased |
 | Rare: | Blood amylase increased |
 
+* These types of reactions have been reported mainly from post-marketing experience with Glivec.
+This includes spontaneous case reports as well as serious adverse events from ongoing studies, the expanded access programmes, clinical pharmacology studies and exploratory studies in unapproved indications.
+Because these reactions are reported from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to imatinib exposure.
 1 Pneumonia was reported most commonly in patients with transformed CML and in patients with GIST.
 2 Headache was the most common in GIST patients.
 3 On a patient-year basis, cardiac events including congestive heart failure were more commonly observed in patients with transformed CML than in patients with chronic CML.
@@ -118,41 +131,7 @@ Table 1 Adverse reactions in clinical studies
 6+7 Abdominal pain and gastrointestinal haemorrhage were most commonly observed in GIST patients.
 8 Some fatal cases of hepatic failure and of hepatic necrosis have been reported.
 9 Musculoskeletal pain and related events were more commonly observed in patients with CML than in GIST patients.
-
-The following types of reactions have been reported mainly from post-marketing experience with Glivec.
-This includes spontaneous case reports as well as serious adverse events from ongoing studies, the expanded access programmes, clinical pharmacology studies and exploratory studies in unapproved indications.
-Because these reactions are reported from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to imatinib exposure.
-
-Table 2 Adverse reactions from post-marketing reports
-
-| Neoplasm benign, malignant and unspecified (including cysts and polyps) |  |
-| --- | --- |
-| Not known: | Tumour haemorrhage/tumour necrosis |
-| Immune system disorders |  |
-| Not known: | Anaphylactic shock |
-| Nervous system disorders |  |
-| Not known: | Cerebral oedema |
-| Eye disorders |  |
-| Not known: | Vitreous haemorrhage |
-| Cardiac disorders |  |
-| Not known: | Pericarditis, cardiac tamponade |
-| Vascular disorders |  |
-| Not known: | Thrombosis/embolism |
-| Respiratory, thoracic and mediastinal disorders |  |
-| Not known: | Acute respiratory failure1, interstitial lung disease |
-| Gastrointestinal disorders |  |
-| Not known: | Ileus/intestinal obstruction, gastrointestinal perforation, diverticulitis |
-| Skin and subcutaneous tissue disorders |  |
-| Not known: | Palmoplantar erythrodysesthesia syndrome |
-| Not known: | Lichenoid keratosis, lichen planus |
-| Not known: | Toxic epidermal necrolysis |
-| Not known: | Drug rash with eosinophilia and systemic symptoms (DRESS) |
-| Musculoskeletal and connective tissue disorders |  |
-| Not known: | Avascular necrosis/hip necrosis |
-| Not known: | Growth retardation in children |
-
-1 Fatal cases have been reported in patients with advanced disease, severe infections, severe neutropenia and other serious concomitant conditions.
-
+10 Fatal cases have been reported in patients with advanced disease, severe infections, severe neutropenia and other serious concomitant conditions.
 Laboratory test abnormalities
 Haematology
 In CML, cytopenias, particularly neutropenia and thrombocytopenia, have been a consistent finding in all studies, with the suggestion of a higher frequency at high doses ≥ 750 mg (phase I study).
