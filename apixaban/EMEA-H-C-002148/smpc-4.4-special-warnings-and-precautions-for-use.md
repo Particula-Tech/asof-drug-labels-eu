@@ -20,11 +20,11 @@ In patients with atrial fibrillation and conditions that warrant mono or dual an
 
 In a clinical trial of patients with atrial fibrillation, concomitant use of ASA increased the major bleeding risk on apixaban from 1.8% per year to 3.4% per year and increased the bleeding risk on warfarin from 2.7% per year to 4.6% per year.
 In this clinical trial, there was limited (2.1%) use of concomitant dual antiplatelet therapy.
+In a clinical trial of high-risk post acute coronary syndrome patients, characterised by multiple cardiac and non-cardiac comorbidities, who received ASA or the combination of ASA and clopidogrel, a significant increase in risk of ISTH (International Society on Thrombosis and Haemostasis) major bleeding was reported for apixaban (5.13% per year) compared to placebo (2.04% per year).
 
-In a clinical trial of high-risk post acute coronary syndrome patients, characterized by multiple cardiac and non-cardiac comorbidities, who received ASA or the combination of ASA and clopidogrel, a significant increase in risk of ISTH (International Society on Thrombosis and Haemostasis) major bleeding was reported for apixaban (5.13% per year) compared to placebo (2.04% per year) .
-
-Use of Thrombolytic agents for the treatment of acute ischemic stroke
+Use of thrombolytic agents for the treatment of acute ischemic stroke
 There is very limited experience with the use of thrombolytic agents for the treatment of acute ischemic stroke in patients administered apixaban.
+
 Patients with prosthetic heart valves
 Safety and efficacy of Eliquis have not been studied in patients with prosthetic heart valves, with or without atrial fibrillation.
 Therefore, the use of Eliquis is not recommended in this setting.
@@ -39,7 +39,7 @@ This includes interventions for which any bleeding that occurs is expected to be
 If surgery or invasive procedures cannot be delayed, appropriate caution should be exercised, taking into consideration an increased risk of bleeding.
 This risk of bleeding should be weighed against the urgency of intervention.
 
-Apixaban should be restarted after the invasive procedure or surgical intervention as soon as possible provided the clinical situation allows and adequate haemostasis has been established (for cardioversion see section 4.2).
+Eliquis should be restarted after the invasive procedure or surgical intervention as soon as possible provided the clinical situation allows and adequate haemostasis has been established (for cardioversion see section 4.2).
 
 Temporary discontinuation
 Discontinuing anticoagulants, including Eliquis, for active bleeding, elective surgery, or invasive procedures places patients at an increased risk of thrombosis.
@@ -57,29 +57,30 @@ Prior to neuraxial intervention the physician should consider the potential bene
 There is no clinical experience with the use of apixaban with indwelling intrathecal or epidural catheters.
 In case there is such need and based on the general PK characteristics of apixaban, a time interval of 20-30 hours (i.e., 2 x half-life) between the last dose of apixaban and catheter withdrawal should elapse, and at least one dose should be omitted before catheter withdrawal.
 The next dose of apixaban may be given at least 5 hours after catheter removal.
-As with all new anticoagulant drugs, experience with neuraxial blockade is limited and extreme caution is therefore recommended when using apixaban in the presence of neuraxial blockade.
-
+As with all new anticoagulant medicinal products, experience with neuraxial blockade is limited and extreme caution is therefore recommended when using apixaban in the presence of neuraxial blockade.
 Haemodynamically unstable PE patients or patients who require thrombolysis or pulmonary embolectomy
 Eliquis is not recommended as an alternative to unfractionated heparin in patients with pulmonary embolism who are haemodynamically unstable or may receive thrombolysis or pulmonary embolectomy since the safety and efficacy of apixaban have not been established in these clinical situations.
+
 Patients with active cancer
 Efficacy and safety of apixaban in the treatment of DVT, treatment of PE and prevention of recurrent DVT and PE (VTEt) in patients with active cancer have not been established.
 
-Renal impairment
+Patients with renal impairment
 Limited clinical data indicate that apixaban plasma concentrations are increased in patients with severe renal impairment (creatinine clearance 15-29 mL/min) which may lead to an increased bleeding risk.
 For the prevention of VTE in elective hip or knee replacement surgery (VTEp), the treatment of DVT, treatment of PE and prevention of recurrent DVT and PE (VTEt), apixaban is to be used with caution in patients with severe renal impairment (creatinine clearance 15-29 mL/min) (see sections 4.2 and 5.2).
 
-For the prevention of stroke and systemic embolism in patients with NVAF, patients with severe renal impairment (creatinine clearance 15-29 mL/min), and patients with serum creatinine ≥ 1.5 mg/dL (133 micromole/L) associated with age ≥ 80 years or body weight ≤ 60 kg should receive the lower dose of apixaban 2.5 mg twice daily (see section 4.2);
+For the prevention of stroke and systemic embolism in patients with NVAF, patients with severe renal impairment (creatinine clearance 15-29 mL/min), and patients with serum creatinine ≥1.5 mg/dL (133 micromole/L) associated with age ≥80 years or body weight ≤60 kg should receive the lower dose of apixaban 2.5 mg twice daily (see section 4.2).
 
 In patients with creatinine clearance < 15 mL/min, or in patients undergoing dialysis, there is no clinical experience therefore apixaban is not recommended (see sections 4.2 and 5.2).
 
 Elderly patients
 Increasing age may increase haemorrhagic risk (see section 5.2).
-Also, the co-administration of Eliquis with ASA in elderly patients should be used cautiously because of a potentially higher bleeding risk.
+
+Also, the coadministration of Eliquis with ASA in elderly patients should be used cautiously because of a potentially higher bleeding risk.
 
 Body weight
 Low body weight (< 60 kg) may increase haemorrhagic risk (see section 5.2).
 
-Hepatic impairment
+Patients with hepatic impairment
 Eliquis is contraindicated in patients with hepatic disease associated with coagulopathy and clinically relevant bleeding risk (see section 4.3).
 
 It is not recommended in patients with severe hepatic impairment (see section 5.2).
@@ -93,10 +94,10 @@ Prior to initiating Eliquis, liver function testing should be performed.
 Interaction with inhibitors of both cytochrome P450 3A4 (CYP3A4) and P-glycoprotein (P-gp)
 The use of Eliquis is not recommended in patients receiving concomitant systemic treatment with strong inhibitors of both CYP3A4 and P-gp, such as azole-antimycotics (e.g., ketoconazole, itraconazole, voriconazole and posaconazole) and HIV protease inhibitors (e.g., ritonavir).
 These medicinal products may increase apixaban exposure by 2-fold (see section 4.5), or greater in the presence of additional factors that increase apixaban exposure (e.g., severe renal impairment).
-
 Interaction with inducers of both CYP3A4 and P-gp
 The concomitant use of Eliquis with strong CYP3A4 and P-gp inducers (e.g., rifampicin, phenytoin, carbamazepine, phenobarbital or St. John’s Wort) may lead to a ~50% reduction in apixaban exposure.
 In a clinical study in atrial fibrillation patients, diminished efficacy and a higher risk of bleeding were observed with coadministration of apixaban with strong inducers of both CYP3A4 and P-gp compared with using apixaban alone.
+
 In patients receiving concomitant systemic treatment with strong inducers of both CYP3A4 and P-gp the following recommendations apply (see section 4.5):
 
 - for the prevention of VTE in elective hip or knee replacement surgery, for the prevention of stroke and systemic embolism in patients with NVAF and for the prevention of recurrent DVT and PE, apixaban should be used with caution;
@@ -108,7 +109,7 @@ Apixaban has not been studied in clinical trials in patients undergoing hip frac
 Therefore, it is not recommended in these patients.
 
 Laboratory parameters
-Clotting tests (e.g., PT, INR, and aPTT) are affected as expected by the mechanism of action of apixaban.
+Clotting tests [e.g., prothrombin time (PT), INR, and activated partial thromboplastin time (aPTT)] are affected as expected by the mechanism of action of apixaban.
 Changes observed in these clotting tests at the expected therapeutic dose are small and subject to a high degree of variability (see section 5.1).
 
 Information about excipients
@@ -117,7 +118,10 @@ Patients with rare hereditary problems of galactose intolerance, the Lapp lactas
 
 [Eliquis 5 mg film-coated tablets]
 
-For the treatment of DVT, treatment of PE and prevention of recurrent DVT and PE (VTEt), apixaban is to be used with caution in patients with severe renal impairment (creatinine clearance 15-29 mL/min) (see sections 4.2 and 5.2).
+For the treatment of DVT, treatment of PE and prevention of recurrent DVT and PE (VTEt), apixaban is to be used with caution in patients with severe renal impairment (creatinine clearance
+15-29 mL/min) (see sections 4.2 and 5.2).
+
+Also, the co-administration of Eliquis with ASA in elderly patients should be used cautiously because of a potentially higher bleeding risk.
 
 These medicinal products may increase apixaban exposure by 2-fold (see section 4.5) or greater in the presence of additional factors that increase apixaban exposure (e.g., severe renal impairment).
 

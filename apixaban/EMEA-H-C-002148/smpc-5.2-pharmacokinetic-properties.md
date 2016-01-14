@@ -10,20 +10,27 @@ Apixaban demonstrates linear pharmacokinetics with dose proportional increases i
 At doses ≥25 mg apixaban displays dissolution limited absorption with decreased bioavailability.
 Apixaban exposure parameters exhibit low to moderate variability reflected by a within-subject and inter-subject variability of ~20% CV and ~30% CV, respectively.
 
+Following oral administration of 10 mg of apixaban as 2 crushed 5 mg tablets suspended in 30 mL of water, exposure was comparable to exposure after oral administration of 2 whole 5 mg tablets.
+Following oral administration of 10 mg of apixaban as 2 crushed 5 mg tablets with 30 g of apple puree, the Cmax and AUC were 20% and 16% lower, respectively, when compared to administration of 2 whole 5 mg tablets.
+The reduction in exposure is not considered clinically relevant.
+
+Following administration of a crushed 5 mg apixaban tablet suspended in 60 mL of D5W and delivered via a nasogastric tube, exposure was similar to exposure seen in other clinical trials involving healthy subjects receiving a single oral 5 mg apixaban tablet dose.
+
+Given the predictable, dose-proportional pharmacokinetic profile of apixaban, the bioavailability results from the conducted studies are applicable to lower apixaban doses.
+
 Distribution
 Plasma protein binding in humans is approximately 87%.
 The volume of distribution (Vss) is approximately 21 litres.
-
 Biotransformation and elimination
 Apixaban has multiple routes of elimination.
 Of the administered apixaban dose in humans, approximately 25% was recovered as metabolites, with the majority recovered in faeces.
 Renal excretion of apixaban accounts for approximately 27% of total clearance.
 Additional contributions from biliary and direct intestinal excretion were observed in clinical and nonclinical studies, respectively.
 
-Apixaban has a total clearance of about 3.3 l/h and a half-life of approximately 12 hours.
+Apixaban has a total clearance of about 3.3 L/h and a half-life of approximately 12 hours.
 
 O-demethylation and hydroxylation at the 3-oxopiperidinyl moiety are the major sites of biotransformation.
-Apixaban is metabolized mainly via CYP3A4/5 with minor contributions from CYP1A2, 2C8, 2C9, 2C19, and 2J2.
+Apixaban is metabolised mainly via CYP3A4/5 with minor contributions from CYP1A2, 2C8, 2C9, 2C19, and 2J2.
 Unchanged apixaban is the major drug-related component in human plasma with no active circulating metabolites present.
 Apixaban is a substrate of transport proteins, P-gp and breast cancer resistance protein (BCRP).
 
@@ -48,13 +55,12 @@ Gender
 Exposure to apixaban was approximately 18% higher in females than in males.
 
 Ethnic origin and race
-The results across phase 1 studies showed no discernible difference in apixaban pharmacokinetics between White/Caucasian, Asian and Black/African American subjects.
-Findings from a population pharmacokinetic analysis in patients who received apixaban were generally consistent with the phase 1 results.
+The results across phase I studies showed no discernible difference in apixaban pharmacokinetics between White/Caucasian, Asian and Black/African American subjects.
+Findings from a population pharmacokinetic analysis in patients who received apixaban were generally consistent with the phase I results.
 
 Body weight
 Compared to apixaban exposure in subjects with body weight of 65 to 85 kg, body weight > 120 kg was associated with approximately 30% lower exposure and body weight < 50 kg was associated with approximately 30% higher exposure.
-
 Pharmacokinetic/pharmacodynamic relationship
 The pharmacokinetic /pharmacodynamic (PK/PD) relationship between apixaban plasma concentration and several PD endpoints (anti-FXa activity, INR, PT, aPTT) has been evaluated after administration of a wide range of doses (0.5 – 50 mg).
-The relationship between apixaban plasma concentration and anti-factor Xa activity was best described by a linear model.
+The relationship between apixaban plasma concentration and anti-Factor Xa activity was best described by a linear model.
 The PK/PD relationship observed in patients was consistent with that established in healthy subjects.
