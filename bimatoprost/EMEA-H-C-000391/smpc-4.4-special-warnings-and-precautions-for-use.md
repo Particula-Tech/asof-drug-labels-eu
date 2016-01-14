@@ -38,7 +38,7 @@ LUMIGAN should be used with caution in patients predisposed to low heart rate or
 
 Other Information
 In studies of bimatoprost 0.3 mg/ml in patients with glaucoma or ocular hypertension, it has been shown that the more frequent exposure of the eye to more than one dose of bimatoprost daily may decrease the IOP-lowering effect (see section 4.5).
-Patients using LUMIGAN with other prostanglandin analogues should be monitored for changes to their intraocular pressure.
+Patients using LUMIGAN with other prostaglandin analogues should be monitored for changes to their intraocular pressure.
 
 LUMIGAN 0.1 mg/ml contains the preservative benzalkonium chloride (200 ppm), which may be absorbed by soft contact lenses.
 Eye irritation and discolouration of the soft contact lenses may also occur because of the presence of benzalkonium chloride.
@@ -61,8 +61,6 @@ Neither naevi nor freckles of the iris appears to be affected by the treatment.
 At 12 months, the incidence of iris pigmentation with bimatoprost 0.3mg/ml was 1.5% (see section 4.8) and did not increase following 3 years treatment.
 
 Cystoid macular oedema has been uncommonly reported (≥1/1,000 to <1/100) following treatment with bimatoprost 0.3 mg/ml eye drops.
-
-Patients using LUMIGAN with other prostanglandim analogues should be monitored for changes to their intraocular pressure.
 
 Bimatoprost 0.3 mg/ml eye drops, solution contains the preservative benzalkonium chloride, which may be absorbed by soft contact lenses.
 Since LUMIGAN contains benzalkonium chloride, monitoring is required with frequent or prolonged use in dry eye patients or where the cornea is compromised.

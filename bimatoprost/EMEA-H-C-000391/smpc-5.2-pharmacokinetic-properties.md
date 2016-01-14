@@ -14,6 +14,7 @@ The plasma protein binding of bimatoprost is approximately 88 %.
 Biotransformation
 Bimatoprost is the major circulating species in the blood once it reaches the systemic circulation following ocular dosing.
 Bimatoprost then undergoes oxidation, N-deethylation and glucuronidation to form a diverse variety of metabolites.
+
 Elimination
 Bimatoprost is eliminated primarily by renal excretion, up to 67 % of an intravenous dose administered to healthy adult volunteers was excreted in the urine, 25 % of the dose was excreted via the faeces.
 The elimination half-life, determined after intravenous administration, was approximately 45 minutes; the total blood clearance was 1.5 l/hr/kg.

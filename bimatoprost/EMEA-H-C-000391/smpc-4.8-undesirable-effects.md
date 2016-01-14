@@ -18,11 +18,13 @@ Table 1.
 | Eye disorders | very common | conjunctival hyperaemia |
 |  | common | punctate keratitis, eye irritation, eye pruritus, growth of eyelashes, eye pain, erythema of eyelid, eyelid pruritus |
 |  | uncommon | asthenopia, blurred vision, conjunctival disorder, conjunctival oedema, iris hyperpigmentation, madarosis, eyelid oedema |
+|  | not known | blepharal pigmentation, macular oedema, periorbital and lid changes including deepening of the eyelid sulcus, dry eye |
 | Respiratory, thoracic and mediastinal disorders | not known | asthma, asthma exacerbation, COPD exacerbation and dyspnoea |
 | Gastrointestinal disorders | uncommon | nausea |
 | Skin and subcutaneous tissue disorders | common | skin hyperpigmentation, hypertrichosis |
 |  | uncommon | dry skin, eyelid margin crusting, pruritus |
 | General disorders and administration site conditions | common | instillation site irritation |
+| Immune system disorders | not known | Hypersensitivity reaction including signs and symptoms of eye allergy and allergic dermatitis |
 
 In clinical studies, over 1800 patients have been treated with LUMIGAN 0.3 mg/ml.
 On combining the data from phase III monotherapy and adjunctive LUMIGAN 0.3 mg/ml usage, the most frequently reported adverse reactions were:
@@ -45,7 +47,6 @@ Table 2.
 | Eye disorders | very common | ocular pruritus, growth of eyelashes |
 |  | common | corneal erosion, ocular burning, allergic conjunctivitis, blepharitis, worsening of visual acuity, asthenopia, conjunctival oedema, foreign body sensation, ocular dryness, eye pain, photophobia, tearing , eye discharge, visual disturbance/blurred vision, increased iris pigmentation, eyelash darkening |
 |  | uncommon | retinal haemorrhage, uveitis, cystoid macular oedema, iritis, blepharospasm, eyelid retraction, periorbital erythema |
-|  | not known | enophthalmos |
 | Vascular disorders | common | hypertension |
 | Skin and subcutaneous tissue disorders | uncommon | hirsutism |
 | General disorders and administration site conditions | uncommon | asthenia |
@@ -78,7 +79,7 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Eye disorders | very common | conjunctival hyperaemia, ocular pruritus, growth of eyelashes |
 |  | common | superficial punctate keratitis, corneal erosion, ocular burning, ocular irritation, allergic conjunctivitis, blepharitis, worsening of visual acuity, asthenopia, conjunctival oedema, foreign body sensation, ocular dryness, eye pain, photophobia, tearing, eye discharge, visual disturbance/blurred vision, increased iris pigmentation, eyelash darkening, eyelid erythema, eyelid pruritus |
 |  | uncommon | retinal haemorrhage, uveitis, cystoid macular oedema, iritis, blepharospasm, eyelid retraction, periorbital erythema, eyelid oedema |
-|  | not known | enophthalmos |
+|  | not known | periorbital and lid changes including deepening of the eyelid sulcus |
 | Vascular disorders | common | hypertension |
 | Respiratory, thoracic and mediastinal disorders | not known | asthma, asthma exacerbation, COPD exacerbation and dyspnoea |
 | Gastrointestinal disorders | uncommon | nausea |
@@ -86,6 +87,7 @@ Within each frequency grouping, undesirable effects are presented in order of de
 |  | uncommon | hirsutism |
 | General disorders and administration site conditions | uncommon | asthenia |
 | Investigations | common | liver function test abnormal |
+| Immune system disorders | not known | Hypersensitivity reaction including signs and symptoms of eye allergy and allergic dermatitis |
 
 [LUMIGAN 0.3 mg/mL eye drops, solution, in single-dose container]
 
@@ -103,6 +105,7 @@ The following adverse reactions were reported during clinical trials with LUMIGA
 | Respiratory, thoracic and mediastinal disorders | not known | asthma, asthma exacerbation, COPD exacerbation and dyspnoea |
 | Skin and subcutaneous tissue disorders | common | skin hyperpigmentation (periocular) |
 |  | uncommon | hair growth abnormal |
+| Immune system disorders | not known | Hypersensitivity reaction including signs and symptoms of eye allergy and allergic dermatitis |
 
 In clinical studies, over 1800 patients have been treated with LUMIGAN 0.3 mg/mL (multi-dose formulation).
 On combining the data from phase III monotherapy and adjunctive
@@ -131,7 +134,7 @@ Table 3
 | Nervous system disorders | uncommon | dizziness |
 | Eye disorders | common | corneal erosion, ocular burning, allergic conjunctivitis, blepharitis, worsening of visual acuity, eye discharge, visual disturbance, eyelash darkening |
 |  | uncommon | retinal haemorrhage, uveitis, cystoid macular oedema, iritis, blepharospasm, eyelid retraction |
-|  | not known | enophthalmos |
+|  | not known | periorbital and lid changes including deepening of the eyelid sulcus |
 | Vascular disorders | common | hypertension |
 | Gastrointestinal disorders | uncommon | nausea |
 | Skin and subcutaneous tissue disorders | not known | periobital erythema |
