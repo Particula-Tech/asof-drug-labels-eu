@@ -6,14 +6,6 @@ microcrystalline cellulose calcium hydrogen phosphate (anhydrous) croscarmellose
 Film coat:
 hypromellose titanium dioxide (E171) lactose monohydrate triacetin indigo carmine aluminium lake (E132)
 
-[VIAGRA 50 mg film-coated tablets]
-
-(all sentences already above)
-
-[VIAGRA 100 mg film-coated tablets]
-
-(all sentences already above)
-
 [VIAGRA 50 mg orodispersible tablets]
 
 Microcrystalline cellulose

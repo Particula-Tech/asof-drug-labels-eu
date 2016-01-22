@@ -46,15 +46,6 @@ Hepatic insufficiency
 In volunteers with mild to moderate hepatic cirrhosis (Child-Pugh A and B) sildenafil clearance was reduced, resulting in increases in AUC (84%) and Cmax (47%) compared to age-matched volunteers with no hepatic impairment.
 The pharmacokinetics of sildenafil in patients with severely impaired hepatic function have not been studied.
 
-[VIAGRA 50 mg film-coated tablets]
-
-Healthy elderly volunteers (65 years or over) had a reduced clearance of sildenafil, resulting in approximately 90% higher plasma concentrations of sildenafil and the active N-desmethyl metabolite compared to those seen in healthy younger volunteers (18-45 years).
-The mean AUC and Cmax of the N-desmethyl metabolite increased up to126% and up to 73% respectively, compared to age-matched volunteers with no renal impairment.
-
-[VIAGRA 100 mg film-coated tablets]
-
-(all sentences already above)
-
 [VIAGRA 50 mg orodispersible tablets]
 
 When film-coated tablets are taken with food, the rate of absorption of sildenafil is reduced with a mean delay in tmax of 60 minutes and a mean reduction in Cmax of 29%.

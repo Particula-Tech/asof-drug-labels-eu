@@ -4,6 +4,7 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 Consistent with its known effects on the nitric oxide/cyclic guanosine monophosphate (cGMP) pathway (see section 5.1), sildenafil was shown to potentiate the hypotensive effects of nitrates, and its co-administration with nitric oxide donors (such as amyl nitrite) or nitrates in any form is therefore contraindicated.
 
+The co-administration of PDE5 inhibitors, including sildenafil, with guanylate cyclase stimulators, such as riociguat, is contraindicated as it may potentially lead to symptomatic hypotension (see section 4.5).
 Agents for the treatment of erectile dysfunction, including sildenafil, should not be used in men for whom sexual activity is inadvisable (e.g. patients with severe cardiovascular disorders such as unstable angina or severe cardiac failure).
 
 VIAGRA is contraindicated in patients who have loss of vision in one eye because of non-arteritic anterior ischaemic optic neuropathy (NAION), regardless of whether this episode was in connection or not with previous PDE5 inhibitor exposure (see section 4.4).

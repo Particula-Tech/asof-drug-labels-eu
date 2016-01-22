@@ -1,17 +1,16 @@
 # 8. MARKETING AUTHORISATION NUMBERS
 
+VIAGRA 25 mg film-coated tablets
 EU/1/98/077/002-004
 EU/1/98/077/013
 
-[VIAGRA 50 mg film-coated tablets]
-
+VIAGRA 50 mg film-coated tablets
 EU/1/98/077/006-008
 EU/1/98/077/014
 EU/1/98/077/016-019
 EU/1/98/077/024
 
-[VIAGRA 100 mg film-coated tablets]
-
+VIAGRA 100 mg film-coated tablets
 EU/1/98/077/010-012
 EU/1/98/077/015
 EU/1/98/077/025

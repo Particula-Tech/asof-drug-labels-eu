@@ -1,7 +1,6 @@
 # 4.2 Posology and method of administration
 
 Posology
-
 Use in adults
 The recommended dose is 50 mg taken as needed approximately one hour before sexual activity.
 Based on efficacy and tolerability, the dose may be increased to 100 mg or decreased to 25 mg.
@@ -11,15 +10,16 @@ If VIAGRA is taken with food, the onset of activity may be delayed compared to t
 
 Special populations
 
-Elderly patients
+Elderly
 Dosage adjustments are not required in elderly patients (≥65 years old).
 
-Patients with renal impairment
+Renal impairment
 The dosing recommendations described in ‘Use in adults’ apply to patients with mild to moderate renal impairment (creatinine clearance = 30-80 mL/min).
 
 Since sildenafil clearance is reduced in patients with severe renal impairment (creatinine clearance <30 mL/min) a 25 mg dose should be considered.
 Based on efficacy and tolerability, the dose may be increased step-wise to 50 mg up to 100 mg as necessary.
-Patients with hepatic impairment
+
+Hepatic impairment
 Since sildenafil clearance is reduced in patients with hepatic impairment (e.g. cirrhosis) a 25 mg dose should be considered.
 Based on efficacy and tolerability, the dose may be increased step-wise to 50 mg up to 100 mg as necessary.
 
@@ -35,14 +35,6 @@ In addition, initiation of sildenafil at a dose of 25 mg should be considered (s
 Method of administration
 
 For oral use.
-
-[VIAGRA 50 mg film-coated tablets]
-
-(all sentences already above)
-
-[VIAGRA 100 mg film-coated tablets]
-
-(all sentences already above)
 
 [VIAGRA 50 mg orodispersible tablets]
 

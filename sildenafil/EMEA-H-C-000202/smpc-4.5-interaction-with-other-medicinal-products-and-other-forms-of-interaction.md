@@ -23,6 +23,7 @@ Stronger CYP3A4 inhibitors such as ketoconazole and itraconazole would be expect
 When a single 100 mg dose of sildenafil was administered with erythromycin, a moderate CYP3A4 inhibitor, at steady state (500 mg twice daily. for 5 days), there was a 182% increase in sildenafil systemic exposure (AUC).
 In normal healthy male volunteers, there was no evidence of an effect of azithromycin (500 mg daily for 3 days) on the AUC, Cmax, tmax, elimination rate constant, or subsequent half-life of sildenafil or its principal circulating metabolite.
 Cimetidine (800 mg), a cytochrome P450 inhibitor and non-specific CYP3A4 inhibitor, caused a 56% increase in plasma sildenafil concentrations when co-administered with sildenafil (50 mg) to healthy volunteers.
+
 Grapefruit juice is a weak inhibitor of CYP3A4 gut wall metabolism and may give rise to modest increases in plasma levels of sildenafil.
 
 Single doses of antacid (magnesium hydroxide/aluminium hydroxide) did not affect the bioavailability of sildenafil.
@@ -39,11 +40,15 @@ Effects of sildenafil on other medicinal products
 In vitro studies
 Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4 (IC50 > 150 μM).
 Given sildenafil peak plasma concentrations of approximately 1 μM after recommended doses, it is unlikely that VIAGRA will alter the clearance of substrates of these isoenzymes.
-
 There are no data on the interaction of sildenafil and non-specific phosphodiesterase inhibitors such as theophylline or dipyridamole.
 
 In vivo studies
 Consistent with its known effects on the nitric oxide/cGMP pathway (see section 5.1), sildenafil was shown to potentiate the hypotensive effects of nitrates, and its co-administration with nitric oxide donors or nitrates in any form is therefore contraindicated (see section 4.3).
+
+Riociguat: Preclinical studies showed additive systemic blood pressure lowering effect when PDE5 inhibitors were combined with riociguat.
+In clinical studies, riociguat has been shown to augment the hypotensive effects of PDE5 inhibitors.
+There was no evidence of favourable clinical effect of the combination in the population studied.
+Concomitant use of riociguat with PDE5 inhibitors, including sildenafil, is contraindicated (see section 4.3).
 
 Concomitant administration of sildenafil to patients taking alpha-blocker therapy may lead to symptomatic hypotension in a few susceptible individuals.
 This is most likely to occur within 4 hours post sildenafil dosing (see sections 4.2 and 4.4).
@@ -57,6 +62,7 @@ No significant interactions were shown when sildenafil (50 mg) was co-administer
 
 Sildenafil (50 mg) did not potentiate the increase in bleeding time caused by acetyl salicylic acid
 (150 mg).
+
 Sildenafil (50 mg) did not potentiate the hypotensive effects of alcohol in healthy volunteers with mean maximum blood alcohol levels of 80 mg/dl.
 
 Pooling of the following classes of antihypertensive medication: diuretics, beta-blockers, ACE inhibitors, angiotensin II antagonists, antihypertensive medicinal products (vasodilator and centrally-acting), adrenergic neurone blockers, calcium channel blockers and alpha-adrenoceptor blockers, showed no difference in the side effect profile in patients taking sildenafil compared to placebo treatment.
@@ -68,16 +74,8 @@ Sildenafil (100 mg) did not affect the steady state pharmacokinetics of the HIV 
 
 In healthy male volunteers, sildenafil at steady state (80 mg t.i.d.) resulted in a 49.8% increase in bosentan AUC and a 42% increase in bosentan Cmax (125 mg b.i.d.).
 
-[VIAGRA 50 mg film-coated tablets]
+[VIAGRA 50 mg orodispersible tablets]
 
 When a single 100 mg dose of sildenafil was administered with erythromycin, a moderate CYP3A4 inhibitor, at steady state (500 mg twice daily for 5 days), there was a 182% increase in sildenafil systemic exposure (AUC).
 
 Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4 (IC50 >150 μM).
-
-[VIAGRA 100 mg film-coated tablets]
-
-(all sentences already above)
-
-[VIAGRA 50 mg orodispersible tablets]
-
-(all sentences already above)
