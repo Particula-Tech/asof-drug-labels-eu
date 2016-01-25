@@ -28,8 +28,8 @@ In the age groups 3 to < 12 years (n=36) and 12 to <18 years (n=26), mean IOP re
 Mean IOP reduction at Week 12 in the 2 months to < 3 years of age group was 1.8 mmHg in the travoprost group and 7.3 mmHg in the timolol group.
 IOP reductions for this group were based on only 6 patients in the timolol group and 9 patients in the travoprost group where 4 patients in the travoprost group versus 0 patients in the timolol group had no relevant mean IOP reduction at Week 12.
 No data are available for children less than 2 months old.
-The effect on IOP was seen after the second week of treatment and was consistently maintained throughout the 12 week period of study for all age groups.
 
+The effect on IOP was seen after the second week of treatment and was consistently maintained throughout the 12 week period of study for all age groups.
 Table 1 – Comparison of Mean IOP Change from Baseline (mmHg) at Week 12
 
 Travoprost Timolol

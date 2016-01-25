@@ -11,6 +11,7 @@ Breastfeeding
 It is unknown whether travoprost from the eye drops is excreted in human breast milk.
 Animal studies have shown excretion of travoprost and metabolites in breast milk.
 The use of TRAVATAN by breast-feeding mothers is not recommended.
+
 Fertility
 There are no data on the effects of TRAVATAN on human fertility.
 Animal studies showed no effect of travoprost on fertility at doses more than 250 times the maximum recommended human ocular dose.
