@@ -34,3 +34,4 @@ EU/1/99/119/023
 [NovoRapid PumpCart 100 units/ml solution for injection in cartridge]
 
 EU/1/99/119/024
+EU/1/99/119/025

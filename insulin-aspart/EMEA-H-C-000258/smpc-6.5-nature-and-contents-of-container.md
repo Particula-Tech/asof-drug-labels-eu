@@ -26,4 +26,4 @@ Pack sizes of 1 (with or without needles), 5 (without needles) or a multipack wi
 
 1.6 ml solution in cartridge (type 1 glass) with a plunger (bromobutyl) and a rubber closure (bromobutyl/polyisoprene).
 
-Pack size of 5 cartridges.
+Pack size of 5 cartridges and a multipack containing 25 (5 packs of 5) cartridges.
