@@ -11,7 +11,7 @@ These adverse reactions are based on an integrated data set of 5,476 patients of
 Overall, VELCADE was administered for the treatment of multiple myeloma in 3,974 patients.
 
 Adverse reactions are listed below by system organ class and frequency grouping.
-Frequencies are defined as: Very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to < 1/1,000); very rare (< 1/10,000), not known (cannot be estimated from the available data).
+Frequencies are defined as: Very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000), not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 Table 7 has been generated using Version 14.1 of the MedDRA.
 Post-marketing adverse reactions not seen in clinical trials are also included.
@@ -95,12 +95,12 @@ Mantle Cell Lymphoma (MCL)
 The safety profile of VELCADE in 240 MCL patients treated with VELCADE at 1.3 mg/m2 in combination with rituximab, cyclophosphamide, doxorubicin, and prednisone (VcR-CAP), versus 242 patients treated with rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone [R-CHOP] was relatively consistent to that observed in patients with multiple myeloma with main differences described below.
 Additional adverse drug reactions identified associated with the use of the combination therapy (VcR-CAP) were hepatitis B infection (< 1%) and myocardial ischaemia (1.3%).
 The similar incidences of these events in both treatment arms, indicated that these adverse drug reactions are not attributable to VELCADE alone.
-Notable differences in the MCL patient population as compared to patients in the multiple myeloma studies were a ≥5% higher incidence of the haematological adverse reactions (neutropenia, thrombocytopenia, leukopenia, anemia, lymphopenia), peripheral sensory neuropathy, hypertension, pyrexia, pneumonia, stomatitis, and hair disorders.
-Adverse drug reactions identified as those with a ≥1% incidence, similar or higher incidence in the VcR-CAP arm and with at least a possible or probable causal relationship to the components of the VcR-CAP arm, are listed in Table 8 below.
+Notable differences in the MCL patient population as compared to patients in the multiple myeloma studies were a ≥ 5% higher incidence of the haematological adverse reactions (neutropenia, thrombocytopenia, leukopenia, anemia, lymphopenia), peripheral sensory neuropathy, hypertension, pyrexia, pneumonia, stomatitis, and hair disorders.
+Adverse drug reactions identified as those with a ≥ 1% incidence, similar or higher incidence in the VcR-CAP arm and with at least a possible or probable causal relationship to the components of the VcR-CAP arm, are listed in Table 8 below.
 Also included are adverse drug reactions identified in the VcR-CAP arm that were considered by investigators to have at least a possible or probable causal relationship to VELCADE based on historical data in the multiple myeloma studies.
 
 Adverse reactions are listed below by system organ class and frequency grouping.
-Frequencies are defined as: Very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to < 1/1,000); very rare (< 1/10,000), not known (cannot be estimated from the available data).
+Frequencies are defined as: Very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000), not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 Table 8 has been generated using Version 16 of the MedDRA.
 
@@ -114,8 +114,8 @@ Table 8 Adverse reactions in patients with Mantle Cell Lymphoma treated with VcR
 |  |  | Upper/lower respiratory tract infection*, Fungal infection*, |
 |  |  | Herpes simplex* |
 |  | Uncommon | Hepatitis B, Infection*, Bronchopneumonia |
-| Blood and lymphatic system | Very Common | Thrombocytopenia*, Febrile neutropenia, Neutropenia*, |
-|  |  | Leukopenia*, Anaemia*, Lymphopenia* |
+| Blood and | Very Common | Thrombocytopenia*, Febrile neutropenia, Neutropenia*, |
+| lymphatic system |  | Leukopenia*, Anaemia*, Lymphopenia* |
 | disorders | Uncommon | Pancytopenia* |
 | Immune system | Common | Hypersensitivity* |
 | disorders | Uncommon | Anaphylactic reaction |
@@ -123,7 +123,8 @@ Table 8 Adverse reactions in patients with Mantle Cell Lymphoma treated with VcR
 | nutrition disorders | Common | Hypokalaemia*, Blood glucose abnormal*, Hyponatraemia*, |
 |  |  | Diabetes mellitus*, Fluid retention |
 |  | Uncommon | Tumour lysis syndrome |
-| Psychiatric disorders | Common | Sleep disorders and disturbances* |
+| Psychiatric | Common | Sleep disorders and disturbances* |
+| disorders |  |  |
 | Nervous system | Very Common | Peripheral sensory neuropathy, Dysaesthesia*, Neuralgia* |
 | disorders | Common | Neuropathies*, Motor neuropathy*, Loss of consciousness (inc |
 |  |  | syncope), Encephalopathy*, Peripheral sensorimotor |
@@ -193,8 +194,8 @@ VDDx VcDx TDx VcTDx
 Incidence of PN (%)
 
 All GradePN 3 15 12 45
-≥Grade 2 PN 1 10 2 31
-≥Grade 3 PN < 1 5 0 5
+≥ Grade 2 PN 1 10 2 31
+≥ Grade 3 PN < 1 5 0 5
 Discontinuation due to PN (%) < 1 2 1 5
 
 VDDx=vincristine, doxorubicin, dexamethasone; VcDx=VELCADE, dexamethasone; TDx=thalidomide, dexamethasone; VcTDx=VELCADE, thalidomide, dexamethasone; PN=peripheral neuropathy
@@ -211,20 +212,20 @@ VcR-CAP R-CHOP
 Incidence of PN (%)
 
 All GradePN 30 29
-≥Grade 2 PN 18 9
-≥Grade 3 PN 8 4
+≥ Grade 2 PN 18 9
+≥ Grade 3 PN 8 4
 Discontinuation due to PN (%) 2 < 1
 
 VcR-CAP=VELCADE, rituximab, cyclophosphamide, doxorubicin, and prednisone; R-CHOP= rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone; PN=peripheral neuropathy
 Peripheral neuropathy included the preferred terms: peripheral sensory neuropathy, neuropathy peripheral, peripheral motor neuropathy, and peripheral sensorimotor neuropathy
 
 Elderly MCL patients
-42.9% and 10.4% of patients in the VcR-CAP arm were in the range 65-74 years and ≥75 years of age, respectively.
-Although in patients aged ≥75 years, both VcR-CAP and R-CHOP were less tolerated, the serious adverse event rate in the VcR-CAP groups was 68%, compared to 42% in the R-CHOP group.
+42.9% and 10.4% of patients in the VcR-CAP arm were in the range 65-74 years and ≥ 75 years of age, respectively.
+Although in patients aged ≥ 75 years, both VcR-CAP and R-CHOP were less tolerated, the serious adverse event rate in the VcR-CAP groups was 68%, compared to 42% in the R-CHOP group.
 
 Retreatment of patients with relapsed multiple myeloma
 In a study in which VELCADE retreatment was administered in 130 patients with relapsed multiple myeloma, who previously had at least partial response on a VELCADE-containing regimen, the most common all-grade adverse events occurring in at least 25% of patients were thrombocytopenia (55%), neuropathy (40%), anaemia (37%), diarrhoea (35%), and constipation (28%).
-All grade peripheral neuropathy and grade ≥3 peripheral neuropathy were observed in 40% and 8.5% of patients, respectively.
+All grade peripheral neuropathy and grade ≥ 3 peripheral neuropathy were observed in 40% and 8.5% of patients, respectively.
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
@@ -304,67 +305,6 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 | Surgical and medical procedures | Rare | Macrophage activation |
 
 The safety profile of VELCADE in 240 MCL patients treated with VELCADE at 1.3 mg/m2 in combination with rituximab, cyclophosphamide, doxorubicin, and prednisone (VcR-CAP) versus 242 patients treated with rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone [R-CHOP] was relatively consistent to that observed in patients with multiple myeloma with main differences described below.
-
-| System Organ Class | Incidence | Adverse reaction |
-| --- | --- | --- |
-| Infections and | Very Common | Pneumonia* |
-| infestations | Common | Sepsis (inc septic shock)*, Herpes zoster (inc disseminated & |
-|  |  | ophthalmic), Herpes virus infection*, Bacterial infections*, |
-|  |  | Upper/lower respiratory tract infection*, Fungal infection*, |
-|  |  | Herpes simplex* |
-|  | Uncommon | Hepatitis B, Infection*, Bronchopneumonia |
-| Blood and | Very Common | Thrombocytopenia*, Febrile neutropenia, Neutropenia*, |
-| lymphatic system |  | Leukopenia*, Anaemia*, Lymphopenia* |
-| disorders | Uncommon | Pancytopenia* |
-| Immune system | Common | Hypersensitivity* |
-| disorders | Uncommon | Anaphylactic reaction |
-| Metabolism and | Very Common | Decreased appetite |
-| nutrition disorders | Common | Hypokalaemia*, Blood glucose abnormal*, Hyponatraemia*, |
-|  |  | Diabetes mellitus*, Fluid retention |
-|  | Uncommon | Tumour lysis syndrome |
-| Psychiatric | Common | Sleep disorders and disturbances* |
-| disorders |  |  |
-| Nervous system | Very Common | Peripheral sensory neuropathy, Dysaesthesia*, Neuralgia* |
-| disorders | Common | Neuropathies*, Motor neuropathy*, Loss of consciousness (inc |
-|  |  | syncope), Encephalopathy*, Peripheral sensorimotor |
-|  |  | neuropathy, Dizziness*, Dysgeusia*, Autonomic neuropathy |
-|  | Uncommon | Autonomic nervous system imbalance |
-| Eye disorders | Common | Vision abnormal* |
-| Ear and labyrinth | Common | Dysacusis (inc tinnitus)* |
-| disorders | Uncommon | Vertigo*, Hearing impaired (up to and inc deafness) |
-| Cardiac disorders | Common | Cardiac fibrillation (inc atrial), Arrhythmia*, Cardiac failure |
-|  |  | (inc left and right ventricular)*, Myocardial ischaemia, |
-|  |  | Ventricular dysfunction* |
-|  | Uncommon | Cardiovascular disorder (inc cardiogenic shock) |
-| Vascular disorders | Common | Hypertension*, Hypotension*, Orthostatic hypotension |
-| Respiratory, | Common | Dyspnoea*, Cough*, Hiccups |
-| thoracic and | Uncommon | Acute respiratory distress syndrome, Pulmonary embolism, |
-| mediastinal |  | Pneumonitis, Pulmonary hypertension, Pulmonary oedema (inc |
-| disorders |  | acute) |
-| Gastrointestinal | Very Common | Nausea and vomiting symptoms*, Diarrhoea*, Stomatitis*, |
-| disorders |  | Constipation |
-|  | Common | Gastrointestinal haemorrhage (inc mucosal)*, Abdominal |
-|  |  | distension, Dyspepsia, Oropharyngeal pain*, Gastritis*, Oral |
-|  |  | ulceration*, Abdominal discomfort, Dysphagia, Gastrointestinal |
-|  |  | inflammation*, Abdominal pain (inc gastrointestinal and splenic |
-|  |  | pain)*, Oral disorder* |
-|  | Uncommon | Colitis (inc clostridium difficile)* |
-| Hepatobiliary | Common | Hepatotoxicity (inc liver disorder) |
-| disorders | Uncommon | Hepatic failure |
-| Skin and | Very Common | Hair disorder* |
-| subcutaneous | Common | Pruritus*, Dermatitis*, Rash* |
-| tissue disorders |  |  |
-| Musculoskeletal | Common | Muscle spasms*, Musculoskeletal pain*, Pain in extremity |
-| and connective |  |  |
-| tissue disorders |  |  |
-| Renal and urinary | Common | Urinary tract infection* |
-| disorders |  |  |
-| General disorders | Very Common | Pyrexia*, Fatigue, Asthenia |
-| and administration | Common | Oedema (inc peripheral), Chills, Injection site reaction*, |
-| site conditions |  | Malaise* |
-| Investigations | Common | Hyperbilirubinaemia*, Protein analyses abnormal*, Weight |
-|  |  | decreased, Weight increased |
-| * Grouping of more than one MedDRA preferred term. |  |  |
 
 Notable differences in the safety profile of VELCADE administered subcutaneously versus intravenously as single agent
 In the Phase III study patients who received VELCADE subcutaneously compared to intravenous administration had 13% lower overall incidence of treatment emergent adverse reactions that were Grade 3 or higher in toxicity, and a 5% lower incidence of discontinuation of VELCADE.
