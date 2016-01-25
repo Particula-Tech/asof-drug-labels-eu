@@ -27,8 +27,9 @@ Bronchitis
 Tinea versicolor
 
 Uncommon: Pneumonia
-Not known**: Cryptococcal infections
+Not known**: Progressive multifocal leukoencephalopathy (PML)
 
+Cryptococcal infections
 Neoplasms benign, malignant and unspecified (incl cysts and polyps)
 
 Common: Basal cell carcinoma
@@ -113,13 +114,14 @@ Uncommon: Neutrophil count decreased
 
 * Not reported in Studies FREEDOMS, FREEDOMS II and TRANSFORMS.
 The frequency category was based on an estimated exposure of approximately 10, 000 patients to fingolimod in all clinical trials.
-** Cryptococcal infections, including isolated cases of cryptococcal meningitis, have been reported in the post-marketing setting (see section 4.4).
+** PML and cryptococcal infections (including isolated cases of cryptococcal meningitis) have been reported in the post-marketing setting (see section 4.4).
 *** Adverse drug reactions from spontaneous reports and literature
 
 Description of selected adverse reactions
 Infections
 In multiple sclerosis clinical studies the overall rate of infections (65.1%) at the 0.5 mg dose was similar to placebo.
 However, lower respiratory tract infections, primarily bronchitis and to a lesser extent herpes infection and pneumonia were more common in Gilenya-treated patients.
+
 Some cases of disseminated herpes infection, including fatal cases, have been reported even at the 0.5 mg dose.
 
 In the post-marketing setting, cases of infections with opportunistic pathogens, such as viral (e.g. varicella zoster virus [VZV], John Cunningham virus [JCV] causing Progressive Multifocal Leukoencephalopathy, herpes simplex virus [HSV]), fungal (e.g. cryptococci including cryptococcal meningitis) or bacterial (e.g. atypical mycobacterium), have been reported (see section 4.4).
@@ -130,7 +132,6 @@ The majority of cases occurred within the first 3-4 months of therapy.
 Some patients presented with blurred vision or decreased visual acuity, but others were asymptomatic and diagnosed on routine ophthalmological examination.
 The macular oedema generally improved or resolved spontaneously after discontinuation of Gilenya.
 The risk of recurrence after re-challenge has not been evaluated.
-
 Macular oedema incidence is increased in multiple sclerosis patients with a history of uveitis (17% with a history of uveitis vs. 0.6% without a history of uveitis).
 Gilenya has not been studied in multiple sclerosis patients with diabetes mellitus, a disease which is associated with an increased risk for macular oedema (see section 4.4).
 In renal transplant clinical studies in which patients with diabetes mellitus were included, therapy with fingolimod 2.5 mg and 5 mg resulted in a 2-fold increase in the incidence of macular oedema.
@@ -166,7 +167,6 @@ Recurrence of liver transaminase elevations has occurred upon re-challenge in so
 In clinical studies, transaminase elevations occurred at any time during treatment although the majority occurred within the first 12 months.
 ALT levels returned to normal within approximately 2 months after discontinuation of Gilenya.
 In a small number of patients (N=10 on 1.25 mg, N=2 on 0.5 mg) who experienced ALT elevations ≥5x ULN and who continued on Gilenya therapy, the ALT levels returned to normal within approximately 5 months (see also section 4.4, Liver function).
-
 Nervous system disorders
 In clinical studies, rare events involving the nervous system occurred in patients treated with fingolimod at higher doses (1.25 or 5.0 mg) including ischaemic and haemorrhagic strokes and neurological atypical disorders, such as acute disseminated encephalomyelitis (ADEM)-like events.
 

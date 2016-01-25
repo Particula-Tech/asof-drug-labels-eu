@@ -83,6 +83,16 @@ Patients with symptoms and signs consistent with cryptococcal meningitis (e.g. h
 If cryptococcal meningitis is diagnosed, fingolimod should be suspended and appropriate treatment should be initiated.
 A multidisciplinary consultation (i.e. infectious disease specialist) should be undertaken if re-initiation of fingolimod is warranted.
 
+Progressive multifocal leukoencephalopathy (PML) has been reported under fingolimod treatment since marketing authorisation (see section 4.8).
+PML is an opportunistic infection caused by John Cunningham virus (JCV), which may be fatal or result in severe disability.
+PML can only occur in the presence of a JCV infection.
+If JCV testing is undertaken, it should be considered that the influence of lymphopenia on the accuracy of anti-JCV antibody testing has not been studied in fingolimod-treated patients.
+It should also be noted that a negative anti-JCV antibody test does not preclude the possibility of subsequent JCV infection.
+Before initiating treatment with fingolimod, a baseline MRI should be available (usually within 3 months) as a reference.
+During routine MRI (in accordance with national and local recommendations), physicians should pay attention to PML suggestive lesions.
+MRI may be considered as part of increased vigilance in patients considered at increased risk of PML.
+If PML is suspected, MRI should be performed immediately for diagnostic purposes and treatment with fingolimod should be suspended until PML has been excluded.
+
 Elimination of fingolimod following discontinuation of therapy may take up to two months and vigilance for infection should therefore be continued throughout this period.
 Patients should be instructed to report symptoms of infection up to 2 months after discontinuation of fingolimod.
 
@@ -107,7 +117,6 @@ In clinical trials, fingolimod was discontinued if the elevation exceeded 5 time
 Recurrence of liver transaminase elevations occurred with rechallenge in some patients, supporting a relationship to fingolimod.
 In clinical studies, transaminase elevations occurred at any time during treatment although the majority occurred within the first 12 months.
 Serum transaminase levels returned to normal within approximately 2 months after discontinuation of fingolimod.
-
 Gilenya has not been studied in patients with severe pre-existing hepatic injury (Child-Pugh class C) and should not be used in these patients (see section 4.3).
 
 Due to the immunosuppressive properties of fingolimod, initiation of treatment should be delayed in patients with active viral hepatitis until resolution.
@@ -116,6 +125,7 @@ Recent (i.e. within last 6 months) transaminase and bilirubin levels should be a
 In the absence of clinical symptoms, liver transaminases should be monitored at Months 1, 3, 6, 9 and 12 on therapy and periodically thereafter.
 If liver transaminases rise above 5 times the ULN, more frequent monitoring should be instituted, including serum bilirubin and alkaline phosphatase (ALP) measurement.
 With repeated confirmation of liver transaminases above 5 times the ULN, treatment with Gilenya should be interrupted and only re-commenced once liver transaminase values have normalised.
+
 Patients who develop symptoms suggestive of hepatic dysfunction, such as unexplained nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine, should have liver enzymes checked and Gilenya should be discontinued if significant liver injury is confirmed (for example liver transaminase levels greater than 5-fold the ULN and/or serum bilirubin elevations).
 Resumption of therapy will be dependent on whether or not another cause of liver injury is determined and on the benefits to patient of resuming therapy versus the risks of recurrence of liver dysfunction.
 
@@ -142,7 +152,6 @@ Symptoms reported included sudden onset of severe headache, nausea, vomiting, al
 Symptoms of PRES are usually reversible but may evolve into ischaemic stroke or cerebral haemorrhage.
 Delay in diagnosis and treatment may lead to permanent neurological sequelae.
 If PRES is suspected, Gilenya should be discontinued.
-
 Prior treatment with immunosuppressive or immunomodulatory therapies
 There have been no studies performed to evaluate the efficacy and safety of Gilenya when switching patients from teriflunomide, dimethyl fumarate or alemtuzumab treatment to Gilenya.
 When switching patients from another disease modifying therapy to Gilenya, the half-life and mode of action of the other therapy must be considered in order to avoid an additive immune effect whilst at the same time minimising the risk of disease reactivation.
@@ -151,6 +160,7 @@ A CBC is recommended prior to initiating Gilenya to ensure that immune effects o
 Gilenya can generally be started immediately after discontinuation of interferon or glatiramer acetate.
 
 For dimethyl fumarate, the washout period should be sufficient for CBC to recover before treatment with Gilenya is started.
+
 Due to the long half-life of natalizumab, elimination usually takes up to 2-3 months following discontinuation.
 Teriflunomide is also eliminated slowly from the plasma.
 Without an accelerated elimination procedure, clearance of teriflunomide from plasma can take from several months up to 2 years.
