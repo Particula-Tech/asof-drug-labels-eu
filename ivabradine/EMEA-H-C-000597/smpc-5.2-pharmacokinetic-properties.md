@@ -37,8 +37,10 @@ Special populations
 - Hepatic impairment: in patients with mild hepatic impairment (Child Pugh score up to 7) unbound AUC of ivabradine and the main active metabolite were about 20% higher than in subjects with normal hepatic function.
 Data are insufficient to draw conclusions in patients with moderate hepatic impairment.
 No data are available in patients with severe hepatic impairment (see sections 4.2 and 4.3).
+- Paediatric population: The pharmacokinetic profile of ivabradine in paediatric chronic heart failure patients aged 6 months to less than 18 years is similar to the pharmacokinetics described in adults when a titration scheme based on age and weight is applied.
 
 Pharmacokinetic/pharmacodynamic (PK/PD) relationship
 PK/PD relationship analysis has shown that heart rate decreases almost linearly with increasing ivabradine and S 18982 plasma concentrations for doses of up to 15-20 mg twice daily.
 At higher doses, the decrease in heart rate is no longer proportional to ivabradine plasma concentrations and tends to reach a plateau.
 High exposures to ivabradine that may occur when ivabradine is given in combination with strong CYP3A4 inhibitors may result in an excessive decrease in heart rate although this risk is reduced with moderate CYP3A4 inhibitors (see sections 4.3, 4.4 and 4.5).
+The PK/PD relationship of ivabradine in paediatric chronic heart failure patients aged 6 months to less than 18 years is similar to the PK/PD relationship described in adults.

@@ -41,9 +41,8 @@ Caution should be exercised when using ivabradine in patients with moderate hepa
 Ivabradine is contra-indicated for use in patients with severe hepatic insufficiency, since it has not been studied in this population and a large increase in systemic exposure is anticipated (see sections 4.3 and 5.2).
 
 Paediatric population
-The safety and efficacy of ivabradine in children aged below 18 years have not yet been established.
-No data are available.
+The safety and efficacy of ivabradine in the treatment of chronic heart failure in children aged below 18 years have not been established.
+Available data are described in sections 5.1 and 5.2 but no recommendation on a posology can be made.
 
 Method of administration
-
 Tablets must be taken orally twice daily, i.e. once in the morning and once in the evening during meals (see section 5.2).

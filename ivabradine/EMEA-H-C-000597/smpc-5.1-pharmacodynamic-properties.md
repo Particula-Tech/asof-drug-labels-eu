@@ -35,7 +35,10 @@ The efficacy of 5 and 7.5 mg twice daily was consistent across studies on exerci
 The twice-daily dosing regimen of ivabradine gave uniform efficacy over 24 hours.
 
 In a 889-patients randomised placebo-controlled study, ivabradine given on top of atenolol 50 mg o.d. showed additional efficacy on all ETT parameters at the trough of drug activity (12 hours after oral intake).
-In a 725-patients randomised placebo-controlled study, ivabradine did not show additional efficacy on top of amlodipine at the trough of drug activity (12 hours after oral intake) while an additional efficacy was shown at peak (3-4 hours after oral intake).
+In a 725-patients randomised placebo-controlled study, ivabradine did not show additional efficacy on top of amlodipine 10 mg o.d. at the trough of drug activity (12 hours after oral intake) while an additional efficacy was shown at peak (3-4 hours after oral intake).
+
+In a 1277-patients randomised placebo-controlled study, ivabradine demonstrated a statistically significant additional efficacy on response to treatment (defined as a decrease of at least 3 angina attacks per week and/or an increase in the time to 1 mm ST segment depression of at least 60 s during a treadmill ETT) on top of amlodipine 5 mg o.d. or nifedipine GITS 30 mg o.d. at the trough of drug activity (12 hours after oral ivabradine intake) over a 6-week treatment period (OR = 1.3, 95% CI [1.0–1.7]; p=0.012).
+Ivabradine did not show additional efficacy on secondary endpoints of ETT parameters at the trough of drug activity while an additional efficacy was shown at peak (3-4 hours after oral ivabradine intake).
 
 Ivabradine efficacy was fully maintained throughout the 3- or 4-month treatment periods in the efficacy trials.
 There was no evidence of pharmacological tolerance (loss of efficacy) developing during treatment nor of rebound phenomena after abrupt treatment discontinuation.
@@ -92,9 +95,26 @@ In the subgroup of patients with HR ≥ 75 bpm and on the recommended target dos
 There was a significant improvement in NYHA class at last recorded value, 887 (28%) of patients on ivabradine improved versus 776 (24%) of patients on placebo (p=0.001).
 
 Paediatric population
+A randomised, double blind, placebo controlled study was performed in 116 paediatric patients (17 aged [6-12[months, 36 aged [1-3[ years and 63 aged [3-18[ years) with CHF and dilated cardiomyopathy (DCM) on top of optimal background treatment.
+74 received ivabradine (ratio 2:1).
+The starting dose was 0.02 mg/kg bid in age-subset [6-12[months, 0.05 mg/kg bid in [1-3[ years and [3-18[ years <40 kg, and 2.5 mg bid in [3-18[ years and ≥ 40 kg.
+The dose was adapted depending on the therapeutic response with maximum doses of 0.2 mg/kg bid, 0.3 mg/kg bid and 15 mg bid respectively.
+In this study, ivabradine was administered as oral liquid formulation or tablet twice daily.
+The absence of pharmacokinetic difference between the 2 formulations was shown in an open-label randomised two-period cross-over study in 24 adult healthy volunteers.
+A 20% heart rate reduction, without bradycardia, was achieved by 69.9% of patients in the ivabradine group versus 12.2% in the placebo group during the titration period of 2 to 8 weeks (Odds Ratio: E = 17.24, 95% CI [5.91 ; 50.30]).
+The mean ivabradine doses allowing to achieve a 20% HRR were 0.13 ± 0.04 mg/kg bid, 0.10 ± 0.04 mg/kg bid and 4.1 ± 2.2 mg bid in the age subsets [1-3[ years, [3-18[ years and <40 kg and [3-18[ years and ≥ 40 kg, respectively.
+Mean LVEF increased from 31.8% to 45.3% at M012 in ivabradine group versus 35.4% to 42.3% in the placebo group.
+There was an improvement in NYHA class in 37.7% of ivabradine patients versus 25.0% in the placebo group.
+These improvements were not statistically significant.
+The safety profile, over one year, was similar to the one described in adult CHF patients.
+
+The long-term effects of ivabradine on growth, puberty and general development as well as the long-term efficacy of therapy with ivabradine in childhood to reduce cardiovascular morbidity and mortality have not been studied.
+
 The European Medicines Agency has waived the obligation to submit the results of studies with Procoralan in all subsets of the paediatric population in the treatment of angina pectoris.
-The European Medicines Agency has deferred the obligation to submit the results of studies with Procoralan in one or more subsets of the paediatric population in the treatment of chronic heart failure (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with Procoralan in children aged 0 to less than 6 months in the treatment of chronic heart failure.
 
 [Procoralan 7.5 mg film-coated tablets]
 
 The SHIFT study was a large multicentre, international, randomised double-blind placebo controlled outcome trial. conducted in 6505 adult patients with stable chronic CHF (for ≥ 4 weeks), NYHA class II to IV, with a reduced left ventricular ejection fraction (LVEF ≤ 35%) and a resting heart rate ≥ 70 bpm.
+
+The long-term effects of ivabradine on growth, puberty and general as well as the long-term efficacy of therapy with ivabradine in childhood to reduce cardiovascular morbidity and mortality have not been studied.

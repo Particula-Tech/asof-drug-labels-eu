@@ -28,6 +28,7 @@ The potent CYP3A4 inhibitors ketoconazole (200 mg once daily) and josamycin (1 g
 
 Moderate CYP3A4 inhibitors: specific interaction studies in healthy volunteers and patients have shown that the combination of ivabradine with the heart rate reducing agents diltiazem or verapamil resulted in an increase in ivabradine exposure (2 to 3 fold increase in AUC) and an additional heart rate reduction of 5 bpm.
 The concomitant use of ivabradine with these medicinal products is contraindicated (see section 4.3).
+
 Concomitant use not recommended
 Grapefruit juice: ivabradine exposure was increased by 2-fold following the co-administration with grapefruit juice.
 Therefore the intake of grapefruit juice should be avoided.
