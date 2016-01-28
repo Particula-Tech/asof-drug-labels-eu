@@ -68,6 +68,13 @@ The safety and efficacy of Sovaldi have not been established in patients with de
 Patients awaiting liver transplantation
 The duration of administration of Sovaldi in patients awaiting liver transplantation should be guided by an assessment of the potential benefits and risks for the individual patient (see section 5.1).
 
+Liver transplant recipients
+Sovaldi in combination with ribavirin is recommended for 24 weeks in liver transplant recipients.
+A starting ribavirin dose of 400 mg administered orally in two divided doses with food is recommended.
+If the starting dose of ribavirin is well-tolerated, the dose can be titrated up to a maximum of 1,000-1,200 mg daily (1,000 mg for patients weighing <75 kg and 1,200 mg for patients weighing
+≥75 kg).
+If the starting dose of ribavirin is not well-tolerated, the dose should be reduced as clinically indicated based on haemoglobin levels (see section 5.1).
+
 Paediatric population
 The safety and efficacy of Sovaldi in children and adolescents aged <18 years have not yet been established.
 No data are available.
@@ -81,7 +88,6 @@ The tablet should be taken with food (see section 5.2).
 Patients should be instructed that if vomiting occurs within 2 hours of dosing an additional tablet should be taken.
 If vomiting occurs more than 2 hours after dosing, no further dose is needed.
 These recommendations are based on the absorption kinetics of sofosbuvir and GS-331007 suggesting that the majority of the dose is absorbed within 2 hours after dosing.
-
 If a dose is missed and it is within 18 hours of the normal time, patients should be instructed to take the tablet as soon as possible and then patients should take the next dose at the usual time.
 If it is after 18 hours then patients should be instructed to wait and take the next dose at the usual time.
 Patients should be instructed not to take a double dose.

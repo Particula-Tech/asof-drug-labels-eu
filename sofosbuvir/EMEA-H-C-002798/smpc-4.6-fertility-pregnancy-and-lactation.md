@@ -19,8 +19,8 @@ However, if ribavirin is co-administered with sofosbuvir, the contraindications 
 
 Breast-feeding
 It is unknown whether sofosbuvir and its metabolites are excreted in human milk.
-Available pharmacokinetic data in animals has shown excretion of metabolites in milk (for details see section 5.3).
 
+Available pharmacokinetic data in animals has shown excretion of metabolites in milk (for details see section 5.3).
 A risk to newborns/infants cannot be excluded.
 Therefore, Sovaldi should not be used during breast-feeding.
 

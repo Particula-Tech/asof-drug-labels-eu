@@ -6,9 +6,11 @@ Intracellular hydrolytic prodrug cleavage catalysed by enzymes including carboxy
 The predominant inactive circulating metabolite GS-331007 that accounts for greater than 90% of drug-related material systemic exposure is formed through pathways sequential and parallel to formation of active metabolite.
 The parent sofosbuvir accounts for approximately 4% of drug-related material systemic exposure (see section 5.2).
 In clinical pharmacology studies, both sofosbuvir and GS-331007 were monitored for purposes of pharmacokinetic analyses.
-
 Sofosbuvir is a substrate of drug transporter P-gp and breast cancer resistance protein (BCRP) while GS-331007 is not.
-Medicinal products that are potent P-gp inducers in the intestine (e.g. rifampicin, St. John’s wort, carbamazepine and phenytoin) may decrease sofosbuvir plasma concentration leading to reduced therapeutic effect of Sovaldi and thus should not be used with Sovaldi (see section 4.4).
+
+Medicinal products that are potent P-gp inducers in the intestine (rifampicin, rifabutin, St. John’s wort, carbamazepine, phenobarbital and phenytoin) may significantly decrease sofosbuvir plasma concentration leading to reduced therapeutic effect of Sovaldi and thus are contraindicated with Sovaldi (see section 4.3).
+Medicinal products that are moderate P-gp inducers in the intestine (e.g. oxcarbazepine and modafinil) may decrease sofosbuvir plasma concentration leading to reduced therapeutic effect of Sovaldi.
+Co-administration with such medicinal products is not recommended with Sovaldi (see section 4.4).
 Co-administration of Sovaldi with medicinal products that inhibit P-gp and/or BCRP may increase sofosbuvir plasma concentration without increasing GS-331007 plasma concentration, thus Sovaldi may be co-administered with P-gp and/or BCRP inhibitors.
 Sofosbuvir and GS-331007 are not inhibitors of P-gp and BCRP and thus are not expected to increase exposures of medicinal products that are substrates of these transporters.
 
@@ -23,15 +25,19 @@ Table 3: Interactions between Sovaldi and other medicinal products
 | Medicinal product by therapeutic areas | Effects on drug levels. Mean ratio (90% confidence interval) for AUC, Cmax, Cmina,b | Recommendation concerning co-administration with Sovaldi |
 | --- | --- | --- |
 | ANALEPTICS |  |  |
-| Modafinil | Interaction not studied. Expected: ↓ Sofosbuvir ↓ GS-331007 | Co-administration of Sovaldi with modafinil is expected to decrease the concentration of sofosbuvir, leading to reduced therapeutic effect of Sovaldi. Such co-administration is not recommended. |
+| Modafinil | Interaction not studied. Expected: ↓ Sofosbuvir ↔ GS-331007 | Co-administration of Sovaldi with modafinil is expected to decrease the concentration of sofosbuvir, leading to reduced therapeutic effect of Sovaldi. Such co-administration is not recommended. |
+| ANTIARRHYTHMICS |  |  |
+| Amiodarone | Interaction not studied. | Use only if no other alternative is available. Close monitoring is recommended if this medicinal product is administered with Sovaldi + Daklinza (see sections 4.4 and 4.8). |
 | ANTICONVULSANTS |  |  |
-| Carbamazepine Phenytoin Phenobarbital Oxcarbazepine | Interaction not studied. Expected: ↓ Sofosbuvir ↓ GS-331007 | Co-administration of Sovaldi with carbamazepine, phenytoin, phenobarbital or oxcarbazepine is expected to decrease the concentration of sofosbuvir, leading to reduced therapeutic effect of Sovaldi. Such co-administration is not recommended. Sovaldi should not be used with carbamazepine, phenytoin, phenobarbital or oxcarbazepine, potent intestinal P-gp inducers (see section 4.4). |
+| Carbamazepine Phenobarbital Phenytoin | Interaction not studied. Expected: ↓ Sofosbuvir ↔ GS-331007 | Sovaldi is contraindicated with carbamazepine, phenobarbital and phenytoin, potent intestinal P-gp inducers (see section 4.3). |
+| Oxcarbazepine | Interaction not studied. Expected: ↓ Sofosbuvir ↔ GS-331007 | Co-administration of Sovaldi with oxcarbazepine is expected to decrease the concentration of sofosbuvir, leading to reduced therapeutic effect of Sovaldi. Such co-administration is not recommended (see section 4.4). |
 | ANTIMYCOBACTERIALS |  |  |
-| Rifabutin Rifampicin Rifapentine | Interaction not studied. Expected: ↓ Sofosbuvir ↓ GS-331007 | Co-administration of Sovaldi with rifabutin or rifapentine is expected to decrease the concentration of sofosbuvir, leading to reduced therapeutic effect of Sovaldi. Such co-administration is not recommended. Sovaldi should not be used with rifampicin, a potent intestinal P-gp inducer (see section 4.4). |
+| Rifampicinf (600 mg single dose) | Sofosbuvir ↓ Cmax 0.23 (0.19, 0.29) ↓ AUC 0.28 (0.24, 0.32) Cmin (NA) GS-331007 ↔ Cmax 1.23 (1.14, 1.34) ↔ AUC 0.95 (0.88, 1.03) Cmin (NA) | Sovaldi is contraindicated with rifampicin, a potent intestinal P-gp inducer (see section 4.3). |
+| Rifabutin Rifapentine | Interaction not studied. Expected: ↓ Sofosbuvir ↔ GS-331007 | Sovaldi is contraindicated with rifabutin, a potent intestinal P-gp inducer (see section 4.3). Co-administration of Sovaldi with rifapentine is expected to decrease the concentration of sofosbuvir, leading to reduced therapeutic effect of Sovaldi. Such co-administration is not recommended. |
 | HERBAL SUPPLEMENTS |  |  |
-| St. John’s wort (Hypericum perforatum) | Interaction not studied. Expected: ↓ Sofosbuvir ↓ GS-331007 | Sovaldi should not be used with St. John’s wort, a potent intestinal P-gp inducer (see section 4.4). |
+| St. John’s wort (Hypericum perforatum) | Interaction not studied. Expected: ↓ Sofosbuvir ↔ GS-331007 | Sovaldi is contraindicated with St. John’s wort, a potent intestinal P-gp inducer (see section 4.3). |
 | HCV ANITIVIRAL AGENTS: HCV PROTEASE INHIBITORS |  |  |
-| Boceprevir (BOC) Telaprevir (TPV) | Interaction not studied. Expected: ↑ Sofosbuvir (TPV) ↔ Sofosbuvir (BOC) ↔ GS-331007 (TPV or BOC) | No drug-drug interactio data exists regarding the co-administration of Sovaldi with boceprevir or telaprevir. |
+| Boceprevir (BOC) Telaprevir (TPV) | Interaction not studied. Expected: ↑ Sofosbuvir (TPV) ↔ Sofosbuvir (BOC) ↔ GS-331007 (TPV or BOC) | No drug-drug interaction data exists regarding the co-administration of Sovaldi with boceprevir or telaprevir. |
 | NARCOTIC ANALGESICS |  |  |
 | Methadonef (Methadone maintenance therapy [30 to 130 mg/daily]) | R-methadone ↔ Cmax 0.99 (0.85, 1.16) ↔ AUC 1.01 (0.85, 1.21) ↔ Cmin 0.94 (0.77, 1.14) S-methadone ↔ Cmax 0.95 (0.79, 1.13) ↔ AUC 0.95 (0.77, 1.17) ↔ Cmin 0.95 (0.74, 1.22) Sofosbuvir ↓ Cmax 0.95c (0.68, 1.33) ↑ AUC 1.30c (1.00, 1.69) Cmin (NA) GS-331007 ↓ Cmax 0.73c (0.65, 0.83) ↔ AUC 1.04c (0.89, 1.22) Cmin (NA) | No dose adjustment of sofosbuvir or methadone is required when sofosbuvir and methadone are used concomitantly. |
 | IMMUNOSUPPRESSANTS |  |  |
@@ -51,6 +57,3 @@ Table 3: Interactions between Sovaldi and other medicinal products
 
 NA = not available/not applicable a. Mean ratio (90% CI) of co-administered drug pharmacokinetics with/without sofosbuvir and mean ratio of sofosbuvir and GS-331007 with/without co-administered drug.
 No effect = 1.00 b. All interaction studies conducted in healthy volunteers c. Comparison based on historical control d. Administered as Atripla e. Bioequivalence boundary 80%-125% f. Equivalence boundary 70%-143%
-
-Medicinal products that are potent P-gp inducers in the intestine (rifampicin, St. John’s wort, carbamazepine and phenytoin) may significantly decrease sofosbuvir plasma concentration leading to reduced therapeutic effect.
-For this reason, sofosbuvir should not be co-administered with known inducers of P-gp.

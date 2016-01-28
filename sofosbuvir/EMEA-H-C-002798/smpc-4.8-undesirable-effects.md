@@ -61,6 +61,16 @@ The safety profile of sofosbuvir and ribavirin in HCV/HIV co-infected subjects w
 Patients awaiting liver transplantation
 The safety profile of sofosbuvir and ribavirin in HCV infected subjects prior to liver transplantation was similar to that observed in subjects treated with sofosbuvir and ribavirin in Phase 3 clinical studies (see section 5.1).
 
+Liver transplant recipients
+The safety profile of sofosbuvir and ribavirin in liver transplant recipients with chronic hepatitis C was similar to that observed in subjects treated with sofosbuvir and ribavirin in Phase 3 clinical studies (see section 5.1).
+In study 0126, decreases in haemoglobin during treatment were very common with 32.5% (13/40 subjects) experiencing a decline in haemoglobin to <10 g/dL, 1 of whom also had a decline to <8.5 g/dL.
+Eight subjects (20%) received epoetin and/or a blood product.
+In 5 subjects (12.5%), study drugs were discontinued, modified or interrupted due to adverse events.
+
+Description of selected adverse reactions
+Cardiac arrhythmias
+Cases of severe bradycardia and heart block have been observed when Sovaldi is used in combination with Daklinza and concomitant amiodarone and/or other drugs that lower heart rate (see sections 4.4 and 4.5).
+
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.

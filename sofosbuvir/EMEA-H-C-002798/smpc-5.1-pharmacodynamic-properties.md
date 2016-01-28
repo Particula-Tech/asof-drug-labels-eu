@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Direct-acting antiviral; ATC code: not yet assigned
+Pharmacotherapeutic group: Direct-acting antiviral; ATC code: J05AX15
 
 Mechanism of action
 Sofosbuvir is a pan-genotypic inhibitor of the HCV NS5B RNA-dependent RNA polymerase, which is essential for viral replication.
@@ -16,7 +16,6 @@ The mean ± SD EC50 of sofosbuvir against chimeric replicons encoding NS5B seque
 In these assays, the in vitro antiviral activity of sofosbuvir against the less common genotypes 4, 5 and 6 was similar to that observed for genotypes 1, 2 and 3.
 
 The presence of 40% human serum had no effect on the anti-HCV activity of sofosbuvir.
-
 Resistance
 In cell culture
 HCV replicons with reduced susceptibility to sofosbuvir have been selected in cell culture for multiple genotypes including 1b, 2a, 2b, 3a, 4a, 5a and 6a.
@@ -63,6 +62,7 @@ Sustained virologic response (SVR) was the primary endpoint to determine the HCV
 Clinical studies in subjects with genotype 1, 4, 5 and 6 chronic hepatitis C
 Treatment-naïve subjects - NEUTRINO (study 110)
 NEUTRINO was an open-label, single-arm study that evaluated 12 weeks of treatment with sofosbuvir in combination with peginterferon alfa 2a and ribavirin in treatment-naïve subjects with genotype 1, 4, 5 or 6 HCV infection.
+
 Treated subjects (n = 327) had a median age of 54 years (range: 19 to 70); 64% of the subjects were male; 79% were White; 17% were Black; 14% were Hispanic or Latino; mean body mass index was 29 kg/m2 (range: 18 to 56 kg/m2); 78% had baseline HCV RNA greater than 6 log10 IU/mL; 17% had cirrhosis; 89% had HCV genotype 1 and 11% had HCV genotype 4, 5 or 6.
 Table 5 presents the response rates for the treatment group of sofosbuvir + peginterferon alfa + ribavirin.
 
@@ -99,7 +99,6 @@ SVR12 rates were similarly high in subjects with baseline IL28B C/C allele [94/9
 
 27/28 patients with genotype 4 HCV achieved SVR12.
 A single subject with genotype 5 and all 6 subjects with genotype 6 HCV infection in this study achieved SVR12.
-
 Clinical studies in subjects with genotype 2 and 3 chronic hepatitis C
 Treatment-naïve adults - FISSION (study 1231)
 FISSION was a randomised, open-label, active-controlled study that evaluated 12 weeks of treatment with sofosbuvir and ribavirin compared to 24 weeks of treatment with peginterferon alfa 2a and ribavirin in treatment-naïve subjects with genotype 2 or 3 HCV infection.
@@ -110,6 +109,7 @@ Subjects with genotype 2 or 3 HCV were enrolled in an approximately 1:3 ratio.
 
 Treated subjects (n = 499) had a median age of 50 years (range: 19 to 77); 66% of the subjects were male; 87% were White; 3% were Black; 14% were Hispanic or Latino; mean body mass index was 28 kg/m2 (range: 17 to 52 kg/m2); 57% had baseline HCV RNA levels greater than 6 log10 IU/mL; 20% had cirrhosis; 72% had HCV genotype 3.
 Table 7 presents the response rates for the treatment groups of sofosbuvir + ribavirin and peginterferon alfa + ribavirin.
+
 Table 7: Response rates in study FISSION
 
 |  | SOF+RBV 12 weeks (n = 256)a | PEG+RBV 24 weeks (n = 243) |
@@ -164,6 +164,7 @@ Table 9: Response rates in study POSITRON
 
 a. The denominator for relapse is the number of subjects with HCV RNA <LLOQ at their last on-treatment assessment.
 b. Other includes subjects who did not achieve SVR12 and did not meet virologic failure criteria (e.g., lost to follow-up).
+
 The SVR12 rate in the sofosbuvir + ribavirin treatment group was statistically significant when compared to placebo (p <0.001).
 
 Table 10 presents the subgroup analysis by genotype for cirrhosis and interferon classification.
@@ -187,7 +188,6 @@ Subjects were randomised in a 1:1 ratio and stratified by cirrhosis (presence ve
 
 Treated subjects (n = 201) had a median age of 56 years (range: 24 to 70); 70% of the subjects were male; 87% were White; 3% were Black; 9% were Hispanic or Latino; mean body mass index was 29 kg/m2 (range: 19 to 44 kg/m2); 73% had baseline HCV RNA levels greater than 6 log10 IU/mL; 34% had cirrhosis; 63% had HCV genotype 3; 75% were prior relapsers.
 Table 11 presents the response rates for the treatment groups of sofosbuvir + ribavirin for 12 weeks and 16 weeks.
-
 Table 11: Response rates in study FUSION
 
 |  | SOF+RBV 12 weeks (n = 103)a | SOF+RBV 16 weeks (n = 98)a |
@@ -206,6 +206,7 @@ c. Other includes subjects who did not achieve SVR12 and did not meet virologic 
 
 Table 12 presents the subgroup analysis by genotype for cirrhosis and response to prior
 HCV treatment.
+
 Table 12: SVR12 rates for selected subgroups by genotype in study FUSION
 
 |  | Genotype 2 |  | Genotype 3 |  |
@@ -229,7 +230,6 @@ Treated subjects (n = 419) had a median age of 51 years (range: 19 to 74); 60% o
 Table 13 presents the response rates for the treatment groups of sofosbuvir + ribavirin for 12 weeks and 24 weeks.
 
 Placebo recipients are not included in the tables since none achieved SVR12.
-
 Table 13: Response rates in study VALENCE
 
 |  | Genotype 2 SOF+RBV 12 weeks (n = 73) | Genotype 3 SOF+RBV 12 weeks (n = 11) | Genotype 3 SOF+RBV 24 weeks (n = 250) |
@@ -271,7 +271,6 @@ Subjects were either not on antiretroviral therapy with a CD4+ cell count >500 c
 Preliminary SVR12 data are available for 210 subjects.
 
 Table 15 presents the response rates by genotype and exposure to prior HCV treatment.
-
 Table 15: Response rates in study PHOTON-1
 
 |  | Genotype 2/3 treatment-naïve SOF+RBV 12 weeks (n = 68) | Genotype 2/3 treatment-experienced SOF+RBV 24 weeks (n = 28) | Genotype 1 treatment-naïve SOF+RBV 24 weeks (n = 114) |
@@ -316,6 +315,17 @@ a. Evaluable subjects are defined as those who have reached the specified time p
 b. pTVR: post-transplant virologic response (HCV RNA <LLOQ at 12 weeks post-procedure).
 
 In patients that discontinued therapy at 24 weeks, according to protocol, the relapse rate was 11/15.
+
+Liver transplant recipients - Study 0126
+Sofosbuvir was studied in an open-label clinical study evaluating the safety and efficacy of 24 weeks of treatment with sofosbuvir and ribavirin in liver transplant recipients with chronic hepatitis C. Eligible subjects were ≥18 years old and had undergone liver transplantation 6 to 150 months prior to screening.
+Subjects had HCV RNA ≥104 IU/mL at screening and documented evidence of chronic HCV infection pre-transplantation.
+The starting dose of ribavirin was 400 mg given in a divided daily dose.
+If subjects maintained haemoglobin levels ≥12 g/dL, ribavirin dose was increased at weeks 2, 4, and up to every 4 weeks until the appropriate weight-based dose was reached (1,000 mg daily in subjects <75 kg, 1,200 mg daily in subjects ≥75 kg).
+The median ribavirin dose was 600 mg-800 mg daily at weeks 4-24.
+
+Forty subjects (33 with HCV genotype 1 infection, 6 with HCV genotype 3 infection, and 1 with HCV genotype 4 infection) were enrolled, 35 of whom had previously failed interferon-based treatment, and 16 of whom had cirrhosis.
+28 out of 40 (70%) subjects achieved SVR12: 22/33 (73%) with HCV genotype 1 infection, 6/6 (100%) with HCV genotype 3 infection, and 0/1 (0%) with HCV genotype 4 infection.
+All subjects who achieved SVR12 achieved SVR24 and SVR48.
 
 Overview of outcomes by therapeutic regimen and treatment duration, a comparison across studies The following tables (Table 18 to Table 21) present data from Phase 2 and Phase 3 studies relevant to the dosing to help clinicians determine the best regimen for individual patients.
 
