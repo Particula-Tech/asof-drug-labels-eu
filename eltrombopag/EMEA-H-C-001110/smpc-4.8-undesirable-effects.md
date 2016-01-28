@@ -2,22 +2,22 @@
 
 Summary of safety profile
 
-Based on an analysis of all chronic ITP patients receiving eltrombopag in 3 controlled and 2 uncontrolled clinical studies, the overall incidence of adverse reactions in subjects treated with eltrombopag was 82 % (367/446).
-The median duration of exposure to eltrombopag was 304 days and patient year’s exposure was 377 in this study population.
+Based on an analysis of all chronic ITP patients receiving eltrombopag in 4 controlled and 2 uncontrolled clinical studies, the overall incidence of adverse reactions in subjects treated with eltrombopag was 79 % (433/530).
+The mean duration of exposure to eltrombopag was 260 days and patient year’s exposure was 390 in this study population.
 
 ENABLE 1 (TPL103922 N=716) and ENABLE 2 (TPL108390 N=805) were randomized, double-blind, placebo-controlled, multicentre studies to assess the efficacy and safety of eltrombopag in thrombocytopenic subjects with HCV infection who were otherwise eligible to initiate antiviral therapy with interferon and ribavirin therapy.
 
 In the HCV studies the safety population consisted of all randomized subjects who received double-blind study drug during Part 2 of ENABLE 1 (eltrombopag treatment N=449, placebo N=232) and ENABLE 2 (eltrombopag treatment N=506, placebo N=252).
 Subjects are analysed according to the treatment received (total safety double blind population, eltrombopag N=955 and placebo N=484).
+
 The safety of eltrombopag in severe aplastic anaemia was assessed in a single-arm, open-label trial (N=43) in which 12 patients (28 %) were treated for > 6 months and 9 patients (21 %) were treated for > 1 year.
 
 The most important serious adverse reactions identified in the ITP or HCV trials were hepatotoxicity and thrombotic/thromboembolic events.
 
 The most common adverse reactions (experienced by at least 10 % of patients) of any grade in the ITP or HCV trials included; headache, anaemia, decreased appetite, insomnia, cough, nausea, diarrhoea, alopecia, pruritus, myalgia, pyrexia, fatigue, influenza like illness, asthenia, chills and peripheral oedema.
-
 List of adverse reactions
 
-The adverse reactions in the ITP studies (N = 446), the HCV studies (N = 955), the SAA studies
+The adverse reactions in the ITP studies (N = 550), the HCV studies (N = 955), the SAA studies
 (N = 43) and post-marketing reports are listed below by MedDRA system organ class and by frequency.
 
 Very common (≥ 1/10)
@@ -33,7 +33,7 @@ Infections and infestations
 
 Uncommon Pharyngitis, Urinary tract infection, Influenza, Oral herpes, Pneumonia,
 
-Sinusitis, Tonsillitis, Respiratory tract infection
+Sinusitis, Tonsillitis, Respiratory tract infection, Gingivitis, Skin infection
 
 Neoplasms benign, malignant and unspecified (incl cysts and polyps)
 
@@ -54,6 +54,7 @@ Metabolism and nutrition disorders
 Uncommon Anorexia, Hypokalaemia, Decreased appetite, Gout, Hypocalcaemia, Blood
 
 uric acid increased
+
 Psychiatric disorders
 
 Uncommon Sleep disorder, Depression, Apathy, Mood altered, Tearfulness
@@ -64,7 +65,6 @@ Common Paraesthesia
 Uncommon Hypoaesthesia, Somnolence, Migraine, Tremor, Balance disorder,
 
 Dysaesthesia, Hemiparesis, Migraine with aura, Neuropathy peripheral, Peripheral sensory neuropathy, Speech disorder, Toxic neuropathy, Vascular headache
-
 Eye disorders
 
 Common Dry eye
@@ -96,7 +96,7 @@ Oropharyngeal blistering, Oropharyngeal pain, Sinus disorder, Sleep apnoea syndr
 
 Gastrointestinal disorders
 
-Common Nausea, Diarrhoea
+Common Nausea, Diarrhoea, Mouth ulceration
 Uncommon Dry mouth, Vomiting, Abdominal pain, Glossodynia, Mouth haemorrhage,
 
 Abdominal tenderness, Faeces discoloured, Flatulence, Food poisoning, Frequent bowel movements, Haematemesis, Oral discomfort
@@ -110,13 +110,13 @@ increased*, Hyperbilirubinaemia, Hepatic function abnormal
 Uncommon Cholestasis, Hepatic lesion, Hepatitis
 
 *Increase of alanine aminotransferase and aspartate aminotransferase may occur simultaneously, although at a lower frequency.
+
 Skin and subcutaneous tissue disorders
 
 Common Rash, Alopecia
 Uncommon Hyperhidrosis, Pruritus generalised, Urticaria, Dermatosis, Petechiae, Cold
 
 sweat, Erythema, Melanosis, Pigmentation disorder, Skin discolouration, Skin exfoliation
-
 Musculoskeletal and connective tissue disorders
 
 Common Myalgia, Muscle spasm, Musculoskeletal pain, Bone pain, Back pain
@@ -216,6 +216,7 @@ Very common Pruritus, Alopecia
 Common Rash, Dry skin, Eczema, Rash pruritic, Erythema, Hyperhidrosis, Pruritus
 
 generalised, Night sweats, Skin lesion
+
 Musculoskeletal and connective tissue disorder
 
 Very common Myalgia
@@ -274,10 +275,9 @@ Common Epistaxis
 Gastrointestinal disorders
 
 Very common Abdominal pain, Diarrhoea, Nausea
-Common Gingival bleeding, Oral mucosal blistering, Oral pain, Vomiting, Abdominal
+Common Gingival bleeding, Oral mucosal blistering, Oral pain, Vomiting,
 
-discomfort, Abdominal pain, Constipation, Abdominal distension, Dysphagia, Faeces discoloured, Swollen tongue, Gastrointestinal motility disorder, Flatulence
-
+Abdominal discomfort, Abdominal pain, Constipation, Abdominal distension, Dysphagia, Faeces discoloured, Swollen tongue, Gastrointestinal motility disorder, Flatulence
 Hepatobiliary disorders
 
 Very common Transaminases increased
@@ -314,8 +314,8 @@ In 3 controlled and 2 uncontrolled clinical studies, among adult chronic ITP pat
 
 In a placebo-controlled study (n = 288, Safety population), following 2 weeks treatment in preparation for invasive procedures, 6 of 143 (4 %) adult patients with chronic liver disease receiving eltrombopag experienced 7 TEEs of the portal venous system and 2 of 145 (1 %) subjects in the placebo group experienced 3 TEEs.
 Five of the 6 patients treated with eltrombopag experienced the TEE at a platelet count > 200,000/µl
-No specific risk factors were identified in those subjects who experienced a TEE with the exception of platelet counts ≥ 200,000/µl (see section 4.4).
 
+No specific risk factors were identified in those subjects who experienced a TEE with the exception of platelet counts ≥ 200,000/µl (see section 4.4).
 In controlled studies in thrombocytopenic patients with HCV (n = 1439), 38 out of 955 subjects (4 %) treated with eltrombopag experienced a TEE and 6 out of 484 subjects (1 %) in the placebo group experienced TEEs.
 Portal vein thrombosis was the most common TEE in both treatment groups (2 % in patients treated with eltrombopag versus < 1 % for placebo) (see section 4.4).
 Patients with low albumin levels (≤ 35 g/L) or MELD ≥ 10 had a twofold greater risk of TEEs than those with higher albumin levels; those aged ≥ 60 years had a 2-fold greater risk of TEEs compared to younger patients.

@@ -85,6 +85,9 @@ Eltrombopag was administered to 299 ITP patients in an open-label extension stud
 The median baseline platelet count was 19,500/μl prior to eltrombopag administration.
 Median platelet counts at 12, 18 and 24 months on study were 68,000/μl, 75,000/μl and 119,000/μl, respectively.
 
+Clinical studies comparing eltrombopag to other treatment options (e.g. splenectomy) have not been conducted.
+The long-term safety of eltrombopag should be considered prior to starting therapy.
+
 Chronic hepatitis C associated thrombocytopenia studies
 
 The efficacy and safety of eltrombopag for the treatment of thrombocytopenia in patients with HCV infection were evaluated in two randomized, double-blind, placebo-controlled studies.
@@ -93,11 +96,12 @@ Patients did not receive direct acting antiviral agents.
 In both studies, patients with a platelet count of < 75,000/µl were enrolled and stratified by platelet count
 (< 50,000/µl and ≥ 50,000/µl to < 75,000/µl), screening HCV RNA (< 800,000 IU/ml and
 ≥ 800,000 IU/ml), and HCV genotype (genotype 2/3, and genotype 1/4/6).
-
 Baseline disease characteristics were similar in both studies and were consistent with compensated cirrhotic HCV patient population.
 The majority of patients were HCV genotype 1 (64 %) and had bridging fibrosis/cirrhosis.
 Thirty-one percent of patients had been treated with prior HCV therapies, primarily pegylated interferon plus ribavirin.
-The median baseline platelet count was 59,500/µl in both treatment groups: 0.8 %, 28 % and 72 % of the patients recruited had platelet counts < 20,000/µl, < 50.000/µl and ≥ 50,000/µl respectively.
+The median baseline platelet count was 59,500/µl in both treatment groups: 0.8 %, 28 % and 72 % of the patients recruited had platelet counts
+< 20,000/µl, < 50.000/µl and ≥ 50,000/µl respectively.
+
 The studies consisted of two phases – a pre-antiviral treatment phase and an antiviral treatment phase.
 In the pre-antiviral treatment phase, subjects received open-label eltrombopag to increase the platelet count to ≥ 90,000/µl for ENABLE 1 and ≥ 100,000/µl for ENABLE 2.
 The median time to achieve the target platelet count ≥ 90,000/µl (ENABLE 1) or ≥ 100,000/µl (ENABLE 2) was 2 weeks.
@@ -105,7 +109,8 @@ The median time to achieve the target platelet count ≥ 90,000/µl (ENABLE 1) o
 The primary efficacy endpoint for both studies was sustained virologic response (SVR), defined as the percentage of patients with no detectable HCV-RNA at 24 weeks after completion of the planned treatment period.
 
 In both HCV studies, a significantly greater proportion of patients treated with eltrombopag (n = 201, 21 %) achieved SVR compared to those treated with placebo (n=65, 13 %) (see Table 6).
-The improvement in the proportion of patients who achieved SVR was consistent across all subgroups in the randomisation strata (baseline platelet counts (< 50,000 vs. > 50,000), viral load (< 800,000 IU/ml vs. ≥ 800,000 IU/ml) and genotype (2/3 vs. 1/4/6)).
+The improvement in the proportion of patients who achieved SVR was consistent across all subgroups in the randomisation strata (baseline platelet counts (< 50,000 vs. > 50,000), viral load
+(< 800,000 IU/ml vs. ≥ 800,000 IU/ml) and genotype (2/3 vs. 1/4/6)).
 
 Table 6: Virologic response in HCV patients in ENABLE 1 and ENABLE 2
 
@@ -126,13 +131,13 @@ Table 6: Virologic response in HCV patients in ENABLE 1 and ENABLE 2
 | ≥ 10 | 18 | 10 |  |  |  |  |
 | < 10 | 23 | 17 |  |  |  |  |
 
-a Eltrombopag given in combination with peginterferon alfa-2a (180 mcg once weekly for 48 weeks for genotypes 1/4/6; 24 weeks for genotype 2/3) plus ribavirin (800 to 1200 mg daily in 2 divided doses orally) b Eltrombopag given in combination with peginterferon alfa-2b (1.5 mcg/kg once weekly for 48 weeks for genotype 1/4/6; 24 weeks for genotype 2/3) plus ribavirin (800 to 1400 mg orally in 2 divided doses) c Target platelet count was ≥ 90,000/µl for ENABLE 1 and ≥ 100,000/µl for ENABLE 2.
-For ENABLE 1, 682 patients were randomised to the antiviral treatment phase; however 2 subjects then withdrew consent prior to receiving antiviral therapy.
-d P value < 0.05 for eltrombopag versus placebo e 64 % subjects participating in ENABLE 1 and ENABLE 2 were genotype 1 f Post-hoc analyses
-
+a Eltrombopag given in combination with peginterferon alfa-2a (180 mcg once weekly for 48 weeks for genotypes 1/4/6;
+24 weeks for genotype 2/3) plus ribavirin (800 to 1200 mg daily in 2 divided doses orally) b Eltrombopag given in combination with peginterferon alfa-2b (1.5 mcg/kg once weekly for 48 weeks for genotype 1/4/6; 24 weeks for genotype 2/3) plus ribavirin (800 to 1400 mg orally in 2 divided doses) c Target platelet count was ≥ 90,000/µl for ENABLE 1 and ≥ 100,000/µl for ENABLE 2.
+For ENABLE 1, 682 patients were randomised to the antiviral treatment phase; however 2 subjects then withdrew consent prior to receiving antiviral therapy. d P value < 0.05 for eltrombopag versus placebo e 64 % subjects participating in ENABLE 1 and ENABLE 2 were genotype 1 f Post-hoc analyses
 Other secondary findings of the studies included the following; significantly fewer patients treated with eltrombopag prematurely discontinued antiviral therapy compared to placebo (45 % vs. 60 %, p = < 0.0001).
 A greater proportion of patients on eltrombopag did not require any antiviral dose reduction as compared to placebo (45 % versus 27 %).
 Eltrombopag treatment delayed and reduced the number of peginterferon dose reductions.
+
 Severe Aplastic Anaemia
 
 Eltrombopag was studied in a single-arm, single-centre open-label trial in 43 patients with severe aplastic anaemia with refractory thrombocytopenia following at least one prior immunosuppressive therapy (IST) and who had a platelet count ≤ 30,000/µl.
@@ -168,7 +173,6 @@ Over 50% of responders who were transfusion dependent at baseline, had >80% redu
 Preliminary results from a supportive study (Study ELT116826), an ongoing non-randomised, phase II, single-arm, open-label study in refractory SAA subjects, showed consistent results.
 Data are limited to 21 out of the planned 60 patients with haematological responses reported by 52% of patients at 6 months.
 Multilineage responses were reported by 45% of patients.
-
 Paediatric population
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with Revolade in one or more subsets of the paediatric population in chronic idiopathic thrombocytopenic purpura (ITP) and Secondary Thrombocytopenia (see section 4.2 for information on paediatric use).

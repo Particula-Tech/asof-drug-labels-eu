@@ -15,7 +15,8 @@ Table 7: Geometric mean (95 % confidence intervals) of steady-state plasma eltro
 
 a - AUC(0-τ) and Cmax based on population PK post-hoc estimates.
 
-Plasma eltrombopag concentration-time data collected in 590 subjects with HCV enrolled in Phase III studies TPL103922/ENABLE 1 and TPL108390/ENABLE 2 were combined with data from patients with HCV enrolled in the Phase II study TPL102357 and healthy adult subjects in a population PK analysis.
+Plasma eltrombopag concentration-time data collected in 590 subjects with HCV enrolled in
+Phase III studies TPL103922/ENABLE 1 and TPL108390/ENABLE 2 were combined with data from patients with HCV enrolled in the Phase II study TPL102357 and healthy adult subjects in a population PK analysis.
 Plasma eltrombopag Cmax AUC(0-τ) estimates for patients with HCV enrolled in the Phase 3 studies are presented for each dose studied in Table 8.
 
 Table 8 Geometric mean (95 % CI) steady-state plasma eltrombopag pharmacokinetic parameters in patients with chronic HCV
@@ -29,13 +30,13 @@ Table 8 Geometric mean (95 % CI) steady-state plasma eltrombopag pharmacokinetic
 
 Data presented as geometric mean (95 % CI).
 AUC (0-τ) and Cmax based on population PK post-hoc estimates at the highest dose in the data for each patient.
-
 Absorption and bioavailability
 
 Eltrombopag is absorbed with a peak concentration occurring 2 to 6 hours after oral administration.
 Administration of eltrombopag concomitantly with antacids and other products containing polyvalent cations such as dairy products and mineral supplements significantly reduces eltrombopag exposure (see section 4.2).
 The absolute oral bioavailability of eltrombopag after administration to humans has not been established.
 Based on urinary excretion and metabolites eliminated in faeces, the oral absorption of drug-related material following administration of a single 75 mg eltrombopag solution dose was estimated to be at least 52 %.
+
 Distribution
 
 Eltrombopag is highly bound to human plasma proteins (> 99.9 %), predominantly to albumin.
@@ -72,9 +73,9 @@ In vitro studies demonstrate that eltrombopag is an inhibitor of the OATP1B1 tra
 In clinical studies with eltrombopag, a dose reduction of statins by 50 % was recommended.
 
 Eltrombopag chelates with polyvalent cations such as iron, calcium, magnesium, aluminium, selenium and zinc (see sections 4.2 and 4.5).
-
 Administration of a single 50 mg dose of eltrombopag with a standard high-calorie, high-fat breakfast that included dairy products reduced plasma eltrombopag AUC(0-∞) and Cmax.
 Whereas, low-calcium food [< 50 mg calcium] did not significantly impact plasma eltrombopag exposure, regardless of calorie and fat content (see sections 4.2 and 4.5).
+
 Special patient populations
 
 Renal impairment
@@ -104,9 +105,9 @@ Race
 
 The influence of East Asian ethnicity on the pharmacokinetics of eltrombopag was evaluated using a population pharmacokinetic analysis in 111 healthy adults (31 East Asians) and 88 patients with ITP (18 East Asians).
 Based on estimates from the population pharmacokinetic analysis, East Asian (i.e. Japanese, Chinese, Taiwanese and Korean) ITP patients had approximately 87 % higher plasma eltrombopag AUC(0-τ) values as compared to non-East Asian patients who were predominantly Caucasian, without adjustment for body weight differences (see section 4.2).
-
 The influence of East Asian ethnicity (such as Chinese, Japanese, Taiwanese, Korean, and Thai) on the pharmacokinetics of eltrombopag was evaluated using a population pharmacokinetic analysis in 635 patients with HCV (145 East Asians and 69 Southeast Asians).
 Based on estimates from the population pharmacokinetic analysis, East Asian patients had approximately 55 % higher plasma eltrombopag AUC(0-τ) values as compared to patients of other races who were predominantly Caucasian (see section 4.2).
+
 Gender
 
 The influence of gender on the pharmacokinetics of eltrombopag was evaluated using a population pharmacokinetic analysis in 111 healthy adults (14 females) and 88 patients with ITP (57 females).

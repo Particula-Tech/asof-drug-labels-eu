@@ -8,13 +8,13 @@ Eltrombopag dosing requirements must be individualised based on the patient’s 
 The objective of treatment with eltrombopag should not be to normalise platelet counts.
 
 In most patients, measurable elevations in platelet counts take 1-2 weeks (see section 5.1).
+
 Chronic immune (idiopathic) thrombocytopenia
 
 The lowest dose of eltrombopag to achieve and maintain a platelet count ≥ 50,000/µl should be used.
 Dose adjustments are based upon the platelet count response.
 Do not use eltrombopag to normalise platelet counts.
 In clinical studies, platelet counts generally increased within 1 to 2 weeks after starting eltrombopag and decreased within 1 to 2 weeks after discontinuation.
-
 The recommended starting dose of eltrombopag is 50 mg once daily.
 For patients of East Asian ancestry, eltrombopag should be initiated at a reduced dose of 25 mg once daily (see section 5.2).
 
@@ -45,11 +45,12 @@ Wait for at least 2 weeks to see the effect of any dose adjustment on the patien
 
 The standard eltrombopag dose adjustment, either decrease or increase, would be 25 mg once daily.
 However, in a few patients a combination of different film-coated tablet strengths on different days may be required.
+
 Discontinuation
 
 Treatment with eltrombopag should be discontinued if the platelet count does not increase to a level sufficient to avoid clinically important bleeding after four weeks of eltrombopag therapy at 75 mg once daily.
-
 Patients should be clinically evaluated periodically and continuation of treatment should be decided on an individual basis by the treating physician.
+In non-splenectomised patients this should include evaluation relative to splenectomy.
 The reoccurrence of thrombocytopenia is possible upon discontinuation of treatment (see section 4.4).
 
 Chronic hepatitis C (HCV) associated thrombocytopenia
@@ -107,6 +108,7 @@ Initial Dose Regimen
 Initiate eltrombopag at a dose of 50 mg once daily.
 For patients of East Asian ancestry, eltrombopag should be initiated at a reduced dose of 25 mg once daily (see section 5.2).
 The treatment should not be initiated when the patients have existing cytogenetic abnormalities of chromosome 7.
+
 Monitoring and dose adjustment
 
 Haematological response requires dose titration, generally up to 150 mg, and may take up to 16 weeks after starting eltrombopag (see section 5.1).
@@ -114,7 +116,6 @@ Adjust the dose of eltrombopag in 50 mg increments every 2 weeks as necessary to
 For patients taking 25 mg once daily, increase the dose to 50 mg daily before increasing the dose amount by 50 mg.
 Do not exceed a dose of 150 mg daily.
 Monitor clinical haematology and liver tests regularly throughout therapy with eltrombopag and modify the dosage regimen of eltrombopag based on platelet counts as outlined in Table 3.
-
 Table 3 Dose adjustments of eltrombopag in patients with severe aplastic anaemia
 
 | Platelet count | Dose adjustment or response |
@@ -143,13 +144,13 @@ Renal impairment
 
 No dose adjustment is necessary in patients with renal impairment.
 Patients with impaired renal function should use eltrombopag with caution and close monitoring, for example by testing serum creatinine and/or performing urine analysis (see section 5.2).
+
 Hepatic impairment
 
 Eltrombopag should not be used in ITP patients with hepatic impairment (Child-Pugh score ≥ 5) unless the expected benefit outweighs the identified risk of portal venous thrombosis (see section 4.4).
 
 If the use of eltrombopag is deemed necessary for ITP patients with hepatic impairment the starting dose must be 25 mg once daily.
 After initiating the dose of eltrombopag in patients with hepatic impairment wait 3 weeks before increasing the dose.
-
 No dose adjustment is required for thrombocytopenic patients with chronic HCV and mild hepatic impairment (Child-Pugh score ≤ 6).
 Chronic HCV patients and severe aplastic anaemia patients with hepatic impairment should initiate eltrombopag at a dose of 25 mg once daily (see section 5.2).
 After initiating the dose of eltrombopag in patients with hepatic impairment wait 2 weeks before increasing the dose.

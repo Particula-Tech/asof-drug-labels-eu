@@ -27,6 +27,7 @@ Co-administration of a single dose of eltrombopag 200 mg with telaprevir 750 mg 
 
 Co-administration of a single dose of eltrombopag 200 mg with boceprevir 800 mg Q8h did not alter plasma boceprevir AUC(0-τ), but increased Cmax by 20 %, and decreased Cmin by 32 %.
 The clinical relevance of the decrease in Cmin has not been established, increased clinical and laboratory monitoring for HCV suppression is recommended.
+
 Effects of other medicinal products on eltrombopag
 
 Polyvalent cations (chelation)
@@ -34,7 +35,6 @@ Polyvalent cations (chelation)
 Eltrombopag chelates with polyvalent cations such as iron, calcium, magnesium, aluminium, selenium and zinc.
 Administration of a single dose of eltrombopag 75 mg with a polyvalent cation-containing antacid (1524 mg aluminium hydroxide and 1425 mg magnesium carbonate) decreased plasma eltrombopag AUC0-∞ by 70 % (90 % CI: 64 %, 76 %) and Cmax by 70 % (90 % CI: 62 %, 76 %).
 Antacids, dairy products and other products containing polyvalent cations, such as mineral supplements, must be administered at least four hours apart from eltrombopag dosing to avoid significant reduction in eltrombopag absorption due to chelation (see sections 4.2 and 5.2).
-
 Food interaction
 
 Administration of a single 50 mg-dose of eltrombopag with a standard high-calorie, high-fat breakfast that included dairy products reduced plasma eltrombopag AUC0-∞ by 59 % (90 % CI: 54 %, 64 %) and Cmax by 65 % (90 % CI: 59 %, 70 %).

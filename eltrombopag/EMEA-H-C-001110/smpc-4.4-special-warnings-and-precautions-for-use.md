@@ -35,7 +35,6 @@ Eltrombopag should be discontinued if ALT levels increase (≥ 3X ULN in patient
 
 Exercise caution when administering eltrombopag to patients with hepatic disease.
 In ITP and SAA patients use a lower starting dose of eltrombopag and monitor closely when administering to patients with hepatic impairment (see section 4.2).
-
 Hepatic decompensation (use with interferon)
 
 Hepatic decompensation in patients with chronic hepatitis C: Monitor patients with low albumin levels (≤ 35 g/L) or with Model for End Stage Liver Disease (MELD) score ≥ 10 at baseline.
@@ -66,11 +65,11 @@ The risk of TEEs has been found to be increased in patients with chronic liver d
 Six of 143 (4 %) adult patients with CLD receiving eltrombopag experienced TEEs (all of the portal venous system) and two of 145 (1 %) subjects in the placebo group experienced TEEs (one in the portal venous system and one myocardial infarction).
 Five of the 6 patients treated with eltrombopag experienced the thrombotic complication at a platelet count > 200,000/µl and within 30 days of the last dose of eltrombopag.
 Eltrombopag is not indicated for the treatment of thrombocytopenia in patients with chronic liver disease in preparation for invasive procedures.
+
 In eltrombopag clinical trials in ITP thromboembolic events were observed at low and normal platelet counts.
 Caution should be used when administering eltrombopag to patients with known risk factors for thromboembolism including but not limited to inherited (e.g. Factor V Leiden) or acquired risk factors (e.g. ATIII deficiency, antiphospholipid syndrome), advanced age, patients with prolonged periods of immobilisation, malignancies, contraceptives and hormone replacement therapy, surgery/trauma, obesity and smoking.
 Platelet counts should be closely monitored and consideration given to reducing the dose or discontinuing eltrombopag treatment if the platelet count exceeds the target levels (see section 4.2).
 The risk-benefit balance should be considered in patients at risk of thromboembolic events (TEEs) of any aetiology.
-
 Eltrombopag should not be used in ITP patients with hepatic impairment (Child-Pugh score ≥ 5) unless the expected benefit outweighs the identified risk of portal venous thrombosis.
 When treatment is considered appropriate, exercise caution when administering eltrombopag to patients with hepatic impairment (see sections 4.2 and 4.8).
 
@@ -101,6 +100,7 @@ Progression of existing Myelodysplastic Syndrome (MDS)
 TPO-R agonists are growth factors that lead to thrombopoietic progenitor cell expansion, differentiation and platelet production.
 The TPO-R is predominantly expressed on the surface of cells of the myeloid lineage.
 For TPO-R agonists there is a concern that they may stimulate the progression of existing haematopoietic malignancies such as MDS.
+
 In clinical studies with a TPO-R agonist in patients with MDS, cases of transient increases in blast cell counts were observed and cases of MDS disease progression to acute myeloid leukaemia (AML) were reported.
 
 The diagnosis of ITP or SAA in adults and elderly patients should be confirmed by the exclusion of other clinical entities presenting with thrombocytopenia, in particular the diagnosis of MDS must be excluded.
@@ -135,6 +135,7 @@ QT/QTc prolongation
 A QTc study in healthy volunteers dosed 150 mg eltrombopag per day did not show a clinically significant effect on cardiac repolarisation.
 QTc interval prolongation has been reported in clinical trials of patients with ITP and thrombocytopenic patients with HCV.
 The clinical significance of these QTc prolongation events is unknown.
+
 Loss of response to eltrombopag
 
 A loss of response or failure to maintain a platelet response with eltrombopag treatment within the recommended dosing range should prompt a search for causative factors, including an increased bone marrow reticulin.
