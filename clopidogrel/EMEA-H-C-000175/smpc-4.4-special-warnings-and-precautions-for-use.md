@@ -2,7 +2,7 @@
 
 Bleeding and haematological disorders
 Due to the risk of bleeding and haematological adverse reactions, blood cell count determination and/or other appropriate testing should be promptly considered whenever clinical symptoms suggestive of bleeding arise during the course of treatment (see section 4.8).
-As with other antiplatelet agents, clopidogrel should be used with caution in patients who may be at risk of increased bleeding from trauma, surgery or other pathological conditions and in patients receiving treatment with ASA, heparin, glycoprotein IIb/IIIa inhibitors or non-steroidal anti-inflammatory drugs (NSAIDs) including Cox-2 inhibitors, or selective serotonin reuptake inhibitors (SSRIs).
+As with other antiplatelet agents, clopidogrel should be used with caution in patients who may be at risk of increased bleeding from trauma, surgery or other pathological conditions and in patients receiving treatment with ASA, heparin, glycoprotein IIb/IIIa inhibitors or non-steroidal anti-inflammatory drugs (NSAIDs) including Cox-2 inhibitors, or selective serotonin reuptake inhibitors (SSRIs), or other medicinal products associated with bleeding risk such as pentoxifylline (see section 4.5).
 Patients should be followed carefully for any signs of bleeding including occult bleeding, especially during the first weeks of treatment and/or after invasive cardiac procedures or surgery.
 The concomitant administration of clopidogrel with oral anticoagulants is not recommended since it may increase the intensity of bleedings (see section 4.5).
 
@@ -33,6 +33,9 @@ Since clopidogrel is metabolised to its active metabolite partly by CYP2C19, use
 The clinical relevance of this interaction is uncertain.
 As a precaution concomitant use of strong or moderate CYP2C19 inhibitors should be discouraged (see section 4.5 for a list of CYP2C19 inhibitors, see also section 5.2).
 
+CYP2C8 substrates
+Caution is required in patients treated concomitantly with clopidogrel and CYP2C8 substrate medicinal products (see section 4.5).
+
 Cross-reactions among thienopyridines
 Patients should be evaluated for history of hypersensitivity to thienopyridines (such as clopidogrel, ticlopidine, prasugrel) since cross-reactivity among thienopyridines has been reported (see section 4.8).
 Thienopyridines may cause mild to severe allergic reactions such as rash, angioedema, or haematological cross-reactions such as thrombocytopaenia and neutropaenia.
@@ -42,10 +45,10 @@ Monitoring for signs of hypersensitivity in patients with a known allergy to thi
 Renal impairment
 Therapeutic experience with clopidogrel is limited in patients with renal impairment.
 Therefore clopidogrel should be used with caution in these patients (see section 4.2).
-
 Hepatic impairment
 Experience is limited in patients with moderate hepatic disease who may have bleeding diatheses.
 Clopidogrel should therefore be used with caution in this population (see section 4.2).
+
 Excipients
 Iscover contains lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.

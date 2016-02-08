@@ -31,6 +31,7 @@ In the myocardial infarction subgroup, most of the patients received ASA for the
 Clopidogrel significantly reduced the incidence of new ischaemic events (combined end point of myocardial infarction, ischaemic stroke and vascular death) when compared to ASA.
 In the intention to treat analysis, 939 events were observed in the clopidogrel group and 1,020 events with ASA (relative risk reduction (RRR) 8.7%, [95% CI: 0.2 to 16.4]; p=0.045), which corresponds, for every 1,000 patients treated for 2 years, to 10 [CI: 0 to 20] additional patients being prevented from experiencing a new ischaemic event.
 Analysis of total mortality as a secondary endpoint did not show any significant difference between clopidogrel (5.8%) and ASA (6.0%).
+
 In a subgroup analysis by qualifying condition (myocardial infarction, ischaemic stroke, and PAD) the benefit appeared to be strongest (achieving statistical significance at p=0.003) in patients enrolled due to PAD (especially those who also had a history of myocardial infarction) (RRR = 23.7%; CI: 8.9 to 36.2) and weaker (not significantly different from ASA) in stroke patients (RRR = 7.3%; CI: -5.7 to 18.7 [p=0.258]).
 In patients who were enrolled in the trial on the sole basis of a recent myocardial infarction, clopidogrel was numerically inferior, but not statistically different from ASA (RRR = -4.0%; CI: -22.5 to 11.7 [p=0.639]).
 In addition, a subgroup analysis by age suggested that the benefit of clopidogrel in patients over 75 years was less than that observed in patients ≤75 years.
@@ -49,7 +50,6 @@ Heparins were administered in more than 90% of the patients and the relative rat
 The number of patients experiencing the primary endpoint [cardiovascular (CV) death, myocardial infarction (MI), or stroke] was 582 (9.3%) in the clopidogrel-treated group and 719 (11.4%) in the placebo-treated group, a 20% relative risk reduction (95% CI of 10%-28%; p=0.00009) for the clopidogrel-treated group (17% relative risk reduction when patients were treated conservatively, 29% when they underwent percutaneous transluminal coronary angioplasty (PTCA) with or without stent and 10% when they underwent coronary artery bypass graft (CABG)).
 New cardiovascular events (primary endpoint) were prevented, with relative risk reductions of 22% (CI: 8.6, 33.4), 32% (CI: 12.8, 46.4), 4% (CI: -26.9, 26.7), 6% (CI: -33.5, 34.3) and 14% (CI: -31.6, 44.2), during the 0-1, 1-3, 3-6, 6-9 and 9-12 month study intervals, respectively.
 Thus, beyond 3 months of treatment, the benefit observed in the clopidogrel + ASA group was not further increased, whereas the risk of haemorrhage persisted (see section 4.4).
-
 The use of clopidogrel in CURE was associated with a decrease in the need of thrombolytic therapy (RRR = 43.3%; CI: 24.3%, 57.5%) and GPIIb/IIIa inhibitors (RRR = 18.2%; CI: 6.5%, 28.3%).
 
 The number of patients experiencing the co-primary endpoint (CV death, MI, stroke or refractory ischaemia) was 1,035 (16.5%) in the clopidogrel-treated group and 1,187 (18.8%) in the placebo-treated group, a 14% relative risk reduction (95% CI of 6%-21%, p=0.0005) for the clopidogrel-treated group.
@@ -60,6 +60,7 @@ The results obtained in populations with different characteristics (e.g. unstabl
 In particular, in a post-hoc analysis in 2,172 patients (17% of the total CURE population) who underwent stent placement (Stent-CURE), the data showed that clopidogrel compared to placebo, demonstrated a significant RRR of 26.2% favouring clopidogrel for the co-primary endpoint (CV death, MI, stroke) and also a significant RRR of 23.9% for the second co-primary endpoint (CV death, MI, stroke or refractory ischaemia).
 Moreover, the safety profile of clopidogrel in this subgroup of patients did not raise any particular concern.
 Thus, the results from this subset are in line with the overall trial results.
+
 The benefits observed with clopidogrel were independent of other acute and long-term cardiovascular therapies (such as heparin/LMWH, GPIIb/IIIa antagonists, lipid lowering medicinal products, beta blockers, and ACE-inhibitors).
 The efficacy of clopidogrel was observed independently of the dose of ASA (75-325 mg once daily).
 

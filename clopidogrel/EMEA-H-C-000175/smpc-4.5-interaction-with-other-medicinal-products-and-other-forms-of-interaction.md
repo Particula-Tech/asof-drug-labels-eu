@@ -1,5 +1,8 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
+Medicinal products associated with bleeding risk: There is an increased risk of bleeding due to the potential additive effect.
+The concomitant administration of medicinal products associated with bleeding risk should be undertaken with caution (see section 4.4).
+
 Oral anticoagulants: the concomitant administration of clopidogrel with oral anticoagulants is not recommended since it may increase the intensity of bleedings (see section 4.4).
 Although the administration of clopidogrel 75 mg/day did not modify the pharmacokinetics of S-warfarin or International Normalised Ratio (INR) in patients receiving long-term warfarin therapy, coadministration of clopidogrel with warfarin increases the risk of bleeding because of independent effects on hemostasis.
 
@@ -24,12 +27,12 @@ However, due to the lack of interaction studies with other NSAIDs it is presentl
 Consequently, NSAIDs including Cox-2 inhibitors and clopidogrel should be co-administered with caution (see section 4.4).
 
 SSRIs: since SSRIs affect platelet activation and increase the risk of bleeding, the concomitant administration of SSRIs with clopidogrel should be undertaken with caution.
-
 Other concomitant therapy: Since clopidogrel is metabolised to its active metabolite partly by CYP2C19, use of medicinal products that inhibit the activity of this enzyme would be expected to result in reduced drug levels of the active metabolite of clopidogrel.
 The clinical relevance of this interaction is uncertain.
 As a precaution concomitant use of strong or moderate CYP2C19 inhibitors should be discouraged (see sections 4.4 and 5.2).
 
-Medicinal products that inhibit CYP2C19 include omeprazole and esomeprazole, fluvoxamine, fluoxetine, moclobemide, voriconazole, fluconazole, ticlopidine, ciprofloxacin, cimetidine, carbamazepine, oxcarbazepine and chloramphenicol.
+Medicinal products that are strong or moderate CYP2C19 inhibitors include, for example, omeprazole and esomeprazole, fluvoxamine, fluoxetine, moclobemide, voriconazole, fluconazole, ticlopidine, carbamazepine, and efavirenz.
+
 Proton Pump Inhibitors (PPI):
 Omeprazole 80 mg once daily administered either at the same time as clopidogrel or with 12 hours between the administrations of the two drugs decreased the exposure of the active metabolite by 45% (loading dose) and 40% (maintenance dose).
 The decrease was associated with a 39% (loading dose) and 21% (maintenance dose) reduction of inhibition of platelet aggregation.
@@ -43,7 +46,7 @@ The plasma concentrations of the active metabolite was 20% reduced (loading dose
 This was associated with a reduction of the mean inhibition of platelet aggregation by 15% and 11%, respectively.
 These results indicate that clopidogrel can be administered with pantoprazole.
 
-There is no evidence that other medicinal products that reduce stomach acid such as H2 blockers (except cimetidine which is a CYP2C19 inhibitor) or antacids interfere with antiplatelet activity of clopidogrel.
+There is no evidence that other medicinal products that reduce stomach acid such as H2 blockers or antacids interfere with antiplatelet activity of clopidogrel.
 
 Other medicinal products: A number of other clinical studies have been conducted with clopidogrel and other concomitant medicinal products to investigate the potential for pharmacodynamic and pharmacokinetic interactions.
 No clinically significant pharmacodynamic interactions were observed when clopidogrel was co-administered with atenolol, nifedipine, or both atenolol and nifedipine.
@@ -53,6 +56,10 @@ The pharmacokinetics of digoxin or theophylline were not modified by the co-admi
 Antacids did not modify the extent of clopidogrel absorption.
 
 Data from the CAPRIE study indicate that phenytoin and tolbutamide which are metabolised by CYP2C9 can be safely co-administered with clopidogrel.
+
+CYP2C8 substrate medicinal products: Clopidogrel has been shown to increase repaglinide exposure in healthy volunteers.
+In vitro studies have shown the increase in repaglinide exposure is due to inhibition of CYP2C8 by the glucuronide metabolite of clopidogrel.
+Due to the risk of increased plasma concentrations, concomitant administration of clopidogrel and drugs primarily cleared by CYP2C8 metabolism (e.g., repaglinide, paclitaxel) should be undertaken with caution (see section 4.4).
 
 Apart from the specific medicinal product interaction information described above, interaction studies with clopidogrel and some medicinal products commonly administered in patients with atherothrombotic disease have not been performed.
 However, patients entered into clinical trials with clopidogrel received a variety of concomitant medicinal products including diuretics, beta blockers, ACEI, calcium antagonists, cholesterol lowering agents, coronary vasodilators, antidiabetic agents (including insulin), antiepileptic agents and GPIIb/IIIa antagonists without evidence of clinically significant adverse interactions.

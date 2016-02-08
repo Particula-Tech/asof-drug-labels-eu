@@ -43,7 +43,8 @@ Within each system organ class, adverse reactions are presented in order of decr
 | Respiratory, thoracic and mediastinal disorders | Epistaxis |  |  | Respiratory tract bleeding (haemoptysis, pulmonary haemorrhage), bronchospasm, interstitial pneumonitis, eosinophilic pneumonia |
 | Gastrointestinal disorders | Gastrointestinal haemorrhage, diarrhoea, abdominal pain, dyspepsia | Gastric ulcer and duodenal ulcer, gastritis, vomiting, nausea, constipation, flatulence | Retroperitoneal haemorrhage | Gastrointestinal and retroperitoneal haemorrhage with fatal outcome, pancreatitis, colitis (including ulcerative or lymphocytic colitis), stomatitis |
 | Hepato-biliary disorders |  |  |  | Acute liver failure, hepatitis, abnormal liver function test |
-| Skin and subcutaneous tissue disorders | Bruising | Rash, pruritus, skin bleeding (purpura) |  | Bullous dermatitis (toxic epidermal necrolysis, Stevens Johnson Syndrome, erythema multiforme), angioedema, drug-induced hypersensitivity syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), rash erythematous or exfoliative, urticaria, eczema, lichen planus |
+| Skin and subcutaneous tissue disorders | Bruising | Rash, pruritus, skin bleeding (purpura) |  | Bullous dermatitis (toxic epidermal necrolysis, Stevens Johnson Syndrome, erythema multiforme, acute generalised exanthematous pustulosis (AGEP)), angioedema, drug-induced hypersensitivity syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), rash erythematous or exfoliative, urticaria, eczema, lichen planus |
+| Reproductive systems and breast disorders |  |  | Gynaecomastia |  |
 | Musculoskeletal, connective tissue and bone disorders |  |  |  | Musculo-skeletal bleeding (haemarthrosis), arthritis, arthralgia, myalgia |
 | Renal and urinary disorders |  | Haematuria |  | Glomerulonephritis, blood creatinine increased |
 | General disorders and administration site conditions | Bleeding at puncture site |  |  | Fever |
