@@ -8,7 +8,6 @@ Inhibition of CYP3A-mediated metabolism by cobicistat enhances the systemic expo
 
 The effect of cobicistat on atazanavir pharmacokinetics was demonstrated in the pharmacokinetic sub-study (n = 48) of the phase 3 study GS-US-216-0114 in which HIV-1 infected patients received atazanavir 300 mg + cobicistat 150 mg or atazanavir 300 mg + ritonavir 100 mg, both in combination with emtricitabine and tenofovir disoproxil fumarate fixed-dose combination.
 The steady-state pharmacokinetic parameters of atazanavir were comparable when boosted with cobicistat versus ritonavir (see Table 4).
-
 Table 4: Pharmacokinetic parameters [mean ± SD (%CV)] of atazanavir in the pharmacokinetic sub-study of phase 3 study GS-US-216-0114
 
 | Atazanavir pharmacokinetics parameters | Atazanavir + cobicistata (n = 22) | Atazanavir + ritonavira (n = 26) |
@@ -32,6 +31,7 @@ Table 5: Pharmacokinetic parameters [mean ± SD (%CV)] of darunavir 800 mg co-ad
 
 Antiviral activity in vitro
 Cobicistat has no detectable antiviral activity against HIV-1, HBV or HCV and does not antagonise the antiviral effect of HIV inhibitors.
+
 Clinical experience
 Antiviral efficacy data from randomised controlled studies is available for cobicistat-boosted atazanavir, but not for cobicistat-boosted darunavir (see sections 4.4 and 5.2).
 
@@ -47,7 +47,6 @@ Virologic response rate was evaluated in both treatment arms and virologic respo
 Viruses were known to be susceptible to atazanavir, emtricitabine and tenofovir disoproxil fumarate at baseline.
 
 Baseline characteristics and treatment outcomes at weeks 48 and 144 for study GS-US-216-0114 are presented in Tables 6 and 7, respectively.
-
 Table 6: Demographic and baseline disease characteristics of antiretroviral treatment-naïve HIV-1 infected adult subjects in study GS-US-216-0114
 
 |  |  | Atazanavir + |

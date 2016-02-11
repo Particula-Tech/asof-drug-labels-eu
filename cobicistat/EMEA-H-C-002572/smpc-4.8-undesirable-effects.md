@@ -61,7 +61,6 @@ An increase of > 3 x ULN in alanine aminotransferase or aspartate aminotransfera
 Paediatric population
 No data are available for children below 18 years of age.
 Tybost is not recommended in this population (see section 4.2).
-
 Other special population(s)
 
 Elderly
