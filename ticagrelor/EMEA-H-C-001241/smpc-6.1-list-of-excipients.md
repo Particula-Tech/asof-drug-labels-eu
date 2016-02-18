@@ -4,12 +4,17 @@ Tablet core
 Mannitol (E421)
 Calcium hydrogen phosphate dihydrate
 Magnesium stearate (E470b)
-Sodium starch glycolate
-Hydroxypropyl-cellulose (E463)
+Sodium starch glycolate type A
+Hydroxypropylcellulose (E463)
 
 Tablet coating
-Talc
 Titanium dioxide (E171)
-Ferric oxide yellow (E172)
-Polyethylene-glycol 400
+Iron oxide black (E172)
+Iron oxide red (E172)
+Macrogol 400
 Hypromellose (E464)
+
+[Brilique 90 mg film-coated tablets]
+
+Talc
+Iron oxide yellow (E172)
