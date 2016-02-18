@@ -2,7 +2,7 @@
 
 Only TOBI Podhaler capsules are to be used in the Podhaler device.
 No other inhaler may be used.
-TOBI Podhaler capsules must always be stored in the blister strip (capsule card), and only removed immediately before use.
+TOBI Podhaler capsules must always be stored in the blister (capsule card), and only removed immediately before use.
 Each Podhaler device and its case are used for seven days and then discarded and replaced.
 Store the Podhaler device in its tightly closed case when not in use.
 

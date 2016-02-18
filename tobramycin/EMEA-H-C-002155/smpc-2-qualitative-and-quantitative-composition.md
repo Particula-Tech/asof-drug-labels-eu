@@ -2,4 +2,4 @@
 
 Each hard capsule contains 28 mg tobramycin.
 
-For a full list of excipients, see section 6.1.
+For the full list of excipients, see section 6.1.

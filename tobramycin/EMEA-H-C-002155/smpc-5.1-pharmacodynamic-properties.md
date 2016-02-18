@@ -3,17 +3,21 @@
 Pharmacotherapeutic group: Antibacterials for systemic use, Aminoglycoside antibacterials, ATC Code: J01GB01
 
 Mechanism of action
+
 Tobramycin is an aminoglycoside antibiotic produced by Streptomyces tenebrarius.
 It acts primarily by disrupting protein synthesis leading to altered cell membrane permeability, progressive disruption of the cell envelope and eventual cell death.
 It is bactericidal at concentrations equal to or slightly greater than inhibitory concentrations.
 
 Breakpoints
+
 Established susceptibility breakpoints for parenteral administration of tobramycin are inappropriate in the aerosolised administration of the medicinal product.
 
 Sputum from cystic fibrosis exhibits an inhibitory action on the local biological activity of inhaled aminoglycosides.
 This necessitates sputum concentrations of tobramycin after inhalation to be about ten-fold above the minimum inhibitory concentration (MIC) or higher for P. aeruginosa suppression.
 In the active-controlled study, at least 89% of patients had P. aeruginosa isolates with MICs at least 15 times lower than mean post-dose sputum concentration, both at baseline and at the end of the third active treatment cycle.
+
 Susceptibility
+
 In the absence of conventional susceptibility breakpoints for the inhaled route of administration, caution must be exercised in defining organisms as susceptible or insusceptible to inhaled tobramycin.
 
 The clinical significance of changes in MICs of tobramycin for P. aeruginosa has not been clearly established in the treatment of cystic fibrosis patients.
@@ -31,6 +35,7 @@ Based upon in vitro data and/or clinical trial experience, the organisms associa
 | Insusceptible | Burkholderia cepacia Stenotrophomonas maltophilia Alcaligenes xylosoxidans |
 
 Clinical experience
+
 The TOBI Podhaler Phase III clinical development programme consisted of two studies and 612 treated patients with a clinical diagnosis of CF, confirmed by quantitative pilocarpine iontophoresis sweat chloride test or well-characterised disease causing mutations in each cystic fibrosis transmembrane regulator (CFTR) gene, or abnormal nasal transepithelial potential difference characteristic of CF.
 
 In the placebo controlled study, patients were aged 6 - ≤22 years with an FEV1 at screening of between 25% and 84% of predicted normal values for their age, sex and height based upon Knudson criteria.
@@ -46,6 +51,7 @@ The improvements in lung function achieved during the first treatment cycle were
 
 When patients in the placebo treatment group were switched from placebo to TOBI Podhaler at the start of the second treatment cycle, they experienced a similar improvement from baseline in percent predicted FEV1.
 Treatment with TOBI Podhaler for 28 days resulted in a statistically significant reduction in P. aeruginosa sputum density (mean difference with placebo about 2.70 log10 in colony forming units/CFUs).
+
 In a second open-label, multicentre study, patients received treatment with either TOBI Podhaler
 (112 mg) or tobramycin 300 mg/5 ml nebuliser solution (TOBI), administered twice daily for three cycles.
 A majority of the patients were tobramycin-experienced adults with chronic pulmonary P. aeruginosa infection.
@@ -61,7 +67,6 @@ In the patients aged <20 years the increase from baseline percent predicted FEV1
 A numerically lower response in patients aged ≥20 years was observed: the change from baseline FEV1 observed in the patients aged ≥20 years was smaller (0.3% with TOBI Podhaler and 0.9% with TOBI nebuliser solution).
 
 Furthermore, an improvement of 6% in percent predicted FEV1 was obtained in about 30% versus 36% of the adult patients in the TOBI Podhaler and TOBI nebuliser solution group respectively.
-
 Treatment with TOBI Podhaler for 28 days resulted in a statistically significant reduction in P. aeruginosa sputum density (-1.61 log10 CFUs), as did the nebuliser solution (-0.77 log10 CFUs).
 Suppression of sputum P. aeruginosa density was similar across age groups in both arms.
 In both studies, there was a trend for a recovery of P. aeruginosa density after the 28 days off-treatment period, which was reversed after a further 28 days on-treatment.
@@ -69,4 +74,8 @@ In both studies, there was a trend for a recovery of P. aeruginosa density after
 In the active-controlled study, administration of a TOBI Podhaler dose was faster with a mean difference of approximately 14 minutes (6 minutes vs. 20 minutes with the nebuliser solution).
 Patient-reported convenience and overall treatment satisfaction (as collected through a patient-reported outcomes questionnaire) were consistently higher with TOBI Podhaler compared with tobramycin nebuliser solution in each cycle.
 
-For safety results see section 4.8.
+For safety results see section 4.8
+
+Paediatric population
+
+The European Medicines Agency has waived the obligation to submit the results of studies with TOBI Podhaler in one or more subsets of the paediatric population in treatment of pseudomonas aeruginosa pulmonary infection/colonisation in patients with cystic fibrosis (see section 4.2 for information on paediatric use).

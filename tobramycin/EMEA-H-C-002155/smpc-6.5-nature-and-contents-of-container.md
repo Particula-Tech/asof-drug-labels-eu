@@ -5,7 +5,7 @@ The hard capsules are supplied in PVC/PA/Alu/PVC- PET/Alu blisters.
 The Podhaler inhalation device and its storage case are made from plastic materials (polypropylene).
 
 TOBI Podhaler is supplied in monthly packs containing 4 weekly cartons and a reserve Podhaler device in its storage case.
-Each weekly carton contains 56 x 28 mg capsules (7 blister strips with 8 capsules per strip), and a Podhaler device in its storage case.
+Each weekly carton contains 56 x 28 mg capsules (7 blisters with 8 capsules per blister), and a Podhaler device in its storage case.
 
 Pack sizes:
 56 capsules and 1 inhaler
