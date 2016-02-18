@@ -7,6 +7,7 @@ Mechanism of action
 Benlysta is a human IgG1λ monoclonal antibody specific for soluble human B Lymphocyte Stimulator protein (BLyS, also referred to as BAFF and TNFSF13B).
 Benlysta blocks the binding of soluble BLyS, a B cell survival factor, to its receptors on B cells.
 Benlysta does not bind B cells directly, but by binding BLyS, Benlysta inhibits the survival of B cells, including autoreactive B cells, and reduces the differentiation of B cells into immunoglobulin-producing plasma cells.
+
 BLyS levels are elevated in patients with SLE and other autoimmune diseases.
 There is an association between plasma BLyS levels and SLE disease activity.
 The relative contribution of BLyS levels to the pathophysiology of SLE is not fully understood.
@@ -15,6 +16,7 @@ Pharmacodynamic effects
 
 Changes in biomarkers were seen in clinical trials.
 In patients with hypergammaglobulinemia, normalization of IgG levels was observed by Week 52 in 49% and 20% of patients receiving Benlysta and placebo, respectively.
+
 In patients with anti-dsDNA antibodies, 16% of patients treated with Benlysta converted to anti-dsDNA negative compared with 7% of the patients receiving placebo by Week 52.
 In patients with low complement levels, normalization of C3 and C4 was observed by Week 52 in 38% and 44% of patients receiving Benlysta and in 17% and 19% of patients receiving placebo.
 Of the anti-phospholipid antibodies, only anti-cardiolipin antibody was measured.
@@ -61,15 +63,15 @@ The primary efficacy endpoint was a composite endpoint (SLE Responder Index) tha
 
 The SLE Responder Index measures improvement in SLE disease activity, without worsening in any organ system, or in the patient’s overall condition.
 
-Table 1: Response Rate at Week 52
+Table 1: Response rate at week 52
 
 | Response | BLISS-76 |  | BLISS-52 |  | BLISS-76 and BLISS-52 Pooled |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Placebo* (n=275) | Benlysta 10 mg/kg* (n=273) | Placebo* (n=287) | Benlysta 10 mg/kg* (n=290) | Placebo* (n=562) | Benlysta 10 mg/kg* (n=563) |
-| SLE Responder Index | 33.8% | 43.2% (p=0.021) | 43.6% | 57.6% (p=0.0006) | 38.8% | 50.6% (p<0.0001) |
+| SLE responder index | 33.8% | 43.2% (p=0.021) | 43.6% | 57.6% (p=0.0006) | 38.8% | 50.6% (p<0.0001) |
 | Observed difference vs placebo |  | 9.4% |  | 14.0% |  | 11.8% |
 | Odds ratio (95% CI) vs placebo |  | 1.52 (1.07, 2.15) |  | 1.83 (1.30,2.59) |  | 1.68 (1.32,2.15) |
-| Components of SLE Responder Index |  |  |  |  |  |  |
+| Components of SLE responder index |  |  |  |  |  |  |
 | Percent of patients with reduction in SELENA-SLEDAI ≥4 | 35.6% | 46.9% (p=0.006 | 46.0% | 58.3% (p= 0.0024) | 40.9% | 52.8% (p<0.0001) |
 | Percent of patients with no worsening by BILAG index | 65.1% | 69.2% (p=0.32) | 73.2% | 81.4% (p=0.018) | 69.2% | 75.5% (p=0.019) |
 | Percent of patients with no worsening by PGA | 62.9% | 69.2% (p=0.13) | 69.3% | 79.7% (p=0.0048) | 66.2% | 74.6% (p=0.0017) |
@@ -94,24 +96,24 @@ Table 2: Patients with low complement and positive anti-dsDNA at baseline
 | Subgroup | Anti-dsDNA positive AND low complement |  |
 | --- | --- | --- |
 | BLISS-76 and BLISS-52 pooled data | Placebo (n=287) | Benlysta 10 mg/kg (n=305) |
-| SRI response rate at Week 52 (%) | 31.7 | 51.5 (p<0.0001) |
+| SRI response rate at week 52 (%) | 31.7 | 51.5 (p<0.0001) |
 | Observed treatment difference vs placebo (%) |  | 19.8 |
-| SRI response rate (excluding complement and anti-dsDNA changes) at Week 52 (%) | 28.9 | 46.2 (p<0.0001) |
+| SRI response rate (excluding complement and anti-dsDNA changes) at week 52 (%) | 28.9 | 46.2 (p<0.0001) |
 | Observed treatment difference vs placebo (%) |  | 17.3 |
 | Severe flares over 52 weeks Patients experiencing a severe flare (%) | 29.6 | 19.0 |
 | Observed treatment difference vs placebo (%) Time to severe flare [Hazard ratio (95% CI)] |  | 10.6 0.61 (0.44, 0.85) (p=0.0038) |
-| Prednisone reduction by ≥25% from baseline to ≤7.5 mg/day during Weeks 40 through 52* (%) | (n=173) 12.1 | (n=195) 18.5 (p=0.0964) |
-| Observed treatment difference vs placebo (%) |  | 6.3 |
-| FACIT-fatigue score improvement from baseline at Week-52 (mean) | 1.99 | 4.21 (p=0.0048) |
+| Prednisone reduction by ≥25% from baseline to ≤7.5 mg/day during weeks 40 through 52* (%) Observed treatment difference vs placebo (%) | (n=173) 12.1 | (n=195) 18.5 (p=0.0964) 6.3 |
+| FACIT-fatigue score improvement from baseline at week-52 (mean) | 1.99 | 4.21 (p=0.0048) |
 | Observed treatment difference vs placebo (mean difference) |  | 2.21 |
 | BLISS-76 Study only | Placebo (n=131) | Benlysta 10 mg/kg (n=134) |
 | SRI response rate at Week-76 (%) | 27.5 | 39.6 (p=0.0160) |
 | Observed treatment difference vs placebo (%) |  | 12.1 |
 
 * Among patients with baseline prednisone dose >7.5 mg/day
+Age and race
+
+There were too few patients over 65 years of age, or black/African American patients enrolled in the controlled clinical trials to draw meaningful conclusions about the effects of age or race on clinical outcomes.
 
 Paediatric population
-The European Medicines Agency has deferred the obligation to submit the results of studies with Benlysta in one or more subsets of the paediatric population in SLE (see section 4.2 for information on paediatric use).
 
-Age and race
-There were too few patients over 65 years of age, or black/African American patients enrolled in the controlled clinical trials to draw meaningful conclusions about the effects of age or race on clinical outcomes.
+The European Medicines Agency has deferred the obligation to submit the results of studies with Benlysta in one or more subsets of the paediatric population in SLE (see section 4.2 for information on paediatric use).

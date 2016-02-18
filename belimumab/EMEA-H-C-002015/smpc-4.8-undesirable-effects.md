@@ -6,7 +6,9 @@ The safety of Benlysta in patients with SLE has been evaluated in 3 placebo-cont
 The data described below reflect exposure to Benlysta 10 mg/kg in 674 patients with SLE, including 472 exposed for at least 52 weeks.
 The safety data presented include data beyond Week 52 in some patients.
 Data from postmarketing reports are also included.
+
 Patients received Benlysta 10 mg/kg intravenously over a 1-hour period on Days 0, 14, 28, and then every 28 days for 52 weeks.
+
 The majority of patients were also receiving one or more of the following concomitant treatments for SLE: corticosteroids, immunomodulatory medicinal products, anti-malarials, non-steroidal anti-inflammatory medicinal products.
 
 Adverse reactions were reported in 93% of Benlysta-treated patients and 92% of placebo-treated patients.
@@ -57,15 +59,16 @@ Infections occurring in at least 3% of Benlysta patients and at least 1% more fr
 Serious infections occurred in 5% of patients receiving Benlysta or placebo.
 Infections leading to discontinuation of treatment occurred in 0.6% of patients receiving Benlysta and 1% of patients receiving placebo.
 Opportunistic infections have been reported in patients treated with Benlysta.
-Leucopenia: The incidence of leucopenia reported as an adverse event was 4% in the group receiving Benlysta and 2% in the group receiving placebo.
 
+Leucopenia: The incidence of leucopenia reported as an adverse event was 4% in the group receiving Benlysta and 2% in the group receiving placebo.
 Psychiatric disorders: Insomnia occurred in 7% of the group receiving Benlysta and 5% of the group receiving placebo.
 Depression was reported in 5% and 4% of the groups receiving Benlysta and placebo, respectively.
 
-Gastrointestinal disorders: Obese patients (BMI >30 kg/m2) treated with Benlysta reported higher rates of nausea, vomiting and diarrhoea relative to placebo, and compared with normal-weight patients (BMI ≥18.5 to ≤30 kg/m2).
+Gastrointestinal disorders: Obese patients [Body mass index (BMI) >30 kg/m2] treated with Benlysta reported higher rates of nausea, vomiting and diarrhoea relative to placebo, and compared with normal-weight patients (BMI ≥18.5 to ≤30 kg/m2).
 None of these gastrointestinal events in obese patients were serious.
 
 Reporting of suspected adverse reactions
+
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

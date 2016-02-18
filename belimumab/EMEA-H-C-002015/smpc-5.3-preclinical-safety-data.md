@@ -1,6 +1,6 @@
 # 5.3 Preclinical safety data
 
-Nonclinical data reveal no special hazard for humans based on studies of repeated dose toxicity and toxicity to reproduction.
+Non-clinical data reveal no special hazard for humans based on studies of repeated dose toxicity and toxicity to reproduction.
 
 Intravenous and subcutaneous administration to monkeys resulted in the expected reduction in the number of peripheral and lymphoid tissue B cell counts with no associated toxicological findings.
 
