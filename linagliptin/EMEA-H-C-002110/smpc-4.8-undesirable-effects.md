@@ -62,6 +62,7 @@ Rash* uncommon
 |  | Adverse reactions by treatment regimen |  |  |  |
 | --- | --- | --- | --- | --- |
 | System organ class Adverse reaction | Linagliptin monotherapy | Linagliptin + Metformin | Linagliptin + Metformin + Sulphonylurea | Linagliptin + Insulin |
+| Bullous pemphigoid* | not known |  |  |  |
 | Investigations |  |  |  |  |
 | Amylase increased | uncommon | uncommon | not known | not known |
 
