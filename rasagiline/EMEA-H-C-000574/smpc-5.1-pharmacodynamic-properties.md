@@ -6,11 +6,11 @@ Mechanism of action:
 
 Rasagiline was shown to be a potent, irreversible MAO-B selective inhibitor, which may cause an increase in extracellular levels of dopamine in the striatum.
 The elevated dopamine level and subsequent increased dopaminergic activity are likely to mediate rasagiline's beneficial effects seen in models of dopaminergic motor dysfunction.
+
 1-Aminoindan is an active major metabolite and it is not a MAO-B inhibitor.
 
 Clinical studies:
 The efficacy of rasagiline was established in three studies: as monotherapy treatment in study I and as adjunct therapy to levodopa in the studies II and III.
-
 Monotherapy:
 In study I, 404 patients were randomly assigned to receive placebo (138 patients), rasagiline 1 mg/day (134 patients) or rasagiline 2 mg/day (132 patients) and were treated for 26 weeks, there was no active comparator.
 In this study, the primary measure of efficacy was the change from baseline in the total score of the Unified Parkinson’s Disease Rating Scale (UPDRS, parts I-III).

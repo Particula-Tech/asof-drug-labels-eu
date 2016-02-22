@@ -1,7 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Teva Pharma GmbH
-Graf-Arco-Str.
-3
-89079 Ulm
-Germany
+Teva B.V.
+Swensweg 5
+2031 GA Haarlem
+The Netherlands
