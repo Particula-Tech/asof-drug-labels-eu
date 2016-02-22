@@ -42,6 +42,7 @@ The following list is not an inclusive list of interactions between ketoconazole
 | Cilostazol | Cilostazol: AUC: ↑ 2.2 fold The overall pharmacological activity of cilostazol increases 35% when co-administered with ketoconazole. | Careful monitoring A cilostazol dosage of 50 mg twice daily is recommended in combination with Ketoconazole HRA. |
 | Warfarin and other coumarin-like drugs | Potential ↑in plasma concentrations of warfarin | Careful monitoring INR (international normalised ratio) monitoring recommended. |
 | Dabigatran | Dabigatran: AUC: ↑ 2.6-fold Cmax: ↑2.5-fold | Contraindicated due to an increased bleeding risk (see section 4.3). |
+| Apixaban | Apixaban AUC: ↑ 2-fold Cmax: ↑1.6-fold | Not recommended due to an increased bleeding risk. |
 | Anticonvulsants |  |  |
 | Carbamazepine Phenytoin | Potential ↑in plasma concentrations of carbamazepine and phenytoin Potential ↓ in plasma concentrations of ketoconazole are expected. (CYP3A enzyme induction) | Not recommended. (See also “Effects of other medicinal products on the metabolism of Ketoconazole HRA ”). |
 | Antidiabetics |  |  |
@@ -49,20 +50,19 @@ The following list is not an inclusive list of interactions between ketoconazole
 | Saxagliptin | Saxagliptin: AUC: ↑ 2.5-fold Cmax: ↑ 1.6-fold Associated with a decrease in corresponding values for the active metabolite | Careful monitoring. Dose adjustment of saxagliptin may be required. |
 | Anti-infectives |  |  |
 | Rifabutin Rifampicin Isoniazid | Potential ↑ in plasma concentrations of rifabutine. Potencial ↓ in plasma concentrations of ketoconazole are expected. (CYP3A4 enzyme induction) | Not recommended. (See also “Effects of other medicinal products on the metabolism of Ketoconazole HRA ”) |
-| Telithromycin | Telithromycine: | Not recommended. |
-| Clarithromycin | AUC: ↑ 2-fold Cmax: ↑1.5-fold Potential ↑in plasma concentrations of clarithromycin | Contraindicated in patients with severe renal impairment due to the risk of QT interval prolongation and serious hepatic adverse reactions (see section 4.3). |
+| Telithromycin Clarithromycin | Telithromycine: AUC: ↑ 2-fold Cmax: ↑1.5-fold Potential ↑in plasma concentrations of clarithromycin | Not recommended. Contraindicated in patients with severe renal impairment due to the risk of QT interval prolongation and serious hepatic adverse reactions (see section 4.3). |
 | Praziquantel | ↑in plasma concentrations of praziquantel have been observed | Careful monitoring. Dose adjustment of praziquantel may be required. |
 | Antimigraine Drugs |  |  |
 | Ergots alkaloids such as dihydroergotamine, ergometrine (ergonovine), ergotamine, methylergometrine (methylergonovine) | Potential ↑in plasma concentrations of ergot alkaloids | Contraindicated due to the increased risk of ergotism and other serious vasospastic adverse events (see section 4.3). |
 | Eletriptan | Eletriptan: AUC: ↑ 5.9-fold Cmax: ↑ 2.7-fold | Not recommended. |
 | Antineoplastics |  |  |
-| Sunitinib Dasatinib Lapatinib Nilotinib Erlotinib | Sunitinib AUC: ↑ 1.5-fold Cmax: ↑ 1.5-fold Lapatinib: AUC: ↑ 3.6-fold Nilotinib: AUC: ↑ 3.0-fold Erlotinib: AUC: ↑ 1.9-fold Cmax: ↑ 1.7-fold Dasatinib ↑in plasma concentrations of Dasatinib have been observed | Not recommended due to the risk of increased exposure to these drugs and QT prolongation. |
+| Sunitinib Dasatinib Lapatinib Nilotinib Erlotinib Dabrafenib Cabozantinib | Sunitinib AUC: ↑ 1.5-fold Cmax: ↑ 1.5-fold Lapatinib: AUC: ↑ 3.6-fold Nilotinib: AUC: ↑ 3.0-fold Erlotinib: AUC: ↑ 1.9-fold Cmax: ↑ 1.7-fold Dasatinib ↑in plasma concentrations of Dasatinib have been observed Dabrafenib AUC: ↑ 1.7-fold Cmax: ↑ 1.3-fold Cabozantinib AUC: ↑ 1.4-fold Cmax: ↔ | Not recommended due to the risk of increased exposure to these drugs and QT prolongation. |
 | Irinotecan | Irinotecan: AUC: ↑ 2.1-fold | Contraindicated due to an alteration of the metabolism of this medicinal product (see section 4.3). |
-| Bortezomib Busulfan Docetaxel Imatinib | Bortezomib: AUC: ↑ 1.4-fold Imatinib: AUC: ↑ 1.4-fold Cmax: ↑ 1.3-fold ↑in plasma concentrations of docetaxel have been observed Potential ↑in plasma concentrations of busulfan | Careful monitoring. Dose adjustment of each drug may be required. |
+| Bortezomib Busulfan Docetaxel Imatinib Cabazitaxel | Bortezomib: AUC: ↑ 1.4-fold Imatinib: AUC: ↑ 1.4-fold Cmax: ↑ 1.3-fold ↑in plasma concentrations of docetaxel have been observed Potential ↑in plasma concentrations of busulfan Cabazitaxel | Careful monitoring. Dose adjustment of each drug may be required. |
+|  | AUC: ↑ 1.3-fold |  |
 | Paclitaxel | Paclitaxel: No change in plasma concentration were shown with paclitaxel concentrate. No studies were performed with albumin bound nanoparticules. | Careful monitoring. Dose adjustment of paclitaxel may be required. |
 | Vincristine, vinblastine (vinca alkaloids) | Potential ↑in plasma concentrations of vinca alkaloids. | Careful monitoring as it may cause an earlier onset and/or an increased severity of side-effects. |
-| Antipsychotics, Anxiolytics and |  |  |
-| Hypnotics |  |  |
+| Antipsychotics, Anxiolytics and Hypnotics |  |  |
 | Triazolam Alprazolam Midazolam oral | AUC: ↑ have been observed Cmax: ↑ have been observed | Contraindicated due to the risk of potentially prolonged or increased sedation and respiratory depression (see section 4.3). |
 | Midazolam IV | Midazolam: AUC: ↑ 1.6-fold | Careful monitoring. Dose adjustment of midazolam IV may be required. |
 | Lurasidone | Lurasidone: AUC: ↑ 9 fold Cmax: ↑ 6 fold | Contraindicated due to the increased risk of adverse events (see section 4.3). |
@@ -76,10 +76,10 @@ The following list is not an inclusive list of interactions between ketoconazole
 | Risperidone | Potential ↑in AUC of risperidone: | Careful monitoring. Dose adjustment of risperidone may be required. |
 | HIV products |  |  |
 | Maraviroc | Maraviroc: AUC: ↑ 5-fold Cmax: ↑ 3.4-fold | Careful monitoring. Maraviroc dose should be decreased to 150 mg twice daily. |
-| Saquinavir (saquinavir/ritonavir 1000/100 mg bid) | Saquinavir: AUC: ↔ Cmax: ↔ Ketoconazole AUC: ↑ 2.7-fold Cmax:↑ 1.5-fold (CYP3A4 enzyme inhibition by ritonavir) | Contraindicated due to the risk of QT prolongation (see section 4.3). |
-| Indinavir | Indinavir (600mg TID): AUC: ↓ 1.2-fold Cmin: ↑ 0.7-fold (Relative to Indinavir 800 mg TID alone) | Careful monitoring. Dose reduction of Indinavir to 600 mg every 8 hours should be considered. |
-| Nevirapine | Ketoconazole: | Not recommended |
-|  | AUC: ↓0.28-fold Cmax: ↓0.56-fold Nevirapine: plasma levels: ↑1.15-1.28-fold compared to historical controls (CYP3A enzyme induction) |  |
+| Saquinavir (saquinavir/ritonavir | Saquinavir: AUC: ↔ | Contraindicated due to the risk of QT prolongation (see section 4.3). |
+| 1000/100 mg bid) | Cmax: ↔ Ketoconazole AUC: ↑ 2.7-fold Cmax:↑ 1.5-fold (CYP3A4 enzyme inhibition by ritonavir) |  |
+| Indinavir | Indinavir (600mg TID): AUC= 0.8-fold Cmin: ↑ 1.3-fold (Relative to Indinavir 800 mg TID alone) | Careful monitoring. Dose reduction of Indinavir to 600 mg every 8 hours should be considered. |
+| Nevirapine | Ketoconazole: AUC: ↓0.28-fold Cmax: ↓0.56-fold Nevirapine: plasma levels: ↑1.15-1.28-fold compared to historical controls (CYP3A enzyme induction) | Not recommended |
 | Ritonavir | Ketoconazole: AUC: ↑3.4-fold Cmax: ↑1.6-fold (CYP3A enzyme inhibition) | A dose reduction of ketoconazole should be considered when co-administered with ritonavir dosed as an antiretroviral agent or as a pharmacokinetic enhancer. (See also “Effects of other medicinal products on the metabolism of Ketoconazole HRA ”). |
 | Beta Blockers |  |  |
 | Nadolol | ↑in plasma concentrations of nadolol have been observed | Careful monitoring. Dose adjustment of nadolol may be required. |
@@ -93,11 +93,11 @@ The following list is not an inclusive list of interactions between ketoconazole
 | Diuretics |  |  |
 | Eplerenone | Eplerenone: AUC: ↑ 5.5-fold | Contraindicated due to the increased risk of hyperkalaemia and hypotension (see section 4.3). |
 | Gastrointestinal Drugs |  |  |
-| Aprepitant | Aprepitant: AUC: ↑ 5-fold | Careful monitoring. Dose adjustment of aprepitant may be required |
+| Aprepitant | Aprepitant: | Careful monitoring. |
+|  | AUC: ↑ 5-fold | Dose adjustment of aprepitant may be required |
 | Domperidone | Domperidone: AUC: ↑ 3.0 fold Cmax: ↑ 3.0 fold | Not recommended due to an increased risk in QT prolongation. |
 | Immunosuppressants |  |  |
-| Everolimus Sirolimus (rapamycin) | Everolimus: AUC: ↑ 15.3-fold Cmax: ↑ 4.1-fold Sirolimus (rapamycin): AUC: ↑ 10.9-fold | Contraindicated due to the large increase in these drugs concentrations (see section 4.3). |
-|  | Cmax: ↑ 4.4-fold |  |
+| Everolimus Sirolimus (rapamycin) | Everolimus: AUC: ↑ 15.3-fold Cmax: ↑ 4.1-fold Sirolimus (rapamycin): AUC: ↑ 10.9-fold Cmax: ↑ 4.4-fold | Contraindicated due to the large increase in these drugs concentrations (see section 4.3). |
 | Temsirolimus Tacrolimus Ciclosporine Budesonide Ciclesonide | Temsirolimus: AUC: ↔ Cmax: ↔ Ciclesonide active metabolite: AUC: ↑ 3.5-fold Rest of drugs ↑in plasma concentrations of these drugs have been observed | Not recommended unless necessary. Careful monitoring and dose adjustment of these drugs may be required. |
 | Dexamethasone, fluticasone, methylprednisolone | Potential ↑in plasma concentrations of these drugs | Careful monitoring. Dose adjustment of these drugs may be required. |
 | Lipid Lowering Drugs |  |  |
@@ -111,8 +111,7 @@ The following list is not an inclusive list of interactions between ketoconazole
 | Other |  |  |
 | Colchicine | ↑in plasma concentrations of colchicine have been observed | Not recommended due to a potential increase in colchicine-related toxicity. Contraindicated in patients with renal impairment (see section 4.3). |
 | Tolvaptan | ↑in plasma concentrations of tolvaptan have been observed | Contraindicated due to an increase in the plasma concentrations (see section 4.3). |
-| Cinacalcet | Cinacalcet | Careful monitoring. |
-|  | AUC: ↑ 2 fold Cmax: ↑ 2 fold | Dose adjustment of cinacalcet may be required. |
+| Cinacalcet | Cinacalcet AUC: ↑ 2 fold Cmax: ↑ 2 fold | Careful monitoring. Dose adjustment of cinacalcet may be required. |
 | Ebastine | ↑in plasma concentrations of ebastine have been observed | Not recommended due to an increased risk in QT prolongation. |
 | Mizolastine Halofantrine | Potential ↑in plasma concentrations of these drugs | Contraindicated due to the potential for serious cardiovascular events including QT prolongation (see section 4.3). |
 
