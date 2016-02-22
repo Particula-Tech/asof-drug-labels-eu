@@ -5,9 +5,10 @@ Herceptin treatment should only be initiated by a physician experienced in the a
 
 It is important to check the product labels to ensure that the correct formulation (intravenous or subcutaneous fixed dose) is being administered to the patient, as prescribed.
 Herceptin intravenous formulation is not intended for subcutaneous administration and should be administered via an intravenous infusion only.
-Limited information is currently available on switches from one formulation to the other.
 
-In order to prevent medication errors it is important to check the vial labels to ensure that the drug being prepared and administered is Herceptin (trastuzumab) and not trastuzumab emtansine.
+Switching treatment between Herceptin intravenous and Herceptin subcutaneous formulations and vice versa, using the three-weekly (q3w) dosing regimen, was investigated in study MO22982 (see section 4.8).
+
+In order to prevent medication errors it is important to check the vial labels to ensure that the drug being prepared and administered is Herceptin (trastuzumab) and not Kadcyla (trastuzumab emtansine).
 
 Posology
 
@@ -23,6 +24,7 @@ The recommended weekly maintenance dose of Herceptin is 2 mg/kg body weight, beg
 
 Administration in combination with paclitaxel or docetaxel
 In the pivotal trials (H0648g, M77001), paclitaxel or docetaxel was administered the day following the first dose of Herceptin (for dose, see the Summary of Product Characteristics (SmPC) for paclitaxel or docetaxel) and immediately after the subsequent doses of Herceptin if the preceding dose of Herceptin was well tolerated.
+
 Administration in combination with an aromatase inhibitor
 In the pivotal trial (BO16216) Herceptin and anastrozole were administered from day 1.
 There were no restrictions on the relative timing of Herceptin and anastrozole at administration (for dose, see the SmPC for anastrozole or other aromatase inhibitors).
@@ -53,18 +55,18 @@ No reductions in the dose of Herceptin were made during clinical trials.
 Patients may continue therapy during periods of reversible, chemotherapy-induced myelosuppression but they should be monitored carefully for complications of neutropenia during this time.
 Refer to the SmPC for paclitaxel, docetaxel or aromatase inhibitor for information on dose reduction or delays.
 
-If left ventricular ejection fraction (LVEF) drops ≥ 10 ejection fraction (EF) points from baseline AND to below 50 %, treatment should be suspended and a repeat LVEF assessment performed within approximately 3 weeks.
-If LVEF has not improved, or declined further, or symptomatic congestive heart failure (CHF) has developed, discontinuation of Herceptin should be strongly considered, unless the benefits for the individual patient are deemed to outweigh the risks.
+If left ventricular ejection fraction (LVEF) percentage drops ≥ 10 points from baseline AND to below 50 %, treatment should be suspended and a repeat LVEF assessment performed within approximately 3 weeks.
+If LVEF has not improved, or has declined further, or if symptomatic congestive heart failure (CHF) has developed, discontinuation of Herceptin should be strongly considered, unless the benefits for the individual patient are deemed to outweigh the risks.
 All such patients should be referred for assessment by a cardiologist and followed up.
 
 Missed doses
-If the patient misses a dose of Herceptin by one week or less, then the usual maintenance dose (weekly regimen: 2 mg/kg; three-weekly regimen: 6 mg/kg) should be given as soon as possible.
+If the patient has missed a dose of Herceptin by one week or less, then the usual maintenance dose (weekly regimen: 2 mg/kg; three-weekly regimen: 6 mg/kg) should be administered as soon as possible.
 Do not wait until the next planned cycle.
-Subsequent maintenance doses (weekly regimen: 2 mg/ kg; three-weekly regimen: 6 mg/kg respectively) should then be given according to the previous schedule.
+Subsequent maintenance doses should be administered 7 days or 21 days later according to the weekly or three-weekly schedules, respectively.
 
-If the patient misses a dose of Herceptin by more than one week, a re-loading dose of Herceptin should be given over approximately 90 minutes (weekly regimen: 4 mg/kg; three-weekly regimen:
-8 mg/kg).
-Subsequent Herceptin maintenance doses (weekly regimen: 2 mg/kg; three-weekly regimen 6 mg/kg respectively) should then be given (weekly regimen: every week; three-weekly regimen every 3 weeks) from that point.
+If the patient has missed a dose of Herceptin by more than one week, a re-loading dose of Herceptin should be administered over approximately 90 minutes (weekly regimen: 4 mg/kg; three-weekly regimen: 8 mg/kg) as soon as possible.
+Subsequent Herceptin maintenance doses (weekly regimen:
+2 mg/kg; three-weekly regimen 6 mg/kg respectively) should be administered 7 days or 21 days later according to the weekly or three-weekly schedules respectively.
 Special populations
 Dedicated pharmacokinetic studies in older people and those with renal or hepatic impairment have not been carried out.
 In a population pharmacokinetic analysis, age and renal impairment were not shown to affect trastuzumab disposition.
@@ -103,7 +105,7 @@ Refer to the Summary of Product Characteristics (SmPC) for paclitaxel, docetaxel
 If the patient misses a dose of Herceptin subcutaneous formulation, it is recommended to administer the next 600 mg dose (i.e. the missed dose) as soon as possible.
 The interval between consecutive Herceptin subcutaneous formulation administrations should not be less than three weeks.
 
-The 600 mg dose should be administered as a subcutaneous injection only over 2-5 minutes.
+The 600 mg dose should be administered as a subcutaneous injection only over 2-5 minutes every three weeks.
 The injection site should be alternated between the left and right thigh.
 New injections should be given at least 2.5 cm from the old site and never into areas where the skin is red, bruised, tender, or hard.
 During the treatment course with Herceptin subcutaneous formulation other medicinal products for subcutaneous administration should preferably be injected at different sites.
@@ -113,7 +115,7 @@ For instructions on use and handling of Herceptin subcutaneous formulation refer
 
 [Herceptin 600 mg solution for injection in administration system]
 
-The recommended dose for Herceptin subcutaneous formulation in administration system is 600 mg, irrespective of the patient’s body weight.
+The recommended dose for Herceptin subcutaneous formulation in administration system is 600 mg irrespective of the patient’s body weight.
 This dose should be administered subcutaneously every three weeks.
 The duration of the administration is approximately 5 minutes
 
@@ -123,7 +125,7 @@ If there are repeated incidences of mishandling or failure of the administration
 If a partial dose is administered due to mishandling or failure of the administration system, the next full dose should be administered at the next scheduled visit in 3 weeks.
 
 The Herceptin 600 mg solution for injection in administration system is ready to use and is for single use only.
-The 600 mg dose should be administered as a subcutaneous injection.
+The 600 mg dose should be administered as a subcutaneous injection every three weeks.
 New injections should be given at least 2.5 cm from the old site on healthy skin and never into areas where the skin is red, bruised, tender, or hard.
 The injection site may need to be shaved to facilitate the fixing and removal of the adhesive pad of the administration system.
 
