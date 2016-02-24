@@ -7,7 +7,6 @@ Absorption
 
 The onset of action of caffeine from caffeine citrate is within minutes of commencement of infusion.
 After oral administration of 10 mg caffeine base/kg body weight to preterm newborn infants, the peak plasma caffeine concentration (Cmax) ranged from 6 to 10 mg/l and the mean time to reach peak concentration (tmax) ranged from 30 min to 2 h. The extent of absorption is not affected by formula feeding but tmax may be prolonged.
-
 Distribution
 
 Caffeine is rapidly distributed into the brain following caffeine citrate administration.
@@ -25,6 +24,7 @@ Hepatic cytochrome P450 1A2 (CYP1A2) is involved in caffeine biotransformation i
 Inter-conversion between caffeine and theophylline has been reported in preterm newborn infants; caffeine levels are approximately 25% of theophylline levels after theophylline administration and approximately 3-8% of caffeine administered would be expected to convert to theophylline.
 
 Elimination
+
 In young infants, the elimination of caffeine is much slower than that in adults due to immature hepatic and/or renal function.
 In newborn infants, caffeine clearance is almost entirely by renal excretion.
 Mean half-life (t1/2) and fraction excreted unchanged in urine (Ae) of caffeine in infants are inversely related to gestational / postmenstrual age.

@@ -13,8 +13,8 @@ In newborn infants born to mothers who consumed large quantities of caffeine pri
 Breast-feeding mothers of newborn infants treated with caffeine citrate should not ingest caffeine-containing foods and beverages or medicinal products containing caffeine (see section 4.6), since caffeine is excreted into breast milk (see section 5.2).
 
 Theophylline
-
 In newborns previously treated with theophylline, baseline plasma caffeine concentrations should be measured prior to initiation of treatment with caffeine citrate because preterm infants metabolise theophylline to caffeine.
+
 Seizures
 
 Caffeine is a central nervous system stimulant and seizures have been reported in cases of caffeine overdose.
@@ -30,7 +30,8 @@ If there have been any unusual rhythm disturbances on a cardiotocograph (CTG) tr
 
 Renal and hepatic impairment
 
-Caffeine citrate should be administered with caution in preterm newborn infants with impaired renal or hepatic function (see sections 4.2 and 5.2).
+Caffeine citrate should be administered with caution in preterm newborn infants with impaired renal or hepatic function.
+In a post-authorisation safety study, the frequency of adverse reactions in a small number of very premature infants with renal/hepatic impairment appeared to be higher as compared to premature infants without organ impairment (see sections 4.2, 4.8 and 5.2).
 Doses should be adjusted by monitoring of caffeine plasma concentrations to avoid toxicity in this population.
 
 Necrotising enterocolitis

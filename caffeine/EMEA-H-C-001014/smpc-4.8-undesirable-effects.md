@@ -3,22 +3,25 @@
 Summary of the safety profile
 
 The known pharmacology and toxicology of caffeine and other methylxanthines predict the likely adverse reactions to caffeine citrate.
-Effects described include central nervous system (CNS) stimulation such as irritability, restlessness and jitteriness, and cardiac effects such as tachycardia, hypertension and increased stroke volume.
+Effects described include central nervous system (CNS) stimulation such as convulsion, irritability, restlessness and jitteriness, cardiac effects such as tachycardia, arrhythmia, hypertension and increased stroke volume, metabolism and nutrition disorders such as hyperglycaemia.
 These effects are dose related and may necessitate measurement of plasma levels and dose reduction.
 
 Tabulated list of adverse reactions
-
-The adverse reactions described in the short- and long-term published literature that can be associated with caffeine citrate are listed below by System Organ Class and Preferred Term (MedDRA).
+The adverse reactions described in the short- and long-term published literature and obtained from a post-authorisation safety study that can be associated with caffeine citrate are listed below by System Organ Class and Preferred Term (MedDRA).
 Frequency is defined as: very common (≥ 1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000) and not known (cannot be estimated from the available data).
 
 | System Organ Class | Adverse Reaction | Frequency |
 | --- | --- | --- |
 | Infections and infestations | Sepsis | Not known |
 | Immune system disorders | Hypersensitivity reaction | Rare |
-| Metabolism and nutrition disorders | Hypoglycaemia, hyperglycaemia, failure to thrive, feeding intolerance | Not known |
-| Nervous system disorders | Irritability, jitteriness, restlessness, brain injury, convulsion | Not known |
+| Metabolism and nutrition disorders | Hyperglycaemia | Common |
+|  | Hypoglycaemia, failure to thrive, feeding intolerance | Not known |
+| Nervous system disorders | Convulsion | Uncommon |
+|  | Irritability, jitteriness, restlessness, brain injury | Not known |
 | Ear and labyrinth disorders | Deafness | Not known |
-| Cardiac disorders | Tachycardia, also associated with increased left ventricular output and increased stroke volume | Not known |
+| Cardiac disorders | Tachycardia | Common |
+|  | Arrhythmia | Uncommon |
+|  | Increased left ventricular output and increased stroke volume | Not known |
 | Gastrointestinal disorders | Regurgitation, increased gastric aspirate, necrotising enterocolitis | Not known |
 | General disorders and administration site conditions | Infusion site phlebitis, infusion site inflammation | Common |
 | Investigations | Urine output increased, urine sodium and calcium increased, haemoglobin decreased, thyroxine decreased | Not known |
@@ -38,7 +41,14 @@ Transient falls in thyroxine (T4) have been recorded in infants at the start of 
 Available evidence does not indicate any adverse long-term reactions of neonatal caffeine therapy as regards neurodevelopmental outcome, failure to thrive or on the cardiovascular, gastrointestinal or endocrine systems.
 Caffeine does not appear to aggravate cerebral hypoxia or to exacerbate any resulting damage, although the possibility cannot be ruled out.
 
+Other special populations
+
+In a post-authorisation safety study on 506 preterm infants treated with Peyona, safety data have been collected in 31 very premature infants with renal/hepatic impairment.
+Adverse reactions appeared to be more frequent in this subgroup with organ impairment than in other observed infants without organ impairment.
+Cardiac disorders (tachycardia, including one single case of arrhythmia) were mostly reported.
+
 Reporting of suspected adverse reactions
+
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

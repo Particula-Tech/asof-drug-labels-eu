@@ -55,7 +55,8 @@ As there is a risk for recurrence of apnoeas after cessation of caffeine citrate
 
 Hepatic and renal impairment
 
-The safety of caffeine citrate in patients with renal impairment has not been established.
+There is limited experience in patients with renal and hepatic impairment.
+In a post authorisation safety study, the frequency of adverse reactions in a small number of very premature infants with renal/hepatic imparment appeared to be higher as compared to premature infants without organ impairment (see sections 4.4 and 4.8).
 In the presence of renal impairment, there is increased potential for accumulation.
 A reduced daily maintenance dose of caffeine citrate is required and the dose should be guided by plasma caffeine measurements.
 In very premature infants, clearance of caffeine does not depend on hepatic function.
