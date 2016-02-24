@@ -87,7 +87,7 @@ In clinical trials and post-marketing spontaneous reports, angioedema has been r
 Elderly patients
 In the safety pooling, 35% of the Afinitor-treated patients were ≥65 years of age.
 The number of patients with an adverse reaction leading to discontinuation of the medicinal product was higher in patients ≥65 years of age (19% vs. 13%).
-The most common adverse reactions leading to discontinuation were pneumonitis (including insterstitial lung disease), stomatitis, fatigue and dyspnoea.
+The most common adverse reactions leading to discontinuation were pneumonitis (including interstitial lung disease), stomatitis, fatigue and dyspnoea.
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

@@ -30,7 +30,6 @@ The mean elimination half-life of everolimus is approximately 30 hours.
 No specific excretion studies have been undertaken in cancer patients; however, data are available from the studies in transplant patients.
 Following the administration of a single dose of radiolabelled everolimus in conjunction with ciclosporin, 80% of the radioactivity was recovered from the faeces, while 5% was excreted in the urine.
 The parent substance was not detected in urine or faeces.
-
 Steady-state pharmacokinetics
 After administration of everolimus in patients with advanced solid tumours, steady-state AUC0-τ was dose-proportional over the range of 5 to 10 mg daily dose.
 Steady-state was achieved within two weeks.
@@ -40,6 +39,7 @@ There was a significant correlation between AUC0-τ and pre-dose trough concentr
 Special populations
 Hepatic impairment
 The safety, tolerability and pharmacokinetics of everolimus were evaluated in two single oral dose studies of Afinitor tablets in 8 and 34 subjects with impaired hepatic function relative to subjects with normal hepatic function.
+
 In the first study, the average AUC of everolimus in 8 subjects with moderate hepatic impairment (Child-Pugh B) was twice that found in 8 subjects with normal hepatic function.
 
 In the second study of 34 subjects with different impaired hepatic function compared to normal subjects, there was a 1.6-fold, 3.3-fold and 3.6-fold increase in exposure (i.e. AUC0-inf) for subjects with mild (Child-Pugh A), moderate (Child-Pugh B) and severe (Child-Pugh C) hepatic impairment, respectively.
