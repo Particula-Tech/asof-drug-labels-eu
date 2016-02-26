@@ -8,14 +8,13 @@ Even if recovery from neuromuscular blockade is complete, other medicinal produc
 Should neuromuscular blockade reoccur following extubation, adequate ventilation should be provided.
 
 Recurrence of neuromuscular blockade:
-In clinical trials recurrence of neuromuscular blockade was reported mainly when sub-optimal doses (in dose finding studies) were administered.
-In order to prevent recurrence of neuromuscular blockade, the recommended doses for routine or immediate reversal (see section 4.2) should be used.
+In clinical studies with subjects treated with rocuronium or vecuronium, where sugammadex was administered using a dose labelled for the depth of neuromuscular blockade, an incidence of 0.20% was observed for recurrence of neuromuscular blockade as based on neuromuscular monitoring or clinical evidence.
+The use of lower than recommended doses may lead to an increased risk of recurrence of neuromuscular blockade after initial reversal and is not recommended (see section 4.2 and section 4.8).
 
 Effect on haemostasis:
 In a study in volunteers doses of 4 mg/kg and 16 mg/kg of sugammadex resulted in maximum mean prolongations of the activated partial thromboplastin time (aPTT) by 17 and 22% respectively and prothrombin time international normalized ratio [PT(INR)] by 11 and 22% respectively.
-These limited mean aPTT and PT(INR) prolongations were of short duration (≤ 30 minutes).
-Based on the clinical data-base (n=1,738) and on a specific study in 1184 patients undergoing hip fracture/major joint replacement surgery there was no clinically relevant effect of sugammadex 4 mg/kg alone or in combination with anticoagulants on the incidence of peri- or post-operative bleeding complications.
-
+These limited mean aPTT and PT(INR) prolongations were of short duration (≤30 minutes).
+Based on the clinical data-base (N=3,519) and on a specific study in 1184 patients undergoing hip fracture/major joint replacement surgery there was no clinically relevant effect of sugammadex 4 mg/kg alone or in combination with anticoagulants on the incidence of peri- or post-operative bleeding complications.
 In in vitro experiments a pharmacodynamic interaction (aPTT and PT prolongation) was noted with vitamin K antagonists, unfractionated heparin, low molecular weight heparinoids, rivaroxaban and dabigatran.
 In patients receiving routine post-operative prophylactic anticoagulation this pharmacodynamic interaction is not clinically relevant.
 Caution should be exercised when considering the use of sugammadex in patients receiving therapeutic anticoagulation for a pre-existing or co-morbid condition.
@@ -38,7 +37,7 @@ Re-administration of rocuronium or vecuronium after routine reversal (up to 4 mg
 | 5 minutes | 1.2 mg/kg rocuronium |
 | 4 hours | 0.6 mg/kg rocuronium or 0.1 mg/kg vecuronium |
 
-The onset of neuromuscular blockade may be prolonged up to approximately 4 minutes, and the duration of neuromuscular blockade may be shortened up to approximately 15 minutes after re-administration of rocuronium 1.2 mg/kg (or 0.6 mg/kg).
+The onset of neuromuscular blockade may be prolonged up to approximately 4 minutes, and the duration of neuromuscular blockade may be shortened up to approximately 15 minutes after re-administration of rocuronium 1.2 mg/kg within 30 minutes after sugammadex administration.
 
 Based on PK modelling the recommended waiting time in patients with mild or moderate renal impairment for re-use of 0.6 mg/kg rocuronium or 0.1 mg/kg vecuronium after routine reversal with sugammadex should be 24 hours.
 If a shorter waiting time is required, the rocuronium dose for a new neuromuscular blockade should be 1.2 mg/kg.
@@ -46,7 +45,7 @@ If a shorter waiting time is required, the rocuronium dose for a new neuromuscul
 Re-administration of rocuronium or vecuronium after immediate reversal (16 mg/kg sugammadex): For the very rare cases where this might be required, a waiting time of 24 hours is suggested.
 
 If neuromuscular blockade is required before the recommended waiting time has passed, a nonsteroidal neuromuscular blocking agent should be used.
-The onset of a depolarizing neuromuscular blocking agent might be slower than expected, because a substantial fraction of postjunctional nicotinic receptors can still be occupied by the neuromuscular blocking agent
+The onset of a depolarizing neuromuscular blocking agent might be slower than expected, because a substantial fraction of postjunctional nicotinic receptors can still be occupied by the neuromuscular blocking agent.
 
 Renal impairment:
 Sugammadex is not recommended for use in patients with severe renal impairment, including those requiring dialysis (see section 5.1).
@@ -61,6 +60,7 @@ Bradycardia may occasionally lead to cardiac arrest.
 (See section 4.8.)
 Patients should be closely monitored for hemodynamic changes during and after reversal of neuromuscular blockade.
 Treatment with anti-cholinergic agents such as atropine should be administered if clinically significant bradycardia is observed.
+
 Hepatic impairment:
 Sugammadex is not metabolised nor excreted by the liver; therefore dedicated studies in patients with hepatic impairment have not been conducted.
 Patients with severe hepatic impairment should be treated with great caution.
@@ -80,6 +80,6 @@ Drug hypersensitivity reactions:
 Clinicians should be prepared for the possibility of drug hypersensitivity reactions (including anaphylactic reactions) and take the necessary precautions (see section 4.8).
 
 Patients on a controlled sodium diet:
-Each ml solution contains 9.7 mg sodium.
+Each mL solution contains 9.7 mg sodium.
 A dose of 23 mg sodium is considered essentially ‘sodium-free’.
-If more than 2.4 ml solution needs to be administered, this should be taken into consideration by patients on a controlled sodium diet.
+If more than 2.4 mL solution needs to be administered, this should be taken into consideration by patients on a controlled sodium diet.

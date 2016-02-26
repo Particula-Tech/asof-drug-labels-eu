@@ -11,6 +11,7 @@ As a result recurrence of neuromuscular blockade might be observed.
 In this situation the patient must be ventilated.
 Administration of the medicinal product which caused displacement should be stopped in case of an infusion.
 In situations when potential displacement interactions can be anticipated, patients should be carefully monitored for signs of recurrence of neuromuscular blockade (approximately up to 15 minutes) after parenteral administration of another medicinal product occurring within a period of 7.5 hours after sugammadex administration.
+
 Toremifene:
 For toremifene, which has a relatively high binding affinity for sugammadex and for which relatively high plasma concentrations might be present, some displacement of vecuronium or rocuronium from the complex with sugammadex could occur.
 Clinicians should be aware that the recovery of the T4/T1 ratio to 0.9 could therefore be delayed in patients who have received toremifene on the same day of the operation.
@@ -20,12 +21,13 @@ The use of fusidic acid in the pre-operative phase may give some delay in the re
 No recurrence of neuromuscular blockade is expected in the post-operative phase, since the infusion rate of fusidic acid is over a period of several hours and the blood levels are cumulative over 2-3 days.
 For re-administration of sugammadex see section 4.2.
 
-Interactions potentially affecting the efficacy of other medicinal products (capturing interactions): Due to the administration of sugammadex, certain medicinal products could become less effective due to a lowering of the (free) plasma concentrations.
+Interactions potentially affecting the efficacy of other medicinal products (capturing interactions):
+Due to the administration of sugammadex, certain medicinal products could become less effective due to a lowering of the (free) plasma concentrations.
 If such a situation is observed, the clinician is advised to consider the re-administration of the medicinal product, the administration of a therapeutically equivalent medicinal product (preferably from a different chemical class) and/or non-pharmacological interventions as appropriate.
 
 Hormonal contraceptives:
 The interaction between 4 mg/kg sugammadex and a progestogen was predicted to lead to a decrease in progestogen exposure (34% of AUC) similar to the decrease seen when a daily dose of an oral contraceptive is taken 12 hours too late, which might lead to a reduction in effectiveness.
-For estrogens, the effect is expected to be lower.
+For oestrogens, the effect is expected to be lower.
 Therefore the administration of a bolus dose of sugammadex is considered to be equivalent to one missed daily dose of oral contraceptive steroids (either combined or progestogen only).
 If sugammadex is administered at the same day as an oral contraceptive is taken reference is made to missed dose advice in the package leaflet of the oral contraceptive.
 In the case of non-oral hormonal contraceptives, the patient must use an additional non hormonal contraceptive method for the next 7 days and refer to the advice in the package leaflet of the product.
@@ -37,12 +39,11 @@ In case recurrence of neuromuscular blockade is observed, the patient may requir
 
 Interference with laboratory tests:
 In general sugammadex does not interfere with laboratory tests, with the possible exception of the serum progesterone assay.
-Interference with this test is observed at sugammadex plasma concentrations of 100 microgram/ml (peak plasma level following 8 mg/kg bolus injection).
+Interference with this test is observed at sugammadex plasma concentrations of 100 microgram/mL (peak plasma level following 8 mg/kg bolus injection).
 
 In a study in volunteers doses of 4 mg/kg and 16 mg/kg of sugammadex resulted in maximum mean prolongations of aPTT by 17 and 22% respectively and of PT(INR) by 11 and 22% respectively.
-These limited mean aPTT and PT(INR) prolongations were of short duration (≤ 30 minutes).
+These limited mean aPTT and PT(INR) prolongations were of short duration (≤30 minutes).
 In in vitro experiments a pharmacodynamic interaction (aPTT and PT prolongation) was noted with vitamin K antagonists, unfractionated heparin, low molecular weight heparinoids, rivaroxaban and dabigatran (see section 4.4).
-
 Paediatric population
 
 No formal interaction studies have been performed.
