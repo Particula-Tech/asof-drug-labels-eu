@@ -30,6 +30,9 @@ Decreases in BMD of spine and changes in bone biomarkers from baseline were sign
 Decreases in BMD of hip were significantly greater in this group until 96 weeks.
 However, there was no increased risk of fractures or evidence for clinically relevant bone abnormalities over 144 weeks.
 
+In other studies (prospective and cross-sectional), the most pronounced decreases in BMD were seen in patients treated with tenofovir disoproxil fumarate as part of a regimen containing a boosted protease inhibitor.
+Alternative treatment regimens should be considered for patients with osteoporosis that are at a high risk for fractures.
+
 Bone abnormalities (infrequently contributing to fractures) may be associated with proximal renal tubulopathy (see section 4.8).
 
 Renal and bone effects in paediatric population
@@ -49,10 +52,10 @@ Renal management
 If serum phosphate is confirmed to be < 3.0 mg/dl (0.96 mmol/l) in any paediatric patient receiving tenofovir disoproxil fumarate, renal function should be re-evaluated within one week, including measurements of blood glucose, blood potassium and urine glucose concentrations (see section 4.8, proximal tubulopathy).
 If renal abnormalities are suspected or detected then consultation with a nephrologist should be obtained to consider interruption of tenofovir disoproxil fumarate treatment.
 Interrupting treatment with tenofovir disoproxil fumarate should also be considered in case of progressive decline of renal function when no other cause has been identified.
-
 Co-administration and risk of renal toxicity
 Use of tenofovir disoproxil fumarate should be avoided with concurrent or recent use of a nephrotoxic medicinal product (e.g. aminoglycosides, amphotericin B, foscarnet, ganciclovir, pentamidine, vancomycin, cidofovir or interleukin-2).
 If concomitant use of tenofovir disoproxil fumarate and nephrotoxic agents is unavoidable, renal function should be monitored weekly.
+
 Cases of acute renal failure after initiation of high dose or multiple non-steroidal anti-inflammatory drugs (NSAIDs) have been reported in patients treated with tenofovir disoproxil fumarate and with risk factors for renal dysfunction.
 If tenofovir disoproxil fumarate is co-administered with an NSAID, renal function should be monitored adequately.
 
@@ -92,23 +95,9 @@ Liver disease
 Tenofovir and tenofovir disoproxil fumarate are not metabolised by liver enzymes.
 A pharmacokinetic study has been performed in non-HIV infected adult patients with various degrees of hepatic impairment.
 No significant pharmacokinetic alteration has been observed in these patients (see section 5.2).
+
 Patients with pre-existing liver dysfunction, including chronic active hepatitis, have an increased frequency of liver function abnormalities during combination antiretroviral therapy (CART) and should be monitored according to standard practice.
 If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered.
-
-Lactic acidosis
-Lactic acidosis, usually associated with hepatic steatosis, has been reported with the use of nucleoside analogues.
-The preclinical and clinical data suggest that the risk of occurrence of lactic acidosis, a class effect of nucleoside analogues, is low for tenofovir disoproxil fumarate.
-However, as tenofovir is structurally related to nucleoside analogues, this risk cannot be excluded.
-Early symptoms (symptomatic hyperlactataemia) include benign digestive symptoms (nausea, vomiting and abdominal pain), non-specific malaise, loss of appetite, weight loss, respiratory symptoms (rapid and/or deep breathing) or neurological symptoms (including motor weakness).
-Lactic acidosis has a high mortality and may be associated with pancreatitis, liver failure or renal failure.
-Lactic acidosis generally occurred after a few or several months of treatment.
-
-Treatment with nucleoside analogues should be discontinued in the setting of symptomatic hyperlactataemia and metabolic/lactic acidosis, progressive hepatomegaly, or rapidly elevating aminotransferase levels.
-
-Caution should be exercised when administering nucleoside analogues to any patient (particularly obese women) with hepatomegaly, hepatitis or other known risk factors for liver disease and hepatic steatosis (including certain medicinal products and alcohol).
-Patients co-infected with hepatitis C and treated with alpha interferon and ribavirin may constitute a special risk.
-
-Patients at increased risk should be followed closely.
 
 Lipodystrophy
 CART has been associated with the redistribution of body fat (lipodystrophy) in HIV patients.
@@ -133,6 +122,7 @@ Some late-onset neurological disorders have been reported (hypertonia, convulsio
 Whether the neurological disorders are transient or permanent is currently unknown.
 Any child exposed in utero to nucleoside and nucleotide analogues, even HIV negative children, should have clinical and laboratory follow-up and should be fully investigated for possible mitochondrial dysfunction in case of relevant signs or symptoms.
 These findings do not affect current national recommendations to use antiretroviral therapy in pregnant women to prevent vertical transmission of HIV.
+
 Immune reactivation syndrome
 In HIV infected patients with severe immune deficiency at the time of institution of CART, an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
@@ -140,7 +130,6 @@ Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycoba
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
 
 Autoimmune disorders (such as Graves’ disease) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
-
 Osteonecrosis
 Although the aetiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported, particularly in patients with advanced HIV disease and/or long-term exposure to CART.
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
@@ -206,7 +195,6 @@ If appropriate, resumption of hepatitis B therapy may be warranted.
 Liver flares are especially serious, and sometimes fatal in patients with decompensated liver disease.
 
 Co-infection with hepatitis C or D: There are no data on the efficacy of tenofovir in patients co-infected with hepatitis C or D virus.
-
 Co-infection with HIV-1 and hepatitis B: Due to the risk of development of HIV resistance, tenofovir disoproxil fumarate should only be used as part of an appropriate antiretroviral combination regimen in HIV/HBV co-infected patients.
 However, it should be noted that increases of ALT can be part of HBV clearance during therapy with tenofovir, see above Exacerbations of hepatitis.
 
