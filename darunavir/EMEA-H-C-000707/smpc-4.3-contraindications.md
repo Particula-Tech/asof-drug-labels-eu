@@ -39,6 +39,7 @@ These active substances include e.g.:
 Patients with severe (Child-Pugh Class C) hepatic impairment.
 
 Combination of rifampicin with PREZISTA with concomitant low dose ritonavir (see section 4.5).
+
 Co-administration with the combination product lopinavir/ritonavir (see section 4.5).
 
 Co-administration with herbal preparations containing St John’s wort (Hypericum perforatum) (see section 4.5).

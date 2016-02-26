@@ -20,7 +20,8 @@ For information on cobicistat, consult the cobicistat Summary of Product Charact
 Tabulated list of adverse reactions
 Adverse reactions are listed by system organ class (SOC) and frequency category.
 Within each frequency category, adverse reactions are presented in order of decreasing seriousness.
-Frequency categories are defined as follows: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000) and not known (frequency cannot be estimated from the available data).
+Frequency categories are defined as follows: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon
+(≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000) and not known (frequency cannot be estimated from the available data).
 
 Adverse reactions observed with darunavir/ritonavir in clinical trials and post-marketing
 
@@ -29,93 +30,66 @@ Adverse reactions observed with darunavir/ritonavir in clinical trials and post-
 | Infections and infestations |  |
 | uncommon | herpes simplex |
 | Blood and lymphatic system disorders |  |
-| uncommon | thrombocytopenia, neutropenia, anaemia, leukopenia |
-| rare | increased eosinophil count |
+| uncommon rare | thrombocytopenia, neutropenia, anaemia, leukopenia increased eosinophil count |
 | Immune system disorders |  |
-| uncommon | immune reconstitution syndrome, (drug) hypersensitivity |
+| uncommon | immune reconstitution inflammatory syndrome, (drug) hypersensitivity |
 | Endocrine disorders |  |
 | uncommon | hypothyroidism, increased blood thyroid stimulating hormone |
 | Metabolism and nutrition disorders |  |
-| common uncommon | lipodystrophy (including lipohypertrophy, lipodystrophy, lipoatrophy), diabetes mellitus, hypertriglyceridaemia, hypercholesterolaemia, hyperlipidaemia gout, anorexia, decreased appetite, decreased weight, increased weight, hyperglycaemia, insulin resistance, decreased high density lipoprotein, increased appetite, polydipsia, increased blood lactate dehydrogenase |
+| common uncommon | diabetes mellitus, hypertriglyceridaemia, hypercholesterolaemia, hyperlipidaemia gout, anorexia, decreased appetite, decreased weight, increased weight, hyperglycaemia, insulin resistance, decreased high density lipoprotein, increased appetite, polydipsia, increased blood lactate dehydrogenase |
 | Psychiatric disorders |  |
-| common | insomnia |
-| uncommon | depression, disorientation, anxiety, sleep disorder, abnormal dreams, nightmare, decreased libido |
-| rare | confusional state, altered mood, restlessness |
+| common uncommon rare | insomnia depression, disorientation, anxiety, sleep disorder, abnormal dreams, nightmare, decreased libido confusional state, altered mood, restlessness |
 | Nervous system disorders |  |
-| common | headache, peripheral neuropathy, dizziness |
-| uncommon | lethargy, paraesthesia, hypoaesthesia, dysgeusia, disturbance in attention, memory impairment, somnolence |
-| rare | syncope, convulsion, ageusia, sleep phase rhythm disturbance |
+| common uncommon rare | headache, peripheral neuropathy, dizziness lethargy, paraesthesia, hypoaesthesia, dysgeusia, disturbance in attention, memory impairment, somnolence syncope, convulsion, ageusia, sleep phase rhythm disturbance |
 | Eye disorders |  |
-| uncommon | conjunctival hyperaemia, dry eye |
-| rare | visual disturbance |
+| uncommon rare | conjunctival hyperaemia, dry eye visual disturbance |
 | Ear and labyrinth disorders |  |
 | uncommon | vertigo |
 | Cardiac disorders |  |
-| uncommon | myocardial infarction, angina pectoris, prolonged electrocardiogram QT, tachycardia |
-| rare | acute myocardial infarction, sinus bradycardia, palpitations |
+| uncommon rare | myocardial infarction, angina pectoris, prolonged electrocardiogram QT, tachycardia acute myocardial infarction, sinus bradycardia, palpitations |
 | Vascular disorders |  |
 | uncommon | hypertension, flushing |
 | Respiratory, thoracic and mediastinal disorders |  |
-| uncommon | dyspnoea, cough, epistaxis, throat irritation |
-| rare | rhinorrhoea |
+| uncommon rare | dyspnoea, cough, epistaxis, throat irritation rhinorrhoea |
 | Gastrointestinal disorders |  |
-| very common | diarrhoea |
-| common | vomiting, nausea, abdominal pain, increased blood amylase, dyspepsia, abdominal distension, flatulence |
-| uncommon | pancreatitis, gastritis, gastrooesophageal reflux disease, aphthous stomatitis, retching, dry mouth, abdominal discomfort, constipation, increased lipase, eructation, oral dysaesthesia |
-| rare | stomatitis, haematemesis, cheilitis, dry lip, coated tongue |
+| very common common uncommon rare | diarrhoea vomiting, nausea, abdominal pain, increased blood amylase, dyspepsia, abdominal distension, flatulence pancreatitis, gastritis, gastrooesophageal reflux disease, aphthous stomatitis, retching, dry mouth, abdominal discomfort, constipation, increased lipase, eructation, oral dysaesthesia stomatitis, haematemesis, cheilitis, dry lip, coated tongue |
 | Hepatobiliary disorders |  |
-| common | increased alanine aminotransferase |
-| uncommon | hepatitis, cytolytic hepatitis, hepatic steatosis, hepatomegaly, increased transaminase, increased aspartate aminotransferase, increased blood bilirubin, increased blood alkaline phosphatase, increased gamma-glutamyltransferase |
+| common uncommon | increased alanine aminotransferase hepatitis, cytolytic hepatitis, hepatic steatosis, hepatomegaly, increased transaminase, increased aspartate aminotransferase, increased blood bilirubin, increased blood alkaline phosphatase, increased gamma-glutamyltransferase |
 | Skin and subcutaneous tissue disorders |  |
-| common | rash (including macular, maculopapular, papular, erythematous and pruritic rash), pruritus |
-| uncommon | angioedema, generalised rash, allergic dermatitis, urticaria, eczema, erythema, hyperhidrosis, night sweats, alopecia, acne, dry skin, nail pigmentation |
-| rare | DRESS, Stevens-Johnson syndrome, erythema multiforme, dermatitis, seborrhoeic dermatitis, skin lesion, xeroderma |
-| not known | toxic epidermal necrolysis, acute generalised exanthematous pustulosis |
+| common uncommon rare not known | rash (including macular, maculopapular, papular, erythematous and pruritic rash), pruritus angioedema, generalised rash, allergic dermatitis, urticaria, eczema, erythema, hyperhidrosis, night sweats, alopecia, acne, dry skin, nail pigmentation DRESS, Stevens-Johnson syndrome, erythema multiforme, dermatitis, seborrhoeic dermatitis, skin lesion, xeroderma toxic epidermal necrolysis, acute generalised exanthematous pustulosis |
 | Musculoskeletal and connective tissue disorders |  |
-| uncommon | myalgia, osteonecrosis, muscle spasms, muscular weakness, arthralgia, pain in extremity, osteoporosis, increased blood creatine phosphokinase |
-| rare | musculoskeletal stiffness, arthritis, joint stiffness |
+| uncommon rare | myalgia, osteonecrosis, muscle spasms, muscular weakness, arthralgia, pain in extremity, osteoporosis, increased blood creatine phosphokinase musculoskeletal stiffness, arthritis, joint stiffness |
 | Renal and urinary disorders |  |
-| uncommon | acute renal failure, renal failure, nephrolithiasis, increased blood creatinine, proteinuria, bilirubinuria, dysuria, nocturia, pollakiuria |
-| rare | decreased creatinine renal clearance |
+| uncommon rare | acute renal failure, renal failure, nephrolithiasis, increased blood creatinine, proteinuria, bilirubinuria, dysuria, nocturia, pollakiuria decreased creatinine renal clearance |
 | Reproductive system and breast disorders |  |
 | uncommon | erectile dysfunction, gynaecomastia |
 | General disorders and administration site conditions |  |
-| common | asthenia, fatigue |
-| uncommon | pyrexia, chest pain, peripheral oedema, malaise, feeling hot, irritability, pain |
-| rare | chills, abnormal feeling, xerosis |
+| common uncommon rare | asthenia, fatigue pyrexia, chest pain, peripheral oedema, malaise, feeling hot, irritability, pain chills, abnormal feeling, xerosis |
 
 Adverse reactions with darunavir/cobicistat in adult patients
 
 | MedDRA system organ class Frequency category | Adverse reaction |
 | --- | --- |
 | Immune system disorders |  |
-| common | (drug) hypersensitivity |
-| uncommon | immune reconstitution inflammatory syndrome |
+| common uncommon | (drug) hypersensitivity immune reconstitution inflammatory syndrome |
 | Metabolism and nutrition disorders |  |
-| common | lipodystrophy (including lipohypertrophy, lipodystrophy, lipoatrophy)*, anorexia, diabetes mellitus, hypercholesterolaemia, hypertriglyceridaemia, hyperlipidaemia |
+| common | anorexia, diabetes mellitus, hypercholesterolaemia, hypertriglyceridaemia, hyperlipidaemia |
 | Psychiatric disorders |  |
 | common | abnormal dreams |
 | Nervous system disorders |  |
 | very common | headache |
 | Gastrointestinal disorders |  |
-| very common | diarrhoea, nausea |
-| common | vomiting, abdominal pain, abdominal distension, dyspepsia, flatulence, pancreatic enzymes increased |
-| uncommon | pancreatitis acute |
+| very common common uncommon | diarrhoea, nausea vomiting, abdominal pain, abdominal distension, dyspepsia, flatulence, pancreatic enzymes increased pancreatitis acute |
 | Hepatobiliary disorders |  |
-| common | hepatic enzyme increased |
-| uncommon | hepatitis*, cytolytic hepatitis* |
+| common uncommon | hepatic enzyme increased hepatitis*, cytolytic hepatitis* |
 | Skin and subcutaneous tissue disorders |  |
-| very common | rash (including macular, maculopapular, papular, erythematous, pruritic rash, generalised rash, and allergic dermatitis) |
-| common | angioedema, pruritus, urticaria |
-| rare | drug reaction with eosinophilia and systemic symptoms*, Stevens-Johnson syndrome* |
-| not known | toxic epidermal necrolysis*, acute generalised exanthematous pustulosis* |
+| very common common rare not known | rash (including macular, maculopapular, papular, erythematous, pruritic rash, generalised rash, and allergic dermatitis) angioedema, pruritus, urticaria drug reaction with eosinophilia and systemic symptoms*, Stevens-Johnson syndrome* toxic epidermal necrolysis*, acute generalised exanthematous pustulosis* |
 | Musculoskeletal and connective tissue disorders |  |
 | common | myalgia, osteonecrosis* |
 | Reproductive system and breast disorders |  |
 | uncommon | gynaecomastia* |
 | General disorders and administration site conditions |  |
-| common | fatigue |
-| uncommon | asthenia |
+| common uncommon | fatigue asthenia |
 | Investigations |  |
 | common | increased blood creatinine |
 
@@ -127,16 +101,14 @@ Rash
 In clinical trials, rash was mostly mild to moderate, often occurring within the first four weeks of treatment and resolving with continued dosing.
 In cases of severe skin reaction see the warning in section 4.4.
 In a single arm trial investigating darunavir 800 mg once daily in combination with cobicistat 150 mg once daily and other antiretrovirals 2.2% of patients discontinued treatment due to rash.
+
 During the clinical development program of raltegravir in treatment-experienced patients, rash, irrespective of causality, was more commonly observed with regimens containing PREZISTA/ritonavir + raltegravir compared to those containing PREZISTA/ritonavir without raltegravir or raltegravir without PREZISTA/ritonavir.
 Rash considered by the investigator to be drug-related occurred at similar rates.
 The exposure-adjusted rates of rash (all causality) were 10.9, 4.2, and 3.8 per 100 patient-years (PYR), respectively; and for drug-related rash were 2.4, 1.1, and 2.3 per 100 PYR, respectively.
 The rashes observed in clinical studies were mild to moderate in severity and did not result in discontinuation of therapy (see section 4.4).
 
-Lipodystrophy
-Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients, including loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump) (see section 4.4).
-
-Metabolic abnormalities
-Combination antiretroviral therapy has also been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
+Metabolic parameters
+Weight and levels of blood lipids and glucose may increase during antiretroviral therapy (see section 4.4).
 
 Musculoskeletal abnormalities
 Increased CPK, myalgia, myositis and rarely, rhabdomyolysis have been reported with the use of protease inhibitors, particularly in combination with NRTIs.
@@ -174,129 +146,11 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 Adverse reactions in clinical trials and post-marketing
 
-| MedDRA system organ class Frequency category | Adverse reaction |
-| --- | --- |
-| Infections and infestations |  |
-| uncommon | herpes simplex |
-| Blood and lymphatic system disorders |  |
-| uncommon | thrombocytopenia, neutropenia, anaemia, leukopenia |
-| rare | increased eosinophil count |
-| Immune system disorders |  |
-| uncommon | immune reconstitution inflammatory syndrome, (drug) hypersensitivity |
-| Endocrine disorders |  |
-| uncommon | hypothyroidism, increased blood thyroid stimulating hormone |
-| Metabolism and nutrition disorders |  |
-| common | lipodystrophy (including lipohypertrophy, lipodystrophy, lipoatrophy), diabetes mellitus, hypertriglyceridaemia, hypercholesterolaemia, hyperlipidaemia |
-| uncommon | gout, anorexia, decreased appetite, decreased weight, increased weight, hyperglycaemia, insulin resistance, decreased high density lipoprotein, increased appetite, polydipsia, increased blood lactate dehydrogenase |
-| Psychiatric disorders |  |
-| common | insomnia |
-| uncommon | depression, disorientation, anxiety, sleep disorder, abnormal dreams, nightmare, decreased libido |
-| rare | confusional state, altered mood, restlessness |
-| Nervous system disorders |  |
-| common | headache, peripheral neuropathy, dizziness |
-| uncommon | lethargy, paraesthesia, hypoaesthesia, dysgeusia, disturbance in attention, memory impairment, somnolence |
-| rare | syncope, convulsion, ageusia, sleep phase rhythm disturbance |
-| Eye disorders |  |
-| uncommon | conjunctival hyperaemia, dry eye |
-| rare | visual disturbance |
-| Ear and labyrinth disorders |  |
-| uncommon | vertigo |
-| Cardiac disorders |  |
-| uncommon | myocardial infarction, angina pectoris, prolonged electrocardiogram QT, tachycardia |
-| rare | acute myocardial infarction, sinus bradycardia, palpitations |
-| Vascular disorders |  |
-| uncommon | hypertension, flushing |
-| Respiratory, thoracic and mediastinal disorders |  |
-| uncommon | dyspnoea, cough, epistaxis, throat irritation |
-| rare | rhinorrhoea |
-| Gastrointestinal disorders |  |
-| very common | diarrhoea |
-| common | vomiting, nausea, abdominal pain, increased blood amylase, dyspepsia, abdominal distension, flatulence |
-| uncommon | pancreatitis, gastritis, gastrooesophageal reflux disease, aphthous stomatitis, retching, dry mouth, abdominal discomfort, constipation, increased lipase, eructation, oral dysaesthesia |
-| rare | stomatitis, haematemesis, cheilitis, dry lip, coated tongue |
-| Hepatobiliary disorders |  |
-| common | increased alanine aminotransferase |
-| uncommon | hepatitis, cytolytic hepatitis, hepatic steatosis, hepatomegaly, increased transaminase, increased aspartate aminotransferase, increased blood bilirubin, increased blood alkaline phosphatase, increased gamma-glutamyltransferase |
-| Skin and subcutaneous tissue disorders |  |
-| common | rash (including macular, maculopapular, papular, erythematous and pruritic rash), pruritus |
-| uncommon | angioedema, generalised rash, allergic dermatitis, urticaria, eczema, erythema, hyperhidrosis, night sweats, alopecia, acne, dry skin, nail pigmentation |
-| rare | DRESS, Stevens-Johnson syndrome, erythema multiforme, dermatitis, seborrhoeic dermatitis, skin lesion, xeroderma |
-| not known | toxic epidermal necrolysis, acute generalised exanthematous pustulosis |
-| Musculoskeletal and connective tissue disorders |  |
-| uncommon | myalgia, osteonecrosis, muscle spasms, muscular weakness, arthralgia, pain in extremity, osteoporosis, increased blood creatine phosphokinase |
-| rare | musculoskeletal stiffness, arthritis, joint stiffness |
-| Renal and urinary disorders |  |
-| uncommon | acute renal failure, renal failure, nephrolithiasis, increased blood creatinine, proteinuria, bilirubinuria, dysuria, nocturia, pollakiuria |
-| rare | decreased creatinine renal clearance |
-| Reproductive system and breast disorders |  |
-| uncommon | erectile dysfunction, gynaecomastia |
-| General disorders and administration site conditions |  |
-| common | asthenia, fatigue |
-| uncommon | pyrexia, chest pain, peripheral oedema, malaise, feeling hot, irritability, pain |
-| rare | chills, abnormal feeling, xerosis |
-
 During the clinical development program of raltegravir in treatment-experienced patients, rash, irrespective of causality, was more commonly observed with regimens containing PREZISTA + raltegravir compared to those containing PREZISTA without raltegravir or raltegravir without PREZISTA.
 
 [PREZISTA 150 mg film-coated tablets]
 
-| MedDRA system organ class Frequency category | Adverse reaction |
-| --- | --- |
-| Infections and infestations |  |
-| uncommon | herpes simplex |
-| Blood and lymphatic system disorders |  |
-| uncommon | thrombocytopenia, neutropenia, anaemia, leukopenia |
-| rare | increased eosinophil count |
-| Immune system disorders |  |
-| uncommon | immune reconstitution inflammatory syndrome, (drug) hypersensitivity |
-| Endocrine disorders |  |
-| uncommon | hypothyroidism, increased blood thyroid stimulating hormone |
-| Metabolism and nutrition disorders |  |
-| common | lipodystrophy (including lipohypertrophy, lipodystrophy, lipoatrophy), diabetes mellitus, hypertriglyceridaemia, hypercholesterolaemia, hyperlipidaemia |
-| uncommon | gout, anorexia, decreased appetite, decreased weight, increased weight, hyperglycaemia, insulin resistance, decreased high density lipoprotein, increased appetite, polydipsia, increased blood lactate dehydrogenase |
-| Psychiatric disorders |  |
-| common | insomnia |
-| uncommon | depression, disorientation, anxiety, sleep disorder, abnormal dreams, nightmare, decreased libido |
-| rare | confusional state, altered mood, restlessness |
-| Nervous system disorders |  |
-| common | headache, peripheral neuropathy, dizziness |
-| uncommon | lethargy, paraesthesia, hypoaesthesia, dysgeusia, disturbance in attention, memory impairment, somnolence |
-| rare | syncope, convulsion, ageusia, sleep phase rhythm disturbance |
-| Eye disorders |  |
-| uncommon | conjunctival hyperaemia, dry eye |
-| rare | visual disturbance |
-| Ear and labyrinth disorders |  |
-| uncommon | vertigo |
-| Cardiac disorders |  |
-| uncommon rare | myocardial infarction, angina pectoris, prolonged electrocardiogram QT, tachycardia acute myocardial infarction, sinus bradycardia, palpitations |
-| Vascular disorders |  |
-| uncommon | hypertension, flushing |
-| Respiratory, thoracic and mediastinal disorders |  |
-| uncommon | dyspnoea, cough, epistaxis, throat irritation |
-| rare | rhinorrhoea |
-| Gastrointestinal disorders |  |
-| very common | diarrhoea |
-| common | vomiting, nausea, abdominal pain, increased blood amylase, dyspepsia, abdominal distension, flatulence |
-| uncommon | pancreatitis, gastritis, gastrooesophageal reflux disease, aphthous stomatitis, retching, dry mouth, abdominal discomfort, constipation, increased lipase, eructation, oral dysaesthesia |
-| rare | stomatitis, haematemesis, cheilitis, dry lip, coated tongue |
-| Hepatobiliary disorders |  |
-| common | increased alanine aminotransferase |
-| uncommon | hepatitis, cytolytic hepatitis, hepatic steatosis, hepatomegaly, increased transaminase, increased aspartate aminotransferase, increased blood bilirubin, increased blood alkaline phosphatase, increased gamma-glutamyltransferase |
-| Skin and subcutaneous tissue disorders |  |
-| common | rash (including macular, maculopapular, papular, erythematous and pruritic rash), pruritus |
-| uncommon | angioedema, generalised rash, allergic dermatitis, urticaria, eczema, erythema, hyperhidrosis, night sweats, alopecia, acne, dry skin, nail pigmentation |
-| rare | DRESS, Stevens-Johnson syndrome, erythema multiforme, dermatitis, seborrhoeic dermatitis, skin lesion, xeroderma |
-| not known | toxic epidermal necrolysis, acute generalised exanthematous pustulosis |
-| Musculoskeletal and connective tissue disorders |  |
-| uncommon | myalgia, osteonecrosis, muscle spasms, muscular weakness, arthralgia, pain in extremity, osteoporosis, increased blood creatine phosphokinase |
-| rare | musculoskeletal stiffness, arthritis, joint stiffness |
-| Renal and urinary disorders |  |
-| uncommon rare | acute renal failure, renal failure, nephrolithiasis, increased blood creatinine, proteinuria, bilirubinuria, dysuria, nocturia, pollakiuria decreased creatinine renal clearance |
-| Reproductive system and breast disorders |  |
-| uncommon | erectile dysfunction, gynaecomastia |
-| General disorders and administration site conditions |  |
-| common | asthenia, fatigue |
-| uncommon | pyrexia, chest pain, peripheral oedema, malaise, feeling hot, irritability, pain |
-| rare | chills, abnormal feeling, xerosis |
+(all sentences already above)
 
 [PREZISTA 300 mg film-coated tablets]
 

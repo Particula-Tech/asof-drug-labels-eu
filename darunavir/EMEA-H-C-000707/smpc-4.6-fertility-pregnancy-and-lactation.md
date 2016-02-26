@@ -3,7 +3,7 @@
 Pregnancy
 As a general rule, when deciding to use antiretroviral agents for the treatment of HIV infection in pregnant women and consequently for reducing the risk of HIV vertical transmission to the newborn, the animal data as well as the clinical experience in pregnant women should be taken into account.
 
-There are no adequate and well controlled studies with darunavir in pregnant women.
+There are no adequate and well controlled studies on pregnancy outcome with darunavir in pregnant women.
 Studies in animals do not indicate direct harmful effects with respect to pregnancy, embryonal/foetal development, parturition or postnatal development (see section 5.3).
 
 PREZISTA co-administered with cobicistat or low dose ritonavir should be used during pregnancy only if the potential benefit justifies the potential risk.

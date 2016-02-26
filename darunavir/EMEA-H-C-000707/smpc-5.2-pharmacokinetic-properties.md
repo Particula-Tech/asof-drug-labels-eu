@@ -6,8 +6,8 @@ The increased exposure to darunavir in HIV-1 infected patients compared to healt
 
 Darunavir is primarily metabolised by CYP3A.
 Cobicistat and ritonavir inhibit CYP3A, thereby increasing the plasma concentrations of darunavir considerably.
-
 For information on cobicistat pharmacokinetic properties, consult the cobicistat Summary of Product Characteristics.
+
 Absorption
 Darunavir was rapidly absorbed following oral administration.
 Maximum plasma concentration of darunavir in the presence of low dose ritonavir is generally achieved within 2.5-4.0 hours.
@@ -46,19 +46,19 @@ The pharmacokinetics of darunavir in combination with ritonavir taken twice dail
 The pharmacokinetics of darunavir in combination with ritonavir taken twice daily in
 14 treatment-experienced paediatric patients, aged 3 to < 6 years and weighing at least 15 kg to
 < 20 kg, showed that weight-based dosages resulted in darunavir exposure that was comparable to that achieved in adults receiving PREZISTA/ritonavir 600/100 mg twice daily (see section 4.2).
-
 The pharmacokinetics of darunavir in combination with ritonavir taken once daily in 12 ART-naïve paediatric patients, aged 12 to < 18 years and weighing at least 40 kg, showed that PREZISTA/ritonavir 800/100 mg once daily results in darunavir exposure that was comparable to that achieved in adults receiving PREZISTA/ritonavir 800/100 mg once daily.
-Therefore the same once daily dosage may be used in treatment-experienced adolescents aged 12 to < 18 years and weighing at least 40 kg without darunavir resistance associated mutations (DRV-RAMs)* and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count ≥100 cells x 106/l (see section 4.2).
+Therefore the same once daily dosage may be used in treatment-experienced adolescents aged 12 to < 18 years and weighing at least 40 kg without darunavir resistance associated mutations (DRV-RAMs)* and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count ≥ 100 cells x 106/l (see section 4.2).
 * DRV-RAMs: V11I, V32I, L33F, I47V, I50V, I54M, I54L, T74P, L76V, I84V and L89V
 
 The pharmacokinetics of darunavir in combination with ritonavir taken once daily in
 10 treatment-experienced paediatric patients, aged 3 to < 6 years and weighing at least 14 kg to
 < 20 kg, showed that weight-based dosages resulted in darunavir exposure that was comparable to that achieved in adults receiving PREZISTA/ritonavir 800/100 mg once daily (see section 4.2).
-In addition, pharmacokinetic modeling and simulation of darunavir exposures in paediatric patients across the ages of 3 to < 18 years confirmed the darunavir exposures as observed in the clinical studies and allowed the identification of weight-based PREZISTA/ritonavir once daily dosing regimens for paediatric patients weighing at least 15 kg that are either ART-naïve or treatment-experienced paediatric patients without DRV-RAMs* and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count ≥100 cells x 106/l (see section 4.2).
+In addition, pharmacokinetic modeling and simulation of darunavir exposures in paediatric patients across the ages of 3 to < 18 years confirmed the darunavir exposures as observed in the clinical studies and allowed the identification of weight-based PREZISTA/ritonavir once daily dosing regimens for paediatric patients weighing at least 15 kg that are either ART-naïve or treatment-experienced paediatric patients without DRV-RAMs* and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count
+≥ 100 cells x 106/l (see section 4.2).
 * DRV-RAMs: V11I, V32I, L33F, I47V, I50V, I54M, I54L, T74P, L76V, I84V and L89V
 
 Elderly
-Population pharmacokinetic analysis in HIV infected patients showed that darunavir pharmacokinetics are not considerably different in the age range (18 to 75 years) evaluated in HIV infected patients (n=12, age ≥65) (see section 4.4).
+Population pharmacokinetic analysis in HIV infected patients showed that darunavir pharmacokinetics are not considerably different in the age range (18 to 75 years) evaluated in HIV infected patients (n=12, age ≥ 65) (see section 4.4).
 However, only limited data were available in patients above the age of 65 year.
 
 Gender
@@ -77,9 +77,36 @@ However, unbound darunavir concentrations were approximately 55% (Child-Pugh Cla
 The clinical relevance of this increase is unknown therefore, PREZISTA should be used with caution.
 The effect of severe hepatic impairment on the pharmacokinetics of darunavir has not been studied (see sections 4.2, 4.3 and 4.4).
 
+Pregnancy and postpartum
+The exposure to total darunavir and ritonavir after intake of darunavir/ritonavir 600/100 mg twice daily and darunavir/ritonavir 800/100 mg once daily as part of an antiretroviral regimen was generally lower during pregnancy compared with postpartum.
+However, for unbound (i.e. active) darunavir, the pharmacokinetic parameters were less reduced during pregnancy compared to postpartum, due to an increase in the unbound fraction of darunavir during pregnancy compared to postpartum.
+
+| Pharmacokinetic results of total darunavir after administration of darunavir/ritonavir at 600/100 mg twice daily as part of an antiretroviral regimen, during the second trimester of pregnancy, the third trimester of pregnancy and postpartum |  |  |  |
+| --- | --- | --- | --- |
+| Pharmacokinetics of total darunavir (mean ± SD) | Second trimester of pregnancy (n=11)a | Third trimester of pregnancy (n=11) | Postpartum (6-12 weeks) (n=11) |
+| Cmax, ng/ml | 4,601 ± 1,125 | 5,111 ± 1,517 | 6,499 ± 2,411 |
+| AUC12h, ng.h/ml | 38,950 ± 10,010 | 43,700 ± 16,400 | 55,300 ± 27,020 |
+| Cmin, ng/mlb | 1,980 ± 839.9 | 2,498 ± 1,193 | 2,711 ± 2,268 |
+
+a n=10 for AUC12h b excluding Cmin value below LLOQ, n=10 for reference
+
+| Pharmacokinetic results of total darunavir after administration of darunavir/ritonavir at 800/100 mg once daily as part of an antiretroviral regimen, during the second trimester of pregnancy, the third trimester of pregnancy and postpartum |  |  |  |
+| --- | --- | --- | --- |
+| Pharmacokinetics of total darunavir (mean ± SD) | Second trimester of pregnancy (n=16) | Third Trimester of pregnancy (n=14) | Postpartum (6-12 weeks) (n=15) |
+| Cmax, ng/ml | 4,988 ± 1,551 | 5,138 ± 1,243 | 7,445 ± 1,674 |
+| AUC12h, ng.h/ml | 61,303 ± 16,232 | 60,439 ± 14,052 | 94,529 ± 28,572 |
+| Cmin, ng/mla | 1,193 ± 509 | 1,098 ± 609 | 1,572 ± 1,108 |
+
+a n=12 for postpartum, n=15 for second trimester and n=14 for third trimester
+
+In women receiving darunavir/ritonavir 600/100 mg twice daily during the second trimester of pregnancy, mean intra-individual values for total darunavir Cmax, AUC12h and Cmin were 28%, 24% and 17% lower, respectively, as compared with postpartum; during the third trimester of pregnancy, total darunavir Cmax, AUC12h and Cmin values were 19%, 17% lower and 2% higher, respectively, as compared with postpartum.
+
+In women receiving darunavir/ritonavir 800/100 mg once daily during the second trimester of pregnancy, mean intra-individual values for total darunavir Cmax, AUC12h and Cmin were 34%, 34% and 32% lower, respectively, as compared with postpartum; during the third trimester of pregnancy, total darunavir Cmax, AUC12h and Cmin values were 31%, 35% and 50% lower, respectively, as compared with postpartum.
+
 [PREZISTA 75 mg film-coated tablets]
 
 The pharmacokinetic properties of darunavir, co-administered with ritonavir, have been evaluated in healthy adult volunteers and in HIV-1 infected patients.
+
 Ritonavir inhibits CYP3A, thereby increasing the plasma concentrations of darunavir considerably.
 
 When administered without food, the relative bioavailability of darunavir in the presence of low dose ritonavir is 30% lower as compared to intake with food.

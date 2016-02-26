@@ -16,7 +16,7 @@ The recommended dose regimen is 800 mg once daily with cobicistat 150 mg once da
 ART-experienced adult patients
 The recommended dose regimen is 600 mg twice daily taken with ritonavir 100 mg twice daily taken with food.
 
-A dose regimen of 800 mg once daily with cobicistat 150 mg once daily or ritonavir 100 mg once daily taken with food may be used in patients with prior exposure to antiretroviral medicinal products but without darunavir resistance associated mutations (DRV-RAMs)* and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count ≥100 cells x 106/l.
+A dose regimen of 800 mg once daily with cobicistat 150 mg once daily or ritonavir 100 mg once daily taken with food may be used in patients with prior exposure to antiretroviral medicinal products but without darunavir resistance associated mutations (DRV-RAMs)* and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count ≥ 100 cells x 106/l.
 * DRV-RAMs: V11I, V32I, L33F, I47V, I50V, I54M, I54L, T74P, L76V, I84V and L89V
 
 If HIV-1 genotype testing is not available, the recommended dose regimen is PREZISTA 600 mg twice daily taken with ritonavir 100 mg twice daily taken with food.
@@ -28,16 +28,16 @@ The dose of cobicistat to be used with PREZISTA in children less than 18 years o
 | Recommended dose for treatment-naïve paediatric patients with PREZISTA and ritonavira |  |
 | --- | --- |
 | Body weight (kg) | Dose (once daily with food) |
-| ≥15 kg to < 30 kg | 600 mg (6 ml) PREZISTA/100 mg (1.2 ml) ritonavir once daily |
-| ≥30 kg to < 40 kg | 675 mg (6.8 ml)b PREZISTA/100 mg (1.2 ml) ritonavir once daily |
-| ≥40 kg | 800 mg (8 ml) PREZISTA/100 mg (1.2 ml) ritonavir once daily |
+| ≥ 15 kg to < 30 kg | 600 mg (6 ml) PREZISTA/100 mg (1.2 ml) ritonavir once daily |
+| ≥ 30 kg to < 40 kg | 675 mg (6.8 ml)b PREZISTA/100 mg (1.2 ml) ritonavir once daily |
+| ≥ 40 kg | 800 mg (8 ml) PREZISTA/100 mg (1.2 ml) ritonavir once daily |
 
 a ritonavir oral solution: 80 mg/ml b rounded up for suspension dosing convenience
 
 ART-experienced paediatric patients (3 to 17 years of age and weighing at least 15 kilograms)
 PREZISTA twice daily taken with ritonavir taken with food is usually recommended.
 
-A once daily dose regimen of PREZISTA taken with ritonavir taken with food may be used in patients with prior exposure to antiretroviral medicinal products but without darunavir resistance associated mutations (DRV-RAMs)* and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count ≥100 cells x 106/l.
+A once daily dose regimen of PREZISTA taken with ritonavir taken with food may be used in patients with prior exposure to antiretroviral medicinal products but without darunavir resistance associated mutations (DRV-RAMs)* and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count ≥ 100 cells x 106/l.
 * DRV-RAMs: V11I, V32I, L33F, I47V, I50V, I54M, I54L, T74P, L76V, I84V and L89V
 
 The weight-based dose of PREZISTA and ritonavir in paediatric patients is provided in the table below.
@@ -47,9 +47,9 @@ The dose of cobicistat to be used with PREZISTA in children less than 18 years o
 | Recommended dose for treatment-experienced paediatric patients with PREZISTA and ritonavira |  |  |
 | --- | --- | --- |
 | Body weight (kg) | Dose (once daily with food) | Dose (twice daily with food) |
-| ≥15 kg to < 30 kg | 600 mg (6 ml) PREZISTA/100 mg (1.2 ml) ritonavir once daily | 380 mg (3.8 ml) PREZISTA/50 mg (0.6 ml) ritonavir twice daily |
-| ≥30 kg to < 40 kg | 675 mg (6.8 ml)b PREZISTA/100 mg (1.2 ml) ritonavir once daily | 460 mg (4.6 ml) PREZISTA/60 mg (0.8 ml) ritonavir twice daily |
-| ≥40 kg | 800 mg (8 ml) PREZISTA/100 mg (1.2 ml) ritonavir once daily | 600 mg (6 ml) PREZISTA/100 mg (1.2 ml) ritonavir twice daily |
+| ≥ 15 kg to < 30 kg | 600 mg (6 ml) PREZISTA/100 mg (1.2 ml) ritonavir once daily | 380 mg (3.8 ml) PREZISTA/50 mg (0.6 ml) ritonavir twice daily |
+| ≥ 30 kg to < 40 kg | 675 mg (6.8 ml)b PREZISTA/100 mg (1.2 ml) ritonavir once daily | 460 mg (4.6 ml) PREZISTA/60 mg (0.8 ml) ritonavir twice daily |
+| ≥ 40 kg | 800 mg (8 ml) PREZISTA/100 mg (1.2 ml) ritonavir once daily | 600 mg (6 ml) PREZISTA/100 mg (1.2 ml) ritonavir twice daily |
 
 a ritonavir oral solution: 80 mg/ml b rounded up for suspension dosing convenience
 For ART-experienced paediatric patients HIV genotypic testing is recommended.
@@ -95,8 +95,12 @@ PREZISTA should not be used in children
 - less than 15 kg body weight, as the dose for this population has not been established in a sufficient number of patients (see section 5.1)
 
 Administration of PREZISTA 800 mg once daily with low dose ritonavir in treatment-naïve adolescents 12 to 17 years weighing at least 40 kg leads to darunavir exposures within the therapeutic range as established in adults receiving the same dosing regimen.
-Since PREZISTA once daily has also been registered for use in treatment-experienced adults without darunavir resistance associated mutations (DRV-RAMs)* and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count ≥100 cells x 106/l, the same indication of PREZISTA once daily applies to treatment-experienced children 3 to 17 years weighing at least 15 kg.
+Since PREZISTA once daily has also been registered for use in treatment-experienced adults without darunavir resistance associated mutations (DRV-RAMs)* and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count ≥ 100 cells x 106/l, the same indication of PREZISTA once daily applies to treatment-experienced children 3 to 17 years weighing at least 15 kg.
 * DRV-RAMs: V11I, V32I, L33F, I47V, I50V, I54M, I54L, T74P, L76V, I84V and L89V
+
+Pregnancy and postpartum
+No dose adjustment is required for darunavir/ritonavir during pregnancy and postpartum.
+Prezista should be used during pregnancy only if the potential benefit justifies the potential risk (see sections 4.4, 4.6 and 5.2).
 
 Method of administration
 Patients should be instructed to take PREZISTA with cobicistat or low dose ritonavir within 30 minutes after completion of a meal.
@@ -115,7 +119,7 @@ PREZISTA is also available as an oral suspension for use in patients who are una
 
 PREZISTA 75 mg tablets can be used to construct the twice daily 600 mg regimen.
 The use of 75 mg tablets to achieve the recommended dose is appropriate when there is a possibility of hypersensitivity to specific colouring agents, or difficulty in swallowing the 300 mg or 600 mg tablets.
-A dose regimen of 800 mg once daily with cobicistat 150 mg once daily or ritonavir 100 mg once daily taken with food may be used in patients with prior exposure to antiretroviral medicinal products but without darunavir resistance associated mutations (DRV-RAMs)* and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count ≥100 cells x 106/l (see the Summary of Product Characteristics for PREZISTA 400 mg and 800 mg tablets).
+A dose regimen of 800 mg once daily with cobicistat 150 mg once daily or ritonavir 100 mg once daily taken with food may be used in patients with prior exposure to antiretroviral medicinal products but without darunavir resistance associated mutations (DRV-RAMs)* and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count ≥ 100 cells x 106/l (see the Summary of Product Characteristics for PREZISTA 400 mg and 800 mg tablets).
 
 For dosage recommendations in ART-naïve patients see the Summary of Product Characteristics for PREZISTA 400 mg and 800 mg tablets.
 
@@ -124,9 +128,9 @@ ART-naïve paediatric patients (3 to 17 years of age and weighing at least 15 kg
 | Recommended dose for treatment-naïve paediatric patients (3 to 17 years) with PREZISTA tablets and ritonavira |  |
 | --- | --- |
 | Body weight (kg) | Dose (once daily with food) |
-| ≥15 kg to < 30 kg | 600 mg PREZISTA/100 mg ritonavir once daily |
-| ≥30 kg to < 40 kg | 675 mg PREZISTA/100 mg ritonavir once daily |
-| ≥40 kg | 800 mg PREZISTA/100 mg ritonavir once daily |
+| ≥ 15 kg to < 30 kg | 600 mg PREZISTA/100 mg ritonavir once daily |
+| ≥ 30 kg to < 40 kg | 675 mg PREZISTA/100 mg ritonavir once daily |
+| ≥ 40 kg | 800 mg PREZISTA/100 mg ritonavir once daily |
 
 a ritonavir oral solution: 80 mg/ml
 
@@ -135,9 +139,9 @@ ART-experienced paediatric patients (3 to 17 years of age and weighing at least 
 | Recommended dose for treatment-experienced paediatric patients (3 to 17 years of age) for PREZISTA tablets and ritonavira |  |  |
 | --- | --- | --- |
 | Body weight (kg) | Dose (once daily with food) | Dose (twice daily with food) |
-| ≥15 kg–< 30 kg | 600 mg PREZISTA/100 mg ritonavir once daily | 375 mg PREZISTA/50 mg ritonavir twice daily |
-| ≥30 kg–< 40 kg | 675 mg PREZISTA/100 mg ritonavir once daily | 450 mg PREZISTA/60 mg ritonavir twice daily |
-| ≥40 kg | 800 mg PREZISTA/100 mg ritonavir once daily | 600 mg PREZISTA/100 mg ritonavir twice daily |
+| ≥ 15 kg–< 30 kg | 600 mg PREZISTA/100 mg ritonavir once daily | 375 mg PREZISTA/50 mg ritonavir twice daily |
+| ≥ 30 kg–< 40 kg | 675 mg PREZISTA/100 mg ritonavir once daily | 450 mg PREZISTA/60 mg ritonavir twice daily |
+| ≥ 40 kg | 800 mg PREZISTA/100 mg ritonavir once daily | 600 mg PREZISTA/100 mg ritonavir twice daily |
 
 a with ritonavir oral solution: 80 mg/ml
 
@@ -154,7 +158,7 @@ PREZISTA/ritonavir should not be used in children below 3 years of age because o
 
 Darunavir exposures in treatment-naïve adolescents 12 to 17 years weighing at least 40 kg receiving PREZISTA 800 mg once daily have been determined and were found to be within the therapeutic range as has been established in adults receiving PREZISTA 800 mg once daily.
 As a consequence, since PREZISTA once daily has also been registered for use in treatment-experienced adults without darunavir resistance associated mutations (DRV-RAMs)* and who have plasma HIV-1 RNA
-< 100,000 copies/ml and CD4+ cell count ≥100 cells x 106/l, the same indication of PREZISTA once daily applies to treatment-experienced children 3 to 17 years weighing at least 15 kg.
+< 100,000 copies/ml and CD4+ cell count ≥ 100 cells x 106/l, the same indication of PREZISTA once daily applies to treatment-experienced children 3 to 17 years weighing at least 15 kg.
 
 Patients should be instructed to take PREZISTA with low dose ritonavir within 30 minutes after completion of a meal.
 
@@ -178,7 +182,7 @@ PREZISTA 400 mg tablets can be used to construct the once daily 800 mg regimen.
 
 The recommended dose regimens are as follows:
 
-- In ART-experienced patients with no darunavir resistance associated mutations (DRV-RAMs)* and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count ≥100 cells x 106/l (see section 4.1) a regimen of 800 mg once daily with cobicistat 150 mg once daily or ritonavir 100 mg once daily taken with food may be used.
+- In ART-experienced patients with no darunavir resistance associated mutations (DRV-RAMs)* and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count ≥ 100 cells x 106/l (see section 4.1) a regimen of 800 mg once daily with cobicistat 150 mg once daily or ritonavir 100 mg once daily taken with food may be used.
 - In all other ART-experienced patients or if HIV-1 genotype testing is not available, the recommended dose regimen is 600 mg twice daily taken with ritonavir 100 mg twice daily taken with food.
   See the Summary of Product Characteristics for PREZISTA 100 mg/ml oral suspension, 75 mg, 150 mg, 300 mg or 600 mg tablets.
 
@@ -189,7 +193,7 @@ ART-experienced paediatric patients (3 to 17 years of age and weighing at least 
 
 - In ART-experienced patients without DRV-RAMs* and who have plasma HIV-1 RNA
 
-< 100,000 copies/ml and CD4+ cell count ≥100 cells x 106/l (see section 4.1) a regimen of 800 mg once daily with ritonavir 100 mg once daily taken with food may be used.
+< 100,000 copies/ml and CD4+ cell count ≥ 100 cells x 106/l (see section 4.1) a regimen of 800 mg once daily with ritonavir 100 mg once daily taken with food may be used.
 
 - In all other ART-experienced patients or if HIV-1 genotype testing is not available, the recommended dose regimen described in the Summary of Product Characteristics for PREZISTA 100 mg/ml oral suspension,75 mg, 150 mg, 300 mg or 600 mg tablets.
 
@@ -206,7 +210,7 @@ No recommendations on posology can be made in this population.
 
 Darunavir exposures in treatment-naïve adolescents 12 to 17 years weighing at least 40 kg receiving PREZISTA/ritonavir 800/100 mg once daily have been determined and were found to be within the therapeutic range as has been established in adults receiving PREZISTA/ritonavir 800/100 mg once daily.
 As a consequence, since PREZISTA/ritonavir 800/100 mg once daily has also been registered for use in treatment-experienced adults without darunavir resistance associated mutations (DRV-RAMs)* and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count
-≥100 cells x 106/l, the same indication of PREZISTA 800 mg once daily applies to treatment-experienced children 3 to 17 years weighing at least 40 kg.
+≥ 100 cells x 106/l, the same indication of PREZISTA 800 mg once daily applies to treatment-experienced children 3 to 17 years weighing at least 40 kg.
 The dose of darunavir with cobicistat has not been established in this patient population.
 
 For dosage recommendations in children see the Summary of Product Characteristics for PREZISTA 75 mg, 150 mg, 300 mg, 600 mg tablets and 100 mg/ml oral suspension.
@@ -225,9 +229,9 @@ The recommended dose of PREZISTA with low dose ritonavir for paediatric patients
 | Recommended dose for treatment-experienced paediatric patients (3 to 17 years of age) for PREZISTA tablets and ritonavira |  |  |
 | --- | --- | --- |
 | Body weight (kg) | Dose (once daily with food) | Dose(twice daily with food) |
-| ≥15 kg–< 30 kg | 600 mg PREZISTA/100 mg ritonavir once daily | 375 mg PREZISTA/50 mg ritonavir twice daily |
-| ≥30 kg–< 40 kg | 675 mg PREZISTA/100 mg ritonavir once daily | 450 mg PREZISTA/60 mg ritonavir twice daily |
-| ≥40 kg | 800 mg PREZISTA/100 mg ritonavir once daily | 600 mg PREZISTA/100 mg ritonavir twice daily |
+| ≥ 15 kg–< 30 kg | 600 mg PREZISTA/100 mg ritonavir once daily | 375 mg PREZISTA/50 mg ritonavir twice daily |
+| ≥ 30 kg–< 40 kg | 675 mg PREZISTA/100 mg ritonavir once daily | 450 mg PREZISTA/60 mg ritonavir twice daily |
+| ≥ 40 kg | 800 mg PREZISTA/100 mg ritonavir once daily | 600 mg PREZISTA/100 mg ritonavir twice daily |
 
 [PREZISTA 800 mg film-coated tablets]
 

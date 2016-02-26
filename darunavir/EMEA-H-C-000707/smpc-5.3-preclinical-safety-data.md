@@ -5,6 +5,7 @@ Animal toxicology studies have been conducted at exposures up to clinical exposu
 In repeated-dose toxicology studies in mice, rats and dogs, there were only limited effects of treatment with darunavir.
 In rodents the target organs identified were the haematopoietic system, the blood coagulation system, liver and thyroid.
 A variable but limited decrease in red blood cell-related parameters was observed, together with increases in activated partial thromboplastin time.
+
 Changes were observed in liver (hepatocyte hypertrophy, vacuolation, increased liver enzymes) and thyroid (follicular hypertrophy).
 In the rat, the combination of darunavir with ritonavir lead to a small increase in effect on RBC parameters, liver and thyroid and increased incidence of islet fibrosis in the pancreas (in male rats only) compared to treatment with darunavir alone.
 In the dog, no major toxicity findings or target organs were identified up to exposures equivalent to clinical exposure at the recommended dose.

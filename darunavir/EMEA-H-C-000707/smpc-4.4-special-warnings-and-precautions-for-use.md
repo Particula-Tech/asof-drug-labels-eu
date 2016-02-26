@@ -17,21 +17,25 @@ This protein binding is concentration-dependent indicative for saturation of bin
 Therefore, protein displacement of medicinal products highly bound to α1-acid glycoprotein cannot be ruled out (see section 4.5).
 
 ART-experienced patients – once daily dosing
-PREZISTA used in combination with cobicistat or low dose ritonavir once daily in ART-experienced patients should not be used in patients with one or more darunavir resistance associated mutations (DRV-RAMs) or HIV-1 RNA ≥100,000 copies/ml or CD4+ cell count < 100 cells x 106/l (see section 4.2).
-Combinations with optimised background regimen (OBRs) other than ≥2 NRTIs have not been studied in this population.
+PREZISTA used in combination with cobicistat or low dose ritonavir once daily in ART-experienced patients should not be used in patients with one or more darunavir resistance associated mutations (DRV-RAMs) or HIV-1 RNA ≥ 100,000 copies/ml or CD4+ cell count < 100 cells x 106/l (see section 4.2).
+Combinations with optimised background regimen (OBRs) other than ≥ 2 NRTIs have not been studied in this population.
 Limited data are available in patients with HIV-1 clades other than B (see section 5.1).
 
 Paediatric population
 PREZISTA is not recommended for use in paediatric patients below 3 years of age or less than 15 kg body weight (see sections 4.2 and 5.3).
 
+Pregnancy
+Prezista should be used during pregnancy only if the potential benefit justifies the potential risk.
+Caution should be used in pregnant women with concomitant medications which may further decrease darunavir exposure (see sections 4.5 and 5.2).
+
 Elderly
 As limited information is available on the use of PREZISTA in patients aged 65 and over, caution should be exercised in the administration of PREZISTA in elderly patients, reflecting the greater frequency of decreased hepatic function and of concomitant disease or other therapy (see sections 4.2 and 5.2).
-
 Severe skin reactions
 During the darunavir/ritonavir clinical development program (N=3,063), severe skin reactions, which may be accompanied with fever and/or elevations of transaminases, have been reported in 0.4% of patients.
 DRESS (Drug Rash with Eosinophilia and Systemic Symptoms) and Stevens-Johnson Syndrome has been rarely (< 0.1%) reported, and during post-marketing experience toxic epidermal necrolysis and acute generalised exanthematous pustulosis have been reported.
 PREZISTA should be discontinued immediately if signs or symptoms of severe skin reactions develop.
 These can include, but are not limited to, severe rash or rash accompanied by fever, general malaise, fatigue, muscle or joint aches, blisters, oral lesions, conjunctivitis, hepatitis and/or eosinophilia.
+
 Rash occurred more commonly in treatment-experienced patients receiving regimens containing PREZISTA/ritonavir + raltegravir compared to patients receiving PREZISTA/ritonavir without raltegravir or raltegravir without PREZISTA (see section 4.8).
 
 Darunavir contains a sulphonamide moiety.
@@ -62,7 +66,6 @@ Cobicistat has not been studied in patients receiving dialysis, therefore, no re
 
 Cobicistat decreases the estimated creatinine clearance due to inhibition of tubular secretion of creatinine.
 This should be taken into consideration if darunavir with cobicistat is administered to patients in whom the estimated creatinine clearance is used to adjust doses of co-administered medicinal products (see section 4.2 and cobicistat SmPC).
-
 There are currently inadequate data to determine whether co-administration of tenofovir disoproxil fumarate and cobicistat is associated with a greater risk of renal adverse reactions compared with regimens that include tenofovir disoproxil fumarate without cobicistat.
 
 Haemophiliac patients
@@ -72,20 +75,12 @@ In more than half of the reported cases, treatment with PIs was continued or rei
 A causal relationship has been suggested, although the mechanism of action has not been elucidated.
 Haemophiliac patients should, therefore, be made aware of the possibility of increased bleeding.
 
-Diabetes mellitus/hyperglycaemia
-New onset diabetes mellitus, hyperglycaemia, or exacerbation of existing diabetes mellitus has been reported in patients receiving antiretroviral therapy, including PIs.
-In some of these patients the hyperglycaemia was severe and in some cases also associated with ketoacidosis.
-Many patients had confounding medical conditions some of which required therapy with agents that have been associated with the development of diabetes mellitus or hyperglycaemia.
-
-Fat redistribution and metabolic disorders
-Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV infected patients.
-The long-term consequences of these events are currently unknown.
-Knowledge about the mechanism is incomplete.
-A connection between visceral lipomatosis and PIs and lipoatrophy and NRTIs has been hypothesised.
-A higher risk of lipodystrophy has been associated with individual factors such as older age and with drug related factors such as longer duration of antiretroviral treatment and associated metabolic disturbances.
-Clinical examination should include evaluation for physical signs of fat redistribution.
-Consideration should be given to measurement of fasting serum lipids and blood glucose.
-Lipid disorders should be managed as clinically appropriate (see section 4.8).
+Weight and metabolic parameters
+An increase in weight and in levels of blood lipids and glucose may occur during antiretroviral therapy.
+Such changes may in part be linked to disease control and life style.
+For lipids, there is in some cases evidence for a treatment effect, while for weight gain there is no strong evidence relating this to any particular treatment.
+For monitoring of blood lipids and glucose reference is made to established HIV treatment guidelines.
+Lipid disorders should be managed as clinically appropriate.
 
 Osteonecrosis
 Although the aetiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV disease and/or long-term exposure to combination antiretroviral therapy (CART).
@@ -141,7 +136,6 @@ No special precautions or dose adjustments are required in patients with renal i
 Several of the interaction studies have been performed with darunavir at lower than recommended doses.
 The effects on co-administered medicinal products may thus be underestimated and clinical monitoring of safety may be indicated.
 For full information on interactions with other medicinal products see section 4.5.
-
 See the Summary of Product Characteristics for PREZISTA 150 mg, 300 mg or 600 mg tablets (see section 4.5).
 
 [PREZISTA 150 mg film-coated tablets]
