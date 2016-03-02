@@ -15,6 +15,7 @@ Table 1 Adverse Drug Reactions
 | Adverse reactions by system organ class and frequency |  |  |
 | --- | --- | --- |
 | Infections and infestations | Common | Urinary tract infections |
+| Blood and lymphatic system disorders | Uncommon | Reduced platelet count |
 | Immune system disorders | Common | Hypersensitivity reactions |
 | Metabolism and nutrition disorders | Common | Anorexiaa |
 | Nervous system disorders | Common | Headache |
@@ -23,7 +24,7 @@ Table 1 Adverse Drug Reactions
 |  | Common | Vomiting, diarrhoea |
 | Hepatobiliary disorders | Very common | Increased hepatic enzymes (ALT, AST, ALP)a |
 |  | Common | Elevated bilirubina |
-|  | Uncommon | Hepatic failurec, hepatitisc, elevated gamma-GT |
+|  | Uncommon | Hepatic failurec, hepatitis, elevated gamma-GT |
 | Skin and subcutaneous tissue disorders | Common | Rash |
 | Musculoskeletal and connective tissue disorders | Common | Back paina |
 | Reproductive system and breast disorders | Uncommon | Vaginal moniliasis, leukorrhea, vaginal haemorrhage |
@@ -34,4 +35,9 @@ a Includes adverse drug reactions for which the exact contribution of Faslodex c
 b The term injection site reactions does not include the terms injection site haemorrhage and injection site haematoma.
 c The event was not observed in major clinical studies (CONFIRM, FINDER 1, FINDER 2, NEWEST).
 The frequency has been calculated using the upper limit of the 95% confidence interval for the point estimate.
-This is calculated as 3/563 (where 563 is the number of patients in the major clinical studies), which equates to a frequency category of ‘uncommon’.
+This is calculated as 3/560 (where 560 is the number of patients in the major clinical studies), which equates to a frequency category of ‘uncommon’.
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

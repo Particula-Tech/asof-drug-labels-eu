@@ -9,7 +9,6 @@ Arteritis involving a range of different tissues was seen in some dogs after chr
 
 In dog studies following oral and intravenous administration, effects on the cardiovascular system (slight elevations of the S-T segment of the ECG [oral], and sinus arrest in one dog [intravenous]) were seen.
 These occurred at exposure levels higher than in patients (Cmax >15 times) and are likely to be of limited significance for human safety at the clinical dose.
-
 Fulvestrant showed no genotoxic potential.
 
 Fulvestrant showed effects upon reproduction and embryo/foetal development consistent with its anti-estrogenic activity, at doses similar to the clinical dose.

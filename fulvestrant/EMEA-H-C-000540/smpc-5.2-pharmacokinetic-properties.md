@@ -2,7 +2,7 @@
 
 Absorption
 After administration of Faslodex long-acting intramuscular injection, fulvestrant is slowly absorbed and maximum plasma concentrations (Cmax) are reached after about 5 days.
-Administration of Faslodex 500 mg regimen achieves exposure levels at, or close to, steady state within the first month of dosing (mean [CV]: AUC 475 [33.4%] ng.days/ml, Cmax 25.1 [35.1%] ng/ml, Cmin
+Administration of Faslodex 500 mg regimen achieves exposure levels at, or close to, steady state within the first month of dosing (mean [CV]: AUC 475 [33.4%] ng.days/ml, Cmax 25.1 [35.3%] ng/ml, Cmin
 16.3 [25.9%] ng/ml, respectively).
 At steady state, fulvestrant plasma concentrations are maintained within a relatively narrow range with up to an approximately 3-fold difference between maximum and trough concentrations.
 After intramuscular administration, the exposure is approximately dose-proportional in the dose range 50 to 500 mg.
@@ -20,6 +20,7 @@ The metabolism of fulvestrant has not been fully evaluated, but involves combina
 Identified metabolites (includes 17-ketone, sulphone, 3-sulphate, 3- and 17-glucuronide metabolites) are either less active or exhibit similar activity to fulvestrant in anti-estrogen models.
 Studies using human liver preparations and recombinant human enzymes indicate that CYP3A4 is the only P450 isoenzyme involved in the oxidation of fulvestrant; however, non-P450 routes appear to be more predominant in vivo.
 In vitro data suggest that fulvestrant does not inhibit CYP450 isoenzymes.
+
 Elimination
 Fulvestrant is eliminated mainly in metabolised form.
 The major route of excretion is via the faeces, with less than 1% being excreted in the urine.

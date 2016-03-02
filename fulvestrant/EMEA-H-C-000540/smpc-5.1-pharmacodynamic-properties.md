@@ -10,7 +10,7 @@ Clinical trials in postmenopausal women with primary breast cancer have shown th
 There was also a significant decrease in progesterone receptor expression consistent with a lack of intrinsic estrogen agonist effects.
 It has also been shown that fulvestrant 500 mg downregulates ER and the proliferation marker Ki67, to a greater degree than fulvestrant 250 mg in breast tumours in postmenopausal neoadjuvant setting.
 
-Clinical safety and efficacy in advanced breast cancer
+Clinical efficacy and safety in advanced breast cancer
 A phase III clinical trial was completed in 736 postmenopausal women with advanced breast cancer who had disease recurrence on or after adjuvant endocrine therapy or progression following endocrine therapy for advanced disease.
 The study included 423 patients whose disease had recurred or progressed during anti-estrogen therapy (AE subgroup) and 313 patients whose disease had recurred or progressed during aromatase inhibitor therapy (AI subgroup).
 This trial compared the efficacy and safety of Faslodex 500 mg (n=362) with Faslodex 250 mg (n=374).
@@ -41,22 +41,37 @@ hazard ratio
 All Patients 26.4 22.3 0.81 0.69, 0.96 0.016c
 -AE subgroup (n=423) 30.6 23.9 0.79 0.63, 0.99 0.038c
 -AI subgroup (n=313)a 24.1 20.8 0.86 0.67, 1.11 0.241c
+Variable Type of Faslodex Faslodex Comparison between groups
+estimate; 500 mg 250 mg (Faslodex 500 mg/Faslodex 250 mg)
+treatment (N=362) (N=374) Absolute 95% CI
+comparison difference in %
+ORRd % of patients
 
-| Variable Type of estimate; treatment comparison | Faslodex 500 mg (N=362) | Faslodex 250 mg (N=374) | Comparison between groups (Faslodex 500 mg/Faslodex 250 mg) Absolute 95% CI difference in % |
-| --- | --- | --- | --- |
-| ORRd % of patients with OR; absolute difference in % All Patients -AE subgroup (n=296) -AI subgroup (n=205)a | 13.8 18.1 7.3 | 14.6 19.1 8.3 | -0.8 -5.8, 6.3 -1.0 -8.2, 9.3 -1.0 -5.5, 9.8 |
-| CBRe % of patients with CB; absolute difference in % All Patients -AE subgroup (n=423) -AI subgroup (n=313)a | 45.6 52.4 36.2 | 39.6 45.1 32.3 | 6.0 -1.1, 13.3 7.3 -2.2, 16.6 3.9 -6.1, 15.2 |
+with OR;
+absolute difference in %
+
+All Patients 13.8 14.6 -0.8 -5.8, 6.3
+-AE subgroup (n=296) 18.1 19.1 -1.0 -8.2, 9.3
+-AI subgroup (n=205)a 7.3 8.3 -1.0 -5.5, 9.8
+CBRe % of patients
+
+with CB;
+absolute difference in
+%
+
+All Patients 45.6 39.6 6.0 -1.1, 13.3
+-AE subgroup (n=423) 52.4 45.1 7.3 -2.2, 16.6
+-AI subgroup (n=313)a 36.2 32.3 3.9 -6.1, 15.2
 
 a Faslodex is indicated in patients whose disease had recurred or progressed on an anti-estrogen therapy.
 The results in the AI subgroup are inconclusive.
 b OS is presented for the final survival analyses at 75% maturity.
 c Nominal p-value with no adjustments made for multiplicity between the initial overall survival analyses at 50% maturity and the updated survival analyses at 75% maturity.
-d ORR was assessed in patients who were evaluable for response at baseline (ie, those with measurable disease at baseline: 240 patients in the Faslodex 500 mg group and 261 patients in the Faslodex 250 mg group).
-e Patients with a best objective response of complete response, partial response or stable disease
-≥24 weeks.
+d ORR was assessed in patients who were evaluable for response at baseline (i.e., those with measurable disease at baseline: 240 patients in the Faslodex 500 mg group and 261 patients in the Faslodex 250 mg group).
+e Patients with a best objective response of complete response, partial response or stable disease ≥24 weeks.
 PFS:Progression-free survival; ORR:Objective response rate; OR:Objective response; CBR:Clinical benefit rate; CB:Clinical benefit; OS:Overall survival; K-M:Kaplan-Meier; CI:Confidence interval; AI:Aromatase inhibitor; AE:Anti-estrogen.
 
-Two phase III clinical trials were completed in a total of 851 postmenopausal women with advanced breast cancer who had disease recurrence on or after adjuvant endocrine therapy or progression following endocrine therapy for advanced disease.
+Two phase-III clinical trials were completed in a total of 851 postmenopausal women with advanced breast cancer who had disease recurrence on or after adjuvant endocrine therapy or progression following endocrine therapy for advanced disease.
 77% of the study population had estrogen receptor positive breast cancer.
 These trials compared the safety and efficacy of monthly administration of Faslodex 250 mg versus the daily administration of 1 mg anastrozole (aromatase inhibitor).
 Overall, Faslodex at the 250 mg monthly dose was at least as effective as anastrozole in terms of progression-free survival, objective response, and time to death.
@@ -71,6 +86,7 @@ The hazard ratio of Faslodex 250 mg to anastrozole for time to death was 1.01 (9
 Effects on the postmenopausal endometrium
 Preclinical data do not suggest a stimulatory effect of fulvestrant on the postmenopausal endometrium (see section 5.3).
 A 2-week study in healthy postmenopausal volunteers treated with 20 μg per day ethinylestradiol showed that pre-treatment with Faslodex 250 mg resulted in significantly reduced stimulation of the postmenopausal endometrium, compared to pre-treatment with placebo, as judged by ultrasound measurement of endometrium thickness.
+
 Neoadjuvant treatment for up to 16 weeks in breast cancer patients treated with either Faslodex 500 mg or Faslodex 250 mg did not result in clinically significant changes in endometrial thickness, indicating a lack of agonist effect.
 There is no evidence of adverse endometrial effects in the breast cancer patients studied.
 No data are available regarding endometrial morphology.

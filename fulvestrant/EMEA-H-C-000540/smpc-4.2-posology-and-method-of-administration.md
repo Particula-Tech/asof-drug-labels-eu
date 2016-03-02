@@ -1,7 +1,7 @@
 # 4.2 Posology and method of administration
 
 Posology
-Adult females (including the elderly)
+Adult females (including Elderly)
 The recommended dose is 500 mg at intervals of one month, with an additional 500 mg dose given two weeks after the initial dose.
 
 Special population
