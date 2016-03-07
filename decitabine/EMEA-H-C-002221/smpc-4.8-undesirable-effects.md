@@ -1,9 +1,9 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-The most common adverse drug reactions (≥ 35%) reported during treatment with Dacogen are pyrexia, anaemia and thrombocytopaenia.
+The most common adverse drug reactions (≥35%) reported during treatment with Dacogen are pyrexia, anaemia and thrombocytopaenia.
 
-The most common Grade 3/4 adverse drug reactions (≥ 20%) included pneumonia, thrombocytopaenia, neutropaenia, febrile neutropaenia and anaemia.
+The most common Grade 3/4 adverse drug reactions (≥20%) included pneumonia, thrombocytopaenia, neutropaenia, febrile neutropaenia and anaemia.
 
 In clinical studies, 30% of patients treated with Dacogen and 25% of patients treated in the comparator arm had adverse events with an outcome of death during treatment or within 30 days after the last dose of study drug.
 
@@ -14,8 +14,8 @@ Adverse drug reactions reported in 293 AML patients treated with Dacogen are sum
 Table 1.
 The following table reflects data from AML clinical studies and from post-marketing experience.
 The adverse drug reactions are listed by frequency category.
-Frequency categories are defined as follows: Very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to
-< 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000), not known (frequency cannot be estimated from the available data).
+Frequency categories are defined as follows: Very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to
+< 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), not known (frequency cannot be estimated from the available data).
 
 Within each frequency grouping, adverse drug reactions are presented in order of decreasing seriousness.
 

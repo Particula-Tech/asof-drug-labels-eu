@@ -16,7 +16,7 @@ The median age for the intent-to-treat (ITT) population was 73 years (range 64 t
 Thirty-six percent of subjects had poor-risk cytogenetics at baseline.
 The remainder of the subjects had intermediate-risk cytogenetics.
 Patients with favourable cytogenetics were not included in the study.
-Twenty-five percent of subjects had an ECOG performance status ≥ 2.
+Twenty-five percent of subjects had an ECOG performance status ≥2.
 Eighty-one percent of subjects had significant comorbidities (e.g., infection, cardiac impairment, pulmonary impairment).
 The number of patients treated with Dacogen by racial group was White 209 (86.4%) and Asian 33 (13.6%).
 
