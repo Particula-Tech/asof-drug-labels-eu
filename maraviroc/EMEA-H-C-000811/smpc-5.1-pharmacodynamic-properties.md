@@ -10,7 +10,7 @@ Antiviral activity in vitro
 Maraviroc has no antiviral activity in vitro against viruses which can use CXCR4 as their entry co-receptor (dual-tropic or CXCR4-tropic viruses, collectively termed ‘CXCR4-using’ virus below).
 The serum adjusted EC90 value in 43 primary HIV-1 clinical isolates was 0.57 (0.06 – 10.7) ng/mL without significant changes between different subtypes tested.
 The antiviral activity of maraviroc against HIV-2 has not been evaluated.
-For details please refer to http://www.ema.europa.eu/htms/human/epar/eparintro.
+For details please refer to the pharmacology section of the CELSENTRI European Public Assessment Report (EPAR) on the European Medicines Agency (EMA) website.
 
 When used with other antiretroviral medicinal products in cell culture, the combination of maraviroc was not antagonistic with a range of NRTIs, NNRTIs, PIs or the HIV fusion inhibitor enfuvirtide.
 
@@ -61,13 +61,12 @@ Studies in CCR5-tropic Treatment-Experienced Patients:
 The clinical efficacy of maraviroc (in combination with other antiretroviral medicinal products) on plasma HIV RNA levels and CD4+ cell counts have been investigated in two pivotal ongoing, randomized, double blind, multicentre studies (MOTIVATE 1 and MOTIVATE 2, n=1076 ) in patients infected with CCR5 tropic HIV-1 as determined by the Monogram Trofile Assay.
 
 Patients who were eligible for these studies had prior exposure to at least 3 antiretroviral medicinal product classes [≥1 nucleoside reverse transcriptase inhibitors (NRTI), ≥1 non-nucleoside reverse transcriptase inhibitors (NNRTI), ≥2 protease inhibitors (PI), and/or enfurvirtide] or documented resistance to at least one member of each class.
-Patients were randomised in a 2:2:1 ratio to maraviroc300 mg (dose equivalence) once daily, twice daily or placebo in combination with an optimized background consisting of 3 to 6 antiretroviral medicinal products (excluding low-dose ritonavir).
+Patients were randomised in a 2:2:1 ratio to maraviroc 300 mg (dose equivalence) once daily, twice daily or placebo in combination with an optimized background consisting of 3 to 6 antiretroviral medicinal products (excluding low-dose ritonavir).
 The OBT was selected on the basis of the subject’s prior treatment history and baseline genotypic and phenotypic viral resistance measurements.
 Table 4: Demographic and baseline characteristics of patients (pooled studies MOTIVATE 1 and MOTIVATE 2)
 
-| Demographic and Baseline Characteristics | Maraviroc 300 mg twice daily + OBT | Placebo + OBT |
+| Demographic and Baseline Characteristics | Maraviroc 300 mg twice daily + OBT N = 426 | Placebo + OBT N = 209 |
 | --- | --- | --- |
-|  | N = 426 | N = 209 |
 | Age (years) (Range, years) | 46.3 21-73 | 45.7 29-72 |
 | Male Sex | 89.7% | 88.5% |
 | Race (White/Black/Other) | 85.2% / 12% / 2.8% | 85.2% / 12.4% / 2.4% |
@@ -90,14 +89,14 @@ Table 5: Efficacy Outcomes at week 48 (pooled studies MOTIVATE 1 and MOTIVATE 2)
 | HIV-1 RNA Mean change from baseline (log copies/mL) | -1.837 | -0.785 | -1.055 (-1.327, -0.783) |
 | Percentage of patients with HIV-1 RNA <400 copies/mL | 56.1% | 22.5% | Odds ratio: 4.76 (3.24, 7.00) |
 | Percentage of patients with HIV-1 RNA <50 copies/mL | 45.5% | 16.7% | Odds ratio: 4.49 (2.96, 6.83) |
-| CD4+ cell count Mean change from baseline (cells/uL) | 122.78 | 59.17 | 63.13 (44.28, 81.99)2 |
+| CD4+ cell count Mean change from baseline (cells/µL) | 122.78 | 59.17 | 63.13 (44.28, 81.99)2 |
 
 1 p-values < 0.0001
 2 For all efficacy endpoints the confidence intervals were 95%, except for HIV-1 RNA Change from baseline which was 97.5%
 
 In a retrospective analysis of the MOTIVATE studies with a more sensitive assay for screening of tropism (Trofile ES), the response rates (<50 copies/mL at week 48) in patients with only CCR5-tropic virus detected at baseline was 48.2% in those treated with maraviroc + OBT (n=328), and 16.3% in those treated with placebo + OBT (n=178).
 Maraviroc 300 mg twice daily + OBT was superior to placebo + OBT across all subgroups of patients analysed (see Table 6).
-Patients with very low CD4+ count at baseline (i.e. <50 cells/uL) had a less favourable outcome.
+Patients with very low CD4+ count at baseline (i.e. <50 cells/µL) had a less favourable outcome.
 This subgroup had a high degree of bad prognostic markers, i.e. extensive resistance and high baseline viral loads.
 However, a significant treatment benefit for maraviroc compared to placebo + OBT was still demonstrated (see Table 6).
 
@@ -107,20 +106,28 @@ Table 6: Proportion of patients achieving <50 copies/mL at Week 48 by subgroup (
 | --- | --- | --- |
 |  | Maraviroc 300 mg twice daily + OBT N=426 | Placebo + OBT N=209 |
 | Screening HIV-1 RNA (copies /mL): <100,000 ≥100,000 | 58.4% 34.7% | 26.0% 9.5% |
-| Baseline CD4+ (cells/uL): <50 50-100 101-200 201-350 ≥ 350 | 16.5% 36.4% 56.7% 57.8% 72.9% | 2.6% 12.0% 21.8% 21.0% 38.5% |
+| Baseline CD4+ (cells/µL): <50 50-100 101-200 201-350 ≥ 350 | 16.5% 36.4% 56.7% 57.8% 72.9% | 2.6% 12.0% 21.8% 21.0% 38.5% |
 | Number of active ARVs in OBT1: 0 1 2 ≥3 | 32.7% 44.5% 58.2% 62% | 2.0% 7.4% 31.7% 38.6% |
 
 1Based on GSS.
 
 Studies in Non-CCR5-tropic Treatment-Experienced Patients:
 Study A4001029 was an exploratory study in patients infected with dual/mixed or CXCR4 tropic HIV-1 with a similar design as the studies MOTIVATE 1 and MOTIVATE 2.
-In this study, neither superiority nor non-inferiority to placebo + OBT were demonstrated although there was no adverse outcome on viral load or CD4+ cell count
+In this study, neither superiority nor non-inferiority to placebo + OBT were demonstrated although there was no adverse outcome on viral load or CD4+ cell count.
 
 Studies in Treatment-Naïve Patients
 An ongoing randomised, double-blinded study (MERIT), is exploring Maraviroc versus efavirenz, both in combination with zidovudine/lamivudine (n=721, 1:1).
 After 48 weeks of treatment, maraviroc did not reach non-inferiority to efavirenz for the endpoint of HIV-1 RNA < 50 copies/mL (65.3 vs. 69.3 % respectively, lower confidence bound -11.9%).
 More patients treated with maraviroc discontinued due to lack of efficacy (43 vs.15) and among patients with lack of efficacy, the proportion acquiring NRTI resistance (mainly lamivudine) was higher in the maraviroc arm.
 Fewer patients discontinued maraviroc due to adverse events (15 vs. 49).
+
+Studies on Patients co-infected with hepatitis B and/or hepatitis C virus
+
+The hepatic safety of maraviroc in combination with other antiretroviral agents in HIV-1-infected subjects with HIV RNA <50 copies/mL, co-infected with Hepatitis C and/or Hepatitis B Virus was evaluated in a multicentre, randomized, double blinded, placebo-controlled study.
+70 subjects (Child-Pugh Class A, n=64; Child-Pugh Class B, n=6) were randomized to the maraviroc group and 67 subjects (Child-Pugh Class A, n=59; Child-Pugh Class B, n=8) were randomized to the placebo group.
+
+The primary objective assessed the incidence of Grade 3 and 4 ALT abnormalities (>5x upper limit of normal (ULN) if baseline ALT ≤ ULN; or >3.5x baseline if baseline ALT > ULN) at Week 48.
+One subject in each treatment arm met the primary endpoint by Week 48 (at Week 8 for placebo and Week 36 for the maraviroc arm).
 
 [CELSENTRI 300 mg film-coated tablets.]
 
@@ -130,5 +137,5 @@ Maraviroc300 mg twice daily + OBT was superior to placebo + OBT across all subgr
 | --- | --- | --- |
 |  | Maraviroc300 mg twice daily + OBT N=426 | Placebo + OBT N=209 |
 | Screening HIV-1 RNA (copies/mL): <100,000 ≥100,000 | 58.4% 34.7% | 26.0% 9.5% |
-| Baseline CD4+ (cells/uL): <50 50-100 101-200 201-350 ≥ 350 | 16.5% 36.4% 56.7% 57.8% 72.9% | 2.6% 12.0% 21.8% 21.0% 38.5% |
+| Baseline CD4+ (cells/µL): <50 50-100 101-200 201-350 ≥ 350 | 16.5% 36.4% 56.7% 57.8% 72.9% | 2.6% 12.0% 21.8% 21.0% 38.5% |
 | Number of active ARVs in OBT1: 0 1 2 ≥3 | 32.7% 44.5% 58.2% 62% | 2.0% 7.4% 31.7% 38.6% |

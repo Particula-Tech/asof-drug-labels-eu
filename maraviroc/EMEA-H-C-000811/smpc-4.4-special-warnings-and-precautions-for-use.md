@@ -7,10 +7,12 @@ Hepatic disease
 The safety and efficacy of maraviroc have not been specifically studied in patients with significant underlying liver disorders.
 Cases of hepatotoxicity and hepatic failure with allergic features have been reported in association with maraviroc.
 In addition, an increase in hepatic adverse reactions with maraviroc was observed during studies of treatment-experienced subjects with HIV infection, although there was no overall increase in ACTG Grade 3/4 liver function test abnormalities (see section 4.8).
-Hepatobiliary disorders reported in treatment-naïve patients were uncommon and balanced between treatment groups (see section 4.8).Patients with pre-existing liver dysfunction, including chronic active hepatitis, can have an increased frequency of liver function abnormalities during combination antiretroviral therapy and should be monitored according to standard practice.
+Hepatobiliary disorders reported in treatment-naïve patients were uncommon and balanced between treatment groups (see section 4.8).
+Patients with pre-existing liver dysfunction, including chronic active hepatitis, can have an increased frequency of liver function abnormalities during combination antiretroviral therapy and should be monitored according to standard practice.
 Discontinuation of maraviroc should be strongly considered in any patient with signs or symptoms of acute hepatitis, in particular if drug-related hypersensitivity is suspected or with increased liver transaminases combined with rash or other systemic symptoms of potential hypersensitivity (e.g. pruritic rash, eosinophilia or elevated IgE).
-Since there are very limited data in patients with hepatitis B/C co-infection, special caution should be exercised when treating these patients with maraviroc.
-In case of concomitant antiviral therapy for hepatitis B and/or C, please refer also to the relevant product information for these medicinal products.
+There are limited data in patients with hepatitis B and/or C virus co-infection (see section 5.1).
+Caution should be exercised when treating these patients.
+In case of concomitant antiviral therapy for hepatitis B and/or C, please refer to the relevant product information for these medicinal products.
 
 There is limited experience in patients with reduced hepatic function, therefore maraviroc should be used with caution in this population (see sections 4.2 and 5.2).
 

@@ -10,7 +10,8 @@ Breast-feeding
 Studies in lactating rats indicate that maraviroc is extensively secreted into rat milk.
 Primary pharmacological activity (CCR5 receptor affinity) was limited in these species.
 It is not known whether maraviroc is secreted into human milk.
-Mothers should be instructed not to breast-feed if they are receiving maraviroc because of the potential for HIV transmission as well as any possible adverse reactions in breast-fed infants.
+
+It is recommended that mothers infected by HIV do not breast-feed their infants under any circumstances in order to avoid transmission of HIV.
 
 Fertility
 There is no data on the effects of maraviroc on human fertility.
