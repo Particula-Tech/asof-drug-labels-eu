@@ -6,7 +6,6 @@ Pregelatinised starch (maize)
 Maize starch
 Copovidone
 Magnesium stearate
-
 Film coating
 Hypromellose
 Titanium dioxide (E171)

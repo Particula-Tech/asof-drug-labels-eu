@@ -1,9 +1,9 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Drugs used in diabetes, dipeptidyl peptidase 4 (DPP-4) inhibitor, ATC code: A10BH05.
+Pharmacotherapeutic group: Drugs used in diabetes, dipeptidyl peptidase 4 (DPP-4) inhibitors, ATC code: A10BH05
 
 Mechanism of action
-Linagliptin is an inhibitor of the enzyme DPP-4 (Dipeptidyl peptidase 4, EC 3.4.14.5) an enzyme which is involved in the inactivation of the incretin hormones GLP-1 and GIP (glucagon-like peptide1, glucose-dependent insulinotropic polypeptide).
+Linagliptin is an inhibitor of the enzyme DPP-4 (dipeptidyl peptidase 4, EC 3.4.14.5) an enzyme which is involved in the inactivation of the incretin hormones GLP-1 and GIP (glucagon-like peptide1, glucose-dependent insulinotropic polypeptide).
 These hormones are rapidly degraded by the enzyme DPP-4.
 Both incretin hormones are involved in the physiological regulation of glucose homeostasis.
 Incretins are secreted at a low basal level throughout the day and levels rise immediately after meal intake.
@@ -14,9 +14,9 @@ Linagliptin glucose-dependently increases insulin secretion and lowers glucagon 
 Linagliptin binds selectively to DPP-4 and exhibits a > 10,000 fold selectivity versus DPP-8 or DPP-9 activity in vitro.
 
 Clinical efficacy and safety
-8 phase III randomised controlled trials involving 5239 patients with type 2 diabetes, of which 3319 were treated with linagliptin were conducted to evaluate efficacy and safety.
+8 phase III randomised controlled trials involving 5,239 patients with type 2 diabetes, of which 3,319 were treated with linagliptin were conducted to evaluate efficacy and safety.
 These studies had 929 patients of 65 years and over who were on linagliptin.
-There were also 1238 patients with mild renal impairment, and 143 patients with moderate renal impairment on linagliptin.
+There were also 1,238 patients with mild renal impairment, and 143 patients with moderate renal impairment on linagliptin.
 Linagliptin once daily produced clinically significant improvements in glycaemic control, with no clinically relevant change in body weight.
 The reductions in glycosylated haemoglobin A1c (HbA1c) were similar across different subgroups including gender, age, renal impairment and body mass index (BMI).
 Higher baseline HbA1c was associated with a greater reduction in HbA1c.
@@ -32,7 +32,6 @@ The efficacy and safety of linagliptin monotherapy was also evaluated in patient
 Linagliptin provided significant improvements in HbA1c, (-0.57% change compared to placebo), from a mean baseline HbA1c of 8.09%.
 Linagliptin also showed significant improvements in fasting plasma glucose (FPG) compared to placebo.
 The observed incidence of hypoglycaemia in patients treated with linagliptin was similar to placebo.
-
 Linagliptin as add-on to metformin therapy
 The efficacy and safety of linagliptin in combination with metformin was evaluated in a double-blind placebo-controlled study of 24 weeks duration.
 Linagliptin provided significant improvements in HbA1c, (-0.64% change compared to placebo), from a mean baseline HbA1c of 8%.
@@ -69,21 +68,20 @@ The observed difference in HbA1c over placebo was -0.72% after 52 weeks.
 Body weight did not differ significantly between the groups.
 The observed incidence of hypoglycaemia in patients treated with linagliptin was higher than placebo, due to an increase in asymptomatic hypoglycaemic events.
 There was no difference between groups in severe hypoglycaemic events.
-
-Linagliptin as add-on therapy in older people (age ≥70 years) with type 2 diabetes
-The efficacy and safety of linagliptin in older people (age ≥ 70years) with type 2 diabetes was evaluated in a double-blind study of 24 weeks duration.
+Linagliptin as add-on therapy in elderly (age ≥70 years) with type 2 diabetes
+The efficacy and safety of linagliptin in elderly (age ≥ 70years) with type 2 diabetes was evaluated in a double-blind study of 24 weeks duration.
 Patients received metformin and/or sulphonylurea and/or insulin as background therapy.
-Doses of background antidiabetic medications were kept stable during the first 12 weeks, after which adjustments were permitted.
+Doses of background antidiabetic medicinal products were kept stable during the first 12 weeks, after which adjustments were permitted.
 Linagliptin provided significant improvements in HbA1c (-0.64 % change compared to placebo after 24 weeks), from a mean baseline HbA1c of 7.8%.
 Linagliptin also showed significant improvements in fasting plasma glucose (FPG) compared to placebo.
 Body weight did not differ significantly between the groups.
 
-Cardiovascular risk
-In a prospective meta-analysis of independently adjudicated cardiovascular events from 19 clinical studies (ranging from 18 weeks to 24 months duration) involving 9459 patients with type 2 diabetes, linagliptin treatment was not associated with an increase in cardiovascular risk.
+Cardiovascular (CV) risk
+In a prospective meta-analysis of independently adjudicated CV events from 19 clinical studies (ranging from 18 weeks to 24 months duration) involving 9,459 patients with type 2 diabetes, linagliptin treatment was not associated with an increase in CV risk.
 The primary endpoint, the composite of: the occurrence or time to first occurrence of CV death, non-fatal myocardial infarction, non-fatal stroke or hospitalization for unstable angina, was non-significantly lower for linagliptin versus combined active and placebo comparators [Hazard ratio 0.78 (95% confidence interval 0.55;1.12)].
 In total there were 60 primary events on linagliptin and 62 on comparators.
 To date there is no evidence for an increased CV risk but the number of events in the clinical studies precludes firm conclusions.
-However, cardiovascular events were similar between linagliptin and placebo (1.03% with linagliptin vs 1.35% with placebo).
+However, CV events were similar between linagliptin and placebo (1.03% with linagliptin vs 1.35% with placebo).
 
 Paediatric population
 The European Medicines Agency has deferred the obligation to submit the results of studies with linagliptin in one or more subsets of the paediatric population in Type 2 diabetes (see section 4.2 for information on paediatric use).
