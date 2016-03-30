@@ -24,6 +24,7 @@ Patients with secondary MDS were excluded from the study.
 The primary endpoint of the study was overall survival.
 Vidaza was administered at a subcutaneous dose of 75 mg/m2 daily for 7 days, followed by a rest period of 21 days (28-day treatment cycle) for a median of 9 cycles (range = 1-39) and a mean of 10.2 cycles.
 Within the Intent to Treat population (ITT), the median age was 69 years (range 38 to 88 years).
+
 In the ITT analysis of 358 patients (179 azacitidine and 179 CCR), Vidaza treatment was associated with a median survival of 24.46 months versus 15.02 months for those receiving CCR treatment, a difference of 9.4 months, with a stratified log-rank p-value of 0.0001.
 The hazard ratio for the treatment effect was 0.58 (95 % CI: 0.43, 0.77).
 The two-year survival rates were 50.8 % in patients receiving azacitidine versus 26.2 % in patients receiving CCR (p < 0.0001).

@@ -35,3 +35,7 @@ Cardiopulmonary assessment before and during the treatment should be considered.
 Necrotising fasciitis
 Necrotising fasciitis, including fatal cases, have been reported in patients treated with Vidaza.
 Vidaza therapy should be discontinued in patients who develop necrotising fasciitis and appropriate treatment should be promptly initiated.
+
+Tumour lysis syndrome
+The patients at risk of tumour lysis syndrome are those with high tumour burden prior to treatment.
+These patients should be monitored closely and appropriate precautions taken.

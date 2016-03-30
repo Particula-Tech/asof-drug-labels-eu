@@ -14,10 +14,10 @@ The most common serious adverse reactions (≥ 10%) noted from AZA-AML-001 withi
 Other less frequently reported serious adverse reactions in the azacitidine treatment arm included sepsis (5.1%), anaemia (4.2%), neutropenic sepsis (3.0%), urinary tract infection (3.0%), thrombocytopenia (2.5%), neutropenia (2.1%), cellulitis (2.1%), dizziness (2.1%) and dyspnoea (2.1%).
 
 The most commonly reported (≥ 30%) adverse reactions with azacitidine treatment were gastrointestinal events, including constipation (41.9%), nausea (39.8%), and diarrhoea (36.9%), (usually Grade 1-2), general disorders and administration site conditions including pyrexia (37.7%; usually Grade 1-2) and haematological events, including febrile neutropenia (32.2%) and neutropenia (30.1%), (usually Grade 3-4).
-
 Tabulated list of adverse reactions
 
 Table 1 below contains adverse reactions associated with azacitidine treatment obtained from the main clinical studies in MDS and AML and post marketing surveillance.
+
 Frequencies are defined as: very common (≥ 1/10), common (≥ 1/100 to < 1/10); uncommon
 (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
@@ -38,7 +38,7 @@ Table 1: ADRs reported in patients with MDS or AML treated with azacitidine (cli
 | Respiratory, thoracic and mediastinal disorders | dyspnoea, epistaxis | pleural effusion, dyspnoea exertional, pharyngolaryngeal pain |  | interstitial lung disease |  |
 | Gastrointestin al disorders | diarrhoea, vomiting, constipation, nausea, abdominal pain (includes upper and abdominal discomfort) | gastrointestinal haemorrhage* (includes mouth haemorrhage), haemorrhoidal haemorrhage, stomatitis, gingival bleeding, dyspepsia |  |  |  |
 | Hepatobiliary disorders |  |  | hepatic failure*, progressive hepatic coma |  |  |
-| Skin and subcutaneous tissue disorders | petechiae, pruritus (includes generalized), rash, ecchymosis | purpura, alopecia, urticaria, erythema, rash macular | acute febrile neutrophilic dermatosis |  |  |
+| Skin and subcutaneous tissue disorders | petechiae, pruritus (includes generalized), rash, ecchymosis | purpura, alopecia, urticaria, erythema, rash macular | acute febrile neutrophilic dermatosis, pyoderma gangrenosum |  |  |
 | Musculoskelet al, and connective tissue disorders | arthralgia, musculoskeletal pain (includes back, bone and pain in extremity) | muscle spasms, myalgia |  |  |  |
 | Renal and urinary disorders |  | renal failure*, haematuria, elevated serum creatinine | renal tubular acidosis |  |  |
 | General disorders and administration site conditions | pyrexia*, fatigue, asthenia, chest pain, injection site erythema, injection site pain, injection site reaction (unspecified) | bruising, haematoma, induration, rash, pruritus, inflammation, discoloration, nodule and haemorrhage (at injection site), malaise, chills, catheter site hemorrhage |  | injection site necrosis (at injection site) |  |
@@ -85,12 +85,12 @@ Renal abnormalities, ranging from elevated serum creatinine and haematuria to re
 
 Hepatic adverse reactions
 Patients with extensive tumour burden due to metastatic disease have been reported to experience hepatic failure, progressive hepatic coma and death during azacitidine treatment (see section 4.4).
-
 Cardiac events
 Data from a clinical trial allowing enrolment of patients with known history of cardiovascular or pulmonary disease showed a statistically significant increase in cardiac events in patients with newly diagnosed AML treated with azacitidine (see section 4.4).
 
 Elderly population
 There is limited safety information available with azacitidine in patients ≥85 years (with 14 [5.9%] patients ≥85 years in AZA-AML-001 study).
+
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
