@@ -34,7 +34,7 @@ The table for haematological toxicity (Table 3) provides the schedule followed f
 Dose modification in patients with AIDS-KS is addressed in section 4.8.
 
 Table 1.
-PALMAR–PLANTAR ERYTHRODYSESTHESIA
+Palmar–Plantar erythrodysesthesia
 
 |  | Week after prior Caelyx dose |  |  |
 | --- | --- | --- | --- |
@@ -45,7 +45,7 @@ PALMAR–PLANTAR ERYTHRODYSESTHESIA
 | Grade 4 (diffuse or local process causing infectious complications, or a bedridden state or hospitalisation) | Wait an additional week | Wait an additional week | Withdraw patient |
 
 Table 2.
-STOMATITIS
+Stomatitis
 
 |  | Week after prior Caelyx dose |  |  |
 | --- | --- | --- | --- |
@@ -56,7 +56,7 @@ STOMATITIS
 | Grade 4 (requires parenteral or enteral support) | Wait an additional week | Wait an additional week | Withdraw patient |
 
 Table 3.
-HAEMATOLOGICAL TOXICITY (ANC OR PLATELETS) – MANAGEMENT OF PATIENTS WITH BREAST OR OVARIAN CANCER
+Haematological toxicity (ANC or platelets) – Management of patients with breast or ovarian cancer
 
 | GRADE | ANC | PLATELETS | MODIFICATION |
 | --- | --- | --- | --- |
@@ -70,12 +70,12 @@ Table 4, below provides the schedule followed for other dose modifications in th
 For more detailed information on bortezomib dosing and dosage adjustments, see the SPC for bortezomib.
 
 Table 4.
-DOSAGE ADJUSTMENTS FOR CAELYX + BORTEZOMIB COMBINATION THERAPY - PATIENTS WITH MULTIPLE MYELOMA
+Dosage adjustments for Caelyx + bortezomib combination therapy - patients with multiple myeloma
 
 | Patient status | Caelyx | Bortezomib |
 | --- | --- | --- |
-| Fever ≥38○C and ANC < 1,000/mm3 | Do not dose this cycle if before Day 4; if after Day 4, reduce next dose by 25%. | Reduce next dose by 25%. |
-| On any day of medicine administration after Day 1 of each cycle: Platelet count < 25,000/mm3 Hemoglobin < 8 g/dl ANC < 500/mm3 | Do not dose this cycle if before Day 4; if after Day 4 reduce next dose by 25% in the following cycles if bortezomib is reduced for hematologic toxicity.* | Do not dose; if 2 or more doses are not given in a cycle, reduce dose by 25% in following cycles. |
+| Fever ≥38○C and ANC < 1,000/mm3 | Do not dose this cycle if before day 4; if after day 4, reduce next dose by 25%. | Reduce next dose by 25%. |
+| On any day of medicine administration after day 1 of each cycle: Platelet count < 25,000/mm3 Hemoglobin < 8 g/dl ANC < 500/mm3 | Do not dose this cycle if before day 4; if after day 4 reduce next dose by 25% in the following cycles if bortezomib is reduced for hematologic toxicity.* | Do not dose; if 2 or more doses are not given in a cycle, reduce dose by 25% in following cycles. |
 | Grade 3 or 4 non-hematologic medicine related toxicity | Do not dose until recovered to grade < 2 and reduce dose by 25% for all subsequent doses. | Do not dose until recovered to grade < 2 and reduce dose by 25% for all subsequent doses. |
 | Neuropathic pain or peripheral neuropathy | No dosage adjustments. | See the SPC for bortezomib. |
 
@@ -91,8 +91,7 @@ Prior to Caelyx administration, evaluate hepatic function using conventional cli
 
 Patients with impaired renal function
 As doxorubicin is metabolised by the liver and excreted in the bile, dose modification should not be required.
-Population pharmacokinetic data (in the range of creatinine clearance tested of
-30-156 ml/min) demonstrate that Caelyx clearance is not influenced by renal function.
+Population pharmacokinetic data (in the range of creatinine clearance tested of 30-156 ml/min) demonstrate that Caelyx clearance is not influenced by renal function.
 No pharmacokinetic data are available in patients with creatinine clearance of less than 30 ml/min.
 
 AIDS-related KS patients with splenectomy
@@ -104,10 +103,10 @@ Caelyx is not recommended in patients below 18 years of age.
 
 Older people
 Population based analysis demonstrates that age across the range tested (21–75 years) does not significantly alter the pharmacokinetics of Caelyx.
+
 Method of administration
 Caelyx is administered as an intravenous infusion.
 For further instructions on preparation and special precautions for handling see section 6.6.
-
 Do not administer Caelyx as a bolus injection or undiluted solution.
 It is recommended that the Caelyx infusion line be connected through the side port of an intravenous infusion of 5% (50 mg/ml) glucose to achieve further dilution and minimise the risk of thrombosis and extravasation.
 The infusion may be given through a peripheral vein.

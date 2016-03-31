@@ -36,6 +36,7 @@ Table 5.
 Treatment related undesirable effects reported in breast cancer clinical trials
 (50 mg/m2 every 4 weeks) (Caelyx-treated patients) by severity, MedDRA system organ class and preferred term
 Very common (≥1/10); Common (≥1/100, < 1/10); Uncommon (≥1/1,000, < 1/100)
+
 CIOMS III
 
 | AE by body system | Breast cancer All severities n=254 (≥5%) | Breast cancer Grades 3/4 n=254 (≥5%) | Breast cancer n=404 (1-5%) not previously reported in clinical trials |
@@ -80,6 +81,7 @@ Table 6.
 Treatment related undesirable effects reported in ovarian cancer clinical trials
 (50 mg/m2 every 4 weeks) (Caelyx-treated patients) by severity, MedDRA system organ class and preferred term
 Very common (≥1/10); Common (≥1/100, < 1/10); Uncommon (≥1/1,000, < 1/100)
+
 CIOMS III
 
 | AE by body system | Ovarian cancer All severities n=512 (≥5%) | Ovarian cancer Grades 3/4 n=512 (≥5%) | Ovarian cancer n=512 (1-5%) |
@@ -152,10 +154,10 @@ Nausea and vomiting were reported more frequently in the combination therapy gro
 
 Treatment discontinuation of one or both agents due to adverse events was seen in 38% of patients.
 Common adverse events which led to treatment discontinuation of bortezomib and Caelyx included PPE, neuralgia, peripheral neuropathy, peripheral sensory neuropathy, thrombocytopaenia, decreased ejection fraction, and fatigue.
-
 Table 7.
 Treatment related undesirable effects reported in multiple myeloma clinical trial (Caelyx 30 mg/m2 in combination with bortezomib every 3 weeks) by severity, MedDRA system organ class and preferred term
 Very common (≥1/10); Common (≥1/100, < 1/10); Uncommon (≥1/1,000, < 1/100)
+
 CIOMS III
 
 | AE by body system | All Severities n=318 (≥5%) | Grades 3/4** n=318 (≥5%) | All Severities n=318 (1-5%) |
@@ -197,6 +199,7 @@ CIOMS III
 
 * Palmar-plantar erythrodysesthesia (Hand-foot syndrome).
 ** Grade 3/4 adverse events are based on the adverse event terms of all severities with an overall incidence ≥5% (see adverse events listed in first column).
+
 AIDS-related KS program
 Clinical studies on AIDS-KS patients treated at 20 mg/m2 with Caelyx show that myelosuppression was the most frequent undesirable effect considered related to Caelyx occurring very commonly (in approximately one-half of the patients).
 
@@ -219,13 +222,15 @@ Very common (≥1/10); Common (≥1/100, < 1/10); Uncommon (≥1/1,000, < 1/100)
 | --- | --- |
 | common | oral moniliasis |
 | Blood and lymphatic system disorders |  |
-| very common common | neutropaenia, anaemia, leukopaenia thrombocytopaenia |
+| very common | neutropaenia, anaemia, leukopaenia |
+| common | thrombocytopaenia |
 | Metabolism and nutrition disorders |  |
 | common | anorexia |
 | Psychiatric disorders |  |
 | uncommon | confusion |
 | Nervous system disorders |  |
-| common uncommon | dizziness paresthesia |
+| common | dizziness |
+| uncommon | paresthesia |
 | Eye disorders |  |
 | common | retinitis |
 | Vascular disorders |  |
@@ -233,9 +238,11 @@ Very common (≥1/10); Common (≥1/100, < 1/10); Uncommon (≥1/1,000, < 1/100)
 | Respiratory, thoracic and mediastinal disorders |  |
 | common | dyspnoea |
 | Gastrointestinal disorders |  |
-| very common common | nausea diarrhoea, stomatitis, vomiting, mouth ulceration, abdominal pain, glossitis, constipation, nausea and vomiting |
+| very common | nausea |
+| common | diarrhoea, stomatitis, vomiting, mouth ulceration, abdominal pain, glossitis, constipation, nausea and vomiting |
 | Skin and subcutaneous tissue disorders |  |
-| common uncommon | alopecia, rash palmar-plantar erythrodysesthesia (PPE) |
+| common | alopecia, rash |
+| uncommon | palmar-plantar erythrodysesthesia (PPE) |
 | General disorders and administration site conditions |  |
 | common | asthenia, fever, infusion-associated acute reactions |
 | Investigations |  |
@@ -268,14 +275,10 @@ It did not interfere with patients completing therapy and no dosage adjustments 
 In this case, the dose interval may be extended by 1-2 weeks or the dose reduced (see section 4.2).
 
 An increased incidence of congestive heart failure is associated with doxorubicin therapy at cumulative lifetime doses > 450 mg/m2 or at lower doses for patients with cardiac risk factors.
-
 Endomyocardial biopsies on nine of ten AIDS-KS patients receiving cumulative doses of Caelyx greater than 460 mg/m2 indicate no evidence of anthracycline-induced cardiomyopathy.
 The recommended dose of Caelyx for AIDS-KS patients is 20 mg/m2 every two-to-three weeks.
-The
-
-cumulative dose at which cardiotoxicity would become a concern for these AIDS-KS patients
+The cumulative dose at which cardiotoxicity would become a concern for these AIDS-KS patients
 (> 400 mg/m2) would require more than 20 courses of Caelyx therapy over 40 to 60 weeks.
-
 In addition, endomyocardial biopsies were performed in 8 solid tumour patients with cumulative anthracycline doses of 509 mg/m2–1,680 mg/m2.
 The range of Billingham cardiotoxicity scores was grades 0-1.5.
 These grading scores are consistent with no or mild cardiac toxicity.

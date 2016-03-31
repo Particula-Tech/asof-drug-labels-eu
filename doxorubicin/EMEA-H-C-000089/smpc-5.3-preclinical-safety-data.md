@@ -10,7 +10,6 @@ Dermal toxicity
 In studies performed after the repeated administration of Caelyx to rats and dogs, serious dermal inflammations and ulcer formations were observed at clinically relevant dosages.
 In the study in dogs, the occurrence and severity of these lesions was reduced by lowering the dose or prolonging the intervals between doses.
 Similar dermal lesions, which are described as palmar-plantar erythrodysesthesia were also observed in patients after long-term intravenous infusion (see section 4.8).
-
 Anaphylactoid response
 During repeat dose toxicology studies in dogs, an acute response characterised by hypotension, pale mucous membranes, salivation, emesis and periods of hyperactivity followed by hypoactivity and lethargy was observed following administration of pegylated liposomes (placebo).
 A similar, but less severe response was also noted in dogs treated with Caelyx and standard doxorubicin.
@@ -20,6 +19,7 @@ However, the response was not life-threatening and the dogs recovered quickly up
 
 Local toxicity
 Subcutaneous tolerance studies indicate that Caelyx, as against standard doxorubicin hydrochloride, causes slighter local irritation or damage to the tissue after a possible extravasation.
+
 Mutagenicity and carcinogenicity
 Although no studies have been conducted with Caelyx, doxorubicin hydrochloride, the pharmacologically active ingredient of Caelyx, is mutagenic and carcinogenic.
 Pegylated placebo liposomes are neither mutagenic nor genotoxic.
