@@ -22,20 +22,23 @@ The table below reflects the adverse reactions observed with mirabegron in the t
 The frequency of adverse reactions is defined as follows: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-| MedDRA System organ class | Common | Uncommon | Rare | Not known (cannot be estimated from the available data) |
-| --- | --- | --- | --- | --- |
-| Infections and infestations | Urinary tract infection | Vaginal infection Cystitis |  |  |
-| Psychiatric disorders |  |  |  | Insomnia* |
-| Eye disorders |  |  | Eyelid oedema |  |
-| Cardiac disorders | Tachycardia | Palpitation Atrial fibrillation |  |  |
-| Gastrointestinal disorders | Nausea* | Dyspepsia Gastritis | Lip oedema |  |
-| Skin and subcutaneous tissue disorders |  | Urticaria Rash Rash macular Rash papular Pruritus | Leukocytoclastic vasculitis Purpura Angioedema* |  |
-| Musculoskeletal and connective tissue disorders |  | Joint swelling |  |  |
-| Reproductive system and breast disorders |  | Vulvovaginal pruritus |  |  |
-| Investigations |  | Blood pressure increased GGT increased AST increased ALT increased |  |  |
-| Renal and urinary disorders |  |  | Urinary retention* |  |
+| MedDRA System organ class | Common | Uncommon | Rare | Very rare | Not known (cannot be estimated from the available data) |
+| --- | --- | --- | --- | --- | --- |
+| Infections and infestations | Urinary tract infection | Vaginal infection Cystitis |  |  |  |
+| Psychiatric disorders |  |  |  |  | Insomnia* |
+| Eye disorders |  |  | Eyelid oedema |  |  |
+| Cardiac disorders | Tachycardia | Palpitation Atrial fibrillation |  |  |  |
+| Vascular disorders |  |  |  | Hypertensive crisis* |  |
+| Gastrointestinal disorders | Nausea* Constipation* Diarrhoea* | Dyspepsia Gastritis | Lip oedema |  |  |
+| Skin and subcutaneous tissue disorders |  | Urticaria Rash Rash macular Rash papular Pruritus | Leukocytoclast ic vasculitis Purpura Angioedema* |  |  |
+| Musculoskeletal and connective tissue disorders |  | Joint swelling |  |  |  |
+| Reproductive system and breast disorders |  | Vulvovaginal pruritus |  |  |  |
+| Investigations |  | Blood pressure increased GGT increased AST increased ALT increased |  |  |  |
+| Renal and urinary disorders |  |  | Urinary retention* |  |  |
+| Nervous system disorders | Headache* Dizziness* |  |  |  |  |
 
 *observed during post-marketing experience
+
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.

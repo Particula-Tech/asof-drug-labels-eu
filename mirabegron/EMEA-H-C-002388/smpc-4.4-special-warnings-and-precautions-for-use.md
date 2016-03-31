@@ -17,18 +17,14 @@ Hypertension
 Mirabegron can increase blood pressure.
 Blood pressure should be measured at baseline and periodically during treatment with Betmiga, especially in hypertensive patients.
 Data are limited in patients with stage 2 hypertension (systolic blood pressure ≥ 160 mm Hg or diastolic blood pressure ≥ 100 mm Hg).
-
 Patients with congenital or acquired QT prolongation
 
 Betmiga, at therapeutic doses, has not demonstrated clinically relevant QT prolongation in clinical studies (see section 5.1).
 However, since patients with a known history of QT prolongation or patients who are taking medicinal products known to prolong the QT interval were not included in these studies, the effects of mirabegron in these patients is unknown.
 Caution should be exercised when administering mirabegron in these patients.
 
-Patients with bladder outlet obstruction and patients taking antimuscarinics medications for OAB Urinary retention in patients with bladder outlet obstruction (BOO) and in patients taking antimuscarinic medications for the treatment of OAB has been reported in postmarketing experience in patients taking mirabegron.
+Patients with bladder outlet obstruction and patients taking antimuscarinics medications for OAB
+
+Urinary retention in patients with bladder outlet obstruction (BOO) and in patients taking antimuscarinic medications for the treatment of OAB has been reported in postmarketing experience in patients taking mirabegron.
 A controlled clinical safety study in patients with BOO did not demonstrate increased urinary retention in patients treated with Betmiga; however, Betmiga should be administered with caution to patients with clinically significant BOO.
 Betmiga should also be administered with caution to patients taking antimuscarinic medications for the treatment of OAB.
-
-[Betmiga 50 mg prolonged-release tablets]
-
-Data are limited in patients with stage 2 hypertension (systolic blood pressure ≥ 160 mm Hg or diastolic blood pressure
-≥ 100 mm Hg).

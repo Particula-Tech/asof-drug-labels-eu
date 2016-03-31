@@ -59,7 +59,6 @@ In one study, 495 patients received an active control (tolterodine prolonged rel
 
 The co-primary efficacy endpoints were (1) change from baseline to end of treatment in mean number of incontinence episodes per 24 hours and (2) change from baseline to end of treatment in mean number of micturitions per 24 hours based on a 3-day micturition diary.
 Mirabegron demonstrated statistically significant larger improvements compared to placebo for both co-primary endpoints as well as secondary endpoints (see Tables 1 and 2).
-
 Table 1: Co-primary and Selected Secondary Efficacy Endpoints at End of Treatment for Pooled Studies
 
 | Parameter | Pooled studies (046, 047, 074) |  |
@@ -115,6 +114,7 @@ Pooled studies consisted of studies 046 (Europe / Australia), 047 (North America
 FAS: Full analysis set, all randomized patients who took at least 1 dose of double blind study drug and who had a micturition measurement in the baseline diary and at least 1 post-baseline visit diary with a micturition measurement.
 FAS-I: Subset of FAS who also had at least 1 incontinence episode in the baseline diary.
 CI: Confidence Interval
+
 Table 2: Co-primary and Selected Secondary Efficacy Endpoints at End of Treatment for Studies 046, 047 and 074
 
 | Paramete r | Study 046 |  |  | Study 047 |  | Study 074 |  |
@@ -138,9 +138,8 @@ Table 2: Co-primary and Selected Secondary Efficacy Endpoints at End of Treatmen
 | n | 480 | 472 | 475 | 433 | 424 | 415 | 426 |
 | Mean baseline | 156.7 | 161.1 | 158.6 | 157.5 | 156.3 | 164.0 | 159.3 |
 | Mean change from baseline† | 12.3 | 24.2 | 25.0 | 7.0 | 18.2 | 8.3 | 20.7 |
-| Mean difference from | -- | 11.9 | 12.6 | -- | 11.1 | -- | 12.4 |
+| Mean difference from placebo† | -- | 11.9 | 12.6 | -- | 11.1 | -- | 12.4 |
 |  | Placeb o | Mirabegro n 50 mg | Tolterodin e ER 4 mg | Placeb o | Mirabegro n 50 mg | Placeb o | Mirabegro n 50 mg |
-| placebo† |  |  |  |  |  |  |  |
 | 95% Confidenc e Interval | -- | (6.3, 17.4) | (7.1, 18.2) | -- | (4.4, 17.9) | -- | (6.3, 18.6) |
 | p-value | -- | <0.001# | <0.001* | -- | 0.001# | -- | <0.001# |
 | Mean level of urgency (FAS) (Secondary) |  |  |  |  |  |  |  |
@@ -163,8 +162,8 @@ Table 2: Co-primary and Selected Secondary Efficacy Endpoints at End of Treatmen
 | Mean change from baseline† | -1.65 | -2.25 | -2.07 | -0.82 | -1.57 | -1.35 | -1.94 |
 | Mean difference from placebo† | -- | -0.60 | -0.42 | -- | -0.75 | -- | -0.59 |
 | 95% Confidenc e Interval | -- | (-1.02, -0.18) | (-0.84, -0.00) | -- | (-1.20, -0.30) | -- | (-1.01, -0.16) |
-|  | Placeb o | Mirabegro n 50 mg | Tolterodin e ER 4 mg | Placeb o | Mirabegro n 50 mg | Placeb o | Mirabegro n 50 mg |
 | p-value | -- | 0.005* | 0.050* | -- | 0.001* | -- | 0.007‡ |
+|  | Placeb o | Mirabegro n 50 mg | Tolterodin e ER 4 mg | Placeb o | Mirabegro n 50 mg | Placeb o | Mirabegro n 50 mg |
 | Treatment satisfaction – visual analogue scale (FAS) (Secondary) |  |  |  |  |  |  |  |
 | n | 428 | 414 | 425 | 390 | 387 | 377 | 388 |
 | Mean baseline | 4.11 | 3.95 | 3.87 | 5.5 | 5.4 | 5.13 | 5.13 |
@@ -229,64 +228,3 @@ FAS-I: Subset of FAS who also had at least 1 incontinence episode in the baselin
 Paediatric population
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with Betmiga in one or more subsets of the paediatric population in “Treatment of idiopathic overactive bladder” and “Treatment of neurogenic detrusor overactivity” (see section 4.2 for information on paediatric use).
-
-[Betmiga 50 mg prolonged-release tablets]
-
-In a phase 1 study assessing the effect of mirabegron on IOP using Goldmann applanation tonometry in 310 healthy subjects, a dose of Betmiga 100 mg was non-inferior to placebo for the primary endpoint of the treatment difference in mean change from baseline to day 56 in subject-average IOP; the upper bound of the two-sided 95% CI of the treatment difference between mirabegron 100 mg and placebo was 0.3 mm Hg.
-
-| Paramete r | Study 046 |  |  | Study 047 |  | Study 074 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Placeb o | Mirabegro n 50 mg | Tolterodin e ER 4 mg | Placeb o | Mirabegro n 50 mg | Placeb o | Mirabegro n 50 mg |
-| Mean number of incontinence episodes per 24 hours (FAS-I) (Co-primary) |  |  |  |  |  |  |  |
-| n | 291 | 293 | 300 | 325 | 312 | 262 | 257 |
-| Mean baseline | 2.67 | 2.83 | 2.63 | 3.03 | 2.77 | 2.43 | 2.51 |
-| Mean change from baseline† | -1.17 | -1.57 | -1.27 | -1.13 | -1.47 | -0.96 | -1.38 |
-| Mean difference from placebo† | -- | -0.41 | -0.10 | -- | -0.34 | -- | -0.42 |
-| 95% Confidenc e Interval | -- | (-0.72, -0.09) | (-0.42, 0.21) | -- | (-0.66, -0.03) | -- | (-0.76, -0.08) |
-| p-value | -- | 0.003# | 0.11 | -- | 0.026# | -- | 0.001# |
-| Mean number of micturitions per 24 hours (FAS) (Co-primary) |  |  |  |  |  |  |  |
-| n | 480 | 473 | 475 | 433 | 425 | 415 | 426 |
-| Mean baseline | 11.71 | 11.65 | 11.55 | 11.51 | 11.80 | 11.48 | 11.66 |
-| Mean change from baseline† | -1.34 | -1.93 | -1.59 | -1.05 | -1.66 | -1.18 | -1.60 |
-| Mean difference from placebo† | -- | -0.60 | -0.25 | -- | -0.61 | -- | -0.42 |
-| 95% Confidenc e Interval | -- | (-0.90, -0.29) | (-0.55, 0.06) | -- | (-0.98, -0.24) | -- | (-0.76, -0.08) |
-| p-value | -- | <0.001# | 0.11 | -- | 0.001# | -- | 0.015# |
-| Mean volume voided (mL) per micturition (FAS) (Secondary) |  |  |  |  |  |  |  |
-| n | 480 | 472 | 475 | 433 | 424 | 415 | 426 |
-| Mean baseline | 156.7 | 161.1 | 158.6 | 157.5 | 156.3 | 164.0 | 159.3 |
-| Mean change from baseline† | 12.3 | 24.2 | 25.0 | 7.0 | 18.2 | 8.3 | 20.7 |
-| Mean difference | -- | 11.9 | 12.6 | -- | 11.1 | -- | 12.4 |
-|  | Placeb o | Mirabegro n 50 mg | Tolterodin e ER 4 mg | Placeb o | Mirabegro n 50 mg | Placeb o | Mirabegro n 50 mg |
-| from placebo† |  |  |  |  |  |  |  |
-| 95% Confidenc e Interval | -- | (6.3, 17.4) | (7.1, 18.2) | -- | (4.4, 17.9) | -- | (6.3, 18.6) |
-| p-value | -- | <0.001# | <0.001* | -- | 0.001# | -- | <0.001# |
-| Mean level of urgency (FAS) (Secondary) |  |  |  |  |  |  |  |
-| n | 480 | 472 | 473 | 432 | 425 | 413 | 426 |
-| Mean baseline | 2.37 | 2.40 | 2.41 | 2.45 | 2.45 | 2.36 | 2.41 |
-| Mean change from baseline† | -0.22 | -0.31 | -0.29 | -0.08 | -0.19 | -0.15 | -0.29 |
-| Mean difference from placebo† | -- | -0.09 | -0.07 | -- | -0.11 | -- | -0.14 |
-| 95% Confidenc e Interval | -- | (-0.17, -0.02) | (-0.15, 0.01) | -- | (-0.18, -0.04) | -- | (-0.22, -0.06) |
-| p-value | -- | 0.018* | 0.085 | -- | 0.004* | -- | <0.001‡ |
-| Mean number of urgency incontinence episodes per 24 hours (FAS-I) (Secondary) |  |  |  |  |  |  |  |
-| n | 283 | 286 | 289 | 319 | 297 | 256 | 251 |
-| Mean baseline | 2.43 | 2.52 | 2.37 | 2.56 | 2.42 | 2.24 | 2.33 |
-| Mean change from baseline† | -1.11 | -1.46 | -1.18 | -0.89 | -1.32 | -0.95 | -1.33 |
-| Mean difference from placebo† | -- | -0.35 | -0.07 | -- | -0.43 | -- | -0.39 |
-| 95% Confidenc e Interval | -- | (-0.65, -0.05) | (-0.38, 0.23) | -- | (-0.72, -0.15) | -- | (-0.69, -0.08) |
-| p-value | -- | 0.003* | 0.26 | -- | 0.005* | -- | 0.002‡ |
-| Mean number of episodes with urgency grades 3 or 4 per 24 hours (FAS) (Secondary) |  |  |  |  |  |  |  |
-| n | 479 | 470 | 472 | 432 | 424 | 413 | 426 |
-| Mean baseline | 5.78 | 5.72 | 5.79 | 5.61 | 5.90 | 5.42 | 5.80 |
-| Mean change from baseline† | -1.65 | -2.25 | -2.07 | -0.82 | -1.57 | -1.35 | -1.94 |
-| Mean difference from placebo† | -- | -0.60 | -0.42 | -- | -0.75 | -- | -0.59 |
-| 95% Confidenc | -- | (-1.02, -0.18) | (-0.84, -0.00) | -- | (-1.20, -0.30) | -- | (-1.01, -0.16) |
-|  | Placeb o | Mirabegro n 50 mg | Tolterodin e ER 4 mg | Placeb o | Mirabegro n 50 mg | Placeb o | Mirabegro n 50 mg |
-| e Interval |  |  |  |  |  |  |  |
-| p-value | -- | 0.005* | 0.050* | -- | 0.001* | -- | 0.007‡ |
-| Treatment satisfaction – visual analogue scale (FAS) (Secondary) |  |  |  |  |  |  |  |
-| n | 428 | 414 | 425 | 390 | 387 | 377 | 388 |
-| Mean baseline | 4.11 | 3.95 | 3.87 | 5.5 | 5.4 | 5.13 | 5.13 |
-| Mean change from baseline† | 1.89 | 2.55 | 2.44 | 0.7 | 1.5 | 1.05 | 1.88 |
-| Mean difference from placebo† | -- | 0.66 | 0.55 | -- | 0.8 | -- | 0.83 |
-| 95% Confidenc e Interval | -- | (0.25, 1.07) | (0.14, 0.95) | -- | (0.4, 1.3) | -- | (0.41, 1.25) |
-| p-value | -- | 0.001* | 0.008* | -- | <0.001* | -- | <0.001* |
