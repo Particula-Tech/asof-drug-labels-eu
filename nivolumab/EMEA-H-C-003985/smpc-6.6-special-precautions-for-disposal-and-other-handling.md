@@ -29,7 +29,8 @@ STEP 1
 
 - Inspect the OPDIVO concentrate for particulate matter or discoloration.
   Do not shake the vial.
-  OPDIVO concentrate is a clear to opalescent, colourless to pale yellow liquid that may contain few light particles.
+  OPDIVO concentrate is a clear to opalescent, colourless to pale yellow liquid.
+  Discard the vial if the solution is cloudy, is discoloured, or contains particulate matter other than a few translucent-to-white particles.
 - Withdraw the required volume of OPDIVO concentrate using an appropriate sterile syringe.
 
 STEP 2
@@ -50,7 +51,6 @@ Use an infusion set and an in-line, sterile, non-pyrogenic, low protein binding 
 OPDIVO infusion is compatible with PVC and polyolefin containers, glass bottles, PVC infusion sets and in-line filters with polyethersulfone membranes with pore sizes of 0.2 µm to 1.2 µm.
 
 After administration of the nivolumab dose, flush the line with sodium chloride 9 mg/mL (0.9%) solution for injection or 50 mg/mL (5%) glucose solution for injection.
-
 Disposal
 Do not store any unused portion of the infusion solution for reuse.
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

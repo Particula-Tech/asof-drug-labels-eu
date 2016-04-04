@@ -7,5 +7,4 @@ There was a dose-dependent increase in foetal losses and increased neonatal mort
 The remaining offspring of nivolumab-treated females survived to scheduled termination, with no treatment-related clinical signs, alterations to normal development, organ-weight effects, or gross and microscopic pathology changes.
 Results for growth indices, as well as teratogenic, neurobehavioral, immunological, and clinical pathology parameters throughout the 6-month postnatal period were comparable to the control group.
 However, based on its mechanism of action, foetal exposure to nivolumab may increase the risk of developing immune-related disorders or altering the normal immune response and immune-related disorders have been reported in PD-1 knockout mice.
-
 Fertility studies have not been performed with nivolumab.

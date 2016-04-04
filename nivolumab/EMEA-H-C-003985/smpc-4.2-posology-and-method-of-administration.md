@@ -1,10 +1,10 @@
 # 4.2 Posology and method of administration
 
 Treatment must be initiated and supervised by physicians experienced in the treatment of cancer.
-
 Posology
 The recommended dose of OPDIVO is 3 mg/kg administered intravenously over 60 minutes every 2 weeks.
 Treatment should be continued as long as clinical benefit is observed or until treatment is no longer tolerated by the patient.
+
 Dose escalation or reduction is not recommended.
 Dosing delay or discontinuation may be required based on individual safety and tolerability.
 Guidelines for permanent discontinuation or withholding of doses are described in Table 1.
@@ -22,19 +22,14 @@ Table 1: Recommended treatment modifications for OPDIVO
 |  | Grade 3 or 4 elevation in AST, ALT, or total bilirubin | Permanently discontinue OPDIVO |
 | Immune-related nephritis and renal dysfunction | Grade 2 or 3 creatinine elevation | Withhold OPDIVO until creatinine returns to baseline and management with corticosteroids is complete |
 |  | Grade 4 creatinine elevation | Permanently discontinue OPDIVO |
-| Immune-related endocrinopathies | Symptomatic endocrinopathies (including hypothyroidism, hyperthyroidism, hypophysitis, adrenal insufficiency and diabetes) | Withhold OPDIVO until symptoms resolve and management with corticosteroids (if needed for symptoms of acute inflammation) is complete. OPDIVO should be continued in the presence of hormone replacement therapya as long as no symptoms are present |
-
-Grade 3 rash Withhold dose until symptoms resolve
-
-and management with corticosteroids is Immune-related rash complete
-
-Grade 4 rash Permanently discontinue OPDIVO
+| Immune-related endocrinopathies | Symptomatic Grade 2 or 3 hypothyroidism, hyperthyroidism, hypophysitis Grade 2 adrenal insufficiency Grade 3 diabetes | Withhold OPDIVO until symptoms resolve and management with corticosteroids (if needed for symptoms of acute inflammation) is complete. OPDIVO should be continued in the presence of hormone replacement therapya as long as no symptoms are present |
+| Immune-related rash | Grade 4 hypothyroidism Grade 4 hyperthyroidism Grade 4 hypophysitis Grade 3 or 4 adrenal insufficiency Grade 4 diabetes Grade 3 rash | Permanently discontinue OPDIVO Withhold dose until symptoms resolve and management with corticosteroids is complete |
+|  | Grade 4 rash | Permanently discontinue OPDIVO |
 
 Note: Toxicity grades are in accordance with National Cancer Institute Common Terminology Criteria for Adverse Events Version 4.0 (NCI-CTCAE v4).
 a Recommendation for the use of hormone replacement therapy is provided in section 4.4.
 
 Patients treated with OPDIVO must be given the patient alert card and be informed about the risks of OPDIVO (see also package leaflet).
-
 OPDIVO should also be permanently discontinued for Grade 2 or 3 immune-related adverse reactions that persist despite treatment modifications (see section 4.4) or for inability to reduce corticosteroid dose to 10 mg prednisone or equivalent per day.
 
 Special populations
@@ -42,6 +37,7 @@ Special populations
 Paediatric population
 The safety and efficacy of OPDIVO in children below 18 years of age have not been established.
 No data are available.
+
 Elderly
 No dose adjustment is required for elderly patients (≥ 65 years) (see sections 5.1 and 5.2).
 
@@ -56,6 +52,9 @@ Hepatic impairment
 Based on the population PK results, no dose adjustment is required in patients with mild hepatic impairment (see section 5.2).
 Data from patients with moderate or severe hepatic impairment are too limited to draw conclusions on these populations.
 OPDIVO must be administered with caution in patients with moderate (total bilirubin > 1.5 × to 3 × the upper limit of normal [ULN] and any AST) or severe (total bilirubin > 3 × ULN and any AST) hepatic impairment.
+
+Non-small cell lung cancer
+Patients with Eastern Cooperative Oncology Group (ECOG) performance status score ≥ 2 were excluded from the clinical trials of NSCLC (see sections 4.4 and 5.1).
 
 Method of administration
 

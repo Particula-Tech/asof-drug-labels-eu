@@ -6,4 +6,8 @@ OPDIVO as monotherapy is indicated for the treatment of advanced (unresectable o
 
 Non-Small Cell Lung Cancer (NSCLC)
 
-OPDIVO is indicated for the treatment of locally advanced or metastatic squamous non-small cell lung cancer (NSCLC) after prior chemotherapy in adults.
+OPDIVO is indicated for the treatment of locally advanced or metastatic non-small cell lung cancer (NSCLC) after prior chemotherapy in adults.
+
+Renal Cell Carcinoma (RCC)
+
+OPDIVO as monotherapy is indicated for the treatment of advanced renal cell carcinoma after prior therapy in adults.
