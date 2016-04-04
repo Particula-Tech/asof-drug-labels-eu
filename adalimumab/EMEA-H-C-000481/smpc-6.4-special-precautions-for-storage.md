@@ -25,3 +25,7 @@ The pen must be protected from light, and discarded if not used within the 14-da
 [Humira 40 mg solution for injection in pre-filled syringe (SmPC 5)]
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
+
+[Humira 40 mg solution for injection in pre-filled pen (SmPC 6)]
+
+(all sentences already above)

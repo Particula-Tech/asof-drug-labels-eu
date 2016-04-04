@@ -8,6 +8,7 @@ Humira 40 mg solution for injection in single-use vial (type I glass), fitted wi
 [Humira 40 mg solution for injection in pre-filled syringe]
 
 Humira 40 mg solution for injection in single-use pre-filled syringe (type I glass) with a plunger stopper (bromobutyl rubber) and a needle with a needle shield (thermoplastic elastomer).
+
 Packs of:
 
 - 1 pre-filled syringe (0.8 ml sterile solution) with 1 alcohol pad in a blister.
@@ -28,10 +29,10 @@ The syringe is made from type 1 glass with a plunger stopper (bromobutyl rubber)
 Humira 40 mg solution for injection in single-use pre-filled pen for patient use containing a pre-filled syringe.
 The syringe inside the pen is made from type 1 glass with a plunger stopper (bromobutyl rubber) and a needle with a needle shield (thermoplastic elastomer).
 
-- 1 pre-filled pen with 1 alcohol pad in a blister.
-- 2 pre-filled pen, each with 1 alcohol pad, in a blister.
-- 4 pre-filled pen, each with 1 alcohol pad, in a blister.
-- 6 pre-filled pen, each with 1 alcohol pad, in a blister.
+- 1 pre-filled pen (0.8 ml sterile solution), with 2 alcohol pads in a blister.
+- 2 pre-filled pen (0.8 ml sterile solution), each with 1 alcohol pad, in a blister.
+- 4 pre-filled pen (0.8 ml sterile solution), each with 1 alcohol pad, in a blister.
+- 6 pre-filled pen (0.8 ml sterile solution), each with 1 alcohol pad, in a blister.
 
 [Humira 40 mg solution for injection in pre-filled syringe (SmPC 5)]
 
@@ -39,3 +40,10 @@ The syringe inside the pen is made from type 1 glass with a plunger stopper (bro
 - 2 pre-filled syringes (0.4 ml sterile solution), each with 1 alcohol pad, in a blister.
 - 4 pre-filled syringes (0.4 ml sterile solution), each with 1 alcohol pad, in a blister.
 - 6 pre-filled syringes (0.4 ml sterile solution), each with 1 alcohol pad, in a blister.
+
+[Humira 40 mg solution for injection in pre-filled pen (SmPC 6)]
+
+- 1 pre-filled pen (0.4 ml sterile solution), with 2 alcohol pads in a blister.
+- 2 pre-filled pen (0.4 ml sterile solution), each with 1 alcohol pad, in a blister.
+- 4 pre-filled pen (0.4 ml sterile solution), each with 1 alcohol pad, in a blister.
+- 6 pre-filled pen (0.4 ml sterile solution), each with 1 alcohol pad, in a blister.

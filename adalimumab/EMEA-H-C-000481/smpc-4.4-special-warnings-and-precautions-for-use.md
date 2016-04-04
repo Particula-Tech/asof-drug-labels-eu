@@ -15,6 +15,7 @@ In patients who have been exposed to tuberculosis and patients who have travelle
 Patients who develop a new infection while undergoing treatment with Humira, should be monitored closely and undergo a complete diagnostic evaluation.
 Administration of Humira should be discontinued if a patient develops a new serious infection or sepsis, and appropriate antimicrobial or antifungal therapy should be initiated until the infection is controlled.
 Physicians should exercise caution when considering the use of Humira in patients with a history of recurring infection or with underlying conditions which may predispose patients to infections, including the use of concomitant immunosuppressive medications.
+
 Serious infections
 
 Serious infections, including sepsis, due to bacterial, mycobacterial, invasive fungal, parasitic, viral, or other opportunistic infections such as listeriosis, legionellosis and pneumocystis have been reported in patients receiving Humira.
@@ -47,11 +48,11 @@ Despite prophylactic treatment for tuberculosis, cases of reactivated tuberculos
 Some patients who have been successfully treated for active tuberculosis have redeveloped tuberculosis while being treated with Humira.
 
 Patients should be instructed to seek medical advice if signs/symptoms suggestive of a tuberculosis infection (e.g., persistent cough, wasting/weight loss, low grade fever, listlessness) occur during or after therapy with Humira.
-
 Other opportunistic infections
 
 Opportunistic infections, including invasive fungal infections have been observed in patients receiving Humira.
 These infections have not consistently been recognised in patients taking TNF-antagonists and this resulted in delays in appropriate treatment, sometimes resulting in fatal outcomes.
+
 For patients who develop the signs and symptoms such as fever, malaise, weight loss, sweats, cough, dyspnea, and/or pulmonary infiltrates or other serious systemic illness with or without concomitant shock an invasive fungal infection should be suspected and administration of Humira should be promptly discontinued.
 Diagnosis and administration of empiric antifungal therapy in these patients should be made in consultation with a physician with expertise in the care of patients with invasive fungal infections.
 
@@ -89,6 +90,7 @@ However, the occurrence was rare.
 In the post marketing setting, cases of leukemia have been reported in patients treated with a TNF-antagonist.
 There is an increased background risk for lymphoma and leukemia in rheumatoid arthritis patients with long-standing, highly active, inflammatory disease, which complicates the risk estimation.
 With the current knowledge, a possible risk for the development of lymphomas, leukemia, and other malignancies in patients treated with a TNF-antagonist cannot be excluded.
+
 Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-antagonists (initiation of therapy ≤ 18 years of age), including adalimumab in the post marketing setting.
 Approximately half the cases were lymphomas.
 The other cases represented a variety of different malignancies and included rare malignancies usually associated with immunosuppression.
@@ -120,11 +122,11 @@ Rare reports of pancytopaenia including aplastic anaemia have been reported with
 Adverse events of the haematologic system, including medically significant cytopoenia (e.g. thrombocytopaenia, leucopaenia) have been reported with Humira.
 All patients should be advised to seek immediate medical attention if they develop signs and symptoms suggestive of blood dyscrasias (e.g. persistent fever, bruising, bleeding, pallor) while on Humira.
 Discontinuation of Humira therapy should be considered in patients with confirmed significant haematologic abnormalities.
-
 Vaccinations
 
 Similar antibody responses to the standard 23-valent pneumococcal vaccine and the influenza trivalent virus vaccination were observed in a study in 226 adult subjects with rheumatoid arthritis who were treated with adalimumab or placebo.
 No data are available on the secondary transmission of infection by live vaccines in patients receiving Humira.
+
 It is recommended that paediatric patients, if possible, be brought up to date with all immunisations in agreement with current immunisation guidelines prior to initiating Humira therapy.
 
 Patients on Humira may receive concurrent vaccinations, except for live vaccines.
@@ -160,17 +162,17 @@ There is limited safety experience of surgical procedures in patients treated wi
 The long half-life of adalimumab should be taken into consideration if a surgical procedure is planned.
 A patient who requires surgery while on Humira should be closely monitored for infections, and appropriate actions should be taken.
 There is limited safety experience in patients undergoing arthroplasty while receiving Humira.
-
 Small bowel obstruction
 
 Failure to respond to treatment for Crohn’s disease may indicate the presence of fixed fibrotic stricture that may require surgical treatment.
 Available data suggest that Humira does not worsen or cause strictures.
 
-Elderly patients
+Elderly
 
 The frequency of serious infections among Humira treated subjects over 65 years of age (3.6%) was higher than for those under 65 years of age (1.4%).
 Some of those had a fatal outcome.
 Particular attention regarding the risk for infection should be paid when treating the elderly.
+
 Paediatric population
 
 See Vaccinations above.
@@ -197,10 +199,12 @@ These infections have not consistently been recognised in patient taking TNF-ant
 
 For patients who develop the signs and symptoms such as fever, malaise, weight loss, sweats, cough, dyspnea, and/or pulmonary infiltrates or other serious systemic illness with or without concomitant shock an invasive fungal infection should be suspected and administration of Humira should be promptly discontinued, Diagnosis and administration of empiric antifungal therapy in these patients should be made in consultation with a physician with expertise in the care of patients with invasive fungal infections.
 
-In an exploratory clinical trial evaluating the use of another TNF-antagonists , infliximab, in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies, mostly in the lung or head and neck, were reported in infliximab-treated patients compared with control patients.
-
 Rare reports of pancytopaenia including aplastic anaemia have been reported with TNF antagonists.
 
 [Humira 40 mg solution for injection in pre-filled syringe (SmPC 5)]
 
 There is an increased background risk for lymphoma and leukemia in rheumatoid arthritis patients with long-standing highly active, inflammatory disease, which complicates the risk estimation.
+
+[Humira 40 mg solution for injection in pre-filled pen (SmPC 6)]
+
+(all sentences already above)

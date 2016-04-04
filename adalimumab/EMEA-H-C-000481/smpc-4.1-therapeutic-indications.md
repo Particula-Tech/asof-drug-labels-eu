@@ -50,7 +50,7 @@ Humira has been shown to reduce the rate of progression of peripheral joint dama
 
 Psoriasis
 
-Humira is indicated for the treatment of moderate to severe chronic plaque psoriasis in adult patients who failed to respond to or who have a contraindication to, or are intolerant to other systemic therapy including cyclosporine, methotrexate or PUVA.
+Humira is indicated for the treatment of moderate to severe chronic plaque psoriasis in adult patients who are candidates for systemic therapy.
 
 Hidradenitis suppurativa (HS)
 
@@ -73,5 +73,9 @@ Humira is indicated for treatment of moderately to severely active ulcerative co
 (all sentences already above)
 
 [Humira 40 mg solution for injection in pre-filled syringe (SmPC 5)]
+
+(all sentences already above)
+
+[Humira 40 mg solution for injection in pre-filled pen (SmPC 6)]
 
 (all sentences already above)

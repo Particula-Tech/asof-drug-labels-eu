@@ -43,6 +43,7 @@ Humira has not been studied in patients with hepatic or renal impairment.
 [Humira 40 mg solution for injection in pre-filled syringe]
 
 Following the administration of 24 mg/m2 (up to a maximum of 40 mg) subcutaneously every other week to patients with polyarticular juvenile idiopathic arthritis (JIA) who were 4 to 17 years the mean trough steady-state (values measured from Week 20 to 48) serum adalimumab concentration was 5.6 ± 5.6 µg/mL (102% CV) for adalimumab without concomitant methotrexateand 10.9 ± 5.2 µg/mL (47.7% CV) with concomitant methotrexate.
+
 In patients with polyarticular JIA who were 2 to <4 years old or aged 4 and above weighing <15 kg dosed with adalimumab 24 mg/m2 , the mean trough steady-state serum adalimumab concentrations was 6.0 ± 6.1 µg/ml (101% CV) for adalimumab without concomitant methotrexate and 7.9 ± 5.6 µg/ml (71.2% CV) with concomitant methotrexate.
 
 In patients with hidradenitis suppurativa, a dose of 160 mg Humira on Week 0 followed by 80 mg on Week 2 achieved serum adalimumab trough concentrations of approximately 7 to 8 μg/mL at Week 2 and Week 4.
@@ -65,7 +66,7 @@ Following the administration of 24 mg/m2 (up to a maximum of 40 mg) subcutaneous
 
 [Humira 40 mg solution for injection in pre-filled pen]
 
-For patients who stayed on their ramdomised therapy, the mean (±SD) adalimumab trough concentrations at Week 52 were 9.5±5.6µg/mL for the Standard Dose group and 3.5±2.2 µg/mL for the Low Dose group.
+(all sentences already above)
 
 [Humira 40 mg solution for injection in pre-filled syringe (SmPC 5)]
 
@@ -76,3 +77,7 @@ The mean (±SD) serum adalimumab trough concentrations achieved at Week 4 were 1
 
 For patients who stayed on their randomised therapy, the mean (±SD) adalimumab trough concentrations at Week 52 were 9.5 ± 5.6 µg/ml for the Standard Dose group and 3.5 ± 2.2 µg/ml for the Low Dose group.
 For patients who dose escalated from eow to weekly regimen, the mean (±SD) serum concentrations of adalimumab at Week 52 were 15.3 ± 11.4 μg/ml (40/20 mg, weekly) and 6.7 ± 3.5 μg/ml (20/10 mg, weekly).
+
+[Humira 40 mg solution for injection in pre-filled pen (SmPC 6)]
+
+(all sentences already above)

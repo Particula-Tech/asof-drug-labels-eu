@@ -18,3 +18,7 @@ Vertigo and visual impairment may occur following administration of Humira see (
 [Humira 40 mg solution for injection in pre-filled syringe (SmPC 5)]
 
 (all sentences already above)
+
+[Humira 40 mg solution for injection in pre-filled pen (SmPC 6)]
+
+(all sentences already above)
