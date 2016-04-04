@@ -11,6 +11,7 @@ Revolade is not recommended during pregnancy.
 Women of childbearing potential / Contraception in males and females
 
 Revolade is not recommended in women of childbearing potential not using contraception.
+
 Breast-feeding
 
 It is not known whether eltrombopag/metabolites are excreted in human milk.

@@ -1,9 +1,9 @@
 # 4.9 Overdose
 
 In the event of overdose, platelet counts may increase excessively and result in thrombotic/thromboembolic complications.
-In case of an overdose, consider oral administration of a metal cation-containing preparation, such as calcium, aluminium, or magnesium preparations to chelate eltrombopag and thus limit absorption.
-Closely monitor platelet counts.
-Reinitiate treatment with eltrombopag in accordance with dosing and administration recommendations (see section 4.2).
+In case of an overdose, consideration should be given to oral administration of a metal cation-containing preparation, such as calcium, aluminium, or magnesium preparations to chelate eltrombopag and thus limit absorption.
+Platelet counts should be closely monitored.
+Treatment with eltrombopag should be reinitiated in accordance with dosing and administration recommendations (see section 4.2).
 
 In the clinical studies there was one report of overdose where the subject ingested 5000 mg of eltrombopag.
 Reported adverse reactions included mild rash, transient bradycardia, ALT and AST elevation, and fatigue.
