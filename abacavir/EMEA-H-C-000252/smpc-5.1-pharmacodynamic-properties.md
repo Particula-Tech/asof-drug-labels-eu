@@ -8,8 +8,8 @@ Abacavir is a NRTI.
 It is a potent selective inhibitor of HIV-1 and HIV-2.
 Abacavir is metabolised intracellularly to the active moiety, carbovir 5’- triphosphate (TP).
 In vitro studies have demonstrated that its mechanism of action in relation to HIV is inhibition of the HIV reverse transcriptase enzyme, an event which results in chain termination and interruption of the viral replication cycle.
-Abacavir shows synergy in vitro in combination with nevirapine and zidovudine.
-It has been shown to be additive in combination with didanosine, lamivudine and stavudine.
+The antiviral activity of abacavir in cell culture was not antagonized when combined with the nucleoside reverse transcriptase inhibitors (NRTIs) didanosine, emtricitabine, lamivudine, stavudine, tenofovir or zidovudine, the non-nucleoside reverse transcriptase inhibitor (NNRTI) nevirapine, or the protease inhibitor (PI) amprenavir.
+
 Resistance
 
 In vitro resistance
@@ -18,7 +18,6 @@ Abacavir-resistant isolates of HIV-1 have been selected in vitro and are associa
 Viral resistance to abacavir develops relatively slowly in vitro, requiring multiple mutations for a clinically relevant increase in EC50 over wild-type virus.
 
 In vivo resistance (Therapy naïve patients)
-
 Isolates from most patients experiencing virological failure with a regimen containing abacavir in pivotal clinical trials showed either no NRTI-related changes from baseline (45%) or only M184V or M184I selection (45%).
 The overall selection frequency for M184V or M184I was high (54%), and less common was the selection of L74V (5%), K65R (1%) and Y115F (1%).
 The inclusion of zidovudine in the regimen has been found to reduce the frequency of L74V and K65R selection in the presence of abacavir (with zidovudine: 0/40, without zidovudine: 15/192, 8%).
@@ -113,7 +112,6 @@ In adults moderately exposed to antiretroviral therapy the addition of abacavir 
 
 In heavily NRTI pretreated patients the efficacy of abacavir is very low.
 The degree of benefit as part of a new combination regimen will depend on the nature and duration of prior therapy which may have selected for HIV-1 variants with cross-resistance to abacavir.
-
 Once daily (600 mg) administration:
 
 - Therapy naïve adults
@@ -137,7 +135,9 @@ Proportions with HIV-1 RNA < 50 copies/mL (50% versus 47%) and < 400 copies/mL (
 However, as there were only moderately experienced patients included in this study with an imbalance in baseline viral load between the arms, these results should be interpreted with caution.
 
 In study ESS30008, 260 patients with virologic suppression on a first line therapy regimen containing abacavir 300 mg plus lamivudine 150 mg, both given twice daily and a PI or NNRTI, were randomised to continue this regimen or switch to abacavir/lamivudine FDC plus a PI or NNRTI for 48 weeks.
-Results indicate that the FDC group was associated with a similar virologic outcome (non-inferior) compared to the abacavir plus lamivudine group, based on proportions of subjects with HIV-1 RNA < 50 copies/mL (90% and 85% respectively, 95% CI -2.7, 13.5).
+
+Results indicate that the FDC group was associated with a similar virologic outcome (non-inferior) compared to the abacavir plus lamivudine group, based on proportions of subjects with HIV-1 RNA
+< 50 copies/mL (90% and 85% respectively, 95% CI -2.7, 13.5).
 
 Additional information:
 
@@ -153,6 +153,7 @@ A randomised comparison of a regimen including once daily vs twice daily dosing 
 After 36 weeks on a regimen including twice daily abacavir and lamivudine, 669 eligible subjects were randomised to either continue twice daily dosing or switch to once daily abacavir and lamivudine for at least 96 weeks.
 Of note, from this study clinical data were not available for children under one year old.
 The results are summarised in the table below:
+
 Virological Response Based on Plasma HIV-1 RNA less than 80 copies/mL at Week 48 and Week 96 in the Once Daily versus Twice Daily abacavir + lamivudine randomisation of ARROW (Observed Analysis)
 
 |  | Twice Daily N (%) | Once Daily N (%) |
@@ -167,13 +168,31 @@ Virological Response Based on Plasma HIV-1 RNA less than 80 copies/mL at Week 48
 | Plasma HIV-1 RNA <80 c/mL | 234/326 (72) | 230/331 (69) |
 | Risk difference (once daily-twice daily) | -2.3% (95% CI -9.3% to +4.7%), p=0.52 |  |
 
-In a pharmacokinetic study (PENTA 15), four virologically controlled subjects less than 12 months of age switched from abacavir plus lamivudine oral solution twice daily to a once daily regimen.
-Three subjects had undetectable viral load and one had plasmatic HIV-RNA of 900 copies/mL at Week 48.
-No safety concerns were observed in these subjects.
-
 The abacavir + lamivudine once daily dosing group was demonstrated to be non-inferior to the twice daily group according to the pre-specified non-inferiority margin of -12%, for the primary endpoint of <80 c/mL at Week 48 as well as at Week 96 (secondary endpoint) and all other thresholds tested (<200c/mL, <400c/mL, <1000c/mL), which all fell well within this non-inferiority margin.
 Subgroup analyses testing for heterogeneity of once vs twice daily demonstrated no significant effect of sex, age, or viral load at randomisation.
 Conclusions supported non-inferiority regardless of analysis method.
 
 In a separate study comparing the unblinded NRTI combinations (with or without blinded nelfinavir) in children, a greater proportion treated with abacavir and lamivudine (71%) or abacavir and zidovudine (60%) had HIV-1 RNA ≤400 copies/mL at 48 weeks, compared with those treated with lamivudine and zidovudine (47%)[ p=0.09, intention to treat analysis].
 Similarly, greater proportions of children treated with the abacavir containing combinations had HIV-1 RNA ≤50 copies/mL at 48 weeks (53%, 42% and 28% respectively, p=0.07).
+
+In a pharmacokinetic study (PENTA 15), four virologically controlled subjects less than 12 months of age switched from abacavir plus lamivudine oral solution twice daily to a once daily regimen.
+Three subjects had undetectable viral load and one had plasmatic HIV-RNA of 900 copies/mL at Week 48.
+No safety concerns were observed in these subjects.
+
+[Ziagen 20 mg/mL oral solution]
+
+Results indicate that the FDC group was associated with a similar virologic outcome (non-inferior) compared to the abacavir plus lamivudine group, based on proportions of subjects with HIV-1 RNA < 50 copies/mL (90% and 85% respectively, 95% CI -2.7, 13.5).
+
+Twice Daily Once Daily
+N (%) N (%)
+
+| Week 0 (After ≥36 Weeks on Treatment) |  |  |
+| --- | --- | --- |
+| Plasma HIV-1 RNA <80 c/mL | 250/331 (76) | 237/335 (71) |
+| Risk difference (once daily-twice daily) | -4.8% (95% CI -11.5% to +1.9%), p=0.16 |  |
+| Week 48 |  |  |
+| Plasma HIV-1 RNA <80 c/mL | 242/331 (73) | 236/330 (72) |
+| Risk difference (once daily-twice daily) | -1.6% (95% CI -8.4% to +5.2%), p=0.65 |  |
+| Week 96 |  |  |
+| Plasma HIV-1 RNA <80 c/mL | 234/326 (72) | 230/331 (69) |
+| Risk difference (once daily-twice daily) | -2.3% (95% CI -9.3% to +4.7%), p=0.52 |  |

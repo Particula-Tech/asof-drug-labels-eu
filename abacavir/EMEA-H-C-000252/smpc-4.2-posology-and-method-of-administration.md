@@ -29,18 +29,21 @@ Children less than three months of age: The clinical experience in children aged
 Patients changing from the twice daily dosing regimen to the once daily dosing regimen should take the recommended once daily dose (as described above) approximately 12 hours after the last twice daily dose, and then continue to take the recommended once daily dose (as described above) approximately every 24 hours.
 When changing back to a twice daily regimen, patients should take the recommended twice daily dose approximately 24 hours after the last once daily dose.
 
-Special populations:
+Special populations
 
-Renal impairment: no dosage adjustment of Ziagen is necessary in patients with renal dysfunction.
+Renal impairment
+No dosage adjustment of Ziagen is necessary in patients with renal dysfunction.
 However, Ziagen is not recommended for patients with end-stage renal disease (see section 5.2).
 
-Hepatic impairment: abacavir is primarily metabolised by the liver.
+Hepatic impairment
+Abacavir is primarily metabolised by the liver.
 No dose recommendation can be made in patients with mild hepatic impairment.
 In patients with moderate hepatic impairment, no data are available, therefore the use of abacavir is not recommended unless judged necessary.
 If abacavir is used in patients with mild or moderate hepatic impairment, then close monitoring is required, and if feasible, monitoring of abacavir plasma levels is recommended (see section 5.2).
 Abacavir is contraindicated in patients with severe hepatic impairment (see section 4.3 and 4.4).
 
-Elderly: no pharmacokinetic data are currently available in patients over 65 years of age.
+Elderly
+No pharmacokinetic data are currently available in patients over 65 years of age.
 
 [Ziagen 20 mg/mL oral solution]
 

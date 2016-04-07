@@ -5,7 +5,6 @@ Microcrystalline cellulose
 Sodium starch glycollate
 Magnesium stearate
 Colloidal anhydrous silica
-
 Tablet Coating
 Triacetin
 Methylhydroxypropylcellulose

@@ -1,6 +1,6 @@
 # 6.5 Nature and contents of container
 
-Polyvinyl chloride/foil blister packs containing 60 tablets.
+Child-resistant foil blister packs (polyvinyl chloride/aluminium/paper) containing 60 tablets.
 
 [Ziagen 20 mg/mL oral solution]
 
