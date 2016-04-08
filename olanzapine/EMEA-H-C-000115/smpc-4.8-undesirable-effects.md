@@ -12,54 +12,24 @@ The frequency terms listed are defined as follows: Very common (≥ 1/10), commo
 | Very common | Common | Uncommon | Rare | Not known |
 | --- | --- | --- | --- | --- |
 | Blood and the lymphatic system disorders |  |  |  |  |
+|  | Eosinophilia Leukopenia10 Neutropenia10 |  | Thrombocytopenia11 |  |
+| Immune system disorders |  |  |  |  |
+|  |  | Hypersensitivity11 |  |  |
+| Metabolism and nutrition disorders |  |  |  |  |
+| Weight gain1 | Elevated cholesterol levels2,3 Elevated glucose levels4 Elevated triglyceride levels2,5 Glucosuria Increased appetite | Development or exacerbation of diabetes occasionally associated with ketoacidosis or coma, including some fatal cases (see section 4.4) 11 | Hypothermia12 |  |
+| Nervous system disorders |  |  |  |  |
+| Somnolence | Dizziness Akathisia6 Parkinsonism6 Dyskinesia6 | Seizures where in most cases a history of seizures or risk factors for seizures were reported 11 Dystonia (including oculogyration) 11 Tardive dyskinesia11 Amnesia 9 Dysarthria | Neuroleptic malignant syndrome (see section 4.4)12 Discontinuation symptoms7, 12 |  |
+| Cardiac disorders |  |  |  |  |
+|  |  | Bradycardia QTc prolongation (see section 4.4) | Ventricular tachycardia/fibrillation, sudden death (see section 4.4)11 |  |
+| Vascular disorders |  |  |  |  |
+| Orthostatic hypotension10 |  | Thromboembolism (including pulmonary embolism and deep vein thrombosis) (see section 4.4) |  |  |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |
+|  |  | Epistaxis9 |  |  |
+| Gastrointestinal disorders |  |  |  |  |
+|  | Mild, transient anticholinergic effects including constipation and dry mouth | Abdominal distension9 | Pancreatitis11 |  |
+| Hepatobiliary disorders |  |  |  |  |
+|  | Transient, asymptomatic |  | Hepatitis (including hepatocellular, |  |
 
-Eosinophilia Thrombocytopenia11
-Leukopenia10
-Neutropenia10
-Immune system disorders
-Hypersensitivity11
-Metabolism and nutrition disorders
-Weight Elevated cholesterol Development or Hypothermia12
-gain1 levels2,3 exacerbation of
-Elevated glucose diabetes occasionally
-levels4 associated with
-Elevated triglyceride ketoacidosis or coma,
-levels2,5 including some fatal
-Glucosuria cases (see section
-Increased appetite 4.4) 11
-Nervous system disorders
-Somnolence Dizziness Seizures where in Neuroleptic malignant
-Akathisia6 most cases a history syndrome (see section
-Parkinsonism6 of seizures or risk 4.4)12 Discontinuation
-Dyskinesia6 factors for seizures symptoms7, 12
-were reported 11
-Dystonia (including
-oculogyration) 11
-Tardive dyskinesia11
-Amnesia 9
-Dysarthria
-Cardiac disorders
-Bradycardia Ventricular
-QTc prolongation (see tachycardia/fibrillation,
-section 4.4) sudden death (see
-section 4.4)11
-Vascular disorders
-Orthostatic Thromboembolism
-hypotension10 (including pulmonary
-embolism and deep
-vein thrombosis) (see
-section 4.4)
-Respiratory, thoracic and mediastinal disorders
-Epistaxis9
-Gastrointestinal disorders
-Mild, transient Abdominal Pancreatitis11
-anticholinergic distension9
-effects including
-constipation and dry
-mouth
-Hepatobiliary disorders
-Transient, Hepatitis (including
-asymptomatic hepatocellular,
 elevations of hepatic cholestatic or mixed
 aminotransferases liver injury) 11
 (ALT, AST),
@@ -112,9 +82,9 @@ Patients gaining ≥ 7 %, ≥ 15 % and ≥ 25 % of their baseline body weight wi
 3 Observed for fasting normal levels at baseline (< 5.17 mmol/l) which increased to high
 (≥ 6.2 mmol/l).
 Changes in total fasting cholesterol levels from borderline at baseline (≥ 5.17 - < 6.2 mmol/l) to high (≥ 6.2 mmol/l) were very common.
-
 4 Observed for fasting normal levels at baseline (< 5.56 mmol/l) which increased to high (≥ 7 mmol/l).
 Changes in fasting glucose from borderline at baseline (≥ 5.56 - < 7 mmol/l) to high (≥ 7 mmol/l) were very common.
+
 5 Observed for fasting normal levels at baseline (< 1.69 mmol/l) which increased to high
 (≥ 2.26 mmol/l).
 Changes in fasting triglycerides from borderline at baseline (≥ 1.69 mmol/l -
@@ -154,6 +124,7 @@ Olanzapine administered with lithium or valproate resulted in increased levels
 Speech disorder was also reported commonly.
 During treatment with olanzapine in combination with lithium or divalproex, an increase of ≥ 7% from baseline body weight occurred in 17.4% of patients during acute treatment (up to 6 weeks).
 Long-term olanzapine treatment (up to 12 months) for recurrence prevention in patients with bipolar disorder was associated with an increase of ≥7% from baseline body weight in 39.9% of patients.
+
 Paediatric population
 Olanzapine is not indicated for the treatment of children and adolescent patients below 18 years.
 Although no clinical studies designed to compare adolescents to adults have been conducted, data from the adolescent trials were compared to those of the adult trials.
@@ -198,21 +169,51 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [ZYPREXA 5 mg coated tablets]
 
-| Very common | Common | Uncommon | Rare | Not known |
-| --- | --- | --- | --- | --- |
-| Blood and the lymphatic system disorders |  |  |  |  |
-|  | Eosinophilia |  | Thrombocytopenia11 |  |
-
+Very common Common Uncommon Rare Not known
+Blood and the lymphatic system disorders
+Eosinophilia Thrombocytopenia11
+Leukopenia10
+Neutropenia10
+Immune system disorders
+Hypersensitivity11
 Weight gain1 Elevated Development or Hypothermia12
 cholesterol levels2,3 exacerbation of
+Elevated glucose diabetes occasionally
+levels4 associated with
 Elevated ketoacidosis or coma,
 triglyceride levels2,5 including some fatal
+Glucosuria cases (see section
+Increased appetite 4.4) 11
+Somnolence Dizziness Seizures where in Neuroleptic malignant
+Akathisia6 most cases a history syndrome (see section
 Parkinsonism6 of seizures or risk 4.4) 12
 Dyskinesia6 factors for seizures Discontinuation
 were reported 11 symptoms7,12
+Dystonia (including
 oculogyration)11
+Tardive dyskinesia11
+Amnesia 9
+Dysarthria
+Cardiac disorders
+Bradycardia Ventricular
+QTc prolongation (see tachycardia/fibrillation,
+section 4.4) sudden death (see
+section 4.4)11
+Vascular disorders
+Orthostatic Thromboembolism
+hypotension10 (including pulmonary
+embolism and deep
+vein thrombosis) (see
+section 4.4)
+Respiratory, thoracic and mediastinal disorders
+Epistaxis9
+Mild, transient Abdominal Pancreatitis11
+anticholinergic distension9
+effects including
 constipation and
 dry mouth
+Transient, Hepatitis (including
+asymptomatic hepatocellular,
 elevations of cholestatic or mixed
 hepatic liver injury)11
 aminotransferases
@@ -231,6 +232,8 @@ With long-term exposure (at least 24 weeks), 89.4 % gained ≥ 7 %, 55.3 % gaine
 
 [ZYPREXA 7.5 mg coated tablets]
 
+Very common Common Uncommon Rare Not
+known
 Parkinsonism6 of seizures or risk 4.4)12
 were reported 11 symptoms7, 12
 (see
@@ -240,9 +243,6 @@ section
 
 [ZYPREXA 10 mg coated tablets.]
 
-Very common Common Uncommon Rare Not
-known
-Blood and the lymphatic system disorders
 were reported11 symptoms7, 12
 
 [ZYPREXA 15 mg coated tablets]

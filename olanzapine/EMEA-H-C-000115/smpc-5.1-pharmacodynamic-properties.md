@@ -14,7 +14,6 @@ Unlike some other antipsychotic agents, olanzapine increases responding in an â€
 
 In a single oral dose (10 mg) Positron Emission Tomography (PET) study in healthy volunteers, olanzapine produced a higher 5 HT2A than dopamine D2 receptor occupancy.
 In addition, a Single Photon Emission Computed Tomography (SPECT) imaging study in schizophrenic patients revealed that olanzapine-responsive patients had lower striatal D2 occupancy than some other antipsychotic-and risperidone-responsive patients, while being comparable to clozapine-responsive patients.
-
 Clinical efficacy
 In two of two placebo and two of three comparator controlled trials with over 2,900 schizophrenic patients presenting with both positive and negative symptoms, olanzapine was associated with statistically significantly greater improvements in negative as well as positive symptoms.
 

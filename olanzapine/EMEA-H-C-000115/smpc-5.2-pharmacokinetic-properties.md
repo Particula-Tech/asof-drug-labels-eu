@@ -8,7 +8,6 @@ Absolute oral bioavailability relative to intravenous administration has not bee
 Distribution
 The plasma protein binding of olanzapine was about 93 % over the concentration range of about 7 to about 1000 ng/ml.
 Olanzapine is bound predominantly to albumin and α1-acid-glycoprotein.
-
 Biotransformation
 Olanzapine is metabolized in the liver by conjugative and oxidative pathways.
 The major circulating metabolite is the 10-N-glucuronide, which does not pass the blood brain barrier.

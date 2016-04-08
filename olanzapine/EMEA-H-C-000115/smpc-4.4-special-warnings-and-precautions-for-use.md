@@ -15,6 +15,7 @@ There was a 3-fold increase in CVAE in patients treated with olanzapine compared
 All olanzapine- and placebo-treated patients who experienced a cerebrovascular event had pre-existing risk factors.
 Age > 75 years and vascular/mixed type dementia were identified as risk factors for CVAE in association with olanzapine treatment.
 The efficacy of olanzapine was not established in these trials.
+
 Parkinson's disease
 The use of olanzapine in the treatment of dopamine agonist associated psychosis in patients with Parkinson's disease is not recommended.
 In clinical trials, worsening of Parkinsonian symptomatology and hallucinations were reported very commonly and more frequently than with placebo (see section 4.8), and olanzapine was not more effective than placebo in the treatment of psychotic symptoms.
@@ -86,6 +87,7 @@ Sudden cardiac death
 In postmarketing reports with olanzapine, the event of sudden cardiac death has been reported in patients with olanzapine.
 In a retrospective observational cohort study, the risk of presumed sudden cardiac death in patients treated with olanzapine was approximately twice the risk in patients not using antipsychotics.
 In the study, the risk of olanzapine was comparable to the risk of atypical antipsychotics included in a pooled analysis.
+
 Paediatric population
 Olanzapine is not indicated for use in the treatment of children and adolescents.
 Studies in patients aged 13-17 years showed various adverse reactions, including weight gain, changes in metabolic parameters and increases in prolactin levels (see sections 4.8 and 5.1).

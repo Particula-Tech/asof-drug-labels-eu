@@ -13,8 +13,8 @@ During treatment for schizophrenia, manic episode and recurrence prevention in b
 An increase to a dose greater than the recommended starting dose is advised only after appropriate clinical reassessment and should generally occur at intervals of not less than 24 hours.
 Olanzapine can be given without regards for meals as absorption is not affected by food.
 Gradual tapering of the dose should be considered when discontinuing olanzapine.
-
 Special populations
+
 Elderly patients
 A lower starting dose (5 mg/day) is not routinely indicated but should be considered for those 65 and over when clinical factors warrant (see section 4.4).
 
@@ -54,7 +54,7 @@ A greater magnitude of weight gain, lipid and prolactin alterations has been rep
 
 [ZYPREXA 20 mg coated tablets]
 
-#Special populations
+(all sentences already above)
 
 [ZYPREXA 10 mg powder for solution for injection]
 
