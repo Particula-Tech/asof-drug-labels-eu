@@ -7,8 +7,8 @@ Do not freeze.
 Keep the cap on the pen in order to protect from light.
 
 After first opening or carried as a spare:
-Do not refrigerate.
 Do not store above 30°C.
+Can be stored in a refrigerator (2°C – 8°C).
 Keep the cap on the pen in order to protect from light.
 
 For storage conditions after first opening of the medicinal product, see section 6.3.
@@ -19,4 +19,5 @@ For storage conditions after first opening of the medicinal product, see section
 
 [Tresiba 100 units/mL solution for injection in cartridge]
 
+Do not refrigerate.
 Keep cartridges in the outer carton in order to protect from light.
