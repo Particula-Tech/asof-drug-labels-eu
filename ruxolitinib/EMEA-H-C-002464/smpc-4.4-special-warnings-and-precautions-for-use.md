@@ -42,7 +42,7 @@ Patients should be monitored for any of these new or worsening symptoms or signs
 If PML is suspected, further dosing must be suspended until PML has been excluded.
 
 Non-melanoma skin cancer
-Non-melanoma skin cancers (NMSCs) have been reported in patients treated with ruxolitinib.
+Non-melanoma skin cancers (NMSCs), including basal cell, squamous cell, and Merkel cell carcinoma, have been reported in patients treated with ruxolitinib.
 Most of these patients had histories of extended treatment with hydroxyurea and prior NMSC or pre-malignant skin lesions.
 A causal relationship to ruxolitinib has not been established.
 Periodic skin examination is recommended for patients who are at increased risk for skin cancer.

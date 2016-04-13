@@ -96,9 +96,9 @@ The study met its primary objective and a higher proportion of patients in the J
 Significantly more patients treated with Jakavi (20.9%) achieved a primary response (p<0.0001) compared to BAT (0.9%).
 Haematocrit control was achieved in 60% of patients in the Jakavi arm compared to 19.6% in the BAT arm and a ≥35% reduction in spleen volume was achieved in 38.2% of patients in the Jakavi arm compared to 0.9% in the BAT arm (Figure 1).
 94 (83.9%) patients randomised to the BAT arm crossed over to ruxolitinib treatment at Week 32 or after, limiting the comparison between the two arms after Week 32.
+
 Both key secondary endpoints were also met.
 The proportion of patients achieving a complete haematological remission was 23.6% on Jakavi compared to 8.9% on BAT (p=0.0028) and the proportion of patients achieving a durable primary response at week 48 was 19.1% on Jakavi and 0.9% on BAT.(p<0.0001).
-
 Figure 1 Patients achieving the primary endpoint and components of the primary endpoint at week 32
 
 P-value: < .0001 Individual components of Primary
@@ -127,8 +127,7 @@ and 95% CI: 60 .RUX
 
 0
 Primary Composite ≥ 35% reduction in Hematocrit control
-
-Endpoint at Week 32 Splee Volume without phlebotomy
+Endpoint at Week 32 Spleen Volume without phlebotomy
 
 Symptom burden was assessed using the MPN-SAF total symptom score (TSS) electronic patient diary, which consisted of 14 questions.
 At week 32, 49% and 64% of patients treated with ruxolitinib achieved a ≥50% reduction in TSS-14 and TSS-5, respectively, compared to only 5% and 11% of patients on BAT.
