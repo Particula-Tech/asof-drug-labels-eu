@@ -40,6 +40,9 @@ In influenza-positive older people , oseltamivir significantly reduced the incid
 
 In influenza-positive patients with chronic cardiac and/or respiratory disease, the combined incidence of lower respiratory tract complications (mainly bronchitis) treated with antibiotics was 17 % (22/133) in the placebo group and 14 % (16/118) in the oseltamivir treated population (p = 0.5976).
 
+Treatment of influenza in pregnant women: No controlled clinical studies have been conducted on the use of oseltamivir in pregnant women, however, there is evidence from post-marketing and retrospective observational studies showing benefit of the current dosing regimen in this patient population in terms of lower morbidity/mortality.
+Results from pharmacokinetic analyses indicate a lower exposure to the active metabolite, however dose adjustments are not recommended for pregnant women in the treatment or prophylaxis of influenza (see section 5.2, Pharmacokinetics, Special Population).
+
 Treatment of influenza in children: In a study of otherwise healthy children (65 % influenza-positive) aged 1 to 12 years (mean age 5.3 years) who had fever (≥ 37.8 °C) plus either cough or coryza, 67 % of influenza-positive patients were infected with influenza A and 33 % with influenza B. Oseltamivir treatment, started within 48 hours of onset of symptoms, significantly reduced the time to freedom from illness (defined as the simultaneous return to normal health and activity and alleviation of fever, cough and coryza) by 1.5 days (95 % CI 0.6 – 2.2 days; p < 0.0001) compared to placebo.
 Oseltamivir reduced the incidence of acute otitis media from 26.5 % (53/200) in the placebo group to 16 % (29/183) in the oseltamivir treated children (p = 0.013).
 
@@ -103,7 +106,6 @@ All patients who were found to carry oseltamivir-resistant virus did so transien
 
 There has been no evidence for emergence of drug resistance associated with the use of Tamiflu in clinical studies conducted to date in post-exposure (7 days), post-exposure within household groups (10 days) and seasonal (42 days) prevention of influenza in immunocompetent patients.
 There was no resistance observed during a 12-week prophylaxis study in immunocompromised patients.
-
 Clinical and surveillance data: Natural mutations associated with reduced susceptibility to oseltamivir in vitro have been detected in influenza A and B viruses isolated from patients without exposure to oseltamivir.
 Resistant strains selected during oseltamivir treatment have been isolated from both immunocompetent and immunocompromised patients.
 Immunocompromised patients and young children are at a higher risk of developing oseltamivir-resistant virus during treatment.

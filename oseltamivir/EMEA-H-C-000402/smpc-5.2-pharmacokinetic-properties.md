@@ -38,6 +38,7 @@ The available data indicates that the exposure following a 3 mg/kg dose in infan
 
 There are no data available for infants below 1 year of age for post exposure prevention of influenza.
 Prevention during an influenza epidemic in the community has not been studied in children below 12 years of age.
+
 Infants and children 1 year of age or older: The pharmacokinetics of oseltamivir have been evaluated in single-dose pharmacokinetic studies in infants, children and adolescents 1 to 16 years of age.
 Multiple-dose pharmacokinetics were studied in a small number of children enrolled in a clinical efficacy study.
 Younger children cleared both the pro-drug and its active metabolite faster than adults, resulting in a lower exposure for a given mg/kg dose.
@@ -55,6 +56,12 @@ For dosing, see section 4.2.
 
 Hepatic impairment
 In vitro studies have concluded that exposure to oseltamivir is not expected to be increased significantly nor is exposure to the active metabolite expected to be significantly decreased in patients with hepatic impairment (see section 4.2).
+
+Pregnant Women
+A pooled population pharmacokinetic analysis indicates that the Tamiflu dosage regimen described in Section 4.2 Posology and method of administration results in lower exposure (30% on average across all trimesters) to the active metabolite in pregnant women compared to non-pregnant women.
+The lower predicted exposure however, remains above inhibitoy concentrations (IC95 values) and at a therapeutic level for a range of influenza virus strains.
+In addition, there is evidence from observational studies showing benefit of the current dosing regimen in this patient population.
+Therefore, dose adjustments are not recommended for pregnant women in the treatment or prophylaxis of influenza (see section 4.6 Fertility, pregnancy and lactation).
 
 [Tamiflu 45 mg hard capsules]
 

@@ -26,7 +26,6 @@ The pharmacist may compound a 6 mg/ml suspension from Tamiflu 30 mg, 45 mg or 75
 First, calculate the total volume needed to be compounded and dispensed to provide a 5-day course of treatment or a 10-day course of prophylaxis for the patient.
 The total volume required is determined by the weight of the patient according to the recommendation in the table below.
 To allow for accurate volume withdrawal of up to 10 doses (2 withdrawals per daily treatment dose for 5 days), the column indicating measurement loss is to be considered for compounding.
-
 Volume of pharmacy compounded 6 mg/ml suspension prepared based upon the patient’s weight
 
 | Body weight (kg) | Total volume to compound per patient weight (ml) Measurement loss not considered | Total volume to compound per patient weight (ml) Measurement loss considered |
@@ -38,6 +37,7 @@ Volume of pharmacy compounded 6 mg/ml suspension prepared based upon the patient
 
 * Depending on the capsule strength used.
 Second, determine the number of capsules and the amount of vehicle (water containing 0.05 % w/v sodium benzoate added as a preservative) that is needed to prepare the total volume (calculated from the table above) of pharmacy compounded 6 mg/ml suspension as shown in the table below:
+
 Number of capsules and amount of vehicle needed to prepare the total volume of a pharmacy compounded 6 mg/ml suspension
 
 | Total volume of compounded suspension to be prepared | Required number of Tamiflu capsules (mg of oseltamivir) |  |  | Required volume of vehicle |
@@ -76,6 +76,7 @@ Place an appropriate expiration date label according to storage condition (see s
 
 Place a pharmacy label on the bottle that includes the patient’s name, dosing instructions, use by date, name of medicinal product and any other required information to be in compliance with local pharmacy regulations.
 Refer to the table below for the proper dosing instructions.
+
 Dosing chart for pharmacy-compounded 6 mg/ml suspension prepared from Tamiflu capsules for infants and children 1 year of age or older
 
 | Body weight (kg) | Dose (mg) | Volume per dose 6 mg/ml | Treatment dose (for 5 days) | Prophylaxis dose (for 10 days) |
@@ -204,6 +205,7 @@ Add all 55 ml of water into the bottle, recap the bottle and shake the closed bo
 Remove the cap and push the bottle adapter into the neck of the bottle.
 Close the bottle tightly with the cap (on the top of the bottle adapter).
 This will make sure that the bottle adapter fits in the bottle in the right position.
+
 Tamiflu powder for suspension will appear as an opaque and white to light yellow suspension after reconstitution.
 
 [Tamiflu 12 mg/ml powder for oral suspension]

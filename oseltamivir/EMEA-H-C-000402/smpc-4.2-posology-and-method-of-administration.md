@@ -56,8 +56,8 @@ Post-exposure prevention: The recommended post-exposure prevention dose of Tamif
 | > 40 kg | 75 mg once daily |
 
 Prevention during an influenza epidemic in the community: Prevention during an influenza epidemic has not been studied in children below 12 years of age.
-Infants 0 – 12 months of age
 
+Infants 0 – 12 months of age
 Treatment: The recommended treatment dose for infants 0 - 12 months of age is 3 mg/kg twice daily.
 This is based upon pharmacokinetic and safety data indicating that this dose in infants 0 - 12 months provides plasma concentrations of the pro-drug and active metabolite that are anticipated to be clinically efficacious with a safety profile comparable to that seen in older children and adults (see section 5.2).
 The following dosing regimen is recommended for treatment of infants 0 - 12 months of age:
@@ -88,7 +88,6 @@ The following age-adjusted dosing prophylaxis regimen is recommended for infants
 | --- | --- |
 | 0 - 12 months | 3 mg/kg once daily |
 
-.
 This dosing recommendation is not intended for premature infants, i.e. those with a post-conceptual age less than 36 weeks.
 Insufficient data are available for these patients, in whom different dosing may be required due to the immaturity of physiological functions.
 

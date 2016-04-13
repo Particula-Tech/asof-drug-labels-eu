@@ -1,7 +1,7 @@
 # 4.6 Fertility, pregnancy and lactation
 
 Pregnancy
-While no controlled clinical studies have been conducted on the use of oseltamivir in pregnant women, there is limited data available from post-marketing and retrospective observational surveillance reports.
+While no controlled clinical studies have been conducted on the use of oseltamivir in pregnant women data on use in pregnancy has been collected from post-marketing and observational studies (please refer to section 5.1 “Treatment of influenza in pregnant women”; for data on exposure in pregnant women please refer to section 5.2.).
 These data in conjunction with animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryonal/foetal or postnatal development (see section 5.3).
 Pregnant women may receive Tamiflu, after considering the available safety information, the pathogenicity of the circulating influenza virus strain and the underlying condition of the pregnant woman.
 

@@ -1,7 +1,6 @@
 # 6.4 Special precautions for storage
 
 Do not store above 25 °C.
-
 For storage conditions of the pharmacy compounded suspension, see section 6.3.
 
 [Tamiflu 45 mg hard capsules]
