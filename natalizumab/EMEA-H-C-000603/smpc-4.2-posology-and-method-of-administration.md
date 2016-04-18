@@ -2,7 +2,7 @@
 
 TYSABRI therapy is to be initiated and continuously supervised by specialised physicians experienced in the diagnosis and treatment of neurological conditions, in centres with timely access to MRI.
 
-Patients treated with TYSABRI must be given the patient alert card and be informed about the risks of TYSABRI (see also package leaflet).
+Patients treated with TYSABRI must be given the patient alert card and be informed about the risks of the medicinal product (see also package leaflet).
 After 2 years of treatment, patients should be re-informed about the risks of TYSABRI, especially the increased risk of Progressive Multifocal Leukoencephalopathy (PML), and should be instructed together with their caregivers on early signs and symptoms of PML.
 
 Resources for the management of hypersensitivity reactions and access to MRI should be available.
@@ -16,19 +16,19 @@ Therefore the physician must confirm that such patients are not immunocompromise
 
 Posology
 
-Adults
-
 TYSABRI 300 mg is administered by intravenous infusion once every 4 weeks.
 
 Continued therapy must be carefully reconsidered in patients who show no evidence of therapeutic benefit beyond 6 months
 
 Data on the safety and efficacy of natalizumab at 2 years were generated from controlled, double–blind studies.
 After 2 years continued therapy should be considered only following a reassessment of the potential for benefit and risk.
-Patients should be re-informed about the risk factors for PML, like duration of treatment, immunosuppressant use prior to receiving TYSABRI and the presence of anti-JCV antibodies (see Section 4.4.).
+Patients should be re-informed about the risk factors for PML, like duration of treatment, immunosuppressant use prior to receiving TYSABRI and the presence of anti-John Cunningham virus (JCV) antibodies (see section 4.4.).
 
 Readministration
 
 The efficacy of re-administration has not been established, for safety see section 4.4.
+
+Special populations
 
 Elderly
 
@@ -39,13 +39,13 @@ Studies have not been conducted to examine the effects of renal or hepatic impai
 
 The mechanism for elimination and results from population pharmacokinetics suggest that dose adjustment would not be necessary in patients with renal or hepatic impairment.
 
-Paediatric Population
+Paediatric population
 
 TYSABRI is contraindicated in children and adolescents below the age of 18 years (see section 4.3).
 
-Method of Administration
+Method of administration
 
-Intravenous use.
+TYSABRI is for intravenous use.
 
 For instructions on dilution of the medicinal product before administration, see section 6.6.
 

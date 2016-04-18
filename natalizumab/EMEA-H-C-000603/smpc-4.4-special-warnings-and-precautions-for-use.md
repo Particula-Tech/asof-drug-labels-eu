@@ -4,6 +4,8 @@ Progressive Multifocal Leukoencephalopathy (PML)
 
 Use of TYSABRI has been associated with an increased risk of PML, an opportunistic infection caused by JC virus, which may be fatal or result in severe disability.
 Due to this increased risk of developing PML, the benefits and risks of TYSABRI treatment should be individually reconsidered by the specialist physician and the patient.
+JC virus also causes JCV granule cell neuronopathy (GCN) which has been reported in patients treated with TYSABRI.
+Symptoms of JCV GCN are similar to symptoms of PML (i.e. cerebellar syndrome).
 
 Patients should be instructed together with their caregivers on early signs and symptoms of PML.
 
@@ -11,7 +13,7 @@ The following risk factors are associated with an increased risk of PML.
 
 - The presence of anti-JCV antibodies.
 - Treatment duration, especially beyond 2 years.
-  There is limited experience in patients who have received more than 4 years of TYSABRI treatment therefore the risk of PML in these patients cannot currently be estimated.
+  There is limited experience in patients who have received more than 4 years of TYSABRI treatment, therefore the risk of PML in these patients cannot currently be estimated.
 - Immunosuppressant use prior to receiving TYSABRI.
 
 Anti-JCV antibody status identifies different levels of risk for PML in TYSABRI treated patients.
@@ -21,7 +23,7 @@ In patients with all three risk factors, treatment with TYSABRI should only be c
 For the quantification of PML risk in the different patient subgroups, please refer to the Physician Information and Management Guidelines.
 
 Anti-JCV antibody testing provides supportive information for risk stratification of TYSABRI treatment.
-Testing for serum anti-JCV antibody prior to initiating TYSABRI therapy or in patients receiving TYSABRI with an unknown antibody status is recommended.
+Testing for serum anti-JCV antibody prior to initiating TYSABRI therapy or in patients receiving the medicinal product with an unknown antibody status is recommended.
 Anti-JCV antibody negative patients may still be at risk of PML for reasons such as a new JCV infection, fluctuating antibody status or a false negative test result.
 Re-testing of anti-JCV antibody negative patients every 6 months is recommended.
 The anti-JCV antibody assay (ELISA) should not be used to diagnose PML.
@@ -31,36 +33,40 @@ Before initiation of treatment with TYSABRI, a recent (usually within 3 months) 
 Patients must be monitored at regular intervals throughout.
 After 2 years all patients should be re-informed about the risk of PML with TYSABRI.
 
-If PML is suspected, further dosing must be suspended until PML has been excluded.
+If PML or JCV GCN is suspected, further dosing must be suspended until PML has been excluded.
 
-The clinician should evaluate the patient to determine if the symptoms are indicative of neurological dysfunction, and if so, whether these symptoms are typical of MS or possibly suggestive of PML.
+The clinician should evaluate the patient to determine if the symptoms are indicative of neurological dysfunction, and if so, whether these symptoms are typical of MS or possibly suggestive of PML or JCV GCN.
 If any doubt exists, further evaluation, including MRI scan preferably with contrast (compared with pre-treatment MRI), CSF testing for JC Viral DNA and repeat neurological assessments, should be considered as described in the Physician Information and Management Guidelines (see educational guidance).
-Once the clinician has excluded PML (if necessary, by repeating clinical, imaging and/or laboratory investigations if clinical suspicion remains), dosing of natalizumab may resume.
+Once the clinician has excluded PML and/or JCV GCN (if necessary, by repeating clinical, imaging and/or laboratory investigations if clinical suspicion remains), dosing of natalizumab may resume.
 
-The physician should be particularly alert to symptoms suggestive of PML that the patient may not notice (e.g. cognitive or psychiatric symptoms).
+The physician should be particularly alert to symptoms suggestive of PML or JCV GCN that the patient may not notice (e.g. cognitive,psychiatric symptoms or cerebellar syndrome).
 Patients should also be advised to inform their partner or caregivers about their treatment, since they may notice symptoms that the patient is not aware of.
 
 PML has been reported following discontinuation of TYSABRI in patients who did not have findings suggestive of PML at the time of discontinuation.
-Patients and Physicians should continue to be alert for any new signs or symptoms that may be suggestive of PML for approximately six months following discontinuation of TYSABRI.
+Patients and physicians should continue to be alert for any new signs or symptoms that may be suggestive of PML for approximately six months following discontinuation of TYSABRI.
 
 If a patient develops PML the dosing of TYSABRI must be permanently discontinued.
 
 Following reconstitution of the immune system in immunocompromised patients with PML improved outcome has been seen.
-
 PML and IRIS (Immune Reconstitution Inflammatory Syndrome)
-IRIS occurs in almost all TYSABRI PML patients after withdrawal or removal of TYSABRI, e.g. by plasma exchange (see section 5.2).
+
+IRIS occurs in almost all TYSABRI PML patients after withdrawal or removal of the medicinal product, e.g. by plasma exchange (see section 5.2).
 IRIS is thought to result from the restoration of immune function in patients with PML, which can lead to serious neurological complications and may be fatal.
 Monitoring for development of IRIS, which has occurred within days to several weeks after plasma exchange in TYSABRI treated patients with PML, and appropriate treatment of the associated inflammation during recovery from PML should be undertaken (see the Physician Information and Management Guidelines for further information).
 
-Other Opportunistic Infections
+Infections including other opportunistic infections
 
-Other opportunistic infections have been reported with use of TYSABRI, primarily in patients with Crohn’s disease who were immunocompromised or where significant co-morbidity existed, however increased risk of other opportunistic infections with use of TYSABRI in patients without these co-morbidities cannot currently be excluded.
+Other opportunistic infections have been reported with use of TYSABRI, primarily in patients with Crohn’s disease who were immunocompromised or where significant co-morbidity existed, however increased risk of other opportunistic infections with use of the medicinal product in patients without these co-morbidities cannot currently be excluded.
 Opportunistic infections were also detected in MS patients treated with TYSABRI as a monotherapy (see section 4.8).
+
+TYSABRI increases the risk of developing encephalitis and meningitis caused by herpes simplex and varicella zoster viruses.
+Serious, life-threatening, and sometimes fatal cases have been reported in the postmarketing setting in multiple sclerosis patients receiving TYSABRI (see section 4.8).
+If herpes encephalitis or meningitis occurs, the medicinal product should be discontinued, and appropriate treatment for herpes encephalitis or meningitis should be administered.
 
 Prescribers should be aware of the possibility that other opportunistic infections may occur during TYSABRI therapy and should include them in the differential diagnosis of infections that occur in TYSABRI-treated patients.
 If an opportunistic infection is suspected, dosing with TYSABRI is to be suspended until such infections can be excluded through further evaluations.
 
-If a patient receiving TYSABRI develops an opportunistic infection, dosing of TYSABRI must be permanently discontinued.
+If a patient receiving TYSABRI develops an opportunistic infection, dosing of the medicinal product must be permanently discontinued.
 
 Educational guidance
 
@@ -80,7 +86,6 @@ However, the risk of hypersensitivity reactions should be considered for every i
 
 Patients are to be observed during the infusion and for 1 hour after the completion of the infusion (see section 4.8).
 Resources for the management of hypersensitivity reactions should be available.
-
 Discontinue administration of TYSABRI and initiate appropriate therapy at the first symptoms or signs of hypersensitivity.
 
 Patients who have experienced a hypersensitivity reaction must be permanently discontinued from treatment with TYSABRI.
@@ -89,7 +94,8 @@ Concurrent or prior treatment with immunosuppressants
 
 The safety and efficacy of TYSABRI in combination with other immunosuppressive and antineoplastic therapies have not been fully established.
 Concurrent use of these agents with TYSABRI may increase the risk of infections, including opportunistic infections, and is contraindicated (see section 4.3).
-Patients with a treatment history of immunosuppressant medications are at increased risk for PML.
+
+Patients with a treatment history of immunosuppressant medicinal products are at increased risk for PML.
 Care should be taken with patients who have previously received immunosuppressants to allow sufficient time for immune function recovery to occur.
 Physicians must evaluate each individual case to determine whether there is evidence of an immunocompromised state prior to commencing treatment with TYSABRI (see section 4.3).
 
@@ -99,11 +105,11 @@ Short courses of corticosteroids can be used in combination with TYSABRI.
 Immunogenicity
 
 Disease exacerbations or infusion related events may indicate the development of antibodies against natalizumab.
-In these cases the presence of antibodies should be evaluated and if these remain positive in a confirmatory test after 6 weeks, treatment should be discontinued, as persistent antibodies are associated with a substantial decrease in efficacy of TYSABRI and an increased incidence of hypersensitivity reactions (see section 4.8).
+In these cases the presence of antibodies should be evaluated and if these remain positive in a confirmatory test after at least 6 weeks, treatment should be discontinued, as persistent antibodies are associated with a substantial decrease in efficacy of TYSABRI and an increased incidence of hypersensitivity reactions (see section 4.8).
 
-Since patients who have received an initial short exposure to TYSABRI and then had an extended period without treatment are more at risk for hypersensitivity upon redosing, the presence of antibodies should be evaluated and if these remain positive in a confirmatory test after 6 weeks treatment should not be resumed.
+Since patients who have received an initial short exposure to TYSABRI and then had an extended period without treatment are at a higher risk of developing anti-natalizumab antibodies and/or hypersensitivity upon redosing, the presence of antibodies should be evaluated and if these remain positive in a confirmatory test after at least 6 weeks, the patient should not receive further treatment with TYSABRI.
 
-Hepatic Events
+Hepatic events
 
 Spontaneous serious adverse reactions of liver injury have been reported during the post marketing phase.
 These liver injuries may occur at any time during treatment, even after the first dose.

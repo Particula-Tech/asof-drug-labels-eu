@@ -1,9 +1,8 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Selective Immunosuppressive Agent, ATC code: L04AA23
+Pharmacotherapeutic group: Selective immunosuppressive agent, ATC code: L04AA23
 
 Pharmacodynamic effects
-
 Natalizumab is a selective adhesion-molecule inhibitor and binds to the α4-subunit of human integrins, which is highly expressed on the surface of all leukocytes, with the exception of neutrophils.
 Specifically, natalizumab binds to the α4β1 integrin, blocking the interaction with its cognate receptor, vascular cell adhesion molecule-1 (VCAM-1), and ligands osteopontin, and an alternatively spliced domain of fibronectin, connecting segment-1 (CS-1).
 Natalizumab blocks the interaction of α4β7 integrin with the mucosal addressin cell adhesion molecule-1 (MadCAM-1).
@@ -18,6 +17,7 @@ Under normal conditions, VCAM-1 is not expressed in the brain parenchyma.
 However, in the presence of pro-inflammatory cytokines, VCAM-1 is upregulated on endothelial cells and possibly on glial cells near the sites of inflammation.
 In the setting of central nervous system (CNS) inflammation in MS, it is the interaction of α4β1 with VCAM-1, CS-1 and osteopontin that mediates the firm adhesion and transmigration of leukocytes into the brain parenchyma and may perpetuate the inflammatory cascade in CNS tissue.
 Blockade of the molecular interactions of α4β1 with its targets reduces inflammatory activity present in the brain in MS and inhibits further recruitment of immune cells into inflamed tissue, thus reducing the formation or enlargement of MS lesions.
+
 Clinical efficacy
 
 Efficacy as monotherapy has been evaluated in one randomised, double-blind, placebo-controlled study lasting 2 years (AFFIRM study) in relapsing-remitting MS patients who had experienced at least 1 clinical relapse during the year prior to entry and had a Kurtzke Expanded Disability Status Scale (EDSS) score between 0 and 5.
@@ -68,7 +68,7 @@ Study features and results are presented in the table below.
 | 1 Progression of disability was defined as at least a 1.0 point increase on the EDSS from a baseline EDSS >=1.0 sustained for 12 or 24 weeks or at least a 1.5 point increase on the EDSS from a baseline EDSS =0 sustained for 12 or 24 weeks. |  |  |
 
 In the sub-group of patients indicated for treatment of rapidly evolving relapsing remitting MS (patients with 2 or more relapses and 1 or more Gd+ lesion), the annualised relapse rate was 0.282 in the TYSABRI treated group (n = 148) and 1.455 in the placebo group (n = 61) (p <0.001).
-Hazard ratio for disability progression was 0.36 (95% CI : 0.17, 0.76) p = 0.008.
+Hazard ratio for disability progression was 0.36 (95% CI: 0.17, 0.76) p = 0.008.
 These results were obtained from a post hoc analysis and should be interpreted cautiously.
 No information on the severity of the relapses before inclusion of patients in the study is available.
 
