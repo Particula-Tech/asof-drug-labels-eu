@@ -1,21 +1,15 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-The most frequent reactions reported during chronic treatment with the deferasirox dispersible tablet formulation in adult and paediatric patients include gastrointestinal disturbances in about 26% of patients (mainly nausea, vomiting, diarrhoea or abdominal pain) and skin rash in about 7% of patients.
+The most frequent reactions reported during chronic treatment with deferasirox dispersible tablets in adult and paediatric patients include gastrointestinal disturbances (mainly nausea, vomiting, diarrhoea or abdominal pain) and skin rash.
 Diarrhoea is reported more commonly in paediatric patients aged 2 to 5 years and in the elderly.
 These reactions are dose-dependent, mostly mild to moderate, generally transient and mostly resolve even if treatment is continued.
 
-During clinical trials of the deferasirox dispersible tablet formulation, increases in serum creatinine of >33% on two or more consecutive occasions, sometimes above the upper limit of the normal range, occurred in about 36% of patients.
-These were dose-dependent.
-About two-thirds of the patients showing serum creatinine increase returned below the 33% level without dose adjustment.
-In the remaining third the serum creatinine increase did not always respond to a dose reduction or a dose interruption.
-Indeed, in some cases, only a stabilisation of the serum creatinine values has been observed after dose reduction (see section 4.4).
-In a retrospective meta-analysis of 2,102 adult and paediatric beta-thalassaemia patients with transfusional iron overload (including patients with different characteristics such as transfusion intensity, posology and treatment duration) treated with the deferasirox dispersible tablet formulation in two randomised clinical trials and four open label studies of up to five years’ duration, a mean creatinine clearance decrease of 13.2% in adult patients (95% CI: -14.4% to -12.1%; n=935) and 9.9% (95% CI: -11.1% to -8.6%; n=1,142) in paediatric patients was observed during the first year of treatment.
-In a subset of patients followed for more than one year (n=250 up to five years), no further decrease in mean creatinine clearance levels was observed in subsequent years.
-
-In a 1-year, randomised, double-blind, placebo-controlled study of the deferasirox dispersible tablet formulation in patients with non-transfusion-dependent thalassaemia syndromes and iron overload, diarrhoea (9.1%), rash (9.1%), and nausea (7.3%) were the most frequent study drug-related adverse events reported by patients receiving 10 mg/kg/day of (deferasirox dispersible tablet formulation).
-Abnormal serum creatinine and creatinine clearance values were reported in 5.5% and 1.8%, respectively, of patients receiving 10 mg/kg/day of deferasirox.
-Elevations of liver transaminases greater than 2 times the baseline and 5 times the upper limit of normal were reported in 1.8% of patients treated with 10 mg/kg/day (deferasirox dispersible tablet formulation).
+During clinical studies, dose-dependent increases in serum creatinine occurred in about 36% of patients, though most remained within the normal range.
+Decreases in mean creatinine clearance have been observed in both paediatric and adult patients with beta-thalassemia and iron overload during the first year of treatment, but there is evidence that this does not decrease further in subsequent years of treatment.
+Elevations of liver transaminases have been reported.
+Safety monitoring schedules for renal and liver parameters are recommended.
+Auditory (decreased hearing) and ocular (lens opacities) disturbances are uncommon, and yearly examinations are also recommended (see section 4.4).
 
 Tabulated list of adverse reactions
 Adverse reactions are ranked below using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
@@ -109,6 +103,14 @@ The majority of these patients had renal impairment, renal tubulopathy (Fanconi�
 Serious acute pancreatitis may potentially occur as a complication of gallstones (and related biliary disorders).
 As with other iron chelator treatment, high-frequency hearing loss and lenticular opacities (early cataracts) have been uncommonly observed in patients treated with deferasirox (see section 4.4).
 
+Creatinine clearance in transfusional iron overload
+In a retrospective meta-analysis of 2,102 adult and paediatric beta-thalassaemia patients with transfusional iron overload treated with deferasirox dispersible tablets in two randomised and four open label studies of up to five years’ duration, a mean creatinine clearance decrease of 13.2% in adult patients (95% CI: -14.4% to -12.1%; n=935) and 9.9% (95% CI: -11.1% to -8.6%; n=1,142) in paediatric patients was observed during the first year of treatment.
+In 250 patients who were followed for up to five years, no further decrease in mean creatinine clearance levels was observed.
+
+Clinical study in patients with non-transfusion-dependent thalassaemia syndromes
+In a 1-year study in patients with non-transfusion-dependent thalassaemia syndromes and iron overload (dispersible tablets at a dose of 10 mg/kg/day), diarrhoea (9.1%), rash (9.1%), and nausea (7.3%) were the most frequent study drug-related adverse events.
+Abnormal serum creatinine and creatinine clearance values were reported in 5.5% and 1.8% of patients, respectively.
+Elevations of liver transaminases greater than 2 times the baseline and 5 times the upper limit of normal were reported in 1.8% of patients.
 Paediatric population
 Diarrhoea is reported more commonly in paediatric patients aged 2 to 5 years than in older patients.
 
@@ -121,4 +123,4 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [EXJADE 90 mg film-coated tablets]
 
-In a 1-year, randomised, double-blind, placebo-controlled study of the deferasirox dispersible tablet formulation in patients with non-transfusion-dependent thalassaemia syndromes and iron overload, diarrhoea (9.1%), rash (9.1%), and nausea (7.3%) were the most frequent study drug-related adverse events reported by patients receiving 10 mg/kg/day (deferasirox dispersible tablet formulation).
+During clinical studies dose-dependent increases in serum creatinine occurred in about 36% of patients, though most remained within the normal range.

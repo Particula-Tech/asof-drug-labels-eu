@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Iron chelating agent, ATC code: V03AC03
+Pharmacotherapeutic group: Iron chelating agents, ATC code: V03AC03
 
 Mechanism of action
 Deferasirox is an orally active chelator that is highly selective for iron (III).
@@ -17,7 +17,6 @@ Clinical efficacy studies were conducted with deferasirox dispersible tablets.
 Deferasirox has been investigated in 411 adult (age ≥16 years) and 292 paediatric patients (aged 2 to <16 years) with chronic iron overload due to blood transfusions.
 Of the paediatric patients 52 were aged 2 to 5 years.
 The underlying conditions requiring transfusion included beta-thalassaemia, sickle cell disease and other congenital and acquired anaemias (myelodysplastic syndromes, Diamond-Blackfan syndrome, aplastic anaemia and other very rare anaemias).
-
 Daily treatment with the deferasirox dispersible tablet formulation at doses of 20 and 30 mg/kg for one year in frequently transfused adult and paediatric patients with beta-thalassaemia led to reductions in indicators of total body iron; liver iron concentration was reduced by about -0.4 and -8.9 mg Fe/g liver (biopsy dry weight (dw)) on average, respectively, and serum ferritin was reduced by about -36 and -926 µg/l on average, respectively.
 At these same doses the ratios of iron excretion : iron intake were 1.02 (indicating net iron balance) and 1.67 (indicating net iron removal), respectively.
 Deferasirox induced similar responses in iron-overloaded patients with other anaemias.
@@ -31,8 +30,9 @@ It appeared from a post-hoc analysis of this study that, in the subgroup of pati
 However, in patients with liver iron concentration <7 mg Fe/g dw treated with deferasirox dispersible tablets (5 and 10 mg/kg) or deferoxamine (20 to 35 mg/kg), non-inferiority was not established due to imbalance in the dosing of the two chelators.
 This imbalance occurred because patients on deferoxamine were allowed to remain on their pre-study dose even if it was higher than the protocol specified dose.
 Fifty-six patients under the age of 6 years participated in this pivotal study, 28 of them receiving deferasirox dispersible tablets.
+
 It appeared from preclinical and clinical studies that deferasirox dispersible tablets could be as active as deferoxamine when used in a dose ratio of 2:1 (i.e. a dose of deferasirox dispersible tablets that is numerically half of the deferoxamine dose).
-However, this dosing recommendation was not prospectively assessed in the clinical trials.
+However, this dosing recommendation was not prospectively assessed in the clinical studies.
 
 In addition, in patients with liver iron concentration ≥7 mg Fe/g dw with various rare anaemias or sickle cell disease, deferasirox dispersible tablets up to 20 and 30 mg/kg produced a decrease in liver iron concentration and serum ferritin comparable to that obtained in patients with beta-thalassaemia.
 
