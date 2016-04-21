@@ -2,27 +2,7 @@
 
 Not applicable.
 
-[ABILIFY 10 mg tablets]
-
-(all sentences already above)
-
-[ABILIFY 15 mg tablets]
-
-(all sentences already above)
-
-[ABILIFY 30 mg tablets]
-
-(all sentences already above)
-
 [ABILIFY 10 mg orodispersible tablets]
-
-(all sentences already above)
-
-[ABILIFY 15 mg orodispersible tablets]
-
-(all sentences already above)
-
-[ABILIFY 30 mg orodispersible tablets]
 
 (all sentences already above)
 

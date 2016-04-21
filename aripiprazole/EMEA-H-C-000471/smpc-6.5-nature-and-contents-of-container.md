@@ -4,31 +4,9 @@ Aluminium perforated unit dose blisters in cartons of 14 x 1, 28 x 1, 49 x 1, 56
 
 Not all pack sizes may be marketed.
 
-[ABILIFY 10 mg tablets]
-
-(all sentences already above)
-
-[ABILIFY 15 mg tablets]
-
-(all sentences already above)
-
-[ABILIFY 30 mg tablets]
-
-(all sentences already above)
-
 [ABILIFY 10 mg orodispersible tablets]
 
-Carton of 14 x 1 tablets in cold-formed aluminium perforated unit dose blisters.
-Carton of 28 x 1 tablets in cold-formed aluminium perforated unit dose blisters.
-Carton of 49 x 1 tablets in cold-formed aluminium perforated unit dose blisters.
-
-[ABILIFY 15 mg orodispersible tablets]
-
-(all sentences already above)
-
-[ABILIFY 30 mg orodispersible tablets]
-
-(all sentences already above)
+Aluminium perforated unit dose blisters in cartons of 14 x 1, 28 x 1, 49 x 1 tablets.
 
 [ABILIFY 1 mg/ml oral solution]
 

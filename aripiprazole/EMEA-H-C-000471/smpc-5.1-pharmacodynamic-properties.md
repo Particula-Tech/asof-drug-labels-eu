@@ -17,34 +17,45 @@ Clinical efficacy and safety
 Schizophrenia
 In three short-term (4 to 6 weeks) placebo-controlled trials involving 1,228 schizophrenic adult patients, presenting with positive or negative symptoms, aripiprazole was associated with statistically significantly greater improvements in psychotic symptoms compared to placebo.
 
-ABILIFY is effective in maintaining the clinical improvement during continuation therapy in adult patients who have shown an initial treatment response.
+Aripiprazole is effective in maintaining the clinical improvement during continuation therapy in adult patients who have shown an initial treatment response.
 In a haloperidol-controlled trial, the proportion of responder patients maintaining response to medicinal product at 52-weeks was similar in both groups (aripiprazole 77 % and haloperidol 73 %).
 The overall completion rate was significantly higher for patients on aripiprazole (43 %) than for haloperidol (30 %).
 Actual scores in rating scales used as secondary endpoints, including PANSS and the Montgomery-Asberg Depression Rating Scale showed a significant improvement over haloperidol.
 
 In a 26-week, placebo-controlled trial in adult stabilised patients with chronic schizophrenia, aripiprazole had significantly greater reduction in relapse rate, 34 % in aripiprazole group and 57 % in placebo.
+Weight gain
+In clinical trials aripiprazole has not been shown to induce clinically relevant weight gain.
+In a 26-week, olanzapine-controlled, double-blind, multi-national study of schizophrenia which included 314 adult patients and where the primary end-point was weight gain, significantly less patients had at least 7 % weight gain over baseline (i.e. a gain of at least 5.6 kg for a mean baseline weight of
+~80.5 kg) on aripiprazole (n = 18, or 13 % of evaluable patients), compared to olanzapine (n = 45, or 33 % of evaluable patients).
 
-Weight gain: in clinical trials aripiprazole has not been shown to induce clinically relevant weight gain.
-In a 26-week, olanzapine-controlled, double-blind, multi-national study of schizophrenia which included 314 adult patients and where the primary end-point was weight gain, significantly less patients had at least 7 % weight gain over baseline (i.e. a gain of at least 5.6 kg for a mean baseline weight of ~80.5 kg) on aripiprazole (n = 18, or 13 % of evaluable patients), compared to olanzapine (n = 45, or 33 % of evaluable patients).
-
-Lipid parameters: in a pooled analysis on lipid parameters from placebo controlled clinical trials in adults, aripiprazole has not been shown to induce clinically relevant alterations in levels of total cholesterol, triglycerides, HDL and LDL.
+Lipid parameters
+In a pooled analysis on lipid parameters from placebo controlled clinical trials in adults, aripiprazole has not been shown to induce clinically relevant alterations in levels of total cholesterol, triglycerides, HDL and LDL.
 -Total cholesterol: incidence of changes in levels from normal (<5.18 mmol/l) to high (≥ 6.22 mmol/l) was 2.5 % for aripiprazole and 2.8 % for placebo and mean change from baseline was -0.15 mmol/l (95 % CI: -0.182, -0.115) for aripiprazole and -0.11 mmol/l (95 % CI: -0.148, -0.066) for placebo. -Fasting triglycerides: incidence of changes in levels from normal (<1.69 mmol/l) to high (≥
 2.26 mmol/l) was 7.4 % for aripiprazole and 7.0 % for placebo and mean change from baseline was - 0.11 mmol/l (95 % CI: -0.182, -0.046) for aripiprazole and -0.07 mmol/l (95 % CI: -0.148, 0.007) for placebo.
 -HDL: incidence of changes in levels from normal (≥ 1.04 mmol/l) to low (<1.04 mmol/l) was 11.4 % for aripiprazole and 12.5 % for placebo and mean change from baseline was -0.03 mmol/l
 (95 % CI: -0.046, -0.017) for aripiprazole and -0.04 mmol/l (95 % CI: -0.056, -0.022) for placebo. -Fasting LDL: incidence of changes in levels from normal (<2.59 mmol/l) to high (≥ 4.14 mmol/l) was 0.6 % for aripiprazole and 0.7 % for placebo and mean change from baseline was -0.09 mmol/l
 (95 % CI: -0.139, -0.047) for aripiprazole and -0.06 mmol/l (95 % CI: -0.116, -0.012) for placebo.
 
+Prolactin
+Prolactin levels were evaluated in all trials of all doses of aripiprazole (n = 28,242).
+The incidence of hyperprolactinaemia or increased serum prolactin in patients treated with aripiprazole (0.3 %) was similar to that of placebo (0.2 %).
+For patients receiving aripiprazole, the median time to onset was 42 days and median duration was 34 days.
+
+The incidence of hypoprolactinaemia or decreased serum prolactin in patients treated with aripiprazole was 0.4 %, compared with 0.02 % for patients treated with placebo.
+For patients receiving aripiprazole, the median time to onset was 30 days and median duration was 194 days.
+
 Manic episodes in Bipolar I Disorder
 In two 3-week, flexible-dose, placebo-controlled monotherapy trials involving patients with a manic or mixed episode of Bipolar I Disorder, aripiprazole demonstrated superior efficacy to placebo in reduction of manic symptoms over 3 weeks.
 These trials included patients with or without psychotic features and with or without a rapid-cycling course.
+
 In one 3-week, fixed-dose, placebo-controlled monotherapy trial involving patients with a manic or mixed episode of Bipolar I Disorder, aripiprazole failed to demonstrate superior efficacy to placebo.
 
 In two 12-week, placebo- and active-controlled monotherapy trials in patients with a manic or mixed episode of Bipolar I Disorder, with or without psychotic features, aripiprazole demonstrated superior efficacy to placebo at week 3 and a maintenance of effect comparable to lithium or haloperidol at week 12.
 Aripiprazole also demonstrated a comparable proportion of patients in symptomatic remission from mania as lithium or haloperidol at week 12.
 
 In a 6-week, placebo-controlled trial involving patients with a manic or mixed episode of Bipolar I Disorder, with or without psychotic features, who were partially non-responsive to lithium or valproate monotherapy for 2 weeks at therapeutic serum levels, the addition of aripiprazole as adjunctive therapy resulted in superior efficacy in reduction of manic symptoms than lithium or valproate monotherapy.
-
 In a 26-week, placebo-controlled trial, followed by a 74-week extension, in manic patients who achieved remission on aripiprazole during a stabilization phase prior to randomization, aripiprazole demonstrated superiority over placebo in preventing bipolar recurrence, primarily in preventing recurrence into mania but failed to demonstrate superiority over placebo in preventing recurrence into depression.
+
 In a 52-week, placebo-controlled trial, in patients with a current manic or mixed episode of Bipolar I Disorder who achieved sustained remission (Y-MRS and MADRS total scores ≤ 12) on aripiprazole (10 mg/day to 30 mg/day) adjunctive to lithium or valproate for 12 consecutive weeks, adjunctive aripiprazole demonstrated superiority over placebo with a 46 % decreased risk (hazard ratio of 0.54) in preventing bipolar recurrence and a 65 % decreased risk (hazard ratio of 0.35) in preventing recurrence into mania over adjunctive placebo but failed to demonstrate superiority over placebo in preventing recurrence into depression.
 Adjunctive aripiprazole demonstrated superiority over placebo on the secondary outcome measure, CGI-BP Severity of Illness score (mania).
 In this trial, patients were assigned by investigators with either open-label lithium or valproate monotherapy to determine partial non-response.
@@ -92,7 +103,7 @@ Aripiprazole demonstrated statistically superior efficacy compared to placebo on
 However, the clinical relevance of this finding has not been established.
 The safety profile included weight gain and changes in prolactin levels.
 The duration of the long-term safety study was limited to 52 weeks.
-In the pooled trials, the incidence of low serum prolactin levels in females (<3 ng/ml) and males (<2 ng/ml) in aripiprazole-treated patients was 27/46 (58.7 %) and 258/298 (86.6 %), respectively.
+In the pooled trials, the incidence of low serum prolactin levels in females (< 3 ng/ml) and males (< 2 ng/ml) in aripiprazole-treated patients was 27/46 (58.7 %) and 258/298 (86.6 %), respectively.
 In the placebo-controlled trials, the mean weight gain was 0.4 kg for placebo and 1.6 kg for aripiprazole.
 
 Aripiprazole was also studied in a placebo-controlled, long-term maintenance trial.
@@ -104,69 +115,19 @@ Extrapyramidal symptoms were mainly reported during the stabilisation phase in 1
 Tics associated with Tourette’s disorder in paediatric patients (see section 4.2)
 The efficacy of aripiprazole was studied in paediatric subjects with Tourette’s disorder (aripiprazole: n = 99, placebo: n = 44) in a randomised, double-blind, placebo controlled, 8 week study using a fixed dose weight-based treatment group design over the dose range of 5 mg/day to 20 mg/day and a starting dose of 2 mg.
 Patients were 7 - 17 years of age and presented an average score of 30 on Total Tic Score on the Yale Global Tic Severity Scale (TTS-YGTSS) at baseline.
-Aripiprazole showed an improvement on TTS-YGTSS change from baseline to Week 8 of 13.35,for the low dose group (5 mg or 10 mg) and 16.94 for the high dose group (10 mg or 20 mg) as compared with an improvement of 7.09 in the placebo group.
+Aripiprazole showed an improvement on TTS-YGTSS change from baseline to week 8 of 13.35,for the low dose group (5 mg or 10 mg) and 16.94 for the high dose group (10 mg or 20 mg) as compared with an improvement of 7.09 in the placebo group.
 
 The efficacy of aripiprazole in paediatric subjects with Tourette’s syndrome (aripiprazole: n = 32, placebo: n = 29) was also evaluated over a flexible dose range of 2 mg/day to 20 mg/day and a starting dose of 2 mg, in a 10 week, randomised, double blind, placebo-controlled study conducted in South-Korea.
 Patients were 6 - 18 years and presented an average score of 29 on TTS-YGTSS at baseline.
-Aripiprazole group showed an improvement of 14.97 on TTS-YGTSS change from baseline to
-Week 10 as compared with an improvement of 9.62 in the placebo group.
+Aripiprazole group showed an improvement of 14.97 on TTS-YGTSS change from baseline to week 10 as compared with an improvement of 9.62 in the placebo group.
+
 In both of these short term trials, the clinical relevance of the efficacy findings has not been established, considering the magnitude of treatment effect compared to the large placebo effect and the unclear effects regarding psycho-social functioning.
 No long term data are available with regard to the efficacy and the safety of aripiprazole in this fluctuating disorder.
-
 The European Medicines Agency has deferred the obligation to submit the results of studies with ABILIFY in one or more subsets of the paediatric population in the treatment of schizophrenia and in the treatment of bipolar affective disorder (see section 4.2 for information on paediatric use).
-
-[ABILIFY 10 mg tablets]
-
-| Psychiatric comorbidities | Week 4 | Week 12 | ADHD | Week 4 | Week 12 |
-| --- | --- | --- | --- | --- | --- |
-| ABILIFY 10 mg (n = 48) | 14.9 | 15.1 | ABILIFY 10 mg (n = 44) | 15.2 | 15.6 |
-| ABILIFY 30 mg (n = 51) | 16.7 | 16.9 | ABILIFY 30 mg (n = 48) | 15.9 | 16.7 |
-| Placebo (n = 52)a | 7.0 | 8.2 | Placebo (n = 47)b | 6.3 | 7.0 |
-| No psychiatric comorbidities | Week 4 | Week 12 | No ADHD | Week 4 | Week 12 |
-| ABILIFY 10 mg | 12.8 | 15.9 | ABILIFY 10 mg | 12.7 | 15.7 |
-| (n = 27) |  |  | (n = 37) |  |  |
-| ABILIFY 30 mg (n = 25) | 15.3 | 14.7 | ABILIFY 30 mg (n = 30) | 14.6 | 13.4 |
-| Placebo (n = 18) | 9.4 | 9.7 | Placebo (n = 25) | 9.9 | 10.0 |
-
-[ABILIFY 15 mg tablets]
-
-(all sentences already above)
-
-[ABILIFY 30 mg tablets]
-
-(all sentences already above)
 
 [ABILIFY 10 mg orodispersible tablets]
 
-Psychiatric
-comorbidities Week 4 Week 12 ADHD Week 4 Week 12
-
-| ABILIFY 10 mg (n = 48) | 14.9 | 15.1 | ABILIFY 10 mg (n = 44) | 15.2 | 15.6 |
-| --- | --- | --- | --- | --- | --- |
-| ABILIFY 30 mg (n = 51) | 16.7 | 16.9 | ABILIFY 30 mg (n = 48) | 15.9 | 16.7 |
-| Placebo (n = 52)a | 7.0 | 8.2 | Placebo (n = 47)b | 6.3 | 7.0 |
-| No psychiatric comorbidities | Week 4 | Week 12 | No ADHD | Week 4 | Week 12 |
-| ABILIFY 10 mg (n = 27) | 12.8 | 15.9 | ABILIFY 10 mg (n = 37) | 12.7 | 15.7 |
-| ABILIFY 30 mg (n = 25) | 15.3 | 14.7 | ABILIFY 30 mg (n = 30) | 14.6 | 13.4 |
-| Placebo (n = 18) | 9.4 | 9.7 | Placebo (n = 25) | 9.9 | 10.0 |
-
-[ABILIFY 15 mg orodispersible tablets]
-
 (all sentences already above)
-
-[ABILIFY 30 mg orodispersible tablets]
-
-Psychiatric Week 4 Week 12 ADHD Week 4 Week 12
-
-| comorbidities |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| ABILIFY 10 mg (n = 48) | 14.9 | 15.1 | ABILIFY 10 mg (n = 44) | 15.2 | 15.6 |
-| ABILIFY 30 mg (n = 51) | 16.7 | 16.9 | ABILIFY 30 mg (n = 48) | 15.9 | 16.7 |
-| Placebo (n = 52)a | 7.0 | 8.2 | Placebo (n = 47)b | 6.3 | 7.0 |
-| No psychiatric comorbidities | Week 4 | Week 12 | No ADHD | Week 4 | Week 12 |
-| ABILIFY 10 mg (n = 27) | 12.8 | 15.9 | ABILIFY 10 mg (n = 37) | 12.7 | 15.7 |
-| ABILIFY 30 mg (n = 25) | 15.3 | 14.7 | ABILIFY 30 mg (n = 30) | 14.6 | 13.4 |
-| Placebo (n = 18) | 9.4 | 9.7 | Placebo (n = 25) | 9.9 | 10.0 |
 
 [ABILIFY 1 mg/ml oral solution]
 
@@ -174,10 +135,11 @@ Psychiatric Week 4 Week 12 ADHD Week 4 Week 12
 
 [ABILIFY 7.5 mg/ml solution for injection]
 
-Agitation in schizophrenia and Bipolar I Disorder with aripiprazole solution for injection
-In two short- term (24-hour) placebo-controlled trials involving 554 schizophrenic adult patients presenting with agitation and disturbed behaviours, aripiprazole solution for injection was associated with statistically significant greater improvements in agitation/behavioural symptoms compared to placebo and was similar to haloperidol.
-In one short-term (24-hour) placebo-controlled trial involving 291 patients with bipolar disorder presenting with agitation and disturbed behaviours, aripiprazole solution for injection was associated with statistically significant greater improvements in agitation/behavioural symptoms compared to placebo and was similar to the reference arm lorazepam.
-The observed mean improvement from baseline on the PANSS Excitement Component score at the primary 2-hour endpoint was 5.8 for placebo, 9.6 for lorazepam, and 8.7 for aripiprazole.
+Agitation in schizophrenia and Bipolar I Disorder with ABILIFY solution for injection
+In two short- term (24-hour) placebo-controlled trials involving 554 schizophrenic adult patients presenting with agitation and disturbed behaviours, ABILIFYsolution for injection was associated with statistically significant greater improvements in agitation/behavioural symptoms compared to placebo and was similar to haloperidol.
+
+In one short-term (24-hour) placebo-controlled trial involving 291 patients with bipolar disorder presenting with agitation and disturbed behaviours, ABILIFY solution for injection was associated with statistically significant greater improvements in agitation/behavioural symptoms compared to placebo and was similar to the reference arm lorazepam.
+The observed mean improvement from baseline on the PANSS Excitement Component score at the primary 2-hour endpoint was 5.8 for placebo, 9.6 for lorazepam, and 8.7 for ABILIFY solution for injection.
 In subpopulation analyses on patients with mixed episodes or on patients with severe agitation, a similar pattern of efficacy to the overall population was observed but statistical significance could not be established due to a reduced sample size.
 
 Schizophrenia with oral aripiprazole
@@ -185,10 +147,14 @@ In three short-term (4 to 6 weeks) placebo-controlled trials involving 1,228 sch
 
 In a haloperidol-controlled trial, the proportion of responder patients maintaining response to medicinal product at 52-weeks was similar in both groups (oral aripiprazole 77 % and haloperidol 73 %).
 The overall completion rate was significantly higher for patients on oral aripiprazole (43 %) than for oral haloperidol (30 %).
+
 In a 26-week, placebo-controlled trial in adult stabilised patients with chronic schizophrenia, oral aripiprazole had significantly greater reduction in relapse rate, 34 % in oral aripiprazole group and 57 % in placebo.
 
-Weight gain: in clinical trials oral aripiprazole has not been shown to induce clinically relevant weight gain.
-In a 26-week, olanzapine-controlled, double-blind, multi-national study of schizophrenia which included 314 adult patients and where the primary end-point was weight gain, significantly less patients had at least 7 % weight gain over baseline (i.e. a gain of at least 5.6 kg for a mean baseline weight of ~80.5 kg) on oral aripiprazole (n = 18, or 13 % of evaluable patients), compared to oral olanzapine (n = 45, or 33 % of evaluable patients).
+In clinical trials oral aripiprazole has not been shown to induce clinically relevant weight gain.
+~80.5 kg) on oral aripiprazole (n = 18, or 13 % of evaluable patients), compared to oral olanzapine
+(n = 45, or 33 % of evaluable patients).
+
+-HDL: incidence of changes in levels from normal (≥ 1.04 mmol/l) to low (<1.04 mmol/l) was 11.4 % for aripiprazole and 12.5 % for placebo and mean change from baseline was -0.03 mmol/l (95 % CI: - 0.046, -0.017) for aripiprazole and -0.04 mmol/l (95 % CI: -0.056, -0.022) for placebo. -Fasting LDL: incidence of changes in levels from normal (<2.59 mmol/l) to high (≥ 4.14 mmol/l) was 0.6 % for aripiprazole and 0.7 % for placebo and mean change from baseline was -0.09 mmol/l (95 % CI: - 0.139, -0.047) for aripiprazole and -0.06 mmol/l (95 % CI: -0.116, -0.012) for placebo.
 
 Manic episodes in Bipolar I Disorder with oral aripiprazole
 
