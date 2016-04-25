@@ -3,51 +3,72 @@
 Progressive Multifocal Leukoencephalopathy (PML)
 
 Use of TYSABRI has been associated with an increased risk of PML, an opportunistic infection caused by JC virus, which may be fatal or result in severe disability.
-Due to this increased risk of developing PML, the benefits and risks of TYSABRI treatment should be individually reconsidered by the specialist physician and the patient.
+Due to this increased risk of developing PML, the benefits and risks of TYSABRI treatment should be individually reconsidered by the specialist physician and the patient; patients must be monitored at regular intervals throughout and should be instructed together with their caregivers on early signs and symptoms of PML.
 JC virus also causes JCV granule cell neuronopathy (GCN) which has been reported in patients treated with TYSABRI.
 Symptoms of JCV GCN are similar to symptoms of PML (i.e. cerebellar syndrome).
-
-Patients should be instructed together with their caregivers on early signs and symptoms of PML.
 
 The following risk factors are associated with an increased risk of PML.
 
 - The presence of anti-JCV antibodies.
 - Treatment duration, especially beyond 2 years.
-  There is limited experience in patients who have received more than 4 years of TYSABRI treatment, therefore the risk of PML in these patients cannot currently be estimated.
+  After 2 years all patients should be re-informed about the risk of PML with TYSABRI.
 - Immunosuppressant use prior to receiving TYSABRI.
 
-Anti-JCV antibody status identifies different levels of risk for PML in TYSABRI treated patients.
 Patients who are anti-JCV antibody positive are at an increased risk of developing PML compared to patients who are anti-JCV antibody negative.
 Patients who have all three risk factors for PML (i.e., are anti-JCV antibody positive and have received more than 2 years of TYSABRI therapy, and have received prior immunosuppressant therapy) have a significantly higher risk of PML.
-In patients with all three risk factors, treatment with TYSABRI should only be continued if the benefits outweigh the risks.
-For the quantification of PML risk in the different patient subgroups, please refer to the Physician Information and Management Guidelines.
+
+In anti-JCV antibody positive TYSABRI treated patients who have not used prior immunosuppressants the level of anti-JCV antibody response (index) is associated with the level of risk for PML.
+
+In patients considered at high risk treatment with TYSABRI should only be continued if the benefits outweigh the risks.
+For the estimation of PML risk in the different patient subgroups, please refer to the Physician Information and Management Guidelines.
+
+Anti-JCV antibody testing
 
 Anti-JCV antibody testing provides supportive information for risk stratification of TYSABRI treatment.
 Testing for serum anti-JCV antibody prior to initiating TYSABRI therapy or in patients receiving the medicinal product with an unknown antibody status is recommended.
 Anti-JCV antibody negative patients may still be at risk of PML for reasons such as a new JCV infection, fluctuating antibody status or a false negative test result.
 Re-testing of anti-JCV antibody negative patients every 6 months is recommended.
+Retesting low index patients who have no history of prior immunosuppressant use every 6 months once they reach the 2 year treatment point is recommended.
+
 The anti-JCV antibody assay (ELISA) should not be used to diagnose PML.
 Anti-JCV antibody testing should not be performed during, or for at least two weeks following, plasma exchange due to the removal of antibodies from the serum.
 
-Before initiation of treatment with TYSABRI, a recent (usually within 3 months) MRI should be available as a reference, and be repeated on a yearly routine basis to update this reference.
-Patients must be monitored at regular intervals throughout.
-After 2 years all patients should be re-informed about the risk of PML with TYSABRI.
+For further information on anti-JCV antibody testing please see Physician Information and Management Guidelines.
+
+MRI screening for PML
+
+Before initiation of treatment with TYSABRI, a recent (usually within 3 months) MRI should be available as a reference, and be repeated at least on a yearly basis.
+More frequent MRIs (e.g. on a 3 to 6 monthly basis) using an abbreviated protocol should be considered for patients at higher risk of PML.
+This includes:
+
+- Patients who have all three risk factors for PML (i.e., are anti-JCV antibody positive and have received more than 2 years of TYSABRI therapy, and have received prior immunosuppressant therapy),
+
+or
+
+- Patients with a high anti-JCV antibody index who have received more than 2 years of TYSABRI therapy and without prior history of immunosuppressant therapy.
+
+Current evidence suggests that the risk of PML is low at an index equal to or below 0.9 and increases substantially above 1.5 for patients who have been on treatment with TYSABRI for longer than 2 years (see the Physician Information and Management Guidelines for further information).
+PML should be considered as a differential diagnosis in any MS patient taking TYSABRI presenting with neurological symptoms and/or new brain lesions in MRI.
+Cases of asymptomatic PML based on MRI and positive JCV DNA in the cerebrospinal fluid have been reported.
+
+Physicians should refer to the Physician Information and Management Guidelines for further information on managing the risk of PML in TYSABRI-treated patients.
 
 If PML or JCV GCN is suspected, further dosing must be suspended until PML has been excluded.
 
-The clinician should evaluate the patient to determine if the symptoms are indicative of neurological dysfunction, and if so, whether these symptoms are typical of MS or possibly suggestive of PML or JCV GCN.
-If any doubt exists, further evaluation, including MRI scan preferably with contrast (compared with pre-treatment MRI), CSF testing for JC Viral DNA and repeat neurological assessments, should be considered as described in the Physician Information and Management Guidelines (see educational guidance).
-Once the clinician has excluded PML and/or JCV GCN (if necessary, by repeating clinical, imaging and/or laboratory investigations if clinical suspicion remains), dosing of natalizumab may resume.
+The clinician should evaluate the patient to determine if the symptoms are indicative of neurological dysfunction and, if so, whether these symptoms are typical of MS or possibly suggestive of PML or JCV GCN.
+If any doubt exists, further evaluation, including MRI scan preferably with contrast (compared with pre-treatment baseline MRI), CSF testing for JC Viral DNA and repeat neurological assessments, should be considered as described in the Physician Information and Management Guidelines (see educational guidance).
+Once the clinician has excluded PML and/or JCV GCN (if necessary, by repeating clinical, imaging and/or laboratory investigations if clinical suspicion remains), dosing of TYSABRI may resume.
 
-The physician should be particularly alert to symptoms suggestive of PML or JCV GCN that the patient may not notice (e.g. cognitive,psychiatric symptoms or cerebellar syndrome).
+The physician should be particularly alert to symptoms suggestive of PML or JCV GCN that the patient may not notice (e.g. cognitive, psychiatric symptoms or cerebellar syndrome).
 Patients should also be advised to inform their partner or caregivers about their treatment, since they may notice symptoms that the patient is not aware of.
 
 PML has been reported following discontinuation of TYSABRI in patients who did not have findings suggestive of PML at the time of discontinuation.
-Patients and physicians should continue to be alert for any new signs or symptoms that may be suggestive of PML for approximately six months following discontinuation of TYSABRI.
+Patients and physicians should continue to follow the same monitoring protocol and be alert for any new signs or symptoms that may be suggestive of PML for approximately 6 months following discontinuation of TYSABRI.
 
 If a patient develops PML the dosing of TYSABRI must be permanently discontinued.
 
 Following reconstitution of the immune system in immunocompromised patients with PML improved outcome has been seen.
+
 PML and IRIS (Immune Reconstitution Inflammatory Syndrome)
 
 IRIS occurs in almost all TYSABRI PML patients after withdrawal or removal of the medicinal product, e.g. by plasma exchange (see section 5.2).
@@ -86,6 +107,7 @@ However, the risk of hypersensitivity reactions should be considered for every i
 
 Patients are to be observed during the infusion and for 1 hour after the completion of the infusion (see section 4.8).
 Resources for the management of hypersensitivity reactions should be available.
+
 Discontinue administration of TYSABRI and initiate appropriate therapy at the first symptoms or signs of hypersensitivity.
 
 Patients who have experienced a hypersensitivity reaction must be permanently discontinued from treatment with TYSABRI.
@@ -98,7 +120,6 @@ Concurrent use of these agents with TYSABRI may increase the risk of infections,
 Patients with a treatment history of immunosuppressant medicinal products are at increased risk for PML.
 Care should be taken with patients who have previously received immunosuppressants to allow sufficient time for immune function recovery to occur.
 Physicians must evaluate each individual case to determine whether there is evidence of an immunocompromised state prior to commencing treatment with TYSABRI (see section 4.3).
-
 In Phase 3 MS clinical trials, concomitant treatment of relapses with a short course of corticosteroids was not associated with an increased rate of infection.
 Short courses of corticosteroids can be used in combination with TYSABRI.
 

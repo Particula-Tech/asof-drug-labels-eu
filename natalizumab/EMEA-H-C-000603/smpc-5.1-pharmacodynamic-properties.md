@@ -1,8 +1,9 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Selective immunosuppressive agent, ATC code: L04AA23
+Pharmacotherapeutic group: Selective immunosuppressive agents, ATC code: L04AA23
 
 Pharmacodynamic effects
+
 Natalizumab is a selective adhesion-molecule inhibitor and binds to the α4-subunit of human integrins, which is highly expressed on the surface of all leukocytes, with the exception of neutrophils.
 Specifically, natalizumab binds to the α4β1 integrin, blocking the interaction with its cognate receptor, vascular cell adhesion molecule-1 (VCAM-1), and ligands osteopontin, and an alternatively spliced domain of fibronectin, connecting segment-1 (CS-1).
 Natalizumab blocks the interaction of α4β7 integrin with the mucosal addressin cell adhesion molecule-1 (MadCAM-1).

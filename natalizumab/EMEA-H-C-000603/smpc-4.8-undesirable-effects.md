@@ -32,8 +32,7 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | Musculoskeletal and connective tissue disorders | Arthralgia | Common |
 | General disorders and administration site conditions | Rigors | Common |
 |  | Pyrexia | Common |
-
-Fatigue Common
+|  | Fatigue | Common |
 
 Description of selected adverse reactions
 
@@ -44,7 +43,6 @@ These occurred in 23.1% of MS patients treated with natalizumab (placebo: 18.7%)
 Events reported more commonly with natalizumab than with placebo included dizziness, nausea, urticaria and rigors.
 
 Hypersensitivity reactions
-
 In 2-year controlled clinical trials in MS patients, hypersensitivity reactions occurred in up to 4% of patients.
 Anaphylactic/anaphylactoid reactions occurred in less than 1% of patients receiving TYSABRI.
 Hypersensitivity reactions usually occurred during the infusion or within the 1-hour period after the completion of the infusion (See section 4.4).
@@ -72,6 +70,7 @@ The majority of patients did not interrupt natalizumab therapy during infections
 In clinical trials, herpes infections (Varicella-Zoster virus, Herpes-simplex virus) occurred slightly more frequently in natalizumab-treated patients than in placebo-treated patients.
 In post marketing experience,serious, life-threatening, and sometimes fatal cases of encephalitis and meningitis caused by herpes simplex or varicella zoster have been reported in multiple sclerosis patients receiving TYSABRI.
 The duration of treatment with TYSABRI prior to onset ranged from a few months to several years (see section 4.4).
+
 Cases of PML have been reported from clinical trials, post-marketing observational studies and post-marketing passive surveillance.
 PML usually leads to severe disability or death (see section 4.4).
 Cases of JCV GCN have also been reported during postmarketing use of TYSABRI.
@@ -84,7 +83,6 @@ Spontaneous cases of serious liver injuries, increased liver enzymes, hyperbilir
 Anaemia and haemolytic anaemia
 
 Rare, serious cases of anaemia and haemolytic anaemia have been reported in patients treated with TYSABRI in post-marketing observational studies.
-
 Malignancies
 
 No differences in incidence rates or the nature of malignancies between natalizumab- and placebo-treated patients were observed over 2 years of treatment.

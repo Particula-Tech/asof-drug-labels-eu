@@ -4,10 +4,9 @@ Instructions for use:
 
 - Inspect the TYSABRI vial for particles prior to dilution and administration.
   If particles are observed and/or the liquid in the vial is not colourless, clear to slightly opalescent, the vial must not be used.
-- Use aseptic technique when preparing TYSABRI solution for intravenous infusion.
-  Remove
+- Use aseptic technique when preparing TYSABRI solution for intravenous (IV) infusion.
 
-flip-off cap from the vial.
+Remove flip-off cap from the vial.
 Insert the syringe needle into the vial through the centre of the rubber stopper and remove 15 ml concentrate for solution for infusion.
 
 - Add the 15 ml concentrate for solution for infusion to 100 ml sodium chloride 9 mg/ml (0.9%) solution for injection.
