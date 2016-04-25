@@ -39,6 +39,30 @@ For patients receiving canagliflozin, in case of intercurrent conditions that ma
 Temporary interruption of treatment with canagliflozin may be considered for patients who develop volume depletion while on canagliflozin therapy until the condition is corrected.
 If interrupted, consideration should be given to more frequent glucose monitoring.
 
+Diabetic ketoacidosis
+
+Rare cases of diabetic ketoacidosis (DKA), including life-threatening cases, have been reported in clinical trials and post-marketing in patients treated with SGLT2 inhibitors, including canagliflozin.
+In a number of cases, the presentation of the condition was atypical with only moderately increased blood glucose values, below 14 mmol/l (250 mg/dl).
+It is not known if DKA is more likely to occur with higher doses of canagliflozin.
+
+The risk of diabetic ketoacidosis must be considered in the event of non-specific symptoms such as nausea, vomiting, anorexia, abdominal pain, excessive thirst, difficulty breathing, confusion, unusual fatigue or sleepiness.
+Patients should be assessed for ketoacidosis immediately if these symptoms occur, regardless of blood glucose level.
+
+In patients where DKA is suspected or diagnosed, treatment with canagliflozin should be discontinued immediately.
+
+Treatment should be interrupted in patients who are hospitalised for major surgical procedures or acute serious medical illnesses.
+In both cases, treatment with canagliflozin may be restarted once the patient’s condition has stabilised.
+
+Before initiating canagliflozin, factors in the patient history that may predispose to ketoacidosis should be considered.
+
+Patients who may be at higher risk of DKA include patients with a low beta-cell function reserve (e.g., type 2 diabetes patients with low C-peptide or latent autoimmune diabetes in adults (LADA) or patients with a history of pancreatitis), patients with conditions that lead to restricted food intake or severe dehydration, patients for whom insulin doses are reduced and patients with increased insulin requirements due to acute medical illness, surgery or alcohol abuse.
+SGLT2 inhibitors should be used with caution in these patients.
+
+Restarting SGLT2 inhibitor treatment in patients with previous DKA while on SGLT2 inhibitor treatment is not recommended unless another clear precipitating factor is identified and resolved.
+
+The safety and efficacy of canagliflozin in patients with type 1 diabetes have not been established and canagliflozin should not be used for treatment of patients with type 1 diabetes.
+Limited data from clinical trials suggest that DKA occurs with common frequency when patients with type 1 diabetes are treated with SGLT2 inhibitors.
+
 Elevated haematocrit
 
 Haematocrit increase was observed with canagliflozin treatment (see section 4.8); therefore, caution in patients with already elevated haematocrit is warranted.
@@ -48,7 +72,6 @@ Elderly (≥ 65 years old)
 Elderly patients may be at a greater risk for volume depletion, are more likely to be treated with diuretics, and to have impaired renal function.
 In patients ≥ 75 years of age, a higher incidence of adverse reactions associated with volume depletion (e.g., postural dizziness, orthostatic hypotension, hypotension) was reported.
 In addition, in such patients greater decreases in eGFR were reported (see sections 4.2 and 4.8).
-
 Genital mycotic infections
 
 Consistent with the mechanism of sodium glucose co-transporter 2 (SGLT2) inhibition with increased UGE, vulvovaginal candidiasis in females and balanitis or balanoposthitis in males were reported in clinical trials (see section 4.8).
@@ -69,3 +92,13 @@ Lactose intolerance
 
 The tablets contain lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency, or glucose-galactose malabsorption should not take this medicinal product.
+
+[Invokana 300 mg film-coated tablets]
+
+- Prior to initiation of canagliflozin and at least annually, thereafter (see sections 4.2, 4.8, 5.1, and
+
+5.2)
+
+- Prior to initiation of concomitant medicinal products that may reduce renal function and
+
+periodically thereafter

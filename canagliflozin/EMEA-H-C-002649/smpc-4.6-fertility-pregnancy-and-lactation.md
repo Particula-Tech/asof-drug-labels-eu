@@ -7,7 +7,6 @@ Studies in animals have shown reproductive toxicity (see section 5.3).
 
 Canagliflozin should not be used during pregnancy.
 When pregnancy is detected, treatment with canagliflozin should be discontinued.
-
 Breast-feeding
 
 It is unknown whether canagliflozin and/or its metabolites are excreted in human milk.

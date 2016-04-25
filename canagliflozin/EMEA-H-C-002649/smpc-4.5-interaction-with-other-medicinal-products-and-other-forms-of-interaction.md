@@ -8,6 +8,7 @@ Canagliflozin may add to the effect of diuretics and may increase the risk of de
 Insulin and insulin secretagogues
 Insulin and insulin secretagogues, such as sulphonylureas, can cause hypoglycaemia.
 Therefore, a lower dose of insulin or an insulin secretagogue may be required to reduce the risk of hypoglycaemia when used in combination with canagliflozin (see sections 4.2 and 4.8).
+
 Pharmacokinetic interactions
 
 Effects of other medicinal products on canagliflozin
@@ -41,6 +42,7 @@ The increases in simvastatin and simvastatin acid exposures are not considered c
 Inhibition of BCRP by canagliflozin cannot be excluded at an intestinal level and increased exposure may therefore occur for medicinal products transported by BCRP, e.g. certain statins like rosuvastatin and some anti-cancer medicinal products.
 
 In interaction studies, canagliflozin at steady-state had no clinically relevant effect on the pharmacokinetics of metformin, oral contraceptives (ethinyl estradiol and levonorgestrol), glibenclamide, paracetamol, hydrochlorothiazide, or warfarin.
+
 Drug/Laboratory test interference
 
 1,5-AG assay

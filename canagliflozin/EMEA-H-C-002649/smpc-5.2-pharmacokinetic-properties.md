@@ -12,6 +12,7 @@ Absorption
 The mean absolute oral bioavailability of canagliflozin is approximately 65%.
 Co-administration of a high-fat meal with canagliflozin had no effect on the pharmacokinetics of canagliflozin; therefore, Invokana may be taken with or without food.
 However, based on the potential to reduce postprandial plasma glucose excursions due to delayed intestinal glucose absorption, it is recommended that Invokana be taken before the first meal of the day (see sections 4.2 and 5.1).
+
 Distribution
 
 The mean steady-state volume of distribution of canagliflozin following a single intravenous infusion in healthy subjects was 119 litres, suggesting extensive tissue distribution.
@@ -50,9 +51,9 @@ The Cmax of canagliflozin was moderately increased by 13%, 29%, and 29% in subje
 Compared to healthy subjects, plasma AUC of canagliflozin was increased by approximately 17%, 63%, and 50% in subjects with mild, moderate, and severe renal impairment, respectively, but was similar for ESRD subjects and healthy subjects.
 
 Canagliflozin was negligibly removed by haemodialysis.
-
 Patients with hepatic impairment
 Relative to subjects with normal hepatic function, the geometric mean ratios for Cmax and AUC∞ of canagliflozin were 107% and 110%, respectively, in subjects with Child-Pugh class A (mild hepatic impairment) and 96% and 111%, respectively, in subjects with Child-Pugh class B (moderate) hepatic impairment following administration of a single 300 mg dose of canagliflozin.
+
 These differences are not considered to be clinically meaningful.
 There is no clinical experience in patients with Child-Pugh class C (severe) hepatic impairment.
 
