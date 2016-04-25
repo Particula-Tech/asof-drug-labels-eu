@@ -32,6 +32,7 @@ Four studies had treatment durations of 24 weeks; extensions of those and other 
 Treatment with empagliflozin as monotherapy and in combination with metformin, pioglitazone, a sulphonylurea, DPP-4 inhibitors, and insulin lead to clinically relevant improvements in HbA1c, fasting plasma glucose (FPG), body weight, and systolic and diastolic blood pressure.
 Administration of empagliflozin 25 mg resulted in a higher proportion of patients achieving HbA1c goal of less than 7% and fewer patients needing glycaemic rescue compared to empagliflozin 10 mg and placebo.
 Higher baseline HbA1c was associated with a greater reduction in HbA1c.
+
 Monotherapy
 The efficacy and safety of empagliflozin as monotherapy was evaluated in a double-blind, placebo- and active-controlled study of 24 weeks duration in treatment-naïve patients.
 Treatment with empagliflozin resulted in a statistically significant (p<0.0001) reduction in HbA1c compared to placebo (Table 2) and a clinically meaningful decrease in FPG.
@@ -178,7 +179,6 @@ The efficacy and safety of empagliflozin as add-on to multiple daily insulin wit
 During the initial 18 weeks and the last 12 weeks, the insulin dose was kept stable, but was adjusted to achieve pre-prandial glucose levels <100 mg/dl [5.5 mmol/l], and post-prandial glucose levels <140 mg/dl [7.8 mmol/l] between Weeks 19 and 40.
 At Week 18, empagliflozin provided statistically significant improvement in HbA1c compared with placebo (Table 5).
 At Week 52, treatment with empagliflozin resulted in a statistically significant decrease in HbA1c and insulin sparing compared with placebo and a reduction in FPG and body weight.
-
 Table 5: Efficacy results at 18 and 52 weeks in a placebo-controlled study of empagliflozin as add on to multiple daily doses of insulin with or without metformin
 
 |  | Placebo | Jardiance |  |
@@ -193,8 +193,7 @@ Table 5: Efficacy results at 18 and 52 weeks in a placebo-controlled study of em
 | HbA1c (%) at week 522 |  |  |  |
 | Baseline (mean) | 8.25 | 8.40 | 8.37 |
 | Change from baseline1 | -0.81 | -1.18 | -1.27 |
-| Difference from placebo1 |  | -0.38*** (-0.62, -0.13) | -0.46* (-0.70, -0.22) |
-| (97.5% CI) |  |  |  |
+| Difference from placebo1 (97.5% CI) |  | -0.38*** (-0.62, -0.13) | -0.46* (-0.70, -0.22) |
 | N | 113 | 118 | 118 |
 | Patients (%) achieving HbA1c <7% with baseline HbA1c ≥7% at week 52 | 26.5 | 39.8 | 45.8 |
 | N | 115 | 118 | 117 |
@@ -221,7 +220,6 @@ During the initial 18 weeks the insulin dose was kept stable, but was adjusted t
 At week 18, empagliflozin provided statistically significant improvement in HbA1c (Table 6).
 At 78 weeks, empagliflozin resulted in a statistically significant decrease in HbA1c and insulin sparing compared to placebo.
 Furthermore, empagliflozin resulted in a reduction in FPG, body weight, and blood pressure.
-
 Table 6 Efficacy results at 18 and 78 weeks in a placebo-controlled study of empagliflozin as add on to basal insulin with or without metformin or a sulphonylureaa
 
 |  | Placebo | Empagliflozin 10 mg | Empagliflozin 25 mg |
@@ -251,7 +249,6 @@ Patients with renal impairment, 52 week placebo controlled data
 The efficacy and safety of empagliflozin as add on to antidiabetic therapy was evaluated in patients with renal impairment in a double-blind, placebo-controlled study for 52 weeks.
 Treatment with empagliflozin led to a statistically significant reduction of HbA1c (Table 7) and clinically meaningful improvement in FPG compared to placebo at Week 24.
 The improvement in HbA1c, body weight, and blood pressure was sustained up to 52 weeks.
-
 Table 7 Results at 24 week in a placebo-controlled study of empagliflozin in renally impaired type 2 diabetes patientsa
 
 |  | Placebo | Empagliflozin 10 mg | Empagliflozin 25 mg | Placebo | Empagliflozin 25 mg |
@@ -277,8 +274,8 @@ Table 7 Results at 24 week in a placebo-controlled study of empagliflozin in ren
 
 a Full analysis set (FAS) using last observation carried forward (LOCF) prior to glycaemic rescue therapy
 1 Mean adjusted for baseline value
-2 Not evaluated for statistical significance as a result of the sequential confirmatory testing procedure
-* p<0.0001
+2 Not evaluated for statistical significance as a result of the sequential confirmatory testing procedure * p<0.0001
+
 Cardiovascular safety
 
 In a prospective, pre-specified meta-analysis of independently adjudicated cardiovascular events from 12 phase 2 and 3 clinical studies involving 10,036 patients with type 2 diabetes, empagliflozin did not increase cardiovascular risk.

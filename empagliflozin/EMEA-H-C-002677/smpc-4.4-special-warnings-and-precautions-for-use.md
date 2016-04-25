@@ -4,6 +4,30 @@ General
 
 Jardiance should not be used in patients with type 1 diabetes or for the treatment of diabetic ketoacidosis.
 
+Diabetic ketoacidosis
+
+Rare cases of diabetic ketoacidosis (DKA), including life-threatening cases, have been reported in clinical trials and post-marketing in patients treated with SGLT2 inhibitors, including empagliflozin.
+In a number of cases, the presentation of the condition was atypical with only moderately increased blood glucose values, below 14 mmol/l (250 mg/dl).
+It is not known if DKA is more likely to occur with higher doses of empagliflozin.
+
+The risk of diabetic ketoacidosis must be considered in the event of non-specific symptoms such as nausea, vomiting, anorexia, abdominal pain, excessive thirst, difficulty breathing, confusion, unusual fatigue or sleepiness.
+Patients should be assessed for ketoacidosis immediately if these symptoms occur, regardless of blood glucose level.
+
+In patients where DKA is suspected or diagnosed, treatment with empagliflozin should be discontinued immediately.
+
+Treatment should be interrupted in patients who are hospitalised for major surgical procedures or acute serious medical illnesses.
+In both cases, treatment with empagliflozin may be restarted once the patient’s condition has stabilised.
+
+Before initiating empagliflozin, factors in the patient history that may predispose to ketoacidosis should be considered.
+
+Patients who may be at higher risk of DKA include patients with a low beta-cell function reserve (e.g. type 2 diabetes patients with low C-peptide or latent autoimmune diabetes in adults (LADA) or patients with a history of pancreatitis), patients with conditions that lead to restricted food intake or severe dehydration, patients for whom insulin doses are reduced and patients with increased insulin requirements due to acute medical illness, surgery or alcohol abuse.
+SGLT2 inhibitors should be used with caution in these patients.
+
+Restarting SGLT2 inhibitor treatment in patients with previous DKA while on SGLT-2 inhibitor treatment is not recommended, unless another clear precipitating factor is identified and resolved.
+
+The safety and efficacy of empagliflozin in patients with type 1 diabetes have not been established and empagliflozin should not be used for treatment of patients with type 1 diabetes.
+Limited data from clinical trials suggest that DKA occurs with common frequency when patients with type 1 diabetes are treated with SGLT2 inhibitors.
+
 Renal impairment
 
 Jardiance should not be initiated in patients with an eGFR below 60 ml/min/1.73 m2 or
@@ -40,6 +64,7 @@ Therefore, caution should be exercised in patients for whom an empagliflozin-ind
 
 In case of conditions that may lead to fluid loss (e.g. gastrointestinal illness), careful monitoring of volume status (e.g. physical examination, blood pressure measurements, laboratory tests including haematocrit) and electrolytes is recommended for patients receiving empagliflozin.
 Temporary interruption of treatment with empagliflozin should be considered until the fluid loss is corrected.
+
 Urinary tract infections
 
 The overall frequency of urinary tract infection reported as adverse event was similar in patients treated with empagliflozin 25 mg and placebo and higher in patients treated with empagliflozin 10 mg (see section 4.8).
@@ -53,7 +78,6 @@ Experience in New York Heart Association (NYHA) class I-II is limited, and there
 Urine laboratory assessments
 
 Due to its mechanism of action, patients taking Jardiance will test positive for glucose in their urine.
-
 Lactose
 
 The tablets contain lactose.

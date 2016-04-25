@@ -6,6 +6,7 @@ In controlled clinical studies single doses of up to 800 mg empagliflozin (equiv
 Empagliflozin increased urine glucose excretion leading to an increase in urine volume.
 The observed increase in urine volume was not dose-dependent and is not clinically meaningful.
 There is no experience with doses above 800 mg in humans.
+
 Therapy
 
 In the event of an overdose, treatment should be initiated as appropriate to the patient‘s clinical status.

@@ -8,7 +8,6 @@ A total of 13,076 patients with type 2 diabetes were included in clinical studie
 In 5 placebo-controlled trials of 18 to 24 weeks duration, 2,971 patients were included of which 995 were treated with placebo and 1,976 with empagliflozin.
 The overall incidence of adverse events in patients treated with empagliflozin was similar to placebo.
 The most frequently reported adverse reaction was hypoglycaemia when used with sulphonylurea or insulin (see description of selected adverse reactions).
-
 Tabulated list of adverse reactions
 
 Adverse reactions classified by system organ class and MedDRA preferred terms reported in patients who received empagliflozin in placebo-controlled studies are presented in the table below (Table 1).
@@ -18,15 +17,16 @@ Frequencies are defined as very common (≥1/10), common (≥1/100 to <1/10), un
 
 Table 1: Adverse reactions reported in placebo-controlled studies
 
-| System organ class | Very common | Common | Uncommon |
-| --- | --- | --- | --- |
-| Infections and infestations |  | Vaginal moniliasis, vulvovaginitis, balanitis and other genital infectiona Urinary tract infectiona |  |
-| Metabolism and nutrition disorders | Hypoglycaemia (when used with sulphonylurea or insulin)a |  |  |
-| Skin and subcutaneous disorders |  | Pruritus (generalised) |  |
-| Vascular disorders |  |  | Volume depletiona |
-| Renal and urinary disorders |  | Increased urinationa | Dysuria |
+| System organ class | Very common | Common | Uncommon | Rare |
+| --- | --- | --- | --- | --- |
+| Infections and infestations |  | Vaginal moniliasis, vulvovaginitis, balanitis and other genital infectiona Urinary tract infectiona |  |  |
+| Metabolism and nutrition disorders | Hypoglycaemia (when used with sulphonylurea or insulin)a |  |  | Diabetic ketoacidosis*, b |
+| Skin and subcutaneous disorders |  | Pruritus (generalised) |  |  |
+| Vascular disorders |  |  | Volume depletiona |  |
+| Renal and urinary disorders |  | Increased urinationa | Dysuria |  |
 
-a see subsections below for additional information
+a see subsections below for additional information b derived from postmarketing experience
+* see section 4.4
 
 Description of selected adverse reactions
 
@@ -36,10 +36,10 @@ The frequency of hypoglycaemia depended on the background therapy in the respect
 Minor hypoglycaemia
 The frequency of patients with minor hypoglycaemia was similar for empagliflozin and placebo as monotherapy, add-on to metformin, and add-on to pioglitazone with or without metformin.
 An increased frequency was noted when given as add-on to metformin and a sulfonylurea (empagliflozin 10 mg: 16.1%, empagliflozin 25 mg: 11.5%, placebo: 8.4%), and as add-on to insulin with or without metformin and with or without a sulphonylurea (empagliflozin 10 mg: 19.5%, empagliflozin 25 mg: 27.1%, placebo: 20.6% during initial 18 weeks treatment when insulin could not be adjusted; empagliflozin 10 mg: 36.1%, empagliflozin 25 mg: 34.8%, placebo 35.3% over the 78-week trial).
+
 Major hypoglycaemia (hypoglycaemia requiring assistance)
 No increase in major hypoglycaemia was observed with empagliflozin compared to placebo as monotherapy, add-on to metformin, add-on to metformin and a sulfonylurea, and add-on to pioglitazone with or without metformin.
 An increased frequency was noted when given as add-on to insulin with or without metformin and with or without a sulfonylurea (empagliflozin 10 mg: 0%, empagliflozin 25 mg: 1.3%, placebo: 0% during initial 18 weeks treatment when insulin could not be adjusted; empagliflozin 10 mg: 0%, empagliflozin 25 mg: 1.3%, placebo 0% over the 78-week trial).
-
 Vaginal moniliasis, vulvovaginitis, balanitis and other genital infection
 Vaginal moniliasis, vulvovaginitis, balanitis and other genital infections were reported more frequently in patients treated with empagliflozin (empagliflozin 10 mg: 4.1%, empagliflozin 25 mg: 3.7%) compared to placebo (0.9%).
 These infections were reported more frequently in females treated with empagliflozin compared to placebo, and the difference in frequency was less pronounced in males.

@@ -26,5 +26,6 @@ Only at maternally toxic doses, empagliflozin also caused bent limb bones in the
 In pre- and postnatal toxicity studies in rats, reduced weight gain of offspring was observed at maternal exposures approximately 4-times the maximal clinical exposure to empagliflozin.
 No such effect was seen at systemic exposure equal to the maximal clinical exposure to empagliflozin.
 The relevance of this finding to humans is unclear.
+
 In a juvenile toxicity study in the rat, when empagliflozin was administered from postnatal day 21 until postnatal day 90, non-adverse, minimal to mild renal tubular and pelvic dilation in juvenile rats was seen only at 100 mg/kg/day, which approximates 11-times the maximum clinical dose of 25 mg.
 These findings were absent after a 13 weeks drug-free recovery period.

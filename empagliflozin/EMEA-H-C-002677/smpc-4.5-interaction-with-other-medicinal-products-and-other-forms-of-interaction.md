@@ -24,6 +24,7 @@ Co-medication with known inducers of UGT enzymes should be avoided due to a pote
 
 An interaction study with gemfibrozil, an in vitro inhibitor of OAT3 and OATP1B1/1B3 transporters, showed that empagliflozin Cmax increased by 15% and AUC increased by 59% following co-administration.
 These changes were not considered to be clinically meaningful.
+
 Inhibition of OATP1B1/1B3 transporters by co-administration with rifampicin resulted in a 75% increase in Cmax and a 35% increase in AUC of empagliflozin.
 These changes were not considered to be clinically meaningful.
 
