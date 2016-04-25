@@ -4,6 +4,7 @@ Clinical studies in patients employed infusion of daptomycin over 30 minutes.
 There is no clinical experience in patients with the administration of daptomycin as an injection over 2 minutes.
 This mode of administration was only studied in healthy subjects.
 However, when compared with the same doses given as intravenous infusions over 30 minutes there were no clinically important differences in the pharmacokinetics and safety profile of daptomycin (see also sections 4.8 and 5.2).
+
 Posology
 
 Adults
@@ -29,22 +30,22 @@ Dose adjustments in patients with renal impairment by indication and creatinine 
 
 | Indication for use | Creatinine clearance | Dose recommendation | Comments |
 | --- | --- | --- | --- |
-| cSSTI without S. aureus bacteraemia | ≥ 30 ml/min | 4 mg/kg once daily | See section 5.1 |
+| cSSTI without S. aureus bacteraemia | ≥30 ml/min | 4 mg/kg once daily | See section 5.1 |
 |  | < 30 ml/min | 4 mg/kg every 48 hours | (1, 2) |
-| RIE or cSSTI associated with S. aureus bacteraemia | ≥ 30 ml/min | 6 mg/kg once daily | See section 5.1 |
+| RIE or cSSTI associated with S. aureus bacteraemia | ≥30 ml/min | 6 mg/kg once daily | See section 5.1 |
 |  | < 30 ml/min | 6 mg/kg every 48 hours | (1, 2) |
 
 (1) The safety and efficacy of the dose interval adjustment have not been evaluated in controlled clinical trials and the recommendation is based on pharmacokinetic studies and modelling results (see sections 4.4 and 5.2).
 
 (2) The same dose adjustments, which are based on pharmacokinetic data in volunteers including PK modelling results, are recommended for patients on haemodialysis (HD) or continuous ambulatory peritoneal dialysis (CAPD).
 Whenever possible, Cubicin should be administered following the completion of dialysis on dialysis days (see section 5.2).
+
 Hepatic impairment
 No dose adjustment is necessary when administering Cubicin to patients with mild or moderate hepatic impairment (Child-Pugh Class B) (see section 5.2).
 No data are available in patients with severe hepatic impairment (Child-Pugh Class C). Therefore caution should be exercised if Cubicin is given to such patients.
 
 Elderly patients
 The recommended doses should be used in elderly patients except those with severe renal impairment (see above and section 4.4).
-
 Paediatric patients (1 to 17 years of age) with complicated skin and soft-tissue infections
 
 The recommended dosage regimens based on age for paediatric patients with cSSTI are shown below.

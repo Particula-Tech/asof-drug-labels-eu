@@ -5,14 +5,14 @@ In clinical studies, 2,011 subjects received Cubicin.
 Within these trials, 1,221 subjects received a daily dose of 4 mg/kg, of whom 1,108 were patients and 113 were healthy volunteers; 460 subjects received a daily dose of 6 mg/kg, of whom 304 were patients and 156 were healthy volunteers.
 Adverse reactions (i.e. considered by the investigator to be possibly, probably, or definitely related to the medicinal product) were reported at similar frequencies for Cubicin and comparator regimens.
 
-The most frequently reported adverse reactions (frequency common (≥ 1/100 to < 1/10)) are:
+The most frequently reported adverse reactions (frequency common (≥1/100 to < 1/10)) are:
 Fungal infections, urinary tract infection, candida infection, anaemia, anxiety, insomnia, dizziness, headache, hypertension, hypotension, gastrointestinal and abdominal pain, nausea, vomiting, constipation, diarrhoea, flatulence, bloating and distension, liver function tests abnormal (increased alanine aminotransferase (ALT), aspartate aminotransferase (AST) or alkaline phosphatase (ALP)), rash, pruritus, limb pain, serum creatine phosphokinase (CPK) increased, infusion site reactions, pyrexia, asthenia.
 
 Less frequently reported, but more serious, adverse reactions include hypersensitivity reactions, eosinophilic pneumonia, drug rash with eosinophilia and systemic symptoms (DRESS), angioedema and rhabdomyolysis.
 
 Tabulated list of adverse reactions
-The following adverse reactions were reported during therapy and during follow-up with frequencies corresponding to very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to
-< 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data):
+The following adverse reactions were reported during therapy and during follow-up with frequencies corresponding to very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to
+< 1/100); rare (≥1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data):
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
@@ -30,15 +30,16 @@ disorders Uncommon: Thrombocythaemia, eosinophilia, international
 normalised ratio (INR) increased
 
 Rare: Prothrombin time (PT) prolonged
+Immune system disorders Not known*: Hypersensitivity**, manifested by isolated
 
-Immune system disorders Not known*: Hypersensitivity**, manifested by isolated spontaneous reports including, but not limited to angioedema, drug rash with eosinophilia and systemic symptoms (DRESS), pulmonary eosinophilia, vesicobullous rash with mucous membrane involvement and sensation of oropharyngeal swelling
+spontaneous reports including, but not limited to angioedema, drug rash with eosinophilia and systemic symptoms (DRESS), pulmonary eosinophilia, vesicobullous rash with mucous membrane involvement and sensation of oropharyngeal swelling
 Not known*: Anaphylaxis**
 Not known*: Infusion reactions including the following symptoms: tachycardia, wheezing, pyrexia, rigors, systemic flushing, vertigo, syncope and metallic taste Metabolism and nutrition Uncommon: Decreased appetite, hyperglycaemia, electrolyte
 
 disorders imbalance
 Psychiatric disorders Common: Anxiety, insomnia
-
 Nervous system disorders Common: Dizziness, headache
+
 Uncommon: Paraesthesia, taste disorder, tremor
 Not known*: Peripheral neuropathy**
 Ear and labyrinth disorders Uncommon: Vertigo
@@ -48,7 +49,10 @@ Vascular disorders Common: Hypertension, hypotension
 
 Uncommon: Flushes
 Respiratory, thoracic and Not known*: Eosinophilic pneumonia1**, cough mediastinal disorders
-Gastrointestinal disorders Common: Gastrointestinal and abdominal pain, nausea, vomiting, constipation, diarrhoea, flatulence, bloating and distension
+
+Gastrointestinal disorders Common: Gastrointestinal and abdominal pain, nausea,
+
+vomiting, constipation, diarrhoea, flatulence, bloating and distension
 Uncommon: Dyspepsia, glossitis
 
 Hepatobiliary disorders Common: Liver function tests abnormal2 (increased alanine
@@ -82,6 +86,7 @@ The majority of transaminase elevations were of Grade 1-3 toxicity and resolved 
 The safety data for the administration of daptomycin via 2-minute intravenous injection are derived from two pharmacokinetic studies in healthy volunteers.
 Based on these study results, both methods of daptomycin administration, the 2-minute intravenous injection and the 30-minute intravenous infusion, had a similar safety and tolerability profile.
 There was no relevant difference in local tolerability or in the nature and frequency of adverse reactions.
+
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.

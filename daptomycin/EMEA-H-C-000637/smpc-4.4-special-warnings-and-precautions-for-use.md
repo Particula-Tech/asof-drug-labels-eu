@@ -2,6 +2,7 @@
 
 General
 If a focus of infection other than cSSTI or RIE is identified after initiation of Cubicin therapy consideration should be given to instituting alternative antibacterial therapy that has been demonstrated to be efficacious in the treatment of the specific type of infection(s) present.
+
 Anaphylaxis/hypersensitivity reactions
 Anaphylaxis/hypersensitivity reactions have been reported with Cubicin.
 If an allergic reaction to Cubicin occurs, discontinue use and institute appropriate therapy.
@@ -34,6 +35,7 @@ If CDAD is suspected or confirmed, Cubicin may need to be discontinued and appro
 
 Drug/laboratory test interactions
 False prolongation of prothrombin time (PT) and elevation of international normalised ratio (INR) have been observed when certain recombinant thromboplastin reagents are utilised for the assay (see also section 4.5).
+
 Creatine phosphokinase and myopathy
 Increases in plasma creatine phosphokinase (CPK; MM isoenzyme) levels associated with muscular pains and/or weakness and cases of myositis, myoglobinaemia and rhabdomyolysis have been reported during therapy with Cubicin (see also sections 4.5, 4.8 and 5.3).
 In clinical studies, marked increases in plasma CPK to > 5x Upper Limit of Normal (ULN) without muscle symptoms occurred more commonly in Cubicin-treated patients (1.9%) than in those that received comparators (0.5%).
@@ -62,6 +64,7 @@ The majority of cases occurred after more than 2 weeks of treatment with Cubicin
 Recurrence of eosinophilic pneumonia upon re-exposure has been reported.
 Patients who develop these signs and symptoms while receiving Cubicin should undergo prompt medical evaluation, including, if appropriate, bronchoalveolar lavage, to exclude other causes (e.g. bacterial infection, fungal infection, parasites, other medicinal products).
 Cubicin should be discontinued immediately and treatment with systemic steroids should be initiated when appropriate.
+
 Renal impairment
 Renal impairment has been reported during treatment with Cubicin.
 Severe renal impairment may in itself also pre-dispose to elevations in daptomycin levels which may increase the risk of development of myopathy (see above).
@@ -77,6 +80,6 @@ Regular monitoring of renal function is advised (see also section 5.2).
 In addition, regular monitoring of renal function is advised during concomitant administration of potentially nephrotoxic agents, regardless of the patient’s pre-existing renal function (see also section 4.5).
 
 Obesity
-In obese subjects with Body Mass Index (BMI) > 40 kg/m2 but with creatinine clearance > 70 ml/min, the AUC0-∞ daptomycin was significantly increased (mean 42% higher) compared with non-obese matched controls.
+In obese subjects with Body Mass Index (BMI) > 40 kg/m2 but with creatinine clearance > 70 ml/min, the AUC0-∞daptomycin was significantly increased (mean 42% higher) compared with non-obese matched controls.
 There is limited information on the safety and efficacy of daptomycin in the very obese and so caution is recommended.
 However, there is currently no evidence that a dose reduction is required (see section 5.2).

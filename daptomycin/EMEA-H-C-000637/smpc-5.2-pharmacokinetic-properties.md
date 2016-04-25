@@ -33,10 +33,11 @@ Following intravenous administration, plasma clearance of daptomycin is approxim
 
 In a mass balance study using radiolabelled material, 78% of the administered dose was recovered from the urine based on total radioactivity, whilst urinary recovery of unchanged daptomycin was approximately 50% of the dose.
 About 5% of the administered radiolabel was excreted in the faeces.
+
 Special populations
 
 Elderly
-Following administration of a single 4 mg/kg intravenous dose of Cubicin over a 30-minute period, the mean total clearance of daptomycin was approximately 35% lower and the mean AUC0-∞ was approximately 58% higher in elderly subjects (≥ 75 years of age) compared with those in healthy young subjects (18 to 30 years of age).
+Following administration of a single 4 mg/kg intravenous dose of Cubicin over a 30-minute period, the mean total clearance of daptomycin was approximately 35% lower and the mean AUC0-∞was approximately 58% higher in elderly subjects (≥75 years of age) compared with those in healthy young subjects (18 to 30 years of age).
 There were no differences in Cmax.
 The differences noted are most likely due to the normal reduction in renal function observed in the geriatric population.
 
@@ -72,13 +73,13 @@ However, no dose adjustment is considered to be necessary based on obesity alone
 
 Gender
 No clinically significant gender-related differences in daptomycin pharmacokinetics have been observed.
+
 Renal impairment
 Following administration of a single 4 mg/kg or 6 mg/kg intravenous dose of daptomycin over a 30-minute period to subjects with various degrees of renal impairment, total daptomycin clearance (CL) decreased and systemic exposure (AUC) increased as renal function (creatinine clearance) decreased.
 
 Based on pharmacokinetic data and modelling, the daptomycin AUC during the first day after administration of a 6 mg/kg dose to patients on HD or CAPD was 2-fold higher than that observed in patients with normal renal function who received the same dose.
 On the second day after administration of a 6 mg/kg dose to HD and CAPD patients the daptomcyin AUC was approximately 1.3-fold higher than that observed after a second 6 mg/kg dose in patients with normal renal function.
 On this basis, it is recommended that patients on HD or CAPD receive daptomycin once every 48 hours at the dose recommended for the type of infection being treated (see section 4.2).
-
 Hepatic impairment
 The pharmacokinetics of daptomycin is not altered in subjects with moderate hepatic impairment (Child-Pugh B classification of hepatic impairment) compared with healthy volunteers matched for gender, age and weight following a single 4 mg/kg dose.
 No dosage adjustment is necessary when administering daptomycin in patients with moderate hepatic impairment.

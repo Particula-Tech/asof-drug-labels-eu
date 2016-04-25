@@ -19,11 +19,12 @@ In particular, there have been reports of treatment failures in patients infecte
 The mechanism(s) of daptomycin resistance is (are) not fully understood.
 
 Breakpoints
-Minimum inhibitory concentration (MIC) breakpoint established by the European Committee on Antimicrobial Susceptibility Testing (EUCAST) for Staphylococci and Streptococci (except S. pneumoniae) are Susceptible ≤ 1 mg/l and Resistant > 1 mg/l.
+Minimum inhibitory concentration (MIC) breakpoint established by the European Committee on Antimicrobial Susceptibility Testing (EUCAST) for Staphylococci and Streptococci (except S. pneumoniae) are Susceptible ≤1 mg/l and Resistant > 1 mg/l.
 
 Susceptibility
 The prevalence of resistance may vary geographically and over time for selected species and local information on resistance is desirable, particularly when treating severe infections.
 As necessary, expert advice should be sought when the local prevalence of resistance is such that the utility of the agent in at least some types of infections is questionable.
+
 Commonly Susceptible Species
 Staphylococcus aureus *
 Staphylococcus haemolyticus
@@ -58,6 +59,7 @@ The success rates in RIE patients are shown in the table below.
 Failure of treatment due to persisting or relapsing Staphylococcus aureus infections was observed in 19/120 (15.8%) patients treated with Cubicin, 9/53 (16.7%) patients treated with vancomycin and 2/62 (3.2%) patients treated with an anti-staphylococcal semi-synthetic penicillin.
 Among these failures six patients treated with Cubicin and one patient treated with vancomycin were infected with Staphylococcus aureus that developed increasing MICs of daptomycin on or following therapy (see “Mechanisms of resistance” above).
 Most patients who failed due to persisting or relapsing Staphylococcus aureus infection had deep-seated infection and did not receive necessary surgical intervention.
+
 The safety and efficacy of daptomycin was evaluated in paediatric patients aged 1 to 17 years (Study DAP-PEDS-07-03) with cSSTI caused by Gram positive pathogens.
 Patients were enrolled in a stepwise approach into well-defined age groups and given age-dependent doses once daily for up to 14 days, as follows:
 
