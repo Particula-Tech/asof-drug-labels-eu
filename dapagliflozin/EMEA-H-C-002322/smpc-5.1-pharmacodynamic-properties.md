@@ -19,11 +19,11 @@ Urinary glucose excretion (glucuresis) induced by dapagliflozin is associated wi
 Inhibition of glucose and sodium co-transport by dapagliflozin is also associated with mild diuresis and transient natriuresis.
 
 Dapagliflozin does not inhibit other glucose transporters important for glucose transport into peripheral tissues and is > 1,400 times more selective for SGLT2 versus SGLT1, the major transporter in the gut responsible for glucose absorption.
-
 Pharmacodynamic effects
 Increases in the amount of glucose excreted in the urine were observed in healthy subjects and in subjects with type 2 diabetes mellitus following the administration of dapagliflozin.
 Approximately 70 g of glucose was excreted in the urine per day (corresponding to 280 kcal/day) at a dapagliflozin dose of 10 mg/day in subjects with type 2 diabetes mellitus for 12 weeks.
 Evidence of sustained glucose excretion was seen in subjects with type 2 diabetes mellitus given dapagliflozin 10 mg/day for up to 2 years.
+
 This urinary glucose excretion with dapagliflozin also results in osmotic diuresis and increases in urinary volume in subjects with type 2 diabetes mellitus.
 Urinary volume increases in subjects with type 2 diabetes mellitus treated with dapagliflozin 10 mg were sustained at 12 weeks and amounted to approximately 375 ml/day.
 The increase in urinary volume was associated with a small and transient increase in urinary sodium excretion that was not associated with changes in serum sodium concentrations.
@@ -49,14 +49,32 @@ In the extension period, HbA1c reductions were sustained through Week 102 (-0.61
 
 Table 2.
 Results at Week 24 (LOCFa) of a placebo-controlled study of dapagliflozin as monotherapy
+Monotherapy
 
-|  | Monotherapy |  |
-| --- | --- | --- |
-|  | Dapagliflozin 10 mg | Placebo |
-| Nb | 70 | 75 |
-| HbA1c (%) Baseline (mean) Change from baselinec Difference from placeboc (95% CI) | 8.01 -0.89 -0.66* (-0.96, -0.36) | 7.79 -0.23 |
-| Subjects (%) achieving: HbA1c < 7% Adjusted for baseline | 50.8§ | 31.6 |
-| Body weight (kg) Baseline (mean) Change from baselinec Difference from placeboc (95% CI) | 94.13 -3.16 -0.97 (-2.20, 0.25) | 88.77 -2.19 |
+Dapagliflozin Placebo
+
+10 mg
+
+Nb 70 75
+
+HbA1c (%)
+
+Baseline (mean) 8.01 7.79
+Change from baselinec -0.89 -0.23
+Difference from placeboc -0.66*
+(95% CI) (-0.96, -0.36)
+
+Subjects (%) achieving:
+HbA1c < 7%
+
+Adjusted for baseline 50.8§ 31.6
+
+Body weight (kg)
+
+Baseline (mean) 94.13 88.77
+Change from baselinec -3.16 -2.19
+Difference from placeboc -0.97
+(95% CI) (-2.20, 0.25)
 
 aLOCF: Last observation (prior to rescue for rescued subjects) carried forward bAll randomised subjects who took at least one dose of double-blind study medication during the short-term double-blind period cLeast squares mean adjusted for baseline value
 *p-value < 0.0001 versus placebo
@@ -105,6 +123,7 @@ At Week 104 for insulin (with or without additional oral glucose-lowering medici
 At Weeks 48 and 104, the insulin dose remained stable compared to baseline in subjects treated with dapagliflozin 10 mg at an average dose of 76 IU/day.
 In the placebo group there was a mean increase of 10.5 IU/day and 18.3 IU/day from baseline (mean average dose of 84 and 92 IU/day) at Weeks 48 and 104, respectively.
 The proportion of subjects remaining in the study at Week 104 was 72.4% for the group treated with dapagliflozin 10 mg and 54.8% for the placebo group.
+
 Table 4.
 Results of 24-week (LOCFa) placebo-controlled studies of dapagliflozin in add-on combination with metformin or sitagliptin (with or without metformin)
 Add-on combination
@@ -113,16 +132,41 @@ Metformin1 DPP-4 Inhibitor
 
 (sitagliptin2) ± Metformin1
 
-|  | Dapagliflozin 10 mg | Placebo | Dapagliflozin 10 mg | Placebo |
-| --- | --- | --- | --- | --- |
-| Nb | 135 | 137 | 223 | 224 |
-| HbA1c (%) Baseline (mean) Change from baselinec Difference from placeboc (95% CI) | 7.92 | 8.11 | 7.90 | 7.97 |
-|  | -0.84 | -0.30 | -0.45 | 0.04 |
-|  | -0.54* (-0.74, -0.34) |  | -0.48* (-0.62, -0.34) |  |
-| Subjects (%) achieving: HbA1c < 7% Adjusted for baseline | 40.6** | 25.9 |  |  |
-| Body weight (kg) Baseline (mean) Change from baselinec Difference from placeboc (95% CI) | 86.28 | 87.74 | 91.02 | 89.23 |
-|  | -2.86 | -0.89 | -2.14 | -0.26 |
-|  | -1.97* (-2.63, -1.31) |  | -1.89* (-2.37, -1.40) |  |
+Dapagliflozin Placebo Dapagliflozin Placebo
+10 mg 10 mg
+Nb 135 137 223 224
+
+HbA1c (%)
+
+Baseline (mean) 7.92 8.11 7.90 7.97
+
+Change from
+
+baselinec -0.84 -0.30 -0.45 0.04
+
+Difference from
+
+placeboc -0.54* -0.48*
+(95% CI) (-0.74, -0.34) (-0.62, -0.34)
+
+Subjects (%) achieving:
+HbA1c < 7%
+Adjusted for baseline
+
+40.6** 25.9
+
+Body weight (kg)
+
+Baseline (mean) 86.28 87.74 91.02 89.23
+
+Change from
+
+baselinec -2.86 -0.89 -2.14 -0.26
+
+Difference from
+
+placeboc -1.97* -1.89*
+(95% CI) (-2.63, -1.31) (-2.37, -1.40)
 
 1Metformin ≥ 1500 mg/day; 2sitagliptin 100 mg/day aLOCF: Last observation (prior to rescue for rescued subjects) carried forward bAll randomised subjects who took at least one dose of double-blind study medicinal product during the short-term double-blind period cLeast squares mean adjusted for baseline value
 *p-value < 0.0001 versus placebo + oral glucose-lowering medicinal product
@@ -133,19 +177,28 @@ Add-on combination
 
 Sulphonylurea Sulphonylurea
 (glimepiride1) + Metformin2
+Dapagliflozin Placebo Dapagliflozin Placebo
+10 mg 10 mg
+Na 151 145 108 108
 
-|  | Dapagliflozin 10 mg | Placebo |
-| --- | --- | --- |
-| Na | 151 | 145 |
-| HbA1c (%)b Baseline (mean) Change from Baselinec Difference from Placeboc (95% CI) | 8.07 -0.82 -0.68* (-0.86, -0.51) | 8.15 -0.13 |
-| Subjects (%) achieving: HbA1c < 7% (LOCF)d Adjusted for baseline | 31.7* | 13.0 |
+HbA1c (%)b
+
+Baseline (mean) 8.07 8.15 8.08 8.24
+Change from baselinec -0.82 -0.13 -0.86 -0.17
+Difference from placeboc -0.68* −0.69*
+(95% CI) (-0.86, -0.51) (−0.89, −0.49)
+
+Subjects (%) achieving:
+HbA1c < 7% (LOCF)d
+
+Adjusted for baseline 31.7* 13.0 31.8* 11.1
 
 Body weight (kg)
 (LOCF)d
 
 Baseline (mean) 80.56 80.94 88.57 90.07
-Change from Baselinec -2.26 -0.72 -2.65 -0.58
-Difference from Placeboc -1.54* −2.07*
+Change from baselinec -2.26 -0.72 -2.65 -0.58
+Difference from placeboc -1.54* −2.07*
 (95% CI) (-2.17, -0.92) (−2.79, −1.35)
 
 1glimepiride 4 mg/day; 2Metformin (immediate- or extended-release formulations) ≥1500 mg/day plus maximum tolerated dose, which must be at least half maximum dose, of a sulphonylurea for at least 8 weeks prior to enrollment. aRandomized and treated patients with baseline and at least 1 post-baseline efficacy measurement.
@@ -154,13 +207,37 @@ bColumns 1 and 2, HbA1c analyzed using LOCF (see footnote d); Columns 3 and 4, H
 Table 6.
 Results at Week 24 (LOCFa) in a placebo-controlled study of dapagliflozin in combination with insulin (alone or with oral glucose-lowering medicinal products)
 
-| Parameter | Dapagliflozin 10 mg + insulin ± oral glucose-lowering medicinal products2 | Placebo + insulin ± oral glucose-lowering medicinal products2 |
-| --- | --- | --- |
-| Nb | 194 | 193 |
-| HbA1c (%) Baseline (mean) Change from baselinec Difference from placeboc (95% CI) | 8.58 -0.90 -0.60* (-0.74, -0.45) | 8.46 -0.30 |
-| Body weight (kg) Baseline (mean) Change from baselinec Difference from placeboc (95% CI) | 94.63 -1.67 -1.68* (-2.19, -1.18) | 94.21 0.02 |
-| Mean daily insulin dose (IU)1 Baseline (mean) Change from baselinec Difference from placeboc (95% CI) Subjects with mean daily | 77.96 -1.16 -6.23* (-8.84, -3.63) | 73.96 5.08 |
-| insulin dose reduction of at least 10% (%) | 19.7** | 11.0 |
+Dapagliflozin 10 mg Placebo
++ insulin + insulin
+± oral glucose-lowering ± oral glucose-lowering
+Parameter medicinal products2 medicinal products2
+Nb 194 193
+
+HbA1c (%)
+
+Baseline (mean) 8.58 8.46
+Change from baselinec -0.90 -0.30
+Difference from placeboc -0.60*
+(95% CI) (-0.74, -0.45)
+
+Body weight (kg)
+
+Baseline (mean) 94.63 94.21
+Change from baselinec -1.67 0.02
+Difference from placeboc -1.68*
+(95% CI) (-2.19, -1.18)
+
+Mean daily insulin dose
+(IU)1
+
+Baseline (mean) 77.96 73.96
+Change from baselinec -1.16 5.08
+Difference from placeboc -6.23*
+(95% CI) (-8.84, -3.63)
+
+Subjects with mean daily insulin dose reduction of
+
+at least 10% (%) 19.7** 11.0
 
 aLOCF: Last observation (prior to or on the date of the first insulin up-titration, if needed) carried forward bAll randomised subjects who took at least one dose of double-blind study medicinal product during the short-term double-blind period cLeast squares mean adjusted for baseline value and presence of oral glucose-lowering medicinal product
 *p-value < 0.0001 versus placebo + insulin ± oral glucose-lowering medicinal product
@@ -214,13 +291,3 @@ In a pre-specified analysis of subjects with baseline HbA1c ≥ 9.0%, treatment 
 
 Paediatric population
 The European Medicines Agency has deferred the obligation to submit the results of studies with dapagliflozin in one or more subsets of the paediatric population in the treatment of type 2 diabetes (see section 4.2 for information on paediatric use).
-
-[Forxiga 10 mg film-coated tablets]
-
-| Parameter | Dapagliflozin 10 mg + insulin ± oral glucose-lowering medicinal products2 | Placebo + insulin ± oral glucose-lowering medicinal products2 |
-| --- | --- | --- |
-| Nb | 194 | 193 |
-| HbA1c (%) Baseline (mean) Change from baselinec Difference from placeboc (95% CI) | 8.58 -0.90 -0.60* (-0.74, -0.45) | 8.46 -0.30 |
-| Body weight (kg) Baseline (mean) Change from baselinec Difference from placeboc (95% CI) | 94.63 -1.67 -1.68* (-2.19, -1.18) | 94.21 0.02 |
-| Mean daily insulin dose (IU)1 Baseline (mean) Change from baselinec Difference from placeboc (95% CI) Subjects with mean daily insulin dose reduction of at least 10% (%) | 77.96 -1.16 -6.23* (-8.84, -3.63) | 73.96 5.08 |
-|  | 19.7** | 11.0 |

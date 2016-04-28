@@ -30,6 +30,19 @@ Caution should be exercised in patients for whom a dapagliflozin-induced drop in
 For patients receiving dapagliflozin, in case of intercurrent conditions that may lead to volume depletion, careful monitoring of volume status (e.g. physical examination, blood pressure measurements, laboratory tests including haematocrit) and electrolytes is recommended.
 Temporary interruption of treatment with dapagliflozin is recommended for patients who develop volume depletion until the depletion is corrected (see section 4.8).
 
+Diabetic ketoacidosis
+Rare cases of diabetic ketoacidosis (DKA) have been reported from clinical trials in patients with type 2 diabetes treated with SGLT2 inhibitors, including dapagliflozin.
+In a number of postmarketing case reports in patients with type 1 and type 2 diabetes, the presentation of the condition was atypical with only moderately increased blood glucose values, below 14 mmol/L (250 mg/dL).
+The risk of DKA must be considered in the event of non-specific symptoms such as nausea, vomiting, abdominal pain, difficulty breathing, unusual fatigue or sleepiness.
+Patients should be assessed for DKA immediately if these symptoms occur, regardless of blood glucose level.
+Discontinuation or temporary interruption of SGLT2 inhibitor therapy should be considered, until the situation is clarified.
+
+Patients who may be at higher risk of DKA while taking SGLT2 inhibitors include patients with a low beta-cell function reserve resulting from pancreatic disorders (e.g. type 1 diabetes, history of ancreatitis or pancreatic surgery), with conditions that lead to restricted food intake, or with increased insulin requirements due to infections, illness, surgery or alcohol abuse.
+SGLT2 inhibitors should be used with caution in these patients.
+When reducing insulin dose in patients that require insulin, caution should be taken.
+The safety and efficacy of Forxiga in patients with type 1 diabetes have not been established and Forxiga is not approved for treatment of these patients.
+Forxiga should not be used for treatment of patients with type 1 diabetes.
+
 Urinary tract infections
 Urinary tract infections were more frequently reported for dapagliflozin 10 mg compared to placebo in a pooled analysis up to 24 weeks (see section 4.8).
 Pyelonephritis was uncommon and occurred at a similar frequency to control.
@@ -50,6 +63,7 @@ Initiation of dapagliflozin therapy in this population is not recommended (see s
 
 Cardiac failure
 Experience in NYHA class I-II is limited, and there is no experience in clinical studies with dapagliflozin in NYHA class III-IV.
+
 Use in patients treated with pioglitazone
 While a causal relationship between dapagliflozin and bladder cancer is unlikely (see sections 4.8 and 5.3), as a precautionary measure, dapagliflozin is not recommended for use in patients concomitantly treated with pioglitazone.
 Available epidemiological data for pioglitazone suggest a small increased risk of bladder cancer in diabetic patients treated with pioglitazone.

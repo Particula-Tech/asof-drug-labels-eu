@@ -6,6 +6,7 @@ In a pre-specified pooled analysis of 13 placebo-controlled studies, 2,360 subje
 The most frequently reported adverse reaction was hypoglycaemia, which depended on the type of background therapy used in each study.
 The frequency of minor episodes of hypoglycaemia was similar between treatment groups, including placebo, with the exceptions of studies with add-on sulphonylurea (SU) and add-on insulin therapies.
 Combination therapies with sulphonylurea and add-on insulin had higher rates of hypoglycaemia (see Hypoglycaemia below).
+
 Tabulated list of adverse reactions
 The following adverse reactions have been identified in the placebo-controlled clinical trials.
 None were found to be dose-related.
@@ -37,6 +38,7 @@ hMean percent change from baseline for dapagliflozin 10 mg versus placebo, respe
 *Reported in ≥ 2% of subjects and ≥ 1% more and at least 3 more subjects treated with dapagliflozin 10 mg compared to placebo.
 **Reported by the investigator as possibly related, probably related or related to study treatment and reported in
 ≥ 0.2% of subjects and ≥ 0.1% more and at least 3 more subjects treated with dapagliflozin 10 mg compared to placebo.
+
 Description of selected adverse reactions
 Hypoglycaemia
 The frequency of hypoglycaemia depended on the type of background therapy used in each study.
@@ -55,11 +57,11 @@ Minor episodes of hypoglycaemia were reported in 12.8% of subjects who received 
 
 Volume depletion
 Reactions related to volume depletion (including, reports of dehydration, hypovolaemia or hypotension) were reported in 1.1% and 0.7% of subjects who received dapagliflozin 10 mg and placebo, respectively; serious reactions occurred in < 0.2% of subjects balanced between dapagliflozin 10 mg and placebo (see section 4.4).
-
 Vulvovaginitis, balanitis and related genital infections
 Vulvovaginitis, balanitis and related genital infections were reported in 5.5% and 0.6% of subjects who received dapagliflozin 10 mg and placebo, respectively.
 Most infections were mild to moderate, and subjects responded to an initial course of standard treatment and rarely resulted in discontinuation from dapagliflozin treatment.
 These infections were more frequent in females (8.4% and 1.2% for dapagliflozin and placebo, respectively), and subjects with a prior history were more likely to have a recurrent infection.
+
 Urinary tract infections
 Urinary tract infections were more frequently reported for dapagliflozin 10 mg compared to placebo (4.7% versus 3.5%, respectively; see section 4.4).
 Most infections were mild to moderate, and subjects responded to an initial course of standard treatment and rarely resulted in discontinuation from dapagliflozin treatment.
@@ -91,7 +93,6 @@ In subjects ≥ 65 years of age, adverse reactions related to renal impairment o
 The most commonly reported adverse reaction related to renal function was increased serum creatinine.
 The majority of these reactions were transient and reversible.
 In subjects ≥ 65 years of age, adverse reactions of volume depletion, most commonly reported as hypotension, were reported in 1.7% and 0.8% of dapagliflozin-treated subjects and placebo-treated subjects, respectively (see section 4.4).
-
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
