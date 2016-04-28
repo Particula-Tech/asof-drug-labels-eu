@@ -17,7 +17,7 @@ No dosage adjustment is necessary for patients with mild or moderate hepatic imp
 In patients with severe hepatic impairment, a starting dose of 5 mg is recommended.
 If well tolerated, the dose may be increased to 10 mg (see sections 4.4 and 5.2).
 
-Elderly (≥ 65 years)
+Elderly (≥65 years)
 In general, no dosage adjustment is recommended based on age.
 Renal function and risk of volume depletion should be taken into account (see sections 4.4 and 5.2).
 Due to the limited therapeutic experience in patients 75 years and older, initiation of dapagliflozin therapy is not recommended.

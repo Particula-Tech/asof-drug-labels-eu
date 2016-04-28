@@ -39,7 +39,7 @@ In subjects with mild or moderate hepatic impairment (Child-Pugh classes A and B
 These differences were not considered to be clinically meaningful.
 In subjects with severe hepatic impairment (Child-Pugh class C) mean Cmax and AUC of dapagliflozin were 40% and 67% higher than matched healthy controls, respectively.
 
-Elderly patients (≥ 65 years)
+Elderly patients (≥65 years)
 There is no clinically meaningful increase in exposure based on age alone in subjects up to 70 years old.
 However, an increased exposure due to age-related decrease in renal function can be expected.
 There are insufficient data to draw conclusions regarding exposure in patients

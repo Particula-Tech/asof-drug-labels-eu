@@ -31,17 +31,27 @@ For patients receiving dapagliflozin, in case of intercurrent conditions that ma
 Temporary interruption of treatment with dapagliflozin is recommended for patients who develop volume depletion until the depletion is corrected (see section 4.8).
 
 Diabetic ketoacidosis
-Rare cases of diabetic ketoacidosis (DKA) have been reported from clinical trials in patients with type 2 diabetes treated with SGLT2 inhibitors, including dapagliflozin.
-In a number of postmarketing case reports in patients with type 1 and type 2 diabetes, the presentation of the condition was atypical with only moderately increased blood glucose values, below 14 mmol/L (250 mg/dL).
-The risk of DKA must be considered in the event of non-specific symptoms such as nausea, vomiting, abdominal pain, difficulty breathing, unusual fatigue or sleepiness.
-Patients should be assessed for DKA immediately if these symptoms occur, regardless of blood glucose level.
-Discontinuation or temporary interruption of SGLT2 inhibitor therapy should be considered, until the situation is clarified.
+Rare cases of diabetic ketoacidosis (DKA), including life-threatening cases, have been reported in clinical trials and post-marketing in patients treated with SGLT2 inhibitors, including dapagliflozin.
+In a number of cases, the presentation of the condition was atypical with only moderately increased blood glucose values, below 14 mmol/l (250 mg/dl).
+It is not known if DKA is more likely to occur with higher doses of dapagliflozin.
 
-Patients who may be at higher risk of DKA while taking SGLT2 inhibitors include patients with a low beta-cell function reserve resulting from pancreatic disorders (e.g. type 1 diabetes, history of ancreatitis or pancreatic surgery), with conditions that lead to restricted food intake, or with increased insulin requirements due to infections, illness, surgery or alcohol abuse.
+The risk of diabetic ketoacidosis must be considered in the event of non-specific symptoms such as nausea, vomiting, anorexia, abdominal pain, excessive thirst, difficulty breathing, confusion, unusual fatigue or sleepiness.
+Patients should be assessed for ketoacidosis immediately if these symptoms occur, regardless of blood glucose level.
+
+In patients where DKA is suspected or diagnosed, treatment with dapagliflozin should be discontinued immediately.
+
+Treatment should be interrupted in patients who are hospitalised for major surgical procedures or acute serious medical illnesses.
+In both cases, treatment with dapagliflozin may be restarted once the patient’s condition has stabilised.
+
+Before initiating dapagliflozin, factors in the patient history that may predispose to ketoacidosis should be considered.
+
+Patients who may be at higher risk of DKA include patients with a low beta-cell function reserve (e.g. type 2 diabetes patients with low C-peptide or latent autoimmune diabetes in adults (LADA) or patients with a history of pancreatitis), patients with conditions that lead to restricted food intake or severe dehydration, patients for whom insulin doses are reduced and patients with increased insulin requirements due to acute medical illness, surgery or alcohol abuse.
 SGLT2 inhibitors should be used with caution in these patients.
-When reducing insulin dose in patients that require insulin, caution should be taken.
-The safety and efficacy of Forxiga in patients with type 1 diabetes have not been established and Forxiga is not approved for treatment of these patients.
-Forxiga should not be used for treatment of patients with type 1 diabetes.
+
+Restarting SGLT2 inhibitor treatment in patients with previous DKA while on SGLT2 inhibitor treatment is not recommended, unless another clear precipitating factor is identified and resolved.
+
+The safety and efficacy of dapagliflozin in patients with type 1 diabetes have not been established and dapagliflozin should not be used for treatment of patients with type 1 diabetes.
+Limited data from clinical trials suggest that DKA occurs with common frequency when patients with type 1 diabetes are treated with SGLT2 inhibitors.
 
 Urinary tract infections
 Urinary tract infections were more frequently reported for dapagliflozin 10 mg compared to placebo in a pooled analysis up to 24 weeks (see section 4.8).
@@ -52,11 +62,11 @@ Elderly patients
 Elderly patients are more likely to have impaired renal function, and/or to be treated with anti-hypertensive medicinal products that may cause changes in renal function such as angiotensin-converting enzyme inhibitors (ACE-I) and angiotensin II type 1 receptor blockers (ARB).
 The same recommendations for renal function apply to elderly patients as to all patients (see sections 4.2, 4.4, 4.8 and 5.1).
 
-In subjects ≥ 65 years of age, a higher proportion of subjects treated with dapagliflozin had adverse reactions related to renal impairment or failure compared with placebo.
+In subjects ≥65 years of age, a higher proportion of subjects treated with dapagliflozin had adverse reactions related to renal impairment or failure compared with placebo.
 The most commonly reported adverse reaction related to renal function was serum creatinine increases, the majority of which were transient and reversible (see section 4.8).
 
 Elderly patients may be at a greater risk for volume depletion and are more likely to be treated with diuretics.
-In subjects ≥ 65 years of age, a higher proportion of subjects treated with dapagliflozin had adverse reactions related to volume depletion (see section 4.8).
+In subjects ≥65 years of age, a higher proportion of subjects treated with dapagliflozin had adverse reactions related to volume depletion (see section 4.8).
 
 Therapeutic experience in patients 75 years and older is limited.
 Initiation of dapagliflozin therapy in this population is not recommended (see sections 4.2 and 5.2).
