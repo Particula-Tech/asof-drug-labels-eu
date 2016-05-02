@@ -8,6 +8,7 @@ Two pack sizes are available for Norvir oral solution:
 - Multipack containing 450 ml (5 bottles of 90 ml) oral solution plus five 7.5 ml dosing syringes.
 
 The 7.5 ml dosing syringe has graduations from 0.8 ml to 7.5 ml.
+
 Not all pack sizes may be marketed.
 
 [Norvir 100 mg powder for oral suspension]
@@ -15,13 +16,6 @@ Not all pack sizes may be marketed.
 Polyethylene/aluminium/polyethylene terephthalate foil sachet.
 30 sachets per carton.
 Packaged with a mixing cup and two 10 mL calibrated oral dosing syringes.
-
-[Norvir 100 mg soft capsules]
-
-Norvir soft capsules are supplied in white high density polyethylene (HDPE) bottles closed with polypropylene caps containing 84 capsules.
-Two pack sizes are available for Norvir soft capsules:
-− 1 bottle of 84 capsules (84 capsules)
-− Multipack containing 336 (4 bottles of 84) soft capsules
 
 [Norvir 100 mg film-coated tablets]
 

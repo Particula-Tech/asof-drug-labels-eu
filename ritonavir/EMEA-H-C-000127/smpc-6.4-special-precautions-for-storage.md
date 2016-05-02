@@ -10,13 +10,6 @@ Keep the bottle tightly closed.
 
 Store below 30°C.
 
-[Norvir 100 mg soft capsules]
-
-Store in a refrigerator (2ºC - 8ºC) until they are dispensed to the patient.
-Refrigeration by the patient is not required if used within 30 days and stored below 25°C.
-
-Avoid exposure to freezing and excessive heat.
-
 [Norvir 100 mg film-coated tablets]
 
 This medicinal product does not require any special temperature storage conditions.

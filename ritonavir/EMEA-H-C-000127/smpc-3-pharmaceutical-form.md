@@ -10,12 +10,6 @@ Powder for oral suspension.
 
 Beige/pale yellow to yellow powder.
 
-[Norvir 100 mg soft capsules]
-
-Soft capsule.
-
-The capsule is white with “Abbott A” and the code “DS100” imprinted on the shell in black ink.
-
 [Norvir 100 mg film-coated tablets]
 
 Film-coated tablet.

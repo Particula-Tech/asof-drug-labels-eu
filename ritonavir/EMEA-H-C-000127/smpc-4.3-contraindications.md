@@ -3,7 +3,6 @@
 Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
 
 When ritonavir is used as a pharmacokinetic enhancer of other PIs, consult the Summary of Product Characteristics of the co-administered protease inhibitor for contraindications.
-
 Ritonavir should not be given as a pharmacokinetic enhancer or as an antiretroviral agent to patients with decompensated liver disease.
 
 In vitro and in vivo studies have demonstrated that ritonavir is a potent inhibitor of CYP3A- and CYP2D6- mediated biotransformations.
@@ -28,10 +27,11 @@ propoxyphne piroxicam and propoxyphene. Thereby,
 
 increasing the risk of serious respiratory depression or haematologic abnormalities, or other serious adverse effects from these agents.
 
-Antiarrthymics Amiodarone, bepridil, Increased plasma concentrations of amiodarone,
+Antiarrhythmics Amiodarone, bepridil, Increased plasma concentrations of amiodarone,
+dronedarone, bepridil, dronedarone, encainide, flecainide,
 
-encainide, flecainide, bepridil, encainide, flecainide, propafenone, propafenone, quinidine quinidine.
-Thereby, increasing the risk of arrhythmias or other serious adverse reactions from these agents.
+encainide, flecainide, propafenone, quinidine.
+Thereby, increasing the propafenone, quinidine risk of arrhythmias or other serious adverse reactions from these agents.
 
 Antibiotic Fusidic Acid Increased plasma concentrations of fusidic acid
 
@@ -41,14 +41,18 @@ Antifungal Voriconazole Concomitant use of ritonavir (400 mg twice daily
 
 and more) and voriconazole is contraindicated due to a reduction in voriconazole plasma concentrations and possible loss of effect (see section 4.5).
 
+Anti-gout Colchicine Potential for serious and/or life-threatening
+
+reactions in patients with renal and/or hepatic impairment (see sections 4.4 and 4.5).
+
 Antihistamines Astemizole, Increased plasma concentrations of astemizole
 terfenadine and terfenadine. Thereby, increasing the risk of
 
 serious arrhythmias from these agents.
 
-Antimycobacterial Rifabutin Concomitant use of ritonavir dosed as an
+Antimycobacterial Rifabutin Concomitant use of ritonavir (500 mg twice
 
-antiretroviral agent (600 mg twice daily) and rifabutin due to an increase of rifabutin serum concentrations and risk of adverse events including uveitis (see section 4.4).
+daily) dosed as an antiretroviral agent and rifabutin due to an increase of rifabutin serum concentrations and risk of adverse events including uveitis (see section 4.4).
 Recommendations regarding use of ritonavir dosed as a pharmacokinetic enhancer with rifabutin are noted in section 4.5.
 
 Antipsychotics/ Clozapine, pimozide Increased plasma concentrations of clozapine and
@@ -59,7 +63,7 @@ haematologic abnormalities, or other serious adverse effects from these agents.
 Quetiapine Increased plasma concentrations of quetiapine
 
 which may lead to coma.
-The concomitant administration with quetiapine is contraindicated (see section .45).
+The concomitant administration with quetiapine is contraindicated (see section 4.5).
 
 Ergot Derivatives Dihydroergotamine, Increased plasma concentrations of ergot
 ergonovine, derivatives leading to acute ergot toxicity,
@@ -108,20 +112,16 @@ Herbal Preparation St. John’s wort Herbal preparations containing St John’s 
 
 For some products, contraindications may be more relevant when ritonavir is used as an antiretroviral agent than when ritonavir is used as a pharmacokinetic enhancer (eg rifabutin and voriconazole):
 
-encainide, flecanide, bepridil, encainide, flecanide, propafenone, propafenone, quinidine quinidine.
+dronedarone, bepridil, dronedarone, encainide, flecanide,
 
-The concomitant administration with quetiapine is contraindicated (see section 4.5).
+encainide, flecanide, propafenone, quinidine.
 
 PDE5 inhibitors Avanafil Increased plasma concentrations of avanafil (see
 
-[Norvir 100 mg soft capsules]
-
-Thereby, increasing the risk of arrhythmias or other serious adverse effects from these agents.
-
-antiretroviral agent (600 mg twice daily) and rifabutin due to an increase of rifabutin serum concentrations and risk of adverse reactions including uveitis (see section 4.4).
-
-(For caution on parenterally administered midazolam, see section 4.5.).
-
 [Norvir 100 mg film-coated tablets]
 
-(all sentences already above)
+Thereby, increasing the propafenone, quinidine risk of arrhythmias or other serious adverse effects from these agents.
+
+daily) dosed as an antiretroviral agent and rifabutin due to an increase of rifabutin serum concentrations and risk of adverse reactions including uveitis (see section 4.4).
+
+(For caution on parenterally administered midazolam, see section 4.5.).

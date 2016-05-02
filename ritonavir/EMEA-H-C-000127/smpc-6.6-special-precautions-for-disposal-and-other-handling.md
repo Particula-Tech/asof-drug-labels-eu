@@ -5,7 +5,7 @@ If, after shaking, particles or precipitate can be seen in the solution, the pat
 
 The oral syringe should be cleaned immediately with hot water and dish soap after use.
 When cleaned immediately, drug residue is removed.
-The device must be dry prior to use
+The device must be dry prior to use.
 
 [Norvir 100 mg powder for oral suspension]
 
@@ -33,10 +33,6 @@ The patient/caregiver is to be instructed to follow the directions below:
 - The oral dosing syringe and mixing cup should be cleaned immediately with warm water and dish soap after use.
 - If the syringe breaks or becomes hard to use, the syringe should be thrown away and the new one used.
 
-[Norvir 100 mg soft capsules]
-
-No special requirements.
-
 [Norvir 100 mg film-coated tablets]
 
-(all sentences already above)
+No special requirements.
