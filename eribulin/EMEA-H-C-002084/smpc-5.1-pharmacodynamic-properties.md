@@ -2,13 +2,15 @@
 
 Pharmacotherapeutic group: Other antineoplastic agents, ATC code: L01XX41
 
-Eribulin mesilate is a non-taxane, microtubule dynamics inhibitor belonging to the halichondrin class of antineoplastic agents.
+Eribulin mesilate is a microtubule dynamics inhibitor belonging to the halichondrin class of antineoplastic agents.
 It is a structurally simplified synthetic analogue of halichondrin B, a natural product isolated from the marine sponge Halichondria okadai.
 
 Eribulin inhibits the growth phase of microtubules without affecting the shortening phase and sequesters tubulin into non-productive aggregates.
-Eribulin exerts its effects via a tubulin-based antimitotic mechanism leading to G2/M cell-cycle block, disruption of mitotic spindles, and, ultimately, apoptotic cell death after prolonged mitotic blockage.
+Eribulin exerts its effects via a tubulin-based antimitotic mechanism leading to G2/M cell-cycle block, disruption of mitotic spindles, and, ultimately, apoptotic cell death after prolonged and irreversible mitotic blockage.
 
 Clinical efficacy
+
+Breast cancer
 
 The efficacy of HALAVEN in breast cancer is primarily supported by two randomized Phase 3 comparative studies.
 The 762 patients in the pivotal Phase 3 EMBRACE study (Study 305) had locally recurrent or metastatic breast cancer, and had previously received at least two and a maximum of five chemotherapy regimens, including an anthracycline and a taxane (unless contraindicated).
@@ -105,5 +107,62 @@ The overall survival in patients in HER2 negative and HER2 positive patients in 
 | p-value (log rank) | 0.030 |  | 0.837 |  |
 
 Note: Concomitant anti-HER2 therapy was not included in Study 305 and Study 301.
+
+Liposarcoma
+
+In liposarcoma the efficacy of eribulin is supported by the pivotal Phase 3 sarcoma study (Study 309).
+The patients in this study (n=452) had locally recurrent, inoperable and/or metastatic soft tissue sarcoma of one of two subtypes – leiomyosarcoma or liposarcoma.
+Patients had received at least two prior chemotherapy regimens, one of which must have been an anthracycline (unless contraindicated).
+
+Patients must have progressed within 6 months of their last chemotherapeutic regimen.
+They were randomized 1:1 to receive either eribulin 1.23 mg/m2 on days 1 and 8 of a 21 day cycle or dacarbazine 850 mg/m2, 1000 mg/m2 or 1200 mg/m2 (dose determined by the investigator prior to randomization), every 21 days.
+
+In Study 309, a statistically significant improvement in OS was observed in patients randomized to the eribulin arm compared to the control arm.
+This translated into a 2 month improvement in median OS (13.5 months for eribulin treated patients vs. 11.5 months for dacarbazine treated patients).
+There was no significant difference in progression-free survival or overall response rate between the treatment arms in the overall population.
+
+Treatment effects of eribulin were limited to patients with liposarcoma (45% dedifferentiated, 37% myxoid/round cell and 18% pleomorphic in Study 309) based on pre-planned subgroup analyses of OS and PFS.
+There was no difference in efficacy between eribulin and dacarbazine in patients with advanced or metastatic leiomyosarcoma.
+
+|  | Study 309 Liposarcoma Subgroup |  | Study 309 Leiomyosarcoma Subgroup |  | Study 309 ITT Population |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | HALAVEN (n=71) | Dacarbazine (n=72) | HALAVEN (n=157) | Dacarbazine (n=152) | HALAVEN (n=228) | Dacarbazine (n=224) |
+| Overall survival |  |  |  |  |  |  |
+| Number of Events | 52 | 63 | 124 | 118 | 176 | 181 |
+| Median months | 15.6 | 8.4 | 12.7 | 13.0 | 13.5 | 11.5 |
+| Hazard Ratio (95% CI) | 0.511 (0.346, 0.753) |  | 0.927 (0.714, 1.203) |  | 0.768 (0.618, 0.954) |  |
+| Nominal p-value | 0.0006 |  | 0.5730 |  | 0.0169 |  |
+| Progression-free survival |  |  |  |  |  |  |
+| Number of Events | 57 | 59 | 140 | 129 | 197 | 188 |
+| Median months | 2.9 | 1.7 | 2.2 | 2.6 | 2.6 | 2.6 |
+| Hazard Ratio (95% CI) | 0.521 (0.346, 0.784) |  | 1.072 (0.835, 1.375) |  | 0.877 (0.710, 1.085) |  |
+| Nominal p-value | 0.0015 |  | 0.5848 |  | 0.2287 |  |
+
+Study 309 - Overall Survival in the Liposarcoma Subgroup
+
+HALAVEN
+
+Dacarbazine
+
+Time (months)
+NUMBER OF PATIENTS AT RISK:
+
+HALAVEN 71 63 51 43 39 34 30 20 15 12 7 4 2 0
+Dacarbazine 72 59 42 33 22 17 12 11 6 3 2 0 0 0
+
+Study 309 – Progression Free Survival in the Liposarcoma Subgroup
+
+HALAVEN
+
+Dacarbazine
+
+Time (months)
+NUMBER OF PATIENTS AT RISK:
+
+HALAVEN 71 28 17 12 9 3 1 0
+Dacarbazine 72 15 5 2 1 0 0 0
+
 Paediatric population
 The European Medicines Agency has waived the obligation to submit the results of studies with eribulin in all subsets of the paediatric population in the indication of breast cancer (see section 4.2 for information on paediatric use).
+The European Medicines Agency has deferred the obligation to submit the results of studies with HALAVEN in one or more subsets of the paediatric population for the treatment of rhabdomyosarcoma and non-rhabdomyosarcoma soft tissue sarcoma.
+See section 4.2 for information on paediatric use.

@@ -40,7 +40,7 @@ See section 4.2 for dosage recommendation.
 Renal impairment
 
 Increased eribulin exposure was seen in some patients with moderately or severely impaired renal function, with high between-subject variability.
-The pharmacokinetics of eribulin were evaluated in a Phase 1 study in patients with normal renal function (Creatinine clearance: ≥ 80 ml/min; n=7), moderate (30-50 ml/min; n=6) or severe (15-<30 ml/min; n=6) renal impairment.
+The pharmacokinetics of eribulin were evaluated in a Phase 1 study in patients with normal renal function (Creatinine clearance: ≥ 80 ml/min; n=6), moderate (30-50 ml/min; n=7) or severe (15-<30 ml/min; n=6) renal impairment.
 Creatinine clearance was estimated with the Cockcroft-Gault formula.
 A 1.5-fold (90% CI: 0.9-2.5) higher dose-normalised AUC(0-inf) was observed in patients with moderate and severe renal impairment.
 See section 4.2 for treatment recommendations.

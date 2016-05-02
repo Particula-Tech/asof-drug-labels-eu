@@ -1,6 +1,6 @@
 # 4.2 Posology and method of administration
 
-HALAVEN should be administered in units specialised in the administration of cytotoxic chemotherapy and only under the supervision of a qualified physician experienced in the appropriate use of cytotoxic medicinal products.
+HALAVEN should only be administered under the supervision of a qualified physician experienced in the appropriate use of cytotoxic medicinal products.
 
 Posology
 
@@ -11,7 +11,7 @@ In the EU the recommended dose refers to the base of the active substance (eribu
 Calculation of the individual dose to be administered to a patient must be based on the strength of the ready to use solution that contains 0.44 mg/ml eribulin and the dose recommendation of 1.23 mg/m2.
 The dose reduction recommendations shown below are also shown as the dose of eribulin to be administered based on the strength of the ready to use solution.
 
-In the pivotal EMBRACE trial, the corresponding publication and in some other regions e.g. the United States and Switzerland, the recommended dose is based on the salt form (eribulin mesilate).
+In the pivotal trials, the corresponding publications and in some other regions e.g. the United States and Switzerland, the recommended dose is based on the salt form (eribulin mesilate).
 Patients may experience nausea or vomiting.
 Antiemetic prophylaxis including corticosteroids should be considered.
 
@@ -65,6 +65,9 @@ No specific dose adjustments are recommended based on the age of the patient (se
 Paediatric population
 
 There is no relevant use of HALAVEN in children and adolescents for the indication of breast cancer.
+
+The safety and efficacy of HALAVEN in children from birth to 18 years of age have not yet been established in soft tissue sarcoma.
+No data are available.
 
 Method of administration
 
