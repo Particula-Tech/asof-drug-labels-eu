@@ -39,7 +39,7 @@ Very common: Fatigue.
 Investigations
 Common: HDL decrease, weight increase.
 
-In addition the following adverse reactions have been reported for other hydrocortisone medicinal products given for other indication than adrenal insufficiency replacement therapy in higher doses (frequencies not known).
+In addition the following adverse reactions have been reported for other hydrocortisone medicinal products given for indications other than adrenal insufficiency replacement therapy in higher doses (frequencies not known).
 
 Immune system disorders
 Activation of infection (tuberculosis, fungal and viral infections including herpes).
@@ -55,9 +55,9 @@ Euphoria and psychosis, insomnia.
 
 Eye disorders
 Increased intraocular pressure and cataract.
+
 Gastrointestinal disorders
 Dyspepsia and deterioration of existing gastric ulcer.
-
 Skin and subcutaneous tissue disorders
 Cushing-like symptoms, stria, ecchymoses, acne and hirsutism, impaired wound healing.
 
@@ -67,4 +67,10 @@ Osteoporosis with spontaneous fractures.
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V*.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed
+
+in Appendix V.
+
+[Plenadren 20 mg modified-release tablets]
+
+In addition the following adverse reactions have been reported for other hydrocortisone medicinal products given for other indication than adrenal insufficiency replacement therapy in higher doses (frequencies not known).

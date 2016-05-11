@@ -13,5 +13,5 @@ Polyvinyl alcohol
 Talc
 Titanium dioxide (E171)
 Iron oxide red (E172)
-Iron oxide yellow (E 172)
+Iron oxide yellow (E172)
 Iron oxide black (E172)
