@@ -85,6 +85,7 @@ Description of selected adverse reactions
 
 Local allergy
 Local allergy in patients is common).
+
 Systemic allergy
 Systemic allergy, which is rare but potentially more serious, is a generalised allergy to insulin.
 

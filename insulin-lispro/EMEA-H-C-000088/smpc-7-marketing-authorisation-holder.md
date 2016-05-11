@@ -1,10 +1,10 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Grootslag 1-5, 3991 RA Houten, The Netherlands.
+Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
 
 [Humalog 100 U/ml, solution for injection in cartridge]
 
-Eli Lilly Nederland B V., Grootslag 1-5, 3991 RA Houten, The Netherlands.
+Eli Lilly Nederland B V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
 
 [Humalog Mix25 100 U/ml suspension for injection in vial]
 

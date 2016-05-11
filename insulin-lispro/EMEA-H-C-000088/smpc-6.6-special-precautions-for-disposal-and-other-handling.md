@@ -10,8 +10,8 @@ a) Preparing a dose
 Inspect the Humalog solution.
 It should be clear and colourless.
 Do not use Humalog if it appears cloudy, thickened, or slightly coloured or if solid particles are visible.
-
 i) Humalog
+
 1.
 Wash your hands.
 
@@ -82,10 +82,10 @@ Choose a site for injection.
 
 2.
 Clean the skin as instructed.
-
 3.
 Stabilise the skin by spreading it or pinching up a large area.
 Insert the needle and inject as instructed.
+
 4.
 Pull the needle out and apply gentle pressure over the injection site for several seconds.
 Do not rub the area.
@@ -103,6 +103,7 @@ See section 6.2.
 
 [Humalog 100 U/ml, solution for injection in cartridge]
 
+To prevent the possible transmission of disease, each cartridge must be used by one patient only, even if the needle on the delivery device is changed.
 Humalog cartridges are to be used with a CE marked pen as recommended in the information provided by the device manufacturer.
 
 The following is a general description.
@@ -143,7 +144,6 @@ If not, repeat the above procedure until contents are mixed.
 Cartridges contain a small glass bead to assist mixing.
 
 The cartridges should be examined frequently and should not be used if clumps of material are present or if solid white particles stick to the bottom or wall of the cartridge, giving a frosted appearance.
-
 Humalog Mix25 cartridges are not designed to allow any other insulin to be mixed in the cartridge.
 Cartridges are not designed to be refilled.
 
@@ -178,7 +178,10 @@ Humalog BASAL cartridges are not designed to allow any other insulin to be mixed
 
 [Humalog 100 U/ml KwikPen, solution for injection]
 
+To prevent the possible transmission of disease, each pen must be used by one patient only, even if the needle is changed.
+
 a) Handling of the pre-filled pen
+
 Before using the KwikPen the user manual included in the package leaflet must be read carefully.
 The KwikPen has to be used as recommended in the user manual.
 

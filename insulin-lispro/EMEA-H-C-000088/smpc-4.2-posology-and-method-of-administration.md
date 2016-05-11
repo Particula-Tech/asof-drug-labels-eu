@@ -124,7 +124,7 @@ Humalog 100 units/ml KwikPen and Humalog 200 units/ml KwikPen
 Humalog KwikPen is available in two strengths.
 For both, the needed dose is dialled in units.
 Both pre-filled pens, the Humalog 100 units/ml KwikPen and the Humalog 200 units/ml KwikPen deliver 1 – 60 units in steps of 1 unit in a single injection.
-The dose counter shows the number of units regardless of strength and no dose conversion should be done when transferring a patient to a new strength.
+The number of units is shown in the dose window of the pen regardless of strength and no dose conversion should be done when transferring a patient to a new strength.
 Humalog 200 units/ml KwikPen should be reserved for the treatment of patients with diabetes requiring daily doses of more than 20 units of rapid-acting insulin.
 The insulin lispro solution containing 200 units/ml should not be withdrawn from the pre-filled pen (the KwikPen) or mixed with any other insulin (see section 4.4 and section 6.2).
 

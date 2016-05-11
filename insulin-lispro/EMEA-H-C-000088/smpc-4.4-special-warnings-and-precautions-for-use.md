@@ -37,6 +37,9 @@ Pioglitazone should be discontinued, if any deterioration in cardiac symptoms oc
 
 If the 40 U/ml vial is the product normally prescribed, do not take insulin from a 100 U/ml cartridge using a 40 U/ml syringe.
 
+Instructions for use and handling
+To prevent the possible transmission of disease, each cartridge must be used by one patient only, even if the needle on the delivery device is changed.
+
 [Humalog Mix25 100 U/ml suspension for injection in vial]
 
 Under no circumstances should Humalog Mix25 be given intravenously.
@@ -70,7 +73,7 @@ This should be kept in mind, if treatment with the combination of pioglitazone a
 
 [Humalog 100 U/ml KwikPen, solution for injection]
 
-(all sentences already above)
+To prevent the possible transmission of disease, each pen must be used by one patient only, even if the needle is changed.
 
 [Humalog Mix25 100 U/ml KwikPen, suspension for injection]
 
