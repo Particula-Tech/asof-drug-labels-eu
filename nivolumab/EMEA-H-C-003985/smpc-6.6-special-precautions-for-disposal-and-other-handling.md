@@ -45,12 +45,12 @@ OPDIVO infusion must not be administered as an intravenous push or bolus injecti
 Administer the OPDIVO infusion intravenously over a period of 60 minutes.
 OPDIVO infusion should not be infused at the same time in the same intravenous line with other agents.
 Use a separate infusion line for the infusion.
-
 Use an infusion set and an in-line, sterile, non-pyrogenic, low protein binding filter (pore size of 0.2 μm to 1.2 μm).
 
 OPDIVO infusion is compatible with PVC and polyolefin containers, glass bottles, PVC infusion sets and in-line filters with polyethersulfone membranes with pore sizes of 0.2 µm to 1.2 µm.
 
 After administration of the nivolumab dose, flush the line with sodium chloride 9 mg/mL (0.9%) solution for injection or 50 mg/mL (5%) glucose solution for injection.
+
 Disposal
 Do not store any unused portion of the infusion solution for reuse.
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

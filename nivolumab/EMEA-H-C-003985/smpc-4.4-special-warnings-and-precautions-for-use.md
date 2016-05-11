@@ -1,17 +1,25 @@
 # 4.4 Special warnings and precautions for use
 
-Nivolumab is associated with immune-related adverse reactions.
-Patients should be monitored continuously (at least up to 5 months after the last dose) as an adverse reaction with nivolumab may occur at any time during or after discontinuation of nivolumab therapy.
+When nivolumab is administered in combination with ipilimumab, refer to the Summary of Product Characteristics for ipilimumab prior to initiation of treatment.
+Immune-related adverse reactions have occurred at higher frequencies when nivolumab was administered in combination with ipilimumab compared with nivolumab as monotherapy.
+Most immune-related adverse reactions improved or resolved with appropriate management, including initiation of corticosteroids and treatment modifications (see section 4.2).
+
+Cardiac adverse events and pulmonary embolism have also been reported with combination therapy.
+Patients should be monitored for cardiac and pulmonary adverse reactions continuously, as well as for clinical signs, symptoms, and laboratory abnormalities indicative of electrolyte disturbances and dehydration prior to and periodically during treatment.
+Nivolumab in combination with ipilimumab should be discontinued for life-threatening or recurrent severe cardiac and pulmonary adverse reactions.
+
+Patients should be monitored continuously (at least up to 5 months after the last dose) as an adverse reaction with nivolumab or nivolumab in combination with ipilimumab may occur at any time during or after discontinuation of therapy.
+
 For suspected immune-related adverse reactions, adequate evaluation should be performed to confirm aetiology or exclude other causes.
-Based on the severity of the adverse reaction, nivolumab should be withheld and corticosteroids administered.
+Based on the severity of the adverse reaction, nivolumab or nivolumab in combination with ipilimumab should be withheld and corticosteroids administered.
 If immunosuppression with corticosteroids is used to treat an adverse reaction, a taper of at least 1 month duration should be initiated upon improvement.
 Rapid tapering may lead to worsening or recurrence of the adverse reaction.
 Non-corticosteroid immunosuppressive therapy should be added if there is worsening or no improvement despite corticosteroid use.
 
-Nivolumab should not be resumed while the patient is receiving immunosuppressive doses of corticosteroids or other immunosuppressive therapy.
+Nivolumab or nivolumab in combination with ipilimumab should not be resumed while the patient is receiving immunosuppressive doses of corticosteroids or other immunosuppressive therapy.
 Prophylactic antibiotics should be used to prevent opportunistic infections in patients receiving immunosuppressive therapy.
 
-Nivolumab must be permanently discontinued for any severe immune-related adverse reaction that recurs and for any life threatening immune-related adverse reaction.
+Nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued for any severe immune-related adverse reaction that recurs and for any life-threatening immune-related adverse reaction.
 
 Use of nivolumab in melanoma patients with rapidly progressing disease
 Physicians should consider the delayed onset of nivolumab effect before initiating treatment in patients with rapidly progressing disease (see section 5.1).
@@ -22,87 +30,85 @@ In non-squamous NSCLC, a higher number of deaths within 3 months was observed in
 Factors associated with early deaths were poorer prognostic factors and/or more aggressive disease combined with low or no tumour PD-L1 expression (see section 5.1).
 
 Immune-related pneumonitis
-Severe pneumonitis or interstitial lung disease, including fatal cases, has been observed with nivolumab treatment (see section 4.8).
+Severe pneumonitis or interstitial lung disease, including fatal cases, has been observed with nivolumab monotherapy or nivolumab in combination with ipilimumab (see section 4.8).
 Patients should be monitored for signs and symptoms of pneumonitis such as radiographic changes (e.g., focal ground glass opacities, patchy filtrates), dyspnoea, and hypoxia.
 Infectious and disease-related aetiologies should be ruled out.
+For Grade 3 or 4 pneumonitis, nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued, and corticosteroids should be initiated at a dose of 2 to 4 mg/kg/day methylprednisolone equivalents.
 
-For Grade 3 or 4 pneumonitis, nivolumab must be permanently discontinued, and corticosteroids should be initiated at a dose of 2 to 4 mg/kg/day methylprednisolone equivalents.
-
-For Grade 2 (symptomatic) pneumonitis, nivolumab should be withheld and corticosteroids initiated at a dose of 1 mg/kg/day methylprednisolone equivalents.
-Upon improvement, nivolumab may be resumed after corticosteroid taper.
-If worsening or no improvement occurs despite initiation of corticosteroids, corticosteroid dose should be increased to 2 to 4 mg/kg/day methylprednisolone equivalents and nivolumab must be permanently discontinued.
+For Grade 2 (symptomatic) pneumonitis, nivolumab or nivolumab in combination with ipilimumab should be withheld and corticosteroids initiated at a dose of 1 mg/kg/day methylprednisolone equivalents.
+Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper.
+If worsening or no improvement occurs despite initiation of corticosteroids, corticosteroid dose should be increased to 2 to 4 mg/kg/day methylprednisolone equivalents and nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued.
 
 Immune-related colitis
-Severe diarrhoea or colitis has been observed with nivolumab treatment (see section 4.8).
+Severe diarrhoea or colitis has been observed with nivolumab monotherapy or nivolumab in combination with ipilimumab (see section 4.8).
 Patients should be monitored for diarrhoea and additional symptoms of colitis, such as abdominal pain and mucus or blood in stool.
 Infectious and disease-related aetiologies should be ruled out.
 
-For Grade 4 diarrhoea or colitis, nivolumab must be permanently discontinued, and corticosteroids should be initiated at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
+For Grade 4 diarrhoea or colitis, nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued, and corticosteroids should be initiated at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
 
-For Grade 3 diarrhoea or colitis, nivolumab should be withheld and corticosteroids initiated at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
-Upon improvement, nivolumab may be resumed after corticosteroid taper.
-If worsening or no improvement occurs despite initiation of corticosteroids, nivolumab must be permanently discontinued.
+Nivolumab monotherapy should be withheld for Grade 3 diarrhoea or colitis, and corticosteroids initiated at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
+Upon improvement, nivolumab monotherapy may be resumed after corticosteroid taper.
+If worsening or no improvement occurs despite initiation of corticosteroids, nivolumab monotherapy must be permanently discontinued.
+Grade 3 diarrhoea or colitis observed with nivolumab in combination with ipilimumab requires permanent discontinuation of treatment and initiation of corticosteroids at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
 
-For Grade 2 diarrhoea or colitis, nivolumab should be withheld.
+For Grade 2 diarrhoea or colitis, nivolumab or nivolumab in combination with ipilimumab should be withheld.
 Persistent diarrhoea or colitis should be managed with corticosteroids at a dose of 0.5 to 1 mg/kg/day methylprednisolone equivalents.
-Upon improvement, nivolumab may be resumed after corticosteroid taper, if needed.
-If worsening or no improvement occurs despite initiation of corticosteroids, corticosteroid dose should be increased to 1 to 2 mg/kg/day methylprednisolone equivalents and nivolumab must be permanently discontinued.
+Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper, if needed.
+If worsening or no improvement occurs despite initiation of corticosteroids, corticosteroid dose should be increased to 1 to 2 mg/kg/day methylprednisolone equivalents and nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued.
 
 Immune-related hepatitis
-Severe hepatitis has been observed with nivolumab treatment (see section 4.8).
+Severe hepatitis has been observed with nivolumab monotherapy or nivolumab in combination with ipilimumab (see section 4.8).
 Patients should be monitored for signs and symptoms of hepatitis such as transaminase and total bilirubin elevations.
 Infectious and disease-related aetiologies should be ruled out.
 
-For Grade 3 or 4 transaminase or total bilirubin elevation, nivolumab must be permanently discontinued, and corticosteroids should be initiated at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
+For Grade 3 or 4 transaminase or total bilirubin elevation, nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued, and corticosteroids should be initiated at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
 
-For Grade 2 transaminase or total bilirubin elevation, nivolumab should be withheld.
+For Grade 2 transaminase or total bilirubin elevation, nivolumab or nivolumab in combination with ipilimumab should be withheld.
 Persistent elevations in these laboratory values should be managed with corticosteroids at a dose of 0.5 to 1 mg/kg/day methylprednisolone equivalents.
-Upon improvement, nivolumab may be resumed after corticosteroid taper, if needed.
-If worsening or no improvement occurs despite initiation of corticosteroids, corticosteroid dose should be increased to 1 to 2 mg/kg/day methylprednisolone equivalents and nivolumab must be permanently discontinued.
-
-Immune-related nephritis or renal dysfunction
-Severe nephritis or renal dysfunction has been observed with nivolumab treatment (see section 4.8).
-Patients should be monitored for signs and symptoms of nephritis and renal dysfunction.
+Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper, if needed.
+If worsening or no improvement occurs despite initiation of corticosteroids, corticosteroid dose should be increased to 1 to 2 mg/kg/day methylprednisolone equivalents and nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued.
+Immune-related nephritis and renal dysfunction
+Severe nephritis and renal dysfunction have been observed with monotherapy treatment or nivolumab in combination with ipilimumab (see section 4.8).
+Patients should be monitored for signs and symptoms of nephritis or renal dysfunction.
 Most patients present with asymptomatic increases in serum creatinine.
 Disease-related aetiologies should be ruled out.
 
-For Grade 4 serum creatinine elevation, nivolumab must be permanently discontinued, and corticosteroids should be initiated at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
+For Grade 4 serum creatinine elevation, nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued, and corticosteroids should be initiated at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
 
-For Grade 2 or 3 serum creatinine elevation, nivolumab should be withheld, and corticosteroids should be initiated at a dose of 0.5 to 1 mg/kg/day methylprednisolone equivalents.
-Upon improvement, nivolumab may be resumed after corticosteroid taper.
-If worsening or no improvement occurs despite initiation of corticosteroids, corticosteroid dose should be increased to 1 to 2 mg/kg/day methylprednisolone equivalents, and nivolumab must be permanently discontinued.
+For Grade 2 or 3 serum creatinine elevation, nivolumab or nivolumab in combination with ipilimumab should be withheld, and corticosteroids should be initiated at a dose of 0.5 to 1 mg/kg/day methylprednisolone equivalents.
+Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper.
+If worsening or no improvement occurs despite initiation of corticosteroids, corticosteroid dose should be increased to 1 to 2 mg/kg/day methylprednisolone equivalents, and nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued.
 
 Immune-related endocrinopathies
-Severe endocrinopathies, including hypothyroidism, hyperthyroidism, adrenal insufficiency, hypophysitis, diabetes mellitus, and diabetic ketoacidosis have been observed with nivolumab treatment (see section 4.8).
+Severe endocrinopathies, including hypothyroidism, hyperthyroidism, adrenal insufficiency, hypophysitis, diabetes mellitus, and diabetic ketoacidosis have been observed with nivolumab monotherapy or nivolumab in combination with ipilimumab (see section 4.8).
 
-Patients should be monitored for clinical signs and symptoms of endocrinopathies and for changes in thyroid function (at the start of treatment, periodically during treatment, and as indicated based on clinical evaluation).
+Patients should be monitored for clinical signs and symptoms of endocrinopathies and for hyperglycaemia and changes in thyroid function (at the start of treatment, periodically during treatment, and as indicated based on clinical evaluation).
 Patients may present with fatigue, headache, mental status changes, abdominal pain, unusual bowel habits, and hypotension, or nonspecific symptoms which may resemble other causes such as brain metastasis or underlying disease.
 Unless an alternate etiology has been identified, signs or symptoms of endocrinopathies should be considered immune-related.
 
-For symptomatic hypothyroidism, nivolumab should be withheld, and thyroid hormone replacement should be initiated as needed.
-For symptomatic hyperthyroidism, nivolumab should be withheld and antithyroid medication should be initiated as needed.
+For symptomatic hypothyroidism, nivolumab or nivolumab in combination with ipilimumab should be withheld, and thyroid hormone replacement should be initiated as needed.
+For symptomatic hyperthyroidism, nivolumab or nivolumab in combination with ipilimumab should be withheld and antithyroid medication should be initiated as needed.
 Corticosteroids at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents should also be considered if acute inflammation of the thyroid is suspected.
-Upon improvement, nivolumab may be resumed after corticosteroid taper, if needed.
+Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper, if needed.
 Monitoring of thyroid function should continue to ensure appropriate hormone replacement is utilised.
-Nivolumab must be permanently discontinued for life-threatening hyperthyroidism or hypothyroidism.
+Nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued for life-threatening hyperthyroidism or hypothyroidism.
 
-For symptomatic Grade 2 adrenal insufficiency, nivolumab should be withheld, and physiologic corticosteroid replacement should be initiated as needed.
-Nivolumab must be permanently discontinued for severe (Grade 3) or life-threatening (Grade 4) adrenal insufficiency.
+For symptomatic Grade 2 adrenal insufficiency, nivolumab or nivolumab in combination with ipilimumab should be withheld, and physiologic corticosteroid replacement should be initiated as needed.
+Nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued for severe (Grade 3) or life-threatening (Grade 4) adrenal insufficiency.
 Monitoring of adrenal function and hormone levels should continue to ensure appropriate corticosteroid replacement is utilised.
 
-For symptomatic Grade 2 or 3 hypophysitis, nivolumab should be withheld, and hormone replacement should be initiated as needed.
+For symptomatic Grade 2 or 3 hypophysitis, nivolumab or nivolumab in combination with ipilimumab should be withheld, and hormone replacement should be initiated as needed.
 Corticosteroids at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents should also be considered if acute inflammation of the pituitary gland is suspected.
-Upon improvement, nivolumab may be resumed after corticosteroid taper, if needed.
-Nivolumab must be permanently discontinued for life-threatening (Grade 4) hypophysitis.
+Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper, if needed.
+Nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued for life-threatening (Grade 4) hypophysitis.
 Monitoring of pituitary function and hormone levels should continue to ensure appropriate hormone replacement is utilised.
-
-For symptomatic diabetes, nivolumab should be withheld, and insulin replacement should be initiated as needed.
+For symptomatic diabetes, nivolumab or nivolumab in combination with ipilimumab should be withheld, and insulin replacement should be initiated as needed.
 Monitoring of blood sugar should continue to ensure appropriate insulin replacement is utilised.
-Nivolumab must be permanently discontinued for life-threatening diabetes.
+Nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued for life-threatening diabetes.
 
 Immune-related rash
-Severe rash has been observed with nivolumab treatment that may be immune-related (see section 4.8).
-Nivolumab should be withheld for Grade 3 rash and discontinued for Grade 4 rash.
+Severe rash has been observed with nivolumab in combination with ipilimumab and, less commonly, with nivolumab as monotherapy (see section 4.8).
+Nivolumab or nivolumab in combination with ipilimumab should be withheld for Grade 3 rash and discontinued for Grade 4 rash.
 Severe rash should be managed with high-dose corticosteroid at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
 
 Rare cases of toxic epidermal necrolysis (TEN) some of them with fatal outcome have been observed.
@@ -112,28 +118,31 @@ If the patient has developed SJS or TEN with the use of nivolumab, permanent dis
 Caution should be used when considering the use of nivolumab in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other immune-stimulatory anticancer agents.
 
 Other immune-related adverse reactions
-The following immune-related adverse reactions were reported in less than 1% of patients treated with nivolumab in clinical trials across doses and tumour types: pancreatitis, uveitis, demyelination, autoimmune neuropathy (including facial and abducens nerve paresis), Guillain-Barré syndrome, hypopituitarism and myasthenic syndrome.
+The following immune-related adverse reactions were reported in less than 1% of patients treated with nivolumab monotherapy in clinical trials across doses and tumour types: pancreatitis, uveitis, demyelination, autoimmune neuropathy (including facial and abducens nerve paresis), Guillain-Barré syndrome, hypopituitarism, and myasthenic syndrome.
+
+Across clinical trials of nivolumab in combination with ipilimumab, the following additional clinically significant, immune-related adverse reactions were reported in less than 1% of patients: gastritis, sarcoidosis, and duodenitis.
 
 For suspected immune-related adverse reactions, adequate evaluation should be performed to confirm aetiology or exclude other causes.
-Based on the severity of the adverse reaction, nivolumab should be withheld and corticosteroids administered.
-Upon improvement, nivolumab may be resumed after corticosteroid taper.
-Nivolumab must be permanently discontinued for any severe immune-related adverse reaction that recurs and for any life-threatening immune-related adverse reaction.
+Based on the severity of the adverse reaction, nivolumab or nivolumab in combination with ipilimumab should be withheld and corticosteroids administered.
+Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper.
+Nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued for any severe immune-related adverse reaction that recurs and for any life-threatening immune-related adverse reaction.
 
 Infusion reactions
-Severe infusion reactions have been reported in clinical trials (see section 4.8).
-In case of a severe or life-threatening infusion reaction, nivolumab infusion must be discontinued and appropriate medical therapy administered.
-Patients with mild or moderate infusion reaction may receive nivolumab with close monitoring and use of premedication according to local treatment guidelines for prophylaxis of infusion reactions.
+Severe infusion reactions have been reported in clinical trials of nivolumab or nivolumab in combination with ipilimumab (see section 4.8).
+In case of a severe or life-threatening infusion reaction, the nivolumab or nivolumab in combination with ipilimumab infusion must be discontinued and appropriate medical therapy administered.
+Patients with mild or moderate infusion reaction may receive nivolumab or nivolumab in combination with ipilimumab with close monitoring and use of premedication according to local treatment guidelines for prophylaxis of infusion reactions.
 
-Special populations
+Disease-specific precautions
 
 Melanoma
 
-Patients with a baseline performance score ≥ 2, active brain metastases or autoimmune disease, and patients who had been receiving systemic immunosuppressants prior to study entry were excluded from the clinical trials of nivolumab.
-Patients with ocular melanoma were excluded from clinical trials of melanoma.
+Patients with a baseline performance score ≥ 2, active brain metastases or autoimmune disease, and patients who had been receiving systemic immunosuppressants prior to study entry were excluded from the clinical trials of nivolumab or nivolumab in combination with ipilimumab.
+Patients with ocular/uveal melanoma were excluded from clinical trials of melanoma.
 In addition, CA209037 excluded patients who have had a Grade 4 adverse reaction that was related to anti-CTLA-4 therapy (see section 5.1).
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential risk-benefit on an individual basis.
 
-Experience with nivolumab in previously untreated BRAF mutation-positive melanoma is limited.
+Relative to nivolumab monotherapy, an increase in PFS for the combination of nivolumab with ipilimumab is established only in patients with low tumour PD-L1 expression.
+Before initiating treatment with the combination, physicians are advised to carefully evaluate the individual patient and tumour characteristics, taking into consideration the observed benefits and the toxicity of the combination relative to nivolumab monotherapy (see sections 4.8 and 5.1).
 
 Non-Small Cell Lung Cancer
 

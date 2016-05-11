@@ -9,6 +9,12 @@ Body weight normalised dosing produced approximately uniform steady-state trough
 The metabolic pathway of nivolumab has not been characterised.
 Nivolumab is expected to be degraded into small peptides and amino acids via catabolic pathways in the same manner as endogenous IgG.
 
+OPDIVO in combination with ipilimumab: The geometric mean CL, Vss, and terminal half-life of nivolumab were 9.83 mL/h, 7.62 L, and 24.1 days, respectively.
+When administered in combination, the CL of nivolumab was increased by 35%, whereas there was no effect on the CL of ipilimumab.
+
+When administered in combination, the CL of nivolumab increased by 25% in the presence of anti-nivolumab antibodies.
+There was no effect of anti-ipilimumab antibodies on the CL of ipilimumab.
+
 Special populations
 
 A population PK analysis suggested no difference in CL of nivolumab based on age, gender, race, tumour type, tumour size, and hepatic impairment.
