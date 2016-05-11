@@ -20,8 +20,8 @@ In patients with Crohn’s disease, a reduction of the number of cells expressin
 Endoscopic studies in intestinal mucosa have shown evidence of mucosal healing in adalimumab treated patients.
 
 Clinical efficacy and safety
-
 Juvenile idiopathric arthritis (JIA)
+
 Polyarticular juvenile idiopathic arthritis (pJIA)
 
 The safety and efficacy of Humira was assessed in two studies (pJIA I and II) in children with active polyarticular or polyarticular course juvenile idiopathic arthritis, who had a variety of JIA onset types (most frequently rheumatoid-factor negative or positive polyarthritis and extended oligoarthritis).
@@ -62,6 +62,7 @@ Ped ACR 30 Responses in the JIA study
 | Median time to disease flare | >32 weeks | 20 weeks | >32 weeks | 14 weeks |
 
 a Ped ACR 30/50/70 responses Week 48 significantly greater than those of placebo treated patients b p = 0.015 c p = 0.031
+
 Amongst those who responded at Week 16 (n=144), the Pediatric ACR 30/50/70/90 responses were maintained for up to six years in the OLE phase in patients who received Humira throughout the study.
 Over all 19 subjects, of which 11 of the baseline age group 4 to 12 and 8 of the baseline age group 13 to 17 years were treated 6 years or longer.
 
@@ -297,7 +298,7 @@ In Study I, improvements in the physical and mental component summary scores of 
 
 In an open-label extension study, for patients who dose escalated from 40 mg every other week to 40 mg weekly due to a PASI response below 50%, 26.4% (92/349) and 37.8% (132/349) of patients achieved PASI 75 response at Week 12 and 24, respectively.
 
-Psoriasis Study III (REACH) compared the efficacy and safety of Humira versus placebo in 71 patients with moderate to severe chronic plaque psoriasis and hand and/or foot psoriasis.
+Psoriasis Study III (REACH) compared the efficacy and safety of Humira versus placebo in 72 patients with moderate to severe chronic plaque psoriasis and hand and/or foot psoriasis.
 Patients received an initial dose of 80 mg Humira followed by 40 mg every other week (starting one week after the initial dose) or placebo for 16 weeks.
 At Week 16, a statistically significantly greater proportion of patients who received Humira achieved PGA of 'clear' or 'almost clear' for the hands and/or feet compared to patients who received placebo (30.6% versus 4.3%, respectively [P = 0.014]).
 
@@ -356,6 +357,9 @@ Statistically significant increases (improvement) from Baseline to Week 26 and 5
 
 Statistically and clinically significant improvements from Baseline were also observed in both treatment groups for quality of life parameters (including IMPACT III).
 
+One hundred patients (n=100) from the Paediatric CD Study continued in an open-label long-term extension study.
+After 5 years of adalimumab therapy, 74.0% (37/50) of the 50 patients remaining in the study continued to be in clinical remission, and 92.0% (46/50) of patients continued to be in clinical response per PCDAI.
+
 Adult Crohn’s disease
 
 The safety and efficacy of Humira were assessed in over 1500 patients with moderately to severely active Crohn’s disease (Crohn’s Disease Activity Index (CDAI) ≥ 220 and ≤ 450) in randomised, double-blind, placebo-controlled studies.
@@ -371,8 +375,8 @@ In CD Study III, 854 patients received open-label 80 mg at Week 0 and 40 mg at W
 At Week 4 patients were randomised to 40 mg every other Week, 40 mg every Week, or placebo with a total study duration of 56 Weeks.
 Patients in clinical response (decrease in CDAI ≥ 70) at Week 4 were stratified and analysed separately from those not in clinical response at Week 4.
 Corticosteroid taper was permitted after Week 8.
-
 CD study I and CD study II induction of remission and response rates are presented in Table 16.
+
 Table 16
 Induction of Clinical Remission and Response
 (Percent of Patients)
@@ -414,7 +418,6 @@ Maintenance of Clinical Remission and Response
 
 * p < 0.001 for Humira versus placebo pairwise comparisons of proportions
 ** p < 0.02 for Humira versus placebo pairwise comparisons of proportions a Of those receiving corticosteroids at baseline
-
 Among patients who were not in response at Week 4, 43% of Humira maintenance patients responded by Week 12 compared to 30% of placebo maintenance patients.
 These results suggest that some patients who have not responded by Week 4 benefit from continued maintenance therapy through Week 12.
 Therapy continued beyond 12 Weeks did not result in significantly more responses (see section 4.2).
@@ -445,6 +448,8 @@ In patients not given concomitant methotrexate, the incidence was 12.4%, compare
 In patients with paediatric psoriasis, anti-adalimumab antibodies were identified in 5/38 subjects (13%) treated with 0.8mg/kg adalimumab monotherapy.
 
 In adult patients with psoriasis, anti-adalimumab antibodies were identified in 77/920 subjects (8.4%) treated with adalimumab monotherapy.
+
+In patients with moderately to severely active paediatric Crohn’s disease, the rate of anti-adalimumab antibody development in patients receiving adalimumab was 3.3%.
 
 Because immunogenicity analyses are product-specific, comparison of antibody rates with those from other products is not appropriate.
 
@@ -791,6 +796,7 @@ In patients with moderate to severe hidradenitis suppurativa, anti-adalimumab an
 Paediatric population
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Humira in all subsets of the paediatric population in rheumatoid arthritis, psoriatic arthritis and ankylosing spondylitis, see section 4.2 for information on paediatric use.
+
 The European Medicines Agency has deferred the obligation to submit the results of the studies with Humira in one or more subsets of the paediatric population in ulcerative colitis and hidradenitis suppurativa, see section 4.2 for information on paediatric use.
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]

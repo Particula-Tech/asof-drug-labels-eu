@@ -96,8 +96,8 @@ Undesirable Effects
 * further information is found elsewhere in sections 4.3, 4.4 and 4.8
 ** including open label extension studies
 1) including spontaneous reporting data
-
 Description of selected adverse reactions
+
 Injection site reactions
 
 In the pivotal controlled trials in adults and children, 12.9% of patients treated with Humira developed injection site reactions (erythema and/or itching, haemorrhage, pain or swelling), compared to 7.1% of patients receiving placebo or active control.
@@ -117,7 +117,7 @@ Most of the cases of tuberculosis occurred within the first eight months after i
 Malignancies and lymphoproliferative disorders
 
 No malignancies were observed in 249 paediatric patients with an exposure of 655.6 patient years during Humira trials in patients with juvenile idiopathic arthritis (polyarticular juvenile idiopathic arthritis and enthesitis-related arthritis).
-In addition, no malignancies were observed in 192 paediatric patients with an exposure of 258.9 patient years during a Humira trial in paediatric patients with Crohn’s disease.
+In addition, no malignancies were observed in 192 paediatric patients with an exposure of 498.1 patient years during Humira trials in paediatric patients with Crohn’s disease.
 No malignancies were observed in 77 paediatric patients with an exposure of 80.0 patient years during a Humira trial in paediatric patients with chronic plaque psoriasis.
 
 During the controlled portions of pivotal Humira trials in adults of at least 12 weeks in duration in patients with moderately to severely active rheumatoid arthritis, ankylosing spondylitis, axial spondyloarthritis without radiographic evidence of AS, psoriatic arthritis, psoriasis, hidradenitis suppurativa, Crohn’s disease and ulcerative colitis, malignancies, other than lymphoma and non-melanoma skin cancer, were observed at a rate (95% confidence interval) of 6.1 (3.8, 9.9) per 1,000 patient-years among 5,041 Humira treated patients versus a rate of 6.9 (3.7, 12.7) per 1,000 patient-years among 3,194 control patients (median duration of treatment was 4.0 months for Humira and 3.9 months for control-treated patients).
@@ -147,7 +147,7 @@ In controlled Phase 3 trials of Humira in patients with polyarticular juvenile i
 Most ALT elevations occurred with concomitant methotrexate use.
 No ALT elevations ≥ 3 x ULN occurred in the Phase 3 trial of Humira in patients with polyarticular juvenile idiopathic arthritis who were 2 to <4 years.
 
-In controlled Phase 3 trials of Humira in patients with Crohn’s disease and ulcerative colitis with a control period reanging from 4 to 52 weeks.
+In controlled Phase 3 trials of Humira in patients with Crohn’s disease and ulcerative colitis with a control period ranging from 4 to 52 weeks.
 ALT elevations ≥ 3 x ULN occurred in 0.9% of Humira-treated patients and 0.9% of controlled-treated patients.
 
 In the Phase 3 trial of Humira in patients with paediatric Crohn’s disease which evaluated efficacy and safety of two body weight adjusted maintenance dose regimens following body weight adjusted induction therapy up to 52 weeks of treatment, ALT elevations ≥ 3 x ULN occurred in 2.6% (5/192) of patients of whom 4 were receiving concomitant immunosuppressants at baseline.
@@ -160,6 +160,7 @@ In controlled trials of Humira (initial doses of 160 mg at Week 0 and 80 mg at W
 
 Across all indications in clinical trials patients with raised ALT were asymptomatic and in most cases elevations were transient and resolved on continued treatment.
 However, there have also been post-marketing reports of liver failure as well as less severe liver disorders that may precede liver failure, such as hepatitis including autoimmune hepatitis in patients receiving adalimumab.
+
 Concurrent treatment with azathioprine/6-mercaptopurine
 
 In adult Crohn’s disease studies, higher incidences of malignant and serious infection-related adverse events were seen with the combination of Humira and azathioprine/6-mercaptopurine compared with Humira alone.

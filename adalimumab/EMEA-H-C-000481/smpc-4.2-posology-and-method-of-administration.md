@@ -80,7 +80,7 @@ Paediatric Crohn's disease
 
 Paediatric Crohn's disease patients < 40 kg:
 
-The recommended Humira induction dose regimen for paediatric subjects with severe Crohn's disease is 40 mg at Week 0 followed by 20 mg at Week 2.
+The recommended Humira induction dose regimen for paediatric subjects with moderately to severely active Crohn's disease is 40 mg at Week 0 followed by 20 mg at Week 2.
 In case there is a need for a more rapid response to therapy, the regimen 80 mg at Week 0 (dose can be administered as two injections in one day), 40 mg at Week 2 can be used, with the awareness that the risk for adverse events may be higher with use of the higher induction dose.
 
 After induction treatment, the recommended dose is 20 mg every other week via subcutaneous injection.
@@ -88,7 +88,7 @@ Some subjects who experience insufficient response may benefit from an increase 
 
 Paediatric Crohn's disease patients ≥ 40 kg:
 
-The recommended Humira induction dose regimen for paediatric subjects with severe Crohn's disease is 80 mg at Week 0 followed by 40 mg at Week 2.
+The recommended Humira induction dose regimen for paediatric subjects with moderately to severely active Crohn's disease is 80 mg at Week 0 followed by 40 mg at Week 2.
 In case there is a need for a more rapid response to therapy, the regimen 160 mg at Week 0 (dose can be administered as four injections in one day or as two injections per day for two consecutive days), 80 mg at Week 2 can be used, with the awareness that the risk for adverse events may be higher with use of the higher induction dose.
 
 After induction treatment, the recommended dose is 40 mg every other week via subcutaneous injection.

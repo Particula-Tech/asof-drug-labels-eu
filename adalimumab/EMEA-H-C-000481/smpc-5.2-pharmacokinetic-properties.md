@@ -3,6 +3,7 @@
 Absorption and distribution
 
 Following the administration of 24 mg/m2 (up to a maximum of 40 mg) subcutaneously every other week to patients with polyarticular juvenile idiopathic arthritis (JIA) who were 4 to 17 years the mean trough steady-state (values measured from Week 20 to 48) serum adalimumab concentration was 5.6 ± 5.6 µg/ml (102% CV) for adalimumab without concomitant methotrexate and 10.9 ± 5.2 µg/ml (47.7% CV) with concomitant methotrexate.
+
 In patients with polyarticular JIA who were 2 to <4 years old or aged 4 and above weighing <15 kg dosed with adalimumab 24 mg/m2, the mean trough steady-state serum adalimumab concentrations was 6.0 ± 6.1 µg/ml (101% CV) for adalimumab without concomitant methotrexate and 7.9 ± 5.6 µg/ml (71.2% CV) with concomitant methotrexate.
 
 Following the administration of 24 mg/m2 (up to a maximum of 40 mg) subcutaneously every other week to patients with enthesitis-related arthritis who were 6 to 17 years, the mean trough steady-state (values measured at Week 24) serum adalimumab concentrations were 8.8 ± 6.6 μg/mL for adalimumab without concomitant methotrexate and 11.8 ± 4.3 μg/mL with concomitant methotrexate.
@@ -27,7 +28,6 @@ Adalimumab concentrations in the synovial fluid from several rheumatoid arthriti
 
 Following subcutaneous administration of 40 mg of adalimumab every other week in adult rheumatoid arthritis (RA) patients the mean steady-state trough concentrations were approximately 5 µg/ml (without concomitant methotrexate) and 8 to 9 µg/ml (with concomitant methotrexate), respectively.
 The serum adalimumab trough levels at steady-state increased roughly proportionally with dose following 20, 40 and 80 mg subcutaneous dosing every other week and every week.
-
 In adult patients with psoriasis, the mean steady-state trough concentration was 5 μg/mL during adalimumab 40 mg every other week monotherapy treatment.
 
 Elimination

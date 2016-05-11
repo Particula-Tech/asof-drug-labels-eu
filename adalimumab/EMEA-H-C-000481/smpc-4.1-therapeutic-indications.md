@@ -18,7 +18,7 @@ Humira is indicated for the treatment of severe chronic plaque psoriasis in chil
 
 Paediatric Crohn's disease
 
-Humira is indicated for the treatment of severe active Crohn's disease in paediatric patients (from 6 years of age) who have had an inadequate response to conventional therapy including primary nutrition therapy, a corticosteroid, and an immunomodulator, or who are intolerant to or have contraindications for such therapies.
+Humira is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients (from 6 years of age) who have had an inadequate response to conventional therapy including primary nutrition therapy and a corticosteroid and/or an immunomodulator, or who are intolerant to or have contraindications for such therapies.
 
 [Humira 40 mg solution for injection in pre-filled syringe]
 
