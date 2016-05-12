@@ -26,6 +26,7 @@ At 12 weeks (primary endpoint), Seebri Breezhaler increased trough FEV1 by 72 ml
 In the 6-month study, Seebri Breezhaler increased FEV1 after the first dose with an improvement of 93 ml within 5 minutes and 144 ml within 15 minutes of dosing, compared to placebo (both p<0.001).
 In the 12-month study, the improvements were 87 ml at 5 minutes and 143 ml at 15 minutes (both p<0.001).
 In the 12-month study, Seebri Breezhaler produced statistically significant improvements in FEV1 compared to tiotropium in the first 4 hours after dosing on day 1 and at week 26, and numerically greater values for FEV1 in the first 4 hours after dosing than tiotropium at week 12 and week 52.
+
 The values for FEV1 at the end of the dosing interval (24 h post dose) were similar between the first dose and those seen after 1 year of dosing.
 At 12 weeks (primary endpoint), Seebri Breezhaler increased trough FEV1 by 108 ml in the 6-month study and by 97 ml in the 12-month study compared to placebo (both p<0.001).
 In the 12-month study, the improvement versus placebo for tiotropium was 83 ml (p<0.001).
@@ -48,12 +49,12 @@ The pooled analysis also showed fewer patients treated with Seebri Breezhaler th
 
 Other effects
 Seebri Breezhaler once daily statistically significantly reduced the use of rescue medication (salbutamol) by 0.46 puffs per day (p=0.005) over 26 weeks and by 0.37 puffs per day (p=0.039) over 52 weeks, compared to placebo for the 6- and 12-month studies, respectively.
-
 In a 3-week study where exercise tolerance was tested via cycle ergometer at submaximal (80%) workload (submaximal exercise tolerance test), Seebri Breezhaler, dosed in the morning, reduced dynamic hyperinflation and improved the length of time exercise could be maintained from the first dose onwards.
 On the first day of treatment inspiratory capacity under exercise was improved by 230 ml and exercise endurance time was improved by 43 seconds (an increase of 10%) compared to placebo.
 After three weeks of treatment the improvement in inspiratory capacity with Seebri Breezhaler was similar to the first day (200 ml), exercise endurance time however had increased by 89 seconds (an increase of 21%) compared to placebo.
 Seebri Breezhaler was found to decrease dyspnoea and leg discomfort when exercising as measured using Borg scales.
 Seebri Breezhaler also reduced dyspnoea at rest measured using the Transitional Dyspnoea Index.
+
 Secondary pharmacodynamic effects
 No change in mean heart rate or QTc interval was observed with Seebri Breezhaler in doses up to 176 micrograms in COPD patients.
 In a thorough QT study in 73 healthy volunteers, a single inhaled dose of glycopyrronium 352 micrograms (8 times the therapeutic dose) did not prolong the QTc interval and slightly reduced heart rate (maximal effect -5.9 bpm; average effect over

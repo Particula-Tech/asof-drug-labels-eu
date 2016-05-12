@@ -11,12 +11,12 @@ Pull off the cap.
 Open inhaler:
 Hold the base of the inhaler firmly and tilt the mouthpiece.
 This opens the inhaler.
-
 Prepare capsule:
 Separate one of the blisters from the blister card by tearing along the perforation.
 Take one blister and peel away the protective backing to expose the capsule.
 
 Do not push capsule through foil.
+
 Remove a capsule:
 Capsules should always be stored in the blister and only removed immediately before use.
 With dry hands, remove capsule from the blister.
@@ -40,6 +40,7 @@ Do this only once.
 - You should hear a “click” as the capsule is being pierced.
 
 Release the side buttons fully.
+
 Breathe out:
 Before placing the mouthpiece in your mouth, breathe out fully.
 

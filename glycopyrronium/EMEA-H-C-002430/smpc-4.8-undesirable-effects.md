@@ -24,9 +24,9 @@ Table 1 Adverse reactions reported in the pooled 6-month database
 | Psychiatric disorders Insomnia | Common |
 | Nervous system disorders Headache3) Hypoaesthesia | Common Uncommon |
 | Cardiac disorders Atrial fibrillation Palpitations | Uncommon Uncommon |
-| Respiratory, thoracic and mediastinal disorders Sinus congestion Productive cough Throat irritation Epistaxis | Uncommon Uncommon Uncommon Uncommon |
+| Respiratory, thoracic and mediastinal disorders Sinus congestion Productive cough Throat irritation Epistaxis Paradoxical bronchospasm2) | Uncommon Uncommon Uncommon Uncommon Not known |
 | Gastrointestinal disorders Dry mouth Gastroenteritis Dyspepsia Dental caries | Common Common Uncommon Uncommon |
-| Skin and subcutaneous tissue disorders Rash | Uncommon |
+| Skin and subcutaneous tissue disorders Rash Pruritus2) | Uncommon Uncommon |
 | Musculoskeletal and connective tissue disorders Pain in extremity Musculoskeletal chest pain | Uncommon Uncommon |
 | Renal and urinary disorders Urinary tract infection3) Dysuria Urinary retention | Common Uncommon Uncommon |
 | General disorders and administration site conditions Fatigue Asthenia | Uncommon Uncommon |
@@ -43,7 +43,6 @@ In the pooled 6-month database the frequency of dry mouth was 2.2% versus 1.1%, 
 Dry mouth was reported mainly during the first 4 weeks of treatment with a median duration of four weeks in the majority of patients.
 However in 40% of cases symptoms continued for the entire 6- month period.
 No new cases of dry mouth were reported in months 7-12.
-
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.

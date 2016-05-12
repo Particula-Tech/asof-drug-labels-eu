@@ -2,6 +2,9 @@
 
 The co-administration of Seebri Breezhaler with other anticholinergic-containing medicinal products has not been studied and is therefore not recommended.
 
+Although no formal drug interaction studies have been performed, Seebri Breezhaler has been used concomitantly with other medicinal products commonly used in the treatment of COPD without clinical evidence of drug interactions.
+These include sympathomimetic bronchodilators, methylxanthines, and oral and inhaled steroids.
+
 In a clinical study in healthy volunteers, cimetidine, an inhibitor of organic cation transport which is thought to contribute to the renal excretion of glycopyrronium, increased total exposure (AUC) to glycopyrronium by 22% and decreased renal clearance by 23%.
 Based on the magnitude of these changes, no clinically relevant drug interaction is expected when glycopyrronium is co-administered with cimetidine or other inhibitors of organic cation transport.
 
