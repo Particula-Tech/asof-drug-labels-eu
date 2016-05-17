@@ -10,9 +10,10 @@ Epivir is also available as an oral solution for children over three months of a
 Alternatively, for patients who are unable to swallow tablets, the tablet(s) may be crushed and added to a small amount of semi-solid food or liquid, all of which should be consumed immediately (see section 5.2).
 
 Adults, adolescents and children (weighing at least 25 kg):
-
 The recommended dose of Epivir is 300 mg daily.
 This may be administered as either 150 mg twice daily or 300 mg once daily (see section 4.4).
+
+The 300 mg tablet is only suitable for the once a day regimen.
 
 Children (weighing less than 25 kg):
 
@@ -23,6 +24,9 @@ This may be administered as either 75 mg (one-half of a 150 mg tablet) taken in 
 
 Children weighing 14 to < 20 kg: The recommended dose is 150 mg daily.
 This may be administered as 75 mg (one-half of a 150 mg tablet) taken twice daily, or 150 mg (one whole 150 mg tablet) taken once daily.
+
+Children from three months of age: As an accurate dosage cannot be achieved with the 300 mg non-scored tablet formulation in this patient population, it is recommended that the Epivir 150 mg scored tablet formulation is used and the corresponding recommended dosage instructions are followed.
+
 Children less than three months of age: The limited data available are insufficient to propose specific dosage recommendations (see section 5.2).
 
 Patients changing from the twice daily dosing regimen to the once daily dosing regimen should take the recommended once daily dose (as described above) approximately 12 hours after the last twice daily dose, and then continue to take the recommended once daily dose (as described above) approximately every 24 hours.
@@ -92,15 +96,3 @@ The dose should therefore be adjusted (see tables).
 | 15 to <30 | 4 mg/kg | 2.6 mg/kg once daily |
 | 5 to <15 | 4 mg/kg | 1.3 mg/kg once daily |
 | <5 | 1.3 mg/kg | 0.7 mg/kg once daily |
-
-[Epivir 300 mg film-coated tablets]
-
-Posology
-
-The 300 mg tablet is only suitable for the once a day regimen.
-
-Children from three months of age: As an accurate dosage cannot be achieved with the 300 mg non-scored tablet formulation in this patient population, it is recommended that the Epivir 150 mg scored tablet formulation is used and the corresponding recommended dosage instructions are followed.
-
-Method of administration
-
-Alternatively, the tablets may be crushed and added to a small amount of semi-solid food or liquid, all of which should be consumed immediately (see section 5.2).

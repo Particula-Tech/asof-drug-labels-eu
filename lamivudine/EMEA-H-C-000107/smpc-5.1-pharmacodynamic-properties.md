@@ -8,7 +8,7 @@ Lamivudine is a nucleoside analogue which has activity against human immunodefic
 It is metabolised intracellularly to the active moiety, lamivudine 5’- triphosphate.
 Its main mode of action is as a chain terminator of viral reverse transcription.
 The triphosphate has selective inhibitory activity against HIV-1 and HIV-2 replication in vitro, it is also active against zidovudine-resistant clinical isolates of HIV.
-Lamivudine in combination with zidovudine exhibits synergistic anti-HIV activity against clinical isolates in cell culture.
+No antagonistic effects in vitro were seen with lamivudine and other anti retrovirals (tested agents: abacavir, didanosine, nevirapine and zidovudine).
 
 Resistance
 
@@ -36,10 +36,10 @@ Clinical efficacy and safety
 
 In clinical trials, lamivudine in combination with zidovudine has been shown to reduce HIV-1 viral load and increase CD4 cell count.
 Clinical end-point data indicate that lamivudine in combination with zidovudine, results in a significant reduction in the risk of disease progression and mortality.
+
 Evidence from clinical studies shows that lamivudine plus zidovudine delays the emergence of zidovudine resistant isolates in individuals with no prior antiretroviral therapy.
 
 Lamivudine has been widely used as a component of antiretroviral combination therapy with other antiretroviral agents of the same class (NRTIs) or different classes (PIs, non-nucleoside reverse transcriptase inhibitors).
-
 Multiple drug antiretroviral therapy containing lamivudine has been shown to be effective in antiretrovirally-naive patients as well as in patients presenting with viruses containing the M184V mutations.
 
 The relationship between in vitro susceptibility of HIV to lamivudine and clinical response to lamivudine-containing therapy remains under investigation.
@@ -72,14 +72,11 @@ Virological Response Based on Plasma HIV-1 RNA less than 80 copies/ml at Week 48
 | Risk difference (once daily-twice daily) | -1.6% (95% CI -8.4% to +5.2%), p=0.65 |  |
 | Week 96 |  |  |
 | Plasma HIV-1 RNA <80 c/mL | 234/326 (72) | 230/331 (69) |
-
-Risk difference (once -2.3% (95% CI -9.3% to +4.7%), p=0.52
-daily-twice daily)
+| Risk difference (once daily-twice daily) | -2.3% (95% CI -9.3% to +4.7%), p=0.52 |  |
 
 In a pharmacokinetic study (PENTA 15), four virologically controlled subjects less than 12 months of age switched from abacavir plus lamivudine oral solution twice daily to a once daily regimen.
 Three subjects had undetectable viral load and one had plasmatic HIV-RNA of 900 copies/ml at Week 48.
 No safety concerns were observed in these subjects.
-
 The abacavir + lamivudine once daily dosing group was demonstrated to be non-inferior to the twice daily group according to the pre-specified non-inferiority margin of -12%, for the primary endpoint of <80 c/mL at Week 48 as well as at Week 96 (secondary endpoint) and all other thresholds tested (<200c/mL, <400c/mL, <1000c/mL), which all fell well within this non-inferiority margin.
 Subgroup analyses testing for heterogeneity of once vs twice daily demonstrated no significant effect of sex, age, or viral load at randomisation.
 Conclusions supported non-inferiority regardless of analysis method.
@@ -89,7 +86,3 @@ Conclusions supported non-inferiority regardless of analysis method.
 The triphosphate has selective inhibitory activity against HIV-1 and HIV-2 replication in vitro; it is also active against zidovudine-resistant clinical isolates of HIV.
 
 However, for the treatment of HIV infection, only a 300 mg daily dose of lamivudine (in combination with other antiretroviral agents) has been shown to be efficacious.
-
-[Epivir 300 mg film-coated tablets]
-
-(all sentences already above)

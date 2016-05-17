@@ -10,6 +10,9 @@ Blood and lymphatic systems disorders
 Uncommon: Neutropenia and anaemia (both occasionally severe), thrombocytopenia
 Very rare: Pure red cell aplasia
 
+Metabolism and nutrition disorders
+Very rare: Lactic acidosis
+
 Nervous system disorders
 Common: Headache, insomnia
 Very rare: peripheral neuropathy (or paraesthesia)
@@ -33,13 +36,9 @@ Common: Arthralgia, muscle disorders
 Rare: Rhabdomyolysis
 
 General disorders and administration site conditions
-Common: Fatigue, malaise, fever.
+Common: Fatigue, malaise, fever
 
-Cases of lactic acidosis, sometimes fatal, usually associated with severe hepatomegaly and hepatic steatosis, have been reported with the use of nucleoside analogues (see section 4.4).
-
-Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump).
-
-Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
+Weight and levels of blood lipids and glucose may increase during antiretroviral therapy (see section 4.4)
 
 In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise.
 Autoimmune disorders (such as Graves’ disease) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
@@ -55,13 +54,10 @@ No additional safety issues have been identified in paediatric subjects receivin
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system
+
+listed in Appendix V.
 
 [Epivir 10 mg/ml oral solution]
 
 Rare: Pancreatitis elevations in serum amylase.
-
-[Epivir 300 mg film-coated tablets]
-
-Rare: Pancreatitis.
-Elevations in serum amylase.

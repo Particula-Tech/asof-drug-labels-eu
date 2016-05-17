@@ -4,7 +4,7 @@ Absorption
 
 Lamivudine is well absorbed from the gastrointestinal tract, and the bioavailability of oral lamivudine in adults is normally between 80 and 85%.
 Following oral administration, the mean time (tmax) to maximal serum concentrations (Cmax) is about an hour.
-Based on data derived from a study in healthy volunteers, at a therapeutic dose of 150mg twice daily, mean (CV) steady-state Cmax and Cmin of lamivudine in plasma are 1.2 µg/ml (24%) and 0.09 µg/ml (27%), respectively.
+Based on data derived from a study in healthy volunteers, at a therapeutic dose of 150 mg twice daily, mean (CV) steady-state Cmax and Cmin of lamivudine in plasma are 1.2 µg/ml (24%) and 0.09 µg/ml (27%), respectively.
 The mean (CV) AUC over a dosing interval of 12 hours is 4.7 µg.h/ml (18%).
 At a therapeutic dose of 300mg once daily, the mean (CV) steady-state Cmax, Cmin and 24h AUC are 2.0 µg/ml (26%), 0.04 µg/ml (34%) and 8.9 µg.h/ml (21%), respectively.
 
@@ -79,6 +79,8 @@ Pregnancy: Following oral administration, lamivudine pharmacokinetics in late-pr
 
 [Epivir 10 mg/ml oral solution]
 
+Based on data derived from a study in healthy volunteers, at a therapeutic dose of 150mg twice daily, mean (CV) steady-state Cmax and Cmin of lamivudine in plasma are 1.2 µg/ml (24%) and 0.09 µg/ml (27%), respectively.
+
 Co-administration of lamivudine with food results in a delay of tmax and a lower C max (decreased by 47 %).
 
 Co-administration of zidovudine results in a 13% increase in zidovudine exposure and a 28% increase in peak plasma levels.
@@ -86,7 +88,3 @@ Co-administration of zidovudine results in a 13% increase in zidovudine exposure
 The mean systemic clearance of lamivudine is approximately 0.32 l/h/kg, with predominantly renal clearance (>70 %) via the organic cationic transport system.
 
 An interaction with trimethoprim, a constituent of co-trimoxazole, causes a40 % increase in lamivudine exposure at therapeutic doses.
-
-[Epivir 300 mg film-coated tablets]
-
-Co-administration of zidovudine results in a 13 % increase in zidovudine exposure and a 28 % increase in peak plasma levels.
