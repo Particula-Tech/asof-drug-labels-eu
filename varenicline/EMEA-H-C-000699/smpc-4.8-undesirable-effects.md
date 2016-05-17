@@ -15,10 +15,11 @@ The treatment discontinuation rate due to adverse reactions was 11.4% for vareni
 In this group, the discontinuation rates for the most common adverse reactions in varenicline treated patients were as follows: nausea (2.7% vs. 0.6% for placebo), headache (0.6% vs. 1.0% for placebo), insomnia (1.3% vs. 1.2% for placebo), and abnormal dreams (0.2% vs. 0.2% for placebo).
 
 Tabulated summary of adverse reactions
-In the table below all adverse reactions, which occurred at an incidence greater than placebo are listed by system organ class and frequency (very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100) and rare (≥ 1/10,000 to < 1/1,000)).
+In the table below all adverse reactions, which occurred at an incidence greater than placebo are listed by system organ class and frequency (very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100) and rare (≥1/10,000 to < 1/1,000)).
 Adverse drug reactions listed in the table below are based on evaluation of data from pre-marketing phase 2-3 studies and updated based on pooled data from 18 placebo-controlled pre- and post-marketing studies, including approximately 5,000 patients treated with varenicline.
 Reported postmarketing adverse reactions are also included for which frequency is not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+
 System Organ Adverse Drug Reactions
 Class
 Infections and infestations
@@ -94,6 +95,8 @@ Very common Nausea
 Common Gastrooesophageal reflux disease, vomiting, constipation, diarrhoea,
 
 abdominal distension, abdominal pain, toothache, dyspepsia, flatulence, dry mouth
+System Organ Adverse Drug Reactions
+Class
 
 Uncommon Haematochezia, gastritis, change of bowel habit, eructation, aphthous
 
@@ -105,10 +108,6 @@ Skin and subcutaneous tissue disorders
 
 Common Rash, pruritus
 Uncommon Erythema, acne, hyperhidrosis, night sweats
-
-System Organ Adverse Drug Reactions
-Class
-
 Not Known Severe cutaneous reactions, including Stevens Johnson Syndrome and
 
 Erythema Multiforme, angioedema

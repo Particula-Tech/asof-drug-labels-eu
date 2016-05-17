@@ -23,7 +23,9 @@ Warfarin: Varenicline did not alter the pharmacokinetics of warfarin.
 Prothrombin time (INR) was not affected by varenicline.
 Smoking cessation itself may result in changes to warfarin pharmacokinetics (see section 4.4).
 
-Alcohol: There is limited clinical data on any potential interaction between alcohol and varenicline.
+Alcohol: There are limited clinical data on any potential interaction between alcohol and varenicline.
+There have been post marketing reports of increased intoxicating effects of alcohol in patients treated with varenicline.
+A causal relationship between these events and varenicline use has not been established.
 
 Use with other therapies for smoking cessation:
 

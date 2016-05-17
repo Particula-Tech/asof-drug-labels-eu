@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: OTHER NERVOUS SYSTEM DRUGS; Drugs used in nicotine, dependence, ATC code: N07BA03
-
 Mechanism of action
 Varenicline binds with high affinity and selectivity at the α4β2 neuronal nicotinic acetylcholine receptors, where it acts as a partial agonist - a compound that has both agonist activity, with lower intrinsic efficacy than nicotine, and antagonist activities in the presence of nicotine.
 
@@ -14,14 +13,15 @@ Pharmacodynamic effects
 The efficacy of CHAMPIX in smoking cessation is a result of varenicline's partial agonist activity at the α4β2 nicotinic receptor where its binding produces an effect sufficient to alleviate symptoms of craving and withdrawal (agonist activity), while simultaneously resulting in a reduction of the rewarding and reinforcing effects of smoking by preventing nicotine binding to α4β2 receptors (antagonist activity).
 
 Clinical efficacy and safety
-The efficacy of CHAMPIX in smoking cessation was demonstrated in 3 clinical trials involving chronic cigarette smokers (≥ 10 cigarettes per day).
-Two thousand six hundred nineteen (2619) patients received CHAMPIX 1 mg BID (titrated during the first week), 669 patients received bupropion 150 mg BID (also titrated) and 684 patients received placebo.
+The efficacy of CHAMPIX in smoking cessation was demonstrated in 3 clinical trials involving chronic cigarette smokers (≥10 cigarettes per day).
+Two thousand six hundred nineteen
+(2619) patients received CHAMPIX 1 mg BID (titrated during the first week), 669 patients received bupropion 150 mg BID (also titrated) and 684 patients received placebo.
 
 Comparative clinical studies
 Two identical double-blind clinical trials prospectively compared the efficacy of CHAMPIX (1 mg twice daily), sustained release bupropion (150 mg twice daily) and placebo in smoking cessation.
-In these 52-week duration studies, patients received treatment for 12 weeks, followed by a 40-week non-treatment phase.
+In these 52 week duration studies, patients received treatment for 12 weeks, followed by a 40 week non-treatment phase.
 
-The primary endpoint of the two studies was the carbon monoxide (CO) confirmed, 4-week continuous quit rate (4W-CQR) from week 9 through week 12.
+The primary endpoint of the two studies was the carbon monoxide (CO) confirmed, 4 week continuous quit rate (4W-CQR) from week 9 through week 12.
 The primary endpoint for CHAMPIX demonstrated statistical superiority to bupropion and placebo.
 
 After the 40 week non-treatment phase, a key secondary endpoint for both studies was the Continuous Abstinence Rate (CA) at week 52.
@@ -51,7 +51,8 @@ Patients who stopped smoking by Week 12 were then randomised to receive either C
 The primary study endpoint was the CO-confirmed continuous abstinence rate from week 13 through week 24 in the double-blind treatment phase.
 A key secondary endpoint was the continuous abstinence (CA) rate for week 13 through week 52.
 
-This study showed the benefit of an additional 12-week treatment with CHAMPIX 1 mg twice daily for the maintenance of smoking cessation compared to placebo; superiority to placebo for CA was maintained through week 52.The key results are summarised in the following table:
+This study showed the benefit of an additional 12-week treatment with CHAMPIX 1 mg twice daily for the maintenance of smoking cessation compared to placebo; superiority to placebo for CA was maintained through week 52.
+The key results are summarised in the following table:
 
 Continuous Abstinence Rates in Subjects Treated with Champix versus Placebo
 
@@ -124,12 +125,12 @@ Subjects were randomised to CHAMPIX 1 mg twice daily (n=353) or placebo (n=350) 
 The 4 week CQR for varenicline and placebo was 47.3% and 14.3%, respectively and the CA week 9-52 was 19.8% (varenicline) vs. 7.4% (placebo).
 
 Deaths and serious cardiovascular events were adjudicated by a blinded, committee.
-The following adjudicated events occurred with a frequency ≥ 1% in either treatment group during treatment (or in the 30-day period after treatment): nonfatal myocardial infarction (1.1% vs. 0.3% for CHAMPIX and placebo, respectively), and hospitalisation for angina pectoris (0.6% vs. 1.1%).
+The following adjudicated events occurred with a frequency ≥1% in either treatment group during treatment (or in the 30-day period after treatment): nonfatal myocardial infarction (1.1% vs. 0.3% for CHAMPIX and placebo, respectively), and hospitalisation for angina pectoris (0.6% vs. 1.1%).
 During non-treatment follow up to 52 weeks, the adjudicated events included need for coronary revascularisation (2.0% vs. 0.6%), hospitalisation for angina pectoris (1.7% vs. 1.1%), and new diagnosis of peripheral vascular disease (PVD) or admission for a PVD procedure (1.4% vs. 0.6%).
 Some of the patients requiring coronary revascularisation underwent the procedure as part of management of nonfatal MI and hospitalisation for angina.
 Cardiovascular death occurred in 0.3% of patients in the CHAMPIX arm and 0.6% of patients in the placebo arm over the course of the 52-week study.
 
-A meta-analysis of 15 clinical trials of ≥ 12 weeks treatment duration, including 7002 patients
+A meta-analysis of 15 clinical trials of ≥12 weeks treatment duration, including 7002 patients
 (4190 CHAMPIX, 2812 placebo), was conducted to systematically assess the cardiovascular safety of CHAMPIX.
 The study in patients with stable cardiovascular disease described above was included in the meta-analysis.
 
@@ -160,13 +161,14 @@ Study in subjects with a history of major depressive disorder:
 The efficacy of varenicline was confirmed in a randomised placebo-controlled trial in 525 subjects with a history of major depression in the past two years or under current stable treatment.
 The cessation rates in this population were similar to those reported in the general population.
 Continuous abstinence rate between weeks 9-12 was 35.9% in the varenicline treatment group versus 15.6% in the placebo group (OR 3.35 (95% CI 2.16-5.21)) and between weeks 9-52 was 20.3% versus 10.4% respectively (OR 2.36 (95% CI 1.40-3.98)).
-The most common adverse events (≥ 10%) in subjects taking varenicline were nausea (27.0% vs. 10.4% on placebo), headache (16.8% vs. 11.2%), abnormal dreams (11.3% vs. 8.2%), insomnia (10.9% vs. 4.8%) and irritability (10.9% vs. 8.2%).
+The most common adverse events (≥10%) in subjects taking varenicline were nausea (27.0% vs. 10.4% on placebo), headache (16.8% vs. 11.2%), abnormal dreams (11.3% vs. 8.2%), insomnia (10.9% vs. 4.8%) and irritability (10.9% vs. 8.2%).
 Psychiatric scales showed no differences between the varenicline and placebo groups and no overall worsening of depression, or other psychiatric symptoms, during the study in either treatment group.
+
 Study in subjects with stable schizophrenia or schizoaffective disorder:
 Varenicline safety and tolerability was assessed in a double-blind study of 128 smokers with stable schizophrenia or schizoaffective disorder, on antipsychotic medication, randomised 2:1 to varenicline (1 mg twice daily) or placebo for 12 weeks with 12-week non-drug follow-up.
 
 The most common adverse events in subjects taking varenicline were nausea (23.8% vs. 14.0% on placebo), headache (10.7% vs. 18.6% on placebo) and vomiting (10.7% vs. 9.3% on placebo).
-Among reported neuropsychiatric adverse events, insomnia was the only event reported in either treatment group in ≥ 5% of subjects at a rate higher in the varenicline group than in placebo
+Among reported neuropsychiatric adverse events, insomnia was the only event reported in either treatment group in ≥5% of subjects at a rate higher in the varenicline group than in placebo
 (9.5% vs. 4.7%).
 
 Overall, there was no worsening of schizophrenia in either treatment group as measured by psychiatric scales and there were no overall changes in extra-pyramidal signs.
@@ -176,16 +178,74 @@ The percentage of subjects with suicide-related events in the active treatment p
 Although there were no completed suicides, there was one suicidal attempt in a varenicline-treated subject whose lifetime history included several similar attempts.
 The limited data available from this single smoking cessation study are not sufficient to allow for definitive conclusions to be drawn about the safety in patients with schizophrenia or schizoaffective disorder.
 
+Neuropsychiatric Safety:
+
+Analyses of clinical trial data did not show evidence of an increased risk of serious neuropsychiatric events with varenicline compared to placebo.
+In addition, independent observational studies have not supported an increased risk of serious neuropsychiatric events in patients treated with varenicline compared to patients prescribed nicotine replacement therapy (NRT) or bupropion.
+Analyses of Clinical Trials:
+
+A meta-analysis of 5 randomized, double-blind, placebo controlled trials, including 1907 patients (1130 varenicline, 777 placebo), was conducted to assess suicidal ideation and behavior as reported on the Columbia-Suicide Severity Rating Scale (C-SSRS).
+This meta-analysis included one trial (N=127) in patients with a history of schizophrenia or schizoaffective disorder and another trial (N=525) in patients with a history of depression.
+The results showed no increase in the incidence of suicidal ideation and/or behavior in patients treated with varenicline compared to patients treated with placebo, as shown in the table below.
+Of the 55 patients who reported suicidal ideation or behaviour, 48 (24 varenicline, 24 placebo) were from the two trials that enrolled patients with a history of schizophrenia/ schizoaffective disorder, or of depression.
+Few patients reported these events in the other three trials (4 varenicline, 3 placebo).
+
+Number of Patients and Risk Ratio for Suicidal Ideation and/or Behavior Reported on C-SSRS from a Meta-Analysis of 5 Clinical Trials Comparing Varenicline to Placebo:
+
+|  | Varenicline (N=1130) | Placebo (N=777) |
+| --- | --- | --- |
+| Patients with suicidal ideation and/or behaviour* [n (%)]** | 28 (2.5) | 27 (3.5) |
+| Patient-years of exposure | 325 | 217 |
+| Risk Ratio # (RR; 95% CI) | 0.79 (0.46, 1.36) |  |
+
+* Of these, one patient in each treatment arm reported suicidal behavior
+** Patients with events up to 30 days after treatment; % are not weighted by study
+# RR of incidence rates per 100 patient years
+
+A meta-analysis of 18 double-blind, randomized, placebo-controlled clinical trials was conducted to assess the neuropsychiatric safety of varenicline.
+These trials included the 5 trials described above that used the C-SSRS, and a total of 8521 patients (5072 varenicline, 3449 placebo), some of which had psychiatric conditions.
+The results showed a similar incidence of combined neuropsychiatric adverse events, other than sleep disorders, in patients treated with varenicline compared to patients treated with placebo, with a risk ratio (RR) of 1.01 (95% CI: 0.89-1.15).
+Pooled data from these 18 trials showed a similar incidence rate of individual categories of psychiatric events in patients treated with varenicline compared to patients treated with placebo.
+The table below describes the most frequently (≥1%) reported categories of adverse events related to psychiatric safety other than sleep disorders and disturbances.
+
+Psychiatric Adverse Events Occurring in ≥1% of Patients from Pooled Data from 18 Clinical Trials:
+
+|  | Varenicline (N=5072) | Placebo (N=3449) |
+| --- | --- | --- |
+| Anxiety disorders and symptoms | 253 (5.0) | 206 (6.0) |
+| Depressed mood disorders and disturbances | 179 (3.5) | 108 (3.1) |
+| Mood disorders and disturbances NEC* | 116 (2.3) | 53 (1.5) |
+
+* NEC = Not Elsewhere Classified
+Counts (percentages) corresponds to the number of patients reporting the event
+
+Observational Studies
+
+Four observational studies, each including 10,000 to 30,000 users of varenicline in the adjusted analyses, compared the risk of serious neuropsychiatric events, including neuropsychiatric hospitalizations and fatal and non-fatal self-harm, in patients treated with varenicline versus patients prescribed NRT or bupropion.
+All studies were retrospective cohort studies and included patients with and without a psychiatric history.
+All studies used statistical methods to control for confounding factors, including preferential prescribing of varenicline to healthier patients, although there is the possibility of residual confounding.
+
+Two of the studies found no difference in risk of neuropsychiatric hospitalisations between varenicline users and nicotine patch users (Hazard Ratio [HR] 1.14; 95% Confidence Interval [CI]: 0.56-2.34 in the first study, and 0.76; 95% CI: 0.40-1.46 in the second study).
+The power to detect differences in these two studies was limited.
+The third study reported no difference in risk of psychiatric adverse events diagnosed during an emergency department visit or inpatient admission between varenicline users and bupropion users (HR 0.85; 95% CI: 0.55-1.30).
+Based on post marketing reports, bupropion may be associated with neuropsychiatric adverse events.
+
+The fourth study showed no evidence of a higher risk of fatal and non-fatal self- harm (HR of 0.88; 95% CI: 0.52-1.49) in patients prescribed varenicline compared to patients prescribed NRT.
+The occurrence of detected suicide was rare during the three months after patients initiated any drug treatment (two cases in 31,260 varenicline users and six cases in 81,545 NRT users).
+
 [CHAMPIX 1 mg film-coated tablets]
+
+Two thousand six hundred nineteen (2619) patients received CHAMPIX 1 mg BID (titrated during the first week), 669 patients received bupropion 150 mg BID (also titrated) and 684 patients received placebo.
 
 Two identical double-blind clinical trials prospectively compared the efficacy of CHAMPIX
 (1 mg twice daily), sustained release bupropion (150 mg twice daily) and placebo in smoking cessation.
+In these 52-week duration studies, patients received treatment for 12 weeks, followed by a 40-week non-treatment phase.
 
-This study showed the benefit of an additional 12-week treatment with CHAMPIX 1 mg twice daily for the maintenance of smoking cessation compared to placebo; superiority to placebo for CA was maintained through week 52.
+The primary endpoint of the two studies was the carbon monoxide (CO) confirmed, 4-week continuous quit rate (4W-CQR) from week 9 through week 12.
 
 The 4 week (week 9-12) CQR for varenicline and placebo was 53.9% and 19.4%, respectively (difference=34.5, 95% CI:
 
-The following adjudicated events occurred with a frequency ≥ 1% in either treatment group during treatment
+The following adjudicated events occurred with a frequency ≥1% in either treatment group during treatment
 (or in the 30-day period after treatment): nonfatal myocardial infarction (1.1% vs. 0.3% for CHAMPIX and placebo, respectively), and hospitalisation for angina pectoris (0.6% vs. 1.1%).
 
 These are equivalent to an estimated increase of 6.5 MACE events and 6.3 MACE events per
@@ -193,9 +253,29 @@ These are equivalent to an estimated increase of 6.5 MACE events and 6.3 MACE ev
 
 The efficacy of varenicline was confirmed in a randomised placebo-controlled trial of 525 subjects with a history of major depression in the past two years or under current stable treatment.
 
-Among reported neuropsychiatric adverse events, insomnia was the only event reported in either treatment group in ≥ 5% of subjects at a rate higher in the varenicline group than in placebo (9.5% vs. 4.7%).
+Among reported neuropsychiatric adverse events, insomnia was the only event reported in either treatment group in ≥5% of subjects at a rate higher in the varenicline group than in placebo (9.5% vs. 4.7%).
+
+A meta-analysis of 5 randomized, double blind, placebo controlled trials, including 1907 patients (1130 varenicline, 777 placebo), was conducted to assess suicidal ideation and behavior as reported on the Columbia-Suicide Severity Rating Scale (C-SSRS).
+
+|  | Varenicline (N=1130) | Placebo (N=777) |
+| --- | --- | --- |
+| Patients with suicidal ideation and/or behaviour* [n (%)]** | 28 (2.5) | 27 (3.5) |
+| Patient-years of exposure | 325 | 217 |
+
+Risk Ratio # (RR; 95% CI) 0.79 (0.46, 1.36)
 
 [CHAMPIX 0.5 mg film-coated tablets (SmPC 3)]
+
+|  | Study 1 (n=1022) |  | Study 2 (n=1023) |  |
+| --- | --- | --- | --- | --- |
+|  | 4W CQR | CA Wk 9-52 | 4W CQR | CA Wk 9-52 |
+| CHAMPIX | 44.4% | 22.1% | 44.0% | 23.0% |
+| Bupropion | 29.5% | 16.4% | 30.0% | 15.0% |
+| Placebo | 17.7% | 8.4% | 17.7% | 10.3% |
+| Odds ratio CHAMPIX vs. placebo | 3.91 p < 0.0001 | 3.13 p < 0.0001 | 3.85 p < 0.0001 | 2.66 p < 0.0001 |
+
+Odds ratio 1.96 1.45 1.89 1.72
+CHAMPIX vs. bupropion p < 0.0001 p = 0.0640 p < 0.0001 p = 0.0062
 
 *CA: Continuous Abstinence
 

@@ -23,6 +23,7 @@ In vitro studies demonstrate that varenicline does not inhibit cytochrome P450 e
 The P450 enzymes tested for inhibition were: 1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1, and 3A4/5.
 Also, in human hepatocytes in vitro, varenicline was shown to not induce the activity of cytochrome P450 enzymes 1A2 and 3A4.
 Therefore, varenicline is unlikely to alter the pharmacokinetics of compounds that are primarily metabolised by cytochrome P450 enzymes.
+
 Elimination
 The elimination half-life of varenicline is approximately 24 hours.
 Renal elimination of varenicline is primarily through glomerular filtration along with active tubular secretion via the organic cationic transporter, OCT2 (see section 4.5).
@@ -32,12 +33,11 @@ Varenicline exhibits linear kinetics when given as single (0.1 to 3 mg) or repea
 
 Pharmacokinetics in special patient populations
 There are no clinically meaningful differences in varenicline pharmacokinetics due to age, race, gender, smoking status, or use of concomitant medicinal products, as demonstrated in specific pharmacokinetic studies and in population pharmacokinetic analyses.
-
 Patients with hepatic impairment: Due to the absence of significant hepatic metabolism, varenicline pharmacokinetics should be unaffected in patients with hepatic impairment.
 (see section 4.2).
 
-Patients with renal impairment: Varenicline pharmacokinetics were unchanged in subjects with mild renal impairment (estimated creatinine clearance > 50 ml/min and ≤ 80 ml/min).
-In patients with moderate renal impairment (estimated creatinine clearance ≥ 30 ml/min and ≤ 50 ml/min), varenicline exposure increased 1.5-fold compared with subjects with normal renal function (estimated creatinine clearance > 80 ml/min).
+Patients with renal impairment: Varenicline pharmacokinetics were unchanged in subjects with mild renal impairment (estimated creatinine clearance > 50 ml/min and ≤80 ml/min).
+In patients with moderate renal impairment (estimated creatinine clearance ≥30 ml/min and ≤50 ml/min), varenicline exposure increased 1.5-fold compared with subjects with normal renal function (estimated creatinine clearance > 80 ml/min).
 In subjects with severe renal impairment (estimated creatinine clearance
 < 30 ml/min), varenicline exposure was increased 2.1-fold.
 In subjects with end-stage-renal disease (ESRD), varenicline was efficiently removed by haemodialysis (see section 4.2).
@@ -47,5 +47,5 @@ For elderly patients with reduced renal function please refer to section 4.2.
 
 Paediatric population: Single and multiple-dose pharmacokinetics of varenicline have been investigated in pediatric patients aged 12 to 17 years old (inclusive) and were approximately dose-proportional over the 0.5 mg to 2 mg daily dose range studied.
 Steady-state systemic exposure in adolescent patients of bodyweight > 55 kg, as assessed by AUC (0-24), was comparable to that noted for the same doses in the adult population.
-When 0.5 mg BID was given, steady-state daily exposure of varenicline was, on average, higher (by approximately 40%) in adolescent patients with bodyweight ≤ 55 kg compared to that noted in the adult population.
+When 0.5 mg BID was given, steady-state daily exposure of varenicline was, on average, higher (by approximately 40%) in adolescent patients with bodyweight ≤55 kg compared to that noted in the adult population.
 Efficacy and safety has not been demonstrated in the paediatric population below 18 years of age and no recommendation on a posology can be made (see section 4.2).

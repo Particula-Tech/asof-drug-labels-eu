@@ -16,7 +16,6 @@ Not all pack sizes may be marketed.
 [CHAMPIX 1 mg film-coated tablets]
 
 PCTFE/ PVC blisters with aluminium foil backing in a pack containing 28 x 1 mg film-coated tablets in secondary heat sealed card packaging.
-
 PCTFE/ PVC blisters with aluminium foil backing in a pack containing 56 x 1 mg film-coated tablets in secondary heat sealed card packaging.
 
 PCTFE/ PVC / blisters with aluminium foil backing in a pack containing 28 x 1 mg film-coated tablets in a carton.
@@ -32,6 +31,7 @@ PVC blisters with aluminium foil backing in a pack containing 28 x 1 mg film-coa
 PVC blisters with aluminium foil backing in a pack containing 56 x 1 mg film-coated tablets in secondary heat sealed card packaging.
 
 PVC blisters with aluminium foil backing in a pack containing 28 x 1 mg film-coated tablets in a carton.
+
 PVC blisters with aluminium foil backing in a pack containing 56 x 1 mg film-coated tablets in a carton.
 
 PVC blisters with aluminium foil backing in a pack containing 112 x 1 mg film-coated tablets in a carton.

@@ -27,7 +27,7 @@ In smoking cessation therapy, risk for relapse to smoking is elevated in the per
 In patients with a high risk of relapse, dose tapering may be considered (see section 4.4).
 
 Patients with renal impairment
-No dosage adjustment is necessary for patients with mild (estimated creatinine clearance > 50 ml/min and ≤ 80 ml/min) to moderate (estimated creatinine clearance ≥ 30 ml/min and ≤ 50 ml/min) renal impairment.
+No dosage adjustment is necessary for patients with mild (estimated creatinine clearance > 50 ml/min and ≤80 ml/min) to moderate (estimated creatinine clearance ≥30 ml/min and ≤50 ml/min) renal impairment.
 
 For patients with moderate renal impairment who experience adverse reactions that are not tolerable, dosing may be reduced to 1 mg once daily.
 
