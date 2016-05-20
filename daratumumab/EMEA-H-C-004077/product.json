@@ -1,0 +1,16 @@
+{
+  "active_substance": "daratumumab",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/004077",
+  "eu_number": "EU/1/16/1101",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2016-05-20",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/darzalex",
+  "molecule": "daratumumab",
+  "molecule_name": "DARATUMUMAB",
+  "name": "Darzalex",
+  "register_name": "Darzalex",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h1101.htm"
+}
