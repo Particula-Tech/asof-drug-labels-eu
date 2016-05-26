@@ -19,6 +19,7 @@ The remaining part is dependent on another specific isoform, CYP3A4, responsible
 
 Elimination
 The parameters below reflect mainly the pharmacokinetics in individuals with a functional CYP2C19 enzyme, extensive metabolisers.
+
 Total plasma clearance is about 17 l/h after a single dose and about 9 l/h after repeated administration.
 The plasma elimination half-life is about 1.3 hours after repeated once-daily dosing.
 Esomeprazole is completely eliminated from plasma between doses with no tendency for accumulation during once-daily administration.
@@ -44,7 +45,6 @@ Gender
 Following a single dose of 40 mg esomeprazole the mean are under the plasma concentration-time curve is approximately 30% higher in females than in males.
 No gender difference is seen after repeated once-daily administration.
 These findings have no implications for the posology of esomeprazole.
-
 Hepatic impairment
 The metabolism of esomeprazole in patients with mild to moderate liver dysfunction may be impaired.
 The metabolic rate is decreased in patients with severe liver dysfunction resulting in a doubling of the area under the plasma concentration-time curve of esomeprazole.

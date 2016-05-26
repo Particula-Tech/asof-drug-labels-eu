@@ -21,11 +21,18 @@ The reactions are classified according to MedDRA frequency convention: very comm
 | Respiratory, thoracic and mediastinal disorders |  |  | bronchospasm |  |  |
 | Gastrointestinal disorders | abdominal pain, constipa-tion, diarrhoea, flatulence, nausea/ vomiting | dry mouth | stomatitis, gastrointestinal candidiasis |  | microscopic colitis |
 | Hepatobiliary disorders |  | increased liver enzymes | hepatitis with or without jaundice | hepatic failure, hepatic encephalopathy in patients with pre-existing liver disease |  |
-| Skin and subcutaneous tissue disorders |  | dermatitis, pruritus, rash urticaria | alopecia, photosensitivity | erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN) |  |
+| Skin and subcutaneous tissue disorders |  | dermatitis, pruritus, rash urticaria | alopecia, photosensitivity | erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN) | Subacute cutaneous lupus erythematosu s (see section 4.4). |
 | Musculoskeletal and connective tissue disorders |  |  | arthralgia, myalgia | muscular weakness |  |
 | Renal and urinary disorders |  |  |  | Interstitial nephritis |  |
-| Reproductive system and breast disorders |  |  |  | gynaecomastia |  |
-| General disorders and administration site disorders |  |  | malaise, increased sweating |  |  |
+
+Common Uncommon Rare Very rare Not known
+Reproductive gynaecomastia
+system and
+breast disorders
+General disorders malaise,
+and increased
+administration sweating
+site disorders
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

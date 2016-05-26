@@ -37,3 +37,8 @@ Patients with rare hereditary problems of fructose intolerance, glucose-galactos
 Interference with laboratory tests
 The increased Chromogranin A (CgA) level may interfere with investigations for neuroendocrine tumours.
 To avoid this interference the esomeprazole treatment should be temporarily stopped five days before CgA measurements.
+
+Subacute cutaneous lupus erythematosus (SCLE)
+Proton pump inhibitors are associated with very infrequent cases of SCLE.
+If lesions occur, especially in sun-exposed areas of the skin, and if accompanied by arthralgia, the patient should seek medical help promptly and the health care professional should consider stopping Nexium Control.
+SCLE after previous treatment with a proton pump inhibitor may increase the risk of SCLE with other proton pump inhibitors.

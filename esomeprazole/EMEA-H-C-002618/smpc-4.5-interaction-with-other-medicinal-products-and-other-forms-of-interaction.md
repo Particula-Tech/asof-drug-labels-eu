@@ -20,6 +20,7 @@ Due to the similar pharmacodynamic effects and pharmacokinetic properties of ome
 
 For saquinavir (with concomitant ritonavir), increased serum levels (80-100%) have been reported during concomitant omeprazole treatment (40 mg qd).
 Treatment with omeprazole 20 mg qd had no effect on the exposure of darunavir (with concomitant ritonavir) and amprenavir (with concomitant ritonavir).
+
 Treatment with esomeprazole 20 mg qd had no effect on the exposure of amprenavir (with and without concomitant ritonavir).
 Treatment with omeprazole 40 mg qd had no effect on the exposure of lopinavir (with concomitant ritonavir).
 
@@ -52,12 +53,12 @@ Monitoring is recommended when initiating and ending concomitant esomeprazole tr
 
 Clopidogrel
 Results from studies in healthy subjects have shown a pharmacokinetic (PK)/pharmacodynamic (PD) interaction between clopidogrel (300 mg loading dose/75 mg daily maintenance dose) and esomeprazole (40 mg orally daily) resulting in decreased exposure to the active metabolite of clopidogrel by an average of 40%, and resulting in decreased maximum inhibition of (ADP induced) platelet aggregation by an average of 14%.
-
 In a study in healthy subjects, there was a decreased exposure by almost 40% of the active metabolite of clopidogrel when a fixed dose combination of esomeprazole 20 mg + ASA 81 mg was given with clopidogrel compared to clopidogrel alone.
 However, the maximum levels of inhibition of (ADP induced) platelet aggregation in these subjects were the same in both groups.
 
 Inconsistent data on the clinical implications of this PK/PD interaction in terms of major cardiovascular events have been reported from both observational and clinical studies.
 As a precaution, concomitant use of esomeprazole and clopidogrel should be discouraged.
+
 Phenytoin
 Concomitant administration of 40 mg esomeprazole resulted in a 13% increase in trough plasma levels of phenytoin in epileptic patients.
 It is recommended to monitor the plasma concentrations of phenytoin when treatment with esomeprazole is introduced or withdrawn.

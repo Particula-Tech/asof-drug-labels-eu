@@ -19,7 +19,6 @@ The proportion of patients maintaining an intragastric pH above 4 for at least 8
 Corresponding proportions for esomeprazole 40 mg were 97%, 92% and 56%.
 
 Using AUC as a surrogate parameter for plasma concentration, a relationship between inhibition of acid secretion and exposure has been shown.
-
 During treatment with antisecretory drugs, serum gastrin increases in response to the decreased acid secretion.
 CgA also increases due to decreased gastric acidity.
 
