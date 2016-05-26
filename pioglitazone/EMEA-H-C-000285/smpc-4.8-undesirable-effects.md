@@ -92,6 +92,7 @@ A higher rate of fractures was observed in women taking pioglitazone (2.6%) vers
 No increase in fracture rates was observed in men treated with pioglitazone (1.3%) versus comparator (1.5%).
 In the 3.5 year PROactive study, 44/870 (5.1%) of pioglitazone-treated female patients experienced fractures compared to 23/905 (2.5%) of female patients treated with comparator.
 No increase in fracture rates was observed in men treated with pioglitazone (1.7%) versus comparator (2.1%).
+Post-marketing, bone fractures have been reported in both male and female patients (see section 4.4).
 
 6 In active comparator controlled trials mean weight increase with pioglitazone given as monotherapy was 2–3 kg over one year.
 This is similar to that seen in a sulphonylurea active comparator group.

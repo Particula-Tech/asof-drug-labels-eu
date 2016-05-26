@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Drugs used in diabetes, blood glucose lowering drugs, excl. insulins; ATC code: A10BG03.
-
 Pioglitazone effects may be mediated by a reduction of insulin resistance.
 Pioglitazone appears to act via activation of specific nuclear receptors (peroxisome proliferator activated receptor gamma) leading to increased insulin sensitivity of liver, fat and skeletal muscle cells in animals.
 Treatment with pioglitazone has been shown to reduce hepatic glucose output and to increase peripheral glucose disposal in the case of insulin resistance.
@@ -40,6 +39,7 @@ To be eligible patients had to have had one or more of the following: myocardial
 Almost half of the patients had a previous myocardial infarction and approximately 20% had had a stroke.
 Approximately half of the study population had at least two of the cardiovascular history entry criteria.
 Almost all subjects (95%) were receiving cardiovascular medicinal products (beta blockers, ACE inhibitors, angiotensin II antagonists, calcium channel blockers, nitrates, diuretics, aspirin, statins, fibrates).
+
 Although the study failed regarding its primary endpoint, which was a composite of all-cause mortality, non-fatal myocardial infarction, stroke, acute coronary syndrome, major leg amputation, coronary revascularisation and leg revascularisation, the results suggest that there are no long-term cardiovascular concerns regarding use of pioglitazone.
 However, the incidences of oedema, weight gain and heart failure were increased.
 No increase in mortality from heart failure was observed.

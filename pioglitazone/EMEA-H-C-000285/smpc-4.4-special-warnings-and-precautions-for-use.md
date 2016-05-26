@@ -83,7 +83,7 @@ In the 3.5 year cardiovascular risk PROactive study, 44/870 (5.1%; 1.0 fractures
 No increase in fracture rates was observed in men treated with pioglitazone (1.7%) versus comparator (2.1%).
 Some epidemiological studies have suggested a similarly increased risk of fracture in both men and women.
 
-The risk of fractures should be considered in the long term care of patients treated with pioglitazone.
+The risk of fractures should be considered in the long term care of patients treated with pioglitazone (see section 4.8).
 
 As a consequence of enhancing insulin action, pioglitazone treatment in patients with polycystic ovarian syndrome may result in resumption of ovulation.
 These patients may be at risk of pregnancy.
