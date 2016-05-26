@@ -6,5 +6,4 @@ The needle cap of the pre-filled syringe contains dry natural rubber (a derivati
 
 Each pre-filled syringe contains 0.6 ml of solution for injection.
 Pack size of one pre-filled syringe, in either a blistered or non-blistered packaging.
-
 Not all pack sizes may be marketed.
