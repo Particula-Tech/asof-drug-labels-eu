@@ -25,3 +25,7 @@ Severe heart failure (New York Heart Association Class IV) or severe, uncontroll
 [MabThera 1400 mg solution for subcutaneous injection]
 
 Hypersensitivity to the active substance or to murine proteins, hyaluronidase or to any of the other excipients listed in section 6.1.
+
+[MabThera 1600 mg solution for subcutaneous injection]
+
+(all sentences already above)

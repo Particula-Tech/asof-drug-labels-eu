@@ -1,6 +1,6 @@
 # 4.4 Special warnings and precautions for use
 
-In order to improve traceability of biological medicinal products, the tradename of the administered product should be clearly recorded (or stated) in the patient file.
+In order to improve traceability of biological medicinal products, the tradename and batch number of the administered product should be clearly recorded (or stated) in the patient file.
 
 Progressive multifocal leukoencephalopathy
 
@@ -31,7 +31,7 @@ Cytokine release syndrome may be clinically indistinguishable from acute hyperse
 This set of reactions which includes syndrome of cytokine release, tumour lysis syndrome and anaphylactic and hypersensitivity reactions are described below.
 They are not specifically related to the route of administration of MabThera and can be observed with both formulations.
 
-Severe infusionrelated reactions with fatal outcome have been reported during post-marketing use of the MabThera intravenous formulation, with an onset ranging within 30 minutes to 2 hours after starting the first MabThera IV infusion.
+Severe infusion-related reactions with fatal outcome have been reported during post-marketing use of the MabThera intravenous formulation, with an onset ranging within 30 minutes to 2 hours after starting the first MabThera intravenous infusion.
 They were characterized by pulmonary events and in some cases included rapid tumour lysis and features of tumour lysis syndrome in addition to fever, chills, rigors, hypotension, urticaria, angioedema and other symptoms (see section 4.8).
 
 Severe cytokine release syndrome is characterised by severe dyspnoea, often accompanied by bronchospasm and hypoxia, in addition to fever, chills, rigors, urticaria, and angioedema.
@@ -43,7 +43,7 @@ Patients who develop severe cytokine release syndrome should have their infusion
 Since initial improvement of clinical symptoms may be followed by deterioration, these patients should be closely monitored until tumour lysis syndrome and pulmonary infiltration have been resolved or ruled out.
 Further treatment of patients after complete resolution of signs and symptoms has rarely resulted in repeated severe cytokine release syndrome.
 
-Patients with a high tumour burden or with a high number (≥25 x 109/L) of circulating malignant cells such as patients with CLL, who may be at higher risk of especially severe cytokine release syndrome, should only be treated with extreme caution.
+Patients with a high tumour burden or with a high number (≥25 x 109/L) of circulating malignant cells such as patients with CLL, who may be at higher risk of especially severe cytokine release syndrome, should be treated with extreme caution.
 These patients should be very closely monitored throughout the first infusion.
 Consideration should be given to the use of a reduced infusion rate for the first infusion in these patients or a split dosing over two days during the first cycle and any subsequent cycles if the lymphocyte count is still >25 x 109/L.
 
@@ -128,9 +128,7 @@ In patients treated with MabThera, the occurrence of pre-existing ischemic cardi
 Therefore, in patients with a known cardiac history, and those who experienced prior cardiopulmonary adverse reactions, the risk of cardiovascular complications resulting from infusion reactions should be considered before treatment with MabThera and patients closely monitored during administration.
 Since hypotension may occur during MabThera infusion, consideration should be given to withholding anti-hypertensive medications 12 hours prior to the MabThera infusion.
 
-| IRRs for patients | with granulomatosis with polyangiitis and microscopic polyangiitis were similar to |  |
-| --- | --- | --- |
-| those seen for rheumatoid arthritis patients in clinical |  | trials (see section 4.8). |
+IRRs for patients with granulomatosis with polyangiitis and microscopic polyangiitis were similar to those seen for rheumatoid arthritis patients in clinical trials (see section 4.8).
 
 Cardiac disorders
 Angina pectoris, cardiac arrhythmias such as atrial flutter and fibrillation, heart failure and/or myocardial infarction have occurred in patients treated with MabThera.
@@ -156,9 +154,9 @@ At minimum this should include HBsAg-status and HBcAb-status.
 These can be complemented with other appropriate markers as per local guidelines.
 Patients with active hepatitis B disease should not be treated with MabThera.
 Patients with positive hepatitis B serology (either HBsAg or HBcAb) should consult liver disease experts before start of treatment and should be monitored and managed following local medical standards to prevent hepatitis B reactivation.
-
 Late neutropenia
 Measure blood neutrophils prior to each course of MabThera, and regularly up to 6-months after cessation of treatment, and upon signs or symptoms of infection (see section 4.8).
+
 Skin reactions
 Severe skin reactions such as Toxic Epidermal Necrolysis (Lyell’s syndrome) and Stevens-Johnson syndrome, some with fatal outcome, have been reported (see section 4.8).
 In case of such an event with a suspected relationship to MabThera, treatment should be permanently discontinued.
@@ -170,19 +168,14 @@ Vaccination should be completed at least 4 weeks prior to first administration o
 The safety of immunisation with live viral vaccines following MabThera therapy has not been studied.
 Therefore vaccination with live virus vaccines is not recommended whilst on MabThera or whilst peripherally B cell depleted.
 
-Patients treated with MabThera may receive non-live vaccinations. However, response rates to non-
-live vaccines may be reduced. In a randomised trial, patients with rheumatoid arthritis treated with
-MabThera and methotrexate had comparable response rates to tetanus recall antigen (39% vs. 42%),
-reduced rates to pneumococcal polysaccharide vaccine (43% vs. 82% to at least 2 pneumococcal
-antibody serotypes), and KLH neoantigen (47% vs. 93%), when given 6 months after MabThera as
-compared to patients only receiving methotrexate. Should non-live vaccinations be required whilst
-receiving MabThera therapy, these should be completed at least 4 weeks prior to commencing the next
-course of MabThera.
-In the overall experience of MabThera repeat treatment over one year in rheumatoid arthritis, the
-proportions of patients with positive antibody titres against S. pneumoniae, influenza, mumps, rubella,
-varicella and tetanus toxoid were generally similar to the proportions at baseline.
-Concomitant/sequential use of other DMARDs in rheumatoid arthritis
+Patients treated with MabThera may receive non-live vaccinations.
+However, response rates to non-live vaccines may be reduced.
+In a randomised trial, patients with rheumatoid arthritis treated with MabThera and methotrexate had comparable response rates to tetanus recall antigen (39% vs. 42%), reduced rates to pneumococcal polysaccharide vaccine (43% vs. 82% to at least 2 pneumococcal antibody serotypes), and KLH neoantigen (47% vs. 93%), when given 6 months after MabThera as compared to patients only receiving methotrexate.
+Should non-live vaccinations be required whilst receiving MabThera therapy, these should be completed at least 4 weeks prior to commencing the next course of MabThera.
 
+In the overall experience of MabThera repeat treatment over one year in rheumatoid arthritis, the proportions of patients with positive antibody titres against S. pneumoniae, influenza, mumps, rubella, varicella and tetanus toxoid were generally similar to the proportions at baseline.
+
+Concomitant/sequential use of other DMARDs in rheumatoid arthritis
 The concomitant use of MabThera and anti-rheumatic therapies other than those specified under the rheumatoid arthritis indication and posology is not recommended.
 
 There are limited data from clinical trials to fully assess the safety of the sequential use of other DMARDs (including TNF inhibitors and other biologics) following MabThera (see section 4.5).
@@ -201,26 +194,16 @@ If a patient develops PML the dosing of MabThera must be permanently discontinue
 
 MabThera is associated with infusion/ related reactions, which may be related to release of cytokines and/or other chemical mediators.
 
-Severe infusion-related reactions with fatal outcome have been reported during post-marketing use of the MabThera intravenous formulation, with an onset ranging within 30 minutes to 2 hours after starting the first MabThera IV infusion.
-
-Patients with active hepatitis B disease should not be treated with MabThera.Patients with positive hepatitis B serology (either HBsAg or HBcAb) should consult liver disease experts before start of treatment and should be monitored and managed following local medical standards to prevent hepatitis B reactivation.
-
 Therefore, in patients with a known cardiac history, and those who experienced prior cardiopulmonary adverse reactions the risk of cardiovascular complications resulting from infusion reactions should be considered before treatment with MabThera and patients closely monitored during administration.
 
-| IRRs for patients with | granulomatosis with polyangiitis and microscopic polyangiitis were similar to |  |
-| --- | --- | --- |
-| those seen for rheumatoid arthritis patients in clinical trials (see |  | section 4.8). |
-
 These can be complemented with other appropriate markers as per local guideline.
-
-However, response rates to non-live vaccines may be reduced.
-In a randomised trial, patients with rheumatoid arthritis treated with MabThera and methotrexate had comparable response rates to tetanus recall antigen (39% vs. 42%), reduced rates to pneumococcal polysaccharide vaccine (43% vs. 82% to at least 2 pneumococcal antibody serotypes), and KLH neoantigen (47% vs. 93%), when given 6 months after MabThera as compared to patients only receiving methotrexate.
-Should non-live vaccinations be required whilst receiving MabThera therapy, these should be completed at least 4 weeks prior to commencing the next course of MabThera.
+Patients with active hepatitis B disease should not be treated with MabThera.Patients with positive hepatitis B serology (either HBsAg or HBcAb) should consult liver disease experts before start of treatment and should be monitored and managed following local medical standards to prevent hepatitis B reactivation.
 
 [MabThera 1400 mg solution for subcutaneous injection]
 
-The information provided in the section 4.4 pertains to the use of MabThera subcutaneous formulation in the approved indication Treatment of non Hodgkin lymphoma.
+The information provided in the section 4.4 pertains to the use of MabThera subcutaneous formulation in the approved indications Treatment of non Hodgkin lymphoma (strength 1400 mg) and Treatment of Chronic Lymphocytic Leukaemia (strength 1600 mg).
 For information related to the other indications, please refer to the SmPC of MabThera intravenous formulation.
+
 The use of MabThera subcutaneous formulation as monotherapy in patients with stage III-IV follicular lymphoma who are chemoresistant or are in their second or subsequent relapse after chemotherapy cannot be recommended as the safety of the once weekly subcutaneous administration has not been established.
 
 Use of MabThera may be associated with an increased risk of progressive multifocal leukoencephalopathy (PML).
@@ -234,14 +217,14 @@ This set of reactions which includes syndrome of cytokine release, tumor lysis s
 Severe cytokine release syndrome is characterised by severe dyspnea, often accompanied by bronchospasm and hypoxia, in addition to fever, chills, rigors, urticaria, and angioedema.
 This syndrome may be associated with some features of tumour lysis syndrome such as hyperuricaemia, hyperkalaemia, hypocalcaemia, hyperphosphaetemia, acute renal failure, elevated lactate dehydrogenase (LDH) and may be associated with acute respiratory failure and death.
 
-Patients with a high tumour burden or with a high number (≥25 x 109/L) of circulating malignant cells, who may be at higher risk of especially severe cytokine release syndrome, should only be treated with extreme caution.
+Patients with a high tumour burden or with a high number (≥25 x 109/L) of circulating malignant cells, who may be at higher risk of especially severe cytokine release syndrome, should be treated with extreme caution.
 
 Since hypotension may occur during MabThera administration, consideration should be given to withholding anti-hypertensive medicines 12 hours prior to giving MabThera.
 
 Infusion related adverse reactions of all kinds have been observed in 77% of patients treated with MabThera intravenous formulation (including cytokine release syndrome accompanied by hypotension and bronchospasm in 10 % of patients) see section 4.8.
 
-Administration related reactions have been observed in up to 50% of patients treated with Mabthera subcutaneous formulation in clinical trials.
-The reactions occurring within 24 hours of the subcutaneous injection consisted primarily of erythema pruritus, rash and injections site reactions such as pain, swelling and redness and were generally of mild or moderate (grade 1 or 2) and transient nature.
+Administration related reactions have been observed in up to 50% of patients treated with MabThera subcutaneous formulation in clinical trials.
+The reactions occurring within 24 hours of the subcutaneous injection consisted primarily of erythema pruritus, rash and injections site reactions such as pain, swelling and redness and were generally of mild or moderate (grade 1 or 2) and transient nature (see section 4.8).
 
 Local cutaneous reactions were very common in patients receiving MabThera subcutaneous in clinical trials.
 Symptoms included pain, swelling, induration, haemorrhage, erythema, pruritus and rash (see section 4.8).
@@ -254,6 +237,7 @@ Beginning the therapy with MabThera intravenous infusion would allow a better ha
 
 If patients were not able to receive one full MabThera intravenous infusion dose prior to the switch, they should continue the subsequent cycles with MabThera intravenous formulation until a full intravenous dose is successfully administered.
 Therefore, the switch to MabThera subcutaneous formulation can only occur at the second or subsequent cycles of treatment.
+
 As with the intravenous formulation, MabThera subcutaneous formulation should be administered in an environment where full resuscitation facilities are immediately available and under the close supervision of an experienced healthcare professional.
 Premedication consisting of an analgesic/antipyretic and an antihistamine should always be administered before each dose of MabThera subcutaneous formulation.
 Premedication with glucocorticoids should also be considered.
@@ -279,3 +263,35 @@ In a non-randomized study, patients with relapsed low-grade NHL who received the
 Mean pre-therapeutic antibody titers against a panel of antigens (Streptococcus pneumoniae, influenza A, mumps, rubella and varicella) were maintained for at least 6 months after treatment with MabThera.
 
 In case of such an event, with suspected relationship to MabThera, treatment should be permanently discontinued.
+
+[MabThera 1600 mg solution for subcutaneous injection]
+
+The information provided in the section 4.4 pertains to the use of MabThera subcutaneous formulation in the approved indications Treatment of non Hodgkin lymphoma (strength 1400 mg) and Treatment of CLL (strength 1600 mg).
+-
+
+Patients with a high tumour burden or with a high number (≥25 x 109/L) of circulating malignant cells, such as patients with CLL who may be at higher risk of especially severe cytokine release syndrome, should be treated with extreme caution.
+
+Before starting MabThera subcutaneous injections, all patients must always receive beforehand, a full
+dose of MabThera by intravenous infusion, using MabThera intravenous formulation. The highest risk
+of experiencing an administration related reaction is generally observed at cycle one. Beginning the
+therapy with MabThera intravenous infusion would allow a better handling of the administration
+reactions by slowing or stopping the intravenous infusion.
+
+The majority of these patients were also
+
+exposed to cytotoxic chemotherapy. Limited information from one study in relapsed/refractory CLL
+patients suggests that MabThera treatment may also worsen the outcome of primary hepatitis B
+infections. Hepatitis B virus (HBV) screening should be performed in all patients before initiation of
+
+treatment with MabThera.
+
+Very rare cases of PML have been reported during post-marketing use of the MabThera intravenous formulation in CLL (see section 4.8).
+
+The safety of immunisation with live viral vaccines, following MabThera therapy has not been studied
+for NHL and CLL patients and vaccination with live virus vaccines is not recommended. Patients
+
+treated with MabThera may receive non-live vaccinations.
+In a non-randomized study, patients with relapsed low-grade NHL who received the MabThera intravenous formulation as monotherapy when compared to healthy untreated controls had a lower rate of response to vaccination with tetanus recall antigen (16% vs. 81%) and Keyhole Limpet Haemocyanin (KLH) neoantigen (4% vs. 69% when assessed for >2-fold increase in antibody
+
+titer). For CLL patients similar results are assumable considering similarities between both diseases,
+but this has not been investigated in clinical trials.

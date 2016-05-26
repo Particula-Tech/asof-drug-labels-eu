@@ -26,3 +26,7 @@ Additionally, no effects on semen quality were shown for rHuPH20.
 
 In embryofetal developmental studies in mice, rHuPH20 caused reduced fetal weight and loss of implantations at systemic exposures sufficiently in excess of human therapeutic exposure.
 There is no evidence of dysmorphogenesis (i.e. teratogenesis) resulting from systemic exposure to rHuPH20.
+
+[MabThera 1600 mg solution for subcutaneous injection]
+
+(all sentences already above)

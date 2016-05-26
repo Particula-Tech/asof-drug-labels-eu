@@ -12,3 +12,7 @@ For storage conditions after dilution of the medicinal product, see section 6.3.
 [MabThera 1400 mg solution for subcutaneous injection]
 
 For storage conditions after first opening see section 6.3.
+
+[MabThera 1600 mg solution for subcutaneous injection]
+
+(all sentences already above)

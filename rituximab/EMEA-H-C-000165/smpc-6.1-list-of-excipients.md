@@ -17,3 +17,7 @@ Recombinant human hyaluronidase (rHuPH20)
 L-histidine
 L-histidine hydrochloride monohydrate α,α-trehalose dihydrate
 L-methionine
+
+[MabThera 1600 mg solution for subcutaneous injection]
+
+(all sentences already above)

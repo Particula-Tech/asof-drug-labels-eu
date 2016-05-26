@@ -34,3 +34,7 @@ B-cell levels in human neonates following maternal exposure to MabThera have not
 Similar effects have been observed in animal studies (see section 5.3).For these reasons MabThera should not be administered to pregnant women unless the possible benefit outweighs the potential risk.
 
 Animal studies did not reveal deleterious effects of rituximab or recombinant human hyaluronidase (rHuPH20) on reproductive organs.
+
+[MabThera 1600 mg solution for subcutaneous injection]
+
+(all sentences already above)

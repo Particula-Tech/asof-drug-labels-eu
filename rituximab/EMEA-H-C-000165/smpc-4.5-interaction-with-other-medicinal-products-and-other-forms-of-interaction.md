@@ -18,3 +18,7 @@ In these patients the rate of clinically relevant infection while on MabThera wa
 [MabThera 1400 mg solution for subcutaneous injection]
 
 Co-administration with MabThera did not appear to have an effect on the pharmacokinetics of fludarabine or cyclophosphamide.
+
+[MabThera 1600 mg solution for subcutaneous injection]
+
+(all sentences already above)

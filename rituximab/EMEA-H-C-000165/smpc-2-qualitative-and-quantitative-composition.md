@@ -18,3 +18,7 @@ Each vial contains 500 mg of rituximab.
 Each mL contains 120 mg of rituximab.
 
 Each vial contains 1400 mg/11.7 mL rituximab.
+
+[MabThera 1600 mg solution for subcutaneous injection]
+
+Each vial contains 1600 mg/ 13.4 mL rituximab.

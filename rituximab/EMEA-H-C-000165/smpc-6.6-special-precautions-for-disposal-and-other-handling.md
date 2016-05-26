@@ -16,7 +16,13 @@ Aseptically withdraw the necessary amount of MabThera, and dilute to a calculate
 
 [MabThera 1400 mg solution for subcutaneous injection]
 
+A peel--off sticker is included on the vials which specifies the strength, route of administration and indication.
+This sticker should be removed from the vial and stuck onto the syringe prior to use.
 The following points should be strictly adhered to regarding the use and disposal of syringes and other medicinal sharps:
 
 - Needles and syringes should never be reused
-- Place all used needles and syringes into a sharps container (puncture-proof disposable container).
+- Place all used needles and syringes into a sharps container (puncture‐proof disposable container).
+
+[MabThera 1600 mg solution for subcutaneous injection]
+
+(all sentences already above)

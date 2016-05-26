@@ -16,6 +16,7 @@ MabThera, administered as an intravenous infusion at a dose of 375 mg/m2 at week
 Rituximab was detectable in the serum of patients 3 – 6 months after completion of last treatment.
 
 Upon administration of MabThera at a dose of 375 mg/m2 as an intravenous infusion at weekly intervals for 8 doses to 37 patients with NHL, the mean Cmax increased with each successive infusion, spanning from a mean of 243 µg/mL (range, 16 – 582 µg/mL) after the first infusion to 550 µg/mL (range, 171 – 1177 µg/mL) after the eighth infusion.
+
 The pharmacokinetic profile of MabThera when administered as 6 infusions of 375 mg/m2 in combination with 6 cycles of CHOP chemotherapy was similar to that seen with MabThera alone.
 
 Chronic lymphocytic leukaemia
@@ -71,7 +72,6 @@ A two-stage phase Ib trial to investigate the pharmacokinetics, safety and toler
 In stage 2, MabThera subcutaneous formulation at a fixed dose of 1400 mg was administered as subcutaneous injection during maintenance treatment, after at least one cycle of MabThera intravenous formulation to FL patients who had previously responded to MabThera intravenous formulation in induction.
 
 The comparison of predicted median Cmax data for MabThera subcutaneous formulation and intravenous formulation are summarized in Table 7.
-
 Table 7: Trial BP22333 (SparkThera): Absorption - Pharmacokinetic parameters of MabThera SC compared to MabThera IV
 
 MabThera MabThera
@@ -90,6 +90,7 @@ The serum rituximab Cmax at cycle 7 was similar between the two treatment arms, 
 Distribution/Elimination
 
 Geometric mean Ctrough and geometric mean AUCτ from the BP22333 and BO22334 trials are summarized in Table 8.
+
 Table 8: Distribution/Elimination - Pharmacokinetic parameters of MabThera subcutaneous compared to MabThera intravenous
 
 Geometric Geometric Geometric Geometric
@@ -102,8 +103,10 @@ formulation
 MabThera 25.9 10.9 4012 3947
 intravenous
 Geometric mean Geometric mean
-Ctrough values at pre-dose cycle 8 AUC values at cycle 7
-µg/mL µg.day/mL
+AUC values at cycle 7
+µg.day/mL
+Ctrough values at pre‐dose cycle 8
+µg/mL
 MabThera 134.6 3778
 MabThera 83.1 2734
 
@@ -125,3 +128,28 @@ Special populations
 There was no evidence of clinically relevant dependencies of rituximab pharmacokinetics on age and sex.
 
 Anti-rituximab antibodies were detected in only 13 patients and did not result in any clinically relevant increase in steady-state clearance.
+
+[MabThera 1600 mg solution for subcutaneous injection]
+
+MabThera at a fixed dose of 1600 mg was administered for 5 cycles subcutaneously at 4-weekly intervals, following the first cycle of MabThera intravenous formulation, in previously untreated CLL patients in combination with chemotherapy (fludarabine and cyclophosphamide (FC).
+The serum MabThera Cmax at Cycle 6 was lower in the subcutaneous arm than the intravenous, with geometric mean (CV%) values of 202 (36.1) μg/mL and 280 (24.6) μg/mL with the resulting geometric mean ratio (Cmax, SC/Cmax, IV) of 0.719 (90% CI: 0.653, 0.792).
+The geometric mean tmax in the MabThera subcutaneous group was approximately 3 days as compared to the tmax occuring at or close to the end of the infusion for the MabThera intravenous group.
+The geometric mean Ctrough (CV%) values at Cycle 5 (pre-dose Cycle 6) were higher among the MabThera subcutaneous group than the MabThera intravenous group; 97.5 μg/mL (42.6) versus 61.5 μg/mL (63.9) respectively with a resulting adjusted geometric mean ratio [90% CI] of 1.53 [1.27-1.85].
+Similarly, the geometric mean AUC (CV%) values at Cycle 6 were higher among the subcutaneous group than the intravenous group; 4088 µg•day/mL (34.2) versus 3630 µg•day/mL (32.8) respectively) with a resulting adjusted geometric mean ratio [90% CI] of 1.10 [0.98-1.24].
+Based on popPK analysis of study BO25341 (SAWYER) an absolute bioavailability of 68.4% was estimated.
+
+The estimated half-life of Mabthera subcutaneous formulation of 1600 mg is 30 days, the estimated
+clearance is 0.22 L/day and the volume of distribution of the central compartment is 4.65 L.
+
+As typical for monoclonal antibodies, rituximab PK parameters depended on body size measures.
+All clearance and volume parameters increased with BSA.
+In addition, central volume was slightly (9%) lower in females compared to males.
+Absorption parameters of subcutaneous formulation, decreased with increasing BMI.
+Conditional simulations that summarized the impact of all body size dependencies on rituximab exposure demonstrated that, while fixed subcutaneous dosing leads to larger differences in exposure (Ctrough and AUCτ) between subjects with low and high body sizes compared to body-weight-adjusted intravenous dosing, it allows to maintain Ctrough and AUCτ values for all body-size groups at the levels not lower than levels attained by intravenous dosing, thus achieving at least the same target saturation as for intravenousdosing.
+For subjects weighing > 90 kg, Ctrough values were the same for the intravenous and subcutaneous regimens.
+For subjects weighing 60-90 kg and < 60 kg, average Ctrough values following intravenous dosing were approximately 16% and 34% lower compared to the subcutaneous regimen, respectively.
+Similarly, for subjects in the high BSA tritile, Ctrough values were the same for the intravenous and subcutaneous regimens.
+For subjects in the middle and low BSA tritiles, average Ctrough values following intravenous dosing were approximately 12% and 26% lower compared to the subcutaneous regimen.
+
+In addition to dependence on body size, time-dependent clearance was higher in subjects with higher baseline tumour size, which is consistent with target-mediated elimination.
+Higher time-dependenet clearance in subjects with higher disease burden would lead to lower initial exposure and longer time needed to achieve the same exposure as in subjects with lower burden of the disease.

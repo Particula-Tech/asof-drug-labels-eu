@@ -1,7 +1,7 @@
 # 4.9 Overdose
 
 Limited experience with doses higher than the approved dose of intravenous MabThera formulation is available from clinical trials in humans.
-The highest intravenous dose of MabThera tested in humans to date is 5000 mg (2250 mg/m2), tested in a dose escalation study in patients with chronic lymphocytic leukaemia.
+The highest intravenous dose of MabThera tested in humans to date is 5000 mg (2250 mg/m2), tested in a dose escalation study in patients with CLL.
 No additional safety signals were identified.
 
 Patients who experience overdose should have immediate interruption of their infusion and be closely monitored.
@@ -16,7 +16,12 @@ The two adverse events that were reported were flu-like symptoms, with a dose of
 
 [MabThera 1400 mg solution for subcutaneous injection]
 
-Three patients in the MabThera subcutaneous formulation trial SABRINA (BO22334) were inadvertently administered subcutaneous formulation through the intravenous route up to a maximum rituximab dose of 2780mg with no untoward effect.
+Three patients in the MabThera subcutaneous formulation trial SABRINA (BO22334) were inadvertently administered subcutaneous formulation through the intravenous route up to a maximum rituximab dose of 2780 mg with no untoward effect.
 Patients who experience overdose or medication error should be closely monitored.
 
 In the post-marketing setting five cases of MabThera overdose have been reported.
+
+[MabThera 1600 mg solution for subcutaneous injection]
+
+Three patients in the MabThera subcutaneous NHL formulation trial SABRINA (BO22334) were inadvertently adminstered subcutaneous formulation through the intravenous route up to a maximum rituximab dose of 2780 mg with no untoward effect.
+Patients who experience overdose or medication error with MabThera should be closely monitored.

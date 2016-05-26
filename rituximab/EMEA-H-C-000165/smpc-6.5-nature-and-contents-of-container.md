@@ -13,3 +13,7 @@ Pack of 1 vial.
 Colourless type I glass vial with butyl rubber stopper with aluminium over seal and a pink plastic flip-off disk, containing 1400 mg/11.7 mL of rituximab.
 
 Each carton contains one vial.
+
+[MabThera 1600 mg solution for subcutaneous injection]
+
+Colourless type I glass vial with butyl rubber stopper with aluminium over seal and a blue plastic flip-off disk, containing 1600 mg/13.4 mL of rituximab.

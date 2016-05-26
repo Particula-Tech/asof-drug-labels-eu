@@ -10,11 +10,11 @@ MabThera maintenance therapy is indicated for the treatment of follicular lympho
 
 MabThera monotherapy is indicated for treatment of patients with stage III-IV follicular lymphoma who are chemoresistant or are in their second or subsequent relapse after chemotherapy.
 
-MabThera is indicated for the treatment of patients with CD20 positive diffuse large B cell non- Hodgkin’s lymphoma in combination with CHOP (cyclophosphamide, doxorubicin, vincristine, prednisolone) chemotherapy.
+MabThera is indicated for the treatment of patients with CD20 positive diffuse large B cell non-Hodgkin’s lymphoma in combination with CHOP (cyclophosphamide, doxorubicin, vincristine, prednisolone) chemotherapy.
 
 Chronic lymphocytic leukaemia (CLL)
 
-MabThera in combination with chemotherapy is indicated for the treatment of patients with previously untreated and relapsed/refractory chronic lymphocytic leukaemia.
+MabThera in combination with chemotherapy is indicated for the treatment of patients with previously untreated and relapsed/refractory CLL.
 Only limited data are available on efficacy and safety for patients previously treated with monoclonal antibodies including MabThera or patients refractory to previous MabThera plus chemotherapy.
 See section 5.1 for further information.
 
@@ -34,4 +34,10 @@ MabThera, in combination with glucocorticoids, is indicated for the induction of
 
 [MabThera 1400 mg solution for subcutaneous injection]
 
-MabThera subcutaneous formulation is indicated in adults for Non-Hodgkin’s lymphoma (NHL):
+MabThera is indicated in adults for Non-Hodgkin’s lymphoma (NHL):
+
+[MabThera 1600 mg solution for subcutaneous injection]
+
+MabThera is indicated in adults in combination with chemotherapy for the treatment of patients with previously untreated and relapsed/refractory chronic lymphocytic leukaemia (CLL).
+
+.---
