@@ -7,33 +7,47 @@ After oromucosal administration, only systemic clearance will be affected.
 After a single dose of oromucosal midazolam, the consequence on the maximal clinical effect due to CYP3A4 inhibition will be minor while the duration of effect may be prolonged.
 Hence, a careful monitoring of the clinical effects and vital signs is recommended during the use of midazolam with a CYP3A4 inhibitor even after a single dose.
 
-Anaesthetics and narcotic analgesics: Fentanyl may reduce midazolam clearance.
+Anaesthetics and narcotic analgesics
 
-Antiepileptics: Co-administration with midazolam may cause enhanced sedation or respiratory or cardiovascular depression.
+Fentanyl may reduce midazolam clearance.
+
+Antiepileptics
+
+Co-administration with midazolam may cause enhanced sedation or respiratory or cardiovascular depression.
 Midazolam may interact with other hepatically metabolised medicinal products, e.g. phenytoin, causing potentiation.
 
-Calcium-channel blockers: Diltiazem and verapamil have been shown to reduce the clearance of midazolam and other benzodiazepines and may potentiate their actions.
+Calcium-channel blockers
 
-Dopaminergic agents: Midazolam may cause inhibition of levodopa.
+Diltiazem and verapamil have been shown to reduce the clearance of midazolam and other benzodiazepines and may potentiate their actions.
 
-Muscle relaxants: e.g. baclofen.
+Ulcer-healing medicinal products
+
+Cimetidine, ranitidine and omeprazole have been shown to reduce the clearance of midazolam and other benzodiazepines and may potentiate their actions.
+
+Xanthines
+
+Metabolism of midazolam and other benzodiazepines is accelerated by xanthines.
+
+Dopaminergic medicinal products
+
+Midazolam may cause inhibition of levodopa.
+
+Muscle relaxants
+
+E.g. baclofen.
 Midazolam may cause potentiation of muscle relaxants, with increased CNS depressant effects.
 
-Nabilone: Co-administration with midazolam may cause enhanced sedation or respiratory and cardiovascular depression.
+Nabilone
 
-Ulcer-healing medicinal products: Cimetidine, ranitidine and omeprazole have been shown to reduce the clearance of midazolam and other benzodiazepines and may potentiate their actions.
-
-Xanthines: Metabolism of midazolam and other benzodiazepines is accelerated by xanthines.
+Co-administration with midazolam may cause enhanced sedation or respiratory and cardiovascular depression.
 
 Medicinal products that inhibit CYP3A4
 
 Medicinal product interactions following oromucosal administration of midazolam are likely to be similar to those observed after intravenous midazolam rather than oral administration.
 
 Food
-
-Grapefruit juice: reduces the clearance of midazolam and potentiates its action.
+Grapefruit juice reduces the clearance of midazolam and potentiates its action.
 Azole antifungals
-
 Ketoconazole increased the plasma concentrations of intravenous midazolam by 5-fold while the terminal half-life increased by about 3-fold.
 
 Voriconazole increased the exposure of intravenous midazolam by 3-fold whereas its elimination half-life increased by about 3-fold.
@@ -43,39 +57,35 @@ Fluconazole and itraconazole both increased the plasma concentrations of intrave
 Posaconazole increased the plasma concentrations of intravenous midazolam by about 2-fold.
 
 Macrolide antibiotics
-
 Erythromycin resulted in an increase in the plasma concentrations of intravenous midazolam by about 1.6 to 2 –fold associated with an increase of the terminal half-life of midazolam by 1.5 to 1.8-fold.
 
 Clarithromycin increased the plasma concentrations of intravenous midazolam by up to 2.5-fold associated with an increase in terminal half-life by 1.5 to 2-fold.
 
 HIV Protease inhibitors
-
-Saquinavir and other HIV protease inhibitors: Co-administration with protease inhibitors may cause a large increase in the concentration of midazolam.
+Co-administration with protease inhibitors (e.g. Saquinavir and other HIV protease inhibitors) may cause a large increase in the concentration of midazolam.
 Upon co-administration with ritonavir-boosted lopinavir, the plasma concentrations of intravenous midazolam increased by 5.4-fold, associated with a similar increase in terminal half-life.
 
 Calcium-channel blockers
-
-Diltiazem: A single dose of diltiazem increased the plasma concentrations of intravenous midazolam by about 25% and the terminal half-life was prolonged by 43%.
+A single dose of diltiazem increased the plasma concentrations of intravenous midazolam by about 25% and the terminal half-life was prolonged by 43%.
 
 Various medicinal products
-
 Atorvastatin showed a 1.4-fold increase in plasma concentrations of intravenous midazolam compared to control group.
 
 Medicinal products that induce CYP3A4
 
-Rifampicin (7 days of 600 mg once daily) decreased the plasma concentrations of intravenous midazolam by about 60%.
+Rifampicin
+7 days of 600 mg once daily decreased the plasma concentrations of intravenous midazolam by about 60%.
 The terminal half-life decreased by about 50-60%.
 
-Herb
+Herbs
 St John’s Wort decreased plasma concentrations of midazolam by about 20-40% associated with a decrease in terminal half life of about 15-17%.
 Depending on the specific St John's Wort extract, the CYP3A4-inducing effect may vary.
 
 Pharmacodynamic Drug-Drug Interactions (DDI)
 
-The co-administration of midazolam with other sedative/hypnotic agents and CNS depressants, including alcohol, is likely to result in enhanced sedation and respiratory depression.
+The co-administration of midazolam with other sedative/hypnotic medicinal products and CNS depressants, including alcohol, is likely to result in enhanced sedation and respiratory depression.
 
 Examples include opiate derivatives (used as analgesics, antitussives or substitutive treatments), antipsychotics, other benzodiazepines used as anxiolytics or hypnotics, barbiturates, propofol, ketamine, etomidate; sedative antidepressants, non-recent H1-antihistamines and centrally acting antihypertensive medicinal products.
-
 Alcohol (including alcohol-containing medicinal products may markedly enhance the sedative effect of midazolam.
 Alcohol intake should be strongly avoided in case of midazolam administration (see section 4.4).
 
