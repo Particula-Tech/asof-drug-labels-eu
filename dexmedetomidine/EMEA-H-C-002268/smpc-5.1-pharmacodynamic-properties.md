@@ -1,8 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Psycholeptics, other hypnotics and sedatives, ATC code: N05CM18
-
-Dexmedetomidine is a selective alpha-2 receptor agonist with a broad range of pharmacological properties.
+Pharmacotherapeutic group: Psycholeptics, other hypnotics and sedatives, ATC code: N05CM18 Dexmedetomidine is a selective alpha-2 receptor agonist with a broad range of pharmacological properties.
 It has a sympatholytic effect through decrease of the release of noradrenaline in sympathetic nerve endings.
 The sedative effects are mediated through decreased firing of locus coeruleus, the predominant noradrenergic nucleus, situated in the brainstem.
 Dexmedetomidine has analgesic and anaesthetic/analgesic-sparing effects.
@@ -21,6 +19,7 @@ Dexmedetomidine treated patients had more frequent hypotension and bradycardia b
 Delirium measured by the CAM-ICU scale was reduced in a study compared to midazolam and delirium-related adverse events were lower on dexmedetomidine compared to propofol.
 Those patients who withdrew due to insufficient sedation were switched to either propofol or midazolam.
 The risk of insufficient sedation was increased in patients who were difficult to sedate with standard care immediately prior to switching.
+
 Evidence of paediatric efficacy was seen in a dose-controlled ICU study in a largely post-operative population aged 1 month to ≤ 17 years.
 Approximately 50% of patients treated with dexmedetomidine did not require rescue addition of midazolam during a median treatment period of 20.3 hours, not exceeding 24 hours.
 Data on treatment for > 24 hours is not available.

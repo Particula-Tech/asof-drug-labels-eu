@@ -30,6 +30,7 @@ The major urinary metabolites are the two isomeric N-glucuronides, which togethe
 The minor metabolites dexmedetomidine carboxylic acid, 3-hydroxymethyl dexmedetomidine and its O-glucuronide individually comprised 1.11 to 7.66% of the dose.
 Less than 1% of unchanged parent drug was recovered in the urine.
 Approximately 28% of the urinary metabolites are unidentified minor metabolites.
+
 Special Populations
 
 No major pharmacokinetic differences have been observed based on gender or age.
