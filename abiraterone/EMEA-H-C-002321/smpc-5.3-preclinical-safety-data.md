@@ -13,7 +13,7 @@ Effects on the external genitalia were observed though abiraterone acetate was n
 
 In these fertility and developmental toxicity studies performed in the rat, all effects were related to the pharmacological activity of abiraterone.
 
-Aside from reproductive organ changes seen in all animal toxicology studies, non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity and genotoxicity.
+Aside from reproductive organ changes seen in all animal toxicology studies, non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity and carcinogenic potential.
 Abiraterone acetate was not carcinogenic in a 6-month study in the transgenic (Tg.rasH2) mouse.
 In a 24-month carcinogenicity study in the rat, abiraterone acetate increased the incidence of interstitial cell neoplasms in the testes.
 This finding is considered related to the pharmacological action of abiraterone and rat specific.

@@ -1,19 +1,21 @@
 # 4.2 Posology and method of administration
 
+This medicinal product should be prescribed by an appropriate healthcare professional.
+
 Posology
-The recommended dose is 1,000 mg (four 250 mg tablets) as a single daily dose that must not be taken with food (see information on the method of administration).
+The recommended dose is 1,000 mg (four 250 mg tablets) as a single daily dose that must not be taken with food (see “Method of administration” below).
 Taking the tablets with food increases systemic exposure to abiraterone (see sections 4.5 and 5.2).
 
 ZYTIGA is to be taken with low dose prednisone or prednisolone.
 The recommended dose of prednisone or prednisolone is 10 mg daily.
 
-Medical castration with LHRH analogue should be continued during treatment in patients not surgically castrated.
+Medical castration with luteinising hormone releasing hormone (LHRH) analogue should be continued during treatment in patients not surgically castrated.
 
 Serum transaminases should be measured prior to starting treatment, every two weeks for the first three months of treatment and monthly thereafter.
 Blood pressure, serum potassium and fluid retention should be monitored monthly.
 However, patients with a significant risk for congestive heart failure should be monitored every 2 weeks for the first three months of treatment and monthly thereafter (see section 4.4).
-In patients with pre-existing hypokalaemia or those that develop hypokalaemia whilst being treated with ZYTIGA, consider maintaining the patient’s potassium level at ≥4.0 mM.
-For patients who develop Grade ≥3 toxicities including hypertension, hypokalaemia, oedema and other non-mineralocorticoid toxicities, treatment should be withheld and appropriate medical management should be instituted.
+In patients with pre-existing hypokalaemia or those that develop hypokalaemia whilst being treated with ZYTIGA, consider maintaining the patient’s potassium level at ≥ 4.0 mM.
+For patients who develop Grade ≥ 3 toxicities including hypertension, hypokalaemia, oedema and other non-mineralocorticoid toxicities, treatment should be withheld and appropriate medical management should be instituted.
 Treatment with ZYTIGA should not be reinitiated until symptoms of the toxicity have resolved to Grade 1 or baseline.
 In the event of a missed daily dose of either ZYTIGA, prednisone or prednisolone, treatment should be resumed the following day with the usual daily dose.
 
@@ -23,7 +25,7 @@ Re-treatment following return of liver function tests to the patient’s baselin
 For patients being re-treated, serum transaminases should be monitored at a minimum of every two weeks for three months and monthly thereafter.
 If hepatotoxicity recurs at the reduced dose of 500 mg daily, treatment should be discontinued.
 
-If patients develop severe hepatotoxicity (ALT or AST 20 times the upper limit of normal) anytime while on therapy, treatment should be discontinued and patients should not be re-treated.
+If patients develop severe hepatotoxicity (ALT or AST 20 times the ULN) anytime while on therapy, treatment should be discontinued and patients should not be re-treated.
 
 Hepatic impairment
 No dose adjustment is necessary for patients with pre-existing mild hepatic impairment, Child-Pugh Class A.
@@ -40,8 +42,9 @@ However, there is no clinical experience in patients with prostate cancer and se
 Caution is advised in these patients (see section 4.4).
 
 Paediatric population
-There is no relevant use of this medicinal product in the paediatric population, as prostate cancer is not present in children and adolescents.
+There is no relevant use of ZYTIGA in the paediatric population.
 
 Method of administration
+ZYTIGA is for oral use.
 ZYTIGA should be taken at least two hours after eating and no food should be eaten for at least one hour after taking the tablets.
 These should be swallowed whole with water.

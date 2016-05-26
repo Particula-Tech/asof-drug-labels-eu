@@ -5,7 +5,7 @@ Administration with food significantly increases the absorption of abiraterone a
 The efficacy and safety when given with food have not been established therefore this medicinal product must not be taken with food (see sections 4.2 and 5.2).
 Interactions with other medicinal products
 Potential for other medicinal products to affect abiraterone exposures
-In a clinical pharmacokinetic interaction study of healthy subjects pretreated with a strong CYP3A4 inducer rifampicin, 600 mg daily for 6 days followed by a single dose of abiraterone acetate 1,000 mg, the mean plasma AUC∞of abiraterone was decreased by 55%.
+In a clinical pharmacokinetic interaction study of healthy subjects pretreated with a strong CYP3A4 inducer rifampicin, 600 mg daily for 6 days followed by a single dose of abiraterone acetate 1,000 mg, the mean plasma AUC∞ of abiraterone was decreased by 55%.
 
 Strong inducers of CYP3A4 (e.g., phenytoin, carbamazepine, rifampicin, rifabutin, rifapentine, phenobarbital, St John's wort [Hypericum perforatum]) during treatment are to be avoided, unless there is no therapeutic alternative.
 
@@ -18,10 +18,17 @@ The AUC24 for dextrorphan, the active metabolite of dextromethorphan, increased 
 
 Caution is advised when administering with medicinal products activated by or metabolised by CYP2D6, particularly with medicinal products that have a narrow therapeutic index.
 Dose reduction of medicinal products with a narrow therapeutic index that are metabolised by CYP2D6 should be considered.
-Examples of medicinal products metabolised by CYP2D6 include metoprolol, propranolol, desipramine, venlafaxine, haloperidol, risperidone, propafenone, flecainide, codeine, oxycodone and tramadol (the latter three products requiring CYP2D6 to form their active analgesic metabolites).
+Examples of medicinal products metabolised by CYP2D6 include metoprolol, propranolol, desipramine, venlafaxine, haloperidol, risperidone, propafenone, flecainide, codeine, oxycodone and tramadol (the latter three medicinal products requiring CYP2D6 to form their active analgesic metabolites).
 
 In a CYP2C8 drug-drug interaction trial in healthy subjects, the AUC of pioglitazone was increased by 46% and the AUCs for M-III and M-IV, the active metabolites of pioglitazone, each decreased by 10% when pioglitazone was given together with a single dose of 1,000 mg abiraterone acetate.
-Although these results indicate that no clinically meaningful increases in exposure are expected when ZYTIGA is combined with drugs that are predominantly eliminated by CYP2C8, patients should be monitored for signs of toxicity related to a CYP2C8 substrate with a narrow therapeutic index if used concomitantly.
+Although these results indicate that no clinically meaningful increases in exposure are expected when ZYTIGA is combined with medicinal products that are predominantly eliminated by CYP2C8, patients should be monitored for signs of toxicity related to a CYP2C8 substrate with a narrow therapeutic index if used concomitantly.
 
-In vitro, the major metabolites abiraterone sulphate and N-oxide abiraterone sulphate were shown to inhibit the hepatic uptake transporter OATP1B1 and as a consequence it may increase the concentrations of drugs eliminated by OATP1B1.
+In vitro, the major metabolites abiraterone sulphate and N-oxide abiraterone sulphate were shown to inhibit the hepatic uptake transporter OATP1B1 and as a consequence it may increase the concentrations of medicinal products eliminated by OATP1B1.
 There are no clinical data available to confirm transporter based interaction.
+
+Use with products known to prolong QT interval
+Since androgen deprivation treatment may prolong the QT interval, caution is advised when administering ZYTIGA with medicinal products known to prolong the QT interval or medicinal products able to induce Torsade de pointes such as class IA (e.g. quinidine, disopyramide) or class III (e.g. amiodarone, sotalol, dofetilide, ibutilide) antiarrhythmic medicinal products, methadone, moxifloxacin, antipsychotics, etc.
+
+Use with Spironolactone
+Spironolactone binds to the androgen receptor and may increase prostate specific antigen (PSA) levels.
+Use with ZYTIGA is not recommended (see section 5.1).

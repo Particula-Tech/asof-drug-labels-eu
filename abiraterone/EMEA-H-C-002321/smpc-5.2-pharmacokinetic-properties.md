@@ -26,20 +26,20 @@ The mean half-life of abiraterone in plasma is approximately 15 hours based on d
 Following oral administration of 14C-abiraterone acetate 1,000 mg, approximately 88% of the radioactive dose is recovered in faeces and approximately 5% in urine.
 The major compounds present in faeces are unchanged abiraterone acetate and abiraterone (approximately 55% and 22% of the administered dose, respectively).
 
-Patients with hepatic impairment
+Hepatic impairment
 The pharmacokinetics of abiraterone acetate was examined in subjects with pre-existing mild or moderate hepatic impairment (Child-Pugh Class A and B, respectively) and in healthy control subjects.
 Systemic exposure to abiraterone after a single oral 1,000 mg dose increased by approximately 11% and 260% in subjects with mild and moderate pre-existing hepatic impairment, respectively.
 The mean half-life of abiraterone is prolonged to approximately 18 hours in subjects with mild hepatic impairment and to approximately 19 hours in subjects with moderate hepatic impairment.
 
-In another trial, the pharmacokinetics of abiraterone were examined in subjects with pre-existing severe (n=8) hepatic impairment (Child-Pugh Class C) and in 8 healthy control subjects with normal hepatic function.
-The systemic exposure (AUC) to abiraterone increased by approximately 600% and the fraction of free drug increased by 80% in subjects with severe hepatic impairment compared to subjects with normal hepatic function.
+In another trial, the pharmacokinetics of abiraterone were examined in subjects with pre-existing severe (n = 8) hepatic impairment (Child-Pugh Class C) and in 8 healthy control subjects with normal hepatic function.
+The AUC to abiraterone increased by approximately 600% and the fraction of free drug increased by 80% in subjects with severe hepatic impairment compared to subjects with normal hepatic function.
 
 No dose adjustment is necessary for patients with pre-existing mild hepatic impairment.
 The use of abiraterone acetate should be cautiously assessed in patients with moderate hepatic impairment in whom the benefit clearly should outweigh the possible risk (see sections 4.2 and 4.4). abiraterone acetate should not be used in patients with severe hepatic impairment (see sections 4.2, 4.3 and 4.4).
 
 For patients who develop hepatotoxicity during treatment, suspension of treatment and dose adjustment may be required (see sections 4.2 and 4.4).
 
-Patients with renal impairment
+Renal impairment
 The pharmacokinetics of abiraterone acetate was compared in patients with end-stage renal disease on a stable haemodialysis schedule versus matched control subjects with normal renal function.
 Systemic exposure to abiraterone after a single oral 1,000 mg dose did not increase in subjects with end-stage renal disease on dialysis.
 Administration in patients with renal impairment, including severe renal impairment, does not require dose reduction (see section 4.2).

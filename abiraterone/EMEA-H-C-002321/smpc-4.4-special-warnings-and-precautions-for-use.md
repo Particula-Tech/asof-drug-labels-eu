@@ -13,21 +13,24 @@ Before treating patients with a significant risk for congestive heart failure (e
 Before treatment with ZYTIGA, cardiac failure should be treated and cardiac function optimised.
 Hypertension, hypokalaemia and fluid retention should be corrected and controlled.
 During treatment, blood pressure, serum potassium, fluid retention (weight gain, peripheral oedema), and other signs and symptoms of congestive heart failure should be monitored every 2 weeks for 3 months, then monthly thereafter and abnormalities corrected.
+QT prolongation has been observed in patients experiencing hypokalaemia in association with ZYTIGA treatment.
 Assess cardiac function as clinically indicated, institute appropriate management and consider discontinuation of this treatment if there is a clinically significant decrease in cardiac function (see section4.2).
 
-Hepatotoxicity and Hepatic impairment
+Hepatotoxicity and hepatic impairment
 Marked increases in liver enzymes leading to treatment discontinuation or dose modification occurred in controlled clinical studies (see section 4.8).
 Serum transaminase levels should be measured prior to starting treatment, every two weeks for the first three months of treatment, and monthly thereafter.
 If clinical symptoms or signs suggestive of hepatotoxicity develop, serum transaminases should be measured immediately.
-If at any time the ALT or AST rises above 5 times the upper limit of normal, treatment should be interrupted immediately and liver function closely monitored.
+If at any time the ALT or AST rises above 5 times the ULN, treatment should be interrupted immediately and liver function closely monitored.
 Re-treatment may take place only after return of liver function tests to the patient’s baseline and at a reduced dose level (see section 4.2).
 
-If patients develop severe hepatotoxicity (ALT or AST 20 times the upper limit of normal) anytime while on therapy, treatment should be discontinued and patients should not be re-treated.
+If patients develop severe hepatotoxicity (ALT or AST 20 times the ULN) anytime while on therapy, treatment should be discontinued and patients should not be re-treated.
 
 Patients with active or symptomatic viral hepatitis were excluded from clinical trials; thus, there are no data to support the use of ZYTIGA in this population.
 
 There are no data on the clinical safety and efficacy of multiple doses of abiraterone acetate when administered to patients with moderate or severe hepatic impairment (Child-Pugh Class B or C). The use of ZYTIGA should be cautiously assessed in patients with moderate hepatic impairment, in whom the benefit clearly should outweigh the possible risk (see sections 4.2 and 5.2).
 ZYTIGA should not be used in patients with severe hepatic impairment (see sections 4.2, 4.3 and 5.2).
+There have been rare post-marketing reports of acute liver failure and hepatitis fulminant, some with fatal outcome (see section 4.8).
+
 Corticosteroid withdrawal and coverage of stress situations
 Caution is advised and monitoring for adrenocortical insufficiency should occur if patients are withdrawn from prednisone or prednisolone.
 If ZYTIGA is continued after corticosteroids are withdrawn, patients should be monitored for symptoms of mineralocorticoid excess (see information above).
@@ -56,11 +59,11 @@ To be taken into consideration by patients on a controlled sodium diet.
 Potential risks
 Anaemia and sexual dysfunction may occur in men with metastatic castration resistant prostate cancer including those undergoing treatment with ZYTIGA.
 
-Skeletal Muscle Effects
+Skeletal muscle effects
 Cases of myopathy have been reported in patients treated with ZYTIGA.
 Some patients had rhabdomyolysis with renal failure.
 Most cases developed within the first month of treatment and recovered after ZYTIGA withdrawal.
-Caution is recommended in patients concomitantly treated with drugs known to be associated with myopathy/rhabdomyolysis.
+Caution is recommended in patients concomitantly treated with medicinal products known to be associated with myopathy/rhabdomyolysis.
 
 Interactions with other medicinal products
 Strong inducers of CYP3A4 during treatment are to be avoided unless there is no therapeutic alternative, due to risk of decreased exposure to abiraterone (see section 4.5).
