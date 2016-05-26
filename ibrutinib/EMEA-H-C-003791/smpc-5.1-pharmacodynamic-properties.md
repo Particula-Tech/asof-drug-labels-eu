@@ -21,7 +21,7 @@ Lymphocytosis was not observed in patients with WM treated with IMBRUVICA.
 Clinical efficacy and safety
 
 Mantle cell lymphoma
-The safety and efficacy of IMBRUVICA in patients with relapsed or refractory MCL were evaluated in a single open-label, multi-center phase 2 study (PCYC-1104-CA), of 111 patients.
+The safety and efficacy of IMBRUVICA in patients with relapsed or refractory MCL were evaluated in a single open-label, multi-center phase 2 study (PCYC-1104-CA) of 111 patients.
 The median age was 68 years (range: 40 to 84 years), 77% were male and 92% were Caucasian.
 Patients with Eastern Cooperative Oncology Group (ECOG) performance status of 3 or greater were excluded from the study.
 The median time since diagnosis was 42 months, and median number of prior treatments was 3 (range: 1 to 5 treatments), including 35% with prior high-dose chemotherapy, 43% with prior bortezomib, 24% with prior lenalidomide, and 11% with prior autologous or allogeneic stem cell transplant.
@@ -37,7 +37,7 @@ Table 2: Overall response rate (ORR) and duration of response (DOR) in patients 
 |  | Total N = 111 |
 | --- | --- |
 | ORR (%) | 67.6 |
-| 95% CI (%) | (58.0, 76.1) |
+| 95% CI (%) | (58.0; 76.1) |
 | CR (%) | 20.7 |
 | PR (%) | 46.8 |
 | Median DOR (CR+PR) (months) | 17.5 (15.8, NR) |
@@ -50,15 +50,56 @@ PR = partial response; NR = not reached
 The efficacy data was further evaluated by an Independent Review Committee (IRC) demonstrating an ORR of 69%, with a 21% complete response (CR) rate and a 48% partial response (PR) rate.
 The IRC estimated median DOR was 19.6 months.
 The overall response to IMBRUVICA was independent of prior treatment including bortezomib and lenalidomide or underlying risk/prognostic factors, bulky disease, gender or age.
+
 Chronic lymphocytic leukaemia
+Patients previously untreated for CLL
+A randomised, multicenter, open-label phase 3 study (PCYC-1115-CA) of IMBRUVICA versus chlorambucil was conducted in patients with treatment-naïve CLL who were 65 years of age or older.
+Patients between 65 and 70 years of age were required to have at least one comorbidity that precluded the use of frontline chemo-immunotherapy with fludarabine, cyclophosphamide, and rituximab.
+Patients (n = 269) were randomised 1:1 to receive either IMBRUVICA 420 mg daily until disease progression or unacceptable toxicity, or chlorambucil at a starting dose of 0.5 mg/kg on days 1 and 15 of each 28-day cycle for a maximum of 12 cycles, with an allowance for intrapatient dose increases up to 0.8 mg/kg based on tolerability.
+After confirmed disease progression, patients on chlorambucil were able to crossover to ibrutinib.
+
+The median age was 73 years (range, 65 to 90 years), 63% were male, and 91% were Caucasian.
+Ninety one percent of patients had a baseline ECOG performance status of 0 or 1 and 9% had an ECOG performance status of 2.
+The study enrolled 269 patients with CLL.
+At baseline, 45% had advanced clinical stage (Rai Stage III or IV), 35% of patients had at least one tumor ≥5 cm, 39% with baseline anemia, 23% with baseline thrombocytopenia, 65% had elevated β2 microglobulin
+> 3500 mcg/L, 47% had a CrCL < 60 ml/min, and 20% of patients presented with del11q.
+
+Progression free survival (PFS) as assessed by IRC according to International Workshop on CLL (IWCLL) criteria indicated an 84% statistically significant reduction in the risk of death or progression in the IMBRUVICA arm.
+Efficacy results for Study PCYC-1115-CA are shown in Table 3 and the Kaplan-Meier curves for PFS and OS are shown in Figures 1 and 2, respectively.
+
+There was a statistically significant sustained platelet or hemoglobin improvement in the ITT population in favor of ibrutinib versus chlorambucil.
+In patients with baseline cytopenias, sustained hematologic improvement was: platelets 77.1% versus 42.9%; hemoglobin 84.3% versus 45.5% for ibrutinib and chlorambucil respectively.
+
+Table 3: Efficacy results in Study PCYC-1115-CA
+
+| Endpoint | IMBRUVICA N = 136 | Chlorambucil N = 133 |
+| --- | --- | --- |
+| Progression free survivala |  |  |
+| Number of events (%) | 15 (11.0) | 64 (48.1) |
+| Median (95% CI), months | Not reached | 18.9 (14.1, 22.0) |
+| HRb (95% CI) | 0.161 (0.091, 0.283) |  |
+| Overall response ratea (CR +PR) | 82.4% | 35.3% |
+| P-value | < 0.0001 |  |
+| Overall survival |  |  |
+| Number of deaths (%) | 3 (2.2) | 17 (12.8) |
+| HR (95% CI) | 0.163 (0.048, 0.558) |  |
+
+a IRC evaluated, median follow--up 18.4 months;
+b HR = hazard ratio;
+c Median OS not reached for both arms. p < 0.005 for OS.
+
+Figure 1: Kaplan-Meier curve of progression-free survival (ITT Population) in Study PCYC-1115-CA
+Figure 2: Kaplan-Meier curve of overall survival (ITT Population) in Study PCYC-1115-CA
+
+Patients with CLL who received at least one prior therapy
 The safety and efficacy of IMBRUVICA in patients with CLL were demonstrated in one uncontrolled study and one randomised, controlled study.
 The open-label, multi-center study (PCYC-1102-CA) included 51 patients with relapsed or refractory CLL, who received 420 mg once daily.
 IMBRUVICA was administered until disease progression or unacceptable toxicity.
 The median age was 68 years (range: 37 to 82 years), median time since diagnosis was 80 months, and median number of prior treatments was 4 (range: 1 to 12 treatments), including 92.2% with a prior nucleoside analog, 98.0% with prior rituximab, 86.3% with a prior alkylator, 39.2% with prior bendamustine and 19.6% with prior ofatumumab.
 At baseline, 39.2% of patients had Rai Stage IV, 45.1% had bulky disease
 (≥5 cm), 35.3% had deletion 17p and 31.4% had deletion 11q.
-ORR was assessed according to the 2008 International Workshop on CLL (IWCLL) criteria by investigators and IRC.
-At a median duration follow up of 16.4 months, the ORR by IRC for the 51 relapsed or refractory patients was 64.7% (95% CI: 50.1%, 77.6%), all PRs.
+ORR was assessed according to the 2008 IWCLL criteria by investigators and IRC.
+At a median duration follow up of 16.4 months, the ORR by IRC for the 51 relapsed or refractory patients was 64.7% (95% CI: 50.1%; 77.6%), all PRs.
 The ORR including PR with lymphocytosis was 70.6%.
 Median time to response was 1.9 months.
 The DOR ranged from 3.9 to 24.2+ months.
@@ -75,9 +116,8 @@ Thirty-two percent of patients had deletion 17p and 31% had 11q deletion.
 
 Progression free survival (PFS) as assessed by an IRC according to IWCLL criteria indicated a 78% statistically significant reduction in the risk of death or progression for patients in the IMBRUVICA arm.
 Analysis of overall survival (OS) demonstrated a 57% statistically significant reduction in the risk of death for patients in the IMBRUVICA arm.
-Efficacy results for Study PCYC-1112-CA are shown in Table 3.
-
-Table 3: Efficacy results in patients with chronic lymphocytic leukaemia (Study PCYC-1112-CA)
+Efficacy results for Study PCYC-1112-CA are shown in Table 4.
+Table 4: Efficacy results in patients with chronic lymphocytic leukaemia (Study PCYC-1112-CA)
 
 | Endpoint | IMBRUVICA N = 195 | Ofatumumab N = 196 |
 | --- | --- | --- |
@@ -94,36 +134,36 @@ d Per IRC.
 Repeat CT scans required to confirm response.
 e All PRs achieved; p < 0.0001 for ORR.
 
-The efficacy was similar across all of the subgroups examined, including in patients with and without deletion 17p, a pre-specified stratification factor (Table 4).
-Table 4: Subgroup analysis of progression free survival (Study PCYC-1112-CA)
+The efficacy was similar across all of the subgroups examined, including in patients with and without deletion 17p, a pre-specified stratification factor (Table 5).
+
+Table 5: Subgroup analysis of progression free survival (Study PCYC-1112-CA)
 
 |  | N | Hazard Ratio | 95% CI |
 | --- | --- | --- | --- |
-| All subjects | 391 | 0.210 | (0.143, 0.308) |
-| Del17P Yes No | 127 264 | 0.247 0.194 | (0.136, 0.450) (0.117, 0.323) |
-| Refractory disease to purine analog Yes No | 175 216 | 0.178 0.242 | (0.100, 0.320) (0.145, 0.404) |
-| Age < 65 ≥65 | 152 239 | 0.166 0.243 | (0.088, 0.315) (0.149, 0.395) |
-| Number of prior lines < 3 ≥3 | 198 193 | 0.189 0.212 | (0.100, 0.358) (0.130, 0.344) |
-| Bulky disease < 5 cm ≥5 cm | 163 225 | 0.237 0.191 | (0.127, 0.442) (0.117, 0.311) |
+| All subjects | 391 | 0.210 | (0.143; 0.308) |
+| Del17P Yes No | 127 264 | 0.247 0.194 | (0.136; 0.450) (0.117; 0.323) |
+| Refractory disease to purine analog Yes No | 175 216 | 0.178 0.242 | (0.100; 0.320) (0.145; 0.404) |
+| Age < 65 ≥65 | 152 239 | 0.166 0.243 | (0.088; 0.315) (0.149; 0.395) |
+| Number of prior lines < 3 ≥3 | 198 193 | 0.189 0.212 | (0.100; 0.358) (0.130; 0.344) |
+| Bulky disease < 5 cm ≥5 cm | 163 225 | 0.237 0.191 | (0.127; 0.442) (0.117; 0.311) |
 
 Hazard ratio based on non-stratified analysis
-
-The Kaplan-Meier curve for PFS is shown in Figure 1.
-Figure 1: Kaplan-Meier curve of progression-free survival (ITT Population) in Study PCYC-1112- CA
+The Kaplan-Meier curve for PFS is shown in Figure 3.
+Figure 3: Kaplan-Meier curve of progression-free survival (ITT Population) in Study PCYC-1112- CA
 
 Waldenström’s macroglobulinaemia
 The safety and efficacy of IMBRUVICA in WM (IgM-excreting lymphoplasmacytic lymphoma) were evaluated in an open-label, multi-center, single-arm trial of 63 previously treated patients.
 The median age was 63 years (range: 44 to 86 years), 76% were male, and 95% were Caucasian.
 All patients had a baseline ECOG performance status of 0 or 1.
 The median time since diagnosis was 74 months, and the median number of prior treatments was 2 (range: 1 to 11 treatments).
-At baseline, the median serum IgM value was 3.5 g/dL, and 60% of patients were anemic (haemoglobin ≤11 g/dL).
+At baseline, the median serum IgM value was 3.5 g/dL, and 60% of patients were anemic (haemoglobin ≤11 g/dL or 6.8 mmol/L).
 
 IMBRUVICA was administered orally at 420 mg once daily until disease progression or unacceptable toxicity.
 The primary endpoint in this study was ORR per investigator assessment.
 The ORR and DOR were assessed using criteria adopted from the Third International Workshop of Waldenström’s macroglobulinaemia.
-Responses to IMBRUVICA are shown in Table 5.
+Responses to IMBRUVICA are shown in Table 6.
 
-Table 5: Overall response rate (ORR) and duration of response (DOR) in patients with WM
+Table 6: Overall response rate (ORR) and duration of response (DOR) in patients with WM
 
 |  | Total (N = 63) |
 | --- | --- |
@@ -138,6 +178,5 @@ CI = confidence interval; NR = not reached; MR = minor response; PR = partial re
 
 The median time to response was 1.0 month (range: 0.7-13.4 months).
 Efficacy results were also assessed by an Independent Review Committee (IRC) demonstrating an ORR of 83%, with a 11% VGPR rate and a 51% PR rate.
-
 Paediatric population
 The European Medicines Agency has waived the obligation to submit the results of studies with IMBRUVICA in all subsets of the paediatric population in MCL, CLL and lymphoplasmacytic lymphoma (LPL) (see section 4.2 for information on paediatric use).

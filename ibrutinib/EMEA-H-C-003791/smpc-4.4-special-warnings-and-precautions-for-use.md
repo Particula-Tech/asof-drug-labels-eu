@@ -2,7 +2,7 @@
 
 Bleeding-related events
 There have been reports of haemorrhagic events in patients treated with IMBRUVICA, both with and without thrombocytopenia.
-These include minor haemorrhagic events such as contusion, epistaxis, and petechiae; and major haemorrhagic events including gastrointestinal bleeding, intracranial haemorrhage, and haematuria.
+These include minor haemorrhagic events such as contusion, epistaxis, and petechiae; and major haemorrhagic events, some fatal, including gastrointestinal bleeding, intracranial haemorrhage, and haematuria.
 
 Patients were excluded from participation in IMBRUVICA phase 2 and 3 studies if they required warfarin or other vitamin K antagonists.
 Warfarin or other vitamin K antagonists should not be administered concomitantly with IMBRUVICA.
@@ -33,6 +33,7 @@ Atrial fibrillation/flutter
 Atrial fibrillation and atrial flutter have been reported in patients treated with IMBRUVICA, particularly in patients with cardiac risk factors, acute infections, and a previous history of atrial fibrillation.
 Periodically monitor all patients clinically for atrial fibrillation.
 Patients who develop arrhythmic symptoms or new onset of dyspnoea should be evaluated clinically and if indicated have an electrocardiogram (ECG) performed.
+
 In patients with preexisting atrial fibrillation requiring anticoagulant therapy, alternative treatment options to IMBRUVICA should be considered.
 In patients who develop atrial fibrillation on therapy with IMBRUVICA a thorough assessment of the risk for thromboembolic disease should be undertaken.
 In patients at high risk and where alternatives to IMBRUVICA are non-suitable, tightly controlled treatment with anticoagulants should be considered.
@@ -41,6 +42,10 @@ Tumour lysis syndrome
 Tumour lysis syndrome has been reported with IMBRUVICA therapy.
 Patients at risk of tumour lysis syndrome are those with high tumour burden prior to treatment.
 Monitor patients closely and take appropriate precautions.
+
+Non-melanoma skin cancer
+Non-melanoma skin cancers were reported more frequently in patients treated with IMBRUVICA than in patients treated with comparators in pooled comparative randomised phase 3 studies.
+Monitor patients for the appearance of non-melanoma skin cancer.
 
 Effects on the QT interval
 In a phase 2 study, ECG evaluations showed IMBRUVICA produced a mild decrease in QTcF interval (mean 7.5 ms). Although the underlying mechanism and safety relevance of this finding are not known, clinicians should use clinical judgment when assessing whether to prescribe ibrutinib to patients at risk from further shortening their QTc duration (e.g., Congenital Short QT Syndrome or patients with a family history of such a syndrome).

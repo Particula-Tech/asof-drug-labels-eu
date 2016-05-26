@@ -11,10 +11,10 @@ Chronic lymphocytic leukaemia and Waldenström’s macroglobulinaemia (WM)
 The recommended dose for the treatment of CLL and WM is 420 mg (three capsules) once daily.
 
 Treatment should continue until disease progression or no longer tolerated by the patient.
-
 Dose adjustments
 
 Moderate and strong CYP3A4 inhibitors increase the exposure of ibrutinib (see sections 4.4 and 4.5).
+
 The IMBRUVICA dose should be lowered to 140 mg once daily (one capsule) when used concomitantly with moderate CYP3A4 inhibitors.
 
 The IMBRUVICA dose should be reduced to 140 mg once daily (one capsule) or withheld for up to 7 days when it is used concomitantly with strong CYP3A4 inhibitors.
@@ -61,10 +61,10 @@ It is not recommended to administer IMBRUVICA to patients with severe hepatic im
 
 Severe cardiac disease
 Patients with severe cardiovascular disease were excluded from IMBRUVICA clinical studies.
-
 Paediatric population
 The safety and efficacy of IMBRUVICA in children aged 0 to 18 years have not been established.
 No data are available.
+
 Method of administration
 IMBRUVICA should be administered orally once daily with a glass of water approximately at the same time each day.
 The capsules should be swallowed whole with water and should not be opened, broken, or chewed.

@@ -10,10 +10,12 @@ Pregnancy
 IMBRUVICA should not be used during pregnancy.
 There are no data from the use of IMBRUVICA in pregnant women.
 Studies in animals have shown reproductive toxicity (see section 5.3).
+
 Breast-feeding
 It is not known whether ibrutinib or its metabolites are excreted in human milk.
 A risk to the newborns/infants cannot be excluded.
 Breast-feeding should be discontinued during treatment with IMBRUVICA.
 
 Fertility
-No male or female fertility studies have been conducted (see section 5.3).
+No effects on fertility or reproductive capacities were observed in male or female rats up to the maximum dose tested, 100 mg/kg/day (Human Equivalent Dose [HED]16 mg/kg/day) (see section 5.3).
+No human data on the effects of ibrutinib on fertility are available.

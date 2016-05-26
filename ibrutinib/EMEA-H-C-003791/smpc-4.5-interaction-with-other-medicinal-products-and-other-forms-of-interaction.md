@@ -1,6 +1,6 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
-Ibrutinib is primarily metabolised by cytochrome P450 enzyme 3A4.
+Ibrutinib is primarily metabolised by cytochrome P450 enzyme 3A4 (CYP3A).
 
 Agents that may increase ibrutinib plasma concentrations
 Concomitant use of IMBRUVICA and medicinal products that strongly or moderately inhibit CYP3A4 can increase ibrutinib exposure and should be avoided.
@@ -40,9 +40,14 @@ As ibrutinib solubility is pH dependent, there is a theoretical risk that medici
 This interaction has not been studied in vivo.
 
 Agents that may have their plasma concentrations altered by ibrutinib
-Ibrutinib is a P-gp inhibitor in vitro.
-As no clinical data are available on this interaction, it cannot be excluded that ibrutinib could inhibit intestinal P-gp after a therapeutic dose.
-To avoid a potential interaction in the GI tract, narrow therapeutic range P-gp substrates such as digoxin should be taken at least 6 hours before or after IMBRUVICA.
+Ibrutinib is a P-gp and breast cancer resistance protein (BCRP) inhibitor in vitro.
+As no clinical data are available on this interaction, it cannot be excluded that ibrutinib could inhibit intestinal P-gp and BCRP after a therapeutic dose.
+To minimise the potential for an interaction in the GI tract, oral narrow therapeutic range, P-gp or BCRP substrates such as digoxin or methotrexate should be taken at least 6 hours before or after IMBRUVICA.
+Ibrutinib may also inhibit BCRP in the liver and increase the exposure of drugs that undergo BCRP-mediated hepatic efflux, such as rosuvastatin.
 
-There is a risk that ibrutinib may inhibit intestinal CYP3A4 and thereby increasing the exposure of CYP3A4 substrates with a large contribution of intestinal CYP3A4 metabolism to its first pass extraction.
-This interaction has not been studied in vivo and its clinical relevance is currently unknown.
+Based on in vitro data, ibrutinib is a weak reversible inhibitor towards CYP3A4 at the intestinal level and may therefore increase the exposure to CYP3A4 substrates sensitive to gut CYP3A metabolism.
+No clinical data are available on this interaction.
+Caution should be exercised if co-administering ibrutinib with CYP3A4 substrates administered orally with narrow therapeutic range (such as dihydroergotamine, ergotamine, fentanyl, cyclosporine, sirolimus and tacrolimus).
+
+Based on in vitro data, ibrutinib is a weak CYP2B6 inducer and may have the potential to affect the expression of other enzymes and transporters regulated via the constitutive androstane receptor (CAR), e.g. CYP2C9, CYP2C19, UGT1A1 and MRP2.
+The clinical relevance is not known, but the exposure to substrates of CYP2B6 (such as efavirenz and bupropion) and of co-regulated enzymes may be reduced upon co-administration with ibrutinib.
