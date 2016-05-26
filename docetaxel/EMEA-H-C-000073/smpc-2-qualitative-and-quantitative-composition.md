@@ -4,7 +4,7 @@ Each single-dose vial of TAXOTERE 20 mg/0.5 ml concentrate contains docetaxel (a
 The viscous solution contains 40 mg/ml docetaxel (anhydrous).
 
 Excipients with known effect:
-Each single-dose vial of solvent contains 13% (w/w) ethanol 95% in water for injection.
+Each single-dose vial of solvent contains 13% (w/w) ethanol 95% v/v in water for injection (252 mg of ethanol 95% v/v).
 
 For the full list of excipients, see section 6.1.
 
@@ -13,6 +13,7 @@ For the full list of excipients, see section 6.1.
 Each single-dose vial of TAXOTERE 80 mg/2 ml concentrate contains docetaxel (as trihydrate) corresponding to 80 mg of docetaxel (anhydrous).
 
 Excipient with known effect:
+Each single-dose vial of solvent contains 13% (w/w) ethanol 95% v/v in water for injection (932 mg of ethanol 95% v/v).
 
 [TAXOTERE 20 mg/1 ml concentrate for solution for infusion]
 

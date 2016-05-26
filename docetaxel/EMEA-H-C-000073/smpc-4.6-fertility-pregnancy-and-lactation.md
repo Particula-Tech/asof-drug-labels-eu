@@ -18,6 +18,5 @@ Contraception in males and females
 An effective method of contraception should be used during treatment.
 
 Fertility
-
 In non clinical studies, docetaxel has genotoxic effects and may alter male fertility (see section 5.3).
 Therefore, men being treated with docetaxel are advised not to father a child during and up to 6 months after treatment and to seek advice on conservation of sperm prior to treatment.

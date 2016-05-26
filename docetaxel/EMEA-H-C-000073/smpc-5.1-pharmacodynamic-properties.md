@@ -38,7 +38,6 @@ The first interim analysis was planned 3 years after the date when half of study
 The second interim analysis was done after 400 DFS events had been recorded overall, which led to a median follow-up of 55 months.
 The final analysis was performed when all patients had reached their 10-year follow-up visit (unless they had a DFS event or were lost to follow-up before).
 Disease-free survival (DFS) was the primary efficacy endpoint and Overall survival (OS) was the secondary efficacy endpoint.
-
 A final analysis was performed with an actual median follow up of 96 months.
 Significantly longer disease-free survival for the TAC arm compared to the FAC arm was demonstrated.
 Incidence of relapses at 10 years was reduced in patients receiving TAC compared to those who received FAC (39% versus 45%, respectively) i.e. an absolute risk reduction by 6% (p = 0.0043).
@@ -72,6 +71,7 @@ One primary analysis and one updated analysis were performed.
 The primary analysis was done when all patients had a follow-up of greater than 5 years (median follow-up time of 77 months).
 The updated analysis was performed when all patients had reached their 10-year (median follow up time of 10 years and 5 months) follow-up visit (unless they had a DFS event or were lost to follow-up previously).
 Disease-free survival (DFS) was the primary efficacy endpoint and Overall survival (OS) was the secondary efficacy endpoint.
+
 At the median follow-up time of 77 months, significantly longer disease-free survival for the TAC arm compared to the FAC arm was demonstrated.
 TAC-treated patients had a 32% reduction in the risk of relapse compared to those treated with FAC (hazard ratio = 0.68, 95% CI (0.49-0.93), p = 0.01).
 At the median follow up time of 10 years and 5 months, TAC-treated patients had a 16,5% reduction in the risk of relapse compared to those treated with FAC (hazard ratio = 0.84, 95% CI (0.65-1.08), p=0.1646).
@@ -96,7 +96,8 @@ Subset Analyses-Adjuvant Therapy in Patients with Node-negative Breast Cancer St
 | Age category 2 <35 years ≥35 years | 42 497 | 0.31 0.73 | 0.11-0.89 0.52-1.01 |
 | Hormonal receptor status Negative Positive | 195 344 | 0.7 0.62 | 0.45-1.1 0.4-0.97 |
 | Tumour size ≤2 cm >2 cm | 285 254 | 0.69 0.68 | 0.43-1.1 0.45-1.04 |
-| Histological grade Grade1 (includes grade not assessed) Grade 2 Grade 3 | 64 216 259 | 0.79 0.77 0.59 | 0.24-2.6 0.46-1.3 0.39-0.9 |
+| Histological grade Grade1 (includes grade not assessed) Grade 2 Grade 3 | 64 | 0.79 | 0.24-2.6 |
+|  | 216 259 | 0.77 0.59 | 0.46-1.3 0.39-0.9 |
 | Menopausal status Pre-Menopausal Post-Menopausal | 285 254 | 0.64 0.72 | 0.40-1 0.47-1.12 |
 
 *a hazard ratio (TAC/FAC) of less than 1 indicates that TAC is associated with a longer disease free survival compared to FAC.
@@ -136,6 +137,7 @@ A total of 449 patients were randomized to receive either docetaxel monotherapy 
 Both regimens were administered every 3 weeks.
 Without affecting the primary endpoint, overall response rate (32% vs 25%, p = 0.10), docetaxel prolonged median time to progression (24.6 weeks vs 15.6 weeks; p < 0.01) and median survival (15.3 months vs 12.7 months; p = 0.03).
 More grade 3/4 adverse events were observed for docetaxel monotherapy (55.4%) compared to paclitaxel (23.0%).
+
 TAXOTERE in combination with doxorubicin
 
 One large randomized phase III study, involving 429 previously untreated patients with metastatic disease, has been performed with doxorubicin (50 mg/m²) in combination with docetaxel (75 mg/m²) (AT arm) versus doxorubicin (60 mg/m²) in combination with cyclophosphamide (600 mg/m²) (AC arm).
@@ -385,18 +387,6 @@ ER = estrogen receptor
 Pharmacotherapeutic group: Taxanes, ATC Code: L01CD02
 
 1060 patients were randomized to receive either TAXOTERE 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 (539 patients in TAC arm), or doxorubicin 50 mg/m2 followed by fluorouracil 500 mg/m2 and cyclosphosphamide 500 mg/m2 (521 patients in FAC arm), as adjuvant treatment of operable node-negative breast cancer patients with high risk of relapse according to 1998 St. Gallen criteria (tumour size >2 cm and/or negative ER and PR and/or high histological/nuclear grade (grade 2 to 3) and /or age <35 years).).
-
-| Patient subset | Number of patients in TAC group | Disease Free Survival |  |
-| --- | --- | --- | --- |
-|  |  | Hazard ratio* | 95% CI |
-| Overall | 539 | 0.68 | 0.49-0.93 |
-| Age category 1 |  |  |  |
-| <50 years ≥50 years | 260 279 | 0.67 0.67 | 0.43-1.05 0.43-1.05 |
-| Age category 2 <35 years ≥35 years | 42 497 | 0.31 0.73 | 0.11-0.89 0.52-1.01 |
-| Hormonal receptor status Negative Positive | 195 344 | 0.7 0.62 | 0.45-1.1 0.4-0.97 |
-| Tumour size ≤2 cm >2 cm | 285 254 | 0.69 0.68 | 0.43-1.1 0.45-1.04 |
-| Histological grade Grade1 (includes grade not assessed) Grade 2 Grade 3 | 64 216 259 | 0.79 0.77 0.59 | 0.24-2.6 0.46-1.3 0.39-0.9 |
-| Menopausal status Pre-Menopausal Post-Menopausal | 285 254 | 0.64 0.72 | 0.40-1 0.47-1.12 |
 
 Hazard ratio
 
