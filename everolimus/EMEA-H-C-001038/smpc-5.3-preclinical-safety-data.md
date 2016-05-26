@@ -4,6 +4,7 @@ The preclinical safety profile of everolimus was assessed in mice, rats, minipig
 The major target organs were male and female reproductive systems (testicular tubular degeneration, reduced sperm content in epididymides and uterine atrophy) in several species; lungs (increased alveolar macrophages) in rats and mice; pancreas (degranulation and vacuolation of exocrine cells in monkeys and minipigs, respectively, and degeneration of islet cells in monkeys), and eyes (lenticular anterior suture line opacities) in rats only.
 Minor kidney changes were seen in the rat (exacerbation of age-related lipofuscin in tubular epithelium, increases in hydronephrosis) and mouse (exacerbation of background lesions).
 There was no indication of kidney toxicity in monkeys or minipigs.
+
 Everolimus appeared to spontaneously exacerbate background diseases (chronic myocarditis in rats, coxsackie virus infection of plasma and heart in monkeys, coccidian infestation of the gastrointestinal tract in minipigs, skin lesions in mice and monkeys).
 These findings were generally observed at systemic exposure levels within the range of therapeutic exposure or above, with the exception of the findings in rats, which occurred below therapeutic exposure due to a high tissue distribution.
 

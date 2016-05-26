@@ -9,11 +9,11 @@ The recommended dose is 10 mg everolimus once daily.
 Treatment should continue as long as clinical benefit is observed or until unacceptable toxicity occurs.
 
 If a dose is missed, the patient should not take an additional dose, but take the next prescribed dose as usual.
+
 Dose adjustment due to adverse reactions
 Management of severe and/or intolerable suspected adverse reactions may require dose reduction and/or temporary interruption of Afinitor therapy.
 For adverse reactions of Grade 1, dose adjustment is usually not required.
 If dose reduction is required, the recommended dose is 5 mg daily and must not be lower than 5 mg daily.
-
 Table 1 summarises the dose adjustment recommendations for specific adverse reactions (see also section 4.4).
 
 Table 1 Afinitor dose adjustment recommendations

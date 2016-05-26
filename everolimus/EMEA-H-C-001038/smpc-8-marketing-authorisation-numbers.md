@@ -1,16 +1,15 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
 
+Afinitor 2.5 mg tablets
 EU/1/09/538/009
 EU/1/09/538/010
 
-[Afinitor 5 mg tablets]
-
+Afinitor 5 mg tablets
 EU/1/09/538/001
 EU/1/09/538/003
 EU/1/09/538/007
 
-[Afinitor 10 mg tablets]
-
+Afinitor 10 mg tablets
 EU/1/09/538/004
 EU/1/09/538/006
 EU/1/09/538/008

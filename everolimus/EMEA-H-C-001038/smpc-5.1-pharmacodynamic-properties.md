@@ -97,7 +97,7 @@ Table 5 RADIANT-3 – efficacy results
 | Median overall survival (months) (95% CI) |  |  |  |  |
 | Median overall survival | 44.02 (35.61, 51.75) | 37.68 (29.14, 45.77) | 0.94 (0.73, 1.20) | 0.300 |
 
-Figure 2 RADIANT-3 – KaplanMeier progression-free survival curves (investigator radiological review)
+Figure 2 RADIANT-3 – Kaplan-Meier progression-free survival curves (investigator radiological review)
 
 100
 Hazard Ratio = 0.35
@@ -123,6 +123,104 @@ Time (months)
 No. of patients still at risk
 Afinitor 207 189 153 126 114 80 49 36 28 21 10 6 2 0 0 0 Placebo 203 117 98 59 52 24 16 7 4 3 2 1 1 1 1 0
 
+Advanced neuroendocrine tumours of gastrointestinal or lung origin
+RADIANT-4 (study CRAD001T2302), a randomised, double-blind, multicentre, phase III study of Afinitor plus best supportive care (BSC) versus placebo plus BSC was conducted in patients with advanced, well-differentiated (Grade 1 or Grade 2) non-functional neuroendocrine tumours of gastrointestinal or lung origin without a history of and no active symptoms related to carcinoid syndrome.
+
+The primary endpoint for the study was progression-free survival (PFS) evaluated by Response Evaluation Criteria in Solid Tumors (RECIST), based on independent radiology assessment.
+Supportive PFS analysis was based on local investigator review.
+Secondary endpoints included overall survival (OS), overall response rate, disease control rate, safety, change in quality of life (FACT-G) and time to World Health Organisation performance status (WHO PS) deterioration.
+
+A total of 302 patients were randomised in a 2:1 ratio to receive either everolimus (10 mg daily) (n=205) or placebo (n=97).
+Demographics and disease characteristics were generally balanced (median age 63 years [range 22 to 86], 76% Caucasian, history of prior somatostatin analogue [SSA] use).
+The median duration of blinded treatment was 40.4 weeks for patients receiving Afinitor and 19.6 weeks for those receiving placebo.
+Patients in the placebo arm did not cross-over to everolimus at the time of progression.
+The efficacy results for the primary endpoint were obtained from the final PFS analysis (see Table 6 and Figure 3).
+
+Table 6 RADIANT-4 – Progression-free survival results
+
+| Population | Afinitor n=205 | Placebo n=97 | Hazard ratio (95% CI) | p-valuea |
+| --- | --- | --- | --- | --- |
+| Median progression-free survival (months) (95% CI) |  |  |  |  |
+| Independent radiological review | 11.01 (9.2, 13.3) | 3.91 (3.6, 7.4) | 0.48 (0.35, 0.67) | <0.0001 |
+| Investigator radiological review | 13.96 (11.2, 17.7) | 5.45 (3.7, 7.4) | 0.39 (0.28, 0.54) | <0.0001 |
+| a One-sided p-value from a stratified log-rank test |  |  |  |  |
+
+Figure 3 RADIANT-4 – Kaplan-Meier progression-free survival curves (independent radiological review)
+
+100 Hazard Ratio = 0.48
+90 95% CI [0.35, 0.67]
+80 Kaplan-Meier medians
+70 Everolimus + BSC: 11.01 [9.23;13.31] months
+Placebo + BSC: 3.91 [3.58;7.43] months
+
+60
+
+Log-rank p value = <0.001
+
+50
+40
+30
+
+20 Censoring times
+10 Placebo + BSC (n/N = 65/97) Everolimus + BSC (n/N = 113/205)
+
+0
+
+0 2 4 6 8 10 12 15 18 21 24 27 30
+
+Time (months)
+Number of Patients still at Risk
+Time(months) 0 2 4 6 8 10 12 15 18 21 24 27 30 Everolimus 205 168 145 124 101 81 65 52 26 10 3 0 0
+
+Placebo 97 65 39 30 24 21 17 15 11 6 5 1 0
+
+In supportive analyses, positive treatment effect has been observed in all subgroups with the exception of the subgroup of patients with ileum as primary site of tumour origin (Ileum: HR=1.22 [95% CI: 0.56 to 2.65]; Non-ileum: HR=0.34 [95% CI: 0.22 to 0.54]; Lung: HR=0.43 [95% CI: 0.24 to 0.79]) (see Figure 4).
+
+Figure 4 RADIANT-4 – Progression free survival results by pre-specified patient subgroup (independent radiological review)
+
+All (N=302)
+
+Age <65 years (N=159)
+
+≥65 years (N=143)
+
+WHO PS 0 (N=216)
+
+1 (N=86)
+Yes (N=157)
+Prior SSA
+No (N=145)
+
+Prior Yes (N=77)
+
+chemotherapy No (N=225)
+Lung (N=90)
+Primary tumour
+Ileum (N=71) origin
+Non-ileum* (N=141)
+Grade 1 (N=194)
+Tumour grading
+Grade 2 (N=107)
+Liver tumour ≤10% (N=228)
+
+burden >10% (N=72)
+
+Baseline CgA >2xULN (N=139)
+≤2xULN (N=138)
+Baseline NSE >ULN (N=87)
+≤ULN (N=188)
+
+Everolimus + BSC Placebo + BSC
+
+In favour of
+*Non-ileum: stomach, colon, rectum, appendix, caecum, duodenum, jejunum, carcinoma of unknown primary origin and other gastrointestinal origin
+ULN: Upper limit of normal
+CgA: Chromogranin A
+NSE: Neuron specific enolase
+Hazard ratio (95% CI) from stratified Cox model
+The pre-planned OS interim analysis after 101 deaths (out of 191 required for final analysis) and 33 months follow-up favoured the everolimus arm; however, no statistically significant difference in OS was noted (HR= 0.73 [95% CI: 0.48 to 1.11; p=0.071]).
+
+No difference in the time to definitive deterioration of WHO PS (≥1 point) and time to definitive deterioration in quality of life (FACT-G total score ≥7 points) was observed between the two arms.
 Advanced renal cell carcinoma
 RECORD-1 (study CRAD001C2240), a phase III, international, multicentre, randomised, double-blind study comparing everolimus 10 mg/day and placebo, both in conjunction with best supportive care, was conducted in patients with metastatic renal cell carcinoma whose disease had progressed on or after treatment with VEGFR-TKI (vascular endothelial growth factor receptor tyrosine kinase inhibitor) therapy (sunitinib, sorafenib, or both sunitinib and sorafenib).
 Prior therapy with bevacizumab and interferon-α was also permitted.
@@ -136,9 +234,10 @@ The Independent Data Monitoring Committee recommended termination of this trial 
 In total, 416 patients were randomised 2:1 to receive Afinitor (n=277) or placebo (n=139).
 Demographics were well balanced (pooled median age [61 years; range 27-85], 78% male, 88% Caucasian, number of prior VEGFR-TKI therapies [1-74%, 2-26%]).
 The median duration of blinded study treatment was 141 days (range 19-451 days) for patients receiving everolimus and 60 days (range 21-295 days) for those receiving placebo.
-Afinitor was superior to placebo for the primary endpoint of progression-free survival, with a statistically significant 67% reduction in the risk of progression or death (see Table 6 and Figure 3).
 
-Table 6 RECORD-1 – Progression-free survival results
+Afinitor was superior to placebo for the primary endpoint of progression-free survival, with a statistically significant 67% reduction in the risk of progression or death (see Table 7 and Figure 5).
+
+Table 7 RECORD-1 – Progression-free survival results
 
 | Population | n | Afinitor n=277 | Placebo n=139 | Hazard ratio (95%CI) | p-value |
 | --- | --- | --- | --- | --- | --- |
@@ -153,7 +252,7 @@ Table 6 RECORD-1 – Progression-free survival results
 | Poor risk | 61 | 3.6 (1.9-4.6) | 1.8 (1.8-3.6) | 0.44 (0.22-0.85) | 0.007 |
 | a Stratified log-rank test |  |  |  |  |  |
 
-Figure 3 RECORD-1 – KaplanMeier progression-free survival curves (independent central review)
+Figure 5 RECORD-1 – Kaplan-Meier progression-free survival curves (independent central review)
 
 Censoring Times
 Everolimus (n/N = 155/277)
@@ -174,6 +273,7 @@ Afinitor
 Placebo
 
 Six-month PFS rates were 36% for Afinitor therapy compared with 9% for placebo.
+
 Confirmed objective tumour responses were observed in 5 patients (2%) receiving Afinitor, while none were observed in patients receiving placebo.
 Therefore, the progression-free survival advantage primarily reflects the population with disease stabilisation (corresponding to 67% of the Afinitor treatment group).
 
@@ -181,31 +281,4 @@ No statistically significant treatment-related difference in overall survival wa
 Crossover to open-label Afinitor following disease progression for patients allocated to placebo confounded the detection of any treatment-related difference in overall survival.
 
 Paediatric population
-The European Medicines Agency has waived the obligation to submit the results of studies with Afinitor in all subsets of the paediatric population in neuroendocrine tumours of pancreatic origin and in renal cell carcinoma (see section 4.2 for information on paediatric use).
-
-[Afinitor 5 mg tablets]
-
-| Analysis | Afinitora n=485 | Placeboa n=239 | Hazard ratio | p value |
-| --- | --- | --- | --- | --- |
-| Median progression-free survival (months) (95% CI) |  |  |  |  |
-| Investigator radiological review | 7.8 (6.9 to 8.5) | 3.2 (2.8 to 4.1) | 0.45 (0.38 to 0.54) | <0.0001 |
-| Independent radiological review | 11.0 (9.7 to 15.0) | 4.1 (2.9 to 5.6) | 0.38 (0.31 to 0.48) | <0.0001 |
-| Median overall survival (months) (95% CI) |  |  |  |  |
-| Median overall survival | 31.0 (28.0 – 34.6) | 26.6 (22.6 – 33.1) | 0.89 (0.73 – 1.10) | 0.1426 |
-
-Best overall response (%) (95% CI)
-Objective response rateb 12.6% 1.7% n/ad <0.0001e
-(9.8 to 15.9) (0.5 to 4.2)
-Clinical benefit ratec 51.3% 26.4% n/ad <0.0001e
-(46.8 to 55.9) (20.9 to 32.4)
-a Plus exemestane
-b Objective response rate = proportion of patients with complete or partial response
-c Clinical benefit rate = proportion of patients with complete or partial response or stable disease
-≥24 weeks
-d Not applicable
-e p value is obtained from the exact Cochran-Mantel-Haenszel test using a stratified version of
-the Cochran-Armitage permutation test.
-
-[Afinitor 10 mg tablets]
-
-(all sentences already above)
+The European Medicines Agency has waived the obligation to submit the results of studies with Afinitor in all subsets of the paediatric population in neuroendocrine tumours of pancreatic origin, thoracic neuroendocrine tumours and in renal cell carcinoma (see section 4.2 for information on paediatric use).
