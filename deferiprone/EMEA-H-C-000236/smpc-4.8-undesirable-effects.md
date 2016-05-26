@@ -41,3 +41,17 @@ The levels normalised with oral zinc supplementation.
 
 Neurological disorders (such as cerebellar symptoms, diplopia, lateral nystagmus, psychomotor slowdown, hand movements and axial hypotonia) have been observed in children who had been voluntarily prescribed more than 2.5 times the maximum recommended dose of 100 mg/kg/day for several years.
 The neurological disorders progressively regressed after deferiprone discontinuation (see sections 4.4 and 4.9).
+The safety profile of combination therapy (deferiprone and deferoxamine) observed in clinical trials, post-marketing experience or published literature was consistent with that characterized for monotherapy.
+
+Data from the pooled safety database from clinical trials (1343 patient-years exposure to Ferriprox monotherapy and 244 patient-years exposure to Ferriprox and deferoxamine) showed statistically significant (p<0.05) differences in the incidence of adverse reactions based on System Organ Class for “Cardiac disorders", "Musculoskeletal and connective tissue disorders” and "Renal and urinary disorders".
+The incidences of “Musculoskeletal and connective tissue disorders” and "Renal and urinary disorders" were lower during combination therapy than monotherapy, whereas the incidence of “Cardiac disorders" was higher during combination therapy than monotherapy.
+The higher rate of “Cardiac disorders" reported during combination therapy than monotherapy was possibly due to the higher incidence of pre-existing cardiac disorders in patients who received combination therapy.
+Careful monitoring of cardiac events in patients on combination therapy is warranted (see section 4.4).
+
+The incidences of adverse reactions experienced by 18 children and 97 adults treated with combination therapy were not significantly different between the two age groups except in the incidence of arthropathy (11.1% in children vs. none in adults, p=0.02).
+Evaluation of rate of reactions per 100 patient-years of exposure showed that only the rate of diarrhoea was significantly higher in children (11.05) than in adults (2.01, p=0.01).
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

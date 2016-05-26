@@ -21,6 +21,7 @@ The patient should be advised to limit contact with other individuals in order t
 Obtain a complete blood cell (CBC) count, with a white blood cell (WBC) count, corrected for the presence of nucleated red blood cells, a neutrophil count, and a platelet count immediately upon diagnosing the event and then repeat daily.
 It is recommended that following recovery from neutropenia, weekly CBC, WBC, neutrophil and platelet counts continue to be obtained for three consecutive weeks, to ensure that the patient recovers fully.
 Should any evidence of infection develop concurrently with the neutropenia, the appropriate cultures and diagnostic procedures should be performed and an appropriate therapeutic regimen instituted.
+
 In the event of severe neutropenia or agranulocytosis:
 Follow the guidelines above and administer appropriate therapy such as granulocyte colony stimulating factor, beginning the same day that the event is identified; administer daily until the condition resolves.
 Provide protective isolation and if clinically indicated, admit patient to the hospital.
@@ -31,7 +32,6 @@ In the event of agranulocytosis, rechallenge is contraindicated.
 
 Carcinogenicity/mutagenicity
 In view of the genotoxicity results, a carcinogenic potential of deferiprone cannot be excluded (see section 5.3).
-
 Plasma Zn2+ concentration
 Monitoring of plasma Zn2+ concentration, and supplementation in case of a deficiency, is recommended.
 
@@ -56,11 +56,14 @@ Chronic overdose and neurological disorders
 Neurological disorders have been observed in children treated with 2.5 to 3 times the recommended dose for several years.
 Prescribers are reminded that the use of doses above 100 mg/kg/day are not recommended (see sections 4.8 and 4.9).
 
+Combined use with other iron chelators
+The use of combination therapy should be considered on a case-by-case basis.
+The response to therapy should be assessed periodically, and the occurrence of adverse events closely monitored.
+Fatalities and life-threatening situations (caused by agranulocytosis) have been reported with deferiprone in combination with deferoxamine.
+Combination therapy with deferoxamine is not recommended when monotherapy with either chelator is adequate or when serum ferritin falls below 500 µg/l.
+Limited data are available on the combined use of Ferriprox and deferasirox, and caution should be applied when considering the use of such combination.
+
 [Ferriprox 100 mg/ml oral solution]
 
 Excipients
 Ferriprox oral solution contains the colouring agent Sunset Yellow (E110) which may cause allergic reactions.
-
-[Ferriprox 1000 mg film-coated tablets]
-
-(all sentences already above)

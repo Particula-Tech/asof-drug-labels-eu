@@ -5,11 +5,11 @@ Deferiprone therapy should be initiated and maintained by a physician experience
 Posology
 Deferiprone is usually given as 25 mg/kg body weight, orally, three times a day for a total daily dose of 75 mg/kg body weight.
 Dose per kilogram body weight should be calculated to the nearest half tablet.
-See table below for recommended doses for body weights at 10 kg increments.
-
-Dose table
-To obtain a dose of about 75 mg/kg/day, use the number of tablets suggested in the following table for the body weight of the patient.
+See tables below for recommended doses for body weights at 10 kg increments.
+To obtain a dose of about 75 mg/kg/day, use the number of tablets suggested in the following tables for the body weight of the patient.
 Sample body weights at 10 kg increments are listed.
+
+Dose table for Ferriprox 500 mg film-coated tablets
 
 | Body weight (kg) | Total daily dose (mg) | Dose (mg, three times/day) | Number of tablets (three times/day) |
 | --- | --- | --- | --- |
@@ -22,37 +22,7 @@ Sample body weights at 10 kg increments are listed.
 | 80 | 6000 | 2000 | 4.0 |
 | 90 | 6750 | 2250 | 4.5 |
 
-A total daily dose above 100 mg/kg body weight is not recommended because of the potentially increased risk of adverse reactions (see sections 4.4, 4.8, and 4.9).
-
-The effect of Ferriprox in decreasing the body iron is directly influenced by the dose and the degree of iron overload.
-After starting Ferriprox therapy, it is recommended that serum ferritin concentrations, or other indicators of body iron load, be monitored every two to three months to assess the long-term effectiveness of the chelation regimen in controlling the body iron load.
-Dose adjustments should be tailored to the individual patient’s response and therapeutic goals (maintenance or reduction of body iron burden).
-Interruption of therapy with deferiprone should be considered if serum ferritin measurements fall below 500 µg/l.
-
-Paediatric population
-There are limited data available on the use of deferiprone in children between 6 and 10 years of age, and no data on deferiprone use in children under 6 years of age.
-
-Method of administration
-For oral use
-
-[Ferriprox 100 mg/ml oral solution]
-
-Dose per kilogram body weight should be calculated to the nearest 2.5 ml.
-
-To obtain a dose of about 75 mg/kg/day, use the volume of oral solution suggested in the following table for the body weight of the patient.
-
-| Body weight (kg) | Total daily dose (mg) | Dose (mg, three times/day) | ml of oral solution (three times/day) |
-| --- | --- | --- | --- |
-| 20 | 1500 | 500 | 5.0 |
-| 30 | 2250 | 750 | 7.5 |
-| 40 | 3000 | 1000 | 10.0 |
-| 50 | 3750 | 1250 | 12.5 |
-| 60 | 4500 | 1500 | 15.0 |
-| 70 | 5250 | 1750 | 17.5 |
-| 80 | 6000 | 2000 | 20.0 |
-| 90 | 6750 | 2250 | 22.5 |
-
-[Ferriprox 1000 mg film-coated tablets]
+Dose table for Ferriprox 1000 mg film-coated tablets
 
 | Body weight (kg) | Total daily dose (mg) | Number of 1000 mg tablets* |  |  |
 | --- | --- | --- | --- | --- |
@@ -67,3 +37,42 @@ To obtain a dose of about 75 mg/kg/day, use the volume of oral solution suggeste
 | 90 | 6750 | 2.5 | 2.0 | 2.5 |
 
 *number of tablets rounded to nearest half tablet
+
+A total daily dose above 100 mg/kg body weight is not recommended because of the potentially increased risk of adverse reactions (see sections 4.4, 4.8, and 4.9).
+
+Dose adjustment
+The effect of Ferriprox in decreasing the body iron is directly influenced by the dose and the degree of iron overload.
+After starting Ferriprox therapy, it is recommended that serum ferritin concentrations, or other indicators of body iron load, be monitored every two to three months to assess the long-term effectiveness of the chelation regimen in controlling the body iron load.
+Dose adjustments should be tailored to the individual patient’s response and therapeutic goals (maintenance or reduction of body iron burden).
+Interruption of therapy with deferiprone should be considered if serum ferritin falls below 500 µg/l.
+
+Dose adjustments when used with other iron chelators
+In patients for whom monotherapy is inadequate, Ferriprox may be used with deferoxamine at the standard dose (75 mg/kg/day) but should not exceed 100 mg/kg/day.
+
+In the case of iron-induced heart failure, Ferriprox at 75-100 mg/kg/day should be added to deferoxamine therapy.
+The product information of deferoxamine should be consulted.
+
+Concurrent use of iron chelators is not recommended in patients whose serum ferritin falls below 500 µg/l due to the risk of excessive iron removal.
+
+Paediatric population
+There are limited data available on the use of deferiprone in children between 6 and 10 years of age, and no data on deferiprone use in children under 6 years of age.
+Method of administration
+For oral use
+
+[Ferriprox 100 mg/ml oral solution]
+
+Dose per kilogram body weight should be calculated to the nearest 2.5 ml.
+See table below for recommended doses for body weights at 10 kg increments.
+Dose table
+To obtain a dose of about 75 mg/kg/day, use the volume of oral solution suggested in the following table for the body weight of the patient.
+
+| Body weight (kg) | Total daily dose (mg) | Dose (mg, three times/day) | ml of oral solution (three times/day) |
+| --- | --- | --- | --- |
+| 20 | 1500 | 500 | 5.0 |
+| 30 | 2250 | 750 | 7.5 |
+| 40 | 3000 | 1000 | 10.0 |
+| 50 | 3750 | 1250 | 12.5 |
+| 60 | 4500 | 1500 | 15.0 |
+| 70 | 5250 | 1750 | 17.5 |
+| 80 | 6000 | 2000 | 20.0 |
+| 90 | 6750 | 2250 | 22.5 |
