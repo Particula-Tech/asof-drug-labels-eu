@@ -1,18 +1,14 @@
 # 4.8 Undesirable effects
 
-a. Summary of the safety profile
+Summary of the safety profile
 
 Assessment of adverse reactions is based on experience in four Phase 3 clinical studies involving
-CF patients with chronic P. aeruginosa infection (n = 539) and post-marketing spontaneous reporting.
-In two Phase 3 placebo-controlled studies patients received Cayston 75 mg 2 times (69 patients) or 3 times a day (146 patients) for 28 days.
-In one Phase 3 open-label follow-on study 274 patients received up to nine 28-day treatment courses of Cayston 75 mg 2 times or 3 times a day.
-In one Phase 3 active-controlled study, 136 patients received up to three 28-day courses of Cayston 75 mg 3 times a day during the randomised phase; an additional 65 patients received up to three 28-day courses in an open-label extension phase.
-
-In the two Phase 3 placebo-controlled clinical studies, the most frequently occurring adverse reactions to Cayston were cough (58%), nasal congestion (18%), wheezing (15%), pharyngolaryngeal pain (13.0%), pyrexia (12%) and dyspnoea (10%).
+CF patients with chronic P. aeruginosa infection and post-marketing spontaneous reporting.
+In the two Phase 3 placebo-controlled clinical studies where patients received Cayston for 28 days, the most frequently occurring adverse reactions to Cayston were cough (58%), nasal congestion (18%), wheezing (15%), pharyngolaryngeal pain (13.0%), pyrexia (12%) and dyspnoea (10%).
 
 An acute reduction of ≥ 15% in FEV1 is a complication associated with nebulised therapies, including Cayston (see section 4.4).
 
-b. Tabulated summary of adverse reactions
+Tabulated summary of adverse reactions
 
 The adverse reactions considered at least possibly related to treatment from clinical study and post-marketing experience are listed below by body system organ class and frequency.
 
@@ -33,7 +29,7 @@ Common: lung function test decreased1
 
 1 See section c. Description of selected adverse reactions
 
-c. Description of selected adverse reactions
+Description of selected adverse reactions
 
 Bronchospasm
 
@@ -46,7 +42,7 @@ Inhalation of nebulised solutions may induce a cough reflex which could aggravat
 
 Allergic reactions
 
-Rash has been reported with the use of Cayston and may be indicative of an allergic reaction to Cayston (see section 4.4).
+Rash has been reported with the use of Cayston and may be indicative of an allergic reaction to aztreonam (see section 4.4).
 
 Lung function test decreased
 
@@ -54,7 +50,7 @@ Lung function test decreased has been reported with use of Cayston, but was not 
 
 The following rare and severe adverse reactions have been reported after parenteral use of other aztreonam containing products: toxic epidermal necrolysis, anaphylaxis, purpura, erythema multiforme, exfoliative dermatitis, urticaria, petechiae, pruritus, diaphoresis.
 
-d. Paediatric population
+Paediatric population
 
 A total of 137 paediatric patients aged 6 to 17 years with chronic P. aeruginosa infection and FEV1
 ≤ 75% predicted have received Cayston in Phase 2 and Phase 3 clinical studies (6-12 years, n = 35; 13-17 years, n = 102).

@@ -1,6 +1,6 @@
 # 5.3 Preclinical safety data
 
-A 104-week rat inhalation toxicology study to assess the carcinogenic potential of ascending doses of Cayston demonstrated no drug-related increase in malignant tumours.
+A 104-week rat inhalation toxicology study to assess the carcinogenic potential of ascending doses of aztreonamdemonstrated no drug-related increase in malignant tumours.
 
 Genotoxicity (Chromosomal aberration and mouse lymphoma mutation assay) studies with aztreonam were negative.
 

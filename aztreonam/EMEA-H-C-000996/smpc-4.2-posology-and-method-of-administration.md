@@ -11,7 +11,7 @@ For patients taking multiple inhaled therapies, the recommended order of adminis
 2. mucolytics
 3. and lastly, Cayston.
 
-Adults
+Adults and children 6 years and older
 
 The recommended dose for adults is 75 mg three times per 24 hours for 28 days.
 
@@ -19,16 +19,9 @@ Doses should be taken at least 4 hours apart.
 
 Cayston may be taken in repeated cycles of 28 days on therapy followed by 28 days off Cayston therapy.
 
-Paediatric population
-
-Cayston is indicated in children aged 6 years and older.
-In clinical studies with Cayston patients younger than 6 years of age were excluded.
-The safety and efficacy of Cayston in children younger than 6 years of age has not been established.
 The dosing in children aged 6 years and older is the same as for adults.
-Dosage is not based on weight or adjusted for age.
-For currently available data see section 5.1.
+Elderly
 
-Older people
 Clinical studies of Cayston did not include Cayston-treated patients aged 65 years and older to determine whether they respond differently from younger patients.
 If Cayston is to be prescribed to the elderly then the posology is the same as for adults.
 
@@ -42,9 +35,14 @@ Hepatic impairment
 There are no data on the use of Cayston in patients with severe hepatic impairment (ALT or AST greater than 5 times the upper limit of normal).
 No dose adjustment is necessary in cases of hepatic impairment.
 
+Paediatric population
+
+The safety and efficacy of Cayston in children younger than 6 years of age have not been established.
+Currently available data are described in section 5.1 but no recommendation on posology can be given.
+
 Method of administration
 
-Cayston is only for inhalation use.
+For inhalation use.
 
 Cayston should only be used with the Altera Nebuliser Handset and Altera Aerosol Head connected to an eBase Controller or an eFlow rapid Control Unit.
 For instructions on reconstitution of the medicinal product before administration, see section 6.6.

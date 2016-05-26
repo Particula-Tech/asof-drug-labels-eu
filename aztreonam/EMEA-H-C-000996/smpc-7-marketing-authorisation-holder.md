@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Gilead Sciences International Limited
+Gilead Sciences International Ltd
 Granta Park
 Abington
 Cambridge

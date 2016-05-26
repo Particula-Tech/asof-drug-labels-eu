@@ -5,15 +5,15 @@ Absorption
 Sputum concentrations
 
 Individual patients’ sputum aztreonam concentrations exhibited considerable variability.
-For the combined Phase 3 placebo-controlled studies, ten minutes following a single dose of 75 mg Cayston on Days 0, 14, and 28, the mean sputum concentrations in 195 patients with CF were 726 µg/g,
-711 µg/g, and 715 µg/g, respectively, indicating no increased accumulation of aztreonam following repeated dosing.
+For the combined Phase 3 placebo-controlled studies, ten minutes following a single dose of 75 mg inhaled aztreonamon Days 0, 14, and 28, the mean sputum concentrations in 195 patients with CF were 726 µg/g, 711 µg/g, and 715 µg/g, respectively, indicating no increased accumulation of aztreonam following repeated dosing.
 
 Plasma concentrations
 
 Individual patients’ plasma aztreonam concentrations exhibited considerable variability.
 
-One hour following a single dose of 75 mg Cayston (at approximately peak plasma concentration), the mean plasma level in patients with CF was 0.59 µg/ml.
-Mean peak plasma levels at Days 0, 14, and 28 of a course with 75 mg Cayston 3 times a day were 0.55 µg/ml, 0.67 µg/ml, and 0.65 µg/ml, respectively, indicating no systemic accumulation of aztreonam following 3 times a day dosing.
+One hour following a single dose of 75 mg inhaled aztreonam (at approximately peak plasma concentration), the mean plasma level in patients with CF was 0.59 µg/ml.
+Mean peak plasma levels at Days 0, 14, and 28 of a course with 75 mg inhaled aztreonam 3 times a day were 0.55 µg/ml,
+0.67 µg/ml, and 0.65 µg/ml, respectively, indicating no systemic accumulation of aztreonam following 3 times a day dosing.
 In contrast, the serum concentration of aztreonam following administration of aztreonam for injection (500 mg) is approximately 54 µg/ml.
 
 Plasma aztreonam concentrations in paediatric patients aged 3 months to < 6 years are comparable to those observed for children > 6 years, adolescents and adults.
@@ -30,14 +30,14 @@ Recovery data indicate that about 10% of the dose is excreted as this metabolite
 Elimination
 
 The elimination half-life of aztreonam from serum is approximately 2.1 hours for inhalation administration, similar to what has been reported for aztreonam for injection.
-Approximately 10% of the total Cayston dose is excreted in the urine as unchanged drug, as compared to 60-65% following intravenous administration of aztreonam for injection.
+Approximately 10% of the total inhaled aztreonamdose is excreted in the urine as unchanged drug, as compared to 60-65% following intravenous administration of aztreonam for injection.
 Systemically absorbed aztreonam is eliminated about equally by active tubular secretion and glomerular filtration.
 
 Pharmacokinetics in special populations
 
 Age and gender
 
-There was no clinically relevant effect of age or sex on the pharmacokinetics of Cayston.
+There was no clinically relevant effect of age or sex on the pharmacokinetics of aztreonam.
 
 Renal and hepatic impairment
 
@@ -53,7 +53,7 @@ In healthy subjects 60-70% of a single i.m. or i.v. dose was recovered in the ur
 Paediatric population
 
 The Phase 2 and 3 placebo-controlled, registrational studies permitted comparison of plasma concentrations 1 hour post dose of Cayston by age (6 to 12 years, 13 to 17 years, and ≥ 18 years).
-Data from these studies revealed minimal differences in mean plasma aztreonam concentrations between age groups in patients receiving Cayston 75 mg 3 times a day.
+Data from these studies revealed minimal differences in mean plasma aztreonam concentrations between age groups in patients receiving Cayston 3 times a day.
 
-Pooled sputum concentration data from the Phase 2 and 3 registrational studies revealed some evidence of lower mean sputum concentrations in patients aged 13 to 17 years following one dose of Cayston 75 mg 3 times a day.
+Pooled sputum concentration data from the Phase 2 and 3 registrational studies revealed some evidence of lower mean sputum concentrations in patients aged 13 to 17 years following one dose of Cayston 3 times a day.
 However, all mean sputum concentration values were associated with relatively large standard deviations.

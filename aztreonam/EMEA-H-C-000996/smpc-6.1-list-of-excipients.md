@@ -1,8 +1,10 @@
 # 6.1 List of excipients
 
-Powder vial
+Powder
+
 L-Lysine
 
-Solvent ampoule
+Solvent
+
 Sodium chloride
 Water for injections

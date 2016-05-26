@@ -4,6 +4,7 @@ Reconstitution
 
 Cayston should only be reconstituted with the solvent provided.
 Following reconstitution, Cayston is a clear, colourless to slightly coloured solution.
+
 It is recommended that Cayston be administered immediately after reconstitution with solvent.
 Cayston should not be reconstituted until a dose is ready to be administered.
 One glass vial containing Cayston is opened by tearing and flipping up the blue cap or lifting up the metal flap, the metal ring is removed by carefully pulling the flap (tweezers or small pliers may be used to remove the metal ring if necessary) and the grey rubber stopper removed.

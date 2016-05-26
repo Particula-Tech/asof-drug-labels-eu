@@ -2,4 +2,4 @@
 
 Powder and solvent for nebuliser solution.
 
-White to off-white, lyophilised powder.
+White to off-white powder.

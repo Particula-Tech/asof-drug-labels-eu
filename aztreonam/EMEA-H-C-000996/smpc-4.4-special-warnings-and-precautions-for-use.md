@@ -2,8 +2,8 @@
 
 Allergic reactions
 
-If an allergic reaction to Cayston does occur, stop administration of the medicinal product and initiate treatment as appropriate.
-The occurrence of rash may be indicative of an allergic reaction to Cayston.
+If an allergic reaction to aztreonam does occur, stop administration of the medicinal product and initiate treatment as appropriate.
+The occurrence of rash may be indicative of an allergic reaction to aztreonam.
 
 Cross-reactivity may occur in patients with a history of allergy to beta-lactam antibiotics, such as penicillins, cephalosporins, and/or carbapenems.
 Animal and human data demonstrate low risk of cross-reactivity between aztreonam and beta-lactam antibiotics.
@@ -11,7 +11,6 @@ Aztreonam, a monobactam, is only weakly immunogenic.
 Caution is advised when administering Cayston to patients if they have a history of beta-lactam allergy.
 
 The following rare and severe adverse reactions have been reported after parenteral use of other aztreonam containing products: toxic epidermal necrolysis, anaphylaxis, purpura, erythema multiforme, exfoliative dermatitis, urticaria, petechiae, pruritus, diaphoresis.
-
 Bronchospasm
 
 Bronchospasm (an acute reduction of ≥ 15% in FEV1) is a complication associated with nebulised therapies.
