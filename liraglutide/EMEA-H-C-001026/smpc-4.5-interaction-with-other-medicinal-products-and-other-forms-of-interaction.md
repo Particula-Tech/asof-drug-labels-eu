@@ -31,6 +31,7 @@ Griseofulvin Cmax increased by 37% while median tmax did not change.
 Dose adjustments of griseofulvin and other compounds with low solubility and high permeability are not required.
 
 Digoxin
+
 A single dose administration of digoxin 1 mg with liraglutide resulted in a reduction of digoxin AUC by 16%; Cmax decreased by 31%.
 Digoxin median tmax was delayed from 1 h to 1.5 h. No adjustment of digoxin dose is required based on these results.
 

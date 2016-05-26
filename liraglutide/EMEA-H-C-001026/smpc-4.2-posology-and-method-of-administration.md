@@ -22,13 +22,14 @@ Elderly patients (>65 years old)
 No dose adjustment is required based on age.
 Therapeutic experience in patients ≥75 years of age is limited (see section 5.2).
 
-Patients with renal impairment
+Renal impairment
 No dose adjustment is required for patients with mild or moderate renal impairment (creatinine clearance 60–90 ml/min and 30–59 ml/min, respectively).
 There is no therapeutic experience in patients with severe renal impairment (creatinine clearance below 30 ml/min).
-Victoza can currently not be recommended for use in patients with severe renal impairment including patients with end-stage renal disease (see section 5.2).
+Victoza can currently not be recommended for use in patients with severe renal impairment including patients with end­stage renal disease (see section 5.2).
 
-Patients with hepatic impairment
-The therapeutic experience in patients with all degrees of hepatic impairment is currently too limited to recommend the use in patients with mild, moderate or severe hepatic impairment (see section 5.2).
+Hepatic impairment
+No dose adjustment is recommended for patients with mild or moderate hepatic impairment.
+Victoza is not recommended for use in patients with severe hepatic impairment (see section 5.2).
 
 Paediatric population
 The safety and efficacy of Victoza in children and adolescents below age 18 have not been established (see section 5.1).

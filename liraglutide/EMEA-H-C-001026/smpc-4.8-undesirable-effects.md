@@ -1,6 +1,7 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
+
 In five large long-term clinical trials over 2,500 patients have received treatment with Victoza alone or in combination with metformin, a sulfonylurea (with or without metformin) or metformin plus rosiglitazone.
 
 The most frequently reported adverse reactions during clinical trials were gastrointestinal disorders: nausea and diarrhoea were very common, whereas vomiting, constipation, abdominal pain, and dyspepsia were common.
@@ -27,9 +28,14 @@ Table 1 Adverse reactions from long-term controlled phase 3 trials and spontaneo
 | Nervous system disorders |  | Headache Dizziness |  |  |  |
 | Cardiac disorders |  | Increased heart rate |  |  |  |
 | Gastrointestinal disorders | Nausea Diarrhoea | Vomiting Dyspepsia Abdominal pain upper Constipation Gastritis Flatulence Abdominal distension Gastroesophageal reflux disease Abdominal discomfort Toothache |  | Intestinal obstruction | Pancreatitis (including necrotising pancreatitis) |
-| Skin and subcutaneous tissue disorder |  | Rash | Urticaria Pruritus |  |  |
-| Renal and urinary disorders |  |  | Renal impairment Renal failure acute |  |  |
 
+Skin and Rash Urticaria
+subcutaneous Pruritus
+tissue disorder
+Renal and Renal
+urinary impairment
+disorders Renal
+failure acute
 General Fatigue Malaise
 disorders and Injection site
 administration reactions
@@ -50,14 +56,14 @@ The risk of hypoglycaemia is low with combined use of basal insulin and liraglut
 Gastrointestinal adverse reactions
 When combining liraglutide with metformin, 20.7% of patients reported at least one episode of nausea, and 12.6% of patients reported at least one episode of diarrhoea.
 When combining liraglutide with a sulfonylurea, 9.1% of patients reported at least one episode of nausea and 7.9% of patients reported at least one episode of diarrhoea.
-Most episodes were mild to moderate and occurred in a dose-dependent fashion.
+Most episodes were mild to moderate and occurred in a dose­dependent fashion.
 With continued therapy, the frequency and severity decreased in most patients who initially experienced nausea.
 
 Patients >70 years may experience more gastrointestinal effects when treated with liraglutide.
-Patients with mild and moderate renal impairment (creatinine clearance 60-90 ml/min and 30–59 ml/min, respectively) may experience more gastrointestinal effects when treated with liraglutide.
+Patients with mild and moderate renal impairment (creatinine clearance 60­90 ml/min and 30–59 ml/min, respectively) may experience more gastrointestinal effects when treated with liraglutide.
 
 Withdrawal
-The incidence of withdrawal due to adverse reactions was 7.8% for liraglutide-treated patients and 3.4% for comparator-treated patients in the long-term controlled trials (26 weeks or longer).
+The incidence of withdrawal due to adverse reactions was 7.8% for liraglutide-treated patients and 3.4% for comparator­treated patients in the long-term controlled trials (26 weeks or longer).
 The most frequent adverse reactions leading to withdrawal for liraglutide-treated patients were nausea (2.8% of patients) and vomiting (1.5%).
 
 Injection site reactions

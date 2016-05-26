@@ -4,7 +4,7 @@ Liraglutide should not be used in patients with type 1 diabetes mellitus or for 
 
 Liraglutide is not a substitute for insulin.
 
-There is limited experience in patients with congestive heart failure New York Heart Association (NYHA) class I-II and liraglutide should therefore be used with caution.
+There is limited experience in patients with congestive heart failure New York Heart Association (NYHA) class I­II and liraglutide should therefore be used with caution.
 There is no experience in patients with congestive heart failure NYHA class III-IV and liraglutide is therefore not recommended in these patients.
 
 There is limited experience in patients with inflammatory bowel disease and diabetic gastroparesis.
@@ -19,7 +19,8 @@ If pancreatitis is suspected, Victoza should be discontinued; if acute pancreati
 Caution should be exercised in patients with a history of pancreatitis.
 
 Thyroid disease
-Thyroid adverse events, including increased blood calcitonin, goitre and thyroid neoplasm have been reported in clinical trials in particular in patients with pre-existing thyroid disease and liraglutide should therefore be used with caution.
+
+Thyroid adverse events, including increased blood calcitonin, goitre and thyroid neoplasm have been reported in clinical trials in particular in patients with pre­existing thyroid disease and liraglutide should therefore be used with caution.
 
 Hypoglycaemia
 
