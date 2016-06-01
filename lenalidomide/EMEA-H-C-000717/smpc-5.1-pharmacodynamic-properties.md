@@ -10,7 +10,7 @@ Specifically, lenalidomide inhibits proliferation of certain haematopoietic tumo
 In MDS Del (5q), lenalidomide was shown to selectively inhibit the abnormal clone by increasing the apoptosis of Del (5q) cells.
 
 Lenalidomide binds directly to cereblon, a component of a cullin ring E3 ubiquitin ligase enzyme complex that includes deoxyribonucleic acid (DNA) damage-binding protein 1(DDB1), cullin 4 (CUL4), and regulator of cullins 1 (Roc1).
-In the presence of lenalidomide, cereblon binds substrate proteins Aiolos and Ikaros which are lymphoid transcriptional factors, leading to their ubiquitination and subsequent degradation resulting in cytoxic and immunomodulatory effects.
+In the presence of lenalidomide, cereblon binds substrate proteins Aiolos and Ikaros which are lymphoid transcriptional factors, leading to their ubiquitination and subsequent degradation resulting in cytotoxic and immunomodulatory effects.
 
 Clinical efficacy and safety
 
@@ -20,7 +20,7 @@ Newly diagnosed multiple myeloma
 
 Lenalidomide in combination with dexamethasone in patients who are not candidates for stem cell transplantation
 
-The safety and efficacy of lenalidomide was assessed in a Phase III, multicenter, randomized, open-label, 3-arm study (MM-020) of patients who were at least 65 years of age or older or, if younger than 65 years of age, were not candidates for stem cell transplantation because they declined to undergo stem cell transplantation or stem cell transplantation is not available to the patient due to cost or other reason.The study (MM-020) compared lenalidomide and dexamethasone (Rd) given for 2 different durations of time (i.e., until progressive disease [Arm Rd] or for up to eighteen 28-day cycles [72 weeks, Arm Rd18]) to that of melphalan, prednisone and thalidomide (MPT) for a maximum of twelve 42-day cycles (72 weeks).
+The safety and efficacy of lenalidomide was assessed in a Phase III, multicenter, randomized, open-label, 3-arm study (MM-020) of patients who were at least 65 years of age or older or, if younger than 65 years of age, were not candidates for stem cell transplantation because they declined to undergo stem cell transplantation or stem cell transplantation is not available to the patient due to cost or other reason.The study (MM-020) compared lenalidomide and dexamethasone (Rd) given for 2 different durations of time (i.e., until progressive disease [Arm Rd] or for up to eighteen 28-day cycles [72 weeks, Arm Rd18]) to melphalan, prednisone and thalidomide (MPT) for a maximum of twelve 42-day cycles (72 weeks).
 Patients were randomized (1:1:1) to 1 of 3 treatment arms.
 Patients were stratified at randomization by age (≤75 versus >75 years), stage (ISS Stages I and II versus Stage III), and country.
 
@@ -36,20 +36,20 @@ In general, study subjects had advanced-stage disease: of the total study popula
 < 30 mL/min).
 The median age was 73 in the 3 arms.
 
-In an updated analysis of PFS, PFS2, OS and DR where the median follow up time for all surviving subjects was 45.5 months, the results of the study are presented in Table 4:
+In an updated analysis of PFS, PFS2 and OS using a cut off of 3 March 2014 where the median follow up time for all surviving subjects was 45.5 months, the results of the study are presented in Table 4:
 
 Table 4: Summary of overall efficacy data
 
-|  | Rd (N = 541) | Rd18 (N = 540) | MPT (N = 542) |
+|  | Rd (N = 535) | Rd18 (N = 541) | MPT (N = 547) |
 | --- | --- | --- | --- |
 | Investigator-assessed PFS − (months) |  |  |  |
 | Mediana PFS time, months (95% CI)b | 26.0 (20.7, 29.7) | 21.0 (19.7, 22.4) | 21.9 (19.8, 23.9) |
 | HR [95% CI]c; p-valued |  |  |  |
 | Rd vs MPT | 0.69 (0.59, 0.80); <0.001 |  |  |
 | Rd vs Rd18 | 0.71 (0.61, 0.83); <0.001 |  |  |
-| Rd18 vs MPT | 0.99 (0.86, 1.14); <0.001 |  |  |
+| Rd18 vs MPT | 0.99 (0.86, 1.14); 0.866 |  |  |
 | PFS2e − (months) |  |  |  |
-| Mediana PFS time, months (95% CI)b | 42.9 (38.1, 47.4) | 40.0 (36.2, 44.2) | 35.0 (30.4, 37.8) |
+| Mediana PFS2 time, months (95% CI)b | 42.9 (38.1, 47.4) | 40.0 (36.2, 44.2) | 35.0 (30.4, 37.8) |
 | HR [95% CI]c; p-valued |  |  |  |
 | Rd vs MPT | 0.74 (0.63, 0.86); <0.001 |  |  |
 | Rd vs Rd18 | 0.92 (0.78, 1.08); 0.316 |  |  |
@@ -80,9 +80,9 @@ c Based on Cox proportional hazards model comparing the hazard functions associa
 d The p-value is based on the unstratified log-rank test of Kaplan-Meier curve differences between the indicated treatment arms.
 e Exploratory endpoint (PFS2) f The median is the univariate statistic without adjusting for censoring.
 g Best assessment of adjudicated response during the treatment phase of the study (for definitions of each response category, Data cutoff date = 24 May 2013).
-h data cut 24 May 2014
+h data cut 24 May 2013
 
-Lenalidomide in combination with melphalan and prednisone followed by maintenance monotherapy in patients not eligible for transplant
+Lenalidomide in combination with melphalan and prednisone followed by maintenance monotherapy in patients who are not eligible for transplant
 
 The safety and efficacy of lenalidomide was assessed in a Phase III multicenter, randomized double blind 3 arm study (MM-015) of patients who were 65 years or older and had a serum creatinine < 2.5 mg/dL.
 The study compared lenalidomide in combination with melphalan and prednisone (MPR) with or without lenalidomide maintenance monotherapy until disease progression, to that of melphalan and prednisone for a maximum of 9 cycles.
@@ -110,7 +110,7 @@ Table 5: Summary of overall efficacy data
 | MPR+R vs MPR+p | 0.47 (0.35, 0.65); <0.001 |  |  |
 | MPR+p vs MPp +p | 0.78 (0.60, 1.01); 0.059 |  |  |
 | PFS2 − (months) ¤ |  |  |  |
-| Mediana PFS time, months (95% CI) | 39.7 (29.2, 48.4) | 27.8 (23.1, 33.1) | 28.8 (24.3, 33.8) |
+| Mediana PFS2 time, months (95% CI) | 39.7 (29.2, 48.4) | 27.8 (23.1, 33.1) | 28.8 (24.3, 33.8) |
 | HR [95% CI]; p-value |  |  |  |
 | MPR+R vs MPp+p | 0.70 (0.54, 0.92); 0.009 |  |  |
 | MPR+R vs MPR+p | 0.77 (0.59, 1.02); 0.065 |  |  |
@@ -246,18 +246,9 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 [Revlimid 5 mg hard capsules]
 
-Patients were stratified at randomization by age
-(≤75 versus >75 years), stage (ISS Stages I and II versus Stage III), and country.
-
 In general, study subjects had advanced-stage disease: of the total study population, 41% had ISS stage III, 9% had severe renal insufficiency (creatinine clearance [CLcr] < 30 mL/min).
 
-Lenalidomide in combination with melphalan and prednisone followed by maintenance monotherapy in patients who are not eligible for transplantation
-
 [Revlimid 7.5 mg hard capsules]
-
-e The median is the univariate statistic without adjusting for censoring.
-f Best assessment of response during the treatment phase of the study (for definitions of each response category,
-Data cutoff date = 24 May 2013.
 
 However with a longer follow-up, the difference in overall survival in favour of lenalidomide / low dose dexamethasone tends to decrease.
 
@@ -284,4 +275,4 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 [Revlimid 25 mg hard capsules]
 
-Lenalidomide in combination with dexamethasone in patients who are are not candidates for stem cell transplantation
+(all sentences already above)

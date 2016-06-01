@@ -5,8 +5,8 @@ Lenalidomide is structurally related to thalidomide.
 Thalidomide is a known human teratogenic active substance that causes severe life-threatening birth defects.
 Lenalidomide induced in monkeys malformations similar to those described with thalidomide (see sections 4.6 and 5.3).
 If lenalidomide is taken during pregnancy, a teratogenic effect of lenalidomide in humans is expected.
-
 The conditions of the Pregnancy Prevention Programme must be fulfilled for all patients unless there is reliable evidence that the patient does not have childbearing potential.
+
 Criteria for women of non-childbearing potential
 A female patient or a female partner of a male patient is considered to have childbearing potential unless she meets at least one of the following criteria:
 
@@ -25,7 +25,7 @@ For women of childbearing potential, lenalidomide is contraindicated unless all 
 - Even if a woman of childbearing potential has amenorrhea she must follow all the advice on effective contraception
 - She should be capable of complying with effective contraceptive measures
 - She is informed and understands the potential consequences of pregnancy and the need to rapidly consult if there is a risk of pregnancy
-- She understands the need to commence contraceptive measures as soon as lenalidomide is dispensed following a negative pregnancy test
+- She understands the need to commence the treatment as soon as lenalidomide is dispensed following a negative pregnancy test
 - She understands the need and accepts to undergo pregnancy testing every 4 weeks except in case of confirmed tubal sterilisation
 - She acknowledges that she understands the hazards and necessary precautions associated with the use of lenalidomide.
 
@@ -144,7 +144,7 @@ Patients and physicians are advised to be observant for signs and symptoms of bl
 
 - Newly diagnosed multiple myeloma in patients treated with lenalidomide in combination with melphalan and prednisone
 
-The combination of lenalidomide with melphalan and prednisone in clinical trials of newly diagnosed multiple myeloma patients is associated with a higher incidence of grade 4 neutropenia (34.1% in melphalan, prednisone and lenalidomide arm followed by lenalidomide (MPR+R) and melphalan, prednisone and lenaldiomide followed by placebo (MPR+p) treated patients compared with 7.8% in MPp+p-treated patients; see section 4.8).
+The combination of lenalidomide with melphalan and prednisone in clinical trials of newly diagnosed multiple myeloma patients is associated with a higher incidence of grade 4 neutropenia (34.1% in melphalan, prednisone and lenalidomide arm followed by lenalidomide (MPR+R) and melphalan, prednisone and lenalidomide followed by placebo (MPR+p) treated patients compared with 7.8% in MPp+p-treated patients; see section 4.8).
 Grade 4 febrile neutropenia episodes were observed infrequently (1.7% in MPR+R/MPR+p treated patients compared to 0.0 % in MPp+p treated patients; see section 4.8).
 
 The combination of lenalidomide with melphalan and prednisone in multiple myeloma patients is associated with a higher incidence of grade 3 and grade 4 thrombocytopenia (40.4% in MPR+R/MPR+p treated patients, compared with 13.7% in MPp+p-treated patients; see section 4.8).
@@ -164,6 +164,7 @@ Patients and physicians are advised to be observant for signs and symptoms of bl
 - Myelodysplastic syndromes
 
 Lenalidomide treatment in myelodysplastic syndromes patients is associated with a higher incidence of grade 3 and 4 neutropenia and thrombocytopenia compared to patients on placebo (see section 4.8).
+
 Infection with or without neutropenia
 Patients with multiple myeloma are prone to develop infections including pneumonia.
 A higher rate of infections was observed with lenalidomide in combination with dexamethasone than with MPT.
@@ -210,7 +211,6 @@ Second primary malignancies
 An increase of second primary malignancies (SPM) has been observed in clinical trials in previously treated myeloma patients receiving lenalidomide/dexamethasone (3.98 per 100 person-years) compared to controls (1.38 per 100 person-years).
 Non-invasive SPM comprise basal cell or squamous cell skin cancers.
 Most of the invasive SPMs were solid tumour malignancies.
-
 In clinical trials of newly diagnosed multiple myeloma patients not eligible for transplant, a 4.9-fold increase in incidence rate of hematologic SPM (cases of AML, MDS) has been observed in patients receiving lenalidomide in combination with melphalan and prednisone until progression (1.75 per 100 person-years) compared with melphalan in combination with prednisone (0.36 per 100 person-years).
 
 A 2.12-fold increase in incidence rate of solid tumor SPM has been observed in patients receiving lenalidomide (9 cycles) in combination with melphalan and prednisone (1.57 per 100 person-years) compared with melphalan in combination with prednisone (0.74 per 100 person-years).
@@ -243,12 +243,12 @@ In a post-hoc analysis of a clinical trial of Revlimid in low- or intermediate-1
 Hepatic disorders
 Hepatic failure, including fatal cases, has been reported in patients treated with lenalidomide in combination therapy: acute hepatic failure, toxic hepatitis, cytolytic hepatitis, cholestatic hepatitis, and mixed cytolytic/cholestatic hepatitis have been reported.
 The mechanisms of severe drug-induced hepatotoxicity remain unknown although, in some cases, pre-existing viral liver disease, elevated baseline liver enzymes, and possibly treatment with antibiotics might be risk factors.
-
 Abnormal liver function tests were commonly reported and were generally asymptomatic and reversible upon dosing interruption.
 Once parameters have returned to baseline, treatment at a lower dose may be considered.
+
 Lenalidomide is excreted by the kidneys.
 It is important to dose adjust patients with renal impairment in order to avoid plasma levels which may increase the risk for higher haematological adverse reactions or hepatotoxicity.
-Monitoring of liver function is recommended, particularly when there is a history of or concurrent viral liver infection or when lenalidomide is combined with medicinal productss known to be associated with liver dysfunction.
+Monitoring of liver function is recommended, particularly when there is a history of or concurrent viral liver infection or when lenalidomide is combined with medicinal products known to be associated with liver dysfunction.
 
 Newly diagnosed multiple myeloma patients
 There was a higher rate of intolerance (grade 3 or 4 adverse events, serious adverse events, discontinuation) in patients with age > 75 years, ISS stage III, ECOG PS≤2 or CLcr<60 mL/min when lenalidomide is given in combination.
@@ -260,25 +260,17 @@ Regular monitoring of visual ability is recommended.
 
 [Revlimid 5 mg hard capsules]
 
-Grade 4 neutropenia was observed in the lenalidomide arms in combination with low dose dexamethasone to a lesser extent than in the comparator arm (8.5% in the Rd [continuous treatment] and Rd18 (treatment for 18 four-week cycles) compared with 15% in the melphalan/prednisone/thalidomide arm, see section 4.8).
-
-The combination of lenalidomide with melphalan and prednisone in in clinical trials of newly diagnosed multiple myeloma patients is associated with a higher incidence of grade 4 neutropenia (34.1% in melphalan, prednisone and lenalidomide arm followed by lenalidomide (MPR+R) and melphalan, prednisone and lenaldiomide followed by placebo (MPR+p) treated patients compared with 7.8% in MPp+p-treated patients; see section 4.8).
-
-Monitoring of liver function is recommended, particularly when there is a history of or concurrent viral liver infection or when lenalidomide is combined with medicinal products s known to be associated with liver dysfunction.
+(all sentences already above)
 
 [Revlimid 7.5 mg hard capsules]
 
 Because of the increased risk of venous thromboembolism in patients with multiple myeloma taking lenalidomide in combination therapy, combined oral contraceptive pills are not recommended (see also section 4.5).
 
-Grade 3 or 4 thrombocytopenia was observed to a lesser extent in the Rd and Rd18 arms than in the comparator arm (8.1% vs 11.1%, respectively; Patients and physicians are advised to be observant for signs and symptoms of bleeding, including petechiae and epistaxes, especially in case of concomitant medicinal products susceptible to induce bleeding (see section 4.8 Haemorrhagic disorders).
-
-The combination of lenalidomide with melphalan and prednisone in clinical trials of newly diagnosed multiple myeloma patients is associated with a higher incidence of grade 4 neutropenia (34.1% in melphalan, prednisone and lenalidomide arm followed by lenalidomide (MPR+R) and melphalan, prednisone and lenalidomide followed by placebo (MPR+p) treated patients compared with 7.8% in MPp+p-treated patients; see section 4.8).
-
-Monitoring of liver function is recommended, particularly when there is a history of or concurrent viral liver infection or when lenalidomide is combined with medicinal products known to be associated with liver dysfunction.
+Patients and physicians are advised to be observant for signs and symptoms of bleeding, including petechiae and epistaxes, especially in patients receiving concomitant medicinal products susceptible to induce bleeding (see section 4.8 Haemorrhagic disorders).
 
 [Revlimid 10 mg hard capsules]
 
-The combination of lenalidomide with melphalan and prednisone in clinical trials of multiple myeloma patients is associated with a higher incidence of grade 3 and grade 4 thrombocytopenia (40.4% in MPR+R/MPR+p treated patients, compared with 13.7% in MPp+p-treated patients; see section 4.8).
+(all sentences already above)
 
 [Revlimid 15 mg hard capsules]
 
@@ -286,7 +278,7 @@ Patients and physicians are advised to be observant for signs and symptoms of bl
 
 [Revlimid 20 mg hard capsules]
 
-Patients and physicians are advised to be observant for signs and symptoms of bleeding, including petechiae and epistaxes, especially in patients receiving concomitant medications that increase susceptibility to bleeding (see section 4.8 Haemorrhagic disorders).
+(all sentences already above)
 
 [Revlimid 25 mg hard capsules]
 

@@ -28,7 +28,7 @@ Therefore, lenalidomide is unlikely to cause any clinically relevant medicinal p
 
 In vitro studies indicate that lenalidomide is not a substrate of human breast cancer resistance protein (BCRP), multidrug resistance protein (MRP) transporters MRP1, MRP2, or MRP3, organic anion transporters (OAT) OAT1 and OAT3, organic anion transporting polypeptide 1B1 (OATP1B1), organic cation transporters (OCT) OCT1 and OCT2, multidrug and toxin extrusion protein (MATE) MATE1, and organic cation transporters novel (OCTN) OCTN1 and OCTN2.
 
-It is unknown whether lenalidomide is a human bile salt export pump (BSEP), BCRP, MRP2, OAT1, OAT3, OATP1B1, OATP1B3, or OCT2 inhibitor in vivo, though it has no inhibitory effect at in vitro concentrations up to 20 µM.
+In vitro studies indicate that lenalidomide has no inhibitory effect on human bile salt export pump (BSEP), BCRP, MRP2, OAT1, OAT3, OATP1B1, OATP1B3, and OCT2.
 
 A majority of lenalidomide is eliminated through urinary excretion.
 The contribution of renal excretion to total clearance in subjects with normal renal function was 90%, with 4% of lenalidomide eliminated in faeces.
@@ -36,7 +36,6 @@ The contribution of renal excretion to total clearance in subjects with normal r
 Lenalidomide is poorly metabolized as 82% of the dose is excreted unchanged in urine.
 Hydroxy-lenalidomide and N-acetyl-lenalidomide represent 4.59% and 1.83% of the excreted dose, respectively.
 The renal clearance of lenalidomide exceeds the glomerular filtration rate and therefore is at least actively secreted to some extent.
-
 At doses of 5 to 25 mg/day, half-life in plasma is approximately 3 hours in healthy volunteers and ranges from 3 to 5 hours in patients with multiple myeloma or myelodysplastic syndromes.
 
 Older people
@@ -47,13 +46,12 @@ Because elderly patients are more likely to have decreased renal function, care 
 Renal impairment
 The pharmacokinetics of lenalidomide was studied in subjects with renal impairment due to nonmalignant conditions.
 In this study, two methods were used to classify renal function: the urinary creatinine clearance measured over 24 hours and the creatinine clearance estimated by Cockcroft-Gault formula.
-The results indicate that as renal function decreases (< 50 mL/min), the total drug clearance decreases proportionally resulting in an increase in AUC.
+The results indicate that as renal function decreases (< 50 mL/min), the total lenalidomide clearance decreases proportionally resulting in an increase in AUC.
 The AUC was increased by approximately 2.5, 4 and 5-fold in subjects with moderate renal impairment, severe renal impairment, and end-stage renal disease, respectively, compared to the group combining subjects with normal renal function and subjects with mild renal impairment.
-The half-life of lenalidomide increased from approximately 3.5 hours in subjects with creatinine clearance
-> 50 mL/min to more than 9 hours in subjects with reduced renal function < 50 mL/min.
+The half-life of lenalidomide increased from approximately 3.5 hours in subjects with creatinine clearance > 50 mL/min to more than 9 hours in subjects with reduced renal function < 50 mL/min.
 However, renal impairment did not alter the oral absorption of lenalidomide.
 The Cmax was similar between healthy subjects and patients with renal impairment.
-Approximately 30% of the drug in the body was removed during a single 4-hour dialysis session.
+Approximately 30% of the medicinal product in the body was removed during a single 4-hour dialysis session.
 Recommended dose adjustments in patients with impaired renal function are described in section 4.2.
 
 Hepatic impairment
@@ -75,11 +73,11 @@ At doses of 5 to 25 mg/day, half-life in plasma is approximately 3 hours in heal
 
 [Revlimid 10 mg hard capsules]
 
-Approximately 30% of the medicinal product in the body was removed during a single 4-hour dialysis session.
+(all sentences already above)
 
 [Revlimid 15 mg hard capsules]
 
-Multiple dosing does not cause marked drug accumulation.
+(all sentences already above)
 
 [Revlimid 20 mg hard capsules]
 

@@ -7,8 +7,8 @@ Posology
 Newly diagnosed multiple myeloma
 
 Lenalidomide in combination with dexamethasone until disease progression in patients who are not eligible for transplant
-
 Lenalidomide treatment must not be started if the Absolute Neutrophil Counts (ANC) is < 1.0 x 109/L, and/or platelet counts are < 50 x 109/L.
+
 Recommended dose
 The recommended starting dose of lenalidomide is 25 mg orally once daily on days 1-21 of repeated 28-day cycles.
 The recommended dose of dexamethasone is 40 mg orally once daily on days 1, 8, 15 and 22 of repeated 28-day cycles.
@@ -245,10 +245,10 @@ Patients with newly diagnosed multiple myeloma aged 75 years and older should be
 
 For patients older than 75 years of age treated with lenalidomide in combination with dexamethasone, the starting dose of dexamethasone is 20 mg/day on Days 1, 8, 15 and 22 of each 28-day treatment cycle.
 
-No dose adjustment is proposed for patients older than 75 years treated with lenalidomide in combination with melphalan and prednisone.
+No dose adjustment is proposed for patients older than 75 years who are treated with lenalidomide in combination with melphalan and prednisone.
 
 In clinical trials of newly diagnosed multiple myeloma in transplant non eligible patients, lenalidomide combined therapy was less tolerated in patients older than 75 years of age compared to the younger population.
-These patients discontinued at a higher rate due to intolerance (Grade 3 or 4 adverse events and serious adverse events), when compared to patients < 75years (see section 4.4).
+These patients discontinued at a higher rate due to intolerance (Grade 3 or 4 adverse events and serious adverse events), when compared to patients < 75 years (see section 4.4).
 
 - Multiple myeloma with at least one prior therapy
 
@@ -285,14 +285,16 @@ After initiation of lenalidomide therapy, subsequent lenalidomide dose modificat
 | Renal function (CLcr) | Dose adjustment |  |
 | --- | --- | --- |
 | Moderate renal impairment (30 ≤ CLcr < 50 mL/min) | Starting dose | 5 mg once daily (days 1-21 of repeated 28-day cycles) |
-|  | Dose level -1 | 2.5 mg once daily (days 1-28 of repeated 28-day cycles) |
-|  | Dose level -2 | 2.5 mg once every other day (days 1-28 of repeated 28-day cycles) |
+|  | Dose level -1* | 2.5 mg once daily (days 1-28 of repeated 28-day cycles) |
+|  | Dose level -2* | 2.5 mg once every other day (days 1-28 of repeated 28-day cycles) |
 | Severe renal impairment (CLcr < 30 mL/min, not requiring dialysis) | Starting dose | 2.5 mg once daily (days 1-21 of repeated 28-day cycles) |
-|  | Dose level -1 | 2.5 mg every other day (days 1-28 of repeated 28-day cycles) |
-|  | Dose level -2 | 2.5 mg twice a week (days 1-28 of repeated 28-day cycles) |
+|  | Dose level -1* | 2.5 mg every other day (days 1-28 of repeated 28-day cycles) |
+|  | Dose level -2* | 2.5 mg twice a week (days 1-28 of repeated 28-day cycles) |
 | End Stage Renal Disease (ESRD) (CLcr < 30 mL/min, requiring dialysis) On dialysis days, the dose should be administered following dialysis. | Starting dose | 2.5 mg once daily (days 1-21 of repeated 28-day cycles) |
-|  | Dose level -1 | 2.5 mg every other day (days 1-28 of repeated 28-day cycles) |
-|  | Dose level -2 | 2.5 mg twice a week (days 1-28 of repeated 28-day cycles) |
+|  | Dose level -1* | 2.5 mg every other day (days 1-28 of repeated 28-day cycles) |
+|  | Dose level -2* | 2.5 mg twice a week (days 1-28 of repeated 28-day cycles) |
+
+* Recommended dose reduction steps during treatment and restart of treatment to manage grade 3 or 4 neutropenia or thrombocytopenia, or other grade 3 or 4 toxicity judged to be related to lenalidomide, as described above.
 
 Patients with hepatic impairment
 Lenalidomide has not formally been studied in patients with impaired hepatic function and there are no specific dose recommendations.
@@ -308,11 +310,7 @@ If more than 12 hours has elapsed since missing a dose at the normal time, the p
 
 [Revlimid 5 mg hard capsules]
 
-In case of neutropenia, the physician should consider the use of growth factors in patient management.
-
-Lenalidomide must be discontinued for angioedema, grade 4 rash, exfoliative or bullous rash, or if Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis is suspected, and should not be resumed following discontinuation from these reactions.
-
-No dose adjustment is proposed for patients older than 75 years who are treated with lenalidomide in combination with melphalan and prednisone.
+(all sentences already above)
 
 [Revlimid 7.5 mg hard capsules]
 
@@ -324,22 +322,19 @@ On Day 1 of next cycle, continue G-CSF as needed and maintain dose of melphalan 
 
 Lenalidomide has been used in clinical trials in multiple myeloma patients up to 91 years of age (see section 5.1).
 
-These patients discontinued at a higher rate due to intolerance (Grade 3 or 4 adverse events and serious adverse events), when compared to patients < 75 years (see section 4.4).
-
 The percentage of patients aged 65 or over was not significantly different between the lenalidomide/dexamethasone and placebo/dexamethasone groups.
 
 No dose adjustments are required for patients with mild renal impairment.
 
 [Revlimid 10 mg hard capsules]
 
-resumed at next cycle ª If Dose Limiting Toxicity occurs on > Day15 of a cycle, lenalidomide dosing will be interrupted for at least the remainder of the current 28-day cycle.
+(all sentences already above)
 
 [Revlimid 15 mg hard capsules]
 
 For patients ≥75 years of age, the starting dose of dexamethasone is 20 mg/day on Days 1, 8, 15 and 22 of each 28-day treatment cycle.
 
-In clinical trials of newly diagnosed multiple myeloma in transplant non eligible patients, lenalidomide combined therapy was less tolerated in the patients older than 75 years of age compared to the younger population.
-These patients discontinued at a higher rate due to intolerance (Grade 3 or 4 adverse events and serious adverse events), when compared to patients < 75years.
+These patients discontinued at a higher rate due to intolerance (Grade 3 or 4 adverse events and serious adverse events), when compared to patients < 75 years.
 (see Section 4.4).
 
 [Revlimid 20 mg hard capsules]

@@ -13,12 +13,12 @@ The adverse reactions observed more frequently with Rd or Rd18 than MPT were: di
 
 Newly diagnosed multiple myeloma patients treated with lenalidomide in combination with melphalan and prednisone
 
-The serious adverse reactions observed more frequently (≥5%) with melphalan prednisone, and lenalidomide followed by lenalidomide maintenance (MPR+R) or melphalan prednisone, and lenalidomide followed by placebo (MPR+p) than melphalan, prednisone and placebo followed by placebo (MPp+p) were:
+The serious adverse reactions observed more frequently (≥5%) with melphalan, prednisone and lenalidomide followed by lenalidomide maintenance (MPR+R) or melphalan, prednisone and lenalidomide followed by placebo (MPR+p) than melphalan, prednisone and placebo followed by placebo (MPp+p) were:
 
 - Febrile neutropenia (6.0%)
 - Anaemia (5.3%)
 
-The adverse reactions observed more frequently with MPR+R or MPR+ p than MPp+p were: neutropenia (83.3%), anaemia (70.7%), thrombocytopenia (70.0%), leukopenia (38.8%), constipation (34.0%), diarrhoea (33.3%), rash (28.9%), pyrexia (27.0%), peripheral oedema (25.0%), cough (24.0%), decreased appetite (23.7%), and asthenia (22.0%).
+The adverse reactions observed more frequently with MPR+R or MPR+p than MPp+p were: neutropenia (83.3%), anaemia (70.7%), thrombocytopenia (70.0%), leukopenia (38.8%), constipation (34.0%), diarrhoea (33.3%), rash (28.9%), pyrexia (27.0%), peripheral oedema (25.0%), cough (24.0%), decreased appetite (23.7%), and asthenia (22.0%).
 
 Multiple myeloma with at least one prior therapy
 
@@ -45,16 +45,18 @@ Serious adverse reactions include:
 - Grade 3 or 4 neutropenia, febrile neutropenia and grade 3 or 4 thrombocytopenia (see section 4.4).
 
 The most commonly observed adverse reactions which occurred more frequently in the lenalidomide groups compared to the control arm in the Phase III study were neutropenia (76.8%), thrombocytopenia (46.4%), diarrhoea (34.8%), constipation (19.6%), nausea (19.6%), pruritus (25.4%), rash (18.1%), fatigue (18.1%) and muscle spasms (16.7%).
+
 Tabulated list of adverse reactions
 
 Tabulated summary for combination therapy
 
-The adverse reactions observed in patients treated treated for multiple myelomaare listed below by system organ class and frequency.
+The adverse reactions observed in patients treated for multiple myeloma are listed below by system organ class and frequency.
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000), not known (cannot be estimated from the available data).
+Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon
+(≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000), not known (cannot be estimated from the available data).
 
-The following table is derived from data gathered during the multiple myeloma studies with combination therapy .
-The data were not adjusted according to the greater duration of treatment in the lenalidomide/dexamethasone versus the placebo/dexamethasone arms in the pivotal multiple myeloma studies (see section 5.1).
+The following table is derived from data gathered during the multiple myeloma studies with combination therapy.
+The data were not adjusted according to the longer duration of treatment in the lenalidomide-containing arms continued until disease progression versus the comparator arms in the pivotal multiple myeloma studies (see section 5.1).
 
 Adverse reactions have been included under the appropriate category in the table below according to the highest frequency observed in any of the main clinical trials.
 
@@ -72,7 +74,7 @@ Table 1: ADRs reported in clinical studies in patients with multiple myeloma tre
 | Nervous System Disorders | Very Common Peripheral neuropathies (excluding motor neuropathy), Dizziness, Tremor, Dysgeusia, Headache Common Ataxia, Balance impaired | Common Cerebrovascular accident, Dizziness, Syncope Uncommon Intracranial haemorrhage ^, Transient ischaemic attack, Cerebral ischaemia |
 | Eye Disorders | Very Common Cataracts, Blurred vision Common Reduced visual acuity | Common Cataract Uncommon Blindness |
 | Ear and Labyrinth Disorders | Common Deafness (Including Hypoacusis), Tinnitus |  |
-| Cardiac Disorders | Common Atrial fibrillation, Bradycardia Uncommon Arrhythmia, QT prolongation, Atrial flutter, Ventricular extrasystoles | Common Myocardial infarction (including acute) ^, Atrial fibrillation, Congestive cardiac failure, Tachycardia, Cardiac failure, Myocardial ischaemia |
+| Cardiac Disorders | Common Atrial fibrillation, Bradycardia Uncommon Arrhythmia, QT prolongation, Atrial flutter, Ventricular extrasystoles | Common Myocardial infarction (including acute)^, Atrial fibrillation, Congestive cardiac failure, Tachycardia, Cardiac failure, Myocardial ischaemia |
 | Vascular Disorders | Very Common Venous thromboembolic events, predominantly deep vein thrombosis and pulmonary embolism^ Common Hypotension, Hypertension, Ecchymosis^ | Very Common Venous thromboembolic events, predominantly deep vein thrombosis and pulmonary embolism^ Common Vasculitis Uncommon Ischemia, Peripheral ischemia, Intracranial venous sinus thrombosis |
 | Respiratory, Thoracic and Mediastinal Disorders | Very Common Dyspnoea, Epistaxis^ | Common Respiratory distress, Dyspnoea |
 | Gastrointestinal Disorders | Very Common Diarrhoea, Constipation, Abdominal pain, Nausea, Vomiting, Dyspepsia Common Gastrointestinal haemorrhage (including rectal haemorrhage, haemorrhoidal haemorrhage, peptic ulcer haemorrhage and gingival bleeding)^, Dry mouth, Stomatitis, Dysphagia Uncommon Colitis, Caecitis | Common Diarrhoea, Constipation, Abdominal pain, Nausea, Vomiting |
@@ -145,7 +147,7 @@ Table 3: ADRs reported in in post-marketing use in patients with multiple myelom
 | Neoplasms Benign, Malignant and Unspecified (incl cysts and polyps) |  | Rare Tumour lysis syndrome |
 | Endocrine Disorders | Common Hyperthyroidism |  |
 | Respiratory, Thoracic and Mediastinal Disorders |  | Not Known Interstitial pneumonitis |
-| Gastrointestinal Disorders |  | Not Known Pancreatitis |
+| Gastrointestinal Disorders |  | Not Known Pancreatitis, Gastrointestinal perforation (including diverticular, intestinal and large intestine perforations) ^ |
 | Hepatobiliary Disorders | Not Known Acute hepatic failure^, Hepatitis toxic^, Cytolytic hepatitis^, Cholestatic hepatitis^, Mixed cytolytic/cholestatic hepatitis^ | Not Known Acute hepatic failure^, Hepatitis toxic^ |
 | Skin and Subcutaneous Tissue Disorders |  | Uncommon Angioedema Rare Stevens-Johnson Syndrome^, Toxic epidermal necrolysis^ Not Known Leukocytoclastic vasculitis |
 
@@ -241,48 +243,26 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [Revlimid 5 mg hard capsules]
 
-The adverse reactions observed in patients treated for multiple myeloma are listed below by system organ class and frequency.
-Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon
-(≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000), not known (cannot be estimated from the available data).
+System Organ All ADRs/Frequency Grade 3−4 ADRs/Frequency
+Class
+/ Preferred Term
 
 [Revlimid 7.5 mg hard capsules]
-
-The serious adverse reactions observed more frequently (≥5%) with melphalan, prednisone and lenalidomide followed by lenalidomide maintenance (MPR+R) or melphalan, prednisone and lenalidomide followed by placebo (MPR+p) than melphalan, prednisone and placebo followed by placebo (MPp+p) were:
-
-The adverse reactions observed more frequently with MPR+R or MPR+p than MPp+p were: neutropenia (83.3%), anaemia (70.7%), thrombocytopenia (70.0%), leukopenia (38.8%), constipation (34.0%), diarrhoea (33.3%), rash (28.9%), pyrexia (27.0%), peripheral oedema (25.0%), cough (24.0%), decreased appetite (23.7%), and asthenia (22.0%).
-
-- Venous thromboembolism (deep vein thrombosis, pulmonary embolism).
-- Grade 3 or 4 neutropenia, febrile neutropenia and grade 3 or 4 thrombocytopenia.
-
-The following table is derived from data gathered during the multiple myeloma studieswith combination therapy.
-The data were not adjusted according to the greater duration of treatment in the lenalidomide/dexamethasone versus the placebo/dexamethasone arms in the pivotal studies (see section 5.1).
-
-The combination of lenalidomide with dexamethasone is associated with an increased risk of DVT and PE in patients with multiple myeloma, and to a lesser extent in patients treated with melphalan and prednisone (see section 4.5).
-
-This increase was not observed in clinical trials of newly diagnosed multiple myeloma patients taking lenalidomide in combination with low dose dexamethasone compared to thalidomide in combination with melphalan and prednisone.
 
 Baseline variables including complex cytogenetics and TP53 mutation are associated with progression to AML in subjects who are transfusion dependent and have a Del (5q) abnormality.
 
 [Revlimid 10 mg hard capsules]
 
-An increased risk of DVT and PE is associated with the use of lenalidomide with dexamethasone in patients with multiple myeloma, and to a lesser extent in patients treated with melphalan and prednisone (see section 4.5).
+(all sentences already above)
 
 [Revlimid 15 mg hard capsules]
 
-Adverse reactions have been included under the appropriate category in the table below according to the highest frequency observed in the any of the main clinical trials.
-
-The combination of lenalidomide with dexamethasone is associated with an increased risk of DVT and PE in patients with multiple myeloma (see section 4.5).
+(all sentences already above)
 
 [Revlimid 20 mg hard capsules]
 
 (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data).
 
-The combination of lenalidomide with dexamethasone is associated with an increased risk of DVT and PE in patients with multiple myeloma and to a lesser extent in patients treated with melphalan and prednisone (see section 4.5).
-
-This increase was not observed, in clinical trials of newly diagnosed multiple myeloma patients taking lenalidomide in combination with low dose dexamethasone compared to thalidomide in combination with melphalan and prednisone.
-
-The following post marketing adverse reactions have been reported (frequency unknown): acute hepatic failure and cholestasis (both potentially fatal), toxic hepatitis, cytolytic hepatitis, mixed cytolytic/cholestatic hepatitis.
-
 [Revlimid 25 mg hard capsules]
 
-The combination of lenalidomide with dexamethasone is associated with an increased risk of DVT and PE in patients with multiple myeloma , and to a lesser extent in patients treated with melphalan and prednisone (see section 4.5).
+(all sentences already above)

@@ -22,10 +22,10 @@ Digoxin
 Concomitant administration with lenalidomide 10 mg/day increased the plasma exposure of digoxin (0.5 mg, single dose) by 14% with a 90% CI (confidence interval) [0.52%-28.2%].
 It is not known whether the effect will be different in the therapeutic situation (higher lenalidomide doses and concomitant treatment with dexamethasone).
 Therefore, monitoring of the digoxin concentration is advised during lenalidomide treatment.
-
 Statins
 There is an increased risk of rhabdomyolysis when statins are administered with lenalidomide, which may be simply additive.
 Enhanced clinical and laboratory monitoring is warranted notably during the first weeks of treatment.
+
 Dexamethasone
 Co-administration of single or multiple doses of dexamethasone (40 mg/ day) has no clinically relevant effect on the multiple dose pharmacokinetics of lenalidomide (25 mg/ day).
 
