@@ -1,6 +1,6 @@
 # 4.4 Special warnings and precautions for use
 
-In order to improve the traceability of biological medicinal products, the trade name of the administered product should be clearly recorded (or stated) in the patient file.
+In order to improve the traceability of biological medicinal products, the trade name and the batch number of the administered product should be clearly recorded (or stated) in the patient file.
 
 Gastrointestinal (GI) perforations and Fistulae (see section 4.8)
 Patients may be at an increased risk for the development of gastrointestinal perforation and gall bladder perforation when treated with Avastin.
@@ -12,7 +12,6 @@ GI-vaginal Fistulae in study GOG-0240
 Patients treated for persistent, recurrent, or metastatic cervical cancer with Avastin are at increased risk of fistulae between the vagina and any part of the GI tract (Gastrointestinal-vaginal fistulae).
 Prior radiation is a major risk factor for the development of GI-vaginal fistulae and all patients with GI-vaginal fistulae had a history of prior radiation.
 Recurrence of cancer within the field of prior radiation is an additional important risk factor for the development of GI-vaginal fistulae.
-
 Non-GI Fistulae (see section 4.8)
 Patients may be at increased risk for the development of fistulae when treated with Avastin.
 Permanently discontinue Avastin in patients with tracheoesophageal (TE) fistula or any Grade 4 fistula [US National Cancer Institute-Common Terminology Criteria for Adverse Events (NCI-CTCAE v.3)].
@@ -29,6 +28,7 @@ Therapy should be withheld for elective surgery.
 Necrotising fasciitis, including fatal cases, has rarely been reported in patients treated with Avastin.
 This condition is usually secondary to wound healing complications, gastrointestinal perforation or fistula formation.
 Avastin therapy should be discontinued in patients who develop necrotising fasciitis, and appropriate treatment should be promptly initiated.
+
 Hypertension (see section 4.8)
 An increased incidence of hypertension was observed in Avastin-treated patients.
 Clinical safety data suggest that the incidence of hypertension is likely to be dose-dependent.
@@ -50,7 +50,8 @@ Proteinuria (see section 4.8)
 Patients with a history of hypertension may be at increased risk for the development of proteinuria when treated with Avastin.
 There is evidence suggesting that all Grade (US National Cancer Institute-Common Terminology Criteria for Adverse Events [NCI-CTCAE v.3]) proteinuria may be related to the dose.
 Monitoring of proteinuria by dipstick urinalysis is recommended prior to starting and during therapy.
-Therapy should be permanently discontinued in patients who develop Grade 4 proteinuria (nephrotic syndrome) (NCI-CTCAE v.3).
+Grade 4 proteinuria (nephrotic syndrome) was seen in up to 1.4% of patients treated with Avastin.
+Therapy should be permanently discontinued in patients who develop nephrotic syndrome (NCI-CTCAE v.3).
 
 Arterial thromboembolism (see section 4.8)
 In clinical trials, the incidence of arterial thromboembolic reactions including cerebrovascular accidents (CVAs), transient ischaemic attacks (TIAs) and myocardial infarctions (MIs) was higher in patients receiving Avastin in combination with chemotherapy compared to those who received chemotherapy alone.
@@ -65,6 +66,7 @@ Patients may be at risk of developing venous thromboembolic reactions, including
 Patients treated for persistent, recurrent, or metastatic cervical cancer with Avastin in combination with paclitaxel and cisplatin may be at increased risk of venous thromboembolic events.
 Avastin should be discontinued in patients with life-threatening (Grade 4) thromboembolic reactions, including pulmonary embolism (NCI-CTCAE v.3).
 Patients with thromboembolic reactions ≤ Grade 3 need to be closely monitored (NCI-CTCAE v.3).
+
 Haemorrhage
 Patients treated with Avastin have an increased risk of haemorrhage, especially tumour-associated haemorrhage.
 Avastin should be discontinued permanently in patients who experience Grade 3 or 4 bleeding during Avastin therapy (NCI-CTCAE v.3) (see section 4.8).
@@ -101,6 +103,7 @@ Patients may be at risk of developing infusion/hypersensitivity reactions.
 Close observation of the patient during and following the administration of bevacizumab is recommended as expected for any infusion of a therapeutic humanised monoclonal antibody.
 If a reaction occurs, the infusion should be discontinued and appropriate medical therapies should be administered.
 A systematic premedication is not warranted.
+
 Osteonecrosis of the jaw (ONJ) (see section 4.8)
 Cases of ONJ have been reported in cancer patients treated with Avastin, the majority of whom had received prior or concomitant treatment with intravenous bisphosphonates, for which ONJ is an identified risk.
 Caution should be exercised when Avastin and intravenous bisphosphonates are administered simultaneously or sequentially.

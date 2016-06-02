@@ -16,15 +16,27 @@ It is recommended that treatment be continued until progression of the underlyin
 
 Non-small cell lung cancer (NSCLC)
 
+First-line treatment of non-squamous NSCLC in combination with platinum-based chemotherapy
+
 Avastin is administered in addition to platinum-based chemotherapy for up to 6 cycles of treatment followed by Avastin as a single agent until disease progression.
 The recommended dose of Avastin is 7.5 mg/kg or 15 mg/kg of body weight given once every 3 weeks as an intravenous infusion.
 Clinical benefit in NSCLC patients has been demonstrated with both 7.5 mg/kg and 15 mg/kg doses (see section 5.1).
 It is recommended that treatment be continued until progression of the underlying disease or until unacceptable toxicity.
 
+First-line treatment of non-squamous NSCLC with EGFR activating mutations in combination with erlotinib
+
+EGFR mutation testing should be performed prior to initiation of treatment with the combination of Avastin and erlotinib.
+It is important that a well-validated and robust methodology is chosen to avoid false negative or false positive determinations.
+The recommended dose of Avastin when used in addition to erlotinib is 15 mg/kg of body weight given once every 3 weeks as an intravenous infusion.
+It is recommended that the treatment with Avastin in addition to erlotinib is continued until disease progression.
+
+For the posology and method of administration of erlotinib, please refer to the full erlotinib prescribing information.
+
 Advanced and/or metastatic renal cell cancer (mRCC)
 
 The recommended dose of Avastin is 10 mg/kg of body weight given once every 2 weeks as an intravenous infusion.
 It is recommended that treatment be continued until progression of the underlying disease or until unacceptable toxicity.
+
 Epithelial ovarian, fallopian tube and primary peritoneal cancer
 
 Front-line treatment: Avastin is administered in addition to carboplatin and paclitaxel for up to 6 cycles of treatment followed by continued use of Avastin as single agent until disease progression or for a maximum of 15 months or until unacceptable toxicity, whichever occurs earlier.
@@ -50,12 +62,13 @@ Elderly patients: No dose adjustment is required in the elderly.
 Patients with renal impairment: The safety and efficacy have not been studied in patients with renal impairment (see section 5.2).
 
 Patients with hepatic impairment: The safety and efficacy have not been studied in patients with hepatic impairment (see section 5.2).
-
 Paediatric population
 
 The safety and efficacy of bevacizumab in children and adolescents have not been established.
+Avastin is not approved for use in patients under the age of 18 years.
 There is no relevant use of bevacizumab in the paediatric population in the granted indications.
-Currently available data are described in sections 5.1, 5.2 and 5.3 but no recommendation on a posology can be made.
+Currently available data are described in sections 4.8, 5.1, 5.2 and 5.3 but no recommendation on a posology can be made.
+
 Avastin should not be used in children aged 3 years to less than 18 years with recurrent or progressive high-grade glioma because of efficacy concerns (see section 5.1 for results of paediatric trials).
 
 Dose reduction for adverse reactions is not recommended.
@@ -66,6 +79,7 @@ Method of administration
 The initial dose should be delivered over 90 minutes as an intravenous infusion.
 If the first infusion is well tolerated, the second infusion may be administered over 60 minutes.
 If the 60-minute infusion is well tolerated, all subsequent infusions may be administered over 30 minutes.
+
 It should not be administered as an intravenous push or bolus.
 
 Precautions to be taken before handling or administering the medicinal product

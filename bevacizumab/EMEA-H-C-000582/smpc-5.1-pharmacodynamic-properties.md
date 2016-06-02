@@ -9,7 +9,6 @@ Neutralising the biological activity of VEGF regresses the vascularisation of tu
 Pharmacodynamic effects
 Administration of bevacizumab or its parental murine antibody to xenotransplant models of cancer in nude mice resulted in extensive anti-tumour activity in human cancers, including colon, breast, pancreas and prostate.
 Metastatic disease progression was inhibited and microvascular permeability was reduced.
-
 Clinical efficacy
 
 Metastatic carcinoma of the colon or rectum (mCRC)
@@ -42,7 +41,6 @@ The overall mean age was 59.4 years; 56.6% of patients had an ECOG performance s
 The primary efficacy variable of the trial was overall survival.
 The addition of Avastin to IFL resulted in statistically significant increases in overall survival, progression-free survival and overall response rate (see Table 4).
 The clinical benefit, as measured by overall survival, was seen in all pre-specified patient subgroups, including those defined by age, sex, performance status, location of primary tumour, number of organs involved and duration of metastatic disease.
-
 The efficacy results of Avastin in combination with IFL-chemotherapy are displayed in Table 4.
 
 Table 4 Efficacy results for trial AVF2107g
@@ -64,6 +62,7 @@ Table 4 Efficacy results for trial AVF2107g
 
 a 5 mg/kg every 2 weeks.
 b Relative to control arm.
+
 Among the 110 patients randomised to Arm 3 (5-FU/FA + Avastin) prior to discontinuation of this arm, the median overall survival was 18.3 months and the median progression free survival was 8.8 months.
 
 AVF2192g
@@ -320,6 +319,8 @@ The results of these analyses were very similar to the primary PFS results.
 
 Non-small cell lung cancer (NSCLC)
 
+First-line treatment of non-squamous NSCLC in combination with platinum-based chemotherapy
+
 The safety and efficacy of Avastin, in addition to platinum-based chemotherapy, in the first-line treatment of patients with non-squamous non-small cell lung cancer (NSCLC), was investigated in trials E4599 and BO17704.
 An overall survival benefit has been demonstrated in trial E4599 with a 15 mg/kg/q3wk dose of bevacizumab.
 Trial BO17704 has demonstrated that both 7.5 mg/kg/q3wk and 15 mg/kg/q3wk bevacizumab doses increase progression free survival and response rate.
@@ -361,8 +362,8 @@ In the Avastin-containing arms, patients could receive Avastin as a single-agent
 Trial results show that 94%
 (277 / 296) of eligible patients went on to receive single agent bevacizumab at cycle 7.
 A high proportion of patients (approximately 62%) went on to receive a variety of non-protocol specified anti-cancer therapies, which may have impacted the analysis of overall survival.
-
 The efficacy results are presented in Table 13.
+
 Table 13 Efficacy results for trial BO17704
 
 |  | Cisplatin/Gemcitabine + placebo | Cisplatin/Gemcitabine + Avastin 7.5 mg/kg q 3 weeks | Cisplatin/Gemcitabine + Avastin 15 mg/kg q 3 weeks |
@@ -377,6 +378,30 @@ a patients with measurable disease at baseline
 | --- | --- | --- | --- |
 | Median (months) | 13.1 | 13.6 (p=0.4203) | 13.4 (p=0.7613) |
 | Hazard ratio |  | 0.93 [0.78; 1.11] | 1.03 [0.86, 1.23] |
+
+First-line treatment of non-squamous NSCLC with EGFR activating mutations in combination with erlotinib
+
+JO25567
+Study JO25567 was a randomized, open-label, multi-center Phase II study conducted in Japan to evaluate the efficacy and safety of Avastin used in addition to erlotinib in patients with non-squamous NSCLC with EGFR activating mutations (exon 19 deletion or exon 21 L858R mutation) who had not received prior systemic therapy for Stage IIIB/IV or recurrent disease.
+The primary endpoint was progression-free survival (PFS) based on independent review assessment.
+Secondary endpoints included overall survival, response rate, disease control rate, duration of response, and safety.
+EGFR mutation status was determined for each patient prior to patient screening and 154 patients were randomised to receive either erlotinib + Avastin (erlotinib 150 mg oral daily + Avastin [15 mg/kg IV every 3 weeks]) or erlotinib monotherapy (150 mg oral daily) until disease progression (PD) or unacceptable toxicity.
+In the absence of PD, discontinuation of one component of study treatment in the erlotinib + Avastin arm did not lead to discontinuation of the other component of study treatment as specified in the study protocol.
+The efficacy results of the study are presented in Table 14.
+
+Table 14 Efficacy results for study JO25567
+
+|  | Erlotinib N = 77# | Erlotinib + Avastin N = 75# |
+| --- | --- | --- |
+| PFS^ (months) Median HR (95% CI) p-value | 9.7 16.0 0.54 (0.36; 0.79) 0.0015 |  |
+| Overall Response Rate Rate (n) p-value | 63.6% (49) 69.3% (52) 0.4951 |  |
+| Overall Survival* (months) Median HR (95% CI) p-value | 48.5 48.4 0.91 (0.56; 1.46) 0.6838 |  |
+
+# A total of 154 patients (ECOG Performance Status 0 or 1) were randomized.
+However two of the randomized patients discontinued the study before receiving any study treatment
+^ Blinded independent review (protocol-defined primary analysis)
+* Exploratory analysis; OS updated analysis at clinical cut-off on 28 October 2015, approx. 45% patient had died and OS is therefore considered immature.
+CI, confidence interval; HR, Hazard ratio from unstratified Cox regression analysis; NR, not reached.
 
 Advanced and/or metastatic renal cell cancer (mRCC)
 
@@ -395,8 +420,8 @@ These results have been confirmed through an independent radiological review.
 However, the increase in the primary endpoint of overall survival by 2 months was not significant (HR= 0.91).
 A high proportion of patients (approximately 63% IFN/placebo; 55% Avastin/IFN) received a variety of non-specified post-trial anti-cancer therapies, including antineoplastic agents, which may have impacted the analysis of overall survival.
 
-The efficacy results are presented in Table 14.
-Table 14 Efficacy results for trial BO17705
+The efficacy results are presented in Table 15
+Table 15 Efficacy results for trial BO17705
 
 |  | BO17705 |
 | --- | --- |
@@ -463,9 +488,9 @@ Compared to patients treated with chemotherapy (carboplatin and paclitaxel) alon
 
 In patients who only received bevacizumab in combination with chemotherapy and did not continue to receive bevacizumab alone (CPB15), no clinically meaningful benefit in PFS was observed.
 
-The results of this study are summarised in Table 15.
+The results of this study are summarised in Table 16.
 
-Table 15 Efficacy results from study GOG-0218
+Table 16 Efficacy results from study GOG-0218
 
 Progression-free survival 1
 
@@ -508,10 +533,10 @@ The results of these prespecified analyses are as follows:
 
 - The analysis of PFS as determined by the independent review committee (censoring for NPT) shows a stratified hazard ratio of 0.62 (95% CI: 0.50-0.77, 1-sided log-rank p-value < 0.0001) when CPB15+ is compared with CPP, with a median PFS of 13.1 in the CPP arm and 19.1 months in the CPB15+ arm.
 
-PFS subgroup analyses by disease stage and debulking status are summarised in Table 16.
-These results demonstrate robustness of the analysis of PFS as shown in Table 15.
+PFS subgroup analyses by disease stage and debulking status are summarised in Table 17.
+These results demonstrate robustness of the analysis of PFS as shown in Table 16.
 
-Table 16 PFS1 results by disease stage and debulking status from study GOG-0218
+Table 17 PFS1 results by disease stage and debulking status from study GOG-0218
 
 Randomised patients stage III optimally debulked disease 2,3
 
@@ -563,9 +588,9 @@ The primary endpoint was PFS as assessed by the investigator using RECIST.
 The trial met its primary objective of PFS improvement.
 Compared to patients treated with chemotherapy (carboplatin and paclitaxel) alone in the front-line setting, patients who received bevacizumab at a dose of 7.5 mg/kg q3w in combination with chemotherapy and continued to receive bevacizumab for up to 18 cycles had a statistically significant improvement in PFS.
 
-The results of this study are summarised in Table 17.
+The results of this study are summarised in Table 18.
 
-Table 17 Efficacy results from study BO17707 (ICON7)
+Table 18 Efficacy results from study BO17707 (ICON7)
 
 Progression-free survival
 
@@ -596,9 +621,9 @@ Hazard ratio [95% CI] 0.99 [0. 85; 1. 15]
 
 The primary analysis of investigator-assessed PFS with a data cut-off date of 28 February 2010 shows an unstratified hazard ratio of 0.79 (95% CI: 0.68-0.91, 2-sided log-rank p-value 0.0010) with a median PFS of 16.0 months in the CP arm and 18.3 months in the CPB7.5+ arm.
 
-PFS subgroup analyses by disease stage and debulking status are summarised in Table 18.
-These results demonstrate robustness of the primary analysis of PFS as shown in Table 17.
-Table 18 PFS1 results by disease stage and debulking status from study BO17707 (ICON7)
+PFS subgroup analyses by disease stage and debulking status are summarised in Table 19.
+These results demonstrate robustness of the primary analysis of PFS as shown in Table 18.
+Table 19 PFS1 results by disease stage and debulking status from study BO17707 (ICON7)
 
 Randomised patients stage III optimally debulked disease 2,3
 
@@ -653,9 +678,9 @@ The primary endpoint was progression-free survival based on investigator assessm
 Additional endpoints included objective response, duration of response, overall survival and safety.
 An independent review of the primary endpoint was also conducted.
 
-The results of this study are summarised in Table 19.
+The results of this study are summarised in Table 20.
 
-Table 19 Efficacy results from study AVF4095g
+Table 20 Efficacy results from study AVF4095g
 
 | Progression-free survival |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -681,9 +706,8 @@ Table 19 Efficacy results from study AVF4095g
 | p-value | 0.6479 |  |  |  |  |  |
 
 PFS subgroup analyses depending on recurrence since last platinum therapy are summarised in
-Table 20.
-
-Table 20 Progression-free survival by time from last platinum therapy to recurrence
+Table 21.
+Table 21 Progression-free survival by time from last platinum therapy to recurrence
 
 |  | Investigator Assessment |  |
 | --- | --- | --- |
@@ -722,8 +746,8 @@ The overall rates of discontinuation due to adverse events were 8.8% in the CT a
 The rates of discontinuation due to adverse events in the subgroup of patients > 65 years old were 8.8% in the CT arm and 50.0% in the CT + BV arm.
 The HR for PFS was 0.47 (95% CI: 0.35, 0.62) and 0.45 (95% CI: 0.31, 0.67) for the < 65 and ≥ 65 subgroups, respectively.
 The primary endpoint was progression-free-survival, with secondary endpoints including objective response rate and overall survival.
-Results are presented in Table 21.
-Table 21 Efficacy Results from Study MO22224
+Results are presented in Table 22.
+Table 22 Efficacy Results from Study MO22224
 
 | Primary Endpoint |  |  |
 | --- | --- | --- |
@@ -750,8 +774,8 @@ All analyses presented in this table are stratified analyses.
 
 The trial met its primary objective of PFS improvement.
 Compared to patients treated with chemotherapy (paclitaxel, topotecan or PLD) alone in the recurrent platinum-resistant setting, patients who received bevacizumab at a dose of 10 mg/kg every 2 weeks (or 15 mg/kg every 3 weeks if used in combination with 1.25 mg/m2 topotecan on Days 1–5 every 3 weeks) in combination with chemotherapy and continued to receive bevacizumab until disease progression or unacceptable toxicity, had a statistically significant improvement in PFS.
-The exploratory PFS and OS analyses by chemotherapy cohort (paclitaxel, topotecan and PLD) are summarized in Table 22.
-Table 22: Exploratory PFS and OS analyses by chemotherapy cohort
+The exploratory PFS and OS analyses by chemotherapy cohort (paclitaxel, topotecan and PLD) are summarized in Table 23.
+Table 23: Exploratory PFS and OS analyses by chemotherapy cohort
 
 |  | CT |  | CT+BV |
 | --- | --- | --- | --- |
@@ -797,9 +821,9 @@ Of the 452 patients randomized at baseline, the majority of patients were white 
 
 The primary efficacy endpoint was overall survival.
 Secondary efficacy endpoints included progression-free survival and objective response rate.
-Results from the primary analysis and the follow-up analysis are presented by Avastin Treatment and by Trial Treatment in Table 23 and Table 24, respectively.
+Results from the primary analysis and the follow-up analysis are presented by Avastin Treatment and by Trial Treatment in Table 24 and Table 25, respectively.
 
-Table 23 Efficacy results from study GOG-0240 by Avastin Treatment
+Table 24 Efficacy results from study GOG-0240 by Avastin Treatment
 
 |  | Chemotherapy (n=225) | Chemotherapy + Avastin (n=227) |
 | --- | --- | --- |
@@ -829,7 +853,7 @@ Table 23 Efficacy results from study GOG-0240 by Avastin Treatment
 6 Primary analysis was performed with a data cut-off date of 12 December 2012 and is considered the final analysis
 7 Follow-up analysis was performed with a data cut-off date of 07 March 2014
 8 p-value displayed for descriptive purpose only
-Table 24 Overall survival results from study GOG-0240 by Trial Treatment
+Table 25 Overall survival results from study GOG-0240 by Trial Treatment
 
 | Treatment | Other Factor | Overall survival – Primary analysis1 | Overall survival - Follow-up analysis2 |
 | --- | --- | --- | --- |
