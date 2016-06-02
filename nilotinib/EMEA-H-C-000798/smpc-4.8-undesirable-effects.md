@@ -7,6 +7,7 @@ The median duration of exposure was 60.5 months (range 0.1-70.8 months).
 The most frequent (≥10%) non-haematological adverse reactions were rash, pruritus, headache, nausea, fatigue, alopecia, myalgia and upper abdominal pain.
 Most of these adverse reactions were mild to moderate in severity.
 Constipation, dry skin, asthenia, muscle spasms, diarrhoea, arthralgia, abdominal pain, vomiting and peripheral oedema were observed less commonly (<10% and ≥5%), were of mild to moderate severity, manageable and generally did not require dose reduction.
+
 Treatment-emergent haematological toxicities include myelosuppression: thrombocytopenia (18%), neutropenia (15%) and anaemia (8%).
 Biochemical adverse drug reactions include alanine aminotransferase increased (24%), hyperbilirubinaemia (16%), aspartate aminotransferase increased (12%), lipase increased (11%), blood bilirubin increased (10%), hyperglycaemia (4%), hypercholesterolaemia (3%) and hypertriglyceridaemia (<1%).
 Pleural and pericardial effusions, regardless of causality, occurred in 2% and <1% of patients, respectively, receiving Tasigna 300 mg twice daily.
@@ -25,6 +26,7 @@ Most frequently reported adverse reactions in Tasigna clinical studies
 Non-haematological adverse reactions (excluding laboratory abnormalities) that are reported in at least 5% of the patients treated with 300 mg of nilotinib twice daily in the randomised Phase III study are shown in Table 2.
 These are ranked under heading of frequency, with the most frequent appearing first, using one decimal precision for percentages and the following convention: very common (≥1/10) or common (≥1/100 to <1/10).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
 Table 2 Non-haematological adverse reactions (≥5% of all patients)*
 
 | System organ class | Frequency | Adverse reaction | All grades % | Grade 3-4 % |
@@ -71,6 +73,7 @@ Not known: febrile neutropenia.
 
 Immune system disorders:
 Not known: hypersensitivity.
+
 Endocrine disorders:
 Not known: hyperparathyroidism secondary.
 
@@ -83,7 +86,6 @@ Not known: hyperuricaemia, hypoglycaemia, appetite disorder.
 Psychiatric disorders:
 Common: insomnia, depression, anxiety.
 Not known: amnesia, dysphoria.
-
 Nervous system disorders:
 Common: dizziness, hypoaesthesia, peripheral neuropathy.
 Uncommon: ischaemic stroke, cerebral infarction, migraine, paraesthesia.
@@ -117,6 +119,7 @@ Gastrointestinal disorders:
 Common: abdominal distension, abdominal discomfort, dysgeusia, flatulence.
 Uncommon: pancreatitis, gastritis, sensitivity of teeth.
 Not known: oesophageal ulcer, gastric ulcer, oesophageal pain, stomatitis, dry mouth, enterocolitis, haemorrhoids, hiatus hernia, rectal haemorrhage, gingivitis.
+
 Hepatobiliary disorders:
 Very common: hyperbilirubinaemia (including blood bilirubin increased).
 Common: hepatic function abnormal.
@@ -127,7 +130,6 @@ Skin and subcutaneous tissue disorders:
 Common: erythema, hyperhidrosis, contusion, acne, dermatitis (including allergic, exfoliative and acneiform), night sweats, eczema.
 Uncommon: drug eruption, skin pain.
 Not known: erythema multiforme, urticaria, blister, dermal cyst, sebaceous hyperplasia, swelling face, skin atrophy, skin hypertrophy, skin exfoliation, skin hyperpigmentation, skin discolouration, hyperkeratosis, psoriasis.
-
 Musculoskeletal and connective tissue disorders:
 Common: bone pain, back pain, muscular weakness.
 Uncommon: musculoskeletal pain, flank pain.
@@ -148,6 +150,7 @@ Investigations:
 Very common: alanine aminotransferase increased, aspartate aminotransferase increased, lipase increased, lipoprotein cholesterol (including low density and high density) increased, total cholesterol increased, blood triglycerides increased.
 Common: haemoglobin decreased, blood amylase increased, blood alkaline phosphatase increased, gamma-glutamyltransferase increased, weight increased, blood insulin increased, globulins decreased.
 Not known: blood parathyroid hormone increased, blood insulin decreased, insulin C-peptide decreased, weight decreased.
+
 Clinically relevant or severe abnormalities of routine haematological or biochemistry laboratory values are presented in Table 3.
 
 Table 3 Grade 3-4 laboratory abnormalities*
@@ -171,7 +174,6 @@ Table 3 Grade 3-4 laboratory abnormalities*
 | - Elevated triglycerides | 0 |
 
 *Percentages with one decimal precision are used and rounded to integer for presentation in this table.
-
 Postmarketing experience
 The following adverse reactions have been derived from post-marketing experience with Tasigna via spontaneous case reports, literature cases, expanded access programmes, and clinical studies other than the global registration trials.
 Since these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to nilotinib exposure.

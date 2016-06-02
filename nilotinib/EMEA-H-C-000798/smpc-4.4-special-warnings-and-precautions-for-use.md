@@ -60,11 +60,11 @@ Blood glucose
 In a Phase III study in newly diagnosed CML patients, 6.9% and 7.2% of the patients treated with 400 mg nilotinib and 300 mg nilotinib twice daily, respectively, showed a Grade 3-4 elevation in blood glucose.
 It is recommended that the glucose levels be assessed before initiating treatment with Tasigna and monitored during treatment, as clinically indicated (see section 4.2).
 If test results warrant therapy, physicians should follow their local standards of practice and treatment guidelines.
-
 Interactions with other medicinal products
 The administration of Tasigna with agents that are strong CYP3A4 inhibitors (including, but not limited to, ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir) should be avoided.
 Should treatment with any of these agents be required, it is recommended that therapy with Tasigna be interrupted if possible (see section 4.5).
 If transient interruption of treatment is not possible, close monitoring of the individual for prolongation of the QT interval is indicated (see sections 4.2, 4.5 and 5.2).
+
 Concomitant use of Tasigna with medicinal products that are potent inducers of CYP3A4 (e.g. phenytoin, rifampicin, carbamazepine, phenobarbital and St. John’s Wort) is likely to reduce exposure to nilotinib to a clinically relevant extent.
 Therefore, in patients receiving Tasigna, co-administration of alternative therapeutic agents with less potential for CYP3A4 induction should be selected (see section 4.5).
 

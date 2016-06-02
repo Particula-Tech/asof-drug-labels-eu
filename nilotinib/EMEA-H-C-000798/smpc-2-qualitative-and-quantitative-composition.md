@@ -2,7 +2,7 @@
 
 One hard capsule contains 150 mg nilotinib (as hydrochloride monohydrate).
 
-Excipient(s) with known effect:
+Excipient(s) with known effect
 One hard capsule contains 117.08 mg lactose (as monohydrate).
 
 For the full list of excipients, see section 6.1.

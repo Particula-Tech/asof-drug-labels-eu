@@ -5,6 +5,7 @@ It may be given with hydroxyurea or anagrelide if clinically indicated.
 
 Nilotinib is mainly metabolised in the liver and is also a substrate for the multi-drug efflux pump, P-glycoprotein (P-gp).
 Therefore, absorption and subsequent elimination of systemically absorbed nilotinib may be influenced by substances that affect CYP3A4 and/or P-gp.
+
 Substances that may increase nilotinib serum concentrations
 Concomitant administration of nilotinib with imatinib (a substrate and moderator of P-gp and CYP3A4), had a slight inhibitory effect on CYP3A4 and/or P-gp.
 The AUC of imatinib was increased by 18% to 39%, and the AUC of nilotinib was increased by 18% to 40%.
@@ -34,7 +35,6 @@ Therefore, if necessary, an antacid may be administered approximately 2 hours be
 
 Substances that may have their systemic concentration altered by nilotinib
 In vitro, nilotinib is a relatively strong inhibitor of CYP3A4, CYP2C8, CYP2C9, CYP2D6 and UGT1A1, with Ki value being lowest for CYP2C9 (Ki=0.13 microM).
-
 A single-dose drug-drug interaction study in healthy volunteers with 25 mg warfarin, a sensitive CYP2C9 substrate, and 800 mg nilotinib did not result in any changes in warfarin pharmacokinetic parameters or warfarin pharmacodynamics measured as prothrombin time (PT) and international normalised ratio (INR).
 There are no steady-state data.
 This study suggests that a clinically meaningful drug-drug interaction between nilotinib and warfarin is less likely up to a dose of 25 mg of warfarin.

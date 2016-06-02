@@ -36,20 +36,20 @@ Serum lipase levels should be tested monthly or as clinically indicated (see sec
 Elevated bilirubin and hepatic transaminases: For Grade 3-4 bilirubin and hepatic transaminase elevations, doses should be reduced to 400 mg once daily or interrupted.
 Bilirubin and hepatic transaminases levels should be tested monthly or as clinically indicated.
 
-Older people
+Elderly
 Approximately 12% of subjects in the clinical study were 65 years of age or over.
 No major differences were observed for safety and efficacy in patients ≥65 years of age as compared to adults aged 18 to 65 years.
 
-Patients with renal impairment
+Renal impairment
 Clinical studies have not been performed in patients with impaired renal function.
 Since nilotinib and its metabolites are not renally excreted, a decrease in total body clearance is not anticipated in patients with renal impairment.
 
-Patients with hepatic impairment
+Hepatic impairment
 Hepatic impairment has a modest effect on the pharmacokinetics of nilotinib.
 Dose adjustment is not considered necessary in patients with hepatic impairment.
 However, patients with hepatic impairment should be treated with caution (see section 4.4).
 
-Patients with cardiac disorders
+Cardiac disorders
 In clinical studies, patients with uncontrolled or significant cardiac disease (e.g. recent myocardial infarction, congestive heart failure, unstable angina or clinically significant bradycardia) were excluded.
 Caution should be exercised in patients with relevant cardiac disorders (see section 4.4).
 
