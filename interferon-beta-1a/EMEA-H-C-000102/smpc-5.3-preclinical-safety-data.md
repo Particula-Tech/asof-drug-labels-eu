@@ -20,6 +20,6 @@ No information is available on the effects of interferon beta-1a on male fertili
 
 Chronic Toxicity: In a 26-week repeated dose toxicity study in rhesus monkeys by intramuscular route once per week, administered in combination with another immunomodulating agent, an anti CD40 ligand monoclonal antibody, no immune response toward interferon beta-1a and no signs of toxicity were demonstrated.
 
-[AVONEX 30 micrograms/0.5ml solution for injection, in pre-filled pen.]
+[AVONEX 30 micrograms/0.5ml solution for injection in pre-filled pen.]
 
 (all sentences already above)

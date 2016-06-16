@@ -32,12 +32,13 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | not known | weight decreased, weight increased, liver function tests abnormal |
 | Cardiac disorders not known | cardiomyopathy, congestive heart failure (see section 4.4), palpitations, arrhythmia, tachycardia |
 | Blood and lymphatic system disorders not known | pancytopenia, thrombocytopenia |
-| rare | thrombotic microangiopathy including thrombotic thrombocytopenic purpura/haemolytic uraemic syndrome.* |
+| rare | thrombotic microangiopathy including thrombotic thrombocytopenic purpura/haemolytic uraemic syndrome* |
 | Nervous system disorders very common | headache2 |
 | common | muscle spasticity, hypoesthesia |
 | not known | neurological symptoms, syncope3, hypertonia, dizziness, paraesthesia, seizures, migraine |
 | Respiratory, thoracic and mediastinal disorders common | rhinorrhoea |
 | rare | dyspnoea |
+| not known | pulmonary arterial hypertension┼ |
 | Gastrointestinal disorders common | vomiting, diarrhoea, nausea2 |
 | Skin and subcutaneous tissue disorders common | rash, sweating increased, contusion |
 | uncommon | alopecia |
@@ -61,12 +62,18 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | not known | suicide, psychosis, anxiety, confusion, emotional lability |
 
 *Class label for interferon beta products (see section 4.4).
+┼ Class label for interferon products, see below Pulmonary arterial hypertension.
 
 1Injection site reactions including pain, inflammation and very rare cases of abscess or cellulitis that may require surgical intervention have been reported.
 
 2The frequency of occurrence is higher at the beginning of treatment.
 
 3A syncope episode may occur after AVONEX injection, it is normally a single episode that usually appears at the beginning of the treatment and does not recur with subsequent injections.
+
+Pulmonary arterial hypertension
+
+Cases of pulmonary arterial hypertension (PAH) have been reported with interferon beta products.
+Events were reported at various time points including up to several years after starting treatment with interferon beta.
 
 Paediatric population
 

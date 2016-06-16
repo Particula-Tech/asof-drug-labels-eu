@@ -7,4 +7,4 @@ The clinical studies indicate that MS patients can receive AVONEX and corticoste
 
 Interferons have been reported to reduce the activity of hepatic cytochrome P450-dependent enzymes in humans and animals.
 The effect of high-dose AVONEX administration on P450-dependent metabolism in monkeys was evaluated and no changes in liver metabolising capabilities were observed.
-Caution should be exercised when AVONEX is administered in combination with medicinal products that have a narrow therapeutic index and are largely dependent on the hepatic cytochrome P450 system for clearance, e.g. antiepileptics and some classes of antidepressants.
+Caution should be exercised when AVONEX is administered in combination with medicinal products that have a narrow therapeutic index and are largely dependent on the hepatic cytochrome P450 system for clearance, e.g. some classes of antiepileptics and antidepressants.

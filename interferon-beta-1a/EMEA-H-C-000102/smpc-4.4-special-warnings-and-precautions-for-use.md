@@ -15,12 +15,12 @@ Events were reported at various time points during treatment and may occur sever
 Early clinical features include thrombocytopenia, new onset hypertension, fever, central nervous system symptoms (e.g. confusion, paresis) and impaired renal function.
 Laboratory findings suggestive of TMA include decreased platelet counts, increased serum lactate dehydrogenase (LDH) due to haemolysis and schistocytes (erythrocyte fragmentation) on a blood film.
 Therefore if clinical features of TMA are observed, further testing of blood platelet levels, serum LDH, blood films and renal function is recommended.
-If TMA is diagnosed, prompt treatment is required (considering plasma exchange) and immediate discontinuation of Avonex is recommended.
+If TMA is diagnosed, prompt treatment is required (considering plasma exchange) and immediate discontinuation of AVONEX is recommended.
 
 Nephrotic Syndrome: Cases of nephrotic syndrome with different underlying nephropathies including collapsing focal segmental glomerulosclerosis (FSGS), minimal change disease (MCD), membranoproliferative glomerulonephritis (MPGN) and membranous glomerulopathy (MGN) have been reported during treatment with interferon-beta products.
-Events were reported at various time points during treatment and may occur after several years of treatment with interferon-beta.
+Events were reported at various time points during treatment and may occur after several years of treatment with interferon beta.
 Periodic monitoring of early signs or symptoms, e.g. oedema, proteinuria and impaired renal function is recommended, especially in patients at higher risk of renal disease.
-Prompt treatment of nephrotic syndrome is required and discontinuation of treatment with Avonex should be considered.
+Prompt treatment of nephrotic syndrome is required and discontinuation of treatment with AVONEX should be considered.
 
 Hepatic injury including elevated serum hepatic enzyme levels, hepatitis, autoimmune hepatitis and hepatic failure has been reported with interferon beta in post-marketing (see section 4.8).
 In some cases, these reactions have occurred in the presence of other medicinal products that have been associated with hepatic injury.
@@ -45,6 +45,6 @@ The use of various assays to detect serum antibodies to interferons limits the a
 
 Recent clinical studies with patients treated up to three years with AVONEX suggest that approximately 5% to 8% develop neutralising antibodies.
 
-[AVONEX 30 micrograms/0.5ml solution for injection, in pre-filled pen.]
+[AVONEX 30 micrograms/0.5ml solution for injection in pre-filled pen.]
 
 (all sentences already above)

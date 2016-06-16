@@ -17,6 +17,14 @@ Because of the potential for serious adverse reactions in nursing infants, a dec
 
 Fertility
 
-Fertility and developmental studies in rhesus monkeys have been carried out with a related form of interferon beta 1a.
+Fertility and developmental studies in rhesus monkeys have been carried out with a related form of interferon beta-1a.
 At very high doses, anovulatory and abortifacient effects in test animals were observed (see section 5.3).
-No information is available on the effects of interferon beta 1a on male fertility.
+No information is available on the effects of interferon beta-1a on male fertility.
+
+[AVONEX 30 micrograms/0.5 ml solution for injection.]
+
+Fertility and developmental studies in rhesus monkeys have been carried out with a related form of interferon beta 1a.
+
+[AVONEX 30 micrograms/0.5ml solution for injection in pre-filled pen.]
+
+(all sentences already above)

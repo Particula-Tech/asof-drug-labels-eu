@@ -16,7 +16,7 @@ AVONEX can be stored at room temperature (between 15°C and 30°C) for up to one
 
 Store in the original package (sealed plastic tray) in order to protect from light (see section 6.5).
 
-[AVONEX 30 micrograms/0.5ml solution for injection, in pre-filled pen.]
+[AVONEX 30 micrograms/0.5ml solution for injection in pre-filled pen.]
 
 The AVONEX PEN contains a pre-filled syringe of AVONEX and must be stored in the refrigerator.
 

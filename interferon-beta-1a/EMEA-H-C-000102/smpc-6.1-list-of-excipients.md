@@ -13,6 +13,6 @@ Arginine hydrochloride
 Polysorbate 20
 Water for injections
 
-[AVONEX 30 micrograms/0.5ml solution for injection, in pre-filled pen.]
+[AVONEX 30 micrograms/0.5ml solution for injection in pre-filled pen.]
 
 (all sentences already above)

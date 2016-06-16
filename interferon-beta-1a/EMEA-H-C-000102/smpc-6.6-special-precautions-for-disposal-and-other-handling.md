@@ -26,7 +26,7 @@ The injection needle for intramuscular injection is provided.
 Each pre-filled syringe of AVONEX contains a single dose only.
 Discard the unused portion of any pre-filled syringe.
 
-[AVONEX 30 micrograms/0.5ml solution for injection, in pre-filled pen.]
+[AVONEX 30 micrograms/0.5ml solution for injection in pre-filled pen.]
 
 For single-use only: The solution for injection in a pre-filled syringe is contained within the AVONEX PEN.
 
