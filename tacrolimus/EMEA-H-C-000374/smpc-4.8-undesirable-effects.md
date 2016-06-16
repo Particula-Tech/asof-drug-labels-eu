@@ -8,8 +8,7 @@ Alcohol intolerance (facial flushing or skin irritation after consumption of an 
 Patients may be at an increased risk of folliculitis, acne and herpes viral infections.
 
 Adverse reactions with suspected relationship to treatment are listed below by system organ class.
-Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10) and uncommon
-(≥ 1/1,000 to < 1/100).
+Frequencies are defined as very common (≥1/10), common (≥1/100 to < 1/10) and uncommon (≥1/1,000 to < 1/100).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 | System Organ Class | Very Common ≥1/10 | Common ≥1/100, <1/10 | Uncommon ≥1/1000, <1/100 | Not known (cannot be estimated from the available data) |
@@ -18,9 +17,8 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Metabolism and nutrition disorders |  | Alcohol intolerance (facial flushing or skin irritation after consumption of an alcoholic beverage) |  |  |
 | Nervous system disorders |  | Paraesthesias and dysaesthesias (hyperaesthesia, burning sensation) |  |  |
 | Skin and subcutaneous tissue disorders |  | Pruritus | Acne* | Rosacea* Lentigo* |
-| General disorders and administration site conditions | Application site burning, Application site pruritus | Application site warmth, Application site erythema, Application site pain, Application site irritation, Application site paraesthesia, |  | Application site oedema* |
+| General disorders and administration site conditions | Application site burning, Application site pruritus | Application site warmth, Application site erythema, Application site pain, Application site irritation, Application site paraesthesia, Application site rash |  | Application site oedema* |
 
-Application site rash
 Investigations Drug level
 increased*
 (see section

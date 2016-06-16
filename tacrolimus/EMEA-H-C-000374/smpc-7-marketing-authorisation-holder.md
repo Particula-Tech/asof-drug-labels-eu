@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Astellas Pharma Europe B.V.
-Sylviusweg 62
-2333 BE Leiden
-Netherlands
+LEO Pharma A/S
+Industriparken 55
+2750 Ballerup
+Denmark

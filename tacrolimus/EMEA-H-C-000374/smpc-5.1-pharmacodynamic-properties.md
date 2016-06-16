@@ -8,8 +8,10 @@ While the following have been observed, the clinical significance of these obser
 Via its binding to a specific cytoplasmic immunophilin (FKBP12), tacrolimus inhibits calcium-dependent signal transduction pathways in T cells, thereby preventing the transcription and synthesis of IL-2, IL-3, IL-4, IL-5 and other cytokines such as GM-CSF, TNF-α and IFN-γ.
 In vitro, in Langerhans cells isolated from normal human skin, tacrolimus reduced the stimulatory activity towards T cells.
 Tacrolimus has also been shown to inhibit the release of inflammatory mediators from skin mast cells, basophils and eosinophils.
+
 In animals, tacrolimus ointment suppressed inflammatory reactions in experimental and spontaneous dermatitis models that resemble human atopic dermatitis.
 Tacrolimus ointment did not reduce skin thickness and did not cause skin atrophy in animals.
+
 In patients with atopic dermatitis, improvement of skin lesions during treatment with tacrolimus ointment was associated with reduced Fc receptor expression on Langerhans cells and a reduction of their hyperstimulatory activity towards T cells.
 Tacrolimus ointment does not affect collagen synthesis in humans.
 
@@ -45,14 +47,13 @@ Table 2 Efficacy at week 3
 |  | Hydrocortisone acetate 1% (N=185) | Tacrolimus 0.03% (N=189) | Tacrolimus 0.1% (N=186) |
 | --- | --- | --- | --- |
 | Median mEASI as Percentage of Baseline mean AUC (Primary Endpoint)§ | 64.0% | 44.8% | 39.8% |
-| Improvement ≥ 90% in Physician’s Global Evaluation | 15.7% | 38.5% | 48.4% |
+| Improvement ≥90% in Physician’s Global Evaluation | 15.7% | 38.5% | 48.4% |
 
 § lower values = greater improvement
 
 The incidence of local skin burning was higher in the tacrolimus treatment groups than in the hydrocortisone group.
 Pruritus decreased over time in the tacrolimus groups but not in the hydrocortisone group.
 There were no clinically relevant changes in the laboratory values or vital signs in either treatment group throughout the clinical trial.
-
 The purpose of the third multicentre, double-blind, randomised study was the assessment of efficacy and safety of 0.03% tacrolimus ointment applied once or twice a day relative to twice daily administration of 1% hydrocortisone acetate ointment in children with moderate to severe atopic dermatitis.
 Treatment duration was for up to three weeks.
 
@@ -61,7 +62,7 @@ Table 3 Efficacy at week 3
 |  | Hydrocortisone acetate 1% Twice daily (N=207) | Tacrolimus 0.03% Once daily (N=207) | Tacrolimus 0.03% Twice daily (N=210) |
 | --- | --- | --- | --- |
 | Median mEASI Percentage Decrease (Primary Endpoint)§ | 47.2% | 70.0% | 78.7% |
-| Improvement ≥ 90% in Physician’s Global Evaluation | 13.6% | 27.8% | 36.7% |
+| Improvement ≥90% in Physician’s Global Evaluation | 13.6% | 27.8% | 36.7% |
 
 § higher values = greater improvement
 
@@ -87,7 +88,6 @@ The primary endpoint in both studies was the number of disease exacerbations req
 Both studies showed significant benefit with twice weekly treatment with tacrolimus ointment with regard to the primary and key secondary endpoints over a period of 12 months in a pooled population of patients with mild to severe atopic dermatitis.
 In a subanalysis of a pooled population of patients with moderate to severe atopic dermatitis these differences remained statistically significant (Table 4).
 No adverse events not reported previously were observed in these studies.
-
 Table 4 Efficacy (moderate to severe subpopulation)
 
 |  | Adults, ≥ 16 years |  | Children, 2-15 years |  |
@@ -113,13 +113,8 @@ The primary response to vaccination was not affected.
 
 [Protopic 0.1% ointment]
 
-|  | Adults, ≥ 16 years |  | Children, 2-15 years |  |
-| --- | --- | --- | --- | --- |
-|  | Tacrolimus 0.1% Twice weekly (N=80) | Vehicle Twice weekly (N=73) | Tacrolimus 0.03% Twice weekly (N=78) | Vehicle Twice weekly (N=75) |
-| Median number of DEs requiring substantial intervention adjusted for time at risk (% of patients without DE requiring substantial intervention) | 1.0 (48.8%) | 5.3 (17.8%) | 1.0 (46.2%) | 2.9 (21.3%) |
-| Median time to first DE requiring substantial intervention | 142 days | 15 days | 217 days | 36 days |
-| Median number of DEs adjusted for time at risk (% of patients without any DE periods) | 1.0 (42.5%) | 6.8 (12.3%) | 1.5 (41.0%) | 3.5 (14.7%) |
-| Median time to first DE | 123 days | 14 days | 146 days | 17 days |
-| Mean (SD) percentage of days of DE exacerbation | 16.1 (23.6) | 39.0 (27.8) | 16.9 (22.1) | 29.9 (26.8) |
-
-treatment
+|  | Topical corticosteroid regimen§ (N=485) | Tacrolimus 0.1% (N=487) |
+| --- | --- | --- |
+| Response rate of ≥ 60% improvement in mEASI (Primary | 50.8% | 71.6% |
+| Endpoint)§§ |  |  |
+| Improvement ≥ 90% in Physician’s Global Evaluation | 28.5% | 47.7% |
