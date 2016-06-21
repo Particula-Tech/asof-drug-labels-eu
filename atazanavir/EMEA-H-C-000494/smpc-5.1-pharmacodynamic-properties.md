@@ -1,9 +1,11 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: protease inhibitor, ATC code: J05AE08
+Pharmacotherapeutic group: antivirals for systemic use, protease inhibitors, ATC code: J05AE08
 
-Mechanism of action: atazanavir is an azapeptide HIV-1 protease inhibitor (PI).
+Mechanism of action
+Atazanavir is an azapeptide HIV-1 protease inhibitor (PI).
 The compound selectively inhibits the virus-specific processing of viral Gag-Pol proteins in HIV-1 infected cells, thus preventing formation of mature virions and infection of other cells.
+
 Antiviral activity in vitro: atazanavir exhibits anti-HIV-1 (including all clades tested) and anti-HIV-2 activity in cell culture.
 
 Resistance
@@ -91,6 +93,7 @@ Eleven subjects (13%) in the unboosted REYATAZ group and 6 (7%) in the REYATAZ +
 Four subjects in the unboosted REYATAZ group and 2 in the REYATAZ + ritonavir group had HIV RNA > 500 copies/ml during the maintenance phase.
 No subject in either group showed emergence of protease inhibitor resistance.
 The M184V substitution in reverse transcriptase, which confers resistance to lamivudine and emtricitabine, was detected in 2 subjects in the unboosted REYATAZ and 1 subject in the REYATAZ + ritonavir group.
+
 There were fewer treatment discontinuations in the unboosted REYATAZ group (1 vs. 4 subjects in the REYATAZ + ritonavir group).
 There was less hyperbilirubinaemia and jaundice in the unboosted REYATAZ group compared with the REYATAZ + ritonavir group (18 and 28 subjects, respectively).
 
@@ -111,7 +114,7 @@ Table 6: Efficacy Outcomes at Week 48a and at Week 96 (Study 045)
 | HIV RNA Mean Change from Baseline, log10 copies/ml |  |  |  |  |  |  |
 | All patients | -1.93 (n=90 e) | -2.29 (n=64) | -1.87 (n=99) | -2.08 (n=65) | 0.13 [-0.12, 0.39] | 0.14 [-0.13, 0.41] |
 | HIV RNA <50 copies/ml, %f (responder/evaluable) |  |  |  |  |  |  |
-| All patients | 36 (43/120) | 32 (38/120) | 42 (52/123 | 35 (41/118) | NA | NA |
+| All patients | 36 (43/120) | 32 (38/120) | 42 (52/123) | 35 (41/118) | NA | NA |
 | HIV RNA <50 copies/ml by select baseline PI substitutions,f, g % (responder/evaluable) |  |  |  |  |  |  |
 | 0-2 | 44 (28/63) | 41 (26/63) | 56 (32/57) | 48 (26/54) | NA | NA |
 | 3 | 18 (2/11) | 9 (1/11) | 38 (6/16) | 33 (5/15) | NA | NA |
@@ -133,7 +136,6 @@ NA = not applicable.
 Through 48 weeks of treatment, the mean changes from baseline in HIV RNA levels for REYATAZ + ritonavir and lopinavir + ritonavir were similar (non-inferior).
 Consistent results were obtained with the last observation carried forward method of analysis (time-averaged difference of 0.11, 97.5% confidence interval [-0.15, 0.36]).
 By as-treated analysis, excluding missing values, the proportions of patients with HIV RNA < 400 copies/ml (< 50 copies/ml) in the REYATAZ + ritonavir arm and the lopinavir + ritonavir arm were 55% (40%) and 56% (46%), respectively.
-
 Through 96 weeks of treatment, mean HIV RNA changes from baseline for REYATAZ + ritonavir and lopinavir + ritonavir met criteria for non-inferiority based on observed cases.
 Consistent results were obtained with the last observation carried forward method of analysis.
 By as-treated analysis, excluding missing values, the proportions of patients with HIV RNA <400 copies/ml (<50 copies/ml) for REYATAZ + ritonavir were 84% (72%) and for lopinavir + ritonavir were 82% (72%).
@@ -142,17 +144,17 @@ It is important to note that at time of the 96-week analysis, 48 % of patients o
 REYATAZ + saquinavir was shown to be inferior to lopinavir + ritonavir.
 
 Paediatric population
-Assessment of the pharmacokinetics, safety, tolerability, and efficacy of REYATAZ is based on data from the open-label, multicenter clinical trial PACTG 1020A conducted in patients from 3 months to 21 years of age.
+Assessment of the pharmacokinetics, safety, tolerability, and efficacy of REYATAZ is based on data from the open-label, multicenter clinical trial AI424-020 conducted in patients from 3 months to 21 years of age.
 Overall in this study, 182 paediatric patients (81 antiretroviral-naive and 101 antiretroviral-experienced) received once daily REYATAZ (capsule or powder formulation), with or without ritonavir, in combination with two NRTIs.
 
 The clinical data derived from this study are inadequate to support the use of atazanavir (with or without ritonavir) in children below 6 years of age.
 
 Efficacy data observed in the 41 paediatric patients aged 6 years to less than 18 years that received REYATAZ capsules with ritonavir are presented in Table 7.
-For treatment-naive paediatric patients, the mean baseline CD4 cell count was 344 cells/mm3 (range: 2 to 800 cells/ mm3) and mean baseline plasma HIV 1 RNA was 4.67 log10 copies/ml (range: 3.70 to 5.00 log10 copies/ml).
-For treatment-experienced paediatric patients, the mean baseline CD4 cell count was 522 cells/mm3 (range: 100 to 1157 cells/ mm3) and mean baseline plasma HIV 1 RNA was 4.09 log10 copies/ml (range: 3.28 to 5.00 log10 copies/ml).
+For treatment-naive paediatric patients, the mean baseline CD4 cell count was 344 cells/mm3 (range: 2 to 800 cells/ mm3) and mean baseline plasma HIV-1 RNA was 4.67 log10 copies/ml (range: 3.70 to 5.00 log10 copies/ml).
+For treatment-experienced paediatric patients, the mean baseline CD4 cell count was 522 cells/mm3 (range: 100 to 1157 cells/ mm3) and mean baseline plasma HIV-1 RNA was 4.09 log10 copies/ml (range: 3.28 to 5.00 log10 copies/ml).
 
 Table 7: Efficacy Outcomes (paediatric patients 6 years to less than 18 years of age) at
-Week 48 (Study PACTG 1020A)
+Week 48 (Study AI424-020)
 
 | Parameter | Treatment-Naive REYATAZ Capsules/ritonavir (300 mg/100 mg once daily) n=16 | Treatment-Experienced REYATAZ Capsules/ritonavir (300 mg/100 mg once daily) n=25 |
 | --- | --- | --- |
@@ -173,7 +175,58 @@ c PI major L24I, D30N, V32I, L33F, M46IL, I47AV, G48V, I50LV, F53LY,I54ALMSTV, L
 d Includes patients with baseline resistance data.
 NA = not applicable.
 
-Data in the paediatric population are very limited.
-Available data do suggest that atazanavir in combination with ritonavir may not be effective in treatment experienced children even with very few (<3) PI mutations.
+[REYATAZ 50 mg oral powder]
 
-The European Medicines Agency has waived the obligation to submit the results of studies with REYATAZ hard capsules in all subsets of the paediatric population in treatment of immunodeficiency virus (HIV-1) infection (see section 4.2 for information on paediatric use).
+Study 138 is an international randomised, open-label, multicenter, prospective trial of
+883 antiretroviral treatment naive patients comparing REYATAZ/ritonavir (300 mg/100 mg once daily) to lopinavir/ritonavir (400 mg/100 mg twice daily), each in combination with fixed dose tenofovir/emtricitabine (300 mg/200 mg tablets once daily).
+
+The mean baseline CD4 cell count was 214 cells/mm3 (range: 2 to 810 cells/mm3) and mean baseline plasma HIV-1 RNA was 4.94 log10 copies/ml (range: 2.6 to 5.88 log10 copies/ml).
+The REYATAZ/ritonavir arm has similar (non-inferior) antiviral efficacy compared to the lopinavir/ritonavir arm, as assessed by the proportion of patients with HIV RNA < 50 copies/ml at week 48: 78% of patients on REYATAZ/ritonavir compared to 76% on lopinavir/ritonavir (difference estimate of ATV/RTV-LPV/RTV: 1.7% [95% CI, -3.8%, 7.1%] according to the Confirmed Virologic Response (CVR) Non-Completer = Failure (NC = F) definition of response.
+
+In a per protocol analysis which excluded non-completers (i.e. patients who discontinued before the week 48 HIV RNA assessment) and patients with major protocol deviations, the proportion of patients with HIV RNA < 50 copies/ml at week 48 was 86% (338/392) for REYATAZ/ritonavir and 89% (332/372) for lopinavir/ritonavir (difference estimate of ATV/RTV-LPV/RTV: -3% [95% CI, -7.6%, 1.5%].
+
+a Mean baseline CD4 cell count was 214 cells/mm3 (range 2 to 810 cells/mm3) and mean baseline plasma HIV-1 RNA was 4.94 log10 copies/ml (range 2.6 to 5.88 log10 copies/ml) b REYATAZ/RTV with tenofovir/emtricitabine (fixed dose 300 mg/200 mg tablets once daily).
+c Lopinavir/RTV with tenofovir/emtricitabine (fixed dose 300 mg/200 mg tablets once daily).
+
+Study 045 is a randomised, multicenter trial comparing REYATAZ/ritonavir (300/100 mg once daily) and REYATAZ/saquinavir (400/1,200 mg once daily), to lopinavir + ritonavir (400/100 mg fixed dose combination twice daily), each in combination with tenofovir (see sections 4.5 and 4.8) and one NRTI, in patients with virologic failure on two or more prior regimens containing at least one PI, NRTI, and NNRTI.
+
+b ATV/RTV with tenofovir/emtricitabine (fixed dose 300 mg/200 mg tablets once daily).
+c LPV/RTV with tenofovir/emtricitabine (fixed dose 300 mg/200 mg tablets once daily).
+
+Paediatric trials with REYATAZ capsules
+
+The clinical data derived from this study are inadequate to support the use of atazanavir capsules (with or without ritonavir) in children below 6 years of age.
+
+Table 7: Efficacy Outcomes (paediatric patients 6 years to less than 18 years of age) at Week 48 (Study AI424-020)
+
+Paediatric trials with REYATAZ oral powder
+Assessment of the pharmacokinetics, safety, tolerability, and virologic response of REYATAZ oral powder was based on data from two open-label, multicenter clinical trials.
+
+- AI424-397 (PRINCE I): In pediatric patients from 3 months to less than 6 years of age
+- AI424-451 (PRINCE II): In pediatric patients from 3 months to less than 11 years of age
+
+In these studies, 155 patients (59 antiretroviral-naive and 96 antiretroviral-experienced) received once daily REYATAZ oral powder and ritonavir, in combination with two NRTIs.
+
+For inclusion in both trials, treatment-naive patients had to have genotypic sensitivity to REYATAZ and two NRTIs, and treatment-experienced patients had to have documented genotypic and phenotypic sensitivity at screening to REYATAZ and at least 2 NRTIs.
+Patients exposed only to antiretrovirals in utero or intrapartum were considered treatment-naive.
+Patients who received REYATAZ or REYATAZ/ritonavir at any time prior to study enrollment or who had a history of treatment failure on two or more protease inhibitors, protease inhibitor resistance or evidence of pre-existing cardiac abnormalities were excluded from the trials.
+Protease inhibitor resistance was defined as genotypic resistance to atazanavir or either component of the local NRTI backbone based on the criteria of 1) any major mutations: I50L, I84V, N88S and 2) ≥ 2 of the following minor or cross resistant mutations: M46I/L, G48V, I54L/V/M/T/A, V82A/T/FI, L90M, V32I.
+
+At Week 48 there were 134 paediatric patients aged 3 months to less than 11 years that received REYATAZ oral powder with ritonavir that were evaluated for efficacy.
+These data are presented in Table 8.
+For treatment-naive paediatric patients, the mean baseline CD4 cell count was 930 cells/mm3 (range: 46 to 2291 cells/mm3) and mean baseline plasma HIV-1 RNA was 4.81 log10 copies/ml (range: 3.4 to 5.9 log10 copies/ml).
+For treatment-experienced paediatric patients, the mean baseline CD4 cell count was 1441 cells/mm3 (range: 84 to 5703 cells/mm3) and mean baseline plasma HIV-1 RNA was 4.67 log10 copies/ml (range: 2.0 to 5.9 log10 copies/ml).
+
+Table 8: Efficacy Outcomes for oral powder (paediatric patients at least 3 months of age and weighing at least 5 kg) at Week 48 (Studies AI424-397 and AI424-451)
+
+| Parameter | Treatment-Naive REYATAZ Powder/ritonavir n=52 | Treatment-Experienced REYATAZ Powder/ritonavir n=82 |
+| --- | --- | --- |
+| HIV RNA <50 copies/ml, %a |  |  |
+| at least 5 to < 10 kg (REYATAZ 150 and 200 mg) at least 10 to < 15 kg at least 15 to < 25 kg at least 25 to < 35 kg | 33 (4/12) | 52 (17/33) |
+|  | 59 (13/22) 61 (11/18) - | 35 (6/17) 57 (17/30) 50.0 (1/2) |
+| HIV RNA <400 copies/ml, %a |  |  |
+| at least 5 to < 10 kg (REYATAZ 150 and 200 mg) at least 10 to < 15 kg at least 15 to < 25 kg at least 25 to < 35 kg | 75 (9/12) | 61 (20/33) |
+|  | 82 (18/22) 78 (14/18) - | 59 (10/17) 67 (20/30) 50.0 (1/2) |
+| CD4 Mean Change from Baseline, cells/mm3 |  |  |
+| at least 5 to < 10 kg (REYATAZ 150 and 200 mg) at least 10 to < 15 kg at least 15 to < 25 kg at least 25 to < 35 kg | 293 (n=7) | 63 (n=16) |
+|  | 293 (n=11) 305 (n=9) - | 307 (n=8) 374 (n=12) 213 (n=1) |

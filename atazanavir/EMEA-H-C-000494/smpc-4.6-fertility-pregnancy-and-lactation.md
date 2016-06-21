@@ -1,7 +1,7 @@
 # 4.6 Fertility, pregnancy and lactation
 
 Pregnancy
-A moderate amount of data in pregnant women (between 300-1000) pregnancy outcomes) indicate no malformative toxicity of atazanavir.
+A moderate amount of data in pregnant women (between 300-1000 pregnancy outcomes) indicate no malformative toxicity of atazanavir.
 Animal studies do not indicate reproductive toxicity
 (see section 5.3).
 The use of REYATAZ with ritonavir may be considered during pregnancy only if the potential benefit justifies the potential risk.
@@ -27,3 +27,12 @@ As a general rule, it is recommended that HIV infected women not breast-feed the
 
 Fertility
 In a nonclinical fertility and early embryonic development study in rats, atazanavir altered oestrus cycling with no effects on mating or fertility (see section 5.3).
+
+[REYATAZ 50 mg oral powder]
+
+Animal studies do not indicate reproductive toxicity (see section 5.3).
+The use of REYATAZ may be considered during pregnancy only if the potential benefit justifies the potential risk.
+
+It is not known whether REYATAZ administered to the mother during pregnancy will exacerbate physiological hyperbilirubinaemia and lead to kernicterus in neonates and infants.
+
+In a non-clinical fertility and early embryonic development study in rats, atazanavir altered oestrus cycling with no effects on mating or fertility (see section 5.3).

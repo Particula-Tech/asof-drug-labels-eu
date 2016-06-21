@@ -32,32 +32,18 @@ In more than half of the reported cases, treatment with protease inhibitors was 
 A causal relationship has been suggested, although the mechanism of action has not been elucidated.
 Haemophiliac patients should therefore be made aware of the possibility of increased bleeding.
 
-Fat redistribution and metabolic disorders
-Combination antiretroviral therapy has been associated with the redistribution of body fat (lipodystrophy) in HIV patients.
-The long-term consequences of these events are currently unknown.
-Knowledge about the mechanism is incomplete.
-A connection between visceral lipomatosis and protease inhibitors and lipoatrophy and nucleoside reverse transcriptase inhibitors has been hypothesised.
-A higher risk of lipodystrophy has been associated with individual factors such as older age, and with drug related factors such as longer duration of antiretroviral treatment and associated metabolic disturbances.
-Clinical examination should include evaluation for physical signs of fat redistribution.
-
-Combination antiretroviral therapy (CART), including REYATAZ (with or without ritonavir)-based CART, is associated with dyslipidaemia.
-Consideration should be given to the measurement of fasting serum lipids and blood glucose.
-Lipid disorders should be managed as clinically appropriate
-(see section 4.8).
+Weight and metabolic parameters
+An increase in weight and in levels of blood lipids and glucose may occur during antiretroviral theraphy.
+Such changes may in part be linked to the disease control and life style.
+For lipids, there is in some cases evidence for a treatment effect, while for weight gain there is no strong evidence relating this to any particular treatment.
+For monitoring of blood lipids and glucose reference is made to established HIV treatment guidelines.
+Lipid disorders should be managed as clinicallly appropriate.
 
 In clinical studies, REYATAZ (with or without ritonavir) has been shown to induce dyslipidaemia to a lesser extent than comparators.
-The clinical impact of such findings has not been demonstrated in the absence of specific studies on cardiovascular risk.
-The selection of antiretroviral therapy must be guided principally by antiviral efficacy.
-Consultation with standard guidelines for management of dyslipidaemia is recommended.
-
-Hyperglycaemia
-New onset diabetes mellitus, hyperglycaemia, and exacerbation of existing diabetes mellitus have been reported in patients receiving protease inhibitors.
-In some of these, the hyperglycaemia was severe and in some cases also associated with ketoacidosis.
-Many patients had confounding medical conditions, some of which required therapy with medicinal products that have been associated with development of diabetes or hyperglycaemia.
 
 Hyperbilirubinaemia
 Reversible elevations in indirect (unconjugated) bilirubin related to inhibition of UDP-glucuronosyl transferase (UGT) have occurred in patients receiving REYATAZ (see section 4.8).
-Hepatic transaminase elevations that occur with elevated bilirubin in patients receiving REYATAZ should be evaluated for alternative etiologies.
+Hepatic transaminase elevations that occur with elevated bilirubin in patients receiving REYATAZ should be evaluated for alternative aetiologies.
 Alternative antiretroviral therapy to REYATAZ may be considered if jaundice or scleral icterus is unacceptable to a patient.
 Dose reduction of atazanavir is not recommended because it may result in a loss of therapeutic effect and development of resistance.
 
@@ -75,6 +61,7 @@ The withdrawal of ritonavir from the boosted regimen of REYATAZ is not recommend
 REYATAZ given without ritonavir should not be considered in patients treated with a backbone regimen containing tenofovir disoproxil fumarate and with other concomitant medications that reduce atazanavir bioavailability (see section 4.5 In case of withdrawal of ritonavir from the recommended atazanavir boosted regimen) or in case of perceived challenging compliance.
 
 REYATAZ given without ritonavir should not be used in pregnant patients given that it could result of suboptimal exposure of particular concern for the mother infection and vertical transmission.
+
 Cholelithiasis
 Cholelithiasis has been reported in patients receiving REYATAZ (see section 4.8).
 Some patients required hospitalization for additional management and some had complications.
@@ -92,9 +79,8 @@ Typically, such reactions have been observed within the first few weeks or month
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis carinii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
 Autoimmune disorders (such as Graves' disease) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occurs many months after initiation of treatment.
-
 Osteonecrosis
-Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
+Although the aetiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
 
 Rash and associated syndromes
@@ -117,14 +103,14 @@ Atazanavir is metabolised principally by CYP3A4.
 Co-administration of REYATAZ and medicinal products that induce CYP3A4 is not recommended (see sections 4.3 and 4.5).
 
 PDE5 inhibitors used for the treatment of erectile dysfunction: particular caution should be used when prescribing PDE5-inhibitors (sildenafil, tadalafil, or vardenafil) for the treatment of erectile dysfunction in patients receiving REYATAZ.
-Co-administration of REYATAZ with these medicinal products is expected to substantially increase their concentrations and may result in PDE5-associated adverse events such as hypotension, visual changes and priapism (see section 4.5).
+Co-administration of REYATAZ with these medicinal products is expected to substantially increase their concentrations and may result in PDE5-associated adverse reactions such as hypotension, visual changes and priapism (see section 4.5).
 
 Co-administration of voriconazole and REYATAZ with ritonavir is not recommended, unless an assessment of the benefit/risk justifies the use of voriconazole.
 
 In the majority of patients, a reduction in both voriconazole and atazanavir exposures are expected.
 In a small number of patients without a functional CYP2C19 allele, significantly increased voriconazole exposures are expected (see section 4.5).
 
-Concomitant use of REYATAZ/ritonavir and fluticasone or other glucocorticoids that are metabolized by CYP3A4 is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects, including Cushing's syndrome and adrenal suppression
+Concomitant use of REYATAZ/ritonavir and fluticasone or other glucocorticoids that are metabolised by CYP3A4 is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects, including Cushing's syndrome and adrenal suppression
 (see section 4.5).
 
 Concomitant use of salmeterol and REYATAZ may result in increased cardiovascular adverse events associated with salmeterol.
@@ -132,14 +118,10 @@ Co-administration of salmeterol and REYATAZ is not recommended
 (see section 4.5).
 
 The absorption of atazanavir may be reduced in situations where gastric pH is increased irrespective of cause.
-
 Co-administration of REYATAZ with proton pump inhibitors is not recommended (see section 4.5).
 If the combination of REYATAZ with a proton pump inhibitor is judged unavoidable, close clinical monitoring is recommended in combination with an increase in the dose of REYATAZ to 400 mg with 100 mg of ritonavir; doses of proton pump inhibitors comparable to omeprazole 20 mg should not be exceeded.
 
 Co-administration of REYATAZ with other hormonal contraceptives or oral contraceptives containing progestogens other than norgestimate or norethindrone has not been studied, and therefore should be avoided (see section 4.5).
-
-Lactose
-Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
 Paediatric population
 Safety
@@ -151,4 +133,41 @@ Cardiac monitoring is recommended based on the presence of clinical findings (e.
 
 Efficacy
 Atazanavir/ritonavir is not effective in viral strains harbouring multiple mutations of resistance.
-While in adults no benefit can be expected in patients with ≥ 4 PI mutations, in treatment experienced children even lower numbers of PI mutations may be predictive of a lack of benefit (see section 5.1).
+
+Excipients
+Lactose
+Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+
+[REYATAZ 50 mg oral powder]
+
+Hepatic impairment
+Atazanavir is primarily hepatically metabolised and increased plasma concentrations were observed in patients with hepatic impairment (see sections 4.2 and 4.3).
+
+Renal impairment
+No dosage adjustment is needed in patients with renal impairment.
+However, REYATAZ with ritonavir is not recommended in patients undergoing haemodialysis (see sections 4.2 and 5.2).
+
+QT prolongation
+Dose related asymptomatic prolongations in PR interval with REYATAZ have been observed in clinical studies.
+
+Haemophiliac patients
+There have been reports of increased bleeding, including spontaneous skin haematomas and haemarthroses, in type A and B haemophiliac patients treated with protease inhibitors.
+
+Co-administration of REYATAZ with ritonavir and medicinal products that induce CYP3A4 is not recommended (see sections 4.3 and 4.5).
+
+PDE5 inhibitors used for the treatment of erectile dysfunction: particular caution should be used when prescribing PDE5-inhibitors (sildenafil, tadalafil, or vardenafil) for the treatment of erectile dysfunction in patients receiving REYATAZ with concomitant low-dose ritonavir.
+
+Concomitant use of salmeterol and REYATAZ/ritonavir may result in increased cardiovascular adverse events associated with salmeterol.
+Co-administration of salmeterol and REYATAZ is not recommended (see section 4.5).
+
+Co-administration of REYATAZ/ritonavir with other hormonal contraceptives or oral contraceptives containing progestogens other than norgestimate has not been studied, and therefore should be avoided (see section 4.5).
+
+Phenylketonuria
+REYATAZ oral powder contains aspartame as a sweetening agent.
+Aspartame provides a source of phenylalanine and, therefore, may not be suitable for persons with phenylketonuria.
+
+Diabetic population
+REYATAZ oral powder contains 1305.15 mg of sucrose per sachet.
+For the recommended paediatric dosage, REYATAZ oral powder contains 3915.45 mg sucrose per 150 mg atazanavir, 5220.60 mg sucrose per 200 mg atazanavir, 6525.75 mg sucrose per 250 mg atazanavir, and 7830.90 mg sucrose per 300 mg atazanavir.
+This should be taken into account in patients with diabetes mellitus.
+Patients with rare hereditary problems of fructose intolerance, glucose galactose malabsorption or sucrase isomaltase insufficiency should not take this medicine.
