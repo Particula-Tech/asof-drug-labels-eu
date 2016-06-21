@@ -22,10 +22,10 @@ Patients receiving zoledronic acid 4 mg reported less increase in pain than thos
 Fewer zoledronic acid 4 mg patients suffered pathological fractures.
 The treatment effects were less pronounced in patients with blastic lesions.
 Efficacy results are provided in Table 2.
+
 In a second study including solid tumours other than breast or prostate cancer, zoledronic acid 4 mg significantly reduced the proportion of patients with an SRE, delayed the median time to first SRE by > 2 months, and reduced the skeletal morbidity rate.
 Multiple event analysis showed 30.7% risk reduction in developing SREs in the zoledronic acid 4 mg group compared with placebo.
 Efficacy results are provided in Table 3.
-
 Table 2: Efficacy results (prostate cancer patients receiving hormonal therapy)
 
 |  | Any SRE (+TIH) |  | Fractures* |  | Radiation therapy to bone |  |
@@ -44,6 +44,7 @@ Table 2: Efficacy results (prostate cancer patients receiving hormonal therapy)
 * Includes vertebral and non-vertebral fractures
 ** Accounts for all skeletal events, the total number as well as time to each event during the trial NR Not Reached
 NA Not Applicable
+
 Table 3: Efficacy results (solid tumours other than breast or prostate cancer)
 
 |  | Any SRE (+TIH) |  | Fractures* |  | Radiation therapy to bone |  |

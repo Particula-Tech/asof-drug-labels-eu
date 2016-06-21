@@ -9,7 +9,6 @@ Caution is indicated when Zometa is used with other potentially nephrotoxic medi
 Attention should also be paid to the possibility of hypomagnesaemia developing during treatment.
 
 In multiple myeloma patients, the risk of renal dysfunction may be increased when Zometa is used in combination with thalidomide.
-
 Caution is advised when Zometa is administered with anti-angiogenic medicinal products as an increase in the incidence of ONJ has been observed in patients treated concomitantly with these medicinal products.
 
 [Zometa 4 mg/5 ml concentrate for solution for infusion]

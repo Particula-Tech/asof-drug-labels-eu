@@ -34,6 +34,7 @@ In view of the potential impact of zoledronic acid on renal function, the lack o
 Hepatic insufficiency
 As only limited clinical data are available in patients with severe hepatic insufficiency, no specific recommendations can be given for this patient population.
 
+Osteonecrosis
 Osteonecrosis of the jaw
 Osteonecrosis of the jaw (ONJ) has been reported uncommonly in clinical trials and in the post-marketing setting in patients receiving Zometa.
 
@@ -54,6 +55,11 @@ For patients requiring dental procedures, there are no data available to suggest
 
 The management plan for patients who develop ONJ should be set up in close collaboration between the treating physician and a dentist or oral surgeon with expertise in ONJ.
 Temporary interruption of zoledronic acid treatment should be considered until the condition resolves and contributing risk factors are mitigated where possible.
+Osteonecrosis of the external auditory canal
+Osteonecrosis of the external auditory canal has been reported with bisphosphonates, mainly in association with long-term therapy.
+Possible risk factors for osteonecrosis of the external auditory canal include steroid use and chemotherapy and/or local risk factors such as infection or trauma.
+The possibility of osteonecrosis of the external auditory canal should be considered in patients receiving bisphosphonates who present with ear symptoms including chronic ear infections.
+
 Musculoskeletal pain
 In post-marketing experience, severe and occasionally incapacitating bone, joint, and/or muscle pain have been reported in patients taking Zometa.
 However, such reports have been infrequent.

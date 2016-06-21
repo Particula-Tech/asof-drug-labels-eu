@@ -6,7 +6,6 @@ Within three days after Zometa administration, an acute phase reaction has commo
 The following are the important identified risks with Zometa in the approved indications:
 Renal function impairment, osteonecrosis of the jaw, acute phase reaction, hypocalcaemia, atrial fibrillation, anaphylaxis, interstitial lung disease.
 The frequencies for each of these identified risks are shown in Table 1.
-
 Tabulated list of adverse reactions
 The following adverse reactions, listed in Table 1, have been accumulated from clinical studies and post-marketing reports following predominantly chronic treatment with 4 mg zoledronic acid:
 
@@ -82,11 +81,14 @@ Common: Bone pain, myalgia, arthralgia, generalised
 pain
 
 Uncommon: Muscle spasms, osteonecrosis of the jaw
+Very rare: Osteonecrosis of the external auditory canal
 
+(bisphosphonate class adverse reaction)
 Renal and urinary disorders
 
 Common: Renal impairment
 Uncommon: Acute renal failure, haematuria, proteinuria
+Rare: Acquired Fanconi syndrome
 
 General disorders and administration site conditions
 
@@ -122,7 +124,6 @@ Osteonecrosis of the jaw
 Cases of osteonecrosis of the jaw have been reported, predominantly in cancer patients treated with medicinal products that inhibit bone resorption, such as Zometa (see section 4.4).
 Many of these patients were also receiving chemotherapy and corticosteroids and had signs of local infection including osteomyelitis.
 The majority of the reports refer to cancer patients following tooth extractions or other dental surgeries.
-
 Atrial fibrillation
 In one 3-year, randomised, double-blind controlled trial that evaluated the efficacy and safety of zoledronic acid 5 mg once yearly vs. placebo in the treatment of postmenopausal osteoporosis (PMO), the overall incidence of atrial fibrillation was 2.5% (96 out of 3,862) and 1.9% (75 out of 3,852) in patients receiving zoledronic acid 5 mg and placebo, respectively.
 The rate of atrial fibrillation serious adverse events was 1.3% (51 out of 3,862) and 0.6% (22 out of 3,852) in patients receiving zoledronic acid 5 mg and placebo, respectively.
