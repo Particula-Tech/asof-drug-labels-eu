@@ -18,7 +18,6 @@ Patients who are anti-JCV antibody positive are at an increased risk of developi
 Patients who have all three risk factors for PML (i.e., are anti-JCV antibody positive and have received more than 2 years of TYSABRI therapy, and have received prior immunosuppressant therapy) have a significantly higher risk of PML.
 
 In anti-JCV antibody positive TYSABRI treated patients who have not used prior immunosuppressants the level of anti-JCV antibody response (index) is associated with the level of risk for PML.
-
 In patients considered at high risk treatment with TYSABRI should only be continued if the benefits outweigh the risks.
 For the estimation of PML risk in the different patient subgroups, please refer to the Physician Information and Management Guidelines.
 
@@ -48,11 +47,14 @@ or
 - Patients with a high anti-JCV antibody index who have received more than 2 years of TYSABRI therapy and without prior history of immunosuppressant therapy.
 
 Current evidence suggests that the risk of PML is low at an index equal to or below 0.9 and increases substantially above 1.5 for patients who have been on treatment with TYSABRI for longer than 2 years (see the Physician Information and Management Guidelines for further information).
+
+No studies have been performed to evaluate the efficacy and safety of TYSABRI when switching patients from DMTs with an immunosuppressant effect.
+It is unknown if patients switching from these therapies to TYSABRI have an increased risk of PML, therefore these patients should be monitored more frequently (i.e. similarly to patients switching from immunosuppressants to TYSABRI).
+
 PML should be considered as a differential diagnosis in any MS patient taking TYSABRI presenting with neurological symptoms and/or new brain lesions in MRI.
 Cases of asymptomatic PML based on MRI and positive JCV DNA in the cerebrospinal fluid have been reported.
 
 Physicians should refer to the Physician Information and Management Guidelines for further information on managing the risk of PML in TYSABRI-treated patients.
-
 If PML or JCV GCN is suspected, further dosing must be suspended until PML has been excluded.
 
 The clinician should evaluate the patient to determine if the symptoms are indicative of neurological dysfunction and, if so, whether these symptoms are typical of MS or possibly suggestive of PML or JCV GCN.
@@ -86,7 +88,6 @@ If herpes encephalitis or meningitis occurs, the medicinal product should be dis
 
 Prescribers should be aware of the possibility that other opportunistic infections may occur during TYSABRI therapy and should include them in the differential diagnosis of infections that occur in TYSABRI-treated patients.
 If an opportunistic infection is suspected, dosing with TYSABRI is to be suspended until such infections can be excluded through further evaluations.
-
 If a patient receiving TYSABRI develops an opportunistic infection, dosing of the medicinal product must be permanently discontinued.
 
 Educational guidance
@@ -112,16 +113,40 @@ Discontinue administration of TYSABRI and initiate appropriate therapy at the fi
 
 Patients who have experienced a hypersensitivity reaction must be permanently discontinued from treatment with TYSABRI.
 
-Concurrent or prior treatment with immunosuppressants
+Concurrent treatment with immunosuppressants
 
 The safety and efficacy of TYSABRI in combination with other immunosuppressive and antineoplastic therapies have not been fully established.
 Concurrent use of these agents with TYSABRI may increase the risk of infections, including opportunistic infections, and is contraindicated (see section 4.3).
 
-Patients with a treatment history of immunosuppressant medicinal products are at increased risk for PML.
-Care should be taken with patients who have previously received immunosuppressants to allow sufficient time for immune function recovery to occur.
-Physicians must evaluate each individual case to determine whether there is evidence of an immunocompromised state prior to commencing treatment with TYSABRI (see section 4.3).
 In Phase 3 MS clinical trials, concomitant treatment of relapses with a short course of corticosteroids was not associated with an increased rate of infection.
 Short courses of corticosteroids can be used in combination with TYSABRI.
+
+Prior treatment with immunosuppressive or immunomodulatory therapies
+
+Patients with a treatment history of immunosuppressant medications are at increased risk for PML.
+No studies have been performed to evaluate the efficacy and safety of TYSABRI when switching patients from DMTs with an immunosuppressant effect.
+It is unknown if patients switching from these therapies to TYSABRI have an increased risk of PML, therefore these patients should be monitored more frequently (i.e. similarly to patients switching from immunosuppressants to TYSABRI, see MRI screening for PML).
+Care should be taken with patients who have previously received immunosuppressants to allow sufficient time for immune function recovery to occur.
+Physicians must evaluate each individual case to determine whether there is evidence of an immunocompromised state prior to commencing treatment with TYSABRI (see section 4.3).
+When switching patients from another DMT to TYSABRI, the half-life and mode of action of the other therapy must be considered in order to avoid an additive immune effect whilst at the same time minimising the risk of disease reactivation.
+A Complete Blood Count (CBC, including lymphocytes) is recommended prior to initiating TYSABRI to ensure that immune effects of the previous therapy (i.e. cytopenia) have resolved.
+
+Patients can switch directly from beta interferon or glatiramer acetate to TYSABRI providing there are no signs of relevant treatment-related abnormalities e.g. neutropenia and, lymphopenia.
+
+When switching from dimethyl fumarate, the washout period should be sufficient for lymphocyte count to recover before treatment with TYSABRI is started.
+
+Following discontinuation of fingolimod, lymphocyte count progressively returns to normal range within 1 to 2 months after stopping therapy.
+The washout period should be sufficient for lymphocyte count to recover before treatment with TYSABRI is started.
+
+Teriflunomide is eliminated slowly from the plasma.
+Without an accelerated elimination procedure, clearance of teriflunomide from plasma can take from several months up to 2 years.
+An accelerated elimination procedure as defined in the teriflunomide Summary of Product Characteristics is recommended or alternatively washout period should not be shorter than 3.5 months.
+Caution regarding potential concomitant immune effects is required when switching patients from teriflunomide to TYSABRI.
+
+Alemtuzumab has profound prolonged immunosuppressive effects.
+As the actual duration of these effects is unknown, initiating treatment with TYSABRI after alemtuzumab is not recommended unless the benefits clearly outweigh the risks for the individual patient.
+
+.
 
 Immunogenicity
 
@@ -138,7 +163,6 @@ In some instances, the reaction reoccurred when TYSABRI was reintroduced.
 Some patients with a past medical history of an abnormal liver test have experienced an exacerbation of abnormal liver test while on TYSABRI.
 Patients should be monitored as appropriate for impaired liver function, and be instructed to contact their physician in case signs and symptoms suggestive of liver injury occur, such as jaundice and vomiting.
 In cases of significant liver injury TYSABRI should be discontinued.
-
 Stopping TYSABRI therapy
 
 If a decision is made to stop treatment with natalizumab, the physician needs to be aware that natalizumab remains in the blood, and has pharmacodynamic effects (e.g increased lymphocyte counts) for approximately 12 weeks following the last dose.

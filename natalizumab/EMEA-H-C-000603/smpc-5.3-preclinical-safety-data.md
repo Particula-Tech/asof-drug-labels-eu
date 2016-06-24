@@ -1,7 +1,6 @@
 # 5.3 Preclinical safety data
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity and genotoxicity.
-
 Consistent with the pharmacological activity of natalizumab, altered trafficking of lymphocytes was seen as white blood cell increases as well as increased spleen weights in most in vivo studies.
 These changes were reversible and did not appear to have any adverse toxicological consequences.
 
@@ -9,6 +8,7 @@ In studies conducted in mice, growth and metastasis of melanoma and lymphoblasti
 
 No clastogenic or mutagenic effects of natalizumab were observed in the Ames or human chromosomal aberration assays.
 Natalizumab showed no effects on in vitro assays of α4-integrin-positive tumour line proliferation or cytotoxicity.
+
 Reductions in female guinea pig fertility were observed in one study at doses in excess of the human dose; natalizumab did not affect male fertility.
 
 The effect of natalizumab on reproduction was evaluated in 5 studies, 3 in guinea pigs and 2 in cynomolgus monkeys.

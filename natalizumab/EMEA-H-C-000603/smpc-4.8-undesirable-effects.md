@@ -43,6 +43,7 @@ These occurred in 23.1% of MS patients treated with natalizumab (placebo: 18.7%)
 Events reported more commonly with natalizumab than with placebo included dizziness, nausea, urticaria and rigors.
 
 Hypersensitivity reactions
+
 In 2-year controlled clinical trials in MS patients, hypersensitivity reactions occurred in up to 4% of patients.
 Anaphylactic/anaphylactoid reactions occurred in less than 1% of patients receiving TYSABRI.
 Hypersensitivity reactions usually occurred during the infusion or within the 1-hour period after the completion of the infusion (See section 4.4).
@@ -66,7 +67,6 @@ The nature of the infections was generally similar in natalizumab- and placebo-t
 A case of cryptosporidium diarrhoea was reported in MS clinical trials.
 In other clinical trials, cases of additional opportunistic infections have been reported, some of which were fatal.
 The majority of patients did not interrupt natalizumab therapy during infections and recovery occurred with appropriate treatment.
-
 In clinical trials, herpes infections (Varicella-Zoster virus, Herpes-simplex virus) occurred slightly more frequently in natalizumab-treated patients than in placebo-treated patients.
 In post marketing experience,serious, life-threatening, and sometimes fatal cases of encephalitis and meningitis caused by herpes simplex or varicella zoster have been reported in multiple sclerosis patients receiving TYSABRI.
 The duration of treatment with TYSABRI prior to onset ranged from a few months to several years (see section 4.4).
@@ -83,6 +83,7 @@ Spontaneous cases of serious liver injuries, increased liver enzymes, hyperbilir
 Anaemia and haemolytic anaemia
 
 Rare, serious cases of anaemia and haemolytic anaemia have been reported in patients treated with TYSABRI in post-marketing observational studies.
+
 Malignancies
 
 No differences in incidence rates or the nature of malignancies between natalizumab- and placebo-treated patients were observed over 2 years of treatment.

@@ -7,9 +7,6 @@ After 2 years of treatment, patients should be re-informed about the risks of TY
 
 Resources for the management of hypersensitivity reactions and access to MRI should be available.
 
-Patients can switch directly from beta interferon or glatiramer acetate to natalizumab providing there are no signs of relevant treatment-related abnormalities e.g. neutropenia.
-If there are signs of treatment-related abnormalities these must return to normal before treatment with natalizumab is started.
-
 Some patients may have been exposed to immunosuppressive medicinal products (e.g. mitoxantrone, cyclophosphamide, azathioprine).
 These medicinal products have the potential to cause prolonged immunosuppression, even after dosing is discontinued.
 Therefore the physician must confirm that such patients are not immunocompromised before starting treatment with TYSABRI (see also section 4.4).
@@ -33,6 +30,7 @@ Special populations
 Elderly
 
 TYSABRI is not recommended for use in patients aged over 65 due to a lack of data in this population.
+
 Renal and hepatic impairment
 
 Studies have not been conducted to examine the effects of renal or hepatic impairment.
@@ -44,7 +42,6 @@ Paediatric population
 TYSABRI is contraindicated in children and adolescents below the age of 18 years (see section 4.3).
 
 Method of administration
-
 TYSABRI is for intravenous use.
 
 For instructions on dilution of the medicinal product before administration, see section 6.6.
