@@ -64,6 +64,9 @@ Rare: Jaundice
 Skin and subcutaneous tissue Common: Rash, pruritus
 
 disorders Uncommon: Urticaria
+
+Not known*: Acute generalised exanthematous pustulosis
+
 Musculoskeletal and Common: Limb pain, serum creatine phosphokinase (CPK)2
 connective tissue disorders increased
 

@@ -80,6 +80,7 @@ Following administration of a single 4 mg/kg or 6 mg/kg intravenous dose of dapt
 Based on pharmacokinetic data and modelling, the daptomycin AUC during the first day after administration of a 6 mg/kg dose to patients on HD or CAPD was 2-fold higher than that observed in patients with normal renal function who received the same dose.
 On the second day after administration of a 6 mg/kg dose to HD and CAPD patients the daptomcyin AUC was approximately 1.3-fold higher than that observed after a second 6 mg/kg dose in patients with normal renal function.
 On this basis, it is recommended that patients on HD or CAPD receive daptomycin once every 48 hours at the dose recommended for the type of infection being treated (see section 4.2).
+
 Hepatic impairment
 The pharmacokinetics of daptomycin is not altered in subjects with moderate hepatic impairment (Child-Pugh B classification of hepatic impairment) compared with healthy volunteers matched for gender, age and weight following a single 4 mg/kg dose.
 No dosage adjustment is necessary when administering daptomycin in patients with moderate hepatic impairment.

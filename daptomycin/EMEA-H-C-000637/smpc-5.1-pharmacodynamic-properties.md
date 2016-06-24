@@ -17,7 +17,6 @@ Strains with decreased susceptibility to daptomycin have been reported especiall
 In particular, there have been reports of treatment failures in patients infected with Staphylococcus aureus, Enterococcus faecalis or Enterococcus faecium, including bacteraemic patients, that have been associated with the selection of organisms with reduced susceptibility or frank resistance to daptomycin during therapy.
 
 The mechanism(s) of daptomycin resistance is (are) not fully understood.
-
 Breakpoints
 Minimum inhibitory concentration (MIC) breakpoint established by the European Committee on Antimicrobial Susceptibility Testing (EUCAST) for Staphylococci and Streptococci (except S. pneumoniae) are Susceptible ≤1 mg/l and Resistant > 1 mg/l.
 
