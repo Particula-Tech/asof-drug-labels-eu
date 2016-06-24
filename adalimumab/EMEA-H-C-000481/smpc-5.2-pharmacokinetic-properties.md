@@ -58,6 +58,8 @@ For patients who stayed on their randomised therapy, the mean (±SD) adalimumab 
 In patients with ulcerative colitis, a loading dose of 160 mg Humira on Week 0 followed by 80 mg Humira on Week 2 achieves serum adalimumab trough concentrations of approximately 12 µg/ml during the induction period.
 Mean steady-state trough levels of approximately 8 µg/ml were observed in ulcerative colitis patients who received a maintenance dose of 40 mg Humira every other week.
 
+In patients with uveitis, a loading dose of 80 mg adalimumab on Week 0 followed by 40 mg adalimumab every other week starting at Week 1, resulted in mean steady-state concentrations of approximately 8 to 10 µg/mL.
+
 Population pharmacokinetic analyses with data from over 1,300 RA patients revealed a trend toward higher apparent clearance of adalimumab with increasing body weight.
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]

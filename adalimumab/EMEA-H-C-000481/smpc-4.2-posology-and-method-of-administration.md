@@ -113,6 +113,7 @@ A 40 mg pen and a 40 mg prefilled syringe are also available for patients to adm
 [Humira 40 mg solution for injection in pre-filled syringe]
 
 Humira treatment should be initiated and supervised by specialist physicians experienced in the diagnosis and treatment of conditions for which Humira is indicated.
+Ophthalmologists are advised to consult with an appropriate specialist before initiation of treatment with Humira (see section 4.4).
 
 During treatment with Humira, other concomitant therapies (e.g., corticosteroids and/or immunomodulatory agents) should be optimised.
 
@@ -136,7 +137,6 @@ There may be a need for dose interruption, for instance before surgery or if a s
 Available data suggest that re-introduction of Humira after discontinuation for 70 days or longer resulted in the same magnitudes of clinical response and similar safety profile as before dose interruption.
 
 Ankylosing spondylitis, axial spondyloarthritis without radiographic evidence of AS and psoriatic arthritis
-
 The recommended dose of Humira for patients with ankylosing spondylitis, axial spondyloarthritis without radiographic evidence of AS and for patients with psoriatic arthritis is 40 mg adalimumab administered every other week as a single dose via subcutaneous injection.
 
 Psoriasis
@@ -171,16 +171,25 @@ Alternatively, if a patient has stopped Humira and signs and symptoms of disease
 There is little experience from re-administration after more than 8 weeks since the previous dose.
 
 During maintenance treatment, corticosteroids may be tapered in accordance with clinical practice guidelines.
-
 Some patients who experience decrease in their response may benefit from an increase in dosing frequency to 40 mg Humira every week.
 
 Some patients who have not responded by Week 4 may benefit from continued maintenance therapy through Week 12.
+
 Ulcerative colitis
 
 The recommended Humira induction dose regimen for adult patients with moderate to severe ulcerative colitis is 160 mg at Week 0 (dose can be administered as four injections in one day or as two injections per day for two consecutive days) and 80 mg at Week 2.
 
 Available data suggest that clinical response is usually achieved within 2-8 weeks of treatment.
 Humira therapy should not be continued in patients failing to respond within this time period.
+
+Uveitis
+
+The recommended dose of Humira for adult patients with uveitis is an initial dose of 80 mg, followed by 40 mg given every other week starting one week after the initial dose.
+There is limited experience in the initiation of treatment with Humira alone.
+Treatment with Humira can be initiated in combination with corticosteroids and/or with other non-biologic immunomodulatory agents.
+Concomitant corticosteroids may be tapered in accordance with clinical practice starting two weeks after initiating treatment with Humira.
+
+It is recommended that the benefit and risk of continued long-term treatment should be evaluated on a yearly basis (see section 5.1).
 
 Elderly
 
@@ -202,10 +211,13 @@ Paediatric ulcerative colitis
 
 The safety and efficacy of Humira in children aged 4-17 years have not yet been established.
 There is no relevant use of Humira in children aged <4 years for this indication.
-
 Psoriatic arthritis and axial spondyloarthritis including ankylosing spondylitis
 
 There is no relevant use of Humira in the paediatric population for the indications of ankylosing spondylitis and psoriatric arthritis.
+
+Paediatric uveitis
+
+The safety and efficacy of Humira in children aged 2-17 years have not yet been established.
 
 A 40 mg paediatric vial is available for patients who need to administer less than the full 40 mg dose.
 

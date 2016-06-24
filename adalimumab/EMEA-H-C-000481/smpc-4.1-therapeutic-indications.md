@@ -64,6 +64,10 @@ Ulcerative colitis
 
 Humira is indicated for treatment of moderately to severely active ulcerative colitis in adult patients who have had an inadequate response to conventional therapy including corticosteroids and 6-mercaptopurine (6-MP) or azathioprine (AZA), or who are intolerant to or have medical contraindications for such therapies.
 
+Uveitis
+
+Humira is indicated for the treatment of non-infectious intermediate, posterior and panuveitis in adult patients who have had an inadequate response to corticosteroids, in patients in need of corticosteroid-sparing, or in whom corticosteroid treatment is inappropriate.
+
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
 (all sentences already above)

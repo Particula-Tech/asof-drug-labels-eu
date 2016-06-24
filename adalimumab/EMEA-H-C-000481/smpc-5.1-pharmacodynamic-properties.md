@@ -463,6 +463,20 @@ The results for the 40 mg every other week dose are summarised in Table 4.
 
 ACR Responses in Placebo-Controlled Trials
 
+Response RA Study Ia** RA Study IIa** RA Study IIIa**
+Placebo/ Humirab/ MTXc Placebo Humirab Placebo/ Humirab/ MTXc
+MTXc n=63 n=110 n=113 MTXc n=207
+n=60 n=200
+ACR 20
+6 months 13.3% 65.1% 19.1% 46.0% 29.5% 63.3%
+12 months NA NA NA NA 24.0% 58.9%
+ACR 50
+6 months 6.7% 52.4% 8.2% 22.1% 9.5% 39.1%
+12 months NA NA NA NA 9.5% 41.5%
+ACR 70
+6 months 3.3% 23.8% 1.8% 12.4% 2.5% 20.8%
+12 months NA NA NA NA 4.5% 23.2%
+
 In RA study V with early rheumatoid arthritis patients who were methotrexate naïve, combination therapy with Humira and methotrexate led to faster and significantly greater ACR responses than methotrexate monotherapy and Humira monotherapy at Week 52 and responses were sustained at Week 104 (see Table 5).
 
 ACR Responses in RA Study V
@@ -780,6 +794,63 @@ During 52 weeks of studies UC-I and UC-II, lower rates of all-cause hospitalisat
 The number of all cause hospitalisations in the adalimumab treatment group was 0.18 per patient year vs. 0.26 per patient year in the placebo group and the corresponding figures for UC-related hospitalisations were 0.12 per patient year vs. 0.22 per patient year.
 
 In study UC-II, treatment with adalimumab resulted in improvements in the Inflammatory Bowel Disease Questionnaire (IBDQ) score.
+Uveitis
+
+The safety and efficacy of Humira were assessed in adult patients with non-infectious intermediate, posterior, and panuveitis, excluding patients with isolated anterior uveitis, in two randomised, double-masked, placebo-controlled studies (UV I and II).
+Patients received placebo or Humira at an initial dose of 80 mg followed by 40 mg every other week starting one week after the initial dose.
+Concomitant stable doses of one non-biologic immunosuppressant were permitted.
+
+Study UV I evaluated 217 patients with active uveitis despite treatment with corticosteroids (oral prednisone at a dose of 10 to 60 mg/day).
+All patients received a 2-week standardised dose of prednisone 60 mg/day at study entry followed by a mandatory taper schedule, with complete corticosteroid discontinuation by Week 15.
+
+Study UV II evaluated 226 patients with inactive uveitis requiring chronic corticosteroid treatment (oral prednisone 10 to 35 mg/day) at baseline to control their disease.
+Patients subsequently underwent a mandatory taper schedule, with complete corticosteroid discontinuation by Week 19.
+
+The primary efficacy endpoint in both studies was ´time to treatment failure´.
+Treatment failure was defined by a multi-component outcome based on inflammatory chorioretinal and/or inflammatory retinal vascular lesions, anterior chamber (AC) cell grade, vitreous haze (VH) grade and best corrected visual acuity (BCVA).
+
+Results from both studies demonstrated statistically significant reduction of the risk of treatment failure in patients treated with Humira versus patients receiving placebo (See Table 24).
+Both studies demonstrated an early and sustained effect of Humira on the treatment failure rate versus placebo (see Figure 1).
+
+Table 24
+Time to Treatment Failure in Studies UV I and UV II
+
+Analysis N Failure Median Time to HRa CI 95% P Value b
+Treatment N (%) Failure (months) for HRa
+
+Time to Treatment Failure At or After Week 6 in Study UV I
+Primary analysis (ITT)
+
+Placebo 107 84 (78.5) 3.0 -- -- --
+Adalimumab 110 60 (54.5) 5.6 0.50 0.36, 0.70 < 0.001
+
+Time to Treatment Failure At or After Week 2 in Study UV II
+
+Placebo 111 61 (55.0) 8.3 -- -- --
+Adalimumab 115 45 (39.1) NEc 0.57 0.39, 0.84 0.004
+
+Note: Treatment failure at or after Week 6 (Study UV I), or at or after Week 2 (Study UV II), was counted as event.
+Drop outs due to reasons other than treatment failure were censored at the time of dropping out.
+a HR of adalimumab vs placebo from proportional hazards regression with treatment as factor.
+b 2-sided P value from log rank test.
+c NE = not estimable.
+Fewer than half of at-risk subjects had an event.
+Figure 1: Kaplan-Meier Curves Summarizing Time to Treatment Failure on or after Week 6 (Study UV I) or Week 2 (Study UV II)
+
+TIME (MONTHS)
+
+Study UV I Treatment Placebo Adalimumab
+
+Study UV II Treatment Placebo Adalimumab
+
+Note: P# = Placebo (Number of Events/Number at Risk); A# = HUMIRA (Number of Events/Number at Risk).
+
+In Study UV I statistically significant differences in favour of adalimumab versus placebo were observed for each component of treatment failure.
+In Study UV II, statistically significant differences were observed for visual acuity only, but the other components were numerically in favour of adalimumab.
+
+Patient reported outcomes regarding vision-related functioning were measured in both clinical studies, using the NEI VFQ-25.
+Humira was numerically favoured for the majority of subscores with statistically significant mean differences for general vision, ocular pain, near vision, mental health, and total score in Study UV I, and for general vision and mental health in Study UV II.
+Vision related effects were not numerically in favour of Humira for colour vision in Study UVI and for colour vision, peripheral vision and near vision in Study UV II.
 
 In patients with psoriatic arthritis, anti-adalimumab antibodies were identified in 38/376 subjects (10%) treated with adalimumab.
 In patients not given concomitant methotrexate, the incidence was 13.5% (24/178 subjects), compared to 7% (14 of 198 subjects) when adalimumab was used as add-on to methotrexate.
@@ -793,11 +864,11 @@ In adult plaque psoriasis patients on long term adalimumab monotherapy who parti
 
 In patients with moderate to severe hidradenitis suppurativa, anti-adalimumab antibodies were identified in 10/99 subjects (10.1%) treated with adalimumab.
 
+In patients with non-infectious uveitis, anti-adalimumab antibodies were identified in 4.8% (12/249) of patients treated with adalimumab.
+
 Paediatric population
 
-The European Medicines Agency has waived the obligation to submit the results of studies with Humira in all subsets of the paediatric population in rheumatoid arthritis, psoriatic arthritis and ankylosing spondylitis, see section 4.2 for information on paediatric use.
-
-The European Medicines Agency has deferred the obligation to submit the results of the studies with Humira in one or more subsets of the paediatric population in ulcerative colitis and hidradenitis suppurativa, see section 4.2 for information on paediatric use.
+The European Medicines Agency has deferred the obligation to submit the results of the studies with Humira in one or more subsets of the paediatric population in ulcerative colitis, hidradenitis suppurativa and non-infectious uveitis, see section 4.2 for information on paediatric use.
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
@@ -971,6 +1042,10 @@ Table 21
 Clinical response is decrease from baseline in Mayo score ≥ 3 points and ≥ 30% plus a decrease in the rectal bleeding subscore [RBS] ≥ 1 or an absolute RBS of 0 or 1;
 *p < 0.05 for Humira vs. placebo pairwise comparison of proportions
 **p < 0.001 for Humira vs. placebo pairwise comparison of proportions a Of those receiving corticosteroids at baseline
+
+Results from both studies demonstrated statistically significant reduction of the risk of treatment failure in patients treated with Humira versus patients receiving placebo (See Table 22).
+
+Table 22
 
 [Humira 40 mg solution for injection in pre-filled pen (SmPC 6)]
 

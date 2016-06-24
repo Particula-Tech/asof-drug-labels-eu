@@ -70,7 +70,9 @@ In patients who develop HBV reactivation, Humira should be stopped and effective
 Neurological events
 
 TNF-antagonists including Humira have been associated in rare instances with new onset or exacerbation of clinical symptoms and/or radiographic evidence of central nervous system demyelinating disease including multiple sclerosis and optic neuritis, and peripheral demyelinating disease, including Guillain-Barré syndrome.
-Prescribers should exercise caution in considering the use of Humira in patients with pre-existing or recent-onset central or peripheral nervous system demyelinating disorders.
+Prescribers should exercise caution in considering the use of Humira in patients with pre-existing or recent-onset central or peripheral nervous system demyelinating disorders; discontinuation of Humira should be considered if any of these disorders develop.
+There is a known association between intermediate uveitis and central demyelinating disorders.
+Neurologic evaluation should be performed in patients with non-infectious intermediate uveitis prior to the initiation of Humira therapy and regularly during treatment to assess for pre-existing or developing central demyelinating disorders.
 
 Allergic reactions
 
@@ -84,7 +86,6 @@ Immunosuppression
 In a study of 64 patients with rheumatoid arthritis that were treated with Humira, there was no evidence of depression of delayed-type hypersensitivity, depression of immunoglobulin levels, or change in enumeration of effector T-, B, - NK-cells, monocyte/macrophages, and neutrophils.
 
 Malignancies and lymphoproliferative disorders
-
 In the controlled portions of clinical trials of TNF-antagonists, more cases of malignancies including lymphoma have been observed among patients receiving a TNF-antagonist compared with control patients.
 However, the occurrence was rare.
 In the post marketing setting, cases of leukemia have been reported in patients treated with a TNF-antagonist.
@@ -122,6 +123,7 @@ Rare reports of pancytopaenia including aplastic anaemia have been reported with
 Adverse events of the haematologic system, including medically significant cytopoenia (e.g. thrombocytopaenia, leucopaenia) have been reported with Humira.
 All patients should be advised to seek immediate medical attention if they develop signs and symptoms suggestive of blood dyscrasias (e.g. persistent fever, bruising, bleeding, pallor) while on Humira.
 Discontinuation of Humira therapy should be considered in patients with confirmed significant haematologic abnormalities.
+
 Vaccinations
 
 Similar antibody responses to the standard 23-valent pneumococcal vaccine and the influenza trivalent virus vaccination were observed in a study in 226 adult subjects with rheumatoid arthritis who were treated with adalimumab or placebo.
@@ -169,7 +171,7 @@ Available data suggest that Humira does not worsen or cause strictures.
 
 Elderly
 
-The frequency of serious infections among Humira treated subjects over 65 years of age (3.6%) was higher than for those under 65 years of age (1.4%).
+The frequency of serious infections among Humira treated subjects over 65 years of age (3.7%) was higher than for those under 65 years of age (1.5%).
 Some of those had a fatal outcome.
 Particular attention regarding the risk for infection should be paid when treating the elderly.
 
@@ -196,7 +198,6 @@ Melanoma and Merkel cell carcinoma have been reported in patients treated with T
 [Humira 40 mg solution for injection in pre-filled pen]
 
 These infections have not consistently been recognised in patient taking TNF-antagonists and this has resulted in delays in appropriate treatment, sometimes resulting in fatal outcomes.
-
 For patients who develop the signs and symptoms such as fever, malaise, weight loss, sweats, cough, dyspnea, and/or pulmonary infiltrates or other serious systemic illness with or without concomitant shock an invasive fungal infection should be suspected and administration of Humira should be promptly discontinued, Diagnosis and administration of empiric antifungal therapy in these patients should be made in consultation with a physician with expertise in the care of patients with invasive fungal infections.
 
 Rare reports of pancytopaenia including aplastic anaemia have been reported with TNF antagonists.
