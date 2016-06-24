@@ -10,14 +10,14 @@ A no-effect level for these findings was found at an exposure 6-fold the clinica
 Sitagliptin has not been demonstrated to be genotoxic in preclinical studies.
 Sitagliptin was not carcinogenic in mice.
 In rats, there was an increased incidence of hepatic adenomas and carcinomas at systemic exposure levels 58 times the human exposure level.
-Since hepatotoxicity has been shown to correlate with induction of hepatic neoplasia in rats, this increased incidence of hepatic tumors in rats was likely secondary to chronic hepatic toxicity at this high dose.
+Since hepatotoxicity has been shown to correlate with induction of hepatic neoplasia in rats, this increased incidence of hepatic tumours in rats was likely secondary to chronic hepatic toxicity at this high dose.
 Because of the high safety margin (19-fold at this no-effect level), these neoplastic changes are not considered relevant for the situation in humans.
 
 No adverse effects upon fertility were observed in male and female rats given sitagliptin prior to and throughout mating.
 
 In a pre-/postnatal development study performed in rats sitagliptin showed no adverse effects.
 
-Reproductive toxicity studies showed a slight treatment-related increased incidence of fetal rib malformations (absent, hypoplastic and wavy ribs) in the offspring of rats at systemic exposure levels more than 29 times the human exposure levels.
+Reproductive toxicity studies showed a slight treatment-related increased incidence of foetal rib malformations (absent, hypoplastic and wavy ribs) in the offspring of rats at systemic exposure levels more than 29 times the human exposure levels.
 Maternal toxicity was seen in rabbits at more than 29 times the human exposure levels.
 Because of the high safety margins, these findings do not suggest a relevant risk for human reproduction.
 Sitagliptin is secreted in considerable amounts into the milk of lactating rats (milk/plasma ratio: 4:1).

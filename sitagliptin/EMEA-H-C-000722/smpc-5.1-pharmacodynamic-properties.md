@@ -19,7 +19,7 @@ Further, GLP-1 does not impair the normal glucagon response to hypoglycaemia.
 The activity of GLP-1 and GIP is limited by the DPP-4 enzyme, which rapidly hydrolyzes the incretin hormones to produce inactive products.
 Sitagliptin prevents the hydrolysis of incretin hormones by DPP-4, thereby increasing plasma concentrations of the active forms of GLP-1 and GIP.
 By enhancing active incretin levels, sitagliptin increases insulin release and decreases glucagon levels in a glucose-dependent manner.
-In patients with type 2 diabetes with hyperglycaemia, these changes in insulin and glucagon levels lead to lower hemoglobin A1c (HbA1c) and lower fasting and postprandial glucose concentrations.
+In patients with type 2 diabetes with hyperglycaemia, these changes in insulin and glucagon levels lead to lower haemoglobin A1c (HbA1c) and lower fasting and postprandial glucose concentrations.
 The glucose-dependent mechanism of sitagliptin is distinct from the mechanism of sulphonylureas, which increase insulin secretion even when glucose levels are low and can lead to hypoglycaemia in patients with type 2 diabetes and in normal subjects.
 Sitagliptin is a potent and highly selective inhibitor of the enzyme DPP-4 and does not inhibit the closely-related enzymes DPP-8 or DPP-9 at therapeutic concentrations.
 
@@ -107,7 +107,7 @@ Patients were instructed to titrate their insulin glargine dose based on fingers
 At Week 24, the increase in daily insulin dose was 19 IU/day in patients treated with sitagliptin and 24 IU/day in patients treated with placebo.
 The reduction in HbA1c in patients treated with sitagliptin and insulin (with or without metformin) was -1.31 % compared to -0.87 % in patients treated with placebo and insulin (with or without metformin), a difference of -0.45 % [95 % CI: -0.60, -0.29].
 The incidence of hypoglycaemia was 25.2 % in patients treated with sitagliptin and insulin (with or without metformin) and 36.8 % in patients treated with placebo and insulin (with or without metformin).
-The difference was mainly due to a higher percentage of patients in the placebo group experiencing 3 or more episodes of hypoglycaemia (9.4 vs. 19.2 %).
+The difference was mainly due to a higher percentage of patients in the placebo group experiencing 3 or more episodes of hypoglycaemia (9.4 vs. 19.1 %).
 There was no difference in the incidence of severe hypoglycaemia.
 
 A study comparing sitagliptin at 25 or 50 mg once daily to glipizide at 2.5 to 20 mg/day was conducted in patients with moderate to severe renal impairment.
@@ -124,6 +124,42 @@ The incidence of hypoglycaemia was not significantly different between the treat
 
 In another study involving 91 patients with type 2 diabetes and chronic renal impairment (creatinine clearance < 50 ml/min), the safety and tolerability of treatment with sitagliptin at 25 or 50 mg once daily were generally similar to placebo.
 In addition, after 12 weeks, the mean reductions in HbA1c (sitagliptin -0.59 %; placebo -0.18 %) and FPG (sitagliptin -25.5 mg/dL; placebo -3.0 mg/dL) were generally similar to those observed in other monotherapy studies in patients with normal renal function (see section 5.2).
+
+The TECOS was a randomized study in 14,671 patients in the intention-to-treat population with an HbA1c of ≥6.5 to 8.0 % with established CV disease who received sitagliptin (7,332) 100 mg daily (or 50 mg daily if the baseline eGFR was ≥30 and < 50 mL/min/1.73 m2) or placebo (7,339) added to usual care targeting regional standards for HbA1c and CV risk factors.
+Patients with an eGFR
+< 30 mL/min/1.73 m2 were not to be enrolled in the study.
+The study population included 2,004 patients ≥75 years of age and 3,324 patients with renal impairment
+(eGFR < 60 mL/min/1.73 m2).
+
+Over the course of the study, the overall estimated mean (SD) difference in HbA1c between the sitagliptin and placebo groups was 0.29 % (0.01), 95 % CI (-0.32, -0.27); p < 0.001.
+The primary cardiovascular endpoint was a composite of the first occurrence of cardiovascular death, nonfatal myocardial infarction, nonfatal stroke, or hospitalization for unstable angina.
+Secondary cardiovascular endpoints included the first occurrence of cardiovascular death, nonfatal myocardial infarction, or nonfatal stroke; first occurrence of the individual components of the primary composite; all-cause mortality; and hospital admissions for congestive heart failure.
+
+After a median follow up of 3 years, sitagliptin, when added to usual care, did not increase the risk of major adverse cardiovascular events or the risk of hospitalization for heart failure compared to usual care without sitagliptin in patients with type 2 diabetes (Table 3).
+
+Table 3.
+Rates of Composite Cardiovascular Outcomes and Key Secondary Outcomes
+
+|  | Sitagliptin 100 mg |  | Placebo |  | Hazard Ratio (95% CI) | p-value† |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | N (%) | Incidenc e rate per 100 patient-years* | N (%) | Incidence rate per 100 patient-years* |  |  |
+| Analysis in the Intention-to-Treat Population |  |  |  |  |  |  |
+| Number of patients | 7,332 |  | 7,339 |  | 0.98 (0.89–1.08) | <0.001 |
+| Primary Composite Endpoint (Cardiovascular death, nonfatal myocardial infarction, nonfatal stroke, or hospitalization for unstable angina) | 839 (11.4) | 4.1 | 851 (11.6) | 4.2 |  |  |
+| Secondary Composite Endpoint (Cardiovascular death, nonfatal myocardial infarction, or nonfatal stroke) | 745 (10.2) | 3.6 | 746 (10.2) | 3.6 | 0.99 (0.89–1.10) | <0.001 |
+| Secondary Outcome |  |  |  |  |  |  |
+| Cardiovascular death | 380 (5.2) | 1.7 | 366 (5.0) | 1.7 | 1.03 (0.89-1.19) | 0.711 |
+| All myocardial infarction (fatal and non-fatal) | 300 (4.1) | 1.4 | 316 (4.3) | 1.5 | 0.95 (0.81–1.11) | 0.487 |
+| All stroke (fatal and non-fatal) | 178 (2.4) | 0.8 | 183 (2.5) | 0.9 | 0.97 (0.79–1.19) | 0.760 |
+| Hospitalization for unstable | 116 (1.6) | 0.5 | 129 (1.8) | 0.6 | 0.90 (0.70–1.16) | 0.419 |
+| i Death from any cause | 547 (7.5) | 2.5 | 537 (7.3) | 2.5 | 1.01 (0.90–1.14) | 0.875 |
+| Hospitalization for heart failure‡ | 228 (3.1) | 1.1 | 229 (3.1) | 1.1 | 1.00 (0.83–1.20) | 0.983 |
+
+* Incidence rate per 100 patient-years is calculated as 100 × (total number of patients with ≥1 event during eligible exposure period per total patient-years of follow-up).
+† Based on a Cox model stratified by region.
+For composite endpoints, the p-values correspond to a test of non-inferiority seeking to show that the hazard ratio is less than 1.3.
+For all other endpoints, the p-values correspond to a test of differences in hazard rates.
+‡ The analysis of hospitalization for heart failure was adjusted for a history of heart failure at baseline.
 
 Paediatric population
 The European Medicines Agency has deferred the obligation to submit the results of studies with Januvia in one or more subsets of the paediatric population in type 2 diabetes mellitus (see section 4.2 for information on paediatric use).

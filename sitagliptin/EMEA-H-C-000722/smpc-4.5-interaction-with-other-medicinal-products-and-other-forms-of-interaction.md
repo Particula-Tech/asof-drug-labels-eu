@@ -8,7 +8,6 @@ In patients with normal renal function, metabolism, including via CYP3A4, plays 
 Metabolism may play a more significant role in the elimination of sitagliptin in the setting of severe renal impairment or end-stage renal disease (ESRD).
 For this reason, it is possible that potent CYP3A4 inhibitors (i.e. ketoconazole, itraconazole, ritonavir, clarithromycin) could alter the phamacokinetics of sitagliptin in patients with severe renal impairment or ESRD.
 The effect of potent CYP3A4 inhibitors in the setting of renal impairment has not been assessed in a clinical study.
-
 In vitro transport studies showed that sitagliptin is a substrate for p-glycoprotein and organic anion transporter-3 (OAT3).
 OAT3 mediated transport of sitagliptin was inhibited in vitro by probenecid, although the risk of clinically meaningful interactions is considered to be low.
 Concomitant administration of OAT3 inhibitors has not been evaluated in vivo.

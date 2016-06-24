@@ -4,6 +4,7 @@ Summary of the safety profile
 Serious adverse reactions including pancreatitis and hypersensitivity reactions have been reported.
 Hypoglycaemia has been reported in combination with sulphonylurea (4.7 %-13.8 %) and insulin
 (9.6 %) (see section 4.4).
+
 Tabulated list of adverse reactions
 Adverse reactions are listed below (Table 1) by system organ class and frequency.
 Frequencies are defined as: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to < 1/1,000); very rare (< 1/10,000) and not known (cannot be estimated from the available data).
@@ -25,9 +26,10 @@ The frequency of adverse reactions identified from placebo-controlled clinical s
 | Gastrointestinal disorders |  |
 | constipation | Uncommon |
 | vomiting* | Frequency not known |
-| acute pancreatitis*,† | Frequency not known |
+| acute pancreatitis*,†,‡ | Frequency not known |
 | fatal and non-fatal haemorrhagic and necrotizing pancreatitis*,† | Frequency not known |
 | Skin and subcutaneous tissue disorders |  |
+| pruritus* | Uncommon |
 | angioedema*,† | Frequency not known |
 | rash*,† | Frequency not known |
 | urticaria*,† | Frequency not known |
@@ -45,12 +47,23 @@ The frequency of adverse reactions identified from placebo-controlled clinical s
 
 *Adverse reactions were identified through postmarketing surveillance.
 † See section 4.4.
+‡ See TECOS Cardiovascular Safety Study below.
+
 Description of selected adverse reactions
 In addition to the drug-related adverse experiences described above, adverse experiences reported regardless of causal relationship to medication and occurring in at least 5 % and more commonly in patients treated with sitagliptin included upper respiratory tract infection and nasopharyngitis.
 Additional adverse experiences reported regardless of causal relationship to medication that occurred more frequently in patients treated with sitagliptin (not reaching the 5 % level, but occurring with an incidence of > 0.5 % higher with sitagliptin than that in the control group) included osteoarthritis and pain in extremity.
 
 Some adverse reactions were observed more frequently in studies of combination use of sitagliptin with other anti-diabetic medicinal products than in studies of sitagliptin monotherapy.
 These included hypoglycaemia (frequency very common with the combination of sulphonylurea and metformin), influenza (common with insulin (with or without metformin)), nausea and vomiting (common with metformin), flatulence (common with metformin or pioglitazone), constipation (common with the combination of sulphonylurea and metformin), peripheral oedema (common with pioglitazone or the combination of pioglitazone and metformin), somnolence and diarrhoea (uncommon with metformin), and dry mouth (uncommon with insulin (with or without metformin)).
+
+TECOS Cardiovascular Safety Study
+The Trial Evaluating Cardiovascular Outcomes with sitagliptin (TECOS) included 7,332 patients treated with sitagliptin, 100 mg daily (or 50 mg daily if the baseline eGFR was ≥30 and
+< 50 mL/min/1.73 m2), and 7,339 patients treated with placebo in the intention-to-treat population.
+Both treatments were added to usual care targeting regional standards for HbA1c and CV risk factors.
+The overall incidence of serious adverse events in patients receiving sitagliptin was similar to that in patients receiving placebo.
+
+In the intention-to-treat population, among patients who were using insulin and/or a sulfonylurea at baseline, the incidence of severe hypoglycaemia was 2.7 % in sitagliptin-treated patients and 2.5 % in placebo-treated patients; among patients who were not using insulin and/or a sulfonylurea at baseline, the incidence of severe hypoglycaemia was 1.0 % in sitagliptin-treated patients and 0.7 % in placebo-treated patients.
+The incidence of adjudication-confirmed pancreatitis events was 0.3 % in sitagliptin-treated patients and 0.2 % in placebo-treated patients.
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

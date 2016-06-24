@@ -30,7 +30,6 @@ However, because sitagliptin is primarily renally eliminated, severe hepatic imp
 
 Elderly
 No dose adjustment is necessary based on age.
-Limited safety data is available in patients ≥75 years of age and care should be exercised.
 
 Paediatric population
 The safety and efficacy of sitagliptin in children and adolescents under 18 years of age have not yet been established.
