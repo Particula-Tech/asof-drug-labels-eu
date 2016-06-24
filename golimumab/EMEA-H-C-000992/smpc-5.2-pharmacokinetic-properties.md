@@ -17,6 +17,7 @@ Terminal half-life value was estimated to be approximately 12 ±3 days in health
 When 50 mg golimumab was administered subcutaneously to patients with RA, PsA or AS every 4 weeks, serum concentrations reached steady state by week 12.
 With concomitant use of MTX, treatment with 50 mg golimumab subcutaneously every 4 weeks resulted in a mean (±standard deviation) steady-state trough serum concentration of approximately 0.6 ±0.4 μg/mL in RA patients with active RA despite MTX therapy, and approximately 0.5 ±0.4 μg/mL in patients with active PsA and approximately 0.8 ±0.4 μg/mL in patients with AS.
 Steady-state trough mean serum golimumab concentrations in patients with nr-Axial SpA were similar to those observed in patients with AS following subcutaneous administration of 50 mg golimumab every 4 weeks.
+
 Patients with RA, PsA or AS who did not receive concomitant MTX had approximately 30% lower steady-state trough concentrations of golimumab than those who received golimumab with MTX.
 In a limited number of RA patients treated with subcutaneous golimumab over a 6-month period, concomitant use of MTX reduced the apparent clearance of golimumab by approximately 36%.
 However, population pharmacokinetic analysis indicated that concomitant use of NSAIDs, oral corticosteroids or sulfasalazine did not influence the apparent clearance of golimumab.
@@ -36,3 +37,9 @@ Following a single SC dose in healthy subjects, approximately dose-proportional 
 Effect of weight on pharmacokinetics
 There was a trend toward higher apparent clearance of golimumab with increasing weight
 (see section 4.2).
+
+Paediatric population
+The pharmacokinetics of golimumab were determined in 173 children with pJIA with an age range from 2 to 17 years of age.
+In the pJIA study, children who received golimumab 30 mg/m2 (maximum 50 mg) subcutaneously every 4 weeks, had median steady-state trough golimumab concentrations which were similar across different age groups, and which were also similar to or slightly higher than those seen in adult RA patients who received 50 mg golimumab every 4 weeks.
+
+Population pharmacokinetic/pharmacodynamic modeling and simulation in children with pJIA confirmed the relationship between golimumab serum exposures and clinical efficacy and supports that the dosing regimen of golimumab 50 mg every 4 weeks in children with pJIA of at least 40 kg achieves similar exposures to those shown to be efficacious in adults.

@@ -4,7 +4,6 @@ Infections
 Patients must be monitored closely for infections including tuberculosis before, during and after treatment with Simponi.
 Because the elimination of golimumab may take up to 5 months, monitoring should be continued throughout this period.
 Further treatment with Simponi must not be given if a patient develops a serious infection or sepsis (see section 4.3).
-
 Simponi should not be given to patients with a clinically important, active infection.
 Caution should be exercised when considering the use of Simponi in patients with a chronic infection or a history of recurrent infection.
 Patients should be advised of, and avoid exposure to, potential risk factors for infection as appropriate.
@@ -14,7 +13,10 @@ Bacterial (including sepsis and pneumonia), mycobacterial (including TB), invasi
 Some of these serious infections have occurred in patients on concomitant immunosuppressive therapy that, in addition to their underlying disease, could predispose them to infections.
 Patients who develop a new infection while undergoing treatment with Simponi should be monitored closely and undergo a complete diagnostic evaluation.
 Administration of Simponi should be discontinued if a patient develops a new serious infection or sepsis, and appropriate antimicrobial or antifungal therapy should be initiated until the infection is controlled.
+
 For patients who have resided in or travelled to regions where invasive fungal infections such as histoplasmosis, coccidioidomycosis, or blastomycosis are endemic, the benefits and risks of Simponi treatment should be carefully considered before initiation of Simponi therapy.
+In at-risk patients treated with Simponi, an invasive fungal infection should be suspected if they develop a serious systemic illness.
+Diagnosis and administration of empiric antifungal therapy in these patients should be made in consultation with a physician with expertise in the care of patients with invasive fungal infections, if feasible.
 
 Tuberculosis
 There have been reports of tuberculosis in patients receiving Simponi.
@@ -51,6 +53,7 @@ For patients who test positive for HBV infection, consultation with a physician 
 Carriers of HBV who require treatment with Simponi should be closely monitored for signs and symptoms of active HBV infection throughout therapy and for several months following termination of therapy.
 Adequate data of treating patients who are carriers of HBV with anti-viral therapy in conjunction with TNF-antagonist therapy to prevent HBV reactivation are not available.
 In patients who develop HBV reactivation, Simponi should be stopped and effective anti-viral therapy with appropriate supportive treatment should be initiated.
+
 Malignancies and lymphoproliferative disorders
 The potential role of TNF-blocking therapy in the development of malignancies is not known.
 Based on the current knowledge, a possible risk for the development of lymphomas, leukaemia or other malignancies in patients treated with a TNF-antagonist cannot be excluded.
@@ -65,7 +68,7 @@ A risk for the development of malignancies in children and adolescents treated w
 Lymphoma and leukaemia
 In the controlled portions of clinical trials of all the TNF-blocking agents including Simponi, more cases of lymphoma have been observed among patients receiving anti-TNF treatment compared with control patients.
 During the Simponi Phase IIb and Phase III clinical trials in RA, PsA and AS, the incidence of lymphoma in Simponi-treated patients was higher than expected in the general population.
-In the post-marketing setting, cases of leukaemia have been reported in patients treated with a TNF-antagonist.
+Cases of leukaemia have been reported in patients treated with Simponi.
 There is an increased background risk for lymphoma and leukaemia in rheumatoid arthritis patients with long-standing, highly active, inflammatory disease, which complicates risk estimation.
 
 Rare post-marketing cases of hepatosplenic T-cell lymphoma (HSTCL) have been reported in patients treated with other TNF-blocking agents (see section 4.8).
@@ -73,7 +76,6 @@ This rare type of T-cell lymphoma has a very aggressive disease course and is us
 The majority of cases have occurred in adolescent and young adult males with nearly all on comcomitant treatment with azathioprine (AZA) or 6-mercaptopurine (6–MP) for inflammatory bowel disease.
 The potential risk with the combination of AZA or 6-MP and Simponi should be carefully considered.
 A risk for the development for hepatosplenic T-cell lymphoma in patients treated with TNF-blockers cannot be excluded.
-
 Malignancies other than lymphoma
 In the controlled portions of the Simponi Phase IIb and Phase III clinical trials in RA, PsA, AS, and UC, the incidence of non-lymphoma malignancies (excluding non-melanoma skin cancer) was similar between the Simponi and the control groups.
 
@@ -97,10 +99,12 @@ Periodic skin examination is recommended, particularly for patients with risk fa
 
 Congestive heart failure (CHF)
 Cases of worsening congestive heart failure (CHF) and new onset CHF have been reported with TNF blockers, including Simponi.
+Some cases had a fatal outcome.
 In a clinical trial with another TNF-antagonist worsening congestive heart failure and increased mortality due to CHF have been observed.
 Simponi has not been studied in patients with CHF.
 Simponi should be used with caution in patients with mild heart failure (NYHA class I/II).
-Patients should be closely monitored and Simponi must be discontinued in patients who develop new or worsening symptoms of heart failure (see section 4.3).
+Patients should be closely monitored and Simponi must be discontinued in patients who develop new or worsening symptoms of heart failure
+(see section 4.3).
 
 Neurological events
 Use of TNF-blocking agents, including Simponi, has been associated with cases of new onset or exacerbation of clinical symptoms and/or radiographic evidence of central nervous system demyelinating disorders, including multiple sclerosis and peripheral demyelinating disorders.
@@ -111,7 +115,6 @@ Surgery
 There is limited safety experience of Simponi treatment in patients who have undergone surgical procedures, including arthroplasty.
 The long half-life should be taken into consideration if a surgical procedure is planned.
 A patient who requires surgery while on Simponi should be closely monitored for infections, and appropriate actions should be taken.
-
 Immunosuppression
 The possibility exists for TNF-blocking agents, including Simponi, to affect host defences against infections and malignancies since TNF mediates inflammation and modulates cellular immune responses.
 
@@ -129,6 +132,7 @@ Concurrent administration of TNF-antagonists and anakinra
 Serious infections and neutropenia were seen in clinical studies with concurrent use of anakinra and another TNF-blocking agent, etanercept, with no added clinical benefit.
 Because of the nature of the adverse events seen with this combination therapy, similar toxicities may also result from the combination of anakinra and other TNF-blocking agents.
 The combination of Simponi and anakinra is not recommended.
+
 Concurrent administration of TNF-antagonists and abatacept
 In clinical studies concurrent administration of TNF-antagonists and abatacept has been associated with an increased risk of infections including serious infections compared to TNF-antagonists alone, without increased clinical benefit.
 The combination of Simponi and abatacept is not recommended.
@@ -167,9 +171,14 @@ Renal and hepatic impairment
 Specific studies of Simponi have not been conducted in patients with renal or hepatic impairment.
 Simponi should be used with caution in subjects with impaired hepatic function (see section 4.2).
 
+Paediatrics
+Vaccinations
+If possible, it is recommended that prior to initiating Simponi therapy, paediatric patients be brought up to date with all immunisations in agreement with current immunisation guidelines.
+
 Excipients
 Simponi contains sorbitol (E420).
 Patients with rare hereditary problems of fructose intolerance should not take Simponi.
+
 Potential for medication errors
 Simponi is registered in 50 mg and 100 mg strengths for subcutaneous administration.
 It is important that the right strength is used to administer the correct dose as indicated in the posology (see section 4.2).

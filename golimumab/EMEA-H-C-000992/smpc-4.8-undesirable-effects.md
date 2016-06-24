@@ -2,14 +2,13 @@
 
 Summary of the safety profile
 In the controlled period of the pivotal trials in RA, PsA, AS, nr-Axial SpA, and UC, upper respiratory tract infection was the most common adverse drug reaction (ADR) reported in 12.6% of golimumab-treated patients compared with 11.0% of control patients.
-The most serious ADRs that have been reported for golimumab include serious infections (including sepsis, pneumonia, TB, invasive fungal and opportunistic infections), demyelinating disorders, lymphoma, HBV reactivation, CHF, autoimmune processes (lupus-like syndrome) and haematologic reactions (see section 4.4).
+The most serious ADRs that have been reported for golimumab include serious infections (including sepsis, pneumonia, TB, invasive fungal and opportunistic infections), demyelinating disorders, HBV reactivation, CHF, autoimmune processes (lupus-like syndrome), haematologic reactions, serious systemic hypersensitivity (including anaphylactic reaction), vasculitis, lymphoma and leukaemia (see section 4.4).
 
 Tabulated list of adverse reactions
 ADRs observed in clinical studies and reported from world-wide post-marketing use of golimumab are listed in Table 1.
 Within the designated system organ classes, the adverse drug reactions are listed under headings of frequency and using the following convention: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to < 1/1,000); very rare
 (< 1/10,000); not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-
 Table 1
 Tabulated list of ADRs
 Infections and infestations
@@ -68,13 +67,14 @@ Rare: Impaired healing
 Injury, poisoning and procedural complications
 Common: Bone fractures
 *: Observed with other TNF-blocking agents, but not observed in clinical studies with golimumab.
+
 Description of selected adverse drug reactions
 
 Infections
-In the controlled period of pivotal trials, upper respiratory tract infection was the most common adverse reaction reported in 12.6% of golimumab-treated patients (incidence per 100 subject-years: 60.8; 95% CI: 55.0, 67.1) compared with 11.0% of control patients (incidence per 100 subject-years: 54.5; 95% CI: 46.1, 64.0.
+In the controlled period of pivotal trials, upper respiratory tract infection was the most common adverse reaction reported in 12.6% of golimumab-treated patients (incidence per 100 subject-years: 60.8; 95% CI: 55.0, 67.1) compared with 11.0% of control patients (incidence per 100 subject-years: 54.5; 95% CI: 46.1, 64.0).
 In controlled and uncontrolled portions of the studies with a median follow-up of approximately 2 years, the incidence per 100 subject-years of upper respiratory tract infections was 36.0 events; 95% CI: 34.9, 37.2 for golimumab treated patients.
 
-In the controlled period of pivotal trials, infections were observed in 23.0% of golimumab-treated patients (incidence per 100 subject-years: 132.0; 95% CI: 123.3, 141.1 ) compared with 20.2% of control patients (incidence per 100 subject-years: 122.3; 95% CI: 109.5, 136.2).
+In the controlled period of pivotal trials, infections were observed in 23.0% of golimumab-treated patients (incidence per 100 subject-years: 132.0; 95% CI: 123.3, 141.1) compared with 20.2% of control patients (incidence per 100 subject-years: 122.3; 95% CI: 109.5, 136.2).
 In controlled and uncontrolled portions of the trials with a median follow-up of approximately 2 years, the incidence per 100 subject-years of infections was 83.5 events; 95% CI: 81.8, 85.3 for golimumab treated patients.
 
 In the controlled period of RA, PsA, AS, and nr-Axial SpA trials, serious infections were observed in 1.2% of golimumab-treated patients and 1.2% of control-treated patients.
@@ -97,6 +97,7 @@ In the controlled periods of pivotal trials and through approximately 2 years of
 Through approximately 2 years of follow-up, the incidence of non-lymphoma malignancies (excluding non-melanoma skin cancer) was similar to the general population.
 
 In the controlled and uncontrolled periods of pivotal trials with a median follow-up of approximately 2 years, non-melanoma skin cancer was diagnosed in 5 placebo-treated, 10 golimumab 50 mg-treated and 29 golimumab 100 mg-treated subjects with an incidence (95% CI) per 100 subject-years of follow-up of 0.38 (0.27, 0.52) for combined golimumab and 0.90 (0.29, 2.10) for placebo.
+
 In the controlled and uncontrolled period of pivotal trials with a median follow-up of approximately 2 years, malignancies besides melanoma, non-melanoma skin cancer and lymphoma were diagnosed in 5 placebo-treated, 19 golimumab 50 mg-treated and 30 golimumab 100 mg-treated subjects with an incidence (95% CI) per 100 subject-years of follow-up of 0.47 (0.35, 0.63) for combined golimumab and 0.90 (0.29, 2.10) for placebo (see section 4.4).
 
 Cases reported in clinical studies in asthma
@@ -109,7 +110,6 @@ During the placebo-controlled portion of the study, the incidence (95% CI) of al
 In this study, the incidence (95% CI) per 100 subject-years of follow-up in golimumab-treated subjects was 0.40 (0.01, 2.20) for lymphoma, 0.79 (0.10, 2.86) for non-melanoma skin cancers, and 1.99 (0.64, 4.63) for other malignancies.
 For placebo subjects, the incidence (95% CI) per 100 subject-years of follow-up of these malignancies was 0.00 (0.00, 2.94).
 The significance of this finding is unknown.
-
 Neurological events
 In the controlled and uncontrolled periods of the pivotal trials with a median follow-up of approximately 2 years, a greater incidence of demyelination was observed in patients receiving golimumab 100 mg compared with patients receiving golimumab 50 mg (see section 4.4).
 
@@ -141,6 +141,11 @@ Autoimmune antibodies
 In the controlled and uncontrolled periods of pivotal trials through 1 year of follow-up, 3.5% of golimumab-treated patients and 2.3% of control patients were newly ANA-positive (at titres of 1:160 or greater).
 The frequency of anti-dsDNA antibodies at 1 year of follow-up in patients anti-dsDNA negative at baseline was uncommon.
 
+Paediatric population
+Polyarticular juvenile idiopathic arthritis
+The safety of golimumab has been studied in a phase III study of 173 pJIA patients from 2 to 17 years of age.
+The average follow-up was approximately two years.
+In this study, the type and frequency of adverse events reported were generally similar to those seen in adult RA studies.
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.

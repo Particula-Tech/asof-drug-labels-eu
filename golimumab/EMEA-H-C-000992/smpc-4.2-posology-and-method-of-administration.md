@@ -1,6 +1,6 @@
 # 4.2 Posology and method of administration
 
-Simponi treatment is to be initiated and supervised by qualified physicians experienced in the diagnosis and treatment of rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, non-radiographic axial spondyloarthritis, or ulcerative colitis.
+Simponi treatment is to be initiated and supervised by qualified physicians experienced in the diagnosis and treatment of rheumatoid arthritis, polyarticular juvenile idiopathic arthritis, psoriatic arthritis, ankylosing spondylitis, non-radiographic axial spondyloarthritis, or ulcerative colitis.
 Patients treated with Simponi should be given the Patient Alert Card.
 
 Posology
@@ -31,7 +31,6 @@ During maintenance treatment, corticosteroids may be tapered in accordance with 
 
 Available data suggest that clinical response is usually achieved within 12-14 weeks of treatment (after 4 doses).
 Continued therapy should be reconsidered in patients who show no evidence of therapeutic benefit within this time period.
-
 Missed dose
 If a patient forgets to inject Simponi on the planned date, the forgotten dose should be injected as soon as the patient remembers.
 Patients should be instructed not to inject a double dose to make up for the forgotten dose.
@@ -50,8 +49,13 @@ Simponi has not been studied in these patient populations.
 No dose recommendations can be made.
 
 Paediatric population
-The safety and efficacy of Simponi in patients aged less than 18 have not yet been established.
-No data are available.
+The safety and efficacy of Simponi in patients aged less than 18 for indications other than pJIA have not been established.
+
+Polyarticular juvenile idiopathic arthritis
+Simponi 50 mg administered once a month, on the same date each month, for children with a body weight of at least 40 kg.
+
+Available data suggest that clinical response is usually achieved within 12 to 14 weeks of treatment (after 3-4 doses).
+Continued therapy should be reconsidered in children who show no evidence of therapeutic benefit within this time period.
 
 Method of administration
 Simponi is for subcutaneous use.
@@ -60,3 +64,17 @@ Patients should be instructed to inject the full amount of Simponi according to 
 If multiple injections are required, the injections should be administered at different sites on the body.
 
 For administration instructions, see section 6.6.
+
+[Simponi 50 mg solution for injection in pre-filled syringe.]
+
+(all sentences already above)
+
+[Simponi 100 mg solution for injection in pre-filled pen.]
+
+Simponi treatment is to be initiated and supervised by qualified physicians experienced in the diagnosis and treatment of rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, non-radiographic axial spondyloarthritis, or ulcerative colitis.
+
+Simponi 100 mg is not recommended in children aged less than 18.
+
+[Simponi 100 mg solution for injection in pre-filled syringe.]
+
+(all sentences already above)
