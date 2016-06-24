@@ -1,17 +1,17 @@
 # 6.1 List of excipients
 
-Capsule contents:
+Capsule contents
 Crospovidone
 Magnesium stearate (E572)
 Microcrystalline cellulose (E460)
 Povidone (E1201)
 
-Capsule shell:
+Capsule shell
 Gelatin
 Indigotine (E132)
 Titanium dioxide (E171)
 
-Printing ink containing:
+Printing ink containing
 Black iron oxide (E172)
 Shellac (E904)
 

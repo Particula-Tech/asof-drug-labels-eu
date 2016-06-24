@@ -12,7 +12,6 @@ If a patient misses a dose of Emtriva by more than 12 hours and it is almost tim
 
 If the patient vomits within 1 hour of taking Emtriva, another dose should be taken.
 If the patient vomits more than 1 hour after taking Emtriva they do not need to take another dose.
-
 Special populations
 Elderly: There are no safety and efficacy data available in patients over the age of 65 years.
 However, no adjustment in the recommended daily dose for adults should be required unless there is evidence of renal insufficiency.
@@ -47,8 +46,8 @@ Paediatric population: The recommended dose of Emtriva for children aged 4 month
 
 There are no data regarding the efficacy and only very limited data regarding the safety of emtricitabine in infants below 4 months of age.
 Therefore Emtriva is not recommended for use in those aged less than 4 months (for pharmacokinetic data in this age group, see section 5.2).
-
 No data are available on which to make a dose recommendation in paediatric patients with renal insufficiency.
+
 Method of administration
 Emtriva 200 mg hard capsules should be taken once daily, orally with or without food.
 
