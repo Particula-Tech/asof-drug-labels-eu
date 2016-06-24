@@ -21,3 +21,23 @@ Irbesartan is mainly metabolised by CYP2C9 and to a lesser extent by glucuronida
 No significant pharmacokinetic or pharmacodynamic interactions were observed when irbesartan was coadministered with warfarin, a medicinal product metabolised by CYP2C9.
 The effects of CYP2C9 inducers such as rifampicin on the pharmacokinetic of irbesartan have not been evaluated.
 The pharmacokinetic of digoxin was not altered by coadministration of irbesartan.
+
+[Aprovel 150 mg tablets.]
+
+(all sentences already above)
+
+[Aprovel 300 mg tablets.]
+
+(all sentences already above)
+
+[Aprovel 75 mg film-coated tablets.]
+
+Aliskiren-containing products and ACE-inhibitors: Clinical trial data has shown that dual blockade of the renin-angiotensin-aldosterone system (RAAS) through the combined use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren is associated with a higher frequency of adverse events such as hypotension, hyperkalaemia and decreased renal function (including acute renal failure) compared to the use of a single RAAS-acting agent (see sections 4.3, 4.4 and 5.1).
+
+[Aprovel 150 mg film-coated tablets.]
+
+(all sentences already above)
+
+[Aprovel 300 mg film-coated tablets.]
+
+(all sentences already above)

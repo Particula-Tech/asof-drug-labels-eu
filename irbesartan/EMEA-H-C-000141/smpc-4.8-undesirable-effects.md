@@ -17,6 +17,9 @@ Within each frequency grouping, undesirable effects are presented in order of de
 Adverse reactions additionally reported from post–marketing experience are also listed.
 These adverse reactions are derived from spontaneous reports.
 
+Blood and lymphatic system disorders
+Not known: thrombocytopenia.
+
 Immune system disorders:
 Not known: hypersensitivity reactions such as angioedema, rash, urticaria
 
@@ -26,12 +29,12 @@ Not known: hyperkalaemia
 Nervous system disorders:
 Common: dizziness, orthostatic dizziness*
 Not known: vertigo, headache
-
 Ear and labyrinth disorder:
 Not known: tinnitus
 
 Cardiac disorders:
 Uncommon: tachycardia
+
 Vascular disorders:
 Common: orthostatic hypotension*
 Uncommon: flushing
@@ -76,6 +79,7 @@ In 1.7% of hypertensive patients with advanced diabetic renal disease treated wi
 Paediatric population
 In a randomised trial of 318 hypertensive children and adolescents aged 6 to 16 years, the following adverse reactions occurred in the 3-week double-blind phase: headache (7.9%), hypotension (2.2%), dizziness (1.9%), cough (0.9%).
 In the 26-week open-label period of this trial the most frequent laboratory abnormalities observed were creatinine increases (6.5%) and elevated CK values in 2% of child recipients.
+
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
