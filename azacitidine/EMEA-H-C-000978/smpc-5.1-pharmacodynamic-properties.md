@@ -47,7 +47,7 @@ The survival benefits of Vidaza were consistent regardless of the CCR treatment 
 When IPSS cytogenetic subgroups were analysed, similar findings in terms of median overall survival were observed in all groups (good, intermediate, poor cytogenetics, including monosomy 7).
 
 On analyses of age subgroups, an increase in median overall survival was observed for all groups
-(< 65 years, ≥ 65 years and ≥ 75 years).
+(< 65 years, ≥65 years and ≥75 years).
 
 Vidaza treatment was associated with a median time to death or transformation to AML of 13.0 months versus 7.6 months for those receiving CCR treatment, an improvement of 5.4 months with a stratified log-rank p-value of 0.0025.
 

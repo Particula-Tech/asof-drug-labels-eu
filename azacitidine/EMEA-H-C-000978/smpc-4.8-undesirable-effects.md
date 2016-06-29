@@ -10,7 +10,7 @@ Other serious adverse reactions from these 3 studies included infections such as
 The most commonly reported adverse reactions with azacitidine treatment were haematological reactions (71.4 %) including thrombocytopenia, neutropenia and leukopenia (usually Grade 3-4), gastrointestinal events (60.6 %) including nausea, vomiting (usually Grade 1-2) or injection site reactions (77.1 %; usually Grade 1-2).
 
 Adult population aged 65 years or older with AML with > 30% marrow blasts
-The most common serious adverse reactions (≥ 10%) noted from AZA-AML-001 within the azacitidine treatment arm included febrile neutropenia (25.0%), pneumonia (20.3%), and pyrexia (10.6%).
+The most common serious adverse reactions (≥10%) noted from AZA-AML-001 within the azacitidine treatment arm included febrile neutropenia (25.0%), pneumonia (20.3%), and pyrexia (10.6%).
 Other less frequently reported serious adverse reactions in the azacitidine treatment arm included sepsis (5.1%), anaemia (4.2%), neutropenic sepsis (3.0%), urinary tract infection (3.0%), thrombocytopenia (2.5%), neutropenia (2.1%), cellulitis (2.1%), dizziness (2.1%) and dyspnoea (2.1%).
 
 The most commonly reported (≥ 30%) adverse reactions with azacitidine treatment were gastrointestinal events, including constipation (41.9%), nausea (39.8%), and diarrhoea (36.9%), (usually Grade 1-2), general disorders and administration site conditions including pyrexia (37.7%; usually Grade 1-2) and haematological events, including febrile neutropenia (32.2%) and neutropenia (30.1%), (usually Grade 3-4).
@@ -18,8 +18,8 @@ Tabulated list of adverse reactions
 
 Table 1 below contains adverse reactions associated with azacitidine treatment obtained from the main clinical studies in MDS and AML and post marketing surveillance.
 
-Frequencies are defined as: very common (≥ 1/10), common (≥ 1/100 to < 1/10); uncommon
-(≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data).
+Frequencies are defined as: very common (≥1/10), common (≥1/100 to < 1/10); uncommon
+(≥1/1,000 to < 1/100); rare (≥1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 Adverse reactions are presented in the table below according to the highest frequency observed in any of the main clinical studies.
 
