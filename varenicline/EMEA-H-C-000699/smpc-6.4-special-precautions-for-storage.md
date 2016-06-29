@@ -1,7 +1,7 @@
 # 6.4 Special precautions for storage
 
 Blisters: Store below 30°C
-HDPE Container: This medicinal product does not require any special storage conditions
+HDPE Bottle: This medicinal product does not require any special storage conditions
 
 [CHAMPIX 1 mg film-coated tablets]
 

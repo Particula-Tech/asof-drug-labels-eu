@@ -1,6 +1,6 @@
 # 6.1 List of excipients
 
-Core tablets
+Tablets’ core
 
 Cellulose, Microcrystalline
 Calcium Hydrogen Phosphate Anhydrous
@@ -12,7 +12,7 @@ Film coating
 
 Hypromellose
 Titanium Dioxide (E171)
-Macrogols
+Macrogol 400
 Triacetin
 
 [CHAMPIX 1 mg film-coated tablets]
@@ -20,6 +20,8 @@ Triacetin
 Indigo Carmine Aluminium Lake E132
 
 [CHAMPIX 0.5 mg film-coated tablets (SmPC 3)]
+
+Core Tablets’ core
 
 0.5 mg and 1 mg Tablets
 
