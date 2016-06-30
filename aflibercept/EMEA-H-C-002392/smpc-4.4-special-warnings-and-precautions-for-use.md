@@ -12,18 +12,15 @@ Special precaution is needed in patients with poorly controlled glaucoma (do not
 In all cases, both the intraocular pressure and the perfusion of the optic nerve head must therefore be monitored and managed appropriately.
 
 Immunogenicity
-
 As this is a therapeutic protein, there is a potential for immunogenicity with Eylea (see section 4.8).
 Patients should be instructed to report any signs or symptoms of intraocular inflammation, e.g. pain, photophobia, or redness, which may be a clinical sign attributable to hypersensitivity.
 
 Systemic effects
-
 Systemic adverse events including non-ocular haemorrhages and arterial thromboembolic events have been reported following intravitreal injection of VEGF inhibitors and there is a theoretical risk that these may relate to VEGF inhibition.
 There are limited data on safety in the treatment of patients with CRVO, BRVO, DME or myopic CNV with a history of stroke or transient ischaemic attacks or myocardial infarction within the last 6 months.
 Caution should be exercised when treating such patients.
 
 Other
-
 As with other intravitreal anti-VEGF treatments for AMD, CRVO, BRVO, DME and myopic CNV the following also applies:
 
 - The safety and efficacy of Eylea therapy administered to both eyes concurrently have not been systematically studied (see section 5.1).
@@ -48,7 +45,6 @@ o a subretinal haemorrhage involving the centre of the fovea, or, if the size of
   In patients presenting with clinical signs of irreversible ischaemic visual function loss, the treatment is not recommended.
 
 Populations with limited data
-
 There is only limited experience in the treatment of subjects with DME due to type I diabetes or in diabetic patients with an HbA1c over 12% or with proliferative diabetic retinopathy.
 Eylea has not been studied in patients with active systemic infections or in patients with concurrent eye conditions such as retinal detachment or macular hole.
 There is also no experience of treatment with Eylea in diabetic patients with uncontrolled hypertension.

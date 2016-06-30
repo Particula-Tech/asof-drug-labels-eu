@@ -9,11 +9,13 @@ Posology
 wet AMD
 
 The recommended dose for Eylea is 2 mg aflibercept, equivalent to 50 microlitres.
-
 Eylea treatment is initiated with one injection per month for three consecutive doses, followed by one injection every two months.
 There is no requirement for monitoring between injections.
-After the first 12 months of treatment with Eylea, the treatment interval may be extended based on visual and/or anatomic outcomes.
-In this case the schedule for monitoring should be determined by the treating physician and may be more frequent than the schedule of injections.
+
+After the first 12 months of treatment with Eylea, and based on visual and/or anatomic outcomes, the treatment interval may be extended, such as with a treat-and-extend dosing regimen, where the treatment intervals are gradually increased to maintain stable visual and/or anatomic outcomes; however there are insufficient data to conclude on the length of these intervals.
+If visual and/or anatomic outcomes deteriorate, the treatment interval should be shortened accordingly.
+
+The schedule for monitoring should therefore be determined by the treating physician and may be more frequent than the schedule of injections.
 
 Macular oedema secondary to RVO (branch RVO or central RVO)
 
@@ -26,7 +28,7 @@ If visual and anatomic outcomes indicate that the patient is not benefiting from
 Monthly treatment continues until maximum visual acuity is achieved and/or there are no signs of disease activity.
 Three or more consecutive, monthly injections may be needed.
 
-Treatment may then be continued with a treat and extend regimen with gradually increased treatment intervals to maintain stable visual and/or anatomic outcomes, however there are insufficient data to conclude on the length of these intervals.
+Treatment may then be continued with a treat-and-extend regimen with gradually increased treatment intervals to maintain stable visual and/or anatomic outcomes, however there are insufficient data to conclude on the length of these intervals.
 If visual and/or anatomic outcomes deteriorate, the treatment interval should be shortened accordingly.
 
 The monitoring and treatment schedule should be determined by the treating physician based on the individual patient’s response.
@@ -40,11 +42,12 @@ The recommended dose for Eylea is 2 mg aflibercept equivalent to 50 microlitres.
 Eylea treatment is initiated with one injection per month for five consecutive doses, followed by one injection every two months.
 There is no requirement for monitoring between injections.
 
-After the first 12 months of treatment with Eylea, the treatment interval may be extended based on visual and/or anatomic outcomes.
-The schedule for monitoring should be determined by the treating physician.
+After the first 12 months of treatment with Eylea, and based on visual and/or anatomic outcomes, the treatment interval may be extended, such as with a treat-and-extend dosing regimen, where the treatment intervals are gradually increased to maintain stable visual and/or anatomic outcomes; however there are insufficient data to conclude on the length of these intervals.
+If visual and/or anatomic outcomes deteriorate, the treatment interval should be shortened accordingly.
+
+The schedule for monitoring should therefore be determined by the treating physician and may be more frequent than the schedule of injections.
 
 If visual and anatomic outcomes indicate that the patient is not benefiting from continued treatment, Eylea should be discontinued.
-
 Myopic choroidal neovascularisation
 
 The recommended dose for Eylea is a single intravitreal injection of 2 mg aflibercept equivalent to 50 microlitres.
@@ -55,23 +58,21 @@ Recurrences should be treated as a new manifestation of the disease.
 The schedule for monitoring should be determined by the treating physician.
 
 The interval between two doses should not be shorter than one month.
+
 Special populations
 
 Hepatic and/or renal impairment
-
 No specific studies in patients with hepatic and/or renal impairment have been conducted with Eylea.
 
 Available data do not suggest a need for a dose adjustment with Eylea in these patients (see section 5.2).
 
 Elderly population
-
 No special considerations are needed.
 There is limited experience in patients older than 75 years with DME.
 
 Paediatric population
-
-Safety and efficacy have not been established in children and adolescents.
-There is no relevant use of Eylea in the paediatric population in the indications wet AMD, CRVO, BRVO, DME and myopic CNV.
+The safety and efficacy of Eylea have not been established in children and adolescents.
+There is no relevant use of Eylea in the paediatric population for the indications of wet AMD, CRVO, BRVO, DME and myopic CNV.
 
 Method of administration
 
@@ -98,9 +99,11 @@ To expel the air bubble along with excess medicinal product, slowly depress the 
 
 After injection any unused product must be discarded.
 
-For handling of the medicinal product, see section 6.6.
+For handling of the medicinal product before administration, see section 6.6.
 
 [Eylea 40 mg/ml solution for injection in a vial.]
+
+After the first 12 months of treatment with Eylea, and based on visual and/or anatomic outcomes, the treatment interval may be extended, such as with a treat-and-extend dosing regimen, where the treatment intervals are gradually increased to maintain stable visual and/or anatomic outcomes;however there are insufficient data to conclude on the length of these intervals.
 
 Each vial should only be used for the treatment of a single eye.
 
