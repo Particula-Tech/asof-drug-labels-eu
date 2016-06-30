@@ -51,7 +51,6 @@ Subsequent doses
 Topotecan should not be re-administered unless the neutrophil count is ≥ 1 x 109/l, the platelet count is ≥ 100 x 109/l, and the haemoglobin level is ≥ 9 g/dl (after transfusion if necessary).
 
 Standard oncology practice for the management of neutropenia is either to administer topotecan with other medications (e.g. G-CSF) or to dose reduce to maintain neutrophil counts.
-
 If dose reduction is chosen for patients who experience severe neutropenia (neutrophil count
 < 0.5 x 109/l) for seven days or more, or severe neutropenia associated with fever or infection, or who have had treatment delayed due to neutropenia, the dose should be reduced by 0.4 mg/m2/day to 1.9 mg/m2/day (or subsequently down to 1.5 mg/m2/day if necessary).
 
@@ -94,7 +93,6 @@ HYCAMTIN is contraindicated in patients who
 4.4 Special warnings and precautions for use
 
 Haematological toxicity is dose-related and full blood count including platelets should be monitored regularly (see section 4.2).
-
 As with other cytotoxic medicinal products, topotecan can cause severe myelosuppression.
 Myelosuppression leading to sepsis and fatalities due to sepsis have been reported in patients treated with topotecan (see section 4.8).
 
@@ -131,11 +129,11 @@ Clinical guidelines describing the aggressive management of CTID includes specif
 Intravenous topotecan should be considered in the following clinical situations: uncontrolled emesis, swallowing disorders, uncontrolled diarrhoea, clinical conditions and medication that may alter gastrointestinal motility and drug absorption.
 
 4.5 Interaction with other medicinal products and other forms of interaction
-
 No in vivo human pharmacokinetic interaction studies have been performed.
 
 Topotecan does not inhibit human P450 enzymes (see section 5.2).
 In an intravenous population study, the co-administration of granisetron, ondansetron, morphine or corticosteroids did not appear to have a significant effect on the pharmacokinetics of total topotecan (active and inactive form).
+
 Topotecan is a substrate for both ABCB1 (P-glycoprotein) and ABCG2 (BCRP).
 Inhibitors of ABCB1 and ABCG2 administered with oral topotecan have been shown to increase topotecan exposure.
 
@@ -173,13 +171,11 @@ However, as with other cytotoxic medicinal products topotecan is genotoxic and e
 
 No studies on the effects on the ability to drive and use machines have been performed.
 However, caution should be observed when driving or operating machines if fatigue and asthenia persist.
-
 4.8 Undesirable effects
 
 In clinical trials involving patients with relapsed small cell lung cancer, the dose limiting toxicity of oral topotecan monotherapy was found to be haematological.
 Toxicity was predictable and reversible.
 There were no signs of cumulative haematological or non-haematological toxicity.
-
 The frequencies associated with the haematological and non-haematological adverse events presented are for adverse events considered to be related/possibly related to oral topotecan therapy.
 
 Adverse reactions are listed below, by system organ class and absolute frequency (all reported events).
@@ -228,6 +224,7 @@ Uncommon: hyperbilirubinaemia
 The incidence of adverse events listed above have the potential to occur with a higher frequency in patients who have a poor performance status (see section 4.4).
 
 Safety data are presented based on an integrated data set of 682 patients with relapsed lung cancer administered 2536 courses of oral topotecan monotherapy (275 patients with relapsed SCLC and 407 with relapsed non-SCLC).
+
 Haematological
 Neutropenia: Severe neutropenia (Grade 4 - neutrophil count < 0.5 x 109/l) occurred in 32 % of patients in 13 % of courses.
 Median time to onset of severe neutropenia was Day 12 with a median duration of 7 days.
@@ -273,7 +270,6 @@ It allows continued monitoring of the benefit/risk balance of the medicinal prod
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 4.9 Overdose
-
 Overdoses have been reported in patients being treated with topotecan capsules (up to 5 fold of the recommended dose) and intravenous topotecan (up to 10 fold of the recommended dose).
 The observed signs and symptoms for overdose were consistent with the known undesirable events associated with topotecan (see section 4.8).
 The primary complications of overdose are bone marrow suppression and mucositis.
@@ -346,7 +342,6 @@ O-glucuronides of both topotecan and N-desmethyl topotecan have been identified 
 The mean metabolite: parent plasma AUC ratio was less than 10 % for both total topotecan and topotecan lactone.
 
 In vitro, topotecan did not inhibit human P450 enzymes CYP1A2, CYP2A6, CYP2C8/9, CYP2C19, CYP2D6, CYP2E, CYP3A, or CYP4A nor did it inhibit the human cytosolic enzymes dihydropyrimidine or xanthine oxidase.
-
 Following coadministration of the ABCB1 (P-gp) and ABCG2 (BCRP) inhibitor, elacridar (GF120918) at 100 to 1,000 mg with oral topotecan, the AUC0-∞ of topotecan lactone and total topotecan increased approximately 2.5-fold (see section 4.5 for guidance).
 
 Administration of oral cyclosporine A (15 mg/kg), an inhibitor of transporters ABCB1 (P-gp) and ABCC1 (MRP-1) as well as the metabolising enzyme CYP3A4, within 4 hours of oral topotecan increased the dose normalised AUC0-24h of topotecan lactone and total topotecan approximately 2.0-and 2.5-fold, respectively (see section 4.5).

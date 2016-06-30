@@ -3,6 +3,7 @@
 In dose-finding trials involving 523 patients with relapsed ovarian cancer and 631 patients with relapsed small cell lung cancer, the dose limiting toxicity of topotecan monotherapy was found to be haematological.
 Toxicity was predictable and reversible.
 There were no signs of cumulative haematological or non-haematological toxicity.
+
 The adverse event profile for topotecan when given in combination with cisplatin in the cervical cancer clinical trials is consistent with that seen with topotecan monotherapy.
 The overall haematological toxicity is lower in patients treated with topotecan in combination with cisplatin compared to topotecan monotherapy, but higher than with cisplatin alone.
 
@@ -88,7 +89,6 @@ Severe (grade 3 or 4) fatigue and asthenia incidence was 3 and 3 % respectively.
 Total or pronounced alopecia was observed in 30 % of patients and partial alopecia in 15 % of patients.
 
 Other severe events occurring in patients that were recorded as related or possibly related to topotecan treatment were anorexia (12 %), malaise (3 %) and hyperbilirubinaemia (1 %).
-
 Hypersensitivity reactions including rash, urticaria, angioedema and anaphylactic reactions have been reported rarely.
 In clinical trials, rash was reported in 4 % of patients and pruritus in 1.5 % of patients.
 
