@@ -11,8 +11,9 @@ PP/Aluminium foil perforated unit dose blisters in multipacks containing 100 (10
 
 [Xarelto 15 mg film-coated tablets]
 
-PP/Aluminium foil blisters in cartons of 14, 28, 42 or 98 film-coated tablets or perforated unit dose blisters in cartons of 10 x 1, or 100 x 1 or in multipacks containing 100 (10 packs of 10 x 1) film-coated tablets.
+PP/Aluminium foil blisters in cartons of 10, 14, 28, 42 or 98 film-coated tablets or perforated unit dose blisters in cartons of 10 x 1, or 100 x 1 or in multipacks containing 100 (10 packs of 10 x 1) film-coated tablets.
+HDPE bottles of 100 film-coated tablets with a PP screw cap.
 
 [Xarelto 20 mg film-coated tablets]
 
-PP/Aluminium foil blisters in cartons of 14, 28 or 98 film-coated tablets or perforated unit dose blisters in cartons of 10 x 1, or 100 x 1 or in multipacks containing 100 (10 packs of 10 x 1) film-coated tablets.
+PP/Aluminium foil blisters in cartons of 10, 14, 28 or 98 film-coated tablets or perforated unit dose blisters in cartons of 10 x 1, or 100 x 1 or in multipacks containing 100 (10 packs of 10 x 1) film-coated tablets.

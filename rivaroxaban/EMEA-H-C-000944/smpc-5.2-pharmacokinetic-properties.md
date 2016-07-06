@@ -86,7 +86,7 @@ Safety and efficacy have not been established for children and adolescents up to
 Oral absorption of rivaroxaban is almost complete and oral bioavailability is high (80 - 100%) for the 2.5 mg and 10 mg tablet dose, irrespective of fasting/fed conditions.
 Variability in rivaroxaban pharmacokinetics is moderate with inter-individual variability (CV %) ranging from 30 % to 40 %, apart from on the day of surgery and the following day when variability in exposure is high (70 %).
 
-In patients receiving rivaroxaban for prevention of VTE 10 mg once daily the geometric mean concentration (90% prediction interval) 2 - 4 h and about 24 h after dose (roughly representing maximum and minimum concentrations during the dose interval) was 101 (7 - 273) and 14 (4 - 51) μg/l, respectively.
+In patients receiving rivaroxaban for prevention of VTE 10 mg once daily the geometric mean concentration (90% prediction interval) 2 - 4 h and about 24 h after dose (roughly representing maximum and minimum concentrations during the dose interval) was 101 (7 - 273) and 14 (4 - 51) µg/l, respectively.
 
 The pharmacokinetic/pharmacodynamic (PK/PD) relationship between rivaroxaban plasma concentration and several PD endpoints (factor Xa inhibition, PT, aPTT, Heptest) has been evaluated after administration of a wide range of doses (5 - 30 mg twice a day).
 The relationship between rivaroxaban concentration and factor Xa activity was best described by an Emax model.
@@ -101,7 +101,7 @@ Rivaroxaban pharmacokinetics are approximately linear up to about 15 mg once dai
 Under fed conditions Xarelto 10 mg, 15 mg and 20 mg tablets demonstrated dose-proportionality.
 Variability in rivaroxaban pharmacokinetics is moderate with inter-individual variability (CV%) ranging from 30% to 40%.
 
-In patients receiving rivaroxaban for treatment of acute DVT 20 mg once daily the geometric mean concentration (90% prediction interval) 2 - 4 h and about 24 h after dose (roughly representing maximum and minimum concentrations during the dose interval) was 215 (22 - 535) and 32 (6 - 239) μg/l, respectively.
+In patients receiving rivaroxaban for treatment of acute DVT 20 mg once daily the geometric mean concentration (90% prediction interval) 2 - 4 h and about 24 h after dose (roughly representing maximum and minimum concentrations during the dose interval) was 215 (22 - 535) and 32 (6 - 239) µg/l, respectively.
 
 [Xarelto 20 mg film-coated tablets]
 
