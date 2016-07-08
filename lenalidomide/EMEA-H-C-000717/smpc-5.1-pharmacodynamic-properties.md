@@ -17,7 +17,6 @@ Clinical efficacy and safety
 Lenalidomide has been evaluated in two phase III studies in newly diagnosed multiple myeloma and two phase III studies in relapsed refractory multiple myeloma as described below.
 
 Newly diagnosed multiple myeloma
-
 Lenalidomide in combination with dexamethasone in patients who are not candidates for stem cell transplantation
 
 The safety and efficacy of lenalidomide was assessed in a Phase III, multicenter, randomized, open-label, 3-arm study (MM-020) of patients who were at least 65 years of age or older or, if younger than 65 years of age, were not candidates for stem cell transplantation because they declined to undergo stem cell transplantation or stem cell transplantation is not available to the patient due to cost or other reason.The study (MM-020) compared lenalidomide and dexamethasone (Rd) given for 2 different durations of time (i.e., until progressive disease [Arm Rd] or for up to eighteen 28-day cycles [72 weeks, Arm Rd18]) to melphalan, prednisone and thalidomide (MPT) for a maximum of twelve 42-day cycles (72 weeks).
@@ -29,6 +28,7 @@ Dexamethasone 40 mg was dosed once daily on Days 1, 8, 15, and 22 of each 28-day
 Initial dose and regimen for Rd and Rd18 were adjusted according to age and renal function (see section 4.2).
 Patients >75 years received a dexamethasone dose of 20 mg once daily on Days 1, 8, 15, and 22 of each 28-day cycle.
 All patients received prophylactic anticoagulation (low molecular weight heparin, warfarin, heparin, low-dose aspirin) during the study.
+
 The primary efficacy endpoint in the study was progression free survival (PFS).
 In total 1623 patients were enrolled into the study, with 535 patients randomized to Rd, 541 patients randomized to Rd18 and 547 patients randomized to MPT.
 The demographics and disease-related baseline characteristics of the patients were well balanced in all 3 arms.
@@ -36,9 +36,9 @@ In general, study subjects had advanced-stage disease: of the total study popula
 < 30 mL/min).
 The median age was 73 in the 3 arms.
 
-In an updated analysis of PFS, PFS2 and OS using a cut off of 3 March 2014 where the median follow up time for all surviving subjects was 45.5 months, the results of the study are presented in Table 4:
+In an updated analysis of PFS, PFS2 and OS using a cut off of 3 March 2014 where the median follow up time for all surviving subjects was 45.5 months, the results of the study are presented in Table 5:
 
-Table 4: Summary of overall efficacy data
+Table 5: Summary of overall efficacy data
 
 |  | Rd (N = 535) | Rd18 (N = 541) | MPT (N = 547) |
 | --- | --- | --- | --- |
@@ -70,10 +70,9 @@ Table 4: Summary of overall efficacy data
 | Duration of response − (months)h |  |  |  |
 | Mediana (95% CI)b | 35.0 (27.9, 43.4) | 22.1 (20.3, 24.0) | 22.3 (20.2, 24.9) |
 
-AMT = antimyeloma therapy; CI = confidence interval; CR = complete response; d = low-dose dexamethasone; HR = hazard ratio;
-IMWG = International Myeloma Working Group; IRAC = Independent Response Adjudication Committee; M = melphalan; max = maximum; min = minimum; NE = not estimable; OS = overall survival; P = prednisone; PFS = progression-free survival; PR = partial response;
-R = lenalidomide; Rd = Rd given until documentation of progressive disease; Rd18 = Rd given for ≥ 18 cycles; SE = standard error;
-T = thalidomide; VGPR = very good partial response; vs = versus.
+AMT = antimyeloma therapy; CI = confidence interval; CR = complete response; d = low-dose dexamethasone; HR = hazard ratio; IMWG = International Myeloma Working Group;
+IRAC = Independent Response Adjudication Committee; M = melphalan; max = maximum;
+min = minimum; NE = not estimable; OS = overall survival; P = prednisone; PFS = progression-free survival; PR = partial response; R = lenalidomide; Rd = Rd given until documentation of progressive disease; Rd18 = Rd given for ≥ 18 cycles; SE = standard error; T = thalidomide; VGPR = very good partial response; vs = versus.
 a The median is based on the Kaplan-Meier estimate.
 b The 95% CI about the median.
 c Based on Cox proportional hazards model comparing the hazard functions associated with the indicated treatment arms.
@@ -97,9 +96,8 @@ In total 459 patients were enrolled into the study, with 152 patients randomized
 The demographics and disease-related baseline characteristics of the patients were well balanced in all 3 arms; notably, approximately 50% of the patients enrolled in each arm had the following characteristics; ISS Stage III, and creatinine clearance < 60 mL/min.
 The median age was 71 in the MPR+R and MPR+p arms and 72 in the MPp+p arm.
 
-In an analysis of PFS, PFS2, OS using a cut off of April 2013 where the median follow up time for all surviving subjects was 62.4 months, the results of the study are presented in Table 5:
-
-Table 5: Summary of overall efficacy data
+In an analysis of PFS, PFS2, OS using a cut off of April 2013 where the median follow up time for all surviving subjects was 62.4 months, the results of the study are presented in Table 6:
+Table 6: Summary of overall efficacy data
 
 |  | MPR+R (N = 152) | MPR+p (N = 153) | MPp +p (N = 154) |
 | --- | --- | --- | --- |
@@ -135,6 +133,7 @@ CI = confidence interval; CR = complete response; HR = Hazard Rate; M = melphala
 PD = progressive disease; PR = partial response; R = lenalidomide; SD = stable disease; VGPR = very good partial response.
 ª The median is based on the Kaplan-Meier estimate
 ¤PFS2 (an exploratory endpoint) was defined for all patients (ITT) as time from randomization to start of 3rd line antimyeloma therapy (AMT) or death for all randomized patients
+
 Supportive newly diagnosed multiple myeloma studies
 An open-label, randomized, multicenter, Phase III study (ECOG E4A03) was conducted in 445 patients with newly diagnosed multiple myeloma; 222 patients were randomized to the lenalidomide/low dose dexamethasone arm, and 223 were randomized to the lenalidomide/standard dose dexamethasone arm.
 Patients randomized to the lenalidomide/standard dose dexamethasone arm received lenalidomide 25 mg/day, Days 1 to 21 every 28 days plus dexamethasone 40 mg/day on Days 1 to 4, 9 to 12, and 17 to 20 every 28 days for the first four cycles.
@@ -142,7 +141,6 @@ Patients randomized to the lenalidomide/low dose dexamethasone arm received lena
 In the lenalidomide/low dose dexamethasone group, 20 patients (9.1%) underwent at least one dose interruption compared to 65 patients (29.3%) in the lenalidomide/standard dose dexamethasone arm.
 
 In a post-hoc analysis, lower mortality was observed in the lenalidomide/low dose dexamethasone arm 6.8% (15/220) compared to the lenalidomide/standard dose dexamethasone arm 19.3% (43/223), in the newly diagnosed multiple myeloma patient population, with a median follow up of 72.3 weeks.
-
 However with a longer follow-up, the difference in overall survival in favour of lenalidomide/ low dose dexamethasone tends to decrease.
 
 Multiple myeloma with at least one prior therapy
@@ -170,7 +168,8 @@ Complete response and overall response rates in the lenalidomide/dexamethasone a
 Results of these analyses subsequently led to an unblinding in both studies, in order to allow patients in the placebo/dexamethasone group to receive treatment with the lenalidomide/dexamethasone combination.
 
 An extended follow-up efficacy analysis was conducted with a median follow-up of 130.7 weeks.
-Table 6 summarises the results of the follow-up efficacy analyses – pooled studies MM-009 and MM-010.
+Table 7 summarises the results of the follow-up efficacy analyses – pooled studies MM-009 and MM-010.
+
 In this pooled extended follow-up analysis, the median TTP was 60.1 weeks (95% CI: 44.3, 73.1) in patients treated with lenalidomide/dexamethasone (N = 353) versus 20.1 weeks (95% CI: 17.7, 20.3) in patients treated with placebo/dexamethasone (N = 351).
 The median progression free survival was 48.1 weeks
 (95% CI: 36.4, 62.1) in patients treated with lenalidomide/dexamethasone versus 20.0 weeks (95% CI: 16.1, 20.1) in patients treated with placebo/dexamethasone.
@@ -178,8 +177,7 @@ The median duration of treatment was 44.0 weeks (min: 0.1, max: 254.9) for lenal
 Complete response (CR), partial response (PR) and overall response (CR+PR) rates in the lenalidomide/dexamethasone arm remain significantly higher than in the dexamethasone/placebo arm in both studies.
 The median overall survival in the extended follow-up analysis of the pooled studies is 164.3 weeks (95% CI: 145.1, 192.6) in patients treated with lenalidomide/dexamethasone versus 136.4 weeks (95% CI: 113.1, 161.7) in patients treated with placebo/dexamethasone.
 Despite the fact that 170 out of the 351 patients randomised to placebo/dexamethasone received lenalidomide after disease progression or after the studies were unblinded, the pooled analysis of overall survival demonstrated a statistically significant survival advantage for lenalidomide/dexamethasone relative to placebo/dexamethasone (hazard ratio = 0.833, 95% CI = [0.687, 1.009], p=0.045).
-
-Table 6: Summary of results of efficacy analyses as of cut-off date for extended follow-up — pooled studies MM-009 and MM-010 (cut-offs 23 July 2008 and 2 March 2008, respectively)
+Table 7: Summary of results of efficacy analyses as of cut-off date for extended follow-up — pooled studies MM-009 and MM-010 (cut-offs 23 July 2008 and 2 March 2008, respectively)
 
 | Endpoint | len/dex (N=353) | placebo/dex (N=351) |  |
 | --- | --- | --- | --- |
@@ -205,8 +203,7 @@ Patients who had evidence of at least a minor erythroid response could continue 
 Patients, who initially received placebo or 5 mg lenalidomide and did not achieve at least a minor erythroid response after 16 weeks of treatment were permitted to switch from placebo to 5 mg lenalidomide or continue lenalidomide treatment at higher dose (5 mg to 10 mg).
 
 In, study MDS-003, in which 148 patients received lenalidomide at a dose of 10 mg, the primary efficacy analysis consisted of an evaluation of the efficacy of lenalidomide treatments to achieve haematopoietic improvement in subjects with low- or intermediate-1 risk myelodysplastic syndromes.
-
-Table 7: Summary of efficacy results – studies MDS-004 (double-blind phase) and MDS-003, intent-to-treat population
+Table 8: Summary of efficacy results – studies MDS-004 (double-blind phase) and MDS-003, intent-to-treat population
 
 | Endpoint | MDS-004 N = 205 |  |  | MDS-003 N = 148 |
 | --- | --- | --- | --- | --- |
@@ -241,18 +238,64 @@ Major and minor cytogenetic responses were observed in 40.9% and 30.7% of subjec
 
 A large proportion of subjects enrolled in MDS-003 (72.9%) and MDS-004 (52.7%) had received prior erythropoiesis-stimulating agents.
 
+Mantle cell lymphoma
+
+The efficacy and safety of lenalidomide were evaluated in patients with mantle cell lymphoma in a phase II, multicenter, randomized open-label study versus single agent of investigator’s choice in patients who were refractory to their last regimen or had relapsed one to three times (Study MCL-002).
+Patients who were at least 18 years of age with histologically-proven MCL and CT-measurable disease were enrolled.
+Patients were required to have received adequate previous treatment with at least one prior combination chemotherapy regimen.
+Also, patients had to be ineligible for intensive chemotherapy and/or transplant at time of inclusion in the study.
+Patients were randomized 2:1 to the lenalidomide or the control arm.
+The investigator’s choice treatment was selected before randomization and consisted of monotherapy with either chlorambucil, cytarabine, rituximab, fludarabine, or gemcitabine.
+
+Lenalidomide was administered orally 25 mg once daily for the first 21 days (D1 to D21) of repeating 28-day cycles until progression or unacceptable toxicity.
+Patients with moderate renal insufficiency were to receive a lower starting dose of lenalidomide 10 mg daily on the same schedule.
+
+The baseline demographic were comparable between the lenalidomide arm and control arm.
+Both patient populations presented a median age of 68.5 years with comparable male to female ratio.
+The ECOG performance status was comparable between both groups, as was the number of prior therapies.
+
+The primary efficacy endpoint in Study MCL-002 was progression-free survival (PFS).
+
+The efficacy results for the Intent-to-Treat (ITT) population were assessed by the Independent Review Committee (IRC), and are presented in the table below.
+
+Table 9: Summary of efficacy results – study MCL-002, intent-to-treat population
+
+|  | Lenalidomide Arm N = 170 | Control Arm N = 84 |
+| --- | --- | --- |
+| PFS PFS, mediana [95% CI]b (weeks) Sequential HR [95% CI]e Sequential log-rank test, p-valuee | 37.6 [24.0, 52.6] 22.7 [15.9, 30.1] 0.61 [0.44, 0.84] 0.004 |  |
+| Responsea, n (%) Complete response (CR) | 8 (4.7) | 0 (0.0) |
+| Partial response (PR) Stable disease (SD)b Progressive disease (PD) Not done/Missing | 60 (35.3) 50 (29.4) 34 (20.0) 18 (10.6) | 9 (10.7) 44 (52.4) 26 (31.0) 5 (6.0) |
+| ORR (CR, CRu, PR), n (%) [95% CI]c p-valuee | 68 (40.0) [32.58, 47.78] 9 (10.7)d [5.02, 19.37] < 0.001 |  |
+| CRR (CR, CRu), n (%) [95% CI]c p-valuee | 8 (4.7) [2.05, 9.06] 0 (0.0) [95.70, 100.00] 0.043 |  |
+| Duration of Response, mediana [95% CI] (weeks) | 69.6 [41.1, 86.7] | 45.1 [36.3, 80.9] |
+| Overall Survival HR [95% CI]c Log-rank test, p-value | 0.89 [0.62, 1.28] 0.520 |  |
+
+CI = confidence interval; CRR = complete response rate; CR = complete response; CRu = complete response unconfirmed; DMC = Data Monitoring Committee; ITT = intent-to-treat; HR = hazard ratio;
+KM = Kaplan-Meier; MIPI = Mantle Cell Lymphoma International Prognostic Index; NA = not applicable; ORR = overall response rate; PD = progressive disease; PFS = progression-free survival; PR= partial response; SCT = stem cell transplantation; SD = stable disease; SE = standard error.
+a The median was based on the KM estimate.
+b Range was calculated as 95% CIs about the median survival time.
+c The mean and median are the univariate statistics without adjusting for censoring.
+d The stratification variables included time from diagnosis to first dose (< 3 years and ≥ 3 years), time from last prior systemic anti-lymphoma therapy to first dose (< 6 months and ≥ 6 months), prior SCT (yes or no), and MIPI at baseline (low, intermediate, and high risk).
+e Sequential test was based on a weighted mean of a log-rank test statistic using the unstratified log-rank test for sample size increase and the unstratified log-rank test of the primary analysis.
+The weights are based on observed events at the time the third DMC meeting was held and based on the difference between observed and expected events at the time of the primary analysis.
+The associated sequential HR and the corresponding 95% CI are presented.
+In study MCL-002 in the ITT population, there was an overall apparent increase in deaths within 20 weeks in the lenalidomide arm 22/170 (13%) versus 6/84 (7%) in the control arm.
+In patients with high tumour burden, corresponding figures were 16/81 (20%) and 2/28 (7%) (see section 4.4).
+
 Paediatric population
-The European Medicines Agency has waived the obligation to submit the results of studies with Revlimid in all subsets of the paediatric population in multiple myeloma and myelodysplastic syndromes (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with Revlimid in all subsets of the paediatric population in multiple myeloma, myelodysplastic syndromes and mantle cell lymphoma (see section 4.2 for information on paediatric use).
 
 [Revlimid 5 mg hard capsules]
 
-In general, study subjects had advanced-stage disease: of the total study population, 41% had ISS stage III, 9% had severe renal insufficiency (creatinine clearance [CLcr] < 30 mL/min).
+(all sentences already above)
 
 [Revlimid 7.5 mg hard capsules]
 
 However with a longer follow-up, the difference in overall survival in favour of lenalidomide / low dose dexamethasone tends to decrease.
 
-The European Medicines Agency has waived the obligation to submit the results of studies with Revlimid in all subsets of the paediatric population in multiple myeloma (see section 4.2 for information on paediatric use).
+Table 8: Summary of efficacy results – study MCL-002, intent-to-treat population
+
+The European Medicines Agency has waived the obligation to submit the results of studies with Revlimid in all subsets of the paediatric population in multiple myeloma myelodysplastic syndromes and mantle cell lymphoma (see section 4.2 for information on paediatric use).
 
 [Revlimid 10 mg hard capsules]
 
@@ -271,7 +314,7 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 [Revlimid 20 mg hard capsules]
 
-(all sentences already above)
+Table 7: Summary of efficacy results – study MCL-002, intent-to-treat population
 
 [Revlimid 25 mg hard capsules]
 

@@ -54,7 +54,7 @@ The following can be considered to be examples of suitable methods of contracept
 - Sexual intercourse with a vasectomised male partner only; vasectomy must be confirmed by two negative semen analyses
 - Ovulation inhibitory progesterone-only pills (i.e. desogestrel)
 
-Because of the increased risk of venous thromboembolism in patients with multiple myeloma taking lenalidomide in combination therapy, and to a lesser extent in patients with myelodysplastic syndromes taking lenalidomide monotherapy, combined oral contraceptive pills are not recommended (see also section 4.5).
+Because of the increased risk of venous thromboembolism in patients with multiple myeloma taking lenalidomide in combination therapy, and to a lesser extent in patients with myelodysplastic syndromes and mantle cell lymphoma taking lenalidomide monotherapy, combined oral contraceptive pills are not recommended (see also section 4.5).
 If a patient is currently using combined oral contraception the patient should switch to one of the effective methods listed above.
 The risk of venous thromboembolism continues for 4−6 weeks after discontinuing combined oral contraception.
 The efficacy of contraceptive steroids may be reduced during co-treatment with dexamethasone (see section 4.5).
@@ -81,7 +81,6 @@ These pregnancy tests should be performed on the day of the prescribing visit or
 Men
 Lenalidomide is present in human semen at extremely low levels during treatment and is undetectable in human semen 3 days after stopping the substance in the healthy subject (see section 5.2).
 As a precaution, and taking into account special populations with prolonged elimination time such as renal impairment, all male patients taking lenalidomide should use condoms throughout treatment duration, during dose interruption and for 1 week after cessation of treatment if their partner is pregnant or of childbearing potential and not using effective contraception (even if the man has had a vasectomy).
-
 Additional precautions
 Patients should be instructed never to give this medicinal product to another person and to return any unused capsules to their pharmacist at the end of treatment.
 
@@ -108,7 +107,7 @@ In patients with multiple myeloma, the combination of lenalidomide with dexameth
 Venous thromboembolism was seen to a lesser extent with lenalidomide in combination with melphalan and prednisone in newly diagnosed multiple myeloma and with monotherapy in myelodysplastic syndromes.
 See sections 4.5 and 4.8.
 
-In patients with myelodysplastic syndromes, treatment with lenalidomide monotherapy was also associated with a risk of venous thromboembolism (predominantly deep vein thrombosis and pulmonary embolism), but to a lesser extent than in patients with multiple myeloma – see sections 4.5 and 4.8.
+In patients with myelodysplastic syndromes and mantle cell lymphoma, treatment with lenalidomide monotherapy was also associated with a risk of venous thromboembolism (predominantly deep vein thrombosis and pulmonary embolism), but to a lesser extent than in patients with multiple myeloma – see sections 4.5 and 4.8.
 
 Consequently, patients with known risk factors for thromboembolism – including prior thrombosis – should be closely monitored.
 Action should be taken to try to minimize all modifiable risk factors (e.g. smoking, hypertension, and hyperlipidaemia).
@@ -120,7 +119,6 @@ Patients and physicians are advised to be observant for the signs and symptoms o
 Patients should be instructed to seek medical care if they develop symptoms such as shortness of breath, chest pain, arm or leg swelling.
 Prophylactic antithrombotic medicines should be recommended, especially in patients with additional thrombotic risk factors.
 The decision to take antithrombotic prophylactic measures should be made after careful assessment of an individual patient’s underlying risk factors.
-
 If the patient experiences any thromboembolic events, treatment must be discontinued and standard anticoagulation therapy started.
 Once the patient has been stabilised on the anticoagulation treatment and any complications of the thromboembolic event have been managed, the lenalidomide treatment may be restarted at the original dose dependent upon a benefit risk assessment.
 The patient should continue anticoagulation therapy during the course of lenalidomide treatment.
@@ -128,6 +126,7 @@ The patient should continue anticoagulation therapy during the course of lenalid
 Neutropenia and thrombocytopenia
 The major dose limiting toxicities of lenalidomide include neutropenia and thrombocytopenia.
 A complete blood cell count, including white blood cell count with differential count, platelet count, haemoglobin, and haematocrit should be performed at baseline, every week for the first 8 weeks of lenalidomide treatment and monthly thereafter to monitor for cytopenias.
+In mantle cell lymphoma patients, the monitoring scheme should be every 2 weeks in Cycles 3 and 4, and then at the start of each cycle.
 A dose reduction may be required (see section 4.2).
 In case of neutropenia, the physician should consider the use of growth factors in patient management.
 Patients should be advised to promptly report febrile episodes.
@@ -144,7 +143,7 @@ Patients and physicians are advised to be observant for signs and symptoms of bl
 
 - Newly diagnosed multiple myeloma in patients treated with lenalidomide in combination with melphalan and prednisone
 
-The combination of lenalidomide with melphalan and prednisone in clinical trials of newly diagnosed multiple myeloma patients is associated with a higher incidence of grade 4 neutropenia (34.1% in melphalan, prednisone and lenalidomide arm followed by lenalidomide (MPR+R) and melphalan, prednisone and lenalidomide followed by placebo (MPR+p) treated patients compared with 7.8% in MPp+p-treated patients; see section 4.8).
+The combination of lenalidomide with melphalan and prednisone in clinical trials of newly diagnosed multiple myeloma patients is associated with a higher incidence of grade 4 neutropenia (34.1% in melphalan, prednisone and lenalidomide arm followed by lenalidomide [MPR+R] and melphalan, prednisone and lenalidomide followed by placebo [MPR+p] treated patients compared with 7.8% in MPp+p-treated patients; see section 4.8).
 Grade 4 febrile neutropenia episodes were observed infrequently (1.7% in MPR+R/MPR+p treated patients compared to 0.0 % in MPp+p treated patients; see section 4.8).
 
 The combination of lenalidomide with melphalan and prednisone in multiple myeloma patients is associated with a higher incidence of grade 3 and grade 4 thrombocytopenia (40.4% in MPR+R/MPR+p treated patients, compared with 13.7% in MPp+p-treated patients; see section 4.8).
@@ -164,6 +163,10 @@ Patients and physicians are advised to be observant for signs and symptoms of bl
 - Myelodysplastic syndromes
 
 Lenalidomide treatment in myelodysplastic syndromes patients is associated with a higher incidence of grade 3 and 4 neutropenia and thrombocytopenia compared to patients on placebo (see section 4.8).
+
+- Mantle cell lymphoma
+
+Lenalidomide treatment in mantle cell lymphoma patients is associated with a higher incidence of grade 3 and 4 neutropenia compared with patients on the control arm (see section 4.8).
 
 Infection with or without neutropenia
 Patients with multiple myeloma are prone to develop infections including pneumonia.
@@ -185,10 +188,41 @@ Peripheral neuropathy
 Lenalidomide is structurally related to thalidomide, which is known to induce severe peripheral neuropathy.
 There was no increase in peripheral neuropathy observed with long term use of lenalidomide for the treatment of newly diagnosed multiple myeloma.
 
-Tumour lysis syndrome
-Because lenalidomide has anti-neoplastic activity the complications of tumour lysis syndrome may occur.
-The patients at risk of tumour lysis syndrome are those with high tumour burden prior to treatment.
-These patients should be monitored closely and appropriate precautions taken.
+Tumour flare reaction and tumour lysis syndrome
+Because lenalidomide has anti-neoplastic activity the complications of tumour lysis syndrome (TLS) may occur.
+TLS and tumour flare reaction (TFR) have commonly been observed in patients with chronic lymphocytic leukemia (CLL), and uncommonly in patients with lymphomas, who were treated with lenalidomide.
+Fatal instances of TLS have been reported during treatment with lenalidomide.
+The patients at risk of TLS and TFR are those with high tumour burden prior to treatment.
+Caution should be practiced when introducing these patients to lenalidomide.
+These patients should be monitored closely, especially during the first cycle or dose-escalation, and appropriate precautions taken.
+There have been rare reports of TLS in patients with MM treated with lenalidomide, and no reports in patients with MDS treated with lenalidomide.
+Tumour burden
+
+- Mantle cell lymphoma
+
+Lenalidomide is not recommended for the treatment of patients with high tumour burden if alternative treatment options are available.
+
+Early death
+In study MCL-002 there was overall an apparent increase in early (within 20 weeks) deaths.
+Patients with high tumour burden at baseline are at increased risk of early death, there were 16/81 (20%) early deaths in the lenalidomide arm and 2/28 (7%) early deaths in the control arm.
+Within 52 weeks corresponding figures were 32/81 (40%) and 6/28 (21%) (see section 5.1).
+
+Adverse events
+In study MCL-002, during treatment cycle 1, 11/81 (14%) patients with high tumour burden were withdrawn from therapy in the lenalidomide arm vs. 1/28 (4%) in the control group.
+The main reason for treatment withdrawal for patients with high tumour burden during treatment cycle 1 in the lenalidomide arm was adverse events, 7/11 (64%).
+Patients with high tumour burden should therefore be closely monitored for adverse reactions (see Section 4.8) including signs of tumour flare reaction (TFR).
+Please refer to section 4.2 for dose adjustments for TFR.
+High tumour burden was defined as at least one lesion ≥5 cm in diameter or 3 lesions ≥3 cm.
+
+Tumour flare reaction
+
+- Mantle cell lymphoma
+
+Careful monitoring and evaluation for TFR is recommended.
+Patients with high mantle cell lymphoma International Prognostic Index (MIPI) at diagnosis or bulky disease (at least one lesion that is ≥ 7 cm in the longest diameter) at baseline may be at risk of TFR.
+Tumour flare reaction may mimic progression of disease (PD).
+Patients in studies MCL-002 and MCL-001 that experienced Grade 1 and 2 TFR were treated with corticosteroids, non-steroidal anti-inflammatory drugs (NSAIDs) and/or narcotic analgesics for management of TFR symptoms.
+The decision to take therapeutic measures for TFR should be made after careful clinical assessment of the individual patient (see section 4.2).
 
 Allergic reactions
 Cases of allergic reaction/hypersensitivity reactions have been reported in patients treated with lenalidomide (see section 4.8).
@@ -211,13 +245,14 @@ Second primary malignancies
 An increase of second primary malignancies (SPM) has been observed in clinical trials in previously treated myeloma patients receiving lenalidomide/dexamethasone (3.98 per 100 person-years) compared to controls (1.38 per 100 person-years).
 Non-invasive SPM comprise basal cell or squamous cell skin cancers.
 Most of the invasive SPMs were solid tumour malignancies.
+
 In clinical trials of newly diagnosed multiple myeloma patients not eligible for transplant, a 4.9-fold increase in incidence rate of hematologic SPM (cases of AML, MDS) has been observed in patients receiving lenalidomide in combination with melphalan and prednisone until progression (1.75 per 100 person-years) compared with melphalan in combination with prednisone (0.36 per 100 person-years).
 
-A 2.12-fold increase in incidence rate of solid tumor SPM has been observed in patients receiving lenalidomide (9 cycles) in combination with melphalan and prednisone (1.57 per 100 person-years) compared with melphalan in combination with prednisone (0.74 per 100 person-years).
+A 2.12-fold increase in incidence rate of solid tumour SPM has been observed in patients receiving lenalidomide (9 cycles) in combination with melphalan and prednisone (1.57 per 100 person-years) compared with melphalan in combination with prednisone (0.74 per 100 person-years).
 
 In patients receiving lenalidomide in combination with dexamethasone until progression or for 18 months, the hematologic SPM incidence rate (0.16 per 100 person-years) was not increased as compared to thalidomide in combination with melphalan and prednisone (0.79 per 100 person-years).
 
-A 1.3-fold increase in incidence rate of solid tumor SPM has been observed in patients receiving lenalidomide in combination with dexamethasone until progression or for 18 months (1.58 per 100 person-years) compared to thalidomide in combination with melphalan and prednisone (1.19 per 100 person-years).
+A 1.3-fold increase in incidence rate of solid tumour SPM has been observed in patients receiving lenalidomide in combination with dexamethasone until progression or for 18 months (1.58 per 100 person-years) compared to thalidomide in combination with melphalan and prednisone (1.19 per 100 person-years).
 
 In clinical trials of newly diagnosed multiple myeloma patients eligible for transplant, an increased incidence rate of hematologic SPM has been observed in patients receiving lenalidomide immediately following high-dose melphalan and Autologous Stem Cell Transplant (ASCT) compared with patients who received placebo (1.27 to 1.56 versus 0.46 to 0.53 per 100 person-years, respectively).
 Cases of B-cell malignancies (including Hodgkin’s lymphoma) observed in the clinical trials were in patients who received lenalidomide in the post-ASCT setting
@@ -240,9 +275,13 @@ As a consequence, the benefit/risk ratio of Revlimid when MDS is associated with
 A TP53 mutation is present in 20 to 25% of lower-risk MDS Del 5q patients and is associated with a higher risk of progression to acute myeloid leukaemia (AML).
 In a post-hoc analysis of a clinical trial of Revlimid in low- or intermediate-1-risk myelodysplastic syndromes (MDS-004), the estimated 2-year rate of progression to AML was 27.5 % in patients with IHC-p53 positivity (1% cut-off level of strong nuclear staining, using immunohistochemical assessment of p53 protein as a surrogate for TP53 mutation status) and 3.6% in patients with IHC-p53 negativity (p=0.0038) (see section 4.8)
 
+Progression to other malignancies in mantle cell lymphoma
+In mantle cell lymphoma, AML, B-cell malignancies and non-melanoma skin cancer (NMSC) are potential risks.
+
 Hepatic disorders
 Hepatic failure, including fatal cases, has been reported in patients treated with lenalidomide in combination therapy: acute hepatic failure, toxic hepatitis, cytolytic hepatitis, cholestatic hepatitis, and mixed cytolytic/cholestatic hepatitis have been reported.
 The mechanisms of severe drug-induced hepatotoxicity remain unknown although, in some cases, pre-existing viral liver disease, elevated baseline liver enzymes, and possibly treatment with antibiotics might be risk factors.
+
 Abnormal liver function tests were commonly reported and were generally asymptomatic and reversible upon dosing interruption.
 Once parameters have returned to baseline, treatment at a lower dose may be considered.
 
@@ -264,9 +303,13 @@ Regular monitoring of visual ability is recommended.
 
 [Revlimid 7.5 mg hard capsules]
 
-Because of the increased risk of venous thromboembolism in patients with multiple myeloma taking lenalidomide in combination therapy, combined oral contraceptive pills are not recommended (see also section 4.5).
+Because of the increased risk of venous thromboembolism in patients with multiple myeloma taking lenalidomide in combination therapy, and to a lesser extent in patients with mantle cell lymphoma taking lenalidomide monotherapy, combined oral contraceptive pills are not recommended (see also section 4.5).
+
+Venous thromboembolism was seen to a lesser extent with lenalidomide in combination with melphalan and prednisone in newly diagnosed multiple myeloma.
 
 Patients and physicians are advised to be observant for signs and symptoms of bleeding, including petechiae and epistaxes, especially in patients receiving concomitant medicinal products susceptible to induce bleeding (see section 4.8 Haemorrhagic disorders).
+
+Because lenalidomide has anti-neoplastic activity the complications of tumour lysis syndrome(TLS) may occur.
 
 [Revlimid 10 mg hard capsules]
 

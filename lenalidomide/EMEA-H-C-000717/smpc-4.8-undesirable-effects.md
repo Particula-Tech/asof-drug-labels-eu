@@ -46,6 +46,26 @@ Serious adverse reactions include:
 
 The most commonly observed adverse reactions which occurred more frequently in the lenalidomide groups compared to the control arm in the Phase III study were neutropenia (76.8%), thrombocytopenia (46.4%), diarrhoea (34.8%), constipation (19.6%), nausea (19.6%), pruritus (25.4%), rash (18.1%), fatigue (18.1%) and muscle spasms (16.7%).
 
+Mantle cell lymphoma
+
+The overall safety profile of Revlimid in patients with mantle cell lymphoma is based on data from 254 patients from a Phase II randomized, controlled study MCL-002 (see section 5.1).
+Additionally, ADRs from supportive study MCL-001 have been included in table 3.
+
+The serious adverse reactions observed more frequently in Study MCL-002 (with a difference of at least 2 percentage points) in the lenalidomide arm compared with the control arm were:
+
+- Neutropenia (3.6%)
+- Pulmonary embolism (3.6%)
+- Diarrhoea (3.6%)
+
+The most frequently observed adverse reactions which occurred more frequently in the lenalidomide arm compared with the control arm in Study MCL-002 were neutropenia (50.9%), anaemia (28.7%), diarrhoea (22.8%), fatigue (21.0%), constipation (17.4%), pyrexia (16.8%), and rash (including dermatitis allergic) (16.2%).
+
+In study MCL-002 there was overall an apparent increase in early (within 20 weeks) deaths.
+Patients with high tumour burden at baseline are at increased risk of early death, 16/81 (20%) early deaths in the lenalidomide arm and 2/28 (7%) early deaths in the control arm.
+Within 52 weeks corresponding figures were 32/81 (39.5%) and 6/28 (21%) (see section 5.1).
+During treatment cycle 1, 11/81 (14%) patients with high tumour burden were withdrawn from therapy in the lenalidomide arm vs. 1/28 (4%) in the control group.
+The main reason for treatment withdrawal for patients with high tumour burden during treatment cycle 1 in the lenalidomide arm was adverse events, 7/11 (64%).
+High tumour burden was defined as at least one lesion ≥5 cm in diameter or 3 lesions ≥3 cm.
+
 Tabulated list of adverse reactions
 
 Tabulated summary for combination therapy
@@ -59,7 +79,6 @@ The following table is derived from data gathered during the multiple myeloma st
 The data were not adjusted according to the longer duration of treatment in the lenalidomide-containing arms continued until disease progression versus the comparator arms in the pivotal multiple myeloma studies (see section 5.1).
 
 Adverse reactions have been included under the appropriate category in the table below according to the highest frequency observed in any of the main clinical trials.
-
 Table 1: ADRs reported in clinical studies in patients with multiple myeloma treated with lenalidomide in combination with dexamethasone, or with melphalan and prednisone
 
 | System Organ Class / Preferred Term | All ADRs/Frequency | Grade 3−4 ADRs/Frequency |
@@ -88,30 +107,33 @@ Table 1: ADRs reported in clinical studies in patients with multiple myeloma tre
 | Injury, Poisoning and Procedural Complications | Common Fall, Contusion^ |  |
 
 ^See section 4.8 description of selected adverse reactions
-* Squamous skin cancer was reported in clinical trials in previously treated myeloma patients with lenalidomide/dexamethasone compared to controls ** Squamous cell carcinoma of skin was reported in a clinical trial in newly diagnosed myeloma patients with lenalidomide/dexamethasone compared to controls
+* Squamous skin cancer was reported in clinical trials in previously treated myeloma patients with lenalidomide/dexamethasone compared to controls
+** Squamous cell carcinoma of skin was reported in a clinical trial in newly diagnosed myeloma patients with lenalidomide/dexamethasone compared to controls
+
 Tabulated summary from monotherapy
 
-The adverse reactions observed in patients treated for myelodysplastic syndromes are listed below by system organ class and frequency.
+The adverse reactions observed in patients treated for myelodysplastic syndromes and mantle cell lymphoma are listed below by system organ class and frequency.
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data).
+Frequencies are defined as: very common (≥ 1/10); common
+(≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare
+(< 1/10,000); not known (cannot be estimated from the available data).
 
-The following table is derived from data gathered during the main studies in monotherapy for myelodysplastic syndromes.
+The following tables are derived from data gathered during the main studies in monotherapy for myelodysplastic syndromes and mantle cell lymphoma.
 
-Adverse reactions have been included under the appropriate category in the table below according to the highest frequency observed in any of the main clinical trials.
-
-Table 2: ADRs reported in clinical trials in patients with myelodysplastic syndromes treated with lenalidomide#
+Adverse reactions have been included under the appropriate category in the tables below according to the highest frequency observed in any of the main clinical trials.
+Table 2: ADRs reported in clinical trials in patients with myelodysplastic syndromes treated with lenalidomide
 
 | System Organ Class / Preferred Term | All ADRs/Frequency | Grade 3−4 ADRs/Frequency |
 | --- | --- | --- |
-| Infections and Infestations | Very Common Bacterial, viral and fungal infections (including opportunistic infections) | Very Common Pneumonia◊ Common Bacterial, viral and fungal infections (including opportunistic infections) ◊ |
-| Blood and Lymphatic System Disorders | Very Common Thrombocytopenia^, Neutropenia^, Leucopenias | Very Common Thrombocytopenia^◊, Neutropenia^◊, Leucopenias Common Febrile Neutropenia^◊ |
+| Infections and Infestations | Very Common Bacterial, viral and fungal infections (including opportunistic infections) | Very Common Pneumonia◊ Common Bacterial, viral and fungal infections (including opportunistic infections) ◊, Bronchitis |
+| Blood and Lymphatic System Disorders | Very Common Thrombocytopenia^, Neutropenia^, Leucopenias | Very Common Thrombocytopenia^◊, Neutropenia^◊, Leucopenias Common Febrile neutropenia^◊ |
 | Endocrine Disorders | Very Common Hypothyroidism |  |
 | Metabolism and Nutrition Disorders | Very Common Decreased appetite Common Iron overload, Weight decreased | Common Hyperglycaemia◊, Decreased appetite |
 | Psychiatric Disorders |  | Common Altered mood◊~ |
 | Nervous System Disorders | Very Common Dizziness, Headache Common Paraesthesia |  |
 | Cardiac Disorders |  | Common Acute myocardial infarction^◊, Atrial fibrillation◊, Cardiac failure◊ |
 | Vascular Disorders | Common Hypertension, Haematoma | Common Venous thromboembolic events, predominantly deep vein thrombosis and pulmonary embolism^◊ |
-| Respiratory, Thoracic and Mediastinal Disorders | Very Common Epistaxis^ | Common Bronchitis |
+| Respiratory, Thoracic and Mediastinal Disorders | Very Common Epistaxis^ |  |
 | Gastrointestinal Disorders | Very Common Diarrhoea, Abdominal pain (including upper), Nausea, Vomiting, Constipation Common Dry mouth, Dyspepsia | Common Diarrhoea◊, Nausea, Toothache |
 | Hepatobiliary Disorders | Common Abnormal liver function tests | Common Abnormal liver function tests |
 | Skin and Subcutaneous Tissue Disorders | Very Common Rashes, Dry Skin, Pruritus | Common Rashes, Pruritus |
@@ -123,24 +145,51 @@ Table 2: ADRs reported in clinical trials in patients with myelodysplastic syndr
 ^see section 4.8 description of selected adverse reactions
 ◊Adverse events reported as serious in myelodysplastic syndromes clinical trials
 ~Altered mood was reported as a common serious adverse event in the myelodysplastic syndromes Phase III study; it was not reported as a grade 3 or 4 adverse event
-# Algorithm applied for myelodysplastic syndromes:
+Algorithm applied for inclusion in the SmPC: All ADRs captured by the Phase III study algorithm are included in the EU SmPC.
+For these ADRs, an additional check of the frequency of the ADRs captured by the Phase II study algorithm was undertaken and, if the frequency of the ADRs in the Phase II study was higher than in the Phase III study, the event was included in the EU SmPC at the frequency it occurred in the Phase II study.
+Algorithm applied for myelodysplastic syndromes:
 
-- Myelodysplastic syndromes Phase III study (double-blind safety population, difference between lenalidomide 5/10mg and placebo by initial dosing regimen occurring in at least 2 subjects)
-  - All treatment-emergent adverse events with ≥ 5% of subjects in lenalidomide and at least 2% difference in proportion between lenalidomide and placebo
-  - All treatment-emergent grade 3 or 4 adverse events in 1% of subjects in lenalidomide and at least 1% difference in proportion between lenalidomide and placebo
-  - All treatment-emergent serious adverse events in 1% of subjects in lenalidomide and at least 1% difference in proportion between lenalidomide and placebo
-- Myelodysplastic syndromes Phase II study
-  - All treatment-emergent adverse events with ≥ 5% of lenalidomide treated subjects
-  - All treatment-emergent grade 3 or 4 adverse\events in 1% of lenalidomide treated subjects
-  - All treatment-emergent serious adverse events in 1% of lenalidomide treated subjects
-- Algorithm applied for inclusion in the SmPC: All ADRs captured by the Phase III study algorithm are included in the EU SmPC.
-  For these ADRs, an additional check of the frequency of the ADRs captured by the Phase II study algorithm was undertaken and, if the frequency of the ADRs in the Phase II study was higher than in the Phase III study, the event was included in the EU SmPC at the frequency it occurred in the Phase II study.
+- Myelodysplastic syndromes Phase III study (double-blind safety population, difference between lenalidomide 5/10mg and placebo by initial dosing regimen occurring in at least 2 subjects) o All treatment-emergent adverse events with ≥ 5% of subjects in lenalidomide and at least 2% difference in proportion between lenalidomide and placebo
+
+o All treatment-emergent grade 3 or 4 adverse events in 1% of subjects in lenalidomide and at least 1% difference in proportion between lenalidomide and placebo o All treatment-emergent serious adverse events in 1% of subjects in lenalidomide and at least 1% difference in proportion between lenalidomide and placebo
+
+- Myelodysplastic syndromes Phase II study o All treatment-emergent adverse events with ≥ 5% of lenalidomide treated subjects o All treatment-emergent grade 3 or 4 adverse events in 1% of lenalidomide treated subjects o All treatment-emergent serious adverse events in 1% of lenalidomide treated subjects
+
+Table 3: ADRs reported in clinical trials in patients with mantle cell lymphoma treated with lenalidomide
+
+| System Organ Class / Preferred Term | All ADRs/Frequency | Grade 3−4 ADRs/Frequency |
+| --- | --- | --- |
+| Infections and Infestations | Very Common Bacterial, viral and fungal infections (including opportunistic infections), Nasopharyngitis, Pneumonia Common Sinusitis | Common Bacterial, viral and fungal infections (including opportunistic infections) ◊, Pneumonia◊ |
+| Neoplasms Benign, Malignant and Unspecified (incl cysts and polyps) | Common Tumour flare reaction | Common Tumour flare reaction, Squamous skin cancerˆ◊, Basal cell Carcinoma◊ |
+| Blood and Lymphatic System Disorders | Very Common Thrombocytopenia^, Neutropenia^, Leucopenias, Anaemia Common Febrile neutropenia | Very Common Thrombocytopenia^, Neutropenia^◊, Anaemia◊ Common Febrile neutropenia^◊, Leucopenias◊ |
+| Metabolism and Nutrition Disorders | Very Common Decreased appetite, Weight decreased, Hypokalaemia Common Dehydratation, | Common Dehydration◊, Hyponatraemia, Hypocalcaemia |
+| Psychiatric Disorders | Common Insomnia |  |
+| Nervous System Disorders | Common Dysgeuesia, Headache, neuropathy peripheral | Common Peripheral sensory neuropathy, Lethargy |
+| Ear and Labyrinth Disorders | Common Vertigo |  |
+| Cardiac Disorders |  | Common Acute myocardial infarction (including acute)^ ◊, Cardiac failure |
+| Vascular Disorders | Common Hypotension | Common Deep vein thrombosis◊, pulmonary embolism^◊, Hypotension◊ |
+| Respiratory, Thoracic and Mediastinal Disorders | Very Common Dyspnoeia | Common Dyspnoeia◊ |
+| Gastrointestinal Disorders | Very Common Diarrhoea, Nausea◊, Vomiting◊, Constipation Common Abdominal pain | Common Diarrhoea◊, Abdominal pain◊, Constipation |
+| Skin and Subcutaneous Tissue Disorders | Very Common Rashes (including dermatitis allergic), Pruritus Common Night sweats, Dry skin | Common Rashes |
+| Musculoskeletal and Connective Tissue Disorders | Very Common Muscle spasms, Back pain Common Arthralgia, Pain in extremity, Muscular weakness | Common Back pain, Muscular weakness◊, Arthralgia, Pain in extremity |
+| Renal and Urinary Disorders |  | Common Renal failure◊ |
+| General Disorders and Administration Site Conditions | Very Common Fatigue, Asthenia, Peripheral oedema, Influenza like illness syndrome (including pyrexia, cough) Common Chills | Common Pyrexia◊, Asthenia◊, Fatigue |
+
+^see section 4.8 description of selected adverse reactions
+◊Adverse events reported as serious in mantle cell lymphoma clinical trials
+Algorithm applied for mantle cell lymphoma:
+
+- Mantle cell lymphoma controlled Phase II study o All treatment-emergent adverse events with ≥ 5% of subjects in lenalidomide arm and at least 2% difference in proportion between lenalidomide and control arm
+
+o All treatment-emergent grade 3 or 4 adverse events in ≥1% of subjects in lenalidomide arm and at least 1.0% difference in proportion between lenalidomide and control arm o All Serious treatment-emergent adverse events in ≥1% of subjects in lenalidomide arm and at least 1.0% difference in proportion between lenalidomide and control arm
+
+- Mantle cell lymphoma single arm Phase II study o All treatment-emergent adverse events with ≥ 5% of subjects o All grade 3 or 4 treatment-emergent adverse events reported in 2 or more subjects o All Serious treatment-emergent adverse events reported in 2 or more subjects
 
 Tabulated summary of post-marketing adverse reactions
 
 In addition to the above adverse reactions identified from the pivotal clinical trials, the following table is derived from data gathered from post-marketing data.
 
-Table 3: ADRs reported in in post-marketing use in patients with multiple myeloma treated with lenalidomide
+Table 4: ADRs reported in post-marketing use in patients treated with lenalidomide
 
 | System Organ Class / Preferred Term | All ADRs/Frequency | Grade 3−4 ADRs/Frequency |
 | --- | --- | --- |
@@ -189,15 +238,20 @@ In myelodysplastic syndromes patients, lenalidomide is associated with a higher 
 Grade 3 or 4 febrile neutropenia episodes were observed in 2.2% of lenalidomide-treated patients compared with 0.0% in patients on placebo).
 Lenalidomide is associated with a higher incidence of grade 3 or 4 thrombocytopenia (37% in lenalidomide-treated patients compared with 1.5% in patients on placebo in the Phase III study).
 
+- Mantle cell lymphoma
+
+In mantle cell lymphoma patients, lenalidomide is associated with a higher incidence of grade 3 or 4 neutropenia (43.7% in lenalidomide-treated patients compared with 33.7% in patients in the control arm in the Phase II study).
+Grade 3 or 4 febrile neutropenia episodes were observed in 6.0% of lenalidomide-treated patients compared with 2.4% in patients on control arm.
+
 Venous thromboembolism
-An increased risk of DVT and PE is associated with the use of lenalidomide with dexamethasone in patients with multiple myeloma, and to a lesser extent in patients treated with melphalan and prednisone or as monotherapy in patients with myelodysplastic syndromes treated with lenalidomide monotherapy (see section 4.5).
+An increased risk of DVT and PE is associated with the use of lenalidomide with dexamethasone in patients with multiple myeloma, and to a lesser extent in patients treated with melphalan and prednisone or as monotherapy in patients with myelodysplastic syndromes and mantle cell lymphoma treated with lenalidomide monotherapy (see section 4.5).
 Concomitant administration of erythropoietic agents or previous history of DVT may also increase thrombotic risk in these patients.
 
 Myocardial infarction
 Myocardial infarction has been reported in patients receiving lenalidomide, particularly in those with known risk factors.
-
 Haemorrhagic disorders
 Haemorrhagic disorders are listed under several system organ classes: Blood and lymphatic system disorders; nervous system disorders (intracranial haemorrhage); respiratory, thoracic and mediastinal disorders (epistaxis); gastrointestinal disorders (gingival bleeding, haemorrhoidal haemorrhage, rectal haemorrhage); renal and urinary disorders (haematuria); injury, poisoning and procedural complications (contusion) and vascular disorders (ecchymosis).
+
 Allergic reactions
 Cases of allergic reaction/hypersensitivity reactions have been reported.
 A possible cross-reaction between lenalidomide and thalidomide has been reported in the literature.
@@ -232,6 +286,15 @@ Rare cases of rhabdomyolysis have been observed, some of them when lenalidomide 
 Thyroid disorders
 Cases of hypothyroidism and cases of hyperthyroidism have been reported (see section 4.4 Thyroid disorders).
 
+Tumour flare reaction and tumour lysis syndrome
+In Study MCL-002, approximately 10% of lenalidomide-treated patients experienced TFR compared to 0% in the control arm.
+The majority of the events occurred in cycle 1, all were assessed as treatment-related, and the majority of the reports were Grade 1 or 2.
+Patients with high MIPI at diagnosis or bulky disease (at least one lesion that is ≥ 7 cm in the longest diameter) at baseline may be at risk of TFR.
+In study MCL-002, TLS was reported for one patient in each of the two treatment arms.
+In the supportive study MCL-001, approximately 10% of subjects experienced TFR; all report were Grade 1 or 2 in severity and all were assessed as treatment-related.
+The majority of the events occurred in cycle 1.
+There were no reports of TLS in study MCL-001 (see section 4.4).
+
 Gastrointestinal disorders
 Gastrointestinal perforations have been reported during treatment with lenalidomide.
 Gastrointestinal perforations may lead to septic complications and may be associated with fatal outcome.
@@ -243,9 +306,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [Revlimid 5 mg hard capsules]
 
-System Organ All ADRs/Frequency Grade 3−4 ADRs/Frequency
-Class
-/ Preferred Term
+(all sentences already above)
 
 [Revlimid 7.5 mg hard capsules]
 
