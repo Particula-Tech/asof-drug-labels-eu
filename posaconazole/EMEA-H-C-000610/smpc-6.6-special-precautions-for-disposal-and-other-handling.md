@@ -11,10 +11,10 @@ Any unused medicinal product or waste material should be disposed of in accordan
 Administration instructions for Noxafil concentrate for solution for infusion
 
 - Equilibrate the refrigerated vial of Noxafil to room temperature.
-- Aseptically transfer 16.7 mL of posaconazole to an intravenous bag (or bottle) containing approximately 150 mL of 5 % dextrose in water or 0.9 % sodium chloride.
+- Aseptically transfer 16.7 mL of posaconazole to an intravenous bag (or bottle) containing a compatible admixture diluent (see below for list of diluents) using the volume ranging from 150 mL to 283 mL depending on the final concentration to be achieved (not less than 1 mg/mL and not greater than 2 mg/mL).
 - Administer via a central venous line, including a central venous catheter or peripherally inserted central catheter (PICC) by slow intravenous infusion over approximately 90 minutes.
   Noxafil concentrate for solution for infusion should not be given by bolus administration.
-- If a central venous catheter is not available, a single infusion may be administered through a peripheral venous catheter.
+- If a central venous catheter is not available, a single infusion may be administered through a peripheral venous catheter with a volume to achieve a dilution of approximately 2 mg/mL.
   When administered through a peripheral venous catheter, the infusion should be administered over approximately 30 minutes.
 
 Note: In clinical trials, multiple peripheral infusions given through the same vein resulted in infusion site reactions (see section 4.8).
