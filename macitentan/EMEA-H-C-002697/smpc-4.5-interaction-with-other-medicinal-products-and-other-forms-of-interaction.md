@@ -39,5 +39,4 @@ Strong CYP3A4 inducers: Concomitant treatment with rifampicin 600 mg daily, a po
 Reduced efficacy of macitentan in the presence of a potent inducer of CYP3A4 such as rifampicin should be considered.
 The combination of macitentan with strong CYP3A4 inducers should be avoided (see section 4.4).
 
-Hormonal contraceptives: Although specific drug-drug interaction studies with hormonal contraceptives have not been conducted, macitentan did not affect the exposure to other CYP3A4 substrates such as sildenafil.
-Therefore, no reduced efficacy of hormonal contraceptives is expected.
+Hormonal contraceptives: Macitentan 10 mg once daily did not affect the pharmacokinetics of an oral contraceptive (norethisterone 1 mg and ethinyl estradiol 35 µg).

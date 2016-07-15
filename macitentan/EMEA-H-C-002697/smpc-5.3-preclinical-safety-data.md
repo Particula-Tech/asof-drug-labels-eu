@@ -12,7 +12,7 @@ No nasal cavity findings were noted in the 3-month mouse toxicity study or in ra
 
 Macitentan was not genotoxic in a standard battery of in vitro and in vivo assays.
 Macitentan was not phototoxic in vivo after single dose at exposures of up to 24-fold the human exposure.
-Carcinogenicity studies of 2 years’ duration did not reveal a carcinogenic potential at exposures 20-fold and 140-fold the human exposure in rats and mice, respectively.
+Carcinogenicity studies of 2 years’ duration did not reveal a carcinogenic potential at exposures 18-fold and 116-fold the human exposure in rats and mice, respectively.
 
 Testicular tubular dilatation was observed in chronic toxicity studies with male rats and dogs with safety margins of 11.6 and 5.8, respectively.
 Tubular dilatation was fully reversible.

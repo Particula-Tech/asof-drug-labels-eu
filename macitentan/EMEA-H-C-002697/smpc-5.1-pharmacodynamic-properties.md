@@ -76,4 +76,4 @@ Patients treated with macitentan 10 mg achieved a median reduction of 36.5% (97.
 
 Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with macitentan in all subsets of the paediatric population in PAH (see section 4.2 for information on paediatric use).
+The European Medicines Agency has deferred the obligation to submit the results of studies with macitentan in all subsets of the paediatric population for PAH (see section 4.2 for information on paediatric use).
