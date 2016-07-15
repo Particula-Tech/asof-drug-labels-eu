@@ -32,10 +32,10 @@ Caution should be exercised when considering the use of Remicade in patients wit
 Patients should be advised of and avoid exposure to potential risk factors for infection as appropriate.
 
 Tumour necrosis factor alpha (TNFα) mediates inflammation and modulates cellular immune responses.
-Experimental data show that TNFαis essential for the clearing of intracellular infections.
+Experimental data show that TNFα is essential for the clearing of intracellular infections.
 Clinical experience shows that host defence against infection is compromised in some patients treated with infliximab.
 
-It should be noted that suppression of TNFαmay mask symptoms of infection such as fever.
+It should be noted that suppression of TNFα may mask symptoms of infection such as fever.
 Early recognition of atypical clinical presentations of serious infections and of typical clinical presentation of rare and unusual infections is critical in order to minimise delays in diagnosis and treatment.
 
 Patients taking TNF-blockers are more susceptible to serious infections.
@@ -92,7 +92,7 @@ Very rare cases of jaundice and non-infectious hepatitis, some with features of 
 Isolated cases of liver failure resulting in liver transplantation or death have occurred.
 Patients with symptoms or signs of liver dysfunction should be evaluated for evidence of liver injury.
 If jaundice and/or ALT elevations
-≥5 times the upper limit of normal develop(s), Remicade should be discontinued, and a thorough investigation of the abnormality should be undertaken.
+≥ 5 times the upper limit of normal develop(s), Remicade should be discontinued, and a thorough investigation of the abnormality should be undertaken.
 
 Concurrent administration of TNF-alpha inhibitor and anakinra
 Serious infections and neutropenia were seen in clinical studies with concurrent use of anakinra and another TNFα-blocking agent, etanercept, with no added clinical benefit compared to etanercept alone.
@@ -111,14 +111,17 @@ Care should be taken and patients should continue to be monitored when switching
 
 Live vaccines/therapeutic infectious agents
 In patients receiving anti-TNF therapy, limited data are available on the response to vaccination with live vaccines or on the secondary transmission of infection by live vaccines.
-Use of live vaccines could result in clinical infections, including disseminated infections.
-It is recommended that live vaccines not be given concurrently with Remicade.
+Use of live vaccines can result in clinical infections, including disseminated infections.
+The concurrent administration of live vaccines with Remicade is not recommended.
+
+In infants exposed in utero to infliximab, fatal outcome due to disseminated Bacillus Calmette-Guérin (BCG) infection has been reported following administration of BCG vaccine after birth.
+At least a six month waiting period following birth is recommended before the administration of live vaccines to infants exposed in utero to infliximab (see section 4.6).
 
 Other uses of therapeutic infectious agents such as live attenuated bacteria (e.g., BCG bladder instillation for the treatment of cancer) could result in clinical infections, including disseminated infections.
 It is recommended that therapeutic infectious agents not be given concurrently with Remicade.
 
 Autoimmune processes
-The relative deficiency of TNFαcaused by anti-TNF therapy may result in the initiation of an autoimmune process.
+The relative deficiency of TNFα caused by anti-TNF therapy may result in the initiation of an autoimmune process.
 If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with Remicade and is positive for antibodies against double-stranded DNA, further treatment with Remicade must not be given (see section 4.8).
 
 Neurological events
@@ -138,10 +141,9 @@ Caution should be exercised in considering treatment of patients with increased 
 
 With the current knowledge, a risk for the development of lymphomas or other malignancies in patients treated with a TNF-blocking agent cannot be excluded (see section 4.8).
 Caution should be exercised when considering TNF-blocking therapy for patients with a history of malignancy or when considering continuing treatment in patients who develop a malignancy.
-
 Caution should also be exercised in patients with psoriasis and a medical history of extensive immunosuppressant therapy or prolonged PUVA treatment.
 
-Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-blocking agents (initiation of therapy ≤18 years of age), including Remicade in the post-marketing setting.
+Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-blocking agents (initiation of therapy ≤ 18 years of age), including Remicade in the post-marketing setting.
 Approximately half the cases were lymphomas.
 The other cases represented a variety of different malignancies and included rare malignancies usually associated with immunosuppression.
 A risk for the development of malignancies in patients treated with TNF-blockers cannot be excluded.
@@ -155,6 +157,9 @@ A risk for the development for hepatosplenic T-cell lymphoma in patients treated
 
 Melanoma and Merkel cell carcinoma have been reported in patients treated with TNF blocker therapy, including Remicade (see section 4.8).
 Periodic skin examination is recommended, particularly for patients with risk factors for skin cancer.
+
+A population-based retrospective cohort study using data from Swedish national health registries found an increased incidence of cervical cancer in women with rheumatoid arthritis treated with infliximab compared to biologics-naïve patients or the general population, including those over 60 years of age.
+Periodic screening should continue in women treated with Remicade, including those over 60 years of age.
 
 All patients with ulcerative colitis who are at increased risk for dysplasia or colon carcinoma (for example, patients with long-standing ulcerative colitis or primary sclerosing cholangitis), or who had a prior history of dysplasia or colon carcinoma should be screened for dysplasia at regular intervals before therapy and throughout their disease course.
 This evaluation should include colonoscopy and biopsies per local recommendations.
@@ -180,10 +185,11 @@ Failure to respond to treatment for Crohn’s disease may indicate the presence 
 There is no evidence to suggest that infliximab worsens or causes fibrotic strictures.
 
 Special populations
-Elderly patients (≥65 years)
+Elderly patients (≥ 65 years)
 The incidence of serious infections in Remicade-treated patients 65 years and older was greater than in those under 65 years of age.
 Some of those had a fatal outcome.
 Particular attention regarding the risk for infection should be paid when treating the elderly (see section 4.8).
+
 Paediatric population
 Infections
 In clinical studies, infections have been reported in a higher proportion of paediatric patients compared to adult patients (see section 4.8).
@@ -192,7 +198,7 @@ Vaccinations
 It is recommended that paediatric patients, if possible, be brought up to date with all vaccinations in agreement with current vaccination guidelines prior to initiating Remicade therapy.
 
 Malignancies and lymphoproliferative disorders
-Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-blocking agents (initiation of therapy ≤18 years of age), including Remicade in the post-marketing setting.
+Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-blocking agents (initiation of therapy ≤ 18 years of age), including Remicade in the post-marketing setting.
 Approximately half the cases were lymphomas.
 The other cases represented a variety of different malignancies and included rare malignancies usually associated with immunosuppression.
 A risk for the development of malignancies in children and adolescents treated with TNF-blockers cannot be excluded.

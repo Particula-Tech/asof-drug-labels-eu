@@ -8,7 +8,7 @@ Patients treated with Remicade should be given the package leaflet and the speci
 During Remicade treatment, other concomitant therapies, e.g., corticosteroids and immunosuppressants should be optimised.
 
 Posology
-Adults (≥18 years)
+Adults (≥ 18 years)
 Rheumatoid arthritis
 3 mg/kg given as an intravenous infusion followed by additional 3 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 8 weeks thereafter.
 
@@ -86,7 +86,7 @@ Re-administration across indications
 In case maintenance therapy is interrupted, and there is a need to restart treatment, use of a re-induction regimen is not recommended (see section 4.8).
 In this situation, Remicade should be re-initiated as a single dose followed by the maintenance dose recommendations described above.
 
-Elderly patients (≥65 years)
+Elderly patients (≥ 65 years)
 Specific studies of Remicade in elderly patients have not been conducted.
 No major age-related differences in clearance or volume of distribution were observed in clinical studies.
 No dose adjustment is required (see section 5.2).
@@ -97,7 +97,6 @@ Remicade has not been studied in these patient populations.
 No dose recommendations can be made (see section 5.2).
 
 Paediatric population
-
 Crohn’s disease (6 to 17 years)
 5 mg/kg given as an intravenous infusion followed by additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 8 weeks thereafter.
 Available data do not support further infliximab treatment in children and adolescents not responding within the first 10 weeks of treatment (see section 5.1).

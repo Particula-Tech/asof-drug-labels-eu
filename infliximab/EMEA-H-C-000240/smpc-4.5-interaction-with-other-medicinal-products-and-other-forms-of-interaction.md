@@ -8,7 +8,7 @@ However, the results are uncertain due to limitations in the methods used for se
 Corticosteroids do not appear to affect the pharmacokinetics of infliximab to a clinically relevant extent.
 
 The combination of Remicade with other biological therapeutics used to treat the same conditions as Remicade, including anakinra and abatacept, is not recommended (see section 4.4).
-
-It is recommended that live vaccines not be given concurrently with Remicade (see section 4.4).
+It is recommended that live vaccines not be given concurrently with Remicade.
+It is also recommended that live vaccines not be given to infants after in utero exposure to infliximab for at least 6 months following birth (see section 4.4).
 
 It is recommended that therapeutic infectious agents not be given concurrently with Remicade (see section 4.4).
