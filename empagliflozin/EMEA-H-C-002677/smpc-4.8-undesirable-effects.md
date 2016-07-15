@@ -20,10 +20,11 @@ Table 1: Adverse reactions reported in placebo-controlled studies
 | System organ class | Very common | Common | Uncommon | Rare |
 | --- | --- | --- | --- | --- |
 | Infections and infestations |  | Vaginal moniliasis, vulvovaginitis, balanitis and other genital infectiona Urinary tract infectiona |  |  |
-| Metabolism and nutrition disorders | Hypoglycaemia (when used with sulphonylurea or insulin)a |  |  | Diabetic ketoacidosis*, b |
+| Metabolism and nutrition disorders | Hypoglycaemia (when used with sulphonylurea or insulin)a |  |  | Diabetic kb etoacidosis*, |
 | Skin and subcutaneous disorders |  | Pruritus (generalised) |  |  |
 | Vascular disorders |  |  | Volume depletiona |  |
 | Renal and urinary disorders |  | Increased urinationa | Dysuria |  |
+| Investigations |  |  | Blood creatinine increased/Glomerular filtration rate decreaseda |  |
 
 a see subsections below for additional information b derived from postmarketing experience
 * see section 4.4
@@ -40,6 +41,7 @@ An increased frequency was noted when given as add-on to metformin and a sulfony
 Major hypoglycaemia (hypoglycaemia requiring assistance)
 No increase in major hypoglycaemia was observed with empagliflozin compared to placebo as monotherapy, add-on to metformin, add-on to metformin and a sulfonylurea, and add-on to pioglitazone with or without metformin.
 An increased frequency was noted when given as add-on to insulin with or without metformin and with or without a sulfonylurea (empagliflozin 10 mg: 0%, empagliflozin 25 mg: 1.3%, placebo: 0% during initial 18 weeks treatment when insulin could not be adjusted; empagliflozin 10 mg: 0%, empagliflozin 25 mg: 1.3%, placebo 0% over the 78-week trial).
+
 Vaginal moniliasis, vulvovaginitis, balanitis and other genital infection
 Vaginal moniliasis, vulvovaginitis, balanitis and other genital infections were reported more frequently in patients treated with empagliflozin (empagliflozin 10 mg: 4.1%, empagliflozin 25 mg: 3.7%) compared to placebo (0.9%).
 These infections were reported more frequently in females treated with empagliflozin compared to placebo, and the difference in frequency was less pronounced in males.
@@ -59,6 +61,10 @@ Urinary tract infection was reported more frequently in females treated with emp
 Volume depletion
 The overall frequency of volume depletion (including the predefined terms blood pressure (ambulatory) decreased, blood pressure systolic decreased, dehydration, hypotension, hypovolaemia, orthostatic hypotension, and syncope) was similar in patients treated with empagliflozin (empagliflozin 10 mg: 0.5%, empagliflozin 25 mg: 0.3%) and placebo (0.3%).
 The frequency of volume depletion events was increased in patients 75 years and older treated with empagliflozin 10 mg (2.3%) or empagliflozin 25 mg (4.4%) compared to placebo (2.1%).
+
+Blood creatinine increased/Glomerular filtration rate decreased
+The overall frequency of patients with increased blood creatinine and decreased glomerular filtration rate were similar between empagliflozin and placebo (blood creatinine increased: empagliflozin 10 mg 0.6%, empagliflozin 25 mg 0.1%, placebo 0.5%; glomerular filtration rate decreased: empagliflozin 10 mg 0.1%, empagliflozin 25 mg 0%, placebo 0.3%).
+Initial increases in creatinine and initial decreases in estimated glomerular filtration rates in patients treated with empagliflozin were generally transient during continuous treatment or reversible after drug discontinuation of treatment.
 
 Reporting of suspected adverse reactions
 

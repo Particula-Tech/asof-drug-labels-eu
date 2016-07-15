@@ -274,7 +274,8 @@ Table 7 Results at 24 week in a placebo-controlled study of empagliflozin in ren
 
 a Full analysis set (FAS) using last observation carried forward (LOCF) prior to glycaemic rescue therapy
 1 Mean adjusted for baseline value
-2 Not evaluated for statistical significance as a result of the sequential confirmatory testing procedure * p<0.0001
+2 Not evaluated for statistical significance as a result of the sequential confirmatory testing procedure
+* p<0.0001
 
 Cardiovascular safety
 
