@@ -12,7 +12,6 @@ Deferasirox is highly (99%) protein bound to plasma proteins, almost exclusively
 Biotransformation
 Glucuronidation is the main metabolic pathway for deferasirox, with subsequent biliary excretion.
 Deconjugation of glucuronidates in the intestine and subsequent reabsorption (enterohepatic recycling) is likely to occur: in a healthy volunteer study, the administration of cholestyramine after a single dose of deferasirox resulted in a 45% decrease in deferasirox exposure (AUC).
-
 Deferasirox is mainly glucuronidated by UGT1A1 and to a lesser extent UGT1A3.
 CYP450-catalysed (oxidative) metabolism of deferasirox appears to be minor in humans (about 8%).
 No inhibition of deferasirox metabolism by hydroxyurea was observed in vitro.
@@ -43,6 +42,7 @@ The pharmacokinetics of deferasirox have not been studied in elderly patients (a
 Renal or hepatic impairment
 The pharmacokinetics of deferasirox have not been studied in patients with renal impairment.
 The pharmacokinetics of deferasirox were not influenced by liver transaminase levels up to 5 times the upper limit of the normal range.
+
 In a clinical study using single doses of 20 mg/kg deferasirox dispersible tablets, the average exposure was increased by 16% in subjects with mild hepatic impairment (Child-Pugh Class A) and by 76% in subjects with moderate hepatic impairment (Child-Pugh Class B) compared to subjects with normal hepatic function.
 The average Cmax of deferasirox in subjects with mild or moderate hepatic impairment was increased by 22%.
 Exposure was increased 2.8-fold in one subject with severe hepatic impairment (Child-Pugh Class C) (see sections 4.2 and 4.4).

@@ -17,6 +17,7 @@ Clinical efficacy studies were conducted with deferasirox dispersible tablets.
 Deferasirox has been investigated in 411 adult (age ≥16 years) and 292 paediatric patients (aged 2 to <16 years) with chronic iron overload due to blood transfusions.
 Of the paediatric patients 52 were aged 2 to 5 years.
 The underlying conditions requiring transfusion included beta-thalassaemia, sickle cell disease and other congenital and acquired anaemias (myelodysplastic syndromes, Diamond-Blackfan syndrome, aplastic anaemia and other very rare anaemias).
+
 Daily treatment with the deferasirox dispersible tablet formulation at doses of 20 and 30 mg/kg for one year in frequently transfused adult and paediatric patients with beta-thalassaemia led to reductions in indicators of total body iron; liver iron concentration was reduced by about -0.4 and -8.9 mg Fe/g liver (biopsy dry weight (dw)) on average, respectively, and serum ferritin was reduced by about -36 and -926 µg/l on average, respectively.
 At these same doses the ratios of iron excretion : iron intake were 1.02 (indicating net iron balance) and 1.67 (indicating net iron removal), respectively.
 Deferasirox induced similar responses in iron-overloaded patients with other anaemias.

@@ -4,7 +4,6 @@ Summary of the safety profile
 The most frequent reactions reported during chronic treatment with deferasirox dispersible tablets in adult and paediatric patients include gastrointestinal disturbances (mainly nausea, vomiting, diarrhoea or abdominal pain) and skin rash.
 Diarrhoea is reported more commonly in paediatric patients aged 2 to 5 years and in the elderly.
 These reactions are dose-dependent, mostly mild to moderate, generally transient and mostly resolve even if treatment is continued.
-
 During clinical studies, dose-dependent increases in serum creatinine occurred in about 36% of patients, though most remained within the normal range.
 Decreases in mean creatinine clearance have been observed in both paediatric and adult patients with beta-thalassemia and iron overload during the first year of treatment, but there is evidence that this does not decrease further in subsequent years of treatment.
 Elevations of liver transaminases have been reported.
@@ -21,14 +20,15 @@ Blood and lymphatic system disorders
 
 Not known: Pancytopenia1, thrombocytopenia1, anaemia aggravated1,
 
-neutropenia
+neutropenia1
 Immune system disorders
 
-Not known: Hypersensitivity reactions (including anaphylaxis and angioedema)1
+Not known: Hypersensitivity reactions (including anaphylactic reactions and
 
+angioedema)1
 Metabolism and nutrition disorders
 
-Not known: Metabolic acidosis
+Not known: Metabolic acidosis1
 
 Psychiatric disorders
 
@@ -41,16 +41,16 @@ Uncommon: Dizziness
 
 Eye disorders
 
-Uncommon: Early cataract, maculopathy
+Uncommon: Cataract, maculopathy
 Rare: Optic neuritis
 
 Ear and labyrinth disorders
 
-Uncommon: Hearing loss
+Uncommon: Deafness
 
 Respiratory, thoracic and mediastinal disorders
 
-Uncommon: Pharyngolaryngeal pain
+Uncommon: Laryngeal pain
 
 Gastrointestinal disorders
 
@@ -63,7 +63,7 @@ Uncommon: Gastrointestinal haemorrhage, gastric ulcer (including multiple
 ulcers), duodenal ulcer, gastritis
 
 Rare: Oesophagitis
-Not known: Gastrointestinal perforation
+Not known: Gastrointestinal perforation1, acute pancreatitis1
 
 Hepatobiliary disorders
 
@@ -75,15 +75,15 @@ Skin and subcutaneous tissue disorders
 
 Common: Rash, pruritus
 Uncommon: Pigmentation disorder
-Not known: Stevens-Johnson syndrome1, leukocytoclastic vasculitis1, urticaria1,
+Not known: Stevens-Johnson syndrome1, hypersensitivity vasculitis1, urticaria1,
 
-erythema multiforme1, alopecia1
+erythema multiforme1, alopecia1, toxic epidermal necrolysis (TEN)1
 Renal and urinary disorders
 Very common: Blood creatinine increased
 
 Common: Proteinuria
-Uncommon: Renal tubulopathy (acquired Fanconi’s syndrome), glycosuria
-Not known: Acute renal failure1, tubulointerstitial nephritis1, nephrolithiasis,
+Uncommon: Renal tubular disorder (acquired Fanconi syndrome), glycosuria
+Not known: Acute renal failure1, tubulointerstitial nephritis1, nephrolithiasis1,
 
 renal tubular necrosis1
 General disorders and administration site conditions
@@ -99,8 +99,8 @@ Elevations of liver transaminases were reported as an adverse reaction in 2% of 
 Elevations of transaminases greater than 10 times the upper limit of the normal range, suggestive of hepatitis, were uncommon (0.3%).
 During post-marketing experience, hepatic failure, sometimes fatal, has been reported with the deferasirox dispersible tablet formulation, especially in patients with pre-existing liver cirrhosis (see section 4.4).
 There have been post-marketing reports of metabolic acidosis.
-The majority of these patients had renal impairment, renal tubulopathy (Fanconi’s syndrome) or diarrhoea, or conditions where acid-base imbalance is a known complication (see section 4.4).
-Serious acute pancreatitis may potentially occur as a complication of gallstones (and related biliary disorders).
+The majority of these patients had renal impairment, renal tubulopathy (Fanconi syndrome) or diarrhoea, or conditions where acid-base imbalance is a known complication (see section 4.4).
+Cases of serious acute pancreatitis were observed without documented underlying biliary conditions.
 As with other iron chelator treatment, high-frequency hearing loss and lenticular opacities (early cataracts) have been uncommonly observed in patients treated with deferasirox (see section 4.4).
 
 Creatinine clearance in transfusional iron overload
@@ -111,10 +111,14 @@ Clinical study in patients with non-transfusion-dependent thalassaemia syndromes
 In a 1-year study in patients with non-transfusion-dependent thalassaemia syndromes and iron overload (dispersible tablets at a dose of 10 mg/kg/day), diarrhoea (9.1%), rash (9.1%), and nausea (7.3%) were the most frequent study drug-related adverse events.
 Abnormal serum creatinine and creatinine clearance values were reported in 5.5% and 1.8% of patients, respectively.
 Elevations of liver transaminases greater than 2 times the baseline and 5 times the upper limit of normal were reported in 1.8% of patients.
+
 Paediatric population
 Diarrhoea is reported more commonly in paediatric patients aged 2 to 5 years than in older patients.
 
 Renal tubulopathy has been mainly reported in children and adolescents with beta-thalassaemia treated with deferasirox.
+In post-marketing reports, a high proportion of cases of metabolic acidosis occurred in children in the context of Fanconi syndrome.
+
+Acute pancreatitis has been reported, particularly in children and adolescents.
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

@@ -16,6 +16,7 @@ The causes of the rises in serum creatinine have not been elucidated.
 Particular attention should therefore be paid to monitoring of serum creatinine in patients who are concomitantly receiving medicinal products that depress renal function, and in patients who are receiving high doses of deferasirox and/or low rates of transfusion (<7 ml/kg/month of packed red blood cells or
 <2 units/month for an adult).
 While no increase in renal adverse events was observed after dose escalation of EXJADE dispersible tablets to doses above 30 mg/kg in clinical studies, an increased risk of renal adverse events with EXJADE dispersible tablet doses above 30 mg/kg cannot be excluded.
+
 It is recommended that serum creatinine be assessed in duplicate before initiating therapy.
 Serum creatinine, creatinine clearance (estimated with the Cockcroft-Gault or MDRD formula in adults and with the Schwartz formula in children) and/or plasma cystatin C levels should be monitored prior to therapy, weekly in the first month after initiation or modification of therapy with
 EXJADE, and monthly thereafter.
@@ -23,10 +24,9 @@ Patients with pre-existing renal conditions and patients who are receiving medic
 Care should be taken to maintain adequate hydration in patients who develop diarrhoea or vomiting.
 
 There have been post-marketing reports of metabolic acidosis occurring during treatment with deferasirox.
-The majority of these patients had renal impairment, renal tubulopathy (Fanconi’s syndrome) or diarrhoea, or conditions where acid-base imbalance is a known complication.
+The majority of these patients had renal impairment, renal tubulopathy (Fanconi syndrome) or diarrhoea, or conditions where acid-base imbalance is a known complication.
 Acid-base balance should be monitored as clinically indicated in these populations.
 Interruption of EXJADE therapy should be considered in patients who develop metabolic acidosis.
-
 Table 3 Dose adjustment and interruption of treatment for renal monitoring
 
 |  | Serum creatinine |  | Creatinine clearance |
@@ -54,7 +54,7 @@ Renal tubulopathy has been mainly reported in children and adolescents with beta
 Patients should be referred to a renal specialist, and further specialised investigations (such as renal biopsy) may be considered if the following occur despite dose reduction and interruption:
 
 - Serum creatinine remains significantly elevated and
-- Persistent abnormality in another marker of renal function (e.g. proteinuria, Fanconi’s Syndrome).
+- Persistent abnormality in another marker of renal function (e.g. proteinuria, Fanconi Syndrome).
 
 Hepatic function
 
@@ -66,7 +66,6 @@ However, the role of deferasirox as a contributing or aggravating factor cannot 
 It is recommended that serum transaminases, bilirubin and alkaline phosphatase be checked before the initiation of treatment, every 2 weeks during the first month and monthly thereafter.
 If there is a persistent and progressive increase in serum transaminase levels that cannot be attributed to other causes, EXJADE should be interrupted.
 Once the cause of the liver function test abnormalities has been clarified or after return to normal levels, cautious re-initiation of treatment at a lower dose followed by gradual dose escalation may be considered.
-
 EXJADE is not recommended in patients with severe hepatic impairment (Child-Pugh Class C) (see section 5.2).
 
 Summary of safety monitoring recommendations
@@ -85,6 +84,7 @@ In patients with a short life expectancy (e.g. high-risk myelodysplastic syndrom
 As a consequence, treatment with EXJADE is not recommended in these patients.
 
 Caution should be used in elderly patients due to a higher frequency of adverse reactions (in particular, diarrhoea).
+
 Data in children with non-transfusion-dependent thalassaemia are very limited (see section 5.1).
 As a consequence, EXJADE therapy should be closely monitored to detect adverse reactions and to follow iron burden in the paediatric population.
 In addition, before treating heavily iron-overloaded children with non-transfusion-dependent thalassaemia with EXJADE, the physician should be aware that the consequences of long-term exposure in such patients are currently not known.
@@ -102,8 +102,8 @@ Skin rashes may appear during EXJADE treatment.
 The rashes resolve spontaneously in most cases.
 When interruption of treatment may be necessary, treatment may be reintroduced after resolution of the rash, at a lower dose followed by gradual dose escalation.
 In severe cases this reintroduction could be conducted in combination with a short period of oral steroid administration.
-Cases of Stevens-Johnson syndrome (SJS) have been reported post marketing.
-The risk of other more severe skin reactions (TEN [toxic epidermal necrolysis], DRESS [drug reaction with eosinophilia and systemic symptoms]) cannot be excluded.
+Cases of Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported post marketing.
+The risk of other more severe skin reactions including DRESS (drug reaction with eosinophilia and systemic symptoms) cannot be excluded.
 If SJS or any other severe skin reaction is suspected, EXJADE should be discontinued immediately and should not be reintroduced.
 
 Hypersensitivity reactions
@@ -125,6 +125,7 @@ Interruption of treatment should be considered in patients who develop unexplain
 Other considerations
 Monthly monitoring of serum ferritin is recommended in order to assess the patient’s response to therapy (see section 4.2).
 If serum ferritin falls consistently below 500 µg/l (in transfusional iron overload) or below 300 µg/l (in non-transfusion-dependent thalassaemia syndromes), an interruption of treatment should be considered.
+
 The results of the tests for serum creatinine, serum ferritin and serum transaminases should be recorded and regularly assessed for trends.
 
 In one clinical study, growth and sexual development of paediatric patients treated with deferasirox for up to 5 years were not affected.
