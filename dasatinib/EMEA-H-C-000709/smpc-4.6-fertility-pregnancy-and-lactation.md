@@ -1,10 +1,10 @@
 # 4.6 Fertility, pregnancy and lactation
 
-Women of childbearing potential
-Women of childbearing potential must be advised to use effective contraception during treatment.
+Women of childbearing potential/contraception in males and females
+Both sexually active men and women of childbearing potential should use effective methods of contraception during treatment.
 
 Pregnancy
-Based on human experience, dasatinib is suspected to cause congenital malformations including neural tube defects, and harmful pharmacological effects on the fetus when administered during pregnancy.
+Based on human experience, dasatinib is suspected to cause congenital malformations including neural tube defects, and harmful pharmacological effects on the foetus when administered during pregnancy.
 Studies in animals have shown reproductive toxicity (see section 5.3).
 SPRYCEL should not be used during pregnancy unless the clinical condition of the woman requires treatment with dasatinib.
 If SPRYCEL is used during pregnancy, the patient must be informed of the potential risk to the foetus.
@@ -15,4 +15,4 @@ Physico-chemical and available pharmacodynamic/toxicological data on dasatinib p
 Breast-feeding should be stopped during treatment with SPRYCEL.
 
 Fertility
-The effect of dasatinib on sperm is unknown, therefore both sexually active men and women should use effective methods of contraception during treatment.
+The effect of dasatinib on sperm is unknown (see section 5.3).

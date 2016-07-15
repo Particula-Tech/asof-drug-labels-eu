@@ -2,9 +2,9 @@
 
 Tablet core
 Lactose monohydrate
-Cellulose, microcrystalline
+Microcrystalline cellulose
 Croscarmellose sodium
-Hydroxypropyl cellulose
+Hydroxypropylcellulose
 Magnesium stearate
 
 Film-coating

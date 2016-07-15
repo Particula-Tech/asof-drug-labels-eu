@@ -4,8 +4,9 @@ The pharmacokinetics of dasatinib were evaluated in 229 adult healthy subjects a
 
 Absorption
 Dasatinib is rapidly absorbed in patients following oral administration, with peak concentrations between 0.5-3 hours.
-Following oral administration, the increase in the mean exposure (AUCτ�) is approximately proportional to the dose increment across doses ranging from 25 mg to 120 mg twice daily.
+Following oral administration, the increase in the mean exposure (AUCτ) is approximately proportional to the dose increment across doses ranging from 25 mg to 120 mg twice daily.
 The overall mean terminal half-life of dasatinib is approximately 5-6 hours in patients.
+
 Data from healthy subjects administered a single, 100 mg dose of dasatinib 30 minutes following a high-fat meal indicated a 14% increase in the mean AUC of dasatinib.
 A low-fat meal 30 minutes prior to dasatinib resulted in a 21% increase in the mean AUC of dasatinib.
 The observed food effects do not represent clinically relevant changes in exposure.

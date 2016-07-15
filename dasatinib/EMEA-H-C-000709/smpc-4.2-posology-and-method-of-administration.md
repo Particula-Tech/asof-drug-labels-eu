@@ -3,9 +3,9 @@
 Therapy should be initiated by a physician experienced in the diagnosis and treatment of patients with leukaemia.
 
 Posology
-The recommended starting dose for chronic phase CML is 100 mg dasatinib once daily, administered orally.
+The recommended starting dose for chronic phase CML is 100 mg dasatinib once daily.
 
-The recommended starting dose for accelerated, myeloid or lymphoid blast phase (advanced phase) CML or Ph+ ALL is 140 mg once daily, administered orally (see section 4.4).
+The recommended starting dose for accelerated, myeloid or lymphoid blast phase (advanced phase) CML or Ph+ ALL is 140 mg once daily (see section 4.4).
 
 Treatment duration
 In clinical studies, treatment with SPRYCEL was continued until disease progression or until no longer tolerated by the patient.
@@ -22,37 +22,38 @@ Myelosuppression
 In clinical studies, myelosuppression was managed by dose interruption, dose reduction, or discontinuation of study therapy.
 Platelet transfusion and red cell transfusion were used as appropriate.
 Haematopoietic growth factor has been used in patients with resistant myelosuppression.
-Guidelines for dose modifications are summarized in Table 1.
+Guidelines for dose modifications are summarised in Table 1.
 
-Table 1: Dose adjustments for neutropenia and thrombocytopenia
+Table 1: Dose adjustments for neutropaenia and thrombocytopaenia
 
-| Chronic Phase CML (starting dose 100 mg once daily) | ANC < 0.5 x 109/l and/or Platelets < 50 x 109/l | 1 Stop treatment until ANC ≥ 1.0 x 109/l and platelets ≥ 50 x 109/l. 2 Resume treatment at the original starting dose. 3 If platelets < 25 x 109/l and/or recurrence of ANC < 0.5 x 109/l for > 7 days, repeat step 1 and resume treatment at a reduced dose of 80 mg once daily for second episode. For third episode, further reduce dose to 50 mg once daily (for newly diagnosed patients) or discontinue (for patients resistant or intolerant to prior therapy including imatinib). |
+| Chronic phase CML (starting dose 100 mg once daily) | ANC < 0.5 x 109/l and/or platelets < 50 x 109/l | 1 Stop treatment until ANC ≥ 1.0 x 109/l and platelets ≥ 50 x 109/l. 2 Resume treatment at the original starting dose. 3 If platelets < 25 x 109/l and/or recurrence of ANC < 0.5 x 109/l for > 7 days, repeat step 1 and resume treatment at a reduced dose of 80 mg once daily for second episode. For third episode, further reduce dose to 50 mg once daily (for newly diagnosed patients) or discontinue (for patients resistant or intolerant to prior therapy including imatinib). |
 | --- | --- | --- |
-| Accelerated and Blast Phase CML and Ph+ ALL (starting dose 140 mg once daily) | ANC < 0.5 x 109/l and/or Platelets < 10 x 109/l | 1 Check if cytopenia is related to leukaemia (marrow aspirate or biopsy). 2 If cytopenia is unrelated to leukaemia, stop treatment until ANC ≥ 1.0 x 109/l and platelets ≥ 20 x 109/l and resume at the original starting dose. 3 If recurrence of cytopenia, repeat step 1 and resume treatment at a reduced dose of 100 mg once daily (second episode) or 80 mg once daily (third episode). 4 If cytopenia is related to leukaemia, consider dose escalation to 180 mg once daily. |
+| Accelerated and blast phase CML and Ph+ ALL (starting dose 140 mg once daily) | ANC < 0.5 x 109/l and/or platelets < 10 x 109/l | 1 Check if cytopaenia is related to leukaemia (marrow aspirate or biopsy). 2 If cytopaenia is unrelated to leukaemia, stop treatment until ANC ≥ 1.0 x 109/l and platelets ≥ 20 x 109/l and resume at the original starting dose. 3 If recurrence of cytopaenia, repeat step 1 and resume treatment at a reduced dose of 100 mg once daily (second episode) or 80 mg once daily (third episode). 4 If cytopaenia is related to leukaemia, consider dose escalation to 180 mg once daily. |
 
 ANC: absolute neutrophil count
 
 Non-haematological adverse reactions
-If a moderate, grade 2, non-haematological adverse reaction develops with dasatinib, interrupt treatment until the event has resolved or returned to baseline.
-Resume at the same dose if this is the first occurrence and at a reduced dose if this is a recurrent event.
-If a severe grade 3 or 4, non-haematological adverse reaction develops with dasatinib, treatment must be withheld until the event has resolved.
-Thereafter, treatment can be resumed as appropriate at a reduced dose depending on the initial severity of the event.
+If a moderate, grade 2, non-haematological adverse reaction develops with dasatinib, treatment should be interrupted until the adverse reaction has resolved or returned to baseline.
+The same dose should be resumed if this is the first occurrence and the dose should be reduced if this is a recurrent adverse reaction.
+If a severe grade 3 or 4, non-haematological adverse reaction develops with dasatinib, treatment must be withheld until the adverse reaction has resolved.
+Thereafter, treatment can be resumed as appropriate at a reduced dose depending on the initial severity of the adverse reaction.
 For patients with chronic phase CML who received 100 mg once daily, dose reduction to 80 mg once daily with further reduction from 80 mg once daily to 50 mg once daily, if needed, is recommended.
 For patients with advanced phase CML or Ph+ ALL who received 140 mg once daily, dose reduction to 100 mg once daily with further reduction from 100 mg once daily to 50 mg once daily, if needed, is recommended.
 
-Pleural effusion: if a pleural effusion is diagnosed, interrupt dasatinib until patient is asymptomatic or has returned to baseline.
-If the episode does not improve within approximately one week, consider a course of diuretics or corticosteroids or both concurrently (see sections 4.4 and 4.8).
-Following resolution of the first episode, consider reintroduction of dasatinib at the same dose level.
-Following resolution of a subsequent episode, reintroduce dasatinib at one dose level reduction.
-Following resolution of a severe (grade 3 or 4) episode, treatment can be resumed as appropriate at a reduced dose depending on the initial severity of the event.
+Pleural effusion
+If a pleural effusion is diagnosed, dasatinib should be interrupted until patient is asymptomatic or has returned to baseline.
+If the episode does not improve within approximately one week, a course of diuretics or corticosteroids or both concurrently should be considered (see sections 4.4 and 4.8).
+Following resolution of the first episode, reintroduction of dasatinib at the same dose level should be considered.
+Following resolution of a subsequent episode, dasatinib at one dose level reduction should be reintroduced.
+Following resolution of a severe (grade 3 or 4) episode, treatment can be resumed as appropriate at a reduced dose depending on the initial severity of the adverse reaction.
 
 Paediatric population
 The safety and efficacy of SPRYCEL in children and adolescents below 18 years of age have not yet been established.
 No data are available (see section 5.1).
 
-Older people
+Elderly
 No clinically relevant age-related pharmacokinetic differences have been observed in these patients.
-No specific dose recommendation is necessary in older people.
+No specific dose recommendation is necessary in elderly.
 
 Hepatic impairment
 Patients with mild, moderate or severe hepatic impairment may receive the recommended starting dose.
@@ -64,5 +65,5 @@ Since the renal clearance of dasatinib and its metabolites is < 4%, a decrease i
 
 Method of administration
 SPRYCEL must be administered orally.
-Film-coated tablets must not be crushed or cut in order to minimize the risk of dermal exposure, they must be swallowed whole.
+The film-coated tablets must not be crushed or cut in order to minimize the risk of dermal exposure, they must be swallowed whole.
 They can be taken with or without a meal and should be taken consistently either in the morning or in the evening.

@@ -1,4 +1,4 @@
-# 6.6 Special precautions for disposal
+# 6.6 Special precautions for disposal and other handling
 
 The film-coated tablets consist of a core tablet, surrounded by a film coating to prevent exposure of health care professionals to the active substance.
 However, if the film-coated tablets are unintentionally crushed or broken, health care professionals should wear disposable chemotherapy gloves for appropriate disposal in order to minimise the risk of dermal exposure.

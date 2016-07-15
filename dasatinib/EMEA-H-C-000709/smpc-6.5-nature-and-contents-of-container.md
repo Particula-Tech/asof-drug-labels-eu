@@ -1,35 +1,21 @@
 # 6.5 Nature and contents of container
 
-Alu/Alu blisters (calendar blisters or unit dose blisters).
-High-density polyethylene (HDPE) bottle with child resistant closure of polypropylene.Carton containing 56 film-coated tablets in 4 blisters of 14 film-coated tablets each.
+SPRYCEL 20 mg, 50 mg, 70 mg film-coated tablets
+Alu/Alu blisters (calendar blisters or perforated unit dose blisters).
+High-density polyethylene (HDPE) bottle with a polypropylene child-resistant closure.
+
+Carton containing 56 film-coated tablets in 4 calendar blisters of 14 film-coated tablets each.
 
 Carton containing 60 film-coated tablets in perforated unit dose blisters.
 
 Carton containing one bottle with 60 film-coated tablets.
 
-Not all pack sizes may be marketed.
-
-[SPRYCEL 50 mg film-coated tablets]
-
-(all sentences already above)
-
-[SPRYCEL 70 mg film-coated tablets]
-
-(all sentences already above)
-
-[SPRYCEL 80 mg film-coated tablets]
-
-Alu/Alu blisters (unit dose blisters).
-High-density polyethylene (HDPE) bottle with child resistant closure of polypropylene.
+SPRYCEL 80 mg, 100 mg, 140 mg film-coated tablets
+Alu/Alu blisters (perforated unit dose blisters).
+High-density polyethylene (HDPE) bottle with a polypropylene child-resistant closure.
 
 Carton containing 30 film-coated tablets in perforated unit dose blisters.
 
 Carton containing one bottle with 30 film-coated tablets.
 
-[SPRYCEL 100 mg film-coated tablets]
-
-(all sentences already above)
-
-[SPRYCEL 140 mg film-coated tablets]
-
-(all sentences already above)
+Not all pack sizes may be marketed.
