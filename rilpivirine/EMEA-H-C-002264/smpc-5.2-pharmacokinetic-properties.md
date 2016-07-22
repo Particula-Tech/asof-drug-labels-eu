@@ -16,7 +16,6 @@ Taking EDURANT in fasted condition or with only a nutritional drink may result i
 Distribution
 Rilpivirine is approximately 99.7% bound to plasma proteins in vitro, primarily to albumin.
 The distribution of rilpivirine into compartments other than plasma (e.g., cerebrospinal fluid, genital tract secretions) has not been evaluated in humans.
-
 Biotransformation
 In vitro experiments indicate that rilpivirine primarily undergoes oxidative metabolism mediated by the cytochrome P450 (CYP) 3A system.
 
@@ -41,6 +40,7 @@ EDURANT should be used with caution in this population (see section 4.2).
 
 Gender
 No clinically relevant differences in the pharmacokinetics of rilpivirine have been observed between men and women.
+
 Race
 Population pharmacokinetic analysis of rilpivirine in HIV infected patients indicated that race had no clinically relevant effect on the exposure to rilpivirine.
 
