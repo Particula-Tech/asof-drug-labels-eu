@@ -37,7 +37,7 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Respiratory, thoracic and mediastinal disorders |  |  |  |  |
 |  | Yawning | Throat tightness Epistaxis |  |  |
 | Gastrointestinal disorders |  |  |  |  |
-| Nausea Dry mouth | Constipation Diarrhoea Abdominal pain Vomiting Dyspepsia Flatulence | Gastrointestinal haemorrhage7 Gastroenteritis Eructation Gastritis Dysphagia | Stomatitis Haematochezia Breath odour |  |
+| Nausea Dry mouth | Constipation Diarrhoea Abdominal pain Vomiting Dyspepsia Flatulence | Gastrointestinal haemorrhage7 Gastroenteritis Eructation Gastritis Dysphagia | Stomatitis Haematochezia Breath odour Microscopic colitis9 |  |
 | Hepato-biliary disorders |  |  |  |  |
 |  |  | Hepatitis3 Elevated liver enzymes (ALT, AST, alkaline phosphatase) Acute liver injury | Hepatic failure6 Jaundice6 |  |
 | Skin and subcutaneous tissue disorders |  |  |  |  |
@@ -61,7 +61,8 @@ Within each frequency grouping, undesirable effects are presented in order of de
 5 Cases of suicidal ideation and suicidal behaviours have been reported during duloxetine therapy or early after treatment discontinuation (see section 4.4).
 6 Estimated frequency of post-marketing surveillance reported adverse reactions; not observed in placebo-controlled clinical trials.
 7 Not statistically significantly different from placebo.
-8 Falls were more common in the elderly (≥65 years old)
+8 Falls were more common in the elderly (≥65 years old).
+9 Estimated frequency based on all clinical trial data.
 
 c. Description of selected adverse reactions
 Discontinuation of duloxetine (particularly when abrupt) commonly leads to withdrawal symptoms.

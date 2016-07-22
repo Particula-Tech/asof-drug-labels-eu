@@ -14,7 +14,7 @@ Duloxetine binds to both albumin and alpha-l acid glycoprotein.
 Protein binding is not affected by renal or hepatic impairment.
 
 Biotransformation: Duloxetine is extensively metabolised and the metabolites are excreted principally in urine.
-Both cytochromes P450-2D6 and 1A2 catalyse the formation of the two major metabolites glucuronide conjugate of 4-hydroxy duloxetine and sulphate conjugate of 5-hydroxy 6-methoxy duloxetine.
+Both cytochromes P450-2D6 and 1A2 catalyse the formation of the two major metabolites glucuronide conjugate of 4-hydroxy duloxetine and sulfate conjugate of 5-hydroxy 6-methoxy duloxetine.
 Based upon in vitro studies, the circulating metabolites of duloxetine are considered pharmacologically inactive.
 The pharmacokinetics of duloxetine in patients who are poor metabolisers with respect to CYP2D6 has not been specifically investigated.
 Limited data suggest that the plasma levels of duloxetine are higher in these patients.

@@ -3,11 +3,11 @@
 Each capsule contains 30 mg of duloxetine (as hydrochloride).
 
 Excipient(s) with known effect:
-Each capsule contains 8.6 mg sucrose.
+Each capsule may contain up to 56 mg sucrose.
 For the full list of excipients, see section 6.1.
 
 [Cymbalta 60 mg hard gastro-resistant capsules]
 
 Each capsule contains 60 mg of duloxetine (as hydrochloride).
 
-Each capsule contains 17.2 mg sucrose.
+Each capsule may contain up to 111 mg sucrose.
