@@ -19,7 +19,8 @@ Adverse reactions by body system and frequency*
 | Endocrine disorders Rare: | adrenal insufficiency, blood gonadotropin decreased |
 | Metabolism and nutrition disorders Common: Uncommon: | electrolyte imbalance, anorexia, decreased appetite, hypokalaemia, hypomagnesaemia hyperglycaemia, hypoglycaemia |
 | Psychiatric disorders Uncommon: Rare: | abnormal dreams, confusional state, sleep disorder psychotic disorder, depression |
-| Nervous system disorders Common: Uncommon: Rare: | paresthesia, dizziness, somnolence, headache, dysgeusia convulsions, neuropathy, hypoaesthesia, tremor, aphasia, insomnia cerebrovascular accident, encephalopathy, peripheral neuropathy, syncope |
+| Nervous system disorders Common: Uncommon: | paresthesia, dizziness, somnolence, headache, dysgeusia convulsions, neuropathy, hypoaesthesia, tremor, aphasia, insomnia |
+| Rare: | cerebrovascular accident, encephalopathy, peripheral neuropathy, syncope |
 | Eye disorders Uncommon: Rare: | blurred vision, photophobia, visual acuity reduced diplopia, scotoma |
 | Ear and labyrinth disorder Rare: | hearing impairment |
 | Cardiac disorders Uncommon: Rare: | long QT syndrome§, electrocardiogram abnormal§, palpitations, bradycardia, supraventricular extrasystoles, tachycardia torsade de pointes, sudden death, ventricular tachycardia, cardio-respiratory arrest, cardiac failure, myocardial infarction |
@@ -32,10 +33,7 @@ Adverse reactions by body system and frequency*
 | Renal and urinary disorders Uncommon: Rare: | acute renal failure, renal failure, blood creatinine increased renal tubular acidosis, interstitial nephritis |
 | Reproductive system and breast disorders Uncommon: Rare: | menstrual disorder breast pain |
 | General disorders and administration site conditions Common: Uncommon: Rare: | pyrexia (fever), asthenia, fatigue oedema, pain, chills, malaise, chest discomfort, drug intolerance, feeling jittery, mucosal inflammation tongue oedema, face oedema |
-
-Investigations
-Uncommon: altered medicine levels, blood phosphorus decreased, chest
-x-ray abnormal
+| Investigations Uncommon: | altered medicine levels, blood phosphorus decreased, chest x-ray abnormal |
 
 * Based on adverse reactions observed with the oral suspension, gastro-resistant tablets, and concentrate for solution for infusion.
 § See section 4.4.

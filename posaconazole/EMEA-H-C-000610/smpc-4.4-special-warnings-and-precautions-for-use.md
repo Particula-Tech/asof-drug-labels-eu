@@ -28,6 +28,7 @@ Noxafil should be administered with caution to patients with pro-arrhythmic cond
 - Concomitant use with medicinal products known to prolong the QTc interval (other than those mentioned in section 4.3).
 
 Electrolyte disturbances, especially those involving potassium, magnesium or calcium levels, should be monitored and corrected as necessary before and during posaconazole therapy.
+
 Posaconazole is an inhibitor of CYP3A4 and should only be used under specific circumstances during treatment with other medicinal products that are metabolised by CYP3A4 (see section 4.5).
 
 Gastrointestinal dysfunction

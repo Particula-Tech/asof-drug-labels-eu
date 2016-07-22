@@ -18,6 +18,7 @@ Combining fosamprenavir with posaconazole may lead to decreased posaconazole pla
 If concomitant administration is required, close monitoring for breakthrough fungal infections is recommended.
 Repeat dose administration of fosamprenavir (700 mg twice daily x 10 days) decreased the Cmax and AUC of posaconazole oral suspension (200 mg once daily on the 1st day, 200 mg twice daily on the 2nd day, then 400 mg twice daily x 8 Days) by 21 % and 23 %, respectively.
 The effect of posaconazole on fosamprenavir levels when fosamprenavir is given with ritonavir is unknown.
+
 Phenytoin
 Phenytoin (200 mg once a day) decreased the Cmax and AUC of posaconazole by 41 % and 50 %, respectively.
 Concomitant use of posaconazole and phenytoin and similar inducers (e.g. carbamazepine, phenobarbital, primidone) should be avoided unless the benefit to the patient outweighs the risk.

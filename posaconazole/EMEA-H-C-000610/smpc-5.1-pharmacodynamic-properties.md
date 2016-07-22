@@ -9,13 +9,13 @@ Microbiology
 Posaconazole has been shown in vitro to be active against the following microorganisms: Aspergillus species (Aspergillus fumigatus, A. flavus, A. terreus, A. nidulans, A. niger, A. ustus), Candida species
 (Candida albicans, C. glabrata, C. krusei, C. parapsilosis, C. tropicalis, C. dubliniensis, C. famata, C. inconspicua, C. lipolytica, C. norvegensis, C. pseudotropicalis), Coccidioides immitis, Fonsecaea pedrosoi, and species of Fusarium, Rhizomucor, Mucor, and Rhizopus.
 The microbiological data suggest that posaconazole is active against Rhizomucor, Mucor, and Rhizopus, however the clinical data are currently too limited to assess the efficacy of posaconazole against these causative agents.
-
 Resistance
 Clinical isolates with decreased susceptibility to posaconazole have been identified.
 The principle mechanism of resistance is the acquisition of substitutions in the target protein, CYP51.
 
 Epidemiological Cut-off (ECOFF) Values for Aspergillus spp.
 The ECOFF values for posaconazole, which distinguish the wild type population from isolates with acquired resistance have been determined by EUCAST methodology.
+
 EUCAST ECOFF values:
 
 - Aspergillus flavus: 0.5 mg/L
@@ -56,6 +56,7 @@ Most of the cases of aspergillosis were considered to be refractory to prior the
 
 As shown in Table 3, a successful response (complete or partial resolution) at the end of treatment was seen in 42 % of posaconazole-treated patients compared to 26 % of the external group.
 However, this was not a prospective, randomised controlled study and so all comparisons with the external control group should be viewed with caution.
+
 Table 3.
 Overall efficacy of posaconazole oral suspension at the end of treatment for invasive aspergillosis in comparison to an external control group
 
@@ -97,10 +98,10 @@ Clinical success rates in Oropharyngeal Candidiasis
 
 Clinical success rate was defined as the number of cases assessed as having a clinical response (cure or improvement) divided by the total number of cases eligible for analysis.
 
+1 Includes other less common species or species unknown
 Prophylaxis of Invasive Fungal Infections (IFIs) (Studies 316 and 1899)
 Two randomised, controlled prophylaxis studies were conducted among patients at high risk for developing invasive fungal infections.
 
-1 Includes other less common species or species unknown
 Study 316 was a randomised, double-blind trial of posaconazole oral suspension (200 mg three times a day) versus fluconazole capsules (400 mg once daily) in allogeneic hematopoietic stem cell transplant recipients with graft-versus-host disease (GVHD).
 The primary efficacy endpoint was the incidence of proven/probable IFIs at 16 weeks post-randomization as determined by an independent, blinded external expert panel.
 A key secondary endpoint was the incidence of proven/probable IFIs during the on-treatment period (first dose to last dose of study medicinal product + 7 days).
