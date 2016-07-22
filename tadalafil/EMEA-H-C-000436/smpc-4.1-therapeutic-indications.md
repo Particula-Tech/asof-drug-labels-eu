@@ -15,7 +15,3 @@ Treatment of the signs and symptoms of benign prostatic hyperplasia in adult mal
 [CIALIS 10 mg film-coated tablets]
 
 (all sentences already above)
-
-[CIALIS 20 mg film-coated tablets]
-
-(all sentences already above)

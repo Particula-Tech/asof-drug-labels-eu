@@ -10,7 +10,3 @@ Do not store above 25°C.
 [CIALIS 10 mg film-coated tablets]
 
 (all sentences already above)
-
-[CIALIS 20 mg film-coated tablets]
-
-(all sentences already above)

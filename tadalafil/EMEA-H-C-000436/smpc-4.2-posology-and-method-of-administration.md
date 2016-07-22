@@ -56,13 +56,8 @@ Once-a-day dosing of 2.5 or 5 mg tadalafil both for the treatment of erectile dy
 
 For the treatment of erectile dysfunction using on-demand CIALIS the recommended dose of CIALIS is 10 mg taken prior to anticipated sexual activity and with or without food.
 
-Once-a-day dosing of CIALIS both for the treatment of erectile dysfunction and benign prostatic hyperplasia has not been evaluated in patients with hepatic impairment; therefore, if prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician.
-(see sections 4.4 and 5.2).
+Once-a-day dosing of CIALIS both for the treatment of erectile dysfunction and benign prostatic hyperplasia has not been evaluated in patients with hepatic impairment; therefore, if prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician (see sections 4.4 and 5.2).
 
 [CIALIS 10 mg film-coated tablets]
 
 Once-a-day dosing has not been evaluated in patients with hepatic impairment; therefore if prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician (see sections 4.4 and 5.2).
-
-[CIALIS 20 mg film-coated tablets]
-
-Tadalafil 10 mg and 20 mg is intended for use prior to anticipated sexual activity and it is not recommended for continuous daily use.

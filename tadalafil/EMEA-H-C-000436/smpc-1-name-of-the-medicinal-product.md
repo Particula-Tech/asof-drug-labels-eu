@@ -9,7 +9,4 @@ CIALIS 5 mg film-coated tablets
 [CIALIS 10 mg film-coated tablets]
 
 CIALIS 10 mg film-coated tablets
-
-[CIALIS 20 mg film-coated tablets]
-
 CIALIS 20 mg film-coated tablets

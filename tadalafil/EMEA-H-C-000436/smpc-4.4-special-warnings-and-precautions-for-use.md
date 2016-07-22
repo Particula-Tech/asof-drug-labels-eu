@@ -58,7 +58,3 @@ There is limited clinical data on the safety of single-dose administration of CI
 
 Hepatic impairment
 There is limited clinical data on the safety of single-dose administration of CIALIS in patients with severe hepatic insufficiency (Child-Pugh Class C). If CIALIS is prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician.
-
-[CIALIS 20 mg film-coated tablets]
-
-(all sentences already above)

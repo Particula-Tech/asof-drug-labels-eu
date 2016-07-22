@@ -97,7 +97,3 @@ Specific interaction studies with antidiabetic medicinal products were not condu
 
 Thus, in a patient prescribed any dose of CIALIS (2.5 mg –
 20 mg), where nitrate administration is deemed medically necessary in a life-threatening situation, at least 48 hours should have elapsed after the last dose of CIALIS before nitrate administration is considered.
-
-[CIALIS 20 mg film-coated tablets]
-
-(all sentences already above)

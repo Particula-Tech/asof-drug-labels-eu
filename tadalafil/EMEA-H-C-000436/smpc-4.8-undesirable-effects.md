@@ -8,7 +8,7 @@ The majority of headaches reported with CIALIS once-a-day dosing are experienced
 
 Tabulated summary of adverse reactions
 
-The table below lists the adverse reactions observed from spontaneous reporting and in placebo-controlled clinical trials (comprising a total of 7116 patients on CIALIS and 3718 patients on placebo) for on-demand and once-a-day treatment of erectile dysfunction and the once-a-day treatment of benign prostatic hyperplasia.
+The table below lists the adverse reactions observed from spontaneous reporting and in placebo-controlled clinical trials (comprising a total of 8022 patients on CIALIS and 4422 patients on placebo) for on-demand and once-a-day treatment of erectile dysfunction and the once-a-day treatment of benign prostatic hyperplasia.
 
 Frequency convention: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1000 to <1/100), rare (≥1/10,000 to <1/1,000) and very rare (<1/10,000) and not known (cannot be estimated from the available data).
 
@@ -17,9 +17,9 @@ Frequency convention: very common (≥1/10), common (≥1/100 to <1/10), uncommo
 | Immune system disorders |  |  |  |
 |  |  | Hypersensitivity reactions | Angioedema2 |
 | Nervous system disorders |  |  |  |
-|  | Headache | Dizziness | Stroke1 (including haemorrhagic events), Syncope, Transient ischaemic attacks1, Migraine2, Seizures, Transient amnesia |
+|  | Headache | Dizziness | Stroke1 (including haemorrhagic events), Syncope, Transient ischaemic attacks1, Migraine2, Seizures2, Transient amnesia |
 | Eye disorders |  |  |  |
-|  |  | Blurred vision, Sensations described as eye pain | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION) 2, Retinal vascular occlusion2 |
+|  |  | Blurred vision, Sensations described as eye pain | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION)2, Retinal vascular occlusion2 |
 | Ear and labyrinth disorders |  |  |  |
 |  |  | Tinnitus | Sudden hearing loss |
 | Cardiac disorders1 |  |  |  |
@@ -29,17 +29,17 @@ Frequency convention: very common (≥1/10), common (≥1/100 to <1/10), uncommo
 | Respiratory, thoracic and mediastinal disorders |  |  |  |
 |  | Nasal congestion | Dyspnoea, Epistaxis |  |
 | Gastrointestinal disorders |  |  |  |
-|  | Dyspepsia, Gastro-oesophageal reflux | Abdominal pain |  |
+|  | Dyspepsia | Abdominal pain, Vomiting, Nausea, Gastro-oesophageal reflux |  |
 | Skin and subcutaneous tissue disorders |  |  |  |
-|  |  | Rash, Hyperhydrosis (sweating) | Urticaria, Stevens-Johnson syndrome2, Exfoliative dermatitis2 |
+|  |  | Rash | Urticaria, Stevens-Johnson syndrome2, Exfoliative dermatitis2, Hyperhydrosis (sweating) |
 | Musculoskeletal, connective tissue and bone disorders |  |  |  |
 |  | Back pain, Myalgia, Pain in extremity |  |  |
 | Renal and urinary disorders |  |  |  |
 |  |  | Haematuria |  |
 | Reproductive system and breast disorders |  |  |  |
-|  |  | Penile haemorrhage, Haematospermia | Prolonged erections, Priapism2 |
+|  |  | Prolonged erections | Priapism, Penile haemorrhage, Haematospermia |
 | General disorders and administration site conditions |  |  |  |
-|  |  | Chest pain1 | Facial oedema2, S2 u dden cardiac death1, |
+|  |  | Chest pain1, Peripheral oedema, Fatigue | Facial oedema2, Sudden cardiac death1, 2 |
 
 (1) Most of the patients had pre-existing cardiovascular risk factors (see section 4.4).
 (2) Postmarketing surveillance reported adverse reactions not observed in placebo-controlled clinical trials.
@@ -53,6 +53,7 @@ Most of these ECG abnormalities were not associated with adverse reactions.
 Other special populations
 
 Data in patients over 65 years of age receiving tadalafil in clinical trials, either for the treatment of erectile dysfunction or the treatment of benign prostatic hyperplasia, are limited.
+In clinical trials with tadalafil taken on demand for the treatment of erectile dysfunction, diarrhoea was reported more frequently in patients over 65 years of age.
 In clinical trials with tadalafil 5mg taken once a day for the treatment of benign prostatic hyperplasia, dizziness and diarrhoea were reported more frequently in patients over 75 years of age.
 
 Reporting of suspected adverse reactions
@@ -62,15 +63,14 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [CIALIS 5 mg film-coated tablets]
 
-Very common Common Uncommon Rare
-
-| Immune system disorders |  |  |  |
+| Very common | Common | Uncommon | Rare |
 | --- | --- | --- | --- |
+| Immune system disorders |  |  |  |
 |  |  | Hypersensitivity reactions | Angioedema2 |
 | Nervous system disorders |  |  |  |
-|  | Headache | Dizziness | Stroke1 (including haemorrhagic events), Syncope, Transient ischaemic attacks1, Migraine2, Seizures, Transient amnesia |
+|  | Headache | Dizziness | Stroke1 (including haemorrhagic events), Syncope, Transient ischaemic attacks1, Migraine2, Seizures2, Transient amnesia |
 | Eye disorders |  |  |  |
-|  |  | Blurred vision, Sensations described as eye pain | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION) 2, Retinal vascular occlusion2 |
+|  |  | Blurred vision, Sensations described as eye pain | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION)2, Retinal vascular occlusion2 |
 | Ear and labyrinth disorders |  |  |  |
 |  |  | Tinnitus | Sudden hearing loss |
 | Cardiac disorders1 |  |  |  |
@@ -80,17 +80,22 @@ Very common Common Uncommon Rare
 | Respiratory, thoracic and mediastinal disorders |  |  |  |
 |  | Nasal congestion | Dyspnoea, Epistaxis |  |
 | Gastrointestinal disorders |  |  |  |
-|  | Dyspepsia, Gastro-oesophageal reflux | Abdominal pain |  |
+|  | Dyspepsia | Abdominal pain, Vomiting, Nausea, Gastro-oesophageal reflux |  |
 | Skin and subcutaneous tissue disorders |  |  |  |
-|  |  | Rash, Hyperhydrosis (sweating) | Urticaria, Stevens-Johnson syndrome2, Exfoliative dermatitis2 |
+|  |  | Rash | Urticaria, Stevens-Johnson syndrome2, Exfoliative dermatitis2, Hyperhydrosis (sweating) |
 | Musculoskeletal, connective tissue and bone disorders |  |  |  |
 |  | Back pain, Myalgia, Pain in extremity |  |  |
 | Renal and urinary disorders |  |  |  |
 |  |  | Haematuria |  |
 | Reproductive system and breast disorders |  |  |  |
-|  |  | Penile haemorrhage, Haematospermia | Prolonged erections, Priapism2 |
-| General disorders and administration site conditions |  |  |  |
-|  |  | Chest pain1 | Facial oedema2, Sudden cardiac death1,2 |
+|  |  | Prolonged erections | Priapism, Penile |
+
+haemorrhage,
+Haematospermia
+General disorders and administration site conditions
+Chest pain1, Peripheral Facial oedema2,
+oedema, Fatigue Sudden cardiac
+death1, 2
 
 [CIALIS 10 mg film-coated tablets]
 
@@ -99,7 +104,7 @@ Very common Common Uncommon Rare
 | Immune system disorders |  |  |  |
 |  |  | Hypersensitivity reactions | Angioedema2 |
 | Nervous system disorders |  |  |  |
-|  | Headache | Dizziness | Stroke1 (including haemorrhagic events), Syncope, Transient ischaemic attacks1, Migraine2, Seizures, Transient amnesia |
+|  | Headache | Dizziness | Stroke1 (including haemorrhagic events), Syncope, Transient ischaemic attacks1, Migraine2, Seizures2, Transient amnesia |
 | Eye disorders |  |  |  |
 |  |  | Blurred vision, Sensations described as eye pain | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION) 2, Retinal vascular occlusion2 |
 | Ear and labyrinth disorders |  |  |  |
@@ -111,18 +116,14 @@ Very common Common Uncommon Rare
 | Respiratory, thoracic and mediastinal disorders |  |  |  |
 |  | Nasal congestion | Dyspnoea, Epistaxis |  |
 | Gastrointestinal disorders |  |  |  |
-|  | Dyspepsia, Gastro-oesophageal reflux | Abdominal pain |  |
+|  | Dyspepsia | Abdominal pain, Vomiting, Nausea, Gastro-oesophageal reflux |  |
 | Skin and subcutaneous tissue disorders |  |  |  |
-|  |  | Rash, Hyperhydrosis (sweating) | Urticaria, Stevens-Johnson syndrome2, Exfoliative dermatitis2 |
+|  |  | Rash | Urticaria, Stevens-Johnson syndrome2, Exfoliative dermatitis2, Hyperhydrosis (sweating) |
 | Musculoskeletal, connective tissue and bone disorders |  |  |  |
 |  | Back pain, Myalgia, Pain in extremity |  |  |
 | Renal and urinary disorders |  |  |  |
 |  |  | Haematuria |  |
 | Reproductive system and breast disorders |  |  |  |
-|  |  | Penile haemorrhage, Haematospermia | Prolonged erections, Priapism2 |
+|  |  | Prolonged erections | Priapism, Penile haemorrhage, Haematospermia |
 | General disorders and administration site conditions |  |  |  |
-|  |  | Chest pain1 | Facial oedema2, Sudden cardiac death1,2 |
-
-[CIALIS 20 mg film-coated tablets]
-
-(all sentences already above)
+|  |  | Chest pain1, Peripheral oedema, Fatigue | Facial oedema2, Sudden cardiac death1,2 |
