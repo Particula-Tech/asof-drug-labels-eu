@@ -4,7 +4,6 @@ Interaction studies have only been performed in adults.
 
 Ruxolitinib is eliminated through metabolism catalysed by CYP3A4 and CYP2C9.
 Thus, medicinal products inhibiting these enzymes can give rise to increased ruxolitinib exposure.
-
 Interactions resulting in dose reduction of ruxolitinib
 CYP3A4 inhibitors
 Strong CYP3A4 inhibitors (such as, but not limited to, boceprevir, clarithromycin, indinavir, itraconazole, ketoconazole, lopinavir/ritonavir, ritonavir, mibefradil, nefazodone, nelfinavir, posaconazole, saquinavir, telaprevir, telithromycin, voriconazole)
@@ -15,7 +14,8 @@ When administering Jakavi with strong CYP3A4 inhibitors the unit dose of Jakavi 
 Patients should be closely monitored (e.g. twice weekly) for cytopenias and dose titrated based on safety and efficacy (see section 4.2).
 
 Dual CYP2C9 and CYP3A4 inhibitors
-On the basis of in silico modelling 50% dose reduction should be considered when using medicinal products which are dual inhibitors of CYP2C9 and CYP3A4 enzymes (e.g. fluconazole).
+50% dose reduction should be considered when using medicinal products which are dual inhibitors of CYP2C9 and CYP3A4 enzymes (e.g. fluconazole).
+Avoid the concomitant use of Jakavi with fluconazole doses greater than 200 mg daily.
 
 Enzyme inducers
 CYP3A4 inducers (such as, but not limited to, avasimibe, carbamazepine, phenobarbital, phenytoin, rifabutin, rifampin (rifampicin), St.John’s wort (Hypericum perforatum))
@@ -39,8 +39,8 @@ Substances transported by P-glycoprotein or other transporters
 Ruxolitinib may inhibit P-glycoprotein and breast cancer resistance protein (BCRP) in the intestine.
 This may result in increased sytemic exposure of substrates of these transporters, such as dabigatran etexilate, ciclosporin, rosuvastatin and potentially digoxin.
 Therapeutic drug monitoring (TDM) or clinical monitoring of the affected substance is advised.
-It is possible that the potential inhibition of P-gp and BCRP in the intestine can be minimised if the time between administrations is kept apart as long as possible.
 
+It is possible that the potential inhibition of P-gp and BCRP in the intestine can be minimised if the time between administrations is kept apart as long as possible.
 Haematopoietic growth factors
 The concurrent use of haematopoietic growth factors and Jakavi has not been studied.
 It is not known whether the Janus Associated Kinase (JAK) inhibition by Jakavi reduces the efficacy of the haematopoietic growth factors or whether the haematopoietic growth factors affect the efficacy of Jakavi (see section 4.4).

@@ -30,6 +30,7 @@ The maximum dose of Jakavi is 25 mg twice daily.
 
 Dose adjustment with concomitant strong CYP3A4 inhibitors or fluconazole
 When Jakavi is administered with strong CYP3A4 inhibitors or dual inhibitors of CYP2C9 and CYP3A4 enzymes (e.g. fluconazole) the unit dose of Jakavi should be reduced by approximately 50%, to be administered twice daily (see section 4.5).
+Avoid the concomitant use of Jakavi with fluconazole doses greater than 200 mg daily.
 
 More frequent monitoring (e.g. twice a week) of haematology parameters and of clinical signs and symptoms of Jakavi-related adverse drug reactions is recommended while on strong CYP3A4 inhibitors or dual inhibitors of CYP2C9 and CYP3A4 enzymes.
 
