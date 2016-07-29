@@ -1,7 +1,7 @@
 # 6.3 Shelf life
 
 Unopened vial
-18 months
+2 years
 
 After reconstitution
 Chemical and physical in-use stability of the reconstituted and diluted solution has been demonstrated for 24 hours at room temperatures (at or below 25°C).

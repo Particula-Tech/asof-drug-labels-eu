@@ -4,6 +4,8 @@ Preparation and administration
 
 - Prior to reconstitution, the vial of lyophilised powder can be out of refrigeration (temperatures at or below 25°C) for up to 24 hours.
 - Aseptically add 2.3 mL of water for injections to yield a 25 mg/mL (pH 5.2-5.8) solution of KEYTRUDA.
+  Each vial contains an excess fill of 10 mg (0.4 mL) to ensure the recovery of 50 mg of KEYTRUDA per vial.
+  After reconstitution, 1 mL of concentrate contains 25 mg of pembrolizumab.
 - To avoid foaming, deliver the water along the walls of the vial and not directly on the lyophilised powder.
 - Slowly swirl the vial to allow reconstitution of the lyophilised powder.
   Allow up to 5 minutes for the bubbles to clear.

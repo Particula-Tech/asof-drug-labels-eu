@@ -2,7 +2,7 @@
 
 One vial of powder contains 50 mg of pembrolizumab.
 
-After reconstitution, 1 mL of solution contains 25 mg of pembrolizumab.
+After reconstitution, 1 mL of concentrate contains 25 mg of pembrolizumab.
 
 Pembrolizumab is a humanised monoclonal anti-programmed cell death-1 (PD-1) antibody (IgG4/kappa isotype with a stabilising sequence alteration in the Fc region) produced in Chinese hamster ovary cells by recombinant DNA technology.
 
