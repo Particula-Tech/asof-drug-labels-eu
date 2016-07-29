@@ -147,12 +147,12 @@ increased
 
 1.
 Infusion related reaction events in pJIA patients included but were not limited to headache, nausea and hypotension 2.
-Infusion related reaction events in sJIA patients included but were not limited to rash, urticaria, diarrhea, epigastric discomfort, arthralgia and headache
+Infusion related reaction events in sJIA patients included but were not limited to rash, urticaria, diarrhoea, epigastric discomfort, arthralgia and headache
 
 pJIA Patients
 The safety of tocilizumab in pJIA has been studied in 188 patients from 2 to 17 years of age.
 The total patient exposure was 184.4 patient years.
-The frequency of ADRs in pJIA patients can be found in Table 2 .
+The frequency of ADRs in pJIA patients can be found in Table 2.
 The types of ADRs in pJIA patients were similar to those seen in RA and sJIA patients, see section 4.8.
 When compared to the adult RA population, events of nasopharyngitis, headache, nausea, and decreased neutrophil count were more frequently reported in the pJIA population.
 Events of cholesterol increased were less frequently reported in the pJIA population than in the adult RA population.

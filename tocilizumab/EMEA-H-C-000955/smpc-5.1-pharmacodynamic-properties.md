@@ -339,7 +339,6 @@ Inhibition of joint structural damage was shown with significantly less radiogra
 
 Following 1 year of treatment with tocilizumab plus MTX, 85% of patients(n=348) had no progression of structural joint damage, as defined by a change in the Total Sharp Score of zero or less, compared with 67% of placebo plus MTX-treated patients(n=290) (p ≤ 0.001).
 
-Tocilizumab versus adalimumabin monotherapy
 A statistically significant superior treatment effect was seen in favour of tocilizumab over adalimumab in control of disease activity from baseline to week 24 for the primary endpoint of change in DAS28 and for all secondary endpoints (Table 4).
 Table 4: Efficacy Results for Study VI (WA19924)
 ADA + Placebo TCZ + Placebo

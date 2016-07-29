@@ -48,7 +48,6 @@ The dose should be calculated based on the patient’s body weight at each admin
 A change in dose should only be based on a consistent change in the patient’s body weight over time.
 
 The safety and efficacy of RoActemra in children below 2 years of age has not been established.
-
 No data are available.
 
 Dose interruptions of tocilizumab for the following laboratory abnormalities are recommended in sJIA patients in the tables below.
@@ -91,7 +90,6 @@ A change in dose should only be based on a consistent change in the patient’s 
 
 The safety and efficacy of RoActemra in children below 2 years of age has not been established.
 No data are available.
-
 Dose interruptions of tocilizumab for the following laboratory abnormalities are recommended in pJIA patients in the tables below.
 If appropriate, the dose of concomitant MTX and/or other medications should be modified or dosing stopped and tocilizumab dosing interrupted until the clinical situation has been evaluated.
 As there are many co-morbid conditions that may effect laboratory values in pJIA, the decision to discontinue tocilizumab for a laboratory abnormality should be based upon the medical assessment of the individual patient.
@@ -155,11 +153,10 @@ Treatment should be initiated by healthcare professionals experienced in the dia
 Suitability of the patient for subcutaneous home use should be assessed and instruct patients to inform a healthcare professional if they experience symptoms of an allergic reaction before administering the next dose.
 Patients should seek immediate medical attention if developing symptoms of serious allergic reactions (see section 4.4).
 
-The recommended posology is subcutaneous 162mg once every week.
+The recommended posology is subcutaneous 162 mg once every week.
 
 Limited information is available regarding switching patients from RoActemra intravenous formulation to RoActemra subcutaneous fixed dose formulation.
 The once every week dosing interval should be followed.
-
 Patients transitioning from intravenous to subcutaneous formulation should administer their first subcutaneous dose instead of the next scheduled intravenous dose under the supervision of a qualified healthcare professional.
 
 | Laboratory Value | Action |
@@ -192,4 +189,4 @@ The recommended injection sites (abdomen, thigh and upper arm) should be rotated
 
 The pre-filled syringe should not be shaken.
 
-Comprehensive instructions for the administration of RoActemra in a pre-filled syringe are given in the package leaflet , see section 6.6.
+Comprehensive instructions for the administration of RoActemra in a pre-filled syringe are given in the package leaflet, see section 6.6.
