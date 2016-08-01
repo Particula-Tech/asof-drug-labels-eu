@@ -6,14 +6,15 @@ In case of an overdose suspicion, coagulation tests can help to determine a blee
 A calibrated quantitative dTT test or repetitive dTT measurements allow prediction of the time by when certain dabigatran levels will be reached (see section 5.1), also in case additional measures e.g. dialysis have been initiated.
 
 Excessive anticoagulation may require interruption of Pradaxa treatment.
-There is no specific antidote to dabigatran.
 In the event of haemorrhagic complications, treatment must be discontinued and the source of bleeding investigated.
 Since dabigatran is excreted predominantly by the renal route adequate diuresis must be maintained.
-Appropriate supportive treatment, such as surgical haemostasis and blood volume replacement, should be undertaken at the prescribers discretion.
+Depending on the clinical situation appropriate supportive treatment, such as surgical haemostasis and blood volume replacement, should be undertaken at the prescribers discretion.
 
-Activated prothrombin complex concentrates (e.g., FEIBA) or recombinant Factor VIIa or concentrates of coagulation factors II, IX and X, may be considered.
+For situations when rapid reversal of the anticoagulant effect of Pradaxa is required the specific reversal agent (Praxbind, idarucizumab) antagonizing the pharmacodynamics effect of Pradaxa is available (see section 4.4).
+
+Coagulation factor concentrates (activated or non-activiated) or recombinant Factor VIIa may be taken into account.
 There is some experimental evidence to support the role of these medicinal products in reversing the anticoagulant effect of dabigatran, but data on their usefulness in clinical settings and also on the possible risk of rebound thromboembolism is very limited.
-Coagulation tests may become unreliable following adminstration of suggested reversing medicinal products.
+Coagulation tests may become unreliable following adminstration of suggested coagulation factor concentrates.
 Caution should be exercised when interpreting these tests.
 Consideration should also be given to administration of platelet concentrates in cases where thrombocytopenia is present or long acting antiplatelet drugs have been used.
 All symptomatic treatment should be given according to the physician's judgement.
@@ -24,8 +25,11 @@ As protein binding is low, dabigatran can be dialysed; there is limited clinical
 
 [Pradaxa 110 mg hard capsules]
 
-(all sentences already above)
+Coagulation factor concentrates (activated or non-activated) or recombinant Factor VIIa may be taken into account.
+Coagulation tests may become unreliable following administration of suggested coagulation factor concentrates.
 
 [Pradaxa 150 mg hard capsules]
 
 A calibrated quantitative (dTT) test or repetitive dTT measurements allow prediction of the time by when certain dabigatran levels will be reached (see section 5.1), also in case additional measures e.g. dialysis have been initiated.
+
+For situations when rapid reversal of the anticoagulant effects of Pradaxa is required the specific reversal agent (Praxbind, idarucizumab) antagonizing the pharmacodynamics effect of Pradaxa is available (see section 4.4).

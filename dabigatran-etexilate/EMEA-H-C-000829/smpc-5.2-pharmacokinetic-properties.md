@@ -13,7 +13,7 @@ It was demonstrated in a further study that slow and delayed absorption is usual
 On subsequent days absorption of dabigatran is rapid with peak plasma concentrations attained 2 hours after medicinal product administration.
 Food does not affect the bioavailability of dabigatran etexilate but delays the time to peak plasma concentrations by 2 hours.
 
-The oral bioavailability may be increased by 75 % compared to the reference capsule formulation when the pellets are taken without the Hydroxypropylmethylcellulose (HPMC) capsule shell.
+The oral bioavailability may be increased by 75 % after a single dose and 37 % at steady state compared to the reference capsule formulation when the pellets are taken without the Hydroxypropylmethylcellulose (HPMC) capsule shell.
 Hence, the integrity of the HPMC capsules should always be preserved in clinical use to avoid unintentionally increased bioavailability of dabigatran etexilate.
 Therefore, patients should be advised not to open the capsules and taking the pellets alone (e.g. sprinkled over food or into beverages) (see section 4.2).
 
@@ -71,7 +71,6 @@ Body weight
 The dabigatran trough concentrations were about 20 % lower in patients with a body weight > 100 kg compared with 50-100 kg.
 The majority (80.8 %) of the subjects were in the ≥50 kg and < 100 kg category with no clear difference detected (see sections 4.2 and 4.4).
 Limited clinical data in patients < 50 kg are available.
-
 Gender
 Active substance exposure in the primary VTE prevention studies was about 40 % to 50 % higher in female patients and no dose adjustment is recommended.
 

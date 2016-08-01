@@ -12,20 +12,24 @@ Dabigatran also inhibits free thrombin, fibrin-bound thrombin and thrombin-induc
 
 Pharmacodynamic effects
 In-vivo and ex-vivo animal studies have demonstrated antithrombotic efficacy and anticoagulant activity of dabigatran after intravenous administration and of dabigatran etexilate after oral administration in various animal models of thrombosis.
+
 There is a clear correlation between plasma dabigatran concentration and degree of anticoagulant effect based on phase II studies.
 Dabigatran prolongs the thrombin time (TT), ECT, and aPTT.
 
-The calibrated diluted TT (dTT) test provides an estimation of dabigatran plasma concentration that can be compared to the expected dabigatran plasma concentrations.
+The calibrated quantitative diluted TT (dTT) test provides an estimation of dabigatran plasma concentration that can be compared to the expected dabigatran plasma concentrations.
+When the calibrated dTT assay delivers a dabigatran plasma concentration result at or below the limit of quantification, an additional coagulation assay such as TT, ECT or aPTT should be considered.
 
 The ECT can provide a direct measure of the activity of direct thrombin inhibitors.
 
 The aPTT test is widely available and provides an approximate indication of the anticoagulation intensity achieved with dabigatran.
 However, the aPTT test has limited sensitivity and is not suitable for precise quantification of anticoagulant effect, especially at high plasma concentrations of dabigatran.
-High aPTT values should be interpreted with caution.
+Although high aPTT values should be interpreted with caution, a high aPTT value indicates that the patient is anticoagulated.
 
-In general, it can be assumed that these measures of anti-coagulant activity may reflect dabigatran levels and can provide guidance for the assessment of bleeding risk, i.e. exceeding the 90th percentile of dabigatran trough levels or a coagulation assay such as aPTT measured at trough is considered to be associated with an increased risk of bleeding.
+In general, it can be assumed that these measures of anti-coagulant activity may reflect dabigatran levels and can provide guidance for the assessment of bleeding risk, i.e. exceeding the 90th percentile of dabigatran trough levels or a coagulation assay such as aPTT measured at trough (for aPTT thresholds see section 4.4, table 2) is considered to be associated with an increased risk of bleeding.
 
 Steady state (after day 3) geometric mean dabigatran peak plasma concentration, measured around 2 hours after 220 mg dabigatran etexilate administration, was 70.8 ng/mL, with a range of 35.2-162 ng/mL (25th-75th percentile range).The dabigatran geometric mean trough concentration, measured at the end of the dosing interval (i.e. 24 hours after a 220 mg dabigatran dose), was on average 22.0 ng/mL, with a range of 13.0-35.7 ng/mL (25th-75th percentile range).
+
+In a dedicated study exclusively in patients with moderate renal impairment (creatinine clearance, CrCL 30-50 mL/min) treated with dabigatran etexilate 150 mg QD, the dabigatran geometric mean trough concentration, measured at the end of the dosing interval, was on average 47.5 ng/mL, with a range of 29.6 - 72.2 ng/mL (25th-75th percentile range).
 
 In patients treated for prevention of VTEs after hip or knee replacement surgery with 220 mg dabigatran etexilate once daily,
 
@@ -64,7 +68,6 @@ Data for the major VTE and VTE-related mortality endpoint were homogeneous with 
 Data for the total VTE and all cause mortality endpoint are shown in table 7.
 
 Data for adjudicated major bleeding endpoints are shown in table 8 below.
-
 Table 6: Analysis of major VTE and VTE-related mortality during the treatment period in the RE-MODEL and the RE-NOVATE orthopaedic surgery studies
 
 | Trial | Dabigatran etexilate 220 mg | Dabigatran etexilate 150 mg | Enoxaparin 40 mg |
@@ -108,8 +111,7 @@ Table 8: Major bleeding events by treatment in the individual RE-MODEL and the R
 
 Paediatric population
 
-The European Medicines Agency has waived the obligation to submit the results of studies with Pradaxa in all subsets of the paediatric population in prevention of thromboembolic events in the granted indication (see section 4.2 for information on paediatric use).
-
+The European Medicines Agency has waived the obligation to submit the results of studies with Pradaxa in all subsets of the paediatric population in prevention of thromboembolic events for the granted indication (see section 4.2 for information on paediatric use).
 Clinical trials for the prevention of thromboembolism in patients with prosthetic heart valves
 
 A phase II study examined dabigatran etexilate and warfarin in a total of 252 patients with recent mechanical valve replacement surgery (i.e. within the current hospital stay) and in patients who received a mechanical heart valve replacement more than three months ago.
@@ -149,7 +151,6 @@ Data for the major VTE and VTE-related mortality endpoint were homogeneous with 
 Data for the total VTE and all cause mortality endpoint are shown in table 11.
 
 Data for adjudicated major bleeding endpoints are shown in table 12 below.
-
 Table 10: Analysis of major VTE and VTE-related mortality during the treatment period in the RE-MODEL and the RE-NOVATE orthopaedic surgery studies.
 
 | Trial | Dabigatran etexilate 220 mg once daily | Dabigatran etexilate 150 mg once daily | Enoxaparin 40 mg |
@@ -192,6 +193,7 @@ Table 12: Major bleeding events by treatment in the individual RE-MODEL and the 
 | Number of MBE N(%) | 10 (1.5) | 9 (1.3) | 9 (1.3) |
 
 Prevention of stroke and SEE in adult patients with NVAF with one or more risk factors
+
 The clinical evidence for the efficacy of dabigatran etexilate is derived from the RE-LY study (Randomized Evaluation of Long–term anticoagulant therapy) a multi-centre, multi-national, randomized parallel group study of two blinded doses of dabigatran etexilate (110 mg and 150 mg twice daily) compared to open-label warfarin in patients with atrial fibrillation at moderate to high risk of stroke and SEE.
 The primary objective in this study was to determine if dabigatran etexilate was non-inferior to warfarin in reducing the occurrence of the composite endpoint stroke and SEE.
 Statistical superiority was also analyzed.
@@ -358,7 +360,7 @@ No clinically relevant ethnic differences among Caucasians, Afrian-American, His
 
 Paediatric population (DVT/PE treatment)
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with Pradaxa in all subsets of the paediatric population in DVT/PE treatment (see section 4.2 for information on paediatric use).
+The European Medicines Agency has deferred the obligation to submit the results of studies with Pradaxa in all subsets of the paediatric population for DVT/PE treatment (see section 4.2 for information on paediatric use).
 The pharmacokinetics and pharmacodynamics of dabigatran etexilate administered twice daily for three consecutive days (total 6 doses) at the end of standard anticoagulant therapy were assessed in an open-label safety and tolerability study in 9 stable adolescents (12 to < 18 years).
 All patients received an initial oral dose of 1.71 (± 10%) mg/kg of dabigatran etexilate (80 % of the adult dose of 150 mg/70 kg adjusted for the patient’s weight).
 Based on dabigatran concentrations and clinical assessment, the dose was subsequently modified to a target dose of 2.14 (± 10 %) mg/kg of dabigatran etexilate (100 % of the adult dose adjusted for the patient’s weight).
@@ -379,7 +381,6 @@ Duration of dabigatran exilate treatment ranged from 6 to 36 months (median 534.
 For patients randomized to warfarin, the median time in therapeutic range (INR 2.0-3.0) was 64.9 %.
 
 RE-MEDY demonstrated that treatment with dabigatran etexilate 150 mg twice daily was non-inferior to warfarin non-inferiority margin: 2.85 for hazard ratio and 2.8 for risk difference).
-
 Table 19: Analysis of the primary and secondary efficacy endpoints (VTE is a composite of DVT and/or PE) until the end of post-treatment period for the RE-MEDY study
 
 |  | Dabigatran etexilate 150 mg twice daily | Warfarin |
@@ -415,7 +416,6 @@ The study included observational follow-up for 12 months after the conclusion of
 After discontinuation of study medication the effect was maintained until the end of the follow-up, indicating that the initial treatment effect of dabigatran etexilate was sustained.
 No rebound effect was observed.
 At the end of the follow-up VTE events in patients treated with dabigatran etexilate was 6.9 % vs. 10.7 % among the placebo group (hazard ratio 0.61 (95% CI 0.42, 0.88), p=0.0082).
-
 Table 20: Analysis of the primary and secondary efficacy endpoints (VTE is a composite of DVT and/or PE) until the end of post-treatment period for the RE-SONATE study.
 
 |  | Dabigatran etexilate 150 mg twice daily | Placebo |
@@ -442,7 +442,7 @@ Ethnic origin (DVT/PE prevention)
 
 Paediatric population (DVT/PE prevention)
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with Pradaxa in all subsets of the paediatric population in DVT/PE prevention (see section 4.2 for information on paediatric use).
+The European Medicines Agency has deferred the obligation to submit the results of studies with Pradaxa in all subsets of the paediatric population for DVT/PE prevention (see section 4.2 for information on paediatric use).
 
 [Pradaxa 150 mg hard capsules]
 
@@ -471,7 +471,6 @@ Tables 12-13 display results of the primary efficacy and safety endpoint in rele
 Table 12: Hazard Ratio and 95 % CI for stroke/SEE by subgroups
 
 The concomitant use of antiplatelets ASA or clopidogrel approximately doubles MBE rates with both dabigatran and warfarin.
-
 Table 13: Hazard Ratio and 95 % CI for major bleeds by subgroups
 
 Paediatric population (SPAF)

@@ -2,7 +2,7 @@
 
 Each hard capsule contains 75 mg of dabigatran etexilate (as mesilate).
 
-Excipient(s) with known effect:
+Excipient(s) with known effect
 Each hard capsule contains 2 micrograms of sunset yellow (E110).
 
 For the full list of excipients, see section 6.1.

@@ -11,6 +11,8 @@ Dabigatran etexilate should be used with caution in conditions with an increased
 Bleeding can occur at any site during therapy with dabigatran etexilate.
 An unexplained fall in haemoglobin and/or haematocrit or blood pressure should lead to a search for a bleeding site.
 
+For situations of life-threatening or uncontrolled bleeding, when rapid reversal of the anticoagulation effect of dabigatran is required, the specific reversal agent (Praxbind, idarucizumab) is available (see section 4.9).
+
 Factors, such as decreased renal function (30-50 mL/min CrCL), age ≥75 years, low body weight
 < 50 kg, or mild to moderate P-gp inhibitor co-medication (e.g. amiodarone, quinidine or verapamil) are associated with increased dabigatran plasma levels (see sections 4.2, 4.5 and 5.2).
 
@@ -18,8 +20,8 @@ The concomitant use of ticagrelor increases the exposure to dabigatran and may s
 
 Use of acetylsalicylic acid (ASA), clopidogrel or non steroidal antiinflammatory drug (NSAID), as well as the presence of esophagitis, gastritis or gastroesophageal reflux increase the risk of GI bleeding.
 The administration of a PPI can be considered to prevent GI bleeding.
-
 Bleeding risk may be increased in patients concomitantly treated with selective serotonin re-uptake inhibitors (SSRIs) or selective serotonin norepinephrine re-uptake inhibitors (SNRIs) (see section 4.5).
+
 Close clinical surveillance (looking for signs of bleeding or anaemia) is recommended throughout the treatment period, especially if risk factors are combined (see section 5.1).
 
 Table 1 summarises factors which may increase the haemorrhagic risk.
@@ -43,7 +45,6 @@ Therefore INR tests should not be performed.
 Diluted thrombin time (dTT), ecarin clotting time (ECT) and activated partial thromboplastin time (aPTT) may provide useful information, but the tests are not standardised, and results should be interpreted with caution (see section 5.1).
 
 Table 2 shows coagulation test thresholds at trough that may be associated with an increased risk of bleeding (see section 5.1)
-
 Table 2: Coagulation test thresholds at trough that may be associated with an increased risk of bleeding.
 
 | Test (trough value) |  |
@@ -51,8 +52,7 @@ Table 2: Coagulation test thresholds at trough that may be associated with an in
 | dTT [ng/mL] | > 67 |
 | ECT [x-fold upper limit of normal] | No data |
 | aPTT [x-fold upper limit of normal] | > 1.3 |
-
-INR Should not be performed
+| INR | Should not be performed |
 
 Patients who develop acute renal failure must discontinue Pradaxa (see section 4.3).
 
@@ -80,7 +80,23 @@ Clearance of dabigatran in patients with renal insufficiency may take longer (se
 This should be considered in advance of any procedures.
 In such cases a coagulation test (see sections 4.4 and 5.1) may help to determine whether haemostasis is still impaired.
 
-Preoperative phase
+Emergency surgery or urgent procedures
+Dabigatran etexilate should be temporarily discontinued.
+When rapid reversal of the anticoagulation effect is required the specific reversal agent (Praxbind, idarucizumab) to Pradaxa is available.
+
+Reversing dabigatran therapy exposes patients to the thrombotic risk of their underlying disease.
+Pradaxa treatment can be re-initiated 24 hours after administration of Praxbind (idarucizumab), if the patient is clinically stable and adequate haemostasis has been achieved.
+
+Subacute surgery/interventions
+Dabigatran etexilate should be temporarily discontinued.
+A surgery / intervention should be delayed if possible until at least 12 hours after the last dose.
+If surgery cannot be delayed the risk of bleeding may be increased.
+This risk of bleeding should be weighed against the urgency of intervention.
+Elective surgery
+If possible, Pradaxa should be discontinued at least 24 hours before invasive or surgical procedures.
+In patients at higher risk of bleeding or in major surgery where complete haemostasis may be required consider stopping Pradaxa 2-4 days before surgery.
+Clearance of dabigatran in patients with renal insufficiency may take longer.
+This should be considered in advance of any procedures.
 
 Table 3 summarises discontinuation rules before invasive or surgical procedures.
 
@@ -93,10 +109,6 @@ Table 3: Discontinuation rules before invasive or surgical procedures
 | ≥50-< 80 | ~ 15 | 2-3 days before | 1-2 days before |
 | ≥30-< 50 | ~ 18 | 4 days before | 2-3 days before (> 48 hours) |
 
-If an acute intervention is required, dabigatran etexilate should be temporarily discontinued.
-A surgery / intervention should be delayed if possible until at least 12 hours after the last dose.
-If surgery cannot be delayed the risk of bleeding may be increased.
-This risk of bleeding should be weighed against the urgency of intervention.
 Spinal anaesthesia/epidural anaesthesia/lumbar puncture
 
 Procedures such as spinal anaesthesia may require complete haemostatic function.
@@ -128,6 +140,8 @@ Pradaxa hard capsules contain the colorant sunset yellow (E110), which may cause
 
 Patients with elevated liver enzymes > 2 ULN were excluded in the main trials.
 
+For situations of life-threatening or uncontrolled bleeding, when rapid reversal of the anticoagulation effect of dabigatran is required, the specific reversal agent (Praxbind, iduarcizumab) is available (see section 4.9).
+
 In a study of prevention of stroke and SEE in adult patients with NVAF, dabigatran etexilate was associated with higher rates of major gastrointestinal (GI) bleeding which was statistically significant for dabigatran etexilate 150 mg twice daily.
 This increased risk was seen in the elderly (≥75 years).
 In these atrial fibrillationpatients a dosage of 220 mg dabigatran given as 110 mg capsule twice daily should be considered and posology recommendations in section 4.2 be followed.
@@ -155,6 +169,7 @@ Myocardial Infarction (SPAF)
 In the phase III study RE-LY (see section 5.1.) the overall rate of myocardial infarction (MI) was 0.82, 0.81, and 0.64 % / year for dabigatran etexilate 110 mg twice daily, dabigatran etexilate 150 mg twice daily and warfarin, respectively, an increase in relative risk for dabigatran of 29 % and 27 % compared to warfarin.
 Irrespective of therapy, the highest absolute risk of MI was seen in the following subgroups, with similar relative risk: patients with previous MI, patients ≥65 years with either diabetes or coronary artery disease, patients with left ventricular ejection fraction < 40 %, and patients with moderate renal dysfunction.
 Furthermore a higher risk of MI was seen in patients concomitantly taking ASA plus clopidogrel or clopidogrel alone.
+
 Myocardial Infarction (DVT/PE)
 
 In the three active controlled studies, a higher rate of MI was reported in patients who received dabigatran etexilate than in those who received warfarin: 0.4% vs. 0.2% in the short-term RE-COVER and RE-COVER II studies; and 0.8% vs. 0.1% in the long-term RE-MEDY trial.
@@ -179,5 +194,9 @@ Use of acetylsalicylic acid (ASA), clopidogrel or non steroidal antiinflammatory
 | ECT [x-fold upper limit of normal] | > 3 |
 | aPTT [x-fold upper limit of normal] | > 2 |
 | INR | Should not be performed |
+
+When rapid reversal of the anticoagulation effect is required the specific reversal agen (Praxbind, idarucizumab) to Pradaxa is available.
+
+Pradaxa treatment can be re-initiated 24 hours after administration of Praxabind (idarucizumab), if the patient is clinically stable and adequate haemostasis has been achieved.
 
 The efficacy and safety have not been fully established for DVT/PE patients with active cancer.

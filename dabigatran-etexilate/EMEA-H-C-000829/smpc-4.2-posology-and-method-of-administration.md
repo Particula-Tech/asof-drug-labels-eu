@@ -17,7 +17,8 @@ Treatment should be initiated orally within 1-4 hours of completed surgery with 
 For the following groups the recommended daily dose of Pradaxa is 150 mg taken once daily as 2 capsules of 75 mg.
 Treatment should be initiated orally within 1-4 hours of completed surgery with a single capsule of 75 mg and continuing with 2 capsules once daily thereafter for a total of 10 days (knee replacement surgery) or 28-35 days (hip replacement surgery):
 
-- Patients with moderate renal impairment (creatinine clearance, CrCL 30-50 mL/min) [see Renal impairment (pVTEp orthopaedic surgery )]
+- Patients with moderate renal impairment (cre
+- atinine clearance, CrCL 30-50 mL/min) [see Renal impairment (pVTEp orthopaedic surgery )]
 - Patients who receive concomitant verapamil, amiodarone, quinidine [see Concomitant use of Pradaxa with mild to moderate P-glycoprotein (P-gp) inhibitors, i.e. amidarone, quinidine or verapamil (pVTEp orthopaedic surgery)]
 - Patients aged 75 or above [see Elderly (pVTEp orthopaedic surgery)]
 
@@ -32,7 +33,7 @@ In all patients:
   Pradaxa is contraindicated in patients with severe renal impairment
 - Renal function should also be assessed when a decline in renal function is suspected during treatment (e.g. hypovolaemia, dehydration, and in case of concomitant use of certain medicinal products )
 
-The method used to estimate renal function (CrCL in mL/min) during the clinical development of Pradaxa was the Cockgroft-Gault method.
+The method used to estimate renal function (CrCL in mL/min) during the clinical development of Pradaxa was the Cockcroft-Gault method.
 The formula is as follows:
 
 - For creatinine in μmol/L:
@@ -98,7 +99,7 @@ Discontinue the parenteral andticoagulant and start dabigatran etexilate 0-2 hou
 
 Paediatric population (pVTEp orthopaedic surgery)
 
-There is no relevant use of Pradaxa in the paediatric population in the indication: primary prevention of venous thromboembolic events in patients who have undergone elective total hip replacement surgery or total knee replacement surgery.
+There is no relevant use of Pradaxa in the paediatric population for the indication of primary prevention of venous thromboembolic events in patients who have undergone elective total hip replacement surgery or total knee replacement surgery.
 
 Missed dose (pVTEp orthopaedic surgery)
 
@@ -188,7 +189,7 @@ Additional requirements in patients with mild to moderate renal impairment and i
 
 - Renal function should be assessed during treatment with Pradaxa at least once a year or more frequently as needed in certain clinical situations when it is suspected that the renal function could decline or deteriorate (e.g. hypovolaemia, dehydration, and in case of concomitant use of certain medicinal products)
 
-The method used to estimate renal function (CrCL in mL/min) during the clinical development of Pradaxa was the Cockgroft-Gault method (see section 4.2 Pradaxa 75 mg).
+The method used to estimate renal function (CrCL in mL/min) during the clinical development of Pradaxa was the Cockcroft-Gault method (see section 4.2 Pradaxa 75 mg).
 
 Renal impairment (SPAF, DVT/PE)
 
@@ -238,7 +239,7 @@ Patients can stay on dabigatran etexilate while being cardioverted.
 
 Paediatric population (SPAF)
 
-There is no relevant use of Pradaxa in the paediatric population in the indication: prevention of stroke and systemic embolism in patients with NVAF.
+There is no relevant use of Pradaxa in the paediatric population for the indication of prevention of stroke and systemic embolism in patients with NVAF.
 
 Paediatric population (DVT/PE)
 

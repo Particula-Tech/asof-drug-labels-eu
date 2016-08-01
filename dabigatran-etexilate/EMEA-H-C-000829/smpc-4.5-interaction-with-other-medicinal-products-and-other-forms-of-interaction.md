@@ -50,6 +50,7 @@ Dronedarone: When dabigatran etexilate and dronedarone were given at the same ti
 The terminal half-life and renal clearance of dabigatran were not affected by dronedarone.
 When single and multiple doses of dronedarone were given 2 h after dabigatran etexilate, the increases in dabigatran AUC0-∞were 1.3-fold and 1.6-fold, respectively.
 Concomitant treatment with dronedarone is contraindicated.
+
 Amiodarone: When Pradaxa was co-administered with a single oral dose of 600 mg amiodarone, the extent and rate of absorption of amiodarone and its active metabolite DEA were essentially unchanged.
 The dabigatran AUC and Cmax were increased by about 60 % and 50 %, respectively.
 The mechanism of the interaction has not been completely clarified.
@@ -108,7 +109,6 @@ Concomitant administration of a P-gp inducer (such as rifampicin, St. John´s wo
 Rifampicin: Pre-dosing of the probe inducer rifampicin at a dose of 600 mg once daily for 7 days decreased total dabigatran peak and total exposure by 65.5 and 67 %, respectively.
 The inducing effect was diminished resulting in dabigatran exposure close to the reference by day 7 after cessation of rifampicin treatment.
 No further increase in bioavailability was observed after another 7 days.
-
 Other medicinal products affecting P-gp
 
 Protease inhibitors including ritonavir and its combinations with other protease inhibitors affect P-gp (either as inhibitor or as inducer).
@@ -121,6 +121,7 @@ Digoxin: In a study performed with 24 healthy subjects, when Pradaxa was co-admi
 Co-medication with selective serotonin re-uptake inhibitors (SSRIs) or selective serotonin norepinephrine re-uptake inhibitors (SNRIs)
 
 SSRIs and SNRIs increased the risk of bleeding in RE-LY in all treatment groups.
+
 Gastric pH
 
 Pantoprazole: When Pradaxa was co-administered with pantoprazole, a decrease in the dabigatran area under the plasma concentration-time curve of approximately 30 % was observed.
@@ -137,7 +138,6 @@ From the limited data collected in the phase III study RE LY in patients with at
 UFH can be administered at doses necessary to maintain a patent central venous or arterial catheter (see section 4.3).
 
 Clopidogrel and ASA: From the data collected in the phase III study RE-LY (see section 5.1) it was observed that the concomitant use of antiplatelets, ASA or clopidogrel approximately doubles major bleeding rates with both dabigatran etexilate and warfarin (see section 4.4).
-
 With a loading dose of 300 mg or 600 mg clopidogrel, dabigatran AUCτ,ss and Cmax,ss were increased by about 30-40 % (see section 4.4) (see also subsection on ASA below).
 
 With chronic use in the RE-LY study, NSAIDs increased the risk of bleeding by approximately 50 % on both dabigatran etexilate and warfarin.

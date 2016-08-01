@@ -9,4 +9,4 @@ Date of latest renewal: 17 January 2013
 
 [Pradaxa 150 mg hard capsules]
 
-Date of first authorisation: 01 August 2011
+(all sentences already above)
