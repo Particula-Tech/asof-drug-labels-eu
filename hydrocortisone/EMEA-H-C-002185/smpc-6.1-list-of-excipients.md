@@ -1,13 +1,14 @@
 # 6.1 List of excipients
 
-Core
+Tablet core
 Hypromellose
-Cellulose, microcrystalline
-Starch, pregelatinised (maize)
-Silica colloidal, anhydrous
+Microcrystalline cellulose
+Pregelatinised starch (maize)
+Colloidal, anhydrous silica
 Magnesium stearate
 
-Coating
+Plenadren 5 mg modified-release tablets
+Tablet coating
 Macrogol (3350)
 Polyvinyl alcohol
 Talc
@@ -15,3 +16,10 @@ Titanium dioxide (E171)
 Iron oxide red (E172)
 Iron oxide yellow (E172)
 Iron oxide black (E172)
+
+Plenadren 20 mg modified-release tablets
+Tablet coating
+Macrogol (3350)
+Polyvinyl alcohol
+Talc
+Titanium dioxide (E171)

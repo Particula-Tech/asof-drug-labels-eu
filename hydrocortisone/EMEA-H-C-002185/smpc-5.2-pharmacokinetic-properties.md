@@ -2,7 +2,7 @@
 
 Absorption
 Following oral administration, hydrocortisone is rapidly and well absorbed from the gastrointestinal tract and the absorption has been reported to be more than 95% for an oral 20 mg dose (tablets).
-Hydrocortisone is a class II drug according to the biopharmaceutical classification system (BCS) with a high intestinal permeability and a low dissolution rate, especially at higher doses.
+Hydrocortisone is a class II active substance according to the biopharmaceutical classification system (BCS) with a high intestinal permeability and a low dissolution rate, especially at higher doses.
 The modified-release tablet has an outer coating layer that provides an immediate release of the drug and an extended release core.
 The immediate-release part provides a rapid onset of absorption and the extended release part provides a more extended plasma profile of cortisol.
 The bioavailability (AUC0-24h) is 20% lower with the modified-release tablet compared to the same daily dose of hydrocortisone given as conventional tablets three times daily.
@@ -11,7 +11,6 @@ The exposure increased three-fold when the dose of hydrocortisone modified-relea
 
 The absorption rate of hydrocortisone was reduced after food intake resulting in a delay in the time to maximal concentration in plasma from on average less than 1 hour to over 2.5 hours.
 On the other hand, the extent of absorption and bioavailability was approximately 30% higher for the 20 mg tablet after food intake compared to fasting and there was no absorption failure or dose dumping.
-
 Distribution
 In plasma, cortisol is bound to corticosteroid-binding globulin (CBG, also called transcortin) and albumin.
 The binding is about 90%.
@@ -28,7 +27,6 @@ CYP 3A4 is involved in the clearance of cortisol by the formation of 6β-hydroxy
 The transport of cortisol across membranes is expected to be mediated mainly by passive diffusion and therefore renal and biliary clearances are negligible.
 
 Special populations
-
 Renal impairment
 A small amount of cortisol is excreted in the urine unchanged (<0.5% of the daily production), meaning that cortisol is eliminated completely by metabolism.
 Since severe renal impairment may affect medicinal products completely eliminated via metabolism, dose adjustment may be needed.

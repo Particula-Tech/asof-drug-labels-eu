@@ -1,19 +1,25 @@
 # 4.4 Special warnings and precautions for use
 
-Concomitant infections
-During acute adrenal insufficiency parenteral administration of hydrocortisone in high doses, together with sodium chloride 9 mg/ml (0.9%) solution for injection, must be given.
+Acute adrenal insufficiency
+Acute adrenal insufficiency may develop in patients with known adrenal insufficiency who are on inadequate daily doses or in situations with increased cortisol need.
+Events have been reported in patients treated with Plenadren.
+Adrenal crisis can develop in patients with acute adrenal insufficiency.
+Therefore, patients should be advised of the signs and symptoms of acute adrenal insufficiency and of adrenal crisis and the need to seek immediate medical attention.
 
-During transient illnesses such as low grade infection, fever of any aetiology, stressful situations such as minor surgical procedures, the daily replacement dose must be increased temporarily, see section 4.2,
-‘Use in intercurrent illness’.
+During adrenal crisis parenteral, preferably intravenous administration of hydrocortisone in high doses, together with sodium chloride 9 mg/ml (0.9%) solution for infusion, should be administered according to current treatment guidelines.
+
+Concomitant infections
+During transient illnesses such as low grade infection, fever of any aetiology, stressful situations such as minor surgical procedures, the daily replacement dose must be increased temporarily, see section 4.2, ‘Use in intercurrent illness’.
 The patient must be carefully informed how to act in these situations and also advised to immediately seek medical attention should an acute deterioration occur; especially in cases of gastroenteritis, vomiting and/or diarrhoea leading to fluid and salt loss, as well as to inadequate absorption of oral hydrocortisone.
-Patients with concomitant adrenal insufficiency and retroviral infection, such as HIV, need careful dose adjustment due to potential interaction with antiretroviral medicinal products and increased hydrocortisone dose due to the infection.
+
+Patients with adrenal insufficiency and concomitant retroviral infection, such as HIV, need careful dose adjustment due to potential interaction with antiretroviral medicinal products and increased hydrocortisone dose due to the infection.
 
 Scientific reports do not support immunosuppressive effects of hydrocortisone in doses that have been used for replacement therapy in patients with adrenal insufficiency.
 Therefore, there is no reason to believe that replacement doses of hydrocortisone will exacerbate any systemic infection or worsen the outcome of such an infection.
 Moreover, there is no reason to believe that doses of hydrocortisone used for replacement therapy in adrenal insufficiency may reduce the response to vaccines and increase the risk of generalised infection with live vaccines.
 
 Gastric emptying and motility disorders
-Modified-release tablets are not recommended in patients with increased gastrointestinal motility, i.e. chronic diarrhoea, due to the risk of impaired cortisol exposure, these patients should be given other hydrocortisone formulations.
+Modified-release tablets are not recommended in patients with increased gastrointestinal motility, i.e. chronic diarrhoea, due to the risk of impaired cortisol exposure.
 There are no data in patients with confirmed slow gastric emptying or decreased motility disease/disorder.
 The clinical response should be monitored in patients with these conditions.
 
@@ -28,7 +34,6 @@ Patients with adrenal insufficiency on long-term glucocorticoid replacement ther
 
 Prolonged use of high doses of glucocorticoids may produce posterior subcapsular cataracts, and glaucoma with possible damage to the optic nerves.
 Such effects have not been reported in patients receiving replacement therapy with glucocorticoids in doses used in adrenal insufficiency.
-
 Psychiatric adverse reactions may occur with systemic glucocorticoids.
 This may occur during commencement of treatment and during dose adjustments.
 Risks may be higher when high doses are given.

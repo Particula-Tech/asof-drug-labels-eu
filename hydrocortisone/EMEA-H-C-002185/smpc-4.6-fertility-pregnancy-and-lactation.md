@@ -5,7 +5,7 @@ Plenadren can be used during pregnancy.
 There is no indication that hydrocortisone replacement therapy in pregnant women with adrenal insufficiency is associated with adverse outcome of the mother and/or the foetus.
 Untreated adrenal insufficiency during pregnancy is associated with poor outcome of both the mother and the foetus, therefore it is important to continue treatment during pregnancy.
 
-Reproductive studies in animals have shown that glucocorticoids can cause foetal abnormalities and reproductive toxicity (see section 5.3).
+Reproductive studies in animals have shown that glucocorticoids can cause foetal abnormalities and reproductive toxicity, see section 5.3.
 
 The dose of hydrocortisone should be carefully monitored during pregnancy in women with adrenal insufficiency.
 Dosing according to individual clinical response is recommended.
