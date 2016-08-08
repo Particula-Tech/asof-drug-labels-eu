@@ -8,10 +8,10 @@ There have been no studies performed with other routes of administration.
 
 Distribution
 Across all clinical studies, the volume of distribution of the central (Vc) and the peripheral (Vp) compartment in the typical patient, was 3.11 litres and 2.46 litres, respectively.
+
 Biotransformation
 The metabolism of Perjeta has not been directly studied.
 Antibodies are cleared principally by catabolism.
-
 Elimination
 The median clearance (CL) of Perjeta was 0.235 litres/day and the median half-life was 18 days.
 
@@ -32,3 +32,4 @@ Baseline albumin and lean body weight were the most significant covariates influ
 CL decreased in patients with higher baseline albumin concentrations and increased in patients with greater lean body weight.
 However sensitivity analyses performed at the recommended dose and schedule of Perjeta showed that at the extreme values of these two covariates, there was no significant impact on the ability to achieve target steady-state concentrations identified in preclinical tumour xenograft models.
 Therefore, there is no need to adjust the dosage of Perjeta based on these covariates.
+The PK results of pertuzumab in the NEOSPHERE study are consistent with the predictions from the previous population PK model.
