@@ -17,10 +17,10 @@ Where Grade 3 or 4 reactions occurred, the actual total frequency and the freque
 
 | System Organ Class | Adverse Reactions – all Grades |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | Very Common (Frequency %) | Common (Frequency %) | Uncommon (Frequency %) | Rare |
+|  | Very Common (Frequency %) | Common (Frequency %) | Uncommon (Frequency %) | Rare or not known |
 | Infections and infestations |  | Urinary tract infection (8.5%) (G3/4: 0.7%) Pneumonia (1.6%) (G3/4: 1.0%) Oral candidiasis Oral herpes Upper respiratory tract infection Nasopharyngitis Rhinitis Herpes zoster | Sepsis (0.5%) (G3/4: 0.5%)a Neutropenic sepsis (0.2%) (G3/4: 0.2%)a Septic Shock (0.2%) (G3/4:0.2%)a |  |
-| Blood and lymphatic system disorders | Neutropenia (53.6%) (G3/4: 46.0%) Leukopenia (27.9%) (G3/4: 17.0%) Anaemia (21.8%) (G3/4: 3.0%) | Lymphopenia (5.7%) (G3/4: 2.1%) Febrile neutropenia (4.5%) (G3/4: 4.4%)a Thrombocytopenia (4.2%) (G3/4: 0.7%) |  | Disseminated intravascular coagulationb |
-|  | Very Common (Frequency %) | Common (Frequency %) | Uncommon (Frequency %) | Rare |
+| Blood and lymphatic system disorders | Neutropenia (53.6%) (G3/4: 46.0%) Leukopenia (27.9%) (G3/4: 17.0%) Anaemia (21.8%) (G3/4: 3.0%) | Lymphopenia (5.7%) (G3/4: 2.1%) Febrile neutropenia (4.5%) (G3/4: 4.4%)a Thrombocytopenia (4.2%) (G3/4: 0.7%) |  | *Disseminated intravascular coagulationb |
+|  | Very Common (Frequency %) | Common (Frequency %) | Uncommon (Frequency %) | Rare or not known |
 | Metabolism and nutrition disorders | Decreased appetite (22.5%) (G3/4: 0.7%)d | Hypokalaemia (6.8%) (G3/4: 2.0%) Hypomagnesaemia (2.8%) (G3/4: 0.3%) Dehydration (2.8 %) (G3/4: 0.5%)d Hyperglycaemia Hypophosphataemia |  |  |
 | Psychiatric disorders |  | Insomnia Depression |  |  |
 | Nervous system disorders | Peripheral neuropathyc (35.9%) (G3/4: 7.3%) Headache (17.5%) (G3/4: 0.7%) | Dysgeusia Dizziness (9.0%) (G3/4: 0.4%)d Hypoaesthesia Lethargy Neurotoxicity |  |  |
@@ -31,15 +31,17 @@ Where Grade 3 or 4 reactions occurred, the actual total frequency and the freque
 | Respiratory, thoracic and mediastinal disorders | Dyspnoea (15.2%)a (G3/4: 3.5%)a Cough (15.0%) (G3/4: 0.5%)d | Oropharyngeal pain Epistaxis Rhinorrhoea | Interstitial lung disease (0.2%) (G3/4: 0.1%) |  |
 | Gastrointestinal disorders | Nausea (35.7%) (G3/4: 1.1%)d Constipation (22.3%) (G3/4: 0.7%)d Diarrhoea (18.7%) (G3/4: 0.8%) Vomiting (18.1%) (G3/4: 1.0%) | Abdominal pain Stomatitis (11.1%) (G3/4: 1.0%)d Dry mouth Dyspepsia (6.5%) (G3/4: 0.3%)d Gastrooesophageal reflux disease Abdominal distension | Mouth ulceration Pancreatitis |  |
 | Hepatobiliary disorders |  | Aspartate aminotransferase increased (7.7%) (G3/4: 1.4%)d Alanine aminotransferase increased (7.6%) (G3/4: 1.9%)d Gamma glutamyl transferase increased (1.7%) (G3/4: 0.9%)d Hyperbilirubinaemia (1.4%) (G3/4: 0.4%) | Hepatotoxicity (0.8%) (G3/4: 0.6%) |  |
-|  | Very Common (Frequency %) | Common (Frequency %) | Uncommon (Frequency %) | Rare |
-| Skin and subcutaneous tissue disorders | Alopecia | Rash (4.9%) (G3/4: 0.1%) Pruritus (3.9%) (G3/4: 0.1%)d Nail disorder Night sweats Dry skin Erythema Hyperhidrosis Palmar plantar erythrodysaesthesia (1.0%) (G3/4: 0.1%)d | Angioedema |  |
+|  | Very Common (Frequency %) | Common (Frequency %) | Uncommon (Frequency %) | Rare or not known |
+| Skin and subcutaneous tissue disorders | Alopecia | Rash (4.9%) (G3/4: 0.1%) Pruritus (3.9%) (G3/4: 0.1%)d Nail disorder Night sweats Dry skin Erythema Hyperhidrosis Palmar plantar erythrodysaesthesia (1.0%) (G3/4: 0.1%)d | Angioedema | **Stevens-Johnson syndrome/ Toxic epidermal necrolysisb |
 | Musculoskeletal and connective tissue disorders | Arthralgia and myalgia (20.4%) (G3/4: 1.0%) Back pain (12.8%) (G3/4: 1.5%) Pain in extremity (10.0%) (G3/4: 0.7%)d | Bone pain (6.7%) (G3/4: 1.2%) Muscle spasms (5.3%) (G3/4: 0.1%)d Musculoskeletal pain Musculoskeletal chest pain Muscular weakness |  |  |
 | Renal and urinary disorders |  | Dysuria | Haematuria Proteinuria Renal failure |  |
 | General disorders and administration site conditions | Fatigue/Asthenia (53.2%) (G3/4 : 7.7%) Pyrexia (21.8%) (G3/4: 0.7%) | Mucosal Inflammation (6.4%) (G3/4: 0.9%)d Peripheral oedema Pain Chills Chest pain Influenza like illness |  |  |
 | Investigations | Weight decreased (11.4%) (G3/4: 0.4%)d |  |  |  |
 
 a Includes Grade 5 events.
-b From spontaneous reporting c Includes preferred terms of peripheral neuropathy, peripheral motor neuropathy, polyneuropathy, paraesthesia, peripheral sensory neuropathy, peripheral sensorimotor neuropathy and demyelinating polyneuropathy d No Grade 4 events.
+b From spontaneous reporting c Includes preferred terms of peripheral neuropathy, peripheral motor neuropathy, polyneuropathy, paraesthesia, peripheral sensory neuropathy, peripheral sensorimotor neuropathy and demyelinating polyneuropathy d No Grade 4 events
+* Rare
+** Frequency not known
 
 Overall, the safety profiles in the breast cancer and soft tissue sarcoma patient populations were similar.
 
