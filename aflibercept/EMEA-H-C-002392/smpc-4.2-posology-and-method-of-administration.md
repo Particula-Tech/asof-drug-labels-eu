@@ -48,8 +48,8 @@ If visual and/or anatomic outcomes deteriorate, the treatment interval should be
 The schedule for monitoring should therefore be determined by the treating physician and may be more frequent than the schedule of injections.
 
 If visual and anatomic outcomes indicate that the patient is not benefiting from continued treatment, Eylea should be discontinued.
-Myopic choroidal neovascularisation
 
+Myopic choroidal neovascularisation
 The recommended dose for Eylea is a single intravitreal injection of 2 mg aflibercept equivalent to 50 microlitres.
 
 Additional doses may be administered if visual and/or anatomic outcomes indicate that the disease persists.
@@ -94,16 +94,14 @@ Each pre-filled syringe should only be used for the treatment of a single eye.
 The pre-filled syringe contains more than the recommended dose of 2 mg aflibercept.
 The extractable volume of the syringe (90 microlitres) is not to be used in total.
 The excess volume should be expelled before injecting.
+
 Injecting the entire volume of the prefilled syringe could result in overdose.
 To expel the air bubble along with excess medicinal product, slowly depress the plunger to align the cylindrical base of the dome plunger with the black dosing line on the syringe (equivalent to 50 microlitres i.e. 2 mg aflibercept).
-
 After injection any unused product must be discarded.
 
 For handling of the medicinal product before administration, see section 6.6.
 
 [Eylea 40 mg/ml solution for injection in a vial.]
-
-After the first 12 months of treatment with Eylea, and based on visual and/or anatomic outcomes, the treatment interval may be extended, such as with a treat-and-extend dosing regimen, where the treatment intervals are gradually increased to maintain stable visual and/or anatomic outcomes;however there are insufficient data to conclude on the length of these intervals.
 
 Each vial should only be used for the treatment of a single eye.
 

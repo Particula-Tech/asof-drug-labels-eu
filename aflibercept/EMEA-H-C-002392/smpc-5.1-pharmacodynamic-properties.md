@@ -32,9 +32,9 @@ Macular oedema secondary to CRVO and BRVO
 In CRVO and BRVO, retinal ischaemia occurs and signals the release of VEGF which in turn destabilises the tight junctions, and promotes endothelial cell proliferation.
 Up-regulation of VEGF is associated with the breakdown of the blood retina barrier, increased vascular permeability, retinal oedema, and neovascularisation complications.
 
-In patients treated with 6 consecutive monthly injections of Eylea 2mg , there was a consistent, rapid and robust morphologic response (as measured by improvements in mean CRT ) observed.
-At week 24, the reduction in CRT was statistically superior versus control in all three studies (COPERNICUS in CRVO: -457 vs. -145 microns; GALILEO in CRVO: -449 vs. -169 microns; VIBRANT in BRVO: - 280 vs. -128 microns).
-This decrease from baseline in CRT was maintained to the end of each study, week 100 in COPERNICUS, week 76 in GALILEO and week 52 in VIBRANT.
+In patients treated with 6 consecutive monthly injections of Eylea 2mg, there was a consistent, rapid and robust morphologic response (as measured by improvements in mean CRT) observed.
+At week 24, the reduction in CRT was statistically superior versus control in all three studies (COPERNICUS in CRVO: -457 vs. -145 microns; GALILEO in CRVO: -449 vs. -169 microns; VIBRANT in BRVO: - 280 vs. -128 microns).This decrease from baseline in CRT was maintained to the end of each study, week 100 in COPERNICUS, week 76 in GALILEO and week 52 in VIBRANT.
+
 Diabetic macular oedema
 
 Diabetic macular oedema is a consequence of diabetic retinopathy and is characterised by increased vasopermeability and damage to the retinal capillaries which may result in loss of visual acuity.
@@ -43,10 +43,12 @@ In patients treated with Eylea, the majority of whom were classified as having T
 
 In the VIVIDDME and the VISTADME studies, a statistically significant greater mean decrease in CRT from baseline to week 52 was observed in patients treated with Eylea than with the laser control, - 192.4 and -183.1 microns for the 2Q8 Eylea groups and -66.2 and -73.3 microns for the control groups, respectively.
 At week 100 the decrease was maintained with -195.8 and -191.1 microns for the 2Q8 Eylea groups and -85.7 and -83.9 microns for the control groups, in the VIVIDDME and VISTADME studies, respectively.
+
 A ≥ 2 step improvement in DRSS was assessed in a pre-specified manner in VIVIDDME and VISTADME.
 The DRSS score was gradable in 73.7% of the patients in VIVIDDME and 98.3% of the patients in VISTADME.
 At week 52, 27.7% and 29.1% of the Eylea 2Q8 groups, and 7.5% and 14.3% of the control groups experienced a ≥2 step improvement in the DRSS.
 At week 100, the respective percentages were 32.6% and 37.1% of the Eylea 2Q8 groups and 8.2% and 15.6% of the control groups.
+
 Myopic choroidal neovascularisation
 
 Myopic choroidal neovascularisation (myopic CNV) is a frequent cause of vision loss in adults with pathologic myopia.
@@ -158,37 +160,40 @@ Figure 2: Mean Change from Baseline to Week 76/100 in Visual Acuity by Treatment
 COPERNICUS
 20
 
-.~ 15
+.£ ::J u 15
 
-fixed monthly PRN with monthly PRN with extended
-dosing monitoring intervals monitoring intervals
+<(
+Iii
 
--5 o 4 8 12 16 20M 28 32 36 4o 44 48 52 56 6o 64 68 72 76 8o 84 88 92 961oo
+> ~ 10 ::J c: Vl <II fixed monthly PRN with monthly PRN with extended
+·~£ dosing monitoring intervals monitoring intervals
+
+1 5 u
+
+-5 0 4 8 12 16 20 :M 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84 88 92 96100
 
 Weeks
 
 GAUL EO
 20
 
-.~
-::J u 15
+.£ ::J u 15
 
 <( +13.7
 
-"iii
+Iii
 ::J
 
->Iii' 10 c Vl Qj PRN with monthly
-·a; ~ monitoring intervals
-Ol-ra e ~ +6.2
+>VI 10 c: Qj Vl PRN with monthly
+·~£ monitoring intervals +6.2
 
-..c: u 5
+..c: u n:J 5
 
--5 0 4 8 12 16 20 i4 28 32 36 40 44 48 52 56 60 64 68 72 7 6
+-5 0 4 8 12 16 20 i4 28 32 36 40 44 48 52 56 60 64 68 72 76
 
 Weeks
 
-_ _,.:*,----- EYLEA 2 mg -0-- Control Group
+- ----..·,...--- EYLEA 2 mg ---o- Control Group
 
 X Indicates the switch of the control group to PRN treatment with EYLEA 2mg
 In GALILEO, 86.4% (n=89) of the Eylea group and 79.4% (n=54) of the sham group had perfused CRVO at baseline.
@@ -274,7 +279,7 @@ Table 5: Efficacy outcomes at week 52 and week 100 (Full Analysis Set with LOCF)
 |  | Eylea 2 mg Q8 A (N = 135) | Eylea 2 mg Q4 (N = 136) | Active Control (laser) (N = 132) | Eylea 2 mg Q8 A (N = 135) | Eylea 2mg Q4 (N=136) | Active Control (laser) (N = 132) | Eylea 2 mg Q8 A (N = 151) | Eylea 2 mg Q4 (N = 154) | Active Control (laser) (N = 154) | Eylea 2 mg Q8 A (N = 151) | Eylea 2 mg Q4 (N=154) | Active Control (laser) (N = 154) |
 | Mean change in BCVA as measured by ETDRS E letter score from Baseline | 10.7 | 10.5 | 1.2 | 9.4 | 11.4 | 0.7 | 10.7 | 12.5 | 0.2 | 11.1 | 11.5 | 0.9 |
 | Difference in LS mean B,C,E (97.5% CI) | 9.1 (6.3, 11.8) | 9.3 (6.5, 12.0) |  | 8.2 (5.2, 11.3) | 10.7 (7.6, 13.8) |  | 10.45 (7.7, 13.2) | 12.19 (9.4, 15.0) |  | 10.1 (7.0, 13.3) | 10.6 (7.1, 14.2) |  |
-| Proportion ofpatients with ≥ 15 letters gain from Baseline | 33% | 32% | 9% | 31.1% | 38.2% | 12.1% | 31% | 42% | 8% | 33.1% | 38.3% | 13.0% |
+| Proportion of patients with ≥ 15 letters gain from Baseline | 33% | 32% | 9% | 31.1% | 38.2% | 12.1% | 31% | 42% | 8% | 33.1% | 38.3% | 13.0% |
 | Adjusted Difference D,C,E (97.5% CI) | 24% (13.5, 34.9) | 23% (12.6, 33.9) |  | 19.0% (8.0, 29.9) | 26.1% (14.8, 37.5) |  | 23% (13.5, 33.1) | 34% (24.1, 44.4) |  | 20.1% (9.6, 30.6) | 25.8% (15.1, 36.6) |  |
 
 A After treatment initiation with 5 monthly injections
@@ -349,7 +354,7 @@ The reduction of CNV size and reduction in CRT were generally maintained in the 
 In CRVO and BRVO retinal ischaemia occurs and signals the release of VEGF which in turn destabilises the tight junctions, and promotes endothelial cell proliferation.
 Up-regulation of VEGF is associated with the breakdown of the blood retina barrier, increased vascular permeability retinal oedema, and neovascularisation complications.
 
-In patients treated with 6 consecutive monthly injections of Eylea 2mg, there was a consistent, rapid and robust morphologic response (as measured by improvements in mean CRT) observed.
+At week 24, the reduction in CRT was statistically superior versus control in all three studies (COPERNICUS in CRVO: -457 vs. -145 microns; GALILEO in CRVO: -449 vs. -169 microns; VIBRANT in BRVO: - 280 vs. -128 microns).
 This decrease from baseline in CRT was maintained to the end of each study, week 100 in COPERNICUS, week 76 in GALILEO, and week 52 in VIBRANT.
 
 The safety and efficacy of Eylea were assessed in two randomised, multi-centre, double-masked, active-controlled studies in patients with wet AMD(VIEW 1 and VIEW 2) with a. total of 2,412 patients treated and evaluable for efficacy (1,817 with Eylea) .
@@ -380,29 +385,20 @@ In combined data analysis of VIEW1 and VIEW2 Eylea demonstrated clinically meani
 | Difference in LS meanA,C,D,E) (95% CI) p-value | 21.7 (17.4, 26.0) p < 0.0001 |  | 12.7 (7.7, 17.7) p < 0.0001 |  | 11.8 (6.7, 17.0) |  | 14.7 (10.8, 18.7) p < 0.0001 |  | 13.2 (8.2, 18.2) p < 0.0001 |  | 7.6 (2.1, 13.1) |  |
 |  |  |  |  |  | p < 0.0001 |  |  |  |  |  | p=0.0070 |  |
 
-<( .a~ 15
+fixed monthly PRN with monthly PRN with extended
+dosing monitoring intervals monitoring intervals
 
-'iii
+-5 0 4 8 12 16 20 ~ 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84 88 92 96100
 
-·- :t:: > ~ 10 "' ::::J c: Q) fixed monthly PRN with monthly PRN with extended
-~~ dosing monitoring intervals monitoring intervals
+20 1+1 8.0
 
-1 c: ~ 5 u
++13.7
 
--5 o 4 8 12 16 20 M 28 32 36 4o 44 48 52 56 6o 64 68 72 76 8o 84 88 92 961oo
+PRN with monthly PRN with extended monitoring intervals monitoring intervals
 
-<( ~ a 15 +13.7
+-5 0 4 8 12 16 20 211 28 32 36 40 44 48 52 56 60 64 68 72 76
 
->'VI 10 ·~~ "::::J' c: w monitoring intervals monitoring intervals PRN with monthly PRN with extended
-
-..t::. u I'll 5 c:
-I'll
-Q)
-~
-
--5 0 4 8 12 16 20 2ft 28 32 36 40 44 48 52 56 60 64 68 72 76
-
-- --.·A .,--- EYLEA 2 mg --o--- Control Group
+- ----..·,.----- EYLEA 2 mg --o--- Control Group
 
 Patients in the laser control group could receive additional laser photocoagulation (called ‘rescue laser treatment’) beginning at week 12 with a minimum interval of 12 weeks.
 

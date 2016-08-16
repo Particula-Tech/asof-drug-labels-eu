@@ -17,7 +17,7 @@ The adverse reactions are listed by system organ class and frequency using the f
 Very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥ 1/10,000 to < 1/1,000)
 
 Within each frequency grouping, adverse drug reactions are presented in order of decreasing seriousness.
-Table 1: All treatment-emergent adverse drug reactions reported in patients in phase III studies (pooled data of the phase III studies for the indications wet AMD, CRVO, BRVO, DME and myopic CNV)
+Table 1: All treatment-emergent adverse drug reactions reported in patients in phase III studies (pooled data of the phase III studies for the indications wet AMD, CRVO, BRVO, DME and myopic CNV) or during post-marketing surveillance
 
 | System Organ Class | Very common | Common | Uncommon | Rare |
 | --- | --- | --- | --- | --- |
@@ -27,8 +27,7 @@ Table 1: All treatment-emergent adverse drug reactions reported in patients in p
 * Conditions known to be associated with wet AMD.
 Observed in the wet AMD studies only.
 ** Culture positive and culture negative endophthalmitis
-*** including allergic reactions
-
+*** During the post-marketing period, reports of hypersensitivity included rash, pruritus, urticaria, and isolated cases of severe anaphylactic/anaphylactoid reactions.
 Description of selected adverse reactions
 
 In the wet AMD phase III studies, there was an increased incidence of conjunctival haemorrhage in patients receiving anti-thrombotic agents.
@@ -39,8 +38,8 @@ There is a theoretical risk of arterial thromboembolic events, including stroke 
 
 A low incidence rate of arterial thromboembolic events was observed in the Eylea clinical trials in patients with AMD, DME, RVO and myopic CNV.
 Across indications no notable difference between the groups treated with aflibercept and the respective comparator groups were observed.
-
 As with all therapeutic proteins, there is a potential for immunogenicity with Eylea.
+
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
