@@ -51,6 +51,7 @@ Pituitary function and hormone levels should be monitored to ensure appropriate 
 Type 1 diabetes mellitus, including diabetic ketoacidosis, has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for hyperglycaemia or other signs and symptoms of diabetes.
 Insulin should be administered for type 1 diabetes, and pembrolizumab should be withheld in cases of Grade 3 hyperglycaemia until metabolic control is achieved (see section 4.2).
+
 Thyroid disorders, including hypothyroidism, hyperthyroidism and thyroiditis, have been reported in patients receiving pembrolizumab and can occur at any time during treatment; therefore, patients should be monitored for changes in thyroid function (at the start of treatment, periodically during treatment and as indicated based on clinical evaluation) and clinical signs and symptoms of thyroid disorders.
 Hypothyroidism may be managed with replacement therapy without treatment interruption and without corticosteroids.
 Hyperthyroidism may be managed symptomatically.

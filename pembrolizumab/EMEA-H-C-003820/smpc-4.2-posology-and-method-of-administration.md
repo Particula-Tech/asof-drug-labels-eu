@@ -13,7 +13,7 @@ It is recommended to continue treatment for clinically stable patients with init
 
 Dose delay or discontinuation (see also section 4.4)
 
-Table 1: Guidelines for withholding or discontinuation of KEYTRUDA
+Table 1: Recommended treatment modifications for KEYTRUDA
 
 | Immune-related adverse reactions | Severity | Treatment modification |
 | --- | --- | --- |
@@ -62,6 +62,11 @@ The safety and efficacy of KEYTRUDA in children below 18 years of age have not y
 No data are available.
 
 Method of administration
-KEYTRUDA should be administered by intravenous infusion over 30 minutes.
+KEYTRUDA must be administered by intravenous infusion over 30 minutes.
+KEYTRUDA must not be administered as an intravenous push or bolus injection.
 
 For instructions on reconstitution and dilution of the medicinal product before administration, see section 6.6.
+
+[KEYTRUDA 25 mg/mL concentrate for solution for infusion.]
+
+For instructions on dilution of the medicinal product before administration, see section 6.6.

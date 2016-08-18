@@ -1,6 +1,6 @@
 # 5.3 Preclinical safety data
 
-The safety of pembrolizumab was evaluated in a 1-month and a 6-month repeat-dose toxicity study in Cynomolgus monkeys administered IV doses of 6, 40 or 200 mg/kg once a week in the 1-month study and once every two weeks in the 6-month study, followed by a 4-month treatment-free period.
+The safety of pembrolizumab was evaluated in a 1-month and a 6-month repeat-dose toxicity study in Cynomolgus monkeys administered intravenous doses of 6, 40 or 200 mg/kg once a week in the 1-month study and once every two weeks in the 6-month study, followed by a 4-month treatment-free period.
 No findings of toxicological significance were observed and the no observed adverse effect level (NOAEL) in both studies was ≥200 mg/kg, which is 19 times the exposure in humans at the highest clinically tested dose (10 mg/kg).
 
 Animal reproduction studies have not been conducted with pembrolizumab.

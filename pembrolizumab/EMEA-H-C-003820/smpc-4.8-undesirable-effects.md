@@ -3,7 +3,6 @@
 Summary of the safety profile
 Pembrolizumab is most commonly associated with immune-related adverse reactions.
 Most of these, including severe reactions, resolved following initiation of appropriate medical therapy or withdrawal of pembrolizumab (see “Description of selected adverse reactions” below).
-
 The safety of pembrolizumab has been evaluated in 2,799 patients with advanced melanoma or NSCLC across three doses (2 mg/kg every 3 weeks or 10 mg/kg every 2 or 3 weeks) in clinical studies.
 In this patient population, the most common adverse reactions (> 10%) with pembrolizumab were fatigue (24%), rash (19%), pruritus (18%), diarrhoea (12%), nausea (11%) and arthralgia (10%).
 The majority of adverse reactions reported were of Grade 1 or 2 severity.
@@ -44,24 +43,24 @@ Table 2: Adverse reactions in patients treated with pembrolizumab in clinical tr
 | Respiratory, thoracic and mediastinal disorders |  |
 | Common | pneumonitisf, dyspnea, cough |
 | Gastrointestinal disorders |  |
-| Very Common | diarrhoea, nausea |
+| Very common | diarrhoea, nausea |
 | Common | colitisg, vomiting, abdominal painh, constipation, dry mouth |
 | Uncommon | pancreatitisi |
 | Rare | small intestinal perforation |
 | Hepatobiliary disorders |  |
 | Uncommon | hepatitisj |
 | Skin and subcutaneous tissue disorders |  |
-| Very Common | rashk, pruritusl |
+| Very common | rashk, pruritusl |
 | Common | severe skin reactionsm, vitiligon, dermatitis acneiform, dry skin, erythema, eczema |
 | Uncommon | lichenoid keratosiso, psoriasis, alopecia, erythema nodosum, dermatitis, hair colour changes, papule |
 | Musculoskeletal and connective tissue disorders |  |
-| Very Common | arthralgia |
+| Very common | arthralgia |
 | Common | myositisp, musculoskeletal painq, pain in extremity, arthritisr |
 | Uncommon | tenosynovitiss |
 | Renal and urinary disorders |  |
 | Uncommon | nephritist |
 | General disorders and administration site conditions |  |
-| Very Common | fatigue |
+| Very common | fatigue |
 | Common | asthenia, oedemau, pyrexia, influenza like illness, chills |
 | Investigations |  |
 | Common | alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, blood creatinine increased |

@@ -1,13 +1,14 @@
 # 4.6 Fertility, pregnancy and lactation
 
+Women of childbearing potential
+Women of childbearing potential should use effective contraception during treatment with pembrolizumab and for at least 4 months after the last dose of pembrolizumab.
+
 Pregnancy
 There are no data on the use of pembrolizumab in pregnant women.
 Animal reproduction studies have not been conducted with pembrolizumab; however, in murine models of pregnancy blockade of PD-L1 signaling has been shown to disrupt tolerance to the foetus and to result in an increased foetal loss (see section 5.3).
 These results indicate a potential risk, based on its mechanism of action, that administration of pembrolizumab during pregnancy could cause foetal harm, including increased rates of abortion or stillbirth.
 Human immunoglobulins G4 (IgG4) are known to cross the placental barrier; therefore, being an IgG4, pembrolizumab has the potential to be transmitted from the mother to the developing foetus.
 Pembrolizumab should not be used during pregnancy unless the clinical condition of the woman requires treatment with pembrolizumab.
-
-Women of childbearing potential should use effective contraception during treatment with pembrolizumab and for at least 4 months after the last dose of pembrolizumab.
 
 Breast-feeding
 It is unknown whether pembrolizumab is secreted in human milk.
