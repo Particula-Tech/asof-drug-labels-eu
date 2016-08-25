@@ -7,8 +7,9 @@ Posology
 Mantle cell lymphoma
 The recommended dose for the treatment of MCL is 560 mg (four capsules) once daily.
 
-Chronic lymphocytic leukaemia and Waldenström’s macroglobulinaemia (WM)
-The recommended dose for the treatment of CLL and WM is 420 mg (three capsules) once daily.
+Chronic lymphocytic leukaemia and Waldenström’s macroglobulinaemia
+The recommended dose for the treatment of CLL, either as a single agent or in combination, is 420 mg (three capsules) once daily (see section 5.1 for details of the combination regimen).
+The recommended dose for the treatment of WM is 420 mg (three capsules) once daily.
 
 Treatment should continue until disease progression or no longer tolerated by the patient.
 Dose adjustments

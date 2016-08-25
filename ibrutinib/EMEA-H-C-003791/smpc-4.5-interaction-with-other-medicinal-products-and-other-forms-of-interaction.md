@@ -1,10 +1,9 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
-Ibrutinib is primarily metabolised by cytochrome P450 enzyme 3A4 (CYP3A).
+Ibrutinib is primarily metabolised by cytochrome P450 enzyme 3A4 (CYP3A4).
 
 Agents that may increase ibrutinib plasma concentrations
 Concomitant use of IMBRUVICA and medicinal products that strongly or moderately inhibit CYP3A4 can increase ibrutinib exposure and should be avoided.
-
 Strong CYP3A4 inhibitors
 Co-administration of ketoconazole, a strong CYP3A4 inhibitor, in 18 fasted healthy subjects, increased exposure (Cmax and AUC) of ibrutinib by 29- and 24-fold, respectively.
 Simulations using fasted conditions suggested that the strong CYP3A4 inhibitor clarithromycin may increase the AUC of ibrutinib by a factor of 14.
@@ -44,7 +43,6 @@ Ibrutinib is a P-gp and breast cancer resistance protein (BCRP) inhibitor in vit
 As no clinical data are available on this interaction, it cannot be excluded that ibrutinib could inhibit intestinal P-gp and BCRP after a therapeutic dose.
 To minimise the potential for an interaction in the GI tract, oral narrow therapeutic range, P-gp or BCRP substrates such as digoxin or methotrexate should be taken at least 6 hours before or after IMBRUVICA.
 Ibrutinib may also inhibit BCRP in the liver and increase the exposure of drugs that undergo BCRP-mediated hepatic efflux, such as rosuvastatin.
-
 Based on in vitro data, ibrutinib is a weak reversible inhibitor towards CYP3A4 at the intestinal level and may therefore increase the exposure to CYP3A4 substrates sensitive to gut CYP3A metabolism.
 No clinical data are available on this interaction.
 Caution should be exercised if co-administering ibrutinib with CYP3A4 substrates administered orally with narrow therapeutic range (such as dihydroergotamine, ergotamine, fentanyl, cyclosporine, sirolimus and tacrolimus).

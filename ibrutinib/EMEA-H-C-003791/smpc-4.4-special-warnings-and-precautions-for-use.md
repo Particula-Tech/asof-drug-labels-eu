@@ -29,6 +29,12 @@ Cytopenias
 Treatment-emergent grade 3 or 4 cytopenias (neutropenia, thrombocytopenia and anaemia) were reported in patients treated with IMBRUVICA.
 Monitor complete blood counts monthly.
 
+Interstitial Lung Disease (ILD)
+Cases of ILD have been reported in patients treated with IMBRUVICA.
+Monitor patients for pulmonary symptoms indicative of ILD.
+If symptoms develop, interrupt IMBRUVICA and manage ILD appropriately.
+If symptoms persist, consider the risks and benefits of IMBRUVICA treatment and follow the dose modification guidelines.
+
 Atrial fibrillation/flutter
 Atrial fibrillation and atrial flutter have been reported in patients treated with IMBRUVICA, particularly in patients with cardiac risk factors, acute infections, and a previous history of atrial fibrillation.
 Periodically monitor all patients clinically for atrial fibrillation.

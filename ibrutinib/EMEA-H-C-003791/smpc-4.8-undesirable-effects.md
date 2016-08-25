@@ -1,78 +1,79 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-The safety profile is based on pooled data from 555 patients treated with IMBRUVICA in three phase 2 clinical studies and two randomised phase 3 studies and from post-marketing experience.
+The safety profile is based on pooled data from 981 patients treated with IMBRUVICA in three phase 2 clinical studies and four randomised phase 3 studies and from post-marketing experience.
 Patients treated for MCL in clinical studies received IMBRUVICA at 560 mg once daily and patients treated for CLL or WM in clinical studies received IMBRUVICA at 420 mg once daily.
 All patients in clinical studies received IMBRUVICA until disease progression or no longer tolerated.
-The most commonly occurring adverse reactions (≥20%) were diarrhoea, musculoskeletal pain, upper respiratory tract infection, haemorrhage, bruising, rash, and nausea.
-The most common grade 3/4 adverse reactions (≥5%) were anaemia, neutropenia, pneumonia and thrombocytopenia.
+
+The most commonly occurring adverse reactions (≥20%) were diarrhoea, neutropenia, haemorrhage (e.g., bruising), musculoskeletal pain, nausea, rash, and pyrexia.
+The most common grade 3/4 adverse reactions (≥5%) were neutropenia, pneumonia, thrombocytopenia, and febrile neutropenia.
 
 Tabulated list of adverse reactions
-Adverse reactions for MCL, CLL or WM and post-marketing adverse reactions are listed below by system organ class and frequency grouping.
+Adverse reactions in patients treated with ibrutinib for B-cell malignancies and post-marketing adverse reactions are listed below by system organ class and frequency grouping.
 Frequencies are defined as: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-Table 1 Adverse drug reactions reported in clinical studies or during post marketing surveillance in
-patients with B-cell malignancies
-System organ class Frequency Adverse reactions
-(All grades)
-Infections and infestations Very common Pneumonia*
-Upper respiratory tract infection
-Urinary tract infection
-Sinusitis*
-Skin infection*
-Common Sepsis*
-Neoplasms benign and malignant (incl cysts Common Non-melanoma skin cancer*
-and polyps) Basal cell carcinoma
-Squamous cell carcinoma
-Blood and lymphatic system disorders Very common Neutropenia
-Thrombocytopenia
-Anaemia
-Common Febrile neutropenia
-Leukocytosis
-Lymphocytosis
-Uncommon Leukostasis syndrome
-Metabolism and nutrition disorders Common Dehydration
-Hyperuricaemia
-Uncommon Tumour lysis syndrome
-Nervous system disorders Very common Dizziness
-Headache
-Eye disorders Common Vision blurred
-Cardiac disorders Common Atrial fibrillation
-Vascular disorders Very common Haemorrhage*
-Bruising*
-Common Subdural haematoma
-Epistaxis
-Petechiae
-Hypertension*
-Gastrointestinal disorders Very common Diarrhoea
-Vomiting
-Stomatitis*
-Nausea
-Constipation
-Common Dry mouth
-Hepatobiliary disorders Not known Hepatic failure*,a
-Skin and subcutaneous tissue disorders Very common Rash*
-Common Erythema
-Uncommon Angioedema
-Urticaria
-Musculoskeletal and connective tissue Very common Arthralgia
-disorders Muscle spasms
-Musculoskeletal pain*
-General disorders and administration site Very common Pyrexia
-conditions Oedema peripheral
+Table 1: Adverse drug reactions reported in clinical studies or during post marketing surveillance
+in patients with B-cell malignancies†
+System organ class Frequency Adverse reactions All Grades
+(All grades) (%) Grade ≥3 (%)
+Infections and infestations Very common Pneumonia*# 16 10
+Upper respiratory tract infection 19 1
+Sinusitis* 11 1
+Skin infection* 10 3
+Common Sepsis*# 4 4
+Urinary tract infection 9 2
+Neoplasms benign and Common Non-melanoma skin cancer* 6 1
+malignant (incl cysts and Basal cell carcinoma 3 < 1
+polyps) Squamous cell carcinoma 2 < 1
+Blood and lymphatic Very common Neutropenia 30 26
+system disorders Thrombocytopenia 20 10
+Common Febrile neutropenia 5 5
+Leukocytosis 2 1
+Lymphocytosis 2 1
+Uncommon Leukostasis syndrome < 1 < 1
+Immune system disorders Common Interstitial lung disease*,#,a 2 < 1
+Metabolism and nutrition Common Tumour lysis syndrome 1 1
+disorders Hyperuricaemia 7 2
+Nervous system disorders Very common Headache 13 1
+Common Dizziness 9 0
+Eye disorders Common Vision blurred 7 0
+Cardiac disorders Common Atrial fibrillation 6 3
+Vascular disorders Very common Haemorrhage*# 30 1
+Bruising* 22 < 1
+Common Subdural haematoma# 1 1
+Epistaxis 8 < 1
+Petechiae 7 0
+Hypertension* 10 4
+Gastrointestinal disorders Very common Diarrhoea 41 3
+Vomiting 14 < 1
+Stomatitis* 13 1
+Nausea 27 1
+Constipation 16 < 1
+Hepatobiliary disorders Not known Hepatic failure*,a Not known Not known
+Skin and subcutaneous Very common Rash* 22 2
+tissue disorders Common Urticaria 1 < 1
+Erythema 2 0
+Uncommon Angioedema < 1 < 1
+Musculoskeletal and Very common Arthralgia 12 1
+connective tissue disorders Muscle spasms 14 < 1
+Musculoskeletal pain* 28 3
+General disorders and Very common Pyrexia 20 2
+administration site Oedema peripheral 14 1
+conditions
+† Frequencies are rounded to the nearest integer.
 * Includes multiple adverse reaction terms.
+# Includes events with fatal outcome.
 a Spontaneous reports from post-marketing experience.
 
 Discontinuation and dose reduction due to adverse drug reactions
-Of the 555 patients treated with IMBRUVICA for CLL, MCL or WM, 4% discontinued treatment primarily due to adverse reactions.
-These included infections, subdural haematoma, and atrial fibrillation.
-Adverse reactions leading to dose reduction occurred in approximately 6% of patients.
+Of the 981 patients treated with IMBRUVICA for B-cell malignancies, 5% discontinued treatment primarily due to adverse reactions.
+These included pneumonia, atrial fibrillation and haemorrhage.
+Adverse reactions leading to dose reduction occurred in approximately 5% of patients.
 
 Elderly
-Of the 555 patients treated with IMBRUVICA, 69% were 65 years of age or older.
-Grade 3 or higher adverse reactions occurred more frequently among elderly patients treated with IMBRUVICA (48% of patients age ≥65 versus 41% of younger patients ).
-Grade 3 or higher adverse reactions occurring more frequently among elderly patients included pneumonia, atrial fibrillation and urinary tract infection.
+Of the 981 patients treated with IMBRUVICA, 62% were 65 years of age or older.
+Grade 3 or higher pneumonia occurred more frequently among elderly patients treated with IMBRUVICA (13% of patients age ≥65 versus 7% of patients < 65 years of age).
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
