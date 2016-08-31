@@ -44,7 +44,6 @@ Use in ACTH-independent Cushing’s syndrome
 Data from 17 patients with adrenal tumours and from 2 patients with primary nodular adrenocortical hyperplasia (NAH) treated with ketoconazole are available in the literature along with 17 individual case reports of patients with benign or malignant tumours or NAH and 2 paediatric cases of McCune Albright syndrome.
 Improvement of clinical symptoms was noted in most patients after initiation of treatment.
 However in patients with adrenal cortical carcinoma, improvement of hypercortisolism on ketoconazole was limited in some cases.
-
 Paediatric population
 Data on 24 paediatric patients with endogenous Cushing’s syndrome treated with ketoconazole are available in the literature, among which 16 were aged over 12 years old and 8 were aged less than 12 years old.
 Treatment with ketoconazole in paediatric patients allowed normalisation of urinary free cortisol levels and clinical improvement, including recovering of growth rate and gonadal function, normalisation of blood pressure, Cushing’s syndrome features and weight loss in most of the cases.

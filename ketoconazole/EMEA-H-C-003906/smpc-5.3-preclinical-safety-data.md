@@ -3,7 +3,6 @@
 The toxicological profile of ketoconazole has been established from long term studies in rats and dogs.
 
 Bone fragility and broken legs were reported in rats but were not observed in other species.
-
 Consistent with the pharmacological action of ketaconazole, effects were observed on adrenal and gonads in rats and dogs.
 
 Elevated liver enzymes and histological changes in the liver consisting in dose–related lipofuscin accumulation in hepatocytes were reported in rats and dogs after repeated administration of ketoconazole.
@@ -23,4 +22,5 @@ Ketoconazole at doses of 40 mg/kg/day and higher produces evidence of embryotoxi
 Observed teratogenic effects were mainly skeletal anomalies, including cleft palate, brachydactylia, ectrodactylia and syndactylia.
 Treatment of juvenile rats for 30 day beginning at 21 days of age delayed the puberty onset.
 Effects on human reproduction cannot be excluded.
+
 Studies in pregnant rats and in guinea pigs with 3H-ketoconazole indicate that ketoconazole crosses the placenta.
