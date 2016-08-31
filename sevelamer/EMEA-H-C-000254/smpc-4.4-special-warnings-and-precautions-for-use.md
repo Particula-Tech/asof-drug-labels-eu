@@ -59,3 +59,8 @@ Serum chloride
 Serum chloride may increase during Renagel treatment as chloride may be exchanged for phosphorus in the intestinal lumen.
 Although no clinically significant serum chloride increase has been observed in the clinical studies, serum chloride should be monitored as is done in the routine follow-up of a dialysis patient.
 One gram of Renagel contains approximately 180 mg (5.1 mEq) chloride.
+
+Inflammatory Gastrointestinal Disorders
+Cases of serious inflammatory disorders of different parts of the gastrointestinal tract (including serious complications such as bleeding, perforation, ulceration, necrosis, colitis, …) associated with the presence of sevelamer crystals have been reported in literature.
+However, the causality of the sevelamer crystals in initiating such disorders has not been demonstrated.
+Sevelamer hydrochloride treatment should be re-evaluated in patients who develop severe gastrointestinal symptoms.

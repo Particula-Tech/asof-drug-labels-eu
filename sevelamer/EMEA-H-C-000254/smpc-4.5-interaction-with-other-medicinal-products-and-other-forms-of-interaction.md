@@ -10,6 +10,7 @@ Consequently, Renagel should not be taken simultaneously with ciprofloxacin.
 Anti-arrhythmics and anti-seizure medicinal products
 Patients taking anti-arrhythmic medicinal products for the control of arrhythmias and anti-seizure medicinal products for the control of seizure disorders were excluded from clinical trials.
 Caution should be exercised when prescribing sevelamer hydrochloride to patients also taking these medicinal products.
+
 Levothyroxine
 During post marketing experience, very rare cases of increased thyroid stimulating hormone (TSH) levels have been reported in patients co-administered sevelamer hydrochloride and levothyroxine.
 Closer monitoring of TSH levels is therefore recommended in patients receiving both medicinal products.
@@ -20,6 +21,9 @@ The possibility of an interaction cannot be excluded and a close monitoring of b
 
 Digoxin, warfarin, enalapril or metoprolol
 In interaction studies in healthy volunteers, Renagel had no effect on the bioavailability of digoxin, warfarin, enalapril or metoprolol.
+
+Proton pump inhibitors
+During post-marketing experience, very rare cases of increased phosphate levels have been reported in patients taking proton pump inhibitors co-administered with sevelamer hydrochloride.
 
 Bioavailability
 Renagel is not absorbed and may affect the bioavailability of other medicinal products.
