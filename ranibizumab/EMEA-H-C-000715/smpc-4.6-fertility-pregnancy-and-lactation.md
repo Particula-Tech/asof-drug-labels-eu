@@ -2,6 +2,7 @@
 
 Women of childbearing potential/contraception in females
 Women of childbearing potential should use effective contraception during treatment.
+
 Pregnancy
 For ranibizumab no clinical data on exposed pregnancies are available.
 Studies in cynomolgus monkeys do not indicate direct or indirect harmful effects with respect to pregnancy or embryonal/foetal development (see section 5.3).

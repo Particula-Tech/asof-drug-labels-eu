@@ -34,6 +34,7 @@ The dose should be withheld and treatment should not be resumed earlier than the
 Retinal pigment epithelial tear
 Risk factors associated with the development of a retinal pigment epithelial tear after anti-VEGF therapy for wet AMD, include a large and/or high pigment epithelial retinal detachment.
 When initiating Lucentis therapy, caution should be used in patients with these risk factors for retinal pigment epithelial tears.
+
 Rhegmatogenous retinal detachment or macular holes
 Treatment should be discontinued in subjects with rhegmatogenous retinal detachment or stage 3 or 4 macular holes.
 
@@ -43,6 +44,8 @@ Lucentis has not been studied in patients who have previously received intravitr
 There is also no experience of treatment with Lucentis in diabetic patients with an HbA1c over 12% and uncontrolled hypertension.
 This lack of information should be considered by the physician when treating such patients.
 
+There are insufficient data to conclude on the effect of Lucentis in patients with RVO presenting irreversible ischaemic visual function loss.
+
 In patients with PM, there are limited data on the effect of Lucentis in patients who have previously undergone unsuccessful verteporfin photodynamic therapy (vPDT) treatment.
 Also, while a consistent effect was observed in subjects with subfoveal and juxtafoveal lesions, there are insufficient data to conclude on the effect of Lucentis in PM subjects with extrafoveal lesions.
 
@@ -51,7 +54,3 @@ Systemic adverse events including non-ocular haemorrhages and arterial thromboem
 
 There are limited data on safety in the treatment of DME, macular oedema due to RVO and CNV secondary to PM patients with prior history of stroke or transient ischaemic attacks.
 Caution should be exercised when treating such patients (see section 4.8).
-
-Prior episodes of RVO, ischaemic branch RVO and central RVO
-There is limited experience with treatment of patients with prior episodes of RVO and of patients with ischaemic branch RVO (BRVO) and central RVO (CRVO).
-In patients with RVO presenting with clinical signs of irreversible ischaemic visual function loss, treatment is not recommended.

@@ -5,6 +5,7 @@ Re-use may lead to infection or other illness/injury.
 All components are sterile.
 Any component with packaging showing signs of damage or tampering must not be used.
 The sterility cannot be guaranteed unless the component packaging seal remains intact.
+
 To prepare Lucentis for intravitreal administration, please adhere to the following instructions:
 
 1.
