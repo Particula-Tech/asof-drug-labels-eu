@@ -149,11 +149,14 @@ Algorithm applied for inclusion in the SmPC: All ADRs captured by the Phase III 
 For these ADRs, an additional check of the frequency of the ADRs captured by the Phase II study algorithm was undertaken and, if the frequency of the ADRs in the Phase II study was higher than in the Phase III study, the event was included in the EU SmPC at the frequency it occurred in the Phase II study.
 Algorithm applied for myelodysplastic syndromes:
 
-- Myelodysplastic syndromes Phase III study (double-blind safety population, difference between lenalidomide 5/10mg and placebo by initial dosing regimen occurring in at least 2 subjects) o All treatment-emergent adverse events with ≥ 5% of subjects in lenalidomide and at least 2% difference in proportion between lenalidomide and placebo
-
-o All treatment-emergent grade 3 or 4 adverse events in 1% of subjects in lenalidomide and at least 1% difference in proportion between lenalidomide and placebo o All treatment-emergent serious adverse events in 1% of subjects in lenalidomide and at least 1% difference in proportion between lenalidomide and placebo
-
-- Myelodysplastic syndromes Phase II study o All treatment-emergent adverse events with ≥ 5% of lenalidomide treated subjects o All treatment-emergent grade 3 or 4 adverse events in 1% of lenalidomide treated subjects o All treatment-emergent serious adverse events in 1% of lenalidomide treated subjects
+- Myelodysplastic syndromes Phase III study (double-blind safety population, difference between lenalidomide 5/10mg and placebo by initial dosing regimen occurring in at least 2 subjects)
+  - All treatment-emergent adverse events with ≥ 5% of subjects in lenalidomide and at least 2% difference in proportion between lenalidomide and placebo
+  - All treatment-emergent grade 3 or 4 adverse events in 1% of subjects in lenalidomide and at least 1% difference in proportion between lenalidomide and placebo
+  - All treatment-emergent serious adverse events in 1% of subjects in lenalidomide and at least 1% difference in proportion between lenalidomide and placebo
+- Myelodysplastic syndromes Phase II study
+  - All treatment-emergent adverse events with ≥ 5% of lenalidomide treated subjects
+  - All treatment-emergent grade 3 or 4 adverse events in 1% of lenalidomide treated subjects
+  - All treatment-emergent serious adverse events in 1% of lenalidomide treated subjects
 
 Table 3: ADRs reported in clinical trials in patients with mantle cell lymphoma treated with lenalidomide
 
@@ -179,11 +182,14 @@ Table 3: ADRs reported in clinical trials in patients with mantle cell lymphoma 
 ◊Adverse events reported as serious in mantle cell lymphoma clinical trials
 Algorithm applied for mantle cell lymphoma:
 
-- Mantle cell lymphoma controlled Phase II study o All treatment-emergent adverse events with ≥ 5% of subjects in lenalidomide arm and at least 2% difference in proportion between lenalidomide and control arm
-
-o All treatment-emergent grade 3 or 4 adverse events in ≥1% of subjects in lenalidomide arm and at least 1.0% difference in proportion between lenalidomide and control arm o All Serious treatment-emergent adverse events in ≥1% of subjects in lenalidomide arm and at least 1.0% difference in proportion between lenalidomide and control arm
-
-- Mantle cell lymphoma single arm Phase II study o All treatment-emergent adverse events with ≥ 5% of subjects o All grade 3 or 4 treatment-emergent adverse events reported in 2 or more subjects o All Serious treatment-emergent adverse events reported in 2 or more subjects
+- Mantle cell lymphoma controlled Phase II study
+  - All treatment-emergent adverse events with ≥ 5% of subjects in lenalidomide arm and at least 2% difference in proportion between lenalidomide and control arm
+  - All treatment-emergent grade 3 or 4 adverse events in ≥1% of subjects in lenalidomide arm and at least 1.0% difference in proportion between lenalidomide and control arm
+  - All Serious treatment-emergent adverse events in ≥1% of subjects in lenalidomide arm and at least 1.0% difference in proportion between lenalidomide and control arm
+- Mantle cell lymphoma single arm Phase II study
+  - All treatment-emergent adverse events with ≥ 5% of subjects
+  - All grade 3 or 4 treatment-emergent adverse events reported in 2 or more subjects
+  - All Serious treatment-emergent adverse events reported in 2 or more subjects
 
 Tabulated summary of post-marketing adverse reactions
 
@@ -194,6 +200,7 @@ Table 4: ADRs reported in post-marketing use in patients treated with lenalidomi
 | System Organ Class / Preferred Term | All ADRs/Frequency | Grade 3−4 ADRs/Frequency |
 | --- | --- | --- |
 | Neoplasms Benign, Malignant and Unspecified (incl cysts and polyps) |  | Rare Tumour lysis syndrome |
+| Blood and Lymphatic System Disorders | Not known Acquired haemophilia |  |
 | Endocrine Disorders | Common Hyperthyroidism |  |
 | Respiratory, Thoracic and Mediastinal Disorders |  | Not Known Interstitial pneumonitis |
 | Gastrointestinal Disorders |  | Not Known Pancreatitis, Gastrointestinal perforation (including diverticular, intestinal and large intestine perforations) ^ |

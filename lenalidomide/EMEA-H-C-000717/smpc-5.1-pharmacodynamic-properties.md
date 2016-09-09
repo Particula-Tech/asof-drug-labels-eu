@@ -42,13 +42,13 @@ Table 5: Summary of overall efficacy data
 
 |  | Rd (N = 535) | Rd18 (N = 541) | MPT (N = 547) |
 | --- | --- | --- | --- |
-| Investigator-assessed PFS − (months) |  |  |  |
+| Investigator-assessed PFS −(months) |  |  |  |
 | Mediana PFS time, months (95% CI)b | 26.0 (20.7, 29.7) | 21.0 (19.7, 22.4) | 21.9 (19.8, 23.9) |
 | HR [95% CI]c; p-valued |  |  |  |
 | Rd vs MPT | 0.69 (0.59, 0.80); <0.001 |  |  |
 | Rd vs Rd18 | 0.71 (0.61, 0.83); <0.001 |  |  |
 | Rd18 vs MPT | 0.99 (0.86, 1.14); 0.866 |  |  |
-| PFS2e − (months) |  |  |  |
+| PFS2e −(months) |  |  |  |
 | Mediana PFS2 time, months (95% CI)b | 42.9 (38.1, 47.4) | 40.0 (36.2, 44.2) | 35.0 (30.4, 37.8) |
 | HR [95% CI]c; p-valued |  |  |  |
 | Rd vs MPT | 0.74 (0.63, 0.86); <0.001 |  |  |
@@ -67,12 +67,12 @@ Table 5: Summary of overall efficacy data
 | VGPR | 152 (28.4) | 154 (28.5) | 103 (18.8) |
 | PR | 169 (31.6) | 166 (30.7) | 187 (34.2) |
 | Overall response: CR, VGPR, or PR | 402 (75.1) | 397 (73.4) | 341 (62.3) |
-| Duration of response − (months)h |  |  |  |
+| Duration of response −(months)h |  |  |  |
 | Mediana (95% CI)b | 35.0 (27.9, 43.4) | 22.1 (20.3, 24.0) | 22.3 (20.2, 24.9) |
 
 AMT = antimyeloma therapy; CI = confidence interval; CR = complete response; d = low-dose dexamethasone; HR = hazard ratio; IMWG = International Myeloma Working Group;
 IRAC = Independent Response Adjudication Committee; M = melphalan; max = maximum;
-min = minimum; NE = not estimable; OS = overall survival; P = prednisone; PFS = progression-free survival; PR = partial response; R = lenalidomide; Rd = Rd given until documentation of progressive disease; Rd18 = Rd given for ≥ 18 cycles; SE = standard error; T = thalidomide; VGPR = very good partial response; vs = versus.
+min = minimum; NE = not estimable; OS = overall survival; P = prednisone; PFS = progression-free survival; PR = partial response; R = lenalidomide; Rd = Rd given until documentation of progressive disease; Rd18 = Rd given for ≥18 cycles; SE = standard error; T = thalidomide; VGPR = very good partial response; vs = versus.
 a The median is based on the Kaplan-Meier estimate.
 b The 95% CI about the median.
 c Based on Cox proportional hazards model comparing the hazard functions associated with the indicated treatment arms.
@@ -86,7 +86,7 @@ Lenalidomide in combination with melphalan and prednisone followed by maintenanc
 The safety and efficacy of lenalidomide was assessed in a Phase III multicenter, randomized double blind 3 arm study (MM-015) of patients who were 65 years or older and had a serum creatinine < 2.5 mg/dL.
 The study compared lenalidomide in combination with melphalan and prednisone (MPR) with or without lenalidomide maintenance monotherapy until disease progression, to that of melphalan and prednisone for a maximum of 9 cycles.
 Patients were randomized in a 1:1:1 ratio to one of 3 treatment arms.
-Patients were stratified at randomisation by age (≤ 75 vs. > 75 years) and stage (ISS; Stages I and II vs. stage III).
+Patients were stratified at randomisation by age (≤75 vs. > 75 years) and stage (ISS; Stages I and II vs. stage III).
 
 This study investigated the use of combination therapy of MPR (melphalan 0.18 mg/kg orally on days 1-4 of repeated 28-day cycles; prednisone 2 mg/kg orally on days 1-4 of repeated 28-day cycles; and lenalidomide 10 mg/day orally on days 1-21 of repeated 28-day cycles) for induction therapy, up to 9 cycles.
 Patients who completed 9 cycles or who were unable to complete 9 cycles due to intolerance proceeded to maintenance monotherapy starting with lenalidomide 10 mg orally on days 1-21 of repeated 28-day cycles until disease progression.
@@ -101,13 +101,13 @@ Table 6: Summary of overall efficacy data
 
 |  | MPR+R (N = 152) | MPR+p (N = 153) | MPp +p (N = 154) |
 | --- | --- | --- | --- |
-| Investigator-assessed PFS − (months) |  |  |  |
+| Investigator-assessed PFS −(months) |  |  |  |
 | Mediana PFS time, months (95% CI) | 27.4 (21.3, 35.0) | 14.3 (13.2, 15.7) | 13.1 (12.0, 14.8) |
 | HR [95% CI]; p-value |  |  |  |
 | MPR+R vs MPp+p | 0.37 (0.27, 0.50); <0.001 |  |  |
 | MPR+R vs MPR+p | 0.47 (0.35, 0.65); <0.001 |  |  |
 | MPR+p vs MPp +p | 0.78 (0.60, 1.01); 0.059 |  |  |
-| PFS2 − (months) ¤ |  |  |  |
+| PFS2 −(months) ¤ |  |  |  |
 | Mediana PFS2 time, months (95% CI) | 39.7 (29.2, 48.4) | 27.8 (23.1, 33.1) | 28.8 (24.3, 33.8) |
 | HR [95% CI]; p-value |  |  |  |
 | MPR+R vs MPp+p | 0.70 (0.54, 0.92); 0.009 |  |  |
@@ -126,7 +126,7 @@ Table 6: Summary of overall efficacy data
 | PR | 90 (59.2) | 99 ( 64.7) | 75 (48.7) |
 | Stable Disease (SD) | 24 (15.8) | 31 (20.3) | 63 (40.9) |
 | Response Not Evaluable (NE) | 8 (5.3) | 4 (2.6) | 7 (4.5) |
-| Investigator-assessed Duration of response (CR+PR) − (months) |  |  |  |
+| Investigator-assessed Duration of response (CR+PR) −(months) |  |  |  |
 | Mediana (95% CI) | 26.5 (19.4, 35.8) | 12.4 (11.2, 13.9) | 12.0 (9.4, 14.5) |
 
 CI = confidence interval; CR = complete response; HR = Hazard Rate; M = melphalan; NE = not estimable; OS = overall survival; p = placebo; P = prednisone;
@@ -291,9 +291,53 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 [Revlimid 7.5 mg hard capsules]
 
+|  | Rd (N = 535) | Rd18 (N = 541) | MPT (N = 547) |
+| --- | --- | --- | --- |
+| Investigator-assessed PFS −(months) |  |  |  |
+| Mediana PFS time, months (95% CI)b | 26.0 (20.7, 29.7) | 21.0 (19.7, 22.4) | 21.9 (19.8, 23.9) |
+| HR [95% CI]c; p-valued |  |  |  |
+| Rd vs MPT | 0.69 (0.59, 0.80); <0.001 |  |  |
+| Rd vs Rd18 | 0.71 (0.61, 0.83); <0.001 |  |  |
+| Rd18 vs MPT | 0.99 (0.86, 1.14); 0.866 |  |  |
+| PFS2e −(months) |  |  |  |
+| Mediana PFS2 time, months (95% CI)b | 42.9 (38.1, 47.4) | 40.0 (36.2, 44.2) | 35.0 (30.4, 37.8) |
+| HR [95% CI]c; p-valued |  |  |  |
+| Rd vs MPT | 0.74 (0.63, 0.86); <0.001 |  |  |
+| Rd vs Rd18 | 0.92 (0.78, 1.08); 0.316 |  |  |
+| Rd18 vs MPT | 0.80 (0.69, 0.93); 0.004 |  |  |
+| Overall survival (months) |  |  |  |
+| Mediana OS time, months (95% CI)b | 58.9 (56.0, NE) | 56.7 (50.1, NE) | 48.5 (44.2, 52.0) |
+| HR [95% CI]c; p-valued |  |  |  |
+| Rd vs MPT | 0.75 (0.62, 0.90); 0.002 |  |  |
+| Rd vs Rd18 | 0.91 (0.75, 1.09); 0.305 |  |  |
+| Rd18 vs MPT | 0.83 (0.69, 0.99); 0.034 |  |  |
+| Follow-up (months) |  |  |  |
+| Medianf (min, max): all patients | 40.8 (0.0, 65.9) | 40.1 (0.4, 65.7) | 38.7 (0.0, 64.2) |
+
+|  | Rd (N = 535) | Rd18 (N = 541) | MPT (N = 547) |
+| --- | --- | --- | --- |
+| Myeloma responseg n (%) |  |  |  |
+| CR | 81 (15.1) | 77 (14.2) | 51 (9.3) |
+| VGPR | 152 (28.4) | 154 (28.5) | 103 (18.8) |
+| PR | 169 (31.6) | 166 (30.7) | 187 (34.2) |
+| Overall response: CR, VGPR, or PR | 402 (75.1) | 397 (73.4) | 341 (62.3) |
+| Duration of response −(months)h |  |  |  |
+| Mediana (95% CI)b | 35.0 (27.9, 43.4) | 22.1 (20.3, 24.0) | 22.3 (20.2, 24.9) |
+
 However with a longer follow-up, the difference in overall survival in favour of lenalidomide / low dose dexamethasone tends to decrease.
 
 Table 8: Summary of efficacy results – study MCL-002, intent-to-treat population
+
+|  | Lenalidomide Arm N = 170 | Control Arm N = 84 |
+| --- | --- | --- |
+| PFS PFS, mediana [95% CI]b (weeks) Sequential HR [95% CI]e Sequential log-rank test, p-valuee | 37.6 [24.0, 52.6] 22.7 [15.9, 30.1] 0.61 [0.44, 0.84] 0.004 |  |
+| Responsea, n (%) |  |  |
+| Complete response (CR) | 8 (4.7) | 0 (0.0) |
+| Partial response (PR) Stable disease (SD)b Progressive disease (PD) Not done/Missing | 60 (35.3) 50 (29.4) 34 (20.0) 18 (10.6) | 9 (10.7) 44 (52.4) 26 (31.0) 5 (6.0) |
+| ORR (CR, CRu, PR), n (%) [95% CI]c p-valuee | 68 (40.0) [32.58, 47.78] 9 (10.7)d [5.02, 19.37] < 0.001 |  |
+| CRR (CR, CRu), n (%) [95% CI]c p-valuee | 8 (4.7) [2.05, 9.06] 0 (0.0) [95.70, 100.00] 0.043 |  |
+| Duration of Response, mediana [95% CI] (weeks) | 69.6 [41.1, 86.7] | 45.1 [36.3, 80.9] |
+| Overall Survival HR [95% CI]c Log-rank test, p-value | 0.89 [0.62, 1.28] 0.520 |  |
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Revlimid in all subsets of the paediatric population in multiple myeloma myelodysplastic syndromes and mantle cell lymphoma (see section 4.2 for information on paediatric use).
 

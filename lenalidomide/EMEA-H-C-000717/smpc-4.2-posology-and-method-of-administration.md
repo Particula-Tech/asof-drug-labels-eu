@@ -116,9 +116,6 @@ Return to ≥ 0.5 x 109/L when dose-dependent Resume lenalidomide at Dose level 
 haematological toxicities other than once daily
 
 neutropenia are observed
-
-When neutrophils Recommended course
-
 For each subsequent drop below < 0.5 x 109/L Interrupt lenalidomide treatment
 
 Return to ≥ 0.5 x 109/L Resume lenalidomide at next lower dose
@@ -171,6 +168,7 @@ First fall to < 0.5 x 109/L Interrupt lenalidomide treatment
 
 Return to ≥ 0.5 x 109/L when neutropenia is Resume lenalidomide at Starting dose
 
+When neutrophils Recommended course
 the only observed toxicity once daily
 
 Return to ≥ 0.5 x 109/L when dose-dependent Resume lenalidomide at Dose level -1
@@ -178,9 +176,6 @@ Return to ≥ 0.5 x 109/L when dose-dependent Resume lenalidomide at Dose level 
 haematological toxicities other than once daily
 
 neutropenia are observed
-
-When neutrophils Recommended course
-
 For each subsequent drop below < 0.5 x 109/L Interrupt lenalidomide treatment
 
 Return to ≥ 0.5 x 109/L Resume lenalidomide at next lower dose
@@ -271,8 +266,8 @@ Do not dose below Dose Level -5
 
 When neutrophils Recommended Course
 Fall to < 1 x 109/L for at least 7 days or Interrupt lenalidomide treatment and
-
 Falls to < 1 x 109/L with associated fever conduct the CBC at least every 7 days
+
 (body temperature ≥ 38.5°C) or
 Falls to < 0.5 x 109/L
 
@@ -345,7 +340,7 @@ There are no Phase III trial experiences with End Stage Renal Disease (ESRD) (CL
 
 | Renal function (CLcr) | Dose adjustment (Days 1-21 of repeated 28- day cycles) |
 | --- | --- |
-| Moderate renal impairment (30 ≤ CLcr < 50 mL/min) | 10 mg once daily1 |
+| Moderate renal impairment (30 ≤CLcr < 50 mL/min) | 10 mg once daily1 |
 | Severe renal impairment (CLcr < 30 mL/min, not requiring dialysis) | 7.5 mg once daily2 15 mg every other day |
 | End Stage Renal Disease (ESRD) (CLcr < 30 mL/min, requiring dialysis) | 5 mg once daily. On dialysis days, the dose should be administered following dialysis. |
 
@@ -356,7 +351,7 @@ There are no Phase III trial experiences with End Stage Renal Disease (ESRD) (CL
 
 | Renal function (CLcr) | Dose adjustment |  |
 | --- | --- | --- |
-| Moderate renal impairment (30 ≤ CLcr < 50 mL/min) | Starting dose | 5 mg once daily (days 1-21 of repeated 28-day cycles) |
+| Moderate renal impairment (30 ≤CLcr < 50 mL/min) | Starting dose | 5 mg once daily (days 1-21 of repeated 28-day cycles) |
 |  | Dose level -1* | 2.5 mg once daily (days 1-28 of repeated 28-day cycles) |
 |  | Dose level -2* | 2.5 mg once every other day (days 1-28 of repeated 28-day cycles) |
 | Severe renal impairment (CLcr < 30 mL/min, not requiring dialysis) | Starting dose | 2.5 mg once daily (days 1-21 of repeated 28-day cycles) |
@@ -373,7 +368,7 @@ There are no Phase III trial experiences with End Stage Renal Disease (ESRD) (CL
 
 | Renal function (CLcr) | Dose adjustment (Days 1-21 of repeated 28- day cycles) |
 | --- | --- |
-| Moderate renal impairment (30 ≤ CLcr < 50 mL/min) | 10 mg once daily1 |
+| Moderate renal impairment (30 ≤CLcr < 50 mL/min) | 10 mg once daily1 |
 | Severe renal impairment (CLcr < 30 mL/min, not requiring dialysis) | 7.5 mg once daily2 15 mg every other day |
 | End Stage Renal Disease (ESRD) (CLcr < 30 mL/min, requiring dialysis) | 5 mg once daily. On dialysis days, the dose should be administered following dialysis. |
 
@@ -393,6 +388,8 @@ The capsules should not be opened, broken or chewed.
 The capsules should be swallowed whole, preferably with water, either with or without food.
 If less than 12 hours has elapsed since missing a dose, the patient can take the dose.
 If more than 12 hours has elapsed since missing a dose at the normal time, the patient should not take the dose, but take the next dose at the normal time on the following day.
+
+It is recommended to press only on one end of the capsule to remove it from the blister thereby reducing the risk of capsule deformation or breakage.
 
 [Revlimid 5 mg hard capsules]
 
@@ -416,7 +413,7 @@ No dose adjustments are required for patients with mild renal impairment and mul
 
 | Renal function (CLcr) | Dose adjustment |  |
 | --- | --- | --- |
-| Moderate renal impairment (30 ≤ CLcr < 50 mL/min) | Starting dose | 5 mg once daily (days 1-21 of repeated 28-day cycles) |
+| Moderate renal impairment (30 ≤CLcr < 50 mL/min) | Starting dose | 5 mg once daily (days 1-21 of repeated 28-day cycles) |
 |  | Dose level -1* | 2.5 mg once daily (days 1-28 of repeated 28-day cycles) |
 |  | Dose level -2* | 2.5 mg once every other day (days 1-28 of repeated 28-day cycles) |
 | Severe renal impairment (CLcr < 30 mL/min, not requiring dialysis) | Starting dose | 2.5 mg once daily (days 1-21 of repeated 28-day cycles) |
