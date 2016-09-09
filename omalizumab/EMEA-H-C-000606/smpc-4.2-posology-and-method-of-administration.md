@@ -33,7 +33,6 @@ Dose (mg) Number of vials Number of injections Total injection volume (ml)
 a 0.6 ml = maximum delivered volume per vial (Xolair 75 mg).
 b 1.2 ml = maximum delivered volume per vial (Xolair 150 mg).
 c or use 0.6 ml from a 150 mg vial.
-
 Table 2: ADMINISTRATION EVERY 4 WEEKS.
 Xolair doses (milligrams per dose) administered by subcutaneous injection every 4 weeks
 
@@ -46,14 +45,8 @@ Xolair doses (milligrams per dose) administered by subcutaneous injection every 
 | >300-400 | 225 225 300 450 450 450 600 600 |
 | >400-500 | 225 300 450 450 600 600 |
 | >500-600 | 300 300 450 600 600 |
-| >600-700 >700-800 | 300 450 600 |
-
->800-900 ADMINISTRATION EVERY 2 WEEKS
-SEE TABLE 3
->900-
-1000
->1000-
-1100
+| >600-700 | 300 450 600 |
+| >700-800 >800-900 >900-1000 >1000-1100 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 |
 
 Table 3: ADMINSTRATION EVERY 2 WEEKS.
 Xolair doses (milligrams per dose) administered by subcutaneous injection every 2 weeks
@@ -75,6 +68,7 @@ Xolair is intended for long-term treatment.
 Clinical trials have demonstrated that it takes at least 12-16 weeks for Xolair treatment to show effectiveness.
 At 16 weeks after commencing Xolair therapy patients should be assessed by their physician for treatment effectiveness before further injections are administered.
 The decision to continue Xolair following the 16-week timepoint, or on subsequent occasions, should be based on whether a marked improvement in overall asthma control is seen (see section 5.1, Physician’s overall assessment of treatment effectiveness).
+
 Discontinuation of Xolair treatment generally results in a return to elevated free IgE levels and associated symptoms.
 Total IgE levels are elevated during treatment and remain elevated for up to one year after the discontinuation of treatment.
 Therefore, re-testing of IgE levels during Xolair treatment cannot be used as a guide for dose determination.
@@ -82,7 +76,6 @@ Dose determination after treatment interruptions lasting less than one year shou
 Total serum IgE levels may be re-tested for dose determination if treatment with Xolair has been interrupted for one year or more.
 
 Doses should be adjusted for significant changes in body weight (see Tables 2 and 3).
-
 Special populations
 Elderly (65 years of age and older)
 There are limited data available on the use of Xolair in patients older than 65 years but there is no evidence that elderly patients require a different dose from younger adult patients.
@@ -111,19 +104,8 @@ For instructions on reconstitution of the medicinal product before administratio
 [Xolair 150 mg powder and solvent for solution for injection]
 
 Xolair treatment should be initiated by physicians experienced in the diagnosis and treatment of severe persistent asthma or chronic spontaneous urticaria.
-Allergic asthma
 
-|  | Body weight (kg) |
-| --- | --- |
-| Baseline IgE (IU/ml) | ≥20- >25- >30- >40- >50- >60- >70- >80- >90- >125-25 30 40 50 60 70 80 90 125 150 |
-| ≥30-100 | 75 75 75 150 150 150 150 150 300 300 |
-| >100-200 | 150 150 150 300 300 300 300 300 450 600 |
-| >200-300 | 150 150 225 300 300 450 450 450 600 |
-| >300-400 | 225 225 300 450 450 450 600 600 |
-| >400-500 | 225 300 450 450 600 600 |
-| >500-600 | 300 300 450 600 600 |
-| >600-700 | 300 450 600 |
-| >700-800 >800-900 >900-1000 >1000-1100 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 |
+Allergic asthma
 
 |  | Body weight (kg) |
 | --- | --- |
@@ -167,18 +149,6 @@ Dose (mg) Number of syringes Number of injections Total injection volume (ml)
 525 1 3 4 3.5
 600 0 4 4 4.0
 
-|  | Body weight (kg) |
-| --- | --- |
-| Baseline IgE (IU/ml) | ≥20- >25- >30- >40- >50- >60- >70- >80- >90- >125-25 30 40 50 60 70 80 90 125 150 |
-| ≥30-100 | 75 75 75 150 150 150 150 150 300 300 |
-| >100-200 | 150 150 150 300 300 300 300 300 450 600 |
-| >200-300 | 150 150 225 300 300 450 450 450 600 |
-| >300-400 | 225 225 300 450 450 450 600 600 |
-| >400-500 | 225 300 450 450 600 600 |
-| >500-600 | 300 300 450 600 600 |
-| >600-700 | 300 450 600 |
-| >700-800 >800-900 >900-1000 >1000- | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 |
-
 Therefore treatment is intended to be administered by a healthcare provider only (see section 6.6 and also information for the healthcare professional section of the package leaflet).
 
 [Xolair 150 mg solution for injection]
@@ -186,6 +156,4 @@ Therefore treatment is intended to be administered by a healthcare provider only
 |  | Body weight (kg) |
 | --- | --- |
 | Baseline IgE (IU/ml) | ≥20- >25- >30- >40- >50- >60- >70- >80- >90- >125-25 30 40 50 60 70 80 90 125 150 |
-| ≥30-100 75 75 75 150 150 150 150 150 300 300 >100-200 150 150 150 300 300 300 300 300 450 600 >200-300 150 150 225 300 300 450 450 450 600 >300-400 225 225 300 450 450 450 600 600 >400-500 225 300 450 450 600 600 >500-600 300 300 450 600 600 >600-700 300 450 600 |  |
-
->700-800
+| ≥30-100 75 75 75 150 150 150 150 150 300 300 >100-200 150 150 150 300 300 300 300 300 450 600 >200-300 150 150 225 300 300 450 450 450 600 >300-400 225 225 300 450 450 450 600 600 >400-500 225 300 450 450 600 600 >500-600 300 300 450 600 600 >600-700 300 450 600 >700-800 >800-900 ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 >900-1000 >1000-1100 |  |

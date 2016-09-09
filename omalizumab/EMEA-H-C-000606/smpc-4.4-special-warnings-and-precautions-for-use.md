@@ -5,20 +5,19 @@ Xolair is not indicated for the treatment of acute asthma exacerbations, acute b
 
 Xolair has not been studied in patients with hyperimmunoglobulin E syndrome or allergic bronchopulmonary aspergillosis or for the prevention of anaphylactic reactions, including those provoked by food allergy, atopic dermatitis, or allergic rhinitis.
 Xolair is not indicated for the treatment of these conditions.
+
 Xolair therapy has not been studied in patients with autoimmune diseases, immune complex-mediated conditions, or pre-existing renal or hepatic impairment (see section 4.2).
 Caution should be exercised when administering Xolair in these patient populations.
 
 Abrupt discontinuation of systemic or inhaled corticosteroids after initiation of Xolair therapy is not recommended.
 Decreases in corticosteroids should be performed under the direct supervision of a physician and may need to be performed gradually.
-
 Immune system disorders
 Allergic reactions type I
 Type I local or systemic allergic reactions, including anaphylaxis and anaphylactic shock, may occur when taking omalizumab, also with onset after a long duration of treatment.
 Most of these reactions occurred within 2 hours after the first and subsequent injections of Xolair but some started beyond 2 hours and even beyond 24 hours after the injection.
 Therefore medicinal products for the treatment of anaphylactic reactions should always be available for immediate use following administration of Xolair.
 Patients should be informed that such reactions are possible and prompt medical attention should be sought if allergic reactions occur.
-
-Anaphylactic reactions were rare in clinical trials (see section 4.8).
+A history of anaphylaxis unrelated to omalizumab may be a risk factor for anaphylaxis following Xolair administration.
 
 Antibodies to omalizumab have been detected in a low number of patients in clinical trials (see section 4.8).
 The clinical relevance of anti-Xolair antibodies is not well understood.
@@ -39,6 +38,7 @@ These events are commonly associated with the reduction of oral corticosteroid t
 In these patients, physicians should be alert to the development of marked eosinophilia, vasculitic rash, worsening pulmonary symptoms, paranasal sinus abnormalities, cardiac complications, and/or neuropathy.
 
 Discontinuation of omalizumab should be considered in all severe cases with the above mentioned immune system disorders.
+
 Parasitic (helminth) infections
 IgE may be involved in the immunological response to some helminth infections.
 In patients at chronic high risk of helminth infection, a placebo-controlled trial showed a slight increase in infection rate with omalizumab, although the course, severity, and response to treatment of infection were unaltered.

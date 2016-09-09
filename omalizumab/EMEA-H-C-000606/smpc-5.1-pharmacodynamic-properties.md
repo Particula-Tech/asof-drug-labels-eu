@@ -4,10 +4,9 @@ Pharmacotherapeutic group: Drugs for obstructive airway diseases, other systemic
 
 Omalizumab is a recombinant DNA-derived humanised monoclonal antibody that selectively binds to human immunoglobulin E (IgE).
 The antibody is an IgG1 kappa that contains human framework regions with the complementary-determining regions of a murine parent antibody that binds to IgE.
-
 Mechanism of action
-Omalizumab binds to IgE and prevents binding of IgE to FCεRI (high-affinity IgE receptor), thereby reducing the amount of free IgE that is available to trigger the allergic cascade.
-Treatment of atopic subjects with omalizumab resulted in a marked down-regulation of FCεRI receptors on basophils.
+Omalizumab binds to IgE and prevents binding of IgE to FcεRI (high-affinity IgE receptor), thereby reducing the amount of free IgE that is available to trigger the allergic cascade.
+Treatment of atopic subjects with omalizumab resulted in a marked down-regulation of FcεRI receptors on basophils.
 
 Pharmacodynamic effects
 The in vitro histamine release from basophils isolated from Xolair-treated subjects was reduced by approximately 90% following stimulation with an allergen compared to pre-treatment values.
@@ -25,11 +24,11 @@ Oral corticosteroid, theophylline and leukotriene-modifier maintenance therapies
 The rate of asthma exacerbations requiring treatment with bursts of systemic corticosteroids was the primary endpoint.
 Omalizumab reduced the rate of asthma exacerbations by 19% (p = 0.153).
 Further evaluations which did show statistical significance (p<0.05) in favour of Xolair included reductions in severe exacerbations (where patient’s lung function was reduced to below 60% of personal best and requiring systemic corticosteroids) and asthma-related emergency visits (comprised of hospitalisations, emergency room, and unscheduled doctor visits), and improvements in Physician’s overall assessment of treatment effectiveness, Asthma-related Quality of Life (AQL), asthma symptoms and lung function.
-
 In a subgroup analysis, patients with pre-treatment total IgE ≥76 IU/ml were more likely to experience clinically meaningful benefit to Xolair.
 In these patients in study 1 Xolair reduced the rate of asthma exacerbations by 40% (p = 0.002).
 In addition more patients had clinically meaningful responses in the total IgE ≥76 IU/ml population across the Xolair severe asthma programme.
 Table 5 includes results in the study 1 population.
+
 Table 5: Results of study 1
 
 Whole study 1 population
@@ -75,7 +74,6 @@ Studies 3-5 used exacerbation as primary endpoint, whereas study 6 primarily eva
 In studies 3, 4 and 5 patients treated with Xolair had respective reductions in asthma exacerbation rates of 37.5% (p = 0.027), 40.3% (p<0.001) and 57.6% (p<0.001) compared to placebo.
 
 In study 6, significantly more severe allergic asthma patients on Xolair were able to reduce their fluticasone dose to ≤500 micrograms/day without deterioration of asthma control (60.3%) compared to the placebo group (45.8%, p<0.05).
-
 Quality of life scores were measured using the Juniper Asthma-related Quality of Life Questionnaire.
 For all six studies there was a statistically significant improvement from baseline in quality of life scores for Xolair patients versus the placebo or control group.
 
@@ -83,6 +81,7 @@ Physician’s overall assessment of treatment effectiveness:
 Physician’s overall assessment was performed in five of the above studies as a broad measure of asthma control performed by the treating physician.
 The physician was able to take into account PEF (peak expiratory flow), day and night time symptoms, rescue medication use, spirometry and exacerbations.
 In all five studies a significantly greater proportion of Xolair treated patients were judged to have achieved either a marked improvement or complete control of their asthma compared to placebo patients.
+
 Children 6 to <12 years of age
 The primary support for safety and efficacy of Xolair in the group aged 6 to <12 years comes from one randomised, double-blind, placebo-controlled, multi-centre trial (study 7).
 
@@ -103,7 +102,7 @@ For the global evaluation of treatment effectiveness at the end of the 52-week d
 [Xolair 150 mg powder and solvent for solution for injection]
 
 Allergic asthma
-Omalizumab binds to IgE and prevents binding of IgE to FCεRI (high-affinity IgE receptor) on basophils and mast cells, thereby reducing the amount of free IgE that is available to trigger the allergic cascade.
+Omalizumab binds to IgE and prevents binding of IgE to FcεRI (high-affinity IgE receptor) on basophils and mast cells, thereby reducing the amount of free IgE that is available to trigger the allergic cascade.
 
 In clinical studies in allergic asthma patients, serum free IgE levels were reduced in a dose-dependent manner within one hour following the first dose and maintained between doses.
 
@@ -116,6 +115,7 @@ Pharmacodynamic effect
 In clinical studies in CSU patients, maximum suppression of free IgE was observed 3 days after the first subcutaneous dose.
 After repeated dosing once every 4 weeks, pre-dose serum free IgE levels remained stable between 12 and 24 weeks of treatment.
 After discontinuation of Xolair, free IgE levels increased towards pre-treatment levels over a 16-week treatment-free follow-up period.
+
 Clinical efficacy and safety in allergic asthma
 
 Table 6 includes results in the study 1 population.
@@ -127,7 +127,6 @@ The efficacy and safety of Xolair were demonstrated in two randomised, placebo-c
 A third study (study 3) primarily evaluated the safety of Xolair in patients with CSU who remained symptomatic despite treatment with H1 antihistamines at up to four times the approved dose and H2 antihistamine and/or LTRA treatment.
 The three studies enrolled 975 patients aged between 12 and 75 years (mean age 42.3 years; 39 patients 12-17 years, 54 patients ≥65 years; 259 males and 716 females).
 All patients were required to have inadequate symptom control, as assessed by a weekly urticaria activity score (UAS7, range 0-42) of ≥16, and a weekly itch severity score (which is a component of the UAS7; range 0-21) of ≥8 for the 7 days prior to randomisation, despite having used an antihistamine for at least 2 weeks beforehand.
-
 In studies 1 and 2, patients had a mean weekly itch severity score of between 13.7 and 14.5 at baseline and a mean UAS7 score of 29.5 and 31.7 respectively.
 Patients in safety study 3 had a mean weekly itch severity score of 13.8 and a mean UAS7 score of 31.2 at baseline.
 Across all three studies, patients reported receiving on average 4 to 6 medications (including H1 antihistamines) for CSU symptoms prior to study enrollment.
@@ -173,7 +172,6 @@ BOCF (Baseline Observation Carried Forward) was used to impute missing data.
 1 The LS mean was estimated using an ANCOVA model.
 The strata were baseline weekly itch severity score (<13 vs. ≥13) and baseline weight (<80 kg vs. ≥80 kg).
 2 p-value is derived from ANCOVA t-test.
-
 Figure 1 shows the mean weekly itch severity score over time in study 1.
 The mean weekly itch severity scores significantly decreased with a maximum effect around week 12 that was sustained over the 24-week treatment period.
 The results were similar in study 3.
@@ -196,6 +194,7 @@ Week
 Omalizumab or placebo administered
 
 BOCF=baseline observation carried forward; mITT=modified intention-to-treat population
+
 Efficacy after 24 weeks of treatment
 The magnitude of the efficacy outcomes observed at week 24 of treatment was comparable to that observed at week 12:
 For 300 mg, in studies 1 and 3, the mean decrease from baseline in weekly itch severity score was 9.8 and 8.6, the proportion of patients with UAS7≤6 was 61.7% and 55.6%, and the proportion of patients with complete response (UAS7=0) was 48.1% and 42.5%, respectively, (all p<0.0001, when compared to placebo).

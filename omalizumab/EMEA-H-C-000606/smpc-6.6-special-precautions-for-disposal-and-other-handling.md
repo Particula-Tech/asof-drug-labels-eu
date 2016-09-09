@@ -1,8 +1,9 @@
 # 6.6 Special precautions for disposal and other handling
 
 The lyophilised medicinal product takes 15-20 minutes to dissolve, although in some cases it may take longer.
-The fully reconstituted medicinal product will appear clear or slightly opaque and may have a few small bubbles or foam around the edge of the vial.
+The fully reconstituted medicinal product will appear clear to slightly opalescent, colourless to pale brownish-yellow and may have a few small bubbles or foam around the edge of the vial.
 Because of the viscosity of the reconstituted medicinal product care must be taken to withdraw all of the medicinal product from the vial before expelling any air or excess solution from the syringe in order to obtain the 0.6 ml.
+
 To prepare Xolair 75 mg vials for subcutaneous administration, please adhere to the following instructions:
 
 1.
@@ -22,7 +23,7 @@ If this is the case, repeat step 4 until there are no visible gel-like particles
 
 When the medicinal product is fully dissolved, there should be no visible gel-like particles in the solution.
 Small bubbles or foam around the edge of the vial are common.
-The reconstituted medicinal product will appear clear or slightly opaque.
+The reconstituted medicinal product will appear clear to slightly opalescent, colourless to pale brownish-yellow.
 Do not use if solid particles are present.
 
 5.
@@ -33,7 +34,6 @@ Before removing the needle from the vial, pull the plunger all the way back to t
 
 6.
 Replace the 18-gauge needle with a 25-gauge needle for subcutaneous injection.
-
 7.
 Expel air, large bubbles, and any excess solution in order to obtain the required 0.6 ml dose.
 A thin layer of small bubbles may remain at the top of the solution in the syringe.
@@ -79,7 +79,6 @@ Holding onto the finger flange, slowly depress the plunger as far as it will go.
 If any solution leaks from the injection site, insert the needle further.
 Keeping the plunger fully depressed, carefully lift the needle straight out from the injection site.
 Slowly release the plunger and allow the needle guard to automatically cover the exposed needle.
-
 Disposal instructions
 Dispose of the used syringe immediately in a sharps container.
 

@@ -9,6 +9,7 @@ The pharmacokinetics of omalizumab are linear at doses greater than 0.5 mg/kg.
 Following multiple doses of omalizumab, areas under the serum concentration-time curve from Day 0 to Day 14 at steady state were up to 6-fold of those after the first dose.
 
 Administration of Xolair manufactured as a lyophilised or liquid formulation resulted in similar serum concentration-time profiles of omalizumab.
+
 Distribution
 In vitro, omalizumab forms complexes of limited size with IgE.
 Precipitating complexes and complexes larger than one million Daltons in molecular weight are not observed in vitro or in vivo.
@@ -44,6 +45,7 @@ The apparent volume of distribution in patients with asthma following subcutaneo
 
 Doubling of body weight approximately doubled apparent clearance.
 In CSU patients, based on population pharmacokinetic simulations, omalizumab serum elimination half-life at steady state averaged 24 days and apparent clearance at steady state for a patient of 80 kg weight was 3.0 ml/kg/day.
+
 Patients with asthma: The population pharmacokinetics of omalizumab were analysed to evaluate the effects of demographic characteristics.
 Analyses of these limited data suggest that no dose adjustments are necessary in patients with asthma for age (6-76 years), race/ethnicity, gender or body mass index (see section 4.2).
 
