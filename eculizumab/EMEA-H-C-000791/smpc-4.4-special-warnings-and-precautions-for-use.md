@@ -4,11 +4,12 @@ Soliris is not expected to affect the aplastic component of anaemia in patients 
 
 Meningococcal Infection
 Due to its mechanism of action, the use of Soliris increases the patient’s susceptibility to meningococcal infection (Neisseria meningitidis).
-These patients might be at risk of disease by uncommon serogroups (particularly Y, W135 and X), although meningococcal disease due to any serogroup may occur.
-To reduce the risk of infection, all patients must be vaccinated at least 2 weeks prior to receiving Soliris.
-PNH patients must be vaccinated 2 weeks prior to Soliris initiation. aHUS patients who are treated with Soliris less than 2 weeks after receiving a meningococcal vaccine must receive treatment with appropriate prophylactic antibiotics until 2 weeks after vaccination.
-Patients must be re-vaccinated according to current medical guidelines for vaccination use.
-Tetravalent vaccines against serotypes A, C, Y and W135 are strongly recommended, preferably conjugated ones.
+These patients might be at risk of disease by uncommon serogroups (such as X), although meningococcal disease due to any serogroup may occur.
+To reduce the risk of infection, all patients must be vaccinated at least 2 weeks prior to receiving Soliris unless the risk of delaying Soliris therapy outweigh the risks of developing a meningococcal infection.
+Patients who are treated with Soliris less than 2 weeks after receiving a meningococcal vaccine must receive treatment with appropriate prophylactic antibiotics until 2 weeks after vaccination.
+Vaccines against serotypes A, C, Y, W135 and B where available, are recommended in preventing the commonly pathogenic meningococcal serotypes.
+Patients must be vaccinated or revaccinated according to current national vaccination guidelines for vaccination use.
+
 Vaccination may not be sufficient to prevent meningococcal infection.
 Consideration should be given to official guidance on the appropriate use of antibacterial agents.
 Cases of serious or fatal meningococcal infections have been reported in Soliris-treated patients.
@@ -35,9 +36,10 @@ There has been no observed correlation of antibody development to clinical respo
 
 Immunization
 Prior to initiating Soliris therapy, it is recommended that PNH and aHUS patients should initiate immunizations according to current immunization guidelines.
-Additionally, all patients must be vaccinated against meningococcus at least 2 weeks prior to receiving Soliris.
+Additionally, all patients must be vaccinated against meningococcus at least 2 weeks prior to receiving Soliris unless the risk of delaying Soliris therapy outweigh the risks of developing a meningococcal infection.
 Patients who are treated with Soliris less than 2 weeks after receiving a meningococcal vaccine must receive treatment with appropriate prophylactic antibiotics until 2 weeks after vaccination.
-If available, tetravalent, conjugated vaccines are recommended (see Meningococcal Infection).
+Vaccines against serotypes A, C, Y, W135 and B where available are recommended in preventing the commonly pathogenic meningococcal serotypes.
+(see Meningococcal Infection).
 
 Patients less than 18 years of age must be vaccinated against Haemophilus influenzae and pneumococcal infections, and strictly need to adhere to the national vaccination recommendations for each age group.
 
@@ -72,7 +74,6 @@ Monitoring may be insufficient to predict or prevent severe thrombotic microangi
 Severe thrombotic microangiopathy complications post discontinuation can be identified by (i) any two, or repeated measurement of any one, of the following: a decrease in platelet count of 25% or more as compared to either baseline or to peak platelet count during Soliris treatment; an increase in serum creatinine of 25% or more as compared to baseline or to nadir during Soliris treatment; or, an increase in serum LDH of 25% or more as compared to baseline or to nadir during Soliris treatment; or (ii) any one of the following: a change in mental status or seizures; angina or dyspnoea; or thrombosis.
 
 If severe thrombotic microangiopathy complications occur after Soliris discontinuation, consider reinstitution of Soliris treatment, supportive care with PE/PI, or appropriate organ-specific supportive measures including renal support with dialysis, respiratory support with mechanical ventilation or anticoagulation.
-
 Educational materials
 All physicians who intend to prescribe Soliris must ensure they are familiar with the physician’s guide to prescribing.
 Physicians must discuss the benefits and risks of Soliris therapy with patients and provide them with a patient information brochure and a patient safety card.

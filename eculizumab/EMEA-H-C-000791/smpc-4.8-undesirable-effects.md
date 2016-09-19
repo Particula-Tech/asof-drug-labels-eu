@@ -24,8 +24,9 @@ Table 1: Adverse Reactions reported in 302 patients included in PNH and aHUS cli
 | Ear and labyrinth disorders |  |  | Tinnitus, Vertigo |
 | Cardiac disorders |  |  | Palpitation |
 | Vascular disorders |  | Hypotension | Accelerated hypertension, Hypertension, Haematoma, Hot flush, Vein disorder |
-| Respiratory, thoracic and mediastinal disorders |  | Dyspnoea, Cough, Nasal congestion, Pharyngolaryngeal pain, Rhinorrhoea | Epistaxis, Throat irritation |
+| Respiratory, thoracic and mediastinal |  | Dyspnoea, Cough, Nasal congestion, Pharyngolaryngeal pain, Rhinorrhoea | Epistaxis, Throat irritation |
 
+disorders
 Gastrointestinal Diarrhoea, Vomiting, Nausea, Peritonitis,
 disorders Abdominal pain, Constipation, Gastrooesophagal reflux
 Dyspepsia disease, Abdominal
@@ -71,10 +72,10 @@ As with all proteins there is a potential for immunogenicity.
 Cases of haemolysis have been reported in the setting of missed or delayed Soliris dose in PNH clinical trials (see also Section 4.4).
 
 Cases of thrombotic microangiopathy complication have been reported in the setting of missed or delayed Soliris dose in aHUS clinical trials (see also Section 4.4).
-
 Paediatric population
 In children and adolescent PNH patients (aged 11 years to less than 18 years) included in the paediatric PNH Study M07-005, the safety profile appeared similar to that observed in adult PNH patients.
 The most common adverse reaction reported in paediatric patients was headache.
+
 In aHUS patients, the safety profile in adolescents (patients aged 12 years to less than 18 years) is consistent with that observed in adults.
 In paediatric aHUS patients (aged 2 months to less than 18 years) included in the aHUS studies C08-002, C08-003, C09-001r and C10-003, the safety profile appeared similar to that observed in adult aHUS patients.
 The safety profiles in the different paediatric subsets of age appear similar.

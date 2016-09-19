@@ -43,14 +43,14 @@ For adults and paediatric aHUS patients supplemental dosing of Soliris is requir
 
 Treatment monitoring aHUS patients should be monitored for signs and symptoms of thrombotic microangiopathy (TMA) (see section 4.4 aHUS laboratory monitoring).
 Soliris treatment is recommended to continue for the patient’s lifetime, unless the discontinuation of Soliris is clinically indicated (see section 4.4).
-Older population
+Elderly
 Soliris may be administered to patients aged 65 years and over.
 There is no evidence to suggest that any special precautions are needed when older people are treated – although experience with Soliris in this patient population is still limited.
 
-Patients with renal impairment
+Renal impairment
 No dose adjustment is required for patients with renal impairment (see section 5.1).
 
-Patients with hepatic impairment
+Hepatic impairment
 The safety and efficacy of Soliris have not been studied in patients with hepatic impairment.
 
 Method of administration

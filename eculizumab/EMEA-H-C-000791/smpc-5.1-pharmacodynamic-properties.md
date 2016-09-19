@@ -13,7 +13,6 @@ Mechanism of action
 
 Eculizumab, the active ingredient in Soliris, is a terminal complement inhibitor that specifically binds to the complement protein C5 with high affinity, thereby inhibiting its cleavage to C5a and C5b and preventing the generation of the terminal complement complex C5b-9.
 Eculizumab preserves the early components of complement activation that are essential for opsonization of microorganisms and clearance of immune complexes.
-
 In PNH patients, uncontrolled terminal complement activation and the resulting complement-mediated intravascular haemolysis are blocked with Soliris treatment.
 In most PNH patients, eculizumab serum concentrations of approximately 35 microgram/ml are sufficient for essentially complete inhibition of terminal complement-mediated intravascular haemolysis.
 In PNH, chronic administration of Soliris resulted in a rapid and sustained reduction in complement-mediated haemolytic activity.
@@ -46,14 +45,11 @@ Major baseline characteristics were balanced (see Table 2).
 In the non-controlled study C04-002 (SHEPHERD), PNH patients with at least one transfusion in the prior 24 months and at least 30,000 platelets/microliter received Soliris over a 52-week period.
 Concomitant medications included anti-thrombotic agents in 63% of the patients and systemic corticosteroids in 40% of the patients.
 Baseline characteristics are shown in Table 2.
-
 Table 2: Patient Demographics and Characteristics in C04-001 and C04-002
 
 C04-001 C04-002
 Parameter Placebo N = 44 N = 43 Soliris N = 97 Soliris
 Mean Age (SD) 38.4 (13.4) 42.1 (15.5) 41.1 (14.4)
-C04-001 C04-002
-Parameter Placebo N = 44 N = 43 Soliris N = 97 Soliris
 Gender - Female (%) 29 (65.9) 23 (53.5) 49 (50.5)
 History of Aplastic Anaemia or MDS (%) 12 (27.3) 8 (18.7) 29 (29.9)
 Concomitant Anticoagulants (%) 20 (45.5) 24 (55.8) 59 (61)
@@ -93,6 +89,7 @@ From the 195 patients that originated in C04-001, C04-002 and other initial stud
 All patients sustained a reduction in intravascular haemolysis over a total Soliris exposure time ranging from 10 to 54 months.
 There were fewer thrombotic events with Soliris treatment than during the same period of time prior to treatment.
 However, this finding was shown in non-controlled clinical trials.
+
 The PNH registry (M07-001) was used to evaluate the efficacy of Soliris in PNH patients with no history of RBC transfusion.
 These patients had high disease activity as defined by elevated haemolysis (LDH ≥1.5x ULN) and the presence of related clinical symptom(s): fatigue, haemoglobinuria, abdominal pain, shortness of breath (dyspnoea), anaemia (haemoglobin <100 g/L), major adverse vascular event (including thrombosis), dysphagia, or erectile dysfunction.
 
@@ -127,7 +124,6 @@ Study C08-002A/B was a prospective, controlled, open-label study which accrued p
 Study C08-003A/B was a prospective, controlled, open-label study which accrued patients with longer term aHUS without apparent evidence of clinical thrombotic microangiopathy manifestations and receiving chronic PE/PI (≥1 PE/PI treatment every two weeks and no more than 3 PE/PI treatments/week for at least 8 weeks before the first dose).
 Patients in both prospective studies were treated with Soliris for 26 weeks and most patients enrolled into a long-term, open-label extension study.
 All patients enrolled in both prospective studies had an ADAMTS-13 level above 5%.
-
 Patients received meningococcal vaccination prior to receipt of Soliris or received prophylactic treatment with appropriate antibiotics until 2 weeks after vaccination.
 In all studies, the dose of Soliris in adult and adolescent aHUS patients was 900 mg every 7 ± 2 days for 4 weeks, followed by 1,200 mg 7 ± 2 days later, then 1,200 mg every 14 ± 2 days for the study duration.
 Soliris was administered as an intravenous infusion over 35 minutes.
@@ -167,8 +163,8 @@ When treatment was continued for more than 26 weeks, two additional patients ach
 Renal function, as measured by eGFR, was improved and maintained during Soliris therapy.
 Four of the five patients who required dialysis at study entry were able to discontinue dialysis for the duration of Soliris treatment, and one patient developed a new dialysis requirement.
 Patients reported improved health-related quality of life (QoL).
-
 In aHUS Study C08-002A/B, responses to Soliris were similar in patients with and without identified mutations in genes encoding complement regulatory factor proteins.
+
 Patients in aHUS study C08-003A/B received Soliris for a minimum of 26 weeks.
 After completion of the initial 26-week treatment period, most patients continued to receive Soliris by enrolling into an extension study.
 In aHUS Study C08-003A/B, the median duration of Soliris therapy was approximately 114 weeks (range: 26 to 129 weeks).
@@ -193,7 +189,7 @@ Table 6: Efficacy Outcomes in Prospective aHUS Studies C08-002A/B and C08-003A/B
 |  | P<0.0001 | P<0.0001 | P <0.0001 | P<0.0001 |
 | CKD improvement by ≥1 stage, n (%) (95% CI) | 10 (59) (33-82) | 12 (71) (44-90) | 7 (35) (15-59) | 12 (60) (36-81) |
 | eGFR change mL/min/1.73 m2: median (range) | 20 (-1, 98) | 28 (3, 82) | 5 (-1, 20) | 11 (-42, 30) |
-| eGFR improvement ≥15 mL/min/1.73 m2, n (%) (95% CI) | 8 (47) (23-727) | 10 (59) (33-82) | 1 (5) (0-25) | 8 (40) (19-64) |
+| eGFR improvement ≥15 mL/min/1.73 m2, n (%) (95% CI) | 8 (47) (23-72) | 10 (59) (33-82) | 1 (5) (0-25) | 8 (40) (19-64) |
 | Change in Hgb > 20g/L, n (%) (95% CI) | 11 (65) (38-86) 2 | 13 (76) (50-93) | 9 (45) (23-68) 3 | 13 (65) (41-85) |
 | Haematologic normalization, n (%) (95% CI) | 13 (76) (50-93) | 15 (88) (64-99) | 18 (90) (68-99) | 18 (90) (68-99) |
 | Complete TMA response, n (%) (95% CI) | 11(65) (38-86) | 13(76) (50-93) | 5 (25) (9-49) | 11(55) (32-77) |
@@ -258,8 +254,7 @@ Table 9: Efficacy Outcomes in Paediatric PNH Study M07-005
 |  |  | P – Value |  |
 | --- | --- | --- | --- |
 |  | Mean (SD) | Wilcoxon Signed Rank | Paired t-test |
-| Change from baseline at 12 weeks of LDH | -771 (914) | 0.0156 | 0.0336 |
-| Value (U/L) |  |  |  |
+| Change from baseline at 12 weeks of LDH Value (U/L) | -771 (914) | 0.0156 | 0.0336 |
 | LDH AUC (U/L x Day) | -60,634 (72,916) | 0.0156 | 0.0350 |
 | Change from baseline at 12 weeks in Plasma Free Haemoglobin (mg/dL) | -10.3 (21.13) | 0.2188 | 0.1232 |
 | Change from baseline Type III RBC clone size (Percent of aberrant cells) | 1.80 (358.1) |  |  |
@@ -290,7 +285,6 @@ Table 10: Efficacy Results in Paediatric Patients Enrolled in aHUS C09-001r
 In paediatric patients with shorter duration of current severe clinical thrombotic microangiopathy (TMA) manifestation prior to eculizumab, there was TMA control and improvement of renal function with eculizumab treatment (Table 10).
 In paediatric patients with longer duration of current severe clinical TMA manifestation prior to eculizumab, there was TMA control with eculizumab treatment.
 However, renal function was not changed due to prior irreversible kidney damage (Table 11).
-
 Table 11: Efficacy Outcomes in Paediatric Patients in Study C09-001r according to duration of current severe clinical thrombotic microangiopathy (TMA) manifestation
 
 |  | Duration of current severe clinical TMA manifestation |  |

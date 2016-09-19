@@ -32,8 +32,8 @@ Supplemental dosing is recommended when Soliris is administered to aHUS patients
 
 All aHUS patients treated with Soliris when administered as recommended demonstrated rapid and sustained reduction in terminal complement activity.
 In aHUS patients, pharmacodynamic activity correlates directly with eculizumab serum concentrations and maintenance of trough levels of approximately 50-100 microgram/ml results in essentially complete blockade of terminal complement activity in all aHUS patients.
-
 Special Populations
+
 PNH
 Formal studies have not been conducted to evaluate the pharmacokinetics of Soliris administration in special PNH patient populations based on gender, race, age (geriatric), or renal or hepatic impairment.
 
