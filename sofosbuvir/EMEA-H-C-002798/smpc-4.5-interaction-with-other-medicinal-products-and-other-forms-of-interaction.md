@@ -6,6 +6,7 @@ Intracellular hydrolytic prodrug cleavage catalysed by enzymes including carboxy
 The predominant inactive circulating metabolite GS-331007 that accounts for greater than 90% of drug-related material systemic exposure is formed through pathways sequential and parallel to formation of active metabolite.
 The parent sofosbuvir accounts for approximately 4% of drug-related material systemic exposure (see section 5.2).
 In clinical pharmacology studies, both sofosbuvir and GS-331007 were monitored for purposes of pharmacokinetic analyses.
+
 Sofosbuvir is a substrate of drug transporter P-gp and breast cancer resistance protein (BCRP) while GS-331007 is not.
 
 Medicinal products that are potent P-gp inducers in the intestine (rifampicin, rifabutin, St. John’s wort, carbamazepine, phenobarbital and phenytoin) may significantly decrease sofosbuvir plasma concentration leading to reduced therapeutic effect of Sovaldi and thus are contraindicated with Sovaldi (see section 4.3).
@@ -27,7 +28,7 @@ Table 3: Interactions between Sovaldi and other medicinal products
 | ANALEPTICS |  |  |
 | Modafinil | Interaction not studied. Expected: ↓ Sofosbuvir ↔ GS-331007 | Co-administration of Sovaldi with modafinil is expected to decrease the concentration of sofosbuvir, leading to reduced therapeutic effect of Sovaldi. Such co-administration is not recommended. |
 | ANTIARRHYTHMICS |  |  |
-| Amiodarone | Interaction not studied. | Use only if no other alternative is available. Close monitoring is recommended if this medicinal product is administered with Sovaldi + Daklinza (see sections 4.4 and 4.8). |
+| Amiodarone | Interaction not studied. | Use only if no other alternative is available. Close monitoring is recommended if this medicinal product is administered with Sovaldi and another DAA (see sections 4.4 and 4.8). |
 | ANTICONVULSANTS |  |  |
 | Carbamazepine Phenobarbital Phenytoin | Interaction not studied. Expected: ↓ Sofosbuvir ↔ GS-331007 | Sovaldi is contraindicated with carbamazepine, phenobarbital and phenytoin, potent intestinal P-gp inducers (see section 4.3). |
 | Oxcarbazepine | Interaction not studied. Expected: ↓ Sofosbuvir ↔ GS-331007 | Co-administration of Sovaldi with oxcarbazepine is expected to decrease the concentration of sofosbuvir, leading to reduced therapeutic effect of Sovaldi. Such co-administration is not recommended (see section 4.4). |

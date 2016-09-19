@@ -21,7 +21,9 @@ Frequency SOFa + RBVb SOF + PEGc + RBV
 Infections and infestations:
 Common nasopharyngitis
 Blood and lymphatic system disorders:
-Very common haemoglobin decreased anaemia, neutropenia, lymphocyte count decreased, platelet count decreased
+anaemia, neutropenia, lymphocyte count
+Very common haemoglobin decreased
+decreased, platelet count decreased
 Common anaemia
 Metabolism and nutrition disorders:
 Very common decreased appetite
@@ -31,7 +33,9 @@ Very common insomnia insomnia
 Common depression depression, anxiety, agitation
 Nervous system disorders:
 Very common headache dizziness, headache
-Common disturbance in attention migraine, memory impairment, disturbance in attention
+migraine, memory impairment,
+Common disturbance in attention
+disturbance in attention
 Eye disorders:
 Common vision blurred
 Respiratory, thoracic and mediastinal disorders:
@@ -39,7 +43,9 @@ Very common dyspnoea, cough
 Common dyspnoea, dyspnoea exertional, cough dyspnoea exertional
 Gastrointestinal disorders:
 Very common nausea diarrhoea, nausea, vomiting
-Common abdominal discomfort, constipation, dyspepsia constipation, dry mouth, gastroesophageal reflux
+abdominal discomfort, constipation, constipation, dry mouth, gastroesophageal
+Common
+dyspepsia reflux
 Hepatobiliary disorders:
 Very common blood bilirubin increased blood bilirubin increased
 Skin and subcutaneous tissue disorders:
@@ -47,9 +53,13 @@ Very common rash, pruritus
 Common alopecia, dry skin, pruritus alopecia, dry skin
 Musculoskeletal and connective tissue disorders:
 Very common arthralgia, myalgia
-Common arthralgia, back pain, muscle spasms, myalgia back pain, muscle spasms
+arthralgia, back pain, muscle spasms,
+Common back pain, muscle spasms
+myalgia
 General disorders and administration site conditions:
-Very common fatigue, irritability chills, fatigue, influenza-like illness, irritability, pain, pyrexia
+chills, fatigue, influenza-like illness,
+Very common fatigue, irritability
+irritability, pain, pyrexia
 Common pyrexia, asthenia chest pain, asthenia
 
 a. SOF = sofosbuvir; b. RBV = ribavirin; c. PEG = peginterferon alfa.
@@ -69,7 +79,7 @@ In 5 subjects (12.5%), study drugs were discontinued, modified or interrupted du
 
 Description of selected adverse reactions
 Cardiac arrhythmias
-Cases of severe bradycardia and heart block have been observed when Sovaldi is used in combination with Daklinza and concomitant amiodarone and/or other drugs that lower heart rate (see sections 4.4 and 4.5).
+Cases of severe bradycardia and heart block have been observed when sofosbuvir is used in combination with another DAA (including daclatasvir, simeprevir and ledipasvir) and concomitant amiodarone and/or other drugs that lower heart rate (see sections 4.4 and 4.5).
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
