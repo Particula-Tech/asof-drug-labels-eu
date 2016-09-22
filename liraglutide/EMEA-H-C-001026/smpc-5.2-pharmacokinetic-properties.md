@@ -25,7 +25,6 @@ Elimination
 Following a [3H]-liraglutide dose, intact liraglutide was not detected in urine or faeces.
 Only a minor part of the administered radioactivity was excreted as liraglutide-related metabolites in urine or faeces (6% and 5%, respectively).
 The urine and faeces radioactivity was mainly excreted during the first 6­8 days, and corresponded to three minor metabolites, respectively.
-
 The mean clearance following subcutaneous administration of a single dose liraglutide is approximately 1.2 l/h with an elimination half-life of approximately 13 hours.
 
 Special populations

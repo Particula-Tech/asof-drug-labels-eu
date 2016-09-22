@@ -22,8 +22,8 @@ GLP-1 is a physiological regulator of appetite and food intake, but the exact me
 In animal studies, peripheral administration of liraglutide led to uptake in specific brain regions involved in regulation of appetite, where liraglutide via specific activation of the GLP-1 receptor (GLP-1R) increased key satiety and decreased key hunger signals, thereby leading to lower body weight.
 
 Pharmacodynamic effects
-
 Liraglutide has 24-hour duration of action and improves glycaemic control by lowering fasting and postprandial blood glucose in patients with type 2 diabetes mellitus.
+
 Clinical efficacy and safety
 
 Five double-blind, randomised, controlled clinical trials were conducted to evaluate the effects of liraglutide on glycaemic control (Table 2).
@@ -52,12 +52,10 @@ Table 2 Liraglutide in monotherapy (52 weeks) and in combination with oral antid
 | Add-on to glimepiride (4 mg/day) |  |  |  |  |  |  |
 | Liraglutide 1.2 mg Liraglutide 1.8 mg Placebo Rosiglitazone 4 mg/day | 228 234 114 231 | 8.5 8.5 8.4 8.4 | -1.08** -1.13** 0.23 -0.44 | 34.51, 57.42 41.61, 55.92 7.51, 11.82 21.91, 36.12 | 80.0 83.0 81.9 80.6 | 0.32** -0.23** -0.10 2.11 |
 | Add-on to metformin (2,000 mg/day) + rosiglitazone (4 mg twice daily) |  |  |  |  |  |  |
-| Liraglutide 1.2 mg Liraglutide 1.8 mg Placebo | 177 178 175 | 8.48 8.56 8.42 | -1.48 -1.48 -0.54 | 57.51 53.71 28.11 | 95.3 94.9 98.5 | -1.02 -2.02 0.60 |
+| Liraglutide 1.2 mg Liraglutide 1.8 mg | 177 178 | 8.48 8.56 | -1.48 -1.48 | 57.51 53.71 | 95.3 94.9 | -1.02 -2.02 |
+| Placebo | 175 | 8.42 | -0.54 | 28.11 | 98.5 | 0.60 |
 | Add-on to metformin (2,000 mg/day) + glimepiride (4 mg/day) |  |  |  |  |  |  |
-
-Liraglutide 1.8 mg 230 8.3 -1.33* 53.11 85.8 -1.81**
-Placebo 114 8.3 -0.24 15.31 85.4 -0.42
-Insulin glargine4 232 8.1 -1.09 45.81 85.2 1.62
+| Liraglutide 1.8 mg Placebo Insulin glargine4 | 230 114 232 | 8.3 8.3 8.1 | -1.33* -0.24 -1.09 | 53.11 15.31 45.81 | 85.8 85.4 85.2 | -1.81** -0.42 1.62 |
 
 *Superiority (p<0.01) vs. active comparator; **Superiority (p<0.0001) vs. active comparator; †Non-inferiority (p<0.0001) vs. active comparator
 1all patients; 2previous OAD monotherapy; 3previous diet treated patients

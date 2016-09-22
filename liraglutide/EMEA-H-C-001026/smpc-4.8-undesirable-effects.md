@@ -34,12 +34,16 @@ subcutaneous Pruritus
 tissue disorder
 Renal and Renal
 urinary impairment
-disorders Renal
-failure acute
+disorders Renal failure
+acute
 General Fatigue Malaise
 disorders and Injection site
 administration reactions
 site conditions
+Investigations Increased lipase*
+Increased amylase*
+
+* From controlled phase 3b and 4 clinical trials only where they were measured.
 
 Description of selected adverse reactions
 
