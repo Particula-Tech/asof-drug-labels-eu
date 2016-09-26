@@ -13,6 +13,7 @@ Food increased the extent and slowed the rate of absorption of dolutegravir.
 Bioavailability of dolutegravir depends on meal content: low, moderate, and high fat meals increased dolutegravir AUC(0-∞) by 33%, 41%, and 66%, increased Cmax by 46%, 52%, and 67%, prolonged Tmax to 3, 4, and 5 hours from 2 hours under fasted conditions, respectively.
 These increases may be clinically relevant in the presence of certain integrase class resistance.
 Therefore, Tivicay is recommended to be taken with food by patients infected with HIV with integrase class resistance (see section 4.2).
+
 The absolute bioavailability of dolutegravir has not been established.
 
 Distribution
@@ -55,6 +56,7 @@ With 50 mg twice daily, the exposure over 24 hours was approximately doubled com
 Pharmacokinetic/pharmacodynamic relationship(s)
 In a randomized, dose-ranging trial, HIV-1–infected subjects treated with dolutegravir monotherapy (ING111521) demonstrated rapid and dose-dependent antiviral activity, with mean decline in HIV-1 RNA of 2.5 log10 at day 11 for 50 mg dose.
 This antiviral response was maintained for 3 to 4 days after the last dose in the 50 mg group.
+
 PK/PD modelling using pooled data from clinical studies in integrase resistant patients suggest that increasing the dose from 50 mg twice daily to 100 mg twice daily may increase the effectiveness of dolutegravir in patients with integrase resistance and limited treatment options due to advanced multi class resistance.
 The proportion of responders (HIV-1 RNA <50 c/mL) at week 24 was predicted to increase around 4-18% in the subjects with Q148 + ≥2 secondary mutations from G140A/C/S, E138A/K/T, L74I.
 Although these simulated results have not been confirmed in clinical trials, this high dose may be considered in the presence of the Q148 + ≥2 secondary mutations from G140A/C/S, E138A/K/T, L74I in patients with overall limited treatment options due to advanced multi class resistance.
@@ -93,7 +95,6 @@ In a meta-analysis using pharmacogenomics samples collected in clinical studies 
 
 Gender
 Population PK analyses using pooled pharmacokinetic data from Phase IIb and Phase III adult trials revealed no clinically relevant effect of gender on the exposure of dolutegravir.
-
 Race
 Population PK analyses using pooled pharmacokinetic data from Phase IIb and Phase III adult trials revealed no clinically relevant effect of race on the exposure of dolutegravir.
 The pharmacokinetics of dolutegravir following single dose oral administration to Japanese subjects appear similar to observed parameters in Western (US) subjects.

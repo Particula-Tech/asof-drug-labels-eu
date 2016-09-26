@@ -66,7 +66,7 @@ Clinical efficacy and safety
 
 Previously untreated patients
 The efficacy of dolutegravir in HIV-infected, therapy naïve subjects is based on the analyses of 96-week data from two randomized, international, double-blind, active-controlled trials, SPRING-2 (ING113086) and SINGLE (ING114467).
-This is supported by 48 week data from an open-label, randomized and active-controlled study FLAMINGO (ING114915).
+This is supported by 96 week data from an open-label, randomized and active-controlled study FLAMINGO (ING114915) and additional data from the open-label phase of SINGLE to 144 weeks.
 
 In SPRING-2, 822 adults were randomized and received at least one dose of either dolutegravir 50 mg once daily or raltegravir (RAL) 400 mg twice daily, both administered with either ABC/3TC or TDF/FTC.
 At baseline, median patient age was 36 years, 14% were female, 15% non-white, 11% had hepatitis B and/or C co-infection and 2% were CDC Class C, these characteristics were similar between treatment groups.
@@ -95,7 +95,8 @@ Table 3 Response in SPRING-2 and SINGLE at 48 Weeks (Snapshot algorithm, <50 cop
 | Gender |  |  |  |  |
 | Male Female | 308 / 348 (89%) 53 / 63 (84%) | 305 / 355 (86%) 46 / 56 (82%) | 307 / 347 (88%) 57 / 67 (85%) | 291 / 356 (82%) 47 / 63 (75%) |
 | Race |  |  |  |  |
-| White African-America/African Heritage/Other | 306 / 346 (88%) 55 / 65 (85%) | 301 / 352 (86%) 50 / 59 (85%) | 255 / 284 (90%) 109 / 130 (84%) | 238 /285 (84%) 99 / 133 (74%) |
+| White African-America/African | 306 / 346 (88%) 55 / 65 (85%) | 301 / 352 (86%) 50 / 59 (85%) | 255 / 284 (90%) 109 / 130 (84%) | 238 /285 (84%) 99 / 133 (74%) |
+| Heritage/Other |  |  |  |  |
 | Age (years) |  |  |  |  |
 | <50 ≥50 | 324/370 (88%) 37/41 (90%) | 312/365 (85%) 39/46 (85%) | 319/361 (88%) 45/53 (85%) | 302/375 (81%) 36/44 (82%) |
 | Median CD4 change from baseline | 230 | 230 | 246‡ | 187‡ |
@@ -107,14 +108,16 @@ In SINGLE, the median time to viral suppression was shorter in the dolutegravir 
 At week 96, results were consistent with those seen at week 48.
 In SPRING-2, dolutegravir was still non-inferior to raltegravir (viral suppression in 81% vs 76% of patients), and with a median change in CD4 count of 276 vs 264 cells/mm3, respectively.
 In SINGLE, dolutegravir + ABC/3TC was still superior to EFV/TDF/FTC (viral suppression in 80% vs 72%, treatment difference 8.0% (2.3, 13.8), p=0.006, and with an adjusted mean change in CD4 count of 325 vs 281 cells/ mm3, respectively.
+At 144 weeks in the open-label phase of SINGLE, virologic suppression was maintained, the dolutegravir + ABC/3TC arm (71%) was superior to the EFV/TDF/FTC arm (63%), treatment difference was 8.3% (2.0, 14.6).
 
 In FLAMINGO (ING114915), an open-label, randomised and active-controlled study, 484 HIV-1 infected antiretroviral naïve adults received one dose of either dolutegravir 50 mg once daily (n=242) or darunavir/ritonavir (DRV/r) 800 mg/100 mg once daily (n=242), both administered with either ABC/3TC or TDF/FTC.
 At baseline, median patient age was 34 years, 15% were female, 28% non-white, 10% had hepatitis B and/or C co-infection, and 3% were CDC Class C; these characteristics were similar between treatment groups.
 Virologic suppression (HIV-1 RNA <50 copies/mL) in the dolutegravir group (90%) was superior to the DRV/r group (83%) at 48 weeks.
 The adjusted difference in proportion and 95% CI were 7.1% (0.9, 13.2), p=0.025.
+At 96 weeks, virologic suppression in the dolutegravir group (80%) was superior to the DRV/r group (68%), (adjusted treatment difference [DTG-(DRV+RTV)]: 12.4%; 95% CI: [4.7, 20.2].
 
 Treatment emergent resistance in previously untreated patients failing therapy
-Through 96 weeks in SPRING-2 and SINGLE, and through 48 weeks of therapy in the FLAMINGO study, no cases of treatment emergent resistance to the integrase- or NRTI-class were seen in the dolutegravir-containing arms.
+Through 96 weeks in SPRING-2 and FLAMINGO and 144 weeks in SINGLE, no cases of treatment emergent primary resistance to the integrase- or NRTI-class were seen in the dolutegravir-containing arms.
 For the comparator arms, the same lack of treatment emergent resistance was also the case for patients treated with darunavir/r in FLAMINGO.
 In SPRING-2, four patients in the RAL-arm failed with major NRTI mutations and one with raltegravir resistance; in SINGLE, six patients in the EFV/TDF/FTC-arm failed with mutations associated with NNRTI resistance, and one developed a major NRTI mutation.
 
@@ -205,8 +208,9 @@ VO Population (HIV-1 RNA <50 c/mL, Snapshot algorithm)
 | Primary mutation other than Q148H/K/R2 | 2/2 (100%) | 20/20 (100%) | 21/27 (78%) | 8/10 (80%) | 51/59 (86%) | 50/58 (86%) |
 | Q148 + 1 secondary mutation3 | 2/2 (100%) | 8/12 (67%) | 10/17 (59%) | - | 20/31 (65%) | 19/31 (61%) |
 | Q148 +≥2 secondary mutations 3 | 1/2 (50%) | 2/11 (18%) | 1/3 (33%) | - | 4/16 (25%) | 4/16 (25%) |
-| 1 Historical or phenotypic evidence of INI resistance only. 2 N155H, Y143C/H/R, T66A, E92Q |  |  |  |  |  |  |
 
+1 Historical or phenotypic evidence of INI resistance only.
+2 N155H, Y143C/H/R, T66A, E92Q
 3 G140A/C/S, E138A/K/T, L74I
 OSS: combined genotypic and phenotypic resistance (Monogram Biosciences Net Assessment)
 

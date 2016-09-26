@@ -42,7 +42,7 @@ Description of selected adverse reactions
 
 Changes in laboratory biochemistries
 Increases in serum creatinine occurred within the first week of treatment with dolutegravir and remained stable through 48 weeks.
-A mean change from baseline of 9.96 μmol/L was observed after 48 weeks of treatment.
+A mean change from baseline of 9.96 µmol/L was observed after 48 weeks of treatment.
 Creatinine increases were comparable by various background regimens.
 These changes are not considered to be clinically relevant since they do not reflect a change in glomerular filtration rate.
 
@@ -60,4 +60,6 @@ Based on limited available data in adolescents (12 to less than 18 years of age 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Healthcare professionals are asked
+
+to report any suspected adverse reactions via the national reporting system listed in Appendix V.
