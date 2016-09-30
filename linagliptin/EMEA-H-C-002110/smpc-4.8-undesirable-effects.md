@@ -53,6 +53,7 @@ tissue disorders
 Angioedema* rare
 Urticaria* rare
 Rash* uncommon
+Bullous pemphigoid* not known
 Investigations
 Amylase increased uncommon uncommon not known not known
 

@@ -15,7 +15,6 @@ Absorption
 The absolute bioavailability of linagliptin is approximately 30%.
 Co-administration of a high-fat meal with linagliptin prolonged the time to reach Cmax by 2 hours and lowered Cmax by 15% but no influence on AUC 0-72h was observed.
 No clinically relevant effect of Cmax and Tmax changes is expected; therefore linagliptin may be administered with or without food.
-
 Distribution
 As a result of tissue binding, the mean apparent volume of distribution at steady-state following a single 5 mg intravenous dose of linagliptin to healthy subjects is approximately 1,110 litres, indicating that linagliptin extensively distributes to the tissues.
 Plasma protein binding of linagliptin is concentration-dependent, decreasing from about 99% at 1 nmol/l to 75-89% at ≥30 nmol/l, reflecting saturation of binding to DPP-4 with increasing concentration of linagliptin.
@@ -53,10 +52,10 @@ Body Mass Index (BMI)
 No dosage adjustment is necessary based on BMI.
 BMI had no clinically relevant effect on the pharmacokinetics of linagliptin based on a population pharmacokinetic analysis of Phase I and Phase II data.
 The clinical trials before marketing authorisation have been performed up to a BMI equal to 40 kg/m2.
-
 Gender
 No dosage adjustment is necessary based on gender.
 Gender had no clinically relevant effect on the pharmacokinetics of linagliptin based on a population pharmacokinetic analysis of Phase I and Phase II data.
+
 Elderly
 No dosage adjustment is required based on age up to 80 years, as age did not have a clinically relevant impact on the pharmacokinetics of linagliptin based on a population pharmacokinetic analysis of Phase I and Phase II data.
 Older subjects (65 to 80, oldest patient was 78 years) had comparable plasma concentrations of linagliptin compared to younger subjects.
