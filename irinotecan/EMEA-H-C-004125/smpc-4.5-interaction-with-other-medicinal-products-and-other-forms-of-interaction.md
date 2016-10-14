@@ -1,0 +1,19 @@
+# 4.5 Interaction with other medicinal products and other forms of interaction
+
+Information about drug interactions with ONIVYDE is referenced from the published scientific literature for nonliposomal irinotecan.
+
+Interaction affecting the use of ONIVYDE
+
+Strong CYP3A4 inducers
+Patients receiving concomitant non-liposomal irinotecan and CYP3A4 enzyme-inducing anticonvulsants phenytoin, phenobarbital or carbamazepine have substantially reduced exposure to irinotecan (AUC reduction by 12% with St John’s wort, 57%-79% with phenytoin, phenobarbital, or carbamazepine) and SN-38 (AUC reduction by 42% with St John’s wort, 36%-92% with phenytoin phenobarbital, or carbamazepine).
+Therefore, co-administration of ONIVYDE with inducers of CYP3A4 may reduce systemic exposure of ONIVYDE.
+
+Strong CYP3A4 inhibitors and UGT1A1 inhibitors
+Patients receiving concomitant non-liposomal irinotecan and ketoconazole, a CYP3A4 and
+UGT1A1 inhibitor, have increased SN-38 exposure by 109%.
+Therefore, co-administration of ONIVYDE with other inhibitors of CYP3A4 (e.g. grapefruit juice, clarithromycin, indinavir, itraconazole, lopinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telaprevir, voriconazole) may increase systemic exposure of ONIVYDE.
+Based on the drug interaction of non-liposomal irinotecan and ketoconazole, co-administration of ONIVYDE with other inhibitors of UGT1A1 (e.g. atazanavir, gemfibrozil, indinavir) may also increase systemic exposure of ONIVYDE.
+
+Co-administration of ONIVYDE+5-FU/LV does not alter the pharmacokinetics of ONIVYDE based on the population pharmacokinetic analysis.
+
+No interaction of ONIVYDE (liposomal irinotecan) with other medicinal products is known.

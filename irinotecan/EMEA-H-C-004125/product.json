@@ -1,0 +1,16 @@
+{
+  "active_substance": "irinotecan anhydrous free-base",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/004125",
+  "eu_number": "EU/1/16/1130",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2016-10-14",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/onivyde-pegylated-liposomal",
+  "molecule": "irinotecan",
+  "molecule_name": "IRINOTECAN",
+  "name": "Onivyde pegylated liposomal (previously Onivyde)",
+  "register_name": "Onivyde pegylated liposomal",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h1130.htm"
+}
