@@ -1,37 +1,33 @@
 # 8. MARKETING AUTHORISATION NUMBERS
 
+NovoRapid vial
 EU/1/99/119/001
 EU/1/99/119/008
 EU/1/99/119/015
 
-[NovoRapid Penfill 100 units/ml solution for injection in cartridge]
-
+NovoRapid Penfill
 EU/1/99/119/003
 EU/1/99/119/006
 
-[NovoRapid FlexPen 100 units/ml solution for injection in pre-filled pen]
-
+NovoRapid FlexPen
 EU/1/99/119/009
 EU/1/99/119/010
 EU/1/99/119/011
 EU/1/99/119/017
 EU/1/99/119/018
 
-[NovoRapid InnoLet 100 units/ml solution for injection in pre-filled pen]
-
+NovoRapid InnoLet
 EU/1/99/119/012
 EU/1/99/119/013
 EU/1/99/119/014
 
-[NovoRapid FlexTouch 100 units/ml solution for injection in pre-filled pen]
-
+NovoRapid FlexTouch
 EU/1/99/119/019
 EU/1/99/119/020
 EU/1/99/119/021
 EU/1/99/119/022
 EU/1/99/119/023
 
-[NovoRapid PumpCart 100 units/ml solution for injection in cartridge]
-
+NovoRapid PumpCart
 EU/1/99/119/024
 EU/1/99/119/025

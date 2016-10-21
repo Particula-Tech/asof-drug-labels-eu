@@ -2,6 +2,11 @@
 
 Before travelling between different time zones, the patient should seek the doctor’s advice since this may mean that the patient has to take the insulin and meals at different times.
 
+NovoRapid PumpCart
+Misuse of NovoRapid PumpCart
+NovoRapid PumpCart is only for use with an insulin infusion pump system designed to be used with this cartridge, such as the Accu-Chek Insight and YpsoPump insulin pumps.
+It must not be used with other devices not designed for NovoRapid PumpCart, as this may result in incorrect insulin dosing and subsequent hyper- or hypoglycaemia.
+
 Hyperglycaemia
 
 Inadequate dosing or discontinuation of treatment, especially in type 1 diabetes, may lead to hyperglycaemia and diabetic ketoacidosis.
@@ -12,6 +17,7 @@ In type 1 diabetes, untreated hyperglycaemic events eventually lead to diabetic 
 Hypoglycaemia
 
 Omission of a meal or unplanned, strenuous physical exercise may lead to hypoglycaemia.
+Especially in children, care should be taken to match insulin doses (especially in basal-bolus regimens) with food intake, physical activities and current blood glucose level in order to minimise the risk of hypoglycaemia.
 
 Hypoglycaemia may occur if the insulin dose is too high in relation to the insulin requirement.
 In case of hypoglycaemia or if hypoglycaemia is suspected NovoRapid must not be injected.
@@ -23,11 +29,11 @@ Usual warning symptoms may disappear in patients with longstanding diabetes.
 A consequence of the pharmacodynamics of rapid-acting insulin analogues is that if hypoglycaemia occurs, it may occur earlier after an injection when compared with soluble human insulin.
 
 Since NovoRapid should be administered in immediate relation to a meal, the rapid onset of action should be considered in patients with concomitant diseases or treatment where a delayed absorption of food might be expected.
-
 Concomitant illness, especially infections and feverish conditions, usually increases the patient’s insulin requirements.
 Concomitant diseases in the kidney, liver or affecting the adrenal, pituitary or thyroid gland can require changes in the insulin dose.
 
 When patients are transferred between different types of insulin medicinal products, the early warning symptoms of hypoglycaemia may change or become less pronounced than those experienced with their previous insulin.
+
 Transfer from other insulin medicinal products
 
 Transferring a patient to another type or brand of insulin should be done under strict medical supervision.
@@ -53,26 +59,3 @@ Insulin antibodies
 
 Insulin administration may cause insulin antibodies to form.
 In rare cases, the presence of such insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency to hyper- or hypoglycaemia.
-
-[NovoRapid Penfill 100 units/ml solution for injection in cartridge]
-
-(all sentences already above)
-
-[NovoRapid FlexPen 100 units/ml solution for injection in pre-filled pen]
-
-(all sentences already above)
-
-[NovoRapid InnoLet 100 units/ml solution for injection in pre-filled pen]
-
-(all sentences already above)
-
-[NovoRapid FlexTouch 100 units/ml solution for injection in pre-filled pen]
-
-(all sentences already above)
-
-[NovoRapid PumpCart 100 units/ml solution for injection in cartridge]
-
-Misuse of NovoRapid PumpCart
-
-The NovoRapid PumpCart is for use with the Accu-Chek Insight insulin pump only.
-It must not be used with other devices not designed for the NovoRapid PumpCart (e.g., other insulin pumps or pen injection systems), as this may result in incorrect insulin dosing and subsequent hyper- or hypoglycaemia.
