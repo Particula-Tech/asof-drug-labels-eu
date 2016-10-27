@@ -144,7 +144,6 @@ Secondary efficacy endpoints were pCR rate in the breast (ypT0/is), DFS, PFS and
 Demographics were well balanced between arms (median age was 49-50 years, the majority were Caucasian [77%]) and all patients were female.
 Overall 6% of patients had inflammatory breast cancer, 25% had locally advanced breast cancer and 69% had operable breast cancer.
 Approximately half the patients in each treatment group had ER-positive and/or PgR-positive disease.
-
 Compared with published data for similar regimens without pertuzumab, high pCR rates were observed in all 3 treatment arms (see Table 3).
 A consistent pattern of results was observed regardless of pCR definition used.
 The pCR rates were lower in the subgroup of patients with hormone receptor-positive tumours (range 46.2% to 50.0%) than in patients with hormone receptor-negative tumours (range 65.0% to 83.8%).
