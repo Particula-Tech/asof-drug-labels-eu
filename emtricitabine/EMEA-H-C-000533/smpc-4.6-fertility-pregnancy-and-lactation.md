@@ -9,7 +9,6 @@ Breast-feeding
 Emtricitabine has been shown to be excreted in human milk.
 There is insufficient information on the effects of emtricitabine in newborns/infants.
 Therefore Emtriva should not be used during breast-feeding.
-
 As a general rule, it is recommended that HIV infected women do not breast-feed their infants under any circumstances in order to avoid transmission of HIV to the infant.
 
 Fertility

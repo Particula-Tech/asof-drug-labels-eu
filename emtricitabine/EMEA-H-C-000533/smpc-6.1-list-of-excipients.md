@@ -5,7 +5,6 @@ Crospovidone
 Magnesium stearate (E572)
 Microcrystalline cellulose (E460)
 Povidone (E1201)
-
 Capsule shell
 Gelatin
 Indigotine (E132)

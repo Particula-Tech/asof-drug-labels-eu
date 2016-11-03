@@ -13,4 +13,4 @@ With the exception of famciclovir and tenofovir disoproxil fumarate, the effect 
 Co-administration of emtricitabine with medicinal products that are eliminated by active tubular secretion may lead to an increase in serum concentrations of either emtricitabine or a co-administered medicinal product due to competition for this elimination pathway.
 
 There is no clinical experience as yet on the co-administration of cytidine analogues.
-Consequently, the use of emtricitabine in combination with lamivudine or zalcitabine for the treatment of HIV infection cannot be recommended at this time.
+Consequently, the use of emtricitabine in combination with lamivudine for the treatment of HIV infection cannot be recommended at this time.

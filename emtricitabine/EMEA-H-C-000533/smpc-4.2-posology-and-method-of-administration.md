@@ -17,10 +17,10 @@ Elderly: There are no safety and efficacy data available in patients over the ag
 However, no adjustment in the recommended daily dose for adults should be required unless there is evidence of renal insufficiency.
 
 Renal insufficiency: Emtricitabine is eliminated by renal excretion and exposure to emtricitabine was significantly increased in patients with renal insufficiency (see section 5.2).
-Dose or dose interval adjustment is required in all patients with creatinine clearance < 50 ml/min (see section 4.4).
+Dose or dose interval adjustment is required in all patients with creatinine clearance < 30 ml/min (see section 4.4).
 
 Table 1 below provides dose interval adjustment guidelines for the 200 mg hard capsules according to the degree of renal insufficiency.
-The safety and efficacy of these dose interval adjustment guidelines have not been clinically evaluated.
+The safety and efficacy of the dose interval adjustments to every 72 or 96 hours in patients with creatinine clearance < 30 ml/min have not been clinically evaluated.
 Therefore, clinical response to treatment and renal function should be closely monitored in these patients (see section 4.4).
 
 Patients with renal insufficiency can also be managed by administration of Emtriva 10 mg/ml oral solution to provide a reduced daily dose of emtricitabine.
@@ -28,10 +28,10 @@ Please refer to the Summary of Product Characteristics for Emtriva 10 mg/ml oral
 
 Table 1: Dose interval guidelines for 200 mg hard capsules adjusted according to creatinine clearance
 
-|  | Creatinine Clearance (CLcr) (ml/min) |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | ≥ 50 | 30-49 | 15-29 | < 15 (functionally anephric, requiring intermittent haemodialysis)* |
-| Recommended dose interval for 200 mg hard capsules | One 200 mg hard capsule every 24 hours | One 200 mg hard capsule every 48 hours | One 200 mg hard capsule every 72 hours | One 200 mg hard capsule every 96 hours |
+|  | Creatinine Clearance (CLcr) (ml/min) |  |  |
+| --- | --- | --- | --- |
+|  | ≥ 30 | 15-29 | < 15 (functionally anephric, requiring intermittent haemodialysis)* |
+| Recommended dose interval for 200 mg hard capsules | One 200 mg hard capsule every 24 hours | One 200 mg hard capsule every 72 hours | One 200 mg hard capsule every 96 hours |
 
 * Assumes a 3 h haemodialysis session three times a week commencing at least 12 h after administration of the last dose of emtricitabine.
 
@@ -46,8 +46,8 @@ Paediatric population: The recommended dose of Emtriva for children aged 4 month
 
 There are no data regarding the efficacy and only very limited data regarding the safety of emtricitabine in infants below 4 months of age.
 Therefore Emtriva is not recommended for use in those aged less than 4 months (for pharmacokinetic data in this age group, see section 5.2).
-No data are available on which to make a dose recommendation in paediatric patients with renal insufficiency.
 
+No data are available on which to make a dose recommendation in paediatric patients with renal insufficiency.
 Method of administration
 Emtriva 200 mg hard capsules should be taken once daily, orally with or without food.
 
@@ -73,13 +73,12 @@ Patients with renal insufficiency can also be managed by administration of Emtri
 
 Table 1: Daily doses of Emtriva 10 mg/ml oral solution adjusted according to creatinine clearance
 
-|  | Creatinine Clearance (CLcr) (ml/min) |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | ≥ 50 | 30-49 | 15-29 | < 15 (functionally anephric, requiring intermittent haemodialysis)* |
-| Recommended dose of Emtriva 10 mg/ml oral solution every 24 hours | 240 mg (24 ml) | 120 mg (12 ml) | 80 mg (8 ml) | 60 mg (6 ml) |
+|  | Creatinine Clearance (CLcr) (ml/min) |  |  |
+| --- | --- | --- | --- |
+|  | ≥ 30 | 15-29 | < 15 (functionally anephric, requiring intermittent haemodialysis)* |
+| Recommended dose of Emtriva 10 mg/ml oral solution every 24 hours | 240 mg (24 ml) | 80 mg (8 ml) | 60 mg (6 ml) |
 
 Paediatric population: The recommended dose of Emtriva 10 mg/ml oral solution is 6 mg/kg up to a maximum of 240 mg (24 ml) once daily.
-
 Children aged 4 months and over, who weigh at least 33 kg may either take one 200 mg hard capsule daily or may take emtricitabine as the oral solution up to a maximum of 240 mg once daily.
 
 Emtriva 10 mg/ml oral solution should be taken once daily, orally with or without food.

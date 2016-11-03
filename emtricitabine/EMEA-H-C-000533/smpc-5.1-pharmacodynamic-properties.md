@@ -4,6 +4,7 @@ Pharmacotherapeutic group: Nucleoside and nucleotide reverse transcriptase inhib
 
 Mechanism of action and pharmacodynamic effects
 Emtricitabine is a synthetic nucleoside analogue of cytidine with activity that is specific to human immunodeficiency virus (HIV-1 and HIV-2) and hepatitis B virus (HBV).
+
 Emtricitabine is phosphorylated by cellular enzymes to form emtricitabine 5'-triphosphate, which competitively inhibits HIV-1 reverse transcriptase, resulting in DNA chain termination.
 Emtricitabine is a weak inhibitor of mammalian DNA polymerase α, β and ε and mitochondrial DNA polymerase γ.
 
@@ -13,14 +14,13 @@ There was no evidence of toxicity to mitochondria in vitro or in vivo.
 Antiviral activity in vitro: The 50% inhibitory concentration (IC50) value for emtricitabine against laboratory and clinical isolates of HIV-1 was in the range of 0.0013 to 0.5 µmol/l.
 In combination studies of emtricitabine with protease inhibitors, nucleoside, nucleotide and non-nucleoside analogue inhibitors of HIV reverse transcriptase, additive to synergistic effects were observed.
 Most of these combinations have not been studied in humans.
-
 When tested for activity against laboratory strains of HBV, the 50% inhibitory concentration (IC50) value for emtricitabine was in the range of 0.01 to 0.04 µmol/l.
 
 Resistance: HIV-1 resistance to emtricitabine develops as the result of changes at codon 184 causing the methionine to be changed to a valine (an isoleucine intermediate has also been observed) of the HIV reverse transcriptase.
 This HIV-1 mutation was observed in vitro and in HIV-1 infected patients.
 
-Emtricitabine-resistant viruses were cross-resistant to lamivudine, but retained sensitivity to other nucleoside reverse transcriptase inhibitors (NRTIs) (zidovudine, stavudine, tenofovir, abacavir, didanosine and zalcitabine), all non-nucleoside reverse transcriptase inhibitors (NNRTIs) and all protease inhibitors (PIs).
-Viruses resistant to zidovudine, zalcitabine, didanosine and NNRTIs retained their sensitivity to emtricitabine (IC50=0.002 µmol/l to 0.08 µmol/l).
+Emtricitabine-resistant viruses were cross-resistant to lamivudine, but retained sensitivity to other nucleoside reverse transcriptase inhibitors (NRTIs) (zidovudine, stavudine, tenofovir, abacavir and didanosine), all non-nucleoside reverse transcriptase inhibitors (NNRTIs) and all protease inhibitors (PIs).
+Viruses resistant to zidovudine, didanosine and NNRTIs retained their sensitivity to emtricitabine (IC50=0.002 µmol/l to 0.08 µmol/l).
 
 Clinical efficacy and safety
 Emtricitabine in combination with other antiretroviral agents, including nucleoside analogues, non-nucleoside analogues and protease inhibitors, has been shown to be effective in the treatment of HIV infection in treatment-naïve patients and treatment-experienced patients with stable virological control.

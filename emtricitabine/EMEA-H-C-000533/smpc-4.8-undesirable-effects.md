@@ -13,6 +13,7 @@ In the adult studies, 1,039 treatment-naïve and 440 treatment-experienced patie
 The adverse reactions with suspected (at least possible) relationship to treatment in adults from clinical trial and post-marketing experience are listed in Table 2 below by body system organ class and frequency.
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10) or uncommon (≥ 1/1,000 to < 1/100).
+
 Table 2: Tabulated summary of adverse reactions associated with emtricitabine based on clinical study and post-marketing experience
 
 Frequency Emtricitabine
@@ -28,6 +29,7 @@ Common: insomnia, abnormal dreams
 Nervous system disorders:
 Very common: headache
 Common: dizziness
+Frequency Emtricitabine
 Gastrointestinal disorders:
 Very common: diarrhoea, nausea
 Common: elevated amylase including elevated pancreatic amylase, elevated serum lipase,
@@ -60,6 +62,7 @@ Autoimmune disorders (such as Graves’ disease) have also been reported; howeve
 
 Osteonecrosis: Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to CART.
 The frequency of this is unknown (see section 4.4).
+
 Paediatric population
 Assessment of adverse reactions in paediatric patients from clinical study data is based on experience in three paediatric studies (n = 169) where treatment-naïve (n = 123) and treatment-experienced
 (n = 46) paediatric HIV infected patients aged 4 months to 18 years were treated with emtricitabine in combination with other antiretroviral agents.
@@ -69,9 +72,8 @@ In addition to the adverse reactions reported in adults (see section 4.8, Tabula
 Other special population(s)
 Elderly: Emtriva has not been studied in patients over the age of 65.
 Elderly patients are more likely to have decreased renal function, therefore caution should be exercised when treating elderly patients with Emtriva (see section 4.2).
-
 Patients with renal impairment: Emtricitabine is eliminated by renal excretion and exposure to emtricitabine was significantly increased in patients with renal insufficiency.
-Dose or dose interval adjustment is required in all patients with creatinine clearance < 50 ml/min (see sections 4.2, 4.4 and 5.2).
+Dose or dose interval adjustment is required in all patients with creatinine clearance < 30 ml/min (see sections 4.2, 4.4 and 5.2).
 
 HIV/HBV co-infected patients: The adverse reaction profile in patients co-infected with HBV is similar to that observed in patients infected with HIV without co-infection with HBV.
 However, as would be expected in this patient population, elevations in AST and ALT occurred more frequently than in the general HIV infected population.

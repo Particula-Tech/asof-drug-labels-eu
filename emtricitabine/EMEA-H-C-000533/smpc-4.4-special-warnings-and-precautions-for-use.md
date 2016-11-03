@@ -17,12 +17,13 @@ Precautions to prevent transmission should be taken in accordance with national 
 
 Renal function
 Emtricitabine is principally eliminated by the kidney via glomerular filtration and active tubular secretion.
-Emtricitabine exposure may be markedly increased in patients with moderate or severe renal insufficiency (creatinine clearance < 50 ml/min) receiving daily doses of 200 mg emtricitabine as hard capsules or 240 mg as the oral solution.
-Consequently, either a dose interval adjustment (using Emtriva 200 mg hard capsules) or a reduction in the daily dose of emtricitabine (using Emtriva 10 mg/ml oral solution) is required in all patients with creatinine clearance < 50 ml/min.
+Emtricitabine exposure may be markedly increased in patients with severe renal insufficiency (creatinine clearance < 30 ml/min) receiving daily doses of 200 mg emtricitabine as hard capsules or 240 mg as the oral solution.
+Consequently, either a dose interval adjustment (using Emtriva 200 mg hard capsules) or a reduction in the daily dose of emtricitabine (using Emtriva 10 mg/ml oral solution) is required in all patients with creatinine clearance < 30 ml/min.
 The safety and efficacy of the dose interval adjustment guidelines provided in section 4.2 are based on single dose pharmacokinetic data and modelling and have not been clinically evaluated.
 Therefore, clinical response to treatment and renal function should be closely monitored in patients treated with emtricitabine at prolonged dosing intervals (see sections 4.2 and 5.2).
 
 Caution should be exercised when emtricitabine is co-administered with medicinal products that are eliminated by active tubular secretion as such co-administration may lead to an increase in serum concentrations of either emtricitabine or a co-administered medicinal product, due to competition for this elimination pathway (see section 4.5).
+
 Weight and metabolic parameters
 An increase in weight and in levels of blood lipids and glucose may occur during antiretroviral therapy.
 Such changes may in part be linked to disease control and life style.
@@ -58,12 +59,12 @@ Late onset neurological disorders have been reported rarely (hypertonia, convuls
 Whether such neurological disorders are transient or permanent is currently unknown.
 These findings should be considered for any child exposed in utero to nucleos(t)ide analogues, who present with severe clinical findings of unknown etiology, particularly neurologic findings.
 These findings do not affect current national recommendations to use antiretroviral therapy in pregnant women to prevent vertical transmission of HIV.
+
 Immune Reactivation Syndrome
 In HIV infected patients with severe immune deficiency at the time of institution of CART, an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
 Relevant examples include cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis jirovecii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
-
 Autoimmune disorders (such as Graves’ disease) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
 
 Osteonecrosis
