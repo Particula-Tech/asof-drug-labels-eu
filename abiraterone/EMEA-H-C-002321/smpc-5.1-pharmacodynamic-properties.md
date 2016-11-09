@@ -32,7 +32,6 @@ Therefore, in both studies it was recommended that patients be maintained on the
 In both studies spironolactone use was not allowed as spironolactone binds to the androgen receptor and may increase PSA levels.
 
 Study 302 (chemotherapy naïve patients)
-
 This study enrolled chemotherapy naïve patients who were asymptomatic or mildly symptomatic and for whom chemotherapy was not yet clinically indicated.
 A score of 0-1 on Brief Pain Inventory-Short Form (BPI-SF) worst pain in last 24 hours was considered asymptomatic, and a score of 2-3 was considered mildly symptomatic.
 
@@ -43,10 +42,9 @@ Fifty percent of patients had only bone metastases, an additional 31% of patient
 Patients with visceral metastases were excluded.
 Co-primary efficacy endpoints were overall survival and radiographic progression-free survival (rPFS).
 In addition to the co-primary endpoint measures, benefit was also assessed using time to opiate use for cancer pain, time to initiation of cytotoxic chemotherapy, time to deterioration in ECOG performance score by
-≥ 1 point and time to PSA progression based on Prostate Cancer Working Group-2 (PCWG2) criteria.
+≥1 point and time to PSA progression based on Prostate Cancer Working Group-2 (PCWG2) criteria.
 Study treatments were discontinued at the time of unequivocal clinical progression.
 Treatments could also be discontinued at the time of confirmed radiographic progression at the discretion of the investigator.
-
 Radiographic progression free survival (rPFS) was assessed with the use of sequential imaging studies as defined by PCWG2 criteria (for bone lesions) and modified Response Evaluation Criteria In Solid Tumors (RECIST) criteria (for soft tissue lesions).
 Analysis of rPFS utilised centrally-reviewed radiographic assessment of progression.
 
@@ -75,9 +73,9 @@ NE = Not estimated
 Figure 1: Kaplan Meier curves of radiographic progression-free survival in patients treated with either ZYTIGA or placebo in combination with prednisone or prednisolone plus LHRH analogues or prior orchiectomy
 
 AA = ZYTIGA
+
 However, subject data continued to be collected through the date of the second interim analysis of Overall survival (OS).
 The investigator radiographic review of rPFS performed as a follow up sensitivity analysis is presented in Table 3 and Figure 2.
-
 Six hundred and seven (607) subjects had radiographic progression or died: 271 (50%) in the abiraterone acetate group and 336 (62%) in the placebo group.
 Treatment with abiraterone acetate decreased the risk of radiographic progression or death by 47% compared with placebo
 (HR = 0.530; 95% CI: [0.451; 0.623], p < 0.0001).
@@ -96,14 +94,17 @@ Progression or death 271 (50%) 336 (62%)
 Median rPFS in months 16.5 8.3
 (95% CI) (13.80; 16.79) (8.05; 9.43)
 p-value* < 0.0001
-Hazard ratio** (95% CI) 0.530 (0.451; 0.623)
 
+Hazard ratio**
+0.530 (0.451; 0.623)
+(95% CI)
 * p-value is derived from a log-rank test stratified by baseline ECOG score (0 or 1)
 ** Hazard ratio < 1 favours ZYTIGA
 
 Figure 2: Kaplan Meier curves of radiographic progression-free survival in patients treated with either ZYTIGA or placebo in combination with prednisone or prednisolone plus LHRH analogues or prior orchiectomy (At second interim analysis of OS-Investigator Review)
 
 AA = ZYTIGA
+
 A planned interim analysis (IA) for OS was conducted after 333 deaths were observed.
 The study was unblinded based on the magnitude of clinical benefit observed and patients in the placebo group were offered treatment with ZYTIGA.
 Overall survival was longer for ZYTIGA than placebo with a 25% reduction in risk of death (HR = 0.752; 95% CI: [0.606; 0.934], p = 0.0097), but OS was not mature and interim results did not meet the pre-specified stopping boundary for statistical significance (see Table 4).
@@ -131,7 +132,13 @@ Hazard ratio** (95% CI) 0.752 (0.606; 0.934)
 Final survival analysis
 
 Deaths 354 (65%) 387 (71%)
-Median overall survival in months (95% CI) 34.7 (32.7; 36.8) 30.3 (28.7; 33.3)
+
+Median overall survival in
+
+34.7 (32.7; 36.8) 30.3 (28.7; 33.3)
+
+months (95% CI)
+
 p-value* 0.0033
 Hazard ratio** (95% CI) 0.806 (0.697; 0.931)
 
@@ -154,10 +161,10 @@ Time to opiate use for cancer pain: The median time to opiate use for prostate c
 
 Time to initiation of cytotoxic chemotherapy: The median time to initiation of cytotoxic chemotherapy was 25.2 months for patients receiving ZYTIGA and 16.8 months for patients receiving placebo (HR = 0.580; 95% CI: [0.487; 0.691], p < 0.0001).
 
-Time to deterioration in ECOG performance score by ≥ 1 point: The median time to deterioration in ECOG performance score by ≥ 1 point was 12.3 months for patients receiving ZYTIGA and 10.9 months for patients receiving placebo (HR = 0.821; 95% CI: [0.714; 0.943], p = 0.0053).
+Time to deterioration in ECOG performance score by ≥1 point: The median time to deterioration in ECOG performance score by ≥1 point was 12.3 months for patients receiving ZYTIGA and 10.9 months for patients receiving placebo (HR = 0.821; 95% CI: [0.714; 0.943], p = 0.0053).
 
 The following study endpoints demonstrated a statistically significant advantage in favour of ZYTIGA treatment:
-Objective response: Objective response was defined as the proportion of subjects with measurable disease achieving a complete or partial response according to RECIST criteria (baseline lymph node size was required to be ≥ 2 cm to be considered a target lesion).
+Objective response: Objective response was defined as the proportion of subjects with measurable disease achieving a complete or partial response according to RECIST criteria (baseline lymph node size was required to be ≥2 cm to be considered a target lesion).
 The proportion of subjects with measurable disease at baseline who had an objective response was 36% in the ZYTIGA group and 16% in the placebo group (p < 0.0001).
 
 Pain: Treatment with ZYTIGA significantly reduced the risk of average pain intensity progression by 18% compared with placebo (p = 0.0490).
@@ -167,7 +174,6 @@ Time to degradation in the FACT-P (Total Score): Treatment with ZYTIGA decreased
 The median time to degradation in FACT-P (Total Score) was 12.7 months in the ZYTIGA group and 8.3 months in the placebo group.
 
 Study 301 (patients who had received prior chemotherapy)
-
 Study 301 enrolled patients who had received prior docetaxel.
 Patients were not required to show disease progression on docetaxel, as toxicity from this chemotherapy may have led to discontinuation.
 Patients were maintained on study treatments until there was PSA progression (confirmed 25% increase over the patient’s baseline/nadir) together with protocol-defined radiographic progression and symptomatic or clinical progression.
@@ -200,13 +206,18 @@ Hazard ratio (95% CI)b 0.646 (0.543; 0.768)
 Updated Survival Analysis
 
 Deaths (%) 501 (63%) 274 (69%)
-Median survival (months) (95% CI) 15.8 (14.8; 17.0) 11.2 (10.4; 13.1)
+
+Median survival (months)
+
+15.8 (14.8; 17.0) 11.2 (10.4; 13.1)
+
+(95% CI)
+
 Hazard ratio (95% CI)b 0.740 (0.638; 0.859)
 
 a p-value is derived from a log-rank test stratified by ECOG performance status score (0-1 vs. 2), pain score (absent vs. present), number of prior chemotherapy regimens (1 vs. 2), and type of disease progression (PSA only vs. radiographic).
 b Hazard ratio is derived from a stratified proportional hazards model.
 Hazard ratio < 1 favours ZYTIGA
-
 At all evaluation time points after the initial few months of treatment, a higher proportion of patients treated with ZYTIGA remained alive, compared with the proportion of patients treated with placebo (see Figure 4).
 
 Figure 4: Kaplan Meier survival curves of patients treated with either ZYTIGA or placebo in combination with prednisone or prednisolone plus LHRH analogues or prior orchiectomy
@@ -220,7 +231,7 @@ AA = ZYTIGA; BPI = Brief Pain Inventory; C.I. = confidence interval; ECOG = East
 
 In addition to the observed improvement in overall survival, all secondary study endpoints favoured ZYTIGA and were statistically significant after adjusting for multiple testing as follows:
 
-Patients receiving ZYTIGA demonstrated a significantly higher total PSA response rate (defined as a ≥ 50% reduction from baseline), compared with patients receiving placebo, 38% vs. 10%, p < 0.0001.
+Patients receiving ZYTIGA demonstrated a significantly higher total PSA response rate (defined as a ≥50% reduction from baseline), compared with patients receiving placebo, 38% vs. 10%, p < 0.0001.
 
 The median time to PSA progression was 10.2 months for patients treated with ZYTIGA and 6.6 months for patients treated with placebo (HR = 0.580; 95% CI: [0.462; 0.728], p < 0.0001).
 
@@ -229,10 +240,10 @@ The median radiographic progression-free survival was 5.6 months for patients tr
 Pain
 The proportion of patients with pain palliation was statistically significantly higher in the ZYTIGA group than in the placebo group (44% vs. 27%, p = 0.0002).
 A responder for pain palliation was defined as a patient who experienced at least a 30% reduction from baseline in the BPI-SF worst pain intensity score over the last 24 hours without any increase in analgesic usage score observed at two consecutive evaluations four weeks apart.
-Only patients with a baseline pain score of ≥ 4 and at least one post-baseline pain score were analysed (N = 512) for pain palliation.
+Only patients with a baseline pain score of ≥4 and at least one post-baseline pain score were analysed (N = 512) for pain palliation.
 
 A lower proportion of patients treated with ZYTIGA had pain progression compared to patients taking placebo at 6 (22% vs. 28%), 12 (30% vs. 38%) and 18 months (35% vs. 46%).
-Pain progression was defined as an increase from baseline of ≥ 30% in the BPI-SF worst pain intensity score over the previous 24 hours without a decrease in analgesic usage score observed at two consecutive visits, or an increase of ≥ 30% in analgesic usage score observed at two consecutive visits.
+Pain progression was defined as an increase from baseline of ≥30% in the BPI-SF worst pain intensity score over the previous 24 hours without a decrease in analgesic usage score observed at two consecutive visits, or an increase of ≥30% in analgesic usage score observed at two consecutive visits.
 The time to pain progression at the 25th percentile was 7.4 months in the ZYTIGA group, versus 4.7 months in the placebo group.
 Skeletal-related events
 A lower proportion of patients in the ZYTIGA group had skeletal-related events compared with the placebo group at 6 months (18% vs. 28%), 12 months (30% vs. 40%), and 18 months (35% vs. 40%).

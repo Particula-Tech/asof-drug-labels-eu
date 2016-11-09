@@ -3,3 +3,4 @@
 Based on its mechanism of action, this medicinal product may harm a developing foetus; therefore, women who are pregnant or may be pregnant should not handle it without protection, e.g., gloves.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+This medicinal product may pose a risk to the aquatic environment (see section 5.3).

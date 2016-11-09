@@ -14,14 +14,13 @@ Tabulated list of adverse reactions
 In studies of patients with metastatic advanced prostate cancer who were using an LHRH analogue, or were previously treated with orchiectomy, ZYTIGA was administered at a dose of 1,000 mg daily in combination with low dose prednisone or prednisolone (10 mg daily).
 
 Adverse reactions observed during clinical studies and post-marketing experience are listed below by frequency category.
-Frequency categories are defined as follows: very common (≥ 1/10); common
-(≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare
+Frequency categories are defined as follows: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to < 1/1,000); very rare
 (< 1/10,000) and not known (frequency cannot be estimated from the available data).
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 Table 1: Adverse reactions identified in clinical studies and post-marketing
 
-| System Organ Class | Frequency |
+| System Organ Class | Adverse reaction and frequency |
 | --- | --- |
 | Infections and infestations | very common: urinary tract infection common: sepsis |
 | Endocrine disorders | uncommon: adrenal insufficiency |
@@ -49,6 +48,7 @@ Cardiovascular reactions
 Both phase 3 studiesexcluded patients with uncontrolled hypertension, clinically significant heart disease as evidenced by myocardial infarction, or arterial thrombotic events in the past 6 months, severe or unstable angina, or NYHA Class III or IV heart failure (study 301) or Class II to IV heart failure (study 302) or cardiac ejection fraction measurement of < 50%.
 All patients enrolled (both active and placebo-treated patients) were concomitantly treated with androgen deprivation therapy, predominantly with the use of LHRH analogues, which has been associated with diabetes, myocardial infarction, cerebrovascular accident and sudden cardiac death.
 The incidence of cardiovascular adverse reactions in the phase 3 studies in patients taking abiraterone acetate versus patients taking placebo were as follows: hypertension 14.5% vs. 10.5%, atrial fibrillation 3.4% vs. 3.4%, tachycardia 2.8% vs. 1.7%, angina pectoris 1.9% vs. 0.9%, cardiac failure 1.9% vs. 0.6%, and arrhythmia 1.1% vs. 0.4%.
+
 Hepatotoxicity
 Hepatotoxicity with elevated ALT, AST and total bilirubin has been reported in patients treated with abiraterone acetate.
 Across all clinical studies, liver function test elevations (ALT or AST increases of > 5 x ULN or bilirubin increases > 1.5 x ULN) were reported in approximately 4% of patients who received abiraterone acetate, typically during the first 3 months after starting treatment.
@@ -62,8 +62,8 @@ Aminotransferase elevations resolved in all but 3 patients (2 with new multiple 
 Treatment discontinuations due to ALT and AST increases were reported in 1.7% and 1.3% of patients treated with abiraterone acetate and 0.2% and 0% of patients treated with placebo, respectively; no deaths were reported due to hepatotoxicity event.
 
 In clinical trials, the risk for hepatotoxicity was mitigated by exclusion of patients with baseline hepatitis or significant abnormalities of liver function tests.
-In the 301 trial, patients with baseline ALT and AST ≥ 2.5 x ULN in the absence of liver metastases and > 5 x ULN in the presence of liver metastases were excluded.
-In the 302 trial, patients with liver metastases were not eligible and patients with baseline ALT and AST ≥ 2.5 x ULN were excluded.
+In the 301 trial, patients with baseline ALT and AST ≥2.5 x ULN in the absence of liver metastases and > 5 x ULN in the presence of liver metastases were excluded.
+In the 302 trial, patients with liver metastases were not eligible and patients with baseline ALT and AST ≥2.5 x ULN were excluded.
 Abnormal liver function tests developing in patients participating in clinical trials were vigorously managed by requiring treatment interruption and permitting re-treatment only after return of liver function tests to the patient’s baseline (see section 4.2).
 Patients with elevations of ALT or AST > 20 x ULN were not re-treated.
 The safety of re-treatment in such patients is unknown.

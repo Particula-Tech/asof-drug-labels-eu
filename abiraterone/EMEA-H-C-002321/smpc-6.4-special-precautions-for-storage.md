@@ -1,3 +1,7 @@
 # 6.4 Special precautions for storage
 
-Store below 30°C.
+This medicinal product does not require special storage conditions.
+
+[ZYTIGA 500 mg film-coated tablets]
+
+This medicinal product does not require any special storage conditions.

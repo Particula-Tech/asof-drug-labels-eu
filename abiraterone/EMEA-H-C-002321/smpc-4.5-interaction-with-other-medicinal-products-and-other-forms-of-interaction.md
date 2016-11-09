@@ -5,7 +5,7 @@ Administration with food significantly increases the absorption of abiraterone a
 The efficacy and safety when given with food have not been established therefore this medicinal product must not be taken with food (see sections 4.2 and 5.2).
 Interactions with other medicinal products
 Potential for other medicinal products to affect abiraterone exposures
-In a clinical pharmacokinetic interaction study of healthy subjects pretreated with a strong CYP3A4 inducer rifampicin, 600 mg daily for 6 days followed by a single dose of abiraterone acetate 1,000 mg, the mean plasma AUC∞ of abiraterone was decreased by 55%.
+In a clinical pharmacokinetic interaction study of healthy subjects pretreated with a strong CYP3A4 inducer rifampicin, 600 mg daily for 6 days followed by a single dose of abiraterone acetate 1,000 mg, the mean plasma AUC∞of abiraterone was decreased by 55%.
 
 Strong inducers of CYP3A4 (e.g., phenytoin, carbamazepine, rifampicin, rifabutin, rifapentine, phenobarbital, St John's wort [Hypericum perforatum]) during treatment are to be avoided, unless there is no therapeutic alternative.
 
@@ -27,7 +27,7 @@ In vitro, the major metabolites abiraterone sulphate and N-oxide abiraterone sul
 There are no clinical data available to confirm transporter based interaction.
 
 Use with products known to prolong QT interval
-Since androgen deprivation treatment may prolong the QT interval, caution is advised when administering ZYTIGA with medicinal products known to prolong the QT interval or medicinal products able to induce Torsade de pointes such as class IA (e.g. quinidine, disopyramide) or class III (e.g. amiodarone, sotalol, dofetilide, ibutilide) antiarrhythmic medicinal products, methadone, moxifloxacin, antipsychotics, etc.
+Since androgen deprivation treatment may prolong the QT interval, caution is advised when administering ZYTIGA with medicinal products known to prolong the QT interval or medicinal products able to induce torsades de pointes such as class IA (e.g. quinidine, disopyramide) or class III (e.g. amiodarone, sotalol, dofetilide, ibutilide) antiarrhythmic medicinal products, methadone, moxifloxacin, antipsychotics, etc.
 
 Use with Spironolactone
 Spironolactone binds to the androgen receptor and may increase prostate specific antigen (PSA) levels.

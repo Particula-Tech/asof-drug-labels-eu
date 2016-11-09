@@ -18,3 +18,4 @@ Abiraterone acetate was not carcinogenic in a 6-month study in the transgenic (T
 In a 24-month carcinogenicity study in the rat, abiraterone acetate increased the incidence of interstitial cell neoplasms in the testes.
 This finding is considered related to the pharmacological action of abiraterone and rat specific.
 Abiraterone acetate was not carcinogenic in female rats.
+The active substance, abiraterone, shows an environmental risk for the aquatic environment, especially to fish.

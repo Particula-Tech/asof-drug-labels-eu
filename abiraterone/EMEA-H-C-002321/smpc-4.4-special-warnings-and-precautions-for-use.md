@@ -29,8 +29,8 @@ Patients with active or symptomatic viral hepatitis were excluded from clinical 
 
 There are no data on the clinical safety and efficacy of multiple doses of abiraterone acetate when administered to patients with moderate or severe hepatic impairment (Child-Pugh Class B or C). The use of ZYTIGA should be cautiously assessed in patients with moderate hepatic impairment, in whom the benefit clearly should outweigh the possible risk (see sections 4.2 and 5.2).
 ZYTIGA should not be used in patients with severe hepatic impairment (see sections 4.2, 4.3 and 5.2).
-There have been rare post-marketing reports of acute liver failure and hepatitis fulminant, some with fatal outcome (see section 4.8).
 
+There have been rare post-marketing reports of acute liver failure and hepatitis fulminant, some with fatal outcome (see section 4.8).
 Corticosteroid withdrawal and coverage of stress situations
 Caution is advised and monitoring for adrenocortical insufficiency should occur if patients are withdrawn from prednisone or prednisolone.
 If ZYTIGA is continued after corticosteroids are withdrawn, patients should be monitored for symptoms of mineralocorticoid excess (see information above).
@@ -67,3 +67,7 @@ Caution is recommended in patients concomitantly treated with medicinal products
 
 Interactions with other medicinal products
 Strong inducers of CYP3A4 during treatment are to be avoided unless there is no therapeutic alternative, due to risk of decreased exposure to abiraterone (see section 4.5).
+
+[ZYTIGA 500 mg film-coated tablets]
+
+This medicinal product also contains more than 1.18 mmol (or 27 mg) sodium per dose of two tablets.
