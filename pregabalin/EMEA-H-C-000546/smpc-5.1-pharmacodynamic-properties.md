@@ -6,6 +6,7 @@ The active substance, pregabalin, is a gamma-aminobutyric acid analogue [(S)-3-(
 
 Mechanism of action
 Pregabalin binds to an auxiliary subunit (α2-δprotein) of voltage-gated calcium channels in the central nervous system.
+
 Clinical efficacy and safety
 
 Neuropathic pain
@@ -15,7 +16,7 @@ Efficacy has not been studied in other models of neuropathic pain.
 Pregabalin has been studied in 10 controlled clinical trials of up to 13 weeks with twice a day dosing (BID) and up to 8 weeks with three times a day (TID) dosing.
 Overall, the safety and efficacy profiles for BID and TID dosing regimens were similar.
 
-In clinical trials up to 12 weeks for both peripheral and central neuropathic pain, a reduction in pain was seen by week 1 and was maintained throughout the treatment period.
+In clinical trials up to 12 weeks for both peripheral and central neuropathic pain, a reduction in pain was seen by Week 1 and was maintained throughout the treatment period.
 
 In controlled clinical trials in peripheral neuropathic pain 35% of the pregabalin treated patients and 18% of the patients on placebo had a 50% improvement in pain score.
 For patients not experiencing somnolence, such an improvement was observed in 33% of patients treated with pregabalin and 18% of patients on placebo.
@@ -41,7 +42,7 @@ Pregabalin did not achieve non-inferiority to lamotrigine based on the 6-month s
 Pregabalin and lamotrigine were similarly safe and well tolerated.
 
 Generalised Anxiety Disorder
-Pregabalin has been studied in 6 controlled trials of 4-6 week duration, an elderly study of 8 week duration and a long-term relapse prevention study with a double blind relapse prevention phase of 6 months duration.
+Pregabalin has been studied in 6 controlled trials of 4-6 week duration, an elderly study of 8 week duration and a long-term relapse prevention study with a double-blind relapse prevention phase of 6 months duration.
 
 Relief of the symptoms of GAD as reflected by the Hamilton Anxiety Rating Scale (HAM-A) was observed by Week 1.
 
@@ -53,34 +54,6 @@ In these patients, visual acuity was reduced in 6.5% of patients treated with pr
 Visual field changes were detected in 12.4% of pregabalin-treated, and 11.7% of placebo-treated patients.
 Funduscopic changes were observed in 1.7% of pregabalin-treated and 2.1% of placebo-treated patients.
 
-[Lyrica 50 mg hard capsules]
-
-(all sentences already above)
-
-[Lyrica 75 mg hard capsules]
-
-(all sentences already above)
-
-[Lyrica 100 mg hard capsules]
-
-(all sentences already above)
-
-[Lyrica 150 mg hard capsules]
-
-Pregabalin has been studied in 3 controlled clinical trials of 12 week duration with BID or TID dosing.
-
-[Lyrica 200 mg hard capsules]
-
-(all sentences already above)
-
-[Lyrica 225 mg hard capsules]
-
-(all sentences already above)
-
-[Lyrica 300 mg hard capsules]
-
-(all sentences already above)
-
 [Lyrica 20 mg/ml oral solution]
 
-(all sentences already above)
+Pregabalin has been studied in 3 controlled clinical trials of 12 week duration with BID or TID dosing.

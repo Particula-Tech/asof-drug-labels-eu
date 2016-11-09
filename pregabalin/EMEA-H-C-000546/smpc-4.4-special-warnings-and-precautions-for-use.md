@@ -7,11 +7,10 @@ Hypersensitivity reactions
 There have been reports in the postmarketing experience of hypersensitivity reactions, including cases of angioedema.
 Pregabalin should be discontinued immediately if symptoms of angioedema, such as facial, perioral, or upper airway swelling occur.
 
-Dizziness, somnolence, loss of consciousness, confusion, and mental impairment
+Dizziness, somnolence, loss of consciousness, confusion and mental impairment
 Pregabalin treatment has been associated with dizziness and somnolence, which could increase the occurrence of accidental injury (fall) in the elderly population.
 There have also been postmarketing reports of loss of consciousness, confusion and mental impairment.
 Therefore, patients should be advised to exercise caution until they are familiar with the potential effects of the medicinal product.
-
 Vision-related effects
 In controlled trials, a higher proportion of patients treated with pregabalin reported blurred vision than did patients treated with placebo which resolved in a majority of cases with continued dosing.
 In the clinical studies where ophthalmologic testing was conducted, the incidence of visual acuity reduction and visual field changes was greater in pregabalin-treated patients than in placebo-treated patients; the incidence of fundoscopic changes was greater in placebo-treated patients (see section 5.1).
@@ -29,6 +28,7 @@ Withdrawal symptoms
 After discontinuation of short-term and long-term treatment with pregabalin, withdrawal symptoms have been observed in some patients.
 The following events have been mentioned: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, nervousness, depression, pain, convulsion, hyperhidrosis and dizziness, suggestive of physical dependence.
 The patient should be informed about this at the start of the treatment.
+
 Convulsions, including status epilepticus and grand mal convulsions, may occur during pregabalin use or shortly after discontinuing pregabalin.
 
 Concerning discontinuation of long-term treatment of pregabalin, data suggest that the incidence and severity of withdrawal symptoms may be dose-related.
@@ -51,7 +51,6 @@ The mechanism of this risk is not known and the available data do not exclude th
 
 Therefore patients should be monitored for signs of suicidal ideation and behaviours and appropriate treatment should be considered.
 Patients (and caregivers of patients) should be advised to seek medical advice should signs of suicidal ideation or behaviour emerge.
-
 Reduced lower gastrointestinal tract function
 There are postmarketing reports of events related to reduced lower gastrointestinal tract function (e.g. intestinal obstruction, paralytic ileus, constipation) when pregabalin was co-administered with medications that have the potential to produce constipation, such as opioid analgesics.
 When pregabalin and opioids will be used in combination, measures to prevent constipation may be considered (especially in female patients and elderly).
@@ -66,35 +65,6 @@ Cases of encephalopathy have been reported, mostly in patients with underlying c
 Lactose intolerance
 Lyrica contains lactose monohydrate.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
-
-[Lyrica 50 mg hard capsules]
-
-Dizziness, somnolence, loss of consciousness, confusion and mental impairment
-Therefore, patients should be advised to exercise caution until they are familiar with the potential effects of themedicinal products.
-
-[Lyrica 75 mg hard capsules]
-
-(all sentences already above)
-
-[Lyrica 100 mg hard capsules]
-
-(all sentences already above)
-
-[Lyrica 150 mg hard capsules]
-
-(all sentences already above)
-
-[Lyrica 200 mg hard capsules]
-
-(all sentences already above)
-
-[Lyrica 225 mg hard capsules]
-
-(all sentences already above)
-
-[Lyrica 300 mg hard capsules]
-
-(all sentences already above)
 
 [Lyrica 20 mg/ml oral solution]
 

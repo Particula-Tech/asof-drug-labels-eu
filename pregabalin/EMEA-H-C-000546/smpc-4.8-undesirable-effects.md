@@ -1,6 +1,6 @@
 # 4.8 Undesirable effects
 
-The pregabalin clinical programme involved over 8900 patients exposed to pregabalin, of whom over 5600 were in double-blind placebo controlled trials.
+The pregabalin clinical programme involved over 8,900 patients exposed to pregabalin, of whom over 5,600 were in double-blind placebo controlled trials.
 The most commonly reported adverse reactions were dizziness and somnolence.
 Adverse reactions were usually mild to moderate in intensity.
 In all controlled studies, the discontinuation rate due to adverse reactions was 12% for patients receiving pregabalin and 5% for patients receiving placebo.
@@ -15,7 +15,6 @@ The adverse reactions listed may also be associated with the underlying disease 
 In the treatment of central neuropathic pain due to spinal cord injury the incidence of adverse reactions in general, CNS adverse reactions and especially somnolence was increased (see section 4.4).
 
 Additional reactions reported from postmarketing experience are included in italics in the list below.
-
 Table 2.
 Pregabalin Adverse Drug Reactions
 
@@ -50,7 +49,6 @@ Uncommon Hallucination, panic attack, restlessness, agitation, depression,
 depressed mood, elevated mood, aggression, mood swings, depersonalisation, word finding difficulty, abnormal dreams, libido increased, anorgasmia, apathy
 
 Rare Disinhibition
-System Organ Class Adverse drug reactions
 
 Nervous system disorders
 
@@ -100,6 +98,7 @@ Uncommon Dyspnoea, epistaxis, cough, nasal congestion, rhinitis, snoring,
 nasal dryness
 
 Rare Pulmonary oedema, throat tightness
+System Organ Class Adverse drug reactions
 
 Gastrointestinal disorders
 
@@ -140,7 +139,6 @@ Uncommon Sexual dysfunction, ejaculation delayed, dysmenorrhoea, breast
 pain
 
 Rare Amenorrhoea, breast discharge, breast enlargement, gynaecomastia
-System Organ Class Adverse drug reactions
 
 General disorders and administration site conditions
 
@@ -173,35 +171,3 @@ Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-[Lyrica 50 mg hard capsules]
-
-(all sentences already above)
-
-[Lyrica 75 mg hard capsules]
-
-The following reactions have been mentioned: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, pain, hyperhidrosis, and dizziness, suggestive of physical dependence.
-
-[Lyrica 100 mg hard capsules]
-
-(all sentences already above)
-
-[Lyrica 150 mg hard capsules]
-
-In the treatment of central neuropathic pain due to spinal cord injury the incidence of adverse reactions in general, CNS adverse raections and especially somnolence was increased (see section 4.4).
-
-[Lyrica 200 mg hard capsules]
-
-(all sentences already above)
-
-[Lyrica 225 mg hard capsules]
-
-(all sentences already above)
-
-[Lyrica 300 mg hard capsules]
-
-The following reactions have been: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, pain, hyperhidrosis and dizziness, suggestive of physical dependence.
-
-[Lyrica 20 mg/ml oral solution]
-
-(all sentences already above)

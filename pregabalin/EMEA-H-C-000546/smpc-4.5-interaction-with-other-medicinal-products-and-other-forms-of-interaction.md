@@ -1,6 +1,7 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 Since pregabalin is predominantly excreted unchanged in the urine, undergoes negligible metabolism in humans (< 2% of a dose recovered in urine as metabolites), does not inhibit drug metabolism in vitro, and is not bound to plasma proteins, it is unlikely to produce, or be subject to, pharmacokinetic interactions.
+
 In vivo studies and population pharmacokinetic analysis
 Accordingly, in in vivo studies no clinically relevant pharmacokinetic interactions were observed between pregabalin and phenytoin, carbamazepine, valproic acid, lamotrigine, gabapentin, lorazepam, oxycodone or ethanol.
 Population pharmacokinetic analysis indicated that oral antidiabetics, diuretics, insulin, phenobarbital, tiagabine and topiramate had no clinically significant effect on pregabalin clearance.

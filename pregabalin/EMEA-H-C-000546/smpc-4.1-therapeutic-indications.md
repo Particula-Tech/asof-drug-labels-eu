@@ -6,5 +6,5 @@ Lyrica is indicated for the treatment of peripheral and central neuropathic pain
 Epilepsy
 Lyrica is indicated as adjunctive therapy in adults with partial seizures with or without secondary generalisation.
 
-Generalised Anxiety Disorder
+Generalised anxiety disorder
 Lyrica is indicated for the treatment of Generalised Anxiety Disorder (GAD) in adults.

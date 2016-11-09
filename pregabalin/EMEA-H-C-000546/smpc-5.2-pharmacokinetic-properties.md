@@ -14,7 +14,6 @@ In preclinical studies, pregabalin has been shown to cross the blood brain barri
 Pregabalin has been shown to cross the placenta in rats and is present in the milk of lactating rats.
 In humans, the apparent volume of distribution of pregabalin following oral administration is approximately 0.56 l/kg.
 Pregabalin is not bound to plasma proteins.
-
 Biotransformation
 Pregabalin undergoes negligible metabolism in humans.
 Following a dose of radiolabelled pregabalin, approximately 98% of the radioactivity recovered in the urine was unchanged pregabalin.
@@ -55,12 +54,11 @@ Pregabalin Cmax and AUC parameters increased in a linear manner with increasing 
 The AUC was lower by 30% in paediatric patients below a weight of 30 kg due to an increased body weight adjusted clearance of 43% for these patients in comparison to patients weighing ≥30 kg.
 
 Pregabalin terminal half-life averaged about 3 to 4 hours in paediatric patients up to 6 years of age, and 4 to 6 hours in those 7 years of age and older.
-
 Population pharmacokinetic analysis showed that creatinine clearance was a significant covariate of pregabalin oral clearance, body weight was a significant covariate of pregabalin apparent oral volume of distribution, and these relationships were similar in paediatric and adult patients.
 
 Pregabalin pharmacokinetics in patients younger than 3 months old have not been studied (see sections 4.2, 4.8 and 5.1).
 
-Elderly (over 65 years of age)
+Elderly
 Pregabalin clearance tends to decrease with increasing age.
 This decrease in pregabalin oral clearance is consistent with decreases in creatinine clearance associated with increasing age.
 Reduction of pregabalin dose may be required in patients who have age related compromised renal function (see section 4.2 Table 1).
@@ -71,35 +69,3 @@ Lactation had little to no influence on pregabalin pharmacokinetics.
 Pregabalin was excreted into breast milk with average steady-state concentrations approximately 76% of those in maternal plasma.
 The estimated infant dose from breast milk (assuming mean milk consumption of 150 ml/kg/day) of women receiving 300 mg/day or the maximum dose of 600 mg/day would be 0.31 or 0.62 mg/kg/day, respectively.
 These estimated doses are approximately 7% of the total daily maternal dose on a mg/kg basis.
-
-[Lyrica 50 mg hard capsules]
-
-(all sentences already above)
-
-[Lyrica 75 mg hard capsules]
-
-(all sentences already above)
-
-[Lyrica 100 mg hard capsules]
-
-Linearity/ non-linearity
-
-[Lyrica 150 mg hard capsules]
-
-(all sentences already above)
-
-[Lyrica 200 mg hard capsules]
-
-(all sentences already above)
-
-[Lyrica 225 mg hard capsules]
-
-(all sentences already above)
-
-[Lyrica 300 mg hard capsules]
-
-(all sentences already above)
-
-[Lyrica 20 mg/ml oral solution]
-
-(all sentences already above)

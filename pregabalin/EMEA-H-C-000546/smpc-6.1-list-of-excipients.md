@@ -1,5 +1,7 @@
 # 6.1 List of excipients
 
+Lyrica 25 mg, 50 mg, 150 mg hard capsules
+
 Capsules content:
 Lactose monohydrate
 Maize starch
@@ -7,44 +9,37 @@ Talc
 
 Capsules shell:
 Gelatin
-Titanium Dioxide (E171)
-Sodium Laurilsulphate
+Titanium dioxide (E171)
+Sodium laurilsulphate
 Silica, colloidal anhydrous
 Purified water
 
 Printing ink:
 Shellac
-Black Iron Oxide (E172)
-Propylene Glycol
-Potassium Hydroxide
+Black iron oxide (E172)
+Propylene glycol
+Potassium hydroxide
 
-[Lyrica 50 mg hard capsules]
+Lyrica 75 mg, 100 mg, 200 mg, 225 mg, 300 mg hard capsules
 
-(all sentences already above)
+Capsules content:
+Lactose monohydrate
+Maize starch
+Talc
 
-[Lyrica 75 mg hard capsules]
+Capsules shell:
+Gelatin
+Titanium dioxide (E171)
+Sodium laurilsulphate
+Silica, colloidal anhydrous
+Purified water
+Red iron oxide (E172)
 
-Red Iron Oxide (E172)
-
-[Lyrica 100 mg hard capsules]
-
-(all sentences already above)
-
-[Lyrica 150 mg hard capsules]
-
-(all sentences already above)
-
-[Lyrica 200 mg hard capsules]
-
-(all sentences already above)
-
-[Lyrica 225 mg hard capsules]
-
-(all sentences already above)
-
-[Lyrica 300 mg hard capsules]
-
-(all sentences already above)
+Printing ink:
+Shellac
+Black iron oxide (E172)
+Propylene glycol
+Potassium hydroxide
 
 [Lyrica 20 mg/ml oral solution]
 
