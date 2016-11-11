@@ -5,7 +5,6 @@ Overdoses after oral use of other alpha2-agonists have been reported to cause sy
 Treatment of an oral overdose includes supportive and symptomatic therapy; a patent airway should be maintained.
 
 No cases of overdose after cutaneous use of Mirvaso were reported during the clinical development program.
-
 Paediatric population
 Serious adverse reactions following inadvertent ingestion of Mirvaso by two young children of one clinical study subject have been reported.
 The children experienced symptoms consistent with previously reported oral overdoses of alpha2-agonist in young children.

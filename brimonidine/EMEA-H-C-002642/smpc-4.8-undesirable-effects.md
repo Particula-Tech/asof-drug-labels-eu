@@ -15,7 +15,7 @@ Table 1 – Adverse reactions
 | --- | --- | --- |
 | Nervous system disorders | Uncommon | Headache, paraesthesia |
 | Eye disorders | Uncommon | Eyelid oedema |
-| Vascular disorders | Common | Flushing |
+| Vascular disorders | Common | Flushing, pallor at the application site* |
 |  | Rare | Hypotension* |
 | Respiratory, thoracic and mediastinal disorders | Uncommon | Nasal congestion |
 | Gastrointestinal disorders | Uncommon | Dry mouth |
