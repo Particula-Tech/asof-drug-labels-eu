@@ -1,8 +1,46 @@
 # 4.2 Posology and method of administration
 
-STELARA is intended for use under the guidance and supervision of a physician experienced in the diagnosis and treatment of psoriasis or psoriatic arthritis.
+STELARA concentrate for solution for infusion is intended for use under the guidance and supervision of physicians experienced in the diagnosis and treatment of Crohn's disease.
+STELARA concentrate for solution for infusion should only be used for the intravenous induction dose.
 
 Posology
+
+Crohn’s Disease
+STELARA treatment is to be initiated with a single intravenous dose based on body weight.
+The infusion solution is to be composed of the number of vials of STELARA 130 mg as specified in
+Table 1 (see section 6.6 for preparation).
+
+Table 1 Initial intravenous dosing of STELARA
+Body weight of patient at the Recommended Number of 130 mg
+
+time of dosing dosea STELARA Vials
+≤55 kg 260 mg 2
+> 55 kg to ≤85 kg 390 mg 3
+> 85 kg 520 mg 4
+
+a Approximately 6 mg/kg
+
+The first subcutaneous dose should be given at week 8 following the intravenous dose.
+For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the STELARA solution for injection (vial) and solution for injection in pre-filled syringe SmPC.
+Elderly (≥65 years)
+No dose adjustment is needed for elderly patients (see section 4.4).
+
+Renal and hepatic impairment
+STELARA has not been studied in these patient populations.
+No dose recommendations can be made.
+
+Paediatric population
+The safety and efficacy of STELARA for the treatment of Crohn’s disease in children less than 18 years have not yet been established.
+No data are available.
+
+Method of administration
+STELARA 130 mg is for intravenous use only.
+It should be administered over at least one hour.
+For instructions on dilution of the medicinal product before administration, see section 6.6.
+
+[STELARA 45 mg solution for injection]
+
+STELARA is intended for use under the guidance and supervision of physicians experienced in the diagnosis and treatment of conditions for which STELARA is indicated.
 
 Plaque psoriasis
 The recommended posology of STELARA is an initial dose of 45 mg administered subcutaneously, followed by a 45 mg dose 4 weeks later, and then every 12 weeks thereafter.
@@ -17,20 +55,9 @@ However, 90 mg resulted in greater efficacy.
 Table 4)
 
 Psoriatic arthritis (PsA)
-The recommended posology of STELARA is an initial dose of 45 mg administered subcutaneously, followed by a 45 mg dose 4 weeks later, and then every 12 weeks thereafter.
 Alternatively, 90 mg may be used in patients with a body weight > 100 kg.
 
-Consideration should be given to discontinuing treatment in patients who have shown no response up to 28 weeks of treatment.
-
-Elderly patients (≥65 years)
-No dose adjustment is needed for elderly patients (see section 4.4).
-
-Renal and hepatic impairment
-STELARA has not been studied in these patient populations.
-No dose recommendations can be made.
-
-Paediatric population
-The safety and efficacy of STELARA in children less than 12 years have not yet been established.
+The safety and efficacy of STELARA in children with psoriasis less than 12 years of age or in children with psoriatic arthritis less than 18 years of age have not yet been established.
 
 Paediatric plaque psoriasis (12 years and older)
 The recommended dose of STELARA based on body weight is shown below (Tables 1 and 2).
@@ -44,8 +71,9 @@ Table 1 Recommended dose of STELARA for paediatric psoriasis
 | ≥60-≤100 kg | 45 mg |
 | > 100 kg | 90 mg |
 
-a To calculate the volume of injection (ml) for patients < 60 kg, use the following formula: body weight (kg) x 0.0083 (ml/kg) or see Table 2.
-The calculated volume should be rounded to the nearest 0.01 ml and administered using a 1 ml graduated syringe.
+a To calculate the volume of injection (mL) for patients < 60 kg, use the following formula: body weight (kg) x 0.0083 (mL/kg) or see Table 2.
+The calculated volume should be rounded to the nearest 0.01 mL and administered using a 1 mL graduated syringe.
+A 45 mg vial is available for paediatric patients who need to receive less than the full 45 mg dose.
 
 Table 2 Injection volumes of STELARA for paediatric psoriasis patients < 60 kg
 
@@ -82,10 +110,28 @@ Table 2 Injection volumes of STELARA for paediatric psoriasis patients < 60 kg
 | 58 | 43.5 | 0.48 |
 | 59 | 44.3 | 0.49 |
 
-Consideration should be given to discontinuing treatment in patients who have shown no response up to 28 weeks of treatment.
+In the treatment regimen, the first dose of STELARA is administered intravenously.
+For the posology of the intravenous dosing regimen, see section 4.2 of the STELARA 130 mg Concentrate for solution for infusion SmPC.
 
-Method of administration
-STELARA is for subcutaneous injection.
+The first subcutaneous administration of 90 mg STELARA should take place at week 8 after the intravenous dose.
+After this, dosing every 12 weeks is recommended.
+
+Patients who have not shown adequate response at 8 weeks after the first subcutaneous dose, may receive a second subcutaneous dose at this time (see section 5.1).
+
+Patients who lose response on dosing every 12 weeks may benefit from an increase in dosing frequency to every 8 weeks (see section 5.1).
+
+Patients may subsequently be dosed every 8 weeks or every 12 weeks according to clinical judgment (see section 5.1).
+
+Consideration should be given to discontinuing treatment in patients who show no evidence of therapeutic benefit by week 16 or 16 weeks after switching to the 8-weekly dose.
+
+Immunomodulators and/or corticosteroids may be continued during treatment with STELARA.
+In patients who have responded to treatment with STELARA, corticosteroids may be reduced or discontinued in accordance with standard of care.
+
+If therapy is interrupted, resumption of treatment with subcutaneous dosing every 8 weeks is safe and effective.
+
+The safety and efficacy of STELARA in treatment of Crohn’s disease in children less than 18 years have not yet been established.
+
+STELARA 45 mg and 90 mg vials or pre-filled syringes are for subcutaneous injection only.
 If possible, areas of the skin that show psoriasis should be avoided as injection sites.
 
 After proper training in subcutaneous injection technique, patients or their caregivers may inject STELARA if a physician determines that it is appropriate.
@@ -94,15 +140,3 @@ Patients or their caregivers should be instructed to inject the prescribed amoun
 Comprehensive instructions for administration are given in the package leaflet.
 
 For further instructions on preparation and special precautions for handling, see section 6.6.
-
-[STELARA 90 mg solution for injection]
-
-A 45 mg vial is available for paediatric patients who need to receive less than the full 45 mg dose.
-
-[STELARA 45 mg solution for injection in pre-filled syringe.]
-
-Patients or their caregivers should be instructed to inject the full amount of STELARA according to the directions provided in the package leaflet.
-
-[STELARA 90 mg solution for injection in pre-filled syringe.]
-
-(all sentences already above)

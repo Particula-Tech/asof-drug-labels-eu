@@ -1,3 +1,9 @@
 # 6.3 Shelf life
 
 2 years.
+Do not freeze.
+
+Chemical and physical in-use stability has been demonstrated for 4 hours at 15-25°C.
+
+From a microbiological point of view, unless the method of dilution precludes the risk of microbial contamination, the product should be used immediately.
+If not used immediately, in-use storage times and conditions are the responsibility of user.

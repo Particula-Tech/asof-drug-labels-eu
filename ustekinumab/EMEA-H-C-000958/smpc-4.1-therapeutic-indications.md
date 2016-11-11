@@ -1,5 +1,10 @@
 # 4.1 Therapeutic indications
 
+Crohn’s Disease
+STELARA is indicated for the treatment of adult patients with moderately to severely active Crohn’s disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist or have medical contraindications to such therapies.
+
+[STELARA 45 mg solution for injection]
+
 Plaque psoriasis
 STELARA is indicated for the treatment of moderate to severe plaque psoriasis in adults who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapies including ciclosporin, methotrexate (MTX) or PUVA (psoralen and ultraviolet A) (see section 5.1).
 

@@ -43,6 +43,7 @@ Long term treatment with STELARA does not suppress the humoral immune response t
 Concomitant immunosuppressive therapy
 In psoriasis studies, the safety and efficacy of STELARA in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated.
 In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of STELARA.
+In Crohn’s disease studies, concomitant use of immunosuppressants or corticosteroids did not appear to influence the safety or efficacy of STELARA.
 Caution should be exercised when considering concomitant use of other immunosuppressants and STELARA or when transitioning from other immunosuppressive biologics (see section 4.5).
 
 Immunotherapy
@@ -57,19 +58,11 @@ If these symptoms occur, appropriate therapy should be instituted.
 STELARA should be discontinued if a drug reaction is suspected.
 
 Special populations
-Elderly patients (≥65 years)
+Elderly (≥65 years)
 No overall differences in efficacy or safety in patients age 65 and older who received STELARA were observed compared to younger patients, however the number of patients aged 65 and older is not sufficient to determine whether they respond differently from younger patients.
 Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly.
 
-[STELARA 90 mg solution for injection]
-
-(all sentences already above)
-
-[STELARA 45 mg solution for injection in pre-filled syringe.]
+[STELARA 45 mg solution for injection]
 
 Latex sensitivity
-The needle cover on the syringe in the pre-filled syringe is manufactured from dry natural rubber (a derivative of latex), which may cause allergic reactions in individuals sensitive to latex.
-
-[STELARA 90 mg solution for injection in pre-filled syringe.]
-
-(all sentences already above)
+The needle cover on the syringe in the STELARA pre-filled syringe is manufactured from dry natural rubber (a derivative of latex), which may cause allergic reactions in individuals sensitive to latex.

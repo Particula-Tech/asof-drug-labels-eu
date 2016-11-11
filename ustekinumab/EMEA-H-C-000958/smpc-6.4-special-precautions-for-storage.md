@@ -4,14 +4,8 @@ Store in a refrigerator (2°C – 8°C).
 Do not freeze.
 Keep the vial in the outer carton in order to protect from light.
 
-[STELARA 90 mg solution for injection]
+For storage conditions after dilution of the medicinal product, see section 6.3
 
-(all sentences already above)
+[STELARA 45 mg solution for injection]
 
-[STELARA 45 mg solution for injection in pre-filled syringe.]
-
-Keep the pre-filled syringe in the outer carton in order to protect from light.
-
-[STELARA 90 mg solution for injection in pre-filled syringe.]
-
-(all sentences already above)
+Keep the vial or pre-filled syringe in the outer carton in order to protect from light.
