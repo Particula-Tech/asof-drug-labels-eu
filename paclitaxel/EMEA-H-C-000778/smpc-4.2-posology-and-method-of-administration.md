@@ -18,6 +18,7 @@ The recommended dose of Abraxane in combination with gemcitabine is 125 mg/m2 ad
 The concurrent recommended dose of gemcitabine is 1000 mg/m2 administered intravenously over 30 minutes immediately after the completion of Abraxane administration on Days 1, 8 and 15 of each 28-day cycle.
 
 Dose adjustments during treatment of pancreatic adenocarcinoma
+
 Table 1: Dose level reductions for patients with pancreatic adenocarcinoma
 
 | Dose Level | Abraxane Dose (mg/m2) | Gemcitabine Dose (mg/m2) |
@@ -39,8 +40,9 @@ Table 2: Dose modifications for neutropenia and/or thrombocytopenia at the start
 |  | < 500 | OR | < 50,000 | Withhold doses |  |
 | Day 15: If Day 8 doses were reduced: |  |  |  |  |  |
 | Day 15 | ≥ 1000 | AND | ≥ 75,000 | Return to the Day 1 dose levels and follow with WBC Growth Factors OR Treat with same doses as Day 8 |  |
+|  | ≥ 500 but < 1000 | OR | ≥ 50,000 but < 75,000 | Treat with Day 8 dose levels and |  |
 
-|  | ≥ 500 but < 1000 | OR | ≥ 50,000 but < 75,000 | Treat with Day 8 dose levels and follow with WBC Growth Factors OR Reduce doses 1 dose level from Day 8 doses |
+|  |  |  |  | follow with WBC Growth Factors OR Reduce doses 1 dose level from Day 8 doses |
 | --- | --- | --- | --- | --- |
 |  | < 500 | OR | < 50,000 | Withhold doses |
 | Day 15: IF Day 8 doses were withheld: |  |  |  |  |
@@ -64,11 +66,13 @@ aSee Table 1 for dose level reductions
 Non-small cell lung cancer:
 The recommended dose of Abraxane is 100 mg/m2 administered as an intravenous infusion over 30 minutes on Days 1, 8 and 15 of each 21-day cycle.
 The recommended dose of carboplatin is AUC = 6 mg•min/mL on Day 1 only of each 21-day cycle, beginning immediately after the end of Abraxane administration.
+
 Dose adjustments during treatment of non-small cell lung cancer:
 Abraxane should not be administered on Day 1 of a cycle until absolute neutrophil count (ANC) is ≥1500 cells/mm3 and platelet count is ≥100,000 cells/mm3.
 For each subsequent weekly dose of Abraxane, patients must have an ANC ≥500 cells/mm3 and platelets >50,000 cells/mm3 or the dose is to be withheld until counts recover.
 When counts recover, resume dosing the following week according to the criteria in Table 4.
 Reduce subsequent dose only if criteria in Table 4 are met.
+
 Table 4: Dose reductions for haematologic toxicities in patients with non-small cell lung cancer
 
 | Haematologic Toxicity | Occurrence | Dose of Abraxane (mg/m2)1 | Dose of carboplatin (AUC mg•min/mL)1 |
@@ -87,7 +91,6 @@ For Grade 2 or 3 cutaneous toxicity, Grade 3 diarrhoea, or Grade 3 mucositis, in
 For ≥ Grade 3 peripheral neuropathy, withhold treatment until resolution to ≤ Grade 1.
 Treatment may be resumed at the next lower dose level in subsequent cycles according to the guidelines in Table 5.
 For any other Grade 3 or 4 non-haematologic toxicity, interrupt treatment until the toxicity improves to ≤ Grade 2, then restart treatment according to the guidelines in Table 5.
-
 Table 5: Dose reductions for non-haematologic toxicities in patients with non-small cell lung cancer
 
 | Non-haematologic Toxicity | Occurrence | Dose of Abraxane (mg/m2)1 | Dose of carboplatin (AUC mg•min/mL)1 |
@@ -99,6 +102,7 @@ Table 5: Dose reductions for non-haematologic toxicities in patients with non-sm
 
 1On Day 1 of the 21-day cycle reduce the dose of Abraxane and carboplatin simultaneously.
 On Days 8 or 15 of the 21-day cycle reduce the dose of Abraxane; reduce the dose of carboplatin in the subsequent cycle.
+
 Special populations
 
 Patients with hepatic impairment
@@ -107,7 +111,6 @@ Treat with same doses as patients with normal hepatic function.
 
 For metastatic breast cancer patients and non-small cell lung cancer patients with moderate to severe hepatic impairment (total bilirubin > 1.5 to ≤ 5 x ULN and AST ≤ 10 x ULN), a 20% reduction in dose is recommended.
 The reduced dose may be escalated to the dose for patients with normal hepatic function if the patient is tolerating the treatment for at least two cycles (see sections 4.4 and 5.2).
-
 For patients with metastatic adenocarcinoma of the pancreas that have moderate to severe hepatic impairment, there are insufficient data to permit dosage recommendations (see sections 4.4 and 5.2).
 
 For patients with total bilirubin > 5 x ULN or AST > 10 x ULN, there are insufficient data to permit dosage recommendations regardless of indication (see sections 4.4 and 5.2).
@@ -132,6 +135,7 @@ Myelosuppression events, peripheral neuropathy events, and arthralgia were more 
 There is limited experience of Abraxane/carboplatin use in patients 75 years or older.
 
 Pharmacokinetic/pharmacodynamic modelling using data from 125 patients with advanced solid tumours indicates that patients ≥ 65 years of age may be more susceptible to development of neutropenia within the first treatment cycle.
+
 Paediatric population
 The safety and efficacy of Abraxane in children and adolescents aged 0-17 years has not been established.
 There is no relevant use of Abraxane in the paediatric population in the indication of metastatic breast cancer or pancreatic adenocarcinoma or non-small cell lung cancer.

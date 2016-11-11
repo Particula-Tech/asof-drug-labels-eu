@@ -44,7 +44,6 @@ SMQ = Standardized MedDRA Query; SMQ is a grouping of several MedDRA preferred t
 2 As reported in the post-marketing surveillance of Abraxane.
 3 The frequency of pneumonitis is calculated based on pooled data in 1310 patients in clinical trials receiving Abraxane monotherapy for breast cancer and for other indications using MedDRA SMQ Interstitial lung disease.
 See section 4.4.
-
 Description of selected adverse reactions
 The following are the most common and clinically relevant adverse reactions related to 229 patients with metastatic breast cancer who were treated with 260 mg/m2 Abraxane once every three weeks in the pivotal phase III clinical study.
 
@@ -83,11 +82,9 @@ Table 7 lists adverse reactions assessed in patients with pancreatic adenocarcin
 
 Table 7: Adverse reactions reported with Abraxane in combination with gemcitabine (N =421)
 
-Infections and Common: Sepsis, pneumonia, oral candidiasis
-infestations
-
-| Blood and lymphatic system disorders | Very common: Neutropenia, anaemia, thrombocytopenia Common: Pancytopenia Uncommon: Thrombotic thrombocytopenic purpura |
+| Infections and infestations | Common: Sepsis, pneumonia, oral candidiasis |
 | --- | --- |
+| Blood and lymphatic system disorders | Very common: Neutropenia, anaemia, thrombocytopenia Common: Pancytopenia Uncommon: Thrombotic thrombocytopenic purpura |
 | Metabolism and nutrition disorders | Very common: Dehydration, decreased appetite, hypokalaemia |
 | Psychiatric disorders | Very common: Insomnia, depression Common: Anxiety |
 | Nervous system disorders | Very common: Peripheral neuropathy1, dysgeusia, headache, dizziness Uncommon: VIIth nerve paralysis |
@@ -108,7 +105,6 @@ MedDRA = Medical Dictionary for Regulatory Activities; SMQ = Standardized MedDRA
 2 Pneumonitis is evaluated using the SMQ interstitial lung disease (broad scope)
 
 In this phase III randomized, controlled, open-label trial, adverse reactions resulting in death within 30 days of the last dose of study drug were reported for 4% of patients receiving Abraxane in combination with gemcitabine and for 4% of patients receiving gemcitabine monotherapy.
-
 Description of selected adverse reactions
 The following are the most common and important incidences of adverse reactions related to 421 patients with metastatic adenocarcinoma of the pancreas who were treated with 125 mg/m2 Abraxane in combination with gemcitabine at a dose of 1000 mg/m2 given on Days 1, 8 and 15 of each 28-day cycle in the phase III clinical study.
 
@@ -143,7 +139,6 @@ Pneumonitis has been reported at a rate of 4% with the use of Abraxane in combin
 Of the 17 cases of pneumonitis reported in patients treated with Abraxane in combination with gemcitabine, 2 had a fatal outcome.
 Monitor patients closely for signs and symptoms of pneumonitis.
 After ruling out infectious etiology and upon making a diagnosis of pneumonitis, permanently discontinue treatment with Abraxane and gemcitabine and promptly initiate appropriate treatment and supportive measures (see section 4.2).
-
 Non-small cell lung cancer (Abraxane administered in combination with carboplatin)
 
 Tabulated list of adverse reactions
@@ -168,7 +163,8 @@ Table 9: Adverse reactions reported with Abraxane in combination with carboplati
 | General disorders and administration site conditions | Very common: Fatigue, asthenia, oedema peripheral Common: Pyrexia, chest pain Uncommon: Mucosal inflammation, infusion site extravasation, infusion site inflammation, infusion site rash |
 | Investigations | Common: Alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, weight decreased |
 
-MedDRA = Medical Dictionary for Regulatory Activities: SMQ = Standardized MedDRA Query 1 Based on laboratory assessments: maximal degree of myelosuppression (treated population)
+MedDRA = Medical Dictionary for Regulatory Activities: SMQ = Standardized MedDRA Query
+1 Based on laboratory assessments: maximal degree of myelosuppression (treated population)
 2 Peripheral neuropathy is evaluated using the SMQ neuropathy (broad scope)
 3 Pneumonitis is evaluated using the SMQ interstitial lung disease (broad scope)
 
@@ -176,7 +172,6 @@ For non-small cell lung cancer patients treated with Abraxane and carboplatin, t
 No patients treated with Abraxane and carboplatin experienced Grade 4 peripheral neuropathy.
 
 Anemia and thrombocytopenia were more commonly reported in the Abraxane arm than in the Taxol arm (54% versus 28% and 45% versus 27% respectively).
-
 Patient-reported taxane toxicity was assessed using the 4 subscales of the Functional Assessment of Cancer Therapy (FACT)-Taxane questionnaire.
 Using repeated measure analysis, 3 of the 4 subscales (peripheral neuropathy, pain hands/feet, and hearing) favored Abraxane and carboplatin (p ≤ 0.002).
 For the other subscale (oedema), there was no difference in the treatment arms.

@@ -1,7 +1,8 @@
 # 4.5 Interactions with other medicinal products and other forms of interaction
 
 The metabolism of paclitaxel is catalysed, in part, by cytochrome P450 isoenzymes CYP2C8 and CYP3A4 (see section 5.2).
-Therefore, in the absence of a PK drug-drug interaction study, caution should be exercised when administering paclitaxel concomitantly with medicines known to inhibit (e.g. ketoconazole and other imidazole antifungals, erythromycin, fluoxetine, gemfibrozil, cimetidine, ritonavir, saquinavir, indinavir, and nelfinavir) or induce (e.g. rifampicin, carbamazepine, phenytoin, efavirenz, nevirapine) either CYP2C8 or CYP3A4.
+Therefore, in the absence of a PK drug-drug interaction study, caution should be exercised when administering paclitaxel concomitantly with medicines known to inhibit either CYP2C8 or CYP3A4 (e.g. ketoconazole and other imidazole antifungals, erythromycin, fluoxetine, gemfibrozil, clopidogrel, cimetidine, ritonavir, saquinavir, indinavir, and nelfinavir) because toxicity of paclitaxel may be increased due to higher paclitaxel exposure.
+Administering paclitaxel concomitantly with medicines known to induce either CYP2C8 or CYP3A4 (e.g. rifampicin, carbamazepine, phenytoin, efavirenz, nevirapine) is not recommended because efficacy may be compromised because of lower paclitaxel exposures.
 
 Paclitaxel and gemcitabine do not share a common metabolic pathway.
 Paclitaxel clearance is primarily determined by CYP2C8 and CYP3A4 mediated metabolism followed by biliary excretion, while gemcitabine is inactivated by cytidine deaminase followed by urinary excretion.

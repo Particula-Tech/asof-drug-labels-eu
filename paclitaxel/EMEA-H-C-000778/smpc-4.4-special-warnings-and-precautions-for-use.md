@@ -31,7 +31,6 @@ Pneumonitis
 Pneumonitis occurred in 1% of patients when Abraxane was used as monotherapy and in 4% of patients when Abraxane was used in combination with gemcitabine.
 Closely monitor all patients for signs and symptoms of pneumonitis.
 After ruling out infectious etiology and upon making a diagnosis of pneumonitis, permanently discontinue treatment with Abraxane and gemcitabine and promptly initiate appropriate treatment and supportive measures (see section 4.2).
-
 Hepatic impairment
 Because the toxicity of paclitaxel can be increased with hepatic impairment, administration of Abraxane in patients with hepatic impairment should be performed with caution.
 Patients with hepatic impairment may be at increased risk of toxicity, particularly from myelosuppression; such patients should be closely monitored for development of profound myelosuppression.
@@ -58,6 +57,7 @@ Patients with pancreatic adenocarcinoma aged 75 years and older should be carefu
 
 Other
 Although limited data is available, no clear benefit in terms of prolonged overall survival has been demonstrated in pancreatic adenocarcinoma patients with normal CA 19-9 levels prior to start of treatment with Abraxane and gemcitabine (see section 5.1).
+
 Erlotinib should not be coadministered with Abraxane plus gemcitabine (see section 4.5).
 
 Excipients
