@@ -1,11 +1,15 @@
 # 6.5 Nature and contents of container
 
-0.23 ml sterile solution in a vial (type I glass) with a stopper (chlorobutyl rubber), 1 blunt filter needle (18G x 1½″, 1.2 mm x 40 mm, 5 µm), 1 injection needle (30G x ½″, 0.3 mm x 13 mm) and 1 syringe (polypropylene) (1 ml).
-Pack containing 1 vial.
+Vial + injection kit
 
-[Lucentis 10 mg/ml solution for injection (SmPC 2)]
+One vial (type I glass) with a stopper (chlorobutyl rubber) containing 0.23 ml sterile solution, 1 blunt filter needle (18G x 1½″, 1.2 mm x 40 mm, 5 µm), 1 injection needle (30G x ½″, 0.3 mm x 13 mm) and 1 syringe (polypropylene) (1 ml).
 
-0.23 ml sterile solution in a vial (type I glass) with a stopper (chlorobutyl rubber).
+Vial-only pack
+
+One vial (type I glass) with a stopper (chlorobutyl rubber) containing 0.23 ml sterile solution.
+Vial + filter needle pack
+
+One vial (type I glass) with a stopper (chlorobutyl rubber) containing 0.23 ml sterile solution and 1 blunt filter needle (18G x 1½″, 1.2 mm x 40 mm, 5 µm).
 
 [Lucentis 10 mg/ml solution for injection in pre-filled syringe]
 
@@ -13,7 +17,3 @@ Pack containing 1 vial.
 The pre-filled syringe has a plunger rod and a finger grip, and is packed in a sealed tray.
 
 Pack size of one pre-filled syringe.
-
-[Lucentis 10 mg/ml solution for injection (SmPC 4)]
-
-0.23 ml sterile solution in a vial (type I glass) with a stopper (chlorobutyl rubber) and 1 blunt filter needle (18G x 1½″, 1.2 mm x 40 mm, 5 µm).

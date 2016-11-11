@@ -2,17 +2,21 @@
 
 Pharmacotherapeutic group: Ophthalmologicals, antineovascularisation agents, ATC code: S01LA04
 
+Mechanism of action
+
 Ranibizumab is a humanised recombinant monoclonal antibody fragment targeted against human vascular endothelial growth factor A (VEGF-A).
 It binds with high affinity to the VEGF-A isoforms (e.g. VEGF110, VEGF121 and VEGF165), thereby preventing binding of VEGF-A to its receptors VEGFR-1 and VEGFR-2.
 Binding of VEGF-A to its receptors leads to endothelial cell proliferation and neovascularisation, as well as vascular leakage, all of which are thought to contribute to the progression of the neovascular form of age-related macular degeneration, pathologic myopia or to visual impairment caused by either diabetic macular oedema or macular oedema secondary to RVO.
 
+Clinical efficacy and safety
+
 Treatment of wet AMD
 In wet AMD, the clinical safety and efficacy of Lucentis have been assessed in three randomised, double-masked, sham- or active-controlled studies of 24 months duration in patients with neovascular AMD.
 A total of 1,323 patients (879 active and 444 control) were enrolled in these studies.
+
 In study FVF2598g (MARINA), 716 patients with minimally classic or occult with no classic lesions were randomised in a 1:1:1 ratio to receive monthly injections of Lucentis 0.3 mg, Lucentis 0.5 mg or sham.
 
 In study FVF2587g (ANCHOR), 423 patients with predominantly classic CNV lesions were randomised in a 1:1:1 ratio to receive Lucentis 0.3 mg monthly, Lucentis 0.5 mg monthly or verteporfin PDT (at baseline and every 3 months thereafter if fluorescein angiography showed persistence or recurrence of vascular leakage).
-
 Key outcome measures are summarised in Table 1 and Figure 1.
 
 Table 1 Outcomes at Month 12 and Month 24 in study FVF2598g (MARINA) and FVF2587g (ANCHOR)
@@ -387,6 +391,7 @@ The improvement of vision was accompanied by a reduction in central retinal thic
 Patient-reported benefits were observed with ranibizumab treatment arms over vPDT (p-value <0.05) in terms of improvement in the composite score and several subscales (general vision, near activities, mental health and dependency) of the NEI VFQ-25.
 
 Paediatric population
+
 The safety and efficacy of ranibizumab have not yet been studied in paediatric patients.
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Lucentis in all subsets of the paediatric population in neovascular AMD, visual impairment due to DME, visual impairment due to macular oedema secondary to RVO and visual impairment due to CNV secondary to PM (see section 4.2 for information on paediatric use).

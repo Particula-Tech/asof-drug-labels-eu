@@ -1,10 +1,41 @@
 # 6.6 Special precautions for disposal and other handling
 
+Vial + injection kit
+
 The vial, injection needle, filter needle and syringe are for single use only.
 Re-use may lead to infection or other illness/injury.
 All components are sterile.
 Any component with packaging showing signs of damage or tampering must not be used.
 The sterility cannot be guaranteed unless the component packaging seal remains intact.
+
+Vial-only pack
+
+The vial is for single use only.
+After injection any unused product must be discarded.
+Any vial showing signs of damage or tampering must not be used.
+The sterility cannot be guaranteed unless the packaging seal remains intact.
+
+For preparation and intravitreal injection the following medical devices for single use are needed:
+
+- a 5 µm filter needle (18G)
+- a 1 ml sterile syringe (including a 0.05 ml mark)
+- an injection needle (30G x ½″).
+
+These medical devices are not included within this pack.
+
+Vial + filter needle pack
+
+The vial and filter needle are for single use only.
+Re-use may lead to infection or other illness/injury.
+All components are sterile.
+Any component with packaging showing signs of damage or tampering must not be used.
+The sterility cannot be guaranteed unless the component packaging seal remains intact.
+
+For preparation and intravitreal injection the following medical devices for single use are needed:
+
+- a 5 µm filter needle (18G x 1½″, 1.2 mm x 40 mm, provided)
+- a 1 ml sterile syringe (including a 0.05 ml mark, not included within this pack)
+- an injection needle (30G x ½″; not included within this pack)
 
 To prepare Lucentis for intravitreal administration, please adhere to the following instructions:
 
@@ -12,7 +43,7 @@ To prepare Lucentis for intravitreal administration, please adhere to the follow
 Before withdrawal, the outer part of the rubber stopper of the vial should be disinfected.
 
 2.
-Assemble the 5 µm filter needle (18G x 1½″, 1.2 mm x 40 mm, provided) onto the 1 ml syringe (provided) using aseptic technique.
+Assemble a 5 µm filter needle (18G x 1½″, 1.2 mm x 40 mm) onto a 1 ml syringe using aseptic technique.
 Push the blunt filter needle into the centre of the vial stopper until the needle touches the bottom edge of the vial.
 
 3.
@@ -24,17 +55,16 @@ Ensure that the plunger rod is drawn sufficiently back when emptying the vial in
 5.
 Leave the blunt filter needle in the vial and disconnect the syringe from the blunt filter needle.
 The filter needle should be discarded after withdrawal of the vial contents and should not be used for the intravitreal injection.
-
 6.
-Aseptically and firmly assemble the injection needle (30G x ½″, 0.3 mm x 13 mm, provided) onto the syringe.
+Aseptically and firmly assemble an injection needle (30G x ½″, 0.3 mm x 13 mm) onto the syringe.
 
 7.
 Carefully remove the cap from the injection needle without disconnecting the injection needle from the syringe.
 
-Note: Grip at the yellow hub of the injection needle while removing the cap.
+Note: Grip at the hub of the injection needle while removing the cap.
 
 8.
-Carefully expel the air from the syringe and adjust the dose to the 0.05 ml mark on the syringe.
+Carefully expel the air along with the excess solution and adjust the dose to the 0.05 ml mark on the syringe.
 The syringe is ready for injection.
 
 Note: Do not wipe the injection needle.
@@ -42,30 +72,6 @@ Do not pull back on the plunger.
 
 After injection, do not recap the needle or detach it from the syringe.
 Dispose of the used syringe together with the needle in a sharps disposal container or in accordance with local requirements.
-
-[Lucentis 10 mg/ml solution for injection (SmPC 2)]
-
-The vial is for single use only.
-After injection any unused product must be discarded.
-Any vial showing signs of damage or tampering must not be used.
-The sterility cannot be guaranteed unless the packaging seal remains intact.
-
-For preparation and intravitreal injection the following medical devices for single use are needed:
-
-- a 5 µm filter needle (18G)
-- a 1 ml sterile syringe
-- an injection needle (30G x ½″).
-
-These medical devices are not included within the Lucentis pack.
-
-Assemble a 5 µm filter needle (18G) onto a 1 ml syringe using aseptic technique.
-Push the filter needle into the centre of the vial stopper until the needle touches the bottom edge of the vial.
-
-Leave the filter needle in the vial and disconnect the syringe from the filter needle.
-
-Aseptically and firmly assemble an injection needle (30G x ½″) onto the syringe.
-
-Note: Grip at the hub of the injection needle while removing the cap.
 
 [Lucentis 10 mg/ml solution for injection in pre-filled syringe]
 
@@ -147,13 +153,3 @@ deliver the volume of 0.05 ml.
 15. After injection, do not recap the needle or detach it from the syringe.
 Dispose of the used syringe together with the needle in a sharps disposal
 container or in accordance with local requirements.
-
-[Lucentis 10 mg/ml solution for injection (SmPC 4)]
-
-The vial and filter needle are for single use only.
-
-- a 5 µm filter needle (18G x 1½″, 1.2 mm x 40 mm, provided)
-- a 1 ml sterile syringe (not included within the Lucentis pack)
-- an injection needle (30G x ½″; not included within the Lucentis pack)
-
-Assemble the 5 µm filter needle (18G x 1½″, 1.2 mm x 40 mm, provided) onto a 1 ml syringe using aseptic technique.
