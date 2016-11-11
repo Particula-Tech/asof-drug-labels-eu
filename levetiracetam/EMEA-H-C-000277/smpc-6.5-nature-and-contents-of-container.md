@@ -1,6 +1,7 @@
 # 6.5 Nature and contents of container
 
 Aluminium/PVC blisters placed into cardboard boxes containing 20, 30, 50, 60, 100 film-coated tablets and multipacks containing 200 (2 packs of 100) film-coated tablets.
+
 Aluminium/PVC perforated unit dose blisters placed into cardboard boxes containing 100 x 1 film-coated tablet.
 
 Not all pack sizes may be marketed.

@@ -4,6 +4,13 @@ Renal impairment
 The administration of levetiracetam to patients with renal impairment may require dose adjustment.
 In patients with severely impaired hepatic function, assessment of renal function is recommended before dose selection (see section 4.2).
 
+Acute Kidney injury
+The use of levetiracetam has been very rarely associated with acute kidney injury, with a time to onset ranging from a few days to several months.
+
+Blood cell counts
+Rare cases of decreased blood cell counts (neutropenia, agranulocytosis, leucopenia, thrombocytopenia and pancytopenia) have been described in association with levetiracetam administration, generally at the beginning of the treatment.
+Complete blood cell counts are advised in patients experiencing important weakness, pyrexia, recurrent infections or coagulation disorders (section 4.8).
+
 Suicide
 Suicide, suicide attempt, suicidal ideation and behaviour have been reported in patients treated with anti-epileptic agents (including levetiracetam.
 A meta-analysis of randomized placebo-controlled trials of anti-epileptic medicinal products has shown a small increased risk of suicidal thoughts and behaviour.

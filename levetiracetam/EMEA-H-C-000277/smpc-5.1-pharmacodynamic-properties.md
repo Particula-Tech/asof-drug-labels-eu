@@ -16,12 +16,12 @@ Levetiracetam and related analogs show a rank order of affinity for binding to t
 This finding suggests that the interaction between levetiracetam and the synaptic vesicle protein 2A seems to contribute to the antiepileptic mechanism of action of the medicinal product.
 
 Pharmacodynamic effects
-
 Levetiracetam induces seizure protection in a broad range of animal models of partial and primary generalised seizures without having a pro-convulsant effect.
 The primary metabolite is inactive.
 In man, an activity in both partial and generalised epilepsy conditions (epileptiform discharge/photoparoxysmal response) has confirmed the broad spectrum pharmacological profile of levetiracetam.
 
 Clinical efficacy and safety
+
 Adjunctive therapy in the treatment of partial onset seizures with or without secondary generalisation in adults, adolescents, children and infants from 1 month of age with epilepsy.
 
 In adults, levetiracetam efficacy has been demonstrated in 3 double-blind, placebo-controlled studies at 1000 mg, 2000 mg, or 3000 mg/day, given in 2 divided doses, with a treatment duration of up to 18 weeks.
@@ -54,6 +54,7 @@ Six-month seizure freedom was achieved in 73.0 % of levetiracetam-treated patien
 More than half of the subjects remained seizure free for 12 months (56.6 % and 58.5 % of subjects on levetiracetam and on carbamazepine CR respectively).
 
 In a study reflecting clinical practice, the concomitant antiepileptic medication could be withdrawn in a limited number of patients who responded to levetiracetam adjunctive therapy (36 adult patients out of 69).
+
 Adjunctive therapy in the treatment of myoclonic seizures in adults and adolescents from 12 years of age with Juvenile Myoclonic Epilepsy.
 
 Levetiracetam efficacy was established in a double-blind, placebo-controlled study of 16 weeks duration, in patients 12 years of age and older suffering from idiopathic generalized epilepsy with myoclonic seizures in different syndromes.

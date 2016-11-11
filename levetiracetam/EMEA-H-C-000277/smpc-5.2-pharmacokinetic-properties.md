@@ -14,7 +14,6 @@ A significant correlation between saliva and plasma concentrations has been show
 Adults and adolescents
 
 Absorption
-
 Levetiracetam is rapidly absorbed after oral administration.
 Oral absolute bioavailability is close to 100 %.
 Peak plasma concentrations (Cmax) are achieved at 1.3 hours after dosing.
@@ -23,6 +22,7 @@ Peak concentrations (Cmax) are typically 31 and 43 µg/ml following a single 1,0
 The extent of absorption is dose-independent and is not altered by food.
 
 Distribution
+
 No tissue distribution data are available in humans.
 Neither levetiracetam nor its primary metabolite are significantly bound to plasma proteins (< 10 %).
 The volume of distribution of levetiracetam is approximately 0.5 to 0.7 l/kg, a value close to the total body water volume.
@@ -60,7 +60,6 @@ The renal clearance of levetiracetam and ucb L057 is 0.6 and 4.2 ml/min/kg respe
 Levetiracetam elimination is correlated to creatinine clearance.
 
 Elderly
-
 In the elderly, the half-life is increased by about 40 % (10 to 11 hours).
 This is related to the decrease in renal function in this population (see section 4.2).
 
@@ -68,6 +67,7 @@ Renal impairment
 
 The apparent body clearance of both levetiracetam and of its primary metabolite is correlated to the creatinine clearance.
 It is therefore recommended to adjust the maintenance daily dose of Keppra, based on creatinine clearance in patients with moderate and severe renal impairment (see section 4.2).
+
 In anuric end-stage renal disease adult subjects the half-life was approximately 25 and 3.1 hours during interdialytic and intradialytic periods, respectively.
 The fractional removal of levetiracetam was 51 % during a typical 4-hour dialysis session.
 
