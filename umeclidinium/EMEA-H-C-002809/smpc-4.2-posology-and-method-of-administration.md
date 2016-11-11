@@ -20,8 +20,8 @@ No dosage adjustment is required in patients with renal impairment (see section 
 Hepatic impairment
 No dosage adjustment is required in patients with mild or moderate hepatic impairment.
 Incruse has not been studied in patients with severe hepatic impairment and should be used with caution (see section 5.2).
-
 Paediatric population
+
 There is no relevant use of Incruse in the paediatric population (under 18 years of age) in the indication for COPD.
 
 Method of administration
@@ -78,5 +78,4 @@ The medicine may not be tasted or felt, even when using the inhaler correctly.
 c) Close the inhaler
 
 The mouthpiece of the inhaler may be cleaned using a dry tissue before closing the cover.
-
 Slide the cover upwards as far as it will go, to cover the mouthpiece.

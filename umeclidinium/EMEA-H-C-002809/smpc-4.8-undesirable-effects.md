@@ -13,7 +13,7 @@ The frequency of adverse reactions is defined using the following convention: ve
 | System Organ Class | Adverse reactions | Frequency |
 | --- | --- | --- |
 | Infections and infestations | Nasopharyngitis Upper respiratory tract infection Urinary tract infection Sinusitis Pharyngitis | Common Common Common Common Uncommon |
-| Nervous system disorders | Headache | Common |
+| Nervous system disorders | Headache Dysgeusia | Common Uncommon |
 | Cardiac disorders | Atrial fibrillation Rhythm idioventricular Supraventricular tachycardia Supraventricular extrasystoles Tachycardia | Uncommon Uncommon Uncommon Uncommon Common |
 | Respiratory, thoracic and mediastinal disorders | Cough | Common |
 | Gastrointestinal disorders | Constipation Dry mouth | Uncommon Uncommon |

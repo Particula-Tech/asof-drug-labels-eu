@@ -10,6 +10,7 @@ The steady-state pharmacokinetics of umeclidinium bromide were assessed in healt
 No effect on umeclidinium AUC or Cmax was observed at a dose 4-fold higher than the therapeutic dose.
 An approximately 1.3-fold increase in umeclidinium bromide AUC was observed at an 8-fold higher dose with no effect on umeclidinium bromide Cmax.
 Based on the magnitude of these changes, no clinically relevant drug interaction is expected when umeclidinium is co-administered with CYP2D6 inhibitors or when administered to subjects genetically deficient in CYP2D6 activity (poor metabolisers).
+
 Umeclidinium bromide is a substrate of P-glycoprotein (P-gp) transporter.
 The effect of the moderate P-gp inhibitor verapamil (240 mg once daily) on the steady-state pharmacokinetics of umeclidinium bromide was assessed in healthy volunteers.
 No effect of verapamil was observed on umeclidinium bromide Cmax.
