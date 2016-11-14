@@ -16,7 +16,7 @@ Approximate accumulation ranged from 1.4- to 8-fold following multiple as compar
 AsV is present in plasma only at relatively low levels.
 
 In vitro enzymatic studies with human liver microsomes revealed that arsenic trioxide has no inhibitory activity on substrates of the major cytochrome P450 enzymes such as 1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1, 3A4/5, 4A9/11.
-Drugs that are substrates for these P450 enzymes are not expected to interact with TRISENOX.
+Substances that are substrates for these P450 enzymes are not expected to interact with TRISENOX.
 
 Elimination
 Approximately 15% of the administered TRISENOX dose is excreted in the urine as unchanged AsIII.
@@ -26,13 +26,13 @@ The total clearance of AsIII over the single-dose range of 7-32 mg (administered
 Clearance is not dependent on the weight of the subject or the dose administered over the dose range studied.
 The mean estimated terminal elimination half-lives of the metabolites MMAV and DMAV are 32 hours and 70 hours, respectively.
 
-Renal Impairment
+Renal impairment
 Plasma clearance of AsIII was not altered in patients with mild renal impairment (creatinine clearance of 50-80 mL/min) or moderate renal impairment (creatinine clearance of 30-49 mL/min).
 The plasma clearance of AsIII in patients with severe renal impairment (creatinine clearance less than 30 mL/min) was 40% lower when compared with patients with normal renal function (see section 4.4).
 
 Systemic exposure to MMAV and DMAV tended to be larger in patients with renal impairment; the clinical consequence of this is unknown but no increased toxicity was noted.
 
-Hepatic Impairment
+Hepatic impairment
 Pharmacokinetic data from patients with hepatocellular carcinoma having mild to moderate hepatic impairment indicate that AsIII or AsV do not accumulate following twice-weekly infusions.
 No clear trend toward an increase in systemic exposure to AsIII, AsV, MMAV or DMAV was observed with decreasing level of hepatic function as assessed by dose-normalized (per mg dose) AUC.
 

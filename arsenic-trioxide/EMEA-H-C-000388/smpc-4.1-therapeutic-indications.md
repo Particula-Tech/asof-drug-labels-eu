@@ -1,6 +1,10 @@
 # 4.1 Therapeutic indications
 
-TRISENOX is indicated for induction of remission and consolidation in adult patients with relapsed/refractory acute promyelocytic leukaemia (APL), characterised by the presence of the t(15;17) translocation and/or the presence of the Pro-Myelocytic Leukaemia/Retinoic-Acid-Receptor-alpha (PML/RAR-alpha) gene.
-Previous treatment should have included a retinoid and chemotherapy.
+TRISENOX is indicated for induction of remission, and consolidation in adult patients with:
 
-The response rate of other acute myelogenous leukaemia subtypes to TRISENOX has not been examined.
+- Newly diagnosed low-to-intermediate risk acute promyelocytic leukaemia (APL) (white blood cell count, ≤ 10 x 103/µl) in combination with all-trans-retinoic acid (ATRA)
+- Relapsed/refractory acute promyelocytic leukaemia (APL)(Previous treatment should have included a retinoid and chemotherapy)
+
+characterised by the presence of the t(15;17) translocation and/or the presence of the Pro-Myelocytic Leukaemia/Retinoic-Acid-Receptor-alpha (PML/RAR-alpha) gene.
+
+The response rate of other acute myelogenous leukaemia subtypes to arsenic trioxide has not been examined.
