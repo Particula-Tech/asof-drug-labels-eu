@@ -18,10 +18,10 @@ Refer to the chewable tablet and granules for oral suspension EU-SmPCs for addit
 The maximum dose of the chewable tablet is 300 mg twice daily.
 Because the formulations are not bioequivalent, neither the chewable tablets nor the granules for oral suspension should be substituted for the 400 mg tablet (see section 5.2).
 The chewable tablets and the granules for oral suspension have not been studied in HIV-infected adolescents (12 to 18 years) or adults.
-
 Elderly
 There is limited information regarding the use of raltegravir in the elderly (see section 5.2).
 Therefore, ISENTRESS should be used with caution in this population.
+
 Renal impairment
 No dosage adjustment is required for patients with renal impairment (see section 5.2).
 
@@ -98,6 +98,10 @@ For patients weighing between 11 and 20 kg, either the granules for oral suspens
 Refer to the chewable tablet EU-SmPC for additional dosing information.
 
 After administration of the required volume from the 5 ml syringe with the dissolved suspension of raltegravir, the remaining suspended medicine cannot be re-used and should be discarded (see section 6.6).
+
+Maximum dose of oral suspension is 100 mg twice daily.
+
+Each single-use sachet contains 100 mg of raltegravir which is to be suspended in 5 ml of water giving a final concentration of 20 mg per ml.
 
 Scheduled appointments for the patient should be kept because the ISENTRESS dosage should be adjusted as the child grows.
 
