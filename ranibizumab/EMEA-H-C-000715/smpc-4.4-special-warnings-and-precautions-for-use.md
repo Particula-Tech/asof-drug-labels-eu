@@ -24,10 +24,10 @@ Immunogenicity
 There is a potential for immunogenicity with Lucentis.
 Since there is a potential for an increased systemic exposure in subjects with DME, an increased risk for developing hypersensitivity in this patient population cannot be excluded.
 Patients should also be instructed to report if an intraocular inflammation increases in severity, which may be a clinical sign attributable to intraocular antibody formation.
-
 Concomitant use of other anti-VEGF (vascular endothelial growth factor)
 
 Lucentis should not be administered concurrently with other anti-VEGF medicinal products (systemic or ocular).
+
 Withholding Lucentis
 
 The dose should be withheld and treatment should not be resumed earlier than the next scheduled treatment in the event of:
@@ -40,7 +40,7 @@ The dose should be withheld and treatment should not be resumed earlier than the
 
 Retinal pigment epithelial tear
 
-Risk factors associated with the development of a retinal pigment epithelial tear after anti-VEGF therapy for wet AMD, include a large and/or high pigment epithelial retinal detachment.
+Risk factors associated with the development of a retinal pigment epithelial tear after anti-VEGF therapy for wet AMD and potentially also other forms of CNV, include a large and/or high pigment epithelial retinal detachment.
 When initiating ranibizumab therapy, caution should be used in patients with these risk factors for retinal pigment epithelial tears.
 
 Rhegmatogenous retinal detachment or macular holes
@@ -58,7 +58,6 @@ There are insufficient data to conclude on the effect of Lucentis in patients wi
 
 In patients with PM, there are limited data on the effect of Lucentis in patients who have previously undergone unsuccessful verteporfin photodynamic therapy (vPDT) treatment.
 Also, while a consistent effect was observed in subjects with subfoveal and juxtafoveal lesions, there are insufficient data to conclude on the effect of Lucentis in PM subjects with extrafoveal lesions.
-
 Systemic effects following intravitreal use
 
 Systemic adverse events including non-ocular haemorrhages and arterial thromboembolic events have been reported following intravitreal injection of VEGF inhibitors.

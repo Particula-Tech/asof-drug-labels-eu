@@ -21,7 +21,9 @@ The treatment interval should be extended by no more than two weeks at a time fo
 For RVO, treatment intervals may also be gradually extended, however there are insufficient data to conclude on the length of these intervals.
 If disease activity recurs, the treatment interval should be shortened accordingly.
 
-In the treatment of visual impairment due to CNV secondary to PM, many patients may only need one or two injections during the first year, while some patients may need more frequent treatment (see section 5.1).
+The treatment of visual impairment due to CNV should be determined individually per patient based on disease activity.
+Some patients may only need one injection during the first 12 months; others may need more frequent treatment, including a monthly injection.
+For CNV secondary to pathologic myopia (PM), many patients may only need one or two injections during the first year (see section 5.1).
 
 Lucentis and laser photocoagulation in DME and in macular oedema secondary to BRVO
 There is some experience of Lucentis administered concomitantly with laser photocoagulation (see section 5.1).
@@ -46,7 +48,7 @@ There is limited experience in patients older than 75 years with DME.
 
 Paediatric population
 The safety and efficacy of Lucentis in children and adolescents below 18 years of age have not been established.
-No data are available.
+Available data in adolescent patients aged 12 to 17 years with visual impairment due to CNV are described in section 5.1.
 
 Method of administration
 
@@ -57,7 +59,6 @@ Since the volume contained in the vial (0.23 ml) is greater than the recommended
 Lucentis should be inspected visually for particulate matter and discoloration prior to administration.
 
 For information on preparation of Lucentis, see section 6.6.
-
 The injection procedure should be carried out under aseptic conditions, which includes the use of surgical hand disinfection, sterile gloves, a sterile drape and a sterile eyelid speculum (or equivalent) and the availability of sterile paracentesis (if required).
 The patient’s medical history for hypersensitivity reactions should be carefully evaluated prior to performing the intravitreal procedure (see section 4.4).
 Adequate anaesthesia and a broad-spectrum topical microbicide to disinfect the periocular skin, eyelid and ocular surface should be administered prior to the injection, in accordance with local practice.

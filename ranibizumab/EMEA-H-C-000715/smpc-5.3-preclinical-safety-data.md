@@ -10,7 +10,6 @@ However, evidence of reversibility was observed after recovery.
 The nature and timing of the posterior segment inflammation is suggestive of an immune-mediated antibody response, which may be clinically irrelevant.
 Cataract formation was observed in some animals after a relatively long period of intense inflammation, suggesting that the lens changes were secondary to severe inflammation.
 A transient increase in post-dose intraocular pressure was observed following intravitreal injections, irrespective of dose.
-
 Microscopic ocular changes were related to inflammation and did not indicate degenerative processes.
 Granulomatous inflammatory changes were noted in the optic disc of some eyes.
 These posterior segment changes diminished, and in some instances resolved, during the recovery period.
@@ -19,6 +18,7 @@ Following intravitreal administration, no signs of systemic toxicity were detect
 Serum and vitreous antibodies to ranibizumab were found in a subset of treated animals.
 
 No carcinogenicity or mutagenicity data are available.
+
 In pregnant monkeys, intravitreal ranibizumab treatment resulting in maximal systemic exposures 0.9-7-fold a worst case clinical exposure did not elicit developmental toxicity or teratogenicity, and had no effect on weight or structure of the placenta, although, based on its pharmacological effect ranibizumab should be regarded as potentially teratogenic and embryo-/foetotoxic.
 
 The absence of ranibizumab-mediated effects on embryo-foetal development is plausibly related mainly to the inability of the Fab fragment to cross the placenta.

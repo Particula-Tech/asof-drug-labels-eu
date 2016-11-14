@@ -80,7 +80,7 @@ Product-class-related adverse reactions
 In the wet AMD phase III studies, the overall frequency of non-ocular haemorrhages, an adverse event potentially related to systemic VEGF (vascular endothelial growth factor) inhibition, was slightly increased in ranibizumab-treated patients.
 However, there was no consistent pattern among the different haemorrhages.
 There is a theoretical risk of arterial thromboembolic events, including stroke and myocardial infarction, following intravitreal use of VEGF inhibitors.
-A low incidence rate of arterial thromboembolic events was observed in the Lucentis clinical trials in patients with AMD, DME, RVO and PM and there were no major differences between the groups treated with ranibizumab compared to control.
+A low incidence rate of arterial thromboembolic events was observed in the Lucentis clinical trials in patients with AMD, CNV, DME and RVO and there were no major differences between the groups treated with ranibizumab compared to control.
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
