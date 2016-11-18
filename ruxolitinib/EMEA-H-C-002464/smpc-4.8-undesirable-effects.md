@@ -2,6 +2,7 @@
 
 Summary of the safety profile
 The safety assessment was based on a total of 855 patients (with MF or PV) receiving Jakavi in phase 2 and 3 studies.
+
 Myelofibrosis
 In the randomised period of the two pivotal studies, COMFORT-I and COMFORT-II, the median duration of exposure to Jakavi was 10.8 months (range 0.3 to 23.5 months).
 The majority of patients (68.4%) were treated for at least 9 months.
@@ -35,9 +36,9 @@ Haematological adverse reactions (any CTCAE grade) included anaemia (43.6%) and 
 Anaemia or thrombocytopenia CTCAE grade 3 and 4 were reported in respectively 1.8% or 5.5%.
 
 The three most frequent non-haematological adverse reactions were dizziness (15.5%), constipation (8.2%) and herpes zoster (6.4%).
-
 The three most frequent non-haematological laboratory abnormalities (any CTCAE grade) were hypercholesterolaemia (30.0%), raised alanine aminotransferase (22.7%) and raised aspartate aminotransferase (20.9%).
 These were all CTCAE grade 1 and 2 with the exception of one CTCAE grade 3 raised alanine aminotransferase event.
+
 Long-term safety: Patients had a median duration of exposure to Jakavi of 18.6 months (range 0.3 to 35.9 months).
 With longer exposure, frequency of adverse events increased; however no new safety findings emerged.
 When adjusted for exposure, the adverse event rates were generally comparable with those observed during the initial study period.
@@ -69,9 +70,7 @@ Table 1 Frequency category of adverse drug reactions reported in the phase 3 stu
 | Neutropeniab |  |  |
 | CTCAEc grade 4 (<500/mm3) | Common | - |
 | CTCAEc grade 3 (<1,000 – 500/mm3) | Common | - |
-
 | Any CTCAEc grade | Very common | - |
-| --- | --- | --- |
 | Bleeding (any bleeding including intracranial, and gastrointestinal bleeding, bruising and other bleeding) | Very common | Very common |
 | Intracranial bleeding | Common | - |
 | Gastrointestinal bleeding | Common | - |

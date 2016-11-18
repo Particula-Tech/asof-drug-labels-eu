@@ -93,31 +93,29 @@ Phlebotomy eligibility was defined as a confirmed HCT of >45%, i.e. at least 3 p
 Key secondary endpoints included the proportion of patients who achieved the primary endpoint and remained free from progression at week 48, as well as the proportion of patients achieving complete haematological remission at week 32.
 
 The study met its primary objective and a higher proportion of patients in the Jakavi group achieved the primary composite endpoint and each of its individual components.
-Significantly more patients treated with Jakavi (20.9%) achieved a primary response (p<0.0001) compared to BAT (0.9%).
-Haematocrit control was achieved in 60% of patients in the Jakavi arm compared to 19.6% in the BAT arm and a ≥35% reduction in spleen volume was achieved in 38.2% of patients in the Jakavi arm compared to 0.9% in the BAT arm (Figure 1).
-94 (83.9%) patients randomised to the BAT arm crossed over to ruxolitinib treatment at Week 32 or after, limiting the comparison between the two arms after Week 32.
-
+Significantly more patients treated with Jakavi (23%) achieved a primary response (p<0.0001) compared to BAT (0.9%).
+Haematocrit control was achieved in 60% of patients in the Jakavi arm compared to 18.8% in the BAT arm and a ≥35% reduction in spleen volume was achieved in 40% of patients in the Jakavi arm compared to 0.9% in the BAT arm (Figure 1).
 Both key secondary endpoints were also met.
-The proportion of patients achieving a complete haematological remission was 23.6% on Jakavi compared to 8.9% on BAT (p=0.0028) and the proportion of patients achieving a durable primary response at week 48 was 19.1% on Jakavi and 0.9% on BAT.(p<0.0001).
+The proportion of patients achieving a complete haematological remission was 23.6% on Jakavi compared to 8.0% on BAT (p=0.0013) and the proportion of patients achieving a durable primary response at week 48 was 20% on Jakavi and 0.9% on BAT.(p<0.0001).
+
 Figure 1 Patients achieving the primary endpoint and components of the primary endpoint at week 32
 
-P-value: < .0001 Individual components of Primary
-Odds Ratio (Ruxolitinib/BAT) Response at Week 32
-
-70
-
+P value: < .0001 Individual components of primary
+70 Odds ratio (ruxolitinib/BAT) response at week 32
 and 95% CI: 60 .RUX
-60 28.64 (4.50, 12.06) .BAT
+60 32.67 (5.04, 1337)
 
+.BAT
 50
 
-38
+40
 
 40
 
 30
 
-21 20
+23
+19
 
 20
 
@@ -126,8 +124,9 @@ and 95% CI: 60 .RUX
 1 1
 
 0
-Primary Composite ≥ 35% reduction in Hematocrit control
-Endpoint at Week 32 Spleen Volume without phlebotomy
+Primary composite endpoint at ≥35% reduction in spleen Haematocrit control without
+
+week 32 volume phlebotomy
 
 Symptom burden was assessed using the MPN-SAF total symptom score (TSS) electronic patient diary, which consisted of 14 questions.
 At week 32, 49% and 64% of patients treated with ruxolitinib achieved a ≥50% reduction in TSS-14 and TSS-5, respectively, compared to only 5% and 11% of patients on BAT.

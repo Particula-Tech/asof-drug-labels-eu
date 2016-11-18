@@ -4,6 +4,7 @@ Interaction studies have only been performed in adults.
 
 Ruxolitinib is eliminated through metabolism catalysed by CYP3A4 and CYP2C9.
 Thus, medicinal products inhibiting these enzymes can give rise to increased ruxolitinib exposure.
+
 Interactions resulting in dose reduction of ruxolitinib
 CYP3A4 inhibitors
 Strong CYP3A4 inhibitors (such as, but not limited to, boceprevir, clarithromycin, indinavir, itraconazole, ketoconazole, lopinavir/ritonavir, ritonavir, mibefradil, nefazodone, nelfinavir, posaconazole, saquinavir, telaprevir, telithromycin, voriconazole)
@@ -33,7 +34,6 @@ In healthy subjects co-administration of ruxolitinib (10 mg single dose) with er
 
 No dose adjustment is recommended when ruxolitinib is co-administered with mild or moderate CYP3A4 inhibitors (e.g. erythromycin).
 However, patients should be closely monitored for cytopenias when initiating therapy with a moderate CYP3A4 inhibitor.
-
 Effects of ruxolitinib on other medicinal products
 Substances transported by P-glycoprotein or other transporters
 Ruxolitinib may inhibit P-glycoprotein and breast cancer resistance protein (BCRP) in the intestine.
@@ -41,6 +41,7 @@ This may result in increased sytemic exposure of substrates of these transporter
 Therapeutic drug monitoring (TDM) or clinical monitoring of the affected substance is advised.
 
 It is possible that the potential inhibition of P-gp and BCRP in the intestine can be minimised if the time between administrations is kept apart as long as possible.
+
 Haematopoietic growth factors
 The concurrent use of haematopoietic growth factors and Jakavi has not been studied.
 It is not known whether the Janus Associated Kinase (JAK) inhibition by Jakavi reduces the efficacy of the haematopoietic growth factors or whether the haematopoietic growth factors affect the efficacy of Jakavi (see section 4.4).

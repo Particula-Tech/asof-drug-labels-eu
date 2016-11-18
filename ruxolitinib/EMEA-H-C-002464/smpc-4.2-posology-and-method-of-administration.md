@@ -41,6 +41,7 @@ No specific dose adjustment is needed in patients with mild or moderate renal im
 In patients with severe renal impairment (creatinine clearance less than 30 ml/min) the recommended starting dose based on platelet count for MF patients should be reduced by approximately 50% to be administered twice daily.
 The recommended starting dose for PV patients with severe renal impairment is 5 mg twice daily.
 Patients should be carefully monitored with regard to safety and efficacy during Jakavi treatment.
+
 There are limited data to determine the best dosing options for patients with end-stage renal disease (ESRD) on haemodialysis.
 Pharmacokinetic/pharmacodynamic simulations based on available data in this population suggest that the starting dose for MF patients with ESRD on haemodialysis is a single dose of 15-20 mg or two doses of 10 mg given 12 hours apart, to be administered post-dialysis and only on the day of haemodialysis.
 A single dose of 15 mg is recommended for MF patients with platelet count between 100,000/mm3 and 200,000/mm3.

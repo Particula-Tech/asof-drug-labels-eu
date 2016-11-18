@@ -7,11 +7,11 @@ Based on a human mass balance study, oral absorption of ruxolitinib, as ruxoliti
 Mean ruxolitinib Cmax and total exposure (AUC) increased proportionally over a single dose range of 5-200 mg.
 There was no clinically relevant change in the pharmacokinetics of ruxolitinib upon administration with a high-fat meal.
 The mean Cmax was moderately decreased (24%) while the mean AUC was nearly unchanged (4% increase) on dosing with a high-fat meal.
-
 Distribution
 The mean volume of distribution at steady state is approximately 75 litres in MF and PV patients.
 At clinically relevant concentrations of ruxolitinib, binding to plasma proteins in vitro is approximately 97%, mostly to albumin.
 A whole body autoradiography study in rats has shown that ruxolitinib does not penetrate the blood-brain barrier.
+
 Biotransformation
 Ruxolitinib is mainly metabolised by CYP3A4 (>50%), with additional contribution from CYP2C9.
 Parent compound is the predominant entity in human plasma, representing approximately 60% of the drug-related material in circulation.
@@ -47,7 +47,6 @@ However, plasma AUC values of ruxolitinib metabolites tended to increase with in
 It is unknown whether the increased metabolite exposure is of safety concern.
 A dose modification is recommended in patients with severe renal impairment and end-stage renal disease (see section 4.2).
 Dosing only on dialysis days reduces the metabolite exposure, but also the pharmacodynamic effect, especially on the days between dialysis.
-
 Hepatic impairment
 Following a single ruxolitinib dose of 25 mg in patients with varying degrees of hepatic impairment, the mean AUC for ruxolitinib was increased in patients with mild, moderate and severe hepatic impairment by 87%, 28% and 65%, respectively, compared to patients with normal hepatic function.
 There was no clear relationship between AUC and the degree of hepatic impairment based on Child-Pugh scores.
