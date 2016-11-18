@@ -28,6 +28,11 @@ Persistent intolerability
 While adverse reactions like diarrhoea, nausea, abdominal pain and headache mainly occur within the first weeks of therapy and mostly resolve on continued treatment, roflumilast treatment should be reassessed in case of persistent intolerability.
 This might be the case in special populations that may have higher exposure, such as in black, non-smoking females (see section 5.2) or in patients concomitantly treated with CYP1A2/ 2C19/3A4 inhibitors (such as fluvoxamine and cimetidine) or the CYP1A2/3A4 inhibitor enoxacin (see section 4.5).
 
+Body weight <60 kg
+Treatment with roflumilast may lead to a higher risk of sleep disorders (mainly insomnia) in patients
+with a baseline body weight of <60 kg, due to a higher total PDE4 inhibitory activity found in these
+patients (see section 4.8).
+
 Theophylline
 There are no clinical data to support the concomitant treatment with theophylline for maintenance therapy.
 Therefore, the concomitant treatment with theophylline is not recommended.

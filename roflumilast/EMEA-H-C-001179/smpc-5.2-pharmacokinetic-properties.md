@@ -34,18 +34,20 @@ The plasma clearance after short-term intravenous infusion of roflumilast is abo
 Following an oral dose, the median plasma effective half-life of roflumilast and its N-oxide metabolite are approximately 17 and 30 hours, respectively.
 Steady state plasma concentrations of roflumilast and its N-oxide metabolite are reached after approximately 4 days for roflumilast and 6 days for roflumilast N-oxide following once-daily dosing.
 Following intravenous or oral administration of radiolabeled roflumilast, about 20% of the radioactivity was recovered in the faeces and 70% in urine as inactive metabolites.
-
 Linearity/Non-linearity
 The pharmacokinetics of roflumilast and its N-oxide metabolite are dose-proportional over a range of doses from 250 micrograms to 1,000 micrograms.
 
 Special populations
-
 In older people, females and in non-Caucasians, total PDE4 inhibitory activity was increased.
 Total PDE4 inhibitory activity was slightly decreased in smokers.
 None of these changes were considered to be clinically meaningful.
 No dose adjustment is recommended in these patients.
 A combination of factors, such as in black, non-smoking females, might lead to an increase of exposure and persistent intolerability.
 In this case, roflumilast treatment should be reassessed (see section 4.4).
+
+In study RO-2455-404-RD when compared with the overall population, the total PDE4 inhibitory
+activity determined from ex vivo unbound fractions was found to be 15% higher in patients ≥75 years
+of age, and 11% higher in patients with baseline body weight <60 kg (refer to section 4.4).
 
 Renal impairment
 Total PDE4 inhibitory activity decreased by 9% in patients with severe renal impairment (creatinine clearance 10-30 ml/min).

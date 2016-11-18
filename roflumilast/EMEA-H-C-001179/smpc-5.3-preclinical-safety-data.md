@@ -1,6 +1,7 @@
 # 5.3 Preclinical safety data
 
 There is no evidence for an immunotoxic, skin sensitising or phototoxic potential.
+
 A slight reduction in male fertility was seen in conjunction with epididymal toxicity in rats.
 No epididymal toxicity or changes in semen parameters were present in any other rodent or non-rodent species including monkeys in spite of higher exposures.
 

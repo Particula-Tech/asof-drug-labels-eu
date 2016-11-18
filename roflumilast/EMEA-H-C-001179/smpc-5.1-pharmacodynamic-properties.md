@@ -14,7 +14,6 @@ Inhibition of PDE4 leads to elevated intracellular cAMP levels and mitigates COP
 Upon in vitro stimulation of human neutrophils, monocytes, macrophages or lymphocytes, roflumilast and roflumilast N-oxide suppress the release of inflammatory mediators e.g. leukotriene B4, reactive oxygen species, tumor necrosis factor α, interferon γ and granzyme B.
 In patients with COPD, roflumilast reduced sputum neutrophils.
 Furthermore, roflumilast attenuated influx of neutrophils and eosinophils into the airways of endotoxin challenged healthy volunteers.
-
 Clinical efficacy and safety
 In two confirmative replicate one-year studies (M2-124 and M2-125) and two supplementary six-month studies (M2-127 and M2-128), a total number of 4,768 patients were randomized and treated of whom 2,374 were treated with roflumilast.
 The design of the studies was parallel-group, double-blind and placebo-controlled.
@@ -48,7 +47,59 @@ Both studies included moderate to severe patients with a non-reversible airway o
 Roflumilast or placebo treatment was added to continuous treatment with a long-acting bronchodilator, in particular salmeterol in study M2-127 or tiotropium in study M2-128.
 In the two six-month studies, pre-bronchodilator FEV1 was significantly improved by 49 ml (primary endpoint, p<0.0001) beyond the bronchodilator effect of concomitant treatment with salmeterol in study M2-127 and by 80 ml (primary endpoint, p<0.0001) incremental to concomitant treatment with tiotropium in study M2-128.
 
-No study has been conducted to compare roflumilast to the combination of LABA plus inhaled corticosteroids or on top of the combination of LABA plus inhaled corticosteroids.
+Study RO-2455-404-RD was a one year study in COPD patients with a baseline (pre-bronchodilator)
+FEV1 <50% of predicted normal and a history of frequent exacerbations. The study assessed the effect
+of roflumilast on COPD exacerbation rate in patients treated with fixed combinations of LABA and
+inhaled corticosteroids, compared to placebo. A total of 1935 patients were randomised to double-
+blind medication and approximately 70% were also using a long-acting muscarinic antagonist
+(LAMA) through the course of the trial. The primary endpoint was reduction in rate of moderate or
+severe COPD exacerbations per patient per year. The rate of severe COPD exacerbations and changes
+in FEV1 were evaluated as key secondary endpoints.
+
+Table 2.
+Summary of COPD exacerbation endpoints in Study RO-2455-404-RD
+
+Roflumilast Placebo Ratio Roflumilast/Placebo
+Exacerbation Analysis (N=969) (N=966) Rate Change 2-Sided
+Category model Rate (n) Rate (n) Ratio (%) 95% CI p-value
+Moderate or Poisson 0.805 0.927 0.753,
+0.868 -13.2 0.0529
+severe regression (380) (432) 1.002
+Moderate Poisson 0.574 0.627 0.775,
+0.914 -8.6 0.2875
+regression (287) (333) 1.078
+Severe Negative 0.239 0.315
+0.601,
+binomial (151) (192) 0.757 -24.3 0.0175
+0.952
+regression
+There was a trend towards a reduction in moderate or severe exacerbations in subjects treated with
+roflumilast compared with placebo over 52 weeks, which did not achieve statistical significance
+(Table 2). A pre-specified sensitivity analysis using the negative binomial regression model treatment
+showed a statistically significant difference of -14.2% (rate ratio: 0.86; 95% CI: 0.74 to 0.99).
+
+The per-protocol Poisson regression analysis and the non-significant sensitivity to drop-out Poisson regression intention-to-treat analysis rate ratios were 0.81 (95% CI: 0.69 to 0.94) and 0.89 (95% CI: 0.77 to 1.02), respectively.
+
+Reductions were achieved in the subgroup of patients concomitantly treated with LAMA (rate ratio:
+0.88; 95% CI: 0.75 to 1.04) and in the subgroup not treated with LAMA (rate ratio: 0.83; 95% CI: 0.62
+to 1.12).
+
+The rate of severe exacerbations was reduced in the overall patient group (rate ratio: 0.76; 95% CI: 0.60 to 0.95) with a rate of 0.24 per patient/year compared to a rate of 0.32 per patient/year in patients treated with placebo.
+A similar reduction was achieved in the subgroup of patients concomitantly treated with LAMA (rate ratio: 0.77; 95% CI: 0.60 to 0.99) and in the subgroup not treated with LAMA (rate ratio: 0.71; 95% CI: 0.42 to 1.20).
+
+Roflumilast improved lung function after 4 weeks (sustained over 52 weeks).
+Post-bronchodilator FEV1 increased for the roflumilast group by 52 mL (95% CI: 40, 65 mL) and decreased for the placebo group by 4 mL (95% CI: -16, 9 mL).
+Post-bronchodilator FEV1 showed a clinically significant improvement in favour of Roflumilast by 56 mL over placebo (95% CI: 38, 73 mL).
+
+Seventeen (1.8%) patients in the roflumilast group and 18 (1.9%) patients in the placebo group died
+during the double-blind treatment period due to any reason and 7 (0.7%) patients in each group due to
+a COPD exacerbation. The proportion of patients who experienced at least 1 adverse event during the
+double-blind treatment period were 648 (66.9%) patients and 572 (59.2%) patients in the roflumilast
+and placebo groups, respectively. The observed adverse reactions for roflumilast in Study RO-2455-
+404-RD were in line with those already included in section 4.8.
+More patients in the roflumilast group (27.6%) than placebo (19.8%) withdrew study medication due
+to any reason (risk ratio: 1.40; 95%CI: 1.19 to 1.65). The major reasons for trial discontinuation were
+withdrawal of consent and reported adverse events.
 
 Paediatric population
 The European Medicines Agency has waived the obligation to submit the results of studies with roflumilast in all subsets of the paediatric population in chronic obstructive pulmonary disease (see section 4.2 for information on paediatric use).

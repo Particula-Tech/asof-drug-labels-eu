@@ -6,7 +6,7 @@ A major step in roflumilast metabolism is the N-oxidation of roflumilast to rofl
 Both roflumilast and roflumilast N-oxide have intrinsic phosphodiesterase-4 (PDE4) inhibitory activity.
 Therefore, following administration of roflumilast, the total PDE4 inhibition is considered to be the combined effect of both roflumilast and roflumilast N-oxide.
 Interaction studies with CYP1A2/3A4 inhibitor enoxacin and the CYP1A2/2C19/3A4 inhibitors cimetidine and fluvoxamine, resulted in increases of the total PDE4 inhibitory activity of 25%, 47% and 59%, respectively.
-The tested dose of fluxoxamine was 50 mg.
+The tested dose of fluvoxamine was 50 mg.
 A combination of roflumilast with these active substances might lead to an increase of exposure and persistent intolerability.
 In this case, roflumilast treatment should be reassessed (see section 4.4).
 

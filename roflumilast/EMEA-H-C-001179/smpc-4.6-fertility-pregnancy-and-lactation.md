@@ -6,6 +6,7 @@ Roflumilast is not recommended in women of childbearing potential not using cont
 
 Pregnancy
 There are limited amount of data from the use of roflumilast in pregnant women.
+
 Studies in animals have shown reproductive toxicity (see section 5.3).
 Roflumilast is not recommended during pregnancy.
 
