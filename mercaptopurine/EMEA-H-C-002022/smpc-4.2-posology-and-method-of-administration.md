@@ -1,6 +1,6 @@
 # 4.2 Posology and method of administration
 
-Xaluprine treatment should be supervised by a physician or other healthcare professional experienced in the management of patients with ALL.
+Xaluprine treatment should be supervised by a physician or other healthcare professionals experienced in the management of patients with ALL.
 
 Posology
 The dose is governed by cautiously monitored haematotoxicity and the dose should be carefully adjusted to suit the individual patient in accordance with the employed treatment protocol.
@@ -8,7 +8,7 @@ Depending on phase of treatment, starting or target doses generally vary between
 
 | 25 mg/m2 |  |  | 50 mg/m2 |  |  | 75 mg/m2 |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| BSA (m2) | Dose (mg) | Volume (ml) | BSA (m2) | Dose (mg) | Volum e (ml) | BSA (m2) | Dose (mg) | Volum e (ml) |
+| BSA (m2) | Dose (mg) | Volume (ml) | BSA (m2) | Dose (mg) | Volume (ml) | BSA (m2) | Dose (mg) | Volume (ml) |
 | 0.20 - 0.29 | 6 | 0.3 | 0.20 - 0.23 | 10 | 0.5 | 0.20 - 0.23 | 16 | 0.8 |
 | 0.30 - 0.36 | 8 | 0.4 | 0.24 – 0.26 | 12 | 0.6 | 0.24 - 0.26 | 20 | 1.0 |
 | 0.37 - 0.43 | 10 | 0.5 | 0.27 - 0.29 | 14 | 0.7 | 0.27 - 0.34 | 24 | 1.2 |
@@ -23,7 +23,7 @@ Depending on phase of treatment, starting or target doses generally vary between
 | 1.34 - 1.49 | 36 | 1.8 | 0.83 - 0.90 | 44 | 2.2 | 0.76 - 0.81 | 60 | 3.0 |
 | 1.50 - 1.64 | 40 | 2.0 | 0.91 - 0.98 | 48 | 2.4 | 0.82 - 0.86 | 64 | 3.2 |
 | 1.65 - 1.73 | 44 | 2.2 | 0.99 - 1.06 | 52 | 2.6 | 0.87 - 0.92 | 68 | 3.4 |
-|  |  |  | 1.07 - 1.13 | 56 | 2.8 | 0.93 -0.97 | 72 | 3.6 |
+|  |  |  | 1.07 - 1.13 | 56 | 2.8 | 0.93 - 0.97 | 72 | 3.6 |
 |  |  |  | 1.14 - 1.22 | 60 | 3.0 | 0.98 - 1.03 | 76 | 3.8 |
 |  |  |  | 1.23 - 1.31 | 64 | 3.2 | 1.04 - 1.08 | 80 | 4.0 |
 |  |  |  | 1.32 - 1.38 | 68 | 3.4 | 1.09 - 1.13 | 84 | 4.2 |
@@ -39,33 +39,33 @@ Depending on phase of treatment, starting or target doses generally vary between
 |  |  |  |  |  |  | 1.63 - 1.67 | 124 | 6.2 |
 |  |  |  |  |  |  | 1.68 - 1.73 | 128 | 6.4 |
 
-6–mercaptopurine is metabolised by the polymorphic TPMT enzyme.
+6-mercaptopurine is metabolised by the polymorphic TPMT enzyme.
 Patients with little or no inherited TPMT activity are at increased risk for severe toxicity from conventional doses of mercaptopurine and generally require substantial dose reduction.
 TPMT genotyping or phenotyping can be used to identify patients with absent or reduced TPMT activity.
 TPMT testing cannot substitute for haematological monitoring in patients receiving Xaluprine.
 The optimal starting dose for homozygous deficient patients has not been established (see section 4.4).
 Special populations
-Dose in the elderly
+Elderly
 No specific studies have been carried out in the elderly.
 However, it is advisable to monitor renal and hepatic function in these patients, and if there is any impairment, consideration should be given to reducing the Xaluprine dose.
 
-Dose in renal impairment
-Since 6–mercaptopurine pharmacokinetics has not been formally studied in renal impairment, no specific dose recommendations can be given.
+Renal impairment
+Since 6-mercaptopurine pharmacokinetics has not been formally studied in renal impairment, no specific dose recommendations can be given.
 Since impaired renal function may result in slower elimination of mercaptopurine and its metabolites and therefore a greater cumulative effect, consideration should be given to reduced starting doses in patients with impaired renal function.
 Patients should be closely monitored for dose related adverse reactions.
 
-Dose in hepatic impairment
-Since 6–mercaptopurine pharmacokinetics has not been formally studied in hepatic impairment, no specific dose recommendations can be given.
+Hepatic impairment
+Since 6-mercaptopurine pharmacokinetics has not been formally studied in hepatic impairment, no specific dose recommendations can be given.
 Since there is a potential for reduced elimination of mercaptopurine, consideration should be given to reduced starting doses in patients with impaired hepatic function.
 Patients should be closely monitored for dose related adverse reactions (see section 4.4).
 
 Switching between tablet and oral suspension and vice versa
-A tablet form of 6–mercaptopurine is also available.
+A tablet form of 6-mercaptopurine is also available.
 The 6-mecaptopurine oral suspension and tablet are not bioequivalent with respect to peak plasma concentration, and therefore intensified haematological monitoring of the patient is advised on switching formulations (see section 5.2).
 
 Combination with xanthine oxidase inhibitors
 Allopurinol and other xanthine oxidase inhibitors decrease the rate of catabolism of 6-mercaptopurine.
-When allopurinol and 6–mercaptopurine are administered concomitantly it is essential that only a quarter of the usual dose of 6–mercaptopurine is given.
+When allopurinol and 6-mercaptopurine are administered concomitantly it is essential that only a quarter of the usual dose of 6-mercaptopurine is given.
 Other xanthine oxidase inhibitors should be avoided (see section 4.5).
 
 Method of administration
@@ -78,7 +78,7 @@ Xaluprine may be taken with food or on an empty stomach, but patients should sta
 The dose should not be taken with milk or dairy products (see section 4.5).
 Xaluprine should be taken at least 1 hour before or 2 hours after milk or dairy products.
 
-6–mercaptopurine displays diurnal variation in pharmacokinetics and efficacy.
+6-mercaptopurine displays diurnal variation in pharmacokinetics and efficacy.
 Administration in the evening compared to morning administration may lower the risk of relapse.
 Therefore the daily dose of Xaluprine should be taken in the evening.
 

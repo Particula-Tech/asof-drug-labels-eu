@@ -2,7 +2,7 @@
 
 Xanthan gum
 Aspartame (E951)
-Concentrated Raspberry juice
+Concentrated raspberry juice
 Sucrose
 Sodium methyl parahydroxybenzoate (E219)
 Sodium ethyl parahydroxybenzoate (E215)

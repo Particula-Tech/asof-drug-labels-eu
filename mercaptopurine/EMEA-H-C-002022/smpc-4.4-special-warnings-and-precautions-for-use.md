@@ -1,18 +1,18 @@
 # 4.4 Special warnings and precautions for use
 
 Cytotoxicity and haematological monitoring
-Treatment with 6–mercaptopurine causes bone marrow suppression leading to leucopenia and thrombocytopenia and, less frequently, to anaemia.
+Treatment with 6-mercaptopurine causes bone marrow suppression leading to leucopenia and thrombocytopenia and, less frequently, to anaemia.
 Careful monitoring of haematological parameters should be conducted during therapy.
 The leucocyte and platelet counts continue to fall after treatment is stopped, so at the first sign of an abnormally large fall in the counts, treatment should be interrupted immediately.
-Bone marrow suppression is reversible if 6–mercaptopurine is withdrawn early enough.
+Bone marrow suppression is reversible if 6-mercaptopurine is withdrawn early enough..
 
-There are individuals with an inherited deficiency of the TPMT enzyme activity who are very sensitive to the myelosuppresive effect of 6–mercaptopurine and prone to developing rapid bone marrow depression following the initiation of treatment with 6–mercaptopurine.
+There are individuals with an inherited deficiency of the TPMT enzyme activity who are very sensitive to the myelosuppresive effect of 6-mercaptopurine and prone to developing rapid bone marrow depression following the initiation of treatment with 6-mercaptopurine.
 This problem could be exacerbated by coadministration with active substances that inhibit TPMT, such as olsalazine, mesalazine or sulfasalazine.
 Some laboratories offer testing for TPMT deficiency, although these tests have not been shown to identify all patients at risk of severe toxicity.
 Therefore close monitoring of blood counts is necessary.
 Substantial dose reductions are generally required for homozygous-TPMT deficiency patients to avoid the development of life threatening bone marrow suppression.
 
-A possible association between decreased TPMT activity and secondary leukaemias and myelodysplasia has been reported in individuals receiving 6–mercaptopurine in combination with other cytotoxics (see section 4.8).
+A possible association between decreased TPMT activity and secondary leukaemias and myelodysplasia has been reported in individuals receiving 6-mercaptopurine in combination with other cytotoxics (see section 4.8).
 
 Immunosuppression
 Immunisation using a live organism vaccine has the potential to cause infection in immunocompromised hosts.
@@ -28,22 +28,34 @@ During remission induction when rapid cell lysis is occurring, uric acid levels 
 Hydration and urine alkalinisation may minimize potential renal complications.
 
 Pancreatitis in off-label treatment of patients with inflammatory bowel disease
-Pancreatitis has been reported to occur at a frequency of ≥ 1/100 to < 1/10 (“common”) in patients treated for inflammatory bowel disease.
+Pancreatitis has been reported to occur at a frequency of ≥ 1/100 to < 1/10 (“common”) in patients treated for the unlicensed indication inflammatory bowel disease.
 
 Mutagenicity and carcinogenicity
-Increases in chromosomal aberrations were observed in the peripheral lymphocytes of leukaemic patients, in a renal cell carcinoma patient who received an unstated dose of 6–mercaptopurine and in patients with chronic renal disease treated at doses of 0.4 – 1.0 mg/kg/day.
+Patients receiving immunosuppressive therapy, including mercaptopurine, are at an increased risk of developing lymphoproliferative disorders and other malignancies, notably skin cancers (melanoma and non-melanoma), sarcomas (Kaposi's and non-Kaposi's) and uterine cervical cancer in situ.
+The increased risk appears to be related to the degree and duration of immunosuppression.
+It has been reported that discontinuation of immunosuppression may provide partial regression of the lymphoproliferative disorder.
+A treatment regimen containing multiple immunosuppressants (including thiopurines) should therefore be used with caution as this could lead to lymphoproliferative disorders, some with reported fatalities.
+A combination of multiple immunosuppressants, given concomitantly increases the risk of Epstein-Barr virus (EBV)-associated lymphoproliferative disorders.
 
-In view of its action on cellular deoxyribonucleic acid (DNA) 6–mercaptopurine is potentially carcinogenic and consideration should be given to the theoretical risk of carcinogenesis with this treatment.
+Increases in chromosomal aberrations were observed in the peripheral lymphocytes of leukaemic patients, in a renal cell carcinoma patient who received an unstated dose of 6-mercaptopurine and in patients with chronic renal disease treated at doses of 0.4 – 1.0 mg/kg/day.
+
+In view of its action on cellular deoxyribonucleic acid (DNA) 6-mercaptopurine is potentially carcinogenic and consideration should be given to the theoretical risk of carcinogenesis with this treatment.
+
 Hepatosplenic T-cell lymphoma has been reported in patients with inflammatory bowel disease* treated with azathioprine (the prodrug to 6-mercaptopurine) or 6-mercaptopurine, either with or without concomitant treatment with anti-TNF alpha antibody.
-This rare type of T cell lymphoma has an aggressive disease course and is usually fatal (see also Section 4.8).
+This rare type of T cell lymphoma has an aggressive disease course and is usually fatal (see also section 4.8).
 *inflammatory bowel disease (IBD) is an unlicensed indication
+
+Macrophage activation syndrome
+Macrophage activation syndrome (MAS) is a known, life-threatening disorder that may develop in patients with autoimmune conditions, in particular with inflammatory bowel disease (IBD) (unlicensed indication), and there could potentially be an increased susceptibility for developing the condition with the use of mercaptopurine.
+If MAS occurs, or is suspected, evaluation and treatment should be started as early as possible, and treatment with mercaptopurine should be discontinued.
+Physicians should be attentive to symptoms of infection such as EBV and cytomegalovirus (CMV), as these are known triggers for MAS.
 
 Paediatric population
 Cases of symptomatic hypoglycaemia have been reported in children with ALL receiving 6-mercaptopurine (see section 4.8).
 The majority of reported cases were in children under the age of six or with a low body mass index.
 
 Interactions
-When oral anticoagulants are coadministered with 6–mercaptopurine, a reinforced monitoring of INR (International Normalised Ratio) is recommended (see section 4.5).
+When oral anticoagulants are coadministered with 6-mercaptopurine, a reinforced monitoring of INR (International Normalised Ratio) is recommended (see section 4.5).
 
 Excipients
 This medicinal product contains aspartame (E951), a source of phenylalanine.
