@@ -234,6 +234,7 @@ PFS rate at 12 months and 95% CI: 18% (14, 23)
 
 Nivolumab+ipilimumab vs ipilimumab (primary analysis) - HR (99.5% CI): 0.42 (0.32, 0.56); p-value: <0.0001 Nivolumab vs ipilimumab (primary analysis) - HR (99.5% CI): 0.55 (0.42, 0.73); p-value: <0.0001 Nivolumab+ipilimumab vs nivolumab (descriptive analysis) - HR (95% CI): 0.76 (0.62, 0.95)
 Figure 3: Progression-free survival by PD-L1 expression: 5% cutoff (CA209067)
+
 PD-L1 expression < 5%
 
 Progression Free Survival (Months)
@@ -271,6 +272,7 @@ Nivolumab+Ipilimumab vs. Ipilimumab - hazard ratio: 0.35 (0.22, 0.55)
 Nivolumab vs. Ipilimumab - hazard ratio: 0.41 (0.27, 0.62)
 Nivolumab+Ipilimumab vs. Nivolumab - hazard ratio: 0.87 (0.54, 1.41)
 Figure 4: Progression-free survival by PD-L1 expression: 1% cutoff (CA209067)
+
 PD-L1 expression < 1%
 
 Progression Free Survival (Months)
@@ -305,12 +307,24 @@ Ipilimumab
 Nivolumab+Ipilimumab vs. Ipilimumab - hazard ratio: 0.42 (0.31, 0.55)
 Nivolumab vs. Ipilimumab - hazard ratio: 0.44 (0.34, 0.58)
 Nivolumab+Ipilimumab vs. Nivolumab - hazard ratio: 0.94 (0.69, 1.28)
-Table 5: Objective response (CA209067)
+Table 5: Objective response (CA209067) nivolumab +
 
-| nivolumab + ipilimumab (n=314) | nivolumab (n=316) | ipilimumab (n=315) |
-| --- | --- | --- |
-| Objective response 181 (58%) (95% CI) (52.0, 63.2) Odds ratio (vs. ipilimumab) 6.09 (99.5% CI) (3.59, 10.33) p-value p<0.0001 Complete response (CR) 38 (12%) Partial response (PR) 143 (46%) Stable disease (SD) 41 (13%) Median duration of response Months (range) Not reached (0+ - 24+) ORR (95% CI) by tumour PD-L1 expression level | 138 (44%) (38.1, 49.3) 3.40 (2.02, 5.72) p<0.0001 31 (10%) 107 (34%) 33 (10%) | 60 (19%) (14.9, 23.8) 7 (2%) 53 (17%) 69 (22%) |
-|  | 22.3 (0+ - 23+) | 14.4 (1.4 - 22.3+) |
+ipilimumab nivolumab ipilimumab
+(n=314) (n=316) (n=315)
+Objective response 181 (58%) 138 (44%) 60 (19%)
+(95% CI) (52.0, 63.2) (38.1, 49.3) (14.9, 23.8)
+Odds ratio (vs. ipilimumab) 6.09 3.40
+(99.5% CI) (3.59, 10.33) (2.02, 5.72)
+p-value p<0.0001 p<0.0001
+Complete response (CR) 38 (12%) 31 (10%) 7 (2%)
+Partial response (PR) 143 (46%) 107 (34%) 53 (17%)
+Stable disease (SD) 41 (13%) 33 (10%) 69 (22%)
+
+Median duration of response
+
+Months (range) Not reached (0+ - 24+) 22.3 (0+ - 23+) 14.4 (1.4 - 22.3+)
+
+ORR (95% CI) by tumour PD-L1 expression level
 
 55% (47.8, 61.6) 41% (34.6, 48.4) 18% (12.8, 23.8)
 <5% n=210 n=208 n=202
@@ -490,22 +504,13 @@ Events (%) 190 (65.1%) 223 (76.9%)
 Hazard ratioa 0.73
 (95.92% CI) (0.59, 0.89)
 p-valueb 0.0015
-12.19 (9.66, 14.98) 9.36 (8.05, 10.68)
-
-Median (95% CI)months
-
-50.5 (44.6, 56.1) 39.0 (33.3, 44.6)
-
-Rate (95% CI) at 12 months
-
+Median (95% CI)months 12.19 (9.66, 14.98) 9.36 (8.05, 10.68)
+Rate (95% CI) at 12 months 50.5 (44.6, 56.1) 39.0 (33.3, 44.6)
 Confirmed objective response 56 (19.2%) 36 (12.4%)
 (95% CI) (14.8, 24.2) (8.8, 16.8)
 Odds ratio (95% CI) 1.68 (1.07, 2.64)
 p-value 0.0246
-4 (1.4%) 1 (0.3%)
-
-Complete response (CR)
-
+Complete response (CR) 4 (1.4%) 1 (0.3%)
 Partial response (PR) 52 (17.8%) 35 (12.1%)
 Stable disease (SD) 74 (25.3%) 122 (42.1%)
 
@@ -523,13 +528,10 @@ Events 234 (80.1%) 245 (84.5%)
 Hazard ratio 0.92
 95% CI (0.77, 1.11)
 p-value 0.3932
-2.33 (2.17, 3.32) 4.21 (3.45, 4.86)
+Median (95% CI) (months) 2.33 (2.17, 3.32) 4.21 (3.45, 4.86)
+Rate (95% CI) at 12 months 18.5 (14.1, 23.4) 8.1 (5.1, 12.0)
 
-Median (95% CI) (months)
-
-18.5 (14.1, 23.4) 8.1 (5.1, 12.0)
-
-Rate (95% CI) at 12 months a Derived from a stratified proportional hazards model.
+a Derived from a stratified proportional hazards model.
 b P-value is derived from a log-rank test stratified by prior maintenance therapy and line of therapy; the corresponding O’Brien-Fleming efficacy boundary significance level is 0.0408.
 “+” Denotes a censored observation.
 
@@ -543,11 +545,27 @@ Comparable to the overall population, median duration of response was increased 
 Table 8 summarizes results of ORR and OS by tumour PD-L1 expression.
 Table 8: ORR and OS by tumour PD-L1 expression (CA209057)
 
-| PD-L1 Expression | nivolumab docetaxel |  |
-| --- | --- | --- |
-|  | ORR by tumour PD-L1 expression | Odds Ratio (95% CI) |
-| <1% ≥1% ≥1% to <10%a ≥10% to <50%a ≥50%a | 10/108 (9.3%) 15/101 (14.9%) 95% CI: 4.5, 16.4 95% CI: 8.6, 23.3 38/123 (30.9%) 15/123 (12.2%) 95% CI: 22.9, 39.9 95% CI: 7.0, 19.3 6/37 (16.2%) 5/ 44 (11.4%) 95% CI: 6.2, 32.0 95% CI: 3.8, 24.6 5/20 (25.0%) 7/33 (21.2%) 95% CI: 8.7, 49.1 95% CI: 9.0, 38.9 27/66 (40.9%) 3/46 (6.5%) 95% CI: 29.0, 53.7 95% CI: 1.4, 17.9 | 0.59 (0.22, 1.48) 3.22 (1.60, 6.71) 1.51 (0.35, 6.85) 1.24 (0.26, 5.48) 9.92 (2.68, 54.09) |
-|  | OS by tumour PD-L1 expression Number of events (number of patients) | Unstratified Hazard Ratio (95% CI) |
+PD-L1 Expression nivolumab docetaxel
+
+ORR by tumour PD-L1 expression
+Odds Ratio (95% CI)
+
+<1% 10/108 (9.3%) 15/101 (14.9%) 0.59 (0.22, 1.48)
+95% CI: 4.5, 16.4 95% CI: 8.6, 23.3
+≥1% 38/123 (30.9%) 15/123 (12.2%) 3.22 (1.60, 6.71)
+95% CI: 22.9, 39.9 95% CI: 7.0, 19.3
+≥1% to <10%a 6/37 (16.2%) 5/ 44 (11.4%) 1.51 (0.35, 6.85)
+95% CI: 6.2, 32.0 95% CI: 3.8, 24.6
+≥10% to <50%a 5/20 (25.0%) 7/33 (21.2%) 1.24 (0.26, 5.48)
+95% CI: 8.7, 49.1 95% CI: 9.0, 38.9
+≥50%a 27/66 (40.9%) 3/46 (6.5%) 9.92 (2.68, 54.09)
+95% CI: 29.0, 53.7 95% CI: 1.4, 17.9
+
+OS by tumour PD-L1 expression
+
+Number of events (number of patients) Unstratified Hazard
+
+Ratio (95% CI)
 
 <1% 77 (108) 75 (101) 0.90 (0.66, 1.24)
 ≥1% 68 (123) 93 (123) 0.59 (0.43, 0.82)
@@ -569,6 +587,7 @@ The study included patients (18 years or older) who have experienced disease pro
 Patients had to have a Karnofsky Performance Score (KPS) ≥70%.
 This study included patients regardless of their tumour PD-L1 status.
 Patients with any history of or concurrent brain metastases, prior treatment with an mammalian target of rapamycin (mTOR) inhibitor, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the study.
+
 A total of 821 patients were randomised to receive either nivolumab 3 mg/kg (n=410) administered intravenously over 60 minutes every 2 weeks or everolimus (n=411) 10 mg daily, administered orally.
 Treatment was continued as long as clinical benefit was observed or until treatment was no longer tolerated.
 The first tumour assessments were conducted 8 weeks after randomisation and continued every 8 weeks thereafter for the first year and then every 12 weeks until progression or treatment discontinuation, whichever occurred later.
@@ -576,6 +595,7 @@ Tumour assessments were continued after treatment discontinuation in patients wh
 Treatment beyond initial investigator-assessed RECIST, version 1.1-defined progression was permitted if the patient had a clinical benefit and was tolerating study drug as determined by the investigator.
 The primary efficacy outcome measure was OS.
 Secondary efficacy assessments included investigator-assessed ORR and PFS.
+
 Baseline characteristics were generally balanced between the two groups.
 The median age was 62 years (range: 18-88) with 40% ≥65 years of age and 9% ≥75 years of age.
 The majority of patients were male (75%) and white (88%), all Memorial Sloan Kettering Cancer Center (MSKCC) risk groups were represented, and 34% and 66% of patients had a baseline KPS of 70 to 80% and 90 to 100%, respectively.
@@ -639,6 +659,7 @@ p-value 0.1135
 Median (95% CI) 4.6 (3.71, 5.39) 4.4 (3.71, 5.52)
 
 “+” denotes a censored observation.
+NE = non-estimable
 
 The median time to onset of objective response was 3.5 months (range: 1.4-24.8 months) after the start of nivolumab treatment.
 Fourty-nine (47.6%) responders had ongoing responses with a duration ranging from 0.0-27.6+ months.
@@ -647,9 +668,79 @@ Overall survival could be accompanied by an improvement over time in disease rel
 Apparently meaningful symptom improvement (MID=2 point change in FKSI-DRS score; p<0.001) and time to improvement (HR= 1.66 (1.33,2.08), p<0.001) were significantly better for patients on the nivolumab arm.
 While both arms of the study received active therapy, the QoL data should be interpreted in the context of the open-label study design and therefore cautiously taken.
 
+Classical Hodgkin lymphoma
+
+The safety and efficacy of nivolumab 3 mg/kg as a single agent for the treatment of relapsed or refractory cHL following ASCT and treatment with brentuximab vedotin was evaluated in two multicentre, open-label, single-arm studies (CA209205 and CA209039).
+
+CA209205 is an ongoing Phase 2, open-label, multi-cohort, single-arm study of nivolumab in cHL.
+Cohort B included 80 patients that received nivolumab 3 mg/kg monotherapy administered intravenously over 60 minutes every 2 weeks, following ASCT and brentuximab vedotin treatment.
+The first tumour assessments were conducted 9 weeks after the start of treatment and continued thereafter until disease progression or treatment discontinuation.
+The primary efficacy outcome measure was ORR as determined by IRRC.
+Additional efficacy measures included duration of response.
+
+CA209039 was a Phase 1b open-label, multicenter, dose-escalation, and multidose study of nivolumab in relapsed/refractory hematologic malignancies, including 23 patients with cHL treated with nivolumab 3 mg/kg monotherapy; amongst which, 15 patients received prior brentuximab vedotin treatment as a salvage therapy following ASCT, similar to Cohort B of study CA209205.
+The first tumour assessments were conducted 4 weeks after the start of treatment and continued thereafter until disease progression or treatment discontinuation.
+Efficacy assessments included investigator-assessed ORR, retrospectively evaluated by an IRRC, and duration of response.
+
+Data from the 80 patients from CA209205 Cohort B and from the 15 patients from CA209039 who received prior brentuximab vedotin treatment following ASCT were integrated.
+Baseline characteristics were similar across the two studies (see Table 10 below).
+
+Table 10: Baseline patient characteristics in CA209205 Cohort B and CA209039
+
+CA209205 Cohort B CA209205 Cohort B a CA209039
+and CA209039 (n = 80) (n = 15)
+(n = 95)
+Median age, years (range) 37.0 (18–72) 37.0 (18–72) 40.0 (24–54)
+Gender 61 (64%)M / 34 (36%)F 51 (64%)M / 29 (36%)F 10 (67%)M / 5 (33%)F
+ECOG status
+0 49 (52%) 42 (52.5%) 7 (47%)
+1 46 (48%) 38 (47.5%) 8 (53%)
+≥5 prior lines of systemic therapy 49 (52%) 39 (49%) 10 (67%)
+Prior ASCT
+1 87 (92%) 74 (92.5%) 13 (87%)
+≥2 8 (8%) 6 (7.5%) 2 (13%)
+Years from most recent transplant 3.5 (0.2–19.0) 3.4 (0.2–19.0) 5.6 (0.5–15.0)
+to first dose of study therapy,
+median (min-max)
+
+a 18/80 (25%) of the patients in CA209205 Cohort B presented B-Symptoms at baseline.
+
+Efficacy from both studies was evaluated by the same IRRC.
+Results are shown in Table 11.
+Table 11: Efficacy results in patients with relapsed/refractory classical Hodgkin lymphoma CA209205 Cohort Ba CA209205 Cohort Ba CA209039
+
+and CA209039 (n = 80) (n = 15)
+
+(n = 95)
+
+Objective Response Rate; (95% CI) 63 (66%); (56, 76) 54 (68%); (56, 78) 9 (60%); (32, 84)
+Complete Remission Rate; (95% CI) 6 (6%); (2, 13) 6 (8%); (3, 16) 0 (0%); (0, 22)
+Partial Remission Rate; (95% CI) 57 (60%); (49, 70) 48 (60%); (48, 71) 9 (60%); (32, 84)
+Stable disease, n (%) 22 (23) 17 (21) 5 (33)
+Median Duration of Response (months)b 13.1 13.1 12.0
+(95% CI) (9.5, NE) (8.7, NE) (1.8, NE)
+Min, Max 0.0+, 23.1+ 0.0+, 14.2+ 1.8, 23.1+
+Median Time to Response (months) 2.0 2.1 0.8
+Min, Max 0.7, 11.1 1.6, 11.1 0.7, 4.1
+Median Duration of Follow-up (months) 15.8 15.4 21.9
+Range (months) 1.9 to 27.6 1.9 to 18.5 11.2 to 27.6
+PFS rate at 12 months 57 55 69
+(95% CI) (45, 68) (41, 66) (37, 88)
+
+a Follow-up was ongoing at the time of data submission b Data unstable due to the limited duration of response for Cohort B resulting from censoring.
+
+Nine patients received transplant (6 in CA209205 and 3 in CA209039) as subsequent therapy.
+In a post-hoc analysis of the 80 patients in CA209205 Cohort B, it was found that 37 had no response to prior brentuximab vedotin treatment.
+Among these 37 patients, treatment with nivolumab resulted in an ORR of 59.5% (22/37).
+The median duration of response is 13.14 months (13.14, N.A.) for the 22 responders to nivolumab who had failed to achieve response with prior brentuximab vedotin treatment.
+
+B-symptoms were present in 25% (18/80) of the patients in CA209205 Cohort B at baseline.
+Nivolumab treatment resulted in rapid resolution of B-symptoms in 88.9% (16/18) of the patients, with a median time to resolution of 1.9 months.
+
 Safety and efficacy in elderly patients
 No overall differences in safety or efficacy were reported between elderly (≥ 65 years) and younger patients (< 65 years).
 Data from NSCLC patients 75 years of age or older are too limited to draw conclusions on this population.
+Data from cHL patients 65 years of age or older are too limited to draw conclusions on this population.
 
 Paediatric population
-The European Medicines Agency has deferred the obligation to submit the results of studies with nivolumab in all subsets of the paediatric population in the treatment of malignant solid tumours (see section 4.2 for information on paediatric use).
+The European Medicines Agency has deferred the obligation to submit the results of studies with nivolumab in all subsets of the paediatric population in the treatment of malignant solid tumours, malignant neoplasms of lymphoid tissue and malignant neoplasms of the central nervous system (see section 4.2 for information on paediatric use).

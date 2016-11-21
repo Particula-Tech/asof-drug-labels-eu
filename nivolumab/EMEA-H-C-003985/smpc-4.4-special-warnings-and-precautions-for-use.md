@@ -135,7 +135,6 @@ Patients with mild or moderate infusion reaction may receive nivolumab or nivolu
 Disease-specific precautions
 
 Melanoma
-
 Patients with a baseline performance score ≥ 2, active brain metastases or autoimmune disease, and patients who had been receiving systemic immunosuppressants prior to study entry were excluded from the clinical trials of nivolumab or nivolumab in combination with ipilimumab.
 Patients with ocular/uveal melanoma were excluded from clinical trials of melanoma.
 In addition, CA209037 excluded patients who have had a Grade 4 adverse reaction that was related to anti-CTLA-4 therapy (see section 5.1).
@@ -145,14 +144,20 @@ Relative to nivolumab monotherapy, an increase in PFS for the combination of niv
 Before initiating treatment with the combination, physicians are advised to carefully evaluate the individual patient and tumour characteristics, taking into consideration the observed benefits and the toxicity of the combination relative to nivolumab monotherapy (see sections 4.8 and 5.1).
 
 Non-Small Cell Lung Cancer
-
 Patients with a baseline performance score ≥ 2, active brain metastases or autoimmune disease, symptomatic interstitial lung disease, and patients who had been receiving systemic immunosuppressants prior to study entry were excluded from the clinical trials of NSCLC (see sections 4.5 and 5.1).
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential risk-benefit on an individual basis.
 
 Renal Cell Carcinoma
-
 Patients with any history of or concurrent brain metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the pivotal trial in RCC (see sections 4.5 and 5.1).
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential risk-benefit on an individual basis.
+
+Classical Hodgkin lymphoma
+Patients with active autoimmune disease and symptomatic interstitial lung disease were excluded from clinical trials of cHL.
+In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential risk-benefit on an individual basis.
+
+Complications of allogeneic Haematopoietic Stem Cell Transplant (HSCT) in classical Hodgkin Lymphoma
+Preliminary results from the follow-up of patients undergoing allogeneic HSCT after previous exposure to nivolumab showed a higher than expected number of cases of acute graft-versus-host-disease (aGVHD) and transplant related mortality (TRM).
+Until further data become available, careful consideration to the potential benefits of HSCT and the possible increased risk of transplant related complications should be made case by case (see section 4.8).
 
 Patients on controlled sodium diet
 Each mL of this medicinal product contains 0.1 mmol (or 2.5 mg) sodium.
