@@ -34,7 +34,6 @@ Common: Rash, abnormal skin odour
 
 Renal and urinary disorders
 Common: Renal tubular acidosis
-
 Reproductive system and breast disorders
 Very common: Amenorrhoea, irregular menstruation
 
