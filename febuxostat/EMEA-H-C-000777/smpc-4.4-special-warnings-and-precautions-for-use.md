@@ -56,6 +56,7 @@ Patients with rare hereditary problems of galactose intolerance, the Lapp lactas
 [ADENURIC 120 mg film-coated tablets]
 
 Treatment of chronic hyperuricaemia
+
 Prevention and treatment of hyperuricaemia in patients at risk of TLS
 Patients undergoing chemotherapy for haematologic malignancies at intermediate to high risk of Tumor Lysis Syndrome treated with ADENURIC should be under cardiac monitoring as clinically appropriate.
 

@@ -64,9 +64,11 @@ The frequencies are based on studies and post-marketing experience in gout patie
 
 Table 1: Adverse reactions in combined phase 3, long-term extension studies and post-marketing experience in gout patients.
 
-| Blood and lymphatic system disorders | Rare Pancytopenia, thrombocytopenia |
-| --- | --- |
+Blood and lymphatic system Rare
+disorders Pancytopenia, thrombocytopenia
+
 | Immune system disorders | Rare Anaphylactic reaction*, drug hypersensitivity* |
+| --- | --- |
 | Endocrine disorders | Uncommon Blood thyroid stimulating hormone increased |
 | Eye disorders | Rare Blurred vision |
 | Metabolism and nutrition disorders | Common*** Gout flares Uncommon Diabetes mellitus, hyperlipidemia, decrease appetite, weight increase Rare Weight decrease, increase appetite, anorexia |
@@ -78,8 +80,7 @@ Table 1: Adverse reactions in combined phase 3, long-term extension studies and 
 | Respiratory system disorders | Uncommon Dyspnoea, bronchitis, upper respiratory tract infection, cough |
 | Gastrointestinal disorders | Common Diarrhoea**, nausea Uncommon: Abdominal pain, abdominal distension, gastro-oesophageal reflux disease, vomiting, dry mouth, dyspepsia, constipation, frequent stools, flatulence, gastrointestinal discomfort Rare Pancreatitis, mouth ulceration |
 | Hepato-biliary disorders | Common Liver function abnormalities** Uncommon Cholelithiasis Rare Hepatitis, jaundice*, liver injury* |
-| Skin and subcutaneous tissue disorders | Common Rash (including various types of rash reported with lower frequencies, see below) Uncommon Dermatitis, urticaria, pruritus, skin discolouration, skin lesion, petechiae, rash macular, rash maculopapular, rash papular |
-|  | Rare Toxic epidermal necrolysis*, Stevens-Johnson Syndrome*, angioedema*, drug reaction with eosinophilia and systemic symptoms*, generalized rash (serious)*, erythema, exfoliative rash, rash follicular, rash vesicular, rash pustular, rash pruritic*, rash erythematous, rash morbillifom, alopecia, hyperhidrosis |
+| Skin and subcutaneous tissue disorders | Common Rash (including various types of rash reported with lower frequencies, see below) Uncommon Dermatitis, urticaria, pruritus, skin discolouration, skin lesion, petechiae, rash macular, rash maculopapular, rash papular Rare Toxic epidermal necrolysis*, Stevens-Johnson Syndrome*, angioedema*, drug reaction with eosinophilia and systemic symptoms*, generalized rash (serious)*, erythema, exfoliative rash, rash follicular, rash vesicular, rash pustular, rash pruritic*, rash erythematous, rash morbillifom, alopecia, hyperhidrosis |
 | Musculoskeletal and connective tissue disorders | Uncommon Arthralgia, arthritis, myalgia, musculoskeletal pain, muscle weakness, muscle spasm, muscle tightness, bursitis Rare Rhabdomyolysis*, joint stiffness, musculoskeletal stiffness |
 | Renal and urinary disorders | Uncommon Renal failure, nephrolithiasis, haematuria, pollakiuria, proteinuria Rare Tubulointerstitial nephritis*, micturition urgency |
 | Reproductive system and breast disorder | Uncommon Erectile dysfunction |

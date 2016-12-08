@@ -9,7 +9,7 @@ The therapeutic target is to decrease and maintain serum uric acid below 6 mg/dL
 
 Gout flare prophylaxis of at least 6 months is recommended (see section 4.4).
 
-Older people
+Elderly
 No dose adjustment is required in the elderly (see section 5.2).
 
 Renal impairment
