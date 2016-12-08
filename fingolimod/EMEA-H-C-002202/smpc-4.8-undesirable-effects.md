@@ -34,6 +34,7 @@ Neoplasms benign, malignant and unspecified (incl cysts and polyps)
 
 Common: Basal cell carcinoma
 Rare***: Lymphoma
+Not known***: Kaposi’s sarcoma
 
 Blood and lymphatic system disorders
 
@@ -41,6 +42,7 @@ Common: Lymphopenia
 
 Leucopenia
 
+Uncommon: Thrombocytopenia
 Not known***: Peripheral oedema
 
 Immune system disorders
@@ -132,10 +134,10 @@ The majority of cases occurred within the first 3-4 months of therapy.
 Some patients presented with blurred vision or decreased visual acuity, but others were asymptomatic and diagnosed on routine ophthalmological examination.
 The macular oedema generally improved or resolved spontaneously after discontinuation of Gilenya.
 The risk of recurrence after re-challenge has not been evaluated.
+
 Macular oedema incidence is increased in multiple sclerosis patients with a history of uveitis (17% with a history of uveitis vs. 0.6% without a history of uveitis).
 Gilenya has not been studied in multiple sclerosis patients with diabetes mellitus, a disease which is associated with an increased risk for macular oedema (see section 4.4).
 In renal transplant clinical studies in which patients with diabetes mellitus were included, therapy with fingolimod 2.5 mg and 5 mg resulted in a 2-fold increase in the incidence of macular oedema.
-
 Bradyarrhythmia
 Initiation of Gilenya treatment results in a transient decrease in heart rate and may also be associated with atrioventricular conduction delays.
 In multiple sclerosis clinical studies the maximal decline in heart rate was seen within 6 hours after treatment initiation, with declines in mean heart rate of 12-13 beats per minute for Gilenya 0.5 mg.
@@ -167,12 +169,12 @@ Recurrence of liver transaminase elevations has occurred upon re-challenge in so
 In clinical studies, transaminase elevations occurred at any time during treatment although the majority occurred within the first 12 months.
 ALT levels returned to normal within approximately 2 months after discontinuation of Gilenya.
 In a small number of patients (N=10 on 1.25 mg, N=2 on 0.5 mg) who experienced ALT elevations ≥5x ULN and who continued on Gilenya therapy, the ALT levels returned to normal within approximately 5 months (see also section 4.4, Liver function).
+
 Nervous system disorders
 In clinical studies, rare events involving the nervous system occurred in patients treated with fingolimod at higher doses (1.25 or 5.0 mg) including ischaemic and haemorrhagic strokes and neurological atypical disorders, such as acute disseminated encephalomyelitis (ADEM)-like events.
 
 Vascular disorders
 Rare cases of peripheral arterial occlusive disease occurred in patients treated with fingolimod at higher doses (1.25 mg).
-
 Respiratory system
 Minor dose-dependent reductions in values for forced expiratory volume (FEV1) and diffusion capacity for carbon monoxide (DLCO) were observed with Gilenya treatment starting at Month 1 and remaining stable thereafter.
 At Month 24, the reduction from baseline values in percentage of predicted FEV1 was 2.7% for fingolimod 0.5 mg and 1.2% for placebo, a difference that resolved after treatment discontinuation.

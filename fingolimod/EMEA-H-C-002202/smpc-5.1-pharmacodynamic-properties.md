@@ -65,9 +65,9 @@ In total, 920 patients entered (n=331 continued on 0.5 mg, 289 continued on 1.25
 After 12 months (month 36), 856 patients (93%) were still enrolled.
 Between months 24 and 36, the annualised relapse rate (ARR) for patients on fingolimod 0.5 mg in the core study who remained on 0.5 mg was 0.17 (0.21 in the core study).
 The ARR for patients who switched from placebo to fingolimod 0.5 mg was 0.22 (0.42 in the core study).
-
 Comparable results were shown in a replicate 2-year randomised, double-blind, placebo-controlled Phase III study on fingolimod in 1,083 patients (n=358 on 0.5 mg, 370 on 1.25 mg, 355 on placebo) with RRMS (D2309; FREEDOMS 2).
 Median values for baseline characteristics were: age 41 years, disease duration 8.9 years, EDSS score 2.5.
+
 Table 2: Study D2309 (FREEDOMS 2): Main results
 
 |  | Fingolimod 0.5 mg | Placebo |
