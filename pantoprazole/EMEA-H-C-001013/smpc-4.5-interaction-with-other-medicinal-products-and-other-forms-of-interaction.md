@@ -9,6 +9,7 @@ Therefore, pantoprazole must not be co-administered with atazanavir (see section
 
 Although no interaction during concomitant administration of phenprocoumon or warfarin has been observed in clinical pharmacokinetic studies, a few isolated cases of changes in International Normalised Ratio (INR) have been reported during concomitant treatment in the post-marketing period.
 Therefore, in patients treated with coumarin anticoagulants (e.g. phenprocoumon or warfarin), monitoring of prothrombin time/INR is recommended after initiation, termination or during irregular use of pantoprazole.
+
 Concomitant use of high dose methotrexate (e.g. 300 mg) and proton-pump inhibitors has been reported to increase methotrexate levels in some patients.
 Therefore in settings where high-dose methotrexate is used, for example cancer and psoriasis, a temporary withdrawal of pantoprazole may need to be considered.
 

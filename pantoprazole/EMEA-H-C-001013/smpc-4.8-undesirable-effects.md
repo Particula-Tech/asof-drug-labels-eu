@@ -26,8 +26,17 @@ Adverse reactions with pantoprazole in clinical trials and post-marketing experi
 | Eye disorders |  | Disturbances in vision / blurred vision |  |  |
 | Gastrointestinal disorders | Diarrhoea; Nausea / vomiting; Abdominal distension and bloating; Constipation; Dry mouth; Abdominal pain and discomfort |  |  |  |
 | Hepatobiliary disorders | Liver enzymes increased (transaminases, γ-GT) | Bilirubin increased |  | Hepatocellular injury; Jaundice; Hepatocellular failure |
-| Skin and subcutaneous tissue disorders | Rash / exanthema / eruption; Pruritus | Urticaria; Angioedema |  | Stevens-Johnson syndrome; Lyell syndrome; Erythema multiforme; Photosensitivity |
 
+Skin and Rash / exanthema Urticaria; Stevens-Johnson
+subcutaneous / eruption; Angioedema syndrome; Lyell
+tissue disorders Pruritus syndrome;
+Erythema
+multiforme;
+Photosensitivity
+Subacute
+cutaneous lupus
+erythematosus
+(see section 4.4).
 Musculoskeletal Arthralgia;
 and connective Myalgia
 tissue disorders
@@ -37,9 +46,9 @@ Reproductive Gynaecomastia
 system and breast
 disorders
 General disorders Asthenia, fatigue Body temperature
-and and malaise increased;
-administration Oedema
-site conditions peripheral
+and and malaise increased; Oedema
+administration site peripheral
+conditions
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

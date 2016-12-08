@@ -24,3 +24,13 @@ Patients should not take pantoprazole as a preventive medicinal product.
 Gastrointestinal infections caused by bacteria
 Decreased gastric acidity, due to any means - including proton pump inhibitors - increases gastric counts of bacteria normally present in the gastrointestinal tract.
 Treatment with acid-reducing medicinal products leads to a slightly increased risk of gastrointestinal infections such as Salmonella, Campylobacter, or Clostridium difficile.
+
+Subacute cutaneous lupus erythematosus (SCLE)
+Proton pump inhibitors are associated with very infrequent cases of SCLE.
+If lesions occur, especially in sun-exposed areas of the skin, and if accompanied by arthralgia, the patient should seek medical help promptly and the health care professional should consider stopping PANTOZOL Control.
+SCLE after previous treatment with a proton pump inhibitor may increase the risk of SCLE with other proton pump inhibitors.
+
+Interference with Laboratory Tests
+Increased Chromogranin A (CgA) level may interfere with investigations for neuroendocrine tumours.
+To avoid this interference, PANTOZOL Control treatment should be stopped for at least 5 days before CgA measurements (see section 5.1).
+If CgA and gastrin levels have not returned to reference range after initial measurement, measurements should be repeated 14 days after cessation of proton pump inhibitor treatment.

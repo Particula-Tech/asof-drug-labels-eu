@@ -20,6 +20,13 @@ An excessive increase, however, occurs only in isolated cases.
 As a result, a mild to moderate increase in the number of specific endocrine (ECL) cells in the stomach is observed in a minority of cases during long-term treatment (simple to adenomatoid hyperplasia).
 However, according to the studies conducted so far, the formation of carcinoid precursors (atypical hyperplasia) or gastric carcinoids as were found in animal experiments (see section 5.3) have not been observed in humans.
 
+During treatment with antisecretory medicinal products, serum gastrin increases in response to the decreased acid secretion.
+Also CgA increases due to decreased gastric acidity.
+The increased CgA level may interfere with investigations for neuroendocrine tumours.
+
+Available published evidence suggests that proton pump inhibitors should be discontinued between 5 days and 2 weeks prior to CgA measurements.
+This is to allow CgA levels that might be spuriously elevated following PPI treatment to return to reference range.
+
 Clinical efficacy
 In a retrospective analysis of 17 studies in 5960 patients with gastro-oesophageal reflux disease (GORD) who were treated with 20 mg pantoprazole monotherapy, the symptoms associated with acid reflux e.g. heartburn and acid regurgitation were evaluated according to a standardised methodology.
 Studies selected had to have at least one acid reflux symptom recording point at 2 weeks.
