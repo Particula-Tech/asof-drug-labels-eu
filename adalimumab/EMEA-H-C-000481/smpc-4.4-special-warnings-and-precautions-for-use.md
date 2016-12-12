@@ -35,7 +35,6 @@ It is recommended that the conduct and results of these tests are recorded in th
 Prescribers are reminded of the risk of false negative tuberculin skin test results, especially in patients who are severely ill or immunocompromised.
 
 If active tuberculosis is diagnosed, Humira therapy must not be initiated (see section 4.3).
-
 In all situations described below, the benefit/risk balance of therapy should be very carefully considered.
 
 If latent tuberculosis is suspected, a physician with expertise in the treatment of tuberculosis should be consulted.
@@ -48,6 +47,7 @@ Despite prophylactic treatment for tuberculosis, cases of reactivated tuberculos
 Some patients who have been successfully treated for active tuberculosis have redeveloped tuberculosis while being treated with Humira.
 
 Patients should be instructed to seek medical advice if signs/symptoms suggestive of a tuberculosis infection (e.g., persistent cough, wasting/weight loss, low grade fever, listlessness) occur during or after therapy with Humira.
+
 Other opportunistic infections
 
 Opportunistic infections, including invasive fungal infections have been observed in patients receiving Humira.
@@ -86,6 +86,7 @@ Immunosuppression
 In a study of 64 patients with rheumatoid arthritis that were treated with Humira, there was no evidence of depression of delayed-type hypersensitivity, depression of immunoglobulin levels, or change in enumeration of effector T-, B, - NK-cells, monocyte/macrophages, and neutrophils.
 
 Malignancies and lymphoproliferative disorders
+
 In the controlled portions of clinical trials of TNF-antagonists, more cases of malignancies including lymphoma have been observed among patients receiving a TNF-antagonist compared with control patients.
 However, the occurrence was rare.
 In the post marketing setting, cases of leukemia have been reported in patients treated with a TNF-antagonist.
@@ -108,7 +109,6 @@ Thus additional caution should be exercised in considering Humira treatment of t
 
 All patients, and in particular patients with a medical history of extensive immunosuppressant therapy or psoriasis patients with a history of PUVA treatment should be examined for the presence of non-melanoma skin cancer prior to and during treatment with Humira.
 Melanoma and Merkel cell carcinoma have also been reported in patients treated with TNF-antagonists including adalimumab (see section 4.8).
-
 In an exploratory clinical trial evaluating the use of another TNF-antagonist, infliximab, in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies, mostly in the lung or head and neck, were reported in infliximab-treated patients compared with control patients.
 All patients had a history of heavy smoking.
 Therefore, caution should be exercised when using any TNF-antagonist in COPD patients, as well as in patients with increased risk for malignancy due to heavy smoking.
@@ -149,7 +149,6 @@ The impact of long-term treatment with Humira on the development of autoimmune d
 If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with Humira and is positive for antibodies against double-stranded DNA, further treatment with Humira should not be given (see section 4.8).
 
 Concurrent administration of biologic DMARDS or TNF-antagonists
-
 Serious infections were seen in clinical studies with concurrent use of anakinra and another TNF-antagonist, etanercept, with no added clinical benefit compared to etanercept alone.
 Because of the nature of the adverse events seen with the combination of etanercept and anakinra therapy, similar toxicities may also result from the combination of anakinra and other TNF-antagonists.
 Therefore, the combination of adalimumab and anakinra is not recommended.
@@ -164,6 +163,7 @@ There is limited safety experience of surgical procedures in patients treated wi
 The long half-life of adalimumab should be taken into consideration if a surgical procedure is planned.
 A patient who requires surgery while on Humira should be closely monitored for infections, and appropriate actions should be taken.
 There is limited safety experience in patients undergoing arthroplasty while receiving Humira.
+
 Small bowel obstruction
 
 Failure to respond to treatment for Crohn’s disease may indicate the presence of fixed fibrotic stricture that may require surgical treatment.
@@ -198,6 +198,7 @@ Melanoma and Merkel cell carcinoma have been reported in patients treated with T
 [Humira 40 mg solution for injection in pre-filled pen]
 
 These infections have not consistently been recognised in patient taking TNF-antagonists and this has resulted in delays in appropriate treatment, sometimes resulting in fatal outcomes.
+
 For patients who develop the signs and symptoms such as fever, malaise, weight loss, sweats, cough, dyspnea, and/or pulmonary infiltrates or other serious systemic illness with or without concomitant shock an invasive fungal infection should be suspected and administration of Humira should be promptly discontinued, Diagnosis and administration of empiric antifungal therapy in these patients should be made in consultation with a physician with expertise in the care of patients with invasive fungal infections.
 
 Rare reports of pancytopaenia including aplastic anaemia have been reported with TNF antagonists.
