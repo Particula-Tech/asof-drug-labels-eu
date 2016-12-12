@@ -8,7 +8,7 @@ It is an irreversible inhibitor of Epidermal Growth Factor Receptors (EGFRs) har
 
 Pharmacodynamic effects
 In vitro studies have demonstrated that osimertinib has high potency and inhibitory activity against EGFR across a range of all clinically relevant EGFR sensitising-mutant and T790M mutant non-small cell lung cancer (NSCLC) cell lines (apparent IC50s from 6 nM to 54 nM against phospho-EGFR).
-This leads to inhibition of cell growth, while showing significantly less activity against EGFR in wild-type cell lines (apparent IC50s 480 nM to 1.8 μM against phospho-EGFR).
+This leads to inhibition of cell growth, while showing significantly less activity against EGFR in wild-type cell lines (apparent IC50s from 480 nM to 1.8 μM against phospho-EGFR).
 In vivo oral administration of osimertinib lead to tumour shrinkage in both EGFRm and T790M NSCLC xenograft and transgenic mouse lung tumour models.
 
 Cardiac electrophysiology

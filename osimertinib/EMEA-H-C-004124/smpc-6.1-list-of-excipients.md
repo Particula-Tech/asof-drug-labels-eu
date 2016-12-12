@@ -3,7 +3,7 @@
 Tablet core
 Mannitol
 Microcrystalline cellulose
-Low-substituted hydroxpropyl cellulose
+Low-substituted hydroxypropyl cellulose
 Sodium stearyl fumarate
 
 Tablet coating

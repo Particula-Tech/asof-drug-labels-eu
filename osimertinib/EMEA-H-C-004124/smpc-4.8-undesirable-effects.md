@@ -4,7 +4,8 @@ Summary of the safety profile
 The safety data of TAGRISSO reflects exposure from 411 previously treated T790M mutation-positive NSCLC patients who received a dose of 80 mg daily.
 Comparative safety data from randomised clinical trials are not yet available.
 Most adverse reactions were Grade 1 or 2 in severity.
-The most commonly reported adverse drug reactions (ADRs) were diarrhoea (42%) and rash (24%).Grade 3 and grade 4 adverse events across both studies were 26% and 1.2%, respectively.
+The most commonly reported adverse drug reactions (ADRs) were diarrhoea (42%) and rash (24%).
+Grade 3 and grade 4 adverse events across both studies were 26% and 1.2%, respectively.
 In patients treated with TAGRISSO 80 mg once daily, dose reductions due to ADRs occurred in 2.2% of the patients.
 Discontinuation due to adverse reactions or abnormal laboratory parameters was 3.2%.
 
@@ -14,7 +15,7 @@ Table 2 lists the incidences of adverse reactions commonly reported in patients 
 Adverse drug reactions are listed according to system organ class (SOC) in MedDRA.
 Within each system organ class, the adverse drug reactions are ranked by frequency, with the most frequent reactions first.
 Within each frequency grouping, adverse drug reactions are presented in order of decreasing seriousness.
-In addition, the corresponding frequency category for each ADR is based on the CIOMS III convention and is defined as: very common (≥1/10); common (>1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from available data).
+In addition, the corresponding frequency category for each ADR is based on the CIOMS III convention and is defined as: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from available data).
 This section includes only data derived from completed studies where patient exposure is known.
 Data in Table 2 are cumulative from AURA extension (Phase II) and AURA 2 studies; only events for patients receiving at least one dose of TAGRISSO are summarized.
 

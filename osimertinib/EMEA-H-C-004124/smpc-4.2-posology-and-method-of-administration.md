@@ -3,7 +3,7 @@
 Treatment with TAGRISSO should be initiated by a physician experienced in the use of anticancer therapies.
 
 When considering the use of TAGRISSO as a treatment for locally advanced or metastatic NSCLC, it is necessary that EGFR T790M mutation status is determined.
-EGFR T790M mutation status should be determined by a clinical laboratory using a validated test method (see section 4.4).
+EGFR T790M mutation status should be determined by using a validated test method (see section 4.4).
 Posology
 The recommended dose is 80 mg osimertinib once a day until disease progression or unacceptable toxicity.
 
@@ -36,7 +36,7 @@ Special populations
 No dosage adjustment is required due to patient age, body weight, gender, ethnicity and smoking status (see section 5.2).
 
 Hepatic impairment
-No dose adjustment is recommended in patients with mild hepatic impairment (total bilirubin <upper limit of normal (ULN) and aspartate aminotransferase (AST) between 1 to 1.5x ULN or total bilirubin between 1.0 to 1.5x ULN and any AST) but caution should be used when administering TAGRISSO to these patients.
+No dose adjustment is recommended in patients with mild hepatic impairment (total bilirubin ≤upper limit of normal (ULN) and aspartate aminotransferase (AST) >ULN or total bilirubin >1.0 to 1.5x ULN and any AST) but caution should be used when administering TAGRISSO to these patients.
 The safety and efficacy of this medicinal product has not been established in patients with moderate or severe hepatic impairment.
 Until additional data become available, use in patients with moderate or severe hepatic impairment is not recommended (see section 5.2).
 

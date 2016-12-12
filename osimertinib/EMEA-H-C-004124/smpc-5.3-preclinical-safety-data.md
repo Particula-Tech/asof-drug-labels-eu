@@ -15,9 +15,11 @@ Degenerative changes were present in the testes in rats and dogs exposed to osim
 These findings were seen at clinically relevant plasma concentrations.
 Pathology findings in the testes seen following 1 month dosing were reversible in rats; however, a definitive statement on reversibility of these lesions in dogs cannot be made.
 
-A female fertility study has not been conducted.
+Based on studies in animals, female fertility may be impaired by treatment with osimertinib.
 In repeat dose toxicity studies, an increased incidence of anoestrus, corpora lutea degeneration in the ovaries and epithelial thinning in the uterus and vagina were seen in rats exposed to osimertinib for ≥1 month at clinically relevant plasma concentrations.
 Findings in the ovaries seen following 1 month dosing were reversible.
+In a female fertility study in rats, administration of osimertinib at 20 mg/kg/day (approximately equal to the recommended daily clinical dose of 80 mg) had no effects on oestrus cycling or the number of females becoming pregnant, but caused early embryonic deaths.
+These findings showed evidence of reversibility following a 1 month off-dose.
 
 In a modified embryofoetal development study in the rat, osimertinib caused embryolethality when administered to pregnant rats prior to embryonic implantation.
 These effects were seen at a maternally tolerated dose of 20 mg/kg where exposure was equivalent to the human exposure at the recommended dose of 80 mg daily (based on total AUC).

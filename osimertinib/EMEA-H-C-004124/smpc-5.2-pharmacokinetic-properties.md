@@ -45,7 +45,7 @@ However, interactions with, MATE1 and OCT2 substrates cannot be excluded.
 Effects of osimertinib on P-gp and BCRP
 Based on in vitro studies, osimertinib is a substrate of P-glycoprotein and breast cancer resistant protein (BCRP), but is unlikely to result in clinically relevant drug interactions with active substances by osimertinib at the clinical doses.
 Based on in vitro data, osimertinib is an inhibitor of BCRP and P-gp.
-PXR regulated enzyme interactions other than CYP3A4 have not been studied (See section 4.5).
+PXR regulated enzyme interactions other than CYP3A4 have not been studied (see section 4.5).
 
 Special populations
 In a population based pharmacokinetic analyses (n=778), no clinically significant relationships were identified between predicted steady-state exposure (AUCss) and patient’s age (range: 21 to 89 years), gender, ethnicity (including White, Asian, Japanese, Chinese and non-Asian-non-White patients) and smoking status (n=24 current smokers, n=232 former smokers).
