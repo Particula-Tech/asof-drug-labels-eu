@@ -8,9 +8,9 @@ Therefore, patients should be monitored for signs of suicidal ideation and behav
 Patients (and caregivers of patients) should be advised to seek medical advice should signs of suicidal ideation or behaviour emerge (see section 4.8).
 
 Cardiac rhythm and conduction
-Prolongations in PR interval with lacosamide have been observed in clinical studies.
-Lacosamide should be used with caution in patients with known conduction problems or severe cardiac disease such as a history of myocardial infarction or heart failure.
-Caution should especially be exerted when treating elderly patients as they may be at an increased risk of cardiac disorders or when lacosamide is used in combination with products known to be associated with PR prolongation.
+Dose-related prolongations in PR interval with lacosamide have been observed in clinical studies.
+Lacosamide should be used with caution in patients with known conduction problems, severe cardiac disease (e.g. history of myocardial infarction or heart failure), in elderly patients, or when lacosamide is used in combination with products known to be associated with PR prolongation.
+In these patients it should be considered to perform an ECG before a lacosamide dose increase above 400mg/day and after lacosamide is titrated to steady-state.
 
 Second degree or higher AV block has been reported in post-marketing experience.
 In the placebo-controlled trials of lacosamide in epilepsy patients, atrial fibrillation or flutter were not reported; however both have been reported in open-label epilepsy trials and in post-marketing experience (see section 4.8).

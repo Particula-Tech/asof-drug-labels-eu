@@ -1,6 +1,6 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
-Lacosamide should be used with caution in patients treated with medicinal products known to be associated with PR prolongation (e.g. carbamazepine, lamotrigine, pregabalin) and in patients treated with class I antiarrhythmics .
+Lacosamide should be used with caution in patients treated with medicinal products known to be associated with PR prolongation (e.g. carbamazepine, lamotrigine, eslicarbazepine, pregabalin) and in patients treated with class I antiarrhythmics .
 However, subgroup analysis did not identify an increased magnitude of PR prolongation in patients with concomitant administration of carbamazepine or lamotrigine in clinical trials.
 
 In vitro data

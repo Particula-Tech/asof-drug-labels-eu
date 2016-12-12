@@ -12,11 +12,54 @@ Lacosamide protected against seizures in a broad range of animal models of parti
 In non-clinical experiments lacosamide in combination with levetiracetam, carbamazepine, phenytoin, valproate, lamotrigine, topiramate or gabapentin showed synergistic or additive anticonvulsant effects.
 
 Clinical efficacy and safety
-The efficacy of Vimpat as adjunctive therapy at recommended doses (200 mg/day, 400 mg/day) was established in 3 multicenter, randomized, placebo-controlled clinical trials with a 12-week maintenance period.
-Vimpat 600 mg/day was also shown to be effective in controlled adjunctive therapy trials, although the efficacy was similar to 400 mg/day and patients were less likely to tolerate this dose because of CNS- and gastrointestinal-related adverse reactions.
+Monotherapy
+Efficacy of lacosamide as monotherapy was established in a double-blind, parallel group, non-inferiority comparison to carbamazepine CR in 886 patients 16 years of age or older with newly or recently diagnosed epilepsy.
+The patients had to present with unprovoked partial onset seizures with or without secondary generalization.
+The patients were randomized to carbamazepine CR or lacosamide, provided as tablets, in a 1:1 ratio.
+The dose was based on dose-response and ranged from 400 to 1200 mg/day for carbamazepine CR and from 200 to 600 mg/day for lacosamide.
+The duration of the treatment was up to 121 weeks depending on the response.
+The estimated 6-month seizure freedom rates were 89.8% for lacosamide-treated patients and 91.1% for carbamazepine CR treated patients using the Kaplan-Meier survival analysis method.
+The adjusted absolute difference between treatments was -1.3% (95 % CI: -5.5, 2.8).
+The Kaplan-Meier estimates of 12-month seizure freedom rates were 77.8% for lacosamide-treated patients and 82.7% for carbamazepine CR treated patients.
+The 6-month seizure freedom rates in elderly patients of 65 and above (62 patients in lacosamide, 57 patients in carbamazepine CR) were similar between both treatment groups.
+The rates were also similar to those observed in the overall population.
+In the elderly population, the maintenance lacosamide dose was 200 mg/day in 55 patients (88.7%), 400 mg/day in 6 patients (9.7%) and the dose was escalated to over 400 mg/day in 1 patient (1.6%).
+
+Conversion to monotherapy
+The efficacy and safety of lacosamide in conversion to monotherapy has been assessed in a historical-controlled, multicentre, double-blind, randomized trial.
+In this study, 425 patients aged 16 to 70 years with uncontrolled partial-onset seizures taking stable doses of 1 or 2 marketed antiepileptic medicinal products were randomized to be converted to lacosamide monotherapy (either 400mg/day or 300mg/day in a 3:1 ratio).
+In treated patients who completed titration and started withdrawing antiepileptic medicinal products ( 284 and 99 respectively), monotherapy was maintained in 71.5 % and 70.7 % of patients respectively for 57-105 days (median 71 days), over the targeted observation period of 70 days.
+
+Adjunctive therapy
+The efficacy of lacosamide as adjunctive therapy at recommended doses (200 mg/day, 400 mg/day) was established in 3 multicenter, randomized, placebo-controlled clinical trials with a 12-week maintenance period.
+Lacosamide 600 mg/day was also shown to be effective in controlled adjunctive therapy trials, although the efficacy was similar to 400 mg/day and patients were less likely to tolerate this dose because of CNS- and gastrointestinal-related adverse reactions.
 Thus, the 600 mg/day dose is not recommended.
 The maximum recommended dose is 400 mg/day.
 These trials, involving 1308 patients with a history of an average of 23 years of partial-onset seizures, were designed to evaluate the efficacy and safety of lacosamide when administered concomitantly with 1-3 antiepileptics in patients with uncontrolled partial-onset seizures with or without secondary generalisation.
 Overall the proportion of subjects with a 50% reduction in seizure frequency was 23%, 34%, and 40% for placebo, lacosamide 200 mg/day and lacosamide 400 mg/day.
-There are insufficient data regarding the withdrawal of concomitant antiepileptic medicinal products to achieve monotherapy with lacosamide.
+
 The pharmacokinetics and safety of a single loading dose of iv lacosamide were determined in a multicenter, open-label study designed to assess the safety and tolerability of rapid initiation of lacosamide using a single iv loading dose (including 200 mg) followed by twice daily oral dosing (equivalent to the iv dose) as adjunctive therapy in adult subjects 16 to 60 years of age with partial-onset seizures.
+
+[Vimpat 100 mg film-coated tablets]
+
+The duration of the treatment was up to 121 weeks depending on the response.The estimated 6-month seizure freedom rates were 89.8% for lacosamide-treated patients and 91.1% for carbamazepine CR treated patients using the Kaplan-Meier survival analysis method.
+
+[Vimpat 150 mg film-coated tablets]
+
+(all sentences already above)
+
+[Vimpat 200 mg film-coated tablets]
+
+(all sentences already above)
+
+[Treatment initiation pack]
+
+(all sentences already above)
+
+[Vimpat 10 mg/ml syrup]
+
+(all sentences already above)
+
+[Vimpat 10 mg/ml solution for infusion]
+
+(all sentences already above)

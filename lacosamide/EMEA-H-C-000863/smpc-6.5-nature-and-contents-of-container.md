@@ -16,7 +16,7 @@ Multipacks containing 168 (3 packs of 56 tablets) film-coated tablets in PVC/PVD
 
 [Vimpat 200 mg film-coated tablets]
 
-Packs of 14 and56 film-coated tablets in PVC/PVDC blister sealed with an aluminium foil.
+(all sentences already above)
 
 [Treatment initiation pack]
 
