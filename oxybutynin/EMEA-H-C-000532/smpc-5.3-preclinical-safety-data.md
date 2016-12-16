@@ -14,6 +14,6 @@ The active substance oxybutynin is persistent in the environment.
 Non-clinical data reveal no special hazard for humans based on studies for acute toxicity, repeat dose toxicity, genotoxicity, carcinogenicity and local toxicity.
 Adverse reactions were observed in embryotoxicity studies in the rabbit.
 
-[Kentera 90.7 mg/g gel in a metering pump]
+[Kentera 90.7 mg/g gel]
 
 (all sentences already above)

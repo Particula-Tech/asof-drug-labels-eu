@@ -5,20 +5,22 @@ A new application site should be selected with each new patch to avoid reapplica
 
 The recommended dose is one 3.9 mg transdermal patch applied twice weekly (every 3 to 4 days).
 
-There is no experience in children
+Elderly population
+
+Based on clinical trial experience no dose adjustment is considered necessary in this population.
+Nonetheless Kentera should be used with caution in elderly patients, who may be more sensitive to the effects of centrally acting anticholinergics and exhibit differences in pharmacokinetics (see section 4.4).
+
+Paediatric population
+
+The safety and efficacy of Kentera in the paediatric population has not been established.
+Kentera is not recommended for use in the paediatric population.
+Currently available data are described in section 4.8 but no recommendation on a posology can be made.
 
 [Kentera 90.7 mg/g gel in sachet]
 
 Posology
 
 The recommended dose is one sachet applied once daily which corresponds to a delivery dose of approximately 4 mg.
-
-Elderly population
-
-Kentera should be used with caution in elderly patients, who may be more sensitive to the effects of centrally acting anticholinergics and exhibit differences in pharmacokinetics.
-
-Of the 496 patients exposed to Kentera in the randomised, double-blind, placebo-controlled 12-week study and the 14-week safety extension study, 188 patients (38%) were 65 years of age and older.
-No overall differences in safety or effectiveness were observed between these patients and younger patients therefore there is no need for dose adjustment in elderly patients.
 
 Renal impairment
 
@@ -28,9 +30,6 @@ Hepatic impairment
 
 There is no experience with the use of Kentera in patients with hepatic impairment.
 
-Paediatric population
-
-There is no relevant use of Kentera in children or adolescent patients up to 18 years of age.
 Method of administration
 
 Kentera should be applied to dry, intact skin on the abdomen, upper arms/shoulders, or thighs.
@@ -41,6 +40,6 @@ Avoid bathing, swimming, showering, exercising or immersing the application site
 
 It is recommended to cover the application site with clothing once the gel has dried.
 
-[Kentera 90.7 mg/g gel in a metering pump]
+[Kentera 90.7 mg/g gel]
 
-The recommended dose is one metered dose from the metering pump applied once daily which corresponds to a delivery dose of approximately 4 mg.
+The recommended dose is one metered dose from the multidose container with metering pump applied once daily which corresponds to a delivery dose of approximately 4 mg.

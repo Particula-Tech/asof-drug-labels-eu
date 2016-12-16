@@ -18,6 +18,6 @@ Hydroxypropylcellulose
 Sodium hydroxide (for pH-adjustment)
 Purified water
 
-[Kentera 90.7 mg/g gel in a metering pump]
+[Kentera 90.7 mg/g gel]
 
 (all sentences already above)

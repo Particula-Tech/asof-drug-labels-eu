@@ -20,9 +20,9 @@ Avoid bathing, swimming, showering, exercising or immersing the application site
 
 Any unused product or waste material should be disposed of in accordance with local requirements.
 
-[Kentera 90.7 mg/g gel in a metering pump]
+[Kentera 90.7 mg/g gel]
 
-Before using the pump for the first time the metering pump should be primed.
+Before using the pump for the first time the multidose container should be primed.
 To prime the pump, fully depress the pump mechanism repeatedly until gel is observed, then depress the pump one more time, and discard this portion of the medicinal product to assure precise dose delivery.
 The pump is now primed and ready for use.
 After the priming step is complete, 30 full doses will remain in the pump.
@@ -31,4 +31,4 @@ The metered dose should be applied immediately.
 Always place the small protective cap back firmly on the tip of the pump nozzle and the large pump cover over the top of the pump after each use.
 If prime is lost during the use (no gel is dispensed after depressing the pump), repeat as instructed above to re-prime the pump.
 
-Empty metering pump must be discarded in accordance with local requirements.
+Empty multidose container must be discarded in accordance with local requirements.

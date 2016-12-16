@@ -8,6 +8,17 @@ If urinary tract infection is present, an appropriate antibacterial therapy shou
 Urinary retention: Anticholinergic products should be administered with caution to patients with clinically significant bladder outflow obstruction because of the risk of urinary retention.
 
 Kentera should be used with caution in elderly patients, who may be more sensitive to the effects of centrally acting anticholinergics and exhibit differences in pharmacokinetics.
+
+In total 496 patients were exposed to Kentera in the randomised, double-blind, placebo-controlled 12-week and the 14-week safety extension studies.
+Of these 188 patients (38%) were 65 years of age and older and exhibited no overall differences in safety or effectiveness compared to younger patients.
+Thus based on current clinical evidence no need for dose adjustment in elderly patients is considered necessary.
+
+Psychiatric and central nervous system (CNS) anticholinergic events like sleep disorders (e.g. insomnia) and cognitive disorders have been associated with oxybutynin use, especially in elderly patients.
+Caution should be exercised when oxybutynin is administrated concomitantly with other anticholinergic medicines (see also section 4.5).
+If a patient experiences such events, drug discontinuation should be considered.
+
+Other psychiatric events implying an anticholinergic mechanism have been reported during post-marketing use (see section 4.8).
+
 Oral administration of oxybutynin may warrant the following cautionary statements, but these events were not observed during clinical trials with Kentera:
 
 Gastrointestinal disorders: Anticholinergic medicinal products may decrease gastrointestinal motility and should be used with caution in patients with gastrointestinal obstructive disorders because of the risk of gastric retention.
@@ -44,6 +55,6 @@ Gastrointestinal disorders
 
 Anticholinergic medicinal products may decrease gastrointestinal motility and should be used with caution in patients with gastrointestinal obstructive disorders because of the risk of gastric retention, and in conditions such as ulcerative colitis, and intestinal atony.
 
-[Kentera 90.7 mg/g gel in a metering pump]
+[Kentera 90.7 mg/g gel]
 
 (all sentences already above)

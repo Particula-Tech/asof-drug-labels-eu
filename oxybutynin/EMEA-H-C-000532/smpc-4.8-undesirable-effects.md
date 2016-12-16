@@ -3,80 +3,42 @@
 The most commonly reported adverse drug reactions were application site reactions, occurring in 23.1% of patients.
 Other commonly occurring adverse drug reactions reported were dry mouth (8.6%), constipation (3.9%), diarrhoea (3.2%), headache (3.0%), dizziness (2.3%) and blurred vision (2.3%).
 
-Adverse reactions known to be associated with anticholinergic therapy, but not observed with Kentera during clinical studies are anorexia, vomiting, reflux oesophagitis, decreased sweating, heat stroke, decreased lacrimation, mydriasis, tachycardia, arrhythmia, disorientation, poor ability to concentrate, fatigue, nightmares, restlessness, convulsion, intraocular hypertension and induction of glaucoma, confusion, anxiety, paranoia, hallucinations, photosensitivity, erectile dysfunction.
+Tabulated list of adverse reactions
 
-The adverse reactions reported below are classified according to frequency of occurrence as follows:
+Adverse reactions from phase 3 and 4 clinical studies are listed below by system organ class and frequency grouping.
+Frequencies are defined as: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000).
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+Post-marketing adverse reactions not seen in clinical trials are also included.
 
-- Very common (≥ 1/10)
-- Common (≥ 1/100 to < 1/10)
-- Uncommon (≥ 1/1,000 to < 1/100)
+| MedDRA System Organ Class | Incidence | Adverse reactions |
+| --- | --- | --- |
+| Infections and infestations | Common | Urinary tract infection |
+|  | Uncommon | Upper respiratory tract infection, fungal infection |
+| Psychiatric disorders | Uncommon | Anxiety, confusion, nervousness, agitation, insomnia |
+|  | Rare | Panic reaction#, delirium#, hallucinations#, disorientation# |
+| Nervous system disorders | Common | Headache, somnolence |
+|  | Rare | Memory impairment#, amnesia#, lethargy#, disturbance in attention# |
+| Eye disorders | Common | Blurred vision |
+| Ear and labyrinth disorders | Common | Dizziness |
+| Cardiac disorders | Uncommon | Palpitations |
+| Vascular disorders | Uncommon | Urticaria, hot flushes |
+| Respiratory, thoracic and mediastinal disorders | Uncommon | Rhinitis |
+| Gastrointestinal disorders | Common | Dry mouth, constipation, diarrhoea, nausea, abdominal pain |
+|  | Uncommon | Abdominal discomfort, dyspepsia |
+| Musculoskeletal and connective tissue disorders | Uncommon | Back pain |
+| Renal and urinary disorders | Uncommon | Urinary retention, dysuria |
+| General disorders and administration site conditions | Very common | Application site pruritis |
+|  | Common | Application site erythema, application site reaction, application site rash |
+| Injury, poisoning and procedural complications | Uncommon | Inflicted injury |
 
-Infections and infestations
-Common:
+# post-marketing adverse reactions from post-marketing reports only (not seen in clinical trials), with the frequency category estimated from clinical trial safety data, and reported in association with oxybutynin topical use (anticholinergic class effects).
 
-- Urinary tract infection
+Adverse reactions considered associated with anticholinergic therapy,in general or observed with oral administration of oxybutynin, but as of yet not with Kentera in clinical trials or post-marketing, are: anorexia, vomiting, reflux oesophagitis, decreased sweating, heat stroke, decreased lacrimation, mydriasis, tachycardia, arrhythmia, nightmares, restlessness, convulsion, intraocular hypertension and induction of glaucoma, paranoia, photosensitivity, erectile dysfunction.
 
-Uncommon:
+Paediatric population
 
-- Upper respiratory tract infection, fungal infection
-
-Eye disorders
-Common:
-
-- Blurred vision
-
-Ear and labyrinth disorders
-Common:
-
-- Dizziness
-
-Cardiac disorders
-Uncommon:
-
-- Palpitations
-
-Vascular disorders
-Uncommon:
-
-- Urticaria, hot flushes
-
-Gastrointestinal disorders
-Common:
-
-- Dry mouth, constipation, diarrhoea, nausea, abdominal pain
-
-Uncommon:
-
-- Abdominal discomfort, dyspepsia
-
-Musculoskeletal and connective tissue disorders
-Uncommon:
-
-- Back pain
-
-Renal and urinary disorders
-Uncommon:
-
-- Urinary retention, dysuria
-
-General disorders and administration site conditions
-Very common:
-
-- Application site pruritis
-
-Common:
-
-- Application site erythema, application site reaction, application site rash, headache, Somnolence
-
-Uncommon:
-
-- Rhinitis
-
-Injury, poisoning and procedural complications
-Uncommon:
-
-- Inflicted injury
-
+During post-marketing use in this age group, cases of hallucinations (associated with anxiety manifestations) and sleep disorders correlated with oxybutynin have been reported.
+Children may be more sensitive to the effects of the product, particularly the CNS and psychiatric adverse reactions.
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
@@ -91,51 +53,31 @@ The safety of Kentera was evaluated in patients with urge urinary incontinence i
 The most commonly reported adverse reaction was dry mouth (Kentera 6.9%, placebo 2.8%).
 Other adverse reactions reported were application site pruritus (Kentera 2.1%, placebo 0.8%), application site dermatitis (Kentera 1.8%, placebo 0.3%), dizziness (Kentera 1.5%, placebo 0.5%), headache (Kentera 1.5%, placebo 2.8%), constipation (Kentera 1.3%, placebo 1.0%), and pruritus (Kentera 1.3%, placebo 1.3%).
 
-Tabulated list of adverse reactions
-
-In the table below, adverse reactions reported in the double-blind period of the Phase 3 study are listed by MedDRA system organ class and frequency: very common (≥ 1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000).
-
-Adverse reactions reported in the double-blind period of the Phase 3 study
-
-| System organ class | Common (≥1/100 to <1/10) | Uncommon (≥1/1,000 to <1/100) |
+| MedDRA System Organ Class | Incidence | Adverse reactions |
 | --- | --- | --- |
-| Infections and infestations |  | Urinary tract infections |
-| Metabolism and nutrition disorders |  | Hypokalaemia |
-| Psychiatric disorders |  | Anxiety |
-| Nervous system disorders | Headache Dizziness | Somnolence Dysgeusia Poor quality sleep Tremor |
-| Eye disorders |  | Dry eye |
-| Ear and labyrinth disorders |  | Vertigo |
-| Cardiac disorders |  | Atrial fibrillation Atrial flutter |
+| Infections and infestations | Uncommon | Urinary tract infections |
+| Metabolism and nutrition disorders | Uncommon | Hypokalaemia |
+| Psychiatric disorders | Uncommon | Anxiety, confusion, nervousness, agitation, insomnia |
+|  | Rare | Panic reaction#, delirium#, hallucinations#, disorientation# |
+| Nervous system disorders | Common | Headache, dizziness |
+|  | Uncommon | Somnolence, dysgeusia, poor quality to sleep, tremor |
+|  | Rare | Memory impairment#, amnesia#, lethargy#, disturbance in attention# |
+| Eye disorders | Uncommon | Dry eye |
+| Ear and labyrinth disorders | Uncommon | Vertigo |
+| Cardiac disorders | Uncommon | Atrial fibrillation, atrial flutter, sinus arrhythmia |
+| Vascular disorders | Uncommon | Flushing |
+| Respiratory thoracic and mediastinal disorders | Uncommon | Cough, increased upper airway secretion |
+| Gastrointestinal disorders | Common | Dry mouth, constipation |
+|  | Uncommon | Diarrhoea, nausea, dyspepsia, vomiting, haemorrhoids |
+| Skin and subcutaneous tissue disorders | Common | Pruritus |
+|  | Uncommon | Rash, dry skin, rash pruritic |
+| Renal and urinary disorders | Uncommon | Dysuria, haematuria, renal pain, urinary retention |
+| General disorders and administration site conditions | Common | Application site pruritis, application site dermatitis |
+|  | Uncommon | Fatigue, oedema peripheral, application site papules, application site anaesthesia, application site erythema, application site irritation, application site pain, application site pustules |
+| Investigations | Uncommon | Electrocardiogram abnormal, electrocardiogram change, blood chloride increased |
 
-| System organ class | Common (≥1/100 to <1/10) | Uncommon (≥1/1,000 to <1/100) |
-| --- | --- | --- |
-|  |  | Sinus arrhythmia |
-| Vascular disorders |  | Flushing |
-| Respiratory thoracic and mediastinal disorders |  | Cough Increased upper airway secretion |
-| Gastrointestinal disorders | Dry mouth Constipation | Diarrhoea Nausea Dyspepsia Vomiting Haemorrhoids |
-| Skin and subcutaneous tissue disorders | Pruritus | Rash Dry skin Rash pruritic |
-| Renal and urinary disorders |  | Dysuria Haematuria Renal pain Urinary retention |
-| General disorders and administration site conditions | Application site pruritus Application site dermatitis | Fatigue Oedema peripheral Application site papules Application site anaesthesia Application site erythema Application site irritation Application site pain Application site pustules |
-| Investigations |  | Electrocardiogram abnormal Electrocardiogram change Blood chloride increased |
+Adverse reactions considered associated with anticholinergic therapy in general or observed with oral administration of oxybutynin, but as of yet not with Kentera in clinical trials or post-marketing, are: anorexia, vomiting, reflux oesophagitis, decreased sweating, heat stroke, decreased lacrimation, mydriasis, tachycardia, arrhythmia, nightmares, restlessness, convulsion, intraocular hypertension and induction of glaucoma, paranoia, photosensitivity, erectile dysfunction.
 
-[Kentera 90.7 mg/g gel in a metering pump]
+[Kentera 90.7 mg/g gel]
 
-| System organ class | Common (≥1/100 to <1/10) | Uncommon (≥1/1,000 to <1/100) |
-| --- | --- | --- |
-| Infections and infestations |  | Urinary tract infections |
-| Metabolism and nutrition disorders |  | Hypokalaemia |
-| Psychiatric disorders |  | Anxiety |
-| Nervous system disorders | Headache Dizziness | Somnolence Dysgeusia Poor quality sleep Tremor |
-| Eye disorders |  | Dry eye |
-| Ear and labyrinth disorders |  | Vertigo |
-| Cardiac disorders |  | Atrial fibrillation Atrial flutter Sinus arrhythmia |
-
-| System organ class | Common (≥1/100 to <1/10) | Uncommon (≥1/1,000 to <1/100) |
-| --- | --- | --- |
-| Vascular disorders |  | Flushing |
-| Respiratory thoracic and mediastinal disorders |  | Cough Increased upper airway secretion |
-| Gastrointestinal disorders | Dry mouth Constipation | Diarrhoea Nausea Dyspepsia Vomiting Haemorrhoids |
-| Skin and subcutaneous tissue disorders | Pruritus | Rash Dry skin Rash pruritic |
-| Renal and urinary disorders |  | Dysuria Haematuria Renal pain Urinary retention |
-| General disorders and administration site conditions | Application site pruritus Application site dermatitis | Fatigue Oedema Peripheral Application site papules Application site anaesthesia Application site erythema Application site irritation Application site pain Application site pustules |
-| Investigations |  | Electrocardiogram abnormal Electrocardiogram change Blood chloride increased |
+(all sentences already above)

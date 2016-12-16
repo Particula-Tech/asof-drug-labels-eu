@@ -11,10 +11,10 @@ The sachet is constructed from a multi-layer foil based laminate pouch material 
 Each sachet contains 1 g of gel.
 Cartons of 30 sachets.
 
-[Kentera 90.7 mg/g gel in a metering pump]
+[Kentera 90.7 mg/g gel]
 
-The metering pump is comprised of an outer polypropylene bottle with a Low Density Polyethylene (LDPE) pouch liner, a polypropylene metering pump, with ethylene propylene diene monomer (EPDM) gaskets, and a polypropylene cap.
+The multidose container is comprised of an outer polypropylene bottle with a Low Density Polyethylene (LDPE) pouch liner, a polypropylene metering pump, with ethylene propylene diene monomer (EPDM) gaskets, and a polypropylene cap.
 
-Each metering pump contains at least 30 grams of Kentera and dispenses 30 metered 1 gram doses.
+Each multidose container contains at least 30 grams of Kentera and dispenses 30 metered 1 gram doses.
 
-Kentera is packaged in a carton containing 1 metering pump.
+Kentera is packaged in a carton containing 1 multidose container with metering pump.

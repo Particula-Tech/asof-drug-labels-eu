@@ -7,6 +7,7 @@ Mechanism of action: oxybutynin acts as a competitive antagonist of acetylcholin
 Pharmacodynamic effects:
 In patients with overactive bladder, characterised by detrusor muscle instability or hyperreflexia, cystometric studies have demonstrated that oxybutynin increases maximum urinary bladder capacity and increases the volume to first detrusor contraction.
 Oxybutynin thus decreases urinary urgency and the frequency of both incontinence episodes and voluntary urination.
+
 Oxybutynin is a racemic (50:50) mixture of R- and S-isomers.
 Antimuscarinic activity resides predominantly in the R-isomer.
 The R-isomer of oxybutynin shows greater selectivity for the M1 and M3 muscarinic subtypes (predominant in bladder detrusor muscle and parotid gland) compared to the M2 subtype (predominant in cardiac tissue).
@@ -27,7 +28,6 @@ Mechanism of action
 Oxybutynin acts as a competitive antagonist of acetylcholine at post-ganglionic muscarinic receptors, resulting in relaxation of bladder smooth muscle.
 
 The efficacy and safety of Kentera were evaluated in patients with urge urinary incontinence in a single Phase 3 study.
-
 The Phase 3 study was a randomised, double-blind, placebo-controlled, parallel group study that included 789 patients.
 The 12-week double-blind treatment included daily applications of Kentera or matching placebo gel.
 A 14-week, open-label treatment was available for a subset of patients who completed the double-blind period.
@@ -39,10 +39,13 @@ Significant improvements in the quality of life evaluations measured during the 
 
 Mean and median change from baseline in daily incontinence episodes (primary endpoint), urinary frequency, and urinary void volume between placebo and active treatment groups are summarised in the table below.
 
-| Mean and median change from baseline for incontinence episodes, urinary frequency, and urinary void volume at Week 12 (LOCF) |  |  |
-| --- | --- | --- |
+Mean and median change from baseline for incontinence episodes, urinary frequency, and urinary void volume at Week 12 (LOCF)
+
 | Parameter | Kentera (N=389) Mean (SD) Median | Placebo (N=400) Mean (SD) Median |
-| Daily incontinence episodes Baseline Change from baseline P-value vs. placebo Daily urinary frequency Baseline Change from baseline P-value vs. placebo Urinary void volume (ml) Baseline Change from baseline P-value vs. placebo Daily nocturia episodes | 5.4 (3.26) 4.7 -3.0 (2.73) -2.7 <0.0001 12.4 (3.34) 11.7 -2.7 (3.21) -2.7 0.0017 163.4 (65.85) 160.1 21.0 (65.33) 11.5 0.0018 | 5.4 (3.28) 4.7 -2.5 (3.06) -2.0 -- 12.2 (3.32) 11.3 -2.0 (2.82) -1.7 -- 167.9 (68.40) 160.6 3.8 (53.79) 0.0 -- |
+| --- | --- | --- |
+| Daily incontinence episodes Baseline Change from baseline P-value vs. placebo Daily urinary frequency Baseline Change from baseline P-value vs. placebo Urinary void volume (ml) Baseline Change from baseline P-value vs. placebo Daily nocturia episodes | 5.4 (3.26) 4.7 -3.0 (2.73) -2.7 <0.0001 | 5.4 (3.28) 4.7 -2.5 (3.06) -2.0 -- |
+|  | 12.4 (3.34) 11.7 -2.7 (3.21) -2.7 0.0017 | 12.2 (3.32) 11.3 -2.0 (2.82) -1.7 -- |
+|  | 163.4 (65.85) 160.1 21.0 (65.33) 11.5 0.0018 | 167.9 (68.40) 160.6 3.8 (53.79) 0.0 -- |
 | Baseline Change from baseline P-value vs. placebo | 2.5 (1.61) 2.3 -0.7 (1.40) -0.7 0.1372 | 2.5 (1.71) 2.3 -0.7 (1.32) -0.7 -- |
 
 During the double-blind treatment a significant positive effect on quality of life was seen with Kentera based on the Incontinence Impact Questionnaire (IIQ).
@@ -77,12 +80,9 @@ Significant positive effects were also noted for each subscale domain of the IIQ
 | Sleep and energy | -15.6 (24.18) | -10.3 (22.42) | 0.0061 |
 | Severity (coping) measures | -15.3 (21.40) | -11.1 (19.16) | 0.0058 |
 
-[Kentera 90.7 mg/g gel in a metering pump]
-
-Mean and median change from baseline for incontinence episodes, urinary frequency, and urinary void volume at Week 12 (LOCF)
+[Kentera 90.7 mg/g gel]
 
 | Parameter | Kentera (N=389) Mean (SD) Median | Placebo (N=400) Mean (SD) Median |
 | --- | --- | --- |
-| Daily incontinence episodes Baseline 5.4 (3.26) 4.7 Change from baseline -3.0 (2.73) -2.7 P-value vs. placebo <0.0001 Daily urinary frequency Baseline 12.4 (3.34) 11.7 Change from baseline -2.7 (3.21) -2.7 P-value vs. placebo 0.0017 Urinary void volume (ml) Baseline 163.4 (65.85) 160.1 Change from baseline 21.0 (65.33) 11.5 P-value vs. placebo 0.0018 |  | 5.4 (3.28) 4.7 -2.5 (3.06) -2.0 -- 12.2 (3.32) 11.3 -2.0 (2.82) -1.7 -- 167.9 (68.40) 160.6 3.8 (53.79) 0.0 -- |
-| Daily nocturia episodes Baseline 2.5 (1.61) 2.3 Change from baseline -0.7 (1.40) -0.7 |  | 2.5 (1.71) 2.3 -0.7 (1.32) -0.7 |
+| Daily incontinence episodes Baseline 5.4 (3.26) 4.7 Change from baseline -3.0 (2.73) -2.7 P-value vs. placebo <0.0001 Daily urinary frequency Baseline 12.4 (3.34) 11.7 Change from baseline -2.7 (3.21) -2.7 P-value vs. placebo 0.0017 Urinary void volume (ml) Baseline 163.4 (65.85) 160.1 Change from baseline 21.0 (65.33) 11.5 P-value vs. placebo 0.0018 Daily nocturia episodes Baseline 2.5 (1.61) 2.3 Change from baseline -0.7 (1.40) -0.7 |  | 5.4 (3.28) 4.7 -2.5 (3.06) -2.0 -- 12.2 (3.32) 11.3 -2.0 (2.82) -1.7 -- 167.9 (68.40) 160.6 3.8 (53.79) 0.0 -- 2.5 (1.71) 2.3 -0.7 (1.32) -0.7 |
 | P-value vs. placebo | 0.1372 | -- |

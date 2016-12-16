@@ -8,6 +8,6 @@ EU/1/03/270/003 2 transdermal patches
 
 EU/1/03/270/004 30 sachets
 
-[Kentera 90.7 mg/g gel in a metering pump]
+[Kentera 90.7 mg/g gel]
 
-EU/1/03/270/005 1 metering pump
+EU/1/03/270/005 1 multidose container with metering pump

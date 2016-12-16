@@ -50,6 +50,6 @@ Use with sunscreen
 The effect of sunscreen on the absorption of oxybutynin when applied 30 minutes before or 30 minutes after Kentera application was evaluated in a single-dose randomised crossover study (N=16).
 Concomitant application of sunscreen, either before or after Kentera application, had no effect on the systemic exposure of oxybutynin.
 
-[Kentera 90.7 mg/g gel in a metering pump]
+[Kentera 90.7 mg/g gel]
 
 (all sentences already above)
