@@ -2,7 +2,7 @@
 
 Instructions for reconstitution and infusion
 
-Entyvio should be at room temperature (20°C -25°C) when reconstituted.
+Entyvio should be at room temperature (20°C-25°C) when reconstituted.
 
 1.
 Use aseptic technique when preparing Entyvio solution for intravenous infusion.
@@ -31,7 +31,7 @@ Administer the infusion solution over 30 minutes (see section 4.2).
 
 Entyvio does not contain preservatives.
 Once reconstituted, the infusion solution should be used as soon as possible.
-However, if necessary, the infusion solution may be stored for up to 24 hours: this 24 hour hold may include up to 12 hours at 20°C-25°C; any additional hold time must be at 2°C -8°C.
+However, if necessary, the infusion solution may be stored for up to 24 hours: this 24 hour hold may include up to 12 hours at 20°C-25°C; any additional hold time must be at 2°C-8°C.
 Do not freeze.
 Do not store any unused portion of the infusion solution for reuse.
 
