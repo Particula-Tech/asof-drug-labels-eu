@@ -14,10 +14,12 @@ The frequency of adverse reactions is defined using the following convention: ve
 | --- | --- | --- |
 | Infections and infestations | Nasopharyngitis Upper respiratory tract infection Urinary tract infection Sinusitis Pharyngitis | Common Common Common Common Uncommon |
 | Nervous system disorders | Headache Dysgeusia | Common Uncommon |
+| Eye disorders | Glaucoma Vision blurred | Not known Not known |
 | Cardiac disorders | Atrial fibrillation Rhythm idioventricular Supraventricular tachycardia Supraventricular extrasystoles Tachycardia | Uncommon Uncommon Uncommon Uncommon Common |
 | Respiratory, thoracic and mediastinal disorders | Cough | Common |
 | Gastrointestinal disorders | Constipation Dry mouth | Uncommon Uncommon |
 | Skin and subcutaneous tissue disorders | Rash | Uncommon |
+| Renal and urinary disorders | Urinary retention Dysuria | Not known Not known |
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

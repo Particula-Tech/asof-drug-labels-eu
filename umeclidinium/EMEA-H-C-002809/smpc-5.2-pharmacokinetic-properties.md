@@ -26,11 +26,11 @@ The excretion of the drug-related material in the faeces following intravenous d
 Following oral administration to healthy male subjects, total radioactivity was excreted primarily in faeces (92% of the administered radiolabelled dose or 99% of the recovered radioactivity) by 168 hours post-dose.
 Less than 1% of the orally administered dose (1% of recovered radioactivity) was excreted in urine, suggesting negligible absorption following oral administration.
 Umeclidinium bromide plasma elimination half-life following inhaled dosing for 10 days averaged 19 hours, with 3% to 4% active substance excreted unchanged in urine at steady-state.
-
 Characteristics in specific groups of subjects or patients
 
 Elderly
 A population pharmacokinetic analysis showed that pharmacokinetics of umeclidinium bromide are similar between COPD patients 65 years and older and those younger than 65 years of age.
+
 Renal impairment
 Subjects with severe renal impairment (creatinine clearance <30mL/min) showed no evidence of an increase in systemic exposure to umeclidinium bromide (Cmax and AUC), and no evidence of altered protein binding between subjects with severe renal impairment and healthy volunteers.
 

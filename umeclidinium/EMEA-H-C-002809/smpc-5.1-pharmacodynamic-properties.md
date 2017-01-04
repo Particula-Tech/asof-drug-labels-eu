@@ -8,6 +8,7 @@ Umeclidinium bromide is a long acting muscarinic receptor antagonist (also refer
 It is a quinuclidine derivative that is a muscarinic receptor antagonist with activity across multiple muscarinic cholinergic receptor subtypes.
 Umeclidinium bromide exerts its bronchodilatory activity by competitively inhibiting the binding of acetylcholine with muscarinic cholinergic receptors on airway smooth muscle.
 It demonstrates slow reversibility at the human M3 muscarinic receptor subtype in vitro and a long duration of action in vivo when administered directly to the lungs in pre-clinical models.
+
 Pharmacodynamic effects
 
 In a Phase III, 6-month study (DB2113373) Incruse provided a clinically meaningful improvement over placebo in lung function (as measured by forced expiratory volume in 1 second [FEV1]) over 24 hours following once daily administration, which was evident at 30 minutes following administration of the first dose (improvement over placebo by 102 mL, p<0.001*).
@@ -42,8 +43,6 @@ mcg = micrograms
 Incruse demonstrated a statistically significant greater improvement from baseline in weighted mean FEV1 over 0-6 hours post-dose at Week 12 compared with placebo (166 ml, p<0.001) in the 12-week pivotal study.
 Incruse demonstrated a greater improvement from baseline in weighted mean FEV1 over 0-6 hours post-dose at Week 24 compared with placebo (150 ml, p<0.001*) in the 24-week pivotal study.
 
-*A step-down statistical testing procedure was used in this study and this comparison was below a comparison that did not achieve statistical significance.
-Therefore, statistical significance on this comparison cannot be inferred.
 Symptomatic outcomes
 Breathlessness:
 In the 12-week study, a statistically significant improvement compared with placebo in the TDI focal score at Week 12 was not demonstrated for Incruse (1.0 units, p=0.05).
@@ -71,13 +70,16 @@ Patients receiving Incruse had a higher percentage of days when no rescue medica
 No formal statistical testing was performed on this endpoint.
 
 Supporting efficacy studies
-In two 12-week, placebo controlled studies (200109 and 200110), the addition of Incruse to fluticasone furoate/vilanterol (FF/VI) (92/22 micrograms) once daily in adult patients with a clinical diagnosis of COPD, resulted in statistically significant and clinically meaningful improvements in the primary endpoint of trough FEV1 at Day 85 compared to placebo plus FF/VI (124 mL (95% CI 93, 154, p<0.001) and 122 mL (95%CI 91, 152, p<0.001)).
-
-Improvements in lung function were supported with reductions in use of salbutamol over Weeks 1-12 (-0.4 puffs per day (95% CI -0.7, -0.2, p<0.001) and -0.3 puffs per day (95% CI -0.5, -0.1, p=0.003)) compared to
+In two 12-week, placebo controlled studies (200109 and 200110), the addition of Incruse to fluticasone furoate/vilanterol (FF/VI) (92/22 micrograms) once daily in adult patients with a clinical diagnosis of COPD, resulted in statistically significant and clinically meaningful improvements in the primary endpoint of trough
 
 *A step-down statistical testing procedure was used in this study and this comparison was below a comparison that did not achieve statistical significance.
 Therefore, statistical significance on this comparison cannot be inferred.
-placebo plus FF/VI but improvements in SGRQ at week 12 were not statistically significant (200109) or clinically relevant (200109 and 200110).
+
+*A step-down statistical testing procedure was used in this study and this comparison was below a comparison that did not achieve statistical significance.
+Therefore, statistical significance on this comparison cannot be inferred.
+FEV1 at Day 85 compared to placebo plus FF/VI (124 mL (95% CI 93, 154, p<0.001) and 122 mL (95%CI 91, 152, p<0.001)).
+
+Improvements in lung function were supported with reductions in use of salbutamol over Weeks 1-12 (-0.4 puffs per day (95% CI -0.7, -0.2, p<0.001) and -0.3 puffs per day (95% CI -0.5, -0.1, p=0.003)) compared to placebo plus FF/VI but improvements in SGRQ at week 12 were not statistically significant (200109) or clinically relevant (200109 and 200110).
 The short duration of the studies and limited number of exacerbation events, preclude any conclusion regarding additional effect of Incruse on COPD exacerbation rate.
 
 No new adverse drug reactions were identified with the addition of Incruse to FF/VI in these studies.
