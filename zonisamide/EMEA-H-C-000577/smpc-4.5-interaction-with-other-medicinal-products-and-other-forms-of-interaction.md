@@ -14,7 +14,9 @@ Oral contraceptives
 In clinical studies in healthy subjects, steady-state dosing with Zonegran did not affect serum concentrations of ethinylestradiol or norethisterone in a combined oral contraceptive.
 
 Carbonic anhydrase inhibitors
-Zonegran should be used with caution in patients treated concomitantly with carbonic anhydrase inhibitors such as topiramate, as there are insufficient data to rule out a possible pharmacodynamic interaction t (see section 4.4).
+Zonegran should be used with caution in adult patients treated concomitantly with carbonic anhydrase inhibitors such as topiramate and acetazolamide, as there are insufficient data to rule out a possible pharmacodynamic interaction (see section 4.4).
+
+Zonegran should not be used as co-medication in paediatric patients with other carbonic anhydrase inhibitors such as topiramate and acetazolamide (see section 4.4 Paediatric population).
 
 P-gp substrate
 An in vitro study shows that zonisamide is a weak inhibitor of P-gp (MDR1) with an IC50 of 267 µmol/l and there is the theoretical potential for zonisamide to affect the pharmacokinetics of substances which are P-gp substrates.
@@ -37,31 +39,5 @@ Zonisamide is metabolised partly by CYP3A4 (reductive cleavage), and also by N-a
 (1200 mg/day) had no clinically relevant effects on the single-dose pharmacokinetics of zonisamide given to healthy subjects.
 Therefore, modification of Zonegran dosing should not be necessary when co-administered with known CYP3A4 inhibitors.
 
-[Zonegran 50 mg hard capsules.]
-
-Zonegran should be used with caution in adult patients treated concomitantly with carbonic anhydrase inhibitors such as topiramate and acetazolamide, as there are insufficient data to rule out a possible pharmacodynamic interaction (see section 4.4).
-
-Zonegran should not be used as co-medication in paediatric patients with other carbonic anhydrase inhibitors such as topiramate and acetazolamide (see section 4.4 Paediatric Population).
-
 Paediatric population
 Interaction studies have only been performed in adults.
-
-[Zonegran 100 mg hard capsules]
-
-(all sentences already above)
-
-[Zonegran 25 mg orodispersible tablets]
-
-(all sentences already above)
-
-[Zonegran 50 mg orodispersible tablets]
-
-(all sentences already above)
-
-[Zonegran 100 mg orodispersible tablets]
-
-(all sentences already above)
-
-[Zonegran 300 mg orodispersible tablets]
-
-(all sentences already above)

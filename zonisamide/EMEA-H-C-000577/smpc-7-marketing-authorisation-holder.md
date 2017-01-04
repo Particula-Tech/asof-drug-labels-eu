@@ -1,12 +1,12 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Eisai Limited
-European Knowledge Centre
-Mosquito Way
-Hatfield, Hertfordshire, AL10 9SN
+Eisai Limited,
+European Knowledge Centre,
+Mosquito Way,
+Hatfield, Hertfordshire, AL10 9SN,
 United Kingdom
 
-[Zonegran 50 mg hard capsules.]
+[Zonegran 50 mg hard capsules]
 
 (all sentences already above)
 
@@ -16,7 +16,7 @@ United Kingdom
 
 [Zonegran 25 mg orodispersible tablets]
 
-Hatfield, Hertfordshire AL10 9SN
+Hatfield, Hertfordshire AL10 9SN,
 
 [Zonegran 50 mg orodispersible tablets]
 

@@ -2,7 +2,7 @@
 
 Do not store above 30°C.
 
-[Zonegran 50 mg hard capsules.]
+[Zonegran 50 mg hard capsules]
 
 (all sentences already above)
 

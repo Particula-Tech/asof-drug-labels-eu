@@ -5,7 +5,7 @@ EU/1/04/307/005
 EU/1/04/307/002
 EU/1/04/307/013
 
-[Zonegran 50 mg hard capsules.]
+[Zonegran 50 mg hard capsules]
 
 EU/1/04/307/010
 EU/1/04/307/009

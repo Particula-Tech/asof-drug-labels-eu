@@ -2,7 +2,7 @@
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-[Zonegran 50 mg hard capsules.]
+[Zonegran 50 mg hard capsules]
 
 (all sentences already above)
 

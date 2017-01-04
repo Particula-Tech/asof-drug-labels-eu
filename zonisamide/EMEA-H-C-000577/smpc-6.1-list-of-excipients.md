@@ -13,7 +13,7 @@ Propylene glycol
 Potassium hydroxide
 Black iron oxide (E172)
 
-[Zonegran 50 mg hard capsules.]
+[Zonegran 50 mg hard capsules]
 
 (all sentences already above)
 
