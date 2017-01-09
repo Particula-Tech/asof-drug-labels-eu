@@ -9,7 +9,7 @@ hypromellose titanium dioxide (E171) lactose monohydrate triacetin indigo carmin
 [VIAGRA 50 mg orodispersible tablets]
 
 Microcrystalline cellulose
-Silica, colloidal anhydrous
+Silica, hydrophobic colloidal
 Croscarmellose sodium
 Magnesium stearate
 Indigo carmine aluminium lake (E132)
