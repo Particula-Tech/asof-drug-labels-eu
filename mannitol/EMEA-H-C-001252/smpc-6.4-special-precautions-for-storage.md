@@ -1,5 +1,6 @@
 # 6.4 Special precautions for storage
 
-Store below 25°C.
+Store below 30°C.
 
-Bronchitol capsules must always be stored in the blister to protect from moisture and only removed immediately before use.
+Store in the original blister in order to protect from moisture.
+The capsules must only be removed immediately before use.

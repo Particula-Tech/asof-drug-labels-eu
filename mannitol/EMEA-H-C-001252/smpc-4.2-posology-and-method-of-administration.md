@@ -1,6 +1,6 @@
 # 4.2 Posology and method of administration
 
-The patient’s initiation dose of Bronchitol (400 mg) must be used under the supervision and monitoring of an experienced physician or another health care professional appropriately trained and equipped to perform spirometry, monitor oxygen saturation (SpO2), and manage acute bronchospasm (see sections 4.4 and 4.8) including appropriate use of resuscitation equipment.
+The patient’s initiation dose of Bronchitol must be used under the supervision and monitoring of an experienced physician or another health care professional appropriately trained and equipped to perform spirometry, monitor oxygen saturation (SpO2), and manage acute bronchospasm (see sections 4.4 and 4.8) including appropriate use of resuscitation equipment.
 
 Posology
 
@@ -25,6 +25,12 @@ Therapeutic dose regimen
 The therapeutic dose regimen should not be prescribed until the initiation dose assessment has been performed.
 The patient must complete and pass the initiation dose assessment before starting treatment with Bronchitol.
 
+A bronchodilator must be administered 5-15 minutes before each dose of Bronchitol.
+
+The recommended dose of Bronchitol is 400 mg twice a day.
+This requires the inhalation of the contents of ten capsules via the inhaler device twice a day.
+The doses should be taken morning and night with the evening dose taken 2-3 hours before bedtime.
+
 For patients receiving several respiratory therapies, the recommended order is:
 
 1.
@@ -38,19 +44,14 @@ Dornase alfa (if applicable)
 5.
 Inhaled antibiotics (if applicable)
 
-A bronchodilator must be administered 5-15 minutes before each dose of Bronchitol.
-
-The recommended dose of Bronchitol is 400 mg twice a day.
-This requires the inhalation of the contents of ten capsules via the inhaler device twice a day.
-
 Special populations
+
+Elderly patients (≥65 years)
+There are insufficient data in this population to support a recommendation for or against dose adjustment.
 
 Renal or hepatic impairment
 Bronchitol has not specifically been studied in patients with impaired renal and hepatic function.
 Available data from studies DPM-CF-301 and 302 suggest that no dose adjustments are required for these patient populations.
-
-Elderly patients (≥65 years)
-There are insufficient data in this population to support a recommendation for or against dose adjustment.
 
 Paediatric population
 The safety and efficacy of Bronchitol in children and adolescents aged 6 to 18 years has not yet been established.
@@ -60,17 +61,15 @@ The safety and efficacy of Bronchitol in children aged less than 6 years has not
 No data are available.
 
 Method of administration
-Bronchitol is administered by the oral inhalation route using the inhaler provided in the pack.
+Bronchitol is for inhalation use, using the inhaler provided in the pack.
 It must not be administered by any other route or using any other inhaler.
 The capsules must not be swallowed.
-
-The doses should be taken morning and night with the evening dose taken 2-3 hours before bedtime.
 
 Each of the capsules is loaded into the device separately.
 The contents of the capsules are inhaled via the inhaler device with one or two breaths.
 After inhalation, each empty capsule is discarded before inserting the next capsule into the inhaler device with as little delay as possible between capsules.
 The inhaler device is to be replaced after one week of use.
-If the inhaler does require cleaning, ensure the device is empty then wash in warm water and before re-use, allow the inhaler to thoroughly air dry.
+If the inhaler does require cleaning, it must be ensured that the device is empty, then it should be washed in warm water and before re-use, the inhaler should be allowed to thoroughly air dry.
 
 Detailed instructions on how to use the inhaler can be found in the patient information leaflet.
 Patients should be advised to carefully read them.

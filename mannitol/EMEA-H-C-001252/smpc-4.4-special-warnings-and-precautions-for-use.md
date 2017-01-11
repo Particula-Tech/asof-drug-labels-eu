@@ -1,8 +1,7 @@
 # 4.4 Special warnings and precautions for use
 
 Hyperresponsiveness to mannitol
-Patients must be monitored for bronchial hyperresponsiveness to inhaled mannitol during their initiation dose assessment before commencing the therapeutic dose regimen of Bronchitol.
-If the patient is unable to perform spirometry or complete the initiation dose assessment, they must not be prescribed Bronchitol.
+Patients must be monitored for bronchial hyperresponsiveness to inhaled mannitol during their initiation dose assessment before commencing the therapeutic dose regimen of Bronchitol.If the patient is unable to perform spirometry or complete the initiation dose assessment, they must not be prescribed Bronchitol.
 Hyperresponsive patients should not be prescribed the therapeutic dose regimen of Bronchitol (see section 4.3).The usual precautions regarding bronchial hyperresponsiveness monitoring apply (see section 4.2).
 
 A patient is defined as hyperresponsive to inhaled mannitol and must not be prescribed the therapeutic dose regimen if they experience any of the following during the initiation dose assessment:
@@ -20,7 +19,7 @@ Bronchospasm should be treated with a bronchodilator or as medically appropriate
 
 If there is evidence of therapy induced bronchospasm, the physician should carefully evaluate whether the benefits of continued use of Bronchitol outweigh the risks to the patient.
 
-All patients should be formally reviewed after approximately six weeks of Bronchitol treatment to assess for signs and symptoms suggestive of drug induced bronchospasm.
+All patients should be formally reviewed after approximately six weeks of Bronchitol treatment to assess for signs and symptoms suggestive of active substance induced bronchospasm.
 The initiation dose assessment described in section 4.2 should be repeated if uncertainty exists.
 
 Asthma
