@@ -37,7 +37,7 @@ blood potassium increase
 Rare
 Blood glucose increase, activated partial thromboplastin time
 prolonged, red blood cell count decrease, blood alkaline
-phosphatase increase
+phosphatase increase, blood creatine phosphokinase increase*
 
 * Adverse reactions coming from post-marketing experience
 ** Treatment-emergent non-infective diarrhoea and abnormal liver function tests in the combined Phase 3 studies are more frequent in patients concomitantly treated with colchicine. *** See section 5.1 for incidences of gout flares in the individual Phase 3 randomized controlled studies.
@@ -85,7 +85,7 @@ disorders Pancytopenia, thrombocytopenia
 | Renal and urinary disorders | Uncommon Renal failure, nephrolithiasis, haematuria, pollakiuria, proteinuria Rare Tubulointerstitial nephritis*, micturition urgency |
 | Reproductive system and breast disorder | Uncommon Erectile dysfunction |
 | General disorders and administration site conditions | Common Oedema Uncommon Fatigue, chest pain, chest discomfort Rare Thirst |
-| Investigations | Uncommon Blood amylase increase, platelet count decrease, WBC decrease, lymphocyte count decrease, blood creatine increase, blood creatinine increase, haemoglobin decrease, blood urea increase, blood triglycerides increase, blood cholesterol increase, haematocritic decrease, blood lactate dehydrogenase increased, blood potassium increase Rare Blood glucose increased, activated partial thromboplastin time prolonged, red blood cell count decrease, blood alkaline phosphatase increase |
+| Investigations | Uncommon Blood amylase increase, platelet count decrease, WBC decrease, lymphocyte count decrease, blood creatine increase, blood creatinine increase, haemoglobin decrease, blood urea increase, blood triglycerides increase, blood cholesterol increase, haematocritic decrease, blood lactate dehydrogenase increased, blood potassium increase Rare Blood glucose increased, activated partial thromboplastin time prolonged, red blood cell count decrease, blood alkaline phosphatase increase, blood creatine phosphokinase increase* |
 
 Tumor Lysis Syndrome
 In the randomized, double-blind, Phase 3 pivotal FLORENCE (FLO-01) study comparing febuxostat with allopurinol (346 patients undergoing chemotherapy for haematologic malignancies and at intermediate-to-high risk of TLS), only 22 (6.4%) patients overall experienced adverse reactions, namely 11 (6.4%) patients in each treatment group.
