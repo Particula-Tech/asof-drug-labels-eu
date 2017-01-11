@@ -17,8 +17,8 @@ The total number of patients treated with ertapenem in clinical studies was 384.
 The overall safety profile is comparable to that in adult patients.
 Adverse reactions (i.e., considered by the investigator to be possibly, probably, or definitely related to the medicinal product) were reported in approximately 20.8 % of patients treated with ertapenem.
 Treatment was discontinued due to adverse reactions in 0.5 % of patients.
-
 For patients who received only INVANZ, the most common adverse reactions reported during therapy plus follow-up for 14 days after treatment was stopped were: diarrhoea (5.2 %) and infusion site pain (6.1 %).
+
 For patients who received only INVANZ, the most frequently reported laboratory abnormalities and their respective incidence rates during therapy plus follow-up for 14 days after treatment was stopped were: decreases in neutrophil count (3.0 %), and elevations in ALT (2.9 %) and AST (2.8 %).
 
 Tabulated list of adverse reactions

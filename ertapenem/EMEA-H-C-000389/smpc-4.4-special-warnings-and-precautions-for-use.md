@@ -11,7 +11,6 @@ Superinfection
 Prolonged use of ertapenem may result in overgrowth of non-susceptible organisms.
 Repeated evaluation of the patient's condition is essential.
 If superinfection occurs during therapy, appropriate measures should be taken.
-
 Antibiotic-associated colitis
 Antibiotic-associated colitis and pseudomembranous colitis have been reported with ertapenem and may range in severity from mild to life-threatening.
 Therefore, it is important to consider this diagnosis in patients who present with diarrhoea subsequent to the administration of antibacterial agents.

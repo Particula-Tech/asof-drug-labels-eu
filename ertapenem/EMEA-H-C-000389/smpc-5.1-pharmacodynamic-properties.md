@@ -7,7 +7,7 @@ Ertapenem inhibits bacterial cell wall synthesis following attachment to penicil
 In Escherichia coli, affinity is strongest to PBPs 2 and 3.
 
 Pharmacokinetic/Pharmacodynamic (PK/PD) relationship
-Similar to other beta-lactam antimicrobial agents, the time that the plasma concentration of ertapenem exceeds the MIC of the infecting organism has been shown to best correlate with efficacy in preclinical PK/PD studies.
+Similar to other beta-lactam antimicrobial agents, the time that the plasma concentration of ertapenem exceeds the MIC of the infecting organism has been shown to best correlate with efficacy in pre-clinical PK/PD studies.
 
 Mechanism of resistance
 For species considered susceptible to ertapenem, resistance was uncommon in surveillance studies in Europe.
@@ -26,13 +26,13 @@ Breakpoints
 
 The EUCAST MIC breakpoints are as follows:
 
-- Enterobacteriaceae: S ≤0.5 mg/l and R > 1 mg/l
-- Streptococcus A,B,C,G: S ≤0.5 mg/l and R > 0.5 mg/l
-- Streptococcus pneumoniae: S ≤0.5 mg/l and R > 0.5 mg/l
-- Haemophilus influenzae: S ≤0.5 mg/l and R > 0.5 mg/l
-- M. catarrhalis: S ≤0.5 mg/l and R > 0.5 mg/l
-- Gram negative anaerobes: S ≤1mg/l and R > 1 mg/l
-- Non species related breakpoints: S ≤0.5 mg/l and R > 1 mg/l
+- Enterobacteriaceae: S ≤0.5 mg/L and R > 1 mg/L
+- Streptococcus A,B,C,G: S ≤0.5 mg/L and R > 0.5 mg/L
+- Streptococcus pneumoniae: S ≤0.5 mg/L and R > 0.5 mg/L
+- Haemophilus influenzae: S ≤0.5 mg/L and R > 0.5 mg/L
+- M. catarrhalis: S ≤0.5 mg/L and R > 0.5 mg/L
+- Gram negative anaerobes: S ≤1mg/L and R > 1 mg/L
+- Non species related breakpoints: S ≤0.5 mg/L and R > 1 mg/L
 
 (NB: Susceptibility of staphylococci to ertapenem is inferred from the methicillin susceptibility)
 
@@ -42,7 +42,6 @@ Microbiological susceptibility
 The prevalence of acquired resistance may vary geographically and with time for selected species and local information on resistance is desirable, particularly when treating severe infections.
 Localized clusters of infections due to carbapenem-resistant organisms have been reported in the European Union.
 The information below gives only approximate guidance on the probability as to whether the micro-organism will be susceptible to ertapenem or not.
-
 Commonly susceptible species:
 Gram-positive aerobes:
 Methicillin-susceptible-staphylococci (including Staphylococcus aureus)*
@@ -64,7 +63,6 @@ Proteus mirabilis*
 Proteus vulgaris
 Serratia marcescens
 Anaerobes:
-Bacteroides fragilis and species in the B. fragilis Group*
 Clostridium species (excluding C. difficile)*
 Eubacterium species*
 Fusobacterium species*
@@ -72,7 +70,10 @@ Peptostreptococcus species*
 Porphyromonas asaccharolytica*
 Prevotella species*
 Species for which acquired resistance may be a problem:
+Gram-positive aerobes:
 Methicillin-resistant staphylococci +#
+Anaerobes:
+Bacteroides fragilis and species in the B. fragilis Group*
 Inherently resistant organisms:
 Gram-positive aerobes:
 Corynebacterium jeikeium
@@ -90,7 +91,6 @@ Chlamydia species
 Mycoplasma species
 Rickettsia species
 Legionella species
-
 * Activity has been satisfactorily demonstrated in clinical studies.
 † The efficacy of INVANZ in the treatment of community acquired pneumonia due to penicillin-resistant Streptococcus pneumoniae has not been established.
 + frequency of acquired resistance > 50 % in some Member States
@@ -98,8 +98,8 @@ Legionella species
 Information from clinical studies
 
 Efficacy in Paediatric Studies
-Ertapenem was evaluated primarily for paediatric safety and secondarily for efficacy in randomized comparative, multicenter studies in patients 3 months to 17 years of age.
-The proportion of patients with a favorable clinical response assessment at posttreatment visit in the clinical MITT population is shown below:
+Ertapenem was evaluated primarily for paediatric safety and secondarily for efficacy in randomized comparative, multicentre studies in patients 3 months to 17 years of age.
+The proportion of patients with a favourable clinical response assessment at posttreatment visit in the clinical MITT population is shown below:
 
 | Disease Stratum† | Age Stratum | Ertapenem |  | Ceftriaxone |  |
 | --- | --- | --- | --- | --- | --- |
