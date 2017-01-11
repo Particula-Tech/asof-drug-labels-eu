@@ -17,14 +17,6 @@ Titanium dioxide (E171)
 Talc
 Ferric oxide red (E172)
 
-[Inovelon 200 mg film-coated tablets]
-
-(all sentences already above)
-
-[Inovelon 400 mg film-coated tablets]
-
-(all sentences already above)
-
 [Inovelon 40 mg/ml oral suspension]
 
 Microcrystalline cellulose (E460)

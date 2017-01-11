@@ -3,7 +3,8 @@
 Absorption
 Maximum plasma levels are reached approximately 6 hours after administration.
 Peak concentration (Cmax) and plasma AUC of rufinamide increase less than proportionally with doses in both fasted and fed healthy subjects and in patients, probably due to dose-limited absorption behaviour.
-After single doses food increases the bioavailability (AUC) of rufinamide by approximately 34% and the peak plasma concentration by 56%.
+After single doses, food increases the bioavailability (AUC) of rufinamide by approximately 34% and the peak plasma concentration by 56%.
+
 Inovelon oral suspension and Inovelon film coated tablets have been demonstrated to be bioequivalent.
 
 Distribution
@@ -28,7 +29,7 @@ Renal excretion was the predominant route of elimination for active substance re
 
 Linearity/non-linearity:
 The bioavailability of rufinamide is dependent on dose.
-As dose increases the bioavailability decreases.
+As dose increases, the bioavailability decreases.
 
 Pharmacokinetics in special patient groups
 Sex
@@ -40,27 +41,11 @@ The pharmacokinetics of a single 400 mg dose of rufinamide were not altered in s
 However, plasma levels were reduced by approximately 30% when haemodialysis was applied after administration of rufinamide, suggesting that this may be a useful procedure in case of overdose (see sections 4.2 and 4.9).
 
 Hepatic impairment
-No studies have been performed in patients with hepatic impairment and therefore Inovelon should not be administered to patients with severe hepatic impairment(see section 4.2).
-
-Children (2-12 years)
-Children generally have lower clearance of rufinamide than adults, and this difference is related to body size.
-Studies in new-born infants or infants and toddlers under 2 years of age have not been conducted.
-
-Older people
-A pharmacokinetic study in older healthy volunteers did not show a significant difference in pharmacokinetic parameters compared with younger adults.
-
-[Inovelon 200 mg film-coated tablets]
-
 No studies have been performed in patients with hepatic impairment and therefore Inovelon should not be administered to patients with severe hepatic impairment (see section 4.2).
 
-[Inovelon 400 mg film-coated tablets]
+Elderly
+A pharmacokinetic study in older healthy volunteers did not show a significant difference in pharmacokinetic parameters compared with younger adults.
 
-(all sentences already above)
-
-[Inovelon 40 mg/ml oral suspension]
-
-After single doses, food increases the bioavailability (AUC) of rufinamide by approximately 34% and the peak plasma concentration by 56%.
-
-As dose increases, the bioavailability decreases.
-
-Older peopleA pharmacokinetic study in older healthy volunteers did not show a significant difference in pharmacokinetic parameters compared with younger adults.
+Children (1-12 years)
+Children generally have lower clearance of rufinamide than adults, and this difference is related to body size.
+Studies in new-born infants or infants and toddlers under 1 year of age have not been conducted.

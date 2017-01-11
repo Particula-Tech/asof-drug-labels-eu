@@ -1,16 +1,7 @@
 # 6.5 Nature and contents of container
 
 Aluminium/aluminium blisters, packs of 10, 30, 50, 60 and 100 film-coated tablets.
-
 Not all pack sizes may be marketed.
-
-[Inovelon 200 mg film-coated tablets]
-
-(all sentences already above)
-
-[Inovelon 400 mg film-coated tablets]
-
-Aluminium/aluminium blisters, packs of 10, 30, 50, 60, 100 and 200 film-coated tablets.
 
 [Inovelon 40 mg/ml oral suspension]
 
