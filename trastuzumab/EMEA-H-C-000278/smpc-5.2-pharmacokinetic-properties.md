@@ -13,6 +13,7 @@ In the final population PK model, in addition to primary tumor type, body-weight
 However, the magnitude of effect of these covariates on trastuzumab exposure suggests that these covariates are unlikely to have a clinically meaningful effect on trastuzumab concentrations.
 
 The population predicted PK exposure values (median with 5th - 95th Percentiles) and PK parameter values at clinically relevant concentrations (Cmax and Cmin) for MBC, EBC and AGC patients treated with the approved q1w and q3w dosing regimens are shown in Table 14 (Cycle 1), Table 15 (steady-state), and Table 16 (PK parameters).
+
 Table 14 Population Predicted Cycle 1 PK Exposure Values (median with 5th - 95th Percentiles) for Herceptin IV Dosing Regimens in MBC, EBC and AGC Patients
 
 | Regimen | Primary tumor type | N | Cmin (µg/mL) | Cmax (µg/mL) | AUC0-21days (µg.day/mL) |
@@ -50,11 +51,11 @@ Trastuzumab washout
 Trastuzumab washout period was assessed following q1w or q3w intravenous administration using the population PK model.
 The results of these simulations indicate that at least 95% of patients will reach concentrations that are <1 μg/mL (approximately 3% of the population predicted Cmin,ss, or about 97% washout) by 7 months.
 
-Circulating shed antigen
-The exploratory analyses of covariates with information in only a subset of patients suggested that patients with greater shed HER2-ECD antigen (SHED) level had faster nonlinear clearance (lower Km) (P < 0.001).
+Circulating shed HER2 ECD
+The exploratory analyses of covariates with information in only a subset of patients suggested that patients with greater shed HER2-ECD level had faster nonlinear clearance (lower Km) (P < 0.001).
 There was a correlation between shed antigen and SGOT/AST levels; part of the impact of shed antigen on clearance may have been explained by SGOT/AST levels.
 
-There are no data on the level of circulating extracellular domain of the HER2 receptor (shed antigen) in the serum of gastric cancer patients.
+Baseline levels of the shed HER2-ECD observed in MGC patients were comparable to those in MBC and EBC patients and no apparent impact on trastuzumab clearance was observed.
 
 [Herceptin 600 mg solution for injection in vial]
 
@@ -67,6 +68,7 @@ During the adjuvant phase of treatment, at the pre-dose Cycle 13 time point, the
 Based on the observed data in study BO22227, steady state with the intravenous formulation was reached at cycle 8.
 With Herceptin subcutaneous formulation, concentrations were approximately at steady-state following Cycle 7 dose (pre-dose Cycle 8) with small increase in concentration (<15%) up to cycle 13.
 The mean Ctrough at the subcutaneous pre- dose cycle 18 was 90.7 µg/mL and is similar to that of cycle 13, suggesting no further increase after cycle 13.
+
 The median Tmax following subcutaneous administration was approximately 3 days, with high interindividual variability (range 1-14 days).
 The mean Cmax was expectedly lower in the Herceptin subcutaneous formulation (149 μg/mL) than in the intravenous arm (end of infusion value: 221 μg/mL).
 
@@ -79,6 +81,7 @@ Bioavailability of trastuzumab given as the subcutaneous formulation was estimat
 Linear clearance was 0.111 L/day and the central compartment volume (Vc) was 2.91 L. The Michaelis-Menten parameter values were 11.9 mg/day and 33.9 µg/mL for Vmax and Km, respectively.
 Body weight and serum alanine aminotransferase (SGPT/ALT) showed a statistically significant influence on PK, however, simulations demonstrated that no dose adjustments are required in EBC patients.
 The population predicted PK exposure parameter values (median with 5th - 95th Percentiles) for Herceptin SC dosing regimens in EBC patients are shown in Table 13 below.
+
 Table 13 Population Predicted PK Exposure Values (median with 5th - 95th Percentiles) for the Herceptin SC 600 mg Q3W Dosing Regimen in EBC patients
 
 | Primary tumor type and Regimen | Cycle | N | Cmin (µg/mL) | Cmax (µg/mL) | AUC0-21days (µg.day/mL) |

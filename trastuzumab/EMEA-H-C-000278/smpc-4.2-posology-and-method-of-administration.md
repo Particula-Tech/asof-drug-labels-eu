@@ -68,7 +68,7 @@ If the patient has missed a dose of Herceptin by more than one week, a re-loadin
 Subsequent Herceptin maintenance doses (weekly regimen:
 2 mg/kg; three-weekly regimen 6 mg/kg respectively) should be administered 7 days or 21 days later according to the weekly or three-weekly schedules respectively.
 Special populations
-Dedicated pharmacokinetic studies in older people and those with renal or hepatic impairment have not been carried out.
+Dedicated pharmacokinetic studies in the elderly and those with renal or hepatic impairment have not been carried out.
 In a population pharmacokinetic analysis, age and renal impairment were not shown to affect trastuzumab disposition.
 
 Paediatric population
@@ -100,6 +100,7 @@ The preoperative chemotherapy regimen consisted of docetaxel (75 mg/m²) followe
 
 Patients with MBC should be treated with Herceptin until progression of disease.
 
+Patients may continue therapy during periods of reversible, chemotherapy-induced myelosuppression butthey should be monitored carefully for complications of neutropenia during this time.
 Refer to the Summary of Product Characteristics (SmPC) for paclitaxel, docetaxel or aromatase inhibitor for information on dose reduction or delays.
 
 If the patient misses a dose of Herceptin subcutaneous formulation, it is recommended to administer the next 600 mg dose (i.e. the missed dose) as soon as possible.

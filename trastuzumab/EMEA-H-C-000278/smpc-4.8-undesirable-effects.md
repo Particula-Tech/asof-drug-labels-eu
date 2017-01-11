@@ -211,8 +211,7 @@ Severe anaphylactic reactions requiring immediate additional intervention can oc
 Anaphylactoid reactions have been observed in isolated cases.
 
 Haematotoxicity
-Febrile neutropenia and leukopenia occurred very commonly.
-Commonly occurring adverse reactions included anaemia, thrombocytopenia and neutropenia.
+Febrile neutropenia, leukopenia, anaemia, thrombocytopenia and neutropenia occurred very commonly.
 The frequency of occurrence of hypoprothrombinemia is not known.
 The risk of neutropenia may be slightly increased when trastuzumab is administered with docetaxel following anthracycline therapy.
 Pulmonary events
@@ -314,6 +313,8 @@ In this trial, 2 cohorts (one using subcutaneous formulation in vial and one usi
 [Herceptin 600 mg solution for injection in administration system]
 
 The safety profile of Herceptin subcutaneous formulation (evaluated in 298 and 297 patients treated with the intravenous and subcutaneous formulations respectively) from the pivotal trial BO22227 in EBC was overall similar to the known safety profile of the intravenous formulation.
+
+Febrile neutropenia,leukopenia, anaemia, thrombocytopenia and neutropenia occurred very commonly.
 
 In the pivotal trial BO22227, the rate of all grade ARRs was 37.2 % with the Herceptin intravenous formulation and 47.8 % with the Herceptin subcutaneous formulation; severe grade 3 reactions were reported in 2.0 % and 1.7 % of the patients, respectively during the treatment phase; no severe grade 4 or 5 reactions were observed.
 

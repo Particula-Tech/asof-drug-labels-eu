@@ -141,7 +141,8 @@ Table 5 Efficacy Results from the Non-Comparative Monotherapy and Combination Th
 
 TTP = time to progression; "ne" indicates that it could not be estimated or it was not yet reached.
 1.
-Study WO16229: loading dose 8 mg/kg, followed by 6 mg/kg 3 weekly schedule 2.
+Study WO16229: loading dose 8 mg/kg, followed by 6 mg/kg 3 weekly schedule
+2.
 Study MO16982: loading dose 6 mg/kg weekly x 3; followed by 6 mg/kg 3-weekly schedule 3.
 Study BO15935
 4.
@@ -179,7 +180,8 @@ Table 6 Efficacy Results from Study BO16348
 | Distant disease-free survival - No. patients with event - No. patients without event P-value versus Observation Hazard Ratio versus Observation | 184 (10.9 %) 99 (5.8 %) 1508 (89.1 %) 1594 (94.6 %) < 0.0001 0.50 |  | 488 (28.8 %) 399 (23.4 %) 1209 (71.2 %) 1303 (76.6 %) < 0.0001 0.76 |  |
 | Overall survival (death) - No. patients with event - No. patients without event P-value versus Observation Hazard Ratio versus Observation | 40 (2.4 %) 31 (1.8 %) 1653 (97.6 %) 1662 (98.2 %) 0.24 0.75 |  | 350 (20.6 %) 278 (16.3 %) 1347 (79.4 %) 1424 (83.7 %) 0.0005 0.76 |  |
 
-*Co-primary endpoint of DFS of 1 year versus observation met the pre-defined statistical boundary **Final analysis (including crossover of 52 % of patients from the observation arm to Herceptin)
+*Co-primary endpoint of DFS of 1 year versus observation met the pre-defined statistical boundary
+**Final analysis (including crossover of 52 % of patients from the observation arm to Herceptin)
 *** There is a discrepancy in the overall sample size due to a small number of patients who were randomized after the cut-off date for the 12-month median follow-up analysis
 
 The efficacy results from the interim efficacy analysis crossed the protocol pre-specified statistical boundary for the comparison of 1-year of Herceptin versus observation.
@@ -187,7 +189,6 @@ After a median follow-up of 12 months, the hazard ratio (HR) for disease free su
 
 A final analysis was performed after a median follow-up of 8 years, which showed that 1 year Herceptin treatment is associated with a 24 % risk reduction compared to observation only (HR=0.76, 95 % CI 0.67, 0.86).
 This translates into an absolute benefit in terms of an 8 year disease free survival rate of 6.4 percentage points in favour of 1 year Herceptin treatment.
-
 In this final analysis, extending Herceptin treatment for a duration of two years did not show additional benefit over treatment for 1 year [DFS HR in the intent to treat (ITT) population of 2 years versus 1 year=0.99 (95 % CI: 0.87, 1.13), p-value=0.90 and OS HR=0.98 (0.83, 1.15); p-value= 0.78].
 The rate of asymptomatic cardiac dysfunction was increased in the 2-year treatment arm (8.1 % versus 4.6 % in the 1-year treatment arm).
 More patients experienced at least one grade 3 or 4 adverse event in the 2-year treatment arm (20.4 %) compared with the 1-year treatment arm (16.3 %).
@@ -290,16 +291,19 @@ In study BCIRG 006, 213/1075 patients in the DCarbH (TCH) arm, 221/1074 patients
 No disease-free survival (DFS) benefit was noticed in this subgroup of patients (hazard ratio = 1.16, 95 % CI [0.73, 1.83] for DCarbH (TCH) versus AC→D (AC→T); hazard ratio 0.97, 95 % CI [0.60, 1.55] for AC→DH (AC→TH) versus AC→D).
 In addition a post-hoc exploratory analysis was performed on the data sets from the joint analysis (JA) NSABP B-31/NCCTG N9831* and BCIRG006 clinical studies combining DFS events and symptomatic cardiac events and summarised in Table 11:
 
-Table 11 Post-Hoc Exploratory Analysis Results from the Joint Analysis NSABP B-31/NCCTG N9831 and BCIRG006 Clinical Studies Combining DFS Events and Symptomatic Cardiac Events
+Table 11 Post-Hoc Exploratory Analysis Results from the Joint Analysis NSABP B-31/NCCTG N9831* and BCIRG006 Clinical Studies Combining DFS Events and Symptomatic Cardiac Events
 
 |  | AC→PH (vs. AC→P) (NSABP B-31 and NCCTG N9831)* | AC→DH (vs. AC→D) (BCIRG 006) | DCarbH (vs. AC→D) (BCIRG 006) |
 | --- | --- | --- | --- |
 | Primary efficacy analysis DFS Hazard ratios (95 % CI) p-value | 0.48 (0.39, 0.59) p<0.0001 | 0.61 (0.49, 0.77) p< 0.0001 | 0.67 (0.54, 0.83) p=0.0003 |
-| Post-hoc exploratory analysis with DFS and symptomatic cardiac events Hazard ratios (95 % CI) | 0.64 (0.53, 0.77) | 0.70 (0.57, 0.87) | 0.71 (0.57, 0.87) |
+| Long term follow-up efficacy analysis** DFS Hazard ratios (95 % CI) p-value | 0.61 (0.54, 0.69) p<0.0001 | 0.72 (0.61, 0.85) p<0.0001 | 0.77 (0.65, 0.90) p=0.0011 |
+| Post-hoc exploratory analysis with DFS and symptomatic cardiac events Long term follow-up** Hazard ratios (95 % CI) | 0.67 (0.60, 0.75) | 0.77 (0.66, 0.90) | 0.77 (0.66, 0.90) |
 
-A: doxorubicin; C: cyclophosphamide; P: paclitaxel; D: docetaxel; Carb: carboplatin; H: trastuzumab CI = confidence interval
+A: doxorubicin; C: cyclophosphamide; P: paclitaxel; D: docetaxel; Carb: carboplatin; H: trastuzumab
+CI = confidence interval
 * At the time of the definitive analysis of DFS.
 Median duration of follow up was 1.8 years in the AC→P arm and 2.0 years in the AC→PH arm
+** Median duration of long term follow-up for the Joint Analysis clinical studies was 8.3 years (range: 0.1 to 12.1) for the AC→PH arm and 7.9 years (range: 0.0 to 12.2) for the AC→P arm; Median duration of long term follow-up for the BCIRG 006 study was 10.3 years in both the AC→D arm (range: 0.0 to 12.6) arm and the DCarbH arm (range: 0.0 to 13.1), and was 10.4 years (range: 0.0 to 12.7) in the AC→DH arm
 
 Early breast cancer (neoadjuvant-adjuvant setting)
 
@@ -308,7 +312,6 @@ So far, no results are available which compare the efficacy of Herceptin adminis
 In the neoadjuvant-adjuvant treatment setting, study MO16432, a multicentre randomised trial, was designed to investigate the clinical efficacy of concurrent administration of Herceptin with neoadjuvant chemotherapy including both an anthracycline and a taxane, followed by adjuvant Herceptin, up to a total treatment duration of 1 year.
 The study recruited patients with newly diagnosed locally advanced (Stage III) or inflammatory EBC.
 Patients with HER2+ tumours were randomised to receive either neoadjuvant chemotherapy concurrently with neoadjuvant-adjuvant Herceptin, or neoadjuvant chemotherapy alone.
-
 In study MO16432, Herceptin (8 mg/kg loading dose, followed by 6 mg/kg maintenance every 3 weeks) was administered concurrently with 10 cycles of neoadjuvant chemotherapy
 
 as follows:
@@ -372,6 +375,7 @@ Table 13 Efficacy Results from BO18225
 
 FP + H: Fluoropyrimidine/cisplatin + Herceptin
 FP: Fluoropyrimidine/cisplatin a Odds ratio
+
 Patients were recruited to the trial who were previously untreated for HER2-positive inoperable locally advanced or recurrent and/or metastatic adenocarcinoma of the stomach or gastro-oesophageal junction not amenable to curative therapy.
 The primary endpoint was overall survival which was defined as the time from the date of randomization to the date of death from any cause.
 At the time of the analysis a total of 349 randomized patients had died: 182 patients (62.8 %) in the control arm and 167 patients (56.8 %) in the treatment arm.
@@ -385,12 +389,11 @@ In an exploratory subgroup analysis performed in the TOGA (BO18255) trial there 
 
 Paediatric population
 
-The European Medicines Agency has waived the obligation to submit the results of studies with Herceptin in all subsets of the paediatric population in breast and gastric cancer (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with Herceptin in all subsets of the paediatric population for breast and gastric cancer (see section 4.2 for information on paediatric use).
 
 [Herceptin 600 mg solution for injection in vial]
 
 Herceptin subcutaneous formulation contains recombinant human hyaluronidase (rHuPH20), an enzyme used to increase the dispersion and absorption of co-administered drugs when administered subcutaneously.
-
 Overexpression of HER2 is observed in 20% - 30% of primary breast cancers.
 
 Table 2: Recommended scoring system to evaluate the IHC staining patterns
@@ -399,6 +402,7 @@ Intravenous formulation
 
 Weekly dosing in metatstatic breast cancer
 The efficacy results from the monotherapy and combination therapy studies are summarised in Table 3:
+
 Table 3: Efficacy results from the monotherapy and combination therapy studies
 
 The efficacy results from the non-comparative monotherapy and combination therapy studies are summarised in Table 4:
@@ -437,9 +441,11 @@ Table 8: Overview of efficacy analyses BCIRG 006 AC→D versus AC→DH
 
 Table 9: Overview of efficacy analyses BCIRG 006 AC→D versus DCarbH
 
-In addition a post-hoc exploratory analysis was performed on the data sets from the joint analysis (JA) NSABP B-31/NCCTG N9831 and BCIRG006 clinical studies combining DFS events and symptomatic cardiac events and summarised in Table 10:
+In addition a post-hoc exploratory analysis was performed on the data sets from the joint analysis (JA) NSABP B-31/NCCTG N9831* and BCIRG006 clinical studies combining DFS events and symptomatic cardiac events and summarised in Table 10:
 
 Table 10: Post-hoc exploratory analysis results from the joint analysis NSABP B-31/NCCTG N9831* and BCIRG006 clinical studies combining DFS events and symptomatic cardiac events
+
+** Median duration of long term follow-up for the Joint Analysis clinical studies was 8.3 years (range: 0.1 to 12.1) for the AC→PH arm and 7.9 years (range: 0.0 to 12.2) for the AC→P arm; Median duration of long term follow-up for the BCIRG 006 study was 10.3 years in both the AC→D arm (range: 0.0 to 12.6) and the DCarbH arm (range: 0.0 to 13.1), and was 10.4 years (range: 0.0 to 12.7) in the AC→DH arm
 
 Early breast cancer – (neoadjuvant-adjuvant setting)
 
@@ -463,6 +469,7 @@ A total of 595 patients with HER2-positive, operable or locally advanced breast 
 
 The analysis of the efficacy co-primary endpoint, pCR, defined as absence of invasive neoplastic cells in the breast, resulted in rates of 40.7 % (95 % CI: 34.7, 46.9) in the Herceptin intravenous arm and 45.4 % (95 % CI: 39.2 %, 51.7 %) in the Herceptin subcutaneous arm, a difference of 4.7 percentage points in favour of the Herceptin subcutaneous arm.
 The lower boundary of the one-sided 97.5 % confidence interval for the difference in pCR rates was -4.0, establishing the non-inferiority of Herceptin subcutaneous for the co-primary endpoint
+
 Table 12: Summary of pathological Complete Response (pCR)
 
 |  | Herceptin IV (N = 263) | Herceptin SC (N=260) |
@@ -485,13 +492,13 @@ Study MO28048 investigating the safety and tolerability of Herceptin subcutaneou
 Results were consistent with the known safety profile for Herceptin intravenous and Herceptin subcutaneous formulations.
 In addition, treatment of lower body weight patients with Herceptin subcutaneous fixed dose in adjuvant EBC was not associated with increased safety risk, adverse events and serious adverse events, compared to the higher body weight patients.
 
-The European Medicines Agency has waived the obligation to submit the results of studies with Herceptin in all subsets of the paediatric population in breast cancer (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with Herceptin in all subsets of the paediatric population for breast cancer (see section 4.2 for information on paediatric use).
 
 [Herceptin 600 mg solution for injection in administration system]
 
-In addition a post-hoc exploratory analysis was performed on the data sets from the joint analysis (JA) NSABP B-31/NCCTG N9831 and BCIRG006 clinical trials combining DFS events and symptomatic cardiac events and summarised in Table 10:
+In addition a post-hoc exploratory analysis was performed on the data sets from the joint analysis (JA) NSABP B-31/NCCTG N9831* and BCIRG006 clinical trials combining DFS events and symptomatic cardiac events and summarised in Table 10:
 
-Table 10: Post-hoc exploratory analysis results from the joint analysis NSABP B-31/NCCTG N9831 and BCIRG006 clinical trials combining DFS events and symptomatic cardiac events
+Table 10: Post-hoc exploratory analysis results from the joint analysis NSABP B-31/NCCTG N9831* and BCIRG006 clinical trials combining DFS events and symptomatic cardiac events
 
 A total of 595 patients with HER2-positive, operable or locally advanced breast cancer (LABC) including inflammatory breast cancer received eight cycles of either Herceptin intravenous formulation or Herceptin subcutaneous formulation concurrently with chemotherapy (4 cycles of docetaxel, 75 mg/m2 intravenous infusion, followed by 4 cycles of FEC ([5-Fluorouracil, 500 mg/m2; epirubicin, 75 mg/m2; cyclophosphamide, 500 mg/m2 each intravenous bolus or infusion]), followed by surgery, and continued therapy with Herceptin intravenous formulation or Herceptin subcutaneous formulation as originally randomized for 10 additional cycles for a total of one year of treatment.
 
