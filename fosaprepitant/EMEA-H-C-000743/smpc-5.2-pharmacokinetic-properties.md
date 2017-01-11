@@ -4,8 +4,7 @@ Fosaprepitant, a prodrug of aprepitant, when administered intravenously is rapid
 Plasma concentrations of fosaprepitant are below quantifiable levels within 30 minutes of the completion of infusion.
 
 Aprepitant after fosaprepitant administration
-Following a single intravenous 150-mg dose of fosaprepitant administered as a 20-minute infusion to healthy volunteers, the mean AUC0-∞ of aprepitant was 35.0 µg•hr/ml and the mean maximal aprepitant concentration was 4.01 µg/ml.
-
+Following a single intravenous 150-mg dose of fosaprepitant administered as a 20-minute infusion to healthy volunteers, the mean AUC0-∞of aprepitant was 35.0 µg•hr/ml and the mean maximal aprepitant concentration was 4.01 µg/ml.
 Distribution
 Aprepitant is highly protein bound, with a mean of 97 %.
 The geometric mean volume of distribution at steady state (Vdss) of aprepitant estimated from a single 150 mg intravenous dose of fosaprepitant is approximately 82 l in humans.
@@ -46,8 +45,8 @@ There are no clinical or pharmacokinetic data in patients with severe hepatic im
 
 Renal impairment: A single 240 mg dose of oral aprepitant was administered to patients with severe renal impairment (CrCl< 30 ml/min) and to patients with end stage renal disease (ESRD) requiring haemodialysis.
 
-In patients with severe renal impairment, the AUC0-∞ of total aprepitant (unbound and protein bound) decreased by 21 % and Cmax decreased by 32 %, relative to healthy subjects.
-In patients with ESRD undergoing haemodialysis, the AUC0-∞ of total aprepitant decreased by 42 % and Cmax decreased by 32 %.
+In patients with severe renal impairment, the AUC0-∞of total aprepitant (unbound and protein bound) decreased by 21 % and Cmax decreased by 32 %, relative to healthy subjects.
+In patients with ESRD undergoing haemodialysis, the AUC0-∞of total aprepitant decreased by 42 % and Cmax decreased by 32 %.
 Due to modest decreases in protein binding of aprepitant in patients with renal disease, the AUC of pharmacologically active unbound aprepitant was not significantly affected in patients with renal impairment compared with healthy subjects.
 Haemodialysis conducted 4 or 48 hours after dosing had no significant effect on the pharmacokinetics of aprepitant; less than 0.2 % of the dose was recovered in the dialysate.
 

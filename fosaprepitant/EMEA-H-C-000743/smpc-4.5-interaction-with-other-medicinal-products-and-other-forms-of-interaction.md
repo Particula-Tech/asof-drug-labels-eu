@@ -22,6 +22,7 @@ Caution is advised during concomitant administration of fosaprepitant and active
 Corticosteroids
 Dexamethasone: The oral dexamethasone dose on Days 1 and 2 should be reduced by approximately 50 % when co-administered with fosaprepitant 150 mg on Day 1 to achieve exposures of dexamethasone similar to those obtained when given without fosaprepitant 150 mg.
 Fosaprepitant 150 mg administered as a single intravenous dose on Day 1 increased the AUC0-24hr of dexamethasone, a CYP3A4 substrate, by 100 % on Day 1 86 % on Day 2 and 18 % on Day 3 when dexamethasone was co-administered as a single 8 mg oral dose on Days 1, 2, and 3.
+
 Chemotherapeutic medicinal products
 Interaction studies with fosaprepitant 150 mg and chemotherapeutic medicinal products have not been conducted; however, based on studies with oral aprepitant and docetaxel and vinorelbine, IVEMEND 150 mg is not expected to have a clinically relevant interaction with intravenously administered docetaxel and vinorelbine.
 An interaction with orally administered chemotherapeutic medicinal products metabolised primarily or partly by CYP3A4 (e.g. etoposide, vinorelbine) cannot be excluded.
@@ -31,9 +32,8 @@ Post-marketing events of neurotoxicity, a potential adverse reaction of ifosfami
 Immunosuppressants
 Following a single 150 mg fosaprepitant dose, a transient moderate increase for two days possibly followed by a mild decrease in exposure of immunosuppressants metabolised by CYP3A4 (e.g. cyclosporine, tacrolimus, everolimus and sirolimus) is expected.
 Given the short duration of increased exposure, dose reduction of the immunosuppressant based on Therapeutic Dose Monitoring is not recommended on the day of and the day after administration of IVEMEND.
-
 Midazolam
-Fosaprepitant 150 mg administered as a single intravenous dose on Day 1 increased the AUC0-∞ of midazolam by 77 % on Day 1 and had no effect on Day 4 when midazolam was co-administered as a single oral dose of 2 mg on Days 1 and 4.
+Fosaprepitant 150 mg administered as a single intravenous dose on Day 1 increased the AUC0-∞of midazolam by 77 % on Day 1 and had no effect on Day 4 when midazolam was co-administered as a single oral dose of 2 mg on Days 1 and 4.
 Fosaprepitant 150 mg is a weak CYP3A4 inhibitor as a single dose on Day 1 with no evidence of inhibition or induction of CYP3A4 observed on Day 4.
 
 The potential effects of increased plasma concentrations of midazolam or other benzodiazepines metabolised via CYP3A4 (alprazolam, triazolam) should be considered when co-administering these medicinal products with IVEMEND.
@@ -55,6 +55,7 @@ In patients on chronic warfarin therapy, the prothrombin time (INR) should be mo
 Hormonal contraceptives
 The efficacy of hormonal contraceptives may be reduced during and for 28 days after administration of fosaprepitant.
 Alternative non-hormonal back-up methods of contraception should be used during treatment with fosaprepitant and for 2 months following the use of fosaprepitant.
+
 5-HT3 antagonists
 Interaction studies with fosaprepitant 150 mg and 5-HT3 antagonists have not been conducted; however, in clinical interaction studies, the oral aprepitant regimen did not have clinically important effects on the pharmacokinetics of ondansetron, granisetron, or hydrodolasetron (the active metabolite of dolasetron).
 Therefore, there is no evidence of interaction with the use of IVEMEND 150 mg and 5-HT3 antagonists.
