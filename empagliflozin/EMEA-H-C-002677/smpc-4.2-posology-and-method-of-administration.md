@@ -2,8 +2,7 @@
 
 Posology
 
-Monotherapy and add-on combination
-The recommended starting dose is 10 mg empagliflozin once daily for monotherapy and add-on combination therapy with other glucose-lowering medicinal products including insulin.
+The recommended starting dose is 10 mg empagliflozin once daily for monotherapy and add-on combination therapy with other medicinal products for the treatment of diabetes.
 In patients tolerating empagliflozin 10 mg once daily who have an eGFR ≥60 ml/min/1.73 m2 and need tighter glycaemic control, the dose can be increased to 25 mg once daily.
 The maximum daily dose is 25 mg (see below and section 4.4).
 
@@ -11,8 +10,9 @@ When empagliflozin is used in combination with a sulphonylurea or with insulin, 
 
 Special populations
 Renal impairment
-Due to the mechanism of action, the efficacy of empagliflozin is dependent on renal function.
-No dose adjustment is required for patients with an eGFR ≥60 ml/min/1.73 m2 or CrCl ≥60 ml/min.
+Due to the mechanism of action, the glycaemic efficacy of empagliflozin is dependent on renal function.
+No dose adjustment is required for patients with an eGFR ≥60 ml/min/1.73 m2 or
+CrCl ≥60 ml/min.
 
 Empagliflozin should not be initiated in patients with an eGFR <60 ml/min/1.73 m2 or
 CrCl <60 ml/min.

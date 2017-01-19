@@ -1,10 +1,8 @@
 # 4.1 Therapeutic indications
 
-Jardiance is indicated in the treatment of type 2 diabetes mellitus to improve glycaemic control in adults as:
+Jardiance is indicated for the treatment of adults with insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise
 
-Monotherapy
+- as monotherapy when metformin is considered inappropriate due to intolerance
+- in addition to other medicinal products for the treatment of diabetes
 
-When diet and exercise alone do not provide adequate glycaemic control in patients for whom use of metformin is considered inappropriate due to intolerance.
-Add-on combination therapy
-
-In combination with other glucose–lowering medicinal products including insulin, when these, together with diet and exercise, do not provide adequate glycaemic control (see sections 4.4, 4.5 and 5.1 for available data on different combinations).
+For study results with respect to combinations, effects on glycaemic control and cardiovascular events, and the populations studied, see sections 4.4, 4.5 and 5.1.

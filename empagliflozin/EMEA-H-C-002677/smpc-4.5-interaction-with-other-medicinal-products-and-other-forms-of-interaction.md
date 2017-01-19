@@ -30,8 +30,7 @@ These changes were not considered to be clinically meaningful.
 
 Empagliflozin exposure was similar with and without co-administration with verapamil, a P-gp inhibitor, indicating that inhibition of P-gp does not have any clinically relevant effect on empagliflozin.
 
-Interaction studies conducted in healthy volunteers suggest that the pharmacokinetics of empagliflozin were not influenced by co-administration with metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, verapamil, ramipril, simvastatin, torasemide and hydrochlorothiazide.
-
+Interaction studies suggest that the pharmacokinetics of empagliflozin were not influenced by co-administration with metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, verapamil, ramipril, simvastatin, torasemide and hydrochlorothiazide.
 Effects of empagliflozin on other medicinal products
 Based on in vitro studies, empagliflozin does not inhibit, inactivate, or induce CYP450 isoforms.
 Empagliflozin does not inhibit UGT1A1, UGT1A3, UGT1A8, UGT1A9, or UGT2B7.
