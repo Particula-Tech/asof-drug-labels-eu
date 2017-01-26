@@ -8,4 +8,4 @@ In rats, exposure via milk resulted in reduced mean pup weight and corneal lesio
 
 No mutagenic but a weak clastogenic activity was observed in in vitro studies.
 There was no evidence of in vivo genotoxicity (mouse micronucleus assay and mouse liver unscheduled DNA synthesis assay).
-Carcinogenicity studies have not been performed.
+Nitisinone did not show carcinogenic potential in a 26-week carcinogenicity study in transgenic mice (TgrasH2).

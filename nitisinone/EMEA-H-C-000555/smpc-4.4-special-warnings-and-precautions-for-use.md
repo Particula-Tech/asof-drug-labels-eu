@@ -15,20 +15,7 @@ Patients with increasing alpha-fetoprotein or signs of nodules in the liver shou
 
 Platelet and white blood cell (WBC) monitoring
 It is recommended that platelet and WBC counts are monitored regularly, as a few cases of reversible thrombocytopenia and leucopenia were observed during clinical evaluation.
-
 Monitoring visits should be performed every 6 months; shorter intervals between visits are recommended in case of adverse events.
-
-[Orfadin 5 mg hard capsules]
-
-(all sentences already above)
-
-[Orfadin 10 mg hard capsules]
-
-(all sentences already above)
-
-[Orfadin 20 mg hard capsules]
-
-(all sentences already above)
 
 [Orfadin 4 mg/ml oral suspension]
 
