@@ -13,7 +13,8 @@ Rifampicin: multiple co-administration of 5 mg linagliptin with rifampicin, a po
 Thus, full efficacy of linagliptin in combination with strong P-gp inducers might not be achieved, particularly if these are administered long-term.
 Co-administration with other potent inducers of P-glycoprotein and CYP3A4, such as carbamazepine, phenobarbital and phenytoin has not been studied.
 
-Ritonavir: co-administration of a single 5 mg oral dose of linagliptin and multiple 200 mg oral doses of ritonavir, a potent inhibitor of P-glycoprotein and CYP3A4, increased the AUC and Cmax of linagliptin approximately twofold and threefold, respectively The unbound concentrations, which are usually less than 1% at the therapeutic dose of linagliptin, were increased 4-5-fold after co-administration with ritanovir.
+Ritonavir: co-administration of a single 5 mg oral dose of linagliptin and multiple 200 mg oral doses of ritonavir, a potent inhibitor of P-glycoprotein and CYP3A4, increased the AUC and Cmax of linagliptin approximately twofold and threefold, respectively.
+The unbound concentrations, which are usually less than 1% at the therapeutic dose of linagliptin, were increased 4-5-fold after co-administration with ritonavir.
 Simulations of steady-state plasma concentrations of linagliptin with and without ritonavir indicated that the increase in exposure will be not associated with an increased accumulation.
 These changes in linagliptin pharmacokinetics were not considered to be clinically relevant.
 Therefore, clinically relevant interactions would not be expected with other P-glycoprotein/CYP3A4 inhibitors.
@@ -32,7 +33,7 @@ Sulphonylureas: co-administration of multiple oral doses of 5 mg linagliptin and
 Because glibenclamide is primarily metabolised by CYP2C9, these data also support the conclusion that linagliptin is not a CYP2C9 inhibitor.
 Clinically meaningful interactions would not be expected with other sulphonylureas (e.g., glipizide, tolbutamide, and glimepiride) which, like glibenclamide, are primarily eliminated by CYP2C9.
 
-Digoxin: co-administration of multiple of 5 mg linagliptin with multiple doses of 0.25 mg digoxin had no effect on the pharmacokinetics of digoxin in healthy volunteers.
+Digoxin: co-administration of multiple daily doses of 5 mg linagliptin with multiple doses of 0.25 mg digoxin had no effect on the pharmacokinetics of digoxin in healthy volunteers.
 Therefore, linagliptin is not an inhibitor of P-glycoprotein-mediated transport in vivo.
 
 Warfarin: multiple daily doses of 5 mg linagliptin did not alter the pharmacokinetics of S(-) or R(+) warfarin, a CYP2C9 substrate, administered in a single dose.

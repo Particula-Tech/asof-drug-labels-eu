@@ -15,7 +15,6 @@ Pharmacokinetic studies suggest that no dose adjustment is required for patients
 Elderly
 No dose adjustment is necessary based on age.
 However, clinical experience in patients > 80 years of age is limited and caution should be exercised when treating this population.
-
 Paediatric population
 The safety and efficacy of linagliptin in children and adolescents has not yet been established.
 No data are available.
