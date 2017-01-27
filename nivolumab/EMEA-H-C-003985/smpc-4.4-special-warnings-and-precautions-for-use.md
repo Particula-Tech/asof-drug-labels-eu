@@ -33,6 +33,7 @@ Immune-related pneumonitis
 Severe pneumonitis or interstitial lung disease, including fatal cases, has been observed with nivolumab monotherapy or nivolumab in combination with ipilimumab (see section 4.8).
 Patients should be monitored for signs and symptoms of pneumonitis such as radiographic changes (e.g., focal ground glass opacities, patchy filtrates), dyspnoea, and hypoxia.
 Infectious and disease-related aetiologies should be ruled out.
+
 For Grade 3 or 4 pneumonitis, nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued, and corticosteroids should be initiated at a dose of 2 to 4 mg/kg/day methylprednisolone equivalents.
 
 For Grade 2 (symptomatic) pneumonitis, nivolumab or nivolumab in combination with ipilimumab should be withheld and corticosteroids initiated at a dose of 1 mg/kg/day methylprednisolone equivalents.
@@ -60,13 +61,13 @@ Immune-related hepatitis
 Severe hepatitis has been observed with nivolumab monotherapy or nivolumab in combination with ipilimumab (see section 4.8).
 Patients should be monitored for signs and symptoms of hepatitis such as transaminase and total bilirubin elevations.
 Infectious and disease-related aetiologies should be ruled out.
-
 For Grade 3 or 4 transaminase or total bilirubin elevation, nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued, and corticosteroids should be initiated at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
 
 For Grade 2 transaminase or total bilirubin elevation, nivolumab or nivolumab in combination with ipilimumab should be withheld.
 Persistent elevations in these laboratory values should be managed with corticosteroids at a dose of 0.5 to 1 mg/kg/day methylprednisolone equivalents.
 Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper, if needed.
 If worsening or no improvement occurs despite initiation of corticosteroids, corticosteroid dose should be increased to 1 to 2 mg/kg/day methylprednisolone equivalents and nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued.
+
 Immune-related nephritis and renal dysfunction
 Severe nephritis and renal dysfunction have been observed with monotherapy treatment or nivolumab in combination with ipilimumab (see section 4.8).
 Patients should be monitored for signs and symptoms of nephritis or renal dysfunction.
@@ -102,18 +103,19 @@ Corticosteroids at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents sho
 Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper, if needed.
 Nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued for life-threatening (Grade 4) hypophysitis.
 Monitoring of pituitary function and hormone levels should continue to ensure appropriate hormone replacement is utilised.
+
 For symptomatic diabetes, nivolumab or nivolumab in combination with ipilimumab should be withheld, and insulin replacement should be initiated as needed.
 Monitoring of blood sugar should continue to ensure appropriate insulin replacement is utilised.
 Nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued for life-threatening diabetes.
 
-Immune-related rash
+Immune-related skin adverse reactions
 Severe rash has been observed with nivolumab in combination with ipilimumab and, less commonly, with nivolumab as monotherapy (see section 4.8).
 Nivolumab or nivolumab in combination with ipilimumab should be withheld for Grade 3 rash and discontinued for Grade 4 rash.
 Severe rash should be managed with high-dose corticosteroid at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
 
-Rare cases of toxic epidermal necrolysis (TEN) some of them with fatal outcome have been observed.
-If symptoms or signs of Stevens-Johnson Syndrome (SJS) or TEN appear, nivolumab treatment should be discontinued and the patient referred to a specialised unit for assessment and treatment.
-If the patient has developed SJS or TEN with the use of nivolumab, permanent discontinuation of nivolumab is recommended.
+Rare cases of SJS and TEN some of them with fatal outcome have been observed.
+If symptoms or signs of SJS or TEN appear, treatment with nivolumab or nivolumab in combination with ipilimumab should be discontinued and the patient referred to a specialised unit for assessment and treatment.
+If the patient has developed SJS or TEN with the use of nivolumab or nivolumab in combination with ipilimumab, permanent discontinuation of treatment is recommended (see section 4.2).
 
 Caution should be used when considering the use of nivolumab in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other immune-stimulatory anticancer agents.
 
@@ -126,6 +128,10 @@ For suspected immune-related adverse reactions, adequate evaluation should be pe
 Based on the severity of the adverse reaction, nivolumab or nivolumab in combination with ipilimumab should be withheld and corticosteroids administered.
 Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper.
 Nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued for any severe immune-related adverse reaction that recurs and for any life-threatening immune-related adverse reaction.
+
+Rare cases of myotoxicity (myositis, myocarditis, and rhabdomyolysis), some with fatal outcome, have been reported with nivolumab or nivolumab in combination with ipilimumab.
+If a patient develops signs and symptoms of myotoxicity, close monitoring should be implemented, and the patient referred to a specialist for assessment and treatment without delay.
+Based on the severity of myotoxicity, nivolumab or nivolumab in combination with ipilimumab should be withheld or discontinued (see section 4.2), and appropriate treatment instituted.
 
 Infusion reactions
 Severe infusion reactions have been reported in clinical trials of nivolumab or nivolumab in combination with ipilimumab (see section 4.8).
@@ -162,7 +168,6 @@ Until further data become available, careful consideration to the potential bene
 Patients on controlled sodium diet
 Each mL of this medicinal product contains 0.1 mmol (or 2.5 mg) sodium.
 To be taken into consideration when treating patients on a controlled sodium diet.
-
 Patient Alert Card
 All prescribers of OPDIVO must be familiar with the Physician Information and Management Guidelines.
 The prescriber must discuss the risks of OPDIVO therapy with the patient.

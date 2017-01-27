@@ -64,7 +64,11 @@ hypothyroidism, hyperthyroidism, resolve and management with
 hypophysitis, corticosteroids (if needed for symptoms
 Grade 2 adrenal insufficiency of acute inflammation) is complete.
 Grade 3 diabetes Treatment should be continued in the
-endocrinopathies Immune-related present presence of hormone replacement therapya as long as no symptoms are
+
+presence of hormone replacement
+
+Immune-related therapya as long as no symptoms are
+endocrinopathies present
 
 Grade 4 hypothyroidism
 Grade 4 hyperthyroidism
@@ -76,20 +80,30 @@ Grade 4 diabetes
 
 Grade 3 rash Withhold dose(s) until symptoms
 
-resolve and management with
+resolve and management with corticosteroids is complete Immune-related skin
 
-Immune-related rash corticosteroids is complete
-Grade 4 rash Permanently discontinue treatment
+adverse reactions Grade 4 rash Permanently discontinue treatment
+
+Stevens-Johnson syndrome (SJS) or Permanently discontinue treatment (see
+
+toxic epidermal necrolysis (TEN) section 4.4)
 Grade 3 (first occurrence) Withhold dose(s)
+Other immune-related Grade 3 myocarditis Permanently discontinue treatment
 
-Grade 4 or recurrent Grade 3 ; persistent
-Other adverse reactions Grade 2 or 3 despite treatment
+adverse reactions
 
-modification ; inability to reduce Permanently discontinue treatment
+Grade 4 or recurrent Grade 3; persistent Grade 2 or 3 despite treatment Permanently discontinue treatment
+Table 1: Recommended treatment modifications for OPDIVO or OPDIVO in
 
-corticosteroid dose to 10 mg prednisone or equivalent per day
+combination with ipilimumab modification; inability to reduce corticosteroid dose to 10 mg prednisone or equivalent per day
 Note: Toxicity grades are in accordance with National Cancer Institute Common Terminology Criteria for Adverse Events Version 4.0 (NCI-CTCAE v4).
 a Recommendation for the use of hormone replacement therapy is provided in section 4.4.
+
+OPDIVO or OPDIVO in combination with ipilimumab should be permanently discontinued for:
+
+- Grade 4 or recurrent Grade 3 adverse reactions;
+- Persistent Grade 2 or 3 adverse reactions despite management.
+
 Patients treated with OPDIVO must be given the patient alert card and be informed about the risks of OPDIVO (see also package leaflet).
 
 When OPDIVO is administered in combination with ipilimumab, if either agent is withheld, the other agent should also be withheld.
@@ -126,7 +140,6 @@ It is to be administered as an intravenous infusion over a period of 60 minutes.
 The infusion must be administered through a sterile, non-pyrogenic, low protein binding in-line filter with a pore size of 0.2-1.2 µm.
 
 OPDIVO must not be administered as an intravenous push or bolus injection.
-
 The total dose of OPDIVO required can be infused directly as a 10 mg/mL solution or can be diluted to as low as 1 mg/mL with sodium chloride 9 mg/mL (0.9%) solution for injection or glucose 50 mg/mL (5%) solution for injection.
 
 When administered in combination with ipilimumab, OPDIVO should be given first followed by ipilimumab on the same day.

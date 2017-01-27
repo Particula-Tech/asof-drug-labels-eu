@@ -69,9 +69,11 @@ Uncommon uveitis, blurred vision
 Cardiac disorders
 Common tachycardia
 Uncommon tachycardia arrhythmia (including ventricular
-arrhythmia)d, atrial fibrillation
+arrhythmia)d, atrial fibrillation,
+myocarditisa,f
 Rare arrhythmia (including ventricular
-arrhythmia)d, atrial fibrillation
+arrhythmia)d, atrial fibrillation,
+myocarditisa,f
 Vascular disorders
 Common hypertension hypertension
 Uncommon vasculitis
@@ -94,14 +96,17 @@ Common vitiligo, dry skin, erythema, alopecia vitiligo, dry skin, erythema, alop
 urticaria
 Uncommon erythema multiforme, psoriasis, psoriasis
 rosacea, urticaria
-Rare toxic epidermal necrolysisa,f toxic epidermal necrolysisa,f
+Rare toxic epidermal necrolysisa,f, Stevens- toxic epidermal necrolysisa,f, Stevens-
+Johnson syndromea,f Johnson syndromef
 Musculoskeletal and connective tissue disorders
 Very common arthralgia
 Common musculoskeletal paing, arthralgia, musculoskeletal paing
 arthritis
 Uncommon polymyalgia rheumatica spondyloarthropathy, Sjogren’s
-syndrome, arthritis, myopathy
-Rare myopathy
+syndrome, arthritis, myopathy,
+myositisa,f, rhabdomyolysisa,f
+Rare myopathy, myositisa,f,
+rhabdomyolysisa,f
 Renal and urinary disorders
 Common renal failurea,c
 Uncommon tubulointerstitial nephritis, renal tubulointerstitial nephritis
@@ -155,7 +160,6 @@ Grade 2, Grade 3, and Grade 4 cases were reported in 4.5% (20/448), 1.1% (5/448)
 One of the Grade 3 pneumonitis worsened over 11 days with a fatal outcome.
 Median time to onset was 2.3 months (range: 0.7-6.7).
 Resolution occurred in 29 patients (87.9%) with a median time to resolution of 6.1 weeks (range: 0.3-46.9+).
-
 Immune-related colitis
 In patients treated with nivolumab monotherapy, the incidence of diarrhoea, colitis, or frequent bowel movements was 13.3% (264/1991).
 The majority of cases were Grade 1 or 2 in severity reported in 8.9% (178/1991) and 2.9% (58/1991) of patients respectively.
@@ -217,7 +221,7 @@ Median time to onset of these endocrinopathies was 1.5 months (range: 0.0-10.1).
 Resolution occurred in 59 patients (45.0%).
 Time to resolution ranged from 0.4 to 74.4+ weeks.
 
-Immune-related rash
+Immune-related skin adverse reactions
 In patients treated with nivolumab monotherapy, the incidence of rash was 26.7% (532/1991).
 The majority of cases were Grade 1 in severity reported in 20.7% (412/1991) of patients.
 Grade 2 and Grade 3 cases were reported in 5.0% (100/1991) and 1.0% (20/1991) of patients respectively.
@@ -230,6 +234,8 @@ Grade 2 and Grade 3 cases were reported in 19.2% (86/448) and 7.4% (33/448) of p
 No Grade 4 or 5 cases were reported.
 Median time to onset was 0.5 months (range: 0.0-9.7).
 Resolution occurred in 192 patients (67.6%) with a median time to resolution of 10.4 weeks (range: 0.1-74.0+).
+
+Rare cases of SJS and TEN some of them with fatal outcome have been observed (see sections 4.2 and 4.4).
 
 Infusion reactions
 In patients treated with nivolumab monotherapy, the incidence of hypersensitivity/infusion reactions was 5.4% (108/1991), including 5 Grade 3 and 2 Grade 4 cases.
@@ -257,6 +263,7 @@ Immunogenicity
 Of the 1586 patients who were treated with nivolumab monotherapy 3 mg/kg every 2 weeks and evaluable for the presence of anti-product-antibodies, 157 patients (9.9%) tested positive for treatment-emergent anti-product-antibodies with nine patients (0.6 %) testing positive for neutralising antibodies.
 
 Of 394 patients who were treated with nivolumab in combination with ipilimumab and evaluable for the presence of anti-nivolumab antibodies, 149 patients (37.8%) tested positive for treatment-emergent anti-nivolumab antibodies with 18 patients (4.6%) testing positive for neutralising antibodies.
+
 Although the clearance of nivolumab was increased by 25% when anti-nivolumab-antibodies were present, there was no evidence of loss of efficacy or altered toxicity profile in the presence of nivolumab antibodies based on the pharmacokinetic and exposure-response analyses for both monotherapy and combination.
 
 Elderly
