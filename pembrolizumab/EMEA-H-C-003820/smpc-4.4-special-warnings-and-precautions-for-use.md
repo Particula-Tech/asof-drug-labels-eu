@@ -13,6 +13,7 @@ Upon improvement to Grade ≤1, corticosteroid taper should be initiated and con
 Based on limited data from clinical studies in patients whose immune-related adverse reactions could not be controlled with corticosteroid use, administration of other systemic immunosuppressants can be considered.
 
 Pembrolizumab may be restarted within 12 weeks after last dose of KEYTRUDA if the adverse reaction remains at Grade ≤1 and corticosteroid dose has been reduced to ≤10 mg prednisone or equivalent per day.
+
 Pembrolizumab must be permanently discontinued for any Grade 3 immune-related adverse reaction that recurs and for any Grade 4 immune-related adverse reaction toxicity, except for endocrinopathies that are controlled with replacement hormones (see sections 4.2 and 4.8).
 
 Immune-related pneumonitis
@@ -41,7 +42,6 @@ Immune-related endocrinopathies
 Severe endocrinopathies, including hypophysitis, type 1 diabetes mellitus, diabetic ketoacidosis, hypothyroidism, and hyperthyroidism have been observed with pembrolizumab treatment.
 
 Long-term hormone replacement therapy may be necessary in cases of immune-related endocrinopathies.
-
 Hypophysitis has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of hypophysitis (including hypopituitarism and secondary adrenal insufficiency) and other causes excluded.
 Corticosteroids to treat secondary adrenal insufficiency and other hormone replacement should be administered as clinically indicated, and pembrolizumab should be withheld for symptomatic hypophysitis until the event is controlled with hormone replacement.
@@ -56,8 +56,7 @@ Thyroid disorders, including hypothyroidism, hyperthyroidism and thyroiditis, ha
 Hypothyroidism may be managed with replacement therapy without treatment interruption and without corticosteroids.
 Hyperthyroidism may be managed symptomatically.
 Pembrolizumab should be withheld for Grade ≥3 until recovery to Grade ≤1 hyperthyroidism.
-For patients with
-Grade 3 or Grade 4 hyperthyroidism that improved to Grade 2 or lower, continuation of pembrolizumab may be considered, after corticosteroid taper, if needed (see sections 4.2 and 4.8).
+For patients with Grade 3 or Grade 4 hyperthyroidism that improved to Grade 2 or lower, continuation of pembrolizumab may be considered, after corticosteroid taper, if needed (see sections 4.2 and 4.8).
 Thyroid function and hormone levels should be monitored to ensure appropriate hormone replacement.
 
 Other immune-related adverse reactions
@@ -75,13 +74,13 @@ For severe infusion reactions, infusion should be stopped and pembrolizumab perm
 Patients with mild or moderate infusion reaction may continue to receive pembrolizumab with close monitoring; premedication with antipyretic and antihistamine may be considered.
 
 Patients excluded from clinical trials
-Patients with the following conditions were excluded from clinical trials: active CNS metastases; HIV, hepatitis B or hepatitis C infection; active systemic autoimmune disease; interstitial lung disease; prior pneumonitis requiring systemic corticosteroid therapy; a history of severe hypersensitivity to another monoclonal antibody; receiving immunosuppressive therapy and a history of severe immune-related adverse reactions from treatment with ipilimumab, defined as any Grade 4 toxicity or Grade 3 toxicity requiring corticosteroid treatment (> 10 mg/day prednisone or equivalent) for greater than 12 weeks.
+Patients with the following conditions were excluded from clinical trials: active CNS metastases; ECOG PS ≥2; HIV, hepatitis B or hepatitis C infection; active systemic autoimmune disease; interstitial lung disease; prior pneumonitis requiring systemic corticosteroid therapy; a history of severe hypersensitivity to another monoclonal antibody; receiving immunosuppressive therapy and a history of severe immune-related adverse reactions from treatment with ipilimumab, defined as any Grade 4 toxicity or Grade 3 toxicity requiring corticosteroid treatment (> 10 mg/day prednisone or equivalent) for greater than 12 weeks.
 Patients with active infections were excluded from clinical trials and were required to have their infection treated prior to receiving pembrolizumab.
 Patients with active infections occurring during treatment with pembrolizumab were managed with appropriate medical therapy.
-Patients with clinically significant renal (creatinine > 1.5 x ULN) or hepatic (bilirubin > 1.5 x ULN, ALT, AST
-> 2.5 x ULN in the absence of liver metastases) abnormalities at baseline were excluded from clinical trials, therefore information is limited in patients with severe renal and moderate to severe hepatic impairment.
+Patients with clinically significant renal (creatinine > 1.5 x ULN) or hepatic (bilirubin > 1.5 x ULN, ALT, AST > 2.5 x ULN in the absence of liver metastases) abnormalities at baseline were excluded from clinical trials, therefore information is limited in patients with severe renal and moderate to severe hepatic impairment.
 
 After careful consideration of the potential increased risk, pembrolizumab may be used with appropriate medical management in these patients.
+
 Patient Alert Card
 All prescribers of KEYTRUDA must be familiar with the Physician Information and Management Guidelines.
 The prescriber must discuss the risks of KEYTRUDA therapy with the patient.

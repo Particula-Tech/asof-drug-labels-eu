@@ -1,23 +1,23 @@
 # 5.2 Pharmacokinetic properties
 
-The pharmacokinetics of pembrolizumab was studied in 2,856 patients with metastatic or unresectable melanoma, NSCLC, or carcinoma who received doses in the range of 1 to 10 mg/kg every 2 or 3 weeks.
+The pharmacokinetics of pembrolizumab was studied in 2,993 patients with metastatic or unresectable melanoma, NSCLC, or carcinoma who received doses in the range of 1 to 10 mg/kg every 2 or 3 weeks.
 
 Absorption
 Pembrolizumab is dosed via the intravenous route and therefore is immediately and completely bioavailable.
-
 Distribution
-Consistent with a limited extravascular distribution, the volume of distribution of pembrolizumab at steady state is small (~7.4 L; CV: 19%).
+Consistent with a limited extravascular distribution, the volume of distribution of pembrolizumab at steady state is small (~7.5 L; CV: 20%).
 As expected for an antibody, pembrolizumab does not bind to plasma proteins in a specific manner.
+
 Biotransformation
 Pembrolizumab is catabolised through non-specific pathways; metabolism does not contribute to its clearance.
 
 Elimination
-The systemic clearance of pembrolizumab is ~0.2 L/day (CV: 37%) and the terminal half-life (t½) is ~27 days (CV: 38%).
+The systemic clearance of pembrolizumab is ~0.2 L/day (CV: 37%) and the terminal half-life (t½) is ~25 days (CV: 38%).
 
 Linearity/non-linearity
 Exposure to pembrolizumab as expressed by peak concentration (Cmax) or area under the plasma concentration time curve (AUC) increased dose proportionally within the dose range for efficacy.
-Upon repeated dosing, the clearance of pembrolizumab was found to be independent of time, and systemic accumulation was approximately 2.2-fold when administered every 3 weeks.
-Near steady-state concentrations of pembrolizumab were achieved by 18 weeks; the median Cmin at 18 weeks was approximately 24 mcg/mL at a dose of 2 mg/kg every 3 weeks.
+Upon repeated dosing, the clearance of pembrolizumab was found to be independent of time, and systemic accumulation was approximately 2.1-fold when administered every 3 weeks.
+Near steady-state concentrations of pembrolizumab were achieved by 18 weeks; the median Cmin at 18 weeks was approximately 21 mcg/mL at a dose of 2 mg/kg every 3 weeks.
 
 Special populations
 The effects of various covariates on the pharmacokinetics of pembrolizumab were assessed in population pharmacokinetic analyses.

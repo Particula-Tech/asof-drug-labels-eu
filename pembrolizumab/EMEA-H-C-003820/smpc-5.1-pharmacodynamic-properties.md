@@ -122,7 +122,7 @@ Clinically stable patients with initial evidence of disease progression were per
 Assessment of tumour status was performed at 12 weeks, then every 6 weeks through week 48, followed by every 12 weeks thereafter.
 Patients on chemotherapy who experienced independently verified progression of disease after the first scheduled disease assessment were able to crossover and receive 2 mg/kg or 10 mg/kg of pembrolizumab every 3 weeks in a double blind fashion.
 
-Of the 540 patients in, 61% were male, 43% were ≥65 years (median age was 62 years [range 15-89]) and 98% were white.
+Of the 540 patients, 61% were male, 43% were ≥65 years (median age was 62 years [range 15-89]) and 98% were white.
 Eighty-two percent had M1c stage, 73% had at least two and 32% of patients had three or more prior systemic therapies for advanced melanoma.
 Forty-five percent had an ECOG Performance Status of 1, 40% had elevated LDH and 23% had a BRAF mutated tumour.
 
@@ -276,21 +276,135 @@ Ocular melanoma
 In 20 subjects with ocular melanoma included in KEYNOTE-001, no objective responses were reported; stable disease was reported in 6 patients.
 
 NSCLC
-KEYNOTE-010: Controlled trial in NSCLC patients previously treated with chemotherapy
+KEYNOTE-024: Controlled trial of NSCLC patients naïve to treatment
+The safety and efficacy of pembrolizumab were investigated in KEYNOTE-024, a multicentre, controlled study for the treatment of previously untreated metastatic NSCLC.
+Patients had PD-L1 expression with a ≥50% tumour proportion score (TPS) based on the PD-L1 IHC 22C3 pharmDxTM Kit.
+Patients were randomised (1:1) to receive pembrolizumab at a dose of 200 mg every 3 weeks (n=154) or investigator’s choice platinum-containing chemotherapy (n=151; including pemetrexed+carboplatin, pemetrexed+cisplatin, gemcitabine+cisplatin, gemcitabine+carboplatin, or paclitaxel+carboplatin.
+Non-squamous patients could receive pemetrexed maintenance).
+Patients were treated with pembrolizumab until unacceptable toxicity or disease progression.
+Treatment could continue beyond disease progression if the patient was clinically stable and was considered to be deriving clinical benefit by the investigator.
+Patients without disease progression could be treated for up to 24 months.
+The study excluded patients with EGFR or ALK genomic tumour aberrations; autoimmune disease that required systemic therapy within 2 years of treatment; a medical condition that required immunosuppression; or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks.
+Assessment of tumour status was performed every 9 weeks.
+Patients on chemotherapy who experienced independently-verified progression of disease were able to crossover and receive pembrolizumab.
+
+Among the 305 patients in KEYNOTE-024, baseline characteristics were: median age 65 years (54% age 65 or older); 61% male; 82% White, 15% Asian; and ECOG performance status 0 and 1 in 35% and 65%, respectively.
+Disease characteristics were squamous (18%) and non-squamous (82%); M1 (99%); and brain metastases (9%).
+
+The primary efficacy outcome measure was PFS as assessed by BICR using RECIST 1.1.
+Secondary efficacy outcome measures were OS and ORR (as assessed by BICR using RECIST 1.1).
+Table 6 summarizes key efficacy measures for the entire ITT population.
+
+Table 6: Efficacy Results in KEYNOTE-024
+
+| Endpoint | Pembrolizumab 200 mg every 3 weeks n=154 | Chemotherapy n=151 |
+| --- | --- | --- |
+| PFS |  |  |
+| Number (%) of patients with event | 73 (47%) | 116 (77%) |
+| Hazard ratio* (95% CI) | 0.50 (0.37, 0.68) |  |
+| p-Value† | <0.001 |  |
+| Median in months (95% CI) | 10.3 (6.7, NA) | 6.0 (4.2, 6.2) |
+| OS |  |  |
+| Number (%) of patients with event | 44 (29%) | 64 (42%) |
+| Hazard ratio* (95% CI) | 0.60 (0.41, 0.89) |  |
+| p-Value† | 0.005 |  |
+| Median in months (95% CI) | Not reached (NA, NA) | Not reached (9.4, NA) |
+| Objective response rate |  |  |
+| ORR % (95% CI) | 45% (37, 53) | 28% (21, 36) |
+| Complete response % | 4% | 1% |
+| Partial response % | 41% | 27% |
+| Response Duration‡ |  |  |
+| Median in months (range) | Not reached (1.9+, 14.5+) | 6.3 (2.1+, 12.6+) |
+| % with duration ≥ 6 months | 88%§ | 59%¶ |
+
+* Hazard ratio (pembrolizumab compared to chemotherapy) based on the stratified Cox proportional hazard model
+† Based on stratified Log rank test
+‡ Based on patients with a best overall response as confirmed complete or partial response
+§ Based on Kaplan-Meier estimates; includes 43 patients with responses of 6 months or longer
+¶ Based on Kaplan-Meier estimates; includes 16 patients with responses of 6 months or longer
+NA = not available
+Figure 4: Kaplan-Meier Curve for Progression-Free Survival by Treatment Arm in KEYNOTE-024 (Intent to Treat Population)
+
+100
+Treatment arm PFS rate at 6 months PFS rate at 12 months HR (95% CI) p-value
+Pembrolizumab 62% 48% 0.50 (0.37, 0.68) <0.001
+
+90 Chemotherapy 50% 15%
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+0 3 6 9 12 15 18
+
+Time in Months
+Number at Risk
+
+Pembrolizumab: 154 104 89 44 22 3 1
+Chemotherapy: 151 99 70 18 9 1 0
+
+Figure 5: Kaplan-Meier Curve for Overall Survival by Treatment Arm in KEYNOTE-024 (Intent to Treat Population)
+
+100
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+Treatment arm OS rate at 6 months OS rate at 12 months HR (95% CI) p-value
+10 Pembrolizumab 80% 70% 0.60 (0.41, 0.89) 0.005Chemotherapy 72% 54%
+
+0
+
+0 3 6 9 12 15 18 21
+
+Time in Months
+Number at Risk
+
+Pembrolizumab: 154 136 121 82 39 11 2 0
+Chemotherapy: 151 123 106 64 34 7 1 0
+
+In a subgroup analysis, a reduced survival benefit of pembrolizumab compared to chemotherapy was observed in the small number of patients who were never-smokers; however, due to the small number of patients, no definitive conclusions can be drawn from these data.
+KEYNOTE-010: Controlled trial of NSCLC patients previously treated with chemotherapy
 The safety and efficacy of pembrolizumab were investigated in KEYNOTE-010, a multicentre, open-label, controlled study for the treatment of advanced NSCLC in patients previously treated with platinum-containing chemotherapy.
-Patients had positive PD-L1 expression (tumour proportion score [TPS] ≥1% based on the PD-L1 IHC 22C3 pharmDxTM Kit).
+Patients had PD-L1 expression with a ≥1% TPS based on the PD-L1 IHC 22C3 pharmDxTM Kit.
 Patients with EGFR activation mutation or ALK translocation also had disease progression on approved therapy for these mutations prior to receiving pembrolizumab.
 Patients were randomised (1:1:1) to receive pembrolizumab at a dose of 2 (n=344) or 10 mg/kg (n=346) every 3 weeks or docetaxel at a dose of 75 mg/m2 every 3 weeks (n=343) until disease progression or unacceptable toxicity.
 The trial excluded patients with autoimmune disease; a medical condition that required immunosuppression; or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks.
 Assessment of tumour status was performed every 9 weeks.
-
 The baseline characteristics for this population included: median age 63 years (42% age 65 or older); 61% male; 72% White and 21% Asian and 34% and 66% with an ECOG performance status 0 and 1, respectively.
 Disease characteristics were squamous (21%) and non-squamous (70%); M1 (91%); stable brain metastases (15%) and the incidence of mutations was EGFR (8%) or ALK (1%).
 Prior therapy included platinum-doublet regimen (100%); patients received one (69%) or two or more (29%) treatment lines.
+
 The primary efficacy outcome measures were OS and PFS as assessed by blinded independent central review (BICR) using RECIST 1.1.
 Secondary efficacy outcome measures were ORR and response duration.
-Table 6 summarises key efficacy measures for the entire population (TPS ≥1%) and for the patients with TPS ≥50% and the Kaplan-Meier curve for OS (TPS ≥1%) is shown in Figure 4.
-Table 6: Response to pembrolizumab 2 or 10 mg/kg every 3 weeks in previously treated patients with NSCLC in KEYNOTE-010
+Table 7 summarises key efficacy measures for the entire population (TPS ≥1%) and for the patients with TPS ≥50% and the Kaplan-Meier curve for OS (TPS ≥1%) is shown in Figure 6.
+Table 7: Response to pembrolizumab 2 or 10 mg/kg every 3 weeks in previously treated patients with NSCLC in KEYNOTE-010
 
 | Endpoint | Pembrolizumab 2 mg/kg every 3 weeks | Pembrolizumab 10 mg/kg every 3 weeks | Docetaxel 75 mg/m2 every 3 weeks |
 | --- | --- | --- | --- |
@@ -336,7 +450,7 @@ Table 6: Response to pembrolizumab 2 or 10 mg/kg every 3 weeks in previously tre
 ¶ All responses were partial responses
 # Based on patients with a best overall response as confirmed complete or partial response
 Þ Includes 30, 31 and 2 patients with ongoing responses of 6 months or longer in the pembrolizumab 2 mg/kg, pembrolizumab 10 mg/kg and docetaxel arms respectively ß Includes 22, 24 and 1 patients with ongoing responses of 6 months or longer in the pembrolizumab 2 mg/kg, pembrolizumab 10 mg/kg and docetaxel arms respectively
-Figure 4: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-010 (patients with PD-L1 expression tumour proportion score ≥1%, intent to treat population)
+Figure 6: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-010 (patients with PD-L1 expression tumour proportion score ≥1%, intent to treat population)
 
 100 Treatment arm OS rate at 9 months OS rate at 12 months HR (95% CI) p-value
 

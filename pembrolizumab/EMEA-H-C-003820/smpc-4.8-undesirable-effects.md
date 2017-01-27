@@ -3,13 +3,14 @@
 Summary of the safety profile
 Pembrolizumab is most commonly associated with immune-related adverse reactions.
 Most of these, including severe reactions, resolved following initiation of appropriate medical therapy or withdrawal of pembrolizumab (see “Description of selected adverse reactions” below).
-The safety of pembrolizumab has been evaluated in 2,799 patients with advanced melanoma or NSCLC across three doses (2 mg/kg every 3 weeks or 10 mg/kg every 2 or 3 weeks) in clinical studies.
-In this patient population, the most common adverse reactions (> 10%) with pembrolizumab were fatigue (24%), rash (19%), pruritus (18%), diarrhoea (12%), nausea (11%) and arthralgia (10%).
+
+The safety of pembrolizumab has been evaluated in 2,953 patients with advanced melanoma or NSCLC across four doses (2 mg/kg every 3 weeks, 200 mg every 3 weeks, or 10 mg/kg every 2 or 3 weeks) in clinical studies.
+In this patient population, the most common adverse reactions (> 10%) with pembrolizumab were fatigue (24%), rash (19%), pruritus (17%), diarrhoea (12%), nausea (11%) and arthralgia (10%).
 The majority of adverse reactions reported were of Grade 1 or 2 severity.
 The most serious adverse reactions were immune-related adverse reactions and severe infusion-related reactions (see section 4.4).
 
 Tabulated list of adverse reactions
-Adverse reactions reported in 2,799 patients treated with pembrolizumab in clinical trials are reported in Table 2.
+Adverse reactions reported in 2,953 patients treated with pembrolizumab in clinical trials are reported in Table 2.
 These reactions are presented by system organ class and by frequency.
 Frequencies are defined as: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to < 1/1,000); very rare (< 1/10,000).
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
@@ -51,8 +52,9 @@ Table 2: Adverse reactions in patients treated with pembrolizumab in clinical tr
 | Uncommon | hepatitisj |
 | Skin and subcutaneous tissue disorders |  |
 | Very common | rashk, pruritusl |
-| Common | severe skin reactionsm, vitiligon, dermatitis acneiform, dry skin, erythema, eczema |
-| Uncommon | lichenoid keratosiso, psoriasis, alopecia, erythema nodosum, dermatitis, hair colour changes, papule |
+| Common | severe skin reactionsm, vitiligon, dry skin, erythema, eczema |
+| Uncommon | lichenoid keratosiso, psoriasis, alopecia, dermatitis, dermatitis acneiform, hair colour changes, papule |
+| Rare | erythema nodosum |
 | Musculoskeletal and connective tissue disorders |  |
 | Very common | arthralgia |
 | Common | myositisp, musculoskeletal painq, pain in extremity, arthritisr |
@@ -72,60 +74,59 @@ a. infusion-related reactions (drug hypersensitivity, anaphylactic reaction, hyp
 Description of selected adverse reactions
 Data for the following immune-related adverse reactions are based on patients who received pembrolizumab across three doses (2 mg/kg every 3 weeks or 10 mg/kg every 2 or 3 weeks) in clinical studies (see section 5.1).
 The management guidelines for these adverse reactions are described in section 4.4.
-
 Immune-related adverse reactions (see section 4.4)
 
 Immune-related pneumonitis
-Pneumonitis occurred in 94 (3.4%) patients, including Grade 2, 3, 4 or 5 cases in 36 (1.3%),
-25 (0.9%), 7 (0.3%) and 4 (0.1%) patients, respectively, receiving pembrolizumab.
-The median time to onset of pneumonitis was 3.3 months (range 2 days to 19.3 months).
-The median duration was 1.5 months (range 1 day to 17.2+ months).
-Pneumonitis led to discontinuation of pembrolizumab in 36 (1.3%) patients.
-Pneumonitis resolved in 55 patients.
+Pneumonitis occurred in 103 (3.5%) patients, including Grade 2, 3, 4 or 5 cases in 40 (1.4%),
+27 (0.9%), 9 (0.3%) and 4 (0.1%) patients, respectively, receiving pembrolizumab.
+The median time to onset of pneumonitis was 3.1 months (range 2 days to 19.3 months).
+The median duration was 1.8 months (range 1 day to 17.2+ months).
+Pneumonitis led to discontinuation of pembrolizumab in 42 (1.4%) patients.
+Pneumonitis resolved in 61 patients.
 
 Immune-related colitis
-Colitis occurred in 48 (1.7%) patients, including Grade 2, 3 or 4 cases in 10 (0.4%), 31 (1.1%) and 2 (<0.1%) patients, respectively, receiving pembrolizumab.
-The median time to onset of colitis was 3.5 months (range 10 days to 16.2 months).
-The median duration was 1.3 months (range 1 day to 8.7+ months).
+Colitis occurred in 51 (1.7%) patients, including Grade 2, 3 or 4 cases in 11 (0.4%), 32 (1.1%) and 2 (<0.1%) patients, respectively, receiving pembrolizumab.
+The median time to onset of colitis was 3.5 months (range 7 days to 16.2 months).
+The median duration was 1.4 months (range 1 day to 8.7+ months).
 Colitis led to discontinuation of pembrolizumab in 15 (0.5%) patients.
-Colitis resolved in 41 patients.
+Colitis resolved in 43 patients.
+
 Immune-related hepatitis
-Hepatitis occurred in 19 (0.7%) patients, including Grade 2, 3 or 4 cases in 4 (0.1%), 12 (0.4%) and 2 (<0.1%) patients, respectively, receiving pembrolizumab.
+Hepatitis occurred in 19 (0.6%) patients, including Grade 2, 3 or 4 cases in 4 (0.1%), 12 (0.4%) and 2 (<0.1%) patients, respectively, receiving pembrolizumab.
 The median time to onset of hepatitis was 1.3 months (range 8 days to 21.4 months).
 The median duration was 1.8 months (range 8 days to 20.9+ months).
 Hepatitis led to discontinuation of pembrolizumab in 6 (0.2%) patients.
 Hepatitis resolved in 15 patients.
 
 Immune-related nephritis
-Nephritis occurred in 9 (0.3%) patients, including Grade 2, 3 or 4 cases in 3 (0.1%), 4 (0.1%) and 1 (<0.1%) patients, respectively, receiving pembrolizumab.
-The median time to onset of nephritis was 5.1 months (range 12 days to 12.8 months).
-The median duration was 3.3 months (range 12 days to 8.9+ months).
+Nephritis occurred in 10 (0.3%) patients, including Grade 2, 3 or 4 cases in 3 (0.1%), 5 (0.2%) and 1 (<0.1%) patients, respectively, receiving pembrolizumab.
+The median time to onset of nephritis was 5.0 months (range 12 days to 12.8 months).
+The median duration was 2.5 months (range 12 days to 8.9+ months).
 Nephritis led to discontinuation of pembrolizumab in 3 (0.1%) patients.
-Nephritis resolved in 5 patients.
+Nephritis resolved in 6 patients.
 
 Immune-related endocrinopathies
-Hypophysitis occurred in 17 (0.6%) patients, including Grade 2, 3 or 4 cases in 6 (0.2%), 8 (0.3%) and 1 (<0.1%) patients, respectively, receiving pembrolizumab.
-The median time to onset of hypophysitis was 3.7 months (range 1 day to 11.9 months).
+Hypophysitis occurred in 18 (0.6%) patients, including Grade 2, 3 or 4 cases in 6 (0.2%), 9 (0.3%) and 1 (<0.1%) patients, respectively, receiving pembrolizumab.
+The median time to onset of hypophysitis was 4.0 months (range 1 day to 11.9 months).
 The median duration was 4.7 months (range 8+ days to 12.7+ months).
 Hypophysitis led to discontinuation of pembrolizumab in 4 (0.1%) patients.
 Hypophysitis resolved in 7 patients, 2 with sequelae.
 
-Hyperthyroidism occurred in 96 (3.4%) patients, including Grade 2 or 3 cases in 22 (0.8%) and 4 (0.1%) patients, respectively, receiving pembrolizumab.
+Hyperthyroidism occurred in 108 (3.7%) patients, including Grade 2 or 3 cases in 26 (0.9%) and 4 (0.1%) patients, respectively, receiving pembrolizumab.
 The median time to onset of hyperthyroidism was 1.4 months (range 1 day to 21.9 months).
-The median duration was 2.1 months (range 3 days to 15.0+ months).
+The median duration was 2.0 months (range 10 days to 15.0+ months).
 Hyperthyroidism led to discontinuation of pembrolizumab in 2 (<0.1%) patients.
-Hyperthyroidism resolved in 71 (74%) patients.
+Hyperthyroidism resolved in 82 (76%) patients.
 
-Hypothyroidism occurred in 237 (8.5%) patients, including Grade 2 or 3 cases in 174 (6.2%) and 3 (0.1%) patients, receiving pembrolizumab.
+Hypothyroidism occurred in 251 (8.5%) patients, including Grade 2 or 3 cases in 182 (6.2%) and 3 (0.1%) patients, receiving pembrolizumab.
 The median time to onset of hypothyroidism was 3.5 months (range 1 day to 18.9 months).
 The median duration was not reached (range 2 days to 27.7+ months).
 One patient (< 0.1%) discontinued pembrolizumab due to hypothyroidism.
-Hypothyroidism resolved in 48 (20%) patients.
+Hypothyroidism resolved in 51 (20%) patients, 2 with sequelae.
 
 Immunogenicity
-In clinical studies in patients treated with pembrolizumab 2 mg/kg every 3 weeks or 10 mg/kg every two or three weeks, 19 (1.7%) of 1,087 evaluable patients tested positive for treatment-emergent antibodies to pembrolizumab.
+In clinical studies in patients treated with pembrolizumab 2 mg/kg every 3 weeks, 200 mg every 3 weeks, or 10 mg/kg every two or three weeks, 26 (2.0%) of 1,289 evaluable patients tested positive for treatment-emergent antibodies to pembrolizumab.
 There was no evidence of an altered pharmacokinetic or safety profile with anti-pembrolizumab binding antibody development.
-
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
