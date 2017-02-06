@@ -5,13 +5,13 @@ Summary of the safety profile
 The most commonly reported undesirable effects related to pemetrexed, whether used as monotherapy or in combination, are bone marrow suppression manifested as anaemia, neutropenia, leukopenia, thrombocytopenia; and gastrointestinal toxicities, manifested as anorexia, nausea, vomiting, diarrhoea, constipation, pharyngitis, mucositis, and stomatitis.
 Other undesirable effects include renal toxicities, increased aminotransferases, alopecia, fatigue, dehydration, rash, infection/sepsis and neuropathy.
 Rarely seen events include Stevens-Johnson syndrome and Toxic epidermal necrolysis.
+
 Tabulated list of adverse reactions
 
 The table below provides the frequency and severity of undesirable effects that have been reported in > 5 % of 168 patients with mesothelioma who were randomised to receive cisplatin and pemetrexed and 163 patients with mesothelioma randomised to receive single agent cisplatin.
 In both treatment arms, these chemonaive patients were fully supplemented with folic acid and vitamin B12.
 
-Adverse reactions
-Frequency estimate: Very common (≥1/10), Common (≥1/100 and <1/10), Uncommon (≥1/1000 and <1/100), Rare (≥1/10,000 and <1/1000), Very rare (<1/10,000) and not known (cannot be estimated from available data-spontaneous reports).
+Frequency estimate: Very common (≥1/10), Common (≥1/100 to <1/10), Uncommon (≥1/1000 to <1/100), Rare (≥1/10,000 to <1/1000), Very rare (<1/10,000) and not known (cannot be estimated from available data).
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
@@ -253,16 +253,9 @@ Rarely, immune-mediated haemolytic anaemia has been reported in patients treated
 
 Rare cases of anaphylactic shock have been reported.
 
-[ALIMTA 500 mg powder for concentrate for solution for infusion]
+Erythematous oedema mainly of the lower limbs has been reported with an unknown frequency.
 
-Frequency estimate: Very common ( ≥1/10), Common (≥1/100 and <1/10), Uncommon (≥1/1000 and <1/100), Rare (≥1/10,000 and <1/1000), Very rare ( <1/10,000) and not known (cannot be estimated from available data-spontaneous reports).
-
-Platelets decreased 10.1* 4.1* 26.6* 12.7*
-
-The table below provides the frequency and severity of undesirable effects considered possibly related to study drug that have been reported in > 5% of 800 patients randomly assigned to receive single agent pemetrexed and 402 patients randomly assigned to receive placebo in the single-agent pemetrexed maintenance (JMEN:N=663) and continuation pemetrexed maintenance (PARAMOUNT: N=539) studies.
-
-grades 3/4 grades 3/4
-Blood and Very Hemoglobin 18.06 4.5 5.2 0.5
-site conditions Edema 5.6 0.0 1.5 0.0
-
-A significant increase in the incidence of possibly study-drug-related Grade 3/4 neutropenia was observed with longer exposure to pemetrexed (≤6 cycles: 3.3%, > 6 cycles: 6.4%; p=0.046).
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

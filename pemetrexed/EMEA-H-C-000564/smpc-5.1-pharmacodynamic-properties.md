@@ -13,9 +13,9 @@ Polyglutamated metabolites have an increased intracellular half-life resulting i
 
 The European Medicines Agency has waived the obligation to submit the results of studies with ALIMTA in all subsets of the paediatric population in the granted indications (see Section 4.2).
 
-Clinical efficacy:
+Clinical efficacy
 
-Mesothelioma:
+Mesothelioma
 
 EMPHACIS, a multicentre, randomised, single-blind phase 3 study of ALIMTA plus cisplatin versus cisplatin in chemonaive patients with malignant pleural mesothelioma, has shown that patients treated with ALIMTA and cisplatin had a clinically meaningful 2.8-month median survival advantage over patients receiving cisplatin alone.
 
@@ -23,6 +23,7 @@ During the study, low-dose folic acid and vitamin B12 supplementation was introd
 The primary analysis of this study was performed on the population of all patients randomly assigned to a treatment arm who received study drug (randomised and treated).
 A subgroup analysis was performed on patients who received folic acid and vitamin B12 supplementation during the entire course of study therapy (fully supplemented).
 The results of these analyses of efficacy are summarised in the table below:
+
 Efficacy of ALIMTA plus cisplatin vs. cisplatin in malignant pleural mesothelioma
 
 |  | Randomized and treated patients |  | Fully supplemented patients |  |
@@ -50,7 +51,7 @@ There are limited data in patients with malignant pleural mesothelioma treated w
 ALIMTA at a dose of 500 mg/m2 was studied as a single-agent in 64 chemonaive patients with malignant pleural mesothelioma.
 The overall response rate was 14.1 %.
 
-NSCLC, second-line treatment:
+NSCLC, second-line treatment
 
 A multicentre, randomised, open label phase 3 study of ALIMTA versus docetaxel in patients with locally advanced or metastatic NSCLC after prior chemotherapy has shown median survival times of 8.3 months for patients treated with ALIMTA (Intent To Treat population n = 283) and 7.9 months for patients treated with docetaxel (ITT n = 288).
 Prior chemotherapy did not include ALIMTA.
@@ -60,6 +61,7 @@ There were no clinically relevant differences observed for the safety profile of
 
 Limited clinical data from a separate randomized, Phase 3, controlled trial, suggest that efficacy data (overall survival, progression free survival) for pemetrexed are similar between patients previously pre treated with docetaxel (n = 41) and patients who did not receive previous docetaxel treatment
 (n = 540).
+
 Efficacy of ALIMTA vs docetaxel in NSCLC - ITT population
 
 |  | ALIMTA | Docetaxel |
@@ -71,7 +73,7 @@ Efficacy of ALIMTA vs docetaxel in NSCLC - ITT population
 
 Abbreviations: CI = confidence interval; HR = hazard ratio; ITT = intent to treat; n = total population size.
 
-NSCLC, first-line treatment:
+NSCLC, first-line treatment
 
 A multicentre, randomised, open-label, Phase 3 study of ALIMTA plus cisplatin versus gemcitabine plus cisplatin in chemonaive patients with locally advanced or metastatic (Stage IIIb or IV) non-small cell lung cancer (NSCLC) showed that ALIMTA plus cisplatin (Intent-To-Treat [ITT] population n = 862) met its primary endpoint and showed similar clinical efficacy as gemcitabine plus cisplatin (ITT n = 863) in overall survival (adjusted hazard ratio 0.94; 95% CI = 0.84-1.05).
 All patients included in this study had an ECOG performance status 0 or 1.
@@ -123,7 +125,7 @@ Survival Time (months) Survival Time (months)
 There were no clinically relevant differences observed for the safety profile of ALIMTA plus cisplatin within the histology subgroups.
 Patients treated with ALIMTA and cisplatin required fewer transfusions (16.4% versus 28.9%, p<0.001), red blood cell transfusions (16.1% versus 27.3%, p<0.001) and platelet transfusions (1.8% versus 4.5%, p=0.002).
 Patients also required lower administration of erythropoietin/darbopoietin (10.4% versus 18.1%, p<0.001), G-CSF/GM-CSF (3.1% versus 6.1%, p=0.004), and iron preparations (4.3% versus 7.0%, p=0.021).
-NSCLC, maintenance treatment:
+NSCLC, maintenance treatment
 
 JMEN
 A multicentre, randomised, double-blind, placebo-controlled Phase 3 study (JMEN), compared the efficacy and safety of maintenance treatment with ALIMTA plus best supportive care (BSC) (n = 441) with that of placebo plus BSC (n = 222) in patients with locally advanced (Stage IIIB) or metastatic (Stage IV) Non Small Cell Lung Cancer (NSCLC) who did not progress after 4 cycles of first line doublet therapy containing Cisplatin or Carboplatin in combination with Gemcitabine, Paclitaxel, or Docetaxel.
@@ -198,22 +200,3 @@ Progression-Free Survival Overall Survival
 |  | 1.0 0.9 Pemetrexed 0.8 Placebo 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0.0 0 3 6 9 12 15 18 21 24 27 30 33 36 OS Time (Months) |
 
 The ALIMTA maintenance safety profiles from the two studies JMEN and PARAMOUNT were similar.
-
-[ALIMTA 500 mg powder for concentrate for solution for infusion]
-
-|  | Randomized and treated patients |  | Fully supplemented Patients |  |
-| --- | --- | --- | --- | --- |
-| Efficacy parameter | ALIMTA/ cisplatin (N = 226) | Cisplatin (N = 222) | ALIMTA/ cisplatin (N = 168) | Cisplatin (N = 163) |
-| Median overall survival (months) (95 % CI) | 12.1 (10.0 - 14.4) | 9.3 (7.8 - 10.7) | 13.3 (11.4 - 14.9) | 10.0 (8.4 - 11.9) |
-| Log Rank p-value* | 0.020 |  | 0.051 |  |
-| Median time to tumour progression (months) (95 % CI) | 5.7 (4.9 – 6.5) | 3.9 (2.8 - 4.4) | 6.1 (5.3 - 7.0) | 3.9 (2.8 - 4.5) |
-| Log Rank p-value* | 0.001 |  | 0.008 |  |
-| Time to treatment failure (months) (95 % CI) | 4.5 (3.9 – 4.9) | 2.7 (2.1 - 2.9) | 4.7 (4.3 - 5.6) | 2.7 (2.2 - 3.1) |
-| Log Rank p-value* | 0.001 |  | 0.001 |  |
-| Overall response rate** (95 % CI) | 41.3 % (34.8 - 48.1) | 16.7 % (12.0 – 22.2) | 45.5 % (37.8 - 53.4) | 19.6 % (13.8 - 26.6) |
-| Fisher’s exact p-value* | < 0.001 |  | < 0.001 |  |
-
-** In the ALIMTA/cisplatin arm, randomized and treated (N = 225) and fully supplemented
-(N = 167)
-
-PARAMOUNT: Kaplan Meier plot of progression-free survival (PFS) and Overall Survival (OS) for continuation ALIMTA maintenance versus placebo in patients with NSCLC other than predominantly squamous cell histology (measured from randomisation)

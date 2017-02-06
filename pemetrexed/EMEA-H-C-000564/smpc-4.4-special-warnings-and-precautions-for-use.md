@@ -14,7 +14,7 @@ Pre-treatment with dexamethasone (or equivalent) can reduce the incidence and se
 An insufficient number of patients has been studied with creatinine clearance of below 45 ml/min.
 Therefore, the use of pemetrexed in patients with creatinine clearance of < 45 ml/min is not recommended (see section 4.2).
 
-Patients with mild to moderate renal insufficiency (creatinine clearance from 45 to 79 ml/min) should avoid taking non-steroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen, and aspirin (> 1.3 g daily) for 2 days before, on the day of, and 2 days following pemetrexed administration (see section 4.5).
+Patients with mild to moderate renal insufficiency (creatinine clearance from 45 to 79 ml/min) should avoid taking non-steroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen, and acetylsalicylic acid (> 1.3 g daily) for 2 days before, on the day of, and 2 days following pemetrexed administration (see section 4.5).
 In patients with mild to moderate renal insufficiency eligible for pemetrexed therapy NSAIDs with long elimination half-lives should be interrupted for at least 5 days prior to, on the day of, and at least 2 days following pemetrexed administration (see section 4.5).
 
 Serious renal events, including acute renal failure, have been reported with pemetrexed alone or in association with other chemotherapeutic agents.
@@ -44,7 +44,11 @@ Particular attention should be paid to these patients and caution exercised with
 
 Cases of radiation recall have been reported in patients who received radiotherapy weeks or years previously.
 
-[ALIMTA 500 mg powder for concentrate for solution for infusion]
+Excipients
 
+ALIMTA 100 mg powder for concentrate for solution for infusion
+This medicinal product contains less than 1 mmol sodium (23 mg) per vial, i.e. essentially ‘sodium-free’.
+
+ALIMTA 500 mg powder for concentrate for solution for infusion
 This medicinal product contains approximately 54 mg of sodium per vial.
 To be taken into consideration by patients on a controlled sodium diet.
