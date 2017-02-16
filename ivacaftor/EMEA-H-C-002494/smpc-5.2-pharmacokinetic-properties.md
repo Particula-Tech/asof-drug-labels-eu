@@ -3,8 +3,7 @@
 The pharmacokinetics of ivacaftor are similar between healthy adult volunteers and patients with CF.
 
 After oral administration of a single 150 mg dose to healthy volunteers in a fed state, the mean (±SD) for AUC and Cmax were 10600 (5260) ng*hr/mL and 768 (233) ng/mL, respectively.
-After every 12-hour dosing, steady-state plasma concentrations of ivacaftor were reached by days 3 to 5, with an accumulation ratio ranging from 2.2 to 2.9.
-
+After every 12-hour dosing, steady-state plasma concentrations of ivacaftor were reached by Days 3 to 5, with an accumulation ratio ranging from 2.2 to 2.9.
 Absorption
 Following multiple oral dose administrations of ivacaftor, the exposure of ivacaftor generally increased with dose from 25 mg every 12 hours to 450 mg every 12 hours.
 The exposure of ivacaftor increased approximately 2.5- to 4-fold when given with food containing fat.
@@ -27,6 +26,7 @@ In vitro and in vivo data indicate that ivacaftor is primarily metabolised by CY
 M1 and M6 are the two major metabolites of ivacaftor in humans.
 M1 has approximately one-sixth the potency of ivacaftor and is considered pharmacologically active.
 M6 has less than one-fiftieth the potency of ivacaftor and is not considered pharmacologically active.
+
 Elimination
 Following oral administration, the majority of ivacaftor (87.8%) was eliminated in the faeces after metabolic conversion.
 The major metabolites M1 and M6 accounted for approximately 65% of the total dose eliminated with 22% as M1 and 43% as M6.
@@ -78,7 +78,6 @@ No dose adjustments are necessary based on gender.
 [Kalydeco 50 mg granules in sachet]
 
 Therefore in patients with moderate hepatic impairment, a reduced dose of 50 mg once daily is recommended in patients aged 2 years and older with body weight less than 14 kg and 75 mg once daily for those with body weight 14 kg to less than 25 kg.
-
 In such cases, the starting dose should be as above recommended, but administered every other day.
 
 Predicted ivacaftor exposure based on observed ivacaftor concentrations in Phase 2 and 3 studies as determined using population PK analysis is presented by age group in Table 6.

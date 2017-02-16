@@ -1,6 +1,6 @@
 # 6.3 Shelf life
 
-30 months
+4 years.
 
 [Kalydeco 50 mg granules in sachet]
 

@@ -27,7 +27,7 @@ Dosing intervals should be modified according to clinical response and tolerabil
 Concomitant use of CYP3A inhibitors
 When co-administered with strong inhibitors of CYP3A (e.g., ketoconazole, itraconazole, posaconazole, voriconazole, telithromycin and clarithromycin), the Kalydeco dose should be reduced to 150 mg twice a week (see sections 4.4 and 4.5).
 
-When co-administered with moderate inhibitors of CYP3A (e.g., fluconazole, erythromycin), the Kalydeco dose should be reduced to a dose of 150 mg once daily (see sections 4.4 and 4.5).
+When co-administered with moderate inhibitors of CYP3A (e.g., fluconazole, erythromycin), the Kalydeco dose should be reduced to 150 mg once daily (see sections 4.4 and 4.5).
 
 Paediatric population
 The safety and efficacy of Kalydeco in children aged less than 2 years with a gating (class III) mutation have not been established.

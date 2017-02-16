@@ -9,4 +9,5 @@ The following pack sizes are available:
 [Kalydeco 50 mg granules in sachet]
 
 Packaged in a Biaxially Oriented Polyethylene Terephthalate/Polyethylene/Foil/Polyethylene (BOPET/PE/Foil/PE) sachet.
+
 Pack size of 56 sachets (contains 4 individual wallets with 14 sachets per wallet)

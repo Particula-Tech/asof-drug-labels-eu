@@ -59,7 +59,6 @@ Paediatric population
 The safety data were evaluated in 34 patients between 2 to less than 6 years of age, 61 patients between 6 to less than 12 years of age and 94 patients between 12 to less than 18 years of age.
 
 The safety profile is generally consistent among children and adolescents and is also consistent with adult patients.
-
 During the 24-week open-label Phase 3 clinical study in 34 patients aged 2 to less than 6 years (study 7), the incidence of patients experiencing transaminase elevations (ALT or AST) >3 x ULN was 14.7% (5/34).
 All 5 patients had maximum ALT or AST levels >8 x ULN, which returned to baseline levels following interruption of dosing with ivacaftor granules.
 Ivacaftor was permanently discontinued in one patient.
@@ -100,8 +99,8 @@ Table 2 reflects the adverse reactions observed with ivacaftor in clinical trial
 |  | Diarrhoea | very common |
 | Hepatobiliary disorders | Transaminase elevations | very common |
 | Skin and subcutaneous tissue disorders | Rash | very common |
-| Reproductive system and | Breast mass | common |
-| breast disorders | Breast inflammation | uncommon |
+| Reproductive system and breast disorders | Breast mass | common |
+|  | Breast inflammation | uncommon |
 |  | Gynaecomastia | uncommon |
 |  | Nipple disorder | uncommon |
 |  | Nipple pain | uncommon |

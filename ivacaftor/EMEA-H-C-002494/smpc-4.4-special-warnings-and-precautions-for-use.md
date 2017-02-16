@@ -40,7 +40,7 @@ See section 4.5 for interactions with ciclosporin or tacrolimus.
 Interactions with medicinal products
 Ivacaftor is a substrate of CYP3A4 and CYP3A5.
 Medicinal products that inhibit or induce CYP3A activity may impact the pharmacokinetics of ivacaftor (see section 4.5).
-The dose of Kalydeco must be adjusted when concomitantly used with strong or moderate CYP3A inhibitors (see section 4.2).
+The dose of Kalydeco must be adjusted when concomitantly used with strong or moderate CYP3A inhibitors (see sections 4.2 and 4.5).
 Exposure to ivacaftor may be reduced by the concomitant use of CYP3A inducers, potentially resulting in the loss of ivacaftor efficacy (see section 4.5).
 
 Ivacaftor is a weak CYP3A inhibitor and may modify the pharmacokinetics of medicinal products metabolised through the CYP3A system.
