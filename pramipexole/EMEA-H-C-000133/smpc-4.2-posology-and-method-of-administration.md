@@ -33,7 +33,7 @@ Abrupt discontinuation of dopaminergic therapy can lead to the development of a 
 Pramipexole should be tapered off at a rate of 0.54 mg of base (0.75 mg of salt) per day until the daily dose has been reduced to 0.54 mg of base (0.75 mg of salt).
 Thereafter the dose should be reduced by 0.264 mg of base (0.375 mg of salt) per day (see section 4.4).
 
-Patients with renal impairment
+Renal impairment
 The elimination of pramipexole is dependent on renal function.
 The following dose schedule is suggested for initiation of therapy:
 
@@ -48,13 +48,14 @@ A maximum daily dose of 1.1 mg pramipexole base (1.5 mg of salt) should not be e
 If renal function declines during maintenance therapy the SIFROL daily dose should be reduced by the same percentage as the decline in creatinine clearance, i.e. if creatinine clearance declines by 30%, then the SIFROL daily dose should be reduced by 30%.
 The daily dose can be administered in two divided doses if creatinine clearance is between 20 and 50 ml/min and as a single daily dose if creatinine clearance is less than 20 ml/min.
 
-Patients with hepatic impairment
+Hepatic impairment
 Dose adjustment in patients with hepatic failure is probably not necessary, as approx. 90% of absorbed active substance is excreted through the kidneys.
 However, the potential influence of hepatic insufficiency on SIFROL pharmacokinetics has not been investigated.
 
 Paediatric population
 The safety and efficacy of SIFROL in children below 18 years has not been established.
-There is no relevant use of SIFROL in the paediatric population in Parkinson’s Disease.
+There is no relevant use of SIFROL in the paediatric population for the indication of Parkinson’s Disease.
+
 Restless Legs Syndrome
 
 The recommended starting dose of SIFROL is 0.088 mg of base (0.125 mg of salt) taken once daily 2-3 hours before bedtime.
@@ -67,8 +68,8 @@ For patients requiring additional symptomatic relief, the dose may be increased 
 | 2* | 0.18 | 0.25 |
 | 3* | 0.35 | 0.50 |
 | 4* | 0.54 | 0.75 |
-| * if needed |  |  |
 
+* if needed
 Patient’s response should be evaluated after 3 months treatment and the need for treatment continuation should be reconsidered.
 If treatment is interrupted for more than a few days it should be re-initiated by dose titration carried out as above.
 
@@ -77,12 +78,12 @@ Since the daily dose for the treatment of Restless Legs Syndrome will not exceed
 In a 26 week placebo controlled trial, rebound of RLS symptoms (worsening of symptom severity as compared to baseline) was observed in 10% of patients (14 out of 135) after abrupt discontinuation of treatment.
 This effect was found to be similar across all doses.
 
-Patients with renal impairment
+Renal impairment
 The elimination of pramipexole is dependent on renal function.
 Patients with a creatinine clearance above 20 ml/min require no reduction in daily dose.
 The use of SIFROL has not been studied in haemodialysis patients, or in patients with severe renal impairment.
 
-Patients with hepatic impairment
+Hepatic impairment
 Dose adjustment in patients with hepatic failure is not required, as approx. 90% of absorbed active substance is excreted through the kidneys.
 
 Paediatric population
@@ -98,27 +99,11 @@ Method of administration
 
 The tablets should be taken orally, swallowed with water, and can be taken either with or without food.
 
-[SIFROL 0.18 mg tablets]
-
-(all sentences already above)
-
-[SIFROL 0.35 mg tablets]
-
-(all sentences already above)
-
-[SIFROL 0.7 mg tablets]
-
-(all sentences already above)
-
-[SIFROL 1.1 mg tablets]
-
-(all sentences already above)
-
 [SIFROL 0.26 mg prolonged-release tablets]
 
 SIFROL prolonged-release tablets are a once-a-day oral formulation of pramipexole.
 
-Doses should be increased gradually from a starting dose of 0.26 mg of base (0.375 mg of salt) per day and then increased every 5 - 7 days.
+Doses should be increased gradually from a starting dose of 0.26 mg of base (0.375 mg of salt) per day and then increased every 5-7 days.
 
 | Ascending dose schedule of SIFROL prolonged-release tablets |  |  |
 | --- | --- | --- |
@@ -155,31 +140,7 @@ The use of SIFROL tablets should be considered.
 
 If renal function declines during maintenance therapy, the recommendations given above should be followed.
 
-There is no relevant use of SIFROL prolonged-release tablets in the paediatric population in Parkinson’s Disease.
+There is no relevant use of SIFROL prolonged-release tablets in the paediatric population for the indication of Parkinson’s Disease.
 
 The tablets should be swallowed whole with water, and must not be chewed, divided or crushed.
 The tablets may be taken either with or without food and should be taken each day at about the same time.
-
-[SIFROL 0.52 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[SIFROL 1.05 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[SIFROL 1.57 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[SIFROL 2.1 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[SIFROL 2.62 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[SIFROL 3.15 mg prolonged-release tablets]
-
-(all sentences already above)

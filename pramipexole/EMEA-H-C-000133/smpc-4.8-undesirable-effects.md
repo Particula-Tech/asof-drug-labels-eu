@@ -1,16 +1,11 @@
 # 4.8 Undesirable effects
 
-Expected adverse reactions
-The following adverse reactions are expected under the use of SIFROL: abnormal dreams, amnesia, behavioural symptoms of impulse control disorders and compulsions such as binge eating, compulsive shopping, hypersexuality and pathological gambling; cardiac failure, confusion, constipation, delirium, delusion, dizziness, dyskinesia, dyspnoea, fatigue, hallucinations, headache, hiccups, hyperkinesia, hyperphagia, hypotension, inappropriate antidiuretic hormone secretion, insomnia, libido disorders, mania, nausea, paranoia, peripheral oedema, pneumonia, pruritus, rash and other hypersensitivity; restlessness, somnolence, sudden onset of sleep, syncope, visual impairment including diplopia, vision blurred and visual acuity reduced, vomiting, weight decrease including decreased appetite, weight increase.
-
 Based on the analysis of pooled placebo-controlled trials, comprising a total of 1,923 patients on pramipexole and 1,354 patients on placebo, adverse drug reactions were frequently reported for both groups.
 63% of patients on pramipexole and 52% of patients on placebo reported at least one adverse drug reaction.
 
-Tables 1 and 2 display the frequency of adverse drug reactions from placebo-controlled clinical trials in Parkinson’s disease and Restless Legs Syndrome.
-The adverse drug reactions reported in these tables are those events that occurred in 0.1% or more of patients treated with pramipexole and were reported significantly more often in patients taking pramipexole than placebo, or where the event was considered clinically relevant.
-The majority of adverse drug reactions were mild to moderate, they usually start early in therapy and most tended to disappear even as therapy was continued.
+The majority of adverse drug reactions usually start early in therapy and most tend to disappear even as therapy is continued.
 
-Within the system organ classes, adverse reactions are listed under headings of frequency (number of patients expected to experience the reaction), using the following categories: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to < 1/1,000); very rare (< 1/10,000).
+Within the system organ classes, adverse reactions are listed under headings of frequency (number of patients expected to experience the reaction), using the following categories: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data).
 
 Parkinson’s disease, most common adverse reactions
 The most commonly (≥5%) reported adverse drug reactions in patients with Parkinson’s disease more frequent with pramipexole treatment than with placebo were nausea, dyskinesia, hypotension, dizziness, somnolence, insomnia, constipation, hallucination, headache and fatigue.
@@ -19,38 +14,24 @@ A more frequent adverse drug reaction in combination with levodopa was dyskinesi
 Hypotension may occur at the beginning of treatment, especially if pramipexole is titrated too fast.
 Table 1: Parkinson’s disease
 
-| System Organ Class | Adverse Drug Reaction |
-| --- | --- |
-| Infections and infestations |  |
-| Uncommon | pneumonia |
-| Endocrine disorders |  |
-| Uncommon | inappropriate antidiuretic hormone secretion1 |
-| Psychiatric disorders |  |
-| Common | abnormal dreams, behavioural symptoms of impulse control disorders and compulsions, confusion, hallucinations, insomnia |
-| Uncommon | binge eating1, compulsive shopping, delusion, hyperphagia1, hypersexuality, libido disorder, paranoia, pathological gambling, restlessness, delirium |
-| Rare | mania |
-| Nervous system disorders |  |
-| Very common | dizziness, dyskinesia, somnolence |
-| Common | headache |
-| Uncommon | amnesia, hyperkinesia, sudden onset of sleep, syncope |
-| Eye disorders |  |
-| Common | visual impairment including diplopia, vision blurred and visual acuity reduced |
-| Cardiac disorders |  |
-| Uncommon | cardiac failure1 |
-| Vascular disorders |  |
-| Common | hypotension |
-| Respiratory, thoracic, and mediastinal disorders |  |
-| Uncommon | dyspnoea, hiccups |
-| Gastrointestinal disorders |  |
-| Very common | nausea |
-| Common | constipation, vomiting |
-| Skin and subcutaneous tissue disorders |  |
-| Uncommon | hypersensitivity, pruritus, rash |
-| General disorders and administration site conditions |  |
-| Common | fatigue, peripheral oedema |
-| Investigations |  |
-| Common | weight decrease including decreased appetite |
-| Uncommon | weight increase |
+| Body System | Very common (≥1/10) | Common (≥1/100 to <1/10) | Uncommon (≥1/1,000 to < 1/100) | Rare (≥1/10,000 to <1/1,000) | Not known |
+| --- | --- | --- | --- | --- | --- |
+| Infections and infestations |  |  | pneumonia |  |  |
+| Endocrine disorders |  |  | inappropriate antidiuretic hormone secretion1 |  |  |
+| Psychiatric disorders |  | Insomnia hallucinations abnormal dreams confusion behavioural symptoms of impulse control disorders and compulsions | compulsive shopping pathological gambling restlessness hypersexuality delusion libido disorder paranoia delirium binge eating1 hyperphagia1 | mania |  |
+| Nervous system disorders | somnolence dizziness dyskinesia | headache | sudden onset of sleep amnesia hyperkinesia syncope |  |  |
+| Eye disorders |  | visual impairment including diplopia vision blurred visual acuity reduced |  |  |  |
+| Cardiac disorders |  |  | cardiac failure1 |  |  |
+| Vascular disorders |  | hypotension |  |  |  |
+| Respiratory, thoracic, and mediastinal disorders |  |  | Dyspnoea hiccups |  |  |
+| Gastrointestinal disorders | nausea | constipation vomiting |  |  |  |
+| Skin and subcutaneous tissue disorders |  |  | hypersensitivity pruritus rash |  |  |
+| General disorders and administration site conditions |  | fatigue peripheral oedema |  |  | Dopamine agonist withdrawal syndrome including apathy, anxiety, depression, fatigue, sweating and pain. |
+
+Investigations weight decrease weight increase
+including
+decreased
+appetite
 
 1 This side effect has been observed in post-marketing experience.
 With 95 % certainty, the frequency category is not greater than uncommon, but might be lower.
@@ -59,42 +40,44 @@ A precise frequency estimation is not possible as the side effect did not occur 
 Restless Legs Syndrome, most common adverse reactions
 The most commonly (≥5%) reported adverse drug reactions in patients with Restless Legs Syndrome treated with pramipexole were nausea, headache, dizziness and fatigue.
 Nausea and fatigue were more often reported in female patients treated with SIFROL (20.8% and 10.5%, respectively) compared to males (6.7% and 7.3%, respectively).
+
 Table 2: Restless Legs Syndrome
 
-| System Organ Class | Adverse Drug Reaction |
-| --- | --- |
-| Infections and infestations |  |
-| Uncommon | pneumonia1 |
-| Endocrine disorders |  |
-| Uncommon | inappropriate antidiuretic hormone secretion1 |
-| Psychiatric disorders |  |
-| Common | abnormal dreams, insomnia |
-| Uncommon | behavioural symptoms of impulse control disorders and compulsions such as binge eating, compulsive shopping, hypersexuality, and pathological gambling1; confusion, delusion1, hallucinations, hyperphagia1, libido disorder, paranoia1, restlessness, mania1, delirium1 |
-| Nervous system disorders |  |
-| Common | dizziness, headache, somnolence |
-| Uncommon | amnesia1, dyskinesia, hyperkinesia1, sudden onset of sleep, syncope |
-| Eye disorders |  |
-| Uncommon | visual impairment including diplopia, vision blurred and visual acuity reduced |
-| Cardiac disorders |  |
-| Uncommon | cardiac failure1 |
-| Vascular disorders |  |
-| Uncommon | hypotension |
-| Respiratory, thoracic, and mediastinal disorders |  |
-| Uncommon | dyspnoea, hiccups |
-| Gastrointestinal disorders |  |
-| Very common | nausea |
-| Common | constipation, vomiting |
-| Skin and subcutaneous tissue disorders |  |
-| Uncommon | hypersensitivity, pruritus, rash |
-| General disorders and administration site conditions |  |
-| Common | fatigue |
-| Uncommon | peripheral oedema |
-| Investigations |  |
-| Uncommon | weight decrease including decreased appetite, weight increase |
+| Body System | Very common (≥1/10) | Common (≥1/100 to <1/10) | Uncommon (≥1/1,000 to < 1/100) | Not known |
+| --- | --- | --- | --- | --- |
+| Infections and infestations |  |  | pneumonia1 |  |
+| Endocrine disorders |  |  | inappropriate antidiuretic hormone secretion1 |  |
+| Psychiatric disorders |  | insomnia abnormal dreams | restlessness confusion hallucinations libido disorder delusion1 hyperphagia1 paranoia1 mania1 delirium1 behavioural symptoms of impulse control disorders and compulsions1 (such as: compulsive shopping, pathological gambling, hypersexuality, binge eating) |  |
+| Nervous system disorders |  | headache dizziness somnolance | sudden onset of sleep syncope dyskinesia amnesia1 hyperkinesia1 |  |
+| Eye disorders |  |  | visual impairment including visual acuity reduced diplopia vision blurred |  |
+| Cardiac disorders |  |  | cardiac failure1 |  |
+| Vascular disorders |  |  | hypotension |  |
+| Respiratory, thoracic, and mediastinal disorders |  |  | dyspnoea hiccups |  |
+| Gastrointestinal | nausea | constipation |  |  |
+
+disorders vomiting
+Skin and hypersensitivity pruritus
+subcutaneous rash
+tissue disorders
+General fatigue peripheral oedema Dopamine
+disorders and agonist
+administration withdrawal
+site conditions syndrome
+including
+apathy, anxiety,
+depression,
+fatigue,
+sweating and
+pain
+Investigations weight decrease including
+decreased appetite
+weight increase
 
 1 This side effect has been observed in post-marketing experience.
 With 95 % certainty, the frequency category is not greater than uncommon, but might be lower.
-A precise frequency estimation is not possible as the side effect did not occur in a clinical trial database of 1,395 patients with Restless Legs Syndrome treated with pramipexole.
+A precise frequency estimation is not possible as the side effect did not occur in a clinical trial database of 1,395 patients with Restless Legs Syndrome treated with pramipexole
+
+Description of selected adverse reactions
 
 Somnolence
 Pramipexole is commonly associated with somnolence and has been associated uncommonly with excessive daytime somnolence and sudden sleep onset episodes (see also section 4.4).
@@ -109,184 +92,34 @@ In a cross-sectional, retrospective screening and case-control study including 3
 Manifestations observed include pathological gambling, compulsive shopping, binge eating, and compulsive sexual behaviour (hypersexuality).
 Possible independent risk factors for impulse control disorders included dopaminergic treatments and higher doses of dopaminergic treatment, younger age ( ≤ 65 years), not being married and self-reported family history of gambling behaviours.
 
+Dopamine agonist withdrawal syndrome
+Non-motor adverse effects may occur when tapering or discontinuing dopamine agonists including pramipexole.
+Symptoms include apathy, anxiety, depression, fatigue, sweating and pain (see section 4.4).
+
 Cardiac failure
 In clinical studies and post-marketing experience cardiac failure has been reported in patients with pramipexole.
 In a pharmacoepidemiological study pramipexole use was associated with an increased risk of cardiac failure compared with non-use of pramipexole (observed risk ratio 1.86; 95% CI, 1.21-2.85).
-
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-[SIFROL 0.18 mg tablets]
-
-| System Organ Class | Adverse Drug Reaction |
-| --- | --- |
-| Infections and infestations |  |
-| Uncommon | pneumonia |
-| Endocrine disorders |  |
-| Uncommon | inappropriate antidiuretic hormone secretion1 |
-| Psychiatric disorders |  |
-| Common | abnormal dreams, behavioural symptoms of impulse control disorders and compulsions, confusion, hallucinations, insomnia |
-| Uncommon | binge eating1, compulsive shopping, delusion, hyperphagia1, hypersexuality, libido disorder, paranoia, pathological gambling, restlessness, delirium |
-| Rare | mania |
-| Nervous system disorders |  |
-| Very common | dizziness, dyskinesia, somnolence |
-| Common | headache |
-| Uncommon | amnesia, hyperkinesia, sudden onset of sleep, syncope |
-| Eye disorders |  |
-| Common | visual impairment including diplopia,vision blurred and visual acuity reduced |
-| Cardiac disorders |  |
-| Uncommon | cardiac failure1 |
-| Vascular disorders |  |
-| Common | hypotension |
-| Respiratory, thoracic, and mediastinal disorders |  |
-| Uncommon | dyspnoea, hiccups |
-| Gastrointestinal disorders |  |
-| Very common | nausea |
-| Common | constipation, vomiting |
-| Skin and subcutaneous tissue disorders |  |
-| Uncommon | hypersensitivity, pruritus, rash |
-| General disorders and administration site conditions |  |
-| Common | fatigue, peripheral oedema |
-| Investigations |  |
-| Common | weight decrease including decreased appetite |
-| Uncommon | weight increase |
-
-| System Organ Class | Adverse Drug Reaction |
-| --- | --- |
-| Infections and infestations |  |
-| Uncommon | pneumonia1 |
-| Endocrine disorders |  |
-| Uncommon | inappropriate antidiuretic hormone secretion1 |
-| Psychiatric disorders |  |
-| Common | abnormal dreams, insomnia |
-| Uncommon | behavioural symptoms of impulse control disorders and compulsions such as binge eating, compulsive shopping, hypersexuality, and pathological gambling1; confusion, delusion1, hallucinations, hyperphagia1, libido disorder, paranoia1, restlessness, mania1, delirium1 |
-| Nervous system disorders |  |
-| Common | dizziness, headache, somnolence |
-| Uncommon | amnesia1, dyskinesia, hyperkinesia1, sudden onset of sleep, syncope |
-| Eye disorders |  |
-| Uncommon | visual impairment including diplopia,vision blurred and visual acuity reduced |
-| Cardiac disorders |  |
-| Uncommon | cardiac failure1 |
-| Vascular disorders |  |
-| Uncommon | hypotension |
-| Respiratory, thoracic, and mediastinal disorders |  |
-| Uncommon | dyspnoea, hiccups |
-| Gastrointestinal disorders |  |
-| Very common | nausea |
-| Common | constipation, vomiting |
-| Skin and subcutaneous tissue disorders |  |
-| Uncommon | hypersensitivity, pruritus, rash |
-| General disorders and administration site conditions |  |
-| Common | fatigue |
-| Uncommon | peripheral oedema |
-| Investigations |  |
-| Uncommon | weight decrease including decreased appetite, weight increase |
-
-[SIFROL 0.35 mg tablets]
-
-(all sentences already above)
-
-[SIFROL 0.7 mg tablets]
-
-(all sentences already above)
-
-[SIFROL 1.1 mg tablets]
-
-(all sentences already above)
 
 [SIFROL 0.26 mg prolonged-release tablets]
 
 Based on the analysis of pooled placebo-controlled trials, comprising a total of 1,778 Parkinson’s disease patients on pramipexole and 1,297 patients on placebo, adverse drug reactions were frequently reported for both groups.
 67% of patients on pramipexole and 54% of patients on placebo reported at least one adverse drug reaction.
 
-The adverse drug reactions reported in the table below are those events that occurred in 0.1% or more of patients treated with pramipexole and were reported significantly more often in patients taking pramipexole than placebo, or where the event was considered clinically relevant.
-
-| System Organ Class | Adverse Drug Reaction |
-| --- | --- |
-| Infections and infestations |  |
-| Uncommon | pneumonia |
-| Endocrine disorders |  |
-| Uncommon | inappropriate antidiuretic hormone secretion1 |
-| Psychiatric disorders |  |
-| Common | abnormal dreams, behavioural symptoms of impulse control disorders and compulsions; confusion, hallucinations, insomnia |
-| Uncommon | binge eating1, compulsive shopping, delusion, hyperphagia1, hypersexuality, libido disorder, paranoia, pathological gambling, restlessness, delirium |
-| Rare | mania |
-| Nervous system disorders |  |
-| Very common | dizziness, dyskinesia, somnolence |
-| Common | headache |
-| Uncommon | amnesia, hyperkinesia, sudden onset of sleep, syncope |
-| Eye disorders |  |
-| Common | visual impairment including diplopia, vision blurred and visual acuity reduced |
-| Cardiac disorders |  |
-| Uncommon | cardiac failure1 |
-| Vascular disorders |  |
-| Common | hypotension |
-| Respiratory, thoracic, and mediastinal disorders |  |
-| Uncommon | dyspnoea, hiccups |
-| Gastrointestinal disorders |  |
-| Very common | nausea |
-| Common | constipation, vomiting |
-| Skin and subcutaneous tissue disorders |  |
-| Uncommon | hypersensitivity, pruritus, rash |
-| General disorders and administration site conditions |  |
-| Common | fatigue, peripheral oedema |
-| Investigations |  |
-| Common | weight decrease including decreased appetite |
-| Uncommon | weight increase |
-
-[SIFROL 0.52 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[SIFROL 1.05 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[SIFROL 1.57 mg prolonged-release tablets]
-
-| System Organ Class | Adverse Drug Reaction |
-| --- | --- |
-| Infections and infestations |  |
-| Uncommon | pneumonia |
-| Endocrine disorders |  |
-| Uncommon | inappropriate antidiuretic hormone secretion1 |
-| Psychiatric disorders |  |
-| Common | abnormal dreams, behavioural symptoms of impulse control disorders and compulsions; confusion, hallucinations, insomnia |
-| Uncommon | binge eating1, compulsive shopping, delusion, hyperphagia1, hypersexuality, libido disorder, paranoia, pathological gambling, restlessness, delirium |
-| Rare | mania |
-| Nervous system disorders |  |
-| Very common | dizziness, dyskinesia, somnolence |
-| Common | headache |
-| Uncommon | amnesia, hyperkinesia, sudden onset of sleep, syncope |
-| Eye disorders |  |
-| Common | visual impairment including diplopia,vision blurred and visual acuity reduced |
-| Cardiac disorders |  |
-| Uncommon | cardiac failure1 |
-| Vascular disorders |  |
-| Common | hypotension |
-| Respiratory, thoracic, and mediastinal disorders |  |
-| Uncommon | dyspnoea, hiccups |
-| Gastrointestinal disorders |  |
-| Very common | nausea |
-| Common | constipation, vomiting |
-| Skin and subcutaneous tissue disorders |  |
-| Uncommon | hypersensitivity, pruritus, rash |
-| General disorders and administration site conditions |  |
-| Common | fatigue, peripheral oedema |
-| Investigations |  |
-| Common | weight decrease including decreased appetite |
-| Uncommon | weight increase |
-
-[SIFROL 2.1 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[SIFROL 2.62 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[SIFROL 3.15 mg prolonged-release tablets]
-
-(all sentences already above)
+| Body System | Very common (≥1/10) | Common (≥1/100 to <1/10) | Uncommon (≥1/1,000 to < 1/100) | Rare (≥1/10,000 to <1/1,000) | Not known |
+| --- | --- | --- | --- | --- | --- |
+| Infections and infestations |  |  | pneumonia |  |  |
+| Endocrine disorders |  |  | inappropriate antidiuretic hormone secretion1 |  |  |
+| Psychiatric disorders |  | Insomnia hallucinations abnormal dreams confusion behavioural symptoms of impulse control disorders and compulsions | compulsive shopping pathological gambling restlessness hypersexuality delusion libido disorder paranoia delirium binge eating1 hyperphagia1 | mania |  |
+| Nervous system disorders | somnolence dizziness dyskinesia | headache | sudden onset of sleep amnesia hyperkinesia syncope |  |  |
+| Eye disorders |  | visual impairment including diplopia vision blurred visual acuity reduced |  |  |  |
+| Cardiac disorders |  |  | cardiac failure1 |  |  |
+| Vascular disorders |  | hypotension |  |  |  |
+| Respiratory, thoracic, and mediastinal disorders |  |  | Dyspnoea hiccups |  |  |
+| Gastrointestinal disorders | nausea | constipation vomiting |  |  |  |
+| Skin and subcutaneous tissue disorders |  |  | hypersensitivity pruritus rash |  |  |
+| General disorders and administration site conditions |  | fatigue peripheral oedema |  |  | Dopamine agonist withdrawal syndrome including apathy, anxiety, depression, fatigue, sweating and pain. |
+| Investigations |  | weight decrease | weight increase |  |  |

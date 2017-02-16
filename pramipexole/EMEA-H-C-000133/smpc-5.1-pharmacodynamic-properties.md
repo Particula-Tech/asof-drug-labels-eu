@@ -60,22 +60,6 @@ No difference was observed for pramipexole as compared to placebo for either the
 Adverse events occurring in at least 5% of patients in the pramipexole group and more common in the pramipexole-treated patients than in patients on placebo were: headache (27.9%, placebo 25.0%), somnolence (7.0%, placebo 5.0%), nausea (18.6%, placebo 10.0%), vomiting (11.6%, placebo 0.0%), upper abdominal pain (7.0%, placebo 5.0%), orthostatic hypotension (9.3%, placebo 5.0%), myalgia (9.3%, placebo 5.0%), sleep disorder (7.0%, placebo 0.0%), dyspnoea (7.0%, placebo 0.0%) and upper respiratory tract infection (7.0%, placebo 5.0%).
 Other significant adverse events leading to discontinuation of study medication for patients receiving pramipexole were confusional state, speech disorder and aggravated condition (see section 4.2).
 
-[SIFROL 0.18 mg tablets]
-
-(all sentences already above)
-
-[SIFROL 0.35 mg tablets]
-
-(all sentences already above)
-
-[SIFROL 0.7 mg tablets]
-
-(all sentences already above)
-
-[SIFROL 1.1 mg tablets]
-
-(all sentences already above)
-
 [SIFROL 0.26 mg prolonged-release tablets]
 
 The safety and efficacy of SIFROL prolonged-release tablets in the treatment of Parkinson's disease was evaluated in a multinational drug development program consisting of three randomised, controlled trials.
@@ -86,33 +70,8 @@ Maintenance of efficacy was shown in patients treated for 33 weeks.
 SIFROL prolonged-release tablets were non-inferior to pramipexole immediate release tablets as assessed on the UPDRS Parts II+III score at week 33.
 
 In a double-blind placebo-controlled trial including a total of 517 patients with advanced Parkinson’s disease who were on concomitant levodopa therapy superiority of SIFROL prolonged-release tablets over placebo was demonstrated after 18 weeks of treatment on both the primary (UPDRS Parts II+III score) and the key secondary (off-time) efficacy endpoints.
-
 The efficacy and tolerability of an overnight switch from SIFROL tablets to SIFROL prolonged-release tablets at the same daily dose were evaluated in a double-blind clinical study in patients with early Parkinson’s disease.
 Efficacy was maintained in 87 of 103 patients switched to SIFROL prolonged-release tablets.
 Out of these 87 patients, 82.8% did not change their dose, 13.8% increased and 3.4% decreased their dose.
 In half of the 16 patients who did not meet the criterion for maintained efficacy on UPDRS Part II+III score, the change from baseline was considered not clinically relevant.
 Only one patient switched to SIFROL prolonged-release tablets experienced a drug-related adverse event leading to withdrawal.
-
-[SIFROL 0.52 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[SIFROL 1.05 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[SIFROL 1.57 mg prolonged-release tablets]
-
-The safety and efficacy of SIFROL prolonged-release tablets in the treatment of Parkinson's disease was evaluated in a multinational drug development program consisting of three randomized, controlled trials.
-
-[SIFROL 2.1 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[SIFROL 2.62 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[SIFROL 3.15 mg prolonged-release tablets]
-
-(all sentences already above)

@@ -9,7 +9,6 @@ Patients should be informed that (mostly visual) hallucinations can occur.
 Dyskinesia
 In advanced Parkinson’s disease, in combination treatment with levodopa, dyskinesia can occur during the initial titration of SIFROL.
 If they occur, the dose of levodopa should be decreased.
-
 Sudden onset of sleep and somnolence
 Pramipexole has been associated with somnolence and episodes of sudden sleep onset, particularly in patients with Parkinson’s disease.
 Sudden onset of sleep during daily activities, in some cases without awareness or warning signs, has been reported uncommonly.
@@ -22,6 +21,10 @@ Impulse control disorders
 Patients should be regularly monitored for the development of impulse control disorders.
 Patients and carers should be made aware that behavioural symptoms of impulse control disorders including pathological gambling, increased libido, hypersexuality, compulsive spending or buying, binge eating and compulsive eating can occur in patients treated with dopamine agonists including SIFROL.
 Dose reduction/tapered discontinuation should be considered if such symptoms develop.
+
+Dopamine dysregulation Syndrome
+Dopamine dysregulation Syndrome (DDS) is an addictive disorder resulting in excessive use of the product seen in some patients treated with dopaminergic medications, including pramipexole.
+Before initiation of treatment, patients and caregivers should be warned of the potential risk of developing DDS.
 
 Mania and delirium
 Patients should be regularly monitored for the development of mania and delirium.
@@ -42,6 +45,13 @@ It is recommended to monitor blood pressure, especially at the beginning of trea
 Neuroleptic malignant syndrome
 Symptoms suggestive of neuroleptic malignant syndrome have been reported with abrupt withdrawal of dopaminergic therapy (see section 4.2).
 
+Dopamine agonist withdrawal syndrome
+To discontinue treatment in patients with Parkinson’s disease, pramipexole should be tapered off (see section 4.2).
+Non-motor adverse effects may occur when tapering or discontinuing dopamine agonists including pramipexole.
+Symptoms include apathy, anxiety, depression, fatigue, sweating and pain which may be severe.
+Patients should be informed about this before tapering the dopamine agonist, and monitored regularly thereafter.
+In case of persistent symptoms, it may be necessary to increase the pramipexole dose temporarily (see section 4.8).
+
 Augmentation
 Reports in the literature indicate that treatment of Restless Legs Syndrome with dopaminergic medicinal products can result in augmentation.
 Augmentation refers to the earlier onset of symptoms in the evening (or even the afternoon), increase in symptoms, and spread of symptoms to involve other extremities.
@@ -49,46 +59,8 @@ Augmentation was specifically investigated in a controlled clinical trial over 2
 Augmentation was observed in 11.8% of patients in the pramipexole group (N = 152) and 9.4% of patients in the placebo group (N = 149).
 Kaplan-Meier analysis of time to augmentation showed no significant difference between pramipexole and placebo groups.
 
-[SIFROL 0.18 mg tablets]
-
-(all sentences already above)
-
-[SIFROL 0.35 mg tablets]
-
-(all sentences already above)
-
-[SIFROL 0.7 mg tablets]
-
-(all sentences already above)
-
-[SIFROL 1.1 mg tablets]
-
-(all sentences already above)
-
 [SIFROL 0.26 mg prolonged-release tablets]
 
-(all sentences already above)
-
-[SIFROL 0.52 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[SIFROL 1.05 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[SIFROL 1.57 mg prolonged-release tablets]
-
-Because of possible additive effects, caution should be advised when patients are taking other sedating medicinal products or alcohol in combination with pramipexole (see sections 4.5, 4.7 and 4.8).
-
-[SIFROL 2.1 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[SIFROL 2.62 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[SIFROL 3.15 mg prolonged-release tablets]
-
-(all sentences already above)
+Remnants in stool
+Some patients have reported the occurrence of remnants in faeces which may resemble intact SIFROL prolonged-release tablets.
+If patients report such an observation, the physician should reassess patient’s response to therapy.
