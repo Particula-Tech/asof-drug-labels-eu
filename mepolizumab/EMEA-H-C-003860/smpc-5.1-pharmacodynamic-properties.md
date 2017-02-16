@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Drugs for obstructive airway diseases, other systemic drugs for obstructive airway diseases, ATC code: not yet assigned .
+Pharmacotherapeutic group: Drugs for obstructive airway diseases, other systemic drugs for obstructive airway diseases, ATC code: R03DX09.
 
 Mechanism of action
 
@@ -30,8 +30,8 @@ The two exacerbations studies MEA112997 and MEA115588 enrolled a total of 1192 p
 The proportion of patients on maintenance OCS was 31% and 24%, respectively.
 Patients were required to have a history of two or more severe asthma exacerbations requiring oral or systemic corticosteroid treatment in the past 12 months and reduced lung function at baseline (pre-bronchodilator FEV1<80% in adults and <90% in adolescents).The mean number of exacerbations in the previous year was 3.6 and the mean predicted pre-bronchodilator FEV1 was 60%.
 Patients continued to receive their existing asthma medicine during the studies.
-
 For the oral corticosteroid-sparing study MEA115575, a total of 135 patients were enrolled (55% were female; mean age of 50 years) who were being treated daily with OCS (5-35 mg per day), and high-dose ICS plus an additional maintenance medicine.
+
 Dose-ranging efficacy MEA112997 (DREAM) study
 
 In MEA112997, a randomised, double-blind, placebo-controlled, parallel-group, multi-centre study of 52 weeks duration in 616 patients with severe refractory eosinophilic asthma, mepolizumab significantly reduced clinically significant asthma exacerbations (defined as worsening of asthma requiring use of oral/systemic corticosteroids and/or hospitalisation and/or emergency department visits) when administered in doses of 75 mg, 250 mg or 750 mg intravenously compared to placebo (see Table 1).
@@ -145,9 +145,9 @@ Table 4: Results of the primary and secondary endpoints in MEA115575
 | Reduction in the daily OCS dose to 0 mg/d | 10 (14%) | 5 (8%) |
 | Odds ratio (95% CI) | 1.67 (0.49, 5.75) |  |
 | p-value | 0. 414 |  |
+|  | Mepolizumab 100 mg (subcutaneous) N= 69 | Placebo N= 66 |
 | Reduction in the daily OCS dose to ≤5mg/day | 37 (54%) | 21 (32%) |
 | Odds ratio (95% CI) | 2.45 (1.12, 5.37) |  |
-|  | Mepolizumab 100 mg (subcutaneous) N= 69 | Placebo N= 66 |
 | p-value | 0.025 |  |
 | Median % reduction in daily OCS dose from baseline (95% CI) | 50.0 (20.0, 75.0) | 0.0 (-20.0, 33.3) |
 | Median difference (95% CI) | -30.0 (-66.7, 0.0) |  |

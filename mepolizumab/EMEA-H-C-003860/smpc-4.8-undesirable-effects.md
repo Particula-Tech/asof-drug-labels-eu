@@ -15,18 +15,20 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | System Organ Class | Adverse Reactions | Frequency |
 | --- | --- | --- |
 | Infections & infestations | Lower respiratory tract infection Urinary tract infection Pharyngitis | Common |
-| Immune system disorders | Hypersensitivity reactions (systemic allergic)* | Common |
+| Immune system disorders | Hypersensitivity reactions (systemic | Common |
+|  | allergic)* Anaphylaxis** | Rare |
 | Nervous system disorders | Headache | Very common |
 | Respiratory, thoracic and mediastinal disorders | Nasal congestion | Common |
 | Gastrointestinal disorders | Abdominal pain upper | Common |
 | Skin and subcutaneous tissue disorders | Eczema | Common |
 | Musculoskeletal and connective tissue disorders | Back pain | Common |
-| General disorders and administration site conditions | Administration-related reactions (systemic non allergic)** Local injection site reactions Pyrexia | Common |
+| General disorders and administration site conditions | Administration-related reactions (systemic non allergic)*** Local injection site reactions Pyrexia | Common |
 
 * Systemic reactions including hypersensitivity have been reported at an overall incidence comparable to that of placebo.
 For examples of the associated manifestations reported and a description of the time to onset, see section 4.4.
+**From spontaneous post marketing reporting.
 
-** The most common manifestations associated with reports of systemic non-allergic administration-related reactions were rash, flushing and myalgia; these manifestations were reported infrequently and in <1% of subjects receiving mepolizumab 100 mg subcutaneously.
+*** The most common manifestations associated with reports of systemic non-allergic administration-related reactions were rash, flushing and myalgia; these manifestations were reported infrequently and in <1% of subjects receiving mepolizumab 100 mg subcutaneously.
 
 Description of selected adverse reaction
 

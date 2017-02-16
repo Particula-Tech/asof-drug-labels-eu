@@ -22,8 +22,8 @@ Elimination
 Following a single intravenous administration to patients with asthma, the mean systemic clearance (CL) ranged from 1.9 to 3.3 mL/day/kg, with a mean terminal half-life of approximately 20 days.
 Following subcutaneous administration of mepolizumab the mean terminal half-life (t1/2) ranged from 16 to 22 days.
 In the population pharmacokinetic analysis estimated mepolizumab systemic clearance was 3.1 mL/day/kg.
-
 Paediatric population
+
 There are limited pharmacokinetic data available in the paediatric population (59 subjects with eosinophilic esophagitis, 19 subjects with severe asthma).
 Intravenous mepolizumab pharmacokinetics was evaluated by population pharmacokinetic analysis in a paediatric study conducted in subjects aged 2–17 years old with eosinophilic esophagitis.
 Paediatric pharmacokinetics was largely predictable from adults, after taking into account bodyweight.

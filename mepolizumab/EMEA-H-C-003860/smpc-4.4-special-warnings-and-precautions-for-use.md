@@ -10,7 +10,7 @@ Reduction in corticosteroid doses, if required, should be gradual and performed 
 
 Hypersensitivity and administration-related reactions
 
-Acute and delayed systemic reactions, including hypersensitivity reactions (e.g. urticaria, angioedema, rash, bronchospasm, hypotension), have occurred following administration of Nucala.
+Acute and delayed systemic reactions, including hypersensitivity reactions (e.g. anaphylaxis, urticaria, angioedema, rash, bronchospasm, hypotension), have occurred following administration of Nucala.
 These reactions generally occur within hours of administration, but in some instances have a delayed onset (i.e., typically within several days).
 These reactions may occur for the first time after a long duration of treatment (see section 4.8).
 

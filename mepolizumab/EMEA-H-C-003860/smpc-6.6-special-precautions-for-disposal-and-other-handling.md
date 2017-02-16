@@ -4,7 +4,7 @@ Nucala does not contain a preservative therefore reconstitution should be carrie
 
 Instructions for reconstitution
 1.
-Reconstitute the contents of the vial with 1.2 mL of sterile water for injection preferably using a 2 to 3 mL syringe and a 21G needle.
+Reconstitute the contents of the vial with 1.2 mL of sterile water for injection preferably using a 2 to 3 mL syringe and a 21gauge needle.
 The stream of sterile water should be directed vertically, onto the centre of the lyophilised cake.
 Allow the vial to sit at room temperature during reconstitution, gently swirling the vial for 10 seconds with circular motion at 15-second intervals until the powder is dissolved.
 Note: The reconstituted solution must not be shaken during the procedure as this may lead to product foaming or precipitation.
@@ -17,7 +17,7 @@ Alternatively, swirling at 1000 rpm for no longer than 5 minutes is acceptable.
 Following reconstitution, Nucala should be visually inspected for particulate matter and clarity prior to use.
 The solution should be clear to opalescent, and colourless to pale yellow or pale brown, free of visible particles.
 Small air bubbles, however, are expected and acceptable.
-If particulate matter remains in the solution or if the solution appears cloudy or milky, the solution must be discarded.
+If particulate matter remains in the solution or if the solution appears cloudy or milky, the solution must not be used.
 4.
 The reconstituted solution, if not used immediately must be :
 
@@ -27,7 +27,7 @@ The reconstituted solution, if not used immediately must be :
 
 Instructions for administration
 1.
-For subcutaneous administration a 1 mL polypropylene syringe fitted with a disposable needle 21G to 27G x 0.5 inch (13 mm) should preferably be used.
+For subcutaneous administration a 1 mL polypropylene syringe fitted with a disposable needle 21 gauge to 27 gauge x 0.5 inch (13 mm) should preferably be used.
 2.
 Just prior to administration, remove 1 mL of reconstituted Nucala.
 Do not shake the reconstituted solution during the procedure as this could lead to product foaming or precipitation.
