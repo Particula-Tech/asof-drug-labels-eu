@@ -71,13 +71,15 @@ Eltrombopag does not inhibit or induce CYP enzymes based on in vitro and in vivo
 
 In vitro studies demonstrate that eltrombopag is an inhibitor of the OATP1B1 transporter and an inhibitor of the BCRP transporter and eltrombopag increased exposure of the OATP1B1 and BCRP substrate rosuvastatin in a clinical drug interaction study (see section 4.5).
 In clinical studies with eltrombopag, a dose reduction of statins by 50% was recommended.
+The co-administration of 200 mg ciclosporin (a BCRP inhibitor) decreased the Cmax and the AUCinf of eltrombopag by 25% and 18%, respectively.
+The co-administration of 600 mg ciclosporin decreased the Cmax and the AUCinf of eltrombopag by 39% and 24%, respectively.
 
 Eltrombopag chelates with polyvalent cations such as iron, calcium, magnesium, aluminium, selenium and zinc (see sections 4.2 and 4.5).
 
 Administration of a single 50 mg dose of eltrombopag in tablet form with a standard high-calorie, high-fat breakfast that included dairy products reduced plasma eltrombopag mean AUC0-∞ by 59% and mean Cmax by 65%.
-
 Administration of a single 25 mg dose of eltrombopag as powder for oral suspension with a high-calcium, moderate fat and moderate calorie meal reduced plasma eltrombopag mean AUC0-∞ by 75% and mean Cmax by 79%.
 This decrease of exposure was attenuated when a single 25 mg dose of eltrombopag powder for oral suspension was administered 2 hours before a high-calcium meal (mean AUC0-∞ was decreased by 20% and mean Cmax by 14%).
+
 Food low in calcium (< 50 mg calcium) including fruit, lean ham, beef and unfortified (no added calcium, magnesium or iron) fruit juice, unfortified soya milk and unfortified grain did not significantly impact plasma eltrombopag exposure, regardless of calorie and fat content (see sections 4.2 and 4.5).
 
 Special patient populations
@@ -104,11 +106,11 @@ Compared to healthy volunteers, patients with mild hepatic impairment had approx
 
 Therefore, eltrombopag should not be used in ITP patients with hepatic impairment (Child-Pugh score ≥ 5) unless the expected benefit outweighs the identified risk of portal venous thrombosis (see sections 4.2 and 4.4).
 For patients with HCV initiate eltrombopag at a dose of 25 mg once daily (see section 4.2).
-
 Race
 
 The influence of East Asian ethnicity on the pharmacokinetics of eltrombopag was evaluated using a population pharmacokinetic analysis in 111 healthy adults (31 East Asians) and 88 patients with ITP (18 East Asians).
 Based on estimates from the population pharmacokinetic analysis, East Asian (i.e. Japanese, Chinese, Taiwanese and Korean) ITP patients had approximately 49% higher plasma eltrombopag AUC(0-τ) values as compared to non-East Asian patients who were predominantly Caucasian (see section 4.2).
+
 The influence of East Asian ethnicity (such as Chinese, Japanese, Taiwanese, Korean, and Thai) on the pharmacokinetics of eltrombopag was evaluated using a population pharmacokinetic analysis in 635 patients with HCV (145 East Asians and 69 Southeast Asians).
 Based on estimates from the population pharmacokinetic analysis, East Asian patients had approximately 55% higher plasma eltrombopag AUC(0-τ) values as compared to patients of other races who were predominantly Caucasian (see section 4.2).
 
@@ -133,7 +135,6 @@ Plasma eltrombopag apparent clearance following oral administration (CL/F) incre
 The effects of race and sex on plasma eltrombopag CL/F estimates were consistent between paediatric and adult patients.
 East Asian paediatric ITP patients had approximately 43% higher plasma eltrombopag AUC(0-τ) values as compared to non-East Asian patients.
 Female paediatric ITP patients had approximately 25% higher plasma eltrombopag AUC(0-τ) values as compared to male patients.
-
 The pharmacokinetic parameters of eltrombopag in paediatric subjects with ITP are shown in
 Table 10.
 

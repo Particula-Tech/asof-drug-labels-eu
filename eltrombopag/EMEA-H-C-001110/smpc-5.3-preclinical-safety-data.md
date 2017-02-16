@@ -15,7 +15,6 @@ Tubular toxicity was also observed in a 2 year oral carcinogenicity study in mic
 Effects were less severe at lower doses and were characterised by a spectrum of regenerative changes.
 The exposure at the lowest dose was 1.2 or 0.8 times the human clinical exposure based on AUC in adult or paediatric ITP patients at 75 mg/day and 0.6 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC.
 Renal effects were not observed in rats after 28 weeks or in dogs after 52 weeks at exposures 4 and 2 times the human clinical exposure in adult ITP patients and 3 and 2 times the human clinical exposure in paediatric ITP patients at 75 mg/day and 2 times and equivalent to the human clinical exposure in HCV patients at 100 mg/day, based on AUC.
-
 Hepatocyte degeneration and/or necrosis, often accompanied by increased serum liver enzymes, was observed in mice, rats and dogs at doses that were associated with morbidity and mortality or were poorly tolerated.
 No hepatic effects were observed after chronic dosing in rats (28 weeks) and in dogs (52 weeks) at 4 or 2 times the human clinical exposure in adult ITP patients and 3 or 2 times the human clinical exposure in paediatric ITP patients at 75 mg/day and 2 times or equivalent to the human clinical exposure in HCV patients at 100 mg/day, based on AUC.
 
@@ -24,6 +23,7 @@ There were no effects of note on red cell mass or reticulocyte counts after dosi
 
 Endosteal hyperostosis was observed in a 28 week toxicity study in rats at a non-tolerated dose of 60 mg/kg/day (6 times or 4 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 3 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC).
 There were no bone changes observed in mice or rats after lifetime exposure (2 years) at 4 times or 2 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 2 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC.
+
 Eltrombopag was not carcinogenic in mice at doses up to 75 mg/kg/day or in rats at doses up to 40 mg/kg/day (exposures up to 4 or 2 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 2 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC).
 Eltrombopag was not mutagenic or clastogenic in a bacterial mutation assay or in two in vivo assays in rats (micronucleus and unscheduled DNA synthesis, 10 times or 8 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 7 times the human clinical exposure in HCV patients at 100 mg/day, based on Cmax).
 In the in vitro mouse lymphoma assay, eltrombopag was marginally positive (< 3-fold increase in mutation frequency).
@@ -36,7 +36,6 @@ Eltrombopag should be used during pregnancy only if the expected benefit justifi
 Eltrombopag did not affect male fertility in rats at doses up to 40 mg/kg/day, the highest dose tested (3 times the human clinical exposure in ITP patients at 75 mg/day and 2 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC).
 In the pre- and post-natal development study in rats, there were no undesirable effects on pregnancy, parturition or lactation of F0 female rats at maternally non-toxic doses (10 and 20 mg/kg/day) and no effects on the growth, development, neurobehavioral or reproductive function of the offspring (F1).
 Eltrombopag was detected in the plasma of all F1 rat pups for the entire 22 hour sampling period following administration of medicinal product to the F0 dams, suggesting that rat pup exposure to eltrombopag was likely via lactation.
-
 In vitro studies with eltrombopag suggest a potential phototoxicity risk; however, in rodents there was no evidence of cutaneous phototoxicity (10 or 7 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 5 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC) or ocular phototoxicity (≥ 4 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 3 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC).
 Furthermore, a clinical pharmacology study in 36 subjects showed no evidence that photosensitivity was increased following administration of eltrombopag 75 mg.
 This was measured by delayed phototoxic index.

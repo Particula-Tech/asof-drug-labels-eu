@@ -5,7 +5,6 @@ In 4 controlled and 2 uncontrolled clinical studies, 530 chronic adult ITP patie
 The mean duration of exposure to eltrombopag was 260 days.
 The most important serious adverse reactions were hepatotoxicity and thrombotic/thromboembolic events.
 The most common adverse reactions occurring in at least 10% of patients included: headache, anaemia, decreased appetite, insomnia, cough, nausea, diarrhoea, alopecia, pruritus, myalgia, pyrexia, fatigue, influenza-like illness, asthenia, chills and peripheral oedema.
-
 In 2 controlled clinical studies, 171 chronic paediatric ITP patients were treated with eltrombopag.
 The median duration of exposure was 171 days.
 The profile of adverse reactions was comparable to that seen in adults with some additional adverse reactions, marked ♦ in the table below.
@@ -15,6 +14,7 @@ In 2 controlled clinical studies 955 thrombocytopenic patients with HCV infectio
 The median duration of exposure was 183 days.
 The most important serious adverse reactions identified were hepatotoxicity and thrombotic/thromboembolic events.
 The most common adverse reactions occurring in at least 10% of patients included: headache, anaemia, decreased appetite, insomnia, cough, nausea, diarrhoea, alopecia, pruritus, myalgia, pyrexia, fatigue, influenza-like illness, asthenia, chills and peripheral oedema.
+
 The safety of eltrombopag in severe aplastic anaemia was assessed in a single-arm, open-label trial (N=43) in which 12 patients (28%) were treated for > 6 months and 9 patients (21%) were treated for > 1 year.
 The most important serious adverse reactions were febrile neutropenia and sepsis/infection.
 The most common adverse reactions occurring in at least 10% of patients included: headache, dizziness, insomnia, cough, dyspnoea, oropharyngeal pain, rhinorrhoea, nausea, diarrhoea, abdominal pain, transaminases increased, ecchymosis, arthralgia, muscle spasms, pain in extremity, fatigue, febrile neutropenia, and pyrexia.
@@ -49,7 +49,6 @@ Blood and lymphatic system disorders
 Uncommon Anaemia, Anisocytosis, Eosinophilia, Haemolytic anaemia, Leukocytosis,
 
 Myelocytosis, Thrombocytopenia, Haemoglobin increased, Band neutrophil count increased, Haemoglobin decreased, Myelocyte present, Platelet count increased, White blood cell count decreased
-
 Immune system disorders
 
 Uncommon Hypersensitivity
@@ -100,7 +99,6 @@ Common Cough♦, Oropharyngeal pain♦, Rhinorrhoea♦
 Uncommon Pulmonary embolism, Pulmonary infarction, Nasal discomfort,
 
 Oropharyngeal blistering, Oropharyngeal pain, Sinus disorder, Sleep apnoea syndrome
-
 Gastrointestinal disorders
 
 Common Nausea, Diarrhoea*, Mouth ulceration, Toothache♦
@@ -117,9 +115,10 @@ Common Alanine aminotransferase increased*, Aspartate aminotransferase
 
 increased*, Hyperbilirubinaemia, Hepatic function abnormal
 
-Uncommon Cholestasis, Hepatic lesion, Hepatitis
+Uncommon Cholestasis, Hepatic lesion, Hepatitis, Drug-induced liver injury
 
 *Increase of alanine aminotransferase and aspartate aminotransferase may occur simultaneously, although at a lower frequency.
+
 Skin and subcutaneous tissue disorders
 
 Common Rash, Alopecia
@@ -154,7 +153,6 @@ Investigations
 Uncommon Blood albumin increased, Blood alkaline phosphatase increased, Protein
 
 total increased, Blood albumin decreased, pH urine increased
-
 Injury, poisoning and procedural complications
 
 Uncommon Sunburn
@@ -221,7 +219,9 @@ mouth, Constipation, Abdominal distension, Toothache, Stomatitis, Gastrooesophag
 
 Hepatobiliary disorders
 
-Common Hyperbilirubinaemia, Jaundice, Portal vein thrombosis, Hepatic failure
+Common Hyperbilirubinaemia, Jaundice, Portal vein thrombosis, Hepatic failure,
+
+Drug-induced liver injury
 
 Skin and subcutaneous tissue disorders
 
@@ -229,6 +229,9 @@ Very common Pruritus, Alopecia
 Common Rash, Dry skin, Eczema, Rash pruritic, Erythema, Hyperhidrosis, Pruritus
 
 generalised, Night sweats, Skin lesion
+
+Not known Skin discolouration, Skin hyperpigmentation
+
 Musculoskeletal and connective tissue disorder
 
 Very common Myalgia
@@ -295,11 +298,15 @@ Hepatobiliary disorders
 
 Very common Transaminases increased
 Common Blood bilirubin increased (hyperbilirubinemia), Jaundice
+Not known Drug-induced liver injury*
+
+* Cases of Drug-induced liver injury have been reported in patients with ITP and HCV
 
 Skin and subcutaneous tissue disorders
 
 Very common Ecchymosis
 Common Petechiae, Rash, Pruritus, Urticaria, Skin lesion, Rash Macular
+Not known Skin discolouration, Skin hyperpigmentation
 
 Musculosketal and connective tissue disorders
 
@@ -327,6 +334,7 @@ In 3 controlled and 2 uncontrolled clinical studies, among adult chronic ITP pat
 
 In a placebo-controlled study (n=288, Safety population), following 2 weeks treatment in preparation for invasive procedures, 6 of 143 (4%) adult patients with chronic liver disease receiving eltrombopag experienced 7 TEEs of the portal venous system and 2 of 145 (1%) subjects in the placebo group experienced 3 TEEs.
 Five of the 6 patients treated with eltrombopag experienced the TEE at a platelet count > 200,000/µl
+
 No specific risk factors were identified in those subjects who experienced a TEE with the exception of platelet counts ≥ 200,000/µl (see section 4.4).
 
 In controlled studies in thrombocytopenic patients with HCV (n=1,439), 38 out of 955 subjects (4%) treated with eltrombopag experienced a TEE and 6 out of 484 subjects (1%) in the placebo group experienced TEEs.
@@ -340,7 +348,6 @@ In 2 controlled clinical studies in thrombocytopenic patients with HCV, hepatic 
 In patients with low albumin levels (≤ 35 g/L) or MELD score ≥ 10 at baseline, there was a three-fold greater risk of hepatic decompensation and an increase in the risk of a fatal adverse event compared to those with less advanced liver disease.
 Eltrombopag should only be administered to such patients after careful consideration of the expected benefits in comparison with the risks.
 Patients with these characteristics should be closely monitored for signs and symptoms of hepatic decompensation (see section 4.4).
-
 Thrombocytopenia following discontinuation of treatment
 
 In the 3 controlled clinical ITP studies, transient decreases in platelet counts to levels lower than baseline were observed following discontinuation of treatment in 8% and 8% of the eltrombopag and placebo groups, respectively (see section 4.4).
@@ -348,7 +355,7 @@ In the 3 controlled clinical ITP studies, transient decreases in platelet counts
 Increased bone marrow reticulin
 
 Across the programme, no patients had evidence of clinically relevant bone marrow abnormalities or clinical findings that would indicate bone marrow dysfunction.
-In one ITP patient, eltrombopag treatment was discontinued due to bone marrow reticulin (see section 4.4).
+In a small number of ITP patients, eltrombopag treatment was discontinued due to bone marrow reticulin (see section 4.4).
 
 Cytogenetic abnormalities
 

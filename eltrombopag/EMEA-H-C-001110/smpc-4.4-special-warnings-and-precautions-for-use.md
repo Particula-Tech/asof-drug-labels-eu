@@ -11,7 +11,7 @@ Safety and efficacy have not been established in combination with direct acting 
 
 Risk of hepatotoxicity
 
-Eltrombopag administration can cause abnormal liver function.
+Eltrombopag administration can cause abnormal liver function and severe hepatotoxicity, which might be life-threatening.
 In the controlled clinical studies in chronic ITP with eltrombopag, increases in serum alanine aminotransferase (ALT), aspartate aminotransferase (AST) and bilirubin were observed (see section 4.8).
 
 These findings were mostly mild (Grade 1-2), reversible and not accompanied by clinically significant symptoms that would indicate an impaired liver function.
@@ -21,14 +21,13 @@ In two placebo-controlled studies in paediatric patients (aged 1 to 17 years) wi
 In 2 controlled clinical studies in patients with HCV, ALT or AST ≥ 3 x ULN was reported in 34% and 38% of the eltrombopag and placebo groups, respectively.
 Most patients receiving eltrombopag in combination with peginterferon / ribavirin therapy will experience indirect hyperbilirubinaemia.
 Overall, total bilirubin ≥ 1.5 x ULN was reported in 76% and 50% of the eltrombopag and placebo groups, respectively.
-
 Serum ALT, AST and bilirubin should be measured prior to initiation of eltrombopag, every 2 weeks during the dose adjustment phase and monthly following establishment of a stable dose.
 Eltrombopag inhibits UGT1A1 and OATP1B1, which may lead to indirect hyperbilirubinaemia.
 If bilirubin is elevated fractionation should be performed.
 Abnormal serum liver tests should be evaluated with repeat testing within 3 to 5 days.
 If the abnormalities are confirmed, serum liver tests should be monitored until the abnormalities resolve, stabilise, or return to baseline levels.
-Eltrombopag should be discontinued if ALT levels increase (≥ 3 x ULN in patients with normal liver function or
-≥ 3 x baseline in patients with pre-treatment elevations in transaminases) and are:
+Eltrombopag should be discontinued if ALT levels increase (≥ 3 x ULN in patients with normal liver function, or
+≥ 3 x baseline or > 5 x ULN, whichever is the lower, in patients with pre-treatment elevations in transaminases) and are:
 
 - progressive, or
 - persistent for ≥ 4 weeks, or
@@ -62,11 +61,11 @@ No specific temporal relationship between start of treatment and event of TEE we
 Patients with low albumin levels (≤ 35 g/L) or MELD ≥ 10 had a twofold greater risk of TEEs than those with higher albumin levels; those aged ≥ 60 years had a 2-fold greater risk of TEEs compared to younger patients.
 Eltrombopag should only be administered to such patients after careful consideration of the expected benefits in comparison with the risks.
 Patients should be closely monitored for signs and symptoms of TEE.
-
 The risk of TEEs has been found to be increased in patients with chronic liver disease (CLD) treated with 75 mg eltrombopag once daily for two weeks in preparation for invasive procedures.
 Six of 143 (4%) adult patients with CLD receiving eltrombopag experienced TEEs (all of the portal venous system) and two of 145 (1%) subjects in the placebo group experienced TEEs (one in the portal venous system and one myocardial infarction).
 Five of the 6 patients treated with eltrombopag experienced the thrombotic complication at a platelet count > 200,000/µl and within 30 days of the last dose of eltrombopag.
 Eltrombopag is not indicated for the treatment of thrombocytopenia in patients with chronic liver disease in preparation for invasive procedures.
+
 In eltrombopag clinical trials in ITP thromboembolic events were observed at low and normal platelet counts.
 Caution should be used when administering eltrombopag to patients with known risk factors for thromboembolism including but not limited to inherited (e.g. Factor V Leiden) or acquired risk factors (e.g. ATIII deficiency, antiphospholipid syndrome), advanced age, patients with prolonged periods of immobilisation, malignancies, contraceptives and hormone replacement therapy, surgery/trauma, obesity and smoking.
 Platelet counts should be closely monitored and consideration given to reducing the dose or discontinuing eltrombopag treatment if the platelet count exceeds the target levels (see section 4.2).

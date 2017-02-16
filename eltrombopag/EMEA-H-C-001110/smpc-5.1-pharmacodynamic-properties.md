@@ -25,12 +25,12 @@ From Day 29 to the end of treatment, 15 to 28% of eltrombopag treated patients w
 
 In addition, patients could taper off concomitant ITP medicinal products and receive rescue treatments as dictated by local standard of care.
 More than half of all patients in each treatment group had ≥ 3 prior ITP therapies and 36% had a prior splenectomy.
+
 Median platelet counts at baseline were 16,000/μl for both treatment groups and in the eltrombopag group were maintained above 50,000/µl at all on-therapy visits starting at Day 15; in contrast, median platelet counts in the placebo group remained < 30,000/µl throughout the study.
 
 Platelet count response between 50,000-400,000/μl in the absence of rescue treatment was achieved by significantly more patients in the eltrombopag treated group during the 6 month treatment period, p < 0.001.
 Fifty-four percent of the eltrombopag-treated patients and 13% of placebo-treated patients achieved this level of response after 6 weeks of treatment.
 A similar platelet response was maintained throughout the study, with 52% and 16% of patients responding at the end of the 6-month treatment period.
-
 Table 4: Secondary efficacy results from RAISE
 
 |  | Eltrombopag N=135 |  | Placebo N=62 |
@@ -82,9 +82,9 @@ Forty-two to 60% of the eltrombopag-treated patients in the RAISE study were rec
 
 An open label, repeat dose study (3 cycles of 6 weeks of treatment, followed by 4 weeks off treatment) showed that episodic use with multiple courses of eltrombopag has demonstrated no loss of response.
 
-Eltrombopag was administered to 299 ITP patients in an open-label extension study, 126 patients completed 1 year, 48 completed 18 months and 17 completed 2 years.
-The median baseline platelet count was 19,500/μl prior to eltrombopag administration.
-Median platelet counts at 12, 18 and 24 months on study were 68,000/μl, 75,000/μl and 119,000/μl, respectively.
+Eltrombopag was administered to 302 ITP patients in the open-label extension study EXTEND (TRA105325), 218 patients completed 1 year, 180 completed 2 years, 107 completed 3 years, 75 completed 4 years, 34 completed 5 years and 18 completed 6 years.
+The median baseline platelet count was 19,000/μl prior to eltrombopag administration.
+Median platelet counts at 1, 2, 3, 4, 5, 6 and 7 years on study were 85,000/μl, 85,000/μl, 105,000/μl, 64,000/μl, 75,000/μl, 119,000/μl and 76,000/μl, respectively.
 
 Clinical studies comparing eltrombopag to other treatment options (e.g. splenectomy) have not been conducted.
 The long-term safety of eltrombopag should be considered prior to starting therapy.

@@ -29,6 +29,14 @@ Co-administration of a single dose of eltrombopag 200 mg with boceprevir 800 mg 
 The clinical relevance of the decrease in Cmin has not been established, increased clinical and laboratory monitoring for HCV suppression is recommended.
 Effects of other medicinal products on eltrombopag
 
+Ciclosporin
+
+In vitro studies demonstrated that eltrombopag is a breast cancer resistance protein (BCRP) substrate and inhibitor.
+A decrease in eltrombopag exposure was observed with co-administration of 200 mg and 600 mg ciclosporin (a BCRP inhibitor) (see section 5.2).
+Eltrombopag dose adjustment is permitted during the course of the treatment based on the patient’s platelet count (see section 4.2).
+Platelet count should be monitored at least weekly for 2 to 3 weeks when eltrombopag is co-administered with ciclosporin.
+Eltrombopag dose may need to be increased based on these platelet counts.
+
 Polyvalent cations (chelation)
 
 Eltrombopag chelates with polyvalent cations such as iron, calcium, magnesium, aluminium, selenium and zinc.
@@ -55,7 +63,6 @@ Medicinal products that inhibit or induce a single enzyme are unlikely to signif
 HCV protease inhibitors
 
 Results of a drug-drug pharmacokinetic (PK) interaction study show that co-administration of repeat doses of boceprevir 800 mg every 8 hours or telaprevir 750 mg every 8 hours with a single dose of eltrombopag 200 mg did not alter plasma eltrombopag exposure to a clinically significant extent.
-
 Medicinal products for treatment of ITP
 
 Medicinal products used in the treatment of ITP in combination with eltrombopag in clinical studies included corticosteroids, danazol, and/or azathioprine, intravenous immunoglobulin (IVIG), and anti-D immunoglobulin.
