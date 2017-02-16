@@ -56,7 +56,7 @@ Adult and adolescent
 (≥ 12 to < 18 years old and weighing ≥ 30 kg) patients who had a FEV1 percent predicted between 25% and 85% were enrolled.
 All patients had also received at least 3 courses of TIS in the 12 months prior to entry into the study, but none in the 28 days immediately preceding study entry.
 In addition to study drug, patients remained on standard of care treatment for chronic pulmonary infection.
-A total of 189 patients were randomised to Quinsair 240 mg twice daily (≥ 18 years, n = 170; ≥ 12 to < 18 years old, n = 19) and 93 were randomised to placebo (≥ 18 years, n = 84; ≥ 12 to < 18 years old, n = 9).
+A total of 189 patients were randomised to Quinsair 240 mg twice daily (≥ 18 years, n = 170; ≥ 12 to < 18 years old, n = 19) and 93 were randomised to TIS (≥ 18 years, n = 84; ≥ 12 to < 18 years old, n = 9).
 Results obtained for the primary and key secondary endpoints are provided in Table 2.
 
 Table 2: Results for the primary and key secondary endpoints in the active-controlled efficacy and safety study of Quinsair in patients with CF
