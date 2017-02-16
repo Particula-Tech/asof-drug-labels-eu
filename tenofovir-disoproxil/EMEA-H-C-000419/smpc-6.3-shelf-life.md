@@ -1,6 +1,6 @@
 # 6.3 Shelf life
 
-2 years.
+3 years.
 
 [Viread 163 mg film-coated tablets]
 
@@ -16,4 +16,4 @@
 
 [Viread 33 mg/g granules]
 
-3 years.
+(all sentences already above)

@@ -5,7 +5,7 @@ Interaction studies have only been performed in adults.
 Based on the results of in vitro experiments and the known elimination pathway of tenofovir, the potential for CYP450-mediated interactions involving tenofovir with other medicinal products is low.
 
 Concomitant use not recommended
-Viread should not be administered concomitantly with other medicinal products containing tenofovir disoproxil fumarate.
+Viread should not be administered concomitantly with other medicinal products containing tenofovir disoproxil fumarate or tenofovir alafenamide.
 
 Viread should not be administered concomitantly with adefovir dipivoxil.
 
@@ -22,7 +22,7 @@ Some examples include, but are not limited to, aminoglycosides, amphotericin B, 
 Given that tacrolimus can affect renal function, close monitoring is recommended when it is co-administered with tenofovir disoproxil fumarate.
 
 Other interactions
-Interactions between tenofovir disoproxil fumarate and protease inhibitors and antiretroviral agents other than protease inhibitors are listed in Table 1 below (increase is indicated as “↑”, decrease as “↓”, no change as “↔”, twice daily as “b.i.d.”, and once daily as “q.d.”).
+Interactions between tenofovir disoproxil fumarate and other medicinal products are listed in Table 1 below (increase is indicated as “↑”, decrease as “↓”, no change as “↔”, twice daily as “b.i.d.”, and once daily as “q.d.”).
 Table 1: Interactions between tenofovir disoproxil fumarate and other medicinal products
 
 | Medicinal product by therapeutic areas (dose in mg) | Effects on drug levels Mean percent change in AUC, Cmax, Cmin | Recommendation concerning co-administration with 245 mg tenofovir disoproxil (as fumarate) |
@@ -35,13 +35,23 @@ Table 1: Interactions between tenofovir disoproxil fumarate and other medicinal 
 | Darunavir/Ritonavir (300/100 b.i.d./300 q.d.) | Darunavir: No significant effect on darunavir/ritonavir PK parameters. Tenofovir: AUC: ↑ 22% Cmin: ↑ 37% | No dose adjustment is recommended. The increased exposure of tenofovir could potentiate tenofovir-associated adverse events, including renal disorders. Renal function should be closely monitored (see section 4.4). |
 | NRTIs |  |  |
 | Didanosine | Co-administration of tenofovir disoproxil fumarate and didanosine results in a 40-60% increase in systemic exposure to didanosine that may increase the risk for didanosine-related adverse reactions. Rarely, pancreatitis and lactic acidosis, sometimes fatal, have been reported. Co-administration of tenofovir disoproxil fumarate and didanosine at a dose of 400 mg daily has been associated with a significant decrease in CD4 cell count, possibly due to an intracellular interaction increasing phosphorylated (i.e. active) didanosine. A decreased dosage of 250 mg didanosine co-administered with tenofovir disoproxil fumarate therapy has been associated with reports of high rates of virological failure within several tested combinations for the treatment of HIV-1 infection. | Co-administration of tenofovir disoproxil fumarate and didanosine is not recommended (see section 4.4). |
+| Adefovir dipivoxil | AUC: ↔ Cmax: ↔ | Tenofovir disoproxil fumarate should not be administered concurrently with adefovir dipivoxil (see section 4.4). |
+| Hepatitis C virus antiviral agents |  |  |
+| Ledipasvir/Sofosbuvir (90 mg/400 mg q.d.) + Atazanavir/Ritonavir (300 mg q.d./100 mg q.d.) + Emtricitabine/Tenofovir disoproxil fumarate (200 mg/300 mg q.d.)1 | Ledipasvir: AUC: ↑ 96% Cmax: ↑ 68% Cmin: ↑ 118% Sofosbuvir: AUC: ↔ Cmax: ↔ GS-3310072: AUC: ↔ Cmax: ↔ Cmin: ↑ 42% Atazanavir: AUC: ↔ Cmax: ↔ Cmin: ↑ 63% | Increased plasma concentrations of tenofovir resulting from co-administration of tenofovir disoproxil fumarate, ledipasvir/sofosbuvir and atazanavir/ritonavir may increase adverse reactions related to tenofovir disoproxil fumarate, including renal disorders. The safety of tenofovir disoproxil fumarate when used with ledipasvir/sofosbuvir and a pharmacokinetic enhancer (e.g. ritonavir or cobicistat) has not been established. |
+|  | Ritonavir: AUC: ↔ Cmax: ↔ Cmin: ↑ 45% Emtricitabine: AUC: ↔ Cmax: ↔ Cmin: ↔ Tenofovir: AUC: ↔ Cmax: ↑ 47% Cmin: ↑ 47% | The combination should be used with caution with frequent renal monitoring, if other alternatives are not available (see section 4.4). |
 
-Adefovir dipivoxil AUC: ↔ Tenofovir disoproxil
-Cmax: ↔ fumarate should not be
-administered concurrently
-with adefovir dipivoxil
-(see section 4.4).
+| Medicinal product by therapeutic areas (dose in mg) | Effects on drug levels Mean percent change in AUC, Cmax, Cmin | Recommendation concerning co-administration with 245 mg tenofovir disoproxil (as fumarate) |
+| --- | --- | --- |
+| Ledipasvir/Sofosbuvir (90 mg/400 mg q.d.) + Darunavir/Ritonavir (800 mg q.d./100 mg q.d.) + Emtricitabine/Tenofovir disoproxil fumarate (200 mg/300 mg q.d.)1 | Ledipasvir: AUC: ↔ Cmax: ↔ Cmin: ↔ Sofosbuvir: AUC: ↓ 27% Cmax: ↓ 37% GS-3310072: AUC: ↔ Cmax: ↔ Cmin: ↔ Darunavir: AUC: ↔ Cmax: ↔ Cmin: ↔ | Increased plasma concentrations of tenofovir resulting from co-administration of tenofovir disoproxil fumarate, ledipasvir/sofosbuvir and darunavir/ritonavir may increase adverse reactions related to tenofovir disoproxil fumarate, including renal disorders. The safety of tenofovir disoproxil fumarate when used with ledipasvir/sofosbuvir and a pharmacokinetic enhancer (e.g. ritonavir or cobicistat) has not been established. |
+|  | Ritonavir: AUC: ↔ Cmax: ↔ Cmin: ↑ 48% Emtricitabine: AUC: ↔ Cmax: ↔ Cmin: ↔ Tenofovir: AUC: ↑ 50% Cmax: ↑ 64% Cmin: ↑ 59% | The combination should be used with caution with frequent renal monitoring, if other alternatives are not available (see section 4.4). |
+| Ledipasvir/Sofosbuvir (90 mg/400 mg q.d.) + Efavirenz/Emtricitabine/Tenofovir disoproxil fumarate (600 mg/200 mg/300 mg q.d.) | Ledipasvir: AUC: ↓ 34% Cmax: ↓ 34% Cmin: ↓ 34% Sofosbuvir: AUC: ↔ Cmax: ↔ GS-3310072: AUC: ↔ Cmax: ↔ Cmin: ↔ Efavirenz: AUC: ↔ Cmax: ↔ Cmin: ↔ Emtricitabine: AUC: ↔ Cmax: ↔ Cmin: ↔ | No dose adjustment is recommended. The increased exposure of tenofovir could potentiate adverse reactions associated with tenofovir disoproxil fumarate, including renal disorders. Renal function should be closely monitored (see section 4.4). |
+|  | Tenofovir: AUC: ↑ 98% Cmax: ↑ 79% Cmin: ↑ 163% |  |
+| Ledipasvir/Sofosbuvir (90 mg/400 mg q.d.) + Emtricitabine/Rilpivirine/Tenofovir disoproxil fumarate (200 mg/25 mg/300 mg q.d.) | Ledipasvir: AUC: ↔ Cmax: ↔ Cmin: ↔ Sofosbuvir: AUC: ↔ Cmax: ↔ GS-3310072: AUC: ↔ Cmax: ↔ Cmin: ↔ Emtricitabine: AUC: ↔ Cmax: ↔ Cmin: ↔ Rilpivirine: AUC: ↔ Cmax: ↔ Cmin: ↔ Tenofovir: AUC: ↑ 40% Cmax: ↔ Cmin: ↑ 91% | No dose adjustment is recommended. The increased exposure of tenofovir could potentiate adverse reactions associated with tenofovir disoproxil fumarate, including renal disorders. Renal function should be closely monitored (see section 4.4). |
+| Sofosbuvir (400 mg q.d.) + Efavirenz/Emtricitabine/Tenofovir disoproxil fumarate (600 mg/200 mg/300 mg q.d.) | Sofosbuvir: AUC: ↔ Cmax: ↓ 19% GS-3310072: AUC: ↔ Cmax: ↓ 23% Efavirenz: AUC: ↔ Cmax: ↔ Cmin: ↔ Emtricitabine: AUC: ↔ Cmax: ↔ Cmin: ↔ Tenofovir: AUC: ↔ Cmax: ↑ 25% Cmin: ↔ | No dose adjustment is required. |
 
+1 Data generated from simultaneous dosing with ledipasvir/sofosbuvir.
+Staggered administration (12 hours apart) provided similar results.
+2 The predominant circulating metabolite of sofosbuvir.
 Studies conducted with other medicinal products
 There were no clinically significant pharmacokinetic interactions when tenofovir disoproxil fumarate was co-administered with emtricitabine, lamivudine, indinavir, efavirenz, nelfinavir, saquinavir (ritonavir boosted), methadone, ribavirin, rifampicin, tacrolimus, or the hormonal contraceptive norgestimate/ethinyl oestradiol.
 
@@ -49,7 +59,14 @@ Tenofovir disoproxil fumarate must be taken with food, as food enhances the bioa
 
 [Viread 163 mg film-coated tablets]
 
-(all sentences already above)
+| Medicinal product by therapeutic areas (dose in mg) | Effects on drug levels Mean percent change in AUC, Cmax, Cmin | Recommendation concerning co-administration with 245 mg tenofovir disoproxil (as fumarate) |
+| --- | --- | --- |
+| Ledipasvir/Sofosbuvir (90 mg/400 mg q.d.) + Darunavir/Ritonavir (800 mg q.d./100 mg q.d.) + Emtricitabine/Tenofovir disoproxil fumarate (200 mg/300 mg q.d.)1 | Ledipasvir: AUC: ↔ Cmax: ↔ Cmin: ↔ Sofosbuvir: AUC: ↓ 27% Cmax: ↓ 37% GS-3310072: AUC: ↔ Cmax: ↔ Cmin: ↔ Darunavir: AUC: ↔ Cmax: ↔ Cmin: ↔ | Increased plasma concentrations of tenofovir resulting from co-administration of tenofovir disoproxil fumarate, ledipasvir/sofosbuvir and darunavir/ritonavir may increase adverse reactions related to tenofovir disoproxil fumarate, including renal disorders. The safety of tenofovir disoproxil fumarate when used with ledipasvir/sofosbuvir and a pharmacokinetic enhancer (e.g. ritonavir or cobicistat) has not been established. |
+|  | Ritonavir: AUC: ↔ Cmax: ↔ Cmin: ↑ 48% Emtricitabine: AUC: ↔ Cmax: ↔ Cmin: ↔ Tenofovir: AUC: ↑ 50% Cmax: ↑ 64% Cmin: ↑ 59% | The combination should be used with caution with frequent renal monitoring, if other alternatives are not available (see section 4.4). |
+| Ledipasvir/Sofosbuvir (90 mg/400 mg q.d.) + Efavirenz/Emtricitabine/Tenofovi r disoproxil fumarate (600 mg/200 mg/300 mg q.d.) | Ledipasvir: AUC: ↓ 34% Cmax: ↓ 34% Cmin: ↓ 34% Sofosbuvir: AUC: ↔ Cmax: ↔ GS-3310072: AUC: ↔ Cmax: ↔ Cmin: ↔ Efavirenz: AUC: ↔ Cmax: ↔ Cmin: ↔ Emtricitabine: AUC: ↔ Cmax: ↔ Cmin: ↔ | No dose adjustment is recommended. The increased exposure of tenofovir could potentiate adverse reactions associated with tenofovir disoproxil fumarate, including renal disorders. Renal function should be closely monitored (see section 4.4). |
+|  | Tenofovir: AUC: ↑ 98% Cmax: ↑ 79% Cmin: ↑ 163% |  |
+| Ledipasvir/Sofosbuvir (90 mg/400 mg q.d.) + Emtricitabine/Rilpivirine/Tenofo vir disoproxil fumarate (200 mg/25 mg/300 mg q.d.) | Ledipasvir: AUC: ↔ Cmax: ↔ Cmin: ↔ Sofosbuvir: AUC: ↔ Cmax: ↔ GS-3310072: AUC: ↔ Cmax: ↔ Cmin: ↔ Emtricitabine: AUC: ↔ Cmax: ↔ Cmin: ↔ Rilpivirine: AUC: ↔ Cmax: ↔ Cmin: ↔ Tenofovir: AUC: ↑ 40% Cmax: ↔ Cmin: ↑ 91% | No dose adjustment is recommended. The increased exposure of tenofovir could potentiate adverse reactions associated with tenofovir disoproxil fumarate, including renal disorders. Renal function should be closely monitored (see section 4.4). |
+| Sofosbuvir (400 mg q.d.) + Efavirenz/Emtricitabine/Tenofovi r disoproxil fumarate (600 mg/200 mg/300 mg q.d.) | Sofosbuvir: AUC: ↔ Cmax: ↓ 19% GS-3310072: AUC: ↔ Cmax: ↓ 23% Efavirenz: AUC: ↔ Cmax: ↔ Cmin: ↔ Emtricitabine: AUC: ↔ Cmax: ↔ Cmin: ↔ Tenofovir: AUC: ↔ Cmax: ↑ 25% Cmin: ↔ | No dose adjustment is required. |
 
 [Viread 204 mg film-coated tablets]
 
@@ -68,11 +85,42 @@ Tenofovir disoproxil fumarate must be taken with food, as food enhances the bioa
 | NRTIs |  |  |
 | Didanosine | Co-administration of tenofovir disoproxil fumarate and didanosine results in a 40-60% increase in systemic exposure to didanosine that may increase the risk for didanosine-related adverse reactions. Rarely, pancreatitis and lactic acidosis, sometimes fatal, have been reported. Co-administration of tenofovir disoproxil fumarate and didanosine at a dose of 400 mg daily has been associated with a significant decrease in CD4 cell count, possibly due to an intracellular interaction increasing phosphorylated (i.e. active) didanosine. A decreased dosage of 250 mg didanosine co-administered with tenofovir disoproxil fumarate therapy has been associated with reports of high rates of virological failure within several tested combinations for the treatment of HIV-1 infection. | Co-administration of tenofovir disoproxil fumarate and didanosine is not recommended (see section 4.4). |
 | Adefovir dipivoxil | AUC: ↔ Cmax: ↔ | Tenofovir disoproxil fumarate should not be administered concurrently with adefovir dipivoxil (see section 4.4). |
+
+| Medicinal product by therapeutic areas (dose in mg) | Effects on drug levels Mean percent change in AUC, Cmax, Cmin | Recommendation concerning co-administration with 245 mg tenofovir disoproxil (as fumarate) |
+| --- | --- | --- |
 | Entecavir | AUC: ↔ Cmax: ↔ | No clinically significant pharmacokinetic interactions when tenofovir disoproxil fumarate was co-administered with entecavir. |
+| Hepatitis C virus antiviral agents |  |  |
+| Ledipasvir/Sofosbuvir (90 mg/400 mg q.d.) + Atazanavir/Ritonavir (300 mg q.d./100 mg q.d.) + Emtricitabine/Tenofovir disoproxil fumarate (200 mg/300 mg q.d.)1 | Ledipasvir: AUC: ↑ 96% Cmax: ↑ 68% Cmin: ↑ 118% Sofosbuvir: AUC: ↔ Cmax: ↔ GS-3310072: AUC: ↔ Cmax: ↔ Cmin: ↑ 42% Atazanavir: AUC: ↔ Cmax: ↔ Cmin: ↑ 63% | Increased plasma concentrations of tenofovir resulting from co-administration of tenofovir disoproxil fumarate, ledipasvir/sofosbuvir and atazanavir/ritonavir may increase adverse reactions related to tenofovir disoproxil fumarate, including renal disorders. The safety of tenofovir disoproxil fumarate when used with ledipasvir/sofosbuvir and a pharmacokinetic enhancer (e.g. ritonavir or cobicistat) has not been established. |
+|  | Ritonavir: AUC: ↔ Cmax: ↔ Cmin: ↑ 45% Emtricitabine: AUC: ↔ Cmax: ↔ Cmin: ↔ Tenofovir: AUC: ↔ Cmax: ↑ 47% Cmin: ↑ 47% | The combination should be used with caution with frequent renal monitoring, if other alternatives are not available (see section 4.4). |
 
 [Viread 33 mg/g granules]
 
 (see section 4.4 and Table 2).
 
-Interactions between tenofovir disoproxil fumarate and protease inhibitors and antiretroviral agents other than protease inhibitors are listed in Table 2 below (increase is indicated as “↑”, decrease as “↓”, no change as “↔”, twice daily as “b.i.d.”, and once daily as “q.d.”).
+Interactions between tenofovir disoproxil fumarate and other medicinal products are listed in Table 2 below (increase is indicated as “↑”, decrease as “↓”, no change as “↔”, twice daily as “b.i.d.”, and once daily as “q.d.”).
 Table 2: Interactions between tenofovir disoproxil fumarate and other medicinal products
+
+| Medicinal product by therapeutic areas (dose in mg) | Effects on drug levels Mean percent change in AUC, Cmax, Cmin | Recommendation concerning co-administration with 245 mg tenofovir disoproxil (as fumarate) |
+| --- | --- | --- |
+| ANTI-INFECTIVES |  |  |
+| Antiretrovirals |  |  |
+| Protease inhibitors |  |  |
+| Atazanavir/Ritonavir (300 q.d./100 q.d./300 q.d.) | Atazanavir: AUC: ↓ 25% Cmax: ↓ 28% Cmin: ↓ 26% Tenofovir: AUC: ↑ 37% Cmax: ↑ 34% Cmin: ↑ 29% | No dose adjustment is recommended. The increased exposure of tenofovir could potentiate tenofovir-associated adverse events, including renal disorders. Renal function should be closely monitored (see section 4.4). |
+| Lopinavir/Ritonavir (400 b.i.d./100 b.i.d./300 q.d.) | Lopinavir/ritonavir: No significant effect on lopinavir/ritonavir PK parameters. Tenofovir: AUC: ↑ 32% Cmax: ↔ Cmin: ↑ 51% | No dose adjustment is recommended. The increased exposure of tenofovir could potentiate tenofovir-associated adverse events, including renal disorders. Renal function should be closely monitored (see section 4.4). |
+| Darunavir/Ritonavir (300/100 b.i.d./300 q.d.) | Darunavir: No significant effect on darunavir/ritonavir PK parameters. Tenofovir: AUC: ↑ 22% Cmin: ↑ 37% | No dose adjustment is recommended. The increased exposure of tenofovir could potentiate tenofovir-associated adverse events, including renal disorders. Renal function should be closely monitored (see section 4.4). |
+| NRTIs |  |  |
+| Didanosine | Co-administration of tenofovir disoproxil fumarate and didanosine results in a 40-60% increase in systemic exposure to didanosine that may increase the risk for didanosine-related adverse reactions. Rarely, pancreatitis and lactic acidosis, sometimes fatal, have been reported. Co-administration of tenofovir disoproxil fumarate and didanosine at a dose of 400 mg daily has been associated with a significant decrease in CD4 cell count, possibly due to an intracellular interaction increasing phosphorylated (i.e. active) didanosine. A decreased dosage of 250 mg didanosine co-administered with tenofovir disoproxil fumarate therapy has been associated with reports of high rates of virological failure within several tested combinations for the treatment of HIV-1 infection. | Co-administration of tenofovir disoproxil fumarate and didanosine is not recommended (see section 4.4). |
+| Adefovir dipivoxil | AUC: ↔ Cmax: ↔ | Tenofovir disoproxil fumarate should not be administered concurrently with adefovir dipivoxil (see section 4.4). |
+| Entecavir | AUC: ↔ Cmax: ↔ | No clinically significant pharmacokinetic interactions when tenofovir disoproxil fumarate was co-administered with entecavir. |
+| Hepatitis C virus antiviral agents |  |  |
+| Ledipasvir/Sofosbuvir (90 mg/400 mg q.d.) + Atazanavir/Ritonavir (300 mg q.d./100 mg q.d.) + Emtricitabine/Tenofovir disoproxil fumarate (200 mg/300 mg q.d.)1 | Ledipasvir: AUC: ↑ 96% Cmax: ↑ 68% Cmin: ↑ 118% Sofosbuvir: AUC: ↔ Cmax: ↔ GS-3310072: AUC: ↔ Cmax: ↔ Cmin: ↑ 42% Atazanavir: AUC: ↔ Cmax: ↔ Cmin: ↑ 63% Ritonavir: AUC: ↔ Cmax: ↔ Cmin: ↑ 45% Emtricitabine: AUC: ↔ Cmax: ↔ Cmin: ↔ Tenofovir: AUC: ↔ Cmax: ↑ 47% Cmin: ↑ 47% | Increased plasma concentrations of tenofovir resulting from co-administration of tenofovir disoproxil fumarate, ledipasvir/sofosbuvir and atazanavir/ritonavir may increase adverse reactions related to tenofovir disoproxil fumarate, including renal disorders. The safety of tenofovir disoproxil fumarate when used with ledipasvir/sofosbuvir and a pharmacokinetic enhancer (e.g. ritonavir or cobicistat) has not been established. The combination should be used with caution with frequent renal monitoring, if other alternatives are not available (see section 4.4). |
+
+| Medicinal product by therapeutic areas (dose in mg) | Effects on drug levels Mean percent change in AUC, Cmax, Cmin | Recommendation concerning co-administration with 245 mg tenofovir disoproxil (as fumarate) |
+| --- | --- | --- |
+| Ledipasvir/Sofosbuvir (90 mg/400 mg q.d.) + Darunavir/Ritonavir (800 mg q.d./100 mg q.d.) + Emtricitabine/Tenofovir disoproxil fumarate (200 mg/300 mg q.d.)1 | Ledipasvir: AUC: ↔ Cmax: ↔ Cmin: ↔ Sofosbuvir: AUC: ↓ 27% Cmax: ↓ 37% GS-3310072: AUC: ↔ Cmax: ↔ Cmin: ↔ Darunavir: AUC: ↔ Cmax: ↔ Cmin: ↔ Ritonavir: AUC: ↔ Cmax: ↔ Cmin: ↑ 48% Emtricitabine: AUC: ↔ Cmax: ↔ Cmin: ↔ Tenofovir: AUC: ↑ 50% Cmax: ↑ 64% Cmin: ↑ 59% | Increased plasma concentrations of tenofovir resulting from co-administration of tenofovir disoproxil fumarate, ledipasvir/sofosbuvir and darunavir/ritonavir may increase adverse reactions related to tenofovir disoproxil fumarate, including renal disorders. The safety of tenofovir disoproxil fumarate when used with ledipasvir/sofosbuvir and a pharmacokinetic enhancer (e.g. ritonavir or cobicistat) has not been established. The combination should be used with caution with frequent renal monitoring, if other alternatives are not available (see section 4.4). |
+
+| Medicinal product by therapeutic areas (dose in mg) | Effects on drug levels Mean percent change in AUC, Cmax, Cmin | Recommendation concerning co-administration with 245 mg tenofovir disoproxil (as fumarate) |
+| --- | --- | --- |
+| Ledipasvir/Sofosbuvir (90 mg/400 mg q.d.) + Efavirenz/Emtricitabine/Tenofovir disoproxil fumarate (600 mg/200 mg/300 mg q.d.) | Ledipasvir: AUC: ↓ 34% Cmax: ↓ 34% Cmin: ↓ 34% Sofosbuvir: AUC: ↔ Cmax: ↔ GS-3310072: AUC: ↔ Cmax: ↔ Cmin: ↔ Efavirenz: AUC: ↔ Cmax: ↔ Cmin: ↔ Emtricitabine: AUC: ↔ Cmax: ↔ Cmin: ↔ Tenofovir: AUC: ↑ 98% Cmax: ↑ 79% Cmin: ↑ 163% | No dose adjustment is recommended. The increased exposure of tenofovir could potentiate adverse reactions associated with tenofovir disoproxil fumarate, including renal disorders. Renal function should be closely monitored (see section 4.4). |
+| Ledipasvir/Sofosbuvir (90 mg/400 mg q.d.) + Emtricitabine/Rilpivirine/Tenofovir disoproxil fumarate (200 mg/25 mg/300 mg q.d.) | Ledipasvir: AUC: ↔ Cmax: ↔ Cmin: ↔ Sofosbuvir: AUC: ↔ Cmax: ↔ GS-3310072: AUC: ↔ Cmax: ↔ Cmin: ↔ Emtricitabine: AUC: ↔ Cmax: ↔ Cmin: ↔ Rilpivirine: AUC: ↔ Cmax: ↔ Cmin: ↔ Tenofovir: AUC: ↑ 40% Cmax: ↔ Cmin: ↑ 91% | No dose adjustment is recommended. The increased exposure of tenofovir could potentiate adverse reactions associated with tenofovir disoproxil fumarate, including renal disorders. Renal function should be closely monitored (see section 4.4). |
+| Sofosbuvir (400 mg q.d.) + Efavirenz/Emtricitabine/Tenofovir disoproxil fumarate (600 mg/200 mg/300 mg q.d.) | Sofosbuvir: AUC: ↔ Cmax: ↓ 19% GS-3310072: AUC: ↔ Cmax: ↓ 23% Efavirenz: AUC: ↔ Cmax: ↔ Cmin: ↔ Emtricitabine: AUC: ↔ Cmax: ↔ Cmin: ↔ Tenofovir: AUC: ↔ Cmax: ↑ 25% Cmin: ↔ | No dose adjustment is required. |

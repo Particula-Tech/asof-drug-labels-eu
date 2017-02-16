@@ -6,7 +6,7 @@ Precautions to prevent transmission should be taken in accordance with national 
 
 Co-administration of other medicinal products
 
-- Viread should not be administered concomitantly with other medicinal products containing tenofovir disoproxil fumarate.
+- Viread should not be administered concomitantly with other medicinal products containing tenofovir disoproxil fumarate or tenofovir alafenamide.
 - Viread should not be administered concomitantly with adefovir dipivoxil.
 - Co-administration of tenofovir disoproxil fumarate and didanosine is not recommended.
   Co-administration of tenofovir disoproxil fumarate and didanosine results in a 40-60% increase in systemic exposure to didanosine that may increase the risk of didanosine-related adverse reactions (see section 4.5).
@@ -90,6 +90,11 @@ In case of concomitant antiviral therapy for hepatitis B or C, please refer also
 Discontinuation of Viread therapy in patients co-infected with HIV and HBV may be associated with severe acute exacerbations of hepatitis.
 Patients co-infected with HIV and HBV who discontinue Viread should be closely monitored with both clinical and laboratory follow-up for at least 6 months after stopping treatment.
 In patients with advanced liver disease or cirrhosis, treatment discontinuation is not recommended since post-treatment exacerbation of hepatitis may lead to hepatic decompensation.
+Use with certain hepatitis C virus antiviral agents
+Co-administration of tenofovir disoproxil fumarate with ledipasvir/sofosbuvir has been shown to increase plasma concentrations of tenofovir, especially when used together with an HIV regimen containing tenofovir disoproxil fumarate and a pharmacokinetic enhancer (ritonavir or cobicistat).
+The safety of tenofovir disoproxil fumarate in the setting of ledipasvir/sofosbuvir and a pharmacokinetic enhancer has not been established.
+The potential risks and benefits associated with co-administration of ledipasvir/sofosbuvir with tenofovir disoproxil fumarate given in conjunction with a boosted HIV protease inhibitor (e.g. atazanavir or darunavir) should be considered, particularly in patients at increased risk of renal dysfunction.
+Patients receiving ledipasvir/sofosbuvir concomitantly with tenofovir disoproxil fumarate and a boosted HIV protease inhibitor should be monitored for adverse reactions related to tenofovir disoproxil fumarate.
 
 Liver disease
 Tenofovir and tenofovir disoproxil fumarate are not metabolised by liver enzymes.
@@ -99,28 +104,21 @@ No significant pharmacokinetic alteration has been observed in these patients (s
 Patients with pre-existing liver dysfunction, including chronic active hepatitis, have an increased frequency of liver function abnormalities during combination antiretroviral therapy (CART) and should be monitored according to standard practice.
 If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered.
 
-Lipodystrophy
-CART has been associated with the redistribution of body fat (lipodystrophy) in HIV patients.
-The long-term consequences of these events are currently unknown.
-Knowledge about the mechanism is incomplete.
-A connection between visceral lipomatosis and protease inhibitors and lipoatrophy and nucleoside reverse transcriptase inhibitors has been hypothesised.
-A higher risk of lipodystrophy has been associated with individual factors such as older age, and with drug related factors such as longer duration of antiretroviral treatment and associated metabolic disturbances.
-Clinical examination should include evaluation for physical signs of fat redistribution.
-Consideration should be given to the measurement of fasting serum lipids and blood glucose.
-Lipid disorders should be managed as clinically appropriate (see section 4.8).
+Weight and metabolic parameters
+An increase in weight and in levels of blood lipids and glucose may occur during antiretroviral therapy.
+Such changes may in part be linked to disease control and life style.
+For lipids, there is in some cases evidence for a treatment effect, while for weight gain there is no strong evidence relating this to any particular treatment.
+For monitoring of blood lipids and glucose reference is made to established HIV treatment guidelines.
+Lipid disorders should be managed as clinically appropriate.
 
-Tenofovir is structurally related to nucleoside analogues hence the risk of lipodystrophy cannot be excluded.
-However, 144-week clinical data from antiretroviral-naïve HIV infected adult patients indicate that the risk of lipodystrophy was lower with tenofovir disoproxil fumarate than with stavudine when administered with lamivudine and efavirenz.
-
-Mitochondrial dysfunction
-Nucleoside and nucleotide analogues have been demonstrated in vitro and in vivo to cause a variable degree of mitochondrial damage.
-There have been reports of mitochondrial dysfunction in
-HIV negative infants exposed in utero and/or postnatally to nucleoside analogues.
-The main adverse events reported are haematological disorders (anaemia, neutropenia), metabolic disorders (hyperlactataemia, hyperlipasaemia).
-These events are often transitory.
-Some late-onset neurological disorders have been reported (hypertonia, convulsion, abnormal behaviour).
-Whether the neurological disorders are transient or permanent is currently unknown.
-Any child exposed in utero to nucleoside and nucleotide analogues, even HIV negative children, should have clinical and laboratory follow-up and should be fully investigated for possible mitochondrial dysfunction in case of relevant signs or symptoms.
+Mitochondrial dysfunction following exposure in utero
+Nucleos(t)ide analogues may impact mitochondrial function to a variable degree, which is most pronounced with stavudine, didanosine and zidovudine.
+There have been reports of mitochondrial dysfunction in HIV negative infants exposed in utero and/or postnatally to nucleoside analogues; these have predominantly concerned treatment with regimens containing zidovudine.
+The main adverse reactions reported are haematological disorders (anaemia, neutropenia) and metabolic disorders (hyperlactatemia, hyperlipasemia).
+These events have often been transitory.
+Late onset neurological disorders have been reported rarely (hypertonia, convulsion, abnormal behaviour).
+Whether such neurological disorders are transient or permanent is currently unknown.
+These findings should be considered for any child exposed in utero to nucleos(t)ide analogues, who present with severe clinical findings of unknown etiology, particularly neurologic findings.
 These findings do not affect current national recommendations to use antiretroviral therapy in pregnant women to prevent vertical transmission of HIV.
 
 Immune reactivation syndrome
@@ -195,13 +193,13 @@ If appropriate, resumption of hepatitis B therapy may be warranted.
 Liver flares are especially serious, and sometimes fatal in patients with decompensated liver disease.
 
 Co-infection with hepatitis C or D: There are no data on the efficacy of tenofovir in patients co-infected with hepatitis C or D virus.
+
 Co-infection with HIV-1 and hepatitis B: Due to the risk of development of HIV resistance, tenofovir disoproxil fumarate should only be used as part of an appropriate antiretroviral combination regimen in HIV/HBV co-infected patients.
 However, it should be noted that increases of ALT can be part of HBV clearance during therapy with tenofovir, see above Exacerbations of hepatitis.
 
-Older people
+Elderly
 Tenofovir disoproxil fumarate has not been studied in patients over the age of 65.
 Elderly patients are more likely to have decreased renal function; therefore caution should be exercised when treating elderly patients with tenofovir disoproxil fumarate.
-
 Viread 245 mg film-coated tablets contain lactose monohydrate.
 
 [Viread 33 mg/g granules]

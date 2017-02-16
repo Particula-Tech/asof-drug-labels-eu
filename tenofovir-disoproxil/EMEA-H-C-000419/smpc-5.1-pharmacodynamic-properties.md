@@ -15,7 +15,6 @@ Data pertaining to HIV
 HIV antiviral activity in vitro: The concentration of tenofovir required for 50% inhibition (EC50) of the wild-type laboratory strain HIV-1IIIB is 1-6 µmol/l in lymphoid cell lines and 1.1 µmol/l against primary HIV-1 subtype B isolates in PBMCs.
 Tenofovir is also active against HIV-1 subtypes A, C, D, E, F, G, and O and against HIVBaL in primary monocyte/macrophage cells.
 Tenofovir shows activity in vitro against HIV-2, with an EC50 of 4.9 µmol/l in MT-4 cells.
-
 Resistance: Strains of HIV-1 with reduced susceptibility to tenofovir and a K65R mutation in reverse transcriptase have been selected in vitro and in some patients (see Clinical efficacy and safety).
 Tenofovir disoproxil fumarate should be avoided in antiretroviral-experienced patients with strains harbouring the K65R mutation (see section 4.4).
 In addition, a K70E substitution in HIV-1 reverse transcriptase has been selected by tenofovir and results in low-level reduced susceptibility to tenofovir.
@@ -116,12 +115,12 @@ Benefit has also been demonstrated based on histological responses in compensate
 Experience in patients with compensated liver disease at 48 weeks (studies GS-US-174-0102 and GS-US-174-0103)
 Results through 48 weeks from two randomised, phase 3 double-blind studies comparing tenofovir disoproxil fumarate to adefovir dipivoxil in adult patients with compensated liver disease are presented in Table 3 below.
 Study GS-US-174-0103 was conducted in 266 (randomised and treated) HBeAg positive patients while study GS-US-174-0102 was conducted in 375 (randomised and treated) patients negative for HBeAg and positive for HBeAb.
-
 In both of these studies tenofovir disoproxil fumarate was significantly superior to adefovir dipivoxil for the primary efficacy endpoint of complete response (defined as HBV DNA levels < 400 copies/ml and Knodell necroinflammatory score improvement of at least 2 points without worsening in Knodell fibrosis).
 Treatment with tenofovir disoproxil 245 mg (as fumarate) was also associated with significantly greater proportions of patients with HBV DNA < 400 copies/ml, when compared to adefovir dipivoxil 10 mg treatment.
 Both treatments produced similar results with regard to histological response (defined as Knodell necroinflammatory score improvement of at least 2 points without worsening in Knodell fibrosis) at week 48 (see Table 3 below).
 
 In study GS-US-174-0103 a significantly greater proportion of patients in the tenofovir disoproxil fumarate group than in the adefovir dipivoxil group had normalised ALT and achieved HBsAg loss at week 48 (see Table 3 below).
+
 Table 3: Efficacy parameters in compensated HBeAg negative and HBeAg positive patients at week 48
 
 |  | Study 174-0102 (HBeAg negative) |  | Study 174-0103 (HBeAg positive) |  |
@@ -143,15 +142,16 @@ d The population used for analysis of ALT normalisation included only patients w
 n/a = not applicable.
 
 Tenofovir disoproxil fumarate was associated with significantly greater proportions of patients with undetectable HBV DNA (< 169 copies/ml [< 29 IU/ml]; the limit of quantification of the Roche Cobas Taqman HBV assay), when compared to adefovir dipivoxil (study GS-US-174-0102; 91%, 56% and study GS-US-174-0103; 69%, 9%), respectively.
-
 Response to treatment with tenofovir disoproxil fumarate was comparable in nucleoside-experienced (n = 51) and nucleoside-naïve (n = 375) patients and in patients with normal ALT (n = 21) and abnormal ALT (n = 405) at baseline when studies GS-US-174-0102 and GS-US-174-0103 were combined.
 Forty-nine of the 51 nucleoside-experienced patients were previously treated with lamivudine.
 Seventy-three percent of nucleoside-experienced and 69% of nucleoside-naïve patients achieved complete response to treatment; 90% of nucleoside-experienced and 88% of nucleoside-naïve patients achieved HBV DNA suppression < 400 copies/ml.
 All patients with normal ALT at baseline and 88% of patients with abnormal ALT at baseline achieved HBV DNA suppression < 400 copies/ml.
+
 Experience beyond 48 weeks in studies GS-US-174-0102 and GS-US-174-0103
 In studies GS-US-174-0102 and GS-US-174-0103, after receiving double-blind treatment for 48 weeks (either tenofovir disoproxil 245 mg (as fumarate) or adefovir dipivoxil 10 mg), patients rolled over with no interruption in treatment to open-label tenofovir disoproxil fumarate.
 In studies GS-US-174-0102 and GS-US-174-0103, 77% and 61% of patients continued in the study through to 384 weeks, respectively.
-At weeks 96, 144, 192, 240, 288 and 384, viral suppression, biochemical and serological responses were maintained with continued tenofovir disoproxil fumarate treatment (see Tables 4 and 5 below).
+At weeks 96, 144, 192, 240, 288 and 384, viral suppression, biochemical and serological responses were maintained with continued tenofovir disoproxil fumarate treatment
+(see Tables 4 and 5 below).
 
 Table 4: Efficacy parameters in compensated HBeAg negative patients at week 96, 144, 192, 240, 288 and 384 open-label treatment
 
@@ -202,6 +202,7 @@ n 48 weeks of double-blind adefovir dipivoxil followed by 240 weeks open-label t
 Paired baseline and week 240 liver biopsy data were available for 331/489 patients who remained in studies GS-US-174-0102 and GS-US-174-0103 at week 240 (see Table 6 below).
 Ninety-five percent (225/237) of patients without cirrhosis at baseline and 99% (93/94) of patients with cirrhosis at baseline had either no change or an improvement in fibrosis (Ishak fibrosis score).
 Of the 94 patients with cirrhosis at baseline (Ishak fibrosis score: 5 - 6), 26% (24) experienced no change in Ishak fibrosis score and 72% (68) experienced regression of cirrhosis by week 240 with a reduction in Ishak fibrosis score of at least 2 points.
+
 Table 6: Histological response (%) in compensated HBeAg negative and HBeAg positive subjects at week 240 compared to baseline
 
 |  | Study 174-0102 (HBeAg negative) |  | Study 174-0103 (HBeAg positive) |  |
@@ -214,7 +215,6 @@ Response after addition of emtricitabine is excluded (total of 17 subjects acros
 b Knodell necroinflammatory score improvement of at least 2 points without worsening in Knodell fibrosis score.
 c 48 weeks double-blind tenofovir disoproxil fumarate followed by up to 192 weeks open-label.
 d 48 weeks double-blind adefovir dipivoxil followed by up to 192 weeks open-label tenofovir disoproxil fumarate.
-
 Experience in patients with HIV co-infection and prior lamivudine experience
 In a randomised, 48-week double-blind, controlled study of tenofovir disoproxil 245 mg (as fumarate) in adult patients co-infected with HIV-1 and chronic hepatitis B with prior lamivudine experience (study ACTG 5127), the mean serum HBV DNA levels at baseline in patients randomised to the tenofovir arm were 9.45 log10 copies/ml (n = 27).
 Treatment with tenofovir disoproxil 245 mg (as fumarate) was associated with a mean change in serum HBV DNA from baseline, in the patients for whom there was 48-week data, of -5.74 log10 copies/ml (n = 18).
@@ -234,11 +234,11 @@ Study GS-US-174-0108 is a randomised, double-blind, active controlled study eval
 In the tenofovir disoproxil fumarate treatment arm, patients had a mean CPT score of 7.2, mean HBV DNA of 5.8 log10 copies/ml and mean serum ALT of 61 U/l at baseline.
 Forty-two percent (19/45) of patients had at least 6 months of prior lamivudine experience, 20% (9/45) of patients had prior adefovir dipivoxil experience and 9 of 45 patients (20%) had lamivudine and/or adefovir dipivoxil resistance mutations at baseline.
 The co-primary safety endpoints were discontinuation due to an adverse event and confirmed increase in serum creatinine ≥ 0.5 mg/dl or confirmed serum phosphate of < 2 mg/dl.
+
 In patients with CPT scores ≤ 9, 74% (29/39) of tenofovir disoproxil fumarate, and 94% (33/35) of emtricitabine plus tenofovir disoproxil fumarate treatment groups achieved HBV DNA
 < 400 copies/ml after 48 weeks of treatment.
 
 Overall, the data derived from this study are too limited to draw any definitive conclusions on the comparison of emtricitabine plus tenofovir disoproxil fumarate versus tenofovir disoproxil fumarate, (see Table 7 below).
-
 Table 7: Safety and efficacy parameters in decompensated patients at week 48
 
 |  | Study 174-0108 |  |  |
@@ -256,18 +256,19 @@ a p-value comparing the combined tenofovir-containing arms versus the entecavir 
 
 Experience beyond 48 weeks in study GS-US-174-0108
 Using a noncompleter/switch = failure analysis, 50% (21/42) of subjects receiving tenofovir disoproxil fumarate, 76% (28/37) of subjects receiving emtricitabine plus tenofovir disoproxil fumarate and 52% (11/21) of subjects receiving entecavir achieved HBV DNA < 400 copies/ml at week 168.
-Experience in patients with lamivudine-resistant HBV at 96 weeks (study GS-US-174-0121)
+
+Experience in patients with lamivudine-resistant HBV at 240 weeks (study GS-US-174-0121)
 The efficacy and safety of 245 mg tenofovir disoproxil (as fumarate) was evaluated in a randomised, double-blind study (GS-US-174-0121) in HBeAg positive and HBeAg negative patients (n = 280) with compensated liver disease, viraemia (HBV DNA ≥ 1,000 IU/ml), and genotypic evidence of lamivudine resistance (rtM204I/V +/- rtL180M).
 Only five had adefovir-associated resistance mutations at baseline.
 One hundred forty-one and 139 adult subjects were randomised to a tenofovir disoproxil fumarate and emtricitabine plus tenofovir disoproxil fumarate treatment arm, respectively.
 Baseline demographics were similar between the two treatment arms: At baseline, 52.5% of subjects were HBeAg negative, 47.5% were HBeAg positive, mean HBV DNA level was 6.5 log10 copies/ml, and mean ALT was 79 U/l, respectively.
 
-After 96 weeks of treatment, 126 of 141 subjects (89%) randomised to tenofovir disoproxil fumarate had HBV DNA < 400 copies/ml, and 49 of 79 subjects (62%) had ALT normalisation.
-After 96 weeks of treatment with emtricitabine plus tenofovir disoproxil fumarate, 120 of 139 subjects (86%) had HBV DNA < 400 copies/ml, and 52 of 83 subjects (63%) had ALT normalisation.
-Among the HBeAg positive subjects randomised to tenofovir disoproxil fumarate, 10 of 65 subjects (15%) experienced HBeAg loss, and 7 of 65 subjects (11%) experienced anti-HBe seroconversion through week 96.
-In the HBeAg positive subjects randomised to emtricitabine plus tenofovir disoproxil fumarate, 9 of 68 subjects (13%) experienced HBeAg loss, and 7 of 68 subjects (10%) experienced anti-HBe seroconversion through week 96.
-No subject randomised to tenofovir disoproxil fumarate experienced HBsAg loss or seroconversion to anti-HBs.
-One subject randomised to emtricitabine plus tenofovir disoproxil fumarate experienced HBsAg loss.
+After 240 weeks of treatment, 117 of 141 subjects (83%) randomised to tenofovir disoproxil fumarate had HBV DNA < 400 copies/ml, and 51 of 79 subjects (65%) had ALT normalisation.
+After 240 weeks of treatment with emtricitabine plus tenofovir disoproxil fumarate, 115 of 139 subjects (83%) had HBV DNA < 400 copies/ml, and 59 of 83 subjects (71%) had ALT normalisation.
+Among the HBeAg positive subjects randomised to tenofovir disoproxil fumarate, 16 of 65 subjects (25%) experienced HBeAg loss, and 8 of 65 subjects (12%) experienced anti-HBe seroconversion through week 240.
+In the HBeAg positive subjects randomised to emtricitabine plus tenofovir disoproxil fumarate, 13 of 68 subjects (19%) experienced HBeAg loss, and 7 of 68 subjects (10%) experienced anti-HBe seroconversion through week 240.
+Two subjects randomised to tenofovir disoproxil fumarate experienced HBsAg loss by Week 240, but not seroconversion to anti-HBs.
+Five subjects randomised to emtricitabine plus tenofovir disoproxil fumarate experienced HBsAg loss, with 2 of these 5 subjects experiencing seroconversion to anti-HBs.
 
 Clinical resistance
 Four hundred and twenty-six HBeAg negative (GS-US-174-0102, n = 250) and HBeAg positive (GS-US-174-0103, n = 176) patients initially randomised to double-blind tenofovir disoproxil fumarate treatment and then switched to open-label tenofovir disoproxil fumarate treatment were evaluated for genotypic changes in HBV polymerase from baseline.
@@ -283,11 +284,16 @@ No amino acid substitutions associated with resistance to tenofovir disoproxil f
 Genotypic analysis was conducted for 5 subjects in the tenofovir disoproxil fumarate arm post week 48.
 No amino acid substitutions associated with tenofovir disoproxil fumarate resistance were detected in any subject.
 
-In study GS-US-174-0121, 141 patients with lamivudine resistance substitutions at baseline received tenofovir disoproxil fumarate for up to 96 weeks.
-Genotypic data from paired baseline and on treatment HBV isolates were available for 6 of 9 patients with HBV DNA > 400 copies/ml at their last time point on tenofovir disoproxil fumarate.
+In study GS-US-174-0121, 141 patients with lamivudine resistance substitutions at baseline received tenofovir disoproxil fumarate for up to 240 weeks.
+Cumulatively, there were 4 patients who experienced a viremic episode (HBV DNA>400 copies/ml) at their last timepoint on TDF.
+Among them, sequence data from paired baseline and on treatment HBV isolates were available for 2 of 4 patients.
 
-In a paediatric study (GS-US-174-0115), 52 patients (including 6 patients with lamivudine resistance mutations at baseline) received tenofovir disoproxil fumarate for up to 72 weeks.
-Genotypic evaluations were performed on all patients with HBV DNA > 400 copies/ml at week 48 (n = 6) and week 72 (n = 5).
+In a paediatric study (GS-US-174-0115), 52 patients (including 6 patients with lamivudine resistance mutations at baseline) initially received blinded tenofovir disoproxil fumarate for up to 72 weeks and then 51/52 patients switched to open-label tenofovir disoproxil fumarate (TDF-TDF group).
+Genotypic evaluations were performed on all patients within this group with HBV DNA
+> 400 copies/ml at week 48 (n = 6), week 72 (n = 5), week 96 (n = 4), week 144 (n = 2), and week 192 (n = 3).
+Fifty-four patients (including 2 patients with lamivudine resistance mutations at baseline) initially received blinded placebo treatment for 72 weeks, and 52/54 patients followed with tenofovir disoproxil fumarate (PLB-TDF group).
+Genotypic evaluations were performed on all patients within this group with HBV DNA > 400 copies/ml at week 96 (n = 17), week 144 (n = 7), and week 192
+(n = 8).
 
 HIV-1: In study GS-US-104-0321, 87 HIV-1 infected treatment-experienced patients 12 to < 18 years of age were treated with tenofovir disoproxil fumarate (n = 45) or placebo (n = 42) in combination with an optimised background regimen (OBR) for 48 weeks.
 
@@ -302,13 +308,30 @@ At week 72, 96% (27/28) of immune-active patients (HBV DNA ≥ 105 copies/ml, se
 > 1.5 x ULN) in the tenofovir disoproxil fumarate treatment group and 0% (0/32) of patients in the placebo group had HBV DNA < 400 copies/ml.
 Seventy-five percent (21/28) of immune-active patients in the tenofovir disoproxil fumarate group had normal ALT at week 72 compared to 34% (11/32) in the placebo group.
 
-No subjects met the primary safety endpoint of a 6% decrease in lumbar spine BMD.
-In subjects receiving tenofovir disoproxil fumarate or placebo, mean (SD) lumbar spine BMD Z-score was -0.43 (0.764) and -0.28 (0.813), and mean total body BMD Z-score was -0.20 (1.126) and -0.26 (0.878), respectively, at baseline.
-The mean (SD) change in lumbar spine BMD Z-score from baseline to week 72 in subjects receiving tenofovir disoproxil fumarate was -0.05 (0.310) and 0.07 (0.377) in those receiving placebo.
-The mean change in whole body BMD Z-score in subjects receiving tenofovir disoproxil fumarate was -0.15 (0.379) and 0.06 (0.361) in those receiving placebo.
-The mean percentage increase in whole body and lumbar spine BMD from baseline to week 72 was 2.84% and 4.95%, respectively, in subjects receiving tenofovir disoproxil fumarate.
-These mean percentage increases in whole body and lumbar spine BMD were 2.53% and 3.19% less, respectively, when compared to subjects receiving placebo.
-Three subjects in the tenofovir disoproxil fumarate group and 2 subjects in the placebo group had a decrease of > 4% in spine BMD.
+After 72 weeks of blinded randomized treatment, each subject could switch to open-label tenofovir disoproxil fumarate treatment up to week 192.
+After week 72, virologic suppression was maintained for those receiving double-blind tenofovir disoproxil fumarate followed by open-label tenofovir disoproxil fumarate (TDF-TDF group): 86.5% (45/52) of subjects in the TDF-TDF group had
+HBV DNA < 400 copies/ml at week 192.
+Among the subjects who received placebo during the double-blind period, the proportion of subjects with HBV DNA < 400 copies/mL rose sharply after they began treatment with open-label TDF (PLB- TDF group): 74.1% (40/54) of subjects in the PLB-TDF group had HBV DNA < 400 copies/ml at week 192.
+The proportion of subjects with ALT normalization at week 192 in the TDF-TDF group was 75.8% (25/33) among those who were HBeAg positive at baseline and 100.0% (2 of 2 subjects) among those who were HBeAg negative at baseline.
+Similar percentages of subjects in the TDF-TDF and PLB-TDF groups (37.5% and 41.7%, respectively) experienced seroconversion to anti-HBe through week 192.
+
+Bone Mineral Density (BMD) data from Study GS-US-174-0115 are summarized in Table 8:
+
+Table 8: Bone Mineral Density Evaluation at Baseline, Week 72 and 192
+
+|  | Baseline |  | Week 72 |  | Week 192 |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | TDF-TDF | PLB-TDF | TDF-TDF | PLB-TDF | TDF-TDF | PLB-TDF |
+| Lumbar spine mean (SD) BMD Z-scorea | −0.42 (0.762) | -0.26 (0.806) | -0.49 (0.852) | -0.23 (0.893) | -0.37 (0.946) | -0.44 (0.920) |
+| Lumbar spine mean (SD) change from baseline BMD Z-scorea | NA | NA | -0.06 (0.320) | 0.10 (0.378) | 0.02 (0.548) | -0.10 (0.543) |
+| Whole body mean (SD) BMD Z-scorea | −0.19 (1.110) | −0.23 (0.859) | −0.36 (1.077) | −0.12 (0.916) | −0.38 (0.934) | −0.42 (0.942) |
+| Whole body mean (SD) change from baseline BMD Z-scorea | NA | NA | −0.16 (0.355) | 0.09 (0.349) | -0.16 (0.521) | -0.19 (0.504) |
+| Lumbar spine BMD at least 6% decreaseb | NA | NA | 1.9% (1 subject) | 0% | 3.8% (2 subjects) | 3.7% (2 subjects) |
+| Whole body BMD at least 6% decreaseb | NA | NA | 0% | 0% | 0% | 1.9% (1 subject) |
+| Lumbar spine BMD mean % increase | NA | NA | 5.14% | 8.08% | 10.05% | 11.21% |
+| Whole body BMD mean % increase | NA | NA | 3.07% | 5.39% | 6.09% | 7.22% |
+
+NA = Not Applicable a BMD Z-scores not adjusted for height and weight b Primary safety endpoint through week 72
 
 [Viread 33 mg/g granules]
 
@@ -319,15 +342,21 @@ Both treatments produced similar results with regard to histological response (d
 In study GS-US-174-0103 a significantly greater proportion of patients in the tenofovir disoproxil fumarate group than in the adefovir dipivoxil group had normalised ALT and achieved HBsAg loss at week 48 (see Table 4 below).
 Table 4: Efficacy parameters in compensated HBeAg negative and HBeAg positive patients at week 48
 
-At weeks 96, 144, 192, 240, 288 and 384, viral suppression, biochemical and serological responses were maintained with continued tenofovir disoproxil fumarate treatment (see Tables 5 and 6 below).
-
+(see Tables 5 and 6 below).
 Table 5: Efficacy parameters in compensated HBeAg negative patients at week 96, 144, 192, 240, 288 and 384 open-label treatment
 
 Table 6: Efficacy parameters in compensated HBeAg positive patients at week 96, 144, 192, 240, 288 and 384 open-label treatment
 
 Paired baseline and week 240 liver biopsy data were available for 331/489 patients who remained in studies GS-US-174-0102 and GS-US-174-0103 at week 240 (see Table 7 below).
+
 Table 7: Histological response (%) in compensated HBeAg negative and HBeAg positive subjects at week 240 compared to baseline
 
 Overall, the data derived from this study are too limited to draw any definitive conclusions on the comparison of emtricitabine plus tenofovir disoproxil fumarate versus tenofovir disoproxil fumarate, (see Table 8 below).
-
 Table 8: Safety and efficacy parameters in decompensated patients at week 48
+
+Genotypic evaluations performed on all patients with HBV DNA > 400 copies/ml at week 48 (n = 16), 96 (n = 5), 144 (n = 1), 192 (n = 2), 240 (n = 1),
+288 (n = 1) and 384 (n = 2) of tenofovir disoproxil fumarate monotherapy showed that no mutations associated with tenofovir disoproxil fumarate resistance have developed.
+
+Bone Mineral Density (BMD) data from Study GS-US-174-0115 are summarized in Table 9:
+
+Table 9: Bone Mineral Density Evaluation at Baseline, Week 72 and 192

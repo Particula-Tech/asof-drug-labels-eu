@@ -23,7 +23,8 @@ The use of tenofovir disoproxil fumarate is not recommended in paediatric patien
 Hepatic impairment
 No dose adjustment is required in patients with hepatic impairment (see sections 4.4 and 5.2).
 
-If Viread 123 mg film-coated tablets are discontinued in patients co-infected with HIV and hepatitis B virus (HBV), these patients should be closely monitored for evidence of exacerbation of hepatitis (see section 4.4).
+If Viread 123 mg film-coated tablets are discontinued in patients co-infected with HIV and hepatitis B virus (HBV), these patients should be closely monitored for evidence of exacerbation of hepatitis
+(see section 4.4).
 
 Paediatric population
 The safety and efficacy of tenofovir disoproxil fumarate in HIV-1 infected children under 2 years of age have not been established.
@@ -41,7 +42,7 @@ The recommended dose for HIV-1 infected paediatric patients aged 6 to < 12 years
 
 Please refer to the Summaries of Product Characteristics for Viread 123 mg and 204 mg film-coated tablets for the treatment of HIV-1 infected paediatric patients aged 6 to < 12 years weighing 17 kg to < 22 kg and 28 kg to < 35 kg, respectively.
 
-If Viread 163 mg film-coated tablets are discontinued in patients co-infected with HIV and hepatitis B virus (HBV), these patients should be closely monitored for evidence of exacerbation of hepatitis (see section 4.4).
+If Viread 163 mg film-coated tablets are discontinued in patients co-infected with HIV and hepatitis B virus (HBV), these patients should be closely monitored for evidence of exacerbation of hepatitis
 
 Viread 163 mg film-coated tablets should be taken once daily, orally with food.
 
@@ -51,7 +52,7 @@ The recommended dose for HIV-1 infected paediatric patients aged 6 to < 12 years
 
 Please refer to the Summaries of Product Characteristics for Viread 123 mg and 163 mg film-coated tablets for the treatment of HIV-1 infected paediatric patients aged 6 to < 12 years weighing 17 kg to < 22 kg and 22 kg to < 28 kg, respectively.
 
-If Viread 204 mg film-coated tablets are discontinued in patients co-infected with HIV and hepatitis B virus (HBV), these patients should be closely monitored for evidence of exacerbation of hepatitis (see section 4.4).
+If Viread 204 mg film-coated tablets are discontinued in patients co-infected with HIV and hepatitis B virus (HBV), these patients should be closely monitored for evidence of exacerbation of hepatitis
 
 Viread 204 mg film-coated tablets should be taken once daily, orally with food.
 
@@ -68,7 +69,6 @@ Treatment discontinuation may be considered as follows:
 
 - In HBeAg positive patients without cirrhosis, treatment should be administered for at least 6-12 months after HBe seroconversion (HBeAg loss and HBV DNA loss with anti-HBe detection) is confirmed or until HBs seroconversion or there is loss of efficacy
 
-(see section 4.4).
 Serum ALT and HBV DNA levels should be followed regularly after treatment discontinuation to detect any late virological relapse.
 
 - In HBeAg negative patients without cirrhosis, treatment should be administered at least until HBs seroconversion or there is evidence of loss of efficacy.
@@ -86,7 +86,7 @@ The optimal duration of treatment is currently unknown.
 
 Viread is also available as 33 mg/g granules for the treatment of HIV-1 infection and chronic hepatitis B in adolescents aged 12 to < 18 years for whom a solid dosage form is not appropriate.
 
-Older people
+Elderly
 No data are available on which to make a dose recommendation for patients over the age of 65 years (see section 4.4).
 
 Tenofovir is eliminated by renal excretion and the exposure to tenofovir increases in patients with renal dysfunction.
@@ -109,10 +109,10 @@ For patients unable to take the granule formulation of tenofovir disoproxil fuma
 Severe renal impairment: 245 mg tenofovir disoproxil (as fumarate) may be administered every 72-96 hours (dosing twice a week).
 
 Haemodialysis patients: 245 mg tenofovir disoproxil (as fumarate) may be administered every 7 days following completion of a haemodialysis session*.
+
 These dose interval adjustments have not been confirmed in clinical studies.
 Simulations suggest that the prolonged dose interval using Viread 245 mg film-coated tablets is not optimal and could result in increased toxicity and possibly inadequate response.
 Therefore, clinical response to treatment and renal function should be closely monitored (see sections 4.4 and 5.2).
-
 * Generally, once weekly dosing assuming three haemodialysis sessions per week, each of approximately 4 hours duration or after 12 hours cumulative haemodialysis.
 
 No dosing recommendations can be given for non-haemodialysis patients with creatinine clearance
@@ -165,7 +165,8 @@ Chronic hepatitis B: The optimal duration of treatment is unknown.
 
 If the patient vomits within 1 hour of taking Viread, another dose should be taken.
 
-Dose adjustments using tenofovir disoproxil (as fumarate) 33 mg/g granules are recommended for patients with creatinine clearance < 50 ml/min.
+Dose adjustments using tenofovir disoproxil (as fumarate) 33 mg/g granules are recommended for patients with creatinine clearance
+< 50 ml/min.
 
 Limited data from clinical studies support once daily dosing of 245 mg tenofovir disoproxil (as fumarate), equivalent to 7.5 scoops of granules, in patients with mild renal impairment.
 
@@ -175,8 +176,8 @@ These pharmacokinetic modelling data have not been confirmed in clinical studies
 Administration of 132 mg (4 scoops) tenofovir disoproxil (as fumarate) 33 mg/g granules once daily is recommended.
 
 For patients with creatinine clearance 20-29 ml/min: Administration of 65 mg (2 scoops) tenofovir disoproxil (as fumarate) 33 mg/g granules once daily is recommended.
-For patients with creatinine clearance 10-19 ml/min: Administration of 33 mg (1 scoop) tenofovir disoproxil (as fumarate) 33 mg/g granules once daily is recommended.
 
+For patients with creatinine clearance 10-19 ml/min: Administration of 33 mg (1 scoop) tenofovir disoproxil (as fumarate) 33 mg/g granules once daily is recommended.
 Haemodialysis patients: 16.5 mg (0.5 scoop) tenofovir disoproxil (as fumarate) 33 mg/g granules may be administered following completion of each 4-hour haemodialysis session.
 
 These dose adjustments have not been confirmed in clinical studies.
