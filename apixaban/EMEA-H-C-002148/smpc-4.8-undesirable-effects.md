@@ -4,6 +4,7 @@ Summary of the safety profile
 The safety of apixaban has been investigated in 7 Phase III clinical studies including more than 21,000 patients: more than 5,000 patients in VTEp studies, more than 11,000 patients in NVAF studies and more than 4,000 patients in the VTE treatment (VTEt) studies, for an average total exposure of 20 days, 1.7 years and 221 days respectively (see section 5.1).
 
 Common adverse reactions were haemorrhage, contusion, epistaxis, and haematoma (see Table 2 for adverse reaction profile and frequencies by indication).
+
 In the VTEp studies, in total, 11% of the patients treated with apixaban 2.5 mg twice daily experienced adverse reactions.
 The overall incidence of adverse reactions related to bleeding with apixaban was 10% in the apixaban vs enoxaparin studies.
 
@@ -14,7 +15,7 @@ The incidence of ISTH major intraocular bleeding with apixaban was 0.18%/year.
 In the VTEt studies, the overall incidence of adverse reactions related to bleeding with apixaban was 15.6% in the apixaban vs enoxaparin/warfarin study and 13.3% in the apixaban vs placebo study (see section 5.1).
 
 Tabulated list of adverse reactions
-Table 2 shows the adverse reactions ranked under headings of system organ class and frequency using the following convention: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data) for VTEp, NVAF, and VTEt respectively.
+Table 2 shows the adverse reactions ranked under headings of system organ class and frequency using the following convention: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data) for VTEp, NVAF, and VTEt respectively.
 
 Table 2
 
@@ -67,6 +68,7 @@ Table 2
 * There were no occurrences of generalized pruritus in CV185057 (long term prevention of VTE)
 The use of Eliquis may be associated with an increased risk of occult or overt bleeding from any tissue or organ, which may result in posthaemorrhagic anaemia.
 The signs, symptoms, and severity will vary according to the location and degree or extent of the bleeding (see sections 4.4 and 5.1).
+
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
@@ -80,7 +82,7 @@ The safety of apixaban has been investigated in 4 Phase III clinical studies inc
 
 In the VTEt studies, the overall incidence of adverse reactions related to bleeding with apixaban was 15.6% in the apixaban vs enoxaparin/warfarin study and 13.3% in the apixaban vs placebo study
 
-Table 2 shows the adverse reactions ranked under headings of system organ class and frequency using the following convention: very common (≥1/10) common (≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data) for NVAF and VTEt respectively.
+Table 2 shows the adverse reactions ranked under headings of system organ class and frequency using the following convention: very common (≥ 1/10) common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data) for NVAF and VTEt respectively.
 
 | System Organ Class | Prevention of stroke and systemic embolism in adult patients with NVAF, with one or more risk factors (NVAF) | Treatment of DVT and PE, and prevention of recurrent DVT and PE (VTEt) |
 | --- | --- | --- |
