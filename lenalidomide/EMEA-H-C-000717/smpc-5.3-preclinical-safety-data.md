@@ -1,7 +1,7 @@
 # 5.3 Preclinical safety data
 
 An embryofoetal development study has been conducted in monkeys administered lenalidomide at doses from 0.5 and up to 4 mg/kg/day.
-Findings from this study indicate that lenalidomide produced external malformations including non-patent anus and malformations of upper and lower extremities (bent, shortened, malformed, malrotated and/or absent part of the extremities, oligo and/or polydactyly) in the offspring of female monkeys who received the drug during pregnancy.
+Findings from this study indicate that lenalidomide produced external malformations including non-patent anus and malformations of upper and lower extremities (bent, shortened, malformed, malrotated and/or absent part of the extremities, oligo and/or polydactyly) in the offspring of female monkeys who received the active substance during pregnancy.
 
 Various visceral effects (discoloration, red foci at different organs, small colourless mass above atrio-ventricular valve, small gall bladder, malformed diaphragm) were also observed in single foetuses.
 

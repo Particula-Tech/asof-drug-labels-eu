@@ -12,15 +12,15 @@ It may not be excluded that the efficacy of oral contraceptives may be reduced d
 Effective measures to avoid pregnancy must be taken (see sections 4.4 and 4.6).
 
 Warfarin
-Co-administration of multiple doses of 10 mg of lenalidomide had no effect on the single dose pharmacokinetics of R- and S- warfarin.
+Co-administration of multiple 10 mg doses of lenalidomide had no effect on the single dose pharmacokinetics of R- and S- warfarin.
 Co-administration of a single 25 mg dose of warfarin had no effect on the pharmacokinetics of lenalidomide.
 However, it is not known whether there is an interaction during clinical use (concomitant treatment with dexamethasone).
 Dexamethasone is a weak to moderate enzyme inducer and its effect on warfarin is unknown.
 Close monitoring of warfarin concentration is advised during the treatment.
 
 Digoxin
-Concomitant administration with lenalidomide 10 mg/day increased the plasma exposure of digoxin (0.5 mg, single dose) by 14% with a 90% CI (confidence interval) [0.52%-28.2%].
-It is not known whether the effect will be different in the therapeutic situation (higher lenalidomide doses and concomitant treatment with dexamethasone).
+Concomitant administration with lenalidomide 10 mg once daily increased the plasma exposure of digoxin (0.5 mg, single dose) by 14% with a 90% CI (confidence interval) [0.52%-28.2%].
+It is not known whether the effect will be different in the clinical use (higher lenalidomide doses and concomitant treatment with dexamethasone).
 Therefore, monitoring of the digoxin concentration is advised during lenalidomide treatment.
 
 Statins
@@ -28,7 +28,7 @@ There is an increased risk of rhabdomyolysis when statins are administered with 
 Enhanced clinical and laboratory monitoring is warranted notably during the first weeks of treatment.
 
 Dexamethasone
-Co-administration of single or multiple doses of dexamethasone (40 mg/ day) has no clinically relevant effect on the multiple dose pharmacokinetics of lenalidomide (25 mg/ day).
+Co-administration of single or multiple doses of dexamethasone (40 mg once daily) has no clinically relevant effect on the multiple dose pharmacokinetics of lenalidomide (25 mg once daily).
 
 Interactions with P-glycoprotein (P-gp) inhibitors
 In vitro, lenalidomide is a substrate of P-gp, but is not a P-gp inhibitor.

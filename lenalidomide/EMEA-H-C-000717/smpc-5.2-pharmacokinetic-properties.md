@@ -29,14 +29,14 @@ Therefore, lenalidomide is unlikely to cause any clinically relevant medicinal p
 In vitro studies indicate that lenalidomide is not a substrate of human breast cancer resistance protein (BCRP), multidrug resistance protein (MRP) transporters MRP1, MRP2, or MRP3, organic anion transporters (OAT) OAT1 and OAT3, organic anion transporting polypeptide 1B1 (OATP1B1), organic cation transporters (OCT) OCT1 and OCT2, multidrug and toxin extrusion protein (MATE) MATE1, and organic cation transporters novel (OCTN) OCTN1 and OCTN2.
 
 In vitro studies indicate that lenalidomide has no inhibitory effect on human bile salt export pump (BSEP), BCRP, MRP2, OAT1, OAT3, OATP1B1, OATP1B3, and OCT2.
+
 A majority of lenalidomide is eliminated through urinary excretion.
 The contribution of renal excretion to total clearance in subjects with normal renal function was 90%, with 4% of lenalidomide eliminated in faeces.
 
 Lenalidomide is poorly metabolized as 82% of the dose is excreted unchanged in urine.
 Hydroxy-lenalidomide and N-acetyl-lenalidomide represent 4.59% and 1.83% of the excreted dose, respectively.
 The renal clearance of lenalidomide exceeds the glomerular filtration rate and therefore is at least actively secreted to some extent.
-
-At doses of 5 to 25 mg/day, half-life in plasma is approximately 3 hours in healthy volunteers and ranges from 3 to 5 hours in patients with multiple myeloma, myelodysplastic syndromes or mantle cell lymphoma..
+At doses of 5 to 25 mg/day, half-life in plasma is approximately 3 hours in healthy volunteers and ranges from 3 to 5 hours in patients with multiple myeloma, myelodysplastic syndromes or mantle cell lymphoma.
 
 Older people
 No dedicated clinical studies have been conducted to evaluate pharmacokinetics of lenalidomide in the elderly.
@@ -60,27 +60,3 @@ There are no data available for patients with moderate to severe hepatic impairm
 
 Other intrinsic factors
 Population pharmacokinetic analyses indicate that body weight (33- 135 kg), gender, race and type of haematological malignancy (MM, MDS or MCL) do not have a clinically relevant effect on lenalidomide clearance in adult patients.
-
-[Revlimid 5 mg hard capsules]
-
-(all sentences already above)
-
-[Revlimid 7.5 mg hard capsules]
-
-However, in the pivotal multiple myeloma registration trials where the efficacy and safety were established for lenalidomide, the medicinal product was administered without regard to food intake.
-
-[Revlimid 10 mg hard capsules]
-
-(all sentences already above)
-
-[Revlimid 15 mg hard capsules]
-
-(all sentences already above)
-
-[Revlimid 20 mg hard capsules]
-
-(all sentences already above)
-
-[Revlimid 25 mg hard capsules]
-
-(all sentences already above)
