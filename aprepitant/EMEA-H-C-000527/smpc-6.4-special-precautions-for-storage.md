@@ -2,19 +2,11 @@
 
 Store in the original package in order to protect from moisture.
 
-[EMEND 80 mg hard capsules]
-
-(all sentences already above)
-
-[EMEND 125 mg hard capsules]
-
-(all sentences already above)
-
 [EMEND 165 mg hard capsules]
 
 (all sentences already above)
 
-[EMEND 125 mg hard capsules (SmPC 5)]
+[EMEND 125 mg hard capsules]
 
 (all sentences already above)
 

@@ -13,22 +13,14 @@ In a juvenile toxicity study in dogs treated from post natal day 14 to day 42, a
 There were no margins to clinically relevant exposure of aprepitant.
 For short term treatment according to recommended dose regimen these findings are considered unlikely to be clinically relevant.
 
-[EMEND 80 mg hard capsules]
+[EMEND 165 mg hard capsules]
 
-However, it should be noted that systemic exposure in rodents was similar or even lower than therapeutic exposure in humans at the 125 mg/80 mg dose.
+However, it should be noted that systemic exposure in rodents was similar or even lower than therapeutic exposure in humans at the 125 mg/80 mg and 165 mg doses.
 In particular, although no adverse effects were noted in reproduction studies at human exposure levels, the animal exposures are not sufficient to make an adequate risk assessment in man.
 
 [EMEND 125 mg hard capsules]
 
-(all sentences already above)
-
-[EMEND 165 mg hard capsules]
-
-However, it should be noted that systemic exposure in rodents was similar or even lower than therapeutic exposure in humans at the 125 mg/80 mg and 165 mg doses.
-
-[EMEND 125 mg hard capsules (SmPC 5)]
-
-(all sentences already above)
+However, it should be noted that systemic exposure in rodents was similar or even lower than therapeutic exposure in humans at the 125 mg/80 mg dose.
 
 [EMEND 125 mg powder for oral suspension]
 

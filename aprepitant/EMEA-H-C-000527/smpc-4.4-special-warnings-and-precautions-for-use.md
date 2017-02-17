@@ -16,29 +16,21 @@ For further information on interaction potential of aprepitant at higher and mul
 
 Excipients
 EMEND capsules contain sucrose.
-Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicine.
-
-[EMEND 80 mg hard capsules]
-
-EMEND should be used with caution in patients receiving concomitant orally administered active substances that are metabolised primarily through CYP3A4 and with a narrow therapeutic range, such as cyclosporine, tacrolimus, sirolimus, everolimus, alfentanil, ergot alkaloid derivatives, fentanyl, and quinidine (see section 4.5).
-Additionally, concomitant administration with irinotecan should be approached with particular caution as the combination might result in increased toxicity.
-
-Co-administration with warfarin (a CYP2C9 substrate)
-In patients on chronic warfarin therapy, the International Normalised Ratio (INR) should be monitored closely during treatment with EMEND and for 14 days following each 3-day course of EMEND (see section 4.5).
-
-[EMEND 125 mg hard capsules]
-
 Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrose-isomaltase insufficiency should not take this medicine.
 
 [EMEND 165 mg hard capsules]
 
 EMEND should be used with caution in patients receiving concomitant active substances that are metabolised primarily through CYP3A4 and with a narrow therapeutic range, such as cyclosporine, tacrolimus, sirolimus, everolimus, alfentanil, ergot alkaloid derivatives, fentanyl, and quinidine (see section 4.5).
+Additionally, concomitant administration with irinotecan should be approached with particular caution as the combination might result in increased toxicity.
 
+Co-administration with warfarin (a CYP2C9 substrate)
 In patients on chronic warfarin therapy, the International Normalised Ratio (INR) should be monitored closely during treatment with EMEND and for 14 days following the use of EMEND (see section 4.5).
 
-[EMEND 125 mg hard capsules (SmPC 5)]
+[EMEND 125 mg hard capsules]
 
-(all sentences already above)
+EMEND should be used with caution in patients receiving concomitant orally administered active substances that are metabolised primarily through CYP3A4 and with a narrow therapeutic range, such as cyclosporine, tacrolimus, sirolimus, everolimus, alfentanil, ergot alkaloid derivatives, fentanyl, and quinidine (see section 4.5).
+
+In patients on chronic warfarin therapy, the International Normalised Ratio (INR) should be monitored closely during treatment with EMEND and for 14 days following each 3-day course of EMEND (see section 4.5).
 
 [EMEND 125 mg powder for oral suspension]
 

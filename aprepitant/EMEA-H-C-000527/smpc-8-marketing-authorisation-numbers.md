@@ -3,24 +3,18 @@
 EU/1/03/262/007
 EU/1/03/262/008
 
-[EMEND 80 mg hard capsules]
-
-EU/1/03/262/001
-EU/1/03/262/002
-EU/1/03/262/003
-
-[EMEND 125 mg hard capsules]
-
-EU/1/03/262/004
-EU/1/03/262/005
-
 [EMEND 165 mg hard capsules]
 
 EU/1/03/262/009
 EU/1/03/262/010
 
-[EMEND 125 mg hard capsules (SmPC 5)]
+[EMEND 125 mg hard capsules]
 
+EU/1/03/262/001
+EU/1/03/262/002
+EU/1/03/262/003
+EU/1/03/262/004
+EU/1/03/262/005
 EU/1/03/262/006
 
 [EMEND 125 mg powder for oral suspension]

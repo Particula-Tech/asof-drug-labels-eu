@@ -2,7 +2,7 @@
 
 4 years
 
-[EMEND 80 mg hard capsules]
+[EMEND 165 mg hard capsules]
 
 (all sentences already above)
 
@@ -10,15 +10,8 @@
 
 (all sentences already above)
 
-[EMEND 165 mg hard capsules]
-
-(all sentences already above)
-
-[EMEND 125 mg hard capsules (SmPC 5)]
-
-(all sentences already above)
-
 [EMEND 125 mg powder for oral suspension]
 
 Unopened sachet: 2 years
-After reconstitution: 30 minutes when stored not above 30°C.
+After reconstitution: The oral suspension can be kept at room temperature (not above 30°C) for up to 3 hours.
+It can also be stored refrigerated (between 2°C and 8°C) for up to 72 hours.

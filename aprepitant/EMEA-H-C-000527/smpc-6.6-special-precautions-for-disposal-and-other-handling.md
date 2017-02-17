@@ -2,7 +2,7 @@
 
 No special requirements for disposal.
 
-[EMEND 80 mg hard capsules]
+[EMEND 165 mg hard capsules]
 
 (all sentences already above)
 
@@ -10,23 +10,19 @@ No special requirements for disposal.
 
 (all sentences already above)
 
-[EMEND 165 mg hard capsules]
-
-(all sentences already above)
-
-[EMEND 125 mg hard capsules (SmPC 5)]
-
-(all sentences already above)
-
 [EMEND 125 mg powder for oral suspension]
 
-Each single-use sachet is to be suspended in 4.6 mL of water giving a final concentration of 25 mg per mL.
+The content of each single-use sachet is to be suspended in 4.6 mL of water giving a final concentration of 25 mg per mL.
 
-- For more details on preparation and administration of the suspension, see the package leaflet, ‘Instructions for use.’
-- Use the oral dispenser to measure 4.6 mL of water, which is added into the mixing cup.
+- For more details on preparation and administration of the suspension, see the package leaflet and the instructions for preparation of the oral suspension for healthcare professionals.
+- Use the 5 mL oral dispenser to measure 4.6 mL of water, which is added into the mixing cup.
 - Pour entire contents of the sachet into the 4.6 mL of water and mix.
-- Once mixed, measure the recommended volume (dose) of suspension with the oral dispenser and administer the dose orally.
-- The volume (dose) of suspension should be administered orally within 30 minutes of mixing.
+- Once mixed, measure the recommended volume (dose) of suspension with the oral dispenser.
+  Choose the oral dispenser based on the dose.
+  Use the 1 mL oral dispenser if the dose is 1 mL or less and use the 5 mL oral dispenser if the dose is more than 1 mL.
+  Administer the dose orally.
+  If the dose is not administered immediately after measuring, the filled oral dispenser can be refrigerated (between 2°C and 8°C) for up to 72 hours prior to use.
+- The oral suspension can be kept at room temperature (not above 30°C) for up to 3 hours, prior to administration.
 - Discard any remaining suspension and waste material.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local regulations.

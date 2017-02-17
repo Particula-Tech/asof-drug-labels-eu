@@ -15,21 +15,14 @@ Shellac
 Potassium hydroxide
 Black iron oxide (E 172)
 
-[EMEND 80 mg hard capsules]
-
-(all sentences already above)
-
-[EMEND 125 mg hard capsules]
-
-Red iron oxide (E 172)
-
 [EMEND 165 mg hard capsules]
 
 Indigo carmine (E 132)
 
-[EMEND 125 mg hard capsules (SmPC 5)]
+[EMEND 125 mg hard capsules]
 
 Capsule shell (125 mg)
+Red iron oxide (E 172)
 
 Capsule shell (80 mg)
 

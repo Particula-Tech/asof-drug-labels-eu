@@ -34,7 +34,11 @@ No new safety concerns were identified.
 However, the data from this small study do not support a conclusion on the optimal dosing regimen.
 Further studies evaluating the use of aprepitant in paediatric patients are on-going (see section 4.2 for information on paediatric use).
 
-[EMEND 80 mg hard capsules]
+[EMEND 165 mg hard capsules]
+
+Fosaprepitant, a prodrug of aprepitant, when administered intravenously is rapidly converted to aprepitant.
+
+Based on a comparable pharmacokinetic/pharmacodynamic profile, the 1-day oral regimen of EMEND 165 mg is anticipated to have a similar efficacy profile to that of the 1-day regimen of fosaprepitant 150 mg and 3-day regimen of oral aprepitant (see section 5.2)
 
 3-day regimen of aprepitant in adults
 In 2 randomised, double-blind studies encompassing a total of 1,094 adult patients receiving chemotherapy that included cisplatin ≥70 mg/m2, aprepitant in combination with an ondansetron/dexamethasone regimen (see section 4.2) was compared with a standard regimen (placebo plus ondansetron 32 mg intravenously administered on Day 1 plus dexamethasone 20 mg orally on Day 1 and 8 mg orally twice daily on Days 2 to 4).
@@ -162,51 +166,6 @@ Overall (0-120 hours) 73.6 66.4 7.2 (1.0, 13.4)
 The benefit of aprepitant combination therapy in the full study population was mainly driven by the results observed in patients with poor control with the standard regimen such as in women, even though the results were numerically better regardless of age, tumour type or gender.
 Complete response to the aprepitant regimen and standard therapy, respectively, was reached in 209/324 (65 %) and 161/320 (50 %) in women and 83/101 (82 %) and 68/87 (78 %) of men.
 
-In a randomised, double-blind, active comparator-controlled clinical study that included 302 children and adolescents (aged 6 months to 17 years) receiving moderately or highly emetogenic chemotherapy, the aprepitant regimen was compared to a control regimen for the prevention of CINV.
-The efficacy of the aprepitant regimen was evaluated in a single cycle (Cycle 1).
-Patients had the opportunity to receive open-label aprepitant in subsequent cycles (Optional Cycles 2-6); however efficacy was not assessed in these optional cycles.
-The aprepitant regimen for adolescents aged 12 through 17 years (n=47) consisted of EMEND capsules 125 mg orally on Day 1 and 80 mg/day on Days 2 and 3 in combination with ondansetron on Day 1.
-The aprepitant regimen for children aged 6 months to less than 12 years (n=105) consisted of EMEND powder for oral suspension 3.0 mg/kg (up to 125 mg) orally on Day 1 and 2.0 mg/kg (up to 80 mg) orally on Days 2 and 3 in combination with ondansetron on Day 1.
-The control regimen in adolescents aged 12 through 17 years (n=48) and children aged 6 months to less than 12 years (n=102) consisted of placebo for aprepitant on Days 1, 2 and 3 in combination with ondansetron on Day 1.
-EMEND or placebo and ondansetron were administered 1 hour and 30 minutes prior to initiation of chemotherapy, respectively.
-Intravenous dexamethasone was permitted as part of the antiemetic regimen for paediatric patients in both age groups, at the discretion of the physician.
-A dose reduction (50 %) of dexamethasone was required for paediatric patients receiving aprepitant.
-No dose reduction was required for paediatric patients receiving the control regimen.
-Of the paediatric patients, 29 % in the aprepitant regimen and 28 % in the control regimen used dexamethasone as part of the regimen in Cycle 1.
-
-The antiemetic activity of EMEND was evaluated over a 5-day (120 hour) period following the initiation of chemotherapy on Day 1.
-The primary endpoint was complete response in the delayed phase (25 to 120 hours following initiation of chemotherapy) in Cycle 1.
-A summary of the key study results are shown in Table 4.
-Table 4
-Number (%) of paediatric patients with complete response and no vomiting by treatment group and phase – Cycle 1 (Intent to treat population)
-
-|  | Aprepitant regimen n/m (%) | Control regimen n/m (%) |
-| --- | --- | --- |
-| PRIMARY ENDPOINT |  |  |
-| Complete response* – Delayed phase | 77/152 (50.7)† | 39/150 (26.0) |
-| OTHER PRESPECIFIED ENDPOINTS |  |  |
-| Complete response* – Acute phase | 101/152 (66.4)‡ | 78/150 (52.0) |
-| Complete response* – Overall phase | 61/152 (40.1)† | 30/150 (20.0) |
-| No vomiting§ – Overall phase | 71/152 (46.7)† | 32/150 (21.3) |
-| *Complete response = No vomiting or retching or dry heaves and no use of rescue medication. †p < 0.01 when compared to control regimen ‡p < 0.05 when compared to control regimen §No vomiting = No vomiting or retching or dry heaves n/m = Number of patients with desired response/number of patients included in time point. Acute phase: 0 to 24 hours following initiation of chemotherapy. Delayed phase: 25 to 120 hours following initiation of chemotherapy. Overall phase: 0 to 120 hours following initiation of chemotherapy. |  |  |
-
-The estimated time to first vomiting after initiation of chemotherapy treatment was longer with the aprepitant regimen (estimated median time to first vomiting was 94.5 hours) compared with the control regimen group (estimated median time to first vomiting was 26.0 hours) as depicted in the Kaplan-Meier curves in Figure 2.
-
-Figure 2
-Time to first vomiting episode from start of chemotherapy administration - paediatric patients in the overall phase-Cycle 1 (Intent to treat population)
-
-An analysis of efficacy in subpopulations in Cycle 1 demonstrated that, regardless of age category, gender, use of dexamethasone for antiemetic prophylaxis, and emetogenicity of chemotherapy, the aprepitant regimen provided better control than the control regimen with respect to the complete response endpoints.
-
-[EMEND 125 mg hard capsules]
-
-(all sentences already above)
-
-[EMEND 165 mg hard capsules]
-
-Fosaprepitant, a prodrug of aprepitant, when administered intravenously is rapidly converted to aprepitant.
-
-Based on a comparable pharmacokinetic/pharmacodynamic profile, the 1-day oral regimen of EMEND 165 mg is anticipated to have a similar efficacy profile to that of the 1-day regimen of fosaprepitant 150 mg and 3-day regimen of oral aprepitant (see section 5.2)
-
 1-day regimen of fosaprepitant 150 mg in adults
 
 In a randomised, parallel, double-blind, active-controlled study, fosaprepitant 150 mg (N=1,147) was compared with a 3-day aprepitant regimen (N=1,175) in adult patients receiving a HEC regimen that included cisplatin (≥70 mg/m2).
@@ -214,9 +173,11 @@ The fosaprepitant regimen consisted of fosaprepitant 150 mg on
 Day 1 in combination with intravenous ondansetron 32 mg on Day 1 and dexamethasone 12 mg on Day 1, 8 mg on Day 2, and 8 mg twice daily on Days 3 and 4.
 The aprepitant regimen consisted of aprepitant 125 mg on Day 1 and 80 mg/day on Days 2 and 3 in combination with intravenous ondansetron 32 mg on Day 1 and dexamethasone 12 mg on Day 1 and 8 mg daily on Days 2 through 4.
 Fosaprepitant placebo, aprepitant placebo, and dexamethasone placebo (in the evenings on Days 3 and 4) were used to maintain blinding (see section 4.2).
+
 Efficacy was based on evaluation of the following composite measures: complete response in both the overall and delayed phases and no vomiting in the overall phase.
 Fosaprepitant 150 mg was shown to be non-inferior to that of the 3-day regimen of aprepitant.
 A summary of the primary and secondary endpoints is shown in Table 4.
+Table 4
 
 ENDPOINTS* Fosaprepitant Aprepitant regimen Difference†
 regimen (N =1,134) ** (95 % CI)
@@ -242,13 +203,47 @@ Miettinen and Nurminen and adjusted for Gender.
 
 Studies evaluating the use of aprepitant in paediatric patients are on-going (see section 4.2 for information on paediatric use).
 
-[EMEND 125 mg hard capsules (SmPC 5)]
+[EMEND 125 mg hard capsules]
 
 Aprepitant regimen Standard therapy Differences*
 (N= 521) † (N= 524) †
 COMPOSITE MEASURES % %
 
 % (95 % CI)
+
+In a randomised, double-blind, active comparator-controlled clinical study that included 302 children and adolescents (aged 6 months to 17 years) receiving moderately or highly emetogenic chemotherapy, the aprepitant regimen was compared to a control regimen for the prevention of CINV.
+The efficacy of the aprepitant regimen was evaluated in a single cycle (Cycle 1).
+Patients had the opportunity to receive open-label aprepitant in subsequent cycles (Optional Cycles 2-6); however efficacy was not assessed in these optional cycles.
+The aprepitant regimen for adolescents aged 12 through 17 years (n=47) consisted of EMEND capsules 125 mg orally on Day 1 and 80 mg/day on Days 2 and 3 in combination with ondansetron on Day 1.
+The aprepitant regimen for children aged 6 months to less than 12 years (n=105) consisted of EMEND powder for oral suspension 3.0 mg/kg (up to 125 mg) orally on Day 1 and 2.0 mg/kg (up to 80 mg) orally on Days 2 and 3 in combination with ondansetron on Day 1.
+The control regimen in adolescents aged 12 through 17 years (n=48) and children aged 6 months to less than 12 years (n=102) consisted of placebo for aprepitant on Days 1, 2 and 3 in combination with ondansetron on Day 1.
+EMEND or placebo and ondansetron were administered 1 hour and 30 minutes prior to initiation of chemotherapy, respectively.
+Intravenous dexamethasone was permitted as part of the antiemetic regimen for paediatric patients in both age groups, at the discretion of the physician.
+A dose reduction (50 %) of dexamethasone was required for paediatric patients receiving aprepitant.
+No dose reduction was required for paediatric patients receiving the control regimen.
+Of the paediatric patients, 29 % in the aprepitant regimen and 28 % in the control regimen used dexamethasone as part of the regimen in Cycle 1.
+
+The antiemetic activity of EMEND was evaluated over a 5-day (120 hour) period following the initiation of chemotherapy on Day 1.
+The primary endpoint was complete response in the delayed phase (25 to 120 hours following initiation of chemotherapy) in Cycle 1.
+A summary of the key study results are shown in Table 4.
+Number (%) of paediatric patients with complete response and no vomiting by treatment group and phase – Cycle 1 (Intent to treat population)
+
+|  | Aprepitant regimen n/m (%) | Control regimen n/m (%) |
+| --- | --- | --- |
+| PRIMARY ENDPOINT |  |  |
+| Complete response* – Delayed phase | 77/152 (50.7)† | 39/150 (26.0) |
+| OTHER PRESPECIFIED ENDPOINTS |  |  |
+| Complete response* – Acute phase | 101/152 (66.4)‡ | 78/150 (52.0) |
+| Complete response* – Overall phase | 61/152 (40.1)† | 30/150 (20.0) |
+| No vomiting§ – Overall phase | 71/152 (46.7)† | 32/150 (21.3) |
+| *Complete response = No vomiting or retching or dry heaves and no use of rescue medication. †p < 0.01 when compared to control regimen ‡p < 0.05 when compared to control regimen §No vomiting = No vomiting or retching or dry heaves n/m = Number of patients with desired response/number of patients included in time point. Acute phase: 0 to 24 hours following initiation of chemotherapy. Delayed phase: 25 to 120 hours following initiation of chemotherapy. Overall phase: 0 to 120 hours following initiation of chemotherapy. |  |  |
+
+The estimated time to first vomiting after initiation of chemotherapy treatment was longer with the aprepitant regimen (estimated median time to first vomiting was 94.5 hours) compared with the control regimen group (estimated median time to first vomiting was 26.0 hours) as depicted in the Kaplan-Meier curves in Figure 2.
+
+Figure 2
+Time to first vomiting episode from start of chemotherapy administration - paediatric patients in the overall phase-Cycle 1 (Intent to treat population)
+
+An analysis of efficacy in subpopulations in Cycle 1 demonstrated that, regardless of age category, gender, use of dexamethasone for antiemetic prophylaxis, and emetogenicity of chemotherapy, the aprepitant regimen provided better control than the control regimen with respect to the complete response endpoints.
 
 [EMEND 125 mg powder for oral suspension]
 

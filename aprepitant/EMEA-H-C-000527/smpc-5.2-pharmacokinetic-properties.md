@@ -62,10 +62,25 @@ Relationship between concentration and effect
 Using a highly specific NK1-receptor tracer, positron emission tomography (PET) studies in healthy young men have shown that aprepitant penetrates into the brain and occupies NK1 receptors in a dose-and plasma-concentration-dependent manner.
 Aprepitant plasma concentrations achieved with the 3-day regimen of EMEND are predicted to provide greater than 95 % occupancy of brain NK1 receptors.
 
-[EMEND 80 mg hard capsules]
+[EMEND 165 mg hard capsules]
+
+The AUC0-∞of aprepitant following oral administration of 165 mg was equivalent to the AUC0-∞of 150 mg fosaprepitant administered intravenously, while the Cmax was 2.4-fold lower.
+
+Following a single oral dose of aprepitant 165 mg to healthy volunteers, the mean AUC0-∞of aprepitant was 32.5 µg•hr/mL and the mean maximal aprepitant concentration was 1.67 µg/mL.
+
+Oral administration of the capsule with a standard light breakfast and a high-fat breakfast resulted in an up to an 8 % and a 47 % increase in AUC0-∞of aprepitant, respectively.
+This increase is not considered clinically relevant.
+
+Following a single intravenously administered 100 mg dose of [14C]-fosaprepitant, a prodrug for aprepitant, to healthy subjects, 57 % of the radioactivity was recovered in urine and 45 % in faeces.
+
+The terminal half-life ranged from approximately 9 to 13 hours.
+
+A PET study in healthy young men administered a single oral dose of 165 mg aprepitant or a single intravenous dose of 150 mg fosaprepitant demonstrated similar brain NK1 receptor occupancy at Tmax, (≥99 %), 24 hours (≥99 %), 48 hours (≥97 %), and 120 hours (37 to 76 %) following dosing.
+Occupancy of brain NK1 receptors by aprepitant correlate well with aprepitant plasma concentrations.
+
+[EMEND 125 mg hard capsules]
 
 Oral administration of the capsule with an approximately 800 Kcal standard breakfast resulted in an up to 40 % increase in AUC of aprepitant.
-This increase is not considered clinically relevant.
 
 The pharmacokinetics of aprepitant is non-linear across the clinical dose range.
 In healthy young adults, the increase in AUC0-∞was 26 % greater than dose proportional between 80 mg and 125 mg single doses administered in the fed state.
@@ -74,9 +89,7 @@ Following oral administration of a single 125 mg dose of EMEND on Day 1 and 80 m
 Days 1 and 3, respectively.
 Cmax was 1.6 ± 0.36 µg/mL and 1.4 ± 0.22 µg/mL on Days 1 and 3, respectively.
 
-Following a single intravenously administered 100 mg dose of [14C]-fosaprepitant, a prodrug for aprepitant, to healthy subjects, 57 % of the radioactivity was recovered in urine and 45 % in faeces.
-
-The terminal half-life ranged from approximately 9 to 13 hours.
+In healthy young adults, aprepitant accounts for approximately 19 % of the radioactivity in plasma over 72 hours following a single intravenous administration 100-mg dose of [14C]-fosaprepitant, a prodrug for aprepitant, indicating a substantial presence of metabolites in the plasma.
 
 Paediatric population: As part of a 3-day regimen, dosing of aprepitant capsules (125/80/80-mg) in adolescent patients (aged 12 through 17 years) achieved an AUC0-24hr above 17 µg•hr/mL on Day 1 with concentrations (Cmin) at the end of Days 2 and 3 above 0.4 µg/mL in a majority of patients.
 The median peak plasma concentration (Cmax) was approximately 1.3 µg/mL on Day 1, occurring at approximately 4 hours.
@@ -86,25 +99,6 @@ The median peak plasma concentration (Cmax) was approximately 1.2 µg/mL on Day 
 A population pharmacokinetic analysis of aprepitant in paediatric patients (aged 6 months through 17 years) suggests that gender and race have no clinically meaningful effect on the pharmacokinetics of aprepitant.
 
 Aprepitant plasma concentrations achieved with the 3-day regimen of EMEND in adults are predicted to provide greater than 95 % occupancy of brain NK1 receptors.
-
-[EMEND 125 mg hard capsules]
-
-(all sentences already above)
-
-[EMEND 165 mg hard capsules]
-
-The AUC0-∞of aprepitant following oral administration of 165 mg was equivalent to the AUC0-∞of 150 mg fosaprepitant administered intravenously, while the Cmax was 2.4-fold lower.
-
-Following a single oral dose of aprepitant 165 mg to healthy volunteers, the mean AUC0-∞of aprepitant was 32.5 µg•hr/mL and the mean maximal aprepitant concentration was 1.67 µg/mL.
-
-Oral administration of the capsule with a standard light breakfast and a high-fat breakfast resulted in an up to an 8 % and a 47 % increase in AUC0-∞of aprepitant, respectively.
-
-A PET study in healthy young men administered a single oral dose of 165 mg aprepitant or a single intravenous dose of 150 mg fosaprepitant demonstrated similar brain NK1 receptor occupancy at Tmax, (≥99 %), 24 hours (≥99 %), 48 hours (≥97 %), and 120 hours (37 to 76 %) following dosing.
-Occupancy of brain NK1 receptors by aprepitant correlate well with aprepitant plasma concentrations.
-
-[EMEND 125 mg hard capsules (SmPC 5)]
-
-In healthy young adults, aprepitant accounts for approximately 19 % of the radioactivity in plasma over 72 hours following a single intravenous administration 100-mg dose of [14C]-fosaprepitant, a prodrug for aprepitant, indicating a substantial presence of metabolites in the plasma.
 
 [EMEND 125 mg powder for oral suspension]
 
