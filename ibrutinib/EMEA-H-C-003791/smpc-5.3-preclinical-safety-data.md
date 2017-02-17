@@ -24,6 +24,5 @@ Consequently the foetal NOAEL was 10 mg/kg/day (approximately 1.3 times the AUC 
 In pregnant rabbits, ibrutinib at a dose of 15 mg/kg/day or greater was associated with skeletal malformations (fused sternebrae) and ibrutinib at a dose of 45 mg/kg/day was associated with increased post-implantation loss.
 Ibrutinib caused malformations in rabbits at a dose of 15 mg/kg/day (approximately 2.0 times the exposure (AUC) in patients with MCL administered ibrutinib 560 mg daily and 2.8 times the exposure in patients with CLL or WM receiving ibrutinib dose 420 mg per day).
 Consequently the foetal NOAEL was 5 mg/kg/day (approximately 0.7 times the AUC of ibrutinib at a dose of 560 mg daily) (see section 4.6).
-
 Fertility
 No effects on fertility or reproductive capacities were observed in male or female rats up to the maximum dose tested, 100 mg/kg/day (Human Equivalent Dose [HED]16 mg/kg/day).

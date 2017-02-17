@@ -4,7 +4,6 @@ Summary of the safety profile
 The safety profile is based on pooled data from 981 patients treated with IMBRUVICA in three phase 2 clinical studies and four randomised phase 3 studies and from post-marketing experience.
 Patients treated for MCL in clinical studies received IMBRUVICA at 560 mg once daily and patients treated for CLL or WM in clinical studies received IMBRUVICA at 420 mg once daily.
 All patients in clinical studies received IMBRUVICA until disease progression or no longer tolerated.
-
 The most commonly occurring adverse reactions (≥20%) were diarrhoea, neutropenia, haemorrhage (e.g., bruising), musculoskeletal pain, nausea, rash, and pyrexia.
 The most common grade 3/4 adverse reactions (≥5%) were neutropenia, pneumonia, thrombocytopenia, and febrile neutropenia.
 
@@ -33,7 +32,7 @@ Leukocytosis 2 1
 Lymphocytosis 2 1
 Uncommon Leukostasis syndrome < 1 < 1
 Immune system disorders Common Interstitial lung disease*,#,a 2 < 1
-Metabolism and nutrition Common Tumour lysis syndrome 1 1
+Metabolism and nutrition Common Tumour lysis syndromea 1 1
 disorders Hyperuricaemia 7 2
 Nervous system disorders Very common Headache 13 1
 Common Dizziness 9 0
@@ -52,9 +51,11 @@ Nausea 27 1
 Constipation 16 < 1
 Hepatobiliary disorders Not known Hepatic failure*,a Not known Not known
 Skin and subcutaneous Very common Rash* 22 2
-tissue disorders Common Urticaria 1 < 1
-Erythema 2 0
-Uncommon Angioedema < 1 < 1
+tissue disorders Common Urticariaa 1 < 1
+Erythemaa 2 0
+Onychoclasisa 2 0
+Uncommon Angioedemaa < 1 < 1
+Not known Stevens-Johnson syndromea Not known Not known
 Musculoskeletal and Very common Arthralgia 12 1
 connective tissue disorders Muscle spasms 14 < 1
 Musculoskeletal pain* 28 3

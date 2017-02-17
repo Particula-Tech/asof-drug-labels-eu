@@ -25,6 +25,11 @@ Some of these infections have been associated with hospitalisation and death.
 Most patients with fatal infections also had neutropenia.
 Patients should be monitored for fever, neutropenia and infections and appropriate anti-infective therapy should be instituted as indicated.
 
+Cases of Progressive Multifocal Leukoencephalopathy (PML) including fatal ones have been reported following the use of ibrutinib within the context of a prior or concomitant immunosuppressive therapy.
+Physicians should consider PML in the differential diagnosis in patients with new or worsening neurological, cognitive or behavioral signs or symptoms.
+If PML is suspected then appropriate diagnostic evaluations should be undertaken and treatment suspended until PML is excluded.
+If any doubt exists, referral to a neurologist and appropriate diagnostic measures for PML including MRI scan preferably with contrast, cerebrospinal fluid (CSF) testing for JC Viral DNA and repeat neurological assessments should be considered.
+
 Cytopenias
 Treatment-emergent grade 3 or 4 cytopenias (neutropenia, thrombocytopenia and anaemia) were reported in patients treated with IMBRUVICA.
 Monitor complete blood counts monthly.
@@ -36,7 +41,7 @@ If symptoms develop, interrupt IMBRUVICA and manage ILD appropriately.
 If symptoms persist, consider the risks and benefits of IMBRUVICA treatment and follow the dose modification guidelines.
 
 Atrial fibrillation/flutter
-Atrial fibrillation and atrial flutter have been reported in patients treated with IMBRUVICA, particularly in patients with cardiac risk factors, acute infections, and a previous history of atrial fibrillation.
+Atrial fibrillation and atrial flutter have been reported in patients treated with IMBRUVICA, particularly in patients with cardiac risk factors, hypertension, acute infections, and a previous history of atrial fibrillation.
 Periodically monitor all patients clinically for atrial fibrillation.
 Patients who develop arrhythmic symptoms or new onset of dyspnoea should be evaluated clinically and if indicated have an electrocardiogram (ECG) performed.
 
