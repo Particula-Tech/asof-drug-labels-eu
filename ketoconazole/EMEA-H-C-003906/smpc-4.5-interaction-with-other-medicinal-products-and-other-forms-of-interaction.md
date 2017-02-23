@@ -16,9 +16,11 @@ Effects of Ketoconazole HRA on the metabolism of the other medicinal products
 
 - Ketoconazole HRA is a potent inhibitor of CYP3A4 and can inhibit the metabolism of drugs metabolised by this enzyme.
   This can result in an increase and/or prolongation of their effects, including adverse effects.
+- In vitro data indicate that ketoconazole is an inhibitor of CYP1A2 and does not significantly inhibit CYP 2A6 and 2E1.
+  At clinically relevant concentrations inhibition of CYP2B6, 2C9/C8, 2C19 and 2D6 by ketoconazole cannot be excluded.
 - Ketoconazole HRA can inhibit the transport of drugs by P-gp, which may result in an increased plasma concentration of these drugs.
 - Ketoconazole inhibits BCRP (Breast Cancer Resistance Protein) in in vitro studies.
-  Data of inhibition indicate that there is no risk of interaction with BCRP substrates at the systemic level.
+  Data of inhibition indicate that risk of interaction with BCRP substrates cannot be excluded at the systemic level with very high doses of ketoconazole.
   However ketoconazole may be an inhibitor of BCRP at the intestinal level at clinically relevant concentrations.
   Considering the rapid absorption of ketoconazole, intake of BCRP substrates should be postponed for 2 hours after ketoconazole intake.
 
@@ -32,9 +34,9 @@ The following list is not an inclusive list of interactions between ketoconazole
 | Analgesic opioid |  |  |
 | Methadone | Potential ↑ in plasma concentrations of methadone | Contraindicated due to the increased risk of serious cardiovascular events including QT prolongation and torsade de pointes, or respiratory or CNS depression (see section 4.3). |
 | Buprenorphine IV and sublingual | Buprenorphine: AUC: ↑ 1.5-fold Cmax: ↑1.7-fold | Careful monitoring. The buprenorphine dose should be adjusted. |
-| Alfentanil, fentanyl | Potential ↑in plasma concentrations of alfentanil and fentanyl | Careful monitoring of adverse effects (respiratory depression, sedation) is recommended. It may be necessary to lower the dose of alfentanil and fentanyl. |
-| Oxycodone | ↑in plasma concentrations of oxycodone have been observed | Careful monitoring. |
-|  |  | The oxycodone dose may be adjusted. |
+| Alfentanil, fentanyl | Potential ↑in plasma concentrations of | Careful monitoring of adverse effects |
+|  | alfentanil and fentanyl | (respiratory depression, sedation) is recommended. It may be necessary to lower the dose of alfentanil and fentanyl. |
+| Oxycodone | ↑in plasma concentrations of oxycodone have been observed | Careful monitoring. The oxycodone dose may be adjusted. |
 | Antiarrhythmics |  |  |
 | Disopyramide Quinidine Dronedarone | Potential ↑in plasma concentrations of disopyramide and quinidine Repeated doses of 200 mg ketoconazole daily resulted in a 17-fold increase in dronedarone exposure | Contraindicated due to the risk of serious cardiovascular events including QT prolongation (see section 4.3). |
 | Digoxin | Potential ↑in plasma concentrations of digoxine | Careful monitoring of digoxin levels is recommended. |
@@ -49,6 +51,8 @@ The following list is not an inclusive list of interactions between ketoconazole
 | Antidiabetics |  |  |
 | Repaglinide | Repaglinide: AUC: ↑ 1.2-fold Cmax: ↑ 1.2-fold | Careful monitoring. Dose adjustement of repaglinide may be required. |
 | Saxagliptin | Saxagliptin: AUC: ↑ 2.5-fold Cmax: ↑ 1.6-fold Associated with a decrease in corresponding values for the active metabolite | Careful monitoring. Dose adjustment of saxagliptin may be required. |
+| Tolbutamide | Tolbutamide: | Careful monitoring. |
+|  | AUC: ↑ 1.7-fold | Dose adjustment of tolbutamide may be required. |
 | Anti-infectives |  |  |
 | Rifabutin Rifampicin Isoniazid | Potential ↑ in plasma concentrations of rifabutine. Potencial ↓ in plasma concentrations of ketoconazole are expected. (CYP3A4 enzyme induction) | Not recommended. (See also “Effects of other medicinal products on the metabolism of Ketoconazole HRA ”) |
 | Telithromycin Clarithromycin | Telithromycine: AUC: ↑ 2-fold Cmax: ↑1.5-fold Potential ↑in plasma concentrations of clarithromycin | Not recommended. Contraindicated in patients with severe renal impairment due to the risk of QT interval prolongation and serious hepatic adverse reactions (see section 4.3). |
@@ -59,10 +63,10 @@ The following list is not an inclusive list of interactions between ketoconazole
 | Antineoplastics |  |  |
 | Sunitinib Dasatinib Lapatinib Nilotinib Erlotinib Dabrafenib Cabozantinib | Sunitinib AUC: ↑ 1.5-fold Cmax: ↑ 1.5-fold Lapatinib: AUC: ↑ 3.6-fold Nilotinib: AUC: ↑ 3.0-fold Erlotinib: AUC: ↑ 1.9-fold Cmax: ↑ 1.7-fold Dasatinib ↑in plasma concentrations of Dasatinib have been observed Dabrafenib AUC: ↑ 1.7-fold Cmax: ↑ 1.3-fold Cabozantinib AUC: ↑ 1.4-fold Cmax: ↔ | Not recommended due to the risk of increased exposure to these drugs and QT prolongation. |
 | Ibrutinib | Ibrutinib: AUC: ↑ 24-fold Cmax: ↑ 29-fold | Not recommended as it may increase ibrutinib-related toxicity. |
-| Crizotinib | Crizotinib AUC: ↑ 3.2-fold Cmax: ↑ 1.4-fold | Not recommended due to the risk of QT interval prolongation and serious hepatic adverse reactions. Monitoring of QT-prolongation if used concomitantly. |
+| Crizotinib | Crizotinib AUC: ↑ 3.2-fold Cmax: ↑ 1.4-fold | Not recommended due to the risk of QT interval prolongation and serious hepatic adverse reactions. |
+|  |  | Monitoring of QT-prolongation if used concomitantly. |
 | Irinotecan | Irinotecan: AUC: ↑ 2.1-fold | Contraindicated due to an alteration of the metabolism of this medicinal product (see section 4.3). |
-| Bortezomib Busulfan Docetaxel | Bortezomib: AUC: ↑ 1.4-fold Imatinib: | Careful monitoring. Dose adjustment of each drug may be required. |
-| Imatinib Cabazitaxel | AUC: ↑ 1.4-fold Cmax: ↑ 1.3-fold ↑in plasma concentrations of docetaxel have been observed Potential ↑in plasma concentrations of busulfan Cabazitaxel AUC: ↑ 1.3-fold |  |
+| Bortezomib Busulfan Docetaxel Imatinib Cabazitaxel | Bortezomib: AUC: ↑ 1.4-fold Imatinib: AUC: ↑ 1.4-fold Cmax: ↑ 1.3-fold ↑in plasma concentrations of docetaxel have been observed Potential ↑in plasma concentrations of busulfan Cabazitaxel AUC: ↑ 1.3-fold | Careful monitoring. Dose adjustment of each drug may be required. |
 | Paclitaxel | Paclitaxel: No change in plasma concentration were shown with paclitaxel concentrate. No studies were performed with albumin bound nanoparticules. | Careful monitoring. Dose adjustment of paclitaxel may be required. |
 | Vincristine, vinblastine (vinca alkaloids) | Potential ↑in plasma concentrations of vinca alkaloids. | Careful monitoring as it may cause an earlier onset and/or an increased severity of side-effects. |
 | Antipsychotics, Anxiolytics and Hypnotics |  |  |
@@ -98,6 +102,7 @@ The following list is not an inclusive list of interactions between ketoconazole
 | Gastrointestinal Drugs |  |  |
 | Aprepitant | Aprepitant: AUC: ↑ 5-fold | Careful monitoring. Dose adjustment of aprepitant may be required |
 | Domperidone | Domperidone: AUC: ↑ 3.0 fold Cmax: ↑ 3.0 fold | Not recommended due to an increased risk in QT prolongation. |
+| Naloxegol | Naloxegol AUC ↑ 12.9 fold Cmax ↑ 9.6 fold | Not recommended |
 | Immunosuppressants |  |  |
 | Everolimus Sirolimus (rapamycin) | Everolimus: AUC: ↑ 15.3-fold Cmax: ↑ 4.1-fold Sirolimus (rapamycin): AUC: ↑ 10.9-fold Cmax: ↑ 4.4-fold | Contraindicated due to the large increase in these drugs concentrations (see section 4.3). |
 | Temsirolimus Tacrolimus Ciclosporine Budesonide Ciclesonide | Temsirolimus: AUC: ↔ Cmax: ↔ Ciclesonide active metabolite: AUC: ↑ 3.5-fold Rest of drugs ↑in plasma concentrations of these drugs have been observed | Not recommended unless necessary. Careful monitoring and dose adjustment of these drugs may be required. |
@@ -120,11 +125,11 @@ The following list is not an inclusive list of interactions between ketoconazole
 * Rosuvastatin is not a CYP 3A4 substrate.
 Ketoconazole HRA did not produce any change in rosuvastatin pharmacokinetics, therefore, co-administration of Ketoconazole HRA and rosuvastatin is unlikely to increase the risk of toxicity of rosuvastatin.
 Other statins that are not CYP3A4 substrates (pravastatin and fluvastatin) can be co-administered with Ketoconazole HRA.
-
 Other interactions
 
 Exceptional cases of a disulfiram-like reaction have been reported when ketoconazole was co-administered with alcohol, characterised by flushing, rash, peripheral oedema, nausea and headache, have been reported.
 All symptoms resolved completely within a few hours.
 
 Co-administration of ketoconazole and pasireotide is not recommended since the combination can lead to a QT prolongation in patients with known cardiac rhythm disorders.
+
 There is no evidence to suggest that there is an interaction between Ketoconazole HRA and other steroidogenesis inhibitors (ie metyrapone).

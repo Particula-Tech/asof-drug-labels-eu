@@ -3,6 +3,7 @@
 The toxicological profile of ketoconazole has been established from long term studies in rats and dogs.
 
 Bone fragility and broken legs were reported in rats but were not observed in other species.
+
 Consistent with the pharmacological action of ketaconazole, effects were observed on adrenal and gonads in rats and dogs.
 
 Elevated liver enzymes and histological changes in the liver consisting in dose–related lipofuscin accumulation in hepatocytes were reported in rats and dogs after repeated administration of ketoconazole.

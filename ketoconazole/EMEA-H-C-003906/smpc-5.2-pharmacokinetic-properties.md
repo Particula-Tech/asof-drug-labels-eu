@@ -35,3 +35,6 @@ The pharmacokinetics of ketoconazole were not significantly different in patient
 Elderly patients
 No formal evaluation of the effect of age on the pharmacokinetics of Ketoconazole HRA has been performed.
 There are no data suggesting a need for a specific dose adjustment in this population.
+
+In vitro data indicate that ketoconazole is a potent inhibitor of OATP1B1, OATP1B3, OAT3, OCT1 and OCT2 and to a lesser extent of OAT1 and BSEP.
+Inhibition of these different transporters at clinically relevant concentrations of ketoconazole cannot be excluded
