@@ -53,7 +53,9 @@ Furthermore, the appropriate dose has not been established.
 When Sovaldi is used in combination with ribavirin or peginterferon alfa/ribavirin, refer also to the Summary of Product Characteristics for ribavirin for patients with creatinine clearance (CrCl) <50 mL/min (see also section 5.2).
 
 HCV/HBV (hepatitis B virus) co-infection
-There are no data on the use of Sovaldi in patients with HCV/HBV co-infection.
+Cases of hepatitis B virus (HBV) reactivation, some of them fatal, have been reported during or after treatment with direct-acting antiviral agents.
+HBV screening should be performed in all patients before initiation of treatment.
+HBV/HCV co-infected patients are at risk of HBV reactivation, and should therefore be monitored and managed according to current clinical guidelines.
 
 Paediatric population
 Sovaldi is not recommended for use in children and adolescents under 18 years of age because the safety and efficacy have not been established in this population.

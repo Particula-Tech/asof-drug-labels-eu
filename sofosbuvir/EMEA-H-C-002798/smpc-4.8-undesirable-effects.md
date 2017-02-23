@@ -21,9 +21,9 @@ Frequency SOFa + RBVb SOF + PEGc + RBV
 Infections and infestations:
 Common nasopharyngitis
 Blood and lymphatic system disorders:
-anaemia, neutropenia, lymphocyte count
-Very common haemoglobin decreased
-decreased, platelet count decreased
+anaemia, neutropenia, lymphocyte
+Very common haemoglobin decreased count decreased, platelet count
+decreased
 Common anaemia
 Metabolism and nutrition disorders:
 Very common decreased appetite
@@ -33,9 +33,7 @@ Very common insomnia insomnia
 Common depression depression, anxiety, agitation
 Nervous system disorders:
 Very common headache dizziness, headache
-migraine, memory impairment,
-Common disturbance in attention
-disturbance in attention
+Common disturbance in attention migraine, memory impairment, disturbance in attention
 Eye disorders:
 Common vision blurred
 Respiratory, thoracic and mediastinal disorders:
@@ -43,9 +41,7 @@ Very common dyspnoea, cough
 Common dyspnoea, dyspnoea exertional, cough dyspnoea exertional
 Gastrointestinal disorders:
 Very common nausea diarrhoea, nausea, vomiting
-abdominal discomfort, constipation, constipation, dry mouth, gastroesophageal
-Common
-dyspepsia reflux
+Common abdominal discomfort, constipation, dyspepsia constipation, dry mouth, gastroesophageal reflux
 Hepatobiliary disorders:
 Very common blood bilirubin increased blood bilirubin increased
 Skin and subcutaneous tissue disorders:
@@ -53,13 +49,9 @@ Very common rash, pruritus
 Common alopecia, dry skin, pruritus alopecia, dry skin
 Musculoskeletal and connective tissue disorders:
 Very common arthralgia, myalgia
-arthralgia, back pain, muscle spasms,
-Common back pain, muscle spasms
-myalgia
+Common arthralgia, back pain, muscle spasms, myalgia back pain, muscle spasms
 General disorders and administration site conditions:
-chills, fatigue, influenza-like illness,
-Very common fatigue, irritability
-irritability, pain, pyrexia
+Very common fatigue, irritability chills, fatigue, influenza-like illness, irritability, pain, pyrexia
 Common pyrexia, asthenia chest pain, asthenia
 
 a. SOF = sofosbuvir; b. RBV = ribavirin; c. PEG = peginterferon alfa.
@@ -70,7 +62,6 @@ The safety profile of sofosbuvir and ribavirin in HCV/HIV co-infected subjects w
 
 Patients awaiting liver transplantation
 The safety profile of sofosbuvir and ribavirin in HCV infected subjects prior to liver transplantation was similar to that observed in subjects treated with sofosbuvir and ribavirin in Phase 3 clinical studies (see section 5.1).
-
 Liver transplant recipients
 The safety profile of sofosbuvir and ribavirin in liver transplant recipients with chronic hepatitis C was similar to that observed in subjects treated with sofosbuvir and ribavirin in Phase 3 clinical studies (see section 5.1).
 In study 0126, decreases in haemoglobin during treatment were very common with 32.5% (13/40 subjects) experiencing a decline in haemoglobin to <10 g/dL, 1 of whom also had a decline to <8.5 g/dL.

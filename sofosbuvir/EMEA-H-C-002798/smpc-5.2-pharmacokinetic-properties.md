@@ -4,6 +4,7 @@ Sofosbuvir is a nucleotide prodrug that is extensively metabolised.
 The active metabolite is formed in hepatocytes and not observed in plasma.
 The predominant (>90%) metabolite, GS-331007, is inactive.
 It is formed through sequential and parallel pathways to the formation of active metabolite.
+
 Absorption
 The pharmacokinetic properties of sofosbuvir and the predominant circulating metabolite GS-331007 have been evaluated in healthy adult subjects and in subjects with chronic hepatitis C. Following oral administration, sofosbuvir was absorbed quickly and the peak plasma concentration was observed ~0.5-2 hour post-dose, regardless of dose level.
 Peak plasma concentration of GS-331007 was observed between 2 to 4 hours post-dose.
@@ -42,6 +43,7 @@ The median terminal half-lives of sofosbuvir and GS-331007 were 0.4 and 27 hours
 Linearity/non-linearity
 The dose linearity of sofosbuvir and its primary metabolite, GS-331007, was evaluated in fasted healthy subjects.
 Sofosbuvir and GS-331007 AUCs are near dose proportional over the dose range of 200 mg to 400 mg.
+
 Pharmacokinetics in special populations
 Gender and race
 No clinically relevant pharmacokinetic differences due to gender or race have been identified for sofosbuvir and GS-331007.

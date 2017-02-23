@@ -18,7 +18,7 @@ Table 1: Recommended co-administered medicinal product(s) and treatment duration
 | Patients with genotype 2 CHC | Sovaldi + ribavirin | 12 weeksb |
 | Patients with genotype 3 CHC | Sovaldi + ribavirin + peginterferon alfa | 12 weeksb |
 |  | Sovaldi + ribavirin | 24 weeks |
-| Patients with CHC awaiting liver transplantation | Sovaldi + ribavirin | Until liver transplantationc |
+| Patients with CHC awaiting liver transplantation | Sovaldi + ribavirin | Until liver tcr ansplantation |
 
 * Includes patients co-infected with human immunodeficiency virus (HIV).
 
@@ -88,6 +88,7 @@ The tablet should be taken with food (see section 5.2).
 Patients should be instructed that if vomiting occurs within 2 hours of dosing an additional tablet should be taken.
 If vomiting occurs more than 2 hours after dosing, no further dose is needed.
 These recommendations are based on the absorption kinetics of sofosbuvir and GS-331007 suggesting that the majority of the dose is absorbed within 2 hours after dosing.
+
 If a dose is missed and it is within 18 hours of the normal time, patients should be instructed to take the tablet as soon as possible and then patients should take the next dose at the usual time.
 If it is after 18 hours then patients should be instructed to wait and take the next dose at the usual time.
 Patients should be instructed not to take a double dose.

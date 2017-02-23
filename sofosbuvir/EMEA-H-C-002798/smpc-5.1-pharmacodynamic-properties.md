@@ -16,6 +16,7 @@ The mean ± SD EC50 of sofosbuvir against chimeric replicons encoding NS5B seque
 In these assays, the in vitro antiviral activity of sofosbuvir against the less common genotypes 4, 5 and 6 was similar to that observed for genotypes 1, 2 and 3.
 
 The presence of 40% human serum had no effect on the anti-HCV activity of sofosbuvir.
+
 Resistance
 In cell culture
 HCV replicons with reduced susceptibility to sofosbuvir have been selected in cell culture for multiple genotypes including 1b, 2a, 2b, 3a, 4a, 5a and 6a.
@@ -80,7 +81,6 @@ a. The denominator for relapse is the number of subjects with HCV RNA <LLOQ at t
 b. Other includes subjects who did not achieve SVR12 and did not meet virologic failure criteria (e.g., lost to follow-up).
 
 Response rates for selected subgroups are presented in Table 6.
-
 Table 6: SVR12 rates for selected subgroups in NEUTRINO
 
 |  | SOF+PEG+RBV 12 weeks (n = 327) |
@@ -99,6 +99,7 @@ SVR12 rates were similarly high in subjects with baseline IL28B C/C allele [94/9
 
 27/28 patients with genotype 4 HCV achieved SVR12.
 A single subject with genotype 5 and all 6 subjects with genotype 6 HCV infection in this study achieved SVR12.
+
 Clinical studies in subjects with genotype 2 and 3 chronic hepatitis C
 Treatment-naïve adults - FISSION (study 1231)
 FISSION was a randomised, open-label, active-controlled study that evaluated 12 weeks of treatment with sofosbuvir and ribavirin compared to 24 weeks of treatment with peginterferon alfa 2a and ribavirin in treatment-naïve subjects with genotype 2 or 3 HCV infection.
@@ -125,7 +126,6 @@ Table 7: Response rates in study FISSION
 a. The efficacy analysis includes 3 subjects with recombinant genotype 2/1 HCV infection.
 b. The denominator for relapse is the number of subjects with HCV RNA <LLOQ at their last on-treatment assessment.
 c. Other includes subjects who did not achieve SVR12 and did not meet virologic failure criteria (e.g., lost to follow-up).
-
 The difference in the overall SVR12 rates between sofosbuvir + ribavirin and peginterferon alfa + ribavirin treatment groups was 0.3% (95% confidence interval: -7.5% to 8.0%) and the study met the predefined non-inferiority criterion.
 
 Response rates for subjects with cirrhosis at baseline are presented in Table 8 by HCV genotype.
@@ -168,7 +168,6 @@ b. Other includes subjects who did not achieve SVR12 and did not meet virologic 
 The SVR12 rate in the sofosbuvir + ribavirin treatment group was statistically significant when compared to placebo (p <0.001).
 
 Table 10 presents the subgroup analysis by genotype for cirrhosis and interferon classification.
-
 Table 10: SVR12 rates for selected subgroups by genotype in POSITRON
 
 |  | SOF+RBV 12 weeks |  |
@@ -188,6 +187,7 @@ Subjects were randomised in a 1:1 ratio and stratified by cirrhosis (presence ve
 
 Treated subjects (n = 201) had a median age of 56 years (range: 24 to 70); 70% of the subjects were male; 87% were White; 3% were Black; 9% were Hispanic or Latino; mean body mass index was 29 kg/m2 (range: 19 to 44 kg/m2); 73% had baseline HCV RNA levels greater than 6 log10 IU/mL; 34% had cirrhosis; 63% had HCV genotype 3; 75% were prior relapsers.
 Table 11 presents the response rates for the treatment groups of sofosbuvir + ribavirin for 12 weeks and 16 weeks.
+
 Table 11: Response rates in study FUSION
 
 |  | SOF+RBV 12 weeks (n = 103)a | SOF+RBV 16 weeks (n = 98)a |
@@ -206,7 +206,6 @@ c. Other includes subjects who did not achieve SVR12 and did not meet virologic 
 
 Table 12 presents the subgroup analysis by genotype for cirrhosis and response to prior
 HCV treatment.
-
 Table 12: SVR12 rates for selected subgroups by genotype in study FUSION
 
 |  | Genotype 2 |  | Genotype 3 |  |
@@ -230,6 +229,7 @@ Treated subjects (n = 419) had a median age of 51 years (range: 19 to 74); 60% o
 Table 13 presents the response rates for the treatment groups of sofosbuvir + ribavirin for 12 weeks and 24 weeks.
 
 Placebo recipients are not included in the tables since none achieved SVR12.
+
 Table 13: Response rates in study VALENCE
 
 |  | Genotype 2 SOF+RBV 12 weeks (n = 73) | Genotype 3 SOF+RBV 12 weeks (n = 11) | Genotype 3 SOF+RBV 24 weeks (n = 250) |
@@ -245,7 +245,6 @@ b. Other includes subjects who did not achieve SVR12 and did not meet virologic 
 
 Table 14 presents the subgroup analysis by genotype for cirrhosis and exposure to prior
 HCV treatment.
-
 Table 14: SVR12 rates for selected subgroups by genotype in study VALENCE
 
 |  | Genotype 2 SOF+RBV 12 weeks (n = 73) | Genotype 3 SOF+RBV 24 weeks (n = 250) |
@@ -271,6 +270,7 @@ Subjects were either not on antiretroviral therapy with a CD4+ cell count >500 c
 Preliminary SVR12 data are available for 210 subjects.
 
 Table 15 presents the response rates by genotype and exposure to prior HCV treatment.
+
 Table 15: Response rates in study PHOTON-1
 
 |  | Genotype 2/3 treatment-naïve SOF+RBV 12 weeks (n = 68) | Genotype 2/3 treatment-experienced SOF+RBV 24 weeks (n = 28) | Genotype 1 treatment-naïve SOF+RBV 24 weeks (n = 114) |
@@ -285,7 +285,6 @@ a. The denominator for relapse is the number of subjects with HCV RNA <LLOQ at t
 b. Other includes subjects who did not achieve SVR12 and did not meet virologic failure criteria (e.g., lost to follow-up).
 
 Table 16 presents the subgroup analysis by genotype for cirrhosis.
-
 Table 16: SVR12 rates for selected subgroups by genotype in study PHOTON-1
 
 |  | HCV genotype 2 |  | HCV genotype 3 |  |
@@ -326,7 +325,6 @@ The median ribavirin dose was 600 mg-800 mg daily at weeks 4-24.
 Forty subjects (33 with HCV genotype 1 infection, 6 with HCV genotype 3 infection, and 1 with HCV genotype 4 infection) were enrolled, 35 of whom had previously failed interferon-based treatment, and 16 of whom had cirrhosis.
 28 out of 40 (70%) subjects achieved SVR12: 22/33 (73%) with HCV genotype 1 infection, 6/6 (100%) with HCV genotype 3 infection, and 0/1 (0%) with HCV genotype 4 infection.
 All subjects who achieved SVR12 achieved SVR24 and SVR48.
-
 Overview of outcomes by therapeutic regimen and treatment duration, a comparison across studies The following tables (Table 18 to Table 21) present data from Phase 2 and Phase 3 studies relevant to the dosing to help clinicians determine the best regimen for individual patients.
 
 Table 18: Outcomes by therapeutic regimen and treatment duration, a comparison across studies in genotype 1 HCV infection
