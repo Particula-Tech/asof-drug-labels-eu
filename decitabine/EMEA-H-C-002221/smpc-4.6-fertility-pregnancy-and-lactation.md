@@ -14,7 +14,7 @@ The potential risk for humans is unknown.
 Based on results from animal studies and its mechanism of action, Dacogen should not be used during pregnancy and in women of childbearing potential not using effective contraception.
 If Dacogen is used during pregnancy, or if a patient becomes pregnant while receiving this medicinal product, the patient should be apprised of the potential hazard to the foetus.
 
-Lactation
+Breast-feeding
 It is not known whether decitabine or its metabolites are excreted in breast milk.
 Dacogen is contraindicated during lactation; therefore if treatment with Dacogen is required, breast-feeding must be discontinued (see section 4.3).
 

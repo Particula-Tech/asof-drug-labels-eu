@@ -27,7 +27,6 @@ Progression-free survival and Event-free survival were tertiary endpoints.
 The median overall survival in the intent-to-treat population was 7.7 months in subjects treated with Dacogen compared to 5.0 months for subjects in the TC arm (hazard ratio 0.85; 95% CI: 0.69, 1.04, p = 0.1079).
 The difference did not reach statistical significance, however, there was a trend for improvement in survival with a 15% reduction in the risk of death for subjects in the Dacogen arm (Figure 1).
 When censored for potentially disease modifying subsequent therapy (i.e., induction chemotherapy or hypomethylating agent) the analysis for overall survival showed a 20% reduction in the risk of death for subjects in the Dacogen arm [HR = 0.80, (95% CI: 0.64, 0.99), p-value = 0.0437)].
-
 Figure 1.
 Overall survival (Intent-to-Treat population).
 
@@ -59,7 +58,6 @@ DACOGEN 242 137 65 28 12 1 0
 Total TC 243 107 55 19 7 4 0
 
 In an analysis with an additional 1 year of mature survival data, the effect of Dacogen on overall survival demonstrated a clinical improvement compared to the TC arm (7.7 months vs. 5.0 months, respectively, hazard ratio = 0.82, 95% CI: 0.68, 0.99, nominal p-value = 0.0373, Figure 2).
-
 Figure 2.
 Analysis of mature overall survival data (Intent-to-Treat population).
 
@@ -102,10 +100,7 @@ Table 2: Other efficacy endpoints for Study DACO-016 (ITT population)
 | CR + CRp | 43 (17.8%) 19 (7.8%) OR = 2.5 (1.40, 4.78)b | 19 (7.8%) | 0.0011 |
 | CR | 38 (15.7%) | 18 (7.4%) | - |
 | EFSa | 3.5 2.1 (2.5, 4.1)b (1.9, 2.8)b HR = 0.75 (0.62, 0.90)b | 2.1 (1.9, 2.8)b | 0.0025 |
-| PFSa | 3.7 (2.7, 4.6)b | 2.1 (1.9, 3.1)b | 0.0031 |
-
-HR = 0.75
-(0.62, 0.91)b
+| PFSa | 3.7 2.1 (2.7, 4.6)b (1.9, 3.1)b HR = 0.75 (0.62, 0.91)b | 2.1 (1.9, 3.1)b | 0.0031 |
 
 CR = complete remission; CRp = complete remission with incomplete platelet recovery, EFS = event-free survival,
 PFS = progression-free survival, OR = odds ratio, HR = hazard ratio
@@ -126,5 +121,4 @@ The median overall survival in the intent-to-treat population was 7.6 months (95
 The efficacy and safety of Dacogen has not been evaluated in patients with acute promyelocytic leukaemia or CNS leukaemia.
 
 Paediatric population
-The European Medicines Agency has deferred the obligation to submit the results of studies with Dacogen in one or more subsets of the paediatric population for the treatment of acute myeloid leukaemia.
-See Section 4.2 for information on paediatric use.
+The European Medicines Agency has deferred the obligation to submit the results of studies with Dacogen in one or more subsets of the paediatric population for the treatment of acute myeloid leukaemia (see Section 4.2 for information on paediatric use).

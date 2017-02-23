@@ -6,7 +6,6 @@ The most common adverse drug reactions (≥35%) reported during treatment with D
 The most common Grade 3/4 adverse drug reactions (≥20%) included pneumonia, thrombocytopaenia, neutropaenia, febrile neutropaenia and anaemia.
 
 In clinical studies, 30% of patients treated with Dacogen and 25% of patients treated in the comparator arm had adverse events with an outcome of death during treatment or within 30 days after the last dose of study drug.
-
 In the Dacogen treatment group, there was a higher incidence of treatment discontinuation due to adverse events in women compared to men (43% versus 32%).
 
 Tabulated list of adverse drug reactions
@@ -39,6 +38,7 @@ Table 1: Adverse drug reactions identified with Dacogen
 | Immune system disorders | Common | hypersensitivity including anaphylactic reactionf | 1 | < 1 |
 | Nervous system disorders | Very common | headache | 16 | 1 |
 | Respiratory, thoracic and mediastinal disorders | Very common | epistaxis | 14 | 2 |
+|  | Not known | interstitial lung disease | Not known | Not known |
 | Gastrointestinal disorders | Very common | diarrhoea | 31 | 2 |
 |  |  | vomiting | 18 | 1 |
 |  |  | nausea | 33 | < 1 |
@@ -55,6 +55,7 @@ e Including haemorrhage associated with thrombocytopaenia, including fatal cases
 f Including preferred terms hypersensitivity, drug hypersensitivity, anaphylactic reaction, anaphylactic shock, anaphylactoid reaction, anaphylactoid shock.
 * Includes events with a fatal outcome.
 NA = Not applicable
+
 Description of selected adverse drug reactions
 
 Haematologic adverse drug reactions
@@ -72,6 +73,9 @@ Serious infection-related adverse drug reactions, with potentially fatal outcome
 Gastrointestinal disorders
 Occurrences of enterocolitis, including neutropaenic colitis, caecitis have been reported during treatment with decitabine.
 Enterocolitis may lead to septic complications and may be associated with fatal outcome.
+
+Respiratory, thoracic and mediastinal disorders
+Cases of interstitial lung disease (including pulmonary infiltrates, organising pneumonia and pulmonary fibrosis) without signs of infectious aetiology have been reported in patients receiving decitabine.
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

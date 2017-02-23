@@ -11,6 +11,11 @@ Myelosuppression caused by Dacogen is reversible.
 Complete blood and platelet counts should be performed regularly, as clinically indicated and prior to each treatment cycle.
 In the presence of myelosuppression or its complications, treatment with Dacogen may be interrupted and/or supportive measures instituted (see sections 4.2 and 4.8).
 
+Respiratory, thoracic and mediastinal disorders
+Cases of interstitial lung disease (ILD) (including pulmonary infiltrates, oganising pneumonia and pulmonary fibrosis) without signs of infectious aetiology have been reported in patients receiving decitabine.
+Careful assessment of patients with an acute onset or unexplained worsening of pulmonary symptoms should be performed to exclude ILD.
+If ILD is confirmed, appropriate treatment should be initiated (see section 4.8).
+
 Hepatic impairment
 The use of Dacogen in patients with hepatic impairment has not been established.
 Caution should be exercised in the administration of Dacogen to patients with hepatic impairment and patients should be monitored closely (see sections 4.2 and 5.2).

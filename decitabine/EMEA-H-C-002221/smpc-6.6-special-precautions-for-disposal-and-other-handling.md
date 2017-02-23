@@ -14,4 +14,4 @@ Dacogen should not be infused through the same intravenous access/line with othe
 
 Disposal
 This medicinal product is for single use only.
-Any unused product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
