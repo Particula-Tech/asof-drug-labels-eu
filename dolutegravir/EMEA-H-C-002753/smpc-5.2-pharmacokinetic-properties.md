@@ -6,6 +6,9 @@ In Phase I studies in healthy subjects, between-subject CVb% for AUC and Cmax ra
 The between-subject PK variability of dolutegravir was higher in HIV-infected subjects than healthy subjects.
 Within-subject variability (CVw%) is lower than between-subject variability.
 
+Bioequivalence has not been unequivocally shown for 1x50 mg tablet compared to 5x10 mg tablets.
+Therefore, the 50 mg once daily dose should not be given as five 10 mg tablets.
+
 Absorption
 Dolutegravir is rapidly absorbed following oral administration, with median Tmax at 2 to 3 hours post dose for tablet formulation.
 
@@ -67,6 +70,8 @@ Special patient populations
 
 Children
 The pharmacokinetics of dolutegravir in 10 antiretroviral treatment-experienced HIV-1 infected adolescents (12 to <18 years of age) showed that Tivicay 50 mg once daily oral dosage resulted in dolutegravir exposure comparable to that observed in adults who received Tivicay 50 mg orally once daily.
+The pharmacokinetics was evaluated in 11 children 6 to 12 years of age and showed that 25 mg once daily in patients weighing at least 20 kg and 35 mg once daily in patients weighing at least 30 kg resulted in dolutegravir exposure comparable to adults.
+In addition, population PK modelling and simulation analyses showed dosing of Tivicay tablets on a weight-band basis (20 mg, 25 mg, 35 mg, 50 mg) in children of at least 6 years of age weighing at least 15 kg provides comparable exposure to that observed in adults (50 mg), with the lowest weight band of 15 to <20 kg corresponding to 20 mg daily.
 
 Elderly
 Population pharmacokinetic analysis of dolutegravir using data in HIV-1 infected adults showed that there was no clinically relevant effect of age on dolutegravir exposure.
@@ -95,6 +100,7 @@ In a meta-analysis using pharmacogenomics samples collected in clinical studies 
 
 Gender
 Population PK analyses using pooled pharmacokinetic data from Phase IIb and Phase III adult trials revealed no clinically relevant effect of gender on the exposure of dolutegravir.
+
 Race
 Population PK analyses using pooled pharmacokinetic data from Phase IIb and Phase III adult trials revealed no clinically relevant effect of race on the exposure of dolutegravir.
 The pharmacokinetics of dolutegravir following single dose oral administration to Japanese subjects appear similar to observed parameters in Western (US) subjects.

@@ -3,6 +3,7 @@
 Pharmacotherapeutic group: Antivirals for systemic use, other antivirals, ATC code: J05AX12
 
 Mechanism of action
+
 Dolutegravir inhibits HIV integrase by binding to the integrase active site and blocking the strand transfer step of retroviral Deoxyribonucleic acid (DNA) integration which is essential for the HIV replication cycle.
 
 Pharmacodynamic effects
@@ -20,7 +21,6 @@ Effect of human serum
 In 100% human serum, the mean protein fold shift was 75 fold, resulting in protein adjusted IC90 of 0.064 ug/mL.
 
 Resistance
-
 Resistance in vitro
 
 Serial passage is used to study resistance evolution in vitro.
@@ -56,9 +56,9 @@ In the presence of integrase class-resistance (VIKING-3 study) the following mut
 Treatment emergent integrase resistance typically appeared in patients with a history of the Q148-mutation (baseline or historic).
 Five further subjects experienced PDVF between weeks 24 and 48, and 2 of these 5 had treatment emergent mutations.
 Treatment-emergent mutations or mixtures of mutations observed were L74I (n=1), N155H (n=2).
-
 The VIKING-4 study examined dolutegravir (plus optimized background therapy) in subjects with primary genotypic resistance to INIs at Screening in 30 subjects.
 Treatment-emergent mutations observed were consistent with those observed in the VIKING-3 study.
+
 Effects on electrocardiogram
 No relevant effects were seen on the QTc interval, with doses exceeding the clinical dose by approximately three fold.
 
@@ -74,9 +74,9 @@ At baseline, median patient age was 36 years, 14% were female, 15% non-white, 11
 In SINGLE, 833 subjects were randomized and received at least one dose of either dolutegravir 50 mg once daily with fixed-dose abacavir-lamivudine (DTG + ABC/3TC) or fixed-dose efavirenz-tenofovir-emtricitabine (EFV/TDF/FTC).
 At baseline, median patient age was 35 years, 16% were female, 32% non-white, 7% had hepatitis C co-infection and 4% were CDC Class C, these characteristics were similar between treatment groups.
 
-The primary endpoint and other week 48 outcomes (including outcomes by key baseline covariates) for SPRING-2 and SINGLE are shown in Table 3.
+The primary endpoint and other week 48 outcomes (including outcomes by key baseline covariates) for SPRING-2 and SINGLE are shown in Table 4.
 
-Table 3 Response in SPRING-2 and SINGLE at 48 Weeks (Snapshot algorithm, <50 copies/mL)
+Table 4 Response in SPRING-2 and SINGLE at 48 Weeks (Snapshot algorithm, <50 copies/mL)
 
 |  | SPRING-2 |  | SINGLE |  |
 | --- | --- | --- | --- | --- |
@@ -95,14 +95,13 @@ Table 3 Response in SPRING-2 and SINGLE at 48 Weeks (Snapshot algorithm, <50 cop
 | Gender |  |  |  |  |
 | Male Female | 308 / 348 (89%) 53 / 63 (84%) | 305 / 355 (86%) 46 / 56 (82%) | 307 / 347 (88%) 57 / 67 (85%) | 291 / 356 (82%) 47 / 63 (75%) |
 | Race |  |  |  |  |
-| White African-America/African | 306 / 346 (88%) 55 / 65 (85%) | 301 / 352 (86%) 50 / 59 (85%) | 255 / 284 (90%) 109 / 130 (84%) | 238 /285 (84%) 99 / 133 (74%) |
-| Heritage/Other |  |  |  |  |
+| White African-America/African Heritage/Other | 306 / 346 (88%) 55 / 65 (85%) | 301 / 352 (86%) 50 / 59 (85%) | 255 / 284 (90%) 109 / 130 (84%) | 238 /285 (84%) 99 / 133 (74%) |
 | Age (years) |  |  |  |  |
 | <50 ≥50 | 324/370 (88%) 37/41 (90%) | 312/365 (85%) 39/46 (85%) | 319/361 (88%) 45/53 (85%) | 302/375 (81%) 36/44 (82%) |
 | Median CD4 change from baseline | 230 | 230 | 246‡ | 187‡ |
 | * Adjusted for baseline stratification factors. † Includes subjects who changed BR to new class or changed BR not permitted per protocol or due to lack of efficacy prior to Week 48 (for SPRING-2 only), subjects who discontinued prior to Week 48 for lack or loss of efficacy and subjects who are ≥50 copies in the 48 week window. ‡ Adjusted mean treatment difference was statistically significant (p<0.001) |  |  |  |  |
 
-At week 48, dolutegravir was non-inferior to raltegravir in the SPRING-2 study, and in the SINGLE study dolutegravir + ABC/3TC was superior to efavirenz/TDF/FTC (p=0.003), table 3 above.
+At week 48, dolutegravir was non-inferior to raltegravir in the SPRING-2 study, and in the SINGLE study dolutegravir + ABC/3TC was superior to efavirenz/TDF/FTC (p=0.003), table 4 above.
 In SINGLE, the median time to viral suppression was shorter in the dolutegravir treated patients (28 vs 84 days, (p<0.0001, analysis pre-specified and adjusted for multiplicity).
 
 At week 96, results were consistent with those seen at week 48.
@@ -125,9 +124,9 @@ Patients with prior treatment failure, but not exposed to the integrase class
 In the international multicentre, double-blind SAILING study (ING111762), 719 HIV-1 infected, antiretroviral therapy (ART)-experienced adults were randomized and received either dolutegravir 50 mg once daily or raltegravir 400 mg twice daily with investigator selected background regimen consisting of up to 2 agents (including at least one fully active agent).
 At baseline, median patient age was 43 years, 32% were female, 50% non-white, 16% had hepatitis B and/or C co-infection, and 46% were CDC Class C. All patients had at least two class ART resistance, and 49% of subjects had at least 3-class ART resistance at baseline.
 
-Week 48 outcomes (including outcomes by key baseline covariates) for SAILING are shown in Table 4.
+Week 48 outcomes (including outcomes by key baseline covariates) for SAILING are shown in Table 5.
 
-Table 4 Response in SAILING at 48 Weeks (Snapshot algorithm, <50 copies/mL)
+Table 5 Response in SAILING at 48 Weeks (Snapshot algorithm, <50 copies/mL)
 
 |  | Dolutegravir 50 mg Once Daily + BR N=354§ | RAL 400 mg Twice Daily + BR N=361§ |
 | --- | --- | --- |
@@ -161,7 +160,6 @@ Table 4 Response in SAILING at 48 Weeks (Snapshot algorithm, <50 copies/mL)
 In the SAILING study, virologic suppression (HIV-1 RNA <50 copies/mL) in the Tivicay arm (71%) was statistically superior to the raltegravir arm (64%), at Week 48 (p=0.03).
 
 Statistically fewer subjects failed therapy with treatment-emergent integrase resistance on Tivicay (4/354, 1%) than on raltegravir (17/361, 5%) (p=0.003) (refer to section ‘Resistance in vivo’ above for details).
-
 Patients with prior treatment failure that included an integrase inhibitor (and integrase class resistance)
 In the multicentre, open-label, single arm VIKING-3 study (ING112574), HIV-1 infected, ART-experienced adults with virological failure and current or historical evidence of raltegravir and/or elvitegravir resistance received Tivicay 50 mg twice daily with the current failing background regimen for 7 days but with optimised background ART from Day 8.
 The study enrolled 183 patients, 133 with INI-resistance at Screening and 50 with only historical evidence of resistance (and not at Screening).
@@ -170,9 +168,9 @@ At baseline, median patient age was 48 years, 23% were female, 29% non-white, an
 Median baseline CD4+ was 140 cells/mm3, median duration of prior ART was 14 years, and 56% were CDC Class C. Subjects showed multiple class ART resistance at baseline: 79% had ≥2 NRTI, 75% ≥1 NNRTI, and 71% ≥2 PI major mutations; 62% had non-R5 virus.
 
 Mean change from baseline in HIV RNA at day 8 (primary endpoint) was -1.4log10 copies/mL (95% CI -1.3 – -1.5log10, p<0.001).
-Response was associated with baseline INI mutation pathway, as shown in Table 5.
+Response was associated with baseline INI mutation pathway, as shown in Table 6.
 
-Table 5 Virologic response (day 8) after 7 days of functional monotherapy, in patients with RAL/EVG as part of current failing regimen, VIKING 3
+Table 6 Virologic response (day 8) after 7 days of functional monotherapy, in patients with RAL/EVG as part of current failing regimen, VIKING 3
 
 Baseline parameters DTG 50 mg BID
 N=88*
@@ -195,10 +193,10 @@ After the functional monotherapy phase, subjects had the opportunity to re-optim
 The overall response rate through 24 weeks of therapy, 69% (126/183), was generally sustained through 48 weeks with 116/183 (63%) of patients with HIV-1 RNA <50c/mL (ITT-E, Snapshot algorithm).
 When excluding patients who stopped therapy for non-efficacy reasons, and those with major protocol deviations (incorrect dolutegravir dosing, intake of prohibited co-medication), namely, “the Virological Outcome (VO)-population)”, the corresponding response rates were 75% (120/161, week 24) and 69% (111/160, week 48).
 
-The response was lower when the Q148-mutation was present at baseline, and in particular in the presence of ≥2 secondary mutations, Table 6.
+The response was lower when the Q148-mutation was present at baseline, and in particular in the presence of ≥2 secondary mutations, Table 7.
 The overall susceptibility score (OSS) of the optimised background regimen (OBR) was not associated with Week 24 response, nor with the week 48 response.
 
-Table 6 Response by baseline Resistance, VIKING-3.
+Table 7 Response by baseline Resistance, VIKING-3.
 VO Population (HIV-1 RNA <50 c/mL, Snapshot algorithm)
 
 |  | Week 24 (N=161) |  |  |  |  | Week 48 (N=160) |
@@ -208,11 +206,7 @@ VO Population (HIV-1 RNA <50 c/mL, Snapshot algorithm)
 | Primary mutation other than Q148H/K/R2 | 2/2 (100%) | 20/20 (100%) | 21/27 (78%) | 8/10 (80%) | 51/59 (86%) | 50/58 (86%) |
 | Q148 + 1 secondary mutation3 | 2/2 (100%) | 8/12 (67%) | 10/17 (59%) | - | 20/31 (65%) | 19/31 (61%) |
 | Q148 +≥2 secondary mutations 3 | 1/2 (50%) | 2/11 (18%) | 1/3 (33%) | - | 4/16 (25%) | 4/16 (25%) |
-
-1 Historical or phenotypic evidence of INI resistance only.
-2 N155H, Y143C/H/R, T66A, E92Q
-3 G140A/C/S, E138A/K/T, L74I
-OSS: combined genotypic and phenotypic resistance (Monogram Biosciences Net Assessment)
+| 1 Historical or phenotypic evidence of INI resistance only. 2 N155H, Y143C/H/R, T66A, E92Q 3 G140A/C/S, E138A/K/T, L74I OSS: combined genotypic and phenotypic resistance (Monogram Biosciences Net Assessment) |  |  |  |  |  |  |
 
 The median change in CD4+ T cell count from baseline for VIKING-3 based on observed data was 61 cells/mm3 at Week 24 and 110 cells/mm3 at Week 48.
 
@@ -228,8 +222,23 @@ In a combined analysis of VIKING-3 and VIKING-4 (n=186, VO population), the prop
 The proportion of subjects with HIV RNA <50 copies/mL was 96/126 (76%) for No Q148 mutations, 22/41 (54%) for Q148+1 and 5/19 (26%) for Q148+≥2 secondary mutations.
 
 Paediatric population
-In a Phase I/II 48 week multicentre, open-label study (P1093/ING112578), the pharmacokinetic parameters, safety, tolerability and efficacy of Tivicay will be evaluated in combination regimens in HIV-1 infected adolescents.
+In a Phase I/II 48 week multicentre, open-label study (P1093/ING112578), the pharmacokinetic parameters, safety, tolerability and efficacy of Tivicay has been evaluated in combination regimens in HIV-1 infected, treatment-experienced, INI naive children and adolescents (6 to less than 18 years of age).
+Subjects were stratified by age, receiving Tivicay (70 mg, as 35 mg twice daily, n=1; 50 mg once daily, n=5; 35 mg once daily, n=6; 25 mg once daily, n= 8; and 20 mg once daily, n=3) plus OBR.
 
-At 24 weeks, 16 of 23 (70%) adolescents (12 to less than 18 years of age) treated with Tivicay once daily (35 mg n=4, 50 mg n=19) plus OBR achieved viral load <50 copies/mL.
-Four subjects had virologic failure none of which had INI resistance at the time of virologic failure.
-The European Medicines Agency has deferred the obligation to submit the results of studies with Tivicay in paediatric patients aged 4 weeks to below 12 years with HIV infection (see section 4.2 for information on paediatric use).
+Table 8 Virologic (Snapshot algorithm) and Immunologic Activity of Treatment for Subjects 6 Years and Older in P1093
+
+|  | TIVICAY ~1 mg/kg Once Daily + OBR |  |
+| --- | --- | --- |
+|  | Cohort I (12 to <18 years) (n=23) | Cohort IIA (6 to <12 years) (n=23) |
+| HIV-1 RNA <50 copies/mL at 24 weeks, n (%) | 16 (70%) | 14 (61%) |
+| HIV-1 RNA <50 copies/mL at 48 weeks, n (%) | 14 (61%) | - |
+| HIV-1 RNA <400 copies/mL at 24 weeks, n (%) | 19 (83%) | 18 (78%) |
+| HIV-1 RNA <400 copies/mL at 48 weeks, n (%) | 17 (74%) | - |
+| Virologic non response | 6 | 3 |
+| CD4+ Cell Count Median Change from Baseline, cells/mm3 | 84a | 209b |
+
+Median Percent Change from Baseline 5%a 8%b
+
+a 22 subjects contributed Week 48 CD4+ cell count data b 21 subjects contributed Week 24 CD4+ cell count data
+
+The European Medicines Agency has deferred the obligation to submit the results of studies with Tivicay in paediatric patients aged 4 weeks to below 6 years with HIV infection (see section 4.2 for information on paediatric use).
