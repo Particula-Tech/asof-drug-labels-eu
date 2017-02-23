@@ -13,7 +13,6 @@ As a precaution, and taking into account special populations with prolonged elim
 Pregnancy
 Lenalidomide is structurally related to thalidomide.
 Thalidomide is a known human teratogenic active substance that causes severe life-threatening birth defects.
-
 Lenalidomide induced in monkeys malformations similar to those described with thalidomide (see section 5.3).
 Therefore, a teratogenic effect of lenalidomide is expected and lenalidomide is contraindicated during pregnancy (see section 4.3).
 

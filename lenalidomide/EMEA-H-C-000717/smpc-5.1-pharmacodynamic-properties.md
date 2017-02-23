@@ -13,15 +13,90 @@ Lenalidomide binds directly to cereblon, a component of a cullin ring E3 ubiquit
 In the presence of lenalidomide, cereblon binds substrate proteins Aiolos and Ikaros which are lymphoid transcriptional factors, leading to their ubiquitination and subsequent degradation resulting in cytotoxic and immunomodulatory effects.
 
 Clinical efficacy and safety
-Lenalidomide has been evaluated in two phase III studies in newly diagnosed multiple myeloma, two phase III studies in relapsed refractory multiple myeloma, one phase III study and one phase II study in myelodysplastic syndromes and one phase II study in mantle cell lymphoma as described below.
+Lenalidomide efficacy and safety have been evaluated in five phase III studies in newly diagnosed multiple myeloma, two phase III studies in relapsed refractory multiple myeloma, one phase III study and one phase II study in myelodysplastic syndromes and one phase II study in mantle cell lymphoma as described below.
 
 Newly diagnosed multiple myeloma
 
+- Lenalidomide maintenance in patients who have undergone ASCT
+
+The efficacy and safety of lenalidomide maintenance was assessed in two phase 3 multicenter, randomised, double-blind 2-arm, parallel group, placebo-controlled studies: CALGB 100104 and IFM 2005-02
+
+CALGB 100104
+Patients between 18 and 70 years of age with active MM requiring treatment and without prior progression after initial therapy were eligible.
+
+Patients were randomised 1:1 within 90-100 days after ASCT to receive either lenalidomide or placebo maintenance.
+The maintenance dose was 10 mg once daily on days 1-28 of repeated 28-day cycles (increased up to 15 mg once daily after 3 months in the absence of dose-limiting toxicity), and treatment was continued until disease progression.
+
+The primary efficacy endpoint in the study was progression free survival (PFS) from randomisation to the date of progression or death, whichever occurred first; the study was not powered for the overall survival endpoint.
+In total 460 patients were randomised: 231 patients to Lenalidomide and 229 patients to placebo.
+The demographic and disease-related characteristics were balanced across both arms.
+
+The study was unblinded upon the recommendations of the data monitoring committee after surpassing the threshold for a preplanned interim analysis of PFS.
+After unblinding, patients in the placebo arm were allowed to cross over to receive lenalidomide before disease progression.
+
+The results of PFS at unblinding, following a preplanned interim analysis, using a cut-off of 17 December 2009 (15.5 months follow up) showed a 62% reduction in risk of disease progression or death favoring lenalidomide (HR = 0.38; 95% CI 0.27, 0.54; p <0.001).
+The median overall PFS was 33.9 months (95% CI NE, NE) in the lenalidomide arm versus 19.0 months (95% CI 16.2, 25.6) in the placebo arm.
+
+The PFS benefit was observed both in the subgroup of patients with CR and in the subgroup of patients who had not achieved a CR.
+
+The results for the study, using a cut-off of 1 February 2016, are presented in Table 6
+
+Table 6: Summary of overall efficacy data
+
+|  | Lenalidomide (N = 231) | Placebo (N = 229) |
+| --- | --- | --- |
+| Investigator-assessed PFS |  |  |
+| Mediana PFS time, months (95% CI)b | 56.9 (41.9, 71.7) | 29,4 (20.7, 35.5) |
+| HR [95% CI]c; p-valued | 0.61 (0.48, 0.76); <0.001 |  |
+| PFS2e |  |  |
+| Mediana PFS2 time, months (95% CI)b | 80.2 (63.3, 101.8) | 52.8 (41.3, 64.0) |
+| HR [95% CI]c ; p-valued | 0.61 (0.48, 0.78); <0.001 |  |
+| Overall survival |  |  |
+| Mediana OS time, months (95% CI)b | 111.0 (101.8, NE) | 84.2 (71.0, 102.7) |
+| 8-year survival rate, % (SE) | 60.9 (3.78) | 44.6 (3.98) |
+| HR [95% CI]c ; p-valued | 0.61 (0.46, 0.81); <0.001 |  |
+| Follow-up |  |  |
+| Medianf (min, max), months: all surviving patients | 81.9 (0.0, 119.8) | 81.0 (4.1, 119.5) |
+
+CI = confidence interval; HR = hazard ratio; max = maximum; min = minimum; NE = not estimable; OS = overall survival; PFS = progression-free survival;
+a The median is based on the Kaplan-Meier estimate.
+b The 95% CI about the median.
+c Based on Cox proportional hazards model comparing the hazard functions associated with the indicated treatment arms.
+d The p-value is based on the unstratified log-rank test of Kaplan-Meier curve differences between the indicated treatment arms.
+e Exploratory endpoint (PFS2).
+Lenalidomide received by subjects in the placebo arm who crossed over prior to PD upon study unblinding was not considered as a second-line therapy.
+f Median follow-up post-ASCT for all surviving subjects.
+Data cuts: 17 Dec 2009 and 01 Feb 2016
+
+IFM 2005-02
+Patients aged < 65 years at diagnosis who had undergone ASCT and had achieved at least a stable disease response at the time of hematologic recovery were eligible.
+Patients were randomised 1:1 to receive either lenalidomide or placebo maintenance (10 mg once daily on days 1-28 of repeated 28-day cycles increased up to 15 mg once daily after 3 months in the absence of dose-limiting toxicity) following 2 courses of lenalidomide consolidation (25 mg/day, days 1-21 of a 28-day cycle).
+Treatment was to be continued until disease progression.
+
+The primary endpoint was PFS defined from randomisation to the date of progression or death, whichever occurred first; the study was not powered for the overall survival endpoint.
+In total 614 patients were randomised: 307 patients to lenalidomide and 307 patients to placebo.
+
+The study was unblinded upon the recommendations of the data monitoring committee after surpassing the threshold for a preplanned interim analysis of PFS.
+After unblinding, patients receiving placebo were not crossed over to lenalidomide therapy prior to progressive disease.
+The lenalidomide arm was discontinued, as a proactive safety measure, after observing an imbalance of SPMs (see Section 4.4).
+
+The results of PFS at unblinding, following a preplanned interim analysis, using a cut-off of 7 July 2010 (31.4 months follow up) showed a 48% reduction in risk of disease progression or death favoring lenalidomide (HR = 0.52; 95% CI 0.41, 0.66; p <0.001).
+The median overall PFS was 40.1 months (95% CI 35.7, 42.4) in the lenalidomide arm versus 22.8 months (95% CI 20.7, 27.4) in the placebo arm.
+
+The PFS benefit was less in the subgroup of patients with CR than in the subgroup of patients who had not achieved a CR.
+
+The updated PFS, using a cut-off of 1 February 2016 (96.7 months follow up) continues to show a PFS advantage: HR = 0.57 (95% CI 0.47, 0.68; p < 0.001).
+The median overall PFS was 44.4 months (39.6, 52.0) in the lenalidomide arm versus 23.8 months (95% CI 21.2, 27.3) in the placebo arm.
+For PFS2, the observed HR was 0.80 (95% CI 0.66, 0.98; p = 0.026) for lenalidomide versus placebo.
+The median overall PFS2 was 69.9 months (95% CI 58.1, 80.0) in the lenalidomide arm versus 58.4 months (95% CI 51.1, 65.0) in the placebo arm.
+For OS, the observed HR was 0.90: (95% CI 0.72, 1.13; p = 0.355) for lenalidomide versus placebo.
+The median overall survival time was 105.9 months (95% CI 88.8, NE) in the lenalidomide arm versus 88.1 months (95% CI 80.7, 108.4) in the placebo arm.
+
 - Lenalidomide in combination with dexamethasone in patients who are not eligible for stem cell transplantation
 
-The safety and efficacy of lenalidomide was assessed in a phase III, multicenter, randomized, open-label, 3-arm study (MM-020) of patients who were at least 65 years of age or older or, if younger than 65 years of age, were not candidates for stem cell transplantation because they declined to undergo stem cell transplantation or stem cell transplantation is not available to the patient due to cost or other reason.The study (MM-020) compared lenalidomide and dexamethasone (Rd) given for 2 different durations of time (i.e., until progressive disease [Arm Rd] or for up to eighteen 28-day cycles [72 weeks, Arm Rd18]) to melphalan, prednisone and thalidomide (MPT) for a maximum of twelve 42-day cycles (72 weeks).
-Patients were randomized (1:1:1) to 1 of 3 treatment arms.
-Patients were stratified at randomization by age (≤75 versus >75 years), stage (ISS Stages I and II versus Stage III), and country.
+The safety and efficacy of lenalidomide was assessed in a phase III, multicenter, randomised, open-label, 3-arm study (MM-020) of patients who were at least 65 years of age or older or, if younger than 65 years of age, were not candidates for stem cell transplantation because they declined to undergo stem cell transplantation or stem cell transplantation is not available to the patient due to cost or other reason.The study (MM-020) compared lenalidomide and dexamethasone (Rd) given for 2 different durations of time (i.e., until progressive disease [Arm Rd] or for up to eighteen 28-day cycles [72 weeks, Arm Rd18]) to melphalan, prednisone and thalidomide (MPT) for a maximum of twelve 42-day cycles (72 weeks).
+Patients were randomised (1:1:1) to 1 of 3 treatment arms.
+Patients were stratified at randomisation by age (≤75 versus >75 years), stage (ISS Stages I and II versus Stage III), and country.
 
 Patients in the Rd and Rd18 arms took lenalidomide 25 mg once daily on days 1 to 21 of 28-day cycles according to protocol arm.
 Dexamethasone 40 mg was dosed once daily on days 1, 8, 15, and 22 of each 28-day cycle.
@@ -30,15 +105,15 @@ Patients >75 years received a dexamethasone dose of 20 mg once daily on days 1, 
 All patients received prophylactic anticoagulation (low molecular weight heparin, warfarin, heparin, low-dose aspirin) during the study.
 
 The primary efficacy endpoint in the study was progression free survival (PFS).
-In total 1623 patients were enrolled into the study, with 535 patients randomized to Rd, 541 patients randomized to Rd18 and 547 patients randomized to MPT.
+In total 1623 patients were enrolled into the study, with 535 patients randomised to Rd, 541 patients randomised to Rd18 and 547 patients randomised to MPT.
 The demographics and disease-related baseline characteristics of the patients were well balanced in all 3 arms.
 In general, study subjects had advanced-stage disease: of the total study population, 41% had ISS stage III, 9% had severe renal insufficiency (creatinine clearance [CLcr]
 < 30 mL/min).
 The median age was 73 in the 3 arms.
 
-In an updated analysis of PFS, PFS2 and OS using a cut off of 3 March 2014 where the median follow up time for all surviving subjects was 45.5 months, the results of the study are presented in Table 5:
+In an updated analysis of PFS, PFS2 and OS using a cut off of 3 March 2014 where the median follow-up time for all surviving subjects was 45.5 months, the results of the study are presented in Table 7:
 
-Table 5.
+Table 7.
 Summary of overall efficacy data
 
 |  | Rd (N = 535) | Rd18 (N = 541) | MPT (N = 547) |
@@ -83,24 +158,24 @@ e Exploratory endpoint (PFS2) f The median is the univariate statistic without a
 g Best assessment of adjudicated response during the treatment phase of the study (for definitions of each response category, Data cut-off date = 24 May 2013).
 h data cut 24 May 2013
 
-- Lenalidomide in combination with melphalan and prednisone followed by lenalidomide maintenance in patients who are not eligible for transplant
+- Lenalidomide in combination with melphalan and prednisone followed by maintenance therapy in patients who are not eligible for transplant
 
-The safety and efficacy of lenalidomide was assessed in a phase III multicenter, randomized double blind 3 arm study (MM-015) of patients who were 65 years or older and had a serum creatinine < 2.5 mg/dL.
-The study compared lenalidomide in combination with melphalan and prednisone (MPR) with or without lenalidomide maintenance monotherapy until disease progression, to that of melphalan and prednisone for a maximum of 9 cycles.
-Patients were randomized in a 1:1:1 ratio to one of 3 treatment arms.
+The safety and efficacy of lenalidomide was assessed in a phase III multicenter, randomised double blind 3 arm study (MM-015) of patients who were 65 years or older and had a serum creatinine < 2.5 mg/dL.
+The study compared lenalidomide in combination with melphalan and prednisone (MPR) with or without lenalidomide maintenance therapy until disease progression, to that of melphalan and prednisone for a maximum of 9 cycles.
+Patients were randomised in a 1:1:1 ratio to one of 3 treatment arms.
 Patients were stratified at randomisation by age (≤ 75 vs. > 75 years) and stage (ISS; Stages I and II vs. stage III).
 
 This study investigated the use of combination therapy of MPR (melphalan 0.18 mg/kg orally on days 1 to 4 of repeated 28-day cycles; prednisone 2 mg/kg orally on days 1 to 4 of repeated 28-day cycles; and lenalidomide 10 mg/day orally on days 1 to 21 of repeated 28-day cycles) for induction therapy, up to 9 cycles.
-Patients who completed 9 cycles or who were unable to complete 9 cycles due to intolerance proceeded to maintenance monotherapy starting with lenalidomide 10 mg orally on days 1 to 21 of repeated 28-day cycles until disease progression.
+Patients who completed 9 cycles or who were unable to complete 9 cycles due to intolerance proceeded to maintenance therapy starting with lenalidomide 10 mg orally on days 1 to 21 of repeated 28-day cycles until disease progression.
 
 The primary efficacy endpoint in the study was progression free survival (PFS).
-In total 459 patients were enrolled into the study, with 152 patients randomized to MPR+R, 153 patients randomized to MPR+p and 154 patients randomized to MPp+p.
+In total 459 patients were enrolled into the study, with 152 patients randomised to MPR+R, 153 patients randomised to MPR+p and 154 patients randomised to MPp+p.
 The demographics and disease-related baseline characteristics of the patients were well balanced in all 3 arms; notably, approximately 50% of the patients enrolled in each arm had the following characteristics; ISS Stage III, and creatinine clearance < 60 mL/min.
 The median age was 71 in the MPR+R and MPR+p arms and 72 in the MPp+p arm.
 
-In an analysis of PFS, PFS2, OS using a cut-off of April 2013 where the median follow up time for all surviving subjects was 62.4 months, the results of the study are presented in Table 6:
+In an analysis of PFS, PFS2, OS using a cut-off of April 2013 where the median follow up time for all surviving subjects was 62.4 months, the results of the study are presented in Table 8:
 
-Table 6.
+Table 8.
 Summary of overall efficacy data
 
 |  | MPR+R (N = 152) | MPR+p (N = 153) | MPp +p (N = 154) |
@@ -136,12 +211,12 @@ Summary of overall efficacy data
 CI = confidence interval; CR = complete response; HR = Hazard Rate; M = melphalan; NE = not estimable; OS = overall survival; p = placebo; P = prednisone;
 PD = progressive disease; PR = partial response; R = lenalidomide; SD = stable disease; VGPR = very good partial response.
 ª The median is based on the Kaplan-Meier estimate
-¤PFS2 (an exploratory endpoint) was defined for all patients (ITT) as time from randomization to start of 3rd line antimyeloma therapy (AMT) or death for all randomized patients
+¤PFS2 (an exploratory endpoint) was defined for all patients (ITT) as time from randomisation to start of 3rd line antimyeloma therapy (AMT) or death for all randomised patients
 
 Supportive newly diagnosed multiple myeloma studies
-An open-label, randomized, multicenter, phase III study (ECOG E4A03) was conducted in 445 patients with newly diagnosed multiple myeloma; 222 patients were randomized to the lenalidomide/low dose dexamethasone arm, and 223 were randomized to the lenalidomide/standard dose dexamethasone arm.
-Patients randomized to the lenalidomide/standard dose dexamethasone arm received lenalidomide 25 mg/day, days 1 to 21 every 28 days plus dexamethasone 40 mg/day on days 1 to 4, 9 to 12, and 17 to 20 every 28 days for the first four cycles.
-Patients randomized to the lenalidomide/low dose dexamethasone arm received lenalidomide 25 mg/day, days 1 to 21 every 28 days plus low dose dexamethasone – 40 mg/day on days 1, 8, 15, and 22 every 28 days.
+An open-label, randomised, multicenter, phase III study (ECOG E4A03) was conducted in 445 patients with newly diagnosed multiple myeloma; 222 patients were randomised to the lenalidomide/low dose dexamethasone arm, and 223 were randomised to the lenalidomide/standard dose dexamethasone arm.
+Patients randomised to the lenalidomide/standard dose dexamethasone arm received lenalidomide 25 mg/day, days 1 to 21 every 28 days plus dexamethasone 40 mg/day on days 1 to 4, 9 to 12, and 17 to 20 every 28 days for the first four cycles.
+Patients randomised to the lenalidomide/low dose dexamethasone arm received lenalidomide 25 mg/day, days 1 to 21 every 28 days plus low dose dexamethasone – 40 mg/day on days 1, 8, 15, and 22 every 28 days.
 In the lenalidomide/low dose dexamethasone group, 20 patients (9.1%) underwent at least one dose interruption compared to 65 patients (29.3%) in the lenalidomide/standard dose dexamethasone arm.
 
 In a post-hoc analysis, lower mortality was observed in the lenalidomide/low dose dexamethasone arm 6.8% (15/220) compared to the lenalidomide/standard dose dexamethasone arm 19.3% (43/223), in the newly diagnosed multiple myeloma patient population, with a median follow up of 72.3 weeks.
@@ -174,7 +249,7 @@ Complete response and overall response rates in the len/dex arm were also signif
 Results of these analyses subsequently led to an unblinding in both studies, in order to allow patients in the placebo/dex group to receive treatment with the len/dex combination.
 
 An extended follow-up efficacy analysis was conducted with a median follow-up of 130.7 weeks.
-Table 7 summarises the results of the follow-up efficacy analyses – pooled studies MM-009 and MM-010.
+Table 9 summarises the results of the follow-up efficacy analyses – pooled studies MM-009 and MM-010.
 In this pooled extended follow-up analysis, the median TTP was 60.1 weeks (95% CI: 44.3, 73.1) in patients treated with len/dex (N = 353) versus 20.1 weeks (95% CI: 17.7, 20.3) in patients treated with placebo/dex (N = 351).
 The median progression free survival was 48.1 weeks (95% CI: 36.4, 62.1) in patients treated with len/dex versus 20.0 weeks (95% CI: 16.1, 20.1) in patients treated with placebo/dex.
 The median duration of treatment was 44.0 weeks (min: 0.1, max: 254.9) for len/dex and 23.1 weeks (min: 0.3, max: 238.1) for placebo/dex.
@@ -183,7 +258,7 @@ The median overall survival in the extended follow-up analysis of the pooled stu
 Despite the fact that 170 out of the 351 patients randomised to placebo/dex received lenalidomide after disease progression or after the studies were unblinded, the pooled analysis of overall survival demonstrated a statistically significant survival advantage for len/dex relative to placebo/dex
 (HR = 0.833, 95% CI = [0.687, 1.009], p=0.045).
 
-Table 7.
+Table 9.
 Summary of results of efficacy analyses as of cut-off date for extended follow-up — pooled studies MM-009 and MM-010 (cut-offs 23 July 2008 and 2 March 2008, respectively)
 
 | Endpoint | len/dex (N=353) | placebo/dex(N=351) |  |
@@ -199,7 +274,7 @@ a: Two-tailed log rank test comparing survival curves between treatment groups.
 b: Two-tailed continuity-corrected chi-square test.
 
 Myelodysplastic syndromes
-The efficacy and safety of lenalidomide were evaluated in patients with transfusion-dependent anaemia due to low- or intermediate-1-risk myelodysplastic syndromes associated with a deletion 5q cytogenetic abnormality, with or without additional cytogenetic abnormalities, in two main studies: a phase III, multicentre, randomised, double-blind, placebo-controlled, 3-arm study of two doses of oral lenalidomide (10 mg and 5 mg) versus placebo (MDS-004); and a phase II, a multicentre, single-arm, open-label study of lenalidomide (10 mg) (MDS-003).
+The efficacy and safety of lenalidomide were evaluated in patients with transfusion-dependent anemia due to low- or intermediate-1-risk myelodysplastic syndromes associated with a deletion 5q cytogenetic abnormality, with or without additional cytogenetic abnormalities, in two main studies: a phase III, multicentre, randomised, double-blind, placebo-controlled, 3-arm study of two doses of oral lenalidomide (10 mg and 5 mg) versus placebo (MDS-004); and a phase II, a multicentre, single-arm, open-label study of lenalidomide (10 mg) (MDS-003).
 
 The results presented below represent the intent-to-treat population studied in MDS-003 and MDS-004; with the results in the isolated Del (5q) sub-population also shown separately.
 
@@ -209,7 +284,7 @@ Patients who had evidence of at least a minor erythroid response could continue 
 Patients, who initially received placebo or 5 mg lenalidomide and did not achieve at least a minor erythroid response after 16 weeks of treatment were permitted to switch from placebo to 5 mg lenalidomide or continue lenalidomide treatment at higher dose (5 mg to 10 mg).
 
 In, study MDS-003, in which 148 patients received lenalidomide at a dose of 10 mg, the primary efficacy analysis consisted of an evaluation of the efficacy of lenalidomide treatments to achieve haematopoietic improvement in subjects with low- or intermediate-1 risk myelodysplastic syndromes.
-Table 8.
+Table 10.
 Summary of efficacy results – studies MDS-004 (double-blind phase) and MDS-003, intent-to-treat populationEndpoint
 
 |  | MDS-004 N = 205 |  |  | MDS-003 N = 148 |
@@ -246,12 +321,12 @@ Major and minor cytogenetic responses were observed in 40.9% and 30.7% of subjec
 A large proportion of subjects enrolled in MDS-003 (72.9%) and MDS-004 (52.7%) had received prior erythropoiesis-stimulating agents.
 
 Mantle cell lymphoma
-The efficacy and safety of lenalidomide were evaluated in patients with mantle cell lymphoma in a phase II, multicenter, randomized open-label study versus single agent of investigator’s choice in patients who were refractory to their last regimen or had relapsed one to three times (study MCL-002).
+The efficacy and safety of lenalidomide were evaluated in patients with mantle cell lymphoma in a phase II, multicenter, randomised open-label study versus single agent of investigator’s choice in patients who were refractory to their last regimen or had relapsed one to three times (study MCL-002).
 Patients who were at least 18 years of age with histologically-proven MCL and CT-measurable disease were enrolled.
 Patients were required to have received adequate previous treatment with at least one prior combination chemotherapy regimen.
 Also, patients had to be ineligible for intensive chemotherapy and/or transplant at time of inclusion in the study.
-Patients were randomized 2:1 to the lenalidomide or the control arm.
-The investigator’s choice treatment was selected before randomization and consisted of monotherapy with either chlorambucil, cytarabine, rituximab, fludarabine, or gemcitabine.
+Patients were randomised 2:1 to the lenalidomide or the control arm.
+The investigator’s choice treatment was selected before randomisation and consisted of monotherapy with either chlorambucil, cytarabine, rituximab, fludarabine, or gemcitabine.
 Lenalidomide was administered orally 25 mg once daily for the first 21 days (D1 to D21) of repeating 28-day cycles until progression or unacceptable toxicity.
 Patients with moderate renal insufficiency were to receive a lower starting dose of lenalidomide 10 mg daily on the same schedule.
 
@@ -263,7 +338,7 @@ The primary efficacy endpoint in study MCL-002 was progression-free survival (PF
 
 The efficacy results for the Intent-to-Treat (ITT) population were assessed by the Independent Review Committee (IRC), and are presented in the table below.
 
-Table 9.
+Table 11.
 Summary of efficacy results – study MCL-002, intent-to-treat population
 
 |  | Lenalidomide Arm N = 170 | Control Arm N = 84 |

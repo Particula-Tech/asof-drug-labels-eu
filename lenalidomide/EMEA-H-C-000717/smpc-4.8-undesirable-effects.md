@@ -1,22 +1,37 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-Newly diagnosed multiple myeloma in patients treated with lenalidomide in combination with low dose dexamethasone
+Newly diagnosed multiple myeloma: patients who have undergone ASCT treated with lenalidomide maintenance
+A conservative approach was applied to determine the adverse reactions from CALGB 100104.
+The adverse reactions described in Table 1 included events reported post-HDM/ASCT as well as events from the maintenance treatment period.
+A second analysis that identified events that occurred after the start of maintenance treatment suggests that the frequencies described in Table 1 may be higher than actually observed during the maintenance treatment period.
+In IFM 2005-02, the adverse reactions were from the maintenance treatment period only.
+
+The serious adverse reactions observed more frequently (≥5%) with lenalidomide maintenance than placebo were:
+
+- Pneumonias (10.6%; combined term) from IFM 2005-02
+- Lung infection (9.4% [9.4% after the start of maintenance treatment]) from CALGB 100104
+
+In the IFM 2005-02 study, the adverse reactions observed more frequently with lenalidomide maintenance than placebo were neutropenia (60.8%), bronchitis (47.4%), diarrhoea (38.9%), nasopharyngitis (34.8%), muscle spasms (33.4%), leucopenia (31.7%), asthenia (29.7%), cough (27.3%), thrombocytopenia (23.5%), gastroenteritis (22.5%) and pyrexia (20.5%).
+
+In the CALGB 100104 study, the adverse reactions observed more frequently with lenalidomide maintenance than placebo were neutropenia (79.0% [71.9% after the start of maintenance treatment]), thrombocytopenia (72.3% [61.6%]), diarrhoea (54.5% [46.4%]), rash (31.7% [25.0%]), upper respiratory tract infection (26.8% [26.8%]), fatigue (22.8% [17.9%]), leucopenia (22.8% [18.8%]) and anemia (21.0% [13.8%]).
+
+Newly diagnosed multiple myeloma: patients who are not eligible for transplant treated with lenalidomide in combination with low dose dexamethasone
 The serious adverse reactions observed more frequently (≥5%) with lenalidomide in combination with low dose dexamethasone (Rd and Rd18) than with melphalan, prednisone and thalidomide (MPT) were:
 
 - Pneumonia (9.8%)
 - Renal failure (including acute) (6.3%)
 
 The adverse reactions observed more frequently with Rd or Rd18 than MPT were: diarrhoea (45.5%), fatigue (32.8%), back pain (32.0%), asthenia (28.2%), insomnia (27.6%), rash (24.3%), decreased appetite (23.1%), cough (22.7%), pyrexia (21.4%), and muscle spasms (20.5%).
-Newly diagnosed multiple myeloma patients treated with lenalidomide in combination with melphalan and prednisone
+Newly diagnosed multiple myeloma: patients who are not eligible for transplant treated with lenalidomide in combination with melphalan and prednisone
 The serious adverse reactions observed more frequently (≥5%) with melphalan, prednisone and lenalidomide followed by lenalidomide maintenance (MPR+R) or melphalan, prednisone and lenalidomide followed by placebo (MPR+p) than melphalan, prednisone and placebo followed by placebo (MPp+p) were:
 
 - Febrile neutropenia (6.0%)
-- Anaemia (5.3%)
+- Anemia (5.3%)
 
-The adverse reactions observed more frequently with MPR+R or MPR+p than MPp+p were: neutropenia (83.3%), anaemia (70.7%), thrombocytopenia (70.0%), leukopenia (38.8%), constipation (34.0%), diarrhoea (33.3%), rash (28.9%), pyrexia (27.0%), peripheral oedema (25.0%), cough (24.0%), decreased appetite (23.7%), and asthenia (22.0%).
+The adverse reactions observed more frequently with MPR+R or MPR+p than MPp+p were: neutropenia (83.3%), anemia (70.7%), thrombocytopenia (70.0%), leukopenia (38.8%), constipation (34.0%), diarrhoea (33.3%), rash (28.9%), pyrexia (27.0%), peripheral oedema (25.0%), cough (24.0%), decreased appetite (23.7%), and asthenia (22.0%).
 
-Multiple myeloma with at least one prior therapy
+Multiple myeloma: patients with at least one prior therapy
 In two phase III placebo-controlled studies, 353 patients with multiple myeloma were exposed to the lenalidomide/dexamethasone combination and 351 to the placebo/dexamethasone combination.
 
 The most serious adverse reactions observed more frequently in lenalidomide/dexamethasone than placebo/dexamethasone combination were:
@@ -24,7 +39,7 @@ The most serious adverse reactions observed more frequently in lenalidomide/dexa
 - Venous thromboembolism (deep vein thrombosis, pulmonary embolism) (see section 4.4)
 - Grade 4 neutropenia (see section 4.4).
 
-The observed adverse reactions which occurred more frequently with lenalidomide and dexamethasone than placebo and dexamethasone in pooled multiple myeloma clinical trials (MM-009 and MM-010) were fatigue (43.9%), neutropenia (42.2%), constipation (40.5%), diarrhoea (38.5%), muscle cramp (33.4%), anaemia (31.4%), thrombocytopenia (21.5%), and rash (21.2%).
+The observed adverse reactions which occurred more frequently with lenalidomide and dexamethasone than placebo and dexamethasone in pooled multiple myeloma clinical trials (MM-009 and MM-010) were fatigue (43.9%), neutropenia (42.2%), constipation (40.5%), diarrhoea (38.5%), muscle cramp (33.4%), anemia (31.4%), thrombocytopenia (21.5%), and rash (21.2%).
 
 Myelodysplastic syndromes
 The overall safety profile of lenalidomide in patients with myelodysplastic syndromes is based on data from a total of 286 patients from one phase II study and one phase III study (see section 5.1).
@@ -41,7 +56,7 @@ Serious adverse reactions include:
 The most commonly observed adverse reactions which occurred more frequently in the lenalidomide groups compared to the control arm in the phase III study were neutropenia (76.8%), thrombocytopenia (46.4%), diarrhoea (34.8%), constipation (19.6%), nausea (19.6%), pruritus (25.4%), rash (18.1%), fatigue (18.1%) and muscle spasms (16.7%).
 
 Mantle cell lymphoma
-The overall safety profile of lenalidomide in patients with mantle cell lymphoma is based on data from 254 patients from a phase II randomized, controlled study MCL-002 (see section 5.1).
+The overall safety profile of lenalidomide in patients with mantle cell lymphoma is based on data from 254 patients from a phase II randomised, controlled study MCL-002 (see section 5.1).
 Additionally, adverse drug reactions from supportive study MCL-001 have been included in table 3.
 
 The serious adverse reactions observed more frequently in study MCL-002 (with a difference of at least 2 percentage points) in the lenalidomide arm compared with the control arm were:
@@ -50,7 +65,7 @@ The serious adverse reactions observed more frequently in study MCL-002 (with a 
 - Pulmonary embolism (3.6%)
 - Diarrhoea (3.6%)
 
-The most frequently observed adverse reactions which occurred more frequently in the lenalidomide arm compared with the control arm in study MCL-002 were neutropenia (50.9%), anaemia (28.7%), diarrhoea (22.8%), fatigue (21.0%), constipation (17.4%), pyrexia (16.8%), and rash (including dermatitis allergic) (16.2%).
+The most frequently observed adverse reactions which occurred more frequently in the lenalidomide arm compared with the control arm in study MCL-002 were neutropenia (50.9%), anemia (28.7%), diarrhoea (22.8%), fatigue (21.0%), constipation (17.4%), pyrexia (16.8%), and rash (including dermatitis allergic) (16.2%).
 
 In study MCL-002 there was overall an apparent increase in early (within 20 weeks) deaths.
 Patients with high tumour burden at baseline are at increased risk of early death, 16/81 (20%) early deaths in the lenalidomide arm and 2/28 (7%) early deaths in the control arm.
@@ -65,22 +80,47 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon
 (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000), not known (cannot be estimated from the available data).
 
-Tabulated summary for combination therapy
-The following table is derived from data gathered during the multiple myeloma studies with combination therapy.
-The data were not adjusted according to the longer duration of treatment in the lenalidomide-containing arms continued until disease progression versus the comparator arms in the pivotal multiple myeloma studies (see section 5.1).
-
 Adverse reactions have been included under the appropriate category in the table below according to the highest frequency observed in any of the main clinical trials.
 
+Tabulated summary for monotherapy in MM
+The following table is derived from data gathered during NDMM studies in patients who have undergone ASCT treated with lenalidomide maintenance.
+The data were not adjusted according to the longer duration of treatment in the lenalidomide-containing arms continued until disease progression versus the placebo arms in the pivotal multiple myeloma studies (see section 5.1).
+
 Table 1.
+ADRs reported in clinical trials in patients with multiple myeloma treated with lenalidomide maintenance therapy
+
+| System Organ Class/Preferred Term | All ADRs/Frequency | Grade 3-4 ADRs/Frequency |
+| --- | --- | --- |
+| Infections and Infestations | Very Common Pneumonias◊, a, Upper respiratory tract infection, Neutropenic infection, Bronchitis◊, Influenza◊, Gastroenteritis◊, Sinusitis, Nasopharyngitis, Rhinitis Common Infection◊, Urinary tract infection◊*, Lower respiratory tract infection, Lung infection | Very Common Pneumonias◊, a, Neutropenic infection Common Sepsis◊, b, Bacteraemia, Lung infection◊, Lower respiratory tract infection bacterial, Bronchitis◊, Influenza◊, Gastroenteritis◊, Herpes zoster◊, Infection◊ |
+| Neoplasms Benign, Malignant and Unspecified (incl cysts and polyps) | Common Myelodysplastic syndrome◊* |  |
+| Blood and Lymphatic System Disorders | Very Common Neutropenia^,◊, Febrile neutropenia^,◊, Thrombocytopenia^,◊,, Anemia, Leucopenia◊, Lymphopenia | Very Common Neutropenia^,◊, Febrile neutropenia^,◊, Thrombocytopenia^,◊, Anemia, Leucopenia◊, Lymphopenia Common Pancytopenia◊ |
+| Metabolism and Nutrition Disorders | Very Common Hypokalaemia | Common Hypokalaemia, Dehydration |
+| Nervous System Disorders | Very Common Paraesthesia Common Peripheral neuropathyc | Common Headache |
+| Vascular Disorders | Common Pulmonary embolism◊* | Common Deep vein thrombosis^,◊,d |
+| Respiratory, Thoracic and Mediastinal Disorders | Very Common Cough Common Dyspnoea◊, Rhinorrhoea | Common Dyspnoea◊ |
+| Gastrointestinal Disorders | Very Common Diarrhoea, Constipation, Abdominal pain, Nausea Common Vomiting, Abdominal pain upper | Common Diarrhoea, Vomiting, Nausea |
+| Hepatobiliary Disorders | Very Common Abnormal liver function tests | Common Abnormal liver function tests |
+| Skin and Subcutaneous Tissue Disorders | Very Common Rash, Dry skin | Common Rash, Pruritus |
+| Musculoskeletal and Connective Tissue Disorders | Very Common Muscle spasms Common Myalgia, Musculoskeletal pain |  |
+| General Disorders and Administration Site Conditions | Very Common Fatigue, Asthenia, Pyrexia | Common Fatigue, Asthenia |
+
+◊ Adverse reactions reported as serious in clinical trials in patients with NDMM who had undergone ASCT
+* Applies to serious adverse drug reactions only
+^See section 4.8 description of selected adverse reactions a “Pneumonias” combined AE term includes the following PTs: Bronchopneumonia, Lobar pneumonia, Pneumocystis jiroveci pneumonia, Pneumonia, Pneumonia klebsiella, Pneumonia legionella, Pneumonia mycoplasmal, Pneumonia pneumococcal, Pneumonia streptococcal, Pneumonia viral, Lung disorder, Pneumonitis b “Sepsis” combined AE term includes the following PTs: Bacterial sepsis, Pneumococcal sepsis, Septic shock, Staphylococcal sepsis c “Peripheral neuropathy” combined AE term includes the following preferred terms (PTs): Neuropathy peripheral, Peripheral sensory neuropathy, Polyneuropathy d “Deep vein thrombosis” combined AE term includes the following PTs: Deep vein thrombosis, Thrombosis, Venous thrombosis
+
+Tabulated summary for combination therapy in MM
+The following table is derived from data gathered during the multiple myeloma studies with combination therapy.
+The data were not adjusted according to the longer duration of treatment in the lenalidomide-containing arms continued until disease progression versus the comparator arms in the pivotal multiple myeloma studies (see section 5.1).
+Table 2.
 ADRs reported in clinical studies in patients with multiple myeloma treated with lenalidomide in combination with dexamethasone, or with melphalan and prednisone
 
 | System Organ Class / Preferred Term | All ADRs/Frequency | Grade 3−4 ADRs/Frequency |
 | --- | --- | --- |
 | Infections and Infestations | Very Common Pneumonia, Upper respiratory tract infection, Bacterial, viral and fungal infections (including opportunistic infections), Nasopharyngitis, Pharyngitis, Bronchitis Common Sepsis, Sinusitis | Common Pneumonia, Bacterial, viral and fungal infections (including opportunistic infections), Sepsis, Bronchitis |
 | Neoplasms Benign, Malignant and Unspecified (incl cysts and polyps) | Uncommon Basal cell carcinoma, Squamous skin cancer^* | Common Acute myeloid leukaemia, Myelodysplastic syndrome, Squamous cell carcinoma of skin** Uncommon T-cell type acute leukaemia, Basal cell carcinoma, Tumour lysis syndrome |
-| Blood and Lymphatic System Disorders | Very Common Neutropenia^, Thrombocytopenia ^, Anaemia, Haemorrhagic disorder ^, Leucopenias | Very Common Neutropenia^, Thrombocytopenia^, Anaemia, Leucopenias |
-|  | Common Febrile neutropenia, Pancytopenia | Common Febrile neutropenia^, Pancytopenia, Haemolytic anaemia |
-|  | Uncommon Haemolysis, Autoimmune haemolytic anaemia, Haemolytic anaemia | Uncommon Hypercoagulation, Coagulopathy |
+| Blood and Lymphatic System Disorders | Very Common Neutropenia^, Thrombocytopenia ^, Anemia, Haemorrhagic disorder ^, Leucopenias | Very Common Neutropenia^, Thrombocytopenia^, Anemia, Leucopenias |
+|  | Common Febrile neutropenia, Pancytopenia | Common Febrile neutropenia^, Pancytopenia, Haemolytic anemia |
+|  | Uncommon Haemolysis, Autoimmune haemolytic anemia, Haemolytic anemia | Uncommon Hypercoagulation, Coagulopathy |
 | Immune System Disorders | Uncommon Hypersensitivity^ |  |
 | Endocrine Disorders | Common Hypothyroidism |  |
 | Metabolism and Nutrition Disorders | Very Common Hypokalaemia, Hyperglycaemia, Hypocalcaemia, Decreased appetite, Weight decreased Common Hypomagnesaemia, Hyperuricaemia, Dehydration | Common Hypokalaemia, Hyperglycaemia, Hypocalcaemia, Diabetes mellitus, Hypophosphataemia, Hyponatraemia, Hyperuricaemia, Gout, Decreased appetite, Weight decreased |
@@ -111,10 +151,11 @@ ADRs reported in clinical studies in patients with multiple myeloma treated with
 Tabulated summary from monotherapy
 The following table are derived from data gathered during the main studies in monotherapy for myelodysplastic syndromes and mantle cell lymphoma.
 
-Adverse reactions have been included under the appropriate category in the tables below according to the highest frequency observed in any of the main clinical trials.
-
-Table 2.
+Table 3.
 ADRs reported in clinical trials in patients with myelodysplastic syndromes treated with lenalidomide#
+
+System Organ Class / All ADRs/Frequency Grade 3−4 ADRs/Frequency
+Preferred Term
 
 | System Organ Class / Preferred Term | All ADRs/Frequency | Grade 3−4 ADRs/Frequency |
 | --- | --- | --- |
@@ -151,14 +192,14 @@ For these ADRs, an additional check of the frequency of the ADRs captured by the
   - All treatment-emergent grade 3 or 4 adverse\events in 1% of lenalidomide treated subjects
   - All treatment-emergent serious adverse events in 1% of lenalidomide treated subjects
 
-Table 3.
+Table 4.
 ADRs reported in clinical trials in patients with mantle cell lymphoma treated with lenalidomide
 
 | System Organ Class / Preferred Term | All ADRs/Frequency | Grade 3−4 ADRs/Frequency |
 | --- | --- | --- |
 | Infections and Infestations | Very Common Bacterial, viral and fungal infections (including opportunistic infections), Nasopharyngitis, Pneumonia Common Sinusitis | Common Bacterial, viral and fungal infections (including opportunistic infections) ◊, Pneumonia◊ |
 | Neoplasms Benign, Malignant and Unspecified (incl cysts and polyps) | Common Tumour flare reaction | Common Tumour flare reaction, Squamous skin cancerˆ◊, Basal cell Carcinoma◊ |
-| Blood and Lymphatic System Disorders | Very Common Thrombocytopenia^, Neutropenia^, Leucopenias, Anaemia Common Febrile neutropenia | Very Common Thrombocytopenia^, Neutropenia^◊, Anaemia◊ Common Febrile neutropenia^◊, Leucopenias◊ |
+| Blood and Lymphatic System Disorders | Very Common Thrombocytopenia^, Neutropenia^, Leucopenias, Anemia Common Febrile neutropenia | Very Common Thrombocytopenia^, Neutropenia^◊, Anemia◊ Common Febrile neutropenia^◊, Leucopenias◊ |
 | Metabolism and Nutrition Disorders | Very Common Decreased appetite, Weight decreased, Hypokalaemia Common Dehydratation, | Common Dehydration◊, Hyponatraemia, Hypocalcaemia |
 | Psychiatric Disorders | Common Insomnia |  |
 | Nervous System Disorders | Common Dysgeuesia, Headache, neuropathy peripheral | Common Peripheral sensory neuropathy, Lethargy |
@@ -188,7 +229,7 @@ Algorithm applied for mantle cell lymphoma:
 Tabulated summary of post-marketing adverse reactions
 In addition to the above adverse reactions identified from the pivotal clinical trials, the following table is derived from data gathered from post-marketing data.
 
-Table 4.
+Table 5.
 ADRs reported in in post-marketing use in patients treated with lenalidomide
 
 | System Organ Class / Preferred Term | All ADRs/Frequency | Grade 3−4 ADRs/Frequency |
@@ -212,40 +253,48 @@ If lenalidomide is taken during pregnancy, a teratogenic effect of lenalidomide 
 
 Neutropenia and thrombocytopenia
 
-- Newly diagnosed multiple myeloma patients treated with lenalidomide in combination with low dose dexamethasone
+- Newly diagnosed multiple myeloma: patients who have undergone ASCT treated with lenalidomide maintenance
 
-The combination of lenalidomide with low dose dexamethasone in newly diagnosed multiple myeloma patients is associated with a decreased incidence of grade 4 neutropenia (8.5% in Rd and Rd18, compared with 15% in MPT).
-Grade 4 febrile neutropenia was observed infrequently (0.6% compared with 0.7% in MPT).
+Lenalidomide maintenance after ASCT is associated with a higher frequency of grade 4 neutropenia compared to placebo maintenance (32.1% vs 26.7% [16.1% vs 1.8% after the start of maintenance treatment] in CALGB 100104 and 16.4% vs 0.7% in IFM 2005-02, respectively).
+Treatment-emergent AEs of neutropenia leading to lenalidomide discontinuation were reported in 2.2% of patients in CALGB 100104 and 2.4% of patients in IFM 2005-02, respectively.
+Grade 4 febrile neutropenia was reported at similar frequencies in the lenalidomide maintenance arms compared to placebo maintenance arms in both studies (0.4% vs 0.5% [0.4% vs 0.5% after the start of maintenance treatment] in CALGB 100104 and 0.3% vs 0% in IFM 2005-02, respectively).
 
-The combination of lenalidomide with low dose dexamethasone in newly diagnosed multiple myeloma patients is associated with a decreased incidence of grade 3 and 4 thrombocytopenia (8.1 in Rd and Rd18 compared to 11% in MPT).
+Lenalidomide maintenance after ASCT is associated with a higher frequency of grade 3 or 4 thrombocytopenia compared to placebo maintenance (37.5% vs 30.3% [17.9% vs 4.1% after the start of maintenance treatment] in CALGB 100104 and 13.0% vs 2.9% in IFM 2005-02, respectively).
 
-- Newly diagnosed multiple myeloma patients treated with lenalidomide in combination with melphalan and prednisone
+- Newly diagnosed multiple myeloma: patients who are not eligible for transplant treated with lenalidomide in combination with low dose dexamethasone
 
-The combination of lenalidomide with melphalan and prednisone in newly diagnosed multiple myeloma patients is associated with a higher incidence of grade 4 neutropenia (34.1% in MPR+R/MPR+p compared with 7.8% in MPp+p).
-There was a higher incidence of grade 4 febrile neutropenia observed (1.7% in MPR+R/MPR+p compared to 0.0% in MPp+p).
+The combination of lenalidomide with low dose dexamethasone in newly diagnosed multiple myeloma patients is associated with a lower frequency of grade 4 neutropenia (8.5% in Rd and Rd18, compared with MPT (15%).
+Grade 4 febrile neutropenia was observed infrequently (0.6% in Rd and Rd18 compared with 0.7% in MPT).
 
-The combination of lenalidomide with melphalan and prednisone in newly diagnosed multiple myeloma patients is associated with a higher incidence of grade 3 and grade 4 thrombocytopenia (40.4% in MPR+R/MPR+p treated patients, compared with 13.7% in MPp+p-treated patients).
+The combination of lenalidomide with low dose dexamethasone in newly diagnosed multiple myeloma patients is associated with a lower frequency of grade 3 and 4 thrombocytopenia (8.1% in Rd and Rd18) compared with MPT (11%).
 
-- Multiple myeloma with at least one prior therapy
+- Newly diagnosed multiple myeloma: patients who are not eligible for transplant treated with lenalidomide in combination with melphalan and prednisone
+
+The combination of lenalidomide with melphalan and prednisone in newly diagnosed multiple myeloma patients is associated with a higher frequency of grade 4 neutropenia (34.1% in MPR+R/MPR+p) compared with MPp+p (7.8%).
+There was a higher frequency of grade 4 febrile neutropenia observed (1.7% in MPR+R/MPR+p compared to 0.0% in MPp+p).
+
+The combination of lenalidomide with melphalan and prednisone in newly diagnosed multiple myeloma patients is associated with a higher frequency of grade 3 and grade 4 thrombocytopenia (40.4% in MPR+R/MPR+p) compared with MPp+p (13.7%).
+
+- Multiple myeloma: patients with at least one prior therapy
 
 The combination of lenalidomide with dexamethasone in multiple myeloma patients is associated with a higher incidence of grade 4 neutropenia (5.1% in lenalidomide/dexamethasone-treated patients compared with 0.6% in placebo/dexamethasone-treated patients).
 Grade 4 febrile neutropenia episodes were observed infrequently (0.6% in lenalidomide/dexamethasone-treated patients compared to 0.0% in placebo/dexamethasone treated patients).
 
 The combination of lenalidomide with dexamethasone in multiple myeloma patients is associated with a higher incidence of grade 3 and grade 4 thrombocytopenia (9.9% and 1.4%, respectively, in lenalidomide/dexamethasone-treated patients compared to 2.3% and 0.0% in placebo/dexamethasone-treated patients).
 
-- Myelodysplastic syndromes
+- Myelodysplastic syndromes patients
 
 In myelodysplastic syndromes patients, lenalidomide is associated with a higher incidence of grade 3 or 4 neutropenia (74.6% in lenalidomide-treated patients compared with 14.9% in patients on placebo in the phase III study).
 Grade 3 or 4 febrile neutropenia episodes were observed in 2.2% of lenalidomide-treated patients compared with 0.0% in patients on placebo).
 Lenalidomide is associated with a higher incidence of grade 3 or 4 thrombocytopenia (37% in lenalidomide-treated patients compared with 1.5% in patients on placebo in the phase III study).
 
-- Mantle cell lymphoma
+- Mantle cell lymphoma patients
 
 In mantle cell lymphoma patients, lenalidomide is associated with a higher incidence of grade 3 or 4 neutropenia (43.7% in lenalidomide-treated patients compared with 33.7% in patients in the control arm in the phase II study).
 Grade 3 or 4 febrile neutropenia episodes were observed in 6.0% of lenalidomide-treated patients compared with 2.4% in patients on control arm.
 
 Venous thromboembolism
-An increased risk of DVT and PE is associated with the use of lenalidomide with dexamethasone in patients with multiple myeloma, and to a lesser extent in patients treated with melphalan and prednisone or as monotherapy in patients with myelodysplastic syndromes and mantle cell lymphoma treated with lenalidomide monotherapy (see section 4.5).
+An increased risk of DVT and PE is associated with the use of the combination of lenalidomide with dexamethasone in patients with multiple myeloma, and to a lesser extent in patients treated with lenalidomide in combination with melphalan and prednisone or in patients with multiple myeloma, myelodysplastic syndromes and mantle cell lymphoma treated with lenalidomide monotherapy (see section 4.5).
 Concomitant administration of erythropoietic agents or previous history of DVT may also increase thrombotic risk in these patients.
 
 Myocardial infarction
@@ -264,11 +313,12 @@ Patients with a history of severe rash associated with thalidomide treatment sho
 
 Second primary malignancies
 In clinical trials in previously treated myeloma patients with lenalidomide/dexamethasone compared to controls, mainly comprising of basal cell or squamous cell skin cancers.
+
 Acute myeloid leukaemia
 
 - Multiple myeloma
 
-Cases of AML have been observed in clinical trials of newly diagnosed multiple myeloma in patients taking lenalidomide treatment in combination with melphalan or immediately following high dose melphalan and ASCT (see section 4.4).
+Cases of AML have been observed in clinical trials of newly diagnosed multiple myeloma in patients taking lenalidomide treatment in combination with melphalan or immediately following HDM/ASCT (see section 4.4).
 This increase was not observed in clinical trials of newly diagnosed multiple myeloma in patients taking lenalidomide in combination with low dose dexamethasone compared to thalidomide in combination with melphalan and prednisone.
 
 - Myelodysplastic syndromes
@@ -283,7 +333,6 @@ The following post-marketing adverse reactions have been reported (frequency unk
 
 Rhabdomyolysis
 Rare cases of rhabdomyolysis have been observed, some of them when lenalidomide is administered with a statin.
-
 Thyroid disorders
 Cases of hypothyroidism and cases of hyperthyroidism have been reported (see section 4.4 Thyroid disorders).
 
