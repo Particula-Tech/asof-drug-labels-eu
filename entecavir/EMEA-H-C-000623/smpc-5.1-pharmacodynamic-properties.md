@@ -12,6 +12,7 @@ In addition, high exposures of entecavir had no relevant adverse effects on γ p
 Antiviral activity: entecavir inhibited HBV DNA synthesis (50% reduction, EC50) at a concentration of 0.004 µM in human HepG2 cells transfected with wild-type HBV.
 The median EC50 value for entecavir against LVDr HBV (rtL180M and rtM204V) was 0.026 µM (range 0.010-0.059 µM).
 Recombinant viruses encoding adefovir-resistant substitutions at either rtN236T or rtA181V remained fully susceptible to entecavir.
+
 An analysis of the inhibitory activity of entecavir against a panel of laboratory and clinical HIV-1 isolates using a variety of cells and assay conditions yielded EC50 values ranging from 0.026 to
 > 10 µM; the lower EC50 values were observed when decreased levels of virus were used in the assay.
 In cell culture, entecavir selected for an M184I substitution at micromolar concentrations, confirming inhibitory pressure at high entecavir concentrations.
@@ -34,6 +35,7 @@ Responses for patients with baseline Knodell Fibrosis Scores of 4 (cirrhosis) we
 High baseline Knodell necroinflammatory scores (> 10) were associated with greater histological improvement in nucleoside-naive patients.
 Baseline ALT levels ≥ 2 times ULN and baseline HBV DNA ≤ 9.0 log10 copies/ml were both associated with higher rates of virologic response (Week 48 HBV DNA < 400 copies/ml) in nucleoside-naive HBeAg-positive patients.
 Regardless of baseline characteristics, the majority of patients showed histological and virological responses to treatment.
+
 Experience in nucleoside-naive patients with compensated liver disease:
 Results at 48 weeks of randomised, double blind studies comparing entecavir (ETV) to lamivudine (LVD) in HBeAg positive (022) and HBeAg negative (027) patients are presented in the table.
 
@@ -109,6 +111,7 @@ For the 77 patients who continued entecavir treatment beyond 52 weeks (median 96
 
 Age/gender:
 There was no apparent difference in efficacy for entecavir based on gender (≈ 25% women in the clinical trials) or age (≈ 5% of patients > 65 years of age).
+
 Special populations
 Patients with decompensated liver disease: in study 048, 191 patients with HBeAg positive or negative chronic HBV infection and evidence of hepatic decompensation, defined as a CTP score of 7 or higher, received entecavir 1 mg once daily or adefovir dipivoxil 10 mg once daily.
 Patients were either HBV-treatment-naïve or pretreated (excluding pretreatment with entecavir, adefovir dipivoxil, or tenofovir disoproxil fumarate).
@@ -144,6 +147,7 @@ ULN=upper limit of normal, LLN=lower limit of normal.
 The time to onset of HCC or death (whichever occurred first) was comparable in the two treatment groups; on-study cumulative death rates were 23% (23/102) and 33% (29/89) for patients treated with entecavir and adefovir dipivoxil, respectively, and on-study cumulative rates of HCC were 12% (12/102) and 20% (18/89) for entecavir and adefovir dipivoxil, respectively.
 For patients with LVDr substitutions at baseline, the percentage of patients with HBV DNA
 <300 copies/ml was 44% for entecavir and 20% for adefovir at week 24 and 50% for entecavir and 17% for adefovir at week 48.
+
 HIV/HBV co-infected patients receiving concomitant HAART: study 038 included 67 HBeAg positive and 1 HBeAg negative patients co-infected with HIV.
 Patients had stable controlled HIV (HIV RNA < 400 copies/ml) with recurrence of HBV viraemia on a lamivudine-containing HAART regimen.
 HAART regimens did not include emtricitabine or tenofovir disoproxil fumarate.
@@ -152,7 +156,6 @@ Patients continued their lamivudine-regimen and were assigned to add either ente
 (n = 51) or placebo (n = 17) for 24 weeks followed by an additional 24 weeks where all received entecavir.
 At 24 weeks the reduction in HBV viral load was significantly greater with entecavir (-3.65 vs an increase of 0.11 log10 copies/ml).
 For patients originally assigned to entecavir treatment, the reduction in HBV DNA at 48 weeks was -4.20 log10 copies/ml, ALT normalisation had occurred in 37% of patients with abnormal baseline ALT and none achieved HBeAg seroconversion.
-
 HIV/HBV co-infected patients not receiving concomitant HAART: entecavir has not been evaluated in HIV/HBV co-infected patients not concurrently receiving effective HIV treatment.
 Reductions in HIV RNA have been reported in HIV/HBV co-infected patients receiving entecavir monotherapy without HAART.
 In some cases, selection of HIV variant M184V has been observed, which has implications for the selection of HAART regimens that the patient may take in the future.
@@ -167,22 +170,32 @@ All 61 patients had HBsAg loss post-transplantation, and 2 of these later became
 The frequency and nature of adverse events in this study were consistent with those expected in patients who have received a liver transplant and the known safety profile of entecavir.
 
 Paediatric population: Study 189 is an ongoing study of the efficacy and safety of entecavir among 180 nucleoside-treatment-naïve children and adolescents from 2 to < 18 years of age with HBeAg-positive chronic hepatitis B infection, compensated liver disease, and elevated ALT.
-Subjects were randomized (2:1) to receive blinded treatment with entecavir 0.015 mg/kg up to 0.5 mg/day (N = 120) or placebo (N = 60).
+Patients were randomized (2:1) to receive blinded treatment with entecavir 0.015 mg/kg up to 0.5 mg/day (N = 120) or placebo (N = 60).
 The randomization was stratified by age group (2 to 6 years; > 6 to 12 years; and > 12 to < 18 years).
 Baseline demographics and HBV disease characteristics were comparable between the 2 treatment arms and across age cohorts.
-At study entry, the mean HBV DNA was 8.0 log10 IU/ml and mean ALT was 105 U/l for the primary cohort (the first 123 treated subjects).
-The primary efficacy endpoint was a composite of HBeAg seroconversion and serum HBV DNA
-< 50 IU/ml (approximately 300 copies/ml) at Week 48 for the primary cohort.
-Twenty-four percent (20/82) of subjects in the entecavir-treated group and 2% (1/41) of subjects in the placebo-treated group met the primary endpoint.
-Forty-six percent (38/82) of entecavir-treated subjects and 2% (1/41) of placebo-treated subjects achieved HBV DNA < 50 IU/ml at Week 48.
-When assessed by baseline HBV DNA, 77% (26/34) of entecavir-treated subjects with HBV
-DNA < 8 log10 IU/ml at baseline and 25% (12/48) with HBV DNA ≥ 8 log10 IU/ml achieved HBV DNA < 50 IU/ml.
-ALT normalization occurred in 67% (55/82) of entecavir-treated subjects and 22% (9/41) of placebo-treated subjects; 24% (20/82) of entecavir-treated subjects and 12% (5/41) of placebo-treated subjects had HBeAg seroconversion.
-In 2 paediatric studies (Studies 028 and 189), 110 patients who received entecavir for up to 48 weeks were monitored for resistance.
-Genotypic evaluations were performed on all patients who had virologic breakthrough, or HBV DNA ≥ 50 IU/ml at Week 48 or discontinued early.
-No amino acid substitutions associated with resistance to entecavir were identified.
+At study entry, the mean HBV DNA was 8.1 log10 IU/ml and mean ALT was 103 U/l across the study population.
+Results for the main efficacy endpoints at Week 48 and Week 96 are presented in the table below.
 
-Clinical resistance: patients in clinical trials initially treated with entecavir 0.5 mg (nucleoside-naive) or 1.0 mg (lamivudine-refractory) and with an on-therapy PCR HBV DNA measurement at or after Week 24 were monitored for resistance.
+|  | Entecavir |  | Placebo* |
+| --- | --- | --- | --- |
+|  | Week 48 | Week 96 | Week 48 |
+| n | 120 | 120 | 60 |
+| HBV DNA < 50 IU/mL and HBeAg seroconversiona | 24.2% | 35.8% | 3.3% |
+| HBV DNA < 50 IU/mLa | 49.2% | 64.2% | 3.3.% |
+| HBeAg seroconversiona | 24.2% | 36.7% | 10.0% |
+| ALT normalizationa | 67.5% | 81.7% | 23.3% |
+| HBV DNA < 50 IU/mLa Baseline HBV DNA < 8 log10 IU/ml Baseline HBV DNA ≥ 8 log10 IU/ml | 82.6% (38/46) | 82.6% (38/46) | 6.5% (2/31) |
+|  | 28.4% (21/74) | 52.7% (39/74) | 0% (0/29) |
+
+aNC=F (noncompleter=failure)
+* Patients randomized to placebo who did not have HBe- seroconversion by Week 48 rolled over to open-label entecavir for the second year of the study; therefore randomized comparison data are available only through Week 48.
+
+The paediatric resistance assessment is based on data from nucleoside-treatment-naive paediatric patients with HBeAg-positive chronic HBV infection in two ongoing clinical trials (028 and 189).
+The two trials provide resistance data in 183 patients treated and monitored in Year 1 and 180 patients treated and monitored in Year 2.
+Genotypic evaluations were performed for all patients with available samples who had virologic breakthrough through Week 96 or HBV DNA ≥ 50 IU/ml at Week 48 or Week 96 .
+During Year 2, genotypic resistance to ETV was detected in 2 patients (1.1% cumulative probability of resistance through Year 2).
+
+Clinical resistance in Adults: patients in clinical trials initially treated with entecavir 0.5 mg (nucleoside-naive) or 1.0 mg (lamivudine-refractory) and with an on-therapy PCR HBV DNA measurement at or after Week 24 were monitored for resistance.
 Through Week 240 in nucleoside-naive studies, genotypic evidence of ETVr substitutions at rtT184, rtS202, or rtM250 was identified in 3 patients treated with entecavir, 2 of whom experienced virologic breakthrough (see table).
 These substitutions were observed only in the presence of LVDr substitutions (rtM204V and rtL180M).
 
@@ -227,22 +240,13 @@ Among lamivudine-refractory patients with baseline HBV DNA < 107 log10 copies/ml
 These 14 patients had a lower rate of genotypic entecavir resistance (cumulative probability 18.8% through 5 years of follow-up) than the overall study population (see table).
 Also, lamivudine-refractory patients who achieved HBV DNA < 104 log10 copies/ml by PCR at Week 24 had a lower rate of resistance than those who did not (5-year cumulative probability 17.6% [n= 50] versus 60.5% [n= 135], respectively).
 
-[Baraclude 1 mg film-coated tablets]
-
-(all sentences already above)
-
 [Baraclude 0.05 mg/ml oral solution]
 
 Patients had stable controlled HIV (HIV RNA < 400 copies/ml) with recurrence of HBV viraemia on a lamivudine-containing HAART regimen.HAART regimens did not include emtricitabine or tenofovir disoproxil fumarate.
-
-When assessed by baseline HBV DNA, 77% (26/34) of entecavir-treated subjects with HBV DNA
-< 8 log10 IU/ml at baseline and 25% (12/48) with HBV DNA ≥ 8 log10 IU/ml achieved HBV DNA
-< 50 IU/ml.
 
 These substitutions were observed only in the presence of LVDr substitutions (rtM204Vand rtL180M).
 
 d ≥1 log10 increase above nadir in HBV DNA by PCR, confirmed with successive measurements or at the end of the windowed time point.
 
-54
 Among lamivudine-refractory patients with baseline HBV DNA <107 log10 copies/ml, 64% (9/14) achieved HBV DNA <300 copies/ml at Week 48.
 Also, lamivudine-refractory patients who achieved HBV DNA <104 log10 copies/ml by PCR at Week 24 had a lower rate of resistance than those who did not (5-year cumulative probability 17.6% [n=50] versus 60.5% [n=135], respectively).

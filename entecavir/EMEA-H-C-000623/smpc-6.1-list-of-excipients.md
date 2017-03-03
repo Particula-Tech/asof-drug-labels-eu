@@ -1,5 +1,6 @@
 # 6.1 List of excipients
 
+Baraclude 0.5 mg film-coated tablets
 Tablet core:
 Crospovidone
 Lactose monohydrate
@@ -13,8 +14,18 @@ Hypromellose
 Macrogol 400
 Polysorbate 80 (E433)
 
-[Baraclude 1 mg film-coated tablets]
+Baraclude 1 mg film-coated tablets
+Tablet core:
+Crospovidone
+Lactose monohydrate
+Magnesium stearate
+Cellulose, Microcrystalline
+Povidone
 
+Tablet coating:
+Titanium dioxide
+Hypromellose
+Macrogol 400
 Iron oxide red
 
 [Baraclude 0.05 mg/ml oral solution]

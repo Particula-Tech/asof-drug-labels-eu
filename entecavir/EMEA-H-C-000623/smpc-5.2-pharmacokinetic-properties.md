@@ -61,13 +61,9 @@ Paediatric population: the steady-state pharmacokinetics of entecavir were evalu
 Entecavir exposure among nucleoside naïve subjects receiving once daily doses of entecavir 0.015 mg/kg up to a maximum dose of 0.5 mg was similar to the exposure achieved in adults receiving once daily doses of 0.5 mg.
 The Cmax, AUC(0-24), and Cmin for these subjects was 6.31 ng/ml, 18.33 ng h/ml, and 0.28 ng/ml, respectively.
 Entecavir exposure among lamivudine-experienced subjects receiving once daily doses of entecavir 0.030 mg/kg up to a maximum dose of 1.0 mg was similar to the exposure achieved in adults receiving once daily doses of 1.0 mg.
-The Cmax, AUC(0-24), and Cmin for these subjects was 14.48 ng/ml, 38.58 ng·h/ml, and 0.47 ng/ml, respectively.
-
-[Baraclude 1 mg film-coated tablets]
-
-(all sentences already above)
+The Cmax, AUC(0-24), and Cmin for these subjects was 14.48 ng/ml, 38.58 ng∙h/ml, and 0.47 ng/ml, respectively.
 
 [Baraclude 0.05 mg/ml oral solution]
 
-The Cmax, AUC(0-24), and Cmin for these subjects was 6.31 ng/ml, 18.33 ng·h/ml, and 0.28 ng/ml, respectively.
+The Cmax, AUC(0-24), and Cmin for these subjects was 6.31 ng/ml, 18.33 ng∙h/ml, and 0.28 ng/ml, respectively.
 The Cmax, AUC(0-24), and Cmin for these subjects was 14.48 ng/ml, 38.58 ng h/ml, and 0.47 ng/ml, respectively.

@@ -23,6 +23,7 @@ Skin and subcutaneous tissue disorders: uncommon: rash, alopecia
 General disorders and administration site common: fatigue conditions:
 
 Cases of lactic acidosis have been reported, often in association with hepatic decompensation, other serious medical conditions or drug exposures (see section 4.4).
+
 Treatment beyond 48 weeks: continued treatment with entecavir for a median duration of 96 weeks did not reveal any new safety signals.
 
 c. Description of selected adverse reactions
@@ -42,14 +43,13 @@ Exacerbations after discontinuation of treatment: acute exacerbations of hepatit
 In studies in nucleoside-naive patients, 6% of entecavir-treated patients and 10% of lamivudine-treated patients experienced ALT elevations (> 10 times ULN and > 2 times reference [minimum of baseline or last end-of-dosing measurement]) during post-treatment follow-up.
 Among entecavir-treated nucleoside-naive patients, ALT elevations had a median time to onset of 23-24 weeks, and 86% (24/28) of ALT elevations occurred in HBeAg negative patients.
 In studies in lamivudine-refractory patients, with only limited numbers of patients being followed up, 11% of entecavir-treated patients and no lamivudine-treated patients developed ALT elevations during post-treatment follow-up.
-
 In the clinical trials entecavir treatment was discontinued if patients achieved a prespecified response.
 If treatment is discontinued without regard to treatment response, the rate of post-treatment ALT flares could be higher.
 
 d. Paediatric Population
 
 The safety of entecavir in paediatric patients from 2 to < 18 years of age is based on two ongoing clinical trials in subjects with chronic HBV infection; one Phase 2 pharmacokinetic trial (study 028) and one Phase 3 trial (study 189).
-These trials provide experience in 173 HBeAg-positive nucleoside-treatment-naïve subjects treated with entecavir for a median duration of 60 weeks.
+These trials provide experience in 195 HBeAg-positive nucleoside-treatment-naïve subjects treated with entecavir for a median duration of 99 weeks.
 The adverse reactions observed in paediatric subjects who received treatment with entecavir were consistent with those observed in clinical trials of entecavir in adults.(see a. Summary of the safety profile and section 5.1)
 
 e. Other special populations
@@ -72,10 +72,8 @@ Reporting of suspected adverse reactions: Reporting suspected adverse reactions 
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
-[Baraclude 1 mg film-coated tablets]
-
-(all sentences already above)
-
 [Baraclude 0.05 mg/ml oral solution]
 
 Frequency is defined as very common (≥ 1/10); common (≥ 1/100 to 1/10); uncommon (≥ 1/1,000 to < 1/100); rare(≥ 1/10,000 to < 1/1,000).
+
+Healthcare professionals are asked to report any suspected adverse reactions the national reporting system listed in Appendix V.

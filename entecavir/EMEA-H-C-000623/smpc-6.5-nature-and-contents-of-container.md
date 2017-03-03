@@ -10,10 +10,6 @@ Each carton contains one bottle.
 
 Not all pack sizes and container types may be marketed.
 
-[Baraclude 1 mg film-coated tablets]
-
-(all sentences already above)
-
 [Baraclude 0.05 mg/ml oral solution]
 
 210 ml oral solution in a HDPE bottles with child-resistant closures (polypropylene).

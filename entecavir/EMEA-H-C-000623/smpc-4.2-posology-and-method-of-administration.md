@@ -28,6 +28,8 @@ In patients with decompensated liver disease or cirrhosis, treatment cessation i
 
 Paediatric population
 
+For appropriate dosing in the paediatric population, Baraclude oral solution or Baraclude 0.5 mg film-coated tablets are available.
+
 The decision to treat paediatric patients should be based on careful consideration of individual patient needs and with reference to current paediatric treatment guidelines including the value of baseline histological information.
 The benefits of long-term virologic suppression with continued therapy must be weighed against the risk of prolonged treatment, including the emergence of resistant hepatitis B virus.
 
@@ -35,7 +37,6 @@ Serum ALT should be persistently elevated for at least 6 months prior to treatme
 
 Paediatric patients with body weight of at least 32.6 kg, should be administered a daily dose of one 0.5 mg tablet or 10 ml (0.5 mg) of the oral solution, with or without food.
 The oral solution should be used for patients with body weight less than 32.6 kg.
-
 Duration of therapy for paediatric patients
 The optimal duration of treatment is unknown.
 In accordance with current paediatric practice guidelines, treatment discontinuation may be considered as follows:
@@ -50,6 +51,7 @@ Elderly: no dosage adjustment based on age is required.
 The dose should be adjusted according to the patient’s renal function (see dosage recommendations in renal impairment and section 5.2).
 
 Gender and race: no dosage adjustment based on gender or race is required.
+
 Renal impairment: the clearance of entecavir decreases with decreasing creatinine clearance (see section 5.2).
 Dose adjustment is recommended for patients with creatinine clearance < 50 ml/min, including those on haemodialysis or continuous ambulatory peritoneal dialysis (CAPD).
 A reduction of the daily dose using Baraclude oral solution, as detailed in the table, is recommended.
@@ -74,20 +76,6 @@ Method of administration
 
 Baraclude should be taken orally.
 
-[Baraclude 1 mg film-coated tablets]
-
-For appropriate dosing in the paediatric population, Baraclude oral solution or Baraclude 0.5 mg film-coated tablets are available.
-
-| Creatinine clearance (ml/min) | Baraclude dosage* |  |
-| --- | --- | --- |
-|  | Nucleoside naïve patients | Lamivudine-refractory or decompensated liver disease |
-| ≥ 50 | 0.5 mg once daily | 1 mg once daily |
-| 30 - 49 | 0.25 mg once daily* OR 0.5 mg every 48 hours | 0.5 mg once daily |
-| 10 - 29 | 0.15 mg once daily* OR 0.5 mg every 72 hours | 0.3 mg once daily* OR 0.5 mg every 48 hours |
-| < 10 Haemodialysis or | 0.05 mg once daily* OR | 0.1 mg once daily* OR |
-
-CAPD** 0.5 mg every 5-7 days 0.5 mg every 72 hours
-
 [Baraclude 0.05 mg/ml oral solution]
 
 It is recommended that the dosing spoon be rinsed with water after each daily dose.
@@ -98,7 +86,7 @@ Paediatric patients with body weight at least 32.6 kg, should be administered 10
 
 | Dosing for nucleoside naive paediatric patients aged 2 to < 18 years |  |
 | --- | --- |
-| a Body Weight | Recommended Once Daily Dose of Oral b Solution |
+| Body Weighta | Recommended Once Daily Dose of Oral Solutionb |
 | 10.0 - 14.1 kg | 4.0 ml |
 | 14.2 - 15.8 kg | 4.5 ml |
 | 15.9 - 17.4 kg | 5.0 ml |
@@ -106,6 +94,7 @@ Paediatric patients with body weight at least 32.6 kg, should be administered 10
 | 19.2 - 20.8 kg | 6.0 ml |
 | 20.9 - 22.5 kg | 6.5 ml |
 | 22.6 - 24.1 kg | 7.0 ml |
+| Body Weighta | Recommended Once Daily Dose of Oral Solutionb |
 | 24.2 - 25.8 kg | 7.5 ml |
 | 25.9 - 27.5 kg | 8.0 ml |
 | 27.6 - 29.1 kg | 8.5 ml |
@@ -123,6 +112,8 @@ b Children with body weight at least 32.6 kg should receive 10.0 ml (0.5 mg) of 
 | ≥ 50 | 0.5 mg once daily | 1 mg once daily |
 | 30 - 49 | 0.25 mg once daily OR 0.5 mg every 48 hours | 0.5 mg once daily |
 | 10 - 29 | 0.15 mg once daily OR 0.5 mg every 72 hours | 0.3 mg once daily OR 0.5 mg every 48 hours |
-| < 10 Haemodialysis or CAPD** | 0.05 mg once daily OR 0.5 mg every 5-7 days | 0.1 mg once daily OR 0.5 mg every 72 hours |
+| < 10 Haemodialysis or | 0.05 mg once daily OR | 0.1 mg once daily OR |
+|  | Nucleoside naïve patients | Lamivudine-refractory or decompensated liver disease |
+| CAPD** | 0.5 mg every 5-7 days | 0.5 mg every 72 hours |
 
 **on haemodialysis days, administer entecavir after haemodialysis.

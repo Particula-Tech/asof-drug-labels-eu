@@ -63,13 +63,9 @@ There are limited data on patients co-infected with HIV who have low CD4 cell co
 
 General: patients should be advised that therapy with entecavir has not been proven to reduce the risk of transmission of HBV and therefore appropriate precautions should still be taken.
 
-Lactose: this medicinal product contains 120.5 mg of lactose in each 0.5 mg daily dose.
+Lactose: this medicinal product contains 120.5 mg of lactose in each 0.5 mg daily dose or 241 mg of lactose in each 1 mg daily dose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 A lactose-free Baraclude oral solution is available for these individuals.
-
-[Baraclude 1 mg film-coated tablets]
-
-Lactose: this medicinal product contains 241 mg of lactose in each 1 mg daily dose.
 
 [Baraclude 0.05 mg/ml oral solution]
 
