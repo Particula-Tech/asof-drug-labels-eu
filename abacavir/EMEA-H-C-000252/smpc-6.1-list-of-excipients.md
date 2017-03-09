@@ -12,7 +12,7 @@ Titanium dioxide
 Polysorbate 80
 Iron oxide yellow
 
-[Ziagen 20 mg/mL oral solution]
+[Ziagen 20 mg/ml oral solution]
 
 Sorbitol 70% (E420)
 Saccharin sodium

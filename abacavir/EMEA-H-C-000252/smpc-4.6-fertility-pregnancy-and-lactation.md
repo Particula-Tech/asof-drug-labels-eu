@@ -16,6 +16,7 @@ Nucleoside and nucleotide analogues have been demonstrated in vitro and in vivo 
 There have been reports of mitochondrial dysfunction in HIV-negative infants exposed in utero and/or post-natally to nucleoside analogues (see section 4.4).
 
 Breast-feeding
+
 Abacavir and its metabolites are excreted into the milk of lactating rats.
 Abacavir is also excreted into human milk.
 There are no data available on the safety of abacavir when administered to babies less than three months old.
@@ -25,6 +26,6 @@ Fertility
 
 Studies in animals showed that abacavir had no effect on fertility (see section 5.3).
 
-[Ziagen 20 mg/mL oral solution]
+[Ziagen 20 mg/ml oral solution]
 
 In pregnant women, more than 800 outcomes after first trimester exposure and more than 1000 outcomes after second and third trimester exposure indicate no malformative and foetal /neonatal effect of abacavir.

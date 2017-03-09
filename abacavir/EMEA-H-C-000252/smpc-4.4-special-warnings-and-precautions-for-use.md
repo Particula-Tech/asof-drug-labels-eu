@@ -17,7 +17,7 @@ Therefore the following should be adhered to:
 - After stopping treatment with Ziagen for reasons of a suspected HSR, Ziagen or any other medicinal product containing abacavir (e.g. Kivexa, Trizivir, Triumeq) must never be re-initiated.
 - Restarting abacavir containing products following a suspected abacavir HSR can result in a prompt return of symptoms within hours.
   This recurrence is usually more severe than on initial presentation, and may include life-threatening hypotension and death.
-- In order to avoid restarting abacavir, patients who have experienced a suspected HSR should be instructed to dispose of their remaining Ziagen oral solution.
+- In order to avoid restarting abacavir, patients who have experienced a suspected HSR should be instructed to dispose of their remaining Ziagen tablets
 
 Clinical description of abacavir HSR
 
@@ -34,15 +34,14 @@ These symptoms usually resolve upon discontinuation of abacavir.
 Rarely, patients who have stopped abacavir for reasons other than symptoms of HSR have also experienced life-threatening reactions within hours of re- initiating abacavir therapy (see Section 4.8 Description of selected adverse reactions).
 Restarting abacavir in such patients must be done in a setting where medical assistance is readily available.
 
-Mitochondrial dysfunction
+Mitochondrial dysfunction following exposure in utero
 
-Nucleoside and nucleotide analogues have been demonstrated in vitro and in vivo to cause a variable degree of mitochondrial damage.
-There have been reports of mitochondrial dysfunction in HIV-negative infants exposed in utero and/or post-natally to nucleoside analogues.
-The main adverse reactions reported are haematological disorders (anaemia, neutropenia), metabolic disorders ( hyperlipasemia).
-These events are often transitory.
-Some late-onset neurological disorders have been reported (hypertonia, convulsion, abnormal behaviour).
-Whether the neurological disorders are transient or permanent is currently unknown.
-Any child exposed in utero to nucleoside and nucleotide analogues, even HIV-negative children, should have clinical and laboratory follow-up and should be fully investigated for possible mitochondrial dysfunction in case of relevant signs or symptoms.
+Nucleoside and nucleotide analogues may impact mitochondrial function to a variable degree, which is most pronounced with stavudine, didanosine and zidovudine.
+There have been reports of mitochondrial dysfunction in HIV-negative infants exposed in utero and/or post-natally to nucleoside analogues ; these have predominantly concerned treatment with regimens containing zidovudine.The main adverse reactions reported are haematological disorders (anaemia, neutropenia) and metabolic disorders (hyperlactatemia, hyperlipasemia).
+These events have often been transitory.
+Late onset neurological disorders have been reported rarely (hypertonia, convulsion, abnormal behaviour).
+Whether such neurological disorders are transient or permanent is currently unknown.
+These findings should be considered for any child exposed in utero to nucleotide and nucleotide analogues, who presents with severe clinical findings of unknown etiology, particularly neurologic findings.
 These findings do not affect current national recommendations to use antiretroviral therapy in pregnant women to prevent vertical transmission of HIV.
 
 Weight and metabolic parameters
@@ -59,38 +58,27 @@ Pancreatitis has been reported, but a causal relationship to abacavir treatment 
 
 Triple nucleoside therapy
 
-In patients with high viral load (>100,000 copies/mL) the choice of a triple combination with abacavir, lamivudine and zidovudine needs special consideration (see section 5.1).
+In patients with high viral load (>100,000 copies/ml) the choice of a triple combination with abacavir, lamivudine and zidovudine needs special consideration (see section 5.1).
 
 There have been reports of a high rate of virological failure and of emergence of resistance at an early stage when abacavir was combined with tenofovir disoproxil fumarate and lamivudine as a once daily regimen.
 
 Liver disease
 
 The safety and efficacy of Ziagen has not been established in patients with significant underlying liver disorders.
-Ziagen is contraindicated in patients with severe hepatic impairment (see section 4.3).
+Ziagen is not recommended in patients with moderate or severe hepatic impairment (see sections 4.2 and 5.2 ).
 Patients with pre-existing liver dysfunction, including chronic active hepatitis, have an increased frequency of liver function abnormalities during combination antiretroviral therapy, and should be monitored according to standard practice.
 If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered.
-
-A pharmacokinetic study has been performed in patients with mild hepatic impairment.
-However, a definitive recommendation on dose reduction is not possible due to substantial variability of drug exposure in this patient population (see section 5.2).
-The clinical safety data available with abacavir in hepatically impaired patients is very limited.
-Due to the potential increases in exposure (AUC) in some patients, close monitoring is required.
-No data are available in patients with moderate or severe hepatic impairment.
-Plasma concentrations of abacavir are expected to substantially increase in these patients.
-Therefore, the use of abacavir in patients with moderate hepatic impairment is not recommended unless judged necessary and requires close monitoring of these patients.
 
 Patients co-infected with chronic hepatitis B or C virus
 
 Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk of severe and potentially fatal hepatic adverse reactions.
 In case of concomitant antiviral therapy for hepatitis B or C, please refer also to the relevant product information for these medicinal products.
 
-Caution should be exercised when abacavir and ribavirin are co-administered (see section 4.5).
-
 Renal disease
 
 Ziagen should not be administered to patients with end-stage renal disease (see section 5.2).
 
 Immune Reactivation Syndrome
-
 In HIV-infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterium infections, and Pneumocystis carinii pneumonia.
@@ -121,16 +109,13 @@ Overall the available data from observational cohorts and from randomised trials
 To date, there is no established biological mechanism to explain a potential increase in risk.
 When prescribing Ziagen, action should be taken to try to minimize all modifiable risk factors (e.g. smoking, hypertension, and hyperlipidaemia).
 
-[Ziagen 20 mg/mL oral solution]
+[Ziagen 20 mg/ml oral solution]
 
-- In order to avoid restarting abacavir, patients who have experienced a suspected HSR should be instructed to dispose of their remaining Ziagen tablets
-
-The main adverse reactions reported are haematological disorders (anaemia, neutropenia), metabolic disorders (hyperlipasemia).
+Ziagen is not recommended in patients with moderate or severe hepatic impairment (see sections 4.2 and 5.2).
 
 Excipients
-
-Ziagen oral solution contains 340 mg/mL of sorbitol.
-When taken according to the dosage recommendations each 15 mL dose contains approximately 5 g of sorbitol.
+Ziagen oral solution contains 340 mg/ml of sorbitol.
+When taken according to the dosage recommendations each 15 ml dose contains approximately 5 g of sorbitol.
 Patients with rare hereditary problems of fructose intolerance should not take this medicine.
 Sorbitol can have a mild laxative effect.
 The calorific value of sorbitol is 2.6 kcal/g.

@@ -2,5 +2,3 @@
 
 Hypersensitivity to abacavir or to any of the excipients listed in section 6.1.
 See sections 4.4 and 4.8.
-
-Patients with severe hepatic impairment.

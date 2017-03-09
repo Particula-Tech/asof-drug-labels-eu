@@ -2,7 +2,7 @@
 
 No special requirements for disposal.
 
-[Ziagen 20 mg/mL oral solution]
+[Ziagen 20 mg/ml oral solution]
 
 A plastic adapter and oral dosing syringe are provided for accurate measurement of the prescribed dose of oral solution.
 The adapter is placed in the neck of the bottle and the syringe attached to this.

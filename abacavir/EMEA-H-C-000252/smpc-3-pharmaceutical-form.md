@@ -6,7 +6,7 @@ The scored tablets are yellow, biconvex, capsule shaped and are engraved with â€
 
 The tablet can be divided into equal halves.
 
-[Ziagen 20 mg/mL oral solution]
+[Ziagen 20 mg/ml oral solution]
 
 Oral solution
 

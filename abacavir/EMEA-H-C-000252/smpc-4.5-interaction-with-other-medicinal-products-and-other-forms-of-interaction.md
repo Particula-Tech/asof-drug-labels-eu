@@ -8,7 +8,6 @@ Therefore, there is little potential for interactions with antiretroviral PIs an
 Clinical studies have shown that there are no clinically significant interactions between abacavir, zidovudine, and lamivudine.
 
 Potent enzymatic inducers such as rifampicin, phenobarbital and phenytoin may via their action on UDP-glucuronyltransferases slightly decrease the plasma concentrations of abacavir.
-
 Ethanol: the metabolism of abacavir is altered by concomitant ethanol resulting in an increase in AUC of abacavir of about 41%.
 These findings are not considered clinically significant.
 Abacavir has no effect on the metabolism of ethanol.
@@ -21,8 +20,3 @@ Patients being treated with methadone and abacavir should be monitored for evide
 
 Retinoids: retinoid compounds are eliminated via alcohol dehydrogenase.
 Interaction with abacavir is possible but has not been studied.
-
-Ribavirin: As abacavir and ribavirin share the same phosphorylation pathways, a possible intracellular interaction between these drugs has been postulated, which could lead to a reduction in intracellular phosphorylated metabolites of ribavirin and, as a potential consequence, a reduced chance of sustained virological response (SVR) for Hepatitis C (HCV) in HCV co-infected patients treated with pegylated interferon plus ribavirin.
-Conflicting clinical findings are reported in literature on co-administration between abacavir and ribavirin.
-Some data suggest that HIV/HCV co-infected patients receiving abacavir-containing anti-retroviral therapy may be at risk of a lower response rate to pegylated interferon/ribavirin therapy.
-Caution should be exercised when both drugs are co-administered.

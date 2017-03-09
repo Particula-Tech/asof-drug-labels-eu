@@ -61,7 +61,6 @@ This recurrence of the HSR is usually more severe than on initial presentation, 
 Similar reactions have also occurred infrequently after restarting abacavir in patients who had only one of the key symptoms of hypersensitivity (see above) prior to stopping abacavir; and on very rare occasions have also been seen in patients who have restarted therapy with no preceding symptoms of a HSR (i.e., patients previously considered to be abacavir tolerant).
 
 Metabolic parameters
-
 Weight and levels of blood lipids and glucose may increase during antiretroviral therapy (see section 4.4)
 
 Immune reactivation syndrome
@@ -74,6 +73,7 @@ The frequency of this is unknown (see section 4.4).
 
 Changes in laboratory chemistries
 In controlled clinical studies laboratory abnormalities related to Ziagen treatment were uncommon, with no differences in incidence observed between Ziagen treated patients and the control arms.
+
 Paediatric population
 
 1206 HIV-infected paediatric patients aged 3 months to 17 years were enrolled in the ARROW Trial (COL105677), 669 of whom received abacavir and lamivudine either once or twice daily (see section 5.1).

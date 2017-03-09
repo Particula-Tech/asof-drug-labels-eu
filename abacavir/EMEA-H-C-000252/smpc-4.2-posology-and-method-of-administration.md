@@ -37,22 +37,21 @@ However, Ziagen is not recommended for patients with end-stage renal disease (se
 
 Hepatic impairment
 Abacavir is primarily metabolised by the liver.
-No dose recommendation can be made in patients with mild hepatic impairment.
-In patients with moderate hepatic impairment, no data are available, therefore the use of abacavir is not recommended unless judged necessary.
-If abacavir is used in patients with mild or moderate hepatic impairment, then close monitoring is required, and if feasible, monitoring of abacavir plasma levels is recommended (see section 5.2).
-Abacavir is contraindicated in patients with severe hepatic impairment (see section 4.3 and 4.4).
+No definitive dose recommendation can be made in patients with mild hepatic impairment (Child-Pugh score 5-6).
+In patients with moderate or severe hepatic impairment, no clinical data are available, therefore the use of abacavir is not recommended unless judged necessary.
+If abacavir is used in patients with mild hepatic impairment, then close monitoring is required, including monitoring of abacavir plasma levels if feasible (see sections 4.4 and 5.2).
 
 Elderly
 No pharmacokinetic data are currently available in patients over 65 years of age.
 
-[Ziagen 20 mg/mL oral solution]
+[Ziagen 20 mg/ml oral solution]
 
 Ziagen is also available as a tablet formulation.
 
-The recommended dose of Ziagen is 600 mg daily (30 mL).
-This may be administered as either 300 mg (15 mL) twice daily or 600 mg (30 mL) once daily (see sections 4.4 and 5.1).
+The recommended dose of Ziagen is 600 mg daily (30 ml).
+This may be administered as either 300 mg (15 ml) twice daily or 600 mg (30 ml) once daily (see sections 4.4 and 5.1).
 
-Children from one year of age: The recommended dose is 8 mg/kg twice daily or 16 mg/kg once daily, up to a maximum total daily dose of 600 mg (30 mL).
+Children from one year of age: The recommended dose is 8 mg/kg twice daily or 16 mg/kg once daily, up to a maximum total daily dose of 600 mg (30 ml).
 
 Children from three months to one year of age: The recommended dose is 8 mg/kg twice daily.
 If a twice daily regimen is not feasible, a once daily regimen (16 mg/kg/day) could be considered.

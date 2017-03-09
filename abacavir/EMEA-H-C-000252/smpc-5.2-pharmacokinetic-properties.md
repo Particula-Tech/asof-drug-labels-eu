@@ -5,10 +5,10 @@ Absorption
 Abacavir is rapidly and well absorbed following oral administration.
 The absolute bioavailability of oral abacavir in adults is about 83%.
 Following oral administration, the mean time (tmax) to maximal serum concentrations of abacavir is about 1.5 hours for the tablet formulation and about 1.0 hour for the solution formulation.
-At therapeutic dosages a dosage of 300 mg twice daily, the mean (CV) steady state Cmax and Cmin of abacavir are approximately 3.00 µg/mL (30%) and 0.01 µg/mL (99%), respectively.
-The mean (CV) AUC over a dosing interval of 12 hours was 6.02 µg.h/mL (29%), equivalent to a daily AUC of approximately 12.0 µg.h/mL.
+At therapeutic dosages a dosage of 300 mg twice daily, the mean (CV) steady state Cmax and Cmin of abacavir are approximately 3.00 µg/ml (30%) and 0.01 µg/ml (99%), respectively.
+The mean (CV) AUC over a dosing interval of 12 hours was 6.02 µg.h/ml (29%), equivalent to a daily AUC of approximately 12.0 µg.h/ml.
 The Cmax value for the oral solution is slightly higher than the tablet.
-After a 600 mg abacavir tablet dose, the mean (CV) abacavir Cmax was approximately 4.26 µg/mL (28%) and the mean (CV) AUC∞ was 11.95 µg.h/mL (21%).
+After a 600 mg abacavir tablet dose, the mean (CV) abacavir Cmax was approximately 4.26 µg/ml (28%) and the mean (CV) AUC∞ was 11.95 µg.h/ml (21%).
 
 Food delayed absorption and decreased Cmax but did not affect overall plasma concentrations (AUC).
 Therefore Ziagen can be taken with or without food.
@@ -21,7 +21,7 @@ Distribution
 Following intravenous administration, the apparent volume of distribution was about 0.8 l/kg, indicating that abacavir penetrates freely into body tissues.
 
 Studies in HIV infected patients have shown good penetration of abacavir into the CSF, with a CSF to plasma AUC ratio of between 30 to 44%.
-The observed values of the peak concentrations are 9 fold greater than the IC50 of abacavir of 0.08 µg/mL or 0.26 µM when abacavir is given at 600 mg twice daily.
+The observed values of the peak concentrations are 9 fold greater than the IC50 of abacavir of 0.08 µg/ml or 0.26 µM when abacavir is given at 600 mg twice daily.
 
 Plasma protein binding studies in vitro indicate that abacavir binds only low to moderately (~49%) to human plasma proteins at therapeutic concentrations.
 This indicates a low likelihood for interactions with other medicinal products through plasma protein binding displacement.
@@ -46,13 +46,14 @@ In a study of 20 HIV-infected patients receiving abacavir 300 mg twice daily, wi
 In a crossover study in 27 HIV-infected patients, intracellular carbovir-TP exposures were higher for the abacavir 600 mg once daily regimen (AUC24,ss + 32 %, Cmax24,ss + 99 % and Ctrough + 18 %) compared to the 300 mg twice daily regimen.
 Overall, these data support the use of abacavir 600 mg once daily for the treatment of HIV infected patients.
 Additionally, the efficacy and safety of abacavir given once daily has been demonstrated in a pivotal clinical study (CNA30021-See section 5.1 Clinical experience).
-Special patient populations
 
-Hepatic impairedment
+Special patient populations
+Hepatic impairment
 Abacavir is metabolised primarily by the liver.
-The pharmacokinetics of abacavir have been studied in patients with mild hepatic impairment (Child-Pugh score 5-6) receiving a single 600 mg dose.
-The results showed that there was a mean increase of 1.89 fold [1.32; 2.70] in the abacavir AUC, and 1.58 [1.22; 2.04] fold in the elimination half-life.
-No recommendation on dosage reduction is possible in patients with mild hepatic impairment due to the substantial variability of abacavir exposure.
+The pharmacokinetics of abacavir have been studied in patients with mild hepatic impairment (Child-Pugh score 5-6) receiving a single 600 mg dose ; the median (range) AUC value was 24.1 (10.4 to 54.8) ug.h/ml.
+The results showed that there was a mean (90%CI) increase of 1.89 fold [1.32; 2.70] in the abacavir AUC, and 1.58 [1.22; 2.04] fold in the elimination half-life.
+No definitive recommendation on dosage reduction is possible in patients with mild hepatic impairment due to the substantial variability of abacavir exposure.
+Abacavir is not recommended in patients with moderate or severe hepatic impairment.
 
 Renal impairment
 
@@ -74,7 +75,7 @@ The limited data available indicate that an oral solution dose of 2 mg/kg in neo
 Pharmacokinetic data were derived from 3 pharmacokinetic studies (PENTA 13, PENTA 15 and ARROW PK substudy) enrolling children under 12 years of age.
 The data are displayed in the table below:
 
-Summary of Stead-State Plasma Abacavir AUC (0-24) (µg.h/mL) and Statistical Comparisons for Once and Twice-Daily Oral Administration Across Studies
+Summary of Stead-State Plasma Abacavir AUC (0-24) (µg.h/ml) and Statistical Comparisons for Once and Twice-Daily Oral Administration Across Studies
 
 | Study | Age Group | Abacavir 16 mg/kg Once-Daily Dosing Geometric Mean (95% Cl) | Abacavir 8 mg/kg Twice-Daily Dosing Geometric Mean (95% Cl) | Once-Versus Twice-Daily Comparison GLS Mean Ratio (90% Cl) |
 | --- | --- | --- | --- | --- |
@@ -82,14 +83,15 @@ Summary of Stead-State Plasma Abacavir AUC (0-24) (µg.h/mL) and Statistical Com
 | PENTA 13 | 2 to 12 years (N=14) | 13.4 (11.8-15.2) | 9.91 (8.3-11.9) | 1.35 (1.19-1.54) |
 | PENTA 15 | 3 to 36 months (N=18) | 11.6 (9.89-13.5) | 10.9 (8.9-13.2) | 1.07 (0.92-1.23) |
 
-In PENTA 15 study, the geometric mean plasma abacavir AUC(0-24) (95% CI) of the four subjects under 12 months of age who switch from a twice daily to a once daily regimen (see section 5.1) are 15.9 (8.86, 28.5) µg.h/mL in the once-daily dosing and 12.7 (6.52, 24.6) µg.h/mL in the twice-daily dosing.
+In PENTA 15 study, the geometric mean plasma abacavir AUC(0-24) (95% CI) of the four subjects under 12 months of age who switch from a twice daily to a once daily regimen (see section 5.1) are 15.9 (8.86, 28.5) µg.h/ml in the once-daily dosing and 12.7 (6.52, 24.6) µg.h/ml in the twice-daily dosing.
 
 Elderly
 
 The pharmacokinetics of abacavir has not been studied in patients over 65 years of age.
 
-[Ziagen 20 mg/mL oral solution]
+[Ziagen 20 mg/ml oral solution]
 
 There are no differences observed between the AUC for the tablet or solution.
+At therapeutic dosages a dosage of 300 mg twice daily, the mean (CV) steady state Cmax and Cmin of abacavir are approximately 3.00 µg/ml (30%) and 0.01 µg/ml(99%), respectively.
 
-Hepatic impairment
+The pharmacokinetics of abacavir have been studied in patients with mild hepatic impairment (Child-Pugh score 5-6) receiving a single 600 mg dose; the median (range) AUC values was 24.1 (10.4 to 54.8) ug.h/ml.
