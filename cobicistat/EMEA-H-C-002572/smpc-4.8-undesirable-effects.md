@@ -51,7 +51,6 @@ An increase from baseline in serum creatinine solely due to cobicistat’s inhib
 
 In study GS-US-216-0114, decreases in estimated creatinine clearance occurred early in treatment with cobicistat, after which they stabilised.
 The mean (± SD) change in estimated glomerular filtration rate (eGFR) by Cockcroft-Gault method after 144 weeks of treatment was -15.1 ± 16.5 ml/min in the cobicistat-boosted atazanavir plus emtricitabine and tenofovir disoproxil fumarate fixed-dose combination group and -8.0 ± 16.8 ml/min in the ritonavir-boosted atazanavir plus emtricitabine and tenofovir disoproxil fumarate fixed-dose combination group.
-
 Effects on the liver
 In study GS-US-216-0114, hyperbilirubinaemia (> 1 x ULN) was common: 97.7% in the cobicistat-boosted atazanavir plus emtricitabine and tenofovir disoproxil fumarate fixed-dose combination group, and 97.4% in the ritonavir-boosted atazanavir plus emtricitabine and tenofovir disoproxil fumarate fixed-dose combination group through 144 weeks of treatment.
 However, a higher percentage of subjects in the cobicistat-boosted group had increases in total bilirubin > 2 x ULN than those in the ritonavir-boosted group (88.0% versus 80.9%).
@@ -61,6 +60,7 @@ An increase of > 3 x ULN in alanine aminotransferase or aspartate aminotransfera
 Paediatric population
 No data are available for children below 18 years of age.
 Tybost is not recommended in this population (see section 4.2).
+
 Other special population(s)
 
 Elderly
@@ -68,7 +68,7 @@ Cobicistat has not been studied in patients over the age of 65.
 
 Patients with renal impairment
 The safety of Tybost in 73 HIV-1 infected treatment-experienced patients with mild to moderate renal impairment (eGFR by Cockcroft-Gault method 50-89 ml/min) who switched pharmacokinetic enhancer from ritonavir to cobicistat was evaluated in an open-label clinical study (GS-US-236-0118) of cobicistat-boosted atazanavir or darunavir plus two NRTIs.
-At week 48 the mean change in serum creatinine was 0.04 ± 0.19 mg/dl and the mean change in eGFR by Cockcroft-Gault method was -4.1 ± 9.5 ml/min.
+At week 96 the mean change in serum creatinine was 0.07 ± 0.15 mg/dl and the mean change in eGFR by Cockcroft-Gault method was -6.2 ± 9.07 ml/min.
 The effect of cobicistat on serum creatinine and eGFR in patients switching from ritonavir to cobicistat in study GS-US-236-0118 was consistent with the effect in treatment-naïve patients in study GS-US-216-0114.
 
 Reporting of suspected adverse reactions
