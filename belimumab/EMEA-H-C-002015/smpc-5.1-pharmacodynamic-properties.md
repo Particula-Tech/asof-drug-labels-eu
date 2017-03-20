@@ -18,14 +18,16 @@ Changes in biomarkers were seen in clinical trials.
 In patients with hypergammaglobulinemia, normalization of IgG levels was observed by Week 52 in 49% and 20% of patients receiving Benlysta and placebo, respectively.
 
 In patients with anti-dsDNA antibodies, 16% of patients treated with Benlysta converted to anti-dsDNA negative compared with 7% of the patients receiving placebo by Week 52.
+
 In patients with low complement levels, normalization of C3 and C4 was observed by Week 52 in 38% and 44% of patients receiving Benlysta and in 17% and 19% of patients receiving placebo.
+
 Of the anti-phospholipid antibodies, only anti-cardiolipin antibody was measured.
 For anti-cardiolipin IgA antibody a 37% reduction at Week 52 was seen (p=0.0003), for anti-cardiolipin IgG antibody a 26% reduction at Week 52 was seen (p=0.0324) and for anti-cardiolipin IgM a 25% reduction was seen (p=NS, 0.46).
 
-In a long-term extension study, B cells (including naïve, activated, plasma cells and the SLE B cell subset) and IgG levels were followed for up to 172 weeks with ongoing belimumab treatment.
-A substantial and sustained decrease in various B cell subsets was observed leading to a 70% to 90% median reduction in naïve B cells, activated B cells and plasmacytoid cells, and up to 60% median reduction in plasma cells after 3 years of treatment.
-Over three years, a 20% to 30% median reduction in IgG levels was observed, with 0.5% of subjects experiencing a decrease in IgG levels to below 400 mg/dL.
-The impact of long-term B cell decrease on efficacy and safety has not yet been determined.
+Changes in B cells (including naïve, memory and activated B cells, and plasma cells) and IgG levels occurring in patients during ongoing treatment with intravenous belimumab were followed in a long-term uncontrolled extension study.
+After 7 and a half years of treatment (including the 72-week parent study), a substantial and sustained decrease in various B cell subsets was observed leading to 87% median reduction in naïve B cells, 67% in memory B cells, 99% in activated B cells, and 92% median reduction in plasma cells after more than 7 years of treatment.
+After about 7 years, a 28% median reduction in IgG levels was observed, with 1.6% of subjects experiencing a decrease in IgG levels to below 400 mg/dl.
+Over the course of the study, the reported incidence of AEs generally remained stable or declined.
 
 Immunogenicity
 
@@ -62,7 +64,6 @@ The primary efficacy endpoint was a composite endpoint (SLE Responder Index) tha
 - no worsening (>0.30 point increase) in Physician’s Global Assessment score (PGA)
 
 The SLE Responder Index measures improvement in SLE disease activity, without worsening in any organ system, or in the patient’s overall condition.
-
 Table 1: Response rate at week 52
 
 | Response | BLISS-76 |  | BLISS-52 |  | BLISS-76 and BLISS-52 Pooled |  |
@@ -72,7 +73,7 @@ Table 1: Response rate at week 52
 | Observed difference vs placebo |  | 9.4% |  | 14.0% |  | 11.8% |
 | Odds ratio (95% CI) vs placebo |  | 1.52 (1.07, 2.15) |  | 1.83 (1.30,2.59) |  | 1.68 (1.32,2.15) |
 | Components of SLE responder index |  |  |  |  |  |  |
-| Percent of patients with reduction in SELENA-SLEDAI ≥4 | 35.6% | 46.9% (p=0.006 | 46.0% | 58.3% (p= 0.0024) | 40.9% | 52.8% (p<0.0001) |
+| Percent of patients with reduction in SELENA-SLEDAI ≥4 | 35.6% | 46.9% (p=0.006) | 46.0% | 58.3% (p= 0.0024) | 40.9% | 52.8% (p<0.0001) |
 | Percent of patients with no worsening by BILAG index | 65.1% | 69.2% (p=0.32) | 73.2% | 81.4% (p=0.018) | 69.2% | 75.5% (p=0.019) |
 | Percent of patients with no worsening by PGA | 62.9% | 69.2% (p=0.13) | 69.3% | 79.7% (p=0.0048) | 66.2% | 74.6% (p=0.0017) |
 
@@ -83,11 +84,11 @@ In a pooled analysis of the two studies, the percentage of patients receiving >7
 Flares in SLE were defined by the modified SELENA SLEDAI SLE Flare Index.
 The median time to the first flare was delayed in the pooled group receiving belimumab compared to the group receiving placebo (110 vs 84 days, hazard ratio=0.84, p=0.012).
 Severe flares were observed in 15.6% of the Benlysta group compared to 23.7% of the placebo group over the 52 weeks of observation (observed treatment difference = - 8.1%; hazard ratio=0.64, p=0.0011).
+
 Benlysta demonstrated improvement in fatigue compared with placebo measured by the FACIT-Fatigue scale in the pooled analysis.
 The mean change of score at Week 52 from baseline is significantly greater with Benlysta compared to placebo (4.70 vs 2.46, p=0.0006).
 
 Univariate and multivariate analysis of the primary endpoint in pre-specified subgroups demonstrated that the greatest benefit was observed in patients with higher disease activity including patients with SELENA SLEDAI scores ≥ 10, patients requiring steroids to control their disease, and patients with low complement levels.
-
 Post-hoc analysis has identified high responding subgroups such as those patients with low complement and positive anti-dsDNA at baseline, see Table 2.
 Of these patients, 64.5% had SELENA SLEDAI scores ≥ 10 at baseline.
 
@@ -101,8 +102,9 @@ Table 2: Patients with low complement and positive anti-dsDNA at baseline
 | SRI response rate (excluding complement and anti-dsDNA changes) at week 52 (%) | 28.9 | 46.2 (p<0.0001) |
 | Observed treatment difference vs placebo (%) |  | 17.3 |
 | Severe flares over 52 weeks Patients experiencing a severe flare (%) | 29.6 | 19.0 |
-| Observed treatment difference vs placebo (%) Time to severe flare [Hazard ratio (95% CI)] |  | 10.6 0.61 (0.44, 0.85) (p=0.0038) |
-| Prednisone reduction by ≥25% from baseline to ≤7.5 mg/day during weeks 40 through 52* (%) Observed treatment difference vs placebo (%) | (n=173) 12.1 | (n=195) 18.5 (p=0.0964) 6.3 |
+| Observed treatment difference vs. placebo (%) Time to severe flare [Hazard ratio (95% CI)] |  | 10.6 0.61 (0.44, 0.85) (p=0.0038) |
+| Prednisone reduction by ≥25% from baseline to ≤7.5 mg/day during weeks 40 through 52* (%) | (n=173) 12.1 | (n=195) 18.5 (p=0.0964) |
+| Observed treatment difference vs placebo (%) |  | 6.3 |
 | FACIT-fatigue score improvement from baseline at week-52 (mean) | 1.99 | 4.21 (p=0.0048) |
 | Observed treatment difference vs placebo (mean difference) |  | 2.21 |
 | BLISS-76 Study only | Placebo (n=131) | Benlysta 10 mg/kg (n=134) |

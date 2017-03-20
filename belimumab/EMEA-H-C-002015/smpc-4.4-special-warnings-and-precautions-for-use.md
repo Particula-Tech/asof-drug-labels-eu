@@ -41,11 +41,12 @@ Delayed-type, non-acute hypersensitivity reactions have also been observed and i
 
 Infections
 
-The mechanism of action of Benlysta could increase the potential risk for the development of infections, including opportunistic infections.
-Physicians should exercise caution when considering the use of Benlysta in patients with chronic infections or a history of recurrent infection.
-Patients receiving any therapy for chronic infection should not begin therapy with Benlysta.
-Patients who develop an infection while undergoing treatment with Benlysta should be monitored closely.
+The mechanism of action of belimumab could increase the risk for the development of infections, including opportunistic infections.
+Severe infections, including fatal cases, have been reported in SLE patients receiving immunosuppressant therapy, including belimumab (see section 4.8).
+Physicians should exercise caution when considering the use of Benlysta in patients with severe or chronic infections or a history of recurrent infection.
+Patients who develop an infection while undergoing treatment with Benlysta should be monitored closely and careful consideration given to interrupting immunosuppressant therapy including belimumab until the infection is resolved.
 The risk of using Benlysta in patients with active or latent tuberculosis is unknown.
+
 Progressive multifocal leukoencephalopathy
 
 Progressive multifocal leukoencephalopathy (PML) has been reported with Benlysta treatment for SLE.
@@ -57,11 +58,13 @@ Immunisation
 
 Live vaccines should not be given for 30 days before, or concurrently with Benlysta, as clinical safety has not been established.
 No data are available on the secondary transmission of infection from persons receiving live vaccines to patients receiving Benlysta.
+
 Because of its mechanism of action, belimumab may interfere with the response to immunisations.
-The efficacy of concurrent vaccination in patients receiving Benlysta is not known.
+However, in a small study evaluating the response to a 23-valent pneumococcal vaccine, overall immune responses to the different serotypes were similar in SLE patients receiving Benlysta compared with those receiving standard immunosuppressive treatment at the time of vaccination.
+There are insufficient data to draw conclusions regarding response to other vaccines.
+
 Limited data suggest that Benlysta does not significantly affect the ability to maintain a protective immune response to immunisations received prior to administration of Benlysta.
 In a substudy, a small group of patients who had previously received either tetanus, pneumococcal or influenza vaccinations were found to maintain protective titres after treatment with Benlysta.
-There are insufficient data to draw conclusions regarding the ability of subjects receiving Benlysta to mount protective responses to vaccines.
 
 Malignancies and lymphoproliferative disorders
 

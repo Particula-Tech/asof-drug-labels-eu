@@ -14,7 +14,6 @@ The majority of patients were also receiving one or more of the following concom
 Adverse reactions were reported in 93% of Benlysta-treated patients and 92% of placebo-treated patients.
 The most frequently reported adverse reactions (≥10% of patient with SLE treated with Benlysta plus standard of care and at a rate ≥1% greater than placebo) were nausea, diarrhoea, and pyrexia.
 The proportion of patients who discontinued treatment due to adverse reactions was 7% for both Benlysta-treated and placebo-treated patients.
-
 Tabulated list of adverse reactions
 
 Adverse reactions are listed below by MedDRA system organ class and by frequency.
@@ -49,7 +48,6 @@ Within each frequency grouping, undesirable effects are presented in order of de
 Due to overlap in signs and symptoms, it is not possible to distinguish between hypersensitivity reactions and infusion reactions in all cases.
 
 Description of selected adverse reactions
-
 Infusion reactions and hypersensitivity: The incidence of infusion reactions and hypersensitivity reactions occurring during or on the same day as an infusion was 17% in the group receiving Benlysta and 15% in the group receiving placebo, with 1% and 0.3%, respectively, requiring permanent treatment discontinuation.
 These reactions were generally observed on the day of infusion, but acute hypersensitivity reactions may also occur on the day after dosing.
 Patients with a history of multiple drug allergies or significant hypersensitivity reactions may be at increased risk.
@@ -59,8 +57,10 @@ Infections occurring in at least 3% of Benlysta patients and at least 1% more fr
 Serious infections occurred in 5% of patients receiving Benlysta or placebo.
 Infections leading to discontinuation of treatment occurred in 0.6% of patients receiving Benlysta and 1% of patients receiving placebo.
 Opportunistic infections have been reported in patients treated with Benlysta.
+Some infections were severe or fatal.
 
 Leucopenia: The incidence of leucopenia reported as an adverse event was 4% in the group receiving Benlysta and 2% in the group receiving placebo.
+
 Psychiatric disorders: Insomnia occurred in 7% of the group receiving Benlysta and 5% of the group receiving placebo.
 Depression was reported in 5% and 4% of the groups receiving Benlysta and placebo, respectively.
 
