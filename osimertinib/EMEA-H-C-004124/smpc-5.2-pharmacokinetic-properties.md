@@ -8,7 +8,7 @@ At steady-state, circulating plasma concentrations are typically maintained with
 
 Absorption
 Following oral administration of TAGRISSO, peak plasma concentrations of osimertinib were achieved with a median (min-max) tmax of 6 (3-24) hours, with several peaks observed over the first 24 hours in some patients.
-The absolute bioavailability of TAGRISSO has not been determined.
+The absolute bioavailability of TAGRISSO is 70% (90%CI 67, 73).
 Based on a clinical pharmacokinetic study in patients at 80 mg, food does not alter osimertinib bioavailability to a clinically meaningful extent.
 (AUC increase by 6% (90% CI -5, 19) and Cmax decrease by 7% (90% CI -19, 6)).
 In healthy volunteers administered an 80 mg tablet where gastric pH was elevated by dosing of omeprazole for 5 days, osimertinib exposure was not affected (AUC and Cmax increase by 7% and 2%, respectively) with the 90% CI for exposure ratio contained within the 80-125% limit.
@@ -20,8 +20,8 @@ Osimertinib has also been demonstrated to bind covalently to rat and human plasm
 
 Biotransformation
 In vitro studies indicate that osimertinib is metabolized predominantly by CYP3A4, and CYP3A5.
-CYP3A4 mediated metabolism may be a minor pathway.
-Alternative metabolic pathways may exist which have not been fully characterized Based on in vitro studies, 2 pharmacologically active metabolites (AZ7550 and AZ5104) have subsequently been identified in the plasma of preclinical species and in humans after oral dosing with osimertinib; AZ7550 showed a similar pharmacological profile to TAGRISSO while AZ5104 showed greater potency across both mutant and wild-type EGFR.
+However, with current available data, alternative metabolic pathways cannot be fully ruled out.
+Based on in vitro studies, 2 pharmacologically active metabolites (AZ7550 and AZ5104) have subsequently been identified in the plasma of preclinical species and in humans after oral dosing with osimertinib; AZ7550 showed a similar pharmacological profile to TAGRISSO while AZ5104 showed greater potency across both mutant and wild-type EGFR.
 Both metabolites appeared slowly in plasma after administration of TAGRISSO to patients, with a median (min-max) tmax of 24 (4-72) and 24 (6-72) hours, respectively.
 In human plasma, parent osimertinib accounted for 0.8%, with the 2 metabolites contributing 0.08% and 0.07% of the total radioactivity with the majority of the radioactivity being covalently bound to plasma proteins.
 The geometric mean exposure of both AZ5104 and AZ7550, based on AUC, was approximately 10% each of the exposure of osimertinib at steady-state.
@@ -61,7 +61,6 @@ The hepatic impairment marker serum albumin showed an effect on the PK of osimer
 Clinical studies that were conducted excluded patients with AST or ALT >2.5x upper limit of normal (ULN), or if due to underlying malignancy, >5.0x ULN or with total bilirubin >1.5x ULN.
 Based on a pharmacokinetic analysis of 44 patients with mild hepatic impairment and 330 patients with normal hepatic function osimertinib exposures were similar.
 There are limited data available on patients with hepatic impairment (see section 4.2).
-
 Renal impairment
 A pharmacokinetic study in patients with renal impairment has not been conducted.
 Based on a population pharmacokinetic analysis of 330 patients with mild renal impairment (CLcr 60 to less than 90 mL/min), 149 patients with moderate renal impairment (CLcr 30 to <than 60 mL/min), 3 patients with severe renal impairment (CLcr 15 to <than 30 mL/min) and 295 patients with normal renal function (≥90 mL/min), osimertinib exposures were similar.
