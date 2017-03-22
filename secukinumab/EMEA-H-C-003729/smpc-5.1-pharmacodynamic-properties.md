@@ -9,10 +9,10 @@ Secukinumab works by targeting IL-17A and inhibiting its interaction with the IL
 As a result, secukinumab inhibits the release of proinflammatory cytokines, chemokines and mediators of tissue damage and reduces IL-17A-mediated contributions to autoimmune and inflammatory diseases.
 Clinically relevant levels of secukinumab reach the skin and reduce local inflammatory markers.
 As a direct consequence treatment with secukinumab reduces erythema, induration and desquamation present in plaque psoriasis lesions.
-
 IL-17A is a naturally occurring cytokine that is involved in normal inflammatory and immune responses.
 IL-17A plays a key role in the pathogenesis of plaque psoriasis, psoriatic arthritis and ankylosing spondylitis and is up-regulated in lesional skin in contrast to non-lesional skin of plaque psoriasis patients and in synovial tissue of psoriatic arthritis patients.
 The frequency of IL-17-producing cells was also significantly higher in the subchondral bone marrow of facet joints from patients with ankylosing spondylitis.
+
 Pharmacodynamic effects
 
 Serum levels of total IL-17A (free and secukinumab-bound IL-17A) are initially increased in patients receiving secukinumab.
@@ -44,10 +44,10 @@ Psoriasis Study 3 (FEATURE) evaluated 177 patients using a pre-filled syringe co
 Psoriasis Study 4 (JUNCTURE) evaluated 182 patients using a pre-filled pen compared with placebo after 12 weeks of treatment to assess the safety, tolerability, and usability of Cosentyx self-administration via the pre-filled pen.
 In both Study 3 and Study 4, patients randomised to Cosentyx received 150 mg or 300 mg doses at Weeks 0, 1, 2, and 3, followed by the same dose every month starting at Week 4.
 Patients were also randomised to receive placebo at Weeks 0, 1, 2, and 3, followed by the same dose every month starting at Week 4.
-
 Psoriasis Study 5 (SCULPTURE) evaluated 966 patients.
 All patients received Cosentyx 150 mg or 300 mg doses at Weeks 0, 1, 2, 3, 4, 8 and 12 and then were randomised to receive either a maintenance regimen of the same dose every month starting at Week 12 or a “retreatment as needed” regimen of the same dose.
 Patients randomised to “retreatment as needed” did not achieve adequate maintenance of response and therefore a fixed monthly maintenance regimen is recommended.
+
 The co-primary endpoints in the placebo and active-controlled studies were the proportion of patients who achieved a PASI 75 response and IGA mod 2011 “clear” or “almost clear” response versus placebo at Week 12 (see Tables 2 and 3).
 The 300 mg dose provided improved skin clearance particularly for “clear” or “almost clear” skin across the efficacy endpoints of PASI 90, PASI 100, and IGA mod 2011 0 or 1 response across all studies with peak effects seen at Week 16, therefore this dose is recommended.
 
@@ -161,6 +161,33 @@ or “almost ** **
 clear” response n (%)
 ** p values versus etanercept: p=0.0250
 
+In an additional psoriasis study (CLEAR) 676 patients were evaluated.
+Secukinumab 300 mg met the primary and secondary endpoints by showing superiority to ustekinumab based on PASI 90 response at Week 16 and speed of onset of PASI 75 response at Week 4.
+Greater efficacy for secukinumab compared to ustekinumab for the endpoints PASI 75/90/100 and IGA mod 2011 0 or 1 response (“clear” or “almost clear”) was observed early and continued through to Week 16.
+
+Table 4 Summary of clinical response on CLEAR Study
+
+Week 4 Week 16
+
+Secukinumab Ustekinumab* Secukinumab Ustekinumab*
+
+300 mg 300 mg
+Number of patients 334 335 334 335
+
+PASI 75 response 167 (50.0%)** 69 (20.6%) 311 (93.1%) 277 (82.7%) n (%)
+
+PASI 90 response 70 (21.0%) 18 (5.4%) 264 (79.0%)** 193 (57.6%)
+
+n (%)
+
+PASI 100 response 14 (4.2%) 3 (0.9%) 148 (44.3%) 95 (28.4%)
+
+n (%)
+IGA mod 2011 “clear” 126 (37.7%) 41 (12.2%) 277 (82.9%) 226 (67.5%) or “almost clear” response n (%)
+* Patients treated with secukinumab received 300 mg doses at Weeks 0, 1, 2 and 3, followed by the same dose at Weeks 4, 8 and 12.
+Patients treated with ustekinumab received 45 mg or 90 mg at
+Weeks 0 and 4 (dosed by weight as per approved posology)
+** p values versus ustekinumab: p<0.0001
 Cosentyx was efficacious in systemic treatment-naive, biologic-naive, biologic/anti-TNF-exposed and biologic/anti-TNF-failure patients.
 Improvements in PASI 75 in patients with concurrent psoriatic arthritis at baseline were similar to those in the overall plaque psoriasis population.
 
@@ -174,13 +201,18 @@ Weeks of treatment
 n = number of patients evaluable
 Cosentyx 150 mg (n=243) Cosentyx 300 mg (n=245) Placebo (n=245)
 
+Specific locations/forms of plaque psoriasis
+In two additional placebo-controlled studies, improvement was seen in both nail psoriasis (TRANSFIGURE, 198 patients) and palmoplantar plaque psoriasis (GESTURE, 205 patients).
+In the TRANSFIGURE Study, secukinumab was superior to placebo at Week 16 (46.1% for 300 mg, 38.4% for 150 mg and 11.7% for placebo) as assessed by significant improvement from baseline in the Nail Psoriasis Severity Index (NAPSI %) for patients with moderate to severe plaque psoriasis with nail involvement.
+In the GESTURE Study, secukinumab was superior to placebo at Week 16 (33.3% for 300 mg, 22.1% for 150 mg, and 1.5% for placebo) as assessed by significant improvement of ppIGA 0 or 1 response (“clear” or “almost clear”) for patients with moderate to severe palmoplantar plaque psoriasis.
+
 Quality of life/patient-reported outcomes
 Statistically significant improvements at Week 12 (Studies 1-4) from baseline compared to placebo were demonstrated in the DLQI (Dermatology Life Quality Index).
 Mean decreases (improvements) in DLQI from baseline ranged from -10.4 to -11.6 with secukinumab 300 mg, from -7.7 to -10.1 with secukinumab 150 mg, versus -1.1 to -1.9 for placebo at Week 12.
 These improvements were maintained for 52 weeks (Studies 1 and 2).
+
 Forty percent of the participants in Studies 1 and 2 completed the Psoriasis Symptom Diary©.
 For the participants completing the diary in each of these studies, statistically significant improvements at Week 12 from baseline compared to placebo in patient-reported signs and symptoms of itching, pain and scaling were demonstrated.
-
 Psoriatic arthritis
 The safety and efficacy of Cosentyx were assessed in 1,003 patients in two randomised, double-blind, placebo-controlled phase III studies in patients with active psoriatic arthritis (≥3 swollen and ≥3 tender joints) despite non-steroidal anti-inflammatory drug (NSAID), corticosteroid or disease-modifying anti-rheumatic drug (DMARD) therapy.
 Patients with each subtype of PsA were enrolled in these studies, including polyarticular arthritis with no evidence of rheumatoid nodules, spondylitis with peripheral arthritis, asymmetric peripheral arthritis, distal interphalangeal involvement and arthritis mutilans.
@@ -201,9 +233,9 @@ Patients randomised to Cosentyx received 75 mg, 150 mg or 300 mg subcutaneously 
 Patients randomised to receive placebo who were non-responders at Week 16 (early rescue) were crossed over to receive Cosentyx (either 150 mg or 300 mg subcutaneously) at Week 16 followed by the same dose every month.
 Patients randomised to receive placebo who were responders at Week 16 were crossed over to receive Cosentyx (either 150 mg or 300 mg subcutaneously) at Week 24 followed by the same dose every month.
 Signs and symptoms
-Treatment with Cosentyx resulted in significant improvement in measures of disease activity compared to placebo at Week 24 (see Table 4).
+Treatment with Cosentyx resulted in significant improvement in measures of disease activity compared to placebo at Week 24 (see Table 5).
 
-Table 4 Clinical response in PsA Study 2 at Week 24
+Table 5 Clinical response in PsA Study 2 at Week 24
 
 Week 24
 
@@ -276,9 +308,9 @@ Radiographic response
 Inhibition of progression of structural damage in PsA has not yet been demonstrated using the subcutaneous loading regimen approved for clinical use.
 
 In PsA Study 1, inhibition of progression of structural damage was assessed radiographically and expressed as the change in modified total Sharp Score (mTSS) and its components, the Erosion Score (ES) and the Joint Space Narrowing score (JSN) at Weeks 24 and 52, compared to baseline.
-Week 24 data are presented in Table 5.
+Week 24 data are presented in Table 6.
 
-Table 5 Change in modified Total Sharp Score in psoriatic arthritis
+Table 6 Change in modified Total Sharp Score in psoriatic arthritis
 
 Placebo Cosentyx 75 mg1 Cosentyx 150 mg1
 N=179 N=181 N=185
@@ -321,9 +353,9 @@ Patients randomised to Cosentyx received 75 mg or 150 mg subcutaneously at Weeks
 At Week 16, patients who were randomised to placebo at baseline were re-randomised to receive Cosentyx (either 75 mg or 150 mg subcutaneously) every month.
 
 Signs and symptoms
-In AS Study 2, treatment with Cosentyx 150 mg resulted in greater improvement in measures of disease activity compared with placebo at Week 16 (see Table 6).
+In AS Study 2, treatment with Cosentyx 150 mg resulted in greater improvement in measures of disease activity compared with placebo at Week 16 (see Table 7).
 
-Table 6 Clinical response in AS Study 2 at Week 16
+Table 7 Clinical response in AS Study 2 at Week 16
 
 | Outcome (p-value versus placebo) | Placebo (n = 74) | 75 mg (n = 73) | 150 mg (n = 72) |
 | --- | --- | --- | --- |

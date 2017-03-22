@@ -2,8 +2,8 @@
 
 Summary of the safety profile
 
-A total of 6,200 patients have been treated with Cosentyx in blinded and open-label clinical studies in various indications (plaque psoriasis, psoriatic arthritis, ankylosing spondylitis and other autoimmune conditions).
-Of these, 3,671 patients were exposed to Cosentyx for at least one year, representing 6,267 patient years of exposure.
+A total of 6,804 patients have been treated with Cosentyx in blinded and open-label clinical studies in various indications (plaque psoriasis, psoriatic arthritis, ankylosing spondylitis and other autoimmune conditions).
+Of these, 3,671 patients were exposed to Cosentyx for at least one year, representing 6,450 patient years of exposure.
 
 Adverse reactions in plaque psoriasis
 
@@ -24,13 +24,13 @@ Adverse reactions in ankylosing spondylitis
 Cosentyx was studied in two placebo-controlled ankylosing spondylitis studies with 590 patients
 (394 patients on Cosentyx and 196 patients on placebo) for a total of 755 patient-years of study exposure (median duration of exposure for secukinumab-treated patients: 469 days in AS Study 1 and 460 days in AS Study 2).
 The safety profile observed in patients with ankylosing spondylitis treated with Cosentyx is consistent with the safety profile in psoriasis.
-
 Tabulated list of adverse reactions
-ADRs from psoriasis, psoriatic arthritis and ankylosing spondylitis clinical studies (Table 1) are listed by MedDRA system organ class.
+ADRs from psoriasis, psoriatic arthritis and ankylosing spondylitis clinical studies as well as from post-marketing experience (Table 1) are listed by MedDRA system organ class.
 Within each system organ class, the ADRs are ranked by frequency, with the most frequent reactions first.
 Within each frequency grouping, adverse drug reactions are presented in order of decreasing seriousness.
-In addition, the corresponding frequency category for each adverse drug reaction is based on the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000).
-Table 1 List of adverse reactions in clinical studies1)
+In addition, the corresponding frequency category for each adverse drug reaction is based on the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); and not known (cannot be estimated from the available data).
+
+Table 1 List of adverse reactions in clinical studies1) and post-marketing experience
 
 | System Organ Class | Frequency | Adverse reaction |
 | --- | --- | --- |
@@ -39,6 +39,7 @@ Table 1 List of adverse reactions in clinical studies1)
 |  | Uncommon | Oral candidiasis |
 |  |  | Tinea pedis |
 |  |  | Otitis externa |
+|  | Not known | Mucosal and cutaneous candidiasis (including oesophageal candidiasis) |
 | Blood and lymphatic system disorders | Uncommon | Neutropenia |
 | Immune system disorders | Rare | Anaphylactic reactions |
 | Eye disorders | Uncommon | Conjunctivitis |
@@ -58,7 +59,6 @@ Over the entire treatment period (a total of 3,430 patients treated with Cosenty
 Serious infections were reported in 1.2% of patients treated with Cosentyx (0.015 per patient-year of follow-up).
 
 Infection rates observed in psoriatic arthritis and ankylosing spondylitis clinical studies were similar to those observed in the psoriasis studies.
-
 Neutropenia
 In psoriasis phase 3 clinical studies, neutropenia was more frequently observed with secukinumab than with placebo, but most cases were mild, transient and reversible.
 Neutropenia <1.0-0.5x109/l (CTCAE Grade 3) was reported in 18 out of 3,430 (0.5%) patients on secukinumab, with no dose dependence and no temporal relationship to infections in 15 out of 18 cases.
@@ -68,6 +68,7 @@ Non-serious infections with usual response to standard care and not requiring di
 The frequency of neutropenia in psoriatic arthritis and ankylosing spondylitis is similar to psoriasis.
 
 Rare cases of neutropenia <0.5x109/l (CTCAE Grade 4) were reported.
+
 Hypersensitivity reactions
 In clinical studies, urticaria and rare cases of anaphylactic reaction to Cosentyx were observed (see also section 4.4).
 
