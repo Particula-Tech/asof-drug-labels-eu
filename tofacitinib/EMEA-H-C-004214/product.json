@@ -1,0 +1,16 @@
+{
+  "active_substance": "tofacitinib",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/004214",
+  "eu_number": "EU/1/17/1178",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2017-03-22",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/xeljanz",
+  "molecule": "tofacitinib",
+  "molecule_name": "TOFACITINIB",
+  "name": "Xeljanz",
+  "register_name": "Xeljanz",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h1178.htm"
+}
