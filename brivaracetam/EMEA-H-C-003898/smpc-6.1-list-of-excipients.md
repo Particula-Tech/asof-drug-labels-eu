@@ -52,7 +52,7 @@ Iron oxide black (E172)
 [Briviact 10 mg/ml oral solution]
 
 Sodium citrate
-Citric acid anhydrous (for pH-adjustement)
+Citric acid anhydrous (for pH-adjustment)
 Methyl parahydroxybenzoate (E218)
 Carmellose sodium
 Sucralose

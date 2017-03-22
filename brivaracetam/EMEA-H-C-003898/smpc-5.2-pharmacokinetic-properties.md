@@ -23,6 +23,7 @@ In vitro, the hydroxylation of brivaracetam is mediated primarily by CYP2C19.
 Both metabolites, are further metabolised forming a common hydroxylated acid.
 In vivo, in human subjects possessing ineffective mutations of CYP2C19, production of the hydroxy metabolite is decreased 10-fold while brivaracetam itself is increased by 22 % or 42 % in individuals with one or both mutated alleles.
 The three metabolites are not pharmacologically active.
+
 Elimination
 
 Brivaracetam is eliminated primarily by metabolism and by excretion in the urine.
@@ -69,6 +70,7 @@ Population pharmacokinetics modeling indicated that the dose of 2.0 mg/kg twice 
 Body weight
 A 40 % decrease in steady-state plasma concentration has been estimated across a body weight range from 46 kg to 115 kg.
 However, this is not considered to be a clinically relevant difference.
+
 Gender
 There are no clinically relevant differences in the pharmacokinetics of brivaracetam by gender.
 

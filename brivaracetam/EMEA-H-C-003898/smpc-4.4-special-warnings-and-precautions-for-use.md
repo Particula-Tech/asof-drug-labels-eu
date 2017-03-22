@@ -11,7 +11,7 @@ Patients (and caregivers of patients) should be advised to seek medical advice s
 Hepatic impairment
 
 There are limited clinical data on the use of brivaracetam in patients with pre-existing hepatic impairment.
-Dose adjustments are recommended for patients with hepatic impairement (see section 4.2).
+Dose adjustments are recommended for patients with hepatic impairment (see section 4.2).
 
 Lactose intolerance
 
@@ -25,10 +25,10 @@ Excipients
 Sodium content
 Brivaracetam oral solution contains sodium.
 To be taken into consideration by patients on a controlled sodium diet.
+
 Fructose intolerance
 The oral solution contains sorbitol (E420).
 Patients with rare hereditary problems of fructose intolerance should not take this medicine.
-
 Excipients which may cause intolerance
 The oral solution contains methyl parahydroxybenzoate (E218), which may cause allergic reactions (possibly delayed).
 

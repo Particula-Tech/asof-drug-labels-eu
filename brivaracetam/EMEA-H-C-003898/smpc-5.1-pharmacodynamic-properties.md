@@ -22,6 +22,7 @@ The median baseline seizure frequency across the 3 studies was 9 seizures per 28
 Patients had a mean duration of epilepsy of approximately 23 years.
 The efficacy outcomes are summarized in Table 2.
 Overall, brivaracetam was efficacious for the adjunctive treatment of partial onset seizures in patients 16 years of age and older between 50 mg/day and 200 mg/day.
+
 Table 2: Key Efficacy Outcomes for Partial Onset Seizure Frequency per 28 Days
 
 | Study | Placebo | Brivaracetam * Statistically significant (p-value) |  |  |
@@ -75,6 +76,7 @@ The lower efficacy observed in these patients compared to the leveticacetam-naï
 Elderly (65 years of age and above)
 The three pivotal double-blind placebo-controlled studies included 38 elderly patients aged between 65 and 80 years.
 Although data are limited, the efficacy was comparable to younger subjects.
+
 Open label extension studies
 Across all studies, 81.7 % of the patients who completed randomized studies were enrolled in the long-term open-label extension studies.
 From entry into the randomized studies,5.3 % of the subjects exposed to brivaracetam for 6 months (n=1,500) were seizure free compared to 4.6 % and 3.7 % for subjects exposed for 12 months (n=1,188) and 24 months (n=847), respectively.

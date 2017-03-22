@@ -13,6 +13,7 @@ This may avoid the brivaracetam plasma concentration falling below the efficacy 
 Discontinuation
 If brivaracetam has to be discontinued it is recommended to withdraw it gradually by 50 mg/day on a weekly basis.
 After 1 week of treatment at 50 mg/day, a final week of treatment at the dose of 20 mg/day is recommended.
+
 Special populations
 
 Elderly (65 years of age and above)
@@ -22,11 +23,10 @@ The clinical experience in patients ≥ 65 years is limited.
 Renal impairment
 No dose adjustment is needed in patients with impaired renal function (see section 5.2).
 Brivaracetam is not recommended in end-stage renal disease patients undergoing dialysis due to lack of data.
-
 Hepatic impairment
 Exposure to brivaracetam was increased in patients with chronic liver disease.
 A 50 mg/day starting dose should be considered.
-A maximum daily dose of 150 mg administered in 2 divided doses is recommended for all stages of hepatic impairement (see section 4.4 and 5.2).
+A maximum daily dose of 150 mg administered in 2 divided doses is recommended for all stages of hepatic impairment (see section 4.4 and 5.2).
 
 Paediatric population
 The safety and efficacy of brivaracetam in children aged less than 16 years have not yet been established.
@@ -38,7 +38,7 @@ Brivaracetam film-coated tablets must be taken orally swallowed in whole with li
 
 [Briviact 10 mg/ml oral solution]
 
-A maximum daily dose of 150 mg administered in 2 divided doses is recommended for all stages of hepatic impairement (see sections 4.4 and 5.2).
+A maximum daily dose of 150 mg administered in 2 divided doses is recommended for all stages of hepatic impairment (see sections 4.4 and 5.2).
 
 Brivaracetam oral solution can be diluted in water or juice shortly before swallowing and may be taken with or without food (see section 5.2).
 A nasogastric tube or a gastrostomy tube may be used when administering brivaracetam oral solution.

@@ -8,9 +8,8 @@ The most frequently reported adverse reactions (>10 %) with brivaracetam treatme
 They were usually mild to moderate in intensity.
 Somnolence and fatigue (8.2 %) were reported at a higher incidence with increasing dose.
 The types of adverse reactions reported during the first 7 days of treatment were similar to those reported for the overall treatment period.
-
 The discontinuation rate due to adverse reactions 3.5 %, 3.4 % and 4.0 % for patients randomized to brivaracetam at respectively the dose of 50 mg/day, 100 mg/day and 200 mg/day and 1.7 % for patients randomized to placebo.
-The adverse reaction most frequently resulting in discontinuation of brivaracetam therapy were dizziness (0.8 %) and convulsion (0.8 %).
+The adverse reactions most frequently resulting in discontinuation of brivaracetam therapy were dizziness (0.8 %) and convulsion (0.8 %).
 
 Tabulated list of adverse reactions
 

@@ -7,7 +7,6 @@ Pharmacodynamic interactions
 Concomitant treatment with levetiracetam
 In the clinical studies, although the numbers were limited, there was no observed benefit of brivaracetam versus placebo in patients taking levetiracetam concurrently.
 No additional safety or tolerability concern was observed (see section 5.1).
-
 Interaction with alcohol
 In a pharmacokinetic and pharmacodynamic interaction study between brivaracetam 200 mg single dose and ethanol 0.6 g/L continuous infusion in healthy subjects, there was no pharmacokinetic interaction but brivaracetam approximately doubled the effect of alcohol on psychomotor function, attention and memory.
 Intake of brivaracetam with alcohol is not recommended.
@@ -50,7 +49,6 @@ Antiepileptic drugs
 
 Potential interactions between brivaracetam (50 mg/day to 200 mg/day) and other AEDs were investigated in a pooled analysis of plasma drug concentrations from all phase 2-3 studies, in a population pharmacokinetic analysis of placebo-controlled phase 2-3 studies, and in dedicated drug-drug interaction studies (for the following AEDs: carbamazepine, lamotrigine, phenytoin and topiramate).
 The effect of the interactions on the plasma concentration is summarised in table 1 (increase is indicated as “↑” and decrease as “↓”, area under the plasma concentration versus time curve as “AUC”, maximum observed concentration as Cmax).
-
 Table 1: Pharmacokinetic interactions between brivaracetam and other AEDs
 
 | AED coadministered | Influence of AED on brivaracetam plasma concentration | Influence of brivaracetam on AED plasma concentration |
