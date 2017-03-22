@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Sunovion Pharmaceuticals Europe Ltd
+Sunovion Pharmaceuticals Europe Ltd.
 First Floor
 Southside
 97-105 Victoria Street
