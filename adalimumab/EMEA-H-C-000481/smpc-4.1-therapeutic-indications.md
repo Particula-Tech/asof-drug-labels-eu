@@ -71,18 +71,10 @@ Uveitis
 
 Humira is indicated for the treatment of non-infectious intermediate, posterior and panuveitis in adult patients who have had an inadequate response to corticosteroids, in patients in need of corticosteroid-sparing, or in whom corticosteroid treatment is inappropriate.
 
-[Humira 40 mg solution for injection in pre-filled syringe with needleguard]
+[Humira 40 mg solution for injection in pre-filled syringe (SmPC 3)]
 
 (all sentences already above)
 
-[Humira 40 mg solution for injection in pre-filled pen]
-
-(all sentences already above)
-
-[Humira 40 mg solution for injection in pre-filled syringe (SmPC 5)]
-
-(all sentences already above)
-
-[Humira 40 mg solution for injection in pre-filled pen (SmPC 6)]
+[Humira 80 mg solution for injection in pre-filled syringe]
 
 (all sentences already above)

@@ -3,15 +3,15 @@
 Date of first authorisation: 8 September 2003
 Date of latest renewal: 8 September 2008
 
-[Humira 40 mg solution for injection in pre-filled syringe with needleguard]
+[Humira 40 mg solution for injection in pre-filled syringe]
 
 Date of first authorisation: 08 September 2003
 Date of latest renewal: 08 September 2008
 
-[Humira 40 mg solution for injection in pre-filled pen]
+[Humira 40 mg solution for injection in pre-filled syringe (SmPC 3)]
 
 (all sentences already above)
 
-[Humira 40 mg solution for injection in pre-filled pen (SmPC 6)]
+[Humira 80 mg solution for injection in pre-filled syringe]
 
 (all sentences already above)

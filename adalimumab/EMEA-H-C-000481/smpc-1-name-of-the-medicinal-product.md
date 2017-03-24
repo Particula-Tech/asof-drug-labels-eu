@@ -5,19 +5,13 @@ Humira 40 mg/0.8 ml solution for injection for paediatric use.
 [Humira 40 mg solution for injection in pre-filled syringe]
 
 Humira 40 mg solution for injection in pre-filled syringe
-
-[Humira 40 mg solution for injection in pre-filled syringe with needleguard]
-
 Humira 40 mg solution for injection in pre-filled syringe with needleguard
-
-[Humira 40 mg solution for injection in pre-filled pen]
-
 Humira 40 mg solution for injection in pre-filled pen
 
-[Humira 40 mg solution for injection in pre-filled syringe (SmPC 5)]
+[Humira 40 mg solution for injection in pre-filled syringe (SmPC 3)]
 
 (all sentences already above)
 
-[Humira 40 mg solution for injection in pre-filled pen (SmPC 6)]
+[Humira 80 mg solution for injection in pre-filled syringe]
 
-(all sentences already above)
+Humira 80 mg solution for injection in pre-filled syringe

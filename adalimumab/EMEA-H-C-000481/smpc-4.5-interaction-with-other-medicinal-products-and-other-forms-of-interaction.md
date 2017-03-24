@@ -5,5 +5,4 @@ Antibody formation was lower when Humira was given together with methotrexate in
 Administration of Humira without methotrexate resulted in increased formation of antibodies, increased clearance and reduced efficacy of adalimumab (see section 5.1).
 
 The combination of Humira and anakinra is not recommended (see section 4.4 “Concurrent administration of biologic DMARDS or TNF-antagonists”).
-
 The combination of Humira and abatacept is not recommended (see section 4.4 “Concurrent administration of biologic DMARDS or TNF-antagonists”).

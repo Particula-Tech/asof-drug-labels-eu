@@ -3,6 +3,7 @@
 Women of child bearing potential/Contraception in males and females
 
 Women of childbearing potential are strongly recommended to use adequate contraception to prevent pregnancy and continue its use for at least five months after the last Humira treatment.
+
 Pregnancy
 
 For Humira, limited clinical data on exposed pregnancies are available
