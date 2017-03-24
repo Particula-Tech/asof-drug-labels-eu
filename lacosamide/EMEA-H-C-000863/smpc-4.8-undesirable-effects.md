@@ -25,50 +25,16 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Blood and lymphatic disorders |  |  |  | Agranulocytosis(1) |
 | Immune system disorders |  |  | Drug hypersensitivity(1) | Drug reaction with eosinophilia and systemic symptoms (DRESS) (1,2) |
 | Psychiatric disorders |  | Depression Confusional state Insomnia(1) | Aggression(1) Agitation(1) Euphoric mood(1) Psychotic disorder(1) Suicide attempt (1) Suicidal ideation (1) Hallucination (1) |  |
-| Nervous system disorders | Dizziness Headache | Balance disorder Coordination abnormal Memory | Syncope (2) |  |
-
-impairment
-Cognitive disorder
-Somnolence
-Tremor
-Nystagmus
-Hypoesthesia
-Dysarthria
-Disturbance in
-attention
-Paraesthesia
-Eye disorders Diplopia Vision blurred
-Ear and labyrinth Vertigo
-disorders Tinnitus
-Cardiac disorders Atrioventricular
-block(1,2)
-Bradycardia(1,2)
-Atrial Fibrillation
-(1,2)
-Atrial Flutter (1,2)
-Gastrointestinal Nausea Vomiting
-disorders Constipation
-Flatulence
-Dyspepsia
-Dry mouth
-Diarrhoea
-Hepatobiliary Liver function test
-disorders abnormal (2)
-Skin and Pruritus Angioedema(1) Stevens-Johnson
-subcutaneous Rash(1) Urticaria(1) syndrome(1)
-tissue disorders Toxic epidermal
-necrolysis(1)
-Musculoskeletal Muscle spasms
-and connective
-tissue disorders
-General disorders Gait disturbance
-and administration Asthenia
-site conditions Fatigue
-Irritability
-Feeling drunk
-Injury, poisoning Fall
-and procedural Skin laceration
-complications Contusion
+| Nervous system disorders | Dizziness Headache | Balance disorder Coordination abnormal Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia | Syncope (2) |  |
+| Eye disorders | Diplopia | Vision blurred |  |  |
+| Ear and labyrinth disorders |  | Vertigo Tinnitus |  |  |
+| Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) A(1,2tr) ial Fibrillation Atrial Flutter (1,2) |  |
+| Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea |  |  |
+| Hepatobiliary disorders |  |  | Liver function test abnormal (2) Hepatic enzyme increased (> 2x ULN) (1) |  |
+| Skin and subcutaneous tissue disorders |  | Pruritus Rash(1) | Angioedema(1) Urticaria(1) | Stevens-Johnson syndrome(1) Toxic epidermal necrolysis(1) |
+| Musculoskeletal and connective tissue disorders |  | Muscle spasms |  |  |
+| General disorders and administration site conditions |  | Gait disturbance Asthenia Fatigue Irritability Feeling drunk |  |  |
+| Injury, poisoning and procedural complications |  | Fall Skin laceration Contusion |  |  |
 
 (1) Adverse reactions reported in post marketing experience.
 (2) See Description of selected adverse reactions.
@@ -86,7 +52,7 @@ Atrial fibrillation or flutter were not reported in short term clinical trials; 
 
 Laboratory abnormalities
 Abnormalities in liver function tests have been observed in controlled trials with lacosamide in adult patients with partial-onset seizures who were taking 1 to 3 concomitant anti-epileptic drugs.
-Elevations of ALT to ≥3XULN occurred in 0.7% (7/935) of Vimpat patients and 0% (0/356) of placebo patients.
+Elevations of ALT to ≥3x ULN occurred in 0.7% (7/935) of Vimpat patients and 0% (0/356) of placebo patients.
 
 Multiorgan hypersensitivity reactions
 Multiorgan hypersensitivity reactions (also known as Drug Reaction with Eosinophilia and Systemic Symptoms, DRESS) have been reported in patients treated with some antiepileptic agents.
@@ -113,12 +79,28 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [Vimpat 100 mg film-coated tablets]
 
+Elevations of ALT to ≥ 3x ULN occurred in 0.7% (7/935) of Vimpat patients and 0% (0/356) of placebo patients.
+
 Multiorgan hypersensitivity reactions (also known as Drug Reaction with Eosinophilia and Systemic Symptom, DRESS) have been reported in patients treated with some antiepileptic agents.
 These reactions are variable in expression but typically present with fever and rash and can be associated with involvement of different organ systems.
 
 [Vimpat 150 mg film-coated tablets]
 
-Bradycardia(1,2
+| System organ class | Very common | Common | Uncommon | Not known |
+| --- | --- | --- | --- | --- |
+| Blood and lymphatic disorders |  |  |  | Agranulocytosis(1) |
+| Immune system disorders |  |  | Drug hypersensitivity(1) | Drug reaction with eosinophilia and systemic symptoms (DRESS) (1,2) |
+| Psychiatric disorders |  | Depression Confusional state Insomnia(1) | Aggression(1) Agitation(1) Euphoric mood(1) Psychotic disorder(1) Suicide attempt (1) Suicidal ideation (1) Hallucination (1) |  |
+| Nervous system disorders | Dizziness Headache | Balance disorder Coordination abnormal Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia | Syncope (2) |  |
+| Eye disorders | Diplopia | Vision blurred |  |  |
+| Ear and labyrinth disorders |  | Vertigo Tinnitus |  |  |
+| Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2 A(1,2tr) ial Fibrillation Atrial Flutter (1,2) |  |
+| Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea |  |  |
+| Hepatobiliary disorders |  |  | Liver function test abnormal (2) Hepatic enzyme increased (> 2x ULN) (1) |  |
+| Skin and subcutaneous tissue disorders |  | Pruritus Rash(1) | Angioedema(1) Urticaria(1) | Stevens-Johnson syndrome(1) Toxic epidermal necrolysis(1) |
+| Musculoskeletal and connective tissue disorders |  | Muscle spasms |  |  |
+| General disorders and administration site conditions |  | Gait disturbance Asthenia Fatigue Irritability Feeling drunk |  |  |
+| Injury, poisoning and procedural complications |  | Fall Skin laceration Contusion |  |  |
 
 No second or higher degree AV Block was seen in.these studies.
 The incidence rate for syncope reported in pooled adjunctive therapy clinical trials is uncommon and did not differ between lacosamide (n=944)treated epilepsy patients (0.1%) and placebo (n=364) treated epilepsy patients (0.3%).
@@ -130,10 +112,16 @@ The incidence rate for syncope reported in pooled adjunctive therapy clinical tr
 | Blood and lymphatic disorders |  |  |  | Agranulocytosis(1) |
 | Immune system disorders |  |  | Drug hypersensitivity(1) | Drug reaction with eosinophilia and systemic symptoms (DRESS) (1,2) |
 | Psychiatric disorders |  | Depression Confusional state Insomnia(1) | Aggression(1) Agitation(1) Euphoric mood(1) Psychotic disorder(1) Suicide attempt (1) Suicidal ideation (1) Hallucination (1) |  |
-| Nervous system disorders | Dizziness Headache | Balance disorder Coordination abnormal Memory impairment Cognitive disorder | Syncope (2) |  |
-
-HypoesthesiaDysart
-hria
+| Nervous system disorders | Dizziness Headache | Balance disorder Coordination abnormal Memory impairment Cognitive disorder Somnolence Tremor Nystagmus HypoesthesiaDysart hria Disturbance in attention Paraesthesia | Syncope (2) |  |
+| Eye disorders | Diplopia | Vision blurred |  |  |
+| Ear and labyrinth disorders |  | Vertigo Tinnitus |  |  |
+| Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) A(1,2tr) ial Fibrillation Atrial Flutter (1,2) |  |
+| Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea |  |  |
+| Hepatobiliary disorders |  |  | Liver function test abnormal (2) Hepatic enzyme increased (> 2x ULN) (1) |  |
+| Skin and subcutaneous tissue disorders |  | Pruritus Rash(1) | Angioedema(1) Urticaria(1) | Stevens-Johnson syndrome(1) Toxic epidermal necrolysis(1) |
+| Musculoskeletal and connective tissue disorders |  | Muscle spasms |  |  |
+| General disorders and administration site conditions |  | Gait disturbance Asthenia Fatigue Irritability Feeling drunk |  |  |
+| Injury, poisoning and procedural complications |  | Fall Skin laceration Contusion |  |  |
 
 This was reported with lacosamide in 4.8% (3/62) in elderly patients versus 1.6% (6/382) in younger adult.
 
@@ -150,7 +138,7 @@ This was reported with lacosamide in 4.8% (3/62) in elderly patients versus 1.6%
 | Ear and labyrinth disorders |  | Vertigo Tinnitus |  |  |
 | Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) A(1,2tr) ial Fibrillation Atrial Flutter (1,2) |  |
 | Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea |  |  |
-| Hepatobiliary disorders |  |  | Liver function test abnormal (2) |  |
+| Hepatobiliary disorders |  |  | Liver function test abnormal (2) Hepatic enzyme increased (> 2x ULN) (1) |  |
 | Skin and subcutaneous tissue disorders |  | Pruritus Rash(1) | Angioedema(1) Urticaria(1) | Stevens-Johnson syndrome(1) Toxic epidermal necrolysis(1) |
 | Musculoskeletal and connective tissue disorders |  | Muscle spasms |  |  |
 | General disorders and administration site conditions |  | Gait disturbance Asthenia Fatigue Irritability Feeling drunk |  |  |
@@ -168,11 +156,19 @@ This was reported with lacosamide in 4.8% (3/62) in elderly patients versus 1.6%
 | Ear and labyrinth disorders |  | Vertigo Tinnitus |  |  |
 | Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) A(1,2tr) ial Fibrillation Atrial Flutter (1,2) |  |
 | Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea |  |  |
-| Hepatobiliary disorders |  |  | Liver function test abnormal (2) |  |
+| Hepatobiliary disorders |  |  | Liver function test abnormal (2) Hepatic enzyme increased (> 2x ULN) (1) |  |
 | Skin and subcutaneous tissue disorders |  | Pruritus Rash(1) | Angioedema(1) Urticaria(1) | Stevens-Johnson syndrome(1) Toxic epidermal necrolysis(1) |
-| Musculoskeletal and connective tissue disorders |  | Muscle spasms |  |  |
-| General disorders and administration site conditions |  | Gait disturbance Asthenia Fatigue Irritability Feeling drunk |  |  |
-| Injury, poisoning and procedural |  | Fall Skin laceration |  |  |
+| Musculoskeletal and connective |  | Muscle spasms |  |  |
+
+tissue disorders
+General disorders Gait disturbance
+and administration Asthenia
+site conditions Fatigue
+Irritability
+Feeling drunk
+Injury, poisoning Fall
+and procedural Skin laceration
+complications Contusion
 
 No second or higher degree AV Block was seen in. these studies.
 
@@ -188,11 +184,14 @@ No second or higher degree AV Block was seen in. these studies.
 | Ear and labyrinth disorders |  | Vertigo Tinnitus |  |  |
 | Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) A(1,2tr) ial Fibrillation Atrial Flutter (1,2) |  |
 | Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea |  |  |
-| Hepatobiliary disorders |  |  | Liver function test abnormal (2) |  |
-| Skin and subcutaneous tissue disorders |  | Pruritus Rash(1) | Angioedema(1) Urticaria(1) | Stevens-Johnson syndrome(1) Toxic epidermal necrolysis(1) |
-| Musculoskeletal and connective tissue disorders |  | Muscle spasms |  |  |
-| General disorders and administration |  | Gait disturbance Asthenia | Erythema(3) |  |
+| Hepatobiliary disorders |  |  | Liver function test abnormal (2) Hepatic enzyme increased (> 2x ULN) (1) |  |
+| Skin and subcutaneous tissue disorders |  | Pruritus Rash(1) | Angioedema(1) Urticaria(1) | Stevens-Johnson syndrome(1) |
 
+Toxic epidermal
+necrolysis(1)
+Musculoskeletal Muscle spasms
+and connective
+General disorders Gait disturbance Erythema(3)
 Injection site pain
 or discomfort (3)
 Irritation(3)

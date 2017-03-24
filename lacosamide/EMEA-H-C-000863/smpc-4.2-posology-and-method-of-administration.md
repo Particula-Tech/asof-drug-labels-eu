@@ -42,10 +42,12 @@ For patients requiring haemodialysis a supplement of up to 50% of the divided da
 Treatment of patients with end-stage renal disease should be made with caution as there is little clinical experience and accumulation of a metabolite (with no known pharmacological activity).
 
 Hepatic impairment
-No dose adjustment is needed for patients with mild to moderate hepatic impairment.
+A maximum dose of 300 mg/day is recommended for patients with mild to moderate hepatic impairment.
 The dose titration in these patients should be performed with caution considering co-existing renal impairment.
 A loading dose of 200 mg may be considered, but further dose titration (>200 mg daily) should be performed with caution.
 The pharmacokinetics of lacosamide has not been evaluated in severely hepatic impaired patients (see section 5.2).
+Lacosamide should be administered to patients with severe hepatic impairment only when the expected therapeutic benefits are anticipated to outweigh the possible risks.
+The dose may need to be adjusted while carefully observing disease activity and potential side effects in the patient.
 
 Paediatric population
 The safety and efficacy of lacosamide in children aged below 16 years have not yet been established.
