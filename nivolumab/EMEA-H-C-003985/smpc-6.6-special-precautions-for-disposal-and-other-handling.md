@@ -14,7 +14,6 @@ More than one vial of OPDIVO concentrate may be needed to give the total dose fo
 
 Preparing the infusion
 Take care to ensure aseptic handling when you prepare the infusion.
-The infusion should be prepared in a laminar flow hood or safety cabinet using standard precautions for the safe handling of intravenous agents.
 
 OPDIVO can be used for intravenous administration either:
 
@@ -37,7 +36,8 @@ STEP 2
 
 - Transfer the concentrate into a sterile, evacuated glass bottle or intravenous container (PVC or polyolefin).
 - If applicable, dilute with the required volume of sodium chloride 9 mg/mL (0.9%) solution for injection or 50 mg/mL (5%) glucose solution for injection.
-  Gently mix the infusion by manual rotation.
+  For ease of preparation, the concentrate can also be transferred directly into a pre-filled bag containing the appropriate volume of sodium chloride 9 mg/mL (0.9%) solution for injection or 50 mg/mL (5%) glucose solution for injection.
+- Gently mix the infusion by manual rotation.
   Do not shake.
 
 Administration

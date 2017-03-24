@@ -23,76 +23,27 @@ Table 1: Recommended treatment modifications for OPDIVO or OPDIVO in
 
 combination with ipilimumab
 
-Immune-related Severity Treatment modification
+| Immune-related adverse reaction | Severity | Treatment modification |
+| --- | --- | --- |
+| Immune-related pneumonitis | Grade 2 pneumonitis | Withhold dose(s) until symptoms resolve, radiographic abnormalities improve, and management with corticosteroids is complete |
+|  | Grade 3 or 4 pneumonitis | Permanently discontinue treatment |
+| Immune-related colitis | Grade 2 diarrhoea or colitis | Withhold dose(s) until symptoms resolve and management with corticosteroids, if needed, is complete |
+|  | Grade 3 diarrhoea or colitis - OPDIVO monotherapy | Withhold dose(s) until symptoms resolve and management with corticosteroids is complete |
+|  | - OPDIVO+ipilimumab | Permanently discontinue treatment |
+|  | Grade 4 diarrhoea or colitis | Permanently discontinue treatment |
+| Immune-related hepatitis | Grade 2 elevation in aspartate aminotransferase (AST), alanine aminotransferase (ALT), or total bilirubin | Withhold dose(s) until laboratory values return to baseline and management with corticosteroids, if needed, is complete |
+|  | Grade 3 or 4 elevation in AST, ALT, or total bilirubin | Permanently discontinue treatment |
+| Immune-related nephritis and renal dysfunction | Grade 2 or 3 creatinine elevation | Withhold dose(s) until creatinine returns to baseline and management with corticosteroids is complete |
+|  | Grade 4 creatinine elevation | Permanently discontinue treatment |
+| Immune-related endocrinopathies | Symptomatic Grade 2 or 3 hypothyroidism, hyperthyroidism, hypophysitis, Grade 2 adrenal insufficiency Grade 3 diabetes | Withhold dose(s) until symptoms resolve and management with corticosteroids (if needed for symptoms of acute inflammation) is complete. Treatment should be continued in the presence of hormone replacement therapya as long as no symptoms are present |
+|  | Grade 4 hypothyroidism Grade 4 hyperthyroidism Grade 4 hypophysitis Grade 3 or 4 adrenal insufficiency Grade 4 diabetes | Permanently discontinue treatment |
+| Immune-related skin adverse reactions | Grade 3 rash | Withhold dose(s) until symptoms resolve and management with corticosteroids is complete |
+|  | Grade 4 rash | Permanently discontinue treatment |
+|  | Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN) | Permanently discontinue treatment (see section 4.4) |
+| Other immune-related adverse reactions | Grade 3 (first occurrence) | Withhold dose(s) |
+|  | Grade 3 myocarditis | Permanently discontinue treatment |
+|  | Grade 4 or recurrent Grade 3; persistent Grade 2 or 3 despite treatment | Permanently discontinue treatment |
 
-adverse reaction
-
-Grade 2 pneumonitis Withhold dose(s) until symptoms
-
-resolve, radiographic abnormalities
-
-Immune-related improve, and management with
-pneumonitis corticosteroids is complete
-Grade 3 or 4 pneumonitis Permanently discontinue treatment
-Grade 2 diarrhoea or colitis Withhold dose(s) until symptoms
-
-resolve and management with corticosteroids, if needed, is complete
-
-Grade 3 diarrhoea or colitis
-
-Immune-related colitis - OPDIVO monotherapy Withhold dose(s) until symptoms resolve and management with
-
-corticosteroids is complete
-
-- OPDIVO+ipilimumab Permanently discontinue treatment
-Grade 4 diarrhoea or colitis Permanently discontinue treatment
-Grade 2 elevation in aspartate Withhold dose(s) until laboratory
-aminotransferase (AST), alanine values return to baseline and
-hepatitis Immune-related aminotransferase (ALT), or total bilirubin management with corticosteroids, if needed, is complete
-
-Grade 3 or 4 elevation in AST, ALT, or Permanently discontinue treatment total bilirubin
-
-Grade 2 or 3 creatinine elevation Withhold dose(s) until creatinine
-Immune-related returns to baseline and management
-nephritis and renal with corticosteroids is complete
-
-dysfunction
-
-Grade 4 creatinine elevation Permanently discontinue treatment
-Symptomatic Grade 2 or 3 Withhold dose(s) until symptoms
-hypothyroidism, hyperthyroidism, resolve and management with
-hypophysitis, corticosteroids (if needed for symptoms
-Grade 2 adrenal insufficiency of acute inflammation) is complete.
-Grade 3 diabetes Treatment should be continued in the
-
-presence of hormone replacement
-
-Immune-related therapya as long as no symptoms are
-endocrinopathies present
-
-Grade 4 hypothyroidism
-Grade 4 hyperthyroidism
-
-Grade 4 hypophysitis Permanently discontinue treatment
-
-Grade 3 or 4 adrenal insufficiency
-Grade 4 diabetes
-
-Grade 3 rash Withhold dose(s) until symptoms
-
-resolve and management with corticosteroids is complete Immune-related skin
-
-adverse reactions Grade 4 rash Permanently discontinue treatment
-
-Stevens-Johnson syndrome (SJS) or Permanently discontinue treatment (see
-
-toxic epidermal necrolysis (TEN) section 4.4)
-Grade 3 (first occurrence) Withhold dose(s)
-Other immune-related Grade 3 myocarditis Permanently discontinue treatment
-
-adverse reactions
-
-Grade 4 or recurrent Grade 3; persistent Grade 2 or 3 despite treatment Permanently discontinue treatment
 Table 1: Recommended treatment modifications for OPDIVO or OPDIVO in
 
 combination with ipilimumab modification; inability to reduce corticosteroid dose to 10 mg prednisone or equivalent per day
@@ -137,7 +88,7 @@ Method of administration
 
 OPDIVO is for intravenous use only.
 It is to be administered as an intravenous infusion over a period of 60 minutes.
-The infusion must be administered through a sterile, non-pyrogenic, low protein binding in-line filter with a pore size of 0.2-1.2 µm.
+The infusion must be administered through a sterile, non-pyrogenic, low protein binding in-line filter with a pore size of 0.2-1.2 μm.
 
 OPDIVO must not be administered as an intravenous push or bolus injection.
 The total dose of OPDIVO required can be infused directly as a 10 mg/mL solution or can be diluted to as low as 1 mg/mL with sodium chloride 9 mg/mL (0.9%) solution for injection or glucose 50 mg/mL (5%) solution for injection.

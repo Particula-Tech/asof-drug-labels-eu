@@ -234,7 +234,6 @@ PFS rate at 12 months and 95% CI: 18% (14, 23)
 
 Nivolumab+ipilimumab vs ipilimumab (primary analysis) - HR (99.5% CI): 0.42 (0.32, 0.56); p-value: <0.0001 Nivolumab vs ipilimumab (primary analysis) - HR (99.5% CI): 0.55 (0.42, 0.73); p-value: <0.0001 Nivolumab+ipilimumab vs nivolumab (descriptive analysis) - HR (95% CI): 0.76 (0.62, 0.95)
 Figure 3: Progression-free survival by PD-L1 expression: 5% cutoff (CA209067)
-
 PD-L1 expression < 5%
 
 Progression Free Survival (Months)
@@ -272,7 +271,6 @@ Nivolumab+Ipilimumab vs. Ipilimumab - hazard ratio: 0.35 (0.22, 0.55)
 Nivolumab vs. Ipilimumab - hazard ratio: 0.41 (0.27, 0.62)
 Nivolumab+Ipilimumab vs. Nivolumab - hazard ratio: 0.87 (0.54, 1.41)
 Figure 4: Progression-free survival by PD-L1 expression: 1% cutoff (CA209067)
-
 PD-L1 expression < 1%
 
 Progression Free Survival (Months)
@@ -307,24 +305,12 @@ Ipilimumab
 Nivolumab+Ipilimumab vs. Ipilimumab - hazard ratio: 0.42 (0.31, 0.55)
 Nivolumab vs. Ipilimumab - hazard ratio: 0.44 (0.34, 0.58)
 Nivolumab+Ipilimumab vs. Nivolumab - hazard ratio: 0.94 (0.69, 1.28)
-Table 5: Objective response (CA209067) nivolumab +
+Table 5: Objective response (CA209067)
 
-ipilimumab nivolumab ipilimumab
-(n=314) (n=316) (n=315)
-Objective response 181 (58%) 138 (44%) 60 (19%)
-(95% CI) (52.0, 63.2) (38.1, 49.3) (14.9, 23.8)
-Odds ratio (vs. ipilimumab) 6.09 3.40
-(99.5% CI) (3.59, 10.33) (2.02, 5.72)
-p-value p<0.0001 p<0.0001
-Complete response (CR) 38 (12%) 31 (10%) 7 (2%)
-Partial response (PR) 143 (46%) 107 (34%) 53 (17%)
-Stable disease (SD) 41 (13%) 33 (10%) 69 (22%)
-
-Median duration of response
-
-Months (range) Not reached (0+ - 24+) 22.3 (0+ - 23+) 14.4 (1.4 - 22.3+)
-
-ORR (95% CI) by tumour PD-L1 expression level
+| nivolumab + ipilimumab (n=314) | nivolumab (n=316) | ipilimumab (n=315) |
+| --- | --- | --- |
+| Objective response 181 (58%) (95% CI) (52.0, 63.2) Odds ratio (vs. ipilimumab) 6.09 (99.5% CI) (3.59, 10.33) p-value p<0.0001 Complete response (CR) 38 (12%) Partial response (PR) 143 (46%) Stable disease (SD) 41 (13%) Median duration of response Months (range) Not reached (0+ - 24+) ORR (95% CI) by tumour PD-L1 expression level | 138 (44%) (38.1, 49.3) 3.40 (2.02, 5.72) p<0.0001 31 (10%) 107 (34%) 33 (10%) | 60 (19%) (14.9, 23.8) 7 (2%) 53 (17%) 69 (22%) |
+|  | 22.3 (0+ - 23+) | 14.4 (1.4 - 22.3+) |
 
 55% (47.8, 61.6) 41% (34.6, 48.4) 18% (12.8, 23.8)
 <5% n=210 n=208 n=202
@@ -504,13 +490,22 @@ Events (%) 190 (65.1%) 223 (76.9%)
 Hazard ratioa 0.73
 (95.92% CI) (0.59, 0.89)
 p-valueb 0.0015
-Median (95% CI)months 12.19 (9.66, 14.98) 9.36 (8.05, 10.68)
-Rate (95% CI) at 12 months 50.5 (44.6, 56.1) 39.0 (33.3, 44.6)
+12.19 (9.66, 14.98) 9.36 (8.05, 10.68)
+
+Median (95% CI)months
+
+50.5 (44.6, 56.1) 39.0 (33.3, 44.6)
+
+Rate (95% CI) at 12 months
+
 Confirmed objective response 56 (19.2%) 36 (12.4%)
 (95% CI) (14.8, 24.2) (8.8, 16.8)
 Odds ratio (95% CI) 1.68 (1.07, 2.64)
 p-value 0.0246
-Complete response (CR) 4 (1.4%) 1 (0.3%)
+4 (1.4%) 1 (0.3%)
+
+Complete response (CR)
+
 Partial response (PR) 52 (17.8%) 35 (12.1%)
 Stable disease (SD) 74 (25.3%) 122 (42.1%)
 
@@ -528,10 +523,13 @@ Events 234 (80.1%) 245 (84.5%)
 Hazard ratio 0.92
 95% CI (0.77, 1.11)
 p-value 0.3932
-Median (95% CI) (months) 2.33 (2.17, 3.32) 4.21 (3.45, 4.86)
-Rate (95% CI) at 12 months 18.5 (14.1, 23.4) 8.1 (5.1, 12.0)
+2.33 (2.17, 3.32) 4.21 (3.45, 4.86)
 
-a Derived from a stratified proportional hazards model.
+Median (95% CI) (months)
+
+18.5 (14.1, 23.4) 8.1 (5.1, 12.0)
+
+Rate (95% CI) at 12 months a Derived from a stratified proportional hazards model.
 b P-value is derived from a log-rank test stratified by prior maintenance therapy and line of therapy; the corresponding O’Brien-Fleming efficacy boundary significance level is 0.0408.
 “+” Denotes a censored observation.
 
@@ -545,27 +543,11 @@ Comparable to the overall population, median duration of response was increased 
 Table 8 summarizes results of ORR and OS by tumour PD-L1 expression.
 Table 8: ORR and OS by tumour PD-L1 expression (CA209057)
 
-PD-L1 Expression nivolumab docetaxel
-
-ORR by tumour PD-L1 expression
-Odds Ratio (95% CI)
-
-<1% 10/108 (9.3%) 15/101 (14.9%) 0.59 (0.22, 1.48)
-95% CI: 4.5, 16.4 95% CI: 8.6, 23.3
-≥1% 38/123 (30.9%) 15/123 (12.2%) 3.22 (1.60, 6.71)
-95% CI: 22.9, 39.9 95% CI: 7.0, 19.3
-≥1% to <10%a 6/37 (16.2%) 5/ 44 (11.4%) 1.51 (0.35, 6.85)
-95% CI: 6.2, 32.0 95% CI: 3.8, 24.6
-≥10% to <50%a 5/20 (25.0%) 7/33 (21.2%) 1.24 (0.26, 5.48)
-95% CI: 8.7, 49.1 95% CI: 9.0, 38.9
-≥50%a 27/66 (40.9%) 3/46 (6.5%) 9.92 (2.68, 54.09)
-95% CI: 29.0, 53.7 95% CI: 1.4, 17.9
-
-OS by tumour PD-L1 expression
-
-Number of events (number of patients) Unstratified Hazard
-
-Ratio (95% CI)
+| PD-L1 Expression | nivolumab docetaxel |  |
+| --- | --- | --- |
+|  | ORR by tumour PD-L1 expression | Odds Ratio (95% CI) |
+| <1% ≥1% ≥1% to <10%a ≥10% to <50%a ≥50%a | 10/108 (9.3%) 15/101 (14.9%) 95% CI: 4.5, 16.4 95% CI: 8.6, 23.3 38/123 (30.9%) 15/123 (12.2%) 95% CI: 22.9, 39.9 95% CI: 7.0, 19.3 6/37 (16.2%) 5/ 44 (11.4%) 95% CI: 6.2, 32.0 95% CI: 3.8, 24.6 5/20 (25.0%) 7/33 (21.2%) 95% CI: 8.7, 49.1 95% CI: 9.0, 38.9 27/66 (40.9%) 3/46 (6.5%) 95% CI: 29.0, 53.7 95% CI: 1.4, 17.9 | 0.59 (0.22, 1.48) 3.22 (1.60, 6.71) 1.51 (0.35, 6.85) 1.24 (0.26, 5.48) 9.92 (2.68, 54.09) |
+|  | OS by tumour PD-L1 expression Number of events (number of patients) | Unstratified Hazard Ratio (95% CI) |
 
 <1% 77 (108) 75 (101) 0.90 (0.66, 1.24)
 ≥1% 68 (123) 93 (123) 0.59 (0.43, 0.82)

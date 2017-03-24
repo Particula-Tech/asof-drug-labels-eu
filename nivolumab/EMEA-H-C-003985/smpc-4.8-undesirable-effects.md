@@ -60,9 +60,10 @@ Uncommon polyneuropathy, autoimmune Guillain-Barré syndrome,
 neuropathy (including facial and polyneuropathy, neuritis, peroneal nerve
 abducens nerve paresis) palsy, autoimmune neuropathy
 (including facial and abducens nerve
-paresis)
+paresis), encephalitisc
 Rare Guillain-Barré syndrome,
-demyelination, myasthenic syndrome
+demyelination, myasthenic syndrome,
+encephalitisa,c
 Eye disorders
 Common dry eye uveitis, blurred vision
 Uncommon uveitis, blurred vision

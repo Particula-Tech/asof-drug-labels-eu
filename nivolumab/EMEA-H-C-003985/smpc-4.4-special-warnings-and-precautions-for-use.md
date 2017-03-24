@@ -120,7 +120,7 @@ If the patient has developed SJS or TEN with the use of nivolumab or nivolumab i
 Caution should be used when considering the use of nivolumab in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other immune-stimulatory anticancer agents.
 
 Other immune-related adverse reactions
-The following immune-related adverse reactions were reported in less than 1% of patients treated with nivolumab monotherapy in clinical trials across doses and tumour types: pancreatitis, uveitis, demyelination, autoimmune neuropathy (including facial and abducens nerve paresis), Guillain-Barré syndrome, hypopituitarism, and myasthenic syndrome.
+The following immune-related adverse reactions were reported in less than 1% of patients treated with nivolumab monotherapy in clinical trials across doses and tumour types: pancreatitis, uveitis, demyelination, autoimmune neuropathy (including facial and abducens nerve paresis), Guillain-Barré syndrome, hypopituitarism, myasthenic syndrome, and encephalitis.
 
 Across clinical trials of nivolumab in combination with ipilimumab, the following additional clinically significant, immune-related adverse reactions were reported in less than 1% of patients: gastritis, sarcoidosis, and duodenitis.
 
