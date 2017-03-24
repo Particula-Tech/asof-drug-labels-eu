@@ -10,7 +10,7 @@ PPE is characterised by painful, macular reddening skin eruptions.
 In patients experiencing this event, it is generally seen after two or three cycles of treatment.
 Improvement usually occurs in one - two weeks, and in some cases, may take up to 4 weeks or longer for complete resolution.
 Pyridoxine at a dose of 50-150 mg per day and corticosteroids have been used for the prophylaxis and treatment of PPE, however, these therapies have not been evaluated in phase III trials.
-Other strategies to prevent and treat PPE, which may be initiated for 4 to 7 days after treatment with Caelyx include keeping hands and feet cool, by exposing them to cool water (soaks, baths, or swimming), avoiding excessive heat/hot water and keeping them unrestricted (no socks, gloves, or shoes that are tight fitting).
+Other strategies to prevent and treat PPE include keeping hands and feet cool, by exposing them to cool water (soaks, baths, or swimming), avoiding excessive heat/hot water and keeping them unrestricted (no socks, gloves, or shoes that are tight fitting).
 PPE appears to be primarily related to the dose schedule and can be reduced by extending the dose interval 1-2 weeks (see section 4.2).
 However, this reaction can be severe and debilitating in some patients and may require discontinuation of treatment.
 Stomatitis/mucositis and nausea were also commonly reported in breast/ovarian cancer patient populations, whereas the AIDS-KS Program (20 mg/m2 every 2 weeks), myelosuppression (mostly leukopaenia) was the most common side effect (see AIDS-KS).

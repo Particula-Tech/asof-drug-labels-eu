@@ -81,7 +81,7 @@ Dosage adjustments for Caelyx + bortezomib combination therapy - patients with m
 
 * for more information on bortezomib dosing and dosage adjustment, see the SPC for bortezomib
 
-Patients with impaired hepatic function
+Hepatic Impairment
 Caelyx pharmacokinetics determined in a small number of patients with elevated total bilirubin levels do not differ from patients with normal total bilirubin; however, until further experience is gained, the Caelyx dosage in patients with impaired hepatic function should be reduced based on the experience from the breast and ovarian clinical trial programs as follows: at initiation of therapy, if the bilirubin is between 1.2-3.0 mg/dl, the first dose is reduced by 25%.
 If the bilirubin is > 3.0 mg/dl, the first dose is reduced by 50%.
 If the patient tolerates the first dose without an increase in serum bilirubin or liver enzymes, the dose for cycle 2 can be increased to the next dose level, i.e., if reduced by 25% for the first dose, increase to full dose for cycle 2; if reduced by 50% for the first dose, increase to 75% of full dose for cycle 2.
@@ -89,7 +89,7 @@ The dosage can be increased to full dose for subsequent cycles if tolerated.
 Caelyx can be administered to patients with liver metastases with concurrent elevation of bilirubin and liver enzymes up to 4 x the upper limit of the normal range.
 Prior to Caelyx administration, evaluate hepatic function using conventional clinical laboratory tests such as ALT/AST, alkaline phosphatase, and bilirubin.
 
-Patients with impaired renal function
+Renal Impairment
 As doxorubicin is metabolised by the liver and excreted in the bile, dose modification should not be required.
 Population pharmacokinetic data (in the range of creatinine clearance tested of 30-156 ml/min) demonstrate that Caelyx clearance is not influenced by renal function.
 No pharmacokinetic data are available in patients with creatinine clearance of less than 30 ml/min.
@@ -97,11 +97,11 @@ No pharmacokinetic data are available in patients with creatinine clearance of l
 AIDS-related KS patients with splenectomy
 As there is no experience with Caelyx in patients who have had splenectomy, treatment with Caelyx is not recommended.
 
-Paediatric patients
+Paediatric population
 The experience in children is limited.
 Caelyx is not recommended in patients below 18 years of age.
 
-Older people
+Elderly
 Population based analysis demonstrates that age across the range tested (21–75 years) does not significantly alter the pharmacokinetics of Caelyx.
 
 Method of administration
