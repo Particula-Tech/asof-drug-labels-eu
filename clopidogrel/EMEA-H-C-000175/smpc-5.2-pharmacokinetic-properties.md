@@ -4,7 +4,6 @@ Absorption
 After single and repeated oral doses of 75 mg per day, clopidogrel is rapidly absorbed.
 Mean peak plasma levels of unchanged clopidogrel (approximately 2.2-2.5 ng/ml after a single 75 mg oral dose) occurred approximately 45 minutes after dosing.
 Absorption is at least 50%, based on urinary excretion of clopidogrel metabolites.
-
 Distribution
 Clopidogrel and the main circulating (inactive) metabolite bind reversibly in vitro to human plasma proteins (98% and 94% respectively).
 The binding is non-saturable in vitro over a wide concentration range.
@@ -44,7 +43,6 @@ When poor metabolisers received the 600 mg/150 mg regimen, active metabolite exp
 In addition, IPA was 32%
 (24 hours) and 61% (Day 5), which were greater than in the poor metabolisers receiving the 300 mg/75 mg regimen, and were similar to the other CYP2C19 metaboliser groups receiving the 300 mg/75 mg regimen.
 An appropriate dose regimen for this patient population has not been established in clinical outcome trials.
-
 Consistent with the above results, in a meta-analysis including 6 studies of 335 clopidogrel-treated subjects at steady state, it was shown that active metabolite exposure was decreased by 28% for intermediate metabolisers, and 72% for poor metabolisers while platelet aggregation inhibition (5 μM ADP) was decreased with differences in IPA of 5.9% and 21.4%, respectively, when compared to extensive metabolisers.
 
 The influence of CYP2C19 genotype on clinical outcomes in patients treated with clopidogrel has not been evaluated in prospective, randomised, controlled trials.
@@ -65,6 +63,7 @@ The pharmacokinetics of the active metabolite of clopidogrel is not known in the
 Renal impairment
 After repeated doses of 75 mg clopidogrel per day in subjects with severe renal disease (creatinine clearance from 5 to 15 ml/min), inhibition of ADP-induced platelet aggregation was lower (25%) than that observed in healthy subjects, however, the prolongation of bleeding time was similar to that seen in healthy subjects receiving 75 mg of clopidogrel per day.
 In addition, clinical tolerance was good in all patients.
+
 Hepatic impairment
 After repeated doses of 75 mg clopidogrel per day for 10 days in patients with severe hepatic impairment, inhibition of ADP-induced platelet aggregation was similar to that observed in healthy subjects.
 The mean bleeding time prolongation was also similar in the two groups.

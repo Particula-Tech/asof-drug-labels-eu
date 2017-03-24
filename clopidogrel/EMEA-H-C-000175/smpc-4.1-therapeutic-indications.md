@@ -1,6 +1,6 @@
 # 4.1 Therapeutic indications
 
-Prevention of atherothrombotic events
+Secondary prevention of atherothrombotic events
 Clopidogrel is indicated in:
 
 - Adult patients suffering from myocardial infarction (from a few days until less than 35 days), ischaemic stroke (from 7 days until less than 6 months) or established peripheral arterial disease.

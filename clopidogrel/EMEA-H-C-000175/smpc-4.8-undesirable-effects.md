@@ -11,8 +11,7 @@ Bleeding is the most common reaction reported both in clinical studies as well a
 
 In CAPRIE, in patients treated with either clopidogrel or ASA, the overall incidence of any bleeding was 9.3%.
 The incidence of severe cases was similar for clopidogrel and ASA.
-
-In CURE, there was no excess in major bleeds with clopidogrel plus ASA within 7 days after coronary bypass graft surgery in patients who stopped therapy more than five days prior to surgery .
+In CURE, there was no excess in major bleeds with clopidogrel plus ASA within 7 days after coronary bypass graft surgery in patients who stopped therapy more than five days prior to surgery.
 In patients who remained on therapy within five days of bypass graft surgery, the event rate was 9.6% for clopidogrel plus ASA, and 6.3% for placebo plus ASA.
 
 In CLARITY, there was an overall increase in bleeding in the clopidogrel plus ASA group vs. the placebo plus ASA group .The incidence of major bleeding was similar between groups .
@@ -34,6 +33,7 @@ Within each system organ class, adverse reactions are presented in order of decr
 | System Organ Class | Common | Uncommon | Rare | Very rare, not known* |
 | --- | --- | --- | --- | --- |
 | Blood and the lymphatic system disorders |  | Thrombocytopenia, leucopenia, eosinophilia | Neutropenia, including severe neutropenia | Thrombotic thrombocytopenic purpura (TTP) (see section 4.4), aplastic anaemia, pancytopenia, agranulocytosis, severe thrombocytopenia, acquired haemophilia A, granulocytopenia, anaemia |
+| Cardiac disorders |  |  |  | Kounis syndrome (vasospastic allergic angina / allergic myocardial infarction) in the context of a hypersensitivity reaction due to clopidogrel* |
 | Immune system disorders |  |  |  | Serum sickness, anaphylactoid reactions, cross-reactive drug hypersensitivity among thienopyridines (such as ticlopidine, prasugrel) (see section 4.4)* |
 | Psychiatric disorders |  |  |  | Hallucinations, confusion |
 | Nervous system disorders |  | Intracranial bleeding (some cases were reported with fatal outcome), headache, paraesthesia, dizziness |  | Taste disturbances |

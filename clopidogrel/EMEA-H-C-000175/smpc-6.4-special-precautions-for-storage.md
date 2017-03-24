@@ -2,7 +2,3 @@
 
 In PVC/PVDC/aluminium blisters, store below 30°C.
 In all aluminium blisters, this medicinal product does not require any special storage conditions.
-
-[Iscover 300 mg film-coated tablets]
-
-This medicinal product does not require any special storage conditions.

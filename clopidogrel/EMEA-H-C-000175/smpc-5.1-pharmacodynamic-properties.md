@@ -50,6 +50,7 @@ Heparins were administered in more than 90% of the patients and the relative rat
 The number of patients experiencing the primary endpoint [cardiovascular (CV) death, myocardial infarction (MI), or stroke] was 582 (9.3%) in the clopidogrel-treated group and 719 (11.4%) in the placebo-treated group, a 20% relative risk reduction (95% CI of 10%-28%; p=0.00009) for the clopidogrel-treated group (17% relative risk reduction when patients were treated conservatively, 29% when they underwent percutaneous transluminal coronary angioplasty (PTCA) with or without stent and 10% when they underwent coronary artery bypass graft (CABG)).
 New cardiovascular events (primary endpoint) were prevented, with relative risk reductions of 22% (CI: 8.6, 33.4), 32% (CI: 12.8, 46.4), 4% (CI: -26.9, 26.7), 6% (CI: -33.5, 34.3) and 14% (CI: -31.6, 44.2), during the 0-1, 1-3, 3-6, 6-9 and 9-12 month study intervals, respectively.
 Thus, beyond 3 months of treatment, the benefit observed in the clopidogrel + ASA group was not further increased, whereas the risk of haemorrhage persisted (see section 4.4).
+
 The use of clopidogrel in CURE was associated with a decrease in the need of thrombolytic therapy (RRR = 43.3%; CI: 24.3%, 57.5%) and GPIIb/IIIa inhibitors (RRR = 18.2%; CI: 6.5%, 28.3%).
 
 The number of patients experiencing the co-primary endpoint (CV death, MI, stroke or refractory ischaemia) was 1,035 (16.5%) in the clopidogrel-treated group and 1,187 (18.8%) in the placebo-treated group, a 14% relative risk reduction (95% CI of 6%-21%, p=0.0005) for the clopidogrel-treated group.
@@ -63,7 +64,6 @@ Thus, the results from this subset are in line with the overall trial results.
 
 The benefits observed with clopidogrel were independent of other acute and long-term cardiovascular therapies (such as heparin/LMWH, GPIIb/IIIa antagonists, lipid lowering medicinal products, beta blockers, and ACE-inhibitors).
 The efficacy of clopidogrel was observed independently of the dose of ASA (75-325 mg once daily).
-
 In patients with acute ST-segment elevation MI, safety and efficacy of clopidogrel have been evaluated in 2 randomised, placebo-controlled, double-blind studies, CLARITY and COMMIT.
 
 The CLARITY trial included 3,491 patients presenting within 12 hours of the onset of a ST elevation MI and planned for thrombolytic therapy.
@@ -99,7 +99,6 @@ Patients were treated for up to 5 years.
 
 Patients randomized in the ACTIVE program were those presenting with documented AF, i.e., either permanent AF or at least 2 episodes of intermittent AF in the past 6 months, and had at least one of the following risk factors: age ≥75 years or age 55 to 74 years and either diabetes mellitus requiring drug therapy, or documented previous MI or documented coronary artery disease; treated for systemic hypertension; prior stroke, transient ischaemic attack (TIA), or non-CNS systemic embolus; left ventricular dysfunction with left ventricular ejection fraction <45%; or documented peripheral vascular disease.
 The mean CHADS2 score was 2.0 (range 0-6).
-
 The major exclusion criteria for patients were documented peptic ulcer disease within the previous 6 months; prior intracerebral hemorrhage; significant thrombocytopenia (platelet count < 50 x 109/l); requirement for clopidogrel or oral anticoagulants (OAC); or intolerance to any of the two compounds.
 
 Seventy-three percent (73%) of patients enrolled into the ACTIVE-A study were unable to take VKA due to physician assessment, inability to comply with INR (international normalised ratio) monitoring, predisposition to falling or head trauma, or specific risk of bleeding; for 26% of the patients, the physician’s decision was based on the patient’s unwillingness to take VKA.

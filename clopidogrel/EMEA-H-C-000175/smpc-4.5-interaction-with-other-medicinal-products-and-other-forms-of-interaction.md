@@ -27,6 +27,7 @@ However, due to the lack of interaction studies with other NSAIDs it is presentl
 Consequently, NSAIDs including Cox-2 inhibitors and clopidogrel should be co-administered with caution (see section 4.4).
 
 SSRIs: since SSRIs affect platelet activation and increase the risk of bleeding, the concomitant administration of SSRIs with clopidogrel should be undertaken with caution.
+
 Other concomitant therapy: Since clopidogrel is metabolised to its active metabolite partly by CYP2C19, use of medicinal products that inhibit the activity of this enzyme would be expected to result in reduced drug levels of the active metabolite of clopidogrel.
 The clinical relevance of this interaction is uncertain.
 As a precaution concomitant use of strong or moderate CYP2C19 inhibitors should be discouraged (see sections 4.4 and 5.2).
@@ -51,7 +52,6 @@ There is no evidence that other medicinal products that reduce stomach acid such
 Other medicinal products: A number of other clinical studies have been conducted with clopidogrel and other concomitant medicinal products to investigate the potential for pharmacodynamic and pharmacokinetic interactions.
 No clinically significant pharmacodynamic interactions were observed when clopidogrel was co-administered with atenolol, nifedipine, or both atenolol and nifedipine.
 Furthermore, the pharmacodynamic activity of clopidogrel was not significantly influenced by the co-administration of phenobarbital or oestrogen.
-
 The pharmacokinetics of digoxin or theophylline were not modified by the co-administration of clopidogrel.
 Antacids did not modify the extent of clopidogrel absorption.
 
@@ -63,8 +63,3 @@ Due to the risk of increased plasma concentrations, concomitant administration o
 
 Apart from the specific medicinal product interaction information described above, interaction studies with clopidogrel and some medicinal products commonly administered in patients with atherothrombotic disease have not been performed.
 However, patients entered into clinical trials with clopidogrel received a variety of concomitant medicinal products including diuretics, beta blockers, ACEI, calcium antagonists, cholesterol lowering agents, coronary vasodilators, antidiabetic agents (including insulin), antiepileptic agents and GPIIb/IIIa antagonists without evidence of clinically significant adverse interactions.
-
-[Iscover 300 mg film-coated tablets]
-
-Other concomitant therapy:
-Since clopidogrel is metabolised to its active metabolite partly by CYP2C19, use of medicinal products that inhibit the activity of this enzyme would be expected to result in reduced drug levels of the active metabolite of clopidogrel.

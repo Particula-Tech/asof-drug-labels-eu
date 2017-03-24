@@ -1,5 +1,6 @@
 # 8. MARKETING AUTHORISATION NUMBERS
 
+Iscover 75 mg film-coated tablets
 EU/1/98/070/001a - Cartons of 28 film-coated tablets in PVC/PVDC/Alu blisters
 EU/1/98/070/001b - Cartons of 28 film-coated tablets in all aluminium blisters
 EU/1/98/070/002a - Cartons of 50x1 film-coated tablets in PVC/PVDC/Alu blisters EU/1/98/070/002b - Cartons of 50x1 film-coated tablets in all aluminium blisters
@@ -16,6 +17,5 @@ EU/1/98/070/007b - Cartons of 14 film-coated tablets in all aluminium blisters
 EU/1/98/070/011a - Cartons of 7 film-coated tablets in PVC/PVDC/Alu blisters
 EU/1/98/070/011b - Cartons of 7 film-coated tablets in all aluminium blisters
 
-[Iscover 300 mg film-coated tablets]
-
+Iscover 300 mg film-coated tablets
 EU/1/98/070/008 - Cartons of 4x1 film-coated tablets in all aluminium perforated unit-dose blisters EU/1/98/070/009 - Cartons of 30x1 film-coated tablets in all aluminium perforated unit-dose blisters EU/1/98/070/010 - Cartons of 100x1 film-coated tablets in all aluminium perforated unit-dose blisters EU/1/98/070/012 - Cartons of 10x1 film-coated tablets in all aluminium perforated unit-dose blisters
