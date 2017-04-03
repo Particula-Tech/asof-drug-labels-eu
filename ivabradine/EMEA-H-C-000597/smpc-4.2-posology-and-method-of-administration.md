@@ -27,22 +27,23 @@ Treatment must be discontinued if heart rate remains below 50 bpm or symptoms of
 
 Special population
 
-Older people
+Elderly
 In patients aged 75 years or more, a lower starting dose should be considered (2.5 mg twice daily i.e. one half 5 mg tablet twice daily) before up-titration if necessary.
 
-Patients with renal impairment
+Renal impairment
 No dose adjustment is required in patients with renal insufficiency and creatinine clearance above 15 ml/min (see section 5.2).
 No data are available in patients with creatinine clearance below 15 ml/min.
 Ivabradine should therefore be used with precaution in this population.
 
-Patients with hepatic impairment
+Hepatic impairment
 No dose adjustment is required in patients with mild hepatic impairment.
 Caution should be exercised when using ivabradine in patients with moderate hepatic impairment.
 Ivabradine is contra-indicated for use in patients with severe hepatic insufficiency, since it has not been studied in this population and a large increase in systemic exposure is anticipated (see sections 4.3 and 5.2).
 
 Paediatric population
-The safety and efficacy of ivabradine in the treatment of chronic heart failure in children aged below 18 years have not been established.
+The safety and efficacy of ivabradine for the treatment of chronic heart failure in children aged below 18 years have not been established.
 Available data are described in sections 5.1 and 5.2 but no recommendation on a posology can be made.
 
 Method of administration
+
 Tablets must be taken orally twice daily, i.e. once in the morning and once in the evening during meals (see section 5.2).

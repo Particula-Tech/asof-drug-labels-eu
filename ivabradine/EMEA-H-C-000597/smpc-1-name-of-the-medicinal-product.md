@@ -2,6 +2,4 @@
 
 Procoralan 5 mg film-coated tablets
 
-[Procoralan 7.5 mg film-coated tablets]
-
 Procoralan 7.5 mg film-coated tablets

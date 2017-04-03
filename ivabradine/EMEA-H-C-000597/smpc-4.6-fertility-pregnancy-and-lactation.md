@@ -2,7 +2,6 @@
 
 Women of childbearing potential
 Women of child-bearing potential should use appropriate contraceptive measures during treatment (see section 4.3).
-
 Pregnancy
 There are no or limited amount of data from the use of ivabradine in pregnant women.
 Studies in animals have shown reproductive toxicity.

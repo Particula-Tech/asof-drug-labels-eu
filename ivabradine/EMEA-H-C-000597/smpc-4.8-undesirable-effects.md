@@ -66,7 +66,3 @@ Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-[Procoralan 7.5 mg film-coated tablets]
-
-The following adverse reactions have been reported during clinical trials and are ranked using the following frequency: very common (≥1/10); common (≥1/100 to, <1/10); uncommon (≥1/1,000 to, <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).

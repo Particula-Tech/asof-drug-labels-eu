@@ -26,7 +26,6 @@ Clinical efficacy and safety
 
 The antianginal and anti-ischaemic efficacy of ivabradine was studied in five double-blind randomised trials (three versus placebo, and one each versus atenolol and amlodipine).
 These trials included a total of 4,111 patients with chronic stable angina pectoris, of whom 2,617 received ivabradine.
-
 Ivabradine 5 mg twice daily was shown to be effective on exercise test parameters within 3 to 4 weeks of treatment.
 Efficacy was confirmed with 7.5 mg twice daily.
 In particular, the additional benefit over 5 mg twice daily was established in a reference-controlled study versus atenolol: total exercise duration at trough was increased by about 1 minute after one month of treatment with 5 mg twice daily and further improved by almost 25 seconds after an additional 3-month period with forced titration to 7.5 mg twice daily.
@@ -35,6 +34,7 @@ The efficacy of 5 and 7.5 mg twice daily was consistent across studies on exerci
 The twice-daily dosing regimen of ivabradine gave uniform efficacy over 24 hours.
 
 In a 889-patients randomised placebo-controlled study, ivabradine given on top of atenolol 50 mg o.d. showed additional efficacy on all ETT parameters at the trough of drug activity (12 hours after oral intake).
+
 In a 725-patients randomised placebo-controlled study, ivabradine did not show additional efficacy on top of amlodipine 10 mg o.d. at the trough of drug activity (12 hours after oral intake) while an additional efficacy was shown at peak (3-4 hours after oral intake).
 
 In a 1277-patients randomised placebo-controlled study, ivabradine demonstrated a statistically significant additional efficacy on response to treatment (defined as a decrease of at least 3 angina attacks per week and/or an increase in the time to 1 mm ST segment depression of at least 60 s during a treadmill ETT) on top of amlodipine 5 mg o.d. or nifedipine GITS 30 mg o.d. at the trough of drug activity (12 hours after oral ivabradine intake) over a 6-week treatment period (OR = 1.3, 95% CI [1.0–1.7]; p=0.012).
@@ -88,11 +88,12 @@ The reduction in the primary endpoint was observed consistently irrespective of 
 
 In the subgroup of patients with HR ≥ 75 bpm (n=4150), a greater reduction was observed in the primary composite endpoint of 24 % (hazard ratio: 0.76, 95%CI [0.68;0.85] – p<0.0001) and for other secondary endpoints, including all cause death (hazard ratio: 0.83, 95%CI [0.72;0.96] – p=0.0109) and CV death (hazard ratio: 0.83, 95%CI [0.71;0.97] – p=0.0166).
 In this subgroup of patients, the safety profile of ivabradine is in line with the one of the overall population.
-
 A significant effect was observed on the primary composite endpoint in the overall group of patients receiving beta blocker therapy (hazard ratio: 0.85, 95%CI [0.76;0.94]).
 In the subgroup of patients with HR ≥ 75 bpm and on the recommended target dose of beta-blocker, no statistically significant benefit was observed on the primary composite endpoint (hazard ratio: 0.97, 95%CI [0.74;1.28]) and other secondary endpoints, including hospitalisation for worsening heart failure (hazard ratio: 0.79, 95% CI [0.56;1.10]) or death from heart failure (hazard ratio: 0.69, 95% CI [0.31;1.53]).
 
 There was a significant improvement in NYHA class at last recorded value, 887 (28%) of patients on ivabradine improved versus 776 (24%) of patients on placebo (p=0.001).
+
+In a 97-patient randomised placebo-controlled study, the data collected during specific ophthalmologic investigations, aiming at documenting the function of the cone and rod systems and the ascending visual pathway (i.e. electroretinogram, static and kinetic visual fields, colour vision, visual acuity), in patients treated with ivabradine for chronic stable angina pectoris over 3 years, did not show any retinal toxicity.
 
 Paediatric population
 A randomised, double blind, placebo controlled study was performed in 116 paediatric patients (17 aged [6-12[months, 36 aged [1-3[ years and 63 aged [3-18[ years) with CHF and dilated cardiomyopathy (DCM) on top of optimal background treatment.
@@ -110,11 +111,5 @@ The safety profile, over one year, was similar to the one described in adult CHF
 
 The long-term effects of ivabradine on growth, puberty and general development as well as the long-term efficacy of therapy with ivabradine in childhood to reduce cardiovascular morbidity and mortality have not been studied.
 
-The European Medicines Agency has waived the obligation to submit the results of studies with Procoralan in all subsets of the paediatric population in the treatment of angina pectoris.
-The European Medicines Agency has waived the obligation to submit the results of studies with Procoralan in children aged 0 to less than 6 months in the treatment of chronic heart failure.
-
-[Procoralan 7.5 mg film-coated tablets]
-
-The SHIFT study was a large multicentre, international, randomised double-blind placebo controlled outcome trial. conducted in 6505 adult patients with stable chronic CHF (for ≥ 4 weeks), NYHA class II to IV, with a reduced left ventricular ejection fraction (LVEF ≤ 35%) and a resting heart rate ≥ 70 bpm.
-
-The long-term effects of ivabradine on growth, puberty and general as well as the long-term efficacy of therapy with ivabradine in childhood to reduce cardiovascular morbidity and mortality have not been studied.
+The European Medicines Agency has waived the obligation to submit the results of studies with Procoralan in all subsets of the paediatric population for the treatment of angina pectoris.
+The European Medicines Agency has waived the obligation to submit the results of studies with Procoralan in children aged 0 to less than 6 months for the treatment of chronic heart failure.

@@ -39,13 +39,12 @@ Stroke
 The use of ivabradine is not recommended immediately after a stroke since no data is available in these situations.
 
 Visual function
-Ivabradine influences on retinal function (see section 5.1).
-To date, there is no evidence of a toxic effect of ivabradine on the retina, but the effects of long-term ivabradine treatment beyond one year on retinal function are currently not known.
+Ivabradine influences retinal function.
+There is no evidence of a toxic effect of long-term ivabradine treatment on the retina (see section 5.1).
 Cessation of treatment should be considered if any unexpected deterioration in visual function occurs.
 Caution should be exercised in patients with retinitis pigmentosa.
 
 Precautions for use
-
 Patients with hypotension
 Limited data are available in patients with mild to moderate hypotension, and ivabradine should therefore be used with caution in these patients.
 Ivabradine is contra-indicated in patients with severe hypotension (blood pressure < 90/50 mmHg) (see section 4.3).
