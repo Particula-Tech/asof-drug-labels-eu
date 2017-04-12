@@ -12,12 +12,11 @@ Carcinogenesis
 Carcinogenicity studies of dimethyl fumarate were conducted for up to 2 years in mice and rats.
 Dimethyl fumarate was administered orally at doses of 25, 75, 200 and 400 mg/kg/day in mice, and at doses of 25, 50, 100, and 150 mg/kg/day in rats.
 In mice, the incidence of renal tubular carcinoma was increased at 75 mg/kg/day, at equivalent exposure (AUC) to the recommended human dose.
-In rats, the incidence of renal tubular carcinoma was increased at 100 mg/kg/day, approximately 3 times higher exposure than the recommended human dose.
+In rats, the incidence of renal tubular carcinoma was increased at 100 mg/kg/day, approximately 2 times higher exposure than the recommended human dose.
 The relevance of these findings to human risk is unknown.
 
 The incidence of squamous cell papilloma and carcinoma in the nonglandular stomach (forestomach) was increased at equivalent exposure to the recommended human dose in mice and below exposure to the recommended human dose in rats (based on AUC).
 The forestomach in rodents does not have a human counterpart.
-
 Toxicology
 
 Nonclinical studies in rodent, rabbits, and monkeys were conducted with a dimethyl fumarate suspension (dimethyl fumarate in 0.8% hydroxypropyl methylcellulose) administered by oral gavage.
@@ -26,12 +25,15 @@ The chronic dog study was conducted with oral administration of the dimethyl fum
 Kidney changes were observed after repeated oral administration of dimethyl fumarate in mice, rats, dogs, and monkeys.
 Renal tubule epithelial regeneration, suggestive of injury, was observed in all species.
 Renal tubular hyperplasia was observed in rats with life time dosing (2-year study).
-Cortical atrophy was observed in dogs and monkeys, and single cell necrosis and interstitial fibrosis were observed in monkeys that received daily oral doses of dimethyl fumarate for 12 months, at 6 times the recommended dose based on AUC.
+In dogs that received daily oral doses of dimethyl fumarate for 11 months, the margin calculated for cortical atrophy was observed at 3 times the recommended dose based on AUC.
+In monkeys that received daily oral doses of dimethyl fumarate for 12 months, single cell necrosis was observed at 2 times the recommended dose based on AUC.
+Interstitial fibrosis and cortical atrophy were observed at 6 times the recommended dose based on AUC.
 The relevance of these findings to humans is not known.
 
 In the testes, degeneration of the seminiferous epithelium was seen in rats and dogs.
-The findings were observed at approximately the recommended dose in rats and 6 times the recommended dose in dogs (AUC basis).
+The findings were observed at approximately the recommended dose in rats and 3 times the recommended dose in dogs (AUC basis).
 The relevance of these findings to humans is not known.
+
 Findings in the forestomach of mice and rats consisted of squamous epithelial hyperplasia and hyperkeratosis; inflammation; and squamous cell papilloma and carcinoma in studies of 3 months or longer in duration.
 The forestomach of mice and rats does not have a human counterpart.
 

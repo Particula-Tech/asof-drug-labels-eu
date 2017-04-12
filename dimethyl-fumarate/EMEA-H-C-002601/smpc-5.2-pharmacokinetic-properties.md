@@ -37,7 +37,6 @@ Renal and faecal elimination are secondary routes of elimination, accounting for
 
 The terminal half-life of monomethyl fumarate is short (approximately 1 hour) and no circulating monomethyl fumarate is present at 24 hours in the majority of individuals.
 Accumulation of parent drug or monomethyl fumarate does not occur with multiple doses of dimethyl fumarate at the therapeutic regimen.
-
 Linearity
 
 Dimethyl fumarate exposure increases in an approximately dose proportional manner with single and multiple doses in the 120 mg to 360 mg dose range studied.
@@ -52,6 +51,7 @@ The pharmacokinetics in patients aged 65 and over has not been studied.
 Paediatric population
 
 The pharmacokinetics in patients below the age of 18 has not been studied.
+
 Renal impairment
 
 Since the renal pathway is a secondary route of elimination for dimethyl fumarate accounting for less than 16% of the dose administered, evaluation of pharmacokinetics in individuals with renal impairment was not conducted.

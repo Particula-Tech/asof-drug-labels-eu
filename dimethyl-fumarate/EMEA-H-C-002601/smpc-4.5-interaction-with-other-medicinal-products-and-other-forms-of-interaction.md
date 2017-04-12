@@ -13,7 +13,6 @@ In humans, dimethyl fumarate is extensively metabolised by esterases before it r
 Potential drug interaction risks were not identified from in vitro CYP-inhibition and induction studies, a p-glycoprotein study, or studies of the protein binding of dimethyl fumarate and monomethyl fumarate (a primary metabolite of dimethyl fumarate).
 
 Commonly used medicinal products in patients with multiple sclerosis, intramuscular interferon beta-1a and glatiramer acetate, were clinically tested for potential interactions with dimethyl fumarate and did not alter the pharmacokinetic profile of dimethyl fumarate.
-
 Administration of 325 mg (or equivalent) non-enteric coated acetylsalicylic acid, 30 minutes prior to Tecfidera, over 4 days of dosing, did not alter the pharmacokinetic profile of Tecfidera and reduced the occurrence and severity of flushing in a healthy volunteer study.
 However, long term use of acetylsalicylic acid is not recommended for the management of flushing.
 Potential risks associated with acetylsalicylic acid therapy should be considered prior to co-administration with Tecfidera.
@@ -25,8 +24,8 @@ Consumption of moderate amounts of alcohol did not alter exposure to Tecfidera a
 Consumption of large quantities of undiluted strong alcoholic drinks (more than 30% alcohol by volume) may lead to increased dissolution rates of Tecfidera and, therefore, may increase the frequency of gastrointestinal adverse reactions.
 
 In vitro CYP induction studies did not demonstrate an interaction between Tecfidera and oral contraceptives.
-In vivo interaction studies have not been performed with oral contraceptives.
-Even though an interaction is not expected, non-hormonal contraceptive measures should be considered with Tecfidera (see section 4.6).
+In an in vivo study, co-administration of Tecfidera with a combined oral contraceptive (norgestimate and ethinyl estradiol) did not elicit any relevant change in oral contraceptive exposure.
+No interaction studies have been performed with oral contraceptives containing other progestogens, however an effect of Tecfidera on their exposure is not expected.
 
 Paediatric population
 

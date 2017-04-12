@@ -9,6 +9,7 @@ The most commonly reported adverse reactions leading to discontinuation (inciden
 In placebo-controlled and uncontrolled clinical studies, a total of 2,468 patients have received Tecfidera and been followed for periods up to 4 years with an overall exposure equivalent to 3,588 person-years.
 Approximately 1,056 patients have received more than 2 years of treatment with Tecfidera.
 The experience in uncontrolled clinical trials is consistent with the experience in the placebo-controlled clinical trials.
+
 Tabulated summary of adverse reactions
 
 Adverse reactions, which were more frequently reported in Tecfidera versus placebo-treated patients, are presented in the table below.
@@ -43,8 +44,8 @@ The incidence of the adverse reactions below are expressed according to the foll
 |  | Dyspepsia | Common |
 |  | Gastritis | Common |
 |  | Gastrointestinal disorder | Common |
-| Skin and subcutaneous tissue disorders | Pruritus | Common |
-|  | Rash | Common |
+| Skin and subcutaneous tissue | Pruritus | Common |
+| disorders | Rash | Common |
 |  | Erythema | Common |
 | Renal and urinary disorders | Proteinuria | Common |
 | General disorders and administration site conditions | Feeling hot | Common |
@@ -100,9 +101,10 @@ Upon treatment with Tecfidera, mean lymphocyte counts decreased over the first y
 On average, lymphocyte counts decreased by approximately 30% of baseline value.
 Mean and median lymphocyte counts remained within normal limits.
 Lymphocyte counts <0.5x109/l were observed in <1% of patients treated with placebo and 6% of patients treated with Tecfidera.
-A lymphocyte count <0.2x109/l was observed in 1 patient treated with Tecfidera and in no patients treated with placebo.The incidence of infections (58% versus 60%) and serious infections (2% versus 2%) was similar in patients treated with placebo or Tecfidera.
+A lymphocyte count <0.2x109/l was observed in 1 patient treated with Tecfidera and in no patients treated with placebo.
+The incidence of infections (58% versus 60%) and serious infections (2% versus 2%) was similar in patients treated with placebo or Tecfidera.
 An increased incidence of infections and serious infections was not observed in patients with lymphocyte counts <0.8x109/l or <0.5x109/l.
-PML has occurred in the setting of severe and prolonged lymphopenia (please refer to section 4.4).
+PML has occurred in the setting of moderate to severe prolonged lymphopenia (see section 4.4).
 A transient increase in mean eosinophil counts was seen during the first 2 months of therapy.
 
 Laboratory abnormalities

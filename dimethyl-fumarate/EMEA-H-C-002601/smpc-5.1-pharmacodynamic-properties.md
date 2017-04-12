@@ -19,6 +19,7 @@ Dimethyl fumarate demonstrated therapeutic activity in multiple models of inflam
 In Phase 3 studies, upon treatment with Tecfidera mean lymphocyte counts decreased on average by approximately 30% of their baseline value over the first year with a subsequent plateau.
 
 Effect on cardiovascular system
+
 Single doses of 240 mg or 360 mg Tecfidera did not have any effect on the QTc interval when compared to placebo in a QTc study.
 
 Clinical efficacy and safety
@@ -53,7 +54,6 @@ The annualised relapse rate for glatiramer acetate and placebo was 0.286 and 0.4
 | Proportion with 12-week confirmed disability progression | 0.271 | 0.164** | 0.169 | 0.128# | 0.156# |
 | Hazard ratio (95% CI) |  | 0.62 (0.44, 0.87) |  | 0.79 (0.52, 1.19) | 0.93 (0.63, 1.37) |
 | Proportion with 24 week confirmed disability progression | 0.169 | 0.128# | 0.125 | 0.078# | 0.108# |
-|  | Placebo | Tecfidera 240 mg twice a day | Placebo | Tecfidera 240 mg twice a day | Glatiramer acetate |
 | Hazard ratio (95% CI) |  | 0.77 (0.52, 1.14) |  | 0.62 (0.37, 1.03) | 0.87 (0.55, 1.38) |
 | MRI Endpointsb |  |  |  |  |  |
 | No. subjects | 165 | 152 | 144 | 147 | 161 |
