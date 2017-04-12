@@ -156,46 +156,6 @@ E) In COPERNICUS study, control group patients could receive Eylea on an as-need
 F) In COPERNICUS study, both control group and Eylea 2mg patients received Eylea 2 mg on an as-needed basis as frequently as every 4 weeks starting from Week 52 to Week 96; patients had mandatory quarterly visits but may have been seen as frequently as every 4 weeks if necessary.
 G) In GALILEO study, both control group and Eylea 2mg patients received Eylea 2 mg on an as-needed basis every 8 weeks starting from Week 52 to Week 68; patients had mandatory visits every 8 weeks.
 Figure 2: Mean Change from Baseline to Week 76/100 in Visual Acuity by Treatment Group for the COPERNICUS and GALILEO Studies (Full Analysis Set)
-
-COPERNICUS
-20
-
-.£ ::J u 15
-
-<(
-Iii
-
-> ~ 10 ::J c: Vl <II fixed monthly PRN with monthly PRN with extended
-·~£ dosing monitoring intervals monitoring intervals
-
-1 5 u
-
--5 0 4 8 12 16 20 :M 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84 88 92 96100
-
-Weeks
-
-GAUL EO
-20
-
-.£ ::J u 15
-
-<( +13.7
-
-Iii
-::J
-
->VI 10 c: Qj Vl PRN with monthly
-·~£ monitoring intervals +6.2
-
-..c: u n:J 5
-
--5 0 4 8 12 16 20 i4 28 32 36 40 44 48 52 56 60 64 68 72 76
-
-Weeks
-
-- ----..·,...--- EYLEA 2 mg ---o- Control Group
-
-X Indicates the switch of the control group to PRN treatment with EYLEA 2mg
 In GALILEO, 86.4% (n=89) of the Eylea group and 79.4% (n=54) of the sham group had perfused CRVO at baseline.
 At week 24, this was 91.8% (n=89) in the Eylea group and 85.5% (n=47) in the sham group.
 These proportions were maintained at week 76, with 84.3% (n=75) in the Eylea group and 84.0% (n=42) in the sham group.
@@ -270,6 +230,7 @@ Beginning at week 24, patients meeting a pre-specified threshold of vision loss 
 
 In both studies, the primary efficacy endpoint was the mean change from baseline in BCVA at Week 52 and both Eylea 2Q8 and Eylea 2Q4 groups demonstrated statistical significance and were superior to the control group.
 This benefit was maintained through week 100.
+
 Detailed results from the analysis of the VIVIDDME and VISTADME studies are shown in Table 5 and Figure 4 below.
 Table 5: Efficacy outcomes at week 52 and week 100 (Full Analysis Set with LOCF) in VIVIDDME and VISTADME studies
 
@@ -384,21 +345,6 @@ In combined data analysis of VIEW1 and VIEW2 Eylea demonstrated clinically meani
 | Mean change in BCVA C) as measured by ETDRSC) letter score from baseline (SD) | 17.3 (12.8) | -4.0 (18.0) | 16.2 (17.4) | 3.8 (17.1) | 13.0 (17.7) | 1.5 (17.7) | 18.0 (12.2) | 3.3 (14.1) | 16.9 (14.8) | 3.8 (18.1) | 13.7 (17.8) | 6.2 (17.7) |
 | Difference in LS meanA,C,D,E) (95% CI) p-value | 21.7 (17.4, 26.0) p < 0.0001 |  | 12.7 (7.7, 17.7) p < 0.0001 |  | 11.8 (6.7, 17.0) |  | 14.7 (10.8, 18.7) p < 0.0001 |  | 13.2 (8.2, 18.2) p < 0.0001 |  | 7.6 (2.1, 13.1) |  |
 |  |  |  |  |  | p < 0.0001 |  |  |  |  |  | p=0.0070 |  |
-
-fixed monthly PRN with monthly PRN with extended
-dosing monitoring intervals monitoring intervals
-
--5 0 4 8 12 16 20 ~ 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84 88 92 96100
-
-20 1+1 8.0
-
-+13.7
-
-PRN with monthly PRN with extended monitoring intervals monitoring intervals
-
--5 0 4 8 12 16 20 211 28 32 36 40 44 48 52 56 60 64 68 72 76
-
-- ----..·,.----- EYLEA 2 mg --o--- Control Group
 
 Patients in the laser control group could receive additional laser photocoagulation (called ‘rescue laser treatment’) beginning at week 12 with a minimum interval of 12 weeks.
 

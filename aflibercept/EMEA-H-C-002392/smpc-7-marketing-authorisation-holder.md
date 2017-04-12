@@ -1,5 +1,5 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Bayer Pharma AG
-D-13342 Berlin
+Bayer AG
+51368 Leverkusen
 Germany
