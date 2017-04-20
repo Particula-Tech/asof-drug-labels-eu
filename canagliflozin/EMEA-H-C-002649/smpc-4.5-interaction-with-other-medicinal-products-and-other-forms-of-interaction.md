@@ -1,7 +1,6 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 Pharmacodynamic interactions
-
 Diuretics
 Canagliflozin may add to the effect of diuretics and may increase the risk of dehydration and hypotension (see section 4.4).
 
@@ -10,7 +9,6 @@ Insulin and insulin secretagogues, such as sulphonylureas, can cause hypoglycaem
 Therefore, a lower dose of insulin or an insulin secretagogue may be required to reduce the risk of hypoglycaemia when used in combination with canagliflozin (see sections 4.2 and 4.8).
 
 Pharmacokinetic interactions
-
 Effects of other medicinal products on canagliflozin
 The metabolism of canagliflozin is primarily via glucuronide conjugation mediated by UDP glucuronosyl transferase 1A9 (UGT1A9) and 2B4 (UGT2B4).
 Canagliflozin is transported by P-glycoprotein (P-gp) and Breast Cancer Resistance Protein (BCRP).
@@ -20,7 +18,7 @@ Following co-administration of canagliflozin with rifampicin (an inducer of vari
 These decreases in exposure to canagliflozin may decrease efficacy.
 
 If a combined inducer of these UGT enzymes and transport proteins must be co-administered with canagliflozin, monitoring of glycaemic control to assess response to canagliflozin is appropriate.
-If an inducer of these UGT enzymes must be co-administered with canagliflozin, increasing the dose to 300 mg once daily may be considered if patients are currently tolerating canagliflozin 100 mg once daily, have an eGFR ≥ 60 mL/min/1.73 m2 or CrCl ≥ 60 mL/min, and require additional glycaemic control.
+If an inducer of these UGT enzymes must be co-administered with canagliflozin, increasing the dose to 300 mg once daily may be considered if patients are currently tolerating canagliflozin 100 mg once daily, have an eGFR ≥60 mL/min/1.73 m2 or CrCl ≥60 mL/min, and require additional glycaemic control.
 In patients with an eGFR 45 mL/min/1.73 m2 to < 60 mL/min/1.73 m2 or CrCl 45 mL/min to < 60 mL/min taking canagliflozin 100 mg who are receiving concurrent therapy with a UGT enzyme inducer and who require additional glycaemic control, other glucose-lowering therapies should be considered (see sections 4.2 and 4.4).
 
 Cholestyramine may potentially reduce canagliflozin exposure.
@@ -44,7 +42,6 @@ Inhibition of BCRP by canagliflozin cannot be excluded at an intestinal level an
 In interaction studies, canagliflozin at steady-state had no clinically relevant effect on the pharmacokinetics of metformin, oral contraceptives (ethinyl estradiol and levonorgestrol), glibenclamide, paracetamol, hydrochlorothiazide, or warfarin.
 
 Drug/Laboratory test interference
-
 1,5-AG assay
 Increases in urinary glucose excretion with Invokana can falsely lower 1,5-anhydroglucitol (1,5-AG) levels and make measurements of 1,5-AG unreliable in assessing glycemic control.
 Therefore, 1,5-AG assays should not be used for assessment of glycemic control in patients on canagliflozin.
