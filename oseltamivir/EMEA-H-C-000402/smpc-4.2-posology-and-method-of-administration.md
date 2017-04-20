@@ -34,7 +34,6 @@ Paediatric population
 
 Children 1 to 12 years of age
 Tamiflu 30 mg, 45 mg and 75 mg capsules and oral suspension are available for infants and children 1 year of age or older
-
 Treatment: The following weight-adjusted dosing regimens are recommended for treatment of infants and children 1 year of age or older:
 
 | Body Weight | Recommended dose for 5 days |
@@ -58,6 +57,7 @@ Post-exposure prevention: The recommended post-exposure prevention dose of Tamif
 Prevention during an influenza epidemic in the community: Prevention during an influenza epidemic has not been studied in children below 12 years of age.
 
 Infants 0 – 12 months of age
+
 Treatment: The recommended treatment dose for infants 0 - 12 months of age is 3 mg/kg twice daily.
 This is based upon pharmacokinetic and safety data indicating that this dose in infants 0 - 12 months provides plasma concentrations of the pro-drug and active metabolite that are anticipated to be clinically efficacious with a safety profile comparable to that seen in older children and adults (see section 5.2).
 The following dosing regimen is recommended for treatment of infants 0 - 12 months of age:
@@ -79,10 +79,10 @@ Treatment should be initiated as soon as possible within the first two days of o
 
 This dosing recommendation is not intended for premature infants, i.e. those with a post-conceptual age less than 36 weeks.
 Insufficient data are available for these patients, in whom different dosing may be required due to the immaturity of physiological functions.
-
 Post-exposure prevention: The recommended prophylaxis dose for infants less than 1 year of age during a pandemic influenza outbreak is half of the daily treatment dose.
 This is based upon clinical data in infants and children 1 year of age or older and adults showing that a prophylaxis dose equivalent to half the daily treatment dose is clinically efficacious for the prevention of influenza.
-The following age-adjusted dosing prophylaxis regimen is recommended for infants 0 - 12 months of age:
+The following age-adjusted dosing prophylaxis regimen is recommended for infants 0 - 12 months of age (see Section 5.2 for exposure simulation):
+:
 
 | Age | Recommended dose for 10 days |
 | --- | --- |
@@ -100,6 +100,7 @@ Special populations
 Hepatic impairment
 No dose adjustment is required either for treatment or for prevention in patients with hepatic dysfunction.
 No studies have been carried out in paediatric patients with hepatic disorder.
+
 Renal impairment
 Treatment of influenza: Dose adjustment is recommended for adults and adolescents (13 to 17 years of age) with moderate or severe renal impairment.
 Recommended doses are detailed in the table below.
@@ -131,33 +132,16 @@ Prevention of influenza: Dose adjustment is recommended for adults and adolescen
 Treatment mode can be switched from APD to CAPD if considered necessary by a nephrologist.
 
 There is insufficient clinical data available in infants and children (12 years of age and younger) with renal impairment to be able to make any dosing recommendation.
-
-Older people
+Elderly
 No dose adjustment is required, unless there is evidence of moderate or severe renal impairment.
 
 Immunocompromised patients
 Longer duration of seasonal prophylaxis up to 12 weeks has been evaluated in immunocompromised patients (see sections 4.4, 4.8 and 5.1).
 
 Method of administration
+
 Oral use.
 Patients who are unable to swallow capsules may receive appropriate doses of Tamiflu suspension.
-
-[Tamiflu 45 mg hard capsules]
-
-For infants 0 - 12 months of age
-
-For all patients under the age of 1 year of age, 3 mg/kg should be used to determine dose regardless of the weight of the patient.
-
-[Tamiflu 75 mg hard capsules]
-
-| Creatinine clearance | Recommended dose for prevention |
-| --- | --- |
-| > 60 (ml/min) | 75 mg once daily |
-| > 30 to60 (ml/min) | 30 mg (suspension or capsules) once daily |
-| > 10 to 30 (ml/min) | 30 mg (suspension or capsules) every second day |
-| ≤ 10 (ml/min) | Not recommended (no data available) |
-| Haemodialysis patients | 30 mg after every second haemodialysis session |
-| Peritoneal dialysis patients* | 30 mg (suspension or capsules) once weekly |
 
 [Tamiflu 6 mg/ml powder for oral suspension]
 
@@ -184,10 +168,10 @@ The following weight-adjusted dosing regimens are recommended for infants and ch
 Children weighing > 40 kg and who are able to swallow capsules may receive treatment with the adult dosage of 75 mg capsules twice daily for 5 days as an alternative to the recommended dose of Tamiflu suspension.
 
 For infants less than 1 year of age: The recommended treatment dose for infants 0 - 12 months of age is 3 mg/kg twice daily.
-
 A 3 ml oral dispenser (graduated in 0.1 ml steps) should be used for dosing children 0 - 12 months of age requiring 1 ml to 3 ml of Tamiflu 6 mg/ml oral suspension.
 For higher doses the 10 ml syringe should be used.
 The following dosing regimen is recommended for treatment of infants below 1 year of age:
+
 Dosing table of oseltamivir for children less than 1 year of age : 3 mg/kg twice daily
 
 | Body Weight* | Recommended dose for 5 days | Amount of oral suspension to withdraw | Dispenser size to use |
@@ -222,7 +206,7 @@ The recommended post-exposure prevention dose of Tamiflu is:
 Children weighing > 40 kg and who are able to swallow capsules may receive prophylaxis with a 75 mg capsule once daily for 10 days as an alternative to the recommended dose of Tamiflu suspension.
 
 For infants less than 1 year of age: The recommended prophylaxis dose for infants less than 12 months during a pandemic influenza outbreak is half of the daily treatment dose.
-This is based upon clinical data in children > 1 year of age and adults showing that a prophylaxis dose equivalent to half the daily treatment dose is clinically efficacious for the prevention of influenza.
+This is based upon clinical data in children > 1 year of age and adults showing that a prophylaxis dose equivalent to half the daily treatment dose is clinically efficacious for the prevention of influenza (see Section 5.2 for exposure simulation)..
 
 In case of a pandemic, a 3 ml oral dispenser (graduated in 0.1 ml steps) should be used for dosing children below 1 year of age requiring 1 ml to 3 ml of Tamiflu 6 mg/ml oral suspension.
 The following dosing regimen is recommended for infants less than 1 year of age:

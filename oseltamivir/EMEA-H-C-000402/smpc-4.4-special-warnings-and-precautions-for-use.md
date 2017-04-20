@@ -2,6 +2,7 @@
 
 Oseltamivir is effective only against illness caused by influenza viruses.
 There is no evidence for efficacy of oseltamivir in any illness caused by agents other than influenza viruses (see section 5.1).
+
 Tamiflu is not a substitute for influenza vaccination.
 Use of Tamiflu must not affect the evaluation of individuals for annual influenza vaccination.
 The protection against influenza lasts only as long as Tamiflu is administered.
@@ -31,15 +32,9 @@ Neuropsychiatric events have been reported during administration of Tamiflu in p
 These events are also experienced by patients with influenza without oseltamivir administration.
 Patients should be closely monitored for behavioural changes, and the benefits and risks of continuing treatment should be carefully evaluated for each patient (see section 4.8).
 
-[Tamiflu 45 mg hard capsules]
+[Tamiflu 6 mg/ml powder for oral suspension]
 
 No data allowing a dose recommendation for premature children (<36 weeks post-conceptual age) are currently available.
-
-[Tamiflu 75 mg hard capsules]
-
-(all sentences already above)
-
-[Tamiflu 6 mg/ml powder for oral suspension]
 
 This medicinal product contains sorbitol.
 Patients with rare hereditary problems of fructose intolerance should not take this medicine.

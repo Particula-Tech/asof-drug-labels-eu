@@ -39,13 +39,18 @@ The available data indicates that the exposure following a 3 mg/kg dose in infan
 There are no data available for infants below 1 year of age for post exposure prevention of influenza.
 Prevention during an influenza epidemic in the community has not been studied in children below 12 years of age.
 
+Post-exposure prevention of influenza in infants less than 1 year of age during a pandemic:
+Simulation of once daily dosing of 3mg/kg in infants <1 year shows an exposure in the same range or higher than for once daily dosing of 75 mg in adults.
+Exposure does not exceed that for treatment of infants < 1 year (3 mg/kg twice daily) and is anticipated to result in a comparable safety profile (see Section 4.8).
+No clinical studies of prophylaxis in infants aged <1 have been performed.
+
 Infants and children 1 year of age or older: The pharmacokinetics of oseltamivir have been evaluated in single-dose pharmacokinetic studies in infants, children and adolescents 1 to 16 years of age.
 Multiple-dose pharmacokinetics were studied in a small number of children enrolled in a clinical efficacy study.
 Younger children cleared both the pro-drug and its active metabolite faster than adults, resulting in a lower exposure for a given mg/kg dose.
 Doses of 2 mg/kg give oseltamivir carboxylate exposures comparable to those achieved in adults receiving a single 75 mg dose (approximately 1 mg/kg).
 The pharmacokinetics of oseltamivir in children and adolescents 12 years of age or older are similar to those in adults.
 
-Older people
+Elderly
 Exposure to the active metabolite at steady state was 25 to 35 % higher in older people (age 65 to 78 years) compared to adults less than 65 years of age given comparable doses of oseltamivir.
 Half-lives observed in older people were similar to those seen in young adults.
 On the basis of drug exposure and tolerability, dosage adjustments are not required for older people unless there is evidence of moderate or severe renal impairment (creatinine clearance below 60 ml /min) (see section 4.2).
@@ -53,7 +58,6 @@ On the basis of drug exposure and tolerability, dosage adjustments are not requi
 Renal impairment
 Administration of 100 mg oseltamivir phosphate twice daily for 5 days to patients with various degrees of renal impairment showed that exposure to oseltamivir carboxylate is inversely proportional to declining renal function.
 For dosing, see section 4.2.
-
 Hepatic impairment
 In vitro studies have concluded that exposure to oseltamivir is not expected to be increased significantly nor is exposure to the active metabolite expected to be significantly decreased in patients with hepatic impairment (see section 4.2).
 
@@ -63,19 +67,10 @@ The lower predicted exposure however, remains above inhibitoy concentrations (IC
 In addition, there is evidence from observational studies showing benefit of the current dosing regimen in this patient population.
 Therefore, dose adjustments are not recommended for pregnant women in the treatment or prophylaxis of influenza (see section 4.6 Fertility, pregnancy and lactation).
 
-[Tamiflu 45 mg hard capsules]
-
-(all sentences already above)
-
-[Tamiflu 75 mg hard capsules]
-
-Infants less than 1 year of age:
-The pharmacokinetics, pharmacodynamics and safety of Tamiflu have been evaluated in two uncontrolled open-label studies including influenza infected children less than one year of age (n=135).
-
 [Tamiflu 6 mg/ml powder for oral suspension]
 
 (all sentences already above)
 
 [Tamiflu 12 mg/ml powder for oral suspension]
 
-(all sentences already above)
+Older people

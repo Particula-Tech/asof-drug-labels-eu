@@ -13,7 +13,6 @@ Detailed information on the home preparation can be found in the package leaflet
 
 Syringes of appropriate volume and grading should be provided for administering the pharmacy compounded suspension as well as for the procedures involved in the home preparation.
 In both cases, the correct volumes should preferably be marked on the syringes.
-
 Pharmacy compounding
 
 Pharmacy compounded 6 mg/ml suspension prepared from capsules
@@ -26,6 +25,7 @@ The pharmacist may compound a 6 mg/ml suspension from Tamiflu 30 mg, 45 mg or 75
 First, calculate the total volume needed to be compounded and dispensed to provide a 5-day course of treatment or a 10-day course of prophylaxis for the patient.
 The total volume required is determined by the weight of the patient according to the recommendation in the table below.
 To allow for accurate volume withdrawal of up to 10 doses (2 withdrawals per daily treatment dose for 5 days), the column indicating measurement loss is to be considered for compounding.
+
 Volume of pharmacy compounded 6 mg/ml suspension prepared based upon the patient’s weight
 
 | Body weight (kg) | Total volume to compound per patient weight (ml) Measurement loss not considered | Total volume to compound per patient weight (ml) Measurement loss considered |
@@ -73,7 +73,6 @@ Instruct the parent or caregiver that any remaining material following completio
 It is recommended that this information be provided by either affixing an ancillary label to the bottle or adding a statement to the pharmacy label instructions.
 8.
 Place an appropriate expiration date label according to storage condition (see section 6.3).
-
 Place a pharmacy label on the bottle that includes the patient’s name, dosing instructions, use by date, name of medicinal product and any other required information to be in compliance with local pharmacy regulations.
 Refer to the table below for the proper dosing instructions.
 
@@ -108,8 +107,8 @@ Volume of pharmacy compounded 6 mg/ml suspension prepared based upon the patient
 | > 7 kg to 10 kg | 50 ml | 60 ml or 75 ml* |
 
 * Depending on the capsule strength used.
-
 Second, determine the number of capsules and the amount of vehicle (water containing 0.05 % w/v sodium benzoate added as a preservative) that is needed to prepare the total volume (calculated from the table above) of pharmacy compounded 6 mg/ml suspension as shown in the table below:
+
 Number of capsules and amount of vehicle needed to prepare the total volume of a pharmacy compounded 6 mg/ml suspension
 
 | Total volume of compounded suspension to be prepared | Required number of Tamiflu capsules (mg of oseltamivir) |  |  | Required volume of vehicle |
@@ -183,14 +182,6 @@ The mixture must be swallowed immediately after its preparation.
 When only 75 mg capsules are available, and doses of 30 mg or 45 mg are needed, the preparation of Tamiflu suspension involves additional steps.
 Detailed instructions can be found in the package leaflet of Tamiflu capsules under “Making liquid Tamiflu at home”.
 
-[Tamiflu 45 mg hard capsules]
-
-(all sentences already above)
-
-[Tamiflu 75 mg hard capsules]
-
-(all sentences already above)
-
 [Tamiflu 6 mg/ml powder for oral suspension]
 
 It is recommended that Tamiflu oral suspension should be reconstituted by the pharmacist prior to being dispensed to the patient.
@@ -205,7 +196,6 @@ Add all 55 ml of water into the bottle, recap the bottle and shake the closed bo
 Remove the cap and push the bottle adapter into the neck of the bottle.
 Close the bottle tightly with the cap (on the top of the bottle adapter).
 This will make sure that the bottle adapter fits in the bottle in the right position.
-
 Tamiflu powder for suspension will appear as an opaque and white to light yellow suspension after reconstitution.
 
 [Tamiflu 12 mg/ml powder for oral suspension]

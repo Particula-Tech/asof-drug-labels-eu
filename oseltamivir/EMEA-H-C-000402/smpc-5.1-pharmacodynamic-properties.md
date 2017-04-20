@@ -80,6 +80,10 @@ According to subgroup analysis in children at 1 to 12 years of age, the incidenc
 Among children who were not already shedding virus at baseline, the incidence of laboratory-confirmed clinical influenza was reduced from 21 % (15/70) in the group not receiving prevention to 4 % (2/47) in the group receiving prevention (80.1 % reduction [95 % CI 22.0 – 94.9; p = 0.0206]).
 The NNT for the total paediatric population was 9 (95 % CI 7 – 24) and 8 (95 % CI 6, upper limit not estimable) in the whole population (ITT) and in paediatric contacts of infected index cases (ITTII), respectively.
 
+Post-exposure prevention of influenza in infants less than 1 year of age during a pandemic:
+Prevention during an influenza pandemic has not been studied in controlled clinical studies in children 0-12 months of age.
+See Section 5.2 for exposure simulation details.
+
 Prevention during an influenza epidemic in the community: In a pooled analysis of two other studies conducted in unvaccinated otherwise healthy adults, oseltamivir 75 mg once daily given for 6 weeks significantly reduced the incidence of clinical influenza illness from 25/519 (4.8 %) in the placebo group to 6/520 (1.2 %) in the oseltamivir group (76 % reduction [95 % CI 1.6 – 5.7; p = 0.0006]) during a community outbreak of influenza.
 The NNT in this study was 28 (95 % CI 24 – 50).
 A study in older people in nursing homes, where 80 % of participants received vaccine in the season of the study, oseltamivir 75 mg once daily given for 6 weeks significantly reduced the incidence of clinical influenza illness from 12/272 (4.4 %) in the placebo group to 1/276 (0.4 %) in the oseltamivir group (92 % reduction [95 % CI 1.5 – 6.6; p = 0.0015]).
@@ -94,41 +98,53 @@ Specific studies have not been conducted to assess the reduction in the risk of 
 
 Oseltamivir resistance
 Clinical studies: The risk of emergence of influenza viruses with reduced susceptibility or frank resistance to oseltamivir has been examined during Roche-sponsored clinical studies.
-All patients who were found to carry oseltamivir-resistant virus did so transiently, cleared the virus normally and showed no clinical deterioration.
+Developing oseltamivir-resistant virus during treatment was more frequent in children than adults, ranging from less than 1% in adults to 18% in infants aged below 1 year.
+Children who were found to carry oseltamivir-resistant virus in general shed the virus for a prolonged period compared with subjects with susceptible virus.
+However treatment-emergent resistance to oseltamivir did not affect treatment response and caused no prolongation of influenza symptoms.
 
 | Patient Population | Patients with Resistance Mutations (%) |  |
 | --- | --- | --- |
 |  | Phenotyping* | Geno- and Phenotyping* |
-| Adults and adolescents | 4/1,245 (0.32 %) | 5/1,245 (0.4 %) |
-| Children (1-12 years) | 19/464 (4.1 %) | 25/464 (5.4 %) |
+| Adults and adolescents | 0.62% (14/2253) | 0.67% (15/2253) |
+| Children (1-12 years) | 3.89% (66/1698) | 4.24% (72/1698) |
+| Infants (<1year) | 18.31% (13/71) | 18.31% (13/71) |
 
 * Full genotyping was not performed in all studies.
 
 There has been no evidence for emergence of drug resistance associated with the use of Tamiflu in clinical studies conducted to date in post-exposure (7 days), post-exposure within household groups (10 days) and seasonal (42 days) prevention of influenza in immunocompetent patients.
 There was no resistance observed during a 12-week prophylaxis study in immunocompromised patients.
+
 Clinical and surveillance data: Natural mutations associated with reduced susceptibility to oseltamivir in vitro have been detected in influenza A and B viruses isolated from patients without exposure to oseltamivir.
 Resistant strains selected during oseltamivir treatment have been isolated from both immunocompetent and immunocompromised patients.
 Immunocompromised patients and young children are at a higher risk of developing oseltamivir-resistant virus during treatment.
 
 Oseltamivir-resistant viruses isolated from oseltamivir-treated patients and oseltamivir-resistant laboratory strains of influenza viruses have been found to contain mutations in N1 and N2 neuraminidases.
 Resistance mutations tend to be viral sub-type specific.
-Since 2007 resistance associated H275Y mutation in seasonal H1N1 strains has become widespread.
+Since 2007 naturally occurring resistance associated with the H275Y mutation in seasonal H1N1 strains has been sporadically detected.
 The susceptibility to oseltamivir and the prevalence of such viruses appear to vary seasonally and geographically.
 In 2008, H275Y was found in > 99 % of circulating H1N1 influenza isolates in Europe.
 The 2009 H1N1 influenza (“swine flu”) was almost uniformly susceptible to oseltamivir, with only sporadic reports of resistance in connection with both therapeutic and prophylactic regimens.
-
-[Tamiflu 45 mg hard capsules]
-
-In influenza-positive older people, oseltamivir significantly reduced the incidence of specified lower respiratory tract complications (mainly bronchitis) treated with antibiotics from 19 % (52/268) in the placebo group to 12 % (29/250) in the oseltamivir treated population (p = 0.0156).
-
-[Tamiflu 75 mg hard capsules]
-
-(all sentences already above)
 
 [Tamiflu 6 mg/ml powder for oral suspension]
 
 The indication is based on clinical studies of naturally occurring influenza in which the predominant infection was influenza A.Oseltamivir is effective only against illnesses caused by influenza virus.
 
+In influenza-positive older people, oseltamivir significantly reduced the incidence of specified lower respiratory tract complications (mainly bronchitis) treated with antibiotics from 19 % (52/268) in the placebo group to 12 % (29/250) in the oseltamivir treated population (p = 0.0156).
+
+| Patient Population | Patients with Resistance Mutations (%) |  |
+| --- | --- | --- |
+|  | Phenotyping* | Geno- and Phenotyping* |
+| Adults and adolescents | 0.62% (14/2253) | 0.67% (15/2253) |
+| Children (1-12 years) | 3.89% (66/1698) | 4.24% (72/1698) |
+| Infant (<1 year) | 18.31% (13/71) | 18.31 (13/71) |
+
 [Tamiflu 12 mg/ml powder for oral suspension]
 
-(all sentences already above)
+| Patient Population | Patients with Resistance Mutations (%) |  |
+| --- | --- | --- |
+|  | Phenotyping* | Geno- and Phenotyping* |
+| Adults and adolescents | 0.62% (14/2253) | 0.67% (15/2253) |
+| Children (1-12 years) | 3.89% (66/1698) | 4.24% (72/1698) |
+| Infants (<1 year) | 18.31% (13/71) | 18.31% (13/71) |
+
+Since 2007 naturally occurring resistance associated with theH275Y mutation in seasonal H1N1 strains has been sporadically detected .

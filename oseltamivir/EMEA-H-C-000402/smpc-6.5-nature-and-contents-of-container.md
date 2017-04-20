@@ -3,14 +3,6 @@
 Triplex blister pack (PVC/PE/PVDC, sealed with aluminium foil).
 Pack-size 10 capsules.
 
-[Tamiflu 45 mg hard capsules]
-
-(all sentences already above)
-
-[Tamiflu 75 mg hard capsules]
-
-(all sentences already above)
-
 [Tamiflu 6 mg/ml powder for oral suspension]
 
 100 ml amber glass bottle (with child-resistant polypropylene screw cap, outer part: polyethylene; inner part: polypropylene; liner: polyethylene) with 13 g of powder for oral suspension, a plastic adapter (low density polyethylene) , plastic 3 ml oral dispenser (0.1 ml graduation) and 10 ml oral dispenser (0.5 ml graduation) (barrel and plunger: polypropylene, silicon based seal ring) and a plastic measuring cup (polypropylene).

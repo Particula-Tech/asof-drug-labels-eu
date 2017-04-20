@@ -1,15 +1,16 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
+Tamiflu 30 mg hard capsules
 Each hard capsule contains oseltamivir phosphate equivalent to 30 mg of oseltamivir.
 For the full list of excipients, see section 6.1.
 
-[Tamiflu 45 mg hard capsules]
-
+Tamiflu 45 mg hard capsules
 Each hard capsule contains oseltamivir phosphate equivalent to 45 mg of oseltamivir.
+For the full list of excipients, see section 6.1.
 
-[Tamiflu 75 mg hard capsules]
-
+Tamiflu 75 mg hard capsules
 Each hard capsule contains oseltamivir phosphate equivalent to 75 mg of oseltamivir.
+For the full list of excipients, see section 6.1.
 
 [Tamiflu 6 mg/ml powder for oral suspension]
 

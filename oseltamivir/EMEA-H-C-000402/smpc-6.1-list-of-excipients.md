@@ -1,5 +1,6 @@
 # 6.1 List of excipients
 
+Tamiflu 30 mg hard capsules
 Capsule core
 Pregelatinised starch (derived from maize starch)
 Talc
@@ -18,13 +19,42 @@ Shellac
 Titanium dioxide (E171)
 FD and C Blue 2 (indigo carmine, E132)
 
-[Tamiflu 45 mg hard capsules]
+Tamiflu 45 mg hard capsules
+Capsule core
+Pregelatinised starch (derived from maize starch)
+Talc
+Povidone
+Croscarmellose sodium
+Sodium stearyl fumarate
 
+Capsule shell
+Gelatin
 Black iron oxide (E172)
+Titanium dioxide (E171)
 
-[Tamiflu 75 mg hard capsules]
+Printing ink
+Shellac
+Titanium dioxide (E171)
+FD and C Blue 2 (indigo carmine, E132)
 
-(all sentences already above)
+Tamiflu 75 mg hard capsules
+Capsule core
+Pregelatinised starch (derived from maize starch)
+Talc
+Povidone
+Croscarmellose sodium
+Sodium stearyl fumarate
+
+Capsule shell
+Gelatin
+Yellow iron oxide (E172)
+Red iron oxide (E172)
+Black iron oxide (E172)
+Titanium dioxide (E171)
+Printing ink
+Shellac
+Titanium dioxide (E171)
+FD and C Blue 2 (indigo carmine, E132)
 
 [Tamiflu 6 mg/ml powder for oral suspension]
 

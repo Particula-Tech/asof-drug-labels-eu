@@ -8,6 +8,7 @@ Co-administration of probenecid, a potent inhibitor of the anionic pathway of re
 
 Amoxicillin
 Oseltamivir has no kinetic interaction with amoxicillin, which is eliminated via the same pathway, suggesting that oseltamivir interaction with this pathway is weak.
+
 Renal elimination
 Clinically important drug interactions involving competition for renal tubular secretion are unlikely, due to the known safety margin for most of these substances, the elimination characteristics of the active metabolite (glomerular filtration and anionic tubular secretion) and the excretion capacity of these pathways.
 However, care should be taken when prescribing oseltamivir in subjects when taking co-excreted agents with a narrow therapeutic margin (e.g. chlorpropamide, methotrexate, phenylbutazone).
