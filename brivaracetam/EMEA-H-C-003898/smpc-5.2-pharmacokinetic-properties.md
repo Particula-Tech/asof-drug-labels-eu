@@ -20,7 +20,7 @@ Biotransformation
 Brivaracetam is primarily metabolized by hydrolysis of the amide moiety to form the corresponding carboxylic acid (approximately 60 % the elimination), and secondarily by hydroxylation on the propyl side chain (approximately 30 % the elimination).
 The hydrolysis of the amide moiety leading to the carboxylic acid metabolite (34 % of the dose in urine) is supported by hepatic and extra-hepatic amidase.
 In vitro, the hydroxylation of brivaracetam is mediated primarily by CYP2C19.
-Both metabolites, are further metabolised forming a common hydroxylated acid.
+Both metabolites, are further metabolised forming a common hydroxylated acid formed predominantly by hydroxylation of the propyl side chain on the carboxylic acid metabolite (mainly by CYP2C9).
 In vivo, in human subjects possessing ineffective mutations of CYP2C19, production of the hydroxy metabolite is decreased 10-fold while brivaracetam itself is increased by 22 % or 42 % in individuals with one or both mutated alleles.
 The three metabolites are not pharmacologically active.
 

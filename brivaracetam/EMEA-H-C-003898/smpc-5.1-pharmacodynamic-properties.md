@@ -45,7 +45,8 @@ n = randomised patients who received at least 1 dose of study medication
 ~ Dose not studied
 * Statistically significant
 (1) Approximately 20 % of the patients were on concomitant levetiracetam
-(2) The primary outcome for N01252 did not achieve statistical significance based on the sequential testing procedure, The 100 mg/day dose was nominally significant.
+(2) The primary outcome for N01252 did not achieve statistical significance based on the sequential testing procedure.
+The 100 mg/day dose was nominally significant.
 
 In clinical studies, a reduction in seizure frequency over placebo was higher with the dose of 100 mg/day than with 50 mg/day.
 Apart from dose-dependent increases in incidences of somnolence and fatigue brivaracetam 50 mg/day and 100 mg/day had a similar safety profile including CNS-related AEs and with long-term use.
@@ -97,4 +98,21 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 [Briviact 10 mg/ml solution for injection/infusion]
 
-(all sentences already above)
+| Study | Placebo | Brivaracetam * Statistically significant (p-value) |  |  |
+| --- | --- | --- | --- | --- |
+|  |  | 50 mg/day | 100 mg/day | 200 mg/day |
+| Study N01253(1) |  |  |  |  |
+|  | n= 96 | n= 101 |  |  |
+| 50 % Responder rate | 16.7 | 32.7* (p=0.008) | ~ | ~ |
+| Percent reduction over placebo (%) | NA | 22.0* (p=0.0040) | ~ | ~ |
+| Study N01252(1) |  |  |  |  |
+|  | n = 100 | n = 99 | n = 100 |  |
+| 50 % Responder rate | 20.0 | 27.3 (p=0.372) | 36.0(2) (p=0.023) | ~ |
+| Percent reduction over placebo (%) | NA | 9.2 (p=0.0274) | 20.5(2) (p=0.0097) | ~ |
+|  |  | 50 mg/day | 100 mg/day | 200 mg/day |
+| Study N01358 |  |  |  |  |
+|  | n = 259 |  | n = 252 | n = 249 |
+| 50% Responder rate | 21.6 | ~ | 38.9 (p<0.001) | 37.8 (p<0.001) |
+| Percent reduction over placebo (%) | NA | ~ | 22.8* (p<0.001) | 23.2* (p<0.001) |
+
+(2) The primary outcome for N01252 did not achieve statistical significance based on the sequential testing procedure, The 100 mg/day dose was nominally significant.
