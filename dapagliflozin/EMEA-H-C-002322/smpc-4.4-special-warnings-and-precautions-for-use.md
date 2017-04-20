@@ -44,7 +44,6 @@ Treatment should be interrupted in patients who are hospitalised for major surgi
 In both cases, treatment with dapagliflozin may be restarted once the patient’s condition has stabilised.
 
 Before initiating dapagliflozin, factors in the patient history that may predispose to ketoacidosis should be considered.
-
 Patients who may be at higher risk of DKA include patients with a low beta-cell function reserve (e.g. type 2 diabetes patients with low C-peptide or latent autoimmune diabetes in adults (LADA) or patients with a history of pancreatitis), patients with conditions that lead to restricted food intake or severe dehydration, patients for whom insulin doses are reduced and patients with increased insulin requirements due to acute medical illness, surgery or alcohol abuse.
 SGLT2 inhibitors should be used with caution in these patients.
 
@@ -58,7 +57,7 @@ Urinary tract infections were more frequently reported for dapagliflozin 10 mg c
 Pyelonephritis was uncommon and occurred at a similar frequency to control.
 Urinary glucose excretion may be associated with an increased risk of urinary tract infection; therefore, temporary interruption of dapagliflozin should be considered when treating pyelonephritis or urosepsis.
 
-Elderly patients
+Elderly (≥65 years)
 Elderly patients are more likely to have impaired renal function, and/or to be treated with anti-hypertensive medicinal products that may cause changes in renal function such as angiotensin-converting enzyme inhibitors (ACE-I) and angiotensin II type 1 receptor blockers (ARB).
 The same recommendations for renal function apply to elderly patients as to all patients (see sections 4.2, 4.4, 4.8 and 5.1).
 
@@ -80,6 +79,10 @@ Available epidemiological data for pioglitazone suggest a small increased risk o
 
 Elevated haematocrit
 Haematocrit increase was observed with dapagliflozin treatment (see section 4.8); therefore, caution in patients with already elevated haematocrit is warranted.
+Lower limb amputations
+An increase in cases of lower limb amputation (primarily of the toe) has been observed in ongoing long-term, clinical studies with another SGLT2 inhibitor.
+It is unknown whether this constitutes a class effect.
+Like for all diabetic patients it is important to counsel patients on routine preventative foot care.
 
 Combinations not studied
 Dapagliflozin has not been studied in combination with glucagon-like peptide 1 (GLP-1) analogues.

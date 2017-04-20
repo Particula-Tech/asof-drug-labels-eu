@@ -4,6 +4,7 @@ Posology
 Monotherapy and add-on combination therapy
 The recommended dose is 10 mg dapagliflozin once daily for monotherapy and add-on combination therapy with other glucose-lowering medicinal products including insulin.
 When dapagliflozin is used in combination with insulin or an insulin secretagogue, such as a sulphonylurea, a lower dose of insulin or insulin secretagogue may be considered to reduce the risk of hypoglycaemia (see sections 4.5 and 4.8).
+
 Special populations
 Renal impairment
 The efficacy of dapagliflozin is dependent on renal function, and efficacy is reduced in patients who have moderate renal impairment and likely absent in patients with severe renal impairment.

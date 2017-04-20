@@ -3,7 +3,7 @@
 Tablet core
 Microcrystalline cellulose (E460i)
 Lactose, anhydrous
-Crospovidone (E1201)
+Crospovidone (E1202)
 Silicon dioxide (E551)
 Magnesium stearate (E470b)
 
