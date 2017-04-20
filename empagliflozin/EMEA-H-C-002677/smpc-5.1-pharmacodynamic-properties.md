@@ -43,7 +43,6 @@ The efficacy and safety of empagliflozin as monotherapy was evaluated in a doubl
 Treatment with empagliflozin resulted in a statistically significant (p<0.0001) reduction in HbA1c compared to placebo (Table 2) and a clinically meaningful decrease in FPG.
 In a prespecified analysis of patients (N=201) with a baseline HbA1c ≥8.5%, treatment resulted in a reduction in HbA1c from baseline of -1.44% for empagliflozin 10 mg, -1.43% for empagliflozin 25 mg, -1.04% for sitagliptin, and an increase of 0.01% for placebo.
 In the double-blind placebo-controlled extension of this study, reductions of HbA1c, body weight and blood pressure were sustained up to Week 76.
-
 Table 2: Efficacy results of a 24 week placebo-controlled study of empagliflozin as monotherapya
 
 |  | Placebo | Jardiance |  | Sitagliptin |
@@ -78,7 +77,6 @@ Empagliflozin as add-on to metformin, sulphonylurea, pioglitazone
 Empagliflozin as add-on to metformin, metformin and a sulphonylurea, or pioglitazone with or without metformin resulted in statistically significant (p<0.0001) reductions in HbA1c and body weight compared to placebo (Table 3).
 In addition it resulted in a clinically meaningful reduction in FPG, systolic and diastolic blood pressure compared to placebo.
 In the double-blind placebo-controlled extension of these studies, reduction of HbA1c, body weight and blood pressure were sustained up to Week 76.
-
 Table 3: Efficacy results of 24 week placebo-controlled studiesa
 
 | Add-on to metformin therapy |  |  |  |
@@ -152,7 +150,6 @@ In combination with metformin in drug-naïve patients
 A factorial design study of 24 weeks duration was conducted to evaluate the efficacy and safety of empagliflozin in drug-naïve patients.
 Treatment with empagliflozin in combination with metformin
 (5 mg and 500 mg; 5 mg and 1000 mg; 12.5 mg and 500 mg, and 12.5 mg and 1000 mg given twice daily) provided statistically significant improvements in HbA1c (Table 4) and led to greater reductions in FPG (compared to the individual components) and body weight (compared to metformin).
-
 Table 4: Efficacy results at 24 week comparing empagliflozin in combination with metformin to the individual componentsa
 
 |  | Empagliflozin 10 mgb |  |  | Empagliflozin 25 mgb |  |  | Metforminc |  |
@@ -384,7 +381,7 @@ Table 10:Treatment effect for the primary composite endpoint, its components and
 
 CV = cardiovascular, MI = myocardial infarction a Treated set (TS), i.e. patients who had received at least one dose of study drug b Pooled doses of empagliflozin 10 mg and 25 mg
 * Since data from the trial were included in an interim analysis, a two-sided 95.02% confidence interval applied which corresponds to a p-value of less than 0.0498 for significance.
-Figure 1 Time to first occurrence of cardiovascular death in the EMPA-REG OUTCOME study
+Figure 1 Time to occurrence of cardiovascular death in the EMPA-REG OUTCOME study
 
 Fasting plasma glucose
 
