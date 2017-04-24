@@ -17,7 +17,6 @@ It is recommended that concomitant use of strong CYP3A inducers (e.g. Phenytoin,
 Moderate CYP3A4 inducers (e.g. bosentan, efavirenz, etravirine, modafinil) may also decrease osimertinib exposure and should be used with caution, or avoided when possible.
 There are no clinical data available to recommend a dose adjustment of TAGRISSO.
 Concomitant use of St. John’s Wort is contraindicated (see section 4.3).
-
 Effect of gastric acid reducing active substances on osimertinib
 In a clinical pharmacokinetic study, co-administration of omeprazole did not result in clinically relevant changes in osimertinib exposures.
 Gastric pH modifying agents can be concomitantly used with TAGRISSO without any restrictions.
