@@ -2,23 +2,27 @@
 
 Absorption
 
-Administration of Esbriet with food results in a large reduction in Cmax (by 50%) and a smaller effect on AUC, compared to the fasted state.
+Administration of Esbriet capsules with food results in a large reduction in Cmax (by 50%) and a smaller effect on AUC, compared to the fasted state.
 Following oral administration of a single dose of 801 mg to healthy older adult volunteers (50-66 years of age) in the fed state, the rate of pirfenidone absorption slowed, while the AUC in the fed state was approximately 80-85% of the AUC observed in the fasted state.
+Bioequivalence was demonstrated in the fasted state when comparing the 801 mg tablet to three 267 mg capsules.
+In the fed state, the 801 mg tablet met bioequivalence criteria based on the AUC measurements compared to the capsules, while the 90% confidence intervals for Cmax (108.26% - 125.60%) slightly exceeded the upper bound of standard bioequivalence limit (90% CI: 80.00% - 125.00%).
+The effect of food on pirfenidone oral AUC was consistent between the tablet and capsule formulations.
+Compared to the fasted state, administration of either formulation with food reduced pirfenidone Cmax, with Esbriet tablet reducing the Cmax slightly less (by 40%) than Esbriet capsules (by 50%).
 A reduced incidence of adverse events (nausea and dizziness) was observed in fed subjects when compared to the fasted group.
 Therefore, it is recommended that Esbriet be administered with food to reduce the incidence of nausea and dizziness.
 
-The bioavailability of pirfenidone has not been determined in humans.
+The absolute bioavailability of pirfenidone has not been determined in humans.
 
 Distribution
 
 Pirfenidone binds to human plasma proteins, primarily to serum albumin.
 The overall mean binding ranged from 50% to 58% at concentrations observed in clinical studies (1 to 100 μg/ml).
 Mean apparent oral steady-state volume of distribution is approximately 70 l, indicating that pirfenidone distribution to tissues is modest.
-
 Biotransformation
 
 Approximately 70–80% of pirfenidone is metabolised via CYP1A2 with minor contributions from other CYP isoenzymes including CYP2C9, 2C19, 2D6, and 2E1.
 In vitro and in vivo studies to date have not detected any activity of the major metabolite (5-carboxy-pirfenidone), even at concentrations or doses greatly above those associated with activity of pirfenidone itself.
+
 Elimination
 
 The oral clearance of pirfenidone appears modestly saturable.

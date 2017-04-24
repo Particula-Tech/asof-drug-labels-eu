@@ -12,7 +12,7 @@ Breast-feeding
 
 It is unknown whether pirfenidone or its metabolites are excreted in human milk.
 Available pharmacokinetic data in animals have shown excretion of pirfenidone and/or its metabolites in milk with the potential for accumulation of pirfenidone and/or its metabolites in milk (see section 5.3).
-A risk to the suckling child cannot be excluded.
+A risk to the breastfed infant cannot be excluded.
 
 A decision must be made whether to discontinue breast-feeding or to discontinue from Esbriet therapy, taking into account the benefit of breast-feeding for the child and the benefit of Esbriet therapy for the mother.
 

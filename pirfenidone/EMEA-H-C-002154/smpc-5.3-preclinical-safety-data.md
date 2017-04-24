@@ -7,7 +7,6 @@ Reversibility was observed after cessation of treatment.
 An increased incidence of liver tumours was observed in carcinogenicity studies conducted in rats and mice.
 These hepatic findings are consistent with an induction of hepatic microsomal enzymes, an effect which has not been observed in patients receiving Esbriet.
 These findings are not considered relevant to humans.
-
 A statistically significant increase in uterine tumours was observed in female rats administered 1,500 mg/kg/day, 37 times the human dose of 2,403 mg/day.
 The results of mechanistic studies indicate that the occurrence of uterine tumours is probably related to a chronic dopamine-mediated sex hormone imbalance involving a species specific endocrine mechanism in the rat which is not present in humans.
 
@@ -23,7 +22,3 @@ When tested under UV exposure pirfenidone was positive in a photoclastogenic ass
 
 Phototoxicity and irritation were noted in guinea pigs after oral administration of pirfenidone and with exposure to UVA/UVB light.
 The severity of phototoxic lesions was minimised by application of sunscreen.
-
-Environmental Risk Assessment (ERA)
-
-Pirfenidone is not considered to present a potential risk to surface water, microorganisms and ground water or to sediment-dwelling invertebrates.

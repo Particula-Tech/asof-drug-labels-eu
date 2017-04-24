@@ -13,3 +13,17 @@ There are 14 x 18 capsules in PVC/PE/PCTFE aluminium foil perforated blister str
 250 ml white HDPE bottle with child-resistant closure containing 270 capsules.
 
 Not all pack sizes may be marketed.
+
+[Esbriet 267 mg film-coated tablets]
+
+High-Density Polyethylene (HDPE) bottle with a child-resistant and tamper-evident screw cap
+
+267 mg film-coated tablets
+1 bottle containing 21 film-coated tablets
+2 bottles each containing 21 film-coated tablets (42 film-coated tablets in total)
+1 bottle containing 90 film-coated tablets
+2 bottles each containing 90 film-coated tablets (180 film-coated tablets in total)
+
+534 mg film-coated tablets
+
+801 mg film-coated tablets

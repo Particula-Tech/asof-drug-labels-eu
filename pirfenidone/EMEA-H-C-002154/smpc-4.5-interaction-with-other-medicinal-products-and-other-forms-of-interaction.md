@@ -14,13 +14,13 @@ Other therapies that are inhibitors of both CYP1A2 and one or more other CYP iso
 (e.g. CYP2C9, 2C19, and 2D6) should be avoided during pirfenidone treatment.
 
 In vitro and in vivo extrapolations indicate that strong and selective inhibitors of CYP1A2 (e.g. enoxacin) have the potential to increase the exposure to pirfenidone by approximately 2 to 4-fold.
-If concomitant use of Esbriet with a strong and selective inhibitor of CYP1A2 cannot be avoided, the dose of Esbriet should be reduced to 801 mg daily (one capsule, three times a day).
+If concomitant use of Esbriet with a strong and selective inhibitor of CYP1A2 cannot be avoided, the dose of pirfenidone should be reduced to 801 mg daily (one capsule, three times a day).
 Patients should be closely monitored for emergence of adverse reactions associated with Esbriet therapy.
 Discontinue Esbriet if necessary (see sections 4.2 and 4.4).
 
 Co-administration of Esbriet and 750 mg of ciprofloxacin (a moderate inhibitor of CYP1A2) increased the exposure to pirfenidone by 81%.
-If ciprofloxacin at the dose of 750 mg twice daily cannot be avoided, the dose of Esbriet should be reduced to 1602 mg daily (two capsules, three times a day).
-Esbriet should be used with caution when ciprofloxacin is used at a dose of 250 mg or 500 mg once or twice daily.
+If ciprofloxacin at the dose of 750 mg two times a day cannot be avoided, the dose of pirfenidone should be reduced to 1602 mg daily (two capsules, three times a day).
+Esbriet should be used with caution when ciprofloxacin is used at a dose of 250 mg or 500 mg once or two times a day.
 
 Esbriet should be used with caution in patients treated with other moderate inhibitors of CYP1A2 (e.g. amiodarone, propafenone).
 
@@ -28,12 +28,19 @@ Special care should also be exercised if CYP1A2 inhibitors are being used concom
 
 Cigarette smoking and inducers of CYP1A2
 
-A Phase 1 interaction study evaluated the effect of cigarette smoking (CYP1A2 inducer) on the pharmacokinetics of Esbriet.
+A Phase 1 interaction study evaluated the effect of cigarette smoking (CYP1A2 inducer) on the pharmacokinetics of pirfenidone.
 The exposure to pirfenidone in smokers was 50% of that observed in non-smokers.
 Smoking has the potential to induce hepatic enzyme production and thus increase medicinal product clearance and decrease exposure.
 Concomitant use of strong inducers of CYP1A2 including smoking should be avoided during Esbriet therapy based on the observed relationship between cigarette smoking and its potential to induce CYP1A2.
 Patients should be encouraged to discontinue use of strong inducers of CYP1A2 and to stop smoking before and during treatment with pirfenidone.
 
 In the case of moderate inducers of CYP1A2 (e.g. omeprazole), concomitant use may theoretically result in a lowering of pirfenidone plasma levels.
+
 Co-administration of medicinal products that act as potent inducers of both CYP1A2 and the other CYP isoenzymes involved in the metabolism of pirfenidone (e.g. rifampicin) may result in significant lowering of pirfenidone plasma levels.
 These medicinal products should be avoided whenever possible.
+
+[Esbriet 267 mg film-coated tablets]
+
+If concomitant use of Esbriet with a strong and selective inhibitor of CYP1A2 cannot be avoided, the dose of pirfenidone should be reduced to 801 mg daily (267 mg, three times a day).
+
+If ciprofloxacin at the dose of 750 mg two times a day cannot be avoided, the dose of pirfenidone should be reduced to 1602 mg daily (534 mg, three times a day).

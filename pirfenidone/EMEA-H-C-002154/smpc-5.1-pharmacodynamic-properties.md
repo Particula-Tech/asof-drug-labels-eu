@@ -26,7 +26,7 @@ At Week 72, a decline from baseline in percent predicted FVC of ≥10% (a thresh
 | Table 2 Categorical assessment of change from Baseline to Week 72 in percent predicted FVC in study PIPF-004 |  |  |
 | --- | --- | --- |
 |  | Pirfenidone 2,403 mg/day (N = 174) | Placebo (N = 174) |
-| Decline of ≥10% or death or lung transplant | 35 (20%) | 60 (35%) |
+| Decline of ≥10% or death or lung transplant | 35 (20%) | 60 (34%) |
 | Decline of less than 10% | 97 (56%) | 90 (52%) |
 | No decline (FVC change >0%) | 42 (24%) | 24 (14%) |
 
