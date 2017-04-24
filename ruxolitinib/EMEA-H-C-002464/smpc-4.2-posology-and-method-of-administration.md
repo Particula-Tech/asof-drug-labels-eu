@@ -1,14 +1,16 @@
 # 4.2 Posology and method of administration
 
-Jakavi treatment should only be initiated by a physician experienced in the administration of anti-cancer agents.
+Jakavi treatment should only be initiated by a physician experienced in the administration of anti-cancer medicinal products.
 
 A complete blood cell count, including a white blood cell count differential, must be performed before initiating therapy with Jakavi.
 
 Complete blood count, including a white blood cell count differential, should be monitored every 2-4 weeks until Jakavi doses are stabilised, and then as clinically indicated (see section 4.4).
+
 Posology
+
 Starting dose
-The recommended starting dose of Jakavi in myelofibrosis is 15 mg twice daily for patients with a platelet count between 100,000/mm3 and 200,000/mm3 and 20 mg twice daily for patients with a platelet count of >200,000/mm3.
-The recommended starting dose of Jakavi in polycythaemia vera is 10 mg given orally twice daily.
+The recommended starting dose of ruxolitinib in MF is 15 mg twice daily for patients with a platelet count between 100,000/mm3 and 200,000/mm3 and 20 mg twice daily for patients with a platelet count of >200,000/mm3.
+The recommended starting dose of ruxolitinib in PV is 10 mg given orally twice daily.
 
 There is limited information to recommend a starting dose for patients with platelet counts between 50,000/mm3 and <100,000/mm3.
 The maximum recommended starting dose in these patients is 5 mg twice daily and the patients should be titrated cautiously.
@@ -26,21 +28,21 @@ If efficacy is considered insufficient and blood counts are adequate, doses may 
 
 The starting dose should not be increased within the first four weeks of treatment and thereafter no more frequently than at 2-week intervals.
 
-The maximum dose of Jakavi is 25 mg twice daily.
-
+The maximum dose of ruxolitinib is 25 mg twice daily.
 Dose adjustment with concomitant strong CYP3A4 inhibitors or fluconazole
-When Jakavi is administered with strong CYP3A4 inhibitors or dual inhibitors of CYP2C9 and CYP3A4 enzymes (e.g. fluconazole) the unit dose of Jakavi should be reduced by approximately 50%, to be administered twice daily (see section 4.5).
-Avoid the concomitant use of Jakavi with fluconazole doses greater than 200 mg daily.
+When ruxolitinib is administered with strong CYP3A4 inhibitors or dual inhibitors of CYP2C9 and CYP3A4 enzymes (e.g. fluconazole) the unit dose of ruxolitinib should be reduced by approximately 50%, to be administered twice daily (see section 4.5).
+Avoid the concomitant use of ruxolitinib with fluconazole doses greater than 200 mg daily.
 
-More frequent monitoring (e.g. twice a week) of haematology parameters and of clinical signs and symptoms of Jakavi-related adverse drug reactions is recommended while on strong CYP3A4 inhibitors or dual inhibitors of CYP2C9 and CYP3A4 enzymes.
+More frequent monitoring (e.g. twice a week) of haematology parameters and of clinical signs and symptoms of ruxolitinib-related adverse drug reactions is recommended while on strong CYP3A4 inhibitors or dual inhibitors of CYP2C9 and CYP3A4 enzymes.
 
 Special populations
+
 Renal impairment
 No specific dose adjustment is needed in patients with mild or moderate renal impairment.
 
 In patients with severe renal impairment (creatinine clearance less than 30 ml/min) the recommended starting dose based on platelet count for MF patients should be reduced by approximately 50% to be administered twice daily.
 The recommended starting dose for PV patients with severe renal impairment is 5 mg twice daily.
-Patients should be carefully monitored with regard to safety and efficacy during Jakavi treatment.
+Patients should be carefully monitored with regard to safety and efficacy during ruxolitinib treatment.
 
 There are limited data to determine the best dosing options for patients with end-stage renal disease (ESRD) on haemodialysis.
 Pharmacokinetic/pharmacodynamic simulations based on available data in this population suggest that the starting dose for MF patients with ESRD on haemodialysis is a single dose of 15-20 mg or two doses of 10 mg given 12 hours apart, to be administered post-dialysis and only on the day of haemodialysis.
@@ -55,16 +57,15 @@ No data is available for dosing patients who are undergoing peritoneal dialysis 
 Hepatic impairment
 In patients with any hepatic impairment the recommended starting dose based on platelet count should be reduced by approximately 50% to be administered twice daily.
 Subsequent doses should be adjusted based on careful monitoring of safety and efficacy.
-Patients diagnosed with hepatic impairment while receiving Jakavi should have complete blood counts, including a white blood cell count differential, monitored at least every one to two weeks for the first 6 weeks after initiation of therapy with Jakavi and as clinically indicated thereafter once their liver function and blood counts have been stabilised.
-Jakavi dose can be titrated to reduce the risk of cytopenia.
+Patients diagnosed with hepatic impairment while receiving ruxolitinib should have complete blood counts, including a white blood cell count differential, monitored at least every one to two weeks for the first 6 weeks after initiation of therapy with ruxolitinib and as clinically indicated thereafter once their liver function and blood counts have been stabilised.
+Ruxolitinib dose can be titrated to reduce the risk of cytopenia.
 
-Older people (≥65 years)
-No additional dose adjustments are recommended for older people.
+Elderly patients (≥65 years)
+No additional dose adjustments are recommended for elderly patients.
 
 Paediatric population
-The safety and efficacy of Jakavi in children aged up to 18 years have not been established.
+The safety and efficacy of Jakavi in children and adolescents aged up to 18 years have not been established.
 No data are available (see section 5.1).
-
 Treatment discontinuation
 Treatment may be continued as long as the benefit-risk remains positive.
 However the treatment should be discontinued after 6 months if there has been no reduction in spleen size or improvement in symptoms since initiation of therapy.
@@ -72,6 +73,7 @@ However the treatment should be discontinued after 6 months if there has been no
 It is recommended that, for patients who have demonstrated some degree of clinical improvement, ruxolitinib therapy be discontinued if they sustain an increase in their spleen length of 40% compared with baseline size (roughly equivalent to a 25% increase in spleen volume) and no longer have tangible improvement in disease-related symptoms.
 
 Method of administration
+
 Jakavi is to be taken orally, with or without food.
 
 If a dose is missed, the patient should not take an additional dose, but should take the next usual prescribed dose.

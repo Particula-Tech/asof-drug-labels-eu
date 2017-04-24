@@ -4,6 +4,6 @@ Cellulose, microcrystalline
 Magnesium stearate
 Silica, colloidal anhydrous
 Sodium starch glycolate (Type A)
-Povidone
-Hydroxypropylcellulose
+Povidone K30
+Hydroxypropylcellulose 300 to 600 cps
 Lactose monohydrate
