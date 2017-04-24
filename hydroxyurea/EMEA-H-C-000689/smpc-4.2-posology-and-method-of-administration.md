@@ -28,19 +28,16 @@ Long-term data on the continued use of hydroxycarbamide in patients with Sickle 
 It is currently unknown how long patients should be treated with Siklos.
 The duration of treatment is the responsibility of the treating physician and should be based on the clinical and haematological status of the individual patient.
 
-Paediatric population
-Children less than 2 years of age
-Because of the rarity of data on treatment with hydroxycarbamide in children less than 2 years of age, dose regimens have not been established and thus, in this population, the treatment with hydroxycarbamide is not recommended.
+Special populations
 
-Children and adolescents (2-18 years old)
-In children and adolescents with Sickle Cell Syndrome, systemic exposure to hydroxycarbamide is similar to adult patients.
-Hence, no dose-adjustments are necessary in younger patients.
+Children less than 2 years of age
+Because of the rarity of long term data on treatment with hydroxycarbamide in children less than 2 years of age, dose regimens have not been established and thus, in this population, the treatment with hydroxycarbamide is not recommended.
 
 Renal impairment
 As renal excretion is a main pathway of elimination, dose reduction of Siklos should be considered in patients with renal impairment.
 In patients with a creatinine clearance ≤ 60 ml/min the initial Siklos dose should be decreased by 50%.
 Close monitoring of blood parameters is advised in these patients.
-Siklos should not be administered to patients with severe renal impairment (creatinine clearance < 30 ml/min) (see sections 4.3, 4.4 and 5.2).
+Siklos must not be administered to patients with severe renal impairment (creatinine clearance < 30 ml/min) (see sections 4.3, 4.4 and 5.2).
 
 Hepatic impairment
 There are no data that support specific dose adjustments in patients with hepatic impairment.
@@ -48,15 +45,12 @@ Close monitoring of blood parameters is advised in these patients.
 Due to safety considerations, Siklos is contraindicated in patients with severe hepatic impairment (see sections 4.3 and 4.4).
 
 Method of administration
-Conforming to the individual dose, the tablet should be taken once daily, preferably in the morning before breakfastand, where necessary, with a glass of water or a very small amount of food.
+
+Siklos 100 mg film-coated tablets
+Conforming to the individual dose, the tablet should be taken once daily, preferably in the morning before breakfast with a glass of water or a very small amount of food.
+
+Siklos 1000 mg film-coated tablets
+Conforming to the individual dose, the tablet or the halves or quarters of the tablet should be taken once daily, preferably in the morning before breakfast and, where necessary, with a glass of water or a very small amount of food.
+
 For patients who are not able to swallow the tablets, these can be disintegrated immediately before use in a small quantity of water in a teaspoon.
 Adding a drop of syrup or mixing with food can mask a possible bitter taste.
-
-[Siklos 1000 mg film-coated tablets.]
-
-Reticulocytes < 80,000/mm3 if the haemoglobin concentration <9 g/dl
-
-Siklos should not be administered to patients with severe renal impairment (creatinine clearance
-< 30 ml/min) (see sections 4.3, 4.4 and 5.2).
-
-Conforming to the individual dose, the tablet or the halves or quarters of the tablet should be taken once daily, preferably in the morning before breakfast and, where necessary, with a glass of water or a very small amount of food.

@@ -1,9 +1,9 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
 
+Siklos 100 mg film-coated tablets
 EU/1/07/397/002
 EU/1/07/397/003
 EU/1/07/397/004
 
-[Siklos 1000 mg film-coated tablets.]
-
+Siklos 1000 mg film-coated tablets
 EU/1/07/397/001

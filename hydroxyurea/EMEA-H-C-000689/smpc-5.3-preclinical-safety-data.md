@@ -10,6 +10,6 @@ However, hydroxycarbamide is presumed to be a transspecies carcinogen.
 
 Hydroxycarbamide crosses the placenta barrier and has been demonstrated to be a potent teratogen and embryotoxic in a wide variety of animal models at or below the human therapeutic dose.
 Teratogenicity was characterised by partially ossified cranial bones, absence of eye sockets, hydrocephaly, bipartite sternebrae, missing lumbar vertebrae.
-Embryotoxicity was characterized by decreased foetal viability, reduced live litter sizes, and developmental delays..
+Embryotoxicity was characterized by decreased foetal viability, reduced live litter sizes, and developmental delays.
 
 Hydroxycarbamide administered to male rats at 60 mg/kg b.w./day (about double the recommended usual maximum dose in humans) produced testicular atrophy, decreased spermatogenesis and significantly reduced their ability to impregnate females.

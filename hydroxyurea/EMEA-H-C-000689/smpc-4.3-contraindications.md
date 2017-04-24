@@ -2,7 +2,9 @@
 
 Hypersensitivity to the active substance or to any of the excipients.
 
-Severe hepatic impairment (Child-Pugh classification C) or severe renal impairment (creatinine clearance < 30 ml/min).
+Severe hepatic impairment (Child-Pugh classification C).
+
+Severe renal impairment (creatinine clearance < 30 ml/min).
 
 Toxic ranges of myelosuppression as described in section 4.2.
 
