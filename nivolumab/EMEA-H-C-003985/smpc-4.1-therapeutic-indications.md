@@ -8,11 +8,15 @@ Relative to nivolumab monotherapy, an increase in progression-free survival (PFS
 
 Non-Small Cell Lung Cancer (NSCLC)
 
-OPDIVO is indicated for the treatment of locally advanced or metastatic non-small cell lung cancer (NSCLC) after prior chemotherapy in adults.
+OPDIVO as monotherapy is indicated for the treatment of locally advanced or metastatic non-small cell lung cancer after prior chemotherapy in adults.
 
 Renal Cell Carcinoma (RCC)
 
 OPDIVO as monotherapy is indicated for the treatment of advanced renal cell carcinoma after prior therapy in adults.
 Classical Hodgkin lymphoma (cHL)
 
-OPDIVO is indicated for the treatment of adult patients with relapsed or refractory classical Hodgkin lymphoma (cHL) after autologous stem cell transplant (ASCT) and treatment with brentuximab vedotin.
+OPDIVO as monotherapy is indicated for the treatment of adult patients with relapsed or refractory classical Hodgkin lymphoma after autologous stem cell transplant (ASCT) and treatment with brentuximab vedotin.
+
+Squamous Cell Cancer of the Head and Neck (SCCHN)
+
+OPDIVO as monotherapy is indicated for the treatment of squamous cell cancer of the head and neck in adults progressing on or after platinum-based therapy (see section 5.1).
