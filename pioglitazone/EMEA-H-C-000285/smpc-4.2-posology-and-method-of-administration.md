@@ -23,7 +23,6 @@ No information is available from dialysed patients therefore pioglitazone should
 Hepatic impairment
 
 Pioglitazone should not be used in patients with hepatic impairment (see section 4.3 and 4.4).
-
 Paediatric population
 
 The safety and efficacy of Actos in children and adolescents under 18 years of age have not been established.

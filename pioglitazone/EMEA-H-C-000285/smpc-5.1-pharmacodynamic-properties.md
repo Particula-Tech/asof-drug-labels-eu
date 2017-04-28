@@ -1,13 +1,14 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Drugs used in diabetes, blood glucose lowering drugs, excl. insulins; ATC code: A10BG03.
+
 Pioglitazone effects may be mediated by a reduction of insulin resistance.
 Pioglitazone appears to act via activation of specific nuclear receptors (peroxisome proliferator activated receptor gamma) leading to increased insulin sensitivity of liver, fat and skeletal muscle cells in animals.
 Treatment with pioglitazone has been shown to reduce hepatic glucose output and to increase peripheral glucose disposal in the case of insulin resistance.
 
 Fasting and postprandial glycaemic control is improved in patients with type 2 diabetes mellitus.
 The improved glycaemic control is associated with a reduction in both fasting and postprandial plasma insulin concentrations.
-A clinical trial of pioglitazone vs. gliclazide as monotherapy was extended to two years in order to assess time to treatment failure (defined as appearance of HbA1c ≥ 8.0% after the first six months of therapy).
+A clinical trial of pioglitazone vs. gliclazide as monotherapy was extended to two years in order to assess time to treatment failure (defined as appearance of HbA1c ≥8.0% after the first six months of therapy).
 Kaplan-Meier analysis showed shorter time to treatment failure in patients treated with gliclazide, compared with pioglitazone.
 At two years, glycaemic control (defined as HbA1c < 8.0%) was sustained in 69% of patients treated with pioglitazone, compared with 50% of patients on gliclazide.
 In a two-year study of combination therapy comparing pioglitazone with gliclazide when added to metformin, glycaemic control measured as mean change from baseline in HbA1c was similar between treatment groups after one year.
@@ -20,7 +21,6 @@ HOMA analysis shows that pioglitazone improves beta cell function as well as inc
 Two-year clinical studies have shown maintenance of this effect.
 
 In one year clinical trials, pioglitazone consistently gave a statistically significant reduction in the albumin/creatinine ratio compared to baseline.
-
 The effect of pioglitazone (45 mg monotherapy vs. placebo) was studied in a small 18-week trial in type 2 diabetics.
 Pioglitazone was associated with significant weight gain.
 Visceral fat was significantly decreased, while there was an increase in extra-abdominal fat mass.

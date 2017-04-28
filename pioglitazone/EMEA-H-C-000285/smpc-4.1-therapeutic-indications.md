@@ -1,8 +1,6 @@
 # 4.1 Therapeutic indications
 
-Pioglitazone is indicated as second or third line treatment of type 2 diabetes mellitus as described below:
-
-as monotherapy
+Pioglitazone is indicated as second or third line treatment of type 2 diabetes mellitus as described below: as monotherapy
 
 - in adult patients (particularly overweight patients) inadequately controlled by diet and exercise for whom metformin is inappropriate because of contraindications or intolerance
 

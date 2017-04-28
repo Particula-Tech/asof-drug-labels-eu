@@ -21,13 +21,10 @@ Combination use with insulin should be considered with caution in the elderly be
 
 In light of age- related risks (especially bladder cancer, fractures and heart failure), the balance of benefits and risks should be considered carefully both before and during treatment in the elderly.
 
-Bladder Cancer
-
+Bladder cancer
 Cases of bladder cancer were reported more frequently in a meta-analysis of controlled clinical trials with pioglitazone (19 cases from 12506 patients, 0.15%) than in control groups (7 cases from 10212 patients, 0.07%) HR=2.64 (95% CI 1.11-6.31, P=0.029).
 After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were 7 cases (0.06%) on pioglitazone and 2 cases (0.02%) in control groups.
-Available epidemiological data also suggest a small increased risk of bladder cancer in diabetic patients treated with pioglitazone in particular in patients treated for the longest durations and with the highest cumulative doses.
-A possible risk after short term treatment cannot be excluded.
-
+Epidemiological studies have also suggested a small increased risk of bladder cancer in diabetic patients treated with pioglitazone, although not all studies identified a statistically significant increased risk.
 Risk factors for bladder cancer should be assessed before initiating pioglitazone treatment (risks include age, smoking history, exposure to some occupational or chemotherapy agents e.g. cyclophosphamide or prior radiation treatment in the pelvic region).
 Any macroscopic haematuria should be investigated before starting pioglitazone therapy.
 
@@ -62,7 +59,6 @@ Similar changes were seen in metformin (haemoglobin 3-4% and haematocrit 3.6–4
 Hypoglycaemia
 
 As a consequence of increased insulin sensitivity, patients receiving pioglitazone in dual or triple oral therapy with a sulphonylurea or in dual therapy with insulin may be at risk for dose-related hypoglycaemia, and a reduction in the dose of the sulphonylurea or insulin may be necessary.
-
 Eye disorders
 
 Post-marketing reports of new-onset or worsening diabetic macular oedema with decreased visual acuity have been reported with thiazolidinediones, including pioglitazone.
@@ -81,6 +77,7 @@ The observed excess risk of fractures for women in this dataset on pioglitazone 
 
 In the 3.5 year cardiovascular risk PROactive study, 44/870 (5.1%; 1.0 fractures per 100 patient years) of pioglitazone-treated female patients experienced fractures compared to 23/905 (2.5%; 0.5 fractures per 100 patient years) of female patients treated with comparator.
 No increase in fracture rates was observed in men treated with pioglitazone (1.7%) versus comparator (2.1%).
+
 Some epidemiological studies have suggested a similarly increased risk of fracture in both men and women.
 
 The risk of fractures should be considered in the long term care of patients treated with pioglitazone (see section 4.8).
@@ -94,11 +91,3 @@ Glycaemic control should be monitored closely.
 Pioglitazone dose adjustment within the recommended posology or changes in diabetic treatment should be considered (see section 4.5).
 
 Actos tablets contain lactose monohydrate and therefore should not be administered to patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption.
-
-[Actos 30 mg tablets]
-
-(all sentences already above)
-
-[Actos 45 mg tablets]
-
-In the 3.5 year cardiovascular risk PROactive study, 44/870 (5.1%; 1.0 fractures per 100 patient years) of pioglitazone-treated female patients experienced fractures compared to 23/905 (2.5%; 0.5fractures per 100 patient years) of female patients treated with comparator.

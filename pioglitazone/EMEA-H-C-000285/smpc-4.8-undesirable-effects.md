@@ -3,8 +3,8 @@
 Tabulated list of adverse reactions
 
 Adverse reactions reported in excess (> 0.5%) of placebo and as more than an isolated case in patients receiving pioglitazone in double-blind studies are listed below as MedDRA preferred term by system organ class and absolute frequency.
-Frequencies are defined as: very common (≥ 1/10); common
-(≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to< 1/1,000); very rare
+Frequencies are defined as: very common (≥1/10); common
+(≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to< 1/1,000); very rare
 (< 1/10,000); not known (cannot be estimated from the available data).
 Within each system organ class, adverse reactions are presented in order of decreasing incidence followed by decreasing seriousness.
 
@@ -22,26 +22,26 @@ Within each system organ class, adverse reactions are presented in order of decr
 | anaemia |  | common |  |  |  |  |
 | Immune System Disorders |  |  |  |  |  |  |
 | hypersensitivity and allergic reactions1 | not known | not known | not known |  | not known | not known |
+| Metabolism and nutrition disorders |  |  |  |  |  |  |
+| hypo-glycaemia |  |  | uncommon |  | very common | common |
+| appetite increased |  |  | uncommon |  |  |  |
+| Nervous system disorders |  |  |  |  |  |  |
+| hypo-aesthesia | common | common | common |  | common | common |
+| headache |  | common | uncommon |  |  |  |
+| dizziness |  |  | common |  |  |  |
+| insomnia | uncommon | uncommon | uncommon |  | uncommon | uncommon |
+| Eye disorders |  |  |  |  |  |  |
+| visual disturbance2 | common | common | uncommon |  |  |  |
+| macular oedema | not known | not known | not known |  | not known | not known |
+| Ear and labyrinth disorders |  |  |  |  |  |  |
+| vertigo |  |  | uncommon |  |  |  |
+| Cardiac disorders |  |  |  |  |  |  |
 
 | Adverse reaction | Frequency of adverse reactions of pioglitazone by treatment regimen |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | Mono-therapy | Combination |  |  |  |
 |  |  | with metformin | with sulpho-nylurea | with metformin and sulpho-nylurea | with insulin |
-| Metabolism and nutrition disorders |  |  |  |  |  |
-| hypo-glycaemia |  |  | uncommon | very common | common |
-| appetite increased |  |  | uncommon |  |  |
-| Nervous system disorders |  |  |  |  |  |
-| hypo-aesthesia | common | common | common | common | common |
-| headache |  | common | uncommon |  |  |
-| dizziness |  |  | common |  |  |
-| insomnia | uncommon | uncommon | uncommon | uncommon | uncommon |
-| Eye disorders |  |  |  |  |  |
-| visual disturbance2 | common | common | uncommon |  |  |
-| macular oedema3 | not known | not known | not known | not known | not known |
-| Ear and labyrinth disorders |  |  |  |  |  |
-| vertigo |  |  | uncommon |  |  |
-| Cardiac disorders |  |  |  |  |  |
-| heart failure4 |  |  |  |  | common |
+| heart failure3 |  |  |  |  | common |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |
 | dyspnoea |  |  |  |  | common |
 | Gastrointestinal disorders |  |  |  |  |  |
@@ -49,11 +49,9 @@ Within each system organ class, adverse reactions are presented in order of decr
 | Skin and subcutaneous tissue disorders |  |  |  |  |  |
 | sweating |  |  | uncommon |  |  |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |  |
-| fracture bone5 | common | common | common | common | common |
+| fracture bone4 | common | common | common | common | common |
 | arthralgia |  | common |  | common | common |
 | back pain |  |  |  |  | common |
-|  | Mono-therapy | Combination |  |  |  |
-|  |  | with metformin | with sulpho-nylurea | with metformin and sulpho-nylurea | with insulin |
 | Renal and urinary disorders |  |  |  |  |  |
 | haematuria |  | common |  |  |  |
 | glycosuria |  |  | uncommon |  |  |
@@ -61,38 +59,41 @@ Within each system organ class, adverse reactions are presented in order of decr
 | Reproductive system and breast disorders |  |  |  |  |  |
 | erectile dysfunction |  | common |  |  |  |
 | General disorders and administration site conditions |  |  |  |  |  |
-| oedema |  |  |  |  | very common |
+| Oedema5 |  |  |  |  | very common |
 | fatigue |  |  | uncommon |  |  |
 | Investigations |  |  |  |  |  |
 | weight increased6 | common | common | common | common | common |
 | blood creatine phospho-kinase increased |  |  |  | common |  |
 | increased lactic dehydro-genase |  |  | uncommon |  |  |
-| alanine aminotransferase increased7 | not known | not known | not known | not known | not known |
+| alanine aminotransferase | not known | not known | not known | not known | not known |
+|  | Mono-therapy | Combination |  |  |  |
+|  |  | with metformin | with sulpho-nylurea | with metformin and sulpho-nylurea | with insulin |
+| increased7 |  |  |  |  |  |
 
 Description of selected adverse reactions
 
 1 Postmarketing reports of hypersensitivity reactions in patients treated with pioglitazone have been reported.
 These reactions include anaphylaxis, angioedema, and urticaria.
 
-2 Visual disturbance has been reported mainly early in treatment and is related to changes in blood glucose due to temporary alteration in the turgidity and refractive index of the lens as seen with other hypoglycaemic treatments.
+2Visual disturbance has been reported mainly early in treatment and is related to changes in blood glucose due to temporary alteration in the turgidity and refractive index of the lens as seen with other hypoglycaemic treatments.
 
-3 Oedema was reported in 6–9% of patients treated with pioglitazone over one year in controlled clinical trials.
-The oedema rates for comparator groups (sulphonylurea, metformin) were 2–5%.
-The reports of oedema were generally mild to moderate and usually did not require discontinuation of treatment.
-
-4 In controlled clinical trials the incidence of reports of heart failure with pioglitazone treatment was the same as in placebo, metformin and sulphonylurea treatment groups, but was increased when used in combination therapy with insulin.
+3 In controlled clinical trials the incidence of reports of heart failure with pioglitazone treatment was the same as in placebo, metformin and sulphonylurea treatment groups, but was increased when used in combination therapy with insulin.
 In an outcome study of patients with pre-existing major macrovascular disease, the incidence of serious heart failure was 1.6% higher with pioglitazone than with placebo, when added to therapy that included insulin.
 However, this did not lead to an increase in mortality in this study.
 In this study in patients receiving pioglitazone and insulin, a higher percentage of patients with heart failure was observed in patients aged ≥65 years compared with those less than 65 years (9.7% compared to 4.0%).
 In patients on insulin with no pioglitazone the incidence of heart failure was 8.2% in those ≥65 years compared to 4.0% in patients less than 65 years.
 Heart failure has been reported with marketing use of pioglitazone, and more frequently when pioglitazone was used in combination with insulin or in patients with a history of cardiac failure.
 
-5 A pooled analysis was conducted of adverse reactions of bone fractures from randomised, comparator controlled, double blind clinical trials in over 8100 patients in the pioglitazone-treated groups and 7400 in the comparator-treated groups of up to 3.5 years duration.
+4A pooled analysis was conducted of adverse reactions of bone fractures from randomised, comparator controlled, double blind clinical trials in over 8100 patients in the pioglitazone-treated groups and 7400 in the comparator-treated groups of up to 3.5 years duration.
 A higher rate of fractures was observed in women taking pioglitazone (2.6%) versus comparator (1.7%).
 No increase in fracture rates was observed in men treated with pioglitazone (1.3%) versus comparator (1.5%).
 In the 3.5 year PROactive study, 44/870 (5.1%) of pioglitazone-treated female patients experienced fractures compared to 23/905 (2.5%) of female patients treated with comparator.
 No increase in fracture rates was observed in men treated with pioglitazone (1.7%) versus comparator (2.1%).
-Post-marketing, bone fractures have been reported in both male and female patients (see section 4.4).
+Post-marketing, bone fractures have been reported in both male and female patients (see section 4.4)
+
+5 Oedema was reported in 6–9% of patients treated with pioglitazone over one year in controlled clinical trials.
+The oedema rates for comparator groups (sulphonylurea, metformin) were 2–5%.
+The reports of oedema were generally mild to moderate and usually did not require discontinuation of treatment.
 
 6 In active comparator controlled trials mean weight increase with pioglitazone given as monotherapy was 2–3 kg over one year.
 This is similar to that seen in a sulphonylurea active comparator group.
@@ -108,82 +109,3 @@ Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-[Actos 30 mg tablets]
-
-(≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare
-
-| Adverse reaction | Frequency of adverse reactions of pioglitazone by treatment regimen |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Mono-therapy | Combination |  |  |  |
-|  |  | with metformin | with sulpho-nylurea | with metformin and sulpho-nylurea | with insulin |
-| Infections and infestations |  |  |  |  |  |
-| upper respiratory tract infection | common | common | common | common | common |
-| bronchitis |  |  |  |  | common |
-| sinusitis | uncommon | uncommon | uncommon | uncommon | uncommon |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |  |  |  |
-| bladder cancer | uncommon | uncommon | uncommon | uncommon | uncommon |
-| Blood and lymphatic system disorders |  |  |  |  |  |
-| anaemia |  | common |  |  |  |
-| Immune System Disorders |  |  |  |  |  |
-| hypersensitivity and allergic reactions1 | not known | not known | not known | not known | not known |
-|  | Mono-therapy | Combination |  |  |  |
-|  |  | with metformin | with sulpho-nylurea | with metformin and sulpho-nylurea | with insulin |
-| Metabolism and nutrition disorders |  |  |  |  |  |
-| hypo-glycaemia |  |  | uncommon | very common | common |
-| appetite increased |  |  | uncommon |  |  |
-| Nervous system disorders |  |  |  |  |  |
-| hypo-aesthesia | common | common | common | common | common |
-| headache |  | common | uncommon |  |  |
-| dizziness |  |  | common |  |  |
-| insomnia | uncommon | uncommon | uncommon | uncommon | uncommon |
-| Eye disorders |  |  |  |  |  |
-| visual disturbance2 | common | common | uncommon |  |  |
-| macular oedema3 | not known | not known | not known | not known | not known |
-| Ear and labyrinth disorders |  |  |  |  |  |
-| vertigo |  |  | uncommon |  |  |
-| Cardiac disorders |  |  |  |  |  |
-| heart failure4 |  |  |  |  | common |
-| Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |
-| dyspnoea |  |  |  |  | common |
-| Gastrointestinal disorders |  |  |  |  |  |
-| flatulence |  | uncommon | common |  |  |
-| Skin and subcutaneous tissue disorders |  |  |  |  |  |
-| sweating |  |  | uncommon |  |  |
-| Musculoskeletal and connective tissue disorders |  |  |  |  |  |
-| fracture bone5 | common | common | common | common | common |
-| arthralgia |  | common |  | common | common |
-| back pain |  |  |  |  | common |
-|  | Mono-therapy | Combination |  |  |  |
-|  |  | with metformin | with sulpho-nylurea | with metformin and sulpho-nylurea | with insulin |
-| Renal and urinary disorders |  |  |  |  |  |
-| haematuria |  | common |  |  |  |
-| glycosuria |  |  | uncommon |  |  |
-| proteinuria |  |  | uncommon |  |  |
-| Reproductive system and breast disorders |  |  |  |  |  |
-| erectile dysfunction |  | common |  |  |  |
-| General disorders and administration site conditions |  |  |  |  |  |
-| oedema |  |  |  |  | very common |
-| fatigue |  |  | uncommon |  |  |
-| Investigations |  |  |  |  |  |
-| weight increased6 | common | common | common | common | common |
-| blood creatine phospho-kinase increased |  |  |  | common |  |
-| increased lactic dehydro-genase |  |  | uncommon |  |  |
-| alanine aminotransferase increased7 | not known | not known | not known | not known | not known |
-
-[Actos 45 mg tablets]
-
-| Adverse reaction | Frequency of adverse reactions of pioglitazone by treatment regimen |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Mono-therapy | Combination |  |  |  |  |
-|  |  | with metformin | with sulpho-nylurea | with metformin and sulpho-nylurea |  | with insulin |
-| Infections and infestations |  |  |  |  |  |  |
-| upper respiratory tract infection | common | common | common | common |  | common |
-| bronchitis |  |  |  |  |  | common |
-| sinusitis | uncommon | uncommon | uncommon | uncommon |  | uncommon |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |  |  |  |  |
-| bladder cancer | uncommon | uncommon | uncommon | uncommon |  | uncommon |
-| Blood and lymphatic system disorders |  |  |  |  |  |  |
-| anaemia |  | common |  |  |  |  |
-| Immune System Disorders |  |  |  |  |  |  |
-| hypersensitivity and allergic reactions1 | not known | not known | not known |  | not known | not known |

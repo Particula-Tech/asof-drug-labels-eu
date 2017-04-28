@@ -1,13 +1,12 @@
 # 3. PHARMACEUTICAL FORM
 
-Tablet.
+Tablet
 
+Actos 15 mg tablets
 The tablets are white to off-white, round, convex and marked ‘15’ on one face and ‘ACTOS’ on the other face.
 
-[Actos 30 mg tablets]
-
+Actos 30 mg tablets
 The tablets are white to off-white, round, flat and marked ‘30’ on one face and ‘ACTOS’ on the other face.
 
-[Actos 45 mg tablets]
-
+Actos 45 mg tablets
 The tablets are white to off-white, round, flat and marked ‘45’ on one face and ‘ACTOS’ on the other face.
