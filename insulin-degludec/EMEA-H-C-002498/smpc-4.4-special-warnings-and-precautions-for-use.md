@@ -6,11 +6,12 @@ Omission of a meal or unplanned strenuous physical exercise may lead to hypoglyc
 
 Hypoglycaemia may occur if the insulin dose is too high in relation to the insulin requirement (see sections 4.5, 4.8 and 4.9).
 In children, care should be taken to match insulin doses (especially in basal-bolus regimens) with food intake and physical activities in order to minimise the risk of hypoglycaemia.
-Patients whose blood-glucose control is greatly improved (e.g. by intensified insulin therapy) may experience a change in their usual warning symptoms of hypoglycaemia and must be advised accordingly.
+Patients whose blood glucose control is greatly improved (e.g. by intensified insulin therapy) may experience a change in their usual warning symptoms of hypoglycaemia and must be advised accordingly.
 Usual warning symptoms may disappear in patients with long-standing diabetes.
 
 Concomitant illness, especially infections and fever, usually increases the patient's insulin requirement.
 Concomitant diseases in the kidney, liver or diseases affecting the adrenal, pituitary or thyroid gland may require changes in the insulin dose.
+
 As with other basal insulin products, the prolonged effect of Tresiba may delay recovery from hypoglycaemia.
 
 Hyperglycaemia
@@ -38,7 +39,6 @@ Pioglitazone should be discontinued if any deterioration in cardiac symptoms occ
 Eye disorder
 
 Intensification of insulin therapy with abrupt improvement in glycaemic control may be associated with temporary worsening of diabetic retinopathy, while long-term improved glycaemic control decreases the risk of progression of diabetic retinopathy.
-
 Avoidance of medication errors
 
 Patients must be instructed to always check the insulin label before each injection to avoid accidental mix-ups between the two different strengths of Tresiba as well as other insulin products.
@@ -51,11 +51,3 @@ Insulin antibodies
 
 Insulin administration may cause insulin antibodies to form.
 In rare cases, the presence of such insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency to hyper- or hypoglycaemia.
-
-[Tresiba 200 units/mL solution for injection in pre-filled pen]
-
-(all sentences already above)
-
-[Tresiba 100 units/mL solution for injection in cartridge]
-
-Patients must be instructed to always check the insulin label before each injection to avoid accidental mix-ups between Tresiba and other insulin products.

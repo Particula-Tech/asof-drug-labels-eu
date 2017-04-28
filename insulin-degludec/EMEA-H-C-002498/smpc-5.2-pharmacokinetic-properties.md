@@ -9,10 +9,10 @@ Steady state serum concentration is reached after 2–3 days of daily Tresiba ad
 
 During a period of 24 hours with once-daily treatment, the exposure of insulin degludec was evenly distributed between the first and second 12 hours.
 The ratio between AUCGIR,0-12h,SS and AUCGIR,τ,SS was 0.5.
-
 Distribution
 
 The affinity of insulin degludec to serum albumin corresponds to a plasma protein binding of >99% in human plasma.
+
 Biotransformation
 
 Degradation of insulin degludec is similar to that of human insulin; all metabolites formed are inactive.

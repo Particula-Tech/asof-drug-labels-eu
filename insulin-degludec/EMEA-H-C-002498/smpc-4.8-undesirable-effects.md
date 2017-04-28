@@ -1,12 +1,13 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
+
 The most frequently reported adverse reaction during treatment is hypoglycaemia (see section ‘Description of selected adverse reactions’ below).
 
 Tabulated list of adverse reactions
 
 Adverse reactions listed below are based on clinical trial data and classified according to MedDRA System Organ Class.
-Frequency categories are defined according to the following convention: Very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000) and not known (cannot be estimated from the available data).
+Frequency categories are defined according to the following convention: Very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000) and not known (cannot be estimated from the available data).
 
 | System organ class | Frequency |
 | --- | --- |
@@ -57,4 +58,6 @@ Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system
+
+listed in Appendix V.
