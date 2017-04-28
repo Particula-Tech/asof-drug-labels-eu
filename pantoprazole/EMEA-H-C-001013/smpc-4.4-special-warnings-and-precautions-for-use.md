@@ -34,3 +34,24 @@ Interference with Laboratory Tests
 Increased Chromogranin A (CgA) level may interfere with investigations for neuroendocrine tumours.
 To avoid this interference, PANTOZOL Control treatment should be stopped for at least 5 days before CgA measurements (see section 5.1).
 If CgA and gastrin levels have not returned to reference range after initial measurement, measurements should be repeated 14 days after cessation of proton pump inhibitor treatment.
+This medicinal product is intended for short-term use (up to 4 weeks) only (Refer to section 4.2).
+Patients should be warned about additional risks with long-term use of the medicinal products and the need for prescription and regular surveillance should be emphasized.
+
+The following additional risks are considered relevant for long-term use:
+
+Influence on Vitamin B12 Absorption
+Pantoprazole, as all acid-blocking medicines, may reduce the absorption of vitamin B12 (cyanocobalamin) due to hypo- or achlorhydria.
+This should be considered in patients with reduced body stores or risk factors for reduced vitamin B12 absorption on long-term therapy or if respective clinical symptoms are observed.
+
+Bone Fracture:
+Proton pump inhibitors, especially if used in high doses and over long durations (>1 year), may modestly increase the risk of hip, wrist and spine fracture, predominantly in older people or in presence of other recognised risk factors.
+Observational studies suggest that proton pump inhibitors may increase the overall risk of fracture by 10–40%.
+Some of this increase may be due to other risk factors.
+Patients at risk of osteoporosis should receive care according to current clinical guidelines and they should have an adequate intake of vitamin D and calcium.
+
+Hypomagnesemia:
+Severe hypomagnesaemia has been reported in patients treated with PPIs like pantoprazole for at least three months, and in most cases for a year.
+Serious manifestations of hypomagnesaemia such as fatigue, tetany, delirium, convulsions, dizziness, and ventricular arrhythmia can occur but they may begin insidiously and be overlooked.
+In most affected patients, hypomagnesaemia improved after magnesium replacement and discontinuation of the PPI.
+
+For patients expected to be on prolonged treatment or who take PPIs with digoxin or medicinal products that may cause hypomagnesaemia (e.g. diuretics), health care professionals should consider measuring magnesium levels before starting PPI treatment and periodically during treatment.

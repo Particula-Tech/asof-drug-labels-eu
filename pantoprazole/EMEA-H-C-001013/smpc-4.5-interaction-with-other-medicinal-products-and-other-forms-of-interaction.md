@@ -2,10 +2,8 @@
 
 PANTOZOL Control may reduce the absorption of active substances whose bioavailability is dependent on the gastric pH (e.g. ketoconazole).
 
-It has been shown that co-administration of atazanavir 300 mg/ritonavir 100 mg with omeprazole
-(40 mg once daily) or atazanavir 400 mg with lansoprazole (60 mg single dose) to healthy volunteers resulted in a substantial reduction in the bioavailability of atazanavir.
-The absorption of atazanavir is pH-dependent.
-Therefore, pantoprazole must not be co-administered with atazanavir (see section 4.3).
+HIV Protease Inhibitors:
+Co-administration of pantoprazole is contraindicated with HIV protease inhibitors for which absorption is dependent on acidic intragastric pH such as atazanavir, nelfinavir; due to significant reduction in their bioavailability (see section 4.3).
 
 Although no interaction during concomitant administration of phenprocoumon or warfarin has been observed in clinical pharmacokinetic studies, a few isolated cases of changes in International Normalised Ratio (INR) have been reported during concomitant treatment in the post-marketing period.
 Therefore, in patients treated with coumarin anticoagulants (e.g. phenprocoumon or warfarin), monitoring of prothrombin time/INR is recommended after initiation, termination or during irregular use of pantoprazole.

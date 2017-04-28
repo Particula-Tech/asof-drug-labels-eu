@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Drugs for acid related disorders, Proton pump inhibitors, ATC code: A02BC02
-
 Mechanism of action
 Pantoprazole is a substituted benzimidazole which inhibits the secretion of hydrochloric acid in the stomach by specific blockade of the proton pumps of the parietal cells.
 

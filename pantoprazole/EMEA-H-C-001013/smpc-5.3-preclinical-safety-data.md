@@ -10,7 +10,6 @@ In the 2-year rodent studies an increased number of liver tumors was observed in
 A slight increase of neoplastic changes of the thyroid was observed in the group of rats receiving the highest dose (200 mg/kg) in one 2-year study.
 The occurrence of these neoplasms is associated with the pantoprazole-induced changes in the breakdown of thyroxine in the rat liver.
 As the therapeutic dose in man is low, no side effects on the thyroid glands are expected.
-
 In animal studies (rats) 5 mg/kg was the observed NOAEL (No Observed Adverse Effect Level) for embryotoxicity.
 Investigations revealed no evidence of impaired fertility or teratogenic effects.
 Penetration of the placenta was investigated in the rat and was found to increase with advanced gestation.
