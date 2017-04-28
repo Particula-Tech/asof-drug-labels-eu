@@ -10,6 +10,7 @@ Ivacaftor did not cause reproductive system toxicity in male and female rats at 
 100 mg/kg/day, respectively.
 In females, dosages above this were associated with reductions in the overall fertility index, number of pregnancies, number of corpora lutea and implantation sites, as well as changes in the oestrous cycle.
 In males, slight decreases of the seminal vesicle weights were observed.
+
 Ivacaftor was not teratogenic when orally dosed to pregnant rats and rabbits during the organogenesis stage of foetal development at doses resulting in exposures approximately 5 times (based on the summed AUCs for ivacaftor and its major metabolites) and 11 times (based on the AUC for ivacaftor), respectively, the exposure in humans at the MRHD.
 At maternally toxic doses in rats, ivacaftor produced reductions in foetal body weight and an increase in the incidence of cervical ribs, hypoplastic ribs, wavy ribs and sternal irregularities, including fusions.
 The significance of these findings for humans is unknown.

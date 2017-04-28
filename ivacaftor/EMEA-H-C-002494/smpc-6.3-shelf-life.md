@@ -6,4 +6,4 @@
 
 2 years.
 
-Once mixed, the product has been shown to be stable for one hour.
+Once mixed, the mixture has been shown to be stable for one hour.

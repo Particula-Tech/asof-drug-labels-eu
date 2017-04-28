@@ -4,6 +4,7 @@ The pharmacokinetics of ivacaftor are similar between healthy adult volunteers a
 
 After oral administration of a single 150 mg dose to healthy volunteers in a fed state, the mean (±SD) for AUC and Cmax were 10600 (5260) ng*hr/mL and 768 (233) ng/mL, respectively.
 After every 12-hour dosing, steady-state plasma concentrations of ivacaftor were reached by Days 3 to 5, with an accumulation ratio ranging from 2.2 to 2.9.
+
 Absorption
 Following multiple oral dose administrations of ivacaftor, the exposure of ivacaftor generally increased with dose from 25 mg every 12 hours to 450 mg every 12 hours.
 The exposure of ivacaftor increased approximately 2.5- to 4-fold when given with food containing fat.
@@ -19,7 +20,6 @@ Ivacaftor is approximately 99% bound to plasma proteins, primarily to alpha 1-ac
 Ivacaftor does not bind to human red blood cells.
 
 After oral administration of 150 mg every 12 hours for 7 days in healthy volunteers in a fed state, the mean (±SD) apparent volume of distribution was 353 (122) L.
-
 Biotransformation
 Ivacaftor is extensively metabolised in humans.
 In vitro and in vivo data indicate that ivacaftor is primarily metabolised by CYP3A.
@@ -34,7 +34,7 @@ There was negligible urinary excretion of ivacaftor as unchanged parent.
 The apparent terminal half-life was approximately 12 hours following a single dose in the fed state.
 The apparent clearance (CL/F) of ivacaftor was similar for healthy subjects and patients with CF. The mean (±SD) CL/F for a single 150 mg dose was 17.3 (8.4) L/hr in healthy subjects.
 
-Dose/time proportionality
+Linearity/non-linearity
 The pharmacokinetics of ivacaftor are generally linear with respect to time or dose ranging from 25 mg to 250 mg.
 
 Hepatic impairment
@@ -71,13 +71,10 @@ Exposures in 6- to 11-year-olds are predictions based on simulations from the po
 | 12- to 17-year-olds | 150 mg q12h | 564 (242) | 9240 (3420) |
 | Adults (≥18 years old) | 150 mg q12h | 701 (317) | 10700 (4100) |
 
-Gender
-The effect of gender on ivacaftor pharmacokinetics was evaluated using population pharmacokinetics of data from clinical studies of ivacaftor.
-No dose adjustments are necessary based on gender.
-
 [Kalydeco 50 mg granules in sachet]
 
 Therefore in patients with moderate hepatic impairment, a reduced dose of 50 mg once daily is recommended in patients aged 2 years and older with body weight less than 14 kg and 75 mg once daily for those with body weight 14 kg to less than 25 kg.
+
 In such cases, the starting dose should be as above recommended, but administered every other day.
 
 Predicted ivacaftor exposure based on observed ivacaftor concentrations in Phase 2 and 3 studies as determined using population PK analysis is presented by age group in Table 6.
