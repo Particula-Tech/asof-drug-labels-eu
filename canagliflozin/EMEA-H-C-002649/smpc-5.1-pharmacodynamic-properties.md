@@ -33,8 +33,8 @@ A total of 10,285 patients with type 2 diabetes participated in nine double-blin
 The racial distribution was 72% White, 16% Asian, 4% Black, and 8% other groups.
 16% of patients were Hispanic.
 Approximately 58% of patients were male.
-Patients had an overall mean age of 59.6 years (range 21 years to 96 years), with 3,082 patients ≥65 years of age and 510 patients ≥75 years of age.
-58% of patients had a body mass index (BMI) ≥30 kg/m2.
+Patients had an overall mean age of 59.6 years (range 21 years to 96 years), with 3,082 patients ≥ 65 years of age and 510 patients ≥ 75 years of age.
+58% of patients had a body mass index (BMI) ≥ 30 kg/m2.
 In the clinical development programme, 1,085 patients with a baseline eGFR 30 mL/min/1.73 m2 to < 60 mL/min/1.73 m2 were evaluated.
 
 Placebo-controlled studies
@@ -143,8 +143,8 @@ Special populations
 In three studies conducted in special populations (older patients, patients with an eGFR of 30 mL/min/1.73 m2 to < 50 mL/min/1.73 m2 and patients with or at high risk for cardiovascular disease), canagliflozin was added to patients’ current stable diabetes treatments (diet, monotherapy, or combination therapy).
 
 Older patients
-A total of 714 patients ≥55 years of age to ≤80 years of age (227 patients 65 years of age to
-< 75 years of age and 46 patients 75 years of age to ≤80 years of age) with inadequate glycaemic control on current diabetes treatment (glucose-lowering medicinal products and/or diet and exercise) participated in a double-blind, placebo-controlled study over 26 weeks.
+A total of 714 patients ≥ 55 years of age to ≤ 80 years of age (227 patients 65 years of age to
+< 75 years of age and 46 patients 75 years of age to ≤ 80 years of age) with inadequate glycaemic control on current diabetes treatment (glucose-lowering medicinal products and/or diet and exercise) participated in a double-blind, placebo-controlled study over 26 weeks.
 Statistically significant
 (p < 0.001) changes from baseline HbA1c relative to placebo of -0.57% and -0.70% were observed for 100 mg and 300 mg, respectively (see sections 4.2 and 4.8).
 
@@ -181,8 +181,8 @@ Blood pressure
 In placebo-controlled studies, treatment with canagliflozin 100 mg and 300 mg resulted in mean reductions in systolic blood pressure of -3.9 mmHg and -5.3 mmHg, respectively, compared to placebo (-0.1 mmHg) and a smaller effect on diastolic blood pressure with mean changes for canagliflozin 100 mg and 300 mg of -2.1 mmHg and -2.5 mmHg, respectively, compared to placebo (-0.3 mmHg).
 There was no notable change in heart rate.
 
-Patients with baseline HbA1c > 10% to ≤12%
-A substudy of patients with baseline HbA1c > 10% to ≤12% with canagliflozin as monotherapy resulted in reductions from baseline in HbA1c (not placebo-adjusted) of -2.13% and -2.56% for canagliflozin 100 mg and 300 mg, respectively.
+Patients with baseline HbA1c > 10% to ≤ 12%
+A substudy of patients with baseline HbA1c > 10% to ≤ 12% with canagliflozin as monotherapy resulted in reductions from baseline in HbA1c (not placebo-adjusted) of -2.13% and -2.56% for canagliflozin 100 mg and 300 mg, respectively.
 
 Paediatric population
 The European Medicines Agency has deferred the obligation to submit the results of studies with canagliflozin in one or more subsets of the paediatric population in type 2 diabetes (see section 4.2 for information on paediatric use).

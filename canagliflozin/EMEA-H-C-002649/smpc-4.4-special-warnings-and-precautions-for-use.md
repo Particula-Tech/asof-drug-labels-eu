@@ -25,7 +25,7 @@ Use in patients at risk for adverse reactions related to volume depletion
 Due to its mechanism of action, canagliflozin, by increasing urinary glucose excretion (UGE) induces an osmotic diuresis, which may reduce intravascular volume and decrease blood pressure (see section 5.1).
 In controlled clinical studies of canagliflozin, increases in adverse reactions related to volume depletion (e.g., postural dizziness, orthostatic hypotension, or hypotension) were seen more commonly with the 300 mg dose and occurred most frequently in the first three months (see section 4.8).
 
-Caution should be exercised in patients for whom a canagliflozin-induced drop in blood pressure could pose a risk, such as patients with known cardiovascular disease, patients with an eGFR < 60 mL/min/1.73 m2, patients on anti-hypertensive therapy with a history of hypotension, patients on diuretics, or elderly patients (≥65 years of age) (see sections 4.2 and 4.8).
+Caution should be exercised in patients for whom a canagliflozin-induced drop in blood pressure could pose a risk, such as patients with known cardiovascular disease, patients with an eGFR < 60 mL/min/1.73 m2, patients on anti-hypertensive therapy with a history of hypotension, patients on diuretics, or elderly patients (≥ 65 years of age) (see sections 4.2 and 4.8).
 
 Due to volume depletion, generally small mean decreases in eGFR were seen within the first 6 weeks of treatment initiation with canagliflozin.
 In patients susceptible to greater reductions in intravascular volume as described above, larger decreases in eGFR (> 30%) were sometimes seen, which subsequently improved, and infrequently required interruption of treatment with canagliflozin (see section 4.8).
@@ -37,7 +37,7 @@ Temporary interruption of treatment with canagliflozin may be considered for pat
 If interrupted, consideration should be given to more frequent glucose monitoring.
 
 Diabetic ketoacidosis
-Rare cases of diabetic ketoacidosis (DKA), including life-threatening cases, have been reported in clinical trials and post-marketing in patients treated with SGLT2 inhibitors, including canagliflozin.
+Rare cases of diabetic ketoacidosis (DKA), including life-threatening and fatal cases, have been reported in patients treated with SGLT2 inhibitors, including canagliflozin.
 In a number of cases, the presentation of the condition was atypical with only moderately increased blood glucose values, below 14 mmol/l (250 mg/dl).
 It is not known if DKA is more likely to occur with higher doses of canagliflozin.
 
@@ -62,9 +62,9 @@ Limited data from clinical trials suggest that DKA occurs with common frequency 
 Elevated haematocrit
 Haematocrit increase was observed with canagliflozin treatment (see section 4.8); therefore, caution in patients with already elevated haematocrit is warranted.
 
-Elderly (≥65 years old)
+Elderly (≥ 65 years old)
 Elderly patients may be at a greater risk for volume depletion, are more likely to be treated with diuretics, and to have impaired renal function.
-In patients ≥75 years of age, a higher incidence of adverse reactions associated with volume depletion (e.g., postural dizziness, orthostatic hypotension, hypotension) was reported.
+In patients ≥ 75 years of age, a higher incidence of adverse reactions associated with volume depletion (e.g., postural dizziness, orthostatic hypotension, hypotension) was reported.
 In addition, in such patients greater decreases in eGFR were reported (see sections 4.2 and 4.8).
 Genital mycotic infections
 Consistent with the mechanism of sodium glucose co-transporter 2 (SGLT2) inhibition with increased UGE, vulvovaginal candidiasis in females and balanitis or balanoposthitis in males were reported in clinical trials (see section 4.8).

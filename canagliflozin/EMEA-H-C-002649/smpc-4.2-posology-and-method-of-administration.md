@@ -2,15 +2,15 @@
 
 Posology
 The recommended starting dose of canagliflozin is 100 mg once daily.
-In patients tolerating canagliflozin 100 mg once daily who have an eGFR ≥60 mL/min/1.73 m2 or CrCl ≥60 mL/min and need tighter glycaemic control, the dose can be increased to 300 mg once daily orally (see below and section 4.4).
+In patients tolerating canagliflozin 100 mg once daily who have an eGFR ≥ 60 mL/min/1.73 m2 or CrCl ≥ 60 mL/min and need tighter glycaemic control, the dose can be increased to 300 mg once daily orally (see below and section 4.4).
 
-Care should be taken when increasing the dose in patients ≥75 years of age, patients with known cardiovascular disease, or other patients for whom the initial canagliflozin-induced diuresis poses a risk (see section 4.4).
+Care should be taken when increasing the dose in patients ≥ 75 years of age, patients with known cardiovascular disease, or other patients for whom the initial canagliflozin-induced diuresis poses a risk (see section 4.4).
 In patients with evidence of volume depletion, correcting this condition prior to initiation of canagliflozin is recommended (see section 4.4).
 
 When canagliflozin is used as add-on therapy with insulin or an insulin secretagogue
 (e.g., sulphonylurea), a lower dose of insulin or the insulin secretagogue may be considered to reduce the risk of hypoglycaemia (see sections 4.5 and 4.8).
 
-Elderly (≥65 years old)
+Elderly (≥ 65 years old)
 Renal function and risk of volume depletion should be taken into account (see section 4.4).
 
 Renal impairment
