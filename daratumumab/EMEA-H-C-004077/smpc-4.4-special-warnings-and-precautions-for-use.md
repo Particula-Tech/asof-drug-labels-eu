@@ -4,20 +4,28 @@ Infusion-related reactions
 Infusion-related reactions (IRRs) were reported in approximately half of all patients treated with DARZALEX.
 Monitor such patients throughout the infusion and the post-infusion period.
 
-The majority (95%) of IRRs occurred at the first infusion.
-Five percent of all patients had an IRR at more than one infusion.
-Symptoms predominantly included (≥5%) nasal congestion, chills, cough, allergic rhinitis, throat irritation, dyspnoea, and nausea, and were mild to moderate in severity.
-Severe IRRs (3%) including bronchospasm (1.3%), hypertension (0.6%), and hypoxia (0.6%) were also reported (see section 4.8).
+The majority of IRRs occurred at the first infusion.
+Four percent of all patients had an IRR at more than one infusion.
+Severe reactions have occurred, including bronchospasm, hypoxia, dyspnoea, hypertension, laryngeal oedema and pulmonary oedema.
+Symptoms predominantly included nasal congestion, cough, throat irritation, chills, vomiting and nausea.
+Less common symptoms were wheezing, allergic rhinitis, pyrexia, chest discomfort, pruritus and hypotension (see section 4.8).
 
 Patients should be pre-medicated with antihistamines, antipyretics and corticosteroids to reduce the risk of IRRs prior to treatment with DARZALEX.
 DARZALEX infusion should be interrupted for IRRs of any severity.
 Medical management/supportive treatment for IRRs should be instituted as needed.
 The infusion rate should be reduced when re-starting the infusion (see section 4.2).
 
-For the prevention of delayed IRRs, oral corticosteroids should be administered to all patients the first and second day after all infusions.
-Additionally the use of post-infusion medications (e.g. inhaled corticosteroids, short and long acting bronchodilators) should be considered for patients with a history of obstructive pulmonary disorder to manage respiratory complications should they occur (see section 4.2).
-
+To reduce the risk of delayed IRRs, oral corticosteroids should be administered to all patients following DARZALEX infusions.
+Additionally the use of post-infusion medications (e.g. inhaled corticosteroids, short and long acting bronchodilators) should be considered for patients with a history of chronic obstructive pulmonary disease to manage respiratory complications should they occur (see section 4.2).
 DARZALEX therapy should be permanently discontinued in the event of life-threatening IRRs.
+
+Neutropenia/Thrombocytopenia
+DARZALEX may increase neutropenia and thrombocytopenia induced by background therapy (see section 4.8).
+Monitor complete blood cell counts periodically during treatment according to manufacturer’s prescribing information for background therapies.
+Monitor patients with neutropenia for signs of infection.
+DARZALEX delay may be required to allow recovery of blood cell counts.
+No dose reduction of DARZALEX is recommended.
+Consider supportive care with transfusions or growth factors.
 
 Interference with Indirect Antiglobulin Test (Indirect Coombs Test)
 Daratumumab binds to CD38 found at low levels on red blood cells (RBCs) and may result in a positive indirect Coombs test.
