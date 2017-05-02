@@ -2,8 +2,4 @@
 
 Store in a refrigerator (2°C – 8°C).
 Do not freeze.
-Keep the pre-filled syringe in the outer carton in order to protect from light.
-
-[Prolia 60 mg solution for injection]
-
-Keep the vial in the outer carton in order to protect from light.
+Keep the container in the outer carton in order to protect from light.

@@ -21,7 +21,7 @@ There was no evidence of maternal harm prior to labour; adverse maternal effects
 Maternal mammary gland development was normal.
 
 In preclinical bone quality studies in monkeys on long-term denosumab treatment, decreases in bone turnover were associated with improvement in bone strength and normal bone histology.
-Calcium levels were transiently decreased and parathyroid hormone levels transiently increased in ovariectomised monkeys treated with denosumab.
+Calcium levels were transiently decreased and parathyroid hormone levels transiently increased in ovariectomized monkeys treated with denosumab.
 
 In male mice genetically engineered to express huRANKL (knock-in mice), which were subjected to a transcortical fracture, denosumab delayed the removal of cartilage and remodelling of the fracture callus compared to control, but biomechanical strength was not adversely affected.
 

@@ -44,7 +44,7 @@ Specific radiographic findings characterize these events.
 Atypical femoral fractures have also been reported in patients with certain comorbid conditions (e.g. vitamin D deficiency, rheumatoid arthritis, hypophosphatasia) and with use of certain pharmaceutical agents (e.g. bisphosphonates, glucocorticoids, proton pump inhibitors).
 These events have also occurred without antiresorptive therapy.
 Similar fractures reported in association with bisphosphonates are often bilateral; therefore the contralateral femur should be examined in Prolia-treated patients who have sustained a femoral shaft fracture.
-Discontinuation of Prolia therapy in patients suspected to have an atypical femur fracture should be considered pending evaluation of the patient based on an individual benefit risk assessment.
+Discontinuation of Prolia therapy in patients suspected to have an atypical femur fracture should be considered pending evaluation of the patient based on an individual benefit-risk assessment.
 During Prolia treatment, patients should be advised to report new or unusual thigh, hip, or groin pain.
 Patients presenting with such symptoms should be evaluated for an incomplete femoral fracture.
 
