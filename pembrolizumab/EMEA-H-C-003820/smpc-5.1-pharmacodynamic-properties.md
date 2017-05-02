@@ -157,7 +157,6 @@ Table 4: Response to pembrolizumab 2 mg/kg or 10 mg/kg every 3 weeks in patients
 
 * Hazard ratio (pembrolizumab compared to chemotherapy) based on the stratified Cox proportional hazard model
 † Based on stratified Log rank test
-
 Figure 3: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-002 (intent to treat population)
 
 100
@@ -450,6 +449,7 @@ Table 7: Response to pembrolizumab 2 or 10 mg/kg every 3 weeks in previously tre
 ¶ All responses were partial responses
 # Based on patients with a best overall response as confirmed complete or partial response
 Þ Includes 30, 31 and 2 patients with ongoing responses of 6 months or longer in the pembrolizumab 2 mg/kg, pembrolizumab 10 mg/kg and docetaxel arms respectively ß Includes 22, 24 and 1 patients with ongoing responses of 6 months or longer in the pembrolizumab 2 mg/kg, pembrolizumab 10 mg/kg and docetaxel arms respectively
+
 Figure 6: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-010 (patients with PD-L1 expression tumour proportion score ≥1%, intent to treat population)
 
 100 Treatment arm OS rate at 9 months OS rate at 12 months HR (95% CI) p-value
@@ -481,6 +481,63 @@ Efficacy results for OS were consistent regardless of the age of tumour specimen
 In subgroup analyses, a reduced survival benefit of pembrolizumab compared to docetaxel was observed for patients who were never-smokers or patients with tumours harbouring EGFR activating mutations who received at least platinum-based chemotherapy and a tyrosine kinase inhibitor; however, due to the small numbers of patients, no definitive conclusions can be drawn from these data.
 
 The efficacy and safety of pembrolizumab in patients with tumours that do not express PD-L1 have not been established.
+
+Classical Hodgkin lymphoma
+KEYNOTE-087 and KEYNOTE-013: Open-label studies in patients with refractory or relapsed classical Hodgkin lymphoma (cHL)
+The efficacy of pembrolizumab was investigated in KEYNOTE-087 and KEYNOTE-013, two multicentre, open-label studies for the treatment of 241 patients with cHL.
+These studies enrolled patients who failed ASCT and BV, who were ineligible for ASCT because they were unable to achieve a complete or partial remission to salvage chemotherapy and failed BV, or who failed ASCT and did not receive BV.
+Five study subjects were ineligible to ASCT due to reasons other than failure to salvage chemotherapy.
+Both studies included patients regardless of PD-L1 expression.
+Patients with active, non-infectious pneumonitis, an allogeneic transplant within the past 5 years (or > 5 years but with GVHD), active autoimmune disease or a medical condition that required immunosuppression were ineligible for either trial.
+Patients received pembrolizumab 200 mg every 3 weeks (n=210; KEYNOTE-087) or 10 mg/kg every 2 weeks (n=31; KEYNOTE-013) until unacceptable toxicity or documented disease progression.
+Among KEYNOTE-087 patients, the baseline characteristics were median age 35 years (9% age 65 or older); 54% male; 88% White; and 49% and 51% had an ECOG performance status 0 and 1, respectively.
+The median number of prior lines of therapy administered for the treatment of cHL was 4 (range 1 to 12).
+Eighty-one percent were refractory to at least one prior therapy, including 35% who were refractory to first line therapy.
+Sixty-one percent of patients had received Auto-SCT, 38% were transplant ineligible; 17% had no prior brentuximab use; and 36% of patients had prior radiation therapy.
+Disease subtypes were 80% nodular sclerosis, 11% mixed cellularity, 4% lymphocyte-rich and 2% lymphocyte-depleted.
+
+Among KEYNOTE-013 patients, the baseline characteristics were median age 32 years (7% age 65 or older), 58% male, 94% White; and 45% and 55% had an ECOG performance status 0 and 1, respectively.
+The median number of prior lines of therapy administered for the treatment of cHL was 5 (range 2 to 15).
+Eighty-seven percent were refractory to at least one prior therapy, including 39% who were refractory to first line therapy.
+Seventy-four percent of patients had received Auto-SCT, 26% were transplant ineligible, and 42% of patients had prior radiation therapy.
+Disease subtypes were 97% nodular sclerosis and 3% mixed cellularity.
+
+The major efficacy outcome measures (ORR and CRR) were assessed by blinded independent central review according to the 2007 revised International Working Group (IWG) criteria.
+Secondary efficacy outcome measures were duration of response, PFS and OS.
+Response was assessed in KN087 and KN013 every 12 and 8 weeks, respectively, with the first planned post-baseline assessment at week 12.
+Efficacy results are summarized in Table 8.
+Table 8: Efficacy results in KEYNOTE-087 and KEYNOTE-013
+
+|  | KEYNOTE-087a | KEYNOTE-013b |
+| --- | --- | --- |
+| Endpoint | Pembrolizumab 200 mg every 3 weeks n=210 | Pembrolizumab 10 mg/kg every 2 weeks n=31 |
+| Objective response ratec |  |  |
+| ORR % (95% CI) | 69% (62.3, 75.2) | 58% (39.1, 75.5) |
+| Complete Remission | 22% | 19% |
+| Partial Remission | 47% | 39% |
+| Response durationc |  |  |
+| Median in months (range) | 11.1 (0.0+, 11.1)d | Not reached (0.0+, 26.1+)e |
+| % with duration ≥ 6-months | 76%f | 80%g |
+| % with duration ≥ 12-months | --- | 70%h |
+| Time to response |  |  |
+| Median in months (range) | 2.8 (2.1, 8.8)d | 2.8 (2.4, 8.6)e |
+| PFSc |  |  |
+| Number (%) of patients with event | 70 (33%) | 18 (58%) |
+| Median in months (95% CI) | 11.3 (10.8, Not reached) | 11.4 (4.9, 27.8) |
+| 6-month PFS rate | 72% | 66% |
+| 9-month PFS rate | 62% | --- |
+| 12-month PFS rate | --- | 48% |
+| OS |  |  |
+| Number (%) of patients with event | 4 (2%) | 4 (13%) |
+| 6-month OS rate | 99.5% | 100% |
+| 12-month OS rate | 97.6% | 87.1% |
+
+a Median follow-up time of 10.1 months b Median follow-up time of 28.7 months c Assessed by blinded independent central review according to the 2007 revised International Working Group
+(IWG) criteria by PET CT scans d Based on patients (n=145) with a response by independent review e Based on patients (n=18) with a response by independent review f Based on Kaplan-Meier estimation; includes 31 patients with responses of 6 months or longer g Based on Kaplan-Meier estimation; includes 9 patients with responses of 6 months or longer h Based on Kaplan-Meier estimation; includes 7 patients with responses of 12 months or longer
+
+Safety and efficacy in elderly patients
+Overall, 20 cHL patients ≥65 years were treated with pembrolizumab in studies KEYNOTE-087 and KEYNOTE-013.
+Data from these patients are too limited to draw any conclusion on safety or efficacy in this population.
 
 Paediatric population
 The European Medicines Agency has deferred the obligation to submit the results of studies with pembrolizumab in one or more subsets of the paediatric population in treatment of all conditions included in the category of malignant neoplasms (except nervous system, haematopoietic and lymphoid tissue) (see section 4.2 for information on paediatric use).

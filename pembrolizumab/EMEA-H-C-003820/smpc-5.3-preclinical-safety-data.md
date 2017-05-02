@@ -6,5 +6,6 @@ No findings of toxicological significance were observed and the no observed adve
 Animal reproduction studies have not been conducted with pembrolizumab.
 The PD-1/PD-L1 pathway is thought to be involved in maintaining tolerance to the foetus throughout pregnancy.
 Blockade of PD-L1 signaling has been shown in murine models of pregnancy to disrupt tolerance to the foetus and to result in an increase in foetal loss.
+
 Animal fertility studies have not been conducted with pembrolizumab.
 In 1 month and 6 month repeat-dose toxicology studies in monkeys, there were no notable effects in the male and female reproductive organs; however, many animals in these studies were not sexually mature.

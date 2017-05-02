@@ -6,3 +6,5 @@ KEYTRUDA as monotherapy is indicated for the first-line treatment of metastatic 
 
 KEYTRUDA as monotherapy is indicated for the treatment of locally advanced or metastatic NSCLC in adults whose tumours express PD-L1 with a ≥1% TPS and who have received at least one prior chemotherapy regimen.
 Patients with EGFR or ALK positive tumour mutations should also have received targeted therapy before receiving KEYTRUDA.
+
+KEYTRUDA as monotherapy is indicated for the treatment of adult patients with relapsed or refractory classical Hodgkin lymphoma (cHL) who have failed autologous stem cell transplant (ASCT) and brentuximab vedotin (BV), or who are transplant-ineligible and have failed BV.

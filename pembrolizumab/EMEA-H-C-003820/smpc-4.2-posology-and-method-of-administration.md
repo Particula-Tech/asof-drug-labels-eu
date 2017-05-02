@@ -1,14 +1,14 @@
 # 4.2 Posology and method of administration
 
 Treatment must be initiated and supervised by specialist physicians experienced in the treatment of cancer.
-
 PD-L1 testing for patients with NSCLC
 Patients with NSCLC should be selected for treatment based on the tumour expression of PD-L1 confirmed by a validated test (see section 5.1).
 
 Posology
 KEYTRUDA should be administered as an intravenous infusion over 30 minutes every 3 weeks.
+
 The recommended dose of KEYTRUDA is:
-•200 mg for NSCLC that has not been previously treated with chemotherapy.
+•200 mg for NSCLC that has not been previously treated with chemotherapy or for cHL.
 •2 mg/kg for NSCLC that has been previously treated with chemotherapy or for melanoma.
 
 Patients should be treated with KEYTRUDA until disease progression or unacceptable toxicity.
@@ -35,9 +35,12 @@ Table 1: Recommended treatment modifications for KEYTRUDA
 
 Note: toxicity grades are in accordance with National Cancer Institute Common Terminology Criteria for Adverse Events Version 4.0 (NCI-CTCAE v.4).
 * until adverse reactions recover to Grade 0-1.
+
 KEYTRUDA should be permanently discontinued:
 
-- For Grade 4 toxicity except for endocrinopathies that are controlled with replacement hormones
+- For Grade 4 toxicity except for:
+  - endocrinopathies that are controlled with replacement hormones or
+  - haematological toxicity, only in patients with cHL in which KEYTRUDA should be withheld until adverse reactions recover to Grade 0-1
 - If corticosteroid dosing cannot be reduced to ≤10 mg prednisone or equivalent per day within 12 weeks
 - If a treatment-related toxicity does not resolve to Grade 0-1 within 12 weeks after last dose of KEYTRUDA
 - If any event occurs a second time at Grade ≥3 severity.
@@ -48,6 +51,8 @@ Special populations
 Elderly
 No overall differences in safety or efficacy were reported between elderly patients (≥65 years) and younger patients (< 65 years).
 No dose adjustment is necessary in this population.
+
+Data from patients ≥65 years are too limited to draw conclusions on cHL population (see section 5.1).
 
 Renal impairment
 No dose adjustment is needed for patients with mild or moderate renal impairment.
@@ -70,7 +75,6 @@ No data are available.
 Method of administration
 KEYTRUDA must be administered by intravenous infusion over 30 minutes.
 KEYTRUDA must not be administered as an intravenous push or bolus injection.
-
 For instructions on reconstitution and dilution of the medicinal product before administration, see section 6.6.
 
 [KEYTRUDA 25 mg/mL concentrate for solution for infusion.]

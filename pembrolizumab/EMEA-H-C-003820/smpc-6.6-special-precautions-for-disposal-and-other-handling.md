@@ -15,11 +15,10 @@ Preparation and administration
   Discard the vial if visible particles are observed.
 - Withdraw the required volume up to 2 mL (50 mg) of KEYTRUDA and transfer into an intravenous bag containing sodium chloride 9 mg/mL (0.9%) or glucose 50 mg/mL (5%) to prepare a diluted solution with a final concentration ranging from 1 to 10 mg/mL.
   Mix diluted solution by gentle inversion.
-- Chemical and physical in-use stability of the reconstituted and diluted solution has been demonstrated for 24 hours at room temperature (at or below 25°C).
-  From a microbiological point of view, the product must be used immediately.
+- From a microbiological point of view, the reconstituted or diluted solution should be used immediately.
   The reconstituted or diluted solution must not be frozen.
-  If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and must not be longer than a total of 24 hours.
-  This 24 hour hold may include up to 6 hours at room temperature (at or below 25°C); any additional hold time must be at 2°C – 8°C.
+  If not used immediately, chemical and physical in-use stability of KEYTRUDA has been demonstrated for 24 hours at 2°C to 8°C.
+  This 24 hour total hold from reconstitution may include up to 6 hours at room temperature (at or below 25°C).
   If refrigerated, the vials and/or intravenous bags must be allowed to come to room temperature prior to use.
   Administer the infusion solution intravenously over 30 minutes using a sterile, non-pyrogenic, low-protein binding 0.2 to 5 µm in-line or add-on filter.
 - Do not co-administer other medicinal products through the same infusion line.
@@ -37,5 +36,7 @@ Preparation and administration of the infusion
   The concentrate is a clear to slightly opalescent, colourless to slightly yellow solution.
 - Withdraw the required volume up to 4 mL (100 mg) of concentrate and transfer into an intravenous bag containing sodium chloride 9 mg/mL (0.9%) or glucose 50 mg/mL (5%) to prepare a diluted solution with a final concentration ranging from 1 to 10 mg/mL.
   Each vial contains an excess fill of 0.25 ml (total content per vial 4.25 ml) to ensure the recovery of 4 ml of concentrate.
-- Chemical and physical in-use stability of the diluted solution has been demonstrated for 24 hours at room temperature (at or below 25°C).
+- From a microbiological point of view, the product, once diluted, should be used immediately.
   The diluted solution must not be frozen.
+  If not used immediately, chemical and physical in-use stability of KEYTRUDA has been demonstrated for 24 hours at 2ºC to 8ºC.
+  This 24 hour hold may include up to 6 hours at room temperature (at or below 25°C).
