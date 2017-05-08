@@ -31,7 +31,6 @@ With a systemic clearance of about 10 l/h, rivaroxaban can be classified as a lo
 After intravenous administration of a 1 mg dose the elimination half-life is about 4.5 hours.
 After oral administration the elimination becomes absorption rate limited.
 Elimination of rivaroxaban from plasma occurs with terminal half-lives of 5 to 9 hours in young individuals, and with terminal half-lives of 11 to 13 hours in the elderly.
-
 Special populations
 Gender
 There were no clinically relevant differences in pharmacokinetics and pharmacodynamics between male and female patients.
@@ -104,5 +103,9 @@ Variability in rivaroxaban pharmacokinetics is moderate with inter-individual va
 In patients receiving rivaroxaban for treatment of acute DVT 20 mg once daily the geometric mean concentration (90% prediction interval) 2 - 4 h and about 24 h after dose (roughly representing maximum and minimum concentrations during the dose interval) was 215 (22 - 535) and 32 (6 - 239) µg/l, respectively.
 
 [Xarelto 20 mg film-coated tablets]
+
+(all sentences already above)
+
+[Xarelto 15 mg film-coated tablets (SmPC 5)]
 
 (all sentences already above)

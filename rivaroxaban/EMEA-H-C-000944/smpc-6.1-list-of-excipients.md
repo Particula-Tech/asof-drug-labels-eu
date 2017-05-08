@@ -26,3 +26,7 @@ Iron oxide red (E172)
 [Xarelto 20 mg film-coated tablets]
 
 Iron oxide red (E 172)
+
+[Xarelto 15 mg film-coated tablets (SmPC 5)]
+
+(all sentences already above)

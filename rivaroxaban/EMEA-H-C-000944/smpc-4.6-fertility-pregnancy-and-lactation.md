@@ -1,4 +1,4 @@
-# 4.6 Fertility, pregnancy and breast feeding
+# 4.6 Fertility, pregnancy and lactation
 
 Pregnancy
 Safety and efficacy of Xarelto have not been established in pregnant women.
@@ -25,5 +25,9 @@ Women of child bearing potential should avoid becoming pregnant during treatment
 (all sentences already above)
 
 [Xarelto 20 mg film-coated tablets]
+
+(all sentences already above)
+
+[Xarelto 15 mg film-coated tablets (SmPC 5)]
 
 (all sentences already above)

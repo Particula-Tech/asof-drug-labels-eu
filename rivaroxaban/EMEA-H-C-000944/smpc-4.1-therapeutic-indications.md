@@ -16,3 +16,7 @@ Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevent
 [Xarelto 20 mg film-coated tablets]
 
 (all sentences already above)
+
+[Xarelto 15 mg film-coated tablets (SmPC 5)]
+
+(all sentences already above)

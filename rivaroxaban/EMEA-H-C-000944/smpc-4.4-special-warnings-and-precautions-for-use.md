@@ -122,3 +122,9 @@ If an invasive procedure or surgical intervention is required, Xarelto 15 mg sho
 There is no clinical experience with the use of 20 mg rivaroxaban in these situations.
 
 If an invasive procedure or surgical intervention is required, Xarelto 20 mg should be stopped at least 24 hours before the intervention, if possible and based on the clinical judgement of the physician.
+
+[Xarelto 15 mg film-coated tablets (SmPC 5)]
+
+There is no clinical experience with the use of 15 mg or 20 mg rivaroxaban in these situations.
+
+If an invasive procedure or surgical intervention is required, Xarelto 15 mg/ Xarelto 20 mg should be stopped at least 24 hours before the intervention, if possible and based on the clinical judgement of the physician.

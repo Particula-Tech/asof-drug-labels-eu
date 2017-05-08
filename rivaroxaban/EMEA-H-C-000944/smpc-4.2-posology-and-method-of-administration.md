@@ -85,7 +85,6 @@ Therapy with Xarelto should be continued long term provided the benefit of preve
 
 If a dose is missed the patient should take Xarelto immediately and continue on the following day with the once daily intake as recommended.
 The dose should not be doubled within the same day to make up for a missed dose.
-
 Treatment of DVT, treatment of PE and prevention of recurrent DVT and PE
 The recommended dose for the initial treatment of acute DVT or PE is 15 mg twice daily for the first three weeks followed by 20 mg once daily for the continued treatment and prevention of recurrent DVT and PE, as indicated in the table below.
 
@@ -93,6 +92,8 @@ The recommended dose for the initial treatment of acute DVT or PE is 15 mg twice
 | --- | --- | --- |
 | Day 1 – 21 | 15 mg twice daily | 30 mg |
 | Day 22 and onwards | 20 mg once daily | 20 mg |
+
+To support the dose switch from 15 mg to 20 mg after Day 21 a first 4 weeks treatment initiation pack of Xarelto for treatment of DVT/PE is available (see section 6.5).
 
 The duration of therapy should be individualised after careful assessment of the treatment benefit against the risk for bleeding (see section 4.4).
 Short duration of therapy (at least 3 months) should be based on transient risk factors (e.g. recent surgery, trauma, immobilisation) and longer durations should be based on permanent risk factors or idiopathic DVT or PE.
@@ -134,3 +135,8 @@ After the administration of crushed Xarelto15 mg or 20 mg film-coated tablets, t
 [Xarelto 20 mg film-coated tablets]
 
 (all sentences already above)
+
+[Xarelto 15 mg film-coated tablets (SmPC 5)]
+
+The 4-week treatment initiation pack of Xarelto is dedicated to patients who will transition from 15 mg twice daily to 20 mg once daily from Day 22 onwards (see section 6.5).
+For patients with moderate or severe renal impairment where the decision has been taken for 15 mg once daily from Day 22 onwards, other presentations only containing 15 mg film-coated tablets are available (see dosing instructions in section Special populations below).

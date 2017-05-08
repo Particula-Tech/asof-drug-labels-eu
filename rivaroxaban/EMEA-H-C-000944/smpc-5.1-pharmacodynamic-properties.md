@@ -75,7 +75,6 @@ Table 4: Efficacy results from phase III ATLAS ACS 2 TIMI 51 in patients undergo
 
 a) modified intent to treat analysis set (intent to treat total analysis set for stent thrombosis) b) vs. placebo; Log-Rank p-value
 ** nominally significant
-
 Table 5: Safety results from phase III ATLAS ACS 2 TIMI 51
 
 | Study Population | Patients with recent acute coronary syndrome a) |  |
@@ -173,6 +172,7 @@ Among patients in the warfarin group, INR values were within the therapeutic ran
 The effect of rivaroxaban did not differ across the level of centre TTR (Time in Target INR Range of 2.0 - 3.0) in the equally sized quartiles (P=0.74 for interaction).
 Within the highest quartile according to centre, the hazard ratio with rivaroxaban versus warfarin was 0.74 (95% CI, 0.49 - 1.12).
 The incidence rates for the principal safety outcome (major and non-major clinically relevant bleeding events) were similar for both treatment groups (see Table 4).
+
 Table 3: Efficacy results from phase III ROCKET AF
 
 | Study population | ITT analyses of efficacy in patients with non-valvular atrial fibrillation |  |  |
@@ -203,6 +203,14 @@ Table 4: Safety results from phase III ROCKET AF
 a) Safety population, on treatment
 * Nominally significant
 
+In addition to the phase III ROCKET AF study, a prospective, single-arm, post-authorization, non-interventional, open-label cohort study (XANTUS) with central outcome adjudication including thromboembolic events and major bleeding has been conducted.
+6,785 patients with non-valvular atrial fibrillation were enrolled for prevention of stroke and non-central nervous system (CNS) systemic embolism in clinical practice.
+The mean CHADS2 and HAS-BLED scores were both 2.0 in XANTUS, compared to a mean CHADS2 and HAS-BLED score of 3.5 and 2.8 in ROCKET AF, respectively.
+Major bleeding occurred in 2.1 per 100 patient years.
+Fatal haemorrhage was reported in 0.2 per 100 patient years and intracranial haemorrhage in 0.4 per 100 patient years.
+Stroke or non-CNS systemic embolism was recorded in 0.8 per 100 patient years.
+These observations in clinical practice are consistent with the established safety profile in this indication.
+
 Patients undergoing cardioversion
 A prospective, randomized, open-label, multicenter, exploratory study with blinded endpoint evaluation (X-VERT) was conducted in 1504 patients (oral anticoagulant naive and pre-treated) with non-valvular atrial fibrillation scheduled for cardioversion to compare rivaroxaban with dose-adjusted VKA (randomized 2:1), for the prevention of cardiovascular events.
 TEE- guided (1 - 5 days of pre-treatment) or conventional cardioversion (at least three weeks of pre-treatment) strategies were employed.
@@ -210,6 +218,7 @@ The primary efficacy outcome (all stroke, transient ischemic attack, non-CNS sys
 (n = 978) and 5 (1.0 %) patients in the VKA group (n = 492; RR 0.50; 95 % CI 0.15-1.73; modified ITT population).
 The principal safety outcome (major bleeding) occurred in 6 (0.6 %) and 4 (0.8 %) patients in the rivaroxaban (n = 988) and VKA (n = 499) groups, respectively (RR 0.76; 95 % CI 0.21-2.67; safety population).
 This exploratory study showed comparable efficacy and safety between rivaroxaban and VKA treatment groups in the setting of cardioversion.
+
 Treatment of DVT, PE and prevention of recurrent DVT and PE
 The Xarelto clinical program was designed to demonstrate the efficacy of Xarelto in the initial and continued treatment of acute DVT and PE and prevention of recurrence.
 Over 9,400 patients were studied in three randomised controlled phase III clinical studies (Einstein DVT, Einstein PE and Einstein Extension) and additionally a predefined pooled analysis of the Einstein DVT and Einstein PE studies was conducted.
@@ -242,6 +251,7 @@ In the enoxaparin/VKA group, there was no clear relation between the level of me
 Within the highest tertile according to centre, the hazard ratio with rivaroxaban versus warfarin was 0.69 (95% CI: 0.35 - 1.35).
 
 The incidence rates for the primary safety outcome (major or clinically relevant non-major bleeding events) as well as the secondary safety outcome (major bleeding events) were similar for both treatment groups.
+
 Table 5: Efficacy and safety results from phase III Einstein DVT
 
 | Study population | 3,449 patients with symptomatic acute deep vein thrombosis |  |
@@ -319,6 +329,33 @@ Table 8: Efficacy and safety results from phase III Einstein Extension
 a) Rivaroxaban 20 mg once daily
 * p < 0.0001 (superiority), hazard ratio: 0.185 (0.087 - 0.393)
 
+In addition to the phase III EINSTEIN program, a prospective, non-interventional, open-label cohort study (XALIA) with central outcome adjudication including recurrent VTE, major bleeding and death has been conducted.
+5,142 patients with acute DVT were enrolled to investigate the long-term safety of rivaroxaban compared with standard-of-care anticoagulation therapy in clinical practice.
+Rates of major bleeding, recurrent VTE and all-cause mortality for rivaroxaban were 0.7%, 1.4% and 0.5%, respectively.
+There were differences in patient baseline characteristics including age, cancer and renal impairment.
+A pre-specified propensity score stratified analysis was used to adjust for measured baseline differences but residual confounding may, in spite of this, influence the results.
+Adjusted hazard ratios comparing rivaroxaban and standard-of-care for major bleeding, recurrent VTE and all-cause mortality were 0.77 (95% CI 0.40 - 1.50), 0.91 (95% CI 0.54 - 1.54) and 0.51 (95% CI
+0.24 - 1.07), respectively.
+These results in clinical practice are consistent with the established safety profile in this indication.
+
 [Xarelto 20 mg film-coated tablets]
 
 (all sentences already above)
+
+[Xarelto 15 mg film-coated tablets (SmPC 5)]
+
+In the Einstein DVT study (see Table 3) rivaroxaban was demonstrated to be non-inferior to enoxaparin/VKA for the primary efficacy outcome (p < 0.0001 (test for non-inferiority); hazard ratio: 0.680 (0.443 - 1.042), p=0.076 (test for superiority)).
+
+Table 3: Efficacy and safety results from phase III Einstein DVT
+
+In the Einstein PE study (see Table 4) rivaroxaban was demonstrated to be non-inferior to enoxaparin/VKA for the primary efficacy outcome (p=0.0026 (test for non-inferiority); hazard ratio: 1.123 (0.749 – 1.684)).
+
+Table 4: Efficacy and safety results from phase III Einstein PE
+
+A prespecified pooled analysis of the outcome of the Einstein DVT and PE studies was conducted (see Table 5).
+
+Table 5: Efficacy and safety results from pooled analysis of phase III Einstein DVT and Einstein PE
+
+In the Einstein Extension study (see Table 6) rivaroxaban was superior to placebo for the primary and secondary efficacy outcomes.
+
+Table 6: Efficacy and safety results from phase III Einstein Extension

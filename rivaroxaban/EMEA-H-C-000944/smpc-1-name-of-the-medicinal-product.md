@@ -13,3 +13,7 @@ Xarelto 15 mg film-coated tablets
 [Xarelto 20 mg film-coated tablets]
 
 Xarelto 20 mg film-coated tablets
+
+[Xarelto 15 mg film-coated tablets (SmPC 5)]
+
+(all sentences already above)

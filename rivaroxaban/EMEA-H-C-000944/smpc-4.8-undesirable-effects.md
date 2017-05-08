@@ -142,3 +142,7 @@ In patients treated for prevention of cardiovascular death and myocardial infarc
 [Xarelto 20 mg film-coated tablets]
 
 (all sentences already above)
+
+[Xarelto 15 mg film-coated tablets (SmPC 5)]
+
+(all sentences already above)
