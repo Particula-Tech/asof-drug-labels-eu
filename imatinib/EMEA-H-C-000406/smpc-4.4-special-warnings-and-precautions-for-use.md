@@ -46,6 +46,14 @@ When needed, discontinuation of Glivec treatment may be considered.
 
 Tumour lysis syndrome
 Due to the possible occurrence of tumour lysis syndrome (TLS), correction of clinically significant dehydration and treatment of high uric acid levels are recommended prior to initiation of Glivec (see section 4.8).
+Hepatitis B reactivation
+Reactivation of hepatitis B in patients who are chronic carriers of this virus has occurred after these patients received BCR-ABL tyrosine kinase inhibitors.
+Some cases resulted in acute hepatic failure or fulminant hepatitis leading to liver transplantation or a fatal outcome.
+
+Patients should be tested for HBV infection before initiating treatment with Glivec.
+Experts in liver disease and in the treatment of hepatitis B should be consulted before treatment is initiated in patients with positive hepatitis B serology (including those with active disease) and for patients who test positive for HBV infection during treatment.
+Carriers of HBV who require treatment with Glivec should be closely monitored for signs and symptoms of active HBV infection throughout therapy and for several months following termination of therapy (see section 4.8).
+
 Laboratory tests
 Complete blood counts must be performed regularly during therapy with Glivec.
 Treatment of CML patients with Glivec has been associated with neutropenia or thrombocytopenia.

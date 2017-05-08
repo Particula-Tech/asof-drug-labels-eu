@@ -4,7 +4,6 @@ Patients with advanced stages of malignancies may have numerous confounding medi
 
 In clinical trials in CML, drug discontinuation for drug-related adverse reactions was observed in 2.4% of newly diagnosed patients, 4% of patients in late chronic phase after failure of interferon therapy, 4% of patients in accelerated phase after failure of interferon therapy and 5% of blast crisis patients after failure of interferon therapy.
 In GIST the study drug was discontinued for drug-related adverse reactions in 4% of patients.
-
 The adverse reactions were similar in all indications, with two exceptions.
 There was more myelosuppression seen in CML patients than in GIST, which is probably due to the underlying disease.
 In the study in patients with unresectable and/or metastatic GIST, 7 (5%) patients experienced CTC grade 3/4 GI bleeds (3 patients), intra-tumoural bleeds (3 patients) or both
@@ -18,6 +17,7 @@ However, these oedemas were rarely severe and may be managed with diuretics, oth
 When imatinib was combined with high dose chemotherapy in Ph+ ALL patients, transient liver toxicity in the form of transaminase elevation and hyperbilirubinaemia were observed.
 Considering the limited safety database, the adverse events thus far reported in children are consistent with the known safety profile in adult patients with Ph+ ALL.
 The safety database for children with Ph+ALL is very limited though no new safety concerns have been identified.
+
 Miscellaneous adverse reactions such as pleural effusion, ascites, pulmonary oedema and rapid weight gain with or without superficial oedema may be collectively described as “fluid retention”.
 These reactions can usually be managed by withholding Glivec temporarily and with diuretics and other appropriate supportive care measures.
 However, some of these reactions may be serious or life-threatening and several patients with blast crisis died with a complex clinical history of pleural effusion, congestive heart failure and renal failure.
@@ -38,6 +38,7 @@ Table 1 Tabulated summary of adverse reactions
 | --- | --- |
 | Uncommon: | Herpes zoster, herpes simplex, nasopharyngitis, pneumonia1, sinusitis, cellulitis, upper respiratory tract infection, influenza, urinary tract infection, gastroenteritis, sepsis |
 | Rare: | Fungal infection |
+| Not known: | Hepatitis B reactivation* |
 | Neoplasm benign, malignant and unspecified (including cysts and polyps) |  |
 | Rare: | Tumour lysis syndrome |
 | Not known: | Tumour haemorrhage/tumour necrosis* |
@@ -81,7 +82,7 @@ Table 1 Tabulated summary of adverse reactions
 | Common: | Dyspnoea, epistaxis, cough |
 | Uncommon: | Pleural effusion5, pharyngolaryngeal pain, pharyngitis |
 | Rare: | Pleuritic pain, pulmonary fibrosis, pulmonary hypertension, pulmonary haemorrhage |
-| Not known: | Acute respiratory failure10*, interstitial lung disease* |
+| Not known: | Acute respiratory failure11*, interstitial lung disease* |
 | Gastrointestinal disorders |  |
 | Very common: | Nausea, diarrhoea, vomiting, dyspepsia, abdominal pain6 |
 | Common: | Flatulence, abdominal distension, gastro-oesophageal reflux, constipation, dry mouth, gastritis |
@@ -99,7 +100,7 @@ Table 1 Tabulated summary of adverse reactions
 | Rare: | Acute febrile neutrophilic dermatosis (Sweet’s syndrome), nail discolouration, angioneurotic oedema, rash vesicular, erythema multiforme, leucocytoclastic vasculitis, Stevens-Johnson syndrome, acute generalised exanthematous pustulosis (AGEP) |
 | Not known: | Palmoplantar erythrodysesthesia syndrome*, lichenoid keratosis*, lichen planus*, toxic epidermal necrolysis*, drug rash with eosinophilia and systemic symptoms (DRESS)* |
 | Musculoskeletal and connective tissue disorders |  |
-| Very common: | Muscle spasm and cramps, musculoskeletal pain including myalgia, arthralgia, bone pain9 |
+| Very common: | Muscle spasm and cramps, musculoskeletal pain including myalgia9, arthralgia, bone pain10 |
 | Common: | Joint swelling |
 | Uncommon: | Joint and muscle stiffness |
 | Rare: | Muscular weakness, arthritis, rhabdomyolysis/myopathy |
@@ -130,8 +131,10 @@ Because these reactions are reported from a population of uncertain size, it is 
 5 Pleural effusion was reported more commonly in patients with GIST and in patients with transformed CML (CML-AP and CML-BC) than in patients with chronic CML.
 6+7 Abdominal pain and gastrointestinal haemorrhage were most commonly observed in GIST patients.
 8 Some fatal cases of hepatic failure and of hepatic necrosis have been reported.
-9 Musculoskeletal pain and related events were more commonly observed in patients with CML than in GIST patients.
-10 Fatal cases have been reported in patients with advanced disease, severe infections, severe neutropenia and other serious concomitant conditions.
+9 Musculoskeletal pain during treatment with imatinib or after discontinuation has been observed in post-marketing
+10 Musculoskeletal pain and related events were more commonly observed in patients with CML than in GIST patients.
+11 Fatal cases have been reported in patients with advanced disease, severe infections, severe neutropenia and other serious concomitant conditions.
+
 Laboratory test abnormalities
 Haematology
 In CML, cytopenias, particularly neutropenia and thrombocytopenia, have been a consistent finding in all studies, with the suggestion of a higher frequency at high doses ≥ 750 mg (phase I study).
@@ -157,7 +160,103 @@ Bilirubin elevation was below 3%.
 
 There have been cases of cytolytic and cholestatic hepatitis and hepatic failure; in some of them outcome was fatal, including one patient on high dose paracetamol.
 
+Description of selected adverse reactions
+Hepatitis B reactivation
+Hepatitis B reactivation has been reported in association with BCR-ABL TKIs.
+Some cases resulted in acute hepatic failure or fulminant hepatitis leading to liver transplantation or a fatal outcome (see section 4.4).
+
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system. listed in Appendix V.
+
+[Glivec 100 mg film-coated tablets]
+
+| Infections and infestations |  |
+| --- | --- |
+| Uncommon: | Herpes zoster, herpes simplex, nasopharyngitis, pneumonia1, sinusitis, cellulitis, upper respiratory tract infection, influenza, urinary tract infection, gastroenteritis, sepsis |
+| Rare: | Fungal infection |
+| Not known: | Hepatitis B reactivation* |
+| Neoplasm benign, malignant and unspecified (including cysts and polyps) |  |
+| Rare: | Tumour lysis syndrome |
+| Not known: | Tumour haemorrhage/tumour necrosis* |
+| Immune system disorders |  |
+| Not known: | Anaphylactic shock* |
+| Blood and lymphatic system disorders |  |
+| Very common: | Neutropenia, thrombocytopenia, anaemia |
+| Common: | Pancytopenia, febrile neutropenia |
+| Uncommon: | Thrombocythaemia, lymphopenia, bone marrow depression, eosinophilia, lymphadenopathy |
+| Rare: | Haemolytic anaemia |
+| Metabolism and nutrition disorders |  |
+| Common: | Anorexia |
+| Uncommon: | Hypokalaemia, increased appetite, hypophosphataemia, decreased appetite, dehydration, gout, hyperuricaemia, hypercalcaemia, hyperglycaemia, hyponatraemia |
+| Rare: | Hyperkalaemia, hypomagnesaemia |
+| Psychiatric disorders |  |
+| Common: | Insomnia |
+| Uncommon: | Depression, libido decreased, anxiety |
+| Rare: | Confusional state |
+| Nervous system disorders |  |
+| Very common: | Headache2 |
+| Common: | Dizziness, paraesthesia, taste disturbance, hypoaesthesia |
+| Uncommon: | Migraine, somnolence, syncope, peripheral neuropathy, memory impairment, sciatica, restless leg syndrome, tremor, cerebral haemorrhage |
+| Rare: | Increased intracranial pressure, convulsions, optic neuritis |
+| Not known: | Cerebral oedema* |
+| Eye disorders |  |
+| Common: | Eyelid oedema, lacrimation increased, conjunctival haemorrhage, conjunctivitis, dry eye, blurred vision |
+| Uncommon: | Eye irritation, eye pain, orbital oedema, scleral haemorrhage, retinal haemorrhage, blepharitis, macular oedema |
+| Rare: | Cataract, glaucoma, papilloedema |
+| Not known: | Vitreous haemorrhage* |
+| Ear and labyrinth disorders |  |
+| Uncommon: | Vertigo, tinnitus, hearing loss |
+| Cardiac disorders |  |
+| Uncommon: | Palpitations, tachycardia, cardiac failure congestive3, pulmonary oedema |
+| Rare: | Arrhythmia, atrial fibrillation, cardiac arrest, myocardial infarction, angina pectoris, pericardial effusion |
+| Not known: | Pericarditis*, cardiac tamponade* |
+| Vascular disorders4 |  |
+| Common: | Flushing, haemorrhage |
+| Uncommon: | Hypertension, haematoma, subdural haematoma, peripheral coldness, hypotension, Raynaud’s phenomenon |
+| Not known: | Thrombosis/embolism* |
+
+| Respiratory, thoracic and mediastinal disorders |  |
+| --- | --- |
+| Common: | Dyspnoea, epistaxis, cough |
+| Uncommon: | Pleural effusion5, pharyngolaryngeal pain, pharyngitis |
+| Rare: | Pleuritic pain, pulmonary fibrosis, pulmonary hypertension, pulmonary haemorrhage |
+| Not known: | Acute respiratory failure11*, interstitial lung disease* |
+| Gastrointestinal disorders |  |
+| Very common: | Nausea, diarrhoea, vomiting, dyspepsia, abdominal pain6 |
+| Common: | Flatulence, abdominal distension, gastro-oesophageal reflux, constipation, dry mouth, gastritis |
+| Uncommon: | Stomatitis, mouth ulceration, gastrointestinal haemorrhage7, eructation, melaena, oesophagitis, ascites, gastric ulcer, haematemesis, cheilitis, dysphagia, pancreatitis |
+| Rare: | Colitis, ileus, inflammatory bowel disease |
+| Not known: | Ileus/intestinal obstruction*, gastrointestinal perforation*, diverticulitis*, gastric antral vascular ectasia (GAVE)* |
+| Hepatobiliary disorders |  |
+| Common: | Increased hepatic enzymes |
+| Uncommon: | Hyperbilirubinaemia, hepatitis, jaundice |
+| Rare: | Hepatic failure8, hepatic necrosis |
+| Skin and subcutaneous tissue disorders |  |
+| Very common: | Periorbital oedema, dermatitis/eczema/rash |
+| Common: | Pruritus, face oedema, dry skin, erythema, alopecia, night sweats, photosensitivity reaction |
+| Uncommon: | Rash pustular, contusion, sweating increased, urticaria, ecchymosis, increased tendency to bruise, hypotrichosis, skin hypopigmentation, dermatitis exfoliative, onychoclasis, folliculitis, petechiae, psoriasis, purpura, skin hyperpigmentation, bullous eruptions |
+| Rare: | Acute febrile neutrophilic dermatosis (Sweet’s syndrome), nail discolouration, angioneurotic oedema, rash vesicular, erythema multiforme, leucocytoclastic vasculitis, Stevens-Johnson syndrome, acute generalised exanthematous pustulosis (AGEP) |
+| Not known: | Palmoplantar erythrodysesthesia syndrome*, lichenoid keratosis*, lichen planus*, toxic epidermal necrolysis*, drug rash with eosinophilia and systemic symptoms (DRESS)* |
+| Musculoskeletal and connective tissue disorders |  |
+| Very common: | Muscle spasm and cramps, musculoskeletal pain including myalgia9, arthralgia, bone pain10 |
+| Common: | Joint swelling |
+| Uncommon: | Joint and muscle stiffness |
+| Rare: | Muscular weakness, arthritis, rhabdomyolysis/myopathy |
+| Not known: | Avascular necrosis/hip necrosis*, growth retardation in children* |
+| Renal and urinary disorders |  |
+| Uncommon: | Renal pain, haematuria, renal failure acute, urinary frequency increased |
+| Not known: | Renal failure chronic |
+| Reproductive system and breast disorders |  |
+| Uncommon: | Gynaecomastia, erectile dysfunction, menorrhagia, menstruation irregular, sexual dysfunction, nipple pain, breast enlargement, scrotal oedema |
+| Rare: | Haemorrhagic corpus luteum/haemorrhagic ovarian cyst |
+| General disorders and administration site conditions |  |
+| Very common: | Fluid retention and oedema, fatigue |
+| Common: | Weakness, pyrexia, anasarca, chills, rigors |
+| Uncommon: | Chest pain, malaise |
+| Investigations |  |
+| Very common: | Weight increased |
+| Common: | Weight decreased |
+| Uncommon: | Blood creatinine increased, blood creatine phosphokinase increased, blood lactate dehydrogenase increased, blood alkaline phosphatase increased |
+| Rare: | Blood amylase increased |

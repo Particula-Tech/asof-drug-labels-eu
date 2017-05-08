@@ -39,6 +39,7 @@ The no observed effect level (NOEL) for both the maternal animals and the F1 gen
 Imatinib was teratogenic in rats when administered during organogenesis at doses ≥ 100 mg/kg, approximately equal to the maximum clinical dose of 800 mg/day, based on body surface area.
 Teratogenic effects included exencephaly or encephalocele, absent/reduced frontal and absent parietal bones.
 These effects were not seen at doses ≤ 30 mg/kg.
+
 No new target organs were identified in the rat juvenile development toxicology study (day 10 to 70 postpartum) with respect to the known target organs in adult rats.
 In the juvenile toxicology study, effects upon growth, delay in vaginal opening and preputial separation were observed at approximately 0.3 to 2 times the average paediatric exposure at the highest recommended dose of 340 mg/m2.
 In addition, mortality was observed in juvenile animals (around weaning phase) at approximately 2 times the average paediatric exposure at the highest recommended dose of 340 mg/m2.
@@ -59,15 +60,3 @@ Non-neoplastic lesions not identified in earlier preclinical studies were the ca
 The most important changes included cardiac hypertrophy and dilatation, leading to signs of cardiac insufficiency in some animals.
 
 The active substance imatinib demonstrates an environmental risk for sediment organisms.
-
-[Glivec 100 mg hard capsules]
-
-Papilloma/carcinoma of the preputial/clitoral gland were noted from 30mg/kg/day onwards, representing approximately 0.5 or 0.3 times the human daily exposure (based on AUC) at 400 mg/day or 800 mg/day, respectively, and 0.4 times the daily exposure in children (based on AUC) at 340 mg/m2/day.
-
-[Glivec 100 mg film-coated tablets]
-
-(all sentences already above)
-
-[Glivec 400 mg film-coated tablets]
-
-(all sentences already above)
