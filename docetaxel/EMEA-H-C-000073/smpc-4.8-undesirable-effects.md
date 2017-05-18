@@ -590,7 +590,7 @@ Skin and subcutaneous tissue disorders
 Very rare cases of cutaneous lupus erythematosus and bullous eruptions such as erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, have been reported with docetaxel.
 In some cases concomitant factors may have contributed to the development of these effects.
 Sclerodermal-like changes usually preceded by peripheral lymphoedema have been reported with docetaxel.
-Cases of persisting alopecia have been reported.
+Cases of permanent alopecia (frequency not known) have been reported.
 
 Renal and urinary disorders
 Renal insufficiency and renal failure have been reported.
@@ -718,6 +718,10 @@ threatening: 1%)
 [TAXOTERE 80 mg/4 ml concentrate for solution for infusion]
 
 Tabulated list of adverse reactions in gastric adenocarcinoma center for TAXOTERE 75 mg/m² in combination with cisplatin and 5-fluorouracil
+
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system
+
+listed in Appendix V.
 
 [TAXOTERE 160 mg/8 ml concentrate for solution for infusion.]
 
