@@ -2,7 +2,6 @@
 
 Ticagrelor is primarily a CYP3A4 substrate and a mild inhibitor of CYP3A4.
 Ticagrelor is also a P-glycoprotein (P-gp) substrate and a weak P-gp inhibitor and may increase the exposure of P-gp substrates.
-
 Effects of other medicinal products on ticagrelor
 
 Medicinal products metabolised by CYP3A4
@@ -40,7 +39,7 @@ Effects of ticagrelor on other medicinal products
 Medicinal products metabolised by CYP3A4
 
 - Simvastatin – Co-administration of ticagrelor with simvastatin increased simvastatin Cmax by 81% and AUC by 56% and increased simvastatin acid Cmax by 64% and AUC by 52% with some individual increases equal to 2 to 3-fold.
-  Co-administration of ticagrelor with doses of simvastatin exceeding 40 mg daily could cause adverse effects of simvastatin and should be weighed against potential benefits.
+  Co-administration of ticagrelor with doses of simvastatin exceeding 40 mg daily could cause adverse reactions of simvastatin and should be weighed against potential benefits.
   There was no effect of simvastatin on ticagrelor plasma levels.
   Ticagrelor may have similar effect on lovastatin.
   The concomitant use of ticagrelor with doses of simvastatin or lovastatin greater than 40 mg is not recommended.

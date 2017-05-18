@@ -38,7 +38,7 @@ Clinical efficacy
 On a background of daily ASA, ticagrelor 90 mg twice daily showed superiority to 75 mg daily clopidogrel in preventing the composite endpoint of CV death, MI, or stroke, with the difference driven by CV death and MI.
 Patients received a 300 mg loading dose of clopidogrel (600 mg possible if having PCI) or 180 mg of ticagrelor.
 
-The result appeared early (absolute risk reduction [ARR] 0.6% and relative risk reduction [RRR] of 12% at 30 days), with a constant treatment effect over the entire 12 month period, yielding ARR 1.9% per year with RRR of 16%.
+The result appeared early (absolute risk reduction [ARR] 0.6% and relative risk reduction [RRR] of 12% at 30 days), with a constant treatment effect over the entire 12-month period, yielding ARR 1.9% per year with RRR of 16%.
 This suggests it is appropriate to treat patients with ticagrelor 90 mg twice daily for 12 months (see section 4.2).
 Treating 54 ACS patients with ticagrelor instead of clopidogrel will prevent 1 atherothrombotic event; treating 91 will prevent 1 CV death (see
 Figure 1 and Table 4).
@@ -47,7 +47,7 @@ The treatment effect of ticagrelor over clopidogrel appears consistent across ma
 
 A weakly significant treatment interaction was observed with region whereby the hazard ratio (HR) for the primary endpoint favours ticagrelor in the rest of world but favours clopidogrel in North America, which represented approximately 10% of the overall population studied (interaction p-value=0.045).
 Exploratory analyses suggest a possible association with ASA dose such that reduced efficacy was observed with ticagrelor with increasing ASA doses.
-Chronic daily ASA doses to accompany Brilique should be 75-150 mg (see sections 4.2 and 4.4).
+Chronic daily ASA doses to accompany ticagrelor should be 75-150 mg (see sections 4.2 and 4.4).
 
 Figure 1 shows the estimate of the risk to the first occurrence of any event in the composite efficacy endpoint.
 Figure 1 – Analysis of primary clinical composite endpoint of CV death, MI and stroke (PLATO)
@@ -88,7 +88,7 @@ A combined efficacy and safety composite (CV death, MI, stroke, or PLATO-defined
 
 Clinical safety
 
-Holter substudy
+Holter substudy:
 To study the occurrence of ventricular pauses and other arrhythmic episodes during PLATO, investigators performed Holter monitoring in a subset of nearly 3000 patients, of whom approximately 2000 had recordings both in the acute phase of their ACS and after one month.
 The primary variable of interest was the occurrence of ventricular pauses ≥3 seconds.
 More patients had ventricular pauses with ticagrelor (6.0%) than with clopidogrel (3.5%) in the acute phase; and 2.2% and 1.6% respectively after 1 month (see section 4.4).
@@ -99,10 +99,9 @@ There were no adverse clinical consequences associated with this imbalance (incl
 PEGASUS study (History of Myocardial Infarction)
 
 The PEGASUS TIMI-54 study was a 21,162 patient, event-driven, randomised, double-blind, placebo-controlled, parallel group, international multicentre study to assess the prevention of atherothrombotic events with ticagrelor given at 2 doses (either 90 mg twice daily or 60 mg twice daily) combined with low dose ASA (75-150 mg), compared to ASA therapy alone in patients with history of MI and additional risk factors for atherothrombosis.
-
 Patients were eligible to participate if they were aged 50 years or over, with a history of MI (1 to 3 years prior to randomisation), and had at least one of the following risk factors for atherothrombosis: age ≥65 years, diabetes mellitus requiring medication, a second prior MI, evidence of multivessel CAD, or chronic non-end-stage renal dysfunction.
 
-Patients were ineligible if there was planned use of a P2Y12 receptor antagonist, dipyridamole, cilostazol, or anticoagulant therapy during the study period; if they had a bleeding disorder or a history of an ischemic stroke or intracranial bleeding, a central nervous system tumour, or an intracranial vascular abnormality; if they had had gastrointestinal bleeding within the previous 6 months or major surgery within the previous 30 days.
+Patients were ineligible if there was planned use of a P2Y12 receptor antagonist, dipyridamole, cilostazol, or anticoagulant therapy during the study period; if they had a bleeding disorder or a history of an ischaemic stroke or intracranial bleeding, a central nervous system tumour, or an intracranial vascular abnormality; if they had had gastrointestinal bleeding within the previous 6 months or major surgery within the previous 30 days.
 
 Clinical efficacy
 
@@ -132,7 +131,7 @@ CI = Confidence interval; CV = Cardiovascular; HR = Hazard ratio; KM = Kaplan-Me
 Both 60 mg twice daily and 90 mg twice daily regimens of ticagrelor in combination with ASA were superior to ASA alone in the prevention of atherothrombotic events (composite endpoint: CV death, MI and stroke), with a consistent treatment effect over the entire study period, yielding a 16% RRR and 1.27% ARR for ticagrelor 60 mg and a 15% RRR and 1.19% ARR for ticagrelor 90 mg.
 
 Although the efficacy profiles of 90 mg and 60 mg were similar, there is evidence that the lower dose has a better tolerability and safety profile in relation to risk of the bleeding and dyspnoea.
-Therefore only Brilique 60 mg twice daily co-administered with ASA is recommended for the prevention atherothrombotic events (CV death, MI and stroke) in patients with a history of MI and a high risk of developing an atherothrombotic event.
+Therefore, only Brilique 60 mg twice daily co-administered with ASA is recommended for the prevention atherothrombotic events (CV death, MI and stroke) in patients with a history of MI and a high risk of developing an atherothrombotic event.
 
 Relative to ASA alone, ticagrelor 60 mg twice daily significantly reduced the primary composite endpoint of CV death, MI and stroke.
 Each of the components contributed to the reduction in the primary composite endpoint (CV death 17% RRR, MI 16% RRR, and stroke 25% RRR).
@@ -141,25 +140,17 @@ The RRR for the composite endpoint from 1 to 360 days (17% RRR) and from 361 day
 There are limited data on the efficacy and safety of ticagrelor beyond 3 years of extended treatment.
 
 There was no evidence of benefit (no reduction in the primary composite endpoint of CV death, MI and stroke, but an increase in major bleeding) when ticagrelor 60 mg twice daily was introduced in clinically stable patients >2 years from the MI, or more than one year after stopping previous ADP receptor inhibitor treatment (see also section 4.2).
+
 Clinical safety
 The rate of discontinuations with ticagrelor 60 mg due to bleeding and dyspnoea was higher in patients >75 years (42%) than in younger patients (range: 23-31%), with a difference versus placebo higher than 10% (42% vs. 29%) in patients >75 years.
 
 Paediatric population
-The European Medicines Agency has waived the obligation to submit the results of studies with Brilique in all subsets of the paediatric population in the granted indication (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with Brilique in all subsets of the paediatric population in acute coronary syndromes (ACS) and history of myocardial infarction (MI) (see section 4.2 for information on paediatric use).
 
 [Brilique 90 mg film-coated tablets]
 
-|  | Ticagrelor 60 mg twice daily +ASA N = 7045 |  |  | ASA alone N = 7067 |  | p-value |
-| --- | --- | --- | --- | --- | --- | --- |
-| Characteristic | Patients with events | KM % | HR (95% CI) | Patients with events | KM % |  |
-| Primary endpoint |  |  |  |  |  |  |
-| Composite of CV Death/MI /Stroke | 487 (6.9%) | 7.8% | 0.84 (0.74, 0.95) | 578 (8.2%) | 9.0% | 0.0043 (s) |
-| CV death | 174 (2.5%) | 2.9% | 0.83 (0.68, 1.01) | 210 (3.0%) | 3.4% | 0.0676 |
-| MI | 285 (4.0%) | 4.5% | 0.84 (0.72, 0.98) | 338 (4.8%) | 5.2% | 0.0314 |
-| Stroke | 91 (1.3%) | 1.5% | 0.75 (0.57, 0.98) | 122 (1.7%) | 1.9% | 0.0337 |
-| Characteristic | Patients with events | KM % | HR (95% CI) | Patients with events | KM % |  |
-| Secondary endpoint |  |  |  |  |  |  |
-| CV death | 174 (2.5%) | 2.9% | 0.83 (0.68, 1.01) | 210 (3.0%) | 3.4% | - |
-| All-cause mortality | 289 (4.1%) | 4.7% | 0.89 (0.76, 1.04) | 326 (4.6%) | 5.2% | - |
-
 Although the efficacy profile of 90 mg and 60 mg were similar, there is evidence that the lower dose has a better tolerability and safety profile in relation to risk of the bleeding and dyspnoea.
+
+[Brilique 90 mg orodispersible tablets]
+
+(all sentences already above)

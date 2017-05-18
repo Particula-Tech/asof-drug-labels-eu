@@ -8,7 +8,7 @@ If clinically indicated, ticagrelor should be used with caution in the following
   The use of ticagrelor is contraindicated in patients with active pathological bleeding, in those with a history of intracranial haemorrhage, and in patients with severe hepatic impairment (see section 4.3).
 - Patients with concomitant administration of medicinal products that may increase the risk of bleeding (e.g. non-steroidal anti-inflammatory drugs (NSAIDs), oral anticoagulants and/or fibrinolytics) within 24 hours of ticagrelor dosing.
 
-No data exist in patients with ticagrelor regarding a haemostatic benefit of platelet transfusions; circulating ticagrelor may inhibit transfused platelets.
+Platelet transfusion did not reverse the antiplatelet effect of ticagrelor in healthy volunteers and is unlikely to be of clinical benefit in patients with bleeding.
 Since co-administration of ticagrelor with desmopressin did not decrease template-bleeding time, desmopressin is unlikely to be effective in managing clinical bleeding events (see section 4.5).
 
 Antifibrinolytic therapy (aminocaproic acid or tranexamic acid) and/or recombinant factor VIIa therapy may increase haemostasis.
@@ -20,10 +20,10 @@ Patients should be advised to inform physicians and dentists that they are takin
 In PLATO patients undergoing coronary artery bypass grafting (CABG), ticagrelor had more bleeding than clopidogrel when stopped within 1 day prior to surgery but a similar rate of major bleeds compared to clopidogrel after stopping therapy 2 or more days before surgery (see section 4.8).
 If a patient is to undergo elective surgery and antiplatelet effect is not desired, ticagrelor should be discontinued 7 days prior to surgery (see section 5.1).
 
-Patients with prior ischemic stroke
-ACS patients with prior ischemic stroke can be treated with Brilique for up to 12 months (PLATO study).
+Patients with prior ischaemic stroke
+ACS patients with prior ischaemic stroke can be treated with ticagrelor for up to 12 months (PLATO study).
 
-In PEGASUS, patients with history of MI with prior ischemic stroke were not included.
+In PEGASUS, patients with history of MI with prior ischaemic stroke were not included.
 Therefore, in the absence of data, treatment beyond one year is not recommended in these patients.
 
 Hepatic impairment
@@ -36,7 +36,6 @@ Therefore, due to the limited clinical experience, ticagrelor should be used wit
 
 In addition, caution should be exercised when administering ticagrelor concomitantly with medicinal products known to induce bradycardia.
 However, no evidence of clinically significant adverse reactions was observed in the PLATO trial after concomitant administration with one or more medicinal products known to induce bradycardia (e.g. 96% beta blockers, 33% calcium channel blockers diltiazem and verapamil, and 4% digoxin) (see section 4.5).
-
 During the Holter substudy in PLATO, more patients had ventricular pauses >3 seconds with ticagrelor than with clopidogrel during the acute phase of their ACS.
 The increase in Holter-detected ventricular pauses with ticagrelor was higher in patients with chronic heart failure (CHF) than in the overall study population during the acute phase of ACS, but not at one month with ticagrelor or compared to clopidogrel.
 There were no adverse clinical consequences associated with this imbalance (including syncope or pacemaker insertion) in this patient population (see section 5.1).

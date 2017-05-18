@@ -11,11 +11,12 @@ Tabulated list of adverse reactions
 The following adverse reactions have been identified following studies or have been reported in post-marketing experience with ticagrelor (Table 1).
 Adverse reactions are listed by MedDRA System Organ Class (SOC).
 Within each SOC the adverse reactions are ranked by frequency category.
-Frequency categories are defined according to the following conventions: Very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000), not known (cannot be estimated from the available data).
+Frequency categories are defined according to the following conventions: Very common (≥1/10), common (≥1/100 to <1/10), uncommon
+(≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000), not known (cannot be estimated from the available data).
 
 Table 1 – Adverse reactions by frequency and system organ class (SOC)
 
-| System Organ Classification | Very Common | Common | Uncommon |
+| SOC | Very common | Common | Uncommon |
 | --- | --- | --- | --- |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  | Tumour bleedingsa |
 | Blood and lymphatic system disorders | Blood disorder bleedingsb |  |  |
@@ -59,11 +60,11 @@ Table 2 – Analysis of overall bleeding events, Kaplan-Meier estimates at 12 mo
 | TIMI-defined Major + Minor | 11.4 | 10.9 | 0.3272 |
 
 Bleeding category definitions:
-Major Fatal/Life-threatening Bleed: Clinically apparent with >50 g/l decrease in haemoglobin or ≥4 red cell units transfused; or fatal; or intracranial; or intrapericardial with cardiac tamponade; or with hypovolaemic shock or severe hypotension requiring pressors or surgery.
+Major Fatal/Life-threatening Bleed: Clinically apparent with >50 g/L decrease in haemoglobin or ≥4 red cell units transfused; or fatal; or intracranial; or intrapericardial with cardiac tamponade; or with hypovolaemic shock or severe hypotension requiring pressors or surgery.
 Major Other: Clinically apparent with 30-50 g/L decrease in haemoglobin or 2-3 red cell units transfused; or significantly disabling.
 Minor Bleed: Requires medical intervention to stop or treat bleeding.
-TIMI Major Bleed: Clinically apparent with >50 g/l decrease in haemoglobin or intracranial haemorrhage.
-TIMI Minor Bleed: Clinically apparent with 30-50 g/l decrease in haemoglobin.
+TIMI Major Bleed: Clinically apparent with >50 g/L decrease in haemoglobin or intracranial haemorrhage.
+TIMI Minor Bleed: Clinically apparent with 30-50 g/L decrease in haemoglobin.
 *p-value calculated from Cox proportional hazards model with treatment group as the only explanatory variable.
 
 Ticagrelor and clopidogrel did not differ in rates of PLATO Major Fatal/Life-threatening bleeding, PLATO total Major bleeding, TIMI Major bleeding, or TIMI Minor bleeding (Table 2).
@@ -73,15 +74,17 @@ Few patients in PLATO had fatal bleeds: 20 (0.2%) for ticagrelor and 23 (0.3%) f
 Age, sex, weight, race, geographic region, concurrent conditions, concomitant therapy, and medical history, including a previous stroke or transient ischaemic attack, all did not predict either overall or non-procedural PLATO Major bleeding.
 Thus no particular group was identified at risk for any subset of bleeding.
 
-CABG-related bleeding: In PLATO, 42% of the 1584 patients (12% of cohort) who underwent coronary artery bypass graft (CABG) surgery had a PLATO Major Fatal/Life-threatening bleeding with no difference between treatment groups.
+CABG-related bleeding:
+In PLATO, 42% of the 1584 patients (12% of cohort) who underwent coronary artery bypass graft (CABG) surgery had a PLATO Major Fatal/Life-threatening bleeding with no difference between treatment groups.
 Fatal CABG bleeding occurred in 6 patients in each treatment group (see section 4.4).
 
-Non-CABG related bleeding and non-procedural related bleeding: Ticagrelor and clopidogrel did not differ in non-CABG PLATO-defined Major Fatal/Life-threatening bleeding, but PLATO-defined Total Major, TIMI Major, and TIMI Major + Minor bleeding were more common with ticagrelor.
+Non-CABG related bleeding and non-procedural related bleeding:
+Ticagrelor and clopidogrel did not differ in non-CABG PLATO-defined Major Fatal/Life-threatening bleeding, but PLATO-defined Total Major, TIMI Major, and TIMI Major + Minor bleeding were more common with ticagrelor.
 Similarly, when removing all procedure related bleeds, more bleeding occurred with ticagrelor than with clopidogrel (Table 2).
 Discontinuation of treatment due to non-procedural bleeding was more common for ticagrelor (2.9%) than for clopidogrel (1.2%; p<0.001).
 
-Intracranial bleeding: There were more intracranial non-procedural bleeds with ticagrelor
-(n=27 bleeds in 26 patients, 0.3%) than with clopidogrel (n=14 bleeds, 0.2%), of which 11 bleeds with ticagrelor and 1 with clopidogrel were fatal.
+Intracranial bleeding:
+There were more intracranial non-procedural bleeds with ticagrelor (n=27 bleeds in 26 patients, 0.3%) than with clopidogrel (n=14 bleeds, 0.2%), of which 11 bleeds with ticagrelor and 1 with clopidogrel were fatal.
 There was no difference in overall fatal bleeds.
 
 Bleeding findings in PEGASUS
@@ -128,13 +131,13 @@ The majority of these bleedings were of less severity (classified as TIMI Requir
 
 The bleeding profile of ticagrelor 60 mg was consistent across multiple pre-defined subgroups (e.g. by age, gender, weight, race, geographic region, concurrent conditions, concomitant therapy, and medical history) for TIMI Major, TIMI Major or Minor and PLATO Major bleeding events.
 
-Intracranial bleeding: Spontaneous ICHs were reported in similar rates for ticagrelor 60 mg and ASA therapy alone (n=13, 0.2% in both treatment groups).
+Intracranial bleeding:
+Spontaneous ICHs were reported in similar rates for ticagrelor 60 mg and ASA therapy alone (n=13, 0.2% in both treatment groups).
 Traumatic and procedural ICHs showed a minor increase with ticagrelor 60 mg treatment, (n=15, 0.2%) compared with ASA therapy alone (n=10, 0.1%).
 There were 6 fatal ICHs with ticagrelor 60 mg and 5 fatal ICHs with ASA therapy alone.
 The incidence of intracranial bleeding was low in both treatment groups given the significant comorbidity and CV risk factors of the population under study.
-
 Dyspnoea
-Dyspnoea, a sensation of breathlessness, is reported by patients treated with Brilique.
+Dyspnoea, a sensation of breathlessness, is reported by patients treated with ticagrelor.
 In PLATO, dyspnoea adverse events (AEs) (dyspnoea, dyspnoea at rest, dyspnoea exertional, dyspnoea paroxysmal nocturnal and nocturnal dyspnoea), when combined, was reported by 13.8% of patients treated with ticagrelor and by 7.8% of patients treated with clopidogrel.
 In 2.2% of patients taking ticagrelor and by 0.6% taking clopidogrel investigators considered the dyspnoea causally related to treatment in the PLATO study and few were serious (0.14% ticagrelor; 0.02% clopidogrel), (see section 4.4).
 Most reported symptoms of dyspnoea were mild to moderate in intensity, and most were reported as a single episode early after starting treatment.
@@ -145,9 +148,9 @@ Ticagrelor should be used with caution in patients with history of asthma and/or
 
 About 30% of episodes resolved within 7 days.
 PLATO included patients with baseline congestive heart failure, COPD, or asthma; these patients, and the elderly, were more likely to report dyspnoea.
-For Brilique, 0.9% of patients discontinued study drug because of dyspnoea compared with 0.1% taking clopidogrel.
-The higher incidence of dyspnoea with Brilique is not associated with new or worsening heart or lung disease (see section 4.4).
-Brilique does not affect tests of pulmonary function.
+For ticagrelor, 0.9% of patients discontinued study drug because of dyspnoea compared with 0.1% taking clopidogrel.
+The higher incidence of dyspnoea with ticagrelor is not associated with new or worsening heart or lung disease (see section 4.4).
+Ticagrelor does not affect tests of pulmonary function.
 
 In PEGASUS, dyspnoea was reported in 14.2% of patients taking ticagrelor 60 mg twice daily and in 5.5% of patients taking ASA alone.
 As in PLATO, most reported dyspnoea was mild to moderate in intensity (see section 4.4).
@@ -166,8 +169,3 @@ Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-[Brilique 90 mg film-coated tablets]
-
-Major Other: Clinically apparent with 30 50 g/L decrease in haemoglobin or 2-3 red cell units transfused; or significantly disabling.
-TIMI Minor Bleed: Clinically apparent with 30 50 g/l decrease in haemoglobin.

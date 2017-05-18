@@ -62,3 +62,15 @@ Ethnicity
 Patients of Asian descent have a 39% higher mean bioavailability compared to Caucasian patients.
 Patients self-identified as black had an 18% lower bioavailability of ticagrelor compared to Caucasian patients, in clinical pharmacology studies, the exposure (Cmax and AUC) to ticagrelor in Japanese subjects was approximately 40% (20% after adjusting for body weight) higher compared to that in Caucasians.
 The exposure in patients self-identified as Hispanic or Latino was similar to that in Caucasians.
+
+[Brilique 90 mg film-coated tablets]
+
+(all sentences already above)
+
+[Brilique 90 mg orodispersible tablets]
+
+Ticagrelor orodispersible tablets, dispersed in saliva and swallowed without water or suspended in water and administered through a nasogastric tube into the stomach, were bioequivalent to film-coated whole tablets (AUC and Cmax within 80-125% for ticagrelor and the active metabolite).
+When the orodispersible tablet was dispersed in saliva and swallowed with water, ticagrelor AUC was similar, while Cmax was about 15% lower than for the film-coated tablet.
+The small difference in Cmax noted is unlikely to be of clinical relevance.
+
+Higher exposures to ticagrelor (approximately 25% for both Cmax and AUC) and the active metabolite were observed in elderly (≥75 years) ACS patients compared to younger patients by the population pharmacokinetic analysis.

@@ -5,3 +5,7 @@ Brilique 60 mg film-coated tablets
 [Brilique 90 mg film-coated tablets]
 
 Brilique 90 mg film-coated tablets
+
+[Brilique 90 mg orodispersible tablets]
+
+Brilique 90 mg orodispersible tablets

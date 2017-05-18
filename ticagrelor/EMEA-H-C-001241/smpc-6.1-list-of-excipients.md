@@ -18,3 +18,12 @@ Hypromellose (E464)
 
 Talc
 Iron oxide yellow (E172)
+
+[Brilique 90 mg orodispersible tablets]
+
+Microcrystalline cellulose (E460)
+Crospovidone (E1202)
+Xylitol (E967)
+Anhydrous calcium hydrogen phosphate (E341)
+Sodium stearyl fumarate
+Colloidal anhydrous silica
