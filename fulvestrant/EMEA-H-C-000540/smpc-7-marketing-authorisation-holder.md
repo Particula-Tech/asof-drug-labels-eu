@@ -1,8 +1,8 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 AstraZeneca UK Limited
-Alderley Park
-Macclesfield
+Charter Way,
+Macclesfield,
 Cheshire
-SK10 4TG
+SK10 2NA
 United Kingdom

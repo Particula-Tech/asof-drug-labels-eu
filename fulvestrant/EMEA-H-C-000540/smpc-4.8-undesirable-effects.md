@@ -29,10 +29,10 @@ Table 1 Adverse Drug Reactions
 | Musculoskeletal and connective tissue disorders | Common | Back paina |
 | Reproductive system and breast disorders | Uncommon | Vaginal moniliasis, leukorrhea, vaginal haemorrhage |
 | General disorders and administration site conditions | Very common | Astheniaa, injection site reactionsb |
-|  | Uncommon | Injection site haemorrhage, injection site haematoma |
+|  | Uncommon | Injection site haemorrhage, injection site haematoma, sciatica, neuralgiac, neuropathy peripheral |
 
 a Includes adverse drug reactions for which the exact contribution of Faslodex cannot be assessed due to the underlying disease.
-b The term injection site reactions does not include the terms injection site haemorrhage and injection site haematoma.
+b The term injection site reactions does not include the terms injection site haemorrhage, injection site haematoma, sciatica, neuralgia and neuropathy peripheral.
 c The event was not observed in major clinical studies (CONFIRM, FINDER 1, FINDER 2, NEWEST).
 The frequency has been calculated using the upper limit of the 95% confidence interval for the point estimate.
 This is calculated as 3/560 (where 560 is the number of patients in the major clinical studies), which equates to a frequency category of ‘uncommon’.

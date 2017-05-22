@@ -16,7 +16,6 @@ The study included 423 patients whose disease had recurred or progressed during 
 This trial compared the efficacy and safety of Faslodex 500 mg (n=362) with Faslodex 250 mg (n=374).
 Progression-free survival (PFS) was the primary endpoint; key secondary efficacy endpoints included objective response rate (ORR), clinical benefit rate (CBR) and overall survival (OS).
 Efficacy results for the CONFIRM study are summarized in Table 2.
-
 Table 2 Summary of results of the primary efficacy endpoint (PFS) and key secondary efficacy endpoints in the CONFIRM study
 
 Variable Type of Faslodex Faslodex Comparison between groups
@@ -48,7 +47,8 @@ comparison difference in %
 ORRd % of patients
 
 with OR;
-absolute difference in %
+absolute difference in
+%
 
 All Patients 13.8 14.6 -0.8 -5.8, 6.3
 -AE subgroup (n=296) 18.1 19.1 -1.0 -8.2, 9.3
@@ -67,7 +67,7 @@ a Faslodex is indicated in patients whose disease had recurred or progressed on 
 The results in the AI subgroup are inconclusive.
 b OS is presented for the final survival analyses at 75% maturity.
 c Nominal p-value with no adjustments made for multiplicity between the initial overall survival analyses at 50% maturity and the updated survival analyses at 75% maturity.
-d ORR was assessed in patients who were evaluable for response at baseline (i.e., those with measurable disease at baseline: 240 patients in the Faslodex 500 mg group and 261 patients in the Faslodex 250 mg group).
+d ORR was assessed in patients who were evaluable for response at baseline (i.e. those with measurable disease at baseline: 240 patients in the Faslodex 500 mg group and 261 patients in the Faslodex 250 mg group).
 e Patients with a best objective response of complete response, partial response or stable disease ≥24 weeks.
 PFS:Progression-free survival; ORR:Objective response rate; OR:Objective response; CBR:Clinical benefit rate; CB:Clinical benefit; OS:Overall survival; K-M:Kaplan-Meier; CI:Confidence interval; AI:Aromatase inhibitor; AE:Anti-estrogen.
 
