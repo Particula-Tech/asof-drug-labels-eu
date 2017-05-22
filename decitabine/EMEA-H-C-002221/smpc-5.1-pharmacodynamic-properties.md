@@ -24,11 +24,12 @@ The primary endpoint of the study was overall survival.
 The secondary endpoint was complete remission rate that was assessed by independent expert review.
 Progression-free survival and Event-free survival were tertiary endpoints.
 
-The median overall survival in the intent-to-treat population was 7.7 months in subjects treated with Dacogen compared to 5.0 months for subjects in the TC arm (hazard ratio 0.85; 95% CI: 0.69, 1.04, p = 0.1079).
+The median overall survival in the --ITT population was 7.7 months in subjects treated with Dacogen compared to 5.0 months for subjects in the TC arm (hazard ratio 0.85; 95% CI: 0.69, 1.04, p = 0.1079).
 The difference did not reach statistical significance, however, there was a trend for improvement in survival with a 15% reduction in the risk of death for subjects in the Dacogen arm (Figure 1).
 When censored for potentially disease modifying subsequent therapy (i.e., induction chemotherapy or hypomethylating agent) the analysis for overall survival showed a 20% reduction in the risk of death for subjects in the Dacogen arm [HR = 0.80, (95% CI: 0.64, 0.99), p-value = 0.0437)].
+
 Figure 1.
-Overall survival (Intent-to-Treat population).
+Overall survival (ITT population).
 
 100
 
@@ -58,8 +59,9 @@ DACOGEN 242 137 65 28 12 1 0
 Total TC 243 107 55 19 7 4 0
 
 In an analysis with an additional 1 year of mature survival data, the effect of Dacogen on overall survival demonstrated a clinical improvement compared to the TC arm (7.7 months vs. 5.0 months, respectively, hazard ratio = 0.82, 95% CI: 0.68, 0.99, nominal p-value = 0.0373, Figure 2).
+
 Figure 2.
-Analysis of mature overall survival data (Intent-to-Treat population).
+Analysis of mature overall survival data (ITT population).
 
 100
 
@@ -88,7 +90,7 @@ No. of Subjects at Risk
 DACOGEN 242 137 78 50 28 11 2 0 0
 Total TC 243 107 68 35 20 10 4 2 0
 
-Based on the initial analysis in the intent-to-treat population, a statistically significant difference in complete remission rate (CR + CRp) was achieved in favour of subjects in the Dacogen arm, 17.8% (43/242) compared to the TC arm, 7.8% (19/243); treatment difference 9.9% (95% CI: 4.07; 15.83), p = 0.0011.
+Based on the initial analysis in the ITT population, a statistically significant difference in complete remission rate (CR + CRp) was achieved in favour of subjects in the Dacogen arm, 17.8% (43/242) compared to the TC arm, 7.8% (19/243); treatment difference 9.9% (95% CI: 4.07; 15.83), p = 0.0011.
 The median time to best response and median duration of best response in patients who achieved a CR or CRp were 4.3 months and 8.3 months, respectively.
 Progression-free survival was significantly longer for subjects in the Dacogen arm, 3.7 months (95% CI: 2.7, 4.6) compared with subjects in the TC arm, 2.1 months (95% CI: 1.9, 3.1); hazard ratio 0.75 (95% CI: 0.62, 0.91), p = 0.0031.
 These results as well as other endpoints are shown in Table 2.
@@ -100,7 +102,10 @@ Table 2: Other efficacy endpoints for Study DACO-016 (ITT population)
 | CR + CRp | 43 (17.8%) 19 (7.8%) OR = 2.5 (1.40, 4.78)b | 19 (7.8%) | 0.0011 |
 | CR | 38 (15.7%) | 18 (7.4%) | - |
 | EFSa | 3.5 2.1 (2.5, 4.1)b (1.9, 2.8)b HR = 0.75 (0.62, 0.90)b | 2.1 (1.9, 2.8)b | 0.0025 |
-| PFSa | 3.7 2.1 (2.7, 4.6)b (1.9, 3.1)b HR = 0.75 (0.62, 0.91)b | 2.1 (1.9, 3.1)b | 0.0031 |
+| PFSa | 3.7 (2.7, 4.6)b | 2.1 (1.9, 3.1)b | 0.0031 |
+
+HR = 0.75
+(0.62, 0.91)b
 
 CR = complete remission; CRp = complete remission with incomplete platelet recovery, EFS = event-free survival,
 PFS = progression-free survival, OR = odds ratio, HR = hazard ratio
@@ -114,11 +119,11 @@ The use of Dacogen as initial therapy was also evaluated in an open-label, singl
 The primary endpoint was complete remission (CR) rate that was assessed by independent expert review.
 The secondary endpoint of the study was overall survival.
 Dacogen was administered as a 1-hour intravenous infusion of 20 mg/m2 once daily for 5 consecutive days repeated every 4 weeks.
-In the intent-to-treat analysis, a CR rate of 23.6% (95% CI: 13.2, 37) was observed in 13/55 subjects treated with Dacogen.
+In the ITT analysis, a CR rate of 23.6% (95% CI: 13.2, 37) was observed in 13/55 subjects treated with Dacogen.
 The median time to CR was 4.1 months, and the median duration of CR was 18.2 months.
-The median overall survival in the intent-to-treat population was 7.6 months (95% CI: 5.7, 11.5).
+The median overall survival in the ITT population was 7.6 months (95% CI: 5.7, 11.5).
 
 The efficacy and safety of Dacogen has not been evaluated in patients with acute promyelocytic leukaemia or CNS leukaemia.
 
 Paediatric population
-The European Medicines Agency has deferred the obligation to submit the results of studies with Dacogen in one or more subsets of the paediatric population for the treatment of acute myeloid leukaemia (see Section 4.2 for information on paediatric use).
+The European Medicines Agency has deferred the obligation to submit the results of studies with Dacogen in one or more subsets of the paediatric population for the treatment of acute myeloid leukaemia (see section 4.2 for information on paediatric use).

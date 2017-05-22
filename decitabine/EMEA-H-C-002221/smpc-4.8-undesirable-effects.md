@@ -1,11 +1,12 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-The most common adverse drug reactions (≥35%) reported during treatment with Dacogen are pyrexia, anaemia and thrombocytopaenia.
+The most common adverse drug reactions (≥35%) reported are pyrexia, anaemia and thrombocytopaenia.
 
 The most common Grade 3/4 adverse drug reactions (≥20%) included pneumonia, thrombocytopaenia, neutropaenia, febrile neutropaenia and anaemia.
 
 In clinical studies, 30% of patients treated with Dacogen and 25% of patients treated in the comparator arm had adverse events with an outcome of death during treatment or within 30 days after the last dose of study drug.
+
 In the Dacogen treatment group, there was a higher incidence of treatment discontinuation due to adverse events in women compared to men (43% versus 32%).
 
 Tabulated list of adverse drug reactions
@@ -15,7 +16,6 @@ The following table reflects data from AML clinical studies and from post-market
 The adverse drug reactions are listed by frequency category.
 Frequency categories are defined as follows: Very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to
 < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), not known (frequency cannot be estimated from the available data).
-
 Within each frequency grouping, adverse drug reactions are presented in order of decreasing seriousness.
 
 Table 1: Adverse drug reactions identified with Dacogen
@@ -60,15 +60,14 @@ Description of selected adverse drug reactions
 
 Haematologic adverse drug reactions
 The most commonly reported haematologic adverse drug reactions associated with Dacogen treatment included febrile neutropaenia, thrombocytopaenia, neutropaenia, anaemia and leukopaenia.
-
-Serious bleeding-related adverse drug reactions, some of which lead to a fatal outcome, such as central nervous system (CNS) haemorrhage (2%) and gastrointestinal (GI) haemorrhage (2%), in the context of severe thrombocytopaenia, were reported in patients receiving Dacogen.
+Serious bleeding-related adverse drug reactions, some of which lead to a fatal outcome, such as central nervous system (CNS) haemorrhage (2%) and gastrointestinal (GI) haemorrhage (2%), in the context of severe thrombocytopaenia, were reported in patients receiving decitabine.
 
 Haematological adverse drug reactions should be managed by routine monitoring of complete blood counts and early administration of supportive treatments as required.
 Supportive treatments include, administration of prophylactic antibiotics and/or growth factor support (e.g., G-CSF) for neutropaenia and transfusions for anaemia or thrombocytopaenia according to institutional guidelines.
 For situations where decitabine administration should be delayed, see section 4.2.
 
 Infections and infestations adverse drug reactions
-Serious infection-related adverse drug reactions, with potentially fatal outcome, such as septic shock, sepsis, pneumonia, and other infections (viral, bacterial and fungal) were reported in patients receiving Dacogen.
+Serious infection-related adverse drug reactions, with potentially fatal outcome, such as septic shock, sepsis, pneumonia, and other infections (viral, bacterial and fungal) were reported in patients receiving decitabine.
 
 Gastrointestinal disorders
 Occurrences of enterocolitis, including neutropaenic colitis, caecitis have been reported during treatment with decitabine.

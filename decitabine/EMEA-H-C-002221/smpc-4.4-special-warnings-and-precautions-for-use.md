@@ -12,26 +12,25 @@ Complete blood and platelet counts should be performed regularly, as clinically 
 In the presence of myelosuppression or its complications, treatment with Dacogen may be interrupted and/or supportive measures instituted (see sections 4.2 and 4.8).
 
 Respiratory, thoracic and mediastinal disorders
-Cases of interstitial lung disease (ILD) (including pulmonary infiltrates, oganising pneumonia and pulmonary fibrosis) without signs of infectious aetiology have been reported in patients receiving decitabine.
+Cases of interstitial lung disease (ILD) (including pulmonary infiltrates, organising pneumonia and pulmonary fibrosis) without signs of infectious aetiology have been reported in patients receiving decitabine.
 Careful assessment of patients with an acute onset or unexplained worsening of pulmonary symptoms should be performed to exclude ILD.
 If ILD is confirmed, appropriate treatment should be initiated (see section 4.8).
 
 Hepatic impairment
-The use of Dacogen in patients with hepatic impairment has not been established.
+Use in patients with hepatic impairment has not been established.
 Caution should be exercised in the administration of Dacogen to patients with hepatic impairment and patients should be monitored closely (see sections 4.2 and 5.2).
 
 Renal impairment
-The use of Dacogen in patients with severe renal impairment has not been studied.
-Caution should be exercised in the administration of Dacogen to patients with severe renal impairment (Creatinine Clearance [CrCl] < 30 ml/min) and these patients should be monitored closely (see section 4.2).
+Use in patients with severe renal impairment has not been studied.
+Caution should be exercised in the administration of Dacogen to patients with severe renal impairment (Creatinine Clearance [CrCl]
+< 30 ml/min) and these patients should be monitored closely (see section 4.2).
 
 Cardiac disease
 Patients with a history of severe congestive heart failure or clinically unstable cardiac disease were excluded from clinical studies and therefore the safety and efficacy of Dacogen in these patients has not been established.
 
 Excipients
 This medicine contains 0.5 mmol potassium per vial.
-After reconstitution and dilution of the solution for intravenous infusion, this medicine contains between 1-10 mmol potassium per dose depending on the infusion fluid for dilution.
-To be taken into consideration by patients with reduced kidney function or patients on a controlled potassium diet.
-
+After reconstitution and dilution of the solution for intravenous infusion, this medicine contains less than 1 mmol (39 mg) of potassium per dose, i.e. essentially ‘potassium- free’.
 This medicine contains 0.29 mmol sodium per vial.
 After reconstitution and dilution of the solution for intravenous infusion, this medicine contains between 0.6-6 mmol sodium per dose depending on the infusion fluid for dilution.
 To be taken into consideration by patients on a controlled sodium diet.

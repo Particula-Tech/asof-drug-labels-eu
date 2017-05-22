@@ -1,6 +1,6 @@
 # 4.2 Posology and method of administration
 
-Dacogen administration must be initiated under the supervision of physicians experienced in the use of chemotherapeutic agents.
+Dacogen administration must be initiated under the supervision of physicians experienced in the use of chemotherapeutic medicinal products.
 
 Posology
 In a treatment cycle, Dacogen is administered at a dose of 20 mg/m2 body surface area by intravenous infusion over 1 hour repeated daily for 5 consecutive days (i.e., a total of 5 doses per treatment cycle).
@@ -13,7 +13,6 @@ Treatment may be continued as long as the patient shows response, continues to b
 If after 4 cycles, the patient’s haematological values (e.g., platelet counts or absolute neutrophil count), have not returned to pre-treatment levels or if disease progression occurs (peripheral blast counts are increasing or bone marrow blast counts are worsening), the patient may be considered to be a non-responder and alternative therapeutic options to Dacogen should be considered.
 
 Pre-medication for the prevention of nausea and vomiting is not routinely recommended but may be administered if required.
-
 Management of myelosuppression and associated complications
 Myelosuppression and adverse events related to myelosuppression (thrombocytopaenia, anaemia, neutropaenia, and febrile neutropaenia) are common in both treated and untreated patients with AML.
 Complications of myelosuppression include infections and bleeding.
