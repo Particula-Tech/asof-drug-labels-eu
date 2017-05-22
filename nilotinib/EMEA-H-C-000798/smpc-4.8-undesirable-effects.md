@@ -21,7 +21,6 @@ No decrease from baseline in mean left ventricular ejection fraction (LVEF) was 
 No patient had a LVEF of <45% during treatment nor an absolute reduction in LVEF of more than 15%.
 
 Discontinuation due to adverse drug reactions was observed in 10% of patients.
-
 Most frequently reported adverse reactions in Tasigna clinical studies
 Non-haematological adverse reactions (excluding laboratory abnormalities) that are reported in at least 5% of the patients treated with 300 mg of nilotinib twice daily in the randomised Phase III study are shown in Table 2.
 These are ranked under heading of frequency, with the most frequent appearing first, using one decimal precision for percentages and the following convention: very common (≥1/10) or common (≥1/100 to <1/10).
@@ -60,12 +59,11 @@ These adverse reactions are included based on clinical relevance and ranked in o
 
 Infections and infestations:
 Common: folliculitis, upper respiratory tract infection (including pharyngitis, nasopharyngitis, rhinitis).
-Not known: herpes virus infection, oral candidiasis, subcutaneous abscess, anal abscess, tinea pedis.
+Not known: herpes virus infection, oral candidiasis, subcutaneous abscess, anal abscess, tinea pedis, hepatitis B reactivation.
 
 Neoplasms benign, malignant and unspecified (including cysts and polyps):
 Common: skin papilloma.
 Not known: oral papilloma, paraproteinaemia.
-
 Blood and lymphatic system disorders:
 Common: leukopenia, eosinophilia, lymphopenia.
 Uncommon: pancytopenia.
@@ -86,6 +84,7 @@ Not known: hyperuricaemia, hypoglycaemia, appetite disorder.
 Psychiatric disorders:
 Common: insomnia, depression, anxiety.
 Not known: amnesia, dysphoria.
+
 Nervous system disorders:
 Common: dizziness, hypoaesthesia, peripheral neuropathy.
 Uncommon: ischaemic stroke, cerebral infarction, migraine, paraesthesia.
@@ -109,7 +108,6 @@ Vascular disorders:
 Common: hypertension, flushing.
 Uncommon: intermittent claudication, peripheral arterial occlusive disease, arteriosclerosis.
 Not known: haematoma, peripheral artery stenosis.
-
 Respiratory, thoracic and mediastinal disorders:
 Common: dyspnoea, cough.
 Uncommon: pleural effusion.
@@ -130,6 +128,7 @@ Skin and subcutaneous tissue disorders:
 Common: erythema, hyperhidrosis, contusion, acne, dermatitis (including allergic, exfoliative and acneiform), night sweats, eczema.
 Uncommon: drug eruption, skin pain.
 Not known: erythema multiforme, urticaria, blister, dermal cyst, sebaceous hyperplasia, swelling face, skin atrophy, skin hypertrophy, skin exfoliation, skin hyperpigmentation, skin discolouration, hyperkeratosis, psoriasis.
+
 Musculoskeletal and connective tissue disorders:
 Common: bone pain, back pain, muscular weakness.
 Uncommon: musculoskeletal pain, flank pain.
@@ -150,7 +149,6 @@ Investigations:
 Very common: alanine aminotransferase increased, aspartate aminotransferase increased, lipase increased, lipoprotein cholesterol (including low density and high density) increased, total cholesterol increased, blood triglycerides increased.
 Common: haemoglobin decreased, blood amylase increased, blood alkaline phosphatase increased, gamma-glutamyltransferase increased, weight increased, blood insulin increased, globulins decreased.
 Not known: blood parathyroid hormone increased, blood insulin decreased, insulin C-peptide decreased, weight decreased.
-
 Clinically relevant or severe abnormalities of routine haematological or biochemistry laboratory values are presented in Table 3.
 
 Table 3 Grade 3-4 laboratory abnormalities*
@@ -174,6 +172,12 @@ Table 3 Grade 3-4 laboratory abnormalities*
 | - Elevated triglycerides | 0 |
 
 *Percentages with one decimal precision are used and rounded to integer for presentation in this table.
+
+Description of selected adverse reactions
+Hepatitis B reactivation
+Hepatitis B reactivation has been reported in association with BCR-ABL TKIs.
+Some cases resulted in acute hepatic failure or fulminant hepatitis leading to liver transplantation or a fatal outcome (see section 4.4).
+
 Postmarketing experience
 The following adverse reactions have been derived from post-marketing experience with Tasigna via spontaneous case reports, literature cases, expanded access programmes, and clinical studies other than the global registration trials.
 Since these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to nilotinib exposure.
@@ -205,6 +209,7 @@ Treatment-emergent haematological toxicities include myelosuppression: thrombocy
 Pleural and pericardial effusions as well as complications of fluid retention occurred in <1% of patients receiving Tasigna.
 Cardiac failure was observed in <1% of patients.
 Gastrointestinal and CNS haemorrhage were reported in 1% and <1% of patients, respectively.
+
 QTcF exceeding 500 msec was observed in <1% of patients.
 No episodes of torsade de pointes (transient or sustained) were observed.
 
@@ -248,9 +253,8 @@ These are ranked under heading of frequency; with the most frequent appearing fi
 **Also includes preferred term anorexia
 
 The following adverse reactions were reported in patients in the Tasigna clinical studies at a frequency of less than 5%.
-
 Uncommon: pneumonia, urinary tract infection, gastroenteritis, bronchitis, herpes virus infection, candidiasis (including oral candidiasis).
-Not known: sepsis, subcutaneous abscess, anal abscess, furuncle, tinea pedis.
+Not known: sepsis, subcutaneous abscess, anal abscess, furuncle, tinea pedis, hepatitis B reactivation.
 
 Common: leukopenia, eosinophilia, febrile neutropenia, pancytopenia, lymphopenia.
 Uncommon: thrombocythaemia, leukocytosis.
@@ -261,6 +265,7 @@ Not known: hyperparathyroidism secondary, thyroiditis.
 Common: electrolyte imbalance (including hypomagnesaemia, hyperkalaemia, hypokalaemia, hyponatraemia, hypocalcaemia, hypercalcaemia, hyperphosphataemia), diabetes mellitus, hyperglycaemia, hypercholesterolaemia, hyperlipidaemia, hypertriglyceridaemia.
 Uncommon: dehydration, increased appetite, gout, dyslipidaemia.
 Not known: hyperuricaemia, hypoglycaemia.
+
 Common: depression, insomnia, anxiety.
 Not known: disorientation, confusional state, amnesia, dysphoria.
 
@@ -273,7 +278,6 @@ Uncommon: visual impairment, vision blurred, conjunctival haemorrhage, visual ac
 Not known: papilloedema, chorioretinopathy, diplopia, photophobia, eye swelling, blepharitis, eye pain, conjunctivitis allergic, ocular surface disease.
 
 Not known: hearing impaired, ear pain, tinnitus.
-
 Cardiac disorders:
 Common: angina pectoris, arrhythmia (including atroventricular block, cardiac flutter, extrasystoles, tachycardia, atrial fibrillation, bradycardia), palpitations, electrocardiogram QT prolonged.
 Uncommon: cardiac failure, myocardial infarction, coronary artery disease, cardiac murmur, pericardial effusion, cyanosis.
@@ -290,6 +294,7 @@ Not known: pulmonary hypertension, wheezing, oropharyngeal pain.
 Common: pancreatitis, abdominal discomfort, abdominal distension, dysgeusia, flatulence.
 Uncommon: gastrointestinal haemorrhage, melaena, mouth ulceration, gastroesophageal reflux, stomatitis, oesophageal pain, dry mouth, gastritis, sensitivity of teeth.
 Not known: gastrointestinal ulcer perforation, retroperitoneal haemorrhage, haematemesis, gastric ulcer, oesophagitis ulcerative, subileus, enterocolitis, haemorrhoids, hiatus hernia, rectal haemorrhage, gingivitis.
+
 Uncommon: hepatotoxicity, toxic hepatitis, jaundice.
 Not known: cholestasis, hepatomegaly.
 
@@ -307,7 +312,6 @@ Not known: renal failure, haematuria, urinary incontinence, chromaturia.
 
 Uncommon: breast pain, gynaecomastia, erectile dysfunction.
 Not known: breast induration, menorrhagia, nipple swelling.
-
 Common: chest pain (including non-cardiac chest pain), pain, pyrexia, chest discomfort, malaise.
 Uncommon: face oedema, gravitational oedema, influenza-like illness, chills, feeling body temperature change (including feeling hot, feeling cold).
 Not known: localised oedema.

@@ -8,7 +8,6 @@ There are no or limited amount of data from the use of nilotinib in pregnant wom
 Studies in animals have shown reproductive toxicity (see section 5.3).
 Tasigna should not be used during pregnancy unless the clinical condition of the woman requires treatment with nilotinib.
 If it is used during pregnancy, the patient must be informed of the potential risk to the foetus.
-
 Breast-feeding
 It is unknown whether nilotinib is excreted in human milk.
 Available toxicological data in animals have shown excretion of nilotinib in milk (see section 5.3).

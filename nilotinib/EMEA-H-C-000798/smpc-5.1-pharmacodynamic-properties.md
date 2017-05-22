@@ -31,7 +31,6 @@ Subsequent analyses reflect when patients completed 24, 36, 48, 60 and 72 months
 The median time on treatment was approximately 70 months in the nilotinib treatment groups and 64 months in the imatinib group.
 The median actual dose intensity was 593 mg/day for nilotinib 300 mg twice daily, 772 mg/day for nilotinib 400 mg twice daily and 400 mg/day for imatinib 400 mg once daily.
 This study is ongoing.
-
 The primary efficacy endpoint was major molecular response (MMR) at 12 months.
 MMR was defined as ≤0.1% BCR-ABL/ABL% by international scale (IS) measured by RQ-PCR, which corresponds to a ≥3 log reduction of BCR-ABL transcript from standardised baseline.
 The MMR rate at 12 months was statistically significantly higher for nilotinib 300 mg twice daily compared to imatinib 400 mg once daily (44.3% versus 22.3%, p<0.0001).
@@ -67,17 +66,15 @@ A total of 305 (36.1%) of all patients were not evaluable for MMR at 48 months (
 A total of 322 (38.1%) of all patients were not evaluable for MMR at 60 months (99 in the nilotinib 300 mg twice daily group, 93 in the nilotinib 400 mg twice daily group and 130 in the imatinib group) due to missing/unevaluable PCR assessments (n=9), atypical transcripts at baseline (n=8) or discontinuation prior to the 60-month time point (n=305).
 5 Only patients who were in MMR at a specific time point are included as responders for that time point.
 A total of 395 (46.7%) of all patients were not evaluable for MMR at 72 months (130 in the nilotinib 300 mg twice daily group, 110 in the nilotinib 400 mg twice daily group and 155 in the imatinib group) due to missing/unevaluable PCR assessments (n=25), atypical transcripts at baseline (n=8) or discontinuation prior to the 72-month time point (n=362).
-
 MMR rates by different time points (including patients who achieved MMR at or before those time points as responders) are presented in the cumulative incidence of MMR (see Figure 1).
+
 Figure 1 Cumulative incidence of MMR
 
 100 Tasigna 300 mg twice daily (n = 282)
 Tasigna 400 mg twice daily (n = 281)
-90 80 Imatinib 400 mg once daily (n = 283) By 2 years By 3 years 76%; P < .0001 By 4 years 77%; P < .0001 By 5 years 79%; P < .0001 By 6 years
-70 71%; P < .0001 73%; P < .0001 77%; P < .0001 77%; P < .0001
+908070 Imatinib 400 mg once daily (n = 283) 71%; P < .0001 By 2 years 73%; P < .0001 By 3 years 76%; P < .0001 By 4 years 77%; P < .0001 77%; P < .0001 By 5 years 79%; P < .0001 77%; P < .0001 By 6 years
 73%; P < .0001
-60 By 1 year 70%; P < .0001
-55%; P < .0001 P < .0001 61%; 60% 61%
+60 55%; P < .0001 By 1 year P < .0001 61%; 70%; P < .0001 60% 61%
 50 P < .0001 51%; 53% 56%
 
 40
@@ -92,7 +89,6 @@ Tasigna 400 mg twice daily (n = 281)
 
 0
 0 6 12 18 24 30 36 42 48 54 60 66 72
-
 Months Since Randomisation
 
 For all Sokal risk groups, the MMR rates at all time points remained consistently higher in the two nilotinib groups than in the imatinib group.
@@ -101,9 +97,9 @@ In a retrospective analysis, 91% (234/258) of patients on nilotinib 300 mg twice
 Patients with BCR-ABL levels ≤10% at 3 months of treatment show a greater overall survival at 72 months compared to those who did not achieve this molecular response level (94.5% vs. 77.1% respectively [p=0.0005]).
 
 Based on the Kaplan-Meier analysis of time to first MMR the probability of achieving MMR at different time points was higher for both nilotinib at 300 mg and 400 mg twice daily compared to imatinib 400 mg once daily (HR=2.17 and stratified log-rank p<0.0001 between nilotinib 300 mg twice daily and imatinib 400 mg once daily, HR=1.88 and stratified log-rank p<0.0001 between nilotinib 400 mg twice daily and imatinib 400 mg once daily).
-
 The proportion of patients who had a molecular response of ≤0.01% and ≤0.0032% by IS at different time points are presented in Table 6 and the proportion of patients who had a molecular response of ≤0.01% and ≤0.0032% by IS by different time points are presented in Figures 2 and 3.
 Molecular responses of ≤0.01% and ≤0.0032% by IS correspond to a ≥4 log reduction and ≥4.5 log reduction, respectively, of BCR-ABL transcripts from a standardised baseline.
+
 Table 6 Proportions of patients who had molecular response of ≤0.01% (4 log reduction) and ≤0.0032% (4.5 log reduction)
 
 |  | Tasigna 300 mg twice daily n=282 (%) |  | Tasigna 400 mg twice daily n=281 (%) |  | Imatinib 400 mg once daily n=283 (%) |  |
@@ -129,7 +125,8 @@ By 4 years
 60 50%; P < .0001 By 3 years 56%; P < .0001 P < .0001 63%; 65%; P < .0001
 50 By 2 years
 40 20%; P < .0001 By 1 year 39%; P < .0001 P < .0001 44%; 50%; P < .0001 42% 43%
-30 20 15%; P = .0004 P < .0001 33%; 26% 32%
+30 15%; P = .0004 33%; 32%
+20 P < .0001 26%
 18%
 
 10
@@ -142,33 +139,34 @@ Months Since Randomisation
 Figure 3 Cumulative incidence of molecular response of ≤0.0032% (4.5 log reduction)
 
 100 Tasigna 300 mg twice daily (n = 282)
+
 Tasigna 400 mg twice daily (n = 281)
 90 Imatinib 400 mg once daily (n = 283)
 
 80
 
 70
-
 60 54%; P < .0001 By 5 years 56%; P < .0001 By 6 years
+
 50 40%; P < .0001 By 4 years 52%; 55%; P < .0001
 40 By 3 years P < .0001
 30 11%; P < .0001 By 1 year 25%; P < .0001 By 2 years 32%; P < .0001 P = .0002 37%; 31% 33%
 20 7%; P < .0001 P = .0003 28%; 23%
 1% 19%;
 10 P = .0006 15%
-9%
 
+9%
 0
 0 6 12 18 24 30 36 42 48 54 60 66 72
 
 Months Since Randomisation
 
 Based on Kaplan-Meier estimates of the duration of first MMR, the proportions of patients who were maintaining response for 72 months among patients who achieved MMR were 92.5% (95% CI: 88.6-96.4%) in the nilotinib 300 mg twice daily group, 92.2% (95% CI: 88.5-95.9%) in the nilotinib 400 mg twice daily group and 88.0% (95% CI: 83.0-93.1%) in the imatinib 400 mg once daily group.
-
 Complete cytogenetic response (CCyR) was defined as 0% Ph+ metaphases in the bone marrow based on a minimum of 20 metaphases evaluated.
 Best CCyR rate by 12 months (including patients who achieved CCyR at or before the 12 month time point as responders) was statistically higher for both nilotinib 300 mg and 400 mg twice daily compared to imatinib 400 mg once daily, see Table 7.
 
 CCyR rate by 24 months (includes patients who achieved CCyR at or before the 24 month time point as responders) was statistically higher for both the nilotinib 300 mg twice daily and 400 mg twice daily groups compared to the imatinib 400 mg once daily group.
+
 Table 7 Best complete cytogenetic response (CCyR) rate
 
 |  | Tasigna (nilotinib) 300 mg twice daily n=282 (%) | Tasigna (nilotinib) 400 mg twice daily n=281 (%) | Glivec (imatinib) 400 mg once daily n=283 (%) |
@@ -191,12 +189,12 @@ No new events of progressions to AP/BC were reported on-treatment since the 2-ye
 
 Including clonal evolution as a criterion for progression, a total of 25 patients progressed to accelerated phase or blast crisis on treatment by the cut-off date (3 in the nilotinib 300 mg twice daily group, 5 in the nilotinib 400 mg twice daily group and 17 in the imatinib 400 mg once daily group).
 The estimated rates of patients free from progression to accelerated phase or blast crisis including clonal evolution at 72 months were 98.7%, 97.9% and 93.2%, respectively (HR=0.1626 and stratified log-rank p=0.0009 between nilotinib 300 mg twice daily and imatinib once daily, HR=0.2848 and stratified log-rank p=0.0085 between nilotinib 400 mg twice daily and imatinib once daily).
-
 A total of 55 patients died during treatment or during the follow-up after discontinuation of treatment.
 (21 in the nilotinib 300 mg twice daily group, 11 in the nilotinib 400 mg twice daily group and 23 in the imatinib 400 mg once daily group).
 Twenty-six (26) of these 55 deaths were related to CML (6 in the nilotinib 300 mg twice daily group, 4 in the nilotinib 400 mg twice daily group and 16 in the imatinib 400 mg once daily group).
 The estimated rates of patients alive at 72 months were 91.6%, 95.8% and 91.4%, respectively (HR=0.8934 and stratified log-rank p=0.7085 between nilotinib 300 mg twice daily and imatinib, HR=0.4632 and stratified log-rank p=0.0314 between nilotinib 400 mg twice daily and imatinib).
 Considering only CML-related deaths as events, the estimated rates of overall survival at 72 months were 97.7%, 98.5% and 93.9%, respectively (HR=0.3694 and stratified log-rank p=0.0302 between nilotinib 300 mg twice daily and imatinib, HR=0.2433 and stratified log-rank p=0.0061 between nilotinib 400 mg twice daily and imatinib).
+
 Paediatric population
 The European Medicines Agency has deferred the obligation to submit the results of studies with Tasigna in paediatric patients from birth to less than 18 years in the treatment of Philadelphia chromosome positive chronic myeloid leukaemia (see section 4.2 for information on paediatric use).
 
@@ -244,10 +242,12 @@ Resistance to imatinib included failure to achieve a complete haematological res
 Imatinib intolerance included patients who discontinued imatinib because of toxicity and were not in major cytogenetic response at time of study entry.
 
 Overall, 73% of patients were imatinib-resistant, while 27% were imatinib-intolerant.
-The majority of patients had a long history of CML that included extensive prior treatment with other antineoplastic agents, including imatinib, hydroxyurea, interferon, and some had even failed organ transplant (Table 9).
+The majority of patients had a long history of CML that included extensive prior treatment with other antineoplastic agents, including imatinib, hydroxyurea, interferon, and some had even failed organ transplant
+(Table 9).
 The median highest prior imatinib dose had been 600 mg/day.
 The highest prior imatinib dose was ≥600 mg/day in 74% of all patients, with 40% of patients receiving imatinib doses
 ≥800 mg/day.
+
 Table 9 CML disease history characteristics
 
 |  | Chronic phase (n=321) | Accelerated phase (n=137)* |
@@ -260,7 +260,6 @@ Table 9 CML disease history characteristics
 | Prior bone marrow transplant | 7% | 8% |
 
 * Missing information on imatinib-resistant/intolerant status for one patient.
-
 The primary endpoint in the CP patients was major cytogenetic response (MCyR), defined as elimination (CCyR, complete cytogenetic response) or significant reduction to <35% Ph+ metaphases (partial cytogenetic response) of Ph+ haematopoietic cells.
 Complete haematological response (CHR) in CP patients was evaluated as a secondary endpoint.
 The primary endpoint in the AP patients was overall confirmed haematological response (HR), defined as either a complete haematological response, no evidence of leukaemia or return to chronic phase.
@@ -287,6 +286,7 @@ Median duration of MCyR was 32.7 months.
 The estimated 24-month overall survival rate in CML-AP patients was 70%.
 
 The rates of response for the two treatment arms are reported in Table 10.
+
 Table 10 Response in CML
 
 | (Best Response Rate) | Chronic Phase |  |  | Accelerated Phase |  |  |
@@ -299,7 +299,6 @@ Table 10 Response in CML
 
 NEL = no evidence of leukaemia/marrow response
 1 114 CP patients had a CHR at baseline and were therefore not assessable for complete haematological response
-
 Efficacy data in patients with CML-BC are not yet available.
 Separate treatment arms were also included in the Phase II study to investigate Tasigna in a group of CP and AP patients who had been extensively pre-treated with multiple therapies including a tyrosine kinase inhibitor agent in addition to imatinib.
 Of these patients 30/36 (83%) were treatment resistant not intolerant.

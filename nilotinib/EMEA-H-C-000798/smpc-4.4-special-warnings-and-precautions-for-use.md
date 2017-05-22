@@ -21,7 +21,6 @@ In particular, no episodes of torsade de pointes (transient or sustained) were o
 Significant prolongation of the QT interval may occur when nilotinib is inappropriately taken with strong CYP3A4 inhibitors and/or medicinal products with a known potential to prolong QT, and/or food (see section 4.5).
 The presence of hypokalaemia and hypomagnesaemia may further enhance this effect.
 Prolongation of the QT interval may expose patients to the risk of fatal outcome.
-
 Tasigna should be used with caution in patients who have or who are at significant risk of developing prolongation of QTc, such as those:
 
 - with congenital long QT prolongation
@@ -50,6 +49,13 @@ Patients should be advised to seek immediate medical attention if they experienc
 The cardiovascular status of patients should be evaluated and cardiovascular risk factors monitored and actively managed during Tasigna therapy according to standard guidelines.
 Appropriate therapy should be prescribed to manage cardiovascular risk factors (see section 4.2 for instructions on managing non-haematological toxicities).
 
+Hepatitis B reactivation
+Reactivation of hepatitis B in patients who are chronic carriers of this virus has occurred after these patients received BCR-ABL tyrosine kinase inhibitors.
+Some cases resulted in acute hepatic failure or fulminant hepatitis leading to liver transplantation or a fatal outcome.
+
+Patients should be tested for HBV infection before initiating treatment with Tasigna.
+Experts in liver disease and in the treatment of hepatitis B should be consulted before treatment is initiated in patients with positive hepatitis B serology (including those with active disease) and for patients who test positive for HBV infection during treatment.
+Carriers of HBV who require treatment with Tasigna should be closely monitored for signs and symptoms of active HBV infection throughout therapy and for several months following termination of therapy (see section 4.8).
 Laboratory tests and monitoring
 Blood lipids
 In a Phase III study in newly diagnosed CML patients, 1.1% of the patients treated with 400 mg nilotinib twice daily showed a Grade 3-4 elevation in total cholesterol; no Grade 3-4 elevations were however observed in the 300 mg twice daily dose group (see section 4.8).
@@ -60,6 +66,7 @@ Blood glucose
 In a Phase III study in newly diagnosed CML patients, 6.9% and 7.2% of the patients treated with 400 mg nilotinib and 300 mg nilotinib twice daily, respectively, showed a Grade 3-4 elevation in blood glucose.
 It is recommended that the glucose levels be assessed before initiating treatment with Tasigna and monitored during treatment, as clinically indicated (see section 4.2).
 If test results warrant therapy, physicians should follow their local standards of practice and treatment guidelines.
+
 Interactions with other medicinal products
 The administration of Tasigna with agents that are strong CYP3A4 inhibitors (including, but not limited to, ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir) should be avoided.
 Should treatment with any of these agents be required, it is recommended that therapy with Tasigna be interrupted if possible (see section 4.5).
@@ -83,7 +90,6 @@ The predicted steady-state Cmax of nilotinib showed an increase of 29%, 18% and 
 Clinical studies have excluded patients with alanine transaminase (ALT) and/or aspartate transaminase (AST) >2.5 (or >5, if related to disease) times the upper limit of the normal range and/or total bilirubin >1.5 times the upper limit of the normal range.
 Metabolism of nilotinib is mainly hepatic.
 Patients with hepatic impairment might therefore have increased exposure to nilotinib and should be treated with caution (see section 4.2).
-
 Serum lipase
 Elevation in serum lipase has been observed.
 Caution is recommended in patients with previous history of pancreatitis.

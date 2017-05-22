@@ -36,6 +36,7 @@ There was no relevant increase in exposure to nilotinib when the dose was increa
 
 Steady-state conditions were essentially achieved by day 8.
 An increase in serum exposure to nilotinib between the first dose and steady state was approximately 2-fold for daily dosing and 3.8-fold for twice-daily dosing.
+
 Bioavailability/bioequivalence studies
 Single-dose administration of 400 mg nilotinib, using 2 hard capsules of 200 mg whereby the content of each hard capsule was dispersed in one teaspoon of apple sauce, was shown to be bioequivalent with a single-dose administration of 2 intact hard capsules of 200 mg.
 

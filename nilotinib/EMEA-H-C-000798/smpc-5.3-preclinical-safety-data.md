@@ -22,12 +22,12 @@ Exposures (in terms of AUC) at the highest dose level represented approximately 
 In the 26-week Tg.rasH2 mouse carcinogenicity study, in which nilotinib was administered at 30, 100 and 300 mg/kg/day, skin papillomas/carcinomas were detected at 300 mg/kg, representing approximately 30 to 40 times (based on AUC) the human exposure at the maximum approved dose of 800 mg/day (administered as 400 mg twice daily).
 The No-Observed-Effect-Level for the skin neoplastic lesions was 100 mg/kg/day, representing approximately 10 to 20 times the human exposure at the maximum approved dose of 800 mg/day (administered as 400 mg twice daily).
 The major target organs for non-neoplastic lesions were the skin (epidermal hyperplasia), the growing teeth (degeneration/atrophy of the enamel organ of upper incisors and inflammation of the gingiva/odontogenic epithelium of incisors) and the thymus (increased incidence and/or severity of decreased lymphocytes).
-
 Nilotinib did not induce teratogenicity, but did show embryo- and foetotoxicity at doses that also showed maternal toxicity.
 Increased post-implantation loss was observed in both the fertility study, which involved treatment of both males and females, and the embryotoxicity study, which involved treatment of females.
 Embryo-lethality and foetal effects (mainly decreased foetal weights, premature fusion of the facial bones (fused maxilla/zygomatic) visceral and skeletal variations) in rats and increased resorption of foetuses and skeletal variations in rabbits were present in the embryotoxicity studies.
 In a pre- and postnatal development study in rats, maternal exposure to nilotinib caused reduced pup body weight with associated changes in physical development parameters as well as reduced mating and fertility indices in the offspring.
 Exposure to nilotinib in females at No-Observed-Adverse-Effect-Levels was generally less or equal to that in humans at 800 mg/day.
+
 In a juvenile development study, nilotinib was administered via oral gavage to juvenile rats from the first week post partum through young adult (day 70 post partum) at doses of 2, 6 and 20 mg/kg/day.
 Besides standard study parameters, evaluations of developmental landmarks, CNS effects, mating and fertility were performed.
 Based on a reduction in body weight in both genders and a delayed preputial separation in males (which may be associated with the reduction in weight), the No-Observed-Effect-Level in juvenile rats was considered to be 6 mg/kg/day.
