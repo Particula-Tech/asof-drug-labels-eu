@@ -5,6 +5,7 @@ Epivir 150 mg Film-coated tablets
 Child resistant HDPE bottles or PVC/aluminium foil blister packs each containing 60 tablets.
 
 Epivir 300 mg Film-coated tablets
+
 Child resistant HDPE bottles or PVC/aluminium foil blister packs each containing 30 tablets
 
 [Epivir 10 mg/ml oral solution]

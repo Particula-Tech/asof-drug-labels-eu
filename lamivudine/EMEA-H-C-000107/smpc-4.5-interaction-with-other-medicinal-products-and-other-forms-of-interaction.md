@@ -1,6 +1,6 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
-Interaction studies have only been performed in adults
+Interaction studies have only been performed in adults.
 
 The likelihood of metabolic interactions is low due to limited metabolism and plasma protein binding and almost complete renal clearance.
 

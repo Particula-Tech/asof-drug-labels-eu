@@ -5,7 +5,7 @@ The therapy should be initiated by a physician experienced in the management of 
 Epivir may be administered with or without food.
 To ensure administration of the entire dose, the tablet(s) should ideally be swallowed without crushing.
 
-Epivir is also available as an oral solution for children over three months of age and who weigh less than 14 kg or for patients who are unable to swallow tablets.
+Epivir is also available as an oral solution for children over three months of age and who weigh less than 14 kg or for patients who are unable to swallow tablets (see section 4.4).
 
 Alternatively, for patients who are unable to swallow tablets, the tablet(s) may be crushed and added to a small amount of semi-solid food or liquid, all of which should be consumed immediately (see section 5.2).
 
@@ -30,7 +30,7 @@ Children from three months of age: As an accurate dosage cannot be achieved with
 Children less than three months of age: The limited data available are insufficient to propose specific dosage recommendations (see section 5.2).
 
 Patients changing from the twice daily dosing regimen to the once daily dosing regimen should take the recommended once daily dose (as described above) approximately 12 hours after the last twice daily dose, and then continue to take the recommended once daily dose (as described above) approximately every 24 hours.
-When changing back to a twice daily regimen, patients should take the recommended twice daily dose approximately 24 hours after the last once daily dose..
+When changing back to a twice daily regimen, patients should take the recommended twice daily dose approximately 24 hours after the last once daily dose.
 
 Special populations:
 
@@ -69,7 +69,9 @@ Based on these data, no dose adjustment is necessary in patients with moderate o
 
 [Epivir 10 mg/ml oral solution]
 
-Epivir is also available as a tablet formulation.
+Epivir is also available as a tablet formulation for patients who weigh at least 14 kg (see section 4.4).
+
+For patients who are unable to swallow tablets, the tablet(s) may be crushed and added to a small amount of semi-solid food or liquid, all of which should be consumed immediately (see section 5.2).
 
 This may be administered as either 150 mg (15 ml) twice daily or 300 mg (30 ml) once daily (see section 4.4).
 
@@ -77,7 +79,7 @@ Children from one year of age: The recommended dose is 4 mg/kg twice daily, or 8
 
 Children from three months to one year of age: The recommended dose is 4 mg/kg twice daily.
 If a twice daily regimen is not feasible, a once daily regimen (8 mg/kg/day) could be considered.
-It should be taken into account that data for the once daily regimen are very limited in this population (see sections 5.1 and 5.2).
+It should be taken into account that data for the once daily regimen are very limited in this population (see sections 4.4, 5.1 and 5.2).
 
 The dose should therefore be adjusted (see tables).
 

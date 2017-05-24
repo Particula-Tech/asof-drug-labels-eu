@@ -46,10 +46,12 @@ If Epivir is discontinued in patients co-infected with hepatitis B virus, period
 Patients with pre-existing liver dysfunction, including chronic active hepatitis, have an increased frequency of liver function abnormalities during combination antiretroviral therapy, and should be monitored according to standard practice.
 If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered (see section 4.8).
 
+Paediatric population: In a study performed in paediatric patients (see section 5.1 ARROW study), lower rates of virologic suppression and more frequent viral resistance were reported in children receiving the oral solution of Epivir as compared to those receiving the tablet formulation.
+Whenever possible in children, Epivir as tablet formulation should preferably be used.
+
 Osteonecrosis: Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
-
-Epivir should not be taken with any other medicinal products containing lamivudine or medicinal products containing emtricitabine (see section 4.5).
+Drug Interactions: Epivir should not be taken with any other medicinal products containing lamivudine or medicinal products containing emtricitabine (see section 4.5).
 
 The combination of lamivudine with cladribine is not-recommended (see section 4.5).
 
@@ -59,9 +61,8 @@ Renal impairment: In patients with moderate –to- severe renal impairment, the 
 
 There have been reports of mitochondrial dysfunction in HIV-negative infants exposed in utero and/or post-natally to nucleoside analogues, these have predominantly concerned treatment with regimens containing zidovudine.
 
-Weight and metabolic parameters:An increase in weight and in levels of blood lipids and glucose may occur during antiretroviral therapy.
+Excipients: Diabetic patients should be advised that each dose (150 mg = 15 ml) contains 3 g of sucrose.
 
-Diabetic patients should be advised that each dose (150 mg = 15 ml) contains 3 g of sucrose.
 Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicine.
 
 Epivir contains methyl parahydroxybenzoate and propyl parahydroxybenzoate.

@@ -40,6 +40,11 @@ Clinical end-point data indicate that lamivudine in combination with zidovudine,
 Evidence from clinical studies shows that lamivudine plus zidovudine delays the emergence of zidovudine resistant isolates in individuals with no prior antiretroviral therapy.
 
 Lamivudine has been widely used as a component of antiretroviral combination therapy with other antiretroviral agents of the same class (NRTIs) or different classes (PIs, non-nucleoside reverse transcriptase inhibitors).
+
+Clinical trial evidence from paediatric patients receiving lamivudine with other antiretroviral drugs (abacavir, nevirapine/efavirenz or zidovudine) has shown that the resistance profile observed in paediatric patients is similar to that observed in adults, in terms of the genotypic substitutions detected and their relative frequency.
+
+Children receiving lamivudine oral solution concomitantly with other antiretroviral oral solutions in clinical trials developed viral resistance more frequently than children receiving tablets (see the description of the clinical experience in paediatric population (ARROW study) and section 5.2).
+
 Multiple drug antiretroviral therapy containing lamivudine has been shown to be effective in antiretrovirally-naive patients as well as in patients presenting with viruses containing the M184V mutations.
 
 The relationship between in vitro susceptibility of HIV to lamivudine and clinical response to lamivudine-containing therapy remains under investigation.
@@ -52,9 +57,7 @@ Lamivudine has not been specifically investigated in HIV patients co-infected wi
 Once daily dosing (300 mg once a day): a clinical study has demonstrated the non inferiority between Epivir once a day and Epivir twice a day containing regimens.
 These results were obtained in an antiretroviral naïve-population, primarily consisting of asymptomatic HIV infected patients (CDC stage A).
 
-Paediatric population:
-
-A randomised comparison of a regimen including once daily vs twice daily dosing of abacavir and lamivudine was undertaken within a randomised, multicentre, controlled study of HIV-infected, paediatric patients.
+Paediatric population: a randomised comparison of a regimen including once daily vs twice daily dosing of abacavir and lamivudine was undertaken within a randomised, multicentre, controlled study of HIV-infected, paediatric patients.
 1206 paediatric patients aged 3 months to 17 years enrolled in the ARROW Trial (COL105677) and were dosed according to the weight - band dosing recommendations in the World Health Organisation treatment guidelines (Antiretroviral therapy of HIV infection in infants and children, 2006).
 After 36 weeks on a regimen including twice daily abacavir and lamivudine, 669 eligible subjects were randomised to either continue twice daily dosing or switch to once daily abacavir and lamivudine for at least 96 weeks.
 Of note, from this study clinical data were not available for children under one year old.
@@ -65,24 +68,46 @@ Virological Response Based on Plasma HIV-1 RNA less than 80 copies/ml at Week 48
 |  | Twice Daily N (%) | Once Daily N (%) |
 | --- | --- | --- |
 | Week 0 (After ≥36 Weeks on Treatment) |  |  |
-| Plasma HIV-1 RNA <80 c/mL | 250/331 (76) | 237/335 (71) |
+| Plasma HIV-1 RNA <80 c/ml | 250/331 (76) | 237/335 (71) |
 | Risk difference (once daily-twice daily) | -4.8% (95% CI -11.5% to +1.9%), p=0.16 |  |
 | Week 48 |  |  |
-| Plasma HIV-1 RNA <80 c/mL | 242/331 (73) | 236/330 (72) |
+| Plasma HIV-1 RNA <80 c/ml | 242/331 (73) | 236/330 (72) |
 | Risk difference (once daily-twice daily) | -1.6% (95% CI -8.4% to +5.2%), p=0.65 |  |
 | Week 96 |  |  |
-| Plasma HIV-1 RNA <80 c/mL | 234/326 (72) | 230/331 (69) |
+| Plasma HIV-1 RNA <80 c/ml | 234/326 (72) | 230/331 (69) |
 | Risk difference (once daily-twice daily) | -2.3% (95% CI -9.3% to +4.7%), p=0.52 |  |
 
 In a pharmacokinetic study (PENTA 15), four virologically controlled subjects less than 12 months of age switched from abacavir plus lamivudine oral solution twice daily to a once daily regimen.
 Three subjects had undetectable viral load and one had plasmatic HIV-RNA of 900 copies/ml at Week 48.
 No safety concerns were observed in these subjects.
-The abacavir + lamivudine once daily dosing group was demonstrated to be non-inferior to the twice daily group according to the pre-specified non-inferiority margin of -12%, for the primary endpoint of <80 c/mL at Week 48 as well as at Week 96 (secondary endpoint) and all other thresholds tested (<200c/mL, <400c/mL, <1000c/mL), which all fell well within this non-inferiority margin.
+
+The abacavir + lamivudine once daily dosing group was demonstrated to be non-inferior to the twice daily group according to the pre-specified non-inferiority margin of -12%, for the primary endpoint of <80 c/ml at Week 48 as well as at Week 96 (secondary endpoint) and all other thresholds tested (<200c/ml, <400c/ml, <1000c/ml), which all fell well within this non-inferiority margin.
 Subgroup analyses testing for heterogeneity of once vs twice daily demonstrated no significant effect of sex, age, or viral load at randomisation.
 Conclusions supported non-inferiority regardless of analysis method.
+
+At the time of randomization to once daily vs twice daily dosing (Week 0), those patients who had received tablet formulations had a higher rate of viral load suppression than those who had received any solution formulations at any time.
+These differences were observed in each different age group studied.
+This difference in suppression rates between tablets and solutions remained through Week 96 with once daily dosing.
+
+Proportions of Subjects in the Once Daily versus Twice Daily Abacavir+Lamivudine Randomisation of ARROW with Plasma HIV-1 RNA <80 copies/ml: Subgroup Analysis by Formulation
+
+|  | Twice Daily Plasma HIV-1 RNA <80 c/ml: n/N (%) | Once Daily Plasma HIV-1 RNA <80 c/ml: n/N (%) |
+| --- | --- | --- |
+| Week 0 (after 36 weeks on Treatment) |  |  |
+| Any solution regimen at any time | 14/26 (54) | 15/30 (50) |
+| All tablet based regimen throughouts | 236/305 (77) | 222/305 (73) |
+| Week 96 |  |  |
+| Any solution regimen at any time | 13/26 (50) | 17/30 (57) |
+| All tablet based regimen throughouts | 221/300 (74) | 213/301 (71) |
+
+Genotypic resistance analyses were conducted on samples with plasma HIV-1 RNA >1000 copies/ml.
+More cases of resistance were detected among patients who had received lamivudine solution, in combination with other antiretroviral solutions, compared with those who received similar doses of tablet formulation.
+This is consistent with the lower rates of antiviral suppression observed in these patients.
 
 [Epivir 10 mg/ml oral solution]
 
 The triphosphate has selective inhibitory activity against HIV-1 and HIV-2 replication in vitro; it is also active against zidovudine-resistant clinical isolates of HIV.
 
 However, for the treatment of HIV infection, only a 300 mg daily dose of lamivudine (in combination with other antiretroviral agents) has been shown to be efficacious.
+
+Paediatric population:a randomised comparison of a regimen including once daily vs twice daily dosing of abacavir and lamivudine was undertaken within a randomised, multicentre, controlled study of HIV-infected, paediatric patients.

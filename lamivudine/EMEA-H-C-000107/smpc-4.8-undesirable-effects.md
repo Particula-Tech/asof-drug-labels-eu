@@ -15,16 +15,16 @@ Very rare: Lactic acidosis
 
 Nervous system disorders
 Common: Headache, insomnia
-Very rare: peripheral neuropathy (or paraesthesia)
+Very rare: Peripheral neuropathy (or paraesthesia)
 
-Respiratory, thoracic and mediastinal disorders
+Respiratory, Thoracic and mediastinal disorders
 Common: Cough, nasal symptoms
 
 Gastrointestinal disorders
 Common: Nausea, vomiting, abdominal pain or cramps, diarrhoea
-Rare: Pancreatitis. elevations in serum amylase.
+Rare: Pancreatitis, elevations in serum amylase
 Hepatobiliary disorders
-Uncommon: Transient elevations in liver enzymes (AST, ALT).
+Uncommon: Transient elevations in liver enzymes (AST, ALT)
 Rare: Hepatitis
 
 Skin and subcutaneous tissue disorders
@@ -43,7 +43,7 @@ Weight and levels of blood lipids and glucose may increase during antiretroviral
 In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise.
 Autoimmune disorders (such as Graves’ disease) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
 
-Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term combined antiretroviral exposure (cART).
+Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term combined antiretroviral exposure (CART).
 The frequency of which is unknown (see section 4.4).
 
 Paediatric population
@@ -57,7 +57,3 @@ It allows continued monitoring of the benefit/risk balance of the medicinal prod
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system
 
 listed in Appendix V.
-
-[Epivir 10 mg/ml oral solution]
-
-Rare: Pancreatitis elevations in serum amylase.

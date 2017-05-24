@@ -3,17 +3,16 @@
 Pregnancy
 
 As a general rule, when deciding to use antiretroviral agents for the treatment of HIV infection in pregnant women and consequently for reducing the risk of HIV vertical transmission to the newborn, the animal data as well as the clinical experience in pregnant women should be taken into account.
-
 Animal studies with lamivudine showed an increase in early embryonic deaths in rabbits but not in rats (see section 5.3).
 Placental transfer of lamivudine has been shown to occur in humans.
 
 More than 1000 outcomes from first trimester and more than 1000 outcomes from second and third trimester exposure in pregnant women indicate no malformative and foeto/neonatal effect.
 Epivir can be used during pregnancy if clinically needed.
 The malformative risk is unlikely in humans based on those data.
+
 For patients co-infected with hepatitis who are being treated with lamivudine and subsequently become pregnant, consideration should be given to the possibility of a recurrence of hepatitis on discontinuation of lamivudine.
 
-Mitochondrial dysfunction:
-Nucleoside and nucleotide analogues have been demonstrated in vitro and in vivo to cause a variable degree of mitochondrial damage.
+Mitochondrial dysfunction: Nucleoside and nucleotide analogues have been demonstrated in vitro and in vivo to cause a variable degree of mitochondrial damage.
 There have been reports of mitochondrial dysfunction in infants exposed in utero and/or post-natally to nucleoside analogues (see section 4.4).
 
 Breast-feeding
