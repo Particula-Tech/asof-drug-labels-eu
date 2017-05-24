@@ -25,6 +25,7 @@ CEA and PSA were defined as follows:
 CEA: Clinician Erythema Assessment: 0=Clear skin with no signs of erythema, 1=Almost clear; slight redness, 2=Mild erythema; definite redness, 3=Moderate erythema+ marked redness and 4=Severe erythema+ fiery redness
 
 PSA: Patient Self-Assessment: 0=No redness, 1=Very mild redness, 2=Mild redness, 3=Moderate redness and 4=Severe redness
+
 Table 2: Percentage of subjects with a 2-grade improvement in both CEA and PSA
 
 | Success day 29 | Study 1 |  | Study 2 |  |
@@ -66,8 +67,8 @@ The overall frequencies of adverse reactions in this study are reflected in
 Table 1 above, with the highest rates occurring in the first 29 days of use.
 No adverse reactions had an increase in frequency over time, and there was no evidence that long-term use of
 Mirvaso conveyed an increased risk of occurrence of any specific type of adverse reaction.
-
 Concomitant use of Mirvaso with other medicinal products for the treatment of inflammatory lesions of rosacea has not been systematically investigated.
 However, in the long term open label study, the efficacy and safety of Mirvaso, as described above, was not affected by the concomitant use of cosmetics or other medicinal products (e.g. topical metronidazole, topical azelaic acid, and oral tetracyclines including low dose doxycycline) for the treatment of inflammatory lesions of rosacea in the concerned subpopulation (131/449 patients in the study used concomitant rosacea medicinal product).
+
 Paediatric population
 The European Medicines Agency has waived the obligation to submit the results of studies with Mirvaso in all subsets of the paediatric population in treatment of rosacea (see section 4.2 for information on paediatric use).

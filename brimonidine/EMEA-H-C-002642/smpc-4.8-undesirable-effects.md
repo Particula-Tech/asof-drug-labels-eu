@@ -13,9 +13,11 @@ Table 1 – Adverse reactions
 
 | System Organ Class | Frequency | Adverse reactions |
 | --- | --- | --- |
+| Cardiac disorders | Rare | Bradycardia* |
 | Nervous system disorders | Uncommon | Headache, paraesthesia |
 | Eye disorders | Uncommon | Eyelid oedema |
 | Vascular disorders | Common | Flushing, pallor at the application site* |
+|  | Uncommon | Dizziness* |
 |  | Rare | Hypotension* |
 | Respiratory, thoracic and mediastinal disorders | Uncommon | Nasal congestion |
 | Gastrointestinal disorders | Uncommon | Dry mouth |
@@ -25,6 +27,11 @@ Table 1 – Adverse reactions
 | General disorders and administration site conditions | Uncommon | Feeling hot, peripheral coldness |
 
 * Adverse reactions reported from post-marketing data.
+
+Description of selected adverse reactions
+Bradycardia and hypotension
+Post-marketing cases of bradycardia, hypotension (including orthostatic hypotension) and dizziness have been reported, some of which required hospitalization.
+Some cases involved application of Mirvaso following laser procedures (see section 4.4).
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

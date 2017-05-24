@@ -4,7 +4,10 @@ Posology
 
 One application per 24 hours, at any time suitable for the patient, for as long as facial erythema is present.
 
-The maximum daily recommended dose is 1 g of gel in total weight, divided into five pea size amounts.
+The maximum daily recommended dose is 1 g of gel in total weight, which corresponds to approximately five pea sized amounts.
+
+Treatment should be initiated with a smaller amount of gel (less than the maximum) for at least one week.
+The amount of gel can then be increased gradually based on tolerability and patient response.
 
 Special populations
 
@@ -22,13 +25,11 @@ Mirvaso should not be used in children or adolescents aged 2 to 18 years.
 Method of administration
 
 Cutaneous use only.
-Cutaneous application of a small pea size amount of medicinal product to each of the five areas of the face: forehead, chin, nose, each cheek.
 
-Mirvaso should be applied smoothly and evenly as a thin layer across the entire face avoiding the eyes, eyelids, lips, mouth and membrane of the inner nose.
+Mirvaso should be applied smoothly and evenly as a thin layer across the entire face (forehead, chin, nose and both cheeks) avoiding the eyes, eyelids, lips, mouth and membrane of the inner nose.
 Mirvaso should be applied only to the face.
 
 Hands should be washed immediately after applying the medicinal product.
 
 Mirvaso can be used in conjunction with other cutaneous medicinal products for the treatment of inflammatory lesions of rosacea and with cosmetics.
-These products should not be applied immediately before the daily application of Mirvaso; they may be used only after the applied
-Mirvaso has dried.
+These products should not be applied immediately before the daily application of Mirvaso; they may be used only after the applied Mirvaso has dried.

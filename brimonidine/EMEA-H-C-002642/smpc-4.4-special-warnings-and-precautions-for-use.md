@@ -1,7 +1,11 @@
 # 4.4 Special warnings and precautions for use
 
-Mirvaso should not be applied on irritated skin or open wounds.
+Mirvaso should not be applied on irritated skin (including following laser therapy) or open wounds.
 In case of severe irritation or contact allergy, the treatment with the medicinal product should be discontinued.
+
+Exacerbation of rosacea symptoms is very common in patients treated with Mirvaso.
+Across all clinical studies, 16% of patients receiving Mirvaso experienced an event of symptom exacerbation.
+Treatment should be initiated with a small amount of gel and the dose increased gradually, based on tolerability and response to treatment (see section 4.2).
 
 Erythema and Flushing
 The effect of Mirvaso topical gel begins to diminish hours after application.
@@ -19,12 +23,12 @@ Symptomatic measures, such as cooling, NSAID and antihistamines, may help in all
 Recurrences of aggravated erythema and flushing have been reported after re-administration of Mirvaso topical gel.
 Prior to resuming treatment after temporary discontinuation due to aggravated erythema or flushing, perform a test application on a small area of the face for at least one day before full facial application is resumed.
 
-It is important to inform the patient not to exceed the recommended dose and frequency of application: once daily use in a thin layer.
-
+It is important to inform the patient not to exceed the recommended maximum dose (5 pea size amounts) and frequency of application (once daily).
 Mirvaso should not be applied close to the eyes.
 
 Mirvaso has not been studied in patients with renal or hepatic impairment.
-Any increase in the daily amount applied and/or frequency of daily application of the medicinal product should be avoided, since the safety of higher daily doses or repeated daily application has not been assessed.
+
+Any increase in the daily amount applied above 5 pea sized amounts and/or increase in frequency of daily application of the medicinal product should be avoided, since the safety of higher daily doses or repeated daily application has not been assessed.
 
 The concomitant use of other systemic alpha adrenergic receptor agonists may potentiate the undesirable effects of this class of medicinal products in patients:
 
