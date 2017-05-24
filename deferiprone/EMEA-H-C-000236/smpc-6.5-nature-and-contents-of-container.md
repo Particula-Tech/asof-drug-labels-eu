@@ -2,6 +2,7 @@
 
 Ferriprox 500 mg film-coated tablets
 High density polyethylene (HDPE) bottles with child resistant closure (polypropylene).
+
 Each pack contains one bottle of 100 tablets.
 
 Ferriprox 1000 mg film-coated tablets

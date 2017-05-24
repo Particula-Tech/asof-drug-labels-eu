@@ -52,9 +52,10 @@ In these patients careful monitoring of liver histology is recommended.
 Discoloration of urine
 Patients should be informed that their urine may show a reddish/brown discoloration due to the excretion of the iron-deferiprone complex.
 
-Chronic overdose and neurological disorders
-Neurological disorders have been observed in children treated with 2.5 to 3 times the recommended dose for several years.
-Prescribers are reminded that the use of doses above 100 mg/kg/day are not recommended (see sections 4.8 and 4.9).
+Neurological disorders
+Neurological disorders have been observed in children treated with more than 2.5 times the maximum recommended dose for several years but have also been observed with standard doses of deferiprone.
+Prescribers are reminded that the use of doses above 100 mg/kg/day are not recommended.
+Deferiprone use should be discontinued if neurological disorders are observed (see sections 4.8 and 4.9).
 
 Combined use with other iron chelators
 The use of combination therapy should be considered on a case-by-case basis.

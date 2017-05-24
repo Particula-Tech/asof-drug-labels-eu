@@ -40,7 +40,9 @@ Low plasma zinc levels have been associated with deferiprone in a minority of pa
 The levels normalised with oral zinc supplementation.
 
 Neurological disorders (such as cerebellar symptoms, diplopia, lateral nystagmus, psychomotor slowdown, hand movements and axial hypotonia) have been observed in children who had been voluntarily prescribed more than 2.5 times the maximum recommended dose of 100 mg/kg/day for several years.
+Episodes of hypotonia, instability, inability to walk, and hypertonia with inability of limb movement, have been reported in children in the post-marketing setting with standard doses of deferiprone.
 The neurological disorders progressively regressed after deferiprone discontinuation (see sections 4.4 and 4.9).
+
 The safety profile of combination therapy (deferiprone and deferoxamine) observed in clinical trials, post-marketing experience or published literature was consistent with that characterized for monotherapy.
 
 Data from the pooled safety database from clinical trials (1343 patient-years exposure to Ferriprox monotherapy and 244 patient-years exposure to Ferriprox and deferoxamine) showed statistically significant (p<0.05) differences in the incidence of adverse reactions based on System Organ Class for “Cardiac disorders", "Musculoskeletal and connective tissue disorders” and "Renal and urinary disorders".
