@@ -60,6 +60,7 @@ The overall safety profile of these subjects was not different from that of the 
 The effects of desloratadine in poor metabolizers < 2 years of age have not been studied.
 
 In separate single dose studies, at the recommended doses, paediatric patients had comparable AUC and Cmax values of desloratadine to those in adults who received a 5 mg dose of desloratadine syrup.
+
 There is no evidence of clinically relevant active substance accumulation following once daily adult and adolescent dosing of desloratadine (5 mg to 20 mg) for 14 days.
 
 In a single dose, crossover study of desloratadine, the tablet and the syrup formulations were found to be bioequivalent.

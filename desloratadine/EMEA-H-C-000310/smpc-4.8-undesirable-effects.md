@@ -3,6 +3,7 @@
 Summary of the safety profile
 In clinical trials in a range of indications including allergic rhinitis and chronic idiopathic urticaria, at the recommended dose of 5 mg daily, undesirable effects with Azomyr were reported in 3 % of patients in excess of those treated with placebo.
 The most frequent of adverse reactions reported in excess of placebo were fatigue (1.2 %), dry mouth (0.8 %) and headache (0.6 %).
+
 Paediatric population
 In a clinical trial with 578 adolescent patients, 12 through 17 years of age, the most common adverse event was headache; this occurred in 5.9 % of patients treated with desloratadine and 6.9 % of patients receiving placebo.
 
@@ -13,7 +14,7 @@ Frequencies are defined as very common (≥1/10), common (≥1/100 to < 1/10), u
 
 | System Organ Class | Frequency | Adverse reactions seen with Azomyr |
 | --- | --- | --- |
-| Psychiatric disorders | Very rare | Hallucinations |
+| Psychiatric disorders | Very rare Not known | Hallucinations Abnormal behaviour, aggression |
 | Nervous system disorders | Common Very rare | Headache Dizziness, somnolence, insomnia, psychomotor hyperactivity, seizures |
 | Cardiac disorders | Very rare Not known | Tachycardia, palpitations QT prolongation |
 | Gastrointestinal disorders | Common Very rare | Dry mouth Abdominal pain, nausea, vomiting, dyspepsia, diarrhoea |
@@ -23,7 +24,7 @@ Frequencies are defined as very common (≥1/10), common (≥1/100 to < 1/10), u
 | General disorders and administration site conditions | Common Very rare Not known | Fatigue Hypersensitivity reactions (such as anaphylaxis, angioedema, dyspnoea, pruritus, rash, and urticaria) Asthenia |
 
 Paediatric population
-Other undesirable effects reported during the post-marketing period in paediatric patients with an unknown frequency included QT prolongation, arrhythmia, and bradycardia.
+Other undesirable effects reported during the post-marketing period in paediatric patients with an unknown frequency included QT prolongation, arrhythmia, bradycardia, abnormal behaviour, and aggression.
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
@@ -54,7 +55,7 @@ At the recommended dose, in clinical trials involving adults and adolescents in 
 
 | System Organ Class | Frequency | Adverse reactions seen with Azomyr |
 | --- | --- | --- |
-| Psychiatric disorders | Very rare | Hallucinations |
+| Psychiatric disorders | Very rare Not known | Hallucinations Abnormal behaviour, aggression |
 | Nervous system disorders | Common Common (children less than 2 years) Very rare | Headache Insomnia Dizziness, somnolence, insomnia, psychomotor hyperactivity, seizures |
 | Cardiac disorders | Very rare Not known | Tachycardia, palpitations QT prolongation |
 | Gastrointestinal disorders | Common Common (children less than 2 years) Very rare | Dry mouth Diarrhoea Abdominal pain, nausea, vomiting, dyspepsia, diarrhoea |

@@ -26,9 +26,9 @@ No significant differences were found in the psychomotor test results between de
 
 In patients with allergic rhinitis, Azomyr was effective in relieving symptoms such as sneezing, nasal discharge and itching, as well as ocular itching, tearing and redness, and itching of palate.
 Azomyr effectively controlled symptoms for 24 hours.
-
 Paediatric population
 The efficacy of Azomyr tablets has not been clearly demonstrated in trials with adolescent patients 12 through 17 years of age.
+
 In addition to the established classifications of seasonal and perennial, allergic rhinitis can alternatively be classified as intermittent allergic rhinitis and persistent allergic rhinitis according to the duration of symptoms.
 Intermittent allergic rhinitis is defined as the presence of symptoms for less than 4 days per week or for less than 4 weeks.
 Persistent allergic rhinitis is defined as the presence of symptoms for 4 days or more per week and for more than 4 weeks.
