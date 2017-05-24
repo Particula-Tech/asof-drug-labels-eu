@@ -2,6 +2,8 @@
 
 Summary of the safety profile
 The data described below reflect exposure to Tasigna in 279 patients from a randomised Phase III study in patients with newly diagnosed Ph+ CML in chronic phase treated with 300 mg of nilotinib twice daily.
+Safety information from a Tasigna treatment discontinuation study in CML patients who have been trated with Tasigna as first-line therapy is also provided.
+
 The median duration of exposure was 60.5 months (range 0.1-70.8 months).
 
 The most frequent (≥10%) non-haematological adverse reactions were rash, pruritus, headache, nausea, fatigue, alopecia, myalgia and upper abdominal pain.
@@ -21,10 +23,12 @@ No decrease from baseline in mean left ventricular ejection fraction (LVEF) was 
 No patient had a LVEF of <45% during treatment nor an absolute reduction in LVEF of more than 15%.
 
 Discontinuation due to adverse drug reactions was observed in 10% of patients.
+Tabulated list of adverse reactions
+The adverse reactions are ranked under heading of frequency using the following convention: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000) and not known (cannot be estimated from the available data).
+Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
 Most frequently reported adverse reactions in Tasigna clinical studies
 Non-haematological adverse reactions (excluding laboratory abnormalities) that are reported in at least 5% of the patients treated with 300 mg of nilotinib twice daily in the randomised Phase III study are shown in Table 2.
-These are ranked under heading of frequency, with the most frequent appearing first, using one decimal precision for percentages and the following convention: very common (≥1/10) or common (≥1/100 to <1/10).
-Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 2 Non-haematological adverse reactions (≥5% of all patients)*
 
@@ -60,10 +64,10 @@ These adverse reactions are included based on clinical relevance and ranked in o
 Infections and infestations:
 Common: folliculitis, upper respiratory tract infection (including pharyngitis, nasopharyngitis, rhinitis).
 Not known: herpes virus infection, oral candidiasis, subcutaneous abscess, anal abscess, tinea pedis, hepatitis B reactivation.
-
 Neoplasms benign, malignant and unspecified (including cysts and polyps):
 Common: skin papilloma.
 Not known: oral papilloma, paraproteinaemia.
+
 Blood and lymphatic system disorders:
 Common: leukopenia, eosinophilia, lymphopenia.
 Uncommon: pancytopenia.
@@ -173,6 +177,11 @@ Table 3 Grade 3-4 laboratory abnormalities*
 
 *Percentages with one decimal precision are used and rounded to integer for presentation in this table.
 
+Treatment discontinuation in Ph+ CML patients in chronic phase who have achieved a sustained deep molecular response
+After discontinuation of Tasigna therapy within the framework of attempting treatment-free remission (TFR), patients may experience musculoskeletal symptoms more frequently than before treatment discontinuation, e.g., myalgia, pain in extremity, arthralgia, bone pain, spinal pain or musculoskeletal pain.
+
+In a Phase II clinical study with newly diagnosed patients with Ph+ CML in chronic phase (N=190), musculoskeletal symptoms were reported within a year of Tasigna discontinuation in 24.7% versus 16.3% within the previous year on Tasigna treatment.
+
 Description of selected adverse reactions
 Hepatitis B reactivation
 Hepatitis B reactivation has been reported in association with BCR-ABL TKIs.
@@ -183,7 +192,6 @@ The following adverse reactions have been derived from post-marketing experience
 Since these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to nilotinib exposure.
 
 Frequency rare: Cases of tumour lysis syndrome have been reported in patients treated with Tasigna.
-
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
@@ -192,6 +200,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 [Tasigna 200 mg hard capsules]
 
 The data described below reflect exposure to Tasigna in a total of 717 patients from a randomised Phase III study in patients with newly diagnosed Ph+ CML in chronic phase treated at the recommended dose of 300 mg twice daily (n=279) and from an open-label multicentre Phase II study in patients with imatinib-resistant or intolerant CML in chronic phase (n=321) and accelerated phase (n=137) treated at the recommended dose of 400 mg twice daily.
+Safety information from two Tasigna treatment discontinuation studies is also provided.
 
 In patients with newly diagnosed CML in chronic phase
 
@@ -209,12 +218,10 @@ Treatment-emergent haematological toxicities include myelosuppression: thrombocy
 Pleural and pericardial effusions as well as complications of fluid retention occurred in <1% of patients receiving Tasigna.
 Cardiac failure was observed in <1% of patients.
 Gastrointestinal and CNS haemorrhage were reported in 1% and <1% of patients, respectively.
-
 QTcF exceeding 500 msec was observed in <1% of patients.
 No episodes of torsade de pointes (transient or sustained) were observed.
 
-Non-haematological adverse reactions (excluding laboratory abnormalities) that are reported in at least 5% of the patients in Tasigna clinical studies are shown in Table 2.
-These are ranked under heading of frequency; with the most frequent appearing first, using one decimal precision for percentages and the following convention: very common (≥1/10) or common (≥1/100 to <1/10).
+Non-haematological adverse reactions (excluding laboratory abnormalities) that are reported in at least 5% of the patients in Tasigna clinical studies that serve as the basis for the approved indications are shown in Table 2.
 
 |  | Newly diagnosed CML-CP 300 mg twice daily n=279 |  |  | Imatinib-resistant or intolerant CML-CP and CML-AP 400 mg twice daily n=458 |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -252,7 +259,10 @@ These are ranked under heading of frequency; with the most frequent appearing fi
 * Percentages are rounded to integer for presentation in this table.
 **Also includes preferred term anorexia
 
-The following adverse reactions were reported in patients in the Tasigna clinical studies at a frequency of less than 5%.
+The following adverse reactions were reported in patients in the Tasigna clinical studies which serve as a basis for the approved indications at a frequency of less than 5%.
+For laboratory abnormalities, very common adverse reactions not included in Table 2 are also reported.
+These adverse reactions are included based on clinical relevance.
+
 Uncommon: pneumonia, urinary tract infection, gastroenteritis, bronchitis, herpes virus infection, candidiasis (including oral candidiasis).
 Not known: sepsis, subcutaneous abscess, anal abscess, furuncle, tinea pedis, hepatitis B reactivation.
 
@@ -278,6 +288,7 @@ Uncommon: visual impairment, vision blurred, conjunctival haemorrhage, visual ac
 Not known: papilloedema, chorioretinopathy, diplopia, photophobia, eye swelling, blepharitis, eye pain, conjunctivitis allergic, ocular surface disease.
 
 Not known: hearing impaired, ear pain, tinnitus.
+
 Cardiac disorders:
 Common: angina pectoris, arrhythmia (including atroventricular block, cardiac flutter, extrasystoles, tachycardia, atrial fibrillation, bradycardia), palpitations, electrocardiogram QT prolonged.
 Uncommon: cardiac failure, myocardial infarction, coronary artery disease, cardiac murmur, pericardial effusion, cyanosis.
@@ -290,7 +301,6 @@ Not known: shock haemorrhagic, hypotension, thrombosis.
 Common: dyspnoea, dyspnoea exertional, epistaxis, cough, dysphonia.
 Uncommon: pulmonary oedema, pleural effusion, interstitial lung disease, pleuritic pain, pleurisy, pharyngolaryngeal pain, throat irritation.
 Not known: pulmonary hypertension, wheezing, oropharyngeal pain.
-
 Common: pancreatitis, abdominal discomfort, abdominal distension, dysgeusia, flatulence.
 Uncommon: gastrointestinal haemorrhage, melaena, mouth ulceration, gastroesophageal reflux, stomatitis, oesophageal pain, dry mouth, gastritis, sensitivity of teeth.
 Not known: gastrointestinal ulcer perforation, retroperitoneal haemorrhage, haematemesis, gastric ulcer, oesophagitis ulcerative, subileus, enterocolitis, haemorrhoids, hiatus hernia, rectal haemorrhage, gingivitis.
@@ -312,6 +322,7 @@ Not known: renal failure, haematuria, urinary incontinence, chromaturia.
 
 Uncommon: breast pain, gynaecomastia, erectile dysfunction.
 Not known: breast induration, menorrhagia, nipple swelling.
+
 Common: chest pain (including non-cardiac chest pain), pain, pyrexia, chest discomfort, malaise.
 Uncommon: face oedema, gravitational oedema, influenza-like illness, chills, feeling body temperature change (including feeling hot, feeling cold).
 Not known: localised oedema.
@@ -340,6 +351,8 @@ Not known: troponin increased, blood bilirubin unconjugated increased, blood ins
 | - Elevated triglycerides | 0 | ** | ** |
 
 *Percentages with one decimal precision are used and rounded to integer for presentation in this table **Parameters not collected
+
+In a Phase II clinical study with patients with Ph+ CML in chronic phase on Tasigna treatment and previously treated with imatinib (N=126), musculoskeletal symptoms were reported within a year of discontinuation in 42.1% versus 14.3% within the previous year on Tasigna treatment.
 
 Sudden death
 Uncommon cases (0.1 to 1%) of sudden deaths have been reported in Tasigna clinical trials and/or compassionate use programs in patients with imatinib-resistant or intolerant CML in chronic phase or accelerated phase with a past medical history of cardiac disease or significant cardiac risk factors (see section 4.4).

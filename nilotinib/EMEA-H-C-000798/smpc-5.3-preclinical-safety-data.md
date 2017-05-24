@@ -14,7 +14,6 @@ Only minor liver alterations were seen in mice or rats treated for up to 26 week
 Mainly reversible increases in cholesterol levels were seen in rats, dogs and monkeys.
 
 Genotoxicity studies in bacterial in vitro systems and in mammalian in vitro and in vivo systems with and without metabolic activation did not reveal any evidence for a mutagenic potential of nilotinib.
-
 In the 2-year rat carcinogenicity study, the major target organ for non-neoplastic lesions was the uterus (dilatation, vascular ectasia, endothelial cell hyperplasia, inflammation and/or epithelial hyperplasia).
 There was no evidence of carcinogenicity upon administration of nilotinib at 5, 15 and 40 mg/kg/day.
 Exposures (in terms of AUC) at the highest dose level represented approximately 2x to 3x human daily steady-state exposure (based on AUC) to nilotinib at the dose of 800 mg/day.
@@ -22,6 +21,7 @@ Exposures (in terms of AUC) at the highest dose level represented approximately 
 In the 26-week Tg.rasH2 mouse carcinogenicity study, in which nilotinib was administered at 30, 100 and 300 mg/kg/day, skin papillomas/carcinomas were detected at 300 mg/kg, representing approximately 30 to 40 times (based on AUC) the human exposure at the maximum approved dose of 800 mg/day (administered as 400 mg twice daily).
 The No-Observed-Effect-Level for the skin neoplastic lesions was 100 mg/kg/day, representing approximately 10 to 20 times the human exposure at the maximum approved dose of 800 mg/day (administered as 400 mg twice daily).
 The major target organs for non-neoplastic lesions were the skin (epidermal hyperplasia), the growing teeth (degeneration/atrophy of the enamel organ of upper incisors and inflammation of the gingiva/odontogenic epithelium of incisors) and the thymus (increased incidence and/or severity of decreased lymphocytes).
+
 Nilotinib did not induce teratogenicity, but did show embryo- and foetotoxicity at doses that also showed maternal toxicity.
 Increased post-implantation loss was observed in both the fertility study, which involved treatment of both males and females, and the embryotoxicity study, which involved treatment of females.
 Embryo-lethality and foetal effects (mainly decreased foetal weights, premature fusion of the facial bones (fused maxilla/zygomatic) visceral and skeletal variations) in rats and increased resorption of foetuses and skeletal variations in rabbits were present in the embryotoxicity studies.

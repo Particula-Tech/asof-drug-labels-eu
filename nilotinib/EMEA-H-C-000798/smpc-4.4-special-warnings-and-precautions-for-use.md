@@ -4,7 +4,6 @@ Myelosuppression
 Treatment with Tasigna is associated with (National Cancer Institute Common Toxicity Criteria grade 3-4) thrombocytopenia, neutropenia and anaemia.
 Complete blood counts should be performed every two weeks for the first 2 months and then monthly thereafter, or as clinically indicated.
 Myelosuppression was generally reversible and usually managed by withholding Tasigna temporarily or dose reduction (see section 4.2).
-
 QT prolongation
 Tasigna has been shown to prolong cardiac ventricular repolarisation as measured by the QT interval on the surface ECG in a concentration-dependent manner.
 
@@ -21,6 +20,7 @@ In particular, no episodes of torsade de pointes (transient or sustained) were o
 Significant prolongation of the QT interval may occur when nilotinib is inappropriately taken with strong CYP3A4 inhibitors and/or medicinal products with a known potential to prolong QT, and/or food (see section 4.5).
 The presence of hypokalaemia and hypomagnesaemia may further enhance this effect.
 Prolongation of the QT interval may expose patients to the risk of fatal outcome.
+
 Tasigna should be used with caution in patients who have or who are at significant risk of developing prolongation of QTc, such as those:
 
 - with congenital long QT prolongation
@@ -56,6 +56,21 @@ Some cases resulted in acute hepatic failure or fulminant hepatitis leading to l
 Patients should be tested for HBV infection before initiating treatment with Tasigna.
 Experts in liver disease and in the treatment of hepatitis B should be consulted before treatment is initiated in patients with positive hepatitis B serology (including those with active disease) and for patients who test positive for HBV infection during treatment.
 Carriers of HBV who require treatment with Tasigna should be closely monitored for signs and symptoms of active HBV infection throughout therapy and for several months following termination of therapy (see section 4.8).
+
+Special monitoring of Ph+ CML patients in chronic phase who have achieved a sustained deep molecular response
+Eligibility for discontinuation of treatment
+Eligible patients who are confirmed to express the typical BCR-ABL transcripts, e13a2/b2a2 or e14a2/b3a2, can be considered for treatment discontinuation.
+Patients must have typical BCR-ABL transcripts to allow quantitation of BCR-ABL, evaluation of the depth of molecular response, and determination of a possible loss of molecular remission after discontinuation of treatment with Tasigna.
+
+Monitoring of patients who have discontinued therapy
+Frequent monitoring of BCR-ABL transcript levels in patients eligible for treatment discontinuation must be performed with a quantitative diagnostic test validated to measure molecular response levels with a sensitivity of at least MR4.5 (BCR-ABL/ABL ≤0.0032% IS).
+BCR-ABL transcript levels must be assessed prior to and during treatment discontinuation (see sections 4.2 and 5.1).
+
+Loss of major molecular response (MMR=BCR-ABL/ABL ≤0.1%IS) or confirmed loss of MR4 (two consecutive measures separated by at least 4 weeks showing loss of MR4 (MR4=BCR-ABL/ABL ≤0.01%IS)) will trigger treatment re-initiation within 4 weeks of when loss of remission is known to have occurred.
+Molecular relapse can occur during the treatment-free phase, and long-term outcome data are not yet available.
+It is therefore crucial to perform frequent monitoring of BCR-ABL transcript levels and complete blood count with differential in order to detect possible loss of remission (see section 4.2).
+For patients who fail to achieve MMR after three months of treatment re-initiation, BCR-ABL kinase domain mutation testing should be performed.
+
 Laboratory tests and monitoring
 Blood lipids
 In a Phase III study in newly diagnosed CML patients, 1.1% of the patients treated with 400 mg nilotinib twice daily showed a Grade 3-4 elevation in total cholesterol; no Grade 3-4 elevations were however observed in the 300 mg twice daily dose group (see section 4.8).
@@ -66,7 +81,6 @@ Blood glucose
 In a Phase III study in newly diagnosed CML patients, 6.9% and 7.2% of the patients treated with 400 mg nilotinib and 300 mg nilotinib twice daily, respectively, showed a Grade 3-4 elevation in blood glucose.
 It is recommended that the glucose levels be assessed before initiating treatment with Tasigna and monitored during treatment, as clinically indicated (see section 4.2).
 If test results warrant therapy, physicians should follow their local standards of practice and treatment guidelines.
-
 Interactions with other medicinal products
 The administration of Tasigna with agents that are strong CYP3A4 inhibitors (including, but not limited to, ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir) should be avoided.
 Should treatment with any of these agents be required, it is recommended that therapy with Tasigna be interrupted if possible (see section 4.5).
@@ -90,6 +104,7 @@ The predicted steady-state Cmax of nilotinib showed an increase of 29%, 18% and 
 Clinical studies have excluded patients with alanine transaminase (ALT) and/or aspartate transaminase (AST) >2.5 (or >5, if related to disease) times the upper limit of the normal range and/or total bilirubin >1.5 times the upper limit of the normal range.
 Metabolism of nilotinib is mainly hepatic.
 Patients with hepatic impairment might therefore have increased exposure to nilotinib and should be treated with caution (see section 4.2).
+
 Serum lipase
 Elevation in serum lipase has been observed.
 Caution is recommended in patients with previous history of pancreatitis.
@@ -113,3 +128,5 @@ Occurrence is more frequent in patients with imatinib-resistant or intolerant CM
 In the Phase II study in imatinib-resistant and intolerant CML patients in chronic and accelerated phase receiving 400 mg nilotinib twice daily, the change from baseline in mean time-averaged QTcF interval at steady state was 5 and 8 msec, respectively.
 QTcF of >500 msec was observed in <1% of these patients.
 No episodes of torsade de pointes were observed in clinical studies.
+
+Frequent monitoring of BCR-ABL transcript levels in patients eligible for treatment discontinuation must be performed with a quantitative diagnostic test validated to measure molecular response levels with a sensitivity of at least MR4.5 (MR4.5=BCR-ABL/ABL ≤0.0032% IS).

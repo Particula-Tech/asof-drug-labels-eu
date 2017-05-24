@@ -6,6 +6,6 @@ Tasigna is indicated for the treatment of adult patients with newly diagnosed Ph
 
 Tasigna is indicated for the treatment of adult patients with:
 
-- newly diagnosed Philadelphia chromosome positive chronic myelogenous leukaemia (CML) in the chronic phase,
+- newly diagnosed Philadelphia chromosome positive chronic myelogenous leukaemia (CML) in the chronic phase.
 - chronic phase and accelerated phase Philadelphia chromosome positive CML with resistance or intolerance to prior therapy including imatinib.
   Efficacy data in patients with CML in blast crisis are not available.
