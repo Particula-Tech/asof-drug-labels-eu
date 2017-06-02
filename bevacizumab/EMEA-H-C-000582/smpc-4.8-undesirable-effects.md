@@ -2,7 +2,7 @@
 
 Summary of the safety profile
 
-The overall safety profile of Avastin is based on data from over 5,400 patients with various malignancies, predominantly treated with Avastin in combination with chemotherapy in clinical trials.
+The overall safety profile of Avastin is based on data from over 5,700 patients with various malignancies, predominantly treated with Avastin in combination with chemotherapy in clinical trials.
 
 The most serious adverse reactions were:
 
@@ -48,16 +48,16 @@ Table 1: Adverse Reactions by Frequency
 | Infections and infestations |  | Sepsis, Abscessb,d, Cellulitis, Infection, Urinary tract infection |  | Necrotising fasciitis a |  |  |
 | Blood and lymphatic system disorders | Febrile neutropenia, Leucopenia, Neutropeniab, Thrombo-cytopenia | Anaemia, Lymphopenia |  |  |  |  |
 | Immune system disorders |  | Hypersensitivity, infusion reactionsa,b,d |  |  |  |  |
-| Metabolism and nutrition disorders | Anorexia | Dehydration |  |  |  |  |
-| Nervous system disorders | Peripheral sensory neuropathyb, Dysarthria, Headache, Dysguesia | Cerebrovascular accident, Syncope, Somnolence |  | Posterior reversible encephalo-pathy synad,br,odme | Hypertensive encephalo-pathya |  |
+| Metabolism and nutrition disorders | Anorexia Hypomagnesaemia Hyponatraemia | Dehydration |  |  |  |  |
+| Nervous system disorders | Peripheral sensory neuropathyb, Dysarthria, Headache, Dysguesia | Cerebrovascular accident, Syncope, Somnolence |  | Posterior reversible encephalo-pathy synad,br,od me | Hypertensive encephalo-pathya |  |
 | Eye disorders | Eye disorder, Lacrimation increased |  |  |  |  |  |
 | Cardiac disorders |  | Congestive heart failureb,d, Supraventricular tachycardia |  |  |  |  |
 | Vascular disorders | Hypertensionb,d, Thrombo-embolism (venous)b,d | Thrombo-embolism (arterial)b,d, Haemorrhageb,d, Deep vein thrombosis |  |  |  | Renal thrombotic microangiopathya,b |
-| Respiratory, thoracic and mediastinal disorders | Dyspnoea, Rhinitis | Pulmonary haemorrhage/ Haemoptysisb,d, Pulmonary embolism, Epistaxis, Hypoxia, Dysphoniaa |  |  |  | Pulmonary hypertensiona, Nasal septum perforationa |
+| Respiratory, thoracic and mediastinal disorders | Dyspnoea, Rhinitis Epistaxis Cough | Pulmonary haemorrhage/ Haemoptysisb,d, Pulmonary embolism, Hypoxia, Dysphoniaa |  |  |  | Pulmonary hypertensiona, Nasal septum perforationa |
 | Gastrointestinal disorders | Rectal haemorrhage, Stomatitis, Constipation, Diarrhoea, Nausea, Vomiting, Abdominal pain | Gastrointestinal perforationb,d, Intestinal perforation, Ileus, Intestinal obstruction, Recto-vaginal fistulaed,e, Gastrointestinal Disorder, Proctalgia |  |  |  | Gastrointestinal ulcera |
 | Hepatobiliary disorders |  |  |  |  |  | Gallbladder perforationa,b |
 | Skin and subcutaneous tissue disorders | Wound healing complicationsb,d, Exfoliative dermatitis, Dry skin, Skin discoloration | Palmar-plantar erythro-dysaesthesia syndrome |  |  |  |  |
-| Musculoskeletal and connective tissue disorders | Arthralgia | Fistulab,d, Myalgia, Muscular weakness, Back pain |  |  |  | Osteonecrosis of the jawa,b Non-mandibular osteonecrosisa,f |
+| Musculoskeletal and connective tissue disorders | Arthralgia Myalgia | Fistulab,d, Muscular weakness, Back pain |  |  |  | Osteonecrosis of the jawa,b Non-mandibular osteonecrosisa,f |
 | Renal and urinary disorders | Proteinuriab,d |  |  |  |  |  |
 | Reproductive system and breast disorders | Ovarian failureb,c,d | Pelvic Pain |  |  |  |  |
 | Congenital, familial, and genetic disorder |  |  |  |  |  | Foetal abnormalitiesa,b |
@@ -70,8 +70,7 @@ Data are unadjusted for the differential time on treatment.
 a For further information please refer to Table 3 'Adverse reactions reported in post-marketing setting.'
 b Terms represent a group of events that describe a medical concept rather than a single condition or MedDRA (Medical Dictionary for Regulatory Activities) preferred term.
 This group of medical terms may involve the same underlying pathophysiology (e.g. arterial thromboembolic reactions include cerebrovascular accident, myocardial infarction, transient ischaemic attack and other arterial thromboembolic reactions).
-c Based on a substudy from NSABP C-08 with 295 patients d For additional information refer below within section "Further information on selected serious adverse reactions."
-e Recto-vaginal fistulae are the most common fistulae in the GI-vaginal fistula category.
+c Based on a substudy from NSABP C-08 with 295 patients d For additional information refer below within section "Further information on selected serious adverse reactions." e Recto-vaginal fistulae are the most common fistulae in the GI-vaginal fistula category.
 f Observed in pediatric population only
 Table 2: Severe Adverse Reactions by Frequency
 
@@ -79,8 +78,8 @@ Table 2: Severe Adverse Reactions by Frequency
 | --- | --- | --- | --- | --- | --- | --- |
 | Infections and infestations |  | Sepsis, Cellulitis, Abscessa,b, Infection, Urinary tract infection |  |  |  | Necrotising fasciitisc |
 | Blood and lymphatic system disorders | Febrile neutropenia, Leucopenia, Neutropeniaa, Thrombo-cytopenia | Anaemia, Lymphopenia |  |  |  |  |
-| Immune system disorders |  |  |  |  |  | Hypersensitivity, infusiona, br,ecactions |
-| Metabolism and nutrition disorders |  | Dehydration |  |  |  |  |
+| Immune system disorders |  |  |  |  |  | Hypersensitivity, infusiona, br,ec actions |
+| Metabolism and nutrition disorders |  | Dehydration Hyponatraemia |  |  |  |  |
 | Nervous system disorders | Peripheral sensory neuropathya | Cerebrovascular accident, Syncope, Somnolence, Headache |  |  |  | Posterior reversible encephalo-pathy syndrome a,b,c, Hypertensive encephalo-pathyc |
 | Cardiac disorders |  | Congestive heart failurea,b, Supraventricular tachycardia |  |  |  |  |
 | Vascular disorders | Hypertensiona,b | Thromboembolism arteriala,b, Haemorrhagea,b, Thromboembolism (venous)a,b Deep vein thrombosis |  |  |  | Renal thrombotic microangiopathyb,c |
@@ -103,14 +102,14 @@ a Terms represent a group of events that describe a medical concept rather than 
 This group of medical terms may involve the same underlying pathophysiology (e.g. arterial thromboembolic reactions include cerebrovascular accident, myocardial infarction, transient ischaemic attack and other arterial thromboembolic reactions).
 b For additional information refer below within section "Further information on selected serious adverse reactions" c For further information please refer to Table 3 'Adverse reactions reported in post-marketing setting.'
 d Recto-vaginal fistulae are the most common fistulae in the GI-vaginal fistula category.
+
 Description of selected serious adverse reactions
 
 Gastrointestinal (GI) perforations and Fistulae (see section 4.4)
 Avastin has been associated with serious cases of gastrointestinal perforation.
 
-Gastrointestinal perforations have been reported in clinical trials with an incidence of less than 1% in patients with non-squamous non-small cell lung cancer, up to 1.3% in patients with metastatic breast cancer, up to 2.0% in patients with metastatic renal cell cancer or in patients with ovarian cancer receiving front-line treatment, and up to 2.7% (including gastrointestinal fistula and abscess) in patients with metastatic colorectal cancer.
+Gastrointestinal perforations have been reported in clinical trials with an incidence of less than 1% in patients with non-squamous non-small cell lung cancer, up to 1.3% in patients with metastatic breast cancer, up to 2.0% in patients with metastatic renal cell cancer or in patients with ovarian cancer, and up to 2.7% (including gastrointestinal fistula and abscess) in patients with metastatic colorectal cancer.
 From a clinical trial in patients with persistent, recurrent, or metastatic cervical cancer (study GOG-0240), GI perforations (all grade) were reported in 3.2% of patients, all of whom had a history of prior pelvic radiation.
-
 The occurrence of those events varied in type and severity, ranging from free air seen on the plain abdominal X-ray, which resolved without treatment, to intestinal perforation with abdominal abscess and fatal outcome.
 In some cases underlying intra-abdominal inflammation was present, either from gastric ulcer disease, tumour necrosis, diverticulitis, or chemotherapy-associated colitis.
 
@@ -120,7 +119,7 @@ In Avastin clinical trials, gastrointestinal fistulae (all grade) have been repo
 
 GI-vaginal Fistulae in study GOG-0240
 In a trial of patients with persistent, recurrent or metastatic cervical cancer, the incidence of GI-vaginal fistulae was 8.3% in Avastin-treated patients and 0.9% in control patients, all of whom had a history of prior pelvic radiation.
-The frequency of GI-vaginal fistulae in the group treated with Avastin + chemotherapy was higher in patients with recurrence within the field of prior radiation (16.7%) compared with patients with recurrence outside the field of prior radiation (3.6%).
+The frequency of GI-vaginal fistulae in the group treated with Avastin + chemotherapy was higher in patients with recurrence within the field of prior radiation (16.7%) compared with patients with no prior radiation and/ or no recurrence inside the field of prior radiation (3.6%).
 The corresponding frequencies in the control group receiving chemotherapy alone were 1.1% vs. 0.8%, respectively.
 Patients who develop GI-vaginal fistulae may also have bowel obstructions and require surgical intervention as well as diverting ostomies.
 
@@ -145,8 +144,7 @@ Serious wound healing complications, including anastomotic complications, have b
 
 In locally recurrent and metastatic breast cancer trials, Grade 3-5 wound healing complications were observed in up to 1.1% of patients receiving Avastin compared with up to 0.9% of patients in the control arms (NCI-CTCAE v.3).
 
-In clinical trials of ovarian cancer, Grade 3-5 wound healing complications were observed in up to 1.2% of patients in the bevacizumab arm versus 0.1% in the control arm (NCI-CTCAE v.3).
-
+In clinical trials of ovarian cancer, Grade 3-5 wound healing complications were observed in up to 1.8% of patients in the bevacizumab arm versus 0.1% in the control arm (NCI-CTCAE v.3).
 Hypertension (see section 4.4)
 In clinical trials, with the exception of study JO25567, the overall incidence of hypertension (all grades) ranged up to 42.1% in the Avastin containing arms compared with up to 14% in the control arms.
 The overall incidence of NCI-CTC Grade 3 and 4 hypertension in patients receiving Avastin ranged from 0.4% to 17.9%.
@@ -177,8 +175,9 @@ Two of the eight cases did not have radiological confirmation via MRI.
 
 Proteinuria (see section 4.4)
 In clinical trials, proteinuria has been reported within the range of 0.7% to 54.7% of patients receiving Avastin.
+
 Proteinuria ranged in severity from clinically asymptomatic, transient, trace proteinuria to nephrotic syndrome, with the great majority as Grade 1 proteinuria (NCI-CTCAE v.3).
-Grade 3 proteinuria was reported in up to 8.1% of treated patients.
+Grade 3 proteinuria was reported in up to 10.9% of treated patients.
 Grade 4 proteinuria (nephrotic syndrome) was seen in up to 1.4% of treated patients.
 Testing for proteinuria is recommended prior to start of Avastin therapy.
 In most clinical trials urine protein levels of ≥ 2g/24 hrs led to the holding of Avastin until recovery to
@@ -186,7 +185,6 @@ In most clinical trials urine protein levels of ≥ 2g/24 hrs led to the holding
 
 Haemorrhage (see section 4.4)
 In clinical trials across all indications the overall incidence of NCI-CTCAE v.3 Grade 3-5 bleeding reactions ranged from 0.4% to 6.9% in Avastin treated patients, compared with up to 4.5% of patients in the chemotherapy control group.
-
 From a clinical trial in patients with persistent, recurrent, or metastatic cervical cancer (study GOG-0240), grade 3-5 bleeding reactions have been reported in up to 8.3% of patients treated with Avastin in combination with paclitaxel and topotecan compared with up to 4.6% of patients treated with paclitaxel and topotecan.
 
 The haemorrhagic reactions that have been observed in clinical trials were predominantly tumour-associated haemorrhage (see below) and minor mucocutaneous haemorrhage (e.g. epistaxis).
@@ -211,12 +209,12 @@ In two subsequent studies in patients with treated brain metastases (which inclu
 Across all clinical trials, mucocutaneous haemorrhage has been seen in up to 50% of Avastin-treated patients.
 These were most commonly NCI-CTCAE v.3 Grade 1 epistaxis that lasted less than 5 minutes, resolved without medical intervention and did not require any changes in the Avastin treatment regimen.
 Clinical safety data suggest that the incidence of minor mucocutaneous haemorrhage (e.g. epistaxis) may be dose-dependent.
+
 There have also been less common reactions of minor mucocutaneous haemorrhage in other locations, such as gingival bleeding or vaginal bleeding.
 
 Thromboembolism (see section 4.4)
 
 Arterial thromboembolism: An increased incidence of arterial thromboembolic reactions was observed in patients treated with Avastin across indications, including cerebrovascular accidents, myocardial infarction, transient ischaemic attacks, and other arterial thromboembolic reactions.
-
 In clinical trials, the overall incidence of arterial thromboembolic reactions ranged up to 3.8% in the Avastin containing arms compared with up to 2.1% in the chemotherapy control arms.
 Fatal outcome was reported in 0.8% of patients receiving Avastin compared to 0.5% in patients receiving chemotherapy alone.
 Cerebrovascular accidents (including transient ischaemic attacks) were reported in up to 2.7% of patients treated with Avastin in combination with chemotherapy compared to up to 0.5% of patients treated with chemotherapy alone.
@@ -241,12 +239,12 @@ In clinical trials with Avastin, congestive heart failure (CHF) was observed in 
 In four phase III trials (AVF2119g, E2100, BO17708 and AVF3694g) in patients with metastatic breast cancer CHF Grade 3 (NCI-CTCAE v.3) or higher was reported in up to 3.5% of patients treated with Avastin in combination with chemotherapy compared with up to 0.9% in the control arms.
 For patients in study AVF3694g who received anthracyclines concomitantly with bevacizumab, the incidences of Grade 3 or higher CHF for the respective bevacizumab and control arms were similar to those in the other studies in metastatic breast cancer: 2.9% in the anthracycline + bevacizumab arm and 0% in the anthracycline + placebo arm.
 In addition, in study AVF3694g the incidences of all Grade CHF were similar between the anthracycline + Avastin (6.2%) and the anthracycline + placebo arms (6.0%).
+
 Most patients who developed CHF during mBC trials showed improved symptoms and/or left ventricular function following appropriate medical therapy.
 
 In most clinical trials of Avastin, patients with pre-existing CHF of NYHA (New York Heart Association) II-IV were excluded, therefore, no information is available on the risk of CHF in this population.
 
 Prior anthracyclines exposure and/or prior radiation to the chest wall may be possible risk factors for the development of CHF.
-
 An increased incidence of CHF has been observed in a clinical trial of patients with diffuse large B-cell lymphoma when receiving bevacizumab with a cumulative doxorubicin dose greater than 300 mg/m2.
 This phase III clinical trial compared rituximab/cyclophosphamide/doxorubicin/vincristine/prednisone (R-CHOP) plus bevacizumab to R-CHOP without bevacizumab.
 While the incidence of CHF was, in both arms, above that previously observed for doxorubicin therapy, the rate was higher in the R-CHOP plus bevacizumab arm.
@@ -271,6 +269,7 @@ Across clinical trials, the following Grade 3 and 4 (NCI-CTCAE v.3) laboratory a
 
 Clinical trials have shown that transient increases in serum creatinine (ranging between 1.5-1.9 times baseline level), both with and without proteinuria, are associated with the use of Avastin.
 The observed increase in serum creatinine was not associated with a higher incidence of clinical manifestations of renal impairment in patients treated with Avastin.
+
 Other special populations
 
 Elderly patients
@@ -281,10 +280,14 @@ In a study of platinum-resistant recurrent ovarian cancer patients, alopecia, mu
 No increase in the incidence of other reactions, including gastrointestinal perforation, wound healing complications, congestive heart failure, and haemorrhage was observed in elderly patients (> 65 years) receiving Avastin as compared to those aged ≤ 65 years treated with Avastin.
 
 Paediatric population
-The safety of Avastin in children and adolescents has not been established.
+The safety and efficacy of Avastin in children less than 18 years old have not been established.
+
+In study BO25041 of Avastin added to postoperative radiation therapy (RT) with concomitant and adjuvant temozolomide in paediatric patients with newly diagnosed supratentorial, infratentorial, cerebellar, or peduncular high-grade glioma, the safety profile was comparable with that observed in other tumour types in adults treated with Avastin.
+
+In study BO20924 of Avastin with current standard of care in rhabdomyosarcoma and non-rhabdomyosarcoma soft tissue sarcoma, the safety profile of Avastin treated children was comparable with that observed in adults treated with Avastin.
+
 Avastin is not approved for use in patients under the age of 18 years.
 In published literature reports, cases of non-mandibular osteonecrosis have been observed in patients under the age of 18 years treated with Avastin.
-
 Post-marketing experience
 
 Table 3 Adverse reactions reported in post-marketing setting
@@ -303,7 +306,6 @@ Table 3 Adverse reactions reported in post-marketing setting
 | Congenital, familial, and genetic disorder | Cases of foetal abnormalities in women treated with bevacizumab alone or in combination with known embryotoxic chemotherapeutics have been observed (see section 4.6 ) |
 
 * if specified, the frequency has been derived from clinical trial data
-
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

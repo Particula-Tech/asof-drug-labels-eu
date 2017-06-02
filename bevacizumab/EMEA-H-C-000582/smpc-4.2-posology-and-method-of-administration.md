@@ -42,7 +42,7 @@ Epithelial ovarian, fallopian tube and primary peritoneal cancer
 Front-line treatment: Avastin is administered in addition to carboplatin and paclitaxel for up to 6 cycles of treatment followed by continued use of Avastin as single agent until disease progression or for a maximum of 15 months or until unacceptable toxicity, whichever occurs earlier.
 The recommended dose of Avastin is 15 mg/kg of body weight given once every 3 weeks as an intravenous infusion.
 
-Treatment of platinum-sensitive recurrent disease: Avastin is administered in combination with carboplatin and gemcitabine for 6 cycles and up to 10 cycles followed by continued use of Avastin as single agent until disease progression.The recommended dose of Avastin is 15 mg/kg of body weight given once every 3 weeks as an intravenous infusion.
+Treatment of platinum-sensitive recurrent disease: Avastin is administered in combination with either carboplatin and gemcitabine for 6 cycles and up to 10 cycles or in combination with carboplatin and paclitaxel for 6 cycles and up to 8 cycles, followed by continued use of Avastin as single agent until disease progression.The recommended dose of Avastin is 15 mg/kg of body weight given once every 3 weeks as an intravenous infusion.
 
 Treatment of platinum-resistant recurrent disease: Avastin is administered in combination with one of the following agents – paclitaxel, topotecan (given weekly) or pegylated liposomal doxorubicin.
 The recommended dose of Avastin is 10 mg/kg of body weight given once every 2 weeks as an intravenous infusion.
@@ -64,15 +64,10 @@ Patients with renal impairment: The safety and efficacy have not been studied in
 Patients with hepatic impairment: The safety and efficacy have not been studied in patients with hepatic impairment (see section 5.2).
 Paediatric population
 
-The safety and efficacy of bevacizumab in children and adolescents have not been established.
-Avastin is not approved for use in patients under the age of 18 years.
-There is no relevant use of bevacizumab in the paediatric population in the granted indications.
-Currently available data are described in sections 4.8, 5.1, 5.2 and 5.3 but no recommendation on a posology can be made.
+The safety and efficacy of bevacizumab in children less than 18 years old have not been established.
+Currently available data are described in sections 4.8, 5.1 and 5.2 but no recommendation on a posology can be made.
 
-Avastin should not be used in children aged 3 years to less than 18 years with recurrent or progressive high-grade glioma because of efficacy concerns (see section 5.1 for results of paediatric trials).
-
-Dose reduction for adverse reactions is not recommended.
-If indicated, therapy should either be permanently discontinued or temporarily suspended as described in section 4.4.
+There is no relevant use of bevacizumab in the paediatric population in the indications for treatment of cancers of the colon, rectum, breast, lung, ovarian, fallopian tube, peritoneum, cervix and kidney.
 
 Method of administration
 
@@ -81,6 +76,9 @@ If the first infusion is well tolerated, the second infusion may be administered
 If the 60-minute infusion is well tolerated, all subsequent infusions may be administered over 30 minutes.
 
 It should not be administered as an intravenous push or bolus.
+
+Dose reduction for adverse reactions is not recommended.
+If indicated, therapy should either be permanently discontinued or temporarily suspended as described in section 4.4.
 
 Precautions to be taken before handling or administering the medicinal product
 

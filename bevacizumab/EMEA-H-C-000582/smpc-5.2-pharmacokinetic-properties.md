@@ -4,6 +4,7 @@ The pharmacokinetic data for bevacizumab are available from ten clinical trials 
 In all clinical trials, bevacizumab was administered as an IV infusion.
 The rate of infusion was based on tolerability, with an initial infusion duration of 90 minutes.
 The pharmacokinetics of bevacizumab was linear at doses ranging from 1 to 10 mg/kg.
+
 Distribution
 The typical value for central volume (Vc) was 2.73 L and 3.28 L for female and male patients respectively, which is in the range that has been described for IgGs and other monoclonal antibodies.
 The typical value for peripheral volume (Vp) was 1.69 L and 2.35 L for female and male patients respectively, when bevacizumab is co-administered with anti-neoplastic agents.
@@ -24,8 +25,8 @@ Low albumin and high tumour burden are generally indicative of disease severity.
 Bevacizumab clearance was approximately 30% faster in patients with low levels of serum albumin and 7% faster in subjects with higher tumour burden when compared with a typical patient with median values of albumin and tumour burden.
 
 Pharmacokinetics in special populations
-The population pharmacokinetics were analysed to evaluate the effects of demographic characteristics.
-The results showed no significant difference in the pharmacokinetics of bevacizumab in relation to age.
+The population pharmacokinetics were analysed in adult and pediatric patients to evaluate the effects of demographic characteristics.
+In adults, the results showed no significant difference in the pharmacokinetics of bevacizumab in relation to age.
 
 Renal impairment
 No trials have been conducted to investigate the pharmacokinetics of bevacizumab in renally impaired patients since the kidneys are not a major organ for bevacizumab metabolism or excretion.
@@ -34,5 +35,11 @@ Hepatic impairment
 No trials have been conducted to investigate the pharmacokinetics of bevacizumab in patients with hepatic impairment since the liver is not a major organ for bevacizumab metabolism or excretion.
 
 Paediatric population
-The pharmacokinetics of bevacizumab have been studied in a limited number of paediatric patients.
-The resulting pharmacokinetic data suggest that the volume of distribution and clearance of bevacizumab were comparable to that in adults with solid tumours.
+The pharmacokinetics of bevacizumab were evaluated in 152 children, adolescents and young adults (7 months to 21 years, 5.9 to 125 kg) across 4 clinical studies using a population pharmacokinetic model.
+The pharmacokinetic results show that the clearance and volume of distribution of bevacizumab were comparable between paediatric and young adult patients when normalised by body weight, with exposure trending lower as body weight decreased.
+Age was not associated with the pharmacokinetics of bevacizumab when body weight was taken into account.
+
+The pharmacokinetics of bevacizumab was well characterized by the paediatric population PK model for 70 patients in Study BO20924 ((1.4 to 17.6 years; 11.6 to 77.5 kg) and 59 patients in Study BO25041 (1 to 17 years; 11.2 to 82.3 kg).
+In Study BO20924, bevacizumab exposure was generally lower compared to a typical adult patient at the same dose.
+In Study BO25041, bevacizumab exposure was similar compared to a typical adult at the same dose.
+In both studies, bevacizumb exposure trended lower as body weight decreased.
