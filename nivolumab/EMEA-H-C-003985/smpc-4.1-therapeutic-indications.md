@@ -20,3 +20,7 @@ OPDIVO as monotherapy is indicated for the treatment of adult patients with rela
 Squamous Cell Cancer of the Head and Neck (SCCHN)
 
 OPDIVO as monotherapy is indicated for the treatment of squamous cell cancer of the head and neck in adults progressing on or after platinum-based therapy (see section 5.1).
+
+Urothelial Carcinoma
+
+OPDIVO as monotherapy is indicated for the treatment of locally advanced unresectable or metastatic urothelial carcinoma in adults after failure of prior platinum-containing therapy.

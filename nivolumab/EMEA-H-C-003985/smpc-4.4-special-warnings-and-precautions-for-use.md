@@ -124,11 +124,14 @@ Rare cases of myotoxicity (myositis, myocarditis, and rhabdomyolysis), some with
 If a patient develops signs and symptoms of myotoxicity, close monitoring should be implemented, and the patient referred to a specialist for assessment and treatment without delay.
 Based on the severity of myotoxicity, nivolumab or nivolumab in combination with ipilimumab should be withheld or discontinued (see section 4.2), and appropriate treatment instituted.
 
+Solid organ transplant rejection has been reported in the post-marketing setting in patients treated with PD-1 inhibitors.
+Treatment with nivolumab may increase the risk of rejection in solid organ transplant recipients.
+The benefit of treatment with nivolumab versus the risk of possible organ rejection should be considered in these patients.
+
 Infusion reactions
 Severe infusion reactions have been reported in clinical trials of nivolumab or nivolumab in combination with ipilimumab (see section 4.8).
 In case of a severe or life-threatening infusion reaction, the nivolumab or nivolumab in combination with ipilimumab infusion must be discontinued and appropriate medical therapy administered.
 Patients with mild or moderate infusion reaction may receive nivolumab or nivolumab in combination with ipilimumab with close monitoring and use of premedication according to local treatment guidelines for prophylaxis of infusion reactions.
-
 Disease-specific precautions
 
 Melanoma
@@ -164,12 +167,16 @@ Preliminary results from the follow-up of patients undergoing allogeneic HSCT af
 Until further data become available, careful consideration to the potential benefits of HSCT and the possible increased risk of transplant related complications should be made case by case (see section 4.8).
 
 Head and Neck Cancer
-Patients with a baseline performance score ≥ 2, untreated brain metastasis, active autoimmune disease, medical conditions requiring systemic immunosuppression, or carcinoma of the nasopharynx or salivary gland as the primary tumour sites were excluded from the SCCHN clinical trial (see sections 4.5 and 5.1).
+Patients with a baseline performance score ≥ 2, active brain or leptomeningeal metastases, active autoimmune disease, medical conditions requiring systemic immunosuppression, or carcinoma of the nasopharynx or salivary gland as the primary tumour sites were excluded from the SCCHN clinical trial (see sections 4.5 and 5.1).
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 
 Physicians should consider the delayed onset of nivolumab effect before initiating treatment in patients with poorer prognostic features and/or aggressive disease.
 In head and neck cancer, a higher number of deaths within 3 months was observed in nivolumab compared to docetaxel.
 Factors associated with early deaths were ECOG performance status, fast progressive disease on prior platinum therapy and high tumor burden.
+
+Urothelial Carcinoma
+Patients with a baseline performance score ≥2, active brain metastases or leptomeningeal metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trials of urothelial carcinoma (see sections 4.5 and 5.1).
+In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit-risk on an individual basis.
 
 Patients on controlled sodium diet
 Each mL of this medicinal product contains 0.1 mmol (or 2.5 mg) sodium.

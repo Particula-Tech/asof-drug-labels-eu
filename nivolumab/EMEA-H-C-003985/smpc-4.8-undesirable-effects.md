@@ -1,24 +1,22 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-In the pooled dataset of nivolumab 3 mg/kg as monotherapy across tumour types (CA209066, CA209037, CA209067 [monotherapy group], CA209017, CA209057, CA209063, CA209025, CA209205, CA209039, and CA209141), the most frequent adverse reactions (≥ 10%) were fatigue (30%), rash (17%), pruritus (12%), diarrhoea (12%), and nausea (12%).
+In the pooled dataset of nivolumab 3 mg/kg as monotherapy across tumour types (n = 2227), the most frequent adverse reactions (≥ 10%) were fatigue (30%), rash (17%), pruritus (12%), diarrhoea (12%), and nausea (12%).
 The majority of adverse reactions were mild to moderate (Grade 1 or 2).
 With a minimum of 24 months follow-up in NSCLC, no new safety signals were identified.
 
-In the pooled dataset of nivolumab in combination with ipilimumab in melanoma (CA209067 [combination group], CA209069, and CA209004-cohort 8), the most frequent adverse reactions (≥ 10%) were rash (51%), fatigue (43%), diarrhoea (42%), pruritus (35%), nausea (25%), pyrexia (19%), decreased appetite (15%), hypothyroidism (15%), vomiting (14%), colitis (14%), abdominal pain (13%), arthralgia (11%), and headache (11%).
+In the pooled dataset of nivolumab in combination with ipilimumab in melanoma (n = 448), the most frequent adverse reactions (≥ 10%) were rash (51%), fatigue (43%), diarrhoea (42%), pruritus (35%), nausea (25%), pyrexia (19%), decreased appetite (15%), hypothyroidism (15%), vomiting (14%), colitis (14%), abdominal pain (13%), arthralgia (11%), and headache (11%).
 The majority of adverse reactions were mild to moderate (Grade 1 or 2).
 
-Among the patients treated with nivolumab in combination with ipilimumab in CA209067,
-151/313 (48%) had the first onset of Grade 3 or 4 adverse reactions during the initial combination phase.
-Among the 147 patients in this group who continued treatment in the single-agent phase,
-37 (25%) experienced at least one Grade 3 or 4 adverse reaction during the single-agent phase.
+Among the patients treated with nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg in CA209067, 151/313 (48%) had the first onset of Grade 3 or 4 adverse reactions during the initial combination phase.
+Among the 147 patients in this group who continued treatment in the single-agent phase, 37 (25%) experienced at least one Grade 3 or 4 adverse reaction during the single-agent phase.
 
 Tabulated summary of adverse reactions
 Adverse reactions reported in the pooled dataset for patients treated with nivolumab monotherapy
 (n = 2227) and for patients treated with nivolumab in combination with ipilimumab (n = 448) are presented in Table 2.
 These reactions are presented by system organ class and by frequency.
 Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10);
-uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000).
+uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from available post-marketing data).
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 Table 2: Adverse reactions in clinical trials
 
@@ -40,6 +38,7 @@ Common infusion related reactionc, infusion related reactionc,
 hypersensitivityc hypersensitivity
 Uncommon sarcoidosis
 Rare anaphylactic reactionc
+Not known solid organ transplant rejection solid organ transplant rejection
 Endocrine disorders
 Very common hypothyroidism
 Common hypothyroidism, hyperthyroidism, adrenal insufficiency, hypopituitarism,
@@ -142,10 +141,12 @@ c Life-threatening cases have been reported in completed or ongoing clinical stu
 d The frequency of adverse events in the cardiac disorders system organ class regardless of causality was higher in the nivolumab group than in the chemotherapy group in post-CTLA4/BRAF inhibitor metastatic melanoma population.
 Incidence rates per 100 person-years of exposure were 9.3 vs. 0; serious cardiac events were reported by 4.9% patients in the nivolumab group vs. 0 in the investigator´s choice group.
 The frequency of cardiac adverse events was lower in the nivolumab group than in the dacarbazine group in the metastatic melanoma without prior treatment population.
-All were considered not related to nivolumab by investigators except arrhythmia (atrial fibrillation, tachycardia and ventricular arrhythmia). e Rash is a composite term which includes maculopapular rash, rash erythematous, rash pruritic, rash follicular, rash macular, rash morbilliform, rash papular, rash pustular, rash papulosquamous, rash vesicular, rash generalised, exfoliative rash, dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis atopic, dermatitis bullous, dermatitis exfoliative, dermatitis psoriasiform, and drug eruption.
+All were considered not related to nivolumab by investigators except arrhythmia (atrial fibrillation, tachycardia and ventricular arrhythmia). e Rash is a composite term which includes maculopapular rash, rash erythematous, rash pruritic, rash follicular, rash macular, rash morbilliform, rash papular, rash pustular, rash papulosquamous, rash vesicular, rash generalised, exfoliative rash, dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis atopic, dermatitis bullous, dermatitis exfoliative, dermatitis psoriasiform, drug eruption and pemphigoid.
 f Reported in studies outside the pooled dataset.
 The frequency is based on the program-wide exposure.
 g Musculoskeletal pain is a composite term which includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity, and spinal pain.
+
+The overall safety profile of nivolumab 3 mg/kg in urothelial carcinoma patients (n = 348) was consistent with that established across tumour types for nivolumab monotherapy.
 
 Description of selected adverse reactions
 Nivolumab or nivolumab in combination with ipilimumab is associated with immune-related adverse reactions.
@@ -161,11 +162,13 @@ No Grade 5 cases were reported in these studies.
 Median time to onset was 3.3 months (range: 0.0-19.6).
 Resolution occurred in 52 patients (78%) with a median time to resolution of 5.6 weeks (range: 0.1+-53.1+); + denotes a censored observation.
 
+In urothelial carcinoma studies, 2 Grade 5 cases of pneumonitis were reported in patients treated with nivolumab monotherapy.
 In patients treated with nivolumab in combination with ipilimumab, the incidence of pneumonitis including interstitial lung disease, was 7.4% (33/448).
 Grade 2, Grade 3, and Grade 4 cases were reported in 4.5% (20/448), 1.1% (5/448), and 0.2% (1/448) of patients, respectively.
 One of the Grade 3 pneumonitis worsened over 11 days with a fatal outcome.
 Median time to onset was 2.3 months (range: 0.7-6.7).
 Resolution occurred in 29 patients (87.9%) with a median time to resolution of 6.1 weeks (range: 0.3-46.9+).
+
 Immune-related colitis
 In patients treated with nivolumab monotherapy, the incidence of diarrhoea, colitis, or frequent bowel movements was 12.6% (280/2227).
 The majority of cases were Grade 1 or 2 in severity reported in 8.6% (191/2227) and 2.7% 61/2227) of patients respectively.
@@ -268,7 +271,7 @@ In patients treated with nivolumab in combination with ipilimumab, the proportio
 2.8% for anaemia (all Grade 3), 1.2% for thrombocytopaenia, 0.5% for leucopoenia, 6.4% for lymphopaenia, 0.7% for neutropaenia, 4.1% for increased alkaline phosphatase, 11.9% for increased AST, 14.6% for increased ALT, 0.9% for increased total bilirubin, 2.4% for increased creatinine, 8.5% for increased amylase, 18.2% for increased lipase, 1.3% for hypocalcaemia, 0.3% each for hypercalcaemia, hyperkalaemia, hypermagnesaemia, and hypernatraemia, 4.5% for hypokalaemia, and 9.2% for hyponatraemia.
 
 Immunogenicity
-Of the 1734 patients who were treated with nivolumab monotherapy 3 mg/kg every 2 weeks and evaluable for the presence of anti-product-antibodies, 170 patients (9.8%) tested positive for treatment-emergent anti-product-antibodies with ten patients (0.6 %) testing positive for neutralising antibodies.
+Of the 2022 patients who were treated with nivolumab monotherapy 3 mg/kg every 2 weeks and evaluable for the presence of anti-product-antibodies, 231 patients (11.4%) tested positive for treatment-emergent anti-product-antibodies with fifteen patients (0.7 %) testing positive for neutralising antibodies.
 
 Of 394 patients who were treated with nivolumab in combination with ipilimumab and evaluable for the presence of anti-nivolumab antibodies, 149 patients (37.8%) tested positive for treatment-emergent anti-nivolumab antibodies with 18 patients (4.6%) testing positive for neutralising antibodies.
 
