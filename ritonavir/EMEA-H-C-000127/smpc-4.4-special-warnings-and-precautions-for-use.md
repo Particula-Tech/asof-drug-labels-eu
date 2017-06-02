@@ -2,9 +2,9 @@
 
 Ritonavir is not a cure for HIV-1 infection or AIDS.
 Patients receiving ritonavir or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of HIV-1 infection.
-
 While effective viral suppression with antiretroviral therapy has been proven to substantially reduce the risk of sexual transmission, a residual risk cannot be excluded.
 Precautions to prevent transmission should be taken in accordance with national guidelines.
+
 When ritonavir is used as a pharmacokinetic enhancer with other PIs, full details on the warnings and precautions relevant to that particular PI should be considered, therefore the Summary of Product Characteristics for the particular PI must be consulted.
 
 Ritonavir dosed as an antiretroviral agent or as a pharmacokinetic enhancer
@@ -45,7 +45,6 @@ Liver disease
 Ritonavir should not be given to patients with decompensated liver disease (see section 4.2).
 Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk for severe and potentially fatal hepatic adverse reactions.
 In case of concomitant antiviral therapy for hepatitis B or C, please refer to the relevant product information for these medicinal products.
-
 Patients with pre-existing liver dysfunction including chronic active hepatitis have an increased frequency of liver function abnormalities during combination antiretroviral therapy and should be monitored according to standard practice.
 If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered.
 
@@ -79,7 +78,6 @@ Postmarketing life-threatening cases of cardiac toxicity (including complete atr
 Osteonecrosis
 Although the aetiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
-
 PR interval prolongation
 Ritonavir has been shown to cause modest asymptomatic prolongation of the PR interval in some healthy adult subjects.
 Rare reports of 2nd or 3rd degree atrioventricular block in patients with underlying structural heart disease and pre-existing conduction system abnormalities or in patients receiving medicinal products known to prolong the PR interval (such as verapamil or atazanavir) have been reported in patients receiving ritonavir.
@@ -116,9 +114,9 @@ Particular caution should be used when prescribing ritonavir in patients taking 
 The increased digoxin levels may lessen over time (see section 4.5).
 
 In patients who are already taking digoxin when ritonavir is introduced, the digoxin dose should be reduced to one-half of the patients’ normal dose and patient need to be followed more closely than usual for several weeks after initiating co-administration of ritonavir and digoxin.
-
 In patients who are already taking ritonavir when digoxin is introduced, digoxin should be introduced more gradually than usual.
 Digoxin levels should be monitored more intensively than usual during this period, with dose adjustments made, as necessary, based on clinical, electrocardiographic and digoxin level findings.
+
 Ethinyl estradiol
 Barrier or other non-hormonal methods of contraception should be considered when administering ritonavir at therapeutic or low doses as ritonavir is likely to reduce the effect and change the uterine bleeding profile when co-administered with estradiol-containing contraceptives.
 
@@ -132,6 +130,12 @@ Adverse reactions of nausea, dizziness, hypotension and syncope have been observ
 
 Rivaroxaban
 It is not recommended to use ritonavir in patients receiving rivaroxaban, due to the risk of increased bleeding (see section 4.5).
+
+Riociguat
+The concomitant use of ritonavir is not recommended due to potential increase in riociguat exposure (see section 4.5).
+
+Vorapaxar
+The concomitant use of ritonavir is not recommended due to potential increase in vorapaxar exposure (see section 4.5).
 
 Bedaquiline
 Strong CYP3A4 inhibitors such as protease inhibitors may increase bedaquiline exposure which could potentially increase the risk of bedaquiline-related adverse reactions.
@@ -148,7 +152,6 @@ The interaction profiles of HIV-protease inhibitors, co-administered with low do
 
 For a description of the mechanisms and potential mechanisms contributing to the interaction profile of the PIs, see section 4.5.
 Please also review the Summary of Product Characteristics for the particular boosted PI.
-
 Saquinavir
 Doses of ritonavir higher than 100 mg twice daily should not be used.
 Higher doses of ritonavir have been shown to be associated with an increased incidence of adverse reactions.

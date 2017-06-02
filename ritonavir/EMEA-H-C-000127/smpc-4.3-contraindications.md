@@ -27,6 +27,10 @@ propoxyphne piroxicam and propoxyphene. Thereby,
 
 increasing the risk of serious respiratory depression or haematologic abnormalities, or other serious adverse effects from these agents.
 
+Antianginal Ranolazine Increased plasma concentrations of ranolazine
+
+which may increase the potential for serious and/or life-threatening reactions (see section 4.5).
+
 Antiarrhythmics Amiodarone, bepridil, Increased plasma concentrations of amiodarone,
 dronedarone, bepridil, dronedarone, encainide, flecainide,
 
@@ -55,10 +59,12 @@ Antimycobacterial Rifabutin Concomitant use of ritonavir (500 mg twice
 daily) dosed as an antiretroviral agent and rifabutin due to an increase of rifabutin serum concentrations and risk of adverse events including uveitis (see section 4.4).
 Recommendations regarding use of ritonavir dosed as a pharmacokinetic enhancer with rifabutin are noted in section 4.5.
 
-Antipsychotics/ Clozapine, pimozide Increased plasma concentrations of clozapine and
-Neuroleptics pimozide. Thereby, increasing the risk of serious
+Antipsychotics/ Lurasidone Increased plasma concentrations of lurasidone
+Neuroleptics which may increase the potential for serious
 
-haematologic abnormalities, or other serious adverse effects from these agents.
+and/or life-threatening reactions (see section 4.5).
+Clozapine, pimozide Increased plasma concentrations of clozapine and pimozide.
+Thereby, increasing the risk of serious haematologic abnormalities, or other serious adverse effects from these agents.
 
 Quetiapine Increased plasma concentrations of quetiapine
 

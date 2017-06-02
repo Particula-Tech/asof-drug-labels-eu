@@ -28,11 +28,11 @@ Note: ritonavir was dosed after a meal for all listed regimens.
 
 Effects of food on oral absorption
 Ingestion of ritonavir with food results in lower ritonavir exposure than ingestion in the fasted state.
+
 Distribution
 The apparent volume of distribution (VB/F) of ritonavir is approximately 20 - 40 l after a single 600 mg dose.
 The protein binding of ritonavir in human plasma is approximately 98 ­ 99% and is constant over the concentration range of 1.0 – 100 µg/ml.
 Ritonavir binds to both human alpha 1-acid glycoprotein (AAG) and human serum albumin (HSA) with comparable affinities.
-
 Tissue distribution studies with 14C-labelled ritonavir in rats showed the liver, adrenals, pancreas, kidneys and thyroid to have the highest concentrations of ritonavir.
 Tissue to plasma ratios of approximately 1 measured in rat lymph nodes suggests that ritonavir distributes into lymphatic tissues.
 Ritonavir penetrates minimally into the brain.
@@ -52,7 +52,6 @@ In these studies renal elimination was not found to be a major route of eliminat
 This was consistent with the observations in animal studies.
 
 Special populations
-
 No clinically significant differences in AUC or Cmax were noted between males and females.
 Ritonavir pharmacokinetic parameters were not statistically significantly associated with body weight or lean body mass.
 Ritonavir plasma exposures in patients 50 – 70 years of age when dosed 100 mg in combination with lopinavir or at higher doses in the absence of other protease inhibitors is similar to that observed in younger adults.
@@ -68,7 +67,6 @@ Paediatric patients
 Ritonavir steady-state pharmacokinetic parameters were evaluated in HIV infected children above 2 years of age receiving doses ranging from 250 mg/m² twice daily to 400 mg/m² twice daily.
 Ritonavir concentrations obtained after 350 to 400 mg/m² twice daily in paediatric patients were comparable to those obtained in adults receiving 600 mg (approximately 330 mg/m²) twice daily.
 Across dose groups, ritonavir oral clearance (CL/F/m2) was approximately 1.5 to 1.7 times faster in paediatric patients above 2 years of age than in adult subjects.
-
 Ritonavir steady-state pharmacokinetic parameters were evaluated in HIV infected children less than 2 years of age receiving doses ranging from 350 to 450 mg/m² twice daily.
 Ritonavir concentrations in this study were highly variable and somewhat lower than those obtained in adults receiving 600 mg (approximately 330 mg/m²) twice daily.
 Across dose groups, ritonavir oral clearance (CL/F/m2) declined with age with median values of 9.0 L/h/m2 in children less than 3 months of age, 7.8 L/h/m2 in children between 3 and 6 months of age and 4.4 L/h/m2 in children between 6 and 24 months of age.
@@ -88,5 +86,3 @@ Plasma concentrations of ritonavir after administration of a single 100 mg dose 
 
 Food slightly decreases the bioavailability of the Norvir tablet.
 Administration of a single 100 mg dose of Norvir tablet with a moderate fat meal (857 kcal, 31% calories from fat) or a high fat meal (907 kcal, 52% calories from fat) was associated with a mean decrease of 20-23% in ritonavir AUC and Cmax.
-
-Special opulations
