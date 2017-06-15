@@ -45,12 +45,12 @@ Gender
 Following a single dose of 40 mg esomeprazole the mean are under the plasma concentration-time curve is approximately 30% higher in females than in males.
 No gender difference is seen after repeated once-daily administration.
 These findings have no implications for the posology of esomeprazole.
+
 Hepatic impairment
 The metabolism of esomeprazole in patients with mild to moderate liver dysfunction may be impaired.
 The metabolic rate is decreased in patients with severe liver dysfunction resulting in a doubling of the area under the plasma concentration-time curve of esomeprazole.
 Therefore, a maximum of 20 mg should not be exceeded in patients with severe dysfunction.
 Esomeprazole or its major metabolites do not show any tendency to accumulate with once-daily dosing.
-
 Renal impairment
 No studies have been performed in patients with decreased renal function.
 Since the kidney is responsible for the excretion of the metabolites of esomeprazole but not for the elimination of the parent compound, the metabolism of esomeprazole is not expected to be changed in patients with impaired renal function.

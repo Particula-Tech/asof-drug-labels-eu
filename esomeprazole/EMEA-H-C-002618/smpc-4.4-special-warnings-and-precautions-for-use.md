@@ -30,15 +30,16 @@ The use of esomeprazole with clopidogrel should be discouraged (see section 4.5)
 
 Patients should not take another PPI or H2 antagonist concomitantly.
 
-Sucrose
-This medicinal product contains sugar spheres (sucrose).
-Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicine.
-
 Interference with laboratory tests
-The increased Chromogranin A (CgA) level may interfere with investigations for neuroendocrine tumours.
-To avoid this interference the esomeprazole treatment should be temporarily stopped five days before CgA measurements.
+Increased Chromogranin A (CgA) level may interfere with investigations for neuroendocrine tumours.
+To avoid this interference, Nexium Control treatment should be stopped for at least 5 days before CgA measurements (see section 5.1).
+If CgA and gastrin levels have not returned to reference range after initial measurement, measurements should be repeated 14 days after cessation of proton pump inhibitor treatment.
 
 Subacute cutaneous lupus erythematosus (SCLE)
 Proton pump inhibitors are associated with very infrequent cases of SCLE.
 If lesions occur, especially in sun-exposed areas of the skin, and if accompanied by arthralgia, the patient should seek medical help promptly and the health care professional should consider stopping Nexium Control.
 SCLE after previous treatment with a proton pump inhibitor may increase the risk of SCLE with other proton pump inhibitors.
+
+Sucrose
+This medicinal product contains sugar spheres (sucrose).
+Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicinal product.
