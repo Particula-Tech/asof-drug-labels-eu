@@ -7,7 +7,6 @@ It is an inhibitor of osteoclastic bone resorption.
 
 The selective action of bisphosphonates on bone is based on their high affinity for mineralised bone, but the precise molecular mechanism leading to the inhibition of osteoclastic activity is still unclear.
 In long-term animal studies, zoledronic acid inhibits bone resorption without adversely affecting the formation, mineralisation or mechanical properties of bone.
-
 In addition to being a potent inhibitor of bone resorption, zoledronic acid also possesses several anti-tumour properties that could contribute to its overall efficacy in the treatment of metastatic bone disease.
 The following properties have been demonstrated in preclinical studies:
 
@@ -26,6 +25,7 @@ Efficacy results are provided in Table 2.
 In a second study including solid tumours other than breast or prostate cancer, zoledronic acid 4 mg significantly reduced the proportion of patients with an SRE, delayed the median time to first SRE by > 2 months, and reduced the skeletal morbidity rate.
 Multiple event analysis showed 30.7% risk reduction in developing SREs in the zoledronic acid 4 mg group compared with placebo.
 Efficacy results are provided in Table 3.
+
 Table 2: Efficacy results (prostate cancer patients receiving hormonal therapy)
 
 |  | Any SRE (+TIH) |  | Fractures* |  | Radiation therapy to bone |  |
@@ -44,7 +44,6 @@ Table 2: Efficacy results (prostate cancer patients receiving hormonal therapy)
 * Includes vertebral and non-vertebral fractures
 ** Accounts for all skeletal events, the total number as well as time to each event during the trial NR Not Reached
 NA Not Applicable
-
 Table 3: Efficacy results (solid tumours other than breast or prostate cancer)
 
 |  | Any SRE (+TIH) |  | Fractures* |  | Radiation therapy to bone |  |
@@ -126,7 +125,6 @@ Table 5: Proportion of complete responders by day in the combined TIH studies
 Median time to normocalcaemia was 4 days.
 Median time to relapse (re-increase of albumin-corrected serum calcium ≥ 2.9 mmol/l) was 30 to 40 days for patients treated with zoledronic acid versus 17 days for those treated with pamidronate 90 mg (p-values: 0.001 for 4 mg and 0.007 for 8 mg zoledronic acid).
 There were no statistically significant differences between the two zoledronic acid doses.
-
 In clinical trials 69 patients who relapsed or were refractory to initial treatment (zoledronic acid 4 mg, 8 mg or pamidronate 90 mg) were retreated with 8 mg zoledronic acid.
 The response rate in these patients was about 52%.
 Since those patients were retreated with the 8 mg dose only, there are no data available allowing comparison with the 4 mg zoledronic acid dose.
