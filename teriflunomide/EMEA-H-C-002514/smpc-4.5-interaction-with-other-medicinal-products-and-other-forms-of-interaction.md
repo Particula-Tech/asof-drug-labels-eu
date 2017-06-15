@@ -26,6 +26,7 @@ Effect of teriflunomide on warfarin
 Repeated doses of teriflunomide had no effect on the pharmacokinetics of S-warfarin, indicating that teriflunomide is not an inhibitor or an inducer of CYP2C9.
 However, a 25% decrease in peak international normalised ratio (INR) was observed when teriflunomide was coadministered with warfarin as compared with warfarin alone.
 Therefore, when warfarin is co-administered with teriflunomide, close INR follow-up and monitoring is recommended.
+
 Effect of teriflunomide on organic anion transporter 3 (OAT3) substrates:
 There was an increase in mean cefaclor Cmax and AUC (1.43- and 1.54-fold, respectively), following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of OAT3 in vivo.
 Therefore, when teriflunomide is coadministered with substrates of OAT3, such as cefaclor, benzylpenicillin, ciprofloxacin, indometacin, ketoprofen, furosemide, cimetidine, methotrexate, zidovudine, caution is recommended.

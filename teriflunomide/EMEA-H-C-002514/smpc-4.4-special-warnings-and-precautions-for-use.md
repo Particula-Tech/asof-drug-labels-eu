@@ -49,14 +49,20 @@ The safety of AUBAGIO in individuals with latent tuberculosis infection is unkno
 For patients testing positive in tuberculosis screening, treat by standard medical practice prior to therapy with AUBAGIO.
 
 Respiratory reactions
-No cases of interstitial lung diseases (ILD) have been reported with teriflunomide in the clinical trials.
-However, ILD, which is a potentially fatal disorder, has been reported during treatment with leflunomide, the parent compound.
-ILD may occur acutely during therapy; the risk is increased in patients who had a history of ILD when treated with leflunomide.
-Pulmonary symptoms, such as persistent cough and dyspnoea, may be a reason for discontinuation of the therapy and for further investigation, as appropriate.
+
+Interstitial lung disease (ILD) has been reported with teriflunomide in the postmarketing setting.
+ILD and worsening of pre-existing ILD have been reported during treatment with leflunomide, the parent compound of teriflunomide.
+The risk is increased in patients who had a history of ILD when treated with leflunomide.
+
+ILD may occur acutely at any time during therapy with a variable clinical presentation.
+ILD may be fatal.
+New onset or worsening pulmonary symptoms, such as persistent cough and dyspnoea, may be a reason for discontinuation of the therapy and for further investigation, as appropriate.
+If discontinuation of the drug is necessary, consider initiation of an accelerated elimination procedure.
 
 Haematological effects
 A mean decrease less than 15% from baseline affecting white blood cell count has been observed (see section 4.8).
 As a precaution, a recent complete blood cell count, including differential white blood cell count and platelets, should be available before the initiation of treatment with AUBAGIO and the complete blood cell count should be assessed during AUBAGIO therapy as indicated by clinical signs and symptoms (e.g., infections).
+
 In patients with pre-existing anaemia, leucopenia, and /or thrombocytopenia as well as in patients with impaired bone marrow function or those at risk of bone marrow suppression, the risk of haematological disorders is increased.
 If such effects occur, the accelerated elimination procedure (see above) to reduce plasma levels of teriflunomide should be considered.
 In cases of severe haematological reactions, including pancytopenia, AUBAGIO and any concomitant myelosuppressive treatment must be discontinued and a teriflunomide accelerated elimination procedure should be considered.
@@ -91,10 +97,10 @@ Based on the clinical data related to concomitant administration of teriflunomid
 
 Due to the long half-life of natalizumab, concomitant exposure, and thus concomitant immune effects, could occur for up to 2-3 months following discontinuation of natalizumab if AUBAGIO was immediately started.
 Therefore, caution is required when switching patients from natalizumab to AUBAGIO.
-
 Based on the half-life of fingolimod, a 6-week interval without therapy is needed for clearance from the circulation and a 1 to 2 month period is needed for lymphocytes to return to normal range following discontinuation of fingolimod.
 Starting AUBAGIO during this interval will result in concomitant exposure to fingolimod.
 This may lead to an additive effect on the immune system and caution is, therefore, indicated.
+
 In MS patients, the median t1/2z was approximately 19 days after repeated doses of 14 mg.
 If a decision is made to stop treatment with AUBAGIO, during the interval of 5 half-lives (approximately 3.5 months although may be longer in some patients), starting other therapies will result in concomitant exposure to AUBAGIO.
 This may lead to an additive effect on the immune system and caution is, therefore, indicated.

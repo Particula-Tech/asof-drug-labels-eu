@@ -14,7 +14,7 @@ During this period women should discuss any plans to stop or change contraceptio
 
 The patient must be advised that if there is any delay in onset of menses or any other reason to suspect pregnancy, they must notify the physician immediately for pregnancy testing, and if positive, the physician and patient must discuss the risk to the pregnancy.
 It is possible that rapidly lowering the blood level of teriflunomide, by instituting the accelerated elimination procedure described below, at the first delay of menses, may decrease the risk to the foetus.
-For women receiving teriflunomide treatment, who wish to become pregnant, the medicine should be stopped and an accelerated elimination procedure is recommended in order to more rapidly achieve concentration below 0.02 mg/l (see below):
+For women receiving teriflunomide treatment, who wish to become pregnant, the medicine should be stopped and an accelerated elimination procedure is recommended in order to more rapidly achieve concentration below 0.02 mg/l (see below).
 
 If an accelerated elimination procedure is not used, teriflunomide plasma levels can be expected to be above 0.02 mg/l for an average of 8 months, however, in some patients it may take up to 2 years to reach plasma concentration below 0.02 mg/l.
 Therefore, teriflunomide plasma concentrations should be measured before a woman begins to attempt to become pregnant.

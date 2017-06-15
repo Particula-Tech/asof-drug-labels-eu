@@ -57,42 +57,43 @@ disorders
 Vascular Hypertension
 disorders (see section 4.4)
 Respiratory, Interstitial
-thoracic and lung
-mediastinal disease∗
+thoracic and lung disease
+mediastinal
 disorders
 Gastrointestinal Diarrhoea, Abdominal pain Pancreatitis,
 disorders Nausea upper, Stomatitis
 Vomiting,
 Toothache
+Hepatobiliary Alanine Gamma- Acute
+disorders aminotransfe glutamyltransfer hepatitis
+rase (ALT) ase (GGT)
+increase (see increase (see
+section 4.4) section 4.4),
+Aspartate
+aminotransferas
+System organ Very Common Uncommon Rare Very rare Not known
+class common
+e increase (see
+section 4.4)
 Skin and Alopecia Rash, Severe skin
 subcutaneous Acne reactionsa
-tissue disorders
+tissue disorders Nail
+disorders
 Musculoskeleta Musculoskeletal
 l and pain,
 connective Myalgia,
 tissue disorders Arthralgia
-System organ Very Common Uncommon Rare Very rare Not known
-class common
 Renal and Pollakiuria
 urinary
 disorders
 Reproductive Menorrhagia
 system and
 breast disorders
-General Pain
+General Pain Asthenia
 disorders and
 administration
 site conditions
-Investigations Alanine Gamma-
-aminotransfe glutamyltransfer
-rase (ALT) ase (GGT)
-increase (see increase (see
-section 4.4) section 4.4),
-Aspartate
-aminotransferas
-e increase (see
-section 4.4),
-Weight
+Investigations Weight
 decrease,
 Neutrophil
 count decrease
@@ -108,7 +109,7 @@ poisoning and traumatic
 procedural pain
 complications
 
-∗: Based on leflunomide data only a: please refer to the detailed description section
+a: please refer to the detailed description section
 
 Description of selected adverse reactions
 Alopecia
@@ -118,11 +119,17 @@ Discontinuation because of alopecia was 1.3% in the teriflunomide 14 mg teriflun
 
 Hepatic effects
 During placebo-controlled studies the following was detected:
+
 ALT increase (based on laboratory data) according to baseline status - Safety population in placebo-controlled studies
 
 Placebo Teriflunomide 14 mg
 (N=997) (N=1002)
 >3 ULN 66/994 (6.6%) 80/999 (8.0%)
+
+ALT increase (based on laboratory data) according to baseline status - Safety population in placebo-controlled studies
+
+Placebo Teriflunomide 14 mg
+(N=997) (N=1002)
 >5 ULN 37/994 (3.7%) 31/999 (3.1%)
 >10 ULN 16/994 (1.6%) 9/999 (0.9%)
 >20 ULN 4/994 (0.4%) 3/999 (0.3%)
