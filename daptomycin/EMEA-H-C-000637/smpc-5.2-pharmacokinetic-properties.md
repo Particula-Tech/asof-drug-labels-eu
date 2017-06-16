@@ -28,7 +28,6 @@ The site of metabolism has not been identified.
 Elimination
 Daptomycin is excreted primarily by the kidneys.
 Concomitant administration of probenecid and daptomycin has no effect on daptomycin pharmacokinetics in humans suggesting minimal to no active tubular secretion of daptomycin.
-
 Following intravenous administration, plasma clearance of daptomycin is approximately 7 to 9 ml/h/kg and its renal clearance is 4 to 7 ml/h/kg.
 
 In a mass balance study using radiolabelled material, 78% of the administered dose was recovered from the urine based on total radioactivity, whilst urinary recovery of unchanged daptomycin was approximately 50% of the dose.
@@ -66,7 +65,6 @@ The mean Cmax ranged from 62.4 μg/ml to 81.9 μg/ml.
 The terminal t1/2 ranged from 3.8 to 5.3 hours across the different age groups while the mean steady-state clearance ranged from 13.3 to 21.5 ml/hr/kg.
 The corresponding clearance in patients in the lower age group was also higher, which is consistent with previous observations.
 Exposure levels achieved with these doses were consistent with those achieved in the adult cSSTI study.
-
 Obesity
 Relative to non-obese subjects daptomycin systemic exposure measured by AUC was about 28% higher in moderately obese subjects (Body Mass Index of 25-40 kg/m2) and 42% higher in extremely obese subjects (Body Mass Index of > 40 kg/m2).
 However, no dose adjustment is considered to be necessary based on obesity alone.
@@ -78,7 +76,7 @@ Renal impairment
 Following administration of a single 4 mg/kg or 6 mg/kg intravenous dose of daptomycin over a 30-minute period to subjects with various degrees of renal impairment, total daptomycin clearance (CL) decreased and systemic exposure (AUC) increased as renal function (creatinine clearance) decreased.
 
 Based on pharmacokinetic data and modelling, the daptomycin AUC during the first day after administration of a 6 mg/kg dose to patients on HD or CAPD was 2-fold higher than that observed in patients with normal renal function who received the same dose.
-On the second day after administration of a 6 mg/kg dose to HD and CAPD patients the daptomcyin AUC was approximately 1.3-fold higher than that observed after a second 6 mg/kg dose in patients with normal renal function.
+On the second day after administration of a 6 mg/kg dose to HD and CAPD patients the daptomycin AUC was approximately 1.3-fold higher than that observed after a second 6 mg/kg dose in patients with normal renal function.
 On this basis, it is recommended that patients on HD or CAPD receive daptomycin once every 48 hours at the dose recommended for the type of infection being treated (see section 4.2).
 
 Hepatic impairment

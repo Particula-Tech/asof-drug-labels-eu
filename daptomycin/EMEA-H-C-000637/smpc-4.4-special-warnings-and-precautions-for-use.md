@@ -59,7 +59,7 @@ Paediatric patients below the age of one year should not be given Cubicin due to
 
 Eosinophilic pneumonia
 Eosinophilic pneumonia has been reported in patients receiving Cubicin (see section 4.8).
-In most reported cases associated with Cubicin, patients developed fever, dyspnoea with hypoxic respiratory insufficiency, and diffuse pulmonary infiltrates.
+In most reported cases associated with Cubicin, patients developed fever, dyspnoea with hypoxic respiratory insufficiency, and diffuse pulmonary infiltrates or organising pneumonia.
 The majority of cases occurred after more than 2 weeks of treatment with Cubicin and improved when Cubicin was discontinued and steroid therapy was initiated.
 Recurrence of eosinophilic pneumonia upon re-exposure has been reported.
 Patients who develop these signs and symptoms while receiving Cubicin should undergo prompt medical evaluation, including, if appropriate, bronchoalveolar lavage, to exclude other causes (e.g. bacterial infection, fungal infection, parasites, other medicinal products).

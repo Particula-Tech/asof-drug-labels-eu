@@ -8,8 +8,7 @@ Adverse reactions (i.e. considered by the investigator to be possibly, probably,
 The most frequently reported adverse reactions (frequency common (≥1/100 to < 1/10)) are:
 Fungal infections, urinary tract infection, candida infection, anaemia, anxiety, insomnia, dizziness, headache, hypertension, hypotension, gastrointestinal and abdominal pain, nausea, vomiting, constipation, diarrhoea, flatulence, bloating and distension, liver function tests abnormal (increased alanine aminotransferase (ALT), aspartate aminotransferase (AST) or alkaline phosphatase (ALP)), rash, pruritus, limb pain, serum creatine phosphokinase (CPK) increased, infusion site reactions, pyrexia, asthenia.
 
-Less frequently reported, but more serious, adverse reactions include hypersensitivity reactions, eosinophilic pneumonia, drug rash with eosinophilia and systemic symptoms (DRESS), angioedema and rhabdomyolysis.
-
+Less frequently reported, but more serious, adverse reactions include hypersensitivity reactions, eosinophilic pneumonia (occasionally presenting as organising pneumonia), drug rash with eosinophilia and systemic symptoms (DRESS), angioedema and rhabdomyolysis.
 Tabulated list of adverse reactions
 The following adverse reactions were reported during therapy and during follow-up with frequencies corresponding to very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to
 < 1/100); rare (≥1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data):
@@ -94,3 +93,7 @@ Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+[Cubicin 500 mg powder for solution for injection or infusion]
+
+Less frequently reported, but more serious, adverse reactions include hypersensitivity reactions, eosinophilic pneumonia (occasionally presenting as organising pneumonia),drug rash with eosinophilia and systemic symptoms (DRESS), angioedema and rhabdomyolysis.

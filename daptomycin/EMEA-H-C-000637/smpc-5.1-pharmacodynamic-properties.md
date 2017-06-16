@@ -17,6 +17,7 @@ Strains with decreased susceptibility to daptomycin have been reported especiall
 In particular, there have been reports of treatment failures in patients infected with Staphylococcus aureus, Enterococcus faecalis or Enterococcus faecium, including bacteraemic patients, that have been associated with the selection of organisms with reduced susceptibility or frank resistance to daptomycin during therapy.
 
 The mechanism(s) of daptomycin resistance is (are) not fully understood.
+
 Breakpoints
 Minimum inhibitory concentration (MIC) breakpoint established by the European Committee on Antimicrobial Susceptibility Testing (EUCAST) for Staphylococci and Streptococci (except S. pneumoniae) are Susceptible ≤1 mg/l and Resistant > 1 mg/l.
 
@@ -43,7 +44,7 @@ In two clinical trials in complicated skin and soft tissues infections, 36% of p
 The most common type of infection treated was wound infection (38% of patients), while 21% had major abscesses.
 These limitations of the patients population treated should be taken into account when deciding to use Cubicin.
 
-In a randomised controlled open-label study in 235 patients with Staphylococcus aureus bacteraemia (i.e, at least one positive blood culture of Staphylococcus aureus prior to receiving the first dose) 19 of 120 patients treated with Cubicin met the criteria for RIE.
+In a randomised controlled open-label study in 235 patients with Staphylococcus aureus bacteraemia (i.e., at least one positive blood culture of Staphylococcus aureus prior to receiving the first dose) 19 of 120 patients treated with Cubicin met the criteria for RIE.
 Of these 19 patients 11 were infected with methicillin-susceptible and 8 with methicillin-resistant Staphylococcus aureus.
 The success rates in RIE patients are shown in the table below.
 
@@ -86,7 +87,6 @@ Clinically evaluable 204/207 (98.6%) 99/99 (100%) -1.5
 Microbiologically evaluable (ME) 164/167 (98.2%) 78/78 (100%) -1.8
 
 The overall therapeutic response rate also was similar for the daptomycin and SOC treatment arms for infections caused by MRSA, MSSA and Streptococcus pyogenes (see table below; ME population); response rates were > 94% for both treatment arms across these common pathogens.
-
 Summary of overall therapeutic response by type of baseline pathogen (ME population):
 
 | Pathogen | Success a rate n/N (%) |  |
