@@ -1,22 +1,15 @@
 # 4.2 Posology and method of administration
 
-Nelarabine is for intravenous use only and must only be administered under the supervision of a physician experienced in the use of cytotoxic agents.
+Nelarabine must only be administered under the supervision of a physician experienced in the use of cytotoxic agents.
 
 Posology
-
-Patients receiving nelarabine are recommended to receive intravenous hydration according to standard medical practice for the management of hyperuricaemia in patients at risk for tumour lysis syndrome.
-For patients at risk of hyperuricaemia, the use of allopurinol should be considered (see section 4.4).
 
 Complete blood counts including platelets must be monitored regularly (see sections 4.4 and 4.8).
 
 Adults and adolescents (aged 16 years and older)
-
-The recommended dose of nelarabine for adults is 1,500 mg/m2 administered intravenously over two hours on days 1, 3 and 5 and repeated every 21 days.
-Paediatric population
-
+The recommended dose of nelarabine for adults and adolescents aged 16 years and older is 1,500 mg/m2 administered intravenously over two hours on days 1, 3 and 5 and repeated every 21 days.
 Children and adolescents (aged 21 years and younger)
-
-The recommended dose of nelarabine for children and adolescents is 650 mg/m2 administered intravenously over one hour daily for 5 consecutive days, repeated every 21 days.
+The recommended dose of nelarabine for children and adolescents (aged 21 years and younger) is 650 mg/m2 administered intravenously over one hour daily for 5 consecutive days, repeated every 21 days.
 
 In clinical studies, the 650 mg/m2 and 1,500 mg/m2 dose have both been used in patients in the age range 16 to 21 years.
 Efficacy and safety were similar for both regimens.
@@ -25,27 +18,24 @@ The prescribing physician should consider which regimen is appropriate when trea
 Limited clinical pharmacology data are available for patients below the age of 4 years (see section 5.2).
 
 Dose modification
-
 Nelarabine must be discontinued at the first sign of neurological events of National Cancer Institute Common Terminology Criteria Adverse Event (NCI CTCAE) grade 2 or greater.
 Delaying subsequent dosing is an option for other toxicities, including haematological toxicity.
 
+Special populations
 Elderly
-
 Insufficient numbers of patients aged 65 years of age and older have been treated with nelarabine to determine whether they respond differently than younger patients (see sections 4.4 and 5.2).
 
-Renal Impairment
-
+Renal impairment
 Nelarabine has not been studied in individuals with renal impairment.
 Nelarabine and 9-β-D-arabinofuranosylguanine (ara-G) are partially renally excreted (see section 5.2).
 There are insufficient data to support a dose adjustment recommendation for patients with a renal clearance of creatinine Clcr less than 50 ml/min.
 Patients with renal impairment must be closely monitored for toxicities when treated with nelarabine.
 
-Hepatic Impairment
-
+Hepatic impairment
 Nelarabine has not been studied in patients with hepatic impairment.
 These patients should be treated with caution.
 
 Method of administration
 
-Nelarabine must not be diluted prior to administration.
+Nelarabine is for intravenous use only and must not be diluted prior to administration.
 The appropriate dose of nelarabine must be transferred into polyvinylchloride (PVC) or ethyl vinyl acetate (EVA) infusion bags or glass containers and administered intravenously as a two-hour infusion in adult patients and as a one-hour infusion in paediatric patients.

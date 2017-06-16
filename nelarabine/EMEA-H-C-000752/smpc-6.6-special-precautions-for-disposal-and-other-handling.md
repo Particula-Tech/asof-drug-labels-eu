@@ -1,6 +1,6 @@
 # 6.6 Special precautions for disposal and other handling
 
-The normal procedures for proper handling and disposal of anti-tumour medicinal products should be adopted, namely:
+The normal procedures for proper handling and disposal of cytotoxic anti-tumour medicinal products should be adopted, namely:
 
 - Staff should be trained in how to handle and transfer the medicinal product.
 - Pregnant staff should be excluded from working with this medicinal product.

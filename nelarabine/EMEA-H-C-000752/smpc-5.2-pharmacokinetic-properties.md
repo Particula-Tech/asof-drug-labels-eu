@@ -7,21 +7,19 @@ Accumulation of ara-GTP in leukaemic blasts allows for preferential incorporatio
 This results in cell death.
 Other mechanisms may contribute to the cytotoxic effects of nelarabine.
 In vitro, T-cells are more sensitive than B-cells to the cytotoxic effects of nelarabine.
+
 In a cross-study analysis using data from four Phase I studies, the pharmacokinetics of nelarabine and ara-G were characterized in patients aged less than 18 years and adult patients with refractory leukaemia or lymphoma.
 
 Absorption
 
 Adults
-
 Plasma ara-G Cmax values generally occurred at the end of the nelarabine infusion and were generally higher than nelarabine Cmax values, suggesting rapid and extensive conversion of nelarabine to ara-G.
 After infusion of 1,500 mg/m2 nelarabine over two hours in adult patients, mean (%CV) plasma nelarabine Cmax and AUCinf values were 13.9 µM (81 %) and 13.5 µM.h (56 %) respectively.
 Mean plasma ara-G Cmax and AUCinf values were 115 µM (16 %) and 571 µM.h (30 %), respectively.
 
 Intracellular Cmax for ara-GTP appeared within 3 to 25 hours on day 1.
 Mean (%CV) intracellular ara-GTP Cmax and AUC values were 95.6 µM (139 %) and 2214 µM.h (263 %) at this dose.
-
 Paediatric patients
-
 After infusion of 400 or 650 mg/m2 nelarabine over one hour in 6 paediatric patients, mean (%CV) plasma nelarabine Cmax and AUCinf values, adjusted to a 650 mg/m2 dose, were 45.0 µM (40 %) and 38.0 µM.h (39 %), respectively.
 Mean plasma ara-G Cmax and AUCinf values were 60.1 µM (17 %) and 212 µM.h (18 %), respectively.
 
@@ -44,6 +42,7 @@ Biotransformation
 The principal route of metabolism for nelarabine is O-demethylation by adenosine deaminase to form ara-G, which undergoes hydrolysis to form guanine.
 In addition, some nelarabine is hydrolysed to form methylguanine, which is O-demethylated to form guanine.
 Guanine is N-deaminated to form xanthine, which is further oxidized to yield uric acid.
+
 Elimination
 
 Nelarabine and ara-G are rapidly eliminated from plasma with a half-life of approximately 30 minutes and 3 hours, respectively.
@@ -57,7 +56,6 @@ In 28 adult patients, 24 hours after nelarabine infusion on day 1, mean urinary 
 Renal clearance averaged 9.0 l/h/m2 (151 %) for nelarabine and 2.6 l/h/m2 (83 %) for ara-G in 21 adult patients.
 
 Because the timecourse of intracellular ara-GTP was prolonged, its elimination half-life could not be accurately estimated.
-
 Paediatric population
 
 Limited clinical pharmacology data are available for patients below the age of 4 years.
@@ -75,7 +73,7 @@ Race
 The effect of race on nelarabine and ara-G pharmacokinetics has not been specifically studied.
 In a pharmacokinetic/pharmacodynamic cross study analysis, race had no apparent effect on nelarabine, ara-G, or intracellular ara-GTP pharmacokinetics.
 
-Renal Impairment
+Renal impairment
 
 The pharmacokinetics of nelarabine and ara-G have not been specifically studied in renally impaired or haemodialysed patients.
 Nelarabine is excreted by the kidney to a small extent (5 to 10 % of the administered dose).
@@ -83,6 +81,7 @@ Ara-G is excreted by the kidney to a greater extent (20 to 30 % of the administe
 Adults and children in clinical studies were categorized into the three groups according to renal impairment: normal with Clcr greater than 80 ml/min (n = 56), mild with Clcr equalling 50 to 80 ml/min (n = 12), and moderate with Clcr less than 50 ml/min (n = 2).
 The mean apparent clearance (Cl/F) of ara-G was about 7 % lower in patients with mild renal impairment than in patients with normal renal function (see section 4.2).
 No data are available to provide a dose advice for patients with Clcr less than 50 ml/min.
+
 Elderly
 
 Age has no effect on the pharmacokinetics of nelarabine or ara-G.
