@@ -28,7 +28,6 @@ Colitis has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of colitis, and other causes excluded.
 Corticosteroids should be administered for Grade ≥2 events (initial dose of 1-2 mg/kg/day prednisone or equivalent followed by a taper); pembrolizumab should be withheld for Grade 2 or Grade 3 colitis, and permanently discontinued for Grade 4 colitis (see section 4.2).
 The potential risk of gastrointestinal perforation should be taken into consideration.
-
 Immune-related hepatitis
 Hepatitis has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for changes in liver function (at the start of treatment, periodically during treatment and as indicated based on clinical evaluation) and symptoms of hepatitis, and other causes excluded.
@@ -63,8 +62,8 @@ Thyroid function and hormone levels should be monitored to ensure appropriate ho
 
 Other immune-related adverse reactions
 The following additional clinically significant, immune-related adverse reactions have been reported in patients receiving pembrolizumab: uveitis, arthritis, myositis, pancreatitis, severe skin reactions, Guillain-Barré syndrome, myasthenic syndrome, haemolytic anaemia and partial seizures arising in a patient with inflammatory foci in brain parenchyma (see section 4.8).
-
 Immune-related adverse reactions, including severe and fatal cases, have been reported in clinical trials or in post-marketing experience.
+
 Based on the severity of the adverse reaction, pembrolizumab should be withheld and corticosteroids administered.
 
 Pembrolizumab may be restarted within 12 weeks after last dose of KEYTRUDA if the adverse reaction remains at Grade ≤1 and corticosteroid dose has been reduced to ≤10 mg prednisone or equivalent per day.

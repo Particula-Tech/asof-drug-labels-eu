@@ -71,10 +71,10 @@ Patients with ECOG performance status score ≥2 were excluded from the clinical
 Paediatric population
 The safety and efficacy of KEYTRUDA in children below 18 years of age have not yet been established.
 No data are available.
-
 Method of administration
 KEYTRUDA must be administered by intravenous infusion over 30 minutes.
 KEYTRUDA must not be administered as an intravenous push or bolus injection.
+
 For instructions on reconstitution and dilution of the medicinal product before administration, see section 6.6.
 
 [KEYTRUDA 25 mg/mL concentrate for solution for infusion.]

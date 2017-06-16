@@ -9,6 +9,9 @@ The PD-1 receptor is a negative regulator of T-cell activity that has been shown
 KEYTRUDA potentiates T-cell responses, including anti-tumour responses, through blockade of PD-1 binding to PD-L1 and PD-L2, which are expressed in antigen presenting cells and may be expressed by tumours or other cells in the tumour microenvironment.
 
 Clinical efficacy and safety
+Dosing for patients with melanoma and previously treated NSCLC
+In clinical studies comparing pembrolizumab doses of 2 mg/kg every 3 weeks, 10 mg/kg every 3 weeks, and 10 mg/kg every 2 weeks in patients with melanoma or previously treated patients with NSCLC, efficacy and safety were similar.
+The recommended dose is 2 mg/kg every 3 weeks.
 
 Melanoma
 KEYNOTE-006: Controlled trial in melanoma patients naïve to treatment with ipilimumab
@@ -26,91 +29,104 @@ Thirty-one percent had an ECOG Performance Status of 1, 69% had ECOG Performance
 BRAF mutations were reported in 302 (36%) patients.
 Among patients with BRAF mutant tumours,
 139 (46%) were previously treated with a BRAF inhibitor.
-
 The primary efficacy outcome measures were progression free survival (PFS; as assessed by Integrated Radiology and Oncology Assessment [IRO] review using Response Evaluation Criteria in Solid Tumours [RECIST], version 1.1) and overall survival (OS).
 Secondary efficacy outcome measures were overall response rate (ORR) and response duration.
-Table 3 summarises key efficacy measures in patients naïve to treatment with ipilimumab, and the Kaplan-Meier curves for OS and PFS are shown in Figures 1 and 2.
-Table 3: Response to pembrolizumab 10 mg/kg every 2 or 3 weeks in patients with ipilimumab naïve advanced melanoma in KEYNOTE-006*
+Table 3 summarises key efficacy measures in patients naïve to treatment with ipilimumab at the final analysis performed after a minimum of 21 months of follow-up.
+Kaplan-Meier curves for OS and PFS based on the final analysis are shown in Figures 1 and 2.
+
+Table 3: Efficacy results in KEYNOTE-006
 
 | Endpoint | Pembrolizumab 10 mg/kg every 3 weeks n=277 | Pembrolizumab 10 mg/kg every 2 weeks n=279 | Ipilimumab 3 mg/kg every 3 weeks n=278 |
 | --- | --- | --- | --- |
 | OS |  |  |  |
-| Number (%) of patients with event | 92 (33%) | 85 (30%) | 112 (40%) |
-| Hazard ratio* (95% CI) | 0.69 (0.52, 0.90) | 0.63 (0.47, 0.83) | --- |
-| p-Value† | 0.00358 | 0.00052 | --- |
-| Median in months (95% CI) | Not reached (NA, NA) | Not reached (NA, NA) | Not reached (13, NA) |
+| Number (%) of patients with event | 119 (43%) | 122 (44%) | 142 (51%) |
+| Hazard ratio* (95% CI) | 0.68 (0.53, 0.86) | 0.68 (0.53, 0.87) | --- |
+| p-Value† | < 0.001 | < 0.001 | --- |
+| Median in months (95% CI) | Not reached (24, NA) | Not reached (22, NA) | 16 (14, 22) |
 | PFS |  |  |  |
-| Number (%) of patients with event | 157 (57%) | 157 (56%) | 188 (68%) |
-| Hazard ratio* (95% CI) | 0.58 (0.47, 0.72) | 0.58 (0.46, 0.72) | --- |
-| p-Value† | < 0.00001 | < 0.00001 | --- |
-| Median in months (95% CI) | 4.1 (2.9, 6.9) | 5.5 (3.4, 6.9) | 2.8 (2.8, 2.9) |
+| Number (%) of patients with event | 183 (66%) | 181 (65%) | 202 (73%) |
+| Hazard ratio* (95% CI) | 0.61 (0.50, 0.75) | 0.61 (0.50, 0.75) | --- |
+| p-Value† | < 0.001 | < 0.001 | --- |
+| Median in months (95% CI) | 4.1 (2.9, 7.2) | 5.6 (3.4, 8.2) | 2.8 (2.8, 2.9) |
 | Best overall response |  |  |  |
-| ORR % (95% CI) | 33% (27, 39) | 34% (28, 40) | 12% (8, 16) |
-| Complete response % | 6% | 5% | 1% |
-| Partial response % | 27% | 29% | 10% |
+| ORR % (95% CI) | 36% (30, 42) | 37% (31, 43) | 13% (10, 18) |
+| Complete response % | 13% | 12% | 5% |
+| Partial response % | 23% | 25% | 8% |
 | Response duration‡ |  |  |  |
-| Median in months (range) | Not reached (1.4+, 8.1+) | 8.3 (1.4+, 8.3) | Not reached (1.1+, 7.9+) |
-| % ongoing | 97% | 89% | 88% |
+| Median in months (range) | Not reached (2.0, 22.8+) | Not reached (1.8, 22.8+) | Not reached (1.1+, 23.8+) |
+| % ongoing at 18 months | 68%§ | 71%§ | 70%§ |
 
 * Hazard ratio (pembrolizumab compared to ipilimumab) based on the stratified Cox proportional hazard model
 † Based on stratified Log rank test
 ‡ Based on patients with a best overall response as confirmed complete or partial response
+§ Based on Kaplan-Meier estimation
 NA = not available
-
 Figure 1: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-006 (intent to treat population)
+
 100
+
 90
+
 80
+
 70
+
 60
+
 50
 
-40 Treatment arm OS rate at HR
-12 months (95% CI) p-value
-30 Pembrolizumab 10 mg/kg 74% 0.63 0.00052
-every 2 weeks (0.47, 0.83)
-20 Pembrolizumab 10 mg/kg 68% 0.69 0.00358
-every 3 weeks (0.52, 0.90)
-10 ipilimumab 58%
+40
 
+30
+
+20
+Treatment arm OS rate at 24 months HR (95% CI) p-value Pembrolizumab 10 mg/kg every 2 weeks 55.1% 0.68 (0.53, 0.87) 0.00085
+10 Pembrolizumab 10 mg/kg every 3 weeks 55.3% 0.68 (0.53, 0.86) 0.00083 ipilimumab 43.0%
 0
 
-0 2 4 6 8 10 12 14 16 18
+0 4 8 12 16 20 24 28
 
 Time in Months
 Number at Risk
 
-Pembrolizumab 10 mg/kg every 2 weeks: 279 266 248 233 219 212 177 67 19 0
-Pembrolizumab 10 mg/kg every 3 weeks: 277 266 251 238 215 202 158 71 18 0
-ipilimumab: 278 242 212 188 169 157 117 51 17 0
+Pembrolizumab 10 mg/kg every 2 weeks: 279 249 221 202 176 156 44 0
+Pembrolizumab 10 mg/kg every 3 weeks: 277 251 215 184 174 156 43 0
+ipilimumab: 278 213 170 145 122 110 28 0
 
 Figure 2: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-006 (intent to treat population)
 
-120 Treatment arm PFS rate at PFS rate at HR
-6 months 9 months (95% CI) p-value
-110 Pembrolizumab 10 mg/kg 47% 40% 0.58 <0.00001
-100 every 2 weeks (0.46, 0.72)Pembrolizumab 10 mg/kg 46% 42% 0.58 <0.00001
-90 every 3 weeks (0.47, 0.72)
-ipilimumab 27% 16%
+100
+Treatment arm PFS rate at 18 months HR (95% CI) p-value Pembrolizumab 10 mg/kg every 2 weeks 32.4% 0.61 (0.50, 0.75) 0.00000
+
+90 Pembrolizumab 10 mg/kg every 3 weeks 32.9% 0.61 (0.50, 0.75) 0.00000
+ipilimumab 15.2%
 
 80
+
 70
+
 60
+
 50
+
 40
+
 30
+
 20
+
 10
+
 0
 
-0 2 4 6 8 10 12 14
+0 4 8 12 16 20 24 28
 
 Time in Months
 Number at Risk
 
-Pembrolizumab 10 mg/kg every 2 weeks: 279 231 147 98 49 7 2 0
-Pembrolizumab 10 mg/kg every 3 weeks: 277 235 133 95 53 7 1 1
-ipilimumab: 278 186 88 42 18 2 0 0
+Pembrolizumab 10 mg/kg every 2 weeks: 279 148 116 98 82 52 16 0
+Pembrolizumab 10 mg/kg every 3 weeks: 277 136 111 91 84 60 13 0
+ipilimumab: 278 88 48 34 29 16 5 0
 
 KEYNOTE-002: Controlled trial in melanoma patients previously treated with ipilimumab
 The safety and efficacy of pembrolizumab were investigated in KEYNOTE-002, a multicentre, controlled study for the treatment of advanced melanoma in patients previously treated with ipilimumab and if BRAF V600 mutation-positive, with a BRAF or MEK inhibitor.
@@ -128,62 +144,68 @@ Forty-five percent had an ECOG Performance Status of 1, 40% had elevated LDH and
 
 The primary efficacy outcome measures were PFS as assessed by IRO using RECIST version 1.1 and OS.
 Secondary efficacy outcome measures were ORR and response duration.
-Table 4 summarises key efficacy measures in patients previously treated with ipilimumab, and the Kaplan-Meier curve for PFS is shown in Figure 3.
+Table 4 summarises key efficacy measures at the final analysis in patients previously treated with ipilimumab, and the Kaplan-Meier curve for PFS is shown in Figure 3.
 Both pembrolizumab arms were superior to chemotherapy for PFS, and there was no difference between pembrolizumab doses.
-OS data were not mature at the time of the PFS analysis.
-There was no statistically significant difference between pembrolizumab and chemotherapy in the preliminary OS analysis that was not adjusted for the potentially confounding effects of crossover.
-Of the patients randomised to the chemotherapy arm, 48% crossed over and subsequently received treatment with pembrolizumab.
-
-Table 4: Response to pembrolizumab 2 mg/kg or 10 mg/kg every 3 weeks in patients with unresectable or metastatic melanoma in KEYNOTE-002
+There was no statistically significant difference between pembrolizumab and chemotherapy in the final OS analysis that was not adjusted for the potentially confounding effects of crossover.
+Of the patients randomised to the chemotherapy arm, 55% crossed over and subsequently received treatment with pembrolizumab.
+Table 4: Efficacy results in KEYNOTE-002
 
 | Endpoint | Pembrolizumab 2 mg/kg every 3 weeks n=180 | Pembrolizumab 10 mg/kg every 3 weeks n=181 | Chemotherapy n=179 |
 | --- | --- | --- | --- |
 | PFS |  |  |  |
-| Number (%) of patients with event | 129 (72%) | 126 (70%) | 155 (87%) |
-| Hazard ratio* (95% CI) | 0.57 (0.45, 0.73) | 0.50 (0.39, 0.64) | --- |
-| p-Value† | < 0.0001 | < 0.0001 | --- |
-| Median in months (95% CI) | 2.9 (2.8, 3.8) | 2.9 (2.8, 4.7) | 2.7 (2.5, 2.8) |
+| Number (%) of patients with event | 150 (83%) | 144 (80%) | 172 (96%) |
+| Hazard ratio* (95% CI) | 0.58 (0.46, 0.73) | 0.47 (0.37, 0.60) | --- |
+| p-Value† | < 0.001 | < 0.001 | --- |
+| Median in months (95% CI) | 2.9 (2.8, 3.8) | 3.0 (2.8, 5.2) | 2.8 (2.6, 2.8) |
 | OS |  |  |  |
-| Number (%) of patients with event | 73 (41%) | 69 (38%) | 78 (44%) |
-| Hazard ratio* (95% CI) | 0.88 (0.64, 1.22) | 0.78 (0.56, 1.08) | --- |
-| p-Value† | 0.2294 | 0.0664 | --- |
+| Number (%) of patients with event | 123 (68%) | 117 (65%) | 128 (72%) |
+| Hazard ratio* (95% CI) | 0.86 (0.67, 1.10) | 0.74 (0.57, 0.96) | --- |
+| p-Value† | 0.1173 | 0.0106‡ | --- |
+| Median in months (95% CI) | 13.4 (11.0, 16.4) | 14.7 (11.3, 19.5) | 11.0 (8.9, 13.8) |
 | Best overall response |  |  |  |
-| ORR % (95% CI) | 21% (15, 28) | 25% (19, 32) | 4% (2, 9) |
-| Complete response % | 2% | 3% | 0% |
-| Partial response % | 19% | 23% | 4% |
-| Response duration |  |  |  |
-| Median in months (range) | Not reached (1.4+, 11.5+) | Not reached (1.2+, 11.1+) | 8.5 (1.6+, 9.5) |
-| % ongoing | 87% | 80% | 63% |
+| ORR % (95% CI) | 22% (16, 29) | 28% (21, 35) | 5% (2, 9) |
+| Complete response % | 3% | 7% | 0% |
+| Partial response % | 19% | 20% | 5% |
+| Response duration§ |  |  |  |
+| Median in months (range) | 22.8 (1.4+, 25.3+) | Not reached (1.1+, 28.3+) | 6.8 (2.8, 11.3) |
+| % ongoing at 12 months | 73% ¶ | 79% ¶ | 0% ¶ |
 
 * Hazard ratio (pembrolizumab compared to chemotherapy) based on the stratified Cox proportional hazard model
 † Based on stratified Log rank test
+‡ Not statistically significant after adjustment for multiplicity
+§ Based on patients with a best overall response as confirmed complete or partial response from the final analysis
+¶ Based on Kaplan-Meier estimation
 Figure 3: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-002 (intent to treat population)
 
 100
-Treatment arm PFS rate at PFS rate at HR
-6 Months 9 Months (95% CI) p-value 90 Pembrolizumab 10 mg/kg 38% 29% 0.50 <0.0001
+Treatment arm PFS rate at 18 months HR (95% CI) p-value Pembrolizumab 2 mg/kg every 3 weeks 19.6% 0.58 (0.46, 0.73) <0.0001
 
-every 3 weeks (0.39, 0.64)
-80 Pembrolizumab 2 mg/kg 34% 24% 0.57 <0.0001every 3 weeks (0.45, 0.73)
-Chemotherapy 16% 8%
+90 Pembrolizumab 10 mg/kg every 3 weeks 25.0% 0.47 (0.37, 0.60) <0.0001
+Chemotherapy 1.3%
+
+80
 
 70
+
 60
+
 50
+
 40
+
 30
+
 20
+
 10
+
 0
-
-0 2 4 6 8 10 12 14
-
-Time in Months
+0 3 6 9 12 15 18 21 24 27 30 33 36 Time in Months
 Number at Risk
 
-Pembrolizumab 10 mg/kg: 181 158 82 55 39 15 5 1
-Pembrolizumab 2 mg/kg: 180 153 74 53 26 9 4 2
-Chemotherapy: 179 128 43 22 15 4 2 1
+Pembrolizumab 2 mg/kg every 3 weeks: 180 59 36 29 19 1 0
+Pembrolizumab 10 mg/kg every 3 weeks: 181 69 48 42 30 5 0
+Chemotherapy: 179 31 9 2 1 0 0
 
 KEYNOTE-001: Open label study in melanoma patients naïve and previously treated with ipilimumab
 The safety and efficacy of pembrolizumab for patients with advanced melanoma were investigated in an uncontrolled, open-label study, KEYNOTE-001.
@@ -211,65 +233,93 @@ The primary efficacy outcome measure was ORR as assessed by independent review u
 RECIST 1.1.
 Secondary efficacy outcome measures were disease control rate (DCR; including complete response, partial response and stable disease), response duration, PFS and OS.
 Tumour response was assessed at 12-week intervals.
-Table 5 summarises key efficacy measures in patients previously treated or naïve to treatment with ipilimumab, receiving pembrolizumab at the recommended dose.
-Table 5: Response to pembrolizumab 2 mg/kg every 3 weeks in patients with unresectable or metastatic melanoma in KEYNOTE-001
+Table 5 summarises key efficacy measures in patients previously treated or naïve to treatment with ipilimumab, receiving pembrolizumab at the recommended dose based on a minimum follow-up time of 30 months for all patients.
+
+Table 5: Efficacy results in KEYNOTE-001
 
 | Endpoint | Pembrolizumab 2 mg/kg every 3 weeks in patients previously treated with ipilimumab n=89 | Pembrolizumab 2 mg/kg every 3 weeks in patients naïve to treatment with ipilimumab n=51 |
 | --- | --- | --- |
 | Best Overall Response* by IRO† |  |  |
-| ORR %, (95% CI) | 25% (16, 35) | 33% (21, 48) |
-| Complete response | 3% | 10% |
-| Partial response | 21% | 24% |
-| Disease Control Rate %‡ | 49% | 49% |
+| ORR %, (95% CI) | 26% (17, 36) | 35% (22, 50) |
+| Complete response | 7% | 12% |
+| Partial response | 19% | 24% |
+| Disease Control Rate %‡ | 48% | 49% |
 | Response Duration§ |  |  |
-| Median in months (range) | Not reached (2.8+, 14.3+) | Not reached (1.6+, 13.8+) |
-| % ongoing | 86%¶ | 82%# |
+| Median in months (range) | 30.5 (2.8+, 30.6+) | 27.4 (1.6+, 31.8+) |
+| % ongoing at 24 months¶ | 75% | 71% |
 | PFS |  |  |
-| Median in months (95% CI) | 4.9 (2.8, 8.3) | 5.5 (2.8, 14.0) |
-| PFS rate at 6 months | 43% | 50% |
+| Median in months (95% CI) | 4.9 (2.8, 8.3) | 4.7 (2.8, 13.8) |
+| PFS rate at 12 months | 34% | 38% |
 | OS |  |  |
-| Median in months (95% CI) | Not reached (11, not available) | Not reached (14, not available) |
-| OS rate at 12 months | 60% | 72% |
+| Median in months (95% CI) | 18.9 (11, not available) | 28.0 (14, not available) |
+| OS rate at 24 months | 44% | 56% |
 
 * Includes patients without measurable disease at baseline by independent radiology
 † IRO = Integrated radiology and oncologist assessment using RECIST 1.1
 ‡ Based on best response of stable disease or better
-§ Based on patients with a confirmed response by independent review, starting from the date the response was first recorded; n=22 for patients previously treated with ipilimumab; n=17 for patients naïve to treatment with ipilimumab
-¶ Responders were followed for a minimum of 12 months after initiation of therapy
-# Responders were followed for a minimum of 15 months after initiation of therapy
+§ Based on patients with a confirmed response by independent review, starting from the date the response was first recorded; n=23 for patients previously treated with ipilimumab; n=18 for patients naïve to treatment with ipilimumab
+¶ Based on Kaplan-Meier estimation
 
 Results for patients previously treated with ipilimumab (n=84) and naïve to treatment with ipilimumab (n=52) who received 10 mg/kg of pembrolizumab every 3 weeks were similar to those seen in patients who received 2 mg/kg of pembrolizumab every 3 weeks.
 
 Sub-population analyses
 
 BRAF mutation status in melanoma
-A subgroup analysis of KEYNOTE-002 in patients who were BRAF wild type (n=415; 77%) or BRAF mutant with prior BRAF treatment (n=125; 23%) was performed.
-The PFS HRs (pooled pembrolizumab [2 mg/kg or 10 mg/kg every 3 weeks] vs. chemotherapy) were 0.51 (95% CI: 0.41, 0.65) for BRAF wild type and 0.56 (95% CI: 0.37, 0.85) for BRAF mutant with prior BRAF treatment.
-The PFS HRs for pembrolizumab 2 mg/kg every 3 weeks vs. chemotherapy were 0.51 (95% CI: 0.39, 0.67) for BRAF wild type and 0.74 (95% CI: 0.46, 1.18) for BRAF mutant with prior BRAF treatment.
-The OS HRs for pooled pembrolizumab vs. chemotherapy were 0.83 (95% CI: 0.60, 1.15) for BRAF wild type and 0.82 (95% CI: 0.47, 1.43) for BRAF mutant with prior BRAF treatment.
-The OS HRs for pembrolizumab 2 mg/kg every 3 weeks vs. chemotherapy were 0.80 (95% CI: 0.55, 1.18) for BRAF wild type and 1.03 (95% CI: 0.55, 1.91) for BRAF mutant with prior BRAF treatment.
-ORR for pooled pembrolizumab and pembrolizumab 2 mg/kg every 3 weeks vs. chemotherapy was 27% and 25% vs. 6% for BRAF wild type and 12% and 9% vs. 0% for BRAF mutant with prior BRAF treatment.
+A subgroup analysis was performed as part of the final analysis of KEYNOTE-002 in patients who were BRAF wild type (n=414; 77%) or BRAF mutant with prior BRAF treatment (n=126; 23%) as summarised in Table 6.
+Table 6: Efficacy results by BRAF mutation status in KEYNOTE-002
 
-A subgroup analysis of KEYNOTE-006 in patients who were BRAF wild type (n=525; 63%), BRAF mutant without prior BRAF treatment (n=163; 20%) and BRAF mutant with prior BRAF treatment (n=139; 17%) was performed.
-The PFS HRs (pooled pembrolizumab [10 mg/kg every 2 or 3 weeks] vs. ipilimumab) were 0.57 (95% CI: 0.45, 0.73) for BRAF wild type, 0.50 (95% CI: 0.32, 0.77) for BRAF mutant without prior BRAF treatment, and 0.73 (95% CI: 0.48, 1.11) for BRAF mutant with prior BRAF treatment.
-The OS HRs for pooled pembrolizumab vs. ipilimumab were 0.61 (95% CI: 0.46, 0.82) for BRAF wild type, 0.69 (95% CI: 0.33, 1.45) for BRAF mutant without prior BRAF treatment, and 0.75 (95% CI: 0.45, 1.26) for BRAF mutant with prior BRAF treatment.
-ORR for pooled pembrolizumab vs. ipilimumab was 34% vs. 13% for BRAF wild type, 41% vs. 13% for BRAF mutant without prior BRAF treatment, and 21% vs. 6% for BRAF mutant with prior BRAF treatment.
+|  | BRAF wild type |  | BRAF mutant with prior BRAF treatment |  |
+| --- | --- | --- | --- | --- |
+| Endpoint | Pembrolizumab 2mg/kg every 3 weeks (n=136) | Chemotherapy (n=137) | Pembrolizumab 2mg/kg every 3 weeks (n=44) | Chemotherapy (n=42) |
+| PFS Hazard ratio* (95% CI) | 0.50 (0.39, 0.66) | --- | 0.79 (0.50, 1.25) | --- |
+| OS Hazard ratio* (95% CI) | 0.78 (0.58, 1.04) | --- | 1.07 (0.64, 1.78) | --- |
+| ORR % | 26% | 6% | 9% | 0% |
+
+* Hazard ratio (pembrolizumab compared to chemotherapy) based on the stratified Cox proportional hazard model
+
+A subgroup analysis was performed as part of the final analysis of KEYNOTE-006 in patients who were BRAF wild type (n=525; 63%), BRAF mutant without prior BRAF treatment (n=163; 20%) and BRAF mutant with prior BRAF treatment (n=139; 17%) as summarised in Table 7.
+
+Table 7: Efficacy results by BRAF mutation status in KEYNOTE-006
+
+|  | BRAF wild type |  | BRAF mutant without prior BRAF treatment |  | BRAF mutant with prior BRAF treatment |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Endpoint | Pembrolizumab 10mg/kg every 2 or 3 weeks (pooled) | Ipilimumab (n=170) | Pembrolizumab 10mg/kg every 2 or 3 weeks (pooled) | Ipilimumab (n=55) | Pembrolizumab 10mg/kg every 2 or 3 weeks (pooled) | Ipilimumab (n=52) |
+| PFS Hazard ratio* (95% CI) | 0.61 (0.49, 0.76) | --- | 0.52 (0.35, 0.78) | --- | 0.76 (0.51, 1.14) | --- |
+| OS Hazard ratio* (95% CI) | 0.68 (0.52, 0.88) | --- | 0.70 (0.40, 1.22) | --- | 0.66 (0.41, 1.04) | --- |
+| ORR % | 38% | 14% | 41% | 15% | 24% | 10% |
+
+* Hazard ratio (pembrolizumab compared to ipilimumab) based on the stratified Cox proportional hazard model
 
 PD-L1 status in melanoma
-A subgroup analysis of KEYNOTE-002 in patients who were PD-L1 positive (Allred proportion score of ≥2 representing PD-L1 membrane expression in ≥1% of tumour cells) vs. PD-L1 negative (Allred proportion score of 0 or 1) was performed.
-PD-L1 expression was tested retrospectively by immunohistochemistry research assay with the 22C3 anti-PD-L1 antibody.
-Among patients who were evaluable for PD-L1 expression (78%), 69% (n=291) were PD-L1 positive and 31% (n=130) were PD-L1 negative.
-The PFS HRs (pooled pembrolizumab [2 mg/kg or 10 mg/kg every 3 weeks] vs. chemotherapy) were 0.52 (95% CI: 0.39, 0.68) for PD-L1 positive patients and 0.60 (95% CI: 0.38, 0.94) for PD-L1 negative patients.
-The PFS HRs for pembrolizumab 2 mg/kg every 3 weeks vs. chemotherapy were 0.54 (95% CI: 0.39, 0.75) for PD-L1 positive patients and 0.89 (95% CI: 0.53, 1.50) for PD-L1 negative patients.
-The OS HRs for pooled pembrolizumab vs. chemotherapy were 0.82 (95% CI: 0.55, 1.23) for PD-L1 positive patients and 0.77 (95% CI: 0.43, 1.37) for PD-L1 negative patients.
-The OS HRs for pembrolizumab 2 mg/kg every 3 weeks vs. chemotherapy were 0.93 (95% CI: 0.58, 1.49) for PD-L1 positive patients and 1.19 (95% CI: 0.58, 2.46) for PD-L1 negative patients.
-ORR for pooled pembrolizumab and pembrolizumab 2 mg/kg every 3 weeks vs. chemotherapy was 26% and 23% vs. 4% for PD-L1 positive patients and 15% and 11% vs. 8% for PD-L1 negative patients.
+A subgroup analysis was performed as part of the final analysis of KEYNOTE-002 in patients who were PD-L1 positive (PD-L1 expression in ≥1% of tumour and tumour-associated immune cells) vs. PD-L1 negative.
+PD-L1 expression was tested retrospectively by immunohistochemistry assay with the 22C3 anti-PD-L1 antibody.
+Among patients who were evaluable for PD-L1 expression (79%), 69% (n=294) were PD-L1 positive and 31% (n=134) were PD-L1 negative.
+Table 8 summarises efficacy results by PD-L1 expression.
+Table 8: Efficacy results by PD-L1 expression in KEYNOTE-002
 
-A subgroup analysis of KEYNOTE-006 in patients who were PD-L1 positive (n=671; 80%) vs. PD-L1 negative (n=150; 18%) was performed.
+| Endpoint | Pembrolizumab 2 mg/kg every 3 weeks | Chemotherapy | Pembrolizumab 2 mg/kg every 3 weeks | Chemotherapy |
+| --- | --- | --- | --- | --- |
+|  | PD-L1 positive |  | PD-L1 negative |  |
+| PFS Hazard ratio* (95% CI) | 0.55 (0.40, 0.76) | --- | 0.81 (0.50, 1.31) | --- |
+| OS Hazard ratio* (95% CI) | 0.90 (0.63, 1.28) | --- | 1.18 (0.70, 1.99) | --- |
+| ORR % | 25% | 4% | 10% | 8% |
+
+* Hazard ratio (pembrolizumab compared to chemotherapy) based on the stratified Cox proportional hazard model
+
+A subgroup analysis was performed as part of the final analysis of KEYNOTE-006 in patients who were PD-L1 positive (n=671; 80%) vs. PD-L1 negative (n=150; 18%).
 Among patients who were evaluable for PD-L1 expression (98%), 82% were PD-L1 positive and 18% were PD-L1 negative.
-The PFS HRs (pooled pembrolizumab [10 mg/kg every 2 or 3 weeks] vs. ipilimumab) were 0.53 (95% CI: 0.43, 0.65) for PD-L1 positive patients and 0.73 (95% CI: 0.47, 1.11) for PD-L1 negative patients.
-The OS HRs for pooled pembrolizumab vs. ipilimumab were 0.56 (95% CI: 0.43, 0.73) for PD-L1 positive patients and 0.95 (95% CI: 0.56, 1.62) for PD-L1 negative patients.
-The ORRs for the pooled pembrolizumab vs. ipilimumab group were 37% vs. 12% for PD-L1 positive patients and 18% vs. 11% for PD-L1 negative patients.
+Table 9 summarizes efficacy results by PD-L1 expression.
+
+Table 9: Efficacy results by PD-L1 expression in KEYNOTE-006
+
+| Endpoint | Pembrolizumab 10 mg/kg every 2 or 3 weeks (pooled) | Ipilimumab | Pembrolizumab 10 mg/kg every 2 or 3 weeks (pooled) | Ipilimumab |
+| --- | --- | --- | --- | --- |
+|  | PD L1 positive |  | PD L1 negative |  |
+| PFS Hazard ratio* (95% CI) | 0.53 (0.44, 0.65) | --- | 0.87 (0.58, 1.30) | --- |
+| OS Hazard ratio* (95% CI) | 0.63 (0.50, 0.80) | --- | 0.76 (0.48, 1.19) | --- |
+| ORR % | 40% | 14% | 24% | 13% |
+
+* Hazard ratio (pembrolizumab compared to ipilimumab) based on the stratified Cox proportional hazard model
 
 Ocular melanoma
 In 20 subjects with ocular melanoma included in KEYNOTE-001, no objective responses were reported; stable disease was reported in 6 patients.
@@ -286,15 +336,14 @@ Patients without disease progression could be treated for up to 24 months.
 The study excluded patients with EGFR or ALK genomic tumour aberrations; autoimmune disease that required systemic therapy within 2 years of treatment; a medical condition that required immunosuppression; or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks.
 Assessment of tumour status was performed every 9 weeks.
 Patients on chemotherapy who experienced independently-verified progression of disease were able to crossover and receive pembrolizumab.
-
 Among the 305 patients in KEYNOTE-024, baseline characteristics were: median age 65 years (54% age 65 or older); 61% male; 82% White, 15% Asian; and ECOG performance status 0 and 1 in 35% and 65%, respectively.
 Disease characteristics were squamous (18%) and non-squamous (82%); M1 (99%); and brain metastases (9%).
 
 The primary efficacy outcome measure was PFS as assessed by BICR using RECIST 1.1.
 Secondary efficacy outcome measures were OS and ORR (as assessed by BICR using RECIST 1.1).
-Table 6 summarizes key efficacy measures for the entire ITT population.
+Table 10 summarizes key efficacy measures for the entire ITT population.
 
-Table 6: Efficacy Results in KEYNOTE-024
+Table 10: Efficacy Results in KEYNOTE-024
 
 | Endpoint | Pembrolizumab 200 mg every 3 weeks n=154 | Chemotherapy n=151 |
 | --- | --- | --- |
@@ -402,8 +451,8 @@ Prior therapy included platinum-doublet regimen (100%); patients received one (6
 
 The primary efficacy outcome measures were OS and PFS as assessed by blinded independent central review (BICR) using RECIST 1.1.
 Secondary efficacy outcome measures were ORR and response duration.
-Table 7 summarises key efficacy measures for the entire population (TPS ≥1%) and for the patients with TPS ≥50% and the Kaplan-Meier curve for OS (TPS ≥1%) is shown in Figure 6.
-Table 7: Response to pembrolizumab 2 or 10 mg/kg every 3 weeks in previously treated patients with NSCLC in KEYNOTE-010
+Table 11 summarises key efficacy measures for the entire population (TPS ≥1%) and for the patients with TPS ≥50% and the Kaplan-Meier curve for OS (TPS ≥1%) is shown in Figure 6.
+Table 11: Response to pembrolizumab 2 or 10 mg/kg every 3 weeks in previously treated patients with NSCLC in KEYNOTE-010
 
 | Endpoint | Pembrolizumab 2 mg/kg every 3 weeks | Pembrolizumab 10 mg/kg every 3 weeks | Docetaxel 75 mg/m2 every 3 weeks |
 | --- | --- | --- | --- |
@@ -449,7 +498,6 @@ Table 7: Response to pembrolizumab 2 or 10 mg/kg every 3 weeks in previously tre
 ¶ All responses were partial responses
 # Based on patients with a best overall response as confirmed complete or partial response
 Þ Includes 30, 31 and 2 patients with ongoing responses of 6 months or longer in the pembrolizumab 2 mg/kg, pembrolizumab 10 mg/kg and docetaxel arms respectively ß Includes 22, 24 and 1 patients with ongoing responses of 6 months or longer in the pembrolizumab 2 mg/kg, pembrolizumab 10 mg/kg and docetaxel arms respectively
-
 Figure 6: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-010 (patients with PD-L1 expression tumour proportion score ≥1%, intent to treat population)
 
 100 Treatment arm OS rate at 9 months OS rate at 12 months HR (95% CI) p-value
@@ -505,8 +553,8 @@ Disease subtypes were 97% nodular sclerosis and 3% mixed cellularity.
 The major efficacy outcome measures (ORR and CRR) were assessed by blinded independent central review according to the 2007 revised International Working Group (IWG) criteria.
 Secondary efficacy outcome measures were duration of response, PFS and OS.
 Response was assessed in KN087 and KN013 every 12 and 8 weeks, respectively, with the first planned post-baseline assessment at week 12.
-Efficacy results are summarized in Table 8.
-Table 8: Efficacy results in KEYNOTE-087 and KEYNOTE-013
+Efficacy results are summarized in Table 12.
+Table 12: Efficacy results in KEYNOTE-087 and KEYNOTE-013
 
 |  | KEYNOTE-087a | KEYNOTE-013b |
 | --- | --- | --- |

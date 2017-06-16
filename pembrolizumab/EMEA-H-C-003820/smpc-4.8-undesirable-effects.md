@@ -10,12 +10,12 @@ The majority of adverse reactions reported were of Grade 1 or 2 severity.
 The most serious adverse reactions were immune-related adverse reactions and severe infusion-related reactions (see section 4.4).
 
 Tabulated list of adverse reactions
-Adverse reactions reported in 3,194 patients treated with pembrolizumab in clinical trials are reported in Table 2.
+Adverse reactions observed in clinical studies and reported from post-marketing use of pembrolizumab are listed in Table 2.
 These reactions are presented by system organ class and by frequency.
 Frequencies are defined as: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to < 1/1,000); very rare (< 1/10,000).
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
-Table 2: Adverse reactions in patients treated with pembrolizumab in clinical trials
+Table 2: Adverse reactions in patients treated with pembrolizumab
 
 | Blood and lymphatic system disorders |  |
 | --- | --- |
@@ -24,6 +24,7 @@ Table 2: Adverse reactions in patients treated with pembrolizumab in clinical tr
 | Rare | immune thrombocytopenic purpura, haemolytic anaemia |
 | Immune system disorders |  |
 | Common | infusion related reactiona |
+| Rare | sarcoidosis |
 | Endocrine disorders |  |
 | Common | hyperthyroidism, hypothyroidismb |
 | Uncommon | hypophysitisc, adrenal insufficiency, thyroiditis |
@@ -83,7 +84,6 @@ The median time to onset of pneumonitis was 3.1 months (range 2 days to 19.3 mon
 The median duration was 1.9 months (range 1 day to 17.2+ months).
 Pneumonitis led to discontinuation of pembrolizumab in 48 (1.5%) patients.
 Pneumonitis resolved in 68 patients, 1 with sequelae.
-
 Immune-related colitis
 Colitis occurred in 56 (1.8%) patients, including Grade 2, 3 or 4 cases in 12 (0.4%), 35 (1.1%) and 2 (<0.1%) patients, respectively, receiving pembrolizumab.
 The median time to onset of colitis was 3.5 months (range 7 days to 16.2 months).
@@ -133,7 +133,6 @@ The 23 patients had a median follow-up from subsequent allogeneic HSCT of 5.1 mo
 Immunogenicity
 In clinical studies in patients treated with pembrolizumab 2 mg/kg every 3 weeks, 200 mg every 3 weeks, or 10 mg/kg every two or three weeks, 29 (1.8%) of 1,619 evaluable patients tested positive for treatment-emergent antibodies to pembrolizumab.
 There was no evidence of an altered pharmacokinetic or safety profile with anti-pembrolizumab binding antibody development.
-
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
