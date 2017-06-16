@@ -8,4 +8,4 @@ Paediatric patients (children and adolescents 6-17 years old inclusive) who deve
 
 Treatment of overdose may include gastric lavage if it is performed soon after ingestion.
 Activated charcoal may be useful in limiting the absorption.
-Guanfacine is not dialyzable in clinically significant amounts (2.4%).
+Guanfacine is not dialysable in clinically significant amounts (2.4%).
