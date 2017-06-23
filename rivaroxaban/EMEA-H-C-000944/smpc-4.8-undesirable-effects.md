@@ -87,6 +87,7 @@ The frequency of these adverse reactions reported from post-marketing experience
 Immune system disorders: Angioedema and allergic oedema (In the pooled phase III trials, these events were uncommon (≥ 1/1,000 to < 1/100)).
 Hepatobiliary disorders: Cholestasis, Hepatitis (incl. hepatocellular injury) (In the pooled phase III trials, these events were rare (≥ 1/10,000 to < 1/1,000)).
 Blood and lymphatic system disorders: Thrombocytopenia (In the pooled phase III trials, these events were uncommon (≥ 1/1,000 to < 1/100)).
+Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome/Toxic Epidermal Necrolysis (In the pooled phase III trials, these events were estimated as very rare (<1/10,000)).
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

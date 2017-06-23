@@ -31,7 +31,6 @@ Patients received the first dose of Xarelto at a minimum of 24 hours and up to 7
 
 Both the 2.5 mg twice daily and the 5 mg twice daily regimens of rivaroxaban were effective in further reducing the incidence of CV events on a background of standard antiplatelet care.
 The 2.5 mg twice daily regimen reduced mortality, and there is evidence that the lower dose had lower bleeding risks, therefore rivaroxaban 2.5 mg twice daily co-administered with acetylsalicylic acid (ASA) alone or with ASA plus clopidogrel or ticlopidine is recommended for the prevention of atherothrombotic events in adult patients after an ACS with elevated cardiac biomarkers.
-
 Relative to placebo, Xarelto significantly reduced the primary composite endpoint of CV death, MI or stroke.
 The benefit was driven by a reduction in CV death and MI and appeared early with a constant treatment effect over the entire treatment period (see Table 3 and Figure 1).
 Also the first secondary endpoint (all cause death, MI or stroke) was reduced significantly.

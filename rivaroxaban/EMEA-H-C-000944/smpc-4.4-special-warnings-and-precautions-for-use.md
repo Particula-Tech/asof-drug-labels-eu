@@ -73,6 +73,11 @@ Xarelto should be restarted as soon as possible after the invasive procedure or 
 Elderly population
 Increasing age may increase haemorrhagic risk (see section 5.2).
 
+Dermatological reactions
+Serious skin reactions, including Stevens-Johnson syndrome/Toxic Epidermal Necrolysis, have been reported during post-marketing surveillance in association with the use of rivaroxaban (see section 4.8).
+Patients appear to be at highest risk for these reactions early in the course of therapy: the onset of the reaction occurring in the majority of cases within the first weeks of treatment.
+Rivaroxaban should be discontinued at the first appearance of a severe skin rash (e.g. spreading, intense and/or blistering), or any other sign of hypersensitivity in conjunction with mucosal lesions.
+
 Information about excipients
 Xarelto contains lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
