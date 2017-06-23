@@ -84,11 +84,3 @@ Co-administration of sirolimus (2 mg single dose) with multiple-dose administrat
 Such inhibitors include certain antifungals (e.g. clotrimazole, fluconazole, itraconazole, voriconazole), certain antibiotics (e.g. troleandomycin, telithromycin, clarithromycin), certain protease inhibitors (e.g. ritonavir, indinavir, boceprevir, and telaprevir), nicardipine, bromocriptine, cimetidine, and danazol.
 
 Inducers of CYP3A4 may increase the metabolism of sirolimus and decrease sirolimus blood levels (e.g., St. John's Wort (Hypericum perforatum), anticonvulsants: carbamazepine, phenobarbital, phenytoin).
-
-[Rapamune 1 mg coated tablets.]
-
-(all sentences already above)
-
-[Rapamune 2 mg coated tablets.]
-
-(all sentences already above)

@@ -15,6 +15,7 @@ Talc
 
 Tablet coating:
 
+Rapamune 0.5 mg coated tablets
 Glycerol monooleate
 Pharmaceutical glaze (shellac)
 Calcium sulfate
@@ -26,12 +27,8 @@ Brown iron oxide (E172)
 Poloxamer 188 α-tocopherol
 Povidone
 Carnauba wax
-Ink-Red Opacode S-1-15095
+Printing ink (Shellac, Iron Oxide Red, Propylene Glycol, Ammonium Hydroxide, Simethicone)
 
-[Rapamune 1 mg coated tablets.]
+Rapamune 1 mg coated tablets
 
-(all sentences already above)
-
-[Rapamune 2 mg coated tablets.]
-
-(all sentences already above)
+Rapamune 2 mg coated tablets

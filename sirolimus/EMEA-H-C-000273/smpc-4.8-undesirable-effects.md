@@ -14,8 +14,8 @@ Most patients were on immunosuppressive regimens, which included Rapamune in com
 
 | System organ class | Very common (≥1/10) | Common (≥1/100 to <1/10) | Uncommon (≥1/1,000 to <1/100) | Rare (≥1/10,000 to <1/1,000) | Frequency not known (cannot be estimated from available data) |
 | --- | --- | --- | --- | --- | --- |
-| Infections and infestations | Pneumonia; Fungal infection; Viral infection; Bacterial infection; Herpes simplex infection; Urinary tract infection | Sepsis; Pyelonephritis; Cytomegalo-virus infection; Herpes zoster infection | Clostridium difficile colitis; Mycobacterial infection (including tuberculosis); Epstein-Barr virus infection |  |  |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  | Skin cancer* | Lymphoma*; Post transplant lympho-proliferative disorder |  |  |
+| Infections and infestations | Pneumonia; Fungal infection; Viral infection; Bacterial infection; Herpes simplex infection; Urinary tract infection | Sepsis; Pyelonephritis; Cytomegalo-virus infection; Herpes zoster caused by the varicella zoster virus | Clostridium difficile colitis; Mycobacterial infection (including tuberculosis); Epstein-Barr virus infection |  |  |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  | Non-melanoma skin cancer* | Lymphoma*; Malignant melanoma*; Post transplant lympho-proliferative disorder |  | Neuroendoc rine carcinoma of the skin* |
 | Blood and lymphatic system disorders | Thrombo-cytopaenia; Anaemia; Leucopenia | Haemolytic uraemic syndrome; Neutropaenia | Pancytopaenia; Thrombotic thrombo-cytopaenic purpura |  |  |
 | Immune system disorders |  | Hyper-sensitivity (including angioedema, anaphylactic reaction, and anaphylactoid reaction) |  |  |  |
 | Metabolism and nutrition disorders | Hypokalaemia; Hypophos-phataemia; Hyperlipidaemia (including hypercholesterol-aemia); Hyperglycaemia; Hyper-triglyceridaemia; Diabetes mellitus |  |  |  |  |
@@ -54,12 +54,12 @@ Impairments of sperm parameters have been observed among some patients treated w
 These effects have been reversible upon discontinuation of Rapamune in most cases (see section 5.3).
 
 In patients with delayed graft function, sirolimus may delay recovery of renal function.
+
 The concomitant use of sirolimus with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced HUS/TTP/TMA.
 
 Focal segmental glomerulosclerosis has been reported.
 
 There have also been reports of fluid accumulation, including peripheral oedema, lymphoedema, pleural effusion and pericardial effusions (including haemodynamically significant effusions in children and adults) in patients receiving Rapamune.
-
 In a study evaluating the safety and efficacy of conversion from calcineurin inhibitors to sirolimus (target levels of 12 - 20 ng/mL in maintenance renal transplant patients, enrollment was stopped in the subset of patients (n=90) with a baseline glomerular filtration rate of less than 40 mL/min (see section 5.1).
 There was a higher rate of serious adverse events, including pneumonia, acute rejection, graft loss and death, in this sirolimus treatment arm (n=60, median time post-transplant 36 months).
 
@@ -92,29 +92,3 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 Impaired healing following transplant surgery has been reported, including fascial dehiscence, incisional hernia, and anastomotic disruption (e.g., wound, vascular, airway, ureteral, biliary).
 
 Controlled clinical studies with posology comparable to that currently indicated for the use of Rapamune in adults have not been conducted in children or adolescents below 18 years of age).
-
-[Rapamune 1 mg coated tablets.]
-
-(all sentences already above)
-
-[Rapamune 2 mg coated tablets.]
-
-| System organ class | Very common (≥1/10) | Common (≥1/100 to <1/10) | Uncommon (≥1/1,000 to <1/100) | Rare (≥1/10,000 to <1/1,000) | Frequency not known (cannot be estimated from available data) |
-| --- | --- | --- | --- | --- | --- |
-| Infections and infestations | Pneumonia; Fungal infection; Viral infection; Bacterial infection; Herpes simplex infection; Urinary tract infection | Sepsis; Pyelonephritis; Cytomegalo-virus infection; Herpes zoster infection | Clostridium difficile colitis Mycobacterial infection (including tuberculosis); Epstein-Barr virus infection |  |  |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  | Skin cancer* | Lymphoma*; Post transplant lympho-proliferative disorder |  |  |
-| Blood and lymphatic system disorders | Thrombo-cytopaenia; Anaemia; Leucopenia | Haemolytic uraemic syndrome; Neutropaenia | Pancytopaenia; Thrombotic thrombo-cytopaenic purpura |  |  |
-| Immune system disorders |  | Hyper-sensitivity (including angioedema, anaphylactic reaction, and anaphylactoid reaction) |  |  |  |
-| Metabolism and nutrition disorders | Hypokalaemia; Hypophos-phataemia; Hyperlipidaemia (including hypercholesterol-aemia); Hyperglycaemia; Hyper-triglyceridaemia; Diabetes mellitus |  |  |  |  |
-| Nervous system disorders | Headache |  |  |  | Posterior reversible encephalo-pathy syndrome |
-| Cardiac disorders | Tachycardia | Pericardial effusion |  |  |  |
-| Vascular disorders | Hypertension; Lymphocele | Venous thrombosis (including deep vein thrombosis) | Lymphoedema |  |  |
-| Respiratory, thoracic and mediastinal disorders |  | Pulmonary embolism; Pneumonitis*; Pleural effusion; Epistaxis | Pulmonary haemorrhage | Alveolar proteinosis |  |
-| Gastrointestinal disorders | Abdominal pain; Constipation; Diarrhoea; Nausea | Pancreatitis; Stomatitis; Ascites |  |  |  |
-| Hepatobiliary disorders |  |  | Hepatic failure* |  |  |
-| Skin and subcutaneous tissue disorders | Rash; Acne |  | Dermatitis exfoliative | Hypersen-sitivity vasculitis |  |
-| Musculoskeletal and connective tissue disorders | Arthralgia | Osteonecrosis |  |  |  |
-| Renal and urinary disorders | Proteinuria |  | Nephrotic syndrome (see section 4.4); Focal segmental glomerulo-sclerosis* |  |  |
-| Reproductive system and breast disorders | Menstrual disorder (including amenorrhoea and menorrhagia) | Ovarian cyst |  |  |  |
-| General disorders and administration site conditions | Oedema; Oedema peripheral; Pyrexia; Pain; Impaired healing* |  |  |  |  |
-| Investigations | Blood lactate dehydrogenase increased; Blood creatinine increased; Liver function test abnormal (including alanine aminotransferase increased and aspartate amino-transferase increased) |  |  |  |  |

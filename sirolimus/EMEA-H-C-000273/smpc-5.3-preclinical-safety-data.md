@@ -20,11 +20,3 @@ In rats, sirolimus caused embryo/foetotoxicity that was manifested as mortality 
 Adverse reactions not observed in clinical studies, but seen in animals at exposure levels similar to clinical exposure levels and with possible relevance to clinical use, were as follows: pancreatic islet cell vacuolation, testicular tubular degeneration, gastrointestinal ulceration, bone fractures and calluses, hepatic haematopoiesis, and pulmonary phospholipidosis.
 
 Reductions in testicular weights and/or histological lesions (e.g., tubular atrophy and tubular giant cells) were observed in rats and in a monkey study.
-
-[Rapamune 1 mg coated tablets.]
-
-(all sentences already above)
-
-[Rapamune 2 mg coated tablets.]
-
-(all sentences already above)

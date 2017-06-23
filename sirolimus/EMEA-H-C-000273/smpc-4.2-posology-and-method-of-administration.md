@@ -61,7 +61,7 @@ Black population
 There is limited information indicating that Black renal transplant recipients (predominantly African-American) require higher doses and trough levels of sirolimus to achieve the same efficacy as observed in non-Black patients.
 Currently, the efficacy and safety data are too limited to allow specific recommendations for use of sirolimus in Black recipients.
 
-Elderly (above 65 years)
+Elderly
 Clinical studies with Rapamune oral solution did not include a sufficient number of patients above 65 years of age to determine whether they will respond differently than younger patients (see section 5.2).
 
 Renal impairment
@@ -96,11 +96,3 @@ For instructions on dilution of the medicinal product before administration, see
 Bioavailability has not been determined for tablets after they have been crushed, chewed or split, and therefore this cannot be recommended.
 
 Multiples of 0.5 mg tablets should not be used as a substitute for the 1 mg tablet or for other strengths (see section 5.2).
-
-[Rapamune 1 mg coated tablets.]
-
-(all sentences already above)
-
-[Rapamune 2 mg coated tablets.]
-
-(all sentences already above)

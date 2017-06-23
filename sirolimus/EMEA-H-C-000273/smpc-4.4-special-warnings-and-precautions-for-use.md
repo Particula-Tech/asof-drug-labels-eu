@@ -27,7 +27,7 @@ Based on information from subsequent clinical studies, the use of Rapamune, myco
 Periodic quantitative monitoring of urinary protein excretion is recommended.
 In a study evaluating conversion from calcineurin inhibitors to Rapamune in maintenance renal transplant patients, increased urinary protein excretion was commonly observed at 6 to 24 months after conversion to Rapamune (see section 5.1).
 New onset nephrosis (nephrotic syndrome) was also reported in 2% of the patients in the study (see section 4.8).
-The safety and efficacy of conversion from calcineurin inhibitors to Rapamune in maintenance renal transplant patients have not been established.
+Based on information from an open-label randomised study, conversion from the calcineurin inhibitor tacrolimus to Rapamune in maintenance renal transplant patients was associated with an unfavourable safety profile without efficacy benefit and can therefore not be recommended (see section 5.1).
 
 The concomitant use of Rapamune with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced haemolytic uraemic syndrome/thrombotic thrombocytopenic purpura/thrombotic microangiopathy (HUS/TTP/TMA).
 HMG-CoA reductase inhibitors
@@ -37,8 +37,10 @@ During Rapamune therapy with or without CsA, patients should be monitored for el
 Cytochrome P450 isozymes
 Co-administration of sirolimus with strong inhibitors of CYP3A4 (such as ketoconazole, voriconazole, itraconazole, telithromycin or clarithromycin) or inducers of CYP3A4 (such as rifampin, rifabutin) is not recommended (see section 4.5).
 
-Angiotensin-converting enzyme inhibitors (ACE)
-The concomitant administration of sirolimus and angiotensin-converting enzyme inhibitors has resulted in angioneurotic oedema-type reactions.
+Angioedema
+The concomitant administration of Rapamune and angiotensin-converting enzyme (ACE) inhibitors has resulted in angioneurotic oedema-type reactions.
+Elevated sirolimus levels, for example due to interaction with strong CYP3A4 inhibitors, (with/without concomitant ACE inhibitors) may also potentiate angioedema (see section 4.5).
+In some cases, the angioedema has resolved upon discontinuation or dose reduction of Rapamune.
 
 Increased rates of biopsy confirmed acute rejection (BCAR) have been observed with concomitant use of sirolimus with ACE inhibitors (see section 5.1).
 Patients receiving sirolimus should be monitored closely if taking ACE inhibitors concomitantly.
@@ -112,18 +114,8 @@ In patients with severe hepatic impairment, reduction in maintenance dose by one
 
 Sucrose and lactose
 
-Sirolimus tablets contain 215.7 mg of sucrose and 86.4 mg of lactose.
-
 Sucrose
 Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicine.
 
 Lactose
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
-
-[Rapamune 1 mg coated tablets.]
-
-Sirolimus tablets contain 215.8 mg of sucrose and 86.4 mg of lactose.
-
-[Rapamune 2 mg coated tablets.]
-
-Sirolimus tablets contain 214.4 mg of sucrose and 86.4 mg of lactose.
