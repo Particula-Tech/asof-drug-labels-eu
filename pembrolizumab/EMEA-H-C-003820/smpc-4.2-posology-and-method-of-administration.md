@@ -31,6 +31,8 @@ Table 1: Recommended treatment modifications for KEYTRUDA
 | Hepatitis | Grade 2 with aspartate aminotransferase (AST) or alanine aminotransferase (ALT) > 3 to 5 times ULN or total bilirubin > 1.5 to 3 times ULN | Withhold* |
 |  | Grade ≥3 with AST or ALT > 5 times ULN or total bilirubin > 3 times ULN | Permanently discontinue |
 |  | In case of liver metastasis with baseline Grade 2 elevation of AST or ALT, hepatitis with AST or ALT increases ≥50% and lasts ≥1 week | Permanently discontinue |
+| Skin reactions | Grade 3 or suspected Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN) | Withhold* |
+|  | Grade 4 or confirmed SJS or TEN | Permanently discontinue |
 | Infusion-related reactions | Grade 3 or 4 | Permanently discontinue |
 
 Note: toxicity grades are in accordance with National Cancer Institute Common Terminology Criteria for Adverse Events Version 4.0 (NCI-CTCAE v.4).
@@ -64,13 +66,13 @@ KEYTRUDA has not been studied in patients with moderate or severe hepatic impair
 
 Ocular melanoma
 There are limited data on the safety and efficacy of KEYTRUDA in patients with ocular melanoma (see section 5.1).
-
 Eastern Cooperative Oncology Group (ECOG) performance status score ≥2
 Patients with ECOG performance status score ≥2 were excluded from the clinical trials (see sections 4.4 and 5.1).
 
 Paediatric population
 The safety and efficacy of KEYTRUDA in children below 18 years of age have not yet been established.
 No data are available.
+
 Method of administration
 KEYTRUDA must be administered by intravenous infusion over 30 minutes.
 KEYTRUDA must not be administered as an intravenous push or bolus injection.

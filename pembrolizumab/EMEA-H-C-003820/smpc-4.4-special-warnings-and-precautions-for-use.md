@@ -22,12 +22,12 @@ Pneumonitis, including fatal cases, has been reported in patients receiving pemb
 Patients should be monitored for signs and symptoms of pneumonitis.
 Suspected pneumonitis should be confirmed with radiographic imaging and other causes excluded.
 Corticosteroids should be administered for Grade ≥2 events (initial dose of 1-2 mg/kg/day prednisone or equivalent followed by a taper); pembrolizumab should be withheld for Grade 2 pneumonitis, and permanently discontinued for Grade 3, Grade 4 or recurrent Grade 2 pneumonitis (see section 4.2).
-
 Immune-related colitis
 Colitis has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of colitis, and other causes excluded.
 Corticosteroids should be administered for Grade ≥2 events (initial dose of 1-2 mg/kg/day prednisone or equivalent followed by a taper); pembrolizumab should be withheld for Grade 2 or Grade 3 colitis, and permanently discontinued for Grade 4 colitis (see section 4.2).
 The potential risk of gastrointestinal perforation should be taken into consideration.
+
 Immune-related hepatitis
 Hepatitis has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for changes in liver function (at the start of treatment, periodically during treatment and as indicated based on clinical evaluation) and symptoms of hepatitis, and other causes excluded.
@@ -60,8 +60,20 @@ Pembrolizumab should be withheld for Grade ≥3 until recovery to Grade ≤1 hyp
 For patients with Grade 3 or Grade 4 hyperthyroidism that improved to Grade 2 or lower, continuation of pembrolizumab may be considered, after corticosteroid taper, if needed (see sections 4.2 and 4.8).
 Thyroid function and hormone levels should be monitored to ensure appropriate hormone replacement.
 
+Immune-related skin adverse reactions
+Immune-related severe skin reactions have been reported in patients receiving pembrolizumab (see section 4.8).
+Patients should be monitored for suspected severe skin reactions and other causes should be excluded.
+Based on the severity of the adverse reaction, pembrolizumab should be withheld or permanently discontinued, and corticosteroids should be administered (see section 4.2).
+
+Cases of Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), some with fatal outcome, have been reported in patients receiving pembrolizumab (see section 4.8).
+For signs or symptoms of SJS or TEN, pembrolizumab should be withheld and the patient should be referred to a specialised unit for assessment and treatment.
+If SJS or TEN is confirmed, pembrolizumab should be permanently discontinued (see section 4.2).
+
+Caution should be used when considering the use of pembrolizumab in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other immune-stimulatory anticancer agents.
+
 Other immune-related adverse reactions
-The following additional clinically significant, immune-related adverse reactions have been reported in patients receiving pembrolizumab: uveitis, arthritis, myositis, pancreatitis, severe skin reactions, Guillain-Barré syndrome, myasthenic syndrome, haemolytic anaemia and partial seizures arising in a patient with inflammatory foci in brain parenchyma (see section 4.8).
+The following additional clinically significant, immune-related adverse reactions have been reported in patients receiving pembrolizumab: uveitis, arthritis, myositis, pancreatitis, Guillain-Barré syndrome, myasthenic syndrome, haemolytic anaemia and partial seizures arising in a patient with inflammatory foci in brain parenchyma (see section 4.8).
+
 Immune-related adverse reactions, including severe and fatal cases, have been reported in clinical trials or in post-marketing experience.
 
 Based on the severity of the adverse reaction, pembrolizumab should be withheld and corticosteroids administered.

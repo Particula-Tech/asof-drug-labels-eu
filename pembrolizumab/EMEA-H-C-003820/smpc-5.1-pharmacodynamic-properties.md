@@ -29,6 +29,7 @@ Thirty-one percent had an ECOG Performance Status of 1, 69% had ECOG Performance
 BRAF mutations were reported in 302 (36%) patients.
 Among patients with BRAF mutant tumours,
 139 (46%) were previously treated with a BRAF inhibitor.
+
 The primary efficacy outcome measures were progression free survival (PFS; as assessed by Integrated Radiology and Oncology Assessment [IRO] review using Response Evaluation Criteria in Solid Tumours [RECIST], version 1.1) and overall survival (OS).
 Secondary efficacy outcome measures were overall response rate (ORR) and response duration.
 Table 3 summarises key efficacy measures in patients naïve to treatment with ipilimumab at the final analysis performed after a minimum of 21 months of follow-up.
