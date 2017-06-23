@@ -37,6 +37,11 @@ While on treatment, invasive dental procedures should be performed only after ca
 The management plan of the patients who develop ONJ should be set up in close collaboration between the treating physician and a dentist or oral surgeon with expertise in ONJ.
 Temporary interruption of treatment should be considered until the condition resolves and contributing risk factors are mitigated where possible.
 
+Osteonecrosis of the external auditory canal
+Osteonecrosis of the external auditory canal has been reported with denosumab.
+Possible risk factors for osteonecrosis of the external auditory canal include steroid use and chemotherapy and/or local risk factors such as infection or trauma.
+The possibility of osteonecrosis of the external auditory canal should be considered in patients receiving denosumab who present with ear symptoms including chronic ear infections.
+
 Atypical fractures of the femur
 Atypical femoral fractures have been reported in patients receiving Prolia (see section 4.8).
 Atypical femoral fractures may occur with little or no trauma in the subtrochanteric and diaphyseal regions of the femur.
@@ -58,7 +63,6 @@ Adequate intake of calcium, vitamin D and regular monitoring of calcium is espec
 
 Dry natural rubber
 The needle cover of the pre-filled syringe contains dry natural rubber (a derivative of latex), which may cause allergic reactions.
-
 Warnings for Excipients
 This medicinal product contains sorbitol.
 Patients with rare hereditary problems of fructose intolerance should not use Prolia.

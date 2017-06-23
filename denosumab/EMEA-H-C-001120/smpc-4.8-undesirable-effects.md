@@ -5,9 +5,9 @@ The overall safety profile of Prolia was similar in patients with osteoporosis a
 
 The most common side effects with Prolia (seen in more than one patient in ten) are musculoskeletal pain and pain in the extremity.
 Uncommon cases of cellulitis; rare cases of hypocalcaemia, hypersensitivity, osteonecrosis of the jaw and atypical femoral fractures (see sections 4.4 and section 4.8 - description of selected adverse reactions) have been observed in patients taking Prolia.
-
 Tabulated list of adverse reactions
 The data in Table 1 below describe adverse reactions reported from Phase II and III clinical trials in patients with osteoporosis and breast or prostate cancer patients receiving hormone ablation; and/or spontaneous reporting.
+
 The following convention has been used for the classification of the adverse reactions (see table 1): very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000) and very rare (< 1/10,000).
 Within each frequency grouping and system organ class, adverse reactions are presented in order of decreasing seriousness.
 
@@ -22,9 +22,10 @@ Table 1 Adverse reactions reported in patients with osteoporosis and breast or p
 | Eye disorders | Common | Cataracts1 |
 | Gastrointestinal disorders | Common Common | Constipation Abdominal discomfort |
 | Skin and subcutaneous tissue disorders | Common Common | Rash Eczema |
-| Musculoskeletal and connective tissue disorders | Very common Very common Rare Rare | Pain in extremity Musculoskeletal pain1 Osteonecrosis of the jaw1 Atypical femoral fractures1 |
+| Musculoskeletal and connective tissue disorders | Very common Very common Rare Rare Not Known | Pain in extremity Musculoskeletal pain1 Osteonecrosis of the jaw1 Atypical femoral fractures1 Osteonecrosis of the external auditory canal2 |
 
 1 See section Description of selected adverse reactions
+2 See section 4.4
 
 In a pooled analysis of data from all phase II and phase III placebo controlled studies, Influenza-like illness was reported with a crude incidence rate of 1.2% for denosumab and 0.7 % for placebo.
 Although this imbalance was identified via a pooled analysis, it was not identified via a stratified analysis.
@@ -71,7 +72,6 @@ Musculoskeletal pain leading to discontinuation of study treatment was uncommon.
 Other special populations
 In clinical studies, patients with severe renal impairment (creatinine clearance < 30 ml/min) or receiving dialysis were at greater risk of developing hypocalcaemia in the absence of calcium supplementation.
 Adequate intake of calcium and vitamin D is important in patients with severe renal impairment or receiving dialysis (see section 4.4).
-
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit-risk balance of the medicinal product.
