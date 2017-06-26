@@ -16,4 +16,4 @@ Each gastro-resistant tablet contains 100 mg of posaconazole.
 Each vial contains 300 mg of posaconazole.
 Each mL contains 18 mg of posaconazole.
 
-Each vial contains 462 mg sodium.
+Each vial contains 462 mg (20 mmol) sodium.

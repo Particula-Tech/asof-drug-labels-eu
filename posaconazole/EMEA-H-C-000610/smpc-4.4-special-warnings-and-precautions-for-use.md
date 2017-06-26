@@ -29,18 +29,23 @@ Noxafil should be administered with caution to patients with pro-arrhythmic cond
 
 Electrolyte disturbances, especially those involving potassium, magnesium or calcium levels, should be monitored and corrected as necessary before and during posaconazole therapy.
 
+Drug Interactions
 Posaconazole is an inhibitor of CYP3A4 and should only be used under specific circumstances during treatment with other medicinal products that are metabolised by CYP3A4 (see section 4.5).
 
-Gastrointestinal dysfunction
-There are limited pharmacokinetic data in patients with severe gastrointestinal dysfunction (such as severe diarrhoea).
-Patients who have severe diarrhoea or vomiting should be monitored closely for breakthrough fungal infections.
+Midazolam and other benzodiazepines
+Due to the risk of prolonged sedation and possible respiratory depression co-administration of posaconazole with any benzodiazepines metabolised by CYP3A4 (e.g. midazolam, triazolam, alprazolam) should only be considered if clearly necessary.
+Dose adjustment of benzodiazepines metabolised by CYP3A4 should be considered (see section 4.5).
+
+Vincristine Toxicity
+Concomitant administration of azole antifungals, including posaconazole, with vincristine has been associated with neurotoxicity and other serious adverse reactions, including seizures, peripheral neuropathy, syndrome of inappropriate antidiuretic hormone secretion, and paralytic ileus.
+Reserve azole antifungals, including posaconazole, for patients receiving a vinca alkaloid, including vincristine, who have no alternative antifungal treatment options (see section 4.5).
 
 Rifamycin antibacterials (rifampicin, rifabutin), certain anticonvulsants (phenytoin, carbamazepine, phenobarbital, primidone), efavirenz and cimetidine
 Posaconazole concentrations may be significantly lowered in combination; therefore, concomitant use with posaconazole should be avoided unless the benefit to the patient outweighs the risk (see section 4.5).
 
-Midazolam and other benzodiazepines metabolised by CYP3A4
-Due to the risk of prolonged sedation and possible respiratory depression co-administration of posaconazole with any benzodiazepines metabolised by CYP3A4 (e.g. midazolam, triazolam, alprazolam) should only be considered if clearly necessary.
-Dose adjustment of benzodiazepines metabolised by CYP3A4 should be considered (see section 4.5).
+Gastrointestinal dysfunction
+There are limited pharmacokinetic data in patients with severe gastrointestinal dysfunction (such as severe diarrhoea).
+Patients who have severe diarrhoea or vomiting should be monitored closely for breakthrough fungal infections.
 
 Excipients
 This medicinal product contains approximately 1.75 g of glucose per 5 mL of suspension.
@@ -74,3 +79,7 @@ Thromboembolic events
 Thromboembolic events have been identified as a potential risk for posaconazole intravenous concentrate for solution for infusion but were not observed in the clinical studies.
 Thrombophlebitis was observed in clinical trials.
 Caution is warranted on any sign or symptom of thromboembolic events (see sections 4.8 and 5.3).
+
+Sodium content
+Each vial of Noxafil contains 462 mg (20 mmol) of sodium.
+This should be taken into consideration for patients on a controlled sodium diet.

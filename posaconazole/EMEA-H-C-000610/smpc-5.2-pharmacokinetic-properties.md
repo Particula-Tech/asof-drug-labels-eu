@@ -28,8 +28,9 @@ Steady-state is attained following 7 to 10 days of multiple-dose administration.
 Pharmacokinetics in special populations
 Children (< 18 years)
 Following administration of 800 mg per day of posaconazole as a divided dose for treatment of invasive fungal infections, mean trough plasma concentrations from 12 patients 8 - 17 years of age (776 ng/mL) were similar to concentrations from 194 patients 18 - 64 years of age (817 ng/mL).
-No pharmacokinetic data are available from paediatric patients less than 8 years of age.
 Similarly, in the prophylaxis studies, the mean steady-state posaconazole average concentration (Cav) was comparable among ten adolescents (13-17 years of age) to Cav achieved in adults (≥18 years of age).
+In a study of 136 neutropenic paediatric patients 11 months – 17 years treated with posaconazole oral suspension at doses up to 18 mg/kg/day divided TID, approximately 50% met the pre-specified target (Day 7 Cav between 500 ng/mL-2,500 ng/mL).
+In general, exposures tended to be higher in the older patients (7 to <18 years) than in younger patients (2 to <7 years).
 
 Gender
 The pharmacokinetics of posaconazole are comparable in men and women.
@@ -84,13 +85,13 @@ Steady-state plasma concentrations are attained by Day 6 at the 300 mg dose (onc
 There is no paediatric experience with posaconazole tablets.
 The pharmacokinetics of posaconazole oral suspension have been evaluated in paediatric patients.
 Following administration of 800 mg per day of posaconazole oral suspension as a divided dose for treatment of invasive fungal infections, mean trough plasma concentrations from 12 patients 8 - 17 years of age (776 ng/mL) were similar to concentrations from 194 patients 18 - 64 years of age (817 ng/mL).
+No pharmacokinetic data are available from paediatric patients less than 8 years of age.
 
 The pharmacokinetics of posaconazole tablets are comparable in men and women.
 
 Elderly
 The pharmacokinetics of posaconazole tablets are comparable in young and elderly subjects.
 No overall differences in safety were observed between the geriatric patients and younger patients; therefore, no dosage adjustment is recommended for geriatric patients.
-
 There is insufficient data among different races with posaconazole tablets.
 
 Patients, in particular those receiving posaconazole after HSCT, who have a low body weight
@@ -106,6 +107,7 @@ Posaconazole has a distribution volume of 261 L, indicating extravascular distri
 
 Posaconazole does not have any major circulating metabolites.
 The excreted metabolites in urine and faeces account for approximately 17 % of the administered radiolabelled dose of posaconazole oral suspension.
+
 Posaconazole, after administration of 300 mg of posaconazole concentrate for solution for infusion, is slowly eliminated with a mean half-life (t½) of 27 hours and a mean clearance of 7.3 L/hr.
 After administration of 14C-posaconazole as oral suspension, radioactivity was predominantly recovered in the faeces (77 % of the radiolabelled dose) with the major component being parent compound (66 % of the radiolabelled dose).
 

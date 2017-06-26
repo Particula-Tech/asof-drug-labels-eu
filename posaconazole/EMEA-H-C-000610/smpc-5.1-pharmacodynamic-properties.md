@@ -1,20 +1,20 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antimycotics for systemic use, triazole derivatives, ATC code: J02AC04.
-
 Mechanism of action
 Posaconazole inhibits the enzyme lanosterol 14α-demethylase (CYP51), which catalyses an essential step in ergosterol biosynthesis.
 
 Microbiology
 Posaconazole has been shown in vitro to be active against the following microorganisms: Aspergillus species (Aspergillus fumigatus, A. flavus, A. terreus, A. nidulans, A. niger, A. ustus), Candida species
 (Candida albicans, C. glabrata, C. krusei, C. parapsilosis, C. tropicalis, C. dubliniensis, C. famata, C. inconspicua, C. lipolytica, C. norvegensis, C. pseudotropicalis), Coccidioides immitis, Fonsecaea pedrosoi, and species of Fusarium, Rhizomucor, Mucor, and Rhizopus.
-The microbiological data suggest that posaconazole is active against Rhizomucor, Mucor, and Rhizopus, however the clinical data are currently too limited to assess the efficacy of posaconazole against these causative agents.
+The microbiological data suggest that posaconazole is active against Rhizomucor, Mucor, and Rhizopus; however the clinical data are currently too limited to assess the efficacy of posaconazole against these causative agents.
+
 Resistance
 Clinical isolates with decreased susceptibility to posaconazole have been identified.
 The principle mechanism of resistance is the acquisition of substitutions in the target protein, CYP51.
 
 Epidemiological Cut-off (ECOFF) Values for Aspergillus spp.
-The ECOFF values for posaconazole, which distinguish the wild type population from isolates with acquired resistance have been determined by EUCAST methodology.
+The ECOFF values for posaconazole, which distinguish the wild type population from isolates with acquired resistance, have been determined by EUCAST methodology.
 
 EUCAST ECOFF values:
 
@@ -43,7 +43,6 @@ Pharmacokinetic / Pharmacodynamic relationships
 A correlation between total medicinal product exposure divided by MIC (AUC/MIC) and clinical outcome was observed.
 The critical ratio for subjects with Aspergillus infections was ~200.
 It is particularly important to try to ensure that maximal plasma levels are achieved in patients infected with Aspergillus (see sections 4.2 and 5.2 on recommended dose regimens and the effects of food on absorption).
-
 Clinical experience
 
 Summary of posaconazole oral suspension studies
@@ -83,7 +82,9 @@ Coccidioidomycosis
 Treatment of azole-susceptible Oropharyngeal Candidiasis (OPC)
 A randomised, evaluator-blind, controlled study was completed in HIV-infected patients with azole-susceptible oropharyngeal candidiasis (most patients studied had C. albicans isolated at baseline).
 The primary efficacy variable was the clinical success rate (defined as cure or improvement) after 14 days of treatment.
-Patients were treated with posaconazole or fluconazole oral suspension (both posaconazole and fluconazole were given as follows: 100 mg twice a day for 1 day followed by 100 mg once a day for 13 days).
+Patients were treated with posaconazole or fluconazole oral suspension (both
+
+1 Includes other less common species or species unknown posaconazole and fluconazole were given as follows: 100 mg twice a day for 1 day followed by 100 mg once a day for 13 days).
 
 The clinical response rates from the above study are shown in the Table 4 below.
 Posaconazole was shown to be non-inferior to fluconazole for clinical success rates at Day 14 as well as 4 weeks after the end of treatment.
@@ -98,7 +99,6 @@ Clinical success rates in Oropharyngeal Candidiasis
 
 Clinical success rate was defined as the number of cases assessed as having a clinical response (cure or improvement) divided by the total number of cases eligible for analysis.
 
-1 Includes other less common species or species unknown
 Prophylaxis of Invasive Fungal Infections (IFIs) (Studies 316 and 1899)
 Two randomised, controlled prophylaxis studies were conducted among patients at high risk for developing invasive fungal infections.
 
@@ -129,6 +129,7 @@ Results from clinical studies in prophylaxis of Invasive Fungal Infections
 | 316e | 7/291 (2) | 22/288 (8) | 0.0038 |
 | Fixed-time periodc |  |  |  |
 | 1899d | 14/304 (5) | 33/298 (11) | 0.0031 |
+| Proportion (%) of patients with proven/probable IFIs |  |  |  |
 | 316 d | 16/301 (5) | 27/299 (9) | 0.0740 |
 
 FLU = fluconazole; ITZ = itraconazole; POS = posaconazole.
@@ -136,6 +137,7 @@ a: FLU/ITZ (1899); FLU (316).
 b: In 1899 this was the period from randomization to last dose of study medicinal product plus 7 days; in 316 it was the period from first dose to last dose of study medicinal product plus 7 days.
 c: In 1899, this was the period from randomization to 100 days post-randomization; in 316 it was the period from the baseline day to 111 days post-baseline.
 d: All randomized e: All treated
+
 Table 6.
 Results from clinical studies in prophylaxis of Invasive Fungal Infections
 
@@ -161,13 +163,13 @@ Based on Kaplan-Meier estimates, the probability of survival up to day 100 after
 In Study 316, overall mortality was similar (POS, 25 %; FLU, 28 %); however, the proportion of IFI-related deaths was significantly lower in the POS group (4/301) compared with the FLU group (12/299; P= 0.0413).
 
 Paediatric population
-Sixteen patients 8-17 years of age were treated with posaconazole oral suspension 800 mg/day in a study for invasive fungal infections.
+Sixteen patients 8-17 years of age were treated with posaconazole oral suspension 800 mg/day in a study for invasive fungal infections (Study 0041).
 Based on the available data in 16 of these paediatric patients, the safety profile appears to be similar to patients ≥18 years of age.
 
 Additionally, twelve patients 13-17 years of age received posaconazole oral suspension 600 mg/day for prophylaxis of invasive fungal infections (Studies 316 and 1899).
 The safety profile in these patients < 18 years of age appears similar to the safety profile observed in adults.
 Based on pharmacokinetic data in 10 of these paediatric patients, the pharmacokinetic profile appears to be similar to patients ≥18 years of age.
-
+In a study (Study 03579) of 136 neutropenic paediatric patients 11 months – 17 years treated with posaconazole oral suspension at doses up to 18 mg/kg/day divided TID, approximately 50% met the pre-specified target (Day 7 Cav between 500 ng/mL-2,500 ng/mL) (see section 5.2).
 Safety and efficacy in paediatric patients below the age of 18 years have not been established.
 
 Electrocardiogram evaluation
@@ -218,15 +220,27 @@ As shown in Table 4, a successful response (complete or partial resolution) at t
 | A. terreus | 4/14 (29 %) | 2/13 (15 %) |
 | A. niger | 3/5 (60 %) | 2/7 (29 %) |
 
-2 Includes other less common species or species unknown
+The primary efficacy endpoint was the incidence of proven/probable IFIs at 16 weeks post-randomization as determined by an independent,
+
+2 Includes other less common species or species unknown blinded external expert panel.
+
+| Study | Posaconazole oral suspension | Controla | P-Value |
+| --- | --- | --- | --- |
+| Proportion (%) of patients with proven/probable IFIs |  |  |  |
+| On-treatment periodb |  |  |  |
+| 1899d | 7/304 (2) | 25/298 (8) | 0.0009 |
+| 316e | 7/291 (2) | 22/288 (8) | 0.0038 |
+| Fixed-time periodc |  |  |  |
+| 1899d | 14/304 (5) | 33/298 (11) | 0.0031 |
+| 316 d | 16/301 (5) | 27/299 (9) | 0.0740 |
 
 There is no paediatric experience for posaconazole tablets.
+
+Sixteen patients 8-17 years of age were treated with posaconazole oral suspension 800 mg/day in a study for invasive fungal infections.
 
 [Noxafil 300 mg concentrate for solution for infusion]
 
 Pharmacotherapeutic group: Antimycotics for systemic use, triazole derivatives, ATC code: J02A C04.
-
-The ECOFF values for posaconazole, which distinguish the wild type population from isolates with acquired resistance, have been determined by EUCAST methodology.
 
 Summary of posaconazole concentrate for solution for infusion bridging study
 Study 5520 was a non-comparative multi-center study performed to evaluate the pharmacokinetic properties, safety, and tolerability of posaconazole concentrate for solution for infusion.
@@ -259,10 +273,7 @@ Oral posaconazole suspension 800 mg/day in divided doses was evaluated for the t
 | A. terreus | 4/14 (29 %) | 2/13 (15 %) |
 | A. niger | 3/5 (60 %) | 2/7 (29 %) |
 
-The majority (377/600, [63 %]) of patients included had Acute Grade 2 or 3 or chronic extensive
-
 3 Includes other less common species or species unknown
-(195/600, [32.5 %]) GVHD at study start.
 
 See Table 4 and 5 for results from both studies.
 

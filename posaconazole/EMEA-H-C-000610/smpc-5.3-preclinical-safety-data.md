@@ -6,7 +6,6 @@ Adrenal suppressive effects were observed in toxicity studies in rats and dogs a
 Neuronal phospholipidosis occurred in dogs dosed for ≥3 months at lower systemic exposures than those obtained at therapeutic doses in humans.
 This finding was not seen in monkeys dosed for one year.
 In twelve-month neurotoxicity studies in dogs and monkeys, no functional effects were observed on the central or peripheral nervous systems at systemic exposures greater than those achieved therapeutically.
-
 Pulmonary phospholipidosis resulting in dilatation and obstruction of the alveoli was observed in the 2-year study in rats.
 These findings are not necessarily indicative of a potential for functional changes in humans.
 
@@ -18,6 +17,7 @@ Reproduction, peri- and postnatal development studies were conducted in rats.
 At exposures lower than those obtained at therapeutic doses in humans, posaconazole caused skeletal variations and malformations, dystocia, increased length of gestation, reduced mean litter size and postnatal viability.
 In rabbits, posaconazole was embryotoxic at exposures greater than those obtained at therapeutic doses.
 As observed with other azole antifungal agents, these effects on reproduction were considered to be due to a treatment-related effect on steroidogenesis.
+
 Posaconazole was not genotoxic in in vitro and in vivo studies.
 Carcinogenicity studies did not reveal special hazards for humans.
 

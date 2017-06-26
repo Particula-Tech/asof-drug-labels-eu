@@ -42,7 +42,6 @@ Potassium chloride
 Vancomycin hydrochloride
 
 Any products not listed in the table above should not be coadministered with Noxafil through the same intravenous line (or cannula).
-
 Noxafil concentrate for solution for infusion should be inspected visually for particulate matter prior to administration.
 The solution of Noxafil ranges from colourless to pale yellow.
 Variations of colour within this range do not affect the quality of the product.

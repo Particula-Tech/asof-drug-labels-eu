@@ -8,7 +8,6 @@ Rifabutin
 Rifabutin (300 mg once a day) decreased the Cmax (maximum plasma concentration) and AUC (area under the plasma concentration time curve) of posaconazole to 57 % and 51 %, respectively.
 Concomitant use of posaconazole and rifabutin and similar inducers (e.g. rifampicin) should be avoided unless the benefit to the patient outweighs the risk.
 See also below regarding the effect of posaconazole on rifabutin plasma levels.
-
 Efavirenz
 Efavirenz (400 mg once a day) decreased the Cmax and AUC of posaconazole by 45 % and 50 %, respectively.
 Concomitant use of posaconazole and efavirenz should be avoided unless the benefit to the patient outweighs the risk.
@@ -44,7 +43,6 @@ The effect of co-administration with posaconazole on plasma levels of CYP3A4 sub
 Terfenadine, astemizole, cisapride, pimozide, halofantrine and quinidine (CYP3A4 substrates)
 Co-administration of posaconazole and terfenadine, astemizole, cisapride, pimozide, halofantrine or quinidine is contraindicated.
 Co-administration may result in increased plasma concentrations of these medicinal products, leading to QTc prolongation and rare occurrences of torsades de pointes (see section 4.3).
-
 Ergot alkaloids
 Posaconazole may increase the plasma concentration of ergot alkaloids (ergotamine and dihydroergotamine), which may lead to ergotism.
 Co-administration of posaconazole and ergot alkaloids is contraindicated (see section 4.3).
@@ -54,9 +52,10 @@ Posaconazole may substantially increase plasma levels of HMG-CoA reductase inhib
 Treatment with these HMG-CoA reductase inhibitors should be discontinued during treatment with posaconazole as increased levels have been associated with rhabdomyolysis (see section 4.3).
 
 Vinca alkaloids
-Posaconazole may increase the plasma concentration of vinca alkaloids (e.g. vincristine and vinblastine), which may lead to neurotoxicity.
-Therefore, concomitant use of posaconazole and vinca alkaloids should be avoided unless the benefit to the patient outweighs the risk.
-If co-administered, then it is recommended that dose adjustment of vinca alkaloids be considered.
+Most of the vinca alkaloids (e.g., vincristine and vinblastine) are substrates of CYP3A4.
+Concomitant administration of azole antifungals, including posaconazole, with vincristine has been associated with serious adverse reactions (see section 4.4).
+Posaconazole may increase the plasma concentrations of vinca alkaloids which may lead to neurotoxicity and other serious adverse reactions.
+Therefore, reserve azole antifungals, including posaconazole, for patients receiving a vinca alkaloid, including vincristine, who have no alternative antifungal treatment options.
 
 Rifabutin
 Posaconazole increased the Cmax and AUC of rifabutin by 31 % and 72 %, respectively.
@@ -78,7 +77,6 @@ In heart transplant patients on stable doses of ciclosporin, posaconazole oral s
 Cases of elevated ciclosporin levels resulting in serious adverse reactions, including nephrotoxicity and one fatal case of leukoencephalopathy, were reported in clinical efficacy studies.
 When initiating treatment with posaconazole in patients already receiving ciclosporin, the dose of ciclosporin should be reduced (e.g. to about three quarters of the current dose).
 Thereafter blood levels of ciclosporin should be monitored carefully during co-administration, and upon discontinuation of posaconazole treatment, and the dose of ciclosporin should be adjusted as necessary.
-
 Tacrolimus
 Posaconazole increased Cmax and AUC of tacrolimus (0.05 mg/kg body weight single dose) by 121 % and 358 %, respectively.
 Clinically significant interactions resulting in hospitalisation and/or posaconazole discontinuation were reported in clinical efficacy studies.

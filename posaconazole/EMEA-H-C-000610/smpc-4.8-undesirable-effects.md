@@ -19,8 +19,7 @@ Adverse reactions by body system and frequency*
 | Endocrine disorders Rare: | adrenal insufficiency, blood gonadotropin decreased |
 | Metabolism and nutrition disorders Common: Uncommon: | electrolyte imbalance, anorexia, decreased appetite, hypokalaemia, hypomagnesaemia hyperglycaemia, hypoglycaemia |
 | Psychiatric disorders Uncommon: Rare: | abnormal dreams, confusional state, sleep disorder psychotic disorder, depression |
-| Nervous system disorders Common: Uncommon: | paresthesia, dizziness, somnolence, headache, dysgeusia convulsions, neuropathy, hypoaesthesia, tremor, aphasia, insomnia |
-| Rare: | cerebrovascular accident, encephalopathy, peripheral neuropathy, syncope |
+| Nervous system disorders Common: Uncommon: Rare: | paresthesia, dizziness, somnolence, headache, dysgeusia convulsions, neuropathy, hypoaesthesia, tremor, aphasia, insomnia cerebrovascular accident, encephalopathy, peripheral neuropathy, syncope |
 | Eye disorders Uncommon: Rare: | blurred vision, photophobia, visual acuity reduced diplopia, scotoma |
 | Ear and labyrinth disorder Rare: | hearing impairment |
 | Cardiac disorders Uncommon: Rare: | long QT syndrome§, electrocardiogram abnormal§, palpitations, bradycardia, supraventricular extrasystoles, tachycardia torsade de pointes, sudden death, ventricular tachycardia, cardio-respiratory arrest, cardiac failure, myocardial infarction |
@@ -77,7 +76,8 @@ Posaconazole tablet and oral suspension safety
 | Cardiac disorders Uncommon: Rare: | long QT syndrome§, electrocardiogram abnormal§, palpitations, bradycardia, supraventricular extrasystoles, tachycardia torsade de pointes, sudden death, ventricular tachycardia, cardio-respiratory arrest, cardiac failure, myocardial infarction |
 | Vascular disorders Common: Uncommon: Rare: | hypertension hypotension, vasculitis pulmonary embolism, deep vein thrombosis |
 | Respiratory, thoracic and mediastinal disorders Uncommon: Rare: | cough, epistaxis, hiccups, nasal congestion, pleuritic pain, tachypnoea pulmonary hypertension, interstitial pneumonia, pneumonitis |
-| Gastrointestinal disorders Very Common: Common: Uncommon: Rare: | nausea vomiting, abdominal pain, diarrhoea, dyspepsia, dry mouth, flatulence, constipation, anorectal discomfort pancreatitis, abdominal distension, enteritis, epigastric discomfort, eructation, gastrooesophageal reflux disease, oedema mouth gastrointestinal haemorrhage, ileus |
+| Gastrointestinal disorders Very Common: Common: | nausea vomiting, abdominal pain, diarrhoea, dyspepsia, dry mouth, flatulence, constipation, anorectal discomfort |
+| Uncommon: Rare: | pancreatitis, abdominal distension, enteritis, epigastric discomfort, eructation, gastrooesophageal reflux disease, oedema mouth gastrointestinal haemorrhage, ileus |
 | Hepatobiliary disorders Common: Uncommon: Rare: | liver function tests raised (ALT increased, AST increased, bilirubin increased, alkaline phosphatase increased, GGT increased) hepatocellular damage, hepatitis, jaundice, hepatomegaly, cholestasis, hepatic toxicity, hepatic function abnormal hepatic failure, hepatitis cholestatic, hepatosplenomegaly, liver tenderness, asterixis |
 | Skin and subcutaneous tissue disorders Common: Uncommon: Rare: | rash, pruritis mouth ulceration, alopecia, dermatitis, erythema, petechiae Stevens Johnson syndrome, vesicular rash |
 | Musculoskeletal and connective tissue disorders Uncommon: | back pain, neck pain, musculoskeletal pain, pain in extremity |
@@ -98,7 +98,6 @@ Multiple doses of posaconazole administered via a peripheral venous catheter wer
 Therefore, in subsequent studies posaconazole was administered via central venous catheter.
 If a central venous catheter was not readily available, patients could receive a single infusion over 30 minutes via a peripheral venous catheter.
 Peripheral infusion time longer than 30 minutes, leads to a higher incidence of infusion site reactions and thrombophlebitis.
-
 The safety of posaconazole concentrate for solution for infusion has been assessed in 268 patients in clinical trials.
 Patients were enrolled in a non-comparative pharmacokinetic and safety trial of posaconazole concentrate for solution for infusion when given as antifungal prophylaxis
 (Study 5520).
@@ -108,6 +107,7 @@ No safety data are available for administration
 Safety data in the elderly are limited.
 
 The most frequently reported adverse reaction (>25 %) with an onset during the posaconazole intravenous phase of dosing with 300 mg once daily was diarrhoea (32 %).
+
 The most common adverse reaction (>1 %) leading to discontinuation of posaconazole concentrate for solution for infusion 300 mg once daily was AML (1 %).
 
 | Blood and lymphatic system disorders Common: Uncommon: Rare: | neutropenia thrombocytopenia, leukopenia, anaemia, eosinophilia, lymphadenopathy, splenic infarction haemolytic uraemic syndrome, thrombotic thrombocytopenic purpura, pancytopenia, coagulopathy, haemorrhage |
@@ -130,6 +130,9 @@ The most common adverse reaction (>1 %) leading to discontinuation of posaconazo
 | Renal and urinary disorders Uncommon: Rare: | acute renal failure, renal failure, blood creatinine increased renal tubular acidosis, interstitial nephritis |
 | Reproductive system and breast disorders Uncommon: Rare: | menstrual disorder breast pain |
 | General disorders and administration site conditions Common: Uncommon: Rare: | pyrexia (fever), asthenia, fatigue oedema, pain, chills, malaise, chest discomfort, drug intolerance, feeling jittery, infusion site pain, infusion site phlebitis, infusion site thrombosis, mucosal inflammation tongue oedema, face oedema |
-| Investigations Uncommon: | altered medicine levels, blood phosphorus decreased, chest x-ray abnormal |
+
+Investigations
+Uncommon: altered medicine levels, blood phosphorus decreased, chest x-
+ray abnormal
 
 During post-marketing surveillance severe hepatic injury with fatal outcome has been reported (see section 4.4).
