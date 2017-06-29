@@ -1,8 +1,8 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-In four clinical studies including 532 patients who received IKERVIS and 398 who received IKERVIS vehicle (control), IKERVIS was administered at least once a day in both eyes, for up to one year.
-The most common adverse reactions were eye pain (19%), eye irritation (17.8%), lacrimation (6.2%), ocular hyperaemia (5.5%) and eyelid erythema (1.7%) which were usually transitory and occurred during instillation.
+In five clinical studies including 532 patients who received IKERVIS and 398 who received IKERVIS vehicle (control), IKERVIS was administered at least once a day in both eyes, for up to one year.
+The most common adverse reactions were eye pain (19.2%), eye irritation (17.8%), lacrimation (6.4%), ocular hyperaemia (5.5%) and eyelid erythema (1.7%) which were usually transitory and occurred during instillation.
 The majority of adverse reactions reported in clinical studies with the use of IKERVIS were ocular and mild to moderate in severity.
 
 Tabulated list of adverse reactions

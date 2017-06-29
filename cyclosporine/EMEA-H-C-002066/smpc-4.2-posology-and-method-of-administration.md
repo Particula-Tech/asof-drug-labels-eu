@@ -19,7 +19,7 @@ The effect of IKERVIS has not been studied in patients with hepatic or renal imp
 However, no special considerations are needed in these populations.
 
 Paediatric population
-There is no relevant use of IKERVIS in children and adolescents aged below 18 in the treatment of severe keratitis in adult patients with dry eye disease, which has not improved despite treatment with tear substitutes.
+There is no relevant use of IKERVIS in children and adolescents aged below 18 in the treatment of severe keratitis in patients with dry eye disease, which has not improved despite treatment with tear substitutes.
 Method of administration
 Ocular use.
 
