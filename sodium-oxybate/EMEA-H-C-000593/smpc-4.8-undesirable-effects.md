@@ -17,32 +17,33 @@ Undesirable effects are listed according to MedDRA System Organ Class.
 Frequency estimate: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1000 to < 1/100); rare (≥ 1/10,000 to < 1/1000); very rare (< 1/10,000); not known (cannot be estimated from the available data).
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
 Infections and infestations
 Common: nasopharyngitis, sinusitis
 
 Immune system disorders
 Uncommon: hypersensitivity
-
 Metabolism and nutrition disorders
 Common: anorexia, decreased appetite
-Not known: dehydration
+Not known: Dehydration, increased appetite
 
 Psychiatric disorders
 Common: depression, cataplexy, anxiety, abnormal dreams, confusional state, disorientation, nightmares, sleepwalking, sleep disorder, insomnia, middle insomnia, nervousness
 Uncommon: suicide attempt, psychosis, paranoia, hallucination, abnormal thinking, agitation, initial insomnia
-Not known: suicidal ideation, euphoric mood
+Not known: suicidal ideation, homicidal ideation, aggression, euphoric mood, sleep-related eating disorder, panic attack, mania / bipolar disorder, delusion, bruxism, irritability
 
 Nervous system disorders
 Very common: dizziness, headache
 Common: sleep paralysis, somnolence, tremor, balance disorder, disturbance in attention, hypoaesthesia, paraesthesia, sedation, dysgeusia
 Uncommon: myoclonus, amnesia, restless legs syndrome
-Not known: convulsion
+Not known: convulsion, loss of consciousness, dyskinesia
 
 Eye disorders
 Common: blurred vision
 
 Ear and labyrinth disorders
 Common: vertigo
+Not known tinnitus
 
 Cardiac disorders
 Common: palpitations
@@ -69,9 +70,10 @@ Common: arthralgia, muscle, spasms, back pain
 
 Renal and urinary disorders
 Common: enuresis nocturna, urinary incontinence
+Not known: pollakiuria / micturition urgency
+
 General disorders and administration site conditions
 Common: asthenia, fatigue, feeling drunk, oedema peripheral
-
 Investigations
 Common: blood pressure increased, weight decreased
 

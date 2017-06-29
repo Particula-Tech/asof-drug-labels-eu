@@ -11,6 +11,7 @@ The average time to peak plasma concentration (Tmax) ranged from 0.5 to 2 hours 
 Following oral administration, the plasma levels of sodium oxybate increase more than proportionally with increasing dose.
 Single doses greater than 4.5 g have not been studied.
 Administration of sodium oxybate immediately after a high fat meal resulted in delayed absorption (average Tmax increased from 0.75 hr to 2.0 hr) and a reduction in peak plasma level (Cmax) by a mean of 58% and of systemic exposure (AUC) by 37%.
+
 Distribution
 Sodium oxybate is a hydrophilic compound with an apparent volume of distribution averaging 190-384 mL/kg.
 At sodium oxybate concentrations ranging from 3 to 300 µg/mL, less than 1% is bound to plasma proteins.
