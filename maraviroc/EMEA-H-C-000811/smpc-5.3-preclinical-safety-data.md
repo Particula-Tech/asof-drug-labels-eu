@@ -8,10 +8,11 @@ In vitro and in vivo studies showed that maraviroc has a potential to increase Q
 Repeated dose toxicity studies in rats identified the liver as the primary target organ for toxicity (increases in transaminases, bile duct hyperplasia, and necrosis).
 
 Maraviroc was evaluated for carcinogenic potential by a 6 month transgenic mouse study and a 24 month study in rats.
-In mice, no statistically significant increase in the incidence of tumors was reported at systemic exposures from 7 to 39-times the human exposure (unbound AUC 0-24h measurement) at a dose of 300 mg twice daily.
+In mice, no statistically significant increase in the incidence of tumours was reported at systemic exposures from 7 to 39-times the human exposure (unbound AUC 0-24h measurement) at a dose of 300 mg twice daily.
 In rats, administration of maraviroc at a systemic exposure 21-times the expected human exposure produced thyroid adenomas associated with adaptive liver changes.
 These findings are considered of low human relevance.
 In addition, cholangiocarcinomas (2/60 males at 900 mg/kg) and cholangioma (1/60 females at 500 mg/kg) were reported in the rat study at a systemic exposure at least 15-times the expected free human exposure.
+
 Maraviroc was not mutagenic or genotoxic in a battery of in vitro and in vivo assays including bacterial reverse mutation, chromosome aberrations in human lymphocytes and rat bone marrow micronucleus.
 
 Maraviroc did not impair mating or fertility of male or female rats, and did not affect sperm of treated male rats up to 1000 mg/kg.
