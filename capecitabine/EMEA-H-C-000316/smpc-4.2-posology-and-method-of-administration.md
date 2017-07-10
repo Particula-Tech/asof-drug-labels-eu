@@ -4,6 +4,7 @@ Xeloda should only be prescribed by a qualified physician experienced in the uti
 Careful monitoring during the first cycle of treatment is recommended for all patients.
 Treatment should be discontinued if progressive disease or intolerable toxicity is observed.
 Standard and reduced dose calculations according to body surface area for starting doses of Xeloda of 1250 mg/m2 and 1000 mg/m2 are provided in tables 1 and 2, respectively.
+
 Posology
 
 Recommended posology (see section 5.1):
@@ -15,7 +16,7 @@ Adjuvant treatment in patients with stage III colon cancer is recommended for a 
 
 Combination therapy
 Colon, colorectal and gastric cancer
-In combination treatment, the recommended starting dose of capecitabine should be reduced to 800 – 1000 mg/m2 when administered twice daily for 14 days followed by a 7-day rest period, or to 625 mg/m2 twice daily when administered continuously (see section 5.1).
+In combination treatment, the recommended starting dose of capecitabine should be reduced to 800 - 1000 mg/m2 when administered twice daily for 14 days followed by a 7-day rest period, or to 625 mg/m2 twice daily when administered continuously (see section 5.1).
 For combination with irinotecan, the recommended starting dose is 800 mg/m2 when administered twice daily for 14 days followed by a 7-day rest period combined with irinotecan 200 mg/m2 on day 1.
 The inclusion of bevacizumab in a combination regimen has no effect on the starting dose of capecitabine.
 Premedication to maintain adequate hydration and anti-emesis according to the cisplatin summary of product characteristics should be started prior to cisplatin administration for patients receiving the capecitabine plus cisplatin combination.
@@ -25,7 +26,7 @@ Adjuvant treatment in patients with stage III colon cancer is recommended for a 
 Breast cancer
 In combination with docetaxel, the recommended starting dose of capecitabine in the treatment of metastatic breast cancer is 1250 mg/m2 twice daily for 14 days followed by a 7- day rest period, combined with docetaxel at 75 mg/m2 as a 1 hour intravenous infusion every 3 weeks.
 Premedication with an oral corticosteroid such as dexamethasone according to the docetaxel summary of product characteristics should be started prior to docetaxel administration for patients receiving the capecitabine plus docetaxel combination.
-Xeloda Dose Calculations
+Xeloda dose calculations
 
 Table 1 Standard and reduced dose calculations according to body surface area for a starting dose of capecitabine of 1250 mg/m2
 
@@ -59,8 +60,7 @@ Table 2 Standard and reduced dose calculations according to body surface area fo
 | 2.07 - 2.18 | 2150 | 1 | 4 | 1600 | 1050 |
 | ≥2.19 | 2300 | 2 | 4 | 1750 | 1100 |
 
-Posology adjustments during treatment:
-
+Posology adjustments during treatment
 General
 Toxicity due to capecitabine administration may be managed by symptomatic treatment and/or modification of the dose (treatment interruption or dose reduction).
 Once the dose has been reduced, it should not be increased at a later time.
@@ -69,7 +69,7 @@ Patients taking capecitabine should be informed of the need to interrupt treatme
 Doses of capecitabine omitted for toxicity are not replaced.
 The following are the recommended dose modifications for toxicity:
 
-Table 3 Capecitabine Dose Reduction Schedule (3 weekly Cycle or Continuous Treatment)
+Table 3 Capecitabine dose reduction shedule (3 weekly cycle or continuous treatment)
 
 | Toxicity grades* | Dose changes within a treatment cycle | Dose adjustment for next cycle/dose (% of starting dose) |
 | --- | --- | --- |
@@ -126,7 +126,8 @@ These dose adjustment recommendations for renal impairment apply both to monothe
 Elderly
 During capecitabine monotherapy, no adjustment of the starting dose is needed.
 However, grade 3 or 4 treatment-related adverse reactions were more frequent in patients ≥60 years of age compared to younger patients.
-When capecitabine was used in combination with other medicinal products, elderly patients (≥65 years) experienced more grade 3 and grade 4 adverse drug reactions, including those leading to discontinuation, compared to younger patients.
+When capecitabine was used in combination with other medicinal products, elderly patients
+(≥65 years) experienced more grade 3 and grade 4 adverse drug reactions, including those leading to discontinuation, compared to younger patients.
 Careful monitoring of patients ≥60 years of age is advisable.
 
 - In combination with docetaxel: an increased incidence of grade 3 or 4 treatment-related adverse reactions and treatment-related serious adverse reactions were observed in patients 60 years of age or more (see section 5.1).
@@ -138,16 +139,3 @@ There is no relevant use of capecitabine in the paediatric population in the ind
 
 Method of administration
 Xeloda tablets should be swallowed with water within 30 minutes after a meal.
-
-[Xeloda 500 mg film-coated tablets.]
-
-Patients taking capecitabine should be informed of the need to interrupt treatment immediately if moderate or severe toxicity occurs Doses of capecitabine omitted for toxicity are not replaced.
-
-Table 3 Capecitabine Dose Reduction Schedule (3-weekly Cycle or Continuous Treatment)
-
-Dose modifications for toxicity when capecitabine is used as a 3 weekly in combination with other medicinal products should be made according to table 3 above for capecitabine and according to the appropriate summary of product characteristics for the other medicinal product(s).
-
-Dose modifications for toxicity when capecitabine is used continuously in combination with other medicinal products should be made according to table 3 above for capecitabine and according to the appropriate summary of product characteristics for the other medicinal product.
-
-In patients with moderate renal impairment at baseline, a dose reduction to 75% for a starting dose of 1250mg/m2 is recommended.
-In patients with moderate renal impairment at baseline, no dose reduction is required for a starting dose of 1000mg/m2.

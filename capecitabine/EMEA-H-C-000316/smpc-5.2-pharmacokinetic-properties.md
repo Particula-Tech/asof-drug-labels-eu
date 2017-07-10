@@ -10,7 +10,7 @@ After oral administration, capecitabine is rapidly and extensively absorbed, fol
 Administration with food decreases the rate of capecitabine absorption, but only results in a minor effect on the AUC of 5'-DFUR, and on the AUC of the subsequent metabolite 5-FU.
 At the dose of 1250 mg/m2 on day 14 with administration after food intake, the peak plasma concentrations (Cmax in µg/ml) for capecitabine, 5'-DFCR, 5'-DFUR, 5-FU and FBAL were 4.67, 3.05, 12.1, 0.95 and 5.46 respectively.
 The time to peak plasma concentrations (Tmax in hours) were 1.50, 2.00, 2.00, 2.00 and 3.34.
-The AUC0-∞ values in μg•h/ml were 7.75, 7.24, 24.6, 2.03 and 36.3.
+The AUC0-∞ values in µg•h/ml were 7.75, 7.24, 24.6, 2.03 and 36.3.
 
 Distribution
 In vitro human plasma studies have determined that capecitabine, 5'-DFCR, 5'-DFUR and 5-FU are 54%, 10%, 62% and 10% protein bound, mainly to albumin.
@@ -37,7 +37,7 @@ The elimination half-life (t1/2 in hours) of capecitabine, 5'-DFCR, 5'-DFUR, 5-F
 Capecitabine and its metabolites are predominantly excreted in urine; 95.5% of administered capecitabine dose is recovered in urine.
 Faecal excretion is minimal (2.6%).
 The major metabolite excreted in urine is FBAL, which represents 57% of the administered dose.
-About 3% of the administered dose is excreted in urine as unchanged drug.
+About 3% of the administered dose is excreted in urine unchanged
 Combination therapy
 Phase I studies evaluating the effect of capecitabine on the pharmacokinetics of either docetaxel or paclitaxel and vice versa showed no effect by capecitabine on the pharmacokinetics of docetaxel or paclitaxel (Cmax and AUC) and no effect by docetaxel or paclitaxel on the pharmacokinetics of 5’- DFUR.
 

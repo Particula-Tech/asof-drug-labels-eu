@@ -1,5 +1,6 @@
 # 4.4 Special warnings and precautions for use
 
+Dose limiting toxicities
 Dose limiting toxicities include diarrhoea, abdominal pain, nausea, stomatitis and hand-foot syndrome (hand-foot skin reaction, palmar-plantar erythrodysesthesia).
 Most adverse reactions are reversible and do not require permanent discontinuation of therapy, although doses may need to be withheld or reduced.
 
@@ -13,16 +14,17 @@ Dose reduction should be applied as necessary (see section 4.2).
 Dehydration.
 Dehydration should be prevented or corrected at the onset.
 Patients with anorexia, asthenia, nausea, vomiting or diarrhoea may rapidly become dehydrated.
-Dehydration may cause acute renal failure, especially in patients with pre-existing compromised renal function or when capecitabine is given concomitantly with known nephrotoxic drugs.
+Dehydration may cause acute renal failure, especially in patients with pre-existing compromised renal function or when capecitabine is given concomitantly with known nephrotoxicmedicinal products.
 Acute renal failure secondary to dehydration might be potentially fatal.
 If grade 2 (or higher) dehydration occurs, capecitabine treatment should be immediately interrupted and the dehydration corrected.
 Treatment should not be restarted until the patient is rehydrated and any precipitating causes have been corrected or controlled.
-Dose modifications applied should be applied for the precipitating adverse event as necessary (see section 4.2).
+Dose modifications applied should be applied for the precipitating adverse event as necessary
+(see section 4.2).
 
 Hand-foot syndrome (also known as hand-foot skin reaction or palmar-plantar erythrodysesthesia or chemotherapy induced acral erythema).
 Grade 1 hand-foot syndrome is defined as numbness, dysesthesia/paresthesia, tingling, painless swelling or erythema of the hands and/or feet and/or discomfort which does not disrupt the patient’s normal activities.
-Grade 2 hand-foot syndrome is painful erythema and swelling of the hands and/or feet and/or discomfort affecting the patient’s activities of daily living.
-Grade 3 hand-foot syndrome is moist desquamation, ulceration, blistering and severe pain of the hands and/or feet and/or severe discomfort that causes the patient to be unable to work or perform activities of daily living.
+Grade 2 hand-foot syndrome is painful erythema and swelling of the hands and/or feet and/or discomfort affecting the patient’s activities of daily living.Grade 3 hand-foot syndrome is moist desquamation, ulceration, blistering and severe pain of the hands and/or feet and/or severe discomfort that causes the patient to be unable to work or perform activities of daily living.
+Persistent or severe hand-foot syndrome (Grade 2 and above) can eventually lead to loss of fingerprints which could impact patient identification.
 If grade 2 or 3 hand-foot syndrome occurs, administration of capecitabine should be interrupted until the event resolves or decreases in intensity to grade 1.
 Following grade 3 hand-foot syndrome, subsequent doses of capecitabine should be decreased.
 When capecitabine and cisplatin are used in combination, the use of vitamin B6 (pyridoxine) is not advised for symptomatic or secondary prophylactic treatment of hand–foot syndrome, because of published reports that it may decrease the efficacy of cisplatin.
@@ -44,7 +46,7 @@ Diabetes mellitus or electrolyte disturbances.
 Caution must be exercised in patients with diabetes mellitus or electrolyte disturbances, as these may be aggravated during capecitabine treatment.
 
 Coumarin-derivative anticoagulation.
-In a drug interaction study with single-dose warfarin administration, there was a significant increase in the mean AUC (+57%) of S-warfarin.
+In a interaction study with single-dose warfarin administration, there was a significant increase in the mean AUC (+57%) of S-warfarin.
 These results suggest an interaction, probably due to an inhibition of the cytochrome P450 2C9 isoenzyme system by capecitabine.
 Patients receiving concomitant capecitabine and oral coumarin-derivative anticoagulant therapy should have their anticoagulant response (INR or prothrombin time) monitored closely and the anticoagulant dose adjusted accordingly (see section 4.5).
 
@@ -54,17 +56,19 @@ Administration of capecitabine should be interrupted if treatment-related elevat
 Treatment with capecitabine monotherapy may be resumed when bilirubin decreases to ≤3.0 x ULN or hepatic aminotransferases decrease to ≤ 2.5 x ULN.
 
 Renal impairment.
-The incidence of grade 3 or 4 adverse reactions in patients with moderate renal impairment (creatinine clearance 30-50 ml/min) is increased compared to the overall population (see sections 4.2 and 4.3).
+The incidence of grade 3 or 4 adverse reactions in patients with moderate renal impairment (creatinine clearance 30-50 ml/min) is increased compared to the overall population
+(see sections 4.2 and 4.3).
 
 Dihydropyrimidine dehydrogenase (DPD) deficiency: Rarely, unexpected, severe toxicity (e.g. stomatitis, diarrhoea, mucosal inflammation, neutropenia and neurotoxicity) associated with 5-FU has been attributed to a deficiency of DPD activity.
 Patients with low or absent DPD activity, an enzyme involved in fluorouracil degradation, are at increased risk for severe, life-threatening, or fatal adverse reactions caused by fluorouracil.
 Although DPD deficiency cannot be precisely defined, it is known that patients with certain homozygous or certain compound heterozygous mutations in the DPYD gene locus, which can cause complete or near complete absence of DPD enzymatic activity (as determined from laboratory assays), have the highest risk of life-threatening or fatal toxicity and should not be treated with Xeloda (see section 4.3).
-No dose has been proven safe for patients with complete absence of DPD activity..
+No dose has been proven safe for patients with complete absence of DPD activity.
 
-For patients with partial DPD deficiency (such as those with heterozygous mutations in the DPYD gene) and where the benefits of Xeloda are considered to outweigh the risks (taking into account the suitability of an alternative non-fluoropyrimidine chemotherapeutic regimen), these patients must be treated with extreme caution and frequent monitoring with dose adjusment according to toxicity.There is insufficient data to recommend a specific dose in patients with partial DPD activity as measured by specific test.
+For patients with partial DPD deficiency (such as those with heterozygous mutations in the DPYD gene) and where the benefits of Xeloda are considered to outweigh the risks (taking into account the suitability of an alternative non-fluoropyrimidine chemotherapeutic regimen), these patients must be treated with extreme caution and frequent monitoring with dose adjusment according to toxicity.
+There is insufficient data to recommend a specific dose in patients with partial DPD activity as measured by specific test.
 
 In patients with unrecognised DPD deficiency treated with capecitabine, life-threatening toxicities manifesting as acute overdose may occur (see section 4.9).
-In the event of grade 2-4 acute toxicity, treatment must be discontinued immediately .
+In the event of grade 2-4 acute toxicity, treatment must be discontinued immediately.
 Permanent discontinuation should be considered based on clinical assessment of the onset, duration and severity of the observed toxicities.
 
 Ophthalmologic complications: Patients should be carefully monitored for ophthalmological
@@ -75,12 +79,3 @@ Toxic Epidermal Necrolysis. Xeloda should be permanently discontinued in patient
 severe skin reaction during treatment.
 
 As this medicinal product contains anhydrous lactose as an excipient, patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
-
-[Xeloda 500 mg film-coated tablets.]
-
-Treatment with capecitabine monotherapy may be resumed when bilirubin decreases to ≤ 3.0 x ULN or hepatic aminotransferases decrease to ≤ 2.5 x ULN.
-
-Patients with low or absent DPD activity, an enzyme involved in fluorouracil degradation, are at increased risk for severe, life-threatening, or fatal adverse reactions caused by fluorouracil.Although DPD deficiency cannot be precisely defined, it is known that patients with certain homozygous or certain compound heterozygous mutations in the DPYD gene locus, which can cause complete or near complete absence of DPD enzymatic activity (as determined from laboratory assays), have the highest risk of life-threatening or fatal toxicity and should not be treated with Xeloda (see section 4.3).
-
-Severe skin reactions: Xeloda can induce severe skin reactions such as Stevens-Johnson syndrome and Toxic Epidermal Necrolysis.
-Xeloda should be permanently discontinued in patients who experience a severe skin reaction during treatment.

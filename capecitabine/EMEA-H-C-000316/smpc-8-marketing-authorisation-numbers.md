@@ -1,7 +1,4 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/00/163/001
-
-[Xeloda 500 mg film-coated tablets.]
-
 EU/1/00/163/002
