@@ -3,6 +3,7 @@
 Therapy should be initiated by a physician experienced in the management of HIV infection.
 
 Posology
+
 ISENTRESS should be used in combination with other active anti-retroviral therapies (ARTs) (see sections 4.4 and 5.1).
 
 Adults
@@ -12,12 +13,17 @@ Children and adolescents
 If at least 25 kg, the recommended dosage is 400 mg (one tablet) twice daily.
 If unable to swallow a tablet, consider the chewable tablet.
 
+Additional formulations and strengths available
 ISENTRESS is also available in a chewable tablet formulation for children weighing at least 11 kg and in granules for oral suspension formulation for infants and toddlers from 4 weeks of age and weighing at least 3 kg to less than 20 kg.
-Refer to the chewable tablet and granules for oral suspension EU-SmPCs for additional dosing information.
+Refer to the chewable tablet and granules for oral suspension SmPCs for additional dosing information.
 
 The maximum dose of the chewable tablet is 300 mg twice daily.
-Because the formulations are not bioequivalent, neither the chewable tablets nor the granules for oral suspension should be substituted for the 400 mg tablet (see section 5.2).
+Because the formulations have different pharmacokinetic profiles neither the chewable tablets nor the granules for oral suspension should be substituted for the 400 mg tablet or 600 mg tablet (see section 5.2).
 The chewable tablets and the granules for oral suspension have not been studied in HIV-infected adolescents (12 to 18 years) or adults.
+ISENTRESS is also available for adults and paediatric patients (weighing at least 40 kg), as a 600 mg tablet to be administered as 1,200 mg once daily (two 600 mg tablets) for treatment-naïve patients or patients who are virologically suppressed on an initial regimen of ISENTRESS 400 mg twice daily.
+The 400 mg tablet should not be used to administer the 1,200 mg once daily regimen.
+Refer to the 600 mg Summary of Product Characteristics for additional dosing information.
+
 Elderly
 There is limited information regarding the use of raltegravir in the elderly (see section 5.2).
 Therefore, ISENTRESS should be used with caution in this population.
@@ -35,16 +41,32 @@ Safety and efficacy of raltegravir in infants below 4 weeks of age have not yet 
 No data are available.
 
 Method of administration
+
 Oral use.
 ISENTRESS 400 mg tablets can be administered with or without food.
-The tablets should not be chewed, crushed or split due to anticipated changes in the pharmacokinetic profile
+The tablets should not be chewed, crushed or split due to anticipated changes in the pharmacokinetic profile.
 
-[ISENTRESS 100 mg chewable tablets]
+[ISENTRESS 600 mg film-coated tablets]
+
+Adults and paediatric patients
+In adults and paediatric patients (weighing at least 40 kg), the recommended dosage is 1,200 mg (two 600 mg tablets) once daily for treatment-naïve patients or patients who are virologically suppressed on an initial regimen of ISENTRESS 400 mg twice daily.
+
+ISENTRESS is also available as a 400 mg tablet for twice daily use in HIV infected adults or children and adolescents at least 25 kg.
+The 400 mg tablet should not be used to administer 1,200 mg once daily regimen (please refer to the 400 mg Summary of Product Characteristics).
+
+Because the formulations have different pharmacokinetic profiles neither the chewable tablets nor the granules for oral suspension should be substituted for the 400 mg tablet or the 600 mg tablet (see section 5.2).
+
+ISENTRESS 600 mg film-coated tablet formulation should not be used in children weighing less than 40 kg.
+
+ISENTRESS 600 mg tablets can be administered with or without food as a 1,200 mg once daily dose.
+
+[ISENTRESS 25 mg chewable tablets]
 
 Children
 Children at least 11 kg: weight based dose of the chewable tablet to a maximum dose of 300 mg, twice daily as specified in Tables 1 and 2.
 The chewable tablets are available in 25 mg and scored 100 mg strengths.
 See section 5.2 regarding the limited data on which these dose recommendations are based.
+
 Table 1
 Recommended Dose* for ISENTRESS Chewable Tablets for Paediatric Patients Weighing at Least 25 kg
 
@@ -78,24 +100,22 @@ Recommended Dose* for ISENTRESS Granules For Oral Suspension and Chewable Tablet
 Patients should be instructed to keep scheduled appointments because the ISENTRESS dosage should be adjusted as the child grows.
 
 ISENTRESS is also available in a 400 mg tablet for use in adults, adolescents and children weighing at least 25 kg and able to swallow a tablet; and as granules for oral suspension for use in infants and toddlers from 4 weeks of age and weighing at least 3 kg to less than 20 kg.
-Refer to the 400 mg tablet and granules for oral suspension EU-SmPCs for additional dosing information.
+Refer to the 400 mg tablet and granules for oral suspension SmPCs for additional dosing information.
+
+Refer to the 600 mg tablet SmPCs for additional dosing information.
 
 ISENTRESS chewable tablets can be administered with or without food (see section 5.2).
 
-[ISENTRESS 25 mg chewable tablets]
-
-(all sentences already above)
-
 [ISENTRESS 100 mg granules for oral suspension]
 
-Because the formulations are not bioequivalent, neither the granules for oral suspension nor the chewable tablets should be substituted for the 400 mg tablet (see section 5.2).
+Because the formulations have different pharmacokinetic profiles neither the granules for oral suspension nor the chewable tablets should be substituted for the 400 mg tablet or 600 mg tablet (see section 5.2).
 The granules for oral suspension and the chewable tablets have not been studied in HIV-infected adolescents (12 to 18 years) or adults.
 
 Infants and Toddlers from the age of 4 weeks
 Dosing is weight based from the age of 4 weeks and a weight of 3 kg as specified in Table 1.
 Patients can remain on the granules for oral suspension as long as their weight is below 20 kg.
 For patients weighing between 11 and 20 kg, either the granules for oral suspension or the chewable tablet can be used as specified in Table 1 (see section 5.2).
-Refer to the chewable tablet EU-SmPC for additional dosing information.
+Refer to the chewable tablet SmPC for additional dosing information.
 
 After administration of the required volume from the 5 ml syringe with the dissolved suspension of raltegravir, the remaining suspended medicine cannot be re-used and should be discarded (see section 6.6).
 
@@ -107,7 +127,7 @@ Scheduled appointments for the patient should be kept because the ISENTRESS dosa
 
 ISENTRESS is also available in a 400 mg tablet for use in adults, adolescents and children weighing at least 25 kg and able to swallow a tablet.
 For patients weighing at least 25 kg but are unable to swallow a tablet, consider the chewable tablet.
-Refer to the 400 mg and chewable tablet EU-SmPCs for additional dosing information.
+Refer to the 400 mg and chewable tablet SmPCs for additional dosing information.
 
 Therefore ISENTRESS should be used with caution in this population.
 

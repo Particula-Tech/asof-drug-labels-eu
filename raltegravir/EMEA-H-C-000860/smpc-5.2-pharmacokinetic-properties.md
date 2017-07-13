@@ -1,6 +1,7 @@
 # 5.2 Pharmacokinetic properties
 
 Absorption
+
 As demonstrated in healthy volunteers administered single oral doses of raltegravir in the fasted state, raltegravir is rapidly absorbed with a tmax of approximately 3 hours postdose.
 Raltegravir AUC and Cmax increase dose proportionally over the dose range 100 mg to 1,600 mg.
 Raltegravir C12 hr increases dose proportionally over the dose range of 100 to 800 mg and increases slightly less than dose proportionally over the dose range 100 mg to 1,600 mg.
@@ -9,7 +10,7 @@ Dose proportionality has not been established in patients.
 With twice-daily dosing, pharmacokinetic steady state is achieved rapidly, within approximately the first 2 days of dosing.
 There is little to no accumulation in AUC and Cmax and evidence of slight accumulation in C12 hr. The absolute bioavailability of raltegravir has not been established.
 
-ISENTRESS may be administered with or without food.
+Raltegravir may be administered with or without food.
 Raltegravir was administered without regard to food in the pivotal safety and efficacy studies in HIV-infected patients.
 Administration of multiple doses of raltegravir following a moderate-fat meal did not affect raltegravir AUC to a clinically meaningful degree with an increase of 13 % relative to fasting.
 Raltegravir C12 hr was 66 % higher and Cmax was 5 % higher following a moderate-fat meal compared to fasting.
@@ -22,6 +23,7 @@ For observed C12 hr in BENCHMRK 1 and 2 the coefficient of variation (CV) for in
 Sources of variability may include differences in co-administration with food and concomitant medicines.
 
 Distribution
+
 Raltegravir is approximately 83 % bound to human plasma protein over the concentration range of 2 to 10 µM.
 Raltegravir readily crossed the placenta in rats, but did not penetrate the brain to any appreciable extent.
 
@@ -31,6 +33,7 @@ In the second study (n=16), the median cerebrospinal fluid concentration was 3 %
 These median proportions are approximately 3- to 6-fold lower than the free fraction of raltegravir in plasma.
 
 Biotransformation and excretion
+
 The apparent terminal half-life of raltegravir is approximately 9 hours, with a shorter α-phase half-life (~1 hour) accounting for much of the AUC.
 Following administration of an oral dose of radiolabeled raltegravir, approximately 51 and 32 % of the dose was excreted in faeces and urine, respectively.
 In faeces, only raltegravir was present, most of which is likely to be derived from hydrolysis of raltegravir-glucuronide secreted in bile as observed in preclinical species.
@@ -51,8 +54,8 @@ In this study, administration of the chewable tablet with a high fat meal led to
 62 % decrease in Cmax, and 188 % increase in C12hr compared to administration in the fasted state.
 Administration of the chewable tablet with a high fat meal does not affect raltegravir pharmacokinetics to a clinically meaningful degree and the chewable tablet can be administered without regard to food.
 The effect of food on the granules for oral suspension formulation was not studied.
+Table 6 displays pharmacokinetic parameters in the 400 mg tablet, the chewable tablet, and the granules for oral suspension, by body weight.
 
-Table 6 displays pharmacokinetic parameters in the 400 mg tablet, the chewable tablet), and the granules for oral suspension, by body weight.
 Table 6
 Raltegravir Pharmacokinetic Parameters IMPAACT P1066 Following Administration of Doses in Section 4.2
 
@@ -67,7 +70,7 @@ Raltegravir Pharmacokinetic Parameters IMPAACT P1066 Following Administration of
 The pharmacokinetics of raltegravir in infants under 4 weeks of age has not been established.
 
 Elderly
-There was no clinically meaningful effect of age on raltegravir pharmacokinetics over the age range studied (19 to 71 years, with few (8) subjects over the age of 65).
+There was no clinically meaningful effect of age on raltegravir pharmacokinetics over the age range studied (19 to 84 years, with few subjects over the age of 65).
 
 Gender, race and BMI
 There were no clinically important pharmacokinetic differences due to gender, race or body mass index (BMI) in adults.
@@ -82,9 +85,44 @@ Raltegravir is eliminated primarily by glucuronidation in the liver.
 In adults, there were no clinically important pharmacokinetic differences between patients with moderate hepatic insufficiency and healthy subjects.
 The effect of severe hepatic insufficiency on the pharmacokinetics of raltegravir has not been studied (see sections 4.2 and 4.4).
 
-[ISENTRESS 100 mg chewable tablets]
+[ISENTRESS 600 mg film-coated tablets]
+
+Raltegravir 1,200 mg once daily is also rapidly absorbed with median Tmax ~1.5 to 2 hours in the fasted state and generates a sharper absorption peak with a tendency to higher Cmax in comparison to raltegravir twice daily (1 x 400 mg tablet twice daily).
+In addition, relative to the raltegravir 400 mg formulation the raltegravir 600 mg formulation used in the 1,200 mg (2 x 600 mg) once daily dosing regimen has higher relative bioavailability (by 21 to 66%).
+Once absorbed, both formulations of raltegravir exhibit similar systemic pharmacokinetics.
+In patients, after 1,200 mg once daily raltegravir dosing, steady state AUC0-24 was 53.7 h·μM, C24 was 75.6 nM, and median Tmax was 1.50 h.
+
+Raltegravir 400 mg twice daily may be administered with or without food.
+
+Raltegravir 600 mg tablets (2 x 600 mg once daily) may be administered with or without food.
+A single dose food effect study demonstrated that the 1,200 mg once daily had similar or smaller food effects when studied under high-fat and low-fat meal conditions when compared to the 400 mg twice daily.
+Administration of a low fat meal with raltegravir 1,200 mg once daily resulted in a 42% decrease in AUC0-last, 52% decrease in Cmax, and 16% decrease in C24hr.
+Administration of a high fat meal resulted in a 1.9% increase in AUC0-last, 28% decrease in Cmax, and 12% decrease in C24 hr.
+
+62 % decrease in Cmax, and 188 % increase in C12 hr compared to administration in the fasted state.
+
+Table 5 displays pharmacokinetic parameters in the 400 mg tablet, the chewable tablet, and the granules for oral suspension, by body weight.
+Table 5
+
+There was no clinically meaningful effect of age on raltegravir pharmacokinetics over the age range studied with raltegravir 400 mg twice daily.
+There was no clinically meaningful effect of age on raltegravir pharmacokinetics over the age range studied in Protocol 292 with raltegravir 1,200 mg
+(2 x 600 mg) once daily.
+
+Gender, race, ethnicity and body weight
+There were no clinically important pharmacokinetic differences due to gender, race, ethnicity or body weight in adults for raltegravir 400 mg twice daily, and no clinically meaningful effect on raltegravir pharmacokinetics was concluded.
+For raltegravir 1,200 mg (2 x 600 mg) once daily, population
+PK analysis also demonstrated that the impacts of gender, race, ethnicity and body weight are not clinically meaningful.
+
+In adults, there were no clinically important pharmacokinetic differences between patients with severe renal insufficiency and healthy subjects (see section 4.2 of the 400 mg twice daily SmPC).
+No renal impairment study was conducted with raltegravir 1,200 mg once daily however, based on results with the 400 mg twice daily tablet, no clinically meaningful effect is anticipated.
+
+The effect of severe hepatic insufficiency on the pharmacokinetics of raltegravir has not been studied (see sections 4.2 and 4.4 of the 400 mg twice daily SmPC).
+No hepatic impairment study has been conducted with raltegravir 1,200 mg once daily, however, based on results with the 400 mg twice daily tablet, no clinically meaningful effect is expected for mild and moderate hepatic impairment.
+
+[ISENTRESS 25 mg chewable tablets]
 
 Table 8 displays pharmacokinetic parameters in the 400 mg tablet, the chewable tablet), and the granules for oral suspension, by body weight.
+
 Table 8
 
 | Body weight | Formulation | Dose | N* | Geometric mean (%CV†) AUC0-12hr (μM●hr) | Geometric mean (%CV†) C12hr (nM) |
@@ -94,10 +132,6 @@ Table 8
 | 11 to less than 25 kg | Chewable tablet | Weight based dosing, see dosing Table 2 | 13 | 18.6 (68 %) | 82 (123 %) |
 | 3 to less than 20 kg | Oral suspension | Weight based dosing, see dosing table for granules for oral suspension | 19 | 24.5 (43 %) | 113 (69 %) |
 | *Number of patients with intensive pharmacokinetic (PK) results at the final recommended dose. †Geometric coefficient of variation. |  |  |  |  |  |
-
-[ISENTRESS 25 mg chewable tablets]
-
-In this study, administration of the chewable tablet with a high fat meal led to an average 6 % decrease in AUC, 62 % decrease in Cmax, and 188 % increase in C12hr compared to administration in the fasted state.
 
 [ISENTRESS 100 mg granules for oral suspension]
 

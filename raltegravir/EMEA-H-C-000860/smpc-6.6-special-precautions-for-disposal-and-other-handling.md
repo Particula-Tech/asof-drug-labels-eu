@@ -2,7 +2,7 @@
 
 No special requirements for disposal.
 
-[ISENTRESS 100 mg chewable tablets]
+[ISENTRESS 600 mg film-coated tablets]
 
 (all sentences already above)
 

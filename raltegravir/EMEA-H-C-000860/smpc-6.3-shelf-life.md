@@ -2,7 +2,7 @@
 
 30 months
 
-[ISENTRESS 100 mg chewable tablets]
+[ISENTRESS 600 mg film-coated tablets]
 
 2 years
 
@@ -13,4 +13,4 @@
 [ISENTRESS 100 mg granules for oral suspension]
 
 2 years for unopened sachet.
-After reconstitution: 30 minutes when stored at or below 30° C.
+After reconstitution: 30 minutes when stored at or below 30 C.

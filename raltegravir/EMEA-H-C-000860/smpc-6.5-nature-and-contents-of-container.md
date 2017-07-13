@@ -5,13 +5,14 @@ Two pack sizes are available: 1 bottle with 60 tablets, and 3 bottles of 60 tabl
 
 Not all pack sizes may be marketed.
 
-[ISENTRESS 100 mg chewable tablets]
+[ISENTRESS 600 mg film-coated tablets]
 
-High density polyethylene (HDPE) bottle with a child-resistant polypropylene closure, induction seal and silica gel desiccant: 60 tablets.
+High density polyethylene (HDPE) bottle with a child-resistant polypropylene closure, induction seal and silica gel dessicant.
+One pack size is available: 1 bottle with 60 tablets.
 
 [ISENTRESS 25 mg chewable tablets]
 
-(all sentences already above)
+High density polyethylene (HDPE) bottle with a child-resistant polypropylene closure, induction seal and silica gel desiccant: 60 tablets.
 
 [ISENTRESS 100 mg granules for oral suspension]
 

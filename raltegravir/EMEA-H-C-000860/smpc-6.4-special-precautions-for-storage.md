@@ -2,7 +2,7 @@
 
 This medicinal product does not require any special storage conditions.
 
-[ISENTRESS 100 mg chewable tablets]
+[ISENTRESS 600 mg film-coated tablets]
 
 Keep the bottle tightly closed, with the desiccant in order to protect from moisture.
 

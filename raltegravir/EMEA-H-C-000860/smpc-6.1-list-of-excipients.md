@@ -17,8 +17,19 @@ Film-coating
 - Red iron oxide
 - Black iron oxide
 
-[ISENTRESS 100 mg chewable tablets]
+[ISENTRESS 600 mg film-coated tablets]
 
+- Hypromellose 2910
+- Croscarmellose sodium
+
+- Triacetin
+- Iron oxide yellow
+
+The tablet may also contain trace amount of carnauba wax.
+
+[ISENTRESS 25 mg chewable tablets]
+
+Chewable tablet 25 mg
 - Hydroxypropyl cellulose
 - Sucralose
 - Saccharin sodium
@@ -32,7 +43,6 @@ Film-coating
 - Masking flavour
 - Aspartame (E951)
 - Crospovidone, Type A
-- Sodium stearyl fumarate- Magnesium stearate
 - Hypromellose 2910/6cP
 - Macrogol/PEG 400
 - Ethylcellulose 20 cP
@@ -41,9 +51,8 @@ Film-coating
 - Oleic acid
 - Yellow iron oxide
 
-[ISENTRESS 25 mg chewable tablets]
-
-(all sentences already above)
+Chewable tablet 100 mg
+- Sodium stearyl fumarate- Magnesium stearate
 
 [ISENTRESS 100 mg granules for oral suspension]
 
