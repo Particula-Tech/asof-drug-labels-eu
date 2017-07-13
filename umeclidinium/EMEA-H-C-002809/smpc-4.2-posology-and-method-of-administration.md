@@ -30,12 +30,12 @@ Incruse is for inhalation use only.
 
 Instructions for use:
 
-The following instructions for the 30 dose inhaler also apply to the 7 dose inhaler.
+The following instructions for the 30 dose inhaler (30 day supply) also apply to the 7 dose inhaler (7 day supply).
 
 The Ellipta inhaler contains pre-dispensed doses and is ready to use.
 
 The inhaler is packaged in a tray containing a desiccant sachet, to reduce moisture.
-The desiccant sachet should be thrown away and it should not be eaten or inhaled.
+The desiccant sachet should be thrown away and it should not be opened, eaten or inhaled.
 
 The patient should be advised to not open the tray until they are ready to inhale a dose.
 
@@ -44,6 +44,7 @@ The “Discard by” date should be written on the inhaler label in the space pr
 The “Discard by” date is 6 weeks from the date of opening the tray.
 After this date the inhaler should no longer be used.
 The tray can be discarded after first opening.
+
 If the inhaler cover is opened and closed without inhaling the medicinal product, the dose will be lost.
 The lost dose will be securely held inside the inhaler, but it will no longer be available to be inhaled.
 
@@ -75,7 +76,7 @@ The air vents should not be blocked with fingers during use.
 
 The medicine may not be tasted or felt, even when using the inhaler correctly.
 
+The mouthpiece of the inhaler may be cleaned using a dry tissue before closing the cover.
 c) Close the inhaler
 
-The mouthpiece of the inhaler may be cleaned using a dry tissue before closing the cover.
 Slide the cover upwards as far as it will go, to cover the mouthpiece.

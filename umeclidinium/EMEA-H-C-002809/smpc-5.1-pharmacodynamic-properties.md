@@ -1,8 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Drugs for obstructive airway diseases, anticholinergics, ATC code: R03BB07
-
-Mechanism of action
+Pharmacotherapeutic group: Drugs for obstructive airway diseases, anticholinergics, ATC code: R03BB07 Mechanism of action
 
 Umeclidinium bromide is a long acting muscarinic receptor antagonist (also referred to as an anticholinergic).
 It is a quinuclidine derivative that is a muscarinic receptor antagonist with activity across multiple muscarinic cholinergic receptor subtypes.
@@ -30,7 +28,6 @@ In both of the pivotal 12-week and 24-week studies, Incruse demonstrated statist
 The bronchodilatory effects with Incruse compared with placebo were evident after the first day of treatment in both studies and were maintained over the 12-week and 24-week treatment periods.
 
 There was no attenuation of the bronchodilator effect over time.
-
 Table 1: Trough FEV1 (ml) at Week 12 and Week 24 (primary endpoint)
 
 | Treatment with Incruse 55 mcg | 12-Week Study Treatment difference1 95% Confidence interval p-value | 24-Week Study Treatment difference1 95% Confidence interval p-value |
@@ -63,6 +60,11 @@ In the 24-week study, Incruse lowered the risk of a COPD exacerbation compared w
 The probability of having an exacerbation in patients receiving Incruse at week 24 was 8.9% compared with 13.7% for placebo.
 These studies were not specifically designed to evaluate the effect of treatments on COPD exacerbations and patients were withdrawn from the study if an exacerbation occurred.
 
+*A step-down statistical testing procedure was used in this study and this comparison was below a comparison that did not achieve statistical significance.
+Therefore, statistical significance on this comparison cannot be inferred.
+
+*A step-down statistical testing procedure was used in this study and this comparison was below a comparison that did not achieve statistical significance.
+Therefore, statistical significance on this comparison cannot be inferred.
 Use of rescue medicinal product
 In the 12-week study, Incruse statistically significantly reduced the use of rescue medication with salbutamol compared with placebo (on average a reduction of 0.7 puffs per day over Weeks 1-12, p=0.025) and demonstrated a higher percentage of days when no rescue medication was needed (on average 46.3%) compared with placebo (on average 35.2%; no formal statistical analysis was performed on this endpoint).
 In the 24-week study treatment with Incruse, the mean (SD) change from baseline in the number of puffs of rescue salbutamol over the 24-week treatment period was -1.4 (0.20) for placebo and -1.7 (0.16) for Incruse (Difference = -0.3; 95% CI: -0.8, 0.2, p=0.276).
@@ -70,14 +72,7 @@ Patients receiving Incruse had a higher percentage of days when no rescue medica
 No formal statistical testing was performed on this endpoint.
 
 Supporting efficacy studies
-In two 12-week, placebo controlled studies (200109 and 200110), the addition of Incruse to fluticasone furoate/vilanterol (FF/VI) (92/22 micrograms) once daily in adult patients with a clinical diagnosis of COPD, resulted in statistically significant and clinically meaningful improvements in the primary endpoint of trough
-
-*A step-down statistical testing procedure was used in this study and this comparison was below a comparison that did not achieve statistical significance.
-Therefore, statistical significance on this comparison cannot be inferred.
-
-*A step-down statistical testing procedure was used in this study and this comparison was below a comparison that did not achieve statistical significance.
-Therefore, statistical significance on this comparison cannot be inferred.
-FEV1 at Day 85 compared to placebo plus FF/VI (124 mL (95% CI 93, 154, p<0.001) and 122 mL (95%CI 91, 152, p<0.001)).
+In two 12-week, placebo controlled studies (200109 and 200110), the addition of Incruse to fluticasone furoate/vilanterol (FF/VI) (92/22 micrograms) once daily in adult patients with a clinical diagnosis of COPD, resulted in statistically significant and clinically meaningful improvements in the primary endpoint of trough FEV1 at Day 85 compared to placebo plus FF/VI (124 mL (95% CI 93, 154, p<0.001) and 122 mL (95%CI 91, 152, p<0.001)).
 
 Improvements in lung function were supported with reductions in use of salbutamol over Weeks 1-12 (-0.4 puffs per day (95% CI -0.7, -0.2, p<0.001) and -0.3 puffs per day (95% CI -0.5, -0.1, p=0.003)) compared to placebo plus FF/VI but improvements in SGRQ at week 12 were not statistically significant (200109) or clinically relevant (200109 and 200110).
 The short duration of the studies and limited number of exacerbation events, preclude any conclusion regarding additional effect of Incruse on COPD exacerbation rate.

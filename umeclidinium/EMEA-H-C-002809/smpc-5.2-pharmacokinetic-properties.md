@@ -16,7 +16,6 @@ Biotransformation
 In vitro studies showed that umeclidinium bromide is principally metabolised by cytochrome P450 2D6 (CYP2D6) and is a substrate for the P-glycoprotein (P-gp) transporter.
 The primary metabolic routes for umeclidinium bromide are oxidative (hydroxylation, O-dealkylation) followed by conjugation (glucuronidation, etc), resulting in a range of metabolites with either reduced pharmacological activity or for which the pharmacological activity has not been established.
 Systemic exposure to the metabolites is low.
-
 Elimination
 
 Plasma clearance following intravenous administration was 151 litres/hour.
@@ -26,6 +25,7 @@ The excretion of the drug-related material in the faeces following intravenous d
 Following oral administration to healthy male subjects, total radioactivity was excreted primarily in faeces (92% of the administered radiolabelled dose or 99% of the recovered radioactivity) by 168 hours post-dose.
 Less than 1% of the orally administered dose (1% of recovered radioactivity) was excreted in urine, suggesting negligible absorption following oral administration.
 Umeclidinium bromide plasma elimination half-life following inhaled dosing for 10 days averaged 19 hours, with 3% to 4% active substance excreted unchanged in urine at steady-state.
+
 Characteristics in specific groups of subjects or patients
 
 Elderly
