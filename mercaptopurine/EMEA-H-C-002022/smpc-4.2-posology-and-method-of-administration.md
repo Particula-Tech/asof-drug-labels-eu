@@ -68,6 +68,12 @@ Allopurinol and other xanthine oxidase inhibitors decrease the rate of catabolis
 When allopurinol and 6-mercaptopurine are administered concomitantly it is essential that only a quarter of the usual dose of 6-mercaptopurine is given.
 Other xanthine oxidase inhibitors should be avoided (see section 4.5).
 
+Patients with NUDT15 variant
+Patients with inherited mutated NUDT15 gene are at increased risk for severe 6-mercaptopurine toxicity, (see 4.4).
+These patients generally require dose reduction; particularly those being NUDT15 variant homozygotes (see 4.4).
+Genotypic testing of NUDT15 variants may be considered before initiating 6-mercaptopurine therapy.
+In any case, close monitoring of blood counts is necessary.
+
 Method of administration
 Xaluprine is for oral use and requires redispersing (by shaking vigorously at least for 30 seconds) prior to dosing.
 

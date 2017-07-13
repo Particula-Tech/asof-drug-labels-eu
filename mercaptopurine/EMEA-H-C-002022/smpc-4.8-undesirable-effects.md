@@ -14,6 +14,7 @@ Within each frequency grouping, undesirable effects are presented in order of de
 
 | System organ class | Frequency | Adverse reaction |
 | --- | --- | --- |
+| Infections and infestations | Uncommon | Bacterial and viral infections, infections associated with neutropenia |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps) | Rare | Neoplasms including lymphoproliferative disorders, skin cancers (melanomas and non-melanomas), sarcomas (Kaposi's and non-Kaposi's) and uterine cervical cancer in situ (see section 4.4). |
 |  | Very rare | Secondary leukaemia and myelodysplasia |
 |  | Unknown | Hepatosplenic T-cell lymphoma* (see section 4.4) |

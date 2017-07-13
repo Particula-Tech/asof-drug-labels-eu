@@ -15,6 +15,7 @@ Multiple congenital abnormalities have been reported following maternal 6-mercat
 A more recent epidemiological report suggests that there is no increased risk of preterm births, low birth weight at term, or congenital abnormalities in women exposed to mercaptopurine during pregnancy.
 
 It is recommended that newborns of women exposed to mercaptopurine during pregnancy are monitored for haematological and immune system disturbances.
+
 Breast-feeding
 6-mercaptopurine has been identified in the colostrum and breast-milk of women receiving azathioprine treatment and thus women receiving Xaluprine should not breast-feed.
 

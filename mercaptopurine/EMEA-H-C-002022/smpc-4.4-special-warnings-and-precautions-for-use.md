@@ -50,10 +50,24 @@ Macrophage activation syndrome (MAS) is a known, life-threatening disorder that 
 If MAS occurs, or is suspected, evaluation and treatment should be started as early as possible, and treatment with mercaptopurine should be discontinued.
 Physicians should be attentive to symptoms of infection such as EBV and cytomegalovirus (CMV), as these are known triggers for MAS.
 
+Infections
+Patients treated with 6-mercaptopurine alone or in combination with other immunosuppressive agents, including corticosteroids, have shown increased susceptibility to viral, fungal and bacterial infections, including severe or atypical infection, and viral reactivation.
+The infectious disease and complications may be more severe in these patients than in non-treated patients.
+
+Prior exposure to or infection with varicella zoster virus should be taken into consideration prior to starting treatment.
+Local guidelines may be considered, including prophylactic therapy if necessary.
+Serologic testing prior to starting treatment should be considered with respect to hepatitis B. Local guidelines may be considered, including prophylactic therapy for cases which have been confirmed positive by serologic testing.
+Cases of neutropenic sepsis have been reported in patients receiving 6-mercaptopurine for ALL.
+
+Patients with NUDT15 variant
+Patients with inherited mutated NUDT15 gene are at increased risk for severe 6-mercaptopurine toxicity, such as early leukopenia and alopecia, from conventional doses of thiopurine therapy.
+They generally require dose reduction, particularly those being NUDT15 variant homozygotes (see 4.2).
+The frequency of NUDT15 c.415C>T has an ethnic variability of approximately 10 % in East Asians, 4 % in Hispanics, 0.2 % in Europeans and 0 % in Africans.
+In any case, close monitoring of blood counts is necessary.
+
 Paediatric population
 Cases of symptomatic hypoglycaemia have been reported in children with ALL receiving 6-mercaptopurine (see section 4.8).
 The majority of reported cases were in children under the age of six or with a low body mass index.
-
 Interactions
 When oral anticoagulants are coadministered with 6-mercaptopurine, a reinforced monitoring of INR (International Normalised Ratio) is recommended (see section 4.5).
 
