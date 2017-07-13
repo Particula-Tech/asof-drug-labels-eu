@@ -18,8 +18,8 @@ Table 1
 | --- | --- | --- | --- | --- | --- |
 | Infections and infestations |  |  | Nasopharyngitis |  |  |
 | Blood and lymphatic system disorders |  |  |  | Eosinophilia | Leukopenia**** Neutropenia**** Anemia**** |
-| Immune system disorders |  |  |  |  | Hypersensitivity# |
-| Metabolism and nutrition disorders |  | Weight increased | Decreased appetite Blood glucose increased |  |  |
+| Immune system disorders |  | Hypersensitivity |  |  |  |
+| Metabolism and nutrition disorders |  | Weight increased | Decreased appetite Blood glucose increased Hyponatraemia |  |  |
 | Psychiatric disorders |  | Insomnia Agitation Anxiety Restlessness | Nightmare Catatonia |  | Suicidal behaviour**** Panic attack**** Sleep disorder**** |
 | Nervous system disorders | Akathisia Somnolence* | Parkinsonism** Dizziness Dystonia*** Dyskinesia | Lethargy Dysarthria Tardive dyskinesia | Neuroleptic malignant syndrome (NMS) | Convulsion**** |
 | Eye disorders |  |  | Blurred vision |  |  |
@@ -28,7 +28,7 @@ Table 1
 | Vascular disorders |  |  | Hypertension Hypotension Orthostatic hypotension Hot flush Blood pressure increased |  |  |
 | Gastrointestinal disorders |  | Nausea Vomiting Dyspepsia Salivary hypersecretion Dry mouth Upper abdominal pain Stomach discomfort | Flatulence |  | Diarrhoea**** Dysphagia**** Gastritis**** |
 | Hepatobiliary disorders |  |  | Alanine aminotransferase increased |  |  |
-| Skin and subcutaneous tissue disorders |  |  | Hyperhidrosis |  | Rash**** Pruritus**** Angioedema**** Stevens-Johnson syndrome |
+| Skin and subcutaneous tissue disorders |  | Rash Pruritus | Hyperhidrosis | Angioedema | Stevens-Johnson syndrome |
 | Musculoskeletal and connective tissue disorders |  | Musculoskeletal stiffness Blood creatine phosphokinase increase | Joint stiffness Myalgia Neck pain Back pain | Rhabdomyolysis |  |
 | Renal and urinary disorders |  | Serum creatinine increased | Dysuria |  | Renal failure**** |
 | Pregnancy, puerperium and perinatal conditions |  |  |  |  | Drug withdrawal syndrome neonatal (see 4.6) |
@@ -38,7 +38,6 @@ Table 1
 *Somnolence includes adverse reaction terms: hypersomnia, hypersomnolence, sedation, and somnolence **Parkinsonism includes adverse reaction terms: bradykinesia, cogwheel rigidity, drooling, extrapyramidal disorder, hypokinesia, muscle rigidity, parkinsonism, psychomotor retardation, and tremor
 ***Dystonia includes adverse reaction terms: dystonia, oculogyric crisis, oromandibular dystonia, tongue spasm, torticollis, and trismus.
 ****ADRs noted in Phase 2 and 3 controlled and uncontrolled studies; however, the incidence of occurrence for these are too low to estimate frequencies.
-# Hypersensitivity may include symptoms such as throat swelling, tongue swelling, urticaria, or symptoms of angioedema, rash or pruritus (grouped under Skin and subcutaneous tissue disorders in Table 1).
 
 Description of selected adverse reactions
 

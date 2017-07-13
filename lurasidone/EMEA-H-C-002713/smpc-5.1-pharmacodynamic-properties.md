@@ -10,8 +10,8 @@ Lurasidone binds strongly to dopaminergic D2- and to serotonergic 5-HT2A and 5-H
 It also blocks α2c-adrenergic receptors and α2a-adrenergic receptors with a binding affinity of 10.8 and 40.7 nM respectively.
 Lurasidone also exhibits partial agonism at the 5HT-1A receptor with a binding affinity of 6.38 nM.
 Lurasidone does not bind to histaminergic or muscarinic receptors.
-The mechanism of action of the minor active metabolite of lurasidone ID-14283 is similar to that of lurasidone.
 
+The mechanism of action of the minor active metabolite of lurasidone ID-14283 is similar to that of lurasidone.
 Lurasidone doses ranging from 9 to 74 mg (10-80 mg lurasidone hydrochloride) administered to healthy subjects produced a dose-dependent reduction in the binding of 11C-raclopride, a D2/D3 receptor ligand, in the caudate, putamen and ventral striatum detected by positron emission tomography.
 
 Pharmacodynamic effects
@@ -45,8 +45,8 @@ N is number of subjects per model estimate.
 (b) p-values for lurasidone vs. placebo were adjusted for multiple comparisons.
 P-values for olanzapine and quetiapine XR vs. placebo were unadjusted.
 (c) Lurasidone doses of 37, 74, 111 and 148 mg are equivalent to 40, 80, 120 and 160 mg amounts of lurasidone hydrochloride.
-In the short-term studies there was no consistent dose-response correlation observed.
 
+In the short-term studies there was no consistent dose-response correlation observed.
 Long-term maintenance efficacy of lurasidone (37 to 148 mg lurasidone once daily (equivalent to 40 -160 mg lurasidone hydrochloride)) was demonstrated in a 12 month non-inferiority trial with quetiapine extended release (XR) (200 to 800 mg once daily).
 Lurasidone was non-inferior to quetiapine XR in time to relapse of schizophrenia.
 Lurasidone had a small increase from baseline to Month 12 in body weight and body mass index (Mean (SD): 0.73 (3.36) kg and 0.28 (1.17) kg/m2, respectively) compared to quetiapine XR (1.23 (4.56) kg and 0.45 (1.63) kg/m2, respectively).

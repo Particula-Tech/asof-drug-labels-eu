@@ -17,7 +17,6 @@ The major biotransformation pathways are oxidative N-dealkylation, hydroxylation
 
 Lurasidone is metabolised into two active metabolites (ID-14283 and ID-14326) and two non-active metabolites (ID-20219 and ID-20220).
 Lurasidone and its metabolites ID-14283, ID-14326, ID-20219 and ID-20220 correspond to approximately 11.4, 4.1, 0.4, 24 and 11% respectively, of serum radioactivity respectively.
-
 CYP3A4 is the major enzyme responsible for metabolism of the active metabolite ID-14283.
 Lurasidone and its active metabolite ID-14283 both contribute to the pharmacodynamic effect at the dopaminergic and serotonergic receptors.
 
