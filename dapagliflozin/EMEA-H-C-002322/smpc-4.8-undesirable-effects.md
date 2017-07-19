@@ -10,10 +10,10 @@ Tabulated list of adverse reactions
 The following adverse reactions have been identified in the placebo-controlled clinical trials.
 None were found to be dose-related.
 Adverse reactions listed below are classified according to frequency and system organ class (SOC).
-Frequency categories are defined according to the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), not known (cannot be estimated from the available data).
+Frequency categories are defined according to the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), and not known (cannot be estimated from the available data).
 
 Table 1.
-Adverse reactions in placebo-controlled studiesa
+Adverse reactions in placebo-controlled clinical studiesa and postmarketing experience
 
 | System organ class | Very common | Common* | Uncommon** | Rare |
 | --- | --- | --- | --- | --- |
@@ -21,6 +21,7 @@ Adverse reactions in placebo-controlled studiesa
 | Metabolism and nutrition disorders | Hypoglycaemia (when used with SU or insulin)b |  | Volume depletionb,e Thirst** | Diabetic Ketoacidosisi |
 | Nervous system disorders |  | Dizziness |  |  |
 | Gastrointestinal disorders |  |  | Constipation** Dry mouth** |  |
+| Skin and subcutaneous tissue disorders |  | Rashj |  |  |
 | Musculoskeletal and connective tissue disorders |  | Back pain* |  |  |
 | Renal and urinary disorders |  | Dysuria Polyuria*,f | Nocturia** Renal impairment**,b |  |
 | Reproductive system and breast disorders |  |  | Vulvovaginal pruritus** Pruritus genital** |  |
@@ -33,8 +34,10 @@ dUrinary tract infection includes the following preferred terms, listed in order
 eVolume depletion includes, e.g. the predefined preferred terms: dehydration, hypovolaemia, hypotension. fPolyuria includes the preferred terms: pollakiuria, polyuria, urine output increased.
 gMean changes from baseline in haematocrit were 2.30 % for dapagliflozin 10 mg versus –0.33 % for placebo.
 Haematocrit values >55 % were reported in 1.3 % of the subjects treated with dapagliflozin 10 mg versus 0.4 % of placebo subjects.
-hMean percent change from baseline for dapagliflozin 10 mg versus placebo, respectively, was: total cholesterol 2.5 % versus 0.0 %; HDL cholesterol 6.0 % versus 2.7 %; LDL cholesterol 2.9 % versus -1.0 %; triglycerides –2.7 % versus -0.7 %.
-iSee section 4.4
+hMean percent change from baseline for dapagliflozin 10 mg versus placebo, respectively, was: total cholesterol 2.5 % versus 0.0 %; HDL cholesterol 6.0 % versus 2.7 %; LDL cholesterol 2.9 % versus -1.0 %; triglycerides – 2.7 % versus -0.7 %.
+iSee section 4.4 jAdverse reaction was identified through postmarketing surveillance.
+Rash includes the following preferred terms, listed in order of frequency in clinical trials: rash, rash generalised, rash pruritic, rash macular, rash maculo-papular, rash pustular, rash vesicular, and rash erythematous.
+In active- and placebo-controlled clinical trials (dapagliflozin, N=5936, All control, N=3403), the frequency of rash was similar for dapagliflozin (1.4 %) and all control (1.4 %), respectively.
 *Reported in ≥2 % of subjects and ≥1 % more and at least 3 more subjects treated with dapagliflozin 10 mg compared to placebo.
 **Reported by the investigator as possibly related, probably related or related to study treatment and reported in ≥0.2 % of subjects and ≥0.1 % more and at least 3 more subjects treated with dapagliflozin 10 mg compared to placebo.
 
@@ -46,7 +49,7 @@ For studies of dapagliflozin in monotherapy, as add-on to metformin or as add-on
 Across all studies, major events of hypoglycaemia were uncommon and comparable between the groups treated with dapagliflozin or placebo.
 Studies with add-on sulphonylurea and add-on insulin therapies had higher rates of hypoglycaemia (see section 4.5).
 
-In an add-on to glimepiride study, at weeks 24 and 48, minor episodes of hypoglycaemia were reported more frequently in the group treated with dapagliflozin 10 mg plus glimepiride (6.0 % and 7.9 %, respectively) than in the placebo plus glimepiride group (2.1 % and 2.1 %, respectively).
+In an add-on to glimepiride study, at Weeks 24 and 48, minor episodes of hypoglycaemia were reported more frequently in the group treated with dapagliflozin 10 mg plus glimepiride (6.0 % and 7.9 %, respectively) than in the placebo plus glimepiride group (2.1 % and 2.1 %, respectively).
 
 In an add-on to insulin study, episodes of major hypoglycaemia were reported in 0.5 % and 1.0 % of subjects treated with dapagliflozin 10 mg plus insulin at Weeks 24 and 104, respectively, and in 0.5 % of subjects treated with placebo plus insulin groups at Weeks 24 and 104.
 At Weeks 24 and 104, minor episodes of hypoglycaemia were reported, respectively, in 40.3 % and 53.1 % of subjects who received dapagliflozin 10 mg plus insulin and in 34.0 % and 41.6 % of the subjects who received placebo plus insulin.
@@ -66,6 +69,7 @@ Urinary tract infections
 Urinary tract infections were more frequently reported for dapagliflozin 10 mg compared to placebo (4.7 % versus 3.5 %, respectively; see section 4.4).
 Most infections were mild to moderate, and subjects responded to an initial course of standard treatment and rarely resulted in discontinuation from dapagliflozin treatment.
 These infections were more frequent in females, and subjects with a prior history were more likely to have a recurrent infection.
+
 Increased creatinine
 Adverse drug reactions related to increased creatinine were grouped (e.g. decreased renal creatinine clearance, renal impairment, increased blood creatinine and decreased glomerular filtration rate).
 This grouping of reactions was reported in 3.2 % and 1.8 % of patients who received dapagliflozin 10 mg and placebo, respectively.

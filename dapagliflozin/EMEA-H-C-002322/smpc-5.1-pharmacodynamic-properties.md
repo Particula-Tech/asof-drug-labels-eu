@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Drugs used in diabetes, Other blood glucose lowering drugs, excluding insulins, ATC code: A10BX09
+Pharmacotherapeutic group: Drugs used in diabetes, Sodium-glucose co-transporter 2 (SGLT2) inhibitors, ATC code: A10BK01
 
 Mechanism of action
 Dapagliflozin is a highly potent (Ki: 0.55 nM), selective and reversible inhibitor of sodium-glucose co-transporter 2 (SGLT2).
@@ -24,10 +24,10 @@ Pharmacodynamic effects
 Increases in the amount of glucose excreted in the urine were observed in healthy subjects and in subjects with type 2 diabetes mellitus following the administration of dapagliflozin.
 Approximately 70 g of glucose was excreted in the urine per day (corresponding to 280 kcal/day) at a dapagliflozin dose of 10 mg/day in subjects with type 2 diabetes mellitus for 12 weeks.
 Evidence of sustained glucose excretion was seen in subjects with type 2 diabetes mellitus given dapagliflozin 10 mg/day for up to 2 years.
-
 This urinary glucose excretion with dapagliflozin also results in osmotic diuresis and increases in urinary volume in subjects with type 2 diabetes mellitus.
 Urinary volume increases in subjects with type 2 diabetes mellitus treated with dapagliflozin 10 mg were sustained at 12 weeks and amounted to approximately 375 ml/day.
 The increase in urinary volume was associated with a small and transient increase in urinary sodium excretion that was not associated with changes in serum sodium concentrations.
+
 Urinary uric acid excretion was also increased transiently (for 3-7 days) and accompanied by a sustained reduction in serum uric acid concentration.
 At 24 weeks, reductions in serum uric acid concentrations ranged from -48.3 to -18.3 micromoles/l (-0.87 to -0.33 mg/dl).
 
@@ -78,7 +78,7 @@ Difference from placeboc -0.97
 
 aLOCF: Last observation (prior to rescue for rescued subjects) carried forward bAll randomised subjects who took at least one dose of double-blind study medication during the short-term double-blind period cLeast squares mean adjusted for baseline value
 *p-value < 0.0001 versus placebo
-§ Not evaluated for statistical significance as a result of the sequential testing procedure for secondary end points
+§Not evaluated for statistical significance as a result of the sequential testing procedure for secondary end points
 
 Combination therapy
 In a 52-week, active-controlled non-inferiority study (with 52- and 104-week extension periods), Forxiga was evaluated as add-on therapy to metformin compared with a sulphonylurea (glipizide) as add-on therapy to metformin in subjects with inadequate glycaemic control (HbA1c > 6.5 % and

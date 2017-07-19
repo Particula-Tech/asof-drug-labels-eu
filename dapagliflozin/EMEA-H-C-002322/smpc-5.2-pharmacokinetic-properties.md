@@ -23,8 +23,8 @@ Elimination
 The mean plasma terminal half-life (t1/2) for dapagliflozin was 12.9 hours following a single oral dose of dapagliflozin 10 mg to healthy subjects.
 The mean total systemic clearance of dapagliflozin administered intravenously was 207 ml/min.
 Dapagliflozin and related metabolites are primarily eliminated via urinary excretion with less than 2 % as unchanged dapagliflozin.
-After administration of a 50 mg [14C]-dapagliflozin dose, 96 % was recovered, 75 % in urine and 21 % in feces.
-In feces, approximately 15 % of the dose was excreted as parent drug.
+After administration of a 50 mg [14C]-dapagliflozin dose, 96 % was recovered, 75 % in urine and 21 % in faeces.
+In faeces, approximately 15 % of the dose was excreted as parent drug.
 
 Linearity
 Dapagliflozin exposure increased proportional to the increment in dapagliflozin dose over the range of 0.1 to 500 mg and its pharmacokinetics did not change with time upon repeated daily dosing for up to 24 weeks.

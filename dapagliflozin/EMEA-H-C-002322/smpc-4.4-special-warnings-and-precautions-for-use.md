@@ -31,7 +31,7 @@ For patients receiving dapagliflozin, in case of intercurrent conditions that ma
 Temporary interruption of treatment with dapagliflozin is recommended for patients who develop volume depletion until the depletion is corrected (see section 4.8).
 
 Diabetic ketoacidosis
-Rare cases of diabetic ketoacidosis (DKA), including life-threatening cases, have been reported in clinical trials and post-marketing in patients treated with SGLT2 inhibitors, including dapagliflozin.
+Rare cases of diabetic ketoacidosis (DKA), including life-threatening and fatal cases, have been reported in patients treated with SGLT2 inhibitors, including dapagliflozin.
 In a number of cases, the presentation of the condition was atypical with only moderately increased blood glucose values, below 14 mmol/l (250 mg/dl).
 It is not known if DKA is more likely to occur with higher doses of dapagliflozin.
 
