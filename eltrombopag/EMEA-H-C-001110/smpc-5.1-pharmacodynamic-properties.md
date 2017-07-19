@@ -20,8 +20,7 @@ Double-blind placebo-controlled studies
 RAISE: 197 ITP patients were randomised 2:1, eltrombopag (n=135) to placebo (n=62), and randomisation was stratified based upon splenectomy status, use of ITP medicinal products at baseline and baseline platelet count.
 The dose of eltrombopag was adjusted during the 6-month treatment period based on individual platelet counts.
 All patients initiated treatment with eltrombopag 50 mg.
-From Day 29 to the end of treatment, 15 to 28% of eltrombopag treated patients were maintained on
-≤ 25 mg and 29 to 53% received 75 mg.
+From Day 29 to the end of treatment, 15 to 28% of eltrombopag treated patients were maintained on ≤ 25 mg and 29 to 53% received 75 mg.
 
 In addition, patients could taper off concomitant ITP medicinal products and receive rescue treatments as dictated by local standard of care.
 More than half of all patients in each treatment group had ≥ 3 prior ITP therapies and 36% had a prior splenectomy.
@@ -53,10 +52,10 @@ a Logistic regression model adjusted for randomisation stratification variables 
 
 At baseline, more than 70% of ITP patients in each treatment group reported any bleeding (WHO Grades 1-4) and more than 20% reported clinically significant bleeding (WHO Grades 2-4), respectively.
 The proportion of eltrombopag-treated patients with any bleeding (Grades 1-4) and clinically significant bleeding (Grades 2-4) was reduced from baseline by approximately 50% from Day 15 to the end of treatment throughout the 6 month treatment period.
+
 TRA100773B: The primary efficacy endpoint was the proportion of responders, defined as ITP patients who had an increase in platelet counts to ≥ 50,000/μl at Day 43 from a baseline of
 < 30,000/μl; patients who withdrew prematurely due to a platelet count > 200,000/μl were considered responders, those that discontinued for any other reason were considered non-responders irrespective of platelet count.
 A total of 114 patients with previously treated chronic ITP were randomised 2:1 eltrombopag (n=76) to placebo (n=38).
-
 Table 5: Efficacy results from TRA100773B
 
 |  | Eltrombopag N=74 | Placebo N=38 |
@@ -88,6 +87,7 @@ Median platelet counts at 1, 2, 3, 4, 5, 6 and 7 years on study were 85,000/μl,
 
 Clinical studies comparing eltrombopag to other treatment options (e.g. splenectomy) have not been conducted.
 The long-term safety of eltrombopag should be considered prior to starting therapy.
+
 Paediatric population (aged 1 to 17 years)
 
 The safety and efficacy of eltrombopag in paediatric subjects has been investigated in two studies.
@@ -113,8 +113,7 @@ In comparison, at Week 12, 55% of placebo subjects reported any bleeding.
 
 Subjects were permitted to reduce or discontinue baseline ITP therapy only during the open-label phase of the study and 53% (8/15) of subjects were able to reduce (n=1) or discontinue (n=7) baseline ITP therapy, mainly corticosteroids, without needing rescue therapy.
 
-TRA108062 (PETIT): The primary endpoint was the proportion of subjects achieving platelet counts
-≥ 50,000/µl at least once between weeks 1 and 6 of the randomised period.
+TRA108062 (PETIT): The primary endpoint was the proportion of subjects achieving platelet counts ≥ 50,000/µl at least once between weeks 1 and 6 of the randomised period.
 Subjects were refractory or relapsed to at least one prior ITP therapy with a platelet count < 30,000/µl (n=67).
 During the randomised period of the study, subjects were randomised by 3 age cohort strata (2:1) to eltrombopag (n=45) or placebo (n=22).
 The dose of eltrombopag could be adjusted based on individual platelet counts.
@@ -123,6 +122,7 @@ Overall, a significantly greater proportion of eltrombopag subjects (62%) compar
 
 Sustained response was seen in 50% of the initial responders during 20 out of 24 weeks in the
 PETIT 2 study and 15 out of 24 weeks in the PETIT study.
+
 Chronic hepatitis C associated thrombocytopenia studies
 
 The efficacy and safety of eltrombopag for the treatment of thrombocytopenia in patients with HCV infection were evaluated in two randomised, double-blind, placebo-controlled studies.
@@ -131,7 +131,6 @@ Patients did not receive direct acting antiviral agents.
 In both studies, patients with a platelet count of < 75,000/µl were enrolled and stratified by platelet count
 (< 50,000/µl and ≥ 50,000/µl to < 75,000/µl), screening HCV RNA (< 800,000 IU/ml and
 ≥ 800,000 IU/ml), and HCV genotype (genotype 2/3, and genotype 1/4/6).
-
 Baseline disease characteristics were similar in both studies and were consistent with compensated cirrhotic HCV patient population.
 The majority of patients were HCV genotype 1 (64%) and had bridging fibrosis/cirrhosis.
 Thirty-one percent of patients had been treated with prior HCV therapies, primarily pegylated interferon plus ribavirin.
@@ -142,9 +141,10 @@ In the pre-antiviral treatment phase, subjects received open-label eltrombopag t
 The median time to achieve the target platelet count ≥ 90,000/µl (ENABLE 1) or ≥ 100,000/µl (ENABLE 2) was 2 weeks.
 
 The primary efficacy endpoint for both studies was sustained virologic response (SVR), defined as the percentage of patients with no detectable HCV-RNA at 24 weeks after completion of the planned treatment period.
-In both HCV studies, a significantly greater proportion of patients treated with eltrombopag (n=201, 21%) achieved SVR compared to those treated with placebo (n=65, 13%) (see Table 7).
-The improvement in the proportion of patients who achieved SVR was consistent across all subgroups in the randomisation strata (baseline platelet counts (< 50,000 vs. > 50,000), viral load (< 800,000 IU/ml vs. ≥ 800,000 IU/ml) and genotype (2/3 vs. 1/4/6)).
 
+In both HCV studies, a significantly greater proportion of patients treated with eltrombopag (n=201, 21%) achieved SVR compared to those treated with placebo (n=65, 13%) (see Table 7).
+The improvement in the proportion of patients who achieved SVR was consistent across all subgroups in the randomisation strata (baseline platelet counts (< 50,000 vs. > 50,000), viral load
+(< 800,000 IU/ml vs. ≥ 800,000 IU/ml) and genotype (2/3 vs. 1/4/6)).
 Table 7: Virologic response in HCV patients in ENABLE 1 and ENABLE 2
 
 |  | Pooled Data |  | ENABLE 1a |  | ENABLE 2b |  |
@@ -171,6 +171,7 @@ d p-value < 0.05 for eltrombopag versus placebo e 64% subjects participating in 
 Other secondary findings of the studies included the following; significantly fewer patients treated with eltrombopag prematurely discontinued antiviral therapy compared to placebo (45% vs. 60%, p=< 0.0001).
 A greater proportion of patients on eltrombopag did not require any antiviral dose reduction as compared to placebo (45% versus 27%).
 Eltrombopag treatment delayed and reduced the number of peginterferon dose reductions.
+
 Severe aplastic anaemia
 
 Eltrombopag was studied in a single-arm, single-centre open-label trial in 43 patients with severe aplastic anaemia with refractory thrombocytopenia following at least one prior immunosuppressive therapy (IST) and who had a platelet count ≤ 30,000/µl.
@@ -179,7 +180,6 @@ The majority of subjects, 33 (77%), were considered to have ‘primary refractor
 The remaining 10 subjects had insufficient platelet response to prior therapies.
 All 10 had received at least 2 prior IST regimens and 50% had received at least 3 prior IST regimens.
 Patients with diagnosis of Fanconi anaemia, infection not responding to appropriate therapy, PNH clone size in neutrophils of ≥50%, where excluded from participation.
-
 At baseline the median platelet count was 20,000/µl, haemoglobin was 8.4 g/dL, ANC was 0.58 x 109/L and absolute reticulocyte count was 24.3 x109/L.
 Eighty-six percent of patients were RBC transfusion dependent, and 91% were platelet transfusion dependent.
 The majority of patients (84%) had received at least 2 prior immunosuppressive therapies.

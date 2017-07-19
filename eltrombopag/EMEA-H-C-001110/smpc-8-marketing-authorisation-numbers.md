@@ -9,7 +9,6 @@ Revolade 25 mg film-coated tablets
 EU/1/10/612/001
 EU/1/10/612/002
 EU/1/10/612/003
-
 Revolade 50 mg film-coated tablets
 EU/1/10/612/004
 EU/1/10/612/005

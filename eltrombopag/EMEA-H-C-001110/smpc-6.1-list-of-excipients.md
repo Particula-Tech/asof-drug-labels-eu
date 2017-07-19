@@ -35,6 +35,7 @@ Mannitol (E421)
 Microcrystalline cellulose
 Povidone
 Sodium starch glycolate
+
 Tablet coating
 Hypromellose
 Iron oxide red (E172)
@@ -49,7 +50,6 @@ Mannitol (E421)
 Microcrystalline cellulose
 Povidone
 Sodium starch glycolate
-
 Tablet coating
 Hypromellose
 Iron oxide red (E172)

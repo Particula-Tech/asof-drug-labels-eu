@@ -49,6 +49,7 @@ Blood and lymphatic system disorders
 Uncommon Anaemia, Anisocytosis, Eosinophilia, Haemolytic anaemia, Leukocytosis,
 
 Myelocytosis, Thrombocytopenia, Haemoglobin increased, Band neutrophil count increased, Haemoglobin decreased, Myelocyte present, Platelet count increased, White blood cell count decreased
+
 Immune system disorders
 
 Uncommon Hypersensitivity
@@ -290,9 +291,9 @@ Common Epistaxis
 Gastrointestinal disorders
 
 Very common Abdominal pain, Diarrhoea, Nausea
-Common Gingival bleeding, Oral mucosal blistering, Oral pain, Vomiting, Abdominal
+Common Gingival bleeding, Oral mucosal blistering, Oral pain, Vomiting,
 
-discomfort, Abdominal pain, Constipation, Abdominal distension, Dysphagia, Faeces discoloured, Swollen tongue, Gastrointestinal motility disorder, Flatulence
+Abdominal discomfort, Abdominal pain, Constipation, Abdominal distension, Dysphagia, Faeces discoloured, Swollen tongue, Gastrointestinal motility disorder, Flatulence
 
 Hepatobiliary disorders
 
