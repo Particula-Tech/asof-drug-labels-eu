@@ -3,7 +3,7 @@
 Pharmacotherapeutic group: Drugs for obstructive airway diseases, anticholinergics, ATC code: R03BB06
 
 Mechanism of action
-Seebri Breezhaler is an inhaled long-acting muscarinic receptor antagonist (anticholinergic) for once-daily maintenance bronchodilator treatment of COPD.
+Glycopyrronium is an inhaled long-acting muscarinic receptor antagonist (anticholinergic) for once-daily maintenance bronchodilator treatment of COPD.
 Parasympathetic nerves are the major bronchoconstrictive neural pathway in airways, and cholinergic tone is the key reversible component of airflow obstruction in COPD.
 Glycopyrronium works by blocking the bronchoconstrictor action of acetylcholine on airway smooth muscle cells, thereby dilating the airways.
 
@@ -12,7 +12,6 @@ A greater than 4-fold selectivity for the human M3 receptors over the human M2 r
 It has a rapid onset of action as evidenced by observed receptor association/dissociation kinetic parameters and the onset of action after inhalation in clinical studies.
 
 The long duration of action can be partly attributed to sustained concentrations of active substance in the lung as reflected by the prolonged terminal elimination half-life of glycopyrronium after inhalation via the Seebri Breezhaler inhaler in contrast to the half life after intravenous administration (see section 5.2).
-
 Pharmacodynamic effects
 The clinical Phase III development programme included two phase III studies: a 6-month placebo-controlled study and a 12-month placebo and active-controlled (open label tiotropium 18 micrograms once daily) study, both in patients with clinical diagnosis of moderate to severe COPD.
 
@@ -49,6 +48,7 @@ The pooled analysis also showed fewer patients treated with Seebri Breezhaler th
 
 Other effects
 Seebri Breezhaler once daily statistically significantly reduced the use of rescue medication (salbutamol) by 0.46 puffs per day (p=0.005) over 26 weeks and by 0.37 puffs per day (p=0.039) over 52 weeks, compared to placebo for the 6- and 12-month studies, respectively.
+
 In a 3-week study where exercise tolerance was tested via cycle ergometer at submaximal (80%) workload (submaximal exercise tolerance test), Seebri Breezhaler, dosed in the morning, reduced dynamic hyperinflation and improved the length of time exercise could be maintained from the first dose onwards.
 On the first day of treatment inspiratory capacity under exercise was improved by 230 ml and exercise endurance time was improved by 43 seconds (an increase of 10%) compared to placebo.
 After three weeks of treatment the improvement in inspiratory capacity with Seebri Breezhaler was similar to the first day (200 ml), exercise endurance time however had increased by 89 seconds (an increase of 21%) compared to placebo.

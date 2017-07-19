@@ -7,13 +7,13 @@ Instructions for handling and use
 
 How to use your inhaler
 Pull off the cap.
-
 Open inhaler:
 Hold the base of the inhaler firmly and tilt the mouthpiece.
 This opens the inhaler.
+
 Prepare capsule:
-Separate one of the blisters from the blister card by tearing along the perforation.
-Take one blister and peel away the protective backing to expose the capsule.
+Separate a single blister from the blister strip by tearing along the perforation.
+Peel away the protective backing to expose the capsule.
 
 Do not push capsule through foil.
 
@@ -29,7 +29,6 @@ Never place a capsule directly into the mouthpiece.
 
 Close the inhaler:
 Close the inhaler until you hear a “click”.
-
 Pierce the capsule:
 
 - Hold the inhaler upright with the mouthpiece pointing up.

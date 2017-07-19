@@ -14,7 +14,7 @@ Within each system organ class, the adverse reactions are ranked by frequency, w
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 In addition, the corresponding frequency category for each adverse reaction is based on the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
 
-Table 1 Adverse reactions reported in the pooled 6-month database
+Table 1 Adverse reactions
 
 | Adverse reactions | Frequency category |
 | --- | --- |
@@ -24,10 +24,10 @@ Table 1 Adverse reactions reported in the pooled 6-month database
 | Psychiatric disorders Insomnia | Common |
 | Nervous system disorders Headache3) Hypoaesthesia | Common Uncommon |
 | Cardiac disorders Atrial fibrillation Palpitations | Uncommon Uncommon |
-| Respiratory, thoracic and mediastinal disorders Sinus congestion Productive cough Throat irritation Epistaxis Paradoxical bronchospasm2) | Uncommon Uncommon Uncommon Uncommon Not known |
-| Gastrointestinal disorders Dry mouth Gastroenteritis Dyspepsia Dental caries | Common Common Uncommon Uncommon |
+| Respiratory, thoracic and mediastinal disorders Sinus congestion Productive cough Throat irritation Epistaxis Dysphonia2) Paradoxical bronchospasm2) | Uncommon Uncommon Uncommon Uncommon Uncommon Not known |
+| Gastrointestinal disorders Dry mouth Gastroenteritis Nausea2) Vomiting1) 2) Dyspepsia Dental caries | Common Common Uncommon Uncommon Uncommon Uncommon |
 | Skin and subcutaneous tissue disorders Rash Pruritus2) | Uncommon Uncommon |
-| Musculoskeletal and connective tissue disorders Pain in extremity Musculoskeletal chest pain | Uncommon Uncommon |
+| Musculoskeletal and connective tissue disorders Musculoskeletal pain1) 2) Pain in extremity Musculoskeletal chest pain | Common Uncommon Uncommon |
 | Renal and urinary disorders Urinary tract infection3) Dysuria Urinary retention | Common Uncommon Uncommon |
 | General disorders and administration site conditions Fatigue Asthenia | Uncommon Uncommon |
 
@@ -36,13 +36,13 @@ Table 1 Adverse reactions reported in the pooled 6-month database
 These were reported voluntarily from a population of uncertain size, and it is therefore not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure.
 Therefore the frequency was calculated from clinical trial experience.
 3) Seen more frequently for glycopyrronium than placebo in elderly >75 years only.
-
 Description of selected adverse reactions
 In the pooled 6-month database the frequency of dry mouth was 2.2% versus 1.1%, of insomnia 1.0% versus 0.8%, and of gastroenteritis 1.4% versus 0.9%, for Seebri Breezhaler and placebo respectively.
 
 Dry mouth was reported mainly during the first 4 weeks of treatment with a median duration of four weeks in the majority of patients.
 However in 40% of cases symptoms continued for the entire 6- month period.
 No new cases of dry mouth were reported in months 7-12.
+
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.

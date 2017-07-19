@@ -9,7 +9,6 @@ About 90% of systemic exposure following inhalation is due to lung absorption an
 In patients with COPD, pharmacokinetic steady-state of glycopyrronium was reached within one week of the start of treatment.
 The steady-state mean peak and trough plasma concentrations of glycopyrronium for a 44 micrograms once-daily dosing regimen were 166 picograms/ml and 8 picograms/ml, respectively.
 Steady-state exposure to glycopyrronium (AUC over the 24-hour dosing interval) was about 1.4- to 1.7-fold higher than after the first dose.
-
 Distribution
 After intravenous dosing, the steady-state volume of distribution of glycopyrronium was 83 litres and the volume of distribution in the terminal phase was 376 litres.
 The apparent volume of distribution in the terminal phase following inhalation was almost 20-fold larger, which reflects the much slower elimination after inhalation.
@@ -51,7 +50,6 @@ A population pharmacokinetic analysis of data in COPD patients identified body w
 Seebri Breezhaler 44 micrograms once daily can be safely used in all age and body weight groups.
 
 Gender, smoking status and baseline FEV1 had no apparent effect on systemic exposure.
-
 There were no major differences in total systemic exposure (AUC) between Japanese and Caucasian subjects following inhalation of glycopyrronium bromide.
 Insufficient pharmacokinetic data is available for other ethnicities or races.
 
@@ -59,8 +57,9 @@ Patients with hepatic impairment
 Clinical studies have not been conducted in patients with hepatic impairment.
 Glycopyrronium is cleared predominantly from the systemic circulation by renal excretion.
 Impairment of the hepatic metabolism of glycopyrronium is not thought to result in a clinically relevant increase of systemic exposure.
+
 Patients with renal impairment
 Renal impairment has an impact on the systemic exposure to glycopyrronium bromide.
 A moderate mean increase in total systemic exposure (AUClast) of up to 1.4-fold was seen in subjects with mild and moderate renal impairment and up to 2.2-fold in subjects with severe renal impairment and end-stage renal disease.
 In COPD patients with mild and moderate renal impairment (estimated glomerular filtration rate, eGFR ≥30 ml/min/1.73 m2) Seebri Breezhaler can be used at the recommended dose.
-In patients with severe renal impairment (eGFR <30 ml/min/1.73 m2), including those with end-stage renal disease requiring dialysis, Seebri Breezhaler should only be used in the expected benefit outweighs the potential risk (see section 4.4).
+In patients with severe renal impairment (eGFR <30 ml/min/1.73 m2), including those with end-stage renal disease requiring dialysis, Seebri Breezhaler should only be used if the expected benefit outweighs the potential risk (see section 4.4).
