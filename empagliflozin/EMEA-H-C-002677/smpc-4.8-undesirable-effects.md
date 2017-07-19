@@ -14,19 +14,19 @@ Adverse reactions classified by system organ class and MedDRA preferred terms re
 The adverse reactions are listed by absolute frequency.
 Frequencies are defined as very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), or very rare (<1/10,000), and not known (cannot be estimated from the available data).
 
-Table 1: Adverse reactions reported in placebo-controlled studies
+Table 1: Tabulated list of adverse reactions (MedDRA) from reported placebo-controlled studies and from post marketing experience
 
-| System organ class | Very common | Common | Uncommon | Rare |
-| --- | --- | --- | --- | --- |
-| Infections and infestations |  | Vaginal moniliasis, vulvovaginitis, balanitis and other genital infectiona Urinary tract infectiona |  |  |
-| Metabolism and nutrition disorders | Hypoglycaemia (when used with sulphonylurea or insulin)a | Thirst |  | Diabetic ketoacidosis*, b |
-| Skin and subcutaneous disorders |  | Pruritus (generalised) |  |  |
-| Vascular disorders |  |  | Volume depletiona |  |
-| Renal and urinary disorders |  | Increased urinationa | Dysuria |  |
-| Investigations |  | Serum lipids increasedc | Blood creatinine increased/Glomerular filtration rate decreaseda Haematocrit increasedd |  |
+| System organ class | Very common | Common | Uncommon | Rare | Not known |
+| --- | --- | --- | --- | --- | --- |
+| Infections and infestations |  | Vaginal moniliasis, vulvovaginitis, balanitis and other genital infectiona Urinary tract infectiona |  |  |  |
+| Metabolism and nutrition disorders | Hypoglycaemia (when used with sulphonylurea or insulin)a | Thirst |  | Diabetic ketoacidosis* |  |
+| Skin and subcutaneous disorders |  | Pruritus (generalised) Rash | Urticaria |  | Angioedema |
+| Vascular disorders |  |  | Volume depletiona |  |  |
+| Renal and urinary disorders |  | Increased urinationa | Dysuria |  |  |
+| Investigations |  | Serum lipids increasedb | Blood creatinine increased/ Glomerular filtration rate decreaseda Haematocrit increasedc |  |  |
 
-a see subsections below for additional information b derived from postmarketing experience c Mean percent increases from baseline for empagliflozin 10 mg and 25 mg versus placebo, respectively, were total cholesterol 4.9% and 5.7% versus 3.5%; HDL-cholesterol 3.3% and 3.6% versus 0.4%; LDL-cholesterol 9.5% and 10.0% versus 7.5%; triglycerides 9.2% and 9.9% versus 10.5%.
-d Mean changes from baseline in haematocrit were 3.4% and 3.6% for empagliflozin 10 mg and 25 mg, respectively, compared to 0.1% for placebo.
+a see subsections below for additional information b Mean percent increases from baseline for empagliflozin 10 mg and 25 mg versus placebo, respectively, were total cholesterol 4.9% and 5.7% versus 3.5%; HDL-cholesterol 3.3% and 3.6% versus 0.4%; LDL-cholesterol 9.5% and 10.0% versus 7.5%; triglycerides 9.2% and 9.9% versus 10.5%.
+c Mean changes from baseline in haematocrit were 3.4% and 3.6% for empagliflozin 10 mg and 25 mg, respectively, compared to 0.1% for placebo.
 In the EMPA-REG Outcome study, haematocrit values returned towards baseline values after a follow-up period of 30 days after treatment stop.
 * see section 4.4
 
@@ -35,6 +35,7 @@ Description of selected adverse reactions
 Hypoglycaemia
 The frequency of hypoglycaemia depended on the background therapy in the respective studies and was similar for empagliflozin and placebo as monotherapy, add-on to metformin, add-on to pioglitazone with or without metformin, as add-on to linagliptin and metformin, and as adjunct to standard care therapy and for the combination of empagliflozin with metformin in drug-naïve patients compared to those treated with empagliflozin and metformin as individual components.
 An increased frequency was noted when given as add-on to metformin and a sulfonylurea (empagliflozin 10 mg: 16.1%, empagliflozin 25 mg: 11.5%, placebo: 8.4%), add-on to basal insulin with or without metformin and with or without a sulphonylurea (empagliflozin 10 mg: 19.5%, empagliflozin 25 mg: 28.4%, placebo: 20.6% during initial 18 weeks treatment when insulin could not be adjusted; empagliflozin 10 mg and 25 mg: 36.1%, placebo 35.3% over the 78-week trial), and add-on to MDI insulin with or without metformin (empagliflozin 10 mg: 39.8%, empagliflozin 25 mg: 41.3%, placebo: 37.2% during initial 18 weeks treatment when insulin could not be adjusted; empagliflozin 10 mg: 51.1%, empagliflozin 25 mg: 57.7%, placebo: 58% over the 52-week trial).
+
 Major hypoglycaemia (events requiring assistance)
 No increase in major hypoglycaemia was observed with empagliflozin compared to placebo as monotherapy, add-on to metformin, add-on to metformin and a sulfonylurea, add-on to pioglitazone with or without metformin, add-on to linagliptin and metformin, as adjunct to standard care therapy and for the combination of empagliflozin with metformin in drug-naïve patients compared to those treated with empagliflozin and metformin as individual components.
 An increased frequency was noted when given as add-on to basal insulin with or without metformin and with or without a sulfonylurea (empagliflozin 10 mg: 0%, empagliflozin 25 mg: 1.3%, placebo: 0% during initial 18 weeks treatment when insulin could not be adjusted; empagliflozin 10 mg: 0%, empagliflozin 25 mg: 1.3%, placebo 0% over the 78-week trial), and add-on to MDI insulin with or without metformin (empagliflozin 10 mg: 1.6%, empagliflozin 25 mg: 0.5%, placebo: 1.6% during initial 18 weeks treatment when insulin could not be adjusted and over the 52-week trial).
@@ -62,7 +63,6 @@ The frequency of volume depletion events was increased in patients 75 years and 
 Blood creatinine increased/Glomerular filtration rate decreased
 The overall frequency of patients with increased blood creatinine and decreased glomerular filtration rate were similar between empagliflozin and placebo (blood creatinine increased: empagliflozin 10 mg 0.6%, empagliflozin 25 mg 0.1%, placebo 0.5%; glomerular filtration rate decreased: empagliflozin 10 mg 0.1%, empagliflozin 25 mg 0%, placebo 0.3%).
 Initial increases in creatinine and initial decreases in estimated glomerular filtration rates in patients treated with empagliflozin were generally transient during continuous treatment or reversible after drug discontinuation of treatment.
-
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

@@ -4,7 +4,7 @@ General
 Jardiance should not be used in patients with type 1 diabetes or for the treatment of diabetic ketoacidosis.
 
 Diabetic ketoacidosis
-Rare cases of diabetic ketoacidosis (DKA), including life-threatening cases, have been reported in clinical trials and post-marketing in patients treated with SGLT2 inhibitors, including empagliflozin.
+Rare cases of diabetic ketoacidosis (DKA), including life-threatening and fatal cases, have been reported in patients treated with SGLT2 inhibitors, including empagliflozin.
 In a number of cases, the presentation of the condition was atypical with only moderately increased blood glucose values, below 14 mmol/l (250 mg/dl).
 It is not known if DKA is more likely to occur with higher doses of empagliflozin.
 

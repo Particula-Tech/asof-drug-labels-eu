@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Drugs used in diabetes, Other blood glucose lowering drugs, excl. insulins, ATC code: A10BX12
+Pharmacotherapeutic group: Drugs used in diabetes, Other blood glucose lowering drugs, excl. insulins, ATC code: A10BK03
 
 Mechanism of action
 
