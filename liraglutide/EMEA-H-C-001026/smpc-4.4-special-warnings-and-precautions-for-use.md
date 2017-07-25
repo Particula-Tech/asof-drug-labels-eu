@@ -4,30 +4,27 @@ Liraglutide should not be used in patients with type 1 diabetes mellitus or for 
 
 Liraglutide is not a substitute for insulin.
 
-There is limited experience in patients with congestive heart failure New York Heart Association (NYHA) class I­II and liraglutide should therefore be used with caution.
-There is no experience in patients with congestive heart failure NYHA class III-IV and liraglutide is therefore not recommended in these patients.
+There is no therapeutic experience in patients with congestive heart failure New York Heart Association (NYHA) class IV, and liraglutide is therefore not recommended for use in these patients.
 
 There is limited experience in patients with inflammatory bowel disease and diabetic gastroparesis.
 Use of liraglutide is not recommended in these patients since it is associated with transient gastrointestinal adverse reactions, including nausea, vomiting and diarrhoea.
 
 Acute pancreatitis
 
-Use of GLP-1 receptor agonists has been associated with a risk of developing acute pancreatitis.
-There have been few reported events of acute pancreatitis.
+Acute pancreatitis has been observed with the use of GLP-1 receptor agonists.
 Patients should be informed of the characteristic symptoms of acute pancreatitis.
-If pancreatitis is suspected, Victoza should be discontinued; if acute pancreatitis is confirmed, Victoza should not be restarted.
-Caution should be exercised in patients with a history of pancreatitis.
+If pancreatitis is suspected, liraglutide should be discontinued; if acute pancreatitis is confirmed, liraglutide should not be restarted (see sections 4.8 and 5.1).
 
 Thyroid disease
 
-Thyroid adverse events, including increased blood calcitonin, goitre and thyroid neoplasm have been reported in clinical trials in particular in patients with pre­existing thyroid disease and liraglutide should therefore be used with caution.
+Thyroid adverse events, such as goitre, have been reported in clinical trials and in particular in patients with pre-existing thyroid disease.
+Liraglutide should therefore be used with caution in these patients.
 
 Hypoglycaemia
-
-Patients receiving liraglutide in combination with a sulfonylurea or a basal insulin may have an increased risk of hypoglycaemia (see section 4.8).
-The risk of hypoglycaemia can be lowered by a reduction in the dose of sulfonylurea or basal insulin.
+Patients receiving liraglutide in combination with a sulfonylurea or insulin may have an increased risk of hypoglycaemia (see section 4.8).
+The risk of hypoglycaemia can be lowered by a reduction in the dose of sulfonylurea or insulin.
 
 Dehydration
 
-Signs and symptoms of dehydration, including renal impairment and acute renal failure have been reported in patients treated with liraglutide.
+Signs and symptoms of dehydration, including renal impairment and acute renal failure, have been reported in patients treated with liraglutide.
 Patients treated with liraglutide should be advised of the potential risk of dehydration in relation to gastrointestinal side effects and take precautions to avoid fluid depletion.

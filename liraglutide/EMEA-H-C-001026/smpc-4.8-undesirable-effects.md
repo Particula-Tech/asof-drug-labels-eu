@@ -2,23 +2,23 @@
 
 Summary of the safety profile
 
-In five large long-term clinical trials over 2,500 patients have received treatment with Victoza alone or in combination with metformin, a sulfonylurea (with or without metformin) or metformin plus rosiglitazone.
+In five large long-term clinical phase 3a trials over 2,500 patients have received treatment with Victoza alone or in combination with metformin, a sulfonylurea (with or without metformin) or metformin plus rosiglitazone.
 
 The most frequently reported adverse reactions during clinical trials were gastrointestinal disorders: nausea and diarrhoea were very common, whereas vomiting, constipation, abdominal pain, and dyspepsia were common.
 At the beginning of the therapy, these gastrointestinal adverse reactions may occur more frequently.
 These reactions usually diminish within a few days or weeks on continued treatment.
 Headache and nasopharyngitis were also common.
 Furthermore, hypoglycaemia was common, and very common when liraglutide is used in combination with a sulfonylurea.
-Major hypoglycaemia has primarily been observed when combined with a sulfonylurea.
+Severe hypoglycaemia has primarily been observed when combined with a sulfonylurea.
 
 Tabulated list of adverse reactions
 
-Table 1 lists adverse reactions reported in long term phase 3 controlled trials and spontaneous (postmarketing) reports.
-Frequencies for related spontaneous reports (postmarketing) have been calculated based on their incidence in phase 3 clinical trials.
+Table 1 lists adverse reactions reported in long-term phase 3a controlled trials, the LEADER trial (a long-term cardiovascular outcome trial) and spontaneous (post-marketing) reports.
+Frequencies for all events have been calculated based on their incidence in phase 3a clinical trials.
 Frequencies are defined as: Very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Table 1 Adverse reactions from long-term controlled phase 3 trials and spontaneous (postmarketing) reports
+Table 1 Adverse reactions from long-term controlled phase 3a trials, the long-term cardiovascular outcome trial (LEADER) and spontaneous (post-marketing) reports
 
 | MedDRA system organ classes | Very common | Common | Uncommon | Rare | Very rare |
 | --- | --- | --- | --- | --- | --- |
@@ -28,18 +28,11 @@ Table 1 Adverse reactions from long-term controlled phase 3 trials and spontaneo
 | Nervous system disorders |  | Headache Dizziness |  |  |  |
 | Cardiac disorders |  | Increased heart rate |  |  |  |
 | Gastrointestinal disorders | Nausea Diarrhoea | Vomiting Dyspepsia Abdominal pain upper Constipation Gastritis Flatulence Abdominal distension Gastroesophageal reflux disease Abdominal discomfort Toothache |  | Intestinal obstruction | Pancreatitis (including necrotising pancreatitis) |
+| Hepatobiliary disorders |  |  | Cholelithiasis Cholecystitis |  |  |
+| Skin and subcutaneous tissue disorder |  | Rash | Urticaria Pruritus |  |  |
+| Renal and urinary disorders |  |  | Renal impairment Renal failure acute |  |  |
+| General disorders and administration site conditions |  | Fatigue Injection site reactions | Malaise |  |  |
 
-Skin and Rash Urticaria
-subcutaneous Pruritus
-tissue disorder
-Renal and Renal
-urinary impairment
-disorders Renal failure
-acute
-General Fatigue Malaise
-disorders and Injection site
-administration reactions
-site conditions
 Investigations Increased lipase*
 Increased amylase*
 
@@ -52,10 +45,12 @@ The most frequently reported adverse reactions were gastrointestinal disorders, 
 
 Hypoglycaemia
 Most episodes of confirmed hypoglycaemia in clinical trials were minor.
-No episodes of major hypoglycaemia were observed in the trial with liraglutide used as monotherapy.
-Major hypoglycaemia may occur uncommonly and has primarily been observed when liraglutide is combined with a sulfonylurea (0.02 events/patient year).
+No episodes of severe hypoglycaemia were observed in the trial with liraglutide used as monotherapy.
+Severe hypoglycaemia may occur uncommonly and has primarily been observed when liraglutide is combined with a sulfonylurea (0.02 events/patient year).
 Very few episodes (0.001 events/patient year) were observed with administration of liraglutide in combination with oral antidiabetics other than sulfonylureas.
 The risk of hypoglycaemia is low with combined use of basal insulin and liraglutide (1.0 events per patient year, see section 5.1).
+In the LEADER trial, severe hypoglycaemic episodes were reported at a lower rate with liraglutide vs placebo (1.0 vs 1.5 events per 100 patient years; estimated rate ratio 0.69 [0.51 to 0.93]) (see section 5.1).
+For patients treated with premix insulin at baseline and at least for the following 26 weeks, the rate of severe hypoglycaemia for both liraglutide and placebo was 2.2 events per 100 patient years.
 
 Gastrointestinal adverse reactions
 When combining liraglutide with metformin, 20.7% of patients reported at least one episode of nausea, and 12.6% of patients reported at least one episode of diarrhoea.
@@ -64,7 +59,11 @@ Most episodes were mild to moderate and occurred in a dose­dependent fashion.
 With continued therapy, the frequency and severity decreased in most patients who initially experienced nausea.
 
 Patients >70 years may experience more gastrointestinal effects when treated with liraglutide.
-Patients with mild and moderate renal impairment (creatinine clearance 60­90 ml/min and 30–59 ml/min, respectively) may experience more gastrointestinal effects when treated with liraglutide.
+Patients with mild and moderate renal impairment (creatinine clearance 60–90 ml/min and 30–59 ml/min, respectively) may experience more gastrointestinal effects when treated with liraglutide.
+
+Cholelithiasis and cholecystitis
+Few cases of cholelithiasis (0.4%) and cholecystitis (0.1%) have been reported during long-term, controlled phase 3a clinical trials with liraglutide.
+In the LEADER trial, the frequency of cholelithiasis and cholecystitis was 1.5% and 1.1% for liraglutide and 1.1% and 0.7% for placebo, respectively (see section 5.1).
 
 Withdrawal
 The incidence of withdrawal due to adverse reactions was 7.8% for liraglutide-treated patients and 3.4% for comparator­treated patients in the long-term controlled trials (26 weeks or longer).
@@ -75,9 +74,9 @@ Injection site reactions have been reported in approximately 2% of patients rece
 These reactions have usually been mild.
 
 Pancreatitis
-Few cases (<0.2%) of acute pancreatitis have been reported during long-term clinical trials with Victoza.
-Pancreatitis was also reported post-marketing.
-
+Few cases of acute pancreatitis (<0.2%) have been reported during long-term, controlled phase 3 clinical trials with Victoza.
+Pancreatitis was also reported from marketed use.
+In the LEADER trial, the frequency of acute pancreatitis confirmed by adjudication was 0.4% for liraglutide and 0.5% for placebo, respectively (see sections 4.4 and 5.1).
 Allergic reactions
 Allergic reactions including urticaria, rash and pruritus have been reported from marketed use of Victoza.
 Few cases of anaphylactic reactions with additional symptoms such as hypotension, palpitations, dyspnoea and oedema have been reported with marketed use of Victoza.

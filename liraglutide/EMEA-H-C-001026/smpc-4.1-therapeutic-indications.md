@@ -1,9 +1,8 @@
 # 4.1 Therapeutic indications
 
-Victoza is indicated for treatment of adults with type 2 diabetes mellitus to achieve glycaemic control as:
+Victoza is indicated for the treatment of adults with insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise
 
-Monotherapy
-When diet and exercise alone do not provide adequate glycaemic control in patients for whom use of metformin is considered inappropriate due to intolerance or contraindications.
+- as monotherapy when metformin is considered inappropriate due to intolerance or contraindications
+- in addition to other medicinal products for the treatment of diabetes.
 
-Combination therapy
-In combination with oral glucose-lowering medicinal products and/or basal insulin when these, together with diet and exercise, do not provide adequate glycaemic control (see sections 4.4 and 5.1 for available data on the different combinations).
+For study results with respect to combinations, effects on glycaemic control and cardiovascular events, and the populations studied, see sections 4.4, 4.5 and 5.1.

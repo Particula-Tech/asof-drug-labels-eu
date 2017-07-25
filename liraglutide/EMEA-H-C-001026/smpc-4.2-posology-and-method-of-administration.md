@@ -10,22 +10,20 @@ Daily doses higher than 1.8 mg are not recommended.
 Victoza can be added to existing metformin or to a combination of metformin and thiazolidinedione therapy.
 The current dose of metformin and thiazolidinedione can be continued unchanged.
 
-Victoza can be added to existing sulfonylurea or to a combination of metformin and sulfonylurea therapy or a basal insulin.
-When Victoza is added to sulfonylurea therapy or basal insulin, a reduction in the dose of sulfonylurea or basal insulin should be considered to reduce the risk of hypoglycaemia (see section 4.4).
+Victoza can be added to existing sulfonylurea or to a combination of metformin and sulfonylurea therapy or insulin.
+When Victoza is added to sulfonylurea therapy or insulin, a reduction in the dose of sulfonylurea or insulin should be considered to reduce the risk of hypoglycaemia (see section 4.4).
 
 Self-monitoring of blood glucose is not needed in order to adjust the dose of Victoza.
-However, when initiating treatment with Victoza in combination with a sulfonylurea or a basal insulin, blood glucose self-monitoring may become necessary to adjust the dose of the sulfonylurea or the basal insulin.
+However, when initiating treatment with Victoza in combination with a sulfonylurea or insulin, blood glucose self-monitoring may become necessary to adjust the dose of the sulfonylurea or the insulin.
 
 Special populations
 
 Elderly patients (>65 years old)
-No dose adjustment is required based on age.
-Therapeutic experience in patients ≥75 years of age is limited (see section 5.2).
+No dose adjustment is required based on age (see section 5.2).
 
 Renal impairment
-No dose adjustment is required for patients with mild or moderate renal impairment (creatinine clearance 60–90 ml/min and 30–59 ml/min, respectively).
-There is no therapeutic experience in patients with severe renal impairment (creatinine clearance below 30 ml/min).
-Victoza can currently not be recommended for use in patients with severe renal impairment including patients with end­stage renal disease (see section 5.2).
+No dose adjustment is required for patients with mild, moderate or severe renal impairment.
+There is no therapeutic experience in patients with end-stage renal disease, and Victoza is therefore not recommended for use in these patients (see sections 5.1 and 5.2).
 
 Hepatic impairment
 No dose adjustment is recommended for patients with mild or moderate hepatic impairment.
