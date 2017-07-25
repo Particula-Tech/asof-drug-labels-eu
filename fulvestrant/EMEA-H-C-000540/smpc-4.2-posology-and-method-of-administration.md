@@ -20,7 +20,6 @@ Currently available data are described in sections 5.1 and 5.2, but no recommend
 
 Method of administration
 Faslodex should be administered as two consecutive 5 ml injections by slow intramuscular injection (1-2 minutes/injection), one in each buttock (gluteal area).
-
 Caution should be taken if injecting Faslodex at the dorsogluteal site due to the proximity of the underlying sciatic nerve.
 
 For detailed instructions for administration, see section 6.6.

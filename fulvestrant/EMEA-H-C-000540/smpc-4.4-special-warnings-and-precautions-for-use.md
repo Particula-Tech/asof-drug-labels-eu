@@ -6,7 +6,7 @@ Faslodex should be used with caution in patients with severe renal impairment (c
 
 Due to the intramuscular route of administration, Faslodex should be used with caution if treating patients with bleeding diatheses, thrombocytopenia or those taking anticoagulant treatment.
 
-Thromboembolic events are commonly observed in women with advanced breast cancer and have been observed in clinical trials with Faslodex (see section 4.8).
+Thromboembolic events are commonly observed in women with advanced breast cancer and have been observed in clinical studies with Faslodex (see section 4.8).
 This should be taken into consideration when prescribing Faslodex to patients at risk.
 
 Injection site related events including sciatica, neuralgia, neuropathic pain, and peripheral neuropathy have been reported with Faslodex injection.

@@ -2,7 +2,6 @@
 
 Women of childbearing potential
 Patients of child-bearing potential should be advised to use effective contraception while on treatment.
-
 Pregnancy
 Faslodex is contraindicated in pregnancy (see section 4.3).
 Fulvestrant has been shown to cross the placenta after single intramuscular doses in rat and rabbit.

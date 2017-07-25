@@ -17,7 +17,7 @@ The role of sex hormone-binding globulin (SHBG) has not been determined.
 
 Biotransformation
 The metabolism of fulvestrant has not been fully evaluated, but involves combinations of a number of possible biotransformation pathways analogous to those of endogenous steroids.
-Identified metabolites (includes 17-ketone, sulphone, 3-sulphate, 3- and 17-glucuronide metabolites) are either less active or exhibit similar activity to fulvestrant in anti-estrogen models.
+Identified metabolites (includes 17-ketone, sulphone, 3-sulphate, 3- and 17-glucuronide metabolites) are either less active or exhibit similar activity to fulvestrant in antiestrogen models.
 Studies using human liver preparations and recombinant human enzymes indicate that CYP3A4 is the only P450 isoenzyme involved in the oxidation of fulvestrant; however, non-P450 routes appear to be more predominant in vivo.
 In vitro data suggest that fulvestrant does not inhibit CYP450 isoenzymes.
 
@@ -28,19 +28,19 @@ Fulvestrant has a high clearance, 11±1.7 ml/min/kg, suggesting a high hepatic e
 The terminal half-life (t1/2) after intramuscular administration is governed by the absorption rate and was estimated to be 50 days.
 
 Special populations
-In a population pharmacokinetic analysis of data from phase III studies, no difference in fulvestrant’s pharmacokinetic profile was detected with regard to age (range 33 to 89 years), weight (40-127 kg) or race.
+In a population pharmacokinetic analysis of data from Phase 3 studies, no difference in fulvestrant’s pharmacokinetic profile was detected with regard to age (range 33 to 89 years), weight (40-127 kg) or race.
 
 Renal impairment
 Mild to moderate impairment of renal function did not influence the pharmacokinetics of fulvestrant to any clinically relevant extent.
 
 Hepatic impairment
-The pharmacokinetics of fulvestrant has been evaluated in a single-dose clinical trial conducted in subjects with mild to moderate hepatic impairment (Child-Pugh class A and B). A high dose of a shorter duration intramuscular injection formulation was used.
-There was up to about 2.5-fold increase in AUC in subjects with hepatic impairment compared to healthy subjects.
+The pharmacokinetics of fulvestrant has been evaluated in a single-dose clinical study conducted in women with mild to moderate hepatic impairment (Child-Pugh class A and B). A high dose of a shorter duration intramuscular injection formulation was used.
+There was up to about 2.5-fold increase in AUC in women with hepatic impairment compared to healthy subjects.
 In patients administered Faslodex, an increase in exposure of this magnitude is expected to be well tolerated.
-Subjects with severe hepatic impairment (Child-Pugh class C) were not evaluated.
+Women with severe hepatic impairment (Child-Pugh class C) were not evaluated.
 
 Paediatric population
-The pharmacokinetics of fulvestrant has been evaluated in a clinical trial conducted in 30 girls with Progressive Precocious Puberty associated with McCune Albright Syndrome (see section 5.1).
+The pharmacokinetics of fulvestrant has been evaluated in a clinical study conducted in 30 girls with Progressive Precocious Puberty associated with McCune Albright Syndrome (see section 5.1).
 The paediatric patients were aged 1 to 8 years and received 4 mg/kg monthly intramuscular dose of fulvestrant.
 The geometric mean (standard deviation) steady state trough concentration (Cmin,ss) and AUCss was 4.2 (0.9) ng/mL and 3680 (1020) ng*hr/mL, respectively.
 Although the data collected were limited, the steady-state trough concentrations of fulvestrant in children appear to be consistent with those in adults.
