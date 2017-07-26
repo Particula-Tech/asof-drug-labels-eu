@@ -80,6 +80,6 @@ Drug hypersensitivity reactions:
 Clinicians should be prepared for the possibility of drug hypersensitivity reactions (including anaphylactic reactions) and take the necessary precautions (see section 4.8).
 
 Patients on a controlled sodium diet:
-Each mL solution contains 9.7 mg sodium.
+Each mL solution contains up to 9.7 mg sodium.
 A dose of 23 mg sodium is considered essentially ‘sodium-free’.
 If more than 2.4 mL solution needs to be administered, this should be taken into consideration by patients on a controlled sodium diet.
