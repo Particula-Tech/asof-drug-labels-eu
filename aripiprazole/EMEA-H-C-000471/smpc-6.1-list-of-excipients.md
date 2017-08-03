@@ -9,7 +9,6 @@ Hydroxypropyl cellulose
 Magnesium stearate
 
 Tablet coat
-
 ABILIFY 5 mg tablets
 Indigo carmine aluminium lake (E 132)
 

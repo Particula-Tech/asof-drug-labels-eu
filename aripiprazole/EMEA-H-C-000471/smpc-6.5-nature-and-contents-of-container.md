@@ -16,3 +16,6 @@ Each carton contains 1 bottle and both a calibrated polypropylene measuring cup 
 [ABILIFY 7.5 mg/ml solution for injection]
 
 Each carton contains one single-use type I glass vial with a rubber butyl stopper and a "flip-off" aluminium seal.
+
+Each carton contains one single-use type I glass vial with a rubber butyl stopper and a "tear-off"
+aluminium seal.

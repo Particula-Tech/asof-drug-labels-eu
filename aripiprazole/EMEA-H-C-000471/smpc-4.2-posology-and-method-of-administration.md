@@ -65,7 +65,6 @@ When concomitant administration of potent CYP3A4 inducers with aripiprazole occu
 When the CYP3A4 inducer is withdrawn from the combination therapy, the aripiprazole dose should then be reduced to the recommended dose (see section 4.5).
 
 Method of administration
-
 ABILIFY is for oral use.
 
 Orodispersible tablets or oral solution may be used as an alternative to ABILIFY tablets for patients who have difficulty swallowing ABILIFY tablets (see section 5.2).

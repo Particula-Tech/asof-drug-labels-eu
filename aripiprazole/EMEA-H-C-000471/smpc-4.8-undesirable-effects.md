@@ -1,7 +1,6 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-
 The most commonly reported adverse reactions in placebo-controlled trials are akathisia and nausea each occurring in more than 3 % of patients treated with oral aripiprazole.
 
 Tabulated list of adverse reactions
@@ -19,12 +18,12 @@ Consequently, the frequency of these adverse events is qualified as "not known"
 | Endocrine disorders |  | Hyperprolactinaemia | Diabetic hyperosmolar coma Diabetic ketoacidosis Hyperglycaemia |
 | Metabolism and nutrition disorders | Diabetes mellitus | Hyperglycaemia | Hyponatremia Anorexia Weight decreased Weight gain |
 | Psychiatric disorders | Insomnia Anxiety Restlessness | Depression, Hypersexuality | Suicide attempt, suicidal ideation and completed suicide (see section 4.4) Pathological gambling Aggression Agitation Nervousness |
-| Nervous system | Akathisia | Tardive dyskinesia | Neuroleptic Malignant Syndrome |
-| disorders | Extrapyramidal disorder Tremor Headache Sedation Somnolence Dizziness | Dystonia | (NMS) Grand mal convulsion Serotonin syndrome Speech disorder |
+| Nervous system disorders | Akathisia Extrapyramidal disorder Tremor Headache Sedation Somnolence Dizziness | Tardive dyskinesia Dystonia | Neuroleptic Malignant Syndrome (NMS) Grand mal convulsion Serotonin syndrome Speech disorder |
 | Eye disorders | Vision blurred | Diplopia |  |
 | Cardiac disorders |  | Tachycardia | Sudden unexplained death Torsades de pointes QT prolongation Ventricular arrhythmias Cardiac arrest Bradycardia |
 | Vascular disorders |  | Orthostatic hypotension | Venous thromboembolism (including pulmonary embolism and deep vein thrombosis) Hypertension Syncope |
-| Respiratory, thoracic and mediastinal disorders |  | Hiccups | Aspiration pneumonia Laryngospasm Oropharyngeal spasm |
+| Respiratory, |  | Hiccups | Aspiration pneumonia |
+| thoracic and mediastinal disorders |  |  | Laryngospasm Oropharyngeal spasm |
 | Gastrointestinal disorders | Constipation Dyspepsia Nausea Salivary hypersecretion Vomiting |  | Pancreatitis Dysphagia Diarrhoea Abdominal discomfort Stomach discomfort |
 | Hepatobiliary disorders |  |  | Hepatic failure Hepatitis Jaundice Increased Alanine Aminotransferase (ALT) Increased Aspartate Aminotransferase (AST) Increased Gamma Glutamyl Transferase (GGT) Increased alkaline phosphatase |
 | Skin and subcutaneous tissue disorders |  |  | Rash Photosensitivity reaction Alopecia Hyperhidrosis |
@@ -32,8 +31,7 @@ Consequently, the frequency of these adverse events is qualified as "not known"
 | Renal and urinary disorders |  |  | Urinary incontinence Urinary retention |
 | Pregnancy, puerperium and perinatal conditions |  |  | Drug withdrawal syndrome neonatal (see section 4.6) |
 | Reproductive system and breast disorders |  |  | Priapism |
-| General disorders | Fatigue |  | Temperature regulation disorder |
-| and administration site conditions |  |  | (e.g. hypothermia, pyrexia) Chest pain Peripheral oedema |
+| General disorders and administration site conditions | Fatigue |  | Temperature regulation disorder (e.g. hypothermia, pyrexia) Chest pain Peripheral oedema |
 | Investigations |  |  | Blood glucose increased Glycosylated haemoglobin increased Blood glucose fluctuation Increased creatine phosphokinase |
 
 Description of selected adverse reactions
@@ -70,9 +68,12 @@ Schizophrenia in adolescents aged 15 years and older
 In a short-term placebo-controlled clinical trial involving 302 adolescents (13-17 years) with schizophrenia, the frequency and type of undesirable effects were similar to those in adults except for the following reactions that were reported more frequently in adolescents receiving aripiprazole than in adults receiving aripiprazole (and more frequently than placebo):
 somnolence/sedation and extrapyramidal disorder were reported very commonly (≥ 1/10), and dry mouth, increased appetite, and orthostatic hypotension were reported commonly (≥ 1/100, < 1/10).
 The safety profile in a 26-week open-label extension trial was similar to that observed in the short-term, placebo-controlled trial.
+The safety profile of a long-term, double-blind placebo controlled trial was also similar except for the following reactions that were reported more frequently than paediatric patients taking placebo: weight decreased, blood insulin increased, arrhythmia, and leukopenia were reported commonly (≥ 1/100,
+< 1/10).
 
 In the pooled adolescent schizophrenia population (13-17 years) with exposure up to 2 years, incidence of low serum prolactin levels in females (<3 ng/ml) and males (< 2 ng/ml) was 29.5 % and 48.3 %, respectively.
 In the adolescent (13-17 years) schizophrenia population with aripiprazole exposure of 5 to 30 mg up to 72 months, incidence of low serum prolactin levels in females (<3 ng/ml) and males (< 2 ng/ml) was 25.6 % and 45.0 %, respectively.
+In two long term trials with adolescent (13-17 years) schizophrenia and bipolar patients treated with aripiprazole, incidence of low serum prolactin levels in females (< 3 ng/ml) and males (< 2 ng/ml) was 37.0 % and 59.4 %, respectively.
 
 Manic episodes in Bipolar I Disorder in adolescents aged 13 years and older
 The frequency and type of undesirable effects in adolescents with Bipolar I Disorder were similar to those in adults except for the following reactions: very commonly (≥ 1/10) somnolence (23.0 %), extrapyramidal disorder (18.4 %), akathisia (16.0 %), and fatigue (11.8 %); and commonly (≥ 1/100, < 1/10) abdominal pain upper, heart rate increased, weight increased, increased appetite, muscle twitching, and dyskinesia.
@@ -116,7 +117,28 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [ABILIFY 1 mg/ml oral solution]
 
-(all sentences already above)
+|  | Common | Uncommon | Not known |
+| --- | --- | --- | --- |
+| Blood and lymphatic system disorders |  |  | Leukopenia Neutropenia Thrombocytopenia |
+| Immune system disorders |  |  | Allergic reaction (e.g. anaphylactic reaction, angioedema including swollen tongue, tongue oedema, face oedema, pruritus, or urticaria) |
+| Endocrine disorders |  | Hyperprolactinaemia | Diabetic hyperosmolar coma Diabetic ketoacidosis Hyperglycaemia |
+| Metabolism and nutrition disorders | Diabetes mellitus | Hyperglycaemia | Hyponatremia Anorexia Weight decreased Weight gain |
+| Psychiatric disorders | Insomnia Anxiety Restlessness | Depression, Hypersexuality | Suicide attempt, suicidal ideation and completed suicide (see section 4.4) Pathological gambling Aggression Agitation Nervousness |
+| Nervous system disorders | Akathisia Extrapyramidal disorder Tremor Headache Sedation Somnolence Dizziness | Tardive dyskinesia Dystonia | Neuroleptic Malignant Syndrome (NMS) Grand mal convulsion Serotonin syndrome Speech disorder |
+| Eye disorders | Vision blurred | Diplopia |  |
+| Cardiac disorders |  | Tachycardia | Sudden unexplained death Torsades de pointes QT prolongation Ventricular arrhythmias Cardiac arrest Bradycardia |
+| Vascular disorders |  | Orthostatic hypotension | Venous thromboembolism (including pulmonary embolism and deep vein thrombosis) Hypertension Syncope |
+| Respiratory, thoracic and mediastinal disorders |  | Hiccups | Aspiration pneumonia Laryngospasm Oropharyngeal spasm |
+| Gastrointestinal disorders | Constipation Dyspepsia Nausea Salivary hypersecretion Vomiting |  | Pancreatitis Dysphagia Diarrhoea Abdominal discomfort Stomach discomfort |
+| Hepatobiliary disorders |  |  | Hepatic failure Hepatitis Jaundice Increased Alanine Aminotransferase (ALT) Increased Aspartate Aminotransferase (AST) Increased Gamma Glutamyl Transferase (GGT) Increased alkaline phosphatase |
+| Skin and |  |  | Rash |
+| subcutaneous tissue disorders |  |  | Photosensitivity reaction Alopecia Hyperhidrosis |
+| Musculoskeletal and connective tissue disorders |  |  | Rhabdomyolysis Myalgia Stiffness |
+| Renal and urinary disorders |  |  | Urinary incontinence Urinary retention |
+| Pregnancy, puerperium and perinatal conditions |  |  | Drug withdrawal syndrome neonatal (see section 4.6) |
+| Reproductive system and breast disorders |  |  | Priapism |
+| General disorders and administration site conditions | Fatigue |  | Temperature regulation disorder (e.g. hypothermia, pyrexia) Chest pain Peripheral oedema |
+| Investigations |  |  | Blood glucose increased Glycosylated haemoglobin increased Blood glucose fluctuation Increased creatine phosphokinase |
 
 [ABILIFY 7.5 mg/ml solution for injection]
 
@@ -130,15 +152,15 @@ The following adverse reactions occurred more often (≥ 1/100) than placebo, or
 | Immune system disorders |  |  | Allergic reaction (e.g. anaphylactic reaction, angioedema including swollen tongue, tongue oedema, face oedema, pruritus, or urticaria) |
 | Endocrine disorders |  | Hyperprolactinaemia | Diabetic hyperosmolar coma Diabetic ketoacidosis Hyperglycaemia |
 | Metabolism and nutrition disorders | Diabetes mellitus | Hyperglycaemia | Hyponatremia Anorexia Weight decreased Weight gain |
-| Psychiatric disorders | Insomnia Anxiety Restlessness | Depression, Hypersexuality | Suicide attempt, suicidal ideation and completed suicide (see section 4.4) Pathological gambling Aggression Agitation Nervousness |
+| Psychiatric disorders | Insomnia Anxiety | Depression, Hypersexuality | Suicide attempt, suicidal ideation and completed suicide (see |
+|  | Restlessness |  | section 4.4) Pathological gambling Aggression Agitation Nervousness |
 | Nervous system disorders | Akathisia Extrapyramidal disorder Tremor Headache Sedation Somnolence Dizziness | Tardive dyskinesia Dystonia | Neuroleptic Malignant Syndrome (NMS) Grand mal convulsion Serotonin syndrome Speech disorder |
 | Eye disorders | Vision blurred | Diplopia |  |
 | Cardiac disorders |  | Tachycardia | Sudden unexplained death Torsades de pointes QT prolongation Ventricular arrhythmias Cardiac arrest Bradycardia |
 | Vascular disorders |  | Increased diastolic blood pressure Orthostatic hypotension | Venous thromboembolism (including pulmonary embolism and deep vein thrombosis) Hypertension Syncope |
 | Respiratory, thoracic and mediastinal disorders |  | Hiccups | Aspiration pneumonia Laryngospasm Oropharyngeal spasm |
 | Gastrointestinal disorders | Constipation Dyspepsia Nausea Salivary hypersecretion Vomiting | Dry mouth | Pancreatitis Dysphagia Diarrhoea Abdominal discomfort Stomach discomfort |
-| Hepatobiliary disorders |  |  | Hepatic failure Hepatitis Jaundice Increased Alanine |
-|  |  |  | Aminotransferase (ALT) Increased Aspartate Aminotransferase (AST) Increased Gamma Glutamyl Transferase (GGT) Increased alkaline phosphatase |
+| Hepatobiliary disorders |  |  | Hepatic failure Hepatitis Jaundice Increased Alanine Aminotransferase (ALT) Increased Aspartate Aminotransferase (AST) Increased Gamma Glutamyl Transferase (GGT) Increased alkaline phosphatase |
 | Skin and subcutaneous tissue disorders |  |  | Rash Photosensitivity reaction Alopecia Hyperhidrosis |
 | Musculoskeletal and connective tissue disorders |  |  | Rhabdomyolysis Myalgia Stiffness |
 | Renal and urinary disorders |  |  | Urinary incontinence Urinary retention |

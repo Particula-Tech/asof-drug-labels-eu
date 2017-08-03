@@ -1,26 +1,22 @@
 # 5.2 Pharmacokinetic properties
 
 Absorption
-
 Aripiprazole is well absorbed, with peak plasma concentrations occurring within 3-5 hours after dosing.
 Aripiprazole undergoes minimal pre-systemic metabolism.
 The absolute oral bioavailability of the tablet formulation is 87 %.
 There is no effect of a high fat meal on the pharmacokinetics of aripiprazole.
 
 Distribution
-
 Aripiprazole is widely distributed throughout the body with an apparent volume of distribution of 4.9 l/kg, indicating extensive extravascular distribution.
 At therapeutic concentrations, aripiprazole and dehydro-aripiprazole are greater than 99 % bound to serum proteins, binding primarily to albumin.
 
 Biotransformation
-
 Aripiprazole is extensively metabolised by the liver primarily by three biotransformation pathways: dehydrogenation, hydroxylation, and N-dealkylation.
 Based on in vitro studies, CYP3A4 and CYP2D6 enzymes are responsible for dehydrogenation and hydroxylation of aripiprazole, and N-dealkylation is catalysed by CYP3A4.
 Aripiprazole is the predominant medicinal product moiety in systemic circulation.
 At steady state, dehydro-aripiprazole, the active metabolite, represents about 40 % of aripiprazole AUC in plasma.
 
 Elimination
-
 The mean elimination half-lives for aripiprazole are approximately 75 hours in extensive metabolisers of CYP2D6 and approximately 146 hours in poor metabolisers of CYP2D6.
 
 The total body clearance of aripiprazole is 0.7 ml/min/kg, which is primarily hepatic.
@@ -47,7 +43,6 @@ Population pharmacokinetic evaluation showed no evidence of race-related differe
 
 Renal impairment
 The pharmacokinetic characteristics of aripiprazole and dehydro-aripiprazole were found to be similar in patients with severe renal disease compared to young healthy subjects.
-
 Hepatic impairment
 A single-dose study in subjects with varying degrees of liver cirrhosis (Child-Pugh Classes A, B, and C) did not reveal a significant effect of hepatic impairment on the pharmacokinetics of aripiprazole and dehydro-aripiprazole, but the study included only 3 patients with Class C liver cirrhosis, which is insufficient to draw conclusions on their metabolic capacity.
 

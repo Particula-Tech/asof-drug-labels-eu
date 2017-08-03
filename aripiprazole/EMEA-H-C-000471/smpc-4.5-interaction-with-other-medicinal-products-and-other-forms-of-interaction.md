@@ -7,7 +7,6 @@ Given the primary CNS effects of aripiprazole, caution should be used when aripi
 If aripiprazole is administered concomitantly with medicinal products known to cause QT prolongation or electrolyte imbalance, caution should be used.
 
 Potential for other medicinal products to affect aripiprazole
-
 A gastric acid blocker, the H2 antagonist famotidine, reduces aripiprazole rate of absorption but this effect is deemed not clinically relevant.
 Aripiprazole is metabolised by multiple pathways involving the CYP2D6 and CYP3A4 enzymes but not CYP1A enzymes.
 Thus, no dosage adjustment is required for smokers.
@@ -45,7 +44,6 @@ Serotonin syndrome
 Cases of serotonin syndrome have been reported in patients taking aripiprazole, and possible signs and symptoms for this condition can occur especially in cases of concomitant use with other serotonergic medicinal products, such as SSRI/SNRI, or with medicinal products that are known to increase aripiprazole concentrations (see section 4.8).
 
 Potential for aripiprazole to affect other medicinal products
-
 In clinical studies, 10-30 mg/day doses of aripiprazole had no significant effect on the metabolism of substrates of CYP2D6 (dextromethorphan/3-methoxymorphinan ratio), CYP2C9 (warfarin), CYP2C19 (omeprazole), and CYP3A4 (dextromethorphan).
 Additionally, aripiprazole and dehydro-aripiprazole did not show potential for altering CYP1A2-mediated metabolism in vitro.
 Thus, aripiprazole is unlikely to cause clinically important medicinal product interactions mediated by these enzymes.
@@ -66,7 +64,6 @@ No specific interaction studies have been performed with ABILIFY solution for in
 The information below is obtained from studies with oral aripiprazole.
 
 Potential for other medicinal products to affect ABILIFY solution for injection
-
 The administration of lorazepam solution for injection had no effect on the pharmacokinetics of ABILIFY solution for injection when administered concomitantly.
 However, in a single-dose, intramuscular study of aripiprazole (dose 15 mg) in healthy subjects, administered simultaneously with intramuscular lorazepam (dose 2 mg), the intensity of sedation was greater with the combination as compared to that observed with aripiprazole alone.
 
