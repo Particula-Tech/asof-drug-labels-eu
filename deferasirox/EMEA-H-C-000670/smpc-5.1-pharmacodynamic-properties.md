@@ -10,7 +10,6 @@ Deferasirox has low affinity for zinc and copper, and does not cause constant lo
 
 Pharmacodynamic effects
 In an iron-balance metabolic study in iron-overloaded adult thalassaemic patients, deferasirox at daily doses of 10, 20 and 40 mg/kg (dispersible tablet formulation) induced the mean net excretion of 0.119, 0.329 and 0.445 mg Fe/kg body weight/day, respectively.
-
 Clinical efficacy and safety
 Clinical efficacy studies were conducted with deferasirox dispersible tablets.
 
@@ -19,7 +18,7 @@ Of the paediatric patients 52 were aged 2 to 5 years.
 The underlying conditions requiring transfusion included beta-thalassaemia, sickle cell disease and other congenital and acquired anaemias (myelodysplastic syndromes, Diamond-Blackfan syndrome, aplastic anaemia and other very rare anaemias).
 
 Daily treatment with the deferasirox dispersible tablet formulation at doses of 20 and 30 mg/kg for one year in frequently transfused adult and paediatric patients with beta-thalassaemia led to reductions in indicators of total body iron; liver iron concentration was reduced by about -0.4 and -8.9 mg Fe/g liver (biopsy dry weight (dw)) on average, respectively, and serum ferritin was reduced by about -36 and -926 µg/l on average, respectively.
-At these same doses the ratios of iron excretion : iron intake were 1.02 (indicating net iron balance) and 1.67 (indicating net iron removal), respectively.
+At these same doses the ratios of iron excretion: iron intake were 1.02 (indicating net iron balance) and 1.67 (indicating net iron removal), respectively.
 Deferasirox induced similar responses in iron-overloaded patients with other anaemias.
 Daily doses of 10 mg/kg (dispersible tablet formulation) for one year could maintain liver iron and serum ferritin levels and induce net iron balance in patients receiving infrequent transfusions or exchange transfusions.
 Serum ferritin assessed by monthly monitoring reflected changes in liver iron concentration indicating that trends in serum ferritin can be used to monitor response to therapy.
@@ -37,6 +36,11 @@ However, this dosing recommendation was not prospectively assessed in the clinic
 
 In addition, in patients with liver iron concentration ≥7 mg Fe/g dw with various rare anaemias or sickle cell disease, deferasirox dispersible tablets up to 20 and 30 mg/kg produced a decrease in liver iron concentration and serum ferritin comparable to that obtained in patients with beta-thalassaemia.
 
+In a 5-year observational study in which 267 children aged 2 to <6 years (at enrollment) with transfusional haemosiderosis received deferasirox, there were no clinically meaningful differences in the safety and tolerability profile of Exjade in paediatric patients aged 2 to <6 years compared to the overall adult and older paediatric population, including increases in serum creatinine of >33% and above the upper limit of normal on ≥2 consecutive occasions (3.1%), and elevation of alanine aminotransferase (ALT) greater than 5 times the upper limit of normal (4.3%).
+Single events of increase in ALT and aspartate aminotransferase were reported in 20.0% and 8.3%, respectively, of the 145 patients who completed the study.
+In a study to assess the safety of deferasirox film-coated and dispersible tablets, 173 adult and paediatric patients with transfusion dependent thalassaemia or myelodysplastic syndrome were treated for 24 weeks.
+A comparable safety profile for film-coated and dispersible tablets was observed.
+
 In patients with non-transfusion-dependent thalassaemia syndromes and iron overload, treatment with deferasirox dispersible tablets was assessed in a 1-year, randomised, double-blind, placebo-controlled study.
 The study compared the efficacy of two different deferasirox dispersible tablet regimens (starting doses of 5 and 10 mg/kg/day, 55 patients in each arm) and of matching placebo (56 patients).
 The study enrolled 145 adult and 21 paediatric patients.
@@ -49,7 +53,5 @@ On average, serum ferritin decreased by 222.0 µg/l in patients treated with def
 The European Medicines Agency has deferred the obligation to submit the results of studies with EXJADE in one or more subsets of the paediatric population in the treatment of chronic iron overload requiring chelation therapy (see section 4.2 for information on paediatric use).
 
 [EXJADE 90 mg film-coated tablets]
-
-Daily doses of 10 mg/kg (dispersible tablet formulation)for one year could maintain liver iron and serum ferritin levels and induce net iron balance in patients receiving infrequent transfusions or exchange transfusions.
 
 For deferasirox film-coated tablets, a dose ratio of 3:1 can be considered (i.e. a dose of deferasirox film-coated tablets that is numerically one third of the deferoxamine dose).

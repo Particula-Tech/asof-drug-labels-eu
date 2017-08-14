@@ -19,7 +19,6 @@ Interaction with midazolam and other agents metabolised by CYP3A4
 In a healthy volunteer study, the concomitant administration of deferasirox dispersible tablets and midazolam (a CYP3A4 probe substrate) resulted in a decrease of midazolam exposure by 17% (90% CI: 8% - 26%).
 In the clinical setting, this effect may be more pronounced.
 Therefore, due to a possible decrease in efficacy, caution should be exercised when deferasirox is combined with substances metabolised through CYP3A4 (e.g. ciclosporin, simvastatin, hormonal contraceptive agents, bepridil, ergotamine).
-
 Interaction with repaglinide and other agents metabolised by CYP2C8
 In a healthy volunteer study, the concomitant administration of deferasirox as a moderate CYP2C8 inhibitor (30 mg/kg daily, dispersible tablet formulation), with repaglinide, a CYP2C8 substrate, given as a single dose of 0.5 mg, increased repaglinide AUC and Cmax about 2.3-fold (90% CI [2.03-2.63]) and 1.6-fold (90% CI [1.42-1.84]), respectively.
 Since the interaction has not been established with dosages higher than 0.5 mg for repaglinide, the concomitant use of deferasirox with repaglinide should be avoided.
@@ -33,6 +32,7 @@ Therefore, the concomitant use of deferasirox with theophylline is not recommend
 If deferasirox and theophylline are used concomitantly, monitoring of theophylline concentration and theophylline dose reduction should be considered.
 An interaction between deferasirox and other CYP1A2 substrates cannot be excluded.
 For substances that are predominantly metabolised by CYP1A2 and that have a narrow therapeutic index (e.g. clozapine, tizanidine), the same recommendations apply as for theophylline.
+
 Other information
 The concomitant administration of deferasirox and aluminium-containing antacid preparations has not been formally studied.
 Although deferasirox has a lower affinity for aluminium than for iron, it is not recommended to take deferasirox tablets with aluminium-containing antacid preparations.

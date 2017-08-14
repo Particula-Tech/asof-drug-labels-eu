@@ -16,10 +16,9 @@ The causes of the rises in serum creatinine have not been elucidated.
 Particular attention should therefore be paid to monitoring of serum creatinine in patients who are concomitantly receiving medicinal products that depress renal function, and in patients who are receiving high doses of deferasirox and/or low rates of transfusion (<7 ml/kg/month of packed red blood cells or
 <2 units/month for an adult).
 While no increase in renal adverse events was observed after dose escalation of EXJADE dispersible tablets to doses above 30 mg/kg in clinical studies, an increased risk of renal adverse events with EXJADE dispersible tablet doses above 30 mg/kg cannot be excluded.
-
 It is recommended that serum creatinine be assessed in duplicate before initiating therapy.
 Serum creatinine, creatinine clearance (estimated with the Cockcroft-Gault or MDRD formula in adults and with the Schwartz formula in children) and/or plasma cystatin C levels should be monitored prior to therapy, weekly in the first month after initiation or modification of therapy with
-EXJADE, and monthly thereafter.
+EXJADE (including switch of formulation), and monthly thereafter.
 Patients with pre-existing renal conditions and patients who are receiving medicinal products that depress renal function may be more at risk of complications.
 Care should be taken to maintain adequate hydration in patients who develop diarrhoea or vomiting.
 
@@ -27,14 +26,15 @@ There have been post-marketing reports of metabolic acidosis occurring during tr
 The majority of these patients had renal impairment, renal tubulopathy (Fanconi syndrome) or diarrhoea, or conditions where acid-base imbalance is a known complication.
 Acid-base balance should be monitored as clinically indicated in these populations.
 Interruption of EXJADE therapy should be considered in patients who develop metabolic acidosis.
+
 Table 3 Dose adjustment and interruption of treatment for renal monitoring
 
 |  | Serum creatinine |  | Creatinine clearance |
 | --- | --- | --- | --- |
 | Before initiation of therapy | Twice (2x) | and | Once (1x) |
 | Contraindicated |  |  | <60 ml/min |
-| Monitoring - First month after start of therapy or | Weekly | and | Weekly |
-| dose modification - Thereafter | Monthly | and | Monthly |
+| Monitoring - First month after start of therapy or dose modification | Weekly | and | Weekly |
+| (including switch of formulation) - Thereafter | Monthly | and | Monthly |
 | Reduction of daily dose by 10 mg/kg/day (dispersible tablet formulation), if following renal parameters are observed at two consecutive visits and cannot be attributed to other causes |  |  |  |
 | Adult patients Paediatric patients | >33% above pre-treatment average > age appropriate ULN** | and and/or | Decreases <LLN* (<90 ml/min) Decreases <LLN* (<90 ml/min) |
 | After dose reduction, interrupt treatment, if |  |  |  |
@@ -66,14 +66,15 @@ However, the role of deferasirox as a contributing or aggravating factor cannot 
 It is recommended that serum transaminases, bilirubin and alkaline phosphatase be checked before the initiation of treatment, every 2 weeks during the first month and monthly thereafter.
 If there is a persistent and progressive increase in serum transaminase levels that cannot be attributed to other causes, EXJADE should be interrupted.
 Once the cause of the liver function test abnormalities has been clarified or after return to normal levels, cautious re-initiation of treatment at a lower dose followed by gradual dose escalation may be considered.
+
 EXJADE is not recommended in patients with severe hepatic impairment (Child-Pugh Class C) (see section 5.2).
 
-Summary of safety monitoring recommendations
+Table 4 Summary of safety monitoring recommendations
 
 | Test | Frequency |
 | --- | --- |
-| Serum creatinine | In duplicate prior to therapy. Weekly during first month of therapy and during first month after dose modification. Monthly thereafter. |
-| Creatinine clearance and/or plasma cystatin C | Prior to therapy. Weekly during first month of therapy and during first month after dose modification. Monthly thereafter. |
+| Serum creatinine | In duplicate prior to therapy. Weekly during first month of therapy or after dose modification (including switch of formulation). Monthly thereafter. |
+| Creatinine clearance and/or plasma cystatin C | Prior to therapy. Weekly during first month of therapy or after dose modification (including switch of formulation). Monthly thereafter. |
 | Proteinuria | Prior to therapy. Monthly thereafter. |
 | Other markers of renal tubular function (such as glycosuria in non-diabetics and low levels of serum potassium, phosphate, magnesium or urate, phosphaturia, aminoaciduria) | As needed. |
 | Serum transaminases, bilirubin, alkaline phosphatase | Prior to therapy. Every 2 weeks during first month of therapy. Monthly thereafter. |
@@ -82,7 +83,6 @@ Summary of safety monitoring recommendations
 
 In patients with a short life expectancy (e.g. high-risk myelodysplastic syndromes), especially when co-morbidities could increase the risk of adverse events, the benefit of EXJADE might be limited and may be inferior to risks.
 As a consequence, treatment with EXJADE is not recommended in these patients.
-
 Caution should be used in elderly patients due to a higher frequency of adverse reactions (in particular, diarrhoea).
 
 Data in children with non-transfusion-dependent thalassaemia are very limited (see section 5.1).
@@ -102,9 +102,9 @@ Skin rashes may appear during EXJADE treatment.
 The rashes resolve spontaneously in most cases.
 When interruption of treatment may be necessary, treatment may be reintroduced after resolution of the rash, at a lower dose followed by gradual dose escalation.
 In severe cases this reintroduction could be conducted in combination with a short period of oral steroid administration.
-Cases of Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported post marketing.
-The risk of other more severe skin reactions including DRESS (drug reaction with eosinophilia and systemic symptoms) cannot be excluded.
-If SJS or any other severe skin reaction is suspected, EXJADE should be discontinued immediately and should not be reintroduced.
+Severe cutaneous adverse reactions (SCARs) including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN) and drug reaction with eosinophilia and systemic symptoms (DRESS), which could be life-threatening or fatal, have been reported.
+If any SCAR is suspected, EXJADE should be discontinued immediately and should not be reintroduced.
+At the time of prescription, patients should be advised of the signs and symptoms of severe skin reactions, and be closely monitored.
 
 Hypersensitivity reactions
 Cases of serious hypersensitivity reactions (such as anaphylaxis and angioedema) have been reported in patients receiving deferasirox, with the onset of the reaction occurring in the majority of cases within the first month of treatment (see section 4.8).
@@ -121,14 +121,13 @@ There have been post-marketing reports of leukopenia, thrombocytopenia or pancyt
 Most of these patients had pre-existing haematological disorders that are frequently associated with bone marrow failure.
 However, a contributory or aggravating role cannot be excluded.
 Interruption of treatment should be considered in patients who develop unexplained cytopenia.
-
 Other considerations
 Monthly monitoring of serum ferritin is recommended in order to assess the patient’s response to therapy (see section 4.2).
 If serum ferritin falls consistently below 500 µg/l (in transfusional iron overload) or below 300 µg/l (in non-transfusion-dependent thalassaemia syndromes), an interruption of treatment should be considered.
 
 The results of the tests for serum creatinine, serum ferritin and serum transaminases should be recorded and regularly assessed for trends.
 
-In one clinical study, growth and sexual development of paediatric patients treated with deferasirox for up to 5 years were not affected.
+In two clinical studies, growth and sexual development of paediatric patients treated with deferasirox for up to 5 years were not affected (see section 4.8).
 However, as a general precautionary measure in the management of paediatric patients with transfusional iron overload, body weight, height and sexual development should be monitored prior to therapy and at regular intervals (every 12 months).
 
 Cardiac dysfunction is a known complication of severe iron overload.
@@ -147,8 +146,8 @@ While no increase in renal adverse events was observed after dose escalation of 
 | --- | --- | --- | --- |
 | Before initiation of therapy | Twice (2x) | and | Once (1x) |
 | Contraindicated |  |  | <60 ml/min |
-| Monitoring - First month after start of therapy or | Weekly | and | Weekly |
-| dose modification - Thereafter | Monthly | and | Monthly |
+| Monitoring - First month after start of therapy or dose modification | Weekly | and | Weekly |
+| (including switch of formulation) - Thereafter | Monthly | and | Monthly |
 | Reduction of daily dose by 7 mg/kg/day (film-coated tablet formulation), if following renal parameters are observed at two consecutive visits and cannot be attributed to other causes |  |  |  |
 | Adult patients Paediatric patients | >33% above pre-treatment average > age appropriate ULN** | and and/or | Decreases <LLN* (<90 ml/min) Decreases <LLN* (<90 ml/min) |
 | After dose reduction, interrupt treatment, if |  |  |  |

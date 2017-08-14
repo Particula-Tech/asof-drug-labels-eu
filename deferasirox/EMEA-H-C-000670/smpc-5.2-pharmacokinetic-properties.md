@@ -12,6 +12,7 @@ Deferasirox is highly (99%) protein bound to plasma proteins, almost exclusively
 Biotransformation
 Glucuronidation is the main metabolic pathway for deferasirox, with subsequent biliary excretion.
 Deconjugation of glucuronidates in the intestine and subsequent reabsorption (enterohepatic recycling) is likely to occur: in a healthy volunteer study, the administration of cholestyramine after a single dose of deferasirox resulted in a 45% decrease in deferasirox exposure (AUC).
+
 Deferasirox is mainly glucuronidated by UGT1A1 and to a lesser extent UGT1A3.
 CYP450-catalysed (oxidative) metabolism of deferasirox appears to be minor in humans (about 8%).
 No inhibition of deferasirox metabolism by hydroxyurea was observed in vitro.
@@ -25,7 +26,6 @@ The transporters MRP2 and MXR (BCRP) are involved in the biliary excretion of de
 Linearity / non-linearity
 The Cmax and AUC0-24h of deferasirox increase approximately linearly with dose under steady-state conditions.
 Upon multiple dosing exposure increased by an accumulation factor of 1.3 to 2.3.
-
 Characteristics in patients
 Paediatric patients
 The overall exposure of adolescents (12 to ≤17 years) and children (2 to <12 years) to deferasirox after single and multiple doses was lower than that in adult patients.
