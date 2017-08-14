@@ -5,4 +5,4 @@ Hypersensitivity to eculizumab, murine proteins or to any of the excipients list
 Soliris therapy must not be initiated in patients (see section 4.4):
 
 - with unresolved Neisseria meningitidis infection
-- who are not currently vaccinated against Neisseria meningitidis (unless they receive prophylactic treatment with appropriate antibiotics until 2 weeks after vaccination).
+- who are not currently vaccinated against Neisseria meningitidis unless they receive prophylactic treatment with appropriate antibiotics until 2 weeks after vaccination.

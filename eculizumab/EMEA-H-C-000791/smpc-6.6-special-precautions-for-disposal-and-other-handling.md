@@ -18,4 +18,5 @@ Gently agitate the infusion bag containing the diluted solution to ensure thorou
 The diluted solution should be allowed to warm to room temperature prior to administration by exposure to ambient air.
 
 Discard any unused portion left in a vial, as the product contains no preservatives.
+
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
