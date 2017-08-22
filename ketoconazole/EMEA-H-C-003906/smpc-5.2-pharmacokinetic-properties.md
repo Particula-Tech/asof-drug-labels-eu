@@ -25,7 +25,6 @@ About 13% of the dose is excreted in the urine, of which 2 to 4% is unchanged dr
 The major route of excretion is through the bile into the intestinal tract.
 
 Special population
-
 Paediatrics
 Based on limited data, pharmacokinetics parameters (AUC, Cmax and half-life) of ketoconazole for doses of 5 to 10 mg/kg/days, corresponding approximately to daily doses of 200-800 mg, are similar in paediatric and adult population.
 

@@ -7,7 +7,6 @@ ASAT, ALAT, gammaGT, bilirubin and alkaline phosphatase should be monitored at f
 
 Tabulated list of adverse reactions
 The safety of Ketoconazole HRA has been evaluated based on published literature and use of ketoconazole as an antifungal treatment.
-
 The adverse reactions listed below in table 2 are classified according to System Organ Class.
 Frequency groupings are defined according to the following convention: very common (≥ 1/10) , common (≥ 1/100 to < 1/10), uncommon: (≥ 1/1,000 to < 1/100), rare:(≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000), not known: cannot be estimated from the available data.
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
@@ -32,8 +31,8 @@ Table 2: Incidence of adverse reactions and marked laboratory abnormalities repo
 |  | Uncommon Not known | Urticaria, alopecia Photosensitivity, erythema multiforme, dermatitis, erythema, , xeroderma |
 | Musculoskeletal and connective tissue disorder | Not known | Myalgia, arthralgia |
 | Reproductive system and breast disorders | Not known | Menstrual disorder, azoospermia, erectile dysfunction, gynaecomastia |
-| General disorders and administration site conditions | Uncommon | Asthenia |
-|  | Very rare Not known | Pyrexia Oedema peripheral, malaise, hot flush |
+| General disorders and administration | Uncommon | Asthenia |
+| site conditions | Very rare Not known | Pyrexia Oedema peripheral, malaise, hot flush |
 | Investigations | Very common Uncommon Not known | Hepatic enzyme increased Platelet count decreased Transient decrease of testosterone concentrations |
 
 Description of selected adverse reactions
