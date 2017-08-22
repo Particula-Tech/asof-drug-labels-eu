@@ -113,9 +113,13 @@ Patients with prosthetic valves
 Safety and efficacy of Xarelto have not been studied in patients with prosthetic heart valves; therefore, there are no data to support that Xarelto 20 mg (15 mg in patients with moderate or severe renal impairment) provides adequate anticoagulation in this patient population.
 Treatment with Xarelto is not recommended for these patients.
 
+Patients with non-valvular atrial fibrillation who undergo PCI with stent placement
+Clinical data are available from an interventional study with the primary objective to assess safety in patients with non-valvular atrial fibrillation who undergo PCI with stent placement.
+Data on efficacy in this population are limited (see sections 4.2 and 5.1).
+No data are available for such patients with a history of stroke/TIA.
+
 Haemodynamically unstable PE patients or patients who require thrombolysis or pulmonary embolectomy
 Xarelto is not recommended as an alternative to unfractionated heparin in patients with pulmonary embolism who are haemodynamically unstable or may receive thrombolysis or pulmonary embolectomy since the safety and efficacy of Xarelto have not been established in these clinical situations.
-
 There is no clinical experience with the use of 15 mg rivaroxaban in these situations.
 Placement or removal of an epidural catheter or lumbar puncture is best performed when the anticoagulant effect of rivaroxaban is estimated to be low.
 For the removal of an epidural catheter and based on the general PK characteristics at least 2x half-life, i.e. at least 18 hours in young patients and 26 hours in elderly patients should elapse after the last administration of rivaroxaban (see section 5.2).

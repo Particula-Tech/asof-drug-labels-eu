@@ -126,6 +126,8 @@ For transesophageal echocardiogram (TEE) guided cardioversion in patients not pr
 For all patients, confirmation should be sought prior to cardioversion that the patient has taken Xarelto as prescribed.
 Decisions on initiation and duration of treatment should take established guideline recommendations for anticoagulant treatment in patients undergoing cardioversion into account.
 
+Patients with non-valvular atrial fibrillation who undergo PCI (percutaneous coronary intervention) with stent placement
+There is limited experience of a reduced dose of 15 mg Xarelto once daily (or 10 mg Xarelto once daily for patients with moderate renal impairment [creatinine clearance 30 – 49 ml/min]) in addition to a P2Y12 inhibitor for a maximum of 12 months in patients with non-valvular atrial fibrillation who require oral anticoagulation and undergo PCI with stent placement (see sections 4.4 and 5.1).
 The tablets are to be taken with food (see section 5.2).
 
 After the administration of crushed Xarelto 15 mg or 20 mg film-coated tablets, the dose should be immediately followed by food.
