@@ -344,7 +344,7 @@ The primary efficacy outcome measure was PFS as assessed by BICR using RECIST 1.
 Secondary efficacy outcome measures were OS and ORR (as assessed by BICR using RECIST 1.1).
 Table 10 summarizes key efficacy measures for the entire ITT population.
 
-Table 10: Efficacy Results in KEYNOTE-024
+Table 10: Efficacy results in KEYNOTE-024
 
 | Endpoint | Pembrolizumab 200 mg every 3 weeks n=154 | Chemotherapy n=151 |
 | --- | --- | --- |
@@ -372,7 +372,7 @@ Table 10: Efficacy Results in KEYNOTE-024
 § Based on Kaplan-Meier estimates; includes 43 patients with responses of 6 months or longer
 ¶ Based on Kaplan-Meier estimates; includes 16 patients with responses of 6 months or longer
 NA = not available
-Figure 4: Kaplan-Meier Curve for Progression-Free Survival by Treatment Arm in KEYNOTE-024 (Intent to Treat Population)
+Figure 4: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-024 (intent to treat population)
 
 100
 Treatment arm PFS rate at 6 months PFS rate at 12 months HR (95% CI) p-value
@@ -406,7 +406,7 @@ Number at Risk
 Pembrolizumab: 154 104 89 44 22 3 1
 Chemotherapy: 151 99 70 18 9 1 0
 
-Figure 5: Kaplan-Meier Curve for Overall Survival by Treatment Arm in KEYNOTE-024 (Intent to Treat Population)
+Figure 5: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-024 (intent to treat population)
 
 100
 
@@ -532,7 +532,7 @@ In subgroup analyses, a reduced survival benefit of pembrolizumab compared to do
 The efficacy and safety of pembrolizumab in patients with tumours that do not express PD-L1 have not been established.
 
 Classical Hodgkin lymphoma
-KEYNOTE-087 and KEYNOTE-013: Open-label studies in patients with refractory or relapsed classical Hodgkin lymphoma (cHL)
+KEYNOTE-087 and KEYNOTE-013: Open-label studies in patients with relapsed or refractory classical Hodgkin lymphoma (cHL)
 The efficacy of pembrolizumab was investigated in KEYNOTE-087 and KEYNOTE-013, two multicentre, open-label studies for the treatment of 241 patients with cHL.
 These studies enrolled patients who failed ASCT and BV, who were ineligible for ASCT because they were unable to achieve a complete or partial remission to salvage chemotherapy and failed BV, or who failed ASCT and did not receive BV.
 Five study subjects were ineligible to ASCT due to reasons other than failure to salvage chemotherapy.
@@ -542,7 +542,7 @@ Patients received pembrolizumab 200 mg every 3 weeks (n=210; KEYNOTE-087) or 10 
 Among KEYNOTE-087 patients, the baseline characteristics were median age 35 years (9% age 65 or older); 54% male; 88% White; and 49% and 51% had an ECOG performance status 0 and 1, respectively.
 The median number of prior lines of therapy administered for the treatment of cHL was 4 (range 1 to 12).
 Eighty-one percent were refractory to at least one prior therapy, including 35% who were refractory to first line therapy.
-Sixty-one percent of patients had received Auto-SCT, 38% were transplant ineligible; 17% had no prior brentuximab use; and 36% of patients had prior radiation therapy.
+Sixty-one percent of patients had received Auto-SCT, 38% were transplant ineligible; 17% had no prior brentuximab vedotin use; and 36% of patients had prior radiation therapy.
 Disease subtypes were 80% nodular sclerosis, 11% mixed cellularity, 4% lymphocyte-rich and 2% lymphocyte-depleted.
 
 Among KEYNOTE-013 patients, the baseline characteristics were median age 32 years (7% age 65 or older), 58% male, 94% White; and 45% and 55% had an ECOG performance status 0 and 1, respectively.
@@ -587,6 +587,164 @@ a Median follow-up time of 10.1 months b Median follow-up time of 28.7 months c 
 Safety and efficacy in elderly patients
 Overall, 20 cHL patients ≥65 years were treated with pembrolizumab in studies KEYNOTE-087 and KEYNOTE-013.
 Data from these patients are too limited to draw any conclusion on safety or efficacy in this population.
+
+Urothelial Carcinoma
+KEYNOTE-045: Controlled trial in urothelial carcinoma patients who have received prior platinum-containing chemotherapy
+The safety and efficacy of pembrolizumab were evaluated in KEYNOTE-045, a multicentre, randomised (1:1), controlled study for the treatment of locally advanced or metastatic urothelial carcinoma in patients with disease progression on or after platinum-containing chemotherapy.
+Patients must have received first line platinum-containing regimen for locally advanced/metastatic disease or as neoadjuvant/adjuvant treatment, with recurrence/progression ≤12months following completion of therapy.
+Patients were randomised (1:1) to receive either KEYTRUDA 200 mg every 3 weeks (n=270) or investigator’s choice of any of the following chemotherapy regimens all given intravenously every 3 weeks (n=272): paclitaxel 175 mg/m2 (n=84), docetaxel 75 mg/m2 (n=84), or vinflunine 320 mg/m2 (n=87).
+Patients were treated with pembrolizumab until unacceptable toxicity or disease progression.
+Treatment could continue beyond progression if the patient was clinically stable and was considered to be deriving clinical benefit by the investigator.
+Patients without disease progression could be treated for up to 24 months.
+The study excluded patients with autoimmune disease, a medical condition that required immunosuppression and patients with more than 2 prior lines of systemic chemotherapy for metastatic urothelial cancer.
+Patients with an ECOG performance status of 2 had to have a hemoglobin ≥10 g/dL, could not have liver metastases, and must have received the last dose of their last prior chemotherapy regimen ≥3 months prior to enrollment.
+Assessment of tumour status was performed at 9 weeks after the first dose, then every 6 weeks through the first year, followed by every 12 weeks thereafter.
+
+Among the 542 randomised patients in KEYNOTE-045, baseline characteristics were: median age 66 years (range: 26 to 88), 58% age 65 or older; 74% male; 72% White and 23% Asian; 56% ECOG performance status of 1 and 1% ECOG performance status of 2; and 96% M1 disease and 4% M0 disease.
+Eighty-seven percent of patients had visceral metastases, including 34% with liver metastases.
+Eighty-six percent had a primary tumour in the lower tract and 14% had a primary tumour in the upper tract.
+Fifteen percent of patients had disease progression following prior platinum-containing neoadjuvant or adjuvant chemotherapy.
+Twenty-one percent had received 2 prior systemic regimens in the metastatic setting.
+Seventy-six percent of patients received prior cisplatin, 23% had prior carboplatin, and 1% was treated with other platinum-based regimens.
+
+The primary efficacy outcomes were OS and PFS as assessed by BICR using RECIST v1.1.
+Secondary outcome measures were ORR (as assessed by BICR using RECIST v1.1) and duration of response.
+Table 13 summarises the key efficacy measures for the ITT population.
+The Kaplan-Meier curve for OS is shown in Figure 7.
+The study demonstrated statistically significant improvements in OS and ORR for patients randomised to pembrolizumab as compared to chemotherapy.
+There was no statistically significant difference between pembrolizumab and chemotherapy with respect to PFS.
+Table 13: Response to pembrolizumab 200 mg every 3 weeks in patients with urothelial carcinoma previously treated with chemotherapy in KEYNOTE-045
+
+| Endpoint | Pembrolizumab 200 mg every 3 weeks n=270 | Chemotherapy n=272 |
+| --- | --- | --- |
+| OS |  |  |
+| Number (%) of patients with event | 155 (57%) | 179 (66%) |
+| Hazard ratio* (95% CI) | 0.73 (0.59, 0.91) |  |
+| p-Value† | 0.002 |  |
+| Median in months (95% CI) | 10.3 (8.0, 11.8) | 7.4 (6.1, 8.3) |
+| PFS‡ |  |  |
+| Number (%) of patients with event | 218 (81%) | 219 (81%) |
+| Hazard ratio* (95% CI) | 0.98 (0.81, 1.19) |  |
+| p-Value† | 0.416 |  |
+| Median in months (95% CI) | 2.1 (2.0, 2.2) | 3.3 (2.3, 3.5) |
+| Objective Response Rate‡ |  |  |
+| ORR % (95% CI) | 21% (16, 27) | 11% (8, 16) |
+| p-Value§ | 0.001 |  |
+| Complete Response | 7% | 3% |
+| Partial Response | 14% | 8% |
+| Stable Disease | 17% | 34% |
+| Response duration‡,¶ |  |  |
+| Median in months (range) | Not reached (1.6+, 15.6+) | 4.3 (1.4+, 15.4+) |
+| Number (%#) of patients with duration ≥6 months | 41 (78%) | 7 (40%) |
+| Number (%#) of patients with duration ≥12 months | 14 (68%) | 3 (35%) |
+
+* Hazard ratio (pembrolizumab compared to chemotherapy) based on the stratified Cox proportional hazard model
+† Based on stratified Log rank test
+‡ Assessed by BICR using RECIST 1.1
+§ Based on method by Miettinen and Nurminen
+¶ Based on patients with a best overall response as confirmed complete or partial response
+# Based on Kaplan-Meier estimation
+Figure 7: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-045 (intent to treat population)
+
+100
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+Treatment arm OS rate at 6 months OS rate at 12 months HR (95% CI) p-value
+10 Pembrolizumab 64% 44% 0.73 (0.59, 0.91) 0.00224Chemotherapy 57% 31%
+
+0
+0 2 4 6 8 10 12 14 16 18 20 22 24
+Time in Months
+Number at Risk
+Pembrolizumab: 270 226 194 169 147 131 87 54 27 13 4 0 0
+
+Chemotherapy: 272 232 171 138 109 89 55 27 14 3 0 0 0
+
+An analysis was performed in KEYNOTE-045 in patients who had PD-L1 Combined Positive Score (CPS) <10% [pembrolizumab: n=186 (69%) vs. chemotherapy: n= 176 (65%)] or ≥10% [pembrolizumab: n=74 (27%) vs. chemotherapy: n= 90 (33%)] in both pembrolizumab- and chemotherapy-treated arms (see Table 14).
+
+Table 14: OS by PD-L1 Expression
+
+PD-L1 Expression Pembrolizumab Chemotherapy
+OS by PD-L1 Expression Hazard
+Number of Events (number of patients) Ratio* (95% CI)
+<10% 106 (186) 116 (176) 0.80 (0.61, 1.05)
+≥10% 44 (74) 60 (90) 0.57 (0.37, 0.88)
+
+* Hazard ratio (pembrolizumab compared to chemotherapy) based on the stratified Cox proportional hazard model
+
+Patient-reported outcomes (PROs) were assessed using EORTC QLQ-C30.
+A prolonged time to deterioration in EORTC QLQ-C30 global health status/QoL was observed for patients treated with pembrolizumab compared to investigator’s choice chemotherapy (HR 0.70; 95% CI 0.55-0.90).
+Over 15 weeks of follow-up, patients treated with pembrolizumab had stable global health status/QoL, while those treated with investigator’s choice chemotherapy had a decline in global health status/QoL.
+These results should be interpreted in the context of the open-label study design and therefore taken cautiously.
+KEYNOTE-052: Open label trial in urothelial carcinoma patients ineligible for cisplatin-containing chemotherapy
+The safety and efficacy of pembrolizumab were investigated in KEYNOTE-052, a multicentre, open-label study for the treatment of locally advanced or metastatic urothelial carcinoma in patients who were not eligible for cisplatin-containing chemotherapy.
+Patients received pembrolizumab at a dose of 200 mg every 3 weeks until unacceptable toxicity or disease progression.
+Treatment could continue beyond progression if the patient was clinically stable and was considered to be deriving clinical benefit by the investigator.
+Patients without disease progression could be treated for up to 24 months.
+The study excluded patients with autoimmune disease or a medical condition that required immunosuppression.
+Assessment of tumour status was performed at 9 weeks after the first dose, then every 6 weeks through the first year, followed by every 12 weeks thereafter.
+
+Among 370 patients with urothelial carcinoma who were not eligible for cisplatin-containing chemotherapy baseline characteristics were: median age 74 years (82% age 65 or older); 77% male; and 89% White and 7% Asian.
+Eighty-seven percent had M1 disease and 13% had M0 disease.
+Eighty-five percent of patients had visceral metastases, including 21% with liver metastases.
+Reasons for cisplatin ineligibility included: baseline creatinine clearance of <60 mL/min (50%), ECOG performance status of 2 (32%), ECOG performance status of 2 and baseline creatinine clearance of <60 mL/min (9%), and other (Class III heart failure, Grade 2 or greater peripheral neuropathy, and Grade 2 or greater hearing loss; 9%).
+Ninety percent of patients were treatment naïve, and 10% received prior adjuvant or neoadjuvant platinum-based chemotherapy.
+Eighty-one percent had a primary tumour in the lower tract, and 19% of patients had a primary tumour in the upper tract.
+
+The primary efficacy outcome measure was ORR as assessed by BICR using RECIST 1.1.
+Secondary efficacy outcome measures were duration of response, PFS, and OS.
+Table 15 summarises the key efficacy measures for the study population based on a median follow-up time of 9.5 months for all patients.
+Table 15: Response to pembrolizumab 200 mg every 3 weeks in patients with urothelial carcinoma ineligible for cisplatin-containing chemotherapy in KEYNOTE-052
+
+| Endpoint | n=370 |
+| --- | --- |
+| Objective Response Rate* |  |
+| ORR %, (95% CI) | 29% (25, 34) |
+| Disease Control Rate† | 47% |
+| Complete Response | 7% |
+| Partial Response | 22% |
+| Stable Disease | 18% |
+| Response Duration |  |
+| Median in months (range) | Not reached (1.4+, 19.6+) |
+| % with duration ≥ 6-months | 82%‡ |
+| Time to Response |  |
+| Median in months (range) | 2.1 (1.3, 9.0) |
+| PFS* |  |
+| Median in months (95% CI) | 2.3 (2.1, 3.4) |
+| 6-month PFS rate | 34% |
+| OS* |  |
+| Median in months (95% CI) | 11.0 (10.0, 13.6) |
+| 6-month OS rate | 67% |
+
+* Assessed by BICR using RECIST 1.1
+† Based on best response of stable disease or better
+‡ Based on Kaplan-Meier estimates; includes 77 patients with response of 6 months or longer
+
+An analysis was performed in KEYNOTE-052 in patients who had PD-L1 CPS <10% (n=251; 68%) or ≥10% (n=110; 30%) (see Table 16).
+
+Table 16: ORR by PD-L1 Expression
+
+|  | ORR % by PD-L1 Expression* (95% CI) |
+| --- | --- |
+| PD-L1 Expression | Pembrolizumab |
+| <10% | 21 (16.2, 26.7) |
+| ≥10% | 47 (37.7, 57.0) |
+
+* BICR-RECIST 1.1
 
 Paediatric population
 The European Medicines Agency has deferred the obligation to submit the results of studies with pembrolizumab in one or more subsets of the paediatric population in treatment of all conditions included in the category of malignant neoplasms (except nervous system, haematopoietic and lymphoid tissue) (see section 4.2 for information on paediatric use).

@@ -14,7 +14,6 @@ Breast-feeding
 It is unknown whether pembrolizumab is secreted in human milk.
 Since it is known that antibodies can be secreted in human milk, a risk to the newborns/infants cannot be excluded.
 A decision should be made whether to discontinue breast-feeding or to discontinue pembrolizumab, taking into account the benefit of breast-feeding for the child and the benefit of pembrolizumab therapy for the woman.
-
 Fertility
 No clinical data are available on the possible effects of pembrolizumab on fertility.
 There were no notable effects in the male and female reproductive organs in monkeys based on 1-month and 6-month repeat dose toxicity studies (see section 5.3).
