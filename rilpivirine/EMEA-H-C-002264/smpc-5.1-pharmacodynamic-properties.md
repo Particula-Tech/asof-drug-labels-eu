@@ -51,7 +51,8 @@ Rilpivirine retained sensitivity (FC ≤ BCO) against 62% of 4,786 HIV-1 recombi
 Treatment-naïve HIV-1 infected adult patients
 In the week 96 pooled resistance analysis of the Phase III trials (ECHO and THRIVE), 42 out of 86 subjects with virologic failure on rilpivirine showed treatment-emergent resistance to rilpivirine (genotypic analysis).
 In these patients, phenotypic cross-resistance to other NNRTIs was noted as follows: etravirine 32/42, efavirenz 30/42, and nevirapine 16/42.
-In patients with a baseline viral load ≤ 100,000 copies/ml, 9 out of 27 patients with virologic failure on rilpivirine showed treatment-emergent resistance to rilpivirine (genotypic analysis), with the following frequency of phenotypic cross-resistance: etravirine 4/9, efavirenz 3/9, and nevirapine 1/9.
+In patients with a baseline viral load
+≤ 100,000 copies/ml, 9 out of 27 patients with virologic failure on rilpivirine showed treatment-emergent resistance to rilpivirine (genotypic analysis), with the following frequency of phenotypic cross-resistance: etravirine 4/9, efavirenz 3/9, and nevirapine 1/9.
 
 Effects on electrocardiogram
 The effect of rilpivirine at the recommended dose of 25 mg once daily on the QTcF interval was evaluated in a randomised, placebo and active (moxifloxacin 400 mg once daily) controlled crossover study in 60 healthy adults, with 13 measurements over 24 hours at steady-state.
@@ -88,8 +89,13 @@ Table 3 displays selected baseline disease characteristics of the patients in th
 | Median baseline plasma HIV-1 RNA (range), log10 copies/ml | 5.0 (2-7) | 5.0 (3-7) |
 | Median baseline CD4+ cell count (range), x 106 cells/l | 249 (1-888) | 260 (1-1,137) |
 | Percentage of subjects with: hepatitis B/C virus co-infection | 7.3% | 9.5% |
-| Percentage of patients with the following background regimens: tenofovir disoproxil fumarate plus emtricitabine zidovudine plus lamivudine abacavir plus lamivudine | 80.2% | 80.1% |
-|  | 14.7% 5.1% | 15.1% 4.8% |
+
+Percentage of patients with the following
+background regimens:
+tenofovir disoproxil fumarate plus 80.2% 80.1%
+emtricitabine
+zidovudine plus lamivudine 14.7% 15.1%
+abacavir plus lamivudine 5.1% 4.8%
 
 BR=background regimen
 
@@ -119,7 +125,7 @@ Most of these discontinuations occurred in the first 48 weeks of treatment.
 | Abacavir/lamivudine | 88.6% (31/35) | 84.8% (28/33) | 3.7 (-12.7; 20.1) | 77.1% (27/35) | 84.8% (28/33) | -7.7% (-26.7; 11.3) |
 | By baseline viral load (copies/ml) |  |  |  |  |  |  |
 | ≤ 100,000 | 90.2% (332/368) | 83.6% (276/330) | 6.6 (1.6; 11.5) | 84.0% (309/368) | 79.9% (263/329) | 4.0 (-1.7; 9.7) |
-| > 100,000 | 77.4% (246/318) | 81.0% (285/352) | -3.6 (-9.8; 2.5) | 70.1% (223/318) | 75.4% (266/353) | -5.2 (-12.0;1.5) |
+| > 100,000 | 77.4% 6 (246/318) | 81.0% (285/352) | -3.6 (-9.8; 2.5) | 70.1% (223/318) | 75.4% (266/353) | -5.2 (-12.0;1.5) |
 | By baseline CD4 count (x 106 cells/l) |  |  |  |  |  |  |
 | < 50 | 58.8% (20/34) | 80.6% (29/36) | -21.7 (-43.0; -0.5) | 55.9% (19/34) | 69.4% (25/36) | -13.6 (-36.4; 9.3) |
 | ≥ 50-< 200 | 80.4% (156/194) | 81.7% (143/175) | -1.3 (-9.3; 6.7) | 71.1% (138/194) | 74.9% (131/175) | -3.7 (-12.8; 5.4) |
@@ -185,3 +191,11 @@ One subject discontinued due to an adverse event and 1 subject discontinued due 
 At week 48, the mean increase in CD4+ cell count from baseline was 201.2 x 106 cells/l.
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with rilpivirine in one or more subsets of the paediatric population in the treatment of Human Immunodeficiency Virus (HIV-1) infection (see section 4.2 for information on paediatric use).
+
+Pregnancy
+Rilpivirine in combination with a background regimen was evaluated in a clinical trial of 19 pregnant women during the second and third trimesters, and postpartum.
+The pharmacokinetic data demonstrate that total exposure (AUC) to rilpivirine as a part of an antiretroviral regimen was approximately 30% lower during pregnancy compared with postpartum (6-12 weeks).
+The virologic response was generally preserved throughout the study: of the 12 subjects that completed the study, 10 subjects were suppressed at the end of the study; in the other 2 subjects an increase in viral load was observed only postpartum, for at least 1 subject due to suspected suboptimal adherence.
+No mother to child transmission occurred in all 10 infants born to the mothers who completed the trial and for whom the HIV status was available.
+Rilpivirine was well tolerated during pregnancy and postpartum.
+There were no new safety findings compared with the known safety profile of rilpivirine in HIV-1 infected adults (see sections 4.2, 4.4 and 5.2).

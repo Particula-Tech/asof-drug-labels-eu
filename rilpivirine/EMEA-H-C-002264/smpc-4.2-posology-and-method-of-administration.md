@@ -39,6 +39,10 @@ Paediatric population
 The safety and efficacy of EDURANT in children aged < 12 years have not yet been established.
 No data are available.
 
+Pregnancy
+Lower exposures of rilpivirine were observed during pregnancy, therefore viral load should be monitored closely.
+Alternatively, switching to another ART regimen could be considered (see sections 4.4, 4.6, 5.1 and 5.2).
+
 Method of administration
 EDURANT must be taken orally, once daily with a meal (see section 5.2).
 It is recommended that the film-coated tablet be swallowed whole with water and not be chewed or crushed.

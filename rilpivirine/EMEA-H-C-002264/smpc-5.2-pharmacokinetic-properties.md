@@ -6,7 +6,6 @@ Exposure to rilpivirine was generally lower in HIV-1 infected patients than in h
 Absorption
 After oral administration, the maximum plasma concentration of rilpivirine is generally achieved within 4-5 hours.
 The absolute bioavailability of EDURANT is unknown.
-
 Effect of food on absorption
 The exposure to rilpivirine was approximately 40% lower when EDURANT was taken in a fasted condition as compared to a normal caloric meal (533 kcal) or high-fat high-caloric meal (928 kcal).
 When EDURANT was taken with only a protein-rich nutritional drink, exposures were 50% lower than when taken with a meal.
@@ -16,6 +15,7 @@ Taking EDURANT in fasted condition or with only a nutritional drink may result i
 Distribution
 Rilpivirine is approximately 99.7% bound to plasma proteins in vitro, primarily to albumin.
 The distribution of rilpivirine into compartments other than plasma (e.g., cerebrospinal fluid, genital tract secretions) has not been evaluated in humans.
+
 Biotransformation
 In vitro experiments indicate that rilpivirine primarily undergoes oxidative metabolism mediated by the cytochrome P450 (CYP) 3A system.
 
@@ -48,7 +48,6 @@ Hepatic impairment
 Rilpivirine is primarily metabolised and eliminated by the liver.
 In a study comparing 8 patients with mild hepatic impairment (Child-Pugh score A) to 8 matched controls, and 8 patients with moderate hepatic impairment (Child-Pugh score B) to 8 matched controls, the multiple dose exposure of rilpivirine was 47% higher in patients with mild hepatic impairment and 5% higher in patients with moderate hepatic impairment.
 However, it may not be excluded that the pharmacologically active, unbound, rilpivirine exposure is significantly increased in moderate hepatic impairment.
-
 No dose adjustment is suggested but caution is advised in patients with moderate hepatic impairment.
 EDURANT has not been studied in patients with severe hepatic impairment (Child-Pugh score C). Therefore, EDURANT is not recommended in patients with severe hepatic impairment (see section 4.2).
 
@@ -62,3 +61,17 @@ No dose adjustment is needed for patients with mild or moderate renal impairment
 In patients with severe renal impairment or end-stage renal disease, EDURANT should be used with caution, as plasma concentrations may be increased due to alteration of drug absorption, distribution and/or metabolism secondary to renal dysfunction.
 In patients with severe renal impairment or end-stage renal disease, the combination of EDURANT with a strong CYP3A inhibitor should only be used if the benefit outweighs the risk.
 As rilpivirine is highly bound to plasma proteins, it is unlikely that it will be significantly removed by haemodialysis or peritoneal dialysis (see section 4.2).
+
+Pregnancy and Postpartum
+The exposure to total rilpivirine after intake of rilpivirine 25 mg once daily as part of an antiretroviral regimen was lower during pregnancy (similar for the 2nd and 3rd trimester) compared with postpartum (see table 6).
+The decrease in unbound (ie, active) rilpivirine pharmacokinetic parameters during pregnancy compared to postpartum was less pronounced than for total rilpivirine.
+
+In women receiving rilpivirine 25 mg once daily during the 2nd trimester of pregnancy, mean intra-individual values for total rilpivirine Cmax, AUC24h and Cmin values were, respectively, 21%, 29% and 35% lower as compared to postpartum; during the 3rd trimester of pregnancy, Cmax, AUC24h and Cmin values were, respectively, 20%, 31% and 42% lower as compared to postpartum.
+
+| Table 6: Pharmacokinetic Results of Total Rilpivirine After Administration of Rilpivirine 25 mg Once Daily as Part of an Antiretroviral Regimen, During the 2nd Trimester of Pregnancy, the 3rd Trimester of Pregnancy and Postpartum |  |  |  |
+| --- | --- | --- | --- |
+| Pharmacokinetics of total rilpivirine (mean ± SD, tmax: median [range]) | Postpartum (6-12 Weeks) (n=11) | 2nd Trimester of pregnancy (n=15) | 3rd Trimester of pregnancy (n=13) |
+| Cmin, ng/mL | 84.0 ± 58.8 | 54.3 ± 25.8 | 52.9 ± 24.4 |
+| Cmax, ng/mL | 167 ± 101 | 121 ± 45.9 | 123 ± 47.5 |
+| tmax, h | 4.00 (2.03-25.08) | 4.00 (1.00-9.00) | 4.00 (2.00-24.93) |
+| AUC24h, ng.h/mL | 2714 ± 1535 | 1792 ± 711 | 1762 ± 662 |

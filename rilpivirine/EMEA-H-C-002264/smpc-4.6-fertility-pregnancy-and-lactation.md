@@ -1,7 +1,9 @@
 # 4.6 Fertility, pregnancy and lactation
 
 Pregnancy
-There are no or limited amount of data (less than 300 pregnancy outcomes) from the use of rilpivirine in pregnant women.
+There are limited amount of data (less than 300 pregnancy outcomes) from the use of rilpivirine in pregnant women (see sections 4.4, 5.1 and 5.2).
+Lower exposures of rilpivirine were observed during pregnancy, therefore viral load should be monitored closely.
+
 Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3).
 
 As a precautionary measure, it is preferable to avoid the use of EDURANT during pregnancy.

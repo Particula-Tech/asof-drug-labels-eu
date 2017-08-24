@@ -6,6 +6,7 @@ Medicinal products that induce or inhibit CYP3A may thus affect the clearance of
 Co-administration of rilpivirine and medicinal products that induce CYP3A has been observed to decrease the plasma concentrations of rilpivirine, which could reduce the therapeutic effect of rilpivirine.
 Co-administration of rilpivirine and medicinal products that inhibit CYP3A has been observed to increase the plasma concentrations of rilpivirine.
 Co-administration of rilpivirine with medicinal products that increase gastric pH may result in decreased plasma concentrations of rilpivirine which could potentially reduce the therapeutic effect of EDURANT.
+
 Medicinal products that are affected by the use of rilpivirine
 Rilpivirine at a dose of 25 mg once daily is not likely to have a clinically relevant effect on the exposure of medicinal products metabolised by CYP enzymes.
 Rilpivirine inhibits P-glycoprotein in vitro (IC50 is 9.2 μM).
@@ -24,36 +25,40 @@ Interactions between rilpivirine and co-administered medicinal products are list
 
 | Table 1: INTERACTIONS AND DOSE RECOMMENDATIONS WITH OTHER MEDICINAL PRODUCTS |  |  |
 | --- | --- | --- |
-| Medicinal products by therapeutic areas | Interaction Geometric mean change (%) | Recommendations concerning co-administration |
+| Medicinal products by therapeutic areas | Interaction Geometric mean change (% ) | Recommendations concerning co-administration |
 | ANTI-INFECTIVES |  |  |
 | Antiretrovirals |  |  |
 | HIV NRTIs/N[t]RTIs |  |  |
 | Didanosine*# 400 mg once daily | didanosine AUC ↑ 12% didanosine Cmin NA didanosine Cmax ↔ rilpivirine AUC ↔ rilpivirine Cmin ↔ rilpivirine Cmax ↔ | No dose adjustment is required. Didanosine should be administered at least two hours before or at least four hours after rilpivirine. |
 | Tenofovir disoproxil fumarate*# 300 mg once daily | tenofovir AUC ↑ 23% tenofovir Cmin ↑ 24% tenofovir Cmax ↑ 19% rilpivirine AUC ↔ rilpivirine Cmin ↔ rilpivirine Cmax ↔ | No dose adjustment is required. |
 | Other NRTIs (abacavir, emtricitabine, lamivudine, stavudine and zidovudine) | Not studied. No clinically relevant drug-drug interactions are expected. | No dose adjustment is required. |
-| HIV NNRTIs |  |  |
-| NNRTIs (delavirdine, efavirenz, etravirine, nevirapine) | Not studied. | It is not recommended to co-administer rilpivirine with other NNRTIs. |
-| HIV PIs – with co-administration of low dose ritonavir |  |  |
-| Darunavir/ritonavir*# 800/100 mg once daily | darunavir AUC ↔ darunavir Cmin ↓ 11% darunavir Cmax ↔ rilpivirine AUC ↑ 130% rilpivirine Cmin ↑ 178% rilpivirine Cmax ↑ 79% (inhibition of CYP3A enzymes) | Concomitant use of rilpivirine with ritonavir-boosted PIs causes an increase in the plasma concentrations of rilpivirine, but no dose adjustment is required. |
-| Lopinavir/ritonavir (soft gel capsule)*# 400/100 mg twice daily | lopinavir AUC ↔ lopinavir Cmin ↓ 11% lopinavir Cmax ↔ rilpivirine AUC ↑ 52% rilpivirine Cmin ↑ 74% rilpivirine Cmax ↑ 29% (inhibition of CYP3A enzymes) |  |
-| Other boosted PIs (atazanavir/ritonavir, fosamprenavir/ritonavir, saquinavir/ritonavir, tipranavir/ritonavir) | Not studied. |  |
-| HIV PIs – without co-administration of low dose ritonavir |  |  |
-| Unboosted PIs (atazanavir, fosamprenavir, indinavir, nelfinavir) | Not studied. Increased exposure of rilpivirine is expected. (inhibition of CYP3A enzymes) | No dose adjustment is required. |
-| CCR5 Antagonists |  |  |
-| Maraviroc | Not studied. No clinically relevant drug-drug interaction is expected. | No dose adjustment is required. |
-| HIV Integrase Strand Transfer Inhibitors |  |  |
-| Raltegravir* | raltegravir AUC ↑ 9% raltegravir Cmin ↑ 27% raltegravir Cmax ↑ 10% rilpivirine AUC ↔ rilpivirine Cmin ↔ rilpivirine Cmax ↔ | No dose adjustment is required. |
-| Other Antiviral Agents |  |  |
-| Ribavirin | Not studied. No clinically relevant drug-drug interaction is expected. | No dose adjustment is required. |
-| Telaprevir* 750 mg every 8 hours | telaprevir AUC ↓ 5% telaprevir Cmin ↓ 11% telaprevir Cmax ↓ 3% rilpivirine AUC ↑ 78% rilpivirine Cmin ↑ 93% rilpivirine Cmax ↑ 49% | No dose adjustment is required. |
-| OTHER AGENTS |  |  |
-| ANTICONVULSANTS |  |  |
-| Carbamazepine Oxcarbazepine Phenobarbital Phenytoin | Not studied. Significant decreases in rilpivirine plasma concentrations are expected. (induction of CYP3A enzymes) | Rilpivirine must not be used in combination with these anticonvulsants as co-administration may result in loss of therapeutic effect of rilpivirine (see section 4.3). |
+
+| HIV NNRTIs |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| NNRTIs (delavirdine, efavirenz, etravirine, nevirapine) | Not studied. |  | It is not recommended to co-administer rilpivirine with other NNRTIs. |  |
+| HIV PIs – with co-administration of low dose ritonavir |  |  |  |  |
+| Darunavir/ritonavir*# 800/100 mg once daily | darunavir AUC ↔ darunavir Cmin ↓ 11% darunavir Cmax ↔ rilpivirine AUC ↑ 130% rilpivirine Cmin ↑ 178% rilpivirine Cmax ↑ 79% (inhibition of CYP3A enzymes) |  | Concomitant use of rilpivirine with ritonavir-boosted PIs causes an increase in the plasma concentrations of rilpivirine, but no dose adjustment is required. |  |
+| Lopinavir/ritonavir (soft gel capsule)*# 400/100 mg twice daily | lopinavir AUC ↔ lopinavir Cmin ↓ 11% lopinavir Cmax ↔ rilpivirine AUC ↑ 52% rilpivirine Cmin ↑ 74% rilpivirine Cmax ↑ 29% (inhibition of CYP3A enzymes) |  |  |  |
+| Other boosted PIs (atazanavir/ritonavir, fosamprenavir/ritonavir, saquinavir/ritonavir, tipranavir/ritonavir) | Not studied. |  |  |  |
+| HIV PIs – without co-administration of low dose ritonavir |  |  |  |  |
+| Unboosted PIs (atazanavir, fosamprenavir, indinavir, nelfinavir) | Not studied. Increased exposure of rilpivirine is expected. (inhibition of CYP3A enzymes) |  | No dose adjustment is required. |  |
+| CCR5 Antagonists |  |  |  |  |
+| Maraviroc | Not studied. No clinically relevant drug-drug interaction is expected. |  | No dose adjustment is required. |  |
+| HIV Integrase Strand Transfer Inhibitors |  |  |  |  |
+| Raltegravir* | raltegravir AUC ↑ 9% raltegravir Cmin ↑ 27% raltegravir Cmax ↑ 10% rilpivirine AUC ↔ rilpivirine Cmin ↔ rilpivirine Cmax ↔ |  | No dose adjustment is required. |  |
+| Other Antiviral Agents |  |  |  |  |
+| Ribavirin |  | Not studied. No clinically relevant drug-drug interaction is expected. |  | No dose adjustment is required. |
+| Simeprevir* |  | simeprevir AUC ↔ simeprevir Cmin ↔ simeprevir Cmax ↑ 10% rilpivirine AUC ↔ rilpivirine Cmin ↑ 25% rilpivirine Cmax ↔ |  | No dose adjustment is required. |
+| OTHER AGENTS |  |  |  |  |
+| ANTICONVULSANTS |  |  |  |  |
+| Carbamazepine Oxcarbazepine Phenobarbital Phenytoin | Not studied. Significant decreases in rilpivirine plasma concentrations are expected. (induction of CYP3A enzymes) |  | Rilpivirine must not be used in combination with these anticonvulsants as co-administration may result in loss of therapeutic effect of rilpivirine (see section 4.3). |  |
+
 | AZOLE ANTIFUNGAL AGENTS |  |  |
+| --- | --- | --- |
 | Ketoconazole*# 400 mg once daily | ketoconazole AUC ↓ 24% ketoconazole Cmin ↓ 66% ketoconazole Cmax ↔ (induction of CYP3A due to high rilpivirine dose in the study) rilpivirine AUC ↑ 49% rilpivirine Cmin ↑ 76% rilpivirine Cmax ↑ 30% (inhibition of CYP3A enzymes) | At the recommended dose of 25 mg once daily, no dose adjustment is required when rilpivirine is co-administered with ketoconazole. |
 | Fluconazole Itraconazole Posaconazole Voriconazole | Not studied. Concomitant use of EDURANT with azole antifungal agents may cause an increase in the plasma concentrations of rilpivirine. (inhibition of CYP3A enzymes) | No dose adjustment is required. |
 | ANTIMYCOBACTERIALS |  |  |
-| Rifabutin* 300 mg once daily† 300 mg once daily (+ 25 mg once daily rilpivirine) 300 mg once daily (+ 50 mg once daily rilpivirine) | rifabutin AUC ↔ rifabutin Cmin ↔ rifabutin Cmax ↔ 25-O-desacetyl-rifabutin AUC ↔ 25-O-desacetyl-rifabutin Cmin ↔ 25-O-desacetyl-rifabutin Cmax ↔ rilpivirine AUC ↓ 42% rilpivirine Cmin ↓ 48% rilpivirine Cmax ↓ 31% rilpivirine AUC ↑ 16%* rilpivirine Cmin ↔* rilpivirine Cmax ↑ 43%* * compared to 25 mg once daily rilpivirine alone (induction of CYP3A enzymes) | Throughout co-administration of rilpivirine with rifabutin, the rilpivirine dose should be increased from 25 mg once daily to 50 mg once daily. When rifabutin co-administration is stopped, the rilpivirine dose should be decreased to 25 mg once daily. |
+| Rifabutin* 300 mg once daily† 300 mg once daily (+ 25 mg once daily rilpivirine) 300 mg once daily (+ 50 mg once daily rilpivirine) | rifabutin AUC ↔ rifabutin Cmin ↔ rifabutin Cmax ↔ 25-O-desacetyl-rifabutin AUC ↔ 25-O-desacetyl-rifabutin Cmin ↔ 25-O-desacetyl-rifabutin Cmax ↔ rilpivirine AUC ↓ 42% rilpivirine Cmin ↓ 48% rilpivirine Cmax ↓ 31% rilpivirine AUC ↑ 16%* rilpivirine Cmin ↔* rilpivirine Cmax ↑ 43%* *al ocnoem pared to 25 mg once daily rilpivirine (induction of CYP3A enzymes) | Throughout co-administration of rilpivirine with rifabutin, the rilpivirine dose should be increased from 25 mg once daily to 50 mg once daily. When rifabutin co-administration is stopped, the rilpivirine dose should be decreased to 25 mg once daily. |
 | Rifampicin*# 600 mg once daily | rifampicin AUC ↔ rifampicin Cmin NA rifampicin Cmax ↔ 25-desacetyl-rifampicin AUC ↓ 9% 25-desacetyl-rifampicin Cmin NA 25-desacetyl-rifampicin Cmax ↔ rilpivirine AUC ↓ 80% rilpivirine Cmin ↓ 89% rilpivirine Cmax ↓ 69% (induction of CYP3A enzymes) | Rilpivirine must not be used in combination with rifampicin as co-administration is likely to result in loss of therapeutic effect of rilpivirine (see section 4.3). |
 | Rifapentine | Not studied. Significant decreases in rilpivirine plasma concentrations are expected. (induction of CYP3A enzymes) | Rilpivirine must not be used in combination with rifapentine as co-administration is likely to result in loss of therapeutic effect of rilpivirine (see section 4.3). |
 | MACROLIDE ANTIBIOTICS |  |  |
