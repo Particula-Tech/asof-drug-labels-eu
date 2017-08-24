@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antineoplastic agents, protein kinase inhibitors, ATC code: L01XE27.
-
 Mechanism of action
 Ibrutinib is a potent, small-molecule inhibitor of Bruton’s tyrosine kinase (BTK).
 Ibrutinib forms a covalent bond with a cysteine residue (Cys-481) in the BTK active site, leading to sustained inhibition of BTK enzymatic activity.
@@ -19,6 +18,11 @@ A large increase in the number of circulating lymphocytes (e.g., > 400,000/mcL) 
 
 Lymphocytosis was not observed in patients with WM treated with IMBRUVICA.
 
+Effect on QT/QTc interval and cardiac electrophysiology
+The effect of ibrutinib on the QTc interval was evaluated in 20 healthy male and female subjects in a randomised, double-blind thorough QT study with placebo and positive controls.
+At a supratherapeutic dose of 1680 mg, ibrutinib did not prolong the QTc interval to any clinically relevant extent.
+The largest upper bound of the 2-sided 90% CI for the baseline adjusted mean differences between ibrutinib and placebo was below 10 ms. In this same study, a concentration dependent shortening in the QTc interval was observed (-5.3 ms [90% CI: -9.4, -1.1] at a Cmax of 719 ng/mL following the supratherapeutic dose of 1680 mg).
+
 Clinical efficacy and safety
 
 Mantle cell lymphoma
@@ -32,7 +36,6 @@ IMBRUVICA was administered orally at 560 mg once daily until disease progression
 Tumour response was assessed according to the revised International Working Group (IWG) for non-Hodgkin’s lymphoma (NHL) criteria.
 The primary endpoint in this study was investigator-assessed overall response rate (ORR).
 Responses to IMBRUVICA are shown in Table 2.
-
 Table 2: Overall response rate (ORR) and duration of response (DOR) in patients with relapsed or refractory MCL (Study PCYC-1104-CA)
 
 |  | Total N = 111 |
@@ -75,7 +78,6 @@ Table 3: Efficacy Results in patients with relapsed or refractory MCL (Study MCL
 NE = not estimable; HR = hazard ratio; CI = confidence interval a IRC evaluated.
 
 A smaller proportion of patients treated with ibrutinib experienced a clinically meaningful worsening of lymphoma symptoms versus temsirolimus (27% versus 52%) and time to worsening of symptoms occurred more slowly with ibrutinib versus temsirolimus (HR 0.27, p < 0.0001).
-
 Figure 1: Kaplan-Meier curve of progression-free survival (ITT Population) in Study MCL3001
 
 Chronic lymphocytic leukaemia
@@ -113,8 +115,8 @@ Table 4: Efficacy results in Study PCYC-1115-CA
 
 CI = confidence interval; HR = hazard ratio; CR = complete response; PR = partial response a IRC evaluated, median follow--up 18.4 months.
 b Median OS not reached for both arms. p < 0.005 for OS
-Figure 2: Kaplan-Meier curve of progression-free survival (ITT Population) in Study PCYC-1115-CA
 
+Figure 2: Kaplan-Meier curve of progression-free survival (ITT Population) in Study PCYC-1115-CA
 Figure 3: Kaplan-Meier curve of overall survival (ITT Population) in Study PCYC-1115-CA
 
 Patients with CLL who received at least one prior therapy
@@ -176,7 +178,6 @@ Table 6: Subgroup analysis of progression free survival (Study PCYC-1112-CA)
 | Bulky disease < 5 cm ≥5 cm | 163 225 | 0.237 0.191 | (0.127; 0.442) (0.117; 0.311) |
 
 Hazard ratio based on non-stratified analysis
-
 The Kaplan-Meier curve for PFS is shown in Figure 4.
 
 Figure 4: Kaplan-Meier curve of progression-free survival (ITT Population) in Study PCYC-1112- CA
@@ -192,6 +193,7 @@ The median age was 64 years (range, 31 to 86 years), 66% were male, and 91% were
 All patients had a baseline ECOG performance status of 0 or 1.
 The median time since diagnosis was 6 years and the median number of prior treatments was 2 (range, 1 to 11 treatments).
 At baseline, 56% of patients had at least one tumour ≥5 cm, 26% had del11q.
+
 Progression free survival (PFS) was assessed by IRC according to IWCLL criteria.
 Efficacy results for Study CLL3001 are shown in Table 7.
 
@@ -209,7 +211,6 @@ CI = confidence interval; HR = hazard ratio;
 a IRC evaluated.
 b IRC evaluated, ORR (complete response, complete response with incomplete marrow recovery, nodular partial response, partial response).
 c Median OS not reached for both arms.
-
 Waldenström’s macroglobulinaemia
 The safety and efficacy of IMBRUVICA in WM (IgM-excreting lymphoplasmacytic lymphoma) were evaluated in an open-label, multi-center, single-arm trial of 63 previously treated patients.
 The median age was 63 years (range: 44 to 86 years), 76% were male, and 95% were Caucasian.

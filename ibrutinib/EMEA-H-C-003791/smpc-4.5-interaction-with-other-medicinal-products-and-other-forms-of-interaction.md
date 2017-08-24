@@ -36,8 +36,10 @@ Consider alternative agents with less CYP3A4 induction.
 If the benefit outweighs the risk and a strong or moderate CYP3A4 inducer must be used, monitor patient closely for lack of efficacy (see sections 4.3 and 4.4).
 Mild inducers may be used concomitantly with IMBRUVICA, however, patients should be monitored for potential lack of efficacy.
 
-As ibrutinib solubility is pH dependent, there is a theoretical risk that medicinal products increasing stomach pH (e.g., proton pump inhibitors) may decrease ibrutinib exposure.
-This interaction has not been studied in vivo.
+Ibrutinib has a pH dependent solubility, with lower solubility at higher pH.
+A lower Cmax was observed in fasted healthy subjects administered a single 560 mg dose of ibrutinib after taking omeprazole at 40 mg once daily for 5 days (see section 5.2).
+There is no evidence that the lower Cmax would have clinical significance, and medicinal products that increase stomach pH (e.g., proton pump inhibitors) have been used without restrictions in the pivotal clinical trials.
+
 Agents that may have their plasma concentrations altered by ibrutinib
 Ibrutinib is a P-gp and breast cancer resistance protein (BCRP) inhibitor in vitro.
 As no clinical data are available on this interaction, it cannot be excluded that ibrutinib could inhibit intestinal P-gp and BCRP after a therapeutic dose.

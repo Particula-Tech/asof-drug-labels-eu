@@ -40,10 +40,13 @@ Monitor patients for pulmonary symptoms indicative of ILD.
 If symptoms develop, interrupt IMBRUVICA and manage ILD appropriately.
 If symptoms persist, consider the risks and benefits of IMBRUVICA treatment and follow the dose modification guidelines.
 
-Atrial fibrillation/flutter
-Atrial fibrillation and atrial flutter have been reported in patients treated with IMBRUVICA, particularly in patients with cardiac risk factors, hypertension, acute infections, and a previous history of atrial fibrillation.
-Periodically monitor all patients clinically for atrial fibrillation.
-Patients who develop arrhythmic symptoms or new onset of dyspnoea should be evaluated clinically and if indicated have an electrocardiogram (ECG) performed.
+Cardiac arrhythmia
+Atrial fibrillation, atrial flutter and cases of ventricular tachyarrhythmia have been reported in patients treated with IMBRUVICA.
+Cases of atrial fibrillation and atrial flutter have been reported particularly in patients with cardiac risk factors, hypertension, acute infections, and a previous history of atrial fibrillation.
+Periodically monitor all patients clinically for cardiac arrhythmia.
+Patients who develop arrhythmic symptoms or new onset of dyspnoea, dizziness or fainting should be evaluated clinically and if indicated have an electrocardiogram (ECG) performed.
+
+In patients who develop signs and/or symptoms of ventricular tachyarrhythmia, IMBRUVICA should be temporarily discontinued and a thorough clinical benefit/risk assessment should be performed before possibly restarting therapy.
 
 In patients with preexisting atrial fibrillation requiring anticoagulant therapy, alternative treatment options to IMBRUVICA should be considered.
 In patients who develop atrial fibrillation on therapy with IMBRUVICA a thorough assessment of the risk for thromboembolic disease should be undertaken.
@@ -58,8 +61,11 @@ Non-melanoma skin cancer
 Non-melanoma skin cancers were reported more frequently in patients treated with IMBRUVICA than in patients treated with comparators in pooled comparative randomised phase 3 studies.
 Monitor patients for the appearance of non-melanoma skin cancer.
 
-Effects on the QT interval
-In a phase 2 study, ECG evaluations showed IMBRUVICA produced a mild decrease in QTcF interval (mean 7.5 ms). Although the underlying mechanism and safety relevance of this finding are not known, clinicians should use clinical judgment when assessing whether to prescribe ibrutinib to patients at risk from further shortening their QTc duration (e.g., Congenital Short QT Syndrome or patients with a family history of such a syndrome).
+Viral reactivation
+Cases of hepatitis B reactivation have been reported in patients receiving IMBRUVICA.
+Hepatitis B virus (HBV) status should be established before initiating treatment with IMBRUVICA.
+For patients who test positive for HBV infection, consultation with a physician with expertise in the treatment of hepatitis B is recommended.
+If patients have positive hepatitis B serology, a liver disease expert should be consulted before the start of treatment and the patient should be monitored and managed following local medical standards to prevent hepatitis B reactivation.
 
 Drug-drug interactions
 Co-administration of strong or moderate CYP3A4 inhibitors with IMBRUVICA may lead to increased ibrutinib exposure and consequently a higher risk for toxicity.

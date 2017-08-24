@@ -8,10 +8,12 @@ Ibrutinib exposure increases with doses up to 840 mg.
 The steady state AUC observed in patients at 560 mg is (mean ± standard deviation) 953 ± 705 ng h/mL.
 Administration of ibrutinib in fasted condition resulted in approximately 60% of exposure (AUClast) as compared to either 30 minutes before, 30 minutes after (fed condition) or 2 hours after a high fat breakfast.
 
+Ibrutinib has a pH dependent solubility, with lower solubility at higher pH.
+In fasted healthy subjects administered a single 560 mg dose of ibrutinib after taking omeprazole at 40 mg once daily for 5 days, compared to ibrutinib alone, geometric mean ratios (90% CI) were 83% (68-102%), 92% (78-110%), and 38% (26-53%) for AUC0-24, AUClast, and Cmax, respectively.
+
 Distribution
 Reversible binding of ibrutinib to human plasma protein in vitro was 97.3% with no concentration dependence in the range of 50 to 1,000 ng/mL.
 The apparent volume of distribution at steady state (Vd, ss/F) was approximately 10,000 L.
-
 Metabolism
 Ibrutinib is metabolised primarily by CYP3A4 to produce a dihydrodiol metabolite with an inhibitory activity towards BTK approximately 15 times lower than that of ibrutinib.
 Involvement of CYP2D6 in the metabolism of ibrutinib appears to be minimal.

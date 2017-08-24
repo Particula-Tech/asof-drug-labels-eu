@@ -4,6 +4,7 @@ Summary of the safety profile
 The safety profile is based on pooled data from 981 patients treated with IMBRUVICA in three phase 2 clinical studies and four randomised phase 3 studies and from post-marketing experience.
 Patients treated for MCL in clinical studies received IMBRUVICA at 560 mg once daily and patients treated for CLL or WM in clinical studies received IMBRUVICA at 420 mg once daily.
 All patients in clinical studies received IMBRUVICA until disease progression or no longer tolerated.
+
 The most commonly occurring adverse reactions (≥20%) were diarrhoea, neutropenia, haemorrhage (e.g., bruising), musculoskeletal pain, nausea, rash, and pyrexia.
 The most common grade 3/4 adverse reactions (≥5%) were neutropenia, pneumonia, thrombocytopenia, and febrile neutropenia.
 
@@ -22,6 +23,7 @@ Sinusitis* 11 1
 Skin infection* 10 3
 Common Sepsis*# 4 4
 Urinary tract infection 9 2
+Uncommon Hepatitis B reactivation@ <1 <1
 Neoplasms benign and Common Non-melanoma skin cancer* 6 1
 malignant (incl cysts and Basal cell carcinoma 3 < 1
 polyps) Squamous cell carcinoma 2 < 1
@@ -38,6 +40,7 @@ Nervous system disorders Very common Headache 13 1
 Common Dizziness 9 0
 Eye disorders Common Vision blurred 7 0
 Cardiac disorders Common Atrial fibrillation 6 3
+Ventricular tachyarrhythmia*b 1 0
 Vascular disorders Very common Haemorrhage*# 30 1
 Bruising* 22 < 1
 Common Subdural haematoma# 1 1
@@ -65,7 +68,9 @@ conditions
 † Frequencies are rounded to the nearest integer.
 * Includes multiple adverse reaction terms.
 # Includes events with fatal outcome.
+@ Lower level term (LLT) used for selection.
 a Spontaneous reports from post-marketing experience.
+b Frequency calculated from monotherapy clinical studies.
 
 Discontinuation and dose reduction due to adverse drug reactions
 Of the 981 patients treated with IMBRUVICA for B-cell malignancies, 5% discontinued treatment primarily due to adverse reactions.
