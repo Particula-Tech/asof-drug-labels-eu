@@ -39,7 +39,9 @@ Events noted as having a frequency not known were identified via post-marketing 
 | Gastrointestinal disorders | Very common | Abdominal pain (upper and lower), nausea, diarrhoea (including severe with electrolyte imbalance), vomiting, dyspepsia |
 |  | Common | Anorexia, , flatulence, mouth ulcer, gastrointestinal haemorrhage, gastroesophageal reflux disease, pancreatitis |
 | Hepatobiliary disorders | Common | Hepatitis (including increased AST, ALT, GGT), blood bilirubin increased (including jaundice) |
-| Skin and subcutaneous tissue disorders | Very common Common Rare | Pruritus, rash (including erythematous and maculopapular Acne Stevens Johnson syndrome, toxic epidermal necrolysis (TEN) |
+| Skin and subcutaneous tissue disorders | Very common | Pruritus, rash (including erythematous and maculopapular) |
+|  | Common | Acne |
+|  | Rare | Stevens Johnson syndrome, toxic epidermal necrolysis (TEN) |
 | System Order Class | Frequency | Adverse reaction |
 | Musculosketal and connective tissue disorders | Very common | Arthralgia and back pain |
 |  | Common | Myositis, rhabdomyolysis, myalgia, myopathy/CPK increased |
@@ -85,8 +87,8 @@ The most frequently reported adverse drug reactions among patients receiving rit
 |  | Rare | Anaphylaxis |
 | Metabolism and nutrition disorders | Common Uncommon | Hypercholesterolaemia, hypertriglyceridaemia, gout, oedema and peripheral oedema, dehydration (usually associated with gastrointestinal symptoms) Diabetes mellitus |
 |  | Rare | Hyperglycaemia |
-| Nervous system disorders | Very common Common | Dysgeusia, oral and peripheral paraesthesia, headache, dizziness, peripheral neuropathy Insomnia, anxiety, confusion, disturbance in attention, syncope, seizure |
-| System Order Class | Frequency | Adverse reaction |
+| Nervous system disorders | Very common | Dysgeusia, oral and peripheral paraesthesia, headache, dizziness, peripheral neuropathy |
+|  | Common | Insomnia, anxiety, confusion, disturbance in attention, syncope, seizure |
 | Eye disorders | Common | Blurred vision |
 | Cardiac disorders | Uncommon | Myocardial infarction |
 | Vascular disorders | Common | Hypertension, hypotension including orthostatic hypotension, peripheral coldness |
@@ -94,12 +96,13 @@ The most frequently reported adverse drug reactions among patients receiving rit
 | Gastrointestinal disorders | Very common | Abdominal pain (upper and lower), nausea, diarrhoea (including severe with electrolyte imbalance), vomiting, dyspepsia |
 |  | Common | Anorexia, , flatulence, mouth ulcer, gastrointestinal haemorrhage, gastroesophageal reflux disease, pancreatitis |
 | Hepatobiliary disorders | Common | Hepatitis (including increased AST, ALT, GGT), blood bilirubin increased (including jaundice) |
-| Skin and subcutaneous tissue disorders | Very common | Pruritus, rash (including erythematous and maculopapular |
+| Skin and subcutaneous tissue disorders | Very common | Pruritus, rash (including erythematous and maculopapular) |
 |  | Common | Acne |
 |  | Rare | Stevens Johnson syndrome, toxic epidermal necrolysis (TEN) |
+| System Order Class | Frequency | Adverse reaction |
 | Musculosketal and connective tissue disorders | Very common | Arthralgia and back pain |
 |  | Common | Myositis, rhabdomyolysis, myalgia, myopathy/CPK increased |
-| Renal and urinary disorders | Common | Increased urination, renal impairment (eg oliguria, elevated creatinine) |
+| Renal and urinary disorders | Common | Increased urination, renal impairment (e.g. oliguria, elevated creatinine) |
 |  | Uncommon | Acute renal failure |
 | Reproductive system and breast disorders | Common | Menorrhagia |
 | General disorders and administration site conditions | Very common | Fatigue including asthenia, flushing, feeling hot |

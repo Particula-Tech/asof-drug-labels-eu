@@ -2,6 +2,7 @@
 
 Ritonavir is not a cure for HIV-1 infection or AIDS.
 Patients receiving ritonavir or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of HIV-1 infection.
+
 While effective viral suppression with antiretroviral therapy has been proven to substantially reduce the risk of sexual transmission, a residual risk cannot be excluded.
 Precautions to prevent transmission should be taken in accordance with national guidelines.
 
@@ -38,13 +39,13 @@ In HIV-infected patients with severe immune deficiency at the time of institutio
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis jiroveci pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
-
 Autoimmune disorders (such as Graves’ disease) have also been reported to occur in the setting of immune reconstitution; however, the reported time to onset is more variable and can occur many months after initiation of treatment.
 
 Liver disease
 Ritonavir should not be given to patients with decompensated liver disease (see section 4.2).
 Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk for severe and potentially fatal hepatic adverse reactions.
 In case of concomitant antiviral therapy for hepatitis B or C, please refer to the relevant product information for these medicinal products.
+
 Patients with pre-existing liver dysfunction including chronic active hepatitis have an increased frequency of liver function abnormalities during combination antiretroviral therapy and should be monitored according to standard practice.
 If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered.
 
@@ -78,6 +79,7 @@ Postmarketing life-threatening cases of cardiac toxicity (including complete atr
 Osteonecrosis
 Although the aetiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
+
 PR interval prolongation
 Ritonavir has been shown to cause modest asymptomatic prolongation of the PR interval in some healthy adult subjects.
 Rare reports of 2nd or 3rd degree atrioventricular block in patients with underlying structural heart disease and pre-existing conduction system abnormalities or in patients receiving medicinal products known to prolong the PR interval (such as verapamil or atazanavir) have been reported in patients receiving ritonavir.
@@ -108,12 +110,12 @@ If treatment with an HMG-CoA reductase inhibitor is indicated, pravastatin or fl
 
 Colchicine
 Life-threatening and fatal drug interactions have been reported in patients treated with colchicine and strong inhibitors of CYP3A like ritonavir (see sections 4.3 and 4.5).
-
 Digoxin
 Particular caution should be used when prescribing ritonavir in patients taking digoxin since co-administration of ritonavir with digoxin is expected to increase digoxin levels.
 The increased digoxin levels may lessen over time (see section 4.5).
 
 In patients who are already taking digoxin when ritonavir is introduced, the digoxin dose should be reduced to one-half of the patients’ normal dose and patient need to be followed more closely than usual for several weeks after initiating co-administration of ritonavir and digoxin.
+
 In patients who are already taking ritonavir when digoxin is introduced, digoxin should be introduced more gradually than usual.
 Digoxin levels should be monitored more intensively than usual during this period, with dose adjustments made, as necessary, based on clinical, electrocardiographic and digoxin level findings.
 
@@ -146,12 +148,12 @@ More frequent electrocardiogram monitoring and monitoring of transaminases is re
 Delamanid
 Co-administration of delamanid with a strong inhibitor of CYP3A (ritonavir) may increase exposure to delamanid metabolite, which has been associated with QTc prolongation.
 Therefore, if co-administration of delamanid with ritonavir is considered necessary, very frequent ECG monitoring throughout the full delamanid treatment period is recommended (see section 4.5 and refer to the delamanid Summary of Product Characteristics).
-
 Ritonavir dosed as a pharmacokinetic enhancer
 The interaction profiles of HIV-protease inhibitors, co-administered with low dose ritonavir, are dependant on the specific co-administered protease inhibitor.
 
 For a description of the mechanisms and potential mechanisms contributing to the interaction profile of the PIs, see section 4.5.
 Please also review the Summary of Product Characteristics for the particular boosted PI.
+
 Saquinavir
 Doses of ritonavir higher than 100 mg twice daily should not be used.
 Higher doses of ritonavir have been shown to be associated with an increased incidence of adverse reactions.

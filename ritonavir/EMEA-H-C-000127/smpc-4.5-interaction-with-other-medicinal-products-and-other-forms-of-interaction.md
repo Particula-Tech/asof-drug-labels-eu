@@ -10,6 +10,7 @@ The inhibitory effect of ritonavir (with or without other protease inhibitors) o
 Ritonavir may induce glucuronidation and oxidation by CYP1A2, CYP2C8, CYP2C9 and CYP2C19 thereby increasing the biotransformation of some medicinal products metabolised by these pathways, and may result in decreased systemic exposure to such medicinal products, which could decrease or shorten their therapeutic effect.
 
 Important information regarding medicinal product interactions when ritonavir is used as a pharmacokinetic enhancer is also contained in the Summary of Product Characteristics of the co-administered protease inhibitor.
+
 Medicinal products that affect ritonavir levels
 
 Serum levels of ritonavir can be reduced by concomitant use of herbal preparations containing
@@ -287,6 +288,12 @@ Monitor for ADRs related to ceritinib.
 
 Dasatinib, nilotinib, vincristine, vinblastine Serum concentrations may be increased when co-administered with ritonavir resulting in the potential for increased incidence of adverse events.
 
+Venetoclax Serum concentrations may be increased due to CYP3A inhibition by
+
+ritonavir, resulting in increased risk of tumor lysis syndrome at the dose initiation and during the ramp-up phase (see section 4.3 and refer to the venetoclax SmPC).
+
+For patients who have completed the ramp-up phase and are on a steady daily dose of venetoclax, reduce the venetoclax dose by at least 75% when used with strong CYP3A inhibitors (refer to the venetoclax SmPC for dosing instructions).
+
 Anticoagulants
 
 Rivaroxaban 10, single dose 600 q12h ↑ 153% ↑ 55%
@@ -297,7 +304,7 @@ Therefore, the use of ritonavir is not recommended in patients receiving rivarox
 Vorapaxar Serum concentrations may be increased due to CYP3A inhibition by
 
 ritonavir.
-The coadministration of vorapaxar with Norvir is not recommended (see section 4.4 and refer to the vorapaxar SmPC).
+The co-administration of vorapaxar with Norvir is not recommended (see section 4.4 and refer to the vorapaxar SmPC).
 Ritonavir effects on Non-antiretroviral Co-administered Medicinal Products
 
 Co-administered Medicinal Products Dose of Co- Dose of Effect on Co- Effect on Co-
@@ -504,9 +511,9 @@ Bosentan Co-administration of bosentan and ritonavir may increase steady state b
 
 (AUC)
 
-Riociguat Serum concentrations may be increased due to CYP3A and P-gp inhibition by ritonavir. The coadministration of riociguat with Norvir is
+Riociguat Serum concentrations may be increased due to CYP3A and P-gp inhibition by ritonavir. The co-administration of riociguat with Norvir
 
-not recommended (see section 4.4 and refer to riociguat SmPC).
+is not recommended (see section 4.4 and refer to riociguat SmPC).
 
 Ergot Derivatives
 
@@ -620,7 +627,7 @@ Norpethidine metabolite ↑ 47% ↑ 87%
 The use of pethidine and ritonavir is contraindicated due to the increased concentrations of the metabolite, norpethidine, which has both analgesic and CNS stimulant activity.
 Elevated norpethidine concentrations may increase the risk of CNS effects (e.g., seizures), see section 4.3.
 
-Alprazolam 1, single dose 200 q12h, 2 ↑2.5 fold ↔
+Alprazolam 1, single dose 200 q12h, 2 ↑ 2.5 fold ↔
 
 days
 
@@ -663,8 +670,11 @@ In contrast to long-term administration of ritonavir, there was no significant i
 
 Steroids
 
-Inhaled, injectable or intranasal fluticasone propionate, budesonide, triamcinolone
-Systemic corticosteroid effects including Cushing's syndrome and adrenal suppression (plasma cortisol levels were noted to be decreased 86% in the above study) have been reported in patients receiving ritonavir and inhaled or intranasal fluticasone propionate; similar effects could also occur with other corticosteroids metabolised by CYP3A e.g., budesonide and triamcinolone.
+Inhaled, injectable or intranasal fluticasone Systemic corticosteroid effects including Cushing's syndrome and
+
+propionate, budesonide, triamcinolone adrenal suppression (plasma cortisol levels were noted to be decreased
+
+86% in the above study) have been reported in patients receiving ritonavir and inhaled or intranasal fluticasone propionate; similar effects could also occur with other corticosteroids metabolised by CYP3A e.g., budesonide and triamcinolone.
 Consequently, concomitant administration of ritonavir dosed as an antiretroviral agent or as a pharmacokinetic enhancer and these glucocorticoids is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects (see section 4.4).
 A dose reduction of the glucocorticoid should be considered with close monitoring of local and systemic effects or a switch to a glucocorticoid, which is not a substrate for CYP3A4 (e.g., beclomethasone).
 Moreover, in case of withdrawal of glucocorticoids progressive dose reduction may be required over a longer period.
@@ -678,21 +688,12 @@ Prednisolone 20 200 q12h ↑ 28% ↑ 9%
 
 Careful monitoring of therapeutic and adverse effects is recommended when prednisolone is concomitantly administered with ritonavir.
 The AUC of the metabolite prednisolone increased by 37 and 28% after 4 and 14 days ritonavir, respectively.
-Ritonavir effects on Non-antiretroviral Co-administered Medicinal Products
-
-Co-administered Medicinal Products Dose of Co- Dose of Effect on Co- Effect on Co-
-
-administered NORVIR administered administered
-
-Medicinal (mg) Medicinal Medicinal
-Products (mg) Products AUC Products Cmax
 
 ND: Not determined
 1.
 Based on a parallel group comparison
 2.
 Sulfamethoxazole was co-administered with trimethoprim.
-
 Cardiac and neurologic events have been reported when ritonavir has been co-administered with disopyramide, mexiletine or nefazodone.
 The possibility of medicinal product interaction cannot be excluded.
 
@@ -709,7 +710,6 @@ Based on interaction studies with the ritonavir boosted protease inhibitors (lop
 
 [Norvir 100 mg powder for oral suspension]
 
-The inhibitory effect of ritonavir (with or without other protease inhibitors) on P-gp activity may decrease over time (eg digoxin and fexofenadine-see table “Ritonavir effects on non-antiretroviral medicinal products” below).
 Ritonavir may induce glucuronidation and oxidation by CYP1A2, CYP2C8, CYP2C9 and CYP2C19 thereby increasing the biotransformation of some medicinal products metabolised by these pathways, and may result in decreased systemic exposure to such medicinal products, which could decease or shorten their therapeutic effect.
 
 Co- Dose of Co-administered Dose of NORVIR Medicinal AUC Cmin
@@ -730,27 +730,17 @@ Tipranavir 500 q12h 200 q12h Tipranavir ↑ 11 fold ↑ 29 fold
 
 Based on cross-study comparison to 600 mg saquinavir three times daily alone.
 
-A higher frequency of adverse reactions (eg, dizziness, nausea, paraesthesia) and laboratory abnormalities (elevated liver enzymes) have been observed when efavirenz is co-administered with ritonavir dosed as an antiretroviral agent.
-
 Maraviroc 100 q12h 100 q12h Maraviroc ↑161% ↑28%
 
 Ritonavir increases the serum levels of maraviroc as a result of CYP3A inhibition.
 
 An increased dose of theophylline may be required when co-administered with ritonavir, due to induction of CYP1A2.
 
-Anticoagulant
-
 Bosentan Co-administration of bosentan and ritonavir may increase steady state bosentan maximum concentrations (Cmax) and area under the curve
 
 Pravastatin, Rosuvastatin, Simvastatin metabolism, such as lovastatin and simvastatin, are expected to have
 
 Sedatives/hynoptics
-
-Elevated norpethidine concentrations may increase the risk of CNS effects (eg, seizures), see section 4.3.
-
-A dose reduction of the glucocorticoid should be considered with close monitoring of local and systemic effects or a switch to a glucocorticoid, which is not a substrate for CYP3A4 (eg, beclomethasone).
-
-Proton pump inhibitors and H2-receptor antagonists (eg omeprazole or ranitidine) may reduce concentrations for co-administered protease inhibitors.
 
 [Norvir 100 mg film-coated tablets]
 

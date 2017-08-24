@@ -31,6 +31,10 @@ Antianginal Ranolazine Increased plasma concentrations of ranolazine
 
 which may increase the potential for serious and/or life-threatening reactions (see section 4.5).
 
+Anticancer Venetoclax Increased plasma concentrations of venetoclax.
+
+Increased risk of tumor lysis syndrome at the dose initiation and during the dose-titration phase (see section 4.5).
+
 Antiarrhythmics Amiodarone, bepridil, Increased plasma concentrations of amiodarone,
 dronedarone, bepridil, dronedarone, encainide, flecainide,
 
@@ -95,7 +99,7 @@ Sildenafil Contraindicated when used for the treatment of
 pulmonary arterial hypertension (PAH) only.
 Increased plasma concentrations of sildenafil.
 Thereby, increasing the potential for sildenafil-associated adverse events (which include hypotension and syncope).
-See section 4.4 and section 4.5 for coadministration of sildenafil in patients with erectile dysfunction.
+See section 4.4 and section 4.5 for co-administration of sildenafil in patients with erectile dysfunction.
 
 Vardenafil Increased plasma concentrations of vardenafil
 
@@ -115,8 +119,6 @@ Herbal Preparation St. John’s wort Herbal preparations containing St John’s 
 (Hypericum perforatum) due to the risk of decreased plasma concentrations and reduced clinical effects of ritonavir (see section 4.5).
 
 [Norvir 100 mg powder for oral suspension]
-
-For some products, contraindications may be more relevant when ritonavir is used as an antiretroviral agent than when ritonavir is used as a pharmacokinetic enhancer (eg rifabutin and voriconazole):
 
 dronedarone, bepridil, dronedarone, encainide, flecanide,
 

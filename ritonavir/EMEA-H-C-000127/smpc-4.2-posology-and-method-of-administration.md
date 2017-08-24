@@ -15,7 +15,7 @@ Adults
 Amprenavir 600 mg twice daily with ritonavir 100 mg twice daily.
 Atazanavir 300 mg once daily with ritonavir 100 mg once daily.
 Fosamprenavir 700 mg twice daily with ritonavir 100 mg twice daily.
-Lopinavir co-formulated with ritonavir (lopinavir/ritonavir) 400 mg/100 mg or 800 mg/200mg.
+Lopinavir co-formulated with ritonavir (lopinavir/ritonavir) 400 mg/100 mg or 800 mg/200 mg.
 Saquinavir 1000 mg twice daily with ritonavir 100 mg twice daily in ART experienced patients.
 Initiate treatment with saquinavir 500 mg twice daily with ritonavir 100 mg twice daily for the first 7 days, then saquinavir 1000 mg twice daily with ritonavir 100 mg twice daily in ART-naïve patients.
 Tipranavir 500 mg twice daily with ritonavir 200 mg twice daily.
@@ -90,7 +90,7 @@ Pharmacokinetic data indicate that no dose adjustment is necessary in patients w
 Ritonavir must not be given to patients with severe hepatic impairment (see section 4.3).
 
 Paediatric population
-The safety and efficacy of Norvir in childred aged below 2 years has not been established.
+The safety and efficacy of Norvir in children aged below 2 years has not been established.
 Currently available data are described in sections 5.1 and 5.2 but no recommendation on a posology can be made.
 
 The bitter taste of Norvir solution may be lessened if mixed with chocolate milk.
@@ -106,26 +106,24 @@ Treatment should be initiated at 300 mg (three sachets) twice daily for a period
 Refer to Method of Administration section below and section 6.6 for details on preparing doses.
 
 The recommended dosage of Norvir powder for suspension in children is 350 mg/m² by mouth twice daily and should not exceed 600 mg twice daily.
-Paediatric dosage guidelines for Norvir powder for oral suspension (prepared as 100 mg/10 mL)*†
+Paediatric dosage guidelines for Norvir powder for oral suspension (prepared as 100 mg/10 ml)*†
 
 Body Surface Twice Daily Dose Twice Daily Dose Twice Daily Dose
 Area (m2) 250 mg/m2 300 mg/m2 350 mg/m2
-0.25 6.4 mL (62.5 mg) 7.6 mL (76 mg) 8.8 mL (88 mg)
-0.50 12.6 mL (126 mg) 15.0 mL (150 mg) 17.6 mL (176 mg)
-0.75 18.8 mL (188 mg) 22.6 mL (226 mg) 26.4 mL (262.5 mg)
-1.00 25.0 mL (250 mg) 30.0 mL (300 mg) 35.0 mL (350 mg)
-1.25 31.4 mL (312.5 mg) 37.6 mL (376 mg) 43.8 mL (438mg)
-1.50 37.6 mL (376 mg) 45.0 mL (450 mg) 52.6 mL (526 mg)
+0.25 6.4 ml (62.5 mg) 7.6 ml (76 mg) 8.8 ml (88 mg)
+0.50 12.6 ml (126 mg) 15.0 ml (150 mg) 17.6 ml (176 mg)
+0.75 18.8 ml (188 mg) 22.6 ml (226 mg) 26.4 ml (262.5 mg)
+1.00 25.0 ml (250 mg) 30.0 ml (300 mg) 35.0 ml (350 mg)
+1.25 31.4 ml (312.5 mg) 37.6 ml (376 mg) 43.8 ml (438mg)
+1.50 37.6 ml (376 mg) 45.0 ml (450 mg) 52.6 ml (526 mg)
 
-*When mixed with 9.4 mL of liquid the concentration of the suspension is 10 mg/mL.
+*When mixed with 9.4 ml of liquid the concentration of the suspension is 10 mg/ml.
 
 †In some instances, the volumes and/or doses have been adjusted to ensure the recommended final dose and dosing volume.
 
 Body surface area can be calculated with the following equation: BSA (m2) = √(Height (cm) X Weight (kg) / 3600)
 
-To calculate the volume to be administered (in mL) for intermediate body surface areas not included in the above table, the body surface area should be multiplied by a factor of: 25 for a dose of 250 mg/m²; 30 for 300 mg/m²; and 35 for 350 mg/m².
-
-The safety and efficacy of Norvir in children aged below 2 years has not been established.
+To calculate the volume to be administered (in ml) for intermediate body surface areas not included in the above table, the body surface area should be multiplied by a factor of: 25 for a dose of 250 mg/m²; 30 for 300 mg/m²; and 35 for 350 mg/m².
 
 Method of administration
 Norvir powder for oral suspension is administered orally, poured on soft food (apple sauce or vanilla pudding) or mixed with liquid (water, chocolate milk, or infant formula).
@@ -143,7 +141,6 @@ Ritonavir film-coated tablets are administered orally and should be ingested wit
 
 Norvir film-coated tablets should be swallowed whole and not chewed, broken or crushed.
 
-Lopinavir co-formulated with ritonavir (lopinavir/ritonavir) 400 mg/100 mg or 800 mg/200 mg.
 Darunavir 600 mg twice daily with ritonavir 100 mg twice daily in antiretroviral treatment.
 (ART) experienced patients.
 
@@ -153,7 +150,6 @@ The recommended dose of Norvir film-coated tablets is 600 mg (6 tablets) twice d
 
 Treatment should be initiated at 300 mg (3 tablets) twice daily for a period of three days and increased by 100 mg (1 tablet) twice daily increments up to 600 mg twice daily over a period of no longer than 14 days.
 
-Children and adolscents (2 years of age and above)
 The recommended dosage of Norvir in children is 350 mg/m² by mouth twice daily and should not exceed 600 mg twice daily.
 Norvir should be started at 250 mg/m² and increased at 2 to 3 day intervals by 50 mg/m² twice daily (please refer to the Norvir 80 mg/ml oral solution Summary of Product Characteristics).
 
@@ -170,3 +166,5 @@ Dosage conversion from oral solution to tablets for children
 Norvir is not recommended in children below 2 years of age due to lack of data on safety and efficacy.
 
 The renal clearance of ritonavir is negligible therefore; a decrease in the total body clearance is not expected in patients with renal impairment.
+
+The safety and efficacy of Norvir in childred aged below 2 years has not been established.
