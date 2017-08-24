@@ -20,65 +20,45 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | Infections and infestations |  | bronchitis, upper respiratory tract infection, sinusitis, urinary tract infection, influenza | pneumonia, respiratory tract infection, cystitis, ear infection, tonsillitis | eye infection, onychomycosis, cellulitis, acarodermatitis |  |
 | Blood and lymphatic system disorders |  |  | white blood cell count decreased, thrombocytopenia, anaemia, haematocrit decreased | agranulocytosisc, neutropenia, eosinophil count increased |  |
 | Immune system disorders |  |  |  | anaphylactic reaction, hypersensitivity |  |
-| Endocrine disorders |  |  | hyperprolactinaemiaa | inappropriate antidiuretic hormone secretionc, glucose urine present |  |
-| Metabolism and nutrition disorders |  | weight increased, increased appetite, weight decreased, decreased appetite | diabetes mellitusd, hyperglycaemia, waist circumference increased, anorexia, blood triglycerides increased | water intoxication, diabetic ketoacidosisc, hypoglycaemia, polydipsia, blood cholesterol increased | hyperinsulinaemia |
+| Endocrine disorders |  |  | ha yperprolactinaemia | inappropriate antidiuretic hormone secretionc, glucose urine present |  |
+| Metabolism and nutrition disorders |  | weight increased, increased appetite, weight decreased, decreased appetite | diabetes mellitusd, hyperglycaemia, waist circumference increased, anorexia, blood triglycerides increased | water intoxication, diabetic ketoacidosisc, hypoglycaemia, polydipsia, blood cholesterol increased | hyperinsulinaemi a |
 | Psychiatric disorders | insomniae | mania, agitation, depression, anxiety | sleep disorder, confusional state, libido decreased, anorgasmia, nervousness, nightmare | blunted affectc |  |
-| Nervous system disorders | parkinsonismb, akathisiab, sedation/ somnolence, headache | dystoniab, dizziness, dyskinesiab, tremorb | tardive dyskinesia, convulsione, syncope, psychomotor hyperactivity, dizziness postural, disturbance in attention, dysarthria, dysgeusia, hypoaesthesia, paresthaesia | neuroleptic malignant syndrome, cerebral ischaemia, unresponsive to stimulic, loss of consciousness, depressed level of consciousnessc, diabetic comac balance disorder, coordination abnormal, head titubationc |  |
+| Nervous system disorders | parkinsonismb , akathisiab, sedation/ somnolence, headache | dystoniab, dizziness, dyskinesiab, tremorb | tardive dyskinesia, convulsione, syncope, psychomotor hyperactivity, dizziness postural, disturbance in attention, dysarthria, dysgeusia, hypoaesthesia, paresthaesia | neuroleptic malignant syndrome, cerebral ischaemia, unresponsive to stimulic, loss of consciousness, depressed level of consciousnessc, diabetic comac balance disorder, coordination abnormal, head titubationc |  |
 | Eye disorders |  | vision blurred | photophobia, conjunctivitis, dry eye | glaucoma, eye movement disorderc, eye rollingc, lacrimation increased, ocular hyperaemia |  |
 | Ear and labyrinth disorders |  |  | vertigo, tinnitus, ear pain |  |  |
-| Cardiac disorders |  | atrioventricular block, conduction disorder, electrocardiogram QT prolonged, bradycardia, tachycardia | sinus arrhythmia, electrocardiogram abnormal, palpitations | atrial fibrillation, postural orthostatic tachycardia syndromec |  |
+| Cardiac disorders |  | atrioventricular block, conduction disorder, electrocardiogra m QT prolonged, bradycardia, tachycardia | sinus arrhythmia, electrocardiogram abnormal, palpitations | atrial fibrillation, postural orthostatic tachycardia syndromec |  |
 | Vascular disorders |  | orthostatic hypotension, hypertension | hypotension | pulmonary embolism, venous thrombosis, ischaemia, flushing |  |
+| Respiratory, thoracic and mediastinal disorders |  | pharyngolarynge al pain, cough, nasal congestion | dyspnoea, wheezing, epistaxis | sleep apnoea syndrome, hyperventilation, pneumonia aspiration, respiratory tract congestion, dysphonia | pulmonary congestion |
+| Gastrointestin al disorders |  | abdominal pain, abdominal discomfort, vomiting, nausea, constipation, diarrhoea, dyspepsia, dry mouth, toothache | swollen tongue, gastroenteritis, dysphagia, flatulence | pancreatitisc, intestinal obstruction, ileus, faecal incontinence, faecalomac, cheilitis |  |
+| Hepatobiliary disorders |  | transaminases increased | gamma-glutamyltran sferase increased, hepatic enzyme increased | jaundice |  |
+| Skin and subcutaneous tissue disorders |  | pruritus, rash | urticaria, alopecia, eczema, acne | angioedema, drug eruptionc, hyperkeratosis, dry skin, erythema, skin discolouration, seborrhoeic dermatitis, dandruff |  |
 
-Respiratory, pharyngolaryngeal dyspnoea, wheezing, sleep apnoea pulmonary
-thoracic and pain, cough, nasal epistaxis syndrome, congestion
-mediastinal congestion hyperventilation,
-disorders pneumonia aspiration,
-respiratory tract
-congestion, dysphonia
-Gastrointestinal abdominal pain, swollen tongue, pancreatitisc, intestinal
-disorders abdominal gastroenteritis, obstruction, ileus,
-discomfort, dysphagia, flatulence faecal incontinence,
-vomiting, nausea, faecalomac, cheilitis
-constipation,
-diarrhoea,
-dyspepsia, dry
-mouth, toothache
-Hepatobiliary transaminases gamma-glutamyltransf jaundice
-disorders increased erase increased,
-hepatic enzyme
-increased
-Skin and pruritus, rash urticaria, alopecia, angioedema, drug
-subcutaneous eczema, acne eruptionc,
-tissue disorders hyperkeratosis, dry
-skin, erythema, skin
-discolouration,
-seborrhoeic dermatitis,
-dandruff
-Musculoskeletal musculoskeletal blood creatine rhabdomyolysisc,
-and connective pain, back pain, phosphokinase posture abnormalc
-tissue disorders arthralgia increased, muscle
-spasms, joint stiffness,
-joint swelling,
-muscular weakness,
-neck pain
+Musculoskelet musculoskeletal blood creatine rhabdomyolysisc,
+al and pain, back pain, phosphokinase posture abnormalc
+connective arthralgia increased, muscle
+tissue spasms, joint
+disorders stiffness, joint swelling, muscular
+weakness, neck pain
 Renal and urinary incontinence,
 urinary pollakiuria, urinary
 disorders retention, dysuria
 Pregnancy, drug withdrawal
-puerperium and syndrome neonatal
-perinatal (see section 4.6)c
+puerperium syndrome neonatal
+and perinatal (see section 4.6)c
 conditions
 Reproductive amenorrhoea erectile dysfunction, priapismc,
-system and ejaculation disorder, menstruation delayedc,
-breast disorders menstrual disordere, gynaecomastia, breast
-galactorrhoea, sexual engorgement, breast
-dysfunction, breast enlargementc, breast
-pain, breast discomfort discharge, vaginal
-discharge
-General pyrexia, asthenia, face oedema, oedemae, hypothermiac, body
-disorders fatigue chills, body temperature
-temperature increased, decreasedc, drug
-gait abnormal, thirst, withdrawal syndromec,
+system and ejaculation disorder, menstruation
+breast menstrual disordere, delayedc,
+disorders galactorrhoea, sexual gynaecomastia,
+dysfunction, breast breast engorgement,
+pain, breast breast enlargementc,
+discomfort breast discharge,
+vaginal discharge
+General pyrexia, asthenia, face oedema, hypothermiac, body
+disorders fatigue oedemae, chills, temperature
+body temperature decreasedc, drug
+increased, gait withdrawal
+abnormal, thirst, syndromec,
 chest pain, chest indurationc
 discomfort, malaise
 Injury, fall
@@ -90,7 +70,9 @@ a Refer to ‘Hyperprolactinaemia’ below.
 b Refer to ‘Extrapyramidal symptoms’ below.
 c Not observed in INVEGA clinical studies but observed in post-marketing environment with paliperidone d In placebo-controlled pivotal trials, diabetes mellitus was reported in 0.05% in INVEGA-treated subjects compared to a rate of 0% in placebo group.
 Overall incidence from all clinical trials was 0.14% in all INVEGA-treated subjects e Insomnia includes: initial insomnia, middle insomnia; Convulsion includes: grand mal convulsion; Oedema includes: generalised oedema, oedema peripheral, pitting oedema.
-Menstrual disorder includes: menstruation irregular, oligomenorrhoea Undesirable effects noted with risperidone formulations
+Menstrual disorder includes: menstruation irregular, oligomenorrhoea
+
+Undesirable effects noted with risperidone formulations
 Paliperidone is the active metabolite of risperidone, therefore, the adverse reaction profiles of these compounds (including both the oral and injectable formulations) are relevant to one another.
 In addition to the above adverse reactions, the following adverse reactions have been noted with the use of risperdone products and can be expected to occur with INVEGA.
 Nervous system disorders: cerebrovascular disorder
@@ -138,7 +120,6 @@ In the pooled adolescent schizophrenia population (12 years and older, N = 545) 
 Extrapyramidal Symptoms (EPS)
 In the short-term, placebo-controlled, fixed-dose adolescent study, the incidence of EPS was higher than placebo for all doses of INVEGA with an increased frequency of EPS at higher doses.
 Across all adolescent studies, EPS was more common in adolescents than in adults for each INVEGA dose.
-
 Weight gain
 In the short-term, placebo-controlled, fixed-dose adolescent study, a higher percentage of INVEGA-treated subjects (6-19% depending on dose) had an increase in body weight of ≥7% compared to placebo-treated subjects (2%).
 There was no clear dose relationship.
@@ -154,48 +135,3 @@ Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medical product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-[INVEGA 3 mg prolonged-release tablets]
-
-| System Organ Class | Adverse Drug Reaction |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Frequency |  |  |  |  |
-|  | Very common | Common | Uncommon | Rare | Not known |
-| Infections and infestations |  | bronchitis, upper respiratory tract infection, sinusitis, urinary tract infection, influenza | pneumonia, respiratory tract infection, cystitis, ear infection, tonsillitis | eye infection, onychomycosis, cellulitis, acarodermatitis |  |
-| Blood and lymphatic system disorders |  |  | white blood cell count decreased, thrombocytopenia, anaemia, haematocrit decreased | agranulocytosisc, neutropenia, eosinophil count increased |  |
-| Immune system disorders |  |  |  | anaphylactic reaction, hypersensitivity |  |
-| Endocrine disorders |  |  | hyperprolactinaemiaa | inappropriate antidiuretic hormone secretionc, glucose urine present |  |
-| Metabolism and nutrition disorders |  | weight increased, increased appetite, weight decreased, decreased appetite | diabetes mellitusd, hyperglycaemia, waist circumference increased, anorexia, blood triglycerides increased | water intoxication, diabetic ketoacidosisc, hypoglycaemia, polydipsia, blood cholesterol increased | hyperinsulinaemia |
-| Psychiatric disorders | insomniae | mania, agitation, depression, anxiety | sleep disorder, confusional state, libido decreased, anorgasmia, nervousness, nightmare | blunted affectc |  |
-| Nervous system disorders | parkinsonismb, akathisiab, sedation/ somnolence, headache | dystoniab, dizziness, dyskinesiab, tremorb | tardive dyskinesia, convulsione, syncope, psychomotor hyperactivity, dizziness postural, disturbance in attention, dysarthria, dysgeusia, hypoaesthesia, paresthaesia | neuroleptic malignant syndrome, cerebral ischaemia, unresponsive to stimulic, loss of consciousness, depressed level of consciousnessc, diabetic comac balance disorder, coordination abnormal, head titubationc |  |
-| Eye disorders |  | vision blurred | photophobia, conjunctivitis, dry eye | glaucoma, eye movement disorderc, eye rollingc, lacrimation increased, ocular hyperaemia |  |
-
-Ear and vertigo, tinnitus, ear
-labyrinth pain
-disorders
-Cardiac atrioventricular sinus arrhythmia, atrial fibrillation,
-disorders block, conduction electrocardiogram postural orthostatic
-disorder, abnormal, palpitations tachycardia syndromec
-electrocardiogram
-QT prolonged,
-bradycardia,
-tachycardia
-Vascular orthostatic hypotension pulmonary embolism,
-disorders hypotension, venous thrombosis,
-hypertension ischaemia, flushing
-
-Menstrual disorder includes: menstruation irregular, oligomenorrhoea
-
-Undesirable effects noted with risperidone formulations
-
-[INVEGA 6 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[INVEGA 9 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[INVEGA 12 mg prolonged-release tablets]
-
-(all sentences already above)

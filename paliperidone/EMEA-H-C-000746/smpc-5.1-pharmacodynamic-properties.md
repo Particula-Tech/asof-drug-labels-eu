@@ -30,12 +30,7 @@ Efficacy was also evaluated by calculation of treatment response (defined as dec
 |  | Placebo | INVEGA 3 mg | INVEGA 6 mg | INVEGA 9 mg | INVEGA 12 mg |
 | R076477-SCH-303 Mean baseline (SD) Mean change (SD) P-value (vs, Placebo) Diff. of LS Means (SE) | (N=126) 94.1 (10.74) -4.1 (23.16) |  | (N=123) 94.3 (10.48) -17.9 (22.23) <0.001 -13.7 (2.63) | (N=122) 93.2 (11.90) -17.2 (20.23) <0.001 -13.5 (2.63) | (N=129) 94.6 (10.98) -23.3 (20.12) <0.001 -18.9 (2.60) |
 | R076477-SCH-304 Mean baseline (SD) Mean change (SD) P-value (vs, Placebo) Diff. of LS Means (SE) | (N=105) 93.6 (11.71) -8.0 (21.48) |  | (N=111) 92.3 (11.96) -15.7 (18.89) 0.006 -7.0 (2.36) |  | (N=111) 94.1 (11.42) -17.5 (19.83) <0.001 -8.5 (2.35) |
-
-R076477-SCH-305 (N=120) (N=123) (N=123)
-Mean baseline (SD) 93.9 (12.66) 91.6 (12.19) 93.9 (13.20)
-Mean change (SD) -2.8 (20.89) -15.0 (19.61) -16.3 (21.81)
-P-value (vs, Placebo) <0.001 <0.001
-Diff. of LS Means (SE) -11.6 (2.35) -12.9 (2.34)
+| R076477-SCH-305 Mean baseline (SD) Mean change (SD) P-value (vs, Placebo) Diff. of LS Means (SE) | (N=120) 93.9 (12.66) -2.8 (20.89) | (N=123) 91.6 (12.19) -15.0 (19.61) <0.001 -11.6 (2.35) |  | (N=123) 93.9 (13.20) -16.3 (21.81) <0.001 -12.9 (2.34) |  |
 
 Note: Negative change in score indicates improvement.
 For all 3 studies, an active control (olanzapine at a dose of 10 mg) was included.
@@ -48,7 +43,12 @@ A 15 mg dose was also included in Study R076477-SCH-305, but results are not pre
 |  | Placebo | INVEGA 3 mg | INVEGA 6 mg | INVEGA 9 mg | INVEGA 12 mg |
 | R076477-SCH-303 N Responder, n (%) Non-responder, n (%) P value (vs Placebo) | 126 38 (30.2) 88 (69.8) -- |  | 123 69 (56.1) 54 (43.9) <0.001 | 122 62 (50.8) 60 (49.2) 0.001 | 129 79 (61.2) 50 (38.8) <0.001 |
 | R076477-SCH-304 N Responder, n (%) Non-responder, n (%) P value (vs Placebo) | 105 36 (34.3) 69 (65.7) -- |  | 110 55 (50.0) 55 (50.0) 0.025 |  | 111 57 (51.4) 54 (48.6) 0.012 |
-| R076477-SCH-305 N Responder, n (%) Non-responder, n (%) P value (vs Placebo) | 120 22 (18.3) 98 (81.7) -- | 123 49 (39.8) 74 (60.2) 0.001 |  | 123 56 (45.5) 67 (54.5) <0.001 |  |
+
+R076477-SCH-305
+N 120 123 123
+Responder, n (%) 22 (18.3) 49 (39.8) 56 (45.5)
+Non-responder, n (%) 98 (81.7) 74 (60.2) 67 (54.5)
+P value (vs Placebo) -- 0.001 <0.001
 
 In a long-term trial designed to assess the maintenance of effect, INVEGA was significantly more effective than placebo in maintaining symptom control and delaying relapse of schizophrenia.
 After having been treated for an acute episode for 6 weeks and stabilised for an additional 8 weeks with INVEGA (doses ranging from 3 to 15 mg once daily) patients were then randomised in a double-blind manner to either continue on INVEGA or on placebo until they experienced a relapse in schizophrenia symptoms.
@@ -95,6 +95,7 @@ LOCF = last observation carried forward.
 | R076477-SCA-3002 N Responder, n (%) Non-responder, n (%) P value (vs Placebo) | 93 26 (28.0) 67 (72.0) -- |  |  | 210 85 (40.5) 125 (59.5) 0.046 |
 
 Response defined as decrease from baseline in PANSS Total Score ≥30% and CGI-C Score ≤2
+
 In a long-term trial designed to assess the maintenance of effect, the long-acting injectable formulation of paliperidone was significantly more effective than placebo in maintaining symptom control and delaying relapse of psychotic, manic, and depressive symptoms of schizoaffective disorder.
 After having been successfully treated for an acute psychotic or mood episode for 13 weeks and stabilised for an additional 12 weeks with the long-acting injectable formulation of paliperidone (doses ranging from 50 to 150 mg) patients were then randomised to a 15-month double-blind relapse prevention period of the study to either continue on the long-acting injectable formulation of paliperidone or on placebo until they experienced a relapse of schizoaffective symptoms.
 The study showed a significantly longer time to relapse in patients treated with the long-acting injectable formulation of paliperidone compared to placebo (p<0.001).
@@ -138,34 +139,3 @@ In addition, the difference in the percentage of patients demonstrating ≥20% i
 Response defined as decrease from baseline in PANSS Total Score ≥20%
 Note: Negative change in score indicates improvement.
 LOCF = last observation carried forward.
-
-[INVEGA 3 mg prolonged-release tablets]
-
-| Schizophrenia Studies: Positive and Negative Syndrome Scale for Schizophrenia (PANSS) Total Score - Change From Baseline to End Point - LOCF for Studies R076477-SCH-303, R076477-SCH-304, and R076477-SCH-305: Intent-to-Treat Analysis Set |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Placebo | INVEGA 3 mg | INVEGA 6 mg | INVEGA 9 mg | INVEGA 12 mg |
-| R076477-SCH-303 Mean baseline (SD) Mean change (SD) P-value (vs, Placebo) Diff. of LS Means (SE) | (N=126) 94.1 (10.74) -4.1 (23.16) |  | (N=123) 94.3 (10.48) -17.9 (22.23) <0.001 -13.7 (2.63) | (N=122) 93.2 (11.90) -17.2 (20.23) <0.001 -13.5 (2.63) | (N=129) 94.6 (10.98) -23.3 (20.12) <0.001 -18.9 (2.60) |
-| R076477-SCH-304 Mean baseline (SD) Mean change (SD) P-value (vs, Placebo) Diff. of LS Means (SE) | (N=105) 93.6 (11.71) -8.0 (21.48) |  | (N=111) 92.3 (11.96) -15.7 (18.89) 0.006 -7.0 (2.36) |  | (N=111) 94.1 (11.42) -17.5 (19.83) <0.001 -8.5 (2.35) |
-| R076477-SCH-305 Mean baseline (SD) Mean change (SD) P-value (vs, Placebo) Diff. of LS Means (SE) | (N=120) 93.9 (12.66) -2.8 (20.89) | (N=123) 91.6 (12.19) -15.0 (19.61) <0.001 -11.6 (2.35) |  | (N=123) 93.9 (13.20) -16.3 (21.81) <0.001 -12.9 (2.34) |  |
-
-| Adolescent Schizophrenia Study: R076477-PSZ-3001: 6-week, fixed-dose, placebo-controlled Intent-to-Treat Analysis Set. LOCF endpoint change from baseline |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | Placebo N=51 | INVEGA Low Dose 1.5 mg N=54 | INVEGA Medium Dose 3 or 6 mg* N=48 | INVEGA High Dose 6 or 12 mg** N=47 |
-| Change in PANSS Score Mean baseline (SD) Mean change (SD) P-value (vs Placebo) Diff. of LS Means (SE) | 90.6 (12.13) -7.9 (20.15) | 91.6 (12.54) -9.8 (16.31) 0.508 -2.1 (3.17) | 90.6 (14.01) -17.3 (14.33) 0.006 -10.1 (3.27) | 91.5 (13.86) -13.8 (15.74) 0.086 -6.6 (3.29) |
-
-Responder Analysis
-Responder, n (%) 17 (33.3) 21 (38.9) 31 (64.6) 24 (51.1)
-Non-responder, n (%) 34 (66.7) 33 (61.1) 17 (35.4) 23 (48.9)
-P value (vs Placebo) 0.479 0.001 0.043
-
-[INVEGA 6 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[INVEGA 9 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[INVEGA 12 mg prolonged-release tablets]
-
-(all sentences already above)

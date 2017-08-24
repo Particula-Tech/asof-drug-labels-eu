@@ -2,6 +2,7 @@
 
 Pregnancy
 There are no adequate data from the use of paliperidone during pregnancy.
+
 Paliperidone was not teratogenic in animal studies, but other types of reproductive toxicity were observed (see section 5.3).
 Neonates exposed to antipsychotics (including paliperidone) during the third trimester of pregnancy are at risk of adverse reactions including extrapyramidal and/or withdrawal symptoms that may vary in severity and duration following delivery.
 There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, or feeding disorder.

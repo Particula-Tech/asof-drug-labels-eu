@@ -27,7 +27,6 @@ In some cases, a prior increase in body weight has been reported which may be a 
 Association with ketoacidosis has been reported very rarely and rarely with diabetic coma.
 Appropriate clinical monitoring is advisable in accordance with utilised antipsychotic guidelines.
 Patients treated with any atypical antipsychotic, including INVEGA, should be monitored for symptoms of hyperglycaemia (such as polydipsia, polyuria, polyphagia, and weakness) and patients with diabetes mellitus should be monitored regularly for worsening of glucose control.
-
 Weight gain
 Significant weight gain has been reported with INVEGA use.
 Weight should be monitored regularly.
@@ -68,7 +67,6 @@ The experience from risperidone is considered valid also for paliperidone.
 Overall mortality
 In a meta-analysis of 17 controlled clinical trials, elderly patients with dementia treated with other atypical antipsychotics, including risperidone, aripiprazole, olanzapine, and quetiapine had an increased risk of mortality compared to placebo.
 Among those treated with risperidone, the mortality was 4% compared with 3.1% for placebo.
-
 Cerebrovascular adverse reactions
 An approximately 3-fold increased risk of cerebrovascular adverse reactions have been seen in randomised placebo-controlled clinical trials in the dementia population with some atypical antipsychotics, including risperidone, aripiprazole, and olanzapine.
 The mechanism for this increased risk is not known.
@@ -77,6 +75,7 @@ INVEGA should be used with caution in elderly patients with dementia who have ri
 Parkinson’s disease and dementia with Lewy bodies
 Physicians should weigh the risks versus the benefits when prescribing INVEGA to patients with Parkinson’s Disease or Dementia with Lewy Bodies (DLB) since both groups may be at increased risk of Neuroleptic Malignant Syndrome as well as having an increased sensitivity to antipsychotics.
 Manifestation of this increased sensitivity can include confusion, obtundation, postural instability with frequent falls, in addition to extrapyramidal symptoms.
+
 Priapism
 Antipsychotic medicinal products (including risperidone) with α-adrenergic blocking effects have been reported to induce priapism.
 During postmarketing surveillance priapism has also been reported with paliperidone, which is the active metabolite of risperidone.
@@ -106,24 +105,9 @@ For specific posology recommendations in the paediatric population see section 4
 
 Intraoperative Floppy Iris Syndrome
 Intraoperative floppy iris syndrome (IFIS) has been observed during cataract surgery in patients treated with medicines with alpha1a-adrenergic antagonist effect, such as INVEGA (see section 4.8).
-
 IFIS may increase the risk of eye complications during and after the operation.
 Current or past use of medicines with alpha1a-adrenergic antagonist effect should be made known to the ophthalmic surgeon in advance of surgery.
 The potential benefit of stopping alpha1 blocking therapy prior to cataract surgery has not been established and must be weighed against the risk of stopping the antipsychotic therapy.
 
-[INVEGA 3 mg prolonged-release tablets]
-
 Lactose content (pertains only to the 3 mg tablets)
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
-
-[INVEGA 6 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[INVEGA 9 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[INVEGA 12 mg prolonged-release tablets]
-
-(all sentences already above)

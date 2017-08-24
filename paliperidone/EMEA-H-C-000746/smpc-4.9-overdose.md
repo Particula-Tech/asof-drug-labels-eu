@@ -10,6 +10,6 @@ General supportive measures should be employed.
 Establish and maintain a clear airway and ensure adequate oxygenation and ventilation.
 Cardiovascular monitoring should commence immediately and should include continuous electrocardiographic monitoring for possible arrhythmias.
 Hypotension and circulatory collapse should be treated with appropriate measures such as intravenous fluid and/or sympathomimetic agents.
-Gastric lavage (after intubation if the patient is unconscious) and administration of activated charcoal together with a laxative should be considered.
+Administration of activated charcoal together with a laxative should be considered.
 In case of severe extrapyramidal symptoms, anticholinergic agents should be administered.
 Close supervision and monitoring should continue until the patient recovers.

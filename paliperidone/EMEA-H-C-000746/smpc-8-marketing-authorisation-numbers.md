@@ -1,33 +1,26 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/07/395/077-095
-
-[INVEGA 3 mg prolonged-release tablets]
-
+3 mg
 EU/1/07/395/001 - 005
 EU/1/07/395/021 - 025
 EU/1/07/395/041 - 044
 EU/1/07/395/057 - 058
 EU/1/07/395/065 - 067
 
-[INVEGA 6 mg prolonged-release tablets]
-
+6 mg
 EU/1/07/395/006 - 010
 EU/1/07/395/026 - 030
 EU/1/07/395/045 - 048
 EU/1/07/395/059 - 060
 EU/1/07/395/068 - 070
-
-[INVEGA 9 mg prolonged-release tablets]
-
+9 mg
 EU/1/07/395/011 - 015
 EU/1/07/395/031 - 035
 EU/1/07/395/049 - 052
 EU/1/07/395/061 - 062
 EU/1/07/395/071 - 073
 
-[INVEGA 12 mg prolonged-release tablets]
-
+12 mg
 EU/1/07/395/016 - 020
 EU/1/07/395/036 - 040
 EU/1/07/395/053 - 056

@@ -1,7 +1,6 @@
 # 5.2 Pharmacokinetic properties
 
 The pharmacokinetics of paliperidone following INVEGA administration are dose proportional within the available dose range.
-
 Absorption
 Following a single dose, INVEGA exhibits a gradual ascending release rate, allowing the plasma concentrations of paliperidone to steadily rise to reach peak plasma concentration (Cmax) approximately 24 hours after dosing.
 With once-daily dosing of INVEGA, steady-state concentrations of paliperidone are attained within 4-5 days of dosing in most subjects.
