@@ -6,6 +6,7 @@ In a pre-specified pooled analysis of 13 placebo-controlled studies, 2,360 subje
 The most frequently reported adverse reaction was hypoglycaemia, which depended on the type of background therapy used in each study.
 The frequency of minor episodes of hypoglycaemia was similar between treatment groups, including placebo, with the exceptions of studies with add-on sulphonylurea (SU) and add-on insulin therapies.
 Combination therapies with sulphonylurea and add-on insulin had higher rates of hypoglycaemia (see Hypoglycaemia below).
+
 Tabulated list of adverse reactions
 The following adverse reactions have been identified in the placebo-controlled clinical trials.
 None were found to be dose-related.
@@ -69,9 +70,8 @@ Urinary tract infections
 Urinary tract infections were more frequently reported for dapagliflozin 10 mg compared to placebo (4.7 % versus 3.5 %, respectively; see section 4.4).
 Most infections were mild to moderate, and subjects responded to an initial course of standard treatment and rarely resulted in discontinuation from dapagliflozin treatment.
 These infections were more frequent in females, and subjects with a prior history were more likely to have a recurrent infection.
-
 Increased creatinine
-Adverse drug reactions related to increased creatinine were grouped (e.g. decreased renal creatinine clearance, renal impairment, increased blood creatinine and decreased glomerular filtration rate).
+Adverse reactions related to increased creatinine were grouped (e.g. decreased renal creatinine clearance, renal impairment, increased blood creatinine and decreased glomerular filtration rate).
 This grouping of reactions was reported in 3.2 % and 1.8 % of patients who received dapagliflozin 10 mg and placebo, respectively.
 In patients with normal renal function or mild renal impairment (baseline eGFR ≥ 60 ml/min/1.73 m2) this grouping of reactions were reported in 1.3 % and 0.8 % of patients who received dapagliflozin 10 mg and placebo, respectively.
 These reactions were more common in patients with baseline eGFR ≥ 30 and < 60 ml/min/1.73 m2 (18.5 % dapagliflozin 10 mg vs 9.3 % placebo).

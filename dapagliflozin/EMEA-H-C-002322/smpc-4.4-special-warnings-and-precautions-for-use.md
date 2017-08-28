@@ -1,14 +1,10 @@
 # 4.4 Special warnings and precautions for use
 
-General
-Forxiga should not be used in patients with type 1 diabetes mellitus or for the treatment of diabetic ketoacidosis.
-
 Use in patients with renal impairment
 The efficacy of dapagliflozin is dependent on renal function, and efficacy is reduced in patients who have moderate renal impairment and likely absent in patients with severe renal impairment (see section 4.2).
 In subjects with moderate renal impairment (patients with CrCl < 60 ml/min or eGFR < 60 ml/min/1.73 m2), a higher proportion of subjects treated with dapagliflozin had adverse reactions of increase in creatinine, phosphorus, parathyroid hormone (PTH) and hypotension, compared with placebo.
 Forxiga is not recommended for use in patients with moderate to severe renal impairment (patients with CrCl < 60 ml/min or eGFR < 60 ml/min/1.73 m2).
 Forxiga has not been studied in severe renal impairment (CrCl < 30 ml/min or eGFR < 30 ml/min/1.73 m2) or end-stage renal disease (ESRD).
-
 Monitoring of renal function is recommended as follows:
 
 - Prior to initiation of dapagliflozin and at least yearly, thereafter (see sections 4.2, 4.8, 5.1 and 5.2)
@@ -44,6 +40,7 @@ Treatment should be interrupted in patients who are hospitalised for major surgi
 In both cases, treatment with dapagliflozin may be restarted once the patient’s condition has stabilised.
 
 Before initiating dapagliflozin, factors in the patient history that may predispose to ketoacidosis should be considered.
+
 Patients who may be at higher risk of DKA include patients with a low beta-cell function reserve (e.g. type 2 diabetes patients with low C-peptide or latent autoimmune diabetes in adults (LADA) or patients with a history of pancreatitis), patients with conditions that lead to restricted food intake or severe dehydration, patients for whom insulin doses are reduced and patients with increased insulin requirements due to acute medical illness, surgery or alcohol abuse.
 SGLT2 inhibitors should be used with caution in these patients.
 
@@ -79,11 +76,11 @@ Available epidemiological data for pioglitazone suggest a small increased risk o
 
 Elevated haematocrit
 Haematocrit increase was observed with dapagliflozin treatment (see section 4.8); therefore, caution in patients with already elevated haematocrit is warranted.
+
 Lower limb amputations
 An increase in cases of lower limb amputation (primarily of the toe) has been observed in ongoing long-term, clinical studies with another SGLT2 inhibitor.
 It is unknown whether this constitutes a class effect.
 Like for all diabetic patients it is important to counsel patients on routine preventative foot care.
-
 Combinations not studied
 Dapagliflozin has not been studied in combination with glucagon-like peptide 1 (GLP-1) analogues.
 
@@ -91,5 +88,5 @@ Urine laboratory assessments
 Due to its mechanism of action, patients taking Forxiga will test positive for glucose in their urine.
 
 Lactose
-The tablets contain lactose anhydrous.
+The tablets contain lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency, or glucose-galactose malabsorption should not take this medicinal product.

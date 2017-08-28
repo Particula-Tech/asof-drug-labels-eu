@@ -30,12 +30,9 @@ In interaction studies conducted in healthy subjects, using mainly a single-dose
 Combination of a single dose of dapagliflozin 20 mg and simvastatin (a CYP3A4 substrate) resulted in a 19 % increase in AUC of simvastatin and 31 % increase in AUC of simvastatin acid.
 The increase in simvastatin and simvastatin acid exposures are not considered clinically relevant.
 
-Other interactions
-The effects of smoking, diet, herbal products and alcohol use on the pharmacokinetics of dapagliflozin have not been studied.
-
 Interference with 1,5-anhydroglucitol (1,5-AG) assay
 Monitoring glycaemic control with 1,5-AG assay is not recommended as measurements of 1,5-AG are unreliable in assessing glycaemic control in patients taking SGLT2 inhibitors.
-Use alternative methods to monitor glycaemic control.
+Use of alternative methods to monitor glycaemic control is advised.
 
 Paediatric population
 Interaction studies have only been performed in adults.
