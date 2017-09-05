@@ -33,4 +33,8 @@ EU/1/03/256/019
 
 [Humira 80 mg solution for injection in pre-filled syringe]
 
+Humira 80 mg solution for injection in pre-filled syringe
 EU/1/03/256/020
+
+Humira 80 mg solution for injection in pre-filled pen
+EU/1/03/256/021

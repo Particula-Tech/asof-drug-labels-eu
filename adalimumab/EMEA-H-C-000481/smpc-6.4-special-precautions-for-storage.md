@@ -17,7 +17,4 @@ The syringe or pen must be protected from light, and discarded if not used withi
 
 [Humira 80 mg solution for injection in pre-filled syringe]
 
-Keep the pre-filled syringe in its outer carton in order to protect from light.
-
-A single Humira pre-filled syringe may be stored at temperatures up to a maximum of 25°C for a period of up to 14 days.
-The syringe must be protected from light, and discarded if not used within the 14 -day period.
+(all sentences already above)

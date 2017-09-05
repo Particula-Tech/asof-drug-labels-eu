@@ -1,6 +1,7 @@
 # 4.2 Posology and method of administration
 
 Humira treatment should be initiated and supervised by specialist physicians experienced in the diagnosis and treatment of conditions for which Humira is indicated.
+Ophthalmologists are advised to consult with an appropriate specialist before initiation of treatment with Humira (see section 4.4).
 Patients treated with Humira should be given the special alert card.
 
 After proper training in injection technique, patients may self-inject with Humira if their physician determines that it is appropriate and with medical follow-up as necessary.
@@ -35,13 +36,13 @@ Height Total Body Weight (kg)
 180 0.6 0.7 0.7 0.8* 0.8* 0.8* 0.8* 0.8* 0.8*
 
 *Maximum single dose is 40 mg (0.8 ml)
-
 Polyarticular juvenile idiopathic arthritis from 13 years of age
 
 For patients from 13 years of age, a dose of 40 mg is administered every other week regardless of body surface area.
 
 Available data suggest that clinical response is usually achieved within 12 weeks of treatment.
 Continued therapy should be carefully reconsidered in a patient not responding within this time period.
+
 There is no relevant use of Humira in patients aged less than 2 years for this indication.
 
 Enthesitis-related arthritis
@@ -80,10 +81,10 @@ Adolescent hidradenitis suppurativa (from 12 years of age, weighing at least 30 
 
 There are no clinical trials with Humira in adolescent patients with HS.
 The posology of Humira in these patients has been determined from pharmacokinetic modelling and simulation (see section 5.2).
-
 The recommended Humira dose is 80 mg at Week 0 followed by 40 mg every other week starting at Week 1 via subcutaneous injection.
 
 In adolescent patients with inadequate response to Humira 40 mg every other week, an increase in dosing frequency to 40 mg every week may be considered.
+
 Antibiotics may be continued during treatment with Humira if necessary.
 It is recommended that the patient should use a topical antiseptic wash on their HS lesions on a daily basis during treatment with Humira.
 
@@ -117,6 +118,26 @@ Continued therapy should be carefully considered in a subject not responding by 
 
 There is no relevant use of Humira in children aged less than 6 years for this indication.
 
+Paediatric Uveitis
+
+In paediatric uveitis, there is no experience in the treatment with Humira without concomitant treatment with methotrexate.
+Paediatric uveitis patients < 30 kg:
+
+The recommended dose of Humira is 20 mg every other week in combination with methotrexate.
+
+When Humira therapy is initiated, a loading dose of 40 mg may be administered one week prior to the start of maintenance therapy.
+No clinical data are available on the use of a Humira loading dose in children < 6 years of age (see section 5.2).
+
+Paediatric uveitis patients ≥ 30 kg:
+
+The recommended dose of Humira is 40 mg every other week in combination with methotrexate.
+
+When Humira therapy is initiated, a loading dose of 80 mg may be administered one week prior to the start of maintenance therapy.
+
+There is no relevant use of Humira in children aged less than 2 years in this indication.
+
+It is recommended that the benefit and risk of continued long-term treatment should be evaluated on a yearly basis (see section 5.1).
+
 Renal and/or hepatic impairment
 
 Humira has not been studied in these patient populations.
@@ -130,8 +151,6 @@ Full instructions for use are provided in the package leaflet.
 A 40 mg pen and a 40 mg prefilled syringe are also available for patients to administer a full 40 mg dose.
 
 [Humira 40 mg solution for injection in pre-filled syringe]
-
-Ophthalmologists are advised to consult with an appropriate specialist before initiation of treatment with Humira (see section 4.4).
 
 During treatment with Humira, other concomitant therapies (e.g., corticosteroids and/or immunomodulatory agents) should be optimised.
 
@@ -147,12 +166,12 @@ In monotherapy, some patients who experience a decrease in their response may be
 
 Available data suggest that the clinical response is usually achieved within 12 weeks of treatment.
 Continued therapy should be reconsidered in a patient not responding within this time period.
-
 Dose interruption
 
 There may be a need for dose interruption, for instance before surgery or if a serious infection occurs.
 
 Available data suggest that re-introduction of Humira after discontinuation for 70 days or longer resulted in the same magnitudes of clinical response and similar safety profile as before dose interruption.
+
 Ankylosing spondylitis, axial spondyloarthritis without radiographic evidence of AS and psoriatic arthritis
 
 The recommended dose of Humira for patients with ankylosing spondylitis, axial spondyloarthritis without radiographic evidence of AS and for patients with psoriatic arthritis is 40 mg adalimumab administered every other week as a single dose via subcutaneous injection.
@@ -183,6 +202,7 @@ In case there is a need for a more rapid response to therapy, the regimen 160 mg
 
 Alternatively, if a patient has stopped Humira and signs and symptoms of disease recur, Humira may be re-administered.
 There is little experience from re-administration after more than 8 weeks since the previous dose.
+
 During maintenance treatment, corticosteroids may be tapered in accordance with clinical practice guidelines.
 
 Some patients who experience decrease in their response may benefit from an increase in dosing frequency to 40 mg Humira every week.
@@ -202,8 +222,6 @@ The recommended dose of Humira for adult patients with uveitis is an initial dos
 There is limited experience in the initiation of treatment with Humira alone.
 Treatment with Humira can be initiated in combination with corticosteroids and/or with other non-biologic immunomodulatory agents.
 Concomitant corticosteroids may be tapered in accordance with clinical practice starting two weeks after initiating treatment with Humira.
-
-It is recommended that the benefit and risk of continued long-term treatment should be evaluated on a yearly basis (see section 5.1).
 
 Elderly
 
@@ -225,10 +243,6 @@ There is no relevant use of Humira in children aged <4 years for this indication
 Psoriatic arthritis and axial spondyloarthritis including ankylosing spondylitis
 
 There is no relevant use of Humira in the paediatric population for the indications of ankylosing spondylitis and psoriatic arthritis.
-
-Paediatric uveitis
-
-The safety and efficacy of Humira in children aged 2-17 years have not yet been established.
 
 A 40 mg paediatric vial is available for patients who need to administer less than the full 40 mg dose.
 

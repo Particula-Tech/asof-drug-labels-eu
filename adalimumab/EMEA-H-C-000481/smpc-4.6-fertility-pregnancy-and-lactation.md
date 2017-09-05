@@ -17,7 +17,6 @@ Administration of adalimumab is not recommended during pregnancy.
 Adalimumab may cross the placenta into the serum of infants born to women treated with adalimumab during pregnancy.
 Consequently, these infants may be at increased risk for infection.
 Administration of live vaccines to infants exposed to adalimumab in utero is not recommended for 5 months following the mother’s last adalimumab injection during pregnancy.
-
 Breast feeding
 
 It is not known whether adalimumab is excreted in human milk or absorbed systemically after ingestion.

@@ -46,7 +46,6 @@ Use of anti-tuberculosis prophylaxis treatment should also be considered before 
 
 Despite prophylactic treatment for tuberculosis, cases of reactivated tuberculosis have occurred in patients treated with Humira.
 Some patients who have been successfully treated for active tuberculosis have redeveloped tuberculosis while being treated with Humira.
-
 Patients should be instructed to seek medical advice if signs/symptoms suggestive of a tuberculosis infection (e.g., persistent cough, wasting/weight loss, low grade fever, listlessness) occur during or after therapy with Humira.
 
 Other opportunistic infections
@@ -83,7 +82,6 @@ Reports of serious allergic reactions including anaphylaxis have been received f
 If an anaphylactic reaction or other serious allergic reaction occurs, administration of Humira should be discontinued immediately and appropriate therapy initiated.
 
 Immunosuppression
-
 In a study of 64 patients with rheumatoid arthritis that were treated with Humira, there was no evidence of depression of delayed-type hypersensitivity, depression of immunoglobulin levels, or change in enumeration of effector T-, B, - NK-cells, monocyte/macrophages, and neutrophils.
 
 Malignancies and lymphoproliferative disorders
@@ -104,6 +102,7 @@ This rare type of T-cell lymphoma has a very aggressive disease course and is us
 Some of these hepatosplenic T-cell lymphomas with Humira have occurred in young adult patients on concomitant treatment with azathioprine or 6-mercaptopurine used for inflammatory bowel disease.
 The potential risk with the combination of azathioprine or 6-mercaptopurine and Humira should be carefully considered.
 A risk for the development of hepatosplenic T-cell lymphoma in patients treated with Humira cannot be excluded (see section 4.8).
+
 No studies have been conducted that include patients with a history of malignancy or in whom treatment with Humira is continued following development of malignancy.
 Thus additional caution should be exercised in considering Humira treatment of these patients (see section 4.8).
 
@@ -119,7 +118,6 @@ All patients with ulcerative colitis who are at increased risk for dysplasia or 
 This evaluation should include colonoscopy and biopsies per local recommendations.
 
 Haematologic reactions
-
 Rare reports of pancytopenia including aplastic anaemia have been reported with TNF-antagonists.
 Adverse events of the haematologic system, including medically significant cytopenia (e.g. thrombocytopenia, leukopenia) have been reported with Humira.
 All patients should be advised to seek immediate medical attention if they develop signs and symptoms suggestive of blood dyscrasias (e.g. persistent fever, bruising, bleeding, pallor) while on Humira.
@@ -142,6 +140,7 @@ Cases of worsening congestive heart failure have also been reported in patients 
 Humira should be used with caution in patients with mild heart failure (NYHA class I/II).
 Humira is contraindicated in moderate to severe heart failure (see section 4.3).
 Treatment with Humira must be discontinued in patients who develop new or worsening symptoms of congestive heart failure.
+
 Autoimmune processes
 
 Treatment with Humira may result in the formation of autoimmune antibodies.

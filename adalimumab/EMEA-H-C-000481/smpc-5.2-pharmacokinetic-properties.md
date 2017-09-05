@@ -15,12 +15,15 @@ The mean (±SD) serum adalimumab trough concentrations achieved at Week 4 were 1
 For patients who stayed on their randomised therapy, the mean (±SD) adalimumab trough concentrations at Week 52 were 9.5 ± 5.6 µg/ml for the Standard Dose group and 3.5 ± 2.2 µg/ml for the Low Dose group.
 The mean trough concentrations were maintained in patients who continued to receive adalimumab treatment eow for 52 weeks.
 For patients who dose escalated from eow to weekly regimen, the mean (±SD) serum concentrations of adalimumab at Week 52 were 15.3 ± 11.4 μg/ml (40/20 mg, weekly) and 6.7 ± 3.5 μg/ml (20/10 mg, weekly).
-
 Following the administration of 0.8 mg/kg (up to a maximum of 40 mg) subcutaneously every other week to paediatric patients with chronic plaque psoriasis, the mean ± SD steady-state adalimumab trough concentration was approximately 7.4 ± 5.8 µg/ml (79% CV).
 
 Adalimumab exposure in adolescent HS patients was predicted using population pharmacokinetic modelling and simulation based on cross-indication pharmacokinetics in other paediatric patients (paediatric psoriasis, juvenile idiopathic arthritis, paediatric Crohn’s disease, and enthesitis-related arthritis).
 The recommended adolescent HS dosing schedule is 40 mg every other week.
 Since exposure to adalimumab can be affected by body size, adolescents with higher body weight and inadequate response may benefit from receiving the recommended adult dose of 40 mg every week.
+
+Adalimumab exposure in paediatric uveitis patients was predicted using population pharmacokinetic modelling and simulation based on cross-indication pharmacokinetics in other paediatric patients (paediatric psoriasis, juvenile idiopathic arthritis, paediatric Crohn’s disease, and enthesitis-related arthritis).
+No clinical exposure data are available on the use of a loading dose in children < 6 years.
+The predicted exposures indicate that in the absence of methotrexate, a loading dose may lead to an initial increase in systemic exposure.
 
 Adults
 
