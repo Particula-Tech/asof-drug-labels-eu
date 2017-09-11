@@ -18,7 +18,7 @@ A lower starting dose of olanzapine should be considered in patients who are usi
 A decrease in the dose of olanzapine should be considered if treatment with an inhibitor of CYP1A2 is initiated.
 
 Decreased bioavailability
-Activated charcoal reduces the bioavailability of oral olanzapine by 50 to 60% and should be taken at least 2 hours before or after olanzapine.
+Activated charcoal reduces the bioavailability of oral olanzapine by 50 to 60 % and should be taken at least 2 hours before or after olanzapine.
 
 Fluoxetine (a CYP2D6 inhibitor), single doses of antacid (aluminium, magnesium) or cimetidine have not been found to significantly affect the pharmacokinetics of olanzapine.
 
@@ -34,30 +34,11 @@ Therapeutic monitoring of valproate plasma levels did not indicate that valproat
 
 General CNS activity
 Caution should be exercised in patients who consume alcohol or receive medicinal products that can cause central nervous system depression.
+
 The concomitant use of olanzapine with anti-Parkinsonian medicinal products in patients with Parkinson's disease and dementia is not recommended (see section 4.4).
 
 QTc interval
 Caution should be used if olanzapine is being administered concomitantly with medicinal products known to increase QTc interval (see section 4.4).
-
-[ZYPREXA 5 mg coated tablets]
-
-(all sentences already above)
-
-[ZYPREXA 7.5 mg coated tablets]
-
-(all sentences already above)
-
-[ZYPREXA 10 mg coated tablets.]
-
-(all sentences already above)
-
-[ZYPREXA 15 mg coated tablets]
-
-(all sentences already above)
-
-[ZYPREXA 20 mg coated tablets]
-
-(all sentences already above)
 
 [ZYPREXA 10 mg powder for solution for injection]
 

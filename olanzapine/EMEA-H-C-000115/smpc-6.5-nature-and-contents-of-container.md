@@ -4,26 +4,6 @@ Cold-formed aluminium blister strips in cartons of 28, 35, 56, 70 or 98 tablets 
 
 Not all pack sizes may be marketed.
 
-[ZYPREXA 5 mg coated tablets]
-
-(all sentences already above)
-
-[ZYPREXA 7.5 mg coated tablets]
-
-(all sentences already above)
-
-[ZYPREXA 10 mg coated tablets.]
-
-(all sentences already above)
-
-[ZYPREXA 15 mg coated tablets]
-
-(all sentences already above)
-
-[ZYPREXA 20 mg coated tablets]
-
-(all sentences already above)
-
 [ZYPREXA 10 mg powder for solution for injection]
 
 Type I, 5 ml glass vial.

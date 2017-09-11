@@ -2,26 +2,6 @@
 
 No special requirements.
 
-[ZYPREXA 5 mg coated tablets]
-
-(all sentences already above)
-
-[ZYPREXA 7.5 mg coated tablets]
-
-(all sentences already above)
-
-[ZYPREXA 10 mg coated tablets.]
-
-(all sentences already above)
-
-[ZYPREXA 15 mg coated tablets]
-
-(all sentences already above)
-
-[ZYPREXA 20 mg coated tablets]
-
-(all sentences already above)
-
 [ZYPREXA 10 mg powder for solution for injection]
 
 Reconstitute ZYPREXA only with water for injections using standard aseptic techniques for reconstitution of parenteral products.

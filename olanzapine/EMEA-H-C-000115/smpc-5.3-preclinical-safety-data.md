@@ -30,26 +30,6 @@ Olanzapine was not mutagenic or clastogenic in a full range of standard tests, w
 Carcinogenicity
 Based on the results of studies in mice and rats, it was concluded that olanzapine is not carcinogenic.
 
-[ZYPREXA 5 mg coated tablets]
-
-(all sentences already above)
-
-[ZYPREXA 7.5 mg coated tablets]
-
-(all sentences already above)
-
-[ZYPREXA 10 mg coated tablets.]
-
-(all sentences already above)
-
-[ZYPREXA 15 mg coated tablets]
-
-(all sentences already above)
-
-[ZYPREXA 20 mg coated tablets]
-
-(all sentences already above)
-
 [ZYPREXA 10 mg powder for solution for injection]
 
 Signs of oral toxicity in rodents were characteristic of potent antipsychotic compounds: hypoactivity, coma, tremors, clonic convulsions, salivation, and depressed weight gain.

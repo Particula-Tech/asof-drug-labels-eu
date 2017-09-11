@@ -13,15 +13,15 @@ During treatment for schizophrenia, manic episode and recurrence prevention in b
 An increase to a dose greater than the recommended starting dose is advised only after appropriate clinical reassessment and should generally occur at intervals of not less than 24 hours.
 Olanzapine can be given without regards for meals as absorption is not affected by food.
 Gradual tapering of the dose should be considered when discontinuing olanzapine.
+
 Special populations
 
-Elderly patients
+Elderly
 A lower starting dose (5 mg/day) is not routinely indicated but should be considered for those 65 and over when clinical factors warrant (see section 4.4).
 
-Patients with renal and/or hepatic impairment
+Renal and/or hepatic impairment
 A lower starting dose (5 mg) should be considered for such patients.
 In cases of moderate hepatic insufficiency (cirrhosis, Child-Pugh Class A or B), the starting dose should be 5 mg and only increased with caution.
-
 Smokers
 The starting dose and dose range need not be routinely altered for non-smokers relative to smokers.
 The metabolism of olanzapine may be induced by smoking.
@@ -35,26 +35,6 @@ Dose escalation, when indicated, should be conservative in such patients.
 Paediatric population
 Olanzapine is not recommended for use in children and adolescents below 18 years of age due to a lack of data on safety and efficacy.
 A greater magnitude of weight gain, lipid and prolactin alterations has been reported in short term studies of adolescent patients than in studies of adult patients (see sections 4.4, 4.8, 5.1 and 5.2).
-
-[ZYPREXA 5 mg coated tablets]
-
-(all sentences already above)
-
-[ZYPREXA 7.5 mg coated tablets]
-
-(all sentences already above)
-
-[ZYPREXA 10 mg coated tablets.]
-
-(all sentences already above)
-
-[ZYPREXA 15 mg coated tablets]
-
-(all sentences already above)
-
-[ZYPREXA 20 mg coated tablets]
-
-(all sentences already above)
 
 [ZYPREXA 10 mg powder for solution for injection]
 
