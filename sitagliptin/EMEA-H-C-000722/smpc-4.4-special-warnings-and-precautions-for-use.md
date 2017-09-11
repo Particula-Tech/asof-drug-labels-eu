@@ -27,3 +27,7 @@ These reactions include anaphylaxis, angioedema, and exfoliative skin conditions
 Onset of these reactions occurred within the first 3 months after initiation of treatment, with some reports occurring after the first dose.
 If a hypersensitivity reaction is suspected, Januvia should be discontinued.
 Other potential causes for the event should be assessed, and alternative treatment for diabetes initiated.
+
+Bullous pemphigoid
+There have been post-marketing reports of bullous pemphigoid in patients taking DPP-4 inhibitors including sitagliptin.
+If bullous pemphigoid is suspected, Januvia should be discontinued.

@@ -151,8 +151,8 @@ Rates of Composite Cardiovascular Outcomes and Key Secondary Outcomes
 | Cardiovascular death | 380 (5.2) | 1.7 | 366 (5.0) | 1.7 | 1.03 (0.89-1.19) | 0.711 |
 | All myocardial infarction (fatal and non-fatal) | 300 (4.1) | 1.4 | 316 (4.3) | 1.5 | 0.95 (0.81–1.11) | 0.487 |
 | All stroke (fatal and non-fatal) | 178 (2.4) | 0.8 | 183 (2.5) | 0.9 | 0.97 (0.79–1.19) | 0.760 |
-| Hospitalization for unstable | 116 (1.6) | 0.5 | 129 (1.8) | 0.6 | 0.90 (0.70–1.16) | 0.419 |
-| i Death from any cause | 547 (7.5) | 2.5 | 537 (7.3) | 2.5 | 1.01 (0.90–1.14) | 0.875 |
+| Hospitalization for unstable angina | 116 (1.6) | 0.5 | 129 (1.8) | 0.6 | 0.90 (0.70–1.16) | 0.419 |
+| Death from any cause | 547 (7.5) | 2.5 | 537 (7.3) | 2.5 | 1.01 (0.90–1.14) | 0.875 |
 | Hospitalization for heart failure‡ | 228 (3.1) | 1.1 | 229 (3.1) | 1.1 | 1.00 (0.83–1.20) | 0.983 |
 
 * Incidence rate per 100 patient-years is calculated as 100 × (total number of patients with ≥1 event during eligible exposure period per total patient-years of follow-up).
