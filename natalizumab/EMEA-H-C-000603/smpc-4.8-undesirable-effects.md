@@ -67,9 +67,15 @@ The nature of the infections was generally similar in natalizumab- and placebo-t
 A case of cryptosporidium diarrhoea was reported in MS clinical trials.
 In other clinical trials, cases of additional opportunistic infections have been reported, some of which were fatal.
 The majority of patients did not interrupt natalizumab therapy during infections and recovery occurred with appropriate treatment.
+
 In clinical trials, herpes infections (Varicella-Zoster virus, Herpes-simplex virus) occurred slightly more frequently in natalizumab-treated patients than in placebo-treated patients.
-In post marketing experience,serious, life-threatening, and sometimes fatal cases of encephalitis and meningitis caused by herpes simplex or varicella zoster have been reported in multiple sclerosis patients receiving TYSABRI.
+In post marketing experience, serious, life-threatening, and sometimes fatal cases of encephalitis and meningitis caused by herpes simplex or varicella zoster have been reported in multiple sclerosis patients receiving TYSABRI.
 The duration of treatment with TYSABRI prior to onset ranged from a few months to several years (see section 4.4).
+
+In postmarketing experience, rare cases of ARN have been observed in patients receiving TYSABRI.
+Some cases have occurred in patients with central nervous system (CNS) herpes infections (e.g. herpes meningitis and encephalitis).
+Serious cases of ARN, either affecting one or both eyes, led to blindness in some patients.
+The treatment reported in these cases included anti-viral therapy and in some cases, surgery (see section 4.4).
 
 Cases of PML have been reported from clinical trials, post-marketing observational studies and post-marketing passive surveillance.
 PML usually leads to severe disability or death (see section 4.4).
@@ -100,6 +106,12 @@ All changes in haematological variables returned to pre-treatment values, usuall
 In post-marketing experience, there have also been reports of eosinophilia (eosinophil count >1,500/mm3) without clinical symptoms.
 In such cases where TYSABRI therapy was discontinued the elevated eosinophil levels resolved.
 
+Paediatric population
+
+Serious adverse events were evaluated in 621 MS paediatric patients included in a meta-analysis (see also Section 5.1).
+Within the limitations of these data, there were no new safety signals identified in this patient population.
+1 case of herpes meningitis was reported in the meta-analysis.
+No cases of PML were identified in the meta-analysis, however, PML has been reported in natalizumab treated paediatric patients in the post-marketing setting.
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

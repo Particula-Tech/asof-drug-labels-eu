@@ -39,9 +39,11 @@ The mechanism for elimination and results from population pharmacokinetics sugge
 
 Paediatric population
 
-TYSABRI is contraindicated in children and adolescents below the age of 18 years (see section 4.3).
-
+The safety and efficacy of TYSABRI in children and adolescents up to 18 years have not been established.
+No recommendation on a posology can be made.
+Currently available data are described in sections 4.8 and 5.1
 Method of administration
+
 TYSABRI is for intravenous use.
 
 For instructions on dilution of the medicinal product before administration, see section 6.6.

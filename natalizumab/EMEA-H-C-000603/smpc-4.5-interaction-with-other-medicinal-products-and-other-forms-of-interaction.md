@@ -1,6 +1,6 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
-TYSABRI is contraindicated in combination with beta-interferons or glatiramer acetate (see section 4.3).
+TYSABRI is contraindicated in combination with other DMTs (see section 4.3).
 
 Immunisations
 

@@ -16,8 +16,8 @@ The following risk factors are associated with an increased risk of PML.
 
 Patients who are anti-JCV antibody positive are at an increased risk of developing PML compared to patients who are anti-JCV antibody negative.
 Patients who have all three risk factors for PML (i.e., are anti-JCV antibody positive and have received more than 2 years of TYSABRI therapy, and have received prior immunosuppressant therapy) have a significantly higher risk of PML.
-
 In anti-JCV antibody positive TYSABRI treated patients who have not used prior immunosuppressants the level of anti-JCV antibody response (index) is associated with the level of risk for PML.
+
 In patients considered at high risk treatment with TYSABRI should only be continued if the benefits outweigh the risks.
 For the estimation of PML risk in the different patient subgroups, please refer to the Physician Information and Management Guidelines.
 
@@ -30,7 +30,8 @@ Re-testing of anti-JCV antibody negative patients every 6 months is recommended.
 Retesting low index patients who have no history of prior immunosuppressant use every 6 months once they reach the 2 year treatment point is recommended.
 
 The anti-JCV antibody assay (ELISA) should not be used to diagnose PML.
-Anti-JCV antibody testing should not be performed during, or for at least two weeks following, plasma exchange due to the removal of antibodies from the serum.
+Use of plasmapheresis (PLEX) or intravenous immunoglobulin (IVIg) can affect meaningful interpretation of serum anti-JCV antibody testing.
+Patients should not be tested for anti-JCV antibodies within 2 weeks of PLEX due to removal of antibodies from the serum, or within 6 months of IVIg (i.e. 6 months = 5x half-life for immunoglobulins).
 
 For further information on anti-JCV antibody testing please see Physician Information and Management Guidelines.
 
@@ -53,8 +54,8 @@ It is unknown if patients switching from these therapies to TYSABRI have an incr
 
 PML should be considered as a differential diagnosis in any MS patient taking TYSABRI presenting with neurological symptoms and/or new brain lesions in MRI.
 Cases of asymptomatic PML based on MRI and positive JCV DNA in the cerebrospinal fluid have been reported.
-
 Physicians should refer to the Physician Information and Management Guidelines for further information on managing the risk of PML in TYSABRI-treated patients.
+
 If PML or JCV GCN is suspected, further dosing must be suspended until PML has been excluded.
 
 The clinician should evaluate the patient to determine if the symptoms are indicative of neurological dysfunction and, if so, whether these symptoms are typical of MS or possibly suggestive of PML or JCV GCN.
@@ -86,8 +87,14 @@ TYSABRI increases the risk of developing encephalitis and meningitis caused by h
 Serious, life-threatening, and sometimes fatal cases have been reported in the postmarketing setting in multiple sclerosis patients receiving TYSABRI (see section 4.8).
 If herpes encephalitis or meningitis occurs, the medicinal product should be discontinued, and appropriate treatment for herpes encephalitis or meningitis should be administered.
 
+Acute retinal necrosis (ARN) is a rare fulminant viral infection of the retina caused by the family of herpes viruses (e.g. varicella zoster).
+ARN has been observed in patients being administered TYSABRI and can be potentially blinding.
+Patients presenting with eye symptoms such as decreased visual acuity, redness and painful eye should be referred for retinal screening for ARN.
+Following clinical diagnosis of ARN, discontinuation of TYSBABRI should be considered in these patients.
+
 Prescribers should be aware of the possibility that other opportunistic infections may occur during TYSABRI therapy and should include them in the differential diagnosis of infections that occur in TYSABRI-treated patients.
 If an opportunistic infection is suspected, dosing with TYSABRI is to be suspended until such infections can be excluded through further evaluations.
+
 If a patient receiving TYSABRI develops an opportunistic infection, dosing of the medicinal product must be permanently discontinued.
 
 Educational guidance
@@ -126,6 +133,7 @@ Prior treatment with immunosuppressive or immunomodulatory therapies
 Patients with a treatment history of immunosuppressant medications are at increased risk for PML.
 No studies have been performed to evaluate the efficacy and safety of TYSABRI when switching patients from DMTs with an immunosuppressant effect.
 It is unknown if patients switching from these therapies to TYSABRI have an increased risk of PML, therefore these patients should be monitored more frequently (i.e. similarly to patients switching from immunosuppressants to TYSABRI, see MRI screening for PML).
+
 Care should be taken with patients who have previously received immunosuppressants to allow sufficient time for immune function recovery to occur.
 Physicians must evaluate each individual case to determine whether there is evidence of an immunocompromised state prior to commencing treatment with TYSABRI (see section 4.3).
 When switching patients from another DMT to TYSABRI, the half-life and mode of action of the other therapy must be considered in order to avoid an additive immune effect whilst at the same time minimising the risk of disease reactivation.
@@ -146,8 +154,6 @@ Caution regarding potential concomitant immune effects is required when switchin
 Alemtuzumab has profound prolonged immunosuppressive effects.
 As the actual duration of these effects is unknown, initiating treatment with TYSABRI after alemtuzumab is not recommended unless the benefits clearly outweigh the risks for the individual patient.
 
-.
-
 Immunogenicity
 
 Disease exacerbations or infusion related events may indicate the development of antibodies against natalizumab.
@@ -163,6 +169,7 @@ In some instances, the reaction reoccurred when TYSABRI was reintroduced.
 Some patients with a past medical history of an abnormal liver test have experienced an exacerbation of abnormal liver test while on TYSABRI.
 Patients should be monitored as appropriate for impaired liver function, and be instructed to contact their physician in case signs and symptoms suggestive of liver injury occur, such as jaundice and vomiting.
 In cases of significant liver injury TYSABRI should be discontinued.
+
 Stopping TYSABRI therapy
 
 If a decision is made to stop treatment with natalizumab, the physician needs to be aware that natalizumab remains in the blood, and has pharmacodynamic effects (e.g increased lymphocyte counts) for approximately 12 weeks following the last dose.

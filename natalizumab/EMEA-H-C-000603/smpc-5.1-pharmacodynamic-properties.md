@@ -73,9 +73,10 @@ Hazard ratio for disability progression was 0.36 (95% CI: 0.17, 0.76) p = 0.008.
 These results were obtained from a post hoc analysis and should be interpreted cautiously.
 No information on the severity of the relapses before inclusion of patients in the study is available.
 
-Interim analysis of results (as of May 2015) from the ongoing TYSABRI Observational Program (TOP), a phase 4, multicentre, single-arm study (n=5770) demonstrated that patients switching from beta interferon (n= 3255) or GA (n= 1384) to TYSABRI showed a sustained, significant decrease in annualised relapse rate (p< 0.0001).
+Interim analysis of results (as of May 2015) from the ongoing TYSABRI Observational Program (TOP), a phase 4, multicentre, single-arm study (n=5770) demonstrated that patients switching from beta interferon (n= 3255) or glatiramer acetate (n= 1384) to TYSABRI showed a sustained, significant decrease in annualised relapse rate (p< 0.0001).
 Mean EDSS scores remained stable over 5 years.
-Consistent with efficacy results observed for patients switching from beta interferon or GA to TYSABRI, for patients switching from fingolimod (n=147) to TYSABRI, a significant decrease in ARR was observed, which remained stable over 2 years, and mean EDSS scores remained similar from baseline to Year 2.
+Consistent with efficacy results observed for patients switching from beta interferon or glatiramer acetate to TYSABRI, for patients switching from fingolimod (n=147) to TYSABRI, a significant decrease in annualised relapse rate (ARR) was observed, which remained stable over 2 years, and mean EDSS scores remained similar from baseline to Year 2.
 The limited sample size and shorter duration of TYSABRI exposure for this subgroup of patients should be considered when interpreting these data.
-
-The European Medicines Agency has deferred the obligation to submit the results of studies with TYSABRI in one or more subsets of the paediatric population in multiple sclerosis (see section 4.2 for information on paediatric use).
+A post-marketing meta-analysis was conducted using data from 621 paediatric MS patients treated with TYSABRI (median age 17 years, range was 7-18 years, 91% aged ≥14 years).
+Within this analysis, a limited subset of patients with data available prior to treatment (158 of the 621 patients) demonstrated a reduction in ARR from 1.466 (95% CI 1.337, 1.604) prior to treatment to 0.110
+(95% CI 0.094, 0.128).

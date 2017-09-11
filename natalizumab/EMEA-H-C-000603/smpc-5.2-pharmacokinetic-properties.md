@@ -13,7 +13,8 @@ Body weight was found to influence clearance in a less-than-proportional manner,
 The change in clearance was not clinically significant.
 The presence of persistent anti-natalizumab antibodies increased natalizumab clearance approximately 3-fold, consistent with reduced serum natalizumab concentrations observed in persistently antibody-positive patients, (see section 4.8).
 
-The pharmacokinetics of natalizumab in paediatric MS patients or in patients with renal or hepatic insufficiency has not been studied.
+The pharmacokinetics of natalizumab in paediatric MS patients has not been established.
+The pharmacokinetics of natalizumab in patients with renal or hepatic insufficiency has not been studied.
 
 The effect of plasma exchange on natalizumab clearance and pharmacodynamics was evaluated in a study of 12 MS patients.
 Estimates of the total natalizumab removal after 3 plasma exchanges (over a 5-8 day interval) was approximately 70-80%.

@@ -1,6 +1,7 @@
 # 5.3 Preclinical safety data
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity and genotoxicity.
+
 Consistent with the pharmacological activity of natalizumab, altered trafficking of lymphocytes was seen as white blood cell increases as well as increased spleen weights in most in vivo studies.
 These changes were reversible and did not appear to have any adverse toxicological consequences.
 
