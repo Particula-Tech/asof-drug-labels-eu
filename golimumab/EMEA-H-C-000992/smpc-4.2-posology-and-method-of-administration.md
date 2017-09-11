@@ -26,11 +26,11 @@ Simponi given as an initial dose of 200 mg, followed by 100 mg at week 2, then 5
 
 Patients with body weight greater than or equal to 80 kg
 Simponi given as an initial dose of 200 mg, followed by 100 mg at week 2, then 100 mg every 4 weeks, thereafter (see section 5.1).
-
 During maintenance treatment, corticosteroids may be tapered in accordance with clinical practice guidelines.
 
 Available data suggest that clinical response is usually achieved within 12-14 weeks of treatment (after 4 doses).
 Continued therapy should be reconsidered in patients who show no evidence of therapeutic benefit within this time period.
+
 Missed dose
 If a patient forgets to inject Simponi on the planned date, the forgotten dose should be injected as soon as the patient remembers.
 Patients should be instructed not to inject a double dose to make up for the forgotten dose.
@@ -65,16 +65,8 @@ If multiple injections are required, the injections should be administered at di
 
 For administration instructions, see section 6.6.
 
-[Simponi 50 mg solution for injection in pre-filled syringe.]
-
-(all sentences already above)
-
 [Simponi 100 mg solution for injection in pre-filled pen.]
 
 Simponi treatment is to be initiated and supervised by qualified physicians experienced in the diagnosis and treatment of rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, non-radiographic axial spondyloarthritis, or ulcerative colitis.
 
 Simponi 100 mg is not recommended in children aged less than 18.
-
-[Simponi 100 mg solution for injection in pre-filled syringe.]
-
-(all sentences already above)

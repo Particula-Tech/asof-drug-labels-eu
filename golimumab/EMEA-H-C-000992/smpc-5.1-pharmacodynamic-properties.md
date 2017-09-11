@@ -19,11 +19,11 @@ Rheumatoid arthritis
 The efficacy of Simponi was demonstrated in three multi-centre, randomised, double-blind, placebo-controlled studies in over 1500 patients ≥18 years of age with moderately to severely active RA diagnosed according to American College of Rheumatology (ACR) criteria for at least 3 months prior to screening.
 Patients had at least 4 swollen and 4 tender joints.
 Simponi or placebo were subcutaneously administered every 4 weeks.
-
 GO-FORWARD evaluated 444 patients who had active RA despite a stable dose of at least 15 mg/week of MTX and who had not been previously treated with an anti-TNF agent.
 Patients were randomised to receive placebo + MTX, Simponi 50 mg + MTX, Simponi 100 mg + MTX or Simponi 100 mg + placebo.
 Patients receiving placebo + MTX were switched to Simponi 50 mg + MTX after week 24.
 At week 52, patients entered an open label long-term extension.
+
 GO-AFTER evaluated 445 patients who were previously treated with one or more of the anti-TNF agents adalimumab, etanercept, or infliximab.
 Patients were randomised to receive placebo, Simponi 50 mg, or Simponi 100 mg.
 Patients were allowed to continue concomitant DMARD therapy with MTX, sulfasalazine (SSZ), and/or hydroxychloroquine (HCQ) during the study.
@@ -52,7 +52,6 @@ Among patients remaining in the study and treated with Simponi, similar rates of
 ACR 20/50/70 response was observed from week 104 through week 256.
 
 In GO-AFTER, the percentage of patients achieving an ACR 20 response was greater for patients receiving Simponi than for patients receiving placebo regardless of the reason reported for discontinuation of one or more prior anti-TNF therapies.
-
 Table 2
 Key efficacy outcomes from the controlled portions of GO-FORWARD, GO-AFTER and GO-BEFORE.
 
@@ -101,6 +100,7 @@ Key results for the Simponi 50 mg dose at week 52 are presented in Table 3.
 The number of patients with no new erosions or a change from baseline in total vdH-S Score ≤0 was significantly higher in the Simponi treatment group than in the control group (p = 0.003).
 The radiographic effects observed at week 52 were maintained through week 104.
 Among patients remaining in the study and treated with Simponi, radiographic effects were similar from week 104 through week 256.
+
 Table 3
 Radiographic mean (SD) changes from baseline in total vdH-S score at week 52 in the overall population of GO-BEFORE
 
@@ -129,7 +129,7 @@ Among patients remaining in the study and treated with Simponi, improvement in H
 
 In GO-FORWARD clinically meaningful and statistically significant improvements were demonstrated in health-related quality of life as measured by the physical component score of the SF-36 in patients treated with Simponi versus placebo at week 24.
 Among patients who remained on the Simponi treatment to which they were randomised at study start, improvement of the SF-36 physical component was maintained through week 104.
-Among patients remaining in the study and treated Simponi, improvement of the SF-36 physical component was similar from week 104 through week 256.
+Among patients remaining in the study and treated with Simponi, improvement of the SF-36 physical component was similar from week 104 through week 256.
 In GO-FORWARD and GO-AFTER, statistically significant improvements were observed in fatigue as measured by functional assessment of chronic illness therapy-fatigue scale (FACIT-F).
 
 Psoriatic arthritis
@@ -146,6 +146,7 @@ The co-primary endpoints were the percentage of patients achieving ACR 20 respon
 
 In general, no clinically meaningful differences in measures of efficacy were observed between the Simponi 50 mg and 100 mg dosing regimens through week 104.
 By study design, patients in the long-term extension may have switched between the 50 mg and 100 mg Simponi doses at the discretion of the study physician.
+
 Signs and symptoms
 Key results for the 50 mg dose at weeks 14 and 24 are shown in table 4 and described below.
 
@@ -228,7 +229,6 @@ Key efficacy outcomes from GO-RAISE.
 * p ≤0.001 for all comparisons a n reflects randomised patients; actual number of patients evaluable for each endpoint may vary by timepoint
 
 Among patients remaining in the study and treated with Simponi, the proportion of patients with an ASAS 20 and ASAS 40 response were similar from week 24 through week 256.
-
 Statistically significant responses in BASDAI 50, 70 and 90 (p ≤0.017) were also seen at weeks 14 and 24.
 Improvements in key measures of disease activity were observed at the first assessment
 (week 4) after the initial Simponi administration and were maintained through week 24.
@@ -243,7 +243,8 @@ Non-radiographic axial spondyloarthritis
 The safety and efficacy of Simponi were evaluated in a multi-centre, randomised, double-blind, placebo-controlled study (GO-AHEAD) in 197 adult patients with severe active nr-Axial SpA (defined as those patients meeting the ASAS classification criteria of axial spondyloarthritis but did not meet the modified New York criteria for AS).
 Patients enrolled in this study had active disease (defined as a BASDAI ≥4 and a Visual Analogue Scale (VAS) for total back pain of ≥4, each on a scale of 0-10 cm) despite current or previous NSAID therapy and had not previously been treated with any biological agents including anti-TNF therapy.
 Patients were randomly assigned to placebo or Simponi 50 mg administered subcutaneously every 4 weeks.
-At week 16, patients entered an open label period in which all patients received Simponi 50 mg administered subcutaneously every 4 weeks through week 48.
+At week 16, patients entered an open label period in which all patients received Simponi 50 mg administered subcutaneously every 4 weeks through week 48 with efficacy assessments performed through week 52 and safety follow-up through week 60.
+Approximately 93% of patients who were receiving Simponi at the beginning of the open-label extension (week 16) remained on treatment through the end of the study (week 52).
 Analyses were performed on both the All Treated (AT, N = 197) and Objective Signs of Inflammation (OSI, N = 158, defined by elevated CRP and/or evidence of sacroiliitis on MRI at baseline) populations.
 Placebo-controlled efficacy data were collected and analysed through week 16.
 The primary endpoint was the proportion of patients achieving ASAS 20 response at week 16.
@@ -277,11 +278,13 @@ Statistically significant improvements in signs and symptoms of severe active nr
 Improvements were observed at the first assessment (week 4) after the initial Simponi administration.
 SPARCC score as measured by MRI showed statistically significant reductions in SI joint inflammation at week 16 in patients treated with Simponi 50 mg compared to placebo (Table 6).
 Pain as assessed by the Total Back Pain and Nocturnal Back Pain VAS, and disease activity as measured by ASDAS-C also showed statistically significant improvement from baseline to week 16 in patients treated with Simponi 50 mg compared to placebo (p < 0.0001).
+
 Statistically significant improvements in spinal mobility as assessed by BASMI (Bath Ankylosing Spondylitis Metrology Index) and in physical function as assessed by the BASFI were demonstrated in Simponi 50 mg-treated patients as compared to placebo-treated patients (p < 0.0001).
 Patients treated with Simponi experienced significantly more improvements in health-related quality of life as assessed by ASQoL, EQ-5D, and physical and mental components of SF-36, and experienced significantly more improvements in productivity as assessed by greater reductions in overall work impairment and in activity impairment as assessed by the WPAI questionnaire than patients receiving placebo.
 
-For all of the endpoints described above, statistically significant results were also demonstrated in the OSI population.
-Similar improvements in signs and symptoms, spinal mobility, and physical function were observed at week 16 through week 24 among patients remaining in the study and treated with Simponi 50 mg.
+For all of the endpoints described above, statistically significant results were also demonstrated in the OSI population at week 16.
+
+In both the AT and OSI populations, the improvements in signs and symptoms, spinal mobility, physical function, quality of life, and productivity observed at week 16 among patients treated with Simponi 50 mg continued in those remaining in the study at week 52.
 
 Ulcerative colitis
 The efficacy of Simponi was evaluated in two randomised, double-blind, placebo-controlled clinical studies in adult patients.
@@ -296,13 +299,14 @@ Patients were randomised to receive Simponi 50 mg, Simponi 100 mg or placebo adm
 Concomitant stable doses of oral aminosalicylates, and/or immunomodulatory agents were permitted.
 Corticosteroids were to be tapered at the start of the maintenance study.
 The efficacy of Simponi through week 54 was assessed in this study.
+Patients who completed the maintenance study through week 54 continued treatment in a study-extension, with efficacy evaluated through week 216.
+Efficacy evaluation in the study extension was based on changes in corticosteroid use, Physician’s Global Assessment (PGA) of disease activity, and improvement in quality of life as measured by Inflammatory Bowel Disease Questionnaire (IBDQ).
 
 Table 7
-Key efficacy outcomes from PURSUIT - Induction and PURSUIT - Maintenance
+Key efficacy outcomes from PURSUIT - Induction and PURSUIT - Maintenance PURSUIT-Induction
 
-| PURSUIT-Induction |  |  |  |
-| --- | --- | --- | --- |
 |  | Placebo N = 251 | Simponi 200/100 mg N = 253 |  |
+| --- | --- | --- | --- |
 | Percentage of patients |  |  |  |
 | Patients in clinical response at week 6a | 30% | 51%** |  |
 | Patients in clinical remission at week 6b | 6% | 18%** |  |
@@ -327,26 +331,30 @@ More Simponi-treated patients demonstrated sustained mucosal healing (patients w
 
 Among the 54% of patients (247/456) who were receiving concomitant corticosteroids at the start of PURSUIT-Maintenance, the proportion of patients who maintained clinical response through week 54 and were not receiving concomitant corticosteroids at week 54 was greater in the 50 mg group (38%, 30/78) and 100 mg group (30%, 25/82) compared with the placebo group (21%, 18/87).
 The proportion of patients who eliminated corticosteroids by week 54 was greater in the 50 mg group (41%, 32/78) and 100 mg group (33%, 27/82) compared with the placebo group (22%, 19/87).
+Among patients who entered the study extension, the proportion of subjects who remained corticosteroid free was generally maintained through week 216.
 
 At week 6, Simponi significantly improved quality of life as measured by change from baseline in a disease specific measure, IBDQ (inflammatory bowel disease questionnaire).
 Among patients who received Simponi maintenance treatment, the improvement in quality of life as measured by IBDQ was maintained through week 54.
+Approximately 63% of patients who were receiving Simponi at the beginning of the study extension (week 56), remained on treatment through the end of the study (last golimumab administration at week 212).
 
 Immunogenicity
-Across the Phase III RA, PsA and AS studies through week 52, antibodies to golimumab were detected by the enzyme immunoassay (EIA) method in 5% (105/2115) of golimumab treated patients and, where tested, nearly all antibodies were neutralising in vitro.
+Across the Phase III RA, PsA and AS studies through week 52, antibodies to golimumab were detected by the enzyme immunoassay (EIA) method in 5% (105/2062) of golimumab treated patients and, where tested, nearly all antibodies were neutralising in vitro.
 Similar rates were shown across rheumatologic indications.
-Treatment with concomitant MTX resulted in a lower proportion of patients with antibodies to golimumab than patients receiving golimumab without MTX (approximately 3% [41/1262] versus 8% [64/853], respectively).
+Treatment with concomitant MTX resulted in a lower proportion of patients with antibodies to golimumab than patients receiving golimumab without MTX (approximately 3% [41/1235] versus 8% [64/827], respectively).
 
-In nr-Axial SpA, antibodies to golimumab were detected in 4% (4/93) of golimumab treated patients through week 16 by the EIA method.
+In nr-Axial SpA, antibodies to golimumab were detected in 7% (14/193) of golimumab treated patients through week 52 by the EIA method.
 
 In the Phase II and III UC studies through week 54, antibodies to golimumab were detected by the EIA method in 3% (26/946) of golimumab treated patients.
 Sixty-eight percent (21/31) of antibody-positive patients had neutralising antibodies in vitro.
 Treatment with concomitant immunomodulators (azathioprine, 6-mercaptopurine and MTX) resulted in a lower proportion of patients with antibodies to golimumab than patients receiving golimumab without immunomodulators (1% (4/308) versus 3% (22/638), respectively).
+Of patients that continued in the study extension and had evaluable samples through week 228, antibodies to golimumab were detected in 4% (23/604) of golimumab treated patients.
+Eighty-two percent (18/22) of antibody-positive patients had neutralizing antibodies in vitro.
 
 A drug-tolerant EIA method was used in the pJIA study for the detection of antibodies to golimumab.
 Due to the higher sensitivity and the improved drug tolerance, a higher incidence of antibodies to golimumab was expected to be detected with the drug-tolerant EIA method compared to the EIA method.
 In the Phase III pJIA study through week 48, antibodies to golimumab were detected by the drug-tolerant EIA method in 40% (69/172) of golimumab treated children of which a majority had a titre lower than 1:1000.
 An effect on serum golimumab concentrations was seen at titres of > 1:100 while an effect on efficacy was not seen until titres of > 1:1000, though the numbers of children with titres of > 1:1000 were low (N = 8).
-Among the children who tested positive for antibodies to golimumab, 39% (25/69) had neutralising antibodies.
+Among the children who tested positive for antibodies to golimumab, 39% (25/65) had neutralising antibodies.
 The higher incidence of antibodies with the drug-tolerant EIA method, because they were mainly low titre antibodies, did not have an apparent impact on drug levels, efficacy and safety and therefore does not represent any new safety signal.
 
 The presence of antibodies to golimumab may increase the risk of injection site reactions
@@ -393,24 +401,33 @@ a baseline = week 0 b “n” reflects enrolled patients c VAS: Visual Analogue 
 The primary endpoint, the proportion of children who were ACR Ped 30 responders at week 16 and who did not experience a flare between week 16 and week 48, was not achieved.
 The majority of children did not experience a flare between week 16 and week 48 (59% in the Simponi + MTX and 53% in the placebo + MTX groups, respectively; p = 0.41).
 
-Pre-specified subgroup analyses of the primary endpoint by baseline CRP (≥1 mg/dL vs < 1 mg/dL) demonstrated higher flare rates in placebo + MTX vs golimumab + MTX treated subjects among subjects with baseline CRP ≥1 mg/dL (87% vs 40% p = 0.0068).
+Pre-specified subgroup analyses of the primary endpoint by baseline CRP (≥1 mg/dL vs < 1 mg/dL) demonstrated higher flare rates in placebo + MTX vs Simponi + MTX treated subjects among subjects with baseline CRP ≥1 mg/dL (87% vs 40% p = 0.0068).
 
 At week 48, 53% and 55% of children in the Simponi + MTX group and placebo + MTX group, respectively, were ACR Ped 30 responders, and 40% and 28% of children in the Simponi + MTX group and placebo + MTX group, respectively, achieved inactive disease.
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with Simponi in the paediatric population in ulcerative colitis (see section 4.2 for information on paediatric use).
 
-[Simponi 50 mg solution for injection in pre-filled syringe.]
-
-(all sentences already above)
-
 [Simponi 100 mg solution for injection in pre-filled pen.]
 
-Across the Phase III RA, PsA and AS studies through week 52, antibodies to golimumab were detected in 5% (105/2115) of golimumab treated patients and, where tested, nearly all antibodies were neutralising in vitro.
+Patients who completed the maintenance study through week 54 continued treatment in a study extension, with efficacy evaluated through week 216.
 
-In nr-Axial SpA, antibodies to golimumab were detected in 4% (4/93) of golimumab treated patients through week 16.
+Key efficacy outcomes from PURSUIT - Induction and PURSUIT - Maintenance
+
+| PURSUIT-Induction |  |  |  |
+| --- | --- | --- | --- |
+|  | Placebo N = 251 | Simponi 200/100 mg N = 253 |  |
+| Percentage of patients |  |  |  |
+| Patients in clinical response at week 6a | 30% | 51%** |  |
+| Patients in clinical remission at week 6b | 6% | 18%** |  |
+| Patients with mucosal healing at week 6c | 29% | 42%* |  |
+| PURSUIT-Maintenance |  |  |  |
+|  | Placebod N = 154 | Simponi 50 mg N = 151 | Simponi 100 mg N = 151 |
+| Percentage of patients |  |  |  |
+| Maintenance of response (Patients in clinical response through week 54)e | 31% | 47%* | 50%** |
+| Sustained remission (Patients in clinical remission at both week 30 and week 54)f | 16% | 23%g | 28%* |
+
+Across the Phase III RA, PsA and AS studies through week 52, antibodies to golimumab were detected in 5% (105/2062) of golimumab treated patients and, where tested, nearly all antibodies were neutralising in vitro.
+
+In nr-Axial SpA, antibodies to golimumab were detected in 7% (14/193) of golimumab treated patients through week 52.
 
 In the Phase II and III UC studies through week 54, antibodies to golimumab were detected in 3% (26/946) of golimumab treated patients.
-
-[Simponi 100 mg solution for injection in pre-filled syringe.]
-
-(all sentences already above)

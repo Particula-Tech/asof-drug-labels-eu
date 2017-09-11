@@ -19,20 +19,13 @@ Simponi has been shown to reduce the rate of progression of peripheral joint dam
 Axial spondyloarthritis
 Ankylosing spondylitis (AS)
 Simponi is indicated for the treatment of severe, active ankylosing spondylitis in adults who have responded inadequately to conventional therapy.
+
 Non-radiographic axial spondyloarthritis (nr-Axial SpA)
 Simponi is indicated for the treatment of adults with severe, active non-radiographic axial spondyloarthritis with objective signs of inflammation as indicated by elevated C-reactive protein (CRP) and/or magnetic resonance imaging (MRI) evidence, who have had an inadequate response to, or are intolerant to nonsteroidal anti-inflammatory drugs (NSAIDs).
 
 Ulcerative colitis (UC)
 Simponi is indicated for treatment of moderately to severely active ulcerative colitis in adult patients who have had an inadequate response to conventional therapy including corticosteroids and 6-mercaptopurine (6-MP) or azathioprine (AZA), or who are intolerant to or have medical contraindications for such therapies.
 
-[Simponi 50 mg solution for injection in pre-filled syringe.]
-
-(all sentences already above)
-
 [Simponi 100 mg solution for injection in pre-filled pen.]
 
 For information regarding the polyarticular juvenile idiopathic arthritis indication, please see the Simponi 50 mg SmPC.
-
-[Simponi 100 mg solution for injection in pre-filled syringe.]
-
-(all sentences already above)

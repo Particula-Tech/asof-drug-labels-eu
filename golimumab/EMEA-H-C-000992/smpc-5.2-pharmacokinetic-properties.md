@@ -33,7 +33,6 @@ Patients who developed anti-golimumab antibodies generally had low trough steady
 Linearity
 Golimumab exhibited approximately dose-proportional pharmacokinetics in patients with RA over the dose range of 0.1 to 10.0 mg/kg following a single intravenous dose.
 Following a single SC dose in healthy subjects, approximately dose-proportional pharmacokinetics were also observed over a dose range of 50 mg to 400 mg.
-
 Effect of weight on pharmacokinetics
 There was a trend toward higher apparent clearance of golimumab with increasing weight
 (see section 4.2).

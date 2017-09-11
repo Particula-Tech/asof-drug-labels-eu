@@ -4,6 +4,7 @@ Infections
 Patients must be monitored closely for infections including tuberculosis before, during and after treatment with Simponi.
 Because the elimination of golimumab may take up to 5 months, monitoring should be continued throughout this period.
 Further treatment with Simponi must not be given if a patient develops a serious infection or sepsis (see section 4.3).
+
 Simponi should not be given to patients with a clinically important, active infection.
 Caution should be exercised when considering the use of Simponi in patients with a chronic infection or a history of recurrent infection.
 Patients should be advised of, and avoid exposure to, potential risk factors for infection as appropriate.
@@ -76,6 +77,7 @@ This rare type of T-cell lymphoma has a very aggressive disease course and is us
 The majority of cases have occurred in adolescent and young adult males with nearly all on comcomitant treatment with azathioprine (AZA) or 6-mercaptopurine (6–MP) for inflammatory bowel disease.
 The potential risk with the combination of AZA or 6-MP and Simponi should be carefully considered.
 A risk for the development for hepatosplenic T-cell lymphoma in patients treated with TNF-blockers cannot be excluded.
+
 Malignancies other than lymphoma
 In the controlled portions of the Simponi Phase IIb and Phase III clinical trials in RA, PsA, AS, and UC, the incidence of non-lymphoma malignancies (excluding non-melanoma skin cancer) was similar between the Simponi and the control groups.
 
@@ -93,8 +95,7 @@ All patients had a history of heavy smoking.
 Therefore, caution should be exercised when using any TNF-antagonist in COPD patients, as well as in patients with an increased risk of malignancy due to heavy smoking.
 
 Skin cancers
-Melanoma has been reported in patients treated with TNF-blocking agents, including Simponi.
-Merkel cell carcinoma has been reported in patients treated with other TNF-blocking agents (see section 4.8).
+Melanoma and Merkel cell carcinoma have been reported in patients treated with TNF-blocking agents, including Simponi (see section 4.8).
 Periodic skin examination is recommended, particularly for patients with risk factors for skin cancer.
 
 Congestive heart failure (CHF)
@@ -158,7 +159,7 @@ Some of these reactions occurred after the first administration of Simponi.
 If an anaphylactic reaction or other serious allergic reactions occur, administration of Simponi should be discontinued immediately and appropriate therapy initiated.
 
 Latex sensitivity
-The needle cover on the pre-filled pen is manufactured from dry natural rubber containing latex, and may cause allergic reactions in individuals sensitive to latex.
+The needle cover on the pre-filled pen or the pre-filled syringe is manufactured from dry natural rubber containing latex, and may cause allergic reactions in individuals sensitive to latex.
 
 Special populations
 
@@ -183,18 +184,3 @@ Potential for medication errors
 Simponi is registered in 50 mg and 100 mg strengths for subcutaneous administration.
 It is important that the right strength is used to administer the correct dose as indicated in the posology (see section 4.2).
 Care should be taken to provide the right strength to ensure that patients are not underdosed or overdosed.
-
-[Simponi 50 mg solution for injection in pre-filled syringe.]
-
-In an exploratory clinical trial evaluating the use of Simponi in patients with severe persistent asthma, more malignancies were reported in patients treated with Simponi compared with control patients
-(see section 4.8).
-
-The needle cover on the pre-filled syringe is manufactured from dry natural rubber containing latex, and may cause allergic reactions in individuals sensitive to latex.
-
-[Simponi 100 mg solution for injection in pre-filled pen.]
-
-(all sentences already above)
-
-[Simponi 100 mg solution for injection in pre-filled syringe.]
-
-(all sentences already above)
