@@ -3,13 +3,14 @@
 Sovaldi treatment should be initiated and monitored by a physician experienced in the management of patients with CHC.
 
 Posology
+Adults
 The recommended dose is one 400 mg tablet, taken orally, once daily with food (see section 5.2).
 
 Sovaldi should be used in combination with other medicinal products.
 Monotherapy of Sovaldi is not recommended (see section 5.1).
 Refer also to the Summary of Product Characteristics of the medicinal products that are used in combination with Sovaldi.
 The recommended co-administered medicinal product(s) and treatment duration for Sovaldi combination therapy are provided in Table 1.
-Table 1: Recommended co-administered medicinal product(s) and treatment duration for Sovaldi combination therapy
+Table 1: Recommended co-administered medicinal product(s) and treatment duration for adults treated with Sovaldi combination therapy
 
 | Patient population* | Treatment | Duration |
 | --- | --- | --- |
@@ -18,7 +19,7 @@ Table 1: Recommended co-administered medicinal product(s) and treatment duration
 | Patients with genotype 2 CHC | Sovaldi + ribavirin | 12 weeksb |
 | Patients with genotype 3 CHC | Sovaldi + ribavirin + peginterferon alfa | 12 weeksb |
 |  | Sovaldi + ribavirin | 24 weeks |
-| Patients with CHC awaiting liver transplantation | Sovaldi + ribavirin | Until liver tcr ansplantation |
+| Patients with CHC awaiting liver transplantation | Sovaldi + ribavirin | Until liver transplantationc |
 
 * Includes patients co-infected with human immunodeficiency virus (HIV).
 
@@ -32,7 +33,7 @@ The dose of ribavirin, when used in combination with Sovaldi is weight-based (<7
 
 Concerning co-administration with other direct-acting antivirals against HCV, see section 4.4.
 
-Dose modification
+Dose modification in adults
 Dose reduction of Sovaldi is not recommended.
 
 If sofosbuvir is used in combination with peginterferon alfa, and a patient has a serious adverse reaction potentially related to this drug, the peginterferon alfa dose should be reduced or discontinued.
@@ -40,17 +41,54 @@ Refer to the peginterferon alfa Summary of Product Characteristics for additiona
 
 If a patient has a serious adverse reaction potentially related to ribavirin, the ribavirin dose should be modified or discontinued, if appropriate, until the adverse reaction abates or decreases in severity.
 Table 2 provides guidelines for dose modifications and discontinuation based on the patient’s haemoglobin concentration and cardiac status.
-Table 2: Ribavirin dose modification guideline for co-administration with Sovaldi
+Table 2: Ribavirin dose modification guideline for co-administration with Sovaldi in adults
 
 | Laboratory values | Reduce ribavirin dose to 600 mg/day if: | Discontinue ribavirin if: |
 | --- | --- | --- |
-| Haemoglobin in subjects with no cardiac disease | <10 g/dL | <8.5 g/dL |
-| Haemoglobin in subjects with history of stable cardiac disease | ≥2 g/dL decrease in haemoglobin during any 4 week treatment period | <12 g/dL despite 4 weeks at reduced dose |
+| Haemoglobin in patients with no cardiac disease | <10 g/dL | <8.5 g/dL |
+| Haemoglobin in patients with history of stable cardiac disease | ≥2 g/dL decrease in haemoglobin during any 4 week treatment period | <12 g/dL despite 4 weeks at reduced dose |
 
 Once ribavirin has been withheld due to either a laboratory abnormality or clinical manifestation, an attempt may be made to restart ribavirin at 600 mg daily and further increase the dose to 800 mg daily.
 However, it is not recommended that ribavirin be increased to the original assigned dose (1,000 mg to 1,200 mg daily).
 
-Discontinuation of dosing
+Paediatric population
+In adolescents aged 12 to < 18 years, the recommended dose of Sovaldi is one tablet once daily with food (see section 5.2).
+
+Sovaldi should be used in combination with other medicinal products.
+Monotherapy of Sovaldi is not recommended.
+The recommended treatment regimen and durations for Sovaldi combination therapy are provided in Table 3 and Table 4.
+
+Table 3: Recommended treatment regimen and durations for adolescents aged 12 to < 18 years treated with Sovaldi
+
+| Patient population* | Treatment and duration |
+| --- | --- |
+| Patients with genotype 2 CHC | Sovaldi + ribavirina for 12 weeks b |
+| Patients with genotype 3 CHC | Sovaldi + ribavirin a for 24 weeks |
+
+* Includes patients co infected with human immunodeficiency virus (HIV).
+
+a. See Table 4 for weight based ribavirin dosing recommendations
+
+b. Consideration should be given to potentially extending the duration of therapy beyond 12 weeks and up to 24 weeks; especially for those subgroups who have one or more factors historically associated with lower response rates to interferon based therapies (e.g. advanced fibrosis/cirrhosis, high baseline viral concentrations, black race, IL28B non CC genotype, prior null response to peginterferon alfa and ribavirin therapy).
+
+Table 4: Recommended dosing for ribavirin in combination therapy with Sovaldi in adolescents aged 12 to < 18 years
+
+| Body weight kg (lbs) | RBV daily dose* |
+| --- | --- |
+| <47 (<103) | 15 mg/kg/day |
+| 47-49 (103-108) | 600 mg/day |
+| 50-65 (110-143) | 800 mg/day |
+| 66-80 (145-176) | 1000 mg/day |
+| >81 (178) | 1200 mg/day |
+
+* The daily dosage of ribavirin is weight-based and is administered orally in two divided doses with food.
+
+Dose modification in the paediatric population
+Dose reduction of Sovaldi is not recommended.
+
+If a patient has a serious adverse reaction potentially related to ribavirin, the ribavirin dose should be modified or discontinued, if appropriate, until the adverse reaction abates or decreases in severity.
+Refer to the ribavirin prescribing information for guidance on dose modification or discontinuation.
+Discontinuation of dosing in adults and adolescents
 If the other medicinal products used in combination with Sovaldi are permanently discontinued, Sovaldi should also be discontinued (see section 4.4).
 
 Special patient populations
@@ -76,8 +114,8 @@ If the starting dose of ribavirin is well-tolerated, the dose can be titrated up
 If the starting dose of ribavirin is not well-tolerated, the dose should be reduced as clinically indicated based on haemoglobin levels (see section 5.1).
 
 Paediatric population
-The safety and efficacy of Sovaldi in children and adolescents aged <18 years have not yet been established.
-No data are available.
+The safety and efficacy of Sovaldi in children and adolescents aged <12 years have not yet been established.
+No data on paediatric patients < 12 years are available.
 
 Method of administration
 The film-coated tablet is for oral use.

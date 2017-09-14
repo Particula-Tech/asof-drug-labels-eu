@@ -23,6 +23,7 @@ All patients receiving Sovaldi and another DAA in combination with amiodarone wi
 Treatment-experienced patients with genotype 1, 4, 5 and 6 HCV infection
 Sovaldi has not been studied in a Phase 3 study in treatment-experienced patients with genotype 1, 4, 5 and 6 HCV infection.
 Thus, the optimal treatment duration in this population has not been established (see also sections 4.2 and 5.1).
+
 Consideration should be given to treating these patients, and potentially extending the duration of therapy with sofosbuvir, peginterferon alfa and ribavirin beyond 12 weeks and up to 24 weeks; especially for those subgroups who have one or more factors historically associated with lower response rates to interferon-based therapies (advanced fibrosis/cirrhosis, high baseline viral concentrations, black race, IL28B non CC genotype).
 
 Treatment of patients with genotype 5 or 6 HCV infection
@@ -47,7 +48,7 @@ Medicinal products that are moderate P-gp inducers in the intestine (e.g. oxcarb
 Co-administration of such medicinal products is not recommended with Sovaldi (see section 4.5).
 
 Renal impairment
-The safety of Sovaldi has not been assessed in subjects with severe renal impairment (eGFR
+The safety of Sovaldi has not been assessed in patients with severe renal impairment (eGFR
 <30 mL/min/1.73 m2) or ESRD requiring haemodialysis.
 Furthermore, the appropriate dose has not been established.
 When Sovaldi is used in combination with ribavirin or peginterferon alfa/ribavirin, refer also to the Summary of Product Characteristics for ribavirin for patients with creatinine clearance (CrCl) <50 mL/min (see also section 5.2).
@@ -58,4 +59,4 @@ HBV screening should be performed in all patients before initiation of treatment
 HBV/HCV co-infected patients are at risk of HBV reactivation, and should therefore be monitored and managed according to current clinical guidelines.
 
 Paediatric population
-Sovaldi is not recommended for use in children and adolescents under 18 years of age because the safety and efficacy have not been established in this population.
+Sovaldi is not recommended for use in paediatric patients < 12 years because the safety and efficacy have not been established in this population.

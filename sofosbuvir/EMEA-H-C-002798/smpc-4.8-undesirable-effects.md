@@ -1,29 +1,27 @@
 # 4.8 Undesirable effects
 
-Summary of the safety profile
+Summary of the safety profile in adults
 During treatment with sofosbuvir in combination with ribavirin or with peginterferon alfa and ribavirin, the most frequently reported adverse drug reactions were consistent with the expected safety profile of ribavirin and peginterferon alfa treatment, without increasing the frequency or severity of the expected adverse drug reactions.
 
 Assessment of adverse reactions is based on pooled data from five Phase 3 clinical studies (both controlled and uncontrolled).
 
-The proportion of subjects who permanently discontinued treatment due to adverse reactions was 1.4% for subjects receiving placebo, 0.5% for subjects receiving sofosbuvir + ribavirin for 12 weeks, 0% for subjects receiving sofosbuvir + ribavirin for 16 weeks, 11.1% for subjects receiving peginterferon alfa + ribavirin for 24 weeks and 2.4% for subjects receiving sofosbuvir + peginterferon alfa + ribavirin for 12 weeks.
+The proportion of patients who permanently discontinued treatment due to adverse reactions was 1.4% for patients receiving placebo, 0.5% for patients receiving sofosbuvir + ribavirin for 12 weeks, 0% for patients receiving sofosbuvir + ribavirin for 16 weeks, 11.1% for patients receiving peginterferon alfa + ribavirin for 24 weeks and 2.4% for patients receiving sofosbuvir + peginterferon alfa + ribavirin for 12 weeks.
 
 Tabulated summary of adverse reactions
 Sovaldi has mainly been studied in combination with ribavirin, with or without peginterferon alfa.
 In this context, no adverse drug reactions specific to sofosbuvir have been identified.
-The most common adverse drug reactions occurring in subjects receiving sofosbuvir and ribavirin or sofosbuvir, ribavirin and peginterferon alfa were fatigue, headache, nausea and insomnia.
+The most common adverse drug reactions occurring in patients receiving sofosbuvir and ribavirin or sofosbuvir, ribavirin and peginterferon alfa were fatigue, headache, nausea and insomnia.
 
-The following adverse drug reactions have been identified with sofosbuvir in combination with ribavirin or in combination with peginterferon alfa and ribavirin (Table 4).
+The following adverse drug reactions have been identified with sofosbuvir in combination with ribavirin or in combination with peginterferon alfa and ribavirin (Table 6).
 The adverse reactions are listed below by body system organ class and frequency.
 Frequencies are defined as follows: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000) or very rare (<1/10,000).
-Table 4: Adverse drug reactions identified with sofosbuvir in combination with ribavirin or peginterferon alfa and ribavirin
+Table 6: Adverse drug reactions identified with sofosbuvir in combination with ribavirin or peginterferon alfa and ribavirin
 
 Frequency SOFa + RBVb SOF + PEGc + RBV
 Infections and infestations:
 Common nasopharyngitis
 Blood and lymphatic system disorders:
-anaemia, neutropenia, lymphocyte
-Very common haemoglobin decreased count decreased, platelet count
-decreased
+Very common haemoglobin decreased anaemia, neutropenia, lymphocyte count decreased, platelet count decreased
 Common anaemia
 Metabolism and nutrition disorders:
 Very common decreased appetite
@@ -58,15 +56,20 @@ a. SOF = sofosbuvir; b. RBV = ribavirin; c. PEG = peginterferon alfa.
 
 Other special population(s)
 HIV/HCV co-infection
-The safety profile of sofosbuvir and ribavirin in HCV/HIV co-infected subjects was similar to that observed in mono-infected HCV subjects treated with sofosbuvir and ribavirin in Phase 3 clinical studies (see section 5.1).
+The safety profile of sofosbuvir and ribavirin in HCV/HIV co-infected adult patients was similar to that observed in mono-infected HCV patients treated with sofosbuvir and ribavirin in Phase 3 clinical studies (see section 5.1).
 
 Patients awaiting liver transplantation
-The safety profile of sofosbuvir and ribavirin in HCV infected subjects prior to liver transplantation was similar to that observed in subjects treated with sofosbuvir and ribavirin in Phase 3 clinical studies (see section 5.1).
+The safety profile of sofosbuvir and ribavirin in HCV infected adult patients prior to liver transplantation was similar to that observed in patients treated with sofosbuvir and ribavirin in Phase 3 clinical studies (see section 5.1).
+
 Liver transplant recipients
-The safety profile of sofosbuvir and ribavirin in liver transplant recipients with chronic hepatitis C was similar to that observed in subjects treated with sofosbuvir and ribavirin in Phase 3 clinical studies (see section 5.1).
-In study 0126, decreases in haemoglobin during treatment were very common with 32.5% (13/40 subjects) experiencing a decline in haemoglobin to <10 g/dL, 1 of whom also had a decline to <8.5 g/dL.
-Eight subjects (20%) received epoetin and/or a blood product.
-In 5 subjects (12.5%), study drugs were discontinued, modified or interrupted due to adverse events.
+The safety profile of sofosbuvir and ribavirin in liver transplant adult recipients with chronic hepatitis C was similar to that observed in patients treated with sofosbuvir and ribavirin in Phase 3 clinical studies (see section 5.1).
+In study 0126, decreases in haemoglobin during treatment were very common with 32.5% (13/40 patients) experiencing a decline in haemoglobin to <10 g/dL, 1 of whom also had a decline to <8.5 g/dL.
+Eight patients (20%) received epoetin and/or a blood product.
+In 5 patients (12.5%), study drugs were discontinued, modified or interrupted due to adverse events.
+
+Paediatric population
+The safety and efficacy of Sovaldi in adolescents aged 12 to <18 years are based on data from 50 patients who were treated with Sovaldi and ribavirin for 12 weeks (genotype 2 patients) and 24 weeks (genotype 3 patients) in a Phase 2, open-label clinical trial.
+The adverse reactions observed were consistent with those observed in clinical studies of Sovaldi plus ribavirin in adults (see Table 6).
 
 Description of selected adverse reactions
 Cardiac arrhythmias
