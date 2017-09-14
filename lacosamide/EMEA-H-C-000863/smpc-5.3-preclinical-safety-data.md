@@ -10,3 +10,6 @@ Apart from the hypertrophy of hepatocytes, no other histopathologic changes were
 In reproductive and developmental toxicity studies in rodents and rabbits, no teratogenic effects but an increase in numbers of stillborn pups and pup deaths in the peripartum period, and slightly reduced live litter sizes and pup body weights were observed at maternal toxic doses in rats corresponding to systemic exposure levels similar to the expected clinical exposure.
 Since higher exposure levels could not be tested in animals due to maternal toxicity, data are insufficient to fully characterise the embryofetotoxic and teratogenic potential of lacosamide.
 Studies in rats revealed that lacosamide and/or its metabolites readily crossed the placental barrier.
+In juvenile rats and dogs, the types of toxicity do not differ qualitatively from those observed in adult animals.
+In juvenile rats, a reduced body weight was observed at systemic exposure levels similar to the expected clinical exposure.
+In juvenile dogs, transient and dose-related CNS clinical signs started to be observed at systemic exposure levels below the expected clinical exposure.

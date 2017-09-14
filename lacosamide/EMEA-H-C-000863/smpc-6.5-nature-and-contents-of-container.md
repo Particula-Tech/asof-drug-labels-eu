@@ -1,36 +1,43 @@
 # 6.5 Nature and contents of container
 
-Packs of 14, 56 and 168 film-coated tablets in PVC/PVDC blister sealed with an aluminium foil.
-Pack of 56 x 1 tablet in PVC/PVDC perforated unit dose blisters sealed with an aluminium foil.
+Vimpat 50 mg film-coated tablets
+
+Packs of 14, 28, 56 and 168 film-coated tablets in PVC/PVDC blister sealed with an aluminium foil.
+Packs of 14 x 1 and 56 x 1 film-coated tablet in PVC/PVDC perforated unit dose blisters sealed with an aluminium foil.
+
+Vimpat 100 mg film-coated tablets
+
+Packs of 14, 28, 56 and 168 film-coated tablets in PVC/PVDC blister sealed with an aluminium foil.
+Packs of 14 x 1 and 56 x 1 film-coated tablet in PVC/PVDC perforated unit dose blisters sealed with an aluminium foil.
+
+Vimpat 150 mg film-coated tablets
+
+Packs of 14, 28 and 56 film-coated tablets in PVC/PVDC blister sealed with an aluminium foil.
+Multipacks containing 168 (3 packs of 56 tablets) film-coated tablets in PVC/PVDC blister sealed with an aluminium foil.
+Packs of 14 x 1 and 56 x 1 film-coated tablet in PVC/PVDC perforated unit dose blisters sealed with an aluminium foil.
+
+Vimpat 200 mg film-coated tablets
+
+Packs of 14, 28 and 56 film-coated tablets in PVC/PVDC blister sealed with an aluminium foil.
+Multipacks containing 168 (3 packs of 56 tablets) film-coated tablets in PVC/PVDC blister sealed with an aluminium foil.
+Packs of 14 x 1 and 56 x 1 film-coated tablet in PVC/PVDC perforated unit dose blisters sealed with an aluminium foil.
 
 Not all pack sizes may be marketed.
 
-[Vimpat 100 mg film-coated tablets]
-
-(all sentences already above)
-
-[Vimpat 150 mg film-coated tablets]
-
-Packs of 14 and 56 film-coated tablets in PVC/PVDC blister sealed with an aluminium foil.
-Multipacks containing 168 (3 packs of 56 tablets) film-coated tablets in PVC/PVDC blister sealed with an aluminium foil.
-
-[Vimpat 200 mg film-coated tablets]
-
-(all sentences already above)
-
-[Treatment initiation pack]
+[Treatment initiation pack (in adolescent and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
 
 PVC/PVDC blister sealed with an aluminium foil.
-The treatment initiation pack contains 4 cartons, each carton with 14 tablets of 50 mg, 100 mg, 150 mg and 200 mg
+The treatment initiation pack contains 4 cartons, each carton with 14 Vimpat film-coated tablets of 50 mg, 100 mg, 150 mg and 200 mg.
 
 [Vimpat 10 mg/ml syrup]
 
-200 ml and 465 ml amber glass bottles with white polypropylene screw cap and a measuring cup.
-Each graduation mark (5ml) of the measuring cup corresponds to 50 mg (for example 2 graduation marks correspond to 100 mg).
+200 ml and 465 ml amber glass bottles with white polypropylene screw cap, a measuring cup and an oral syringe with an adaptor.
+Each graduation mark (5 ml) of the 30 ml measuring cup corresponds to 50 mg of lacosamide (for example 2 graduation marks correspond to 100 mg).
+One full 10 ml oral syringe corresponds to 100 mg of lacosamide.
+The minimum extractable volume is 1 ml which is 10 mg of lacosamide.
+As from the 1 ml graduation mark, each graduation corresponds to 0.25 ml which is 2.5 mg of lacosamide.
 
 [Vimpat 10 mg/ml solution for infusion]
 
 Colourless type I glass vial with a chlorobutyl rubber closure coated with a fluoropolymer.
 Packs of 1x20 ml and 5x20 ml.
-
-Not all packsizes may be marketed.

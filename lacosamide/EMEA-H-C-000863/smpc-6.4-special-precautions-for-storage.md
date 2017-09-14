@@ -2,19 +2,7 @@
 
 This medicinal product does not require any special storage conditions.
 
-[Vimpat 100 mg film-coated tablets]
-
-(all sentences already above)
-
-[Vimpat 150 mg film-coated tablets]
-
-(all sentences already above)
-
-[Vimpat 200 mg film-coated tablets]
-
-(all sentences already above)
-
-[Treatment initiation pack]
+[Treatment initiation pack (in adolescent and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
 
 (all sentences already above)
 

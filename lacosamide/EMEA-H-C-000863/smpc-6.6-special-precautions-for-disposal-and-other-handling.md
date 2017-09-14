@@ -2,19 +2,7 @@
 
 No special requirements for disposal.
 
-[Vimpat 100 mg film-coated tablets]
-
-(all sentences already above)
-
-[Vimpat 150 mg film-coated tablets]
-
-(all sentences already above)
-
-[Vimpat 200 mg film-coated tablets]
-
-(all sentences already above)
-
-[Treatment initiation pack]
+[Treatment initiation pack (in adolescent and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
 
 (all sentences already above)
 
@@ -24,7 +12,8 @@ No special requirements for disposal.
 
 [Vimpat 10 mg/ml solution for infusion]
 
+Product with particulate matter or discolouration should not be used.
 This medicinal product is for single use only, any unused solution should be discarded.
 Vimpat solution for infusion was found to be physically compatible and chemically stable when mixed with the following diluents for at least 24 hours and stored in glass or PVC bags at temperatures up to 25°C.
 Diluents:
-sodium chloride 9 mg/ml (0.9%) solution for injection glucose 50 mg/ml (5%) solution for injection lactated Ringer’s solution for injection.
+sodium chloride 9 mg/ml (0.9 %) solution for injection glucose 50 mg/ml (5 %) solution for injection lactated Ringer’s solution for injection.

@@ -2,26 +2,21 @@
 
 Film-coated tablet
 
-Pinkish, oval film-coated tablets debossed with ‘SP’ on one side and ‘50’ on the other side.
+Vimpat 50 mg film-coated tablets
+Pinkish, oval film-coated tablets with approximate dimensions of 10.4 mm x 4.9 mm, and debossed with ‘SP’ on one side and ‘50’ on the other side.
 
-[Vimpat 100 mg film-coated tablets]
+Vimpat 100 mg film-coated tablets
+Dark yellow, oval film-coated tablets with approximate dimensions of 13.2 mm x 6.1 mm, and debossed with ‘SP’ on one side and ‘100’ on the other side.
 
-Dark yellow, oval film-coated tablets debossed with ‘SP’ on one side and ‘100’ on the other side.
+Vimpat 150 mg film-coated tablets
+Salmon, oval film-coated tablets with approximate dimensions of 15.1 mm x 7.0 mm, and debossed with ‘SP’ on one side and ‘150’ on the other side.
 
-[Vimpat 150 mg film-coated tablets]
+Vimpat 200 mg film-coated tablets
+Blue, oval film-coated tablets with approximate dimensions of 16.6 mm x 7.8 mm, and debossed with ‘SP’ on one side and ‘200’ on the other side.
 
-Salmon, oval film-coated tablets debossed with ‘SP’ on one side and ‘150’ on the other side.
+[Treatment initiation pack (in adolescent and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
 
-[Vimpat 200 mg film-coated tablets]
-
-Blue, oval film-coated tablets debossed with ‘SP’ on one side and ‘200’ on the other side.
-
-[Treatment initiation pack]
-
-50 mg:
-100 mg:
-150 mg:
-200 mg:
+(all sentences already above)
 
 [Vimpat 10 mg/ml syrup]
 

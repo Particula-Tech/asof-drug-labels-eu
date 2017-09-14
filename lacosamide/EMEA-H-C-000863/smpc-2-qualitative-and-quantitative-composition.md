@@ -1,22 +1,24 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
+Vimpat 50 mg film-coated tablets
+
 Each film-coated tablet contains 50 mg lacosamide.
 
-For the full list of excipients, see section 6.1.
-
-[Vimpat 100 mg film-coated tablets]
+Vimpat 100 mg film-coated tablets
 
 Each film-coated tablet contains 100 mg lacosamide.
 
-[Vimpat 150 mg film-coated tablets]
+Vimpat 150 mg film-coated tablets
 
 Each film-coated tablet contains 150 mg lacosamide.
 
-[Vimpat 200 mg film-coated tablets]
+Vimpat 200 mg film-coated tablets
 
 Each film-coated tablet contains 200 mg lacosamide.
 
-[Treatment initiation pack]
+For the full list of excipients, see section 6.1.
+
+[Treatment initiation pack (in adolescent and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
 
 (all sentences already above)
 
@@ -34,4 +36,4 @@ Each ml of Vimpat syrup contains 187 mg sorbitol (E420), 2.60 mg sodium methyl p
 Each ml of solution for infusion contains 10 mg lacosamide.
 Each vial of 20 ml solution for infusion contains 200 mg lacosamide.
 
-Each ml of solution for infusion contains includes 2.99 mg sodium.
+Each ml of solution for infusion contains 2.99 mg sodium.
