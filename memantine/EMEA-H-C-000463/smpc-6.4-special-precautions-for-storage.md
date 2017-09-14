@@ -11,7 +11,3 @@ The bottle with the mounted pump may only be kept and transported in a vertical 
 [Ebixa 5 mg film-coated tablets.]
 
 (all sentences already above)
-
-[Ebixa 20 mg film-coated tablets.]
-
-(all sentences already above)

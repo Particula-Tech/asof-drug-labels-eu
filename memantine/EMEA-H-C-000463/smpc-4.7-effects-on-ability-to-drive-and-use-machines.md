@@ -10,7 +10,3 @@ Furthermore, Ebixa has minor or moderate influence on the ability to drive and u
 [Ebixa 5 mg film-coated tablets.]
 
 (all sentences already above)
-
-[Ebixa 20 mg film-coated tablets.]
-
-(all sentences already above)

@@ -45,7 +45,3 @@ The dosing pump should be locked after use.
 [Ebixa 5 mg film-coated tablets.]
 
 (all sentences already above)
-
-[Ebixa 20 mg film-coated tablets.]
-
-(all sentences already above)

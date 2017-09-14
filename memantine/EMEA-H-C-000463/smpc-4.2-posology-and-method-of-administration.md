@@ -16,23 +16,23 @@ Adults:
 Dose titration
 The maximum daily dose is 20 mg per day.
 In order to reduce the risk of undesirable effects, the maintenance dose is achieved by upward titration of 5 mg per week over the first 3 weeks as follows:
-
 Week 1 (day 1-7)
 The patient should take half a 10 mg film-coated tablet (5 mg) per day for 7 days.
 
 Week 2 (day 8-14)
 The patient should take one 10 mg film-coated tablet (10 mg) per day for 7 days.
+
 Week 3 (day 15-21):
 The patient should take one and a half 10 mg film-coated tablets (15 mg) per day for 7 days.
 
 From Week 4 on:
-The patient should take two 10 mg film-coated tablets (20 mg) per day.
+The patient should take two 10 mg film-coated tablets (20 mg) or one 20 mg film-coated tablet per day.
 
 Maintenance dose
 The recommended maintenance dose is 20 mg per day.
 
 Elderly
-On the basis of the clinical studies, the recommended dose for patients over the age of 65 years is 20 mg per day (two 10 mg film-coated tablets once a day) as described above.
+On the basis of the clinical studies, the recommended dose for patients over the age of 65 years is 20 mg per day (two 10 mg film-coated tablets or one 20 mg film-coated tablet once a day) as described above.
 
 Renal impairment
 In patients with mildly impaired renal function (creatinine clearance 50 – 80 ml/min) no dose adjustment is required.
@@ -91,16 +91,3 @@ Week 4 (day 22-28)
 The patient should take one 20 mg film-coated tablet per day (grey-red, oval-oblong) for 7 days.
 
 On the basis of the clinical studies, the recommended dose for patients over the age of 65 years is 20 mg per day (20 mg once a day) as described above.
-
-[Ebixa 20 mg film-coated tablets.]
-
-For up-titration other tablet strengths are available.
-
-The patient should take one 5 mg film-coated tablet per day for 7 days.
-
-The patient should take one 10 mg film-coated tablet per day for 7 days.
-The patient should take one 15 mg film-coated tablet per day for 7 days.
-
-The patient should take one 20 mg film-coated tablet per day.
-
-On the basis of the clinical studies, the recommended dose for patients over the age of 65 years is 20 mg per day as described above.

@@ -29,7 +29,3 @@ The study showed beneficial effects of memantine treatment in comparison to plac
 The study showed beneficial effects of memantine treatment in comparison to placebo at 6 months (observed cases analysis for the clinician’s interview based impression of change (CIBIC-plus): p=0.025; Alzheimer’s disease cooperative study – activities of daily living (ADCS-ADLsev): p=0.003; severe impairment battery (SIB): p=0.002).
 
 Memantine-treated patients showed a statistically significantly better effect than placebo-treated patients on the primary endpoints: Alzheimer’s disease assessment scale (ADAS-cog) (p=0.003) and CIBIC-plus (p=0.004) at week 24 last observation carried forward (LOCF).
-
-[Ebixa 20 mg film-coated tablets.]
-
-(all sentences already above)

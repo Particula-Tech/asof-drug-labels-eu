@@ -28,7 +28,3 @@ In the overdose cases below 140 mg or unknown dose the patients revealed symptom
 [Ebixa 5 mg film-coated tablets.]
 
 (all sentences already above)
-
-[Ebixa 20 mg film-coated tablets.]
-
-(all sentences already above)

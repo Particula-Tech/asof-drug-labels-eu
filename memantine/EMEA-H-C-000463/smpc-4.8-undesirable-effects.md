@@ -60,7 +60,3 @@ Adverse reactions are ranked according to system organ class, using the followin
 [Ebixa 5 mg film-coated tablets.]
 
 (all sentences already above)
-
-[Ebixa 20 mg film-coated tablets.]
-
-(all sentences already above)

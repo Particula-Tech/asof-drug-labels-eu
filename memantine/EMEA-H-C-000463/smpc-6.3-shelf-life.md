@@ -9,7 +9,3 @@ Once opened, the contents of the bottle should be used within 3 months.
 [Ebixa 5 mg film-coated tablets.]
 
 (all sentences already above)
-
-[Ebixa 20 mg film-coated tablets.]
-
-(all sentences already above)
