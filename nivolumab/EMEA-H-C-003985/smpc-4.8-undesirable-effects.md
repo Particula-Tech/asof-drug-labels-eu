@@ -18,7 +18,7 @@ These reactions are presented by system organ class and by frequency.
 Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10);
 uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from available post-marketing data).
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
-Table 2: Adverse reactions in clinical trials
+Table 2: Adverse reactions
 
 Nivolumab monotherapy Nivolumab in combination with
 ipilimumab
@@ -72,6 +72,7 @@ encephalitisa,c
 Eye disorders
 Common uveitis, blurred vision
 Uncommon uveitis, blurred vision, dry eye
+Not known Vogt-Koyanagi-Harada syndromeh Vogt-Koyanagi-Harada syndromeh
 Cardiac disorders
 Common tachycardia
 Uncommon tachycardia arrhythmia (including ventricular
@@ -145,6 +146,7 @@ All were considered not related to nivolumab by investigators except arrhythmia 
 f Reported in studies outside the pooled dataset.
 The frequency is based on the program-wide exposure.
 g Musculoskeletal pain is a composite term which includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity, and spinal pain.
+h Post-marketing event (also see section 4.4)
 
 The overall safety profile of nivolumab 3 mg/kg in urothelial carcinoma patients (n = 348) was consistent with that established across tumour types for nivolumab monotherapy.
 
@@ -161,8 +163,8 @@ Grade 3 and 4 cases were reported in 0.7% (16/2227) and <0.1% (1/2227) of patien
 No Grade 5 cases were reported in these studies.
 Median time to onset was 3.3 months (range: 0.0-19.6).
 Resolution occurred in 52 patients (78%) with a median time to resolution of 5.6 weeks (range: 0.1+-53.1+); + denotes a censored observation.
-
 In urothelial carcinoma studies, 2 Grade 5 cases of pneumonitis were reported in patients treated with nivolumab monotherapy.
+
 In patients treated with nivolumab in combination with ipilimumab, the incidence of pneumonitis including interstitial lung disease, was 7.4% (33/448).
 Grade 2, Grade 3, and Grade 4 cases were reported in 4.5% (20/448), 1.1% (5/448), and 0.2% (1/448) of patients, respectively.
 One of the Grade 3 pneumonitis worsened over 11 days with a fatal outcome.

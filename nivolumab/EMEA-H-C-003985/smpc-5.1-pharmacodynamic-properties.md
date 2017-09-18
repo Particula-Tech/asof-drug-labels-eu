@@ -2,6 +2,7 @@
 
 Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibodies.
 ATC code: L01XC17.
+
 Mechanism of action
 Nivolumab is a human immunoglobulin G4 (IgG4) monoclonal antibody (HuMAb), which binds to the programmed death-1 (PD-1) receptor and blocks its interaction with PD-L1 and PD-L2.
 The PD-1 receptor is a negative regulator of T-cell activity that has been shown to be involved in the control of T-cell immune responses.

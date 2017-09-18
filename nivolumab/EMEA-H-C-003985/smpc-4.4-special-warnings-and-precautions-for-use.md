@@ -112,6 +112,7 @@ Caution should be used when considering the use of nivolumab in a patient who ha
 
 Other immune-related adverse reactions
 The following immune-related adverse reactions were reported in less than 1% of patients treated with nivolumab monotherapy in clinical trials across doses and tumour types: pancreatitis, uveitis, demyelination, autoimmune neuropathy (including facial and abducens nerve paresis), Guillain-Barré syndrome, myasthenic syndrome, and encephalitis.
+Cases of Vogt-Koyanagi-Harada syndrome have been reported post-marketing (see section 4.8).
 
 Across clinical trials of nivolumab in combination with ipilimumab, the following additional clinically significant, immune-related adverse reactions were reported in less than 1% of patients: gastritis, sarcoidosis, and duodenitis.
 
