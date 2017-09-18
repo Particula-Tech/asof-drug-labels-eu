@@ -1,11 +1,12 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-The overall safety profile of Prolia was similar in patients with osteoporosis and in breast or prostate cancer patients receiving hormone ablation in five Phase III placebo-controlled clinical trials.
 
 The most common side effects with Prolia (seen in more than one patient in ten) are musculoskeletal pain and pain in the extremity.
-Uncommon cases of cellulitis; rare cases of hypocalcaemia, hypersensitivity, osteonecrosis of the jaw and atypical femoral fractures (see sections 4.4 and section 4.8 - description of selected adverse reactions) have been observed in patients taking Prolia.
+Uncommon cases of cellulitis, rare cases of hypocalcaemia, hypersensitivity, osteonecrosis of the jaw and atypical femoral fractures (see section 4.4 and section 4.8 - description of selected adverse reactions) have been observed in patients taking Prolia.
+
 Tabulated list of adverse reactions
+
 The data in Table 1 below describe adverse reactions reported from Phase II and III clinical trials in patients with osteoporosis and breast or prostate cancer patients receiving hormone ablation; and/or spontaneous reporting.
 
 The following convention has been used for the classification of the adverse reactions (see table 1): very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000) and very rare (< 1/10,000).
@@ -27,7 +28,7 @@ Table 1 Adverse reactions reported in patients with osteoporosis and breast or p
 1 See section Description of selected adverse reactions
 2 See section 4.4
 
-In a pooled analysis of data from all phase II and phase III placebo controlled studies, Influenza-like illness was reported with a crude incidence rate of 1.2% for denosumab and 0.7 % for placebo.
+In a pooled analysis of data from all phase II and phase III placebo-controlled studies, Influenza-like illness was reported with a crude incidence rate of 1.2% for denosumab and 0.7% for placebo.
 Although this imbalance was identified via a pooled analysis, it was not identified via a stratified analysis.
 
 Description of selected adverse reactions
@@ -48,7 +49,9 @@ Skin infections reported as serious adverse reactions were similar in the placeb
 
 Osteonecrosis of the jaw
 ONJ has been reported rarely, in 16 patients, in clinical trials in osteoporosis and in breast or prostate cancer patients receiving hormone ablation including a total of 23,148 patients (see section 4.4).
-Thirteen of these ONJ cases occurred in postmenopausal women with osteoporosis during the phase III clinical trial extension following treatment with Prolia for up to 10 years (0.3%; < 0.1 events per 100 subject-years).
+Thirteen of these ONJ cases occurred in postmenopausal women with osteoporosis during the phase III clinical trial extension following treatment with Prolia for up to 10 years.
+Incidence of ONJ was 0.04% at 3 years, 0.06% at 5 years and 0.44% at 10 years of Prolia treatment.
+The risk of ONJ increased with duration of exposure to Prolia.
 
 Atypical fractures of the femur
 In the osteoporosis clinical trial program, atypical femoral fractures were reported rarely in patients treated with Prolia (see section 4.4).
@@ -70,9 +73,13 @@ In clinical trials, musculoskeletal pain was very common in both denosumab and p
 Musculoskeletal pain leading to discontinuation of study treatment was uncommon.
 
 Other special populations
-In clinical studies, patients with severe renal impairment (creatinine clearance < 30 ml/min) or receiving dialysis were at greater risk of developing hypocalcaemia in the absence of calcium supplementation.
+
+Renal impairment
+In clinical studies, patients with severe renal impairment (creatinine clearance < 30 mL/min) or receiving dialysis were at greater risk of developing hypocalcaemia in the absence of calcium supplementation.
 Adequate intake of calcium and vitamin D is important in patients with severe renal impairment or receiving dialysis (see section 4.4).
+
 Reporting of suspected adverse reactions
+
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit-risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
