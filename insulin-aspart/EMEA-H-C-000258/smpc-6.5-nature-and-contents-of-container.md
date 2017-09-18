@@ -32,6 +32,5 @@ Not all pack sizes may be marketed.
 
 NovoRapid PumpCart
 1.6 ml solution in cartridge (type 1 glass) with a plunger (bromobutyl) and a rubber closure (bromobutyl/polyisoprene).
-
 Pack size of 5 cartridges and a multipack containing 25 (5 packs of 5) cartridges.
 Not all pack sizes may be marketed.

@@ -55,6 +55,10 @@ This should be kept in mind if treatment with the combination of pioglitazone an
 If the combination is used, patients should be observed for signs and symptoms of heart failure, weight gain and oedema.
 Pioglitazone should be discontinued if any deterioration in cardiac symptoms occurs.
 
+Avoidance of accidental mix-ups/medication errors
+
+Patients must be instructed to always check the insulin label before each injection to avoid accidental mix-ups between NovoRapid and other insulin products.
+
 Insulin antibodies
 
 Insulin administration may cause insulin antibodies to form.

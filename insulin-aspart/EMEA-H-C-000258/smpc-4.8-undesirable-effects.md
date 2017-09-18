@@ -13,6 +13,7 @@ Fast improvement in blood glucose control may be associated with acute painful n
 Intensification of insulin therapy with abrupt improvement in glycaemic control may be associated with temporary worsening of diabetic retinopathy, while long-term improved glycaemic control decreases the risk of progression of diabetic retinopathy.
 
 Tabulated list of adverse reactions
+
 Adverse reactions listed below are based on clinical trial data and classified according to MedDRA frequency and System Organ Class.
 Frequency categories are defined according to the following convention: Very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data).
 
@@ -49,8 +50,8 @@ Lipodystrophy (including lipohypertrophy, lipoatrophy) may occur at the injectio
 Continuous rotation of the injection site within the particular injection area reduces the risk of developing these reactions.
 
 Paediatric population
-
 Based on post-marketing sources and clinical trials, the frequency, type and severity of adverse reactions observed in the paediatric population do not indicate any differences to the broader experience in the general population.
+
 Other special populations
 
 Based on post-marketing sources and clinical trials, the frequency, type and severity of adverse reactions observed in the elderly patients and in patients with renal or hepatic impairment do not indicate any differences to the broader experience in the general population.

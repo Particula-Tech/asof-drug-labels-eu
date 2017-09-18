@@ -10,7 +10,13 @@ Do not refrigerate.
 Do not freeze.
 Keep the vial/cartridge in the outer carton in order to protect from light.
 
-NovoRapid FlexPen/NovoRapid InnoLet/NovoRapid FlexTouch
+NovoRapid FlexPen/NovoRapid FlexTouch
+During use or when carried as a spare: Store below 30˚C.
+Can be stored in a refrigerator (2˚C - 8˚C).
+Do not freeze.
+Keep the pen cap on the pen in order to protect from light.
+
+NovoRapid InnoLet
 During use or when carried as a spare: Store below 30°C.
 Do not refrigerate.
 Do not freeze.
