@@ -39,9 +39,7 @@ After removing the pre-filled syringe from the refrigerator the pre-filled syrin
 The syringe should not be shaken.
 After removing the cap the injection must be started within 5 minutes, to prevent the medicine from drying out and blocking the needle.
 If the pre-filled syringe is not used within 5 minutes of removing the cap, you must dispose of it in a puncture resistant container and use a new pre-filled syringe.
-
 If following insertion of the needle you cannot depress the plunger, you must dispose of the pre-filled syringe in a puncture resistant container and use a new pre-filled syringe.
 
 Do not use if the medicine is cloudy or contains particles, is any colour besides colourless to slightly yellowish, or any part of the pre-filled syringe appears to be damaged.
-
 Comprehensive instructions for the administration of RoActemra in a pre-filled syringe are given in the package leaflet.

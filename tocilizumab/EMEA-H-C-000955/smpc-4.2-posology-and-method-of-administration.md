@@ -35,11 +35,11 @@ In patients not previously treated with RoActemra, initiation is not recommended
 
 | Laboratory Value (cells x 103/ μl) | Action |
 | --- | --- |
-| 50 to 100 | Interrupt RoActemra dosing When platelet count > 100 x 103/ μl resume RoActemra at 4 mg/kg and increase to 8 mg/kg as clinically appropriate |
+| 50 to 100 | Interrupt RoActemra dosing When platelet count > 100 x 103/ μ resume RoActemra at 4 mg/kg and increase to 8 mg/kg as clinically appropriate |
 | < 50 | Discontinue RoActemra |
 
 Special populations
-Paediatric patients:
+Paediatric patients
 
 sJIA Patients
 
@@ -72,9 +72,9 @@ As there are many co-morbid conditions that may affect laboratory values in sJIA
 
 - Low platelet count
 
-| Laboratory Value (cells x 103/μl) | Action |
+| Laboratory Value (cells x 103/µl) | Action |
 | --- | --- |
-| 50 to 100 | Modify the dose of the concomitant MTX if appropriate Interrupt RoActemra dosing When platelet count is > 100 x 103/μl resume RoActemra |
+| 50 to 100 | Modify the dose of the concomitant MTX if appropriate Interrupt RoActemra dosing When platelet count is > 100 x 103/µl resume RoActemra |
 | < 50 | Discontinue RoActemra. The decision to discontinue RoActemra in sJIA for a laboratory abnormality should be based on the medical assessment of the individual patient. |
 
 Reduction of tocilizumab dose due to laboratory abnormalities has not been studied in sJIA patients.
@@ -112,9 +112,9 @@ As there are many co-morbid conditions that may effect laboratory values in pJIA
 
 - Low platelet count
 
-| Laboratory Value (cells x 103/μl) | Action |
+| Laboratory Value (cells x 103/µl) | Action |
 | --- | --- |
-| 50 to 100 | Modify the dose of the concomitant MTX if appropriate Interrupt RoActemra dosing When platelet count is > 100 x 103/μl resume RoActemra |
+| 50 to 100 | Modify the dose of the concomitant MTX if appropriate Interrupt RoActemra dosing When platelet count is > 100 x 103/µl resume RoActemra |
 | < 50 | Discontinue RoActemra. The decision to discontinue RoActemra in pJIA for a laboratory abnormality should be based on the medical assessment of the individual patient. |
 
 Reduction of tocilizumab dose due to laboratory abnormalities has not been studied in pJIA patients.
@@ -149,36 +149,51 @@ For instructions on dilution of the medicinal product before administration, see
 
 [RoActemra 162 mg solution for injection in pre-filled syringe.]
 
-Treatment should be initiated by healthcare professionals experienced in the diagnosis and treatment of RA.
-Suitability of the patient for subcutaneous home use should be assessed and instruct patients to inform a healthcare professional if they experience symptoms of an allergic reaction before administering the next dose.
-Patients should seek immediate medical attention if developing symptoms of serious allergic reactions (see section 4.4).
+Treatment should be initiated by healthcare professionals experienced in the diagnosis and treatment of RA and / or GCA.
+Suitability of the patient for subcutaneous home use should be assessed and patients should be instructed to inform a healthcare professional if they experience symptoms of an allergic reaction.
+Patients should seek immediate medical attention if they develop symptoms of serious allergic reactions (see section 4.4).
 
+RoActemra subcutaneous formulation is not intended for intravenous administration.
+RA
 The recommended posology is subcutaneous 162 mg once every week.
 
 Limited information is available regarding switching patients from RoActemra intravenous formulation to RoActemra subcutaneous fixed dose formulation.
 The once every week dosing interval should be followed.
+
 Patients transitioning from intravenous to subcutaneous formulation should administer their first subcutaneous dose instead of the next scheduled intravenous dose under the supervision of a qualified healthcare professional.
+
+GCA
+The recommended posology is subcutaneous 162 mg once every week in combination with a tapering course of glucocorticoids.
+RoActemra can be used alone following discontinuation of glucocorticoids.
+RoActemra monotherapy should not be used for the treatment of acute relapses (see 4.4).
+
+Based upon the chronic nature of GCA, treatment beyond 52 weeks should be guided by disease activity, physician discretion, and patient choice.
+
+RA and GCA
 
 | Laboratory Value | Action |
 | --- | --- |
-| > 1 to 3 x Upper Limit of Normal (ULN) | Dose modify concomitant DMARDs if appropriate. For persistent increases in this range, reduce RoActemra dose frequency to every other week injection or interrupt RoActemra until alanine aminotransferase (ALT) or aspartate aminotransferase (AST) have normalised. Restart with weekly or every other week injection, as clinically appropriate. |
+| > 1 to 3 x Upper Limit of Normal (ULN) | Dose modify concomitant DMARDs (RA) or immunomodulatory agents (GCA) if appropriate. For persistent increases in this range, reduce RoActemra dose frequency to every other week injection or interrupt RoActemra until alanine aminotransferase (ALT) or aspartate aminotransferase (AST) have normalised. Restart with weekly or every other week injection, as clinically appropriate. |
 | > 3 to 5 x ULN | Interrupt RoActemra dosing until < 3 x ULN and follow recommendations above for > 1 to 3 x ULN. For persistent increases > 3 x ULN (confirmed by repeat testing, see 4.4.), discontinue RoActemra. |
 | > 5 x ULN | Discontinue RoActemra. |
 
-| Laboratory Value (cells x 109/ l ) | Action |
+| Laboratory Value (cells x 109/ L ) | Action |
 | --- | --- |
 | ANC > 1 | Maintain dose. |
-| ANC 0.5 to 1 | Interrupt RoActemra dosing. When ANC increases > 1 x 109/ l resume RoActemra dosing every other week and increase to every week injection, as clinically appropriate. |
+| ANC 0.5 to 1 | Interrupt RoActemra dosing. When ANC increases > 1 x 109/ L resume RoActemra dosing every other week and increase to every week injection, as clinically appropriate. |
 | ANC < 0.5 | Discontinue RoActemra. |
 
-| Laboratory Value (cells x 103/ μl) | Action |
+| Laboratory Value (cells x 103/ μL) | Action |
 | --- | --- |
-| 50 to 100 | Interrupt RoActemra dosing. When platelet count > 100 x 103/ μl resume RoActemra dosing every other week and increase to every week injection as clinically appropriate. |
+| 50 to 100 | Interrupt RoActemra dosing. When platelet count > 100 x 103/ μL resume RoActemra dosing every other week and increase to every week injection as clinically appropriate. |
 | < 50 | Discontinue RoActemra. |
 
 Missed dose
 If a patient misses a subcutaneous weekly injection of RoActemra within 7 days of the scheduled dose, he/she should be instructed to take the missed dose on the next scheduled day.
 If a patient misses a subcutaneous once every other week injection of RoActemra within 7 days of the scheduled dose, he/she should be instructed to take the missed dose immediately and the next dose on the next scheduled day.
+
+No dose adjustment is required in patients with mild or moderate renal impairment.
+RoActemra has not been studied in patients with severe renal impairment (see section 5.2).
 
 The safety and efficacy of RoActemra subcutaneous formulation in children from birth to less than 18 years have not been established.
 
@@ -186,7 +201,6 @@ RoActemra is for subcutaneous use.
 After proper training in injection technique, patients may self-inject with RoActemra if their physician determines that it is appropriate.
 The total content (0.9 ml) of the pre-filled syringe should be administered as a subcutaneous injection.
 The recommended injection sites (abdomen, thigh and upper arm) should be rotated and injections should never be given into moles, scars, or areas where the skin is tender, bruised, red, hard, or not intact.
-
 The pre-filled syringe should not be shaken.
 
 Comprehensive instructions for the administration of RoActemra in a pre-filled syringe are given in the package leaflet, see section 6.6.

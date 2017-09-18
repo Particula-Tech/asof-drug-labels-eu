@@ -1,5 +1,9 @@
 # 4.4 Special warnings and precautions for use
 
+Traceability
+In order to improve the traceability of biological medicinal products, the name and the batch number
+of the administered product should be clearly recorded.
+
 Infections
 Serious and sometimes fatal infections have been reported in patients receiving immunosuppressive agents including RoActemra (see section 4.8, undesirable effects).
 RoActemra treatment must not be initiated in patients with active infections (see section 4.3).
@@ -67,6 +71,7 @@ In sJIA and pJIA patients, neutrophils and platelets should be monitored at the 
 Lipid parameters
 Elevations in lipid parameters including total cholesterol, low-density lipoprotein (LDL), high-density lipoprotein (HDL) and triglycerides were observed in patients treated with tocilizumab (see section 4.8).
 In the majority of patients, there was no increase in atherogenic indices, and elevations in total cholesterol responded to treatment with lipid lowering agents.
+
 In sJIA, pJIA and RA patients, assessment of lipid parameters should be performed 4 to 8 weeks following initiation of RoActemra therapy.
 Patients should be managed according to local clinical guidelines for management of hyperlipidaemia.
 
@@ -105,25 +110,37 @@ In clinical trials, tocilizumab has not been studied in patients during an episo
 
 [RoActemra 162 mg solution for injection in pre-filled syringe.]
 
-Vigilance for the timely detection of serious infection is recommended for patients receiving biological treatments for moderate to severe RA as signs and symptoms of acute inflammation may be lessened, associated with suppression of the acute phase reactants.
+Healthcare professionals should exercise caution when considering the use of RoActemra in patients with a history of recurring or chronic infections or with underlying conditions (e.g.) diverticulitis, diabetes and interstitial lung disease which may predispose patients to infections.
+
+Vigilance for the timely detection of serious infection is recommended for patients receiving immunosupressive agents such as RoActemra for moderate to severe RA or GCA as signs and symptoms of acute inflammation may be lessened, due to suppression of the acute phase reactants.
 Patients should be instructed to contact their healthcare professional immediately when any symptoms suggesting infection appear, in order to assure rapid evaluation and appropriate treatment.
 
-As recommended for other biological treatments, RA, patients should be screened for latent tuberculosis (TB) infection prior to starting RoActemra therapy.
+As recommended for other biological treatments, all patients should be screened for latent tuberculosis (TB) infection prior to starting RoActemra therapy.
 
 Patients should be advised to seek medical advice if signs/symptoms (e.g., persistent cough, wasting/weight loss, low grade (fever) suggestive of a tuberculosis infection occur during or after therapy with RoActemra.
 
+In clinical studies with RoActemra , patients who screened positive for hepatitis were excluded.
+
+Events of diverticular perforations as complications of diverticulitis have been reported uncommonly in patients treated with RoActemra (see section 4.8).
 Serious hypersensitivity reactions, including anaphylaxis have been reported in association with RoActemra (see section 4.8).
 Such reactions may be more severe, and potentially fatal in patients who have experienced hypersensitivity reactions during previous treatment with tocilizumab even if they have received premedication with steroids and antihistamines.
 If an anaphylactic reaction or other serious hypersensitivity reaction occurs, administration of RoActemra should be stopped immediately, appropriate therapy initiated and tocilizumab should be permanently discontinued.
 
+In RA and GCA patients, ALT and AST levels should be monitored every 4 to 8 weeks for the first 6 months of treatment followed by every 12 weeks thereafter.
 For ALT or AST elevations > 3–5 x ULN, RoActemra treatment should be interrupted.
 
-In RA patients, assessment of lipid parameters should be performed 4 to 8 weeks following initiation of RoActemra therapy.
+In patients not previously treated with RoActemra, initiation is not recommended in patients with an ANC below 2 x 109/L.
 
-It is recommended that all patients, be brought up to date with all immunisations in agreement with current immunisation guidelines prior to initiating RoActemra therapy.
+In RA and GCA patients, neutrophils and platelets should be monitored 4 to 8 weeks after start of therapy and thereafter according to standard clinical practice.
+
+In RA and GCA patients, assessment of lipid parameters should be performed 4 to 8 weeks following initiation of RoActemra therapy.
+
+It is recommended that all patients particularly elderly patients, be brought up to date with all immunisations in agreement with current immunisation guidelines prior to initiating RoActemra therapy.
 
 RA patients have an increased risk for cardiovascular disorders and should have risk factors (e.g. hypertension, hyperlipidaemia) managed as part of usual standard of care.
 
 There is no experience with the use of RoActemra with TNF antagonists or other biological treatments for RA patients.
-Traceability
-In order to improve the traceability of biological medicinal products, the tradename of the administered product should be clearly recorded (or stated) in the patient file.
+
+GCA
+RoActemra monotherapy should not be used for the treatment of acute relapses as efficacy in this setting has not been established.
+Glucocorticoids should be given according to medical judgement and practice guidelines.

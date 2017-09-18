@@ -21,4 +21,9 @@ In particular, there was no impairment of skeletal growth, immune function and s
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity and toxicity to reproduction and development.
 
-The non-clinical safety profile of tocilizumab in the cynomolgus monkey does not suggest a difference between intravenous and subcutaneous routes of administration.
+This data does not suggest a relevant risk for cancer initiation and progression under RoActemra treatment.
+
+RoActemra administered to cynomolgus monkeys during early gestation, was observed to have no direct or indirect harmful effect on pregnancy or embryonal-foetal development.
+Although IL-6 does not seem to be a critical cytokine for foetal growth or the immunological control of the maternal/foetal interface, a relation of this finding to RoActemra cannot be excluded.
+
+The non-clinical safety profile of RoActemra in the cynomolgus monkey does not suggest a difference between intravenous and subcutaneous routes of administration.

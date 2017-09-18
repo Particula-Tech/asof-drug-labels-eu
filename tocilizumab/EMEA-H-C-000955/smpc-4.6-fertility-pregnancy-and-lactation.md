@@ -17,3 +17,11 @@ A decision on whether to continue/discontinue breast-feeding or to continue/disc
 
 Fertility
 Available non-clinical data do not suggest an effect on fertility under tocilizumab treatment.
+
+[RoActemra 162 mg solution for injection in pre-filled syringe.]
+
+There are no adequate data from the use of RoActemra in pregnant women.
+
+The excretion of RoActemra in milk has not been studied in animals.
+
+Available non-clinical data do not suggest an effect on fertility under RoActemra treatment.

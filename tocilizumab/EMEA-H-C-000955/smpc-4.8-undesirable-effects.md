@@ -5,9 +5,9 @@ Summary of the safety profile
 The most commonly reported ADRs (occurring in ≥ 5% of patients treated with tocilizumab monotherapy or in combination with DMARDs) were upper respiratory tract infections, nasopharyngitis, headache, hypertension and increased ALT.
 
 The most serious ADRs were serious infections, complications of diverticulitis, and hypersensitivity reactions.
-
 RA Patients
 The safety of tocilizumab has been studied in 4 placebo-controlled studies (studies II, III, IV and V), 1 MTX-controlled study (study I) and their extension periods (see section 5.1).
+
 The double-blind controlled period was 6 months in four studies (studies I, III, IV and V) and was up to 2 years in one study (study II).
 In the double-blind controlled studies, 774 patients received tocilizumab 4 mg/kg in combination with MTX, 1870 patients received tocilizumab 8 mg/kg in combination with MTX or other DMARDs and 288 patients received tocilizumab 8 mg/kg monotherapy.
 
@@ -16,7 +16,6 @@ Of the 4009 patients in this population, 3577 received treatment for at least 6 
 
 The ADRs listed in Table 1 are presented by system organ class and frequency categories, defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to < 1/10), uncommon
 (≥ 1/1,000 to < 1/100), rare (>1/10,000 to <1/1,000) or very rare (<1/10,000) Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
-
 Table 1.
 Summary of ADRs occurring in patients with RA receiving tocilizumab as monotherapy or in combination with MTX or other DMARDs in the double-blind controlled period
 
@@ -37,6 +36,7 @@ Summary of ADRs occurring in patients with RA receiving tocilizumab as monothera
 | Endocrine disorders |  |  | Hypothyroidism |
 
 * Includes elevations collected as part of routine laboratory monitoring (see text below)
+
 Infections
 In the 6-month controlled studies the rate of all infections reported with tocilizumab 8 mg/kg plus DMARD treatment was 127 events per 100 patient years compared to 112 events per 100 patient years in the placebo plus DMARD group.
 In the long-term exposure population, the overall rate of infections with RoActemra was 108 events per 100 patient years exposure.
@@ -71,6 +71,7 @@ Immunogenicity
 A total of 2,876 patients have been tested for anti-tocilizumab antibodies in the 6-month controlled clinical trials.
 Of the 46 patients (1.6%) who developed anti-tocilizumab antibodies, 6 had an associated medically significant hypersensitivity reaction, of which 5 led to permanent discontinuation of treatment.
 Thirty patients (1.1%) developed neutralising antibodies.
+
 Haematological abnormalities:
 Neutrophils
 In the 6-month controlled trials decreases in neutrophil counts below 1 x 109/ l occurred in 3.4% of patients on tocilizumab 8 mg/kg plus DMARDs compared to < 0.1% of patients on placebo plus DMARDs.
@@ -85,7 +86,6 @@ In the 6-month controlled trials decreases in platelet counts below 100 x 103/ �
 These decreases occurred without associated bleeding events.
 
 During the double-blind controlled period and with long-term exposure, the pattern and incidence of decreases in platelet counts remained consistent with what was seen in the 6-month controlled clinical trials.
-
 Very rare reports of pancytopenia have occurred in the post marketing setting.
 
 Hepatic transaminase elevations
@@ -104,6 +104,7 @@ During the 6-month controlled trials, increases of lipid parameters such as tota
 With routine laboratory monitoring it was seen that approximately 24% of patients receiving RoActemra in clinical trials experienced sustained elevations in total cholesterol ≥ 6.2 mmol/ l, with 15% experiencing a sustained increase in LDL to ≥ 4.1 mmol/ l. Elevations in lipid parameters responded to treatment with lipid-lowering agents.
 
 During the double-blind controlled period and with long-term exposure, the pattern and incidence of elevations in lipid parameters remained consistent with what was seen in the 6-month controlled trials.
+
 Malignancies
 The clinical data are insufficient to assess the potential incidence of malignancy following exposure to tocilizumab.
 Long-term safety evaluations are ongoing.
@@ -113,11 +114,10 @@ Very rare reports of Stevens-Johnson Syndrome have occurred in the post marketin
 
 Paediatric population
 
-The safety of toclizumab in the pediatric population in the sections on pJIA and sJIA below.
+The safety of tocilizumab in the pediatric population in the sections on pJIA and sJIA below.
 In general, the ADRs in pJIA and sJIA patients were similar in type to those see in RA patients, see section 4.8.
 
 The ADRs in the pJIA and sJIA patients treated with tocilizumab are described below and are presented in the Table 2 by system organ class and frequency categories, defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to < 1/10) or uncommon (≥ 1/1,000 to <1/100)
-
 Table 2: Summary of ADRs occurring in patients with sJIA or pJIA receiving tocilizumab as monotherapy or in combination with MTX.
 
 SOC PT Frequency
@@ -170,7 +170,6 @@ The most common events occurring during infusion were headache, nausea and hypot
 In general, the adverse drug reactions observed during or within 24 hours of an infusion were similar in nature to those seen in RA and sJIA patients, see section 4.8.
 
 No clinically significant hypersensitivity reactions associated with tocilizumab and requiring treatment discontinuation were reported.
-
 Immunogenicity
 One patient in the 10 mg/kg < 30kg group developed positive anti-tocilizumab antibodies without developing a hypersensitivity reaction and subsequently withdrew from the study.
 
@@ -199,6 +198,7 @@ Events of cholesterol increased were less frequently reported in the sJIA popula
 Infections
 In the 12 week controlled phase, the rate of all infections in the tocilizumab group was 344.7 per 100 patient years and 287.0 per 100 patient years in the placebo group.
 In the ongoing open label extension phase (Part II), the overall rate of infections remained similar at 306.6 per 100 patient years.
+
 In the 12 week controlled phase, the rate of serious infections in the tocilizumab group was 11.5 per 100 patient years.
 At one year in the ongoing open label extension phase the overall rate of serious infections remained stable at 11.3 per 100 patient years.
 Reported serious infections were similar to those seen in RA patients with the addition of varicella and otitis media.
@@ -211,7 +211,6 @@ One event (angioedema) was considered serious and life-threatening, and the pati
 In the 12 week controlled phase, 16% of patients in the tocilizumab group and 5.4% of patients in the placebo group experienced an event within 24 hours of infusion.
 In the tocilizumab group, the events included, but were not limited to rash, urticaria, diarrhea, epigastric discomfort, arthralgia and headache.
 One of these events, urticaria, was considered serious.
-
 Clinically significant hypersensitivity reactions associated with tocilizumab and requiring treatment discontinuation, were reported in 1 out of 112 patients (< 1%) treated with tocilizumab during the controlled and up to and including the open label clinical trial.
 
 Immunogenicity
@@ -252,15 +251,17 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [RoActemra 162 mg solution for injection in pre-filled syringe.]
 
-The most commonly reported Adverse Drug Reactions (ADRs) (occurring in ≥ 5% of patients treated with tocilizumab monotherapy or in combination with DMARDs) were upper respiratory tract infections, nasopharyngitis, headache, hypertension and increased ALT.
+The safety profile comes from 4158 patients exposed to RoActemra in clinical trials; the majority of these patients were participating in RA studies (n=4009), while the remaining experience comes from GCA (n=149) studies.
+The safety profile of RoActemra across these indications remains similar and undifferentiated.
 
-Intravenous use
+The most commonly reported Adverse Drug Reactions (ADRs) were upper respiratory tract infections, nasopharyngitis, headache, hypertension and increased ALT.
 
 Tabulated summary of adverse reactions
-(≥ 1/1,000 to < 1/100) rare (>1/10,000 to <1/1,000) or very rare (<1/10,000).
+(≥ 1/1,000 to < 1/100) rare, (≥1/10,000 to <1/1,000) or very rare (<1/10,000).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+Summary of ADRs occurring in patients treated with RoActemra.
 
-| System Organ Class[A1] | Very Common | Common | Uncommon |
+| System Organ Class | Very Common | Common | Uncommon |
 | --- | --- | --- | --- |
 | Blood and lymphatic system disorders |  | Leukopenia, Neutropenia |  |
 | Endocrine disorders |  |  | Hypothyroidism |
@@ -271,32 +272,60 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Investigations |  | Hepatic transaminases increased, Weight increased, Total bilirubin increased* |  |
 | Metabolism and nutrition disorders | Hypercholesterolaemia* |  | Hypertriglyceridaemia |
 | Nervous system disorders |  | Headache, Dizziness |  |
-| Renal disorders |  |  | Nephrolithiasis |
+| Renal and urinary disorders |  |  | Nephrolithiasis |
 | Respiratory, thoracic and mediastinal disorders |  | Cough, Dyspnoea |  |
 | Skin and subcutaneous tissue disorders |  | Rash, Pruritus, Urticaria |  |
 | Vascular disorders |  | Hypertension |  |
 
+RA
+Intravenous use
+The safety of RoActemra has been studied in 4 placebo-controlled studies (studies II, III, IV and V), 1 MTX-controlled study (study I) and their extension periods (see section 5.1).
+
+In the double-blind controlled studies, 774 patients received RoActemra 4 mg/kg in combination with MTX, 1870 patients received RoActemra 8 mg/kg in combination with MTX or other DMARDs and 288 patients received RoActemra 8 mg/kg monotherapy.
+
+The long-term exposure population includes all patients who received at least one dose of RoActemra either in the double-blind control period or open label extension phase in the studies.
 Description of selected adverse reactions
 
-Fatal anaphylaxis has been reported after marketing authorisation during treatment with intravenous tocilizumab (see section 4.4).
+In the 6-month controlled studies the rate of all infections reported with RoActemra 8 mg/kg plus DMARD treatment was 127 events per 100 patient years compared to 112 events per 100 patient years in the placebo plus DMARD group.
+
+In 6-month controlled clinical studies, the rate of serious infections with RoActemra 8 mg/kg plus DMARDs was 5.3 events per 100 patient years exposure compared to 3.9 events per 100 patient years exposure in the placebo plus DMARD group.
+In the monotherapy study the rate of serious infections was 3.6 events per 100 patient years of exposure in the RoActemra group and 1.5 events per 100 patient years of exposure in the MTX group.
+
+Reports of gastrointestinal perforation on RoActemra were primarily reported as complications of diverticulitis including generalised purulent peritonitis, lower gastrointestinal perforation, fistulae and abscess.
+
+Clinically significant hypersensitivity reactions associated with RoActemra and requiring treatment discontinuation were reported in a total of 56 out of 4,009 patients (1.4%) treated with RoActemra during the controlled and open label clinical studies.
+Fatal anaphylaxis has been reported after marketing authorisation during treatment with intravenous RoActemra (see section 4.4).
+
+A total of 2,876 patients have been tested for anti-RoActemra antibodies in the 6-month controlled clinical trials.
+Of the 46 patients (1.6%) who developed anti-RoActemra antibodies, 6 had an associated medically significant hypersensitivity reaction, of which 5 led to permanent discontinuation of treatment.
+In the 6-month controlled trials decreases in neutrophil counts below 1 x 109/ L occurred in 3.4% of patients on RoActemra 8 mg/kg plus DMARDs compared to < 0.1% of patients on placebo plus DMARDs.
+Decreases below 0.5 x 109/ L were reported in 0.3% patients receiving RoActemra 8 mg/kg plus DMARDs.
+
+In the 6-month controlled trials decreases in platelet counts below 100 x 103/ μL occurred in 1.7% of patients on RoActemra 8 mg/kg plus DMARDs compared to < 1% on placebo plus DMARDs.
+
+During the 6-month controlled trials transient elevations in ALT/AST > 3 x ULN were observed in 2.1% of patients on RoActemra 8 mg/kg compared to 4.9% of patients on MTX and in 6.5% of patients who received 8 mg/kg RoActemra plus DMARDs compared to 1.5% of patients on placebo plus DMARDs.
+
+Elevations of ALT/AST > 5 x ULN were observed in 0.7% of RoActemra monotherapy patients and 1.4% of tocilizumab plus DMARD patients, the majority of whom were discontinued permanently from tocilizumab treatment.
+During the double-blind controlled period, the incidence of indirect bilirubin greater than the upper limit of normal, collected as a routine laboratory parameter, is 6.2% in patients treated with 8 mg/kg RoActemra + DMARD.
 
 Subcutaneous use
-The safety of subcutaneous tocilizumab in RA includes a double-blind, controlled, multicenter study, SC-I.
-SC-I was a non-inferiority study that compared the efficacy and safety of tocilizumab 162 mg administered every week versus 8 mg/kg intravenous in 1262 patients with RA.
+The safety of subcutaneous RoActemra in RA includes a double-blind, controlled, multicenter study, SC-I.
+SC-I was a non-inferiority study that compared the efficacy and safety of RoActemra 162 mg administered every week versus 8 mg/kg intravenous in 1262 patients with RA.
 All patients received background non-biologic DMARD(s).
-The safety and immunogenicity observed for tocilizumab administered subcutaneous was consistent with the known safety profile of intravenous tocilizumab and no new or unexpected adverse drug reactions were observed (see Table 1).
+The safety and immunogenicity observed for RoActemra administered subcutaneous was consistent with the known safety profile of intravenous RoActemra and no new or unexpected adverse drug reactions were observed (see Table 1).
 A higher frequency of injection site reactions was observed in the subcutaneous arms compared with placebo subcutaneous injections in the intravenous arms.
 
 Injection site reactions
 During the 6-month controlled period, in SC-I, the frequency of injection site reactions was 10.1% (64/631) and 2.4% (15/631) for the subcutaneous tocilizumab and the subcutaneous placebo ( intravenous group) weekly injections, respectively.
 These injection site reactions (including erythema, pruritus, pain and haematoma) were mild to moderate in severity.
 The majority was resolved without any treatment and none necessitated drug discontinuation.
-In SC-I, a total of 625 patients treated with tocilizumab 162mg weekly were tested for anti-tocilizumab antibodies in the 6 month controlled period.
-Five patients (0.8%) developed positive anti-tocilizumab antibodies; of these, all developed neutralizing anti-tocilizumab antibodies.
+
+In SC-I, a total of 625 patients treated with RoActemra 162mg weekly were tested for anti-RoActemra antibodies in the 6 month controlled period.
+Five patients (0.8%) developed positive anti-RoActemra antibodies; of these, all developed neutralizing anti-RoActemra antibodies.
 One patient was tested positive for IgE isotype (0.2%).
 
-In SC-II, a total of 434 patients treated with tocilizumab 162mg every other week were tested for anti-tocilizumab antibodies in the 6 month controlled period.
-Seven patients (1.6%) developed positive anti-tocilizumab antibodies; of these, six (1.4%) developed neutralizing anti-tocilizumab antibodies.
+In SC-II, a total of 434 patients treated with tocilizumab 162mg every other week were tested for anti-RoActemra antibodies in the 6 month controlled period.
+Seven patients (1.6%) developed positive antiRoActemra antibodies; of these, six (1.4%) developed neutralizing anti-RoActemra antibodies.
 Four patients were tested positive for IgE isotype (0.9%).
 
 No correlation of antibody development to clinical response or adverse events was observed.
@@ -305,8 +334,32 @@ During routine laboratory monitoring in the tocilizumab 6 month controlled clini
 
 There was no clear relationship between decreases in neutrophils below 1 x 109/L and the occurrence of serious infections.
 
-During routine laboratory monitoring in the tocilizumab 6 month clinical trial SC-I, none of the patients on the SC weekly dose had a decrease in platelet count to ≤50 × 103 / μl.
+During routine laboratory monitoring in the tocilizumab 6 month clinical trial SC-I, none of the patients on the SC weekly dose had a decrease in platelet count to ≤50 × 103 / μL.
 
 During routine laboratory monitoring in the tocilizumab 6-month controlled clinical trial SC-I, elevation in ALT or AST ≥3 x ULN occurred in 6.5% and 1.4% of patients, respectively on the subcutaneous weekly dose.
 
-During routine laboratory monitoring in the tocilizumab 6 month controlled clinical trial SC-I, 19% of patients experienced sustained elevations in total cholesterol > 6.2 mmol/l (240 mg/dl), with 9% experiencing a sustained increase in LDL to ≥ 4.1 mmol/l (160 mg/dl) on the subcutaneous weekly dose.
+During routine laboratory monitoring in the RoActemra 6 month controlled clinical trial SC-I, 19% of patients experienced sustained elevations in total cholesterol > 6.2 mmol/L (240 mg/dl), with 9% experiencing a sustained increase in LDL to ≥ 4.1 mmol/L(160 mg/dL) on the subcutaneous weekly dose.
+
+GCA
+The safety of subcutaneous RoActemra has been studied in one Phase III study (WA28119) with 251 GCA patients.
+The total patient years duration in the RoActemra all exposure population was 138.5 patient years during the 12 month double blind, placebo controlled phase of the study.
+The overall safety profile observed in the RoActemra treatment groups was consistent with the known safety profile of RoActemra (see Table 1).
+
+The rate of infection/serious infection events was balanced between the RoActemra weekly group (200.2/9.7 events per 100 patient years) vs. placebo plus 26 weeks prednisone taper (156.0/4.2 events per 100 patient years) and placebo plus 52 weeks taper (210.2/12.5 events per 100 patient years) groups.
+
+In the RoActemra subcutaneous weekly group, a total of 6% (6/100) patients reported an adverse reaction occurring at the site of a subcutaneous injection.
+No injection site reaction was reported as a serious adverse event or required treatment discontinuation.
+
+In the RoActemra subcutaneous weekly group, one patient (1.1%, 1/95) developed positive neutralizing anti-RoActemra antibodies, though not of the IgE isotype.
+This patient did not develop a hypersensitivity reaction or injection site reaction.
+
+During routine laboratory monitoring in the Roactemra 12 month controlled clinical trial, a decrease in neutrophil count below 1 × 109/L occurred in 4% of patients in the RoActemra subcutaneous weekly group.
+This was not observed in either of the placebo plus prednisone taper groups.
+
+During routine laboratory monitoring in the RoActemra 12 month controlled clinical trial, one patient (1%, 1/100) in the RoActemra subcutaneous weekly group had a single transient occurence of decrease in platelet count to <100 × 103 / μL without associated bleeding events.
+A decrease in platelet count below 100 × 103 / μL was not observed in either of the placebo plus prednisone taper groups.
+
+During routine laboratory monitoring in the RoActemra 12 month controlled clinical trial, elevation in ALT ≥3 x ULN occurred in 3% of patients in the RoActemra subcutaneous weekly group compared to 2% in the placebo plus 52 week prednisone taper group and none in the placebo plus 26 week prednisone taper group.
+An elevation in AST > 3 ULN occurred in 1% of patients in the RoActemra subcutaneous weekly group, compared to no patients in either of the placebo plus prednisone taper groups.
+
+During routine laboratory monitoring in the RoActemra 12 month controlled clinical trial, 34% of patients experienced sustained elevations in total cholesterol > 6.2 mmol/L (240 mg/dL), with 15% experiencing a sustained increase in LDL to ≥ 4.1 mmol/L (160 mg/dL) in the RoActemra subcutaneous weekly group.

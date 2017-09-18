@@ -16,4 +16,4 @@ RoActemra can be given as monotherapy in case of intolerance to MTX or where con
 
 [RoActemra 162 mg solution for injection in pre-filled syringe.]
 
-- the treatment of moderate to severe active rheumatoid arthritis (RA) in adult patients who have either responded inadequately to, or who were intolerant to, previous therapy with one or more disease-modifying anti-rheumatic drugs (DMARDs) or tumour necrosis factor (TNF) antagonists.
+RoActemra is indicated for the treatment of Giant Cell Arteritis (GCA) in adult patients.
