@@ -8,7 +8,6 @@ The lenalidomide mechanism of action includes anti-neoplastic, anti-angiogenic, 
 Specifically, lenalidomide inhibits proliferation of certain haematopoietic tumour cells (including MM plasma tumour cells and those with deletions of chromosome 5), enhances T cell- and Natural Killer (NK) cell-mediated immunity and increases the number of NK T cells, inhibits angiogenesis by blocking the migration and adhesion of endothelial cells and the formation of microvessels, augments foetal haemoglobin production by CD34+ haematopoietic stem cells, and inhibits production of pro-inflammatory cytokines (e.g., TNF-α and IL-6) by monocytes.
 
 In MDS Del (5q), lenalidomide was shown to selectively inhibit the abnormal clone by increasing the apoptosis of Del (5q) cells.
-
 Lenalidomide binds directly to cereblon, a component of a cullin ring E3 ubiquitin ligase enzyme complex that includes deoxyribonucleic acid (DNA) damage-binding protein 1(DDB1), cullin 4 (CUL4), and regulator of cullins 1 (Roc1).
 In the presence of lenalidomide, cereblon binds substrate proteins Aiolos and Ikaros which are lymphoid transcriptional factors, leading to their ubiquitination and subsequent degradation resulting in cytotoxic and immunomodulatory effects.
 
@@ -97,7 +96,6 @@ The median overall survival time was 105.9 months (95% CI 88.8, NE) in the lenal
 The safety and efficacy of lenalidomide was assessed in a phase III, multicenter, randomised, open-label, 3-arm study (MM-020) of patients who were at least 65 years of age or older or, if younger than 65 years of age, were not candidates for stem cell transplantation because they declined to undergo stem cell transplantation or stem cell transplantation is not available to the patient due to cost or other reason.The study (MM-020) compared lenalidomide and dexamethasone (Rd) given for 2 different durations of time (i.e., until progressive disease [Arm Rd] or for up to eighteen 28-day cycles [72 weeks, Arm Rd18]) to melphalan, prednisone and thalidomide (MPT) for a maximum of twelve 42-day cycles (72 weeks).
 Patients were randomised (1:1:1) to 1 of 3 treatment arms.
 Patients were stratified at randomisation by age (≤75 versus >75 years), stage (ISS Stages I and II versus Stage III), and country.
-
 Patients in the Rd and Rd18 arms took lenalidomide 25 mg once daily on days 1 to 21 of 28-day cycles according to protocol arm.
 Dexamethasone 40 mg was dosed once daily on days 1, 8, 15, and 22 of each 28-day cycle.
 Initial dose and regimen for Rd and Rd18 were adjusted according to age and renal function (see section 4.2).
@@ -250,6 +248,7 @@ Results of these analyses subsequently led to an unblinding in both studies, in 
 
 An extended follow-up efficacy analysis was conducted with a median follow-up of 130.7 weeks.
 Table 9 summarises the results of the follow-up efficacy analyses – pooled studies MM-009 and MM-010.
+
 In this pooled extended follow-up analysis, the median TTP was 60.1 weeks (95% CI: 44.3, 73.1) in patients treated with len/dex (N = 353) versus 20.1 weeks (95% CI: 17.7, 20.3) in patients treated with placebo/dex (N = 351).
 The median progression free survival was 48.1 weeks (95% CI: 36.4, 62.1) in patients treated with len/dex versus 20.0 weeks (95% CI: 16.1, 20.1) in patients treated with placebo/dex.
 The median duration of treatment was 44.0 weeks (min: 0.1, max: 254.9) for len/dex and 23.1 weeks (min: 0.3, max: 238.1) for placebo/dex.
@@ -284,6 +283,7 @@ Patients who had evidence of at least a minor erythroid response could continue 
 Patients, who initially received placebo or 5 mg lenalidomide and did not achieve at least a minor erythroid response after 16 weeks of treatment were permitted to switch from placebo to 5 mg lenalidomide or continue lenalidomide treatment at higher dose (5 mg to 10 mg).
 
 In, study MDS-003, in which 148 patients received lenalidomide at a dose of 10 mg, the primary efficacy analysis consisted of an evaluation of the efficacy of lenalidomide treatments to achieve haematopoietic improvement in subjects with low- or intermediate-1 risk myelodysplastic syndromes.
+
 Table 10.
 Summary of efficacy results – studies MDS-004 (double-blind phase) and MDS-003, intent-to-treat populationEndpoint
 
@@ -319,7 +319,6 @@ The median increase in haemoglobin (Hgb) was 5.6 g/dL.
 Major and minor cytogenetic responses were observed in 40.9% and 30.7% of subjects, respectively.
 
 A large proportion of subjects enrolled in MDS-003 (72.9%) and MDS-004 (52.7%) had received prior erythropoiesis-stimulating agents.
-
 Mantle cell lymphoma
 The efficacy and safety of lenalidomide were evaluated in patients with mantle cell lymphoma in a phase II, multicenter, randomised open-label study versus single agent of investigator’s choice in patients who were refractory to their last regimen or had relapsed one to three times (study MCL-002).
 Patients who were at least 18 years of age with histologically-proven MCL and CT-measurable disease were enrolled.
@@ -327,6 +326,7 @@ Patients were required to have received adequate previous treatment with at leas
 Also, patients had to be ineligible for intensive chemotherapy and/or transplant at time of inclusion in the study.
 Patients were randomised 2:1 to the lenalidomide or the control arm.
 The investigator’s choice treatment was selected before randomisation and consisted of monotherapy with either chlorambucil, cytarabine, rituximab, fludarabine, or gemcitabine.
+
 Lenalidomide was administered orally 25 mg once daily for the first 21 days (D1 to D21) of repeating 28-day cycles until progression or unacceptable toxicity.
 Patients with moderate renal insufficiency were to receive a lower starting dose of lenalidomide 10 mg daily on the same schedule.
 
@@ -359,7 +359,6 @@ d The stratification variables included time from diagnosis to first dose (< 3 y
 e Sequential test was based on a weighted mean of a log-rank test statistic using the unstratified log-rank test for sample size increase and the unstratified log-rank test of the primary analysis.
 The weights are based on observed events at the time the third DMC meeting was held and based on the difference between observed and expected events at the time of the primary analysis.
 The associated sequential HR and the corresponding 95% CI are presented.
-
 In study MCL-002 in the ITT population, there was an overall apparent increase in deaths within 20 weeks in the lenalidomide arm 22/170 (13%) versus 6/84 (7%) in the control arm.
 In patients with high tumour burden, corresponding figures were 16/81 (20%) and 2/28 (7%) (see section 4.4).
 

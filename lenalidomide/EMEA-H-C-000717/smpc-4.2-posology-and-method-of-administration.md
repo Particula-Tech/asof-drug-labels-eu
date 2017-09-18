@@ -297,7 +297,7 @@ All indications
 For other grade 3 or 4 toxicities judged to be related to lenalidomide, treatment should be stopped and only restarted at next lower dose level when toxicity has resolved to ≤ grade 2 depending on the physician’s discretion.
 
 Lenalidomide interruption or discontinuation should be considered for grade 2 or 3 skin rash.
-Lenalidomide must be discontinued for angioedema, grade 4 rash, exfoliative or bullous rash, or if Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN) is suspected, and should not be resumed following discontinuation from these reactions.
+Lenalidomide must be discontinued for angioedema, grade 4 rash, exfoliative or bullous rash, or if Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN) or Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) is suspected, and should not be resumed following discontinuation from these reactions.
 Special populations
 
 - Paediatric population

@@ -10,7 +10,6 @@ EU/1/07/391/008
 
 Revlimid 7.5 mg hard capsules
 EU/1/07/391/006
-
 Revlimid 10 mg hard capsules
 EU/1/07/391/002
 EU/1/07/391/010

@@ -29,13 +29,13 @@ Therefore, lenalidomide is unlikely to cause any clinically relevant medicinal p
 In vitro studies indicate that lenalidomide is not a substrate of human breast cancer resistance protein (BCRP), multidrug resistance protein (MRP) transporters MRP1, MRP2, or MRP3, organic anion transporters (OAT) OAT1 and OAT3, organic anion transporting polypeptide 1B1 (OATP1B1), organic cation transporters (OCT) OCT1 and OCT2, multidrug and toxin extrusion protein (MATE) MATE1, and organic cation transporters novel (OCTN) OCTN1 and OCTN2.
 
 In vitro studies indicate that lenalidomide has no inhibitory effect on human bile salt export pump (BSEP), BCRP, MRP2, OAT1, OAT3, OATP1B1, OATP1B3, and OCT2.
-
 A majority of lenalidomide is eliminated through urinary excretion.
 The contribution of renal excretion to total clearance in subjects with normal renal function was 90%, with 4% of lenalidomide eliminated in faeces.
 
 Lenalidomide is poorly metabolized as 82% of the dose is excreted unchanged in urine.
 Hydroxy-lenalidomide and N-acetyl-lenalidomide represent 4.59% and 1.83% of the excreted dose, respectively.
 The renal clearance of lenalidomide exceeds the glomerular filtration rate and therefore is at least actively secreted to some extent.
+
 At doses of 5 to 25 mg/day, half-life in plasma is approximately 3 hours in healthy volunteers and ranges from 3 to 5 hours in patients with multiple myeloma, myelodysplastic syndromes or mantle cell lymphoma.
 
 Older people

@@ -1,7 +1,6 @@
 # 4.6 Fertility, pregnancy and lactation
 
 Due to the teratogenic potential, lenalidomide must be prescribed under a Pregnancy Prevention Programme (see section 4.4) unless there is reliable evidence that the patient does not have childbearing potential.
-
 Women of childbearing potential / Contraception in males and females
 Women of childbearing potential should use effective method of contraception.
 If pregnancy occurs in a woman treated with lenalidomide, treatment must be stopped and the patient should be referred to a physician specialised or experienced in teratology for evaluation and advice.
@@ -13,6 +12,7 @@ As a precaution, and taking into account special populations with prolonged elim
 Pregnancy
 Lenalidomide is structurally related to thalidomide.
 Thalidomide is a known human teratogenic active substance that causes severe life-threatening birth defects.
+
 Lenalidomide induced in monkeys malformations similar to those described with thalidomide (see section 5.3).
 Therefore, a teratogenic effect of lenalidomide is expected and lenalidomide is contraindicated during pregnancy (see section 4.3).
 

@@ -13,7 +13,6 @@ The serious adverse reactions observed more frequently (≥5%) with lenalidomide
 - Lung infection (9.4% [9.4% after the start of maintenance treatment]) from CALGB 100104
 
 In the IFM 2005-02 study, the adverse reactions observed more frequently with lenalidomide maintenance than placebo were neutropenia (60.8%), bronchitis (47.4%), diarrhoea (38.9%), nasopharyngitis (34.8%), muscle spasms (33.4%), leucopenia (31.7%), asthenia (29.7%), cough (27.3%), thrombocytopenia (23.5%), gastroenteritis (22.5%) and pyrexia (20.5%).
-
 In the CALGB 100104 study, the adverse reactions observed more frequently with lenalidomide maintenance than placebo were neutropenia (79.0% [71.9% after the start of maintenance treatment]), thrombocytopenia (72.3% [61.6%]), diarrhoea (54.5% [46.4%]), rash (31.7% [25.0%]), upper respiratory tract infection (26.8% [26.8%]), fatigue (22.8% [17.9%]), leucopenia (22.8% [18.8%]) and anemia (21.0% [13.8%]).
 
 Newly diagnosed multiple myeloma: patients who are not eligible for transplant treated with lenalidomide in combination with low dose dexamethasone
@@ -23,6 +22,7 @@ The serious adverse reactions observed more frequently (≥5%) with lenalidomide
 - Renal failure (including acute) (6.3%)
 
 The adverse reactions observed more frequently with Rd or Rd18 than MPT were: diarrhoea (45.5%), fatigue (32.8%), back pain (32.0%), asthenia (28.2%), insomnia (27.6%), rash (24.3%), decreased appetite (23.1%), cough (22.7%), pyrexia (21.4%), and muscle spasms (20.5%).
+
 Newly diagnosed multiple myeloma: patients who are not eligible for transplant treated with lenalidomide in combination with melphalan and prednisone
 The serious adverse reactions observed more frequently (≥5%) with melphalan, prednisone and lenalidomide followed by lenalidomide maintenance (MPR+R) or melphalan, prednisone and lenalidomide followed by placebo (MPR+p) than melphalan, prednisone and placebo followed by placebo (MPp+p) were:
 
@@ -91,7 +91,8 @@ ADRs reported in clinical trials in patients with multiple myeloma treated with 
 
 | System Organ Class/Preferred Term | All ADRs/Frequency | Grade 3-4 ADRs/Frequency |
 | --- | --- | --- |
-| Infections and Infestations | Very Common Pneumonias◊, a, Upper respiratory tract infection, Neutropenic infection, Bronchitis◊, Influenza◊, Gastroenteritis◊, Sinusitis, Nasopharyngitis, Rhinitis Common Infection◊, Urinary tract infection◊*, Lower respiratory tract infection, Lung infection | Very Common Pneumonias◊, a, Neutropenic infection Common Sepsis◊, b, Bacteraemia, Lung infection◊, Lower respiratory tract infection bacterial, Bronchitis◊, Influenza◊, Gastroenteritis◊, Herpes zoster◊, Infection◊ |
+| Infections and Infestations | Very Common Pneumonias◊, a, Upper respiratory tract infection, Neutropenic infection, Bronchitis◊, Influenza◊, Gastroenteritis◊, Sinusitis, Nasopharyngitis, Rhinitis | Very Common Pneumonias◊, a, Neutropenic infection Common Sepsis◊, b, Bacteraemia, Lung infection◊, Lower respiratory tract |
+|  | Common Infection◊, Urinary tract infection◊*, Lower respiratory tract infection, Lung infection | infection bacterial, Bronchitis◊, Influenza◊, Gastroenteritis◊, Herpes zoster◊, Infection◊ |
 | Neoplasms Benign, Malignant and Unspecified (incl cysts and polyps) | Common Myelodysplastic syndrome◊* |  |
 | Blood and Lymphatic System Disorders | Very Common Neutropenia^,◊, Febrile neutropenia^,◊, Thrombocytopenia^,◊,, Anemia, Leucopenia◊, Lymphopenia | Very Common Neutropenia^,◊, Febrile neutropenia^,◊, Thrombocytopenia^,◊, Anemia, Leucopenia◊, Lymphopenia Common Pancytopenia◊ |
 | Metabolism and Nutrition Disorders | Very Common Hypokalaemia | Common Hypokalaemia, Dehydration |
@@ -107,10 +108,10 @@ ADRs reported in clinical trials in patients with multiple myeloma treated with 
 ◊ Adverse reactions reported as serious in clinical trials in patients with NDMM who had undergone ASCT
 * Applies to serious adverse drug reactions only
 ^See section 4.8 description of selected adverse reactions a “Pneumonias” combined AE term includes the following PTs: Bronchopneumonia, Lobar pneumonia, Pneumocystis jiroveci pneumonia, Pneumonia, Pneumonia klebsiella, Pneumonia legionella, Pneumonia mycoplasmal, Pneumonia pneumococcal, Pneumonia streptococcal, Pneumonia viral, Lung disorder, Pneumonitis b “Sepsis” combined AE term includes the following PTs: Bacterial sepsis, Pneumococcal sepsis, Septic shock, Staphylococcal sepsis c “Peripheral neuropathy” combined AE term includes the following preferred terms (PTs): Neuropathy peripheral, Peripheral sensory neuropathy, Polyneuropathy d “Deep vein thrombosis” combined AE term includes the following PTs: Deep vein thrombosis, Thrombosis, Venous thrombosis
-
 Tabulated summary for combination therapy in MM
 The following table is derived from data gathered during the multiple myeloma studies with combination therapy.
 The data were not adjusted according to the longer duration of treatment in the lenalidomide-containing arms continued until disease progression versus the comparator arms in the pivotal multiple myeloma studies (see section 5.1).
+
 Table 2.
 ADRs reported in clinical studies in patients with multiple myeloma treated with lenalidomide in combination with dexamethasone, or with melphalan and prednisone
 
@@ -150,12 +151,8 @@ ADRs reported in clinical studies in patients with multiple myeloma treated with
 
 Tabulated summary from monotherapy
 The following table are derived from data gathered during the main studies in monotherapy for myelodysplastic syndromes and mantle cell lymphoma.
-
 Table 3.
 ADRs reported in clinical trials in patients with myelodysplastic syndromes treated with lenalidomide#
-
-System Organ Class / All ADRs/Frequency Grade 3−4 ADRs/Frequency
-Preferred Term
 
 | System Organ Class / Preferred Term | All ADRs/Frequency | Grade 3−4 ADRs/Frequency |
 | --- | --- | --- |
@@ -230,17 +227,18 @@ Tabulated summary of post-marketing adverse reactions
 In addition to the above adverse reactions identified from the pivotal clinical trials, the following table is derived from data gathered from post-marketing data.
 
 Table 5.
-ADRs reported in in post-marketing use in patients treated with lenalidomide
+ADRs reported in post-marketing use in patients treated with lenalidomide
 
 | System Organ Class / Preferred Term | All ADRs/Frequency | Grade 3−4 ADRs/Frequency |
 | --- | --- | --- |
+| Infections and Infestations | Not known Viral infections, including herpes zoster and hepatitis B virus reactivation | Not known Viral infections, including herpes zoster and hepatitis B virus reactivation |
 | Neoplasms Benign, Malignant and Unspecified (incl cysts and polyps) |  | Rare Tumour lysis syndrome |
 | Blood and Lymphatic System Disorders | Not known Acquired haemophilia |  |
 | Endocrine Disorders | Common Hyperthyroidism |  |
 | Respiratory, Thoracic and Mediastinal Disorders |  | Not Known Interstitial pneumonitis |
 | Gastrointestinal Disorders |  | Not Known Pancreatitis, Gastrointestinal perforation (including diverticular, intestinal and large intestine perforations) ^ |
 | Hepatobiliary Disorders | Not Known Acute hepatic failure^, Hepatitis toxic^, Cytolytic hepatitis^, Cholestatic hepatitis^, Mixed cytolytic/cholestatic hepatitis^ | Not Known Acute hepatic failure^, Hepatitis toxic^ |
-| Skin and Subcutaneous Tissue Disorders |  | Uncommon Angioedema Rare Stevens-Johnson Syndrome^, Toxic epidermal necrolysis^ Not Known Leukocytoclastic vasculitis |
+| Skin and Subcutaneous Tissue Disorders |  | Uncommon Angioedema Rare Stevens-Johnson Syndrome^, Toxic epidermal necrolysis^ Not Known Leukocytoclastic vasculitis, Drug Reaction with Eosinophilia and Systemic Symptoms^ |
 
 ^see section 4.8 description of selected adverse reactions
 
@@ -250,7 +248,6 @@ Lenalidomide is structurally related to thalidomide.
 Thalidomide is a known human teratogenic active substance that causes severe life-threatening birth defects.
 Lenalidomide induced in monkeys malformations similar to those described with thalidomide (see sections 4.6 and 5.3).
 If lenalidomide is taken during pregnancy, a teratogenic effect of lenalidomide in humans is expected.
-
 Neutropenia and thrombocytopenia
 
 - Newly diagnosed multiple myeloma: patients who have undergone ASCT treated with lenalidomide maintenance
@@ -308,8 +305,8 @@ Cases of allergic reaction/hypersensitivity reactions have been reported.
 A possible cross-reaction between lenalidomide and thalidomide has been reported in the literature.
 
 Severe skin reactions
-SJS and TEN have been reported.
-Patients with a history of severe rash associated with thalidomide treatment should not receive lenalidomide.
+Severe cutaneous reactions including SJS, TEN and DRESS have been reported with the use of lenalidomide.
+Patients with a history of severe rash associated with thalidomide treatment should not receive lenalidomide (see section 4.4).
 
 Second primary malignancies
 In clinical trials in previously treated myeloma patients with lenalidomide/dexamethasone compared to controls, mainly comprising of basal cell or squamous cell skin cancers.
@@ -327,12 +324,12 @@ Baseline variables including complex cytogenetics and TP53 mutation are associat
 The estimated 2-year cumulative risk of progression to AML were 13.8% in patients with an isolated Del (5q) abnormality compared to 17.3% for patients with Del (5q) and one additional cytogenetic abnormality and 38.6% in patients with a complex karyotype.
 In a post-hoc analysis of a clinical trial of lenalidomide in myelodysplastic syndromes, the estimated 2-year rate of progression to AML was 27.5 % in patients with IHC-p53 positivity and 3.6% in patients with IHC-p53 negativity (p=0.0038).
 In the patients with IHC-p53 positivity, a lower rate of progression to AML was observed amongst patients who achieved a transfusion independence (TI) response (11.1%) compared to a non-responder (34.8%).
-
 Hepatic disorders
 The following post-marketing adverse reactions have been reported (frequency unknown): acute hepatic failure and cholestasis (both potentially fatal), toxic hepatitis, cytolytic hepatitis, mixed cytolytic/cholestatic hepatitis.
 
 Rhabdomyolysis
 Rare cases of rhabdomyolysis have been observed, some of them when lenalidomide is administered with a statin.
+
 Thyroid disorders
 Cases of hypothyroidism and cases of hyperthyroidism have been reported (see section 4.4 Thyroid disorders).
 

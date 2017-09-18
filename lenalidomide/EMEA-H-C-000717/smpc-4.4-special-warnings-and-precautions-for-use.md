@@ -170,13 +170,6 @@ Lenalidomide treatment in myelodysplastic syndromes patients is associated with 
 
 Lenalidomide treatment in mantle cell lymphoma patients is associated with a higher incidence of grade 3 and 4 neutropenia compared with patients on the control arm (see section 4.8).
 
-Infection with or without neutropenia
-Patients with multiple myeloma are prone to develop infections including pneumonia.
-A higher rate of infections was observed with lenalidomide in combination with dexamethasone than with MPT in patients with NDMM who are not eligible for transplant, and with lenalidomide maintenance compared to placebo in patients with NDMM who had undergone ASCT.
-Grade ≥ 3 infections occurred within the context of neutropenia in less than one-third of the patients.
-Patients with known risk factors for infections should be closely monitored.
-All patients should be advised to seek medical attention promptly at the first sign of infection (eg, cough, fever, etc) thereby allowing for early management to reduce severity.
-
 Thyroid disorders
 Cases of hypothyroidism and cases of hyperthyroidism have been reported.
 Optimal control of co-morbid conditions influencing thyroid function is recommended before start of treatment.
@@ -185,7 +178,6 @@ Baseline and ongoing monitoring of thyroid function is recommended.
 Peripheral neuropathy
 Lenalidomide is structurally related to thalidomide, which is known to induce severe peripheral neuropathy.
 There was no increase in peripheral neuropathy observed with long term use of lenalidomide for the treatment of newly diagnosed multiple myeloma.
-
 Tumour flare reaction and tumour lysis syndrome
 Because lenalidomide has anti-neoplastic activity the complications of tumour lysis syndrome (TLS) may occur.
 TLS and tumour flare reaction (TFR) have commonly been observed in patients with chronic lymphocytic leukemia (CLL), and uncommonly in patients with lymphomas, who were treated with lenalidomide.
@@ -228,15 +220,15 @@ Cases of allergic reaction/hypersensitivity reactions have been reported in pati
 Patients who had previous allergic reactions while treated with thalidomide should be monitored closely, as a possible cross-reaction between lenalidomide and thalidomide has been reported in the literature.
 
 Severe skin reactions
-SJS and TEN have been reported.
-Lenalidomide must be discontinued for exfoliative or bullous rash, or if SJS or TEN is suspected, and should not be resumed following discontinuation for these reactions.
+Severe cutaneous reactions including SJS, and TEN and DRESS have been reported with the use of lenalidomide.
+Patients should be advised of the signs and symptoms of these reactions by their prescribers and should be told to seek medical attention immediately if they develop these symptoms.
+Lenalidomide must be discontinued for exfoliative or bullous rash, or if SJS, TEN or DRESS is suspected, and should not be resumed following discontinuation for these reactions.
 Interruption or discontinuation of lenalidomide should be considered for other forms of skin reaction depending on severity.
 Patients with a history of severe rash associated with thalidomide treatment should not receive lenalidomide.
 
 Lactose intolerance
 Revlimid capsules contain lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
-
 Second primary malignancies
 An increase of second primary malignancies (SPM) has been observed in clinical trials in previously treated myeloma patients receiving lenalidomide/dexamethasone (3.98 per 100 person-years) compared to controls (1.38 per 100 person-years).
 Non-invasive SPM comprise basal cell or squamous cell skin cancers.
@@ -266,6 +258,7 @@ Progression to acute myeloid leukaemia in low- and intermediate-1-risk MDS
 Baseline variables including complex cytogenetics are associated with progression to AML in subjects who are transfusion dependent and have a Del (5q) abnormality.
 In a combined analysis of two clinical trials of lenalidomide in low- or intermediate-1-risk myelodysplastic syndromes, subjects who had a complex cytogenetics had the highest estimated 2-year cumulative risk of progression to AML (38.6%).
 The estimated 2-year rate of progression to AML in patients with an isolated Del (5q) abnormality was 13.8%, compared to 17.3% for patients with Del (5q) and one additional cytogenetic abnormality.
+
 As a consequence, the benefit/risk ratio of lenalidomide when MDS is associated with Del (5q) and complex cytogenetics is unknown.
 
 - TP53 status
@@ -287,11 +280,30 @@ Lenalidomide is excreted by the kidneys.
 It is important to dose adjust patients with renal impairment in order to avoid plasma levels which may increase the risk for higher haematological adverse reactions or hepatotoxicity.
 Monitoring of liver function is recommended, particularly when there is a history of or concurrent viral liver infection or when lenalidomide is combined with medicinal products known to be associated with liver dysfunction.
 
+Infection with or without neutropenia
+Patients with multiple myeloma are prone to develop infections including pneumonia.
+A higher rate of infections was observed with lenalidomide in combination with dexamethasone than with MPT in patients with NDMM who are not eligible for transplant, and with lenalidomide maintenance compared to placebo in patients with NDMM who had undergone ASCT.
+Grade ≥ 3 infections occurred within the context of neutropenia in less than one-third of the patients.
+Patients with known risk factors for infections should be closely monitored.
+All patients should be advised to seek medical attention promptly at the first sign of infection (eg, cough, fever, etc) thereby allowing for early management to reduce severity.
+
+Cases of viral reactivation have been reported in patients receiving lenalidomide, including serious cases of herpes zoster or hepatitis B virus (HBV) reactivation.
+
+Some of the cases of viral reactivation had a fatal outcome.
+
+Some of the cases of herpes zoster reactivation resulted in disseminated herpes zoster, meningitis herpes zoster or ophthalmic herpes zoster requiring a temporary hold or permanent discontinuation of the treatment with lenalidomide and adequate antiviral treatment.
+
+Reactivation of hepatitis B has been reported rarely in patients receiving lenalidomide who have previously been infected with the hepatitis B virus (HBV).
+Some of these cases have progressed to acute hepatic failure resulting in discontinuation of lenalidomide and adequate antiviral treatment.
+Hepatitis B virus status should be established before initiating treatment with lenalidomide.
+For patients who test positive for HBV infection, consultation with a physician with expertise in the treatment of hepatitis B is recommended.
+Caution should be exercised when lenalidomide is used in patients previously infected with HBV, including patients who are anti-HBc positive but HBsAg negative.
+These patients should be closely monitored for signs and symptoms of active HBV infection throughout therapy.
+
 - Newly diagnosed multiple myeloma patients
 
 There was a higher rate of intolerance (grade 3 or 4 adverse events, serious adverse events, discontinuation) in patients with age > 75 years, ISS stage III, ECOG PS≤2 or CLcr<60 mL/min when lenalidomide is given in combination.
 Patients should be carefully assessed for their ability to tolerate lenalidomide in combination, with consideration to age, ISS stage III, ECOG PS≤2 or CLcr<60 mL/min (see sections 4.2 and 4.8).
-
 Cataract
 Cataract has been reported with a higher frequency in patients receiving lenalidomide in combination with dexamethasone particularly when used for a prolonged time.
 Regular monitoring of visual ability is recommended.
