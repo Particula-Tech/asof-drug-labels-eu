@@ -3,7 +3,7 @@
 Summary of the safety profile
 
 The safety of Betmiga was evaluated in 8433 patients with OAB, of which 5648 received at least one dose of mirabegron in the phase 2/3 clinical program, and 622 patients received Betmiga for at least 1 year (365 days).
-In the three 12-week phase 3 double blind, placebo controlled studies, 88% of the patients completed treatment with Betmiga, and 4% of the patients discontinued due to adverse events.
+In the three 12-week phase 3 double blind, placebo controlled studies, 88% of the patients completed treatment with this medicinal product, and 4% of the patients discontinued due to adverse events.
 Most adverse reactions were mild to moderate in severity.
 
 The most common adverse reactions reported for patients treated with Betmiga 50 mg during the three 12-week phase 3 double blind, placebo controlled studies are tachycardia and urinary tract infections.
@@ -19,27 +19,28 @@ Tabulated list of adverse reactions
 
 The table below reflects the adverse reactions observed with mirabegron in the three 12-week phase 3 double blind, placebo controlled studies.
 
-The frequency of adverse reactions is defined as follows: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000).
+The frequency of adverse reactions is defined as follows: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000) and not known (cannot be established from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 | MedDRA System organ class | Common | Uncommon | Rare | Very rare | Not known (cannot be estimated from the available data) |
 | --- | --- | --- | --- | --- | --- |
 | Infections and infestations | Urinary tract infection | Vaginal infection Cystitis |  |  |  |
 | Psychiatric disorders |  |  |  |  | Insomnia* |
+| Nervous system disorders | Headache* Dizziness* |  |  |  |  |
 | Eye disorders |  |  | Eyelid oedema |  |  |
 | Cardiac disorders | Tachycardia | Palpitation Atrial fibrillation |  |  |  |
 | Vascular disorders |  |  |  | Hypertensive crisis* |  |
 | Gastrointestinal disorders | Nausea* Constipation* Diarrhoea* | Dyspepsia Gastritis | Lip oedema |  |  |
-| Skin and subcutaneous tissue disorders |  | Urticaria Rash Rash macular Rash papular Pruritus | Leukocytoclast ic vasculitis Purpura Angioedema* |  |  |
+| Skin and subcutaneous tissue disorders |  | Urticaria Rash Rash macular Rash papular Pruritus | Leukocytoclastic vasculitis Purpura Angioedema* |  |  |
 | Musculoskeletal and connective tissue disorders |  | Joint swelling |  |  |  |
+| Renal and urinary disorders |  |  | Urinary retention* |  |  |
 | Reproductive system and breast disorders |  | Vulvovaginal pruritus |  |  |  |
 | Investigations |  | Blood pressure increased GGT increased AST increased ALT increased |  |  |  |
-| Renal and urinary disorders |  |  | Urinary retention* |  |  |
-| Nervous system disorders | Headache* Dizziness* |  |  |  |  |
 
 *observed during post-marketing experience
 
 Reporting of suspected adverse reactions
+
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

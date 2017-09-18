@@ -25,12 +25,12 @@ In vitro erythrocyte concentrations of 14C-mirabegron were about 2-fold higher t
 
 Biotransformation
 
-Mirabegron is metabolized via multiple pathways involving dealkylation, oxidation, (direct) glucuronidation, and amide hydrolysis.
+Mirabegron is metabolised via multiple pathways involving dealkylation, oxidation, (direct) glucuronidation, and amide hydrolysis.
 Mirabegron is the major circulating component following a single dose of 14C-mirabegron.
 Two major metabolites were observed in human plasma; both are phase 2 glucuronides representing 16% and 11% of total exposure.
 These metabolites are not pharmacologically active.
 
-Based on in vitro studies, mirabegron is unlikely to inhibit the metabolism of co-administered medicinal products metabolized by the following cytochrome P450 enzymes: CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19 and CYP2E1 because mirabegron did not inhibit the activity of these enzymes at clinically relevant concentrations.
+Based on in vitro studies, mirabegron is unlikely to inhibit the metabolism of co-administered medicinal products metabolised by the following cytochrome P450 enzymes: CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19 and CYP2E1 because mirabegron did not inhibit the activity of these enzymes at clinically relevant concentrations.
 Mirabegron did not induce CYP1A2 or CYP3A.
 Mirabegron is predicted not to cause clinically relevant inhibition of OCT-mediated drug transport.
 
