@@ -14,6 +14,7 @@ EU/1/12/807/010
 EU/1/12/807/012
 EU/1/12/807/013
 EU/1/12/807/015
+
 Tresiba 100 units/mL solution for injection in cartridge
 EU/1/12/807/007
 EU/1/12/807/008

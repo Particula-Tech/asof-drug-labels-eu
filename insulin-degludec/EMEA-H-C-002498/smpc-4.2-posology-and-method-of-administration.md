@@ -1,25 +1,24 @@
 # 4.2 Posology and method of administration
 
 Posology
+This medicinal product is a basal insulin for once-daily subcutaneous administration at any time of the day, preferably at the same time every day.
 
-Tresiba is a basal insulin for once-daily subcutaneous administration at any time of the day, preferably at the same time every day.
-
-The potency of insulin analogues, including insulin degludec, is expressed in units (U).
-One (1) unit (U) of insulin degludec corresponds to 1 international unit (IU) of human insulin, 1 unit of insulin glargine (100 units/mL), or 1 unit of insulin detemir.
-In patients with type 2 diabetes mellitus, Tresiba can be administered alone or in any combination with oral antidiabetic medicinal products, GLP-1 receptor agonists and bolus insulin (see section 5.1).
+The potency of insulin analogues, including insulin degludec, is expressed in units.
+One (1) unit of insulin degludec corresponds to 1 international unit of human insulin, 1 unit of insulin glargine
+(100 units/mL), or 1 unit of insulin detemir.
+In patients with type 2 diabetes mellitus, this medicinal product can be administered alone or in any combination with oral antidiabetic medicinal products, GLP-1 receptor agonists and bolus insulin (see section 5.1).
 
 In type 1 diabetes mellitus, Tresiba must be combined with short-/rapid-acting insulin to cover mealtime insulin requirements.
 
 Tresiba is to be dosed in accordance with the individual patient’s needs.
 It is recommended to optimise glycaemic control via dose adjustment based on fasting plasma glucose.
 
-As with all insulin products adjustment of dose may be necessary if patients undertake increased physical activity, change their usual diet or during concomitant illness.
+Adjustment of dose may be necessary if patients undertake increased physical activity, change their usual diet or during concomitant illness.
 
 Tresiba 100 units/mL and Tresiba 200 units/mL solution for injection in a pre-filled pen
-
 Tresiba is available in two strengths.
 For both, the needed dose is dialled in units.
-The dose steps, however, differ between the two strengths of Tresiba.
+The dose steps, however, differ between the two strengths of the medicinal product.
 
 - With Tresiba 100 units/mL a dose of 1–80 units per injection, in steps of 1 unit, can be administered.
 - With Tresiba 200 units/mL a dose of 2–160 units per injection, in steps of 2 units, can be administered.
@@ -28,23 +27,20 @@ The dose steps, however, differ between the two strengths of Tresiba.
 The dose counter shows the number of units regardless of strength and no dose conversion should be done when transferring a patient to a new strength.
 
 Flexibility in dosing time
-
 On occasions when administration at the same time of the day is not possible, Tresiba allows for flexibility in the timing of insulin administration (see section 5.1).
 A minimum of 8 hours between injections should always be ensured.
 There is no clinical experience with flexibility in dosing time of Tresiba in children and adolescents.
 
-Patients who forget a doseare advised to take it upon discovery and then resume their usual once-daily dosing schedule.
+Patients who forget a dose are advised to take it upon discovery and then resume their usual once-daily dosing schedule.
 
 Initiation
-
 Patients with type 2 diabetes mellitus
 The recommended daily starting dose is 10 units followed by individual dosage adjustments.
 
 Patients with type 1 diabetes mellitus
-Tresiba is to be used once daily with meal-time insulin and requires subsequent individual dosage adjustments.
+Tresiba is to be used once daily with mealtime insulin and requires subsequent individual dosage adjustments.
 
 Transfer from other insulin medicinal products
-
 Close glucose monitoring is recommended during the transfer and in the following weeks.
 Doses and timing of concurrent rapid-acting or short-acting insulin products or other concomitant antidiabetic treatment may need to be adjusted.
 
@@ -66,29 +62,25 @@ When adding GLP-1 receptor agonists to Tresiba, it is recommended to reduce the 
 Subsequently, dosage should be adjusted individually.
 
 Special populations
-
 Elderly patients (≥65 years old)
-
 Tresiba can be used in elderly patients.
 Glucose monitoring is to be intensified and the insulin dose adjusted on an individual basis (see section 5.2).
 
 Renal and hepatic impairment
-
 Tresiba can be used in renal and hepatic impaired patients.
 Glucose monitoring is to be intensified and the insulin dose adjusted on an individual basis (see section 5.2).
 
 Paediatric population
-
-Tresiba can be used in adolescents and children from the age of 1 year (see section 5.1).
+There is no clinical experience with the use of this medicinal product in children below the age of 1 year.
+This medicinal product can be used in adolescents and children from the age of 1 year (see section 5.1).
 When changing basal insulin to Tresiba, dose reduction of basal and bolus insulin needs to be considered on an individual basis in order to minimise the risk of hypoglycaemia (see section 4.4).
 
 Method of administration
-
-Tresiba is for subcutaneous use only.
+Subcutaneous use only.
 
 Tresiba must not be administered intravenously as it may result in severe hypoglycaemia.
-Tresiba must not be administered intramuscularly as it may change the absorption.
-Tresiba must not be used in insulin infusion pumps.
+This medicinal product must not be administered intramuscularly as it may change the absorption.
+This medicinal product must not be used in insulin infusion pumps.
 
 Tresiba is administered subcutaneously by injection in the thigh, the upper arm or the abdominal wall.
 Injection sites are always to be rotated within the same region in order to reduce the risk of lipodystrophy.
