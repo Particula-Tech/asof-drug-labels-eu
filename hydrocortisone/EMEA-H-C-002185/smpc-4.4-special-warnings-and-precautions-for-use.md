@@ -9,7 +9,8 @@ Therefore, patients should be advised of the signs and symptoms of acute adrenal
 During adrenal crisis parenteral, preferably intravenous administration of hydrocortisone in high doses, together with sodium chloride 9 mg/ml (0.9%) solution for infusion, should be administered according to current treatment guidelines.
 
 Concomitant infections
-During transient illnesses such as low grade infection, fever of any aetiology, stressful situations such as minor surgical procedures, the daily replacement dose must be increased temporarily, see section 4.2, ‘Use in intercurrent illness’.
+During transient illnesses such as low grade infection, fever of any aetiology, stressful situations such as minor surgical procedures, the daily replacement dose must be increased temporarily, see section 4.2,
+‘Use in intercurrent illness’.
 The patient must be carefully informed how to act in these situations and also advised to immediately seek medical attention should an acute deterioration occur; especially in cases of gastroenteritis, vomiting and/or diarrhoea leading to fluid and salt loss, as well as to inadequate absorption of oral hydrocortisone.
 
 Patients with adrenal insufficiency and concomitant retroviral infection, such as HIV, need careful dose adjustment due to potential interaction with antiretroviral medicinal products and increased hydrocortisone dose due to the infection.

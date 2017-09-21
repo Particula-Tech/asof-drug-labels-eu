@@ -11,34 +11,20 @@ Fatigue has been reported as very common.
 
 Tabulated list of adverse reactions
 A total of 80 patients (173 patient-years of data) have been treated with modified-release hydrocortisone in clinical studies.
-Adverse reactions from a controlled study of three months duration are listed below by system organ class and frequency as follows:
-Very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000), not known (cannot be estimated from the available data).
+Adverse reactions from these studies and from postmarketing surveillance are listed below by system organ class and frequency as follows:
+Very common (≥1/10); Common (≥1/100 to <1/10).
 
-Infections and infestations
-Common: Gastroenteritis, upper respiratory tract infection, viral infection.
-
-Nervous system disorders
-Common: Sedation, vertigo.
-
-Eye disorders
-Common: Dry eye.
-
-Gastrointestinal disorders
-Common: Oesophagitis, nausea, upper abdominal pain, tooth erosion.
-
-Skin and subcutaneous tissue disorders
-Common: Pruritic rash.
-
-Musculoskeletal and connective tissue disorders
-Common: Joint swelling.
-
-General disorders and administration site conditions
-Very common: Fatigue.
-
-Investigations
-Common: HDL decrease, weight increase.
+| MedDRA System Organ Class | Frequency of adverse reactions |  |
+| --- | --- | --- |
+|  | Very common | Common |
+| Nervous system disorders | Vertigo Headache |  |
+| Gastrointestinal disorders | Diarrhoea | Upper abdominal pain Nausea |
+| Skin and subcutaneous tissue disorders |  | Pruritus Rash |
+| Musculoskeletal and connective tissue disorders |  | Arthralgia |
+| General disorders and administration site conditions | Fatigue |  |
 
 In addition the following adverse reactions have been reported for other hydrocortisone medicinal products given for indications other than adrenal insufficiency replacement therapy in higher doses (frequencies not known).
+
 Immune system disorders
 Activation of infection (tuberculosis, fungal and viral infections including herpes).
 
@@ -47,7 +33,6 @@ Induction of glucose intolerance or diabetes mellitus.
 
 Metabolism and nutrition disorders
 Sodium and water retention and oedema tendency, hypertension, hypokalemia.
-
 Psychiatric disorders
 Euphoria and psychosis, insomnia.
 

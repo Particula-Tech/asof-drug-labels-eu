@@ -26,6 +26,7 @@ Increasing the dose of hydrocortisone at one dose occasion increases the total p
 Once the intercurrent illness episode is over, patients can return to the normal maintenance dose.
 
 Special populations
+
 Elderly
 In case of age-related low body weight, monitoring of the clinical response is recommended and dose adjustment to a lower dose may be required, see section 5.2.
 
