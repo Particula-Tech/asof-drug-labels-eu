@@ -1,0 +1,16 @@
+{
+  "active_substance": "atezolizumab",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/004143",
+  "eu_number": "EU/1/17/1220",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2017-09-20",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tecentriq",
+  "molecule": "atezolizumab",
+  "molecule_name": "ATEZOLIZUMAB",
+  "name": "Tecentriq",
+  "register_name": "Tecentriq",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h1220.htm"
+}
