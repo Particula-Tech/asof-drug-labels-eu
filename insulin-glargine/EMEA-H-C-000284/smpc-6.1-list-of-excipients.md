@@ -1,6 +1,6 @@
 # 6.1 List of excipients
 
-5 ml vial
+5 ml vial, cartridge, SoloStar pre-filled pen
 Zinc chloride
 Metacresol
 Glycerol

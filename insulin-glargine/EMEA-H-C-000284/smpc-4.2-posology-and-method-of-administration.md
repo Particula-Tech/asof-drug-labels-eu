@@ -1,7 +1,6 @@
 # 4.2 Posology and method of administration
 
 Posology
-
 Lantus contains insulin glargine, an insulin analogue, and has a prolonged duration of action.
 Lantus should be administered once daily at any time but at the same time each day.
 
@@ -11,15 +10,14 @@ The potency of this medicinal product is stated in units.
 These units are exclusive to Lantus and are not the same as IU or the units used to express the potency of other insulin analogues (see section 5.1).
 
 Special population
-
 Elderly population (≥65 years old)
 In the elderly, progressive deterioration of renal function may lead to a steady decrease in insulin requirements.
-
 Renal impairment
 In patients with renal impairment, insulin requirements may be diminished due to reduced insulin metabolism.
 
 Hepatic impairment
 In patients with hepatic impairment, insulin requirements may be diminished due to reduced capacity for gluconeogenesis and reduced insulin metabolism.
+
 Paediatric population
 
 - Adolescents and children aged 2 years and older patients
@@ -33,15 +31,12 @@ The safety and efficacy of Lantus have not been established.
 No data are available.
 
 Switch from other insulins to Lantus
-
 When switching from a treatment regimen with an intermediate or long-acting insulin to a regimen with Lantus, a change of the dose of the basal insulin may be required and the concomitant antidiabetic treatment may need to be adjusted (dose and timing of additional regular insulins or fast-acting insulin analogues or the dose of oral antidiabetic medicinal products).
 
 Switch from twice daily NPH insulin to Lantus
-
 To reduce the risk of nocturnal and early morning hypoglycaemia, patients who are changing their basal insulin regimen from a twice daily NPH insulin to a once daily regimen with Lantus should reduce their daily dose of basal insulin by 20-30% during the first weeks of treatment.
 
 Switch from insulin glargine 300 units/ml to Lantus
-
 Lantus and Toujeo (insulin glargine 300 units/ml) are not bioequivalent and are not directly interchangeable.
 To reduce the risk of hypoglycemia, patients who are changing their basal insulin regimen from an insulin regimen with once daily insulin glargine 300 units/ml to a once daily regimen with Lantus should reduce their dose by approximately 20%.
 
@@ -55,7 +50,6 @@ Dose adjustment may also be required, for example, if the patient's weight or li
 Patients with high insulin doses because of antibodies to human insulin may experience an improved insulin response with Lantus.
 
 Method of administration
-
 Lantus is administered subcutaneously.
 
 Lantus should not be administered intravenously.
@@ -64,27 +58,11 @@ Intravenous administration of the usual subcutaneous dose could result in severe
 
 There are no clinically relevant differences in serum insulin or glucose levels after abdominal, deltoid or thigh administration of Lantus.
 Injection sites must be rotated within a given injection area from one injection to the next.
-
 Lantus must not be mixed with any other insulin or diluted.
 Mixing or diluting can change its time/action profile and mixing can cause precipitation.
+
+Vial, cartridge
 For further details on handling, see section 6.6.
 
-[Lantus 100 units/ml solution for injection in a cartridge]
-
-(all sentences already above)
-
-[Lantus 100 units/ml solution for injection in a cartridge for OptiClik]
-
-(all sentences already above)
-
-[Lantus OptiSet 100 units/ml solution for injection in a pre-filled pen]
-
-OptiSet delivers insulin in increments of 2 units up to a maximum single dose of 40 units.
-
-Before using OptiSet, the instructions for use included in the package leaflet must be read carefully (see section 6.6).
-
-[Lantus SoloStar 100 units/ml solution for injection in a pre-filled pen]
-
-When changing from a treatment regimen with an intermediate or long-acting insulin to a regimen with Lantus, a change of the dose of the basal insulin may be required and the concomitant antidiabetic treatment may need to be adjusted (dose and timing of additional regular insulins or fast-acting insulin analogues or the dose of oral antidiabetic medicinal products).
-
+SoloStar pre-filled pen
 Before using SoloStar, the instructions for use included in the package leaflet must be read carefully (see section 6.6).

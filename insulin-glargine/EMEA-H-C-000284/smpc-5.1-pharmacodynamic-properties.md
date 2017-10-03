@@ -4,7 +4,6 @@ Pharmacotherapeutic group: Drugs used in diabetes, insulins and analogues for in
 ATC Code: A10AE04.
 
 Mechanism of action
-
 Insulin glargine is a human insulin analogue designed to have a low solubility at neutral pH.
 It is completely soluble at the acidic pH of the Lantus injection solution (pH 4).
 After injection into the subcutaneous tissue, the acidic solution is neutralised leading to formation of micro-precipitates from which small amounts of insulin glargine are continuously released, providing a smooth, peakless, predictable concentration/time profile with a prolonged duration of action.
@@ -59,7 +58,6 @@ Over the course of this 6-year study, 42% of the insulin glargine group did not 
 At the last on-treatment visit, there was a mean increase in body weight from baseline of 1.4 kg in the insulin glargine group and a mean decrease of 0.8 kg in the standard care group.
 
 Paediatric population
-
 In a randomised, controlled clinical study, paediatric patients (age range 6 to 15 years) with type 1 diabetes (n=349) were treated for 28 weeks with a basal-bolus insulin regimen where regular human insulin was used before each meal.
 Insulin glargine was administered once daily at bedtime and NPH human insulin was administered once or twice daily.
 Similar effects on glycohemoglobin and the incidence of symptomatic hypoglycemia were observed in both treatment groups, however fasting plasma glucose decreased more from baseline in the insulin glargine group than in the NPH group.
@@ -77,19 +75,3 @@ Both groups received bolus insulin before meals.
 The primary aim of demonstrating non-inferiority of insulin glargine to NPH in all hypoglycaemia was not met and there was a trend to an increase of hypoglycemic events with insulin glargine [insulin glargine: NPH rate ratio (95% CI) = 1.18 (0.97-1.44)].
 Glycohaemoglobin and glucose variabilities were comparable in both treatment groups.
 No new safety signals were observed in this study.
-
-[Lantus 100 units/ml solution for injection in a cartridge]
-
-(all sentences already above)
-
-[Lantus 100 units/ml solution for injection in a cartridge for OptiClik]
-
-(all sentences already above)
-
-[Lantus OptiSet 100 units/ml solution for injection in a pre-filled pen]
-
-Effects of insulin glargine (once daily) on diabetic retinopathy were evaluated in an open-label 5-year NPH-controlled study (NPH given bid) in 1024 type 2 diabetic patients in which progression of retinopathy by 3 or more steps on the Early Treatment Diabetic Retinopathy Study (ETDRS) scale was investigated by fundus photography.
-
-[Lantus SoloStar 100 units/ml solution for injection in a pre-filled pen]
-
-(all sentences already above)

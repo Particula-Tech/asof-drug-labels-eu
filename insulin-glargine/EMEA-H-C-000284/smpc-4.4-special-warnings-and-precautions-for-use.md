@@ -9,7 +9,6 @@ Transferring a patient to another type or brand of insulin should be done under 
 Changes in strength, brand (manufacturer), type (regular, NPH, lente, long-acting, etc.), origin (animal, human, human insulin analogue) and/or method of manufacture may result in the need for a change in dose.
 
 Hypoglycaemia
-
 The time of occurrence of hypoglycaemia depends on the action profile of the insulins used and may, therefore, change when the treatment regimen is changed.
 Due to more sustained basal insulin supply with Lantus, less nocturnal but more early morning hypoglycaemia can be expected.
 
@@ -31,7 +30,6 @@ These include patients:
 Such situations may result in severe hypoglycaemia (and possibly loss of consciousness) prior to the patient's awareness of hypoglycaemia.
 
 The prolonged effect of subcutaneous insulin glargine may delay recovery from hypoglycaemia.
-
 If normal or decreased values for glycated haemoglobin are noted, the possibility of recurrent, unrecognised (especially nocturnal) episodes of hypoglycaemia must be considered.
 
 Adherence of the patient to the dose and dietary regimen, correct insulin administration and awareness of hypoglycaemia symptoms are essential to reduce the risk of hypoglycaemia.
@@ -49,58 +47,37 @@ These include:
 - concomitant treatment with certain other medicinal products (see section 4.5).
 
 Intercurrent illness
-
 Intercurrent illness requires intensified metabolic monitoring.
 In many cases urine tests for ketones are indicated, and often it is necessary to adjust the insulin dose.
 The insulin requirement is often increased.
 Patients with type 1 diabetes must continue to consume at least a small amount of carbohydrates on a regular basis, even if they are able to eat only little or no food, or are vomiting etc. and they must never omit insulin entirely.
 
 Insulin antibodies
-
 Insulin administration may cause insulin antibodies to form.
 In rare cases, the presence of such insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency to hyper- or hypoglycaemia (see section 5.1).
 
-Medication errors
+Pens to be used with Lantus cartridges
+The Lantus cartridges should only be used with the following pens:
 
+- JuniorSTAR which delivers Lantus in 0.5 unit dose increments
+- OptiPen, ClikSTAR, Tactipen, Autopen 24, AllStar and AllStar PRO which all deliver Lantus
+
+in 1 unit dose increments.
+These cartridges should not be used with any other reusable pen as the dosing accuracy has only been established with the listed pens.
+Not all of these pens may be marketed in your country
+
+Handling of the SoloStar pre-filled pen
+Before using SoloStar, the instructions for use included in the package leaflet must be read carefully.
+SoloStar has to be used as recommended in these instructions for use (see section 6.6).
+
+Medication errors
 Medication errors have been reported in which other insulins, particularly short-acting insulins, have been accidentally administered instead of insulin glargine.
 Insulin label must always be checked before each injection to avoid medication errors between insulin glargine and other insulins.
 
 Combination of Lantus with pioglitazone
-
 Cases of cardiac failure have been reported when pioglitazone was used in combination with insulin, especially in patients with risk factors for development of cardiac heart failure.
 This should be kept in mind if treatment with the combination of pioglitazone and Lantus is considered.
 If the combination is used, patients should be observed for signs and symptoms of heart failure, weight gain and oedema.
 Pioglitazone should be discontinued if any deterioration in cardiac symptoms occurs.
-
 Excipients
-
 This medicinal product contains less than 1 mmol (23 mg) sodium per dose, i.e. it is essentially ‘sodium-free’.
-
-[Lantus 100 units/ml solution for injection in a cartridge]
-
-Pens to be used with Lantus cartridges
-
-The Lantus cartridges should only be used with the following pens:
-
-- JuniorSTAR which delivers Lantus in 0.5 unit dose increments
-- OptiPen, ClikSTAR, Tactipen, Autopen 24 and AllStar, which all deliver Lantus in 1 unit dose
-
-increments.
-These cartridges should not be used with any other reusable pen as the dosing accuracy has only been established with the listed pens.
-Not all of these pens may be marketed in your country.
-
-[Lantus 100 units/ml solution for injection in a cartridge for OptiClik]
-
-(all sentences already above)
-
-[Lantus OptiSet 100 units/ml solution for injection in a pre-filled pen]
-
-Handling of the pen
-
-Before using OptiSet, the instructions for use included in the package leaflet must be read carefully.
-OptiSet has to be used as recommended in these instructions for use (see section 6.6).
-
-[Lantus SoloStar 100 units/ml solution for injection in a pre-filled pen]
-
-Before using SoloStar, the instructions for use included in the package leaflet must be read carefully.
-SoloStar has to be used as recommended in these instructions for use (see section 6.6).
