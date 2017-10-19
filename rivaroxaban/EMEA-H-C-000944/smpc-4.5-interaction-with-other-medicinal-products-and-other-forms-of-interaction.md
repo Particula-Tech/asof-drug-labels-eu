@@ -4,11 +4,11 @@ CYP3A4 and P-gp inhibitors
 Co-administration of rivaroxaban with ketoconazole (400 mg once a day) or ritonavir (600 mg twice a day) led to a 2.6 fold / 2.5 fold increase in mean rivaroxaban AUC and a 1.7 fold / 1.6 fold increase in mean rivaroxaban Cmax, with significant increases in pharmacodynamic effects which may lead to an increased bleeding risk.
 Therefore, the use of Xarelto is not recommended in patients receiving concomitant systemic treatment with azole-antimycotics such as ketoconazole, itraconazole, voriconazole and posaconazole or HIV protease inhibitors.
 These active substances are strong inhibitors of both CYP3A4 and P-gp (see section 4.4).
-
 Active substances strongly inhibiting only one of the rivaroxaban elimination pathways, either CYP3A4 or P-gp, are expected to increase rivaroxaban plasma concentrations to a lesser extent.
 Clarithromycin (500 mg twice a day), for instance, considered as a strong CYP3A4 inhibitor and moderate P-gp inhibitor, led to a 1.5 fold increase in mean rivaroxaban AUC and a 1.4 fold increase in Cmax.
 This increase is not considered clinically relevant.
 (For patients with renal impairment: see section 4.4).
+
 Erythromycin (500 mg three times a day), which inhibits CYP3A4 and P-gp moderately, led to a 1.3 fold increase in mean rivaroxaban AUC and Cmax.
 This increase is not considered clinically relevant.
 In subjects with mild renal impairment erythromycin (500 mg three times a day) led to a 1.8 fold increase in mean rivaroxaban AUC and 1.6 fold increase in CRmax when compared to subjects with normal renal function.
@@ -32,6 +32,10 @@ Nevertheless, there may be individuals with a more pronounced pharmacodynamic re
 No clinically significant pharmacokinetic or pharmacodynamic interactions were observed when rivaroxaban was co-administered with 500 mg acetylsalicylic acid.
 Clopidogrel (300 mg loading dose followed by 75 mg maintenance dose) did not show a pharmacokinetic interaction with rivaroxaban (15 mg) but a relevant increase in bleeding time was observed in a subset of patients which was not correlated to platelet aggregation, P-selectin or GPIIb/IIIa receptor levels.
 Care is to be taken if patients are treated concomitantly with NSAIDs (including acetylsalicylic acid) and platelet aggregation inhibitors because these medicinal products typically increase the bleeding risk (see section 4.4).
+
+SSRIs/SNRIs
+As with other anticoagulants the possibility may exist that patients are at increased risk of bleeding in case of concomitant use with SSRIs or SNRIs due to their reported effect on platelets.
+When concomitantly used in the rivaroxaban clinical program, numerically higher rates of major or non-major clinically relevant bleeding were observed in all treatment groups.
 
 Warfarin
 Converting patients from the vitamin K antagonist warfarin (INR 2.0 to 3.0) to rivaroxaban (20 mg) or from rivaroxaban (20 mg) to warfarin (INR 2.0 to 3.0) increased prothrombin time/INR (Neoplastin) more than additively (individual INR values up to 12 may be observed), whereas effects on aPTT, inhibition of factor Xa activity and endogenous thrombin potential were additive.

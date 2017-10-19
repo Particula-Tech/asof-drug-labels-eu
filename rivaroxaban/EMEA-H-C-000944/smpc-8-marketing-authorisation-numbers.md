@@ -4,7 +4,7 @@ EU/1/08/472/025-035, EU/1/08/472/041
 
 [Xarelto 10 mg film-coated tablets]
 
-EU/1/08/472/001-010, EU/1/08/472/022.
+EU/1/08/472/001-010, EU/1/08/472/022, EU/1/08/472/042-045.
 
 [Xarelto 15 mg film-coated tablets]
 

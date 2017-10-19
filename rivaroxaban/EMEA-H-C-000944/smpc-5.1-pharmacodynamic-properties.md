@@ -20,6 +20,7 @@ There is no need for monitoring of coagulation parameters during treatment with 
 However, if clinically indicated, rivaroxaban levels can be measured by calibrated quantitative anti-factor-Xa tests (see section 5.2).
 
 Clinical efficacy and safety
+
 The rivaroxaban clinical program was designed to demonstrate the efficacy of Xarelto for the prevention of cardiovascular (CV) death, MI or stroke in subjects with a recent ACS (ST-elevation myocardial infarction [STEMI], non- ST-elevation myocardial infarction [NSTEMI] or unstable angina [UA]).
 In the pivotal double-blind ATLAS ACS 2 TIMI 51 trial, 15,526 patients were randomly assigned in a 1:1:1 fashion to one of three treatment groups: Xarelto 2.5 mg orally twice daily, 5 mg orally twice daily or to placebo twice daily co-administered with ASA alone or with ASA plus a thienopyridine (clopidogrel or ticlopidine).
 Patients with an ACS under the age of 55 had to have either diabetes mellitus or a previous MI.
@@ -30,20 +31,20 @@ Patients received the first dose of Xarelto at a minimum of 24 hours and up to 7
 
 Both the 2.5 mg twice daily and the 5 mg twice daily regimens of rivaroxaban were effective in further reducing the incidence of CV events on a background of standard antiplatelet care.
 The 2.5 mg twice daily regimen reduced mortality, and there is evidence that the lower dose had lower bleeding risks, therefore rivaroxaban 2.5 mg twice daily co-administered with acetylsalicylic acid (ASA) alone or with ASA plus clopidogrel or ticlopidine is recommended for the prevention of atherothrombotic events in adult patients after an ACS with elevated cardiac biomarkers.
+
 Relative to placebo, Xarelto significantly reduced the primary composite endpoint of CV death, MI or stroke.
-The benefit was driven by a reduction in CV death and MI and appeared early with a constant treatment effect over the entire treatment period (see Table 3 and Figure 1).
+The benefit was driven by a reduction in CV death and MI and appeared early with a constant treatment effect over the entire treatment period (see Table 4 and Figure 1).
 Also the first secondary endpoint (all cause death, MI or stroke) was reduced significantly.
-An additional retrospective analysis showed a nominally significant reduction in the incidence rates of stent thrombosis compared with placebo (see Table 3).
-The incidence rates for the principal safety outcome (non-CABG TIMI major bleeding events) were higher in patients treated with Xarelto than in patients who received placebo (see Table 5).
+An additional retrospective analysis showed a nominally significant reduction in the incidence rates of stent thrombosis compared with placebo (see Table 4).
+The incidence rates for the principal safety outcome (non-CABG TIMI major bleeding events) were higher in patients treated with Xarelto than in patients who received placebo (see Table 6).
 However the incidence rates were balanced between Xarelto and placebo for the components of fatal bleeding events, hypotension requiring treatment with intravenous inotropic agents and surgical intervention for ongoing bleeding.
 
-In Table 4 the efficacy results of patients undergoing percutaneous coronary intervention (PCI) are presented.
+In Table 5 the efficacy results of patients undergoing percutaneous coronary intervention (PCI) are presented.
 The safety results in this subgroup of patients undergoing PCI were comparable to the overall safety results.
-
 Patients with elevated biomarkers (troponin or CK-MB) and without a prior stroke/TIA constituted 80 % of the study population.
 The results of this patient population were also consistent with the overall efficacy and safety results.
 
-Table 3: Efficacy results from phase III ATLAS ACS 2 TIMI 51
+Table 4: Efficacy results from phase III ATLAS ACS 2 TIMI 51
 
 | Study Population | Patients with a recent acute coronary syndrome a) |  |
 | --- | --- | --- |
@@ -59,7 +60,8 @@ Table 3: Efficacy results from phase III ATLAS ACS 2 TIMI 51
 a) modified intent to treat analysis set (intent to treat total analysis set for stent thrombosis) b) vs. placebo; Log-Rank p-value
 * statistically superior
 ** nominally significant
-Table 4: Efficacy results from phase III ATLAS ACS 2 TIMI 51 in patients undergoing PCI
+
+Table 5: Efficacy results from phase III ATLAS ACS 2 TIMI 51 in patients undergoing PCI
 
 | Study Population | Patients with recent acute coronary syndrome undergoing PCI a) |  |
 | --- | --- | --- |
@@ -73,7 +75,8 @@ Table 4: Efficacy results from phase III ATLAS ACS 2 TIMI 51 in patients undergo
 
 a) modified intent to treat analysis set (intent to treat total analysis set for stent thrombosis) b) vs. placebo; Log-Rank p-value
 ** nominally significant
-Table 5: Safety results from phase III ATLAS ACS 2 TIMI 51
+
+Table 6: Safety results from phase III ATLAS ACS 2 TIMI 51
 
 | Study Population | Patients with recent acute coronary syndrome a) |  |
 | --- | --- | --- |
@@ -89,8 +92,6 @@ a) safety population, on treatment b) vs. placebo; Log-Rank p-value
 * statistically significant
 
 Figure 1: Time to First Occurrence of Primary Efficacy Endpoint (CV death, MI or stroke)
-
-15
 XARELTO 2.5 mg twice daily
 14 Placebo
 13
@@ -123,14 +124,15 @@ The European Medicines Agency has waived the obligation to submit the results of
 In patients undergoing major orthopaedic surgery, the 5/95 percentiles for PT (Neoplastin) 2 - 4 hours after tablet intake (i.e. at the time of maximum effect) ranged from 13 to 25 s (baseline values before surgery 12 to 15s).
 However, if clinically indicated rivaroxaban levels can be measured by calibrated quantitative anti-factor Xa tests (see section 5.2).
 
+Prevention of VTE in adult patients undergoing elective hip or knee replacement surgery
 The rivaroxaban clinical programme was designed to demonstrate the efficacy of rivaroxaban for the prevention of VTE, i.e. proximal and distal deep vein thrombosis (DVT) and pulmonary embolism (PE) in patients undergoing major orthopaedic surgery of the lower limbs.
 Over 9,500 patients (7,050 in total hip replacement surgery and 2,531 in total knee replacement surgery) were studied in controlled randomised double-blind phase III clinical studies, the RECORD-programme.
 Rivaroxaban 10 mg once daily (od) started no sooner than 6 hours post-operatively was compared with enoxaparin 40 mg once daily started 12 hours pre-operatively.
-In all three phase III studies (see table 3), rivaroxaban significantly reduced the rate of total VTE (any venographically detected or symptomatic DVT, non-fatal PE and death) and major VTE (proximal DVT, non-fatal PE and VTE-related death), the pre-specified primary and major secondary efficacy endpoints.
+In all three phase III studies (see table 4), rivaroxaban significantly reduced the rate of total VTE (any venographically detected or symptomatic DVT, non-fatal PE and death) and major VTE (proximal DVT, non-fatal PE and VTE-related death), the pre-specified primary and major secondary efficacy endpoints.
 Furthermore, in all three studies the rate of symptomatic VTE (symptomatic DVT, non-fatal PE, VTE-related death) was lower in rivaroxaban treated patients compared to patients treated with enoxaparin.
 The main safety endpoint, major bleeding, showed comparable rates for patients treated with rivaroxaban 10 mg compared to enoxaparin 40 mg.
 
-Table 3: Efficacy and safety results from phase III clinical studies
+Table 4: Efficacy and safety results from phase III clinical studies
 
 |  | RECORD 1 | RECORD 2 | RECORD 3 |
 | --- | --- | --- | --- |
@@ -147,6 +149,152 @@ In addition to the phase III RECORD program, a post-authorization, non-intervent
 Symptomatic VTE occurred in 57 (0.6%) patients in the rivaroxaban group (n=8,778) and 88 (1.0%) of patients in the standard-of-care group (n=8,635; HR 0.63; 95% CI 0.43-0.91); safety population).
 Major bleeding occurred in 35 (0.4%) and 29 (0.3%) of patients in the rivaroxaban and standard-of-care groups (HR 1.10; 95% CI 0.67-1.80).
 Thus, the results were consistent with the results of the pivotal randomised studies.
+
+Treatment of DVT, PE and prevention of recurrent DVT and PE
+The Xarelto clinical program was designed to demonstrate the efficacy of Xarelto in the initial and continued treatment of acute DVT and PE and prevention of recurrence.
+Over 12,800 patients were studied in four randomised controlled phase III clinical studies (Einstein DVT, Einstein PE, Einstein Extension and Einstein Choice). and additionally a predefined pooled analysis of the Einstein DVT and Einstein PE studies was conducted.
+The overall combined treatment duration in all studies was up to 21 months.
+
+In Einstein DVT 3,449 patients with acute DVT were studied for the treatment of DVT and the prevention of recurrent DVT and PE (patients who presented with symptomatic PE were excluded from this study).
+The treatment duration was for 3, 6 or 12 months depending on the clinical judgement of the investigator.
+For the initial 3 week treatment of acute DVT 15 mg rivaroxaban was administered twice daily.
+This was followed by 20 mg rivaroxaban once daily.
+In Einstein PE, 4,832 patients with acute PE were studied for the treatment of PE and the prevention of recurrent DVT and PE.
+For the initial treatment of acute PE 15 mg rivaroxaban was administered twice daily for three weeks.
+
+In both the Einstein DVT and the Einstein PE study, the comparator treatment regimen consisted of enoxaparin administered for at least 5 days in combination with vitamin K antagonist treatment until the PT/INR was in therapeutic range (≥ 2.0).
+Treatment was continued with a vitamin K antagonist dose-adjusted to maintain the PT/INR values within the therapeutic range of 2.0 to 3.0.
+
+In Einstein Extension 1,197 patients with DVT or PE were studied for the prevention of recurrent DVT and PE.
+The treatment duration was for an additional 6 or 12 months in patients who had completed 6 to 12 months of treatment for venous thromboembolism depending on the clinical judgment of the investigator.
+Xarelto 20 mg once daily was compared with placebo.
+
+Einstein DVT, PE and Extension used the same pre-defined primary and secondary efficacy outcomes.
+The primary efficacy outcome was symptomatic recurrent VTE defined as the composite of recurrent DVT or fatal or non-fatal PE.
+The secondary efficacy outcome was defined as the composite of recurrent DVT, non-fatal PE and all cause mortality.
+
+In Einstein Choice, 3,396 patients with confirmed symptomatic DVT and/or PE who completed 6-12 months of anticoagulant treatment were studied for the prevention of fatal PE or non-fatal symptomatic recurrent DVT or PE.
+Patients with an indication for continued therapeutic-dosed anticoagulation were excluded from the study.
+The treatment duration was up to 12 months depending on the individual randomization date (median : 351 days).
+Xarelto 20 mg once daily and Xarelto 10 mg once daily were compared with 100 mg acetylsalicylic acid once daily.
+
+In the Einstein DVT study (see Table 5) rivaroxaban was demonstrated to be non-inferior to enoxaparin/VKA for the primary efficacy outcome (p < 0.0001 (test for non-inferiority); hazard ratio: 0.680 (0.443 - 1.042), p=0.076 (test for superiority)).
+The prespecified net clinical benefit (primary efficacy outcome plus major bleeding events) was reported with a hazard ratio of 0.67
+((95% CI: 0.47 - 0.95), nominal p value p=0.027) in favour of rivaroxaban.
+INR values were within the therapeutic range a mean of 60.3% of the time for the mean treatment duration of 189 days, and 55.4%, 60.1%, and 62.8% of the time in the 3-, 6-, and 12-month intended treatment duration groups, respectively.
+In the enoxaparin/VKA group, there was no clear relation between the level of mean centre TTR (Time in Target INR Range of 2.0 – 3.0) in the equally sized tertiles and the incidence of the recurrent VTE (P=0.932 for interaction).
+Within the highest tertile according to centre, the hazard ratio with rivaroxaban versus warfarin was 0.69 (95% CI: 0.35 - 1.35).
+
+The incidence rates for the primary safety outcome (major or clinically relevant non-major bleeding events) as well as the secondary safety outcome (major bleeding events) were similar for both treatment groups.
+Table 5: Efficacy and safety results from phase III Einstein DVT
+
+| Study population | 3,449 patients with symptomatic acute deep vein thrombosis |  |
+| --- | --- | --- |
+| Treatment dosage and duration | Xareltoa) 3, 6 or 12 months N=1,731 | Enoxaparin/VKAb) 3, 6 or 12 months N=1,718 |
+| Symptomatic recurrent VTE* | 36 (2.1%) | 51 (3.0%) |
+| Symptomatic recurrent PE | 20 (1.2%) | 18 (1.0%) |
+| Symptomatic recurrent DVT | 14 (0.8%) | 28 (1.6%) |
+| Symptomatic PE and DVT | 1 (0.1%) | 0 |
+| Fatal PE/Death where PE cannot be ruled out | 4 (0.2%) | 6 (0.3%) |
+| Major or clinically relevant non-major bleeding | 139 (8.1%) | 138 (8.1%) |
+| Major bleeding events | 14 (0.8%) | 20 (1.2%) |
+
+a) Rivaroxaban 15 mg twice daily for 3 weeks followed by 20 mg once daily b) Enoxaparin for at least 5 days, overlapped with and followed by VKA
+* p < 0.0001 (non-inferiority to a prespecified hazard ratio of 2.0); hazard ratio: 0.680
+(0.443 - 1.042), p=0.076 (superiority)
+
+In the Einstein PE study (see Table 6) rivaroxaban was demonstrated to be non-inferior to enoxaparin/VKA for the primary efficacy outcome (p=0.0026 (test for non-inferiority); hazard ratio: 1.123 (0.749 – 1.684)).
+The prespecified net clinical benefit (primary efficacy outcome plus major bleeding events) was reported with a hazard ratio of 0.849 ((95% CI: 0.633 - 1.139), nominal p value p= 0.275).
+INR values were within the therapeutic range a mean of 63% of the time for the mean treatment duration of 215 days, and 57%, 62%, and 65% of the time in the 3-, 6-, and 12-month intended treatment duration groups, respectively.
+In the enoxaparin/VKA group, there was no clear relation between the level of mean centre TTR (Time in Target INR Range of 2.0 – 3.0) in the equally sized tertiles and the incidence of the recurrent VTE (p=0.082 for interaction).
+Within the highest tertile according to centre, the hazard ratio with rivaroxaban versus warfarin was 0.642 (95% CI: 0.277 - 1.484).
+
+The incidence rates for the primary safety outcome (major or clinically relevant non-major bleeding events) were slightly lower in the rivaroxaban treatment group (10.3% (249/2412)) than in the enoxaparin/VKA treatment group (11.4% (274/2405)).
+The incidence of the secondary safety outcome (major bleeding events) was lower in the rivaroxaban group (1.1% (26/2412)) than in the enoxaparin/VKA group (2.2% (52/2405)) with a hazard ratio 0.493 (95% CI: 0.308 - 0.789).
+Table 6: Efficacy and safety results from phase III Einstein PE
+
+| Study population | 4,832 patients with an acute symptomatic PE |  |
+| --- | --- | --- |
+| Treatment dosage and duration | Xareltoa) 3, 6 or 12 months N=2,419 | Enoxaparin/VKAb) 3, 6 or 12 months N=2,413 |
+| Symptomatic recurrent VTE* | 50 (2.1%) | 44 (1.8%) |
+| Symptomatic recurrent PE | 23 (1.0%) | 20 (0.8%) |
+| Symptomatic recurrent DVT | 18 (0.7%) | 17 (0.7%) |
+| Symptomatic PE and DVT | 0 | 2 (<0.1%) |
+| Fatal PE/Death where PE cannot be ruled out | 11 (0.5%) | 7 (0.3%) |
+| Major or clinically relevant non-major bleeding | 249 (10.3%) | 274 (11.4%) |
+| Major bleeding events | 26 (1.1%) | 52 (2.2%) |
+
+* p < 0.0026 (non-inferiority to a prespecified hazard ratio of 2.0); hazard ratio: 1.123 (0.749 – 1.684)
+
+A prespecified pooled analysis of the outcome of the Einstein DVT and PE studies was conducted (see Table 7).
+
+Table 7: Efficacy and safety results from pooled analysis of phase III Einstein DVT and Einstein PE
+
+| Study population | 8,281 patients with an acute symptomatic DVT or PE |  |
+| --- | --- | --- |
+| Treatment dosage and duration | Xareltoa) 3, 6 or 12 months N=4,150 | Enoxaparin/VKAb) 3, 6 or 12 months N=4,131 |
+| Symptomatic recurrent VTE* | 86 (2.1%) | 95 (2.3%) |
+| Symptomatic recurrent PE | 43 (1.0%) | 38 (0.9%) |
+| Symptomatic recurrent DVT | 32 (0.8%) | 45 (1.1%) |
+| Symptomatic PE and DVT | 1 (<0.1%) | 2 (<0.1%) |
+| Fatal PE/Death where PE cannot be ruled out | 15 (0.4%) | 13 (0.3%) |
+| Major or clinically relevant non-major bleeding | 388 (9.4%) | 412 (10.0%) |
+| Major bleeding events | 40 (1.0%) | 72 (1.7%) |
+
+* p < 0.0001 (non-inferiority to a prespecified hazard ratio of 1.75); hazard ratio: 0.886 (0.661 – 1.186)
+
+The prespecified net clinical benefit (primary efficacy outcome plus major bleeding events) of the pooled analysis was reported with a hazard ratio of 0.771 ((95% CI: 0.614 – 0.967), nominal p value p= 0.0244).
+In the Einstein Extension study (see Table 8) rivaroxaban was superior to placebo for the primary and secondary efficacy outcomes.
+For the primary safety outcome (major bleeding events) there was a non-significant numerically higher incidence rate for patients treated with rivaroxaban 20 mg once daily compared to placebo.
+The secondary safety outcome (major or clinically relevant non-major bleeding events) showed higher rates for patients treated with rivaroxaban 20 mg once daily compared to placebo.
+
+Table 8: Efficacy and safety results from phase III Einstein Extension
+
+| Study population | 1,197 patients continued treatment and prevention of recurrent venous thromboembolism |  |
+| --- | --- | --- |
+| Treatment dosage and duration | Xareltoa) 6 or 12 months N=602 | Placebo 6 or 12 months N=594 |
+| Symptomatic recurrent VTE* | 8 (1.3%) | 42 (7.1%) |
+| Symptomatic recurrent PE | 2 (0.3%) | 13 (2.2%) |
+| Symptomatic recurrent DVT | 5 (0.8%) | 31 (5.2%) |
+| Fatal PE/Death where PE cannot be ruled out | 1 (0.2%) | 1 (0.2%) |
+| Major bleeding events | 4 (0.7%) | 0 (0.0%) |
+| Clinically relevant non-major bleeding | 32 (5.4%) | 7 (1.2%) |
+
+a) Rivaroxaban 20 mg once daily
+* p < 0.0001 (superiority), hazard ratio: 0.185 (0.087 - 0.393)
+
+In the Einstein Choice study (Table 9) Xarelto 20 mg and 10 mg were both superior to 100 mg acetylsalicylic acid for the primary efficacy outcome.
+The principal safety outcome (major bleeding events) was similar for patients treated with Xarelto 20 mg and 10 mg once daily compared to 100 mg acetylsalicylic acid.
+
+Table 9: Efficacy and safety results from phase III Einstein Choice
+
+Study population 3,396 patients continued prevention of recurrent venous thromboembolism
+
+| Treatment dosage | Xarelto 20 mg od N=1,107 | Xarelto 10 mg od N=1,127 | ASA 100 mg od N=1,131 |
+| --- | --- | --- | --- |
+| Treatment duration median [interquartile range] | 349 [189-362] days | 353 [190-362] days | 350 [186-362] days |
+| Symptomatic recurrent VTE | 17 (1.5%)* | 13 (1.2%)** | 50 (4.4%) |
+| Symptomatic recurrent PE | 6 (0.5%) | 6 (0.5%) | 19 (1.7%) |
+| Symptomatic recurrent DVT | 9 (0.8%) | 8 (0.7%) | 30 (2.7%) |
+| Fatal PE/death where PE cannot be ruled out | 2 (0.2%) | 0 | 2 (0.2%) |
+| Symptomatic recurrent VTE, MI, stroke, or non-CNS systemic embolism | 19 (1.7%) | 18 (1.6%) | 56 (5.0%) |
+| Major bleeding events | 6 (0.5%) | 5 (0.4%) | 3 (0.3%) |
+| Clinically relevant non-major bleeding | 30 (2.7) | 22 (2.0) | 20 (1.8) |
+| Symptomatic recurrent VTE or major bleeding (net clinical benefit) | 23 (2.1%)+ | 17 (1.5%)++ | 53 (4.7%) |
+
+*p<0.001(superiority) Xarelto 20 mg od vs ASA 100 mg od; HR=0.34 (0.20–0.59)
+** p<0.001 (superiority) Xarelto 10 mg od vs ASA 100 mg od; HR=0.26 (0.14–0.47)
++ Xarelto 20 mg od vs. ASA 100 mg od; HR=0.44 (0.27–0.71), p=0.0009 (nominal)
+++ Xarelto 10 mg od vs. ASA 100 mg od; HR=0.32 (0.18–0.55), p<0.0001 (nominal)
+
+In addition to the phase III EINSTEIN program, a prospective, non-interventional, open-label cohort study (XALIA) with central outcome adjudication including recurrent VTE, major bleeding and death has been conducted.
+5,142 patients with acute DVT were enrolled to investigate the long-term safety of rivaroxaban compared with standard-of-care anticoagulation therapy in clinical practice.
+Rates of major bleeding, recurrent VTE and all-cause mortality for rivaroxaban were 0.7%, 1.4% and 0.5%, respectively.
+There were differences in patient baseline characteristics including age, cancer and renal impairment.
+A pre-specified propensity score stratified analysis was used to adjust for measured baseline differences but residual confounding may, in spite of this, influence the results.
+Adjusted hazard ratios comparing rivaroxaban and standard-of-care for major bleeding, recurrent VTE and all-cause mortality were 0.77 (95% CI 0.40 - 1.50), 0.91 (95% CI 0.54 - 1.54) and 0.51 (95% CI
+0.24 - 1.07), respectively.
+These results in clinical practice are consistent with the established safety profile in this indication.
 
 [Xarelto 15 mg film-coated tablets]
 
@@ -165,18 +313,16 @@ Xarelto was non-inferior to warfarin for the primary composite endpoint of strok
 In the per-protocol population on treatment, stroke or systemic embolism occurred in 188 patients on rivaroxaban (1.71% per year) and 241 on warfarin (2.16% per year) (HR 0.79;
 95% CI, 0.66 – 0.96; P<0.001 for non-inferiority).
 Among all randomised patients analysed according to ITT, primary events occurred in 269 on rivaroxaban (2.12% per year) and 306 on warfarin (2.42% per year) (HR 0.88; 95% CI, 0.74 – 1.03; P<0.001 for non-inferiority; P=0.117 for superiority).
-Results for secondary endpoints as tested in hierarchical order in the ITT analysis are displayed in Table 3.
+Results for secondary endpoints as tested in hierarchical order in the ITT analysis are displayed in Table 4.
 Among patients in the warfarin group, INR values were within the therapeutic range (2.0 to 3.0) a mean of 55% of the time (median, 58%; interquartile range, 43 to 71).
 The effect of rivaroxaban did not differ across the level of centre TTR (Time in Target INR Range of 2.0 - 3.0) in the equally sized quartiles (P=0.74 for interaction).
 Within the highest quartile according to centre, the hazard ratio with rivaroxaban versus warfarin was 0.74 (95% CI, 0.49 - 1.12).
-The incidence rates for the principal safety outcome (major and non-major clinically relevant bleeding events) were similar for both treatment groups (see Table 4).
-
-Table 3: Efficacy results from phase III ROCKET AF
+The incidence rates for the principal safety outcome (major and non-major clinically relevant bleeding events) were similar for both treatment groups (see Table 5).
+Table 4: Efficacy results from phase III ROCKET AF
 
 | Study population | ITT analyses of efficacy in patients with non-valvular atrial fibrillation |  |  |
 | --- | --- | --- | --- |
-| Treatment dosage | Xarelto 20 mg od (15 mg od in patients with moderate renal impairment) | Warfarin titrated to a target INR of 2.5 (therapeutic range 2.0 to 3.0) | Hazard ratio (95% CI) p-value, test for superiority |
-|  | Event rate (100 pt-yr) | Event rate (100 pt-yr) |  |
+| Treatment dosage | Xarelto 20 mg od (15 mg od in patients with moderate renal impairment) Event rate (100 pt-yr) | Warfarin titrated to a target INR of 2.5 (therapeutic range 2.0 to 3.0) Event rate (100 pt-yr) | Hazard ratio (95% CI) p-value, test for superiority |
 | Stroke and non-CNS systemic embolism | 269 (2.12) | 306 (2.42) | 0.88 (0.74 - 1.03) 0.117 |
 | Stroke, non-CNS systemic embolism and vascular death | 572 (4.51) | 609 (4.81) | 0.94 (0.84 - 1.05) 0.265 |
 | Stroke, non-CNS systemic embolism, vascular death and myocardial infarction | 659 (5.24) | 709 (5.65) | 0.93 (0.83 - 1.03) 0.158 |
@@ -184,12 +330,11 @@ Table 3: Efficacy results from phase III ROCKET AF
 | Non-CNS systemic embolism | 20 (0.16) | 27 (0.21) | 0.74 (0.42 - 1.32) 0.308 |
 | Myocardial infarction | 130 (1.02) | 142 (1.11) | 0.91 (0.72 - 1.16) 0.464 |
 
-Table 4: Safety results from phase III ROCKET AF
+Table 5: Safety results from phase III ROCKET AF
 
 | Study population | Patients with non-valvular atrial fibrillationa) |  |  |
 | --- | --- | --- | --- |
-| Treatment dosage | Xarelto 20 mg once a day (15 mg once a day in patients with moderate renal impairment) | Warfarin titrated to a target INR of 2.5 (therapeutic range 2.0 to 3.0) | Hazard ratio (95% CI) p-value |
-|  | Event rate (100 pt-yr) | Event rate (100 pt-yr) |  |
+| Treatment dosage | Xarelto 20 mg once a day (15 mg once a day in patients with moderate renal impairment) Event rate (100 pt-yr) | Warfarin titrated to a target INR of 2.5 (therapeutic range 2.0 to 3.0) Event rate (100 pt-yr) | Hazard ratio (95% CI) p-value |
 | Major and non-major clinically relevant bleeding events | 1,475 (14.91) | 1,449 (14.52) | 1.03 (0.96 - 1.11) 0.442 |
 | Major bleeding events | 395 (3.60) | 386 (3.45) | 1.04 (0.90 - 1.20) 0.576 |
 | Death due to bleeding* | 27 (0.24) | 55 (0.48) | 0.50 (0.31 - 0.79) 0.003 |
@@ -232,149 +377,52 @@ Each of the rivaroxaban regimens showed a significant reduction in clinically si
 The primary objective of PIONEER AF-PCI was to assess safety.
 Data on efficacy (including thromboembolic events) in this population are limited.
 
-Treatment of DVT, PE and prevention of recurrent DVT and PE
-The Xarelto clinical program was designed to demonstrate the efficacy of Xarelto in the initial and continued treatment of acute DVT and PE and prevention of recurrence.
-Over 9,400 patients were studied in three randomised controlled phase III clinical studies (Einstein DVT, Einstein PE and Einstein Extension) and additionally a predefined pooled analysis of the Einstein DVT and Einstein PE studies was conducted.
-The overall combined treatment duration in all studies was up to 21 months.
+Over 12,800 patients were studied in four randomised controlled phase III clinical studies (Einstein DVT, Einstein PE, Einstein Extension and Einstein Choice) and additionally a predefined pooled analysis of the Einstein DVT and Einstein PE studies was conducted.
 
-In Einstein DVT 3,449 patients with acute DVT were studied for the treatment of DVT and the prevention of recurrent DVT and PE (patients who presented with symptomatic PE were excluded from this study).
-The treatment duration was for 3, 6 or 12 months depending on the clinical judgement of the investigator.
-For the initial 3 week treatment of acute DVT 15 mg rivaroxaban was administered twice daily.
-This was followed by 20 mg rivaroxaban once daily.
+In the Einstein DVT study (see Table 6) rivaroxaban was demonstrated to be non-inferior to enoxaparin/VKA for the primary efficacy outcome (p < 0.0001 (test for non-inferiority); hazard ratio: 0.680 (0.443 - 1.042), p=0.076 (test for superiority)).
 
-In Einstein PE, 4,832 patients with acute PE were studied for the treatment of PE and the prevention of recurrent DVT and PE.
-For the initial treatment of acute PE 15 mg rivaroxaban was administered twice daily for three weeks.
-In both the Einstein DVT and the Einstein PE study, the comparator treatment regimen consisted of enoxaparin administered for at least 5 days in combination with vitamin K antagonist treatment until the PT/INR was in therapeutic range (≥ 2.0).
-Treatment was continued with a vitamin K antagonist dose-adjusted to maintain the PT/INR values within the therapeutic range of 2.0 to 3.0.
+Table 6: Efficacy and safety results from phase III Einstein DVT
 
-In Einstein Extension 1,197 patients with DVT or PE were studied for the prevention of recurrent DVT and PE.
-The treatment duration was for an additional 6 or 12 months in patients who had completed 6 to 12 months of treatment for venous thromboembolism depending on the clinical judgment of the investigator.
-Xarelto 20 mg once daily was compared with placebo.
+In the Einstein PE study (see Table 7) rivaroxaban was demonstrated to be non-inferior to enoxaparin/VKA for the primary efficacy outcome (p=0.0026 (test for non-inferiority); hazard ratio: 1.123 (0.749 – 1.684)).
 
-All phase III studies used the same pre-defined primary and secondary efficacy outcomes.
-The primary efficacy outcome was symptomatic recurrent VTE defined as the composite of recurrent DVT or fatal or non-fatal PE.
-The secondary efficacy outcome was defined as the composite of recurrent DVT, non-fatal PE and all cause mortality.
+Table 7: Efficacy and safety results from phase III Einstein PE
 
-In the Einstein DVT study (see Table 5) rivaroxaban was demonstrated to be non-inferior to enoxaparin/VKA for the primary efficacy outcome (p < 0.0001 (test for non-inferiority); hazard ratio: 0.680 (0.443 - 1.042), p=0.076 (test for superiority)).
-The prespecified net clinical benefit (primary efficacy outcome plus major bleeding events) was reported with a hazard ratio of 0.67
-((95% CI: 0.47 - 0.95), nominal p value p=0.027) in favour of rivaroxaban.
-INR values were within the therapeutic range a mean of 60.3% of the time for the mean treatment duration of 189 days, and 55.4%, 60.1%, and 62.8% of the time in the 3-, 6-, and 12-month intended treatment duration groups, respectively.
-In the enoxaparin/VKA group, there was no clear relation between the level of mean centre TTR (Time in Target INR Range of 2.0 – 3.0) in the equally sized tertiles and the incidence of the recurrent VTE (P=0.932 for interaction).
-Within the highest tertile according to centre, the hazard ratio with rivaroxaban versus warfarin was 0.69 (95% CI: 0.35 - 1.35).
+A prespecified pooled analysis of the outcome of the Einstein DVT and PE studies was conducted (see Table 8).
 
-The incidence rates for the primary safety outcome (major or clinically relevant non-major bleeding events) as well as the secondary safety outcome (major bleeding events) were similar for both treatment groups.
+Table 8: Efficacy and safety results from pooled analysis of phase III Einstein DVT and Einstein PE
 
-Table 5: Efficacy and safety results from phase III Einstein DVT
+In the Einstein Extension study (see Table 9) rivaroxaban was superior to placebo for the primary and secondary efficacy outcomes.
 
-| Study population | 3,449 patients with symptomatic acute deep vein thrombosis |  |
-| --- | --- | --- |
-| Treatment dosage and duration | Xareltoa) 3, 6 or 12 months N=1,731 | Enoxaparin/VKAb) 3, 6 or 12 months N=1,718 |
-| Symptomatic recurrent VTE* | 36 (2.1%) | 51 (3.0%) |
-| Symptomatic recurrent PE | 20 (1.2%) | 18 (1.0%) |
-| Symptomatic recurrent DVT | 14 (0.8%) | 28 (1.6%) |
-| Symptomatic PE and DVT | 1 (0.1%) | 0 |
-| Fatal PE/Death where PE cannot be ruled out | 4 (0.2%) | 6 (0.3%) |
-| Major or clinically relevant non-major bleeding | 139 (8.1%) | 138 (8.1%) |
-| Major bleeding events | 14 (0.8%) | 20 (1.2%) |
+Table 9: Efficacy and safety results from phase III Einstein Extension
 
-a) Rivaroxaban 15 mg twice daily for 3 weeks followed by 20 mg once daily b) Enoxaparin for at least 5 days, overlapped with and followed by VKA
-* p < 0.0001 (non-inferiority to a prespecified hazard ratio of 2.0); hazard ratio: 0.680
-(0.443 - 1.042), p=0.076 (superiority)
-In the Einstein PE study (see Table 6) rivaroxaban was demonstrated to be non-inferior to enoxaparin/VKA for the primary efficacy outcome (p=0.0026 (test for non-inferiority); hazard ratio: 1.123 (0.749 – 1.684)).
-The prespecified net clinical benefit (primary efficacy outcome plus major bleeding events) was reported with a hazard ratio of 0.849 ((95% CI: 0.633 - 1.139), nominal p value p= 0.275).
-INR values were within the therapeutic range a mean of 63% of the time for the mean treatment duration of 215 days, and 57%, 62%, and 65% of the time in the 3-, 6-, and 12-month intended treatment duration groups, respectively.
-In the enoxaparin/VKA group, there was no clear relation between the level of mean centre TTR (Time in Target INR Range of 2.0 – 3.0) in the equally sized tertiles and the incidence of the recurrent VTE (p=0.082 for interaction).
-Within the highest tertile according to centre, the hazard ratio with rivaroxaban versus warfarin was 0.642 (95% CI: 0.277 - 1.484).
+In the Einstein Choice study (see Table 10) Xarelto 20 mg and 10 mg were both superior to 100 mg acetylsalicylic acid for the primary efficacy outcome.
 
-The incidence rates for the primary safety outcome (major or clinically relevant non-major bleeding events) were slightly lower in the rivaroxaban treatment group (10.3% (249/2412)) than in the enoxaparin/VKA treatment group (11.4% (274/2405)).
-The incidence of the secondary safety outcome (major bleeding events) was lower in the rivaroxaban group (1.1% (26/2412)) than in the enoxaparin/VKA group (2.2% (52/2405)) with a hazard ratio 0.493 (95% CI: 0.308 - 0.789).
+Table 10: Efficacy and safety results from phase III Einstein Choice
 
-Table 6: Efficacy and safety results from phase III Einstein PE
-
-| Study population | 4,832 patients with an acute symptomatic PE |  |
-| --- | --- | --- |
-| Treatment dosage and duration | Xareltoa) 3, 6 or 12 months N=2,419 | Enoxaparin/VKAb) 3, 6 or 12 months N=2,413 |
-| Symptomatic recurrent VTE* | 50 (2.1%) | 44 (1.8%) |
-| Symptomatic recurrent PE | 23 (1.0%) | 20 (0.8%) |
-| Symptomatic recurrent DVT | 18 (0.7%) | 17 (0.7%) |
-| Symptomatic PE and DVT | 0 | 2 (<0.1%) |
-| Fatal PE/Death where PE cannot be ruled out | 11 (0.5%) | 7 (0.3%) |
-| Major or clinically relevant non-major bleeding | 249 (10.3%) | 274 (11.4%) |
-| Major bleeding events | 26 (1.1%) | 52 (2.2%) |
-
-* p < 0.0026 (non-inferiority to a prespecified hazard ratio of 2.0); hazard ratio: 1.123 (0.749 – 1.684)
-
-A prespecified pooled analysis of the outcome of the Einstein DVT and PE studies was conducted (see Table 7).
-Table 7: Efficacy and safety results from pooled analysis of phase III Einstein DVT and Einstein PE
-
-| Study population | 8,281 patients with an acute symptomatic DVT or PE |  |
-| --- | --- | --- |
-| Treatment dosage and duration | Xareltoa) 3, 6 or 12 months N=4,150 | Enoxaparin/VKAb) 3, 6 or 12 months N=4,131 |
-| Symptomatic recurrent VTE* | 86 (2.1%) | 95 (2.3%) |
-| Symptomatic recurrent PE | 43 (1.0%) | 38 (0.9%) |
-| Symptomatic recurrent DVT | 32 (0.8%) | 45 (1.1%) |
-| Symptomatic PE and DVT | 1 (<0.1%) | 2 (<0.1%) |
-| Fatal PE/Death where PE cannot be ruled out | 15 (0.4%) | 13 (0.3%) |
-| Major or clinically relevant non-major bleeding | 388 (9.4%) | 412 (10.0%) |
-| Major bleeding events | 40 (1.0%) | 72 (1.7%) |
-
-* p < 0.0001 (non-inferiority to a prespecified hazard ratio of 1.75); hazard ratio: 0.886 (0.661 – 1.186)
-
-The prespecified net clinical benefit (primary efficacy outcome plus major bleeding events) of the pooled analysis was reported with a hazard ratio of 0.771 ((95% CI: 0.614 – 0.967), nominal p value p= 0.0244).
-
-In the Einstein Extension study (see Table 8) rivaroxaban was superior to placebo for the primary and secondary efficacy outcomes.
-For the primary safety outcome (major bleeding events) there was a non-significant numerically higher incidence rate for patients treated with rivaroxaban 20 mg once daily compared to placebo.
-The secondary safety outcome (major or clinically relevant non-major bleeding events) showed higher rates for patients treated with rivaroxaban 20 mg once daily compared to placebo.
-
-Table 8: Efficacy and safety results from phase III Einstein Extension
-
-| Study population | 1,197 patients continued treatment and prevention of recurrent venous thromboembolism |  |
-| --- | --- | --- |
-| Treatment dosage and duration | Xareltoa) 6 or 12 months N=602 | Placebo 6 or 12 months N=594 |
-| Symptomatic recurrent VTE* | 8 (1.3%) | 42 (7.1%) |
-| Symptomatic recurrent PE | 2 (0.3%) | 13 (2.2%) |
-| Symptomatic recurrent DVT | 5 (0.8%) | 31 (5.2%) |
-| Fatal PE/Death where PE cannot be ruled out | 1 (0.2%) | 1 (0.2%) |
-| Major bleeding events | 4 (0.7%) | 0 (0.0%) |
-| Clinically relevant non-major bleeding | 32 (5.4%) | 7 (1.2%) |
-
-a) Rivaroxaban 20 mg once daily
-* p < 0.0001 (superiority), hazard ratio: 0.185 (0.087 - 0.393)
-In addition to the phase III EINSTEIN program, a prospective, non-interventional, open-label cohort study (XALIA) with central outcome adjudication including recurrent VTE, major bleeding and death has been conducted.
-5,142 patients with acute DVT were enrolled to investigate the long-term safety of rivaroxaban compared with standard-of-care anticoagulation therapy in clinical practice.
-Rates of major bleeding, recurrent VTE and all-cause mortality for rivaroxaban were 0.7%, 1.4% and 0.5%, respectively.
-There were differences in patient baseline characteristics including age, cancer and renal impairment.
-A pre-specified propensity score stratified analysis was used to adjust for measured baseline differences but residual confounding may, in spite of this, influence the results.
-Adjusted hazard ratios comparing rivaroxaban and standard-of-care for major bleeding, recurrent VTE and all-cause mortality were 0.77 (95% CI 0.40 - 1.50), 0.91 (95% CI 0.54 - 1.54) and 0.51 (95% CI
-0.24 - 1.07), respectively.
-These results in clinical practice are consistent with the established safety profile in this indication.
+* p<0.001(superiority) Xarelto 20 mg od vs ASA 100 mg od; HR=0.34 (0.20–0.59)
 
 [Xarelto 20 mg film-coated tablets]
 
-| Study population | ITT analyses of efficacy in patients with non-valvular atrial fibrillation |  |  |
-| --- | --- | --- | --- |
-| Treatment dosage | Xarelto 20 mg od (15 mg od in patients with moderate renal impairment) Event rate (100 pt-yr) | Warfarin titrated to a target INR of 2.5 (therapeutic range 2.0 to 3.0) Event rate (100 pt-yr) | Hazard ratio (95% CI) p-value, test for superiority |
-| Stroke and non-CNS systemic embolism | 269 (2.12) | 306 (2.42) | 0.88 (0.74 - 1.03) 0.117 |
-| Stroke, non-CNS systemic embolism and vascular death | 572 (4.51) | 609 (4.81) | 0.94 (0.84 - 1.05) 0.265 |
-| Stroke, non-CNS systemic embolism, vascular death and myocardial infarction | 659 (5.24) | 709 (5.65) | 0.93 (0.83 - 1.03) 0.158 |
-| Stroke | 253 (1.99) | 281 (2.22) | 0.90 (0.76 - 1.07) 0.221 |
-| Non-CNS systemic embolism | 20 (0.16) | 27 (0.21) | 0.74 (0.42 - 1.32) 0.308 |
-| Myocardial infarction | 130 (1.02) | 142 (1.11) | 0.91 (0.72 - 1.16) 0.464 |
+(all sentences already above)
 
 [Xarelto 15 mg film-coated tablets (SmPC 5)]
 
-In the Einstein DVT study (see Table 3) rivaroxaban was demonstrated to be non-inferior to enoxaparin/VKA for the primary efficacy outcome (p < 0.0001 (test for non-inferiority); hazard ratio: 0.680 (0.443 - 1.042), p=0.076 (test for superiority)).
+In the Einstein DVT study (see Table 4) rivaroxaban was demonstrated to be non-inferior to enoxaparin/VKA for the primary efficacy outcome (p < 0.0001 (test for non-inferiority); hazard ratio: 0.680 (0.443 - 1.042), p=0.076 (test for superiority)).
 
-Table 3: Efficacy and safety results from phase III Einstein DVT
+Table 4: Efficacy and safety results from phase III Einstein DVT
 
-In the Einstein PE study (see Table 4) rivaroxaban was demonstrated to be non-inferior to enoxaparin/VKA for the primary efficacy outcome (p=0.0026 (test for non-inferiority); hazard ratio: 1.123 (0.749 – 1.684)).
+In the Einstein PE study (see Table 5) rivaroxaban was demonstrated to be non-inferior to enoxaparin/VKA for the primary efficacy outcome (p=0.0026 (test for non-inferiority); hazard ratio: 1.123 (0.749 – 1.684)).
 
-Table 4: Efficacy and safety results from phase III Einstein PE
+Table 5: Efficacy and safety results from phase III Einstein PE
 
-A prespecified pooled analysis of the outcome of the Einstein DVT and PE studies was conducted (see Table 5).
+A prespecified pooled analysis of the outcome of the Einstein DVT and PE studies was conducted (see Table 6).
 
-Table 5: Efficacy and safety results from pooled analysis of phase III Einstein DVT and Einstein PE
+Table 6: Efficacy and safety results from pooled analysis of phase III Einstein DVT and Einstein PE
 
-In the Einstein Extension study (see Table 6) rivaroxaban was superior to placebo for the primary and secondary efficacy outcomes.
+In the Einstein Extension study (see Table 7) rivaroxaban was superior to placebo for the primary and secondary efficacy outcomes.
 
-Table 6: Efficacy and safety results from phase III Einstein Extension
+Table 7: Efficacy and safety results from phase III Einstein Extension
+
+In the Einstein Choice study (see Table 8) Xarelto 20 mg and 10 mg were both superior to 100 mg acetylsalicylic acid for the primary efficacy outcome.
+
+Table 8: Efficacy and safety results from phase III Einstein Choice

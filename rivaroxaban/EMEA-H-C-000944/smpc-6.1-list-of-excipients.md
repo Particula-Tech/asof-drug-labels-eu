@@ -16,8 +16,7 @@ Iron oxide yellow (E 172)
 
 [Xarelto 10 mg film-coated tablets]
 
-Titanium dioxide (E171)
-Iron oxide red (E172)
+Iron oxide red (E 172)
 
 [Xarelto 15 mg film-coated tablets]
 
@@ -25,7 +24,7 @@ Iron oxide red (E172)
 
 [Xarelto 20 mg film-coated tablets]
 
-Iron oxide red (E 172)
+(all sentences already above)
 
 [Xarelto 15 mg film-coated tablets (SmPC 5)]
 

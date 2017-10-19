@@ -6,12 +6,12 @@ Xarelto, co-administered with acetylsalicylic acid (ASA) alone or with ASA plus 
 
 Prevention of venous thromboembolism (VTE) in adult patients undergoing elective hip or knee replacement surgery.
 
+Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevention of recurrent DVT and PE in adults.
+(See section 4.4 for haemodynamically unstable PE patients.)
+
 [Xarelto 15 mg film-coated tablets]
 
 Prevention of stroke and systemic embolism in adult patients with non-valvular atrial fibrillation with one or more risk factors, such as congestive heart failure, hypertension, age ≥ 75 years, diabetes mellitus, prior stroke or transient ischaemic attack.
-
-Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevention of recurrent DVT and PE in adults.
-(See section 4.4 for haemodynamically unstable PE patients.)
 
 [Xarelto 20 mg film-coated tablets]
 
