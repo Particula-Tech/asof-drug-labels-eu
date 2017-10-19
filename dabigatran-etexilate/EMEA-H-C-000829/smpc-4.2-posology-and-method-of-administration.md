@@ -17,8 +17,7 @@ Treatment should be initiated orally within 1-4 hours of completed surgery with 
 For the following groups the recommended daily dose of Pradaxa is 150 mg taken once daily as 2 capsules of 75 mg.
 Treatment should be initiated orally within 1-4 hours of completed surgery with a single capsule of 75 mg and continuing with 2 capsules once daily thereafter for a total of 10 days (knee replacement surgery) or 28-35 days (hip replacement surgery):
 
-- Patients with moderate renal impairment (cre
-- atinine clearance, CrCL 30-50 mL/min) [see Renal impairment (pVTEp orthopaedic surgery )]
+- Patients with moderate renal impairment (creatinine clearance, CrCL 30-50 mL/min) [see Renal impairment (pVTEp orthopaedic surgery)]
 - Patients who receive concomitant verapamil, amiodarone, quinidine [see Concomitant use of Pradaxa with mild to moderate P-glycoprotein (P-gp) inhibitors, i.e. amidarone, quinidine or verapamil (pVTEp orthopaedic surgery)]
 - Patients aged 75 or above [see Elderly (pVTEp orthopaedic surgery)]
 
@@ -237,14 +236,18 @@ Cardioversion (SPAF, DVT/PE)
 
 Patients can stay on dabigatran etexilate while being cardioverted.
 
+Catheter ablation for atrial fibrillation (SPAF)
+
+There are no data available for 110 mg twice daily Pradaxa treatment.
+
 Paediatric population (SPAF)
 
 There is no relevant use of Pradaxa in the paediatric population for the indication of prevention of stroke and systemic embolism in patients with NVAF.
-
 Paediatric population (DVT/PE)
 
 The safety and efficacy of Pradaxa in children from birth to less than 18 years of age have not yet been established.
 Currently available data are described in section 4.8 and 5.1, but no recommendation on a posology can be made.
+
 Missed dose (SPAF, DVT/PE)
 
 A forgotten dabigatran etexilate dose may still be taken up to 6 hours prior to the next scheduled dose.
@@ -268,8 +271,10 @@ Renal impairment SPAF, DVT/PE
 
 Dosing should be reduced to 220 mg taken as one 110 mg capsule twice daily in patients who receive concomitantly dabigatran etexilate and verapamil (see sections 4.4 and 4.5).
 
-Patients with elevated liver enzymes > 2 upper limit of normal (ULN) were excluded inthe main trials .
 Switching (SPAF, DVT/PE)
+
+Catheter ablation can be conducted in patients on 150 mg twice daily Pradaxa treatment.
+Pradaxa treatment does not need to be interrupted (see section 5.1).
 
 Method of administration (SPAF, DVT/PE)
 Pradaxa can be taken with or without food.

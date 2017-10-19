@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: antithrombotic, direct thrombin inhibitors, ATC code: B01AE07.
-
 Mechanism of action
 
 Dabigatran etexilate is a small molecule prodrug which does not exhibit any pharmacological activity.
@@ -37,7 +36,6 @@ In patients treated for prevention of VTEs after hip or knee replacement surgery
 - the 90th percentile of aPTT at trough (20-28 hours after the previous dose) was 51 seconds, which would be 1.3-fold upper limit of normal.
 
 The ECT was not measured in patients treated for prevention of VTEs after hip or knee replacement surgery with 220 mg dabigatran etexilate once daily.
-
 Clinical efficacy and safety
 
 Ethnic origin
@@ -471,17 +469,27 @@ Tables 12-13 display results of the primary efficacy and safety endpoint in rele
 Table 12: Hazard Ratio and 95 % CI for stroke/SEE by subgroups
 
 The concomitant use of antiplatelets ASA or clopidogrel approximately doubles MBE rates with both dabigatran and warfarin.
+
 Table 13: Hazard Ratio and 95 % CI for major bleeds by subgroups
+
+Patients undergoing catheter ablation for atrial fibrillation
+A prospective, randomized, open-label, multicenter, exploratory study with blinded, centrally adjudicated endpoint evaluation (RE-CIRCUIT) was conducted in 704 patients who were under stable anticoagulant treatment.
+The study compared 150 mg twice daily uninterrupted dabigatran etexilate with uninterrupted INR-adjusted warfarin in catheter ablation of paroxysmal or persistent atrial fibrillation.
+Of the 704 enrolled patients, 317 underwent atrial fibrillation ablation on uninterrupted dabigatran and 318 underwent atrial fibrillation ablation on uninterrupted warfarin.
+All patients underwent a Trans-oesophageal Echocardiography (TEE) prior to catheter ablation.
+The primary outcome (adjudicated major bleeding according to ISTH criteria) occurred in 5 (1.6 %) patients in the dabigatran etexilate group and 22 (6.9 %) patients in the warfarin group (risk difference −5.3%; 95% CI −8.4, −2.2; P=0.0009).
+There was no stroke/systemic embolism/TIA (composite) event in the dabigatran etexilate arm, and one event (TIA) in the warfarin arm from the time of ablation and until 8 weeks post-ablation.
+This exploratory study showed that dabigatran etexilate was associated with a significant reduction in MBE rate compared with INR-adjusted warfarin in the setting of ablation.
 
 Paediatric population (SPAF)
 
 Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE) in adults (DVT/PE treatment
 
 The trials, demonstrated that treatment with dabigatran etexilate 150 mg twice daily was non-inferior to the treatment with warfarin ( non-inferiority margin for RE-COVER and RE-COVER II: 3.6 for risk difference and 2.75 for hazard ratio).
-
 Table 14: Analysis of the primary and secondary efficacy endpoints (VTE is a composite of DVT and/or PE) until the end of post-treatment period for the pooled studies RE-COVER and RE-COVER II
 
 RE-MEDY demonstrated that treatment with dabigatran etexilate 150 mg twice daily was non-inferior to warfarin (non-inferiority margin 2.85 for hazard ratio and 2.8 for risk difference).
+
 Table 15: Analysis of the primary and secondary efficacy endpoints (VTE is a composite of DVT and/or PE) until the end of post-treatment period for the RE-MEDY study
 
 RE-SONATE demonstrated dabigatran etexilate was superior to placebo for the prevention of recurrent symptomatic DVT/PE events including unexplained deaths, with a risk reduction from 5.6 % to 0.4 % (relative risk reduction 92 % based on hazard ratio) during the treatment period (p<0.0001).

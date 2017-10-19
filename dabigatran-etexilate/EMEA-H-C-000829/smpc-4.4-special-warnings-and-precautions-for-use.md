@@ -132,10 +132,6 @@ Hip fracture surgery
 There is no data on the use of Pradaxa in patients undergoing hip fracture surgery.
 Therefore treatment is not recommended.
 
-Colorants
-
-Pradaxa hard capsules contain the colorant sunset yellow (E110), which may cause allergic reactions.
-
 [Pradaxa 110 mg hard capsules]
 
 Patients with elevated liver enzymes > 2 ULN were excluded in the main trials.
@@ -162,7 +158,8 @@ The presence of lesions, conditions, procedures and/or pharmacological treatment
 | aPTT [x-fold upper limit of normal] | > 1.3 | > 2 |
 | INR | Should not be performed | Should not be performed |
 
-This risk of bleeding should be weighed against the urgency of intervention (for cardioversion see section 4.2).
+Patients can stay on Pradaxa while being cardioverted.
+There are no data available for 110 mg twice daily Pradaxa treatment in patients undergoing catheter ablation for atrial fibrillation (see section 4.2).
 
 Myocardial Infarction (SPAF)
 
@@ -195,8 +192,7 @@ Use of acetylsalicylic acid (ASA), clopidogrel or non steroidal antiinflammatory
 | aPTT [x-fold upper limit of normal] | > 2 |
 | INR | Should not be performed |
 
+Pradaxa treatment (150 mg twice daily) does not need to be interrupted in patients undergoing catheter ablation for atrial fibrillation (see section 4.2).
+
 When rapid reversal of the anticoagulation effect is required the specific reversal agen (Praxbind, idarucizumab) to Pradaxa is available.
-
 Pradaxa treatment can be re-initiated 24 hours after administration of Praxabind (idarucizumab), if the patient is clinically stable and adequate haemostasis has been achieved.
-
-The efficacy and safety have not been fully established for DVT/PE patients with active cancer.

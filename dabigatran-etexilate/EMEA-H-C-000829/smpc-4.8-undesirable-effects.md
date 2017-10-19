@@ -404,7 +404,6 @@ Table 7 shows bleeding events in pivotal study RE-MEDY testing prevention of dee
 Table 7: Bleeding events in study RE-MEDY testing prevention of deep vein thrombosis (DVT) and pulmonary embolism (PE)
 
 Table 8 shows bleeding events in pivotal study RE-SONATE testing prevention of deep vein thrombosis (DVT) and pulmonary embolism (PE).
-
 Table 8: Bleeding events in study RE-SONATE testing prevention of deep vein thrombosis (DVT) and pulmonary embolism (PE)
 
 Treatment of DVT and PE, and prevention of recurrent DVT and PE in adults (DVT/PE)

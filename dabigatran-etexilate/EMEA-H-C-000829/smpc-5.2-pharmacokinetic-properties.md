@@ -54,6 +54,9 @@ Table 9: Half-life of total dabigatran in healthy subjects and subjects with imp
 | ≥30-< 50 | 18.4 (18.5 %;13.3-23.0) |
 | < 30 | 27.2(15.3 %; 21.6-35.0) |
 
+Additionally, dabigatran exposure (at trough and peak) was assessed in a prospective open label randomized pharmacokinetic study in NVAF patients with severe renal impairment (defined as creatinine clearance [CrCl] 15-30 mL/min) receiving dabigatran etexilate 75 mg twice daily.
+This regimen resulted in a geometric mean trough concentration of 155 ng/ml (gCV of 76.9 %), measured immediately before administration of the next dose and in a geometric mean peak concentration of 202 ng/ml (gCV of 70.6 %) measured two hours after the administration of the last dose.
+
 Clearance of dabigatran by haemodialysis was investigated in 7 patients with end-stage renal disease (ESRD) without atrial fibrillation.
 Dialysis was conducted with 700 mL/min dialysate flow rate, four hour duration and a blood flow rate of either 200 mL/min or 350-390 mL/min.
 This resulted in a removal of 50 % to 60 % of dabigatran concentrations, respectively.
@@ -66,11 +69,11 @@ The effect by age on exposure to dabigatran was confirmed in the RE-LY study wit
 
 Hepatic impairment
 No change in dabigatran exposure was seen in 12 subjects with moderate hepatic insufficiency (Child Pugh B) compared to 12 controls (see sections 4.2 and 4.4).
-
 Body weight
 The dabigatran trough concentrations were about 20 % lower in patients with a body weight > 100 kg compared with 50-100 kg.
 The majority (80.8 %) of the subjects were in the ≥50 kg and < 100 kg category with no clear difference detected (see sections 4.2 and 4.4).
 Limited clinical data in patients < 50 kg are available.
+
 Gender
 Active substance exposure in the primary VTE prevention studies was about 40 % to 50 % higher in female patients and no dose adjustment is recommended.
 

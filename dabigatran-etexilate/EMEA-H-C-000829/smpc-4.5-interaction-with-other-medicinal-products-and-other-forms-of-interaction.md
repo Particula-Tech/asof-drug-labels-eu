@@ -3,7 +3,6 @@
 Anticoagulants and antiplatelet aggregation medicinal products
 
 There is no or only limited experience with the following treatments which may increase the risk of bleeding when used concomitantly with Pradaxa: anticoagulants such as unfractionated heparin (UFH), low molecular weight heparins (LMWH), and heparin derivatives (fondaparinux, desirudin), thrombolytic medicinal products, and vitamin K antagonists, rivaroxaban or other oral anticoagulants (see section 4.3), and platelet aggregation medicinal products such as, GPIIb/IIIa receptor antagonists, ticlopidine, prasugrel, ticagrelor, dextran, and sulfinpyrazone (see section 4.4).
-
 UFH can be administered at doses necessary to maintain a patent central venous or arterial catheter (see sections 4.3).
 
 Clopidogrel: In a phase I study in young healthy male volunteers, the concomitant administration of dabigatran etexilate and clopidogrel resulted in no further prolongation of capillary bleeding times compared to clopidogrel monotherapy.
@@ -41,7 +40,6 @@ A coagulation test helps to identify patients with an increased bleeding risk du
 The following strong P-gp inhibitors are contraindicated: systemic ketoconazole, cyclosporine, itraconazole and dronedarone (see section 4.3).
 Concomitant treatment with tacrolimus is not recommended.
 Caution should be exercised with mild to moderate P-gp inhibitors (e.g. amiodarone, posaconazole, quinidine, verapamil and ticagrelor) (see sections 4.2 and 4.4).
-
 Ketoconazole: Ketoconazole increased total dabigatran AUC0-∞and Cmax values by 138 % and 135 %, respectively, after a single oral dose of 400 mg, and 153 % and 149 %, respectively, after multiple oral dosing of 400 mg ketoconazole once daily.
 The time to peak, terminal half-life and mean residence time were not affected by ketoconazole (see section 4.4).
 Concomitant treatment with systemic ketoconazole is contraindicated (see section 4.3).
@@ -75,7 +73,6 @@ Therefore, close clinical surveillance (looking for signs of bleeding or anaemia
 In patients with normal renal function after the hip or knee replacement surgery, receiving dabigatran etexilate and verapamil concomitantly, the dose of Pradaxa should be reduced to 150 mg taken once daily as 2 capsules of 75 mg .
 In patients with moderate renal impairment and concomitantly treated with dabigatran etexilate and verapamil, a dose reduction of Pradaxa to 75 mg daily should be considered (see sections 4.2 and 4.4).
 Close clinical surveillance is recommended when dabigatran etexilate is combined with verapamil and particularly in the occurrence of bleeding, notably in patients having a mild to moderate renal impairment.
-
 There was no meaningful interaction observed when verapamil was given 2 hours after dabigatran etexilate (increased of Cmax by about 10 % and AUC by about 20 %).
 This is explained by completed dabigatran absorption after 2 hours (see section 4.4).
 
@@ -109,11 +106,11 @@ Concomitant administration of a P-gp inducer (such as rifampicin, St. John´s wo
 Rifampicin: Pre-dosing of the probe inducer rifampicin at a dose of 600 mg once daily for 7 days decreased total dabigatran peak and total exposure by 65.5 and 67 %, respectively.
 The inducing effect was diminished resulting in dabigatran exposure close to the reference by day 7 after cessation of rifampicin treatment.
 No further increase in bioavailability was observed after another 7 days.
+
 Other medicinal products affecting P-gp
 
 Protease inhibitors including ritonavir and its combinations with other protease inhibitors affect P-gp (either as inhibitor or as inducer).
-They have not been studied and are therefore not recommended for concomitant treatment with Pradaxa.
-
+They have not been studied and are therefore not recommended for concomitant treatment with section .
 P-gp substrate
 
 Digoxin: In a study performed with 24 healthy subjects, when Pradaxa was co-administered with digoxin, no changes on digoxin and no clinical relevant changes on dabigatran exposure have been observed.
@@ -136,15 +133,16 @@ There is no or only limited experience with the following treatments which may i
 From the limited data collected in the phase III study RE LY in patients with atrial fibrillation it was observed that the concomitant use of other oral or parenteral anticoagulants increases major bleeding rates with both dabigatran etexilate and warfarin by approximately 2.5-fold, mainly related to situations when switching from one anticoagulant to another (see section 4.3).
 
 UFH can be administered at doses necessary to maintain a patent central venous or arterial catheter (see section 4.3).
-
 Clopidogrel and ASA: From the data collected in the phase III study RE-LY (see section 5.1) it was observed that the concomitant use of antiplatelets, ASA or clopidogrel approximately doubles major bleeding rates with both dabigatran etexilate and warfarin (see section 4.4).
+
 With a loading dose of 300 mg or 600 mg clopidogrel, dabigatran AUCτ,ss and Cmax,ss were increased by about 30-40 % (see section 4.4) (see also subsection on ASA below).
 
 With chronic use in the RE-LY study, NSAIDs increased the risk of bleeding by approximately 50 % on both dabigatran etexilate and warfarin.
 
 In patients with normal renal function after hip or knee replacement surgery, receiving dabigatran etexilate and verapamil concomitantly, the dose of Pradaxa should be reduced to 150 mg taken once daily as 2 capsules of 75 mg.
-
 For patients with NVAF treated for prevention of stroke and SEE and for DVT/PE patients, concomitantly receiving dabigatran etexilate and verapamil, the dose of Pradaxa should be reduced to 220 mg taken as one 110 mg capsule twice daily (see section 4.2).
+
+They have not been studied and are therefore not recommended for concomitant treatment with Pradaxa.
 
 [Pradaxa 150 mg hard capsules]
 
