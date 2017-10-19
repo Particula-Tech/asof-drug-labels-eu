@@ -111,10 +111,8 @@ If the patient has developed SJS or TEN with the use of nivolumab or nivolumab i
 Caution should be used when considering the use of nivolumab in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other immune-stimulatory anticancer agents.
 
 Other immune-related adverse reactions
-The following immune-related adverse reactions were reported in less than 1% of patients treated with nivolumab monotherapy in clinical trials across doses and tumour types: pancreatitis, uveitis, demyelination, autoimmune neuropathy (including facial and abducens nerve paresis), Guillain-Barré syndrome, myasthenic syndrome, and encephalitis.
+The following immune-related adverse reactions were reported in less than 1% of patients treated with nivolumab monotherapy or nivolumab in combination with ipilimumab in clinical trials across doses and tumour types: pancreatitis, uveitis, demyelination, autoimmune neuropathy (including facial and abducens nerve paresis), Guillain-Barré syndrome, myasthenic syndrome, encephalitis, gastritis, sarcoidosis, duodenitis, myositis, myocarditis, and rhabdomyolysis.
 Cases of Vogt-Koyanagi-Harada syndrome have been reported post-marketing (see section 4.8).
-
-Across clinical trials of nivolumab in combination with ipilimumab, the following additional clinically significant, immune-related adverse reactions were reported in less than 1% of patients: gastritis, sarcoidosis, and duodenitis.
 
 For suspected immune-related adverse reactions, adequate evaluation should be performed to confirm aetiology or exclude other causes.
 Based on the severity of the adverse reaction, nivolumab or nivolumab in combination with ipilimumab should be withheld and corticosteroids administered.
@@ -142,6 +140,7 @@ In addition, CA209037 excluded patients who have had a Grade 4 adverse reaction 
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 
 Relative to nivolumab monotherapy, an increase in PFS for the combination of nivolumab with ipilimumab is established only in patients with low tumour PD-L1 expression.
+The improvement in OS was similar between nivolumab in combination with ipilimumab and nivolumab monotherapy in patients with high tumour PD-L1 expression (PD-L1 ≥ 1%).
 Before initiating treatment with the combination, physicians are advised to carefully evaluate the individual patient and tumour characteristics, taking into consideration the observed benefits and the toxicity of the combination relative to nivolumab monotherapy (see sections 4.8 and 5.1).
 
 Use of nivolumab in melanoma patients with rapidly progressing disease
@@ -166,14 +165,13 @@ In the absence of data, nivolumab should be used with caution in these populatio
 Complications of allogeneic Haematopoietic Stem Cell Transplant (HSCT) in classical Hodgkin Lymphoma
 Preliminary results from the follow-up of patients undergoing allogeneic HSCT after previous exposure to nivolumab showed a higher than expected number of cases of acute graft-versus-host-disease (aGVHD) and transplant related mortality (TRM).
 Until further data become available, careful consideration to the potential benefits of HSCT and the possible increased risk of transplant related complications should be made case by case (see section 4.8).
-
 Head and Neck Cancer
 Patients with a baseline performance score ≥ 2, active brain or leptomeningeal metastases, active autoimmune disease, medical conditions requiring systemic immunosuppression, or carcinoma of the nasopharynx or salivary gland as the primary tumour sites were excluded from the SCCHN clinical trial (see sections 4.5 and 5.1).
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 
 Physicians should consider the delayed onset of nivolumab effect before initiating treatment in patients with poorer prognostic features and/or aggressive disease.
 In head and neck cancer, a higher number of deaths within 3 months was observed in nivolumab compared to docetaxel.
-Factors associated with early deaths were ECOG performance status, fast progressive disease on prior platinum therapy and high tumor burden.
+Factors associated with early deaths were ECOG performance status, fast progressive disease on prior platinum therapy and high tumour burden.
 
 Urothelial Carcinoma
 Patients with a baseline performance score ≥2, active brain metastases or leptomeningeal metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trials of urothelial carcinoma (see sections 4.5 and 5.1).

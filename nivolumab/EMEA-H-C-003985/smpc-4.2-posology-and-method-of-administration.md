@@ -11,6 +11,7 @@ OPDIVO in combination with ipilimumab
 The recommended dose is 1 mg/kg nivolumab administered as an intravenous infusion over 60 minutes every 3 weeks for the first 4 doses in combination with 3 mg/kg ipilimumab administered intravenously over 90 minutes.
 
 This is then followed by a second phase in which 3 mg/kg nivolumab is administered as an intravenous infusion over 60 minutes every 2 weeks.
+The first dose of nivolumab monotherapy should be administered 3 weeks following the last dose of the combination of nivolumab and ipilimumab.
 
 Treatment with OPDIVO, either as a monotherapy or in combination with ipilimumab, should be continued as long as clinical benefit is observed or until treatment is no longer tolerated by the patient.
 Atypical responses (i.e., an initial transient increase in tumour size or small new lesions within the first few months followed by tumour shrinkage) have been observed.
