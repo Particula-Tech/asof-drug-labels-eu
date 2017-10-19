@@ -98,22 +98,16 @@ Please refer to the SmPC of co-administered 5-HT3 antagonist medicinal products.
 
 [EMEND 125 mg powder for oral suspension]
 
+The oral suspension should be prepared and the dose measured by healthcare professionals only.
+
 Infants, toddlers and children (aged 6 months to less than 12 years, and not less than 6 kg)
 The recommended dose of EMEND powder for oral suspension is based on weight, as specified in the table below.
-Recommended dose and volume of EMEND oral suspension in paediatric patients aged 6 months to less than 12 years
 
-| Body weight | Dose volume of suspension to be administered orally |  |  |
-| --- | --- | --- | --- |
+Recommended dose of EMEND oral suspension in paediatric patients aged 6 months to less than 12 years
+
 |  | Day 1 | Day 2 | Day 3 |
-| less than 6 kg | Not recommended |  |  |
-| 6 kg to less than 8 kg | 1 mL (25 mg) | 0.6 mL (15 mg) | 0.6 mL (15 mg) |
-| 8 kg to less than 10 kg | 1.2 mL (30 mg) | 0.8 mL (20 mg) | 0.8 mL (20 mg) |
-| 10 kg to less than 12 kg | 1.4 mL (35 mg) | 1 mL (25 mg) | 1 mL (25 mg) |
-| 12 kg to less than 15 kg | 1.8 mL (45 mg) | 1.2 mL (30 mg) | 1.2 mL (30 mg) |
-| 15 kg to less than 20 kg | 2.4 mL (60 mg) | 1.6 mL (40 mg) | 1.6 mL (40 mg) |
-| 20 kg to less than 25 kg | 3 mL (75 mg) | 2 mL (50 mg) | 2 mL (50 mg) |
-| 25 kg to less than 30 kg | 3.6 mL (90 mg) | 2.4 mL (60 mg) | 2.4 mL (60 mg) |
-| 30 kg and above | Withdraw (125 mg) all of the contents from the mixing cup into the oral dispenser (~5 mL) | 3.2 mL (80 mg) | 3.2 mL (80 mg) |
+| --- | --- | --- | --- |
+| EMEND oral suspension 25 mg/mL | 3 mg/kg orally Maximum dose 125 mg | 2 mg/kg orally Maximum dose 80 mg | 2 mg/kg orally Maximum dose 80 mg |
 
 The efficacy of the 125 mg powder for oral suspension has not been established in children 12 years of age and older.
 For adolescents aged 12-17 years, EMEND is available as capsules containing 80 mg, or 125 mg of aprepitant.
