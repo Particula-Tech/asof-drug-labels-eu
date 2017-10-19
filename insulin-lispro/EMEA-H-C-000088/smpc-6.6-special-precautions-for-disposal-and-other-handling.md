@@ -3,7 +3,7 @@
 Any unused product or waste material should be disposed of in accordance with local requirements.
 
 Instructions for use and handling
-The vial is to be used in conjunction with an appropriate syringe (100 U markings).
+The vial is to be used in conjunction with an appropriate syringe (100 unit markings).
 
 a) Preparing a dose
 
@@ -101,7 +101,7 @@ c) Mixing insulins
 Do not mix insulin in vials with insulin in cartridges.
 See section 6.2.
 
-[Humalog 100 U/ml, solution for injection in cartridge]
+[Humalog 100 units/ml, solution for injection in cartridge]
 
 To prevent the possible transmission of disease, each cartridge must be used by one patient only, even if the needle on the delivery device is changed.
 Humalog cartridges are to be used with a CE marked pen as recommended in the information provided by the device manufacturer.
@@ -120,7 +120,7 @@ Using the outer needle cap, unscrew the needle and dispose of it safely.
 9.
 Use of injection sites should be rotated so that the same site is not used more than approximately once a month.
 
-[Humalog Mix25 100 U/ml suspension for injection in vial]
+[Humalog Mix25 100 units/ml, suspension for injection in vial]
 
 Vials containing Humalog Mix25 should be rotated in the palms of the hands before use to resuspend the insulin until it appears uniformly cloudy or milky.
 Do not shake vigorously as this may cause frothing which may interfere with the correct measurement of the dose.
@@ -135,7 +135,7 @@ Making sure the tip of the needle is in the Humalog Mix25, withdraw the correct 
 
 Before removing the needle from the vial, check the syringe for air bubbles that reduce the amount of Humalog Mix25 in it.
 
-[Humalog Mix25 100 U/ml suspension for injection in cartridge]
+[Humalog Mix25 100 units/ml, suspension for injection in cartridge]
 
 Humalog Mix25 cartridges are to be used with a CE marked pen as recommended in the information provided by the device manufacturer.
 
@@ -147,20 +147,7 @@ The cartridges should be examined frequently and should not be used if clumps of
 Humalog Mix25 cartridges are not designed to allow any other insulin to be mixed in the cartridge.
 Cartridges are not designed to be refilled.
 
-[Humalog Mix50 100 U/ml suspension for injection in vial]
-
-Vials containing Humalog Mix50 should be rotated in the palms of the hands before use to resuspend the insulin until it appears uniformly cloudy or milky.
-
-Humalog Mix50
-
-Draw air into the syringe equal to the prescribed Humalog Mix50 dose.
-Put the needle through rubber top of the Humalog Mix50 vial and inject the air into the vial.
-
-Making sure the tip of the needle is in the Humalog Mix50, withdraw the correct dose into the syringe.
-
-Before removing the needle from the vial, check the syringe for air bubbles that reduce the amount of Humalog Mix50 in it.
-
-[Humalog Mix50 100 U/ml suspension for injection in cartridge]
+[Humalog Mix50 100 units/ml, suspension for injection in cartridge]
 
 Humalog Mix50 cartridges are to be used with a CE marked pen as recommended in the information provided by the device manufacturer.
 
@@ -168,7 +155,7 @@ Cartridges containing Humalog Mix50 should be rotated in the palms of the hands 
 
 Humalog Mix50 cartridges are not designed to allow any other insulin to be mixed in the cartridge .
 
-[Humalog BASAL 100 U/ml suspension for injection in cartridge]
+[Humalog BASAL 100 units/ml, suspension for injection in cartridge]
 
 Humalog BASAL cartridges are to be used with a CE marked pen as recommended in the information provided by the device manufacturer.
 
@@ -176,7 +163,7 @@ Cartridges containing Humalog BASAL should be rotated in the palms of the hands 
 
 Humalog BASAL cartridges are not designed to allow any other insulin to be mixed in the cartridge .
 
-[Humalog 100 U/ml KwikPen, solution for injection]
+[Humalog 100 units/ml KwikPen, solution for injection in a pre-filled pen]
 
 To prevent the possible transmission of disease, each pen must be used by one patient only, even if the needle is changed.
 
@@ -187,21 +174,28 @@ The KwikPen has to be used as recommended in the user manual.
 
 b) Mixing insulins
 
-[Humalog Mix25 100 U/ml KwikPen, suspension for injection]
+[Humalog Mix25 100 units/ml KwikPen, suspension for injection in a pre-filled pen]
 
 The KwikPen should be rotated in the palms of the hands ten times and inverted 180° ten times immediately before use to resuspend the insulin until it appears uniformly cloudy or milky.
 
 Handling of the pre-filled pen
 
-[Humalog Mix50 100 U/ml KwikPen, suspension for injection]
+[Humalog Mix50 100 units/ml KwikPen, suspension for injection in a pre-filled pen]
 
 (all sentences already above)
 
-[Humalog BASAL 100 U/ml KwikPen, suspension for injection]
+[Humalog BASAL 100 units/ml KwikPen, suspension for injection in a pre-filled pen]
 
 (all sentences already above)
 
-[Humalog 200 units/ml solution for injection in pre-filled pen]
+[Humalog 200 units/ml KwikPen, solution for injection in a pre-filled pen]
 
 The Humalog solution should be clear and colourless.
 Humalog should not be used if it appears cloudy, thickened, or slightly coloured or if solid particles are visible.
+
+[Humalog 100 units/ml Junior KwikPen, solution for injection in a pre-filled pen]
+
+Before using the Junior KwikPen the user manual included in the package leaflet must be read carefully.
+The Junior KwikPen has to be used as recommended in the user manual.
+
+The Junior KwikPen should not be used if any part looks broken or damaged.

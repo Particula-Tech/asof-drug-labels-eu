@@ -43,11 +43,11 @@ Glucodynamic differences between insulin lispro and soluble human insulin, as me
 
 Insulin lispro has been shown to be equipotent to human insulin on a molar basis but its effect is more rapid and of a shorter duration.
 
-[Humalog 100 U/ml, solution for injection in cartridge]
+[Humalog 100 units/ml, solution for injection in cartridge]
 
 Pharmacotherapeutic group :Fast-acting human insulin analogue.
 
-[Humalog Mix25 100 U/ml suspension for injection in vial]
+[Humalog Mix25 100 units/ml, suspension for injection in vial]
 
 Pharmaco-therapeutic group: ATC Code: A10A D04.
 Humalog Mix25 is a premixed suspension consisting of insulin lispro (fast-acting human insulin analogue) and insulin lispro protamine suspension (intermediate acting human insulin analogue).
@@ -73,7 +73,7 @@ Detailed information can be found in the following table.
 
 |  | Insulin-Naive Patients n = 78 | Not Insulin-Naive Patients n = 97 |
 | --- | --- | --- |
-| Mean total daily insulin dose at endpoint | 0.63 U/kg | 0.42 U/kg |
+| Mean total daily insulin dose at endpoint | 0.63 units/kg | 0.42 units/kg |
 | Haemoglobin A1c –Reduction1 | 1.30% (mean at baseline = 8.7%) | 1.00 % (mean at baseline = 8.5%) |
 | Reduction of the mean of combined morning / evening two-hour postprandial blood glucose1 | 3.46 mM | 2.48 mM |
 | Reduction of the mean fasting blood glucose1 | 0.55 mM | 0.65 mM |
@@ -83,28 +83,25 @@ Detailed information can be found in the following table.
 1 from baseline to end of Humalog Mix25 treatment
 2 in patients randomised to Humalog Mix25 during the first crossover period
 
-[Humalog Mix25 100 U/ml suspension for injection in cartridge]
+[Humalog Mix25 100 units/ml, suspension for injection in cartridge]
 
 Hypoglycaemic activity
 
-[Humalog Mix50 100 U/ml suspension for injection in vial]
+[Humalog Mix50 100 units/ml, suspension for injection in cartridge]
 
 Humalog Mix50 is a premixed suspension consisting of insulin lispro (fast-acting human insulin analogue) and insulin lispro protamine suspension (intermediate acting human insulin analogue).
 
 The rapid onset and early peak of activity of insulin lispro is observed following the subcutaneous administration of Humalog Mix50.
 In the figure below the pharmacodynamics of Humalog Mix50 and BASAL are illustrated.
+
 Humalog Mix50
 
-[Humalog Mix50 100 U/ml suspension for injection in cartridge]
-
-(all sentences already above)
-
-[Humalog BASAL 100 U/ml suspension for injection in cartridge]
+[Humalog BASAL 100 units/ml, suspension for injection in cartridge]
 
 Pharmaco-therapeutic group: Intermediate acting human insulin analogue.
 ATC Code: A10A C04.
 
-[Humalog 100 U/ml KwikPen, solution for injection]
+[Humalog 100 units/ml KwikPen, solution for injection in a pre-filled pen]
 
 Pharmacotherapeutic group : Fast-acting human insulin analogue, ATC code: A10A B04
 
@@ -114,20 +111,20 @@ Insulin lispro has a rapid onset of action (approximately 15 minutes), thus allo
 Insulin lispro
 Hypoglycemic
 
-[Humalog Mix25 100 U/ml KwikPen, suspension for injection]
+[Humalog Mix25 100 units/ml KwikPen, suspension for injection in a pre-filled pen]
 
 Pharmaco-therapeutic group:
 ATC Code: A10A D04.
 
-[Humalog Mix50 100 U/ml KwikPen, suspension for injection]
+[Humalog Mix50 100 units/ml KwikPen, suspension for injection in a pre-filled pen]
 
 (all sentences already above)
 
-[Humalog BASAL 100 U/ml KwikPen, suspension for injection]
+[Humalog BASAL 100 units/ml KwikPen, suspension for injection in a pre-filled pen]
 
 (all sentences already above)
 
-[Humalog 200 units/ml solution for injection in pre-filled pen]
+[Humalog 200 units/ml KwikPen, solution for injection in a pre-filled pen]
 
 Pharmacotherapeutic group : Drugs used in diabetes, insulins and analogues for injection, fast-acting, ATC code: A10AB04
 
@@ -138,4 +135,25 @@ Figure 1:
 The above representation (figure 1) reflects the relative amount of glucose over time required to maintain the subject's whole blood glucose concentrations near fasting levels and is an indicator of the effect of these insulins (100 units/ml) on glucose metabolism over time.
 
 The pharmacodynamic responses of insulin lispro 200 units/ml solution for injection were similar to those for insulin lispro 100 units/ml solution for injection after subcutaneous administration of a single 20 unit dose in healthy subjects as shown in the graph below (figure 2).
+80
+0
+
+Glucose 700 60 Insulin lispro 100 units/ml Insulin lispro 200 units/ml
+
+Infusion 0
+50
+Rate (mg/min) 0 40
+
+30
+20
+10
+
+0 1 2 3 4 5 6 7 8
+
+Time (hr)
+
 Figure 2: Arithmetic mean glucose infusion rate versus time profiles following subcutaneous administration of 20 units of insulin lispro 200 units/ml or insulin lispro 100 units/ml
+
+[Humalog 100 units/ml Junior KwikPen, solution for injection in a pre-filled pen]
+
+(all sentences already above)

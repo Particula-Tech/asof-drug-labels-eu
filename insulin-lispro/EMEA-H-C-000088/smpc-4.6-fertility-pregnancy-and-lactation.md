@@ -6,49 +6,46 @@ It is essential to maintain good control of the insulin-treated (insulin-depende
 Insulin requirements usually fall during the first trimester and increase during the second and third trimesters.
 Patients with diabetes should be advised to inform their doctor if they are pregnant or are contemplating pregnancy.
 Careful monitoring of glucose control, as well as general health, is essential in pregnant patients with diabetes.
+
 Patients with diabetes who are breast-feeding may require adjustments in insulin dose, diet or both.
 
-[Humalog 100 U/ml, solution for injection in cartridge]
+[Humalog 100 units/ml, solution for injection in cartridge]
 
 (all sentences already above)
 
-[Humalog Mix25 100 U/ml suspension for injection in vial]
+[Humalog Mix25 100 units/ml, suspension for injection in vial]
 
 (all sentences already above)
 
-[Humalog Mix25 100 U/ml suspension for injection in cartridge]
+[Humalog Mix25 100 units/ml, suspension for injection in cartridge]
 
 (all sentences already above)
 
-[Humalog Mix50 100 U/ml suspension for injection in vial]
-
-Patients with diabetes who are breast-feeding may require adjustments in insulin dose, diet, or both.
-
-[Humalog Mix50 100 U/ml suspension for injection in cartridge]
+[Humalog Mix50 100 units/ml, suspension for injection in cartridge]
 
 (all sentences already above)
 
-[Humalog BASAL 100 U/ml suspension for injection in cartridge]
+[Humalog BASAL 100 units/ml, suspension for injection in cartridge]
 
 (all sentences already above)
 
-[Humalog 100 U/ml KwikPen, solution for injection]
+[Humalog 100 units/ml KwikPen, solution for injection in a pre-filled pen]
 
 (all sentences already above)
 
-[Humalog Mix25 100 U/ml KwikPen, suspension for injection]
+[Humalog Mix25 100 units/ml KwikPen, suspension for injection in a pre-filled pen]
 
 (all sentences already above)
 
-[Humalog Mix50 100 U/ml KwikPen, suspension for injection]
+[Humalog Mix50 100 units/ml KwikPen, suspension for injection in a pre-filled pen]
 
 (all sentences already above)
 
-[Humalog BASAL 100 U/ml KwikPen, suspension for injection]
+[Humalog BASAL 100 units/ml KwikPen, suspension for injection in a pre-filled pen]
 
 (all sentences already above)
 
-[Humalog 200 units/ml solution for injection in pre-filled pen]
+[Humalog 200 units/ml KwikPen, solution for injection in a pre-filled pen]
 
 Pregnancy
 
@@ -56,3 +53,7 @@ Breast-feeding
 
 Fertility
 Insulin lispro did not induce fertility impairment in animal studies (see section 5.3).
+
+[Humalog 100 units/ml Junior KwikPen, solution for injection in a pre-filled pen]
+
+(all sentences already above)

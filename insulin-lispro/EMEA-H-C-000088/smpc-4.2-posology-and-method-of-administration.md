@@ -37,14 +37,17 @@ When used with an insulin infusion pump, Humalog should not be mixed with any ot
 Intravenous administration of insulin:
 Intravenous injection of insulin lispro should be carried out following normal clinical practise for intravenous injections, for example by an intravenous bolus or by an infusion system.
 Frequent monitoring of the blood glucose levels is required.
-Infusion systems at concentrations from 0.1U/ml to 1.0U/ml insulin lispro in 0.9% sodium chloride or 5% dextrose are stable at room temperature for 48 hours.
+Infusion systems at concentrations from 0.1 units/ml to 1.0 units/ml insulin lispro in 0.9% sodium chloride or 5% dextrose are stable at room temperature for 48 hours.
 It is recommended that the system is primed before starting the infusion to the patient.
 
-[Humalog 100 U/ml, solution for injection in cartridge]
+Paediatric population
+Humalog can be used in adolescents and children (see section 5.1).
+
+[Humalog 100 units/ml, solution for injection in cartridge]
 
 The faster onset of action compared to soluble human insulin is maintained regardless of injection site As with all insulin preparations, the duration of action of Humalog is dependent on dose, site of injection, blood supply, temperature, and physical activity.
 
-[Humalog Mix25 100 U/ml suspension for injection in vial]
+[Humalog Mix25 100 units/ml, suspension for injection in vial]
 
 Humalog Mix25 may be given shortly before meals.
 When necessary, Humalog Mix25 can be given soon after meals.
@@ -57,30 +60,29 @@ The rapid onset and early peak of activity of Humalog itself is observed followi
 This allows Humalog Mix25 to be given very close to mealtime.
 The duration of action of the insulin lispro protamine suspension (BASAL) component of Humalog Mix25 is similar to that of a basal insulin (NPH).
 As with all insulin preparations, the duration of action of Humalog Mix25 is dependent on dose, site of injection, blood supply, temperature, and physical activity.
+Administration of Humalog Mix25 to children below 12 years of age should be considered only in case of an expected benefit when compared to regular insulin.
 
-[Humalog Mix25 100 U/ml suspension for injection in cartridge]
+[Humalog Mix25 100 units/ml, suspension for injection in cartridge]
 
 The duration of action of the insulin lispro protamine suspension (BASAL) component of Humalog Mix25 is similar to that of a basal insulin NPH.
 
-[Humalog Mix50 100 U/ml suspension for injection in vial]
+[Humalog Mix50 100 units/ml, suspension for injection in cartridge]
 
 Humalog Mix50 may be given shortly before meals.
 When necessary, Humalog Mix50 can be given soon after meals.
 Humalog Mix50 should only be given by subcutaneous injection.
 Under no circumstances should Humalog Mix50 be given intravenously.
 
-When administered subcutaneously, care should be taken when injecting Humalog Mix50 to ensure that a blood vessel has not been entered.
+When administered subcutaneously care should be taken when injecting Humalog Mix50 to ensure that a blood vessel has not been entered.
 
 The rapid onset and early peak of activity of Humalog itself is observed following the subcutaneous administration of Humalog Mix50.
 This allows Humalog Mix50 to be given very close to mealtime.
 The duration of action of the insulin lispro protamine suspension (BASAL) component of Humalog Mix50 is similar to that of a basal insulin (NPH).
 As with all insulin preparations, the duration of action of Humalog Mix50 is dependent on dose, site of injection, blood supply, temperature, and physical activity.
 
-[Humalog Mix50 100 U/ml suspension for injection in cartridge]
+Administration of Humalog Mix50 to children below 12 years of age should be considered only in case of an expected benefit when compared to regular insulin.
 
-When administered subcutaneously care should be taken when injecting Humalog Mix50 to ensure that a blood vessel has not been entered.
-
-[Humalog BASAL 100 U/ml suspension for injection in cartridge]
+[Humalog BASAL 100 units/ml, suspension for injection in cartridge]
 
 Humalog BASAL can be mixed with or given in conjunction with Humalog.
 Humalog BASAL should only be given by subcutaneous injection.
@@ -91,27 +93,41 @@ When administered subcutaneously care should be taken when injecting Humalog BAS
 Humalog BASAL has an activity profile that is very similar to that of a basal insulin (NPH) over a period of approximately 15 hours.
 As with all insulin preparations, the duration of action of Humalog BASAL is dependent on dose, site of injection, blood supply, temperature, and physical activity.
 
-[Humalog 100 U/ml KwikPen, solution for injection]
+Administration of Humalog Basal to children below 12 years of age should be considered only in case of an expected benefit when compared to regular insulin.
+
+[Humalog 100 units/ml KwikPen, solution for injection in a pre-filled pen]
+
+Humalog preparations should be given by subcutaneous injection and may, although not recommended, also be given by intramuscular injection.
+The KwikPen is only suitable for subcutaneous injections.
+Humalog 100 units /ml is available in vials if administration of intravenous injection or infusion pump is necessary.
 
 When administered subcutaneously care should be taken when injecting Humalog KwikPen to ensure that a blood vessel has not been entered.
 
 Humalog KwikPen takes effect rapidly and has a shorter duration of activity (2 to 5 hours) given subcutaneously as compared with regular insulin.
 As with all insulin preparations, the duration of action of Humalog KwikPen is dependent on dose, site of injection, blood supply, temperature, and physical activity.
 
-[Humalog Mix25 100 U/ml KwikPen, suspension for injection]
+Humalog 100 units/ml KwikPen, Humalog 200 units/ml KwikPen and Humalog 100 units/ml Junior KwikPen
+Humalog KwikPen is available in two strengths.
+The Humalog 100 units/ml KwikPen and the Humalog 200 units/ml KwikPen deliver 1 – 60 units in steps of 1 unit in a single injection.
+The Humalog 100 units/ml Junior KwikPen delivers 0.5 – 30 units in steps of 0.5 units in a single injection.
+The number of insulin units is shown in the dose window of the pen regardless of strength and no dose conversion should be done when transferring a patient to a new strength or to a pen with a different dose step.
 
-(all sentences already above)
+[Humalog Mix25 100 units/ml KwikPen, suspension for injection in a pre-filled pen]
 
-[Humalog Mix50 100 U/ml KwikPen, suspension for injection]
+The KwikPen delivers 1 – 60 units in steps of 1 unit in a single injection.
+The needed dose is dialled in units.
+The number of units is shown in the dose window of the pen.
+
+[Humalog Mix50 100 units/ml KwikPen, suspension for injection in a pre-filled pen]
 
 The duration of action of the insulin lispro protamine suspension (BASAL) component of Humalog Mix50 is similar to that of a basal insulin NPH.
 
-[Humalog BASAL 100 U/ml KwikPen, suspension for injection]
+[Humalog BASAL 100 units/ml KwikPen, suspension for injection in a pre-filled pen]
 
 Humalog BASAL can be given in conjunction with Humalog.
 Under no circumstances should Humalog BASAL be given intravenously.
 
-[Humalog 200 units/ml solution for injection in pre-filled pen]
+[Humalog 200 units/ml KwikPen, solution for injection in a pre-filled pen]
 
 Posology
 
@@ -120,11 +136,8 @@ The duration of action of Humalog is dependent on dose, site of injection, blood
 
 Humalog can be used in conjunction with a longer-acting insulin or oral sulphonylurea medicinal products, on the advice of a physician.
 
-Humalog 100 units/ml KwikPen and Humalog 200 units/ml KwikPen
-Humalog KwikPen is available in two strengths.
-For both, the needed dose is dialled in units.
-Both pre-filled pens, the Humalog 100 units/ml KwikPen and the Humalog 200 units/ml KwikPen deliver 1 – 60 units in steps of 1 unit in a single injection.
-The number of units is shown in the dose window of the pen regardless of strength and no dose conversion should be done when transferring a patient to a new strength.
+Humalog 100 units/ml KwikPen , Humalog 200 units/ml KwikPen and Humalog 100 units/ml Junior KwikPen
+Humalog KwikPen is available in two strengths.The Humalog 100 units/ml KwikPen and the Humalog 200 units/ml KwikPen deliver 1 – 60 units in steps of 1 unit in a single injection.
 Humalog 200 units/ml KwikPen should be reserved for the treatment of patients with diabetes requiring daily doses of more than 20 units of rapid-acting insulin.
 The insulin lispro solution containing 200 units/ml should not be withdrawn from the pre-filled pen (the KwikPen) or mixed with any other insulin (see section 4.4 and section 6.2).
 
@@ -142,3 +155,14 @@ Humalog solution for injection should be given subcutaneously.
 Humalog 200 units/ml KwikPen solution for injection should not be used in an insulin infusion pump.
 
 Humalog 200 units/ml KwikPen solution for injection should not be used intravenously.
+
+[Humalog 100 units/ml Junior KwikPen, solution for injection in a pre-filled pen]
+
+Humalog 100 units/ml Junior KwikPen is suitable for patients who may benefit from finer insulin dose adjustments.
+
+The number of insulin units is shown in the dose window of the pen regardless of strength and no dose conversion should be done when transferring a patient to a new strength or pen with a different dose step.
+
+Insulin requirements may be reduced in patients with hepatic impairment due to reduced capacity for gluconeogenesis and reduced insulin breakdown; however, in patients with chronic hepatic impairment, an increase in insulin resistance may lkead to increased insulin requirements.
+
+The Junior KwikPen is only suitable for subcutaneous injections.
+Humalog 100 units/ml is available in vials if administration of intravenous injection or infusion pump is necessary.
