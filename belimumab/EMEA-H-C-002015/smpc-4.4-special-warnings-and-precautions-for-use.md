@@ -1,43 +1,34 @@
 # 4.4 Special warnings and precautions for use
 
-Benlysta has not been studied in the following patient groups, and is not recommended in:
+Benlysta has not been studied in the following patient groups and is not recommended in:
 
 - severe active central nervous system lupus
 - severe active lupus nephritis (see section 5.1)
 - HIV
 - a history of, or current, hepatitis B or C
 - hypogammaglobulinaemia (IgG <400 mg/dl) or IgA deficiency (IgA <10 mg/dl)
-- a history of major organ transplant or hematopoietic stem /cell /marrow transplant or renal transplant.
+- a history of major organ transplant or hematopoietic stem cell/marrow transplant or renal transplant.
 
 Concomitant use with B cell targeted therapy or cyclophosphamide
 
 Benlysta has not been studied in combination with other B cell targeted therapy or intravenous cyclophosphamide.
 Caution should be exercised if Benlysta is co-administered with other B cell targeted therapy or cyclophosphamide.
 
-Infusion reactions and hypersensitivity
+Hypersensitivity
 
-Administration of Benlysta may result in hypersensitivity reactions and infusion reactions which can be severe, and fatal.
+Administration of subcutaneous or intravenous Benlysta may result in hypersensitivity reactions which can be severe, and fatal.
 In the event of a severe reaction, Benlysta administration must be interrupted and appropriate medical therapy administered (see section 4.2).
-The risk of hypersensitivity reactions is greatest with the first two infusions; however the risk should be considered for every infusion administered.
+The risk of hypersensitivity reactions is greatest with the first two doses; however the risk should be considered for every administration.
 Patients with a history of multiple drug allergies or significant hypersensitivity may be at increased risk.
+Recurrence of clinically significant reactions after initial appropriate treatment of symptoms has also been observed (see sections 4.2 and 4.8).
 
-Premedication including an antihistamine, with or without an antipyretic, may be administered before the infusion of Benlysta.
-There is insufficient knowledge to determine whether premedication could diminish the frequency or severity of infusion reactions.
-
-In clinical studies, serious infusion and hypersensitivity reactions affected approximately 0.9% of patients,
-and included anaphylactic reaction, bradycardia, hypotension, angioedema, and dyspnea. Infusion reactions
-occurred more frequently during the first two infusions and tended to decrease with subsequent infusions
-
-(see section 4.8).
-Patients have been reported to develop symptoms of acute hypersensitivity several hours after the infusion has been administered.
-Recurrence of clinically significant reactions after initial appropriate treatment of symptoms has also been observed (see section 4.2 and 4.8).
-Therefore, Benlysta should be administered in an environment where resources for managing such reactions are immediately available.
-Patients should remain under clinical supervision for a prolonged period of time (for several hours), following at least the first 2 infusions, taking into account the possibility of a late onset reaction.
-Patients should be advised that hypersensitivity reactions are possible on the day of, or the day after infusion, and be informed of potential signs and symptoms and the possibility of recurrence.
+Patients should be advised that hypersensitivity reactions are possible, on the day of, or several days after administration, and be informed of potential signs and symptoms and the possibility of recurrence.
 Patients should be instructed to seek immediate medical attention if they experience any of these symptoms.
-The package leaflet should be provided to the patient each time Benlysta is administered (see section 4.2).
-
+The package leaflet should be provided to the patient.
 Delayed-type, non-acute hypersensitivity reactions have also been observed and included symptoms such as rash, nausea, fatigue, myalgia, headache, and facial oedema.
+
+In intravenous clinical studies, serious infusion and hypersensitivity reactions included anaphylactic reaction, bradycardia, hypotension, angioedema, and dyspnoea.
+Please refer to the Summary of Product Characteristics for Benlysta powder for concentrate for solution for infusion (section 4.4).
 
 Infections
 
@@ -68,10 +59,35 @@ In a substudy, a small group of patients who had previously received either teta
 
 Malignancies and lymphoproliferative disorders
 
-Immunomodulatory medicinal products, including belimumab, may increase the risk of malignancy.
-Caution should be exercised when considering belimumab therapy for patients with a history of malignancy or when considering continuing treatment in patients who develop malignancy.
+Immunomodulatory medicinal products, including Benlysta, may increase the risk of malignancy.
+Caution should be exercised when considering Benlysta therapy for patients with a history of malignancy or when considering continuing treatment in patients who develop malignancy.
 Patients with malignant neoplasm within the last 5 years have not been studied, with the exception of those with basal or squamous cell cancers of the skin, or cancer of the uterine cervix, that has been fully excised or adequately treated.
 
 Sodium content
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially ‘sodium- free’.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially ‘sodium-free’.
+
+[Benlysta 120 mg powder for concentrate for solution for infusion.]
+
+Benlysta has not been studied in the following patient groups, and is not recommended in:
+
+- a history of major organ transplant or hematopoietic stem cell /marrow transplant or renal transplant.
+
+Infusion reactions and hypersensitivity
+
+Administration of Benlysta may result in hypersensitivity reactions and infusion reactions which can be severe, and fatal.
+The risk of hypersensitivity reactions is greatest with the first two infusions; however the risk should be considered for every infusion administered.
+
+Premedication including an antihistamine, with or without an antipyretic, may be administered before the infusion of Benlysta.
+There is insufficient knowledge to determine whether premedication could diminish the frequency or severity of infusion reactions.
+
+In clinical studies, serious infusion and hypersensitivity reactions affected approximately 0.9% of patients,
+and included anaphylactic reaction, bradycardia, hypotension, angioedema, and dyspnoea. Infusion reactions
+occurred more frequently during the first two infusions and tended to decrease with subsequent infusions
+
+(see section 4.8).
+Patients have been reported to develop symptoms of acute hypersensitivity several hours after the infusion has been administered.
+Therefore, Benlysta should be administered in an environment where resources for managing such reactions are immediately available.
+Patients should remain under clinical supervision for a prolonged period of time (for several hours), following at least the first 2 infusions, taking into account the possibility of a late onset reaction.
+Patients should be advised that hypersensitivity reactions are possible, on the day of, or several days after infusion, and be informed of potential signs and symptoms and the possibility of recurrence.
+The package leaflet should be provided to the patient each time Benlysta is administered (see section 4.2).
