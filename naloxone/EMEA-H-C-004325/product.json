@@ -1,0 +1,16 @@
+{
+  "active_substance": "naloxone hydrochloride dihydrate",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/004325",
+  "eu_number": "EU/1/17/1238",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2017-11-09",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/nyxoid",
+  "molecule": "naloxone",
+  "molecule_name": "NALOXONE",
+  "name": "Nyxoid",
+  "register_name": "Nyxoid",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h1238.htm"
+}
