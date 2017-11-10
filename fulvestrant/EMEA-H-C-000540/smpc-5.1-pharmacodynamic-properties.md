@@ -11,13 +11,14 @@ There was also a significant decrease in progesterone receptor expression consis
 It has also been shown that fulvestrant 500 mg downregulates ER and the proliferation marker Ki67, to a greater degree than fulvestrant 250 mg in breast tumours in postmenopausal neoadjuvant setting.
 
 Clinical efficacy and safety in advanced breast cancer
+
+Monotherapy
 A Phase 3 clinical study was completed in 736 postmenopausal women with advanced breast cancer who had disease recurrence on or after adjuvant endocrine therapy or progression following endocrine therapy for advanced disease.
 The study included 423 patients whose disease had recurred or progressed during antiestrogen therapy (AE subgroup) and 313 patients whose disease had recurred or progressed during aromatase inhibitor therapy (AI subgroup).
 This study compared the efficacy and safety of Faslodex 500 mg (n=362) with Faslodex 250 mg (n=374).
 Progression-free survival (PFS) was the primary endpoint; key secondary efficacy endpoints included objective response rate (ORR), clinical benefit rate (CBR) and overall survival (OS).
-Efficacy results for the CONFIRM study are summarized in Table 2.
-
-Table 2 Summary of results of the primary efficacy endpoint (PFS) and key secondary efficacy endpoints in the CONFIRM study
+Efficacy results for the CONFIRM study are summarized in Table 3.
+Table 3 Summary of results of the primary efficacy endpoint (PFS) and key secondary efficacy endpoints in the CONFIRM study
 
 Variable Type of Faslodex Faslodex Comparison between groups
 estimate; 500 mg 250 mg (Faslodex 500 mg/Faslodex 250 mg)
@@ -74,7 +75,6 @@ PFS:Progression-free survival; ORR:Objective response rate; OR:Objective respons
 
 A Phase 3, randomised, double-blind, double-dummy, multicentre study of Faslodex 500 mg versus anastrozole 1 mg was conducted in postmenopausal women with ER-positive and/or PgR-positive locally advanced or metastatic breast cancer who had not previously been treated with any hormonal therapy.
 A total of 462 patients were randomised 1:1 sequentially to receive either fulvestrant 500 mg or anastrozole 1 mg.
-
 Randomisation was stratified by disease setting (locally advanced or metastatic), prior chemotherapy for advanced disease, and measurable disease.
 
 The primary efficacy endpoint of the study was investigator assessed progression-free survival (PFS) evaluated according to RECIST 1.1 (Response Evaluation Criteria in Solid Tumours).
@@ -88,9 +88,9 @@ A total of 17.1% of patients received a prior chemotherapy regimen for advanced 
 Consistent results were observed across the majority of pre-specified patient subgroups.
 For the subgroup of patients with disease limited to non-visceral metastasis (n=208), the HR was 0.592 (95% CI: 0.419, 0.837) for the Faslodex arm compared to the anastrozole arm.
 For the subgroup of patients with visceral metastasis (n=254), the HR was 0.993 (95% CI: 0.740, 1.331) for the Faslodex arm compared to the anastrozole arm.
-The efficacy results of the FALCON study are presented in Table 3 and Figure 1.
+The efficacy results of the FALCON study are presented in Table 4 and Figure 1.
 
-Table 3 Summary of results of the primary efficacy endpoint (PFS) and key secondary efficacy endpoints (Investigator Assessment, Intent-To-Treat Population) ─ FALCON study
+Table 4 Summary of results of the primary efficacy endpoint (PFS) and key secondary efficacy endpoints (Investigator Assessment, Intent-To-Treat Population) ─ FALCON study
 
 |  | Faslodex 500 mg (N=230) | Anastrozole 1 mg (N=232) |
 | --- | --- | --- |
@@ -108,7 +108,6 @@ Table 3 Summary of results of the primary efficacy endpoint (PFS) and key second
 
 *(31% maturity)-not final OS analysis
 **for patients with measurable disease
-
 Figure 1 Kaplan-Meier Plot of Progression-Free Survival (Investigator Assessment, Intent-To-Treat Population) ─ FALCON Study
 
 Time from randomisation (months)
@@ -129,6 +128,95 @@ Combined analysis of both studies showed the hazard ratio of Faslodex 250 mg to 
 The objective response rate for Faslodex 250 mg was 19.2% compared with 16.5% for anastrozole.
 The median time to death was 27.4 months for patients treated with Faslodex and 27.6 months for patients treated with anastrozole.
 The hazard ratio of Faslodex 250 mg to anastrozole for time to death was 1.01 (95% CI 0.86 to 1.19).
+
+Combination therapy with palbociclib
+A Phase 3, international, randomised, double-blind, parallel-group, multicentre study of Faslodex 500 mg plus palbociclib 125 mg versus Faslodex 500 mg plus placebo was conducted in women with HR-positive, HER2-negative locally advanced breast cancer not amenable to resection or radiation therapy with curative intent or metastatic breast cancer, regardless of their menopausal status, whose disease progressed after prior endocrine therapy in the (neo) adjuvant or metastatic setting.
+
+A total of 521 pre/peri- and postmenopausal women who had progressed on or within 12 months from completion of adjuvant endocrine therapy on or within 1 month from prior endocrine therapy for advanced disease, were randomised 2:1 to Faslodex plus palbociclib or Faslodex plus placebo and stratified by documented sensitivity to prior hormonal therapy, menopausal status at study entry (pre/peri- versus postmenopausal), and presence of visceral metastases.
+Pre/perimenopausal women received the LHRH agonist goserelin.
+Patients with advanced/metastatic, symptomatic, visceral spread, that were at risk of life-threatening complications in the short term (including patients with massive uncontrolled effusions [pleural, pericardial, peritoneal], pulmonary lymphangitis, and over 50% liver involvement), were not eligible for enrolment into the study.
+
+Patients continued to receive assigned treatment until objective disease progression, symptomatic deterioration, unacceptable toxicity, death, or withdrawal of consent, whichever occurred first.
+Crossover between treatment arms was not allowed.
+
+Patients were well matched for baseline demographics and prognostic characteristics between the Faslodex plus palbociclib arm and the Faslodex plus placebo arm.
+The median age of patients enrolled in this study was 57 years (range 29, 88).
+In each treatment arm the majority of patients were
+White, had documented sensitivity to prior hormonal therapy, and were postmenopausal.
+Approximately 20% of patients were pre/perimenopausal.
+All patients had received prior systemic therapy and most patients in each treatment arm had received a previous chemotherapy regimen for their primary diagnosis.
+More than half (62%) had an ECOG PS of 0, 60% had visceral metastases, and 60% had received more than 1 prior hormonal regimen for their primary diagnosis.
+
+The primary endpoint of the study was investigator-assessed PFS evaluated according to RECIST 1.1.
+Supportive PFS analyses were based on an Independent Central Radiology Review.
+Secondary endpoints included OR, CBR, OS, safety, and time-to-deterioration (TTD) in pain endpoint.
+
+The study met its primary endpoint of prolonging investigator-assessed PFS at the interim analysis conducted on 82% of the planned PFS events; the results crossed the pre-specified Haybittle-Peto efficacy boundary (α=0.00135), demonstrating a statistically significant prolongation in PFS and a clinically meaningful treatment effect.
+A more mature update of efficacy data is reported in Table 5.
+
+Table 5 Efficacy results – PALOMA3 study (Investigator assessment, intent-to-treat population)
+
+|  | Updated Analysis (23 October 2015 cut-off) |  |
+| --- | --- | --- |
+|  | Faslodex plus palbociclib (N=347) | Faslodex plus placebo (N=174) |
+| Progression-Free Survival |  |  |
+| Median [months (95% CI)] | 11.2 (9.5, 12.9) | 4.6 (3.5, 5.6) |
+| Hazard ratio (95% CI) and p-value | 0.497 (0.398, 0.620), p <0.000001 |  |
+| Secondary end points* |  |  |
+| OR [% (95% CI)] | 26.2 (21.7, 31.2) | 13.8 (9.0, 19.8) |
+| OR (measurable disease) [% (95% CI)] | 33.7 (28.1, 39.7) | 17.4 (11.5, 24.8) |
+| DOR (measurable disease) [months (95% CI)] | 9.2 (7.2, 10.4) | 7.4 (3.9, NE) |
+| CBR [% (95% CI)] | 68.0 (62.8, 72.9) | 39.7 (32.3, 47.3) |
+
+*Response endpoints based on confirmed and unconfirmed responses.
+N=number of patients; CI=confidence interval; NE=not estimable; OR=objective response; CBR=clinical benefit response; DOR=duration of response
+Figure 2.
+Kaplan-Meier plot of progression-free survival (investigator assessment, intent-to-treat population) – PALOMA3 study
+
+100 palbociclib+fulvestrant
+
+90 placebo+fulvestrant
+
+80
+70
+60
+50
+40
+30
+20
+10
+0
+0 2 4 6 8 10 12 14 16 18 20 22
+Time (Month)
+Number of patients at risk
+PAL+FUL 347 276 245 215 189 168 137 69 38 12 2 1
+PCB+FUL 174 112 83 62 51 43 29 15 11 4 1
+FUL=fulvestrant; PAL=palbociclib; PCB=placebo.
+
+A reduction in the risk of disease progression or death in the Faslodex plus palbociclib arm was observed in all individual patient subgroups defined by stratification factors and baseline characteristics.
+This was evident for pre/perimenopausal women (HR of 0.46 [95% CI: 0.28, 0.75]) and postmenopausal women (HR of 0.52 [95% CI: 0.40, 0.66]) and patients with visceral site of metastatic disease (HR of 0.50 [95% CI: 0.38, 0.65]) and non-visceral site of metastatic disease (HR of 0.48 [95% CI: 0.33, 0.71]).
+Benefit was also observed regardless of lines of prior therapy in the metastatic setting, whether 0 (HR of 0.59 [95% CI: 0.37, 0.93]), 1 (HR of 0.46 [95% CI: 0.32, 0.64]), 2 (HR of 0.48 [95% CI: 0.30, 0.76]), or ≥3 lines (HR of 0.59 [95% CI: 0.28, 1.22]).
+Additional efficacy measures (OR and TTR) assessed in the sub-groups of patients with or without visceral disease are displayed in Table 6.
+
+Table 6 Efficacy results in visceral and non-visceral disease from PALOMA3 study (intent-to-treat population)
+
+Visceral Disease Non-visceral Disease
+Faslodex plus Faslodex plus Faslodex plus Faslodex plus
+palbociclib placebo palbociclib placebo
+(N=206) (N=105) (N=141) (N=69)
+OR [% (95% CI)] 35.0 13.3 13.5 14.5
+(28.5, 41.9) (7.5, 21.4) (8.3, 20.2) (7.2, 25.0)
+TTR*, Median 3.8 5.4 3.7 3.6
+[months (range)] (3.5, 16.7) (3.5, 16.7) (1.9, 13.7) (3.4, 3.7)
+
+*Response results based on confirmed and unconfirmed responses.
+N=number of patients; CI=confidence interval; OR= objective response; TTR=time to first tumour response.
+
+Patient-reported symptoms were assessed using the European Organization for Research and Treatment of Cancer (EORTC) quality of life questionnaire (QLQ)-C30 and its Breast Cancer Module (EORTC QLQ-BR23).
+A total of 335 patients in the Faslodex plus palbociclib arm and 166 patients in the Faslodex plus placebo arm completed the questionnaire at baseline and at least 1 post-baseline visit.
+Time-to-Deterioration was pre-specified as time between baseline and first occurrence of ≥10 points increase from baseline in pain symptom scores.
+Addition of palbociclib to Faslodex resulted in a symptom benefit by significantly delaying Time-to-Deterioration in pain symptom compared with Faslodex plus placebo (median 8.0 months versus 2.8 months; HR of 0.64 [95% CI: 0.49, 0.85]; p<0.001).
+
 Effects on the postmenopausal endometrium
 Preclinical data do not suggest a stimulatory effect of fulvestrant on the postmenopausal endometrium (see section 5.3).
 A 2-week study in healthy postmenopausal volunteers treated with 20 μg per day ethinylestradiol showed that pretreatment with Faslodex 250 mg resulted in significantly reduced stimulation of the postmenopausal endometrium, compared to pre-treatment with placebo, as judged by ultrasound measurement of endometrium thickness.

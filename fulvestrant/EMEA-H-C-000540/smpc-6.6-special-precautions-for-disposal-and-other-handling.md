@@ -6,13 +6,13 @@ Administer the injection according to the local guidelines for performing large 
 
 NOTE: Due to the proximity of the underlying sciatic nerve, caution should be taken if administering Faslodex at the dorsogluteal injection site (see section 4.4).
 
-Warning - Do not autoclave safety needle (BD SafetyGlide™Shielding Hypodermic Needle) before use.
+Warning - Do not autoclave safety needle (BD SafetyGlide Shielding Hypodermic Needle) before use.
 Hands must remain behind the needle at all times during use and disposal.
 
 For each of the two syringes:
 
 - Remove glass syringe barrel from tray and check that it is Figure 1 not damaged.
-- Peel open the safety needle (SafetyGlide™) outer packaging.
+- Peel open the safety needle (SafetyGlide) outer packaging.
 - Parenteral solutions must be inspected visually for particulate matter and discolouration prior to administration.
 - Hold the syringe upright on the ribbed part (C).
   With the other hand, take hold of the cap (A) and carefully tilt back and forth until the cap disconnects and can be pulled off, do not twist (see Figure 1).
@@ -39,4 +39,5 @@ Listen for click and visually confirm needle tip is fully covered.
 
 Disposal
 Pre-filled syringes are for single use only.
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+This medicine may pose a risk to the aquatic environment.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements (see section 5.3).

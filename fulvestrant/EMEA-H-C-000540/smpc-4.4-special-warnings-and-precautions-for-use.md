@@ -15,6 +15,9 @@ Caution should be taken while administering Faslodex at the dorsogluteal injecti
 There are no long-term data on the effect of fulvestrant on bone.
 Due to the mechanism of action of fulvestrant, there is a potential risk of osteoporosis.
 
+The efficacy and safety of Faslodex (either as monotherapy or in combination with palbociclib) have not been studied in patients with critical visceral disease.
+
+When Faslodex is combined with palbociclib, please also refer to the Summary of Product Characteristics of palbociclib.
 Interference with estradiol antibody assays
 Due to the structural similarity of fulvestrant and estradiol, fulvestrant may interfere with antibody based-estradiol assays and may result in falsely increased levels of estradiol.
 

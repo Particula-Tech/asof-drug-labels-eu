@@ -9,6 +9,7 @@ Arteritis involving a range of different tissues was seen in some dogs after chr
 
 In dog studies following oral and intravenous administration, effects on the cardiovascular system (slight elevations of the S-T segment of the ECG [oral], and sinus arrest in one dog [intravenous]) were seen.
 These occurred at exposure levels higher than in patients (Cmax >15 times) and are likely to be of limited significance for human safety at the clinical dose.
+
 Fulvestrant showed no genotoxic potential.
 
 Fulvestrant showed effects upon reproduction and embryo/foetal development consistent with its antiestrogenic activity, at doses similar to the clinical dose.
@@ -22,3 +23,6 @@ In a two-year mouse oncogenicity study (daily oral administration) there was an 
 At the no-effect level for these findings, systemic exposure levels (AUC) were, in rats, approximately 1.5–fold the expected human exposure levels in females and 0.8-fold in males, and in mice, approximately 0.8-fold the expected human exposure levels in both males and females.
 Induction of such tumours is consistent with pharmacology-related endocrine feedback alterations in gonadotropin levels caused by antiestrogens in cycling animals.
 Therefore these findings are not considered to be relevant to the use of fulvestrant in postmenopausal women with advanced breast cancer.
+
+Environmental Risk Assessment (ERA)
+Environmental risk assessment studies have shown that fulvestrant may have potential to cause adverse effects to the aquatic environment (see section 6.6).
