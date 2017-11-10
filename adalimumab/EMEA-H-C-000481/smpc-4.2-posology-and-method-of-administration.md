@@ -36,6 +36,7 @@ Height Total Body Weight (kg)
 180 0.6 0.7 0.7 0.8* 0.8* 0.8* 0.8* 0.8* 0.8*
 
 *Maximum single dose is 40 mg (0.8 ml)
+
 Polyarticular juvenile idiopathic arthritis from 13 years of age
 
 For patients from 13 years of age, a dose of 40 mg is administered every other week regardless of body surface area.
@@ -81,6 +82,7 @@ Adolescent hidradenitis suppurativa (from 12 years of age, weighing at least 30 
 
 There are no clinical trials with Humira in adolescent patients with HS.
 The posology of Humira in these patients has been determined from pharmacokinetic modelling and simulation (see section 5.2).
+
 The recommended Humira dose is 80 mg at Week 0 followed by 40 mg every other week starting at Week 1 via subcutaneous injection.
 
 In adolescent patients with inadequate response to Humira 40 mg every other week, an increase in dosing frequency to 40 mg every week may be considered.
@@ -115,12 +117,12 @@ After induction treatment, the recommended dose is 40 mg every other week via su
 Some subjects who experience insufficient response may benefit from an increase in dosing frequency to 40 mg Humira every week.
 
 Continued therapy should be carefully considered in a subject not responding by Week 12.
-
 There is no relevant use of Humira in children aged less than 6 years for this indication.
 
 Paediatric Uveitis
 
 In paediatric uveitis, there is no experience in the treatment with Humira without concomitant treatment with methotrexate.
+
 Paediatric uveitis patients < 30 kg:
 
 The recommended dose of Humira is 20 mg every other week in combination with methotrexate.
@@ -163,9 +165,9 @@ Glucocorticoids, salicylates, nonsteroidal anti-inflammatory drugs, or analgesic
 Regarding combination with disease modifying anti-rheumatic drugs other than methotrexate see sections 4.4 and 5.1.
 
 In monotherapy, some patients who experience a decrease in their response may benefit from an increase in dose intensity to 40 mg adalimumab every week.
-
 Available data suggest that the clinical response is usually achieved within 12 weeks of treatment.
 Continued therapy should be reconsidered in a patient not responding within this time period.
+
 Dose interruption
 
 There may be a need for dose interruption, for instance before surgery or if a serious infection occurs.
@@ -194,7 +196,6 @@ Two weeks later (Day 29) continue with a dose of 40 mg every week.
 Should treatment be interrupted, Humira 40 mg every week may be re-introduced (see section 5.1).
 
 The benefit and risk of continued long-term treatment should be periodically evaluated (see section 5.1).
-
 Crohn’s disease
 
 The recommended Humira induction dose regimen for adult patients with moderately to severely active Crohn’s disease is 80 mg at Week 0 followed by 40 mg at Week 2.

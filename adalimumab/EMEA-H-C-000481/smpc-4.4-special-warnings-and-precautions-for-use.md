@@ -1,7 +1,6 @@
 # 4.4 Special warnings and precautions for use
 
 In order to improve traceability of biological medicinal products, the tradename and the batch number of the administered product should be clearly recorded.
-
 Infections
 
 Patients taking TNF-antagonists are more susceptible to serious infections.
@@ -28,7 +27,8 @@ Tuberculosis
 Tuberculosis, including reactivation and new onset of tuberculosis, has been reported in patients receiving Humira.
 Reports included cases of pulmonary and extra-pulmonary (i.e. disseminated) tuberculosis.
 
-Before initiation of therapy with Humira, all patients must be evaluated for both active or inactive (“latent”) tuberculosis infection.
+Before initiation of therapy with Humira, all patients must be evaluated for both active or inactive
+(“latent”) tuberculosis infection.
 This evaluation should include a detailed medical assessment of patient history of tuberculosis or possible previous exposure to people with active tuberculosis and previous and/or current immunosuppressive therapy.
 Appropriate screening tests (i.e. tuberculin skin test and chest X-ray) should be performed in all patients (local recommendations may apply).
 It is recommended that the conduct and results of these tests are recorded in the patient alert card.
@@ -41,11 +41,11 @@ In all situations described below, the benefit/risk balance of therapy should be
 If latent tuberculosis is suspected, a physician with expertise in the treatment of tuberculosis should be consulted.
 
 If latent tuberculosis is diagnosed, appropriate treatment must be started with anti-tuberculosis prophylaxis treatment before the initiation of Humira, and in accordance with local recommendations.
-
 Use of anti-tuberculosis prophylaxis treatment should also be considered before the initiation of Humira in patients with several or significant risk factors for tuberculosis despite a negative test for tuberculosis and in patients with a past history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed.
 
 Despite prophylactic treatment for tuberculosis, cases of reactivated tuberculosis have occurred in patients treated with Humira.
 Some patients who have been successfully treated for active tuberculosis have redeveloped tuberculosis while being treated with Humira.
+
 Patients should be instructed to seek medical advice if signs/symptoms suggestive of a tuberculosis infection (e.g., persistent cough, wasting/weight loss, low grade fever, listlessness) occur during or after therapy with Humira.
 
 Other opportunistic infections
@@ -73,7 +73,6 @@ TNF-antagonists including Humira have been associated in rare instances with new
 Prescribers should exercise caution in considering the use of Humira in patients with pre-existing or recent-onset central or peripheral nervous system demyelinating disorders; discontinuation of Humira should be considered if any of these disorders develop.
 There is a known association between intermediate uveitis and central demyelinating disorders.
 Neurologic evaluation should be performed in patients with non-infectious intermediate uveitis prior to the initiation of Humira therapy and regularly during treatment to assess for pre-existing or developing central demyelinating disorders.
-
 Allergic reactions
 
 Serious allergic reactions associated with Humira were rare during clinical trials.
@@ -82,6 +81,7 @@ Reports of serious allergic reactions including anaphylaxis have been received f
 If an anaphylactic reaction or other serious allergic reaction occurs, administration of Humira should be discontinued immediately and appropriate therapy initiated.
 
 Immunosuppression
+
 In a study of 64 patients with rheumatoid arthritis that were treated with Humira, there was no evidence of depression of delayed-type hypersensitivity, depression of immunoglobulin levels, or change in enumeration of effector T-, B, - NK-cells, monocyte/macrophages, and neutrophils.
 
 Malignancies and lymphoproliferative disorders
@@ -118,6 +118,7 @@ All patients with ulcerative colitis who are at increased risk for dysplasia or 
 This evaluation should include colonoscopy and biopsies per local recommendations.
 
 Haematologic reactions
+
 Rare reports of pancytopenia including aplastic anaemia have been reported with TNF-antagonists.
 Adverse events of the haematologic system, including medically significant cytopenia (e.g. thrombocytopenia, leukopenia) have been reported with Humira.
 All patients should be advised to seek immediate medical attention if they develop signs and symptoms suggestive of blood dyscrasias (e.g. persistent fever, bruising, bleeding, pallor) while on Humira.
@@ -146,7 +147,6 @@ Autoimmune processes
 Treatment with Humira may result in the formation of autoimmune antibodies.
 The impact of long-term treatment with Humira on the development of autoimmune diseases is unknown.
 If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with Humira and is positive for antibodies against double-stranded DNA, further treatment with Humira should not be given (see section 4.8).
-
 Concurrent administration of biologic DMARDS or TNF-antagonists
 
 Serious infections were seen in clinical studies with concurrent use of anakinra and another TNF-antagonist, etanercept, with no added clinical benefit compared to etanercept alone.

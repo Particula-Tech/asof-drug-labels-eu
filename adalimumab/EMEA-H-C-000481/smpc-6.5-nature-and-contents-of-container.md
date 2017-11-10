@@ -22,7 +22,6 @@ Humira 40 mg solution for injection in single-use pre-filled syringe (type I gla
 The syringe is made from type 1 glass with a plunger stopper (bromobutyl rubber) and a needle with a needle shield (thermoplastic elastomer).
 
 1 pre-filled syringe with needleguard (0.8 ml sterile solution) in a blister, and 1 alcohol pad.
-
 Humira 40 mg solution for injection in pre-filled pen
 Humira 40 mg solution for injection in single-use pre-filled pen for patient use containing a pre-filled syringe.
 The syringe inside the pen is made from type 1 glass with a plunger stopper (bromobutyl rubber) and a needle with a needle shield (thermoplastic elastomer).
