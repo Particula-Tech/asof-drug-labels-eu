@@ -10,3 +10,7 @@ Overdose may be treated by induction of emesis or by gastric lavage, and by symp
 [EXJADE 90 mg film-coated tablets]
 
 Single doses of 80 mg/kg of the deferasirox dispersible tablet formulation (corresponding to a dose of 56 mg/kg film-coated tablets) in iron-overloaded thalassaemic patients caused mild nausea and diarrhoea.
+
+[EXJADE 90 mg granules in sachet]
+
+Single doses of 80 mg/kg of the deferasirox dispersible tablet formulation (corresponding to a dose of 56 mg/kg granules) in iron-overloaded thalassaemic patients caused mild nausea and diarrhoea.

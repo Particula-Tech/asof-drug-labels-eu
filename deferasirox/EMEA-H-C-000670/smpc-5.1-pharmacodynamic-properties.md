@@ -50,8 +50,10 @@ At a starting dose of 10 mg/kg/day, deferasirox dispersible tablets led to reduc
 On average, liver iron concentration decreased by 3.80 mg Fe/g dw in patients treated with deferasirox dispersible tablets (starting dose 10 mg/kg/day) and increased by 0.38 mg Fe/g dw in patients treated with placebo (p<0.001).
 On average, serum ferritin decreased by 222.0 µg/l in patients treated with deferasirox dispersible tablets (starting dose 10 mg/kg/day) and increased by 115 µg/l in patients treated with placebo (p<0.001).
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with EXJADE in one or more subsets of the paediatric population in the treatment of chronic iron overload requiring chelation therapy (see section 4.2 for information on paediatric use).
-
 [EXJADE 90 mg film-coated tablets]
 
 For deferasirox film-coated tablets, a dose ratio of 3:1 can be considered (i.e. a dose of deferasirox film-coated tablets that is numerically one third of the deferoxamine dose).
+
+[EXJADE 90 mg granules in sachet]
+
+For deferasirox granules, a dose ratio of 3:1 can be considered (i.e. a dose of deferasirox granules that is numerically one third of the deferoxamine dose).

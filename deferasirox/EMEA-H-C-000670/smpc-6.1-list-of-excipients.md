@@ -12,8 +12,7 @@ Magnesium stearate
 
 Tablet core:
 Crospovidone
-Povidone (K30)
-Poloxamer 188
+Poloxamer
 
 Coating material:
 Hypromellose
@@ -21,3 +20,7 @@ Titanium dioxide (E171)
 Macrogol (4000)
 Talc
 Indigo carmine aluminium lake (E132)
+
+[EXJADE 90 mg granules in sachet]
+
+(all sentences already above)

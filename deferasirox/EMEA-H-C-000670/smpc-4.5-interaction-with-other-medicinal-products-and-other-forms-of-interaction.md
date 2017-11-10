@@ -45,3 +45,10 @@ Close clinical monitoring is required when deferasirox is combined with these su
 
 The Cmax of deferasirox film-coated tablets was increased (by 29%) when taken with a high-fat meal.
 EXJADE film-coated tablets may be taken either on an empty stomach or with a light meal, preferably at the same time each day (see sections 4.2 and 5.2).
+
+[EXJADE 90 mg granules in sachet]
+
+There were no clinically relevant changes in deferasirox pharmacokinetics when EXJADE granules were administered with food.
+Although there was no significant effect (increase in the extent of absorption AUC by 18-19%; no change in Cmax) of a high-fat meal on deferasirox pharmacokinetics, it is recommended that deferasirox granules be taken either with or without a light meal (see section 5.2).
+
+Although deferasirox has a lower affinity for aluminium than for iron, it is not recommended to take deferasirox granules with aluminium-containing antacid preparations.

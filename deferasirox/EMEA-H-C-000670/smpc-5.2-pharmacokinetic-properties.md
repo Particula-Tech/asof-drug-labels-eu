@@ -59,3 +59,16 @@ Bioavailability of deferasirox film-coated tablets was 36% greater than that wit
 A food-effect study involving administration of the film-coated tablets to healthy volunteers under fasting conditions and with a low-fat (fat content <10% of calories) or high-fat (fat content >50% of calories) meal indicated that the AUC and Cmax were slightly decreased after a low-fat meal (by 11% and 16%, respectively).
 After a high-fat meal, AUC and Cmax were increased (by 18% and 29%, respectively).
 The increases in Cmax due to the change in formulation and due to the effect of a high-fat meal may be additive and therefore, it is recommended that the film-coated tablets should be taken either on an empty stomach or with a light meal.
+
+[EXJADE 90 mg granules in sachet]
+
+EXJADE granules demonstrate higher bioavailability compared to the EXJADE dispersible tablet formulation.
+After adjustment of the strength, the granules formulation (4 x 90 mg strength) was equivalent to EXJADE dispersible tablets (500 mg strength) with respect to the mean area under the plasma concentration time curve (AUC) under fasting conditions.
+The Cmax was increased by 34% (90% CI: 27.9% - 40.3%); however a clinical exposure/response analysis revealed no evidence of clinically relevant effects of such an increase.
+
+The absolute bioavailability of the granule formulation has not been determined.
+Bioavailability of deferasirox granules was 52% greater than that with dispersible tablets.
+
+A food-effect study involving administration of the granules to healthy volunteers under fasting conditions and with a low-fat (fat content = approximately 30% of calories) or high-fat (fat content >50% of calories) meal indicated that the AUC and Cmax were slightly decreased after a low-fat meal (by 10% and 11%, respectively).
+After a high-fat meal, only AUC was mildly increased (by 18%).
+When the granules were administered with apple sauce or yogurt, a food effect was absent.

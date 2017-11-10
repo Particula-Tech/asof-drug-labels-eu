@@ -30,3 +30,14 @@ Each film-coated tablet contains 180 mg deferasirox.
 
 EXJADE 360 mg film-coated tablets
 Each film-coated tablet contains 360 mg deferasirox.
+
+[EXJADE 90 mg granules in sachet]
+
+EXJADE 90 mg granules
+Each sachet contains 90 mg deferasirox.
+
+EXJADE 180 mg granules
+Each sachet contains 180 mg deferasirox.
+
+EXJADE 360 mg granules
+Each sachet contains 360 mg deferasirox.

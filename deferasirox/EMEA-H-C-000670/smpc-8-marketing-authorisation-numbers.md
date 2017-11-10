@@ -32,3 +32,14 @@ EXJADE 360 mg film-coated tablets
 EU/1/06/356/017
 EU/1/06/356/018
 EU/1/06/356/019
+
+[EXJADE 90 mg granules in sachet]
+
+EXJADE 90 mg granules
+EU/1/06/356/020
+
+EXJADE 180 mg granules
+EU/1/06/356/021
+
+EXJADE 360 mg granules
+EU/1/06/356/022

@@ -1,6 +1,6 @@
 # 5.3 Preclinical safety data
 
-Non-clinical data reveal no special hazard for humans, based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity or carcinogenic potential.
+Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity or carcinogenic potential.
 The main findings were kidney toxicity and lens opacity (cataracts).
 Similar findings were observed in neonatal and juvenile animals.
 The kidney toxicity is considered mainly due to iron deprivation in animals that were not previously overloaded with iron.
