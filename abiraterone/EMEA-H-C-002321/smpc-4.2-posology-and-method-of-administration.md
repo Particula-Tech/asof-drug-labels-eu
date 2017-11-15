@@ -6,11 +6,14 @@ Posology
 The recommended dose is 1,000 mg (four 250 mg tablets) as a single daily dose that must not be taken with food (see “Method of administration” below).
 Taking the tablets with food increases systemic exposure to abiraterone (see sections 4.5 and 5.2).
 
-ZYTIGA is to be taken with low dose prednisone or prednisolone.
-The recommended dose of prednisone or prednisolone is 10 mg daily.
+Dosage of prednisone or prednisolone
+For mHSPC, ZYTIGA is used with 5 mg prednisone or prednisolone daily.
+
+For mCRPC, ZYTIGA is used with 10 mg prednisone or prednisolone daily.
 
 Medical castration with luteinising hormone releasing hormone (LHRH) analogue should be continued during treatment in patients not surgically castrated.
 
+Recommended monitoring
 Serum transaminases should be measured prior to starting treatment, every two weeks for the first three months of treatment and monthly thereafter.
 Blood pressure, serum potassium and fluid retention should be monitored monthly.
 However, patients with a significant risk for congestive heart failure should be monitored every 2 weeks for the first three months of treatment and monthly thereafter (see section 4.4).
