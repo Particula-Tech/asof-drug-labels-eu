@@ -19,7 +19,8 @@ Repeat doses should be considered when a patient experiences a response to treat
 Patients who experience and retain improved vision should not be retreated.
 Patients who experience deterioration in vision, which is not slowed by OZURDEX, should not be retreated.
 There is only very limited information on repeat dosing intervals less than 6 months (see section 5.1).
-There is currently no experience of repeat administrations in posterior segment non-infectious uveitis or beyond 2 implants in Retinal Vein Occlusion.
+
+For information concerning the current safety experience of repeat administrations beyond 2 implants in posterior segment non-infectious uveitis and Retinal Vein Occlusion, see section 4.8.
 
 Patients should be monitored following the injection to permit early treatment if an infection or increased intraocular pressure occurs (see section 4.4).
 
@@ -66,4 +67,5 @@ Remove the needle in the same direction as used to enter the vitreous.
 Immediately after injecting OZURDEX, use indirect ophthalmoscopy in the quadrant of injection to confirm successful implantation.
 Visualisation is possible in the large majority of cases.
 In cases in which the implant cannot be visualised, take a sterile cotton bud and lightly depress over the injection site to bring the implant into view.
+
 Following the intravitreal injection patients should continue to be treated with a broad spectrum antimicrobial.

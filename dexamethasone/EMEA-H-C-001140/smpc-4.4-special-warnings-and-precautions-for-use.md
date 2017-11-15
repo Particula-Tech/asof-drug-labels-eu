@@ -25,6 +25,7 @@ In the non-infectious uveitis study, 1 patient out of the 62 phakic patients und
 The prevalence of conjunctival haemorrhage in patients with non-infectious uveitis of the posterior segment appears to be higher compared with BRVO/CRVO and DME.
 This could be attributable to the intravitreous injection procedure or to concomitant use of topical and/or systemic corticosteroid or Non-steroidal anti-inflammatory medications.
 No treatment is required since spontaneous resolution occurs.
+
 As expected with ocular steroid treatment and intravitreal injections, increases in intraocular pressure (IOP) may be seen.
 The rise in IOP is normally manageable with IOP lowering medication (see section 4.8).
 Of the patients experiencing an increase of IOP of ≥10 mmHg from baseline, the greatest proportion showed this IOP increase between 45 and 60 days following an injection.

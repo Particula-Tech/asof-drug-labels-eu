@@ -18,12 +18,13 @@ Table 1 Adverse reactions
 | --- | --- | --- |
 | Nervous system disorders | Common | Headache |
 |  | Uncommon | Migraine |
-| Eye disorders | Very common | Intraocular pressure increased, cataract, conjunctival haemorrhage* |
-|  | Common | Ocular hypertension, cataract subcapsular, vitreous haemorrhage*, visual acuity reduced*, visual impairment/ disturbance, vitreous detachment*, vitreous floaters*, vitreous opacities*, blepharitis, eye pain*, photopsia*, conjunctival oedema* conjunctival hyperaemia* |
+| Eye disorders | Very common | Intraocular pressure increased**, cataract**, conjunctival haemorrhage* |
+|  | Common | Ocular hypertension, cataract subcapsular, vitreous haemorrhage**, visual acuity reduced*, visual impairment/ disturbance, vitreous detachment*, vitreous floaters*, vitreous opacities*, blepharitis, eye pain*, photopsia*, conjunctival oedema* conjunctival hyperaemia* |
 |  | Uncommon | Necrotizing retinitis, endophthalmitis*, glaucoma, retinal detachment*, retinal tear*, hypotony of the eye*, anterior chamber inflammation*, anterior chamber cells/ flares*, abnormal sensation in eye*, eyelids pruritus, scleral hyperaemia* |
 | General disorders and administration site conditions | Uncommon | Device dislocation* (migration of implant) with or without corneal oedema (see also section 4.4), complication of device insertion* (implant misplacement) |
 
-* indicates adverse reactions considered to be related to the intravitreal injection procedure (the frequency of these adverse reactions is proportional to the number of treatments given)
+* indicates adverse reactions considered to be related to the intravitreal injection procedure (the frequency of these adverse reactions is proportional to the number of treatments given).
+** in a 24-month real world observational study in the treatment of macular oedema following RVO and non-infectious uveitis affecting the posterior segment of the eye these adverse events were reported more frequently among patients who received >2 injections vs patients who received ≤2 injections; cataract formation (24.7% vs 17.7%), cataract progression (32.0% vs 13.1%), vitreous haemorrhage (6.0% vs 2.0%), and increased IOP (24.0% vs 16.6%).
 
 Description of selected adverse reactions
 Diabetic Macular Oedema
@@ -45,6 +46,7 @@ The rate and magnitude of IOP elevation following OZURDEX treatment did not incr
 At baseline 3% of patients required IOP-lowering medication(s).
 Overall, 42% of patients required IOP-lowering medications in the study eye at some stage during the 3 year studies, with the majority of these patients requiring more than one medication.
 Peak usage (33%) occurred during the first 12 months and remained similar from year to year.
+
 A total of 4 patients (1%) treated with OZURDEX had procedures in the study eye for the treatment of IOP elevation.
 One patient treated with OZURDEX required incisional surgery (trabeculectomy) to manage the steroid-induced IOP elevation, 1 patient had a trabeculectomy owing to anterior chamber fibrin blocking the aqueous outflow leading to increased IOP, 1 patient had an iridotomy for narrow angle glaucoma and 1 patient had iridectomy due to cataract surgery.
 No patient required removal of the implant by vitrectomy to control IOP.
