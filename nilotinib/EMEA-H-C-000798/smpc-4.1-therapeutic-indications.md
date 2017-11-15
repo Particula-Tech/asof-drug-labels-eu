@@ -1,11 +1,12 @@
 # 4.1 Therapeutic indications
 
-Tasigna is indicated for the treatment of adult patients with newly diagnosed Philadelphia chromosome positive chronic myelogenous leukaemia (CML) in the chronic phase.
+Tasigna is indicated for the treatment of:
 
-[Tasigna 200 mg hard capsules]
+- adult and paediatric patients with newly diagnosed Philadelphia chromosome positive chronic myelogenous leukaemia (CML) in the chronic phase,
+- adult patients with chronic phase and accelerated phase Philadelphia chromosome positive CML with resistance or intolerance to prior therapy including imatinib.
+  Efficacy data in patients with CML in blast crisis are not available,
+- paediatric patients with chronic phase Philadelphia chromosome positive CML with resistance or intolerance to prior therapy including imatinib.
 
-Tasigna is indicated for the treatment of adult patients with:
+[Tasigna 150 mg hard capsules]
 
-- newly diagnosed Philadelphia chromosome positive chronic myelogenous leukaemia (CML) in the chronic phase.
-- chronic phase and accelerated phase Philadelphia chromosome positive CML with resistance or intolerance to prior therapy including imatinib.
-  Efficacy data in patients with CML in blast crisis are not available.
+- paediatric patients with Philadelphia chromosome positive CML in chronic phase with resistance or intolerance to prior therapy including imatinib.

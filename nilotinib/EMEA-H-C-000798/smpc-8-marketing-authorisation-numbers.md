@@ -1,12 +1,18 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/07/422/005-006
-EU/1/07/422/009-010
-EU/1/07/422/013
+Tasigna 50 mg hard capsules
 
-[Tasigna 200 mg hard capsules]
+EU/1/07/422/015
+
+Tasigna 200 mg hard capsules
 
 EU/1/07/422/001-004
 EU/1/07/422/007-008
 EU/1/07/422/011-012
 EU/1/07/422/014
+
+[Tasigna 150 mg hard capsules]
+
+EU/1/07/422/005-006
+EU/1/07/422/009-010
+EU/1/07/422/013
