@@ -353,33 +353,50 @@ Tabulated list of adverse reactions for adjuvant therapy with TAXOTERE 75 mg/m²
 Description of selected adverse reactions for adjuvant therapy with TAXOTERE 75 mg/m² in combination with doxorubicin and cyclophosphamide in patients with node-positive (TAX 316) and node-negative (GEICAM 9805) breast cancer
 
 Nervous system disorders
-Peripheral sensory neuropathy was observed to be ongoing during follow-up in10 patients out of the 84 patients with peripheral sensory neuropathy at the end of the chemotherapy in the node positive breast cancer study (TAX316).
+In study TAX316 peripheral sensory neuropathy started during the treatment period and persisted into the follow-up period in 84 patients (11.3%) in TAC arm and 15 patients (2 %) in FAC arm.
+At the end of the follow-up period (median follow-up time of 8 years), peripheral sensory neuropathy was observed to be ongoing in 10 patients (1.3%) in TAC arm, and in 2 patients (0.3%) in FAC arm.
+In GEICAM 9805 study peripheral sensory neuropathy that started during the treatment period persisted into the follow-up period in 10 patients (1.9%) in TAC arm and 4 patients (0.8 %) in FAC arm.
+At the end of the follow-up period (median follow-up time of 10 years and 5 months), peripheral sensory neuropathy was observed to be ongoing in 3 patients (0.6%) in TAC arm, and in 1 patient (0.2%) in FAC arm.
 
 Cardiac disorders
 In study TAX316, 26 patients (3.5%) in the TAC arm and 17 patients (2.3%) in the FAC arm experienced congestive heart failure.
 All except one patient in each arm were diagnosed with CHF more than 30 days after the treatment period.
 Two patients in the TAC arm and 4 patients in the FAC arm died because of cardiac failure.
 In GEICAM 9805 study, 3 patients (0.6 %) in TAC arm and 3 patients (0.6 %) in FAC arm developed congestive heart failure during the follow-up period.
-One patient in TAC arm died because of dilated cardiomyopathy.
+At the end of the follow-up period (actual median follow-up time of 10 years and 5 months), no patients had CHF in TAC arm and 1 patient in TAC arm died because of dilated cardiomyopathy, and CHF was observed to be ongoing in 1 patient (0.2%) in FAC arm.
 
 Skin and subcutaneous tissue disorders
-In study TAX316, alopecia persisting into the follow-up period after the end of chemotherapy was reported in 687 of 744 TAC patients and 645 of 736 FAC patients.
-At the end of the follow-up period (actual median follow-up time of 96 months), alopecia was observed to be ongoing in 29 TAC patients (3.9%) and 16 FAC patients (2.2%).
-In GEICAM 9805 study, alopecia persisted into the follow-up period (median follow-up time of 10 years and 5 months) and was observed to be ongoing in 49 patients (9.2 %) in TAC arm and 35 patients (6.7 %) in FAC arm.
+In study TAX316 alopecia persisting into the follow-up period after the end of chemotherapy was reported in 687 of 744 TAC patients (92.3%) and 645 of 736 FAC patients (87.6%).
+At the end of the follow-up period (actual median follow-up time of 8 years), alopecia was observed to be ongoing in 29 TAC patients (3.9%) and 16 FAC patients (2.2%).
+In GEICAM 9805 study alopecia that started during the treatment period and persisted into the follow-up period was observed to be ongoing in 49 patients (9.2 %) in TAC arm and 35 patients (6.7 %) in FAC arm.
 Alopecia related to study drug started or worsened during the follow-up period in 42 patients (7.9 %) in TAC arm and 30 patients (5.8 %) in FAC arm.
+At the end of the follow-up period (median follow-up time of 10 years and 5 months), alopecia was observed to be ongoing in 3 patients (0.6%) in TAC arm, and in 1 patient (0.2%) in FAC arm.
 
 Reproductive system and breast disorders
-Amenorrhoea was observed to be ongoing during follow-up in 121 patients out of the 202 patients with amenorrhoea at the end of the chemotherapy in study TAX316.
-In GEICAM 9805 study, amenorrhoea persisted into the follow-up period (median follow-up time of 10 years and 5 months) and was observed to be ongoing in 18 patients (3.4 %) in TAC arm and 5 patients (1.0 %) in FAC arm.
+In TAX316 amenorrhoea that started during the treatment period and persisted into the follow-up period after the end of chemotherapy was reported in 202 of 744 TAC patients (27.2%) and 125 of 736 FAC patients (17.0%).
+Amenorrhea was observed to be ongoing at the end of the follow-up period (median follow-up time of 8 years) in 121 of 744 TAC patients (16.3%) and 86 FAC patients (11.7%).
+In GEICAM 9805 study amenorrhoea that started during the treatment period and persisted into the follow-up period was observed to be ongoing in 18 patients (3.4 %) in TAC arm and 5 patients (1.0 %) in FAC arm.
+At the end of the follow-up period (median follow-up time of 10 years and 5 months), amenorrhoea was observed to be ongoing in 7 patients (1.3%) in TAC arm, and in 4 patients (0.8%) in FAC arm.
 
 General disorders and administration site conditions
-In study TAX316, peripheral oedema was observed to be ongoing in19 patients out of the 119 patients with peripheral oedema in the TAC arm and 4 patients out of the 23 patients with peripheral oedema in the FAC arm.
-In study GEICAM 9805, lymphoedema was observed to be ongoing in 4 of the 5 patients in TAC arm and in 1 of the 2 patients in FAC arm at the end of the chemotherapy, and did not resolve during the follow-up period (median follow-up time of 10 years and 5 months).
-Asthenia persisted into the follow-up period (median follow-up time of 10 years and 5 months) and was observed to be ongoing in 12 patients (2.3 %) in TAC arm and 4 patients (0.8 %) in FAC arm.
+In study TAX316 peripheral oedema that started during the treatment period and persisted into the follow-up period after the end of chemotherapy was observed in 119 of 744 TAC patients (16.0%) and 23 of 736 FAC patients (3.1%).
+At the end of the follow-up period (actual median follow-up time of 8 years), peripheral oedema was ongoing in19 TAC patients (2.6%) and 4 FAC patients (0.5%).
+In study TAX316 lymphoedema that started during the treatment period and persisted into the follow-up period after the end of chemotherapy was reported in 11 of 744 TAC patients (1.5%) and 1 of 736 FAC patients (0.1%).
+At the end of the follow-up period (actual median follow-up time of 8 years), lymphoedema was observed to be ongoing in 6 TAC patients (0.8%) and 1 FAC patient (0.1%).
+In study TAX316 asthenia that started during the treatment period and persisted into the follow-up period after the end of chemotherapy was reported in 236 of 744 TAC patients (31.7%) and 180 of 736 FAC patients (24.5%).
+At the end of the follow-up period (actual median follow-up time of 8 years), asthenia was observed to be ongoing in 29 TAC patients (3.9%) and 16 FAC patients (2.2%).
+
+In study GEICAM 9805 peripheral oedema that started during the treatment period persisted into the follow-up period in 4 patients (0.8%) in TAC arm and in 2 patients (0.4%) in FAC arm.
+At the end of the follow-up period (median follow-up time of 10 years and 5 months), no patients (0%) in TAC arm had peripheral oedema and it was observed to be ongoing in 1 patient (0.2%) in FAC arm.
+Lymphoedema that started during the treatment period persisted into the follow-up period in 5 patients (0.9%) in TAC arm and 2 patients (0.4 %) in FAC arm.
+At the end of the follow-up period, lymphoedema was observed to be ongoing in 4 patients (0.8%) in TAC arm, and in 1 patient (0.2%) in FAC arm.
+Asthenia that started during the treatment period and persisted into the follow-up period was observed to be ongoing in 12 patients (2.3 %) in TAC arm and 4 patients (0.8 %) in FAC arm.
+At the end of the follow-up period, asthenia was observed to be ongoing in 2 patients (0.4%) in TAC arm, and in 2 patients (0.4%) in FAC arm.
 
 Acute leukaemia / Myelodysplastic syndrome.
-After 10 years of follow up in study TAX316, acute leukaemia was reported in 4 of 744 TAC patients and in 1 of 736 FAC patients.
-Myelodysplastic syndrome was reported in 2 of 744 TAC patients and in 1 of 736 FAC patients.
+After 10 years of follow up in study TAX316, acute leukaemia was reported in 3 of 744 TAC patients (0.4%) and in 1 of 736 FAC patients (0.1%).
+One TAC patient (0.1%) and 1 FAC patient (0.1%) died due to AML during the follow-up period (median follow-up time of 8 years).
+Myelodysplastic syndrome was reported in 2 of 744 TAC patients (0.3%) and in 1 of 736 FAC patients (0.1%).
 After 10 years of follow-up in GEICAM 9805 study, acute leukaemia occurred in 1 of 532 (0.2%) patients in TAC arm.
 No cases were reported in patients in FAC arm.
 No patient was diagnosed with myelodysplastic syndrome in either treatment groups.
@@ -389,9 +406,13 @@ Table below shows that the incidence of Grade 4 neutropenia, febrile neutropenia
 
 Neutropenic complications in patients receiving TAC with or without primary G-CSF prophylaxis (GEICAM 9805)
 
-|  | Without primary G-CSF prophylaxis (n = 111) n (%) | With primary G-CSF prophylaxis (n = 421) n (%) |
-| --- | --- | --- |
+Without primary With primary
+G-CSF prophylaxis G-CSF prophylaxis
+(n = 111) (n = 421)
+n (%) n (%)
+
 | Neutropenia (Grade 4) | 104 (93.7) | 135 (32.1) |
+| --- | --- | --- |
 | Febrile neutropenia | 28 (25.2) | 23 (5.5) |
 | Neutropenic infection | 14 (12.6) | 21 (5.0) |
 | Neutropenic infection (Grade 3-4) | 2 (1.8) | 5 (1.2) |
@@ -417,11 +438,18 @@ Eye disorders Lacrimation increased (G3/4:
 0%)
 Ear and labyrinth disorders Hearing impaired (G3/4: 0%)
 Cardiac disorders Arrhythmia (G3/4: 1.0%)
-
-| Gastrointestinal disorders | Diarrhoea (G3/4: 19.7%); Nausea (G3/4: 16%); Stomatitis (G3/4: 23.7%); Vomiting (G3/4: 14.3%) | Constipation (G3/4: 1.0%); Gastrointestinal pain (G3/4: 1.0%); Oesophagitis/dysphagia/odynop hagia (G3/4: 0.7%) |
-| --- | --- | --- |
-| Skin and subcutaneous tissue disorders | Alopecia (G3/4: 4.0%) | Rash pruritus (G3/4: 0.7%); Nail disorders (G3/4: 0.7%); Skin exfoliation (G3/4: 0%) |
-| General disorders and administration site conditions | Lethargy (G3/4: 19.0%); Fever (G3/4: 2.3%); Fluid retention (severe/life-threatening: 1%) |  |
+Gastrointestinal disorders Diarrhoea (G3/4: 19.7%); Constipation (G3/4: 1.0%);
+Nausea (G3/4: 16%); Gastrointestinal pain (G3/4:
+Stomatitis (G3/4: 23.7%); 1.0%);
+Vomiting (G3/4: 14.3%) Oesophagitis/dysphagia/odynop
+hagia (G3/4: 0.7%)
+Skin and subcutaneous tissue Alopecia (G3/4: 4.0%) Rash pruritus (G3/4: 0.7%);
+disorders Nail disorders (G3/4: 0.7%);
+Skin exfoliation (G3/4: 0%)
+General disorders and Lethargy (G3/4: 19.0%);
+administration site conditions Fever (G3/4: 2.3%);
+Fluid retention
+(severe/life-threatening: 1%)
 
 Description of selected adverse reactions in gastric adenocarcinoma cancer for TAXOTERE 75 mg/m2 in combination with cisplatin and 5-fluorouracil
 
@@ -429,7 +457,6 @@ Blood and lymphatic system disorders
 Febrile neutropenia and neutropenic infection occurred in 17.2% and 13.5% of patients respectively, regardless of G-CSF use.
 G-CSF was used for secondary prophylaxis in 19.3% of patients (10.7% of the cycles).
 Febrile neutropenia and neutropenic infection occurred respectively in 12.1% and 3.4% of patients when patients received prophylactic G-CSF, in 15.6% and 12.9% of patients without prophylactic G-CSF (see section 4.2).
-
 Tabulated list of adverse reactions in head and neck cancer for TAXOTERE 75 mg/m² in combination with cisplatin and 5-fluorouracil
 
 - Induction chemotherapy followed by radiotherapy (TAX 323)
@@ -461,8 +488,6 @@ Ear and labyrinth Hearing impaired
 disorders
 Cardiac disorders Myocardial ischemia Arrhythmia (G3/4:
 (G3/4:1.7%) 0.6%)
-MedDRA ystem organ Very common adverse Common adverse Uncommon adverse
-classes reactions reactions reactions
 Vascular disorders Venous disorder (G3/4:
 0.6%)
 Gastrointestinal Nausea (G3/4: 0.6%); Constipation;
@@ -514,8 +539,6 @@ Peripheral sensory Peripheral motor
 neuropathy (G3/4: neuropathy (G3/4:
 1.2%) 0.4%)
 Eye disorders Lacrimation increased Conjunctivitis
-MedDRA system Very common adverse Common adverse Uncommon adverse
-organ classes reactions reactions reactions
 Ear and labyrinth Hearing impaired
 disorders (G3/4: 1.2%)
 Cardiac disorders Arrhythmia (G3/4: Ischemia myocardial
@@ -543,6 +566,8 @@ administration site Pyrexia (G3/4: 3.6%);
 conditions Fluid retention (G3/4:
 1.2%);
 Oedema (G3/4: 1.2%)
+MedDRA system Very common adverse Common adverse Uncommon adverse
+organ classes reactions reactions reactions
 Investigations Weight decreased Weight increased
 
 Post-marketing experience
@@ -556,6 +581,7 @@ Disseminated intravascular coagulation (DIC), often in association with sepsis o
 
 Immune system disorders
 Some cases of anaphylactic shock, sometimes fatal, have been reported.
+Hypersensitivity reactions (frequency not known) have been reported with docetaxel in patients who previously experienced hypersensitivity reactions to paclitaxel.
 
 Nervous system disorders
 Rare cases of convulsion or transient loss of consciousness have been observed with docetaxel administration.
@@ -566,11 +592,13 @@ Very rare cases of transient visual disturbances (flashes, flashing lights, scot
 These were reversible upon discontinuation of the infusion.
 Cases of lacrimation with or without conjunctivitis, as cases of lacrimal duct obstruction resulting in excessive tearing have been rarely reported.
 Cases of cystoid macular oedema (CMO) have been reported in patients treated with docetaxel.
+
 Ear and labyrinth disorders
 Rare cases of ototoxicity, hearing impaired and/or hearing loss have been reported.
 
 Cardiac disorders
 Rare cases of myocardial infarction have been reported.
+Ventricular arrhythmia including ventricular tachycardia (frequency not known), sometimes fatal, has been reported in patients treated with docetaxel in combination regimens including doxorubicin, 5-fluorouracil and/ or cyclophosphamide.
 
 Vascular disorders
 Venous thromboembolic events have rarely been reported.
@@ -598,11 +626,14 @@ In about 20% of these cases there were no risk factors for acute renal failure s
 
 General disorders and administration site conditions
 Radiation recall phenomena have rarely been reported.
+Injection site recall reaction (recurrence of skin reaction at a site of previous extravasation following administration of docetaxel at a different site) has been observed at the site of previous extravasation (frequency not known).
 Fluid retention has not been accompanied by acute episodes of oliguria or hypotension.
 Dehydration and pulmonary oedema have rarely been reported.
 
 Metabolism and nutrition disorders
+Cases of electrolyte imbalance have been reported.
 Cases of hyponatraemia have been reported, mostly associated with dehydration, vomiting and pneumonia.
+Hypokalaemia, hypomagnesaemia, and hypocalcaemia were observed, usually in association with gastrointestinal disorders and in particular with diarrhoea.
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
@@ -630,24 +661,25 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 Tabulated list of adverse reactions in breast cancer for adjuvant therapy with TAXOTERE 75 mg/m² in combination with doxorubicin and cyclophosphamide in patients with node-positive (TAX 316) and node-negative (GEICAM 9805) breast cancer - pooled data
 
-Peripheral sensory neuropathy was observed to be ongoing during follow-up in 10 patients out of the 84 patients with peripheral sensory neuropathy at the end of the chemotherapy in the node positive breast cancer study (TAX316).
-
-In study TAX 316, peripheral oedema was observed to be ongoing in 19 patients out of the 119 patients with peripheral oedema in the TAC arm and 4 patients out of the 23 patients with peripheral oedema in the FAC arm.
-
 Table below shows that the incidence of Grade 4 neutropenia, febrile neutropenia and neutropenic infection was decreased in patients who received primary G-CSF prophylaxis after it was made mandatory in the TAC arm. – GEICAM study.
 
-Gastrointestinal disorders Diarrhoea (G3/4: 19.7%); Constipation (G3/4: 1.0%);
-Nausea (G3/4: 16%); Gastrointestinal pain (G3/4:
-Stomatitis (G3/4: 23.7%); 1.0%);
-Vomiting (G3/4: 14.3%) Oesophagitis/dysphagia/odynop
-hagia (G3/4: 0.7%)
-Skin and subcutaneous tissue Alopecia (G3/4: 4.0%) Rash pruritus (G3/4: 0.7%);
-disorders Nail disorders (G3/4: 0.7%);
-Skin exfoliation (G3/4: 0%)
-General disorders and Lethargy (G3/4: 19.0%);
-administration site conditions Fever (G3/4: 2.3%);
-Fluid retention
-(severe/life-threatening: 1%)
+|  | Without primary G-CSF prophylaxis (n = 111) n (%) | With primary G-CSF prophylaxis (n = 421) n (%) |
+| --- | --- | --- |
+| Neutropenia (Grade 4) | 104 (93.7) | 135 (32.1) |
+| Febrile neutropenia | 28 (25.2) | 23 (5.5) |
+| Neutropenic infection | 14 (12.6) | 21 (5.0) |
+| Neutropenic infection (Grade 3-4) | 2 (1.8) | 5 (1.2) |
+
+| Immune system disorders | Hypersensitivity (G3/4: 1.7%) |  |
+| --- | --- | --- |
+| Metabolism and nutrition disorders | Anorexia (G3/4: 11.7%) |  |
+| Nervous system disorders | Peripheral sensory neuropathy (G3/4: 8.7%) | Dizziness (G3/4: 2.3%); Peripheral motor neuropathy (G3/4: 1.3%) |
+| Eye disorders |  | Lacrimation increased (G3/4: 0%) |
+| Ear and labyrinth disorders |  | Hearing impaired (G3/4: 0%) |
+| Cardiac disorders |  | Arrhythmia (G3/4: 1.0%) |
+| Gastrointestinal disorders | Diarrhoea (G3/4: 19.7%); Nausea (G3/4: 16%); Stomatitis (G3/4: 23.7%); Vomiting (G3/4: 14.3%) | Constipation (G3/4: 1.0%); Gastrointestinal pain (G3/4: 1.0%); Oesophagitis/dysphagia/odynop hagia (G3/4: 0.7%) |
+| Skin and subcutaneous tissue disorders | Alopecia (G3/4: 4.0%) | Rash pruritus (G3/4: 0.7%); Nail disorders (G3/4: 0.7%); Skin exfoliation (G3/4: 0%) |
+| General disorders and administration site conditions | Lethargy (G3/4: 19.0%); Fever (G3/4: 2.3%); Fluid retention (severe/life-threatening: 1%) |  |
 
 [TAXOTERE 20 mg/1 ml concentrate for solution for infusion]
 
@@ -692,8 +724,6 @@ G3/4 AST increased
 (< 3%);
 G3/4 ALT increased
 
-In study TAX316, peripheral oedema was observed to be ongoing in 19 patients out of the 119 patients with peripheral oedema in the TAC arm and 4 patients out of the 23 patients with peripheral oedema in the FAC arm.
-
 Fluid retention (severe/life-
 threatening: 1%)
 
@@ -727,9 +757,3 @@ listed in Appendix V.
 
 Description of selected adverse reactions in breast cancer for adjuvant therapy with TAXOTERE
 75 mg/m² in combination with doxorubicin and cyclophosphamide in patients with node-positive (TAX 316) and node-negative (GEICAM 9805) breast cancer
-
-| Cardiac disorders |  | Arrhythmia (G3/4: 1.0%) |
-| --- | --- | --- |
-| Gastrointestinal disorders | Diarrhoea (G3/4: 19.7%); Nausea (G3/4: 16%); Stomatitis (G3/4: 23.7%); Vomiting (G3/4: 14.3%) | Constipation (G3/4: 1.0%); Gastrointestinal pain (G3/4: 1.0%); Oesophagitis/dysphagia/odynop hagia (G3/4: 0.7%) |
-| Skin and subcutaneous tissue disorders | Alopecia (G3/4: 4.0%) | Rash pruritus (G3/4: 0.7%); Nail disorders (G3/4: 0.7%); Skin exfoliation (G3/4: 0%) |
-| General disorders and administration site conditions | Lethargy (G3/4: 19.0%); Fever (G3/4: 2.3%); Fluid retention (severe/life-threatening: 1%) |  |

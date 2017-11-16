@@ -1,5 +1,7 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
+The amount of alcohol in this medicinal product may alter the effects of other medicinal products.
+
 In vitro studies have shown that the metabolism of docetaxel may be modified by the concomitant administration of compounds which induce, inhibit or are metabolised by (and thus may inhibit the enzyme competitively) cytochrome P450-3A such as ciclosporine, ketoconazole and erythromycin.
 As a result, caution should be exercised when treating patients with these medicinal products as concomitant therapy since there is a potential for a significant interaction.
 

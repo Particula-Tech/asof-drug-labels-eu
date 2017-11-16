@@ -27,6 +27,8 @@ Hypersensitivity reactions may occur within a few minutes following the initiati
 If hypersensitivity reactions occur, minor symptoms such as flushing or localised cutaneous reactions do not require interruption of therapy.
 However, severe reactions, such as severe hypotension, bronchospasm or generalised rash/erythema require immediate discontinuation of docetaxel and appropriate therapy.
 Patients who have developed severe hypersensitivity reactions should not be re-challenged with docetaxel.
+Patients who have previously experienced a hypersensitivity reaction to paclitaxel may be at risk to develop hypersensitivity reaction to docetaxel, including more severe hypersensitivity reaction.
+These patients should be closely monitored during initiation of docetaxel therapy.
 
 Cutaneous reactions
 
@@ -70,6 +72,9 @@ When patients are candidates for treatment with docetaxel in combination with tr
 Cardiac function should be further monitored during treatment (e.g. every three months) to help identify patients who may develop cardiac dysfunction.
 For more details see summary of product characteristics of trastuzumab.
 
+Ventricular arrhythmia including ventricular tachycardia (sometimes fatal) has been reported in patients treated with docetaxel in combination regimens including doxorubicin, 5-fluorouracil and/ or cyclophosphamide (see section 4.8).
+Baseline cardiac assessment is recommended.
+
 Eye disorders
 
 Cystoid macular oedema (CMO) has been reported in patients treated with docetaxel.
@@ -79,8 +84,8 @@ In case CMO is diagnosed, docetaxel treatment should be discontinued and appropr
 Others
 
 Contraceptive measures must be taken by both men and women during treatment and for men at least 6 months after cessation of therapy (see section 4.6).
-
 The concomitant use of docetaxel with strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, indinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin and voriconazole) should be avoided (see section 4.5).
+
 Additional cautions for use in adjuvant treatment of breast cancer
 
 Complicated neutropenia
@@ -114,29 +119,25 @@ Older people treated with TCF should be closely monitored.
 
 Excipients
 
-This medicinal product contains 13 % (w/w) ethanol 95% v/v (alcohol), i.e. up to 252 mg ethanol 95% v/v per solvent vial, equivalent to 6 ml of beer or 2.6 ml wine per vial.
+This medicinal product contains 13 % (w/w) ethanol 95% v/v (alcohol), i.e. up to 252 mg ethanol 95% v/v per solvent vial, equivalent to 6 ml of beer or 2.6 ml wine.
 
 Harmful for those suffering from alcoholism.
 To be taken into account in pregnant or breast-feeding women, in children and in high-risk groups such as patients with liver disease, or epilepsy.
-
 Consideration should be given to possible effects on the central nervous system.
-
-The amount of alcohol in this medicinal product may alter the effects of other medicinal products.
-The amount of alcohol in this medicinal product may impair the patients ability to drive or use machines (see section 4.7).
 
 [TAXOTERE 80 mg/2 ml concentrate and solvent for solution for infusion]
 
-This medicinal product contains 13 % (w/w) ethanol 95% v/v (alcohol), i.e. up to 932 mg ethanol 95% v/v per solvent vial, equivalent to 23 ml of beer or 9.5 ml wine per vial.
+This medicinal product contains 13 % (w/w) ethanol 95% v/v (alcohol), i.e. up to 932 mg ethanol 95% v/v per solvent vial, equivalent to 23 ml of beer or 9.5 ml wine.
 
 [TAXOTERE 20 mg/1 ml concentrate for solution for infusion]
 
-This medicinal product contains 50 vol % ethanol anhydrous (alcohol), i.e. up to 395 mg ethanol anhydrous per vial, equivalent to 10 ml of beer or 4 ml wine per vial.
+This medicinal product contains 50 vol % ethanol anhydrous (alcohol), i.e. up to 395 mg ethanol anhydrous per vial, equivalent to 10 ml of beer or 4 ml wine.
 To be taken into account in pregnant or breast-feeding women, children and high-risk groups such as patients with liver disease, or epilepsy.
 
 [TAXOTERE 80 mg/4 ml concentrate for solution for infusion]
 
-This medicinal product contains 50 vol % ethanol anhydrous (alcohol), i.e. up to 1.58 g ethanol anhydrous per vial, equivalent to 40 ml of beer or 17 ml wine per vial.
+This medicinal product contains 50 vol % ethanol anhydrous (alcohol), i.e. up to 1.58 g ethanol anhydrous per vial, equivalent to 40 ml of beer or 17 ml wine.
 
 [TAXOTERE 160 mg/8 ml concentrate for solution for infusion.]
 
-This medicinal product contains 50 vol % ethanol anhydrous (alcohol), i.e. up to 3.16 g ethanol anhydrous per vial, equivalent to 80 ml of beer or 33 ml wine per vial.
+This medicinal product contains 50 vol % ethanol anhydrous (alcohol), i.e. up to 3.16 g ethanol anhydrous per vial, equivalent to 80 ml of beer or 33 ml wine.
