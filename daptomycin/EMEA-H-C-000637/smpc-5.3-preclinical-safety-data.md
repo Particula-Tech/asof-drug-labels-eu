@@ -1,6 +1,6 @@
 # 5.3 Preclinical safety data
 
-In studies of clinically-relevant duration (14-28 days), daptomycin administration was associated with minimal to mild degenerative/regenerative changes in skeletal muscle in the rat and dog.
+Daptomycin administration was associated with minimal to mild degenerative/regenerative changes in skeletal muscle in the rat and dog.
 Microscopic changes in skeletal muscle were minimal (approximately 0.05% of myofibres affected) and at the higher doses were accompanied by elevations in CPK.
 No fibrosis or rhabdomyolysis was observed.
 Depending on the study duration, all muscle effects, including microscopic changes, were fully reversible within 1-3 months following cessation of dosing.
@@ -28,7 +28,7 @@ In neonatal dogs, daptomycin caused marked clinical signs of twitching, muscle r
 At lower dose levels (25 mg/kg/day), mild and reversible clinical signs of twitching and one incidence of muscle rigidity were observed without any effects on body weight.
 There was no histopathological correlation in the peripheral and central nervous system tissue, or in the skeletal muscle, at any dose level, and the mechanism and clinical relevance for the adverse clinical signs are therefore unknown.
 
-Reproductive toxicity testing showed no evidence of effects on fertility, embryofetal, or postnatal development.
+Reproductive toxicity testing showed no evidence of effects on fertility, embryofoetal, or postnatal development.
 However, daptomycin can cross the placenta in pregnant rats (see section 5.2).
 Excretion of daptomycin into milk of lactating animals has not been studied.
 

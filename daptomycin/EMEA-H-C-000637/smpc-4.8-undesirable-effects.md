@@ -1,14 +1,16 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-In clinical studies, 2,011 subjects received Cubicin.
+In clinical studies, 2,011 adult subjects received Cubicin.
 Within these trials, 1,221 subjects received a daily dose of 4 mg/kg, of whom 1,108 were patients and 113 were healthy volunteers; 460 subjects received a daily dose of 6 mg/kg, of whom 304 were patients and 156 were healthy volunteers.
+In paediatric studies, 372 patients received Cubicin, of whom 61 received a single dose and 311 received a therapeutic regimen for cSSTI or SAB (daily doses ranged from 4 mg/kg to 12 mg/kg).
 Adverse reactions (i.e. considered by the investigator to be possibly, probably, or definitely related to the medicinal product) were reported at similar frequencies for Cubicin and comparator regimens.
 
 The most frequently reported adverse reactions (frequency common (≥1/100 to < 1/10)) are:
 Fungal infections, urinary tract infection, candida infection, anaemia, anxiety, insomnia, dizziness, headache, hypertension, hypotension, gastrointestinal and abdominal pain, nausea, vomiting, constipation, diarrhoea, flatulence, bloating and distension, liver function tests abnormal (increased alanine aminotransferase (ALT), aspartate aminotransferase (AST) or alkaline phosphatase (ALP)), rash, pruritus, limb pain, serum creatine phosphokinase (CPK) increased, infusion site reactions, pyrexia, asthenia.
 
 Less frequently reported, but more serious, adverse reactions include hypersensitivity reactions, eosinophilic pneumonia (occasionally presenting as organising pneumonia), drug rash with eosinophilia and systemic symptoms (DRESS), angioedema and rhabdomyolysis.
+
 Tabulated list of adverse reactions
 The following adverse reactions were reported during therapy and during follow-up with frequencies corresponding to very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to
 < 1/100); rare (≥1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data):
@@ -85,7 +87,7 @@ These transaminase increases were likely to be related to the skeletal muscle ef
 The majority of transaminase elevations were of Grade 1-3 toxicity and resolved upon discontinuation of treatment.
 3 When clinical information on the patients was available to make a judgement, approximately 50% of the cases occurred in patients with pre-existing renal impairment, or in those receiving concomitant medicinal products known to cause rhabdomyolysis.
 
-The safety data for the administration of daptomycin via 2-minute intravenous injection are derived from two pharmacokinetic studies in healthy volunteers.
+The safety data for the administration of daptomycin via 2-minute intravenous injection are derived from two pharmacokinetic studies in healthy adult volunteers.
 Based on these study results, both methods of daptomycin administration, the 2-minute intravenous injection and the 30-minute intravenous infusion, had a similar safety and tolerability profile.
 There was no relevant difference in local tolerability or in the nature and frequency of adverse reactions.
 
@@ -93,7 +95,3 @@ Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-[Cubicin 500 mg powder for solution for injection or infusion]
-
-Less frequently reported, but more serious, adverse reactions include hypersensitivity reactions, eosinophilic pneumonia (occasionally presenting as organising pneumonia),drug rash with eosinophilia and systemic symptoms (DRESS), angioedema and rhabdomyolysis.

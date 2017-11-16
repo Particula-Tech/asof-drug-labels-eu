@@ -16,11 +16,10 @@ Studies of Cubicin with anticoagulants other than warfarin have not been conduct
 Anticoagulant activity in patients receiving Cubicin and warfarin should be monitored for the first several days after therapy with Cubicin is initiated.
 
 There is limited experience regarding concomitant administration of daptomycin with other medicinal products that may trigger myopathy (e.g. HMG-CoA reductase inhibitors).
-However, some cases of marked rises in CPK levels and cases of rhabdomyolysis occurred in patients taking one of these medicinal products at the same time as Cubicin.
+However, some cases of marked rises in CPK levels and cases of rhabdomyolysis occurred in adult patients taking one of these medicinal products at the same time as Cubicin.
 It is recommended that other medicinal products associated with myopathy should if possible be temporarily discontinued during treatment with Cubicin unless the benefits of concomitant administration outweigh the risk.
 If co-administration cannot be avoided, CPK levels should be measured more frequently than once weekly and patients should be closely monitored for any signs or symptoms that might represent myopathy.
 See sections 4.4, 4.8 and 5.3.
-
 Daptomycin is primarily cleared by renal filtration and so plasma levels may be increased during co-administration with medicinal products that reduce renal filtration (e.g. NSAIDs and COX-2 inhibitors).
 In addition, there is a potential for a pharmacodynamic interaction to occur during co-administration due to additive renal effects.
 Therefore, caution is advised when daptomycin is co-administered with any other medicinal product known to reduce renal filtration.

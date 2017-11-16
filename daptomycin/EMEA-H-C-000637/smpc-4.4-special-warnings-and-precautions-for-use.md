@@ -12,8 +12,8 @@ It has been demonstrated in clinical studies that Cubicin is not effective in th
 Cubicin is therefore not indicated for the treatment of pneumonia.
 
 RIE due to Staphylococcus aureus
-Clinical data on the use of Cubicin to treat RIE due to Staphylococcus aureus are limited to 19 patients (see “Information from clinical trials” in section 5.1).
-
+Clinical data on the use of Cubicin to treat RIE due to Staphylococcus aureus are limited to 19 adult patients (see “Information from clinical trials” in section 5.1).
+The safety and efficacy of Cubicin in children and adolescents aged below 18 years with right-sided infective endocarditis (RIE) due to Staphylococcus aureus have not been established.
 The efficacy of Cubicin in patients with prosthetic valve infections or with left-sided infective endocarditis due to Staphylococcus aureus has not been demonstrated.
 
 Deep-seated infections
@@ -35,7 +35,6 @@ If CDAD is suspected or confirmed, Cubicin may need to be discontinued and appro
 
 Drug/laboratory test interactions
 False prolongation of prothrombin time (PT) and elevation of international normalised ratio (INR) have been observed when certain recombinant thromboplastin reagents are utilised for the assay (see also section 4.5).
-
 Creatine phosphokinase and myopathy
 Increases in plasma creatine phosphokinase (CPK; MM isoenzyme) levels associated with muscular pains and/or weakness and cases of myositis, myoglobinaemia and rhabdomyolysis have been reported during therapy with Cubicin (see also sections 4.5, 4.8 and 5.3).
 In clinical studies, marked increases in plasma CPK to > 5x Upper Limit of Normal (ULN) without muscle symptoms occurred more commonly in Cubicin-treated patients (1.9%) than in those that received comparators (0.5%).
@@ -68,8 +67,7 @@ Cubicin should be discontinued immediately and treatment with systemic steroids 
 Renal impairment
 Renal impairment has been reported during treatment with Cubicin.
 Severe renal impairment may in itself also pre-dispose to elevations in daptomycin levels which may increase the risk of development of myopathy (see above).
-
-An adjustment of Cubicin dose interval is needed for patients whose creatinine clearance is
+An adjustment of Cubicin dose interval is needed for adult patients whose creatinine clearance is
 < 30 ml/min (see sections 4.2 and 5.2).
 The safety and efficacy of the dose interval adjustment have not been evaluated in controlled clinical trials and the recommendation is mainly based on pharmacokinetic modelling data.
 Cubicin should only be used in such patients when it is considered that the expected clinical benefit outweighs the potential risk.
@@ -78,6 +76,8 @@ Caution is advised when administering Cubicin to patients who already have some 
 Regular monitoring of renal function is advised (see also section 5.2).
 
 In addition, regular monitoring of renal function is advised during concomitant administration of potentially nephrotoxic agents, regardless of the patient’s pre-existing renal function (see also section 4.5).
+
+The dosage regimen for Cubicin in paediatric patients with renal impairment has not been established.
 
 Obesity
 In obese subjects with Body Mass Index (BMI) > 40 kg/m2 but with creatinine clearance > 70 ml/min, the AUC0-∞daptomycin was significantly increased (mean 42% higher) compared with non-obese matched controls.
