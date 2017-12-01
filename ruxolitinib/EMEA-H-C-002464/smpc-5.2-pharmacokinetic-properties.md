@@ -24,6 +24,7 @@ These metabolites have one half to one fifth of the parent JAK-related pharmacol
 The sum total of all active metabolites contributes to 18% of the overall pharmacodynamics of ruxolitinib.
 At clinically relevant concentrations, ruxolitinib does not inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or CYP3A4 and is not a potent inducer of CYP1A2, CYP2B6 or CYP3A4 based on in vitro studies.
 In vitro data indicate that ruxolitinib may inhibit P-gp and BCRP.
+
 Elimination
 
 Ruxolitinib is mainly eliminated through metabolism.
@@ -34,7 +35,6 @@ Unchanged parent substance accounted for less than 1% of the excreted total radi
 Linearity/non-linearity
 
 Dose proportionality was demonstrated in the single and multiple dose studies.
-
 Special populations
 
 Effects of age, gender or race

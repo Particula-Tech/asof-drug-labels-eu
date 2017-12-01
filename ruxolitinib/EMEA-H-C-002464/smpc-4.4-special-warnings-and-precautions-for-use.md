@@ -16,10 +16,10 @@ Dose modifications or interruption for patients developing anaemia may also be c
 
 Patients with a haemoglobin level below 10.0 g/dl at the beginning of the treatment have a higher risk of developing a haemoglobin level below 8.0 g/dl during treatment compared to patients with a higher baseline haemoglobin level (79.3% versus 30.1%).
 More frequent monitoring of haematology parameters and of clinical signs and symptoms of Jakavi-related adverse drug reactions is recommended for patients with baseline haemoglobin below 10.0 g/dl.
-
 Neutropenia (absolute neutrophil count <500) was generally reversible and was managed by temporarily withholding Jakavi (see sections 4.2 and 4.8).
 
 Complete blood counts should be monitored as clinically indicated and dose adjusted as required (see sections 4.2 and 4.8).
+
 Infections
 
 Serious bacterial, mycobacterial, fungal, viral and other opportunistic infections have occurred in patients treated with Jakavi.
@@ -27,7 +27,7 @@ Patients should be assessed for the risk of developing serious infections.
 Physicians should carefully observe patients receiving Jakavi for signs and symptoms of infections and initiate appropriate treatment promptly.
 Treatment with Jakavi should not be started until active serious infections have resolved.
 
-Tuberculosis has been reported in patients receiving Jakavi for MF.
+Tuberculosis has been reported in patients receiving Jakavi.
 Before starting treatment, patients should be evaluated for active and inactive (“latent”) tuberculosis, as per local recommendations.
 This can include medical history, possible previous contact with tuberculosis, and/or appropriate screening such as lung x-ray, tuberculin test and/or interferon-gamma release assay, as applicable.
 Prescribers are reminded of the risk of false negative tuberculin skin test results, especially in patients who are severely ill or immunocompromised.
