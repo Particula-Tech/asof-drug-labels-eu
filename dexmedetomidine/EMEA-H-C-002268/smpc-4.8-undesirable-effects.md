@@ -38,9 +38,12 @@ Gastrointestinal disorders
 Common: Nausea, vomiting, dry mouth
 Uncommon: Abdominal distension
 
+Renal and urinary disorders
+Not known: Polyuria
 General disorders and administration site conditions
 Common: Withdrawal syndrome, hyperthermia
 Uncommon: Drug ineffective, thirst
+
 * See section on Description of selected adverse reactions
 
 Description of selected adverse reactions
