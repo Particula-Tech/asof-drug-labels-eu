@@ -17,8 +17,10 @@ Within each frequency grouping, adverse reactions are presented in the order of 
 
 Table 2: Adverse reactions in patients treated with pembrolizumab
 
-| Blood and lymphatic system disorders |  |
+| Infections and infestations |  |
 | --- | --- |
+| Uncommon | pneumonia |
+| Blood and lymphatic system disorders |  |
 | Common | anaemia |
 | Uncommon | neutropenia, thrombocytopenia, leukopenia, lymphopenia, eosinophilia |
 | Rare | immune thrombocytopenic purpura, haemolytic anaemia |
@@ -88,27 +90,27 @@ Pneumonitis led to discontinuation of pembrolizumab in 60 (1.6%) patients.
 Pneumonitis resolved in 81 patients, 1 with sequelae.
 
 Immune-related colitis
-Colitis occurred in 71 (1.9%) patients, including Grade 2, 3 or 4 cases in 15 (0.4%), 44 (1.1%) and 3 (<0.1%) patients, respectively, receiving pembrolizumab.
+Colitis occurred in 71 (1.9%) patients, including Grade 2, 3 or 4 cases in 15 (0.4%), 44 (1.1%) and 3 (< 0.1%) patients, respectively, receiving pembrolizumab.
 The median time to onset of colitis was 3.6 months (range 7 days to 16.2 months).
 The median duration was 1.3 months (range 1 day to 8.7+ months).
 Colitis led to discontinuation of pembrolizumab in 18 (0.5%) patients.
 Colitis resolved in 61 patients.
 
 Immune-related hepatitis
-Hepatitis occurred in 23 (0.6%) patients, including Grade 2, 3 or 4 cases in 4 (0.1%), 16 (0.4%) and 2 (<0.1%) patients, respectively, receiving pembrolizumab.
+Hepatitis occurred in 23 (0.6%) patients, including Grade 2, 3 or 4 cases in 4 (0.1%), 16 (0.4%) and 2 (< 0.1%) patients, respectively, receiving pembrolizumab.
 The median time to onset of hepatitis was 1.3 months (range 8 days to 21.4 months).
 The median duration was 1.5 months (range 8 days to 20.9+ months).
 Hepatitis led to discontinuation of pembrolizumab in 7 (0.2%) patients.
 Hepatitis resolved in 19 patients.
 Immune-related nephritis
-Nephritis occurred in 15 (0.4%) patients, including Grade 2, 3 or 4 cases in 3 (0.1%), 10 (0.3%) and 1 (<0.1%) patients, respectively, receiving pembrolizumab.
+Nephritis occurred in 15 (0.4%) patients, including Grade 2, 3 or 4 cases in 3 (0.1%), 10 (0.3%) and 1 (< 0.1%) patients, respectively, receiving pembrolizumab.
 The median time to onset of nephritis was 4.9 months (range 12 days to 12.8 months).
 The median duration was 1.8 months (range 10 days to 10.5+ months).
 Nephritis led to discontinuation of pembrolizumab in 7 (0.2%) patients.
 Nephritis resolved in 9 patients.
 
 Immune-related endocrinopathies
-Hypophysitis occurred in 21 (0.5%) patients, including Grade 2, 3 or 4 cases in 6 (0.2%), 12 (0.3%) and 1 (<0.1%) patients, respectively, receiving pembrolizumab.
+Hypophysitis occurred in 21 (0.5%) patients, including Grade 2, 3 or 4 cases in 6 (0.2%), 12 (0.3%) and 1 (< 0.1%) patients, respectively, receiving pembrolizumab.
 The median time to onset of hypophysitis was 3.7 months (range 1 day to 17.7 months).
 The median duration was 3.3 months (range 4 days to 12.7+ months).
 Hypophysitis led to discontinuation of pembrolizumab in 6 (0.2%) patients.

@@ -351,7 +351,7 @@ Table 10: Efficacy results in KEYNOTE-024
 | PFS |  |  |
 | Number (%) of patients with event | 73 (47%) | 116 (77%) |
 | Hazard ratio* (95% CI) | 0.50 (0.37, 0.68) |  |
-| p-Value† | <0.001 |  |
+| p-Value† | < 0.001 |  |
 | Median in months (95% CI) | 10.3 (6.7, NA) | 6.0 (4.2, 6.2) |
 | OS |  |  |
 | Number (%) of patients with event | 44 (29%) | 64 (42%) |
@@ -591,7 +591,7 @@ Data from these patients are too limited to draw any conclusion on safety or eff
 Urothelial Carcinoma
 KEYNOTE-045: Controlled trial in urothelial carcinoma patients who have received prior platinum-containing chemotherapy
 The safety and efficacy of pembrolizumab were evaluated in KEYNOTE-045, a multicentre, randomised (1:1), controlled study for the treatment of locally advanced or metastatic urothelial carcinoma in patients with disease progression on or after platinum-containing chemotherapy.
-Patients must have received first line platinum-containing regimen for locally advanced/metastatic disease or as neoadjuvant/adjuvant treatment, with recurrence/progression ≤12months following completion of therapy.
+Patients must have received first line platinum-containing regimen for locally advanced/metastatic disease or as neoadjuvant/adjuvant treatment, with recurrence/progression ≤12 months following completion of therapy.
 Patients were randomised (1:1) to receive either KEYTRUDA 200 mg every 3 weeks (n=270) or investigator’s choice of any of the following chemotherapy regimens all given intravenously every 3 weeks (n=272): paclitaxel 175 mg/m2 (n=84), docetaxel 75 mg/m2 (n=84), or vinflunine 320 mg/m2 (n=87).
 Patients were treated with pembrolizumab until unacceptable toxicity or disease progression.
 Treatment could continue beyond progression if the patient was clinically stable and was considered to be deriving clinical benefit by the investigator.
@@ -674,14 +674,14 @@ Pembrolizumab: 270 226 194 169 147 131 87 54 27 13 4 0 0
 
 Chemotherapy: 272 232 171 138 109 89 55 27 14 3 0 0 0
 
-An analysis was performed in KEYNOTE-045 in patients who had PD-L1 Combined Positive Score (CPS) <10% [pembrolizumab: n=186 (69%) vs. chemotherapy: n= 176 (65%)] or ≥10% [pembrolizumab: n=74 (27%) vs. chemotherapy: n= 90 (33%)] in both pembrolizumab- and chemotherapy-treated arms (see Table 14).
+An analysis was performed in KEYNOTE-045 in patients who had PD-L1 Combined Positive Score (CPS) < 10% [pembrolizumab: n=186 (69%) vs. chemotherapy: n= 176 (65%)] or ≥10% [pembrolizumab: n=74 (27%) vs. chemotherapy: n= 90 (33%)] in both pembrolizumab- and chemotherapy-treated arms (see Table 14).
 
 Table 14: OS by PD-L1 Expression
 
 PD-L1 Expression Pembrolizumab Chemotherapy
 OS by PD-L1 Expression Hazard
 Number of Events (number of patients) Ratio* (95% CI)
-<10% 106 (186) 116 (176) 0.80 (0.61, 1.05)
+< 10% 106 (186) 116 (176) 0.80 (0.61, 1.05)
 ≥10% 44 (74) 60 (90) 0.57 (0.37, 0.88)
 
 * Hazard ratio (pembrolizumab compared to chemotherapy) based on the stratified Cox proportional hazard model
@@ -734,14 +734,14 @@ Table 15: Response to pembrolizumab 200 mg every 3 weeks in patients with urothe
 † Based on best response of stable disease or better
 ‡ Based on Kaplan-Meier estimates; includes 77 patients with response of 6 months or longer
 
-An analysis was performed in KEYNOTE-052 in patients who had PD-L1 CPS <10% (n=251; 68%) or ≥10% (n=110; 30%) (see Table 16).
+An analysis was performed in KEYNOTE-052 in patients who had PD-L1 CPS < 10% (n=251; 68%) or ≥10% (n=110; 30%) (see Table 16).
 
 Table 16: ORR by PD-L1 Expression
 
 |  | ORR % by PD-L1 Expression* (95% CI) |
 | --- | --- |
 | PD-L1 Expression | Pembrolizumab |
-| <10% | 21 (16.2, 26.7) |
+| < 10% | 21 (16.2, 26.7) |
 | ≥10% | 47 (37.7, 57.0) |
 
 * BICR-RECIST 1.1
