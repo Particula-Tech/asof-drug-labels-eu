@@ -2,7 +2,7 @@
 
 Contraception
 
-Women of childbearing potential should use effective contraception while receiving Perjeta and for 6 months following the last dose of Perjeta.
+Women of childbearing potential should use effective contraception while receiving Perjeta and for 6 months following the last dose of pertuzumab.
 
 Pregnancy
 
@@ -17,5 +17,5 @@ Because human IgG is secreted in human milk and the potential for absorption and
 Fertility
 
 No specific fertility studies in animals have been performed to evaluate the effect of pertuzumab.
-Only very limited data are available from repeat-dose toxicity studies with respect to the risk for adverse effects on the male reproductive system.
-No adverse effects were observed in sexually mature female cynomolgus monkeys exposed to pertuzumab.
+Only very limited data are available from repeat-dose toxicity studies with respect to the risk for adverse reactions on the male reproductive system.
+No adverse reactions were observed in sexually mature female cynomolgus monkeys exposed to pertuzumab.

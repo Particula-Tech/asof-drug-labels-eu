@@ -3,7 +3,7 @@
 Perjeta does not contain any antimicrobial preservative.
 Therefore, care must be taken to ensure the sterility of the prepared solution for infusion and should be prepared by a healthcare professional.
 
-Perjeta is for single use only and is administered intravenously by infusion.
+Perjeta is for single use only.
 
 The vial must not be shaken.
 14 ml of Perjeta concentrate should be withdrawn from the vial and diluted into a 250 ml PVC or non-PVC polyolefin infusion bag of sodium chloride 9 mg/ml (0.9%) solution for infusion.
@@ -15,3 +15,5 @@ If particulates or discoloration are observed, the solution should not be used.
 Once the infusion is prepared it should be administered immediately (see section 6.3).
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+Perjeta is compatible with polyvinylchloride (PVC) or non-PVC polyolefin bags including polyethylene.

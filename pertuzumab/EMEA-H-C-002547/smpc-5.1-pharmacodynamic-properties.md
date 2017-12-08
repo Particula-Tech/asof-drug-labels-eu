@@ -18,7 +18,6 @@ The efficacy of Perjeta in HER2-positive breast cancer is supported by a randomi
 Metastatic breast cancer
 
 Perjeta in combination with trastuzumab and docetaxel
-
 CLEOPATRA (WO20698) is a multicentre, randomised, double-blind, placebo-controlled phase III clinical trial conducted in 808 patients with HER2-positive metastatic or locally recurrent unresectable breast cancer.
 Patients with clinically important cardiac risk factors were not included (see section 4.4).
 Due to the exclusion of patients with brain metastases no data are available on Perjeta activity on brain metastases.
@@ -48,7 +47,7 @@ Table 2 Summary of efficacy from CLEOPATRA study
 | --- | --- | --- | --- | --- |
 | Progression-Free Survival (independent review) – primary endpoint* no. of patients with an event Median months | 242 (59%) 12.4 | 191 (47.5%) 18.5 | 0.62 [0.51;0.75] | <0.0001 |
 | Overall Survival - secondary endpoint** no. of patients with an event Median months | 221 (54.4%) 40.8 | 168 (41.8%) 56.5 | 0.68 [0.56;0.84] | 0.0002 |
-| Objective Response Rate (ORR)^ - secondary endpoint no. of patients with measurable disease Responders*** 95% CI for ORR Complete response (CR) Partial Response (PR) Stable disease (SD) Progressive disease (PD) | 336 233 (69.3%) [64.1; 74.2] 14 (4.2%) 219 (65.2%) 70 (20.8%) 28 (8.3%) | 343 275 (80.2%) [75.6; 84.3] 19 (5.5%) 256 (74.6%) 50 (14.6%) 13 (3.8 %) | Difference in ORR: 10.8% [4.2,17.5]% | 0.0011 |
+| Objective Response Rate (ORR)^ - secondary endpoint no. of patients with measurable disease Responders*** 95% CI for ORR Complete response (CR) Partial Response (PR) Stable disease (SD) Progressive disease (PD) | 336 233 (69.3%) [64.1; 74.2] 14 (4.2%) 219 (65.2%) 70 (20.8%) 28 (8.3%) | 343 275 (80.2%) [75.6; 84.3] 19 (5.5%) 256 (74.6%) 50 (14.6%) 13 (3.8 %) | Difference in ORR: 10.8% [4.2,17.5] | 0.0011 |
 | Duration of Response †^ n= Median weeks 95% CI for Median | 233 54.1 [46;64] | 275 87.6 [71;106] |  |  |
 
 * Primary progression-free survival analysis, cutoff date 13th May 2011.
@@ -78,7 +77,6 @@ BO17929 was a phase II, non-randomised study in patients with metastatic breast 
 Treatment with Perjeta and trastuzumab resulted in a response rate of 24.2%, with a further 25.8% of patients experiencing stabilisation of disease lasting at least 6 months, indicating that Perjeta is active following progression on trastuzumab.
 
 Neoadjuvant Treatment of Breast Cancer
-
 In the neoadjuvant setting, locally advanced and inflammatory breast cancers are considered as high-risk irrespective of hormone receptor status.
 In early stage breast cancer, tumor size, grade, hormone receptor status and lymph node metastases should be taken into account in the risk assessment.
 
@@ -97,7 +95,8 @@ Patients were randomised to receive one of the following neoadjuvant regimens fo
 - Perjeta plus docetaxel.
 
 Randomisation was stratified by breast cancer type (operable, locally advanced, or inflammatory) and ER or PgR positivity.
-Perjeta was given intravenously at an initial dose of 840 mg, followed by 420 mg every three weeks.
+
+Pertuzumab was given intravenously at an initial dose of 840 mg, followed by 420 mg every three weeks.
 Trastuzumab was given intravenously at an initial dose of 8 mg/kg, followed by 6 mg/kg every three weeks.
 Docetaxel was given intravenously at an initial dose of 75 mg/ m2 followed by 75 mg/ m2 or 100 mg/ m2 (if tolerated) every 3 weeks.
 Following surgery all patients received 3 cycles of 5-fluorouracil (600 mg/m2), epirubicin (90 mg/m2), cyclophosphamide (600 mg/m2) (FEC) given intravenously every three weeks, and trastuzumab administered intravenously every three weeks to complete one year of therapy.
@@ -114,6 +113,7 @@ The efficacy results are presented in Table 3.
 A statistically significant improvement in pCR rate (ypT0/is) was observed in patients receiving Perjeta plus trastuzumab and docetaxel compared to patients receiving trastuzumab and docetaxel (45.8% vs 29.0%, p value = 0.0141).
 A consistent pattern of results was observed regardless of pCR definition.
 The difference in pCR rate is considered likely to translate into a clinically meaningful difference in long term outcomes and is supported by positive trends in PFS (HR 0.69, 95% CI 0.34, 1.40) and DFS (HR 0.60, 95% CI 0.28, 1.27).
+
 The pCR rates as well as the magnitude of benefit with Perjeta (Perjeta plus trastuzumab and docetaxel compared to patients receiving trastuzumab and docetaxel) were lower in the subgroup of patients with hormone receptor-positive tumours (difference of 6% in pCR in the breast) than in patients with hormone receptor-negative tumours (difference of 26.4% in pCR in the breast).
 pCR rates were similar in patients with operable versus locally advanced disease.
 There were too few patients with inflammatory breast cancer to draw any firm conclusions but the pCR rate was higher in patients who received Perjeta plus trastuzumab and docetaxel.
@@ -131,7 +131,7 @@ Patients were randomised to receive one of three neoadjuvant regimens prior to s
 
 Randomisation was stratified by breast cancer type (operable, locally advanced, or inflammatory) and ER and /or PgR positivity.
 
-Perjeta was given intravenously at an initial dose of 840 mg, followed by 420 mg every three weeks.
+Pertuzumab was given intravenously at an initial dose of 840 mg, followed by 420 mg every three weeks.
 Trastuzumab was given intravenously at an initial dose of 8 mg/kg, followed by 6 mg/kg every three weeks.
 FEC (5-fluorouracil [500 mg/m2], epirubicin [100 mg/m2], cyclophosphamide [600 mg/m2]) were given intravenously every three weeks for 3 cycles.
 Docetaxel was given as an initial dose of 75 mg/m2 IV infusion every three weeks with the option to escalate to 100 mg/m2 at the investigator’s discretion if the initial dose was well tolerated.
@@ -147,6 +147,7 @@ Approximately half the patients in each treatment group had ER-positive and/or P
 Compared with published data for similar regimens without pertuzumab, high pCR rates were observed in all 3 treatment arms (see Table 3).
 A consistent pattern of results was observed regardless of pCR definition used.
 The pCR rates were lower in the subgroup of patients with hormone receptor-positive tumours (range 46.2% to 50.0%) than in patients with hormone receptor-negative tumours (range 65.0% to 83.8%).
+
 pCR rates were similar in patients with operable and locally advanced disease.
 There were too few patients with inflammatory breast cancer to draw any firm conclusions.
 
@@ -154,13 +155,13 @@ Table 3 NEOSPHERE (WO20697) and TRYPHAENA (BO22280): Overview of efficacy (Inten
 
 |  | NEOSPHERE (WO20697) |  |  |  | TRYPHAENA (BO22280) |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Parameter | Trastuzum ab +Docetaxel N=107 | Perjeta+ Trastuzuma b+ Docetaxel N=107 | Perjeta+ Trastuzuma b N=107 | Perjeta +Docetaxel N=96 | Perjeta+ Trastuzumab+ FEC� Perjeta+ Trastuzumab + Docetaxel N=73 | FEC� Perjeta+ Trastuzumab + Docetaxel N=75 | Perjeta +TCH N=77 |
+| Parameter | Trastuzum ab +Docetaxel N=107 | Perjeta+ Trastuzuma b+ Docetaxel N=107 | Perjeta+ Trastuzuma b N=107 | Perjeta +Docetaxel N=96 | Perjeta+ Trastuzumab+ FEC• Perjeta+ Trastuzumab + Docetaxel N=73 | FEC• Perjeta+ Trastuzumab + Docetaxel N=75 | Perjeta +TCH N=77 |
 | pCR rate in the breast (ypT0/is) n (%) [95% CI]1 | 31 (29.0%) [20.6; 38.5] | 49 (45.8%) [36.1; 55.7] | 18 (16.8%) [10.3; 25.3] | 23 (24.0%) [15.8; 33.7] | 45 (61.6%) [49.5; 72.8] | 43 (57.3%) [45.4; 68.7] | 51 (66.2%) [54.6; 76.6] |
 | Difference in pCR rates2 [95% CI]3 |  | +16.8 % [3.5; 30.1] | -12.2 % [-23.8; -0.5] | -21.8 % [-35.1; -8.5] | NA | NA | NA |
 | p-value (with Simes corr. for CMH test)4 |  | 0.0141 (vs. Trastuzumab +Docetaxel) | 0.0198 (vs. Trastuzumab +Docetaxel) | 0.0030 (vs Perjeta+ Trastuzumab+ Docetaxel) | NA | NA | NA |
 | pCR rate in the breast and lymph node (ypT0/is N0) n (%) [95% CI] | 23 (21.5%) [14.1; 30.5] | 42 (39.3%) [30.3; 49.2] | 12 (11.2%) [5.9; 18.8] | 17 (17.7%) [10.7; 26.8] | 41 (56.2%) [44.1; 67.8] | 41 (54.7%) [42.7; 66.2] | 49 (63.6%) [51.9; 74.3] |
 | ypT0 N0 n (%) [95% CI] | 13 (12.1%) [6.6; 19.9] | 35 (32.7%) [24.0; 42.5] | 6 (5.6%) [2.1; 11.8] | 13 (13.2%) [7.4; 22.0] | 37 (50.7%) [38.7; 62.6] | 34 (45.3%) [33.8; 57.3] | 40 (51.9%) [40.3; 63.5] |
-| Parameter | Trastuzum ab +Docetaxel N=107 | Perjeta+ Trastuzuma b+ Docetaxel N=107 | Perjeta+ Trastuzuma b N=107 | Perjeta +Docetaxel N=96 | Perjeta+ Trastuzumab+ FEC� Perjeta+ Trastuzumab + Docetaxel N=73 | FEC� Perjeta+ Trastuzumab + Docetaxel N=75 | Perjeta +TCH N=77 |
+| Parameter | Trastuzum ab +Docetaxel N=107 | Perjeta+ Trastuzuma b+ Docetaxel N=107 | Perjeta+ Trastuzuma b N=107 | Perjeta +Docetaxel N=96 | Perjeta+ Trastuzumab+ FEC• Perjeta+ Trastuzumab + Docetaxel N=73 | FEC• Perjeta+ Trastuzumab + Docetaxel N=75 | Perjeta +TCH N=77 |
 | Clinical Response5 | 79 (79.8%) | 89 (88.1%) | 69 (67.6%) | 65 (71.4%) | 67 (91.8%) | 71 (94.7%) | 69 (89.6%) |
 
 FEC: 5-fluorouracil, epirubicin, cyclophosphamide; TCH: docetaxel, carboplatin and trastuzumab, CMH: Cochran–Mantel–Haenszel
@@ -174,14 +175,30 @@ Approximate 95% CI for difference of two response rates using Hauck-Anderson met
 5.
 Clinical response represents patients with a best overall response of CR or PR during the neoadjuvant period (in the primary breast lesion).
 
+BERENICE (WO29217)
+
+BERENICE is a non-randomized, open-label, multicentre, multinational, Phase II trial conducted in 401 patients with HER2-positive locally advanced, inflammatory, or early-stage breast cancer (with primary tumours > 2cm in diameter or node-positive disease).
+
+The BERENICE study included two parallel groups of patients.
+Patients considered suitable for neoadjuvant treatment with trastuzumab plus anthracycline/taxane-based chemotherapy were allocated to receive one of the two following regimens prior to surgery as follows:
+
+- Cohort A - 4 cycles of two weekly dose-dense doxorubicin and cyclophosphamide followed by 4 cycles of Perjeta in combination with trastuzumab and paclitaxel.
+- Cohort B - 4 cycles of FEC followed by 4 cycles of Perjeta in combination with trastuzumab and docetaxel.
+
+Following surgery all patients received Perjeta and trastuzumab intravenously every 3 weeks to complete 1 year of therapy.
+
+The primary endpoint of the BERENICE trial is cardiac safety in the neoadjuvant period of the trial.
+The primary endpoint of cardiac safety, i.e. the incidence of NYHA Class III/IV LVD and LVEF declines, was consistent with previous data in the neoadjuvant setting (see section 4.4. and 4.8).
+
 Immunogenicity
 
-Patients in the pivotal trial CLEOPATRA were tested at multiple time-points for anti-therapeutic antibodies (ATA) to Perjeta.
-Approximately 2.8% (11/386 patients) of Perjeta-treated patients and 6.2% (23/372 patients) of placebo-treated patients tested positive for ATAs.
-Of these 34 patients, none experienced severe (NCI-CTCAE Grade 4) infusion or hypersensitivity reactions (anaphylaxis) that were clearly related to ATA.
-However, Grade 3 hypersensitivity reactions associated with detectable ATAs occurred in 2 of 366 Perjeta-treated patients (0.5%) in phase I and II studies.
-There are currently insufficient data to evaluate the effects of ATA on the efficacy of Perjeta in combination with trastuzumab and docetaxel.
-
+Patients in the pivotal trial CLEOPATRA were tested at multiple time-points for anti-drug antibodies (ADA) to Perjeta.
+3.3% (13/389 patients) of Perjeta-treated patients and 6.7% (25/372 patients) of placebo-treated patients tested positive for ADAs.
+Of these 38 patients, none experienced severe (NCI-CTCAE Grade 4) infusion or hypersensitivity reactions (anaphylaxis) that were clearly related to ADA.
+In the neadjuvant part of the BERENICE trial, 0.3% (1/383) of the patients treated with Perjeta tested positive for ADA.
+This patient did not experience any anaphylactic or hypersensitivity reactions.
+However, Grade 3 hypersensitivity reactions associated with detectable ADAs occurred in 2 of 366 (0.5%) Perjeta-treated patients in phase I and II studies.
+There are currently insufficient data to evaluate the effects of ADA on the efficacy of Perjeta in combination with trastuzumab and docetaxel.
 Paediatric population
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Perjeta in all subsets of the paediatric population in breast cancer (see section 4.2 for information on paediatric use).

@@ -1,7 +1,7 @@
 # 6.1 List of excipients
 
-Acetic acid, glacial
+Glacial acetic acid
 L-Histidine
 Sucrose
 Polysorbate 20
-Water for Injections
+Water for injections
