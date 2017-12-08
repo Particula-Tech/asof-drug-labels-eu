@@ -27,3 +27,14 @@ High-Density Polyethylene (HDPE) bottle with a child-resistant and tamper-eviden
 534 mg film-coated tablets
 
 801 mg film-coated tablets
+
+PVC/Aclar (PCTFE) aluminium foil blister Pack sizes
+
+1 blister containing 21 film-coated tablets (21 in total)
+2 blisters each containing 21 film-coated tablets (42 in total)
+4 blisters each containing 21 film-coated tablets (84 in total)
+8 blisters each containing 21 Film-coated tablets (168 in total)
+
+2-week treatment initiation pack: multipack containing 63 (1 pack containing 1 blister of 21 and 1 pack containing 2 blisters of 21) film-coated tablets
+
+Continuation pack: multipack containing 252 (3 packs each containing 4 blisters of 21) film-coated tablets

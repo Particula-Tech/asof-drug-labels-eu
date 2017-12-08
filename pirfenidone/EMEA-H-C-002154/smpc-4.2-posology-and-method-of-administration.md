@@ -42,7 +42,8 @@ No dose adjustment is necessary in patients with mild to moderate hepatic impair
 Esbriet therapy should not be used in patients with severe hepatic impairment or end stage liver disease (see section 4.3, 4.4 and 5.2).
 
 Renal impairment
-No dose adjustment is necessary in patients with mild to moderate renal impairment.
+No dose adjustment is necessary in patients with mild renal impairment.
+Esbriet should be used with caution in patients with moderate (CrCl 30-50 ml/min) renal impairment.
 Esbriet therapy should not be used in patients with severe renal impairment (CrCl <30 ml/min) or end stage renal disease requiring dialysis (see sections 4.3 and 5.2).
 
 Paediatric population

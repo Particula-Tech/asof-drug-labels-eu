@@ -6,7 +6,6 @@ Microcrystalline cellulose
 Croscarmellose sodium
 Povidone
 Magnesium stearate
-
 Capsule shell
 
 Titanium dioxide (E171)
@@ -28,7 +27,6 @@ Tablet core
 
 Povidone K30
 Colloidal anhydrous silica
-
 Film coat
 
 Polyvinyl alcohol
