@@ -7,6 +7,7 @@ These trials included rheumatoid arthritis patients with short term and long sta
 The pivotal controlled studies involved 6,089 patients receiving Humira and 3,801 patients receiving placebo or active comparator during the controlled period.
 
 The proportion of patients who discontinued treatment due to adverse events during the double-blind, controlled portion of pivotal studies was 5.9% for patients taking Humira and 5.4% for control treated patients.
+
 The most commonly reported adverse reactions are infections (such as nasopharyngitis, upper respiratory tract infection and sinusitis), injection site reactions (erythema, itching, haemorrhage, pain or swelling), headache and musculoskeletal pain.
 
 Serious adverse reactions have been reported for Humira.
@@ -18,77 +19,86 @@ These include rare reports of pancytopenia, aplastic anaemia, central and periph
 
 Paediatric population
 
-Undesirable effects in paediatric patients
-
 In general, the adverse events in paediatric patients were similar in frequency and type to those seen in adult patients.
-
 Tabulated list of adverse reactions
 
-The following list of adverse reactions is based on experience from clinical trials and on postmarketing experience and are displayed by system organ class and frequency in Table 3 below: very common
-(≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to< 1/100); rare (≥ 1/10,000 to < 1/1,000); and not known (cannot be estimated from the available data).
+The following list of adverse reactions is based on experience from clinical trials and on postmarketing experience and are displayed by system organ class and frequency in Table 6 below: very common
+(≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); and not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 The highest frequency seen among the various indications has been included.
 An asterisk (*) appears in the SOC column if further information is found elsewhere in sections 4.3, 4.4 and 4.8.
-Table 3
+
+Table 6
 Undesirable Effects
 
 | System Organ Class | Frequency | Adverse Reaction |
 | --- | --- | --- |
-| Infections and infestations* | Very common | respiratory tract infections (including lower and upper respiratory tract infection, pneumonia, sinusitis, pharyngitis, nasopharyngitis and pneumonia herpes viral) |
-|  | Common | systemic infections (including sepsis, candidiasis and influenza), intestinal infections (including gastroenteritis viral), skin and soft tissue infections (including paronychia, cellulitis, impetigo, necrotising fasciitis and herpes zoster), ear infections, oral infections (including herpes simplex, oral herpes and tooth infections), reproductive tract infections (including vulvovaginal mycotic infection), urinary tract infections (including pyelonephritis), fungal infections, joint infections |
-|  | Uncommon | neurological infections (including viral meningitis), opportunistic infections and tuberculosis (including coccidioidomycosis, histoplasmosis and mycobacterium avium complex infection), bacterial infections, eye infections, diverticulitis1) |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Common | skin cancer excluding melanoma (including basal cell carcinoma and squamous cell carcinoma), benign neoplasm |
-|  | Uncommon | lymphoma**, solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), melanoma** |
-|  | Rare | leukaemia1) |
-|  | Not known | hepatosplenic T-cell lymphoma1), Merkel cell carcinoma (neuroendocrine carcinoma of the skin)1) |
-| Blood and the lymphatic system disorders* | Very common | leukopenia (including neutropenia and agranulocytosis), anaemia |
-|  | Common Uncommon Rare | leucocytosis, thrombocytopenia idiopathic thrombocytopenic purpura pancytopenia |
-| Immune system disorders* | Common | hypersensitivity, allergies (including seasonal allergy) |
-|  | Uncommon | sarcoidosis1), vasculitis |
-|  | Rare | anaphylaxis1) |
-| Metabolism and nutrition disorders | Very common | lipids increased |
-|  | Common | hypokalaemia, uric acid increased, blood sodium abnormal, hypocalcaemia, hyperglycaemia, hypophosphatemia, dehydration |
-| Psychiatric disorders | Common | mood alterations (including depression), anxiety, insomnia |
-| Nervous system disorders* | Very common | headache |
-|  | Common | paraesthesias (including hypoesthesia), migraine, nerve root compression |
-|  | Uncommon Rare | cerebrovascular accident1), tremor, neuropathy multiple sclerosis, demyelinating disorders (e.g. optic neuritis, Guillain-Barré syndrome) 1) |
-| Eye disorders | Common | visual impairment, conjunctivitis, blepharitis, eye swelling |
-|  | Uncommon | diplopia |
-| Ear and labyrinth disorders | Common | vertigo |
-|  | Uncommon | deafness, tinnitus |
-| Cardiac disorders* | Common Uncommon | tachycardia myocardial infarction1), arrhythmia, congestive heart failure |
-|  | Rare | cardiac arrest |
-| Vascular disorders | Common | hypertension, flushing, haematoma |
-|  | Uncommon | aortic aneurysm, vascular arterial occlusion, thrombophlebitis |
-| Respiratory, thoracic and mediastinal disorders* | Common | asthma, dyspnoea, cough |
-|  | Uncommon | pulmonary embolism1), interstitial lung disease, chronic obstructive pulmonary disease, pneumonitis, pleural effusion1) |
-|  | Rare | pulmonary fibrosis1) |
-| Gastrointestinal disorders | Very common | abdominal pain, nausea and vomiting |
-|  | Common Uncommon | GI haemorrhage, dyspepsia, gastroesophageal reflux disease, sicca syndrome pancreatitis, dysphagia, face oedema |
-|  | Rare | intestinal perforation1) |
-| Hepato-biliary disorders* | Very Common | elevated liver enzymes |
-|  | Uncommon | cholecystitis and cholelithiasis, hepatic steatosis, bilirubin increased |
-|  | Rare | hepatitis reactivation of hepatitis B1) autoimmune hepatitis1) |
-|  | Not known | liver failure1) |
-| Skin and subcutaneous tissue disorders | Very Common | rash (including exfoliative rash) |
-|  | Common | worsening or new onset of psoriasis (including palmoplantar pustular psoriasis)1), urticaria, bruising (including purpura), dermatitis (including eczema), onychoclasis, hyperhidrosis, alopecia1), pruritus |
-|  | Uncommon | night sweats, scar |
-|  | Rare | erythema multiforme1), Stevens-Johnson syndrome1), angioedema1), cutaneous vasculitis1) |
-|  | Not known | worsening of symptoms of dermatomyositis1) |
-| Musculoskeletal and connective tissue disorders | Very common | musculoskeletal pain |
-|  | Common | muscle spasms (including blood creatine phosphokinase increased) |
-|  | Uncommon Rare | rhabdomyolysis, systemic lupus erythematosus lupus-like syndrome1) |
-| Renal and urinary disorders | Common | renal impairment, haematuria |
-|  | Uncommon | nocturia |
-| Reproductive system and breast disorders | Uncommon | erectile dysfunction |
-| General disorders and administration site conditions* | Very Common | injection site reaction (including injection site erythema) |
-|  | Common Uncommon | chest pain, oedema, pyrexia1) inflammation |
-| Investigations* | Common | coagulation and bleeding disorders (including activated partial thromboplastin time prolonged), autoantibody test positive (including double stranded DNA antibody), blood lactate dehydrogenase increased |
-| Injury, poisoning and procedural complications | Common | impaired healing |
+| Infections and infestations* | Very common | Respiratory tract infections (including lower and upper respiratory tract infection, pneumonia, sinusitis, pharyngitis, nasopharyngitis and pneumonia herpes viral) |
+|  | Common | Systemic infections (including sepsis, candidiasis and influenza), intestinal infections (including gastroenteritis viral), skin and soft tissue infections (including paronychia, cellulitis, impetigo, necrotising fasciitis and herpes zoster), ear infections, oral infections (including herpes simplex, oral herpes and tooth infections), reproductive tract infections (including vulvovaginal mycotic infection), urinary tract infections (including pyelonephritis), fungal infections, joint infections |
+|  | Uncommon | Neurological infections (including viral meningitis), opportunistic infections and tuberculosis (including coccidioidomycosis, histoplasmosis and mycobacterium avium complex infection), bacterial infections, eye infections, diverticulitis1) |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Common | Skin cancer excluding melanoma (including basal cell carcinoma and squamous cell carcinoma), benign neoplasm |
+|  | Uncommon | Lymphoma**, solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), melanoma** |
+|  | Rare | Leukaemia1) |
+|  | Not known | Hepatosplenic T-cell lymphoma1) Merkel cell carcinoma (neuroendocrine carcinoma of the skin)1) |
+| Blood and the lymphatic system disorders* | Very common | Leukopenia (including neutropenia and agranulocytosis), anaemia |
+|  | Common | Leucocytosis, thrombocytopenia |
+|  | Uncommon | Idiopathic thrombocytopenic purpura |
+|  | Rare | Pancytopenia |
+| Immune system disorders* | Common | Hypersensitivity, allergies (including seasonal allergy) |
+|  | Uncommon | Sarcoidosis1), vasculitis |
+|  | Rare | Anaphylaxis1) |
+| Metabolism and nutrition disorders | Very common | Lipids increased |
+|  | Common | Hypokalaemia, uric acid increased, blood sodium abnormal, hypocalcaemia, hyperglycaemia, hypophosphatemia, dehydration |
+| Psychiatric disorders | Common | Mood alterations (including depression), anxiety, insomnia |
+| Nervous system disorders* | Very common | Headache |
+|  | Common | Paraesthesias (including hypoesthesia), migraine, nerve root compression |
+|  | Uncommon | Cerebrovascular accident1), tremor, neuropathy |
+|  | Rare | Multiple sclerosis, demyelinating disorders (e.g. optic neuritis, Guillain-Barré syndrome) 1) |
+| Eye disorders | Common | Visual impairment, conjunctivitis, blepharitis, eye swelling |
+|  | Uncommon | Diplopia |
+| Ear and labyrinth disorders | Common | Vertigo |
+|  | Uncommon | Deafness, tinnitus |
+| Cardiac disorders* | Common | Tachycardia |
+|  | Uncommon | Myocardial infarction1), arrhythmia, congestive heart failure |
+|  | Rare | Cardiac arrest |
+| Vascular disorders | Common | Hypertension, flushing, haematoma |
+|  | Uncommon | Aortic aneurysm, vascular arterial occlusion, thrombophlebitis |
+| Respiratory, thoracic and mediastinal disorders* | Common | Asthma, dyspnoea, cough |
+|  | Uncommon | Pulmonary embolism1), interstitial lung disease, chronic obstructive pulmonary disease, pneumonitis, pleural effusion1) |
+|  | Rare | Pulmonary fibrosis1) |
+| Gastrointestinal disorders | Very common | Abdominal pain, nausea and vomiting |
+|  | Common | GI haemorrhage, dyspepsia, gastroesophageal reflux disease, sicca syndrome |
+|  | Uncommon | Pancreatitis, dysphagia, face oedema |
+|  | Rare | Intestinal perforation1) |
+| Hepato-biliary disorders* | Very Common | Elevated liver enzymes |
+|  | Uncommon | Cholecystitis and cholelithiasis, hepatic steatosis, bilirubin increased |
+|  | Rare | Hepatitis reactivation of hepatitis B1) autoimmune hepatitis1) |
+|  | Not known | Liver failure1) |
+| Skin and subcutaneous tissue disorders | Very Common | Rash (including exfoliative rash) |
+|  | Common | Worsening or new onset of psoriasis(including palmoplantar pustular psoriasis)1), urticaria, bruising (including purpura), dermatitis (including eczema), onychoclasis, hyperhidrosis, alopecia1), pruritus |
+|  | Uncommon | Night sweats, scar |
+|  | Rare | Erythema multiforme1), Stevens-Johnson syndrome1), angioedema1), cutaneous vasculitis1) |
+|  | Not known | Worsening of symptoms of dermatomyositis1) |
+| Musculoskeletal and connective tissue disorders | Very common | Musculoskeletal pain |
+|  | Common | Muscle spasms (including blood creatine phosphokinase increased) |
+|  | Uncommon | Rhabdomyolysis, systemic lupus erythematosus |
+|  | Rare | Lupus-like syndrome1) |
+| Renal and urinary disorders | Common | Renal impairment, haematuria |
+|  | Uncommon | Nocturia |
+| Reproductive system and breast disorders | Uncommon | Erectile dysfunction |
+| General disorders and administration site conditions* | Very Common | Injection site reaction (including injection site erythema) |
+|  | Common | Chest pain, oedema, pyrexia1) |
+|  | Uncommon | Inflammation |
+| Investigations* | Common | Coagulation and bleeding disorders (including activated partial thromboplastin time prolonged), autoantibody test positive (including double stranded DNA antibody), blood lactate dehydrogenase increased |
+| Injury, poisoning and procedural complications | Common | Impaired healing |
 
 * further information is found elsewhere in sections 4.3, 4.4 and 4.8
 ** including open label extension studies
 1) including spontaneous reporting data
+
+Uveitis
+
+The safety profile for patients with uveitis treated with Humira every other week was consistent with the known safety profile of Humira.
 
 Description of selected adverse reactions
 
@@ -141,17 +151,17 @@ In controlled Phase 3 trials of Humira in patients with rheumatoid arthritis and
 
 In controlled Phase 3 trials of Humira in patients with polyarticular juvenile idiopathic arthritis who were 4 to 17 years and enthesitis-related arthritis who were 6 to 17 years, ALT elevations ≥ 3 x ULN occurred in 6.1% of Humira-treated patients and 1.3% of control-treated patients.
 Most ALT elevations occurred with concomitant methotrexate use.
-No ALT elevations ≥ 3 x ULN occurred in the Phase 3 trial of Humira in patients with polyarticular juvenile idiopathic arthritis who were 2 to <4 years.
+No ALT elevations ≥ 3 x ULN occurred in the Phase 3 trial of Humira in patients with polyarticular juvenile idiopathic arthritis who were 2 to < 4 years.
 
 In controlled Phase 3 trials of Humira in patients with Crohn’s disease and ulcerative colitis with a control period ranging from 4 to 52 weeks.
 ALT elevations ≥ 3 x ULN occurred in 0.9% of Humira-treated patients and 0.9% of controlled-treated patients.
-
 In the Phase 3 trial of Humira in patients with paediatric Crohn’s disease which evaluated efficacy and safety of two body weight adjusted maintenance dose regimens following body weight adjusted induction therapy up to 52 weeks of treatment, ALT elevations ≥ 3 x ULN occurred in 2.6% (5/192) of patients of whom 4 were receiving concomitant immunosuppressants at baseline.
 
-In controlled Phase 3 trials of Humira in patients with plaque Psoriasis with a control period duration ranging from 12 to 24 weeks, ALT elevations ≥ 3 x ULN occurred in 1.8% of Humira-treated patients and 1.8% of control-treated patients.
-No ALT elevations ≥ 3 X ULN occurred in the Phase 3 trial of Humira in paediatric patients with plaque psoriasis.
+In controlled Phase 3 trials of Humira in patients with plaque psoriasis with a control period duration ranging from 12 to 24 weeks, ALT elevations ≥ 3 x ULN occurred in 1.8% of Humira-treated patients and 1.8% of control-treated patients.
 
-In controlled trials of Humira (initial doses of 160 mg at Week 0 and 80 mg at Week 2, followed by 40 mg every week starting at Week 4), in patients with hidradenitis suppurativa with a control period duration ranging from 12 to 16 weeks, ALT elevations ≥ 3 x ULN occurred in 0.3% of Humira-treated patients and 0.6% of control-treated patients.
+No ALT elevations ≥ 3 x ULN occurred in the Phase 3 trial of Humira in paediatric patients with plaque psoriasis.
+
+In controlled trials of Humira (initial doses of 80 mg at Week 0 followed by 40 mg every other week starting at Week 1) in adult patients with uveitis up to 80 weeks with a median exposure of 166.5 days and 105.0 days in Humira-treated and control-treated patients, respectively, ALT elevations ≥ 3 x ULN occurred in 2.4% of Humira-treated patients and 2.4% of control-treated patients.
 
 Across all indications in clinical trials patients with raised ALT were asymptomatic and in most cases elevations were transient and resolved on continued treatment.
 However, there have also been post-marketing reports of liver failure as well as less severe liver disorders that may precede liver failure, such as hepatitis including autoimmune hepatitis in patients receiving adalimumab.
@@ -166,190 +176,211 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
-[Humira 40 mg solution for injection in pre-filled syringe]
+[Humira 40 mg/0.8 ml solution for injection]
 
-(≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); and not known (cannot be estimated from the available data).
+(≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to< 1/100); rare (≥ 1/10,000 to < 1/1,000); and not known (cannot be estimated from the available data).
 
 | System Organ Class | Frequency | Adverse Reaction |
 | --- | --- | --- |
-| Infections and infestations* | Very common | respiratory tract infections (including lower and upper respiratory tract infection, pneumonia, sinusitis, pharyngitis, nasopharyngitis and pneumonia herpes viral) |
-|  | Common | systemic infections (including sepsis, candidiasis and influenza), intestinal infections (including gastroenteritis viral), skin and soft tissue infections (including paronychia, cellulitis, impetigo, necrotising fasciitis and herpes zoster), ear infections, oral infections (including herpes simplex, oral herpes and tooth infections), reproductive tract infections (including vulvovaginal mycotic infection), urinary tract infections (including pyelonephritis), fungal infections, joint infections |
-|  | Uncommon | neurological infections (including viral meningitis), opportunistic infections and tuberculosis (including coccidioidomycosis, histoplasmosis and mycobacterium avium complex infection), bacterial infections, eye infections, diverticulitis1) |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Common | skin cancer excluding melanoma (including basal cell carcinoma and squamous cell carcinoma), |
-|  | Uncommon | benign neoplasm lymphoma**, solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), melanoma** |
-|  | Rare | leukaemia1) |
-|  | Not known | hepatosplenic T-cell lymphoma1), Merkel cell carcinoma (neuroendocrine carcinoma of the skin)1) |
-| Blood and the lymphatic system disorders* | Very common | leukopenia (including neutropenia and agranulocytosis), anaemia |
-|  | Common Uncommon Rare | leucocytosis, thrombocytopenia idiopathic thrombocytopenic purpura pancytopenia |
-| Immune system disorders* | Common | hypersensitivity, allergies (including seasonal allergy) |
-|  | Uncommon | sarcoidosis1), vasculitis |
-|  | Rare | anaphylaxis1) |
-| Metabolism and nutrition disorders | Very common | lipids increased |
-|  | Common | hypokalaemia, uric acid increased, blood sodium abnormal, hypocalcaemia, hyperglycaemia, hypophosphatemia, dehydration |
-| Psychiatric disorders | Common | mood alterations (including depression), anxiety, insomnia |
-| Nervous system disorders* | Very common | headache |
-|  | Common | paraesthesias (including hypoesthesia), migraine, nerve root compression |
-|  | Uncommon Rare | cerebrovascular accident1), tremor, neuropathy multiple sclerosis, demyelinating disorders (e.g. optic neuritis, Guillain-Barré syndrome) 1) |
-| Eye disorders | Common | visual impairment, conjunctivitis, blepharitis, eye swelling |
-|  | Uncommon | diplopia |
-| Ear and labyrinth disorders | Common | vertigo |
-|  | Uncommon | deafness, tinnitus |
-| Cardiac disorders* | Common | tachycardia |
-|  | Uncommon | myocardial infarction1), arrhythmia, |
-|  | Rare | congestive heart failure cardiac arrest |
-| Vascular disorders | Common | hypertension, flushing, haematoma |
-|  | Uncommon | aortic aneurysm, vascular arterial occlusion, thrombophlebitis |
-| Respiratory, thoracic and mediastinal disorders* | Common | asthma, dyspnoea, cough |
-|  | Uncommon Rare | pulmonary embolism1), interstitial lung disease, chronic obstructive pulmonary disease, pneumonitis, pleural effusion1) pulmonary fibrosis1) |
-| Gastrointestinal disorders | Very common | abdominal pain, nausea and vomiting |
-|  | Common Uncommon | GI haemorrhage, dyspepsia, gastroesophageal reflux disease, sicca syndrome pancreatitis, dysphagia, face oedema |
-|  | Rare | intestinal perforation1) |
-| Hepato-biliary disorders* | Very Common | elevated liver enzymes |
-|  | Uncommon | cholecystitis and cholelithiasis, hepatic steatosis, bilirubin increased |
-|  | Rare | hepatitis |
-|  | Not known | reactivation of hepatitis B1) autoimmune hepatitis1) liver failure1) |
-| Skin and subcutaneous tissue disorders | Very Common | rash (including exfoliative rash) |
-|  | Common Uncommon | worsening or new onset of psoriasis(including palmoplantar pustular psoriasis)1), urticaria, bruising (including purpura), dermatitis (including eczema), onychoclasis, hyperhidrosis, alopecia1), pruritus night sweats, scar |
-|  | Rare | erythema multiforme1), Stevens-Johnson syndrome1), angioedema1), cutaneous vasculitis1) |
-|  | Not known | worsening of symptoms of dermatomyositis1) |
-| Musculoskeletal and connective tissue disorders | Very common | musculoskeletal pain |
-|  | Common | muscle spasms (including blood creatine phosphokinase increased) |
-|  | Uncommon Rare | rhabdomyolysis, systemic lupus erythematosus lupus-like syndrome1) |
-| Renal and urinary disorders | Common | renal impairment, haematuria |
-|  | Uncommon | nocturia |
-| Reproductive system and breast disorders | Uncommon | erectile dysfunction |
-| General disorders and | Very Common | injection site reaction (including injection site |
-| administration site conditions* | Common Uncommon | erythema) chest pain, oedema, pyrexia1) inflammation |
-| Investigations* | Common | coagulation and bleeding disorders (including activated partial thromboplastin time prolonged), autoantibody test positive (including double stranded DNA antibody), blood lactate dehydrogenase increased |
-| Injury, poisoning and procedural complications | Common | impaired healing |
+| Infections and infestations* | Very common | Respiratory tract infections (including lower and upper respiratory tract infection, pneumonia, sinusitis, pharyngitis, nasopharyngitis and pneumonia herpes viral) |
+|  | Common | Systemic infections (including sepsis, candidiasis and influenza), intestinal infections (including gastroenteritis viral), skin and soft tissue infections (including paronychia, cellulitis, impetigo, necrotising fasciitis and herpes zoster), ear infections, oral infections (including herpes simplex, oral herpes and tooth infections), reproductive tract infections (including vulvovaginal mycotic infection), urinary tract infections (including pyelonephritis), fungal infections, joint infections |
+|  | Uncommon | Neurological infections (including viral meningitis), opportunistic infections and tuberculosis (including coccidioidomycosis, histoplasmosis and mycobacterium avium complex infection), bacterial infections, eye infections, diverticulitis1) |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Common | Skin cancer excluding melanoma (including basal cell carcinoma and squamous cell carcinoma), benign neoplasm |
+|  | Uncommon | Lymphoma**, solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), melanoma** |
+|  | Rare | Leukaemia1) |
+|  | Not known | Hepatosplenic T-cell lymphoma1), Merkel cell carcinoma (neuroendocrine carcinoma of the skin)1) |
+| Blood and the lymphatic system disorders* | Very common | Leukopenia (including neutropenia and agranulocytosis), anaemia |
+|  | Common | Leucocytosis, thrombocytopenia |
+|  | Uncommon | Idiopathic thrombocytopenic purpura |
+|  | Rare | Pancytopenia |
+| Immune system disorders* | Common | Hypersensitivity, allergies (including seasonal allergy) |
+|  | Uncommon | Sarcoidosis1), vasculitis |
+|  | Rare | Anaphylaxis1) |
+| Metabolism and nutrition disorders | Very common | Lipids increased |
+|  | Common | Hypokalaemia, uric acid increased, blood sodium abnormal, hypocalcaemia, hyperglycaemia, hypophosphatemia, dehydration |
+| Psychiatric disorders | Common | Mood alterations (including depression), anxiety, insomnia |
+| Nervous system disorders* | Very common | Headache |
+|  | Common | Paraesthesias (including hypoesthesia), migraine, nerve root compression |
+|  | Uncommon | Cerebrovascular accident1), tremor, neuropathy |
+|  | Rare | Multiple sclerosis, demyelinating disorders (e.g. optic neuritis, Guillain-Barré syndrome) 1) |
+| Eye disorders | Common | Visual impairment, conjunctivitis, blepharitis, eye swelling |
+|  | Uncommon | Diplopia |
+| Ear and labyrinth disorders | Common | Vertigo |
+|  | Uncommon | Deafness, tinnitus |
+| Cardiac disorders* | Common | Tachycardia |
+|  | Uncommon | Myocardial infarction1), arrhythmia, congestive heart failure |
+|  | Rare | Cardiac arrest |
+| Vascular disorders | Common | Hypertension, flushing, haematoma |
+|  | Uncommon | Aortic aneurysm, vascular arterial occlusion, thrombophlebitis |
+| Respiratory, thoracic and mediastinal disorders* | Common | Asthma, dyspnoea, cough |
+|  | Uncommon | Pulmonary embolism1), interstitial lung disease, chronic obstructive pulmonary disease, pneumonitis, pleural effusion1) |
+|  | Rare | Pulmonary fibrosis1) |
+| Gastrointestinal disorders | Very common | Abdominal pain, nausea and vomiting |
+|  | Common | GI haemorrhage, dyspepsia, gastroesophageal reflux disease, sicca syndrome |
+|  | Uncommon | Pancreatitis, dysphagia, face oedema |
+|  | Rare | Intestinal perforation1) |
+| Hepato-biliary disorders* | Very Common | Elevated liver enzymes |
+|  | Uncommon | Cholecystitis and cholelithiasis, hepatic steatosis, bilirubin increased |
+|  | Rare | Hepatitis reactivation of hepatitis B1) autoimmune hepatitis1) |
+|  | Not known | Liver failure1) |
+| Skin and subcutaneous tissue disorders | Very Common | Rash (including exfoliative rash) |
+|  | Common | Worsening or new onset of psoriasis (including palmoplantar pustular psoriasis)1), urticaria, bruising (including purpura), dermatitis (including eczema), onychoclasis, hyperhidrosis, alopecia1), pruritus |
+|  | Uncommon | Night sweats, scar |
+|  | Rare | Erythema multiforme1), Stevens-Johnson syndrome1), angioedema1), cutaneous vasculitis1) |
+|  | Not known | Worsening of symptoms of dermatomyositis1) |
+| Musculoskeletal and connective tissue disorders | Very common | Musculoskeletal pain |
+|  | Common | Muscle spasms (including blood creatine phosphokinase increased) |
+|  | Uncommon | Rhabdomyolysis, systemic lupus erythematosus |
+|  | Rare | Lupus-like syndrome1) |
+| Renal and urinary disorders | Common | Renal impairment, haematuria |
+|  | Uncommon | Nocturia |
+| Reproductive system and breast disorders | Uncommon | Erectile dysfunction |
+| General disorders and administration site conditions* | Very Common | Injection site reaction (including injection site erythema) |
+|  | Common | Chest pain, oedema, pyrexia1) |
+|  | Uncommon | Inflammation |
+| Investigations* | Common | Coagulation and bleeding disorders (including activated partial thromboplastin time prolonged), autoantibody test positive (including double stranded DNA antibody), blood lactate dehydrogenase increased |
+| Injury, poisoning and procedural complications | Common | Impaired healing |
 
 Hidradenitis suppurativa
 
 The safety profile for patients with HS treated with Humira weekly was consistent with the known safety profile of Humira.
 
-Uveitis
+No ALT elevations ≥ 3 x ULN occurred in the Phase 3 trial of Humira in patients with polyarticular juvenile idiopathic arthritis who were 2 to <4 years.
 
-The safety profile for patients with uveitis treated with Humira every other week was consistent with the known safety profile of Humira.
+In controlled trials of Humira (initial doses of 160 mg at Week 0 and 80 mg at Week 2, followed by 40 mg every week starting at Week 4), in patients with hidradenitis suppurativa with a control period duration ranging from 12 to 16 weeks, ALT elevations ≥ 3 x ULN occurred in 0.3% of Humira-treated patients and 0.6% of control-treated patients.
+
+[Humira 40 mg solution for injection in pre-filled syringe]
+
+| System Organ Class | Frequency | Adverse Reaction |
+| --- | --- | --- |
+| Infections and infestations* | Very common | Respiratory tract infections (including lower and upper respiratory tract infection, pneumonia, sinusitis, pharyngitis, nasopharyngitis and pneumonia herpes viral) |
+|  | Common | Systemic infections (including sepsis, candidiasis and influenza), intestinal infections (including gastroenteritis viral), skin and soft tissue infections (including paronychia, cellulitis, impetigo, necrotising fasciitis and herpes zoster), ear infections, oral infections (including herpes simplex, oral herpes and tooth infections), reproductive tract infections (including vulvovaginal mycotic infection), urinary tract infections (including pyelonephritis), fungal infections, joint infections |
+|  | Uncommon | Neurological infections (including viral meningitis), opportunistic infections and tuberculosis (including coccidioidomycosis, histoplasmosis and mycobacterium avium complex infection), bacterial infections, eye infections, diverticulitis1) |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Common | Skin cancer excluding melanoma (including basal cell carcinoma and squamous cell carcinoma), benign neoplasm |
+|  | Uncommon | Lymphoma**, solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), melanoma** |
+|  | Rare | Leukaemia1) |
+|  | Not known | Hepatosplenic T-cell lymphoma1), Merkel cell carcinoma (neuroendocrine carcinoma of the skin)1) |
+| Blood and the lymphatic system disorders* | Very common | Leukopenia (including neutropenia and agranulocytosis), anaemia |
+|  | Common | Leucocytosis, thrombocytopenia |
+|  | Uncommon | Idiopathic thrombocytopenic purpura |
+|  | Rare | Pancytopenia |
+| Immune system disorders* | Common | Hypersensitivity, allergies (including seasonal allergy) |
+|  | Uncommon | Sarcoidosis1), vasculitis |
+|  | Rare | Anaphylaxis1) |
+| Metabolism and nutrition disorders | Very common | Lipids increased |
+|  | Common | Hypokalaemia, uric acid increased, blood sodium abnormal, hypocalcaemia, hyperglycaemia, hypophosphatemia, dehydration |
+| Psychiatric disorders | Common | Mood alterations (including depression), anxiety, insomnia |
+| Nervous system disorders* | Very common | Headache |
+|  | Common | Paraesthesias (including hypoesthesia), migraine, nerve root compression |
+|  | Uncommon | Cerebrovascular accident1), tremor, neuropathy |
+|  | Rare | Multiple sclerosis, demyelinating disorders (e.g. optic neuritis, Guillain-Barré syndrome) 1) |
+| Eye disorders | Common | Visual impairment, conjunctivitis, blepharitis, eye swelling |
+|  | Uncommon | Diplopia |
+| Ear and labyrinth disorders | Common | Vertigo |
+|  | Uncommon | Deafness, tinnitus |
+| Cardiac disorders* | Common | Tachycardia |
+|  | Uncommon | Myocardial infarction1), arrhythmia, congestive heart failure |
+|  | Rare | Cardiac arrest |
+| Vascular disorders | Common | Hypertension, flushing, haematoma |
+|  | Uncommon | Aortic aneurysm, vascular arterial occlusion, thrombophlebitis |
+| Respiratory, thoracic and mediastinal disorders* | Common | Asthma, dyspnoea, cough |
+|  | Uncommon | Pulmonary embolism1), interstitial lung disease, chronic obstructive pulmonary disease, pneumonitis, pleural effusion1) |
+|  | Rare | Pulmonary fibrosis1) |
+| Gastrointestinal disorders | Very common | Abdominal pain, nausea and vomiting |
+|  | Common | GI haemorrhage, dyspepsia, gastroesophageal reflux disease, sicca syndrome |
+|  | Uncommon | Pancreatitis, dysphagia, face oedema |
+|  | Rare | Intestinal perforation1) |
+| Hepato-biliary disorders* | Very Common | Elevated liver enzymes |
+|  | Uncommon | Cholecystitis and cholelithiasis, hepatic steatosis, bilirubin increased |
+|  | Rare | Hepatitis reactivation of hepatitis B1) autoimmune hepatitis1) |
+|  | Not known | Liver failure1) |
+| Skin and subcutaneous tissue disorders | Very Common | Rash (including exfoliative rash) |
+|  | Common | Worsening or new onset of psoriasis(including palmoplantar pustular psoriasis)1), urticaria, bruising (including purpura), dermatitis (including eczema), onychoclasis, hyperhidrosis, alopecia1), pruritus |
+|  | Uncommon | Night sweats, scar |
+|  | Rare | Erythema multiforme1), Stevens-Johnson syndrome1), angioedema1), cutaneous vasculitis1) |
+|  | Not known | Worsening of symptoms of dermatomyositis1) |
+| Musculoskeletal and connective tissue disorders | Very common | Musculoskeletal pain |
+|  | Common | Muscle spasms (including blood creatine phosphokinase increased) |
+|  | Uncommon | Rhabdomyolysis, systemic lupus erythematosus |
+|  | Rare | Lupus-like syndrome1) |
+| Renal and urinary disorders | Common | Renal impairment, haematuria |
+|  | Uncommon | Nocturia |
+| Reproductive system and breast disorders | Uncommon | Erectile dysfunction |
+| General disorders and administration site conditions* | Very Common | Injection site reaction (including injection site erythema) |
+|  | Common | Chest pain, oedema, pyrexia1) |
+|  | Uncommon | Inflammation |
+| Investigations* | Common | Coagulation and bleeding disorders (including activated partial thromboplastin time prolonged), autoantibody test positive (including double stranded DNA antibody), blood lactate dehydrogenase increased |
+| Injury, poisoning and procedural complications | Common | Impaired healing |
 
 No ALT elevations ≥3 X ULN occurred in the Phase 3 trial of Humira in paediatric patients with plaque psoriasis.
 
-In controlled trials of Humira (initial doses of 80 mg at Week 0 followed by 40 mg every other week starting at Week 1) in patients with uveitis up to 80 weeks with a median exposure of 166.5 days and 105.0 days in Humira-treated and control-treated patients, respectively, ALT elevations ≥ 3 x ULN occurred in 2.4% of Humira-treated patients and 2.4% of control-treated patients.
+[Humira 40 mg solution for injection in pre-filled syringe (SmPC 4)]
 
-[Humira 40 mg solution for injection in pre-filled syringe (SmPC 3)]
-
-The following list of adverse reactions is based on experience from clinical trials and on postmarketing experience and are displayed by system organ class and frequency in Table 1 below: very common
-
-Table 1
-
-| System Organ Class | Frequency | Adverse Reaction |
-| --- | --- | --- |
-| Infections and infestations* | Very common | respiratory tract infections (including lower and upper respiratory tract infection, pneumonia, sinusitis, pharyngitis, nasopharyngitis and pneumonia herpes viral) |
-|  | Common | systemic infections (including sepsis, candidiasis and influenza), intestinal infections (including gastroenteritis |
-|  | Uncommon | viral), skin and soft tissue infections (including paronychia, cellulitis, impetigo, necrotising fasciitis and herpes zoster), ear infections, oral infections (including herpes simplex, oral herpes and tooth infections), reproductive tract infections (including vulvovaginal mycotic infection), urinary tract infections (including pyelonephritis), fungal infections, joint infections neurological infections (including viral meningitis), opportunistic infections and tuberculosis (including coccidioidomycosis, histoplasmosis and mycobacterium avium complex infection), bacterial infections, eye infections, diverticulitis1) |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Common | skin cancer excluding melanoma (including basal cell carcinoma and squamous cell carcinoma), benign neoplasm |
-|  | Uncommon | lymphoma**, solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), melanoma** |
-|  | Rare | leukaemia1) |
-|  | Not known | hepatosplenic T-cell lymphoma1) Merkel cell carcinoma (neuroendocrine carcinoma of the skin)1) |
-| Blood and the lymphatic system disorders* | Very common | leukopenia (including neutropenia and agranulocytosis), anaemia |
-|  | Common Uncommon | leucocytosis, thrombocytopenia idiopathic thrombocytopenic purpura |
-|  | Rare | pancytopenia |
-| Immune system disorders* | Common | hypersensitivity, allergies (including seasonal allergy) |
-|  | Uncommon | sarcoidosis1), vasculitis |
-|  | Rare | anaphylaxis1) |
-| Metabolism and nutrition disorders | Very common | lipids increased |
-|  | Common | hypokalaemia, uric acid increased, blood sodium abnormal, hypocalcaemia, hyperglycaemia, hypophosphatemia, dehydration |
-| Psychiatric disorders | Common | mood alterations (including depression), anxiety, insomnia |
-| Nervous system disorders* | Very common | headache |
-|  | Common | paraesthesias (including hypoesthesia), migraine, nerve root compression |
-|  | Uncommon Rare | cerebrovascular accident1), tremor, neuropathy multiple sclerosis, demyelinating disorders (e.g. optic neuritis, Guillain-Barré syndrome) 1) |
-| Eye disorders | Common | visual impairment, conjunctivitis, blepharitis, eye swelling |
-|  | Uncommon | diplopia |
-| Ear and labyrinth disorders | Common | vertigo |
-|  | Uncommon | deafness, tinnitus |
-| Cardiac disorders* | Common | tachycardia |
-|  | Uncommon | myocardial infarction1), arrhythmia, congestive heart failure |
-|  | Rare | cardiac arrest |
-| Vascular disorders | Common | hypertension, flushing, haematoma |
-|  | Uncommon | aortic aneurysm, vascular arterial occlusion, thrombophlebitis |
-| Respiratory, thoracic and mediastinal disorders* | Common | asthma, dyspnoea, cough |
-|  | Uncommon Rare | pulmonary embolism1), interstitial lung disease, chronic obstructive pulmonary disease, pneumonitis, pleural effusion1) pulmonary fibrosis1) |
-| Gastrointestinal disorders | Very common | abdominal pain, nausea and vomiting |
-|  | Common Uncommon | GI haemorrhage, dyspepsia, gastroesophageal reflux disease, sicca syndrome pancreatitis, dysphagia, |
-|  | Rare | face oedema intestinal perforation1) |
-| Hepato-biliary disorders* | Very Common | elevated liver enzymes |
-|  | Uncommon | cholecystitis and cholelithiasis, hepatic steatosis, bilirubin increased |
-|  | Rare | hepatitis reactivation of hepatitis B1) autoimmune hepatitis1) |
-|  | Not known | liver failure1) |
-| Skin and subcutaneous tissue disorders | Very Common | rash (including exfoliative rash) |
-|  | Common Uncommon | worsening or new onset of psoriasis(including palmoplantar pustular psoriasis)1), urticaria, bruising (including purpura), dermatitis (including eczema), onychoclasis, hyperhidrosis, alopecia1), pruritus night sweats, scar |
-|  | Rare | erythema multiforme1), Stevens-Johnson syndrome1), angioedema1), cutaneous vasculitis1) |
-|  | Not known | worsening of symptoms of dermatomyositis1) |
-| Musculoskeletal and connective tissue disorders | Very common | musculoskeletal pain |
-|  | Common | muscle spasms (including blood creatine phosphokinase increased) |
-|  | Uncommon | rhabdomyolysis, systemic lupus erythematosus |
-|  | Rare | lupus-like syndrome1) |
-| Renal and urinary disorders | Common | renal impairment, haematuria |
-|  | Uncommon | nocturia |
-| Reproductive system and breast disorders | Uncommon | erectile dysfunction |
-| General disorders and administration site conditions* | Very Common | injection site reaction (including injection site erythema) |
-|  | Common Uncommon | chest pain, oedema, pyrexia1) inflammation |
-| Investigations* | Common | coagulation and bleeding disorders (including activated partial thromboplastin time prolonged), autoantibody test positive (including double stranded DNA antibody), blood lactate dehydrogenase increased |
-| Injury, poisoning and procedural complications | Common | impaired healing |
-
-No ALT elevations ≥ 3 x ULN occurred in the Phase 3 trial of Humira in patients with polyarticular juvenile idiopathic arthritis who were 2 to < 4 years.
+(all sentences already above)
 
 [Humira 80 mg solution for injection in pre-filled syringe]
 
+The following list of adverse reactions is based on experience from clinical trials and on postmarketing experience and are displayed by system organ class and frequency in Table 3 below: very common
+
+Table 3
+
 | System Organ Class | Frequency | Adverse Reaction |
 | --- | --- | --- |
-| Infections and infestations* | Very common | respiratory tract infections (including lower and upper respiratory tract infection, pneumonia, sinusitis, pharyngitis, nasopharyngitis and pneumonia herpes viral) |
-|  | Common | systemic infections (including sepsis, candidiasis and influenza), intestinal infections (including gastroenteritis viral), skin and soft tissue infections (including paronychia, cellulitis, impetigo, necrotising fasciitis and herpes zoster), ear infections, oral infections (including herpes simplex, oral herpes and tooth infections), reproductive tract infections (including vulvovaginal mycotic infection), urinary tract infections (including pyelonephritis), fungal infections, joint infections |
-|  | Uncommon | neurological infections (including viral meningitis), opportunistic infections and tuberculosis (including coccidioidomycosis, histoplasmosis and mycobacterium avium complex infection), bacterial infections, eye infections, diverticulitis1) |
-| Neoplasms benign, malignant and unspecified | Common | skin cancer excluding melanoma (including basal cell carcinoma and squamous cell carcinoma), |
-| (including cysts and polyps)* | Uncommon | benign neoplasm lymphoma**, solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), melanoma** |
-|  | Rare | leukaemia1) |
-|  | Not known | hepatosplenic T-cell lymphoma1) Merkel cell carcinoma (neuroendocrine carcinoma of the skin)1) |
-| Blood and the lymphatic system disorders* | Very common | leukopenia (including neutropenia and agranulocytosis), anaemia |
-|  | Common Uncommon Rare | leucocytosis, thrombocytopenia idiopathic thrombocytopenic purpura pancytopenia |
-| Immune system disorders* | Common | hypersensitivity, allergies (including seasonal allergy) |
-|  | Uncommon | sarcoidosis1), vasculitis |
-|  | Rare | anaphylaxis1) |
-| Metabolism and nutrition disorders | Very common | lipids increased |
-|  | Common | hypokalaemia, uric acid increased, blood sodium abnormal, hypocalcaemia, hyperglycaemia, hypophosphatemia, dehydration |
-| Psychiatric disorders | Common | mood alterations (including depression), anxiety, insomnia |
-| Nervous system disorders* | Very common | headache |
-|  | Common | paraesthesias (including hypoesthesia), migraine, nerve root compression |
-|  | Uncommon Rare | cerebrovascular accident1), tremor, neuropathy multiple sclerosis, demyelinating disorders (e.g. optic neuritis, Guillain-Barré syndrome) 1) |
-| Eye disorders | Common | visual impairment, conjunctivitis, blepharitis, eye swelling |
-|  | Uncommon | diplopia |
-| Ear and labyrinth disorders | Common | vertigo |
-|  | Uncommon | deafness, tinnitus |
-| Cardiac disorders* | Common | tachycardia |
-|  | Uncommon | myocardial infarction1), arrhythmia, congestive heart failure |
-|  | Rare | cardiac arrest |
-| Vascular disorders | Common | hypertension, flushing, haematoma |
-|  | Uncommon | aortic aneurysm, vascular arterial occlusion, thrombophlebitis |
-| Respiratory, thoracic and mediastinal disorders* | Common | asthma, dyspnoea, cough |
-|  | Uncommon Rare | pulmonary embolism1), interstitial lung disease, chronic obstructive pulmonary disease, pneumonitis, pleural effusion1) pulmonary fibrosis1) |
-| Gastrointestinal disorders | Very common | abdominal pain, nausea and vomiting |
-|  | Common Uncommon | GI haemorrhage, dyspepsia, gastroesophageal reflux disease, sicca syndrome pancreatitis, dysphagia, face oedema |
-|  | Rare | intestinal perforation1) |
-| Hepato-biliary disorders* | Very Common | elevated liver enzymes |
-|  | Uncommon | cholecystitis and cholelithiasis, hepatic steatosis, bilirubin increased |
-|  | Rare | hepatitis reactivation of hepatitis B1) autoimmune hepatitis1) |
-|  | Not known | liver failure1) |
-| Skin and subcutaneous tissue disorders | Very Common | rash (including exfoliative rash) |
-|  | Common | worsening or new onset of psoriasis (including palmoplantar pustular psoriasis)1), urticaria, bruising (including purpura), dermatitis (including eczema), |
-|  | Uncommon | onychoclasis, hyperhidrosis, alopecia1), pruritus night sweats, scar |
-|  | Rare | erythema multiforme1), Stevens-Johnson syndrome1), angioedema1), cutaneous vasculitis1) |
-|  | Not known | worsening of symptoms of dermatomyositis1) |
-| Musculoskeletal and connective tissue disorders | Very common | musculoskeletal pain |
-|  | Common | muscle spasms (including blood creatine phosphokinase increased) |
-|  | Uncommon Rare | rhabdomyolysis, systemic lupus erythematosus lupus-like syndrome1) |
-| Renal and urinary disorders | Common | renal impairment, haematuria |
-|  | Uncommon | nocturia |
-| Reproductive system and breast disorders | Uncommon | erectile dysfunction |
-| General disorders and administration site conditions* | Very Common | injection site reaction (including injection site erythema) |
-|  | Common Uncommon | chest pain, oedema, pyrexia1) inflammation |
-| Investigations* | Common | coagulation and bleeding disorders (including activated partial thromboplastin time prolonged), autoantibody test positive (including double stranded DNA antibody), blood lactate dehydrogenase increased |
-| Injury, poisoning and procedural complications | Common | impaired healing |
+| Infections and infestations* | Very common | Respiratory tract infections (including lower and upper respiratory tract infection, pneumonia, sinusitis, pharyngitis, nasopharyngitis and pneumonia herpes viral) |
+|  | Common | Systemic infections (including sepsis, candidiasis and influenza), intestinal infections (including gastroenteritis viral), skin and soft tissue infections (including paronychia, cellulitis, impetigo, necrotising fasciitis and herpes zoster), ear infections, oral infections (including herpes simplex, oral herpes and tooth infections), reproductive tract infections (including vulvovaginal mycotic infection), urinary tract infections (including pyelonephritis), fungal infections, joint infections |
+|  | Uncommon | Neurological infections (including viral meningitis), opportunistic infections and tuberculosis (including coccidioidomycosis, histoplasmosis and mycobacterium avium complex infection), bacterial infections, eye infections, diverticulitis1) |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Common | Skin cancer excluding melanoma (including basal cell carcinoma and squamous cell carcinoma), benign neoplasm |
+|  | Uncommon | Lymphoma**, solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), melanoma** |
+|  | Rare | Leukaemia1) |
+|  | Not known | Hepatosplenic T-cell lymphoma1) Merkel cell carcinoma (neuroendocrine carcinoma of the skin)1) |
+| Blood and the lymphatic system disorders* | Very common | Leukopenia (including neutropenia and agranulocytosis), anaemia |
+|  | Common | Leucocytosis, thrombocytopenia |
+|  | Uncommon | Idiopathic thrombocytopenic purpura |
+|  | Rare | Pancytopenia |
+| Immune system disorders* | Common | Hypersensitivity, allergies (including seasonal allergy) |
+|  | Uncommon | Sarcoidosis1), vasculitis |
+|  | Rare | Anaphylaxis1) |
+| Metabolism and nutrition disorders | Very common | Lipids increased |
+|  | Common | Hypokalaemia, uric acid increased, blood sodium abnormal, hypocalcaemia, hyperglycaemia, hypophosphatemia, dehydration |
+| Psychiatric disorders | Common | Mood alterations (including depression), anxiety, insomnia |
+| Nervous system disorders* | Very common | Headache |
+|  | Common | Paraesthesias (including hypoesthesia), migraine, nerve root compression |
+|  | Uncommon | Cerebrovascular accident1), tremor, neuropathy |
+|  | Rare | Multiple sclerosis, demyelinating disorders (e.g. optic neuritis, Guillain-Barré syndrome) 1) |
+| Eye disorders | Common | Visual impairment, conjunctivitis, blepharitis, eye swelling |
+|  | Uncommon | Diplopia |
+| Ear and labyrinth disorders | Common | Vertigo |
+|  | Uncommon | Deafness, tinnitus |
+| Cardiac disorders* | Common | Tachycardia |
+|  | Uncommon | Myocardial infarction1), arrhythmia, congestive heart failure |
+|  | Rare | Cardiac arrest |
+| Vascular disorders | Common | Hypertension, flushing, haematoma |
+|  | Uncommon | Aortic aneurysm, vascular arterial occlusion, thrombophlebitis |
+| Respiratory, thoracic and mediastinal disorders* | Common | Asthma, dyspnoea, cough |
+|  | Uncommon | Pulmonary embolism1), interstitial lung disease, chronic obstructive pulmonary disease, pneumonitis, pleural effusion1) |
+|  | Rare | Pulmonary fibrosis1) |
+| Gastrointestinal disorders | Very common | Abdominal pain, nausea and vomiting |
+|  | Common | GI haemorrhage, dyspepsia, gastroesophageal reflux disease, sicca syndrome |
+|  | Uncommon | Pancreatitis, dysphagia, face oedema |
+|  | Rare | Intestinal perforation1) |
+| Hepato-biliary disorders* | Very Common | Elevated liver enzymes |
+|  | Uncommon | Cholecystitis and cholelithiasis, hepatic steatosis, bilirubin increased |
+|  | Rare | Hepatitis reactivation of hepatitis B1) autoimmune hepatitis1) |
+|  | Not known | Liver failure1) |
+| Skin and subcutaneous tissue disorders | Very Common | Rash (including exfoliative rash) |
+|  | Common | Worsening or new onset of psoriasis (including palmoplantar pustular psoriasis)1), urticaria, bruising (including purpura), dermatitis (including eczema), onychoclasis, hyperhidrosis, alopecia1), pruritus |
+|  | Uncommon | Night sweats, scar |
+|  | Rare | Erythema multiforme1), Stevens-Johnson syndrome1), angioedema1), cutaneous vasculitis1) |
+|  | Not known | Worsening of symptoms of dermatomyositis1) |
+| Musculoskeletal and connective tissue disorders | Very common | Musculoskeletal pain |
+|  | Common | Muscle spasms (including blood creatine phosphokinase increased) |
+|  | Uncommon | Rhabdomyolysis, systemic lupus erythematosus |
+|  | Rare | Lupus-like syndrome1) |
+| Renal and urinary disorders | Common | Renal impairment, haematuria |
+|  | Uncommon | Nocturia |
+| Reproductive system and breast disorders | Uncommon | Erectile dysfunction |
+| General disorders and administration site conditions* | Very Common | Injection site reaction (including injection site erythema) |
+|  | Common | Chest pain, oedema, pyrexia1) |
+|  | Uncommon | Inflammation |
+| Investigations* | Common | Coagulation and bleeding disorders (including activated partial thromboplastin time prolonged), autoantibody test positive (including double stranded DNA antibody), blood lactate dehydrogenase increased |
+| Injury, poisoning and procedural complications | Common | Impaired healing |

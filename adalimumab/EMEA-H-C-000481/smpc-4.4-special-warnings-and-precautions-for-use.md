@@ -1,9 +1,12 @@
 # 4.4 Special warnings and precautions for use
 
-In order to improve traceability of biological medicinal products, the tradename and the batch number of the administered product should be clearly recorded.
+Traceability
+
+In order to improve traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
 Infections
 
-Patients taking TNF-antagonists are more susceptible to serious infections.
+Patients taking TNF -antagonists are more susceptible to serious infections.
 Impaired lung function may increase the risk for developing infections.
 Patients must therefore be monitored closely for infections, including tuberculosis, before, during and after treatment with Humira.
 Because the elimination of adalimumab may take up to four months, monitoring should be continued throughout this period.
@@ -11,10 +14,9 @@ Because the elimination of adalimumab may take up to four months, monitoring sho
 Treatment with Humira should not be initiated in patients with active infections including chronic or localised infections until infections are controlled.
 In patients who have been exposed to tuberculosis and patients who have travelled in areas of high risk of tuberculosis or endemic mycoses, such as histoplasmosis, coccidioidomycosis, or blastomycosis, the risk and benefits of treatment with Humira should be considered prior to initiating therapy (see Other opportunistic infections).
 
-Patients who develop a new infection while undergoing treatment with Humira, should be monitored closely and undergo a complete diagnostic evaluation.
-Administration of Humira should be discontinued if a patient develops a new serious infection or sepsis, and appropriate antimicrobial or antifungal therapy should be initiated until the infection is controlled.
+Patients who develop a new infection while undergoing treatment with Humira should be monitored closely and undergo a complete diagnostic evaluation.
+Administration of Humira should be discontinued if a patient develops a new serious infection or sepsis and appropriate antimicrobial or antifungal therapy should be initiated until the infection is controlled.
 Physicians should exercise caution when considering the use of Humira in patients with a history of recurring infection or with underlying conditions which may predispose patients to infections, including the use of concomitant immunosuppressive medications.
-
 Serious infections
 
 Serious infections, including sepsis, due to bacterial, mycobacterial, invasive fungal, parasitic, viral, or other opportunistic infections such as listeriosis, legionellosis and pneumocystis have been reported in patients receiving Humira.
@@ -40,7 +42,8 @@ In all situations described below, the benefit/risk balance of therapy should be
 
 If latent tuberculosis is suspected, a physician with expertise in the treatment of tuberculosis should be consulted.
 
-If latent tuberculosis is diagnosed, appropriate treatment must be started with anti-tuberculosis prophylaxis treatment before the initiation of Humira, and in accordance with local recommendations.
+If latent tuberculosis is diagnosed, appropriate treatment must be started with anti-tuberculosis prophylaxis treatment before the initiation of Humira and in accordance with local recommendations.
+
 Use of anti-tuberculosis prophylaxis treatment should also be considered before the initiation of Humira in patients with several or significant risk factors for tuberculosis despite a negative test for tuberculosis and in patients with a past history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed.
 
 Despite prophylactic treatment for tuberculosis, cases of reactivated tuberculosis have occurred in patients treated with Humira.
@@ -52,7 +55,6 @@ Other opportunistic infections
 
 Opportunistic infections, including invasive fungal infections have been observed in patients receiving Humira.
 These infections have not consistently been recognised in patients taking TNF-antagonists and this has resulted in delays in appropriate treatment, sometimes resulting in fatal outcomes.
-
 For patients who develop the signs and symptoms such as fever, malaise, weight loss, sweats, cough, dyspnoea, and/or pulmonary infiltrates or other serious systemic illness with or without concomitant shock an invasive fungal infection should be suspected and administration of Humira should be promptly discontinued.
 Diagnosis and administration of empiric antifungal therapy in these patients should be made in consultation with a physician with expertise in the care of patients with invasive fungal infections.
 
@@ -73,6 +75,7 @@ TNF-antagonists including Humira have been associated in rare instances with new
 Prescribers should exercise caution in considering the use of Humira in patients with pre-existing or recent-onset central or peripheral nervous system demyelinating disorders; discontinuation of Humira should be considered if any of these disorders develop.
 There is a known association between intermediate uveitis and central demyelinating disorders.
 Neurologic evaluation should be performed in patients with non-infectious intermediate uveitis prior to the initiation of Humira therapy and regularly during treatment to assess for pre-existing or developing central demyelinating disorders.
+
 Allergic reactions
 
 Serious allergic reactions associated with Humira were rare during clinical trials.
@@ -123,7 +126,6 @@ Rare reports of pancytopenia including aplastic anaemia have been reported with 
 Adverse events of the haematologic system, including medically significant cytopenia (e.g. thrombocytopenia, leukopenia) have been reported with Humira.
 All patients should be advised to seek immediate medical attention if they develop signs and symptoms suggestive of blood dyscrasias (e.g. persistent fever, bruising, bleeding, pallor) while on Humira.
 Discontinuation of Humira therapy should be considered in patients with confirmed significant haematologic abnormalities.
-
 Vaccinations
 
 Similar antibody responses to the standard 23-valent pneumococcal vaccine and the influenza trivalent virus vaccination were observed in a study in 226 adult subjects with rheumatoid arthritis who were treated with adalimumab or placebo.
@@ -147,6 +149,7 @@ Autoimmune processes
 Treatment with Humira may result in the formation of autoimmune antibodies.
 The impact of long-term treatment with Humira on the development of autoimmune diseases is unknown.
 If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with Humira and is positive for antibodies against double-stranded DNA, further treatment with Humira should not be given (see section 4.8).
+
 Concurrent administration of biologic DMARDS or TNF-antagonists
 
 Serious infections were seen in clinical studies with concurrent use of anakinra and another TNF-antagonist, etanercept, with no added clinical benefit compared to etanercept alone.
@@ -163,7 +166,6 @@ There is limited safety experience of surgical procedures in patients treated wi
 The long half-life of adalimumab should be taken into consideration if a surgical procedure is planned.
 A patient who requires surgery while on Humira should be closely monitored for infections, and appropriate actions should be taken.
 There is limited safety experience in patients undergoing arthroplasty while receiving Humira.
-
 Small bowel obstruction
 
 Failure to respond to treatment for Crohn’s disease may indicate the presence of fixed fibrotic stricture that may require surgical treatment.
@@ -178,3 +180,25 @@ Particular attention regarding the risk for infection should be paid when treati
 Paediatric population
 
 See Vaccinations above.
+
+[Humira 40 mg/0.8 ml solution for injection]
+
+Administration of Humira should be discontinued if a patient develops a new serious infection or sepsis, and appropriate antimicrobial or antifungal therapy should be initiated until the infection is controlled.
+
+If latent tuberculosis is diagnosed, appropriate treatment must be started with anti-tuberculosis prophylaxis treatment before the initiation of Humira, and in accordance with local recommendations.
+
+Excipients with known effects
+
+This medicinal product contains less than 1 mmol of sodium (23 mg) per 0.8 ml dose, i.e. essentially ‘sodium-free’.
+
+[Humira 40 mg solution for injection in pre-filled syringe]
+
+(all sentences already above)
+
+[Humira 40 mg solution for injection in pre-filled syringe (SmPC 4)]
+
+In order to improve traceability of biological medicinal products, the nameand the batch number of the administered product should be clearly recorded.
+
+[Humira 80 mg solution for injection in pre-filled syringe]
+
+(all sentences already above)

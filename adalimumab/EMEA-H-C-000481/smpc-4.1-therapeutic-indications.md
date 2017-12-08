@@ -19,13 +19,15 @@ Humira is indicated for the treatment of severe chronic plaque psoriasis in chil
 Paediatric Crohn's disease
 
 Humira is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients (from 6 years of age) who have had an inadequate response to conventional therapy including primary nutrition therapy and a corticosteroid and/or an immunomodulator, or who are intolerant to or have contraindications for such therapies.
-Adolescent hidradenitis suppurativa
-
-Humira is indicated for the treatment of active moderate to severe hidradenitis suppurativa (acne inversa) in adolescents from 12 years of age with an inadequate response to conventional systemic HS therapy (see sections 5.1 and 5.2).
-
 Paediatric Uveitis
 
 Humira is indicated for the treatment of paediatric chronic non-infectious anterior uveitis in patients from 2 years of age who have had an inadequate response to or are intolerant to conventional therapy, or in whom conventional therapy is inappropriate.
+
+[Humira 40 mg/0.8 ml solution for injection]
+
+Adolescent hidradenitis suppurativa
+
+Humira is indicated for the treatment of active moderate to severe hidradenitis suppurativa (acne inversa) in adolescents from 12 years of age with an inadequate response to conventional systemic HS therapy (see sections 5.1 and 5.2).
 
 [Humira 40 mg solution for injection in pre-filled syringe]
 
@@ -75,7 +77,7 @@ Uveitis
 
 Humira is indicated for the treatment of non-infectious intermediate, posterior and panuveitis in adult patients who have had an inadequate response to corticosteroids, in patients in need of corticosteroid-sparing, or in whom corticosteroid treatment is inappropriate.
 
-[Humira 40 mg solution for injection in pre-filled syringe (SmPC 3)]
+[Humira 40 mg solution for injection in pre-filled syringe (SmPC 4)]
 
 (all sentences already above)
 

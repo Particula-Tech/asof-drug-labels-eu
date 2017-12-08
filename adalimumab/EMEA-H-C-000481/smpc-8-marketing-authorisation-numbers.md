@@ -1,4 +1,8 @@
-# 8. MARKETING AUTHORISATION NUMBER
+# 8. MARKETING AUTHORISATION NUMBERS
+
+EU/1/03/256/022
+
+[Humira 40 mg/0.8 ml solution for injection]
 
 EU/1/03/256/001
 
@@ -19,7 +23,7 @@ EU/1/03/256/008
 EU/1/03/256/009
 EU/1/03/256/010
 
-[Humira 40 mg solution for injection in pre-filled syringe (SmPC 3)]
+[Humira 40 mg solution for injection in pre-filled syringe (SmPC 4)]
 
 EU/1/03/256/012
 EU/1/03/256/013
