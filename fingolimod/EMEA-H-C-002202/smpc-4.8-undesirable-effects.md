@@ -9,7 +9,6 @@ In the pooled data from these two studies the most serious adverse reactions on 
 The most frequent adverse reactions (incidence ≥10%) on Gilenya 0.5 mg were influenza, sinusitis, headache, diarrhoea, back pain, hepatic enzyme increased and cough.
 The most frequent adverse reaction reported for Gilenya 0.5 mg leading to treatment interruption was ALT elevations (2.2%).
 The adverse reactions in Study D2302 (TRANSFORMS), a 1-year study in 849 patients treated with fingolimod which used interferon beta-1a as comparator, were generally similar to placebo-controlled studies, taking into account the differences in study duration.
-
 Adverse reactions reported with Gilenya 0.5 mg in Studies D2301 (FREEDOMS) and D2309 (FREEDOMS II) are shown below.
 Frequencies were defined using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
 
@@ -27,14 +26,19 @@ Bronchitis
 Tinea versicolor
 
 Uncommon: Pneumonia
-Not known**: Progressive multifocal leukoencephalopathy (PML)
+Not known: Progressive multifocal leukoencephalopathy (PML)**
 
-Cryptococcal infections
+Cryptococcal infections**
 Neoplasms benign, malignant and unspecified (incl cysts and polyps)
 
 Common: Basal cell carcinoma
-Rare***: Lymphoma
-Not known***: Kaposi’s sarcoma
+Uncommon: Malignant melanoma****
+Rare: Lymphoma***
+
+Squamous cell carcinoma****
+
+Very rare: Kaposi’s sarcoma****
+Not known Merkel cell carcinoma***
 
 Blood and lymphatic system disorders
 
@@ -43,13 +47,13 @@ Common: Lymphopenia
 Leucopenia
 
 Uncommon: Thrombocytopenia
-Not known***: Peripheral oedema
+Not known: Peripheral oedema***
 
 Immune system disorders
 
-Not known***: Hypersensitivity reactions, including rash, urticaria and angioedema
+Not known: Hypersensitivity reactions, including rash, urticaria and angioedema
 
-upon treatment initiation
+upon treatment initiation***
 Psychiatric disorders
 
 Common: Depression
@@ -62,7 +66,7 @@ Common: Dizziness
 
 Migraine
 
-Rare*: Posterior reversible encephalopathy syndrome (PRES)
+Rare: Posterior reversible encephalopathy syndrome (PRES)*
 
 Eye disorders
 
@@ -75,7 +79,7 @@ Common: Bradycardia
 
 Atrioventricular block
 
-Very rare***: T-wave inversion
+Very rare: T-wave inversion***
 
 Vascular disorders
 
@@ -89,7 +93,7 @@ Common: Dyspnoea
 Gastrointestinal disorders
 
 Very common: Diarrhoea
-Uncommon***: Nausea
+Uncommon: Nausea***
 
 Skin and subcutaneous tissue disorders
 
@@ -116,8 +120,9 @@ Uncommon: Neutrophil count decreased
 
 * Not reported in Studies FREEDOMS, FREEDOMS II and TRANSFORMS.
 The frequency category was based on an estimated exposure of approximately 10, 000 patients to fingolimod in all clinical trials.
-** PML and cryptococcal infections (including isolated cases of cryptococcal meningitis) have been reported in the post-marketing setting (see section 4.4).
+** PML and cryptococcal infections (including cases of cryptococcal meningitis) have been reported in the post-marketing setting (see section 4.4).
 *** Adverse drug reactions from spontaneous reports and literature
+**** The frequency category and risk assessment were based on an estimated exposure of more than 24,000 patients to fingolimod 0.5 mg in all clinical trials.
 
 Description of selected adverse reactions
 Infections
@@ -126,7 +131,7 @@ However, lower respiratory tract infections, primarily bronchitis and to a lesse
 
 Some cases of disseminated herpes infection, including fatal cases, have been reported even at the 0.5 mg dose.
 
-In the post-marketing setting, cases of infections with opportunistic pathogens, such as viral (e.g. varicella zoster virus [VZV], John Cunningham virus [JCV] causing Progressive Multifocal Leukoencephalopathy, herpes simplex virus [HSV]), fungal (e.g. cryptococci including cryptococcal meningitis) or bacterial (e.g. atypical mycobacterium), have been reported (see section 4.4).
+In the post-marketing setting, cases of infections with opportunistic pathogens, such as viral (e.g. varicella zoster virus [VZV], John Cunningham virus [JCV] causing Progressive Multifocal Leukoencephalopathy, herpes simplex virus [HSV]), fungal (e.g. cryptococci including cryptococcal meningitis) or bacterial (e.g. atypical mycobacterium), have been reported, some of which have been fatal (see section 4.4).
 
 Macular oedema
 In multiple sclerosis clinical studies macular oedema occurred in 0.5% of patients treated with the recommended dose of 0.5 mg and 1.1% of patients treated with the higher dose of 1.25 mg.
@@ -172,9 +177,9 @@ In a small number of patients (N=10 on 1.25 mg, N=2 on 0.5 mg) who experienced A
 
 Nervous system disorders
 In clinical studies, rare events involving the nervous system occurred in patients treated with fingolimod at higher doses (1.25 or 5.0 mg) including ischaemic and haemorrhagic strokes and neurological atypical disorders, such as acute disseminated encephalomyelitis (ADEM)-like events.
-
 Vascular disorders
 Rare cases of peripheral arterial occlusive disease occurred in patients treated with fingolimod at higher doses (1.25 mg).
+
 Respiratory system
 Minor dose-dependent reductions in values for forced expiratory volume (FEV1) and diffusion capacity for carbon monoxide (DLCO) were observed with Gilenya treatment starting at Month 1 and remaining stable thereafter.
 At Month 24, the reduction from baseline values in percentage of predicted FEV1 was 2.7% for fingolimod 0.5 mg and 1.2% for placebo, a difference that resolved after treatment discontinuation.
@@ -183,6 +188,7 @@ For DLCO the reductions at Month 24 were 3.3% for fingolimod 0.5 mg and 2.7% for
 Lymphomas
 There have been cases of lymphoma of different varieties, in both clinical studies and the post-marketing setting, including a fatal case of Epstein-Barr virus (EBV) positive B-cell lymphoma.
 The incidence of lymphoma (B-cell and T-cell) cases was higher in clinical trials than expected in the general population.
+Some T-cell lymphoma cases were also reported in the post-marketing setting.
 
 Haemophagocytic syndrome
 Very rare cases of haemophagocytic syndrome (HPS) with fatal outcome have been reported in patients treated with fingolimod in the context of an infection.

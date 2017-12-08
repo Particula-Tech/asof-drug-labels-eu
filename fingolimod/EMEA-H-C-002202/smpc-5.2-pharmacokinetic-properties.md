@@ -10,7 +10,7 @@ The apparent absolute oral bioavailability is 93% (95% confidence interval: 79-1
 Steady-state-blood concentrations are reached within 1 to 2 months following once-daily administration and steady-state levels are approximately 10-fold greater than with the initial dose.
 
 Food intake does not alter Cmax or exposure (AUC) of fingolimod.
-Fingolimod phosphate Cmax was slightly increased by 34% but AUC was unchanged.
+Fingolimod phosphate Cmax was slightly decreased by 34% but AUC was unchanged.
 Therefore, Gilenya may be taken without regard to meals (see section 4.2).
 
 Distribution
@@ -37,9 +37,9 @@ Blood levels of fingolimod and fingolimod phosphate decline in parallel in the t
 After oral administration, about 81% of the dose is slowly excreted in the urine as inactive metabolites.
 Fingolimod and fingolimod phosphate are not excreted intact in urine but are the major components in the faeces, with amounts representing less than 2.5% of the dose each.
 After 34 days, the recovery of the administered dose is 89%.
-
 Linearity
 Fingolimod and fingolimod phosphate concentrations increase in an apparently dose proportional manner after multiple once-daily doses of 0.5 mg or 1.25 mg.
+
 Characteristics in specific groups of patients
 The pharmacokinetics of fingolimod and fingolimod phosphate do not differ in males and females, in patients of different ethnic origin, or in patients with mild to severe renal impairment.
 
