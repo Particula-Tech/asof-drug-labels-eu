@@ -1,8 +1,8 @@
 # 4.6 Fertility, pregnancy and lactation
 
 Contraception in males and females
-Women of childbearing potential and sexually active men must use effective methods of contraception during treatment with Ceplene and IL-2.
 
+Women of childbearing potential and sexually active men must use effective methods of contraception during treatment with Ceplene and IL-2.
 Pregnancy
 
 For Ceplene, no clinical data on exposed pregnancies are available.

@@ -9,6 +9,7 @@ Patients with cardiac disease should be evaluated for ventricular ejection fract
 Patients should be monitored during treatment for possible clinical complications due to hypotension or hypovolaemia.
 Ceplene should be administered in the clinic under supervision of the physician on day 1 of the initial treatment cycle.
 Patient monitoring on day 1 should include vital signs, including pulse, blood pressure and respiratory rate.
+
 Patient monitoring during subsequent treatment days or cycles should be performed as long as the patient continues to experience significant changes in vital signs during administration of Ceplene.
 If significant hypotension or related symptoms are observed in subsequent treatment cycles, dose reduction should be initiated and if required, administered in hospital until responses to treatment allow for home administration.
 

@@ -9,7 +9,8 @@ The most common adverse reactions experienced by 30% or more of patients receivi
 The adverse reactions considered at least possibly related to the treatment of low-dose IL-2 with Ceplene in AML studies (n=280 for the IL-2 and Ceplene treatment arm) are listed below by body system organ, class and frequency.
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 Frequencies are defined as very common (≥ 1/10), common
-(≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000) and very rare (< 1/10,000).
+(≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000) and very rare
+(< 1/10,000).
 The ADRs identified only during post-marketing surveillance, and for which a frequency could not be estimated, are listed under “not known”.
 
 | System Organ Class | very common | common |

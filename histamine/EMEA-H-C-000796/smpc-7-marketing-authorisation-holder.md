@@ -1,6 +1,5 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Meda AB
-Box 906
-SE 170 09 Solna
-Sweden
+Noventia Pharma srl
+Via Carlo Pisacana 31
+I-47121 Forli (FC)

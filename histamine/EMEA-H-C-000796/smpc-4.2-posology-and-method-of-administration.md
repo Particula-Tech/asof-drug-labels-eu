@@ -72,8 +72,8 @@ Table 3: For treatment cycles 4-10 with Ceplene and IL-2, same as for Table 2 ab
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Cycles |  |  |  |  |  |  |  |
 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |  |
-| w.1 9 to w.2 1 | w.2 8 to w.3 0 | w.3 7 to w.3 9 | w.4 6 to w.4 8 | w.55 - to w.57 | w.6 4 to w.6 6 | w.7 3 to w.7 5 | IL-2 16 400 IU/kg followed by 0.5 mL Ceplene. Twice daily |
-| w.2 2 to w.2 7 | w.3 1 to w.3 6 | w.4 0 to w.4 5 | w.4 9 to w.5 4 | w.58 to w.63 | w.6 7 to w.7 2 | w.7 6 to w.8 1 | Treatment-free (6 weeks) |
+| w.19 to w.21 | w.28 to w.30 | w.37 to w.39 | w.46 to w.48 | w.55-to w.57 | w.64 to w.66 | w.73 to w.75 | IL-2 16 400 IU/kg followed by 0.5 mL Ceplene. Twice daily |
+| w.22 to w.27 | w.31 to w.36 | w.40 to w.45 | w.49 to w.54 | w.58 to w.63 | w.67 to w.72 | w.76 to w.81 | Treatment-free (6 weeks) |
 
 *see dose modification for provisions for the modification to dose and dosage schedule
 
@@ -145,8 +145,8 @@ The safety and efficacy of Ceplene in children below 18 years of age have not ye
 No data are available.
 
 Method of administration
-Ceplene is for subcutaneous use only.
 
+Ceplene is for subcutaneous use only.
 One to 3 minutes after the subcutaneous administration of IL-2 has been completed, Ceplene should be administered by slow subcutaneous injection at a rate not to exceed 0.1 mL (0.1 mg histamine dihydrochloride) per minute.
 The usual time for administering a 0.5 mL Ceplene dose is 5 minutes.
 To reduce potential adverse reactions, the administration time may be lengthened to a maximum of 15 minutes, see below.
