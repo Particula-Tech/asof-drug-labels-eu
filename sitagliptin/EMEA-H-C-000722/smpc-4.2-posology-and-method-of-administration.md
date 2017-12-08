@@ -13,11 +13,13 @@ Special populations
 Renal impairment
 When considering the use of sitagliptin in combination with another anti-diabetic medicinal product, its conditions for use in patients with renal impairment should be checked.
 
-For patients with mild renal impairment (creatinine clearance [CrCl] ≥50 ml/min), no dose adjustment is required.
+For patients with mild renal impairment (glomerular filtration rate [GFR] ≥60 to < 90 ml/min), no dose adjustment is required.
 
-For patients with moderate renal impairment (CrCl ≥30 to < 50 mL/min), the dose of Januvia is 50 mg once daily.
+For patients with moderate renal impairment (GFR ≥45 to < 60 mL/min), no dosage adjustment is required.
 
-For patients with severe renal impairment (CrCl <30 mL/min) or with end-stage renal disease (ESRD) requiring haemodialysis or peritoneal dialysis, the dose of Januvia is 25 mg once daily.
+For patients with moderate renal impairment (GFR ≥30 to < 45 mL/min), the dose of Januvia is 50 mg once daily.
+
+For patients with severe renal impairment (GFR ≥15 to <30 mL/min) or with end-stage renal disease (ESRD) (GFR < 15 mL/min), including those requiring haemodialysis or peritoneal dialysis, the dose of Januvia is 25 mg once daily.
 Treatment may be administered without regard to the timing of dialysis.
 
 Because there is a dosage adjustment based upon renal function, assessment of renal function is recommended prior to initiation of Januvia and periodically thereafter.
@@ -37,11 +39,3 @@ No data are available.
 
 Method of administration
 Januvia can be taken with or without food.
-
-[Januvia 50 mg film-coated tablets]
-
-For patients with severe renal impairment (CrCl < 30 mL/min) or with end-stage renal disease (ESRD) requiring haemodialysis or peritoneal dialysis, the dose of Januvia is 25 mg once daily.
-
-[Januvia 100 mg film-coated tablets]
-
-(all sentences already above)

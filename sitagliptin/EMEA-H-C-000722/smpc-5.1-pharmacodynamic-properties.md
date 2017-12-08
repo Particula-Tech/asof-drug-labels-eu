@@ -125,7 +125,7 @@ The incidence of hypoglycaemia was not significantly different between the treat
 In another study involving 91 patients with type 2 diabetes and chronic renal impairment (creatinine clearance < 50 ml/min), the safety and tolerability of treatment with sitagliptin at 25 or 50 mg once daily were generally similar to placebo.
 In addition, after 12 weeks, the mean reductions in HbA1c (sitagliptin -0.59 %; placebo -0.18 %) and FPG (sitagliptin -25.5 mg/dL; placebo -3.0 mg/dL) were generally similar to those observed in other monotherapy studies in patients with normal renal function (see section 5.2).
 
-The TECOS was a randomized study in 14,671 patients in the intention-to-treat population with an HbA1c of ≥6.5 to 8.0 % with established CV disease who received sitagliptin (7,332) 100 mg daily (or 50 mg daily if the baseline eGFR was ≥30 and < 50 mL/min/1.73 m2) or placebo (7,339) added to usual care targeting regional standards for HbA1c and CV risk factors.
+The TECOS was a randomised study in 14,671 patients in the intention-to-treat population with an HbA1c of ≥6.5 to 8.0 % with established CV disease who received sitagliptin (7,332) 100 mg daily (or 50 mg daily if the baseline eGFR was ≥30 and < 50 mL/min/1.73 m2) or placebo (7,339) added to usual care targeting regional standards for HbA1c and CV risk factors.
 Patients with an eGFR
 < 30 mL/min/1.73 m2 were not to be enrolled in the study.
 The study population included 2,004 patients ≥75 years of age and 3,324 patients with renal impairment

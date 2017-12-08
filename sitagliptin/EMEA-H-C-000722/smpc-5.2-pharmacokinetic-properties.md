@@ -41,13 +41,15 @@ The pharmacokinetics of sitagliptin were generally similar in healthy subjects a
 
 Renal impairment
 A single-dose, open-label study was conducted to evaluate the pharmacokinetics of a reduced dose of sitagliptin (50 mg) in patients with varying degrees of chronic renal impairment compared to normal healthy control subjects.
-The study included patients with renal impairment classified on the basis of creatinine clearance as mild (50 to < 80 ml/min), moderate (30 to < 50 ml/min), and severe
-(< 30 ml/min), as well as patients with end-stage renal disease (ESRD) on haemodialysis.
+The study included patients with mild, moderate, and severe renal impairment, as well as patients with ESRD on haemodialysis.
+In addition, the effects of renal impairment on sitagliptin pharmacokinetics in patients with type 2 diabetes and mild, moderate, or severe renal impairment (including ESRD) were assessed using population pharmacokinetic analyses.
 
-Patients with mild renal impairment did not have a clinically meaningful increase in the plasma concentration of sitagliptin as compared to normal healthy control subjects.
-An approximately 2-fold increase in the plasma AUC of sitagliptin was observed in patients with moderate renal impairment, and an approximately 4-fold increase was observed in patients with severe renal impairment and in patients with ESRD on haemodialysis, as compared to normal healthy control subjects.
+Compared to normal healthy control subjects, plasma AUC of sitagliptin was increased by approximately 1.2-fold and 1.6-fold in patients with mild renal impairment (GFR ≥60 to
+< 90 mL/min) and patients with moderate renal impairment (GFR ≥45 to < 60 mL/min), respectively.
+Because increases of this magnitude are not clinically relevant, dosage adjustment in these patients is not necessary.
+Plasma AUC of sitagliptin was increased approximately 2-fold in patients with moderate renal impairment (GFR ≥30 to < 45 mL/min), and approximately 4-fold in patients with severe renal impairment (GFR < 30 mL/min), including in patients with ESRD on haemodialysis.
 Sitagliptin was modestly removed by haemodialysis (13.5 % over a 3- to 4-hour haemodialysis session starting 4 hours postdose).
-To achieve plasma concentrations of sitagliptin similar to those in patients with normal renal function, lower dosages are recommended in patients with moderate and severe renal impairment, as well as in ESRD patients requiring dialysis (see section 4.2).
+To achieve plasma concentrations of sitagliptin similar to those in patients with normal renal function, lower dosages are recommended in patients with GFR < 45 mL/min (see section 4.2).
 
 Hepatic impairment
 No dose adjustment for Januvia is necessary for patients with mild or moderate hepatic impairment (Child-Pugh score ≤9).
