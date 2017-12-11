@@ -85,7 +85,7 @@ c Ritonavir oral solution.
 d Ritonavir oral solution or capsule/tablet.
 
 REYATAZ capsules are available for paediatric patients at least 6 years of age who weigh at least 15 kg and who are able to swallow capsules (see Summary of Product Characteristics for REYATAZ capsules).
-Switching from REYATAZ oral powder to REYATAZ capsules is encouraged as soon as patients are able to consistenly swallow capsules.
+Switching from REYATAZ oral powder to REYATAZ capsules is encouraged as soon as patients are able to consistently swallow capsules.
 
 Consult the dosing table for the specific formulation (see Summary of Product Characteristics for REYATAZ capsules).
 

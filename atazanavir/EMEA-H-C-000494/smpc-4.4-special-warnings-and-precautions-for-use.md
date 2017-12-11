@@ -31,7 +31,6 @@ In some patients additional factor VIII was given.
 In more than half of the reported cases, treatment with protease inhibitors was continued or reintroduced if treatment had been discontinued.
 A causal relationship has been suggested, although the mechanism of action has not been elucidated.
 Haemophiliac patients should therefore be made aware of the possibility of increased bleeding.
-
 Weight and metabolic parameters
 An increase in weight and in levels of blood lipids and glucose may occur during antiretroviral theraphy.
 Such changes may in part be linked to the disease control and life style.
@@ -67,6 +66,12 @@ Cholelithiasis has been reported in patients receiving REYATAZ (see section 4.8)
 Some patients required hospitalization for additional management and some had complications.
 If signs or symptoms of cholelithiasis occur, temporary interruption or discontinuation of treatment may be considered.
 
+Chronic kidney disease
+Chronic kidney disease in HIV-infected patients treated with atazanavir, with or without ritonavir, has been reported during postmarketing surveillance.
+A large prospective observational study has shown an association between an increased incidence of chronic kidney disease and cumulative exposure to atazanavir/ritonavir-containing regimen in HIV-infected patients with an initially normal eGFR.
+This association was observed independently of exposure to tenofovir disoproxil.
+Regular monitoring of the renal function of patients should be maintained throughout the treatment duration (see section 4.8).
+
 Nephrolithiasis
 Nephrolithiasis has been reported in patients receiving REYATAZ (see section 4.8).
 Some patients required hospitalization for additional management and some had complications.
@@ -79,6 +84,7 @@ Typically, such reactions have been observed within the first few weeks or month
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis carinii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
 Autoimmune disorders (such as Graves' disease) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occurs many months after initiation of treatment.
+
 Osteonecrosis
 Although the aetiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
@@ -109,7 +115,6 @@ Co-administration of voriconazole and REYATAZ with ritonavir is not recommended,
 
 In the majority of patients, a reduction in both voriconazole and atazanavir exposures are expected.
 In a small number of patients without a functional CYP2C19 allele, significantly increased voriconazole exposures are expected (see section 4.5).
-
 Concomitant use of REYATAZ/ritonavir and fluticasone or other glucocorticoids that are metabolised by CYP3A4 is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects, including Cushing's syndrome and adrenal suppression
 (see section 4.5).
 
@@ -118,6 +123,7 @@ Co-administration of salmeterol and REYATAZ is not recommended
 (see section 4.5).
 
 The absorption of atazanavir may be reduced in situations where gastric pH is increased irrespective of cause.
+
 Co-administration of REYATAZ with proton pump inhibitors is not recommended (see section 4.5).
 If the combination of REYATAZ with a proton pump inhibitor is judged unavoidable, close clinical monitoring is recommended in combination with an increase in the dose of REYATAZ to 400 mg with 100 mg of ritonavir; doses of proton pump inhibitors comparable to omeprazole 20 mg should not be exceeded.
 
@@ -146,7 +152,6 @@ Atazanavir is primarily hepatically metabolised and increased plasma concentrati
 Renal impairment
 No dosage adjustment is needed in patients with renal impairment.
 However, REYATAZ with ritonavir is not recommended in patients undergoing haemodialysis (see sections 4.2 and 5.2).
-
 QT prolongation
 Dose related asymptomatic prolongations in PR interval with REYATAZ have been observed in clinical studies.
 

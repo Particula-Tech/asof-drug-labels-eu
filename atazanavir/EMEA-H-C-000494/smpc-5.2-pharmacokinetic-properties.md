@@ -5,7 +5,6 @@ The pharmacokinetics of atazanavir exhibit a non-linear disposition.
 
 Absorption: in HIV-infected patients (n=33, combined studies), multiple dosing of REYATAZ 300 mg once daily with ritonavir 100 mg once daily with food produced a geometric mean (CV%) for atazanavir, Cmax of 4466 (42%) ng/ml, with time to Cmax of approximately 2.5 hours.
 The geometric mean (CV%) for atazanavir Cmin and AUC was 654 (76%) ng/ml and 44185 (51%) ng•h/ml, respectively.
-
 In HIV-infected patients (n=13), multiple dosing of REYATAZ 400 mg (without ritonavir) once daily with food produced a geometric mean (CV%) for atazanavir Cmax of 2298 (71) ng/ml, with time to Cmax of approximately 2.0 hours.
 The geometric mean (CV%) for atazanavir Cmin and AUC were 120 (109) ng/ml and 14874 (91) ng•h/ml, respectively.
 
@@ -47,7 +46,6 @@ The mean AUC(0-∞) was 42% greater in subjects with impaired hepatic function t
 The mean half-life of atazanavir in hepatically impaired subjects was 12.1 hours compared to 6.4 hours in healthy subjects.
 The effects of hepatic impairment on the pharmacokinetics of atazanavir after a 300 mg dose with ritonavir have not been studied.
 Concentrations of atazanavir with or without ritonavir are expected to be increased in patients with moderately or severely impaired hepatic function (see sections 4.2, 4.3, and 4.4).
-
 Age/Gender: a study of the pharmacokinetics of atazanavir was performed in 59 healthy male and female subjects (29 young, 30 elderly).
 There were no clinically important pharmacokinetic differences based on age or gender.
 
@@ -77,16 +75,18 @@ As a result, greater peak to trough ratios are observed, however at recommended 
 
 Linearity/non-linearity: the pharmacokinetics of atazanavir were evaluated in healthy adult volunteers and in HIV infected patients; significant differences were observed between the two groups.
 
+The mechanism of this decrease is unknown (see sections 4.2 and 4.4.).
+
 The pharmacokinetic data from HIV-infected pregnant women receiving REYATAZ capsules with ritonavir are presented in Table 9.
 
 Table 9: Steady-State Pharmacokinetics of Atazanavir with ritonavir in HIV-Infected Pregnant Women in the Fed State
 
-Atazanavir plasma trough concentrations were approximately 2-fold higher during the postpartum period
+Atazanavir plasma trough
 
 |  | atazanavir 300 mg with ritonavir 100 mg |  |  |
 | --- | --- | --- | --- |
 | Pharmacokinetic Parameter | 2nd Trimester (n=9) | 3rd Trimester (n=20) | postpartuma (n=36) |
 
-when compared to those observed historically in HIV infected non-pregnant patients.
+concentrations were approximately 2-fold higher during the postpartum period when compared to those observed historically in HIV infected non-pregnant patients.
 
 As a result, greater peak to trough ratios are observed; however at recommended doses, geometric mean atazanavir exposures (Cmin, Cmax and AUC) in paediatric patients are expected to be similar to those observed in adults.

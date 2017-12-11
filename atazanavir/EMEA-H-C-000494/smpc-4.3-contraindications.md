@@ -15,6 +15,8 @@ For co-administration of sildenafil for the treatment of erectile dysfunction se
 
 Co-administration with medicinal products that are substrates of the CYP3A4 isoform of cytochrome P450 and have narrow therapeutic windows (e.g., quetiapine, alfuzosin, astemizole, terfenadine, cisapride, pimozide, quinidine, bepridil, triazolam, midazolam administered orally (for caution on parenterally administered midazolam, see section 4.5), and ergot alkaloids, particularly, ergotamine, dihydroergotamine, ergonovine, methylergonovine) (see section 4.5).
 
+Co-administration with grazoprevir-containing products, including elbasvir/grazoprevir fixed dose combination (used to treat chronic hepatitis C infection) (see section 4.5).
+
 Co-administration with products containing St. John’s wort (Hypericum perforatum) (see section 4.5).
 
 [REYATAZ 50 mg oral powder]

@@ -4,9 +4,15 @@ Summary of the safety profile
 REYATAZ has been evaluated for safety in combination therapy with other antiretroviral medicinal products in controlled clinical trials in 1,806 adult patients receiving REYATAZ 400 mg once daily (1,151 patients, 52 weeks median duration and 152 weeks maximum duration) or REYATAZ 300 mg with ritonavir 100 mg once daily (655 patients, 96 weeks median duration and 108 weeks maximum duration).
 
 Adverse reactions were consistent between patients who received REYATAZ 400 mg once daily and patients who received REYATAZ 300 mg with ritonavir 100 mg once daily, except that jaundice and elevated total bilirubin levels were reported more frequently with REYATAZ plus ritonavir.
+
 Among patients who received REYATAZ 400 mg once daily or REYATAZ 300 mg with ritonavir 100 mg once daily, the only adverse reactions of any severity reported very commonly with at least a possible relationship to regimens containing REYATAZ and one or more NRTIs were nausea (20%), diarrhoea (10%), and jaundice (13%).
 Among patients receiving REYATAZ 300 mg with ritonavir 100 mg, the frequency of jaundice was 19%.
 In the majority of cases, jaundice was reported within a few days to a few months after the initiation of treatment (see section 4.4).
+
+Chronic kidney disease in HIV-infected patients treated with atazanavir, with or without ritonavir, has been reported during postmarketing surveillance.
+A large prospective observational study has shown an association between an increased incidence of chronic kidney disease and cumulative exposure to atazanavir/ritonavir-containing regimen in HIV-infected patients with an initially normal eGFR.
+This association was observed independently of exposure to tenofovir disoproxil.
+Regular monitoring of the renal function of patients should be maintained throughout the treatment duration (see section 4.4).
 
 Tabulated list of adverse reactions
 Assessment of adverse reactions for REYATAZ is based on safety data from clinical studies and post-marketing experience.
@@ -55,17 +61,14 @@ Musculoskeletal and connective uncommon: muscle atrophy, arthralgia, myalgia;
 tissue disorders: rare: myopathy
 Renal and urinary disorders: uncommon: nephrolithiasisa, haematuria, proteinuria,
 
-pollakiuria, interstitial nephritis;
-rare: kidney pain
+pollakiuria, interstitial nephritis, chronic kidney diseasea; rare: kidney pain
 
 Reproductive system and breast uncommon: gynaecomastia disorders:
 
 General disorders and common: fatigue;
 
 administration site conditions: uncommon: chest pain, malaise, pyrexia, asthenia;
-rare: gait disturbance
-
-a These adverse reactions were identified through post-marketing surveillance, however, the frequencies were estimated from a statistical calculation based on the total number of patients exposed to REYATAZ in randomised controlled and other available clinical trials (n = 2321).
+rare: gait disturbance a These adverse reactions were identified through post-marketing surveillance, however, the frequencies were estimated from a statistical calculation based on the total number of patients exposed to REYATAZ in randomised controlled and other available clinical trials (n = 2321).
 b See description of selected adverse reactions for more details.
 
 Description of selected adverse reactions
@@ -93,6 +96,7 @@ Among naive patients treated with REYATAZ 300 mg once daily with 100 mg ritonavi
 Other marked clinical laboratory abnormalities (Grade 3 or 4) reported in ≥ 2% of patients receiving regimens containing REYATAZ and one or more NRTIs included: elevated creatine kinase (7%), elevated alanine aminotransferase/serum glutamic-pyruvic transaminase (ALT/SGPT) (5%), low neutrophils (5%), elevated aspartate aminotransferase/serum glutamic-oxaloacetic transaminase (AST/SGOT) (3%), and elevated lipase (3%).
 
 Two percent of patients treated with REYATAZ experienced concurrent Grade 3-4 ALT/AST and Grade 3-4 total bilirubin elevations.
+
 Paediatric population
 In a clinical study AI424-020, paediatric patients 3 months to less than 18 years of age who received either the oral powder or capsule formulation had a mean duration of treatment with REYATAZ of 115 weeks.
 The safety profile in this study was overall comparable to that seen in adults.
@@ -117,5 +121,9 @@ It allows continued monitoring of the benefit/risk balance of the medicinal prod
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 [REYATAZ 50 mg oral powder]
+
+rare: gait disturbance
+
+a These adverse reactions were identified through post-marketing surveillance, however, the frequencies were estimated from a statistical calculation based on the total number of patients exposed to REYATAZ in randomised controlled and other available clinical trials (n = 2321).
 
 The most frequently reported laboratory abnormalities in paediatric patients receiving REYATAZ was elevation of total bilirubin (≥ 2.6 times ULN, Grade 3-4) which occurred in 45% of patients.
