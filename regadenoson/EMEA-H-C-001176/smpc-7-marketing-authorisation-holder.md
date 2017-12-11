@@ -1,7 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Rapidscan Pharma Solutions EU Ltd.
-Regent’s Place
-338 Euston Road
-London NW1 3BT
-United Kingdom
+GE Healthcare AS
+Nycoveien 1
+NO-0485 Oslo
+Norway
