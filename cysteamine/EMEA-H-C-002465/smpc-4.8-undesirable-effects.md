@@ -19,16 +19,16 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | Immune system disorders | Uncommon: Anaphylactic reaction |
 | Metabolism and nutrition disorders | Very common: Anorexia |
 | Psychiatric disorders | Uncommon: Nervousness, hallucination |
-| Nervous system disorders | Common: Headache, encephalopathy |
+|  | Common: Headache, encephalopathy |
 |  | Uncommon: Somnolence, convulsions |
-| Gastrointestinal disorders | Very common: Vomiting, nausea, diarrhoea |
+|  | Very common: Vomiting, nausea, diarrhoea |
 |  | Common: Abdominal pain, breath odour, dyspepsia, gastroenteritis |
 |  | Uncommon: Gastrointestinal ulcer |
-| Skin and subcutaneous tissue disorders | Common: Skin odour abnormal, rash |
+|  | Common: Skin odour abnormal, rash |
 |  | Uncommon: Hair colour changes, skin striae, skin fragility (molluscoid pseudotumour on elbows) |
 | Musculoskeletal and connective tissue disorders | Uncommon: Joint hyperextension, leg pain, genu valgum, osteopenia, compression fracture, scoliosis. |
 | Renal and urinary disorders | Uncommon: Nephrotic syndrome |
-| General disorders and administration site conditions | Very common: Lethargy, pyrexia |
+|  | Very common: Lethargy, pyrexia |
 |  | Common: Asthenia |
 | Investigations | Common: Liver function tests abnormal |
 

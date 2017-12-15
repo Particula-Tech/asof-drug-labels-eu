@@ -70,7 +70,7 @@ It is important to dose PROCYSBI in relation to food intake in a consistent and 
 In paediatric patients who are at risk of aspiration, aged approximately 6 years and under, the hard capsules should be opened and the content sprinkled on food or liquid listed below.
 
 Sprinkling on food
-Capsules for either the morning or evening dose should be opened and the contents sprinkled onto approximately 100 mg of apple compote or berry jelly.
+Capsules for either the morning or evening dose should be opened and the contents sprinkled onto approximately 100 grams of apple compote or berry jelly.
 Gently stir the contents into the soft food, creating a mixture of cysteamine granules and food.
 The entire amount of the mixture should be eaten.
 This may be followed by 250 mL of an acceptable acidic liquid - fruit juice (e.g., orange juice or any acidic fruit juice).

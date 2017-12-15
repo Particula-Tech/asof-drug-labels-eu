@@ -1,9 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Raptor Pharmaceuticals Europe B.V.
-Naritaweg 165
-1043 BW Amsterdam
+Chiesi Orphan B.V.
+Graadt van Roggenweg 340
+3531 AH Utrecht
 The Netherlands
-Telephone: +31 20 572 6516
-Telefax: +1 508 848 3058
-E-Mail: info@raptorpharma.com
