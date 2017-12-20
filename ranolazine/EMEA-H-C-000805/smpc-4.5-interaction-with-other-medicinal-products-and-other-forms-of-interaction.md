@@ -16,7 +16,8 @@ Down-titration of Ranexa may be required (see sections 4.2 and 4.4).
 Ranolazine is a substrate for P-gp.
 Inhibitors of P-gp (e.g. ciclosporin, verapamil) increase plasma levels of ranolazine.
 Verapamil (120 mg three times daily) increases ranolazine steady-state concentrations 2.2-fold.
-Careful dose titration of Ranexa is recommended in patients treated with P-gp inhibitors.
+Careful dose titration of Ranexa is recommended in patients treated with
+P-gp inhibitors.
 Down-titration of Ranexa may be required (see sections 4.2 and 4.4).
 
 CYP3A4 inducers: Rifampicin (600 mg once daily) decreases ranolazine steady-state concentrations by approximately 95%.
@@ -57,13 +58,16 @@ Tacrolimus, ciclosporin, sirolimus, everolimus: Increased plasma concentrations 
 It is recommended that tacrolimus blood levels are monitored when co-administering Ranexa and tacrolimus and that tacrolimus dosage is adjusted accordingly.
 This is also recommended for other CYP3A4 substrates with a narrow therapeutic range (e.g., ciclosporin, sirolimus, everolimus).
 
-Drugs transported by the Organic Cation Transporter-2 (OCT2): Plasma exposure of metformin (1000 mg twice daily) increased 1.4- and 1.8-fold in subjects with type 2 diabetes mellitus when co-administered with RANEXA 500 mg and 1000 mg twice daily respectively.
+Drugs transported by the Organic Cation Transporter-2 (OCT2): Plasma exposure of metformin
+(1000 mg twice daily) increased 1.4- and 1.8-fold in subjects with type 2 diabetes mellitus when co-administered with RANEXA 500 mg and 1000 mg twice daily respectively.
 The exposure of other OCT2 substrates, including but not limited to pindolol and varenicline, may be affected to a similar degree.
 
 There is a theoretical risk that concomitant treatment of ranolazine with other drugs known to prolong the QTc interval may give rise to a pharmacodynamic interaction and increase the possible risk of ventricular arrhythmias.
 Examples of such drugs include certain antihistamines (e.g. terfenadine, astemizole, mizolastine), certain antiarrhythmics (e.g. quinidine, disopyramide, procainamide), erythromycin, and tricyclic antidepressants (e.g. imipramine, doxepin, amitriptyline).
 
 [Ranexa 500 mg prolonged-release tablets]
+
+Careful dose titration of Ranexa is recommended in patients treated with P-gp inhibitors.
 
 Ranexa 1000 mg twice daily increased plasma concentrations of simvastatin lactone, simvastatin acidby about 2-fold.
 

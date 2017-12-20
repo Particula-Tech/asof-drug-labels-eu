@@ -64,6 +64,10 @@ The adverse event profile was generally similar in the MERLIN-TIMI 36 study.
 In this long term study, acute renal failure was also reported with an incidence less than 1% in placebo and ranolazine patients.
 Evaluations in patients who may be considered at higher risk of adverse events when treated with other antianginal medicinal products, e.g. patients with diabetes, Class I and II heart failure, or obstructive airway disease, confirmed that these conditions were not associated with clinically meaningful increases in the incidence of adverse events.
 
+An increased incidence of adverse events was seen among ranolazine treated patients in the RIVER-PCI trial (see section 5.1) where patients with incomplete revascularization post-PCI were given ranolazine up to 1000 mg twice daily or placebo for approximately 70 weeks.
+In this study, there was a higher reporting rate for congestive heart failure in the ranolazine group (2.2% vs 1.0% in placebo).
+Also, transient ischemic attack occurred more frequently in patients treated with ranolazine 1000 mg twice daily compared with placebo (1.0% vs 0.2%, respectively); however, the incidence of stroke was similar between treatment groups (ranolazine 1.7% vs placebo 1.5%).
+
 Elderly, renal impairment, and low weight: In general, adverse events occurred more frequently among elderly patients and patients with renal impairment; however, the types of events in these subgroups were similar to those observed in the general population.
 Of the most commonly reported, the following events occurred more often with Ranexa (placebo-corrected frequencies) in elderly
 (≥ 75 years of age) than younger patients (< 75 years of age): constipation (8% versus 5%), nausea (6% versus 3%), hypotension (5% versus 1%), and vomiting (4% versus 1%).

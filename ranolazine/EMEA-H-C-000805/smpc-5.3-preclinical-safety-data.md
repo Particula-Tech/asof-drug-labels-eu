@@ -12,5 +12,4 @@ These doses are equivalent to 0.1 and 0.8 times, respectively, the maximum recom
 
 Signs of embryonal and maternal toxicity, but not teratogenicity, were seen at doses of ranolazine up to 400 mg/kg/day (2400 mg/m2/day) in rats and 150 mg/kg/day (1800 mg/m2/day) in rabbits.
 These doses represent 2.7 and 2 times, respectively, the maximum recommended human dose.
-
 Animal studies do not indicate direct or indirect harmful effects of ranolazine with respect to male or female fertility.

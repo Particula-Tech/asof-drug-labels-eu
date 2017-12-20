@@ -31,7 +31,6 @@ The corresponding difference at the 1000 mg twice-daily dose was 25%.
 Special populations
 
 The influence of various factors on the pharmacokinetics of ranolazine was assessed in a population pharmacokinetic evaluation in 928 angina patients and healthy subjects.
-
 Gender effects: Gender had no clinically relevant effect on pharmacokinetic parameters.
 
 Elderly patients: Age alone had no clinically relevant effect on pharmacokinetic parameters.
@@ -45,6 +44,7 @@ Renal impairment: In a study evaluating the influence of renal function on ranol
 There was a large inter-individual variability in AUC in subjects with renal impairment.
 The AUC of metabolites increased with decreased renal function.
 The AUC of one pharmacologically active ranolazine metabolite was 5-fold increased in patients with severe renal impairment.
+
 In the population pharmacokinetic analysis, a 1.2-fold increase in ranolazine exposure was estimated in subjects with moderate impairment (creatinine clearance 40 ml/min).
 In subjects with severe renal impairment (creatinine clearance 10–30 ml/min), a 1.3- to 1.8-fold increase in ranolazine exposure was estimated.
 

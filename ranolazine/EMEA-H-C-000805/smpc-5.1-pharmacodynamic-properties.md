@@ -21,12 +21,12 @@ These effects of ranolazine on the surface electrocardiogram are believed to res
 A population analysis of combined data from 1,308 patients and healthy volunteers demonstrated a mean increase in QTc from baseline of 2.4 msec per 1000 ng/ml ranolazine plasma concentration.
 This value is consistent with data from pivotal clinical studies, where mean changes from baseline in QTcF (Fridericia’s correction) after doses of 500 and 750 mg twice daily were 1.9 and 4.9 msec, respectively.
 The slope is higher in patients with clinically significant hepatic impairment.
-
 In a large outcome study (MERLIN-TIMI 36) in 6,560 patients with UA/NSTEMI ACS, there was no difference between Ranexa and placebo in the risk of all-cause mortality (relative risk ranolazine:placebo 0.99), sudden cardiac death (relative risk ranolazine:placebo 0.87), or the frequency of symptomatic documented arrhythmias (3.0% versus 3.1%).
 
 No proarrhythmic effects were observed in 3,162 patients treated with Ranexa based on 7-day Holter monitoring in the MERLIN-TIMI 36 study.
 There was a significantly lower incidence of arrhythmias in patients treated with Ranexa (80%) versus placebo (87%), including ventricular tachycardia
 ≥ 8 beats (5% versus 8%).
+
 Clinical efficacy and safety: Clinical studies have demonstrated the efficacy and safety of Ranexa in the treatment of patients with chronic angina, either alone or when the benefit from other antianginal medicinal products was sub-optimal.
 
 In the pivotal study, CARISA, Ranexa was added to treatment with atenolol 50 mg once daily, amlodipine 5 mg once daily, or diltiazem 180 mg once daily.
@@ -58,3 +58,8 @@ The results showed that exercise duration was 31 seconds longer in ranolazine pa
 The Seattle Angina Questionnaire showed significant effects on several dimensions, including angina frequency (p < 0.001), compared to placebo-treated patients.
 
 A small proportion of non-Caucasians was included in the controlled clinical studies; therefore, no conclusions can be drawn regarding the effect and safety in non-Caucasians.
+
+In a phase 3, double-blind, placebo-controlled, event-driven trial (RIVER-PCI) in 2604 patients aged
+≥18 years with a history of chronic angina and incomplete revascularisation after percutaneous coronary intervention (PCI) patients were up-titrated to 1000 mg twice daily (dosage not approved in the current SmPC).
+No significant difference occurred in the composite primary endpoint (time to first occurrence of ischaemia-driven revascularisation or ischaemia-driven hospitalisation without revascularisation) in the ranolazine group (26.2%) versus the placebo group (28.3%), hazard ratio 0.95, 95% CI 0.82-1.10 p= 0.48.
+The risk of all cause mortality, CV death or major adverse cardiovascular events (MACE) and heart failure hospitalisation was similar between treatment groups in the overall population; however, MACE were reported more frequently in patients ≥ 75 years treated with ranolazine compared with placebo (17.0% vs 11.3%, respectively); in addition there was a numerical increase in all cause mortality in patients ≥ 75 years (9.2% vs. 5.1%, p = 0.074).
