@@ -1,5 +1,12 @@
 # 6.5 Nature and contents of container
 
-Blisters: Aluminium/aluminium blister packs of 7, 10, 28, 30, 100 or 112 tablets.
-Bottles: White, high-density polyethylene bottle with or without a child-resistant cap containing 30 tablets.
+Blisters
+
+Aluminium/aluminium blister packs of 7, 10, 28, 30, 100 or 112 tablets.
+Aluminium/aluminium perforated unit dose blister packs of 10 x 1, 30 x 1 and 100 x 1 tablets.
+
+Bottles
+
+White, high-density polyethylene bottle with or without a child-resistant cap containing 30 tablets.
+
 Not all pack sizes may be marketed.

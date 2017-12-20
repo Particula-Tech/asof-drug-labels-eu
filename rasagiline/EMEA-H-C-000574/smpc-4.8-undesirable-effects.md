@@ -1,101 +1,99 @@
 # 4.8 Undesirable effects
 
-In the rasagiline clinical program overall, 1,361 patients were treated with rasagiline for 3,076.4 patient years.
-In the double blind placebo controlled studies, 529 patients were treated with rasagiline 1 mg/day for 212 patient years and 539 patients received placebo for 213 patient years.
+Summary of the safety profile
+
+In clinical studies in Parkinson's disease patients the most commonly reported adverse reactions were: headache, depression, vertigo, and flu (influenza and rhinitis) in monotherapy; dyskinesia, orthostatic hypotension, fall, abdominal pain, nausea and vomiting, and dry mouth in adjunct to levodopa therapy; musculoskeletal pain, as back and neck pain, and arthralgia in both regimens.
+These adverse reactions were not associated with an elevated rate of drug discontinuation.
+
+Tabulated list of adverse reactions
+
+Adverse reactions are listed below in Tables 1 and 2 by system organ class and frequency using the following conventions: very common (≥1/10), common (≥1/100 to <1/10), uncommon
+(≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000), not known (cannot be estimated from the available data).
 
 Monotherapy
-The list below includes adverse reactions which were reported with a higher incidence in placebo-controlled studies, in patients receiving 1 mg/day rasagiline (rasagiline group n=149, placebo group n=151).
+The tabulated list below includes adverse reactions which were reported with a higher incidence in placebo-controlled studies, in patients receiving 1 mg/day rasagiline.
 
-Adverse reactions with at least 2% difference over placebo are marked in italics.
-In parentheses is the adverse reaction incidence (% of patients) in rasagiline vs. placebo, respectively.
+| System Organ Class | Very common | Common | Uncommon | Not known |
+| --- | --- | --- | --- | --- |
+| Infections and infestations |  | Influenza |  |  |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  | Skin carcinoma |  |  |
+| Blood and lymphatic system disorders |  | Leucopenia |  |  |
+| Immune system disorders |  | Allergy |  |  |
+| Metabolism and nutrition disorders |  |  | Decreased appetite |  |
+| Psychiatric disorders |  | Depression, Hallucinations* |  | Impulse control disorders* |
+| Nervous system disorders | Headache |  | Cerebrovascular accident | Serotonin syndrome*, Excessive daytime sleepiness (EDS) and sudden sleep onset (SOS) episodes* |
+| Eye disorders |  | Conjunctivitis |  |  |
+| Ear and labyrinth disorders |  | Vertigo |  |  |
+| Cardiac disorders |  | Angina pectoris | Myocardial infarction |  |
+| Vascular disorders |  |  |  | Hypertension* |
+| Respiratory, thoracic and mediastinal disorders |  | Rhinitis |  |  |
+| Gastrointestinal disorders |  | Flatulence |  |  |
+| Skin and subcutaneous tissue disorders |  | Dermatitis | Vesiculobullous rash |  |
+| Musculoskeletal and connective tissue disorders |  | Musculoskeletal pain, Neck pain, Arthritis |  |  |
+| Renal and urinary disorders |  | Urinary urgency |  |  |
+| General disorders and administration site conditions |  | Fever, Malaise |  |  |
+| *See section description of selected adverse reactions |  |  |  |  |
 
-Adverse reactions are ranked under headings of frequency using the following conventions: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1000 to <1/100), rare (≥1/10000 to <1/1000), very rare (<1/10000).
-
-Infections and infestations
-Common: influenza (4.7% vs. 0.7%)
-Neoplasms benign, malignant and unspecified (including cysts and polyps)
-Common: skin carcinoma (1.3% vs. 0.7%)
-Blood and lymphatic system disorders
-Common: leucopenia (1.3% vs. 0%)
-Immune system disorders
-Common: allergy (1.3% vs. 0.7%)
-Metabolism and nutrition disorders
-Uncommon: decreased appetite (0.7% vs. 0%)
-Psychiatric disorders
-Common: depression (5.4% vs. 2%), hallucinations (1.3% vs. 0.7%)
-Nervous system disorders
-Very common: headache (14.1% vs. 11.9%)
-Uncommon: cerebrovascular accident (0.7% vs. 0%)
-Eye disorders
-Common: conjunctivitis (2.7% vs. 0.7%)
-Ear and labyrinth disorders
-Common: vertigo (2.7% vs. 1.3%)
-Cardiac disorders
-Common: angina pectoris (1.3% vs. 0%);
-Uncommon: myocardial infarction (0.7% vs. 0%)
-Respiratory, thoracic and mediastinal disorders
-Common: rhinitis (3.4% vs. 0.7%)
-Gastrointestinal disorders
-Common: flatulence (1.3% vs.0%)
-Skin and subcutaneous tissue disorders
-Common: dermatitis (2.0% vs. 0%)
-Uncommon: vesiculobullous rash (0.7% vs. 0%)
-Musculoskeletal and connective tissue disorders
-Common: musculoskeletal pain (6.7% vs. 2.6%), neck pain (2.7% vs. 0%), arthritis (1.3% vs. 0.7%)
-Renal and urinary disorders
-Common: urinary urgency (1.3% vs. 0.7%).
-General disorders and administration site conditions
-Common: fever (2.7% vs. 1.3%), malaise (2% vs. 0%)
 Adjunct Therapy
+The tabulated list below includes adverse reactions which were reported with a higher incidence in placebo-controlled studies in patients receiving 1 mg/day rasagiline.
 
-The list below includes adverse reactions which were reported with a higher incidence in placebo-controlled studies in patients receiving 1 mg/day rasagiline (rasagiline group n=380, placebo group n=388).
-In parentheses is the adverse reaction incidence (% of patients) in rasagiline vs. placebo, respectively.
+| System Organ Class | Very common | Common | Uncommon | Not known |
+| --- | --- | --- | --- | --- |
+| Neoplasms benign, malignant and unspecified |  |  | Skin melanoma* |  |
+| Metabolism and nutrition disorders |  | Decreased appetite |  |  |
+| Psychiatric disorders |  | Hallucinations*, Abnormal dreams | Confusion | Impulse control disorders* |
+| Nervous system | Dyskinesia | Dystonia, | Cerebrovascular | Serotonin |
+| disorders |  | Carpal tunnel syndrome, Balance disorder | accident | syndrome*, Excessive daytime sleepiness (EDS) and sudden sleep onset (SOS) episodes* |
+| Cardiac disorders |  |  | Angina pectoris |  |
+| Vascular disorders |  | Orthostatic hypotension* |  | Hypertension* |
+| Gastrointestinal disorders |  | Abdominal pain, Constipation, Nausea and vomiting, Dry mouth |  |  |
+| Skin and subcutaneous tissue disorders |  | Rash |  |  |
+| Musculoskeletal and connective tissue disorders* |  | Arthralgia, Neck pain |  |  |
+| Investigations |  | Decreased weight |  |  |
+| Injury, poisoning and procedural complications |  | Fall |  |  |
+| *See section description of selected adverse reactions |  |  |  |  |
 
-Adverse reactions with at least 2% difference over placebo are in italics.
+Description of selected adverse reactions
 
-Adverse reactions are ranked under headings of frequency using the following conventions: very common (≥1/10), common (≥1/100, <1/10), uncommon (≥1/1000, <1/100), rare (≥1/10000, <1/1000), very rare (<1/10000).
+Orthostatic hypotension
+In blinded placebo-controlled studies, severe orthostatic hypotension was reported in one subject (0.3%) in the rasagiline arm (adjunct studies), none in the placebo arm.
+Clinical trial data further suggest that orthostatic hypotension occurs most frequently in the first two months of rasagiline treatment and tends to decrease over time.
 
-Neoplasms benign, malignant and unspecified
-Uncommon: skin melanoma (0.5% vs. 0.3%)
-Metabolism and nutrition disorders
-Common: decreased appetite (2.4% vs. 0.8%)
-Psychiatric disorders
-Common: hallucinations (2.9% vs. 2.1%), abnormal dreams (2.1% vs. 0.8%)
-Uncommon: confusion (0.8% vs. 0.5%)
-Nervous system disorders
-Very common: dyskinesia (10.5% vs. 6.2%)
-Common: dystonia (2.4% vs. 0.8%), carpal tunnel syndrome (1.3% vs. 0%), balance disorder
-(1.6% vs. 0.3%)
-Uncommon: cerebrovascular accident (0.5% vs. 0.3%)
-Cardiac disorders
-Uncommon: angina pectoris (0.5% vs. 0%)
-Vascular disorders
-Common: orthostatic hypotension (3.9% vs. 0.8%)
-Gastrointestinal disorders
-Common: abdominal pain (4.2% vs. 1.3%), constipation (4.2% vs. 2.1%), nausea and vomiting
-(8.4% vs. 6.2%), dry mouth (3.4% vs. 1.8%)
-Skin and subcutaneous tissue disorders
-Common: rash (1.1% vs. 0.3%)
-Musculoskeletal and connective tissue disorders
-Common: arthralgia (2.4% vs. 2.1%), neck pain (1.3% vs. 0.5%)
-Investigations
-Common: decreased weight (4.5% vs. 1.5%)
-Injury, poisoning and procedural complications
-Common: fall (4.7% vs. 3.4%)
-
-Parkinson's disease is associated with symptoms of hallucinations and confusion.
-In post marketing experience, these symptoms have also been observed in Parkinson's disease patients treated with rasagiline.
-
-Serious adverse reactions are known to occur with the concomitant use of SSRIs, SNRIs, tricyclic/ tetracyclic antidepressants and MAO inhibitors.
-In the post-marketing period, cases of serotonin syndrome associated with agitation, confusion, rigidity, pyrexia and myoclonus have been reported by patients treated with antidepressants/SNRI concomitantly with rasagiline.
-
-Rasagiline clinical trials did not allow concomitant use of fluoxetine or fluvoxamine with rasagiline, but the following antidepressants and doses were allowed in the rasagiline trials: amitriptyline ≤ 50 mg/daily, trazodone ≤ 100 mg/daily, citalopram ≤ 20 mg/daily, sertraline ≤ 100 mg/daily, and paroxetine ≤ 30 mg/daily.
-There were no cases of serotonin syndrome in the rasagiline clinical program in which 115 patients were exposed concomitantly to rasagiline and tricyclics and 141 patients were exposed to rasagiline and SSRIs/ SNRIs.
-In the post-marketing period, cases of elevated blood pressure, including rare cases of hypertensive crisis associated with ingestion of unknown amounts of tyramine-rich foods, have been reported in patients taking rasagiline.
-
-With MAO inhibitors, there have been reports of drug interactions with the concomitant use of sympathomimetic medicinal products.
-In post marketing period, there was one case of elevated blood pressure in a patient using the ophthalmic vasoconstrictor tetrahydrozoline hydrochloride while taking rasagiline.
+Hypertension
+Rasagiline selectively inhibits MAO-B and is not associated with increased tyramine sensitivity at the indicated dose (1 mg/day).
+In blinded placebo-controlled studies (monotherapy and adjunct) severe hypertension was not reported in any subjects in the rasagiline arm.
+In the post-marketing period, cases of elevated blood pressure, including rare serious cases of hypertensive crisis associated with ingestion of unknown amounts of tyramine-rich foods, have been reported in patients taking rasagiline.
+In post-marketing period, there was one case of elevated blood pressure in a patient using the ophthalmic vasoconstrictor tetrahydrozoline hydrochloride while taking rasagiline.
 
 Impulse control disorders
-Pathological gambling, increased libido, hypersexuality, compulsive spending or buying, binge eating and compulsive eating can occur in patients treated with dopamine agonists and/or other dopaminergic treatments.
-A similar pattern of impulse control disorders has been reported post-marketing with rasagiline, which also included compulsions, obsessive thoughts and impulsive behaviour (see section 4.4).
+One case of hypersexuality was reported in monotherapy placebo-controlled study.
+The following were reported during post-marketing exposure with unknown frequency: compulsions, compulsive shopping, dermatillomania, dopamine dysregulation syndrome, impulse-control disorder, impulsive behaviour, kleptomania, theft, obsessive thoughts, obsessive-compulsive disorder, stereotypy, gambling, pathological gambling, libido increased, hypersexuality, psychosexual disorder, sexually inappropriate behaviour.
+Half of the reported ICD cases were assessed as serious.
+Only single cases of reported cases had not recovered at the time they were reported.
+Excessive daytime sleepiness (EDS) and sudden sleep onset (SOS) episodes
+Excessive daily sleepiness (hypersomnia, lethargy, sedation, sleep attacks, somnolence, sudden onset of sleep) can occur in patients treated with dopamine agonists and/or other dopaminergic treatments.
+A similar pattern of excessive daily sleepiness has been reported post-marketing with rasagiline.
+Cases of patients, treated with rasagiline and other dopaminergic medicinal products, falling asleep while engaged in activities of daily living have been reported.
+Although many of these patients reported somnolence while on rasagiline with other dopaminergic medicinal products, some perceived that they had no warning signs, such as excessive drowsiness, and believed that they were alert immediately prior to the event.
+Some of these events have been reported more than 1-year after initiation of treatment.
+
+Hallucinations
+Parkinson’s disease is associated with symptoms of hallucinations and confusion.
+In post-marketing experience, these symptoms have also been observed in Parkinson’s disease patients treated with rasagiline.
+
+Serotonin syndrome
+Rasagiline clinical trials did not allow concomitant use of fluoxetine or fluvoxamine with rasagiline, but the following antidepressants and doses were allowed in the rasagiline trials: amitriptyline
+≤ 50 mg/daily, trazodone ≤ 100 mg/daily, citalopram ≤ 20 mg/daily, sertraline ≤ 100 mg/daily, and paroxetine ≤ 30 mg/daily (see section 4.5).
+
+In the post-marketing period, cases of potentially life-threating serotonin syndrome associated with agitation, confusion, rigidity, pyrexia and myoclonus have been reported by patients treated with antidepressants, meperidine, tramadol, methadone, or propoxyphene concomitantly with rasagiline.
+
+Malignant melanoma
+Incidence of skin melanoma in placebo-controlled clinical studies was 2/380 (0.5%) in rasagiline 1 mg as adjacent to levodopa therapy group vs. 1/388 (0.3%) incidence in placebo group.
+Additional cases of malignant melanoma were reported during post-marketing period.
+These cases were considered serious in all reports.
+
+Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
