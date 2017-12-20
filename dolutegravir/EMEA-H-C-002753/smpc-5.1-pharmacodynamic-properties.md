@@ -21,6 +21,7 @@ Effect of human serum
 In 100% human serum, the mean protein fold shift was 75 fold, resulting in protein adjusted IC90 of 0.064 ug/mL.
 
 Resistance
+
 Resistance in vitro
 
 Serial passage is used to study resistance evolution in vitro.
@@ -56,6 +57,7 @@ In the presence of integrase class-resistance (VIKING-3 study) the following mut
 Treatment emergent integrase resistance typically appeared in patients with a history of the Q148-mutation (baseline or historic).
 Five further subjects experienced PDVF between weeks 24 and 48, and 2 of these 5 had treatment emergent mutations.
 Treatment-emergent mutations or mixtures of mutations observed were L74I (n=1), N155H (n=2).
+
 The VIKING-4 study examined dolutegravir (plus optimized background therapy) in subjects with primary genotypic resistance to INIs at Screening in 30 subjects.
 Treatment-emergent mutations observed were consistent with those observed in the VIKING-3 study.
 
@@ -158,8 +160,8 @@ Table 5 Response in SAILING at 48 Weeks (Snapshot algorithm, <50 copies/mL)
 | ‡ Adjusted for baseline stratification factors. § 4 subjects were excluded from the efficacy analysis due to data integrity at one study site *The Genotypic Susceptibility Score (GSS) was defined as the total number of ARTs in BR to which a subject’s viral isolate showed susceptibility at baseline based upon genotypic resistance tests. †Other clades included: Complex (43), F1 (32), A1 (18), BF (14), all others <10. |  |  |
 
 In the SAILING study, virologic suppression (HIV-1 RNA <50 copies/mL) in the Tivicay arm (71%) was statistically superior to the raltegravir arm (64%), at Week 48 (p=0.03).
-
 Statistically fewer subjects failed therapy with treatment-emergent integrase resistance on Tivicay (4/354, 1%) than on raltegravir (17/361, 5%) (p=0.003) (refer to section ‘Resistance in vivo’ above for details).
+
 Patients with prior treatment failure that included an integrase inhibitor (and integrase class resistance)
 In the multicentre, open-label, single arm VIKING-3 study (ING112574), HIV-1 infected, ART-experienced adults with virological failure and current or historical evidence of raltegravir and/or elvitegravir resistance received Tivicay 50 mg twice daily with the current failing background regimen for 7 days but with optimised background ART from Day 8.
 The study enrolled 183 patients, 133 with INI-resistance at Screening and 50 with only historical evidence of resistance (and not at Screening).
@@ -199,9 +201,10 @@ The overall susceptibility score (OSS) of the optimised background regimen (OBR)
 Table 7 Response by baseline Resistance, VIKING-3.
 VO Population (HIV-1 RNA <50 c/mL, Snapshot algorithm)
 
-|  | Week 24 (N=161) |  |  |  |  | Week 48 (N=160) |
-| --- | --- | --- | --- | --- | --- | --- |
+Week 24 (N=161) Week 48 (N=160)
+
 | Derived IN Mutation Group | OSS=0 | OSS=1 | OSS=2 | OSS>2 | Total | Total |
+| --- | --- | --- | --- | --- | --- | --- |
 | No primary IN mutation1 | 2/2 (100%) | 15/20 (75%) | 19/21 (90%) | 9/12 (75%) | 45/55 (82%) | 38/55 (69%) |
 | Primary mutation other than Q148H/K/R2 | 2/2 (100%) | 20/20 (100%) | 21/27 (78%) | 8/10 (80%) | 51/59 (86%) | 50/58 (86%) |
 | Q148 + 1 secondary mutation3 | 2/2 (100%) | 8/12 (67%) | 10/17 (59%) | - | 20/31 (65%) | 19/31 (61%) |
@@ -218,7 +221,7 @@ The primary endpoint at Day 8 showed that dolutegravir 50 mg twice daily was sup
 The day 8 responses in this placebo controlled study were fully in line with those seen in VIKING-3 (not placebo controlled), including by baseline integrase resistance categories.
 At week 48, 12/30 (40%) subjects had HIV-1 RNA <50 copies/mL (ITT-E, Snapshot algorithm).
 
-In a combined analysis of VIKING-3 and VIKING-4 (n=186, VO population), the proportion of subjects with HIV RNA <50 copies/mL at Week 48 was 126/186 (68%).
+In a combined analysis of VIKING-3 and VIKING-4 (n=186, VO population), the proportion of subjects with HIV RNA <50 copies/mL at Week 48 was 123/186 (66%).
 The proportion of subjects with HIV RNA <50 copies/mL was 96/126 (76%) for No Q148 mutations, 22/41 (54%) for Q148+1 and 5/19 (26%) for Q148+≥2 secondary mutations.
 
 Paediatric population
@@ -235,9 +238,7 @@ Table 8 Virologic (Snapshot algorithm) and Immunologic Activity of Treatment for
 | HIV-1 RNA <400 copies/mL at 24 weeks, n (%) | 19 (83%) | 18 (78%) |
 | HIV-1 RNA <400 copies/mL at 48 weeks, n (%) | 17 (74%) | - |
 | Virologic non response | 6 | 3 |
-| CD4+ Cell Count Median Change from Baseline, cells/mm3 | 84a | 209b |
-
-Median Percent Change from Baseline 5%a 8%b
+| CD4+ Cell Count Median Change from Baseline, cells/mm3 Median Percent Change from Baseline | 84a 5%a | 209b 8%b |
 
 a 22 subjects contributed Week 48 CD4+ cell count data b 21 subjects contributed Week 24 CD4+ cell count data
 

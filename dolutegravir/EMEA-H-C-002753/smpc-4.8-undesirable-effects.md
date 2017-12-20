@@ -33,6 +33,8 @@ Table 3 Adverse Reactions
 | Hepatobiliary disorders | Uncommon | Hepatitis |
 | Skin and subcutaneous tissue disorders | Common | Rash |
 |  | Common | Pruritus |
+| Musculoskeletal and connective tissue disorders | Uncommon | Arthralgia |
+|  | Uncommon | Myalgia |
 | General disorders and administration site conditions | Common | Fatigue |
 | Investigations | Common | Alanine aminotransferase (ALT) and/or Aspartate aminotransferase (AST) elevations |
 |  | Common | Creatine phosphokinase (CPK) elevations |
@@ -43,7 +45,7 @@ Description of selected adverse reactions
 
 Changes in laboratory biochemistries
 Increases in serum creatinine occurred within the first week of treatment with dolutegravir and remained stable through 48 weeks.
-A mean change from baseline of 9.96 μmol/L was observed after 48 weeks of treatment.
+A mean change from baseline of 9.96 µmol/L was observed after 48 weeks of treatment.
 Creatinine increases were comparable by various background regimens.
 These changes are not considered to be clinically relevant since they do not reflect a change in glomerular filtration rate.
 
@@ -55,6 +57,7 @@ Liver chemistry elevations consistent with immune reconstitution syndrome were o
 Immune response syndrome
 In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise.
 Autoimmune disorders (such as Graves’ disease) have also been reported; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
+
 Paediatric population
 
 Based on limited available data in children and adolescents (6 to less than 18 years of age and weighing at least 15 kg), there were no additional types of adverse reactions beyond those observed in the adult population.
