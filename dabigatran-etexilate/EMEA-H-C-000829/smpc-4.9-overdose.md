@@ -1,29 +1,35 @@
 # 4.9 Overdose
 
-Doses of dabigatran etexilate beyond those recommended, expose the patient to increased risk of bleeding.
+Pradaxa doses beyond those recommended, expose the patient to increased risk of bleeding.
 
 In case of an overdose suspicion, coagulation tests can help to determine a bleeding risk (see sections 4.4 and 5.1).
 A calibrated quantitative dTT test or repetitive dTT measurements allow prediction of the time by when certain dabigatran levels will be reached (see section 5.1), also in case additional measures e.g. dialysis have been initiated.
 
 Excessive anticoagulation may require interruption of Pradaxa treatment.
-In the event of haemorrhagic complications, treatment must be discontinued and the source of bleeding investigated.
 Since dabigatran is excreted predominantly by the renal route adequate diuresis must be maintained.
-Depending on the clinical situation appropriate supportive treatment, such as surgical haemostasis and blood volume replacement, should be undertaken at the prescribers discretion.
+As protein binding is low, dabigatran can be dialysed; there is limited clinical experience to demonstrate the utility of this approach in clinical studies (see section 5.2).
 
-For situations when rapid reversal of the anticoagulant effect of Pradaxa is required the specific reversal agent (Praxbind, idarucizumab) antagonizing the pharmacodynamics effect of Pradaxa is available (see section 4.4).
+Management of bleeding complications
+
+In the event of haemorrhagic complications, Pradaxa treatment must be discontinued and the source of bleeding investigated.
+Depending on the clinical situation appropriate supportive treatment, such as surgical haemostasis and blood volume replacement, should be undertaken at the prescriber’s discretion.
+
+For situations when rapid reversal of the anticoagulant effect of Pradaxa is required the specific reversal agent (Praxbind, idarucizumab) antagonizing the pharmacodynamic effect of Pradaxa is available (see section 4.4).
 
 Coagulation factor concentrates (activated or non-activiated) or recombinant Factor VIIa may be taken into account.
 There is some experimental evidence to support the role of these medicinal products in reversing the anticoagulant effect of dabigatran, but data on their usefulness in clinical settings and also on the possible risk of rebound thromboembolism is very limited.
 Coagulation tests may become unreliable following adminstration of suggested coagulation factor concentrates.
 Caution should be exercised when interpreting these tests.
-Consideration should also be given to administration of platelet concentrates in cases where thrombocytopenia is present or long acting antiplatelet drugs have been used.
+Consideration should also be given to administration of platelet concentrates in cases where thrombocytopenia is present or long acting antiplatelet medicinal products have been used.
 All symptomatic treatment should be given according to the physician's judgement.
 
 Depending on local availability, a consultation of a coagulation expert should be considered in case of major bleedings.
 
-As protein binding is low, dabigatran can be dialysed; there is limited clinical experience to demonstrate the utility of this approach in clinical studies (see section 5.2).
-
 [Pradaxa 110 mg hard capsules]
+
+Pradaxa doses beyond those recommended expose the patient to increased risk of bleeding.
+
+Depending on the clinical situation appropriate supportive treatment, such as surgical haemostasis and blood volume replacement, should be undertaken at the prescribers discretion.
 
 Coagulation factor concentrates (activated or non-activated) or recombinant Factor VIIa may be taken into account.
 Coagulation tests may become unreliable following administration of suggested coagulation factor concentrates.
@@ -32,4 +38,4 @@ Coagulation tests may become unreliable following administration of suggested co
 
 A calibrated quantitative (dTT) test or repetitive dTT measurements allow prediction of the time by when certain dabigatran levels will be reached (see section 5.1), also in case additional measures e.g. dialysis have been initiated.
 
-For situations when rapid reversal of the anticoagulant effects of Pradaxa is required the specific reversal agent (Praxbind, idarucizumab) antagonizing the pharmacodynamics effect of Pradaxa is available (see section 4.4).
+For situations when rapid reversal of the anticoagulant effects of Pradaxa is required the specific reversal agent (Praxbind, idarucizumab) antagonizing the pharmacodynamic effect of Pradaxa is available (see section 4.4).

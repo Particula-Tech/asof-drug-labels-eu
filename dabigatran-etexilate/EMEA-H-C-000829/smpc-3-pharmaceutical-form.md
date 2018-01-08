@@ -1,8 +1,8 @@
 # 3. PHARMACEUTICAL FORM
 
-Hard capsule
+Hard capsule.
 
-Capsules with white , opaque cap and white, opaque body of size 2 filled with yellowish pellets.
+Capsules with white, opaque cap and white, opaque body of size 2 filled with yellowish pellets.
 The cap is imprinted with the Boehringer Ingelheim company symbol, the body with “R75”.
 
 [Pradaxa 110 mg hard capsules]

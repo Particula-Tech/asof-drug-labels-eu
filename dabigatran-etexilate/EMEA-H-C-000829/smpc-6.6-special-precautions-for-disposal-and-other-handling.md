@@ -11,3 +11,5 @@ When taking a hard capsule out of the bottle, the following instructions should 
 
 - The cap opens by pushing and turning.
 - After taking the capsule out, the cap should be returned on the bottle right away and the bottle should be tightly closed.
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

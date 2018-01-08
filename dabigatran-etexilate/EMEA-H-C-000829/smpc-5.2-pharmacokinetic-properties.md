@@ -11,21 +11,18 @@ A study evaluating post-operative absorption of dabigatran etexilate, 1-3 hours 
 Peak plasma concentrations are reached at 6 hours following administration in a postoperative period due to contributing factors such as anaesthesia, gastrointestinal paresis, and surgical effects independent of the oral medicinal product formulation.
 It was demonstrated in a further study that slow and delayed absorption is usually only present on the day of surgery.
 On subsequent days absorption of dabigatran is rapid with peak plasma concentrations attained 2 hours after medicinal product administration.
+
 Food does not affect the bioavailability of dabigatran etexilate but delays the time to peak plasma concentrations by 2 hours.
 
+Cmax and AUC were dose proportional.
+
 The oral bioavailability may be increased by 75 % after a single dose and 37 % at steady state compared to the reference capsule formulation when the pellets are taken without the Hydroxypropylmethylcellulose (HPMC) capsule shell.
-Hence, the integrity of the HPMC capsules should always be preserved in clinical use to avoid unintentionally increased bioavailability of dabigatran etexilate.
-Therefore, patients should be advised not to open the capsules and taking the pellets alone (e.g. sprinkled over food or into beverages) (see section 4.2).
+Hence, the integrity of the HPMC capsules should always be preserved in clinical use to avoid unintentionally increased bioavailability of dabigatran etexilate (see section 4.2).
 
 Distribution
 
 Low (34-35 %) concentration independent binding of dabigatran to human plasma proteins was observed.
 The volume of distribution of dabigatran of 60–70 L exceeded the volume of total body water indicating moderate tissue distribution of dabigatran.
-Cmax and the area under the plasma concentration-time curve were dose proportional.
-Plasma concentrations of dabigatran showed a biexponential decline with a mean terminal half-life of 11 hours in healthy elderly subjects.
-After multiple doses a terminal half-life of about 12-14 hours was observed.
-The half-life was independent of dose.
-Half-life is prolonged if renal function is impaired as shown in table 9.
 
 Biotransformation
 
@@ -38,6 +35,13 @@ Four positional isomers, 1-O, 2-O, 3-O, 4-O-acylglucuronide exist, each accounts
 Traces of other metabolites were only detectable with highly sensitive analytical methods.
 Dabigatran is eliminated primarily in the unchanged form in the urine, at a rate of approximately 100 mL/min corresponding to the glomerular filtration rate.
 
+Elimination
+
+Plasma concentrations of dabigatran showed a biexponential decline with a mean terminal half-life of 11 hours in healthy elderly subjects.
+After multiple doses a terminal half-life of about 12-14 hours was observed.
+The half-life was independent of dose.
+Half-life is prolonged if renal function is impaired as shown in table 13.
+
 Special populations
 
 Renal insufficiency
@@ -45,7 +49,7 @@ In phase I studies the exposure (AUC) of dabigatran after the oral administratio
 
 In a small number of volunteers with severe renal insufficiency (CrCL 10-30 mL/min), the exposure (AUC) to dabigatran was approximately 6 times higher and the half-life approximately 2 times longer than that observed in a population without renal insufficiency (see sections 4.2, 4.3 and 4.4).
 
-Table 9: Half-life of total dabigatran in healthy subjects and subjects with impaired renal function.
+Table 13: Half-life of total dabigatran in healthy subjects and subjects with impaired renal function.
 
 | glomerular filtration rate (CrCL,) [mL/min] | gMean (gCV%; range) half-life [h] |
 | --- | --- |
@@ -60,7 +64,7 @@ This regimen resulted in a geometric mean trough concentration of 155 ng/ml (gCV
 Clearance of dabigatran by haemodialysis was investigated in 7 patients with end-stage renal disease (ESRD) without atrial fibrillation.
 Dialysis was conducted with 700 mL/min dialysate flow rate, four hour duration and a blood flow rate of either 200 mL/min or 350-390 mL/min.
 This resulted in a removal of 50 % to 60 % of dabigatran concentrations, respectively.
-The amount of drug cleared by dialysis is proportional to the blood flow rate up to a blood flow rate of 300 mL/min.
+The amount of substance cleared by dialysis is proportional to the blood flow rate up to a blood flow rate of 300 mL/min.
 The anticoagulant activity of dabigatran decreased with decreasing plasma concentrations and the PK/PD relationship was not affected by the procedure.
 
 Elderly patients
@@ -69,6 +73,7 @@ The effect by age on exposure to dabigatran was confirmed in the RE-LY study wit
 
 Hepatic impairment
 No change in dabigatran exposure was seen in 12 subjects with moderate hepatic insufficiency (Child Pugh B) compared to 12 controls (see sections 4.2 and 4.4).
+
 Body weight
 The dabigatran trough concentrations were about 20 % lower in patients with a body weight > 100 kg compared with 50-100 kg.
 The majority (80.8 %) of the subjects were in the ≥50 kg and < 100 kg category with no clear difference detected (see sections 4.2 and 4.4).
@@ -82,17 +87,14 @@ No clinically relevant inter-ethnic differences among Caucasian, African-America
 
 Pharmacokinetic interactions
 
-The pro-drug dabigatran etexilate but not dabigatran is a substrate of the efflux transporter P-gp.
-Therefore concomitant use of P-gp transporter inhibitors (amiodarone, verapamil, clarithromycin, quinidine, dronedarone , ticagrelor and ketoconazole) and inducers (rifampicin) had been investigated (see sections 4.2, 4.4 and 4.5).
-
 In vitro interaction studies did not show any inhibition or induction of the principal isoenzymes of cytochrome P450.
 This has been confirmed by in vivo studies with healthy volunteers, who did not show any interaction between this treatment and the following active substances: atorvastatin (CYP3A4), digoxin (P-gp transporter interaction) and diclofenac (CYP2C9).
 
 [Pradaxa 110 mg hard capsules]
 
-Half-life is prolonged if renal function is impaired as shown in table 21.
+Half-life is prolonged if renal function is impaired as shown in table 28.
 
-Table 21: Half-life of total dabigatran in healthy subjects and subjects with impaired renal function.
+Table 28: Half-life of total dabigatran in healthy subjects and subjects with impaired renal function.
 
 | glomerular filtration rate (CrCL,) [mL/min] | gMean (gCV %; range) half-life [h] |
 | --- | --- |
@@ -116,15 +118,13 @@ The median CrCL in the RE-MEDY and RE-SONATE studies were 99.0 mL/min and 99.7 m
 In atrial fibrillation patients females had on average 30 % higher trough and post-dose concentrations.
 No dose adjustment is required (see section 4.2).
 
-Therefore concomitant use of P-gp transporter inhibitors (amiodarone, verapamil, clarithromycin, quinidine, dronedarone, ticagrelor and ketoconazole) and inducers (rifampicin) had been investigated (see sections 4.2, 4.4 and 4.5).
-
 [Pradaxa 150 mg hard capsules]
 
 Peak plasma concentrations are reached at 6 hours following administration in a postoperative period due to contributing factors such as anaesthesia, GI paresis, and surgical effects independent of the oral medicinal product formulation.
 
-Half-life is prolonged if renal function is impaired as shown in table 17.
+Half-life is prolonged if renal function is impaired as shown in table 23.
 
-Table 17: Half-life of total dabigatran in healthy subjects and subjects with impaired renal function.
+Table 23: Half-life of total dabigatran in healthy subjects and subjects with impaired renal function.
 
 Patients with moderate renal impairment (CrCL between 30 and 50 mL/min) had on average 2.29-fold and 1.81-fold higher pre- and post-dose dabigatran plasma concentrations, respectively, when compared with patients without renal impairment (CrCL ≥80 mL/min).
 
