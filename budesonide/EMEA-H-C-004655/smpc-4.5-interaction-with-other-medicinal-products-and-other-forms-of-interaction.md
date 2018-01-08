@@ -1,0 +1,18 @@
+# 4.5 Interaction with other medicinal products and other forms of interaction
+
+CYP3A4 inhibitors
+Co-treatment with potent CYP3A inhibitors such as ketoconazole, ritonavir, itraconazole, clarithromycin, cobicistat and grapefruit juice may cause a marked increase of the plasma concentration of budesonide and is expected to increase the risk of systemic adverse reactions.
+Therefore, concomitant use should be avoided unless the benefit outweighs the increased risk of systemic corticosteroid side effects, in which case patients should be monitored for systemic corticosteroid side effects.
+
+Ketoconazole 200 mg once daily orally increased the plasma concentration of budesonide (3 mg single dose) approximately 6-fold during concomitant administration.
+When ketoconazole was administered approximately 12 hours after budesonide, the plasma concentration of budesonide increased approximately 3-fold.
+
+Oestrogens, oral contraceptives
+Elevated plasma concentrations and enhanced effects of glucocorticosteroids have been reported in women also receiving oestrogens or oral contraceptives.
+No such effect has been observed with budesonide and concomitant intake of low-dose combination oral contraceptives.
+
+Cardiac glycosides
+The action of glycoside can be potentiated by potassium deficiency which is a potential and known adverse reaction of glucocorticoids.
+
+Saluretics
+Concommitant use of glucocorticoids may result in enhanced potassium excretion and aggravated hypokalaemia.
