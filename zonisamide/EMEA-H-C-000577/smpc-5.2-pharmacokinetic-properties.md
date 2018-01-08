@@ -11,6 +11,7 @@ Zonisamide AUC and Cmax values increased almost linearly after single dose over 
 The increase at steady state was slightly more than expected on the basis of dose, probably due to the saturable binding of zonisamide to erythrocytes.
 Steady state was achieved within 13 days.
 Slightly greater than expected accumulation occurs relative to single dosing.
+
 Distribution
 
 Zonisamide is 40 - 50 % bound to human plasma proteins, with in vitro studies showing that this is unaffected by the presence of various antiepileptic medicinal products (i.e., phenytoin, phenobarbitone, carbamazepine, and sodium valproate).
@@ -46,7 +47,6 @@ Zonisamide lowers the 28-day average seizure frequency and the decrease is propo
 Special patient groups
 In subjects with renal impairment, renal clearance of single doses of zonisamide was positively correlated with creatinine clearance.
 The plasma AUC of zonisamide was increased by 35% in subjects with creatinine clearance <20 ml/min (see also section 4.2.).
-
 Patients with an impaired liver function: The pharmacokinetics of zonisamide in patients with impaired liver function have not been adequately studied.
 
 Elderly: No clinically significant differences were observed in the pharmacokinetics between young (aged 21-40 years) and elderly (65-75 years).

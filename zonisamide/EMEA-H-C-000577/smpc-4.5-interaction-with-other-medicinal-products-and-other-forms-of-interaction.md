@@ -38,6 +38,5 @@ Zonisamide is metabolised partly by CYP3A4 (reductive cleavage), and also by N-a
 
 (1200 mg/day) had no clinically relevant effects on the single-dose pharmacokinetics of zonisamide given to healthy subjects.
 Therefore, modification of Zonegran dosing should not be necessary when co-administered with known CYP3A4 inhibitors.
-
 Paediatric population
 Interaction studies have only been performed in adults.

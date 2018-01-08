@@ -14,6 +14,7 @@ The incidence of markedly abnormally low serum bicarbonate (a decrease to less t
 The incidence of marked decreases in weight of 20% or more was 0.7%.
 
 Tabulated list of adverse reactions
+
 Adverse reactions associated with Zonegran obtained from clinical studies and post-marketing surveillance are tabulated below.
 The frequencies are arranged according to the following scheme:
 
@@ -101,8 +102,20 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [Zonegran 25 mg orodispersible tablets]
 
-System Organ Class Very Common Common Uncommon
-(MedDRA terminology†)
+| System Organ Class (MedDRA terminology†) | Very Common | Common | Uncommon |
+| --- | --- | --- | --- |
+| Infections and infestation |  |  | Urinary tract infection Pneumonia |
+| Blood and lymphatic disorders |  |  | Leukopenia Thrombocytopenia |
+| Metabolism and nutrition disorders |  | Decreased appetite | Hypokalaemia |
+| Psychiatric Disorders |  | Agitation Depression Insomnia Mood swings Anxiety | Confusional state Acute psychosis Aggression Suicidal ideation Hallucination |
+| Nervous system disorders |  | Ataxia Dizziness Memory impairment Somnolence Bradyphrenia Disturbance in attention Paraesthesia | Nystagmus Speech disorder Tremor Convulsion |
+| Eye disorders |  | Diplopia | Angle closure glaucoma Eye pain Myopia Vision blurred Visual acuity reduced |
+| Respiratory, thoracic and mediastinal disorders |  |  | Respiratory disorder |
+| Gastrointestinal disorders |  | Constipation Diarrhoea Dyspepsia Nausea Vomiting | Abdominal pain |
+| Hepatobiliary disorders |  |  | Cholecystitis acute |
+| Skin and subcutaneous tissue disorders |  | Rash | Pruritus Ecchymosis |
+| General disorders and administration site conditions |  | Fatigue Pyrexia Irritability |  |
+| Investigations | Decreased bicarbonate | Weight decreased Blood creatinine phosphokinase increased Alanine aminotransferase increased Aspartate aminotransferase increased | Urine analysis abnormal |
 
 [Zonegran 50 mg orodispersible tablets]
 

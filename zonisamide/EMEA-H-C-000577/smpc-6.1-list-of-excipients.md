@@ -2,7 +2,7 @@
 
 Capsule contents
 Microcrystalline cellulose
-Hydrogenated vegetable oil
+Hydrogenated vegetable oil (from soyabean)
 Sodium laurilsulfate
 
 Capsule shells
@@ -39,4 +39,4 @@ Orange flavour
 
 [Zonegran 300 mg orodispersible tablets]
 
-Bovine gelatin
+(all sentences already above)

@@ -34,7 +34,6 @@ Recommended escalation and maintenance doses are given in Table 2.
 Some patients, especially those not taking CYP3A4-inducing agents, may respond to lower doses.
 
 Physicians should draw the attention of paediatric patients and their parents/carers to the Patient Alert Box (in the package leaflet) on preventing heatstroke (see section 4.4: Paediatric population).
-
 Table 2.
 Paediatric population (aged 6 years and above) – recommended dosage escalation and maintenance regimen
 
@@ -60,6 +59,7 @@ In these cases it is therefore recommended that the Zonegran total dose should b
 Withdrawal
 When Zonegran treatment is to be discontinued, it should be withdrawn gradually (see section 4.4).
 In clinical studies of paediatric patients, down-titration was completed by dose reductions at weekly intervals in increments of about 2 mg/kg (i.e. in accordance with the schedule in Table 3).
+
 Table 3.
 Paediatric population (aged 6 years and above) – recommended down-titration schedule
 
@@ -72,11 +72,11 @@ Paediatric population (aged 6 years and above) – recommended down-titration sc
 
 Note:
 * All doses are once daily.
-
 Elderly
 
 Caution should be exercised at initiation of treatment in elderly patients as there is limited information on the use of Zonegran in these patients.
 Prescribers should also take account of the safety profile of Zonegran (see section 4.8).
+
 Patients with renal impairment
 
 Caution must be exercised in treating patients with renal impairment, as there is limited information on use in such patients and a slower titration of Zonegran might be required.

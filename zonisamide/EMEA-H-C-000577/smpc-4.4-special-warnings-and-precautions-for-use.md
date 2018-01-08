@@ -17,6 +17,7 @@ Sulphonamide reactions
 
 Zonegran is a benzisoxazole derivative, which contains a sulphonamide group.
 Serious immune based adverse reactions that are associated with medicinal products containing a sulphonamide group include rash, allergic reaction and major haematological disturbances, including aplastic anaemia, which very rarely can be fatal.
+
 Cases of agranulocytosis, thrombocytopenia, leukopenia, aplastic anaemia, pancytopenia and leucocytosis have been reported.
 There is inadequate information to assess the relationship, if any, between dose and duration of treatment and these events.
 
@@ -57,6 +58,7 @@ Such electrolyte imbalance has been observed with the use of Zonegran in placebo
 Generally, zonisamide-induced metabolic acidosis occurs early in treatment although cases can occur at any time during treatment.
 The amounts by which bicarbonate is decreased are usually small – moderate (average decrease of approximately 3.5 mEq/l at daily doses of 300 mg in adults); rarely patients can experience more severe decreases.
 Conditions or therapies that predispose to acidosis (such as renal disease, severe respiratory disorders, status epilepticus, diarrhoea, surgery, ketogenic diet, or medicinal products) may be additive to the bicarbonate lowering effects of zonisamide.
+
 The risk of zonisamide induced metabolic acidosis appears to be more frequent and severe in younger patients.
 Appropriate evaluation and monitoring of serum bicarbonate levels should be carried out in patients taking zonisamide who have underlying conditions which might increase the risk of acidosis, in patients who are at an increased risk of adverse consequences of metabolic acidosis and in patients with symptoms suggestive of metabolic acidosis.
 If metabolic acidosis develops and persists, consideration should be given to reducing the dose or discontinuing Zonegran (by gradual discontinuation or reduction of a therapeutic dose) as osteopenia may develop.
@@ -81,8 +83,11 @@ If elevated, in the absence of another obvious cause such as trauma or grand mal
 
 Women of childbearing potential
 
-Women of childbearing potential have to use effective contraception during treatment with Zonegran and for one month after discontinuation (see section 4.6).
-Physicians treating patients with Zonegran should try to ensure that appropriate contraception is used, and should use clinical judgement when assessing whether oral contraceptives (OCs), or the doses of the OC components, are adequate based on the individual patient’s clinical situation.
+Women of childbearing potential must use effective contraception during treatment with Zonegran and for one month after discontinuation (see section 4.6).
+Zonegran must not be used in women of childbearing potential not using effective contraception unless clearly necessary and only if the potential benefit is considered to justify the risk to the foetus.
+Specialist advice should be given to women who are of childbearing potential regarding the possible effects of Zonegran on the foetus and these risks should be discussed with the patient in relation to the benefits before starting treatment.
+Women planning a pregnancy should meet with their specialists to reassess treatment with Zonegran and to consider other therapeutic options.
+Physicians treating patients with Zonegran should ensure that patients are fully informed about the need to use appropriate effective contraception, and should use clinical judgement when assessing whether oral contraceptives (OCs), or the doses of the OC components, are adequate based on the individual patient’s clinical situation.
 
 Body weight
 
@@ -96,6 +101,7 @@ Paediatric population
 
 The warnings and precautions mentioned above are also applicable to adolescent and paediatric patients.
 The warnings and precautions mentioned below are more relevant to paediatric and adolescent patients.
+
 Heat stroke and dehydration
 Preventing overheating and dehydration in children
 
@@ -128,7 +134,6 @@ Prescribers should draw the attention of paediatric patients and their parent/ c
 In the event of signs or symptoms of dehydration, oligohydrosis, or elevated body temperature, discontinuation of Zonegran should be considered.
 
 Zonegran should not be used as co-medication in paediatric patients with other medicinal products that predispose patients to heat related disorders; these include carbonic anhydrase inhibitors and medicinal products with anticholinergic activity.
-
 Body weight
 Weight loss leading to deterioration of general condition and failure to take anti-epilepsy medication has been related to a fatal outcome (see section 4.8).
 Zonegran is not recommended for paediatric patients who are underweight (definition in accordance with the WHO age adjusted BMI categories) or have a decreased appetite.
@@ -139,6 +144,7 @@ A dietary supplement or increased food intake should be considered if the patien
 There are limited data from clinical studies in patients with a body weight of less than 20 kg.
 Therefore children aged 6 years and above with a body weight of less than 20 kg should be treated with caution.
 The long term effect of weight loss in the paediatric population on growth and development is unknown.
+
 Metabolic acidosis
 The risk of zonisamide induced metabolic acidosis appears to be more frequent and severe in paediatric and adolescent patients.
 Appropriate evaluation and monitoring of serum bicarbonate levels should be carried out in this population (see section 4.4 - Metabolic acidosis for full warning; see section 4.8 for incidence of low bicarbonate).
