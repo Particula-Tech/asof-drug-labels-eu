@@ -69,7 +69,7 @@ Each of the capsules is loaded into the device separately.
 The contents of the capsules are inhaled via the inhaler device with one or two breaths.
 After inhalation, each empty capsule is discarded before inserting the next capsule into the inhaler device with as little delay as possible between capsules.
 The inhaler device is to be replaced after one week of use.
-If the inhaler does require cleaning, it must be ensured that the device is empty, then it should be washed in warm water and before re-use, the inhaler should be allowed to thoroughly air dry.
+If the inhaler does require cleaning, it must be ensured that the device is empty, then it should be washed in warm water and before re-use,the inhaler should be allowed to thoroughly air dry.
 
 Detailed instructions on how to use the inhaler can be found in the patient information leaflet.
 Patients should be advised to carefully read them.
