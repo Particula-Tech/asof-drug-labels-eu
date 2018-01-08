@@ -14,13 +14,13 @@ Adverse reactions classified by system organ class and MedDRA preferred terms re
 The adverse reactions are listed by absolute frequency.
 Frequencies are defined as very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), or very rare (<1/10,000), and not known (cannot be estimated from the available data).
 
-Table 1: Tabulated list of adverse reactions (MedDRA) from reported placebo-controlled studies and from post marketing experience
+Table 1: Tabulated list of adverse reactions (MedDRA) from reported placebo-controlled studies and from post-marketing experience
 
 | System organ class | Very common | Common | Uncommon | Rare | Not known |
 | --- | --- | --- | --- | --- | --- |
-| Infections and infestations |  | Vaginal moniliasis, vulvovaginitis, balanitis and other genital infectiona Urinary tract infectiona |  |  |  |
+| Infections and infestations |  | Vaginal moniliasis, vulvovaginitis, balanitis and other genital infectiona Urinary tract infection (including pyelonephritis and urosepsis)a |  |  |  |
 | Metabolism and nutrition disorders | Hypoglycaemia (when used with sulphonylurea or insulin)a | Thirst |  | Diabetic ketoacidosis* |  |
-| Skin and subcutaneous disorders |  | Pruritus (generalised) Rash | Urticaria |  | Angioedema |
+| Skin and subcutaneous tissue disorders |  | Pruritus (generalised) Rash | Urticaria |  | Angioedema |
 | Vascular disorders |  |  | Volume depletiona |  |  |
 | Renal and urinary disorders |  | Increased urinationa | Dysuria |  |  |
 | Investigations |  | Serum lipids increasedb | Blood creatinine increased/ Glomerular filtration rate decreaseda Haematocrit increasedc |  |  |
@@ -63,6 +63,7 @@ The frequency of volume depletion events was increased in patients 75 years and 
 Blood creatinine increased/Glomerular filtration rate decreased
 The overall frequency of patients with increased blood creatinine and decreased glomerular filtration rate were similar between empagliflozin and placebo (blood creatinine increased: empagliflozin 10 mg 0.6%, empagliflozin 25 mg 0.1%, placebo 0.5%; glomerular filtration rate decreased: empagliflozin 10 mg 0.1%, empagliflozin 25 mg 0%, placebo 0.3%).
 Initial increases in creatinine and initial decreases in estimated glomerular filtration rates in patients treated with empagliflozin were generally transient during continuous treatment or reversible after drug discontinuation of treatment.
+
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

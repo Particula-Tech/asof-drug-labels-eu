@@ -64,8 +64,8 @@ Temporary interruption of treatment with empagliflozin should be considered unti
 
 Urinary tract infections
 In a pool of placebo-controlled double-blind trials of 18 to 24 weeks duration, the overall frequency of urinary tract infection reported as adverse event was similar in patients treated with empagliflozin 25 mg and placebo and higher in patients treated with empagliflozin 10 mg (see section 4.8).
-Complicated urinary tract infections (including serious urinary tract infections, pyelonephritis or urosepsis) occurred at a similar frequency in patients treated with empagliflozin compared to placebo.
-However, temporary interruption of empagliflozin should be considered in patients with complicated urinary tract infections.
+Post-marketing cases of complicated urinary tract infections including pyelonephritis and urosepsis have been reported in patients treated with empagliflozin.
+Temporary interruption of empagliflozin should be considered in patients with complicated urinary tract infections.
 
 Lower limb amputations
 An increase in cases of lower limb amputation (primarily of the toe) has been observed in ongoing long-term clinical studies with another SGLT2 inhibitor.

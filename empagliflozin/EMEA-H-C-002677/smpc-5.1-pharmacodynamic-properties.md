@@ -361,7 +361,7 @@ Table 10:Treatment effect for the primary composite endpoint, its components and
 |  | Placebo | Empagliflozinb |
 | --- | --- | --- |
 | N | 2333 | 4687 |
-| Time to first event of CV death, non-fatal MI, or non-fatal stroke) N (%) | 282 (12.1) | 490 (10.5) |
+| Time to first event of CV death, non-fatal MI, or non-fatal stroke N (%) | 282 (12.1) | 490 (10.5) |
 | Hazard ratio vs. placebo (95.02% CI)* |  | 0.86 (0.74, 0.99) |
 | p−value for superiority |  | 0.0382 |
 | CV Death N (%) | 137 (5.9) | 172 (3.7) |

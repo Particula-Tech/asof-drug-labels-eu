@@ -58,4 +58,5 @@ Elderly
 Age did not have a clinically meaningful impact on the pharmacokinetics of empagliflozin based on the population pharmacokinetic analysis.
 
 Paediatric population
-Studies characterising the pharmacokinetics of empagliflozin in paediatric patients have not been performed.
+A paediatric Phase 1 study examined the pharmacokinetics and pharmacodynamics of empagliflozin (5 mg, 10 mg and 25 mg) in children and adolescents ≥10 to <18 years of age with type 2 diabetes mellitus.
+The observed pharmacokinetic and pharmacodynamic responses were consistent with those found in adult subjects.
