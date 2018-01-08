@@ -1,0 +1,16 @@
+{
+  "active_substance": "Letermovir",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/004536",
+  "eu_number": "EU/1/17/1245",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2018-01-08",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/prevymis",
+  "molecule": "letermovir",
+  "molecule_name": "LETERMOVIR",
+  "name": "Prevymis",
+  "register_name": "PREVYMIS",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h1245.htm"
+}
