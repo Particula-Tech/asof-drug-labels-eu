@@ -50,7 +50,7 @@ There are limited data in patients with moderate hepatic impairment and no data 
 IVEMEND should be used with caution in these patients (see sections 4.4 and 5.2).
 Paediatric population
 The safety and efficacy of IVEMEND in children and adolescents below 18 years of age has not yet been established.
-No data are available.
+Currently available data are described in sections 5.1 and 5.2, but no recommendation on a posology can be made.
 
 Method of administration
 IVEMEND 150 mg should be administered intravenously and should not be given by the intramuscular or subcutaneous route.

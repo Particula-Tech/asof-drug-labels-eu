@@ -1,7 +1,6 @@
 # 6.6 Special precautions for disposal and other handling
 
 IVEMEND must be reconstituted and then diluted prior to administration.
-
 Preparation of IVEMEND 150 mg for intravenous administration:
 
 1.
@@ -20,6 +19,7 @@ Gently invert the bag 2-3 times.
 The medicinal product must not be reconstituted or mixed with solutions for which physical and chemical compatibility has not been established (see section 6.2).
 
 The appearance of the reconstituted solution is the same as the appearance of the diluent.
+
 The reconstituted and diluted medicinal product should be inspected visually for particulate matter and discoloration before administration.
 
 No special requirements for disposal.
